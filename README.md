@@ -15,30 +15,35 @@ Special Thanks: [gfSpinePiXi](https://github.com/cullus/gfSpinePiXi), [DDBase](h
         자세한건 [girlsfrontline-core](https://github.com/36base/girlsfrontline-core#main)에서 확인해주세요. 인게임 리소스의 한문 category/type 및 다른 부분을 영어로 1:1 대응시킵니다.
 
     * images/fairy
-        > `.png`
+        > `[name]_[star].png`
+
+        1단계, 2단계, 3단계별로 1,2,3이 붙습니다.
+
+    * images/fairy/battle
+        > `[name]_[star].png`
+        
+        전투에서만 사용하는 작은 일러입니다. 36Base에서는 미사용
 
     * images/gift
         > `.png`
     
     * images/guns
-        > `[id]_(skinId/U)_(D).png`
+        > `[id]_(skinId)_(D).png`
 
         key | info
         ---|---
         id | 인형 도감번호
         skinId | 인형 스킨의 출시 순번. 1부터 시작
-        U | 개장 인형
-        D | 중상 일러스트
+        D | 중상 일러스트 여부
 
     * image/portraits
-        > `[id]_(U).png`
+        > `[id].png`
 
         key | info
         ---|---
         id | 인형 도감번호
-        U | 개장 인형
 
-        **스킨 포트레이트 이미지는 사용하지 않습니다..**
+        **스킨 포트레이트 이미지는 사용하지 않습니다.**
 
     * image/skill
         > `[skillName].png`
