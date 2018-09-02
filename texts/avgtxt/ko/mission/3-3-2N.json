@@ -1,0 +1,294 @@
+[
+  {
+    "background": {
+      "id": 4,
+      "isNight": true
+    },
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "text": "......나강 리볼버가 있는 창고에 진입."
+  },
+  {
+    "characters": [
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "마카로프"
+    },
+    "text": "창고 진입 완료, 목표 수색 준비."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK47",
+        "face": 0
+      }
+    ],
+    "text": "찾았어, 여기야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M1895",
+        "face": 1
+      }
+    ],
+    "text": "으으......+AK......47?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK47",
+        "face": 0
+      },
+      {
+        "name": "M1895",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "어? 의식이 있나보네, 이게 몇이야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK47",
+        "face": 0
+      },
+      {
+        "name": "M1895",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "손을 그렇게 흔들면 누가 셀 수 있겠느냐, 아무것도 안보이니라!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK47",
+        "face": 0
+      },
+      {
+        "name": "M1895",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "마카로프, 꼬맹이 찾았어!+그런데 눈이랑 머리가 고장난 것 같은데, 어떻게 할까?!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "AK47",
+        "face": 0
+      },
+      {
+        "name": "M1895",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "뭬야! 이몸은 그저 잠깐 잤을 뿐이고, 몸은 멀쩡하느니라!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se2": "Alarm"
+    },
+    "text": "...!!"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Battle"
+    },
+    "characters": [
+      {
+        "name": "SKS",
+        "face": 0
+      }
+    ],
+    "text": "이 소리는......"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK47",
+        "face": 0
+      }
+    ],
+    "text": "어? 철혈이 이렇게 빨리 우리를 발견했다고?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "마카로프"
+    },
+    "text": "아마 그냥 근처에서 수색 중인 것뿐일 거야, 아직 우리가 어디에 있는지는 모르고."
+  },
+  {
+    "background": {
+      "id": 4,
+      "isNight": true
+    },
+    "screenEffect": "dark2",
+    "text": "......중형 기갑이 다가오는 소리가 들렸다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M1895",
+        "face": 1
+      }
+    ],
+    "text": "우라질, 적기갑이 이미 창고에 들어왔다네, 나갈 수가 없느니라!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK47",
+        "face": 0
+      },
+      {
+        "name": "M1895",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "나랑 시모노프가 화력으로 유도할게, 마카로프, 꼬맹이를 데리고 도망쳐!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK47",
+        "face": 0
+      },
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "마카로프"
+    },
+    "text": "너희 둘, 이럴 때 영웅놀이라도 하고 싶은 거야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK47",
+        "face": 0
+      },
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "영웅엔 별로 관심 없지만, 주머니에 손 넣고 지켜보기만 하는건 못하겠거든."
+  },
+  {
+    "characters": [
+      {
+        "name": "SKS",
+        "face": 0
+      },
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "죄책감이 든다면 일지에 우리 좀 멋지게 써달라고."
+  },
+  {
+    "characters": [
+      {
+        "name": "SKS",
+        "face": 0
+      },
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "마카로프"
+    },
+    "text": "......"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "마카로프"
+    },
+    "text": "난 그 성조기 인형들처럼 일을 부풀릴 생각은 없어.+뭐, 거짓말에도 소질이 없지.+일지 그런건 너희들이 돌아가서 직접 날조하도록 해."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se1": "Explode"
+    },
+    "text": "...!!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SKS"
+      }
+    ],
+    "text": "그......그 폭발은......"
+  },
+  {
+    "characters": [
+      {
+        "name": "마카로프"
+      }
+    ],
+    "text": "......우리의 마지막 행운이야, 기회를 붙잡으라고."
+  }
+]

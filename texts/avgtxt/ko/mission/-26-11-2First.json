@@ -1,0 +1,792 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    }
+  },
+  {
+    "background": {
+      "id": 46
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "text": "중화기부대의 도움으로 HK416의 부대가 신속하게 군의 정찰 거점을 점령했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "적은 모두 섬멸했어, 416. 아직도 뭘 찾고 있어? 빨리 지휘관한테 보고해야 하잖아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "아직이야, 아직 살아있는 인간의 신호가 몇 개 잡혀."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그럼 감염자겠지. 여기에 살아 있던 건 다 비무장한 후방인원이잖아. 나머지는 감염자에게 당했거나 도망쳤고."
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "방심해선 안 돼. 단 한 명의 적도 남겨서는 안 돼, 그게 무엇이든...+... 바로 이 문 뒤야."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "blackSpot2",
+    "text": "모두 의료실 앞에 다가갔다. 안에서 낮은 신음 소리와 부스럭하는 소리가 들려왔다."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "확실히 방 안에 누군가 있어, 하지만 위치로 봐선 경계 중인 적은 아닌 것 같아."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "감염자일 수도 있어."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "아무튼, 반항할 수 없는 인간을 공격할 수는 없어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그건 네가 정하는 게 아니야, 우리의 눈이 검지보다 빠르길 빌어야지.+준비해, 셋까지 세고 진입한다. 셋...+둘...+하나..."
+  },
+  {
+    "text": "쾅! HK416이 발로 문을 차 열었다."
+  },
+  {
+    "background": {
+      "id": 160,
+      "isNight": true
+    },
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": "감염자"
+      }
+    ],
+    "text": "으어어어어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "감염자다!"
+  },
+  {
+    "sound": {
+      "se2": "Gunkill"
+    },
+    "text": "타탕!+HK416과 SOP2가 감염자를 처치했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "역시나..."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "416, 저 구석에..."
+  },
+  {
+    "text": "HK416이 방구석을 보자 그곳에 겁에 질린 인간 몇 명이 웅크리고 있었다."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "인간 여성"
+    },
+    "text": "살려주세요... 전 그냥 의사예요... 제발 살려주... 콜록..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "416, 심하지는 않지만 이 사람 감염됐어."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "인간 남성"
+    },
+    "text": "전... 콜록... 그저 이 사람들을 구하려고... 콜록..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그 누구도 구하지 못할 거야. SOP2, 다 포박하고 후퇴하자."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "HK416은 지휘관에게 연락했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "지휘관님, 거점 점령 성공했습니다, 이제..."
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "...네? 안젤리아가 들킨 것 같다고요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "잠깐, 그럴 리가..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "지휘관님의 말로는, 예고르의 부대가... 안젤리아가 우리와 같이 있는 것을 보지 못한 것으로 보인대."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그럼 어떡해? 군이 빌딩에 들어가면 모두 헛수고가 되잖아, 그리고 빨리 돌아가지 않으면..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "군의 정찰대는 아직 빌딩에 들어가지 않았어, 추격하는 동시에 아마 우리를 관찰하고 있겠지. 육안관측으로 안젤리아가 우리와 함께 있는지 확인하기 위해서 말이야."
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "저들을 속일 수는 없을까... 지휘관님, 어쩌면 좋을까요? 지금 바로 빌딩으로 돌아가 안젤리아를 도우러 갈까요?"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "blackSpot2",
+    "text": "화상통신 화면 속 HK416의 뒤에서 SOP2가 군의 종군의사를 포박하고 있었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "<color=#00CCFF>416, 여기 아드레날린이 좀 있어! 안젤리아에게 도움이 될지도 몰라!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>다 챙겨. 정말 방법이 없다면 빨리 돌아가야 합니다, 지휘관님.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ]
+  },
+  {
+    "characters": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "음...<c>쓸만한 것 없는가?<c>좀 흐릿한 모습이면 속일 수 있을까?<c>의료실에 색칠할만한 물건이 있는가?"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>쓸만한 것이요></color>+<color=#00CCFF>지휘관님... 어딜 보시는 거죠? 저 인간들이요? 아무래도 인형은 해내지 못할 발상 같군요.</color>"
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>거리만 충분하다면 가능하겠죠, 제가 조절할 수 있습니다.</color>+<color=#00CCFF>지휘관님, 뭔가 떠오르셨나요?</color>"
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>색칠이요...? 거기 인간, 여기 염색약 같은 거 없어?</color>"
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "인간 여성"
+      }
+    ],
+    "text": "있어요... 위장크림이지만..."
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>들리시죠, 하지만 그것으로 어떻게 할 셈입니까?</color>"
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "text": "... 지휘관이 한 가지 방법을 말했다."
+  },
+  {
+    "background": {
+      "id": 160,
+      "isNight": true
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "416, 방법 있어? 곧 군이 쫓아올 거야! 이제 어떻게 해, 우리가 안젤리아를 만들어 낼 수도 없잖아!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "RO...+... 왜 못 만든다고 생각해?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "RO635"
+    },
+    "text": "416? 지휘관이 뭐라고 말했어? 어떻게 하면 되는데?"
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "내가 404에서 알게 된 일은 딱 하나뿐이야. 리스크 없이 보답을 바랄 순 없다고. 임무를 위해서라면 뭐든지 하겠어.+그럼, 이제 한 가지 게임을 해보자."
+  },
+  {
+    "background": {
+      "id": 46
+    },
+    "screenEffect": "blackSpot2",
+    "text": "이때, 안젤리아가 지휘관에게 연락했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "지휘관, 나 말이야...+미안, 아무런 방법도 못 찾겠어...+예고르의 목표는 나뿐이야, 내가 빌딩을 나가려고만 하면 분명 이쪽으로 주의가 몰리겠지. 이미 이 빌딩에 문제가 있는 걸 눈치를 챘고 말이야."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "AN94",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AN94"
+    },
+    "text": "안젤리아, 포기하기는 이릅니다, 아직 저들의 정찰대가 다른 행동을 보이진 않고 있습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "이젠 진짜 아무 수도 없어... 그저 나 하나만을 위해서라면, 모두가 살 방법이 도저히 떠오르지 않아...+지휘관, 넌 이미 최선을 다했어, 그리고 나도 할 말을 다 했고, 이제 슬슬..."
+  },
+  {
+    "characters": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "안젤리아...<c>내게 맡긴 임무를 실패하게 할 셈인가?<c>리벨리온을 버릴 생각인가?<c>지금 항복하기에는 아직 생각할 시간이 있다."
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "누구든지 실패는 겪는 법이야. 그리고 자책할 필요는 없어, 넌 충분히 잘했어, 그저 내 탓에..."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "이 둘은 빠져나갈 수 있어, 예고르는 인형을 노리지는 않을 거야, 다만 난..."
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "너희도 그리 오래 군을 상대할 수는 없어, 이제 여기서 끝이라고 생각해. 그러니까 그만..."
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "대체 무슨 말이에요, 안젤리아?+당신이 포기하면, 저희는 어떡하라고요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "지휘관이 너희를 돌봐줄 거야, 너희의 실력을 더 멋지게 발휘할 전장이 있을 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      },
+      {
+        "name": "AN94",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AN94"
+    },
+    "text": "하지만, 지금 저희의 임무는 당신을 보호하는 겁니다. 만약 실패하면 저희는..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "AN94",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "아주 속상하겠지, 그런 건 마인드맵만 지우면..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "AR팀에게 했던 것처럼요? 또 SOP2의 기억을 지울 셈인가요?+모두의 기억 속에서 사라지려고 또 몇 번을 죽을 생각이에요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "...+시간이 없어, 빨리 떠나.+이번 싸움의 자료와 화력지원소대를 가지고 돌아가서, 내 복수를 해줘..."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "...뭐라고? 지휘관? 지금... 뭐라고...?+... 방법이 있어?"
+  }
+]

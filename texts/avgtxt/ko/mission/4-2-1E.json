@@ -1,0 +1,231 @@
+[
+  {
+    "background": {
+      "id": 4
+    },
+    "sound": {
+      "bgm": "BGM_Sunshine"
+    },
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "안녕하세요. 지휘관. 다음 좌표를 표시하겠습니다.+정보에 따르면 이곳엔 여전히 철혈의 더미가 대량으로 남아있는 것 같네요.+(웃음) 지휘관, 까다로울 것 같나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "뭐 어쩔 수 없잖아, 이게 전쟁이니까.+War! War never changes!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "갑자기 뒤에서 툭 튀어나오지좀 마요. SOPII."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "헤헤, 이건 임기응변 훈련이라고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "정말이지...카리나 씨 쪽에서 듣고 왔나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "응, 카리나 씨는 아직 보고를 해야 한다면서 나보고 와보랬어."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "지휘관 뿐만 아니라, 카리나 씨도 이렇게 우리를 신경써줘서 정말 다행이네요."
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그러면 다음 좌표는 어디야?"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "좌표는 바로 이곳입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "오오! 여기구나! 어디 내가 좀 봐야..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "오...올라타지 마세요. SOPII! 무거워요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "아! 나 여기 알아, 철혈 보스의 더미랑 만난 적도 있다고! 그리고..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "말 할 필요 없어요. 그 뒤가 상상이 가니까요..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "지휘관, 이곳의 철혈 비콘을 파괴해주세요. 그 뒤에 우리가 전리품을 회수하겠습니다."
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "background": {
+      "id": 3,
+      "isNight": true
+    },
+    "sound": {
+      "bgm": "BGM_Danger",
+      "se2": "Gunfight"
+    },
+    "text": "우로보로스의 지휘 거점에 처음으로 습격을 가했다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "Weaver",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "우로보로스"
+    },
+    "text": "드디어 나타났군...+하지만, 공격 전술이 너무 조심스러운걸.+너희의 속셈은 알고 있다, 그럼에도 내가 크게 신경쓰지 않는다는 걸 너희 역시 알고 있겠지."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "우로보로스"
+      }
+    ],
+    "text": "그 누구도, 여기서 도망치지 못할 테니까! 그 누구도!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "SR3MP",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "M4, 누구를 보낼지 정했어?+저 녀석은 이미 눈이 돌아갔어. 이대로라면 나도 얼마 못 버텨."
+  },
+  {
+    "characters": [
+      {
+        "name": "M99",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "M4 씨. 제가 말했듯이, 지금 여기선 당신이 가장 적당한 사람이에요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "가장 적당한 사람이라...+또다시, 저만이 할 수 있는 일인가요...?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M99",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "M4 씨, 이렇게 된 이상..."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "괜찮아요, 저도 알아요. 여러분은 제가 살아남길 바라죠..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "하지만 제 목표는 살아남는 게 아니에요...+...전 승리하겠어요."
+  }
+]

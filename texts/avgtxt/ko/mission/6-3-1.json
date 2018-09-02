@@ -1,0 +1,41 @@
+[
+  {
+    "background": {
+      "id": 8
+    },
+    "text": "............수십 분 후, 그리폰 S08구역 지휘실."
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "지휘관. 현재 상황은 방금 내가 말한 대로야.+현지 보스가 네게브의 수색소대를 포위했어.+M4와 SOPII가 도와주러 갔지만 오래 버티지는 못해.+구역 안에서는 통신이 차단당했어, 강행돌파도 해봄 직은 하지만 더 안전한 방법이 있지."
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "이곳에 철혈 지휘실이 하나 있는데 철혈의 일부 유닛들을 관리하고 있는 모양이야.+다행스럽게도 그 부근에선 통신이 정상이니 제대를 지휘해서 그곳을 점령하는 거야.+그리고 그걸 이용해서 적당히 난리를 피워주면, 아마 M4쪽의 압력을 확 줄일 수 있을걸.+이상이야, 지휘관. 해볼만 하다 싶으면 바로 출발하자고."
+  }
+]

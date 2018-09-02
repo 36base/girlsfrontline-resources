@@ -1,0 +1,192 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 161
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "se2": "Alarm"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "오염폭탄 폭발 1시간 전, 그리폰 임시 거점."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Danger"
+    },
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "인형 전원! 내 명령에 주목!+군의 부대가 이미 지휘부의 외곽 방어선을 돌파하여, 인형 전원은 예정 계획대로 뒤로 후퇴!+9A91, 톰슨, 너희 소대는 수비거점을 사수하여, 다른 인형들이 안전히 철수할 수 있도록 해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "9A91",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "9A91"
+    },
+    "text": "<color=#00CCFF>지휘관님은 어디 계시나요? 명령이 없으면 유효한 반격을 조직할 수 없어요.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 4
+      },
+      {
+        "name": "9A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "지휘관님은 아직 작전을 조율 중이라서, 자리를 비울 수가 없어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 4
+      },
+      {
+        "name": "M1928A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "톰슨"
+    },
+    "text": "<color=#00CCFF>상대는 정규군이야, 보스 없이 오래 버티진 못 해!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "아아아아 몰라! 그럼 내가 해볼게!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "9A91",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "9A91"
+    },
+    "text": "<color=#00CCFF>카리나 씨가요?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 4
+      },
+      {
+        "name": "9A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "나도 지휘관님한테서 전술과 지휘를 배워왔다고. 경험은 얼마 없지만, 너희 작전효율을 높일 수는 있겠지!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "9A91",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "9A91"
+    },
+    "text": "<color=#00CCFF>그거면 충분해요, 카리나 씨.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "톰슨"
+    },
+    "text": "<color=#00CCFF>그럼 부탁하지.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "그리폰을 위해, 다른 동료들을 위해, 출발!"
+  }
+]

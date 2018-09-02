@@ -1,0 +1,139 @@
+[
+  {
+    "background": {
+      "id": 3
+    },
+    "sound": {
+      "bgm": "BGM_Battle"
+    },
+    "text": "수색 중......"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "BOSS-3",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헌터"
+    },
+    "text": "흥. 정말로 나타났군, M4A1."
+  },
+  {
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "누군가가 채널에 침입했습니다. 이 목소리는......"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "이 목소리는, 헌터! 그때 그 철혈이야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-3",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헌터"
+    },
+    "text": "흐응? 그때 그 꼬맹이도 있었나?+어쨌든, 너희들도 대충 알겠지만 AR-15는 이미 우리들 손에 있다."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-3",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "이 망할 자식! 마지막 발악이라도 하는 거냐!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "BOSS-3",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헌터"
+    },
+    "text": "흥, 정확히 말하자면, 이게 본래의 사냥 계획중 하나라고 해야겠지.+어차피 지금으로선 그리폰이 여기를 함락시킬 수도 없으니 이렇게 대치해봤자 쓸모 없어.+M4A1, 무기를 버리고 투항하면 AR-15를 돌려주겠다.+지금 증거를 보여주지......"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "text": "......삑."
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15"
+      }
+    ],
+    "text": "하면 안 돼, M4! 전부 나 혼자서!!!"
+  },
+  {
+    "text": "......삑."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "BOSS-3",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헌터"
+    },
+    "text": "그녀의 말은 결국 너를 내가 예상했던 방향으로 이끌겠지.+그리폰이 도울 수 있을 거란 생각은 말도록 해, 그들은 내 지휘실에 손도 못 댈 테니까.+빨리 결정하는게 좋을거야, 그리폰이 남겨둔 시간은 많지 않으니."
+  }
+]

@@ -1,0 +1,657 @@
+[
+  {
+    "background": {
+      "id": 8,
+      "isNight": true
+    },
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "......M16이 세이프하우스에 도착했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "............+분명 정보를 교환할 시간인데 사람이 없다라......+정보는 뭐 서류함에 있군, 어디 한 번 볼까......"
+  },
+  {
+    "text": "콰당......!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "누구야?!+............+구석에 튀어나와 있는건......\"토끼귀\"?+아니야, 머리를 묶은 두건인가?"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "text": "M16A1이 조심스럽게 다가간다......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16"
+      }
+    ],
+    "text": "잡았다!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "??"
+      }
+    ],
+    "text": "으아앗...!!!!+쏘지마세요! 쏘지마세요!! 아군입니다!"
+  },
+  {
+    "background": {
+      "id": 8,
+      "isNight": true
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Sunshine"
+    },
+    "characters": [
+      {
+        "name": "AAT52",
+        "face": 0
+      }
+    ],
+    "text": "우.............+아프다구요! 왜 다들 내 머리만 보면 못 잡아당겨서 안달인지!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "AAT52",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "AAT52......+어째서 너같은 인형이 이곳에 있는 거지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "AAT52",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "하, 제 마음입니다만? 귀여운 아이돌이 위문공연 순회차 왔다고 치면 안 되나요?+그리고! 너같은 인형이 뭡니까! 전 여기에 고급임무를 수행하러 왔다고요!+AR팀만 잘났다고 착각하지 마세요. 우리도 지지 않을테니까!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "AAT52",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "............+네가 RO의 그 소대?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "AAT52",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "어? 이미 알고 계셨나요......+맞습니다. 저희가 바로 '팔레트'소대, 전 소대장님의 명령을 받아 협력하러 왔습니다!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "AAT52",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "\"팔레트\"? 무슨 이름이 그러냐......+그런데, 우리한테 협력하러 왔다면서 숨기는 왜 숨어."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "AAT52",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "무......무서워서요......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "AAT52",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "무서워?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "AAT52",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "아까 얼굴을 제대로 못봤었는데, 검은 머리를 보고선 그녀석이 돌아온줄 알았다고요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "AAT52",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "그녀석? 그녀석이 누군데?"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Boss"
+    },
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "AAT52",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "당연히 드리머죠!+요즘 드리머는 어디서든 나타난다고요. 다음에 어디서 나올지 전혀 예측을 못하겠어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "AAT52",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "............+이 괴물 자식, 또 뭘 꾸미는 거야......"
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "text": "............갑자기, 멀리서 다수의 엔진이 시동걸리는 소리가 들려온다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AAT52",
+        "face": 0
+      }
+    ],
+    "text": "엎드리세요!!!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "......?!"
+  },
+  {
+    "background": {
+      "id": 41
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "se1": "Explode"
+    },
+    "text": "............쾅!!+멀리에 있는 건물 하나가 순식간에 무너져 내렸다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "잠깐만, 저게 뭐야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AAT52",
+        "face": 0
+      }
+    ],
+    "text": "그 마녀 짓이죠!+바로 대형 포대로 05구역의 설비를 폭격하는 거예요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "이봐, 여기는 지금 철혈의 점령지라고! 자기 구역을 부수는게 무슨 소용이라고?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AAT52",
+        "face": 0
+      },
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "제가 알아요? 그냥 미친 걸수도 있죠!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AAT52",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 5,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "M16! AAT! 괜찮아?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "아......우린 멀쩡해, 꽤 먼 곳에 떨어진 포격이었어."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "M16, 침착하고 내 말을 들어......+포격이 떨어진 장소는, SOPII가 도달한 거점이야."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "...뭐?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AAT52"
+      }
+    ],
+    "text": "잠깐잠깐! 그럼 스텐은?+그녀는 어떻게 됐죠!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "아직 연락이 되지는 않지만, 그 거점엔 방공호가 있으니 걱정하지 않아도 돼."
+  },
+  {
+    "characters": [
+      {
+        "name": "AAT52"
+      }
+    ],
+    "text": "그럼 이번의 포격은....설마 저번처럼?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "그래, 그냥 눈속임일 뿐이야. 교활한 녀석이야......+빨리 집합하자고, 05구역은 이제 안전하지 않아."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "............+RO, 드리머가 사용하는 포대가 뭔지 알아?+이 포격음......왠지 귀에 익숙한데......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "그래, M16......+익숙할 거야 아마......+왜냐하면, 너희들이 그 무기의 첫 목격자였으니까......"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "......!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Danger",
+      "se1": "Battlefield"
+    },
+    "text": "제 5 전역 당시, AR팀은 디스트로이어를 추격하고 있었다. 작전 개시 26분 후......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      }
+    ],
+    "text": "잠깐, 이 소리는......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "지금이야, 준비해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "text": "M16, 조심해요!!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "text": "......?!"
+  },
+  {
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "Explode"
+    },
+    "text": "...콰앙!!"
+  },
+  {
+    "background": {
+      "id": 6
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "......!!+바, 방금 그게......뭐야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "말도 안 돼, 저런 사이즈의 병기를......철혈도 운용할 수 있다고?"
+  },
+  {
+    "sound": {
+      "se1": "Alarm"
+    },
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      }
+    ],
+    "text": "......+......모두, 방금 헬리안 씨의 보고를 받았어요. 아군 측의 피해가 너무 커요.+본부에서 전원에게 추적을 중지하고, 모든 제대는 즉시 현재 구역에서 철수하라는 명령이 내려왔어요."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "하지만, AR15...."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "......"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635"
+      }
+    ],
+    "text": "【쥬피터】, 전자기력으로 탄두를 발사하는 대형 전술포대.+파괴력도 군용 제식 야포와 비견되고, 발사 속도가 매우 빠르기에 현재 그리폰으로선 대응할 방법이 전혀 없어.+이것이 철혈이 새로 배치한 대형 살상병기......+......그것이 너희와 AR-15 최후의 희망을 끊어놨어."
+  }
+]

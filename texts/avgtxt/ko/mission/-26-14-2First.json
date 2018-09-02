@@ -1,0 +1,177 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    }
+  },
+  {
+    "background": {
+      "id": 157
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Boss2"
+    },
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "안젤리아! 지금이면 돼??"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "안 돼! 적의 화력이 여전히 너무 세!+416, 저 보스들 네가 준 정보하고 완전 다르잖아!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "분명 더욱 강화한 모델이에요! 그전의 것보다 강해요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "대체 어디서 온 건지 궁금하네... 대체 어떻게 돼먹은 것들이야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "처음보는 마크와 무기입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "후퇴해야 해, 다음 기회를 기다려!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "이걸 몇 번 더 해야 하는 거지... 지금 적의 증원이 또 오고 있어요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "<color=#00CCFF>여러분, 아직 버틸만 한가요?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      },
+      {
+        "name": "M82A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "... 아슬아슬해, M82, 너의 원거리 엄호가 아니었으면 죽었을지도 몰라."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      },
+      {
+        "name": "M82A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M82A1"
+    },
+    "text": "<color=#00CCFF>여러분이 여기서 죽기는 바라지 않습니다, 적 보스의 확실한 좌표를 제공해주실 수 있다면, 이 각도에서 사살이 가능할 수도 있습니다.</color>"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "그래... 최대한 이 대치 상황을 깨부술 방법을 생각해 보지."
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  }
+]

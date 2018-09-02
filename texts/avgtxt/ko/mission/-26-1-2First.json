@@ -1,0 +1,809 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    }
+  },
+  {
+    "background": {
+      "id": 157
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "리베리온은 목적지도 없이 도망치다가 한 통신 거점을 발견했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "여기야, 크흑... 빨리 들어가!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "안 돼요, 여기 오염수준은 여전히 심각해요, 멈춰서는 안 돼요!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "내 말 들어! 빨리... 켁켁!"
+  },
+  {
+    "background": {
+      "id": 85
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "리벨리온은 통신 거점에 진입했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "여기 붕괴선 지수가 너무 높아요, 그리고 언제든지 새로운 감염자가 생겨날 수 있고. 오래 있을 수는 없어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "콜록... 시키는 대로 해...+지금 당장 통신 설비를 켜서 신호 확인해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "하고 있어요. 아직 완전히 망가지진 않았고, 지금 재가동 중이에요...+군이 남기고 간 설비네요, 방화벽은 이미 뚫었어요. 94 잠깐 여기 네트워크에 들어가 정보를 수집해 봐..."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 2
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "네, 분석 중입니다...+나쁜 소식으로, 전장 정보를 해킹해 재구성한 결과, 근처에 군의 식별 신호를 가진 물체가 이동 중입니다.+이동 속도와 조직성을 보아, 감염자는 아닌 것으로 보입니다.+지금 남은 병력을 다시 모으고 있는 것으로 보입니다. 최악의 경우 이미 저희를 발견했을지도 모릅니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "아직 안 들켰기를 바라야지. 안 그럼 우린 이걸로 끝이야... 콜록...+빨리, 그리폰 지휘관의 통신 채널 기억하지? 연결 시도해봐."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "진심으로요? 데이터 블랙 영역에서 정보를 수집하는 정도라면 별일 없지만, 군의 시설로 통신을 보내는 순간 분명 들키고 말 거예요. 그 즉시 저희를 포위섬멸할 게 분명해요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "살아남기 위한 유일한 방법이야...+이렇게 된 이상 계속 도박을 할 수밖에 없어, 즉시 호스트 채널을 열어. 재빨리 일을 끝내면 군이 반응하기 전에 벗어날 수도 있어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "그러죠, 지금 호스트 채널을 여는 중이에요, 연결될 때까지 30초 남았어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "아직 이 통신기에 배터리가 남아있는 동안에... 페르시카, 페르시카 들려?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "<color=#00CCFF>잡음이 좀 있지만 들려. 안젤리아 거기 상황은 어때?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "위성통신기 전기가 얼마 없으니까, 짧게 말할게.+리벨리온이 날 찾아냈고 아직은 안전해. 지금 군의 시설로 호스트 채널을 열었고, 그리폰의 지휘관이 받을 수 있을지는 운을 봐야겠어."
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "호스트 채널 개통했어요. 자아, 빨리 좀 걸려라..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "신호엔 노이즈뿐이다."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "치이이이익...+......"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Truth"
+    },
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "그리폰은 이미 떠난 건가...+결국... 이렇게 되다니..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "<color=#00CCFF>안젤리아...</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "하아... 그럼 어쩔 수 없지, 그래도 이렇게 될 줄은 몰랐다..."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "잠깐만요! 응답이 있어요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "뭐! 누군데?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 1,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "<color=#00CCFF>지휘관이야! 지휘관, 내 말 들려? 페르시카야!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "……<c><color=#00CCFF>페르시카가 무사한지 묻는다.</color><c><color=#00CCFF>다른 익숙한 소리가 들린다.</color><c><color=#00CCFF>페르시카라니... 누구세요?</color>"
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "<color=#00CCFF>안젤리아야...</color>+<color=#00CCFF>으음... 누군지는 알 거야, 나머진 그 본인이 말해줄 거야.</color>"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "<color=#00CCFF>후훗, 난 걱정 말고, 너희 걱정이나 해.</color>+<color=#00CCFF>지금 안젤리아가 너한테 부탁할 일이 있어.</color>"
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "<color=#00CCFF>벌써 너희 수석기술자를 잊은 거야? 월급 깎는다.</color>+<color=#00CCFF>농담할 시간이 아니야, 지금 안젤리아가 할 말이 있어.</color>"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "반가워 지휘관. 처음 보는 건 아니지만, 내 이름을 밝히는 건 처음이겠지.+내 이름은 \"안젤리아\". 물론 내 작전 코드네임이지만, 그래도 꽤 좋아하는 이름이니까 이대로 불러도 돼.+난 국가안전국의 특수요원이야, 우린 지금까지 이미 여러 번 협력했었고. 분명 의문투성이겠지만, 일단 같은 편이라는 것만 알아줘."
+  },
+  {
+    "background": {
+      "id": 85
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "<color=#00CCFF>내가 보장할게. 나하고 오래 지낸 사이야, 좀 성격이 지독하지만, 나쁜 사람은 아니야.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "좀 조용히 해 페르시카... 지금 통신 시간이 얼마 없으니, 내 말 잘 들어.+지금 그쪽도 손실이 엄청 큰 거 알아. 그래서 페르시카가 당신에게 새로운 중화기부대를 보대서 전력을 보충해줄 거야.+페르시카에게 지원이 필요한 좌표를 보내줘, 어떻게든 중화기부대를 보낼 테니까. 페르시카, 하벨 씨의 철수 계획은 어떻게 됐어."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "<color=#00CCFF>하벨 씨가 방금 철수 지점 좌표를 보냈어. 하지만 수송기를 거기에 들어갈 수 있게 조율할 시간이 필요해.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "지휘관, 여기가 그 좌표야. 철수 지점을 잘 지켜, 수송기가 도착할 때까지 버틸 수 있도록 바랄게."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "안젤리아, 이미 들켰어요, 통신에 끼어들었어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "<color=#00CCFF>안젤... 치지지지... 너일 줄 알았다... 네년이 한 짓에 대가를 치를 것이... 파지지지직!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "강제 통신을 끊어, 녀석과 수다 떨 시간 없어."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "네."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "예고르의 통신이 끊어졌다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "보다시피 지휘관, 지금 상황이 아주 안 좋아. 우리 모두 최악의 상황에 준비해야 해."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "<color=#00CCFF>지휘관, 우리가 도울 수 있는 건 다 했어. 모두가 살아남을 수 있기를 바랄게. 그러니까, 부탁할게, 제발 안젤리아를...</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "지휘관, 전장에서 모두가 살아남을 수 있는 건 아니야... 우선 그리폰의 안전을 확보하고 나서 여유가 있을 때 우리를 구할지 생각해.+내가 가진 모든 정보를 보낼게. AK12, 전송통로를 열어."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "네."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "내가 살아서 여길 떠나지 못한다면 리벨리온을 부탁할게. AR팀도 되찾아서 우리의 미래를 파괴하려는 적들을 막아주기를 바라."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "안젤리아, 방금 탐지된 군 병력이 이곳으로 접근 중이에요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "쳇... 정말 뼛속까지 미운털이 박혔나 보군. 지휘관, 아침까지 기다리지, 당신이 어떻게 결단을 내리든 비난하지 않을 테니까, 건투를 빌지."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "정보 전송 진행 중입니다. 이제 60초 후 이동 가능합니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "페르시카... 그만 갈게. 만약 살아서 돌아온다면, 고양이 한 마리 기를 셈이야."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 3,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "<color=#00CCFF>그럼 만져봐도 될까?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "사룟값만 내준다면야..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "<color=#00CCFF>낼게, 그러니까 꼭 살아서 돌아와.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "이번만큼은 보장 못 하겠어..."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "전송 끝났습니다, 이동 가능합니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "그 말인즉슨 저흰 한동안 어떤 통신도 받지 못하고 저희 스스로 헤매보던가 그리폰의 신호를 기다려야 한다는 거죠."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "나도 알아... 가자, 지휘관이 구하러 올 때까지 버텨보자고."
+  },
+  {
+    "screenEffect": "dark1"
+  }
+]

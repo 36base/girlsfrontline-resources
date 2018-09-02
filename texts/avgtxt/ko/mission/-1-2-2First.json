@@ -1,0 +1,308 @@
+[
+  {
+    "background": {
+      "id": 2,
+      "isNight": true
+    },
+    "sound": {
+      "bgm": "BGM_Battle",
+      "se1": "Battlefield",
+      "se2": "Gunfight"
+    },
+    "text": "S06 구역의 초소 앞. 404 소대가 헌터와 교전 중."
+  },
+  {
+    "characters": [
+      {
+        "name": "HunterElite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헌터"
+    },
+    "text": "드디어 나왔구나, 404 쥐새끼들!+네년들의 그 비열한 수작들... 내가 대비하지 않았을 것 같으냐!+당장 나와라! 네년들이 당황하며 도망치는 추태를 직접 봐야겠다! 그리고 나를 등진 채로 쓰러져라!"
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "text": "404 소대의 거점."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "text": "G11, 너 정말 제대로 맞추기는 한 거야?!"
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "G11",
+        "face": 2
+      },
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "4발이나 맞췄단 말이야. 그런데 들은 거랑 다르게 아직도 움직인다구!"
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 2
+      },
+      {
+        "name": "HK416",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "굉장한 개조인걸. 철혈 놈들은 대체 저런 수가 얼마나 더 있는 거지..."
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      },
+      {
+        "name": "HK416",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "우측에서 적 접근 중! 이대로 가다간 포위당할 거야!"
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      },
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "...작전 포기, 마지막 제압 사격 실시."
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      },
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "G11, 제압 사격 실시!"
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "G11",
+        "face": 2
+      },
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "시, 실시."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      },
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "연막탄 투척!"
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "se1": "Battlefield",
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "text": "지금이야! 전원, 후퇴!"
+  },
+  {
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "HunterElite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헌터"
+    },
+    "text": "쳇..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Weaver",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "HunterElite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "우로보로스"
+    },
+    "text": "헌터, 왜 추격하지 않는 거지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Weaver",
+        "face": 0
+      },
+      {
+        "name": "HunterElite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "헌터"
+    },
+    "text": "그 은발 머리 꼬맹이가 내 기동 장비를 망가뜨렸다. 수리하지 않으면 고속 기동은 무리다."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Boss"
+    },
+    "characters": [
+      {
+        "name": "Weaver",
+        "face": 0
+      },
+      {
+        "name": "HunterElite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "우로보로스"
+    },
+    "text": "그걸로 포기하는 건가? 난 네가 사냥감에 대한 집착이 엄청나다고 알고 있었는데."
+  },
+  {
+    "characters": [
+      {
+        "name": "Weaver",
+        "face": 0
+      },
+      {
+        "name": "HunterElite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "헌터"
+    },
+    "text": "저년들은 돌아올 테다. 재머의 위치를 알아내기 위해, 분명 다시 날 찾아올 거다.+네 지원만 제때 도착하면, 저년들의 게릴라전을 짖밟아 놓을 수 있다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Weaver",
+        "face": 0
+      },
+      {
+        "name": "HunterElite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "우로보로스"
+    },
+    "text": "...좋다. 증원이 도착하기 전까지 초소를 지키고 있도록 하라."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "Weaver",
+        "face": 0
+      },
+      {
+        "name": "HunterElite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "헌터"
+    },
+    "text": "그럴 거다...+진정한 사냥꾼은, 과묵한 법이니까."
+  }
+]

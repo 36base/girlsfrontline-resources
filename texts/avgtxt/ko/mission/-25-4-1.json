@@ -1,0 +1,416 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 159
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Pervaded"
+    },
+    "text": "그리폰 임시기지 2번 수비거점."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "지휘관님, 현시간 저희는 2번 수비거점 근처의 전장에 도착하여 보고드립니다.+2번 거점은 현재 적의 포격시설의 집중 타격을 받고 있습니다. 적이 공수로 투하한 고정 시설이 저희에게 큰 위협을 가하고 있습니다.+우선 저 시설들을 파괴해야만, 구조 작전을 펼칠 수 있습니다.+하지만 구조 작전을 개시하여도 다른 거점도 이런 공격을 받고 있어 모든 거점의 고립된 제대를 구조하기는 매우 힘듭니다.+지휘관님, 저희도 현재 병력이 심각히 부족한 상태입니다. 솔직히 이런 상황에서 모두를 구하려고 하는 건 추천 드리지 않습니다.+하지만 앞으로의 전투를 고려했을 때, 현재 이 거점의 동료는 반드시 구해내야 합니다.+적을 모두 섬멸하려는 것은 시간 낭비일 뿐입니다. 지휘관님께서 제대를 이끌고 적의 포위망을 뚫어주신다면, 저의 소대가 즉시 돌진하여 동료를 구출해내겠습니다."
+  },
+  {
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Python",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "파이슨"
+    },
+    "text": "지휘관과 연락됐어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "응, 지휘관님이 기회를 만들어줄 거야, 그 틈을 타서 들어가 동료를 구해내야 해.+여기 거점의 대장이 누구인지 알아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Python",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "파이슨"
+    },
+    "text": "모르는데, 정보를 공유할 틈이 없었어, mk12는 알아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Mk12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Mk12"
+    },
+    "text": "나도 기지를 수비하느라 바빴다고!+A91은 알... 아니지, 걘 술만 마시고 있었지."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "지금 동료를 구하러 포화 속으로 뛰어들어야 하는데, 상대가 누군지도 모르는 거야? 겨우 그 정도 준비조차 안 했어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Python",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "파이슨"
+    },
+    "text": "그래, 확실히 우린 아직 경험이 부족해."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그럼 더 신중하게 생각해, 안 그러면 적의 포화에 묻히기 전에 자신의 미숙함에 묻히게 될 테니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "Mk12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Mk12"
+    },
+    "text": "야, 너도 모르잖아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "난 기지에 방금 온 참이라서, 그 방면의 정보를 얻을 시간이 없었어."
+  },
+  {
+    "characters": [
+      {
+        "name": "A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "A91"
+    },
+    "text": "허어... 그럼 우리랑 똑같잖아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "... 잘 들어, 너희들을 비난하려고 하는 말이 아니지만, 전장에서는 한순간의 실수로 목숨을 잃을 수 있어.+우리의 목표는 단 하나, 최대한 많은 동료를 구출해 모두 살아서 돌아가는 거야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "416, 수비거점 주변 상황을 정찰하고 왔...+무슨 일이야?"
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "못 살겠어, 이 인형들의 효율성 해도 너무 엉망이잖아!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "참아, 그리폰에서 싸움 좀 한다는 제대는 이전 전투에서 많이 손상됐어, 군수작전 뛰던 인형보고 전선에 뛰게 하는 것만으로도 무리하는 거니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "쳇...+그럼 넌 여기 거점의 대장이 누군지 알고 있어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "걔 때문에 내가 여기 온 거지.+9A91라고, 말 안 했어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "여기의 대장은 9A91... 다만 너도 정보공유로 안 정보가 아니지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "알고 있으면 됐잖아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "... 어쨌든 이번 구출 작전의 첫 목표라는 거네.+주목해, 지휘관님은 포위망을 뚫는 것에 모든 정신을 쏟을 거고, 나도 지휘모듈이 없으니까, 작전이 시작되면, 난 구령만으로 지시를 내릴 수밖에 없어."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "내 지시를 철저히 따르면서 한순간의 망설임이나 의심을 가지지 말도록 해, 알았어?"
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "se1": "Reload"
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그럼, 장비를 점검하고 명령을 기다려!"
+  },
+  {
+    "background": {
+      "id": 85
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "se2": "Battlefield"
+    },
+    "text": "같은 시간, 2번 수비거점의 세이프 하우스."
+  },
+  {
+    "characters": [
+      {
+        "name": "9A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "9A91"
+    },
+    "text": "포성은... 아직도 안 멈추는 걸까? 다른 소리가 들리지 않아."
+  },
+  {
+    "characters": [
+      {
+        "name": "9A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "9A91는 펜을 놓았다."
+  },
+  {
+    "characters": [
+      {
+        "name": "9A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "9A91"
+    },
+    "text": "여기까지 쓰자, 이제 일기장을 잘 보관해두고."
+  },
+  {
+    "sound": {
+      "se1": "ClothingUp"
+    },
+    "characters": [
+      {
+        "name": "9A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "9A91는 방안을 살펴보고 일기장을 탄약상자 밑에 숨겼다."
+  },
+  {
+    "characters": [
+      {
+        "name": "9A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "9A91"
+    },
+    "text": "지휘관님... 이젠 안 오시겠지?+AK-74U, AS-Val...+난 이제 가망이 없어, 다음에 깨어날 때, 일기장만은 남아있었으면 좋겠어."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "9A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "9A91"
+    },
+    "text": "너희를 잊고 싶지 않아, 다음번엔..."
+  },
+  {
+    "screenEffect": "dark2",
+    "text": "<color=#fff775>구조를 위해서 전장 위의 인질을 헬리포트까지 호송하세요.</color>+<color=#fff775>적 지휘부를 점령하는 순간 구조를 포기하고 퇴각하는 것으로 간주합니다.</color>+<color=#fff775>선택에 따라 이야기가 다르게 진행되니 신중히 선택하세요.</color>+<color=#fff775>이 전역의 서로 다른 임무를 달성하면 서로 다른 루트로 진입합니다. 임무 달성 후 다른 루트는 잠기게 되며, 백트래킹을 해야 다시 선택할 수 있습니다.</color>"
+  },
+  {
+    "screenEffect": "dark2",
+    "text": "<color=#fff775>그리고 이번 전투부터 전장에 적의 포격진지와 방공시설이 등장합니다.</color>"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  }
+]

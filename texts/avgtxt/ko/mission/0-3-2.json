@@ -1,0 +1,265 @@
+[
+  {
+    "background": {
+      "id": 8
+    },
+    "sound": {
+      "bgm": "BGM_Battle",
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "일단 한 무리는 막았어, 일단 숨 좀 돌리자."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "젠장! 정말 한도 끝도 없네! 어째서 페르시카에게 연락이 안 되는 거야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "이미 철혈에게 발각당했으니, 16LAB의 정보가 누출되는 걸 방지하기 위해 통신 모듈이 자동으로 통신을 끊어서 그래."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      },
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "전송이 완료되려면 아직 절반 정도 남았어요. 좀 더 버틸 수 있겠어요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      },
+      {
+        "name": "AR15",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "안 돼, 우리 수가 너무 적어. 이런 식으로 한 번 더 몰려오면 우리로는 막을 방법이 없어."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "AR15",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "......방법이 아예 없는 건 아냐.+다들 들어 봐, 그리폰의 지원부대가 이 근처에 있는 거로 알고 있어. 다만 그녀들이 대기 상태로 된 지 꽤 시간이 지난 거로 보아, 아마 이곳에 버려진 것 같아.+M4, 우리의 권한 신호를 변경해서, 그녀들이 우리를 지원할 수 있도록 할 수 있겠어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "알겠어요. AR-15, SOPII.+부탁드릴게요. 여러분이 가서 그 소대가 적들을 막도록 인도해주세요. M16은 여기 남아서 저를 보호해주세요."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "알았어, 너희들 우리가 올 때까지 잘 버티라고!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "text": "......30분 후."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "......전송 완료!"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "후——+그 지원부대가 움직인 것 같군."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "네, AR-15 쪽으로 연락한 뒤, 우리도 바로 여길 떠나도록 해요."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "에이전트"
+      }
+    ],
+    "text": "너희들을 그냥 보내줄 수는 없지..."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "에이전트의 신호!!! 지금 고속으로 접근하고 있어, 조심해!!!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "에이전트"
+      }
+    ],
+    "text": "......그저 쓰레기 고철 쪼가리만 손에 들고, 음식물 쓰레기 청소에 밖에 쓸 데가 없는데다. 구더기들과 싸워본적 밖에 없는...쓰레기 인형들이여!!!"
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "se1": "Explode"
+    },
+    "text": "——!!"
+  },
+  {
+    "background": {
+      "id": 15
+    },
+    "screenEffect": "dark2",
+    "text": "......"
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "...하...하아! 하윽!!+M16...하아......어디에 있는 거야..."
+  },
+  {
+    "characters": [
+      {
+        "name": "에이전트"
+      }
+    ],
+    "text": "너는 다른 사람을 신경쓸 시간이 없을텐데, M4A1"
+  },
+  {
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "Rope",
+      "se2": "m4a1_013a"
+    },
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "으읏!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "에이전트"
+      }
+    ],
+    "text": "...내가...너의 죽음을 가져왔기 때문이지."
+  }
+]

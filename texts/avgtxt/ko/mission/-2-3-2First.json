@@ -1,0 +1,341 @@
+[
+  {
+    "background": {
+      "id": 7
+    },
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "text": "삐빅."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "후......겨우 왔네.+뭔가를 먹으니, 몸이 좀 따뜻해지는 걸......+그럼 여기가 헬리안이 말한 피난소야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 3
+      }
+    ],
+    "text": "틀림없어, 그리고 여길 보면...+에...전술인형 M1887, 여기 계신가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "없어, 확실히 인형은 이쪽에 온 것 같은데, 데이터로 봐선 대략 3시간 전의 일이야.+할 수 없네, 헬리안에게 연락을 해봐야겠어."
+  },
+  {
+    "text": "삐빅."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "그리폰 본부 들립니까?+......헬리안 씨?"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "게이저"
+      }
+    ],
+    "text": "유감이네, 잘못걸었어.+......그리폰의 여러분."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 4
+      }
+    ],
+    "text": "......?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 5
+      }
+    ],
+    "text": "넌 누구지?!"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Boss"
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "철혈공조 SP21, 통칭 \"게이저\"야.+AR팀, 그리고 모든 전장에 있는 그리폰 인형, 너희들은 여기서 도망칠 수 없어.+통신에 연결된 순간부터, 너희들의 위치는 나에게 완전히 드러났어."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      },
+      {
+        "name": "BOSS-7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "......"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 4
+      },
+      {
+        "name": "BOSS-7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "(그렇다면......지금에서야 들킨 건가? )"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "너희들의 용기와 생존의지에 감탄했어, 하지만 머지않아 그것도 끝날 거야.+부디 마지막 순간까지 즐기도록. 이제 곧 철혈이 너희들을 철저하게 포위할테니까......+......모든 희망이 이제 곧 흔적도 없이 사라질 거야."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "screenEffect": "dark2",
+    "text": "............같은 시각, 철혈의 지휘실."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "아키텍트"
+    },
+    "text": "와! 정말 너무 멋진 발언이야, 게이저!+바로 이런 기세지! 그런 반푼이들에게는 전문 전투인형이 무엇인지 똑똑히 보여주자고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "BOSS-9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "(한숨) 빈둥대는 녀석, 너도 계산이나 하나 해봐......"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "BOSS-9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "아키텍트"
+    },
+    "text": "어이 그러지 말라구! 난 지금 포탑을 테스트하고 있잖아?+바깥 쪽을 봐봐, 저기 길게 늘어서 있는 포탑 전부 내가 눌러서 일제 사격하면 정말 끝내주겠지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "BOSS-9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "그러려고 포탑들은 전부 연결해서 한꺼번에 조작하는 거야?+그랬다간, 내 계산으론, 그런식으로 했다가는 이후 자원이 남아날지 장담 못하겠는데......"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "BOSS-9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "아키텍트"
+    },
+    "text": "상관없어, 이것도 전부 계획대로 하고 있는 거니까!+다시 말하지만, 내가 뭘 하든 간에 난 너의 상관이야! 나를 보좌하는 게 너의 임무잖아!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "BOSS-9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "그래, 그럼 부관으로서 난 지금 나가서 벌레 몇 마리 좀 없애도록 하겠어."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "BOSS-9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "아키텍트"
+    },
+    "text": "어? 꼭 가야해? 그냥 놔둬도 문제 없지 않아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "BOSS-9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "그 몇 마리 벌레에, AR팀의 남은 3명이 포함되어 있으니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "BOSS-9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "아키텍트"
+    },
+    "text": "어!!! 그럼 나도 갈래!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "BOSS-9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "네가 나가면 누가 기지를 볼 건데? 다시 말하지만 기지는 그녀들이 여길 벗어나는데 반드시 지나가야 하는 길이야.+넌 걱정말고 여길 지키고 있어, 일단 그리폰이 어떤 행적이 보이거든 나에게 바로 알려줘."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "BOSS-9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "아키텍트"
+    },
+    "text": "응응! 어서 가봐, 나도 집 잘 지키고 있을게!"
+  }
+]

@@ -1,0 +1,741 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    }
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "안젤리아는 어디로 도망쳤느냐?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 하사"
+    },
+    "text": "신호에 따르면 안젤리아와 그 부하들은 옐로우존에 위치한 건물 단지 속에 숨었습니다. 이미 저희의 인형들이 저들의 좌표를 확정하였습니다.+탱크 부대가 도착하기까지 아직 시간이 필요합니다. 저 단지 전방에 저희 정찰 거점이 하나 있습니다만, 여기서 원거리 통신으로 거점의 상황을 확인할 수가 없습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "불필요한 생각은 접어둬라, 우리의 병사는 자신의 의무를 다할 것이다. 아직 살아 있다면 말이다...+추격부대를 보고 육안 관측으로 놈들의 위치와 인수를 확인하라고 하라. 그리고 안젤리아 본인이 아직 안에 있는지 확인하라!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 하사"
+    },
+    "text": "10분 전부터 신호 탐지를 통해 수색 중입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "신호쯤이야 위장할 수 있다, 이번 싸움에서 이미 16LAB의 솜씨를 두 눈으로 보았다. 그리고 안젤리아의 모습을 너무 오래 동안 보지 못했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 하사"
+    },
+    "text": "저들이 도중에 갈라져서 행동할 것이라 생각하시는 겁니까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "가능성이 크다고 말했다. 인형 몇십 개 희생해 자신의 목숨을 구할 수 있다면, 어떤 인간이든 그럴 것이다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 하사"
+    },
+    "text": "분석에 의하면, 갈라질 경우에 가장 적합한 시기는 바로 저 폐기 빌딩을 통과할 때입니다.+하지만 아까 그 근처에서 신호를 수색했지만 빌딩 안에서 인간의 생명 신호를 발견하지 못하였으며. 빌딩 안에 누가 진입한 흔적도 발견하지 못했습니다."
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "... 정말인가?"
+  },
+  {
+    "screenEffect": "blackSpot2",
+    "text": "같은 시간."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "..."
+  },
+  {
+    "background": {
+      "id": 46
+    },
+    "screenEffect": "blink",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "AK12..."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "안젤리아... 이제서야..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "흔히 못 보는 표정이네... 내가 한 번 죽기라도 했냐?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "한 번뿐이 아니에요, 죽는 것 말고도, 방금 응급처치 중에 몇 번이고 죽었다 좀비가 됐다가를 반복했다고요,"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "지금도 뭐 나은 것 같지는 않아...+잠깐 회광반조일 수도 모르지.. 그래도 일단은 버틸만한 것 같아."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "언제부터 기절한 건지는 모르지만, HK416과 SOP2는 이미 반 시간 전에 출발했어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "AN94",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AN94"
+    },
+    "text": "안젤리아의 신호를 위조해서 지휘관의 지시에 따라 군의 주의를 끌어 저희에게 시간을 벌고 있습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "AN94",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "지휘관이?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "AN94",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AN94"
+    },
+    "text": "구조소대가 가기 전에 통신설비를 남기고 갔습니다, 이제 금방 설치를 완료하여 지휘관과 연결이 가능합니다.+이곳에 너무 오래 남아있을 수는 없습니다. 곧 군의 부대가 쫓아올 테니, 빨리 대책을 생각하셔야 합니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      },
+      {
+        "name": "AN94",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "알았어, 알았어... 방법을 찾아야지...+먼저 지도를 보여줘... 그리고 물 좀 줘, 지금 몸에 기운이 없어..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "지금까지 너무 무리했어요. 이것 봐요, 아까도 심장이 멈출 뻔했다고요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      },
+      {
+        "name": "AN94",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AN94"
+    },
+    "text": "군의 인형이 이 빌딩에 진입하지 않은 건 아마 당신의 생명 신호를 탐지하지 못한 것으로 보입니다."
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "확실히 난 지금 너무 허약해. 어쩌면 내가 죽었다고 알면 군에겐 나쁜 소식이려나..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "blackSpot2",
+    "text": "같은 시간."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "만약에...+만약 안젤리아의 생명이 신호를 감췄다면 어떤가?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 하사"
+    },
+    "text": "신호를 감춘다는 말입니까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "그년은 심각하게 피폭되어 생명 활동이 점점 약해지고 있다. 그 때문에 탐지를 피할 가능성은 있느냐?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 하사"
+    },
+    "text": "... 불가능... 하진 않습니다만, 가능성이 매우 희박합니다."
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "그래도 가능하다는 뜻이다, 다시 한번 조사해 봐라. 저 빌딩 가까이에서 관찰하는 것이다.+추격부대가 상황을 확인하거나 빌딩에 무슨 움직임이 있거나 하면 즉시 빌딩 안에 진입하라!+그 어떤 가능성도 놓치지 마라, 절대 안젤리아를 놓쳐서는 안 된다!"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "방금 지휘관과 얘기해 봤어, 우선 지금의 철수 경로를 보장해야 해.+경로는 내가 이미 표시했지만, 도중에 일부 군의 시설이 존재해. 지휘관이 HK416쪽을 이끌고 시설을 파괴해야 우리가 안전하게 철수할 수 있어."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      },
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "하지만, 경로만 있어선 부족한걸요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      },
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AN94"
+    },
+    "text": "군의 정찰대가 아직 빌딩 근처에 있습니다, 나가려는 순간 바로 들키고 말 겁니다. 안전하게 나갈 방법을 찾아야 합니다..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      },
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "아니까 재촉하지 마! 좀 생각해볼게...+대체 어쩌면 좋지, 군에게 들키지 않으면서 빌딩에서 나갈 방법이..."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      },
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "지휘관님, 바깥은 맡길게요.+안젤리아는 저희가 지키고 있을 테니까 걱정 마시고요."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      },
+      {
+        "name": "AN94",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AN94"
+    },
+    "text": "하지만... 정말로 방법이 있을지..."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      },
+      {
+        "name": "AN94",
+        "face": 4
+      }
+    ]
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "AN94는 신호탐지설비를 바라보다가, 갑자기..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "안젤리아! 신호 탐지에 주변 적의 새로운 움직임이 포착됐습니다!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "군의 정찰대예요, 지금 빌딩 쪽으로 오는 것 같아요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "어째서지... HK416의 위조신호를 간파했나?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "아니요, 하지만 모르겠어요! 위 층으로 올라가야 할 것 같아요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "아니야! 지금 그저 관찰하고 있을 뿐이야, 결코 함부로 움직여서는 안 돼."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      },
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AN94"
+    },
+    "text": "그럼... 그냥 이대로 기다립니까?"
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "여기서 나갈 수 없어, 이렇게 해야 해.+그냥 이렇게... 지휘관의 소식을 기다리면서 천천히 생각해야 해..."
+  },
+  {
+    "background": {
+      "id": 157
+    },
+    "screenEffect": "blackSpot2",
+    "text": "같은 시간."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "지휘관님! 이미 안젤리아에게서 들었겠지만, 저희는 현재 적의 정찰 거점을 향하고 있습니다.+이곳의 적을 전부 섬멸해야만 안젤리아의 철수 경로를 확보할 수 있습니다.+시간이 촉박합니다, 언제든지 군의 주력부대가 쫓아올 수 있으니, 최대한 빨리 작전을 끝내야 해요!"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  }
+]

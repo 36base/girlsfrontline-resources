@@ -1,0 +1,173 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 47
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "SOP2는 먼저 철혈의 비축 거점에 잠입해 예비 전원을 훔치기로 하였다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "찾았다! 이것으로 RO를..."
+  },
+  {},
+  {
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "Explode"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "콰앙!!"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_stage10"
+    },
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "...! 저 소리는!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "？？？"
+    },
+    "text": "<color=#00CCFF>좋다, 이것으로 그리폰의 쓰레기를 모두 정리했다.</color>+<color=#00CCFF>다만... 부스러기가 좀 남아있군.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "... 스케어크로우!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      },
+      {
+        "name": "BOSS-1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "스케어크로우"
+    },
+    "text": "<color=#00CCFF>왜 우리 창고에 숨어든 것이지?</color>+<color=#00CCFF>가장 위험한 곳이 가장 안전하다고 생각한 건가?</color>+<color=#00CCFF>확실히, 그 덕분에 네 수명이 좀 늘어났지, 저 동료들을 희생해서 말이야.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      },
+      {
+        "name": "BOSS-1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "닥쳐! 이 망할 놈!+널 해치울 거야, 너는 연산해내지 못할 방식으로!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      },
+      {
+        "name": "BOSS-1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "스케어크로우"
+    },
+    "text": "<color=#00CCFF>마음대로 해라, 어차피 우린 모두... 할 일을 할 뿐이니.</color>+<color=#00CCFF>아까 그 쓰레기를 처리하든, 너를 처리하든 차이가 없다.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "..."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "조금 전의 전투로 녀석의 부하도 얼마 없을 거야...+아직 승산은 있어...+모두의 원수를 갚기 위해서, 여기서 살아남기 위해서...+반드시 녀석을 쓰러뜨려야 해!"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  }
+]

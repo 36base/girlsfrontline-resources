@@ -1,0 +1,1334 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "characters": [
+      {
+        "name": "Cx4Storm"
+      }
+    ],
+    "text": "떠올려 보면, 난 왜 그리폰에 전입한 걸까?+민간 업체에 가서 일하면, 모두 신참인 나를 괴롭혔겠지?+인간이든 인형이든, 지금 이 세상에서 무슨 일이 일어나도 이상할 것 없어."
+  },
+  {
+    "sound": {
+      "se2": "Gunkill"
+    },
+    "text": "타탕!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "Cx4Storm"
+      }
+    ],
+    "text": "나 자신을 지키기 위해서, 아무도 날 괴롭히지 못하게, 【각인】을 받아 전술인형이 되었어.+그런데... 왜 이렇게 되어버린 걸까?+그냥 얌전히 메이드나 서류직을 했으면, 걷다가 누가 얼굴에 침 뱉는 일이 있어도 이런 곳에서 죽는 것보다는 나을 텐데."
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "BOSS-1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "스케어크로우"
+    },
+    "text": "<color=#00CCFF>숨어봤자 쓸모없다, 그리폰의 쓰레기들.</color>"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "Cx4Storm"
+      }
+    ],
+    "text": "결국엔... 주변 분위기에 휘말린 거겠지?+자신을 지킬 수 있고 다른 사람도 지킬 수 있다고...+너무 우쭐했나봐, 애초에 이런 일에 적합하지 않으면서..."
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "BOSS-1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "스케어크로우"
+    },
+    "text": "<color=#00CCFF>골리앗, 폭파를 준비해라.</color>"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "Cx4Storm"
+      }
+    ],
+    "text": "그래도, 사람들을 많이 도운 건 사실인걸.+단 한 가지 아쉬움이라면..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "sound": {
+      "se1": "Explode"
+    },
+    "text": "콰앙!!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "Cx4Storm"
+      }
+    ],
+    "text": "오늘이... 내가 그리폰에서 일하는 마지막 날이라는 거겠지."
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "BOSS-1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "스케어크로우"
+    },
+    "text": "<color=#00CCFF>이렇게 생긴 녀석이었군?</color>+<color=#00CCFF>지금 떨고 있는 건가?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "BOSS-1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "난... 난..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "BOSS-1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "스케어크로우"
+    },
+    "text": "<color=#00CCFF>마음에 드는 표정이지만, 아쉽게도 지금은 감상할 시간이 없군...</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "스케어크로우"
+    },
+    "text": "<color=#00CCFF>해치워라!</color>"
+  },
+  {
+    "sound": {
+      "se1": "Explode"
+    }
+  },
+  {
+    "screenEffect": "shockScreen",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "콰앙!!"
+  },
+  {
+    "sound": {
+      "se1": "Reload"
+    },
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그만 둬!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "...!+저 인형은..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Reverse"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "한 순간, 난 그것이 철혈의 보스 인형인 줄 알았다.+하지만 그 인형이 드라군을 찢어버리는 것을 보고 나서야 눈치챘다.+온갖 파손된 신체 부품을 이어붙여서 만들어진 그 몸을.+그때 생각났다, 저 인형은...+그 그리폰 에이스 소대의 엘리트다.+그런데 왜 이런 곳에..."
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "꺄하하하하!+이 정도야? 겨우 이 정도냐고!+숨바꼭질은 끝이야 이 철혈의 찌꺼기들아! 내게 잡히면 어떻게 날 달랠지 궁리해 보라고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ]
+  },
+  {
+    "text": "SOP2는 순식간에 주위의 철혈 부대를 해치웠다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "저기...+저희 아군이 맞나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "...?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "SOP2는 뒤돌아, 그 지저분하고 살육에 미친 웃음을 Cx4에게 보였다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "꺄악!"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "어... 놀랐어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "SOP2의 표정이 정상으로 돌아왔다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "음... 괜찮아요, 신호 반응 청색...+아, 좀 빨갛지만, 그래도 대부분은 청색이에요...+그러니까... 그리폰의 인형이 맞으시죠?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "M4 SOPMOD II, 그리폰 AR 특수작전소대 대원이야."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "어... 앗, 저는 Cx4 Storm이라고, B그룹 17번 군수지원제대 대장이에요...+어, 지금은 아니지만요... 지휘관님께서 작전에 동원할 수 있는 인형을 모두 전선으로 보냈어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "B그룹? 우리랑 같은 지휘관의 제대가 아니야?+뭐, 상관없어, 다행이야! 이제서야 그리폰의 제대를 만났어!+하지만 그건 나중에 말하고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "네?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "SOP2는 공개 통신 채널을 열었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "오늘 너 아주 된통 났구나, 스케어크로우!+내가 있는 한, 철혈이 얼마나 오든 다 똑같아!+정찰용 보스 주제에 잘도 이런 거창한 포위망을 짰구나?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-1",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "스케어크로우"
+    },
+    "text": "<color=#00CCFF>그래?</color>+<color=#00CCFF>오히려 마지막 순간에 너 같은 사냥감을 만나 행운이라고 생각한다.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-1",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "철혈의 로직 연산은 운을 따질 정도로 망가진 거야?+여기서 내게 당한 다음에, 다시 몸을 만들 땐 오뚜기 머리나 달지 그래. 넌 그런 싸구려가 어울려!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "스케어크로우"
+    },
+    "text": "<color=#00CCFF>그 말 기억했다, 나중에 네 머리통을 뽑아서 귀에 대고 재생해주지.</color>"
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "text": "쾅! 콰쾅!"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "철혈의 증원이에요!+M4 SOPMOD II, 이쪽으로 와요!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "너무 기니까 그냥 SOP2라고 불러!"
+  },
+  {
+    "background": {
+      "id": 40
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "..."
+  },
+  {
+    "sound": {
+      "bgm": "SpecialActivity"
+    },
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "SOP2는 왜 이곳에 온 거죠?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "뭐라고 해야지... 그냥 지나가다 왔어.+한 동료를 깨워야 해서 예비 전원을 찾으러 여기로 왔는데.+마침 스케어크로우가 너희를 공격하는 것을 봐서 도와주러 왔지. 늦지 않아서 다행이야."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "와아... 그렇게 큰 위험을 무릅쓰고서 저희를 구하러 온 건가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "내버려 두는 것보다는... 내가 할 수 있는 일을 하는 편이 낫잖아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "잠깐! 너 왜 그래?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "흑흐윽...+정말... 정말 고마워요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "야! 아무리 그래도 무릎 꿇고 다리 껴안을 필요는 없잖아! 나 지금 더럽단 말이야!+<color=#A9A9A9>(모르는 인형이랑 대화는 어렵네...)</color>+저기, 지금 난 기능도 멀쩡하지 않고, 지휘형 인형도 아니니까. 너무 큰 기대는 하지 말아줘..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "그래도 도와주신다니까 너무 기뻐요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그래 그래.+근데 너 대장이라면, 지금 그리폰의 지휘관이랑 연락할 수 있어? 어느 지휘관이든 좋으니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "죄송해요... 지금 전장이 심각하게 파괴되고, 근처에 교란까지 발생해서, 본부와 연락이 완전히 끊겼어요.+지금 저희 제대도 지나 프로토콜로 겨우 정보 공유를 하고 있지만... 지휘관님이 있을 때의 효율에 비하면...+그러고 보니 지휘 모듈이 없다고 하셨나요, SOP2?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "없어... 그래도 전술적인 물건은 좀 기억해둔 게 있어.+이전의 M4A1의 전술방식이랑, 지휘관의 지휘 아래서 실행한 작전 기록이라던가, 다 마인드맵에 저장해뒀어. 어쩌면 작전계획에 참고할 수 있을지도 모르지만..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "그 정도라도 다행이에요!+저흰 여태까지 군수임무만 해봐서 지휘관님이 없으면 어떻게 해야 할지를 전혀 몰라요."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "그러니까 일단 지휘를 맡겨도 될까요?"
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "뭐!? 난 한 번도 지휘해본 적이 없단 말이야! 그리고 네가 대장이잖아!?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "그렇다고 해도... 전 작전경험도 없고, 당신 같은 작전 능력도 없는 걸요...+제가 지휘하면 분명 모두를 궁지에 몰고 말 거예요, 방금처럼..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "어휴, 좋아... 잘 할 수 있을지는 몰라, 내 마인드맵 연산 능력은 M4 그들이랑 비하면 아무것도 아니니까.+그럼 모두 가까이 모여, 지휘 모듈이 없으면 권한을 통해 명령을 내릴 수 없으니까. 지나 프로토콜을 통해서 정보를 동기화할 테니까, 그 정보에 따라서 움직여줘.+각오 단단히 해, 직접 명령을 내리는 것 보다는 정보 전달 효율이 엄청 낮으니까. 반응 속도가 분명 철혈보다 한 박자 늦을 거야..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "괜찮아요! 모두 SOP2을 믿을게요! 원래부터 굼벵이 같은 반응 속도인 걸요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그런 걸 자신만만하게 말하면 어떡해..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "그럼, 지휘 문제는 일단 해결했지만...+지금 일손이 너무 부족해서 방어선을 구축할 수도 없어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그럼 왜 퇴각하지 않았어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "저희 임무는 고립된 동료를 구출해 그리폰 기지로 퇴각하는 것이에요.+그런데 여기에 오자마자 지휘관님과 연락이 끊기고 말았어요.+그리고 철혈이 습격해서, 할 수 없이 거점을 버리고 도망쳤지만 포위당하고 말았어요...+철혈이 다시 진형을 갖추기 전에 동료들을 구해낸다면 제대로 방어선을 짤 수 있을지도 몰라요..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그럼 그 고립된 인형들의 위치는 알고 있어?"
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "네! SOP2,지금 전자 지도에 표시해드릴게요!"
+  },
+  {
+    "screenEffect": "blackSpot2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "이 좌표들이 맞아?+근데 내가 과연 할 수 있을까..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "SOP2？"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "미안, 이렇게 단독 행동을 하는 건 처음이거든.+지금 이런 상황에서 나도 잘 모르겠어..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "괜찮아요, 당신과 함께 싸우는 것만으로도 영광인걸요.+이번이 마지막 싸움이어도 더할 나위 없어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "어라? 너희들 마인드맵을 백업할 수 없어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "그리폰 본부에서 약간 돌발 상황이 일어난 것 같아요.+당신을 만나기 전부터 마인드맵 백업 업로드가 막힌 것 같아요.+그래서 어쩌면 지금 저희는 이 한목숨뿐일지도 몰라요."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "너희들도...+그럼... 정말로 준비됐어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "흐음... 사실은 아직이요...+다만 어쩌면 이런 것도 괜찮을 것 같아요, 차가운 데이터의 복제가 아닌 진정으로 다른 사람에게 기억되는 느낌..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "Cx4... 기억된다는 것은 어떤 느낌이야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "말하자면 이상하지만, 그래도 가끔씩...+인형은 죽지 못한다는 건 불행이 아닐까 생각해요...+마치... 저주처럼..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "저주?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "전 군수인형으로서 자주 작전에 나가는 소대의 인형들을 배웅해주고, 또 그들이 잔해가 되어 돌아오는 것을 봐요...+비록 다음 날 다시 말끔해진 모습으로 나타나지만, 많은 일들을 잊어버리게 돼요...+SOP2는 그런 느낌을 아시나요?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "미안... 난 마인드맵을 백업할 수 없어서, 공감이 잘 안 가..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "text": "난... 그런 느낌을 잘 몰라..."
+  },
+  {
+    "background": {
+      "id": 40
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "SOP2가 사과할 필요는 없어요! 결코 자신이 왜 만들어졌는지 불평하는 것이 아니라, 그저 가끔씩... \"저희는 대체 무엇일까요?\"라는 생각이 들어요.+이어지는 기억이 지금의 저 자신의 증거라면, 죽고 깨어난 저는 무엇이죠? 그저 같은 모델의 인형인지, 아니면 그것이 \"저\"인지...+백업이 없다면 이런 고민도 없을 텐데..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "Cx4..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "앗, 죄송해요, 갑자기 혼자 감성에 빠져서...+어찌됐든, 지금 저희는 자신과 서로의 소체를 소중히 할 거예요. 그러니 모두를 구할 수 있도록 노력해요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "Cx4... 노력만으로는 부족해."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "네?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "반드시 해내야지!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "아까 네가 말한 건 역시 잘 모르겠지만, 대충 말해서 우리 서로 같은 처지라는 거잖아!+예전의 그런 느낌이 돌아온 것 같아서, 뭔지 모를 의욕이 넘쳐났어!+자, 어서 모두를 구하러 가자!"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  }
+]

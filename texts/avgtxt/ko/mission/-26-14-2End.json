@@ -1,0 +1,1555 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    }
+  },
+  {
+    "background": {
+      "id": 47
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "전투가 막바지에 이르렀다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>지휘관님! 저희는 주변의 적을 격파하여 돌입할 기회를 보고 있어요!</color>+<color=#00CCFF>준비해 주세요, 지금 바로...</color>"
+  },
+  {},
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Boss2",
+      "se1": "Explode"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "통신이 갑자기 끊겼다.+쾅 하고 세이프 하우스의 뒷문이 부서졌다.+지휘관은 온몸에 전류가 흐르는 고통에 쓰러졌다."
+  },
+  {
+    "background": {
+      "id": 47
+    },
+    "screenEffect": "blink",
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "검은 인형"
+    },
+    "text": "좋은 아침입니다, 그리폰의 지휘관님.+저희는 명령에 따라 당신을 생포하러..."
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "파악!"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "갑자기 검은 인형의 등 뒤에서 누군가 달려와 그 몸집으로는 상상이 안 가는 따귀를 검은 인형에게 날렸다.+검은 인형은 저 멀리 튕겨 나가 벽에 부딪혔다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NytoWhite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하얀 인형"
+    },
+    "text": "이건 저의 앞을 가로막은 벌입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "검은 인형은 서서히 일어났다, 입가에는 붉은 액체가 흘러내리고 있었다."
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "파악!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NytoWhite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하얀 인형"
+    },
+    "text": "이건 저번에 그 미련하고 실패한 작전의 벌입니다.+그리폰 기지의 민간용 인형 상대로 실패하다니. 그리폰 회사의 정보를 수집 분석하는 데 예상보다 4배의 시간과 5배의 자원이 소비되었습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      },
+      {
+        "name": "NytoWhite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "검은 인형"
+    },
+    "text": "그들은... 제가 아닙니다...+그들은 이미, 자신의 모든 것을 바쳤습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      },
+      {
+        "name": "NytoWhite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "하얀 니토"
+    },
+    "text": "제 눈에는 당신들은 전부 똑같습니다. 당신은 몇 번을 반복해도 같은 실수만을 저지릅니다.+생명은 짧고 소중한 것인데 당신들은 그것을 그저 계속 낭비하고 있을 뿐입니다. 저희가 같은 이름과 외모를 가진 것이 부끄럽습니다. 애초에 아버님께서 당신들을 만들어서는 안 됐습니다.+그래서 저는 제가 이곳에 와서 당신들에게 \"자아\"가 무엇인지 가르치고 있습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      },
+      {
+        "name": "NytoWhite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "검은 니토"
+    },
+    "text": "알겠... 습니다..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      },
+      {
+        "name": "NytoWhite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "하얀 니토"
+    },
+    "text": "오늘 모든 공로는 저의 것입니다, 저 인간도 저의 사냥감입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      },
+      {
+        "name": "NytoWhite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "검은 니토"
+    },
+    "text": "이견... 없습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      },
+      {
+        "name": "NytoWhite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "하얀 니토"
+    },
+    "text": "저 인간을 아버님이 바라시는 곳으로 데려가세요...+그리고 거기의 \"우리\"가 이 인간에게서 아버님이 바라시는 것을 얻어낼 것입니다.+그리폰이 곧 방어선을 뚫을 겁니다, 운송하는 데 아직 얼마 남았습니까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      },
+      {
+        "name": "NytoWhite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "검은 니토"
+    },
+    "text": "아직 시간이 필요합니다, 저희 무인수송기는 아직 오는 중으로... 언니, 어디에 가는 겁니까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      },
+      {
+        "name": "NytoWhite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "하얀 니토"
+    },
+    "text": "모범을 보여주겠습니다, 제가 시간을 벌어드리죠."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      },
+      {
+        "name": "NytoWhite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "검은 니토"
+    },
+    "text": "하지만 그러면 언니는 여길 벗어날 수 없습니다, 영혼도 그 몸을 떠날 겁니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      },
+      {
+        "name": "NytoWhite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "하얀 니토"
+    },
+    "text": "희생해야만 진정한 자유를 얻을 수 있습니다, 저는 자유와 함께 다시 \"깨어날\" 것입니다.+인간을 데려가세요, 그리고 아버님께 저의 공적을 말하세요, 알겠습니까?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      },
+      {
+        "name": "NytoWhite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "검은 니토"
+    },
+    "text": "알겠습니다, 아버님은 언니를 기억할 것입니다... 멩세하죠."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "10분 후."
+  },
+  {
+    "background": {
+      "id": 157
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "곧 방어선을 뚫을 수 있어, 모두 좀 더 힘내 봐!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NytoWhite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하얀 니토"
+    },
+    "text": "그래봤자 무의미합니다, 그리폰의 인형들.+몇 번을 공격하여도. 제 낫의 끝자락까지도 다가올 수 없습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "저희도 알고 있습니다...+하지만 저들이라면 가능합니다."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "..."
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "울음소리"
+    },
+    "text": "끄어어아아아!!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NytoWhite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하얀 니토"
+    },
+    "text": "세례자?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "모두, 내가 RO하고 저 ELID 괴물들을 다 데려왔어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "나도 도움이 될 수 있다고 했지!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "흐흥, 그 확성기에 그렇게 많은 기능이 있는 줄은 몰랐어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "난 뭐든지 할 수 있다고!+야 좀 더 빨리 달려, 나 잡혀간다!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "SOP2, 너무 많이 데려온 거 아닙니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "네가 여기저기 있는 대로 다 데려오랬잖아!"
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "감염자들이 방어선을 덮쳤다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NytoWhite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하얀 니토"
+    },
+    "text": "외곽부대, 세례자에게 공격하면 안 됩니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "어라? 저 하얀 녀석들 왜 반격 안 하는 거야? 지금 산채로 뜯기고 있잖아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "그게 중요해? M82, 적의 좌표 확보했어, 이 거리에서 저격 가능해?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "<color=#00CCFF>이보다 세 배 거리도 문제없습니다.</color>"
+  },
+  {},
+  {
+    "sound": {
+      "se2": "MachineGunBurst"
+    },
+    "text": "타앙!+하얀 인형의 머리는 총알에 맞아, 수박처럼 터졌다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "임무 종료.+이제는... 안젤리아와 416의 차례네."
+  },
+  {
+    "background": {
+      "id": 47
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "같은 시간, 세이프 하우스 안."
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "쾅! HK416가 발로 문을 차 열었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "지휘관님! 어디 있어요, 빨리 나와요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "지휘관이 안 보여, 빨리 찾아!"
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "검은 니토"
+    },
+    "text": "그럴 필요 없습니다.+이미 늦었습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "검은 인형이 방에서 천천히 나왔다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "어째서... 어째서 네가 여기 있는 거야!+지휘관은? 지휘관은 어디 있어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "검은 니토"
+    },
+    "text": "그리폰의 지휘관님은 이미 저희가 데려갔습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "...+어째서...+대체 무슨 목적이야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "검은 니토"
+    },
+    "text": "당신들은... \"저희\"를 전혀 모릅니다...+당신들은 \"저희\"의 이해할 수 없을 겁니다..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "뭐라는 거야..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "아무 이유도 없이 전장에 나타나지는 않았겠지, 하늘에서 내려올 리는 더더욱 없고."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "검은 니토"
+    },
+    "text": "그렇다 해서, 당신이 무엇을 할 수 있으십니까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "그래, 네놈들이 누구든, 무슨 목적이 있든 상관 없으니까, 지휘관이나 빨리 내놔!"
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "검은 니토"
+    },
+    "text": "아쉽지만, 그 인간은 이미 이곳에 없습니다.+당신들은 아무것도 할 수 없습니다.+제가 이곳에 있는 건 메세지를 전하기 위해서입니다.+\"저희는 세상을 새로 쓰게 될 칼날.\""
+  },
+  {
+    "sound": {
+      "se2": "MachineGunBurst"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "타앙!+안젤리아가 한 방에 검은 인형을 사살했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "내 앞에서 그런 말 하지 마, 역겨우니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "<color=#00CCFF>안젤리아, 전장의 통제가 어려워지고 있어요, 빨리 철수해야 해요!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 2,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "<color=#00CCFF>확인하겠습니다. 지휘관은... 정말로 납치당한 것입니까?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "이 방에 더 이상의 생명 반응은 없어, 아무래도 그런 것 같아..."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "<color=#00CCFF>저 하얀 인형... 녀석이야말로 시간을 끄는 역할이었어.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "<color=#00CCFF>안젤리아...</color>+<color=#00CCFF>그럼 우리 임무에 실패한 거야...?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "안젤리아는 바닥에 쓰러진 검은 인형의 잔해와 온 바닥의 붉은 액체를 보며 잠시 침묵했다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "아니, 아직이야...+우리의 임무는... 아직 끝나지 않았어.+그 누구도 버려지지 않아, 약속하지.+......"
+  },
+  {
+    "background": {
+      "id": 158
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "..."
+  },
+  {
+    "text": "이것으로 모든 이야기를 해버린 것 같다, 이제 틀린 곳은 없을 것이다.+나의 뇌는 홀가분해졌다, 더 이상 자백약과 싸우지 않아도 돼... 물론 이것으로 난 더 심각한 사태를 맞이하게 되겠지만."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "... 아버님.+그리폰의 지휘관이 모든 내용을 진술했습니다, 현재 저희가 파악한 정보와 거의 일치합니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "변조된 목소리"
+    },
+    "text": "<color=#00CCFF>이제야 털어놨나?</color>+<color=#00CCFF>고작 PMC의 직원 상대로, 이렇게나 시간을 낭비하다니, 참으로 한심하구만.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "죄송합니다, 아버님. 저희는 이미 최선을 다했습니다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "변조된 목소리"
+    },
+    "text": "<color=#00CCFF>나도 알지, 애초에 너희들 같은 쓰레기에게 기대한 적도 없지. 그럼 결과나 말해, 되도록 짧게.</color>"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "차분한 인형소리",
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "<color=#00CCFF>... 지휘관님.</color>"
+  },
+  {
+    "background": {
+      "id": 158
+    },
+    "screenEffect": "dark2",
+    "text": "이때, 내 귓가에 소리가, 혹은 희망이 들려왔다."
+  },
+  {
+    "characters": [
+      {
+        "name": "차분한 인형소리"
+      }
+    ],
+    "text": "<color=#00CCFF>한 번 몸의 구속기를 검사해 보세요, 다만 아직 움직이시면 안 됩니다. 이제 금방 해킹을 통해 풀었어요.</color>+<color=#00CCFF>풀린 것을 확인했다면, 구속기 받침 안에 권총이 있는지 확인하시고. 오른쪽 아래를 보시고 눈을 두 번 깜빡이고, 다시 전방을 주시하세요.</color>"
+  },
+  {
+    "text": "구속기가 풀린 것이 느껴졌다, 그리고 그녀가 말 한 대로 했다.+이제 자유롭게 움직일 수 있게 됐지만, 아직 타이밍은 모른다."
+  },
+  {
+    "characters": [
+      {
+        "name": "차분한 인형소리"
+      }
+    ],
+    "text": "<color=#00CCFF>알겠습니다, 지휘관님, 저희도 곧 취조실에 도착할 거예요.</color>+<color=#00CCFF>그리고 저 니토들이 그 전에 공격한다면 즉시 반격하세요. 심문용인 인형일 뿐이라 무기나 전투능력은 없습니다. 당신이라면 해낼 수 있어요.</color>+<color=#00CCFF>그리고 암구호를 잊지 마세요. 다 잘 들으셨다면, 왼쪽 위를 보고 인상을 찌푸리면서 입가를 오른쪽 아래로 내리고 혀를 내미세요.</color>"
+  },
+  {
+    "text": "좀 난이도가 있지만, 시키는 대로 했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "차분한 인형소리"
+      }
+    ],
+    "text": "<color=#00CCFF>멋진 표정이네요, 이미 찍어뒀어요. 이야기에서 제 이미지를 손상시킨 벌이예요.</color>+<color=#00CCFF>그럼 안심하시고 기다리세요, 시간이 좀 더 필요하니까요.</color>"
+  },
+  {
+    "text": "더는 시간이 없다고 말하고 싶지만 통신이 끊어졌다.+한편 니토의 통신기 너머로 변조됐지만 그 오만함을 감출 순 없는 남성 목소리가 들려왔다.+아마 저 사람은 지금쯤 소파에 누워서 음악을 들으며 천장을 쳐다보고 있겠지.+이제 내가 어떻게 될지... 저 \"아버님\"이란 작자가 나를 어떻게 할지는 이미 눈에 보였다..."
+  },
+  {
+    "characters": [
+      {
+        "name": "변조된 목소리"
+      }
+    ],
+    "text": "<color=#00CCFF>... 그러니까, 저 지휘관이나 다른 목표들도 엘더브레인과 접촉할 기회가 없었다는 거냐?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "확실히 그렇습니다, 여러 방면을 분석해본 결과 어떤 모순도 발견하지 못했습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "변조된 목소리"
+    },
+    "text": "<color=#00CCFF>그러면 모순이 없는 거지, 너희 일은 끝났다.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "이 지휘관은 어쩌시겠습니까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "변조된 목소리"
+    },
+    "text": "<color=#00CCFF>그걸 또 묻는 거냐? 몇 번을 해봤어?</color>+<color=#00CCFF>그 지휘관의 머리를 잘라서 네게 가져와. 증거는 인멸하고.</color>+<color=#00CCFF>이번엔 좀 더 가까이가서 좀 더 세게 잘라. 단숨에 죽도록 말이야, 그리고 다치게 하지 마, 그걸로 연구해야 하니까.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "구조는 아직인가, 저 넷 니토들이 가까이 오면서 칼을 꺼냈다.+머리 말고 또 어딜 맞춰야 녀석들에게 제대로 먹힐지는 모르니까, 좀 더 가까이 올 때까지 기다려야 한다, 그래야 확실하게 머리에 명중할 수 있으니."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "+<c>날 어떻게 할 셈이지?<c>약속과 다르다!<c>마지막으로 해줄 말은 없나?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "네 인형들은 아무 대답도 없이 점점 다가온다.+아직이다... 아직 움직이면 안 돼, 더 가까이, 좀 더 가까이!+그리고... 대체 어느 것이..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "text": "니토들이 손을 들어 올리는 순간."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "？？"
+      }
+    ],
+    "text": "\"불행을 선사하러 왔습니다.\""
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "text": "탕! 타탕!"
+  },
+  {
+    "background": {
+      "id": 158
+    },
+    "screenEffect": "dark2",
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "나는 권총을 아직 쓰러지지 않은 니토를 향했다.+녀석이 나를 바라보지만, 난 쏘지 않았다, 왜냐하면..."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_stage1"
+    },
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "\"숙녀에게는 상냥함이 내 좌우명이다.\""
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토？"
+    },
+    "text": "답어는 필요 없다고 했잖아.+그래도 그 답어 꽤 마음에 들었어, 그리고 아무래도 우리가 누군지 알고 있는 것 같네."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "+<c>오랜만이다, UMP45.<c>404 소대가 모두 온 건가?"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토(UMP45)"
+    },
+    "text": "이번 임무에 참가하게 돼서 영광이야, 지휘관."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토(UMP45)"
+    },
+    "text": "416이 나와 함께있고, G11과 9은 원거리에서 지원하고 있어. 걱정 마, 우리가 구해줄게."
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "이 말의 어디까지가 진심인지 의심스럽다."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "이제 한숨 놓을 수 있게 되었다. 적어도 동료로는 믿을만한 녀석들이니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토(UMP45)"
+    },
+    "text": "나도 대답으로 미소를 지어주고 싶지만, 이 몸에 침입하는 것만으로도 내 모든 연산량을 써야 해서 말이야.+표정하고 목소리는 이대로니까 신경 쓰지 마."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그 니토는 문 앞에 다가가 취조실의 문을 살펴보았다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토(UMP45)"
+    },
+    "text": "정말로 당신을 엄청 중요시했나 보네, 이 취조실은 비밀 유지를 위해서 안에서만 열 수 있고, 이 니토들만이 문을 열 권한이 있어.+물론, 밖에서 문을 날려버릴 수도 있지만 그랬다간 지휘관도 날아갈까 봐."
+  },
+  {
+    "text": "끼익 소리와 함께 니토가 문을 열었다.+그리고 한 인형이 들어왔다."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "... 무사한 모양이네요, 지휘관님."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "나와 통신한 차분한 목소리의 인형이 바로 HK416이다. 그리고 니토를 해킹한 인형은..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45Mod",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP45"
+    },
+    "text": "괜찮은 솜씨네, 지휘관.+그런 상황에서도 스스로 니토 셋을 사살할 수 있고 말이야.+그럼 잠깐 마무리 좀 할게."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45Mod",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ]
+  },
+  {
+    "text": "총이 울리고, UMP45가 해킹당한 니토를 해치웠다."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45Mod",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP45"
+    },
+    "text": "수고했어."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45Mod",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ]
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "+<c>정말로 UMP45가 맞는가?<c>다시 만났군, HK416."
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "UMP45Mod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP45"
+    },
+    "text": "내 새로운 모습 마음에 들어? 앞으로 날 볼 기회는 얼마 없을 거야."
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "UMP45Mod",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "그럼 이참에 칭찬해주시죠, 다음에 언제 만날지 모르니."
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "UMP45Mod",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP45"
+    },
+    "text": "다음에 만날 때 나를 잊었거나, 떠올리기 싫을지는 몰라도.+적어도 그 암구호를 기억해 준다면 나도 더 할 것 없어. 그럼 계속 움직이자."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "오래 기다리셨네요, 지휘관님. 아직 움직이실 수 있나요?+아무리 지어낸 게 어설프다 해도 이렇게까지 하다니..."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "HK416이 다가왔다, 나를 좀 걱정하는 표정인 것 같았다. 어쩌면 의식이 몽롱해서 잘못 본 것이거나, 징계가 정말로 심한 것일 수도 있다..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45Mod",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP45"
+    },
+    "text": "416, 지휘관을 부축해, 바로 여기를 떠날 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45Mod",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "그렇게 쉽게 떠날 수 있을 것 같진 않아. 45, 녀석들은 왔어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45Mod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP45"
+    },
+    "text": "당연하지, 녀석들이 지휘관을 포기할 리가 없어, 가자! 일단 어디에든 숨어!"
+  },
+  {
+    "screenEffect": "dark1",
+    "text": "새로운 모습의 UMP45와 여전한 모습의 HK416에게 부축받으며 취조실을 떠났다.+이제서야 이 망할 곳을 떠날 수 있게 되었다. 여기서 대체 몇 시간, 혹은 며칠이 지났는지는 모르지만, 본능적으로 뒤돌아 그 니토들의 잔해를...+... 잔해라고 해야 하나? 아니면...+... 피와 같은 액체와 총알에 찢겨진 몸뚱이를 보았다."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "text": "\"녀석들\"은 대체 뭐지?+약물 때문에 계속 어지러운 의식에 여러 생각이 통제를 잃고 머릿속을 맴돌았다.+UMP45조차 1분만 해킹을 유지할 수 있다?+RO도 \"녀석들\"이 피탄당하자 흘러내린 액체가 이상하다고 했지?+그리고 그 한없이 뚜렷하면서도 공허한 목소리...+생각을 정리할 수 없었다, 총성, 포성 그리고 UMP45가 도움을 부르는 소리 속에서 의식이 점점 희미해져 갔다..."
+  },
+  {
+    "screenEffect": "dark2",
+    "text": "날 기다리고 있는 것은 승리일까? 자유일까? 아니면... 더 깊은 지옥의 구렁텅이일까?"
+  }
+]

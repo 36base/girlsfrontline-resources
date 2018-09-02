@@ -1,0 +1,707 @@
+[
+  {
+    "background": {
+      "id": 83
+    },
+    "sound": {
+      "bgm": "BGM_Sunshine"
+    },
+    "text": "그리폰 기지 내부."
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "아직 검수하지 못한 항목은 두 개인가.+오늘은 어디보자..."
+  },
+  {
+    "text": "명단에 적혀있는 담당자를 보자, 마음이 덜컥 무거워졌다."
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "음, 세뱃돈 준비 담당은 DSR50인가...+좀 위험해 보이는 녀석이지만, 단순히 검수하러 가는 정도로 뭐 별일은 없겠지.+...매도 먼저 맞는 편이 나으니까, 우선 그쪽부터 가자."
+  },
+  {
+    "background": {
+      "id": 82
+    },
+    "screenEffect": "blackSpot2",
+    "text": "그리폰 인형 숙소 내부."
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "어머... 지휘관, 오셨나요..."
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "어, 설날 세뱃돈의 준비가 어떤지 좀 보러 왔어.+준비는 잘 되어 가고 있어?"
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "세뱃돈 준비가 어떤지만 물어보려 오신 건가요?"
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "뭐... 그거 말고 따로 나한테 할 얘기라도 있는 건가?"
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "아뇨...+하지만 사적인 일로 절 찾아오셔도 괜찮아요..."
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "그건... 기회가 생기면 그렇게 하지..."
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "네, 언제든 기다리고 있을 게요~"
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "그럼 세뱃돈 준비는 어떻게 됐지?"
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "봉투와 돈은 다 준비되었답니다.+이제 돈을 봉투에 넣기만 하면 돼요."
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "그래, 알겠다.+되도록 빨리 끝내도록, 이제 설까지 얼마 안 남았으니까."
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "그 소원... 이루어 드리죠.+그럼, 지휘관... 한 가지 여쭤보고 싶은 것이 있는데요..."
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "무슨 문제라도 있나?"
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "봉투 안에 넣을 돈의 액수, 무작위로 넣을까요, 아니면 다 일정한 액수로 넣을까요?+선택에 따라서... 미래도 크게 바뀔 수 있답니다..."
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "그렇군... 잠깐 생각해 볼게..."
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "뜯기 전까지 봉투에 얼마가 들어 있는지 알 수 없고...+운으로 기쁨의 정도를 결정 짓는 거죠, 재밌지 않나요?+담당자로서... 이런 희비를 결정하는 권리를 손에 쥐게된다면 참으로 멋진 느낌일 것 같아요..."
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "으음... 그러니까...+어디보자... 역시 일정한 액수로 해줘."
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "어머...?"
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "이번에는 명절인 만큼, 모두에게 같은 기쁨을 주고 싶어."
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "그렇게 생각하셨군요...+결정을 하게되면... 무르기는 없답니다...+정말로 그리하시겠나요?"
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "그래. 다른 의견이라도 있는 거야, DSR?"
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "없답니다... 당신의 의견을 우선으로 채택할테니까요.+다만..."
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "다만?"
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "...아뇨.+그저 그믐날의 밤을 기대하고 있답니다...+당신과 함께라면, 분명 서로 즐거운 시간이 되겠죠."
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "그, 글쎄다... 하하..."
+  },
+  {
+    "background": {
+      "id": 128
+    },
+    "screenEffect": "blackSpot2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "섣달 그믐밤.+연말 회식 전에, 인형들은 81식 카빈이 나눠준 기차표 가지고 DSR50에게서 세뱃돈 봉투를 받았다.+식탁앞에 앉은 사람이 늘어나면서, 대문쪽 DSR이 앉은 탁상 옆의 사람도 점점 줄어 들었다."
+  },
+  {
+    "sound": {
+      "bgm": "GF_Memorial"
+    },
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "좋은 밤이구나, DSR."
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "지휘관님... 세뱃돈을 받으러 오셨나요?+기차표를 제출해 주세요."
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "81식 카빈에게 받았던 기차표를 DSR에게 건냈다."
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "네, 확인 되었습니다.+여기 세뱃돈을 받으세요, 부디 좋은 곳에 쓰시길 바랄게요."
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "고마워, DSR.+맞다, 하나 물어볼게, 세뱃돈은 이제 다 나눠 준 거야?"
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "아직 하나 남았네요... 이건 아마 81식 카빈 씨의 몫이겠죠."
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "아직 밖에서 수고하고 있겠지...+괜찮다면, 나한테 맡겨두겠어? 내가 가서 건내줄테니.+그럼 너도 일찍 가서 식사할 수 있잖아."
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "하지만, 차표 없이 세뱃돈을 드릴 수는 없답니다~"
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "이럴 땐 그냥 눈감아줘라...+어차피 이거 하나 남은 거잖아, 안 그래?"
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "눈감아 드릴 수도 있지만... 대신 무엇으로 저와 교환하시겠어요?"
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "뭐?"
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "봉투를 추가로 받으려면 대가를 치러야 한답니다, 지휘관.+당신이 제게 줄 세뱃돈은 또 어디 있나요?"
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "그...+내 봉투로 교환하면 안 될까?"
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "그런 얼버무리는 답변을... 듣고 싶진 않았답니다."
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "그럼 뭘 원하는데?"
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "세뱃돈이 없어도 괜찮아요...+지금 여기서, 제 욕망을 채워주세요."
+  },
+  {
+    "screenEffect": "shockScreen",
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "무, 무슨 짓을 할 셈이지?"
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "안심하세요, 결코 해를 끼치려는 건 아니니까요...+봉투를 갖고 싶다면... 제 말에 따라주세요, 어떠신가요?"
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "...그러지."
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "만족시키지 못하면, 저 남은 봉투를 얻을 순 없겠군.+마음 속으로 한숨을 쉬고, 체념한 듯이 이 위험한 인형을 향해 고개를 끄덕였다."
+  },
+  {
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "그럼, 우선 눈을 감으세요..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "text": "어둠 속에서, 한 끗 향기를 맡았다.+그 향기가 점점 나에게 가까워지자, 내 가슴도 점점 빠르게 뛰었다.+잠시 후, 차갑고 매끄러운 물건이 내 입술에 닿았다."
+  },
+  {
+    "character": [
+      {
+        "name": "DSR-50"
+      }
+    ],
+    "text": "눈을 뜨셔도 좋아요."
+  },
+  {
+    "background": {
+      "id": 128
+    },
+    "screenEffect": "blink",
+    "text": "눈을 뜨자, 입술에 닿은 건 돈봉투였다.+그녀는 내가 눈을 뜨는 것을 보자, 그 봉투를 상 위에 두고서 빙그레 웃으며 나를 보았다."
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "이게 마지막 봉투인가?"
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "아뇨."
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "DSR은 다른 봉투를 꺼내, 방금 둔 봉투 옆에 두었다."
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "이게 마지막 봉투랍니다."
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "이... 이건 무슨 일이지?"
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "가벼운 농담이에요.+그래도 참으로 재미있는 반응을 보여주시는군요."
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "......"
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "또 하나는 제 몫이랍니다...+그럼, 당신께서 직접 이 세뱃돈을 제게 주세요.+그 뒤에... 81식 카빈 씨의 봉투를 가져가셔도 좋아요."
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "정말이지... 어쩔 수 없군..."
+  },
+  {
+    "text": "난 봉투를 집어, 모서리를 두손으로 잡고 DSR에게 건냈다."
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "크흠... 아직 이르지만 새해 복 많이 받으라고, DSR."
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "새해 복 많이 받으세요... 지휘관."
+  },
+  {
+    "character": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "그, 그럼 난 먼저 간다...+세뱃돈 고맙다, DSR."
+  },
+  {
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "언제나처럼 속을 알 수 없는 웃음을 띄운 채, DSR도 내게 고개를 끄덕였다."
+  },
+  {
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "DSR50",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "DSR-50"
+    },
+    "text": "즐거운 밤이 되기를 바랄게요...+만족하지 못하신다면... 언제든지 당신이 오기를 기다리고 있으니..."
+  }
+]

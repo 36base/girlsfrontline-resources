@@ -1,0 +1,44 @@
+[
+  {
+    "background": {
+      "id": 8
+    },
+    "sound": {
+      "bgm": "BGM_Frontline"
+    },
+    "text": "......그리폰 S09구역 전술 지휘실."
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "지휘관, 당신이 헌터를 성공적으로 처리한 덕에 그리폰 측이 인류 거주지 수복 작업의 기회를 얻었습니다.+하지만 축하할 시간이 없는 관계로 바로 다음 계획을 시작하겠습니다.+저번AR팀이 획득한 정보에 따르면, S09구역에는 철혈의 중요 계획에 관련된 문서가 숨겨져 있다고 합니다.+그래서 조사를 위해 인형 소대 하나를 보냈습니다.+당신의 임무는, 그 소대가 목표지점까지 도달하는 것을 돕는 일입니다. 보십시오......"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "그 소대가 분쟁지대 습격을 받았습니다.+지휘관님, 부디 전장의 측면으로 진입하여 그녀들을 엄호해 주십시오."
+  }
+]

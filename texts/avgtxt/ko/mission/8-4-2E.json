@@ -1,0 +1,835 @@
+[
+  {
+    "background": {
+      "id": 54
+    },
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "..................+............"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "......페르......시카. +파일......전부 추출했어."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Truth"
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 2,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "............+잘 했어, M16. +드론을 사용해서 16LAB으로 보내줘."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "보냈어, 네가 나한테 준 장비랑 같이......+한번도 쓰지 않았어, M4A1도 쓸 일이 없었으면......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": ".........상황에 따라 판단할 수 있을 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "하, 그렇지......똑똑한 아이니까......+조금 지나치게 똑똑해서 아쉬워, 우유부단한 AI는 리더를 맡기 부적합한데, 애초에 좀 더 결단력 있게 설계해야 했었어. +아니면, 내가 좀 더 엄격하게 대했어야 했나......아쉽네, 이제 그럴 기회가 없다는 게."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "어쩌면......하지만 넌 분명 지금조차도 그녀를 도와주고 있는 거야. +알고 있어?......M4는 바로 내 뒤에 있어. 네가 한 말들, 전부 그대로 그녀의 마인드맵에 입력되고 있는 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "왜 그렇게 하지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "그녀의 마인드를 안정시키기 위해서야.+그녀한테 걸린 제한을 풀어보려고 시도 중이야, 강제로 기술을 사용해 깨우려다간 마인드가 통제를 잃을 수가 있어서 말이지. +네 목소리는 그녀를 가라앉히고 안정시킬 수 있어. 그녀의 AI인격을 수복하고 조정하려면 필요한 절차야."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "제한? 조정? 이해를 못 하겠는데......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "M4A1......이번엔, 단지 그녀를 깨우려는게 아니야. +그녀가 깨어나면 지금까지 보다 더욱 믿음직해지고......강해질 거야......+......그게......그녀의 원래 모습이지."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "하, 그런 M4A1......정말 상상이 안가네. +아쉬워......난 볼 수 없다니......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "M16A1, 후회해?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "후회할리가......말 그대로 대박인데 말이야. +그녀에게 있어서 내가, 그렇게 중요했다면......"
+  },
+  {
+    "background": {
+      "id": 54
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "칫......"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "무슨 일이야? 네 마인드가......불안정해지고 있는데."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "머리가......아파오기 시작했어......+미약한 자극이야, 심한 건 아니야, 짜증날 뿐이지......【우산】이 마인드를 오버라이트 하는게 바로 이런 기분인가?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "어쩌면......하지만 AR-15가 보고한 적은 없어."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "그냥 보고하기 싫었겠지, 그녀석 말이야......쎈 척을 너무 좋아한다니깐. +그리고......채널에서 잡음이 들리는 것 같은데......"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "철혈이 네 모듈 일부를 오버라이트 중일거야, 채널도 영향을 받겠지. +내 목소리도 곧 들리지 않을 거야......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "하......+작별인사를 할 기회를 놓치는 건가?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "아직 그쪽 연결은 끊지 않았어. 작별하고 싶다면 지금 해."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "하하, 괜히 시끄럽게 해서 깨우는건 아닐까 몰라? 너희들 동화처럼 말이야."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "네 생각에는?"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "............M16이 잠시 침묵했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "M4 씨..."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Wake"
+    },
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "날 기다려줘, 내가 뭘로 변했든지......"
+  },
+  {
+    "characters": [
+      {
+        "name": "페르시카"
+      }
+    ],
+    "text": "M16......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "하, 이거 조금 미안해지는데......+뭐 내가 말하고 싶은 건 이것밖에 없어......"
+  },
+  {
+    "text": "............말을 마치고, M16이 기지개를 쭉 폈다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "뭐 어쨌든, 내가 할 일은 더 없겠지? 이제 좀 쉴 수 있겠네. +아직 의식을 지배할 수 있을 때 우리도 이만 작별인사를 하자고......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "M16......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "......!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "M16......+가지 마......"
+  },
+  {
+    "characters": [
+      {
+        "name": "페르시카"
+      }
+    ],
+    "text": "......!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "M16......가지 마세요......!+M16A1...!!!"
+  },
+  {
+    "screenEffect": "dark1",
+    "text": "드디어, 길을 잃었던 나는 희망을 보았다. +믿음직하고 익숙한 모습이, 먼 곳에서 외로이 타오르고 있었다, 나는 그게 출구란 걸 눈치챘다......+쫓아가니, 그 불꽃이 빠르게 커지며, 강렬한 빛으로 화했다......+그 빛은 결국 천장의 불빛으로 변했다......그리고 나는, 끝없는 꿈에서 현실로 돌아왔다."
+  },
+  {
+    "background": {
+      "id": 53
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "헉......! 헉......! 헉......!"
+  },
+  {
+    "characters": [
+      {
+        "name": "페르시카"
+      }
+    ],
+    "text": "M4A1......+드디어......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "............+전......어디에......"
+  },
+  {
+    "characters": [
+      {
+        "name": "페르시카"
+      }
+    ],
+    "text": "네 집이야. M4, 잘 돌아왔어."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "그런가요......드디어......+그리고, 페르시카 씨......+......M16은요? +그녀의 목소리를 들었는데......"
+  },
+  {
+    "characters": [
+      {
+        "name": "페르시카"
+      }
+    ],
+    "text": "M16......+임무를 수행하러 갔어......당분간 여기에 없을 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "그......런가요......+그녀가......보고 싶어요......"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "그래? 오래 기다려야 할텐데......"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "text": "귓가의 잡음이 채널에서 흘러나오는 통신음을 완전히 뒤덮었다. 신호가 완전히 단절되었다. 떠날 때가 된건가...모든 이를 떠나......+나는 자리에서 일어나, 몸에 묻은 먼지들을 씁쓸히 털었다. 나는 이 방에 미묘한 애착이 생긴 걸 느낄 수 있었다. +물론, 삭제된 기억들 때문이 아닌, 마지막 작별을 하는 장소로서......"
+  },
+  {
+    "background": {
+      "id": 54
+    },
+    "screenEffect": "dark2",
+    "text": "감청되고, 감시되고, 통신장해 무기로 사용되고......【우산】에게 감염당한 내가 이젠 어떻게 변하게 되는 걸까? +이 순간 내 마인드에 떠오른것은 나 자신이나 다른 이가 아닌, 바로 AR-15였다......+그 자식......이 때 무슨 생각을 했었을까......+생각이 이어지지 않았다, 숨을 내쉰 나는 내 무기를 단단히 붙잡았다. +낡은 철문이 끼긱거리며 열리는 소리를 등지며 나는 방을 떠났다."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "text": "\"아침에 일어날 때, 보통 사람들은 이게 삶의 마지막 날이라고는 생각하지 않지.\" +가끔, 모든 걸 잃으면 일들이 오히려 가벼워질 때가 있다."
+  },
+  {
+    "text": "............털썩!"
+  },
+  {
+    "background": {
+      "id": 57
+    },
+    "screenEffect": "dark2",
+    "text": "더이상 사지를 움직일 수가 없었다. 나는 방전된 로봇마냥 복도에 쓰러졌다. +때가 왔군......+이제......내 운명을 기다리면 될 뿐이다......+........."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "노랫소리?"
+  },
+  {
+    "text": "맑은 여성의 목소리가 내 귓가에 울렸다, 난 더이상 소리의 방향을 분간조차 할 수 없었다. +어쩌면 단순히 듣는 것도 나쁘지 않겠지......피곤해 죽겠어......"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "듣기 좋네......+드디어......나도 꿈이란 걸 꾸는 건가......"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "아니야, M16A1. 꿈도 아니고 환각도 아닌걸. +넌 그저 철혈의 심층 네트워크에 침입했을 뿐이지."
+  },
+  {
+    "background": {
+      "id": 56
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Brain"
+    },
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "......드......리머......"
+  },
+  {
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "어머, 난 말이야......이런 일을 처리하는 걸 아주 아주 싫어한다고......+갑자기 하는 야근같은 건 정말 불쾌하단 말이야......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "......뭐......야, 총......안쏴......?"
+  },
+  {
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "서두르지 말렴, 내가 재밌는 걸 알려줄게. +방금 말이지, 조립식 드론이 날라가는 걸 봤는데 말이지......+그런 건 하늘에서 아주 잘 보인단다......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "무슨......말을?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "진정해, 격추된 건 확인했지만 내 관할 범위 밖인걸. +어느 쪽이 먼저 얻을지는 뭐 붙어봐야 알겠지만. +물론, 이제 너랑은 상관 없는 일이겠지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "흥......+우리 지휘관을......얕보지 말라고......"
+  },
+  {
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "그럼 맘대로 하렴, 어차피 나도 그런건 별로 신경 안쓴다고."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "그러면......뭘......원하는 거지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "정확히 말하자면, 우리의 엘더 브레인이 널 보고 싶어하지."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "무슨? +여기에 있는 것 같지는 않은데."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "물론 여기엔 없어......+그분은 지금, 네 마인드 속에 계시지......+방금, 들리지 않았어?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "......!"
+  },
+  {
+    "background": {
+      "id": 18
+    },
+    "screenEffect": "dark2",
+    "text": "............다음날, 그리폰 본부."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "돌아오신 걸 환영합니다, 크루거 씨. +어젯밤의 일은 전부 해결됐습니까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "크루거"
+    },
+    "text": "페르시카 덕분에 당분간은. +하지만 아직 풀어질 순 없지, 군 측에선 이후에 압력을 계속 넣을거라네."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 1
+      },
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "그리고, 크루거씨......+인형 M16A1에 관한 일은......"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 1
+      },
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "크루거"
+    },
+    "text": "그 희생은 헛된 게 아니야. +그 작전의 지휘관을 독려하게나, 다른 인형들을 위로해주고, 그녀들의 마인드 상태를 주시하도록."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "알겠습니다. 하지만......감히 얘기하건데, AR팀 그녀들의 마인드맵, 조금 불편하지 않을지요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "크루거"
+    },
+    "text": "모든 일에는 상응하는 대가가 있는 법이라네, 헬리안. +여기는 전장이야, 항상 우선순위는 바뀌기 마련이지. +사무실로 가세, 이후 계획을 변경해야 하니. 저번에 말했던 것들은 다 준비되었나?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "예......+크루거 씨, 결전의 단계가......오는 겁니까?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "크루거"
+    },
+    "text": "빨리 준비하도록......"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "크루거"
+      }
+    ],
+    "text": "이제...그리 멀지 않았네..."
+  },
+  {
+    "screenEffect": "dark1",
+    "text": "............제8전역 불꽃 END"
+  }
+]

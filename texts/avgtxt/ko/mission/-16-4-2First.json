@@ -1,0 +1,178 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "blackSpot1",
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "text": "전투가 끝난 후..."
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "저 인형들의 연산 능력은 이미 전부 소모되었습니다. 다시 한번 【우산】이 온다면 제 방화벽이 돌파당할 수 있습니다."
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "충분할 정도로 봤으니까, 그만 연결을 끊어버려. 고생했어."
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "네."
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "포인트 A 근처에 통신시설이 있어."
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "네. 이전에 갔었던 통신시설 말씀이시군요."
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "그래 맞아. 난 지금 저 통신시설과 전에 준비했던 위성 통신 장비를 이용해 외부와 연락할거야.+해낼 수 있겠지?"
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "물론입니다."
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "......삑.+AN94 통신종료."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "오가스 시스템......+그당시 소련이 3진법 구조의 전국 자동화 관리 시스템으로 이용하기 위해 설계한 거였네......+지금은 단순화시켜서 철혈의 AI를 통제하는 하위 계층 프로토콜이 되었지......+하지만 정말로 그것뿐인 걸까?"
+  }
+]

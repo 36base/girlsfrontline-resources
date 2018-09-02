@@ -1,0 +1,424 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 46
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "text": "결국 철수부대 전원이 빌딩에 들어가 방어선을 세우기로 하였다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "이게 안전한 결정이라고 보지 않습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "군이 우릴 발견할 거야, 하지만 우리도 대비를 할 거고."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "AK12, 모든 정비가 끝났어."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "AK12! 군이 빌딩을 향해 오고 있어, 분명 우릴 발견한 거야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "예상한 결과야, 하지만 이젠 선택지가 없어.+적어도, 끝까지 함께 싸우자."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "... 응!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "RO635"
+    },
+    "text": "군의 주력부대와 정면으로 싸우는 건 이게 처음인데..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "안젤리아를 위해서..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "그리고 우리 모두를 위해서.+AN94, 내 결정이 싫어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 3
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "전 AK12를 믿습니다.+어떤 선택이든 결국 저흰 운에 맡겨야 한다고 당신 스스로 말했습니다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 3
+      },
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "... 확실히.+지금 우리에게 필요한 건 운이야."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se2": "Gunfight"
+    },
+    "text": "..."
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Brain"
+    },
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "꿈을 꾸었다.+나를 위해서... 다른 사람들이 죽는 꿈.+그리고 눈을 뜨면, 꿈의 모든 것이 현실이 될 것을 잘 알고 있다.+하지만, 깨어나야만 한다.+내가... 직접 마주 봐야 하는 일이니."
+  },
+  {
+    "background": {
+      "id": 46
+    },
+    "screenEffect": "blink",
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "예고르..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      },
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "예고르"
+    },
+    "text": "네년의 부하는 매우 충성스러웠다. 모두 마지막 한순간까지 저항했지, 전술인형이라면 당연히 해야 하는 의무를 다했다.+물론, 우리에겐 아무런 의미도 없다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      },
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "지금... 그 애들은 어떻게..."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      },
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "예고르"
+    },
+    "text": "몇 개를 생포해 지금 나의 부하가 아래층에서 해체작업 중이다. 마인드맵에 쓸만한 물건이 있을지 모르니.+그리고 난 그저 네가 깨어나기를 기다렸을 뿐이다."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "지금 할 말 더 있는가?+설마 또 다른 장난감들이 구해주기를 바라는 건가? 혹은 이 빌딩에 폭탄을 숨겨놨느냐?+하지만 아쉽게도 이미 다 샅샅이 뒤져보았다. 여기엔 아무것도 없다.+지원도, 폭탄도, 어떤 그리폰의 인형도 없다."
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "그래, 바로 그 표정이다, 바로 그 표정을 보고 싶었다.+... 그럼, 잘 자거라."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se1": "Reload"
+    },
+    "text": "..."
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "se1": "Gunkill"
+    },
+    "text": "...타앙!"
+  },
+  {
+    "background": {
+      "id": 158
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "..."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Truth"
+    },
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "이런 상황에서까지 그런 거짓말을 하시다니.+그리폰의 지휘관님, 확실히 당신을 너무 얕본 것 같습니다.+당신의 생명을 유지하는 선에서 투여량을 늘리겠습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "니토는 자백제를 또 하나 꺼내, 내 몸에 주입했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "바로 효과가 나타났지만, 아직은 견딜만하다. 의지가 아직은 좀 남아있다. 이것이 마지막일지는 모르겠지만..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "안젤리아가 죽을 리 없습니다, 적어도 이번 싸움에서는 살아남아 저희 중 한 명을 죽인 것을 저희 눈으로 봤습니다.+그러니 말하세요, 그녀가 어떻게 살아남았는지, 또 누구와 접촉했는지."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "난 떠오르는 대로 다 말할 것이다.+거짓이든, 진실이든, 다 말하고 녀석들 보고 알아서 구분하라고 할 것이다.+녀석들이 무엇을 바라는지는 알고 있다, 그리고 그것을 말한 뒤 내가 어떻게 될지도 알고 있다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "인간은 아주 연약한 기계입니다, 몇 번만 건드리면 망가져 버리죠.+온전한 신체와 정신상태로 이 건물을 떠나고 싶으시다면, 자신에게 남은 기회를 소중히 해서 진실을 말하세요."
+  },
+  {
+    "text": "그렇기에 내겐 시간과... 약효에 저항할 온갖 거짓들이 필요하다.+안젤리아는 내 이야기 속에서 또 몇 번 죽게 될까?+적어도, 내가 살아남을 때까지 계속 그녀를 죽여야 한다...+..."
+  },
+  {
+    "screenEffect": "dark1"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "sound": {
+      "bgm": "BGM_War"
+    },
+    "text": "10분 후..."
+  },
+  {
+    "character": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "다행히 전술맵은 괜찮은 것 같은데, 통신 시스템은?"
+  },
+  {
+    "character": [
+      {
+        "name": "VZ61",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "통신 이상 무! 이쪽은 잘 들려!"
+  },
+  {
+    "character": [
+      {
+        "name": "M4A1",
+        "face": 2
+      }
+    ],
+    "text": "...죄송합니다. 아무래도 뒤를 맡겨야 할 것 같습니다."
+  },
+  {
+    "character": [
+      {
+        "name": "PPSh41",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PPSh-41"
+    },
+    "text": "천만에요 동지, 당연히 우리가 해야 할 일이랍니다."
+  },
+  {
+    "character": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "...라져, 최대한 빨리 철수하도록 하겠습니다."
+  },
+  {
+    "character": [
+      {
+        "name": "StG44",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "바로 움직이도록 하세요. AR팀, 이쪽 전장의 상황이 보이시나요?"
+  }
+]

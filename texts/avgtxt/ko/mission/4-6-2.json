@@ -1,0 +1,406 @@
+[
+  {
+    "background": {
+      "id": 7
+    },
+    "sound": {
+      "bgm": "BGM_Boss"
+    },
+    "text": "......작전이 마지막 단계에 접어들었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "다 끝났습니다, 인트루더."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-4",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "인트루더"
+    },
+    "text": "이렇게 됐구나...즐거운 시간은...정말로 짧단 말이야..."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-4",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "이런 결과인데도 기분이 좋다는 말입니까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-4",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "인트루더"
+    },
+    "text": "내가 맡은 임무를 완수했는 걸...꽤 기분 좋은일 아닌가?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-4",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "당신의...임무...?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-4",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "인트루더"
+    },
+    "text": "말했지, 내 임무는 시간을 때우는 거라고...+조금 구체적으로 말하자면 말이지...+...너희들의 시간을 때우는 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-4",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "우리의 시간..."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-4",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "...설마?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-4",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "인트루더"
+    },
+    "text": "준비 시간은 충분했어...진정한 공연은...곧 막이 오르겠지..."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-4",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "진정한 공연...이 뭔가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-4",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "인트루더"
+    },
+    "text": "어머...희곡에는...긴장감이 있어야..."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "M16이 어디 있는지 말하세요!+빨리 죽을 생각만 하지 말고, 대답하라고요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "그게 말이지...사실 그럴 필요는 없을 걸."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "이미 도착 했거든."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      }
+    ],
+    "text": "M......16............+당신...드디어..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "text": "......찰싹!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "으아악! 너무 세게 때렸다고 임마!"
+  },
+  {
+    "background": {
+      "id": 7
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "반쯤 죽어가고 있었는데, 그거 맞아서 죽었으면 어쩌려고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      },
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "죽어버리면 딱이네요. 예비 데이터를 다운받을 필요도 없이 공장 리셋한 다음 기억을 다시 심어버리면 되죠!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      },
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M16A1"
+    },
+    "text": "에고 살려주라, 간신히 돌아왔는데, 가족이 웃는 모습으로 반겨주면 얼마나 좋아!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      },
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그러면, 어떻게 돌아온 거예요?"
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      },
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M16A1"
+    },
+    "text": "그건 말하자면 길어, 하지만 그 전에, 더 중요한게 있다고....+M4, 우리의 새 지휘관은? 연락좀 할게."
+  },
+  {
+    "background": {
+      "id": 4
+    },
+    "screenEffect": "blackSpot2",
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "text": "30분 후...."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "만나서 반가워, 지휘관, 나는 전술인형 M16A1이야.+저기...인사치레를 하고는 싶지만, 지금은 더 중요한 일이 있어서.+이 일은 당신이 최대한 빨리 알아야 하는 거야.+지금 큰 문제가 생겼어. 그것도 지금 당장."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      },
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "큰 문제? 그게 뭔가요?"
+  },
+  {
+    "background": {
+      "id": 16
+    },
+    "screenEffect": "dark2",
+    "text": "비가 내린다. 평원 위에."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "비? 평원?+그게 무슨 뜻이에요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "UMP45 그 자식이 알려준거야, 그러니까...충분히 위험하다고.+아마 곧 본부 쪽에서도 움직임이 있을 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "AR팀이 다시 모였어요. 지휘관도 준비를 마치셨고요.+무슨 명령이든간에, 이번엔 분명 문제 없을 거예요."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "하하.+그렇게 말한다면야, 얼마든지 오라고 해!"
+  }
+]

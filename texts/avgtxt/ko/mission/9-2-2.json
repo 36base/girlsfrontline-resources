@@ -1,0 +1,432 @@
+[
+  {
+    "background": {
+      "id": 18
+    },
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "text": "............군부에서 주최하는 연회에 도착하니, 그곳은 인파로 가득했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "???"
+    },
+    "text": "......크루거 씨."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "크루거"
+    },
+    "text": "죄송합니다만, 누구십니까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르 대위"
+    },
+    "text": "예고르입니다. 현재 대위를 맡고 있습니다.+장군님의 명령으로 이곳에서 당신들을 기다리고 있었습니다. 함께 가도록 하시죠."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "크루거"
+    },
+    "text": "애송이 하나가 또 승진한 걸 보면, 군부 측도 어지간히 바쁜가 보군... 자, 가세."
+  },
+  {
+    "background": {
+      "id": 79
+    },
+    "screenEffect": "dark2",
+    "text": "......"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르 대위"
+    },
+    "text": "자리에 앉아주시길 바랍니다.+장군님께서는 현재 연설 중이십니다. 연설을 끝마치고 나시면 이곳으로 오실 테니, 잠시만 기다려 주시길 바랍니다."
+  },
+  {
+    "text": "......"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카터"
+    },
+    "text": "이번 합작은 대대적으로 군과 계약상 상호 간 협력 관계를 추진시키며, 더욱 긴밀하고 효율적으로 인력 자원을 배치하고...+우리 국민이 더욱 안전하고 안정적인 생활 환경의 보장받을 수 있을 것이며......+경제 발전과 재건 사업에 있어서 더 이상 외부의 방해를 받지 않을 것을 보장하고......+또한, 우리는 효율적이고 협조적인 보장 체제를 구축하여, 민간 기업이 안보사업에 적극적으로 참여할 수 있도록 독려할 것입니다.+이번 시도가 충분한 성과를 거둔다면, 이번 경험을 발판으로 삼아 다른 영역으로 확대해 나갈 것이며, 이것은 앞으로 국가 발전의 초석이 될 것입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "기자A"
+    },
+    "text": "이전 정부는 이미 외곽 지역의 경비를 민간 군사 기업에 맡긴 적이 있는데요. 그렇다면 이번 협력은 군에서 해당 지역들의 관리권을 회수한다는 걸 의미하는 겁니까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카터"
+    },
+    "text": "민간 기업들과의 협력은 이전에 비교적 안전하지 못했던 지역들에 대해서 더 나은 안전을 보장하기 위해서였으며, 지역의 행정권은 줄곧 중앙 정부에 속해 있었습니다. 그러므로 위임한 적이 없는 관리 권한에 대해서 회수한다, 하지 않는다라고 왈가왈부할 필요가 없습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "기자B"
+    },
+    "text": "2일 전부터, 연합국은 새롭게 가입하는 국가 명단을 또다시 발표했는데요. 그렇다면 이번 움직임은 \"연합 국가 연맹\" 프로젝트에 대한 일종의 회답이신 건가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카터"
+    },
+    "text": "거듭 말씀드리지만, 이번 민간 기업과의 협력은 지역의 치안과 안전을 보장하기 위해서이며, 그 어떠한 정치적 의도는 포함되어 있지 않습니다. 기자님의 질문은 지금 이 자리가 아니라, 정부의 간담회에 가셔서 해야 할 질문인 것 같군요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "크루거"
+    },
+    "text": "미디어는 여전히 대응하기 어려워 보이는군. 장군님께서는 요 며칠 동안 대응 훈련이라도 받으신 건가?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "예고르 대위"
+    },
+    "text": "......"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "크루거"
+    },
+    "text": "(어깨를 으쓱이며) 언행에 신중하군. 난 그런 부하를 좋아하네. 여기 있는 우리 지휘관처럼 말일세."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "예고르 대위"
+    },
+    "text": "장군님께서 연설이 끝나셨으니, 곧 오실 겁니다."
+  },
+  {
+    "screenEffect": "dark2",
+    "text": "............3분 후."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카터"
+    },
+    "text": "오래 기다리게 했군. 기자들을 상대하는 건 생각했던 것보다 훨씬 더 복잡하구만."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "크루거"
+    },
+    "text": "무슨 말씀을 하십니까. 장군님께서는 퇴직 후에 회사 대변인 자리를 알아보셔도 괜찮으실 것 같던데 말입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카터"
+    },
+    "text": "난 내 퇴직 연금에 만족한다네. 별로 이 나이 먹고 다른 일을 하고 싶지도 않고 말이네.+본래 주제를 얘기하자면... 축하하네, 자네가 가져온 이 정보는 우리에게 있어서 매우 중요한 정보일세. 앞으로......"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "???"
+    },
+    "text": "그래 맞아. 이건 군에 병사를 호출하기 위한 수단이니, 엄청나게 중요하지."
+  },
+  {
+    "sound": {
+      "se1": "Select"
+    },
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르 대위"
+    },
+    "text": "!!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "???"
+    },
+    "text": "어이쿠...... 상사의 고객한테 총을 뽑아 드는 건 좋은 선택이 아닐세."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카터"
+    },
+    "text": "괜찮네, 총을 집어넣도록 하게."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르 대위"
+    },
+    "text": "알겠습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카터"
+    },
+    "text": "자네가 어떻게 들어왔는지부터 묻고 싶지만, 그런 건 자네에게 아무런 의미도 없겠지. 안 그런가, 하벨."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "하벨"
+    },
+    "text": "내 절친한 친구와 단골 고객님께서 참가하는 중요한 연회에 나도 참가하는 게 그렇게나 이상한 일인가?+오랜만이군. 카터, 그리고 크루거 씨도 정말 오랜만이군."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "............하벨이 악수를 청했다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "크루거"
+    },
+    "text": "............만나 뵙게 되어 영광입니다, 하벨 씨."
+  }
+]

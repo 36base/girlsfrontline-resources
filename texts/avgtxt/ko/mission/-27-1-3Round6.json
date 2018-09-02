@@ -1,0 +1,590 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "text": "드디어, 난 무사히 카리나의 곁에 돌아올 수 있었다.+비록 저 요양원이 지구 어디에 있는 건지는 모르지만, 적어도 내 곁엔 모두가 있다, 그러니..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 9
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "지휘관니임!!!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 9
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "<color=#A9A9A9>껴안기고서야 그 악몽 같은 싸움이 드디어 끝났다는 것을 깨달았다.</color>+<color=#A9A9A9>그리고 나도, 드디어 집에 갈 수 있었다.</color>"
+  },
+  {
+    "background": {
+      "id": 97
+    },
+    "screenEffect": "dark2",
+    "text": "다음날, 나는 카리나와 함께 수송기에 타 새로운 기지에 도착했다.+물론, 404의 인형들은 밤사이 또다시 사라졌다.+언제 다시 만나게 될지는 모르지만, 어쩌면 그들은 신경쓰지 않아도. 나는 잊지 않을 것이다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 9
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "지휘관님, 그리폰의 새로운 기지에 어서 오세요.+어느 이름모를 분의 후원 덕분에 완전히 새로워진 작업환경과 시설이 생겼어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 9
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>네 새로운 옷차림도 멋지다.<c>대체 누가 이렇게까지 해준거지?<c>크루거 씨와 헬리안 씨는?"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 9
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "그런가요? 작전에 필요한 거니까요, 이 동안 저도 열심히 공부했다고요.+저와 인형들 모두 새로운 기지에 적응하느라 한참이 걸렸어요, 이제 지휘관님 차례예요."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 9
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "잘 모르겠어요, 그래도 페르시카 씨도 그리폰의 재건을 위해서 엄청 고생하셨어요.+물론 저희도 이제 엄청 많은 업무를 받게 될 테니까, 또 수고하실 준비 하세요, 지휘관님."
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 9
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "그건... 나중에 말하죠, 그건 하벨 씨가 좀 더 잘 아실 거예요.+저도 그 뉴스가... 사실이 아니라고 믿어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 9
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하벨"
+    },
+    "text": "오... 그리폰에서 가장 믿음직한 지휘관이로군, 좋은 아침일세!+물론 놀랍진 않았네, 카리나 양이 한 시간 전에 자네가 돌아온다고 했 거든. 그래서 여기서 기다리고 있었네."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 9
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "하벨 씨, 지휘관님은 방금 기지에 돌아온 참이라. 몸 상태가 많이 안 좋아요, 먼저 휴식을 취해야..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 9
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하벨"
+    },
+    "text": "아, 그럼 그럼. 그래도 억지로라도 자네의 시간을 좀 빌려주기를 바라네. 몇 분이면 되네, \"그 사람들\"과 약속했으니 말이야."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 9
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "\"그 사람들\"이요?"
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하벨"
+    },
+    "text": "그리폰의 대고객님이지, 이번 건을 꼭 따내야 하네. 자, 얼마 안 걸릴 걸세."
+  },
+  {
+    "background": {
+      "id": 97
+    },
+    "screenEffect": "blackSpot2",
+    "text": "하벨은 카리나의 만류를 무시하고 나를 끌고 복도 깊이 들어가 한 지휘실로 데려갔다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하벨"
+    },
+    "text": "살아서 돌아온 것을 축하하지, 많이 고생했겠지만 말이야.+하지만 자네도 알아야 하네, 우리에게 쉴 시간은 없다는 것을 말일세.+그리고 이 새로운 기지는 마음에 드는가? 그래, 그 의문의 스폰서가 나일세, 하지만 다른 이들에게 알리진 말게나. 이제부터 더 많은 비밀을 마주 봐야 하니 말이야, 아는 사람이 적을수록 좋네."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>새로운 업무입니까?<c>\"그 사람들\"은 누구입니까?<c>안젤리아와 관계된 일입니까?"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하벨"
+    },
+    "text": "그래, 우리는 이제 새로운 국면과 새로운 적들과, 또 새로운 업무를 맞이할 걸세.+지휘관, 우리 함께 맞이해야 하네. 나를 믿어야 자네와 그리폰에 미래가 있을 걸세."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하벨"
+    },
+    "text": "안전국의 사람이고, 안젤리아의 상사이지, 이게 무슨 뜻인지는 알 테지?"
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하벨"
+    },
+    "text": "감이 참 좋군, 과연 크루거 양반까지 눈여겨 보는 에이스로구먼."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하벨"
+    },
+    "text": "간결하게 말하지. 국가안전국의 양반이 널 보고 싶어 하네.+보통 안전국의 사람이 찾아온다는 건 분명 좋은 일이 아닐세.+하지만 자네의 경우는... 더 큰일일 수도 있네.+어째서인지는 알겠나? 친애하는 지휘관?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "하벨은 내가 대답하기도 전에, 문을 두드리고 열었다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하벨"
+    },
+    "text": "이제 자네가 볼 사람은 안전국의 국장이니 말이네."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "문이 열리고 안으로 들어갔다. 그리고 그 사람의 모습이 보였다."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Truth"
+    },
+    "characters": [
+      {
+        "name": "NPC-Zielinski",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "국가안전국 국장, 젤린스키일세."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Zielinski",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "하벨"
+    },
+    "text": "젤린스키 양반! 보게나, 바로 이 지휘관이네, 그리폰과 IOP회사의 같은 희망일세!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Zielinski",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "젤린스키는 1초 만에 내 몸을 샅샅이 훑어보았다. 니토하고 비교해서 전혀 나은 눈빛으로는 생각하진 않는다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Zielinski",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "젤린스키"
+    },
+    "text": "그리폰의 지휘관, 하벨이 먼저 소개했을 테니 인사는 생략하고, 바로 본론에 들어가지.+우리가 정보를 수집하던 중, 우리 한 특수요원, 일단은 \"안젤리아\"라고 부르지, 그녀의 단말기에 그리폰으로 대량의 데이터를 전송한 기록을 포착했다.+그리고 그 전송된 데이터에는 대량의 고급 기밀이 포함되어 있다고 추측한다. 그게 무슨 뜻인지 아는가?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Zielinski",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>그때 저와 그녀 모두 다른 방법이 없었습니다.<c>전 모릅니다, 그것의 자세한 내용에도 관심 없습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Zielinski",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "젤린스키"
+    },
+    "text": "그건 중요치 않다, 중요한 것은, 지금 나에겐 자네를 이 자리에서 총살할 권한이 있다는 것이다. 법적으로든 기술적으로든 내겐 아무 문제가 없다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Zielinski",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "하벨"
+    },
+    "text": "아... 제린스키 양반, 그래도 그렇게 하지는 않을 것 아닌가?+긴장을 풀게나, 지휘관. 이 양반은 너무 오래 이런 일을 해와서, 농담할 줄도 모르고, 사람 겁줄 줄만 안다네."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Zielinski",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "젤린스키"
+    },
+    "text": "겁주는 것이 아니다, 지휘관. 여태까지 일하면서 이런 상황을 수없이 마주했고, 그때마다 망설임 없이 집행했다.+자네가 아직 살아있는 건 우리가 자네를 관찰하고 있기 때문이다.+자네는 조금 전에 작전에서 생환하였고, 기밀을 지켰지, 전부 다 알고 있다.+자네는 자네의 용기와, 두뇌와 의지를 증명해 보였다. 자네는 확실히 우리에게 꽤 큰 가치가 있다... 우리 국가를 위해, 그리고 그보다도 고위의 사업을 위해 봉사해야 마땅하다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Zielinski",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>국가보다 고위의 사업 말입니까?<c>어차피 제게 선택의 여지는 없지 않습니까?<c>상관없습니다, 그리폰에 남을 수만 있다면."
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "NPC-Zielinski",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "젤린스키"
+    },
+    "text": "보게 되면 자네도 깨달을 것이다. 자네와 나, 모두 역사의 주춧돌이 될 것이다."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "NPC-Zielinski",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "젤린스키"
+    },
+    "text": "거절해도 좋다, 우리는 모든 것을 말소하고 아무 일도 없었던 것으로 하겠다.+물론, 자네가 구조되었다는 일도 포함해서다."
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "NPC-Zielinski",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "젤린스키"
+    },
+    "text": "자네는 물론 그리폰에 남을 것이다, 자네가 할 일은 여전할 것이고, 변하는 것은 자네의 일부 고객이다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Zielinski",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "하벨"
+    },
+    "text": "저기... 젤린스키 양반, 그냥 본론을 말하는 게 어떻겠는가."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Zielinski",
+        "face": 0
+      },
+      {
+        "name": "NPC-Havel",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "젤린스키"
+    },
+    "text": "국가안전국의 명의로 자네에게 새로운 업무를 의뢰하지. 물론 기밀을 유지해야 하며, 우리도 걸맞은 보수와 정보를 제공하지.+자네가 우리의 기대를 만족시킬 수만 있다면, 그리폰 \"테러조직\"의 신분도 지워줄 수 있다. 자네도 자네들을 위해서 수감된 누군가가 걱정되겠지.+...흠, 자네의 눈빛으로 보아, 이미 의뢰를 받을 셈이군.+좋다, 지휘관, 그럼 자네의 첫 업무를 말해주지."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "text": "어떤 일인지 예상이 간다..."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "젤린스키"
+      }
+    ],
+    "text": "국가안전국 2급 특수요원, 코드네임 \"안젤리아\"가 우리를 배신하였다. 명령을 위반하고 중요정보와 안전국의 인형을 가지고 완전히 모습을 감췄다.+이는 적색 안전위협안건이다, 이제 자네가 어떻게 해야 할지 알겠지.+그녀를 조사해서 찾아내라, 자네가 아직 우리에게 쓸모가 있다는 것을 증명해라, 그다음에 자네가 어떻게 해야 하는지 결정하겠다...+물론 이뿐만이 아니다, 자네가 이미 그 기밀 정보를 본 것을 알고 있다.+오가스, 엘더브레인, 그리고 군의 계획, 아직 일은 한참 남았다.+지휘관, 자네가 맞이할 것은 새로운 기회일 수도 있고..."
+  },
+  {
+    "text": "... 또 더 깊은 지옥이 기다릴 수도 있다. 나도 그건 알고 있다...+10분 후, 난 방에서 나왔다."
+  },
+  {
+    "background": {
+      "id": 97
+    },
+    "screenEffect": "dark1",
+    "text": "원래 대화가 더 진행될 예정이었지만, 하벨이 나는 쉬어야 한다고 말했다...+그래, 나에겐 휴식이 필요하다.+하지만 어떤 것들은 결코 지워지지 않는다...+많은 이야기를 지어냈지만, 어떤 진실들은 나는 평생 알 수가 없겠지. 적어도...+... 내가 직접 파헤치지 않는다면."
+  }
+]

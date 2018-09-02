@@ -1,0 +1,358 @@
+[
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "text": "......첫 번째 거점에 도달했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "text": "보고합니다. MP5, 목적지에 도착했어요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "MG5",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "잘 하고 있는 모양이네, 좀 무리한 임무가 아닐까 걱정했다고."
+  },
+  {
+    "characters": [
+      {
+        "name": "MG5",
+        "face": 0
+      },
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "헤헤, 지휘관님이 잘 이끌어준 덕이죠, 조심할게요."
+  },
+  {
+    "characters": [
+      {
+        "name": "MG5",
+        "face": 0
+      },
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "좋아, 그러면 그 현지 정찰인형은 찾았어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "text": "그게......어디로 갔는지 모르겠어요. 혹시 숨어있는 건가?"
+  },
+  {
+    "characters": [
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "??"
+    },
+    "text": "적지에서 정찰을 하는데, 숨어있는 게 당연한 거 아냐?"
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "text": "꺅! 누, 누구?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "WA2000",
+        "face": 0
+      },
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "쉿......코앞에 철혈이 있는데, 그렇게 큰소리를 내는 건 죽고 싶다는 거야?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "WA2000",
+        "face": 0
+      },
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "(작은소리로) 죄, 죄송합니다......WA2000 씨, 그쪽의 상황은 어떤가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "WA2000",
+        "face": 0
+      },
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "내 상황? 당연히 문제 없다구, 하지만 전장의 상황? 그건 말할 필요가 없을 것 같은데.+장갑을 두른 녀석들이 도처에 깔려있는데 어떻게 혼자서 온 거야?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "WA2000",
+        "face": 0
+      },
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "저요? 저는 현지 지휘관님이 호송해준 덕분에 왔어요."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "characters": [
+      {
+        "name": "WA2000"
+      }
+    ],
+    "text": "에? 뭐라고?!+야! 갑자기 지휘관을 바꿔주면 어떡해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "MP5"
+      }
+    ],
+    "text": "쉿......조용히 해주세요. 철혈이 근처에 있다고요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "WA2000"
+      }
+    ],
+    "text": "(작은 소리로) 아, 알겠어, 네가 알려줄 필요 없다고......"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "WA2000",
+        "face": 0
+      }
+    ],
+    "text": "저기.......당신이 그 S09 구역 지휘관이야?+에...협조해줘서 고마워, 그리고......+......아니,그...당신께 경의를 표합니다! 보고 종료."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "text": "에? 그게 끝인가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "WA2000",
+        "face": 0
+      },
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "우리는 인형이야, 임무만 완수하면 되는 거 아냐?"
+  },
+  {
+    "characters": [
+      {
+        "name": "WA2000",
+        "face": 0
+      },
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "하지만......얼굴이 빨개진거 같은데요? 설마 부끄러워서 그런다던지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "WA2000",
+        "face": 0
+      },
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "어, 어딜 봐서! 다시 말하지만, 나는 임무를 위해서 태어났다고, 소통에 능하지 않은 건 아주 정상이야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "WA2000",
+        "face": 0
+      },
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "맞다는 건가요, 틀리다는 건가요...."
+  },
+  {
+    "characters": [
+      {
+        "name": "WA2000",
+        "face": 0
+      },
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "잡소리는 그만하고, 정찰 리포트 회수하러 온 거지? 회수했으면 어서 가버리라구!"
+  },
+  {
+    "characters": [
+      {
+        "name": "WA2000",
+        "face": 0
+      },
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "고맙습니다. WA 씨, 그리고 여기 보급품이 있어요. G36 씨가 WA 씨를 위해서 특별히 준비한 거예요."
+  },
+  {
+    "characters": [
+      {
+        "name": "WA2000",
+        "face": 0
+      },
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "아......초콜릿 아이스크림이네? 역시 G36, 나를 잘 안다니까.+이거 남들한테 말하기 없기야......WA2000이 아이스크림을 좋아한다고? 웃기잖아, 그거."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "WA2000",
+        "face": 0
+      },
+      {
+        "name": "MP5",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "저기......죄송합니다......+사실......지휘관님과의 통신이 계속 열려 있었는데......"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "characters": [
+      {
+        "name": "WA2000"
+      }
+    ],
+    "text": "..................+......진작 말하란 말야!"
+  }
+]

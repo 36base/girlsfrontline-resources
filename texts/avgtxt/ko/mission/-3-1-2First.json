@@ -1,0 +1,230 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "............+.................."
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "text": "......!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9"
+      }
+    ],
+    "text": "(손짓하며) 목표 제거."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45"
+      }
+    ],
+    "text": "(손짓하며) 계속 전진."
+  },
+  {
+    "screenEffect": "dark1",
+    "text": "......"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_NightOPS"
+    },
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 0
+      }
+    ],
+    "text": "좋아, 이쪽 경비병은 처리했어."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "text": "여기도. 이제 여긴 안전해.+9, 초소를 해킹해서 통신 네트워크를 세워봐."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 3
+      }
+    ],
+    "text": "흐흥, 이미 하고 있지롱."
+  },
+  {
+    "text": "삐빅."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "text": "416, 들려?"
+  },
+  {
+    "text": "......"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "text": "416, 있어? 아직 살아있어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 2,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "......여기 있어."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "우리가 초소를 점령했으니, 너희들은 30분 안에 경계구역을 통과하면 돼."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "어....알겠어."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "너 기운이 없는 것 같네."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "넌 왜 그런지 알잖아..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그러엄, 난 잘 알지. 그런데 알게 뭐람♪+그리고, 416. 이번 작전은 매우 위험해.+만약에 네가 계속 이런 상태라면, 난..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "주저하지 않고 날 버리겠지. 알아...나도 안다고...+걱정마, 이번 작전이 나한테 곤란한 건 아니야.+다시말해, 난 감정에 휘둘려 판단하는 그런 인형이..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그럼 어서 움직이도록 해, 드물게 네가 좋은 마음을 품게 된다면, 도중에 허비하지 말도록 해."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "text": "............+제일 좋은 건 너를 위해 일하는 인형에게 미움을 사지 않는 것이겠지, 45."
+  },
+  {
+    "screenEffect": "dark1",
+    "text": "......통신 종료."
+  }
+]

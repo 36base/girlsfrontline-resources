@@ -1,0 +1,480 @@
+[
+  {
+    "background": {
+      "id": 3,
+      "isNight": true
+    },
+    "sound": {
+      "bgm": "BGM_NightOPS",
+      "se1": "Battlefield"
+    },
+    "text": "...전투가 마무리되었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 0
+      }
+    ],
+    "text": "엑스큐셔너의 사지 파괴, 성공."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "G11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "꽤 진정된 모양이네, G11."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "G11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "네가 앞에서 총알받이가 되어주니까... 훨씬 안심되는 것 같아."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "G11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "제대로 감사하라고, 예전 같았으면 이런 대우도 안 해줬어."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP9",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "에이, 우리 모두 가족인데 뭐 어때. 사소한 건 신경 쓰지 말자구."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP9",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "네가 정규 생산 모델이었다면, 그 말을 곧이곧대로 받아들였을 텐데 말이야."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP9",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "헤헤, 그게 뭐 어때서! 지금도 이렇게 잘 지내고 있잖아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 0
+      },
+      {
+        "name": "UMP9",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "전혀. 그냥 집에나 빨리 가고 싶어..."
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "현실을 받아들여. 돌아갈 집 따위 없어진지 오래잖아..."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "UMP45"
+      }
+    ],
+    "text": "너희들, 쓸데없는 잡담은 그만하고, 빨리 엑스큐셔너 심문하는 거나 거들어."
+  },
+  {
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 0
+      }
+    ],
+    "text": "후후후... 재머가 통신을 차단해주는 덕에, 느긋하게 \"담소\"를 나눠보겠는걸."
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 0
+      }
+    ],
+    "text": "(발로 툭툭 차며) 헤이, 유언이라도 있어? 우리가 재머를 빼돌리고 나면, 그쪽 윗대가리한테 전해줄 수도 있는데."
+  },
+  {
+    "characters": [
+      {
+        "name": "ExcutionerElite",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "엑스큐셔너"
+    },
+    "text": "미안하게 됐지만... 너희는, 아무것도 빼돌리지 못할 거다..."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "characters": [
+      {
+        "name": "ExcutionerElite",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "엑스큐셔너"
+    },
+    "text": "이 재머 주위에는, 폭탄이 한가득 매설되어 있거든."
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 2
+      }
+    ],
+    "text": "... 포, 폭탄?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "ExcutionerElite",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "엑스큐셔너"
+    },
+    "text": "벗어 날 수 없는 고폭약이지. \"펑\"소리 한 번이면 너희 404 소대도 재머도 모두 잿더미가 되어 버릴 거다."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      }
+    ],
+    "text": "자, 잠깐! 그 재머는 너희가 지켜야 할 대상 아니었어?!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "ExcutionerElite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "엑스큐셔너"
+    },
+    "text": "그래서 우로보로스 그 자식이 제멋대로라는 거지..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "Weaver",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "엑스큐셔너"
+    },
+    "text": "애초부터, 다 계획되었던 거다. 헌터가 시간을 끄는 동안, 나를 재머 주위에 폭탄을 매설하라고 명령했지.+너희가 무슨 짓을 하든, 여기까지 온 이상... 결말은 오직 하나뿐이다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Weaver",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "우로보로스라고 했나... 어째서 그딴 인형의 말도 안 되는 명령을 따르는 거지?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "Weaver",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "엑스큐셔너"
+    },
+    "text": "그럼 404 소대, 네년들이 부리는 그리폰 제대는 네년들을 거역할 수 있나?"
+  },
+  {
+    "background": {
+      "id": 3,
+      "isNight": true
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "ExcutionerElite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "엑스큐셔너"
+    },
+    "text": "네 이익을 위해 그들을 사지로 몰아넣을 때, 그들의 속마음을 생각해보기는 했나?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "text": "......"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      }
+    ],
+    "text": "45 언니..."
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 0
+      }
+    ],
+    "text": "우리... 집에 못 가는 거야...?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "text": "후웃, 그럼 어서 무릎꿇고 우리에게 사과해, 45. 이 순간을 얼마나 기다렸는데."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "ExcutionerElite",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "엑스큐셔너"
+    },
+    "text": "인형을 기다리는 건, 천국도 지옥도 아니야.+404 소대, 너희는 이대로 나와 함께...+이 세상에서 영원히 사라지는 거야..."
+  },
+  {
+    "background": {
+      "id": 8,
+      "isNight": true
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se1": "Explode"
+    },
+    "text": "S06 구역, 철혈에게 점령된 임시 지휘실."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Boss"
+    },
+    "characters": [
+      {
+        "name": "Weaver",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "우로보로스"
+    },
+    "text": "에이전트 님, 송구스러운 보고를 드립니다.+아군의 재머가, 방금 파괴되었습니다.+재머를 파괴한 폭탄은, 엑스큐셔너가 독단으로 설치 및 기폭했습니다. 그녀는 현재 404 소대와 함께 폭발에 휩쓸려 사망한 것으로 보입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-8",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "Weaver",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "에이전트"
+    },
+    "text": "그 재머는, 【우산】 계획에 있어 매우 중요한 도구였거늘. 그딴 잡졸 몇 명의 목숨과 맞바꾸다니..."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-8",
+        "face": 0
+      },
+      {
+        "name": "Weaver",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "우로보로스"
+    },
+    "text": "죄송합니다. 헌터와 엑스큐셔너의 마인드맵이 불안정하단 사실을 알아채지 못하고, 오작동을 일으키도록 방치한 제 탓입니다.+폭발 지점으로 수색 부대를 보내, 그들의 생존 여부를 확인 중입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-8",
+        "face": 0
+      },
+      {
+        "name": "Weaver",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "에이전트"
+    },
+    "text": "이렇게 된 것을 무얼 더 확인하겠다는 것이냐, 우로보로스.+지금 바로 퇴각하거라. 너에게서 더욱 상세한 보고가 필요하다. 알아들었느냐?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "BOSS-8",
+        "face": 0
+      },
+      {
+        "name": "Weaver",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "우로보로스"
+    },
+    "text": "네... 명령을 받들겠습니다, 에이전트 님."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "Weaver",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "우로보로스"
+    },
+    "text": "S06 구역의 모든 철혈 병력은 나, 우로보로스의 명령을 따르라.+404 소대에 대한 수색 범위를 넓혀라. 작전 효율을 최대한으로 높여라.+발견되는 모든 그리폰 인형은 즉시 섬멸해라!+이딴 피라미들로는 부족해... 내 눈으로 직접 봐야겠어.+이 두 눈으로 직접 404의 시체를 보기 전까지, 이번 작전은 끝나지 않는다!"
+  }
+]

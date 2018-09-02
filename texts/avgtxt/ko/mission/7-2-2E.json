@@ -1,0 +1,575 @@
+[
+  {
+    "background": {
+      "id": 41
+    },
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se1": "Battlefield"
+    },
+    "text": "............M16이 SOPII가 있는 거점에 도착했다.+거점은 이미 포격으로 인해 폐허가 되어있었다."
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "SOPII, 들려? 거점에 도착했어.+아직 안에 있어? 지금 문 열고 들어간다."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "text": "......!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "사방에 흩어진 철혈의 잔해, 그리고 벽에 가득 박힌 총알 자국과 상흔들......+무슨 일이 있었군......"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "characters": [
+      {
+        "name": "MK2",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "스텐MK-2"
+    },
+    "text": "저......M16 씨."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "MK2",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "스텐 씨! 어디에 있습니까!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "MK2",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "스텐MK-2"
+    },
+    "text": "저......지하 방공호 안에 있어요.+제어판 뒤에서 조작할 수 있어요. 해제코드는 \"6FPIZX4V\"."
+  },
+  {
+    "background": {
+      "id": 46
+    },
+    "screenEffect": "dark2",
+    "text": "M16A1이 지하실에 도착했다......"
+  },
+  {
+    "characters": [
+      {
+        "name": "MK2",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "스텐MK-2"
+    },
+    "text": "아......M16 씨.+바깥은 이제 안전한가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "MK2",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "그렇습니다. SOPII는 어떻습니까? 같이 있는게 아니었던가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "MK2",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "스텐MK-2"
+    },
+    "text": "............+죄송해요. M16 씨......+당시 상황이 너무 무서워서, SOPII가 저를 방공호에 남겨두고......+그녀 혼자서 상황을 통제하러 갔어요......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "MK2",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "무슨 상황이었죠?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "MK2",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "스텐MK-2"
+    },
+    "text": "포격 직후, 드리머가......나타났어요......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "MK2",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "......?!+드리머......그녀가 SOPII를 공격했단 말입니까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "MK2",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "스텐MK-2"
+    },
+    "text": "그따위 로봇들은, SOPII에게는 아무것도 아니었어요......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "MK2",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "그럼 스텐 씨가 말 한 \"무섭다\"란 건......"
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "MK2",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "스텐MK-2"
+    },
+    "text": "SOPII......그녀가 너무 무서웠어요......+차마 밖으로 나갈 용기가 나지 않아서, 지금까지 쭉 기다렸어요......+여기 녹음이 있어요. 당시 상황을 기록한......"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "text": "스텐이 녹음 테이프를 건네주었다.+M16이 녹음을 재생했다......+............"
+  },
+  {
+    "background": {
+      "id": 46
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Boss"
+    },
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "(숨을 몰아쉬며)............+이게 다야? 네가 지휘할 수 있는 쓰레기들이 겨우 이뿐이냐고?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-11",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "드리머"
+    },
+    "text": "......확실히 널 얕봤어, SOPII.+인트루더가 너를 기형아라 하던데 말이야, 이제야 알겠어......+......네 욕망이 너를 어디까지 몰고 가는지 말이야."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "기형아? 어디가 이상한건지 모르겠는데.+그냥 재밌으니까 하는 거야......+그리폰의 모두와 같이 있든, 너희들을 하나씩 갈기갈기 찢어버리든, 다 내가 좋아서 하는 거라고!!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-11",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "드리머"
+    },
+    "text": "그럼 그게 바로 문제겠지.+알고 있니? 욕망이란건, 애초에 인형이 가질 만한 것이 아니야."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "미안, 내 대가리에 그렇게 복잡한건 들어있지 않아서 말야......+네가 누군지와, 널 조각낼 때 네가 소리를 지를지 아닐지만 알고 있으면 충분하다고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-11",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "드리머"
+    },
+    "text": "날......?+나도 너와 같아. AI에 문제가 조금 있지......+그저 탐욕스럽게 먹어대는 것으로 자신을 채울 수 있지, 이런 우리는 영원히 행복해질 수 없어."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "다른 점이 있는 걸......+네 목소리가 꽤나 괜찮다는 점이야, 비명소리가 분명 감미로울 것 같은데?......"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-11",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "드리머"
+    },
+    "text": "다른 점은 더 있어.+너는 타인의 고통을 통해 자신을 만족시키지, 자극적이지만 아름다움이 부족해......+그리고 나는......타인의 희망을 부숴트리는 걸 더 좋아해, 말로써, 힘으로써......+당연히, 무기도 포함해서 말이야......"
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "......!"
+  },
+  {
+    "background": {
+      "id": 27
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Brain"
+    },
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "수수께끼 시간이야. SOPII.+너희들이 AR15를 추격할 때, 포를 쏴서 너희들을 저지한 인형은 누굴까?"
+  },
+  {
+    "background": {
+      "id": 36
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "통신 도중에 AR-15에게 고의로 정보를 노출시킨 것......+......그녀 혼자서 조사하도록 유도하고, 재밍 모듈까지 심은 사람은, 과연 누구일까?"
+  },
+  {
+    "background": {
+      "id": 44
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "누가 철혈의 거물을 05구역으로 데리고 와서, M4A1의 AI가 해체되도록 유도했을까?"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4 SOPMOD II"
+      }
+    ],
+    "text": "......"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "드리머"
+    },
+    "text": "나는 철혈인형 SPACA, 통칭 드리머.+말했지만, AR-15는 선택된 거야, 그리고 이건 단지 시작일 뿐이지.+난 너희들이 뭔지 알아, AR팀의 SOPII.+너희들이 뭘로 변할지도 알고 있지......+또, 언제 변할지도 말이야......"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Boss"
+    },
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "그건 말이지......바로 지금이야."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4 SOPMOD II"
+      }
+    ],
+    "text": "아아아아아아아아아아아아아아아아아아아——!!+죽여버릴거야! 널 죽여버릴 거라고, 드리머——!"
+  },
+  {
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "그래......바로 이거야 이걸 원했다구......+이리 오렴, SOPII, 날 죽여봐......+날 찾아서, 네 손으로, 나에게 행복을 주는 거야......"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4 SOPMOD II"
+      }
+    ],
+    "text": "나와......빨리 내 앞으로 나오란말야!!+아아아아아아아아아!"
+  },
+  {
+    "background": {
+      "id": 46
+    },
+    "screenEffect": "dark2",
+    "text": "............+녹음 종료."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "......"
+  },
+  {
+    "characters": [
+      {
+        "name": "MK2",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "스텐MK-2"
+    },
+    "text": "죄송해요. M16 씨. 제가 그 때 할 수 있던 건 이것 뿐이에요......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "잘 하셨습니다. 스텐 씨.+지금 같이 복귀합시다. 제가 안전을 보장해드리죠.+SOPII는......만약 누군가가 그녀를 추적할 수 있다면......"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "MK2",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "스텐MK-2"
+    },
+    "text": "M16 씨, 마침 저희에게 딱 알맞는 사람이 있어요.+지금까지 외곽에서 책임지고 모두의 동향을 감시하던 사람이요."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "text": "삐빅."
+  },
+  {
+    "characters": [
+      {
+        "name": "마카로프"
+      }
+    ],
+    "text": "모두들 안녕?+내가 필요하다고 들었는데?"
+  }
+]

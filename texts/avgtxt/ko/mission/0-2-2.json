@@ -1,0 +1,255 @@
+[
+  {
+    "background": {
+      "id": 8
+    },
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "페르시카, 작전은 순조롭게 진행 중이에요. AR팀은 현재 #3 세이프 하우스에 도착했어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "우와! 리코의 물건 조사할 수 있겠어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "이미 탐침으로 포트를 기동했어요. 그런데 이 조작 시스템이 너무 오래 돼서...+인증구조는 파해할 수가 없어요. 비밀번호가 있어야 빨리 기동시킬 수 있을 것 같아요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "어...\"90WISHROCK\". 그리고 \"X\"를 더해, 전부 대문자로. 이걸로 한 번 시도해봐."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "...인증 성공, 지금 데이터베이스를 열람 중이에요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 2
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "좋아! 안에있는 내용들 전부 메모리에 카피해서 가지고 돌아와."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 2
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "알겠어요. 지금부터 데이터를 메모리로 전송해야하니, 잠시 통신을 끊을게요."
+  },
+  {
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 0
+      }
+    ],
+    "text": "....그래서, 우리는 철혈의 근거지에서 철혈의 데이터베이스를 이용해서, 철혈이 모르는 정보를 찾게 된 건가?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "하하♪ 꽤 재미있지 않아?+보물찾기를 하는 것 같다구!"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "??"
+      }
+    ],
+    "text": "그래, 너희들에게 감사해야겠구나. 드디어 보물창고를 손에 넣을 수 있게 되었어."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Boss"
+    },
+    "characters": [
+      {
+        "name": "BOSS-8",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "에이전트"
+    },
+    "text": "철혈공조, \"에이전트\"라고 한다. 너희들을 기다리고 있었느니라."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "BOSS-8",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "......에이전트?!+철혈의 간부급 인형이...어떻게 여기에 나타난거지!!!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "BOSS-8",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "에이전트"
+    },
+    "text": "이 세이프 하우스 안에는, '주인님'께서 원하시는 물건이 있더구나.+안타깝게도, 구시대의 시스템이기에 우리가 파해할 방법이 없었지..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "BOSS-8",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그래서...우리가 딱 좋을 때 나타나서 도와줬다는 거네, 그렇지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-8",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "에이전트"
+    },
+    "text": "주인님께서도 너희들이 나타날거라, 반드시 이곳에 올거라 말씀하셨느니라.+너희들을 잡아서, 사지를 뜯고, 너희들의 메모리를 추출하면, 엘더 브레인께서 \"답\"을 얻을 수 있다고 하셨다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 2
+      }
+    ],
+    "text": "대량의 철혈 신호가 관측되었어, 저 녀석...정말로 쳐들어올 생각이야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "아직 전송 중이에요. 완료되는 걸 기다릴 수 밖에 없어요.+여러분, 방어작전 준비를 해주세요!"
+  }
+]

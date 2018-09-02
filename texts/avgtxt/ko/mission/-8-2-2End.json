@@ -1,0 +1,927 @@
+[
+  {
+    "background": {
+      "id": 3
+    },
+    "sound": {
+      "bgm": "BGM_Boss"
+    },
+    "text": "......"
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "characters": [
+      {
+        "name": "FAL",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "인트루더, 사냥 게임은 이제 끝이야."
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "characters": [
+      {
+        "name": "FAL",
+        "face": 0
+      },
+      {
+        "name": "BOSS-4",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "인트루더"
+    },
+    "text": "상관없어, 우리는 이미 많은 걸 얻었으니까.+안타까운 건, 아직 진정한 \"인형\"을 찾지 못했다는 것 정도려나."
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "characters": [
+      {
+        "name": "FAL",
+        "face": 0
+      },
+      {
+        "name": "BOSS-4",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "......진정한 \"인형\"?"
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "characters": [
+      {
+        "name": "FAL",
+        "face": 0
+      },
+      {
+        "name": "BOSS-4",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "인트루더"
+    },
+    "text": "\"토끼\"가 계속 찾고 있는 것......+찾지 못한다면 아무리 나라고 한들 \"인형\"의 섬멸은 막을 순 없어."
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "characters": [
+      {
+        "name": "BB_Noel",
+        "face": 2
+      },
+      {
+        "name": "BOSS-4",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "노엘"
+    },
+    "text": "......"
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "characters": [
+      {
+        "name": "FN49",
+        "face": 0
+      },
+      {
+        "name": "BOSS-4",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "FN-49"
+    },
+    "text": "도대체...... 당신들의 목적은 뭐죠!?"
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "characters": [
+      {
+        "name": "FN49",
+        "face": 0
+      },
+      {
+        "name": "BOSS-4",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "인트루더"
+    },
+    "text": "너희들이 가장 잘 알잖아? 이건 그냥 게임일 뿐이란 걸.+클리어까지는 아직 시간이 있으니, 남은 시간 동안 마음껏 즐겨주길......"
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "characters": [
+      {
+        "name": "FAL",
+        "face": 0
+      },
+      {
+        "name": "BOSS-4",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "흥....... 우리는 네가 죽기만 하면 그걸로 충분해."
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "characters": [
+      {
+        "name": "FAL",
+        "face": 0
+      },
+      {
+        "name": "BOSS-4",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "인트루더"
+    },
+    "text": "그건 안 되겠네... 아직 각본을 다 완성하지 못했거든......+아직은 너희 리스트에 내 이름을 남겨둬야 할 거야. (휙)"
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "characters": [
+      {
+        "name": "FAL",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "FN-57"
+    },
+    "text": "......이런! 전술 연막이야!"
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "characters": [
+      {
+        "name": "FAL",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "......!+이런 같잖은 장난질을..... 도망치게 둘 것 같아!?"
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "sound": {
+      "se1": "RunStep"
+    },
+    "characters": [
+      {
+        "name": "FAL",
+        "face": 0
+      },
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ]
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "text": "FN 소대의 집중 사격 후......"
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "FN49",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "FN-49"
+    },
+    "text": "......하아...... 도망쳐버렸어요."
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "characters": [
+      {
+        "name": "FN49",
+        "face": 0
+      },
+      {
+        "name": "FAL",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "칫! ......설마 눈앞에서 놓칠 줄이야..."
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "characters": [
+      {
+        "name": "FNFNC",
+        "face": 0
+      },
+      {
+        "name": "FAL",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "FN-FNC"
+    },
+    "text": "그래도...... 수확이 아예 없는 건 아닌 것 같아."
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "characters": [
+      {
+        "name": "FNFNC",
+        "face": 0
+      },
+      {
+        "name": "FAL",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "......?"
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "characters": [
+      {
+        "name": "FNFNC",
+        "face": 0
+      },
+      {
+        "name": "FAL",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "FN-FNC"
+    },
+    "text": "도망치면서 이런 걸 떨어뜨렸더라구...... 여기"
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "characters": [
+      {
+        "name": "FNFNC",
+        "face": 0
+      },
+      {
+        "name": "FAL",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "이건...... 아마도......+후, 후후......"
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "characters": [
+      {
+        "name": "FNFNC",
+        "face": 0
+      },
+      {
+        "name": "FAL",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "FN-FNC"
+    },
+    "text": "왜, 왜 그래?"
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "FNFNC",
+        "face": 0
+      },
+      {
+        "name": "FAL",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "후...... 인트루더, 우리는 머지않아 만나게 될 거야."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "임무를 마치고 지휘부로 복귀한 뒤......"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "FN57",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "FN-57"
+    },
+    "text": "\"토끼\"와 철혈은 일반적인 방법으로 연락하는 게 아닌가 봐."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "FN57",
+        "face": 0
+      },
+      {
+        "name": "FNFNC",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "FN-FNC"
+    },
+    "text": "FAL이 저번에 주웠던 물건을 제출하러 갔으니까, 곧 좋은 소식을 가지고 오겠지."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "FN57",
+        "face": 0
+      },
+      {
+        "name": "BB_Noel",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "노엘"
+    },
+    "text": "......"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "sound": {
+      "bgm": "BGM_Sad"
+    },
+    "characters": [
+      {
+        "name": "FN57",
+        "face": 0
+      },
+      {
+        "name": "BB_Noel",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "FN-57"
+    },
+    "text": ".......우리 노엘 씨께서는 왜 그러실까나?"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "FN57",
+        "face": 0
+      },
+      {
+        "name": "BB_Noel",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "노엘"
+    },
+    "text": "아! 미, 미안해요... 그...그게...... 생각을 좀......+진정한 \"인형\" 이란 게...... 설마 절 말하는 걸까요......?"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "FN57",
+        "face": 0
+      },
+      {
+        "name": "BB_Noel",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "FN-57"
+    },
+    "text": "......네가 \"인형\"이라고?"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "FN57",
+        "face": 0
+      },
+      {
+        "name": "BB_Noel",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "노엘"
+    },
+    "text": "이걸 어떻게 설명하죠... 어떤 의미로는 그렇긴 한데... 그게...+물론, 저도 확신을 할 수 없지만요......+그 \"토끼\" 가 \"인형\"을 찾는 이유가 대체......."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "FN57",
+        "face": 0
+      },
+      {
+        "name": "BB_Noel",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "FN-57"
+    },
+    "text": "그러니까, 지금 우리가 맞닥뜨린 귀찮은 일들은 전부 너랑 관련이 있는 거네?"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "FN57",
+        "face": 0
+      },
+      {
+        "name": "BB_Noel",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "노엘"
+    },
+    "text": "우으!...... 미안해요!.... 전부 제 탓이에요......"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "FN57",
+        "face": 0
+      },
+      {
+        "name": "BB_Noel",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "FN-57"
+    },
+    "text": "그러게 말이야. 전부 요 수상쩍은 아이 탓이니, 책임을 져줘야겠어!"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "FN57",
+        "face": 0
+      },
+      {
+        "name": "BB_Noel",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "노엘"
+    },
+    "text": "으...... 이 매도당하는 느낌은......+너무나 익숙한데......"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "FNFNC",
+        "face": 0
+      },
+      {
+        "name": "BB_Noel",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "FN-FNC"
+    },
+    "text": "저기...... 그렇게까지 말할 건 없잖아......"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "FNFNC",
+        "face": 0
+      },
+      {
+        "name": "BB_Noel",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "노엘"
+    },
+    "text": "어?"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "FNFNC",
+        "face": 0
+      },
+      {
+        "name": "BB_Noel",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "FN-FNC"
+    },
+    "text": "노엘은 번개와 함께 나타난 거니까 말야.+만약 그때 번개가 치지 않았다면, 우린 아마 인트루더에게......+어쩌면...... 우린 노엘에게 구해진 걸지도 몰라!"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "FNFNC",
+        "face": 0
+      },
+      {
+        "name": "BB_Noel",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "노엘"
+    },
+    "text": ".....아! ......나, 나 엄청 감동받았어!+FNC, 너는 정말 좋은 애였구나! (꽈악)"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "FNFNC",
+        "face": 0
+      },
+      {
+        "name": "BB_Noel",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "FN-FNC"
+    },
+    "text": "우앗! 이거 놔, 놔줘!...... 힘을 너무 줬다구!"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "FNFNC",
+        "face": 0
+      },
+      {
+        "name": "FAL",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "......이 성가신 일도 곧 해결할 수 있을 것 같아.+만약 \"토끼\"가 노리는 게 노엘이라면, 간단하게 처리할 수 있어."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "FN57",
+        "face": 0
+      },
+      {
+        "name": "FAL",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "FN-57"
+    },
+    "text": "이야, 드디어 왔구나?"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "FN57",
+        "face": 0
+      },
+      {
+        "name": "FAL",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "조사해보니, 그건 역시나 인트루더의 통신 모듈이었어.+위쪽에 어떤 신호원의 좌표가 검출되고 있어. 비록 발신원은 여전히 불명확하지만......+하지만 이전에 모니터링되었던 \"토끼\"의 신호와 매우 비슷해."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "FN57",
+        "face": 0
+      },
+      {
+        "name": "FAL",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "FN-57"
+    },
+    "text": "잘됐네~ 그거 좋은 소식이잖아."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "characters": [
+      {
+        "name": "FN57",
+        "face": 0
+      },
+      {
+        "name": "FAL",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "......좋아하기엔 아직 일러, 57.+신호는 전에 조사한 적이 있었던 북쪽에 위치한 철혈의 폐기된 공장에서 나오고 있어.+그곳은 한가롭게 놀러가는 철혈 외엔, 보통 사용되지 않아 폐허가 된 곳이야.+어째서 그런 곳에서 단서가...... 좋지 않은 예감이 들어."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "BB_Noel",
+        "face": 2
+      },
+      {
+        "name": "FAL",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "노엘"
+    },
+    "text": "......이번에는 저희가 직접 나서는 건가요?"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "BB_Noel",
+        "face": 2
+      },
+      {
+        "name": "FAL",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "다시 한번 조사를 할 필요가 있겠는걸, 그리고.......+노엘 씨가 활약을 해줘야 할 때가 왔네."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "BB_Noel",
+        "face": 2
+      },
+      {
+        "name": "FAL",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "노엘"
+    },
+    "text": "......네?"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "BB_Noel",
+        "face": 2
+      },
+      {
+        "name": "FAL",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "\"토끼\"가 굴에서 나오려 하지 않는다면......"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "FAL"
+      }
+    ],
+    "text": ".....우리는 \"당근\"을 미끼로 던져줄 수밖에."
+  }
+]

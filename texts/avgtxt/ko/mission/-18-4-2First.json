@@ -1,0 +1,321 @@
+[
+  {
+    "background": {
+      "id": 71
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Danger"
+    },
+    "text": "......"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "이 녀석 너무 끈질기잖아!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "녀석의 방어를 뚫을 수 있는 사람이 없어...?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "안젤리아! 에이전트가 예상보다 강력하다, 증원이 필요해──"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "엘더브레인을 묶어둘 순 있겠어? 지금 갈 테니──"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "치지직───"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "??"
+    },
+    "text": "안젤리아, 또다시 내 임무를 도와줘서 고맙군."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "예고르......! 암호화된 채널을 어떻게...!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 2,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "예고르"
+    },
+    "text": "네 데이터 블랙 에어리어의 수법은 여전히 조잡하군, 이 점이 네 목숨을 앗아갈 것이라고 말했었을 거다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "언제부터 도청하고 있었던 거지...!?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "예고르"
+    },
+    "text": "방금 전부터 듣고 있었다, 네놈들의 잡담 따위엔 흥미 없으니까.+두 번씩이나 살아남다니 참 놀랍군, 하지만 네 몸에서 더 이상 의체로 교체할 수 있는 부분은 얼마 안 남았다, 그만 포기하시지."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "왜 언제나 살아남을 수 있었는지 알려줄까?+네가 항상 너무 자신감에 차 있어서 그런 거라고."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "예고르"
+    },
+    "text": "입만 살았군, 진격 개시."
+  },
+  {
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "Explode"
+    },
+    "characters": [
+      {
+        "name": "AR15Mod",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": ".........!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15Mod",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AR15"
+    },
+    "text": "무슨 일이야?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "장갑 부대야! 군의 탱크라고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "...+예고르......!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "45! 현재 상황은 어떻지!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      },
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "콜록… 탱크를 뚫을 수가 없어! 우리와 엘더브레인 사이를 갈라놓았어! 공세가 매우 거세!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      },
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "무슨 수를 쓰든 어떤 대가를 치르든 절대 녀석들 손에 엘더브레인을 넘겨주지 마!+알겠어!? 곧 그리폰의 지원을 데리고 도착할 테니까!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      },
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "그거 완전 양한테 늑대를 채식하게 만들라는 소리인데..."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 4
+      },
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "불평 대지 말고, 반격할 방법을 찾아야 합니다!"
+  }
+]

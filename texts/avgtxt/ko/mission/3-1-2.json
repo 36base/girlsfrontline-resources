@@ -1,0 +1,138 @@
+[
+  {
+    "background": {
+      "id": 4
+    },
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "text": "전투 종료 후, 지휘부의 감청불가지역..."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "text": "AR......여기는 M4A1, 누구든지 들리면 응답 바랍니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "운이 좋은걸. M4, 1분만 늦었어도 받지 못했을 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "M16! 무슨 일인가요?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "주변에 철혈이 몇 있어, 곧 통신기를 꺼야 할 것 같아."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "그럼 짧게 설명할게요. 전 탈출에 성공해서 한 지휘관 아래에서 일하고 있어요.+저희 제대가 전선 근처에 있으니 언제든지 마중나갈 수 있을 거예요!+M16, AR팀의 상황은 현재 어떤가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "난 후위를 맡는 도중 모두랑 흩어졌지만, 저번에 연락했을 땐 다들 무사했어.+M4A1, 일단 난 신경쓰지 말고 AR-15와 SOPII부터 찾아줘."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "문제 없어요. M16, 하지만 당신도 조심해야 해요."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "미안, 놈들이 와서 남은 건 나중에 얘기해야 할 것 같아.+걱정 마, 분명 다시 만날 수 있을테니..."
+  }
+]

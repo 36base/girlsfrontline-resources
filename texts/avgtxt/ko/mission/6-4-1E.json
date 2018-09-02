@@ -1,0 +1,103 @@
+[
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "지휘관, 보시는 바와 같이 철혈의 공세가 아직 끝나지 않았습니다.+인형들이 나눠져서 후퇴를 시작했지만 전장은 여전히 매우 혼란스럽습니다.+특히 차단망 내부에 갇혀있던 인형들은 아직 그 수도 확인을 못하고 있습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NEGEV",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "네게브"
+    },
+    "text": "미안, 늦은 것 같네."
+  },
+  {
+    "characters": [
+      {
+        "name": "NEGEV",
+        "face": 0
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "헬리안"
+    },
+    "text": "네게브, 아직 살아있었나?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NEGEV",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "네게브"
+    },
+    "text": "간신히 숨은 붙어있지만, 적을 죄다 쓸어버릴 순 없을 것 같아.+차단망 안에는 아직 꽤 많은 수의 정찰인형들과 AR팀의 남은 팀원들이 남아있어.+그녀들을 전부 한 거점으로 보냈으니 일단은 안전할 거야.+하지만 그것도 잠깐이야, 차단망의 가운데는 상대의 본진이라고, 사방이 철혈의 예비대야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NEGEV",
+        "face": 0
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "헬리안"
+    },
+    "text": "알겠다. 일단 거점을 지키도록, 수송기를 보내도록 하지."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "지휘관, 지휘관의 제대로 주변 초소를 점령해 주십시오, 수송기의 항로를 확보해야 합니다.+서둘러 작전을 수행해주시길 바랍니다. 마지막 한명의 인형까지 안전히 후퇴시켜야 합니다!"
+  }
+]

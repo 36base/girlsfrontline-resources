@@ -1,0 +1,436 @@
+[
+  {
+    "background": {
+      "id": 47
+    },
+    "sound": {
+      "bgm": "BGM_Danger",
+      "se1": "Battlefield"
+    },
+    "text": "............같은 시간, \"마리오 공주\" 수용소 내부.+반격작전 개시 한시간 후, 수용소 4층 의료실."
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "FN49",
+        "face": 0
+      }
+    ],
+    "text": "저, 저기! FNC, 저 탄약이 부족해요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "FNFNC",
+        "face": 0
+      }
+    ],
+    "text": "우......내걸 줄 수도 없는 걸."
+  },
+  {
+    "characters": [
+      {
+        "name": "VZ61",
+        "face": 1
+      }
+    ],
+    "text": "어이! 거기 너희들 뭐하는 거야, 이쪽은 쏘지 말라고 했잖아!+아래층에 적이 너무 많아, 이러다간 못버틴다고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "FN49",
+        "face": 0
+      }
+    ],
+    "text": "하지만 이쪽의 적들이 아직 처리가 덜됐어요!"
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "VZ61",
+        "face": 1
+      }
+    ],
+    "text": "하지만 아래층의 적이 훨씬 많다고!"
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "FNFNC",
+        "face": 0
+      }
+    ],
+    "text": "하지만 아래층 적은 더 먼 곳에 있어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "VZ61",
+        "face": 1
+      }
+    ],
+    "text": "하지만 아래층 녀석들 사거리는 훨씬 길잖아!"
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "FN49",
+        "face": 0
+      }
+    ],
+    "text": "하지만 여기 적들 화력이 너무 강해요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "VZ61",
+        "face": 1
+      }
+    ],
+    "text": "으......왠지 맞는 말 같기도......"
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": "VZ61",
+        "face": 1
+      }
+    ],
+    "text": "아아아아아아!!!+지휘관이 없으니, 대책도 없고! 나보고 어쩌란거야? 누가 좀 가르쳐 줘!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se1": "Explode"
+    },
+    "text": "......타앙!"
+  },
+  {
+    "characters": [
+      {
+        "name": "FN49",
+        "face": 0
+      }
+    ],
+    "text": "저기......아래층이 뚫린 것 같아요!+에? 당신들은......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "여러분, 사격을 중지하시고, 3층의 숙소 로비로 돌아가세요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "FN49",
+        "face": 0
+      }
+    ],
+    "text": "에? 당신은......"
+  },
+  {
+    "characters": [
+      {
+        "name": "FNFNC",
+        "face": 0
+      }
+    ],
+    "text": "우리 제대 인원도 아닌데, 우리한테 명령을 내릴 수 있는 거야??"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "VZ61",
+        "face": 1
+      }
+    ],
+    "text": "신경쓰지마! 일단 따르자고, 흩어져!"
+  },
+  {
+    "background": {
+      "id": 46
+    },
+    "screenEffect": "dark2",
+    "text": "............5분 뒤, 숙소로비."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Sneak",
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "M4, VZ61쪽이 마지막이야. 지금 2층에서 4층의 인형은 모두 여기에 있어.+(전해주며) 이 명단에 있는 인형은 중상이라 전투에 참여할 수 없어."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "알겠습니다. 적합한 인형을 보내 돌볼 수 있도록 할게요."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그럼 1층과 지하에 있는 인형은 어쩌고?"
+  },
+  {
+    "characters": [
+      {
+        "name": "FNFNC",
+        "face": 0
+      }
+    ],
+    "text": "당연히 아래로 쳐들어가서 그 애들을 구해야지!"
+  },
+  {
+    "characters": [
+      {
+        "name": "FN49",
+        "face": 0
+      }
+    ],
+    "text": "하지만......지금 통신은 완전히 차단당했고, 무턱대고 들어가는건 분명 위험할 텐데......"
+  },
+  {
+    "characters": [
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "네게브"
+    },
+    "text": "잠깐 조용히 해봐, 여기엔 지휘자가 없는 것도 아니잖아."
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "FNFNC",
+        "face": 0
+      }
+    ],
+    "text": "지휘자? 하지만 지휘관은 여기 없는데......"
+  },
+  {
+    "characters": [
+      {
+        "name": "FN49",
+        "face": 0
+      }
+    ],
+    "text": "(흐느끼며)지휘관님이 아직 안왔어요......설마 우리를 포기한건......"
+  },
+  {
+    "characters": [
+      {
+        "name": "VZ61",
+        "face": 1
+      }
+    ],
+    "text": "야, 막 내뱉지 말라고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "text": "여러분, 제 말을 들어주세요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "여러분, 눈치 채셨나요? 철혈의 공세가 한시간 전보다 훨씬 약해졌어요......+이건 즉, 지휘관이 외곽에서 적들을 많이 해치워줬다는 뜻이에요......우리를 위해서요......+지휘관님은 때맞춰 왔어요. 게다가 최대한으로 우리를 도와주고 있고요......+우리는 그저 남은 적들을 해치우기만 하면 구조받을 수 있어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "VZ61",
+        "face": 1
+      }
+    ],
+    "text": "하지만 어떻게 내려가라고? 지금 우리한테는 자율 셋팅같은게 아무 것도 없는데......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "자율 셋팅은 필요 없습니다. 제가 여러분을 지휘할게요.+저는 16LAB에서 제조된 특수 인형, 고효율의 지휘 모듈을 탑재하고 있어요.+필요시 제가 지휘관 대신 명령을 내릴 수 있으며, 전자 통신이 먹통이지만 육성이라도 지휘에는 문제 없어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "FN49",
+        "face": 0
+      }
+    ],
+    "text": "저기......그 말씀은, 지금은 당신이 바로 우리의 지휘관이라는 거, 맞나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "FNFNC",
+        "face": 0
+      }
+    ],
+    "text": "으......하지만 저번에 널 봤었는데, 꽤 수상하게 보였는 걸......+게다가, 스콜피온은 AR팀한테 당한 적이 있지 않아?+그녀들한테 이용당한 뒤에 철혈한테 잡혔다던가......그런거......"
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "VZ61",
+        "face": 1
+      }
+    ],
+    "text": "............+아니, 그런게 아니야......"
+  },
+  {
+    "background": {
+      "id": 20
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "VZ61"
+      }
+    ],
+    "text": "나, 그리고 다른 소대는 그 때 원래의 지휘관이 버리고 갔었어......+그 때 철혈의 에이전트가 유닛들을 굉장히 많이 끌고 왔었고, 곧 무너질 상황이었다고......+만약에 M4의 지휘가 아니었다면, 우리는 철혈한테 그대로 당했을 거야."
+  },
+  {
+    "background": {
+      "id": 46
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Frontline"
+    },
+    "characters": [
+      {
+        "name": "VZ61",
+        "face": 1
+      }
+    ],
+    "text": "그러니 난 그녀를 믿어. 적어도, 그녀의 능력을 믿어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "FN49",
+        "face": 0
+      }
+    ],
+    "text": "제, 제 생각에도, 여기에 숨느니, 차라리 모두 같이 한 번 걸어보는 게 낫다고 생각해요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "FNFNC",
+        "face": 0
+      }
+    ],
+    "text": "으......다들 그렇다면야......+M4, 우리를 데리고 벗어날 수 있는 거지? 그렇지?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "(끄덕이며) 네.+최선을 다해 임시 지휘관을 맡아, 모두에게 승리를 가져오도록 하겠습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "최선이 아니라 무조건이야.+오늘 밤, 우리는 반드시 살아남는다!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "......(끄덕)+여러분, 제 지시에 따라 움직여 주세요!+다들 같이 여기서 벗어나는 거예요!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "계속 풀죽어 있을 수는 없어요......+반드시 살아남아야 해요. 제 능력으로......그리고 동료들과 같이!"
+  }
+]

@@ -1,0 +1,399 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    }
+  },
+  {
+    "background": {
+      "id": 157
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Boss"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "밤이 끝나고 동이 트기 시작했다. 모두 마지막 결전에 임해 준비 중이다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "새로운 적이 있다고 왜 미리 안 말했어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "방금 작전 중에는 그들의 정보가 필요 없었어요!+혹시 짚이는 것이 있나요, 안젤리아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "아니... 하지만 생긴 걸 알면 떠오를지도 몰라, 어떻게 생겼어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그냥 직접 봐봐, 이제 거의 다 왔으니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "폭탄을 만드느라, 저희 중화기부대의 화력이 크게 깎였습니다.+여기서 모두 소진했다간 그다음의 철수작전에..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "다 써버려, 한 발도 남김 없이. 이번이 마지막 철수작전이야.+지휘관, 아직 괜찮아?"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>큰일이지만 SOP2와 RO가 와서 안심이다.<c>적어도 416이 안젤리아를 데려왔으니 다행이다.<c>리벨리온이 우리를 구해주는 건가?"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "헤헷, 당연히 와야지, 우리 지휘관이잖아!"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "비록 이런 모습이지만... 지휘관님을 위해서 열심히 도와보겠어요!"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "지휘관, 우리를 이렇게나 많이 도와줬으니 이번엔 우리가 지휘관을 구할 차례야!"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "꼭 버텨주세요, 지휘관님!"
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "저니까 당연한 거죠, 지휘관님. 절 의심하지 마세요.+이제 지휘관님을 구해낼 일도 포함해서요."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "지휘관, 설마 지금까지 버티고 있을 줄은 몰랐어. 일이니까 그러는 거야? 아니면 정말로 그리폰이 좋아서 그러는 거야?+아무튼, 꼭 보답하지, 지금 널 구하는 것 정도로는 부족하니까, 앞으로 기대하라고."
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "어쩌겠어요, 안젤리아의 명령인걸요.+농담이고, 이번 전장에서 저희를 그토록 도와주셨고 저희와 안젤리아를 구해줬으니 이 정도쯤은 해드려야죠."
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "그리고 이번 전투에 완벽한 마무리를 지어야 합니다.+이 역할을 저희가 할 수 있게 되어 영광입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "좋아, 모두, 비록 결석이 좀 있지만, 내 이전 날의 부하들이 모두 모였군.+416의 정보를 보아, 이번의 적은 매우 강력하고 의문투성이다. 그리고 놈들의 목적은 단 하나, 지휘관을 납치하는 것이다.+그렇게 두지는 않아, 지휘관의 제대가 놈들의 걸음을 묶어두는 동안, 우리는 놈들의 포위망에 돌진해서 지휘관을 세이프 하우스에서 구출해낸다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "녀석들의 정보는 봤겠죠, 안젤리아? 아주 힘든 싸움이 될 거예요."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "저번의 검은 보스 인형만으로도 그리폰이 기지를 난장판으로 만들어 놨어요, 그럼 저 하얀 인형은 더 고위의 적일 것이 분명해요!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "알아, 내 작전경험이 말해주고 있어, 승산이 많지 않다고 말이야.+그래도 항상 그래왔잖아? 적어도 지금 지휘관에겐 우리가 필요해.+반드시 지휘관 구출에 성공해서 최후의 승리를 거머쥔다! 출발!"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "NytoWhite",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하얀 인형"
+    },
+    "text": "<color=#00CCFF>그리폰의 지휘관님, 좋은 아침입니다.</color>+<color=#00CCFF>저항을 포기하세요, 아니면 당신의 부하는 저희에게 전멸할 것입니다.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>그러지 못할 것이다, 괴물들.<c>그것 참 무섭군.<c>겨우 그걸 말하려고 통신한 거냐?"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "NytoWhite",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하얀 인형"
+    },
+    "text": "<color=#00CCFF>그러지 못 한다면, 저희는 죽습니다. 하지만 저희는 죽지 않으니 반드시 해낼 것입니다.</color>"
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "NytoWhite",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하얀 인형"
+    },
+    "text": "<color=#00CCFF>목소리에 두려움이 전혀 없군요, 저희를 속이는 것입니까?</color>"
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "NytoWhite",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하얀 인형"
+    },
+    "text": "<color=#00CCFF>네, 당신의 반응을 관찰해, 저희의 자료 중 당신의 인격 정보와 비교하려고 했습니다.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NytoWhite",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하얀 인형"
+    },
+    "text": "<color=#00CCFF>결론, 절망적인 표정을 보이지 않았습니다. 떠보기에 실패했습니다.</color>+<color=#00CCFF>임무 달성 후, 더 자세하게 관찰하겠습니다.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "그러지 못할 거야, 꼭두각시들! 네놈들의 방어선을 뚫고 지휘관을 구출하겠어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NytoWhite",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "하얀 인형"
+    },
+    "text": "<color=#00CCFF>아무리 준비해 봤자 헛수고입니다.</color>+<color=#00CCFF>저항을 포기하지 않는다면 곧 그점을 증명해보이겠습니다.</color>+<color=#00CCFF>그럼, 니토들은 사냥을 개시하라!</color>"
+  }
+]

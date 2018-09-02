@@ -1,0 +1,259 @@
+[
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "sound": {
+      "bgm": "BGM_War",
+      "se1": "Battlefield"
+    },
+    "text": "그리폰의 제대가 철혈의 지휘부를 습격, 우로보로스와 정면으로 교전하기 시작했다."
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "Weaver",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "우로보로스"
+    },
+    "text": "제길, 이번에도 그리폰의 공격인가!+이번 작전의 지휘자는 404 소대뿐이었을 텐데... 역시, 살아있었나!"
+  },
+  {
+    "characters": [
+      {
+        "name": "??"
+      }
+    ],
+    "text": "네 상대를 똑바로 보렴, 우로보로스."
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "OTs14",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "이렇게나 당황하는 추태를 보이다니... 너답지 않네."
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "Weaver",
+        "face": 2
+      },
+      {
+        "name": "OTs14",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "우로보로스"
+    },
+    "text": "OTs-14...! 아직도 살아있었던 거냐?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "Weaver",
+        "face": 2
+      },
+      {
+        "name": "OTs14",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "세상일이란 게 다 그런 거야. 모든 게 네 뜻대로 흘러가지는 않지."
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "Weaver",
+        "face": 1
+      },
+      {
+        "name": "OTs14",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "우로보로스"
+    },
+    "text": "......+그래... 지휘부에 앉아서 네년들의 죽는 꼴을 감상하고 싶었지만, 확실히 그럴 수가 없겠네..."
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "Weaver",
+        "face": 1
+      },
+      {
+        "name": "OTs14",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "네 사명은 아까 그 폭발로 끝났을 텐데, 왜 아직도 이러는 거지? 자폭이라도 할 셈이야?"
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "Weaver",
+        "face": 1
+      },
+      {
+        "name": "OTs14",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "우로보로스"
+    },
+    "text": "인형의 자아와 존엄이란 것을 너희 같은 노예들은 이해하지 못하겠지..."
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "Weaver",
+        "face": 2
+      },
+      {
+        "name": "OTs14",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "우로보로스"
+    },
+    "text": "난, 너희를... 그리폰의 모든 인형을 없애 버릴 수 있다!+AR팀, 404 소대, 그리고 너처럼 잘난 척 위에서 내려다보는 녀석들까지, 전부 다!+엘더 브레인에게, 나 자신을 증명할 테다! 이 내가, 그깟 재머보다 백 배, 천 배는 더 가치가 있다는 걸 증명해 보이겠다!"
+  },
+  {
+    "background": {
+      "id": 2,
+      "isNight": true
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 3
+      }
+    ],
+    "text": "SPP-1과 흩어졌다는 게 OTs-14였구나. 이거 헬리안한테 크게 신세 졌는걸!"
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "text": "드디어 승산이 보이는군. 45, 작전 계획은?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "text": "그녀가 우로보로스의 주의를 끄는 동안, 우리도 따로 움직여야지.+9, 너는 계속해서 네 더미를 미끼로 써서, 철혈의 포위 작전을 지연시켜."
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 3
+      }
+    ],
+    "text": "맡겨줘! 더미 신호를 전부 켜놓을게!"
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "text": "416, 너는 G11을 데리고 좌표 R13 고지로 가서, 언제든지 우리의 후퇴를 엄호할 수 있도록 해."
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 0
+      }
+    ],
+    "text": "알았어... 416, 나 잘 테니까 가는 길에 깨우지 마..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 2
+      }
+    ],
+    "text": "안심해, 깨워도 안 일어나게 기절시킨 다음 끌고 갈 테니까."
+  },
+  {
+    "sound": {
+      "se1": "Battlefield",
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "text": "416은 G11을 배치하고 나면 OTs-14의 제대를 지원하러 가. 작전이 끝나면, 걔들도 우리와 함께 퇴각할 수 있도록 하자.+난 우로보로스의 지휘부를 완전히 때려 부술 때까지 계속 제대를 동원해 녀석의 기력을 소모시킬게.+모두, 통신은 항상 열어놓고, 움직여."
+  }
+]

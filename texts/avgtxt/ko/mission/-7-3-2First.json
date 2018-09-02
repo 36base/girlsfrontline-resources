@@ -1,0 +1,80 @@
+[
+  {
+    "background": {
+      "id": 3,
+      "isNight": true
+    },
+    "sound": {
+      "bgm": "BGM_Battle",
+      "se1": "Battlefield"
+    },
+    "text": "아키텍트가 주둔 중인 거점에서 전투가 시작되었다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "BOSS-9",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "아키텍트"
+    },
+    "text": "야 야, 이게 뭐 하자는 거야...+이런 간지럽지도 않은 공격으로는 나한테 씨알도 안 먹힌다고.+화풀이하자고 목숨까지 버릴 셈이야? 그래 봤자 아무 의미 없잖아!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "text": "한편, M4A1의 지휘실."
+  },
+  {
+    "characters": [
+      {
+        "name": "M99",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "M4 씨, 아키텍트의 지휘 거점의 구조를 완벽하게 파악했어요.+하지만 M1873의 매설 작업이 완료될 때까지는 아직 시간이 조금 더 필요해요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "알겠어요. 시간이라면 제가 벌어보죠.+비록 머릿수로는 밀리지만, 다행히 보급품은 충분하니 오래 버틸 수 있을 거예요.+그러니 그들에게 너무 조급해하지 말고, 신중하게 행동하라고 전해주세요."
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "M99",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "하지만 정말 괜찮을까요? 아키텍트의 성격으론, 우리가 소란피우는 걸 그렇게 오래 참지는 못할 텐데요..."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "그건 모르는 거예요. 지금 이 아키텍트는...자료에서 보던 인상과는 좀 달라요.+저도 아키텍트의 행동 패턴을 분석할 시간이 필요하고요. 그런 다음, 그에 맞춰 전술을 구상할게요.+그럼 어쩌면... 한 번에 녀석들 모두 해치울 수 있을지도 몰라요, 아키텍트... 그리고 그 철혈의 AI 코어까지."
+  }
+]

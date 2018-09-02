@@ -1,0 +1,819 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 70
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그리폰 수복실"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "제레! 제레, 대답해줘!+토론 결과 나왔어? 왜 45 언니가...+왜 45 언니가 재가동을 못 하는 거야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Seele",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "제레"
+    },
+    "text": "<color=#00CCFF>아, 그건... 일단 진정해요...</color>+<color=#00CCFF>그건... 그러니까...</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Deele",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "데레"
+    },
+    "text": "<color=#00CCFF>아 진짜 시끄럽네! 전력 절약을 위해서 레벨 2 플랫폼도 꺼버렸어!</color>+<color=#00CCFF>방해하지 마, 지금 원격으로 긴급 수복 중이니까!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 2
+      },
+      {
+        "name": "NPC-Deele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "G11"
+    },
+    "text": "그럼 45 다시 살아날 수 있어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Deele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "데레"
+    },
+    "text": "<color=#00CCFF>방금 그 그리폰 보급관이 괜찮게 수습해줬어.</color>+<color=#00CCFF>하지만 최저한의 동력 공급을 확보했다 해도, 일부 핵심 모듈을 유지해서 시간을 벌었을 뿐이야.</color>+<color=#00CCFF>먼저 좀 더 좋은 수복 시설로 옮겨야 일을 마칠 수 있어!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      },
+      {
+        "name": "NPC-Deele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "지금 여기에 그런 시설은 없어. 수송기로 45 언니를 보내야 해. 제레, 부탁할 수 있어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      },
+      {
+        "name": "NPC-Seele",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "제레"
+    },
+    "text": "<color=#00CCFF>죄송해요... 지금 그 위치는 너무 위험해요.</color>+<color=#00CCFF>정보에 의하면, 각종 작전세력과 붕괴액 오염구역도 있고.거기에 그쪽의 임시 기지가 공격을 받고 있으니...</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      },
+      {
+        "name": "NPC-Seele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "안 되는 거야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      },
+      {
+        "name": "NPC-Seele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "제레"
+    },
+    "text": "<color=#00CCFF>할 수는 있어요, 하지만 이런 위험을 감당할 수 있는 인선은 아주 비쌀 거예요...</color>+<color=#00CCFF>저희 자금 상황이 어떤지는 알잖아요...</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      },
+      {
+        "name": "NPC-Seele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "돈이라면 상관없으니까, 가장 좋은 구조대를 보내줘!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Seele",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "제레"
+    },
+    "text": "<color=#00CCFF>아, 알겠어요! 지금 바로...</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "삐익!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>9, 45의 상태는 어때?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "아직 제레와 연락하고 있어, 일단 45 언니를 다른 곳으로 옮겨야 할 거야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>아직은 안 돼, 이미 적이 기지 안에 쳐들어 왔어!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "그럼 큰일이잖아!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>지금 지휘관의 지원군이 올 때까지 시간을 벌고 있어, 대체 어떤 지원군인지는 모르지만.</color>+<color=#00CCFF>아무튼 넌 G11하고 계속 45를 지키고 있어, 언제든지 방어선이 뚫릴 수 있으니까.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "알았어, 근데 416...+네가 45 언니에게 진 빚은, 이미 다 갚았잖아."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>알아, 녀석 입으로 들었어.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "그러니까... 이제 때가 된 거야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>내가 바라는 건 오직 나 자신을 증명하는 거야.</color>+<color=#00CCFF>하지만 그러기 위해선 너희를 살려내야 돼.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "그럼... 부탁할게, 45 언니는 우리가 반드시 구할 테니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 2
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "G11"
+    },
+    "text": "416, 너 그쪽은 괜찮아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 2
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>지휘관이 있어, 그리고 인형도 많이 있고.</color>+<color=#00CCFF>너나 죽지 마, 다시 만날 테니까.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 2
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "G11"
+    },
+    "text": "언제 만날지는 모르는 거지?+난 그래도... 마지막에 함께 싸울 수 있었으면 좋겠어."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>이번엔 사양할게, 널 업고 다닐 힘이 없어.</color>"
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "통신 종료."
+  },
+  {
+    "background": {
+      "id": 159
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "bossbattle_loop",
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "... 그리고, 와봤자 도움도 안 되니까.+이 망할! 대체 어떻게 해야 방어를 뚫을 수 있는 거야? 대체 뭐냐고 저것들은!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "총알 낭비하지 마, 내가 말했잖아, 녀석들은 우리가 쓰는 질량병기를 전문으로 막는 역장이 있어. 그걸 뚫기는 너무 힘들어.+그래도 네 덕분에 이렇게 방어선을 유지할 수가 있었어."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "감사는 됐어."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "타탕!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "HK416, 내가 하고 싶은 말은, 아까 전엔 정말 미안했어, 그리고...+넌 정말 믿음직한 녀석이야, 지금 기지 안에 있는 어느 인형보다 훌륭해."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "넌 네가 할 일만 하면 돼, 전장에선 명령이 전부야."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "그러고 보니, 416, 아까 지휘관이 내린 명령 기억하지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "적의 주의력을 끌고, 걸음을 늦출 것. 적들이 우리 철수 지점을 찾을 수 없게 할 것."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "맞아, 그러지 않으면 모두 끝장이야.+416, 우리의 임무는 지휘관이 말한 \"지원군\"이 올 때까지 버티는 거지, 적을 무찌르는 게 아니잖아. 그러면 꼭 여기서 수비를 유지할 필요는..."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "지휘관님이 말한 \"지원군\"이 언제 올지 모르는데 벌써 풀려버리지 마.+그리고, 그 \"지원군\"이 정말 쓸모가 있는지도 모르잖아."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "그래도, 우리만으로는 승산이 없잖아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "아까 전에는 바로 뛰쳐나가려고 하더니, 지금은 슬금슬금 도망칠 생각을 하고. 너 전술인형으로서의 마음가짐은 있는 거야?"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "타탕!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "에이, 그냥 해본 말이야, 남는다면 남아야지 뭐.+내 말은 말이야, 지휘관을 좀 더 믿어보라는 거야. 너도 지휘 모듈이 없잖아, 계속 여기서 수비해도 효율이 낮으니까..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "지휘관님은 아직도 그 뭔지도 모를 \"지원군\"을 조달하고 있어. 준비가 다 되면 신호를 보내준다고..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "삐익."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "오, 왔네."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "경계사격을 유지해, 물러서지 말고."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "지휘관님, 언제까지고 여기서 움추리고 있을 수는 없어요!+지금 여기의 공세를 막고 있지만, 곧 놈들이 다른 거점을 돌파하고 말 거예요!"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "+<c>지금 방법을 찾고 있다.<c>물론 준비 다 됐다.<c>지원이 곧 도착할 테니 조금만 더 버텨라."
+  },
+  {
+    "screenEffect": "dark1",
+    "spot": "1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "더 서둘러 주세요, 적들이 지금 우리 가용 병력이 얼마 없다는 것을 눈치챘다간, 퇴각 지점은 끝장이에요!"
+  },
+  {
+    "screenEffect": "dark1",
+    "spot": "2",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그게 뭐든 정말 도움이 됐으면 좋겠네요!"
+  },
+  {
+    "screenEffect": "dark1",
+    "spot": "3",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "제발 그게 제가 마지막으로 듣는 명령이 아니면 좋겠네요!"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>아무튼 명령에 따라서 계속 적의 전진을 막으면서... 지원군이 도착할 때까지 버텨볼게요!</color>+<color=#00CCFF>하지만 지휘관님, 그 \"지원군\"이란 건 대체 뭐죠? 정말로 저 적들을 물리칠 수 있나요?</color>+<color=#00CCFF>죄송해요. 지휘관님을 못 믿는 건 아니라, 더 이상...</color>+<color=#00CCFF>... 아니에요, 임무에 집중하겠습니다.</color>+<color=#00CCFF>시간이 없어, 명령 복창한다. 반드시 지정된 시간 동안 방어선을 지켜, 지원 부대가 기지에 도착할 수 있도록 한다!</color>"
+  },
+  {
+    "screenEffect": "dark1",
+    "text": "<color=#fff775>이 전역의 서로 다른 임무를 달성하면 서로 다른 루트로 진입합니다. 임무 달성 후 다른 루트는 잠기게 되며, 백트래킹을 해야 다시 선택할 수 있습니다.</color>"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  }
+]

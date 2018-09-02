@@ -1,0 +1,361 @@
+[
+  {
+    "background": {
+      "id": 2,
+      "isNight": true
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "text": "......작전 종료."
+  },
+  {
+    "characters": [
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "네게브"
+    },
+    "text": "지휘관, 아직까지는 모든 게 순조로워.+아무도 본 적이 없다는 그 소문의 보스는 더 깊은 곳에 있는 건가?+......응? 적들? 다 처리했잖아?+결과만 놓고 보면, 남아 있는 적이 없으면 잠입하는 거랑 똑같잖아?+그럼 이제───"
+  },
+  {
+    "characters": [
+      {
+        "name": "TAR21",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "TAR-21"
+    },
+    "text": "네게브, 여기는 타보르! 네게브, 들리시나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "TAR21",
+        "face": 0
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "네게브"
+    },
+    "text": "여기는 네게브, 계속 통신대기 중이야. 무슨 일인데?"
+  },
+  {
+    "characters": [
+      {
+        "name": "TAR21",
+        "face": 0
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "TAR-21"
+    },
+    "text": "죄송하지만, 상황이 변했어요.+제 행동이 철혈에게 발각되었는지, 현재 공장 주변으로 모여들고 있어요.+30분 이내에 공장 근처로 이동해야만, 정면충돌을 피하고 타깃을 회수할 기회가 있을 거예요."
+  },
+  {
+    "characters": [
+      {
+        "name": "TAR21",
+        "face": 0
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "네게브"
+    },
+    "text": "갈릴, 들었지? 현재 루트를 다시 확인하도록 해......+이봐 갈릴......?"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "......칙, 치익."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Danger"
+    },
+    "characters": [
+      {
+        "name": "AR",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "갈릴"
+    },
+    "text": "......네게브! 듣고 있지?!+현재 철혈에게 발각되어 포위당했어, 지원과 퇴각로가 필요한 상황이야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR",
+        "face": 0
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "네게브"
+    },
+    "text": "양쪽으로 동시에!?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR",
+        "face": 0
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "갈릴"
+    },
+    "text": "양쪽이라니? 무슨 소리를 하는 거야! 빨리 구하러 와달라고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR",
+        "face": 0
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "네게브"
+    },
+    "text": "내 현재 위치에서 공장까지 제일 빠른 루트와 시간을 말해줘. 구조는 그 뒤에 생각해볼 테니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "AR",
+        "face": 0
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "갈릴"
+    },
+    "text": "아아, 나왔구만! 네게브의 교섭 방식! 대체 누구한테 배운 거냐고 그거."
+  },
+  {
+    "characters": [
+      {
+        "name": "AR",
+        "face": 0
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "네게브"
+    },
+    "text": "나는 천재거든, 만들어질 때부터 승리의 의미를 알고 있었지. 설마 잊은 거야?+서둘러, 시간 없어."
+  },
+  {
+    "characters": [
+      {
+        "name": "AR",
+        "face": 0
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "갈릴"
+    },
+    "text": "오케 오케, 루트는 표시해뒀고, 가장 빠른 루트는 25분. 전제 조건은 다음 초소를 최고 속도로 돌파해야 해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR",
+        "face": 0
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "네게브"
+    },
+    "text": "최고 속도의 달성 조건은?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR",
+        "face": 0
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "갈릴"
+    },
+    "text": "목격자를 만들지 않을 것."
+  },
+  {
+    "characters": [
+      {
+        "name": "AR",
+        "face": 0
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "네게브"
+    },
+    "text": "딱 내 스타일이네."
+  },
+  {
+    "characters": [
+      {
+        "name": "AR",
+        "face": 0
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "갈릴"
+    },
+    "text": "그럼 구조 말인데, 타보르를 보내───"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR",
+        "face": 0
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "네게브"
+    },
+    "text": "타보르는 지금 바빠서 못갈 것 같으니, 죽지 말고 기다리고 있어."
+  },
+  {
+    "characters": [
+      {
+        "name": "AR",
+        "face": 0
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "갈릴"
+    },
+    "text": "뭐라고? 야, 그게 무슨───"
+  },
+  {
+    "characters": [
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "......삑, 네게브는 통신을 끊었다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "네게브"
+    },
+    "text": "됐어, 이제 회수 작전을 완수하러 가볼까."
+  }
+]

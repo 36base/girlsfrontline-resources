@@ -1,0 +1,479 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    }
+  },
+  {
+    "background": {
+      "id": 159
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "text": "작전 종료."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "검은 인형"
+    },
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "이상한 녀석이네, \"아파\"도 못하는 거야? 혹시 벙어리야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "검은 인형"
+    },
+    "text": "..."
+  },
+  {
+    "text": "검은 인형은 여전히 무표정이다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "뭐 상관 없어, 어디 네 몸은 어떤 구조인지 검사해볼까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "SOP2, 적당히 해.+정보 수집을 위해서 소체를 확보해야 하니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "숨만 붙어 있으면 되는 거지?+그럼 눈깔이라도 좀 몇 개..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "검은 인형"
+    },
+    "text": "당신들은...+아무 것도 얻지 못해요..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "검은 인형"
+    },
+    "text": "... 자체파기 프로그램 기동."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "SOP2! 빨리 손을 잘라버려!"
+  },
+  {
+    "sound": {
+      "se1": "Explode"
+    }
+  },
+  {
+    "screenEffect": "shockScreen",
+    "text": "콰앙!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "으아아아!+젠장! 결국 한 발 늦었잖아!+뭐가 자체파기 프로그램이야, 그냥 자폭이잖아!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "SOP2...+아까 그 검은 인형의 모습 잘 봤어...?"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "아니, 왜 그래?"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "그 녀석...+인형이 아닌 것 같아..."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그게 무슨 말이야! 인형이 아니면 인간을 보냈게?"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "하지만 그 인형이 총에 맞은 곳에서 붉은 액체가 흘러나온 것을 보면... 정말로..."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그냥 비스무리한 거겠지? 희한한 것도 아니잖아."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>SOP2, 거긴 어떻게 됐어? 그 인형을 붙잡았어?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "자폭했어, 거긴?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>여기도 똑같아, 일단 복귀해, 다 끝났으니까.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "응? 아직 후속부대가 남아 있는 게 아니야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>방금 전 전투로 그 검은 인형만 해치우면 나머지 병력은 따라오지 않는다는 걸 알았어.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "RO635"
+    },
+    "text": "이런 지휘 네트워크, 어쩌면 단서가 될 수 있을지도.+(하지만... 대체 무슨 인형인 거지...)"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>가자, 다음 수송기가 도착했어, 그만 떠날 때야.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "어? 벌써 나 떠났어? 언제 언제?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "RO635"
+    },
+    "text": "네가 쓰레기 줍는 동안에 다 간 거잖아!+서둘러! 늦었다가 좋은 자리 뺏기면 어떡해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "에잇, 알았어, 416 기다려!"
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>...</color>+<color=#00CCFF>나도 같이 간다고는 안 했어.</color>"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "text": "..."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그래...+한 번도 말한 적 없어..."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "background": {
+      "id": 8
+    },
+    "sound": {
+      "bgm": "BGM_Sunshine"
+    },
+    "text": "그리폰 S9 지역 전술 지휘실......"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "지휘관님, 제가 돌아왔어요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "에고고, 계속 창고에서 일하다 보니 힘들어 죽을 것 같아요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "에? 제가 누구냐고요--?"
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "놀리지 마세요. 지휘관님. 방금도 상점에서 봤잖아요!+본제로 돌아가죠. 헬리안 소대가 가고나서, 본부에서는 새로운 임무가 내려왔어요. 확인 부탁드려요!!"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "스케어크로우의 소멸은 확인했어요. 그렇지만 아직 철혈의 통제하에 있는 그리폰 지휘부가 있는 모양이에요.+그곳의 그리폰 소대가 철혈에 포위된 모양이니 최대한 신속히 구조해야 해요."
+  }
+]

@@ -1,0 +1,2751 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Truth"
+    },
+    "text": "붕괴액 폭탄이 터진 후 한 시간. 그리폰 임시 거점."
+  },
+  {
+    "background": {
+      "id": 85
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M1928A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "톰슨"
+    },
+    "text": "<color=#00CCFF>... 그렇게 돼서.</color>+<color=#00CCFF>우린 여기에서 벗어날 수 없게 됐어, 카리나 형씨.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "포기하면 안 돼! 돌아올 때까지 기다릴 테니까!+분명 방법을 있을 거야! 우리가..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "톰슨"
+    },
+    "text": "<color=#00CCFF>더 이상 못 버티겠어. 저놈들은 완전히 괴물이야.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "정보가 전혀 없다니... 대체 어떤 이들이지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "톰슨"
+    },
+    "text": "<color=#00CCFF>아쉽지만, 형씨. 지금까지 상대했지만 놈들이 어디서 온 누구인지 전혀 모르겠어.</color>+<color=#00CCFF>그저 갑자기 전장에 나타나서 우리를 섬멸하려는 것만 알고 있지.</color>"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "대체 어째서...+대체 어디서 와서, 왜 우리를 공격하는 거지...+그리고 왜 하필이면 이런 때에..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "이제 겨우 모두를 데리고 벗어날 수 있었는데..."
+  },
+  {
+    "background": {
+      "id": 85
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M1928A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "톰슨"
+    },
+    "text": "<color=#00CCFF>현재 기지의 상황은 어때?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "13, 15, 27번 예비 회선 모두 파손됐어... 외곽 구역에는 지금 그곳을 빼면 두 수비 거점뿐이야.+다른 그리폰 부대는 이미 전장에서 철수했고, 헬리안 씨도 우리에게 보급을 보낼 수 없을 거야..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "톰슨"
+    },
+    "text": "<color=#00CCFF>이런, 정말로 끝장인가 보군.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "어떻게든 해볼 테니까, 꼭 버텨줘!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "톰슨"
+    },
+    "text": "<color=#00CCFF>물론 농담이지, 물론 마지막까지 버텨볼 거야.</color>+<color=#00CCFF>다만 우리 소대에 탄약이 필요해, 대구경 소구경 모두. 근데 형씨도 아까...</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "군수제대를 어떻게든 보내볼게!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "톰슨"
+    },
+    "text": "<color=#00CCFF>너무 위험해, 놈들은 움직이는 것만 보면 닥치는 대로 공격하고 있어.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "지휘관님께서 안전한 경로를 찾아줄 거야. 좀 시간이 걸릴 테니까 일단 버티고 있어.+그리고, 물자도 얼마 없을 거야. 미안해, 기지에 더 이상 재고가 없어..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "톰슨"
+    },
+    "text": "<color=#00CCFF>약간만 있으면 돼, 받는 총알 하나하나 다 적들의 머리통에 박아줄 테니까.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "부탁할게, 우리의 구조가 도착하기 전까지 꼭 살아 남아야 돼!"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "새로 통신이 들어왔다."
+  },
+  {
+    "characters": [
+      {
+        "name": "9A91",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "9A91"
+    },
+    "text": "<color=#00CCFF>카리나 씨, 보고 드릴게요. 앞선 교전으로 의문의 적의 분대를 3개 섬멸했어요.</color>+<color=#00CCFF>수비 거점은 잠시는 안전해요, 우리측 손실 수준은 중간으로 방어선 복구를 위해, 더미 인형을 10개 보내주세요.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "9A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "9A91, 우린... 더 이상 더미 인형이 없어."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "9A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "9A91"
+    },
+    "text": "<color=#00CCFF>... 그럼 두 인형의 퇴각을 부탁해요.</color>+<color=#00CCFF>본체가 심각하게 손상되어서, 빨리 수복하지 않으면...</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "9A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "응, 퇴각해도 좋아, 두 사람보고 돌아오라고 해."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "9A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "9A91"
+    },
+    "text": "<color=#00CCFF>고맙습니다, 바로 실행할게요.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "9A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "파이슨의 수비제대 상황은 알고 있어? 조금 전부터 연결이 안 돼."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "9A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "9A91"
+    },
+    "text": "<color=#00CCFF>잘 모르겠어요, 적에게 갈라지고 말았어요.</color>+<color=#00CCFF>아직도 신호가 불안정해요, 우산 바이러스를 대비해서, 일부 지나 프로토콜을 막아서 너무 멀리 있는 인형과는 정보를 공유할 수 없어요.</color>+<color=#00CCFF>하지만 육안 관측으로 보아 아직 방어선은 무사해요. 아직은 버틸 수 있을 거예요.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "9A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "<color=#00CCFF>알았어, 거점을 지키도록 해, 어떻게든 지원해줄 테니까!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "9A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "9A91"
+    },
+    "text": "<color=#00CCFF>모두를 위해서, 한 발도 물러서지 않을 거예요.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "통신종료."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 7
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "하지만... 어떻게 지원을 보내지...+상황이 정말 엉망진창이야, 과연 나 살아서 돌아갈 수 있을까...+보급관은 안전하다고 말했으면서, 지금 이러면... 예전 그 때하고 똑같잖아..."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "카리나는 일기장을 펼쳤다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 7
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "오늘 내가 죽게 된다면...+다음 생에...+고양이로 태어나고 싶다...+사무실 바깥 수풀 속에 숨어서, 다른 떠돌이 고양이와 함께 급식소를 찾는 것 말고 아무 일도 할 필요 없이...+매일 야옹 하면서 지내면 되는..."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "어라?! 지휘관님의 통신이다!"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "characters": [
+      {
+        "name": "",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "+<c><color=#00CCFF>지금 많이 힘든가?</color><c><color=#00CCFF>철수 지점은 어떻게 됐지?</color><c><color=#00CCFF>수비거점은 어떻지?</color>"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 7
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "하하... 그냥... 조금은요..."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 7
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "수비를 맡은 인형은 모두 중요 지점에 위치했어요, 이제 수송기가 도착하기만 기다리면 돼요."
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 7
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "거점 모두 의문의 세력에게 습격당했어요. 지금 방어선을 유지하는 것마저 힘들어요..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 7
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "어쨌든 간에, 안젤리아 씨의 정보대로 이곳의 적은 그다지 밀집하지 않아요. 지휘관님께서 배치한 방어부대에게도 보급을 하고 있고요.+철수용 헬기가 올 때까지 버틸 수 있으면 좋을 텐데..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "네? 또 다른 임무가 있어요?+그리폰 소문 중의... \"존재하지 않는\" 소대요?+네... 알겠어요... 임무라면 받아야죠..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "그들의 식별신호를 받았어요. 곧 지휘 시스템에 동기화해서 우리 인형이 그들을 공격하지 않도록..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "？？"
+    },
+    "text": "그래서 당신 같은 게 우리를 마중하러 오는 건가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "어어어?!!+누, 누구세요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "카리나... 씨 맞으시죠? 여기 보급관이신 분."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "응 맞아...+거기에 지금 다른 직책도 여러 개 맡고 있어, 일손이 부족해서 말이야, 하하..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그럼 저희를 좀 도와주시죠."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "어? 도움이 필요해? 문제없어, 인형을 도와주는 게 우리 일이니까... 아니, 잠깐만...+너, 본 적 없는 인형인데..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "아 맞다! HK416 맞지! 생각났다, 저체온증 작전 때 만났지!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "Guten Tag.+인간의 기억을 지울 수 없는 점은 참 위험하네요."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "너... 아직도 그럴 셈이야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "물리적 수단이라면 해볼 만 하지만, 그런 명령을 받아본 적이 없군요."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "그럼 다행이다, 휴우..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그래서 아직도 철수 안 했나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "수송기가 오는 걸 기다리고 있지만, 정확한 시간은 아직 몰라..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그럼, 지휘관님께서 저희의 일을 말했었나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "아, 아까 지휘관님이 말했어, 지금 너희의 식별 신호를..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "잠깐! 아직 입력 안 했는데 어떻게 들어 온 거야! 밖에 방어선을 6겹이나 쳤는데..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그래서요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "그, 그래서...+그래서 \"존재하지 않는\" 소대라고 부르는 거구나...+왜 다른 인형들이 무서워하는지 알겠어..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그럼 당신도 저희가 무섭나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "난 당연히 안 무섭지! 아하하... 헛소문인 거 다 아는걸..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "이전에 무슨 소문을 들었든, 지금 우리는 그저 도움이 필요한 그리폰 인형이에요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "응응, 아주 그리폰의 엘리트인 느낌이 넘쳐흘러. 다른 건 나 같은 보급관은 알 수 없는 일이고, 알 필요도 없잖아.+지휘관님께서 명령을 내린 이상 당연히 도와줄게.+근데, 지휘관님께서 404 \"소대\"를 도와주라고 했는데, 다른 대원은 어디 있어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "G11"
+    },
+    "text": "허억, 허억, 헉... 41... 6... +너 너무 빨라서 따라잡을 수 없잖아."
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 3
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "네가 느린 거야, G11. 네 발로 기어왔어? 9하고 45는 어디 있어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 2
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "G11"
+    },
+    "text": "9은 45를 임시 수복실에 데리고 갔어... 데레가 지금 원격 점검 중이야...+아무리 45가 걱정되어도 그렇게 빨리 달릴 필요느으으아파 아파!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "이 주둥이가 못하는 말이 없네?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "얘가 네 대원이야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그런 셈이죠, G11, 저희 저격수로..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "귀, 귀여워!+이렇게 귀여운 인형까지 \"존재하지 않는\" 소대원인 거야!?"
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "G11"
+    },
+    "text": "으으... 뭔가 칭찬 같지가 않아...+왜 내가 만나는 인간마다 다 이렇게 이상한 걸까..."
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 2
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "아주 열린 입이네... 이 사람은 여기에 보급관이야.+이 사람이 입만 열면, 지금 당장 네 각인을 뜯어내고 그 거리로 돌려보낼 수도 있어."
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 3
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "G11"
+    },
+    "text": "뭐! 저, 정말이야!? 제제제제발 해체하지 말아 주세요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 3
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "해체 안 해!+그리고 해체 권한은 지휘관님만 가지고 있다고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 2
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "G11"
+    },
+    "text": "휴우... 그렇구나..."
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 2
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "아직도 그렇게 호들갑부릴 여유가 있는 모양이구나.+됐어, 빨리 수복실로 데려가기나 해, 어서."
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 3
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "G11"
+    },
+    "text": "알았으니까 발로 차지 마!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "카리나 씨도 같이 와주세요. 저희에게는 자원을 조달할 권한이 없으니까요."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "무슨 일을 시킬려고... 너희 대원을 구하려고?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "부탁할게요, 녀석을 꼭 구해주세요.."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "..."
+  },
+  {
+    "background": {
+      "id": 161
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "카리나는 HK416을 따라서 임시 수복실에 도착했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "여기 줄 서 있는 인형 모두 수복을 받으러 온 건가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "맞아... 아까 전의 전투로 상황이 심각해졌어.+게다가 지금 마인드맵을 그리폰의 메인 서버와 연결할 수 없어서 메모리를 업로드할 수가 없어.+그래서 일단 모두가 움직일 수 있을 만큼 수복해서 헬기가 도착할 때까지 버틸 수 있도록 하고 있어."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그리폰의 마인드맵 업로드 기능이 멈췄다고요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "응... 군이 우리를 공격하기 시작한 때부터 서버가 계속 불안정한 상태야.+조금 전에 대폭발이 일어난 후엔 모든 연결이 끊어졌어.+본부에도 연락이 안 되고, 헬리안 씨도 소식이 없고... 다른 부대는 어제 다 철수했는데, 우리 지휘관님만 여기를 지키고 있어..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "대폭발... 그 붕괴액 오염탄 말인가..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "오염... 뭔데?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "아무것도 아니에요. 그럼 지금 수복 준비 상황은 어떻죠?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "그것도 상황이 안 좋아.+지금 제공할 수 있는 부품이 많지 않아서, 수복할 수 없을 경우에는 마인드맵 데이터를 안전한 데이터 블록에 백업할 수밖에 없어.+하지만 이런 방식으로도 모든 인형을 백업해줄 수는 없어. 데이터 블록 수도 제한이 있으니까..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "정말 안 될 경우엔, 물리적으로 백업할 수밖에 없겠어..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "이런 방법은..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "...아얏!"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "수복실에서 한 인형이 갑자기 튀어나왔다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "미안, 어디 부딪혔어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "부딪혔다면 내가 사과해야지.+카리나, AK47의 군수제대가 어디 갔는지 알고 있어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "아, 방금 9A91 그쪽에 부상자를 퇴각시켜야 한다고 해서 그쪽으로 갔어."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "그럼 나도 가서 도울게."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "잠깐만, 너 이제야 수복이 끝났..."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "AK-74U는 홱 하고 뛰쳐나갔다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "아... 가버렸네...+아 미안, 416, 어디까지 말했지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "저 인형은 항상 저렇게 예절이 없나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "익숙해, 저마다 성격이 다른 거니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그런게 용납이 되나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "뭐... 내가 전선에서 뛸 수 있는 것도 아니니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "아! G11 그리고 416, 어디에 갔다 온 거야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "G11"
+    },
+    "text": "416이 여기 보급관을 찾는다고 해서 따라잡느라 죽는 줄 알았어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "카리나라고 해, 이 인형이 부상자 맞아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "네, UMP45는 저희 대장이에요, 우리를 엄호하기 위해 폭발의 충격을 받아서..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "음... 심하게 다쳤네... 잠깐만, 내가 상태를 봐도 괜찮을까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "아, 네!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "심각해... 몸을 지탱하는 구조의 절반이 부러졌고, 오른팔도 파편으로 끊어졌어, 다른 사지 부위에도 파편이 박혀있고...+동력 공급도 감지가 안 돼, 메인과 예비 전원 모두 손상됐어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "네... 지금은 마인드맵의 예비 전력만 남은 상태예요. 잠시 대부분 기능을 꺼두었어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "그렇구나... 아주 적절한 판단이었어, 하지만 손상이 너무 심각해.+이대로 수복하는 건 추천하지 않아, 특히 동력 공급이 끊어진 상태에서는 말이야."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그럼 물리적으로 백업할 수 없을까요? 데이터 이전만 가능하면 되니까..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "... 물리적 백업?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "아직 카리나 씨에게 마인드맵을 저장할 수 있는 데이터 블록이 있어, 먼저 45의 마인드맵을 이전한 다음에 다른 소체를 찾아서..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP45"
+    },
+    "text": "으윽... 잠깐만..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "45 언니! 휴면 모드로 가만히 있으라고 했잖아! 만일 전력이 바닥나면..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP45"
+    },
+    "text": "그 방법은... 안 돼..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 5
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "저... UMP45 씨, 지금 이런 손상으로 수복하긴 너무 힘들어요.+그리고 당신의 부품들도... 그리폰의 통상 부품이 아닌 것 같은데. 역시 마인드맵을 이식하는 것이 가장 나아요."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 5
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP45"
+    },
+    "text": "이식한다는 건...+이 소체를 버리라는 뜻인가요...?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 5
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "그래야 살아남을 수 있어.+지금 너에게 남겨줄 데이터 블록이 없을 수도 있어. 다른 부상당한 인형이 잔뜩 있다고."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 5
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP45"
+    },
+    "text": "안 돼...+지금... 이식을 받을 수는 없어..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 5
+      },
+      {
+        "name": "UMP9",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "UMP9"
+    },
+    "text": "뭐? 45 언니, 왜?+지금 이렇게까지 되어서도 아직도..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP45"
+    },
+    "text": "아직 \"그 부분\"을 마인드맵에 저장하지 못했어... 마인드맵만 이식했다간..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 5
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "죽고 싶어, 45?+넌 항상 지 목숨을 우리보다 중요시하지 않았어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP45"
+    },
+    "text": "헷... 우리 목숨이... 중요해?+적어도 이 소체는... 내 목숨보다 중요해..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "45 언니, 정말로 안 할 거야?"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "UMP45는 힘겹게 고개를 저었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그럼 9에게 그 소중한 데이터를 맡기면 되잖아. 너희 둘 같은 모델이니까 호환도 가능할 거 아니야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "아니... 난..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "9, 지금 네가 싸울 필요는 없어, 그 데이터를 저장할 공간이..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "난 45 언니와... 같은 모델이 아니야..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "뭐야...?+너네 둘... 대체 얼마나 비밀투성이인 거야..."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "HK416은 크게 한숨을 쉬었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "뭐 됐어... 이제 대장을 갈아치울 때니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 5
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP45"
+    },
+    "text": "항상... 이 때가 오기를 기다렸잖아..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 5
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "난 내 손으로 널 해치우고 싶었지. 이렇게 쓰레기처럼 죽는 걸 보고 싶지는 않았어."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 5
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP45"
+    },
+    "text": "하하... 안심해, 그러려면 한참 기다려야 할 테니까..."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "UMP45는 고개를 카리나 쪽으로 향했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP45"
+    },
+    "text": "카리나 씨... 정말 무리한 요구인 건 알지만, 전 이 소체를 유지하고 싶어요, 제발 방법을 찾아주세요..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "아, 알았어, 일단 동력 공급 시스템을 고칠 수 있을지 볼게.+걱정하지 마! 지휘관님께서 나보고 최선을 다해 도와주라고 했으니까, 절대 실망시키지 않을게!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP45"
+    },
+    "text": "고마워요... 지휘관님에게도 고맙다고 말해주세요. 전..."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "수복실 밖에서 어수선한 소리가 들려왔다."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "？？"
+    },
+    "text": "비켜 비켜!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "또, 또 무슨 일이야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "비켜 비켜! 부상자를 수복실로 옮겨야 돼!"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "인형 예닐곱 명이 실려 들어왔다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "74U? 무슨 일이야?!"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Danger"
+    },
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "카리나! 한참을 찾았잖아!+9A91 그쪽으로 부상자를 회수할 때 기습을 당해서 엄청 큰 피해을 입었어!+방어 중추선에서 적이 갑자기 나타났어! 그리고 윤곽으로 보아 철혈이나 군의 부대가 아니야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "군이 아니라면, 즉... 그 의문의 세력... 벌써 쳐들어온 거야?+지휘관님! 들리세요? 저희 거점이 기습을 당했어요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "맞아, 지금 적들이 우리의 안전 지점을 공격하고 있어!+수는 많진 않지만, 바깥 방어 부대와의 통신이 차단당했어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "지휘관님, 거기서 각 제대의 상황이 보이시나요? 지시를 내려 주세요!+네...+알겠어요! 저도 여기서 협력할게요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "지휘관이 뭐래?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "지휘관님이 곧 새로운 부대를 보내 지원해 준다고 했어! 다만 시간이 좀 필요해.+지금 여기서 게릴라 부대를 편성해서 밖의 수비제대를 도와야 하는데, 일손이... 저기, 아직 움직일 수 있는 사람 있어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "난 나갈 수 있어, 다른 인형 있어?"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "인형 몇 명이 무리한 표정으로 나왔다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "좋아, 모두 날 따라와."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "이 정도밖에 없어? 이것만으론 역시..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "카리나 씨.+게릴라 부대에 빈자리가 남아 있나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "... 416?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "어?+너... 괜찮겠어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "여기가 함락당하면 저희도 철수할 수 없으니까요."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "그럼 부탁할게! 지금 바로 너의 식별 신호를 시스템에 동기화할 테니까!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "고마워요, 지휘관님하고도 직접 연결할 수 있도록 해주세요. 전장의 정보를 더 많이 파악하고 싶으니까요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "어...? 어어, 알았어! 암호화 회선을 하나 만들어줄게, 네 식별 신호와 연결해놨어."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "직접 지휘관하고 통신할 수 있는 건 아무 인형이나 할 수 있는 게 아닌데.+너 이 녀석, 대체 누구야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "잠시 복귀한 그리폰 인형이야.+AK-74U라고 했지? 내가 끼는 데 불만은 없겠지."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "불만이 있을 리가 없지. 누구든 도와준다면 고마운 일이지.+다만 너무 빨리 죽진 마라, 그럼 애도해줄 수도 없으니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "G11"
+    },
+    "text": "그, 그럼 나도 도와줄까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "지금부터 여기저기 뛰어다녀야 해. 네 기동력으론 무리니까, 얌전히 여기에 있어."
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "G11"
+    },
+    "text": "으으..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "9, 너와 G11이 최후 방어선이야.+카리나 씨를 지켜, 45를 고칠 수 있도록. 나머진 내가 알아서 할게."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP9"
+    },
+    "text": "알았어...+하지만, 416...+돌아... 올 거지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "...+말했지, 내 손으로 이 녀석을 해치우기 전까진 쓰러지지 않아.+그렇지, 45?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP45"
+    },
+    "text": "... 네 맘대로 해."
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>지휘관님, 전술인형 HK416입니다. 다른 말 하지 마세요, 지금 제 위치만 알면 됐어요.</color>+<color=#00CCFF>지금 그리폰의 데이터베이스와 동기화를 해서 파악한 정보를 다시 보고드리겠습니다.</color>+<color=#00CCFF>그리폰의 인형이 퇴각할 때 의문의 적의 습격을 받았습니다. 이 적의 정체는 아직 모르지만, 외형과 화력장비로 보아, 철혈이나 군의 부대가 아닌 건 확실합니다.</color>+<color=#00CCFF>장비로 보아 그들의 기술력은 철혈과 이번 군의 부대보다 높은 것을 보입니다. 그리고 이것도 하위의 병종으로 보이며, 앞으로 더욱 곤란한 상대를 만날 것으로 예상됩니다.</color>+<color=#00CCFF>게릴라 부대는 현재 모두 집합하였으며, 저희의 이번 주요 목표는 바깥 방어선의 인형 제대를 지원하는 것입니다.</color>+<color=#00CCFF>현재 세 수비거점에서 그리폰의 인형이 수비 중이며, 저희는 그들을 도와 적의 공격을 막고, 그들을 데리고 돌아와야 합니다.</color>+<color=#00CCFF>하지만 그 전에 먼저 기지에 침입한 적들을 섬멸해야만 바깥 방어선에 도달할 수 있습니다. 안전 거점은 바깥과 안쪽 모두 위급한 상황이니 신속히 지시를 바랍니다.</color>+<color=#00CCFF>그리고, 괜찮으시다면 제가 부관을 맡겨주세요. 비록 지휘형 인형은 아니지만, 어느 정도 현장의 작전 행동을 조율할 수 있습니다.</color>+<color=#00CCFF>... 그러니, 맡겨주실 수 있나요?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>그럼 부탁한다.<c>믿어도 될까?<c>계속 부관을 맡아줬으면 좋겠다."
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>현명한 판단입니다. 비록 잠시뿐이지만요.</color>"
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>지휘관님을 모르실 수도 있지만, 지금 여기선 제가 작전 경험이 가장 많은 인형일 겁니다. 제게 맡기기를 강렬하게 추천드리죠.</color>"
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>농담으로 받아드리죠, 그러시려면 제가 여기에 남을 수 있도록 해보시죠.</color>"
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>그럼, 명령을 내리세요, 제 임시 지휘관님.</color>"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  }
+]

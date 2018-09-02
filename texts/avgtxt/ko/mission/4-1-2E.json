@@ -1,0 +1,325 @@
+[
+  {
+    "background": {
+      "id": 4
+    },
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "text": "......전투종료, 캠프에서 집합."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "지휘관, 카리나 씨. 이게 그 좌표에서 발견한 물건입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "이건...녹음 파일?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "그렇습니다. 곧 재생하겠습니다."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "text": "오디오 재생 시작....+\"They...\"+\"...are...\"+\"...in your...\"+\"...house. \"+......재생 종료."
+  },
+  {
+    "background": {
+      "id": 4
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "그들은...너의 집 안에...있다?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "무슨 뜻이죠? 누가 내 방 안에?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "의미불명의 말, 일종의 암호일까요?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "음...얼핏 보기엔 암호화된 느낌이에요.+잠시만요. 제가 먼저 살펴볼게요..."
+  },
+  {
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "풀었어요! 새 좌표를 하나 찾은 것 같아요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "카리나 씨가...원래 이렇게 대단했던가요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "뭐예요. 제가 바보라는 것처럼!+뭐 이런 구식 암호화 방법은 당연히 모르셨겠죠!+하지만...겨우 좌표 하나랑 '네 집 안에' 한 마디로는 알 수 있는게 없네요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "......\"통합 네트워크 기록저장 공유장치\".+이른바 \"클라우드 마인드맵\"은 우리 인형들의 메모리 저장소에요.+본체의 역할을 하는 메인 인형이 있지만, 이 클라우드 마인드맵을 통해 편제 확대 하여 대량의 더미 인형을 제조, 스스로를 보호할 수 있어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "그렇긴 하지만, 극단적인 상황에선 메인 인형도 파괴될 위험성이 여전히 존재하죠."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "네, 인형의 본체가 파괴되는 순간 인형의 기억은 전부 소멸되어 출하 단계로 리셋 되어버리죠.+그래서 네트워크와 후방 상황이 허락하는 상황에선 전술인형은 출격전에 자신의 클라우드 마인드맵을 백업합니다.+우리의 말로 표현하자면, 기억을 서버에 업로드한다고 해야겠죠."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "마인드맵을 백업하는데는 시간이 오래 걸려요. 하지만 작전경험을 보존하기 위해선 충분히 가치있는 일이죠."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "다만 잠입 및 침투 작전중에는, 은엄폐를 유지하기 위해 데이터를 기지의 서버에 업로드할 수 없어요.+이럴 때에는, 인형은 기억을 영상일지에 백업함으로서 이후 회수작업 및 정보제공을 용이하게 하죠."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "...맞아요. 그래서 M4 씨는, 이게 누군가의 클라우드 마인드맵의 백업이라 생각하시는 건가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "단지 추측일 뿐입니다. 아직 정보가 더 필요해요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "어쨌든 왠지 재밌는 사건과 마주친 것 같네요. 지휘관님도 그렇게 생각하시죠?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "그래요. 그럼 빨리 다음 좌표로 전진하도록 하죠! 과연 뭐가 나올까요."
+  }
+]

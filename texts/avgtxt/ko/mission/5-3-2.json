@@ -1,0 +1,250 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "...목표 지점에 도착."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16"
+      }
+    ],
+    "text": "(손짓)......폭파 준비.+3、2、1......+......지금이다!"
+  },
+  {
+    "background": {
+      "id": 15
+    },
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "Explode"
+    },
+    "text": "......쾅!!"
+  },
+  {
+    "text": "......"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "뭐야, 아무도 없잖아!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 0
+      }
+    ],
+    "text": "조용, 주위를 경계해."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "주위에 이상신호가 없음을 확인, 안전해요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "흥, 바닥의 흔적을 보아하니...그 보스 녀석, 아마 방금 후퇴했을거야."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Boss"
+    },
+    "characters": [
+      {
+        "name": "??"
+      }
+    ],
+    "text": "정확히 말하자면 30분 전에 후퇴했었지."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "text": "......!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "디스트로이어"
+    },
+    "text": "나는 철혈공조의 디스트로이어.+\"여러분 만나서 영광입니다.\" 라고 해야 하나? 비록 원거리 통신이지만 말이야.+다만, 진짜 놀랐어. 너희들의 작전이 내 생각보다 조금 빨랐거든.+원래 혼란을 틈타 일을 더 진행할 생각이었는데 너희들한테 좌표를 들킬 줄은 몰랐다고.+그 크루거라는 인간, 꽤 반응이 빠르잖아."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "text": "그리폰은 이미 방비가 끝났습니다. 당신들은 어떠한 정보도 얻을 수 없을 거예요."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "디스트로이어"
+    },
+    "text": "흥, 그래? 나한텐 뭐 중요한게 아니야."
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 0
+      }
+    ],
+    "text": "너희들......다른 목적이 있는건가?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "디스트로이어"
+    },
+    "text": "너희들의 돌대가리로는 못 알아낼 일이야, 멍청한 그리폰 인형들.+얌전히 지켜보기나 하지, 너희들은 아무것도 해낼 수 없을테니."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "그 녀석이 채널에서 나갔군. 신호를 추적할 수 있겠어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "간신히요. 다만 암호화된 부분이 많아서 당장 해독하긴 힘들어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "가까워서 다행이야. 그 바보, 우리가 위치를 포착한 것도 모를걸."
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "일단 철수하자, 본부로 돌아가서 최대한 빨리 보고해야 돼."
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "AR-15......이번 임무엔 꽤나 적극적이네."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "쳇, 난 항상 실용주의자였어. 불만이야?+서두르기나 해, 시간이 없어."
+  }
+]

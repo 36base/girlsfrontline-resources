@@ -1,0 +1,170 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "순조롭게 철혈의 정찰거점을 점령하자, 구출대가 그 틈을 타 빠르게 작전구역에 진입했다.+...작전개시 삼십분 후, 구출대가 목적지점에 도착했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "그리폰 인형"
+      }
+    ],
+    "text": "(손짓으로) 준비...+(손짓으로) 3...2...1..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "Gunfight"
+    },
+    "text": "...전투개시."
+  },
+  {
+    "text": "......+............"
+  },
+  {
+    "characters": [
+      {
+        "name": "PPSh41",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PPSh-41"
+    },
+    "text": "...처리 완료."
+  },
+  {
+    "characters": [
+      {
+        "name": "VZ61",
+        "face": 1
+      }
+    ],
+    "text": "......+파...파파샤?"
+  },
+  {
+    "characters": [
+      {
+        "name": "PPSh41",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PPSh-41"
+    },
+    "text": "저예요. 스콜피온, 저희가 구하러 왔어요!"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Sad"
+    },
+    "characters": [
+      {
+        "name": "VZ61",
+        "face": 1
+      }
+    ],
+    "text": "파파샤...아직 살아있었어...?+이거 꿈은 아니지?..."
+  },
+  {
+    "characters": [
+      {
+        "name": "PPSh41",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PPSh-41"
+    },
+    "text": "(웃음) 바보네요. 저희가 꿈이란 걸 꾸던가요?+안심해요. 이제 괜찮을 거예요."
+  },
+  {
+    "screenEffect": "dark1",
+    "text": "...구출작전 목표 달성."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "screenEffect": "dark2",
+    "text": "...한시간 후, VZ61이 무사히 지휘실에 도착했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "......+그러니까, AR팀의 행방을 누설하지 않았단거군."
+  },
+  {
+    "characters": [
+      {
+        "name": "VZ61",
+        "face": 0
+      }
+    ],
+    "text": "물론, 마지막에 알려준 것도 거짓 정보였어.+쓰러진 동료를 위해서라도, 저딴 녀석들에겐 굴복할 수 없지!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "좋다. 믿겠다. VZ61.+그 ‘스케어크로우’의 목적이라면, 그것을 직접 잡아봐야 알 수 있겠지."
+  },
+  {
+    "characters": [
+      {
+        "name": "VZ61",
+        "face": 0
+      }
+    ],
+    "text": "헬리안 씨, 만약 스케어크로우를 잡을거면 나도 꼭 불러야 해."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "내가 있는 팀은 이미 인원이 다 찼다.+복수를 원한다면 새로운 지휘관에게 배속 시켜주겠다.+자네의 구출에 큰 공을 세운 지휘관이다. 실망시키지 말도록."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "VZ61",
+        "face": 0
+      }
+    ],
+    "text": "응! 어디로 가든, 그리폰에 남아있을 수만 있다면 괜찮다고!"
+  }
+]

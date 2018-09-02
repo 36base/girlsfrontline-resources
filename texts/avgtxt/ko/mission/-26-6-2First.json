@@ -1,0 +1,144 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 157
+    },
+    "screenEffect": "spark",
+    "sound": {
+      "bgm": "BGM_Battle"
+    }
+  },
+  {
+    "sound": {
+      "se1": "Gunfight"
+    },
+    "text": "그리폰 소대가 군의 습격을 잠시 막아내기를 성공했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "지금 빈틈을 타서 후퇴해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "AK12, 안젤리아는 깨어났어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "심장은 뛰고 있어! 우리도 빨리 뛰어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "하지만 지금 이렇게 되면 안젤리아도 버티지 못할 겁니다. 아드레날린이라도 있다면..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "아드레날린이라니, 빵이라면 있는데 말이야!+일단 이제 어디로 갈 거냐고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "전방에 거점이 있어, 일단 안에 숨어서 안젤리아를 물리 수단으로 깨워야 해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그럼 빨리 가자! 바로 적이 쫓아올 거야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "그러니까... 그 디너게이트는 대체..."
+  },
+  {
+    "screenEffect": "closeSpark",
+    "sound": {
+      "se1": "RunStep"
+    },
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "사소한 건 무시하고 도망치기나 해!"
+  }
+]

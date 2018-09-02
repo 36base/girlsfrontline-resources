@@ -1,0 +1,319 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    }
+  },
+  {
+    "background": {
+      "id": 159
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Reverse"
+    },
+    "text": "그리폰 철수 지점 외곽."
+  },
+  {
+    "characters": [
+      {
+        "name": "M1928A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "톰슨"
+    },
+    "text": "그리폰의 모두들!+이번이 마지막 싸움이다.+HK416의 노력 덕분에 우리 한사람 빠짐없이 이곳에 돌아올 수 있게 되었다.+지금 우리의 방어선의 견고하고 화력도 충분하다. 우리 모두 용기로 가득 차 서로를 살리기 위해 싸우고 있다.+적의 병력은 매우 강력하다, 평범한 PMC로는 상대가 안 될 정도로 강력하다.+끝없이 쏟아져 나오며 두려움도 모르지.+하지만 우리에겐 지휘관이 있다, 다양한 전술과 풍부한 경험이 있다. 그리고 우린 서로가 있다, 우리가 이곳에 서 있는 이유를 명심하고 있다.+그래, 놈들은 죽음을 두려워하지 않는다. 하지만 우리들은 무엇이 삶인지 알고 있다.+HK416, 너도 뭐라고 해봐."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "..."
+  },
+  {
+    "screenEffect": "white1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "... 모두 이곳에 돌아왔어.+다만 이건 나의 공로가 아니야, 난 내가 모두를 구할 수 있을 거라 생각하지 않았어.+하지만 지휘관님은 너희를 믿었어. 모든 인형을 구하라 명령했고, 난 따랐을 뿐이야.+난 여기 서 있을 자격이 없어. 그저 명령만 내리면 따를 뿐이야.+오직 지휘관님이 승리를 가져다줄 수 있어. 승리해야만 내게도 미래가 있어..."
+  },
+  {
+    "screenEffect": "white2"
+  },
+  {
+    "background": {
+      "id": 159
+    },
+    "screenEffect": "white2",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#A9A9A9>(미래... 난 어디로 가게 될까...)</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "MP40",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP40"
+    },
+    "text": "지휘관님이 계시고, 모두가 함께하면 기적을 볼 수 있을 것이라 믿어. 지금... 우리가 이곳에 서 있을 수 있는 것처럼!"
+  },
+  {
+    "characters": [
+      {
+        "name": "9A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "9A91"
+    },
+    "text": "이번엔, 친구와 함께 살아남겠어."
+  },
+  {
+    "characters": [
+      {
+        "name": "M1928A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "톰슨"
+    },
+    "text": "... HK416.+너도 곧 답을 알게 될 거야.+모두들, 미래를 위해, 지휘관과 함께 승리를 손에 쥐자!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "꺄하하! 또 새로운 재료를 캘 수 있겠는걸!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "이런 방식으로 지켜볼 수밖에 없는 건가... 그래도 구령으로 모두를 도와줄게!"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "여러분, 여기까지 돌아온 이상 여기서 쓰러져서는 안 돼요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "9A91와 AS-Val이 기다리고 있어, MVP를 따내지 못하면 다음번 쇼핑 때 또 물건을 들어야 한다고."
+  },
+  {
+    "characters": [
+      {
+        "name": "Mk12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Mk12"
+    },
+    "text": "자아, 나의 야망을 향해 한 걸음 더 나아가는 거야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "A91"
+    },
+    "text": "다음 한 병 보드카를 위해서, 나도 살아남아야 하는거얼."
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "Python",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "파이슨"
+    },
+    "text": "자, 전투 준비하자고!"
+  },
+  {
+    "screenEffect": "blackSpot2",
+    "text": "5분 후, 지휘관은 방어선 배치를 시작했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "아직도 못 정했지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "내가 원하는 건 내 방식대로 손에 넣을 거야.+어디에 남는다는 거로 간단히 해결되는 게 아니야."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK74U"
+    },
+    "text": "흥...+아무튼, 너를 알게 되어서 다행이야."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ]
+  },
+  {
+    "text": "74U가 HK416의 어깨를 툭툭 쳤다."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK74U"
+    },
+    "text": "여기서 죽을 리는 없겠지?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "흥, 지휘관님이 죽으라고 하지만 않으면."
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  }
+]

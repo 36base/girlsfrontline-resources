@@ -1,0 +1,2153 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    }
+  },
+  {
+    "background": {
+      "id": 46
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Danger"
+    },
+    "text": "군의 병력이 끝없이 쏟아져 점점 우세를 취해갔다!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>AK12, 얼마 못 버티겠어! 지금 얼마나 됐어!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "아직 설치 중이야, 기다려 봐!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "<color=#00CCFF>얼마나 더 견딜 수 있을지 몰라, 좀 더 서두를 수 없어?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "<color=#00CCFF>SOP2, 왼쪽에!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "<color=#00CCFF>봤어 봤어!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "최저한의 IED 설치 완료됐습니다!+AK12, 이제 기폭장치를..."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "<color=#00CCFF>416, 전방에 유탄!!</color>"
+  },
+  {
+    "sound": {
+      "se1": "Explode"
+    },
+    "text": "콰앙!!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "416, 무슨 일이야! 416!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>총알이 다 떨어졌어! 지금 몰려오고 있어!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "<color=#00CCFF>전방 수류탄! SOP2 엎드려!</color>"
+  },
+  {
+    "sound": {
+      "se1": "Explode"
+    }
+  },
+  {
+    "sound": {
+      "se1": "Explode"
+    },
+    "text": "퍼엉! 폭발이 끝나지 않는다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "416! SOP2! 어떻게 됐어, 빨리 대답해!+416-! 대답하라고!"
+  },
+  {
+    "sound": {
+      "se1": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>방어선이 뚫렸어, 이미 예고르가 빌딩 안에 진입했어!</color>+<color=#00CCFF>지금 전력으로 추격을 피하는 중이야!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "AK12, 기폭장치는!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      },
+      {
+        "name": "AN94",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "늦었어..."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      },
+      {
+        "name": "AN94",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AN94"
+    },
+    "text": "무슨 말씀입니까..."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      },
+      {
+        "name": "AN94",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "적이 이미 빌딩에 들어온 상황에서 폭탄들을 모두 연결할 수가 없어!+지금 그 많은 기폭장치를 설치할 시간이 부족해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      },
+      {
+        "name": "AN94",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AN94"
+    },
+    "text": "안 되는 겁니까?+이제... 거의 다 왔는데..."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      },
+      {
+        "name": "AN94",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "지금까지 도망쳐와서, 여기서... 이렇게 끝나고 마는 건가요? 안젤리아..."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "안젤리아... 이제 어떡합니까? 다른 방법이 있습니까...?"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Truth"
+    },
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "....."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "...안젤리아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "<color=#00CCFF>SOP2, 빨리 따라와, 발목지뢰 몇 개로 막을 수 있는 게 아니야!</color>+<color=#00CCFF>AK12, 폭탄 설치는 어떻게 됐어!?</color>+<color=#00CCFF>AK12!? AN94!? 제길, 누가 좀 대답해!</color>"
+  },
+  {
+    "text": "공기가 굳어져 간다, 끝없는 총소리가 점점 다가오기만 한다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "안젤리아는 천천히 고개를 들었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "아드레날린 한 대 더 놔줘."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "지금 그 몸 상태로는 더 이상 주사할 수 없습니다..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "한 대 더 놔주라고."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "... 94, 놔줘."
+  },
+  {
+    "text": "고통스러운 신음소리를 내며, 안젤리아는 아드레날린을 한 대 더 주입했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "하아... 하아... 하아아..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "구슬땀이 이마에서 쏟아져 내린다, 안젤리아는 쉴 새 없이 심호흡을 하며 고통을 참을 수밖에 없었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "그럼 내 계획을 말해줄게, 우리를 구하러 온 인형을 데리고 옥상으로 올라가. 멀수록 좋으니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "당신을 포기하고 철수하라는 말이에요?+죄송하지만, 무리예요, 이미 예고르의 부대가 여길 둘러쌓았다고요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "이미 둘러싸인 거 알아, 그러니까 이렇게 명령하는 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "....."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "AK12는 안젤리아를 바라보았다, 그 눈빛에는 한치의 망설임도 없었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "좋아요, 행운을 빌죠.+94, SOP2와 416보고 아래층에서 철수하라고 해, 우리도 거기서 합류할 테니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      },
+      {
+        "name": "AN94",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AN94"
+    },
+    "text": "그럼 안젤리아는..."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      },
+      {
+        "name": "AN94",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "안젤리아가 알아서 할 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      },
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AN94"
+    },
+    "text": "알겠습니다, 지금 연락하겠습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "안젤리아, 승산은 얼마나 있나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "10%, 혹은 그 이하."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "여전히 낙천적이네요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "성공한다면, 날 데리고 떠날 수 있도록 해, 최대한 빨리."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "알겠어요, 명령을 기다릴게요."
+  },
+  {
+    "text": "AK12와 AN94가 자리를 떠났다."
+  },
+  {
+    "text": "안젤리아는 AK12가 마저 설치하지 못한 기폭스위치를 줍고, 낡은 의자를 세워 천천히 앉았다.+AK12가 주워준 권총을 꺼내, 자조하며 웃었다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "이럴 줄 알았으면 총알 좀 남겨두는 건데, 그러면 적어도 내 손으로 예고르 그 자식을 죽여버릴 텐데."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se1": "RunStep"
+    },
+    "text": "밑층에서 발소리가 들려왔다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "정규군 병사"
+    },
+    "text": "바로 위층에 생명 신호가 있습니다.+인형의 신호는 더 위의 옥상에 있습니다, 생명 신호와 매우 멉니다만...+함정일지도 모릅니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "모두 주목, 목표는 3층에 있다, 원위치에서 대기하며 경계를 유지하라.+내가 직접 보러 가겠다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 병사"
+    },
+    "text": "대위님, 혼자서 가실 생각이십니까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "녀석의 도발이다... 그러니 내가 직접 올라가서 끝내주겠다.+인형을 곁에 두지 않았다는 건 분명 다른 수작을 준비했을 것이다. 이 빌딩을 샅샅이 검사해서 상황이 있으면 즉시 보고하라."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 병사"
+    },
+    "text": "네, 대위님."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "안젤리아, 어디 한번 네년이 죽기 전까지 무슨 수작을 부릴 수 있나 보겠다."
+  },
+  {
+    "text": "예고르는 계단을 올라 드디어 그 여자의 얼굴을 보았다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "안젤리아."
+  },
+  {
+    "background": {
+      "id": 155
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_stage10"
+    },
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "예고르 대위.+또 만났네."
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "네년의 부하는 같이 없느냐?"
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "너도 똑같잖아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "네년쯤 나 하나면 충분하다."
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "큰 소리는 잘 치는군, 저렇게 사람을 잔뜩 끌고 와서 요란하게 내 뒤꽁무니나 쫓고 말이야, 아무리 내게 반했어도 저건 좀 창피하다."
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "마지막으로 할 말은 그것뿐이냐? 생각한 것보다 시시한 녀석이군, 안젤리아. 네년에게 실망했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "시시한 여자라서 미안하네.+설마 날 죽이기 전에 수다 좀 떨 생각이었니?"
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "내가 무슨 영화 속 삼류 악당으로 보이냐?"
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "그 얼굴은 딱 그런 상인데. 그리고 지금 너도 그렇게 제정신은 아니지...+붕괴액은 육체에게만 영향을 주는 게 아니니까. 피폭으로 인한 정신변이를 참으면서 나한테 놀아나니 아주 미칠 것 같지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "그래, 나와 내 부하들이 좀 전의 행동은 꽤 이성적이지 못했다. 왜냐하면 그 폭발 이후로 우리 머릿속엔 단 한가지 생각, 널 죽이겠다는 생각밖에 없었기 때문이다!+그리폰의 꼭두각시로 인형극을 보여봤자 우리의 복수를 향한 갈망을 꺾을 수 없다. 우리는 오직 네년의 죽음을 봐야 하기 때문이다, 지금이 바로 그때다!"
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "안젤리아는 아무 말도 없지만 그 등 뒤에 감춘 손이 움직이는 것을 예고르가 보았다."
+  },
+  {
+    "sound": {
+      "se2": "Reload"
+    },
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "죽어라!"
+  },
+  {
+    "screenEffect": "dark1",
+    "text": "예고르가 총을 뽑았다, 하지만 그 동시에..."
+  },
+  {
+    "background": {
+      "id": 153
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "총을 뽑는 움직임이 매끄럽네, 적이 아니었다면 반했을지도 몰라."
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "...!"
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "왜 안 쏘는 거지?+내 생각이 맞다면, 이게 무서워서 그러는 걸까?"
+  },
+  {
+    "text": "안젤리아가 기폭스위치를 들었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "충동에 휩싸여서 바로 빌딩에 쳐들어 오고, 왜 내가 계속 이 빌딩에 남아있는지 생각해 봤어?"
+  },
+  {
+    "text": "이때 예고르가 통신을 받았다."
+  },
+  {
+    "characters": [
+      {
+        "name": "정규군 병사"
+      }
+    ],
+    "text": "<color=#00CCFF>대위님, 빌딩에 IED가 여러 개 설치되어 있는 것을 발견했습니다!</color>+<color=#00CCFF>지금 몇 개밖에 못 찾았지만, 배치 방식을 보아 훨씬 많을 것으로 보입니다!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "이제서야 눈치챘나 보네? 그래, 내가 허약한 것처럼 꾸며서 너희를 이 빌딩에 모이게 해서 인형들이 시간을 버는 동안 폭탄을 설치했지.+그리고 네가 얼간이처럼 빌딩에 쳐들어왔을 때, 너희 전부 한방에 날려버려 네가 날 배신한 것을 복수하려고 했지."
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "안젤... 리아...!"
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "그렇게 이를 갈면서 노려보지 마, 손에 힘 푸는 게 어때? 날 죽였다간 내 인형들이 바로 예비 스위치를 눌러버릴 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "그 정도로 내가 겁먹을 것 같으냐!"
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "물론이지.+한 가지 더 알려주자면, 이 빌딩에는 일반 폭탄 말고도 붕괴액 캡슐까지 섞여 있어, 터졌다간 저 외부의 부대까지 휘말리겠지."
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "... 붕괴액이라고? 마지막까지 날 놀릴 셈이냐? 그러지도 못하면서 허풍치지 마라!"
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "왜 내가 못 할 것 같아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "거짓말이다, 아직도 붕괴액이 남아있을 리가 없다! 어디서 그렇게 많이 가져왔겠느냐!"
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "왜 없을 것 같은데? 내가 한 번에 다 써버렸을까 봐?+핵폭탄을 한 번도 안 써본 놈하고 한 번 써본 놈 중에 누가 더 다음 한 방을 쏠 수 있을 것 같아?+아니면 네 부하에게 물어보렴, 지금 내가 숨겨둔 선물을 찾느라 바쁠 테니까."
+  },
+  {
+    "text": "예고르는 한 손으로 안젤리아를 겨눈 채, 다른 손으로 통신기를 켰다."
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "이 빌딩에서 고농도 붕괴액 반응이 탐지되는가?"
+  },
+  {
+    "characters": [
+      {
+        "name": "정규군 병사"
+      }
+    ],
+    "text": "<color=#00CCFF>놈의 말은 들었으며 저희도 찾고 있습니다.</color>+<color=#00CCFF>하지만 주변의 붕괴선 오염이 너무 심해 탐지가 불가능합니다.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "그럼, 좀 믿을만하니?"
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "그렇다면 무엇을 꾸물거리는 거냐. 한번 네 계획대로 스위치를 눌러봐라!"
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "크하하하하하하!"
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "뭐가 웃기냐?"
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "아니, 너 스스로도 압박감에 눌려 뒤질 것 같으면서 다른 사람을 압박하는 게 너무 웃겨서 말이야.+좋아, 한 가지 좋은 소식 알려주지, 너 오늘 운 아주 좋은 거다. 생각이 바뀌었어.+빌딩을 포위한 부대를 도시구역 밖으로 철수시키고 나하고 내 인형들을 보내주면.+너희를 살려줄 수도 있어."
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "무슨 개꿈을 꾸는 거냐, 안젤리아! 여기까지 와서 놓칠 것 같으냐!+배짱 있으면 어디 한번 스위치를 눌러 함께 죽어 보지 그러냐!"
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "너야말로 적당히 해! 이제 마지막 기회야!+아니면 또 한 번 피폭당해 보시던가! 이번에는 그 누구도 살아남을 생각 말라고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "내가 죽는 것을 무서워할 것 같으냐? 우린 군인이다! 너처럼, 네가 잘 아는 군인이다!"
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "그래, 잘 알고 있지, 예고르. 넌 저들의 상관이야!+인형은 너에게 아무 가치도 없겠지만, 저 인간들은 너의 전우이며 형제잖아. 네 복수를 위해서 겨우 살아남은 그들을 또 휘말리게 할 셈이야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "내 부하들은... 희생을 두려워하지 않는다!"
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "또 네 부하들을 붕괴액 범벅으로 만들 셈이냐고! 네 생각만 하지 마! 그들의 미래, 그들의 가족을 생각해 보라고! 내가 이 스위치만 누르면 너도, 그 누구도 복수할 기회가 영영 사라질 거야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "허세 부리지 마라! 미쳤느냐!"
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "그래, 미쳤다! 지금 나는 뭐든지 할 수 있어! 이젠 아무도 날 도와줄 수 없고 내겐 이것뿐이 살길이야!+난 아무것도 두렵지 않아, 나와 싸구려 인형 몇 개로 이렇게 많은 적들을 죽일 수 있다면 진짜 개이득이니까!+... 네가 어떻게 하든 난 다 승리하는 거야.+자아... 빨리 정해, 서로 살아서 돌아갈지, 아니면 네 부하와 같이 나랑 함께 저세상으로 가던가!"
+  },
+  {
+    "text": "예고르는 저 사악하게 웃는 안젤리아의 눈동자에는 더 이상 다른 갈망이 없는 것을 보았다. 그녀는 오직 그가 선택하기를 바라고 있다.+예고르도 이렇게 된 이상 선택의 여지가 없다는 것을 알았다.+서서히, 예고르는 총을 내렸다."
+  },
+  {
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "...+네가 이겼다, 안젤리아."
+  },
+  {
+    "background": {
+      "id": 154
+    },
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "일단은 목숨을 건졌군."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "예고르"
+      }
+    ],
+    "text": "모두 주의하라, 빌딩에 붕괴액이 섞인 폭발물이 있는 것으로 의심된다, 전원 3km 밖의 안전거리까지 철수하라. 명령이다, 즉시 실시하라!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "text": "안젤리아는 일어서 창가로 발걸음을 옮겼다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "안젤리아, 들리나요? 군의 부대가 후퇴하기 시작했어요, 이제 저희의 철수경로를 막는 적은 없어요!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "알았어, 마중 나와."
+  },
+  {
+    "background": {
+      "id": 46
+    },
+    "screenEffect": "dark2",
+    "text": "안젤리아는 뒤돌아 예고르를 향했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "군관으로서 넌 정말 좋은 상사야. 네가 훌륭한 군인인 것을 인정하지. 하지만, 넌 줄을 잘못 섰어."
+  },
+  {
+    "sound": {
+      "se2": "Reload"
+    },
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "AK12와 AN94가 동시에 창가에서 뛰어내려 들어와 총으로 예고르를 겨눴다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "예고르"
+    },
+    "text": "그래서, 이제 날 제거할 셈이냐."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "널 죽여 봤자 아무 이득이 없는걸.+철혈의 엘더브레인은 도망갔어, 지금 우리끼리 죽이고 있을 이유가 있어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "예고르"
+    },
+    "text": "당연히 있다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "나도 널 죽일 이유는 잔뜩 있지만.+아직은 아니야, 아직 할 일이 남았 거든."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "이대로 끝나진 않는다, 안젤리아...+...어디 두고 보자."
+  },
+  {
+    "sound": {
+      "se1": "ClothingUp"
+    },
+    "text": "예고르의 원한으로 가득한 시선 속에서 안젤리아는 AK12의 등에 업혔다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "두고 보자면 그때까지 두고 보자고, 이건 기념품으로 선물해줄게, 너에게 좋은 교훈이 되었으면 좋겠네."
+  },
+  {
+    "screenEffect": "dark1",
+    "text": "안젤리아가 스위치를 바닥에 버리자, AK12와 AN94가 그녀를 데리고 창문에서 뛰어내렸다.+예고르는 천천히 창가에 다가가 스위치를 집어, 아무 말 없이 텅 빈 창밖을 바라보았다."
+  },
+  {
+    "background": {
+      "id": 157
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "30분 후."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "정규군 병사"
+    },
+    "text": "대위님, 폭발물처리반의 보고로, 빌딩에 설치한 폭탄은... 모두 기폭장치가 없었습니다.+드론으로 이 빌딩을 샅샅이 살펴봤지만 어떤 고농축붕괴액의 용기를 발견하지도 못했습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 병사"
+    },
+    "text": "대위님..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "그래... 알았다..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "예고르의 표정은 매우 평온했다, 그저 허무하게 안젤리아가 남긴 기폭스위치를 바라볼 뿐이었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "허세인 줄은 알고 있었다.+물론 이럴 것이라 예상했었다...+하지만 어쩔 수 없었다, 그년은 정말로 뭐든지 할 수 있었다. 또다시 너희 모두의 목숨을 담보로 도박을 할 수는 없었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 병사"
+    },
+    "text": "대위님...+다음엔 어떤 일이 있어도, 대위님의 명령을 위해서 언제든지 희생하겠습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "예고르는 하사를 바라보고 깊게 숨을 들이쉬고 그의 어깨를 토닥였다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "그럼 다음 작전 때 보지, 이 나라를 위해선 우리가 더 위대한 희생을 해야 한다.+다음 작전을 진행하지, 조국의 찬란한 미래를 위하여..."
+  },
+  {
+    "background": {
+      "id": 159
+    },
+    "screenEffect": "dark2",
+    "text": "같은 시간."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "안젤리아! 설마 안에 붕괴액까지 섞은 줄은 몰랐어! 근데 붕괴액이 뭐야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "하하... 있을 리 없잖아, 그땐 정말 아무 방법도 없었어, 녀석들을 놀래킬 수밖에 없었지.+예고르가 내가 혼자인 것을 보면 분명 의심할 테니, 그 의심을 최대화해서 스스로 겁에 질리게 한 거지."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "아주 억지스러운 위협수단이네요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "이렇게라도 말 안 하면 예고르를 동요시킬 수 없어.+녀석은 죽음을 두려워하지 않아. 하지만 그렇게 많은 부하들이 눈앞에서 죽는 것은 견디지 못하지, 한두 번도 아니니까..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "안젤리아, 만약에 기폭장치까지 다 설치했으면, 정말로 눌렀나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "... 글쎄, 그건 그때 가서 보자고, 상황을 봐야지."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "평소에는 온갖 계획을 준비하면서 이럴 때 상황을 보자는 말을 하네요.+물론 약간 해프닝이나 애드리브가 발생하는 건 상관없어요. 그래도 이번에는 너무 위험했어요, 저마저 조마조마했다고요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "솔직히 나도 확신이 없었어, 그저 군이 너무 빨리 폭탄을 찾아내지 않기를, 여기가 붕괴선에 뒤덮였기를, 예고르가 내 허세에 정신이 흐려졌기를 빌었야 했어...+결국엔... 거의 다 운이야. 예고르가 감염되지 않았다면, 그렇게 성급하게 복수하러 뛰어오지 않았다면. 녀석의 경험으로 분명 다른 방법을 찾았을 거야, 그럼 난 정말 속수무책이었어..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AN94"
+    },
+    "text": "그래도 결국엔 저희 모두 살아남았습니다, 이게 제일 중요한 것입니다. 안젤리아가 저희 모두를 구했습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "응응, 나도 설마 우리 모두 살아남을 줄은 몰랐어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "나야말로 살았지, 너희는 그저 휘말린 거야.+모두 고맙다, 그리고 지휘관도..."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "그럼, 이제 지휘관을 구하러 가야는 거지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "음... 군의 부대는 안 쫓아 오네요."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "아직 증거를 인멸하고 부상자를 치료하느라 바쁠 겁니다. 지금이 가장 좋은 기회입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "다행히 지휘관은 딱히 위험도 없이 지금까지 세이프 하우스에 숨어 있었으니까, 식은 죽 먹기겠지!"
+  },
+  {
+    "text": "...<c>안전하지는 않지만, 보디가드가 있다.<c>계속 즐기고 있었다.<c>지금와서 불길한 소리 하지 마라."
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "어? 보디가드?"
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그치그치! 그래도 지휘관 혼자 그렇게 있으면 지루하지 않아?"
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "지휘관님 곁에 사람이 더 있어, 같이 있는 건 아니지만 수다 정도는 할 수 있어."
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "아하하! 미안 미안, 그래도 지휘관 그렇게 구석에 숨어 있으면 별로 위험할 것도 없잖아?"
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "혹은, 위협이 나타나는 대로 누군가가 해치웠거나."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그래? 그게 누구야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "카리나 씨가 엘리트 인형을 두 명 보내서 지휘관을 지키고 있어."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "겨우... 두 명 뿐이야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "일손이 부족하니까, 그래도 그 두 명만으로도 여유만만할 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그래? 나도 몰랐는데, 그게 누구야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "하나는 IOP가 오랫동안 숨겨온 엘리트 인형이야, 사람과 잘 어울리지 못해도, 실력은 있어.+이름은..."
+  },
+  {
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "<color=#00CCFF>그리폰 인형 M82A1입니다.</color>"
+  },
+  {
+    "sound": {
+      "se1": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "통신채널에서 치열한 총격전 소리가 들려온다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "뭐야? 또 어디서 싸우고 있는 거야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "<color=#00CCFF>제 싸움은 멈춘 적 없습니다.</color>+<color=#00CCFF>카리나님께서 구조부대가 온다고 들었지만, 이렇게 오래 걸릴 줄은 몰랐습니다. 지금 지휘관님이 위험하시니 서두르세요.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "M82A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "위험하다고? 무슨 일이야?"
+  },
+  {
+    "sound": {
+      "se1": "MachineGunBurst"
+    },
+    "text": "타앙!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M870P",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "M82A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M870P"
+    },
+    "text": "<color=#00CCFF>총소리가 들려! 방위각 300 방향에서 온다!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "M870P",
+        "face": 0
+      },
+      {
+        "name": "M82A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M82A1"
+    },
+    "text": "<color=#00CCFF>저도 들었으니까 조용히 하세요.</color>+<color=#00CCFF>일단 소개하죠, M870P, 문제인형이고, 실력 빼면 시체인 녀석이죠</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "M870P",
+        "face": 0
+      },
+      {
+        "name": "M82A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M870P"
+    },
+    "text": "<color=#00CCFF>\"실력과 멋을 빼면\" 시체인 거야, 똑바로 고쳐.</color>+<color=#00CCFF>잘 왔다, 자식들아. 하지만 지금 이런 난장판에서 처음 보는 인형하고 파티할 생각은 없거든!</color>+<color=#00CCFF>지금 우리 둘이서만 지휘관을 지키고 있단 말이야, 네들 후딱 안 뛰어와?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      },
+      {
+        "name": "M82A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "저기 누굴 상대하고 있어? 특징이라도 말해 줄래?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      },
+      {
+        "name": "M82A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M82A1"
+    },
+    "text": "<color=#00CCFF>저도 그것을 고민하고 있습니다, 제 눈앞에 있는 것들은...</color>+<color=#00CCFF>인형일까요? 인간일까요? ...혹은 \"신의 사자\"일까요?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      },
+      {
+        "name": "M870P",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M870P"
+    },
+    "text": "<color=#00CCFF>우리가 이걸 해치울 수 있을지는 몰라!</color>+<color=#00CCFF>한 마디 덧붙여 말하자면, 내가 \"몰라\"한다는 건 \"못해\"라는 뜻이라는 거야!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "그래 알았어, 근데 어떤 녀석들이야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "<color=#00CCFF>저도 잘 모르겠습니다.</color>+<color=#00CCFF>하얀 인형을 본 적 있으신가요?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "M870P",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M870P"
+    },
+    "text": "<color=#00CCFF>특히... 저기 저 하얀 망토 두른 망나니 녀석 말이야.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "뭐... 하얀 인형이라고?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "진짜 서둘러야겠어.+지휘관님이 정말로 위험해!"
+  }
+]

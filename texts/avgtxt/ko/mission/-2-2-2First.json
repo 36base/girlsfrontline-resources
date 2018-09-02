@@ -1,0 +1,200 @@
+[
+  {
+    "background": {
+      "id": 7
+    },
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "text": "......"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "하하, 저거봐! 새로운 통신소야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 2
+      }
+    ],
+    "text": "다행이야, 문도 제대로 동작해.+M16, 여기 있는 통신설비를 확인해주겠어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "설비들의 기능은 정상이야. 그리고 침입당한 흔적도 없네. 우리가 운이 좀 좋았던 거 같아!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "하하, 그럼 얼른 들어가자!+우리 새로운 통신네트워크를 설치하는 겸 몸 좀 녹이자, 나 이제 얼어죽을 것 같아!"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "screenEffect": "dark2",
+    "text": "............3분 뒤."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "M4......+아니지, M16, M16인가?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "네, 헬리안 씨. 다들 무사합니다.+저희는 일부 생존자를 찾았고, 현재 불시착한 지점의 서쪽에 위치한 통신소에서 연락을 드리고 있습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "헬리안"
+    },
+    "text": "다행이군......+본부에서 소식을 전해듣고, 지금 너희들을 구조하려고 최선을 다하고 있다.+하지만 너희들이 너무 멀리 떨어져있고, 현재 날씨가 너무 열악해서 시간이 좀 필요하다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "저희는 당장은 안전합니다. 다만, 철혈이 이미 저희를 주시하고 있을 가능성이 있습니다.+저희가 다른 생존자를 찾아 전력을 보충하려고 하는데, 날씨가 너무 좋지 않습니다.+추위와 강풍이 저희의 행동과 보급에 큰 문제를 일으키고 있습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "헬리안"
+    },
+    "text": "내가 곧 사람을 파견할 거다......+......수송기가 동남쪽의 비행장으로 향..."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "응? 헬리안 씨?"
+  },
+  {
+    "characters": [
+      {
+        "name": "헬리안"
+      }
+    ],
+    "text": "너희들에게 보급을...+하지만...주의하..."
+  },
+  {
+    "text": "............+............통신중단."
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "(책상을 내치리며) 젠장!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      }
+    ],
+    "text": "분명 강풍 때문에 통신 상태가 안좋아진 걸 거야......+동남쪽에 비행장이 있고, 그쪽에서 지속적으로 보급을 제공해준다고 했어.+어쨌든, 먼저 움직이도록 하자."
+  }
+]

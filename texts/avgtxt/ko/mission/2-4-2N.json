@@ -1,0 +1,354 @@
+[
+  {
+    "background": {
+      "id": 4,
+      "isNight": true
+    },
+    "sound": {
+      "bgm": "BGM_War",
+      "se1": "Battlefield"
+    },
+    "text": "......M9가 있는 임시거점, 대 철혈 작전 개시."
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "M9",
+        "face": 0
+      }
+    ],
+    "text": "철혈 보스의 더미가 관측된 거예요! M21, 준비!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M21",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "거기 철혈 쓰레기들! 자, 치~즈!"
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "M1911",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "철혈 기갑이 아직 반응하지 못한 거예요. 잉그램, 지금이에요!"
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "MAC10",
+        "face": 1,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "하하하하하! 터져라, 죄다 터져버리라고, 멍청한 놈들!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M1928A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "때가 됐어, SUPER SASS. 바로 지휘실로 들어가!+군도 지휘실로 가고 있다고, 그쪽한테 기회를 넘겨주면 안 돼!"
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "SuperSASS",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "라져, 지금 가고 있어요!"
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "MAC10",
+        "face": 1,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "하하! 달려, SUPER SASS, 달리라고!"
+  },
+  {
+    "screenEffect": "dark2",
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "text": "......철혈 제대가 패주하기 시작했다."
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "M21",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "반드시 군보다 앞에서 쫒아야해, 안그러면 녀석들을 멸구할 수 밖에 없다고."
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "M1911",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "M21",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그런 농담말아주세요. M21. 상대가 인간이면 어떻게 하려고요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M1911",
+        "face": 0
+      },
+      {
+        "name": "MAC10",
+        "face": 1,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "흐흥, 인간이 총기를 만든건 바로 자신들을 상대하기 위해서잖아."
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "M9",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "MAC10",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "저 녀석 말은 듣지마세요. SUPER SASS.+우리는 귀여운 민수 인형이니까, 인간을 우연찮게 만나더라도 모에큥하면 그만인 거예요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M9",
+        "face": 0
+      },
+      {
+        "name": "SuperSASS",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "(쓰게 웃으며)죄송해요. 그런 훈련은 받지 못했네요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M21",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "SuperSASS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "이야, 요즘 신병들은 많이 풀어졌네, 나 때는 농담 하나도 짬이 차야 할 수 있었는데."
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "M21",
+        "face": 0
+      },
+      {
+        "name": "MAC10",
+        "face": 1,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "하, 그럼 넌 분명 토크쇼에서 떨어진 후 그리폰에 온 거겠네?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M1911",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "MAC10",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "잉그램, 동료의 출신을 멋대로 알아내려고 하면 안된다고요?+우리 모두 지금은 그리폰의 멤버예요. 지금은 그게 가장 중요해요."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M1911",
+        "face": 0
+      },
+      {
+        "name": "SuperSASS",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "여기는 SUPER SASS, 지휘실을 점령했습니다. 반복합니다. 여기는 SUPER SASS, 지휘실을 점령했습니다!"
+  },
+  {
+    "background": {
+      "id": 4
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Sunshine"
+    },
+    "characters": [
+      {
+        "name": "M21",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "날이 밝았네, 우리가 이겼어."
+  },
+  {
+    "characters": [
+      {
+        "name": "M1928A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "1911, 헬리안한테 이번 보수는 두둑히 달라고 해줘. 이번건 나도 피곤해 죽겠다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M1911",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "기다려요. 전 지휘관님께 승리의 키스를 해드려야 한다고요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M21",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "이번 작전은 역시 1911이 이긴건가?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M1911",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "그런 작전은 없었다고요?+그러고 보니 M9는요? 이미 이탈 했나요?+M9? M9있어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "MAC10",
+        "face": 1,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "이미 늦었어, 1911. M9는 이미 지휘실로 달려갔다고."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M1928A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "하하, 착해 빠져가지고는, 괜히 구해줬다고 너."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M1911"
+      }
+    ],
+    "text": "............+그리폰의 멤버들은 정말이지......아직도 갈 길이 멀군요..."
+  }
+]

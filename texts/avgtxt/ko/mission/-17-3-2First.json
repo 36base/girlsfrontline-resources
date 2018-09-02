@@ -1,0 +1,982 @@
+[
+  {
+    "background": {
+      "id": 22
+    },
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "text": "...삑, 안젤리아가 통신 요청을 보냈다."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "알아낸 거 있어?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 1
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "어떻게 알았어?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 1
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "30분째 연락 안 했잖아, 아무 단서도 못 찾았다고는 생각되진 않는데.+군의 장갑 부대는 아직도 자리를 지키고 있어서, 불안해......"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 1
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "좋은 거 아니야?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 1
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "군이 스스로 우리 좋은 일을 해줄 리가 없지, 분명 다른 계획이 있을 거야.+그 예고르가 아직 전장에 남아 있어, 분명 뭔가 꼼수를 부리고 있을 테지."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "그건 됐어. 일단 자료만 모두 얻으면, 임무도 절반 정도 성공한 거잖아?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "너는 내 수준을 너무 낮게 보는 거 아냐? 그리고 주변에 더 이상 얻을 수 있는 자료도 없어.+군의 메인 서버마저 다 뒤져봤으니, 오히려 임무가 지나치게 순조롭다는 느낌도 들어..."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "안젤리아...+군의 서버는… 너희가 뚫은 거야?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "어? 물론 아니지.+우리가 현장에 도착했을 때, 방화벽은 이미 뚫려있었어."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "...왜 그랬을지는 생각해봤어?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "말했잖아, 생각할 틈이 없었다고...+아마 군의 인원이 후퇴할 때 깜빡했다가, 【우산】에 감염되어서 열린 게 아닐까?+비록 철혈이 군의 중요한 서버를 뚫을 수 있을 거라곤 믿기 힘들지만…"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "【우산】에 감염...?+아니야, 그럴 것 같지 않아. 아무리 군의 표준 방화벽이라 해도, 철혈의 해독 능력보다 훨씬 우수하니까."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "그렇다는 건... 철혈이 방화벽을 뚫은 게 아니란 거야?+전장에서 생존하기 바빠서, 그 점은 생각 못 했는데."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "철혈이 아니고, 우리도 아니면, 그럼 나머지는..."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "생각을 역전시키는 건가...+재밌군, 해보자고!+그럼 군이 스스로 방화벽을 해제했고, 이 모든 게 계획의 일부라면... 말이 맞을까?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "이번 군사 작전 생각나?+군이 일방적으로 밀어붙이자, 철혈은 어쩔 수 없이 【우산】 바이러스를 전면적으로 가동했지."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "그 말은... 【우산】 바이러스가 전면적으로 퍼지게 부추겼다는 뜻이야? 그래서 무슨 이득이 있다는 거지?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "엘더브레인은 언제든지 【우산】에 뒤덮인 유닛의 정보를 들여다보고 제어할 수 있어, 인형이든 서버든 상관없이 말이지.+그리고 군은 일부러 군 서버를 【우산】에 노출시켰고, 엘더브레인이 서버 안의 내용을 볼 수 있도록 한 거야...+하지만, 군은 엘더브레인에게 무슨 내용을 보여주려고 한 걸까...+안 돼... 단서가 너무 적어, 생각이 안 나…"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "페르시카, 그럼 여기서 거꾸로 생각해 보자.+군이 엘더브레인에게 보여준 건 그저 미끼일 뿐이고, 엘더브레인을 끌어들여 \"보게\" 한 것이 목적이었다면.+이렇게 생각하면 짐작 가는 게 있어?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "군이 엘더브레인을 자신의 서버로... 끌어들여?+무슨 이득이 있는 거지..."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "페르시카, 군의 목적과 결합해서 생각해.+군은 오가스를 손에 넣으려 하고 있어, 그리고 지금 우리의 정보에 따르면, 오가스와 엘더브레인은 같은 존재일 테고, 아마 이게 군이 엘더브레인을 얻으려 하는 이유일 거야…"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 1
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "...!"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "안젤리아...+만약… 만약에 군에도 【우산】, 아니면 【우산】보다 강력한 전자 제어 수단이 있다고 치자."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "더 강력한 수단...?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "안 될 거 없어.+전자전이라면 그들은 전쟁을 겪어본 베테랑이니까. 일단 그들이 가진 버전을 슈퍼 【우산】이라고 하자."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "그러니까...+우선 군은 엘더브레인이 【우산】을 쓰도록 유인했고, 군에서 일부러 노출시킨 메인 서버를 찾도록 유도하고...+그럼 엘더브레인은 자신이 감염시키는 데 성공했다고 생각해서, 더 나아가 군의 서버에 침투해 군 인형을 제어하고.+그때 군이 자신들의 슈퍼 【우산】으로 엘더브레인의 감염구역을 뒤덮으면…"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "역 링크..."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "맞아! 역 링크라면, 그들의 슈퍼 【우산】을 이용해 거꾸로 엘더브레인에 침투할 수 있어!"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "역침투라고!?+네 말은 군이… 엘더브레인을..... 직접 제어한다는 말이야?!+이게 군의 계획이었던 거야! 철혈의 엘더브레인을 제어하기만 하면!?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "그래서 M4A1을 그 자리에 두고 온 거야, 엘더브레인을 전선에 유인해, 이후 엘더브레인을 역제어할 때의 성공률을 높이기 위해서.+하지만 왜 AR팀을 공격하면서, 그녀만 두고 온 걸까?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "확실히 이상해, 아마 M4와 엘더브레인이 연결된 것으로 뭔가 이득을 볼 생각이었을지도.+그래서 AK12한테 M4A1의 통신연결을 즉시 끊도록 지시했어, 무슨 꿍꿍이든 가만 놔둘 순 없었으니까."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "그 뒤에, 패배한 척하면서, 자신들의 메인 서버를 이용해 엘더브레인을 끌어들여 제어하려 했지."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "그 말은 즉... 군이 지금 당장이라도 역제어를 시도할 수 있다는 뜻이잖아?+젠장! 좀 더 일찍 눈치챘어야 했는데!+결국, 군의 탱크는 그저 눈속임이라는 거야!?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "조급해하지 마... 엘더브레인 수준의 마인드맵에 침투하려면 대규모 전자전을 진행해야 해. 아마 준비할 시간이 더 필요할 거야.+게다가 그들이 한 가지 계획만 준비해뒀을 리 없어, 중장갑 부대가 그들의 두 번째 계획이지.+안젤리아, 레벨 2 플렛폼에서 훼방을 놓을 수 있겠어?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "고작 인형 두세 명으로 그걸 하라고? 무슨 잠꼬대를 하는 거야?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "알고 있어... 인형 몇 명의 연산 능력 만으론 한참 부족해...+하지만 적어도 군의 바이러스의 샘플을 얻을 순 있을 거야, 물론 해석할 시간이 부족하겠지..."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "그래, 알겠어. 넌 일단 방법을 생각해 봐. 난 정보부터 수집할게+그리고 하나 더, 오가스가 그렇게 중요하다면, 왜 군은 그걸 버려둔 채 그리폰과 한참을 난리 치게 해놓고, 이제서야 회수하려는 걸까?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "......+이제서야...?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "그래, 왜 일을 그리폰에게 일 년 넘게 맡겨놓고, 이제서야 그걸 찾으려 하는 건지..."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "아마...... 오가스가 너무 위험해서가 아닐까.+너도 군 서버에서 찾은 파일에서 말했잖아, 유적하고 관계있다고..."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "그러니까, 왜 지금이냐고?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "리코가 만든 AI는 매우 높은 자아학습 능력이 있어... 리코의 작품이 오가스와 무슨 관계가 있을지는 모르지만.+아마 이제 때가 된 거고, 군에서 그 때를 아는 사람이 있다고 하면..."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 1
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "그래!"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 1
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "떠올랐어?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "리코의 수를 이만큼이나 이해하는 사람이라면, 나를 빼면, 딱 한 사람밖에 없어...+게다가 뼛속 깊이 리코를 증오했고, 유적에 미친 듯이 열광했던……"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "설마 페르시카, 네가 아는..."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "90WISH에... 일찍이 그런 녀석이 있었어...+만약 리코를 해칠 수 있는 일이 있다면...+그가 절대 빠질 리 없어!"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "......"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "윌리엄...+진작에 생각해내야 했는데...+더는… 서로 얽힐 일이 없을 거라고 생각했건만!"
+  }
+]
