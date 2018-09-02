@@ -1,0 +1,385 @@
+[
+  {
+    "background": {
+      "id": 8
+    },
+    "text": "그리폰 본부."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "text": "......칙...... 치직......"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "아직도 지휘관들과 연락할 방법이 없는 건가?+군부는? 아직도 대답이 없나?"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "오퍼레이터A"
+    },
+    "text": "보고드립니다. 저희는 여전히 카터 장군과 통신을 연결할 방법을 찾지 못했습니다.+엔지니어가 현재 【우산】의 교란 가능성은 없다고 하였으며, 현재 철혈이 회선을 파괴한 것은 아닌지 조사 중에 있습니다."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "......그래, 알겠다. 연결이 될 때까지 계속 시도해보도록."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "오퍼레이터B"
+    },
+    "text": "보고드립니다. 【우산】의 범위 밖에서 한 그리폰 인형이 저희에게 통신을 요청하고 있습니다.+신분 확인은 끝났으며, 바이러스는 가지고 있지 않습니다. 연결하시겠습니까?"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "(......설마 아군 측의 전령인가?)+통신을 연결해."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "text": "......삑."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "MP7",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP7"
+    },
+    "text": "여기는 MP7. \"사육사의 사육사\" 씨. 소리는 잘 들리시죠?"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "MP7",
+        "face": 0
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "헬리안"
+    },
+    "text": "\"사육사의 사육사\"라니...... 설마 날 말하는 건가?"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "MP7",
+        "face": 0
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP7"
+    },
+    "text": "저는 \"사육사\"가 보낸 전령이며, 단독으로 전파 방해 범위를 빠져나와 총 사령부와 연락을...... 여보세요? 들리세요?"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "MP7",
+        "face": 0
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "헬리안"
+    },
+    "text": "계속해서 말하도록, MP7. 현재 현장은 어떤 상황이지?"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "MP7",
+        "face": 0
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP7"
+    },
+    "text": "엉망진창이긴 하지만 아직 사지는 아닙니다. 제 \"사육사\"가 지금 제대를 다시 배치하고 있죠.+현재 보이는 모든 그리폰 인형들을 어떻게든 재배치하고 있으며, S11 구역을 향해 후퇴할 준비를 하고 있습니다."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "MP7",
+        "face": 0
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP7"
+    },
+    "text": "철혈 외에도, 【우산】에 침식당한 군의 인형들과도 싸우고 있으며, 군부에서 응답을 하지 않는 걸 보니 아마 저희 전부 군에게 버려진 것 같습니다."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "MP7",
+        "face": 0
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "헬리안"
+    },
+    "text": "단어 선택에 주의하도록, MP7. 군 측에 트집잡힐 만한 발언은 하지 않도록 해."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "MP7",
+        "face": 0
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "헬리안"
+    },
+    "text": "돌아가서 지휘관에게 총사령부의 명령을 전달해.+현재 최우선 목표는 이 구역에서 무사히 빠져나가는 것이며, 조건이 허락된다면 그게 인간이든 인형이든 다른 그리폰 동료들도 구하도록.+자세한 건 너희 지휘관의 자율적인 판단에 맡기겠지만, 일단 S11 구역의 기지로 후퇴하게 되면 명령 대기상태로 유지하도록."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "MP7",
+        "face": 0
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP7"
+    },
+    "text": "그건 상관없지만......+그러면 당신과 \"사육사 대장\"이 있는 곳은 괜찮으시죠?+지휘관은 총사령부가 갑자기..... 저보고 발언에 조심하라고 했지만, 뭔지는 아시겠죠?"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "characters": [
+      {
+        "name": "MP7",
+        "face": 0
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "헬리안"
+    },
+    "text": "총사령부는 안전하니 너희들이 걱정할 필요는 없다. 지금은 먼저 살아남는 걸 생각하도록.+최소한 우리들은 너희들이 아직 살아 있는 걸 알았으니, 희소식이군. MP7, 너에게 감사를 표하지.+여기까지 하도록 하고, 고생했다. 이제 돌아가서 보고하도록."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "MP7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP7"
+    },
+    "text": "알겠습니다, \"사육사의 사육사\" 씨. 그쪽도 힘내시길."
+  },
+  {
+    "background": {
+      "id": 99,
+      "isNight": true
+    },
+    "screenEffect": "dark2",
+    "text": "......삑.+통신이 종료됐다."
+  },
+  {
+    "background": {
+      "id": 99,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "MP7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP7"
+    },
+    "text": "............+그럼 이제 정보용 무인기만 돌려보내면 되겠지......+사육사가 빠져나온 뒤에 다시 전장으로 돌아오지 말라고 했으니......"
+  },
+  {
+    "background": {
+      "id": 99,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "MP7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "......MP7이 한숨을 쉰다."
+  },
+  {
+    "background": {
+      "id": 99,
+      "isNight": true
+    },
+    "sound": {
+      "se1": "Select"
+    },
+    "characters": [
+      {
+        "name": "MP7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP7"
+    },
+    "text": "역시 안 되겠어. 이건 우리 【소대】 스타일이 아니야.+탄이 다 떨어지지도 않았는데 후퇴라니, 남아 있던 사탕 맛도 다 달아나버리잖아.+ ......그 바보를 조금만 더 도와줘볼까."
+  },
+  {
+    "background": {
+      "id": 99,
+      "isNight": true
+    },
+    "text": "......MP7이 소란스러운 전장을 향해 발걸음을 옮겼다."
+  }
+]

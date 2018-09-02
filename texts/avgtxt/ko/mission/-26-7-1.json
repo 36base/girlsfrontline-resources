@@ -1,0 +1,803 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    }
+  },
+  {
+    "background": {
+      "id": 157
+    },
+    "screenEffect": "blink",
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "나 아직... 살아 있나?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "네, 우리 모두 아직은 살아 있어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "어떻게?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AN94"
+    },
+    "text": "희망이 나타나서요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "안젤리아!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "SOP2?+정말로... 너니?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "나야 나! 생각 못했지!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "많이 변한 것 같구나, 그 어깨 위에 있는 건..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "RO635"
+    },
+    "text": "아... 전 무시해 주세요, 일단은 아군이에요. 좋은 밤이네요, 안젤리아 씨."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "그래... 근데 색깔이 뭔가 익숙한데, 그 목소리도..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "죄송하지만, 오염 구역 내의 교란이 심각해 그쪽의 신호를 추적할 수 없어서, 직접 달려올 수밖에 없었어요.+지금 오염이 불규칙하게 퍼지고 있고, 피폭 증상도 심해지고 있어요. 전장에 남아 있는 한, 언제 어디서도 감염자를 만날 수 있어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "HK416... 너까지 온 거야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "이상한가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "다른 404소대 애들은?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "UMP45가 중상을 입어서 다른 대원들이 데리고 먼저 철수했어요. 마저 인사하지 못한 점을 대신 사과드리죠."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "괜찮아, 너희가 와줘서 훨씬 안심되지만. 너희만으론 군의 탱크를 상대할 수는 없어."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "우리도 알아, 그래서 지휘관이 중화기 부대를 보내서 원거리에서 방어선을 지켜주고 있어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "그것만으로는 부족합니다, 좀 전의 전투로도 알 수 있듯이 저희는 아주 잠시 동안만 군의 공세를 막을 수 있습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "HK416"
+    },
+    "text": "그리고 통신 설비도 가져와서, 지휘관님과 연락할 수 있어요. 다만 개통하는 것에 시간이 걸리고 가동하면 군에게 들키고 말아요."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "지금 상황에선 쓸모없네.+예고르가 남은 군 병력을 끌어모아서 우리를 섬멸하려고 해. 이제 곧 우리가 숨어 있는 세이프 하우스를 포위하겠지."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      },
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "그렇습니다, 군의 다음 공격이 곧 올 겁니다. 빨리 대책을 세워야 합니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그럼 지금 당장 돌파해야 되는 거 아니야?+포위망이 완성되기 전에 길을 가로막는 적들을 모두 해치우자고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "군의 후속부대가 곧 도착할 거야, 그건 너무 위험해.+아니면 잠행해서, 군의 정찰부대를 피해 이곳을 벗어나거나."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      },
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "돌파하기에는, 최대한 빨리 모든 적을 처치한 다음에 증원까지 상대해야 하고...+잠행하기에는, 놈들의 탐지설비 성능이 너무 뛰어나, 역시 들킬 위험이..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "콜록... 콜록! 켁케엑!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "안젤리아!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "좀 전 충격의 영향으로 붕괴액의 침식이 더 빨라졌습니다. 이젠 시간이 얼마 없습니다!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "그럼 움직여... 크윽!+아무튼, 여길 벗어나야 해... 콜록콜록!+크헉 커헉!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "안 되겠어... 더 이상... 몸이...+아니야... 포기하면 안 돼!+모두에게 헛수고를 시켜서는 안 돼, 분명 뭔가 방법이 있을 거야!"
+  },
+  {
+    "background": {
+      "id": 55,
+      "isNight": true
+    },
+    "screenEffect": "dark2",
+    "text": "..."
+  },
+  {
+    "text": "같은 시간, 예고르가 안젤리아가 숨은 지점을 관찰 중이다."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Danger"
+    },
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "그 여자는 저 건물 사이로 숨었지. 지금 감염된 상태이니, 분명 오염이 덜 한 곳으로 빠질 생각일 것이다.+저년의 유일한 카드는 방금 그 중화기부대지, 다만 우리의 주력부대가 도착하는 순간 단숨에 해치울 수 있다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 하사"
+    },
+    "text": "대위님, 보고 내용 전달 드립니다. 저희 중화기부대는 대위님이 요구하신 시간보다 15분 늦을 것으로 예상됩니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "예고르가 고개를 돌렸다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "15분이라고? 뭐가 그렇게 오래 걸리는 거지, 적이라도 조우한 거냐?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 하사"
+    },
+    "text": "중화기 부대가 이동 중 감염자를 만나서, 되도록 전투를 피하고자 우회할지 고려 중입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "내가 이미 말했다, 감염자를 만나는 즉시 섬멸하라고. 빨리 오라고 해라."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 하사"
+    },
+    "text": "대위님, 그 감염자들의 신분을 아시지 않습니까. 그들은..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "예고르가 부하의 옷깃을 움켜쥐었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "너보다 잘 알고 있다, 하사!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "예고르가 어금니를 깨물었다. 온 얼굴에 퍼진 감염 흔적 때문에 표정이 더욱 일그러졌다.+잠시 뒤 손을 놓자, 부하는 다시 차려자세를 취했다. 예고르는 쌓아놓은 물자 상자에 앉아, 크게 숨을 들이마셨다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "나도 잘 알고 있다, 그들은 나의 전우이자 형제들이다.+그들 중에는 나와 십 년을 넘게 생사를 같이한 자들도 많다. 3차 대전의 핵폭마저 우릴 죽이지 못했지, 그리고 인형... 그 진정한 살육기계를 상대로 목숨을 건진 적도 있었다.+하지만 오늘... 그 미친년이 그들을 죽였다. 우리를 방해하기 위해, 붕괴액 폭탄을 터뜨렸지."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "예고르는 모든 이들을 바라보았다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "전쟁에서는 어떤 명예도, 감정도 없다는 것은 알고 있다. 하지만 여기서 가장 그 감염자들을 죽이고 싶지 않은 사람은, 바로 이런 명령을 내리는 나라는 것이다!+하지만 너희도 붕괴액의 오염이 어떤 것인지를 두 눈으로 보았을 것이다... 그래, 솔직하게 말하지, 그 형제들은 가망이 없다, 이미 구할 수가 없다.+지금 우리가 할 수 있는 것은 복수뿐이다. 1분이라도 늦었다간 모든 기회를 놓칠 수도 있다...+그럼, 하사. 내가 다시 같은 명령을 내려야 하겠나?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 하사"
+    },
+    "text": "아닙니다, 즉시 위치시키겠습니다, 대위님."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "하사가 통신기를 꺼내자, 저 멀리서 폭격 소리가 끊임없이 터져왔다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "오늘 밤 그들의 영혼은 안식을 얻을 것이고... 우리는 죄악의 근원에게 원수를 갚을 것이다!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "예고르가 일어섰다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "이제 곧 주력부대가 도착한다. 즉시 포위망을 완성해 경계태세를 강화하라. 중화기 부대가 이곳을 평지로 만들기 전까지 그년들을 도망치게 해서는 안 된다!+반드시 이 전장에서 그년들을 없애야 한다. 이번이 유일한 기회다!"
+  },
+  {
+    "screenEffect": "dark2",
+    "text": "<color=#fff775>이 전역의 서로 다른 임무를 달성하면 서로 다른 루트로 진입합니다. 임무 달성 후 다른 루트는 잠기게 되며, 백트래킹을 해야 다시 선택할 수 있습니다.</color>"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  }
+]

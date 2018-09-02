@@ -1,0 +1,222 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "20분 후."
+  },
+  {
+    "characters": [
+      {
+        "name": "M99"
+      }
+    ],
+    "text": "M4 씨?+M4 씨, 들리시나요?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "... 아.+미안해요... 현재 상황은 어떻죠?"
+  },
+  {
+    "background": {
+      "id": 3,
+      "isNight": true
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "characters": [
+      {
+        "name": "M99",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "다들 교전 구역을 무사히 빠져나왔어요. 아직까지는 헌터가 쫓아오는 듯한 낌새는 없고요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      },
+      {
+        "name": "M99",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그래... 그나마 다행이군요..."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      },
+      {
+        "name": "M99",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "이 기회는, P08의 목숨과 맞바꾼 거예요...+그러니, 지금 낙담하고 있을 시간이 없어요..."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      },
+      {
+        "name": "M99",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "이렇게나 많은 일이 벌어지니...+저는 잘 모르겠어요... 제가 이 지휘를 잘 할 수 있을지..."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      },
+      {
+        "name": "M99",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "만약 당신이 없었다면, 우린 모두 거기서 죽었을 거예요.+P08이 말했어요, 최소한 한 명은 살아남아서 마인드맵을 가지고 나가야 한다고요.+그래야만, 모두가... 무의미하게 희생되진 않게 되니까요..."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "하아...+(또, 나만이 할 수 있는 일인가...)+(어째서 매번 나만...)"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "M99",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "M4 씨... 듣고 계세요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "M99",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "아... 네.+한 사람만이라도 살아서 돌아갈 수만 있다면, 임무를 완수했다고 볼 수 있는 건가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "M99",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "객관적으로 따져본다면, 그렇죠."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "M99",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "...알겠어요.+더는 어떤 인형도 희생하고 싶지 않지만, 그 목표를... 노력껏 달성해볼게요.+M99, 지금은... P08과 비효르는 더 이상 없고, Super SASS는 전방의 전장에 있으니...+제 부관을 맡아주시겠어요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "M99",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "네, 기꺼이요.+비록 경험이 많진 않지만, 최선을 다해서 당신을 도와드릴게요."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "감사합니다. 철혈의 움직임이 있으면 언제든지 제게 보고해주세요.+저는 제대의 퇴각과 통신 장비 수색에 집중할게요."
+  },
+  {
+    "background": {
+      "id": 16
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "(......)+(제길...)+(더 이상 이런 일로 한눈팔아선 안 돼...)+(집중하자... 모든 요소를 여러 방면에서 고려해야 해...)"
+  }
+]

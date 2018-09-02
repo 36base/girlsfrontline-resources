@@ -1,0 +1,162 @@
+[
+  {
+    "background": {
+      "id": 8
+    },
+    "sound": {
+      "bgm": "BGM_Battle"
+    },
+    "text": "............수십 분 후, 그리폰 S08구역 지휘실."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "지휘관, 이런 보고를 하게 돼서 굉장히 유감이야.+M4A1과 SOP-ll는, AR-15를 추적하던 도중 연락이 끊겼어......"
+  },
+  {
+    "characters": [
+      {
+        "name": "NEGEV",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "네게브"
+    },
+    "text": "저기, M16, 지휘관, 거기 있어?+방금 SOPII의 흔적을 발견했어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NEGEV",
+        "face": 0
+      },
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M16A1"
+    },
+    "text": "뭐? 걔들이랑 통신은 재개됐어?"
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "NEGEV",
+        "face": 0
+      },
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "네게브"
+    },
+    "text": "잘 모르겠어, SOPII의 신호만 잡았고 M4의 것은 없어.+게다가 SOPII를 호출해도 아무런 반응이 없어.+어쨌든 좌표부터 먼저 보내줄게!"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "NEGEV",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "네게브"
+    },
+    "text": "이 구역은 방금의 거점 근처야, 하지만 바로 방금 전에 대량의 철혈이 몰려왔어."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "뭐? 알케미스트가 다시 나타난거야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NEGEV",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "네게브"
+    },
+    "text": "잘 모르겠지만, 그건 아닌 것 같아.......+첫째로, 숫자가 너무 많아, 알케미스트의 지휘권한을 아득히 넘은 숫자야.+둘째로, 그것들의 움직임이......어쩐지 우왕좌왕하는 느낌이야, 무슨 목적이 있는 것 같지는 않아."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "우리를 노리는 게 아니라면 일단은 너무 걱정하지 않아도 될거야.+헬리안에게 보고하는 건 어때, 데이터베이스를 조회해서 가능한 보스를 찾아달라고 해줘."
+  },
+  {
+    "characters": [
+      {
+        "name": "NEGEV",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "네게브"
+    },
+    "text": "그렇게 하려고 했어, 그리고 너희들도 조심해.+지휘관의 제대는 반드시 저쪽을 돌파해야 SOPII를 구출할 기회가 생길거야.+천만다행으로, 그쪽의 통신이 방금 회복됐으니 지휘관이 제대를 지휘해 돌입할 수 있을거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "이해했어, 네게브.+지휘관, 신중하게 가자고, SOPII를 구출하는 거야!"
+  }
+]

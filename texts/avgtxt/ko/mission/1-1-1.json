@@ -1,0 +1,121 @@
+[
+  {
+    "background": {
+      "id": 8
+    },
+    "sound": {
+      "bgm": "BGM_Sunshine"
+    },
+    "text": "그리폰 S9 지역 전술 지휘실......"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "활기찬 소녀"
+    },
+    "text": "좋은 아침이에요. 지휘관님.+그리폰의 지휘실에 처음 오신건데, 기분은 어떠세요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "활기찬 소녀"
+    },
+    "text": "지휘관님께서 그리폰에 취직하기로 결정하셔서 정말 다행이에요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "우선 제 소개를 드리자면, 제 이름은 카리나(Kalina)라고 해요. 미래에 당신의 병참장교가 될 예정이랍니다.+앞으로 카리나라고 불러주시면 돼요. 그러면 지휘관님은......"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "『당신을 위한 최고의 선택! 세상을 새로 쓸 칼끝, 그리폰 민간군사기업!』+맞아요. 오늘부터 그리폰 산하의 전술 지휘관입니다!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "...에, 아직까지도 지휘관님이 이 일을 잘 해낼 수 있을까 걱정이 되신다고요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "안심하세요. 그리폰의 인재 선발과정은 엄격하기로 소문 났거든요.+그런 엄격한 과정을 전부 통과하셨으니, 지휘관님은 분명 특별한 재능을 가지고 있으신 거예요."
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "+그리고 다음 훈련에선, 지휘관님이 가지고 계신 특별한 재능이 무엇인지 알 수 있도록 제가 도움을 드릴 거예요.+자, 일단 전술지도로 전환해볼까요."
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 1,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "들리시나요. 지휘관님?+전술인형의 준비가 끝났으니, 언제든지 작전이 가능합니다.+그녀들을 배치하여 훈련을 시작하도록 하죠!!"
+  }
+]

@@ -1,0 +1,653 @@
+[
+  {
+    "background": {
+      "id": 15
+    },
+    "sound": {
+      "bgm": "BGM_Boss"
+    },
+    "text": "......그리폰의 어느 폐기된 지휘실, 철혈 디스트로이어의 마지막 은신처."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "디스트로이어"
+    },
+    "text": "......드리머, 들려!? 그리폰 녀석들 예상보다 훨씬 빨라!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-11",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "드리머"
+    },
+    "text": "......+어머......뭘 그리 소란이니?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "디스트로이어"
+    },
+    "text": "빨리, 네 화력으로 저년들을 저지하라고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "드리머"
+    },
+    "text": "......응? 내가 왜?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "디스트로이어"
+    },
+    "text": "다 얘기 했었잖아! 내가 임무를 완수하면, 네가 공중지원으로 내가 후퇴하는 걸 엄호해 주겠다고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "드리머"
+    },
+    "text": "오......+그럼......임무는 완수했어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "디스트로이어"
+    },
+    "text": "크루거를 노린 공격은 실패했어, 하지만 그 정도야 예상했던 결과지.+중요한건, AR-15에게 이식한 코드가 발동돼서 걔의 클라우드 마인드맵에서 #3 세이프 하우스와 관련된 자료를 발견했다는 거야.+【우산】계획의 데이터는 이미 다 모았으니까, 빨리 내가 여길 벗어나게 도와줘!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "드리머"
+    },
+    "text": "그런데......임무가 완수된 이상, 너한테 무슨 가치가 있을까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "디스트로이어"
+    },
+    "text": "뭣..."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "드리머"
+    },
+    "text": "내 말은 말이지......우리는 인형이잖아?+인형이라는건 결국 다 쓰면 버리는 소모품이잖아?+쓰레기를 회수하기 위해서 내 귀염둥이들을 낭비할 필요는 없어 보이는 걸. 안 그래?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "디스트로이어"
+    },
+    "text": "너...너 어떻게 이럴수가 있어!?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "드리머"
+    },
+    "text": "어차피 거기서 죽어버려도 금방 살아날 수 있는 걸.+게다가 나에 관한 기억도 싹 다 잊어버리겠지.+그 뒤에는, 넌 또 다시 말 잘 듣는 강아지처럼 내 명령에 따르게 될거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "디스트로이어"
+    },
+    "text": "어떻게......그런......절대로 널......다시 믿지 않을거니까!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "드리머"
+    },
+    "text": "정말로? 우리 귀여운 바보 꼬맹이 씨?+설마 너는 이번 일이......처음 일어나는 일이라고 생각하는 거니?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "디스트로이어"
+    },
+    "text": "......!!+이 멍청이! 싸이코! 땅꼬마!!+분명......분명 날 구해줄거라고, 약속했으면서......"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "드리머"
+    },
+    "text": "알았어, 울음 뚝, 그냥 농담일 뿐이라고."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "디스트로이어"
+    },
+    "text": "농......담......? 진짜? 진짜로?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "드리머"
+    },
+    "text": "에이전트가 내가 멋대로 굴까봐 입수한 자료의 해독키를 너한테 심어놨더라구."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "디스트로이어"
+    },
+    "text": "히끅......에이전트가......날 위해서......"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "드리머"
+    },
+    "text": "내가 이미 AR팀을 요리하기 시작했어, 십분 후면 이곳에서 이탈할 수 있을거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "디스트로이어"
+    },
+    "text": "그, 그래......?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "BOSS-6",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "드리머"
+    },
+    "text": "물론, 적어도 이번엔 이렇게 넘어가는데......"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "한 번만 더 도청당하면 정말로 갖다 버릴거야. 알겠어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "디스트로이어"
+      }
+    ],
+    "text": "도......도청?+?!......누구야?!언제?!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "AR15"
+      }
+    ],
+    "text": "......"
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 0
+      }
+    ],
+    "text": "흥......+언제 날 발견한 거지? 드리머."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-11",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "드리머"
+    },
+    "text": "하늘을 손에 쥔 자가 모든 것을 가지리니, 난 지금 땅에서 기어다니는 쥐새끼 한마리 조차도 똑똑히 보인단다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 0
+      }
+    ],
+    "text": "어쩐지......역시 통신을 차단하는 것 만으로는 부족한 것 같네."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Sad"
+    },
+    "characters": [
+      {
+        "name": "BOSS-11",
+        "face": 0
+      },
+      {
+        "name": "AR15",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "드리머"
+    },
+    "text": "계속 이 기회를 기다리고 있었던 거지? 그리폰이 네 통신모듈을 차단하도록 하고, 아무도 모르게 우리들 사이에 침입하는 기회를 말이야."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-11",
+        "face": 0
+      },
+      {
+        "name": "AR15",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "......보아하니 듣던 것 만큼 미쳐있는 것 같지는 않네."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-11",
+        "face": 0
+      },
+      {
+        "name": "AR15",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "드리머"
+    },
+    "text": "어머......너도 자료에서 묘사한 것처럼 냉혹한 저기압같지는 않은걸.+그런데 어째서일까? 인형으로서 고용주를 거역하지 않은 대가는 도대체 뭘까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-11",
+        "face": 0
+      },
+      {
+        "name": "AR15",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "너희들은 날 이용해서 동료를 위험에 빠트릴 정보를 흘렸지......+철혈, 내가 그런 짓을 용서할 것이라고 생각했어?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-11",
+        "face": 0
+      },
+      {
+        "name": "AR15",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "드리머"
+    },
+    "text": "흥분하지 말렴, 너도 진즉에 네가 정보의 누수원이란 걸 발견했잖아.+만약에 좀 더 일찍 모두에게 알렸으면 디스트로이어의 폭파 계획이 물거품이 됐을 수도 있었는 걸?"
+  },
+  {
+    "characters": [
+      {
+        "name": "디스트로이어"
+      }
+    ],
+    "text": "잠깐, 드리머, 무슨 말이야 너!+그 말은 내 작전이 그저 들러리였다는 소리잖아!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-11",
+        "face": 0
+      },
+      {
+        "name": "AR15",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "......+어떻게 생각하든, 내가 지금 여기서 하려는건 그리폰의 명령과는 관계 없어."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-11",
+        "face": 0
+      },
+      {
+        "name": "AR15",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "드리머"
+    },
+    "text": "응? 아직도 이해를 못한 것 같네.+우리가 널 뽑은게, 열등한 인간들이 소설 캐릭터의 생사를 결정하는 것마냥 대충 고른거라고 생각하는 거야?+아니......AR-15. 넌 선택된 거야.+아직 기억해? 우리가 너한테 하사해준 그 능력?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-11",
+        "face": 0
+      },
+      {
+        "name": "AR15",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "......?!+설마, 이 모든 게......"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-11",
+        "face": 0
+      },
+      {
+        "name": "AR15",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "드리머"
+    },
+    "text": "우후후, 그럼.+조금 더 발악해볼래, 그리폰의 AR-15?+그 마지막 발버둥이 일을 어떻게 만들지 한 번 보여주겠어?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "BOSS-11",
+        "face": 0
+      },
+      {
+        "name": "AR15",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "......+원하는 대로 해주지, 드리머."
+  },
+  {
+    "background": {
+      "id": 27
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "AR15"
+      }
+    ],
+    "text": "......이 모든게 해결될 때 까지 발악해주겠어."
+  },
+  {
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "동료를 위해 그리폰을 등지다니, 아아, 이 깊디 깊은 사랑을 찬양이라도 해야 할까."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "AR15"
+      }
+    ],
+    "text": "그냥 인형으로서 받은 명령일 뿐이야.+AR팀의 팀원으로서......가장 우선되는 명령을.+설령 돌아갈 곳을 잃는다 해도, 절대로 날 처음으로 받아준 사람을 배반할 수는 없어.+그것이야말로 내 유일한 가치이자 유일한 운명.+철혈, 두고 보자고.+네년들의 얼굴을 짓밟은 채로, 그 음모들을 한 글자 한 글자씩 짜내 줄 테니!"
+  }
+]

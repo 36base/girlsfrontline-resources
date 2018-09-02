@@ -1,0 +1,650 @@
+[
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "screenEffect": "spark",
+    "sound": {
+      "bgm": "BGM_Danger",
+      "se1": "Gunfight"
+    },
+    "text": "총알이 빗발친다.+예광탄과 총구 화염만이 어두운 밤을 비추고 있었다."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "screenEffect": "closeSpark",
+    "text": "유일하게 알 수 있는 것은, 철혈이 예상보다도 많이 몰려왔다는 것이다."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "AK47",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK47"
+    },
+    "text": "이런, 리더, 이거 큰일이야! 완전 운수 터졌어!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "OTs14",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "OTs14"
+    },
+    "text": "버러지도 모이면 머리 아프네.+일단은 후퇴하지, 나중에 배로 갚아줄 테니까.+SV98, SVD 들리나? 예상보다 이르지만, 지금부터 착륙지점까지 후퇴한다.+후퇴 경로는 플랜B를 따라서, 우리 후방은 너희에게 맡기지. 너희도 후퇴 시기를 놓치지 말고."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "SV98"
+    },
+    "text": "알겠습니다! 맡겨만 주세요!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      },
+      {
+        "name": "SVD",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "SVD"
+    },
+    "text": "흐흥, 바라던 바야.+위기일수록 엘리트의 실력을 뽐낼 시간이니까."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      },
+      {
+        "name": "SVD",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "SV98"
+    },
+    "text": "플랜B의 후퇴 경로는...+응, 이대로라면 6번 저격 포인트에서 모든 구역을 커버할 수 있어. 움직이자!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "text": "SV98과 SVD는 함께 움직여, 저격 포인트에 무기를 걸쳐 저 멀리 후퇴 경로로 총구를 향했다."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "SV98"
+    },
+    "text": "거리 700m, 서풍 10m, 습도 60%, 중강갑 철혈병, 표적 이동 속도는... 좋아."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "sound": {
+      "se1": "Explode"
+    },
+    "text": "... 타앙!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "sound": {
+      "se1": "Select"
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "SV98"
+    },
+    "text": "명중. 이 정도 거리라면 문제없어."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "대형 소음기의 엄호 아래, SV98의 총성과 총구 화염 모두 거의 완벽히 가려졌다.+방아쇠를 당길 때마다 저 멀리 철혈 추격병의 숫자가 줄어들었다."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      },
+      {
+        "name": "OTs14",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "OTs14"
+    },
+    "text": "좋아, 지금 그렇게 계속 쏴!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      },
+      {
+        "name": "OTs14",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "OTs14"
+    },
+    "text": "AK47, 찬스다. 이 틈을 타서 후퇴한다."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "sound": {
+      "se1": "Explode"
+    },
+    "text": "... 타앙!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "sound": {
+      "se1": "Reload"
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "SV98"
+    },
+    "text": "명중."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "sound": {
+      "se1": "Explode"
+    },
+    "text": "... 타앙!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "sound": {
+      "se1": "Reload"
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "SV98"
+    },
+    "text": "명중."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "sound": {
+      "se1": "Explode"
+    },
+    "text": "... 타앙!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "sound": {
+      "se1": "Reload"
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "SV98"
+    },
+    "text": "명중."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "SV98"
+    },
+    "text": "(봤어? SVD...)+(철저한 준비를 하였기에 백발백중, 일격필살의 정확성를 보여줄 수 있는 거야!)+(이걸로 대장 후방의 추격은 모두 해치울 수 있어...)"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      },
+      {
+        "name": "SVD",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "SVD"
+    },
+    "text": "측면을 조심해, OTs, 그쪽 3시 방향!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "sound": {
+      "se1": "Gunkill"
+    },
+    "character": [
+      {
+        "name": "OTs14",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "SVD",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "OTs14"
+    },
+    "text": "... 성가신 것들!+AK47, 조심해! 매복이다!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "OTs14",
+        "face": 0
+      },
+      {
+        "name": "AK47",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK47"
+    },
+    "text": "큰일이다, 이거 완전 큰일이야!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "OTs14",
+        "face": 0
+      },
+      {
+        "name": "AK47",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "OTs14"
+    },
+    "text": "화력으론 완전히 밀리는군... AK47 우선 엄폐물을 찾아!+SV98, 지금 거기서 지원 사격 가능한가!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "SV98"
+    },
+    "text": "어, 이럴 수가..."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "SV98"
+    },
+    "text": "저기에서 나타날 줄은 계산 못 했는데.+언덕에 막혀서 조준할 수 없어요!+지금 다른 저격 포인트를 찾아볼게요, 이동에 좀 시간이 걸리겠지만..."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      },
+      {
+        "name": "SVD",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "SVD"
+    },
+    "text": "쯧쯧, 역시 내가 나서야겠네."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      },
+      {
+        "name": "SVD",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "SVD"
+    },
+    "text": "SV98, 잠깐 갔다 올 테니까, 여기서 다른 방향을 경계하고 있어!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      },
+      {
+        "name": "SVD",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "SV98"
+    },
+    "text": "어? 잠깐만..."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "text": "SVD는 언덕을 미끄러져 내려가 쏜살같이 언덕 건너편으로 달려갔다."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "sound": {
+      "se1": "Gunfight"
+    },
+    "text": "치열한 전투가 벌어졌지만, SV98의 눈에는 보이지 않았다."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "sound": {
+      "se1": "Gunkill"
+    },
+    "text": "... 얼마 안 가서 총성이 점점 가라앉았다."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "AK47",
+        "face": 0
+      },
+      {
+        "name": "SVD",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK47"
+    },
+    "text": "살았다~ 아슬아슬했어."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "SVD",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "SVD"
+    },
+    "text": "봤지, 이것이 바로 엘리트의 실력이야."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "sound": {
+      "bgm": "BGM_Truth"
+    },
+    "character": [
+      {
+        "name": "OTs14",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "OTs14"
+    },
+    "text": "인정하기는 싫지만, 덕분에 수고를 덜었군.+그래도 아직 축하하긴 일러, 철혈이 겨우 이 정도로 끝날 리가 없으니까.+전원 철수 지점으로 이동한다, SV98도 따라오도록!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "SV98"
+    },
+    "text": "아, 알겠습니다!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "character": [
+      {
+        "name": "SV98",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "SV98"
+    },
+    "text": "(내가 이런 실수를 저지르다니... 그런 곳에서 철혈이 나타날 줄 예상치 못했어...)+(SVD가 바로 나서지 않았다면... 그보다 애초에 내가 더 많이 고려했다면...)"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "text": "철수 지점의 헬기를 타고 나서까지, SV98은 끝없이 자신에게 캐물어 보지만, 뚜렷한 대답은 떠오르지 않았다."
+  }
+]

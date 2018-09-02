@@ -1,0 +1,275 @@
+[
+  {
+    "background": {
+      "id": 4
+    },
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "text": "지휘부의 구석......+...삑"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 2,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "M4. 들려? 여기는 AR-15 들리면 응답해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      },
+      {
+        "name": "AR15",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "들립니다! AR-15. 괜찮나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      },
+      {
+        "name": "SOPII",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "M4, 나한테는 안물어봐? 나도 M4 걱정 많이했는데!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      },
+      {
+        "name": "SOPII",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "SOPII! 당신도 있었습니까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      },
+      {
+        "name": "SOPII",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "우린 괜찮아, M4가 보낸 신호를 받자마자 다시 모였지."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "좋아, M16은 아직 오는 길이니 현재로선 당신들의 마중이 우선입니다.+AR-15, 합류지점은 우리 측에서 결정해도 되나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "AR15",
+        "face": 2,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      },
+      {
+        "name": "AR15",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "AR-15?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      },
+      {
+        "name": "AR15",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "......아, 알겠어. 아웃."
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      },
+      {
+        "name": "SOPII",
+        "face": 2,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "에? 잠깐잠깐!! 나 아직 말 다 못했는데......"
+  },
+  {
+    "background": {
+      "id": 3
+    },
+    "screenEffect": "blackSpot2",
+    "text": "AR-15의 은신처...."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "너무해, AR-15! 간신히 M4랑 연락된 건데!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "시끄러워, 나중에 만나면 그때 실컷 말하던가.+그리고 지금은....통신을 유지할 때가 아니야."
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "에?+AR-15......그 말은 즉......"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그래......감청당했어 우리.+위험한 녀석 하나가...우리를 노리고 있어......"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "잠깐! AR-15, 어디 가는 거야?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "따라오지 마, SOPII.+네 임무는 M4와 합류하는 거야.+그리고......나도 청산할 것이 남아있고 말이야."
+  }
+]

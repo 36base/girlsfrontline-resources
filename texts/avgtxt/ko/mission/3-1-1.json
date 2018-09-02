@@ -1,0 +1,44 @@
+[
+  {
+    "background": {
+      "id": 8
+    },
+    "sound": {
+      "bgm": "BGM_Battle"
+    },
+    "text": "그리폰 S9 지역 전술 지휘실......"
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "축하합니다. 지휘관, 작전이 순조롭게 끝났습니다.+지난 작전에 대한 보고는 받았습니다.+일단 엑스큐셔너를 제거하였고 관할 구역 내의 철혈부대를 깨끗하게 쓸어버렸군요. 대단합니다.+또한 M4A1를 성공적으로 회수했고, 그녀의 메모리 카피를 업로드하였군요. 본부에서 곧바로 분석에 착수할 것입니다.+그리고 지금, 우리는 현지 철혈 세력을 몰아내기 위해 전선을 대폭 전진시킬 필요가 있습니다..."
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "협약으로 인한 제한 때문에 그리폰은 이번 작전에 주력을 투입 시킬 수 없습니다.+지금 우리는 해당 구역의 도로를 뚫어, 이후의 특수작전을 위한 기반을 다져놓아야 합니다."
+  }
+]

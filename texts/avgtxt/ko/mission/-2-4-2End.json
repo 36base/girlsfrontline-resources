@@ -1,0 +1,600 @@
+[
+  {
+    "background": {
+      "id": 7
+    },
+    "sound": {
+      "bgm": "BGM_Battle",
+      "se1": "Battlefield"
+    },
+    "text": "......"
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "안 되겠어, RO. 몇 번의 공격으로도 현재로선 점령이 쉽지 않아!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "이런 식이라면, 우리 보급품이 먼저 바닥날 거야!+M1887이 아직 작전을 시작하지 않은걸까? 그녀가 정말 우리를 도와주는 거 맞아?!......"
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 5
+      }
+    ],
+    "text": "지금 다른 건 신경쓰지 마!+다음 포격이 온다고! 엄폐물을 찾도록 해! 당장!"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "......"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "어......조용한걸?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M1887",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "포탑의 메인 전원을 끊었습니다.+예비용 전원이 가동되기까지 10분 남았습니다. 당신들은 서둘러 게이저의 방어선을 돌파해서, 골짜기의 세이프 하우스로 오시길 바랍니다!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "M1887......"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 5
+      }
+    ],
+    "text": "알겠습니다. 다들, 서둘러 출발하자!"
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "screenEffect": "dark2",
+    "text": "............10분 후, 전원 세이프 하우스에 도착했다."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "후......하마터면 못 올 뻔 했네......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "나는 아직도 얼떨떨한데......+그렇다면, 네가 M1887?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M1887",
+        "face": 0
+      }
+    ],
+    "text": "만나뵙게 돼서 영광입니다. AR팀의 여러분들."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "지금 당장, 어떻게 네가 철혈의 통신회선을 사용하고 있는지 설명해주겠어?+미안하지만, 조금 궁금해서 말이지......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M1887",
+        "face": 0
+      }
+    ],
+    "text": "그리고 의심스럽기도 하죠. 이해할 수 있습니다.+최근 16LAB이 지금과는 다른 새로운 인형제조 기술을 손에 넣은 것을 알고계실 겁니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      }
+    ],
+    "text": "당신이 설마 페르시카가 말한......그 기술의 오리지널인 거군요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M1887",
+        "face": 0
+      }
+    ],
+    "text": "제가 어떤 부품들을 사용하여 만들어졌는지 맞춰보시겠어요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      }
+    ],
+    "text": "............+적의 수법을 그대로 적에게 되돌려 준다는 건가?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M1887",
+        "face": 0
+      }
+    ],
+    "text": "사람이 세상에 태어난 이유는 사람마다 다르다지만......+......인형이 세상에 만들어진 이유는 결국 모두 동일하죠."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      }
+    ],
+    "text": "좋아요. 전 지금부터 당신을 믿겠습니다. 당신이 가지고 있는 정보를 말해주세요.+그보다 우선, SOPII. 너는 먼저 통신설비의 조정을 부탁 해.+헬리안에게 보고를 위해, 우린 새로운 암호망이 필요하니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "라져, 난 인터넷을 연결하고 올게!"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": ".......갑자기, M1887이 무기를 들어올렸다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "............!+SOPII! 등 뒤를 조심해!"
+  },
+  {
+    "sound": {
+      "se1": "Explode"
+    },
+    "text": "......타앙!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "............+뭐하는 거야, M1887! 어째서 통신장치를 부수는 거야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M1887",
+        "face": 0
+      }
+    ],
+    "text": "당신들 팀원 중 한명이 부족하군요.+그녀는 【우산】때문에 당신들을 떠났다고 알고 있는데, 맞나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "......그게 지금 네가 한 짓이랑 무슨 상관이 있는 거지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M1887",
+        "face": 0
+      }
+    ],
+    "text": "원래 【우산】모듈은 철혈의 설비에 이식되어 있었어요. 그후에 통신모듈과 접촉함으로써 이식되었죠.+다시 말하자면, 【우산】이 설치되어있는 전자장비를 작동 하기만해도, 【우산】은 그 즉시 당신의 몸속으로 이식되는 겁니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그러면......넌 어떻게 장비에 【우산】이 설치되어 있는지 알고 있는 거야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 3
+      }
+    ],
+    "text": "그건 휴대용 【우산】장비가 내보내는 신호가 일반 장비와는 조금 다른 신호를 내보내기 때문이야. 직접 접촉하지 않아도, 검색 프로그램을 통해 알 수 있어+이건 16LAB의 연구성과 중 하나지. 적측의 설비를 사용할 때마다 특별히 신경 써 왔지만...이번을 제외하고선......+미안. 너무 긴장해서 그만 실수를 해 버렸네......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "철혈은 그런 점을 이용한 거야. 우리가 어떻게 할 수 있는 게 아니지.+괜찮아, RO. 다음부터 조심하면 돼...."
+  },
+  {
+    "sound": {
+      "se2": "Alarm"
+    },
+    "characters": [
+      {
+        "name": "게이저"
+      }
+    ],
+    "text": "이제 다음은 없어, AR팀."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "마침내 너희들을 찾아냈군......+상급구역에서 식별당하다니, 게다가 우리도 모든 토큰을 여기서 관리하는 건 아니거든.+어쨌든......나도 이런방식으로 이기는 건 좋아하지 않지만......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "흥, 비겁하게 남을 속이는 게 너의 방식이냐?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "난 그저 불확실한 걸 싫어할 뿐이야. 변수가 없는 편이 안심이 되거든.+곧 어둠이 내려앉으면, 너희들은 나의 포위에서 벗어날 수 없어."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 4
+      }
+    ],
+    "text": "모두들, 내 지시에 따라, 지금 당장 피난소의 건설을 시작하자."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 5
+      }
+    ],
+    "text": "밤이 지나갈 동안, 전력으로 철혈의 공세에 저항하는 거야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "밤이 지나가면, 우리에게 희망이 있을까...?"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      }
+    ],
+    "text": "나도 모르겠어...그래도 날이 밝을 때 까지 버티면, 승산이 있지는 않을까?+M16이 이야기했던 것 처럼 헬리안이 비장의 카드를 숨겨놨을 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "하, 성격만 보면, 네가 M4보다 더 낙관적인 것 같은데."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 2
+      }
+    ],
+    "text": "(쓴웃음)다 출신 탓이지."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "RO635"
+      }
+    ],
+    "text": "결국, 나도 다른 장점들을 보유하지 못했으니까..."
+  },
+  {
+    "text": "............+......3시간후, 그리폰 총사령부의 외곽훈련장."
+  },
+  {
+    "background": {
+      "id": 4,
+      "isNight": true
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_NightOPS"
+    },
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "아, 크루거 님...."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "크루거"
+    },
+    "text": "헬리안, 아직 AR팀의 소식은 없나?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "헬리안"
+    },
+    "text": "죄송합니다. 아직 그녀들과 연락이 되지 않습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "크루거"
+    },
+    "text": "날씨 탓은 아닌 것 같군."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "헬리안"
+    },
+    "text": "날씨는 이미 많이 좋아졌습니다만......밤이 찾아왔습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "크루거"
+    },
+    "text": "그렇다면 전문가를 불러와야지. 그녀들은 언제쯤 도착하지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "헬리안"
+    },
+    "text": "이제 10분 쯤, 곧 도착합니다......"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "......이런 일을 전문적으로 처리하는 전문가들이 말이죠."
+  }
+]

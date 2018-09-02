@@ -1,0 +1,545 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 159
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Danger",
+      "se2": "Gunfight"
+    },
+    "text": "싸움은 가장 큰 고비에 들어섰다."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "... SOP2!+SOP2...!!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "으윽..."
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "일어나! 나 깔렸어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "미안, RO, 몸이 움직이질 않아..."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "포기하지 마!+예거 대가리를 박살 낼 때의 기세는 어디 갔어?+방금까지만 해도..."
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "아 시끄러워!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "SOP2가 벌떡 몸을 세워 앉았다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "네가 계속 시끄럽게 메모리를 점용하니까 서 있을 힘이 빠진 거잖아!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "그냥 죽은 척한 거면서, 군의 공세가 살짝 느슨해지니까 바로 게으름 피우려 하고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "틈을 타 휴식을 취하는 거야. 그리고 군은 병력을 무른 게 아니라..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "SOP2, 엎드려요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      }
+    ]
+  },
+  {},
+  {
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "Explode"
+    },
+    "text": "콰앙!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "군의 탱크야! 이렇게나 빨리!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "저건 이길 수가 없어...+그리고...+지휘관님이 증원을 보냈다 해도, 저걸 이길 수가 없어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "...+그럼... 정말 여기까지인가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "진짜 마지막 순간이네, SOP2.+이제 날뛸 때가 된 거 아니야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "아니, 아무리 나라고 해도... 상대가 안 되는 건 알고 있어...+그리고, 나도 죽는 게 무서워진 것 같아..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "죄송해요, SOP2, 저희 때문인가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "정말 서로 방해만 됐네, 이걸로 빚진 거 없기지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "모두 집합했어, 마지막이니까 적어도 탄약을 다 쓰고 죽자."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "탄약? 이미 다 떨어진 지..."
+  },
+  {},
+  {
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "Explode",
+      "se2": "Battlefield"
+    },
+    "text": "콰앙!!+콰앙!! 콰아앙!!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "미사일 여러 발이 날아와 군의 장갑 부대를 순식간에 파괴했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "아직 남아있었네."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "우리가 아니야... 저건..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "삐익."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_stage9"
+    },
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c><color=#00CCFF>모두 무사한가?</color><c><color=#00CCFF>오랜만이라서 반갑다.</color><c><color=#00CCFF>새로운 무기를 자랑한다.</color>"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "무사해... 잠깐, 이 목소리는..."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "나도 반가워... 근데 누구..."
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "굉장해, 근데 누구야? 잠깐..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "... 지휘관?"
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "지휘관이다!!!"
+  },
+  {
+    "screenEffect": "blackSpot2",
+    "text": "..."
+  },
+  {},
+  {
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "Explode",
+      "se2": "Battlefield"
+    },
+    "text": "콰앙!! 콰아앙!!+그리폰 인형들의 환호 속에서 미사일이 잇따라 군의 인형과 장갑 유닛을 불바다에 빠뜨렸다."
+  },
+  {
+    "screenEffect": "spark",
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "아무래도, 운이 꽤 좋았나 보네.+이럴 줄 알았으면, 우는 걸 더 참을걸...+뭐... 차이는 없지만..."
+  }
+]

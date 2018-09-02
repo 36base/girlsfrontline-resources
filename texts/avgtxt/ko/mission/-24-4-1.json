@@ -1,0 +1,1254 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "text": "SOP2는 단 하나 남은 팔로 힘겹게 기어서 지정 위치에 도착했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1BOSS",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>자가진단할 수 있겠어?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "시스템"
+    },
+    "text": "<color=#00CCFF>【기능 진단을 시작합니다, 스캔 중.】</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "여러 부위가 심각하게 파손됐어... 작전능력 평가치는 10%로 떨어졌고..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>SOP2, 넌 AR팀에서 부품 호환성이 가장 뛰어난 인형이야.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "저 지저분한... 철혈...+저 부품을 쓰란 말이야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>어떻게든 자신을 고쳐봐, 어쩌면 아직 기회가 있으니까.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "기회?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>녀석을 구할 기회.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "맞아! M4A1!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "하지만 지금 네 신호는 철혈이잖아...+그러면 나쁜 놈이 아니야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>좋은 놈, 나쁜 놈? 아직도 그런 단순한 이분법으로 피아를 구분하는 거야?</color>+<color=#00CCFF>우리 핵심 명령은 기억해?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "어떤 대가를 치러도... M4A1을 지킨다..."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>날 아직 믿는다면, 자신을 고치고 서둘러 녀석 곁으로 돌아가.</color>"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "SOP2는 진흙투성이의 전장에서 몸을 끌어 움직여, 한 철혈 인형의 잔해 앞에 앉았다."
+  },
+  {
+    "background": {
+      "id": 148
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "...+M16A1...+난 널 믿을 수 없어... 철혈이 된 건... 우산 때문이야...?"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>아니, 나 자신의 의지로 된 거야.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "헤헤... 그럴 것 같았어...+하지만 이미 철혈이 되었으면... 난 더 이상 M16의 말을 들을 수 없어..."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>어쩔 수 없잖아, 그게 우리의 기본 규칙인걸.</color>+<color=#00CCFF>잔말 말고 빨리 몸을 고치기나 해, 어떻게 하는지 알잖아.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "철혈 부품을 다루는 건... 그 누구보다 잘 알아..."
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "뚜뚝!+SOP2가 잔해의 팔을 뽑았다."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "하지만 상황을 모르는데... 난 어떻게 해야 하는 거야...?"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>그건 네가 몸을 고치고 나면 말해줄게.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "아직 핵심 명령이 남아 있으면... M16이 직접 와서 M4를 구하면 되잖아..."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>난... 아직 모습을 보일 수 없어... 그들 목숨은 다 너에게 달렸어...</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "설마... 나 혼자 남은 거야?"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "SOP2는 몸부림치며 팔을 자신의 절단면에 끼우려 했다.+철컥!"
+  },
+  {
+    "background": {
+      "id": 149
+    }
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "<size=55>끄아아아악!!!</size>"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "이걸로... 일단은 움직일 수 있어...+그럼 모두... 사라진 거야...?"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "SOP2가 조용히 훌쩍였다."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>우는 거야?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "아니."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>마음 굳세게 먹어, M4A1의 마지막 위치를 기억해? 아직 늦지 않았을지도 몰라.</color>"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "...+M4... RO... 지금 갈게!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "text": "SOP2는 기억을 짚으면서 겨우겨우 그 세이프 하우스에 기어들어 갔다."
+  },
+  {
+    "background": {
+      "id": 70
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "...！"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "SOP2는 그 익숙한 인형을 발견했지만, 마인드맵이 멈춘 모양이었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "M4A1...+무슨 일이야... 대답해줘..."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "SOP2는 다가가 M4A1의 몸을 흔들어 보려 했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1BOSS",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>건들지 마, SOP2!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "M16... M4는 지금 어떻게 된 거야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>지금 마인드맵이 대응모드에 들어갔어.</color>+<color=#00CCFF>레벨 2 플랫폼에 연결할 수 있겠어? 이전에 행동 실행 동기화 지령처럼 말이야.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "잠깐만..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ]
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "안 돼, 모든 연결이 거부 당했어."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>연결이 안 된다...</color>+<color=#00CCFF>누가 한 짓인지는 모르겠지만... 한 시름 놨어.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "한 시름 놨다니? 이게 어디가 안심인데?+의식이 돌아오지 않는다면 적어도 내가 업고 가겠어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>안 돼! 지금 M4A1의 마인드는 매우 불안정한 상태야. 허튼짓을 했다간 오히려 끔찍한 결과를 낳을 거야.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "지금 적들이 언제든지 올 수 있는데, 이대로 두고 가란 말이야?+설마... M4를 철혈에 넘길 셈이야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>철혈은 이미 철수했어.</color>+<color=#00CCFF>오히려 여기에 두고 가는 편이 안전해.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그럼... 직접 와줄 수는 없어? 이전처럼..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>난 지금 더 중요한 일을 하고 있어.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "이전의 M16이라면 그런 말을 하지 않았을 거야..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>상황이 변하면 사람도 변해야 해... 인형도 마찬가지고.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "난 너무 복잡한 일은 몰라...+어쩌면 이게 마지막으로 M16을 믿는 걸지도 몰라...+하지만... M4A1에게 무슨 일이 생기면 절대 가만 안 둘 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>내가 보장할게, M4A1은 무사할 거야.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "SOP2는 뚜벅뚜벅 세이프 하우스의 구석으로 걸어갔다.+그리고 RO의 곁에 멈췄다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "RO...+우리 가자."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "...SOP2는 RO의 신체를 업고 출구로 한 발씩 걸어 나갔다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16A1BOSS",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>이미 기능이 정지됐어, SOP2.</color>+<color=#00CCFF>그리고 RO는 우리하고 달라. 나중에 기회가 있으면 마인드맵을 백업하면 돼.</color>"
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "SOP2는 대답하지 않고 나갔다."
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "털썩.+SOP2는 몸을 가누지 못하고 RO의 몸과 함께 빗속에 고꾸라졌다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1BOSS",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>쓸모없는 짓 하지 마...</color>"
+  },
+  {
+    "screenEffect": "shockScreen",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그럼 대체 뭘 하면 되는데!!"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Wake2"
+    },
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>...</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "모두 떠났어...+난 이제 혼자야...+그럼 모두 죽든 말든 뭐가 다른데?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "계속 살아봤자... 무슨 의미가 있는데...?"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16A1BOSS",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>...</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "적어도... 적어도 동료 하나쯤은 구해야 하잖아!"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "SOP2는 손을 RO를 향해 뻗었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "마인드맵을 다시 받아도... 우리 사이, M4와의 추억이 다 사라지잖아...+이제 겨우 모두 예전처럼 돌아갈 수 있을 것 같았는데... 그런데... 그런데!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>SOP2...</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "난 그저... 날 필요하는 사람들을 위해서 싸울 거야!"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "쩌걱!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "미안해 RO... 좀 많이 아플 거야...!"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "SOP2는 RO의 몸을 뜯어 체내의 마인드맵 코어를 뜯어냈다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "이러면 같이 돌아갈 수 있어..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>이제 떠나려고? 여기서 더 멀어지면 더 이상 통신할 수 없어.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "M16도 날 못 도와주잖아... 그치?+나머지는 내가 알아서 해볼게."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>...</color>+<color=#00CCFF>어디에 가려고?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "지휘관을 찾아서 그리폰으로 돌아가야지."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M16A1"
+    },
+    "text": "<color=#00CCFF>그리폰에 돌아가도 나아지는 건 없어...</color>+<color=#00CCFF>AR팀이든, 철혈이든, 그리폰이든...</color>+<color=#00CCFF>네가 아는 모든 개념이 뒤집어질 수 있어.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      },
+      {
+        "name": "M16A1BOSS",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "난 그런 거 몰라, 관심도 없어.+어쩌면 다신 볼 수 없어도... 난 모두의 일 밖에 몰라."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "SOP2는 힘겹게 미소를 지어보았다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "깨워줘서 고마워, M16A1.+이번엔 꼭 조심할게, 함부로 당하진 않을 거야.+설령 나 혼자 남는다 해도... 반드시 살아남을 거야..."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "SOP2는 세이프 하우스에서 나와 폭우의 장막 속으로 사라졌다."
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  }
+]

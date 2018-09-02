@@ -1,0 +1,181 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "se1": "Alarm"
+    },
+    "text": "..."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "확인했습니다, 그리폰 지휘관은 이미 취조실을 탈출하였습니다. 동시에 건물은 그리폰 인형의 공격을 받고 있습니다, 즉시 예비 방안을 실행합니다.+모든 니토 주의, 건물을 벗어나려는 모든 아군 외 표적을 말살하라, 건물에 접근하는 모든 아군 외 표적을 섬멸하라."
+  },
+  {
+    "background": {
+      "id": 159
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "UMP45Mod",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "<color=#00CCFF>카리나, 지휘관을 구출했어, 하지만 건물 전체의 경계상태가 최고수준으로 격상했어.</color>+<color=#00CCFF>더 많은 적들이 건물에 접근하고 있어, 우리 소대만으로는 이 요양원을 벗어날 수 없어.</color>+<color=#00CCFF>최대한 빨리 적을 섬멸해서 우리가 탈출할 기회를 만들어 줘야 돼!</color>"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Frontline"
+    },
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 9
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "그리폰의 모두, 적의 보스가 나타났어, 작전 개시!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 9
+      },
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "Cx4Storm"
+    },
+    "text": "제 위치에 도착했어요! 언제든지 영격 가능해요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "Mk12",
+        "face": 0
+      },
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Mk12"
+    },
+    "text": "방어선 구축 완료! 누구도 이 요양원에 접근할 생각 마!"
+  },
+  {
+    "characters": [
+      {
+        "name": "Mk12",
+        "face": 0
+      },
+      {
+        "name": "Python",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "파이슨"
+    },
+    "text": "통신 상태 양호, 모두 연락은 안심해."
+  },
+  {
+    "characters": [
+      {
+        "name": "A91",
+        "face": 0
+      },
+      {
+        "name": "Python",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "A91"
+    },
+    "text": "화력소대는 우리가 지켜줄 테니까아, 안심하려엄!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0
+      },
+      {
+        "name": "Python",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "드디어 움직이는 것입니까? 첫 공개 임무, 인도에 따르겠습니다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0
+      },
+      {
+        "name": "M870P",
+        "face": 0
+      }
+    ],
+    "text": "자 그럼 한번 날뛰어 보자고, 여기가 지옥으로 가는 고속도로야!"
+  },
+  {
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 9
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "좋아! 모두, 지휘관님을 되찾을 때가 왔어!+절대로 적을 저 건물에 접근시켜서는 안 돼! UMP45 그들이 지휘관님을 호송할 수 있도록 엄호하는 거야!+긴 싸움이 되겠지만, 결국에 승리하는 것은 우리야!+자, 그리폰을 위해, 지휘관님을 위해, 방어선을 사수해!"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  }
+]

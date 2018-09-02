@@ -1,0 +1,102 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "한참 동안 모든 것이 침묵과 망설임 속에 잠겼다."
+  },
+  {
+    "screenEffect": "dark1",
+    "text": "한참을 그렇게...+그렇게..."
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "아아!"
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "생각났어!+예비 전원쯤이야 창고 안에 있을 거야!+군도 그런 걸 뺏어가진 않겠지? 그럼 분명 창고 안에 있을 거야.+좋아! 그럼 그리폰의 창고를 찾아야지!+우선 지도를 보자, 이 주변에 우리 보급 거점이 있을 거야..."
+  },
+  {
+    "background": {
+      "id": 40
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "아! 건너편에 바로 보급 거점이 있네. 안에 분명 예비 전원이 있을 거야!+어쩌면 그리폰 인형도 있을지도 몰라, 어떻게 인사할지는 모르겠지만, 아군이면 상관없겠지!+근데 왜 주변에 이렇게 철혈 부대가 많은 거지...+무모하게 행동하면 안 돼. 다른 대원들을 떠올려봐, 작전을 신중하게 짜야만 해..+주력부대를 최대한 피하면서, 누구에게 들키면 바로 해치우는 거야.+... 이런 작전으로 괜찮을까?"
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "SOP2는 곰곰이 생각했다."
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "음! 모든 가능성을 고려해봤어, 빈틈없는 완벽한 작전이야. 바로 실행하자!+가자 RO, 이제 곧 깨워줄게!"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  }
+]

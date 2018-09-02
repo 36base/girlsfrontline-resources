@@ -1,0 +1,668 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "text": "......"
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "screenEffect": "dark2",
+    "text": "기지에서 멀리 떨어지지 않은 버려진 시가지에 있는 한 지하실 안."
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "MP446",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP-446"
+    },
+    "text": "철혈공조의 더미 인형이라고...?!+어째서, 이런 곳에... 하물며 이렇게나 많이!?+안 되겠어! 이건 뭔가 심상치 않아, 바로 돌아가서 모두에게 알려야 해!"
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "character": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "차가운 목소리"
+    },
+    "text": "대문의 잠금장치 파손은 예상했던 일이었다.+하지만 그리폰 인형의 힘은...... 예상 밖이었다."
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "강한 어조의 목소리"
+      }
+    ],
+    "text": "어째서 그렇게까지 녀석들을 처리하려는지 이해가 가지 않는군. 끽해야 꼬맹이 몇 명이었잖아?"
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "MP446",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP-446"
+    },
+    "text": "어라...... 이 목소리는......"
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "sound": {
+      "bgm": "BGM_Boss"
+    },
+    "character": [
+      {
+        "name": "BOSS-1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "스케어크로우"
+    },
+    "text": "네가 꾸물대지만 않았어도, 녀석들이 우리를 발견하기 전에 처리할 수 있었다."
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "BOSS-2",
+        "face": 0
+      },
+      {
+        "name": "BOSS-1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "엑스큐셔너"
+    },
+    "text": "꼬맹이를 건드는 건 내 원칙에 어긋나는 짓이다.+녀석들을 처리해봤자 좋을 것도 없고, 임무만 귀찮아질 뿐이지."
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "BOSS-1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "스케어크로우"
+    },
+    "text": "우리 임무는 이 백업 더미 창고를 가동시키는 것. 안전을 우선시하는 것은 당연하다.+다만, 그 인형들이 그리폰으로 돌아가 보고를 했다가는 더 귀찮아지겠지."
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "MP446",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP-446"
+    },
+    "text": "가...... 가동!?+게다가 모두 이미...!?"
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "BOSS-2",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "엑스큐셔너"
+    },
+    "text": "칫, 쓸데없이 우릴 이렇게 먼 곳으로 보내 아직까지 남아 있을지 없을지도 모를 백업 창고를 찾으라니......+인트루더는 대체 무슨 자신감으로......"
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "BOSS-2",
+        "face": 0
+      },
+      {
+        "name": "BOSS-1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "스케어크로우"
+    },
+    "text": "여긴 본래 철혈공조의 분공장이 위치해 있었다. 게다가 창고는 아주 오래전에 진입이 금지되어 보존됐지.+계산대로라면, 이곳에 보존되어 있는 제품들의 상태는 양호할 가능성이 높다."
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "BOSS-2",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "엑스큐셔너"
+    },
+    "text": "그래봤자 구형 더미들일 뿐인데, 이렇게까지 고생할 필요가 있는 건가?"
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "BOSS-1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "스케어크로우"
+    },
+    "text": "구형 더미 외에도, 지하로 더 내려가면 대량의 사용 가능한 골리앗 폭탄이 있다.+그 그리폰의 인형들은...... 골리앗 폭탄을 보기만 해도 허겁지겁 도망치기 바쁘지."
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "MP446",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP-446"
+    },
+    "text": "철혈 인형들이 가동되었다가는......+기지가 위험에 빠질 거야......!+......으으..... 왜, 왜 이렇게 되어버린 거야......"
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "엑스큐셔너"
+    },
+    "text": "흥, 이렇게 기습에 성공해봤자, 결국 공로는 전부 인트루더가 차지하게 되는 거 아냐?"
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "스케어크로우"
+    },
+    "text": "불평은 삼가라. 보아하니, 이곳의 더미들은 보관상태가 양호하군.+제어실로 가자, 더미들을 지휘 네트워크에 연결하면 우리 임무는 끝이다."
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "text": "......엑스큐셔너와 스케어크로우의 목소리가 멀어졌다."
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "MP446",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP-446"
+    },
+    "text": "우으...... P7, C96 그리고 M1919까지 설마 이미......+안 돼, 지금 도망친들 아무런 소용없어...... 어떻게든 최대한 빨리 철혈을 막아야 해!+하지만...... 어째서 이렇게......+지금 다른 애들이 있었다면 좋을 텐데...... 적어도......"
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "text": "......MP-446은 떨면서 곁에 있는 더미 소체를 바라보았다."
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "MP446",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP-446"
+    },
+    "text": "......+......C96?"
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "MP446",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP-446"
+    },
+    "text": "네가 지금만은 C96이 되어줄래?"
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "text": "......MP-446은 그 더미의 머리를 뽑아냈다."
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "MP446",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP-446"
+    },
+    "text": "......+............+큰일났어! C96, 내 말 좀 들어봐!+철혈이 방금 이곳에 왔어, 녀석들이 이것들을 가동시켰다간, 기지가 위험해질 거야!+......맞아! 우리가 겁먹어서야 되겠어!? 우리들이 반드시 막아야 해!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "......"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "character": [
+      {
+        "name": "MP-446"
+      }
+    ],
+    "text": "방금 그 철혈이 이 밑에 골리앗 폭탄이 잔뜩 있다고 했어......+응, M1919. 나도 알고 있어. 그걸 가져와서 여기서 터트린다면 이 더미들을 처리할 수 있을 거야!+이 밑으로 가면 아마 그 폭탄을 찾을 수 있겠지......!"
+  },
+  {
+    "background": {
+      "id": 47
+    },
+    "screenEffect": "dark2",
+    "character": [
+      {
+        "name": "MP446",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP-446"
+    },
+    "text": "으...... 깜깜해...... 여긴 대체 얼마나 깊은 거야......!+아니야! 하나도 무섭지 않아!+다행히 너희도 여기 있으니까, 모두 함께라면 아무런 걱정 없어!+C96, 웃지 마. 너도 여기 있었다면 분명 바지에 오줌을 지렸을 거라고.....+아니지, 치마였던가...... 어, 잠깐만......"
+  },
+  {
+    "background": {
+      "id": 47
+    },
+    "text": "......MP-446은 잠시 C96의 복장을 떠올렸다."
+  },
+  {
+    "background": {
+      "id": 47
+    },
+    "character": [
+      {
+        "name": "MP446",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP-446"
+    },
+    "text": "됐어, 어쨌든 계속 들어가보자!"
+  },
+  {
+    "text": "......MP-446은 더미의 머리를 품에 안은 채 계속 나아갔다.+이윽고 \"주의! 다가가서 폭발함!\"이라는 문구가 적혀있는 문 앞에 도착했다."
+  },
+  {
+    "background": {
+      "id": 47
+    },
+    "character": [
+      {
+        "name": "MP446",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP-446"
+    },
+    "text": "\"폭발함\"...... 그렇다면 여기가 맞겠지?+따라오진 않았으려나...... 설마 들키진 않았겠지......?"
+  },
+  {
+    "background": {
+      "id": 47
+    },
+    "screenEffect": "dark1",
+    "text": "MP-446은 어둠 속에서 긴장하며 뒤를 돌아보았다.+귀를 기울여 보았지만 들리는 것은 자신의 숨소리뿐이었다.+잠시 후, 문을 열었다."
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "screenEffect": "dark2",
+    "character": [
+      {
+        "name": "MP446",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP-446"
+    },
+    "text": "아으...... 이럴 줄 알았다면 뒤 돌아보지 않는 건데, 오히려 더 신경 쓰이잖아......+전부 C96, 네 탓이라고... 어...... 어떻게 여기에 골리앗이 이렇게나......+게다가 전부 붉은색으로 칠해져 있는 건 대체......+그런데...... 이거 하나 밖에 못 가져가겠네......+더미들은 전부 처리할 수는 없지만, 적어도 폭발 소리가 나면 기지에서 발견하겠지......"
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "character": [
+      {
+        "name": "BOSS-1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "스케어크로우"
+    },
+    "text": "어디서부터 손을 대면 좋을지 모를 정도로 허술한 계획이로군."
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "sound": {
+      "bgm": "BGM_Danger"
+    },
+    "character": [
+      {
+        "name": "MP446",
+        "face": 0
+      },
+      {
+        "name": "BOSS-1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP-446"
+    },
+    "text": "으아아아악!+네, 네가 어째서 여기 있는 거야!?"
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "BOSS-1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "스케어크로우"
+    },
+    "text": "너는 내가 널 발견하지 못할 거라 생각한 건가?+정말로 이상하군. 됐다, 별로 중요한 일도 아니니까. 처음 만나는 거지만, 여기서 죽어라."
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP-446"
+    },
+    "text": "우아아아아아앗!"
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "BOSS-1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "스케어크로우"
+    },
+    "text": "......흐응?"
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "text": "......스케어크로우는 MP-446을 잡으려 했지만, 내던져진 더미의 머리에 맞았다.+그 틈을 타서 MP-446은 골리앗 무리 속에 숨어들었다."
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "BOSS-1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "스케어크로우"
+    },
+    "text": "......"
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "MP446",
+        "face": 0
+      },
+      {
+        "name": "BOSS-1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP-446"
+    },
+    "text": "어때! 이러면 못 쏘겠지!?+아차 했다간 여기가 \"콰쾅!\"하고 다 날아가 버릴 거라고!+어디 쏴볼 테면 쏴봐! 어서!"
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "MP446",
+        "face": 0
+      },
+      {
+        "name": "BOSS-1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "스케어크로우"
+    },
+    "text": ".........내 두 손으로도 너를 갈기갈기 찢어 놓을 수 있다."
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "MP446",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP-446"
+    },
+    "text": "해볼 테면 해보시지!+이거나 먹어랏!"
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "text": "MP-446은 곁에 있는 골리앗 폭탄을 집어 들고 스케어크로우를 향해 던졌다.+그리고 다른 하나를 품에 안았다."
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "character": [
+      {
+        "name": "BOSS-1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "스케어크로우"
+    },
+    "text": "흥...... 계산범위 내의 저항이다. 쓸데없는 짓이다."
+  },
+  {
+    "background": {
+      "id": 88
+    },
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "MP446",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "MP-446"
+    },
+    "text": "누가 너랑 싸운대! 바보!+잘 있어라, 멍청아! 바이바이!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "text": "MP-446은 붉은 골리앗 폭탄을 품에 안고 스케어크로우를 피해 달아났다.+다시 깜깜한 복도로 달려가, 철혈의 더미 창고로 향했다."
+  }
+]

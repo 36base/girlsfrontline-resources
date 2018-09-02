@@ -1,0 +1,468 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 157
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Sneak"
+    }
+  },
+  {
+    "text": "결국 리벨리온은 구조대의 신호를 찾는 것을 포기했다. 하지만 철수작전은 계속되었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "이곳의 오염지수는 매우 낮습니다. 비록 아직 안전한 것은 아니지만, 잠시 동안은 안젤리아에게 치명적이진 않을 겁니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "축하해, 안젤리아, 좀 더 살 수 있겠네."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "난 전혀 나은 느낌이 없어. 뭐 그래도 너희가 그렇게 말한다면..."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "구조대의 신호를 포기한 이상, 오염이 낮은 구역으로 계속 나아갈 수밖에 없습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "혹은 빨리 기회를 봐서 구조요청 신호를 보내서 구조대의 연락을 청해야지."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "지금 주변은 온통 군의 부대로 신호를 보내기엔 너무 위험합니다.+그리고 약간의 기척만으로도 감염자가 나타날 수 있습니다. 구조대가 늦기라도 하면, 저희 인형 둘만으로는 힘들 겁니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "어휴, 넌 너무 보수적이야, AN94."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "다른 선택의 결과에 확신이 없는 이상, 전 지금의 선택을 유지하고 싶습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "결정하는 건 네가 아니야. 안젤리아, 결정해."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "음... 잠깐만..."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se1": "Reload"
+    },
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "주의, 소리가 들립니다!"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Danger",
+      "se1": "Gunfight",
+      "se2": "MachineGunBurst"
+    },
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "군의 인형이에요! 우리를 향해 달려오고 있어요!"
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "se1": "RunStep"
+    },
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "전방에 폐기된 방어선이 있습니다, 우선 안젤리아를 데리고 숨으십시오!"
+  },
+  {},
+  {
+    "background": {
+      "id": 9
+    },
+    "sound": {
+      "se1": "Explode",
+      "se2": "Gunfight"
+    },
+    "text": "쾅! 쾅!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "안젤리아, 서둘러요! 다 왔어요!"
+  },
+  {
+    "background": {
+      "id": 157
+    },
+    "screenEffect": "dark2",
+    "text": "군의 폭격을 피하면서 리벨리온은 허둥지둥 엄폐 속으로 숨었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "헉... 허억... 제기랄!+어쩔 수 없겠어. AN94, 신호탄 발사해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "라저!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "어떻게 이렇게 빨리! 계속 흔적을 남기지 않았을 텐데!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "조직된 움직임이야... 아까와는 달라!"
+  },
+  {
+    "text": "<color=#00CCFF>치직, 치지직.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "？？"
+    },
+    "text": "<color=#00CCFF>안젤리아...</color>+<color=#00CCFF>과연 나를 실망시키지 않는군.</color>"
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "text": "총소리와 노이즈 속에서 한 남자의 목소리가 뚜렷하게 통신기의 공개채널에서 흘러나왔다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "<color=#00CCFF>네년이 그 폭발에서 살아남을 수 있었던 건, 내가 이 손으로 널 죽일 수 있게 하기 위해서였지.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "예고르...+아무래도, 너도 상태가 안 좋아 보이는데..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "예고르"
+    },
+    "text": "<color=#00CCFF>난 기분이 아주 좋다, 설마 여기에 배치를 끝내자마자 나타날 줄이야.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "다 예상했다는 건가?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "예고르"
+    },
+    "text": "<color=#00CCFF>그린존으로 통하는 경로는 얼마 없지. 네년이 살아있다면 분명 이곳을 지날 것이야.</color>+<color=#00CCFF>네년의 감염상태도 오래 못 가겠지, 항복할 테냐?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "좀비가 된 전우를 위해 애도할 시간은 없었니?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "<color=#00CCFF>좋아, 네년은 포격으로 죽이지 않겠다.</color>+<color=#00CCFF>그래야 이 손으로 널 끄집어내 내 부하를 위해 복수를 할 수 있으니 말이다!</color>"
+  },
+  {
+    "text": "안젤리아가 통신을 끊었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "탱크를 몰고 올 셈이야! 구조대가 올 때까지 기다려!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "정말로 올 것 같나요?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "안 오면 여기서 죽는 거지! 빨리, 콜록!+쓸 수 있는 모든 수단으로 방어선을 지켜!"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  }
+]

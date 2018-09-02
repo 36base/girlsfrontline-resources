@@ -1,0 +1,45 @@
+[
+  {
+    "background": {
+      "id": 10
+    },
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "지휘관님, 벌써 와계셨나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "이번에도 힘내도록 하죠, 이쪽으로 오세요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "이게 새 좌표예요. 그리폰은 이쪽의 데이터를 회수하기를 원하더라구요.+이게 마지막이었으면 좋겠네요.+좋아요. 지휘관님, 출발 준비!"
+  }
+]

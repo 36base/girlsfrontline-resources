@@ -1,0 +1,168 @@
+[
+  {
+    "background": {
+      "id": 4
+    },
+    "sound": {
+      "bgm": "BGM_Sunshine"
+    },
+    "text": "......그리폰 휴게실."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "지휘관님, 오늘은 지시받은 특별한 임무가 하나 있어요.+AR팀과 관련이 있기 때문에 그녀들이 설명을 해줄 거예요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "......M4A1?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "아, 죄송합니다.+지휘관님, 오신 걸 눈치채지 못했어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "드문일이네요. M4 씨도 멍때릴 때가 있다니."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "멍때리다뇨? 아니, 전 그저..."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "그게 말이죠, M4 씨는 항상 멍하게 있는 것 처럼 보이거든요. 진짜로 멍하니 있었을 줄은 몰랐어요."
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "네 뭐...멍 때렸다고 치죠.+아니면...뭔가를 생각하고 있었다고 해야할까요.+그렇지만...주제로 돌아가도록 하죠. 이번에 지휘관님을 찾은 이유는 보고를 할 상황이 있었기 때문이에요.+제 팀이 저번의 작전자료를 정리중에 근처의 좌표 한곳이 변조된 것을 발견했습니다."
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "바로 여기, 버려진 데이터베이스예요.+데이터베이스 자체는 문제 없지만, 현재 좌표와 이전에 표시된 위치가 부합되지 않아요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "맞아요. 이건 아주 드문 상황이에요. 지휘관님, 한 번 가서 조사해 보실래요?+만약 철혈의 새로운 기만 전술이라면 우리는 큰 공을 세울 수도 있다고요!"
+  }
+]

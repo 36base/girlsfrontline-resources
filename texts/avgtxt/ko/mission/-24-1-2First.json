@@ -1,0 +1,2035 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "9A91",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "9A91"
+    },
+    "text": "<color=#00CCFF>카리나 씨, 군의 탱크가 거점을 돌파했어요! 퇴각해도 될까요?</color>"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Danger"
+    },
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "9A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "자, 잠깐만! 아직 남아있는 사람들이..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "톰슨"
+    },
+    "text": "<color=#00CCFF>군의 탱크가 너무 많아, 우리 방어선은 이미 무너졌어!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "저, 정말 다른 방법 없어? 군에게 거점을 뺏겼다간 모두 철수할 수 없고, 지휘관님까지..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "톰슨"
+    },
+    "text": "<color=#00CCFF>어쩔 수 없어...</color>+<color=#00CCFF>아무래도... 여기까지인가 보다.</color>"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "어떡해... 정말... 끝장인 거야...?+지휘관님...+오늘이 정말로... 끝인 건가요...?"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "..."
+  },
+  {
+    "screenEffect": "white1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "내 경험은 알고 있다. 종말이 다가올 땐 분명 기적이 일어난다는 것을."
+  },
+  {
+    "background": {
+      "id": 159
+    },
+    "screenEffect": "white2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "9A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "9A91"
+    },
+    "text": "저 빛은...! 대체 뭐죠!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "se2": "Alarm"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "혹은 종말 그 자체가 기적일 수도 있다, 살아남을 수만 있다면.+바로 지금처럼..."
+  },
+  {
+    "background": {
+      "id": 161
+    },
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "Explode"
+    },
+    "characters": [
+      {
+        "name": "M1928A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "톰슨"
+    },
+    "text": "모두 엎드려!!"
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "꺄아아아아아!!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "우리는 이 종말 덕분에 목숨을 건졌다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "...+... ?? 시간 후"
+  },
+  {
+    "background": {
+      "id": 161
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "콜록... 켁켁!+모두 괜찮아? 콜록!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M1928A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "톰슨"
+    },
+    "text": "<color=#00CCFF>우린 괜찮아...</color>+<color=#00CCFF>방금 그건 뭐였지?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "9A91",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "9A91"
+    },
+    "text": "<color=#00CCFF>초록색 빛... 그러자 제 마인드맵이 잠시 끊어지고, 그리고...</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "M1928A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "톰슨"
+    },
+    "text": "<color=#00CCFF>잠깐...</color>+<color=#00CCFF>적들이... 멈췄어? 놈들 지금 반응이 없어!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "9A91",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "9A91"
+    },
+    "text": "우리... 살은 건가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "정말...? 콜록.+어찌 됐든, 다행이야... 콜록콜록!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "톰슨"
+    },
+    "text": "<color=#00CCFF>모두 일어나! 즉시 방어선을 복구해. 적이 언제 다시 덮칠지 모른다!</color>+<color=#00CCFF>카리나, 물자보급이 필요해, 빨리!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "M1928A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "알았어, MP40의 군수소대를 보낼게, 콜록!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      },
+      {
+        "name": "9A91",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "9A91"
+    },
+    "text": "<color=#00CCFF>카리나 씨, 상태가 심상치 않아요, 그건 설마...</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "괜찮아, 알러지일지도... 콜록...+잠깐... 이거... 이거 설마..."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "카리나는 방금 그 초록색 빛이 무엇인지 번뜩 생각나, 다급히 통신을 연결했다."
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 8
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "지휘관님! 지휘관님 괜찮으세요? 방금 그 붕괴액의 영향을 받지 않으셨나요?+지휘관님, 지휘관님 대답해주세요!+지휘관니임!!!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "하지만 어떨 때는, 살아남는 게 다행인 것은 아니다.+지옥을 벗어났을 때, 눈 앞을 비추는 이 빛이 천국에서 왔는지, 꿈인지, 혹은 현실인지 알 수가 없다."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "？？"
+    },
+    "text": "제가 보이십니까?+제소리가 들리십니까?"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "불쾌한 빛과 생명측정기기의 삑삑 소리가 나를 깨웠다. 머리가 어지럽다..."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "？？"
+    },
+    "text": "말을 할 수 있다면, 고개로 말할 필요 없어요."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "？？"
+    },
+    "text": "저희를 보세요, 지금 상태가 어떠십니까?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "3시간 후."
+  },
+  {
+    "background": {
+      "id": 146
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Brain"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "？？"
+    },
+    "text": "안녕하십니까, 그리폰의 지휘관님.+먼저... 침착하세요, 긴장을 푸시고.+당신께 할 말이 있습니다.+꼭 진정하셔야 합니다, 지금까지 당신 혼수상태였습니다...+... 네, 알고 싶을 겁니다, 자신이 얼마나 정신을 잃었는지..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "？？"
+    },
+    "text": "당신은...+9주일 동안 정신을 잃었습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "지금 내가 있는 곳은 지옥의 다음 층이 분명했다."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "다음 날."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "？？"
+    },
+    "text": "... 9주일 전, 대규모의 붕괴액 폭탄이 폭발해, 당신은 중상을 입었습니다.+그리고 저희의 치료를 통해 의식을 되찾았습니다.."
+  },
+  {
+    "background": {
+      "id": 146
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "？？"
+    },
+    "text": "그리폰의 지휘관님, 이제 정신이 들었으면, 업무를 시작하시죠."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "...<c>너희는 누구지?<c>나는 누구지?<c>M4...A1...?"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "？？"
+    },
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "아무런 대답 없이, 계속 자신이 할 말만 하고 있다.+떠올랐다, 난 저들을 본 적이 있다. 오염폭탄이 터진 후 나타나, 그리고...+...+하지만 이렇게 가까이서 보는 것은 처음이다. 익숙한 느낌이 드는 건 나의 착각일까?"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>니토(Nyto)라고 했나?<c>무슨 말이라도 할 수 없나?<c>물이라도 줄 수 있을까?"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "니토는 아무 대답도 없지만, 나를 쏘아보는 시선이 더욱 집중되었다.+그 눈빛에 불쾌감이 들었다, 초기형 인형의 눈빛보다도 불쾌감을 주었다.+아무런 감정도 없고, 아무런 호기심도 없이, 그저 날... 보고만 있었다.+저들 눈엔 내가 어떻게 보이는 걸까? 어쩌면 그저 업무를 위한 시험지로 보이는 것일지도 모른다."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "니토들은 아무 반응이 없다, 마치 아무 감정도 성격도 없는 기계처럼.+전장에서 보았을 때, 저들은 눈에 보이는 것들을 닥치는 대로 사냥했다... 나의 인형이든, 나 본인이든...+군보다도 역겨운 적이지만, 지금 이 상태로는 아무것도 할 수 없었다."
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "？？"
+    },
+    "text": "마시게 될 겁니다, 여기선 말고요."
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "니토들이 입을 열었다, 믿을 수 없는 목소리가 나왔다.+들어본 적이 있는 목소리지만, 떠오르지 않아 날 불편하게 만든다.+어쩌면 방금 일어났기 때문에 정신이 흐릿한 것일지도 모른다. 어쩌면 정말 물이 부족한 것일지도..."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "그리폰의 지휘관님, 당신은 저희의 주인님에 의해 감금됐어요."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "난 이 목소리가 불편하다, 왜 불편한지는 모르겠지만. 저들의 목소리는 뚜렷하면서도, 공허하고... 익숙했다."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "자유를 바라신다면, 붕괴액 폭탄이 폭발한 이후, 당신이 아는 모든 것들을 진술하셔야 합니다."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "...<c>잘 기억이 안 날 수도 있다.<c>누가 알고 싶어 하는 거지?"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "저희가 사실 검증을 해서, 모순이 발생하면 당신께 징계를 주어 수정시키겠습니다."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "니토는 대답이 없다, 움직이지도 않고, 대답을 피하는 기색마저 보이지 않는다. 내 문제는 마치 별똥별에 빈 소원처럼 대답이 없다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "그럼 일어나세요.+10초 안에 실시하지 않으면 반항행위로 간주하여, 강제수단을 사용하겠습니다.+...10.+...9.+...8"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "...7.+...6."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "...+갑자기 저 인형들이 침묵에 빠졌다.+그리고..."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토？"
+    },
+    "text": "지휘관?"
+  },
+  {
+    "background": {
+      "id": 147
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "한 니토만 날 지켜보고 있었다, 다만 방금과는 완전히 다른 눈빛이었다."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토？"
+    },
+    "text": "오랜만이네."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>누구냐?<c>지금 성대모사 놀이하는 건가?"
+  },
+  {
+    "spot": "1",
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그 인형은 왼손 검지로 왼눈을 위아래로 그었다.+저게 무슨 뜻이지? 잠깐 생각을 해보자, 한 가지 답이 떠올랐다..."
+  },
+  {
+    "spot": "2",
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토？"
+    },
+    "text": "그러고 노는 걸 좋아하는 거야? 하지만 지금은 안 돼. 도와주러 왔으니까, 그냥 듣기만 해."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토？"
+    },
+    "text": "이 육체에 이렇게 복잡한 신경망이 있는 줄은 몰랐어, 이 모조의식을 식별하고 해킹하는 데 엄청 시간이 걸렸어.+그래도 잠시나마 니토의 전자 신경에 침입할 수 있었고, 침입을 들키지 않기 위해 이번엔 4명 모두 해킹했어.+다만 동시에 여러 명을 해킹하는 건 1주일이나 준비해야 할 정도로 힘들어서, 두 번 다시는 못해.+해킹할 때마다 2분씩만 제어할 수 있으니까 짧게 말할게.+지금 구해주러 왔어, 지휘관."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>정말 오래 기다렸다.<c>너말고 또 누가 있지? 너희는 안전한가?"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토？"
+    },
+    "text": "미안해, 이곳을 찾는 것만으로도 엄청 오래 걸렸고... 나도 저번 싸움에서부터 금방 회복된 참이야."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토？"
+    },
+    "text": "우릴 신경 써주다니 감동인걸. 하지만 우선 자신 걱정부터 해, 지휘관."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토？"
+    },
+    "text": "일단 먼저, 이 니토들은 당신의 몸에서 정보를 얻으려 하고 있어. 뇌에서 정보를 뽑아내려 했지만, 보다시피 실패해서 당신 본인을 깨운 거야.+우린 지금 잠입 작전을 준비 중이니까, 되도록 요놈들 상대로 시간을 벌어줘.+저번 전투에서 일어난 일을 물었지?+거짓말하든 진실을 말하든 되도록 시간을 끌어, 작전에 빈틈이 없도록 많은 준비를 해야 하니까.+좀 고생할 거야, 이 \"인형\"들은 심문만을 위해서 태어났거든. 그래도 임무를 달성하기 위해서 당신의 협력이 필요해."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>이야기를 지어내라는 건가?<c>한 번 해보겠다.<c>나는 타고난 거짓말쟁이다."
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토？"
+    },
+    "text": "인간이 잘하는 일이잖아, 당신도 할 수 있을 거야."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토？"
+    },
+    "text": "그럼 힘내봐, 지휘관. 어떻게 지어도 괜찮으니까 시간을 벌어줘."
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토？"
+    },
+    "text": "어머? 그래?"
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그 니토는 눈을 반쯤 감았다."
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토？"
+    },
+    "text": "소문으로는 들었는데, 다음에 만나면 천천히 얘기해줘."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토？"
+    },
+    "text": "시간이 됐어, 당신 몸에 초소형 통신기를 붙여놨어, 아주 짧은 거리에서만 신호를 전송할 수 있어.+때가 되면, 이 4명의 니토 중 아무 하나에 침입해 내부에서 구해줄 거야.+위급한 상황이니까 당신도 직접 싸워야 할지 몰라. 권총을 찾아서 구속기 밑에 숨겨뒀어, 어떻게 쓰는지 알지?"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>날 얕보지 마라.<c>꼭 써야 하나?"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토？"
+    },
+    "text": "흐흥, 그것참 실례했네. 지휘관, 활약을 기대할게."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토？"
+    },
+    "text": "최대한 그럴 필요 없도록 하겠지만, 보장은 못 해.+지휘관, 여기도 전장이니까 망설임은 금물이야."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토？"
+    },
+    "text": "그리고, 어느 니토에게 들어갈지는 나도 모르니까, 그때면 헷갈리지 않도록 암구호를 말할게.+잘 들어, 암구호는...+\"불행을 선사하러 왔습니다\"야."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>누가 생각한 암구호지?<c>답어는 없나?"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토？"
+    },
+    "text": "그냥 내가 좋아하는 말이야."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토？"
+    },
+    "text": "대답은 필요 없어, 녀석을 해치지만 않으면 돼."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토？"
+    },
+    "text": "잘 들었지? 암구호를 말하면, 그 니토는 내가 제어하는 거니까, 아무 말 말고, 다치게만 하지 마.+녀석을 통해서 방문을 열어 탈출해야 하니까, 꼭 명심해.+이제 잘 알았겠지. 그러니까 안심해, 지휘관. 우리가 꼭 구해줄게.+다만 그때까지 참아줘, 이제 끊을 테니까, 행운을 빌게."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "...5.+...4."
+  },
+  {
+    "background": {
+      "id": 146
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Brain"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "잘하셨습니다, 지시에 따라주셨군요. 그것도 6초 만에.+그럼 저희와 취조실로 와주세요."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "나는 니토를 따라 취조실로 이동했다.+정확히는 따라간 게 아니라, 끌려갔다. 도중에 여러 주변의 여러 모습을 보았다."
+  },
+  {
+    "background": {
+      "id": 158
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "취조실."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "그리폰의 지휘관님, 구속기를 풀려고 하지 마세요, 지금 움직일 수 있는 건 입뿐입니다.+당신의 기억이 필요합니다. 먼저 전장에서 어떻게 살아남았는지 말하세요.+자세하게 말하세요, 어떻게 살아남았는지, 어떻게 그 세이프 하우스에 도착했는지 다 말하세요.+그 사실이 필요하니, 꼭 똑바로 말하세요."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그래, 내게 유일하게 확실한 건, 내가 살아남았다는 것이다...+그 폭발 속에서 살아남았다는 사실."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "...+그 때, 뭔가 거대한 힘이 나를 깨웠다, 난 뭔가에서 풀려나 바닥에 세게 부딪혔다.+시간은 매우 느리게 흘러갔고, 난 천장을 바라보며, 숨을 몰아쉬며, 바닥에서 허우적거렸다.+그때, 두 그림자가 다가오자 난 본능적으로 엎드려 눈을 감았다.+여긴 어디지? 무슨 일이 일어난 거지? 저 둘은 누구지? 적? 아니면..."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "침착한 목소리"
+    },
+    "text": "... 지휘관님? 지휘관님 깨어나셨나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "성급한 목소리"
+    },
+    "text": "야, 지휘과안!+야 이 지휘관아, 얼른 일어나!+안 그럼 아예 질질 끌고 카리나한테 데려간다!"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>난 깨어있다.<c>기절한 척한 걸 들켰나?<c>그리폰의 인형인가?"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "성급한 목소리"
+    },
+    "text": "깼으면 시간 끌지 말고 눈 뜨고 일어나!"
+  },
+  {
+    "screenEffect": "dark1",
+    "spot": "1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "침착한 목소리"
+    },
+    "text": "지휘관님을 흔들지 마세요, 인간의 머리는 그렇게 흔들면 못 버텨요."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "성급한 목소리"
+    },
+    "text": "호흡이 계속 변하는걸, 다 감지할 수 있어!"
+  },
+  {
+    "screenEffect": "dark1",
+    "spot": "2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "침착한 목소리"
+    },
+    "text": "사람의 숨결, 그리고 시선, 눈에 초점이 있는 것을 보았습니다."
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "성급한 목소리"
+    },
+    "text": "당근이지! 난 지금 의심의 여지 없는 그리폰의 인형이라고!"
+  },
+  {
+    "screenEffect": "dark1",
+    "spot": "3",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "침착한 목소리"
+    },
+    "text": "지휘관님, 여기는 안전하니 걱정하지 마세요... 잠시 동안은요."
+  },
+  {
+    "background": {
+      "id": 85
+    },
+    "screenEffect": "blink",
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "처음 뵙겠습니다. 그리폰 전술인형 M82A1입니다.+물론 절 모르시겠죠, 하지만 전 지휘관님을 알고 있습니다, 아주전부터 지켜봐 왔으니."
+  },
+  {
+    "characters": [
+      {
+        "name": "M870P",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M870P"
+    },
+    "text": "M870P, 그리폰.+야, 지휘관, 이제 확실히 깼지?"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>구해줘서 고맙다.<c>나를 어떻게 찾았지?<c>여기는 어디지?"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "저흰 그저 명령에 따라, 지휘관님을 전장에서 세이프 하우스로 옮겨드렸습니다."
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "M870P",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M870P"
+    },
+    "text": "우리가 좋아서 이러는 줄 알어? 이럴 때 혼자 이런 곳에 오고 말이야, 다 니 때문에!"
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "카리나씨가 주신 좌표를 따라 둘이서 왔습니다."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "M870P",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M870P"
+    },
+    "text": "그래, 그럼 좀 포상해줘야지 않겠어? 너 때문에 여기서 죽을지도 모른단 말이야!"
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "아직 지휘실 안입니다. 지휘관님을 발견했을 때, 피폭으로 인해 기절하신 상태였습니다."
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "M870P",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M870P"
+    },
+    "text": "여긴 오염구역에서 그리 멀진 않아. 숨기에는 좋지만 들켰다간 안전한 곳이 아니야."
+  },
+  {
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "\"치료\"를 했으니 지금 움직이실 수 있을 것입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M870P",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M870P"
+    },
+    "text": "정확히는... 자극을 준 거지. 아드레날린 말이야, 약빨 하나 죽이네."
+  },
+  {
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "오염 자체도 심각하진 않습니다. 다른 증상이라면 적절한 치료 받아서 3개월 정도면 완쾌할 겁니다. 사람의 생활습관에 따라서 다르지만요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M870P",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M870P"
+    },
+    "text": "우리가 살려낸 목숨을 간수 잘하라고. 일단 여길 뜨고, 카리나랑 합류하자, 얼른 가자!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "M870P가 부축하려 해 손을 잡으려는 순간.+통신설비에서 잡음에 섞에 뚜렸한 메시지가 들려왔다..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "성숙한 여성소리"
+    },
+    "text": "<color=#00CCFF>그리폰은 이미 떠난 건가...</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "성숙한 여성소리"
+    },
+    "text": "<color=#00CCFF>결국 이렇게 되다니...</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카 목소리"
+    },
+    "text": "<color=#00CCFF>안젤리아...</color>"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "성숙한 여성소리"
+    },
+    "text": "<color=#00CCFF>하아... 그럼 어쩔 수 없지, 그래도 이렇게 될 줄은 몰랐다...</color>"
+  },
+  {
+    "background": {
+      "id": 85
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "지휘관님, 안 가시나요?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "저 목소리를 듣자, 이 대로 끝낼 수는 없다는 것을 알았다."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "방금 그 내용과 이전에 진술한 내용, 저희가 보유한 정보와 완전히 일치합니다. 계속 업무를 진행하시죠.+당신은 철수할 기회가 있었지만 그러지 않았어요. 그 이유를 말하세요.+왜 남아서 다른 이들의 철수작업에 착수했는지.+그 때문에 당신은 저희가 원하는 정보를 얻게 된 겁니다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "......"
+  },
+  {
+    "background": {
+      "id": 85
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M870P",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M870P"
+    },
+    "text": "뭔 소리야? 지휘관, 남겠다고? 미친 거 아냐?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "인간이시여, 무슨 생각이시죠?"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>아직 구해야 할 사람들을 두고 떠날 수는 없다.<c>카리나가 아직 기지에 있다.<c>페르시카가 꼭 구해야 하는 사람이 있다고 말했다."
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "M870P",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M870P"
+    },
+    "text": "그리폰에게 넌 지금 그 인형들이나 인간들보다 훨씬 중요한 거 몰라?+확실히 원래부터 넌 그런 녀석이니까... 그래서 더 중요한 거겠지..."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "가장 충실한 보급관을 버릴 수는 없으시군요?+확실히 방법을 생각해야 하지만, 지금 그리폰의 기지의 상황은 매우 위급해서, 과연..."
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "그렇게... 중요한 사람인가요? 인간이시여, 어째서 그리 하려는 것이죠?"
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "M870P",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M870P"
+    },
+    "text": "일단 사장이 한 말로 해주자면.\"지휘관, 이상을 품고 전쟁에 참여할 수는 있지만, 전장에 온 이상, 현실을 마주 봐야 한다네!\""
+  },
+  {
+    "characters": [
+      {
+        "name": "M870P",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M870P"
+    },
+    "text": "뭐 됐어, 더 말할 필요 없어. 뭐라고 해도 남을 거잖아. 남은 사람들이 철수할 수 있도록 도울 생각이지?+우선 말해주지만, 우리 임무는 널 기지의 헬리포트에 데려가서 철수용 헬기에 태우는 거야.+카리나가 나한테 맡긴 최우선 임무로, 널 기절시켜서라도 데려오라고 했어."
+  },
+  {
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0
+      },
+      {
+        "name": "M870P",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "감정에 눈이 멀으신 겁니다, 지휘관님.+하지만, 그것이 인간과 저희의 차이이겠죠..."
+  },
+  {
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0
+      },
+      {
+        "name": "M870P",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M870P"
+    },
+    "text": "M82A1？너..."
+  },
+  {
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0
+      },
+      {
+        "name": "M870P",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "이 명령에 저항할 수 없어요, M870P. 지휘관님도 카리나씨를 지키기 위해, 그리폰을 지키기 위해 말씀하시는 거니까요.+지금은 이것이 최우선 임무입니다, 저희가 받은 그 어떤 명령보다 최우선입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0
+      },
+      {
+        "name": "M870P",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M870P"
+    },
+    "text": "흥...+그럼 맘대로 해, 해봤자 추가근무니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "M82A1",
+        "face": 0
+      },
+      {
+        "name": "M870P",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "여기의 지휘 콘솔과 통신설비는 멀쩡하니, 안심하고 지휘하세요. 저희는 적당한 지형을 찾아 이곳을 지키겠습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M870P",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M870P"
+    },
+    "text": "날 실망시키지 마, 지휘관아. 이 멋대로의 이상을 좇다 죽는 건 가장 꼴불견이니까."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "M82A1과 M870P가 문을 열고 나갔다."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M82A1"
+    },
+    "text": "한번 보여주시죠... 모든 인형에게 믿음을 받는 인간이 여기서 어디까지 해낼 수 있을지."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그렇게 나는 전장의 마지막 철수 작전을 완수하기 위해 내가 할 일을 시작했다."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "..."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "저희가 지닌 내용과 잠시 일치합니다.+그럼, 시간상으로 그보다 전의 내용을 말하세요.+AR팀의 M4 SOPMOD II의 행방을 말하세요, 그녀가 전장에서 어떤 일을 겪었는지.+그리폰의 지휘관님, 말하세요."
+  },
+  {
+    "background": {
+      "id": 158
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>군의 병사에게 사살당했다.<c>무슨 일이 있었는지 모른다.<c>너희를 한두명 죽인 것으로 기억한다."
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "안 죽은 것은 저희도 압니다.+살아남을 것을 저희가 직접 봤습니다, 그리니 얘기하세요."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "당신과 관계있는 것은 압니다, 마지막에 당신을 구출하는 작전에 참가한 것을 보았습니다. 분명 당신께 말한 일이 있을 겁니다."
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "저희는 그런 말에 화나지 않습니다. 다만 그 말은 그녀가 살아있다는 것을 인정하는 것이군요."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "더 이상 숨길 수는 없습니다, 그 인형이 겪은 일을 말하세요.+... 말해야 살려드릴 수 있습니다."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그럴싸한 이야기를 지어낼 시간이 몇 분 남았는지 계산해 보았다.+그리고 이야기 속에서의 우리는 어떤 모습일지, 영웅, 불행한 엑스트라, 아니면 그냥 시체나 연기할지 생각했다.+물론 거짓말의 대가는 잘 알고 있지만 상관없다. 내게 필요한 것은 시간이니까.+어차피 녀석들도 날 죽이지는 못하니, 어떻게 할지는 상상이 가고 나도 견딜 수 있다.+당하고 나서 내가 후회하지 않기를 바라야 하지만..."
+  },
+  {
+    "screenEffect": "dark1"
+  }
+]

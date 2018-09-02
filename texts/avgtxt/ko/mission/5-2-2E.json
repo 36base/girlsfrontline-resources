@@ -1,0 +1,206 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "AR팀이 지휘실에 진입했다.+............"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4 SOPMOD II"
+      }
+    ],
+    "text": "(손짓으로) \"실내에 인간 목표가 있음. \""
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "......(끄덕)+(손짓으로) 돌입 준비, 3, 2, 1..."
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "Explode"
+    },
+    "text": "......펑!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "text": "그쪽의 인간, 이쪽을 향하고 두 손을 드십시오!"
+  },
+  {
+    "characters": [
+      {
+        "name": "??"
+      }
+    ],
+    "text": "......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "text": "마지막 경고입니다. 손을 들지 않을 시 발포할 수 있습니다!"
+  },
+  {
+    "characters": [
+      {
+        "name": "??"
+      }
+    ],
+    "text": "너희들에게 그럴 권한은 없을텐데......"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "크루거"
+    },
+    "text": "......나를 향해선 말이야."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Sad"
+    },
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      },
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "......!!+정말 죄송합니다. 크루거 대표님!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "저의 직언을 용서해주시겠습니까, 크루거 님.+이건 저희가 받은 임무와 내용이 다른 것 같습니다.+그리고 적지에서 IFF도 사용하시지 않다니, 이건 너무 위험합니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "크루거"
+    },
+    "text": "만약 그 신호가 철혈의 권한검증을 통과하지 못한다면, 그거야 말로 더 위험하겠지.+새로운 장비는 아직 결함이 있어서, 내가 16LAB에 개량을 독촉할 예정이라네."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "설마 대표님은 그저......신 장비 실험을 위해서 오신 건가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "하지만 저희는 특수작전팀 입니다. 무슨 경호팀 같은게 아니란 말입니다!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      },
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "SOPII, 진정하세요!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      },
+      {
+        "name": "NPC-Kyruger",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "크루거"
+    },
+    "text": "......+난 여전히 자네들을 신뢰한다네.+이 곳의 정보를 얻고 나면, 새로운 임무를 자네들의 새 지휘관에게 전달해주겠네."
+  }
+]

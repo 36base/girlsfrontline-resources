@@ -1,0 +1,885 @@
+[
+  {
+    "background": {
+      "id": 99
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Brain"
+    },
+    "text": "......"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "아직까지도 저항 중인가? 상황을 보고해라."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "병사"
+    },
+    "text": "네! 그리폰의 테러리스트는 저희의 방어선을 뚫지 못하고 있으며, 포획 목표는 이미 궁지에 몰았습니다.+이제 곧 포획 성공합니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "좋다, 방심하지 말고 계속 진격해라."
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "병사"
+    },
+    "text": "네!"
+  },
+  {
+    "background": {
+      "id": 98
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "M4! 현장 상황을 보고해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15Mod",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AR15"
+    },
+    "text": "이제서야 왔냐...!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "45의 부상이 심각하고, 다른 인형들의 탄약도 거의 바닥났습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "미안… 안젤리아..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "내가 무리를 시킨 탓이야… UMP9, 404소대를 데리고 그리폰의 위치까지 철수할 수 있겠어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "아마 가능할 거야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "그럼 부탁하지. 철혈 쪽의 상황은 어때?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "엘더브레인은 이미 포위당했고, 철혈의 수비도 몇 분 버티지 못할 겁니다...+지휘관의 부대는 계속 전진 가능한가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "힘들어, 상대의 화력이 거세서, 그리폰도 전투 능력이 바닥날 지경이야..."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "그럼 이제 어떻게 하면 좋을까요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "그리폰에게 마지막으로 한 번 더 화력 유인을 부탁하고, 리벨리온은 나와 엘더브레인의 위치로 돌격을…"
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "안젤리아, 방해해서 미안한데, 에이전트의 신호가 사라졌어요!"
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "병사"
+      }
+    ],
+    "text": "대위님! 철혈의 최후 수비를 돌파하여, 엘더브레인 포획에 성공하였습니다!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "좋다, 즉시 포박하여 집결지로 이동한다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "장군, 엘더브레인 포획 완료, 현재 정거장으로 이동 중."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 2
+      },
+      {
+        "name": "NPC-Carter",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카터"
+    },
+    "text": "좋아, 즉시 집결지로 이동하게나."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 2
+      },
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "그리폰과 안전국의 잔여 부대는 어떻게 하겠습니까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 2
+      },
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카터"
+    },
+    "text": "전부 섬멸해라, 한 명도 빠짐없이."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 2
+      },
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "알겠습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "여기는 예고르, 엘더브레인은 자율 부대가 정거장으로 운송한다, 장갑 부대는 내 지휘에 따라 나머지 테러리스트를 섬멸한다."
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "병사"
+    },
+    "text": "네!"
+  },
+  {
+    "background": {
+      "id": 98
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "안젤리아! 군의 탱크가 늘어났어요!+지금 머리를 돌려 우리 쪽으로 오고 있어요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "칫! 이미 엘더브레인이 예고르 손에 잡힌 건가!+최악의 상황이 돼버렸어...!+.........+최종수단......+결국은 최종수단을 써야 할 때가... 온 건가......"
+  },
+  {
+    "background": {
+      "id": 134
+    },
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "text": ""
+  },
+  {
+    "background": {
+      "id": 98
+    },
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      }
+    ],
+    "text": ""
+  },
+  {
+    "background": {
+      "id": 134
+    },
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      }
+    ],
+    "text": ""
+  },
+  {
+    "background": {
+      "id": 98
+    },
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 4
+      }
+    ],
+    "text": ""
+  },
+  {
+    "background": {
+      "id": 134
+    },
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 4
+      }
+    ],
+    "text": ""
+  },
+  {
+    "background": {
+      "id": 98
+    },
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 4
+      }
+    ],
+    "text": ""
+  },
+  {
+    "background": {
+      "id": 134
+    },
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 4
+      }
+    ],
+    "text": ""
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 4
+      }
+    ],
+    "text": ""
+  },
+  {
+    "background": {
+      "id": 134
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_stage10"
+    },
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "...윽!"
+  },
+  {
+    "characters": [
+      {
+        "name": "미지의 소리"
+      }
+    ],
+    "text": "기억해? 처음 살인할 때의 느낌?+그 두려움, 불안함, 하지만 복수의 쾌감에.+넌 그만둘 수가 없었지."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "미지의 소리"
+      }
+    ],
+    "text": "넌 그들을 하나둘씩 죽였어, 마치 개미를 하나둘 쥐어 죽이듯이.+인형이 되어서도 똑같은 짓을 할 수 있을까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "닥쳐! 꺼져!+지금 내가 하지 못할 짓 따윈 없어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "미지의 소리"
+      }
+    ],
+    "text": "지금 이곳의 인형과 인간들을 희생한다 해도?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "..."
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "닥쳐! 닥치라고!!"
+  },
+  {
+    "background": {
+      "id": 98
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "M4는 기폭스위치를 내려보았다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "M4! 지금 터뜨려!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "안젤리아 씨..."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "...설마 지금 여기서 그걸...?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "여유가 없다고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "지금 이 거리에서 살아남을 수 있다고 생각해요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "안젤리아는 AK12를 바라보았다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "괜찮아, 너희는 임무를 계속할 수 있어."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "당신은 괜찮다 치더라도, 그리폰의 지휘관을 생각해 봐요!+아직도 군과 싸우고 있다고요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "그럴 여유 없어! M4! 터뜨려!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "젠장! 알겠습니다!"
+  },
+  {
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "Explode"
+    },
+    "text": ""
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "text": "M4는 스위치를 눌렀다.+귀청이 날아갈 듯한 폭음이 저 멀리에서 전해져오고, 강렬한 충격파가 뒤를 이었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "안젤리아"
+      }
+    ],
+    "text": "엎드려! 모두 엎드려!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "15! 절 붙잡아요! 날아가지 않게!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "AR15"
+      }
+    ],
+    "text": "최대한 노력하고 있다고!"
+  },
+  {
+    "background": {
+      "id": 124
+    },
+    "screenEffect": "dark2",
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "적 상황 알 수 있을까...?"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "신호가 엉망이야, 신호 탐지는 불가능해."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "육안 관측...+붕괴액 설치 포인트 500m 범위 내 일체 증발, 잔존 적 병력 없음."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "분명 그쪽도 엉망이 됐을 터… 지금 이 때에── 콜록...!"
+  },
+  {
+    "background": {
+      "id": 125
+    },
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "피? 안젤리아 씨!"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "별거 아냐, 살짝 피폭당했을...... 뿐이니까...+콜록! 콜록!+뭘 봐 인마! ...얼른 움직이지 않고!"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "그럼 당신은요?"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "날 신경 써서 어쩌려고?! 엘더브레인을 쫓아! 임무를 완수해! M4!"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "알겠습니다!"
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "리벨리온 소대를 이끌고...+반드시… 반드시 엘더브레인을 데려와!"
+  },
+  {
+    "background": {
+      "id": 126
+    },
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "...네! 모두 따라오세요!"
+  }
+]

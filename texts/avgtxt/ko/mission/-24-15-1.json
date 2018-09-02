@@ -1,0 +1,726 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 159
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Sunshine"
+    },
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "RO..."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "닥쳐."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "RO, 내 말 좀 들어봐..."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "입 다물라고! 걷기나 해!"
+  },
+  {
+    "screenEffect": "shockScreen",
+    "text": "털썩!+SOP2는 하마터면 넘어질 뻔했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "SOP2, 괜찮으세요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "으으... 괜찮아 괜찮아!+정말, 네가 떠들 때마다 제대로 몸을 움직일 수 없잖아."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "내 전자전 모듈이 뛰어난 걸 어떡해! 불만 있으면 그 몸을 나한테 주던가!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "미안, 나도 일부러 지휘관한테 말한 건 아니니까... 푸흡!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "일부러 맞잖아! 그 표정을 봐봐, 네 표정을 보라고!+지휘관님 앞에서 내가 이렇게 되어 버렸다고 말하지 말라고 했잖아! 그냥 죽었다고 말하라니까!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "하지만 말해야 지휘관도 안심하잖아. 네가 좀 참아."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "역시 죽으련다..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "싸우지 마세요, 이제 본부에 돌아가면 RO도 원래대로 돌아올 수 있잖아요."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "그것도 한참을 기다려야겠지...+Cx4, 지휘관님이 주신 안전 지점까지 얼마나 남았어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "바로 앞이에요, 저기..."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "SOP2, 고개 들어, 나 안 보이니까."
+  },
+  {
+    "sound": {
+      "se1": "ClothingUp"
+    },
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그래 그래~"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "임시 진지로 보이는데, 그리폰 스스로 세운 것 같진 않아."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "뭐 어때, 이런 거점 하나 있는 거로 만족해야지."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "그래요, 모두와 합류할 수 있어서 정말 다행이에요! 이제야 한시름 놀 수 있겠어요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "... 하지만, 역시 누군가 우릴 도와준 거겠지?+방금 지휘관님이 우릴 지원해준 중화기는 이미 PMC가 보유할 수 있는 범주를 넘었어."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그런 것까지 알아, RO?"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "이전에는 범죄자를 많이 상대했으니까, 모를 리가 없지.+3차 세계대전 이후로, 특별한 허가 없이 민간조직이 군용무기를 지닐 수는 없어."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "네, 저도 알고 있어요. 그래서 저희도 이런 반세기 전의 무기를 쓰는 거잖아요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "반세기를 훌쩍 넘은 무기를 쓰는 애들도 있는걸, 흐흥..."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "그래도 【각인】으로 수정되 성능을 얕보면 안 돼."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "근데 말이야, 방금 그런 중화기를 썼다는 건 우린 이미 평범한 PMC가 아니란 뜻이지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "군과 충돌이 일어난 시점부터 심상치 않게 되었지.+본부는 어떻게 됐을까..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "저, RO는 아직 모르시나요?+아, 맞다..."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "뭔데?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "아! RO, 다 왔어! 다 왔다고!+저기 봐! 안전 지점이야! 이제 안전해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "본부가 어떻게 됐다고?!+SOP2! 말하기 전에 들어갈 생각하지 마!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "앗! 오른팔이, 멋대로! 으아아아앗!"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "？？"
+      }
+    ],
+    "text": "씨끄럽네."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "...?!"
+  },
+  {
+    "text": "저 앞의 한 인형이 기다리고 있었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "너... 너는..."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_NightOPS"
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "이런 상황에서까지 꾸물거리고, 빨리 집합하라고 못 들었어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "저 인형, 어디서 본 것 같은데?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "네 눈엔 누구든 비슷하겠지. 잔말 말고 따라와.+곧 적의 다음 공세가 들어올 거야. 그전에 모두가 여기서 철수할 수 있도록 도와."
+  },
+  {
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "적이요? 군이 여기까지 왔나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "새로운 적이야."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "새로운 적?+군이 아니야? 철혈도 아니고?+그럼 뭐야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "나도 몰라.+그저 우리를 완전히 죽이려고 하는 것만 알고 있어."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "어... 그래?+뭐 그쪽에서 죽이러 온다면 나도 녀석들을 죽이면 되니까."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그게 바로 문제야.+저것들, 지금 우리를 죽이려 하는 놈들은...+... 무적이야."
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "dark2",
+    "text": "5분 후, 소대는 길을 가로막고 있는 의문의 적을 발견했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "저기 하얀 것들 보여, SOP2?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "응... 본 적 없는 녀석들이야, 저거 대체 뭐야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "몰라, 그냥 우리의 적인 것만 알고, 군하고 맞먹는 실력을 가지고 있어."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "여길 돌파해야 지휘관하고 만날 수 있는 거지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "지휘관님하고는 잠시 합류할 수 없어, 지금 그리폰은 이 적들을 상대하느라 순조롭게 철수도 하지 못하고 있어."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그럼 빨리 해치워 버리자! 저게 뭐든간에 모두를 해치게 해서는 안 돼!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "(SOP2... 좀 변한 건가?)"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "지금 우리에겐 지휘관님과 화력소대가 있어, 눈 앞의 이 정도 규모의 적을 상대하는 건 문제없어.+어서 해치우자, 바로 다음 거점에 구조를 가야 하니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "알았어! 그럼 우리에게 맡겨줘! RO, Cx4Storm, 지휘관에게 보여줄 첫 컴백 무대이니까 열심히 해야 돼!"
+  }
+]

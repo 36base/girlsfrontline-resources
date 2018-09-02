@@ -1,0 +1,854 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "............20분 후, 공장 안 연결통로."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "M16, 문은 아직 안 열렸어? +그냥 손에서 로켓 같은 거라도 발사해서 부숴버리는 건 안되려나?"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "미안하네, 군용 인형이 아니라서 네가 기대하는 그런 고급 파츠따윈 없거든. +하지만 철혈의 권한은 있으니, 암호를 푸는데 시간이 많이 걸리지는 않을 거야. +으......왜인지는 모르겠지만, 자꾸 이곳에서 같은 짓을 해봤던 것 같다는 생각이 들어......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "인형에게도 \"기시감\"이란게 있는 건가......흥미로운걸......+나한테 고마워 해, 네 계산 속도는 군용인형보다 훨씬 빠르니......이 정도 문쯤은 문제없이 뚫을 수 있을 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "하하......다음엔......차라리 멍청하게 만들어달라고. +그래야 아무 생각 없이 가서 싸우다 죽을 수 있을 테니까......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "내가 널 만든 건 그저 전장에 보내기 위해서가 아니거든...+맞다, M16......RO랑 SOPII와 연락이 닿았어."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "그런가......나쁘지 않네......+계속 말해, 듣고 있어."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "몸 상태는 아주 좋아......단지 정신상태가......조금 낙담한 것 같아."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 2
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "그건 알아, 내가 걔들을 떠났고 또 속이기까지 했으니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 2
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "후자는 아직 몰라. RO는 깨어있는데, 아직도 네가 돌아오기를 기다리고 있는걸."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "(한숨) 그거 참 안심되네, 안심 시키는걸 너무 잘해서 누가 인형인지도 모를 지경이야......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "미안, M16......그런데, RO는 마음에 들어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "그녀는 M4보다 적극적이지. 행동력도 있고, 결단력도 있어. 리더를 맡기에 더 어울리는 애야.+약간 충동적이긴 하지만 그것때문에 그녀를 싫어할 사람은 없겠지."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "그 AI의 성격은 나도 만족스러웠어. +이대로 수정하지 않고 놔둘 거야, AR팀의 인형들은 이대로 계속 가는 걸로 하자고."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "정말 수정하지 않을 거야? SOPII는 저번에 거의 통제를 벗어나기 직전까지 갔던걸."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "그것도......필요한 과정이야. +그래서 걔가 싫은 건 아니지?"
+  },
+  {
+    "text": "............M16이 쓰게 웃었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "그냥 안심이 안될 뿐이야......+뭐 다음부터는......실수할 기회도 많지 않을테니......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "그러면, 뭐 그녀들한테 남겨주고 싶은 건 있어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "아니, 딱히 없어. +남은 건 M4한테 맡겨야지, 난 걔를 믿으니까......"
+  },
+  {
+    "text": "............삑!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "됐다. +페르시카, 이제 들어간다."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "............M16이 문을 비틀어 열어 조심스럽게 안으로 들어갔다. +......그리고 숨을 짧게 들이마셨다."
+  },
+  {
+    "characters": [
+      {
+        "name": "페르시카"
+      }
+    ],
+    "text": "M16, 뭘 발견했지?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "모르겠어, 무슨 사육장 같은데......+솔직히 난 여기서 뭘 발견하든 놀라지 않을걸."
+  },
+  {
+    "background": {
+      "id": 54
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Boss"
+    },
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "현장은 이미 정리되어 있어서 정확히 무슨 일이 있었는지는 모르겠어......+하지만......아마 여기서 길렀던 것은......+괴물 정도가 아닐까? ......여하튼 좋은 건 아닐거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 3,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "그건 상관 없어, M16. +그 신호원을 찾아, 분명 뭔가가 있을 거야."
+  },
+  {
+    "text": "............M16이 몸을 굽혀 사육장의 구석을 훑어봤다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "발신기를 하나 찾기는 했는데......+이 신호가 뭔지 식별은 아직도 못하겠어......+철혈도 아니고 그리폰도 아니야. 내 마인드맵에는 대응하는 정보가 없어."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "역시......누군가가 온 적이 있었어, 나비 사건이 일어난 뒤에. +그 발신기를 검사해봐."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "유감이지만 평범한 발신기야. +내부에는 아무 것도 없어, 무슨 쓸모가 있을 것 같지는 않은데......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "그렇다면......이 방이야 말로 단서일 수도 있겠어."
+  },
+  {
+    "text": "............페르시카가 잠시 고민을 했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "M16, 이 방 안에 감시카메라가 있어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "있어, 이미 고장났지만."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "그러면......영상을 저장할만한 물건은 있어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "기다려봐......+찾았다! 구석에 제어판이 있어, 아래에는 대형 드라이브가 있고. +제어판은 꺼져있지만 램프 상태를 보건데 멀쩡한 것 같아. +만약 녹화된 영상이 있다면 아마 이곳에 있겠지......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "안에......분명 그날의 기록이 있을 거야. +제어판을 켜봐, 시스템에 침입할 수 있나 보자고."
+  },
+  {
+    "text": "............M16이 재를 쓸어내고 제어판을 켰다. +......제어판에서 경고음이 울렸다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "안 돼, 철혈이 시스템을 막아놨어. 안에 있는 내용은 못보겠는걸. +게다가 보안 등급이 너무 높아, 해킹은 추천하지 않아. +만약 하다가 실수라도 있으면 적을 불러오든가 내부 파일이 작살나든가 둘 중 하나일 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "역시......내부파일은 최고 권한으로 잠겨있다...이건가......+어쩔 수 없네, M16......+예비 플랜을 써야 할 것 같아......"
+  },
+  {
+    "text": "......M16이 트랜지스터 하나를 꺼내들었다."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "이거 맞지? +다시 한번 주사해도 문제 없는 건가? 저번에만 해도......스스로를 통제하기가 힘들었는데 말이야."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Truth"
+    },
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "결국 【우산】바이러스니까 말이야......뭐 개량을 하기는 했지만. +데이터 뱅크에서 처음으로 주사했을 땐 최저함량의 나노봇만 들어있었어. +너에게 한정적인 철혈 권한을 부여했었지, 또한 네 마인드를 오버라이트하는 속도도 한정적이었고. +12시간 안에 나한테 돌아올 수 있다면 수복할 수는 있었어......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "그렇게나 나를 생각해준 플랜이라니, 그것 참 고맙네......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "그 바이러스는 AR15에게서 얻은 샘플을 참고해 고친거야. +비록 사용하면 철혈에게 발견되지만 지휘관이 보호해주니 큰 위험은 없었지. +하지만, 이번 건..."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "흥......저번 것만큼 부드럽지는 않다는 말이겠지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "내 연구에 따르면 【우산】바이러스의 설계 의도는 인형의 클라우드 마인드맵을 오버라이트해 철혈의 통제를 받도록 하는거야. +도중에 마인드맵에 가해지는 손상은, 과정이 끝난 후에는 돌이킬 수 없지. +간단히 말하자면......이 두번째 트랜지스터, 안에 들어있는 나노봇 함량은 너를 철혈인형으로 변모시키는데 충분하다는 말이야. +네 인격, 네 기억. 네가 가지고 있는 모든 것들이......모두 사라지겠지."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "그리고 네가 원하는 건 내가 철혈으로 완전히 변하기 전에 데이터를 전송해라, 이거겠지."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "..................+말했지만, 임무를 시작한 순간부터 돌아갈 곳은 없었어......+M16, 그 뒤의 네가, 만약 살아있다 하더라도 지금의 네가 아닐 테니까......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "............+주사 후 나에게 주어지는 시간은 얼마나 되지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "20분."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "그러니까......그게 내 마지막 20분이란 말이지......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "M16A1, 나는 준비가 되었기 때문에 이 작전을 결행한거야. +M16, 너는 준비 됐어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "내 대답이 뭔지는 알텐데, 페르시카...... +그래도 마지막으로 확인은 해보자고, 이 드라이브 안에 있는 정보가 M4의 정신을 회복시킬 수 있다는 것이 확실해?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Persica",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "페르시카"
+    },
+    "text": "적어도......이게 분명 마지막 퍼즐일 거야."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "그런가......+그러면 다음 일은......훨씬 간단하겠네. +그럼 시작하자고..."
+  }
+]

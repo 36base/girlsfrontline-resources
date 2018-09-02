@@ -1,0 +1,152 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 161
+    },
+    "screenEffect": "spark",
+    "sound": {
+      "bgm": "BGM_Brain"
+    },
+    "text": "구조 작전을 중단하여, 구조부대는 방어선으로 밀려났다.+1시간 후, 적이 기지 여러 곳을 동시해 습격하여, 그리폰 제대는 처참한 피해를 입었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "결국 이렇게 되었구나...+지휘관님, 확실히 제가 신중하게 구조작전을 하자고 건의하였지만, 완전히 포기하란 뜻은 아니었어요!+적의 공세는 갈수록 거세지고 있고, 저희 작전 인원은 절대적인 열세에..."
+  },
+  {},
+  {
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "Explode",
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "쾅!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "...!+이미... 늦었나..."
+  },
+  {},
+  {
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "Battlefield",
+      "se2": "Explode"
+    },
+    "text": "쾅! 콰앙!+기지 사방에서 무서운 굉음이 들려왔다.+적의 총공격이 시작되었다.+그리폰의 남은 인형들은 도저히 이를 막을 수단이 없었다.+모두, 돌이킬 수 없게 되었다."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "closeSpark",
+    "text": "..."
+  },
+  {
+    "background": {
+      "id": 158
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "..."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Truth"
+    },
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "이해할수 없습니다, 지휘관님. 이런 상황에서도 그런 농담을 할 여유가 있다니."
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "퍼억!"
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "그런 농담, 몇 번을 해도 저희를 속일 수 없습니다."
+  },
+  {
+    "text": "이번에 녀석은 발, 혹은 발이라 부르는 무기를 썼다.+녀석이 손을 쓸 때가 좀 그리워졌다. 결코 그게 좋았단 것이 아니라, 지금에 비하면 상냥한 편이었기 때문이다.+위가 울렁거린다, 잔뜩 토해서 이 2개월 간 저 차가운 인형들이 내게 뭘 먹였는지 보았다.+바닥의 구토물과 피를 보지만, 확실히 맞아도 쌌다. 이렇게 어설프게 지어낼 게 아니었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "이제, 진술을 수정하세요.+HK416의 이후 행방 알고 있습니다, 하지만 지금 어디로 갔는지를 알아야 합니다. 이후에 발생한 일과 일치하는 진술을 하세요."
+  },
+  {
+    "text": "긍정적으로 생각하자...+적어도 이렇게 시간을 벌었다고. 이제 몇 번 더 견딜 수 있을지는 모르지만.+머리가 어지럽고 의지가 풀려가지만, 굴복할 수는 없다. 이제 이야기를 좀 더 그럴싸하게 지어보자...+진짜, 약간만 그럴싸해도 좋으니까."
+  },
+  {
+    "screenEffect": "dark1"
+  }
+]

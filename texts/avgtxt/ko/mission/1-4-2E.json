@@ -1,0 +1,232 @@
+[
+  {
+    "background": {
+      "id": 8
+    },
+    "sound": {
+      "bgm": "BGM_Sunshine"
+    },
+    "text": "......순조롭게 시험을 통과했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "정말 놀랍군요.+비록 임무를 성공할 거라고 예상하긴 했지만, 이렇게나 잘 해낼거라곤 생각조차..."
+  },
+  {
+    "background": {
+      "id": 8
+    },
+    "text": "......문이 열렸다.+카리나 씨가 들어왔다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "아! 헬리안 씨, 돌아오셨군요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "그래, 너한테 시험을 맡겼더라면 아마 또 연기됐겠지."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "무슨 소리를, 저번에 지휘관 성적도 분명 제시간에 올렸다고요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "그럼 이번은? 또 늦잠 잤다고는 하지 말도록."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "이번은 말이죠...으흐흐...."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 3
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "...? 뭘 그렇게 음흉하게 웃나?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 3
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "방금 다른 사람한테 들었다구요~"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 3
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "헬리안 씨가...저번에 결석하신...이 - 유."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 2
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "....윽!!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 2
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "정말 아쉽네요. 이번에도 미팅에 실패했다니..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 2
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "무, 무슨 소리를 하는건지 모르겠군!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 3
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "지휘관, 오늘은 여기까지 하겠습니다!+해, 해산!"
+  }
+]

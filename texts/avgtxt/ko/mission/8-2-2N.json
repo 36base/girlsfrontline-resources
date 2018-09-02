@@ -1,0 +1,724 @@
+[
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "text": "작전 종료, 포탑은 정지되었고, 화물을 회수할 헬리콥터가 무사히 착륙했다."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "IWS2000"
+    },
+    "text": "웰로드 씨, 철혈 포탑의 배선을 끊었어요."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "Welrod",
+        "face": 0,
+        "inCommunicationBox": true
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "웰로드"
+    },
+    "text": "정문의 불한당들도 방금 섬멸되었고, 현재 중요 화물을 헬리콥터에 싣는 중이다.+너희는 지금 어디에 있지?"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "Welrod",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "IWS2000"
+    },
+    "text": "다른 위협이 있을지 모르니 여러분의 탈출을 엄호할게요."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "Welrod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "웰로드"
+    },
+    "text": "알겠다, 감사하지, 너희들의 굳건한 끈기가 우릴 승리로 이끌었다."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "text": "통신 종료."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "IWS2000"
+    },
+    "text": "해냈어... 저희가 해냈어요!+방금 웰로드 씨도 저희 소대의 활약을 칭찬해 줬어요."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "Glock17",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "글록17"
+    },
+    "text": "헤헷, 이걸로 설욕할 수 있겠네! 그불게 녀석들도 이제 좀 잠잠해지겠지."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "Glock17",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "IWS2000"
+    },
+    "text": "그불게라뇨?"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "Glock17",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "글록17"
+    },
+    "text": "윽... 들켰다..."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "Glock17",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "IWS2000"
+    },
+    "text": "그불게에 저희 얘기가 올라왔었나요...?+저도 찾아봤는데 못 봤는걸요?"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "Glock17",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "글록17"
+    },
+    "text": "어, 어차피 이미 다 상관없잖아요, 이제 녀석들도 마인드 맵을 갈아씌울 때라고요!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "AUG",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AUG"
+    },
+    "text": "...+\"벌써 3월 15일이군.\" 카이사르는 암살 당하는 날 예언가에게 이렇게 말했죠."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "AUG",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "IWS2000"
+    },
+    "text": "\"3월 15일은 왔지만, 아직 지나가진 않았습니다.\"...+하지만 이 대화는 야사에서 먼저 나온 이야기고, 심지어 허구일 가능성이 높은 말인데요."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "AUG",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AUG"
+    },
+    "text": "임무는 아직 끝나지 않았다고 선의를 담아 주의를 드리고 싶었습니다."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "AUG",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "IWS2000"
+    },
+    "text": "저도 알아요… 웰로드 씨가 화물 회수를 마친 것을 확인하면 저희가 복귀할 차례예요…+다시는 모두를 저번과 같은 상황에 처하게 하지 않을 거예요!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "AUG",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AUG"
+    },
+    "text": "아무것도 기억 못 하시면서, 꽤나 과거의 실패에 얽매이는군요."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "AUG",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "IWS2000"
+    },
+    "text": "기억이 나지 않기 때문에 더욱 불안한 거예요."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "AUG",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AUG"
+    },
+    "text": "만약 이 앞에 어쩔 수 없는 사고가 발생하면, 당신은 또 한참을 자책하겠죠.+자신의 분수를 아세요, 당신은 황제도, 신도 아닙니다."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "AUG",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "IWS2000"
+    },
+    "text": "하지만 전 여러분의 대장이에요, 원래부터 모두 제가 다할 의무에요."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "AUG",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AUG"
+    },
+    "text": "등에 짊어진 짐은 처음엔 가벼워 보일지 몰라도, 시간이 갈수록 무겁게 느껴질 겁니다."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "Glock17",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "글록17"
+    },
+    "text": "저기 잠깐만요... SSG 모습이 안 보여요...+포탑을 멈추고부터 못 봤는데, 정찰이라도 나갔나요?"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "AUG",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AUG"
+    },
+    "text": "다른 일이 있어서 근처를 한 바퀴 돌고 있을 겁니다."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "IWS2000"
+    },
+    "text": "그런 일이 있다고는 못 들었어요.+지금 SSG의 행동은 AUG 당신이 지시한 일인가요?"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "AUG",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AUG"
+    },
+    "text": "부정하지 않겠습니다."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "IWS2000"
+    },
+    "text": "왜 저에게 말도 없이 ssg 혼자 다른 일을 하도록 보낸 거죠?+지금 이 근처 일대가 위험투성이란 것은 알고 있을 텐데!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "AUG",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AUG"
+    },
+    "text": "절 믿는다고 말한 건 당신입니다, 지금 그 말을 지키시죠.+SSG의 실력은 저희 모두 잘 알고 있고, 그녀도 자신에게 맡겨진 일이 이번 임무보다 중요하다는 것을 알고 있습니다."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "AUG",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "IWS2000"
+    },
+    "text": "그런 말은 용납할 수 없어요, 무슨 일이라도 생기면 어떡해요!+SSG 응답 바람, 어디 있나요, 응답하세요!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "AUG",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AUG"
+    },
+    "text": "이해할 수 없군요, 당신은 대체 무엇을 바라는 것이죠?"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "AUG",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "IWS2000"
+    },
+    "text": "다시는 모두가 임무 달성을 눈앞에 두고 쓰러지게 하지 않겠어요, 다시는!"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "AUG",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AUG"
+    },
+    "text": "맹목적인 집념은 또다시 실패를 부를 뿐입니다."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "IWS2000"
+    },
+    "text": "전 당신과 달라요, AUG. 저에겐 포기할 수 없는 이유가 있어요, 저는…"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "Glock17",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "글록17"
+    },
+    "text": "저기 둘 다... 너무 그렇게..."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "text": "삐삑..."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "SSG69",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "SSG69"
+    },
+    "text": "대... 대장님...? IWS 씨...?"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "SSG69",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "IWS2000"
+    },
+    "text": "SSG, 지금 어디 있나요? 무슨 일이라도 있나요?"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "SSG69",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "SSG69"
+    },
+    "text": "전 지금 무사해요...+저번에 저희가 남긴 유해를 찾았어요..."
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "SSG69",
+        "face": 0
+      },
+      {
+        "name": "IWS2000",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "IWS2000"
+    },
+    "text": "유해요? 그런 걸 찾아서 뭐 하게요?"
+  },
+  {
+    "background": {
+      "id": 1,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "SSG69",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "SSG69"
+    },
+    "text": "여기... 꽤나 심각해요... 모두 빨리 와주세요."
+  }
+]

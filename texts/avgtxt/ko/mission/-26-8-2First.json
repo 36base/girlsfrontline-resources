@@ -1,0 +1,402 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 157
+    },
+    "screenEffect": "spark",
+    "sound": {
+      "bgm": "BGM_stage10",
+      "se1": "Gunfight"
+    },
+    "text": "철수부대가 포위망을 강행돌파 중이다."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "아니야! 군의 배치가 방금과 달라! 분명 증원을 부른 거야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "아니... 증원이 아니야...+저들의 주력부대야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "<color=#00CCFF>안젤리아, 내가 봤던 그 어떤 프로보다도 솜씨가 대단하다는 것을 인정해주지...</color>+<color=#00CCFF>... 죽으러 오는 솜씨가 말이다!</color>+<color=#00CCFF>내 중화기부대가 이미 차례대로 도착했다, 네년의 잡종인형은 몇 대나 버틸 수 있을 것 같으냐!</color>+<color=#00CCFF>그리고 네년은 과연 몇 대나 맞아볼 수 있을까? 그 역겨운 행보를 청산할 때다, 안젤리아!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "저 녀석 미쳤어! 여길 완전히 밀어버릴 셈이야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 2
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "군의 주력부대가 돌격 개시! 안젤리아, 돌아가서 수비할지 아니면..."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 2
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "또 기절했어! 우리 스스로 싸워야 해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "안젤리아의 지휘 없이 군을 상대로 효율적인 돌파 작전을 펼칠 수는 없어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 4
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "AK12... 우린... 어떻게 합니까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 4
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "진정을 유지하고, 돌파작전을 중단해.+즉시 방어선으로 물러나 방어작전을 준비해!"
+  },
+  {
+    "screenEffect": "closeSpark",
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      },
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "이건 공평하지 않은 싸움이야...+우린... 어쩌면..."
+  },
+  {
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "정규군 하사"
+    },
+    "text": "대위님, 안젤리아의 부대가 물러났습니다. 저희의 주력부대도 적의 중화기부대를 제압한 상태입니다. 이제 진입합니까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "저 인형들은 분명 필사적으로 저항하겠지, 그리고 진입하여도 놈들의 중화기도 어느 정도 위협적이다.+승리를 위해서라면 희생이 두렵지 않지만, 복수를 위해서 함부로 대가를 치를 수는 없다. 나의 부하들을 또 이런 잡병들에게 죽게 할 수는 없다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 하사"
+    },
+    "text": "그럼 어떻게 하시겠습니까, 대위님?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "지금 여기서 감염자를 가장 많이 죽인 부대가 어느 부대지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 하사"
+    },
+    "text": "바로 중화기 부대입니다, 길을 서두르느라 마주치는 대로 다 사살했습니다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "예상대로군, 앞으로 오라고 해라. 복수의 기회를 그들에게 양보하지.+우린 바깥을 지키면서 그 쥐새끼들을 잡기만 하면 된다.+중화기 부대를 보고 모든 울분을 퍼부어 저곳을 모조리 불태우게 하라! 그년과 그 가정용 인형들 모두 재도 안 남도록 불태워라!"
+  },
+  {
+    "background": {
+      "id": 157
+    },
+    "screenEffect": "spark",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "한 시간 후."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Brain"
+    },
+    "text": "예고르는 진지 앞에 서서 그의 포화에 유린당하는 걸작을 감상하였다.+그리폰의 진지는 불바다에 삼켜져 파멸하였다. 그리고 그는 자신의 대원을 이끌고 이 연옥을 걸어 나왔다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "결국 나의 대원이 포탄 구덩이 속에서 안젤리아의 시체를 발견하였다. 불에 휩싸여 표정을 볼 수 없었다.+지금 내게 가장 아쉬운 점이라면, 사람의 목숨이 단 하나뿐이라는 점이다.+안젤리아의 죽기 전의 표정을 감상하지를 못했다. 겁쟁이처럼 울부짖었을지, 혹은 영웅처럼 덤덤했을지.+어느 쪽이든 난 아쉽게도 볼 기회를 놓치고 말았다.+물론, 이쯤의 아쉬움은 우리의 복수에 있어서 아무것도 아니다.+이미 결과를 확인하였으니 우리도 다음 작전을 진행할 수 있게 되었다.+아직도 전장에서 떠도는 전우들에게 안식을 주어야 한다. 그리고 전장에 있는 모든 불필요한 사실들을 지워야 한다.+어찌 되었든 간에, 드디어 이 빌어먹을 전투에 매듭을 지을 수 있게 되었다.+모든 것은 시간의 문제다, 그저 살아남은 자들이 더 많은 시간을 들여 이 역사를 기록할 수 있을 뿐이다."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "closeSpark",
+    "text": "..."
+  },
+  {
+    "background": {
+      "id": 158
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Brain"
+    },
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "이런 상황에서까지 그런 거짓말을 하시다니.+그리폰의 지휘관님, 확실히 당신을 너무 얕본 것 같습니다.+당신의 생명을 유지하는 선에서 투여량을 늘리겠습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "니토는 자백제를 또 하나 꺼내, 내 몸에 주입했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "바로 효과가 나타났지만, 아직은 견딜만하다. 의지가 아직은 좀 남아있다. 이것이 마지막일지는 모르겠지만..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "안젤리아가 죽을 리 없습니다, 적어도 이번 싸움에서는 살아남아 저희 중 한 명을 죽인 것을 저희 눈으로 봤습니다.+그러니 말하세요, 그녀가 어떻게 살아남았는지, 또 누구와 접촉했는지."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "난 떠오르는 대로 다 말할 것이다.+거짓이든, 진실이든, 다 말하고 녀석들 보고 알아서 구분하라고 할 것이다.+녀석들이 무엇을 바라는지는 알고 있다, 그리고 그것을 말한 뒤 내가 어떻게 될지도 알고 있다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "인간은 아주 연약한 기계입니다, 몇 번만 건드리면 망가져 버리죠.+온전한 신체와 정신상태로 이 건물을 떠나고 싶으시다면, 자신에게 남은 기회를 소중히 해서 진실을 말하세요."
+  },
+  {
+    "text": "그렇기에 내겐 시간과... 약효에 저항할 온갖 거짓들이 필요하다.+안젤리아는 내 이야기 속에서 또 몇 번 죽게 될까?+적어도, 내가 살아남을 때까지 계속 그녀를 죽여야 한다...+..."
+  },
+  {
+    "screenEffect": "dark1"
+  }
+]

@@ -1,0 +1,893 @@
+[
+  {
+    "background": {
+      "id": 34
+    },
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "...메인 서버 외부, 철혈 지휘부."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "에이전트, M4A1이 돌아왔습니다, 현재 빅 데이터베이스의 404와 접촉하였습니다."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "BOSS-8",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "에이전트"
+    },
+    "text": "이 정도는 예상했던 일이니라.+오히려 우리는 바로 이때를 기다려 온 것이지, 자신이 해야 할 일을 하거라."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "BOSS-8",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "분부하신 대로, 계획에 따라 부대를 전개 중입니다.+하지만 이상한 것은 현재 M4A1의 신호가 빅 데이터베이스의 동료를 버리고 홀로 바깥으로 돌파하고 있는 것으로 나타납니다."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "BOSS-8",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "에이전트"
+    },
+    "text": "......M4A1에게 있어, 동료와의 이탈은 비정상적 행위일 터."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "BOSS-8",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "미끼일 수도 있습니다. 하지만 기회이기도 합니다."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "BOSS-8",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "에이전트"
+    },
+    "text": "너에게 맡기겠다. 함정이든 아니든, 네 판단을 믿도록 하마."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "BOSS-8",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "에이전트"
+    },
+    "text": "고작 민수용 인형 몇 명의 실력으론 어떤 함정도 무의미하지.+【엘더브레인】께서 우리에게 내린 지시는 M4A1을 잡아 오는 것, 오직 이것만을 우선시하거라."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "screenEffect": "blackSpot2",
+    "sound": {
+      "bgm": "BGM_Boss"
+    },
+    "text": "...M4A1은 홀로 철혈의 포위를 뚫고 있다."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "끝이 없잖아...+설사 군에게 파멸을 맞이한다 해도 나를 놓아줄 생각이 없나 보군요."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      },
+      {
+        "name": "BOSS-7",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "게이저"
+    },
+    "text": "군을 위협으로 판단하는 건 너희뿐이야, 마침 그리폰도 소멸당했지.+그러니 더욱 네가 왜 독자적 행동을 취한 것이 궁금하군, M4A1......+이러면 내 주의를 끌 수 있다고 생각한 건가? 이 구역의 다른 동료들을 구할 생각으로?"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      },
+      {
+        "name": "BOSS-7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "......"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      },
+      {
+        "name": "BOSS-7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "게이저"
+    },
+    "text": "말하지 않아도 좋아, 너의 손발을 다 뜯어내고, 입만 남고 나면+입을 열 때까지 얼마든지 기다려주지."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      },
+      {
+        "name": "BOSS-7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "...+(아직이야...)+(아직 지정 장소가 아니야...)+(좀 더 앞으로... 좀 더 앞으로!)"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "체크메이트.+비참하게 죽어갈 장소로 이런 외진 곳을 선택하다니 정말 예상 밖인 걸.+M4A1, 더 이상 서로 엮일 일이 없다니 정말 기쁘네."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4A1"
+    },
+    "text": "...그래요.+더 이상 그럴 필요 없군요.+마지막 여정을 저와 함께 해주다니 정말 기쁘네요, 게이저."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "...+...뭘 숨기고 있지? M4A1!"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "...삑."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "UMP45",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "게이저, M4와의 담화는 즐거웠니?+아무리 즐거워도… 옛 친구를 잊지 말라고."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "404?!+아직도 살아있었나?"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "뭘 그리 놀라는 거야.+아 맞아, 다시 만난 걸 축하하기 위해서, 선물을 준비했어.+사양 말고 받아줘."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "...이건 대체?!+후방 부대의 신호가 사라졌어... 어떻게!"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "마음에 들어?+그럼, 방해하지 않을게.+이 기쁜 마음을 간직하고 계속 M4와 즐겁게 얘기를 나누렴."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "──통신 중단."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "이… 이럴 수가...+내가 빅 데이터베이스에 남겨둔 부대가… 고작 404의 잔챙이 녀석들에게…"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4A1"
+    },
+    "text": "참으로 보잘것없군요... 이 전장에서 당신의 존재란..."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "...알겠군, 어떤 방법을 통해서 네 동료의 신호를 위조했어.+그 말은 즉... 저 후방이든... 지금 네가 홀로 여기 있는 것도... 다 헛것일 뿐이라는 건가."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      },
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4A1"
+    },
+    "text": "체크메이트, 게이저."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "과연 어떨까, 설사 네가 지금 뒤에 다른 그리폰 인형들을 숨겨놨다 해도, 지금 내가 널 토막 내는 걸 막지 못해.+지금! 여기서!+네놈들 저열한 장난감 인형 따위가 나와 내 부대를 어떻게 막는지 보자고!"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "text": "저열한 장난감 인형으로 안 되면, 전문가에게 맡기면 되겠지?"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "text": "......삐삑──+...뚜, 뚜, 뚜.+...위이잉───!"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "군용인형"
+      }
+    ],
+    "text": "......인증이 완료되었습니다, 명령을 내려주십시오."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "버려진 군용 인형......+아니야, 말도 안 돼... 분명 어딘가… 잘못 된 거야…"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "모두들, 수고해줘.+움직이는 건 모조리 부숴버려."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se1": "Battlefield",
+      "se2": "Gunfight"
+    },
+    "text": "......강제링크된 군용인형들이 일제사격을 전개했다.+......M4를 추격해온 철혈 주력부대는 몇 초도 지나지 않아 전멸당했다."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "크윽...... 커억... 이럴 리 없어...+내가…"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "AR15Mod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AR15"
+    },
+    "text": "아직도 저항할 셈인가...+자아, 알고 있는 건 다 말하라고!"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "그럴 필요 없어요, AR15.+인트루더는 놓친 건가? ......뭐, 됐어."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "text": "...+...M4A1은 게이저 앞에 다가섰다."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "아직도 희망을 품고 있는 건가!?+그리폰은 더 이상 존재하지 않아!!+너희 지휘관도 지금이면 에이전트께서 친히..."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "sound": {
+      "se1": "MachineGunBurst"
+    },
+    "text": ".........몸뚱이가 쓰러지는 소리와 함께."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "text": "......M4A1은 방아쇠를 당겨, 게이저를 사살하였다."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "...임무 완료.+리벨리온 소대 집합. 복귀하여 404소대와 합류하도록 하죠."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "sound": {
+      "bgm": "BGM_Truth"
+    },
+    "characters": [
+      {
+        "name": "AR15Mod",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AR15"
+    },
+    "text": "............"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "text": "만족하는 것도, 즐기는 것도 아닌.+복수라고 하기엔, 이미 마비되어버린 본능과도 같았다."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "...+...윽...... 또..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "청아한 여자 목소리"
+      }
+    ],
+    "text": "SOPII? M16?...+아니, 네가 진심으로 마음에 두고 있는 건 그녀들이 아니야."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "당신에게 하고 싶은 말은 이미 이전에 다 말했을 텐데요."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "characters": [
+      {
+        "name": "청아한 여자 목소리"
+      }
+    ],
+    "text": "네가 원하는 것... 네가 정말 바라는 건... 오직 복수야.+너를 상처입힌 자들에게 대가를 치르게 할 생각이지.+동료를 찾고 싶다는 건 진실한 너에겐 변명일 뿐이지.+오히려 잘하고 있어... 갈수록 네 본래 모습에 가까워지고 있어."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "제가 원래 어땠는지는 관심 없어요.+하지만 지금의 전 더 이상 당신들에게 어떠한 연민도 없습니다."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "characters": [
+      {
+        "name": "청아한 여자 목소리"
+      }
+    ],
+    "text": "네가 제시한 교환조건... 다시 생각해봤어.+.........+지금의 조건으로 그 아이와 다시 연결될 수 있길 바라지."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "후......+이 정도쯤은 돼야...... 말이 되죠."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "screenEffect": "dark2",
+    "text": "......M4A1은 냉소를 지었다."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "AR15Mod",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AR15"
+    },
+    "text": "......+M4A1… 너 대체…"
+  }
+]

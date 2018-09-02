@@ -1,0 +1,78 @@
+[
+  {
+    "background": {
+      "id": 8
+    },
+    "sound": {
+      "bgm": "BGM_Sunshine"
+    },
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "이겼어요! 지휘관님, 아주 멋졌어요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "그럼 다음 임무를 확인하실 건가요?"
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "에?+전리품을......확인하시겠다고요?"
+  },
+  {
+    "screenEffect": "blackSpot2",
+    "text": ".......대형 군용 데이터 저장장치 몇 개를 옮겨왔다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "자, 이게 전부예요.+기술자들 없이는 속의 내용을 확인할 방법이 없네요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "......네, 다른일이 없다면 일단 창고에 넣어둘게요!+계속 이렇게만 나아가면 문제 없을 거예요. 지휘관님!"
+  }
+]

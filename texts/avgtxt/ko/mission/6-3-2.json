@@ -1,0 +1,275 @@
+[
+  {
+    "background": {
+      "id": 2
+    },
+    "sound": {
+      "bgm": "BGM_Frontline"
+    },
+    "text": "......그리폰 제대가 철혈 지휘실을 점령하는데 성공했다.+......삑."
+  },
+  {
+    "characters": [
+      {
+        "name": "NEGEV",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "네게브"
+    },
+    "text": "M16 응답 바랍니다. 거기 있어?+철혈이 후퇴했어,이제 우린 안전하다고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "어? 네게브? 통신은 문제 없어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "네게브"
+    },
+    "text": "그래, 방금 타보르가 알아챘어, 왜인지는 모르겠지만."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "그럼 M4쪽은? 너희들이랑 합류했어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NEGEV",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "네게브"
+    },
+    "text": "어라......방금까진 여기 있었는데, M4랑 SOPII......"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "AR",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "갈릴"
+    },
+    "text": "큰일이야, 네게브!!+M4와 SOPII가 사라졌어!!+게다가 신호도 잡히지 않는게 아마 또 재밍당하는 것 같아."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "TAR21",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "TAR-21"
+    },
+    "text": "미안, 내 실수야.+전투가 끝났을 때 후방에서 어떤 그림자를 봤어.+순간 다급한 마음에 SOPII보고 가서 보고 오라고 했고, 경거망동하지 말라고도 했는데......+결국 내가 한눈을 판 사이에 몰래 쫓아가버리더라."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "TAR21",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "TAR-21, 네가 본 그 그림자가 설마......"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "TAR-21"
+      }
+    ],
+    "text": "맞아......+내가 본건, 확실히 AR-15였어......"
+  },
+  {
+    "text": "같은 시각, M4A1과 M4 SOPMOD II......"
+  },
+  {
+    "background": {
+      "id": 4
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "SOPMOD II, 뭐 좀 찾았습니까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "아직, 방금 분명 그림자를 봤는데......+젠장! 이 근처에 있을텐데!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      }
+    ],
+    "text": "통신은 여전히 먹통이에요. 너무 멀리 가지 마세요."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "어째서 계속 피하기만 하는 걸까......"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "??"
+      }
+    ],
+    "text": "왜냐하면......너희들은 자꾸 일만 만드니까지."
+  },
+  {
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "퍽......+둔탁한 소리가 울렸다. M4A1이 고개를 돌리고, M4 SOPMOD II가 바닥에 쓰러져 정신을 잃었다......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "text": "SOPII! 정신차려! 대답해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 0
+      }
+    ],
+    "text": "M16이 이런 매복기술에 대해 여러번 일러뒀는데도 여전하구나.+내가 곁에 없으면 너희들은 도대체 할 수 있는 게 뭐니?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      }
+    ],
+    "text": "어째서, AR-15......+도대체......무슨 짓을......"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "text": "AR-15가 M4A1을 향해 개머리판을 들어올렸다......"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15"
+      }
+    ],
+    "text": "눈물 나게 감동적인 재회의 장면을 연출하고 있지..."
+  },
+  {
+    "text": "......"
+  }
+]

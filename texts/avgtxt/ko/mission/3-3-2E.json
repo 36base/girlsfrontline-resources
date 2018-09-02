@@ -1,0 +1,93 @@
+[
+  {
+    "background": {
+      "id": 8
+    },
+    "screenEffect": "blackSpot1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "좋아요. 마지막 적까지 처리했네요.+이제 다른 인형 소대가 데이터 저장장치를 가져올 때까지 기다리면 돼요. 그러면 보고를 할 수 있겠죠."
+  },
+  {
+    "screenEffect": "blackSpot2",
+    "sound": {
+      "bgm": "BGM_Sneak",
+      "se1": "Alarm"
+    },
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "에? 이 경보는——?+......무, 무슨?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "지휘관님, 안좋은 소식이에요!+방금 인형이 보고하기를, 지휘부로 복귀하던 도중 철혈의 습격을 받았다고해요!+우리 인형이 다치지는 않았지만, 철혈의 수송대가 전리품을 가져가는 중이라고 해요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 7
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "이제......어떻게 해야하죠?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "......네, 아무래도 적을 추적한 다음 신중하게 계획을 짜봐야겠죠.+하지만......정말 지휘관님이 말씀하신 대로 조금 이상하네요."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 7
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "철혈이 부대를 보내면서까지 지키고 싶어했던 건...과연 무엇일까요..."
+  }
+]

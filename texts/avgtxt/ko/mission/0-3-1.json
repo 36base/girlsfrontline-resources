@@ -1,0 +1,101 @@
+[
+  {
+    "background": {
+      "id": 8
+    },
+    "sound": {
+      "bgm": "BGM_Battle"
+    },
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "text": "세이프 하우스는 이미 적들에게 포위당했어요! 모두 재빨리 위치를 잡으시고, 응전을 준비해주세요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "적의 수가 너무 많아! 주변 상황을 파악하고, 탄환을 아껴, 특히 SOPII!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그럴거야! AR15, 내 뒤를 맡아줘!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 2
+      },
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "알겠어, 걱정하지 마! ──M4, 지휘에 영향이 있겠어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 2
+      },
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "괜찮아요. 전송이 점유하고 있는 메모리는 크지 않아요. 하지만 M16, 당신이 절 도와서 적의 동향을 주시해주셔야 해요!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "별거 아니야! 다들 좀만 더 버티자고, 그리고 다 같이 집으로 돌아가는 거야!"
+  }
+]

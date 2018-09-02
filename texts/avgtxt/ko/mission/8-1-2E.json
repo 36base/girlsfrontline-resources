@@ -1,0 +1,462 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "......"
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "se1": "Heartbeat"
+    },
+    "characters": [
+      {
+        "name": "에이전트"
+      }
+    ],
+    "text": "...내가 네 죽음을 가져왔노라.+자, 어서 눈을 뜨거라..."
+  },
+  {
+    "background": {
+      "id": 11
+    },
+    "screenEffect": "blink",
+    "sound": {
+      "se1": "m4a1_015"
+    },
+    "characters": [
+      {
+        "name": "에이전트"
+      }
+    ],
+    "text": "...나를 보거라. 전술인형 M4A1, 날 보란 말이다."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Sad"
+    },
+    "characters": [
+      {
+        "name": "에이전트"
+      }
+    ],
+    "text": "이제 막을 내릴 시간이다. 네년이 끝까지 함께 해줬으면 좋겠구나."
+  },
+  {
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "Rope",
+      "se2": "m4a1_013a"
+    },
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "큭......+에이전......트......"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "............+틀려......+여기는......내 마인드맵......?"
+  },
+  {
+    "background": {
+      "id": 12
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "se1": "Rope"
+    },
+    "characters": [
+      {
+        "name": "에이전트"
+      }
+    ],
+    "text": "네년이 죽는다면 말이다!...이제 곧, 너는 여기에서 죽는 거다!"
+  },
+  {
+    "sound": {
+      "se1": "Select"
+    },
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "...미안한데, 그녀는 여기서 죽을 수 없거든."
+  },
+  {
+    "characters": [
+      {
+        "name": "에이전트"
+      }
+    ],
+    "text": "......!"
+  },
+  {
+    "sound": {
+      "se1": "RunStep"
+    }
+  },
+  {
+    "background": {
+      "id": 14
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "se1": "MachineGunBurst"
+    },
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "기다릴 것도 없지, 지금 당장 지옥에 떨어져라!!!+철혈의 쓰레기!!!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "............+기억은 여기서부터 시작되는 건가.+우리는 #3 세이프 하우스에서 리코가 생전에 남긴 물품을 찾고 있었지......+그러고 나서 에이전트의 습격을 받았어......"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "M16이 날 구해줬어.+하지만 상황에 쫒겨서, 우리는 다시 헤어졌지."
+  },
+  {
+    "background": {
+      "id": 7
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "......네가 빠져나가기 위한 시간을 벌기위해, 우리가 갈라져서 적의 주의를 끄는 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      },
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "하지만! 만약 그 철혈이 아직 살아있다면, 여러분들은...!!!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      },
+      {
+        "name": "AR15",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "꾸물거리지 마 M4! 이게 제일 확실한 방법이야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      },
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그래, 지금 우리를 구할 수 있는 건 M4밖에 없어!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      },
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "...알겠습니다. 여러분, 부디 조심하세요."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "사실 마음속으로는 모두와 헤어지고 싶지 않았어......"
+  },
+  {
+    "background": {
+      "id": 25
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "다행히, 난 지휘관과 만날수 있었어.+그 후, 지휘관님께서 도와주셔서 우리는 다시 한 번 모일 수 있었지......"
+  },
+  {
+    "background": {
+      "id": 37
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "그리고 우리는 또 다시 헤어졌지......"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "그리고......그리고......+그리고 마지막에......무슨 일이 있었지?+다시 한번 잘 생각해보자......"
+  },
+  {
+    "background": {
+      "id": 41
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "P08",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "......이건가? P08......?"
+  },
+  {
+    "background": {
+      "id": 51
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "......아니면 이건가?? 우로보로스......?"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "아니야......전부 아니야...+난 알고있어, 이 기억들이, 전부 가짜라는 걸.......+모두 가짜라고! 제길!+어째서지! 난 어째서 기억을 잃은 거냐고! 어째서 아무것도 기억나지 않는 거냔 말이야!+난 도대체......어떻게 된 거지......+난.......+난......여기는 어디야? 뭘 해야하는 거야?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "페르시카"
+      }
+    ],
+    "text": "어라? 우리 아기 고양이가 정신을 차렸나보네?"
+  },
+  {
+    "background": {
+      "id": 22
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Truth"
+    },
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "여기는 16LAB, 네가 태어난 곳이야.+계속해서, 나한테 네 클라우드 마인드맵을 검사하게 해줬으면 하는데......+음......어디보자......작동에는 문제가 없는 것 같네."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "너는.....누구......?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "내 이름은 페르시카리아(Persicaria). 널 만든 사람이야."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "왜......날 만들었어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "넌 AR팀의 리더가 되서, 내가 만든 가장 우수한 인형들을 이끌게 될 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "인형......+난......인형이야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "지금부터는 그렇지.+널 복원하고 나니, 내가 상상했던 것보다 훨씬 더 귀여운걸......+네가 나를 위해......리코가 나에게 주지 못했던 답을 줄 수 있기를..."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "......리코?+............무슨 답?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Persica",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "페르시카"
+    },
+    "text": "그건 말이야.......지금은 말해주기 아직 너무 이른 것 같네. 일단 먼저 새로운 동료부터 만나지 않을래?"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "페르시카"
+      }
+    ],
+    "text": "마인드가 격렬하게 요동치고 있어......이 아이는 도대체 무슨 꿈을 꾸고있는 걸까?+인형이 꿈을 꾸다니......정말 오래 살고 볼 일이네."
+  },
+  {
+    "text": "......페르시카가 고개를 돌려 M4A1을 쳐다본다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "페르시카"
+      }
+    ],
+    "text": "아마도 그녀가......특별하기 때문인지도......"
+  }
+]

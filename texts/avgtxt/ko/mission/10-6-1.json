@@ -1,0 +1,742 @@
+[
+  {
+    "background": {
+      "id": 85
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "text": "............삑."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카터"
+    },
+    "text": "......그래. 알겠네.+계속해서 멀리서 관찰하면서 내 지시를 기다리게, 예고르."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "......카터가 통신을 종료했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카터"
+    },
+    "text": "엘더 브레인을 둥지에서 끄집어냈는데 우리가 움직일 필요가 있나?"
+  },
+  {
+    "characters": [
+      {
+        "name": "변조된 남자 목소리"
+      }
+    ],
+    "text": "너희들은 아직도 학습 능력이 없는 건가? 엘더 브레인은 본체를 내보내지 않을 거다, 말해봤자 입만 아프다만.+엘더 브레인의 본체가 어느 핵 벙커에 숨겨져 있는지 모른다는 건 너희들에게 별 가망이 없다는 거겠지.+게다가 내가 기대하고 있던 장면은 이제부터 시작이니, 부디 방해하지 말아줬으면 하는군."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카터"
+    },
+    "text": "부대를 대기상태로 두도록 하겠네."
+  },
+  {
+    "characters": [
+      {
+        "name": "변조된 남자 목소리"
+      }
+    ],
+    "text": "그게 제일 좋겠군.+그것이 가지고 있는 【열쇠】가...... 곧 M4A1과 다시 한번 만나게 될 거야.+아, 벌써 만났을지도 모르겠군. 우리들 인간으로서는 알지 못했을 뿐인지도 모르지.+흐흐흐, 상상만 해도 정말로 재미있단 말이지."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카터"
+    },
+    "text": "자네는 【열쇠】가 무슨 반응을 보이기를 원하는 겐가?"
+  },
+  {
+    "characters": [
+      {
+        "name": "변조된 남자 목소리"
+      }
+    ],
+    "text": "어떤 것이든. 내가 상상할 수 있는 것만 아니라면 그 어떤 반응이라도 좋아.+내가 기다리고 있는 건 재미있는 일들일 뿐이야......"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Carter",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카터"
+    },
+    "text": "M4A1과 엘더 브레인 간의 사정에는 관심 없는 겐가?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "변조된 남자 목소리"
+      }
+    ],
+    "text": "난 싸우는 도중에 일어난 일들에는 관심 없어. 어느 쪽이 이기느냐는 빼고 말이지.+네 마음대로 처리해. 앞으로의 【계획】에 문제가 발생하지만 않으면 돼.....+......우리가 【열쇠】의 존재를 포착할 때까지 말이야."
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se1": "Battlefield"
+    },
+    "text": "............같은 시각, AR팀은 여전히 거점 안에 갇혀 있는 중이다."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Sad"
+    },
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "철혈이 여전히 바깥에서 폭격을 하는 중이야! 이제 얼마 버티지 못할 거야!"
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "밀고 들어왔다면 일찌감치 원하는 걸 얻었겠죠.+그러지 않은 걸 보면 철혈의 목표는 저를 살아있는 채로 잡아가는 건가 보네요......"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "지휘관님 쪽은 어떻게 되어가고 있는 거죠!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "지휘관님께서는 방금 철혈에게서 벗어나, 우리를 지원하러 오고 계세요."
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "하지만 이 이상 더 어떻게 버틸 수 없어! 지금 당장 후퇴해야 해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "우리는 계획이 필요해요!+지금 철혈의 목표는 오직 저 하나입니다. 제가 나가서 미끼가 될 테니, 여러분은 둘로 나뉘어서 후퇴하도록 하세요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "난 절대로 떨어져서 움직이지 않을 거야!+M4, 너도 다시는 떨어지지 않겠다고 말했었잖아!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "하지만 이런 식이라면 아무도 도망칠 수 없어요! 저 하나 때문에 여러분들을 위험에 빠트릴 수는 없단 말이에요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "너 혼자서만 임무를 수행하고 있는 게 아니야, M4! 우리들의 임무는 널 지키는 거라고!"
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "그렇지만 이대로라면 저희는 임무도 실패하고, 모두를 잃고 말 거예요......"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "난 이미 AR15와 M16을 잃었어!+만약 너마저 잃게 될 바에는, 차라리 너랑 함께 싸우다 죽을 거야!+이건 우리가 공장에서 출고될 때부터 받은 명령이고, 난 이걸 절대로 지키겠어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "그리고 저도 있어요.+모든 걸 혼자서 짊어지려고 하지 말아주세요. 저희도 있으니까 말이죠.+정식으로 부대원이 된 지는 얼마 지나지 않았지만, SOPII와도 마음이 잘 맞는다구요."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그래, 맞아. 우리도 너와 같이 최후를 맞이하게 해줘. 이 뒤에 무엇이 기다리고 있든 간에 난 뭐든지 받아들일 수 있으니까!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 2
+      }
+    ],
+    "text": ""
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "......"
+  },
+  {
+    "text": "......M4A1이 한숨을 내쉬었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "우리 정말 바보 같아요. 그렇죠?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그러게 말이야. 정말로 안타깝네."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "어쩌면 죽을지도 모르는데 그 누구 하나 포기하려 들지 않는군요.+결국 우리는 그다지 믿음직스럽지도 않은 민수용 인형들일 뿐인데 말이죠, 후후."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "아니, 잠깐만......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "왜 그러시죠?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "RO, 넌 우리랑 같은 시기에 출고된 게 아닌 거로 기억하고 있는데, 그럼 네 마인드맵은 백업이 가능하지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "어? 아...... 그럴걸......+그런데 나 여기에 비밀로 들어온 거라, 마인드맵의 백업은 지휘관님 쪽에서 맡고 있어서 다시 내려받으려면 비교적 귀찮을 거야......"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "야! 그 말은 애초부터 넌 죽지 않는다는 말이잖아!"
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "으...... 그럴 가능성이 아주 조금 있기는 하지......+그런데 그게 어쨌다는 건데! 그거 가지고 날 따돌릴 셈이야?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "내 감동을 물어내라고! 아니면 옆에서 나랑 M4A1이 같이 부둥켜안고 우는 거나 보고 있든가!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "어떻게 그런 식으로 말할 수 있어?! AR팀은 뭐 특권 집단이라도 되는 거야?"
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그게 마음에 안 들면 마인드맵을 백업할 수 없는 인형으로 다시 태어나든가!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "RO635",
+        "face": 5
+      }
+    ],
+    "text": ""
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "풉......"
+  },
+  {
+    "text": "......M4A1은 웃음이 터지고 말았다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "둘 다 정말 대단한 것 같아요. 이런 상황에서조차 말싸움을 하다니 말이죠."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_War"
+    },
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "드디어 M4가 웃었어. M4는 웃고 있을 때가 가장 안심이 된다니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "그런......가요?"
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "리더처럼 보이지는 않지만, 이럴 때에 너무 많은 걸 신경 쓰지는 못하니까요.+마지막 순간의 당신은 리더보다 오히려 언니라고 부르는 게 더 어울리겠는걸요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "그렇게 생각해주신다니 영광이에요......+저번엔 정말 미안했어요. 너무 많은 일이 일어났기에 다른 사람들에게 마음을 열 수가 없었어요.+어떻게 해야만 나 자신이 될 수 있는지도 도무지 모르겠고, 많은 의견 중에 도대체 뭘 선택해야 좋을지를 몰라서......+하지만 지금은 그런 것들은 중요하지 않아요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "그래요. 저는 더 이상 희생을 두려워하지 않겠어요. 모든 희생에는 저마다의 가치가 있으니까요.+죽음을 몇 번이나 경험하든, 그게 제 죽음이든 타인의 죽음이든 걱정하기보다는 받아들이겠어요. 그게 더 가치 있다고 생각해요.+저 자신의 의지로, 제가 선택한 이 결정이 저는 옳다고 믿어요."
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "왜 그래요, M4 씨?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "아무것도 아니에요.+전 그저 AR팀에 있으면 충분하니까요."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "후후후, 우리 전부 다 같은 생각일걸!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "마지막 순간이니만큼, 다 같이 힘내보자!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 2
+      }
+    ],
+    "text": ""
+  },
+  {
+    "text": "......M4A1과 RO, 그리고 SOPII는 웃으면서 서로를 끌어안았다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "그럼 결정됐네요.+올 테면 와보라죠! 이제 저희는 더 이상 떨어지지 않을 거니까요!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "죄송합니다, 예고르 대위님. 저희는 결국 군용 인형보다 한참 부족합니다.+같이 나아가며, 싸우고, 삶과 죽음을 같이 나누어야만 저희의 승리에 의미가 있는 겁니다.+......XM3. 그때 제게 아주 크게 실망했겠죠.+혹시라도 다시 만나게 된다면 당신 앞에서 말할게요......+이제 저도 죽음을 받아들이게 됐다고 말이죠!"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "지휘관님! 보시다시피 저희는 지금 철혈의 엘더 브레인의 부대에 포위당해 매우 위험한 상황에 처해 있습니다!+저희는 현재 지휘관님이 계신 방향으로 후퇴하고 있으며, 지금 당장 지원이 필요한 상황입니다+지휘관님의 제대에 조금만 더 서둘러서 활로를 뚫어달라고 해주십시오!+AR팀은 이곳에서 구조를 기다리며, 마지막 순간까지 싸워나가겠습니다.+이번에도 반드시 저희를 구하러 올 거라고 믿습니다. 지휘관님...... 그러니 잘 부탁드리겠습니다!"
+  },
+  {
+    "screenEffect": "blackSpot2",
+    "text": ""
+  }
+]

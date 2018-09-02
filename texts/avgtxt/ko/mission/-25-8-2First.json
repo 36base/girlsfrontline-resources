@@ -1,0 +1,250 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 159
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "text": "작전 종료."
+  },
+  {
+    "characters": [
+      {
+        "name": "Mk12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Mk12"
+    },
+    "text": "너무 싱거운데."
+  },
+  {
+    "characters": [
+      {
+        "name": "Mk12",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK74U"
+    },
+    "text": "우리 쪽의 일손이 충분해서 그렇겠지."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "우릴 떠본 것뿐이야, 이대로 그만둘 리가 없어."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "A91"
+    },
+    "text": "우리의 정보를 수집해서 단숨에 해치울 생각이겠지이.+이제에, 마지막 공세가 몰려올 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      },
+      {
+        "name": "A91",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "적의 총공격이 곧 올 거야, 빨리 돌아가자! 출발 출바알!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "RO635"
+    },
+    "text": "앗! 천천히, 좀 천천히 뛰어!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "Cx4Storm",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "Cx4Storm"
+    },
+    "text": "SOP2! RO가 떨어지지 않게 조심해요!"
+  },
+  {
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "416, 내가 이전에 말한 거 잘 생각해봤어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "생각할 틈이 없어, 어쩌면 나중에..."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se1": "Alarm"
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "위이잉!+모두의 통신기가 요란한 경보를 울렸다."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Danger"
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 4,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "카리나"
+    },
+    "text": "<color=#00CCFF>주목! 의문의 적이 기지를 향해 맹공격을 시작했어!</color>+<color=#00CCFF>전원 지휘관님의 지시에 따라, 각자 위치로 이동해 작전을 준비해!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      },
+      {
+        "name": "NPC-Kalin",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "이렇게나 빨리? 그 검은 인형들...+하지만, 이걸로 마지막 공세인가...+이번이 끝나면, 나도 떠나야 하겠지..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      },
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "416，뭐하고 있어, 빨리 와!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "아니면 내게 다른 선택이 있는 걸까..."
+  }
+]

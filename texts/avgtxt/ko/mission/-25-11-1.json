@@ -1,0 +1,535 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    }
+  },
+  {
+    "background": {
+      "id": 159
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "text": "그리폰의 철수 작업이 막바지에 이르렀다.+그리폰의 인형들은 줄을 서서 수송기에 탑승해 서로 작별의 인사를 나누었다. 이제 새로운 기지에서 다시 만나겠지."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK74U"
+    },
+    "text": "416 너 아직도 안 갔어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "지휘관님이 통신으로, 현재 전장에 아직 구조 임무가 남아있다고 했어.+참가하고 싶으면 자발적으로 남으라고 말이야."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK74U"
+    },
+    "text": "나도 들었어, 아주 위험한 임무라는데, 왜 가려는 거야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "간다곤 안했어, 가는 사람도 있고, 남는 사람도 있고.+난 잠깐 구경하면서... 생각 좀 하는 중이야.+넌 그만 갈 거야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK74U"
+    },
+    "text": "1초라도 빨리 여길 뜨고 싶어, 9A91이랑 AS-Val도 같은 생각이고.+아 맞다, 9A91이 네 친구가 너 찾는다더라."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그냥 같은 대원이야, 우리 수송기도 도착했나 보지."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK74U"
+    },
+    "text": "따라갈 거야? 아님 숨을 거야? 아니면..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "내가 알아서 할 거야.+다만 좀 생각해 보고..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK74U"
+    },
+    "text": "너무 시간 끌지 마, 이걸로 막차니까. 이제 곧..."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "74U..."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Wake"
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "나도... 이전엔 그리폰의 일원이었어.+그것도 어엿한 엘리트 인형이었지, 부관을 맡은 적도 있었어."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK74U"
+    },
+    "text": "그래...?+사실 너에 관한 소문을 좀 들어봤지만, 설마 다 사실일 줄은 몰랐어."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "맞아, 그리고 약간 사정이 생겨서...+난 어쩔 수 없이... 한 불법 소대에 들어가게 됐어.+인형이든 인간이든 명령만 받으면 다 해칠 수 있었어."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK74U"
+    },
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "난 그런 명령이 싫었어, 하지만... 어쩔 수 없었어...+그리고... 내 대원들도..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK74U"
+    },
+    "text": "미음에 든다는 거지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "대체 나은 점이 뭐가 있는지 모르겠지만."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK74U"
+    },
+    "text": "적어도 술을 끊는 거로 발광하거나 하진 않을 거 아니야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "푸흡, 확실히, 다만 더 끔찍한 습관이 있어."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK74U"
+    },
+    "text": "나도 사이좋은 친구가 둘 있어, 내 경험으로 봐서, 우리가 친구가 된 건 딱히 서로 무슨 장점이 있어서가 아니란 거야...+그저 같이 있으니깐, 그냥 어쩌다 그렇게 되는 거지."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그냥 어쩌다... 망할 녀석을 3명 만났어."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK74U"
+    },
+    "text": "아직도 망설인다는 건, 그 망할 녀석들도 네게 꽤 잘해준다는 거잖아."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "날 회유하고 싶은 거야 뭐야."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ]
+  },
+  {
+    "text": "AK-74U는 피식하고 웃었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK74U"
+    },
+    "text": "아무튼 간에, 상상하기도 힘든 전투를 치렀어. 너와 함께 싸울 수 있어서 영광이야."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "내 화려한 전적을 알면 그런 말은 안 나올걸."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK74U"
+    },
+    "text": "오히려 더 영광일지도 모르잖아?+그럼 안녕, 너무 혼자 처박혀 있지 마, 카리나가 걱정한다."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "AK74U",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "네가 더 걱정해주는 것 같네."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "HK416은 대충 손을 흔들어주고 주변을 둘러봤다."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그럼... 나도 가야겠네...+대체... 어디로 가야 할까..."
+  },
+  {
+    "text": "<color=#fff775>404를 떠나 그리폰에 전입한다면, 레이더로 가세요.</color>+<color=#fff775>404소대로 돌아간다면, 헬리포트로 가세요.</color>+<color=#fff775>철수하지 않고 그리폰의 특수작전에 참여한다면 지휘부로 가세요.</color>"
+  },
+  {
+    "screenEffect": "dark1",
+    "text": "<color=#fff775>이 전역의 서로 다른 임무를 달성하면 서로 다른 루트로 진입합니다. 임무 달성 후 다른 루트는 잠기게 되며, 백트래킹을 해야 다시 선택할 수 있습니다.</color>"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  }
+]

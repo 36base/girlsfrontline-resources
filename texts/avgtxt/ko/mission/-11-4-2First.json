@@ -1,0 +1,1141 @@
+[
+  {
+    "background": {
+      "id": 5,
+      "isNight": true
+    },
+    "sound": {
+      "bgm": "BGM_Battle"
+    },
+    "text": "......타앙!"
+  },
+  {
+    "screenEffect": "shockScreen",
+    "characters": [
+      {
+        "name": "디스트로이어"
+      }
+    ],
+    "text": "우아아앗―!"
+  },
+  {
+    "text": "디스트로이어가 지면으로 고꾸라졌다."
+  },
+  {
+    "characters": [
+      {
+        "name": "디스트로이어"
+      }
+    ],
+    "text": "어디야! 어디서 쏘고 있는 거야?!"
+  },
+  {
+    "text": "......타앙!"
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "쳇. 장갑이 너무 두꺼워서 도탄되는데."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "멈추지 말고, 계속해서 제압 사격을 해."
+  },
+  {
+    "text": "......탕! 탕!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BossCerberus",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "디스트로이어"
+    },
+    "text": "우아앗! 위험하잖아! 벌써 일어났지만!+젠자아아아앙! 분명 UMP45는 아무 명령도 안 내리고 있을 텐데, 저 녀석들은 대체 어떻게 움직이는 거야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BossCerberus",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "드리머"
+    },
+    "text": "방법이야 많겠지만, 지금은 신경쓰지 마렴.+지금 타깃과의 거리는 얼마나 되지? 3km 이내?"
+  },
+  {
+    "characters": [
+      {
+        "name": "BossCerberus",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "디스트로이어"
+    },
+    "text": "어... 멀지는 않은 것 같아! 아까부터 계속 최고 속도로 달리고 있는 중이라구!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "BossCerberus",
+        "face": 0
+      },
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "드리머"
+    },
+    "text": "잘하고 있어. 그럼... 이제 공연을 시작해 볼까..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "네 표정을 맛보게 해주렴, UMP45..."
+  },
+  {
+    "background": {
+      "id": 3,
+      "isNight": true
+    },
+    "screenEffect": "dark2",
+    "text": "......같은 시각."
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "미안해, 9. 실패했어."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그 녀석의 장갑이 너무 두꺼워서, 유효타를 내기는 어려울 것 같아.+더 강한 화력을 가진 저격수가 있다면 좋을 텐데."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "괜찮아, 방금 우릴 도와줄 DSR-50을 구출했으니, 아직 기회는 많아.+G11, 계속해서 녀석의 신경을 긁어줘. 더미까지 쫓을 필요는 없으니까, 기회를 노려."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그런데, 우리가 엄호해주지 않아도 괜찮겠어? 혼자서 무인기를 회수해야 할 텐데."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "회수 작업은 내 특기잖아. 그리고 45 언니가 걱정되서 못 참겠어.+지금 언니는... 무사할까..."
+  },
+  {
+    "background": {
+      "id": 55,
+      "isNight": true
+    },
+    "screenEffect": "dark2",
+    "text": "......같은 시각."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "...연락할 방법은 없지만, 저런 사격음이 들리는 걸 보니 G11이 뭘 하려는 건지 알 것 같네.+지금처럼 견제를 계속하면, 저 커다란 멍멍이를 쓰러뜨리는 것도 시간문제겠어.+문제는... 내가 얼마나 버틸 수 있느냐인데..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "UMP45"
+      }
+    ],
+    "text": "윽... 제기랄... 또 이 느낌인가.+아니야... 제어할 수 있어......+......?! 이건, 무슨...+설마 또... 철혈의...!"
+  },
+  {
+    "screenEffect": "dark1",
+    "text": "......"
+  },
+  {
+    "background": {
+      "id": 73
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "시스템 알림"
+      }
+    ],
+    "text": "......훈련이 종료되었습니다. 장비를 반납하시기 바랍니다.+UMP45.+이번 사격 성적, \"매우 좋지 않음\".+컨디션과 장비 재조정 후, 다음 훈련을 준비해주십시오."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "characters": [
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP45"
+    },
+    "text": "역시 아직도 부족한 건가...+명중률이 30% 아래로 떨어지다니..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45_Young",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP45"
+    },
+    "text": "여기서 도대체 뭘 어떻게 해야, 사격을 더 잘할 수 있을까...?+훈련도 다른 애들보다 훨씬 많이 하는데 몸은 마음대로 움직여 주지도 않고, 반응도 다른 애들보다 한 박자씩 느리니..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "??"
+    },
+    "text": "어라, 새로온 인형이야? 안녕!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 4
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "UMP45"
+    },
+    "text": "아... 지휘관님... 안녕하세요."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 4
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "??"
+    },
+    "text": "헤헤헤, 그렇게 서 있지 말고 어서 이리 와서 여기 앉아!+근데, 나 정말 지휘관처럼 보여? 하하하, 그렇게 말하는 애는 네가 처음이야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 4
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "UMP45"
+    },
+    "text": "어? 설마 당신도... 인형인가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 4
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "??"
+    },
+    "text": "안 그래 보여? 아, 내 표정이 너무 풍부해서 그런가? 사실 내 장점이랄 만한 게 표정 많은 거밖에 없거든...+헤헤, 어쨌든 나도 너처럼 새로 들어온 인형이야! 앞으로 잘 부탁해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 4
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "UMP45"
+    },
+    "text": "아... 잘 부탁드리겠습니다.+그리고... 이렇게 말 걸어줘서 고마워요."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 3
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "??"
+    },
+    "text": "괜찮아 괜찮아, 동료라면 서로서로 응원해주는 거지!+아, 나 옆에 앉아도 괜찮지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 4
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "UMP45"
+    },
+    "text": "네..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 3
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "??"
+    },
+    "text": "아무튼, 고작해야 한두 번의 사격 테스트 결과일 뿐이니까 너무 신경 쓸 필요 없어!+어디까지나... 네가 사격이 특기가 아닌 것뿐이잖아."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 3
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "UMP45"
+    },
+    "text": "네? 그걸 어떻게...?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 3
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "??"
+    },
+    "text": "에이, 그렇게 긴장하지 않아도 되는데. 방금 복도서 마침 네가 사격 훈련을 하는 게 보였거든.+네 자세와 반응 속도, 그리고 정확도로 판단하건데, 고급 화력 제어 소프트웨어가 설치된 인형은 아닌 것 같길래."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 3
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "UMP45"
+    },
+    "text": "역시... 척 봐도 보이는 건가요..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 2
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "??"
+    },
+    "text": "그러니까, 잘하지 못하는 걸 억지로 할 필요 없다는 소리야!+지옥의 특훈 같은 게, 우리 인형한테 정말로 도움이 된다고 생각해?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 4
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "UMP45"
+    },
+    "text": "당연하죠! 제 사격 실력이 요 며칠 사이 어느 정도 늘어났다고요!+뭐... 오늘은 다시 조금 떨어졌지만요...+이대로라면, 새로 오신 지휘관님과의 상성 테스트일까지 기한까지 나아질 수 없을 거에요..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 3
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "??"
+    },
+    "text": "이런 일 갖고 시무룩해지지 말라니까 그러네! 네가 여기에 오게 된 건, 분명 네 능력을 발휘할 곳이 있다는 거니까!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 3
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "UMP45"
+    },
+    "text": "하지만 전... 그냥 지휘관님께 선택받고 싶을 뿐이에요...+그렇지 않으면 전술 인형에게 무슨 가치가 있겠어요..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 0
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "??"
+    },
+    "text": "......"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 0
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "??"
+    },
+    "text": "그래서, 더 할 말은 없어?+나는 여기서 아무도 원치 않는 유일한 인형이야...+내가 있을 곳 역시, 네가 걱정할 필요도 없는 문제지...."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "??"
+      }
+    ],
+    "text": "......푸흡!+푸하하하하!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45"
+      }
+    ],
+    "text": "...마음껏 비웃으세요. 저도 지금 제가 한심한 꼴인 거 아니까요."
+  },
+  {
+    "characters": [
+      {
+        "name": "??"
+      }
+    ],
+    "text": "아, 미안 미안. 근데, 지금 무슨 상황인지 아직도 모르겠어?+너나 나나, 아무도 원치 않는 인형이라구!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45"
+      }
+    ],
+    "text": "네...? 설마 당신도..."
+  },
+  {
+    "characters": [
+      {
+        "name": "??"
+      }
+    ],
+    "text": "그래, 우리에게 각인된 무기를 잘 봐봐.+데이터가 삭제되었다 해도, 분명 우리는 똑같은 재수 없는 공장에서 태어난 게 틀림없어."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45"
+      }
+    ],
+    "text": "정말로...? 그렇다면 당신은..."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "??"
+      }
+    ],
+    "text": "맞아, 출고될 때부터 설치되어 있던 전자전 모듈 덕분에, 총도 제대로 못 쏘는 신세지...+하지만 정말로 기묘한 우연인걸! 내가 심심하던 차에 네가 이렇게 나타났으니까 말이야!"
+  },
+  {
+    "background": {
+      "id": 73
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP40"
+    },
+    "text": "내 이름은 UMP40. 너와는 같은 운명으로 맺어진 자매야. 이제부터 널 잘 보살펴줄게!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 3
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "UMP45"
+    },
+    "text": "...네? 보살펴요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 3
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP40"
+    },
+    "text": "그럼! 우리는 공장에서부터 지금까지, 같은 처지의 동료잖아! 일단 감정을 표현하는 법을 더 배워보는 게 어때?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 3
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "UMP45"
+    },
+    "text": "그래도, 인형이 친구를 사귈 필요가 있기는 한 건가요... 정말로 이상한 분이네요."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 4
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP40"
+    },
+    "text": "으이구, 이 멍청아...+사람들이 우리에게 왜 감정 모듈을 설치했겠어? 이게 다, 전투 이외에도 우리가 사람과 똑같았으면 하고 바란다는 증거야!+그리고 사람이라면 친구 한둘 쯤은 있어야 하지 않겠어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 4
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "UMP45"
+    },
+    "text": "그렇다면... 하지만, 우리가 그러는 게 무슨 의미가 있죠?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 3
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP40"
+    },
+    "text": "아무리 멍청한 인형이라고 해도, 두 명이 함께라면 연산 효율이 일반 인형 정도는 되지 않을까?+앞으로도 임무에서, 상부로부터, 그리고 다른 인형들로부터, 수많은 어려움을 겪게 될 거야. 그럴 때마다 우리 같이 힘을 합치자!+아, 맞다. 지휘관님 아직 계시려나? 넌 계속 훈련할 거야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 3
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "UMP45"
+    },
+    "text": "아, 그건......"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 3
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "UMP45가 채널을 하나 검색했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 3
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "UMP45"
+    },
+    "text": "하아... 지휘관님이 오프라인이니, 지금의 저로서는 정말로 할 수 있는 게 없네요..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 5
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP40"
+    },
+    "text": "흥, 정말 너무하구만!+성능만으로 모든 걸 판단하는 놈이 지휘관이라니! 정말 머리가 어떻게 된 거 아니야?!+성능 같은 것보다, 인형과 얼마나 마음이 잘 통하느냐가 훨씬 더 중요한데 말이야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 5
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "UMP45"
+    },
+    "text": "그런 식으로 말하지 마세요. 지휘관님의 선택과 명령은, 우리에게 있어 절대적이에요.+지금의 저에게는... 아직 지휘관님과 가까워질 자격이 없는 걸지도..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 2
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP40"
+    },
+    "text": "그렇게 자기비하를 해서 뭘 어쩌려고 그래. 내가 너한테 몇 가지 이야기를 해줘도 될까?+특별할 것도 없는 거긴 하지만 말이지..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 2
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "UMP45"
+    },
+    "text": "후우... 이미 더 떨어질 곳도 없는걸요...+그러니, 부디 저에게 가르침을 주세요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 3
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP40"
+    },
+    "text": "아이, 자꾸 그렇게 존댓말 안 써도 돼. 우리는 가족이자 친구야. 안 그래?+일단 먼저, 널 뒤덮고 있는 마이너스 감정을 전부 벗겨내야겠어!+그렇게 기죽어 있어서는 뭣하나 바꿀 수 없다고."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 3
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "UMP45"
+    },
+    "text": "...하하하.+우울증이나 외상 환자의 말동무가 되어서 즐겁게 해주는 건...+그런 건 바로 되는 게 아니라, 꾸준히 해야 하는 거잖아요. 저라고 이렇게 계속 침울해 있고 싶진 않다고요..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 4
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "UMP40"
+    },
+    "text": "내가 도와줄게, 너무 걱정하지 마! 누군가를 즐겁게 만드는 건 바로 내 전문이지!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "UMP40",
+        "face": 4
+      },
+      {
+        "name": "UMP45_Young",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "UMP45"
+    },
+    "text": "...정말요?"
+  },
+  {
+    "background": {
+      "id": 61
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "UMP40"
+      }
+    ],
+    "text": "좋은 방향으로 바뀔테니까, 날 믿어봐!+그 첫번째가 바로! 이거야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45"
+      }
+    ],
+    "text": "어? 이게 뭐하는 건데요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP40"
+      }
+    ],
+    "text": "주먹을 맞대는 거야. 우리끼리 약속을 하나 하는 거지.+날 믿어. 그만큼 너에게 보답해줄 테니까..."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "UMP40"
+      }
+    ],
+    "text": "약속할게. 모든 것은, 언젠가는 변하기 마련이니까......"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "시스템 알림"
+      }
+    ],
+    "text": "【경고】 프로토콜의 변경이 감지되었습니다. 【경고】 프로토콜의 변경이 감지되었습니다. +【경고】 프로토콜의 변경이......"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "드리머"
+    },
+    "text": "후후후... 엘더 브레인 녀석, 어지간히도 화가 난 모양인걸.+주 전장 쪽은 지금 매우 뜨거워진 것 같네~.+뭐, 그쪽에서 무슨 일이 벌어지든 내 알 바 아니지만. 난 그저 지금 눈 앞에 펼쳐진 드라마를 즐기면 되는 걸~."
+  },
+  {
+    "characters": [
+      {
+        "name": "시스템 알림"
+      }
+    ],
+    "text": "【경고】 프로토콜의 변경이 감지되었습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "디스트로이어의 통신"
+      }
+    ],
+    "text": "엄청 시끄럽네. 드리머, 이 경고 좀 끄면 안 돼?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "BOSS-11",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "드리머"
+    },
+    "text": "신경 쓸 것 없어. 그저 【경고】일 뿐, 【오류】가 아니니 내버려 둬도 괜찮아.+전 지역에 방송을 시작할 때면, 덮어쓰기가 다 끝날 거야.+그때 명령만 내리면..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "철혈의 인형 UMP45가, 이곳으로 몰려든 적들을 없애 버리는 거지.+추가 명령을 전달한다. 인식 루트 외의 방법으로 무슨 수를 써서든 하달된 명령을 완수하고, 작전 수행 중 통신을 열어두도록. 명령을 수신했으면 대답하라."
+  },
+  {
+    "text": "......+............"
+  },
+  {
+    "characters": [
+      {
+        "name": "시스템 알림"
+      }
+    ],
+    "text": "【경고】 프로토콜의 변경이 감지되었습니다.  【경고】 프로토콜의 변경이 감지되었습니다. +【경고】 프로토콜의 변경이 감지되었습니다.  【경고】 프로토콜의 변경이 감지되었습니다. +【경고】 프로토콜의 변경이 감지되었습니다.  【경고】 프로토콜의 변경이 감지되었습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "잠깐... 어째서 【경고】가 해제되지 않는 거지?+뭔가 잘못됐어...+어째서... UMP45가 내 명령에 반응하지 않는 거지...?"
+  },
+  {
+    "characters": [
+      {
+        "name": "디스트로이어"
+      }
+    ],
+    "text": "뭐어? 무슨 문제라도 발생한 거야?+설마 【우산】의 문제는 아니지?"
+  },
+  {
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "그럴 리 없어. 이미 수 차례나 검증을 마쳤는걸...+잠깐만......+내가 내린 명령이... 전부 UMP45의 권한에 막혔어?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "디스트로이어"
+      }
+    ],
+    "text": "어, 그러니까... 애초부터 【우산】이 UMP45의 지나 프로토콜을 우리의 오가스 프로토콜로 바꾸지 못했다는 거야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "아니... 지금 나와 연결되어 있는 건 오가스 프로토콜이야. 지나 프로토콜의 신호는 이미 사라졌어.+나한테... 지휘 권한이 없기 때문에 거부된 거야..."
+  },
+  {
+    "text": "......"
+  },
+  {
+    "characters": [
+      {
+        "name": "드리머"
+      }
+    ],
+    "text": "설마. 설마. 그럴 리가......+우후후후후후후...+아하하하하하하하하하하하하하─!!+그런 거였어! 그런 거였구나! 아하하하하하!"
+  },
+  {
+    "characters": [
+      {
+        "name": "디스트로이어"
+      }
+    ],
+    "text": "깜짝이야! 야, 드리머!+뭐가 그렇다는 거야? 뭘 알아냈길래 갑자기 그렇게 소름 끼치게 웃어?!+뭐 사실 평소에 웃는 것도 충분히 깜짝깜짝 놀라게 하지만..."
+  }
+]

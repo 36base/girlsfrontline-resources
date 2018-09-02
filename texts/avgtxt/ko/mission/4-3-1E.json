@@ -1,0 +1,129 @@
+[
+  {
+    "background": {
+      "id": 4
+    },
+    "sound": {
+      "bgm": "BGM_Sunshine"
+    },
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "좋은 아침이에요. 지휘관, 그리고 카리나 씨."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "응, 해독은 순조로워요. 이제 곧 세 번째 좌표를 찾을 수 있어요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 1
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "잘 모르겠습니다...카리나 씨, 어떻게 해독 방법을 찾아내신거죠?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "매우 원시적인 암호화라서 그래요. 단순히 AI로 부딫혀서 깰 수 있는게 아니에요.+제가 이래뵈도 쓸데없는 잡지식은 꽤 많이 알고있다고요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "그런데...이게 만약 인형의 클라우드 마인드맵을 남긴 거라면, 어째서 이런 방법을 썼을까요..."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "그건 잘 모르겠네요. 뭐 어쨌든 다음 좌표를 보죠."
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "좌표에 따르면 아마 이 곳에 있을 거예요.+지휘관, 정리가 끝난 뒤에 우리 AR팀이 새 전리품을 회수해 오겠습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "좋아요. 지휘관님, 그럼 우린 여기로 출발해요."
+  }
+]

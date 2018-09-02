@@ -1,0 +1,536 @@
+[
+  {
+    "background": {
+      "id": 27
+    },
+    "frame": 2,
+    "sound": {
+      "bgm": "BGM_Room"
+    },
+    "text": "AR-15 실종 5일 후."
+  },
+  {
+    "frame": 2,
+    "characters": [
+      {
+        "name": "헬리안"
+      }
+    ],
+    "text": "...이상이 AR-15 관련 최신 정보입니다, 크루거 님. 지휘관과 AR팀은 지금도 적극 수색 중입니다.+한 편 조금 전, 404 소대가 【긴급 지휘권】을 요청하여, 제가 승인하였습니다."
+  },
+  {
+    "frame": 2,
+    "characters": [
+      {
+        "name": "크루거"
+      }
+    ],
+    "text": "...어쩔 수 없는 상황이 아니라면 권한을 주지 않도록 말했을 텐데."
+  },
+  {
+    "frame": 2,
+    "characters": [
+      {
+        "name": "헬리안"
+      }
+    ],
+    "text": "현재 404 소대가 마주한 위협은 예상보다 심각합니다.+어쩌면, 정말 그 재머가 【우산】 계획과 관련되어 있을 수도 있습니다."
+  },
+  {
+    "frame": 2,
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "크루거"
+      }
+    ],
+    "text": "흐음...+그들의 현재 위치는?"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "characters": [
+      {
+        "name": "헬리안"
+      }
+    ],
+    "text": "이미 S06 구역에서 작전을 시작했습니다.+더 자세한 정보는, 그들이 살아 귀환하면 듣도록 하죠."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se2": "Alarm"
+    },
+    "text": "같은 시각, S06 구역의 철혈 분쟁 지대."
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "UMP9"
+      }
+    ],
+    "text": "416, 일어나~+일어나라니까~!+야~~~~!!"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_NightOPS"
+    },
+    "characters": [
+      {
+        "name": "HK416"
+      }
+    ],
+    "text": "으윽...+... 시끄러워."
+  },
+  {
+    "background": {
+      "id": 3,
+      "isNight": true
+    },
+    "screenEffect": "blink",
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 3
+      }
+    ],
+    "text": "헤이! 아직 살아있어, 416?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416"
+      }
+    ],
+    "text": "내 입에서 \"덕분에 살았어\" 같은 소리를 듣고 싶다면, 빨리 이 돌이나 치워."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 3
+      }
+    ],
+    "text": "그래? 철혈의 척살대가 오려면 아직 3분 정도 남았으니, 그럼 그전에 뭐라도 해볼게."
+  },
+  {
+    "screenEffect": "dark2",
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 0
+      }
+    ],
+    "text": "(돌을 치우며) 그런데 포격 소리 들리지? 상황 나빠지면 나 바로 도망친다?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그러기만 해 봐, 바로 고개를 돌려줄 거야... 그 머리통을 꺾어서!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP9",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "에이~, 내 잘못도 아닌데 나한테 화내서 뭐 어떡하려구. 철혈이 그렇게 갑자기 들이닥칠 줄 누가 알았겠어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "고작 통신 재머 하나 가지고 저렇게 목숨 걸 필요가 있을까나."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "우리가 너무 얕봤어. 헬리안이 보수를 그렇게 높게 부를 때부터 뭔가 잘못됐다는 걸 눈치챘어야 했는데."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP9",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "그러게 말이야. 사방이 레이더라서, 고개만 살짝 내밀어도 집중 사격을 당한다니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP9",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "야간 작전이니, 우선 어떻게든 그 레이더들을 점령해야 해. 이대로는 시야도 제대로 확보할 수 없어."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "하지만 우리 둘만으론 불가능해. 이번 척살대에는 장갑병까지 있는걸."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "어쩐지...+이상하게 총알이 안 박히는 것 같더라니. 철갑탄 구할 수는 있겠어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "45 언니가 알아보는 중인데, 잘 모르겠어. 뾰족한 수가 있을지..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "웃기고 있네. 45가 벌써 다 준비해놨잖아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP9",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "(흠칫) 엑? 어떻게..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP9",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "3분이나 지났는데 아직도 도망 안 갔으니까."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 3
+      }
+    ],
+    "text": "...헤헷♪+오늘 넌 운 좋은 거야. 이걸로 다 치웠으니까 나와."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "UMP9"
+      }
+    ],
+    "text": "지금 45 언니한테 연락할 거니까, 일단 어디에 좀 숨어있어 봐.+그것보다 곧 철혈의 돌격대가 도착할 텐데. 그 동안 기도라도 하는 게 어때?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "HK416"
+      }
+    ],
+    "text": "45 쪽에 문제가 없다면, 기도해야 하는 건 내가 아니라 철혈 놈들이지."
+  },
+  {
+    "background": {
+      "id": 3,
+      "isNight": true
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "여기는 UMP45. UMP9, 응답하라. 416 녀석은 죽었니?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 2
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그것참 아쉽게 됐네. 당장 철수하겠단 말이나 해."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 2
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "우리 416, 성질 급한 건 알아줘야 한다니까♪ 유감스럽게도, 아직 후퇴할 생각은 없어.+포위는 내가 뚫어줄 테니까 9은 나랑 합류해. 할 일이 생겼어.+G11이 아직 철혈의 진지에서 도청 중이니까, 416은 전장을 뚫고 가서 걔를 엄호하고 있어 줘. 이쪽 일이 끝나는 대로 마중 나갈 테니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 2
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "어휴... 성급하게 명령하지 마, 지금 변변한 장비 하나 없는 인형 둘한테 저 장갑병들을 상대하라는 거야?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "(소곤) 거기에... 한밤중에 더듬거리며 재머까지 찾아야 하고."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "걱정하지 마. 방금 헬리안이 나에게 【긴급 지휘권】을 넘겨줬거든.+게다가 우리에게 【장비】 사용 권한까지 열어줬으니, 염려 붙들어 매렴."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 3
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "휴우, 그거 다행이네. 그리폰이 지원해주면 병력에 철갑탄까지 다 해결이야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 2
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그럼 시야 확보는? 지금 적의 모습조차 볼 수가 없다고."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 2
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "권총 인형의 정찰 능력을 활용해서, 야간 작전에서 시야를 확보할 수 있어.+그리고, 내가 제대를 운용해 레이더의 통제권을 빼앗으면, 더 넓은 시야를 확보할 수 있을 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 3
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "철갑탄, 권총 인형, 레이더. 이 세 가지만 확보하면 승산이 있다는 거네!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 3
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "그래도 시야는 제한적이니까, 너무 무모하게 행동하지는 마.+최대한 적의 눈에 띄지 말고, 충분한 준비하에 작전을 진행하자."
+  }
+]

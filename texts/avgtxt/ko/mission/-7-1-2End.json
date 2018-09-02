@@ -1,0 +1,229 @@
+[
+  {
+    "background": {
+      "id": 3,
+      "isNight": true
+    },
+    "sound": {
+      "bgm": "BGM_Danger",
+      "se2": "Gunfight"
+    },
+    "text": "...헌터의 포위망으로 인해, 그리폰 제대는 점점 전세가 불리해져 갔다."
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "M1873",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "여보세요! 여기는 M1873!+M4, P08, 아직 다 안 된 거야?! 헌터한테 잡히기 직전이야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "미안해요, 여러분. 조금만 더 버텨 주세요..."
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "P08",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "...됐다!+M4 씨, 찾았어요! 예상대로, 공장 안에 철혈의 AI 코어가 헌터에게 명령을 내리는 통신 장비가 있어요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "정말인가요!? 서둘러 파괴해주세요!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "P08",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "알겠습니다!+당장 시스템 과부하 조작을 시작할게요!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "......지직, 지지직.+...퍼엉!"
+  },
+  {
+    "characters": [
+      {
+        "name": "P08"
+      }
+    ],
+    "text": "통신 장비 파괴 완료!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M1873"
+      }
+    ],
+    "text": "...멈췄어.+헌터가 멈췄어! 야호! 이제 살았다!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "휴우...+고맙습니다, P08. 이제 모두 안전해졌어요..."
+  },
+  {
+    "characters": [
+      {
+        "name": "P08"
+      }
+    ],
+    "text": "잠깐... 무슨 소리가 들리는데..."
+  },
+  {
+    "sound": {
+      "se1": "Heartbeat"
+    },
+    "text": "삑, 삑, 삑..."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Truth"
+    },
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "잠깐... 이게 무슨..."
+  },
+  {
+    "characters": [
+      {
+        "name": "P08"
+      }
+    ],
+    "text": "M4 씨...+당신도 아는 소리예요...+그놈들... 통신 장비에 폭탄을 연결해놨네요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "...!!!"
+  },
+  {
+    "characters": [
+      {
+        "name": "P08"
+      }
+    ],
+    "text": "조금만 더 일찍 발견했다면, 해체할 수 있었을지도 모르지만...+안타깝게도... 너무 늦었네요."
+  },
+  {
+    "sound": {
+      "se1": "Heartbeat"
+    },
+    "text": "삑, 삑, 삑..."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "P...08...+전..."
+  },
+  {
+    "characters": [
+      {
+        "name": "P08"
+      }
+    ],
+    "text": "M4 씨, 모두의 운명을... 당신께 맡길게요.+그리폰의 영광... 그리고 미래를 위해..."
+  },
+  {
+    "text": "......+............"
+  },
+  {
+    "sound": {
+      "se1": "Explode"
+    },
+    "text": "콰앙!!+...통신이 두절되었다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "......+어째서..."
+  },
+  {
+    "background": {
+      "id": 37
+    },
+    "screenEffect": "scratching",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "나... 나는..."
+  },
+  {
+    "background": {
+      "id": 36
+    },
+    "screenEffect": "scratching",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "나는 도대체..."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "나는 도대체... 뭘 하고 있는 거지...?"
+  }
+]

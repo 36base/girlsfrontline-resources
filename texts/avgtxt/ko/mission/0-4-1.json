@@ -1,0 +1,345 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se1": "Heartbeat"
+    },
+    "characters": [
+      {
+        "name": "에이전트"
+      }
+    ],
+    "text": "...내가 네 죽음을 가져왔노라.+자, 어서 눈을 뜨거라..."
+  },
+  {
+    "background": {
+      "id": 11
+    },
+    "screenEffect": "spark",
+    "sound": {
+      "se1": "m4a1_015"
+    },
+    "characters": [
+      {
+        "name": "에이전트"
+      }
+    ],
+    "text": "...나를 보거라. 전술인형 M4A1, 날 보란 말이다."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Sad"
+    },
+    "characters": [
+      {
+        "name": "에이전트"
+      }
+    ],
+    "text": "이제 막을 내릴 시간이다. 네년이 끝까지 함께 해줬으면 좋겠구나."
+  },
+  {
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "Rope",
+      "se2": "m4a1_013a"
+    },
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "큭......+에이전......트......"
+  },
+  {
+    "background": {
+      "id": 12
+    },
+    "characters": [
+      {
+        "name": "에이전트"
+      }
+    ],
+    "text": "흥미롭구나. 죽음을 코앞에 둔 눈빛이 다른 년들과는 달라.+좋아, 그 눈이다. 더 경악해라, 더 괴로워해라, 더 증오하거라!"
+  },
+  {
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "Rope",
+      "se2": "m4a1_013b"
+    },
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "콜록...콜록..."
+  },
+  {
+    "background": {
+      "id": 20
+    },
+    "frame": 2,
+    "screenEffect": "scratching",
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "에이전트"
+      }
+    ],
+    "text": "주인님께서 그렇게나 소중히 여기는 물건을 훔치고도, 몸 성히 도망칠수 있을거라고 생각했느냐?+시작은 너, 그 다음은 너의 AR팀이다. 그리고 그 다음은 아직 너를 위해 목숨을 걸고 있는 그리폰 인형들이지.+이제 곧, 그녀들은 부모를 잃은 애새끼들 마냥 우왕좌왕할 것이다.+전장에서 무작정 발버둥 치다가, 그대로 우리들의 사냥감이 되는 것이다!......"
+  },
+  {
+    "background": {
+      "id": 12
+    },
+    "screenEffect": "spark",
+    "sound": {
+      "se1": "Rope"
+    },
+    "characters": [
+      {
+        "name": "에이전트"
+      }
+    ],
+    "text": "네년이 죽는다면 말이다!...이제 곧, 너는 여기에서 죽는 거다!"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se1": "Select"
+    },
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "...미안한데, 그녀는 여기서 죽을 수 없거든."
+  },
+  {
+    "characters": [
+      {
+        "name": "에이전트"
+      }
+    ],
+    "text": "......!"
+  },
+  {
+    "screenEffect": "closeSpark",
+    "sound": {
+      "se1": "RunStep"
+    }
+  },
+  {
+    "background": {
+      "id": 14
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Danger",
+      "se1": "MachineGunBurst"
+    },
+    "characters": [
+      {
+        "name": "M16A1"
+      }
+    ],
+    "text": "기다릴 것도 없지, 지금 당장 지옥에 떨어져라!!!+철혈의 쓰레기!!!"
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "sound": {
+      "se1": "MachineGunBurst",
+      "se2": "TiexueDie"
+    }
+  },
+  {
+    "background": {
+      "id": 15
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "콜록...콜록..."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "이봐, 나한테 고마워 하라고. 너 또 한 번 삼도천을 건널뻔 했잖아."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "후...M16, 바깥은 어떻게 됐나요? AR-15랑 다른 아이들은 아직......"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "돌아왔어. 철혈의 증원이 왔으니 빨리 퇴각 해야해"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 0
+      },
+      {
+        "name": "SOPII",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "지원팀이 아직 조금 더 버틸 수 있을거야, 빨리 가자고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "SOPII",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "M4, 계속 지휘할 수 있겠어? 상처가 심해 보이는데."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "M4A1",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "심한건 아닙니다. 하아....M16, 수복 하는 것 좀 도와주세요. 전 일단 지휘 시스템부터 체크하겠습니다."
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "다행히 전술맵은 괜찮은 것 같은데, 통신 시스템은?"
+  },
+  {
+    "characters": [
+      {
+        "name": "VZ61",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "text": "통신 이상 무! 이쪽은 잘 들려!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      }
+    ],
+    "text": "(그녀들은 여기에 남겨져 있던 인형부대의...)+...죄송합니다. 아무래도 뒤를 맡겨야 할 것 같습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "PPSh41",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "PPSh-41"
+    },
+    "text": "천만에요 동지, 당연히 우리가 해야 할 일이랍니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "(...그녀들...자신들이 버려졌다는 걸 모르는구나...)+...라져, 최대한 빨리 철수하도록 하겠습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AR-15"
+    },
+    "text": "지원소대는 오래 못 버틸 거야, 우린 최대한 빨리 앞으로 나아가야 해!"
+  }
+]

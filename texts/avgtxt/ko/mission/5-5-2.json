@@ -1,0 +1,330 @@
+[
+  {
+    "background": {
+      "id": 6
+    },
+    "sound": {
+      "bgm": "BGM_Sad"
+    },
+    "text": "...엄호작전 종료."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "지휘관님, 응답 바랍니다. 엄호작전은 순조롭게 끝났으며, AR팀이 목적지에 도착했습니다.+정보는 곧 수집이 끝날 예정입니다. 이후의 지시를 부탁드립니다......"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "정신차려 SOPII, 넌 인형이라고."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "인형이기 때문에 조절이 안된단 말이야...+우린 작전 도구일 뿐인데, 왜 모의감정모듈 같은걸 장착한걸까.+그저......적의 머리에 대고 방아쇠를 당기는 것 뿐인데..."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "누가 알겠어.+어쩌면 처음에는......이러지 않았겠지."
+  },
+  {
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "AR팀, 지휘관님께서 데이터를 수집 완료하는 대로 후퇴해도 된다고 하네요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "좋아, 라져. SOPII, 가자."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 2
+      },
+      {
+        "name": "M16",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "네..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 2
+      },
+      {
+        "name": "M4A1",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "SOPII, 괜찮나요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "M4A1",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "나......잘 모르겠어......+다들 겨우 다시 모였는데......"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      },
+      {
+        "name": "M4A1",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "지휘관님께서 AR-15가 무장해제 당할 일은 없다고, 금방 돌아올 수 있을 거라고 말했어요."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "그나마 다행이네, 아니면 커피숍이나 탄광에서 그녀를 찾아야 할테니."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "어쩌면 우리가 돌아가는 대로 그녀가 팀에 복귀할지도 몰라요."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 2
+      },
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "응......+그럼 우린 일단......"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se1": "Alarm"
+    },
+    "characters": [
+      {
+        "name": "M16",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AR팀"
+    },
+    "text": "...!!!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "......이건......긴급 경보!"
+  },
+  {
+    "characters": [
+      {
+        "name": "헬리안"
+      }
+    ],
+    "text": "그리폰의 모든 지휘관 및 각 전술인형소대를 호출합니다.+이하 긴급 통신을 전하겠습니다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      }
+    ],
+    "text": "......?"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "characters": [
+      {
+        "name": "헬리안"
+      }
+    ],
+    "text": "AR팀의 전술인형 AR-15가......+방금 그리폰 고위 명령을 거역하고 독단적으로 거점을 이탈하였습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "......?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "헬리안"
+      }
+    ],
+    "text": "모든 지휘관과 전술인형은 해당 인형을 발견 즉시 신속히 제압할 수 있도록 해주십시오."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPII",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "AR-15......?"
+  },
+  {
+    "characters": [
+      {
+        "name": "헬리안"
+      }
+    ],
+    "text": "해당 인형이 악성코드를 보유하고 있는 혐의를 고려해, 극단적인 상황에선......+......전술인형 AR-15의 파괴를 허가합니다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 2
+      }
+    ],
+    "text": "......+어째서죠......AR-15......+대체 무슨 생각을 하고 있는 건가요......"
+  }
+]

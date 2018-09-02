@@ -1,0 +1,646 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    }
+  },
+  {
+    "background": {
+      "id": 157
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "text": "예고르의 통신기에서 요란한 소리와 비명이 들려온다."
+  },
+  {
+    "characters": [
+      {
+        "name": "인간 여성의 소리"
+      }
+    ],
+    "text": "<color=#00CCFF>아군이에요! 살려주세요!</color>+<color=#00CCFF>콜록... 제발 부탁할게요! 전 협박당했어요! 아무것도 안 했으니까 제발!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 3,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "정규군 병사"
+    },
+    "text": "<color=#00CCFF>대위님, 안젤리아로 의심되는 목표를 잡았지만. 저희 의료인원으로 확인하였습니다, 안젤리아의 모습으로 간단하게 분장시킨 것입니다.</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "인간 여성의 소리"
+      }
+    ],
+    "text": "<color=#00CCFF>그 인형이 절 기절시키고 여기에 버리고 갔어요. 콜록... 지금 치료가... 콜록콜록! 부탁해요...</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 병사"
+    },
+    "text": "<color=#00CCFF>지금 감염되어 치료가 필요한 상태입니다... 대위님?</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "데리고 귀환하라, 오면서 치료하고."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "예고르는 탱크에 기댄 채, 손으로 눈을 세게 문질렀다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "안젤리아는 빌딩에 있는 거였군...+자신을 치료할 시간을 벌려고 한 거였어! 이 XX!"
+  },
+  {
+    "text": "예고르는 탱크를 주먹으로 내리치고 지휘실로 향했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 3,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "정규군 병사"
+    },
+    "text": "<color=#00CCFF>대위님! 그리폰 소대가 빌딩 방향으로 도주 중입니다!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "방어선으로 돌아가는 것이다! 안젤리아를 지키려고 마지막 저항을 할 셈이다!+정찰부대는 어디 있느냐? 그리폰보다 먼저 빌딩에 진입 가능한가?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 병사"
+    },
+    "text": "<color=#00CCFF>가능합니다만, 현재 빌딩이 그리폰의 중화기부대의 사거리 안에 있어, 함부로 접근했다간 공격받을 수 있습니다!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "그럼 원위치에서 대기시켜라. 모든 전투인원은 들어라, 즉시 목표 빌딩으로 향해 포위하라!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "안젤리아! 네년이 아무리 수작을 부려봤자 헛수고다, 빌딩에 돌아간다 해도 다 개죽음뿐이다!+이번이야말로 놓치지 않겠다!"
+  },
+  {
+    "background": {
+      "id": 46
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "10분 후, 철수부대가 빌딩에 돌아와, 416이 안젤리아에게 아드레날린을 주사했다."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Brain"
+    },
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "후우... 고맙다, 많이 나아졌어."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "주사를 놓을 때 그 울부짖던 소리를 녹음했어야 했네요."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "내 장례식에 가서 틀지 마.+이제야 좀 머리가 돌아가는 것 같다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "지휘관님, 그리폰 철수부대는 이미 빌딩에 돌아와 마지막 방어선을 구축할 거예요.+폭탄은 이미 다 개조했고 저와 AN94가 서둘러 설치 중이에요, 물론 기폭장치도요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "정말 이렇게 할 거야? 우리 뜻대로 될지는..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      },
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AN94"
+    },
+    "text": "최악의 경우, 저희 모두 여기서 죽을 겁니다. 다만 그것도 준비된 바입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "SOP2와 HK416은 아직...+아직 임무가 남아 있어... 지휘관이 아직 벗어나지 못했으니, 너희는 여기서 쓰러져서는 안 돼."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "미안, 이게 지휘관의 명령인걸. 나보고 후퇴하라 해도 명령을 어길 수는 없잖아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "지휘관, 왜 이렇게까지 위험을 무릅쓰고서 날 구하려는 거야?"
+  },
+  {
+    "text": "...<c>위기 따위 이미 익숙하다.<c>먼저 눈앞의 일에 집중하자.<c>많이 신세 진 만큼 보답해야 한다."
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "지휘관"
+      }
+    ],
+    "text": "위기 따위 이미 익숙하다. 이건 그저 평소에도 있는 임무다."
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "그래서 너 자신이 얼마나 소중한지를 모른 거지?"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "그래서 지휘관이 더 중요한 거죠? 리스크 없이 승리는 없어요."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "그리폰에 필요한 건 전략적 안목이 있는 지휘관이지 나 같은 바보가 아니야."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "글쎄, 내가 보기엔 우리 모두 불합격일걸. 그래서 이렇게 끼리끼리 모여있는 거잖아?"
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "여긴 전장이야. 인정 따윈 없어! 지휘관, 당신은 내게 빚진 것 없어!"
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그럼 이제 지휘관님에게 빚진 거네요, 안젤리아. 나중에 감사의 편지 내용이라도 생각해 봐요."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "이미 결정했으면 이제부터의 대책을 세우도록 합시다, 안젤리아."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "... 그래.+우리 임무는 저 깡통폭탄이 모두 설치될 때까지 적을 지연시키는 거야.+군은 분명 모든 수단을 써서 빌딩으로 쳐들어올 거야. 최대한 시간을 벌어!"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "SOP2, 416, 군이 사방에서 포위하고 있어!"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Reverse"
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "정말로... 모든 주력부대를 끌어왔구나."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "지금 안젤리아가 빌딩 안에 있는 것을 확인했어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "그러고 보니 군의 주력부대와 정면으로 싸우는 건 이게 처음이지...+나도 인형 소체로 싸울 수 있다면 좋을 텐데."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "일단 한 숨 푹 자둬, RO.+일어날 때쯤이면 안젤리아를 데리고 나갈 수 있을 거야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "RO635"
+    },
+    "text": "어차피 이젠 나도 도움 안 될 테니까, 너한테 맡기지 뭐."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "아니... 역시 깨어있어줄래, RO?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      },
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "RO635"
+    },
+    "text": "어? 왜?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      },
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "우리 둘 함께해서야 AR소대니까."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "맘대로 해.+내가 모든 것을 기록해줄게, AR소대가 군의 주력에 맞서는 장면을 말이야."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "적이 온다! 화력소대는 영격 준비해!+지휘관님, 여기가 최후의 방어선이에요. 반드시 저들의 습격을 막아내, 리벨리온에게 시간을 벌어주셔야 해요!"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  }
+]

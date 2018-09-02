@@ -1,0 +1,918 @@
+[
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "sound": {
+      "bgm": "BGM_Danger",
+      "se1": "Gunfight"
+    },
+    "text": "......404소대와 철혈 휘하의 군 인형의 전투가 벌어졌다."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "45 언니! 놈들의 화력이 엄청나!"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "제, 제기랄, 성능 차가 너무 심해!+군의 인형은 모두 괴물인 거냐고?!"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "예상했던 것보다 상황이 나쁜걸."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "G11",
+        "face": 3
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "우으으...... 안 되겠어...+도저히 저 쇳덩어리들을 이길 수 없겠어..."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "G11",
+        "face": 3
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "안 되면 일단 후퇴하도록 하자, 나중에 다른 방법으로 잠입해보는 거야."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "하지만...+45 언니, 뒤쪽에서도 군용 인형이 오고 있어..."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "칫, 포위당했나?+9, 일단 안젤리아에게 연락해!"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "흥… 아무래도 이번엔 진짜 너 때문에 죽게 생겼네.+저 괴물들에게 산산이 조각나기 전에, 화풀이할 기회를 주면 안 될까, UMP45?"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "시간을 달라고!+아아아아! 도저히 막질 못하겠어!+아아, 정말 여기서 죽는 걸까..."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "G11",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "싫어! 아직 봐야 할 영화가 쌓여있다고──"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "멍하니 있지 마, 이 멍청아! 빨리 9을 도와! 빨…"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se1": "Alarm"
+    },
+    "text": ".........위이잉──!+.........+......"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "text": "......+군용인형들의 움직임이 갑자기 멈추었다."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "G11",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "머...... 멈췄어?"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "...무...... 무슨 일이지?"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "45 언니! 이 주변 구역의 통신이 전부 먹통이 된 것 같아, 안젤리아와도 연결이 안 돼!"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      },
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "이유는 잘 모르겠지만, 찬스인걸. 이 틈을 타서 빅 데이터베이스까지 서두르자."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "잠깐만!+너 그러니까 지금 겨우겨우 살았는데 철혈 중심지에 뛰어들어가 죽으라는 말이야?"
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "그럼, 여기 남아도 돼.+ 혹시 알아? 쟤들이 일어나면, 너한테 야식을 한 턱 \"쏴\" 줄지."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "됐어, 배 터지긴 싫어.+역시, 네 마인드맵에 포기란 선택지는 없구나."
+  },
+  {
+    "background": {
+      "id": 7,
+      "isNight": true
+    },
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "이러고 있을 때가 아니야, 416.+정말 하늘에서 떡이 떨어진 것 같으니까, 냉큼 집어먹어야지."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "screenEffect": "blackSpot2",
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "text": "404소대는 철혈 빅 데이터베이스에 도착했다."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "...으음.+이번엔 참 재밌는 것들이 많구나."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 0
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "45 언니, 뭘 찾았는데?"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 0
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "오가스, 엘더브레인, 그리고 AR팀의 그 아가씨의 일들.+자세한 내용은 암호화되어 있어, 지금 해독할 시간이 없으니까, 이대로 가져가자."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "통신이 돌아오고 있는 것 같아.+45 언니, 서둘러야 해."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 0
+      },
+      {
+        "name": "BOSS-7",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "게이저"
+    },
+    "text": "치즈를 훔쳐놓고 도망칠 생각인가, 404의 생쥐들?"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "BOSS-7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "......이런.+오랜만이야, 게이저 아가씨, 혼자 왔어?"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "BOSS-7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "게이저"
+    },
+    "text": "들러리도 좀 데려왔지, 너희보다 좀 많이.+그것보다... 설마 이런 곳까지 찾아낼 줄이야, 대체 넌 어떻게 돼먹은 인형이지, UMP45?"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "BOSS-7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "흐흥, 그저 보잘것없는 결함품이야."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "BOSS-7",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "게이저"
+    },
+    "text": "그래, 그럼 내가 가공을 더해서 폐품으로 만들어 주지.+자아, 유언은 준비했나?"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "text": "...통신 중단."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "sound": {
+      "se1": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "이 지역 주변이 철혈의 신호로 가득해, 우린 포위당했어!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "역경을 지나 또 다른 역경이라... 참으로 스펙터클한 작전이네.+45, 어쩔 거야? ...45?"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "text": "...HK416이 뒤돌아보자, UMP45는 안젤리아와 통신 연결 중이었다."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "상황은 어때, UMP45?"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "좋은 소식 하나랑 나쁜 소식 하나, 어떤 거 먼저 들을래?"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "네가 스스로 나에게 연결했으니... 나쁜 쪽부터 듣지."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "게이저 부대에게 포위당했어."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "그럼 좋은 소식은?"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "지금 바로 옆에 철혈의 빅 데이터베이스가 있어."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "좋아, M4A1에게 소대를 붙여 지원을 보내지."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "M4A1?"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "지금 내 지휘하에 있어, 문제 있나?"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "아니, 별로 중요하지 않아."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "그럼, 구체적인 작전은 나중에 너희 상황에 따라서 알아서 짜도록."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": ".....UMP45는 통신을 종료했다."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "이따가 M4A1이 소대를 데리고 구해주러 올 거라던데.+우린 그들과 호흡을 맞춰서 작전을 수행해야 한다더라."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "M4A1? AR팀의 그… M4A1?+그 녀석이... 온다고?"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "지금 당분간은 우리 고용주 지시를 따른대.+그리고, 지금은 그들을 기다릴 수밖에 없고 말이야.+순조롭게 풀리면...... 게이저를 이곳에서 해치울 수도 있을지도."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "너 말야...+지금 목숨이 간당간당한 상황인 주제에 게이저 녀석을 처치할 생각이야?"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "그래, 아무리 나라고 해도 계산을 잘못할 때가 있는 법이야.+하지만 지푸라기 한 가닥이라도 살아나갈 길이 보이면…"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "반드시 살아남겠어...+...그리고, 철저하게 복수해야지."
+  }
+]

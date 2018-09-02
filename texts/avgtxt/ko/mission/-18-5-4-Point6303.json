@@ -1,0 +1,648 @@
+[
+  {
+    "background": {
+      "id": 99
+    },
+    "screenEffect": "spark",
+    "sound": {
+      "bgm": "bossbattle_loop",
+      "se1": "Gunfight"
+    },
+    "text": "........."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "움직일 차례예요! 45!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "416! G11! 잘 들어!+레일건이 충전되는 데 필요한 시간 20초야. 마구마구 쏴서 화력을 유인하고, 마지막 10초에 자리를 옮겨!+알겠지! 전탄 사격!"
+  },
+  {
+    "sound": {
+      "se1": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그러고 있어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "빨리! 뛰어 뛰어! 포신이 아직 돌아오지 않은 틈에!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "가고 있다고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "이제 8초! 416! 움직여!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "말 안 해도 알아!"
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "아으아아! 416 빨리 뛰어!"
+  },
+  {
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "Explode"
+    },
+    "text": ".........!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "한 번 이러는 것만으로 모든 부품의 수명이 반으로 줄어드는 느낌이야..."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "불평할 시간 없어! 다시 한번! 9, 따라올 준비해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "정말로 지나갈 수 있다니...+45! 그쪽은 어떻죠!?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그럭저럭! 9, 바짝 따라붙어야 돼!+416! 한 번 더!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "너희 다 미친놈들이야! 나도 미치겠어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "총열… 총열이 과열됐어…"
+  },
+  {
+    "sound": {
+      "se1": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "계속 쏴! 무기가 망가질 때까지!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "세이프!+아차! 저기 탱크가 충전을 앞당겼어...!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "뭐! 예측 당했나!+416, 어서 피해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "느… 늦었어… 드디어 여기서…"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "쳇!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "45! 엄폐에서 벗어나지 말아요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "따라잡았어! 마지막 TNT다!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "안 돼! 너무 가까워!"
+  },
+  {
+    "screenEffect": "shockScreen",
+    "sound": {
+      "se1": "Explode"
+    },
+    "text": ""
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "......"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "characters": [
+      {
+        "name": "HK416"
+      }
+    ],
+    "text": "나... 아직 살아있는 건가..."
+  },
+  {
+    "characters": [
+      {
+        "name": "G11"
+      }
+    ],
+    "text": "일어나 416, 위치를 옮겨야 해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "......!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "45 언니!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45"
+      }
+    ],
+    "text": "크윽...! 아윽!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "AR15! 엄호 부탁해요! 지금 끌고 올 테니까!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15Mod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AR15"
+    },
+    "text": "엄호 중이야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45"
+      }
+    ],
+    "text": "아… 아야야… 이렇게 아프게 맞을 수도 있구나…"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "말하지 마세요! 끌고 돌아왔습니다!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "45 언니!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "정말로 미친 거야?! 너 짝퉁이지!+설마 우릴 위해서...!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "크흑...... 너랑 G11 둘 다 내게 갚을 것 잔뜩이라고...+이대로… 이대로 보내줄 순 없어…"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15Mod",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AR15"
+    },
+    "text": "파편 6개! 피탄 부위의 신호전달을 끊도록 해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "치명상이 아니라 다행이에요, 백업 가능한 더미 있나요?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "이미 다 써버렸어...!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "그럼 목숨이 얼마나 질기냐에 달렸네요.+안젤리아 씨! 45가 부상당했습니다!+404소대 다른 멤버도 탄약이 다 떨어져갑니다! 무슨 대책 있습니까?!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "45?! 이봐! 45!"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "...목숨은 부지했어, 하지만 더 이상 강행돌파는 무리야, 안젤리아, 아직 히든카드가 남아있겠지."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "M4, 너희들은 그자리에서 수비를 굳혀, 우리도 거의 다 왔어, 나와 그리폰의 제대가 마중을 갈 테니까!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AR15Mod",
+        "face": 5
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AR15"
+    },
+    "text": "지휘관의 증원이 있다 해도, 승산은 역시..."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "알고 있어요... 45! 아직 살아 있죠?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "네 덕분에...+하지만 진짜 원하는 건 이거잖아?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "기폭 스위치?"
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "헤에… 원래 너한테 이런 위험한 물건은 주기 싫었는데, 이렇게 된 이상 어쩔 수 없지."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "고마워요, 최종수단을 실행할 사람은 필요하니까요."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "스위치를 누를 때 잘 생각해, 지금 폭발하면 우리 모두 오염 구역 안이야.+폭심지만 피하면, 인형은 오염구역에서도 어느 정도 활동할 수 있지만, 인간은 복사 에너지에 심각한 영향을 받을 거야..."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1Mod",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4A1"
+    },
+    "text": "안젤리아와 지휘관, 그들이...."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그래… 스위치를 누를 때의 대가는 이미 말해줬어, 어떻게 할지는 너 스스로 결정해."
+  }
+]

@@ -1,0 +1,473 @@
+[
+  {
+    "background": {
+      "id": 6
+    },
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "character": [
+      {
+        "name": "M1873",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M1873"
+    },
+    "text": "야호~ 역시나 따라왔구나~+마카로프도 결국은 이 정도일 뿐이네, 경험이 한참 부족해. 이번 승부는 따놓은 당상이네!"
+  },
+  {
+    "character": [
+      {
+        "name": "M1873",
+        "face": 0
+      },
+      {
+        "name": "CZ75",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "CZ75"
+    },
+    "text": "아직 결판나지는 않았어, 경계 상태를 유지하는 게 좋을 거야, M1873."
+  },
+  {
+    "character": [
+      {
+        "name": "M1873",
+        "face": 0
+      },
+      {
+        "name": "CZ75",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M1873"
+    },
+    "text": "좋아, 그럼 일단 말 안 할게.+어차피 직접 면상에 대고 말할 테니까."
+  },
+  {
+    "character": [
+      {
+        "name": "M1873",
+        "face": 0
+      },
+      {
+        "name": "CZ75",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "CZ75"
+    },
+    "text": "참... 저기 온다. 바로 앞에 그 버그가 있는데, 어떻게 할 거야?"
+  },
+  {
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "M1873",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M1873"
+    },
+    "text": "물론 이대로 내버려두--울 수야 없지! 여기서 숨어서 올 때까지 기다리자."
+  },
+  {
+    "background": {
+      "id": 6
+    },
+    "screenEffect": "dark2",
+    "text": "이동 경로 위에서"
+  },
+  {
+    "character": [
+      {
+        "name": "TT33",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "토카레프"
+    },
+    "text": "안 보이네요. 설마 벌써 들어간 걸까요? 아무리 해도 너무 위험한데요..."
+  },
+  {
+    "character": [
+      {
+        "name": "TT33",
+        "face": 0
+      },
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "마카로프"
+    },
+    "text": "아니. M1873도 바보는 아니야, 적어도 심각한 바보는 아니야, 분명 이 근처에 있을 거야.+그 성격으로 봐서 아마 매복을 했겠지... 잠깐 보고 올게."
+  },
+  {
+    "character": [
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "마카로프가 주위를 유심히 관찰했다."
+  },
+  {
+    "character": [
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "마카로프"
+    },
+    "text": "이상하네... 설마 정말로 사라진..."
+  },
+  {
+    "sound": {
+      "se1": "Gunkill"
+    },
+    "character": [
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "타앙!"
+  },
+  {
+    "screenEffect": "shockScreen",
+    "character": [
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "총소리가 울리는 순간, 토카레프가 뛰어들어 마카로프를 밀어내, 둘은 버그 입구 옆에 뒹굴어 넘어졌다."
+  },
+  {
+    "character": [
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "마카로프"
+    },
+    "text": "...으윽! 토카레프 괜찮아?!"
+  },
+  {
+    "character": [
+      {
+        "name": "PM",
+        "face": 0
+      },
+      {
+        "name": "TT33",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "토카레프"
+    },
+    "text": "괜찮아요... 그쪽에 있지 않을까 생각했지만, 너무 뻔한 곳이라 생각이라 해서..."
+  },
+  {
+    "character": [
+      {
+        "name": "PM",
+        "face": 0
+      },
+      {
+        "name": "M1873",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "M1873"
+    },
+    "text": "흐흥! 가장 위험한 곳이 가장 안전한 곳이라는 말 알고 있겠지?"
+  },
+  {
+    "sound": {
+      "se1": "Select"
+    },
+    "character": [
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "마카로프"
+    },
+    "text": "내 동료를 건들고, 오늘 이길 생각하지 마."
+  },
+  {
+    "text": "마카로프가 총을 뽑아 M1873을 향해 방아쇠를 당기자, M1873은 피하며 반격을 개시했다."
+  },
+  {
+    "character": [
+      {
+        "name": "TT33",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "토카레프"
+    },
+    "text": "위험해요, 두 분 다 버그 입구에 점점... 마카로프 씨, 거리를 조심해요!"
+  },
+  {
+    "character": [
+      {
+        "name": "M1873",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M1873"
+    },
+    "text": "여기까지 왔으니 그야 물론... 들어가라!"
+  },
+  {
+    "background": {
+      "id": 6
+    },
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "character": [
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "마카로프"
+    },
+    "text": "너 밀었겠다...! 혼자 무사할 거라 생각 마!"
+  },
+  {
+    "character": [
+      {
+        "name": "M1873",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M1873"
+    },
+    "text": "어라..."
+  },
+  {
+    "sound": {
+      "se1": "RunStep"
+    },
+    "text": ""
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "토카레프"
+      }
+    ],
+    "text": "마카로프! M1873!"
+  },
+  {
+    "background": {
+      "id": 72
+    },
+    "screenEffect": "blink",
+    "character": [
+      {
+        "name": "M1873"
+      }
+    ],
+    "text": "아야야... 영 안 좋은 곳에 떨어진 모양이네."
+  },
+  {
+    "character": [
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "마카로프"
+    },
+    "text": "다 네가 함부로 밀은 탓에... 역시 마인드 회랑이네, 여기서 어떻게 나가지..."
+  },
+  {
+    "character": [
+      {
+        "name": "M1873",
+        "face": 0
+      },
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M1873"
+    },
+    "text": "우리 둘 다 들어온 이상, 밖의 동료가 지휘관에게 연락해서 찾아오게 할 방법밖에 없잖아?+다만 그 전에 이곳을 잠깐 탐험해 봐야지~ 같이 갈래?"
+  },
+  {
+    "character": [
+      {
+        "name": "M1873",
+        "face": 0
+      },
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "마카로프"
+    },
+    "text": "작전 이탈도 적당히 해, M1873. 네 그런 모습이 진짜 싫으니까."
+  },
+  {
+    "character": [
+      {
+        "name": "M1873",
+        "face": 0
+      },
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M1873"
+    },
+    "text": "그럼 여기서 가만히 시간 때우고 있을 거야? 겁쟁이씨?"
+  },
+  {
+    "character": [
+      {
+        "name": "M1873",
+        "face": 0
+      },
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "마카로프"
+    },
+    "text": "그런 도발에 넘어가지 않아. 갈 거면 혼자 가."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Boss"
+    },
+    "character": [
+      {
+        "name": "수상한 인형"
+      }
+    ],
+    "text": "그리폰의 폐급인형이 들어온 모양이구나, 참으로 놀랍군."
+  },
+  {
+    "character": [
+      {
+        "name": "M1873",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M1873"
+    },
+    "text": "조심해!"
+  },
+  {
+    "screenEffect": "shockScreen",
+    "character": [
+      {
+        "name": "PM",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "마카로프"
+    },
+    "text": "...?!"
+  },
+  {
+    "sound": {
+      "se1": "Explode"
+    },
+    "text": "콰왕!"
+  },
+  {
+    "text": "M1873이 급히 마카로프를 끌고 뛰었다, 뒤이어 두 사람과 멀지 않은 곳에 포탄이 떨어졌다."
+  },
+  {
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "Weaver",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "우로보로스"
+    },
+    "text": "좋다... 이곳을 떠나기 위해 네년들을 발판으로 삼아주마.+영광으로 어기거라, 그리폰의 폐급인형들."
+  }
+]

@@ -1,0 +1,1245 @@
+[
+  {
+    "background": {
+      "id": 34
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Frontline",
+      "se1": "Gunfight"
+    },
+    "text": "며칠 후. 웰로드 소대와 철혈이 교전을 벌이고 있는 중."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "브렌"
+    },
+    "text": "이런 곳에서 갇혀버리다니 딱히 좋은 상황은 아니군......"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "L85A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "뒤쪽에 있는 비상 출구도 전부 닫아놨어요, 브렌.+이제 철혈이 저희 등 뒤로 병력을 많이 보내지 않기를 기도하는 수밖에 없겠네요......"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "sound": {
+      "se1": "Gunfight"
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "우아앗! 아슬아슬하게 당할 뻔했다냥......+브렌, 냐는 이제 총알이 거의 다 떨어졌다냥!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "브렌"
+    },
+    "text": "......시끄럽군.+이 길고양이 녀석! 한시도 조용히 있질 못하는 거냐!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "하지만 저쪽 화력이 너무 맹렬한걸!+여기서 계속 버티고 있다가는 곧 절망적인 상황에 빠지게 될 거다냥!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "브렌"
+    },
+    "text": "그딴 건 말 안 해도 안다고!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "Welrod",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "통신 채널에서 목소리가 들려온다."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "Welrod",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "웰로드"
+    },
+    "text": "브렌, 그쪽 상황은 좀 어떻지?"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "Welrod",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "브렌"
+    },
+    "text": "이전의 정보에 오차가 있었는지 저희는 지금 버려진 기지 내부에 있는 대피로에 갇혀 있습니다."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "Welrod",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "웰로드"
+    },
+    "text": "이쪽도 생각했던 것보다 훨씬 심각한 상황이야. 전부 쓸어버리려면 시간이 좀 걸리겠군."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "Welrod",
+        "face": 0
+      },
+      {
+        "name": "IDW",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "그 말은...... 소대장님은 지금 우리를 도우러 올 수 없는 거냥?"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "Welrod",
+        "face": 0
+      },
+      {
+        "name": "IDW",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "웰로드"
+    },
+    "text": "한동안은 힘들 것 같군. 미안하다.+너희들 근처의 기지 도면을 보내줄 테니 다른 방법을 생각해보도록."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "Welrod",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "브렌"
+    },
+    "text": "이곳의 지형은 제가 대략적으로 알고 있습니다만, 후퇴할 수 있는 길이 없습니다!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "Welrod",
+        "face": 0
+      },
+      {
+        "name": "IDW",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "냐도 한 번 보여줘. 혹시 놓친 부분이 있을지도 모르니까!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "Welrod",
+        "face": 0
+      },
+      {
+        "name": "IDW",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "웰로드"
+    },
+    "text": "좋다, IDW. 너희들 머리를 맞대고 방법을 강구하도록 해."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "Welrod",
+        "face": 0
+      },
+      {
+        "name": "IDW",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "걱정 말라냥, 소대장님! 마지막 순간까지 절대 포기하지 않을 테니까!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "Welrod",
+        "face": 0
+      },
+      {
+        "name": "IDW",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "웰로드"
+    },
+    "text": "난 네가, 그리고 모두가 지금 눈앞에 닥친 어둠을 뚫고 한 줄기 빛을 찾아낼 수 있을 거라고 믿는다!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "Welrod",
+        "face": 0
+      },
+      {
+        "name": "IDW",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "우냐아아앙! 무언가 불타오르는듯한 느낌이다냥!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "Welrod",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "브렌"
+    },
+    "text": "대체 둘이......+왜 그렇게 죽이 잘 맞는 거냐고..."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "브렌도 함께 저 빌어먹을 기계 괴물들을 모조리 쓸어버리는 거다냥!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "브렌"
+    },
+    "text": "이봐, 넌 또 왜 그렇게 자신만만인 거냐고!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "Welrod",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "웰로드"
+    },
+    "text": "좋다! 너희들이 품고 있는 정의를 관철할 시간이 온 거다! 모두들 내가 갈 때까지 버티고 있도록!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "브렌"
+    },
+    "text": "......잠시만 기다려주십시오, 웰로드 소대장!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "text": "웰로드가 통신을 종료함과 동시에 현장에 있던 모두에게 한 장의 설계도가 전송되었다."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "L85A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "......어째서인지 모르겠지만 조금 절망감이 느껴지는걸요.+우...... 기지의 홍차가 마시고 싶어졌어요.+지난주에서야 겨우 새 찻잔을 샀는데......"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "L85A1",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "브렌"
+    },
+    "text": "L85A1! 정신 차려!+지금은 집중해서 포위를 돌파할 방법을 생각하는 게 우선이다."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "L85A1",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "하지만 어떻게 해야 할지 모르겠어요......+저도 이제 탄창이 두 개밖에 남지 않은 데다가, 소대장님도 못 오신다고 하시지......+머리카락만 보여도 총알이 날아오는 지금 같은 상황에 직접 나가는 건 자살행위인걸요..."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "L85A1",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "브렌"
+    },
+    "text": "제길...... 이 근처에는 쓸만한 물건도 없는 것 같군......"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "냐하하하핫......"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "브렌"
+    },
+    "text": "IDW, 겁에 질려 맛이라도 간 건가? 뭘 그리 바보같이 웃고 있는..."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "screenEffect": "shockScreen",
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "다들! 돌파 작전은 바로 이 전문 보디가드에게 맡기는 거다냥!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "브렌"
+    },
+    "text": "어째서 갑자기 소리를 지르는 거냐, 놀랐잖아!+게다가 지금은 네 헛소리를 들어줄 시간 같은 건 없다고!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "냐는 헛소리 같은 거 안 한다냥!+설계도에 나와 있듯이 이쪽 길에는 전부 환기구가 달려 있다냥.+그러니 우리는 이 환기구를 타고 따라가기면 하면 된다냥!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "브렌"
+    },
+    "text": "환기구......? 그런 곳에 우리가 들어갈 수 있는 거냐?"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      },
+      {
+        "name": "L85A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1
+    },
+    "text": "일단 해보도록 해요!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      },
+      {
+        "name": "L85A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "서둘러! 조심하기만 한다면 들키지 않고 빠져나갈 수 있을 거다냥!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "text": "IDW는 설계도와 대조해보면서 환기구의 입구를 찾고 있다."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "찾았다냥! 여기가 바로 환기구야!+일단 먼저 후드를 제거하고......"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "L85A1",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "올라가기에는 너무 좁아 보이는 걸요......+안 되겠네요, 이 정도 크기면 저는 지나갈 수 없겠어요."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "L85A1",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "브렌"
+    },
+    "text": "L85A1이 지나갈 수 없다면 난 더더욱 불가능하겠군.+다른 방법이 없다면 밖에 있는 것들을 모조리 죽이면서 빠져나갈 수밖에!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "잠깐! 냐가 한번 올라가 보겠다냥!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "우읏, 들어갈 수 있다냥!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "브렌"
+    },
+    "text": "저 녀석은 어디든지 들어갈 수 있는 걸 보면 꼭 진짜 고양이 같단 말이지......+하지만......"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그렇다면 일단 나 혼자서 지나가도록 하겠다냥.+냐가 적의 후방으로 돌아가서 주의를 끌 테니까 그 틈을 타서 빠져나오는 거다냥!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "브렌"
+    },
+    "text": "혼자서 가겠다니 무슨 생각을 하고 있는 거냐!+너 같은 녀석이 혼자 나가봤자, 곧바로 으깨진 고깃덩이처럼 곤죽이 되어버릴 거라고!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "냐하핫, 냐는 보디가드란 말이지.+뭐, 적의 이목을 끈다든가 하는 일 밖에 못 하지만, 냐도 너희를 지킬 수 있다고!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "브렌"
+    },
+    "text": "......멍청한 고양이 같으니. 마인드맵 어딘가가 하나 텅 비어있는지도 모르겠군."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "모험을 하는 건 냐의 특기란 말씀! 그걸 이제야 선보일 수 있게 된 거다냥!+그럼, 조금 이따가 봐!"
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "브렌"
+    },
+    "text": "잠깐, IDW! 잠깐만 기다려──!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "IDW는 환기구로 들어가서 조심스럽게 앞으로 이동하고 있다."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "냐는...... 확실히 바보일지도 몰라.+너무나 쉽게 부서지는 데다가...... 다른 사람들의 관심을 끌지도 못해......+하지만, 하지만 냐도 어딘가 쓸모가 있는 게 분명하다냥......+그걸 증명할 수만 있다면......"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "text": "IDW가 환기구에서 나왔다."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "character": [
+      {
+        "name": "IDW"
+      }
+    ],
+    "text": "냐가 있을 수 있는 곳도 생기겠지?"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "IDW"
+      }
+    ],
+    "text": "멍청한 철혈 자식들! 전문 보디가드인 이 몸의 등장이다냥!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "se1": "Gunfight"
+    },
+    "text": "............"
+  },
+  {
+    "background": {
+      "id": 55
+    },
+    "screenEffect": "dark2",
+    "text": "한 시간 후, 전투가 끝났다.+소대원들은 복귀하고 있다......"
+  },
+  {
+    "background": {
+      "id": 55
+    },
+    "character": [
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "브렌"
+    },
+    "text": "어이, 멍청한 고양이. 아직 살아 있나?"
+  },
+  {
+    "background": {
+      "id": 55
+    },
+    "sound": {
+      "bgm": "GF_Memorial"
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 1
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "으...... 아프다냥......+아, 총성이 들리지 않는 걸 보니...... 전투는 끝냔 거냥?"
+  },
+  {
+    "background": {
+      "id": 55
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 1
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "브렌"
+    },
+    "text": "진작에 끝났지.+뭐, 마인드맵은 손상되지 않은 것 같아 보이는군...... 제법 운이 좋은걸."
+  },
+  {
+    "background": {
+      "id": 55
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 1
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "냐하하...... 가끔은 이런 행운이 찾아온단 말이지!"
+  },
+  {
+    "background": {
+      "id": 55
+    },
+    "character": [
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "브렌"
+    },
+    "text": "사지가 절단되었는데도 웃을 수 있다니......+어쩌다가 너 같은 소대원이 생겼는지 참......"
+  },
+  {
+    "background": {
+      "id": 55
+    },
+    "text": "브렌은 몸을 낮추어서 IDW를 등에 업었다."
+  },
+  {
+    "background": {
+      "id": 55
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "브렌......+......냐를 싫어하는 거 아니었냥?"
+  },
+  {
+    "background": {
+      "id": 55
+    },
+    "character": [
+      {
+        "name": "IDW",
+        "face": 1
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "브렌"
+    },
+    "text": "난 그저 아무 가치도 없는 약자들한테 흥미가 없는 것일 뿐.+그렇지만 넌...... 조금쯤은 쓸모가 있는 것 같군.+......지금은 말이지."
+  },
+  {
+    "background": {
+      "id": 55
+    },
+    "character": [
+      {
+        "name": "L85A1",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "브렌, 이제야 좀 솔직해지셨네요."
+  },
+  {
+    "background": {
+      "id": 55
+    },
+    "character": [
+      {
+        "name": "L85A1",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "브렌"
+    },
+    "text": "L85A1, 쓸데없는 소리 할 시간에 주위나 경계해!+바보 고양이를 업고 있어서 싸우기 불편하다고!"
+  },
+  {
+    "background": {
+      "id": 55
+    },
+    "character": [
+      {
+        "name": "L85A1",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "네~, 네~. 알겠어요."
+  },
+  {
+    "background": {
+      "id": 55
+    },
+    "character": [
+      {
+        "name": "L85A1",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "브렌"
+    },
+    "text": "너, 너 어째서 웃는 거냐!"
+  },
+  {
+    "background": {
+      "id": 55
+    },
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "L85A1",
+        "face": 0
+      },
+      {
+        "name": "BrenMK",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "아아...... 얼른 돌아가서 기분 좋게 따끈따끈한 홍차나 마시고 싶은걸요."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "character": [
+      {
+        "name": "IDW"
+      }
+    ],
+    "text": "L85A1, 냐도 마시고 싶어!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "character": [
+      {
+        "name": "L85A1"
+      }
+    ],
+    "text": "얼마든지요.+마침 새로 산 티 세트에 찻잔이 4개가 들어있었어요. 개수도 마침 딱 맞네요~."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "character": [
+      {
+        "name": "브렌"
+      }
+    ],
+    "text": "일단 수복실에서 나온 다음에 얘기해, 멍청한 고양이 녀석."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "character": [
+      {
+        "name": "IDW"
+      }
+    ],
+    "text": "그럼, 냐는 먼저 L85A1의 홍차와 디저트를 예약해놓겠다냥!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "character": [
+      {
+        "name": "L85A1"
+      }
+    ],
+    "text": "IDW 몫도 꼭 남겨놓을 테니까, 걱정 말아요."
+  }
+]

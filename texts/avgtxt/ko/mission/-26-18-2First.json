@@ -1,0 +1,304 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    }
+  },
+  {
+    "background": {
+      "id": 46
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Brain"
+    },
+    "text": "결국 방어전에서 충분한 시간을 벌지 못한 탓에 리벨리온은 폭탄을 마저 설치하지 못했다.+지휘관은 할 수 없이 작전을 포기하였고, 철수부대를 이끌고 군이 빌딩에 쳐들어오기 전에 후퇴했다.+그리고 예고르는... 순조롭게 빌딩 깊숙이 들어가 안젤리아를 찾아냈다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "안젤리아, 지금까지 꽤 많은 수작을 부렸군.+예상은 했지만, 확실히 괜찮게 했다.+아쉽게도 결국엔 숨바꼭질도 여기까지다..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      },
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "네가 올 줄은 알았어.+그래도 설마 혼자 올 줄은 몰랐네."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      },
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "예고르"
+    },
+    "text": "이 빌딩에 더 이상 위협이 없는 건 안다, 그리고 나의 임무는 널 죽이는 것뿐, 도움은 필요 없다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      },
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "아직 내겐 인형 둘이 남아 있어, 예고르. 목숨을 더 소중히 해야지, 우리 모두 널 죽이고 싶어 안달인데."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      },
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "예고르"
+    },
+    "text": "네놈들의 오염탄 덕분에 복귀해봤자 난 처분당할 것이다, 내 부하들이 내가 마치지 못한 일을 계속할 것이다.+내가 여기서 죽는다면 적어도 영웅이 될 것이다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      },
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "넌 무슨 영웅이 아니야, 예고르, 영원토록 아니야."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "역사의 기록 대로 나는 평가받는 것이다...+그리고 승리자가 적은 것이 역사가 되는 것이다!+그리고, 우리는 승리자가 될 것이다!"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "se1": "Select"
+    },
+    "text": "예고르가 권총을 들었다."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "예고르...+넌... 무엇이 진정한 승리인지 몰라.+그 대가가 무엇인지 평생 모를 거야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "승리의 대가는... 바로 역사가 되는 것이다!"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se2": "Gunkill"
+    },
+    "text": "타앙!"
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "text": "타타타타탕!"
+  },
+  {
+    "background": {
+      "id": 157
+    },
+    "screenEffect": "blackSpot2",
+    "text": "같은 시간."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "HK416"
+      }
+    ],
+    "text": "<color=#00CCFF>지휘관님...</color>+<color=#00CCFF>군의 외곽부대가 빌딩을 폭파했습니다.</color>+<color=#00CCFF>통신기록에 따르면, 예고르가 안젤리아를 사살했고 바로 리벨리온에게 사살당했습니다.</color>+<color=#00CCFF>그리고 군의 부대는 명령에 따라 빌딩을 폭파했고, 리벨리온은 생환한 흔적이 없습니다.</color>+<color=#00CCFF>저희의 임무는 끝났어요, 지휘관님.</color>+<color=#00CCFF>10분 후에 예정된 경로를 따라 지휘관님을 구조하러 갈게요.</color>+<color=#00CCFF>적어도, 지휘관님을 구출해 이 마지막 임무를 다할 수 있게 해주세요...</color>"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "text": "……"
+  },
+  {
+    "background": {
+      "id": 158
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "..."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Truth"
+    },
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "이런 상황에서까지 그런 거짓말을 하시다니.+그리폰의 지휘관님, 확실히 당신을 너무 얕본 것 같습니다.+당신의 생명을 유지하는 선에서 투여량을 늘리겠습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "니토는 자백제를 또 하나 꺼내, 내 몸에 주입했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "바로 효과가 나타났지만, 아직은 견딜만하다. 의지가 아직은 좀 남아있다. 이것이 마지막일지는 모르겠지만..."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "안젤리아가 죽을 리 없습니다, 적어도 이번 싸움에서는 살아남아 저희 중 한 명을 죽인 것을 저희 눈으로 봤습니다.+그러니 말하세요, 그녀가 어떻게 살아남았는지, 또 누구와 접촉했는지."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "난 떠오르는 대로 다 말할 것이다.+거짓이든, 진실이든, 다 말하고 녀석들 보고 알아서 구분하라고 할 것이다.+녀석들이 무엇을 바라는지는 알고 있다, 그리고 그것을 말한 뒤 내가 어떻게 될지도 알고 있다."
+  },
+  {
+    "characters": [
+      {
+        "name": "Nyto",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "니토"
+    },
+    "text": "인간은 아주 연약한 기계입니다, 몇 번만 건드리면 망가져 버리죠.+온전한 신체와 정신상태로 이 건물을 떠나고 싶으시다면, 자신에게 남은 기회를 소중히 해서 진실을 말하세요."
+  },
+  {
+    "text": "그렇기에 내겐 시간과... 약효에 저항할 온갖 거짓들이 필요하다.+안젤리아는 내 이야기 속에서 또 몇 번 죽게 될까?+적어도, 내가 살아남을 때까지 계속 그녀를 죽여야 한다...+..."
+  },
+  {
+    "screenEffect": "dark1"
+  }
+]

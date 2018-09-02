@@ -1,0 +1,314 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se2": "Gunfight"
+    },
+    "text": "......탕! 탕!"
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 0
+      }
+    ],
+    "text": "됐어, 전부 쓰러뜨렸어."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "text": "좋았어, 이게 마지막 순찰대인가.+내가 통신소에 침입할테니, 넌 여기서 45와 9를 기다려."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "screenEffect": "dark2",
+    "text": "......+............"
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 2
+      }
+    ],
+    "text": "저기......416?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "text": "왜 그래?"
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 2
+      }
+    ],
+    "text": "저쪽의 카메라......네가 움직였어?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 2
+      }
+    ],
+    "text": "난 카메라 같은 건 안 건드렸는데."
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 3
+      }
+    ],
+    "text": "하지만....저거 움직였는데......+혹시 귀신 들린 거 아닐까아......"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "text": "뭐라고?!"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Boss"
+    },
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "text": "어이! 거기 숨어있지말고 나와!"
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-9",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "아키텍트"
+    },
+    "text": "아......+신경쓰지마, 신경쓰지마. 난 그냥 카메라 테스트하는 겸 그저 지켜보고 있었을 뿐이야."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "BOSS-9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "보기만 한다고?+(냉소) 철혈의 AI가 이미 우리를 죽이지 않고 살아갈 수 있을만큼 진화했나?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "BOSS-9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "아키텍트"
+    },
+    "text": "철혈공조 SPzh3000 통칭 \"아키텍트\"!+내 목적은 AR팀를 찾는 것 뿐이야, 다른 녀석들은 나랑 상관없어.+(책 읽는 목소리로) 게다가 나는 오늘 테스트를 하러 온 것뿐이야......목표를 찾는다 해도 공격할 필요까지는 없을 거야......+그리고 니들이 누구든 간에, 이전의 명단에는 없는 것 같은걸."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "BOSS-9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "어쨌든 너의 목표는 아니군.+하지만......너희들은 왜 그렇게 AR팀에 집착하는 거지?+도대체 그녀들이 너희들에게 무슨 가치가 있는 거야?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      },
+      {
+        "name": "BOSS-9",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "아키텍트"
+    },
+    "text": "그건 말이야......사실 그저...."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty",
+      "se2": "Gunfight"
+    },
+    "text": "......!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416"
+      }
+    ],
+    "text": "......?!"
+  },
+  {
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_NightOPS"
+    },
+    "characters": [
+      {
+        "name": "UMP45"
+      }
+    ],
+    "text": "철혈과의 내통, 이건 결코 작지 않은 죄목이야. HK416."
+  },
+  {
+    "background": {
+      "id": 34
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "text": "......UMP45.+너 무슨 짓을 한 거야? 조금만 더 있었으면 정보를 캐낼 수도 있었는데."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "text": "이건 우리의 임무가 아니야, 416. 괜히 불구덩이로 몸을 들이밀지 말라구."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP9",
+        "face": 3
+      }
+    ],
+    "text": "헤헤, 모두 괜찮아?+나 보고 싶었지? G11. (껴안으며)"
+  },
+  {
+    "characters": [
+      {
+        "name": "G11",
+        "face": 3
+      }
+    ],
+    "text": "우라라라라라......"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "text": "일단, 우리 모두 모였군."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "text": "그래, 이제 AR팀를 구하러 갈 시간이야.+기분 좋지 않아? 416?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "text": "......내가 무슨 말 할지는 알고 있겠지."
+  },
+  {
+    "characters": [
+      {
+        "name": "UMP45",
+        "face": 0
+      }
+    ],
+    "text": "흐흐, 뭐가 그렇게 기분 좋은지 한 번 나한테 말해봐."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "text": "그렇다면, 좋아. 말해주지......"
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "HK416"
+      }
+    ],
+    "text": "저리꺼져, UMP45."
+  }
+]

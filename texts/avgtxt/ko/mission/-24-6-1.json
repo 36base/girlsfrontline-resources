@@ -1,0 +1,158 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 40
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Pervaded"
+    },
+    "text": "부웅...+..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "찾았다! 여기가 철혈의 비축 거점이야, 그리고...+개체 신호가 매우 약해, 지키는 병력이 얼마 없는 것 같아...+그래도 안전을 위해서, 수색범위를 넓혀보자."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "SOP2는 전자 지도를 주시했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "적은... 거점 위에 있네. 뭐하고 있는 거지?+몰라, 난 전원만 슬쩍하면 되니까, 이건 좋은 기회야!+이제 다시 만날 수 있어, RO! 그럼 목표를 제대로 지정하고..."
+  },
+  {
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "부웅...+이때 전자 지도에 그리폰의 신호가 몇 개 나타났다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "저건...+그리폰의 인형...?+설마...+쟤네들이 철혈에게 포위당해서 보급 거점을 버릴 수밖에 없었던 제대인 건가?+그러자 철혈은 자신들의 거점을 비우고 추격을..."
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "SOP2는 망설였다."
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "침착하게 생각해, SOP2...+RO라면 어떻게 했을까?+RO라면, \"우리의 동료가 포위당해서 섬멸당할 위기야.\"+\"우리가 구해줘야 해, 아무리 위험해도 우린 모두가 전우니까.\"+그래, 분명 그렇게 말할 거야.+하지만... 저 인형들은 마인드맵 백업이 가능하잖아, 난 이 한목숨뿐이고...+그리고 RO도 깨어나지 않았고, 난 지휘 모듈도 없는걸...+난 한  명뿐이고, 철혈 쪽에는 분명 보스 인형도 있을 거고...+지금 나의 행동을 뒷바라지 해줄 사람이 없어, 먼저 예비 전원을 찾는 편이 더 안전하지 않을까..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "으아아아아아 짜증나!!+왜 내가 이런 고민을 해야 하는데? 난 대장도 아니고 받은 명령도 없잖아!+대체... 어떻게 하면 좋지..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "SOP2는 제자리에서 멍하니 서있었지만, 아무런 대답도 들리지 않았다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "아무튼, 출발하자...+그래, 일단 움직이고 그때그때 생각하자!"
+  },
+  {
+    "screenEffect": "dark2",
+    "text": "<color=#fff775>그리폰 인형을 구조하려면 모든 적을 섬멸하여 시간을 벌어줘야 합니다.</color>+<color=#fff775>단, 적의 지휘부를 점령하는 순간 구조를 포기하고 떠나는 것으로 간주합니다.</color>+<color=#fff775>선택에 따라 이야기가 다르게 진행되니 신중히 선택하세요.</color>+<color=#fff775>이 전역의 서로 다른 임무를 달성하면 서로 다른 루트로 진입합니다. 임무 달성 후 다른 루트는 잠기게 되며, 백트래킹을 해야 다시 선택할 수 있습니다.</color>"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  }
+]

@@ -1,0 +1,349 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 159
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Battle"
+    }
+  },
+  {
+    "text": "몇 시간 후, HK416과 SOP2의 소대가 검은 인형과 의문의 부대를 섬멸하였고, 그리폰의 철수 작업도 막바지에 들어섰다."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "지휘관님, 카리나 씨와 마지막 인형들이 곧 수송기를 타고 철수할 것입니다.+저와 SOP2, 그리고 일부 인형들과 중화력 소대는 자발적으로 이번 구조 임무에 참여하겠습니다. 목표는 지휘관님을 무사하게 전장에서 호송하는 것입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>이번 구조 목표는 내가 아니다.<c>아직 다른 인형들이 남아있다."
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "네? 지휘관님 말고 또 누가 있다는 것이죠?"
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "아닌가요? 그것이 무슨 뜻이죠, 지휘관님?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "... 안젤리아요?+안젤리아가 아직 살아 있다고요? 정말인가요?+... 하지만, 정말로 그녀를 우선적으로 구할 셈이십니까? 지금 저 전장에는 더 많은 위험이 도사리고 있고, 군의 주력부대를 만날 수도 있습니다."
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": ""
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "알겠습니다. 우선 구출 목표를 안젤리아로 설정하도록 하죠.+하지만 오해하지 마세요, 지휘관님. 이 임무에 불만은 없습니다, 오히려 마인드맵 한구석으론 그러시길 바랐을지도 모릅니다.+하지만 이 때문에 후회하고 싶지 않습니다, 부디 지휘관님을 구할 기회도 있기를 바랄게요...+먼저 UMP9과 인사를 하고 오겠습니다. 10분 후 구조 작전을 개시하겠습니다."
+  },
+  {
+    "background": {
+      "id": 157
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "text": "10분 후, HK416과 SOP2가 이끄는 인형부대는 안젤리아를 구하는 원정길에 올랐다. 그 동시에 지휘관이 안젤리아와 나눈 대화 내용과 전송 받은 데이터로 알아낸 정보를 경청했다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "... 지휘관, 안젤리아가 그렇게 말했어?+오염탄을 터뜨리기 전에 자신이 얻은 모든 자료를 넘겨줬다는 말이야?+왜... 그렇게 한 걸까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "……<c>만일을 위해서 대책을 준비한 거다.<c>자료엔 구조에 필요한 그녀의 좌표도 들어있다."
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "희생할 준비가 다 됐다는 거야? 또 한 번..."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "안젤리아도 드디어 똑똑해졌네, 근데 그 말은 자신도 오염탄을 터뜨릴 것을 알았단 거네..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "지휘관, 그럼 정말로 안젤리아를 먼저 구할 생각이야?+안젤리아가 아직 살아있는지도 모르는데, 어쩌면 이미 그 좌표에서 떠났을지도 모르잖아.+하지만 지휘관을 구하는 편이... 더 쉬운 데."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>모두가 안전해지고 나서야 나도 떠날 수 있다.<c>안젤리아에게 신세를 진만큼 저버릴 수 없다."
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "과연 지휘관이 할 것 같은 말이네, 아무도 강요 안 했는데."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "으음... 확실히. 안 그러면 분명 나중에 속상할 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그럼 빨리 구하러 가자! 이번이야말로 두고 가지 않을 거야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "그럼 어서 그들의 철수 경로를 정해주시죠. 그럼 저희가 신호탄으로 그들을 유도하겠습니다.+저희만 뛰어가서 찾으려면 시간이 분명 부족하니 말이죠."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "안젤리아를 데려온다면, 일단 나랑 Cx4가 철수했던 지점에 가서, 우리가 돌아온 길로 돌아오는 게 가장 빠를 거야. 적을 만날 위험도 적고."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "안 돼, 그 동안 오염이 확산해서 그곳의 오염등급은 【레드존】이 되었어."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "【레드존】?"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "【레드존】은 최고 등급 오염 경보야. 인형에게 피해를 주긴 해도 치명적이진 않지만, 인간이 그 구역에 들어섰다간, 단시간만에 피폭 증상이 돌이킬 수 없을 정도로 격화될 거야.+안젤리아는 이미 감염된 상태야, 아무리 가까운 길이라 해도 살아남을 가능성이 희박해. 우회한다면 오염이 좀 덜한 【옐로우존】을 지나는 경로가 있어, 그 경로라면 아직 괜찮을 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "하지만 삥 돌아오면 감염자도 더 많고 군에게 습격당할 수도 있잖아!+게다가 아무리 덜하다 해도 점점 피폭량이 쌓일 거 아니야? 그럼 적을 피하고자 잠행할 시간도 없어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "양쪽 다 도박행위야, 계속 다투어봤자 시간 낭비야. 지휘관님, 지휘관님이 결정할 권한을 쥐고 계십니다.+이번이 전장에 남은 마지막 소대이며, 저희 마지막 철수 작전입니다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "어디서 신호탄을 쏘아 올릴까요? 짧지만 오염이 심한 레드존에서, 아니면 멀지만 적이 많은 옐로우존에서요? 빨리 결정해주세요!"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  }
+]

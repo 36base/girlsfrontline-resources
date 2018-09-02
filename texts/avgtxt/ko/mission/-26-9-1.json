@@ -1,0 +1,435 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1"
+  },
+  {
+    "background": {
+      "id": 157
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Danger"
+    },
+    "text": "철수부대는 은밀히 벗어나려 했지만 들키고 말았다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "<color=#00CCFF>역시 슬그머니 빠져나갈 생각이로군, 부끄러운 줄 모르는 쥐새끼들!</color>+<color=#00CCFF>중화기부대, 목표 구역에 화력 전개 개시!</color>+<color=#00CCFF>기타 부대는 즉시 탈출 구역의 모든 경로를 봉쇄하라, 빠져나오는 녀석이 보이는 즉시 사살하라!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "들켰어, 군이 쫓아오고 있어!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "아니, 쫓아오지 않고 포격을 퍼부을 셈이야!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "그럼 더 큰 일이잖아!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "<color=#00CCFF>네놈들은 이미 완전히 포위됐다! 이제 네놈들에게 남은 길은 포화 속에서 사라지거나 내 손에 죽는 것뿐이다!</color>"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "빨리 달려, 빨리! 뒤돌아보지 말고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "94, 안젤리아를 잘 업고 있어! 우리가 엄호할게!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "어느 방향으로 이동해야 합니까, 안젤리아?+... 안젤리아? 저기, 안젤리아!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "또 기절했어! 빨리 이곳을 벗어나야 해!"
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "좀 조용히 해, RO! 내 반응속도가 느려진다고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "지금 지도를 스캔 중이야! 네가 뛰는 것보다 중요한 일이야!+예고르의 말은 허세야, 군은 이 구역을 완전히 포위하지는 못했어. 바로 전방에 틈새가 있어!+전방 엄폐물에 도착 후 동쪽으로 꺾어, 4시 방향이야! 적의 차단부대와 부딪히지 말고!"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "RO의 말대로 해! 이제 곧 나갈 수 있어!"
+  },
+  {
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "10분 후."
+  },
+  {
+    "sound": {
+      "bgm": "BGM_NightOPS"
+    },
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "정규군 하사"
+    },
+    "text": "대위님, 안젤리아의 부대가 포위망에서 벗어났습니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "5분 전부터 보고 있었다. 네놈들 겨우 인형 몇 명을 못 따라잡는 거냐?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 하사"
+    },
+    "text": "예상보다 저희의 추격효율이 약간 낮습니다. 적의 중화기부대가 계속 견제 중입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "그 정도의 화력은 아무런 위협도 안 된다, 기동성 높은 병력을 먼저 보내 언제든지 추적할 수 있도록 하라. 정찰드론은 아직도 수리 중인가?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 하사"
+    },
+    "text": "아직 수리 중입니다. 지금 저희는 신호를 탐지하는 방식으로만 추적이 가능하고 영상을 통해 상황을 볼 수가 없습니다. 하지만 적의 이동 흔적은 계속 저희에 관측 아래에 있습니다.+그리고 대위님, 안젤리아가 도주한 방향에 한 폐기된 빌딩이 있습니다. 그 안에 숨을 가능성이 있다고 봅니다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "아직 전장 한가운데다, 놈들의 지원이 끊긴 지금 붙잡는 건 시간문제다!+그 빌딩에 숨는다면 스스로 퇴로를 끊을 뿐이다. 내가 직접 그 절망한 표정을 감상하며 목숨을 끊어줄 테다!"
+  },
+  {
+    "screenEffect": "dark2",
+    "text": "같은 시간, 철수부대는 계속 도주 중이다."
+  },
+  {
+    "characters": [
+      {
+        "name": "RO635",
+        "face": 6
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "RO635"
+    },
+    "text": "AK12, 전방에 폐기된 빌딩이 보여, 벽으로 차폐된 공간이니 오염도 분명 낮을 거야.+안에 들어가서 안젤리아를 치료하고 지휘관님과 연락할 수 있어."
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "군에게 들켜 포위될 것입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "아니면... 그냥 탱크로 빌딩을 무너뜨려 버릴지도 몰라..."
+  },
+  {
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "탱크가 그렇게 빨리 현장에 도착하진 못할 거야, 빌딩에 진입할 수 있는 적은 아마 인형이나 인간 병사뿐이겠지.+그리고 예고르도 직접 그 손으로 안젤리아에게 복수하겠다 했으니까.+그럼, 우리 모두 안에 들어가서 방어책을 구상해볼까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "그렇다면 비교적 안전하겠지만, 저희 모두의 신호가 겹쳐있으면 바로 들킬 겁니다.+저와 AK12만 빌딩 안에 숨으면, 위장 신호를 통해 탐지를 피할 수 있을지도 모릅니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "나랑 HK416은 철혈의 식별 신호로만 위장이 가능한데, 군에겐 전혀 쓸모 없어..."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "그럼 우린 갈라져서 행동하면 돼, 너희가 군의 주의를 끌어서 우리가 안젤리아를 깨울 시간을 벌어주는 거야.+하지만 이 방법도... 리스크가 너무 커..."
+  },
+  {
+    "characters": [
+      {
+        "name": "SOPIIDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M4 SOPMOD II"
+    },
+    "text": "군에서 안젤리아의 생명반응을 탐지할 수도 있어. 놈들이 빌딩에 진입했다간 너희 둘 만으론 정말로 위험하게 돼!"
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 4
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "하지만 겨우 저희 몇 명이 군과 정면으로 전투해도 승산은 없습니다."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "HK416",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "HK416"
+    },
+    "text": "AK12, 지금 대장은 너야, 네가 결정해.+모두 빌딩에 들어갈지, 아니면 너희 둘만 안젤리아를 데리고 들어가고 우리는 적의 끌지 말이야.+이제 곧 빌딩에 도착할 거야, 빨리 결정해!"
+  },
+  {
+    "screenEffect": "dark2",
+    "text": "<color=#fff775>임무 알림</color>"
+  },
+  {
+    "screenEffect": "dark1",
+    "text": "<color=#fff775>【모두 빌딩에 들어가기】로 하신다면, 전장에 있는 AK12와 AN94를 아군 헬리포트로 회수하세요.</color>+<color=#fff775>【리벨리온과 안젤리아만 빌딩에 들어가기】로 하신다면, 보급선을 유지해 적을 유인하세요.</color>+<color=#fff775>이 전역의 서로 다른 임무를 달성하면 서로 다른 루트로 진입합니다. 임무 달성 후 다른 루트는 잠기게 되며, 백트래킹을 해야 다시 선택할 수 있습니다.</color>"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  }
+]

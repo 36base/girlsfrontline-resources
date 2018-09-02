@@ -1,0 +1,248 @@
+[
+  {
+    "background": {
+      "id": 99
+    },
+    "screenEffect": "blackSpot2",
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "감동적인 출사표를 던졌다 해도, 우리 몇 명으로 군 주력을 막는 건 무리일 것 같은데요."
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "그건 그렇지... 공수를 받기 전까지는 우리에게 승산이 전혀 없어."
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "M4를 보낸 것도 철혈의 엘더브레인이 걸리길 바란 건가요?"
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "반신반의지만... 어차피 지금은 양쪽으로 준비를 해야 해, 다만 난 스스로 문제를 해결하는 걸 더 좋아하지."
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그럼 어쩌려고요? 지금 중장갑 유닛에 대항할만한 무기도 없잖아요."
+  },
+  {
+    "background": {
+      "id": 99
+    },
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "이렇게 된 이상, 아무래도 그리폰의 지휘관에게 신세를 져야겠다."
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2",
+    "text": "..."
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "characters": [
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "...아아, 들리나? 그리폰의 지휘관?"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "아! 전에 지휘관님을 구해주신 그 아무개 씨!"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "아직까지도 여기에 남아있는 용기는 칭찬해주지, 당신도 지금 그리폰의 처지를 알고 있겠지.+나와 AR팀의 멤버는 지금 최악의 상황이 오지 않기 위해 전력을 다하고 있어, 하지만 군의 장갑부대가 그쪽으로 이동 중이다."
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "힉! 이젠 철혈이 아니라, 군까지인가요...!"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      },
+      {
+        "name": "NPC-Ange",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "안젤리아"
+    },
+    "text": "무리한 요구인 건 알고 있어, 하지만 당신의 부대로 군의 부대를 가능한 만큼 지연시켜서 AR팀에게 시간을 벌어주기를 바라.+그녀들이 임무를 완수할 수 있을지는, 당신이 적을 얼마만큼 막아주느냐에 달렸어.+나와 내 소대가 측면에서 도와줄 테니까, 서로 행운을 빌자고."
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "왜 또 갑자기 이렇게 큰 문제를 떠맡게 된 거죠...+저흰 벌써 종일 쉬지도 못했는데...+지휘관님… 지금 군과 정면으로 맞섰다간…"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "characters": [
+      {
+        "name": "NPC-Kalin",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "카리나"
+    },
+    "text": "예, 맞아요, AR팀을 위해서라면… 계속 싸워나가야만 해요!"
+  }
+]

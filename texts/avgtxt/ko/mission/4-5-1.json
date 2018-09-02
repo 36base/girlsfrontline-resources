@@ -1,0 +1,192 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "sound": {
+      "bgm": "BGM_Empty"
+    },
+    "text": "......+......삑"
+  },
+  {
+    "sound": {
+      "bgm": "BGM_Boss"
+    },
+    "characters": [
+      {
+        "name": "인트루더"
+      }
+    ],
+    "text": "......M4A1, 너희들이 쳐들어올지는 진작에 알고 있었지."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1"
+      }
+    ],
+    "text": "......+알려주세요...M16의 행방을."
+  },
+  {
+    "background": {
+      "id": 5
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "BOSS-4",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "인트루더"
+    },
+    "text": "솔직히 말하면, 나는 그녀가 어디 있는지 몰라. 별로 관심도 없고."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 3
+      },
+      {
+        "name": "BOSS-4",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그럼 당신들의 목표는 도대체 뭡니까?+그리폰이 당신의 관할 구역에 진입 했는데도 아직까지 그럴듯한 반격을 하지 않고 있잖아요!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "BOSS-4",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "인트루더"
+    },
+    "text": "오? 가만히 앉아서도 너희들을 놀래킬 수 있을줄은 몰랐는데.+좋아, 그럼 알려주지, 내가 받은 명령은...."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "BOSS-4",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "......"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "BOSS-4",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "인트루더"
+    },
+    "text": "후후♪ 사실 별거 없어, 그냥 시간이나 때우는 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "BOSS-4",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "시간이나 때운다? 그게 명령이라고요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "BOSS-4",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "인트루더"
+    },
+    "text": "뭐가 이상한데? 만약 엘더 브레인이 원한다면 너랑 같이 즐겁게 티타임이라도 보낼 수 있는데 말이야.+하지만 전제는...내 티룸까지 올 수 있어야 한다는 거지만."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      },
+      {
+        "name": "BOSS-4",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0
+    },
+    "text": "그거야 어렵지 않습니다. 인트루더."
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "dark2",
+    "characters": [
+      {
+        "name": "M4A1",
+        "face": 0
+      }
+    ],
+    "text": "그리폰이 먼저 온 소대가 남긴 좌표를 추적했습니다. 곧 만날수 있을 거예요."
+  },
+  {
+    "characters": [
+      {
+        "name": "BOSS-4",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "인트루더"
+    },
+    "text": "후후 ♪ 그럼 기대하고 있을게."
+  }
+]

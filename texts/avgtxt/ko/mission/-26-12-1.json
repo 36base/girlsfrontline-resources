@@ -1,0 +1,522 @@
+[
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark1",
+    "sound": {
+      "bgm": "BGM_Empty"
+    }
+  },
+  {
+    "background": {
+      "id": 9
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "bgm": "BGM_Sneak"
+    },
+    "characters": [
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "정규군 하사"
+    },
+    "text": "대위님, 저희 부대가 안젤리아로 의심되는 모습을 목격했습니다!"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "뭐라고?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 하사"
+    },
+    "text": "하지만 너무 멀어서 윤곽만 흐릿하게 보입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "머리 색과 체격은 비슷하군, 더 선명한 영상은 없는가?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 하사"
+    },
+    "text": "인간의 신호로 확인되었으며, 기절 상태인 것으로 보입니다. AR팀의 한 인형이 업고서 다른 인형들과 갈라져 행동 중인 것으로 보입니다.+안젤리아는 계속 앞으로 도주 중이며 계속 엄폐물을 찾으며 잠행을 하고 있습니다. 한편 그리폰의 주력제대는 주위를 맴돌며 철수 중인 것으로 보입니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "그럼 당장 쫓아라! 다만 동시에 한 제대를 보내 그 주력제대를 계속 추격하게 하라.+옐로우존에서 안젤리아의 몸이 더욱 악화되자, 주력부대를 미끼로 몰래 도망칠 셈이다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      },
+      {
+        "name": "NPC-Yegor",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "정규군 하사"
+    },
+    "text": "알겠습니다, 그럼 그 폐기 빌딩에 있는 정찰대는 어떡합니까?"
+  },
+  {
+    "screenEffect": "blackSpot1",
+    "characters": [
+      {
+        "name": "NPC-YegorDamage",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "예고르"
+    },
+    "text": "원위치에서 계속 감시한다, 지금 일손이 부족한 상태에서 감시 범위에 빈틈이 생겨서는 안 된다.+ <color=#A9A9A9>(... 정말 빈틈이 없는 것인가?)</color>+<color=#A9A9A9>(주력부대는 안젤리아로 의심되는 자를 쫓으며, 그리폰의 인형도 추격 중이다. 설사 안젤리아가 빌딩 안에 숨어있다 하여도 도망치려는 순간 바로 제압할 수 있다.)</color>+ <color=#A9A9A9>(더 이상의 가능성은 없다. 이 국면을 만회할 방법은 없다!)</color>+<color=#A9A9A9>(그년은 이제 어디로도 도망 못 친다!)</color>"
+  },
+  {
+    "background": {
+      "id": 46
+    },
+    "screenEffect": "blackSpot2",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "지휘관... 그 방법이라는 것은 대체..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>화력소대다.<c>도망칠 수 없다면, 안 치면 된다.<c>한 번 악역이 되어 보겠는가?"
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "화력소대? 그 정도의 숫자로는 군의 주력과 비교가 안 되잖아?"
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "도망치지 말라고? 그럼 어쩌라는 거야?"
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "살아남을 수만 있다면야, 저 군인 모두 생매장시켜도 괜찮아."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "그러니까 대체 무슨 방법이야?"
+  },
+  {
+    "screenEffect": "dark2",
+    "text": "안젤리아는 지휘관의 설명을 들었다."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "화력소대의 남은 포탄으로 접착폭탄을 만들라고요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AN94"
+    },
+    "text": "인형에게 어렵지 않은 일이지만, 그 정도의 폭탄으로 군의 탱크를 모두 폭파하기에는 부족합니다."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "\"지휘관의 말은 IED로 만든 다음에 이 빌딩에 설치하란 뜻이야.+언제가 됐든 예고르는 결국 빌딩에 들어올 거야. 내게 그 손으로 직접 복수하겠다 했으니까. 그러니 이 폭탄들이 마지막 도박이 될 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      },
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "즉 들어오면 폭탄으로 물러나게 위협할 셈인가요?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      },
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AN94"
+    },
+    "text": "정말 예고르가 직접 올라올 것이라 확신합니까?"
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      },
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "몰라, 녀석은 침착한 인간이야, 하지만 누구든 충동에 휩싸일 때가 있지.+꼭 나를 구조하기 위해 작전을 짠다면, 이 방법밖에 없어."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      },
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AN94"
+    },
+    "text": "하지만 그러기 위해서는 먼저 지휘관이 화력소대를 빌딩까지 데려와야 합니다. 설사 IED를 제 때에 만들었다 해도, 빌딩에 설치할 시간이 촉박합니다.+그리고 포탄을 여기서 쓰게 되면 앞으로의 작전에서 화력이 부족해질 겁니다. 그리고 폭탄을 설치하는 시간까지 벌어야 하니, 지금 저희의 실력으로 가능할지..."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      },
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "앞으로의 작전?"
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      },
+      {
+        "name": "AN94",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AN94"
+    },
+    "text": "이 전장엔 안젤리아 말고 또 한 사람이 남아있습니다..."
+  },
+  {
+    "characters": [
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "AK12"
+    },
+    "text": "맞네..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "나 때문에 다른 사람을 구할 시기를 놓치고 싶지는 않아, 지금처럼 승산이 매우 희박한 때일수록 말이야."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "지휘관"
+    },
+    "text": "...<c>살아남을 기회를 포기하는 건 군인답지 않다.<c>꼭 100%의 확신이 서야 작전에 나서는 건 지휘관 실격이다.<c>시간을 벌 테니 믿어달라."
+  },
+  {
+    "spot": "1",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "포기하진 않을 거야, 다만 사태가 돌이킬 수 없게 되었다간 난 감당하지 못할 거야..."
+  },
+  {
+    "spot": "2",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "알고 있어, 하지만 이번 도박은 정말로 승산이 너무 적어."
+  },
+  {
+    "spot": "3",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "널 믿으라... 잘 모르겠어, 이제 군의 주력부대와 맞서 싸워야 하는 상황에서..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      },
+      {
+        "name": "AK12",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "AK12"
+    },
+    "text": "안젤리아..."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 2
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "좋아... 지휘관, 지금 이 만큼의 전투를 치르면서 네가 보여준 모습은 지금의 나보다 훨씬 믿음직해.+너의 판단이 옳을 것이라 믿을게, 어쩌면 나보다도 훌륭한 판단일 거야."
+  },
+  {
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 1
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "정말로 그 위험한 계획을 실행한다면 우리도 전력으로 협조할게. 다만 한 가지 약속해, 조금이라도 불리할 것 같으면 즉시 작전을 포기하고 철수해.+지휘관, 잘 들었지? 어떤 결정이든 우린 받아들일 수 있어. 하지만 여기서 모든 것을 버려서는 안 돼."
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "NPC-AngeDamage",
+        "face": 3
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "안젤리아"
+    },
+    "text": "그럼 시작하지. 리벨리온, 지휘관이 시간을 끄는 사이에 서둘러 폭탄을 설치해!"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "blackSpot2"
+  }
+]

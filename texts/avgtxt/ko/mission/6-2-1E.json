@@ -1,0 +1,138 @@
+[
+  {
+    "background": {
+      "id": 2
+    },
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "NPC-Helian",
+        "face": 0,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "헬리안"
+    },
+    "text": "M16, 지금 전장에서 무슨 일이 일어나고 있는지 보고해!+분명히 후퇴를 명령했을 텐데, 어째서 아직도 수많은 인형들이 그대로 있는 거지!"
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "그녀들은 지금 통로 앞에서 멈춰있어, 그 안의 신호는 차단당했고.+주변에는 철혈의 복병이 가득이라서 우리든지 반대편이든지 무모하게 돌파하다간 피해가 막심할 거라고!"
+  },
+  {
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "헬리안"
+    },
+    "text": "설마 【우산】이 아직도 작동 중인가? AR-15는 왜 그곳을 이탈하지 않았지?"
+  },
+  {
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "아마 적의 보스에게 발이 묶였을거야, 알케미스트에게......+또한 네게브가 받은 도발도 그녀석의 생각일 걸......"
+  },
+  {
+    "sound": {
+      "se2": "Gunfight"
+    },
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 1,
+      "name": "헬리안"
+    },
+    "text": "모략파의 보스인가......내가 잘못 조사한 것 같군.+그렇다면 최우선 목표는 AR-15의 포위를 뚫어 그녀들 데리고 자리에서 이탈하는 거겠지?"
+  },
+  {
+    "screenEffect": "dark1",
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3
+      },
+      {
+        "name": "NPC-Helian",
+        "face": 0
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "맞아, 그래서 방금 우리끼리 방법을 생각해 봤는데......"
+  },
+  {
+    "background": {
+      "id": 10
+    },
+    "screenEffect": "dark2",
+    "sound": {
+      "se1": "Battlefield"
+    },
+    "characters": [
+      {
+        "name": "M16",
+        "face": 3,
+        "inCommunicationBox": true
+      }
+    ],
+    "speaker": {
+      "index": 0,
+      "name": "M16A1"
+    },
+    "text": "지휘관, 듣고 있어?+지금 SOPII를 전장을 넘어 차단망 안으로 들여보낼 계획이야.+그러면 SOPII는 일러둔 대로 모두에게 정확한 대피 루트를 짚어줄테고.+하지만 그러기 위해선 지휘관의 제대가 먼저 외곽의 철혈부대를 해치워서 SOP에게 빈틈을 만들어 줘야 해.+지휘관, AR-15와 M4A1, 그리고 다른 그리폰 소대원들......+모두의 안전이 지휘관 손에 달려있어, 꼭 임무를 완수해야 해!"
+  }
+]
