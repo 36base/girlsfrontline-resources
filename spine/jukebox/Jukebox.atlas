@@ -1,0 +1,62 @@
+
+Jukebox.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cover
+  rotate: false
+  xy: 2, 17
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+deep
+  rotate: false
+  xy: 2, 117
+  size: 109, 99
+  orig: 109, 99
+  offset: 0, 0
+  index: -1
+disk
+  rotate: false
+  xy: 113, 200
+  size: 80, 16
+  orig: 80, 16
+  offset: 0, 0
+  index: -1
+ifuku1
+  rotate: false
+  xy: 113, 146
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+ifuku2
+  rotate: false
+  xy: 30, 39
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 8
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+mid
+  rotate: false
+  xy: 2, 81
+  size: 107, 34
+  orig: 107, 34
+  offset: 0, 0
+  index: -1
+read
+  rotate: true
+  xy: 195, 200
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
