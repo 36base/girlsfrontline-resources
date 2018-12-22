@@ -55,7 +55,7 @@ ALarm2
   index: -1
 ALeye1
   rotate: true
-  xy: 320, 336
+  xy: 208, 123
   size: 18, 22
   orig: 18, 22
   offset: 0, 0
@@ -88,14 +88,14 @@ ALeye3
   orig: 15, 7
   offset: 0, 0
   index: -1
-BLeye3
+CLeye3
   rotate: false
   xy: 213, 416
   size: 15, 7
   orig: 15, 7
   offset: 0, 0
   index: -1
-CLeye3
+BLeye3
   rotate: false
   xy: 213, 416
   size: 15, 7
@@ -153,7 +153,7 @@ ARarm1
   index: -1
 ARarm2
   rotate: true
-  xy: 343, 370
+  xy: 232, 123
   size: 18, 14
   orig: 18, 14
   offset: 0, 0
@@ -166,36 +166,36 @@ AReye1
   offset: 0, 0
   index: -1
 AReye2
-  rotate: true
-  xy: 249, 275
-  size: 22, 21
-  orig: 22, 21
-  offset: 0, 0
-  index: -1
-CReye2
-  rotate: true
-  xy: 249, 275
+  rotate: false
+  xy: 320, 333
   size: 22, 21
   orig: 22, 21
   offset: 0, 0
   index: -1
 BReye2
-  rotate: true
-  xy: 249, 275
+  rotate: false
+  xy: 320, 333
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+CReye2
+  rotate: false
+  xy: 320, 333
   size: 22, 21
   orig: 22, 21
   offset: 0, 0
   index: -1
 AReye3
   rotate: true
-  xy: 421, 374
+  xy: 218, 65
   size: 25, 8
   orig: 25, 8
   offset: 0, 0
   index: -1
 BReye3
   rotate: true
-  xy: 421, 374
+  xy: 218, 65
   size: 25, 8
   orig: 25, 8
   offset: 0, 0
@@ -237,7 +237,7 @@ Abodyitem
   index: -1
 Acard
   rotate: false
-  xy: 208, 125
+  xy: 421, 381
   size: 9, 18
   orig: 9, 18
   offset: 0, 0
@@ -261,6 +261,13 @@ Aface2
   xy: 388, 389
   size: 42, 6
   orig: 42, 6
+  offset: 0, 0
+  index: -1
+Ahanditem
+  rotate: false
+  xy: 207, 92
+  size: 18, 29
+  orig: 18, 29
   offset: 0, 0
   index: -1
 Aheadback
@@ -327,43 +334,43 @@ Amouth1
   offset: 0, 0
   index: -1
 Amouth2
-  rotate: false
-  xy: 449, 387
+  rotate: true
+  xy: 246, 186
   size: 10, 9
   orig: 10, 9
   offset: 0, 0
   index: -1
 Cmouth2
-  rotate: false
-  xy: 449, 387
+  rotate: true
+  xy: 246, 186
   size: 10, 9
   orig: 10, 9
   offset: 0, 0
   index: -1
 Bmouth2
-  rotate: false
-  xy: 449, 387
+  rotate: true
+  xy: 246, 186
   size: 10, 9
   orig: 10, 9
   offset: 0, 0
   index: -1
 Amouth3
-  rotate: true
-  xy: 302, 326
+  rotate: false
+  xy: 335, 385
   size: 10, 3
   orig: 10, 3
   offset: 0, 0
   index: -1
 Cmouth3
-  rotate: true
-  xy: 302, 326
+  rotate: false
+  xy: 335, 385
   size: 10, 3
   orig: 10, 3
   offset: 0, 0
   index: -1
 Bmouth3
-  rotate: true
-  xy: 302, 326
+  rotate: false
+  xy: 335, 385
   size: 10, 3
   orig: 10, 3
   offset: 0, 0
@@ -375,14 +382,14 @@ Ashadow
   orig: 62, 20
   offset: 0, 0
   index: -1
-Bshadow
+Cshadow
   rotate: false
   xy: 2, 2
   size: 62, 20
   orig: 62, 20
   offset: 0, 0
   index: -1
-Cshadow
+Bshadow
   rotate: false
   xy: 2, 2
   size: 62, 20
@@ -418,15 +425,15 @@ BLarm2
   offset: 0, 0
   index: -1
 BLeye1
-  rotate: true
-  xy: 244, 231
+  rotate: false
+  xy: 249, 275
   size: 18, 22
   orig: 18, 22
   offset: 0, 0
   index: -1
 BLhand
   rotate: false
-  xy: 272, 279
+  xy: 269, 252
   size: 16, 19
   orig: 16, 19
   offset: 0, 0
@@ -460,8 +467,8 @@ BRarm1
   offset: 0, 0
   index: -1
 BRarm2
-  rotate: false
-  xy: 219, 126
+  rotate: true
+  xy: 293, 274
   size: 19, 15
   orig: 19, 15
   offset: 0, 0
@@ -502,15 +509,15 @@ Bbody
   offset: 0, 0
   index: -1
 Bbodyitem
-  rotate: true
-  xy: 343, 360
+  rotate: false
+  xy: 247, 198
   size: 8, 14
   orig: 8, 14
   offset: 0, 0
   index: -1
 Bcard
   rotate: false
-  xy: 272, 255
+  xy: 227, 99
   size: 13, 22
   orig: 13, 22
   offset: 0, 0
@@ -628,8 +635,8 @@ Btie
   offset: 0, 0
   index: -1
 Btop
-  rotate: false
-  xy: 249, 251
+  rotate: true
+  xy: 269, 273
   size: 21, 22
   orig: 21, 22
   offset: 0, 0
@@ -670,8 +677,8 @@ CLarm2
   offset: 0, 0
   index: -1
 CLeye1
-  rotate: true
-  xy: 269, 300
+  rotate: false
+  xy: 249, 251
   size: 18, 22
   orig: 18, 22
   offset: 0, 0
@@ -720,7 +727,7 @@ CRarm1
   index: -1
 CRarm2
   rotate: false
-  xy: 247, 188
+  xy: 247, 214
   size: 17, 17
   orig: 17, 17
   offset: 0, 0
@@ -768,8 +775,8 @@ Cbody
   offset: 0, 0
   index: -1
 Cbodyitem
-  rotate: true
-  xy: 359, 372
+  rotate: false
+  xy: 293, 295
   size: 11, 23
   orig: 11, 23
   offset: 0, 0
@@ -803,8 +810,8 @@ Cglasses
   offset: 0, 0
   index: -1
 ChandL
-  rotate: false
-  xy: 431, 377
+  rotate: true
+  xy: 244, 233
   size: 16, 19
   orig: 16, 19
   offset: 0, 0
@@ -825,7 +832,7 @@ CheadL
   index: -1
 CheadR
   rotate: false
-  xy: 247, 207
+  xy: 269, 296
   size: 22, 22
   orig: 22, 22
   offset: 0, 0
