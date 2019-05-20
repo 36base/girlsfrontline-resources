@@ -1,0 +1,48 @@
+
+ball.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: false
+  xy: 150, 41
+  size: 117, 124
+  orig: 117, 124
+  offset: 0, 0
+  index: -1
+ball1
+  rotate: false
+  xy: 163, 329
+  size: 159, 154
+  orig: 159, 154
+  offset: 0, 0
+  index: -1
+ball2
+  rotate: false
+  xy: 324, 338
+  size: 159, 145
+  orig: 159, 145
+  offset: 0, 0
+  index: -1
+ball3
+  rotate: false
+  xy: 2, 167
+  size: 158, 157
+  orig: 158, 157
+  offset: 0, 0
+  index: -1
+ball4
+  rotate: false
+  xy: 2, 326
+  size: 159, 157
+  orig: 159, 157
+  offset: 0, 0
+  index: -1
+ball5
+  rotate: true
+  xy: 2, 3
+  size: 162, 146
+  orig: 162, 146
+  offset: 0, 0
+  index: -1
