@@ -1,0 +1,132 @@
+
+Jaguar.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chassis
+  rotate: true
+  xy: 211, 195
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 87
+  size: 96, 35
+  orig: 96, 35
+  offset: 0, 0
+  index: -1
+foreleg--1
+  rotate: false
+  xy: 159, 189
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+foreleg--2
+  rotate: false
+  xy: 212, 90
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+foreleg--A
+  rotate: false
+  xy: 154, 45
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+foreleg--B
+  rotate: true
+  xy: 100, 70
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 2, 36
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+gun-1
+  rotate: true
+  xy: 70, 2
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+ham--1
+  rotate: false
+  xy: 159, 122
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+ham--2
+  rotate: false
+  xy: 212, 111
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+ham--A
+  rotate: false
+  xy: 178, 45
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+ham--B
+  rotate: true
+  xy: 156, 69
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+robot
+  rotate: false
+  xy: 2, 124
+  size: 155, 130
+  orig: 155, 130
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 14
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1
+wheel--1
+  rotate: false
+  xy: 211, 162
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+wheel--2
+  rotate: false
+  xy: 211, 132
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+wheel--3
+  rotate: false
+  xy: 121, 37
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+wheel--4
+  rotate: false
+  xy: 121, 7
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
