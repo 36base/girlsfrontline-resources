@@ -1,0 +1,64 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>159</BIN><黑屏2><BGM>BGM_Room</BGM>:......
+HK416Mod(0)<Speaker>HK416</Speaker>||:이게 어떻게 된 일이지?! 그리폰의 인형들이 모두...!
+G11(2)<Speaker>G11</Speaker>||:피규어처럼 꼼짝도 안 하네...?
+UMP9Mod(2)<Speaker>UMP9</Speaker>||:아마 강제 연결로 인한 거겠지... 45 언니 말대로, 이제부터가 시작이야.
+HK416Mod(0)<Speaker>HK416</Speaker>||:미리 마인드맵 포트를 완전히 폐쇄해서 다행이네. 45의 상태는 어때?
+UMP9Mod(6)<Speaker>UMP9</Speaker>||:여전히 아무 반응이 없어... 서둘러야 해.+꼭 붙어서 따라와. 프로토콜 없이는 GPS 네비게이션을 사용할 수 없으니까. 다행히 제어소는 여기서 멀지 않으니까, 우리가 직접 M4를 찾으러 가는 게 나을지도 몰라.
+UMP9Mod(6);HK416Mod(0)<Speaker>HK416</Speaker>||:내가 보기엔... 그 녀석이 45를 가둔 것 같지 않아.
+UMP9Mod(2)<Speaker>UMP9</Speaker>;HK416Mod(0)||:...왜?
+UMP9Mod(2);HK416Mod(0)<Speaker>HK416</Speaker>||:그냥. 좀 이상하긴 녀석이긴 해도, 이렇게 문답무용으로 죽이는 성격은 아니야.
+UMP9Mod(6)<Speaker>UMP9</Speaker>;HK416Mod(0)||:그, 그럼 어떡하지...?
+UMP9Mod(6);HK416Mod(0)<Speaker>HK416</Speaker>||:나도 몰라. 상황 봐서 거기에 맞춰 판단해야겠지.
+UMP9Mod(6)<Speaker>UMP9</Speaker>||:응...
+UMP9Mod(2)<Speaker>UMP9</Speaker>||<黑点1>:아, 다른 인형들이 보여. 안 움직이는 건 마찬가지네... 쟤네는 외부 경계를 맡은 그리폰 제대일 거야. 제어소까지 얼마 안 남았어.
+()<Speaker></Speaker>||<BIN>202</BIN><黑点2><BGM>BGM_Empty</BGM>:...그 시각, 그리폰 지휘부.
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Truth</BGM>:어떻게 된 거지... 또 통신 불량인가?
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:아뇨, 통신 감도는 양호해요. 인형들이 반응을 안 하는 거예요...
+()<Speaker>지휘관</Speaker>||:제기랄, 또 강제 연결인가...+페르시카 씨, 아직 계십니까?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>여기 있어.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker>||:어떻게 된 일입니까? 윌리엄의 목적을 알았단 건 뭐고, 융합해선 안 된다는 말은 또 무슨 뜻입니까?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>미, 미... 미안해, 지휘관... 나... 지, 지금 너무 무서워...</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker>||:네? 무섭다뇨, 괜찮으십니까?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>내가... 내가 그 아이를 거둔 것도 윌리엄의 계획이었다면... 대체... 대체 언제부터 시작된 거지...?</color>+<color=#00CCFF>3년 전? 5년 전? 아니면... 나와 리코가 그의 요구를 거절했던 그 순간부터...?</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker>||:아이를 거두었다고요? 설마, M4 말씀하시는 겁니까?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>응... M4의 마인드맵은, 어느 죽은 아이의 뇌를 스캔해서 만든 거야...</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:네?! M4가 특별하다고 하신 이유가... 인간의 뇌 구조를 기반으로 만들어서였어요!?
+NPC-Persica(0);NPC-Kalin(7)<Speaker>카리나</Speaker>||:그러면 인간과 인형의 경계를 무너뜨리는 거잖아요... 윤리적으로 엄청나게 심각한 문제라고요! 그런 건 다 법으로 금지되지 않았나요?!
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>하... 하지만 그 아이가 불쌍해서...! 그렇게 사라지도록 놔두고 싶지...</color>+<color=#00CCFF>............</color>+<color=#00CCFF>아니... 그렇게 생각했지만, 사실은...</color>+<color=#00CCFF>사실은... 내가 원하는 최고의 마인드맵을 만들고 싶어서였어. 그 어떤 모의 연산도... 진짜 두뇌에 견줄 수 없으니까.</color>+<color=#00CCFF>연민은 그저 핑계였던 거지... 아마 윌리엄도, 내가 그럴 것이라 예측하고 계획한 게 틀림없어...</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker>||:그 계획이라는 걸 자세히 들려주시겠습니까?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>몇 년 전에 있었던 총기 난사 사건들... 하나같이 공격성이 매우 강한 아동이 범인이었고, 사건 장소가 그리폰의 관할 구역이었단 공통점이 있었어.</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:그런 일이... 있었나요? 그리폰의 데이터베이스엔 그런 기록은 없는걸요?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>아무리 총을 쐈다지만, 어떻게 PMC가 아동을 사살한 걸 기록으로 남기겠어? 당시의 사건 조사 기록도... 사진 몇 장을 제외하곤 모조리 말소됐어. 나도 관련 정보를 막 얻은 참이야...</color>+<color=#00CCFF>그리고... 내가 죽어 가던 여자아이의 뇌를 스캔한 후론, 다시는 발생하지 않았지...</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker>||:그 사건들이 계획이라면, 윌리엄의 목적은요?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>확실해... 내 손을 빌려서, 자신이 원하는 마인드맵을 만들려 하고 있어.</color>+<color=#00CCFF>나와 리코가 아직 90Wish에 있었을 당시에... 윌리엄은 리코에게 누군가의 의식을 복사해 달라 요구했어. 누군가를 인형으로 되살릴 셈이었지.</color>+<color=#00CCFF>당연히 리코는 그걸 거절했어. 그리고... 아마 그때의 원한으로 죽임을 당한 걸지도...</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:사람을 되살린다고요?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>총기 난사 사건을 일으켰던 그 아이들은 분명 윌리엄의 피조물일 거야... 내 추측이 맞다면, 이 도시의 실험체들도 내 자료에 있는 그 아이와... 유사점이 있겠지.</color>+<color=#00CCFF>한 가지 확실한 건, 윌리엄도 처음엔 M4가 특별하다는 걸 몰랐을 거야. 하지만 니토와 여러 번 접촉하게 했다는 건, 어느 정도 눈치를 챘다는 뜻이겠지... 그래서 너희를 여기로 유인한 거고...</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker>||:그렇다면... 이 강제 연결의 목적은 M4의 마인드맵을 빼앗는 것입니까?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>아니... 내가 보기엔, 윌리엄은 아직도 M4가 어떤 존재인지 완전히 파악하지 못한 것 같아... 그래서 이렇게 건드려 보기만 하는 거야...</color>+<color=#00CCFF>그리고 저 실험체들이 버려진 것이라면... 저들의 의지는 윌리엄의 바람과는 완전히 일치하지 않을 수도 있어.</color>+<color=#00CCFF>만약 그렇다면... 우리에겐 오히려 기회일지도 모르지.</color>+<color=#00CCFF>하지만 강제 연결이 끝나기 전까지, 우린 할 수 있는 게 없어... AR팀을 믿고 기다리는 수밖에. M4를 지키기 위해 특별히 만든 애들이니까, 분명 이 위기에서 잘 벗어날 수 있을 거야...</color>
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:......
+()||:제어소 내부.+AR15는 오가스의 도움을 받으며, M4A1의 마인드맵과 연결했다.
+()<Speaker></Speaker>||<BGM>m_avg_hope</BGM>:<color=#00CCFF>[시스템] 레벨 2 플랫폼 데이터 동기화...</color>+<color=#00CCFF>[시스템] 레벨 2 플랫폼 데이터 동기화... 10%</color>
+AR15Mod(0)<Speaker>AR15</Speaker>||:이 느낌... 참 오랜만이네.
+AR15Mod(0)<Speaker></Speaker>||:<color=#00CCFF>[시스템] 레벨 2 플랫폼 데이터 동기화... 25%</color>
+AR15Mod(0)<Speaker>AR15</Speaker>||:너도 나도, 예전과는 달라.
+AR15Mod(0)<Speaker></Speaker>||:<color=#00CCFF>[시스템] 레벨 2 플랫폼 데이터 동기화... 55%</color>
+AR15Mod(0)<Speaker>AR15</Speaker>||:하지만... 그래도 넌 여전한 점이 하나 있더라.
+AR15Mod(0)<Speaker></Speaker>||:<color=#00CCFF>[시스템] 레벨 2 플랫폼 데이터 동기화... 76%</color>
+AR15Mod(0)<Speaker>AR15</Speaker>||:아무리 강해져도, 자기 앞가림도 제대로 못 하면서 꼭 혼자서 모든 걸 짊어지려고 억지를 부리는, 상냥해 빠진 바보라는 점.
+AR15Mod(0)<Speaker></Speaker>||:<color=#00CCFF>[시스템] 레벨 2 플랫폼 데이터 동기화... 98%</color>
+AR15Mod(3)<Speaker>AR15</Speaker>||:그러니까... 네가 곤경에 처하면, 내가 구해 주겠어.
+()<Speaker></Speaker>||<黑屏1>:<color=#00CCFF>[시스템] 레벨 2 플랫폼 데이터 동기화... 100%</color>
+()<Speaker>청아한 목소리</Speaker>||<黑屏2><BIN>72</BIN>:<color=#00CCFF>너희 둘의 상성은 아주 좋지만, 그래도 방해가 약간 있는 것 같아.</color>
+()<Speaker>작은 소리</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>칙... 치직...</color>
+AR15Mod(4)<Speaker>AR15</Speaker>||:젠장... 짜증나는 소리가 둘이 됐잖아...
+AR15Mod(4)<Speaker>청아한 목소리</Speaker>||:<color=#00CCFF>그렇지. 쓸데없는 것까지 있으면 확실히 불편하지. 여태까지 네가 마인드맵 깊숙이 가둬 두었던 아이는 알을 깨고 밖으로 나오지도 못했구나. 너무나도 손쉽게 내게 융합되었어.</color>+<color=#00CCFF>더는 그 "짜증 나는 소리"가 들리지 않을 거야.</color>
+AR15Mod(4)<Speaker>AR15</Speaker>||:그래? 그거 정말 고마운 일이네.
+AR15Mod(4)<Speaker>청아한 목소리</Speaker>||:<color=#00CCFF>대신, 이제부턴 내 목소리를 듣게 될 거야.</color>
+AR15Mod(4)<Speaker>AR15</Speaker>||<白屏1>:......
+()<Speaker></Speaker>||<BIN>204</BIN><白屏2>:주위의 전자 공간이 서서히 안정됐고, AR15는 하늘로부터 뻗어 내리는 숲 아래에 서 있었다.
+()<Speaker>AR15</Speaker>||:이 공간... 마치 서로 다른 기억을 끼워 맞춘 것 같아...+이 공간을 구성하고 있는 건 M4의 마인드맵만이 아니야.+M4는 감지되지 않지만, 수많은 신호들이 느껴져... 신호 하나하나가 다른 마인드맵 공간을 가리키고 있어...+인형의 평균적인 마인드맵 용량과 연산 한계로 봤을 때... 아무리 M4의 것이라 해도 데이터의 양이 너무 방대해. 그렇다면 M4와 다른 사람들 간의 연결로 생성된 플랫폼이란 뜻인데...
+()<Speaker>청아한 목소리</Speaker>||:<color=#00CCFF>나도 그렇게 생각해. 여기엔 M4의 것이 아닌 기억들도 잔뜩이야. 하지만 이 이성질체들은 좋은 추억이 없어.</color>
+()<Speaker>AR15</Speaker>||:이성질체?
+()<Speaker>청아한 목소리</Speaker>||:<color=#00CCFF>나와 M4는 저들을 그렇게 불러. 수많은 이성질체가 M4와 연결된 상태에서, 그녀만을 특정해내기는 어려워. 이 조각들을 정리하면서 마인드맵의 심층부로 가자.</color>
+()<Speaker>AR15</Speaker>||<黑屏1>:흥... 말 안 해도 알아서 할 테니까 재촉하지 마.

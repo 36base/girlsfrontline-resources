@@ -1,0 +1,80 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>83</BIN><黑屏2><BGM>BGM_Sunshine</BGM>:그리폰의 새로운 기지.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:우와아! RO!+이것 봐 이것 봐, 이전의 기지보다 훨씬 커!
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:어떻게 아직도 그렇게 팔팔한 거야?+잠깐, 갑자기 뛰지 마!+... 떨어질 뻔했잖아! 이 바보 SOP2!
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:죽을 뻔했다가 여기에 오니까, 마치 천국에 온 것 같아.+RO는 기운 나지 않아?
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:안 나.+난 그냥 빨리 새로운 몸으로 바꾸고 싶어...
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:걱정 마, RO!+이 새 기지에서 뭐든지 해결할 수 있을 거야!
+()||:삑.+통신 연결.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:이 신호는... 카리나!
+SOPIIDamage(0);NPC-Kalin(1)<Speaker>카리나</Speaker><通讯框>||:헤헤, 아직 기운 가득한가 보네, SOP2.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Kalin(1)||:응응! 나도 RO도 멀쩡해!
+SOPIIDamage(0)<Speaker>RO635</Speaker>;NPC-Kalin(1)||:난 안 멀쩡해!
+SOPIIDamage(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:지금 좀 바빠서, 나중에 얘기할게.+페르시카 씨가 너희를 보고 싶다고...
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Kalin(0)||:페르시카도 기지에 온대?+다행이다! RO! 이제 곧 새 몸이 생길 거야!
+SOPIIDamage(0)<Speaker>RO635</Speaker>;NPC-Kalin(0)||:하, 하... 제발 그랬으면 좋겠네...
+SOPIIDamage(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:SOP2, 지금 숙소의 위치를 알려줄 테니까, 먼저 가서 쉬고 있어.+페르시카 씨는 아직 설비를 점검 중이라서, 나중에 부를게.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:알았어! 카리나 고마워!
+()||<黑点1>:통신 종료.
+()||<BIN>82</BIN><黑点2>:SOP2와 RO는 카리나가 지정한 방으로 향했다.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:여기가 우리 새 숙소구나!+너무 좋아! 이전하고 비슷하... 아니, 이전보다 더 넓어졌어!+우와, 저 침대 푹신해보여, 영차!
+()||:SOP2가 침대에 뛰어들어, 배개를 안고 편하게 엎드렸다.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:으응, 침대도 이전보다 푹신해...
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:SOP2! 침대에 눕기 전에 먼저 말해!+으아아! 저기! 나 좀 세워줘, 이 침대 너무 물렁물렁해!
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:푸웁, 푸하하하! 가만히 있어 봐, 지금 도와줄게.
+()||<SE1>ClothingUp</SE1>:SOP2는 앉아, RO를 품 안에 안았다.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:새 숙소 참 좋다... 다른 소대원들도 같이 여기에 지낸다면 좋을 텐데.+RO... 모두 언제쯤이면 돌아올까?+M16... M4...
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:분명 되찾을 수 있을 거야, 이제 페르시카가 널 고쳐줄 거고, 나도 새 몸을 받을 수 있겠지.+그때 다시 찾으러 가자.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||<黑点1>:응, 맞아! 빨리 페르시카가 고쳐줬으면 좋겠네, 그러면 더 빨리 모두를 찾으러 갈 테니까!
+()||<黑点2>:반 시간 후.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:음... 왜 아직도 연락이 없지...+페르시카 너무 늦네...
+SOPIIDamage(2);RO635(6)<Speaker>RO635</Speaker>||:이제 30분밖에 지났어.+얌전히 기다려봐, 아니면 지금 메모리 정리라도 할래?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:그냥 이대로 눕기는 싫어.+아 맞다, 우리 나가서 돌아다녀 볼까?
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:싫어.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:같이 새로운 환경에 적응해야지.+일찍 조사해두면 나중에 먹을 거랑 놀 곳을 바로 찾을 수 있잖아!
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:이런 모습으로... 어떻게 나가라는 거야!
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:괜찮아, 모두 바쁘니까 눈치채지 못할 거야!+좋아, 그럼 바로 출발!
+RO635(6)<Speaker>RO635</Speaker>||<黑点1>:야, 멋대로 정하지 마!+내 말 좀 들어봐, SOP2!
+()||<黑点2><BIN>18</BIN>:SOP2는 RO를 데리고 새 기지의 로비에 나왔다.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:숙소를 새로 지은 것 빼고도 처음 보는 시설이 잔뜩 있어!+어, 저기에 인형들 화력지원소대의 애들 같은데, 가서 인사해볼까...
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:... 돌아가자.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:좀 더 기다려봐, RO. 카페만 찾고서 돌아갈게!
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:누가 오잖아, 빨리...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:왜, 위험한 사람이야?+하지만 이상한 신호는 없는데...
+PM(0)<Speaker>마카로프</Speaker>||<BGM>BGM_Empty</BGM>:AR팀의 SOPMOD2.... 넌 무사한가 보네.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:어, 넌... 마카로프지!
+SOPIIDamage(0);PM(0)<Speaker>마카로프</Speaker>||<BGM>BGM_Moon</BGM>:내 이름을 기억해 줘서 기쁘네.+잠깐, 시간 좀 있어? 좀 물어볼게 있으니까.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:어... 좋아.
+SOPIIDamage(0);PM(0)<Speaker>마카로프</Speaker>||:너희 소대... 너 혼자만 돌아온 거야?
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:어, 그건...
+SOPIIDamage(2);PM(0)<Speaker>마카로프</Speaker>||:그냥 RO가 무사한지 알고 싶어.+너희 소대 말고도... 걔를 걱정하는 애들이 있으니까.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:아, 그거면...+(RO! 말 좀 해봐!)
+RO635(6)<Speaker>RO635</Speaker>||:...
+PM(0)<Speaker>마카로프</Speaker>||:...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:(마카로프도 RO를 걱정하고 있어, 실망한 채로 보내면 안 되는데...)+(뭐라고 하면 좋지...)+RO는... 그게...
+SOPIIDamage(2);PM(0)<Speaker>마카로프</Speaker>||:어떻게 됐는데?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:RO는 말이지, 중상을 입어서, 페르시카가 지금 수리하고 있어!+아, 그래도 마인드맵은 무사해! 몸을 다 고치고 나면 그때 연락하라고 할게!
+SOPIIDamage(0);PM(0)<Speaker>마카로프</Speaker>||:... 정말이야?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;PM(0)||:다 정말이야!+내가 직접 RO의 마인드맵을 뜯... 어, 직접 RO를 데려왔거든!
+PM(0)<Speaker></Speaker>||:마카로프는 SOP2를 쳐다보며 눈살을 찌푸렸다.
+PM(0)<Speaker>마카로프</Speaker>||:... 알겠어... 무사한 걸 알았으니 안심했어.+고마워, SOPMOD2, 내가 다른 사람에게도 알려줄게.+그리고, 그것 참 특이한 전리품이네.
+()||:마카로프가 떠났다.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:RO, 괜찮아? 말 좀 해봐!
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:... 말해서 어쩌려고? 내 말도 듣지 않으면서.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:휴우... 놀랐잖아, 설마 고장 난 줄 알고.
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:겁 먹여서 마인드맵이 좀 성숙해진다면 좋겠네.+근데... 왜 마카로프에게 거짓말했어?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:거짓말 안 했는데?
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:내가 디너게이트 안에 있는 일 말이야.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:어, 그건...+그대로 알려주면... RO가 싫어하잖아?
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:그래, 이런 꼴로 녀석들을 보고 싶지는 않아, 특히 마카로프는 말이야.+눈치 볼 줄도 알다니... 아무래도 마인드맵이 어느 정도 성장한 모양이네.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:에헤헤... 그래?+난 잘 모르겠는데.+겨우 안전한 곳에 왔으니, RO도 좀 기뻐했으면 싶어서...
+SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:내가 모처럼 칭찬하는 거니까, 우쭐해도 좋아.+빨리 카페가 어디 있는지 찾고, 숙소로 돌아가자고...
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:그래! 그럼 계속 탐험을...
+()||:삐익.+통신 연결.
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:오랜만이라고 해야 할까? SOP2 그리고 RO.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:페, 페르시카!
+SOPIIDamage(0);NPC-Persica(2)<Speaker>페르시카</Speaker>||:탐험은 나중에 하렴, SOPMOP2.+지금 내 실험실로 오렴, 최대한 빨리.+운 좋으면 저녁 식사 전에 너희 문제를 해결할 수 있을 테니까.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:알았어! 지금 바로 갈게!
+()||:통신 종료.
+RO635(6)<Speaker>RO635</Speaker>||:드디어 이 몸뚱이와 안녕인가...
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:조금만 더 참아, RO!+우리 이제 원래모습으로 돌아갈 수 있어!

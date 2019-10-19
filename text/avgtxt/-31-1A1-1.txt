@@ -1,0 +1,89 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>9</BIN>:......+해커.+스파이.+정보상인.+혹은 "높으신 분들"의 브로커.
+()<Speaker>K</Speaker>||:<color=#00CCFF>그리고, 거기에 있는 지휘관, 지금 단말기로 이곳을 감시하고 있는 건 알고 있어.</color>+<color=#00CCFF>자네가 어떻게 생겼는진 모르지만, 방금 전의 지휘로, 왜 그렇게 많은 이들이 자네를 두려워하는지 알았어.</color>+<color=#00CCFF>다만 이 도시에서만큼은, 나를 적으로 두고 싶지 않겠지, 내가 당분간은 자네와 적이 되고 싶지 않은 것처럼.</color>
+()<Speaker></Speaker>||:그는 이 중의 한 가지일 수도 있고.+전부일 수도 있다.
+()<Speaker>K</Speaker>||:<color=#00CCFF>아무튼 인사를 하지.</color>+<color=#00CCFF>"만나서 반갑다"고 할까, "베오그라드에 온 걸 환영한다"고 할까?</color>+<color=#00CCFF>자네가 오길 오래 기다렸어.</color>
+()<Speaker></Speaker>||:나는 이런 부류의 사람을 상대하는 것이 싫다.+돈만 많이 준다면 얼마든지 도움을 받을 수 있지만,+언제 그보다 더 많은 돈을 받고 나를 팔아넘길지 모르기 때문이다.
+()<Speaker></Speaker>||:......
+()<Speaker>K</Speaker>||<黑屏1><CGDelay>0.5</CGDelay>:그럼 이제...+안젤리아... 그녀에 대해서 말해보자고.+어디서부터 이야기해 줄까?
+()||<黑屏2><BIN>82</BIN><BGM>BGM_Room</BGM>:...다음날, 그리폰의 비밀 세이프 하우스.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||<CGDelay>0.3</CGDelay>:지휘관님!
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:지휘관님! 일어나세요!
+NPC-Kalin(3);RO635(0)<Speaker>RO635</Speaker>||:카리나 씨? 어... 설마 지휘관님이 아직도 방안에 계신 건가요...?
+NPC-Kalin(3)<Speaker>카리나</Speaker>;RO635(0)||:응... 어제 그 "K" 씨와 대화한 뒤로, 줄곧 기분이 안 좋으신 것 같아.
+NPC-Kalin(3);RO635(0)<Speaker>RO635</Speaker>||:저도 이해는 가요. 마치 전부 다 헛수고였던 것만 같아서...+그래도, "K" 씨의 요구대로, 슈트케이스를 가지고 왔습니다. 여기서 분석할까요?+아니면 페르시카 씨께 연락할까요?
+NPC-Kalin(3)<Speaker>카리나</Speaker>;RO635(0)||:지휘관님께서 절대 다른 행동을 하지 말고 대기하라고 명령하셨어. 다음 지시를 받기 전엔 그냥 가만히 있는 게 나을 거야.
+RO635(0)<Speaker>RO635</Speaker>||:하지만 곧 "K" 씨와 약속한 정기 연락 시간입니다만, 계속 방에만 계신다면――
+()<Speaker></Speaker>||:그때, 방의 문이 열렸다.
+()<Speaker>지휘관</Speaker>||:카리나, 통신실로 가자.
+NPC-Kalin(2)<Speaker>카리나</Speaker>||<黑屏1>:아... 네, 지휘관님!
+NPC-Kalin(3)<Speaker>카리나</Speaker>||<黑屏2><BIN>8</BIN>:신호가 좀 안 좋은데... 아, 연결됐어요!+지휘관님, B-3-5F 채널로 암호화된 화상 통신이 가능해요. 데이터 블랙 에리어는 3분간 유지할 수 있어요.
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>지각했군, 지휘관. PMC의 고위직으로서 좋은 버릇은 아닌걸.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:......
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>왜 그러지? 나한테 불만이 매우 많다는 얼굴인데.</color>+<color=#00CCFF>내가 들은 바로는, 자네는 지금까지 파견했던 인형들을 모두 그 세이프 하우스로 복귀시켰다더군.</color>+<color=#00CCFF>일종의 항명 행위라 생각해도 될까?</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:내가 받은 임무는, "안젤리아를 찾는 것"이라 알고 있었다.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>어제 그런 일을 겪었는데, 아직도 그렇게 생각하나?</color>+<color=#00CCFF>"안젤리아를 찾는다"?</color>+<color=#00CCFF>정말 그렇게 생각한다면, 나도 다른 사람을 찾아봐야겠군.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:인형의 불법 입경에 대규모 중장비 밀수까지, 전부 이상할 정도로 순조롭게 해결됐다.+이런 일을 해내기 위해서는 엄청난 대가가 필요하지. 돈만으로 해결할 수 있는 문제가 아니야. 그렇다면, 이곳에 그리폰이 와야만 하는 이유가 있다는 뜻이다.+그리고 이상의 근거들을 정리해 보면, 너와 네 배후의 인물은 지금 나 이외에는 별다른 선택지가 없다는 결론이 나온다.+안젤리아에 관한 정보를 더 제공하지 않겠다면, 나도 전부 돌이킬 수 없게 될 때까지 내 휘하 인형들에게 휴가를 즐기라고 하겠다.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>똑똑해, 아주 똑똑해.</color>+<color=#00CCFF>하지만 난 이미 충분히 많은 정보를 제공했다고 보는데.</color>+<color=#00CCFF>내가 어제 말했지?</color>+<color=#00CCFF>"안젤리아는 자네의 적이 아니다."라고.</color>
+NPC-Kalin(3)<Speaker>카리나</Speaker>;NPC-Jason(0)||:안젤리아 씨가 적이 아니라는 걸 저희가 모를 리가 없잖아요!+적이 아니니까 더욱 걱정되고, 어디 있는지 알고 싶은 거라고요!
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>아, 그리폰의 고참 보급관, 카리나 양.</color>+<color=#00CCFF>어릴 적부터 부모도 없이 떠돌이 생활을 했기에 돈에 매우 집착하는 성격이 된 자네를, 크루거는 불쌍히 여겨 당시 자네가 미성년자였음에도 규정까지 위반하면서 그리폰으로 영입했지.</color>
+NPC-Kalin(3)<Speaker>카리나</Speaker>;NPC-Jason(0)||:......
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>나는 돈을 밝히는 사람을 상대하기가 영 싫어. 그런 부류는 손에 몇 푼 쥐여주면, 자기 자신마저 팔아넘기거든.</color>+<color=#00CCFF>말 나온 김에 묻지. 자네는 얼마를 주면 지휘관을 팔아넘길 거지?</color>
+NPC-Kalin(8)<Speaker>카리나</Speaker>;NPC-Jason(0)||:얼마를 주든, 그런 짓은 절대 안 해요!
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>흐음. 방금까지의 그 가식적인 미소보다, 지금 그 진심으로 화 난 모습이 더 귀엽군.</color>+<color=#00CCFF>그래, 그러지 않으리라 믿어. 무엇이든 저마다의 가치란 것이 있으니까. 달리 말하자면, 등가교환이 필요하다는 뜻이지.</color>+<color=#00CCFF>내가 가진 정보들도 마찬가지야. 그쪽에서 동등한 가치의 물건을 제시하지 않으면, 나도 제공할 수 없어.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:등가인지 아닌지는 그쪽 맘대로 정하는 것이 아니다. 마지막으로 말하지만, 더 많은 정보를 제공하지 않으면, 그리폰은 움직이지 않겠다.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>서로 납득할 수 있어야만 등가교환이다... 아주 정확해. 지휘관, 당신은 협상 능력까지 탁월한 사람이군. 그리고 요점도 잘 잡기까지 하고. 그럼 어쩔 수 없지, 내가 먼저 양보할 수밖에.</color>
+NPC-Kalin(3)<Speaker>카리나</Speaker>;NPC-Jason(0)||:K 씨, 말 돌리기는 이제 그만 하세요. 지금은 서로 협력해야 하는 상황 아닌가요?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>아주 건설적인 의견이로군. 그럼 정보 하나를 추가로 제공하지.</color>+<color=#00CCFF>안젤리아는 지금, "배신자"임에도 "배신자"답지 않은 임무를 수행 중이야. 그리고 그쪽이 알다시피, 바로 이 도시에 있지.</color>+<color=#00CCFF>홀몸으로 전술인형 소대 하나를 이끌고, 언제나처럼 위험천만한 임무를 맡고 있어. 지원을 받지 못한다면, 압도적으로 많은 수의 적에게 밀리고 말 거야.</color>+<color=#00CCFF>그런데, 그 지원 임무를 맡은 어디의 누구누구는, 지금 어느 방 안에서 느긋하게 휴가를 즐기고 있군.</color>
+()<Speaker>지휘관</Speaker>||:......
+NPC-Kalin(7)<Speaker>카리나</Speaker>||:......
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>덤으로 하나 더 얹어주지. 지금 안젤리아의 팀에는, 전 AR팀 소속이었던 전술인형이 있다.</color>+<color=#00CCFF>내 정보가 정확하다면, 당신 밑에서 임무를 수행한 적도 있지?</color>
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:설마, M4가...? 다른 AR팀 멤버도 이 도시에 있는 건가요?
+()<Speaker>지휘관</Speaker>||:......+그럼 우린 무엇을 하면 되지?
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>그래, 그런 실무적인 성격이 참 마음에 들어, 지휘관.</color>+<color=#00CCFF>서로 즐거운 협력 관계가 될 것 같군.</color>
+()<Speaker></Speaker>||<黑屏2><BIN>85</BIN>:베오그라드, 그리폰의 세이프 하우스.
+RO635(0)<Speaker>RO635</Speaker>||:인간한테 욕먹고... 적한테 포위당하고... 물에 빠져 죽을 뻔하고...+적은 어디에 숨었는지도 모르고... 이게 대체 무슨 꼴이람...
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:RO, 뭘 그렇게 중얼거려?+혼자 그렇게 침울해 있지 말고 기운 내. 자, 어제 세탁한 옷들 다 말랐어. 장비랑 같이 여기에 둘게.
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:...이런 상황에서도 그렇게 태평하게 있을 수 있다니, 정말 부럽다.+신체 점검은 다 했어? 침수로 고장 난 부분은 없고?
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:없어! 네 어깨 위에 올라타고 있었어서인지, 많이 젖지도 않았다고~~+근데, 언제쯤에나 완전 방수가 되는 소체로 바꿀 수 있을까?
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:글쎄... 당분간은 불가능하겠지...
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:으으, 그럼 하수도는 되도록 피하자. 고장나기 싫어...+지휘관의 제대가 조금이라도 늦었다면, 우린 정말 꼬르륵 하고 끝장났을 거야.
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:그러고 보니... 그 "K"라는 사람이 말한 수호천사가 신경 쓰여.+나조차 원격 제어하지 못한 차단문이 갑자기 열리다니...
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그러니까... 어제 우릴 구한 사람은 따로 있단 소리야?
+RO635(0)<Speaker>RO635</Speaker>||:나도 잘 모르겠어... 아, 잠깐만. 통신이 왔어.
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||:<color=#00CCFF>RO, 아직 있니? 지휘관님이 슈트케이스를 들고 SOP2랑 함께 통신실로 오라고 하셔.</color>
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:알겠습니다. 가자, SOP2. 새로운 임무야.
+RO635(0)<Speaker>RO635</Speaker>||<黑屏2><BIN>8</BIN>:이 슈트케이스는?
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:K 씨가 말한 대로 케이스 안의 장치를 가동했는데, 이건...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:뭐야... 홀로그램 지도랑 좌표들이잖아?
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:그런데, 좌표가 많아도 너무 많은데요... 정말 이 좌표마다 인형들을 보내야 하는 건가요?
+RO635(4)<Speaker>RO635</Speaker>||:이 좌표 전부 다요...? 거의 이 도시 전체에 가까운데, 그건 너무...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그 K인지 뭔지 하는 사람이 시킨 거야? 우릴 완전 도구 취급하고 있잖아! 우리가 무슨 이동식 카메라인 줄 알아!?
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:마음에 안 드는 건 이해하지만, 그 사람이 안젤리아 씨에 관한 정보를 쥐고 있으니 참아줘. 지금부터 할 일도 안젤리아 씨를 돕는 일이야.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:어? 안젤리아가 어디 있는지 안대?
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:이 도시에서 임무를 수행 중이고, 우리의 도움이 필요하다는 것 말고는 아무것도 몰라.
+RO635(3)<Speaker>RO635</Speaker>||:안젤리아 씨도 베오그라드에...?+그렇다면, 우리가 이곳으로 온 것도 결코 우연이 아니군요...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:안젤리아가 여기 있다는 건, M4랑 AR15도...+......+근데, 여기 있다면 왜 우리한테 연락을 안 하는 거야?+비밀 통신 수단쯤이야 많잖아?
+RO635(3)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:진정해, SOP2.+우리가 일을 똑바로 하다 보면 분명 만나게 될 거야.
+RO635(3);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:근데, 나...+정말 모두 다시 만나면... 무슨 말을 해야 할지 아직도 모르겠어.
+RO635(0)<Speaker>RO635</Speaker>||:아직 시간은 있으니까, 천천히 생각해둬.+그럼, K 씨의 계획에 따라 행동한다면, 이제부터 뭘 하면 되나요?
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:어... 그, 그게... 인간으로 위장해서, 편하게... 응?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:우이씨, 카메라 취급 맞네!
+()||<黑屏2><BIN>166</BIN>:......
+P22(0)<Speaker>P22</Speaker><通讯框>||:<color=#00CCFF>지휘관, 여기는 P22 제대. 지정 위치에 도착했어.</color>+<color=#00CCFF>지금부터 침투 준비를 할게.</color>
+Lewis(0)<Speaker>루이스 기관총</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>저희도 위치에 도착했어요. 오는 동안 딱히 방해받지도 않았고요.</color>+<color=#00CCFF>후후, 역시 인간은 예쁜 소녀를 함부로 건드리지는 않네요.</color>+<color=#00CCFF>그런데, 지정 구역 진입 전에 반드시 무기를 숨겨야 하나요?</color>+<color=#00CCFF>좀 위험하지 않을까 싶은데요...</color>
+NPC-Kalin(0)<Speaker>카리나</Speaker>||<黑屏2><BIN>8</BIN>:마지막 두 제대도 위치했습니다. 모두 지정 좌표에 도착했고, 무기도 다 수납했어요. 이제 어떻게 할까요, 지휘관님?
+()<Speaker>지휘관</Speaker>||:K의 다음 요구를 기다린다.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:알겠습니다.+그런데, 왜 "K" 씨가 우릴 저런 곳으로 보낸 걸까요?+하나같이 거주 구역이나 상가라서, 딱히 중요한 목표도 없는 것 같은데요...
+()<Speaker></Speaker>||:삐익.
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>내 예상보다 움직임이 빠르군, 지휘관.</color>+<color=#00CCFF>그리폰에 대한 개인적인 평가가 조금 높아졌어.</color>
+NPC-Kalin(3)<Speaker>카리나</Speaker>;NPC-Jason(0)||:뜸 들이지 마시고요.+전술인형들을 그저 길가에 서 있게 하고 끝일 리는 없겠죠?
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>난 IOP의 제품이 아주 마음에 들어. 마치 진짜 사람이 곁에 있어 주는 것만 같거든.</color>+<color=#00CCFF>어떨 땐, 상냥함도 무기가 될 수 있기도 하고 말이지.</color>
+NPC-Kalin(3)<Speaker>카리나</Speaker>;NPC-Jason(0)||:...그래서, 인형들에게 무기를 숨기라고 한 건가요? 일반인처럼 보이도록요?
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>우리가 상대할 적은, 어쩌면 우리보다도 더 인간에 가까울 수 있으니까.</color>
+NPC-Kalin(3)<Speaker>카리나</Speaker>;NPC-Jason(0)||:그 말은, 그 하얀 세력이... 이미 이 좌표에 숨어 있다는 말인가요...?
+NPC-Kalin(3);NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>지휘관, 안젤리아에 관한 정보를 더 얻고 싶겠지? 그럼 자네의 행동으로 대가를 지불하도록.</color>+<color=#00CCFF>저 하얀 놈들을 전부 찾아내 섬멸해. 아직 늦지 않았을 때 말이야.</color>
+NPC-Kalin(3)<Speaker>카리나</Speaker>;NPC-Jason(0)||:잠시만요. 적이 벌써 이 거리에 침투했다는 건, 이미 일반인과 민간용 인형 속에 섞여 있을 수도 있다는 뜻이잖아요?!+이런 상황에서 어떻게 잠입한 적을 구별하라는 건가요!?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>슈트케이스에 그놈들의 특징이 기록된 자료가 들어 있으니, 너희 인형에게 전달해.</color>+<color=#00CCFF>그리고 특징에 부합하는 놈을 찾아내면, 강제 연결을 통해 회로를 태워버리면 된다.</color>+<color=#00CCFF>정말 까다로운 놈이 나타날 경우엔, RO635와 SOPMOD II를 보내 처리하면 될 거야. 저번 전투를 통해 충분히 경험을 쌓았을 테니까.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:......+어떻게 RO와 SOP2가 잠입한 적을 식별해낸 경험이 있다는 걸 아는 거지?
+NPC-Jason(0)<Speaker>K</Speaker>||<黑屏1>:<color=#00CCFF>그렇게 인상 쓸 거 없어, 지휘관. 정보 수집은 내 일이라고.</color>+<color=#00CCFF>그리고... 너희의 정보는 특히나 중요하지.</color>

@@ -1,0 +1,62 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><Night><BIN>55</BIN><BGM>BGM_Sneak</BGM>：……	
+MK2(0)<Speaker>스텐 MK-2</Speaker>||:헉... 헉... 어디로 간 거지?+설마 놓쳤나? 그런데 왜 아직도 대피하지 않은 사람이 있는 거지?
+()<Speaker></Speaker>||:한 그림자가 건너편의 귀퉁이를 지나갔다.
+MK2(0)<Speaker>스텐 MK-2</Speaker>||:찾았다!+저기요! 잠깐만요!!
+()||<快跑><SE1>Runstep</SE1>:
+MK2(0)<Speaker>스텐 MK-2</Speaker>||<黑屏2>1,0.7</黑屏2>:으으... 철혈이 점점 많아지고 있어...+여긴... 대체 어디지...
+()<Speaker></Speaker>||:삐.
+AAT52(0)<Speaker>AAT-52</Speaker><通讯框>||:<color=#00CCFF>스텐, 스텐! 큰일이야!</color>
+MK2(0)<Speaker>스텐 MK-2</Speaker>;AAT52(0)||:우왓?! 깜짝 놀랐잖아. 무, 무슨 일이야?
+MK2(0);AAT52(0)<Speaker>AAT-52</Speaker>||:<color=#00CCFF>방금 대피소에 도착했는데, 안에 아무도 없어.</color>+<color=#00CCFF>36호 문서도 누가 가져간 건지 보이질 않아!</color>
+MK2(0)<Speaker>스텐 MK-2</Speaker>;AAT52(0)||:없어졌어?+그럼... RO 씨는 뭐라고 했어...?
+MK2(0);AAT52(0)<Speaker>AAT-52</Speaker>||:<color=#00CCFF>RO도 지금 어떻게 할지 고민하고 있어...</color>+<color=#A9A9A9>으으, 여기 너무 춥다...</color>+<color=#00CCFF>네 쪽도 딱히 눈에 띄는 게 없으면, 그만 돌아가도 되지 않을까?</color>
+MK2(0)<Speaker>스텐 MK-2</Speaker>;AAT52(0)||:포기하면 안 돼!+난 방금 정찰하던 중에 인간 한 명을 발견해서 뒤쫓고 있어...+누가 뭐라 해도, 이렇게 위험한 곳에 그 사람 혼자 내버려 둘 순 없어.
+MK2(0);AAT52(0)<Speaker>AAT-52</Speaker>||:<color=#00CCFF>뭐라고?! 철혈의 미끼가 아닌 게 확실해?</color>
+MK2(0)<Speaker>스텐 MK-2</Speaker>;AAT52(0)||:확실해, 정보를 대조해서 그 사람의 신분도 알아냈어!
+MK2(0);AAT52(0)<Speaker>AAT-52</Speaker>||:<color=#00CCFF>알았어, 그럼 조심... 아니, 잠깐만.</color>+<color=#00CCFF>대피소에는 아무도 없는데, 그 인간이 혼자서 이 난장판 속을 돌아다니고 있다고...?</color>+<color=#00CCFF>그렇다는 건...</color>
+MK2(0)<Speaker>스텐 MK-2</Speaker>;AAT52(0)||:그렇다는 건...?
+AAT52(0)<Speaker>AAT-52</Speaker>||:<color=#00CCFF>36호 문서다!!</color>+<color=#00CCFF>당장 RO한테 상황을 보고해! 어쩌면 그 사람이 36호 문서를 가지고 있을지도 몰라!</color>+<color=#00CCFF>헤헤, 이번 임무는 네게 달렸다고!</color>
+()<Speaker></Speaker>||:통신 종료.
+MK2(0)<Speaker>스텐 MK-2</Speaker>||:어? 뭐?! 잠깐, 어떻게 그렇게 갑자기...
+()<Speaker></Speaker>||:스텐이 다시 통신을 시도했지만, AAT-52는 받질 않았다.
+MK2(0)<Speaker>스텐 MK-2</Speaker>||<黑屏1>:좋아... 스텐... 겁먹어선 안 돼. 잘할 수 있어...+인간이니까, 지휘관님처럼 잘 설명해주면 분명 도와줄 거야... 문제없어!
+MK2(0)<Speaker>스텐 MK-2</Speaker>||<黑屏2><Night><BIN>85</BIN><BGM>BGM_Empty</BGM>:저기, 아무도 안 계세요?
+()<Speaker></Speaker>||:......
+MK2(0)<Speaker>스텐 MK-2</Speaker>||:제 말이 들리시나요?
+()<Speaker>？？？</Speaker>||:오지 마!
+MK2(0)<Speaker>스텐 MK-2</Speaker>||:진정하시고... 진정하시고 제 말을 들어 주세요. 전 철혈의 인형이 아니에요!+저는 그리폰 안전계약사 소속의 인형인 스텐 MK-2예요.
+()<Speaker>인간 남성</Speaker>||:그리폰...?
+()<Speaker></Speaker>||:한 인간 남성이 문 뒤에서 고개를 내밀어 스텐을 엿보았다.
+MK2(0)<Speaker>스텐 MK-2</Speaker>||:당신께 위해를 가하진 않아요...
+()<Speaker>인간 남성</Speaker>||:하지만 너, 손에 총을 쥐고... 잠깐...+너, 어디서 본 적 있는 것 같은데...?
+MK2(0)<Speaker>스텐 MK-2</Speaker>||:네?
+MK2(0)<Speaker>인간 남성</Speaker>||:그래... 몇 주 전, 도로에서 교통사고가 났을 때... 내 차를 맨몸으로 막아섰던 그 빨간 모자...+그거 너였지? 아니면 그냥 같은 모델인가?
+MK2(0)<Speaker>스텐 MK-2</Speaker>||<BGM>BGM_Room</BGM>:어... 설마...?
+()<Speaker></Speaker>||:스텐은 그 말을 듣곤 마인드맵에 저장된 기억을 검색했다.
+MK2(0)<Speaker>스텐 MK-2</Speaker>||:어라? 네, 맞아요!+설마... 그때 절 도와주신 분인가요?+당시 상황이 너무 혼란스러워서, 바로 떠올리지 못했어요...
+MK2(0)<Speaker>인간 남성</Speaker>||:제기랄, 그리폰의 안드로이드였군. 진작 알았으면 그때...+그런데... 너 여기서 뭐하고 있어?
+MK2(0)<Speaker>스텐 MK-2</Speaker>||:어느 문서를 회수하기 위한 작전을 수행 중이에요. 그리고 당신처럼 미처 대피하지 못한 인간분들을 무사히 대피시키는 임무도 겸하고 있어요.
+MK2(0)<Speaker>인간 남성</Speaker>||:문서를 회수하러? 무슨 문서인데?
+MK2(0)<Speaker>스텐 MK-2</Speaker>||:36호 문서라고 해요. 저희에게 매우 중요한 정보가 담겨 있어요.
+()<Speaker></Speaker>||:......
+()<Speaker>인간 남성</Speaker>||:36호 문서...
+MK2(0)<Speaker>스텐 MK-2</Speaker>||:네, 저기... 혹시 그 문서가 어디 있는지 아시나요?
+MK2(0)<Speaker>인간 남성</Speaker>||:몰라, 들어본 적도 없어.+다른 곳에 가서 찾아봐.
+MK2(0)<Speaker>스텐 MK-2</Speaker>||:네?+...+하지만 제 동료가 아까...
+MK2(0)<Speaker>인간 남성</Speaker>||:인형이 지금 인간 말을 의심하는 거냐?
+MK2(0)<Speaker>스텐 MK-2</Speaker>||:아, 아니요... 하지만 AAT-52가 36호 문서가 아마도...
+MK2(0)<Speaker>인간 남성</Speaker>||:그게 어디 있는지 나랑 무슨 상관인데!?
+MK2(0)<Speaker>스텐 MK-2</Speaker>||:저기... 지금 당신의 심박 수가 급상승하고 있는데요...+설마... 지금 거짓말하고 계신 건가요?
+MK2(0)<Speaker>인간 남성</Speaker>||:모른다고 했잖아!+알았으면 얼른 창고로 꺼져!
+MK2(0)<Speaker>스텐 MK-2</Speaker>||:죄송해요... 하지만, 왜 제게 문서가 어디 있는지 가르쳐주기 싫으신 거죠...?+어째서... 어째서죠?
+MK2(0)<Speaker>인간 남성</Speaker>||:너 머리가... 아니지, 마인드맵이 맛이 갔냐? 내 말 못 들었어!?
+MK2(0)<Speaker>스텐 MK-2</Speaker>||:하, 하지만...
+MK2(0)<Speaker>인간 남성</Speaker>||:그, 그래... 넌 그리폰 소속이랬지? 듣자 하니 그리폰의 인형은 철혈의 인형과는 다르게, 인간의 명령에 복종한다며?
+MK2(0)<Speaker>스텐 MK-2</Speaker>||:네, 하지만...
+MK2(0)<Speaker>인간 남성</Speaker>||:난 이미 너의 질문에 대답하기를 일절 거부했어! 그리고 더이상 날 귀찮게 하는 짓도 금지다!
+MK2(0)<Speaker>스텐 MK-2</Speaker>||:안 돼요! 부탁드려요...+그 문서를 꼭 회수해야만 해요... 그 문서를 회수하기만 하면 되니까...
+인간 남성()||:꺼지라고!
+()||:쾅!+그 남자는 버려진 사무실의 문을 잠그고, 더는 아무 말도 하지 않았다.
+()||:......
+MK2(0)<Speaker>스텐 MK-2</Speaker>||<黑屏1>:저번에는 도와주셨잖아요...+왜 이번엔...

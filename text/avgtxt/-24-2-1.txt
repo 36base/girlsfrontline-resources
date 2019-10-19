@@ -1,0 +1,29 @@
+()||<BIN>9</BIN><BGM>BGM_Truth</BGM><黑屏2>:...+붕괴액 오염 폭탄 폭발 22시간 전...+......
+？？()<Speaker>？？</Speaker>||:<color=#00CCFF>...M4 SOPMOD II.</color>+<color=#00CCFF>살아 있냐?</color>
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:...
+？？()<Speaker>？？</Speaker>||<BIN>99</BIN><黑屏2>:<color=#00CCFF>SOP2, 들려?</color>
+()||:<color=#00CCFF>치직... 치익...</color>
+？？()<Speaker>？？</Speaker>||:<color=#00CCFF>살아 있으... 치익... 대답해... 치익...</color>
+()||:...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:아야...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:무슨 일이지...+다들 왜... 가만히 있는 거야...+다른 사람의 신호를 찾을 수 없어...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BIN>9</BIN><黑屏2>:맞아! 그때 군의 부대가...!+우리를 향해 총을 쏘고... 그리고...
+SOPIIDamage(2)<Speaker>？？</Speaker>||:<color=#00CCFF>너희는 배신당했어, 놈들의 계획대로 말이지.</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:이 목소리는... 강제 통신 연결?+...! 재가동 신호가 침입하고 있어!
+SOPIIDamage(3)<Speaker>시스템</Speaker>||:<color=#00CCFF>【즉시 지정된 수복 시설로 이동해 수복하십시오. 불법 재가동 시 심각한 부품 수명 단축을 초래할 수 있습니다. 재가동 신호를 허락하시겠습니까?】</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:몸이... 안 움직여...
+SOPIIDamage(3)<Speaker>？？</Speaker>||:<color=#00CCFF>네 몸의 피해가 너무 심각해. 이렇게 해야 움직일 수 있으니까, 좀 참아.</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:알았어... 강제 재가동 허락...
+()<Speaker>시스템</Speaker>||:<color=#00CCFF>【알겠습니다. 강제 가동 실시.】</color>
+()<Speaker></Speaker>||<黑屏1>:...SOP2의 모의 신경이 깨어나 격렬한 반사 충격이 마인드맵을 휩쓸었다.
+()||<闪屏><duration>5</duration></闪屏><BIN>99</BIN>:
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:으아아아!!
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:돼... 됐어...+방금 그 목소리는... M16이야? 아직 살아 있어!?
+M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>어떤 의미에서는 맞다고 해야겠지.</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:다행이다!+잠깐!
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:... 신호 반응 적색... 철혈 신호?!
+SOPIIDamage(3);M16A1BOSS(0)<Speaker>M16A1</Speaker><通讯框>||:<color=#00CCFF>......</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;M16A1BOSS(0)||:어떻게 된 거야!? M16!
+SOPIIDamage(3);M16A1BOSS(0)<Speaker>M16A1</Speaker>||<黑点1>:<color=#00CCFF>그건 상관 말고, 지금 강제로 네 신호에 연결 중이라 오래 유지할 수 없어.</color>+<color=#00CCFF>지도에 좌표를 몇 개 찍어 뒀으니까, 그쪽으로 이동해.</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BIN>10</BIN><黑点2>:M16이 철혈이 되었어...+지금 그 말을 믿어도 되는 걸까...
+()||<黑屏1>:<color=#fff775>이 전역의 서로 다른 임무를 달성하면 서로 다른 루트로 진입합니다. 임무 달성 후 다른 루트는 잠기게 되며, 백트래킹을 해야 다시 선택할 수 있습니다.</color>+<color=#fff775>몸을 수복하려면 헬리포트로 향하고. 아니면 철혈 지휘부로 쳐들어가도 좋습니다.</color>+<color=#fff775>선택에 따라 이야기가 다르게 진행되니 신중히 선택하세요.</color>

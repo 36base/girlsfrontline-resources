@@ -1,0 +1,40 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BGM>BGM_Danger</BGM><SE1>Gunfight</SE1><黑屏2><BIN>98</BIN>:......
+AR15Mod(5)<Speaker>AR15</Speaker>||:UMP45! 아직 멀었어!?+몰려오는 적들이 점점 더 많아지고 있다고!
+AR15Mod(5);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>최대한 빨리하는 중이니까 재촉하지 좀 마!</color>+<color=#00CCFF>이게 그냥 케이블 연결하면 되는 건 줄 알아? 9, 범위 새로 줄 테니까 포트 다시 선별해. 아무튼 조금만 더 버텨!</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;UMP45Mod(0)||<SE1>Select</SE1>:탄약이 거의 바닥났는데 어떻게 버텨?!
+M4 SOPMOD IIMod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>열차에 예비 탄약이 있을 테니까 그거라도 찾아서 써!</color>
+AR15Mod(5)<Speaker>AR15</Speaker>;UMP45Mod(0)<通讯框>||<白屏1><SE2>Gunfight</SE2>:지금 그걸 찾을 시간이——
+()||<白屏2><SE1>Explode</SE1>:콰앙!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:콜록... 어우 매워... 으아아, 군의 장갑 부대가 또 잔뜩 돌진해 오고 있어!+우리 중장비 부대는 어디 갔어!?
+RO635(5)<Speaker>RO635</Speaker><通讯框>||:지금 적절한 공격 위치를 찾는 중이야! 열차 지붕에 배치하면 과녁밖에 안 돼!
+AR15Mod(5)<Speaker>AR15</Speaker>||:UMP45! 여기서 다 같이 죽기 싫으면 빨리 열차 움직여!
+AR15Mod(5);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>10초.</color>
+AR15Mod(5)<Speaker>AR15</Speaker>;UMP45Mod(0)||:뭐?
+AR15Mod(5);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>일부는 움직일 수 있어.</color>
+UMP9Mod(3)<Speaker>UMP9</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>언니! 언니 말대로야!</color>+<color=#00CCFF>얏호! 내가 해냈다!</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:<color=#00CCFF>OK, 그럼 어디 한번 이 대포의 위력을 시험해 볼까?</color>+<color=#00CCFF>포탑을 유탄 모드로 전환했어. 발사 권한은 너희 AR팀에게 넘겼으니까, 마음껏 되갚아 주라고!</color>
+()<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM><BIN>210</BIN><黑屏2><黑屏1>:으히히히, 다 폭죽이 되어라!
+()||<震屏><黑屏2>0,5</黑屏2><BIN>209</BIN><SE1>Explode</SE1>:장갑 열차의 주포가 불을 뿜어, 적의 진지를 순식간에 불바다로 만들었다.
+()<Speaker></Speaker>||<黑屏1><SE1>Battlefield</SE1>:열차포의 공격에 주변의 군 유닛도 잠시 후퇴했다.+그 틈을 타, 그리폰 제대들은 재빨리 장갑 열차에 탑승했다.
+()<Speaker></Speaker>||<BIN>202</BIN><BGM>BGM_Brain</BGM><黑屏2>:장갑 열차 내부, 임시 지휘실.
+지휘관()<Speaker>지휘관</Speaker>||:열차의 상태를 보고해.
+RO635(0)<Speaker>RO635</Speaker>||:제어 시스템 장악 완료, 모든 권한을 탈취했습니다. 언제든지 발진 가능해요.+열차포는 조금 전 중장비 부대가 파괴한 것 이외에는 전부 사용 가능합니다.
+RO635(0)<Speaker>지휘관</Speaker>||:좋아, 이제 M4만 기다리면――
+RO635(0)<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:통신 연결.
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>지휘관, 큰일이야!</color>
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>지휘관</Speaker>||:무슨 일이지?
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:<color=#00CCFF>밖을 봐, 장갑 열차가 또 왔어!</color>
+지휘관()<Speaker>지휘관</Speaker>||<BIN>208</BIN><黑屏2><BGM>BGM_Boss</BGM>:역시나 더 있었군. 저것도 분명 마지막이 아니겠지...+정말 철저하게 준비하고 왔군...
+()<Speaker></Speaker>||<震屏><SE1>Explode</SE1>:콰앙!!+뒤쫓아 온 장갑 열차가 그리폰이 점령한 열차를 향해 포격을 가했다.
+AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>지휘관, 방금 후퇴했던 장갑 부대가 다시 접근하고 있습니다.</color>
+AR15Mod(0)<Speaker>지휘관</Speaker>||<黑屏1>:즉시 남은 열차포로 반격한다!+각 제대, 장갑 열차를 중심으로 포격 범위 내에서 진형을 펼쳐라!+M4A1이 탈린의 차단문을 열 때까지 현 위치를 사수한다!
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><SE1>Battlefield</SE1><SE2>Gunfight</SE2>:......+..........
+()<Speaker></Speaker>||<BIN>98</BIN><黑屏2>:그리폰의 모든 병력이 장갑 열차를 중심으로 군부대와 맞붙었다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:저놈들, 공격이 갈수록 거세지고 있어!+RO, 더 좋은 수는 없어?
+RO635(4)<Speaker>RO635</Speaker>;AR15Mod(0)||:탈취하느라 파괴한 탓에 우리 쪽의 포문 수량이 부족해! 남은 것도 적 장갑 열차를 견제하느라 여유가 없고!+지휘관님도 중장비 부대로 이쪽을 집중 지원해 주신다니까, 방어선을 조금 뒤로 축소할 수밖에 없어.
+RO635(4);AR15Mod(0)<Speaker>AR15</Speaker>||:그럼 지휘관 쪽은 어떡하고?
+RO635(4)<Speaker>RO635</Speaker>;AR15Mod(0)||:보호막을 최대치로 전개하고 있으니 당분간은 괜찮을 거야.
+AR15Mod(4)<Speaker>AR15</Speaker>||:하지만 오래 못 버티겠지...
+()<Speaker></Speaker>||:AR15는 여전히 꿈쩍도 하지 않는 격리벽을 바라보았다.+그리고 입술을 깨물면서, 다시 눈앞의 적들에게 정신을 집중하고 방아쇠를 당겼다.
+AR15Mod(4)<Speaker>AR15</Speaker>||<黑屏1>:M4... 난 온 힘을 다해서 네가 돌아올 자리를 지킬 거야.+그러니까... 좀 더 서둘러...

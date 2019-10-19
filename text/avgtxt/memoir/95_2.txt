@@ -1,0 +1,52 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>22</BIN><BGM>BGM_Room</BGM>:수복실.
+G36(0)<Speaker>G36</Speaker>||:상태는 어떤가요?
+G36(0);NPC-Kalin(4)<Speaker>카리나</Speaker>||:......다행히, 손상은 없는 것 같아.+그런데... 아이의 마인드맵 대부분이 암호화된 상태로 지금까지 연산 공간을 점용하고 있었어.+메모리가 가득 차서 정리하지 않으면 더 이상 새로운 기억을 저장하지도 못할 거야.
+G36(0)<Speaker>G36</Speaker>;NPC-Kalin(4)||:역시 캐시 메모리 문제였군요.
+G36(0);NPC-Kalin(4)<Speaker>카리나</Speaker>||:그것만이 아니야. 이 암호화된 데이터를 삭제하든지 하지 않으면 나중에 또 재발할 거야.+(하지만... 그냥 삭제하기는 좀 탐탁지 않네.)+혹시 모르니까 내용이 뭔지 확인해 봐야겠어.+도와줘서 고마워 G36. 이젠 나 혼자서도 충분해.
+G36(0)<Speaker>G36</Speaker>;NPC-Kalin(4)||:알겠습니다. 주문하셨던 라떼, 가져다드릴까요?
+G36(0);NPC-Kalin(4)<Speaker>카리나</Speaker>||:아니, 나중에 직접 가서 마실게.
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM><黑屏1>:G36을 돌려보낸 뒤, 카리나는 헤드셋을 쓰고서 수복실의 홀로그램 스크린에 정신을 집중했다.
+()||<BIN>9</BIN><黑屏1>:<color=#00CCFF>[암호화 해독 완료.]</color>+<color=#00CCFF>[번호 2023-01-05의 데이터를 읽어 들이는 중...]</color>+<color=#00CCFF>[재생 시작.]</color>+............
+温柔的女声()<Speaker>상냥한 여자 목소리</Speaker>||<黑屏2>:얘가 제 테스트 인형인가요?
+冷静的男声()<Speaker>침착한 남자 목소리</Speaker>||:그래, 이 59898이 자네를 대신해 돌격병 유닛에 탑승할 거야. 테스트 중 자네가 상황에 맞는 지시를 내리면, 자세한 조작은 이 인형이 알아서 처리하는 거지.
+温柔的女声()<Speaker>상냥한 여자 목소리</Speaker>||:참 편리하네요.
+冷静的男声()<Speaker>침착한 남자 목소리</Speaker>||:매뉴얼엔 그렇게 쓰여 있다만, 안 되면 납품한 업체한테 신고해야겠지.+그럼 물건도 전달했으니 난 이만 가보도록 하지.
+温柔的女声()<Speaker>상냥한 여자 목소리</Speaker>||<黑屏1>:안녕히 가세요.+...정말 귀엽게 생겼네.+어디 보자, 가동 명령어가...+"굿 모닝, 59898."
+TestPilot(0)<Speaker>■■■</Speaker>||<BIN>18</BIN><睁眼><BGM>GF_Memorial</BGM>:금발이어서 설마설마했는데, 벽안이라니 정말 여기 스타일 대로네... 그래도 뭐, 나쁘지 않아.+그럼... 안녕, 내 테스트 인형. 만나서 반가워.
+TestPilot(0)<Speaker></Speaker>||:<color=#00CCFF>[시각 정보 입력...]</color>+<color=#00CCFF>[소유자 등록 완료.]</color>
+TestPilot(0);88typePilot(0)<Speaker>59898</Speaker>||:......<c>(접촉)<c>......
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<分支>1</分支>:명령을 내리는 법은... 우왓, 얼굴 만지지 말고 우리 악수로 인사할까?+자아, 그럼 여기서 가만있지 말고, 네가 탈 유닛을 보러 가자.
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<分支>2</分支>:역시 인형이라 그런가, 좀 쌀쌀맞네... 그럼 여기서 가만있지 말고, 네가 탈 유닛을 보러 가자.
+TestPilot(0);88typePilot(0)<Speaker>59898</Speaker>||<黑屏1>:[소유자의 명령을 접수.]+[실행 - 소유자를 따라 이동.]
+카리나()<Speaker>카리나</Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:다음은... 전투 데이터네. 2023년 "돌격병" 기갑 유닛의 테스트 기록?+별로 쓸모없어 보이지만, 그래도 백업해두자.+음, 다음은...
+()<Speaker></Speaker>||<黑屏1>:<color=#00CCFF>[번호 2023-01-06의 데이터를 읽어 들이는 중...]</color>+<color=#00CCFF>[재생 시작.]</color>
+()<Speaker></Speaker>||<BIN>73</BIN><睁眼>:[소유자의 휴식 상태를 감지.]+[접촉 여부?]
+88typePilot(0)<Speaker>59898</Speaker>||<BGM>BGM_Wake</BGM>:......<c>(대기)<c>(접촉)
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<分支>1</分支>:하아...+이대로 가다간... 나...
+TestPilot(0);88typePilot(0)<Speaker>59898</Speaker>||<分支>1</分支>:[소유자의 감정 저조를 감지. 안부 프로세스 실행.]
+88typePilot(0)<Speaker>59898</Speaker>||<分支>2</分支>:[소유자의 감정 저조를 감지. 안부 프로세스 실행.]
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<震屏>:꺄악!?+깜짝 놀랐잖아, 59898.+네 손이 부드럽긴 해도 갑자기 머리를 만지면 놀란다고. 난 괜찮으니까 걱정 마.
+TestPilot(0);88typePilot(0)<Speaker>59898</Speaker>||:[화제 경향 판단 중...]+[실행 - 고개 끄덕이기.]
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:무슨 일이냐고?+딱히 별거 아니야. 그냥... 3303 기지를 쭉 둘러보고 나서 알았는데, 중국인은 나밖에 없더라.+난 전쟁 난민이지만... 다른 사람들은 다 직업 군인인 모양이야. 고향에 돌아갈 수 없어서 여기서 일하는 사람도 나뿐이고.+59898, 여기서 중국까지 얼마나 먼지 알아?
+TestPilot(0);88typePilot(0)<Speaker>59898</Speaker>||:[소유자의 질문을 접수. 검색 중... 자료 제공.]
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:그래, 그렇게 멀어. 그리고 전쟁 때문에 거기까지 가는 교통편은 전부 멈췄지...+딱 하나 운행 중인 게 있긴 하지만... 표가 너무 비싸.+그래도 열심히 돈을 모아 그 표를 사서 꼭 고향으로 돌아갈 거야.
+TestPilot(0);88typePilot(0)<Speaker>59898</Speaker>||:[적절한 응답 검색 실패. 실행 - 의문을 표하는 표정 모사.]
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:...하아, 내가 지금 무슨 말을 하는 거람.+네가 말을 할 수 있다면 얼마나 좋을까? 그러면 적어도.... 적어도...+이렇게 외롭진 않을 텐데.
+TestPilot(0);88typePilot(0)<Speaker>59898</Speaker>||:[소유자의 감정이 호전 중임을 감지. 실행 - 관찰 계속.]
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:그래도 네가 말을 들어 주는 게 얼마나 다행인지 몰라, 59898.+...자꾸 식별 번호로만 부르니까 왠지 이상하네.+아, 내가 이름을 새로 지어주면 되겠다!
+TestPilot(0);88typePilot(0)<Speaker>59898</Speaker>||:......<c>(의문 표현 - 고개 갸우뚱하기.)<c>(긍정 표현 - 고개 끄덕이기.)
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<分支>1</分支>:그러니까, 나처럼 인간 같은 이름 말이야. 내 이름은 ■■■
+TestPilot(0)<Speaker></Speaker>;88typePilot(0)||<分支>1</分支><SE1>AVG_whitenoise</SE1>:<color=#00CCFF>*경고* 데이터가 손상되었습니다.//n다시 읽기//n건너뛰기</color>+<color=#00CCFF>*다시 읽어 들이는 중*</color>
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<分支>1</分支>:그러니까, 나처럼 인간 같은 이름 말이야. 내 이름은 ■■■
+TestPilot(0)<Speaker></Speaker>;88typePilot(0)||<分支>1</分支><SE1>AVG_whitenoise</SE1>:<color=#00CCFF>*경고* 데이터가 손상되었습니다.//n다시 읽기//n건너뛰기</color>+<color=#00CCFF>*건너뛰기*</color>
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<分支>1</分支>:너도 인간 같은 이름이 생기면 부르기도 편해질 거야.
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<分支>2</分支>:그치? 너도 새 이름 갖고 싶지?+예를 들어 내 이름은 ■■■
+TestPilot(0)<Speaker></Speaker>;88typePilot(0)||<分支>2</分支><SE1>AVG_whitenoise</SE1>:<color=#00CCFF>*경고* 데이터가 손상되었습니다.//n다시 읽기//n건너뛰기</color>+<color=#00CCFF>*다시 읽어 들이는 중*</color>
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||<分支>2</分支>:그치? 너도 새 이름 갖고 싶지?+예를 들어 내 이름은 ■■■
+TestPilot(0)<Speaker></Speaker>;88typePilot(0)||<分支>2</分支><SE1>AVG_whitenoise</SE1>:<color=#00CCFF>*경고* 데이터가 손상되었습니다.//n다시 읽기//n건너뛰기</color>+<color=#00CCFF>*건너뛰기*</color>
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:그럼, 뭐라 지을까...+내 고향은 장청이라는 별명이 있으니까... 그래, 장청 아이. 네 이름은 이제부터 장청 아이야. 어때?
+TestPilot(0);88typePilot(0)<Speaker>59898</Speaker>||:[이름 변경 - 59898 → 장청 아이]+[실행 완료.]
+TestPilot(0)<Speaker>■■■</Speaker>;88typePilot(0)||:좋아, 그럼 결정이야!+장청 아이, 줄여서 아이!+지금은 일하는 시간도 아니니까 너도 옷 갈아입는 게 어떨까? 내가 예전에 아르바이트하던 곳에서 입던 메이드복 어때? 아니면 나처럼 일상복이 더 좋아?
+TestPilot(0);88typePilot(0)<Speaker>아이</Speaker>||<黑屏1>:[실행 - 기쁘게 웃는 표정 모사.]
+()||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:<color=#00CCFF>[번호 2023-01-06 기록 - 재생 종료.]</color>

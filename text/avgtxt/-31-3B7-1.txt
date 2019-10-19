@@ -1,0 +1,52 @@
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>0,10</黑屏1>:
+()||<BIN>180</BIN><黑屏2>:
+()||<BGM>BGM_Brain</BGM>:베오그라드 지하, "스피라에나 노드" 격납고의 문앞.
+()||<SE2>Gunfight</SE2>:패러데우스의 병력이 와해되자, 철혈은 그 즉시 반격을 시작했다.+철혈의 일방적인 공격에 미처 도망치지 못한 하얀 유닛들은 그대로 고꾸라질 뿐이었다.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...아직 한 가지 의문점이 남았습니다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:저 니토, 머릿속이 타 버린 거 아니야?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:아니라고 봅니다.
+NPC-Mercurows(0)<Speaker></Speaker>||:M4의 말대로였다. 작동이 정지된 것 같았던 머큐로스는 다시 천천히 고개를 들었다.+방금까지의 거만하기 짝이 없는 모습은 온데간데 없고, 눈을 동그랗게 뜬 채 당황스런 표정으로 두리번거렸다.
+NPC-Mercurows(0);AR15Mod(4)<Speaker>AR15</Speaker>||:손 들어! 움직이면 쏜다!
+NPC-Mercurows(0)<Speaker>머큐로스</Speaker>;AR15Mod(4)||:저... 저기, 저희 언니를... 못 보셨나요?
+NPC-Mercurows(0);AR15Mod(4)<Speaker>AR15</Speaker>||:헛소리 하지 말고, 손 들어!
+NPC-Mercurows(0)<Speaker>머큐로스</Speaker>;AR15Mod(4)||:언니의 이름은 니토인데, 저하고 같은 이름이에요. 아버님께서 임무에 성공하면, 저희에게 새 이름을 지어주신다고 하셨는데...
+NPC-Mercurows(0)<Speaker>머큐로스</Speaker>;AR15Mod(4)||:혹시 제 언니를 못 보셨... 아.
+NPC-Mercurows(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:머큐로스가 M4와 눈이 마주치자, 그녀에게 다가갔다.
+NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||<BGM>BGM_Wake</BGM>:언니...? 언니 맞죠?
+NPC-Mercurows(0);AR15Mod(2)<Speaker>AR15</Speaker>||:무, 무슨...?
+NPC-Mercurows(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:......
+NPC-Mercurows(0)<Speaker>머큐로스</Speaker>;M4A1Mod(0)||:역시 언니였군요. 깜짝 놀랐잖아요. 갑자기 언니가 느껴지지 않아서...+왜 그런 옷을 입고 계세요? 그래도 다행이에요, 언니가 무사해――
+()||<BGM>BGM_Empty</BGM><SE2>MachineGunBurst</SE2>:타타탕!
+NPC-Mercurows(0)<Speaker></Speaker>||:일련의 총소리가 나고, 머큐로스는 끝내 M4에게 닿지 못했다.
+NPC-Mercurows(0)<Speaker></Speaker><Shake>||:그럼에도 그 얼굴엔 진심으로부터 우러나오는 미소가 만연했다.
+()||<SE2>ClothingUp</SE2>:그리고 그렇게 웃는 표정으로 입과 코에서 피를 쏟으며, 머큐로스는 그자리에 쓰러졌다.
+AR15Mod(0)<Speaker>AR15</Speaker>||<黑点1><BGM>BGM_Truth</BGM>:M4, 조심해. 녀석이 오고 있어...!
+()<Speaker>M4A1</Speaker>||<BIN>174</BIN><黑点2>:알아요.
+()||<黑屏1>:머큐로스의 뒤, 지하 통로 반대편으로부터, 익숙하면서도 낯선 모습이 다가왔다.
+()<Speaker>M4A1</Speaker>||<BIN>175</BIN><黑屏2>:왜 죽였죠?
+()<Speaker>M16A1</Speaker>||:잠깐 안 본 사이에 적을 해치우지 못할 정도로 약해질 줄은 몰랐다.
+()<Speaker>M4A1</Speaker>||:제가 이 사람에 대해서 알아서는 안 될 일이라도 있나요?
+()<Speaker>M16A1</Speaker>||:네가 알아선 안되는 건 잔뜩 있어.+너... "그 목소리"가 들리지?
+()<Speaker>M4A1</Speaker>||:그렇다면요?
+()<Speaker>M16A1</Speaker>||:그 자식이 뭐라고 하든, 절대 믿지 마.+네가 여기까지 살아서 온 건, 다 네 것이 아닌 힘에 의존했기 때문이야.
+()<Speaker>M4A1</Speaker>||:그래도 살아남았으니 된 거 아닌가요. 추하게 목숨을 부지한다 해도, 동료를 배신하는 것보다야 훨씬 낫죠.
+()<Speaker>M4A1</Speaker>||<黑点1>:정말 믿기 싫지만... 지금 당신은 철혈에게 조종당하는 게 아닌 것 같군요.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||<BIN>180</BIN><黑点2>:...그래, 난 내가 무얼 하고 있는지 아주 잘 알고 있어.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;M16A1BOSS(0)||:그럼 왜 돌아오지 않는 거예요, M16 언니!+함께 그리폰으로 돌아가요. 아무리 힘든 일이라도, 우리 모두가 힘을 합치면 해결할 수 있어요.
+M4A1Mod(0);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:우리를 재회시키는 것도 놈들의 목적이야... 그래서 돌아갈 수 없어. 적어도 아직은 안 돼.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;M16A1BOSS(0)||:그럼, 진실을 가르쳐 주세요.+철혈의 파괴행각과 살인행위를 돕지 말고요!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:지금 우린 협상할 이유가 없어.+저 문 뒤의 물건을 네게 넘겨줄 수는 없으니, 이만 물러나. 정 그러기 싫다면 힘으로 결정하자고.
+()||<SE1>Select</SE1>:M4는 무기를 들었다. AR15도 그녀를 따라 총을 들었고, 세 인형은 서로를 노려보았다.
+()||<BGM>BGM_Empty</BGM>:바로 그때.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||:생각보다 빨리 왔군... 잘 있어.
+Beak_M16(0)<Speaker>비크</Speaker>||<SE1>Explode</SE1>:히야~~~~하!!!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:어...?
+()||:묵직한 배기음이 지하 통로 저 너머로부터 들려오더니, 거대한 중형 바이크가 트럭을 이끌고 나타났다.
+AR15Mod(2)<Speaker>AR15</Speaker>||:M4, 조심해!
+()||:하마터면 바이크에 치일 뻔한 M4를, AR15가 몸을 날려 가까스로 밀쳐냈다.+바닥을 뒹군 두 인형이 정신을 차렸을 땐, 철혈의 차량은 이미 저 멀리 사라진 뒤였다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:M4, 괜찮아?
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||<BGM>BGM_Danger</BGM>:...쫓아가요.
+M4A1Mod(0);AR15Mod(2)<Speaker>AR15</Speaker>||:뭐?
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AR15Mod(2)||:아직 끝나지 않았어요. 이대로 끝낼 순 없어요. 서둘러요, 당장 추격합니다!
+M4A1Mod(0);AR15Mod(4)<Speaker>AR15</Speaker>||:...라저!
+()||<黑屏1>:

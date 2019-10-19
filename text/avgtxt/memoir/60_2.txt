@@ -1,0 +1,79 @@
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<黑屏2><黑屏1>:그러던 어느 날... 곰 세 마리가 산책을 나갔다 돌아오니, 따뜻한 보금자리는 엉망진창이 되어 있었습니다.+깨진 접시 조각투성이인 식탁, 부서진 의자, 여기저기 찍힌 침입자의 발자국... 그 광경에, 아빠 곰과 엄마 곰은 두 눈을 의심했습니다.+하지만 아기 곰을 정말로 슬프게 한 것은...
+()||<BIN>7</BIN><BGM>BGM_Sneak</BGM><黑屏2>:두 번 다시 눈을 뜨지 못할 각오도 했지만, 다행히도 최악의 상황은 면한 것 같았다.+AS Val이 잔해 속에서 몸을 일으켜 보니, 적어도 품속의 곰인형은 멀쩡했다.
+ASVAL(0)<Speaker>AS Val</Speaker>||:윽... 아파...+아... 곰돌아, 무사했구나... 다행이다... 다른 사람들은?
+()||:추락한 곳은 새하얀 설원이었다.+곤두박질친 헬리콥터의 파편과 전술인형들은 추락 지점 주변에 널브러져 있었다. 다행히, 그중 몇 명이 일어났다.
+AK74U(0)<Speaker>AK74U</Speaker>||:다른 사람 없어?! 살아있으면 대답해!
+ASVAL(0)<Speaker>AS Val</Speaker>||:나 여기 있어!
+AK74U(0)<Speaker>AK74U</Speaker>||:Val도 살아있구나! 다행이다...
+ASVAL(0)<Speaker>AS Val</Speaker>||:모두 괜찮아? 무사해?
+9A91(0)<Speaker>9A91</Speaker>||:마지막 순간에 헬리콥터가 균형을 잡는 데 성공해서, 거의 다 살아는 있어.+...무사하다고는 못 하겠지만.
+()||:9A91은 사지가 절단되어 신음하는 인형들을 안전한 곳으로 옮겼고, 74U는 추락 도중 튕겨져 나간 인형들을 수색했다.
+AK74U(0)<Speaker>AK74U</Speaker>||:제대로 움직일 수 있는 건 우리 셋뿐인 것 같네. 운이 좋다고 해야 하나?
+AK74U(0);9A91(0)<Speaker>9A91</Speaker>||:마지막 헬리콥터에 타서 철수 도중 추락했는데... 살아남았다 해서 운이 좋다고 할 순 없어.+기지에 돌아가면 분명 모두가 비웃을 거야.
+AK74U(0)<Speaker>AK74U</Speaker>;9A91(0)||:큰 재난에서 살아남으면 큰 행운이 온다는 말도 있잖아.+다 세어 봤어. Val이 마지막이야. 탑승 인원 전부 찾았어.
+ASVAL(0)<Speaker>AS Val</Speaker>;9A91(0)||:왜 추락한 걸까?
+ASVAL(0);9A91(0)<Speaker>9A91</Speaker>||:뭔가에 맞은 거겠지. 대공포든 미사일이든.+어쨌든, 본부에 구조 요청을 보내야 해.+헬리콥터가 완전히 박살 나지는 않았으니 아직 무전기가 작동할지도 몰라.
+AK74U(0)<Speaker>AK74U</Speaker>;9A91(0)||:그럼 역할을 분담하자. 9A91은 여기 남아서 통신기기를 수리해.
+AK74U(0);9A91(0)<Speaker>9A91</Speaker>||:왜 나야?
+AK74U(0)<Speaker>AK74U</Speaker>;9A91(0)||:말을 꺼낸 게 너니까.+ 그리고 저번 작전에서 부상을 입었는데 전력으로 싸울 수나 있겠어?+네가 희망을 찾아냈으니, 실천하라고.
+AK74U(0);9A91(0)<Speaker>9A91</Speaker>||:너흰 뭘 할 건데?
+AK74U(0)<Speaker>AK74U</Speaker>;9A91(0)||:나랑 Val은 각각 남쪽과 북쪽을 경계할게... 적의 공격으로 추락했다면, 근방에도 적이 있을 가능성이 높아.
+AK74U(0);ASVAL(0)<Speaker>AS Val</Speaker>||:적과 마주치면 어떡해...?
+AK74U(0)<Speaker>AK74U</Speaker>;ASVAL(0)||:되도록이면 그런 상황은 피해야겠지만, 정 어쩔 수 없으면 맞서 싸워야지.+지금 우린 마인드맵 백업도 못 해. 동료들이 여기서 파괴되었다간, 진짜 영영 사라지는 거야.
+AK74U(0);9A91(0)<Speaker>9A91</Speaker>||:그래도 너무 무리하지는 마.
+AK74U(0)<Speaker>AK74U</Speaker>;9A91(0)||:알았어. 만약 우리가 적을 놓치는 상황이 발생하면 9A91가 알아서 처리해.+자, 그럼 움직이자.
+AK74U(0);ASVAL(0)<Speaker>AS Val</Speaker>||:저기...
+AK74U(0)<Speaker>AK74U</Speaker>;ASVAL(0)||:Val, 기지에서 다시 보자.
+ASVAL(0)<Speaker>AS Val</Speaker>||<BGM>BGM_Empty</BGM><黑点1>:...응, 나중에 봐.
+()||<BGM>BGM_Room</BGM><黑点2>:AS Val은 총과 곰인형을 챙기고, 헬리콥터 근처의 관측 지점으로 향했다.+혼자 설원 위를 걸으며, 그녀는 생각에 잠겼다.
+ASVAL(0)<Speaker>AS Val</Speaker>||:<color=#A9A9A9>(정말로... 구조대가 올 때까지 버틸 수 있을까?)</color>+<color=#A9A9A9>(무전기를 고칠 수 있을지도 모르고...)</color>+<color=#A9A9A9>(적이 나타났을 때 처치할 수 있을지도 모르고...)</color>+<color=#A9A9A9>(하지만 9A91과 74U는 이런 절박한 상황에서도, 실패할 가능성은 한 마디도 하지 않고 반드시 살아남을 수 있는 척하고 있어.)</color>+......+둘 다... 너무나도 상냥해.
+()||<SE1>Select</SE1>:사수할 언덕에 도착하자, AS Val은 총을 거치한 뒤 곰인형을 품에 안고 혼잣말을 하기 시작했다.
+ASVAL(0)<Speaker>AS Val</Speaker>||:곰돌아, 너도 기억하지? 내가 그리폰에 처음 온 날, 너 말고 다른 친구가 하나도 없었던 나에게 그 둘이 먼저 손을 내밀어 주었어.
+ASVAL(0)<Speaker>AS Val</Speaker>||:하아... 만약 우리 모두 무사히 돌아갈 수가 없다면, 적어도 그 둘만이라도 무사하면 좋겠어.+...왜냐고? 만일 내가 죽는다면, 나를 위해 슬퍼해줄 사람은 곰돌이 너밖에 없으니까.+하지만... 9A91이랑 74U는 분명 많은 사람들이 슬퍼할 거야.+응, 맞아. 그게 좋아.
+ASVAL(0)<Speaker>AS Val</Speaker>||:역시 곰돌이 네가 최고야. 이런 말은 곰돌이 너한테 밖에 못 해. 다른 사람들 앞에서 말하기엔 너무 창피해... 응?
+()||:멀리서 인기척을 느끼자, AS Val은 몸을 움츠렸다.+대규모의 군용 자율인형 부대가 시야에 들어왔다. 결코 전술인형 몇 명이 상대할 수 있는 정도가 아니었다.
+ASVAL(0)<Speaker>AS Val</Speaker>||:...9A91, 무전기는 다 고쳤어?
+9A91(0)<Speaker>9A91</Speaker><通讯框>||<SE2>AVG_tele_connect</SE2>:<color=#00CCFF>이제 방금 배터리를 확인하고 재가동했어. 지금 설명서를 읽는 중이야.</color>
+9A91(0)<Speaker>9A91</Speaker><通讯框>||:<color=#00CCFF>정말이지, 왜 이렇게 복잡하게 설계했을까?</color>
+AK74U(0)<Speaker>AK74U</Speaker><通讯框>||:<color=#00CCFF>갑자기 그런 질문을 하다니, 무슨 일이야 Val? 그쪽에 상황 발생했어?</color>
+ASVAL(0)<Speaker>AS Val</Speaker>;AK74U(0)||:북측에서 군용 인형 다수 출현...+대형 유닛은 없지만, 수가 엄청나. 추락 지점으로 접근하려는 것 같아.
+ASVAL(0);AK74U(0)<Speaker>AK74U</Speaker><通讯框>||:<color=#00CCFF>알았어, 내가 그쪽으로 갈――</color>
+ASVAL(0)<Speaker>AS Val</Speaker>;AK74U(0)||:네가 올 필요는 없어. 내가 저들을 유인해서 시간을 벌게.
+AK74U(0)<Speaker>AK74U</Speaker><通讯框>||:<color=#00CCFF>뭐? 야 너...!</color>
+()||<BGM>BGM_Empty</BGM><SE2>AVG_tele_disconnect</SE2>:AS Val은 그대로 통신을 끊고, 곰인형을 껴안았다.
+ASVAL(0)<Speaker>AS Val</Speaker>||<BGM>BGM_Danger</BGM>:나도 친구들을 돕고 싶어.+가자, 곰돌아!
+()||<SE1>AVG_pistol_finalshot_sup</SE1>:AS Val은 숨을 깊게 들이쉰 뒤, 산턱의 엄폐물에서 뛰쳐나와 군용 인형 부대를 향해 사격을 가했다.
+()||<SE1>Gunfight</SE1>:소음기에서 뿜어져 나온 총알은 군용 인형 몇 기를 쓰러뜨리는 데 그쳤고, 나머지 부대가 총성의 방향을 분석하고는 곧장 AS Val이 있는 방향으로 반격했다.
+ASVAL(0)<Speaker>AS Val</Speaker>||:예상대로야...+인간이 직접 지휘하지 않는 한 자율인형은 수색보다 교전을 우선시해.
+()||<SE1>AVG_pistol_finalshot_sup</SE1>:적을 섬멸하기엔 화력이 턱없이 부족하다는 것을 잘 알고 있기에, AS Val은 몇 발 쏘고 엄폐하기를 반복했다.
+()||<SE1>AVG_pistol_finalshot_sup</SE1>:그리고 군용 인형이 반격을 멈출 때마다 다시 기습 사격을 가했다.
+()||<SE1>Gunfight</SE1>:...그렇게 군용 인형 부대는 점점 헬리콥터에서 멀어졌다.
+ASVAL(0)<Speaker>AS Val</Speaker>||:쫓아온다... 좋았어!+이제 거리를 충분히 벌린 다음 알아채지 못하게 복귀하면...
+()||<SE1>Gunfight</SE1>:타타탕!
+ASVAL(0)<Speaker>AS Val</Speaker>||:이쪽에서도?! 꺄악!
+()||<SE1>ClothingUp</SE1>:예상치 못한 방향에서 날아온 총알이 AS Val에게 명중했다. 뒤이어 날아오는 총알 세례를 AS Val은 엎드려 피해야만 했다.
+ASVAL(0)<Speaker>AS Val</Speaker>||:무릎 관절 손상. 보행 불가능... 이젠 도망도 못 치겠구나.+이렇게 된 이상, 머릿수라도 최대한 줄이겠어!
+()||<SE1>AVG_pistol_finalshot_sup</SE1>:절망적인 국면에 빠졌음에도 불구하고, AS Val은 침착하게 상황을 이해하고 다시 총을 들어 지평선 너머의 적을 조준해 방아쇠를 당겼다.
+ASVAL(0)<Speaker>AS Val</Speaker>||:<color=#A9A9A9>(모두에게 도움이 되었겠지?)</color>
+ASVAL(0)<Speaker>AS Val</Speaker>||:<color=#A9A9A9>(마지막 순간이지만, 외롭지 않아. 적어도 곰돌이가 곁에 있으니까.)</color>
+ASVAL(0)<Speaker>AS Val</Speaker>||:<color=#A9A9A9>(이렇게 끝나는 것도... 나쁘진 않아.)</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><震屏3><SE1>Explode</SE1><黑屏1>:하지만 가까운 위치에서 일어난 폭발이 전투에 심취한 AS Val을 덮쳤다.
+ASVAL(1)<Speaker>AS Val</Speaker>||<SE1>AVG_tinnitus</SE1><黑屏2>:콜록콜록... 총류탄...? 직격이 아니라서 다행이... 앗.
+()||:폭발에 부상을 입지는 않았는지 확인하던 중, 그녀의 시선은 품속에 고정됐다.
+()||<BGM>BGM_Sad</BGM>:품속에 있었을 터인 곰인형은 솜뭉치밖에 없었다.
+ASVAL(1)<Speaker>AS Val</Speaker><Shake>||:앗... 아아...
+()||:붙잡고 있던 총이 손에서 미끄러져 떨어졌다.+작은 조각이라도 놓칠까, 떨리는 양손으로 솜뭉치를 쥐었다.
+ASVAL(1)<Speaker>AS Val</Speaker>||:곰돌아... 안 돼... 곰돌이가... 빨리 고쳐야... 곰돌아... 제발...
+()||:AS Val의 얼굴에서 여유가 사라지고, 패닉에 빠졌다.
+ASVAL(1)<Speaker>AS Val</Speaker>||:곰돌이가 없으면...+난... 여기서...+여기서 혼자 외롭게 죽는 거야...?
+()||<SE1>Gunfight</SE1>:눈물이 시야를 가렸다. 다른 소리가 들려오는 듯했지만, 고막이 터질 듯한 총성이 그를 덮었다.+압도적인 절망감에, AS Val은 나지막이 읊조렸다.
+ASVAL(1)<Speaker>AS Val</Speaker>||<黑屏1>:...그래도 역시... 아직 죽기 싫어.
+()<Speaker>AK74U</Speaker>||<黑屏2>0,5</黑屏2><BGM>BGM_Empty</BGM><BIN>9</BIN>:죽기 싫으면 그 총 다시 들어!
+ASVAL(1)<Speaker>AS Val</Speaker>||<黑屏1>:어...?
+AK74U(0)<Speaker>AK74U</Speaker>||<BGM>BGM_stage3</BGM><BIN>7</BIN><黑屏2>:뭘 멍하니 있는 거야?! 여기서 쓰러지면 어떡해!+마인드맵이 박살 나면 정말 끝장이라고! 일어나서 싸워! 돌아가면 가만 안 둘 거니까 각오해!
+()||:어느샌가 곁에 나타난 74U가 AS Val에게 소리쳤다.+환각일까? 곰돌이를 잃은 슬픔을 잊으려고 환상을 만들어낸 걸까?
+()||:AS Val은 손에 쥔 솜뭉치를 코트의 주머니에 쑤셔 넣었다.
+()||<黑屏1>:그리고 떨어트린 총을 다시 집어 들었다.
+()||<SE1>Select</SE1><BIN>9</BIN>:......
+()||<SE1>Gunfight</SE1><黑屏1>:총성은 멈추지 않았다. 헬리콥터의 프로펠러 소리가 다가왔을 때까지.

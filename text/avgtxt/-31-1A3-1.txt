@@ -1,0 +1,49 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>8</BIN><BGM>BGM_Room</BGM>:섬멸 작전이 지속된 지 벌써 사흘째.
+()<Speaker></Speaker>||:삐익.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>지휘과~안!</color>+<color=#00CCFF>아직도 안 끝났어!?</color>
+M4 SOPMOD IIMod(0)<Speaker>지휘관</Speaker>||:뭐가 안 끝났다는 거지?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>요 며칠 동안 계속 적을 찾아내서 해킹하고, 또 찾아내서 해킹하고... 적도 별로 상대가 안 되고...</color>+<color=#00CCFF>계속 이런 짓만 반복하니까 너무 지루해...</color>
+M4 SOPMOD IIMod(0)<Speaker>지휘관</Speaker>||:나도 며칠 내내 모니터만 쳐다봐서, 눈이 아플 지경이야.+방금 것이 44번 지점이니, 이제 얼마 안 남았어. 너와 RO가 조금만 더...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>RO도 더는 못 참겠다는데?</color>+<color=#00CCFF>"어차피 44번 다음엔 54번이랑 64번이 있을 거 아니야..."라고 했어!</color>+<color=#00CCFF>아야! 왜 꼬집어!</color>
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>그, 그런 말 한 적 없습니다!</color>
+()<Speaker>지휘관</Speaker>||:진정해.+K가 제공한 정보에 의하면, 적의 침투 부대는 거의 다 처치했다.+이제 그쪽의 연락을――
+()<Speaker></Speaker>||:삐익.
+()<Speaker>지휘관</Speaker>||:역시나.+RO, SOP2, 먼저 세이프 하우스로 복귀하도록.
+RO635(0)<Speaker>RO635</Speaker><通讯框>|||:<color=#00CCFF>이... 임무 완료인가요?</color>+<color=#00CCFF>끝난 거죠? 정말 끝난 거죠?</color>
+()<Speaker></Speaker>||:......
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>효율성의 극치를 달리는군, 지휘관. 내 예상보다 8시간 빨랐어.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:이번 임무는 이것으로 끝인가?+아직 내 소대의 답신을 기다리는 중이다만.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>안전국 특파 팀으로부터의 보고다.</color>+<color=#00CCFF>다 이 분야의 전문가들이 주는 정보니까, 안심하고 믿어.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:요원으로 구성된 팀이 다 찾아낼 실력이 있다면, 이렇게 남에게 맡기는 것보다 직접 처리하는 게 더 효율적이지 않나?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>저번에 말했을 텐데. 그들이 정찰하고, 너희가 해치우는 것이 룰이다.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:그말인 즉슨, 그 요원 팀이 대체 방안이란 거군.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>그중 하나지. </color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:유익한 정보 고맙다.+그것보다, 현재 안젤리아의 상황은 어떻지?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>초조해할 것 없어, 머지 않아 보게 될 거야.</color>+<color=#00CCFF>때가 되면 말해주겠어.</color>
+()<Speaker></Speaker>||:통신 종료.
+()<Speaker>지휘관</Speaker>||:......
+NPC-Kalin(1)<Speaker>카리나</Speaker>||<震屏>:지휘관님! 희소식이에요!+나머지 네 제대의 보고로, 남은 하얀 세력의 유닛이 모두 섬멸됐음을 확인했습니다!+이제 베오그라드는 안전해요!
+()<Speaker>지휘관</Speaker>||:그래, 방금 K가 알려줬어.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:어... 이미 알고 계셨나요?
+NPC-Kalin(3)<Speaker>지휘관</Speaker>||:임무를 마친 제대는 속히 복귀 후 휴식, 대기 중인 예비 제대는 초소 감시 임무로 전환한다.+방심하면 안 돼. 겉보기엔 적을 모두 섬멸한 것 같아도, 아직 위험 요소가 남아있을 수도 있다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:알겠습니다!
+()<Speaker></Speaker>||:카리나가 떠났다.
+()<Speaker>지휘관</Speaker>||:(이것으로 전부 섬멸한 건가...?)+(하얀 세력은 끝까지 저항도 하지 않았어... 하지만 RO가 색적 범위를 넓혀봐도 별다른 신호는 찾아내지 못했으니... 이렇게 쉽게 당할 녀석들이었단 말인가?)
+()<Speaker></Speaker>||:나는 눈앞에 펼쳐진 수십 개의 감시 카메라 영상을 훑어보며, 아직도 숨어있을지 모를 하얀 인형을 찾아내려 했다.+하지만 역시, 헛수고였다. 베오그라드의 거리는 평화롭기 그지없었다.+저 인파 속에서 잠복 중인 사복경찰은 내 눈으로도 손쉽게 찾아낼 수 있었지만, 하얀 세력의 인형은 그림자조차 보이지 않았다.+...라는 생각이 들 때였다. 갑자기, 매우 낯익은 모습이 사람들 속에서 나타났다.
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:저건...?
+NPC-Nimogen(0)<Speaker></Speaker><通讯框>||<BIN>9</BIN><黑屏2>:익숙한 얼굴을 한 소녀가, 고개를 들고 감시 카메라를 똑바로 바라보며, 미소를 지었다.+그리고는 곧바로 인파 속으로 사라졌다.
+()<Speaker>지휘관</Speaker>||<黑屏1>:니...!?
+()||<黑屏2><BIN>8</BIN><BGM>BGM_Brain</BGM><黑屏1>:놈의 미소는, 마치 모든 상황을 손아귀에 쥐고 있다는 것만 같았다.+우리의 움직임을 다 보고 있었다는 뜻인가?+정말 그런 건가? 잠복해 있던 것들은 그저 눈속임이었고, 진정한 위험은 전혀 눈치채지 못하고 있었단 말인가?+아니야, 그럴 리가 없다. 내가 파악하지 못했다 해도, K와 안전국이 이런 가능성을 고려치 못하고 대책을 마련하지 않았을 리가 없다.+혹시 내가 잘못 본 것일까? 피로가 누적된 탓에 헛것이라도 본 걸까?+이렇게 생각이 들 수록, 등골은 오싹해져만 갔다.
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:삐익.
+()<Speaker>K</Speaker>||<CGDelay>0.3</CGDelay><黑屏1>:<color=#00CCFF>우리가 여태까지 안젤리아에 대한 정보를 제공하지 않아서 불만인 것은 잘 알고 있어. 하지만 안젤리아도 임무 수행을 위해 너무나도 많은 대가를 치렀거든. 그녀의 노력을 헛되이 해서는 안 돼.</color>+<color=#00CCFF>지금부터 자네에게 맡기려는 임무야말로, 우리가 그리폰을 선택한 이유야.</color>+<color=#00CCFF>이미 계획은 다 짜놨다. 임무를 마치고 나면, 안젤리아와 만날 수 있을 거야.</color>
+()<Speaker></Speaker>||<黑屏2><BIN>8</BIN>:......
+()<Speaker>지휘관</Speaker>||:안전국이 우리에게 무슨 일을 시키려는 거지?
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>안전계약사라면 이골이 날 대로 났을 일이지.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:바깥의 잔챙이들은 다 청소했으니, 본격적인 일이 남은 거군.+우리에게 평화회담의 경비 임무를 맡길 셈인가?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>과연 눈치가 빨라.</color>+<color=#00CCFF>하지만 경비 임무에서도 너희는 예비 부대에 지나지 않으니 분수를 잊지 말도록.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:우리가 우리나라의 대표를 호위하는 임무라면, 안전국의 지침은 뭐지?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>우리나라의 대사?</color>+<color=#00CCFF>내가 방금 분수를 알라고 했을 텐데? 너희따위가 대사 호위직을 맡으려면 한참 멀었어.</color>+<color=#00CCFF>여기, 자네가 호위할 인물의 자료다.</color>
+()<Speaker></Speaker>||:삐익.
+()<Speaker>지휘관</Speaker>||:......+잠깐, 이 사람은...
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>우리나라 대사는 그리폰이 걱정할 필요 없어.</color>+<color=#00CCFF>너희는... 이 사람을 잘 대접하면 돼.</color>

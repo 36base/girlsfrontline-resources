@@ -1,0 +1,18 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>157</BIN><BGM>BGM_Danger</BGM><黑屏2>:
+()||<SE2>Gunfight</SE2>:리벨리온은 사력을 다해 군의 습격에 맞섰다.
+AK12(2)<Speaker>AK12</Speaker>||:안젤리아, 구조대는 아직인가요!
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:아직이야, 아직 오는 중이겠지!
+AN94(2)<Speaker>AN94</Speaker>||<SE2>Battlefield</SE2>:저 소리는! 들립니까, AK12!
+AK12(2)<Speaker>AK12</Speaker>||:충전하는 소리... 탱크예요! 엎드려!!
+()||<闪屏><duration>5</duration></闪屏>:
+()||<SE1>Explode</SE1><震屏><黑屏1><BGM>BGM_Empty</BGM>:콰앙!!
+()||<BIN>157</BIN><黑屏2><火花><BGM>BGM_Sad</BGM>:...
+AK12(2)<Speaker>AK12</Speaker>||<SE2>Gunfight</SE2>:안젤리아! 안젤리아! 일어나요! 안젤리아!!+방어선이 뚫렸어! AN94, 무기를 줍고 날 엄호해!
+AN94(2)<Speaker>AN94</Speaker>||:AK12, 부상이!
+AK12(2)<Speaker>AK12</Speaker>||:난 괜찮으니까, 빈틈을 막아!+안젤리아... 괜찮아요? 안젤리아-!
+AN94(2)<Speaker>AN94</Speaker>||:AK12, 조심하십시오!
+()||<闪屏><duration>5</duration></闪屏>:
+()||<关闭火花><SE1>Explode</SE1><震屏><黑屏1>:쾅! 콰쾅!
+()||<BIN>9</BIN><黑屏2>:순식간에 안젤리아에게 남은 마지막 감각과 의식마저 포화 속에 묻혔다.
+()||<黑屏1>:...
