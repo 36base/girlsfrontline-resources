@@ -1,0 +1,39 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>157</BIN><BGM>BGM_Sneak</BGM><黑屏2>:
+()||:결국 리벨리온은 구조대의 신호를 찾는 것을 포기했다. 하지만 철수작전은 계속되었다.
+AN94(3)<Speaker>AN94</Speaker>||:이곳의 오염지수는 매우 낮습니다. 비록 아직 안전한 것은 아니지만, 잠시 동안은 안젤리아에게 치명적이진 않을 겁니다.
+AK12(4)<Speaker>AK12</Speaker>||:축하해요, 안젤리아, 좀 더 살 수 있겠네요.
+NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||:난 전혀 나아진 기분이 없어. 뭐 그래도 너희가 그렇게 말한다면...
+AN94(0)<Speaker>AN94</Speaker>||:구조대의 신호를 포기한 이상, 오염이 낮은 구역으로 계속 나아갈 수밖에 없습니다.
+AK12(0)<Speaker>AK12</Speaker>||:혹은 빨리 기회를 봐서 구조요청 신호를 보내서 구조대의 연락을 청해야죠.
+AN94(0)<Speaker>AN94</Speaker>||:지금 주변은 온통 군의 부대로 신호를 보내기엔 너무 위험합니다.+그리고 약간의 기척만으로도 감염자가 나타날 수 있습니다. 구조대가 늦기라도 하면, 저희 인형 둘만으로는 힘들 겁니다.
+AK12(0)<Speaker>AK12</Speaker>||:어휴, 넌 너무 보수적이야, AN94.
+AN94(0)<Speaker>AN94</Speaker>||:다른 선택의 결과에 확신이 없는 이상, 전 지금의 선택을 유지하고 싶습니다.
+AK12(0)<Speaker>AK12</Speaker>||:결정하는 건 네가 아니야. 안젤리아, 결정하세요.
+NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||:음... 잠깐만...
+AN94(2)<Speaker>AN94</Speaker>||<SE1>Reload</SE1><BGM>BGM_Empty</BGM>:주의, 소리가 들립니다!
+AK12(2)<Speaker>AK12</Speaker>||<BGM>BGM_Danger</BGM><SE1>Gunfight</SE1><SE2>MachineGunBurst</SE2>:군의 인형이에요! 우리를 향해 달려오고 있어요!
+AN94(2)<Speaker>AN94</Speaker>||<黑屏1><SE1>RunStep</SE1>:전방에 폐기된 방어선이 있습니다, 우선 안젤리아를 데리고 숨으십시오!
+()||<闪屏><duration>5</duration></闪屏>:
+()||<BIN>9</BIN><SE1>Explode</SE1><SE2>Gunfight</SE2>:쾅! 쾅!
+AK12(2)<Speaker>AK12</Speaker>||<黑屏1>:안젤리아, 서둘러요! 다 왔어요!
+()||<BIN>157</BIN><黑屏2>:군의 폭격을 피하면서 리벨리온은 허둥지둥 엄폐 속으로 숨었다.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:헉... 허억... 제기랄!+어쩔 수 없겠어. AN94, 신호탄 발사해!
+AN94(2)<Speaker>AN94</Speaker>||:라저!
+AK12(2)<Speaker>AK12</Speaker>||:어떻게 이렇게 빨리! 최대한 흔적을 남기지 않았을 텐데!
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:조직된 움직임이야... 아까와는 달라!
+()||:<color=#00CCFF>치직, 치지직.</color>
+()<Speaker>？？</Speaker>||:<color=#00CCFF>안젤리아...</color>+<color=#00CCFF>과연 나를 실망시키지 않는군.</color>
+()||<SE2>Gunfight</SE2>:총소리와 노이즈 속에서 한 남자의 목소리가 뚜렷하게 통신기의 공개채널에서 흘러나왔다.
+NPC-YegorDamage(0)<Speaker>예고르</Speaker><通讯框>||:<color=#00CCFF>네년이 그 폭발에서 살아남을 수 있었던 건, 내가 이 손으로 널 죽일 수 있게 하기 위해서였지.</color>
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;NPC-YegorDamage(0)||:예고르...+아무래도, 너도 상태가 안 좋아 보이는데...
+NPC-AngeDamage(0);NPC-YegorDamage(0)<Speaker>예고르</Speaker>||:<color=#00CCFF>난 기분이 아주 좋다, 설마 여기에 배치를 끝내자마자 나타날 줄이야.</color>
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;NPC-YegorDamage(0)||:다 예상했다는 건가?
+NPC-AngeDamage(0);NPC-YegorDamage(0)<Speaker>예고르</Speaker>||:<color=#00CCFF>그린존으로 통하는 경로는 얼마 없지. 네년이 살아있다면 분명 이곳을 지날 것이다.</color>+<color=#00CCFF>네년의 감염상태도 오래 못 가겠지, 항복할 테냐?</color>
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;NPC-YegorDamage(0)||:좀비가 된 전우를 위해 애도할 시간은 없었나?
+NPC-YegorDamage(0)<Speaker>예고르</Speaker>||:<color=#00CCFF>좋다, 네년은 포격으로 죽이지 않겠다.</color>+<color=#00CCFF>그래야 이 손으로 널 끄집어내 내 부하를 위해 복수를 할 수 있으니 말이다!</color>
+()||:안젤리아가 통신을 끊었다.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:탱크를 몰고 올 셈이야! 구조대가 올 때까지 기다려!
+AK12(2)<Speaker>AK12</Speaker>||:정말로 올 것 같나요?
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker><Shake>||<黑屏1>:안 오면 여기서 죽는 거지! 빨리, 콜록!+쓸 수 있는 모든 수단으로 방어선을 지켜!
+()||<黑点2><BIN>10</BIN>:

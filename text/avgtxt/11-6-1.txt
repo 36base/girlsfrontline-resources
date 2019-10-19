@@ -1,0 +1,34 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>85</BIN><黑屏2>:21시 30분, 세이프하우스의 한구석...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Room</BGM>:끄응... 정말 이 구멍으로 들어가야 해?+어두컴컴해서 좀 무서워...
+RO635(0)<Speaker>RO635</Speaker>||:그 정보원은 분명 이 비밀통로로 도망쳤어, 입구 변두리의 먼지가 불규칙적인 것을 보아, 금방 누군가 지나간 것이 틀림없어.
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그 말대로였으면 좋겠네... 적이 설치한 함정이여서, 들어가자마자 인형 수십 기에게 둘러싸이는 게 아니면...
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:음... 그 말도 일리가 있어... 다른 아이디어라도 있어?
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:우리 요정이 있잖아?
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:요정? 지금 밖에서 맴돌고 있을 텐데, 어떻게 하게?
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그럼 지금 불러와.+먼저 이 밑의 상황을 정찰하고, 하수도의 지형 상황을 수집하자. 적이 없다고 해도 길을 잃으면 똑같이 헛수고니까.+내가 먼저 요정을 가지고 내려갈게, 한 절반쯤 내려가면 요정을 풀어서 정찰을 돌리자. 요정은 작으니까 먼저 내려가서 자세하게 훑어볼 수 있을 거야.+그럼 정말 적이 매복하고 있어도 바로 도망칠 여유정도는 있을 거야.
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:내가 따라갈 필요는 없어?
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:위험한 일은 내가 할게! 그리고 둘이서 저 좁은 곳에 있으면 오히려 더 위험하니까...
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:음... 그래, 네 말도 맞아.+아, 요정이 돌아왔어.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM>:빠르구만!
+FairyWarrior(0)<Speaker>요정</Speaker><Position>0,150</Position>||<BGM>BGM_stage1</BGM>:드디어 내 차례구나! 그럼 뭘 하면 되지?
+RO635(0)<Speaker>RO635</Speaker>;FairyWarrior(0)<Position>0,150</Position>||:내려가서 하수도의 상황을 정찰해, 적을 만나도 들키지 않게 조심하고.
+RO635(0);FairyWarrior(0)<Speaker>요정</Speaker><Position>0,150</Position>||:뭐! 그거 엄청 위험한 일이잖아!
+RO635(0)<Speaker>RO635</Speaker>;FairyWarrior(0)||:임무에 성공하면, 돌아가서 네 개발수치를 더 많이 올려달라고 신청해줄게.
+FairyWarrior(0)<Speaker>요정</Speaker><Position>0,150</Position>||:콜! 약속했다!
+()||:RO635는 요정 드론을 SOP2에게 건넸다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:사실 볼 때마다 생각하는데... 요정은 머리가 좀 나쁜 거 아니야?
+RO635(0)<Speaker>RO635</Speaker>||:뭐라해도 페르시카 씨가 그냥 자투리 시간에 설계한 인격 프로그램이니까.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:우리도 자투리 시간에 만든 게 아니길...
+FairyWarrior(0)<Speaker>요정</Speaker><Position>0,150</Position>||:서로서로 잘해보자고!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:응, 임무 개시. 요정아 가자.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点2><BIN>10</BIN>:우와... 이번에도 적이 한발 앞서간 것 같아... RO, 아래의 스캔 상황 보여?
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>이거 까다롭겠어... 역시 녀석들도 하수도 밑으로 쫓아왔어, 그리고 하수도 안이라 더 이상 꺼릴 것도 없고...</color>+<color=#00CCFF>우리 둘만으론 전혀 승산이 없어...</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:그럼 어떡해? 그냥 이렇게 두고 봐야 해?
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>지휘관님께 연락할게... 그 전에 먼저 시뮬레이션을 할 수 있어.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:시뮬레이션?
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>앞으로 발생할 수 있는 전투를 예측하는 거야, 지휘관님께 판단에 참고할만한 정보를 더 많이 제공할 수 있어.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:와아, RO 참 꼼꼼하구나.
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>이 정도쯤이야... 넌 계속 지도를 스캔해서 적의 정보를 보내줘, 난 방 안에서 시뮬레이션을 진행할게.</color>+<color=#00CCFF>정찰은 네게 맡길게!</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:좋아, 맡겨만 줘!
+()||<黑点2>:
