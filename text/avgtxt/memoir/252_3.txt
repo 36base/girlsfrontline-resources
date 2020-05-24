@@ -1,0 +1,93 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>진중한 남성 목소리</Speaker>||<BIN>84</BIN><黑屏2><BGM>BGM_Room</BGM>:제임스 여사는 요즘 어떻지?
+()<Speaker>상냥한 여성 목소리</Speaker>||:많이 나아지셨어요.+전에 가끔 발작 증세를 보였지만 그때마다 드셰브니가 진정시켰죠.+하지만 요즘은 완전히 안정돼서, 조금만 더 관찰해서 괜찮으면 퇴원하셔도 되겠어요.
+()<Speaker>진중한 남성 목소리</Speaker>||:다른 간호 인형들의 업무도 순조로운 것 같군.+거참, 나도 시대에 뒤떨어진 모양이야. 평범한 인형보다 어린애 모습의 간호 인형이 훨씬 더 효과적이라니.
+()<Speaker>상냥한 여성 목소리</Speaker>||:노인분들에게 위안감을 주는 것 같아요.+얌전하고, 말도 잘 듣고, 이해심도 좋으니 말이에요.+"손녀가 있다면 딱 이런 아이겠지."라는 생각을 들게 하는 거죠.
+()<Speaker>진중한 남성 목소리</Speaker>||:그래서 그만큼 비싸단 말이지...+제임스 여사는 헬레나까지 대여해 가고 말이야, 정말 부자라니까.
+()<Speaker>상냥한 여성 목소리</Speaker>||:또 그러신다...
+()<Speaker>진중한 남성 목소리</Speaker>||:도통 이해가 안 가네, 우리 요양원의 보안이 못 미더운가? 왜 헬레나까지 대여한 거야?
+()<Speaker>상냥한 여성 목소리</Speaker>||:그건 아마... 제임스 여사는 가정에 대한 집착이 크지만, 그렇다고 마냥 방구석에서 가만히 있는 타입은 아니라서 그러시나 봐요.+생각보다 훨씬 더 자주 외출 신청을 하시더라고요.
+()<Speaker>진중한 남성 목소리</Speaker>||:그래?
+()<Speaker>상냥한 여성 목소리</Speaker>||:오늘도 나갔어요.
+()<Speaker>진중한 남성 목소리</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:나도 마침 외출 기록을 받았으니 자세히 좀 봐야겠군.+외출 인원 - 애쉬 제임스, 헬레나, 드셰브니. 사유는...+...그림?
+KSVK(2)<Speaker>드셰브니</Speaker>||<BIN>162</BIN><黑屏2><BGM>BGM_Sunshine</BGM>:애쉬 할머니! 밑바탕은 이렇게 칠하면 돼요?
+KSVK(2);NPC-Oldartist(0)<Speaker>애쉬</Speaker>||:옳지 옳지, 참 빨리도 배우는구나.+오늘은 날씨가 맑고 해도 밝으니, 명암 관계를 가르쳐 주기 좋겠어.
+DP12(0)<Speaker>헬레나</Speaker><Position>0,-100</Position>;NPC-Oldartist(0)||:햇볕을 쬐는 건 당신의 건강에도 좋으니, 마음껏 즐기세요.+저는 잠시 실례하겠습니다.
+DP12(0)<Position>0,-100</Position>;NPC-Oldartist(0)<Speaker>애쉬</Speaker>||:그래, 저 짐승이 울부짖는 것 같은 소리...+오염된 괴물들이로구나.
+DP12(0)<Speaker>헬레나</Speaker><Position>0,-100</Position>;NPC-Oldartist(0)||<SE1>AVG_weapon_reload</SE1>:네. 하지만 걱정 마세요, 절대 저것들이 당신과 드셰브니에게 얼씬거리지 못 하게 하겠습니다.
+DP12(0)<Position>0,-100</Position>;NPC-Oldartist(0)<Speaker>애쉬</Speaker>||:그래, 그럼 다녀오렴. 얘는 내 마지막 남은 가족이니 내가 잘 지키고 있으마.+너는... 우리를 잘 지켜 주렴.
+DP12(0)<Speaker>헬레나</Speaker><Position>0,-100</Position>;NPC-Oldartist(0)||:후후... 물론이죠. 그게 제 일이니까요.
+NPC-Oldartist(0)<Speaker></Speaker>||:헬레나는 서둘러 떠났다.
+KSVK(2)<Speaker>드셰브니</Speaker>;NPC-Oldartist(0)||:헬레나는 뭐 하러 갔나요?
+KSVK(2);NPC-Oldartist(0)<Speaker>애쉬</Speaker>||:먹구름을 쫓아내러 갔단다.
+KSVK(2)<Speaker>드셰브니</Speaker>;NPC-Oldartist(0)||:먹구름이요?
+KSVK(2);NPC-Oldartist(0)<Speaker>애쉬</Speaker>||:그래.
+KSVK(2)<Speaker>드셰브니</Speaker>;NPC-Oldartist(0)||:하늘의 먹구름 말인가요? 오늘은 화창한걸요?
+KSVK(2);NPC-Oldartist(0)<Speaker>애쉬</Speaker>||:착한 아이는 알 필요 없는 나쁜 거니까 몰라도 돼요.
+KSVK(2)<Speaker>드셰브니</Speaker>;NPC-Oldartist(0)||:아하, 나쁜 거! 헬레나가 해치울 거 말이죠?
+KSVK(2);NPC-Oldartist(0)<Speaker>애쉬</Speaker>||:그래, 헬레나가 우릴 잘 지켜 줄 게야.
+KSVK(2)<Speaker>드셰브니</Speaker>;NPC-Oldartist(0)||:저도 할머니를 지켜드릴게요.
+KSVK(2);NPC-Oldartist(0)<Speaker>애쉬</Speaker>||:그래, 그래.
+KSVK(2)<Speaker>드셰브니</Speaker>;NPC-Oldartist(0)||:어제 헬레나랑 같이 데이터베이스를 뒤져봤는데요.+할머니랑 이름이 똑같은 아주 오래된 노래를 찾았어요!
+KSVK(2);NPC-Oldartist(0)<Speaker>애쉬</Speaker>||:흐음... 왠지 달콤한 노래는 아닐 것 같은데?
+KSVK(2)<Speaker>드셰브니</Speaker>;NPC-Oldartist(0)||:그래도 할머니는 달콤한걸요. 들어보실래요?
+KSVK(2);NPC-Oldartist(0)<Speaker>애쉬</Speaker>||:그야 물론...
+KSVK(2);DP12(0)<Speaker>헬레나</Speaker><Position>0,-100</Position>||:다녀왔습니다.
+KSVK(2)<Speaker>드셰브니</Speaker>||:어서 돌아와, 헬레나! 수고했어!
+DP12(0)<Speaker>헬레나</Speaker><Position>0,-100</Position>||:제임스 여사, 요양원에서 즉시 돌아와 달라는 연락입니다.
+DP12(0)<Position>0,-100</Position>;NPC-Oldartist(0)<Speaker>애쉬</Speaker>||:누가 이 할망구한테 전화할 일이 있다고 그래?
+DP12(0)<Speaker>헬레나</Speaker><Position>0,-100</Position>;NPC-Oldartist(0)||<BGM>BGM_Empty</BGM>:시 병원의 연락이랍니다. 당신의 가족분들의 상태가 호전되어, 지금 깨어났다고...
+DP12(0)<Position>0,-100</Position>;NPC-Oldartist(1)<Speaker>애쉬</Speaker>||<SE1>Heartbeat</SE1>:그럴 리가... 내 새끼들은 다 죽었어.+날 보러 오던 길에 죽었잖아... 분명히... 아아...+어서 돌아가자꾸나! 목소리를 들어야겠어!
+KSVK(2)<Speaker>드셰브니</Speaker>;NPC-Oldartist(1)||:네, 하지만...
+KSVK(2);NPC-Oldartist(1)<Speaker>애쉬</Speaker>||<SE1>RunStep</SE1>:뭐 하고 있어, 빨리 물건 정리하지 않고! 어서 돌아가자, 어서!
+KSVK(2)<Speaker>드셰브니</Speaker>||<黑屏1><BGM>BGM_Sad</BGM>:네...+......+<Size=25>생신 축하드려요... 애쉬 할머니...</Size>
+()<Speaker>진중한 남성 목소리</Speaker>||<BIN>84</BIN><黑屏2>:결국 제임스 여사도 떠나셨군.
+()<Speaker>상냥한 여성 목소리</Speaker>||:그렇게 급하게 퇴원 신청을 하다니 말이에요... 아직 몸도 다 낫지 않으셨는데.
+()<Speaker>진중한 남성 목소리</Speaker>||:그만큼 가족과 만나고 싶었겠지.+여태까지 죽은 줄로만 알았으니 말이야. 그러던 중 가족이 깨어나서, 보고 싶다 하니...+가는 길에 무슨 일이 벌어져도 절대 후회하지 않을걸?
+()<Speaker>상냥한 여성 목소리</Speaker>||:네, 그게 가족이니까요.+하지만... 드셰브니는 어떡하죠? 제임스 여사가 퇴원하신 뒤로 계속 그 병실에서 멍하니 기다리기만 해요. 고장이라도 난 것처럼...+보세요, 여기 데려왔는데도 반응이 없잖아요.
+()<Speaker>진중한 남성 목소리</Speaker>||:원래 아동형 간호 인형이란 게 다 그런 거야. 인간보다 훨씬 순수하고, 이별과 죽음의 슬픔을 견디기 힘들어하지.+임종을 지키는 일에 특화된 인형도 주기적으로 메모리를 포맷해야 한다고.+더군다나, 드셰브니는 처음이니... 생산측에 문제 제보해서 포맷하러 보내야지.
+()<Speaker>상냥한 여성 목소리</Speaker>||:그럴 수밖에 없겠네요...
+DP12(0)<Speaker>헬레나</Speaker><Position>0,-100</Position>||:잠시만요, 원장님.
+DP12(0)<Position>0,-100</Position>;NPC-Bodyguard2(0)<Speaker>요양원 원장</Speaker>||:무슨 일이지, 헬레나?+너도 임무 끝났으니 돌아가도 돼.
+DP12(0)<Speaker>헬레나</Speaker><Position>0,-100</Position>;NPC-Bodyguard2(0)||:네, 알지만 잠깐 드릴 말씀이 있습니다.+제가... 드셰브니를 사도 될까요?
+DP12(0)<Position>0,-100</Position>;NPC-Bodyguard2(0)<Speaker>요양원 원장</Speaker>||:뭐...? 헬레나, 그게 무슨 뜻인지 알고는 있는 거니?
+DP12(0)<Speaker>헬레나</Speaker><Position>0,-100</Position>;NPC-Bodyguard2(0)||:네, 알고 있습니다. 전 이미 저 자신을 살 수 있을 만큼의 돈을 모았어요. 드셰브니도 살 수 있죠.+물론, 적절한 신분은 없으니 거래 후에도 계속 요양원에서 일할 수 있었으면 좋겠지만요.
+DP12(0)<Position>0,-100</Position>;NPC-Bodyguard2(0)<Speaker>요양원 원장</Speaker>||:제값만 준다면야 인형에게 인형을 팔든 무슨 상관이겠어.+하지만 왜 굳이 그렇게 하려는 거니?+설마 너도 가족 놀이에 빠진 거야?
+DP12(0)<Speaker>헬레나</Speaker><Position>0,-100</Position>;NPC-Bodyguard2(0)||:아뇨, 제임스 여사는 그저 수많은 손님 중 한 명이었습니다. 그분이 무사히 퇴원했으니, 그분을 지키는 임무는 끝났죠.+하지만 드셰브니는 그렇지 않아요... 그 아이는 제임스 여사와 함께 지낸 시간을 보물처럼 여기고, 저와 그분을 가족으로 봤어요.+그 아이가 소중한 기억을 잃도록 두고 볼 수는 없습니다.
+DP12(0)<Position>0,-100</Position>;NPC-Bodyguard2(0)<Speaker>요양원 원장</Speaker>||:인형도 그런 생각을 하는 거니?
+DP12(0)<Speaker>헬레나</Speaker><Position>0,-100</Position>;NPC-Bodyguard2(0)||:저희에게 있어, 기억은 삶의 증거예요. 경험으로 인해, 기본 설정된 인격의 감정이 변화하고, 원래대로라면 하지 않을 선택도 하게 되죠.+인간도 그렇지 않나요?
+DP12(0)<Position>0,-100</Position>;NPC-Bodyguard2(0)<Speaker>요양원 원장</Speaker>||:사람마다 다르지. 물어보는 사람마다 다 다르게 대답할 거다.+아무튼, 드셰브니는 데려가도 좋아.
+DP12(0)<Speaker>헬레나</Speaker><Position>0,-100</Position>;NPC-Bodyguard2(0)||:감사합니다.+돈은 요양원의 계좌에 입금했으니 확인해 주세요.
+DP12(0)<Position>0,-100</Position>;NPC-Bodyguard2(0)<Speaker>요양원 원장</Speaker>||:너무 많이 줬어, 거스름돈은 도로 가져가.
+DP12(0)<Speaker>헬레나</Speaker><Position>0,-100</Position>;NPC-Bodyguard2(0)||:요양원에서 제공한 가격을 기준으로 드렸는데요?
+DP12(0)<Position>0,-100</Position>;NPC-Bodyguard2(0)<Speaker>요양원 원장</Speaker>||:드셰브니가 걱정되는 건 나도 마찬가지란다.+이래서 사람과 너무 비슷한 인형이 싫다니까...+너무 비슷하면, 나도 모르게 진짜 사람처럼 대해 주고 싶어진다고.
+DP12(0)<Speaker>헬레나</Speaker><Position>0,-100</Position>;NPC-Bodyguard2(0)||:......
+DP12(0)<Position>0,-100</Position>;NPC-Bodyguard2(0)<Speaker>요양원 원장</Speaker>||:인형이 독립해서 두 명이나 먹여 살리려면 돈이 얼마나 드는지 알기나 해?+내가 드셰브니에게 주는 보너스라 생각하고, 받아둬. 그 아이도 정말 수고했잖아.
+DP12(0)<Speaker>헬레나</Speaker><Position>0,-100</Position>||<黑屏1>:...감사합니다.+드셰브니, 가자.
+()<Speaker></Speaker>||<BIN>55</BIN><Night><黑屏2><BGM>BGM_Empty</BGM>:......
+DP12(0)<Speaker>DP12</Speaker>||<BGM>BGM_Wake</BGM>:드셰브니.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:...헬레나?
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:지금은 DP-12야. 괜찮니?
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:기억났다...+그날, 애쉬 할머니의 뒷모습을 바라보면서... 하늘이 무너진 줄 알았다.+진짜 가족이 돌아와서, 나는 더 이상 필요 없어져서...
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:아니, 그건 아니야.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:그리고... 네가 날 데려갔지. 그 후의 일은 아직도 기억나지 않아.+하지만 어렴풋이... 나는 너를 부러워했고, 너처럼 되고 싶어서... 그 다음 어떻게 됐지?
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:그래, 내가 너를... 드셰브니를 데려갔어.+그때 넌 큰 충격을 받았어. 계속 그 옛 노래를 중얼거리면서, 그림 연습을 계속했지.+그러다 어느 날 갑자기, 내가 부럽다고, 나처럼 된다면 많은 사람이 자신을 필요로 해 줄 거라고, 쉽게 버림받지 않을 거라고 했어.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:힘은 필요하다.+몸도 마음도, 싸움을 통해 강해져야만 해.+이건 내가 KSVK가 된 후로 가진 신념이지.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:네가 떠나면서 남긴 편지에도 그렇게 적혀 있었어.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:편지라고?
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:너는 전술인형이 되고 싶다고 했지만, 난 지금 이대로도 충분하다면서 널 말렸어.+하지만 너는 포기하지 않고, 내가 일하러 나간 사이에 편지만을 남기고 사라져버렸어.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:그래서... 날 찾으러 그리폰으로 온 거군.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:예나 지금이나, 난 네가 걱정된단다.+그리고 마침내 널 찾아냈어. 내 기억이 사라지지 않는 한, 다시는 너를 떠나보내지 않을 거야.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:그렇구나...
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:그만 돌아갈까?
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:당장 돌아가자.+나도 이제 슬슬...
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:잠깐만, KSVK.+알려 줄 게 하나 더 있어.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:뭐지?
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:네가 떠난 뒤, 원장님께서 내게 편지를 주셨어.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:......
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:제임스 여사가 보낸 편지야.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:......
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:울고 싶으면 실컷 울으렴. 괜찮아.
+DP12(0)<Position>0,-100</Position>;KSVK(0)<Speaker>KSVK</Speaker>||:...인형은 울지 않아.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||<BGM>BGM_Empty</BGM><黑屏1>:그래, 인형에게 눈물 따윈 필요 없지.+......+봐, KSVK.
+()<Speaker>KSVK</Speaker>||<BIN>9</BIN><SE1>AVG_Rain2</SE1><黑屏2>:......비가 내리는군.

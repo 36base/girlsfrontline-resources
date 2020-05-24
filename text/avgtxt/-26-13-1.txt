@@ -18,21 +18,21 @@ NPC-YegorDamage(0)<Speaker>예고르</Speaker>||<黑屏1>0,0.7</黑屏1>:안젤�
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||<BGM>BGM_Brain</BGM>:후우... 고맙다, 많이 나아졌어.
 HK416(0)<Speaker>HK416</Speaker>||:주사를 놓을 때 그 울부짖던 소리를 녹음했어야 했네요.
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:내 장례식에 가서 틀지 마.+이제야 좀 머리가 돌아가는 것 같다.
-AK12(0)<Speaker>AK12</Speaker>||:지휘관님, 그리폰 철수부대는 이미 빌딩에 돌아와 마지막 방어선을 구축할 거예요.+폭탄은 이미 다 개조했고 저와 AN94가 서둘러 설치 중이에요, 물론 기폭장치도요!
+AK12(0)<Speaker>AK12</Speaker>||:지휘관, 그리폰 철수부대는 이미 빌딩에 돌아와 마지막 방어선을 구축할 거야.+폭탄은 이미 다 개조했고 나와 AN94가 서둘러 설치하고 있어, 물론 기폭장치도 말이야!
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(0)||:정말 이렇게 할 거야? 우리 뜻대로 될지는...
-NPC-AngeDamage(0);AN94(0)<Speaker>AN94</Speaker>||:최악의 경우, 저희 모두 여기서 죽을 겁니다. 다만 그것도 준비된 바입니다.
+NPC-AngeDamage(0);AN94(0)<Speaker>AN94</Speaker>||:최악의 경우 우리 모두 여기서 죽겠지만, 그것도 각오한 바다.
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:SOP2와 HK416은 아직...+아직 임무가 남아 있어... 지휘관이 아직 벗어나지 못했으니, 너희는 여기서 쓰러져서는 안 돼.
 SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:미안, 이게 지휘관의 명령인걸. 나보고 후퇴하라 해도 명령을 어길 수는 없잖아?
 NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||:지휘관, 왜 이렇게까지 위험을 무릅쓰고서 날 구하려는 거야?
 ()||:...<c>위기 따위 이미 익숙하다.<c>먼저 눈앞의 일에 집중하자.<c>많이 신세 진 만큼 보답해야 한다.
 지휘관()<Speaker>지휘관</Speaker>||<分支>1</分支>:위기 따위 이미 익숙하다. 이건 그저 평소에도 있는 임무다.
 NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||<分支>1</分支>:그래서 너 자신이 얼마나 소중한지를 모르는 거지?
-AK12(0)<Speaker>AK12</Speaker>||<分支>1</分支>:그렇기에 지휘관이 더 중요한 거죠? 리스크 없이 승리는 없어요.
+AK12(0)<Speaker>AK12</Speaker>||<分支>1</分支>:그렇기에 지휘관이 더 중요한 거지? 리스크 없이 승리는 없어.
 NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||<分支>2</分支>:그리폰에 필요한 건 전략적 안목이 있는 지휘관이지 나 같은 바보가 아니야.
 SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>2</分支>:글쎄, 내가 보기엔 우리 모두 불합격인걸. 그래서 이렇게 끼리끼리 모여있는 거잖아?
 NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||<分支>3</分支>:여긴 전장이야. 인정 따윈 없어! 지휘관, 당신은 내게 빚진 것 없어!
 HK416(0)<Speaker>HK416</Speaker>||<分支>3</分支>:그럼 이제 지휘관님에게 빚진 거네요, 안젤리아. 나중에 감사의 편지 내용이라도 생각해 봐요.
-AN94(0)<Speaker>AN94</Speaker>||:이미 결정했으면 이제부터의 대책을 세우도록 합시다, 안젤리아.
+AN94(0)<Speaker>AN94</Speaker>||:이미 결정했으면 지금부터라도 대책을 세우도록 하자, 안젤리아.
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:... 그래.+우리 임무는 저 깡통폭탄이 모두 설치될 때까지 적을 지연시키는 거야.+군은 분명 모든 수단을 써서 빌딩으로 쳐들어올 거야. 최대한 시간을 벌어!
 RO635(6)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:SOP2, 416, 군이 사방에서 포위하고 있어!
 HK416(0)<Speaker>HK416</Speaker>||<BGM>BGM_Reverse</BGM>:정말로... 모든 주력부대를 끌어왔구나.
@@ -43,6 +43,6 @@ SOPIIDamage(0);RO635(6)<Speaker>RO635</Speaker>||:어차피 이젠 나도 도움
 SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:아니... 역시 깨어있어줄래, RO?
 SOPIIDamage(2);RO635(6)<Speaker>RO635</Speaker>||:어? 왜?
 SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(6)||:우리 둘 함께 있어야 AR팀이니까.
-RO635(6)<Speaker>RO635</Speaker>||:맘대로 해.+내가 모든 것을 기록해줄게, AR팀이 군의 주력에 맞서는 장면을 말이야.
-HK416(3)<Speaker>HK416</Speaker>||<黑屏1>:적이 온다! 화력소대는 영격 준비해!+지휘관님, 여기가 최후의 방어선이에요. 반드시 저들의 습격을 막아내, 리벨리온에게 시간을 벌어주셔야 해요!
+RO635(6)<Speaker>RO635</Speaker>||:맘대로 해.+내가 모든 것을 기록해줄게, AR팀이 군의 주력부대에 맞서는 장면을 말이야.
+HK416(3)<Speaker>HK416</Speaker>||<黑屏1>:적이 온다! 화력소대는 포격 준비해!+지휘관님, 여기가 최후의 방어선이에요. 반드시 저들의 습격을 막아내, 리벨리온에게 시간을 벌어주셔야 해요!
 ()||<BIN>10</BIN><黑点2>:

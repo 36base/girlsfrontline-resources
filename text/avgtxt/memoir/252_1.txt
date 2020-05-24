@@ -1,0 +1,99 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>활기찬 소녀 목소리</Speaker>||<BGM>m_avg_labyrinth</BGM><BIN>9</BIN>:여기 나무 한 그루가 있었네, 새들이 둥지를 짓는.
+KSVK(0)<Speaker>KSVK</Speaker>||<黑屏2>:<color=#A9A9A9>또 들리는구나, 이 노래를 부르는 목소리...</color>+그대는 누구지? 어찌하여 기계의 꿈속에 나타나는가?
+KSVK(0)<Speaker>활기찬 소녀 목소리</Speaker>||:목장은 푸르고, 꽃들이 피어나니, 아이들은 근심 없이 노래를 부르네.
+KSVK(0)<Speaker>KSVK</Speaker>||:<color=#A9A9A9>항상 여기까지 부를 때쯤 끊어졌어. 이번에도 그럴까?</color>
+KSVK(0)<Speaker>활기찬 소녀 목소리</Speaker>||:어때, 나 잘 불렀어, 헬레나?
+KSVK(0)<Speaker>KSVK</Speaker>||:다른 내용이...?
+KSVK(0)<Speaker>？？？</Speaker>||:응, 제임스 여사께서 분명 좋아하실 거야.
+KSVK(0)<Speaker>KSVK</Speaker>||:이 목소리... 많이 익숙한데.
+KSVK(0)<Speaker>활기찬 소녀 목소리</Speaker>||:그렇게 거리 두는 호칭으로 부르면 애쉬 할머니가 속상해할 거야.+우린 가족이잖아!
+KSVK(0)<Speaker>？？？</Speaker>||<BGM>BGM_Empty</BGM>:그래, 네 말이 맞아. 하지만 네가 그분의 마음을 지키는 것처럼, 난 그분의 몸을 지킨단다.+서로의 역할은 확실하게 해야 하잖니? 드셰――
+KSVK(0)<Speaker>KSVK</Speaker>||<SE1>AVG_rifle_finalshot_n</SE1><震屏><黑屏1>:...앗!
+NPC-Kalin(2)<Speaker>카리나</Speaker>||<BIN>22</BIN><黑屏2>:꺄악!?+어휴, 깜짝 놀랐잖아 KSVK!
+KSVK(0)<Speaker>KSVK</Speaker>;NPC-Kalin(2)||<BGM>BGM_Hello</BGM>:아... 미안하다. 그 꿈에 사로잡혀 현실과 레벨 2 플랫폼을 혼동했다.
+KSVK(0);NPC-Kalin(3)<Speaker>카리나</Speaker>||:또 그 꿈을 꿨어?
+KSVK(0)<Speaker>KSVK</Speaker>;NPC-Kalin(3)||:그래. 꿈속의 안개가 걷히고, 또 새로운 내용이 나타난 것 같았다.
+KSVK(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:그렇구나... 이걸로 마인드맵 공간 정리도 벌써 두 번째네.+네 개조 신청은 통과됐지만, 계속해서 그 꿈을 신경 쓰면 마인드맵 업그레이드를 할 수 없을지도 몰라.
+KSVK(0)<Speaker>KSVK</Speaker><Shake>;NPC-Kalin(0)||:이게 업그레이드에까지 지장을 주는 건가?
+KSVK(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:정확히는 나도 모르겠지만, 불안정 요소인 것만은 확실해. 업그레이드 전에 IOP에서 모든 기억을 정리하는 테스트가 있거든.+과거에 너무 집착하면, 그 테스트를 통과하지 못할 수도 있어.
+KSVK(0)<Speaker>KSVK</Speaker>;NPC-Kalin(0)||:그렇군... 알았다. 미래로 나아가기 위해선, 먼저 과거와 마주해야 하는 것이군.+카리나, 내 과거에 대해서 알고 있나?
+KSVK(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:응? 너도 IOP에서 제조된 인형이잖아?
+KSVK(0)<Speaker>KSVK</Speaker>;NPC-Kalin(2)||:그리폰에게 고용된 전술인형 중에선 IOP에서 주문 제작된 인형들 외에도, 민간에서 개조를 받은 부류가 있지 않나?+내 생각엔... 난 IOP에서 제조된 인형이 아닌 것 같다.
+KSVK(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:왜 그렇게 생각해?
+KSVK(0)<Speaker>KSVK</Speaker>;NPC-Kalin(2)||:우리의 꿈은 그저 데이터 재구성의 산물이다. 기록에 없는 일을 꿈으로 볼 수 없어.
+KSVK(0);NPC-Kalin(3)<Speaker>카리나</Speaker>||:그건 나도 잘 모르겠어.+민수용 인형이라도, 그리폰으로 전입할 땐 IOP에서 상황에 맞춰 개조를 받거든. 그래야 전장에 더 빨리 적응할 수 있으니까.
+KSVK(0)<Speaker>KSVK</Speaker>;NPC-Kalin(3)||:만약 개조로 인해 기억을 잃었다면, 그 기억을 되찾을 방법이 있을까?
+KSVK(0);NPC-Kalin(3)<Speaker>카리나</Speaker>||:없지는 않아. 하지만 신청서를 내야 하는데... 여태까지 선례가 없었어.
+KSVK(0)<Speaker>KSVK</Speaker>;NPC-Kalin(3)||:그렇다면 되찾으리란 보장은 없단 뜻이군?
+KSVK(0);NPC-Kalin(6)<Speaker>카리나</Speaker>||:응...
+KSVK(0)<Speaker>KSVK</Speaker>;NPC-Kalin(6)||:알겠다. 하지만 시도하기도 전에 포기한다면, 답을 얻을 수 없겠지.+관련 신청을 도와줄 수 있을까?
+KSVK(0);NPC-Kalin(6)<Speaker>카리나</Speaker>||:어... 먼저 지휘관님께 뭐가 필요한지 여쭤볼게. 그동안 KSVK는 좀 더 쉬는 게 어떨까?
+KSVK(0)<Speaker>KSVK</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:그러도록 하지. 그럼 나중에 보자꾸나, 카리나.
+()<Speaker></Speaker>||<BIN>85</BIN><黑屏2>:......
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>통신 요청.</color>
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||:<color=#00CCFF>지휘관님, 지금 바쁘세요? 여쭤볼 일이 하나 생겼어요.</color>+<color=#00CCFF>KSVK가 입사 전의 기억을 되찾고 싶다 하는데, 허가해 주실 수 있을까요?</color>
+NPC-Kalin(0)<Speaker>지휘관</Speaker>||:......<c>허가한다.<c>거절한다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||<分支>1</分支>:<color=#00CCFF>다행이다! 그럼 바로 신청할게요!</color>
+NPC-Kalin(0)<Speaker>카리나</Speaker>||<分支>2</分支>:<color=#00CCFF>하지만... 그러면 너무 불쌍하지 않나요?</color>+<color=#00CCFF>그것 때문에 마인드맵 업그레이드 실패할 수도 있어요. 역시 허가해 주시는 게 어떻겠어요?</color>
+NPC-Kalin(0)<Speaker>카리나</Speaker>||<黑屏1>:<color=#00CCFF>감사합니다!</color>
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_tele_disconnect</SE1>:......
+활기찬 소녀 목소리()<Speaker>활기찬 소녀 목소리</Speaker>||<BGM>m_avg_labyrinth</BGM>:내 그림 어때, 헬레나?
+활기찬 소녀 목소리()<Speaker>？？？</Speaker>||:응, 제임스 여사께서 분명 좋아하실 거야.
+활기찬 소녀 목소리()<Speaker>활기찬 소녀 목소리</Speaker>||:또! 제대로 이름으로 부르라니까?
+활기찬 소녀 목소리()<Speaker>？？？</Speaker>||:그래 그래, 애쉬 여사께서 좋아하실 거야.
+활기찬 소녀 목소리()<Speaker>활기찬 소녀 목소리</Speaker>||:그럼 애쉬 할머니한테 뭘 해드리면 좋을까?
+활기찬 소녀 목소리()<Speaker>？？？</Speaker>||:그분은 어쩌면 다시는...
+활기찬 소녀 목소리()<Speaker>활기찬 소녀 목소리</Speaker>||:아니야!+자꾸 그렇게 말하면 나 화낸다!
+활기찬 소녀 목소리()<Speaker>？？？</Speaker>||:하아... 알았어. 내 생각엔, 이 그림이면 충분할 거야.+정말 잘 그렸어.
+활기찬 소녀 목소리()<Speaker>활기찬 소녀 목소리</Speaker>||:그야 당연하지, 애쉬 할머니가 직접 가르쳐 줬는걸!+음... 만약 내일 우릴 보러 와 준다면, 직접 초상화를 그려 줄래.
+활기찬 소녀 목소리()<Speaker>？？？</Speaker>||<黑屏1>:그러렴, 네 실력이 얼마나 좋아졌는지 보여드릴 수 있겠구나.
+KSVK(0)<Speaker>KSVK</Speaker>||<BIN>70</BIN><睁眼><BGM>BGM_Empty</BGM>:......
+DP12(0)<Speaker>DP12</Speaker>||<BGM>BGM_Room</BGM>:좋은 아침, KSVK.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:여긴...?
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:수복실이야. 전투 도중 갑자기 다운돼서, 바로 호송됐어.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:지나치게 과거에 홀린 나머지, 현재마저 잊어버린 건가... 미안하다.+그대도 수복하러 왔나?
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:아니, 널 보러 왔단다.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:...? 왜 날――
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:KSVK, 내가 누구니?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:음...? 그리폰 사의 동료다.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:그밖에는?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:......+같은 질문을 되물어도 의미 없다, 그대가 내게 다른 걸 가르쳐 줄 생각이 없다면.+혹시... 내 과거와 관계된 건가?
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||<黑屏1>:정답이야.+KSVK, 우리는...
+DP12()<Speaker>DP12</Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM><黑屏1>:모녀 관계란다.
+KSVK(0)<Speaker>KSVK</Speaker>||<BIN>70</BIN><黑屏2>:...웃기지도 않는 농담이군.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||<BGM>BGM_Room</BGM>:어머, 막 던져도 믿을 줄 알았더니 안 통했네.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:배꼽으로 생각해도 알 일이다. 인형 사이에 어떻게 혈연관계가 있을 수 있겠나?+자매 같은 우애라면 몰라도, 모녀는 절대 있을 수 없다.+그런 말을 믿을 사람은 바보... 아니, 그 이상으로 환상에서 헤어나오지 못하는 녀석이다.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:말이 좀 심하구나, KSVK.+그래도...
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:...정말로 인형이 혈연으로 이어질 수 있는 건가?
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:......+풉, 푸하하... 세상에 하하하. 정말로 믿었니?+너 정말 귀엽다 얘.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:......
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:미안 미안, 화내지 마.+내가 잘못했어, 용서해 줄래? 네게 볼일이 있는 건 정말이야.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:그럼 용건을 말하도록.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:듣자 하니 기억을 되찾으려고 상층부에 신청서를 제출했는데, 아직도 답변이 없다면서?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:그렇다.+하지만 이것 또한 시련이겠지.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:정말 그렇게 생각하니?+그럼 왜 전장에서 멍하니 있다 다칠 정도로 해몽에 빠졌어?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:......
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:내가 널 도와줄게, 하지만 그 전에 먼저 네 생각을 듣고 싶어.+KSVK, 네가 진정으로 바라는 것은 무엇이니?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:나는... 망설여지고 두렵다.+신청서를 제출한 지 벌써 1주일이 지났고, 같은 기수의 인형들은 모두 개조를 마치고 돌아왔는데, 나만 첫 단계 프로세스마저 마치지 못했어.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:계속 말해보렴.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:불안해... 혹시 내 신청서가 기각된 것은 아닐까?+내가 즉시 작전 능력을 향상시켜야 할 정도로 중요한 인형이 아니라서?
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:왜 그렇게 생각하니?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:달리 이유가 떠오르지 않는다.+이 일을 해결하지 못한다면, 업그레이드에 실패할 수도 있으니... 그리폰의 사비로 모험을 할 수도 없는 노릇이다.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:그래서... 지휘관님의 문제라 생각해?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:어쩌면, 지휘관은 내가 그다지 필요하지 않은 걸지도 모른다.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:하지만 내가 보기엔... 그것도 친절함의 표현이라 본단다.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:나를 예비 부대에 방치하고, 최전선에 나설 전력으로 만들지 않은 것이?+확실히, 그러는 편이 안전성이 더 높겠다만...
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:음... 하지만 본인의 의지와 아무 상관 없이 베푸는 친절은 쓸모가 없다.+그렇게 생각하는구나?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:인간 사이의 교류도 그렇지 않나?+"네가 슬퍼할까 봐 알려 주지 않았다"라는 식으로 말이다...+하지만, 그런다고 진실을 알지 못한 자가 과연 기뻐할까?
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:정말 진실을 알고 싶어?+그 기억이... 네가 다시 떠올리기 싫었던 것이라 하더라도?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:다시 기억하기 전에는 그것이 나쁜 것인지 판단할 수 없다.+하지만 내가 결정한 일이니, 후회하진 않겠다.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:그래...+넌 정말 하나도 변하지 않았구나.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:DP-12... 그대는 정말 날 오래전부터 알고 있었나?
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:글쎄, 과연 어떨까? 그것도 네가 직접 확인해 보렴.+그나저나, 같이 어디 가지 않으련?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:외출 허가는 받지 않았을 터인데?
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:지휘관님과 미리 말했으니까 안심하렴.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:그럼 됐다.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:설령 허가를 받지 않았더라도, 우리 지휘관님은 마음이 아주 무르니까, 이렇게 손을 잡고 애교 부리면서...+"죄송해요~ 용서해 주세요~"+...라 하면 바로 봐주지 않을까?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker><Shake>||:잠깐, 정말 허가받은 거 맞나?
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||<黑屏1>:안심하렴. 내가 말은 이렇게 해도, 규정은 확실히 준수하는 올바른 인형이니까.

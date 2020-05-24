@@ -1,0 +1,72 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Danger</BGM>:부상이 심각한 인형은 일단 열차의 보호막 범위 안으로 후송했습니다만, 현재 교전 중인 모든 아군 제대가 붕괴 직전입니다. +이대로는 얼마 버티지 못합니다.
+()<Speaker>지휘관</Speaker>||:나도 알아...+아직 복귀하지 않은 제대는 몇이나 되지?
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:엄청 많아요...+예비 부대가 위치한 곳까지 철수한 인형은... 처음에 방어선에 배치한 수의 10% 정도예요...
+()<Speaker>지휘관</Speaker>||:제기랄...
+NPC-Kalin(7)<Speaker>카리나</Speaker>||:지휘관님...
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:통신이 들어왔습니다.
+()<Speaker>지휘관</Speaker>||:404인가?
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:......+아뇨... 군의 항복 권고예요...
+()<Speaker>예고르</Speaker>||:<color=#00CCFF>조국을 배신한 테러리스트로 지정된 그리폰의 지휘관과 휘하 전술인형들에게 전한다. 무기를 버리고 항복하라.</color>+<color=#00CCFF>너희의 부대는 이미 와해됐고, 우리와의 화력차는 이미 실감했을 것이다. 너희에겐 이제 투항밖에 선택지가 없다.</color>+<color=#00CCFF>즉시 무장을 해제하고 길을 비켜라. 불복할 시 네놈들을 벌레처럼 짓밟을 것이다! 반복한다, 특수작전사령부에서 최후통첩을——</color>
+()<Speaker>지휘관</Speaker>||:꺼 버려!
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:항복... 해야 하나요...?
+()<Speaker>지휘관</Speaker>||:우린 절대 항복하지 않아.
+()||<SE1>AVG_tele_connect</SE1>:삐삑.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>그래야 우리 지휘관이지. 역시 카리스마 있다니까.</color>+<color=#00CCFF>오래 기다리게 해서 미안해. 여태까지 싸우느라 고생했어.</color>
+()<Speaker>지휘관</Speaker>||:404!? 이제 통신 가능한 건가?!
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<黑屏1><BGM>BGM_Empty</BGM>:<color=#00CCFF>응. 방금 리벨리온과 합류했어. 뭐... 절반이지만.</color>+<color=#00CCFF>그리고, 당연히 기지의 차단문도 무사히 개방했어.</color>+<color=#00CCFF>격리벽에 적을 포함한 별다른 위협은 없으니까 언제든지 들어와.</color>
+()<Speaker>지휘관</Speaker>||<BIN>224</BIN><黑屏2><BGM>BGM_War</BGM>:보고 고맙다!+카리나, 열차에 시동 걸어! 모든 인형에게 전한다! 즉시 열차에 탑승하라!
+()<Speaker>카리나</Speaker>||:알겠습니다!
+()<Speaker>UMP45</Speaker>||:<color=#00CCFF>참, 그 K라는 사람은 지금 혼수상태로 제어실에 있어. 숨은 붙어 있으니까 와서 대신 회수해 줘.</color>+<color=#00CCFF>그리고 이 신입 리벨리온 대원들한테도 보급과 지휘를 부탁할게.</color>+<color=#00CCFF>우린 지금부터 기지 안으로 돌입, 정찰할 거야. 나머지 리벨리온이나 안젤리아를 찾으면 즉시 연락할게.</color>
+()<Speaker>지휘관</Speaker>||:알았다. 수고해 줘.+역시 404소대는 기대를 저버리지 않는구나.
+()<Speaker>UMP45</Speaker>||:<color=#00CCFF>우리야 항상 기대 이상으로 활약하지. 보수 받아야 하니까 이상한 데서 죽지 마.</color>
+()<Speaker>지휘관</Speaker>||:그래, 보수를 줘야 하니 너희도 반드시 살아남아라.+댄들라이, 우리 인형들을 더 빨리 철수시킬 수는 없어?
+()<Speaker>댄들라이</Speaker>||:지금 최적의 퇴각 경로를 연산하고 있습니다. 포격으로 엄호하시겠습니까?+다만, 남은 탄은――
+()<Speaker>지휘관</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:남은 거 모조리 쏴 버려. 인형들이 한 명도 빠짐없이 돌아올 수 있도록 해.
+()||<BIN>41</BIN><黑屏2><BGM>BGM_Danger</BGM><SE2>Gunfight</SE2>:군부대에 의해 쑥대밭이 된 그리폰의 전선.
+()||:웰로드의 소대는 군 돌격대에게 쫓겨 궁지에 몰리고 말았다.
+Welrod(0)<Speaker>웰로드</Speaker>||:이제 끝인가...?
+NPC-Soldier(0)<Speaker>돌격대원</Speaker>||:죽어라!
+()||<SE1>AVG_rifle_finalshot_h</SE1>:타앙!+하지만 쓰러진 것은 군의 돌격대원이었다.
+NPC-Soldier(0)<Speaker>다른 돌격대원</Speaker>||:중사!
+()||<SE1>AVG_rifle_finalshot_h</SE1>:타앙!+다음 총성과 함께, 다른 돌격대원이 쓰러졌다.
+NPC-Soldier(0)<Speaker>돌격대장</Speaker>||:매복이다! 엄폐!
+()||<SE1>AVG_rifle_finalshot_h</SE1>:돌격대원은 가장 가까운 벽 뒤로 숨었지만, 총탄은 벽을 꿰뚫고 그의 가슴팍에 꽂혔다.
+IWS2000(0)<Speaker>IWS2000</Speaker>||:후아, 가까스로 늦지 않았네요!
+Welrod(0)<Speaker>웰로드</Speaker>;IWS2000(0)||:너희들은... D 그룹의 제대!
+Welrod(0);IWS2000(0)<Speaker>IWS2000</Speaker>||:역시 마지막으로 한 번 더 확인하길 잘했어요. 통신이 계속 먹통이라 다른 동료들과 흩어지고 말았거든요.+여러분도 저희랑 같이 철수해요!
+Welrod(0)<Speaker>웰로드</Speaker>||:아, 알았다!
+AUG(0)<Speaker>AUG</Speaker>||:덕분에 우리는 꼴찌로 복귀하는 제대일 겁니다. 시간이 없으니 서둘러 후퇴하죠.+지휘관님께서 열차가 곧 출발한다고 합니다.
+()||:웰로드는 L85A1을 등에 업었다.
+Welrod(0)<Speaker>웰로드</Speaker>||<黑点1>:그래, 어서 가자!
+()||<黑点2>:다른 한편...
+MAC10(1)<Speaker>MAC10</Speaker>||:이걸로 됐어... 다들... 지금쯤이면 무사히 돌아갔을 거야...
+MP41(0)<Speaker>MP41</Speaker>||:잠깐만요, 모두 정지!+여기 아직 정신이 있는 동료가 있어요!+이봐요, 이런 데서 주무시면 어떡해요? 우린 지금 실시간 백업이 불가능하다고요!
+MAC10(1)<Speaker>MAC10</Speaker>||:어... 넌, G 그룹의...?+너희는 분명...
+MP41(0)<Speaker>MP41</Speaker>||:엣헴, 겨우 포탄 몇 발에 눈 뜨고 당할 엘리트 소대가 아니라고요!+빨리 일어나요, 이러다 열차 놓치겠어요!
+98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>제가 엄호할 테니 어서 철수하세요.</color>
+MP41(0)<Speaker>MP41</Speaker>||:하아~ 선배는 항상 엄격하다니까요.+자, 어서 가죠. 당신네 소대원들이 기다리고 있을 거예요!
+MAC10(1)<Speaker>MAC10</Speaker>||<黑点1>:그래... 알았어, 가자!+일어나게 손 좀 잡아 줘!
+06TypeSMG(0)<Speaker>CF05</Speaker>||<黑点2>:쳇! 정말 성가시네!
+SL8(2)<Speaker>SL8</Speaker>||:후퇴가 우선이야, 총알을 아껴. 이쪽으로 오는 아군 더 없어?
+06TypeSMG(0)<Speaker>CF05</Speaker>||:글쎄, 없는 것 같은데... 우리도 그만 철수할까?
+SL8(2)<Speaker>SL8</Speaker>||:군은 생각보다 훨씬 막강하구나...+최대한 몸을 사렸다지만, 지금까지 살아남은 것만으로도 기적이야.
+06TypeSMG(0)<Speaker>CF05</Speaker>||:그럼 이제 돌아가는 거야?
+SL8(2)<Speaker>SL8</Speaker>||:그건 아니지! 조금만 더 기다려 보자, 또 누가 오는 중일지도 모르잖아.
+06TypeSMG(0)<Speaker>CF05</Speaker>||:헤헤헤, 그건 그래. 훠궈는 살아남아야만 먹을 수 있지만, 혼자서 먹으면 맛없다고.+아, 주의...! 전방에 미식별 물체 발견!
+SL8(2)<Speaker>SL8</Speaker>||:또 군의 돌격대인가? 상황이 이런데 또...
+06TypeSMG(0)<Speaker>CF05</Speaker>||<黑屏1>:어... 잠깐만... 아니야, 우리 인형들이야! 또 몇 명 생환하는구나!+자 자! 빨리 가서 도와주자!
+()||<黑屏2><BIN>202</BIN>:그리폰의 열차 지휘실.
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:지휘관님! 호출에 응답한 인형 모두가 복귀했습니다!+지금 바로 탑승시킬까요?
+()<Speaker>지휘관</Speaker>||:좋아! 모두 열차로 철수해 재정비한다!+댄들라이, 열차 움직일 수 있어?
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:전원 탑승까지 약 30초 소요됩니다.
+()<Speaker>지휘관</Speaker>||:알았다, 서둘러.
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:지휘관님, 리벨리온으로부터 통신 요청입니다. 연결할까요?
+()<Speaker>지휘관</Speaker>||:연결해.
+RPK16(0)<Speaker>RPK16</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>실례하겠습니다, 그리폰의 지휘관님. 방금 404소대의 대장이 직접 이 통신 채널을 공유해 줬거든요.</color>+<color=#00CCFF>지금 당신께 전달해야 할 조금 나쁜 소식이 있습니다.</color>+<color=#00CCFF>군이 북쪽의 격리벽을 폭파해 구멍을 뚫었습니다. 군더더기 없는 솜씨로 보아, 상당한 베테랑이에요.</color>+<color=#00CCFF>그리고 지금쯤이면 부대 하나가 구멍을 통해 안으로 진입했을 테죠.</color>+<color=#00CCFF>지휘관님드 그쪽으로 부대를 파견했겠지만, 저 경로라면 추월당할지도 몰라요.</color>+<color=#00CCFF>그러니 그쪽의 동향을 예의주시하세요.</color>
+()<Speaker>지휘관</Speaker>||:정보 고맙다. 우리 장갑 열차는 곧 격리벽으로 진입해, 다음 저지 작전을 진행하겠다.+지금 당장 가동할 수 있는 격리벽 방어 시설이 있을까? 공격 수단이라면 뭐든지 좋으니까.
+RPK16(0)<Speaker>RPK16</Speaker><通讯框>||:<color=#00CCFF>최선을 다해보겠습니다. 숨이 막혀 수면 밖으로 나온 물고기처럼요.</color>
+()<Speaker>지휘관</Speaker>||:어... 알았다.+카리나, AR팀과 연락 가능해?
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:문제없어요, 지금 바로 연결할게요.
+M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>지휘관님, 무사하신가요?</color>
+()<Speaker>지휘관</Speaker>||<黑屏1>:일단 공세는 어느 정도 막아냈지만, 너희도 서둘러야 해.+군이 격리벽에 구멍을 뚫고 들어와 그쪽으로 향했다는 보고다.+그들의 목적도 우리와 똑같아...+해안선의 포탑을 탈취할 속셈이야.

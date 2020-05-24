@@ -1,0 +1,68 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>게이저</Speaker>||<BIN>9</BIN><黑屏2>:나는... 나는...!+아직 쓰러질 수... 없어!
+BOSS-9(0)<Speaker>게이저</Speaker>||<黑屏1>:아키텍트가... 기다리고... 있단...
+98k(1)<Speaker>Kar98k</Speaker>||<BIN>9</BIN><黑屏2>:아직도 움직일 수 있다니... 하지만...
+()||<黑屏1>:폭발을 직격으로 맞은 게이저는 소체가 시커멓게 타 버렸고, 장갑도 고열을 버티지 못하고 조각조각 벗겨졌다.
+98k(1)<Speaker></Speaker>||<黑屏2><BIN>2</BIN><Night>:게이저의 코어가, Kar98k의 눈앞에 훤히 노출되었다.
+98k(1)<Speaker>Kar98k</Speaker>||:여기까지 온 이상... 그 아이의 기대를 저버릴 수는 없죠...
+()||:Kar98k는 힘겹게 상반신을 일으키고, 무릎에 총을 걸쳐 흔들리는 손으로 손잡이를 붙잡았다.
+98k(1)<Speaker>Kar98k</Speaker>||<SE1>AVG_weapon_reload</SE1>:조준...
+98k(1)<Speaker>Kar98k</Speaker>||:발사!
+()||<SE1>AVG_rifle_finalshot_h</SE1><BGM>BGM_Empty</BGM>:다시 한번 총성이 울려 퍼졌다.
+BOSS-7(0)<Speaker></Speaker>||<震屏>:게이저는 그 자리에 굳더니, 결국 균형을 잃고 땅에 고꾸라졌다.
+()||<黑点1>:그리고...
+()<Speaker></Speaker>||<BIN>7</BIN><Night><黑点2><黑点1>:StG44와 교전 중인 철혈 유닛도 고개를 떨구고 움직임을 멈췄다.
+98k(1)<Speaker></Speaker>||<黑点2><BIN>2</BIN><Night><SE1>Select</SE1>:Kar98k가 장전 손잡이를 당기자, 뜨거운 탄피가 경쾌한 소리와 함께 초연을 뿜으며 튕겨 나왔다.
+()||<白屏1>:그리고, 그녀는 총으로 몸을 지탱하며 일어섰다.
+()<Speaker></Speaker>||<BIN>2</BIN><白屏2><BGM>m_avg_hope</BGM>:저 멀리 지평선에서 마침 태양이 떠오르고 있었다.
+STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>카라비너 씨, 이쪽의 철혈들이 움직임을 멈췄어요.</color>+<color=#00CCFF>해낸 건가요?</color>
+98k(1)<Speaker>Kar98k</Speaker>;STG44Mod(0)<通讯框>||:네...
+STG44Mod(0)<Speaker>StG44</Speaker><通讯框>||:<color=#00CCFF>알겠습니다, 바로 그쪽으로 갈게요.</color>
+98k(1)<Speaker>Kar98k</Speaker>||<黑屏1>:작전... 종료...
+()<Speaker></Speaker>||<BIN>73</BIN><黑屏2><BGM>BGM_Empty</BGM>:...며칠 후.
+MP41(0)<Speaker>MP41</Speaker>||<BGM>BGM_Hello</BGM>:아 글쎄 정말이라니까요!?
+MP41(0);hk23(0)<Speaker>HK23</Speaker>||:네 네, 알았어요.+당신을 안 믿는 건 아니지만, 이미 지휘관님께서 제게 다른 임무를 배정하셨어요.
+MP41(0)<Speaker>MP41</Speaker>;hk23(0)||:전 게이저를 물리친 에이스라고요! 저와 함께 출격하는 건 출세할 기회라고요!
+MP41(0);hk23(0)<Speaker>HK23</Speaker>||:안 속아요. 카라비너 씨가 위로하는 차원에서 그렇게 말했겠죠.+정 그러면, 당신이 어떻게 게이저를 쓰러뜨렸는지 말해 보세요.
+MP41(0)<Speaker>MP41</Speaker>;hk23(0)||:어어... 그건... 저도 몰라요. 그때 소체가 파괴된 지라.
+MP41(0);hk23(0)<Speaker>HK23</Speaker>||:그것 보세요. 분명 당신은 전투가 시작되자마자 당했고, 카라비너 씨와 다른 분들이 게이저를 쓰러뜨린 거겠죠.+그리고 당신은 그게 다 자기 덕분이라고 떠벌리고 다니는 거고. 맞죠?+그럼 전 임무가 있으니까 이만 실례할게요.
+MP41(0)<Speaker>MP41</Speaker>||:아... 아니 잠깐만요, 그게 아니라니까요!
+g43(0)<Speaker>G43</Speaker>||:왜 그래 MP41, 또 사람 모으는 중이야? 파트너라면 내가 있잖아.
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:으음... 그래도 당신은 너무 약해서 말이죠... 역시 제 파트너로는 좀 더 우수한 인형이...
+MP41(0);g43(0)<Speaker>G43</Speaker>||:뭐어?! 내가 그때 널 위해서 얼마나 열심히 싸웠는데!
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:그랬나요? 전혀 기억이 없어서요.
+MP41(0);g43(0)<Speaker>G43</Speaker>||:당연히 없겠지! 기억이 없다고 아예 없는 일로 치지 말라고!
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:맞는 말이지만, 백업한 기억이 기지를 나설 때까지밖에 없어서 말이죠...+그때 우리가 추적하던 엘리트 인형도 다시 보지 못했고, 게이저를 쓰러뜨리는 데에 제가 얼마나 기여했는지도 모르고...
+MP41(0);g43(0)<Speaker>G43</Speaker>||:우리가 도착했을 때, 넌 흔적도 안 남았어...+카라비너 씨도 중상이어서 바로 수복실로 보내져서, 나도 무슨 일이 있었는지 전혀 모른다니까...
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:아 정말 쓸모없는 파트너네요!+역시 당신이 저지른 일을 지휘관님께 일러바쳐야겠어요!
+MP41(0);g43(0)<Speaker>G43</Speaker>||:네 허무맹랑한 작전에 어울려 줬잖아! 약속은 지켜야지!
+MP41(0)<Speaker>MP41</Speaker>;g43(0)||:그럼 뭐해요, 공을 전혀 세우지 못했는데! 사사오입해서 그냥 안 한 거나 마찬가지예요!
+MP41(0);g43(0)<Speaker>G43</Speaker>||:순 억지야...
+g43(0)<Speaker>G43</Speaker>||:그러는 게 어디 있어...
+98k(0)<Speaker>？？？</Speaker>||:아뇨, 당신의 공적은 제가 똑똑히 기억하고 있답니다.
+MP41(0)<Speaker>MP41</Speaker>||:이 목소리는... 98k 언니!
+MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:카라비너 선배예요.+그것까지 기억 못 하다니...
+MP41(0)<Speaker>MP41</Speaker>;98k(0)||:그런가요? 흐음, "카라비너 선배"라 부르는 것도 나름 괜찮네요.+저기 선배, 게이저를 물리칠 때 제가 뭘 어떻게 했나요?+정말 시작하자마자 당한 건 아니죠?
+MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:물론 아니죠. 자세하게 알려 줄게요. 하지만 그전에... 마침 관측병과 부사수가 필요한데 말이죠.+제 제대에 들어올 의향 있나요?
+g43(0)<Speaker>G43</Speaker>;98k(0)||:네?! 정말요!?
+MP41(0)<Speaker>MP41</Speaker>;98k(0)||:후후후... 역시 엘리트 인형으로서 자신의 공적을 증명할 증인이 필요한 거군요?+그런 속셈은 뻔히 보인다고요.
+MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:이건 당신의 공적에 대한 포상이랍니다.+그리고 따라올 생각이 없으면, 그때 당신의 행적도 영영 알 수 없을걸요?
+MP41(0)<Speaker>MP41</Speaker>;98k(0)||:아, 그렇지!+그럼 어쩔 수 없네요. 히히히, 안 그래도 군수 지원 임무도 질렸으니, 일자리를 옮기는 것도 괜찮죠.
+MP41(0);98k(0)<Speaker>Kar98k</Speaker>||:그럼 지휘관님께 신청서를 제출하세요. 미리 얘기했으니, 두 분이 동의하면 바로 처리될 거예요.
+MP41(0)<Speaker>MP41</Speaker>||:오오! 좋아요, 오늘부터 선배를 악착같이 감시할 테니까 각오하세요! 빨리 가요 G43 씨!
+g43(0)<Speaker>G43</Speaker>||:응!
+()||<BGM>BGM_Empty</BGM>:두 인형은 발걸음을 서둘러 사격 훈련장을 나섰다. 도중에 누구와 부딪히기라도 했는지, 짧은 비명도 들렸다.
+STG44Mod(0)<Speaker>StG44</Speaker>||:아, 카라비너 씨. 벌써 수복이 끝나셨네요?
+STG44Mod(0);98k(0)<Speaker>Kar98k</Speaker>||:네.
+STG44Mod(0)<Speaker>StG44</Speaker>;98k(0)||:그런데... 정말 저 둘을 영입하실 건가요?
+STG44Mod(0);98k(0)<Speaker>Kar98k</Speaker>||:여태까지 줄곧 단독 작전만 해왔으니, 저도 이참에 스타일을 바꿔 보려고요. 설마, 제가 직접 스카우트해서 샘이 난 건 아니죠?
+STG44Mod(0)<Speaker>StG44</Speaker>;98k(0)||:하하, 차라리 "철혈들이 우리를 불쌍히 여겨 자폭했다"라고 말하는 편이 나을걸요.
+STG44Mod(0);98k(0)<Speaker>Kar98k</Speaker>||:후후훗, 저도 약속을 지켜야 하니까요.
+STG44Mod(0)<Speaker>StG44</Speaker>;98k(0)||:약속이요?
+STG44Mod(0);98k(0)<Speaker>Kar98k</Speaker>||<BGM>BGM_Sunshine</BGM>:네, 저 아이의 활약을 기록하겠어요. 모든 싸움이 끝나는 그 날까지.
+STG44Mod(0)<Speaker>StG44</Speaker>;98k(0)||:어머, 그런 약속까지 했어요?+하긴... 그날 저 둘이 없었다면, 정말 임무에 실패했을지도 모르겠네요.
+STG44Mod(0);98k(0)<Speaker>Kar98k</Speaker>||:싸움으로 저 둘은 변했어요. 그리고 우리도요.
+98k(0)<Speaker>Kar98k</Speaker>||:자, 우리도 가죠. 지휘관님께서 다음 임무를 하달하셨어요.
+STG44Mod(0)<Speaker>StG44</Speaker>||:무슨 임무인가요?
+98k(0)<Speaker>Kar98k</Speaker>||:어느 인형의 소중한 장비를 도둑맞았어요.+둘이 돌아오기 전에 해치우죠.
+STG44Mod(0)<Speaker>StG44</Speaker>||<黑屏1>:마지막 단독 작전인가요... 저도 조용한 임무는 이게 마지막이겠네요.

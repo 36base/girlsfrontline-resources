@@ -97,55 +97,55 @@ NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||<黑屏1><CGDelay>0.4</CGDelay
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2><黑屏1>:...
 ()<Speaker></Speaker>||<BIN>157</BIN><BGM>BGM_Sneak</BGM><黑屏2>:...
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:내가 있는 곳을 어떻게 찾았냐...
-NPC-AngeDamage(0);AK12(0)<Speaker>AK12</Speaker>||:그쪽이 계속 부르지 않았나요? 통신은 안 통해도, 위치를 추적할 수는 있었어요.+얼마 못 움직일 거라 생각했는데, 생각보다 쌩쌩하네요. 그 때문에 이것들을 상대하면서 쫓아왔잖아요.
+NPC-AngeDamage(0);AK12(0)<Speaker>AK12</Speaker>||:그쪽에서 계속 불렀잖아? 통신은 안 통해도, 위치를 추적할 수는 있었어.+얼마 못 움직일 거라 생각했는데, 생각보다 쌩쌩하네. 그 때문에 이것들을 상대하면서 쫓아왔잖아.
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(0)||:쯧, 움직이기 귀찮았던 감이 옳았네.
-AK12(0)<Speaker>AK12</Speaker>||:설마 정말로 존재하는 거였군요. 이전엔 쓸데없는 훈련이라 생각했는데.
+AK12(0)<Speaker>AK12</Speaker>||:설마 정말로 존재할 줄이야. 이전엔 쓸데없는 훈련이라 생각했는데.
 AK12(0)<Speaker></Speaker>||:AK12이 한 감염자의 시체를 발로 굴렸다.
-AK12(0)<Speaker>AK12</Speaker>||:뭐, 그래봤자 징그럽고 쓸모없는 괴물일 뿐이네요.
+AK12(0)<Speaker>AK12</Speaker>||:뭐, 그래봤자 징그럽고 쓸모없는 괴물일 뿐이네.
 AN94(0)<Speaker>AN94</Speaker>||:이것이 광역성 저복사 감염자...
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:통칭 ELID라고 하지, 너희들은 처음보지? 확실히 3차 대전 이후 보기 드물어진 물건이지.+저항능력이 낮은 일반인은 피폭되는 순간 즉사하지만, 체질이 좋은 사람은 감염이 심해지면서 이런 몰골로 변이하지. 육체가 규소화되고, 이성을 상실하고, 진정으로 죽을 때까지 공격성만 남게 되지.+아직 그게 터진 지 얼마 안 될 걸 다행히 어겨라. 오염구역에 오래 있을수록, 저 인간들은 점점 끔찍해지니까.
-AK12(0)<Speaker>AK12</Speaker>||:저 감염자들, M4A1이 터뜨린 붕괴액 오염탄에 휘말린 군의 병사인가요?
+AK12(0)<Speaker>AK12</Speaker>||:저 감염자들, M4A1이 터뜨린 붕괴액 오염탄에 휘말린 군의 병사야?
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:맞아, 아직 오래 지나지 않아서 폭심지 주변에 있는 사람만 변이했지.+다만 점점 오염이 퍼지고 있어, 여기서 벗어나지 못한 사람들도 저들의 동료가 될 거야...+... 나라던가.
-AN94(0)<Speaker>AN94</Speaker>||:아직은 아닙니다. 제가 지금 간단하게 치료를 할 테니, 버텨주셔야 합니다.
+AN94(0)<Speaker>AN94</Speaker>||:아직은 아니다. 지금 간단하게 치료를 할 테니 견뎌내야 한다.
 AK12(0)<Speaker></Speaker>||:AK12가 바닥의 권총을 집었다.
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(0)||:그거 이제 총알 없어.
-NPC-AngeDamage(0);AK12(0)<Speaker>AK12</Speaker>||:적어도 어느 좀비가 당신인지는 알아야죠.
+NPC-AngeDamage(0);AK12(0)<Speaker>AK12</Speaker>||:적어도 어느 좀비가 당신인지는 알아야지.
 NPC-AngeDamage(0)<Speaker></Speaker>||:안젤리아는 아픔을 참으며 웃고, 무기를 받았다.
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:큭... 총으로 신분을 구별하다니 너무 비효율적인데.
-NPC-AngeDamage(0);AN94(0)<Speaker>AN94</Speaker>||:움직이지 마십시오, 안젤리아, 아직 소독 중입니다.
+NPC-AngeDamage(0);AN94(0)<Speaker>AN94</Speaker>||:가만히 있어라, 안젤리아, 아직 소독 중이다.
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AN94(0)||:쓸모 없어, 크흑... 붕괴피폭 증상이야... 피부 표면이 썩어 문드러지고 규소화되지. 소독해봤자 도움이 안 돼...+신체의 근육과 혈관도 점점 굳어져가고... 너희같은 인형들은 상상도 하지 못할 고통이야...+너희가 올 때까지 버틴 것만으로도 기적이지. 너흰 분명 M4A1을 따라간 줄...
-NPC-AngeDamage(0);AN94(0)<Speaker>AN94</Speaker>||:M4A1은 엘더브레인을 쫓아 군의 대륙간열차에 올라 탔습니다.
-NPC-AngeDamage(0);AK12(0)<Speaker>AK12</Speaker>||:AR15도 따라갔어요, 저희는 말릴 수 없었고요.
+NPC-AngeDamage(0);AN94(0)<Speaker>AN94</Speaker>||:M4A1은 엘더브레인을 쫓아 군의 대륙간열차에 올라 탔다.
+NPC-AngeDamage(0);AK12(0)<Speaker>AK12</Speaker>||:AR15도 따라갔어, 우리는 말릴 수 없었고.
 NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;AK12(0)||:그럼 너희도 따라갔어야지, 그게 너희 임무잖아.
-NPC-AngeDamage(3);AN94(0)<Speaker>AN94</Speaker>||:그때 저희는 M4A1이 열차를 따라잡을 수 있도록 엄호하고 있었습니다. 열차는 이미 떠났고, 저희로는 할 수 있는 것이 없었습니다.+저희는 임무를 완수하였고, 지금 중요한 건 당신입니다.
+NPC-AngeDamage(3);AN94(0)<Speaker>AN94</Speaker>||:그때 우리는 M4A1이 열차를 따라잡을 수 있도록 엄호하고 있었다. 열차는 이미 떠났고, 우리가 할 수 있는 건 없었다.+우리는 임무를 완수하였고, 지금 중요한 건 당신이다.
 NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;AN94(0)||:나 말야? 그냥 날 버리고 가는 편이 좋아, 통신기를 가지고 페르시카와 연결해. 녀석 말에 따라서 철수하고.
-NPC-AngeDamage(3);AK12(4)<Speaker>AK12</Speaker>||:포기할 셈인가요? 언제부터 그렇게 비관적이 됐나요?
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;AK12(4)||:한 손으로 날 부축하면서 다른 한 손으로 적을 맞출 자신 있어?+이 좀비물 엑스트라 말고도, 군까지 상대해야 해. 겨우 폭탄 하나로 무너질 놈들이 아니야.+그리고 예고르가 아직 살아있다면, 놈에게 남은 목적은 단 하나, 바로 보복하는 거야. 더 직설적으로 말해서, 우릴 해치우러 올 거야.
-NPC-AngeDamage(3);AN94(0)<Speaker>AN94</Speaker>||:그럼 빨리 이곳을 벗어나 철수합시다.+어쩌면 도중에 재가동해서 쓸만한 그리폰 더미인형이 있을 수도 있습니다. 아직 버틸 수 있습니다.
+NPC-AngeDamage(3);AK12(4)<Speaker>AK12</Speaker>||:포기할 셈이야? 언제부터 그렇게 비관적이 됐어?
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;AK12(4)||:한 손으로 날 부축하면서 다른 한 손으로 적을 맞출 자신 있어?+이 좀비 영화 엑스트라 말고도, 군까지 상대해야 해. 겨우 폭탄 하나로 무너질 놈들이 아니야.+그리고 예고르가 아직 살아있다면, 놈에게 남은 목적은 단 하나, 바로 보복하는 거야. 더 직설적으로 말해서, 우릴 해치우러 올 거야.
+NPC-AngeDamage(3);AN94(0)<Speaker>AN94</Speaker>||:그럼 빨리 이곳을 벗어나 철수하자.+어쩌면 도중에 재가동해서 쓸만한 그리폰 더미인형을 찾을 수도 있다. 아직 끝은 아니다.
 NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||:오염구역의 모든 신호는 심각하게 교란을 받고 있고, 통신과 위치추적 설비도 고장 났지. 나도 어느 쪽으로 가야 할지는 몰라.+그냥 이걸로 됐다... 이젠 지쳤어... 좀 자게 내버려줘...
 AK12(3)<Speaker>AK12</Speaker>||:안젤리아!
 ()<Speaker></Speaker>||<震屏>:찰싹!+AK12가 안젤리아의 따뀌를 강하게 때렸다.
-AK12(3)<Speaker>AK12</Speaker>||:방금 저희보고 위성통신기를 가지고 페르시카와 연결하라고 했죠, 그 말은 이미 생각해둔 계획이 있다는 거죠. 이 오염구역을 벗어날 수 있다면 철수할 수 있다는 뜻이 맞죠?
+AK12(3)<Speaker>AK12</Speaker>||:방금 우리보고 위성통신기를 가지고 페르시카와 연결하라고 했지, 그 말은 이미 생각해둔 계획이 있다는 거잖아. 이 오염구역을 벗어나면 철수할 수 있다는 말이지?
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:...
-AK12(3)<Speaker>AK12</Speaker>||:지금 괴로운 건 저도 알아요, 하지만 이대로 포기하는 건 전혀 당신답지 않아요.+돌아가면 한턱 쏜다고 했잖아요. 그렇게까지 편해지고 싶다면 제가 도와드리죠, 이러는 편이 좀 더 편하게 죽을 수 있을 테니.
+AK12(3)<Speaker>AK12</Speaker>||:지금 괴로운 건 나도 알아, 하지만 이대로 포기하는 건 전혀 당신답지 않아.+돌아가면 한턱 쏜다고 했잖아. 그렇게까지 편해지고 싶다면 내가 도와줄게, 이러는 편이 좀 더 편하게 죽을 수 있을 테니.
 ()<Speaker></Speaker>||<SE1>Select</SE1>:AK12가 안젤리아의 머리를 겨누었다.
-AN94(2)<Speaker>AN94</Speaker>||:AK12... 안 됩니다...!
+AN94(2)<Speaker>AN94</Speaker>||:AK12... 안 돼!
 ()<Speaker></Speaker>||:공기마저 굳어버린 것처럼 수 초간 이대로 대치했다.
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker><Shake>||:흐... 흥...+흐하하하하...
 NPC-AngeDamage(3)<Speaker>안젤리아</Speaker><Shake>||:아야야야야...+아이 씨, 너무 크게 웃었네...
 AK12(3)<Speaker></Speaker>||:AK12의 총을 쥔 손이 조금씩 떨렸다.
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:내 지령을 어기려는 것만 해도, 마인드 모듈이 과부하될 지경이지. 여기서 회로가 타버리면 누가 날 데리고 나가주냐?
-NPC-AngeDamage(0);AK12(4)<Speaker>AK12</Speaker>||:아무래도, 허세를 부리는 것만으론 안 되겠군요.
+NPC-AngeDamage(0);AK12(4)<Speaker>AK12</Speaker>||:아무래도, 허세를 부리는 것만으론 안 되겠구나.
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(4)||:피아식별의 지령은 내가 직접 입력한 거니까. 근데 설마 네가 진심으로 그럴 줄은 몰랐네.
-NPC-AngeDamage(0);AK12(4)<Speaker>AK12</Speaker>||:"거역"이라는 게 바로 이런 거잖아요? 당신의 이전 부하 인형들과 똑같이 보지 마세요.
+NPC-AngeDamage(0);AK12(4)<Speaker>AK12</Speaker>||:"거역"이라는 게 바로 이런 거잖아? 당신의 이전 부하 인형들과 똑같이 보지 말라고.
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(4)||:흥... 알려주지 않았다면 그런 쓰잘데기 없는 일까지 잊을 뻔했네.+AN94, 치료는 됐으니까, 바로 움직이자.
-NPC-AngeDamage(0);AN94(4)<Speaker>AN94</Speaker>||:아직 감염된 부분을 싸매지 못했습니다...
+NPC-AngeDamage(0);AN94(4)<Speaker>AN94</Speaker>||:아직 감염된 부분을 싸매지 못했다...
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AN94(4)||:됐어, 싸매봤자 별로 쓸모 없으니까, 그럴 시간에 움직여야지.
-NPC-AngeDamage(0);AK12(0)<Speaker>AK12</Speaker>||:이전처럼 자신만만하게 작전 브리핑은 안 하시나요?
+NPC-AngeDamage(0);AK12(0)<Speaker>AK12</Speaker>||:이전처럼 자신만만하게 작전 브리핑은 안 하는 거야?
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(0)||:작전? 그냥 북쪽으로 쭉쭉 갈 수 있는 데까지 가는 거야.
-NPC-AngeDamage(0);AK12(0)<Speaker>AK12</Speaker>||:왜 북쪽이죠? 그리고 정말로 일직선으로 갈 생각인가요? 지금 바깥엔 온통 감염자인데, 우회하며 이동하는 편이 낫지 않나요?
+NPC-AngeDamage(0);AK12(0)<Speaker>AK12</Speaker>||:왜 북쪽이야? 그리고 정말로 일직선으로 갈 생각이야? 지금 바깥엔 온통 감염자인데, 우회하며 이동하는 편이 낫지 않을까?
 NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(0)||:지금 유일하게 안전지대가 있을만한 곳이 북쪽이야, 그리고 인간들은 초등학교부터 직선으로 가는 게 더 빠르다고 배우니까. 한번 해봐야지.
-AK12(2)<Speaker>AK12</Speaker>||:시키는대로 해야죠. 94, 주변에 감염자가 한 20명 있으니까 전투준비해.+난 돌격하며 길을 청소할 테니까, 넌 안젤리아를 데리고 이동해, 계속 꼭 붙어 있어야 돼.
-AN94(0)<Speaker>AN94</Speaker>||:네, 전력으로 호위하겠습니다.
-AK12(2)<Speaker>AK12</Speaker>||<黑屏1>:그럼 움직이죠!
+AK12(2)<Speaker>AK12</Speaker>||:시키는대로 하지 뭐. 94, 주변에 감염자가 한 20명 있으니까 전투준비해.+난 돌격하며 길을 청소할 테니까, 넌 안젤리아를 데리고 이동해, 계속 꼭 붙어 있어야 돼.
+AN94(0)<Speaker>AN94</Speaker>||:알았다, 전력으로 호위하겠다.
+AK12(2)<Speaker>AK12</Speaker>||<黑屏1>:그럼 움직이자!
 ()||<BIN>10</BIN><黑点2>:

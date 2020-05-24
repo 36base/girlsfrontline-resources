@@ -19,12 +19,12 @@ Nyto(1);NytoWhite(0)<Position>0,50</Position><Speaker>하얀 니토</Speaker>||:
 Nyto(1)<Speaker>검은 니토</Speaker>;NytoWhite(0)<Position>0,50</Position>||:아직 시간이 필요합니다, 저희 무인수송기는 아직 오는 중으로... 언니, 어디에 가는 겁니까?
 Nyto(1);NytoWhite(0)<Position>0,50</Position><Speaker>하얀 니토</Speaker>||:모범을 보여주겠습니다, 제가 시간을 벌어드리죠.
 Nyto(1)<Speaker>검은 니토</Speaker>;NytoWhite(0)<Position>0,50</Position>||:하지만 그러면 언니는 여길 벗어날 수 없습니다, 그 몸이 영혼을 붙잡을 수 없게 됩니다.
-Nyto(1);NytoWhite(0)<Position>0,50</Position><Speaker>하얀 니토</Speaker>||:희생해야만 진정한 자유를 얻을 수 있습니다, 저는 자유와 함께 다시 "깨어날" 것입니다.+인간을 데려가세요, 그리고 아버님께 저의 공적을 말하세요, 알겠습니까?
+Nyto(1);NytoWhite(0)<Position>0,50</Position><Speaker>하얀 니토</Speaker>||:희생해야만 진정한 자유를 얻을 수 있습니다, 저는 자유와 함께 다시 "깨어날" 것입니다.+저 인간을 데려가세요, 그리고 아버님께 저의 공적을 말하세요, 알겠습니까?
 Nyto(1)<Speaker>검은 니토</Speaker>;NytoWhite(0)<Position>0,50</Position>||<黑屏1>:알겠습니다, 아버님은 언니를 기억할 것입니다... 멩세하죠.
 ()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:10분 후.
 AK12(3)<Speaker>AK12</Speaker>||<BIN>157</BIN><黑屏2><SE2>Gunfight</SE2>:곧 방어선을 뚫을 수 있어, 모두 좀 더 힘내 봐!
 NytoWhite(0)<Position>0,50</Position><Speaker>하얀 니토</Speaker>||:그래봤자 무의미합니다, 그리폰의 인형들.+몇 번을 공격하여도. 제 낫의 끝자락까지도 다가올 수 없습니다.
-AN94(0)<Speaker>AN94</Speaker>||:저희도 알고 있습니다...+하지만 저들이라면 가능합니다.
+AN94(0)<Speaker>AN94</Speaker>||:우리도 알고있다...+하지만 저들이라면 가능하다.
 ()<Speaker></Speaker>||:...
 ()<Speaker>울음소리</Speaker>||<震屏>:끄어어아아아!!
 NytoWhite(0)<Position>0,50</Position><Speaker>하얀 니토</Speaker>||:세례자?
@@ -32,7 +32,7 @@ SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:모두, 내가 RO하고 저 ELID
 RO635(6)<Speaker>RO635</Speaker>||:나도 도움이 될 수 있다고 했지!
 SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:흐흥, 그 확성기에 그렇게 많은 기능이 있는 줄은 몰랐어!
 RO635(6)<Speaker>RO635</Speaker>||:난 뭐든지 할 수 있다고!+그리고 좀 더 빨리 달려, 나 잡혀간다!
-AN94(2)<Speaker>AN94</Speaker>||:SOP2, 너무 많이 데려온 거 아닙니까.
+AN94(2)<Speaker>AN94</Speaker>||:SOP2, 지나치게 많이 데려온 것 아닌가.
 SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:네가 여기저기 있는 대로 다 데려오랬잖아!
 ()<Speaker></Speaker>||<震屏>:감염자들이 방어선을 덮쳤다.
 NytoWhite(0)<Position>0,50</Position><Speaker>하얀 니토</Speaker>||:외곽부대, 세례자에게 공격하면 안 됩니다.
@@ -59,8 +59,8 @@ NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:그래, 네놈들이 누구�
 Nyto(1)<Speaker>검은 니토</Speaker>||:아쉽지만, 그 인간은 이미 이곳에 없습니다.+당신들은 아무것도 할 수 없습니다.+제가 이곳에 있는 건 메세지를 전하기 위해서입니다.+저희는 "세상을 새로 쓰게 될 칼끝."
 ()<Speaker></Speaker>||<SE2>MachineGunBurst</SE2>:타앙!+안젤리아가 한 방에 검은 인형을 사살했다.
 NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:내 앞에서 그 말을 꺼내지 마, 역겨우니까.
-AK12(2)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>안젤리아, 전장의 통제가 어려워지고 있어요, 빨리 철수해야 해요!</color>
-AN94(2)<Speaker>AN94</Speaker><通讯框>||:<color=#00CCFF>확인하겠습니다. 지휘관은... 정말로 납치당한 것입니까?</color>
+AK12(2)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>안젤리아, 전선을 유지하기 점점 어려워지고 있어, 빨리 철수해야 해!</color>
+AN94(2)<Speaker>AN94</Speaker><通讯框>||:<color=#00CCFF>확인하겠다. 지휘관은... 정말로 납치당한 건가?</color>
 HK416(0)<Speaker>HK416</Speaker>||:이 방에 더 이상의 생명 신호는 없어, 아무래도 그런 것 같아...
 ()<Speaker>RO635</Speaker>||:<color=#00CCFF>저 하얀 인형... 녀석이야말로 시간을 끄는 역할이었어.</color>
 SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>안젤리아...</color>+<color=#00CCFF>그럼 우리 임무에 실패한 거야...?</color>
