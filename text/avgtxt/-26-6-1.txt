@@ -2,24 +2,24 @@
 ()||<BIN>157</BIN><BGM>BGM_Room</BGM><黑屏2>:
 ()||:끝내 리벨리온은 구조대가 남긴 신호를 찾는 것에 성공했다.
 SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:서프라아아이즈!+꺄하하하! 드디어 찾았다, 리벨리온!
-AN94(2)<Speaker>AN94</Speaker>||:입보다 몸이 좀 더 빨랐다면, 적으로 인식해 공격할 뻔했습니다.
+AN94(2)<Speaker>AN94</Speaker>||:입보다 몸이 좀 더 빨랐다면, 적으로 인식해 공격할 뻔했다.
 HK416(0)<Speaker>HK416</Speaker>||:미안, 이쪽은 AR팀의 M4 SOPMOD2, 이쪽이 리벨리온의 AK12와 AN94. 그리고 나는 HK416, 양쪽 다 날 알겠지.
-AN94(0)<Speaker>AN94</Speaker>||:꼭 보고 싶은 건 아니었지만, 지금으론 어쩔 수 없습니다.
+AN94(0)<Speaker>AN94</Speaker>||:꼭 보고 싶은 건 아니었지만, 지금으론 어쩔 수 없군.
 HK416(0)<Speaker>HK416</Speaker>||:맞아, 지금 서로 친해질 시간은 없어, 본론이나 말하자. 안젤리아는 어디 있어, 지금 어때?
 HK416(0)<Speaker></Speaker>||:AN94의 뒤를 보자, 안젤리아는 AK12의 등 위에 업혀있었다.
 AN94(2)<Speaker>AN94</Speaker>||:안젤리아... 안젤리아는...
 AK12(2)<Speaker>AK12</Speaker>||:몇 분 전... 심각하게 피폭되서 잠시 기절한 상태야.+우리가 신호를 찾느라 시간을 너무 쓴 탓에... 다만 목숨에 지장은 없어, 그저 잠시 동안은 우리 스스로 싸워야 한다는 거지.
 HK416(0)<Speaker>HK416</Speaker>||:아쉽게 됐네, 나중에 다시 인사할 수밖에.+하지만 지금 우리뿐만인 건 아니야. 지휘관님과 중화기부대까지 있어.
-AN94(5)<Speaker>AN94</Speaker>||:중화기... 네?
+AN94(5)<Speaker>AN94</Speaker>||:중화기... 라고?
 SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:우리의 새 장난감이야! 지금 원거리에서 지원해주고 있어. 탱크를 상대하는 데는 전문가라고, 너희도 마음에 들어 할 거야!
 AK12(0)<Speaker>AK12</Speaker>||:그럼 아직 할만하네, 그럼 이제 어떡할지 생각해봐.
-AN94(0)<Speaker>AN94</Speaker>||:이곳의 오염지수는 매우 낮습니다. 비록 아직 안전한 것은 아니지만, 잠시 동안은 안젤리아에게 치명적이진 않을 겁니다.
+AN94(0)<Speaker>AN94</Speaker>||:이곳의 오염지수는 매우 낮다. 비록 아직 안전한 것은 아니지만, 잠시 동안은 안젤리아에게 치명적이진 않을 것이다.
 RO635(6)<Speaker>RO635</Speaker>||:그럼 계속 오염이 낮은 구역으로 이동하자, 안젤리아도 이 상태론 오래 못 버틸 거야.
 AK12(3)<Speaker>AK12</Speaker>||:어라? 어디서 말소리가 나오는 거지?
 RO635(6)<Speaker>RO635</Speaker>||:아, 난 신경 쓰지 마, 그냥 좀 의견을 말한 거니까...
-AN94(2)<Speaker>AN94</Speaker>||<SE1>Reload</SE1><BGM>BGM_Empty</BGM>:잠깐, 소리가 들립니다!
-AK12(2)<Speaker>AK12</Speaker>||<BGM>BGM_Danger</BGM><SE1>Gunfight</SE1><SE2>MachineGunBurst</SE2>:군의 인형이야! 우리를 향해 달려오고 있어!
-AN94(2)<Speaker>AN94</Speaker>||<黑屏1><SE1>RunStep</SE1>:전방에 폐기된 방어선이 있습니다, 우선 안젤리아를 데리고 숨으십시오!
+AN94(2)<Speaker>AN94</Speaker>||<SE1>Reload</SE1><BGM>BGM_Empty</BGM>:잠깐, 소리가 들린다!
+AK12(2)<Speaker>AK12</Speaker>||<BGM>BGM_Danger</BGM><SE1>Gunfight</SE1><SE2>MachineGunBurst</SE2>:군의 인형이야! 우리 쪽으로 달려오고 있어!
+AN94(2)<Speaker>AN94</Speaker>||<黑屏1><SE1>RunStep</SE1>:전방에 폐기된 방어선이 있다, 우선 안젤리아를 데리고 숨어라!
 ()||<BIN>9</BIN><SE1>Explode</SE1><SE2>Gunfight</SE2><闪屏><duration>5</duration></闪屏>:쾅! 쾅!
 AK12(2)<Speaker>AK12</Speaker>||:모두 서둘러! 다 왔어!
 HK416(3)<Speaker>HK416</Speaker>||<黑屏1>:화력소대, 엄호해줘!
@@ -29,8 +29,8 @@ SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:아직 비장의 카드가 잔�
 ()<Speaker>？？</Speaker>||:<color=#00CCFF>안젤리아...</color>+<color=#00CCFF>과연 나를 실망시키지 않는군.</color>
 ()||<SE2>Gunfight</SE2>:총소리와 노이즈 속에서 한 남자의 목소리가 뚜렷하게 통신기의 공개채널에서 흘러나왔다.
 NPC-YegorDamage(0)<Speaker>예고르</Speaker><通讯框>||:<color=#00CCFF>네년이 그 폭발에서 살아남을 수 있었던 건, 내가 이 손으로 널 죽일 수 있게 하기 위해서였지.</color>
-AK12(2)<Speaker>AK12</Speaker>;NPC-YegorDamage(0)||:안젤리아는 이미 죽었어요, 포기하세요!
-AK12(2);NPC-YegorDamage(0)<Speaker>예고르</Speaker><通讯框>||:<color=#00CCFF>과연 그럴까, 그저 기절한 것인 건 알고 있다. 네놈들이 이곳에 올 것 알고 있는 것처럼.</color>
+AK12(2)<Speaker>AK12</Speaker>;NPC-YegorDamage(0)||:안젤리아는 이미 죽었어, 그만 포기해!
+AK12(2);NPC-YegorDamage(0)<Speaker>예고르</Speaker><通讯框>||:<color=#00CCFF>과연 그럴까, 기절했을뿐인 건 알고 있다. 네놈들이 이곳에 올 것 알고 있는 것처럼.</color>
 HK416(0)<Speaker>HK416</Speaker>;NPC-YegorDamage(0)||:우리가 올 것을 예상했어... 그린존으로 통하는 길목이 이곳뿐인 것을 알고 있었어!
 NPC-YegorDamage(0)<Speaker>예고르</Speaker><通讯框>||:<color=#00CCFF>안젤리아, 네년은 포격으로 죽이지 않겠다.</color>+<color=#00CCFF>그래야 이 손으로 널 끄집어내 내 부하를 위해 복수를 할 수 있으니 말이다!</color>
 ()||:예고르가 통신을 끊었다.

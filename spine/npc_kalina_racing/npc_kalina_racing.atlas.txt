@@ -1,0 +1,258 @@
+
+NPC_kalina_racing.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armL1
+  rotate: false
+  xy: 270, 3
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+armL2
+  rotate: false
+  xy: 227, 2
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+armL3
+  rotate: false
+  xy: 305, 29
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+armL3r
+  rotate: false
+  xy: 65, 4
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+armL3r2
+  rotate: true
+  xy: 289, 26
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+armR1
+  rotate: true
+  xy: 138, 2
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+armR2
+  rotate: false
+  xy: 166, 2
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+armR3
+  rotate: true
+  xy: 249, 2
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+armR3r1
+  rotate: false
+  xy: 306, 54
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+armR3r2
+  rotate: false
+  xy: 399, 71
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+ban
+  rotate: false
+  xy: 238, 51
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+bodyD
+  rotate: false
+  xy: 199, 51
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+bodyU
+  rotate: true
+  xy: 470, 99
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+eyeL
+  rotate: true
+  xy: 196, 13
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+eyeL1
+  rotate: true
+  xy: 194, 32
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+eyeL5
+  rotate: true
+  xy: 36, 3
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+eyeR
+  rotate: false
+  xy: 138, 27
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+eyeR1
+  rotate: false
+  xy: 335, 61
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+eyeR5
+  rotate: true
+  xy: 260, 24
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 85, 61
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+hairB
+  rotate: false
+  xy: 2, 56
+  size: 81, 70
+  orig: 81, 70
+  offset: 0, 0
+  index: -1
+hairFL
+  rotate: true
+  xy: 333, 94
+  size: 32, 68
+  orig: 32, 68
+  offset: 0, 0
+  index: -1
+hairFM
+  rotate: false
+  xy: 2, 2
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+hairFR
+  rotate: true
+  xy: 153, 85
+  size: 41, 90
+  orig: 41, 90
+  offset: 0, 0
+  index: -1
+hairFR2
+  rotate: true
+  xy: 36, 20
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+hairS
+  rotate: false
+  xy: 403, 90
+  size: 29, 10
+  orig: 29, 10
+  offset: 0, 0
+  index: -1
+hairT
+  rotate: false
+  xy: 403, 102
+  size: 65, 24
+  orig: 65, 24
+  offset: 0, 0
+  index: -1
+horsetail 2
+  rotate: false
+  xy: 85, 2
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+horsetail1
+  rotate: true
+  xy: 245, 83
+  size: 43, 86
+  orig: 43, 86
+  offset: 0, 0
+  index: -1
+legL1
+  rotate: false
+  xy: 167, 25
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+legL2
+  rotate: true
+  xy: 364, 67
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+legR1
+  rotate: true
+  xy: 227, 24
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+legR2
+  rotate: true
+  xy: 271, 55
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 434, 92
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 196, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+skrit
+  rotate: false
+  xy: 153, 58
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1

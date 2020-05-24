@@ -1,0 +1,27 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><SE1>Battlefield</SE1>:그리폰의 열차 지휘실.
+지휘관()<Speaker>지휘관</Speaker>||<BGM>BGM_War</BGM>:댄들라이, 현재 상황은?
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:계획대로 군의 스캔을 방해하여, 아군의 매복 진지는 발각되지 않았습니다.+군의 일부 자율 유닛도 탈취했지만, 적도 즉시 신호를 차단하여 더 많은 병력을 탈취하기는 어렵습니다.
+NytoIsomer(3)<Speaker>지휘관</Speaker>||:그밖에는?
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:잠깐... 군이 제 해킹에 저항하면서 아군의 통신을 교란하고 있습니다. 통신을 회복하려면 시간이 다소 소요됩니다.+마지막 통신 내용에 따르면, B 그룹이 군 보병 부대의 후방을 기습, 첫 번째 공세를 격퇴했다고 합니다.+현재 아군 병력의 손실은 60%. 아직은 방어선을 유지할 수 있습니다.
+NytoIsomer(3)<Speaker>지휘관</Speaker>||:그나마 좋은 소식이군...+카리나, 북쪽 방어선의 상황은?
+NPC-Kalin(4)<Speaker>카리나</Speaker>;NytoIsomer(3)||:이쪽도 통신이 교란됐습니다.+3분 전까지 방어 제대가 적 유닛과 교전 중이었고, 제대장의 보고로는 손실이 그리 크지 않다고 했어요.
+NPC-Kalin(4)<Speaker>지휘관</Speaker>;NytoIsomer(3)||:바로 돌격하지 않는 건가?+경계하고 있어... 기지의 방어 포탑을 주의하는 건가?
+NPC-Kalin(4)<Speaker>카리나</Speaker>;NytoIsomer(3)||:AR팀은 도착했을까요?
+NPC-Kalin(4)<Speaker></Speaker>;NytoIsomer(3)||<SE1>Gunfight</SE1>:저 멀리서 들려오는 총성과 폭음에 창틀이 미세하게 흔들렸다.
+NPC-Kalin(4)<Speaker>지휘관</Speaker>;NytoIsomer(3)||<SE1>Explode</SE1>:소리가 왠지 이상해. 왜 북쪽 방어선의 바깥에서 폭발음이 들려오는 거지?+댄들라이, 아직도 통신 복구 안 됐어?
+NPC-Kalin(4);NytoIsomer(3)<Speaker>댄들라이</Speaker>||:군의 전파 교란이 매우 강력합니다. 현재 지나 네트워크의 연결을 유지하기 위해 노력하고 있습니다.
+NPC-Kalin(4)<Speaker>지휘관</Speaker>||:카리나, 망원경.
+()<Speaker></Speaker>||:지휘관이 망원경 너머로 본 것은, 개활지에서 허둥지둥 포탄을 피하는 인형 제대의 모습이었다.+많은 인형이 방어선으로 돌아가려 했지만, 순식간에 포화에 삼켜지고 말았다.
+()<Speaker>지휘관</Speaker>||<震屏><黑点1>:제기랄, 저걸 노린 거였구나!
+()<Speaker></Speaker>||<BIN>99</BIN><黑点2><BGM>BGM_Empty</BGM>:군의 장갑 열차.
+NPC-Soldier(0)<Speaker>장교</Speaker><通讯框>||<BGM>BGM_Frontline</BGM>:<color=#00CCFF>대위님의 말씀대로입니다. 통신이 교란되자마자 놈들이 밖으로 나왔습니다.</color>
+NPC-Yegor(4)<Speaker>예고르</Speaker>||:흥, 민수용 인형이니 기껏해야 그 정도지.+네트워크 교란을 계속해라. 인간의 지휘가 없는 인형따위는 쓰레기나 다름없다.+기갑 부대는 준비됐나?
+NPC-Soldier(0)<Speaker>장교</Speaker><通讯框>||:<color=#00CCFF>지르콘, 여기는 헤마타이트. 출격 가능한가?</color>
+NPC-Soldier(0)<通讯框>;NPC-Soldier(0)<Speaker>기갑부대장교</Speaker><通讯框>||:<color=#00CCFF>여기는 지르콘. 언제든지 가능하다.</color>
+NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Soldier(0)<通讯框>||:<color=#00CCFF>좋아, 출격시켜라.</color>
+NPC-Yegor(4)<Speaker>예고르</Speaker>||:그리폰의 방어선을 돌파한 뒤, 부대를 하나 차출해 쿼츠와 함께 해안선의 포탑을 제압한다. 그런 다음 저 나머지 쓰레기들을 모조리 청소한다.
+NPC-Soldier(0)<Speaker>장교</Speaker><通讯框>||:<color=#00CCFF>지르콘, 작전을 개시한다. 플랜 B에 따라 기갑 부대로 12번 진격로로 이동하면서 쿼츠를 엄호하라. 이상.</color>
+NPC-Soldier(0)<Speaker>기갑부대장교</Speaker><通讯框>||:<color=#00CCFF>지르콘, 수신 완료. 즉시 출발하겠다. 이상.</color>
+NPC-Yegor(4)<Speaker>예고르</Speaker>||:점진 효력사를 마지막으로 한 번 더 실시해라. 인근에 아군 부대가 있으니 주의하도록.
+NPC-Soldier(0)<Speaker>장교</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>예!</color>

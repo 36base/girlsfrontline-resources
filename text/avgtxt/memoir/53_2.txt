@@ -1,0 +1,110 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<speaker></speaker>||<黑屏2><BIN>18</BIN><Night>:자정, 마치 태풍이 휩쓸고 지나간 듯한 범죄 집단의 본거지.
+TAC50(0)<speaker>TAC-50</speaker>||<BGM>BGM_Sneak</BGM>:안 보이네...
+TEC9(0)<Speaker>TEC-9</Speaker>||:이상하네... 그 사람들이 자주 쓰던 비밀 금고까지 전부 뒤져봤는데 아무것도 없어...
+PTRD(0)<Speaker>PTRD</Speaker>||:어떻게 된 거지? 그럼 그 소자들을 어디다 둔 거야?
+NTW20(0)<speaker>NTW-20</speaker>||:어쩌면... 애초부터 이곳에 없었을지도 몰라.
+TEC9(0)<Speaker>TEC-9</Speaker>||:그럴 수도... 특히나 교활한 인간들이니까...
+PTRD(0)<Speaker>PTRD</Speaker>||:하지만 지금은 지휘관에게 연락이 닿지를 않으니...
+NTW20(0)<speaker>NTW-20</speaker>||:우리 스스로 해결해야겠지.
+PTRD(0)<Speaker>PTRD</Speaker>||:혹시 모르니까, 안전을 위해서 일단 건물 밖으로 나가자.
+NTW20(0)<speaker>NTW-20</speaker>||:뭐? 만약 그 정보가 사실이라면 곧 사람들이 소자를 회수하러 올 거야.+지금 여길 떠난다면, 목표물 확보에 실패할 수도 있어.
+PTRD(0)<Speaker>PTRD</Speaker>||:나도 알아. 하지만 지금 우린 저쪽에서 누굴, 몇 명이나 보낼지, 어떤 무장을 하고 있을지 아무것도 몰라.+이런 상황에서 무작정 매복하는 건 너무 위험해.
+NTW20(0)<speaker>NTW-20</speaker>||:무섭다면 나 혼자라도 남겠어.
+PTRD(0)<Speaker>PTRD</Speaker>||:무섭고 안 무섭고의 문제가 아니야, NTW. 우린 한 팀이잖아.
+NTW20(0)<speaker>NTW-20</speaker>||:그래, 아까 메이플 시럽이 어쩌고 했지...
+TAC50(0)<speaker>TAC-50</speaker>||:아, NTW도 역시 내 메이플 시럽이 마음에 들었구나!
+NTW20(0)<speaker>NTW-20</speaker>||:아니 그게 아니라――
+PTRD(0)<Speaker>PTRD</Speaker>||:아무튼 철수하자. 이건 명령이야.
+NTW20(0)<speaker>NTW-20</speaker>||<BGM>BGM_Empty</BGM><黑屏1>:......+알았어.
+()<speaker></speaker>||<黑屏2><BIN>18</BIN><Night><BGM>m_avg_casual</BGM>:새벽 1시 30분, 범죄 집단의 본거지.+NTW는 보초를 서다 말고, 또다시 몰래 빠져나와 건물 안에 잠복했다.
+NTW20(0)<speaker>NTW-20</speaker>||:이제 30분 정도만 더 기다리면, 놈들이 고급사통소자를 어디에 숨겼는지 알아낼 수 있어.+이송 도중 가로챈다면, 인간과 마주칠 일도 없이 임무를 완수할 수 있겠지.+사냥하는 것처럼, 어둠 속에서 목표를 노리기만 하면 돼...
+()<speaker></speaker>||<黑点1>:NTW-20은 텅 빈 로비를 말없이 지켜보았다.
+()<speaker></speaker>||<黑点2><BIN>18</BIN><Night>:그렇게 20분이 지나고...
+NTW20(0)<speaker>NTW-20</speaker>||:바깥에선 발견한 게 없는 건가...
+()<speaker></speaker>||<SE1>AVG_door_storehouse</SE1>:그때, 현관문이 활짝 열렸다.
+NTW20(0)<speaker>NTW-20</speaker>||:왔나!?
+()<speaker></speaker>||:NTW-20은 숨을 죽이고 조준경으로 현관 쪽을 주시했다.
+PTRD(0)<Speaker>PTRD</Speaker>||:NTW, 어서 나와. 여기 있는 거 다 알아.
+NTW20(0)<speaker>NTW-20</speaker>||:......왜 또 너희들이야?
+TAC50(0)<speaker>TAC-50</speaker>||:너야말로 왜 또 혼자 빠져나왔어?
+TEC9(0)<Speaker>TEC-9</Speaker>||:맞아... 그 인간들처럼 종잡을 수가 없어...
+()<speaker></speaker>||<BGM>BGM_Empty</BGM><SE2>Alarm</SE2>:인형들이 현관을 넘는 순간, 보안 경보가 울리며 차단문이 닫혔다.
+PTRD(0)<Speaker>PTRD</Speaker>||:엑, 이게 무슨...?
+TAC50(0)<speaker>TAC-50</speaker>||:어... 함정이라도 건드린 거 아닐까?
+()<speaker></speaker>||<SE1>AVG_whitenoise</SE1>:모두가 어리둥절해 할 때, 방송 스피커가 먼지를 털어내며 소리를 내었다.
+()<Speaker>방송(음흉한 목소리)</Speaker>||<BGM>m_avg_tension</BGM>:참으로 아름다운 밤이야, 안 그래?+복수하고 싶어서 매일 이를 갈았는데, 이렇게 제 발로 찾아오다니 말이야.
+NTW20(0)<speaker>NTW-20</speaker>||:......+당했다.
+()<Speaker>방송(포악한 목소리)</Speaker>||:마침 조직을 재건하려는데 자금이 부족했거든? 그런데 이게 웬걸, 끝내주는 인형이 넷이나 나타났네.+덕분에 조직을 다시 크게 만들 수 있겠어, 흐흐흐...
+()<Speaker>방송(음흉한 목소리)</Speaker>||:너희가 통 크게 베풀어 줬으니, 우리도 보답해 줘야겠지. 10분 후에 보자고 아가씨들, 그동안 기도나 해.
+NTW20(0)<speaker>NTW-20</speaker>||:......
+()<speaker></speaker>||:스피커의 전원이 꺼졌다.+NTW-20은 들어왔던 창문의 차단문을 부수려 했지만, 너무 단단했다.
+TEC9(0)<Speaker>TEC-9</Speaker>||:으으으... 그 인간들한테서 내가 어떻게 도망쳤는데, 또 잡혀가게 됐어...
+TEC9(0);TAC50(0)<Speaker>TAC-50</Speaker>||:대장, 이제 어떡하지?
+PTRD(0)<Speaker>PTRD</Speaker>;TAC50(0)||:후우... 잠깐 생각 좀 해볼게...
+PTRD(0);NTW20(0)<Speaker>NTW-20</Speaker>||:TEC-9, 정문 외에 다른 출구는?
+TEC9(0)<Speaker>TEC-9</Speaker>;NTW20(0)||:없어... 우으...
+TEC9(0);PTRD(0)<Speaker>PTRD</Speaker>||:10분 뒤에 보자고 했지...?+TEC-9, 저놈들이 어떻게 인형을 처리하고 코어를 적출하는지 알아?
+TEC9(0)<Speaker>TEC-9</Speaker>;PTRD(0)||:키... 킬러. 인형 사냥을 전문으로 하는 인간들이야. 보통 2인 1조로 행동하는데...+민수용 인형은 그냥 때려 부숴서 해체업자한테 보내는데...+전술인형은... 비싸니까 마인드맵만 초기화할지도...
+TAC50(0)<Speaker>TAC-50</Speaker>;PTRD(0)||:어떡하지? 지휘관님의 허가가 없으면 인간을 쏠 수가 없잖아...
+TAC50(0);PTRD(0)<Speaker>PTRD</Speaker>||:그렇지... 하지만 도망칠 길도 다 막혀 버렸으니...
+PTRD(0)<Speaker>PTRD</Speaker>||:놈들을 따돌리고 빠져나갈 수밖에 없겠네...
+NTW20(0)<speaker>NTW-20</speaker>||:TEC-9, 넌 어떻게 놈들에게서 도망쳤어?
+TEC9(0)<Speaker>TEC-9</Speaker>||:그게... 해체하러 이송되는 와중에 우연히 깨어나서...+그들이 잠깐 차를 세워서 쉬는 틈을 타서, 몰래 차에서 내려서 산비탈을 따라 굴러 내려갔어...+그리고 지휘관님이 날 주워 주셨고...
+TAC50(0)<speaker>TAC-50</speaker>||:전혀 참고할 수가 없네...
+NTW20(0)<speaker>NTW-20</speaker>||:그렇다는 건... 놈들에게 넌 이미 세상에서 사라진 인형이란 뜻이지?+방법이 하나 떠올랐어.
+PTRD(0)<Speaker>PTRD</Speaker>||<黑屏1>:무슨 작전일지, 왠지 모르게 예상이 가네...
+()<speaker></speaker>||<黑屏2><BIN>18</BIN><Night><BGM>BGM_Empty</BGM>:새벽 2시, 건물 현관.+삐익——+램프가 초록색으로 변하고, 두꺼운 차단문이 올라갔다.
+킬러A()<Speaker>킬러A</Speaker>||<BGM>BGM_Sneak</BGM>:하하하, 싱싱한 코어가 4개! 이렇게 큰 건수라니 대체 얼마 만이냐!
+킬러B()<Speaker>킬러B</Speaker>||:뭘 벌써 들뜨냐 이 멍청아.+놈들은 그리폰의 전술인형이라고. 민수용이랑은 차원이 달라.
+킬러A()<Speaker>킬러A</Speaker>||:헤헤헤, 그게 뭐 어쨌는데? 인간한테 손가락 하나 못 대는 건 마찬가지잖아.
+킬러B()<Speaker>킬러B</Speaker>||:뭐, 그건 그렇지. 넌 2층을 살펴봐, 난 1층을 둘러보지.
+킬러A()<Speaker>킬러A</Speaker>||<黑点1>:하하하, 알았어!
+()<speaker></speaker>||<黑点2><BIN>97</BIN><Night>:같은 시각, 2층의 어느 방.
+TEC9(0)<Speaker>TEC-9</Speaker>||:그놈들이야! 저 두 킬러는 특히나 위험해!+한 놈은 잔인하고 성질 급한 성격에, 다른 한 놈은 겉으론 웃지만 교활하기 짝이 없어...+NTW, 조심해...
+NTW20(0)<speaker>NTW-20</speaker><通讯框>||<黑点1>:<color=#00CCFF>걱정 마. 계획대로만 하면 돼.</color>
+()<speaker></speaker>||<黑点2><BIN>97</BIN><Night>:3분 후, 2층.
+킬러A()<Speaker>킬러A</Speaker>||:어디 보자~ 2층에 어떤 귀염둥이가 기다리고 있으려나~
+()<speaker></speaker>||:킬러A는 득의양양한 목소리였지만, 한 걸음 한 걸음 신중하게 내디뎠다.
+킬러A()<Speaker>킬러A</Speaker>||:하하하, 빨리 나오세요 그리폰 아가씨들!+얌전히 나오면 안 아프게——
+()<speaker></speaker>||:주위를 둘러보던 킬러A의 눈에, 웬 망가진 인형이 바닥에 널브러져 있는 것이 들어왔다.
+킬러A()<Speaker>킬러A</Speaker>||:엥? 뭐야, 지들끼리 싸움이라도 났나? 어...? 이 녀석 왠지 낯익은데... 잠깐, 전에 조직에 있었던 인형 아니야?
+()<speaker></speaker>||:킬러A는 어리둥절한 표정으로 조심스럽게 다가갔다.+그 순간 TEC-9의 몸이 움찔하더니, 입과 눈에서 걸쭉한 노란 액체가 흘러나왔다.
+킬러A()<Speaker>킬러A</Speaker>||:우웩... 뭐야 이거, 기름인가?+근데 이상하네... 이 녀석, 예전에 해체장으로 보낸 거 아니었나?
+()<speaker></speaker>||:킬러A가 TEC-9를 관찰하는 데에 정신이 팔린 동안, TAC-50이 메이플 문을 날려 보냈다.+소리 없이 날아간 메이플 문은 킬러A의 주머니에서 등록 카드를 꺼내, NTW-20에게 날아가 건넸다.
+()<speaker></speaker>||<黑点1>:하지만 아무도 킬러A의 입꼬리가 슬쩍 올라간 것을 눈치채지 못했다.
+NTW20(0)<speaker>NTW-20</speaker>||<黑点2><BIN>18</BIN><Night>:잘했어, 메이플 문.
+()<speaker></speaker>||:NTW-20은 바이크에 올라타, 킬러A에게서 빼앗은 카드로 문을 열고 전속력으로 달렸다.+그리고 계획대로 소리를 질러 두 킬러를 유인해내려던 그 순간, 차가운 물건이 뒤통수에 닿았다.
+킬러B()<Speaker>킬러B</Speaker>||<BGM>BGM_Empty</BGM>:그리폰이 적진에선 암호화 통신으로 대화하라고 안 가르치던?+하긴, 민수용 인형이 총을 들었다고 뭐가 달라지겠냐.
+NTW20(0)<speaker>NTW-20</speaker>||<震屏><黑屏1>:이럴 수가!!
+()<speaker></speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_rifle_finalshot_h</SE1>:타앙!!
+()<speaker></speaker>||<SE1>AVG_rifle_finalshot_3h</SE1>:탕! 탕! 탕!+NTW-20은 바이크에서 굴러떨어져, 움직이지 않았다.+킬러B는 장비를 꺼내 그런 NTW-20의 기능 상태를 확인했다.
+킬러B()<Speaker>킬러B</Speaker>||<BGM>BGM_Danger</BGM>:헤헤헤, 네 녀석들한테 인간을 해치지 못하도록 제약을 건 그리폰한테는 정말 감사해야겠어.+오호? 가까이서 총알을 몇 발 박아 넣었는데 아직도 살아있네.
+()<speaker></speaker>||:킬러B는 NTW-20의 마인드맵 코어가 있는 부분을 겨눴지만, 방아쇠를 당기지 않았다.
+킬러B()<Speaker>킬러B</Speaker>||:음... 이대로 망가뜨리긴 역시 좀 아깝지. 마침 잘 됐다, 실험이나 해볼까.
+()<speaker></speaker>||<黑点1>:킬러B는 험악하게 웃으면서 NTW-20의 접속 단자를 열더니, 주머니에서 수상한 메모리 스틱을 꺼냈다.
+()<speaker></speaker>||<黑点2><BIN>97</BIN><Night>:...같은 시각.
+TAC50(0)<speaker>TAC-50</speaker>||:뭐지? 방금 총소리가 들렸어.
+PTRD(0)<Speaker>PTRD</Speaker>||:NTW, 무슨 일이야?
+()<speaker></speaker>||:NTW-20은 대답이 없었다.
+PTRD(0)<Speaker>PTRD</Speaker>||:TAC-50, 메이플 문으로 상황 좀 볼 수 있어?
+TAC50(0)<speaker>TAC-50</speaker>||:알았어...
+()<speaker></speaker>||:그때, 쾅 하는 소리와 함께 방문이 열리더니 총을 든 킬러A가 나타났다.
+킬러A()<Speaker>킬러A</Speaker>||:하하하! 그렇겐 안 되지!
+PTRD(0)<Speaker>PTRD</Speaker>||:아니!?
+TAC50(0)<speaker>TAC-50</speaker>||:TEC-9!
+TEC9(1)<Speaker>TEC-9</Speaker>||:으으... 미안해... 너무 세게 때려서 참지 못했어...
+()<speaker></speaker>||:킬러A는 TEC-9를 방 안으로 던졌다.
+킬러A()<Speaker>킬러A</Speaker>||:예쁜 그리폰 아가씨들, 서로 둥글게 손 좀 잡아 봐.
+TAC50(0)<speaker>TAC-50</speaker>||:손은 왜...
+()<Speaker>킬러A</Speaker>||:잡으라고!
+()<speaker></speaker>||:선택의 여지가 없어, PTRD는 다함께 손을 잡게 했다.
+()<Speaker>킬러A</Speaker>||:흐흐흐, 동료의 온기를 느끼는 것도 오늘로 마지막이라 생각하라고.
+PTRD(0)<Speaker>PTRD</Speaker>||:NTW는 어딨지? 대체 무슨 짓을——
+()<speaker></speaker>||<黑点1>:PTRD의 말이 끝나기도 전에, 킬러A는 전기충격기로 그녀를 찔렀다.+치지직!+세상이 어둠에 잠겼다.
+()<speaker></speaker>||<黑点2><BIN>97</BIN><Night>:...5분 후.
+킬러A()<Speaker>킬러A</Speaker>||:엉? 야, 너 왜 빈손이냐?
+()<speaker></speaker>||:킬러B는 피멍이 든 이마를 문질렀다.
+킬러B()<Speaker>킬러B</Speaker>||:XX, 놓쳤어.+새로 개발한 바이러스를 테스트해 보려 했는데, 꽂자마자 놈이 벌떡 일어나더니 그 돌대가리를 내 이마에 박았다고!+정신 차리고 보니 바이크 타고 도망쳤더라.
+킬러A()<Speaker>킬러A</Speaker>||:괜찮아 괜찮아, 그리폰 인형들은 절대 동료를 버리고 가지 않는다니까 말이야.+분명 돌아올 거야.
+킬러B()<Speaker>킬러B</Speaker>||<黑屏1>:하, 오든지 말든지.+일단 보스가 시킨 대로 이 세 개나 멀쩡하게 가져가자고. 마인드맵을 초기화하면 또 일손이 늘어나는 거지...
