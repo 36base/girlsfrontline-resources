@@ -1,0 +1,42 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>207</BIN><Night><黑屏2><BGM>BGM_Danger</BGM>:장갑 열차 근처.
+AR15Mod(0)<Speaker>AR15</Speaker>||<SE2>Gunfight</SE2>:젠장, 해도 해도 끝이 없네!+SOP2! 고개 숙여!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;AR15Mod(0)||<SE1>Select</SE1>:알았어! 그리고 탄창 3개 더 줘!
+M4 SOPMOD IIMod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_weapon_reload</SE1>:AR-15, 지휘관에게서 명령이야!+최전방의 세 제대가 후퇴 중이니 지원 사격을 해 달래!+416! 유탄 가진 거 다 쏴 버려!
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||<SE1>Explode</SE1>:3발밖에 안 남았어! 보급 드론은 언제 와!?
+HK416Mod(0);AR15Mod(0)<Speaker>AR15</Speaker>||:지금 오는 중이야!
+HK416Mod(0)<Speaker>HK416</Speaker>;AR15Mod(0)||:열차 수리는 얼마나 남았고!?
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:9이 10분만 더 달래!
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||<BGM>BGM_Empty</BGM><黑点1>:그 말 벌써 3번째거든?!
+()||<黑点2><BIN>202</BIN>:임시 지휘실.+창문 밖에서는 총격과 포성이 끊이지 않았지만, 지휘실 안은 조용했다.
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Room</BGM>:............
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:............
+RO635(0)<Speaker>RO635</Speaker>||:............
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:다 됐습니다. 마지막 자료까지 추출했습니다.
+()<Speaker>지휘관</Speaker>||:드디어 끝난 건가?
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:네, 드디어 끝났습니다.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:지휘관님, 당장 전선에 나가는 것을 허가해 주세요. 여기서 가만히 있을 수는 없어요.
+()<Speaker>지휘관</Speaker>||:M4, 진정해. 아직 전선은 버틸 수 있어.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:하지만 지금 이 순간에도 동료들이...
+()<Speaker>지휘관</Speaker>||:팔디스키에는 지금보다 더 힘든 싸움이 기다리고 있어. 미리 준비하지 않으면 지금보다 훨씬 큰 피해를 입게 돼.
+M4A1Mod(0);NytoIsomer(4)<Speaker>댄들라이</Speaker>||:현명한 판단입니다. 당신이 어떻게 지금까지 살아남았는지, 이제야 이해가 가는군요.+모든 자료의 정리가 끝났습니다.+이성질체들의 기억에서 얻은 팔디스키 잠수함 기지의 정보, 그리고 루니샤의 모든 기억을 데이터베이스에 정리해 두었습니다.+하지만 지금은 밖에서 전투가 치열하니, 나머지 기록을 열람할 여유는 없으시겠죠.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:그건 언제 봐도 되잖아요, 빨리 다음 임무의 정보를 모두에게 전달해야 해요!
+M4A1Mod(0);NytoIsomer(4)<Speaker>댄들라이</Speaker>||:성급해 할 것 없어, 루니샤. 말하지 않아도 내가 알아서 할 거야.+잠수함 기지의 정보를 열차의 서버에 전송했습니다. 여기 있는 모두에게도 공유했고요.
+()<Speaker>지휘관</Speaker>||:받았다. 이게 그 잠수함 기지인가...+카리나, 이 정보를 바탕으로 3D 지도를 만들어 주겠어?
+NPC-Kalin(0)<Speaker>카리나</Speaker>;NytoIsomer(4)||:문제없어요, 어디 보자...+격리벽이 2겹... 지하 공간이 3층에... 세상에, 해안선을 따라서 포탑이 쫙 깔렸는데요!?
+NPC-Kalin(0);NytoIsomer(4)<Speaker>댄들라이</Speaker>||:네, 포탑의 위력은 이 장갑 열차의 대포보다 몇 배는 강할 겁니다.+그래서 군도 단단히 준비하고 온 거겠죠.
+NPC-Kalin(2)<Speaker>카리나</Speaker><Shake>;NytoIsomer(4)||:으에엑!?
+()<Speaker>지휘관</Speaker>||:젠장... 하벨 그 영감이 왜 우릴 여기로 보냈는지 이제야 알겠군...
+NPC-Kalin(4)<Speaker>카리나</Speaker>;NytoIsomer(4)||:자자자잠깐만요, 저 기지는 정부가 통제하고 있는 곳 아니었어요?!
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:다 차근차근 설명해드리겠습니다.+안젤리아...+예정대로라면, 이 정보는 그녀가 당신께 제공했어야 했습니다.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:안젤리아 씨가 정보를 수집하러 먼저 기지에 잠입했다고 했는데...+약속 시간을 넘어서도 통신이 들어오지 않았어요.+설마, 안젤리아 씨에게 무슨 일이라도 생긴 걸까요?
+M4A1Mod(0);NytoIsomer(4)<Speaker>댄들라이</Speaker>||:루니샤, 그 꽃밭에서 본 것 기억해?
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(4)||:M16 언니와... 엘더 브레인 말인가요?
+()<Speaker>지휘관</Speaker>||:그러고 보니... 탈린 내부에서 철혈의 흔적이 발견됐다는 보고가 있었지.+인형들이 마비되고 장갑 열차까지 쫓아와서 까맣게 잊고 있었어...
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:그것이 바로 이유입니다.
+()<Speaker>지휘관</Speaker>||:그러니까, 지금 팔디스키는 철혈에게 장악됐다는 말이군?
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:객관적인 사실을 바탕으로 추측한 결과, 그렇다고 예상됩니다.
+RO635(0)<Speaker>RO635</Speaker>||:상황이 예상보다 훨씬 복잡해졌어... 작전 방안을 다시 수정할까요?
+()<Speaker>지휘관</Speaker>||:부탁한다, 지도 정보와 철혈의 예상 병력까지 다 고려해서 계산해 줘.+만약 10분 후 열차의 수리가 끝날 때까지 안젤리아에게서 연락이 오지 않을 경우, 무시하고 즉시 팔디스키로 출발한다.
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:저, 정말 이대로 밀고 들어가시려고요...?
+()<Speaker>지휘관</Speaker>||<黑屏1>:정말 기지가 철혈에게 넘어갔더라도, 아직 완전히 장악하진 못했을 거야. 놈들의 목적이 뭔지는 몰라도, 전부 망쳐 놓기 전에 형세를 우리 쪽으로 돌려야 해.+수비 제대에게 화력 지원을 준비하도록. 곧 출발한다.

@@ -1,0 +1,130 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>8</BIN><BGM>BGM_Hello</BGM><黑屏2>:그리폰 지휘실.
+Vector(0)<Speaker>Vector</Speaker>||:... 감시 임무?+알았어, 다른 용건 없으면, 준비하러 갈게.
+Vector(0)<Speaker>지휘관</Speaker>||:아 잠깐만!
+Vector(0)<Speaker>Vector</Speaker>||:뭐야, 정말 무슨 일 있는 거야?
+Vector(0)<Speaker>지휘관</Speaker>||:그게, 모레면 핼러윈이잖아?
+Vector(0)<Speaker>Vector</Speaker>||:그래서?
+Vector(0)<Speaker>지휘관</Speaker>||:그러니까 Vector도 가기 전에 놀고 가면 어때?+이렇게 하자, 너에게 임무를 주지, 귀신으로 분장해서 모두를 놀래켜 주라고!
+Vector(0)<Speaker>Vector</Speaker>||:요즘 애들을 겁주는 게 취미야?
+Vector(0)<Speaker>지휘관</Speaker>||:<color=#A9A9A9>(날 평소 어떻게 보는 거지...)</color>+핼러윈이라고! 신성하고, 일 년에 단 한 번뿐인 가을을 기념하는 핼러윈! 나도 그냥 보내기는 싫어.+그리고 모두 핼러윈 행사를 기대하고 있다고.
+Vector(0)<Speaker>Vector</Speaker>||:알았어, 임무라면, 완수할 뿐이야.
+Vector(0)<Speaker>지휘관</Speaker>||:임무라고 해도 Vector 너도 가끔은 풀어질 줄 알아야지.+참, 분장에 필요한 의상은 스프링필드하고 상의하렴, 애들을 놀래키는 방법은 스테이지 담당인 마카로프하고 상의하고.
+Vector(0)<Speaker>Vector</Speaker>||:걱정 마, 임무인 이상 장난이라도 전력을 다할 테니까.+내일이 바로 핼러윈 행사 날이지, 시간이 없으니까 지금 준비하러 갈게.
+()<Speaker></Speaker>||:Vector는 무표정으로 할 말을 다 하고 지휘실을 나갔다.
+지휘관()<Speaker>지휘관</Speaker>||<黑屏1>:<color=#A9A9A9>(저 녀석 괜찮을까나...)</color>+<color=#A9A9A9>(그래도 핼러윈 같은 즐거운 날에는 모두와 좋은 추억을 남길 수 있겠지?)</color>
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:다음 날 저녁, 핼러윈 행사 시작 전.
+()<Speaker></Speaker>||<BIN>46</BIN><黑屏2>:귀신의 집.
+PM(2)<Speaker>마카로프</Speaker>||:그래서, 그렇게 입고 사람을 놀래키겠다고?
+Vector(2)<Speaker>Vector</Speaker>;PM(2)||:문제 있어?
+Vector(2);PM(2)<Speaker>마카로프</Speaker>||:아무래도... 너무 귀엽잖아.
+Vector(2);PM(2)<Grey>||:
+()||:귀신의 집 입구에서 마카로프는 새 단장한 Vector를 보며 골치가 아팠다.
+Vector(2);PM(2)<Speaker>마카로프</Speaker>||:고양이 귀에 고양이 손에 꼬리에... 왜 꼬리는 두 가닥이야?+스프링필드가 옷을 잘못 준 거 아니야...?
+Vector(2)<Speaker>Vector</Speaker>;PM(2)||:몰라, 아무튼 "요괴 고양이"면 됐잖아.+이럴 줄 알았으면 그냥 "아무렇게나" 라고 말할걸. 이런 장난하는 임무는 그걸로 끝이니까.
+PM(2)<Speaker>마카로프</Speaker>||<黑屏1>:... 됐다, 나도 네가 누굴 놀래킬 수 있다고 기대하지 않으니까.+그냥 네가 첫 스테이지 보스를 맡아, 나도 애들이 시작하자마자 도망가는 건 보고 싶지 않으니까.
+()<Speaker></Speaker>||<黑屏2>:마카로프에게 다른 주의사항을 듣고 나서 Vector는 첫 번째 스테이지 “요괴 고양이”의 장소에 손님을 맞이하러 갔다.
+Vector(2)<Speaker>Vector</Speaker>||:기대에 부응하지 못해서 참 미안하게 됐네, 어차피 난 이쁜 구석 없는 인형이니까.+그나저나... 다른 녀석 뒤에서 소리 지르면 되는 거지?+아니면 어제 자료에서 본대로 무표정으로 상대 눈앞에 튀어나와도 되고...+어디 보자, 그러니까 이렇게...
+PP90(0)<Speaker>？？？</Speaker><通讯框>||<震屏>:<color=#00CCFF>Vivi！Vivi！</color>+<color=#00CCFF>Vivi 들려?</color>
+()<Speaker></Speaker>||:Vector가 혼자 사람 놀래키는 법을 연습하려고 할 때, 통신기가 울렸다.
+Vector(2)<Speaker>Vector</Speaker>||:... 그렇게 부르지 말라고 했잖아.
+Vector(2);PP90(0)<Speaker>PP90</Speaker><通讯框>||:<color=#00CCFF>응? 말한 적 있어?</color>+<color=#00CCFF>에이, Vivi라고 부르는 게 귀엽잖아!</color>
+Vector(2)<Speaker>Vector</Speaker>;PP90(0)||:... 됐어, 무슨 일인데?
+Vector(2);PP90(0)<Speaker>PP90</Speaker><通讯框>||:<color=#00CCFF>맞다맞다, 며칠지나면곧출발할건데,넌준비됐어?어떡해,나너무두근거려,처음으로부관을맡는건데...</color>
+Vector(2)<Speaker>Vector</Speaker>;PP90(0)||:저기, 너 그거 어제부터 계속 말했어, 총 192번... 이걸로 193번째야.
+Vector(2);PP90(0)<Speaker>PP90</Speaker><通讯框>||:<color=#00CCFF>에에? 그렇게 많이 말했어...?</color>+<color=#00CCFF>그래도 너무 기쁜걸! Vivi 넌 아무 느낌 없어? 이제 곧 친구가 될 거라고!</color>
+Vector(2)<Speaker>Vector</Speaker>;PP90(0)||:전혀.+그리고 나 같이 짜증 나는 인형하고 같이 있는 건 너도 즐겁지 않을 거야.
+Vector(2);PP90(0)<Speaker>PP90</Speaker><通讯框>||:<color=#00CCFF>Vivi 또 농담하기는, 너무 자신을 깎아내리지 마.</color>+<color=#00CCFF>지금 어디 있어? 같이 귀신의 집에 놀러 가자!</color>
+Vector(2)<Speaker>Vector</Speaker>||:귀신의 집엔 다 무섭지도 않은 인형들 뿐이야, 별거 없어....
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><闪屏><duration>10</duration></闪屏><黑屏1>0,2</黑屏1>:팟
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>0,2</黑屏2>:Vector와 PP90이 통신하던 도중, 원래부터 어둡던 방이 칠흑같이 변했다.
+Vector(2)<Speaker>Vector</Speaker>||:정전인가... 차단기가 내려갔나?
+Vector(2);PP90(0)<Speaker>PP90</Speaker><通讯框>||:<color=#00CCFF>Vivi, 무슨 일 생겼어?</color>
+Vector(2)<Speaker>Vector</Speaker>;PP90(0)||:아무것도 아니야, 너랑 상관없어.
+PP90(0)<Speaker>PP90</Speaker><通讯框>||:<color=#00CCFF>상관 없을 리가, Vivi, 난...</color>
+()<Speaker></Speaker>||:PP90의 말이 끝나기도 전에 Vector가 통신을 끊었다.
+Vector(2)<Speaker>Vector</Speaker>||<Night>:이 기지의 배선 대체 어떻게 된 거지, 요즘 따라 계속 이런 일이 있는 것 같은데...+그래도 임무니까 멋대로 움직이면 안 되겠지?+그래, 그냥 가만히 있자.
+()<Speaker></Speaker>||<SE1>Runstep</SE1>:또각.
+Vector(2)<Speaker>Vector</Speaker>||:<color=#A9A9A9>(무슨 소리지?)</color>
+()<Speaker></Speaker>||<SE1>Runstep</SE1>:또각.
+()<Speaker></Speaker>||:어둠 속, 방에서 가까운 곳에서 규칙적인 소리가 들려왔다.+Vector는 벽에 붙어 총을 쥐고 경계했다.
+()<Speaker></Speaker>||<SE1>Runstep</SE1>:또각.
+Vector(2)<Speaker>Vector</Speaker>||<SE1>Select</SE1>:<color=#A9A9A9>(온다!)</color>
+()<Speaker></Speaker>||<SE1>Runstep</SE1>:또각.
+()<Speaker></Speaker>||:한 사람이 방에 들어서자, 다른 사람이 불쑥 튀어나왔다.
+WA2000(5)<Speaker>？？？</Speaker><Shake>||:<size=65>꺄아아아아악 귀신이다!!!</size>
+Vector(2)<Speaker>Vector</Speaker>||<黑屏1>0,2</黑屏1>:...
+()<Speaker></Speaker>||<BIN>46</BIN><Night><BGM>BGM_Hello</BGM><黑屏2>0,2</黑屏2>:Vector는 눈앞의 두 눈을 질끈 감고 손전등을 움켜쥐고 자신의 얼굴을 아래에서 비추는 인형을 바라보았다.
+WA2000(4)<Speaker>WA2000</Speaker>||<Night>:어... V, Vector구나.
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:미안, 나야.+나한테까지 놀란 거야?
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker><Shake>||<Night>:누, 누가! 저, 전혀 안 놀랐거든!
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:하긴, 이런 우스꽝스러운 모습에 놀랄 사람이 없지.+그나저나 높은 구두를 신고 WA2000 씨는 여기에 무슨 용무이신지요?
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:크흠, 점검이야, 그냥 배전반을 점검하러 온 거야!
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:그래? 하던거 해.
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:...
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:...
+Vector(2)<Grey>;WA2000(4)<Grey>||<Night>:
+()||<Night>:두 사람은 아무 말 없이 가만히 서 있었다. 첫 번째 스테이지 방에서 WA2000의 손전등만이 깜빡였다.
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:그래서, 이게 무슨 상황이야?
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:어, 그, 그러니까... 맞아!+예, 예상치 못한 상황이 발생할 수 있으니, 현 시간부로 널 고용하겠어!+자! 같이 배전반을 고치러 가자고!
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:왜 나도 같이 가야 하는데?
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:그러니까 예상치 못한 상황에 대비하기 위해서라고!+봐봐, 온통 깜깜한데, 만약 적이라도 몰래 숨어들어오면...
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:하지만 난 임무 중이야, 멋대로 자리를 이탈하면...
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:에잇, 빨리 전력을 복구하는 것도 임무라고!
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:... WA 씨, 혹시 혼자 가는 게 무서우신가?
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker><Shake>||<Night>:아, 아니거든! 만일을 위해서야!+그냥 같이 가자니까...
+Vector(2)<Speaker>Vector</Speaker>||<Night>:...+그래, 어차피 나도 누굴 놀래킬 수 없을 테니까.+그것보다, 전력을 복구하는 것이 더 우선이겠지...
+()<Speaker></Speaker>||<Night><黑点1>:Vector는 못 이기는 척하며 WA2000의 기대로 가득한 눈빛에 회답했다. 둘이서 첫 스테이지를 지나 다음 단계로 나아갔다.
+()<Speaker></Speaker>||<Night><黑点2>:...+결국 둘은 귀신의 집에서 10분 동안 돌아다녔다.
+Vector(2)<Speaker>Vector</Speaker>||<Night>:저기... WA 씨, 왜 바로 전기 공급실에 가지 않는 것인지?
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:어? ... 어, 그러니까... 아!+안전한 경로를 탐색하는 중이야.
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:너도 엘리트 인형이잖아, 그렇게 안절부절해서 되겠어?
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:귀신의 집이잖아, 갑자기 뭐가 튀어나올지 모르고...
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night><震屏>:그리고, 안절부절한 거 아니야!
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:그런 성격은 짐이 될 뿐이야, 우린 그저 무기일 뿐인데.
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:무기라고 해도, Vector 너도 성격이 설정되어 있잖아?+그것도 아주 특이한 성격.
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night><BGM>BGM_Empty</BGM>:인형의 감정은 존재 자체가 잘못된 거야...+그래서 난 이런 자신이 너무 싫어.
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:Vector...
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:응?
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:적어도 난 말이야, 그게 잘못됐다고 생각하지 않아.+비록 우리가 병기라고 해도, 이런 감정이 있으니...
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:살아있다는 것처럼 느껴진다?
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:그래, 그거야.
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:바보 아니야? 인간도 아닌데, 살아있는 느낌이 왜 필요해?
+Vector(2);WA2000(4)<Speaker>WA2000</Speaker>||<Night>:내, 내가 인간이든 아니든 상관없잖아!+난 그냥 좀 더...
+Vector(2)<Speaker>Vector</Speaker>;WA2000(4)||<Night>:전력 공급실에 도착한 것 같네.
+WA2000(4)<Speaker>WA2000</Speaker>||<Night>:...
+()<Speaker></Speaker>||<Night>:Vector와 WA2000은 목적지에 도착했다+WA2000은 방에 들어가 배전반을 검사하기 시작했다.
+WA2000(4)<Speaker>WA2000</Speaker>||<Night>:역시 여기에 문제가 있었구나...+고마워, Vector. 같이 와줘서.
+Vector(2)<Speaker>Vector</Speaker>||<Night>:감사할 필요 없어, 전력이 빨리 돌아왔으면 해서 그런 거니까, 딱히 널 도울 생각은 없었어.
+()<Speaker></Speaker>||<Night><黑点1>:말이 끝나고 Vector는 뒤돌아 전력 공급실에서 나갔다.
+Vector(2)<Speaker>Vector</Speaker>||<Night><黑点2><BGM>GF_Memorial</BGM>:...+뭐가 인형의 감정이야... 그런 건 애초에 있어선 안 될 물건이야...
+Vector(2)<Speaker>지휘관</Speaker>||<Night>:응, 뭐가 있어선 안 됐다고?
+Vector(2)<Speaker>Vector</Speaker>||<Night>:음... 지휘관?+아니... 아무것도 아니야, 지휘관도 왔구나.
+Vector(2)<Speaker>지휘관</Speaker>||<Night>:잠깐 같이 둘러볼까?
+()<Speaker></Speaker>||<Night>:Vector는 뭔가 할 말이 있었던 것 같으면서, 결국 아무 말도 하지 않고 고개를 끄덕였다.
+()<Speaker>지휘관</Speaker>||<Night>:어때? 이번 행사.
+Vector(2)<Speaker>Vector</Speaker>||<Night>:그냥 똑같아, 정전된 것만 빼고.
+Vector(2)<Speaker></Speaker>||<BIN>46</BIN><关闭蒙版><闪屏><duration>10</duration></闪屏>:말이 끝나기 무섭게 불이 다시 들어왔다.+밝아지자 Vector의 어색한 표정이 더욱 잘 보였다.
+()<Speaker>지휘관</Speaker>||:짜짠~ 봐, 놀라움이 가득한 이벤트였잖아?+가끔은 다른 인형들과 놀아보니 즐겁지 않니?
+Vector(2)<Speaker>Vector</Speaker>||:헛수고라고 생각 안 해?
+Vector(2)<Speaker>지휘관</Speaker>||:무슨 말이야?
+Vector(2)<Speaker>Vector</Speaker>||:... 난 그냥 이런 인형이야, 만들어질 때부터 이렇게 설정되었어.+고작 행사에 한두 번 참가하는 거로, 다른 인형처럼 될 것 같아?
+Vector(2)<Speaker>지휘관</Speaker>||:꼭 다른 인형처럼 될 필요는 없지.+너는 너 그 모습으로 충분하니까.+단지... 네가 여기 그리폰에서 친구를 몇 명 사귈 수 있기를 바랄 뿐이야.
+Vector(2)<Speaker></Speaker>||:Vector가 잠시 입을 다물었다.
+Vector(2)<Speaker>Vector</Speaker>||:지휘관, 인형의 감정이 잘못된 것이라고 생각 안 해?
+Vector(2)<Speaker>지휘관</Speaker>||:안 해.
+Vector(2)<Speaker>Vector</Speaker>||:왜? 우린 그저 인형이고 무기일 뿐인데.+왜 무기에게 이런 쓸모없는 감정 모듈을 단 걸까?+만들 때부터 다 설정을 해놨으면서 왜 또...
+Vector(2)<Speaker>지휘관</Speaker>||:Vector... 나도 그 이유는 잘 모르겠지만...+그래도, 그 답을 알 수 있는 날이 올 것이라고 생각해.
+Vector(2)<Speaker>Vector</Speaker>||:... 답... 말이야?
+Vector(2)<Speaker>지휘관</Speaker>||:왜 너는 그런 모습이고, 나는 이런 모습인지 말이지.+솔직히 나도 몰라. 근데 뭐가 문제야...?+감정이 있든 없든, 그런 모듈이 쓸모가 있든 없든. 너는 너, Vector일 뿐이야.
+Vector(2)<Speaker>Vector</Speaker>||:...
+Vector(2)<Speaker>지휘관</Speaker>||:네가 인형이라서, 성격이 엉망이라서, 그 설정을 고치고 싶어서 이런 일을 시키는 게 아니야. 또 뭐 너보고 집단생활에 어울리라고 시키는 것도 아니고.+그냥 네가 즐겁기를 바란 거야.
+Vector(2)<Speaker>Vector</Speaker>||:<color=#A9A9A9>(아무렇지도 않게 사람의 성격이 엉망이라고 하는 그쪽이 더 엉망이잖아...)</color>+<color=#A9A9A9>(그리고 뭐가 내가 즐거웠으면 좋겠다는 거야...)</color>
+Vector(2)<Speaker>Vector</Speaker><Shake>||:... 어, 잠깐?+왜 갑자기 카메라를 꺼내는 거야?
+Vector(2)<Speaker>지휘관</Speaker>||:기념사진 한 장 찍자고.+모처럼의 즐거운 행사니까, 추억으로 사진 한 장 남기면 좋잖아?
+Vector(2)<Speaker>Vector</Speaker>||:즐겁고 뭐고... 정말 지휘관은 단세포구나...+그래, 어떻게 찍으면 돼?
+Vector(2)<Speaker>지휘관</Speaker>||:Vector가 겁주는 모습!+그 옷은 분명 요괴 고양이 맞지? 그럼 요괴 고양이처럼 무서운 포즈로 부탁해!
+Vector(2)<Speaker>Vector</Speaker>||<黑屏1>:연습해본 적이 없는데... 기대하지 마...+그러니까... 대충 이렇게...
+Vector(2)<Speaker></Speaker>||<闪屏><duration>10</duration></闪屏>:
+Vector(2)<Speaker></Speaker>||<黑屏1>0,2</黑屏1>:...
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:이 녀석이 대체 어떤 인형인지 참으로 알기가 어렵다.+내 말을 끊고, 동료들과 말다툼을 하고, 내가 이 녀석에 대해서 아는 건 정말 얼마 없다.+그래, 저런 포즈로 사람을 놀래키겠다는 건, 마음씨는 아주 착한 녀석이란 뜻이지.+카메라의 초점이 맞춰지는 순간, 그 웃기면서도 난감한 포즈를 보며 생각했다.

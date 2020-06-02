@@ -1,0 +1,70 @@
+()||<BIN>2</BIN><BGM>BGM_Sneak</BGM><Night>:S09 구역, 철혈 분쟁 지대......
+FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:......FNC, 응답해. FNC.
+()||<BIN>2</BIN><Night>:......통신 너머에서 음식물 씹는 소리가 들려온다.
+FNFNC(0)<Speaker>FN-FNC</Speaker>||<BIN>2</BIN><Night>:으......읍...... 쩝......쩝......
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:하아... 일단 다 먹고 나서 말해주겠어?
+FNFNC(0)<Speaker>FN-FNC</Speaker>;FAL(0)<通讯框>||<BIN>2</BIN><Night>:음...! 읍! 우으읍——! (쩝쩝)+우아! 다 먹었다! 무슨 일이야 FAL?
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:무슨 일이긴...... 당연히 상황을 보고해야지.+지금쯤이면 목표 거점에 도착했을 텐데. 철혈이 내보내고 있는 수상한 신호가 뭔지는 알아냈어?
+FNFNC(0)<Speaker>FN-FNC</Speaker>;FAL(0)<通讯框>||<BIN>2</BIN><Night>:철혈의 순찰 부대 이외에는 아직 별다른 발견은 없는데...... 
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:49가 보러 간 다른 전초 기지는 어때?
+FNFNC(0)<Speaker>FN-FNC</Speaker>;FAL(0)<通讯框>||<BIN>2</BIN><Night>:49한테선 이것저것 많이 보고받았어, 걔는 정말...... 조그마한 움직임까지 죄다 보고한단 말야.+그중에 나도 조금 신경 쓰이는 게 있는데, (조용히 궁시렁거리면서) 철혈 이랑은 그다지 관계는 없어 보이......
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:일단 무슨 일인지 먼저 말해봐.
+FNFNC(0)<Speaker>FN-FNC</Speaker>;FAL(0)<通讯框>||<BIN>2</BIN><Night>:날씨 말이야. 날씨. 오늘 날씨가 정말 이상해서......+바람은 엄청 강한데다가, 기압도 엄청 낮고...... 게다가 하늘도 뭔가 심상치 않아......
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:.....고개를 돌려서, 나한테도 하늘을 보여줘.
+FNFNC(0)<Speaker>FN-FNC</Speaker>;FAL(0)<通讯框>||<BIN>2</BIN><Night>:자......+저어기 시꺼먼 구름들이 소용돌이치고 있는 거, 보여?+보통 일기예보에서나 볼 법한 CG처럼 말야.+마치 솜사탕이 화내고 있는 것처럼 보이는 게, 언제 터져도 이상할 것 같지가 않아.
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker><通讯框>||<BIN>2</BIN><Night>:......확실히 그렇네. 하지만 철혈은 분명...... 아직까지는 날씨에 영향을 끼칠 수 있는 무기가 없을 텐데......+신경 쓰는 게 좋겠지? 그리고 여러 가지 생각해봤는데......+FNC, 다음번엔 있지...
+FNFNC(0)<Speaker></Speaker>||<BIN>2</BIN><Night>:사...
+FNFNC(0)<Speaker>FN-FNC</Speaker>||<BIN>2</BIN><Night>:FN-FNC 
+FNFNC(0)<Speaker></Speaker>||<BIN>2</BIN><Night>:사아아......
+FNFNC(0)<Speaker>FN-FNC</Speaker>||<BIN>2</BIN><Night>:쳇, 하필이면 이럴 때에...+FAL은 쓸데없는 말을 너무 좋아한다니까! 중요한 것만 딱딱 먼저 말하면 얼마나 좋아!+이럴 때는 어떻게 해야 좋지...... 그래! 우선 49와 연락해보는 게 좋겠어! 응! 그렇게 하자!
+FNFNC(0)<Speaker></Speaker>||<BIN>2</BIN><Night>:............FNC가 FN49를 호출한다.+......삑.+......삑......삑......삑.+사아아아......
+FNFNC(0);FN49(0)<Speaker>FN-49</Speaker><通讯框>||<BIN>2</BIN><Night><BGM>BGM_Empty</BGM>:FNC..... 여보세......
+FNFNC(0)<Speaker>FN-FNC</Speaker>;FN49(0)<通讯框>||<BIN>2</BIN><Night>:으... 저쪽도 통신 상태가 나쁘잖아...+역시... 이쪽에서 문제가 생긴 걸까...+설마... 날씨 때문에...
+FNFNC(0);FN49(0)<Speaker>FN-49</Speaker><通讯框>||<BIN>2</BIN><Night>:FNC...... 조심......
+FNFNC(0)<Speaker>FN-FNC</Speaker>;FN49(0)<通讯框>||<BIN>2</BIN><Night>:에...?! 49! 뭐라고?
+FNFNC(0);FN49(0)<Speaker>FN-49</Speaker><通讯框>||<BIN>2</BIN><Night>:......인트......+그녀가 돌아왔...... 조심해요!
+FNFNC(0)<Speaker>FN-FNC</Speaker>;FN49(0)<通讯框>||<BIN>2</BIN><Night>:인트.....? 뭐라는 거야......
+FNFNC(0)<Speaker></Speaker>||<BIN>2</BIN><Night>:............칙! ......치이익!
+FNFNC(0)<Speaker>FN-FNC</Speaker>||<BIN>2</BIN><Night>:뭐야 진짜! 통신이 완전히 끊겼어! 전부 재수 없는 날씨 탓이야!
+FNFNC(0)<Speaker></Speaker>||<BIN>2</BIN><Night><黑屏1>2</黑屏1>:......FNC가 고개를 돌려 하늘을 바라본다.
+FN-FNC()<Speaker>FN-FNC</Speaker>||<BIN>58</BIN><BGM>BGM_Danger</BGM><黑屏2>:......!
+FN-FNC()<Speaker>FN-FNC</Speaker>||<BIN>58</BIN>:이건 대체......무슨......
+()||<BIN>58</BIN>:하늘 위의 먹구름들이 한 곳으로 빨려 들어가고 있었고, 소용돌이의 중심부에서는 불빛이 번쩍이고 있었다......
+FN-FNC()<Speaker>FN-FNC</Speaker>||<BIN>58</BIN>:............+이거... 영화라도 찍는... 건가...?
+()||<BIN>58</BIN>:마치... 당장이라도 안에서 "망령"이 튀어나올 것만 같은──
+FN-FNC()<Speaker>FN-FNC</Speaker>||<BIN>58</BIN>:...!!!
+()||<BIN>58</BIN><SE1>Explode</SE1><震屏><黑屏1>:
+()||<BIN>8</BIN><黑屏2>2,0</黑屏2>:같은 시각, S09 구역의 그리폰 지휘부.
+FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:여보세요! FNC? 대답해!+갑자기 통신이 끊겼어. 설마 적이...+57, 네가 가서 회선 점검 좀 하고 와.
+FAL(0);FN57(0)<Speaker>FN-57</Speaker>||<BIN>8</BIN>:우리 쪽 회선은 문제없던걸?+네가 말하기 전에 이미 검사하고 왔다구.
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN>:57, 그런 잔꾀를 부려봤자 너한테 돌아오는 건 아무것도 없어.
+FAL(0);FN57(0)<Speaker>FN-57</Speaker>||<BIN>8</BIN>:그래그래, 알겠다구! 잔소리가 끝이 없네...+어쨌든, FNC의 보고와 관계있는 것 같지 않아?
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN>:날씨? 내가 보기엔 글쎄......+우리의 네트워크는 이 정도로는 방해받지 않는 데다, 철혈이 이런 종류의 무기를 쓴 흔적도 보이질 않으니.
+FAL(0);FN57(0)<Speaker>FN-57</Speaker>||<BIN>8</BIN>:만일에 대비하자는 거라구. 만약 이게 철혈의 소행이 아니라면?+즉, 이 날씨가 제삼자가 일으킨 현상일 수도 있다는 말이야.+물론 말도 안 되는 발상이라는 건 나도 알고 있지만......
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN>:네가 평소에 별난 생각을 많이 하는 건 알지만... 이번에는 어느 정도 일리는 있어 보이네.
+FAL(0);FN57(0)<Speaker>FN-57</Speaker>||<BIN>8</BIN>:어? 설마 네가 맞장구를 쳐줄 줄은 몰랐는걸.
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN>:전장에 오래 머물면 머물수록, 점점 영감과 운에 의지하게 되는 법이야.+그래서 내가 널 부사수로 데리고 있는 거고.
+FAL(0);FN57(0)<Speaker>FN-57</Speaker>||<BIN>8</BIN>:아무튼 칭찬해준 거라고 생각할게.+그렇지만, 가끔은 너도 좀 더 솔직해진다면......
+FAL(0);FN57(0)<Speaker></Speaker>||<BIN>8</BIN><SE1>Explode</SE1><震屏>:쿠웅!——
+FAL(0);FN57(0)<Speaker>FN-57</Speaker>||<BIN>8</BIN>:우앗!
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN>:앗! ...뭐지 이 엄청난 진동은....
+FAL(0);FN57(0)<Speaker>FN-57</Speaker>||<BIN>8</BIN>:북서쪽에서 느껴졌어! ......작전 목표가 있는 곳이야!
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN>:여기까지 영향을 미치다니...... 대체 무슨 일이 일어나고 있는 거야?
+FAL(0);FN57(0)<Speaker>FN-57</Speaker>||<BIN>8</BIN>:현재 근원지는 알 수 없어...... 잠깐! 통신이 연결됐어!
+FAL(0);FNFNC(0)<Speaker>FN-FNC</Speaker><通讯框>||<BIN>8</BIN>:하...... 하아...... 거기... 누구 있어?!
+FAL(0)<Speaker>FAL</Speaker>;FNFNC(0)<通讯框>||<BIN>8</BIN>:FNC! 그쪽에 무슨 일이 생긴 거야!
+FAL(0);FNFNC(0)<Speaker>FN-FNC</Speaker><通讯框>||<BIN>8</BIN>:다행이야...... 드디어 연결됐어!+우...우리 인트루더를 만났어!
+FAL(0)<Speaker>FAL</Speaker>;FNFNC(0)<通讯框>||<BIN>8</BIN>:......!+조금 전의 진동은 그 녀석의 짓이야?
+FAL(0);FNFNC(0)<Speaker>FN-FNC</Speaker><通讯框>||<BIN>8</BIN>:모르겠어...... 그 후에...... 하늘에서 벼락이 내리쳤어!
+FAL(0)<Speaker>FAL</Speaker>;FNFNC(0)<通讯框>||<BIN>8</BIN>:......뭐?
+FAL(0);FNFNC(0)<Speaker>FN-FNC</Speaker><通讯框>||<BIN>8</BIN>:엄~청나게 큰 번개였다구! 여기에 미사일이 떨어진 줄 알았다니까!
+FAL(0)<Speaker>FAL</Speaker>;FNFNC(0)<通讯框>||<BIN>8</BIN>:번개가...... 이렇게 큰 폭발을 일으킬 수 있다고?
+FAL(0);FNFNC(0)<Speaker>FN-FNC</Speaker><通讯框>||<BIN>8</BIN>:아무튼, 나는 운 좋게 피할 수 있었는데......+그 직후, 인트루더는 사라졌고 언제 돌아올지는 잘 모르겠어.+아, 그리고 근처에서 정신을 잃은 인간 여자를 발견했어.
+FAL(0)<Speaker>FAL</Speaker>;FNFNC(0)<通讯框>||<BIN>8</BIN>:.....여자를?
+FAL(0);FNFNC(0)<Speaker>FN-FNC</Speaker><通讯框>||<BIN>8</BIN>:금발에...... 이상한 옷을 입고 있는 걸 보니까, 현지인 같아 보이지는 않던데.+어쨌든 조금 전 소동으로 이곳의 철혈 유닛들도 움직이기 시작해서, 이제 여기 상황도 급박하게 돌아가기 시작했어.
+FAL(0)<Speaker>FAL</Speaker>;FNFNC(0)<通讯框>||<BIN>8</BIN>:......지금 바로 지원을 보낼게. 넌 지금 당장 49를 찾으러 가.+겸사겸사, 그 여자도 보호해서 데려오면 되겠지.+우선 숨어있다가, 우리와 합류하고 나서 같이 퇴각하는 걸로 하자.
+FAL(0);FNFNC(0)<Speaker>FN-FNC</Speaker><通讯框>||<BIN>8</BIN>:아, 알겠어!
+FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:......지휘관님, 저희가 나서야 할 때인 것 같네요.
+FAL(0);FN57(0)<Speaker>FN-57</Speaker>||<BIN>8</BIN>:이야~ 드디어 여기서 멍때리고 있지 않아도 되겠네.+그런데 조금 전의 번개가 철혈의 무기라면...... 썩 좋은 상황은 아닌데 말이야.
+FAL(0)<Speaker>FAL</Speaker>;FN57(0)||<BIN>8</BIN><黑屏1>:이 일을 헬리안에게 보고해야겠어. 아키텍트로부터 뭔가 캐낼 수도 있겠지.+이번 사태는...... 우리로서는 상상조차 할 수 없을지도 몰라.+자, 출발하도록 하자. FN 소대가 다시 한번 모이게 되겠네.
+()||<BIN>10</BIN><黑点2>:

@@ -1,0 +1,52 @@
+()||<BIN>1</BIN><BGM>BGM_Frontline</BGM>:그리폰이 철혈의 대형 거점을 향해 공세를 전개하고 있다.
+M1918(0)<Speaker>M1918</Speaker>||<BIN>1</BIN>:정말이지...... 어째서......+난 또 이런 곳에 오게 된 걸까......
+M1918(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>1</BIN>:투덜대지 마, M1918 씨.+지휘관의 정식 명령으로 현재 당신은 우리 FN 소대에 임시로 소속되어 있는 상태야.
+M1918(0)<Speaker>M1918</Speaker>||<BIN>1</BIN>:하아...... 나한테 뭔가 기대를 하지 않는 편이 좋을 거야......+저 철혈의 신형인형들과 마주하면 나는 아무런 쓸모도 없단 말야...
+M1918(0);FN57(0)<Speaker>FN-57</Speaker>||<BIN>1</BIN>:우리 소대는 확실히 핵심 구역으로의 돌격 임무를 받았지만......+그래도 걱정 마, 총알받이는 FAL한테 하라고 하면 돼, 걔보다 그 일에 적합한 인형은 없다구.
+M1918(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>1</BIN>:57, 다 듣고 있거든──
+M1918(0);FN57(0)<Speaker>FN-57</Speaker>||<BIN>1</BIN>:다만, 이 거점의 핵심 구역을 성공적으로 습격하기 위해선......+우리는 M1918 씨, 당신한테 기댈 수밖에 없어.+당신 말고 그곳의 가장 취약한 돌파구를 아는 인형은 없을 테니까.
+M1918(0)<Speaker>M1918</Speaker>||<BIN>1</BIN>:그러니까, 나는 단지 길 안내만 하면 되는 거지......?+그 정도라면 문제없지만......
+FAL(0)<Speaker>FAL</Speaker>||<黑屏1><BIN>1</BIN>:별다른 특이사항이 없다면 출발하자, 다른 소대는 벌써 작전을 시작했다구.
+()||<BIN>1</BIN><黑屏2><SE1>Gunfight</SE1>:......그리폰의 제대와 철혈이 교전 중이다.
+FAL(0)<Speaker>FAL</Speaker>||<BIN>1</BIN>:그래...... 좋아, 알겠어.+다들, 계획이 변경됐어.+57의 보고에 따르면, 기존의 경로는 철혈의 포탑에 의해 봉쇄됐어.+방법이 없는 건 아니지만, 지금은 그 포탑을 신경 쓸 시간이 없어.
+M1918(0)<Speaker>M1918</Speaker>;FAL(0)||<BIN>1</BIN>:으으...... 번거롭네 정말......+지금 이 길이 가장 이상적인 루트인데.+지금 루트를 변경했다가는 엄청 고생하게 될 거야......
+FAL(0)<Speaker>FAL</Speaker>||<BIN>1</BIN>:그렇구나...... 나도 그렇게 생각해.+그렇다면 어쩔 수 없지.+XM3, 여기는 FAL. 듣고 있어?
+M1918(0)<Speaker>M1918</Speaker>||<BIN>1</BIN>:XM3...? 걔들도 이번 작전에 참여한 거야?
+xm3(0)<Speaker>XM3</Speaker><通讯框>||<BIN>1</BIN>:여기는 XM3, 잘 들려.+내가 뭘 하면 되지?+우리 한심한 대장님은 거기서 잘 하고 있어?
+xm3(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>1</BIN>:걱정할 필요 없어.+우린 현재 표시한 지점에서 돌파해야만 하는 포탑과 마주쳐서 지원이 필요해.
+xm3(0)<Speaker>XM3</Speaker>;FAL(0)||<BIN>1</BIN>:......+우리가 저 포탑을 유도하면 된다는 거지?
+FAL(0)<Speaker>FAL</Speaker>||<BIN>1</BIN><BGM>BGM_Empty</BGM>:이건 너희에게 맡기도록 하지.
+()||<BIN>1</BIN>:......통신 종료.
+M1918(0)<Speaker>M1918</Speaker>||<BGM>BGM_Danger</BGM><BIN>1</BIN>:FAL, 무슨 짓을 하는 거야!?+XM3와 Super SASS에게 뭘 시키려는 거야?
+M1918(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>1</BIN>:당신이 말한 대로, 우리는 더 이상 다른 루트를 찾을 시간이 없어. M1918 씨.
+M1918(0)<Speaker>M1918</Speaker>;FAL(0)||<BIN>1</BIN>:너 설마, 내 눈앞에서 내 소대원들을 총구로 떠밀겠다는 거야, FAL?
+M1918(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>1</BIN>:우리는 더 이상 시간이 없다고, M1918.+우리 외에 전부 우리의 작전 진행을 엄호하는 역할이야......+......이봐, 어딜 가려는 거야, M1918 씨.
+M1918(0)<Speaker>M1918</Speaker>||<BIN>1</BIN>:비켜, FAL.+내 소대원이 죽으러 가는 걸 보고만 있을 수는 없어.
+M1918(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>1</BIN>:M1918, 당신의 임무는 우리와 함께 철혈의 방어선을 돌파하는 거야.+넌 지금 걔들의 대장도 아니고, 걔들의 안위는 지금 네 작전목표와 상관없어.
+M1918(0)<Speaker>M1918</Speaker>||<黑屏1><BIN>1</BIN>:난 내가 관심 있는 것 말곤 몰라.+마지막으로 말하지, 비켜.
+()||<BIN>1</BIN><黑屏2><SE1>Gunfight</SE1>:......
+xm3(1)<Speaker>XM3</Speaker>||<BIN>1</BIN>:나 원......+저번 작전 후에 그런 말을 했다고 진짜 재수 없는 일이 일어나다니......+나서자마자 철혈 포탑에 몸도 이 꼴이 났고.
+xm3(1);SuperSASS(0)<Speaker>SuperSASS</Speaker>||<BIN>1</BIN>:이럴 거라고 생각은 했지만...+정작 포구에 조준 당하는 순간엔, 아무 생각도 나지 않았어......
+xm3(1)<Speaker>XM3</Speaker>||<BIN>1</BIN>:상관없어......+큭...... 의미 없는 희생만은 아니기를 바라야지.
+()||<BIN>1</BIN>:......+......철혈 포탑의 포격이 갑자기 멈추었다.
+SuperSASS(0)<Speaker>SuperSASS</Speaker>||<BIN>1</BIN>:어라......?+어떻게 된 거지? 저 포탑, 더 이상 우릴 향해서 쏘지 않는 건가?+그러면... 우리들 살아남은 거야?
+xm3(1)<Speaker>XM3</Speaker>;SuperSASS(0)||<BIN>1</BIN>:FN 소대가 이미 후방에 도착한 거 아니면...... 더 이상 우리는 거들떠보지도 않는다는 거겠지.+뭐...... 큭...... 어느 쪽이든......+어차피 우리가 어쩔 수 있던 것도 아니니까.
+SuperSASS(0)<Speaker>SuperSASS</Speaker>||<BIN>1</BIN>:하지만...... 어째서.......?
+()||<BIN>1</BIN>:......Super SASS가 포탑 쪽을 바라보았다.
+SuperSASS(0)<Speaker>SuperSASS</Speaker>||<BIN>1</BIN>:아!+XM3! 저기 좀 봐, M1918 씨야!+......XM3?
+xm3(1)<Speaker>XM3</Speaker>||<BIN>1</BIN><BGM>BGM_Empty</BGM><黑屏1>:............
+()||<BIN>1</BIN><黑屏2>:......M1918과 Super SASS가 합류했다.
+M1918(0)<Speaker>M1918</Speaker>||<BGM>BGM_Sad</BGM><BIN>1</BIN>:이봐, 너희 여기 있었구나! 괜찮은 거지?
+M1918(0);SuperSASS(0)<Speaker>SuperSASS</Speaker>||<BIN>1</BIN>:괜찮아요, 저는 부상을 입지 않았지만......
+M1918(0)<Speaker>M1918</Speaker>;SuperSASS(0)||<BIN>1</BIN>:그럼 다행이야......+너희한테 그런 일을 시키는 걸 보고 정말 깜짝 놀랐어.+헤헤...... FAL은 저 포탑이 처리하기 어렵다고 했지만, 보아하니 저 포탑의 설계를 잘 모르나 봐.
+M1918(0);SuperSASS(0)<Speaker>SuperSASS</Speaker>||<BIN>1</BIN>:그렇다는 건...... 방해물을 다 처리하셨다는 건가요...?
+M1918(0)<Speaker>M1918</Speaker>;SuperSASS(0)||<BIN>1</BIN>:뭐...... 오랜만에 빡세게 운동 좀 했네...... 한동안은 이곳저곳 쑤시겠어.+아, 맞다! Super SASS, XM3는 어디 있어?
+SuperSASS(0)<Speaker>SuperSASS</Speaker>||<BIN>1</BIN>:XM3는 동력 코어에 손상을 입었어요.+현재 잠시 강제 휴면에 들어갔죠......
+M1918(0)<Speaker>M1918</Speaker>||<BIN>1</BIN>:그렇구나......+난 아직도...... 걔가 화나 있는 줄로만... 생각했어.
+SuperSASS(0)<Speaker>SuperSASS</Speaker>||<BIN>1</BIN>:화나는 게...... 당연하잖아요......
+M1918(0)<Speaker>M1918</Speaker>||<BIN>1</BIN>:어라?
+SuperSASS(0)<Speaker>SuperSASS</Speaker>||<BIN>1</BIN>:어째서......+어째서 이렇게 할 수 있었으면서, 왜 지금까지 그러지 않으셨나요?+왜...... 꼭 상황이 이 지경이 되어서야......
+M1918(0)<Speaker>M1918</Speaker>||<BIN>1</BIN>:그, 그렇지만...... 이번에는......+난 이미......
+SuperSASS(0)<Speaker>SuperSASS</Speaker>||<BIN>1</BIN>:저도 더는 못 참겠어요!+정말 모르겠어요, 당신은 대체 무슨 생각을 하는 거죠!?+정말로 저희를 신경 쓰신다면, 어째서 평소에는 저희를 혼란 속에 빠뜨리는 거냐구요──!
+M1918(0)<Speaker>M1918</Speaker>||<BIN>1</BIN>:Super SASS......
+SuperSASS(0)<Speaker>SuperSASS</Speaker>||<BIN>1</BIN><黑屏1>:당신이 처음부터...... 이런 모습을 보여주셨다면......+XM3...... 저희는......+어째서......

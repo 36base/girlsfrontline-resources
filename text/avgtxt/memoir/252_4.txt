@@ -1,0 +1,46 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>80</BIN><黑屏2><BGM>BGM_Hello</BGM>:일주일 후, 그리폰 기지.+카페.
+DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||:여기 술 있나요?
+DP12(0)<Position>0,-100</Position>;M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,150</Position>||:여긴 건전한 카페랍니다. 술은 제공하지 않아요.
+DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>;M1903Cafe(0)<Position>0,150</Position>||:그럼 저와 지휘관님께 밀크커피 두 잔 부탁해요.
+DP12(0)<Position>0,-100</Position>;M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,150</Position>||:알겠습니다.
+DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||:지휘관님, 드셰브니에 대해서 처음부터 알고 계셨죠?
+지휘관()<Speaker>지휘관</Speaker>||:......<c>여기서 일하는 인형은 거의 다 조사해 뒀지.<c>글쎄, 과연 어떨까?
+DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||<分支>1</分支>:그럼 참 많은 일을 보셨겠군요.+혹시 봐서는 안 될 것도 보신 적 있나요?
+DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||<分支>2</分支>:수수께끼인가요? 후훗, 그런 거 싫지 않답니다.
+DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||:아무튼, 그럼 제가 왜 그리폰에 왔는지도 아시겠네요.+어쩐지, 이력서를 넣자마자 바로 채용 통보가 날아오더라니.
+DP12(0)<Speaker>지휘관</Speaker>||:그 이전에 네 실력과 경험을 높이 산 거지.
+DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||:하긴, 그것도 그렇네요.+아무튼, 드셰... KSVK의 마인드맵 업그레이드가 잘 되었다고 들었어요.
+DP12(0)<Speaker>지휘관</Speaker>||:본인이 직접 나한테 와서, 이제 과거를 똑바로 마주 볼 수 있게 되었다고 하더라.+"내가 지금의 나로서 있는 것은, 과거를 짊어질 용기와 강해지고자 하는 결심이 있기 때문이다."+그렇게 말하고는 당당하게 출발했어.
+DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||:하하하, 성대모사 잘하시네요. 확실히, 그 아이가 할 법한 말이에요. 그리고 실천에 옮겼고 말이죠.+우리 애 정말 착한 아이죠?
+DP12(0)<Speaker>지휘관</Speaker>||:그러게 말이야, 괜히 걱정한 것 같아.
+DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||:그렇진 않다고 생각해요. 일부러 일주일 정도 뜸을 들이길 잘했다니까요.+제가 바로 찾아갔다면 그렇게 쉽게 믿어 주지도 않았을 거예요.
+DP12(0)<Speaker>지휘관</Speaker>||:넌 정말 심술쟁이구나.
+DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||:후훗, 다 경험담이랍니다.+아시다시피, 전 그 애를 여러 번이나 찾아냈어요.+당시 그 아이의 소체로는, 잔혹한 사회에서 오래 견딜 수 없었죠. 여러 번 구해내긴 했지만... 항상 구할 수는 없었어요.
+DP12(0)<Speaker>지휘관</Speaker>||:IOP의 기록에 의하면, 입수 당시 소체는 심각하게 파손된 상태였지만 마인드맵은 멀쩡했다고 하더군.
+DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>||:자신의 기억을 잘 지켰군요.
+DP12(0)<Speaker>지휘관</Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:뭐, 그런 일들이 있었기에 지금 이렇게 듬직하게 성장한 거라 봐야겠지.+그러니 너도 이젠 마음 놔도 돼, KSVK는 이제――
+DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>KSVK</Speaker>||<BGM>BGM_Empty</BGM>:예전의 나와는 완전히 달라졌으니까.
+DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>;KSVK(7)||<BGM>BGM_Sunshine</BGM>:어머나~ 엄청난 깜짝 선물이네요.
+M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,150</Position>;KSVK(7)||:어서 오세요. 커피 한 잔 추가할까요?
+M1903Cafe(0)<Position>0,150</Position>;KSVK(7)<Speaker>KSVK</Speaker>||:고맙다 스프링필드. 하지만 난 오렌지 주스면 된다.
+M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,150</Position>;KSVK(7)||:천만에요.
+KSVK(7)<Speaker>지휘관</Speaker>||:어서 오렴.
+KSVK(7)<Speaker>KSVK</Speaker>||:다녀왔다, 지휘관. 그리고... DP-12.
+DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>;KSVK(7)||:응, 어서 돌아오렴.+그런데, 그 외형을 쓸 줄은 예상 못했는걸?
+DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>KSVK</Speaker>||:역시 이런 소체가 내게 더 어울릴 것 같아서 말이지.+과거를 잊지 않고, 미래를 두려워하지 않는다.+지금의 나는 KSVK인 동시에 드셰브니다. 내겐 동료들과 지휘관이 있으니까.
+DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>;KSVK(7)||:정말 다행이구나.
+DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>KSVK</Speaker>||:그리고... 너도 있어, 헬레나.
+DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>;KSVK(7)||:얘도 참... 갑자기 그렇게 말하다니 반칙이야.+나도, 너와 그리폰의 모두와 함께로 충분해.
+DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>KSVK</Speaker>||:그리고 지휘관, 부탁이 있다.+이걸 대신 보관해 줄 수 있겠나?
+DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>지휘관</Speaker>||:이건... 편지? 요즘 같은 시대에 종이로 편지를 쓰다니, 정말 드문 일이네.
+DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>KSVK</Speaker>||:그래, 내게 아주 소중한 편지다.+전장에선 찢어지기 쉬우니, 지휘관이 대신 보관해 줬으면 한다.
+DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>지휘관</Speaker>||:그래, 맡겨 줘.
+DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>;KSVK(7)||:답장은 안 쓸 거니?
+DP12(0)<Position>0,-100</Position>;KSVK(7)<Speaker>KSVK</Speaker>||:그래야지. 저 멀리 어딘가에 가족이 있는 것도 나쁘지 않군.+지금 가지고 있는 인연을, 꼭 붙잡아야지.
+DP12(0)<Speaker>DP12</Speaker><Position>0,-100</Position>;KSVK(7)||:그분도 분명 기뻐하실 거야. 손녀가 세상을 위해 싸우고 있다니, 얼마나 멋지겠니?
+M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,150</Position>;KSVK(7)||:주문하신 커피와 오렌지 주스 나왔습니다.
+M1903Cafe(0);KSVK(7)<Speaker>KSVK</Speaker>||:이건...?
+M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,150</Position>;KSVK(7)||:축하하는 의미로 드리는 서비스예요. KSVK 씨의 귀환을 위해 특별히 준비한 디저트랍니다.
+KSVK(7)<Speaker>KSVK</Speaker>||:고맙다.+그럼... 나의 동료들, 과거와 미래의 모든 것을 위하여!
+()<Speaker>전원</Speaker>||<黑屏1>:위하여!

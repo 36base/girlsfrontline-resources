@@ -1,0 +1,83 @@
+()||<BIN>9</BIN><SE1>Battlefield</SE1><SE2>Gunfight</SE2><BGM>BGM_Danger</BGM>:......+............
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:정말이지...여기저기 숨는 것 밖에 못하니?...+원래같으면 그저 노는 것일 뿐인데, 이런 식으로 나온다면, 나 정말로 화낼 거라구! .+너희들의 행동 패턴은 이미 파악했어~, 검은 옷들...+내가 너희들이 10분 뒤에 어느 거점에 나타날지 계산해낼 수 있다구.+흐흥, 바로 거기에서 너희들을 깜짝 놀라게 해줄게! 그리고 너희들이 날 갖고 장난친 걸 후회하게 해주겠어! 
+()||:............10분 후.
+()||<SE1>Explode</SE1>:......쾅! 
+BOSS-9(0)<Speaker>아키텍트</Speaker>||<黑屏1>:헤헤, 깜짝인사로 이번 일격은 분명 나쁘지 않았을 거야!+내가 가서 어떻게 됐는지 봐야겠네~ 
+()||<BGM>BGM_Empty</BGM><BIN>7</BIN><Night><黑屏2>:......
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:응? 사람은?+어째서...여기에 없는 거야!?
+BOSS-7(0)<Speaker>게이저</Speaker><通讯框>;BOSS-9(0)||:아키텍트! 
+BOSS-7(0);BOSS-9(0)<Speaker>아키텍트</Speaker>||:응? 불렀어? AR팀은 잡은 거야?!
+BOSS-7(0)<Speaker>게이저</Speaker>;BOSS-9(0)||:너....+너 이 바보, AI가 모자른 거야!?왜 기지에서 벗어난 거냐고! 
+BOSS-7(0);BOSS-9(0)<Speaker>아키텍트</Speaker>||:으엑!?....+너무 걱정마, 내가 이미 방어 프로그램을 설치해놨다고. 그녀들은 들어갈 수 없을 거야! 
+BOSS-7(0)<Speaker>게이저</Speaker>;BOSS-9(0)||:그 문제가 아니야! 그 몇몇 인형들이 네가 기지에서 벗어난 틈을 타서 이미 포탑을 우회해서 도망갔다고! 
+BOSS-7(0);BOSS-9(0)<Speaker>아키텍트</Speaker>||<震屏>:어어어어어?!?!+그럴리가! 그녀들이 어떻게 내가 출격할 시기를 알았는데!?
+BOSS-7(0)<Speaker>게이저</Speaker>;BOSS-9(0)||:네가 나올 때, 포탑 전원은 꺼져있는 상태였어? 
+BOSS-7(0);BOSS-9(0)<Speaker>아키텍트</Speaker>||:아니야, 내가 포탑으로 그녀들을 누르고 있었는데....+......아!+그렇게 된 거였구나! 
+BOSS-7(0)<Speaker>게이저</Speaker>;BOSS-9(0)||:(한숨)....
+BOSS-7(0);BOSS-9(0)<Speaker>아키텍트</Speaker>||:아아아아! 이렇게 복잡한 걸 내가 어떻게 이해하는데! 
+BOSS-7(0)<Speaker>게이저</Speaker>;BOSS-9(0)||:관두자...+넌 지금 곧바로 기지로 돌아가서, 가장 높은 수준의 경계경보를 발령해. 알아들었어?
+BOSS-7(0);BOSS-9(0)<Speaker>아키텍트</Speaker>||:어이 이봐! 네가 어째서 나에게 명령을 내리는데! 난 너의 상관....
+BOSS-7(0)<Speaker>게이저</Speaker>;BOSS-9(0)||:들. 었. 지! 
+BOSS-7(0)<Speaker>아키텍트</Speaker>||<震屏>:으아! 아, 알겠다구! (도망)
+BOSS-7(0)<Speaker>게이저</Speaker>||<黑屏1>:............+절대로 그녀들을 도망치게 하면 안 돼...+절대, 드리머가 우릴 얕보게 해선 안 된다고! 
+()||<黑屏2><BIN>9</BIN><BGM>BGM_War</BGM><SE2>Gunfight</SE2>:............같은 시각.
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||<SE1>Battlefield</SE1>:M16, 내 탄약이 곧 다 떨어져! 
+M16(3)<Speaker>M16A1</Speaker>||:나도, 수류탄도 부족해. RO, 네 쪽은? 
+RO635(4)<Speaker>RO635</Speaker>||<SE2>Gunfight</SE2>: (던지며)....이게 마지막이야, 아껴서 써. 
+M16(3)<Speaker>M16A1</Speaker>||<SE1>Battlefield</SE1>:고마워, 살아서 다 썼으면 좋겠는데...
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:그런 말 하지마! 난 이런 곳에서 쓰러질 생각 없다고! 
+M16(0)<Speaker>M16A1</Speaker>||: 농담이야. 어쨌든 오늘 밤도 어떻게든 버텨낼 수 있겠어. 
+()||<SE1>Battlefield</SE1>:......
+M16A1()<Speaker>M16A1</Speaker>||:내 생각엔 헬리안의 조커가...밝혀질 시간인 것 같아. 
+()||<SE2>Gunfight</SE2>:......!
+M4 SOPMOD II()<Speaker>M4 SOPMOD II</Speaker>||<SE1>Battlefield</SE1>:총성이 들려! 아군인가봐! 
+UMP45()<Speaker>UMP45</Speaker>||:다들, 날 보고 싶었어?+......♪
+M16A1()<Speaker>M16A1</Speaker>||<黑屏1><SE2>Gunfight</SE2>:............+과연 네 녀석인가...
+UMP45()<Speaker>UMP45</Speaker>||<黑屏2><BIN>49</BIN><火花>:너 지금도 계속 우릴 보고 싶지 않았던 거야? 
+M16A1()<Speaker>M16A1</Speaker>||<SE1>Battlefield</SE1>:하......+공과 사를 구분해라. 이건 너희들이 나에게 가르친 거잖아. 
+UMP45()<Speaker>UMP45</Speaker>||<SE2>Gunfight</SE2>:그래, 그렇지 않으면 나 역시 이런 곳에 오고 싶지 않았어...+가엾게도...이런 게 운명인가 봐. 
+M16A1()<Speaker>M16A1</Speaker>||<SE1>Battlefield</SE1>:이건 명령일 뿐이야, 45.+탄약을 줘, 내가 길을 열지. 
+UMP45()<Speaker>UMP45</Speaker>||:네 생각엔...우리가 그런 물건을 가져왔을 것 같아? 
+M16A1()<Speaker>M16A1</Speaker>||<SE1>Battlefield</SE1><黑屏1><关闭火花>:물론...+설마 네가 앞장설 생각은 아니잖아? 여우 녀석. 
+()||<BIN>9</BIN><黑屏2>:......
+M16A1()<Speaker>M16A1</Speaker>||:전방 수류탄! 
+()||<黑屏1><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:......쾅! 
+()||<BIN>8</BIN><黑屏2><Night>:............5분 뒤, AR팀이 있는 임시피난소. 
+RO635(5)<Speaker>RO635</Speaker>||<BGM>BGM_Room</BGM>:다들, 다 도착한 거지! 
+M16(3)<Speaker>M16A1</Speaker>||:후....낙오자는 없네....
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:저기저기, 너희가 소문이 자자한 바로 그 404, 맞지!?+설마 우릴 구하려고 특별히 온 거야? 
+UMP9(3)<Speaker>UMP9</Speaker>||:헤헤, 그거야 당연하지!+결국 밤에 도착했지만, 우리가 전문이니까. 
+M16(3)<Speaker>M16A1</Speaker>||:............+그 점은 일단 인정하는데, 너희들은 왜 먼저 우리에게 연락을 안한 거지? 
+UMP45(0)<Speaker>UMP45</Speaker>||:여기 보스가 하나가 아니거든. 우린 다른 한 녀석을 움직이게 하고 싶지 않았어. 
+RO635(0)<Speaker>RO635</Speaker>||:과연 그런가...+구조해 주셔서 감사해요. 404 여러분. 
+HK416(0)<Speaker>HK416</Speaker>||:그렇게 고마워하지 마, 모두 명령일 뿐이니까. 
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:그런데...겨우 4명에서 어떻게 게이저를 상대한 거야? 
+G11(0)<Speaker>G11</Speaker>||:아......+지금...게이저 뿐만이 아니야. 
+RO635(4)<Speaker>RO635</Speaker>||:......뭐라고요? 
+G11(2)<Speaker>G11</Speaker>||:우리가 다른 한 명도 스팀받게 만들었거든...아마도...
+RO635(0)<Speaker>RO635</Speaker>||:UMP45, 당신은 404의 대장이죠.+지금 상황이 촉박해요. 분명 탈출 방안을 생각해두셨을 거라고 생각하는데요. 
+UMP45(0)<Speaker>UMP45</Speaker>||:확실히, 내가 한가지 방법이 있긴 해. 하지만...+철혈의 이번 공세는 이미 격퇴됐으니, 일단 여기서 나가도록 하자. 
+()||:......UMP45가 피난소에서 나간다. 
+HK416(0)<Speaker>HK416</Speaker>||:......
+M16(3)<Speaker>M16A1</Speaker>||:저기......
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:아, HK416도 가버렸다.+M16, 너 저 애랑 아는 사이야? 
+M16(3)<Speaker>M16A1</Speaker>||:그런 셈이지...+하지만, 그게 중요한 게 아니야...+RO, 이후로도 네가 지휘를 맡는 거야, 알아들었어? 
+RO635(0)<Speaker>RO635</Speaker>||:아...가능해. 어쨌든 내가 지휘효율이 가장 높으니까. 
+M16(3)<Speaker>M16A1</Speaker>||:그 때문만이 아니야.+만약, 네가 모든 인형들과 돌아가고 싶다면, 지휘권을 반드시 네가 갖고있어...+......절대로 UMP45에게 넘겨주지 마. 알았어? 
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:응...알겠어. 
+()||<黑屏2><BIN>6</BIN><Night>:......
+UMP45(0)<Speaker>UMP45</Speaker>||: 날이 밝았어...+너도 이미 출발할 준비가 된 것 같네, RO635 씨? 
+RO635(0)<Speaker>RO635</Speaker>||:......+만약 M4A1이라면, 뭐라고 대답했을까요? 
+UMP45(0)<Speaker>UMP45</Speaker>||:그녀가 날 본적이 없어서, 나도 잘 모르겠는 걸. 
+RO635(0)<Speaker>RO635</Speaker>||:당신도 저를 본 적 없잖아요 안그래요? 
+UMP45(0)<Speaker>UMP45</Speaker>||:M16이 말해줬어, 네가 비밀 시험품이란걸.+임무 중에 쓸 데 없는 짓은 삼가겠다고 약속하지, 다만 나도 정말 궁금한걸...+하나만 물어보자, 너는 정말...이런 "물품"이 되길 원하는 거야? 
+RO635(0)<Speaker>RO635</Speaker>||:......아직까지는, 그렇게 싫진 않네요. 
+UMP45(0)<Speaker>UMP45</Speaker>||:넌 굳이 M4A1의 그림자 밑에 있을 필요가 없어......+그리고, 그녀는 마인드가 성숙한 인형이 아니라, 너보다 잘 할 수 있을 것 같진 않아. 
+RO635(0)<Speaker>RO635</Speaker>||:그녀는 마지막 작전 중에 모든 사람들을 지켜냈어요. 저는 절대 그렇게 할 순 없어요. 
+UMP45(0)<Speaker>UMP45</Speaker>||:중요한 건, 너희들은 같은 인형이 아니라는 거고, 임무 역시 같은걸 수행하는게 아니라는 거야...+어째서 스스로 뭔가를 하지 않으려 하고, 타인의 대체품이 되려고 하는 거야? 
+UMP45(0)<Speaker>UMP45</Speaker>||:넌, 정말로 모든 이들을 지키고 싶은 거야? 
+RO635(0)<Speaker>RO635</Speaker>||:............+역시나 UMP45, 당신들의 사정에 관해 들은 적이 있어요...+효율을 위해, 이후의 모든 작전 지휘를 저에게 맡겨주세요. 이의는 없으시죠? 
+UMP45(0)<Speaker>UMP45</Speaker>||:물론 없지...+넌 분명 나보다 잘 할 거야, RO 씨.+......내가 이렇게 당신을 불러도 될까? 
+RO635(0)<Speaker>RO635</Speaker>||:괜찮아요. 모두들 그렇게 부르고 있어요.+45, 우리는 가능한 여기를 벗어나는 것만 생각하기로 하죠. 당신도 절 도와주실 수 있죠? 
+UMP45(0)<Speaker>UMP45</Speaker>||:그건 헬리안이 나에게 맡긴 일이야, 그리고 공과 사를 구분하는 게 나의 원칙이고. 
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:.......감사합니다. 그게 바로 제가 듣고 싶었던 이야기예요. 

@@ -1,0 +1,35 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>232</BIN><黑屏2><BGM>BGM_Room</BGM>:......
+()<Speaker>안젤리아</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여기는 안젤리아. M4, 들려?</color>+<color=#00CCFF>지금 승강기로 향하고 있다. 지휘관한테서 너희의 지휘 권한도 인계받았어. 리벨리온 신입 둘은 그쪽에 있지?</color>
+()<Speaker>M4A1</Speaker>||:안젤리아 씨!? 무사하셨군요! 지휘관님께서 상황을 전달하시면서 모든 엘리트 인형들을 이쪽으로 보내 주셨습니다.+현재 댄들라이도 함께 이동 중입니다.
+()<Speaker>안젤리아</Speaker>||:<color=#00CCFF>댄들라이?</color>
+()<Speaker>M4A1</Speaker>||:아, 소체를 얻은 오가스입니다. 우리 편인 엘리사라 생각하셔도 돼요.+철혈이나 패러데우스 유닛을 지배해 저희를 지원할 수 있습니다.
+()<Speaker>댄들라이</Speaker>||:<color=#00CCFF>안녕하십니까, 안젤리아 씨. 시간이 부족하니 자세한 설명은 건너뛰겠습니다. 당장은 제가 여러분을 돕는다는 것만 아시면 됩니다.</color>+<color=#00CCFF>그리고, 목소리... 그 아이들의 목소리가 들립니다. 그 아이들을 지켜 주셔서 진심으로 감사드립니다.</color>
+()<Speaker>안젤리아</Speaker>||<黑屏1>:<color=#00CCFF>어... 이렇게 예절 바른 니토는 상상도 못했는데... 뭐, 여기 와서 놀랄 일이 한두 가지도 아니었으니 그러려니 해야지.</color>+<color=#00CCFF>그럼 이동하면서 작전을 계획하자. 지금 우리의 힘으로 승산이 있을지도 몰라.</color>+<color=#00CCFF>M4, 현재 위치 보고해.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||<黑屏2><BIN>9</BIN>:<color=#00CCFF>현재 승강기 측면입니다만, 군은 이미 당신의 위치로 강하 중입니다. 저희도 서둘러 내려가겠습니다.</color>+<color=#00CCFF>조심하세요, 군 외에도 다른 병력이 있습니다.</color>
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:또 누가 있길래?
+M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>엘리사의 존재가 느껴져요. 가까운 곳에 있습니다.</color>+<color=#00CCFF>철혈의 잔존 병력이 그 기갑 유닛들과 대치하게 될 테니, 틈을 노릴 수 있을 겁니다.</color>
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:철혈 놈들도 스타피쉬를 노리고 왔겠지. M16을 조심해, 벌써 404와 여러 번 충돌했어. 녀석도 분명 심층에 있겠지.
+M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>네... 다 각오한 바입니다.</color>+<color=#00CCFF>M16 언니가 지금 뭘 하고 있는지도, 어렴풋이 느껴져요... 뭐라 설명하기가 어렵지만, 서로 연결된 느낌이 들어요.</color>
+NytoIsomer(3)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>나도 느껴져. 엘리사가 스타피쉬와 연결을 시도하는 느낌일 거야. 시간이 촉박해.</color>
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:아주 여기저기 다 말썽이군.+일단 발등에 떨어진 불부터 끄자. 만약 예고르의 발을 묶는 데 성공한다면, M4는 먼저 최심부로 진입해서 철혈의 말썽을 처리해.
+M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>알겠습니다.</color>
+AK12(2)<Speaker>AK12</Speaker>||:안젤리아, 조용히. 군이 도착했어.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>;AK12(2)||:빨리도 왔구만.
+NPC-AngeDamage(4);AK12(2)<Speaker>AK12</Speaker>||:AR팀이 철혈의 정보를 전송했어. 그 댄들라이란 녀석이 정찰한 정보 같아.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>;AK12(2)||:거 참 편리하네. 철혈도 오는 중이야?
+NPC-AngeDamage(4);AK12(2)<Speaker>AK12</Speaker>||:남은 식구 전부 끌고 왔어.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>;AK12(2)||<黑屏1><BGM>BGM_Empty</BGM>:그럼 우린 여기서 잠시 지켜보자고.
+()<Speaker></Speaker>||<BIN>232</BIN><黑屏2>:키이잉...
+()<Speaker></Speaker>||:낡은 승강기가 찢어지는 소음을 내며 움직였다.+그리고 구식 지시등이 "1"에 멈췄다.
+()<Speaker>예고르</Speaker>||:엠버 각 기, 정신 똑바로 차려라. 방해꾼이 나타났다.
+()<Speaker>부관</Speaker>||<黑屏1>:예, 대위님!
+()<Speaker></Speaker>||<BIN>222</BIN><黑屏2>:승강기의 문이 천천히 열리자...+예상대로, 밖에는 불청객을 마중 나온 자들이 기다리고 있었다.
+()<Speaker>？？？</Speaker>||<BGM>BGM_War</BGM>:어서 오십시오, 인간 여러분.
+()<Speaker></Speaker>||:철혈의 무리 한가운데, 차가운 눈빛의 두 인형이 거대한 기갑들을 주시했다.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:여러분의 죽음을 가져왔습니다.
+BossJustice(0)<Speaker>저지</Speaker>||:그러니 사양 말고 받아라!
+()<Speaker></Speaker>||:명령이 떨어지기가 무섭게, 철혈 벙력은 일제히 군의 기갑들을 향해 사격을 퍼부었다.
+NPC-Soldier(0)<Speaker>부관</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>대위님!</color>
+NPC-Yegor(4)<Speaker>예고르</Speaker><通讯框>||:<color=#00CCFF>앰버, 공격 개시! 돌파한다!</color>
+NPC-Soldier(0)<Speaker>부관</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>예!</color>

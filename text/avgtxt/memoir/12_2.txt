@@ -1,0 +1,76 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>85</BIN><BGM>BGM_Room</BGM>:그리폰 지휘실.
+HK45(0)<Speaker>HK45</Speaker>||:그... 예전 주인이란 사람에 대해서 아시는 게 있나요?
+HK45(0)<Speaker>지휘관</Speaker>||:......+<c>전직 군인이라고 하던데...<c>전혀 들은 게 없어.
+HK45(0);NPC-Kalin(1)<Speaker>카리나</Speaker>||<分支>1</分支>:과연 지휘관님, 거기까지 알아내셨군요!
+HK45(0);NPC-Kalin(1)<Speaker>카리나</Speaker>||<分支>2</分支>:그렇군요. 모르신다면 어쩔 수 없죠...
+HK45(0)<Speaker>HK45</Speaker>;NPC-Kalin(1)||:저는... 그 일에 대해서 전혀 몰랐어요.+다 제 불찰이에요...+성대한 공연 준비에만 정신이 팔려서, 조수가 과거에 어떤 일을 겪었는지도 모르고...
+HK45(0);NPC-Kalin(4)<Speaker>카리나</Speaker>||:그렇게 속상해하지 마. 딱히 기밀도 아니니까 내가 알려 줄게.+C96은 헬리안 씨가 데려온 인형이야.
+HK45(0)<Speaker>HK45</Speaker>;NPC-Kalin(4)||<震屏>:헬리안 씨요?! 예쁘고 정숙한데 아무도 작업을 안 거는 그 헬리안 씨요?!
+HK45(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:어... 그 말 절대로 본인 앞에서 하면 안 돼, 알았지...?+아무튼, 헬리안 씨는 그 애를 그리폰으로 데려왔을 뿐이야.+당시에 어느 용병 단체가 해체되면서, 갖고 있던 온갖 장비에 화기까지 다 경매에 내놨다고 해. C96도 그중 하나였고.+예전 주인은 친구랑 한 내기에서 져서 그 애를 산 거래. 용병 단체에서 허드렛일하면서, 가끔씩 적을 꿰어 내는 미끼 역할을 맡기도 했대.
+HK45(0)<Speaker>HK45</Speaker>;NPC-Kalin(0)||:미끼 역할이요?+아, 그러고 보니 그 사람이 C96을 Red9이라고 불렀어요.
+HK45(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:자세한 사정은 나도 잘 모르지만, 순진한 여자애처럼 꾸며서 방심하게 만드는 사이에 포위하는 식이었다나 봐.+심지어는 총을 쥐여 주고 전투에 나간 적도 있다고 하던데... 헬리안 씨가 경매에서 C96을 산 이유도 그 점을 눈여겨봐서겠지.+Red9은 아마 용병 단체에 있던 시절 불리던 코드네임일 거야.
+HK45(0)<Speaker>HK45</Speaker>;NPC-Kalin(0)||:그렇다면... 우리 같은 계약직이 아니라, 완전히 그리폰의 소유인 인형이란 뜻이네요?
+HK45(0);NPC-Kalin(3)<Speaker>카리나</Speaker>||<BGM>BGM_Empty</BGM>:그렇지... 하지만 대우는 너희랑 똑같단다? 월급도 받고 휴가도 나간다고.
+HK45(0)<Speaker>HK45</Speaker>;NPC-Kalin(3)||<BGM>BGM_Brain</BGM><震屏>:그런데 왜 이제 와서 그 사람이 C96을 찾은 거죠...+혹시, 직장 찾는 걸 도와 달라는 걸까요? 귀여운 C96을 앞장세워서?
+HK45(0);NPC-Kalin(3)<Speaker>카리나</Speaker>||:음... 왠지 불길한 예감이 드는데요, 지휘관님...
+HK45(0);NPC-Kalin(3)<Speaker>지휘관</Speaker>||:나도 느낌이 좋지 않아.
+HK45(0);NPC-Kalin(3)<Speaker>카리나</Speaker>||:아무 미련도 없이 팔아버렸으면서, 이제 와서 다시 찾아와서는 도움을 청하다뇨. 한물간 인터넷 소설에서 나오는 쓰레기 전남친 같아요.
+HK45(0)<Speaker>HK45</Speaker>;NPC-Kalin(3)||:그럼... 설마 C96게 나쁜 짓을 시킬 작정일까요!? 강제로 몸을 팔아 돈을 벌게 한다든가...!+큰일이에요, C96에게 무슨 일이라도 생기진 않을지 걱정돼서 다른 일에 집중할 수가 없어요...+어떡하죠 지휘관님?!
+HK45(0);NPC-Kalin(3)<Speaker>카리나</Speaker>||:아무리 흑심을 품었더라도, 몸을 팔게 할 정도는 아니라고 생각해요. 설마 현역 PMC인 그리폰의 정직원을 납치하고 쉽게 빠져나갈 수 있을 줄 알겠어요?+하지만... 그래도 무슨 조치는 해야 할 것 같아요. 어떻게 하시겠어요, 지휘관님?
+HK45(0);NPC-Kalin(3)<Speaker>지휘관</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:......
+()<Speaker></Speaker>||<BIN>166</BIN><Night><黑屏2><BGM>m_avg_casual</BGM>:인파로 북적이는 도시.
+C96(0)<Speaker>C96</Speaker>||:으으... 시내는 사람이 너무 많아서 푹푹 쪄요... 옷을 확 벗고 싶은데...+아저씨, 아저씨는 이제 뭐라 불려요? 전처럼 두꺼――
+NPC-PasserbyM(0)<Speaker>두꺼...?</Speaker>;C96(0)||<震屏>:야이씨, 그 역겨운 이름으로 부르지 마! 지금의 난 그때와는 다르다고! "토드"라 불러!+음, 역시 이쪽이 더 폼나지.
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:엑... 알았어요 토드 아저씨.
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||:젠장, 요즘 도시는 무슨 카메라를 곳곳에 달아놓은 거야?+야 Red9, 옷 벗지 마라.
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:하지만 너무 덥단 말이에요...
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||:쓸데없이 눈길을 끌면 안 된다고. 탈 없이 한 건 해치워야 한단 말이야...+야, 카메라 위치 다 파악할 수 있지?
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:네? 네, 할 수 있어요. 그런데 카메라를 찾아서 뭘 하려고요?+한 건 해치운다니, 그건 또 무슨...
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||:알아서 뭐 하게. 인형이면 인형답게 얌전히 시키는 대로 하라고.
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:그치만 그리폰에선 물어보면 가르쳐 주는걸요! 더울 때 옷을 벗어도 아무도 뭐라 안 하는데...
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||:허, 거기선 잘도 지내나 보구먼. 뭐, 어차피 이 일이 끝나는 대로 돌려보낼 거니까.
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:그리폰 좋아요! 그리폰도, 지휘관도 좋아요.+마침 그리폰에서 사람을 모집하고 있는데, 토드 아저씨도 이력서 넣어 보는 게 어때요?
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||:그딴 규칙으로 숨 막히는 곳에 왜 가냐? 잔말 말고 카메라에 안 찍히는 곳이나 찾아.
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:그런 곳을 왜 찾아요? 위험한데...
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||:이게 맞고 싶냐?
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:우으으 때리지 마세요! 사각지대라면 몇 군데 찾았어요...
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||:처음부터 그럴 것이지. 정확히 어디인지 이 전자 지도에다 표시해.
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:으응... 여기랑, 여기... 그리고 여기요.
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||<BGM>BGM_Empty</BGM><黑屏1>:이 골목이 괜찮겠군. 가자.
+NPC-PasserbyM(0)<Speaker>토드</Speaker>||<BIN>86</BIN><Night><黑屏2>:야, 예전에 미끼 작전할 때 요령 아직 안 까먹었지?
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:기억하는데... 뭘 하려고요?
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||<BGM>BGM_Danger</BGM>:이따가 내가 지나가는 사람을 지목하면, 네가 가서 도움을 청하는 척해서 이리로 데려와.
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:네. 그다음에는요?
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||:그다음엔... 당연히 기절시켜야지.
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:기절시키기! 네네! 그리고 그다...
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||<震屏>:...엑?! 기절시켜요!?
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||:기절시킨 다음, 돈이 될만한 건 다 뜯어내고 협박 전화로 몸값까지 받아낼 거야.
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:그건 강도질이잖아요! 저보고 강도질을 도와 달라는 거였어요?!
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||:그걸 말이라고 하냐? 이런 짓보다 큰돈을 쉽게 벌 방법은 없다고. 이거 한 건만 해내면 한동안 굶고 다닐 걱정도 없지.
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:하... 하지만 이건 범죄예요!
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||:Red9, 내가 너한테 이삿짐 나르는 것 좀 도와 달라 하려고 부른 줄 알았냐?+입 다물고 시키는 대로나 해, 자꾸 말 안 들으면 두들겨 패서 어디 쓰레기통에 처넣어버릴 줄 알아!
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:아, 안 돼요... 아무리 그래도... 전...+전 이제 그리폰의 정직원이란 말이에요. 무고한 인간을 해친 기록이 남으면...
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||:아 진짜 쫑알쫑알 시끄럽네.+그래, 그리폰&크루거 말이지? 그 회사에 대해선 나도 좀 들은 게 있지.+안 보이는 데서 지저분한 짓을 일삼는다지, 아마? 네 지휘관도 사람 몇 명 담가 버렸을지도 모르는 일이라고.+넌 여태까지 인간을 공격한 적 없냐?
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:없어요! 그런 짓 절대 안 해요!
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||:목소리 줄여.+네 지휘관이란 녀석은 겉으로는 깨끗한 척하는 모양인데, 이름을 암시장 상인들에게서 들은 적도 있다고.+허구한 날 인형들을 보내서 깽판을 치고 다닌다는데, 너 진짜 모르냐?
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:아니에요, 지휘관은 좋은 사람이에요! 지휘관을 헐뜯지 마세요!
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||:헛소리 말고 일이나 똑바로 해. 너도 내 밑에서 일한 경험 아니었으면 그리폰에 들어갈 수나 있었겠어?
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:아... 안 되는데...
+NPC-PasserbyM(0);C96(0)<Speaker></Speaker>||:그렇게 말하면서도, C96은 고개를 끄덕였다.
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:<color=#A9A9A9>망했다...</color>
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||:그래, 인형이 인간의 명령을 거역하면 안 되지.
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:그, 그치만 지휘관님이 위험한 일은 하면 안 된다고...
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||:위험한 일 아니야, 그냥 돈 좀 받는 거지. 길가에서 구걸하는 거나 마찬가지라니까.+나 참, 그런 눈빛으로 보지 말라고.+...그래, 그럼 약속하면 되겠냐? 이번 딱 한 번만 할게. 누굴 해치려는 것도 아니고, 그냥 돈만 조금 받으면 그걸로 끝이야.+돈을 얻는 대로 바로 외국으로 뜰 거니까, 네가 잡힐 일도 없을 거다. 됐어?
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||:그래도...
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||:명령에 복종한다, 실시!
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||<黑点1>:히익... 시, 실시!
+NPC-PasserbyM(0)<Speaker>토드</Speaker>||<黑点2><Night><BGM>BGM_Empty</BGM>:번거롭게, 그냥 처음부터 윽박지르면 될 일이었네.+음... 그래, 저기 저 여자로 하자. 보이냐? 저 붉은 머리.
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker>||<SE1>AVG_footsteps_cave</SE1>:C96은 울상을 지으며 토드가 가리키는 곳을 보았다.
+NPC-PasserbyM(0);C96(0)<Speaker>C96</Speaker><Shake>||:붉은 머리... 붉은 머리 여자...+앗!?
+NPC-PasserbyM(0)<Speaker>토드</Speaker>;C96(0)||:얼른 가!
+C96(1)<Speaker></Speaker>||<BGM>BGM_Sunshine</BGM>:토드가 골목 밖으로 떠밀어서, C96은 균형을 잃고 목표물 앞에 넘어졌다.
+C96(1)<Speaker>？？？？</Speaker>||:어머나? 어디 안 다쳤니?+와아, 귀여운 꼬마네~
+C96(1)<Speaker>C96</Speaker>||:아, 안 다쳤어... 그런데, 너...
+C96(1)<Speaker></Speaker>||:화려한 옷차림의 여성은 C96에게 손을 내밀며 활짝 미소 지었다.
+HK45(2)<Speaker>？？？？</Speaker>;C96(1)||<黑屏1>:나? 난 그냥 지나가던 댄서야.

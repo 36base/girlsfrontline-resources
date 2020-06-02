@@ -1,0 +1,92 @@
+()||<BIN>8</BIN><BGM>BGM_Room</BGM>:그리폰 지휘실.
+NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||<BIN>8</BIN>:... 간단히 말해서, 의뢰인께서 우리 그리폰이 도난 사건의 자작극을 연출하길 부탁하였습니다.+"글로리 스타"를 모두가 보는 상황에서 훔친 다음 몰래 돌려드리면 됩니다.
+NPC-Helian(0)<Speaker></Speaker>||<BIN>8</BIN>:듣자마자 눈이 휘둥그레졌다, 헬리안 씨도 눈치를 챈 모양이다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||<BIN>8</BIN>:이리 하면, 내막을 모르는 자들은 보석에 대한 욕심을 접게 되겠죠. 의뢰인도 조용하게 노후생활을 즐길 수 있게 될 것입니다. 
+NPC-Helian(0)<Speaker></Speaker>||<BIN>8</BIN>:비록 의뢰인의 정보가 적당히 편집되어 있지만, 결코 평범한 인물이 아니기 때문에 누군지 바로 알 수 있었다.+붕괴 재변을 겪고 3차 세계대전까지 겪고서도 살아남은 노부인이다.+뛰어난 투자 안목과 남편이 남긴 거액의 재산, 그리고 항상 따라주는 운 덕분에 재산 보유량이 상위권에서 내려오지 않는 자다.+파일에 언급된 그 거대 다이아는 너무나도 큰 나머지 반지나 장신구로 가공할 수도 없었다. 분명 지키는 것만으로도 엄청난 고생을 했겠지...
+NPC-Helian(0)<Speaker>헬리안</Speaker>||<BIN>8</BIN>:이번 작전은 의뢰인의 80세 생일에 개시합니다, 그날 연회장에서 보석 전시회를 개최할 예정입니다.+일정은 다음 주... 우리 회사 설립 기념일과 같은 날이군요.
+NPC-Helian(0)<Speaker>지휘관</Speaker>||<BIN>8</BIN>:그럼 기념행사는...
+NPC-Helian(0)<Speaker>헬리안</Speaker>||<BIN>8</BIN>:원래 예정대로 진행됩니다, 이번 작전은 추가 근무로 취급하여 추가 수당을 드리죠.+그 외에 본부에서 두 인형을 작전에 추가로 파견할 테니, 보석의 운송과 보관은 그 둘에게 맡기세요.+도난극의 연출은 당신에게 맡기겠습니다.
+NPC-Helian(0)<Speaker>지휘관</Speaker>||<BIN>8</BIN>:그 두 인형과 사전 토론을 할 필요는 없습니까?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||<BIN>8</BIN>:필요 없습니다, 그 둘 스스로 임무를 완수할 테니. 당신은 그저 모두가 이것이 도난 사건이라고 믿을만한 분위기를 만들어 주시면 됩니다.+갑작스러운 추가 근무지만, 부디 당신을 향한 회사의 신임의 표현으로 받아들여주길 바랍니다, 지휘관.
+()||<BIN>8</BIN>:통신 종료.+아무리 추가 수당을 준다 하여도, 기념일 행사를 놓치게 되는 건 역시 아깝다.+게다가 내 평생 벌어도 발끝에도 못 미칠 가치의 보석을 세상에서 "사라지게" 하라니, 머리를 꽤나 굴려야 할 일이다.
+지휘관()<Speaker>지휘관</Speaker>||<BIN>8</BIN><黑点1>:참으로... 골칫덩어리가 따로 없군.
+()||<BIN>139</BIN><BGM>BGM_Empty</BGM><黑点2>:다음 주.+연회장에서.
+UMP9(6)<Speaker>UMP9</Speaker>||<BIN>139</BIN><BGM>BGM_Moon</BGM>:여보세요? 45 언니, 준비됐어? 응응 지금 갈게.
+UMP9(6)<Speaker>UMP9</Speaker>||<BIN>139</BIN>:이제 시작한대, 먼저 갈게.
+UMP9(6)<Speaker>지휘관</Speaker>||<BIN>139</BIN>:음, 슬슬 움직일 때지.+... 내년 설립 기념행사 때 또 실컷 먹게 해줄게.
+UMP9(6)<Speaker>UMP9</Speaker>||<BIN>139</BIN>:그 말 기억해뒀어, 지휘관, 히힛...
+UMP9(6)<Speaker></Speaker>||<BIN>139</BIN><SE1>RunStep</SE1>:UMP9은 깡충깡충 뛰면서 연회장의 인파 속으로 사라졌다.
+()||<BIN>139</BIN>:잠시 뒤, 목이 좀 말라 옆에 서있는 웨이터 인형에게 마티니 한 잔 부탁할까 생각할 찰나, 등 뒤에서 일부러 내리깔은 여성의 목소리가 들려왔다.
+？？？()<Speaker>？？？</Speaker>||<BIN>139</BIN>:"불행을 선사하러 왔습니다."
+지휘관()<Speaker>지휘관</Speaker>||<BIN>139</BIN>:...+"아쉽지만."+"숙녀에겐 상냥함이 나의 좌우명이다."
+()||<BIN>139</BIN>:고개를 돌리기도 전에 그 목소리의 주인이 내 눈앞에 나타났다.
+UMP45(4)<Speaker></Speaker>||<BIN>139</BIN>:UMP9과는 마치 거울 속 비친 모습 같지만, 그 불길한 미소가 유일한 차이점이었다.
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>139</BIN>:어머나, 아직도 기억하고 있었다니.+혹시 몰래 쪽지에 적어 둔 거 아니야?
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>139</BIN>:잊을 리가 없지, 그때 너희가 없었다면...
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>139</BIN>:그만, 거기까지, 비밀을 지켜.+날 기억해준 것만으로도 충분하니까.
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>139</BIN>:그 후로 또 한동안 모습을 안 보이던데, 또 어디 임무에 파견 나갔던 건가?
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>139</BIN>:지금 날 떠보는 거야?
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>139</BIN>:...+그래, 나도 업무 얘기는 하기 싫어. 다른 주제로 바꾸지.+그 옷은 너의 취향인가?
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>139</BIN>:지금... 이 옷 말이야?
+UMP45(4)<Speaker></Speaker>||<BIN>139</BIN>:동생과 다르게 UMP45는 짙은 보라색의 예복을 입고 있었다.+비록 그 키와 외모에 어울리게 허리에 커다란 리본을 묶어 곁들였지만.+그 옷 안의 인형에게서 퍼져 나오는 그 외모와 맞지 않는 성숙한 기운을 감추진 못 하였다.
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>139</BIN>:딱히 별 생각 없이... 그냥 의뢰인의 옷장 속에서 아무거나 고른 거야, 9하고 똑같이.
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>139</BIN>:분명 자매지만 둘의 미적 감각은 완전히 다른 느낌이군.
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>139</BIN>:여태 몇 번 만났다고 나의 내면까지 그렇게 자신 있게 평가하는 거야?
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>139</BIN>:그러게...+좀 더 오래 같이 지내봤으면 좋을 텐데 말이지.
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>139</BIN>:너무 오래 같이 있었다간 헤어질 때 귀찮아지기 마련이야.
+UMP45(4)<Speaker></Speaker>||<BIN>139</BIN>:UMP45의 눈이 가늘어졌다.
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>139</BIN>:내 세상은 이곳에 없어.
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>139</BIN>:......
+UMP45(4)<Speaker></Speaker>||<BIN>139</BIN>:UMP45는 창밖 저 멀리 바라보았다.+빨리 이 대화를 끝내고 이곳에서 벗어나고 싶은 걸까?+알 수는 없지만, 이대로 대화를 끝내고 싶지 않았다.
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>139</BIN>:... 이런 분위기가 싫은 건가?
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>139</BIN>:혹은... 부러운 걸지도?
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>139</BIN>:한 번쯤은 어울려 보는 게 어때? 현장 분위기도 중요한 요소니까.
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>139</BIN>:어울려 보라고...?
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>139</BIN>:단 한 번만이라도 말이지.
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>139</BIN>:...
+UMP45(4)<Speaker></Speaker>||<BIN>139</BIN>:삐삑.
+UMP45(4)<Speaker></Speaker>||<BIN>139</BIN>:갑자기 UMP45가 눈을 껌뻑이고 시선을 내게서 옮겼다.
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>139</BIN>:아무래도 이번 기회는 놓친 것 같네, 지휘관.
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>139</BIN>:그래... 다음엔 좀 더 일찍 초대하지.
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>139</BIN>:다음?+그래, 다음에 봐...
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>139</BIN>:금방 다시 보게 될 거야.
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>139</BIN>:또 금방 헤어지겠지.
+UMP45(4)<Speaker></Speaker>||<BIN>139</BIN><黑屏1>:더는 이쪽으로 시선을 돌리지 않고 UMP45의 뒷모습은 금세 연회장의 사람들 사이로 사라졌다.
+()||<BIN>97</BIN><黑屏2><BGM>BGM_Empty</BGM><Night>:... 몇 시간 후.+혼란 상태도 진정되었고, 내빈들은 그리폰 인형들의 지시하에 질서 있게 대피하였다.
+()||<BIN>97</BIN><Night>:모두 당황하는 기색은 없이 오히려 호텔 문 앞에 모여 시끌벅적 이 밤에 일어난 기이한 경험에 감상을 나누고 있었다.+난 내빈들과 정반대 방향으로 걸어 텅 빈 호텔 깊숙이 들어섰다.
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>97</BIN><Night>:날 기다렸어, 지휘관? 9하곤 이미 만났지?
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>97</BIN><Night>:금방 다시 보게 될 거라고 했지.+그럼 이제 마무리된 거군.
+UMP45(4)<Speaker></Speaker>||<BIN>97</BIN><Night>:UMP45는 치마 끝을 살짝 들어 허벅지 안쪽에 매단 투명케이스를 보여줬다.+두꺼운 강화유리마저도 불빛 아래 비친 거대 보석의 광채를 숨길 수는 없었다.
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>97</BIN><Night>:그 말대로야, 보석은 무사히 의뢰인 손에 돌려줄 테니까 안심해.
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>97</BIN><Night>:나라면 임무를 마치고 좀 더 즐거운 모습을 보일 텐데.
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>97</BIN><Night><BGM>BGM_Wake</BGM>:훗, 그 말은 우울증 환자 보고 좀 웃어보라거나 다리 부러진 사람 보고 좀 많이 걸으라고 하는 말이야?
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>97</BIN><Night>:내가 오지랖이 꽤나 넓거든.
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>97</BIN><Night>:미안하지만, 내게 잘해줘 봤자 좋을 거 없어.
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>97</BIN><Night>:"숙녀에겐 상냥함이 나의 좌우명이다."
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>97</BIN><Night>:말해주는데, 작전은 이미 끝났어, 지휘관.
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>97</BIN><Night>:진짜 좌우명으로 해도 되잖아? 어쩌면 내 묘비에까지 새길 수도 있는걸.
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>97</BIN><Night>:풉, 대체 어떻게 죽으면 그런 문구를 새길지 상상이 안 가네.+그리고 좋을 거 없다고 말했잖아. 그런데도 왜 그렇게 내게 신경 쓰는 거야?
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>97</BIN><Night>:UMP9은 매우 즐거워 보였거든, 너도 그 애처럼 즐거웠으면 좋겠어.
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>97</BIN><Night>:즐거움?
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>97</BIN><Night>:그래, 소중한 휴일을 희생해서 하루 종일 고생해놓고 아무 즐거움도 없으면 너무 불쌍하잖아.
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>97</BIN><Night>:...+겨우 그것 때문에?
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>97</BIN><Night>:왜?+회사 규정에 그리폰의 인형은 두 임무 사이에 휴식하고 정비할 일정을 두도록 명시돼 있잖아.+좀 쉬고 싶다면 좀 더 휴가 신청을 하는 게 어때?
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>97</BIN><Night>:...+그건 좀 힘들 거야...+우린 평소에도 많이 바쁘거든.
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>97</BIN><Night>:언제나처럼 또 출장 임무가 있다는 거군?
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>97</BIN><Night>:일정을 확정할 수 없어서 지휘관에게 확실한 답변을 줄 수 없어...+... 고맙다는 말도 못 하고.
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>97</BIN><Night>:음, 그렇군...+하지만 똑같이 그리폰에게 휴일을 뺏긴 입장으로서 우리도 같은 편인 셈이지!+내년 설립 기념일 때는 모든 임무를 미루고 회사 돈으로 제대로 놀아볼 거야, 그래야 오늘 추가 근무한 손실을 메울 수 있으니까.+UMP45, 너도 오지 않을래?
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>97</BIN><Night>:...+지휘관...+정말 아무것도 모르는 거야?
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>97</BIN><Night>:그럼...+... 알려주겠어?
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>97</BIN><Night>:아니...+그걸로 됐어...
+UMP45(4)<Speaker></Speaker>||<BIN>97</BIN><Night>:UMP45가 뒷걸음으로 물러선다.
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>97</BIN><Night>:...그걸로 충분해.+난 그만 갈게.
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>97</BIN><Night>:또 다른 용건이 있어?
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>97</BIN><Night>:말했잖아, 금방 헤어질 거라고.
+UMP45(4)<Speaker>지휘관</Speaker>||<BIN>97</BIN><Night>:그럼 또 다음엔?+아까 말한...
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>97</BIN><Night>:...
+UMP45(4)<Speaker></Speaker>||<BIN>97</BIN><Night>:UMP45는 다시 뒤돌아 보며 그 흉터 진 눈꺼풀을 살짝 들었다.
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>97</BIN><Night>:생각해 볼게...+다음엔, 좀 더 어울려 볼게...
+UMP45(4)<Speaker>UMP45</Speaker>||<BIN>97</BIN><Night><黑屏1>:좀 더 오래 있어 볼게...
+()||<BIN>9</BIN><SE1>RunStep</SE1><黑屏2>:모습이 사라지고 나서야 그건 미소 지은 표정이었다는 것을 깨달았다.
+()||<BIN>9</BIN>:그 미스터리한 인형의 미소가 어디까지 진짜 감정인지는 알 수는 없지만.+UMP45가 떠날 때 평소 사뿐사뿐한 걸음과 달리 구두 굽을 대리석 바닥에 차면서 남긴 발소리가 복도를 맴돌았다.
+()||<BIN>9</BIN><黑屏1>:다시 이 발소리를 듣게 될 때는 점점 가까워지는 소리이기를 바라지. 

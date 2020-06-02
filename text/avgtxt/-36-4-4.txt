@@ -1,0 +1,94 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>？？</Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Room</BGM>:이제 깼냐?
+()||:UMP45의 의식이 레벨 2 플랫폼에서 표층으로 돌아왔다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:당한... 건가...
+()<Speaker>？？</Speaker>||<白屏1>:네가 산산조각 나도 다시 조립해서 부려먹을 거니까, 얼른 일어나기나 해.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BIN>229</BIN><白屏2>:......+나, 아직도 꿈꾸고 있는 건 아니지?
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:현실부정할 정도로 내가 보기 싫었어?
+()||:시야가 점점 뚜렷해졌고, 눈앞엔 안젤리아가 서 있었다.+안젤리아는 바닥에 떨어진 기관단총을 집고, UMP45의 손을 잡아 일으켜 세웠다.+하지만 사고가 정지되는 광경이었다. 예상외로 멀쩡한 안젤리아와, 그녀 뒤에 숨은 어린 니토들이라니.+G11도 의식을 잃은 채 그들의 발밑에 누워 있었다. 다행히 다치거나 하진 않은 것 같았다.+안젤리아가 UMP45의 손에 그녀의 무기를 억지로 쥐여 주고 나서야, 다시 정신이 돌아왔다.+정말 많은 상황을 예상해 봤지만, 지금 눈앞의 상황은 도저히 이해하기가 힘들었다.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:그리고, 인형이 이렇게 말도 안 되는 꿈을 꿀 리가 없잖아.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:안 본 지 얼마 되지도 않았는데 그새 직업을 바꾼 거야?+하긴, 안전국 요원보다는 보모 일이 더 편하겠지.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:뭐, 경험상 확실히 요원 일보단 보모 노릇이 더 재밌더라.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:쟤네도 일단은 패러데우스일 텐데, 저렇게 내버려둬도 돼?
+Nytochild01(0)<Speaker>？？？</Speaker>||:......
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:얘들이 날 죽일 셈이었으면 진작에 죽였지.+걱정 마, 이 아이들은 위험하지 않아.
+()||:UMP45는 다시 어린 니토에게 눈길을 돌렸고, 니토도 경계하는 눈빛으로 UMP45를 바라봤다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:흥... 이 녀석들에 대해선 나중에 얘기하고, 지금 어떻게 된 상황이야? 나머지 리벨리온 둘은 어디 있어?
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:좋은 소식이랑 나쁜 소식 중에 어느 거 먼저 들을래?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:나쁜 소식.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:그 둘은 다른 방에 갇힌 상태야. 이 구역... 그놈의 악취미로 가득한 실험실의 모든 통로가 봉쇄됐어.+물리적으로도, 전자적으로도 방어가 여간 튼튼한 게 아니라서, 여기까지 들어오는 데 고생 좀 했지.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그럼 좋은 소식은?
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:내부의 폐쇄 회로 시스템은 아직 멀쩡해서, 녀석들과 연락이 가능해.+너희도 아까 전에 폐쇄 회로로 연락했잖아?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:나 참, 그게 무슨 좋은 소식이야?+놈들도 그래. 내부 통신에 통제 권한 하나 걸어놓지도 않다니, 바보 아니야?
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:애당초 사람이 없는 기지였으니까, 보안에 딱히 신경 쓰지 않았겠지.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:적들이 다 그렇게 얼빠진 녀석들이라면 참 좋을 텐데 말이야...+아무튼, 그럼 AK-12랑 AN-94 쪽의 상황은? 걔네도 너처럼 니토 유치원 차렸어?
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:그런 셈이지. 오히려 나보다 더 즐기고 있는 것 같다니까.+마침 정기 연락할 시간이니, 구조대가 왔다는 소식을 들려줘야겠지.
+()||:안젤리아는 벽에 설치된 수화기를 들었다.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||<SE1>AVG_tele_connect</SE1>:AK-12, 안젤리아다. 지원군이 드디어 도착했다.
+AK12(0)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>여기는 AK-12.</color>+<color=#00CCFF>그런데, 지원군이라니?</color>+<color=#00CCFF>미친 개랑 견주가 돌아오기라도 했어?</color>+<color=#00CCFF>아니면 마침내 그리폰이 도착한 거야?</color>
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:아니, UMP45다.
+AK12(0)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>아, 404의 대장? 그러고 보니 아까 연락했지. 다른 대원들은 어때?</color>
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:음... 내 눈이 멀쩡한 게 맞다면, UMP45 한 명뿐이야.
+AK12(0)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>달랑 한 명?</color>
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:그래, 한 명.
+AK12(0)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>그렇구나. 달랑 한 명뿐이면 별 도움도 안 되겠지만, 그래도 404의 대장이 이렇게 따돌림당한다는 사실을 알았으니 나쁘지 않은 소식이네.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:나도 아까 너네 신입 대원들이랑 만났어. 그런데 대체 평소 행실이 어떻길래 기를 쓰면서 네 얼굴을 보기 싫어하는 거야?
+AK12(0)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>어머나, 벌써 우리 사이가 어떤지 알 정도로 대화를 많이 나눴나 보구나?</color>
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:크흠... 45는 EOT-1이 G11을 끌고 와서 쫓아온 거야. 어찌 됐든, 이제 봉쇄를 해제할 수 있겠어.
+AK12(0)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>아하, 그건 확실히 UMP45 아니면 못할 일이네. 오가스 프로토콜 전자전도, 좁다란 파이프 속으로 기어드는 것도 말이야.</color>
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:이제야 좀 상황이 호전되는 거 같네.+AK-12가 환풍구를 이용하잔 말을 꺼내기 전까진 있는지도 몰랐다니까.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:환풍구가 있는 걸 알았으면, 직접 빠져나오면 되지 않았어?
+AK12(0)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>우리 덩치로는 이 꼬맹이들처럼 그 좁은 파이프를 통과할 수가 없었거든.</color>+<color=#00CCFF>밖으로 나가서 그리폰의 제대를 찾아 데려와 달라고는 했지만, 설마 최약체인 UMP45를 데려올 줄은 몰랐어.</color>+<color=#00CCFF>과연 404의 대장이야, 항상 예상을 뛰어넘고 우리로선 불가능한 일을 해낸다니까.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:최약체라서 미안하게 됐네. 최약체는 쥐뿔도 도움이 안 될 테니 그만 돌아가도 될까?
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:농담 따먹기는 그쯤하고, UMP45에게 현재 상황을 공유해 줘.
+AK12(0)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>안젤리아가 꼬맹이들이랑 소꿉놀이하는 동안 다시 연결을 시도해봤는데, 마찬가지로 또 실패했어. 내 접속 신호로는 얘들의 의식에 들어갈 수가 없어.</color>+<color=#00CCFF>그래도 계속 시도하는 중이니까, 상황 보고는 AN-94가 해 줄 거야.</color>
+AN94(0)<Speaker>AN94</Speaker><通讯框>||:<color=#00CCFF>무사해서 다행이다, UMP45. </color>+<color=#00CCFF>시간이 촉박한 상황이니 요점만 말하겠다.</color>+<color=#00CCFF>너희와 그리폰이 도착하기 전, 우리는 기지에 잠입해 이 비밀 실험 구역을 발견, 안젤리아가 찾던 정보를 조금이나마 확보했다.</color>+<color=#00CCFF>하지만 정찰 도중 철혈이 습격했고, 패러데우스의 병력과 교전했다.</color>+<color=#00CCFF>우리는 그 혼란을 틈타 좀 더 깊이 침투해 조사하려 했지만, 실험 구역이 물리적, 전자적으로 봉쇄되어 버렸다.</color>+<color=#00CCFF>결국 우린 이 실험실에 갇히고 말았고, K와 다른 두 대원과도 갈라지게 되었다.</color>+<color=#00CCFF>그런 와중 여기서 이 유년체 니토들을 발견했다.</color>+<color=#00CCFF>이들의 일부는 현재 혼수상태인데, 연결해본 결과 이들의 마인드맵 네트워크가 오가스로 의심되는 신호의 공격을 받고 있었다. 그리고 실험실 내부의 기록을 역추적한 결과 이들에게 봉쇄 권한이 있는 것을 파악했다.</color>+<color=#00CCFF>이들이 받는 공격을 해제한다면 우리도 여기서 벗어날 수 있겠지만, 나와 AK-12는 오가스 프로토콜과 호환되지 않기에 이들의 마인드맵에 접속하기가 어렵다.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:축약해도 너무 길잖아.+아무튼, 그러니까 내가 아까 탐지했던 패러데우스 신호는 이 꼬맹이 니토들이었단 소리야?
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:이 애들은 니토가 아니야. 정확히는, 아직 니토가 되지 않은 어린 실험체들이지.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:아직 기계화 개조를 받지 않은 거야?+어쩐지, 그래서 모습이 더 인간에 가까웠구나.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:인간에 가까운 게 아니라, 그냥 인간이야.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:아직 인간이라고?+정말 운 좋은 애들이네.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:실험실 내부 기록에 따르면, 니토가 되기에 적합한 샘플은 이미 다 밖으로 수송됐어. 여기 남아있는 건 패러데우스에게 가치가 낮은 유년체와 불합격 판정을 받은 실험체들뿐이야.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:이성질체 말이구나.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:이성질체?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:아, 페르시카가 니토가 되지 못한 실험체를 부르는 명칭이야.+그리고 탈린을 지나오던 중에, AR팀이 이성질체들의 기억을 가진 니토의 소체 하나를 확보해서 여기서 벌어지는 일을 미리 대충 알려 줬어.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:니토의 소체를...?+그쪽에서도 내가 모르는 일이 많이 있었나 보군.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그러게 말이야.+아무튼, 이 실험실은 이 이성질체 애들이 지키고 있단 뜻이네. 여기의 원래 지배인은 우리가 오는 걸 알고 여길 버린 걸까?
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:정말 그렇게 단순했으면 좋겠다만...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:뭐, 다른 이유가 있더라도 지금 고민할 필요는 없지.+그래서 내가 뭘 어떻게 하면 되는데?
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:이 아이들의 마인드맵 네트워크에 접속해 줘. 니토를 해킹한 적이 있으니 어렵지 않겠지?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:어... 잠깐만. 생각해 보니까, 얘네들 개조도 안 받은 인간이라며. 어떻게 마인드맵이 있어?
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:나도 AK-12와 AN-94가 몇 번이고 확인하고 나서야 믿게 됐어.+이 아이들은 인형처럼 접속이 가능한 공간을 구현해낼 정도의 의식을 지니고 있어.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:인형처럼...+애들을 가지고 대체 무슨 실험을 한 거야...
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:그건 얘들을 회수한 뒤에 천천히 알아내야지.+어찌 됐든, 지금 철혈에서 오가스 프로토콜로 해킹이 가능한 건, 엘더 브레인과... M16A1뿐이야. 녀석들도 우리처럼 무언가를 찾고 있어.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그야 그렇겠지.+하지만 M16 그 녀석은 단순히 철혈에게 협력하고 있는 게 아니야.+외모가 좀 철혈처럼 변하긴 했지만, 철혈이 어찌 되든 전혀 신경 쓰지 않고 있어.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:그래서 더 걱정이야. 녀석의 돌발 행동은 분명 오가스와 관계가 있어.+페르시카에게 AR팀에 관한 정보를 더 묻고 싶지만, 지금은 연락이 안 되니...+그리고 철혈이 하필이면 이 기지를 공격한 의도도 수상해. M16이든 엘더 브레인이든, 목적이 무엇인지 알아내야 대처할 수 있어.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:시간이 없으니 알아낼 때마다 그때그때 대처해야겠지만.+그런데, 뭔가를 찾는 거라면... 나도 여기까지 오는 동안, 계속해서 강제 연결을 당했어. 녀석은 자꾸 내 기억을 반복해서 확인했고.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:기억?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:나비 작전 때의 기억.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:......+녀석의 동기가 뭔지 알 것 같군. 적어도, 그 둘 중 하나는 너처럼 나비 작전의 진상과 흑막을 밝혀내려는 거야.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그게 목적이라면... 왜 우릴 방해하는 걸까?
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:방해라 해봤자 그저 앞길을 막을 뿐이었지, 우릴 바로 해치려 들진 않더군. 너무 자만하고 있어.+만약 흑막이 그 빌어먹을 윌리엄이라면, 녀석은 자기도 모르는 와중에 그 자식의 계획을 돕게 될 가능성이 높아.+우리가 서둘러 여기서 벗어나지 못하면, 나비 작전 때와 같은 일이 또다시 벌어질 수도 있어.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:정말 짜증 나네... 좋아, 이 꼬맹이들이랑 연결하려면 어떡해야 해?
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:이 아이가 안내해 줄 거야.
+()||:안젤리아는 UMP45와 대치했던 어린 니토를 앞에 세웠다.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:실험체 EOT-1... 기록상으로는 이런 이름이야.+이 애들에겐 무기랄 것도 없어서, 우리가 나타나자 저마다 다른 방으로 유인해서 나와 리벨리온을 갈라놨어. 아주 똑똑한 녀석이지.+다행히 난 인간이라, 인형처럼 해킹당하지 않았지만 말이야. 그래서 이 애와 대화해서 AK-12와 AN-94를 깨우도록 설득했어.+그리고 여기서 탈출하기 위해, 안전을 보장하는 조건으로 함께 구조 요청 작전을 세웠지.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그거 왠지 유괴범이 애들 납치할 때 쓰는 속임수 같은데.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:난 너처럼 남 등쳐먹지 않고 약속은 반드시 지키는 사람이거든?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:우리 임무 수당은 어떻게든 깎으려 들면서 말은 잘해요.
+Nytochild01(0)<Speaker>EOT-1 실험체</Speaker>||:안젤리아는... 좋은 사람이야...!
+()||:UMP45의 말에 매우 화가 난듯, EOT-1이 눈을 부릅떴다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:하아... 그래 그래, 알았어.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:이 아이들은 피해자인 동시에 중요한 증인이야.+이 아이들을 안전하게 회수하는 것도 우리의 임무지.+그렇다지만, 나 원... 나도 어쩌면 어린애를 꽤 좋아하는 걸지도 모르겠네.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:정말 너랑 돈으로 엮인 사이 아니었으면 확 그냥 두고 가고 싶을 때가 한두 번이 아니라고.+자아, 그럼 실험체 꼬마야, 너랑 연결하려면 어떻게 해야 하니?
+Nytochild01(0)<Speaker>EOT-1 실험체</Speaker>||:안나...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:응?
+Nytochild01(0)<Speaker>EOT-1 실험체</Speaker>||:안나라고... 불러 줘.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...이름도 지어 줬어?
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:다른 사람한테 이름 짓는 취미는 없어.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그럼 스스로 지은 이름이란 거지?+어디의 누구누구 씨랑 확실히 닮았네.
+()||:스스로를 안나라 이름 지은 실험체는, UMP45의 말에 기뻐하며 고개를 끄덕였다.+하지만 UMP45는 그 순수한 눈빛이 많이 거북했다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:어... 그런 눈으로 바라보지 말아 줄래? 좀 어색해.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||:넌 니토를 해킹한 적이 있으니, 안나와도 문제없이 연결할 수 있을 거야. 연결하고 나면, 얘를 따라 마인드맵의 심층으로 접속해.+철혈도 네가 접속하는 틈을 노려 공격을 강화하겠지만...+너 정도의 전자전 실력과 다른 아이들의 도움이라면 별 문제 없겠지. 가서 심층에 갇힌 애들을 꺼내 줘. 그래야 우리도 이 곤경에서 빠져나갈 수 있어.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:알았어. 안나 양, 너희와 우리를 위해서, 빨리 작업을 시작하자.
+Nytochild01(0)<Speaker>안나</Speaker>||<黑屏1>:그럼... 따라와.

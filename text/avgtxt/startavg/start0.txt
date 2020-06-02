@@ -1,0 +1,20 @@
+에이전트()<Speaker>에이전트</Speaker>||<BGM>BGM_Empty</BGM><SE1>Heartbeat</SE1><BIN>9</BIN><黑屏1>:...내가 네 죽음을 가져왔노라.+자, 어서 눈을 뜨거라...
+에이전트()<Speaker>에이전트</Speaker>||<睁眼><SE1>m4a1_015</SE1><火花>1.7</火花><BIN>11</BIN>:...나를 보거라. 전술인형 M4A1, 날 보란 말이다. 
+에이전트()<Speaker>에이전트</Speaker>||<BGM>BGM_Sad</BGM>:이제 막을 내릴 시간이다. 네년이 끝까지 함께 해줬으면 좋겠구나.
+M4A1()<Speaker>M4A1</Speaker>||<震屏><SE1>Rope</SE1><SE2>m4a1_013a</SE2><黑屏1>:큭......+에이전......트......
+에이전트()<Speaker>에이전트</Speaker>||<拉伸><BIN>12</BIN>:흥미롭구나. 죽음을 코앞에 둔 눈빛이 다른 년들과는 달라.+좋아, 그 눈이다. 더 경악해라, 더 괴로워해라, 더 증오하거라! 
+M4A1()<Speaker>M4A1</Speaker>||<震屏><SE1>Rope</SE1><SE2>m4a1_013b</SE2><黑屏1><关闭火花>:콜록...콜록...
+에이전트()<Speaker>에이전트</Speaker>||<黑屏2><黑屏1><平移><SE1>Battlefield</SE1><刮花><边框>2</边框><BIN>20</BIN>:주인님께서 그렇게나 소중히 여기는 물건을 훔치고도, 몸 성히 도망칠수 있을거라고 생각했느냐?+시작은 너, 그 다음은 너의 AR팀이다. 그리고 그 다음은 아직 너를 위해 목숨을 걸고 있는 그리폰 인형들이지.+이제 곧, 그녀들은 부모를 잃은 애새끼들 마냥 우왕좌왕할 것이다.+전장에서 무작정 발버둥 치다가, 그대로 우리들의 사냥감이 되는 것이다!......
+에이전트()<Speaker>에이전트</Speaker>||<SE1>Rope</SE1><黑屏2><BIN>12</BIN><火花>:네년이 죽는다면 말이다!...이제 곧, 너는 여기에서 죽는 거다! 
+M16A1()<Speaker>M16A1</Speaker>||<BGM>BGM_Empty</BGM><SE1>Select</SE1><打海猫2>:...미안한데, 그녀는 여기서 죽을 수 없거든.
+에이전트()<Speaker>에이전트</Speaker>||:......!
+()||<关闭火花><快跑><SE1>RunStep</SE1>:
+M16A1()<Speaker>M16A1</Speaker>||<黑屏2>0,4</黑屏2><SE1>MachineGunBurst</SE1><BIN>14</BIN><BGM>BGM_Danger</BGM><开火>:기다릴 것도 없지, 지금 당장 지옥에 떨어져라!!!+철혈의 쓰레기!!!
+()||<开火><SE1>MachineGunBurst</SE1><SE2>TiexueDie</SE2><黑点1>:
+M4A1(1)<Speaker>M4A1</Speaker>||<黑点2><BIN>15</BIN>:콜록...콜록...
+M16(0)<Speaker>M16A1</Speaker>;M4A1(1)||:이봐, 나한테 고마워 하라고. 너 또 한 번 삼도천을 건널뻔 했잖아.
+M16(0);M4A1(1)<Speaker>M4A1</Speaker>||:후...M16, 바깥은 어떻게 됐나요? AR-15랑 다른 아이들은 아직......
+AR15(0)<Speaker>AR15</Speaker>;M4A1(1)||:돌아왔어. 철혈의 증원이 왔으니 빨리 퇴각 해야해
+AR15(0);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:지원팀이 아직 조금 더 버틸 수 있을거야, 빨리 가자고! 
+M16(3)<Speaker>M16A1</Speaker>;SOPII(0)||:M4, 계속 지휘할 수 있겠어? 상처가 심해 보이는데. 
+M16(3);M4A1(1)<Speaker>M4A1</Speaker>||:심한건 아닙니다. 하아....M16, 수복 하는 것 좀 도와주세요. 전 일단 지휘 시스템부터 체크하겠습니다.

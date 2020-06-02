@@ -1,0 +1,50 @@
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
+SOP2()<Speaker>SOP2</Speaker>||<黑屏1>:여기는... 어디야?
+()||<黑屏2><BIN>72</BIN><BGM>BGM_Room</BGM>:공허한 공간 속에서 SOP는 두리번거렸다.
+RO635(0)<Speaker>RO635</Speaker>||:여기는 어느 대형 데이터베이스야.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:어라, RO 너 원래대로 돌아왔어?!+아니지... 지금 레벨 2 플랫폼에 있는 거야?
+SOPIIDamage(0);RO635(0)<Speaker>RO635</Speaker>||:맞아, 방금 페르시카가 여기에 떨군 거잖아.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:아아, 생각났다...
+RO635(4)<Speaker>RO635</Speaker>||:뭔가 심상치 않아... 여기.
+()||:통신 연결.
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:내 마인드맵 저장소에 무사히 연결된 모양이구나.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:페르시카, 우리 여기서 뭐하면 돼?
+SOPIIDamage(0);NPC-Persica(2)<Speaker>페르시카</Speaker>||:RO는 새로 몸이 만들어질 때까지 여기서 기다려야 돼.+SOP2는 분리가 끝나면 돌아가도 좋아.
+RO635(0)<Speaker>RO635</Speaker>;NPC-Persica(2)||:쯧... 이번엔 아예 몸이 없어지는 거구나. 뭐, 디너게이트보다는 낫지...
+RO635(0);NPC-Persica(2)<Speaker>페르시카</Speaker>||:이제 그만 헤어질 때야, 할 말 있으면 서두르렴.+분리 프로그램이 실행될 때까지 5분 남았어, 그 후론 한동안 만날 수 없게 될 거야.
+RO635(0)<Speaker>RO635</Speaker>||:한동안이라니... 얼마나요?
+NPC-Persica(2)<Speaker>페르시카</Speaker>||<通讯框>:너희가 얼마나 버틸 수 있을지 봐야지.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:응? 그게 무슨...
+Weaver(1)<Speaker>？？？</Speaker>||:인기척이 있길래 와봤더니, 네년들일 줄이야...
+RO635(0)<Speaker>RO635</Speaker>||:뭐... 너, 너는...
+Weaver(1)<Speaker>우로보로스</Speaker>||:AR팀의 버러지들...+정말로... 보고 싶었다...
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:짠- 나도 여기 있지롱!
+RO635(4)<Speaker>RO635</Speaker>||:잠깐! 이건 대체 뭐야!
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:왜 철혈의 바보들이 여기 있는 거야!
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:얘들을 더 쓸만한 곳에 쓰도록, 그리폰이 얘들의 마인드맵을 나한테 줬어.+그럼, 사이좋게 지내야 한다~
+RO635(5)<Speaker>RO635</Speaker>||:네? 저, 저기, 그게 무슨 소리에요!
+Weaver(1)<Speaker>우로보로스</Speaker>||:흥... 너 하나뿐이라면 문제없군.+RO635, 네년의 마인드맵을 갈기갈기 찢어주마!
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:RO를 괴롭히게 두지 않아!+너희들이야말로 내가 찢어버릴 거야!
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:찢으면 안 돼, 내가 곤란해지니까.+자, SOP2, RO하고 안녕해야지.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(0)||:하지만 저 두 철혈이...
+NPC-Persica(2)<Speaker>페르시카</Speaker>||:괜찮아, 내 저장소에서 싸워봤자 애들 장난인걸.+그리고 RO의 실력을 못 믿는 거니?
+RO635(5)<Speaker>RO635</Speaker>;NPC-Persica(2)||:실력하고 관계없어요!+저기요! 페르시카 씨! 이대로 두고 갈 건가요?
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:RO...
+SOPIIDamage(2);NPC-Persica(2)<Speaker>페르시카</Speaker>||:RO를 못 믿어도 적어도 날 믿으렴.+RO는 여기서 안전하니까, 내가 보장할게.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:그럼, 알았어.+페르시카가 그렇게 말한다면...
+RO635(5)<Speaker>RO635</Speaker>||:네? 뭐, 뭐어? 잠깐만 기다려! 이대로 날 두고 가지 마!
+Weaver(1)<Speaker>우로보로스</Speaker>||:죽어라! 그리폰의 떨거지!+너도 같이 때려! 아키텍트!
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:엥? 응... 좋아, 이번엔 2대1이니까 안 지겠지?
+RO635(4)<Speaker>RO635</Speaker>||:가, 가면 안 돼! SOP2!+일단 저놈들 어떻게 해봐...
+RO635(5)<Speaker>RO635</Speaker>||:으아아!! 이 망할 철혈들, 오지 마!
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:그럼 갈게, RO. 내 몸을 다 고치고 나면 보러올게!
+()||<BIN>9</BIN><黑屏1><BGM>BGM_Empty</BGM>:...+<color=#00CCFF>【시스템】데이터베이스 연결 중단.</color>+<color=#00CCFF>【시스템】레벨 1플랫폼으로 돌아갑니다.</color>
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<黑屏2><BGM>BGM_Hello</BGM><BIN>22</BIN>:RO... 고생하는 것 같은데.
+NPC-Persica(2)<Speaker>페르시카</Speaker>||:다른 사람 걱정할 여유가 있니?
+()||:페르시카가 이동 선반을 끌고 왔다. 선반 위에는 온갖 연장들이 놓여 있었다.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:... 페르시카, 그거 엄청 위험해 보이는데?
+NPC-Persica(2)<Speaker>페르시카</Speaker>||:미루지 말고, 작업을 시작하자고!
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:페르시카...+정말로 업그레이드해주는 거 맞아? 해체하는 거 아니고?
+NPC-Persica(2)<Speaker>페르시카</Speaker>||:업그레이드를 위해선 먼저 뜯어야 한단다.+걱정 마렴, 이미 처리는 했으니까 안 아플 거야, 날 믿으렴...
+NPC-Persica(2)<Speaker></Speaker>||:페르시카가 섬뜩한 미소를 지었다.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:으으... 그 표정으론 안심할 수가 없어...+지금 페르시카의 모습 군보다도 무서워.+아아... 난 어떻게 되어버리는 걸까...
