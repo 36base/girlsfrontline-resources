@@ -1,0 +1,137 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>97</BIN><黑屏2><BGM>m_avg_casual</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>통신 요청 - JS 9.</color>
+MG36(0)<Speaker>MG36</Speaker>||:그 말인즉슨, 예산 확보를 위해 가구 장사를 한다는 뜻이네?
+JS9mm(2)<Speaker>JS9</Speaker><通讯框>;MG36(0)||:<color=#00CCFF>네. 판매원 일을 맡겨도 될까요?</color>
+JS9mm(2);MG36(0)<Speaker>MG36</Speaker>||:난 후방 관리가 내게 더 어울린다 생각하지만... 맡긴다면 최선을 다할게.
+JS9mm(2)<Speaker>JS9</Speaker>;MG36(0)||:<color=#00CCFF>감사합니다, 부탁할게요.</color>
+MG36(0)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>통신 종료.</color>
+MG36(0)<Speaker>MG36</Speaker>||<黑屏1>:그럼... 이 좁디좁은 공간에 이 물건들을 배치해야겠구나.+그냥 진열하는 거라면야, 어려울 것 없지.
+()<Speaker></Speaker>||<BIN>139</BIN><黑屏2><BGM>BGM_Empty</BGM>:10분 후.
+NPC-PasserbyF(0)<Speaker>행인</Speaker>||<BGM>BGM_Room</BGM>:어, 저기 부스도 열렸다! 아까 그 "라일락" 부스 멋지던데, 저긴 어떨까?
+NPC-PasserbyF(0);NPC-PasserbyM(0)<Speaker>행인2</Speaker>||:한번 가보자.+그러나저러나, 어떻게 상품 진열도 안 끝난 상태로 문을 열었는지 모르겠네. 저기도 그런 거 아니야?
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:어서 오세요.
+MG36(0);NPC-PasserbyM(0)<Speaker>행인2</Speaker>||:......
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:원하는 물건이 있으신가요?
+MG36(0);NPC-PasserbyF(0)<Speaker>행인</Speaker>||<BGM>BGM_Empty</BGM>:어... 왜 식탁이 침대 위에 있죠?
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyF(0)||<BGM>m_avg_casual</BGM>:그건 이 함선의 계기판입니다. 유사시 냉동 수면에서 깨어나 곧바로 현재 상황을 파악하고 대처할 수 있죠.
+MG36(0);NPC-PasserbyF(0)<Speaker>행인</Speaker><Shake>||:엥? 계, 계기판...?+어떻게 읽는데요?
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyF(0)||:항해 수칙을 참조하시면 됩니다.
+MG36(0);NPC-PasserbyM(0)<Speaker>행인2</Speaker>||:여기도 엉망이구만. 멀쩡한 가구를 막 바닥에 널브러뜨려 놨어.+이건 또 뭔... 아니, 등롱을 이렇게 바닥에 함부로 버려두면 어떡해?
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:스마트 휴지통 말씀이십니까?
+MG36(0);NPC-PasserbyM(0)<Speaker>행인2</Speaker>||:뭐...? 스마트 휴지통? 이게?
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:네, 은은한 빛을 발하므로, 깜깜한 밤에도 눈 아플 일 없이 쓰레기통이 어디 있는지 금방 찾을 수 있습니다.+윗부분의 구름 무늬는 손님께서 음식을 낭비하실 때의 부담감을 덜어 주는 역할을 하죠.
+MG36(0);NPC-PasserbyM(0)<Speaker>행인2</Speaker>||:뭐야 그게, 누가 종이로 된 휴지통을 쓴다고. 아 근데 말은 그럴싸하네...
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:종이 재질이라서 교체가 편리하다는 것도 이 스마트 휴지통의 장점 중 하나입니다. 필요 없는 것이라면 뭐든지 여기에 버릴 수 있습니다. 맛없는 음식이든, 우울한 기분이든.+그런 다음, 여기를 잡고...
+MG36(0);NPC-PasserbyF(0)<Speaker>행인</Speaker>||:등불 스위치잖아요, 그걸 잡고요?
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyF(0)||:화르륵.+휴지통의 완전 연소 기능으로 버린 쓰레기를 몽땅 태워 버립니다.
+MG36(0);NPC-PasserbyF(0)<Speaker>행인</Speaker>||:엑... 그럼 만약에 뭘 실수로 버리면 도로 꺼낼 수도 없는 거 아니에요?
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyF(0)||:그렇죠. 그러니 버리기 전에 잘 생각해야 합니다.
+MG36(0);NPC-PasserbyM(0)<Speaker>행인2</Speaker>||:아 진짜 왜 그럴싸하게 들리냐고... 요즘은 패션 가구가 이렇게 발달했나?+...내가 무슨 소리래, 이거 그냥 등롱이잖아!
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:스마트 휴지통입니다.
+MG36(0);NPC-PasserbyM(0)<Speaker>행인2</Speaker>||:웃기고 있네, 소비자 기만이야 뭐야?
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:존재하는 모든 물건에는 의미가 있습니다.
+MG36(0);NPC-PasserbyM(0)<Speaker>행인2</Speaker>||:실용성은 어쩌고? 쓰레기 비우는 걸 잊으면 바로 터질 거 아니야!
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:세상에 영원한 것은 없죠.무엇이든 언젠가는 망가지는 날이 오기 마련입니다.
+MG36(0);NPC-PasserbyF(0)<Speaker>행인</Speaker>||:어... 맞는 말이긴 한데, 그거 그냥 품질 문제를 얼버무리는 거 아니에요?
+MG36(0)<Speaker>MG36</Speaker>||:가구의 품질은 저희가 보장합니다. 사용법만 준수하신다면――
+()<Speaker></Speaker>||:MG36과 손님들의 기묘한 실랑이에, 점점 구경꾼들이 모여들었다.
+JS9mm(2)<Speaker>JS9</Speaker>||:죄송합니다! 지금 정리할 테니 먼저 다른 부스를 방문해 주세요!
+JS9mm(2)<Speaker>행인들</Speaker>||:에이, 은근 재밌었는데...
+JS9mm(2)<Speaker></Speaker>||<黑点1><BGM>BGM_Empty</BGM>:사람들은 아쉬워하며 흩어졌다.
+MG36(0)<Speaker>MG36</Speaker>||<黑点2><BGM>BGM_Hello</BGM>:JS 9? 뭘 그렇게 급하게 뛰어왔어?
+MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:사람들이 얼마나 모였는지 안 봤어요?+뚫고 오는 것만으로도 엄청 힘들었다고요.
+MG36(0)<Speaker>MG36</Speaker>;JS9mm(2)||:고생했네. 그래서, 어딜 어떻게 수정하려고?
+MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:이 가구들이 대체 어디다 쓰는 물건인지 정말 몰라요?
+MG36(0)<Speaker>MG36</Speaker>;JS9mm(2)||:대신 적절한 용도를 생각해냈어.
+MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:그 실랑이인지 뭔지 들었지만... 어...+듣고 있자니 왠지 모르게 납득 가는 설명이어서 그런 용도로도 굳이 쓰려면 쓸 수 있겠지만!+물건을 판매할 때는 만들어진 원래 의도를 따라야죠.
+MG36(0)<Speaker>MG36</Speaker>;JS9mm(2)||:하지만 칫솔은 치아보다 다른 걸 더 잘 닦는걸?
+MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:그건 예외고요.+봐요, 이 등롱을 휴지통을 쓴다면 얼마나 오래 갈 것 같아요?
+MG36(0)<Speaker>MG36</Speaker>;JS9mm(2)||:얇은 종이라서 망가지기 쉬우니까, 차라리 저 도자기가 훨씬 낫겠지.+아, 그럼 저걸 휴지통으로 쓰면 되겠다.
+MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:저건 꽃병이에요...
+MG36(0)<Speaker>MG36</Speaker>;JS9mm(2)||:다른 걸 담으면 안 돼?
+MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:너무 작잖아요. 꽃이나 붓처럼 길고 가느다란 걸 꽂을 때 쓰는 거예요.
+MG36(0)<Speaker>MG36</Speaker>;JS9mm(2)||:알았어.
+MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:음... 이렇게 놓자.+어때요?
+MG36(0)<Speaker>MG36</Speaker>;JS9mm(2)||:아까보다 훨씬 질서정연해 보여... 일반 가정 같은 느낌이야.
+MG36(0);JS9mm(2)<Speaker>JS9</Speaker>||:좋았어.+그럼 다른 데도 보러 갈게요. 힘내세요!
+MG36(0)<Speaker>MG36</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:잘 가.
+MG36()<Speaker>MG36</Speaker>||<BIN>9</BIN><黑点2><黑点1><BGM>BGM_Room</BGM>:......가구는 정해진 용도대로 쓰이도록 만들어진 물건.+그렇다면, 똑같이 용도가 정해진 채로 태어난 나도 가구인 걸까?
+지나가던 아이()<Speaker>지나가던 아이</Speaker>||<BIN>139</BIN><黑点2>:서라――!
+？？()<Speaker>？？</Speaker>||:찍찍!
+지나가던 아이()<Speaker>지나가던 아이</Speaker>||:헉... 헉... 통통한 생쥐! 거기 서!
+？？()<Speaker>？？</Speaker>||:찌이익!!
+MG36(0)<Speaker>MG36</Speaker>||:흠흠... 10의 제곱근은 3.162277660168379... 10의 자연로그는 0.434294481903252... 아니지, 10을 밑수로, e의 로그는...
+MG36(0)<Speaker>？？</Speaker>||:찍?
+MG36(0)<Speaker>MG36</Speaker>||:...햄스터?
+MG36(0)<Speaker></Speaker>||:아래에서 소리가 나 MG36이 고개를 숙여 보니, 웬 커다란 햄스터 한 마리가 그녀를 쳐다보고 있었다. MG36이 허리를 숙이자, 햄스터는 깜짝 놀라 방향을 틀어 냅다 달렸다.
+MG36(0)<Speaker>MG36</Speaker>||:아, 거긴 막다른 길인데.+...부딪혀서 기절했네.
+MG36(0)<Speaker>지나가던 아이</Speaker>||:아, 가게 누나!
+MG36(0)<Speaker>MG36</Speaker>||:안녕, 무슨 일이니?
+MG36(0)<Speaker>지나가던 아이</Speaker>||:엄청 큰 생쥐 못 봤어? 이쪽으로 왔는데!
+MG36(0)<Speaker>MG36</Speaker>||:생쥐?
+MG36(0)<Speaker>지나가던 아이</Speaker>||:응, 엄청 크고 통통한 녀석!+폭죽을 몇 개 달면 하늘을 날 수 있을까 실험해보고 싶었는데, 도망쳤어!
+MG36(0)<Speaker>MG36</Speaker>||:아니, 엄청 크고 통통한 생쥐는 본 적 없어.+그런데 왜 그런 실험을 하려 하니?
+MG36(0)<Speaker>지나가던 아이</Speaker>||:재밌으니까.
+MG36(0);NPC-PasserbyF(0)<Speaker>행인</Speaker>||:저깄다! 한참을 찾았잖아 이 녀석아! 여기가 어딘 줄 알고 그렇게 돌아다녀? 엄마 아빠가 걱정하시잖아!
+MG36(0);NPC-PasserbyF(0)<Speaker>지나가던 아이</Speaker>||:아, 누나!
+MG36(0);NPC-PasserbyF(0)<Speaker>행인</Speaker>||:얼른 가자, 아빠가 빨리 집에 가고 싶대.
+MG36(0);NPC-PasserbyF(0)<Speaker>지나가던 아이</Speaker>||:에이... 그럼 하는 수 없지. 안녕 누나!
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyF(0)||<BGM>BGM_Empty</BGM>:잘 가.
+MG36(0)<Speaker></Speaker>||<BGM>BGM_Moon</BGM>:어린 손님들을 보낸 뒤, MG36이 발을 살짝 움직였다. 기절했다 깨어난 햄스터가, 그녀의 신발을 붙잡고 벌벌 떨고 있었다.
+MG36(0)<Speaker>MG36</Speaker>||:걱정 마, 넌 안 통통해...
+MG36(0)<Speaker>햄스터</Speaker>||:찌익...
+MG36(0);NPC-PasserbyM(0)<Speaker>행인2</Speaker>||:오, 다시 문 열었네?+이봐 아가씨, 그래서 이 등롱 얼마야?
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:손님이다. 이 과자를 줄 테니까 여기서 얌전히 기다려.
+MG36(0)<Speaker>햄스터</Speaker>;NPC-PasserbyM(0)||:찍?
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:어서 오세요, 그 등롱을 사실 건가요? 그밖에 필요하신 건 있나요?
+MG36(0);NPC-PasserbyM(0)<Speaker>행인2</Speaker>||:아깐 이거 보고 스마트 휴지통이라더니?
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:등롱이든 휴지통이든, 그저 이름에 불과합니다.+이름이 어떻든, 소유자가 그 용도를 정하는 것에 영향은 없습니다.
+MG36(0);NPC-PasserbyM(0)<Speaker>행인2</Speaker>||:하하하, 말솜씨는 여전하네. 가구보다 아가씨가 더 흥미로운걸.
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:죄송하지만, 저는 상품이 아닙니다. 구입을 원하시는 건 이 등롱이 전부인가요?
+MG36(0);NPC-PasserbyM(0)<Speaker>행인2</Speaker>||:이거랑, 이걸 뭐랬더라... 아, "계기판".+이 "계기판"은 지금은 무슨 이름이야?
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:가상 계기판 팔선탁입니다.
+MG36(0);NPC-PasserbyM(0)<Speaker>행인2</Speaker>||:가상 계기판이랑 팔선탁은 또 무슨 관계야?
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:스스로 운명을 좌우할 수 없을 때, 인간은 대신 그 운명을 결정하는 존재를 신이라 일컫죠?+그럼 이 물건이 자신의 운명을 정할 수 없을 때, 우리가 바로 이것의 신이 됩니다.
+MG36(0);NPC-PasserbyM(0)<Speaker>행인2</Speaker>||:그럼 왜 하필이면 8인데?
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:여태까지 방문한 7명의 손님들께서 이것의 가격을 물으셨고, 8번째인 바로 당신이 그 계기판의 주인이 되었으니까요.
+MG36(0);NPC-PasserbyM(0)<Speaker>행인2</Speaker>||:하핫, 정말 재밌구만! 그래, 그럼 이 두 개 살게.
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:감사합니다.
+MG36(0);NPC-PasserbyM(0)<Speaker>행인2</Speaker>||:아가씨, 혹시 직장 바꿀 생각은 없어? 가게 점원 노릇만 하기엔 그 입담이 아까운데.
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyM(0)||:언젠가 기회가 있다면요.+그때가 되면, 제 영화 시사회에 와 주세요.
+MG36(0)<Speaker></Speaker>||:첫 손님을 보내자마자 다른 손님들이 줄을 이었고, 얼마 지나지 않아 MG36이 맡은 부스의 가구는 거의 다 팔려나갔다.+일이 대강 마무리되자, MG36은 몸을 숙여 그 햄스터의 상태를 살폈다.
+MG36(0)<Speaker>MG36</Speaker>||:괜찮니?
+MG36(0)<Speaker>햄스터</Speaker>||:찍!
+MG36(0)<Speaker>MG36</Speaker>||:기운 있어 보여서 다행이다.+거기서 얌전히 있어. 일 끝나면 같이 놀아 줄게.
+MG36(0);NPC-PasserbyF(0)<Speaker>행인</Speaker>||:하마터면 깜빡할 뻔했네... 여기 아직 문 안 닫았죠?
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyF(0)||:네, 무엇이 필요하신가요?
+MG36(0);NPC-PasserbyF(0)<Speaker>행인</Speaker>||:저 꽃병을 사고 싶은데요.
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyF(0)||:감사합니다. 더 필요한 물건 있으신가요?
+MG36(0);NPC-PasserbyF(0)<Speaker>행인</Speaker>||:어... 아, 저 종이창도 예쁘네요. 저것도 주세요.
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyF(0)||:알겠습니다.+더 있으십니까?
+MG36(0);NPC-PasserbyF(0)<Speaker>행인</Speaker>||:아뇨, 그게 다예요. 아참, 제 남동생이 대신 말 좀 전해 달래요.+"누나 엄청 예쁘다!"라고요.
+MG36(0)<Speaker>MG36</Speaker>;NPC-PasserbyF(0)||<黑屏1>:감사합니다.
+()<Speaker></Speaker>||<BIN>97</BIN><黑屏2><BGM>BGM_Empty</BGM>:전시회가 끝난 뒤.
+지휘관()<Speaker>지휘관</Speaker>||<BGM>BGM_Sneak</BGM>:MG36, 너 거기 있니?+그만 집합할 시간이야.
+MG36의 목소리()<Speaker>MG36의 목소리</Speaker>||<SE1>AVG_whitenoise</SE1>:밧줄 속에 광섬유가 있어. 우주복의 무전기도 정상 작동 중이고.
+MG36의 목소리()<Speaker>지휘관</Speaker>||:<color=#A9A9A9>광섬유... 무전기...? 누구랑 대화라도 하는 중인가?</color>+<color=#A9A9A9>상황을 확인해야겠어.</color>
+MG36의 목소리()<Speaker>MG36의 목소리</Speaker>||<SE1>AVG_whitenoise</SE1>:의심을 풀어 줘, 할.+우리의 예측상 가장 좋은 지점은 리틀 에트나 크레이터 밑바닥의 샘이야. 메마른 지 이미 천 년은 넘었지.+입구가 보이지 않는다면 더 들어가지 말고, 만약 지휘관과 연락이 두절될 경우엔 내 지시 없이 움직이지 마.
+지휘관()<Speaker>지휘관</Speaker>||<BGM>BGM_Empty</BGM><SE1>RunStep</SE1><白屏1>:<color=#A9A9A9>나와 연락이 끊기면...?</color>+<color=#A9A9A9> MG36은 지휘 모듈도 없는데? 대체 무슨 일이지?</color>
+지휘관()<Speaker>지휘관</Speaker>||<BIN>139</BIN><SE1>AVG_weapon_reload</SE1><白屏2>:MG36? 여기서 뭐하니?
+MG36(2)<Speaker>MG36</Speaker>||:지휘관님...?
+MG36(2)<Speaker>지휘관</Speaker>||:누구랑 같이 있어?
+MG36(2)<Speaker>MG36</Speaker>||<BGM>BGM_Hello</BGM>:네, 할 9002세와 함께입니다.
+MG36(2)<Speaker>지휘관</Speaker>||:할 구천이세...?
+MG36(2)<Speaker>MG36</Speaker>||:줄여서 할이라 부르셔도 돼요.+이 녀석이에요.
+MG36(2)<Speaker></Speaker>||:MG36이 손에 든 커다란 햄스터를 보여 주었다.
+MG36(2)<Speaker>지휘관</Speaker>||:어... 햄스터 이름이 참 독특하구나.
+MG36(2)<Speaker>MG36</Speaker>||:연기에 재능이 있는 아이예요. 훗날 제가 제작할 영화에 출연해서 함께 활약할 겁니다.
+MG36(2)<Speaker>지휘관</Speaker>||:영화를 찍고 싶어?
+MG36(2)<Speaker>MG36</Speaker>||:아직 생각일 뿐이지만요... 인류의 오래된 꿈과, 긴 세월이 지난 후 그 꿈을 재현하는 이야기.+단순히 임무만 수행하는 삶은 등롱과 다름없습니다.
+MG36(2)<Speaker>지휘관</Speaker>||:등롱? 네 부스의 간판에 찍혀 있는 거 말이야?
+MG36(2)<Speaker>MG36</Speaker>||:아뇨, 저건 스마트 휴지통입니다.
+MG36(2)<Speaker>지휘관</Speaker>||:...응?
+MG36(2)<Speaker>MG36</Speaker>||:지휘관님은 다른 용무가 있으시겠죠?
+MG36(2)<Speaker>지휘관</Speaker>||:자세히 설명해 줄 의향이 있다면 듣고 싶은데.
+MG36(2)<Speaker>MG36</Speaker>||:관객에게 스포일러를 하지 않습니다. 그리고 아직 컨셉 구상 단계예요.+아무튼... 많이 기대해 주세요.
+MG36(2)<Speaker>할 9002세</Speaker>||:찍!
+()<Speaker></Speaker>||<黑屏1>:MG36은 이번 전시회에서 무슨 발상을 얻고, 또 어떤 영화를 찍으려는 것일까?+훗날의 관람자로 예약된 지휘관은 알 도리가 없었다.+"그래도 분명 훌륭한 영화겠지." 지휘관은 그렇게 생각하며, 다음 부스로 발걸음을 옮겼다.
