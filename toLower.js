@@ -14,7 +14,7 @@ function walkSync(dir) {
   return fs.readdirSync(dir).flatMap((f) => walkSync(path.join(dir, f)));
 }
 
-['fairy', 'icon', 'pic', 'spine', 'res', 'typeicons', 'text'].flatMap((dir) => walkSync(dir)).forEach((dir) => {
+['fairy', 'icon', 'pic', 'spine', 'res', 'typeicons', 'text', 'wav'].flatMap((dir) => walkSync(dir)).forEach((dir) => {
   if (/.atlas$/g.test(dir)) {
     let atlas = fs.readFileSync(dir).toString();
     const textureRegex = /.*.png/g;
