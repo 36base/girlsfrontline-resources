@@ -1,0 +1,81 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>8</BIN><黑屏2><BGM>BGM_Room</BGM>:그리폰 지휘실.
+()<Speaker>지휘관</Speaker>||:......
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:무슨 생각을 하고 계신지요?
+()<Speaker>지휘관</Speaker>||:아니... 아무것도 아니야.+그냥, 하벨 씨가 이번엔 우리에게 무슨 일을 시키려는 걸까 싶어서.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:역시, 지휘관님도 그의 요구와 제공하는 지원이 동등하지 않다고 생각하시는군요.
+()<Speaker>지휘관</Speaker>||:모르겠어. 하지만 이렇게 많은 일을 겪고 나니...+무슨 일이든 곰곰이 생각해보는 편이 좋을 것 같아서.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:그자를 과도하게 신뢰하지 않기를 권장합니다.+어쩌면 그는 예전부터 당신을 그저 쓸 만한 도구로만 보고 있을지도 모르죠.+저번 대화에서 그의 말이 아무리 마음에 와닿는다 해도, 저희는 여전히 전체적인 국면이 어떤지조차 모른다는 것이 현실입니다.+그러니 이번 기회를 잘 활용해, 최대한 많은 정보를 확보하고, 그에게서 진정으로 당신께 도움이 될 만한 것을 얻어내도록 하십시오.
+()<Speaker>지휘관</Speaker>||:명심하지.+그런데, 너 정말로 AR팀과 함께 임무에 나갈 셈이야?
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:패러데우스와 직접 접촉하는 것보다 더 효율적으로 정보를 수집할 방법은 없지 않습니까?+설마, 제가 도주하진 않을까 우려되시나요?
+()<Speaker>지휘관</Speaker>||:네가 정말 그럴 작정이라면 우리로선 막을 방도가 없긴 하지.+하지만 그러면 널 도와 M4를 찾아 줄 사람이 없어지겠지?
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:당연하죠.+그럼 대체 무엇을 우려하고 계신지요?
+()<Speaker>지휘관</Speaker>||:뭐랄까... 네가 AR팀을 걱정할 필요는 없다 했지만...+여태까지, AR팀에서 대원이 이탈할 때마다 다들 크게 상심하는 걸 몇 번이나 봤거든.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:즉, 그들이 루니샤가 실종되어 우울해하고 있진 않을까 걱정된다?
+()<Speaker>지휘관</Speaker>||:그럴 수도 있단 말이지.+이번엔 다른 사람도 아니고 M4인데, AR팀에게 있어 M4가 어떤 존재인진 너도 잘 알 거 아니야.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:그렇죠, 일반적인 인형들보단 제가 그들과 더 가까우니까요.+알겠습니다, 사라진 루니샤를 대신해 그들을 잘 돌보겠습니다.
+()<Speaker>지휘관</Speaker>||:본인들 앞에선 절대 그런 식으로 말하지 마...
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:농담입니다. 제가 어떻게 해야 할지는 잘 알고 있습니다.
+()<Speaker>지휘관</Speaker>||:그리고 하나 더.+댄들라이, 이 옷을 입도록 해.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:이건... 지휘관님의 제복 아닙니까?
+()<Speaker>지휘관</Speaker>||:지금 네 모습은 너무 눈에 띄어.+인형들한테선 모습을 감출 수 있겠지만, 인간에겐 안 통하잖아?+이거라도 입고 있으면, 대충 봐선 그리폰 직원으로 보일 거야.+당장은 여분이 없으니 일단 내 걸 입도록 해.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:정말 용의주도하시군요.
+()<Speaker>지휘관</Speaker>||:마냥 칭찬으로만 들리진 않네...+아무튼, 카리나가 새 옷을 사 올 때까지 입고 다녀.
+()||:문의 조그만 창문 밖으로 어렴풋한 그림자가 드리우더니, 문을 노크하는 소리가 났다.
+()<Speaker>RO635</Speaker>||:지휘관님, AR팀입니다. 들어가도 되겠습니까?
+()<Speaker>지휘관</Speaker>||:들어오렴.
+()||:그러자, SOP2가 문을 뻥 박차고 들어왔다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:지휘관, 이것 봐 이것 봐! RO 엄청 멋지게 변했지?+...어라? 댄들라이는 왜 여기 있어?
+()<Speaker>지휘관</Speaker>||:너희와 함께 이번 임무에 참여할 거야.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:으음...? 그럼, 왜 지휘관의 코트를 쟤가 입고 있는데?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:지휘관님께서 내게 빌려주셨어. 부럽지?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:뭐어어어?!+치사해! 왜 댄들라이한테만 빌려줬어? 쟤 편애하는 거야? 나도 입어볼래!
+AR15Mod(0)<Speaker>AR15</Speaker>||:시끄럽네 정말, 그렇게 사사건건 호들갑 떨지 말아 줄래? 우린 지금 임무 브리핑을 받으러 왔지, 놀러 온 게 아니라고.
+RO635Mod(0)<Speaker>RO635</Speaker>||:그래, SOP2. 댄들라이가 너무 눈에 띄니까 빌려주셨겠지.+그럼, 지금 이 방의 인형 전원이 임무에 참여하는 겁니까?
+()<Speaker>지휘관</Speaker>||:맞아. 지금은 일손이 턱없이 부족하니, 우선 단독 행동이 가능한 인형들에게 일을 맡기려고.
+AR15Mod(0)<Speaker>AR15</Speaker>||<BGM>BGM_Empty</BGM>:"모든 인형"이라니, 저 녀석도 포함인가요?
+()||<BGM>BGM_Hello</BGM>:모두가 AR-15가 가리킨 방의 구석으로 고개를 돌렸다.+그곳에는 웬 사람만한 상어 인형탈이 두 발로 선 채, 이쪽을 물끄러미 바라보고 있었다.
+()<Speaker>？？？</Speaker>||:이야~ 이제야 날 눈치챘구나! 내가 투명해지기라도 했나 싶었다구!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:상어가 말했다!+지휘관이 새로 산 장식품인 줄 알았더니!
+RO635Mod(0)<Speaker>RO635</Speaker>||:나도 그냥 장식인 줄 알았어... 방심했네, 설마 내가 철혈을 감지하지 못하다니.
+AR15Mod(0)<Speaker>AR15</Speaker>||:그냥 관심 끄는 게 좋겠어.+괜히 일만 더 귀찮아질 거란 예감이 들어.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:흐으음... 귀엽다.+확 반으로 접어보고 싶어졌어.
+()<Speaker>？？？</Speaker>||:히이익 그만 그만!+벗으면 되잖아! 접느니 뭐니 살벌한 말 하지 마!
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:어휴 진짜, 유머 감각이라곤 눈곱만큼도 없는 녀석들이라니까. 죄다 빡빡이나 되어버려라!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:크아앙!
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:와악!
+()||:소란스러워진 방 안을 보며, 지휘관은 댄들라이에게 몸을 기울였다.
+()<Speaker>지휘관</Speaker>||:어때?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:예상밖이군요. 최소한 전혀 겉으로 드러내지 않고 있습니다.+하지만, 이들이 인형임을 잊지 마십시오. 무슨 뜻인지 아시겠죠?
+AR15Mod(0)<Speaker>AR15</Speaker>||:야, 기분 나쁘니까 지휘관한테 몰래 속닥거리지 마.+아무튼 지휘관, 새로운 임무인가요?
+()<Speaker>지휘관</Speaker>||:유감스럽게도.+원래는 휴양할 계획이었지만, 할 일이 생겼으니 해결해야지.+미안하지만 너희가 이 임무를 맡아 줬으면 해.
+RO635Mod(0)<Speaker>RO635</Speaker>||:미안해하실 것 없습니다, 다 저희의 의무인걸요.+그보다...
+()||:RO635는 아키텍트를 흘겨봤다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:왜 저 녀석이 여기 있죠?+설마, 멋대로 지휘실에 침입한 건가요?+필요하다면 제가 대신 훈계하겠습니다.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:엥!?+나도 지휘관이 불러서 왔거든?!
+()<Speaker>지휘관</Speaker>||:아 맞아, 그랬지. 너무 조용해서 있는 것도 까먹었어.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:너무해애...
+()<Speaker>지휘관</Speaker>||:그런고로, 이번 임무엔 댄들라이도 동행하고 아키텍트도 협조할 거야.
+AR15Mod(0)<Speaker>AR15</Speaker>||:댄들라이는 그렇다 쳐도...+설마 저 녀석을 대원으로 받아들이라는 말씀은 아니시겠죠?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:크앙!
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:와악! 또 그런다!+저리 가! 쉭쉭!
+()<Speaker>지휘관</Speaker>||:그래서 보충 설명을 하려던 참이지.+대략적인 임무 내용은 RO에게 미리 보내뒀어.+RO?
+RO635Mod(0)<Speaker>RO635</Speaker>||:네.+목표 지점으로 이동해 정찰하면서 의심스러운 물건을 전부 회수하는 임무죠?
+()<Speaker>지휘관</Speaker>||:하벨 씨의 의뢰지.+회수해야 하는 게 구체적으로 뭔지는, 도착하면 저절로 알게 될 거라 했어.
+AR15Mod(0)<Speaker>AR15</Speaker>||:참... 애매모호한 임무군요.
+()<Speaker>지휘관</Speaker>||:그리고 하벨 씨의 의뢰 외에, 그 구역엔 반쯤 폐기된 철혈의 공장이 있어.+하벨 씨의 의뢰를 마치면 그쪽으로 이동해 거길 수색해 줘.
+AR15Mod(0)<Speaker>AR15</Speaker>||:그게 이 녀석이 따라오는 거와 무슨 관계인가요?
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Empty</BGM>:거기가 원래 아키텍트의 관할구역이거든.+그리고, 우리가 받은 보고에 의하면...+최근에 그곳에 철혈 보스 "게이저"가 목격됐다는 정보가 있어.+상황이 된다면, 아키텍트를 미끼로 게이저를 생포해.+우린 현재 철혈의 엘리트 인형들을 회수하는 작업에 착수 중이야. 그들의 마인드맵에서 찾아내야 하는 정보가 잔뜩이니까.
+AR15Mod(0)<Speaker>AR15</Speaker>||<BGM>BGM_Room</BGM>:여전히 애매모호하네요.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:그렇게 된 일이야~+뭐, 까놓고 말해서 난 이번 일에 빠져서는 안 될 중요 인물이라구. 그러니까 잘 부탁해, AR팀~
+AR15Mod(0)<Speaker>AR15</Speaker>||:......
+RO635Mod(0)<Speaker>RO635</Speaker>||:......
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:미끼라... 그냥 머리만 뽑아서 가져가도 되지 않을까?+철혈의 엘리트 인형은 머리만 있어도 기능은 멀쩡할 거 같은데.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:엑... 야 잠깐, 뭘 하려고?!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:걱정 마, 순식간에 끝나니까 하나도 안 아플 거야.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:내 곁에 가까이 오지 말라니까아아아!!!+지휘관도 구경만 하지 말고 좀 말려 줘!
+()<Speaker>지휘관</Speaker>||:하아... 그럼 준비되는 대로 출발하렴, 얼른 하고 와야 일찍 쉬지.
+RO635Mod(0)<Speaker>RO635</Speaker>||:네, 바로 출발하겠습니다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:SOP2, 지휘관 앞에서 창피한 짓 그만하고 격납고로 가자.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:아까워라... 머리는 다음에 기회가 되면 뽑아 줄게!
+BOSS-9(0)<Speaker>아키텍트</Speaker>||<黑屏1>:있을까 보냐!
