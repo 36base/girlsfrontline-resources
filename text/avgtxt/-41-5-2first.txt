@@ -1,0 +1,99 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>3</BIN><黑屏2><BGM>BGM_Room</BGM>:난민 구역 내 거주구의 어딘가.+허름한 옷차림의 사람들이, 독특한 형태의 탄약을 분배 중이었다.
+()<Speaker>난민 A</Speaker>||:...좋아, 보급 완료! 파월 씨의 명령이 떨어졌다!
+()<Speaker>난민 B</Speaker>||:저놈들, 오늘 다 죽었어!+여태까지 우릴 괴롭힌 독일놈들에게 본때를 보여 주자!
+()<Speaker>난민 C</Speaker>||:우오오!!+만세!!
+()<Speaker>난민 B</Speaker>||<黑屏1>:가자!+놈들을 모조리 죽이자!!
+()||<BIN>168</BIN><黑屏2>:한편, 다른 곳.
+()<Speaker>？？？</Speaker>||:선봉대는 전멸했다. 벌써 한번 실패한 셈이지.+두 번째는 용납하지 않는다.
+()<Speaker>？？？</Speaker>||:예!
+()<Speaker>？？？</Speaker>||:지금 우리의 처지가 어떤지는 다들 알겠지? 만약 이번에 목표를 잡지 못한다면, 여태까지의 모든 노력이 허사가 되고 만다.+목숨을 걸어서라도 반드시 성공해야 한다.
+()<Speaker>？？？</Speaker>||:예!
+()<Speaker>？？？</Speaker>||<黑屏1>:출발!
+()||<BIN>3</BIN><黑屏2>:파월의 위치로 향하는 도중.+안젤리아는 손가락으로 지도의 꾸불꾸불한 골목길을 훑었다.
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:칫, 이 앞으론 높은 건물이 없어. 내려가서 이동해야겠군.
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:경로는 정하셨습니까?
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:난 임기응변을 좋아해서.
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:...절 신뢰하지 않으셔도 상관없습니다.+하지만 그렇게까지 경계하실 필요는 없습니다. 저는 그저 명령받은 대로 당신께 도움이 되어드리려 할 뿐입니다.
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:경계고 자시고, 난민들의 움직임에 규칙 따윈 없으니까 상황에 맞춰야 한단 뜻이야.+탄약이나 확인해, 이제 총격전을 피할 수 없어.
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:지금 교환한 걸 제외하면 제겐 이제 탄창 4개 분량이 전부입니다.+탄약이 턱없이 모자란 것을 둘째 치더라도, 저렇게 많은 폭도들을 우리만으로는 상대가 불가능합니다. 대체 몇 번이나 말씀드려야겠습니까.
+NPC-Keven(0)<Speaker>J</Speaker>||:어... 저도 탄창 4개가 전부네요. 그나저나 홉스 씨 꽤 완고하시네요? 도망치고 싶습니까?
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:모두가 죽는 꼴을 보기 전에 말리려는 거다.+정보도, 계획도, 증원도 없는 이 상황에선 뭘 해도 자살행위일 뿐입니다.
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:투덜댈 시간 있으면 바짝 따라오기나 해.+모두 조용히. 저 집으로 돌입한다.
+NPC-Morridow(1)<Speaker>몰리도</Speaker>||:<size=25>무, 무슨 일이죠...?</size>
+()||:멀리서 무기를 난민들이 사납게 달려왔다.+그리고 "침략자들"을 놓친 곳에서, 사방을 두리번거렸다.
+()<Speaker>난민 A</Speaker>||:놈들이 사라졌어...
+()<Speaker>난민 B</Speaker>||:분명 근처에 숨었을 거다!+샅샅이 뒤져!
+NPC-Keven(0)<Speaker>J</Speaker>||:저놈들이 우릴 어떻게 쫓아왔죠?
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:옷차림이 이런데 눈에 안 띌 리가 있나.+골목길을 한바퀴 돌아야겠어.
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:그쪽으로 가면 난민이 없을지 어찌 압니까?
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:그거야 모르지만, 여기 가만히 있다간 바로 옆 건물의 저놈들이 우릴 덮칠걸?
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:...!!!
+NPC-Morridow(1)<Speaker>몰리도</Speaker>||:어, 어디요?!
+NPC-Keven(0)<Speaker>J</Speaker>||:빨리 가요, 빨리!
+()<Speaker>난민 A</Speaker>||:놈들이 도망친다! 쫓아라!
+()<Speaker>난민 B</Speaker>||:잡아라!!
+()<Speaker>난민 C</Speaker>||:달려!!!
+()||<SE1>AVG_Crowd_Run</SE1>:거리를 뒤덮은 난민들을 뒤로하고, 안젤리아 일행은 주저없이 냅다 달렸다.
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:남쪽으로 갑시다! 그쪽은 지형이 복잡해 따돌리기 수월할 겁니다!
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:아니, 계속 서쪽으로 가!
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:지...+지금 그게 무슨 소립니까?! 난민은 서쪽에서 몰려오고 있습니다!
+()||:하지만 안젤리아는 들은 척도 안 하고 계속해서 서쪽으로 난 골목길을 달렸다.+홉스도 하는 수 없이 그 뒤를 따랐다.
+NPC-Morridow(1)<Speaker>몰리도</Speaker>||:홉스 씨...+안젤리아 씨는 아마, 난민들이 저쪽에서 오니까, 파월이 난민 구호 센터에 있는 게 분명해서일 거예요!
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:지금 파월을 잡을 생각만 하면서 안전은 완전히 무시하고 있잖습니까!
+NPC-Keven(0)<Speaker>J</Speaker>||:말하느라 기운 빼지 말고 달리는 데나 집중하시죠, 아저씨!
+()||<SE2>Gunfight</SE2>:타타탕!!+뒤편에서 맹렬한 총성이 들려왔다.
+NPC-Morridow(1)<Speaker>몰리도</Speaker>||:꺄아아악!?
+NPC-Keven(0)<Speaker>J</Speaker>||:괜찮으니까 뒤는 제게 맡기고 계속 달리세요!
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:멈추지 말고 계속 서쪽으로 뛰어! 적끼리 맞붙은 거야!
+()<Speaker>난민 A</Speaker>||:저깄다!
+()<Speaker>난민 B</Speaker>||:형님, 짭새가!! 뒤에 짭새가! 으악!
+()<Speaker>난민 C</Speaker>||:둘째야!! 이 XX들 다 죽었어!!!+너희는 저놈들 쫓아! 저 짭새들은 우리가 조진다!!!
+()||<SE2>Gunfight</SE2>:교차로 남쪽에서 결국 난민과 무장 집단이 충돌했다.+안젤리아 일행은 추격을 뿌리쳤다 생각했지만, 앞의 골목길에서 더 많은 난민들이 쏟아져 나왔다!
+()<Speaker>난민 A</Speaker>||:찾았다!
+()<Speaker>난민 B</Speaker>||:다 죽여라!
+NPC-Keven(0)<Speaker>J</Speaker>||:혹시 우리 몸에 추적기라도 달린 거 아닙니까!?
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:젠장, 거주구라 수가 너무 많아.
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:제 말대로 남쪽으로 갔으면 되는 일이었습니다!
+NPC-Keven(0)<Speaker>J</Speaker>||:거기에 매복이 없을진 어떻게 알아?
+NPC-Morridow(1)<Speaker>몰리도</Speaker>||:안젤리아 씨, 여, 역시 일단 남쪽으로 가서 저 사람들부터 따돌리는 게 어떨까요?!
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:아니, 뒤로 돌아가!
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:......
+NPC-Keven(0)<Speaker>J</Speaker>||:안젤리아 씨의 생각은 혹시...?
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:뒤에서 적들이 서로 싸우고 있으니, 서쪽 놈들도 거기로 유인해! 난장판이 좋다 이거지? 그럼 장작을 더 가져다주자고!
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:거기서 어떻게 빠져나올 셈입니까!?
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:그거야 너희 솜씨에 달렸지!+상황이 혼란스러울수록 우리한테 더 기회가 많아져!
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:...미친 소리로밖에 안 들립니다.
+NPC-Morridow(1)<Speaker>몰리도</Speaker>||:홉스 씨, 안젤리아 씨를 믿어봐요.
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:지금 제게 선택권이 있겠습니까? 저도 당신처럼 낙천적이었으면 좋겠군요.
+NPC-Morridow(1)<Speaker>몰리도</Speaker>||:어쩔 수 없잖아요... 난민들한테 붙잡혔다간, 무... 무슨 짓을 당할지...+지금은 우리 모두 뭉쳐야 해요, 어서 안젤리아 씨를 따라가요!
+()||<SE2>Gunfight</SE2>:타타타탕!!+얼마 남지 않은 총알을 흩뿌리며, 안젤리아 일행은 그 혼란스런 격전지로 되돌아갔다.
+()<Speaker>불명인원</Speaker>||:지휘부, 지휘부, 현장이 너무 혼란하여 목표를 식별할 수가 없다. 확인 바란다.
+()<Speaker>통신 반대편</Speaker>||:......
+()<Speaker>불명인원</Speaker>||:제기랄, 지휘부와 연결이 안 돼. 이 난민 떼거지도 성가신데, 우리 병력 손실까지 커서 이러다간 목표를 놓치고 말겠어.
+()<Speaker>무장인원</Speaker>||:지상팀이 "참새"를 찾았다고 한다. 난민은 무시하고 현장을 이탈하자, 놈을 확보하면 "비둘기"도 알아서 쫓아올 거다.
+()<Speaker>불명인원</Speaker>||<黑点1>:알았다! 전원, 현장을 이탈한다!
+()||<黑点2><BIN>168</BIN>:난민 거주구의 다른 한쪽. 낡은 건물에서, 파월과 그의 수행원들은 난장판이 되어버린 거리를 관찰하고 있었다.
+()<Speaker>수행원</Speaker>||:파월 씨, 쥐새끼들이 도망쳤습니다.
+NPC-Powell(0)<Speaker>파월</Speaker>||:쓰레기 같은 독일놈들, 목숨 걸고 싸워야 할 땐 항상 가장 먼저 도망친다니까.
+()<Speaker>난민 A</Speaker>||:파월 씨? 파월 씨, 어디 계세요!+정보를 가지고 왔어요!
+NPC-Powell(0)<Speaker>파월</Speaker>||:어떻게 됐어?
+()<Speaker>난민 A</Speaker>||:죄송해요, 형제들이 놓쳤대요.+난장판 속에서 엄청 빨리 도망쳤다더라고요.
+NPC-Powell(0)<Speaker>파월</Speaker>||:괜찮아 괜찮아, 여긴 우리 땅이니 오래 못 숨을 거야.+...잠깐, 너 여긴 어떻게 들어왔어? 바깥의 경비는?
+()<Speaker>난민 A</Speaker>||:경비? 무슨 경비요?+들어올 때 아무도 못 봤는데요?
+()<Speaker>수행원</Speaker>||:파월 씨, 큰일입니다. 빨리...
+NPC-Powell(0)<Speaker>파월</Speaker>||:나도 알아!+너! 몇 명 데리고 여길 지켜라. 네 형제들한텐 거리를 싸그리 뒤져보라 하고!+수상한 녀석 있으면 바로 쏴 죽이라 해!
+()<Speaker>난민 A</Speaker>||:네!
+NPC-Powell(0)<Speaker>파월</Speaker>||:빨리 가자, 여기도 이젠 더는 위험해.+쥐새끼 같은 놈들, 이빨은 날카로워선...
+()||:파월은 수행원들의 호위를 받으며, 창문을 통해 건물을 빠져나갔다.+그리고 15분 후.+깔끔한 장비의 무장 인원 3명이, 그 방에서 자동차 배터리를 가지고 마지막 남은 생존자를 고문했다.
+()<Speaker>무장인원A</Speaker>||:말해, 그 뚱땡이 어디 갔어?
+()<Speaker>난민 A</Speaker>||:퉷! 이 망할 짭새... 으아아아아악!!!
+()<Speaker>무장인원B</Speaker>||:부대장님, 거리 정리 완료했습니다! 다 잔챙이들뿐이고, "참새"는 없었습니다.
+()<Speaker>무장인원A</Speaker>||:알았다. 현장팀 두 그룹에게 C3 구역을 정찰하라 해라.+A 그룹은 북쪽으로 추격하고, B 그룹은 "비둘기"를 쫓는다. 그리 멀리 가지 못했을 테지.+놈은 프로가 아니야. 계속 압박하면, 분명 실수를 저지를 거다.
+()<Speaker>무장인원B</Speaker>||:예! 그럼 이 녀석은 어떡합니까?
+()||:그들의 부대장은 가슴에 찬 권총을 뽑아, 전기 고문을 받던 난민의 허벅지를 쏘았다.
+()<Speaker>난민 A</Speaker>||:끄아악!!
+()<Speaker>무장인원A</Speaker>||:이놈의 입은 내가 열겠다.
+()<Speaker>무장인원B</Speaker>||:알겠습니다!
+()<Speaker>무장인원A</Speaker>||:시간이 많지 않다, 명령 실시.
+()<Speaker>무장인원B</Speaker>||<黑屏1>:실시!
