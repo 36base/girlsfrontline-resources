@@ -1,0 +1,147 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>9</BIN>:……
+NPC-Passadou(0)<Speaker>파사두</Speaker>||:"우리 사랑, 저 소나무처럼 영원토록 푸르리라 하진 않았죠."+"바다처럼 영원히 변치 않으리라 하진 않았죠."+"그래도, 조금만이라도 기억하신다면..."+"잠시 머무를 때, 저를 떠올려 주세요."
+()||<黑屏1>:눈가에 눈물을 머금고서, 파사두는 노래하며 어둠 속으로 걸어갔다.+그리고 그녀의 모습은 허공에서 흩어져 사라졌다.
+()||<黑屏2><BGM>m_avg_labyrinth</BGM><BIN>283</BIN>:버려진 극장, 혼란이 가라앉은 뒤.
+Spitfire(2)<Speaker>Spitfire</Speaker>||:다 끝났어요.
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:선배, 홀로그램 사라졌으니까 의자 밑에서 나오세요.
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:...파사두 귀신 갔어?
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:네, Spitfire 선배가 극장의 제어 시스템을 껐어요.+호크 선배! 얼른 일어나세요!
+()||:97식 산탄총도 정신을 차리고 벌떡 일어났지만, 놀란 가슴에 아직도 토끼눈이었다.
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:선배도 참... 다 끝났으니까 괜찮아요.
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:파사두는?!
+Spitfire(2)<Speaker>Spitfire</Speaker>;97typeS(2)<Position>0,100</Position>||:사라졌어요.
+SuperSASS(2)<Speaker>SuperSASS</Speaker>;97typeS(2)<Position>0,100</Position>||:귀신이 아니라 홀로그램이라니까요...
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>;97typeS(2)<Position>0,100</Position>||:어... 그러니까, 극장의 귀신의 정체는 그냥 제어 시스템 고장이었다고?+시시해애...
+MDR(2)<Position>0,100</Position>;97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:보자마자 울고불고 질질 짜던 게 누구더라...
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>;97typeS(2)<Position>0,100</Position>||:사돈 남 말하시네!
+Spitfire(2)<Speaker>Spitfire</Speaker>;MDR(2)<Position>0,100</Position>||:그렇게 단순하진 않은 것 같아요.
+Spitfire(2);MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:뭐야, 또 돌아왔어?!
+Spitfire(2)<Speaker>Spitfire</Speaker>;MDR(2)<Position>0,100</Position>||:그게 아니라, 방금 시스템을 해킹할 때 조작 기록을 하나 찾았어요.+확인해보니, 날짜가 바로 1년 전의 오늘이에요.
+Spitfire(2);SuperSASS(2)<Speaker>SuperSASS</Speaker>||:네? 그렇다면 그 화재와 관계 있는 거에요?
+Spitfire(2)<Speaker>Spitfire</Speaker>;SuperSASS(2)||:화재의 원인은 아니어도, 다른 것과는 관계가 있을지도요.+이 조작 기록은 화재 발생 약 15분 후에 남겨졌는데, <color=#FF0000>AH400 가정용 인형</color> 모델이 네트워크를 통해 자신의 의식 데이터를 업로드, 제어 시스템의 AI를 덮어씌우려 시도했어요.+하지만 기록으로 봐선 업로드는 도중에 중단됐네요.
+Spitfire(2);SuperSASS(2)<Speaker>SuperSASS</Speaker>||:왜 업로드가 끊겼을까요?
+Spitfire(2)<Speaker>Spitfire</Speaker>;SuperSASS(2)||:우리 중에서 화재 당시 극장에서 무슨 일이 있었는지 아는 사람은 MDR뿐이죠.+혹시 짐작 가는 거 없나요?
+Spitfire(2);MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:AH400? 그거 엄청 낡은 모델 아니야?
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:그리고 파사두 사건에 인형이 있었단 얘기는 없었는데...
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:지금 봤는데, 이 극장은 인형을 뮤지컬 배우로 기용하는 걸 금지했대.
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:그런 규정도 있군요...
+Spitfire(2)<Speaker>Spitfire</Speaker>||:MDR, 그 이야기 마저 해 주세요.
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:알았어, 끝까지 다 얘기하면 뭔가 떠오르는 게 있을지도 모르겠네.
+()||<BGM>BGM_Empty</BGM>:MDR은 다시 스트리밍 설비를 켰다.
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:헤이헤이 시청자 친구들! 방송 재개야!+방금 유령이 쫓아오는 바람에 대응하느라 방송을 끌 수밖에 없었어, 정말 미안해.+상황도 정리됐으니, 다시 이 극장의 이야기를 계속하자구...+제인 도가 자기 얼굴을 파사두와 구분이 안 될 정도로 똑같이 성형했단 데까지 얘기했지?
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:난 한숨 잘래, MDR 이야기 다 끝나면 깨워 줘.
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:네? 호크 선배...?
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:알라가 파사두를, 그녀의 아름다운 외모와 출중한 재능을 얼마나 사랑했는진 아무도 부정하지 않아.+하지만 그래서 더더욱 두 여자 사이에서 갈등했지.+파사두가 병이 깊어질수록 점점 더 신경질적으로 변했고, 또 그녀가 빠진 극장도 타격을 입었으니까.+그런 와중에 때마침 제인 도가 나타나서, 다정하고 상냥하게 얼어붙은 마음을 녹여 줬으니... 알라가 점점 파사두를 멀리하게 된 건 당연한 결과겠지?
+Spitfire(2)<Speaker>Spitfire</Speaker>||:SASS, 주변을 살펴보러 갈 테니 중요한 부분에서 불러 주세요.
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:잠깐, 나도 갈래.
+SuperSASS(2)<Speaker>SuperSASS</Speaker><Shake>||:에에...
+()||:Super SASS는 스트리밍에 몰두 중인 MDR을 돌아봤다.
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:으으... MDR 선배, 죄송해요!
+()||<SE1>RunStep</SE1><黑屏1>:결국 Super SASS도, Spitfire와 97식 산탄총의 뒤를 따랐다.
+()||<黑屏2><BIN>18</BIN><Night><BGM>BGM_Empty</BGM>:무대 뒷편.+Spitfire는 MDR의 스트리밍 채널을 켜, 그녀의 재잘대는 해설을 들으며 다른 두 인형들과 함께 극장 내부를 수색했다.
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||<BGM>BGM_Sneak</BGM>:Spitfire 너, 그 인형이 아직도 여기 있다 생각하는 거지?
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:네?! 그, 그럼 그 인형이 아직 살아있는 거에요...?
+Spitfire(2)<Speaker>Spitfire</Speaker>||:그건 모르겠지만, 당시 언론 보도 중에서 극장 안에서 가정용 인형이 발견됐단 기사는 전혀 없었어요.+그리고, 당시 극장의 불길은 시작된 지 약 20분쯤 후에 가장 크게 타올랐다고 해요.+그런 화재 속을, 가정용 인형이 안으로 들어갔다 무사히 빠져나왔을 리 없다고 봐요.
+Spitfire(2);97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:굉장한 발견이라도 했나 했더니만...+어느 매스컴이 가정용 인형의 생사를 신경쓰겠어? 끽해야 우리 그불게 같은 데서 잡소문이나 퍼지겠지 뭐.
+Spitfire(2)<Speaker>Spitfire</Speaker>;97typeS(2)<Position>0,100</Position>||:인간이 가정용 인형의 생사에 관심 갖지 않는 건 상관없어요. 하지만 같은 인형으로서, 동족에 대한 공감을 잃어선 안 돼요.+공감하지 못하는 종족은 멸망할 뿐이에요.
+Spitfire(2);97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:뭘 그렇게 진지하게 생각해.+나도 당연히 그 인형이 어떻게 됐는지 신경쓰여서 따라온 거라고.
+SuperSASS(2)<Speaker>SuperSASS</Speaker>;97typeS(2)<Position>0,100</Position>||:저도요. 그 인형이 정말 아직도 이 극장 안에 있을까요?
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:위험을 무릅쓰고 불타는 극장 안으로 뛰어든 건, 분명 엄청 중요한 일이 있어서였겠죠...
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:불 난 와중에 뭐가 중요하다고...
+Spitfire(2)<Speaker>Spitfire</Speaker>||:누굴 구하려 했을 수도 있죠. 파사두 씨라든가...
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:네?!
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||<黑屏2><BIN>283</BIN><BGM>GF_20HW_Scene_BPM82_loop</BGM>:다들 알다시피, 파사두는 알라를 만나기 전까진 홀로 자취 생활을 했어.+자취하는 사람은 대부분 야무지고 독립성도 강해서 뭐든 스스로 하려 해서, 다른 사람한테 잘 기대지 않지.+그래서 파사두는 아무리 혼자서는 해결하기 어려운 문제라도 참으면서 남에게 폐를 끼치려 하지 않았어.+하지만 제인 도는 정반대의 타입이었지. 알라한테 기대면서, 진심으로 그를 사모했다 해.
+()<Speaker>실시간 댓글</Speaker>||:<color=#FA8072>내가 보기엔 파사두가 사람한테 기대는 쪽인 거 같은데</color>
+()<Speaker>실시간 댓글</Speaker>||:<color=#00BFFF>맞아, 파사두 다큐멘터리도 보니까 요리 실력 꽝이었다던데?</color>
+()<Speaker>실시간 댓글</Speaker>||:<color=#00FA9A>생전에 알라랑 같이 인터뷰했을 때도 계속 지 남편한테 꼽주더라</color>
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:케흠... 아무튼, 알라는 파사두와 제인 도 사이에서 계속 갈팡질팡했다~ 이 말이야!+그러던 어느날 제인 도가 파사두랑 완전히 똑같은 모습으로 나타나자, 알라는 남은 이성마저 무너지고 말았지.+진짜 파사두만 사라진다면 제인 도가 파사두를 대신할 수 있을 테고...+그럼 "파사두"는 언제까지고 다정하고 상냥한 아내로 남고, 극장에도 다시 "파사두"의 노래가 울려 퍼질 거라 생각했어.
+()<Speaker>실시간 댓글</Speaker>||:<color=#8A2BE2>와오, 쩐다</color>
+()<Speaker>실시간 댓글</Speaker>||:<color=#B8860B>알라 씨, 생전에 사람이 아주 참해 보였는데 설마 그랬으려고!</color>
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:하지만 다들 대충 들었다시피, 파사두는 알라와 제인 도의 계획을 눈치챘고...+자신도 따로 계획을 꾸몄――
+()||<SE1>GF_Halloween_Femal_Cry_loop</SE1><BGM>BGM_Empty</BGM>:그때, 다시 한번 갑자기 바람이 불어 MDR의 망토를 펄럭였다.
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:응? 또 뭐... 어라?+SASS?+Spitfire?+호크...?
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||<SE1>Stop_AVG_loop</SE1><黑屏1><Shake>:뭐야, 다 어디 갔어?!
+Spitfire(2)<Speaker>Spitfire</Speaker>||<黑屏2><BIN>18</BIN><Night><BGM>BGM_Sneak</BGM>:제 생각엔... 그 인형은 파사두 씨를 구하려고 불타는 극장으로 뛰어든 게 맞다고 봐요.+아마 파사두 씨가 알라 씨와 결혼한 뒤 구입했겠죠.
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:하지만 AH400은 꽤 오래된 모델이잖아요?+파사두 씨와 알라 씨의 결혼 생활이 그렇게 길진 않았어요.
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:방금 MDR이 파사두는 줄곧 혼자 살았다 하지 않았어?
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position><通讯框>||:하지만 다들 대충 들었다시피, 파사두는 알라와 제인 도의 계획을 눈치챘고...+자신도 따로 계획을 꾸몄――
+()||<SE1>AVG_whitenoise</SE1>:MDR의 스트리밍이 갑자기 끊겼다.
+Spitfire(2)<Speaker>Spitfire</Speaker>||:...방송이 멈췄네요.
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:이 녀석은 왜 또 중요한 타이밍에 말을 끊어? 사람 답답하게 진짜!+파사두가 꾸민 계획인 뭔데? 시원하게 말 좀 하란 말이야!
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:호크 선배, 진정하세요...
+Spitfire(2)<Speaker>Spitfire</Speaker>||:이곳의 신호가 나쁜 모양이에요. 일단 계속해서 여길 수색해 보죠.
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:하지만 여기 죄다 시커멓게 그을린 흔적뿐이지, 아무것도 없는걸! 괜시리 분위기만 오싹하게 뭐야...
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:파사두 씨의 방에 있던 옷장도 텅 비었어요.
+Spitfire(2)<Speaker>Spitfire</Speaker>||:여긴 역시 단서랄 만한 게 없는 것 같네요. 소품실을 찾아봐요.
+()||<黑点1>:세 인형은 무대 뒷편 더 깊은 곳으로 들어갔다.
+()||<黑点2><BGM>BGM_Empty</BGM>:그리고 몇 분 후, 겁에 질린 MDR이 뒤늦게 무대 뒤로 달려왔다.
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||<BGM>m_avg_labyrinth</BGM>:SASS! Spitfire! 호크! 얘들아아아!!+다 어디 갔어!? 놀래키지 말고 빨리 나와――!!
+()||:하지만 대답은 없었다.
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:설마, 내가 방송하는 동안 귀신이 하나씩 잡아간 거야...?+다 잡혀가서... 이제 나만 남은 거야...?+안 돼, 안 돼! 빨랑 통신 받아 이 녀석들아!!
+()||<SE1>GF_Halloween_Wind_loop</SE1>:그때, 어디선가 한숨 소리가 들렸다.
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position><Shake>||:히이이익!?
+()||:......
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:호, 호크지?! 숨어서 놀래킬 속셈이지!?+자자자장난치지 말고 얼른 나와!
+()||:......
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:도, 도망칠 생각일랑 마셔, 지금 잡으러 간다!
+()||<SE1>Stop_AVG_loop</SE1><黑屏1>:소리의 근원을 찾으러, MDR은 어둠 깊숙이로 뛰어들었다.
+()||<黑屏2><BIN>88</BIN>:한편, 소품실.+과거에 여기 있던 소품들은 이제 얼마 없었다. 과거 그리폰이 기부한 물자 상자도 가지런히 놓여 있었지만, 다 깔끔하게 바닥을 드러내고 있었다.
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:역시 여기도 아무것도 없잖아...
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:그래도 찾아낸 게 아주 없지는 않네요. 예전에 카리나 씨가 지역 경제 부흥 자선 활동이라면서 시끄러웠던 거, 기억해요?+그때 인근의 극장을 재건한다고 우리한테서 기부품을 모집했는데, 꿀꺽한 게 아니라 정말 여기로 보냈네요.
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:어... 그건 확실히 의외네.
+Spitfire(2)<Speaker>Spitfire</Speaker>||:이렇게 찾아봐도 안 보이니, 아무래도 그 가정용 인형은 화재가 진화된 뒤에 치워진 모양이에요.
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:그 인형의 주인이 소체를 잘 수습했으면 좋겠네.+낡은 모델의 인형이 주인을 구하려고 불길 속으로 뛰어들다니, 정말 대단한 용기야...
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:무사히 수복받았다면 더 좋겠어요...
+Spitfire(2)<Speaker>Spitfire</Speaker>||:...뭔가 이상해요.
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:뭐가요?
+()||:Spitfire가 중단된 MDR의 스트리밍 영상을 돌려 보았다.
+Spitfire(2)<Speaker>Spitfire</Speaker>||<黑屏1>:그 가정용 인형의 정체에 대해서, 좀 과감한 추측이 떠올랐어요.
+()||<黑屏2><BIN>18</BIN><Night>:파사두의 대기실.
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:빨리 나와!! 언제까지 숨바꼭질할 셈이야!?
+()||<SE1>GF_Halloween_Femal_Cry_loop</SE1>:......
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:다 들었어! 여기 숨었구나!
+()||:MDR이 옷장을 활짝 열어봤지만, 안에는 아무것도 없었다.
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:아, 아하하... 정말 꼭꼭 숨었네... 이 옷장 뒤구나?!
+()||<SE1>Stop_AVG_loop</SE1><黑屏1>:MDR이 옷장을 냅다 옆으로 밀쳤다.
+()||<黑屏2><BIN>9</BIN>:밀쳐 넘어진 옷장 뒤엔 놀랍게도 숨겨진 방이 있었다.+방 한가운데엔, 미약한 불빛을 받으며 한 인형이 누워 있었다.
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:호크지? 호크 맞지? 왜 그런 데 드러누웠어?+SASS랑 Spitfire는 어딨고?
+()||:한숨 놓은 MDR은 그 인형에게 다가가, 손을 뻗어 일으켜세웠다.+하지만 인형은 대답이 없었다.
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:뭐야, 아주 곯아떨어졌네?
+()||<SE1>AVG_Rain2</SE1><白屏1>:번쩍!+번개가 치자, 비로소 그 인형의 모습이 MDR에게 뚜렷하게 보였다.
+()||<白屏2>:시꺼멓게 탄 소체에 얼굴도 반쯤 녹아내리고, 드레스도 그을음에 넝마가 된... 끔찍한 모습이었다.
+()<Speaker>MDR</Speaker>||<SE1>Stop_AVG_loop</SE1><黑屏1>:<size=50>냐야아아아아아아악!!!</size>
+Spitfire(2)<Speaker>Spitfire</Speaker>||<黑屏2><BIN>88</BIN>:제 생각엔, 그 인형이 바로 제인 도가 아닐까 싶어요.
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position><Shake>||:뭐야?! 그럴 리가!+인형이 어떻게 인간 배우의 자리를 빼앗아!?
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:하지만 그렇다면 이야기의 아귀가 맞아떨어져요. 어떻게 제인 도가 얼굴을 파사두 씨와 똑같이 만들고 바로 공연을 재개했는지까지도요.
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:하지만 현존하는 인물의 외모를 모방한 인형은 불법이라며?+그것도 상당한 중죄일 텐데...
+Spitfire(2)<Speaker>Spitfire</Speaker>||:그렇기에 파사두 씨와 알라 씨 외의 누구에게도 제인 도의 존재를 밝힐 수 없었던 거겠죠.+그렇다면 왜 극장의 직원들 모두가 제인 도를 기억 못하는지도 설명돼요.+아예 제인 도를 본 적 없으니까요. 설령 보고 얘기까지 나눴더라도 그게 제인 도인지 전혀 몰랐을 거예요.
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:그렇다면, 파사두 씨는 처음부터 제인 도를 알고 있었단 뜻이네요.
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:자기가 직접 만들어낸 존재니까...
+()||:냐아아아아아——+MDR의 처절한 비명이 무거운 분위기를 깼다.
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:MDR 선배예요!
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:또 파사두가 나타났나?!
+Spitfire(2)<Speaker>Spitfire</Speaker>||:복도 쪽에서 들렸어요!
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||<SE1>RunStep</SE1><黑屏1>:MDR 선배!+지금 갈게요!
+()||<黑屏2><BIN>70</BIN><Night>:......
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:MDR!
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:MDR 선배!
+()||:비명소리를 쫓아온 세 인형들도 비밀의 방을 발견했고, MDR은 방의 구석에 잔뜩 겁먹은 표정으로 벌벌 떨고 있었다.+그리고 그녀의 시선이 향하는 곳에 누워 있는 인형의 잔해도 찾아냈다.
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position><Shake>||:후에엥... 인혀엉... 인형이...
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:......
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:야 MDR, 그리폰의 전술인형으로서 쪽팔리지도 않냐?
+()||:Spitfire는 그 인형의 잔해에 다가가 자세히 살펴보았다.
+Spitfire(2)<Speaker>Spitfire</Speaker>||:...AH400 가정용 인형. 찾았어요, 제인 도예요.
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:무, 머머머 뭐어? 이 인형이 제인 도라고?!
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:Spitfire 선배가, 제인 도는 사실 파사도 씨의 인형이 아닐까 추측했어요.+병으로 무대에 오르지 못하게 되자, 인형을 불법 개조해서 자기 대신 공연하게 만드려고요.+그런데, 왜 이런 데에 버려진 거죠?
+Spitfire(2)<Speaker>Spitfire</Speaker>||:화재 당일 공연한 사람이... 제인 도였다면?
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:잠깐 잠깐! 그럼 사건 자체가 꼬여버리잖아!
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:그럼 진짜 파사두는 어디로 갔는데?! 으아아, 복잡해서 마인드맵이 터질 거 같아...!
+Spitfire(2)<Speaker>Spitfire</Speaker>||:MDR, 화재 사건의 경위를 말해 주세요.
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:잠깐 정리 좀 하고... 응, 소문에 따르면 파사두는 알라와 제인 도의 음모를 눈치챘어.+그래서 모두에게 의미가 깊은 이 극장에서 죽기로 결심했대.+자신이 무대에 오를 차례가 되자, 무대에 불을 지른 거지.+계획이 틀어지자 제인 도는 바로 도망쳤고, 알라는 갑자기 후회심이 들어서 파사두를 구하려고 했지만...+관객들과 극장 직원들 모두가 대피했지만, 파사두와 알라는 끝까지 극장 밖으로 나오지 않았다고 해.
+Spitfire(2)<Speaker>Spitfire</Speaker>||:그 이야기서, 파사두와 제인 도를 바꿔봐요.
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||:엑... 그럼 제인 도가 공연 도중 무대에 불을 질렀고, 알라는 제인 도를 구하러 갔고...+다른 사람들은 다 대피했지만 제인 도와 알라만 빠져나오지 못했다...?+대충 그럴듯하긴 한데, 그럼 파사두는?
+97typeS(2)<Speaker>97식 산탄총</Speaker><Position>0,100</Position>||:가정용 인형이 인간을 해칠 수 있어?
+SuperSASS(2)<Speaker>SuperSASS</Speaker>||:불가능하죠...
+Spitfire(2)<Speaker>Spitfire</Speaker>||:당장으로선 전부 우리의 추측에 불과해요.+이 인형의 마인드맵에 접속하면,그날 무슨 일이 있었는지 바로 알 수 있지 않을까요?
+MDR(2)<Speaker>MDR</Speaker><Position>0,100</Position>||<黑点1>:오우, 나이스 아이디어!+헤이, 시청자 친구들!+이미 끝난 줄 알았던 사건에 새로운 전개가 발생했어!+극장의 숨겨진 방에서, 인형의 잔해를 찾았다구!+이 방은 뭘까? 이 인형은 또 뭘까? 설마 이 인형이 모습을 감췄다는 제인 도일까? 파사두 사건과는 대체 어떤 관계일까?+모두 채널 고정! 우리 함께 이 인형의 마인드맵에 들어가보자!

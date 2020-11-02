@@ -1,0 +1,101 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑点2><BIN>83</BIN><SE1>AVG_amb_wilderness</SE1>:숙소 앞 마당의 한가운데서, 마카로프는 막연하게 주위의 풍경을 두리번거렸다.+날이 점점 밝아 가면서, 눈부신 아침 햇살이 기지와 시설, 그리고 오가는 인형들을 비췄다.+바람소리와 웃음소리, 간간히 들려오는 구령 소리... 전부 더없이 익숙한 것들이지만, 어째선지 왠지 모를 위화감이 들었다.
+PM(4)<Speaker>마카로프</Speaker>||:나... 왜 여기 있지...?
+PM(4)<Speaker>마카로프</Speaker>||<黑屏1>:침착해... 침착해, 마카로프. 지금까지 있었던 일을 떠올려 봐...
+()<Speaker>마카로프</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:난... 진실을 추적하는 중이었어...
+()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><BGM>BGM_Dorm</BGM>:며칠 전.
+PM(0)<Speaker>마카로프</Speaker>||:어휴... 파티에 술만 나왔다 하면 바로 난장판이 되어 버린다니까.+M950A는 아직도 노래 삼매경인가... 피곤해, 신경 끄자. 난 빨리 가서 쉬어야 해.
+PM(0)<Speaker></Speaker>||:숙소 건물은 조용했고, 문을 닫으니 저 멀리 감정이 잔뜩 실린 노랫소리도 위력이 줄었다.+마카로프는 무어라 중얼거리며 침대에 벌러덩 드러눕고, 천장을 빤히 바라보며 메모리를 정리했다.+그리고 40분 후, 그녀는 하루를 마치고자 눈을 감았다.
+PM(0)<Speaker>시스템</Speaker>||:<color=#00CCFF>마카로프, 지금 바로 주무시겠습니까?</color>+<color=#00CCFF>그리폰 게시판에서 새로운 푸시 알림을 받았습니다.</color>
+PM(0)<Speaker>마카로프</Speaker>||:잘 거니까 내버려둬.
+PM(0)<Speaker>시스템</Speaker>||:<color=#00CCFF>"충격! 지휘관의 침실 사진 유출!"</color>
+PM(0)<Speaker>마카로프</Speaker>||:관심 없어.
+PM(0)<Speaker>시스템</Speaker>||:<color=#00CCFF>"한밤중의 밀회, 그 상대는 누구?"</color>
+PM(0)<Speaker>마카로프</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:......뭐?
+()<Speaker></Speaker>||<黑屏2><BIN>8</BIN>:지휘실.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:하~암... 됐다, 할 일 끝! 으으, 침대야 기다려ㄹ――
+NPC-Kalin(0);PM(0)<Speaker>마카로프</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Room</BGM>:<color=#00CCFF>늦은 밤에 미안하지만 실례할게 카리나, 아직 있지?</color>
+NPC-Kalin(0)<Speaker>카리나</Speaker>;PM(0)||:아... 마카로프? 응, 아직 있어. 무슨 일이야?
+NPC-Kalin(0);PM(0)<Speaker>마카로프</Speaker>||:<color=#00CCFF>방금 게시판에 올라온 글 봤어?</color>+<color=#00CCFF>오늘 관제실 당번인 스테츠킨이 감시 영상에서 지휘관의 방에 여성의 실루엣이 찍혔다고 게시판에 올렸어.</color>
+NPC-Kalin(0)<Speaker>카리나</Speaker>;PM(0)||:어, 그, 그런 일이 있었어?
+NPC-Kalin(0);PM(0)<Speaker>마카로프</Speaker>||:<color=#00CCFF>이건 심각한 문제야. 당장 그 글을 삭제하고 해결책을 마련해야 해.</color>
+NPC-Kalin(0)<Speaker>카리나</Speaker>;PM(0)||:어... 알려 줘서 고마워. 내가 처리할게.+하지만 이미 본 애들은 달리 방도가 없겠는데...
+NPC-Kalin(0);PM(0)<Speaker>마카로프</Speaker>||:<color=#00CCFF>못 본 걸로 해 달라는 수밖에 없지 뭐.</color>+<color=#00CCFF>다만 입이 가벼운 녀석들도 있으니, 내일 아침쯤이면 알 사람은 다 알게 되겠지만...</color>
+NPC-Kalin(0)<Speaker>카리나</Speaker>;PM(0)||:그건 그렇네...
+NPC-Kalin(0);PM(0)<Speaker>마카로프</Speaker>||:<color=#00CCFF>늦었는데 카리나도 엄청 피곤하지?</color>+<color=#00CCFF>이 일의 조사는 나한테 맡기고, 넌 어서 자러 가.</color>
+NPC-Kalin(0)<Speaker>카리나</Speaker>;PM(0)||:어, 조사하려고?!+내가 보기엔 특별히 조사까지 할 필요는 없을 것 같은데...
+NPC-Kalin(0);PM(0)<Speaker>마카로프</Speaker>||:<color=#00CCFF>심각한 문제라니까? 침입자가 누군지 반드시 밝혀내야 해.</color>+<color=#00CCFF>모두가 아무나 멋대로 지휘관의 방에 들어가도 된다고 생각하기 시작하면, 기지내의 기강이 해이해질 거야.</color>
+NPC-Kalin(0)<Speaker>카리나</Speaker>;PM(0)||:아... 그래, 그럼 부탁할게.+그래도 너무 무리하진 않겠다고 약속해 줄래? 조사해봤는데도 못 밝혀내겠으면 그냥 내버려둬.+기지의 감시 시스템도 업데이트됐고 보안 시스템도 곧 업그레이드할 예정이니까, 권한 관리가 훨씬 엄격해질 거야.
+NPC-Kalin(0);PM(0)<Speaker>마카로프</Speaker>||:<color=#00CCFF>알았어, 충고 고마워.</color>
+NPC-Kalin(0)<Speaker>카리나</Speaker>;PM(0)||<黑屏1><SE1>AVG_tele_disconnect</SE1>:나 진심이야. 절대 무리하지 마, 알았지?+흐아암... 그럼 잘 자...
+()<Speaker>마카로프</Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:음... 여기까진 문제 없어. 그 후에 의심 가는 인형들을 모두 조사했지만 다 꽝이었고, 지휘관은...+...맞아, 카라비너가 지휘관이 실은 정체를 아는 것 아니냐고 지적했지만 결국 누군진 알아내지 못했어.+그리고... 그리고 무슨 일이 있었더라?
+()<Speaker>마카로프</Speaker>||<黑屏2><BIN>82</BIN><BGM>BGM_Dorm</BGM>:그 다음엔...
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>||<BGM>BGM_Sunshine</BGM>:좋아요! 주사위는 진작에 던져졌으니 지금부터 파티의 뒷풀이를 시작할까요 여러분!
+Carcano1891(0);PM(0)<Speaker>마카로프</Speaker>||:거창한 말 이런 데다 남용하지 마...+그리고 뒷풀이라니? 왜 수사관인 나까지 입으라는 거야?
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>;PM(0)||:그야 당연히, 이 역사적인 순간을 기록으로 남기기 위해서죠!+이름하여 "지휘관님 짝 찾기 대작전"!
+Carcano1891(0);ZastavaM21(0)<Speaker>ZasM21</Speaker>||:난 빠져도 되지?
+Carcano1891(0);PM(0)<Speaker>마카로프</Speaker>||:이렇게 많은 웨딩드레스는 다 어디서 난 거야?
+Carcano1891(0);ZastavaM21(0)<Speaker>ZasM21</Speaker>||:저번에 리엔필드랑 G36C가 어딜 조사하다 유령을 만나고, 전리품으로 거기 있던 온갖 웨딩드레스를 가져왔단 얘기를 들었는데... 설마 이게 그 전리품이야?
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>;ZastavaM21(0)||:아무리 아름다운 옷이라도, 입지 않으면 아무런 소용이 없답니다.+그러니 이 기회에 입어 줘서 함께 아름다움을 뽐내 봐요! 자아 꽃처럼 예쁜 아가씨들, 가서 마음껏 고르세요! 사이즈 안 맞으면 제가 고쳐 줄게요!
+Carcano1891(0);PM(0)<Speaker>마카로프</Speaker>||:틀린 말은 아니지만, 난 사양할래.
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>;PM(0)||:에이~ 일등공신인 당신도 마땅히 자격이 있다고요!+아이 Zas 씨, 몰래 도망치려 하지 마세요!
+Carcano1891(0);PM(0)<Speaker>마카로프</Speaker>||:난 어울려 줄 생각 없어.
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>;PM(0)||:에이~그러지 말고요, 모두 함께 즐겨야 더 재밌잖아요? 아까 마카로프한테 정말 딱인 드레스도 봐 뒀어요!
+Carcano1891(0);PM(0)<Speaker>마카로프</Speaker>||:...지휘관 왔다, 그만 떠들어.
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>;PM(0)||:지휘관님이 오셨으니까 당신의 아름다운 모습을 보여드려야죠!+혹시 부끄러워서 그러세요?
+Carcano1891(0);PM(0)<Speaker>마카로프</Speaker>||:부, 부끄럽긴 누가! 웨딩드레스야 예쁘긴 하지만, 이렇게 소꿉놀이처럼 입어도 되는 거냐고.
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>;PM(0)||:웨딩드레스의 의의를 존중하는 것도 좋지만, 사랑은 그런 의식을 거치지 않아도 생겨나는 법이에요.+그러니까 예행 연습인 셈 치고 한번 입어 보세요, 언젠가는 정말로 입을 날이 올지도 모르잖아요?
+Carcano1891(0);PM(0)<Speaker>마카로프</Speaker>||<黑点1>:너어... 알았어, 그럼 저 이야기가 끝난 다음에 입을게.
+()<Speaker></Speaker>||<黑点2>:약 90분 후, 팽팽하게 긴장감이 감돌던 대화가 끝났다.+Kar98k가 돌아가자 마카로프도 뒤이어 자리를 뜨려 했지만, 카노에게 어깨를 붙잡히고 말았다.
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>||:이야기 끝나면 입겠다고 했죠~? 도망치지 마세요!
+Carcano1891(0);PM(0)<Speaker>마카로프</Speaker>||:치잇...+알았어, 어느 거 입으면 돼?
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>;PM(0)||:사실 당신한테 어울리는 게 꽤 많아서요~ 다 한번씩 입어볼래요?
+Carcano1891(0);PM(0)<Speaker>마카로프</Speaker>||:갈 거야, 지금 당장 갈 거야.
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>;PM(0)||:아이 알았어요, 그럼 딱 이것만! 이것만 입어 보세요! 얼른 갈아입고 오세요, 기다리고 있을게요!
+Carcano1891(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:카노는 마카로프를 억지로 피팅룸으로 밀어넣었고, 한동안 침묵이 흘렀다.
+PM(0)<Speaker>마카로프</Speaker>||<BGM>BGM_Wake</BGM>:...카노, 아까 지휘관이 한 말 믿어?
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>||:그 실루엣이 카리나 씨였단 말이요?
+PM(0)<Speaker>마카로프</Speaker>||:응.
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>||:마카로프 씨는 믿나요?
+PM(0)<Speaker>마카로프</Speaker>||:믿고 싶지만, 도저히 안 믿겨.+그 게시글 보자마자 카리나한테 연락했는데, 전혀 모르고 있었거든.
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>||:그렇군요... 그런데도 아까 지휘관에게 반박하지 않았다니, 마카로프는 배려심이 깊네요.
+PM(0)<Speaker>마카로프</Speaker>||:카리나도 숨기고 싶어하는 눈치였으니, 아마... 그럴 이유가 있는 거겠지.+"우리"는 알아선 안 될 이유가.
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>||:저도 그렇게 생각해요.
+PM(0)<Speaker>마카로프</Speaker>||:네가 이번 이벤트를 주최한 이유는 나도 알아.+다들 속으론 이해하지만, 머리로는 납득이 안 가니까.+예전만 해도 지휘관이 우리한테 뭔가를 숨기는 일은 거의 없었는데, 지금은... 어쩌면 지금 바로 이 순간에도 그 인물이 지휘관의 방에 있을 수도 있는데, 우린 전혀 모르는 걸지도 몰라.
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>||:항상 풀죽으면 재미없어요, 다시 전장에 나가기 전까진 소중한 일상을 만끽해야죠.+이렇게 예쁜 옷들도 있고, 우리 얼굴에 모난 점도 없고, 훌륭한 지휘관님까지 계시는데 얼마나 좋아요?+거짓말에도 좋은 거짓말이 있고, 누구라도 가끔 하나쯤 숨기는 일이 있기 마련인데, 그렇다고 괜히 속상해하기보단 함께 지휘관의 희한한 표정을 감상하는 게 어때요?
+PM(0)<Speaker>마카로프</Speaker>||:넌 그런 데서 정말 낙관적이구나...+적어도 카라비너 빼곤 다들 이런 식으로 넘어가도 신경쓰지 않는 모양이니, 그것도 괜찮겠지.
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>||:인형과 인간은 다르니까요.+인간의 목숨은 단 한 번뿐이잖아요.
+PM(0)<Speaker>마카로프</Speaker>||:나도 알아.+지휘관은 우리보다 훨씬 신중하지, 인간은 인형처럼 죽으면 되살아날 수 없으니까.+지휘관의 판단은, 분명 지휘관 나름대로 생각이 있어서일 거야. 자신을 함부로 위험에 처하게 둘 사람이 아니니까.
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>||:맞아요! 그리고, 설령 진실을 밝혀내더라도 오히려 골치만 아플지도 모르잖아요.
+PM(0)<Speaker>마카로프</Speaker>||:예를 들면?
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>||:예를 들면, 그 실루엣의 정체는 사실 귀신이었다! 라던가...
+PM(0)<Speaker>마카로프</Speaker>||:할로윈은 아직 멀었는데?
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>||:아니면 시스템 오류였다던가...
+PM(0)<Speaker>마카로프</Speaker>||:그럼 우리 기지의 감시 시스템은 튜링 테스트도 통과할 수 있는 인정머리 있는 프로그램이란 뜻이네.
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>||:어쩌면 초능력자나 외계인일 수도요?
+PM(0)<Speaker>마카로프</Speaker>||:하아... 태클 그만 걸래.
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>||:헤헤~ 농담이에요 농담, 그렇게 애써 맞장구 안 쳐 줘도 돼요!
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:알아, 내가 심심해할까 봐 말 받아 준 거잖아.+다 갈아입었어.
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>||:우와아, 정말 예뻐요! 지금 바로 지휘관님한테 갈까요?+지휘관님도 분명 마카로프의 자태에 입이 떡 벌어질 거예요!
+PM(4)<Speaker>마카로프</Speaker><Position>0,150</Position>||:전술인형이 이런 걸로 칭찬받아도 되는 걸까...
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>;PM(4)<Position>0,150</Position>||:그럼요, 전술인형에게도 아름다움을 추구할 권리는 있어요. 너무 차가우면 군용 인형들이랑 무슨 차이예요?+강력하지만, 그건 죽이고 죽는 것밖에 못 하잖아요.+아름다움에 대한 소망을 품어야 평화도 얻을 수 있는 거예요.
+Carcano1891(0);PM(4)<Speaker>마카로프</Speaker><Position>0,150</Position>||:아이러니하네... 진정한 아름다움은 평화로운 세상에 있는데, 전쟁 속에서 뒹굴어야 눈부시고 값지게 보인다니.
+Carcano1891(0)<Speaker>카르카노M1891</Speaker>;PM(4)<Position>0,150</Position>||<BGM>BGM_Empty</BGM><黑屏1>:아름다운 예술품도 배경이 받쳐 줘야 돋보이는 법이니까요. 자, 어서 가요!
+()<Speaker>마카로프</Speaker>||<BIN>9</BIN><黑屏2><BGM>m_avg_labyrinth</BGM>:그래서... 카노랑 함께 지휘관을 보러 갔어.+그 다음엔 어떻게 됐지? 무슨 대화를 들었는데... 아직, 음성 데이터가 남았을 텐데...
+()<Speaker>카리나의 목소리</Speaker>||:어휴... 그것 보세요 지휘관님, 하마터면 들킬 뻔했잖아요! 역시 다른 방에 있게 하는 게 좋지 않을까요?+어디 구석진 곳에 빈 방을 마련한다던가...
+()<Speaker>지휘관의 목소리</Speaker>||:진정해 카리나, 이번 건 단순한 사고야...+그런데, 왜 감시 카메라에 네 모습이 잡힌 거지? 차단했으니 안 찍힐 거라며.
+()<Speaker>낯선 여성의 목소리</Speaker>||:분명한 사고였습니다. 하지만 이는 지휘관님께서 저를 충분히 신뢰하지 않으셨기에... 달리 말하자면, 소통 부족이 원인입니다.+그날, 사전에 감시 시스템이 업데이트된다 알려 주셨거나 제가 밖을 돌아다니며 정보를 수집할 수 있도록 허락해 주셨다면, 사전에 대응할 수 있었을 텐데 말이죠.
+()<Speaker>지휘관의 목소리</Speaker>||<SE1>AVG_footsteps_woodfloor</SE1><黑屏1>:...내 탓이네.+그래, 그만 가도 좋... 응? 잠깐, 뭐하려고?
+()||<黑屏2><BIN>83</BIN><SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:......
+PM(4)<Speaker>마카로프</Speaker><Position>0,150</Position>||:으음... 여기부터는 전혀 기억나질 않아...+대체 무슨 일이 있었길래...
+PM(4)<Speaker>지휘관</Speaker><Position>0,150</Position>||:마카로프?+아직도 여기 있었구나, 잘 잤니?
+PM(4)<Speaker>마카로프</Speaker><Position>0,150</Position>||<BGM>GF_Memorial</BGM>:...아니.+내 기억에 문제가 생겼어. 데이터가 일부 손상된 모양이야.
+PM(4)<Speaker>지휘관</Speaker><Position>0,150</Position>||:아, 안 그래도 말해 주려던 참이야. 어젯밤 네가 내 방 앞에서 전원이 나간 채로 서 있었어. 심장이 철렁했다니까.+정비 인원이 널 봐 주고 갔는데, 지금 느낌은 어때?
+PM(4)<Speaker>마카로프</Speaker><Position>0,150</Position>||:전원이 나간 거였나...? 어디 부품이 고장났을지도...+그런데 지휘관, 저번 일 말인데...
+PM(4)<Speaker>지휘관</Speaker><Position>0,150</Position>||:...말해보렴.
+PM(4)<Speaker>마카로프</Speaker><Position>0,150</Position>||:난 지휘관을 믿어.+지휘관이 어떤 판단을 내리든, 분명 생각 없이 하진 않았을 테니까. 우리한테 안 알려 줘도 괜찮아.+하지만 이 같은 일이 또 발생한다면, 난 그때도 지휘관의 안전을 위해 조치를 취할 거야.
+PM(4)<Speaker>지휘관</Speaker><Position>0,150</Position>||:그래... 알았어. 고마워 마카로프.+그 옷도 정말 잘 어울린다.
+PM(4)<Speaker>마카로프</Speaker><Position>0,150</Position>||:그야 물론이지, 난 항상 뛰어나니까.+웨딩드레스를 입어도 예쁘고 귀엽다고.
+PM(4)<Speaker>지휘관</Speaker><Position>0,150</Position>||:하하하... 그렇지.+네가 곁에 있으면 안심이 되지.
+PM(4)<Speaker>마카로프</Speaker><Position>0,150</Position>||:<color=#A9A9A9>또 이런 일이 일어난다면... 그때야말로, 반드시 진실을 밝혀내고 말겠어.</color>
+PM(4)<Speaker></Speaker><Position>0,150</Position>||<黑屏1>:마카로프는 말없이 지휘관에게 미소를 지었다.+그리고 일과 업무 시간이 되기 전까지, 둘은 잠깐의 평온을 만끽했다.+그리고 그런 그들의 모습도 전부 커튼 뒤 "누군가"의 눈에 담겼다.+그 모습도 기록으로 남겼는지는, 본인만이 알 것이다.
