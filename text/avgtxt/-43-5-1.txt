@@ -1,0 +1,72 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>9</BIN>:......
+()<Speaker>헬리콥터 파일럿</Speaker>||<SE1>AVG_tele_connect</SE1><黑屏1>:회수 지점으로 접근 중.+도착까지 앞으로 약 30초...
+()||<黑屏2><BIN>288</BIN><BGM>BGM_Sneak</BGM>:다크존.
+Vector(0)<Speaker>Vector</Speaker>||:터스크와 헬파이어? 이 게임의 적을 말하는 거야?
+NPC-Dima(0)<Speaker>디마</Speaker>||:놈들이 나타나면 바로 이해하실 거예요, 지금은 어떻게 설명해야 할지를 모르겠어서...
+Vector(0)<Speaker>Vector</Speaker>||:여기까지 와서 사람 애태우네.
+NPC-Dima(2)<Speaker>디마</Speaker>||:아니, 애태우려는 게 아니라... 저, 저도 말 못할 사정이 있어요!
+()||:Vector의 추궁에 디마는 당황했지만, 긴장된 분위기는 이내 프로펠러 소리에 끊어졌다.
+()||<SE1>AVG_Helicopter</SE1>:회수 헬리콥터가 철수 지점 상공이 도착한 것이었다.
+NPC-Dima(0)<Speaker>디마</Speaker>||:헬기가 왔습니다!+Vector 요원님, 이제 그만 싸우세요! 진짜 적이 곧 나타난다고요!
+Vector(0)<Speaker>Vector</Speaker>||:그만 싸우라니 그게 무슨 소리야?+내 동료를 죽인 녀석과 승리를 양분할 순 없어!
+NPC-Dima(3)<Speaker>디마</Speaker>||:그러니까 당신의 팀원을 죽인 건 416이 아니라고요!+아아아 진짜!
+Vector(0)<Speaker>Vector</Speaker>||:어? 너 뭐해?!
+()||:디마가 갑자기 엄폐물 밖으로 뛰쳐나와, 팔을 내저으며 HK416에게 사격을 멈춰 달라는 신호를 보냈다.
+()<Speaker>디마</Speaker>||<SE1>AVG_pistol_finalshot_n</SE1>:우와악!
+HK416Mod(0)<Speaker>HK416</Speaker>||:아니... 진짜 대체 뭐야?
+NPC-Dima(3)<Speaker>디마</Speaker>||:416 요원님!
+HK416Mod(0)<Speaker>HK416</Speaker>||:디마...? 왜 네가 여기 있어?+그 정신 나간 녀석은?
+Vector(0)<Speaker>Vector</Speaker>||:디마!
+()||:Vector가 엄폐물에서 몸을 내밀어, HK416에게 총구를 향했다.+HK416도, 그걸 놓치지 않고 총을 Vector에게 겨눴다.
+NPC-Dima(2)<Speaker>디마</Speaker>||:그만... 그만 싸우라니까...+정말, 제가 이렇게 부탁드립니다...!+더 센 보스가 온다고요!
+HK416Mod(0)<Speaker>HK416</Speaker>||:보스?
+NPC-Dima(0)<Speaker>디마</Speaker>||:네, 방금 Vector 요원에게도 말했는데, 두 분이 만났던 그 녀석들은...+...사실――
+()||<SE1>Explode</SE1>:콰아앙!!+공중에서 폭발이 일어났고, 유일한 희망이었던 헬리콥터는 순식간에 불덩이가 되었다.
+Vector(0)<Speaker>Vector</Speaker>||:저건... 대공 미사일?
+()||:하늘에서 떨어지는 유성처럼, 헬리콥터는 불길과 연기를 뿜으며 광장 위로 추락했다.+프로펠러는 바닥에 쓸려 산산이 부서지고, 동체는 세 사람이 있는 곳까지 미끄러졌다.
+Vector(0)<Speaker>Vector</Speaker>||:망할.
+NPC-Dima(3)<Speaker>디마</Speaker>||:우와악!+4, 416!
+HK416Mod(0)<Speaker>HK416</Speaker>||:잔말 말고 빨리 피해!
+()||:쇳덩어리가 열기를 내뿜으며 돌진해 오자, Vector는 즉시 옆으로 몸을 던졌다.+HK416도 디마를 발로 차 엄폐물로 밀어넣는 동시에, 반동으로 반대쪽으로 피했다.+그대로 미끄러진 헬리콥터의 잔해는 UN 본부 건물의 정문에 충돌하고 나서야 멈췄다.
+()||<SE1>Explode</SE1>:콰앙!+뒤이은 두 번째 폭발이 눈부신 섬광을 뿜었고, 폭발의 여파가 사방으로 퍼졌다.+HK416과 Vector가 다시 눈을 뜨고 서로의 위치를 확인했을 땐, 이미 주위는 무수한 변절 요원들에게 겹겹이 포위된 상태였다.
+()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:경고. 매우 높은 위험도의 적을 탐지.+경— 매우 높— 위험—— 적을 탐——
+()||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_The_Division_ISAC_Off</SE1>:ISAC이 격이 다른 위험 신호에 과부하되었고, 이 경고에 모두의 시선이 차디 찬 밤하늘과 뜨거운 불길에 휩싸인 헬리콥터 쪽으로 집중됐다.+그리고, 그곳에서 나타난 것은 HK416과 Vector가 전혀 생각지도 못한 것이었다.
+()||<黑屏2><BIN>286</BIN><BGM>BGM_Boss</BGM><火花>:"HK416"과 "Vector". 생김새가 완전히 똑같은 두 인물이, 모습을 드러냈다.+"HK416"은 높이 든 왼손에 발사기 같은 장치를 쥐고 있었다. 방금 헬리콥터를 격추시킨 장본인이 분명했다.+진압방패를 들고 나타난 "Vector"도 매서운 눈빛을 번뜩였다. 마치, "원본"을 도마 위의 생선을 보는 듯한 눈이었다.
+()<Speaker>HK416？</Speaker>||:드디어...
+()<Speaker>Vector？</Speaker>||:심판의 때가 왔나니, 불로서 죄인의 영혼을 정화하리라.
+()<Speaker>HK416</Speaker>||:뭣... 대체 저게 뭐야?+언제 나한테 저딴 졸렬한 짝퉁이 생겼어?!
+()<Speaker>Vector</Speaker>||:같은 모델...?+하지만 나랑 부품이 좀 다른 거 같은데.
+()<Speaker>디마</Speaker>||<黑屏1>:그러니까 저게 바로 두 분의 진짜 상대... 헬파이어 Vector와 터스크 416이에요!
+HK416Mod(0)<Speaker>HK416</Speaker>||<黑屏2><BIN>288</BIN>:정말 살았을 줄은 몰랐다, 헬파이어!
+Vector(0)<Speaker>Vector</Speaker>||:...헬파이어?
+HK416Mod(0)<Speaker>HK416</Speaker>||:저기 저 너랑 똑같이 생긴 인형이, 네가 찾는 헬파이어야.
+Vector(0)<Speaker>Vector</Speaker>||:R93과 K5를 죽인 건, 네가 아니었어...?+디마, 또 무슨 꿍꿍이를 숨겼지? 얼른 바른대로 말해.
+NPC-Dima(2)<Speaker>디마</Speaker>||:꿍꿍이가 아니라 구제책이 실패한 거예요!+아 진짜, 게임 호환성 문제만 아니었으면 둘의 AI를 쓰느니 스컬XXX몬을 넣었지...
+NPC-Dima(2);Vector(0)<Speaker>Vector</Speaker>||:게임 호환성? AI를 써?+대체 무슨 소리야?
+NPC-Dima(2);HK416Mod(0)<Speaker>HK416</Speaker>||:스컬... 하하, 아하하하하!!
+NPC-Dima(2)<Speaker>디마</Speaker>;HK416Mod(0)||:어... 너무 무섭게 웃지 말아 줄래요...?
+NPC-Dima(2);HK416Mod(0)<Speaker>HK416</Speaker>||:그렇구나... 이제야 이해가 가네...+완전히 이해했어!+그 행동거지에, 지난 세기의 고전 서브컬처에 빠삭한 점...+G11을 빼면 그런 녀석은 이 세상에 딱 하나뿐이지.+데레, 참 재밌게도 노는구나.
+NPC-Dima(3)<Speaker>디마</Speaker>;HK416Mod(0)||:윽...!+아, 아니에요!
+NPC-Dima(3);HK416Mod(0)<Speaker>HK416</Speaker>||:끝까지 잡아떼시겠다? 좋아, 당장 널 해치우고 직접 네 집에――
+NPC-Dima(3)<Speaker>데레？</Speaker>;HK416Mod(0)||:오, 오지 마!+...그래그래 인정할게! 나야 나!
+NPC-Dima(3);Vector(0)<Speaker>Vector</Speaker>||:난 이해가 안 가는데...+서로 아는 사이야?
+Vector(0)<Speaker>Vector</Speaker>||:그리고, 이 디마... 아니, 데레라는 아가씨가 모든 일의 원인이라고?
+HK416Mod(0)<Speaker>HK416</Speaker>||:얘 남자야.
+Vector(0)<Speaker>Vector</Speaker>||:그레이트 나쁜놈이네.
+NPC-Dima(2)<Speaker>데레？</Speaker>||:어어... 그, 그게 말이지...
+HK416(6)<Speaker>터스크</Speaker>||<SE2>Gunfight</SE2>:저기, 수다 끝났어?+잡담 다 나눴으면, 우리한테도 비중 좀 넘겼으면 하는데.
+Vector(6)<Speaker>헬파이어</Speaker>||:불로서... 너희의 죄를 모두 정화해 주마.
+NPC-Dima(3)<Speaker>데레？</Speaker>||:느아아아악!+나, 나중에 다 사실대로 말해 줄 테니까 일단 저놈들부터 해치워!!
+HK416Mod(0)<Speaker>HK416</Speaker>||:어휴 이 한심한 녀석.
+()||:히죽거리는 터스크 뒤로, 셀 수도 없이 많은 변절 요원들이 모여들었다.+그녀 옆의 헬파이어는 더는 기다리지 못하고 포식자처럼 눈을 번뜩이며 총을 들었다.
+HK416(6)<Speaker>터스크</Speaker>||:정말 못됐다니까... 디마 씨, 그 사이에 또 양다리 걸쳤나요?+당신에게 "저"는 하나로 충분하다 했잖아요.
+()||<SE2>Gunfight</SE2>:타타타타탕!+변절 요원들의 일제 사격에, 총탄이 엄폐물을 분쇄할 기세로 쏟아졌다. 이게 현실이었다면 그들은 이미 벌집이 되었을 것이다.
+HK416Mod(0)<Speaker>HK416</Speaker>||:우욱... 우웨엑...!
+Vector(0)<Speaker>Vector</Speaker>||:...왜 그래?
+HK416Mod(0)<Speaker>HK416</Speaker>||:크흠... 아무것도 아니야.+내 얼굴로 저딴 말을 하니까 속이 뒤집어져서.
+()||:HK416은 몸을 완전히 공처럼 웅크린 "데레"를 흘깃 보고, Vector에게 시선을 향했다.+비록 방금까지만 해도 적대했지만, 시선을 교환해 의견을 맞추고 고개를 끄덕였다.
+HK416Mod(0)<Speaker>HK416</Speaker>||<SE1>AVG_weapon_reload</SE1>:데레, 우리 돌아올 때까지 넌 할 말이나 정리해 둬. 납득 가게 설명 못하면...
+Vector(0)<Speaker>Vector</Speaker>||:태어난 걸 후회하게 만들어 주겠어.
+()||:두 쌍의 "HK416과 Vector"의 위협을 한몸에 받게 된 "데레"는, 침을 꿀꺽 삼켰다.
+NPC-Dima(2)<Speaker>데레？</Speaker>||<黑点1>:여, 여기 이 미천한 것이 모은 탄약과 의료품입니다, 잘 활용해 주세요.+...그리고 꼭 이겨!

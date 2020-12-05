@@ -1,0 +1,132 @@
+
+machine_gun_tower.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 262, 76
+  size: 122, 69
+  orig: 122, 69
+  offset: 0, 0
+  index: -1
+f1
+  rotate: false
+  xy: 2, 375
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+f2
+  rotate: false
+  xy: 2, 245
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+f3
+  rotate: false
+  xy: 132, 375
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+f4
+  rotate: false
+  xy: 2, 115
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+f5
+  rotate: false
+  xy: 132, 245
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+f6
+  rotate: false
+  xy: 262, 375
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+f7
+  rotate: false
+  xy: 132, 115
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+f8
+  rotate: false
+  xy: 262, 245
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+nl
+  rotate: false
+  xy: 2, 19
+  size: 120, 94
+  orig: 120, 94
+  offset: 0, 0
+  index: -1
+nr
+  rotate: true
+  xy: 392, 383
+  size: 120, 94
+  orig: 120, 94
+  offset: 0, 0
+  index: -1
+s1
+  rotate: true
+  xy: 392, 269
+  size: 112, 89
+  orig: 112, 89
+  offset: 0, 0
+  index: -1
+s11
+  rotate: false
+  xy: 124, 24
+  size: 113, 89
+  orig: 113, 89
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 239, 2
+  size: 125, 72
+  orig: 125, 72
+  offset: 0, 0
+  index: -1
+s5
+  rotate: false
+  xy: 262, 147
+  size: 106, 96
+  orig: 106, 96
+  offset: 0, 0
+  index: -1
+s7
+  rotate: false
+  xy: 370, 148
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+s9
+  rotate: true
+  xy: 386, 21
+  size: 125, 72
+  orig: 125, 72
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 460, 30
+  size: 116, 30
+  orig: 116, 30
+  offset: 0, 0
+  index: -1
