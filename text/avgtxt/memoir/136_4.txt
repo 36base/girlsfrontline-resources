@@ -1,0 +1,78 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:휴게소는 그야말로 아수라장이었다.
+()||<黑屏2><BIN>83</BIN><BGM>m_avg_tension</BGM>:차고에서 쉼터까지 폭풍이 휩쓸고 간 듯 엉망이었고, 수습하느라 바쁜 직원들과 한탄하는 여객들로 온통 혼란스러웠다.
+pp19(0)<Speaker>pp19</Speaker>||<SE1>RunStep</SE1>:셜리——!! Alfa——!!+어딨어? 대답해——!!
+pp19(0)<Speaker></Speaker>||:PP-19의 외침에도 대답은 없었고, 그저 아수라장을 수습하는 사람들 몇몇이 돌아보기만 했다.
+pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:셜리... 우리 셜리...!+어, 어떡하지?! 내가 한눈판 사이에 우리 공주님한테 무슨 일이 생긴 거면 어떡하지?! 무슨 얼굴로 애 엄마를 봐!?
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:진정해, 아저씨.+셜리가 어디로 갔는진 몰라도, 혈흔은 없으니 무사할 거야. 내가 꼭 찾아올게.+<color=#A9A9A9>침착해... 침착하자, PP-19...</color>+<color=#A9A9A9>Alfa도 반푼이가 아니야. 총성이 없었으니, 적어도 싸움은 일어나지 않았어.</color>+<color=#A9A9A9>청각으로 단서 잡히는 건 없을까?</color>
+pp19(0)<Speaker>멀리서 들리는 소리</Speaker>;NPC-PasserbyM(0)<同时置暗>||:울면 뭐해 이 녀석아, 얼른 뚝 그쳐! 저거 다 네 아빠가 물어내야 한다고!
+pp19(0)<Speaker>셜리의 목소리</Speaker>;NPC-PasserbyM(0)<同时置暗>||:우에엥...
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:큰일이다, 납치범이야!
+pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:납치범!?
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:웬 험악한 목소리가 아저씨한테서 돈 뜯어내겠다고 하고 있어.
+pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:돈이라면 있어!+여기, 내 지갑이랑 카드 가지고 가. 비밀번호는 셜리한테 "엄마 아빠의 기념일"이 뭐냐고 물으면 말해 줄 거야.
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:그럴 필요 없어, 납치범은 내가 해치울게.
+pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:아가씨가 강한 건 알아, 하지만 그놈이 우리 셜리를 방패로 삼으면 어떡해?+정 안 되면 몸값을 내서라도 셜리를 데려와 줘! 알거지가 되더라도 우리 딸 다치는 꼴은 못 봐!
+pp19(0)<Speaker>pp19</Speaker>||<黑屏1>:...알았어.
+()||<黑屏2><BIN>18</BIN><BGM>BGM_Empty</BGM>:소란 속에 몸을 숨기고, PP-19는 목소리가 들리는 곳으로 신속히 접근했다. 바로 휴게소 책임자의 사무실이었다.+가까이 다가가자, 여자애가 훌쩍이는 소리가 더욱 또렷하게 들렸다.
+()<Speaker>셜리</Speaker>||<BGM>BGM_Room</BGM>:죄송해요... 죄송해요...
+()<Speaker>말투 험악한 남자</Speaker>||:울지 말라니까! 여기서 꼼짝 말고 있어!+계집애가 철이 없어서 사고나 치고, 네 아빠 오면 내가 단단히 혼을 내 줄 거야!
+pp19(0)<Speaker>pp19</Speaker>||:<color=#A9A9A9>적외선 스캔... 내부에 열원은 단 둘뿐.</color>+<color=#A9A9A9>신중해야 해, 지난번 같은 실수를 반복해선 안 돼.</color>
+pp19(0)<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:PP-19가 손을 들어, 가볍게 문을 두드렸다.
+pp19(0)<Speaker>말투 험악한 남자</Speaker><同时置暗>||<BGM>BGM_Empty</BGM>:누구야?!
+pp19(0)<Speaker>pp19</Speaker>||:안녕하세요, 셜리 때문에 돈을 내러 왔는데요.
+pp19(0)<<Speaker>셜리</Speaker><同时置暗>||:아, 언니다!
+pp19(0)<<Speaker>말투 험악한 남자</Speaker><同时置暗>||:허? 바로 돈 가지고 오다니 눈치가 빠르구만.+네가 이 애 보호자냐?
+pp19(0)<Speaker>pp19</Speaker>||:네, 그 아이의 임시 보호자입니다.+돈은 넉넉히 가져왔는데, 얼마를 원하시나요?
+()<Speaker>말투 험악한 남자</Speaker>||:지금 이게 돈으로 다 해결되는 문제인 줄 알아?!+너네 계집애가 말이야, 어? 뭘 보고 자랐는지 몰라도, 어? 마법의 주문이 어쩌고 하면서, 어?+소들이 다 구해 주네 뭐네 이 지경으로 만들고! 지금이 몇 년도인데 아직도 그딴 얘기가 나와!? 아오 열받네, 일단 들어오기나 해!
+()<Speaker></Speaker>||<SE1>AVG_bigglassbreak</SE1>:그 남성이 문으로 다가왔고, 문이 열리는 동시에 PP-19가 몸으로 문을 들이받았다. 그 충격으로 문의 유리창이 깨져 바닥에 흩뿌려졌다.
+NPC-Arla(0)<Speaker>몸집이 거대한 남자</Speaker>||<震屏><BGM>m_avg_hope</BGM>:으악?!
+NPC-Arla(0)<Speaker></Speaker>||:문 뒤의 남성은 비명을 질렀지만, PP-19의 예상과는 달리 날아가지 않고 오히려 육중한 체구로 문고리를 단단히 잡아 버텼고, 다른 손을 등뒤로 뻗었다.
+pp19(0)<Speaker>pp19</Speaker>;NPC-Arla(0)||<白屏1>:놔둘 거 같냐!
+()<Speaker></Speaker>||<BIN>276</BIN><白屏2>:하지만 PP-19는 전광석화처럼 안으로 돌입해, 남성이 총을 뽑기도 전에 손목을 꺾어 멋지게 제압했다.+아직 눈가에 눈물이 그렁그렁한 셜리는, PP-19가 자신보다 곱절로 거대한 남자를 바닥에 짓누르는 광경을 멍하니 바라봤다.
+NPC-Arla(0)<Speaker>몸집이 거대한 남자</Speaker>||:으윽... 이거 놔!
+NPC-Shelley(0)<Speaker>셜리</Speaker>||:어, 언니...?
+pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:안심해 셜리! 다 해결했어, 이 망할 자식은 너한테 손가락 하나 못 대!
+pp19(0);NPC-Arla(0)<Speaker>몸집이 거대한 남자</Speaker>||:손대긴 누가 손대?!
+pp19(0)<Speaker>pp19</Speaker>;NPC-Arla(0)||:구차한 변명은 경찰한테나 하시지!+유리안 아저씨! 들어와!
+pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:셜리! 이제 괜찮아, 얼른 아빠한테――+엥, 매니저님?
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||<BGM>BGM_Empty</BGM>:......매니저?
+pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:소들 데려오느라 고생했네... 유리안 씨, 다치신 덴 없으신가요? 소들의 머릿수가 맞는지 확인해 주세요.+...유리안 씨? PP-19? 이게 무슨 일이야?
+pp19(0)<Speaker>pp19</Speaker>||<黑屏1>:......
+()||<黑屏2><BIN>8</BIN><BGM>m_avg_casual</BGM>:......+그날 저녁, 그리폰 기지.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:그러니까, 의뢰인 유리안 씨의 딸이 휴게소에서 아빠를 구한다면서 트럭의 소들을 몽땅 풀어버렸다고?
+pp19(0)<Speaker>pp19</Speaker>;NPC-Kalin(3)||:응...
+pp19(0);NPC-Kalin(3)<Speaker>카리나</Speaker>||:그래서 휴게소가 난장판이 됐고, 거기 매니저가 셜리를 붙잡아 유리안 씨를 기다리던 걸, 넌 납치범으로 오해했고?
+pp19(0)<Speaker>pp19</Speaker>;NPC-Kalin(3)||:응...
+pp19(0);NPC-Kalin(3)<Speaker>카리나</Speaker>||:인명 피해가 0이라곤 못하겠는걸... 휴게소 매니저의 손목을 탈골시킨 것도 부상이야, 비존.
+pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:배상금은 유리안 씨가 지불했어요, 비존만의 책임은 아니라면서요.
+pp19(0);NPC-Kalin(3)<Speaker>카리나</Speaker>||:그래도 그 휴게소에서 클레임이 들어왔는걸. 비존, 이번에도 너무 과격했어.
+pp19(0)<Speaker>pp19</Speaker>;NPC-Kalin(3)||:잘못했어, 내가 너무 성급하게...
+pp19(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:어어? 우와 세상에, 비존 너 지금 네 잘못을 인정하는 거야?
+pp19(0)<Speaker>pp19</Speaker>;NPC-Kalin(0)||:엉?
+pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:마인드맵 업그레이드의 효과가 대단하네요.
+pp19(0);NPC-Kalin(1)<Speaker>카리나</Speaker>||:이거 진짜 마법 같다! 아무튼 이번 임무 평가는 B로밖에 못 쳐 줘.+앞으로 더 노력해, 비존!
+pp19(0)<Speaker>pp19</Speaker>;NPC-Kalin(1)||:끄응... 알았어. 그럼 이제 소체 교체받아도 돼지?+나도 업그레이드가 꽤 효과 있다고 생각해.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:물론이지! 새 소체는 이미 숙소에 뒀으니까 어서 가서 교체해~
+()<Speaker></Speaker>||:숙소로 돌아가는 PP-19의 뒷모습이 문밖으로 사라지는 걸 확인한 뒤, 카리나는 시선을 AK-Alfa에게 돌렸다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:그러고 보니, 그때 Alfa 너도 반대표를 냈었지? 왜 지금은 찬성하게 됐어?
+NPC-Kalin(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:그땐... 본인이 싫다는데, 설득에 시간을 들일 바에야 다른 인형한테 기회를 양보하는 게 낫다고 생각했어요.+이번에 임무를 받은 것도 카리나 씨랑 지휘관이 걱정하지 않았으면 해서였고요.
+NPC-Kalin(0)<Speaker>카리나</Speaker>;AKAlfa(0)||:오~ 그런 이유였구나.+하지만 지금은 생각이 달라졌구나?
+NPC-Kalin(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:네, 어느 정도는요. 비존에게도 자신만의 반짝이는 점이 있었어요. 광활한 우주 아래에서, 인간 외에도 지켜볼 만한 게 또 있었네요.+카리나 씨, 쟤라면... 제 독서 친구가 되어 줄까요?
+NPC-Kalin(0)<Speaker></Speaker>;AKAlfa(0)||:카리나는 손에 든 민원서를 보면서 헛웃음을 냈다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>;AKAlfa(0)||:아하하... 그건 역시 좀 많이 힘드려나... 에이, 그래도 가능성은 있지!+...천문학적이긴 해도.
+AKAlfa(0)<Speaker>AK Alfa</Speaker>||:그 우주의 특이점 같은 가능성이 찾아올 때까지 기다릴게요.+그럼 서류 정리나 어서 끝내죠.
+AKAlfa(0)<Speaker></Speaker><同时置暗>||<SE1>AVG_lifttable</SE1>:AK-Alfa의 말이 끝나기가 무섭게 문이 쾅하고 열렸다.
+AKAlfa(0)<Speaker>AK Alfa</Speaker>||:?!
+pp19Mod(0)<Speaker>pp19</Speaker>||:깜빡했다!
+pp19Mod(0);NPC-Kalin(3)<Speaker>카리나</Speaker>||:와, 소체 벌써 교체했네?+으아아 서류 또 다 쏟아졌잖아... 이런 점도 신경써 줘, 비존...
+pp19Mod(0)<Speaker>pp19</Speaker>;NPC-Kalin(3)||:미안해! 아무튼 AK-Alfa! 그때 네가 소떼한테서 셜리를 지켜준 거지?
+pp19Mod(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:그 애를 지키는 것도 임무였으니까.
+pp19Mod(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:어쩐지. 네가 없었다면 그때 분명 셜리가 크게 다쳤을 거야.+고마워, 겉보기만큼 도도하진 않구나!
+pp19Mod(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:그냥... 임무라니까.
+pp19Mod(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:에이, 그러지 말고. 날 봐, 이제 나도 너랑 동급이잖아?+그러니까, 다음에도 임무 같이 나가자! 더 뛰어난 내 모습을 보여주겠어! 어때?
+pp19Mod(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:...그보다, 너 맥주 좋아해?
+pp19Mod(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:맥주?
+pp19Mod(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:맥주든 공상과학 소설이든, 같은 취미가 없는 사람이랑은 호흡이 안 맞아.
+pp19Mod(0)<Speaker>pp19</Speaker>||:오호라~ 지금 나 무시하는 거야? 겨우 맥주 가지고, 얼마든지 마셔 주겠어! 지금 당장 가자!
+NPC-Kalin(0)<Speaker>카리나</Speaker>||<震屏>:잠깐!
+NPC-Kalin(0)<Speaker>카리나</Speaker>||<黑屏1>:서류는 정리해 주고 가――!!

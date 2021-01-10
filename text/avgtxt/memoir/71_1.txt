@@ -1,0 +1,126 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>80</BIN><黑屏2><BGM>GF_Cafe</BGM>:그리폰 기지의 카페에서, 전선대기조가 처음으로 단체 회식을 가졌다.+60여 명이 넘는 인형들은 그다지 넓지 않은 카페 안을 복작거리며 돌아다니거나, 혹은 가만히 앉아있으면서 동료들과 말을 나눴다.
+AR(0)<Speaker>갈릴</Speaker>||<SE1>AVG_Door_Open_Close</SE1>:햐아~ 전선대기조가 사람이 이렇게나 많아졌다니.
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:우리는 신입 사원 상시 절찬 모집 중이래잖아. 갈수록 더 대단한 녀석들이 잔뜩 들어올걸?
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:우리의 시대는 이제 끝인 걸까나...
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:뭐야, 왜 그래? 전혀 너답지 않은 말이나 하고.
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:하핫, 빨리 타보르랑 네게브나 찾자.
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:네게브라면 저기 있어.
+MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:이번에 새로 온 예비 대원들이랑 얘기하나 본데?
+()||<黑屏1>:우지가 가리킨 방향으로 고개를 돌리니, 낯선 인형들과 이야기를 나누는 중인 네게브가 보였다.+주위가 시끄러워 무슨 말을 하는지는 잘 들리지 않았지만, 살짝 미소를 띠며 대화하는 네게브의 모습에 갈릴은 살짝 넋을 잃었다.
+()||<BIN>73</BIN><黑屏2><回忆><BGM>BGM_Empty</BGM>:얼마 전, 전선대기조의 일과 훈련 시간.
+AR(0)<Speaker>갈릴</Speaker>||<BGM>m_avg_casual</BGM>:후우... 네게브, 나 훈련 끝났어!
+NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position>||:좋아, 성적 확인하자.
+()||:네게브가 갈릴에게 다가와, 그녀의 훈련 성적을 살펴봤다.
+NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position>||:화력 B, 명중, B, 사속 B. 평가 등급은 여전히 B지만, 그래도 수치상으론 발전이 있네.
+AR(0)<Speaker>갈릴</Speaker>||:하하하, 아무래도 B를 돌파하는 게 내 인생의 목표가 되겠는걸?
+NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position>||:그렇게 비관적으로 보지 마, 개조를 받는다면 더 발전할 여지가 충분하다고.
+AR(0)<Speaker>갈릴</Speaker>||:에이, 그냥 해본 소리――
+()<Speaker>낯선 인형A</Speaker>||:네게브 씨, 제 성적을 봐주시겠어요?
+NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position>||:응, 갈게.
+()||:갈릴은 다른 인형에게 불려가는 네게브를 지켜봤다.
+NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position>||:어디 보자... 평가 등급 A. 신입치곤 꽤 잘했네.
+()<Speaker>낯선 인형A</Speaker>||:하아... 아직 A인가요...
+()<Speaker>낯선 인형B</Speaker>||:저어, 네게브 씨...? 제, 제 성적은 어때요?
+NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position>||:평가 등급 S, 훌륭해.
+()<Speaker>낯선 인형B</Speaker>||:와아! 헤헤, 고마워요 네게브 씨!
+()<Speaker>낯선 인형</Speaker>||:네게브―― 기껏해야 예비 부대인데 평가 기준 너무 빡센 거 아니야――?
+AR(0)<Speaker>갈릴</Speaker>||:......
+()||<黑屏1><BGM>BGM_Empty</BGM>:그들의 대화를 듣고, 갈릴은 고개를 돌려 자신의 등급 평가표를 다시 봤다.+평가표엔 이번에도 변함없이 커다란 B가 적혀있었다.
+AR(0)<Speaker>갈릴</Speaker>||<黑屏2><BIN>80</BIN><关闭蒙版><BGM>GF_Cafe</BGM>:음, 이야기하느라 바쁜 모양이니 괜히 방해하지 말아야지.+아 참, 야 우지――
+HS2000(0)<Speaker>HS2000</Speaker>||:우지 씨, 저번에 말하셨던 문제 해결됐나요?
+MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:오, 호식이 왔구나! 그 문제라면 말끔하게 해결됐어!+네가 가르쳐 준 대로 해보니까 정말 하나도 안 삐걱거리더라!
+HS2000(0)<Speaker>HS2000</Speaker>||:호식이가 아니라 HS2000이라니까요...+아무튼, 해결됐다니 다행이에요.
+()||:갈릴이 사색에 빠진 사이, 마이크로 우지도 다른 전선대기조원과 대화를 나누기 시작했다.+갈릴은 눈치껏 그들에게 자리를 비켜 주고, 홀로 시끌벅적한 인형들 사이를 걸었다.
+AR(0)<Speaker>갈릴</Speaker>||:하... 처음 보는 얼굴이 잔뜩이네... 하나같이 엄청 강해 보이고...+그나저나, 타보르는 어디 있지?
+()<Speaker>TAR-21</Speaker>||:실례합니다, 지나갈게요.
+AR(0)<Speaker>갈릴</Speaker>||:얼레, 타보르가 웬일로 옷을 저렇게 입었대?+야아 타보르!
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>;AR(0)||:아, 어서 와요 갈릴.+한 잔 드릴까요?
+TAR21(2)<Position>0,150</Position>;AR(0)<Speaker>갈릴</Speaker>||:아니 됐어. 그보다, 옷차림이 왜 그래?
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>;AR(0)||:카리나 씨의 부탁으로 모두에게 마실것을 나눠드리고 있답니다.
+TAR21(2)<Position>0,150</Position>;AR(0)<Speaker>갈릴</Speaker>||:그렇구나... 아무튼, 엄청 잘 어울린다.
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>;AR(0)||:후훗, 고마워요.
+TAR21(2)<Position>0,150</Position>;AR(0)<Speaker>갈릴</Speaker>||:요 며칠 내내 훈련장에 그림자도 안 보이길래 네게브한테 물어보니까, 카리나가 빌려갔다며? 잘 지냈어?
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>;AR(0)||:잘 지냈죠, 그동안 계속 카리나 씨를 도와 이번 모임을 준비했어요.+신경써야 하는 일이 많았지만, 체크리스트를 하나씩 채워 가는 성취감이 정말 뿌듯하더라고요.
+TAR21(2)<Position>0,150</Position>;AR(0)<Speaker>갈릴</Speaker>||:하하하, 어디 팔려나간 게 아니라서 천만다행이야.
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>;AR(0)||:에이, 아무리 카리나 씨라도 그럴 리가요. 앞으로도 전선대기조의 정기 모임 활동을 준비하는 걸 도와달라고 했는걸요.
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>||:저도, 많이 바빠질 것 같네요.
+TAR21(2)<Position>0,150</Position>;NPC-Kalin(4)<Speaker>카리나</Speaker><通讯框>||:<color=#00CCFF>타보르! 타보르, 지금 어딨어?</color>
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>||:카페에 있어요.+갈릴, 전 음료를 나눠 줘야 하니 이만 가볼게요. 나중에 봐요.+자, 그러지 말고 당신도 한잔하세요. 도수도 낮고, 당신이랑 잘 어울리는 주황색 칵테일이에요.
+AR(0)<Speaker>갈릴</Speaker>||:아... 고마워. 그럼 수고하고, 나중에 보자.
+()||<BGM>BGM_Empty</BGM>:타보르는 가볍게 손을 흔들곤 인형들 사이로 사라졌다.+혼자 남겨진 갈릴은 술잔을 들고서 카페 구석에 몸을 기댔다.+왁자지껄 수다를 떠는 수십 명의 인형들과 자신 사이에, 보이지 않는 두꺼운 벽이 있는 것만 같았다.
+AR(0)<Speaker>갈릴</Speaker>||<BGM>m_avg_hope</BGM>:......모두, 어울리는 자리를 찾았구나.
+()||:갈릴은 고개를 숙여, TAR-21이 준 칵테일잔을 내려다봤다. 잔 속의 술에는 평범한 자신의 얼굴이 비쳤다.+억지로 미소를 짜내니, 잔 속의 얼굴도 똑같이 씁쓸한 미소를 지었다.
+AR(0)<Speaker>갈릴</Speaker>||:너는 어때...?
+()||:갈릴이 칵테일잔을 살짝 흔들자, 주황빛 술이 잔에서 넘칠들 말듯 요동쳤다.
+AR(0)<Speaker>갈릴</Speaker>||:네가 있을 자리를 찾았어...?
+()||<SE1>RunStep</SE1>:그때, 한 인형이 허둥대며 달리다 갈릴에게 부딪혀, 그만 그녀에게 술을 쏟고 말았다.
+()<Speaker>낯선 인형</Speaker>||:앗! 죄, 죄송해요!
+AR(0)<Speaker>갈릴</Speaker>||:괜찮아.
+()||<黑屏1>:갈릴은 미소를 지으며 옷에 쏟아진 술을 닦아냈다. 그녀의 혼잣말은 아무도 듣지 못했다.
+AR(0)<Speaker>갈릴</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:하하... 현실에 어서 돌아와.
+()||<黑屏2><BIN>80</BIN>:잠시 후.
+MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:야, 너 왜 혼자 구석에서 홀짝대고 있어?+한참을 찾았잖아.
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:왜긴, 그냥 여기 있는 게 편해서지.
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:뭐어? 우리 네게브 아가씨의 오른팔님이 구석에서 쭈그리고 있는 게 편하다고?
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:킥, 나 같은 것도 오른팔이면 네게브는 아예 천수관음이겠다.
+AR(0)<Speaker>갈릴</Speaker>||:난... 인사조정 명단에 이미 반쯤 이름이 적힌 인형이라고.
+MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:그딴 헛소리 마.
+()||:두 인형은 말없이 술을 한모금 홀짝였다.
+AR(0)<Speaker>갈릴</Speaker>||:...야, 우지.
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:응?
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:넌 지금 하는 일이 마음에 들어?
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:좋다고는 못하겠지만, 나쁘지도 않지?+가끔가다 까다로운 일이 생기긴 해도, 전체적으론 내 선에서 해결할 수 있는 수준이니까.+갑자기 그런 건 왜 물어? 요즘 뭐 안 풀리는 일이라도 있어?
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:음... 이걸 뭐라 해야 할까...+난 이제 다른 기회를 찾아야 하지 않나 싶어.
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:그게 무슨 뜻이야?
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:그러니까 대충... 중년에 접어들어 쟁쟁한 후배들을 보고, 다시 자기계발이 신경쓰이기 시작한 인간 같은 느낌이랄까?+종족 자체가 다르지만, 나도 그거랑 비슷한 느낌이야.
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:어어... 이해가 안 가.
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:으이구, 너도 알아듣게 다시 말하자면——+여기선 경쟁력부터 밀리니까, 딴 데서 새로운 가능성을 찾아보고 싶다는 소리야.
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:아하...+네게브한테도 말했어?
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:아니, 아직. 괜시리 난처하게 하고 싶지 않아서.
+AR(0)<Speaker>갈릴</Speaker>||:항상 악역만 맡는데, 가끔은 쉬게 해 줘야지.
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:......
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>||:둘이 거기 구석에 숨어서 뭐해요?
+TAR21(2)<Position>0,150</Position>;MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:갈릴이 신세 한탄하는 거 듣고 있었어!
+TAR21(2)<Position>0,150</Position>;AR(0)<Speaker>갈릴</Speaker>||:아, 야! 타보르, 우지가 헛소리하는 거니까 신경쓰지 마.+칵테일 고마워, 엄청 맛있더라.
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>;AR(0)||:마음에 들었다니 다행이네요.+아 참, 카리나 씨가 당신을 찾으셨어요.
+TAR21(2)<Position>0,150</Position>;AR(0)<Speaker>갈릴</Speaker>||:엥, 나를? 왜?
+TAR21(2)<Speaker>TAR-21</Speaker><Position>0,150</Position>;AR(0)||:글쎄요, 엄청 중요한 일 같던데... 회식 끝나면 바로 연구개발실로 와 달래요.
+MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>;AR(0)||:연구개발실...
+MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:오오, 좋은 일일수도 있겠는걸~?
+AR(0)<Speaker>갈릴</Speaker>||<黑屏1>:...글쎄다.
+()||<黑屏2><BIN>22</BIN><BGM>BGM_Empty</BGM>:단체 회식이 끝나고, 갈릴은 우지와 함께 연구개발실로 향했다.
+AR(0)<Speaker>갈릴</Speaker>||<BGM>BGM_Hello</BGM><SE1>AVG_door_elecport</SE1>:카리나, 나 찾았다며?
+NPC-Kalin(1)<Speaker>카리나</Speaker>;AR(0)||:아, 왔구나! 너한테 엄청 좋은 소식이 있어!
+NPC-Kalin(1);AR(0)<Speaker>갈릴</Speaker>||:어... 평소에 가구 홍보할 때랑 같은 표정인데...
+NPC-Kalin(1)<Speaker>카리나</Speaker>;AR(0)||:어머나 얘가 무슨 소릴! 정말 좋은 소식이라니까!+축하해 갈릴, 이번 개조 명단에 네 이름이 올랐어!
+NPC-Kalin(1);AR(0)<Speaker>갈릴</Speaker>||:내가...?
+NPC-Kalin(3)<Speaker>카리나</Speaker>;AR(0)||:그런데 네 소체 모델이 너무 낡은 거라서, 개조하려면 아예 새걸로 교체해야 되거든?
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:그래서 받기 전에 새 소체를 한번 보라고 이렇게 부른 거야.
+()||:카리나가 소체 수납용 캡슐의 덮개를 열자, 그 안에는 주황색 머리의 새로운 소체가 잠들어 있었다.
+AR(0)<Speaker>갈릴</Speaker>||:......+개조를 받으면, 나도 전선대기조의 신참들을 따라잡을 수 있는 거야?
+NPC-Kalin(4)<Speaker>카리나</Speaker>;AR(0)||:으음... 솔직히, 수치만 따지면 여전히 차이가 있겠지.+하지만 그래도 모든 면에서 성능이 상승하니까 작전 수행 능력은 지금보다 훨씬 좋아질 거야!+<size=25>지금보다 체중이 쬐끔 더 나가겠지만...</size>
+NPC-Kalin(4);AR(0)<Speaker>갈릴</Speaker>||:끄응... 그럼 아주 획기적으로 강해지진 않겠――응?+잠깐만, 방금 엄청난 단어가 들렸는데?!
+NPC-Kalin(1)<Speaker>카리나</Speaker>;AR(0)||:아, 아니야! 아주 쬐~끔 더 무거워질 뿐이니까!
+NPC-Kalin(1);AR(0)<Speaker>갈릴</Speaker><Shake>||:엄청 중요하니까 얼버무리려하지 마! 얼마나? 얼마나 더 무거워지는데!?
+NPC-Kalin(6)<Speaker>카리나</Speaker>;AR(0)||:어... 끼, 끽해야 10kg 정도...?
+NPC-Kalin(6);AR(0)<Speaker>갈릴</Speaker>||:<size=25>10킬로!!!</size>
+NPC-Kalin(1)<Speaker>카리나</Speaker>;AR(0)||:그, 그럼 난 또 할 일이 있으니까 이만 가보도록 해!
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:자세한 일정은 메일로 보낼 테니까, 꼭 읽어♪
+()||<SE1>AVG_door_elecport</SE1><黑屏1>:카리나는 갈릴을 등을 토닥이면서 억지로 연구개발실 밖으로 밀어냈다.
+AR(0)<Speaker>갈릴</Speaker>||<BIN>97</BIN><黑屏2>:......
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:푸하핫, 다 들었어!+축하해 갈릴~ 하지만 다이어트 계획은 이제 물건너갔네?
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:<size=50>10킬로나!!!</size>
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:아하하하하하!!
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:웃지 마! 개조의 대가가 뭐 이리 참혹해!+그리고 개조를 받아도 보직 바꾸면 그 기능을 다 활용할 수 있을지 없을지도 모르는데!
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:엑, 설마 개조 안 받게?
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:지금 진지하게 고민 중이야.
+AR(0)<Speaker>갈릴</Speaker>||:개조해봤자... 어차피 신입 녀석들을 따라잡을 순 없을 거 아니야.
+()||:갈릴은 짐짓 우울한 척하며, 평소처럼 우지가 자신에게 딴지 걸기를 기다렸다.
+MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:...그래?+뭐, 선택은 네가 하는 거지.
+AR(0)<Speaker>갈릴</Speaker>||:엉?
+MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:네가 어떤 결정을 하든 난 응원할 테니까!
+AR(0)<Speaker>갈릴</Speaker>||:으에, 닭살 돋아...
+MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:히히.+난 방금 임시 편성된 임무가 들어와서 가야 하니까, 너 먼저 숙소로 돌아가.
+AR(0)<Speaker>갈릴</Speaker>||<黑屏1>:그래, 나중에 보자.
+()||<黑屏2><BIN>82</BIN><Night><黑屏1><BGM>BGM_Empty</BGM>:그렇게 갈릴은 홀로 숙소로 돌아왔다.+불을 켜지 않은 갈릴의 방에서 모니터만이 환하게 빛을 발했고, 그 화면에는 개조 관련 세부 사항이 나타났다.+그리고 갈릴의 손가락은 "동의" 버튼 위에서 한참을 머물렀지만... 끝내 누르지 못했다.
