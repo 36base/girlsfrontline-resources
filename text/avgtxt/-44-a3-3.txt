@@ -1,0 +1,171 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>276</BIN><BGM>BGM_Room</BGM>:......+안젤리아의 임시 은신처.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:결과 나왔어?
+NPC-Ange(6);NPC-Light(1)<Speaker>라이트</Speaker>||:으음... 역시 안 되겠습니다.+J 선배가 확보한 DNA 정보를 전부 데이터베이스와 대조해봤지만, 맞는 게 하나도 없습니다.+하나같이 전과 기록도, 의료 기록도 찾을 수가 없어요.+아마... 옐로우존의 호적도 없는 난민이겠죠.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;NPC-Light(1)||:니토의 시체는?
+NPC-Ange(6);NPC-Light(1)<Speaker>라이트</Speaker>||:역시 회수해 믿을 수 있는 사람들이 부검을 실시했습니다만...+역시 이렇다할 수확은 없었습니다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;NPC-Light(1)||:...그레이는 찾았어?
+NPC-Ange(6);NPC-Light(1)<Speaker>라이트</Speaker>||:현재로선 저희에게 그녀를 수사할 권한이 없습니다. 지금까지 모은 증거만으로는 그녀를 흔들기엔 부족해요.+그저께 창고에 출동했다던 보안인원들도, 제가 다시 조사해봤을 땐 모두 행방불명이었습니다.+아무래도...
+NPC-Ange(4)<Speaker>안젤리아</Speaker>;NPC-Light(1)||:...입막음당했군.+소름 돋을 정도로 냉혹한 년이구만.
+()<Speaker></Speaker>||:안젤리아는 어금니를 꽉 물었다. 처음부터 방향을 잘못 잡은 것이었다.+그레이는 계획을 달성하기 위해서라면 대가를 따지지 않고 있다. 이래서는 그 여자의 꼬리를 잡기란 여간 힘든 일이 아닐 것이다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:요컨대 아직도 못 찾았다 이거지?
+NPC-Light(0)<Speaker>라이트</Speaker>||:...예.+요양원에서의 사태는 매스컴도 냄새를 맡고 현장 취재에 나섰습니다.+하지만 그레이는 지금까지 아무런 반응을 보이지 않고 있죠.+납치당한 것 아니냐는 여론도 있습니다만... 그녀가 제발로 나타난더라도, 저희가 어찌 할 수는 없습니다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:쿵!+안젤리아가 홧김에 테이블을 발로 차, 물건들이 전부 바닥에 쏟아졌다.
+NPC-Light(1)<Speaker>라이트</Speaker>||:...리오니를 살해한 하얀 니토는, 감시 카메라가 파괴되어 행적이 촬영되지 않았습니다.+현장 통제 후의 수사에도 결국 흔적을 찾지 못했고요.
+NPC-Ange(4)<Speaker>안젤리아</Speaker>||:그러니까... 이제 내 수중에는 패가 하나도 없단 거군.
+()<Speaker></Speaker>||:움켜진 주먹은 손가락이 부러질 듯 떨렸다. 안젤리아는 이를 갈며, 잔뜩 어질러진 바닥을 바라보며 빠르게 머리를 굴렸다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:리오니는 죽었고, 그레이는 행방불명, 습격자들은 신상 정보가 완전히 백지... 아득바득 모은 단서가 모조리 끊기고 말았다.+그레이의 입에서 조금이라도 정보를 캐낼 수 있을까 기대했지만, 그 여자는 생각보다 입이 무거웠다.+몰리도와의 관계를 제외하면, 그녀에 관한 정보는 하나도...
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1><common_effect>%%code=CJ_zidan%%</common_effect>:...몰리도?
+NPC-Ange()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BIN>276</BIN>:안젤리아가 의자에서 벌떡 일어났다.
+NPC-Light(2)<Speaker>라이트</Speaker>||:안젤리아 씨?
+NPC-Ange(4)<Speaker>안젤리아</Speaker>||:AK-12! 지휘관한테 연락해!+몰리도를 봐야겠어!
+RPK16(4)<Speaker>RPK16</Speaker>||:네에~ AK-12가 모시겠습니다~
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||:아주 잠깐, 안젤리아가 입을 다물지 못하고 굳었다.+지금 AK-12는 여기 없다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:...RPK, 지휘관한테 연락해.+이야기를 좀 해야겠어.
+RPK16(4)<Speaker>RPK16</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:벌써 연결됐어요.
+RPK16(0)<Speaker>RPK16</Speaker>||<SE1>AVG_tele_connect</SE1>:여보세요, 지휘관님? 지금 시간 되시나요?+우리 보스가 이야기 좀 하자 하시는데요.
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>RPK-16? 안젤리아 씨가 찾는다고?</color>+<color=#00CCFF>난 지금...</color>
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:지휘관.
+NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>안젤리아 씨?</color>
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:안녕, 지휘관... 그쪽 상황은 어때?
+NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>그럭저럭 잘 되어가고 있습니다. 마침 일에 진전이 생긴 참입니다.</color>+<color=#00CCFF>그쪽은 어떻습니까?</color>
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:...뭐어, 나도 그럭저럭.+갑작스럽게 미안하지만, 부탁할 게 있어.
+NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>제 눈치 보실 필요 없습니다, 말씀하시죠.</color>
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:몰리도... 그러니까, 그 니토 말이야. 아직 네 쪽에 있지?
+NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>마흐리안 말입니까? 네, 아직 있습니다.</color>
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:뭐라도 좀 알아냈어?
+NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>예? 저번에 공유해드리지 않았나요?</color>
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:...그 후로, 새로 알아낸 건?
+NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>딱히 이렇다 할 만한 것은 없어서, 급히 알려드리지 않아도 된다 판단했습니다.</color>
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:진도가 너무 느리잖아.+내가 경고했지, 몰리도는 아주 교활하다고.+딱 봐도 녀석이 일부러 시간을 질질 끌고 있단 걸 모르겠어?
+NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>네, 몰리도에 관해서는 저도 대강이나마 짐작하고 있습니다.</color>+<color=#00CCFF>하지만 이 사람은 몰리도가 아닌 마흐리안입니다. 별개의 인물이에요.</color>
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:...그거, 진심이야? 정말로 그렇게 생각해?
+NPC-Ange(6)<Speaker>지휘관</Speaker>||:<color=#00CCFF>네, 당신이 말하는 사람이 아니라 확신합니다.</color>
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:됐어... 녀석 이름이 뭐든 내 알 바 아니야.+묻고 싶은 게 있으니까, 나한테 보내.
+NPC-Ange(6)<Speaker>지휘관</Speaker>||:<color=#00CCFF>물어볼 것이 있으시다고요?</color>+<color=#00CCFF>하지만 그녀가 아는 건 제가 공유해드린 게 전부입니다만.</color>
+NPC-Ange(4)<Speaker>안젤리아</Speaker>||:웃기지 마, 분명 뭔가 더 숨기는 게 있을 거라고!+제기랄, 지금 너한테 잔소리할 시간 없어!+어떡할래? 날 믿을 거야, 그년을 믿을 거야!?
+NPC-Ange(4)<Speaker>지휘관</Speaker>||:<color=#00CCFF>안젤리아 씨, 진정하세요.</color>+<color=#00CCFF>당신의 요청을 거절한단 말이 아닙니다. 단지, 지금 바로는 어렵습니다.</color>+<color=#00CCFF>그녀에게서 복사감염증 치료제에 관한 정보를 얻어서, 조사에 착수한 상황입니다.</color>
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:복사감염증 치료제라고...?
+NPC-Ange(6)<Speaker>지휘관</Speaker>||:<color=#00CCFF>복사감염증 치료에 관한 연구 자료와, 그 약품의 샘플이 있다고 합니다.</color>+<color=#00CCFF>만약 그걸 찾아낸다면 수많은 사람들을 도울 수 있습니다.</color>
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:그리고 넌 그딴 소릴 믿고?
+NPC-Ange(6)<Speaker>지휘관</Speaker>||:<color=#00CCFF>저도 확신이 들진 않지만, 해볼 만한 가치는 있습니다. 정말 그런 약이 존재한다면――</color>
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:너네 부관 아가씨도 살 수 있겠네?
+NPC-Ange(6)<Speaker>지휘관</Speaker>||:<color=#00CCFF>......!</color>+<color=#00CCFF>아닙니다! 카리나 때문만이 아니라――</color>
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:됐어! 나하곤 상관 없는 일이야.+그년을 여기로 보낼 수 있어, 없어?
+NPC-Ange(6)<Speaker>지휘관</Speaker>||:<color=#00CCFF>...지금은 안 됩니다.</color>
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:......
+NPC-Ange(6)<Speaker>지휘관</Speaker>||:<color=#00CCFF>안젤리아 씨...</color>
+NPC-Ange(4)<Speaker>안젤리아</Speaker>||<BGM>BGM_Empty</BGM><震屏3><SE1>AVG_Door_Hit</SE1>:<Size=60>정신 똑바로 차리라고 이 멍청아!!</Size>+내가 몇 번을 말해야 돼!? 몰리도가 가장 잘하는 게 변장과 사기라고!!+그런데도 녀석 말을 곧이곧대로 믿어?!+내가 한 말은 잊었어? 머리에 구멍 났냐!?
+NPC-Ange(4)<Speaker>지휘관</Speaker>||:<color=#00CCFF>아니오, 그녀는 몰리도가 아닙니다!</color>+<color=#00CCFF>...혹시, 상황이 많이 어려우십니까?</color>+<color=#00CCFF>진정하시고 천천히 얘기합시다. 이쪽 일을 처리하는 대로 만나서 이야기하도록 해요.</color>+<color=#00CCFF>궁금한 게 있으시다면 그때 다 물어보면 됩니다!</color>
+NPC-Ange(4)<Speaker>안젤리아</Speaker>||:하! 그래, 마흐리안이랬나?+넌 그년이 하는 말 다 믿는다 이거지!?+카리나의 목숨이 베를린의 수만 명보다 더 중요하고?+귀신한테 홀리기라도 했어!? 어?!
+NPC-Ange(4)<Speaker>지휘관</Speaker>||:<color=#00CCFF>아닙니다!</color>
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:......
+NPC-Ange(6)<Speaker>지휘관</Speaker>||:<color=#00CCFF>...마흐리안은 훈작사가 제게 맡긴 일입니다. 저도 제 판단이 있습니다, 안젤리아 씨.</color>
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:이젠 그 양반을 꺼내서 날 누르시겠다?
+NPC-Ange(6)<Speaker>지휘관</Speaker>||:<color=#00CCFF>그런 뜻이 아니라――</color>
+NPC-Ange(4)<Speaker>안젤리아</Speaker>||:그래... 그래, 알았어.+알아서 마음대로 해 봐!
+NPC-Ange(4)<Speaker>지휘관</Speaker>||:<color=#00CCFF>...죄송합니다, 하지만 안젤리아 씨는 지금 침착하셔야 합니다.</color>+<color=#00CCFF>나중에 다시 얘기하죠. 이쪽 일이 끝나는대로 연락드리겠습니다.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Phone_Crash</SE1>:쾅!+안젤리아는 통신기를 바닥에 내팽개쳤다.
+RPK16(4)<Speaker>RPK16</Speaker>||:그거 비싼 건데요.
+NPC-Light(2)<Speaker>라이트</Speaker>||:안젤리아 씨...
+()<Speaker></Speaker>||:라이트는 안절부절못하며 뭐라 말하려 했지만, 목구멍까지 올라온 말을 다시 꿀꺽 삼켰다.+지금은 자신이 입을 열 상황이 아니란 걸 알았다.
+NPC-Ange(4)<Speaker>안젤리아</Speaker>||:제기랄...
+()<Speaker></Speaker>||:전혀 다른 기분이었다.+홉스나 몰리도, 아니면 다른 사람한테 뒤통수를 맞는 것과 다른 기분이었다.+안젤리아는 설마 지휘관한테서 퇴짜를 맞을 줄은 꿈에도 생각지 못했다.+물론, 지휘관이 자신을 배신했다고 말할 수는 없었다. 안젤리아의 이성도 이를 잘 알았다.+그래도 역시... 믿기가 어려웠다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><BGM>BGM_Empty</BGM>:쿠웅!+안젤리아는 주먹으로 테이블을 있는 힘껏 내리쳤다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><common_effect>%%code=AVG_ink4%%</common_effect>:...하지만, 자신의 말이 너무 심했던 것도 사실이다. 초조함에 평소의 여유를 잃고 말았다.+어떻게 카리나를 가지고 지휘관을 나무란 걸까?+진정하자. 진정해야 한다.+......
+()||<黑屏1>:
+()<Speaker>안젤리아</Speaker>||<黑屏2><BIN>9</BIN>:...리폰.
+()<Speaker>RPK16</Speaker>||:네?
+()<Speaker>안젤리아</Speaker>||:그리폰.
+()<Speaker></Speaker>||<BIN>276</BIN><BGM>10106</BGM>:안젤리아가 고개를 들었다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:지휘관이 훈작사 얘길 했지?+그래... 상황이 이렇게까지 됐는데, 그 양반도 그 두꺼운 낯짝을 들이밀어 줘야지.
+NPC-Ange(6);RPK16(0)<Speaker>RPK16</Speaker>||:그 사람은 지금 더 중요한 일이 있다면서요?
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;RPK16(0)||:테러를 막는 것보다 중요한 게 어딨어?! 날 가지고 놀려고 한 소리밖에 더 돼!?
+RPK16(4)<Speaker>RPK16</Speaker>||:안젤리아.
+()<Speaker></Speaker>||:RPK-16이 눈을 껌뻑였다.
+RPK16(4)<Speaker>RPK16</Speaker>||:우선 진정하세요.+우리 하늘 같은 선배님이라면 지금 분명 그렇게 말했을 거예요.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;RPK16(4)||:AK-12였으면 벌써 훈작사한테 전화 걸고 있었어.
+NPC-Ange(6);RPK16(4)<Speaker>RPK16</Speaker>||:유감스럽게도, 전 그 사람의 연락처를 모르는걸요.+아니, 우리 모두 몰라요. 항상 저쪽에서 일방적으로 연락했으니까요.+우리가 저쪽에게 연락할 방법은 없어요.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:라이트?
+NPC-Ange(6);NPC-Light(0)<Speaker>라이트</Speaker>||:RPK-16 씨 말대로입니다.+저희도 위에서 내려온 명령을 받을 뿐, J 선배조차 하달자가 누군지 모릅니다.+저희 상관이 가르쳐 줄 리도 없고요... 규정인지라.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;NPC-Light(0)||:그렇겠지... 내가 왜 너한테 물었는지 모르겠다.+정말 궁지에 몰릴대로 몰렸나 보네...
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:안젤리아가 가볍게 테이블을 퉁퉁 두드렸다. 분노도 점차 식어, 냉정한 사고가 돌아왔다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:..."미네르바의 부엉이".
+NPC-Light(2)<Speaker>라이트</Speaker>||:예?
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;NPC-Light(2)||:너랑 처음 만난 데.+지휘관도 거기서 만났어.
+NPC-Ange(6);NPC-Light(0)<Speaker>라이트</Speaker>||:구시가지의 그 술집 말입니까? 확실히, 외딴 곳에 인적도 드문 곳이죠.+밀회에 안성맞춤이긴 합니다만...
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:그렇게 단순하지 않아... 거긴 훈작사의 땅이야.+술집이 통째로 그 작자의 영역이지. 그렇다면, 그를 찾으려면 거기로 가면 된다는 거야.
+()<Speaker></Speaker>||:안젤리아는 자리에서 일어나, 방 안을 서성였다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:그래... 가자, 지금 당장.+훈작사한테 직접 따지지 않고는 못 배겨.+대체 뭘 어쩔 셈인지 물어봐야겠어.
+RPK16(0)<Speaker>RPK16</Speaker>||:그다지 현명한 선택이 아니라고 봐요.+당신도 알다시피, 그 사람 눈에 우리는 그저 보드게임 위의 말들 중 하나에 불과해요.+말의 실수를 나무라는 사람이 있나요? 다 판을 두는 사람의 실책을 비웃을 뿐이죠.+여기까지 한 것만으로도 이미 최선을 다한 거예요, 안젤리아. 이젠 가만히 상황을 지켜보는 것도 나쁘지만은 않다고 생각해요.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;RPK16(0)||:최선을 다한 것만으론 아무런 의미 없어.+내가 원하는 건 결과야... 나한테 싸울 힘이 남아있는 한, 어느 때든 절대 가만히 있지 않겠어.+그저 장기말로서, 높으신 놈들한테 놀아나기만 한다면...+나랑 예고르의 차이가 뭔데?
+NPC-Ange(6);RPK16(0)<Speaker>RPK16</Speaker>||:예고르 대위도 마지막까지 몸부림쳤지만, 장기말이란 운명은 바꾸지 못했잖아요.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;RPK16(0)||:결과적으로 패배한 것이지, 놈은 적어도 시도했어.+내가 그 자식을 이겼는데, 그 자식도 한 짓을 내가 못 할까 봐?
+RPK16(5)<Speaker>RPK16</Speaker>||:역시 그렇죠? 거역하지 않고서는 우리 소대의 이름이 아깝죠~
+()<Speaker></Speaker>||:RPK-16은 의미심장하게 웃으며, 절레절레 고개를 흔들며 안젤리아를 더는 설득하지 않았다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:불만 없으면 AN-94랑 AK-15도 불러.+라이트, 너도 따라와.
+NPC-Light(0)<Speaker>라이트</Speaker>||:네.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:안젤리아는 옷걸이의 코트를 집어 어깨에 걸치고, 단호한 눈빛으로 방을 나섰다.
+()||<黑屏1>:
+()<Speaker>안젤리아</Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>313</BIN><BGM>BGM_Brain</BGM>:"미네르바의 부엉이".
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:쿵!+안젤리아가 의수로 카운터를 내려치자, 두꺼운 나무판자에 금이 갔다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:훈작사 어딨어?
+()<Speaker>바텐더</Speaker>||:무슨 말씀이신지 모르겠습니다만...
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:시치미 떼지 말고 당장 말해.+그리폰 라이언. 지금. 어디 있냐고.
+()<Speaker></Speaker>||:술집은 안젤리아가 방문했던 때와 사뭇 달랐다.+직원은 달랑 한 명이었고, 손님도 안젤리아 일행뿐이었다.+애초에 무관계한 사람을 쫓아낼 예정이었지만, 덕분에 수고는 덜었다.+그때, 바텐더에게 눈을 부라리던 안젤리아가 참지 못하고 코웃음쳤다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:하, 카운터 밑에서 총 꺼내려고?+누가 더 빠른가 내기할까?
+()<Speaker>바텐더</Speaker>||:......!
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:잘 들어.
+()<Speaker></Speaker>||:안젤리아가 카운터에 손을 짚고 살짝 앞으로 몸을 기울였다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:개인 사정도 아니고, 진상 피우러 온 것도 아니야.+넌 날 본 적 있어. 내가 훈작사와 얘기하는 모습을.+내가 지금 그 양반이랑 말이 좀 하고 싶거든? 아주아주 중요한 일이 있어서 말이야.+꾸물댔다간 사태가 더 심각해질 수 있어. 그럼 너도 나도 책임 못 진다고.+무슨 뜻인지 알겠어?
+()<Speaker>바텐더</Speaker>||:......
+()<Speaker></Speaker>||:바텐더는 안젤리아를 보며 고개를 저었다.
+()<Speaker>바텐더</Speaker>||:도무지 무슨 말씀인지 모르겠습니다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:소 귀에 경 읽기였군... AK-15?
+AK15(0)<Speaker>AK15</Speaker>||:암실을 발견. 왼쪽에서 두 번째 선반 뒤로 빈 공간이 있습니다.
+()<Speaker>바텐더</Speaker>||:어떻게...!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:스윽――+바텐더의 표정이 급변하더니, 술잔을 쥔 손이 재빠르게 카운터 밑으로 향했다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:우지끈!+하지만 안젤리아가 더 빨랐다. 그녀의 의수가 아예 카운터를 뚫어, 밑바닥에 붙어 있던 권총을 잡아 꺼냈다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||<SE1>AVG_weapon_reload</SE1>:내가 뭐랬어?
+()<Speaker>바텐더</Speaker>||:이...!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:라이트도 카운터를 한 손으로 받치고 몸을 기울여, AK-15가 가리킨 선반을 손으로 더듬어보며 자세히 살펴봤다.
+NPC-Light(3)<Speaker>라이트</Speaker>||<SE1>AVG_door_storehouse</SE1>:...아, 찾았습니다.
+()<Speaker></Speaker>||:라이트가 고정된 술병을 잡아 옆으로 돌리니, 술이 진열된 선반이 밀려나 숨겨진 통로를 드러냈다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:아주 고전적이네...+AK-15가 없었으면 죽었다 깨도 몰랐겠어.
+()<Speaker>바텐더</Speaker>||:후회할 겁니다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:벌써 몇 년이나 후회하면서 살아왔어.+내가 주저해서 하지 못했던 일들 때문에.
+()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1>:쿵!+권총의 손잡이로 내리쳐 바텐더를 기절시킨 다음, 안젤리아도 라이트를 뒤따라 비밀 통로로 들어갔다.
+NPC-Light(0)<Speaker>라이트</Speaker>||:......
+()<Speaker></Speaker>||:앞장서던 라이트가, 갑자기 멈춰 섰다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:뭐야, 통신 설비 찾았어?
+NPC-Light(0)<Speaker>라이트</Speaker>||:아뇨... 통신 설비는, 아닙니다만...
+()<Speaker></Speaker>||:라이트가 또 말꼬리를 흐렸다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:뭔데 그래?
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Gate_Close</SE1><BGM>BGM_Empty</BGM>:문득 불길한 예감이 엄습했다.+안젤리아는 급히 라이트를 옆으로 비켜 세우고, 암실 안으로 들어갔다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||:암실의 벽에는, 베를린 전체를 나타내는 지도가 붙어 있었다.+안젤리아는 어째서 오늘따라 술집의 경계가 이리도 허술했는지 이해했다.+암실 내부는 텅 비었고, 저 벽면 빼고는 거의 아무것도 남지 않았다.+때를 잘못 골랐나? 훈작사가 자신이 올 것도 예상한 걸까?
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||:그렇지 않았다.+훈작사는 그녀가 올 거라 예상해지 못했다.+만약 그랬다면, 절대 저걸 남기고 갔을 리가 없었다.+안젤리아는 더 안으로 들어가, 그 벽 앞에 서서 손으로 남은 흔적을 더듬었다.+수많은 정보원들이 여기 모여, 실과 압정으로 고전적인 "정보망"을 짰을 것이다.+지도 위에는 그들이 남긴 흔적으로 가득했다.
+()<Speaker></Speaker>||:지도를 살펴보던 안젤리아의 시선이 한 곳에 멈췄다.+빨간색으로 동그라미가 쳐진 부분에, "안젤리아"라 적힌 주석이 붙어 있었다.
+AN94(5)<Speaker>AN94</Speaker>||:고급 주택가...?+왜 여기에 안젤리아의 이름이...?
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:...양옥.
+AK15(0)<Speaker>AK15</Speaker>||:......
+NPC-Light(2)<Speaker>라이트</Speaker>||:네?
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:그 양옥이다.+바로 여기 있어.
+()<Speaker></Speaker>||:그렇구나... 그랬던 거였구나.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||<SE1>Rope</SE1>:처음부터... 처음부터 아주 가까운 곳에 있었어.+훈작사 자식... 알고 있었으면서 왜 안 알려 준 거야?
+()<Speaker></Speaker>||:빌어먹을 영감탱이...
+()<Speaker></Speaker>||:안젤리아가 주먹을 꽉 쥐었지만, 금방 다시 풀었다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:...뭐, 됐어.+이걸로 새로운 돌파구가 생겼네.
+RPK16(0)<Speaker>RPK16</Speaker>||:지금보다 훨씬, 엄청 현명치 못한 생각이라고 봐요, 안젤리아. 불길로 날아드는 나방이나 다름없어요.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:그만... AK-12처럼 딴지 걸지 마. 이미 결정했어.
+RPK16(6)<Speaker>RPK16</Speaker>||:그래요...? 알았어요.+뭐라 해도 말릴 순 없겠군요.
+()<Speaker></Speaker>||:RPK-16가 고개를 저었다.+그러면서, 안젤리아와 벽면의 지도를 번갈아 보았다.+위험한 웃음기와, 반짝이는 눈빛으로.
+()||<黑屏1>:

@@ -1,0 +1,42 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
+()<Speaker></Speaker>||<黑屏2><BIN>86</BIN><Night><火花><SE2>Alarm</SE2>:아파트 인근.+뒤늦게 도착한 소방대와 경찰이 현장을 봉쇄하고 화재 진압을 시작했다.+슈타지 요원들은 이미 조용히 현장에서 사라져, 빛이 들어오지 않는 구석으로 몸을 숨긴 뒤였다.+막간에 이르러, "배우"가 교체된다.
+()<Speaker>시민 A</Speaker>||<SE1>AVG_Crowd</SE1><BGM>BGM_Battle</BGM>:어...? 저기 봐, 저 사람!
+()<Speaker>시민 B</Speaker>||:섀도리스 기자다!
+()<Speaker></Speaker>||:섀도리스는 자신의 기자 신분증을 높이 들고 나타나, 억지로 차단선을 넘었다.
+NPC-Shadowless(9)<Speaker>섀도리스</Speaker>||:DRF의 섀도리스입니다!+여기 담당자 계십니까? 이번 화재에 관해 취재하고 싶은데요!
+NPC-Shadowless(9)<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐빅.+그녀의 헤드셋이 타이밍 좋게 통신음을 냈다.
+NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:여보세요? 응, 나야 섀도. 응, 지금 현장이야... 어떠냐니, 당연히 난장판이지.+아무튼 지원팀 보내 줘, 응, 카메라맨.+뭐어? 15분? 지금 장난해?+5분 안에 와!
+NPC-Shadowless(8)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통화를 끊고, 섀도리스는 다시 혼돈의 도가니를 바라봤다.+소방대원은 지금 건드릴 수 없다. 거센 불길을 진압하기 위해 분투 중이니, 방해해선 안 된다.+경찰? 나쁘지 않은 선택이지만... 최근 그녀와 경찰 간의 대화는 결과가 영 시원치 않았다.+그렇다면...
+NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:음?
+NPC-Shadowless(8)<Speaker></Speaker>||:그녀의 날카로운 육감이, 또 한 번 중요한 때에 기능을 발휘했다.
+NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:...내가 못 살아 정말.
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:섀도리스는 성큼성큼 걸어가, 사람들 사이에 끼어 있던 경찰을 덥석 붙잡았다.
+NPC-Shadowless(9)<Speaker>섀도리스</Speaker>||:케빈!
+NPC-Shadowless(9);NPC-Keven(2)<Speaker>J</Speaker>||:어어? 너 왜 여기 있어?!+아니 그보다, 난 또 어떻게 찾아냈어?!
+NPC-Shadowless(9);NPC-Keven(2)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑点1>:섀도리스는 경찰로 분장한 J를 끄집어내, 사람들의 시선을 피해 어두운 구석으로 끌고 갔다.
+NPC-Shadowless(9)<Speaker>섀도리스</Speaker>||<关闭火花><黑点2><Night><BGM>BGM_Brain</BGM>:닥치고 대답해, 너 왜 여깄어?+이번 일이랑 슈타지랑 무슨 관계야!?
+NPC-Shadowless(9);NPC-Keven(2)<Speaker>J</Speaker>||:좀 봐줘, 공주님...+내 밥그릇 깨부술 작정이야?
+NPC-Shadowless(9)<Speaker>섀도리스</Speaker>;NPC-Keven(2)||:칫... 알았어, 알았다고.
+NPC-Shadowless(8)<Speaker></Speaker>;NPC-Keven(1)||:섀도는 J의 옷깃을 붙잡은 채, 자신의 녹음펜을 껐다.+혼란한 현장에서 이 좁은 구석에서 대치하는 두 사람을 주의할 사람은 없었다.
+NPC-Shadowless(8)<Speaker>섀도리스</Speaker>;NPC-Keven(1)||:난처하겐 안 할 테니까... 이것만 알려 줘. 라이트는 괜찮아?+오늘 집에 안 들어왔길래... 걔 분위기도 좀 이상했고.
+NPC-Shadowless(8);NPC-Keven(1)<Speaker>J</Speaker>||:......
+NPC-Shadowless(8);NPC-Keven(1)<Speaker></Speaker>||:J는 뭐라 할 말이 떠오르질 않았다.
+NPC-Shadowless(8)<Speaker>섀도리스</Speaker>;NPC-Keven(1)||:...어제, 걔랑 또 싸웠거든.
+NPC-Shadowless(8);NPC-Keven(1)<Speaker>J</Speaker>||:어... 그건 내 책임 아니지 않아?
+NPC-Shadowless(6)<Speaker></Speaker>;NPC-Keven(2)||:섀도리스가 J의 발을 콱 짓밟았다.
+NPC-Shadowless(8)<Speaker>섀도리스</Speaker>;NPC-Keven(2)||:어휴 진짜. 아무튼, 언제나 그랬지만... 이번엔 좀 많이 생각했어.+나 대신 개한테 좀 전해 줘.
+NPC-Shadowless(8);NPC-Keven(2)<Speaker>J</Speaker>||:가족 문제에 날 끌어들이진 말아 줬으면 좋겠는데...
+NPC-Shadowless(8);NPC-Keven(2)<Speaker></Speaker>||:발을 밟힌 고통에 J는 얼굴이 우거지상이 되었지만, 차라리 그게 나았다. 덕분에 표정 관리할 필요가 없어졌으니 말이다.+하지만 그녀는 촉이 너무나도 좋아, 어설프게 얼버무렸다간 더 추궁당할 게 뻔했다.+...하지만, 대체 뭐라 말해야 할까?
+NPC-Shadowless(9)<Speaker>섀도리스</Speaker>;NPC-Keven(2)||:좀 닥쳐 봐, 내 말 아직 안 끝났어!+애초에 걔가 슈타지에 들어간 건 다 너 때문이잖아!
+NPC-Shadowless(8)<Speaker></Speaker>;NPC-Keven(1)||:섀도리스는 주변을 살펴보곤 말을 계속했다.
+NPC-Shadowless(8)<Speaker>섀도리스</Speaker>;NPC-Keven(1)||:많이 생각해봤는데... 걔 말이 맞는 거 같아.+걔의 결정을 이해할 수 있어. 우린 가족이잖아.+그러니까, 내가 응원한다고 전해 줘.
+NPC-Shadowless(8);NPC-Keven(1)<Speaker>J</Speaker>||:......
+NPC-Shadowless(8)<Speaker>섀도리스</Speaker>;NPC-Keven(1)||:이상.
+NPC-Shadowless(8)<Speaker></Speaker>;NPC-Keven(1)||:섀도리스는 J를 놓아 주고, 흐트러진 머리카락을 쓱 넘기곤 아무 일도 없었다는 듯이 휙 뒤로 돌았다.+J는 잠깐이나마 그녀가 주위를 살펴보는 건지, 쑥스러움을 감추려는 건지 구별이 가지 않았다.
+NPC-Shadowless(8);NPC-Keven(1)<Speaker>J</Speaker>||:...알았어, 토씨 하나 안 틀리게 전해 줄게.
+NPC-Shadowless(8)<Speaker>섀도리스</Speaker>;NPC-Keven(1)||:고마워... 나중엔 언제 시간 되면 우리 집에서 밥 먹자.+오랜만에 만난 기념으로.
+NPC-Keven(1)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:대답을 들은 섀도리스는 씨익 웃곤, 미안함을 담아 꾸벅 인사하고서 현장으로 돌아갔다.+말한대로, J의 시간을 많이 잡아먹지 않았다.
+NPC-Keven(1)<Speaker>J</Speaker>||<BGM>BGM_Wake</BGM>:라이트 이 망할 자식아...
+NPC-Keven(1)<Speaker></Speaker>||:업무 태세로 돌입한 섀도리스는 화재를 목격한 시민을 취재했고, 아파트의 불길도 이제 점차 사그라들어 갔다.+...안에 들어가봐야 한다.
+NPC-Keven(1)<Speaker>J</Speaker>||:죄송합니다! 비켜 주세요!+경찰입니다, 지나갑니다!
+()<Speaker></Speaker>||<SE1>RunStep</SE1><黑屏1>:위조 경찰 신분증을 꺼내 들고, J는 인파를 헤치고 지나갔다.

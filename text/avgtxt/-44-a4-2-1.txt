@@ -1,0 +1,77 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>239</BIN><BGM>10220</BGM>:......
+()<Speaker></Speaker>||:현지 시각 오후 15시 28분.+베를린 노이템펠호프 구역, "윌리엄"의 옛 거처.
+RPK16(0)<Speaker>RPK16</Speaker>||:AK-12 선배가 말하길, 안젤리아가 의욕 넘치는 날은 재수가 옴 붙은 날이래요.+여태까지 농담인 줄 알았는데 말이죠...
+RPK16(0);AK15(0)<Speaker>AK15</Speaker>||:......
+RPK16(0)<Speaker>RPK16</Speaker>;AK15(0)||:왜 그래요, AK-15?
+RPK16(0);AK15(0)<Speaker>AK15</Speaker>||:너...+평소보다 말이 적군.
+RPK16(4)<Speaker>RPK16</Speaker>;AK15(0)||:어머나, 제가 말수가 적은 게 오히려 불편한가요?+거참 희한하네요, 제 수다를 혐오하지 않았나요?
+RPK16(4);AK15(0)<Speaker>AK15</Speaker>||:네가 정상 상태가 아니면 임무에 지장이 가니까다.+특히, 지금은 네가 대장이니까.
+RPK16(0)<Speaker>RPK16</Speaker>;AK15(0)||:"임시"지만요... AK-12 선배도 참 엉망진창인 때에 엉망진창인 일을 저한테 떠넘겼다니까요.
+RPK16(0);AN94(4)<Speaker>AN94</Speaker>||:나도 말했잖나, AK-12는 너를 믿고 맡긴 거라고.
+RPK16(5)<Speaker>RPK16</Speaker>;AN94(4)||:두고 봐요, 이건 분명 선배 인생에서 두 번째로 큰 실수가 될 테니까요.
+AN94(4)<Speaker>AN94</Speaker>||:무슨 소릴, 나도 RPK가 우수하다... 응? 두 번째?
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:첫 번째 큰 실수는 뭐였는데?
+NPC-Ange(0);RPK16(0)<Speaker>RPK16</Speaker>||:그건 저와 선배 둘만의 비밀이랍니다♪+어쨌든 안젤리아, 마지막으로 물을게요.+정말 안으로 들어갈 건가요?
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;RPK16(0)||:가기 싫음 AN-94랑 여기 남던가.
+RPK16(5)<Speaker>RPK16</Speaker>||:죄송해요, 아무 말도 안 한 걸로 해 주세요.
+NPC-Light(0)<Speaker>라이트</Speaker>||<SE1>AVG_tele_disconnect</SE1>:안젤리아 씨, 이쪽도 준비됐습니다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;NPC-Light(0)||:얼마나 데려왔어?
+NPC-Ange(0);NPC-Light(0)<Speaker>라이트</Speaker>||:많지 않습니다, 제 동기들만이죠.+모두 믿을 수 있는 사람입니다.+그리고... 이 임무에 관해서 자세하게 설명하지 않았습니다.+다들 경계 임무를 맡은 걸로만 압니다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;NPC-Light(0)||:잘했어, 너흰 바깥에서 우리 대신 경계를 서 주기만 하면 돼. 난처한 입장으론 안 만들 테니까 걱정 마.+일 끝나고 혹시 너네 상급자가 너한테 책임 물으면, 다 내 탓으로 돌려.
+NPC-Light(3)<Speaker>라이트</Speaker>||:안젤리아 씨도 안심하십시오, 저희 모두 각오하고 왔습니다.+AN-94 씨도 저희와 함께라고 하셨죠?
+AN94(0)<Speaker>AN94</Speaker>;NPC-Light(3)||:그래, 나도 슈타지와 함께 바깥에서 경계를 담당하겠다.+예상치 못한 사태가 벌어지는 것을 방지하기 위해서다.
+AN94(0);NPC-Light(0)<Speaker>라이트</Speaker>||:지난번과는 반대로군요.+그땐 안젤리아 씨가 저를 당신과 두고 가셨는데.
+AN94(0)<Speaker>AN94</Speaker>;NPC-Light(3)||:이번엔 아니지.+저 양옥 안에 어떤 장치나 전자 설비가 있을지 모르니, RPK가 동행할 필요가 있다.+그리고 모두 안심하도록. 내가 있는 한, 슈타지의 모두를 곤경에 처하게 놔두지 않겠다.
+NPC-Light(3)<Speaker>라이트</Speaker>||:아니, 그런 뜻이 아니라... 저희도 저희대로 자존심이란 게 있습니다...+...아무튼, 제 동기들을 잘 부탁드립니다, AN-94 씨.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:시간 없으니까 바로 돌입한다. 라이트, 네 친구들한테 양옥 주변 봉쇄하고 파리 한 마리도 못 들어오게 막으라고 해.+AK-15, RPK.
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:철컥.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:가자.
+AK15(2)<Speaker>AK15</Speaker>||:알겠습니다.
+RPK16(0)<Speaker>RPK16</Speaker>||:...그럼 가볼까요.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>239</BIN><SE1>AVG_wind_grass</SE1>:슈타지가 제공한 정보에 따르면, 이 양옥은 아주 오래전에 버려져 지금은 아무도 살지 않는다.+양옥의 낡을대로 낡고 헐대로 헐은 외견도, 그 정보에 신빙성을 한껏 더했다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||:안젤리아가 통과하는 이 정원도, 보아하니 정원사가 마지막으로 이곳을 손질한 것이 벌써 수 년 전의 일인 것 같았다.+이따금씩 어디선가 날아드는 벌들을 제외하면, 정원 안에 살아있는 동물은 없었다.
+()<Speaker></Speaker>||:이렇게 쥐 죽은 듯한 정적이, 안젤리아의 신경을 자극했다.+그녀의 감이, 이 방향이 틀림없다고 말하고 있었다.+바로 여기 어딘가에, 그녀가 원하는 것이 있다.
+AK15(0)<Speaker>AK15</Speaker>||:정문으로 진입합니까?
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:지금 상황으론 어디로 들어가든 똑같아.+RPK?
+NPC-Ange(0);RPK16(0)<Speaker>RPK16</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:...이상 징후 없습니다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:만약 정말로 안에 매복이 있다면...+다른 문이나 창문으로 우회하기보단 정면돌파가 차라리 더 나아.
+()<Speaker></Speaker>||:안젤리아 일행은 잡초가 무성한 정원을 지나, 양옥의 정문 현관 앞에 섰다.+주위도, 양옥도 아직은 고요했다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:AK-15, 노크해 봐.
+AK15(0)<Speaker>AK15</Speaker>||:알겠습니다.
+()<Speaker></Speaker>||:AK-15는 고개를 끄덕이곤 걸어가, 문에 손을 댔다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:안은 보여?
+AK15(0)<Speaker>AK15</Speaker>||:...보입니다. 이상 없습니다.
+()<Speaker></Speaker>||:그 말에 안젤리아도 현관의 계단을 올라, AK-15 옆으로 다가가 현관문의 문고리를 잡았다.
+RPK16(0)<Speaker>RPK16</Speaker>||:안젤리아.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;RPK16(0)||:왜?
+NPC-Ange(0);RPK16(0)<Speaker>RPK16</Speaker>||:정말 들어갈 거예요?
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;RPK16(0)||:물론이지.+안에 뭐 이상한 거라도 있어?
+NPC-Ange(0);RPK16(0)<Speaker>RPK16</Speaker>||:청소부가 여기 두고 간 연말 보너스를 빼면... 없는 것 같네요.+하지만 오히려 그래서 더 의심스럽지 않나요?
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:...그래, 네 말이 맞아.+하지만 지금은 우유부단하게 발을 뺄 때가 아니야.+의심스러울수록, 제대로 찾아왔단 뜻이니까.
+()<Speaker></Speaker>||:안젤리아는 잠시 생각에 잠겼지만, 다시 이곳에 온 목적에 집중했다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:AK-15, 문 열어.
+AK15(0)<Speaker>AK15</Speaker>||<SE1>ClothingUp</SE1>:......
+()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM><SE1>AVG_20Winter_Gate_Close</SE1>:쿠웅...
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>240</BIN><黑屏2>:AK-15가 양옥의 대문을 힘껏 열어젖혔다.+언제라도 경첩이 부러져도 이상하지 않을 낡은 문짝은 충격에 흔들리며 쌓였던 먼지를 털어냈다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:안젤리아도 권총을 다시 홀스터에 넣고 천천히 안으로 발을 들였다.+음산한 분위기의 양옥의 정적이, 세 명의 발소리의 메아리에 깨졌다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:안이 생각보다 꽤 넓은걸.
+NPC-Ange(0);RPK16(0)<Speaker>RPK16</Speaker>||:이래서는 조사하는데 시간 좀 걸리겠는데요.+이 작전의 은밀성을 고려한다면, 시간을 너무 소모해선 안 되겠죠?
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;RPK16(0)||:다른 제안 있어?
+RPK16(0)<Speaker>RPK16</Speaker>||:AK-15, 동쪽을 조사해 주세요.+저는 안젤리아와 함께 서쪽을 확인할게요.+통신을 상시 유지하고, 사소한 거라도 발견하면 즉시 알리도록 해요.+...이러면 어떨까요?
+AK15(0)<Speaker>AK15</Speaker>||:이견 없다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:합리적인 역할 분담이네, 그렇게 하자.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AK-15가 짧게 고개를 끄덕이고 총을 등에 멨다.
+RPK16(0)<Speaker>RPK16</Speaker>||:음? 왜 그러세요, 무슨 일 있어요?
+AK15(0)<Speaker>AK15</Speaker>||:...아니.
+()<Speaker></Speaker>||:AK-15는 묘한 눈빛으로 RPK-16을 흘겨보곤, 그대로 몸을 돌려 정문에서 오른쪽 방향으로 향했다.
+RPK16(4)<Speaker>RPK16</Speaker>||:그럼 저희도 갈까요, 안젤리아?
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:안젤리아도 고개로 대답하고, 먼저 발걸음을 옮겨 왼쪽으로 나아갔다.
+RPK16(5)<Speaker>RPK16</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_Walk</SE1>:두 사람은 천천히, 저택 깊숙이로 나란히 걸어 들어갔다.
+()<Speaker></Speaker>||:......
+()||<黑点1><BIN>10</BIN>:

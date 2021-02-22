@@ -1,0 +1,110 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>Explode</SE1><BGM>10065</BGM>:콰앙——!
+AK12(17)<Speaker>AK12</Speaker><Position>0,60</Position>||:안젤리아!
+()<Speaker></Speaker>||<SE1>AVG_tinnitus_0</SE1>:......+매연이 흩어지고, 타오르는 불꽃이 밤하늘을 밝혔다.+충격으로 인한 어지러움과 이명이, 날이 갈수록 쇠약해져 가는 안젤리아의 신경을 자극했다. 그래도 불행 중 다행일까, 그녀 본인은 그다지 다치지 않았다.
+()||<黑屏1>:
+NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||<黑屏2><BIN>222</BIN>:...AK, 12?
+()<Speaker></Speaker>||:부하의 모습이 눈에 또렷하게 들어왔다.+이렇게 엉망인 상태의 AK-12를 마지막으로 본 건, 그 남자를 상대할 때였다.
+AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:심호흡해 안젤리아, 심호흡.
+NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>;AK12(18)<Position>0,60</Position>||:너...!
+NPC-AngeDamage(2);AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:딴말 말고 내 얼굴 봐.+지금 무슨 상황인지 말해.
+NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||:그러니까...
+()<Speaker></Speaker>||:안젤리아는 방금까지 일어난 일을 떠올렸다.
+NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||:...패러데우스랑 싸웠지.+너와 AK-15가 창고 안 패러데우스의 졸개들을 해치웠고...+나와 RPK-16은 검은 니토를 해치웠어.+그리고...
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:섬광이 또 눈앞 지나가는 듯했다.
+NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||:...하얀 니토가 창고를 터뜨렸지.+그 순간 네가 뛰어와서는 날 안고 창문 밖으로 뛰어내렸고.
+AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:멀쩡하네, 다행이다.
+NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||:하지만 네가...
+()<Speaker></Speaker>||:그제서야 안젤리아는 AK-12가 심각하다는 것을 깨달았다.+적어도, 외견상으로는 그랬다.
+AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:걱정 마, 나 괜찮아. 내부 부품 몇 개가 찌그러져서 관절에 끼었을 뿐이야.+그래도 응급 처치가 필요한걸... 이래선 움직이기도 버거워.
+NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||:안젤리아는 비틀거리며 AK-12의 품에서 나와, 간신히 몸을 일으켜 세웠다.+우뚝 서 있던 하얀 건물은 이미 불타는 폐허로 변해버린 뒤였다.+무수한 상자들에 담긴 약품들도 한 줌의 재가 되었다.
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:와르르...+거대한 형체가 잔해 속에서 솟아올랐다.+벽돌이 들어올려지고, 먼지와 돌조각들이 몸에서 후두둑 떨어졌다.+물론, 그 정체는 AK-15였다.+그리고 AK-15 밑에서 빼꼼 고개를 내민 RPK-16도, 그녀가 막아 준 덕분에 모습만 좀 엉망일 뿐 별다른 부상은 없었다.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:RPK, AK-12에게 긴급 조치.
+RPK16(5)<Speaker>RPK16</Speaker>||:무리예요. 아무리 저라도 맨손으론 선배의 망가진 부품을 뜯어낼 순 없어요.+그래도, 선배의 깡이라면 이 정도쯤은 아무것도 아니잖아요?
+AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:나 멀쩡해지면 제일 먼저 너부터 죽여버릴 거야...
+AK12(15)<Position>0,60</Position>;AK15(2)<Speaker>AK15</Speaker>||:부품을 교체해야 한다면, 내 소체의 것을 사용해라.
+AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:너도 괜한 소리하지 마.+네 전투 능력이 떨어지면 안젤리아가 위험해져.+수복 장비라면 AN-94한테 있으니까 난 그냥 복귀하면 돼.
+NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||:...니토는?
+()<Speaker></Speaker>||:AK-15가 주변을 확인하곤 고개를 저었다.
+AK15(2)<Speaker>AK15</Speaker>||:포착되는 신호 없음.+시체도 없는 것으로 보아, 현장을 이탈한 것으로 추정됩니다.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:도망쳤다고?+쳇... 어째서지?
+NPC-AngeDamage(3);AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:나야 모르지. 하지만 슬슬 우리도 철수하지 않을래?+지금 상황으론 추격은 무리인데.
+NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||:그래... 목적은 달성했으니.
+()<Speaker></Speaker>||:안젤리아는 깊은 한숨을 내쉬었다.
+NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||:현장 검사해서 쓸 만한 단서는 전부 챙겨.+훈작사한테 넘기기만 하면 그레이를 고발하는 건 시간 문제야.
+RPK16(5)<Speaker>RPK16</Speaker>||:......가지고 돌아갈 수 있다면 말이지만요.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:무슨――
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Fire_Alarm</SE1>:안젤리아가 질문하기도 전에, 주위에서 귀청이 나갈 것 같은 경적이 울렸다.+눈 깜짝할 사이에, 사방의 통로에서 경찰 제복과 보안인원 복장을 한 사람들이 몰려왔다.+한 명도 빠짐없이 무장한 그들은 안젤리아 일행에게 곧장 달려왔다.
+NPC-Bodyguard1(0)<Speaker>보안 인원</Speaker>||<SE1>AVG_weapon_reload</SE1>:꼼짝 마!
+NPC-Bodyguard1(0)<Speaker>경비원</Speaker>||:무기를 버려라!
+()<Speaker></Speaker>||:주위에 엄폐물로 삼을 만한 것도 없는 상황이어서, 안젤리아 일행은 저들이 신속하게 자신을 겹겹이 포위하는 걸 마냥 지켜볼 수밖에 없었다.+AK-15와 RPK-16은 안젤리아 곁으로 와 무기를 쥐었다.+AK-15는 아예 올 테면 와 보라는 듯 살기를 내뿜어, 보안인원들이 무의식적으로 총구를 그녀에게 향할 정도였다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||:...아니, 그런 게 아니었다.+결코 그리 단순한 것이 아니었다.+그들은 결코 "무의식적"으로 행동한 것이 아니다. 자신들에 대한 적의가 명백했고, 목표도 확실했다.
+()<Speaker></Speaker>||:폭발이 일어난다면, 현지 공무원들의 이목이 집중되는 것은 당연하다.+하지만 눈앞에 나타난 무리엔 사설 보안 병력까지 섞여 있었다.+경찰과 사설 보안 부대가 한마음으로 움직인 것이다.+과연 이게 무얼 의미할까?
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||<SE1>AVG_Walk</SE1>:정말 예상치도 못한 곳에서 다시 만나네요.+안젤리아 씨.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:너...
+()<Speaker></Speaker>||:총을 겨눈 무리를 가르고, 지금 안젤리아가 가장 보고 싶지 않았던 실루엣이 나타났다.+보안 부대와 경찰이 섞인 무리는 마치 모세의 기적처럼 길을 비켰고, 그레이는 그들 사이를 지나 천천히 안젤리아에게 다가왔다.
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:뭘 멍하니 있어, 빨리 검사해.
+()<Speaker></Speaker>||:안젤리아와 대화하기 전, 그레이는 손짓으로 주변의 사람들을 쫓아냈다.+일부만이 리벨리온과 대치하기 위해 남고, 대부분이 그레이의 지시에 흩어졌다.+그들은 현장을 봉쇄하고, 아직 형체를 알아볼 수 있는 잔해를 회수했다. 움직임은 질서정연했고, 전혀 다른 소속인 인부들이 함께 작업하는데도 호흡이 척척 맞았다.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:거기 안 멈춰!?+그것들은――
+NPC-Bodyguard1(0)<Speaker>보안 인원</Speaker>||<SE1>AVG_weapon_reload</SE1>:움직이지 마!
+()<Speaker></Speaker>||:안젤리아는 그들을 막으려 했지만, 그레이 옆의 사병들에게 총으로 제지당했다.+AK-15는 안젤리아 옆에 서서 저 무례한 사병들을 노려봤지만, 그녀의 압도적인 존재감에도 그들은 전혀 움츠러들지 않았다.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||<SE1>AVG_weapon_reload</SE1>:제기랄...+저건...
+()<Speaker></Speaker>||:안젤리아는 그들이 남은 약품과 걸레짝인 시체들을... 그녀가 겨우겨우 찾아낸 단서와 증거물을 보따리에 담아 가져가는 걸 눈뜨고 보기만 해야 했다.+갑작스럽게 벌어진 일이었지만, 이렇게까지 된 이상 안젤리아도 저 망할 여자가 여기에 나타난 이유를 알 수 있었다.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:증거 인멸이냐.
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:증거라뇨?
+()<Speaker></Speaker>||:그레이는 인상을 쓰며 짐짓 당혹스러운 척했다.+그리곤 아직 불이 꺼지지 않은 폐허와 자신 곁의 호위를 번갈아 보았다.
+NPC-Bodyguard1(0)<Speaker>보안 인원</Speaker>||:이거 오해가 있으신가 보군요, 안젤리아 씨.+여기는 갈라테아 그룹의 실험 약품용 창고입니다.+여기에 보관되던 것은 전부 "이둔"의 임상시험용 샘플입니다.
+()<Speaker></Speaker>||:그레이 옆의 사병 중 한 명이, 눈치를 받고 목소리를 낮춰 대답했다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:귀신 씻나락 까먹는 소리하네.
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:글쎄요, 과연 누가 믿어 줄까요.
+()<Speaker></Speaker>||:그레이는 비웃는 눈초리로 응했다.
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:경찰의 판단에 따를 수밖에요.+...당신의 정부는 당신을 배신하지 않을 거예요.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:여긴 내 나라 아니야, 그리고... 경찰은 무슨 얼어죽을 경찰?
+()<Speaker></Speaker>||:안젤리아는 냉소하며 불길에 비치는 그레이의 얼굴을 잡아먹을 기세로 노려봤다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:여긴 도심지에서 6km나 떨어졌고, 직통 도로도 없는 곳인데.+베를린의 경찰이 어떻게 이리도 빨리 현장에 도착해?+게다가 네 사병놈들이랑 호흡도 아주 척척 맞고. 다 네 패거리잖아.
+()<Speaker></Speaker>||:안젤리아가 턱을 들자, 그녀 곁의 리벨리온도 반 발자국 내디뎠다. 이에, 분위기가 더욱 험악해졌다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:지금 연기도 아주 건성으로 하는데...+그냥 날 놓아줄 생각 없잖아, 안 그래?
+AK15(2)<Speaker>AK15</Speaker>||<SE1>AVG_weapon_reload</SE1>:......
+()<Speaker></Speaker>||:AK-15는 붉게 번뜩이는 눈동자로 무기를 들어, 총구를 그레이에게 향했다.
+AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:AK-15... 침착해.
+()<Speaker></Speaker>||:당장에라도 방아쇠를 당길 것 같은 움직임을, AK-12의 목소리가 멈췄다.
+RPK16(4)<Speaker>RPK16</Speaker>||:걱정 마세요, 선배.+AK-15도 그 정도로 막나가진 않아요.
+()<Speaker></Speaker>||:그렇게 말하는 RPK-16의 눈빛도 그레이를 향하고 있었다.
+RPK16(6)<Speaker>RPK16</Speaker>||:여기서 교전했다간 우린 안젤리아를 지키지 못해요. 주변에 엄폐물도 없는걸요.+하지만 반대로도 마찬가지 아닐까요?+이 정도 거리라면... 눈 깜빡할 틈도 없이 AK-15가 당신의 목을 꺾어버릴 수 있어요, "닥터 그레이".
+NPC-Bodyguard1(0)<Speaker>보안 인원</Speaker>||:건방지게 어딜!
+()<Speaker></Speaker>||:RPK-16의 도발에 사병이 발끈하며 고함을 쳤지만, AK-15를 의식해 나서진 못했다.+일촉즉발의 대치 상황이었지만, 가장 중요한 두 인물의 말이 떨어지기 전엔 아무도 함부로 움직일 수 없었다.
+NPC-MrsGray(4)<Speaker>그레이</Speaker>||:그것 참 흥미롭군요.
+()<Speaker></Speaker>||:그레이의 얼굴의 웃음기는 전혀 사라지지 않았고, RPK-16와 눈싸움을 벌였다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:네가 정말 무사할 거 같냐?
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:당신은 지금 판도라의 상자를 건드린 꼴이에요, 안젤리아.+당신의 장난쯤, 너그럽게 봐줄 수 있다고 생각했는데... 다 당신이 자초한 일입니다.
+()<Speaker></Speaker>||:안젤리아는 그레이에게서 한시도 눈을 떼지 않고 차갑게 노려봤다. 저 빌어먹을 여자의 자신감과 우월감이 냄새로 느껴지는 것만 같았다.+이 거리라면... 자신이 총을 더 빨리 뽑는다면 적어도...
+()<Speaker>？？</Speaker>||<BGM>BGM_Empty</BGM>:동작 그만!
+()<Speaker></Speaker>||:바로 그때, 다른 방향에서 익숙한 목소리가 소리치며 나타났다.+그리고 그와 함께, 전혀 다른 스타일의 무장 부대가 신속히 진입했다.+예고 없는 등장에 그레이와 그녀의 사병들의 경계 대상이 바뀌었다.
+NPC-Light(1)<Speaker>라이트</Speaker>||<BGM>BGM_Brain</BGM>:안젤리아 씨는 슈타지 관할의 중요 인물입니다!+베를린 경찰과 갈라테아에게 구속할 권한은 없습니다!+그리고, 지금부터 이 현장은 우리가 통제합니다!
+()<Speaker></Speaker>||:어린 청년이 곧장 안젤리아와 그레이에게 달려와, 자신의 요원증을 들이밀며 의도를 밝혔다.+그 청년을 뒤따라, 긴급 수복용 공구함을 들고 AK-12에게 신속히 다가갔다.+그녀가 말없이 응급 처치를 해 주자, AK-12의 눈동자에 다시 빛이 들어왔다.
+AN94(0)<Speaker>AN94</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:핵심 부품에 손상은 없다, AK-12. 이제 움직일 수 있을 거다.
+AK12(16)<Speaker>AK12</Speaker><Position>0,60</Position>||:고마워 AN-94. 하나 더 부탁해도 될까?+내 총 좀 가져와 줘, 당장 죽여버려야 할 년이 있거든.
+()<Speaker></Speaker>||:AK-12가 천천히 일어났지만, AN-94와 안젤리아에게 동시에 제지당했다.
+NPC-MrsGray(5)<Speaker>그레이</Speaker>||:...젊으신 요원님, 정말 허가를 받고 움직인 건가요?
+()<Speaker></Speaker>||:그레이는 눈을 가늘게 뜨고, 살의 어린 어조로 자신과 안젤리아 사이에 끼어든 라이트에게 물었다.
+NPC-Light(3)<Speaker>라이트</Speaker>||<SE1>AVG_20Winter_Book</SE1>:물론입니다, 여기 영장입니다. 이 시간부로 이 현장은 슈타지가 접수하겠습니다.+그레이 씨, 조사에 협조해 주시죠.
+NPC-MrsGray(5)<Speaker>그레이</Speaker>||:흥...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그레이가 손짓하자, 현장을 헤집던 인원들이 다시 질서졍연하게 현장에서 나왔다.+당연하게도, 그들이 뒤져낸 물건들을 가지고서.
+NPC-Light(3)<Speaker>라이트</Speaker>||:중요한 증거물입니다, 내놓으시죠.
+NPC-Bodyguard1(0)<Speaker>보안 인원</Speaker>||:주제 넘지 마라, 슈타지!+갈라테아 그룹의 사유물을 가져가겠다고?+네 상급자한테 직접 오라고 해!+아니면 네 모가지 날아갈 각오나 하던가!
+NPC-Light(0)<Speaker>라이트</Speaker>||:......
+()<Speaker></Speaker>||:상대가 양보할 기미를 보이지 않자, 라이트는 한발 물러서 요원들을 폭발 현장으로 들여보냈다.
+NPC-Light(0)<Speaker>라이트</Speaker>||:여기서 습격이 일어났다 봐도 무방합니까?
+NPC-MrsGray(5)<Speaker>그레이</Speaker>||:최근 수 개월간, 베를린에선 사고가 다발했죠.+하지만 설마 폭도들이 갈라테아 그룹을 건드릴 정도로 흉포해질 줄은 몰랐습니다.+하지만 저희는 그 어떤 테러 행위에도 굴복하지 않아요.+"이둔"은 반드시, 약속대로 출시될 겁니다... 라고 당신의 친구들께 전해 주세요, 어린 요원님.
+()<Speaker></Speaker>||:라이트는 잠시 침묵하다, 그레이에게 살짝 허리를 숙였다.
+NPC-Light(0)<Speaker>라이트</Speaker>||:그렇게 전하죠.+안젤리아 씨, 이만 갑시다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||:안젤리아는 AK-12를 부축하며 고개를 들어, 그레이의 눈을 마주봤다.
+NPC-MrsGray(4)<Speaker>그레이</Speaker>||:<Size=30>목숨을 건졌군요.</Size>
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:<Size=30>이걸로 끝이라 생각 마라.</Size>
+()<Speaker></Speaker>||:슈타지의 경호를 받으며 떠나는 안젤리아를 바라보다, 그레이도 고개를 돌려 엉망이 된 현장을 다시 한번 살폈다.
+NPC-MrsGray(3)<Speaker>그레이</Speaker>||:...여기 남은 건 없군요.+우리도 이만 가요.
+()<Speaker></Speaker>||:그녀의 부름에, 갈라테아 소속의 인원들도 허리를 펴고 떠났다.
+()||<黑屏1>:

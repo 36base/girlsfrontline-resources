@@ -1,0 +1,53 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
+()<Speaker></Speaker>||<黑屏2><BIN>84</BIN><黑屏1><BGM>BGM_Brain</BGM>:갈라테아 그룹의 차량 행렬이 굽은 산길 위를 달렸다.+하지만 도시로 돌아가는 것이 아니었다. 더욱 외진 곳으로 향하는 중이었다.
+()<Speaker></Speaker>||<黑屏2><BIN>159</BIN>:격리벽을 넘어 정화 구역 밖으로 나오고서도, 또 한참을 달렸다.+그렇게 아무도, 아무것도 없는 곳까지 오고 나서야 차량들은 멈춰 섰다.
+NPC-Bodyguard1(0)<Speaker>보안 인원</Speaker>||:그레이 님, 도착했습니다.
+NPC-Bodyguard1(0);NPC-MrsGray(0)<Speaker>그레이</Speaker>||:............
+NPC-Bodyguard1(0);NPC-MrsGray(0)<Speaker></Speaker>||<同时置暗>:부스럭...
+NPC-Bodyguard1(0)<Speaker>보안 인원</Speaker>;NPC-MrsGray(0)||:......!
+NPC-Bodyguard1(0);NPC-MrsGray(0)<Speaker></Speaker>||<同时置暗>:갑작스런 기척에 보안인원들이 신경을 곤두세웠다.+이윽고 주위에서 수많은 하얀 병사들이 모습을 드러내, 그레이를 포함한 갈라테아 인원들을 포위했다.
+NPC-Bodyguard1(0)<Speaker>보안 인원</Speaker>||:누, 누구냐!
+NytoWhite(0)<Speaker>니토</Speaker>||:......
+NytoWhite(0)<Speaker></Speaker>||:하얀 병사들 사이에서, 하얀 옷을 입고 몸의 절반 이상이 기계화된 소녀가 천천히 걸어 나왔다.
+NPC-Bodyguard1(0)<Speaker>보안 인원</Speaker>||:다, 다가오지 마라!
+NPC-Bodyguard1(0)<Speaker></Speaker>||:보안인원들이 모두 총을 들었다. 느닷없이 나타난 수상한 병력의 기이한 모습에, 그들은 불안감이 엄습했다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:......
+NPC-MrsGray(0)<Speaker></Speaker>||:하지만 그들의 경호 대상인 그레이는 스스로 호위망에서 나왔다.
+NPC-Bodyguard1(0)<Speaker>보안 인원</Speaker><Shake>;NPC-MrsGray(0)||:잠깐, 그레이 님?! 위험합니다!
+NPC-Bodyguard1(0)<Speaker></Speaker>||:가녀린 상사가 제발로 거대한 낫을 든 소녀에게 다가가니, 보안인원 한 명이 식겁하며 소리쳤다.+하지만 그 다음 일어난 일에, 그는 자신의 눈을 믿지 못했다.
+()<Speaker></Speaker>||:찰싹!+그레이가 하얀 소녀의 따귀를 힘차게 때린 것이었다.
+NPC-MrsGray(5)<Speaker>그레이</Speaker>||:어째서 안젤리아가 공장에 나타났지?
+NytoWhite(0)<Speaker>니토</Speaker>;NPC-MrsGray(5)||:죄송합――
+NytoWhite(0);NPC-MrsGray(5)<Speaker></Speaker>||:찰싹!+그레이의 손등이 다시 따귀를 때렸다.
+NytoWhite(0);NPC-MrsGray(5)<Speaker>그레이</Speaker>||:한심한 놈.
+NytoWhite(0);NPC-MrsGray(5)<Speaker></Speaker>||:그레이의 음산한 표정과 간담이 서늘해지는 목소리에, 그 자리의 모두가 자신이 꿈을 꾸는 건지 의심했다.
+NytoWhite(0);NPC-MrsGray(5)<Speaker>그레이</Speaker>||:내통자가 제때 알리지 않았다면, 네 실수로 무슨 결과를 초래했을지 알기나 해?
+NytoWhite(0)<Speaker>니토</Speaker><Shake>;NPC-MrsGray(5)||:......
+NytoWhite(0);NPC-MrsGray(5)<Speaker>그레이</Speaker>||:내 완벽한 계획이 너희 때문에 흠집이 났어!+아버님께서 이 일로 노하시면 네가 책임질 거야!?
+NytoWhite(0)<Speaker>니토</Speaker>;NPC-MrsGray(5)||:......제가, 책임지겠습니다.
+NytoWhite(0);NPC-MrsGray(0)<Speaker></Speaker>||:그레이는 하얀 소녀를 한참 바라보다, 서서히 원래의 가녀린 모습으로 되돌아갔다.
+NytoWhite(0);NPC-MrsGray(0)<Speaker>그레이</Speaker>||<BGM>BGM_Empty</BGM>:그래... 당연히 그래야지.+당장 시작해.
+NytoWhite(0)<Speaker>니토</Speaker>;NPC-MrsGray(0)||<BGM>BGM_Danger</BGM>:네.
+NytoWhite(0)<Speaker></Speaker>||:하얀 소녀는 고개를 끄덕이고, 시선을 그레이에게서 그녀 뒤의 갈라테아 사병들에게 향했다.
+NPC-Bodyguard1(0)<Speaker>보안 인원</Speaker>||:그레이 님...? 대체 뭐가 어떻게 된 겁니까...?!
+NytoWhite(0)<Speaker>니토</Speaker>||<SE2>Alarm</SE2>:모조리 죽여라.
+NytoWhite(0)<Speaker></Speaker>||:낫을 높이 들고, 하얀 니토는 담담히 명령했다.
+NPC-Bodyguard1(0)<Speaker>보안 인원</Speaker>||<SE1>Explode</SE1>:뭐, 뭐야――
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:순식간에, 총성과 비명으로 난장판이 되었다.+하지만 그레이는 옷자락의 먼지를 털어낼 뿐, 고개를 돌리지조차 않았다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||<BGM>BGM_Empty</BGM>:명심해, 자정 전까지 준비를 마쳐라.
+NytoWhite(0)<Speaker>니토</Speaker>;NPC-MrsGray(0)||<BGM>BGM_Brain</BGM>:시체는 회수합니까?
+NytoWhite(0);NPC-MrsGray(5)<Speaker>그레이</Speaker>||:......
+NytoWhite(0);NPC-MrsGray(0)<Speaker></Speaker>||:상대의 미련함에 또 화가 치밀어 오른 그레이는 호통치려 했지만, 그때 다른 생각이 떠올랐다.+눈은 가늘어졌지만, 표정은 부드러웠다.
+NytoWhite(0);NPC-MrsGray(0)<Speaker>그레이</Speaker>||:그렇게 해.+하지만 내게 가져오진 마.+...몰리도에게 깜짝 선물로 주렴.
+NytoWhite(0)<Speaker>니토</Speaker>;NPC-MrsGray(0)||:알겠습니다.
+NytoWhite(0)<Speaker></Speaker>;NPC-MrsGray(0)||:하얀 니토는 고개를 끄덕이곤 다시 그레이를 바라봤다.+또 성질을 건드릴까 봐 무서워지만, 그래도 떠보듯 조심조심 입을 열었다.
+NytoWhite(0)<Speaker>니토</Speaker>;NPC-MrsGray(0)||:당신이 안젤리아 곁에 심은 내통자...+이용해도 됩니까?
+NytoWhite(0);NPC-MrsGray(0)<Speaker>그레이</Speaker>||:......
+NytoWhite(0);NPC-MrsGray(0)<Speaker></Speaker>||:그레이는 무표정으로 니토를 바라봤다.+하얀 니토가 점점 긴장하는 게 눈에 보이고 나서야, 그레이는 고개를 저으며 뒤로 돌았다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:아직은 안 돼.
+NPC-MrsGray(0)<Speaker></Speaker>||:학살이 끝났고, 바닥에는 피바다에 잠긴 시체가 즐비했다.+하얀 병사들은 노련하게 시체들을 주워, 차량의 화물과 함께 "폐기"했다.+그레이는 피로 얼룩진 차량을 역겨워하는 눈빛으로 보며 뒤로 물러났다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:판도라의 상자는... 함부로 열어선 안 돼.
+NytoWhite(0)<Speaker>니토</Speaker>;NPC-MrsGray(0)||:알겠습니다.
+NytoWhite(0)<Speaker></Speaker>;NPC-MrsGray(0)||:하얀 니토는 공손하게 머리를 숙였다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:그리고 다른 차 가져와.
+NytoWhite(0)<Speaker>니토</Speaker>;NPC-MrsGray(0)||<黑屏1>:...네.

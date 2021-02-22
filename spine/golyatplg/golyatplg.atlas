@@ -1,0 +1,41 @@
+
+golyatplg.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aerial
+  rotate: true
+  xy: 183, 76
+  size: 7, 77
+  orig: 7, 77
+  offset: 0, 0
+  index: -1
+bomb
+  rotate: false
+  xy: 294, 109
+  size: 105, 101
+  orig: 105, 101
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 183, 85
+  size: 109, 125
+  orig: 109, 125
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 79, 31
+  orig: 79, 31
+  offset: 0, 0
+  index: -1
+stand
+  rotate: false
+  xy: 2, 35
+  size: 179, 175
+  orig: 179, 175
+  offset: 0, 0
+  index: -1

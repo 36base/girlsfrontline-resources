@@ -1,0 +1,83 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>269</BIN><BGM>10051</BGM>:베를린 교외, 본 마을 밖.+나는 넋이 나간 채로 계속 마흐리안의 얼굴을 보았다. ...아니, "몰리도"라 불러야 하나?
+NPC-Machlian(1)<Speaker>마흐리안</Speaker>||:당신들, 뭐하는 사람들이죠...?
+()||:AR팀이 인간이 아닌 것을 눈치챈 그녀는 다시 겁을 먹었다.
+NPC-Machlian(2)<Speaker>마흐리안</Speaker>||:당신들, 인간이 아니잖아... 나한테 무슨 짓을 하려고 왔어?!+그들이 보낸 거야!?
+()||:마흐리안이 품에서 작은 단도를 꺼내 들었다. 긴장과 공포로 인해, 그녀의 손은 격렬하게 떨렸다.
+NPC-Machlian(3)<Speaker>마흐리안</Speaker>||:다가오지 마! 날 건들지 마!+그곳으로 돌아가지 않겠어, 절대로!
+()<Speaker>지휘관</Speaker>||:일단 진정하세요, 해치려는 게 아닙니다!
+()||:나는 그녀를 달래는 한편 조심스럽게 마취제를 꺼냈다.
+NPC-Machlian(2)<Speaker>마흐리안</Speaker>||:다, 다가오지 마세요! 저――
+()||<SE1>AVG_Punch_Hit</SE1>:분노와 두려움으로 가득한 비난이 뚝 끊기더니, 마흐리안이 풀썩 엎어졌다.+언제 돌아갔는진 몰라도, 그녀 뒤의 SOP2는 손날을 훅 불며 우쭐한 표정을 지었다.
+()<Speaker>지휘관</Speaker>||:...SOP2, 이게 무슨 짓이야?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:말이 안 통하는 걸 어떡해. 그래도 이것 봐, 엄청 쉽게 조용해졌지?
+RO635Mod(0)<Speaker>RO635</Speaker>||:...안심하세요, 지휘관님.+확인했는데 기절했을 뿐입니다. 생명에 지장은 없어요.
+()<Speaker>지휘관</Speaker>||:어휴... SOP2, 다음엔 좀 더 살살해.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:알았어 알았어!
+()<Speaker>댄들라이</Speaker>||:아직 위험한 상황인데도 벌써 이렇게 여유를 부리다니, 과연 여러분입니다.
+()||:비웃는 듯 아닌 듯한 목소리에 고개를 돌리니, 댄들라이가 막 도착했다.
+()<Speaker>지휘관</Speaker>||:무슨 일 있었어? 예정 시간보다 2분 늦었는데.
+NytoIsomer(8)<Speaker>댄들라이</Speaker>||:그 징그러운 인간들을 해치지 않으면서 벗어나는 것이 얼마나 힘든 일이었는지 들어보시겠습니까?
+()||:마흐리안에게 달려들던 부호들의 웃음소리가, 또 귓가에 맴도는 듯했다.
+()<Speaker>지휘관</Speaker>||:......+우선 차에 타자.
+()||:철수할 때를 위해, 사전에 현지에서 트럭 한 대를 조달해 이곳에 숨겨 두었다.+RO와 댄들라이는 앞좌석에, 나를 포함한 나머지는 마흐리안을 데리고 화물칸에 올라탔다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:지휘관, 이 여자는 어떻게 처리할 건가요?
+()<Speaker>지휘관</Speaker>||:아직... 이 여자가 정말 "몰리도 포거트"인지는 몰라.
+NytoIsomer(8)<Speaker>댄들라이</Speaker>||:하지만 외관상 복사본이라 해도 무방할 정도로 일치합니다.
+()<Speaker>지휘관</Speaker>||:똑같이 생겼다고 꼭 동일인이라 단정할 순 없어...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그럼 심문해보면 되겠네? 어차피 놔줄 것도 아니잖아.
+()<Speaker>지휘관</Speaker>||:...물론이지. 우선 임무 지시대로 지정 위치까지 가자.
+RO635Mod(0)<Speaker>RO635</Speaker>||:네.
+()||:RO는 능숙하게 트럭을 운전해 지정 좌표로 향했다.
+NytoIsomer(8)<Speaker>댄들라이</Speaker>||:안 물으시기에 알려드립니다만, 현재 대량의 패러데우스 병력이 이쪽으로 몰려오고 있습니다.
+()<Speaker>지휘관</Speaker>||:마을에 잠복해 있던 놈들? 사전에 계획한 대로 유격하면서 각개격파해.
+NytoIsomer(8)<Speaker>댄들라이</Speaker>||:아니오, 수가 훨씬 많습니다.+이미 저희가 대응 가능한 숫자가 아니게 되었습니다.+본래의 계획대로 한다면, 여기서 최소한 2박 3일은 소모하게 되겠죠.
+()||:댄들라이가 탐지한 패러데우스의 신호를 내 지휘 패널에 전송했다.
+()<Speaker>지휘관</Speaker>||:잠깐... 이게 무슨 소리야, 분명 마을과 주변 구역까지 정찰했잖아.+대체 어디서 이런 규모의 병력이 나타난 거야?
+NytoIsomer(8)<Speaker>댄들라이</Speaker>||:현재로선 불명입니다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:그것도 아주 절묘한 타이밍에 말이죠. 저희가 여기서 며칠이나 잠복했는데, 여태껏 낌새도 알아채지 못했습니다.
+()||:백미러를 통해, RO는 의심스런 눈초리로 마흐리안을 흘겨보았다.
+()<Speaker>지휘관</Speaker>||:별 수 없지... 전원, 전투 준비. 하지만 교전은 최대한 회피한다. 강행돌파는 최후의 수단으로 남겨 둬.
+RO635Mod(0)<Speaker>RO635</Speaker>||<黑屏1>:알겠습니다.
+()||<黑屏2><BGM>BGM_Empty</BGM>:15분 후, 베를린 교회.+우리는 산개된 몇 개 분대를 따돌리고, 좁은 길을 따라 시가지로 나아갔다.
+NytoIsomer(8)<Speaker>댄들라이</Speaker>||<BGM>10065</BGM>:지휘관님, 놈들의 저희의 정확한 위치를 파악한 모양입니다. 주병력이 점점 가까워지고 있습니다.
+()<Speaker>지휘관</Speaker>||:<color=#A9A9A9>마흐리안이 대체 무슨 비밀을 갖고 있길래 패러데우스가 이렇게 대규모로 출동한 거지?</color>+놈들이랑 실랑이 벌일 수도 없는 노릇이니까 어떻게든 따돌려!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:우린 차 타고 있잖아! 못 쫓아오지 않을까?
+NytoIsomer(8)<Speaker>댄들라이</Speaker>||:현재 우리의 속도와 패러데우스 추격자들의 속도를 비교하면, 따라잡힐 때까지의 예상 시간은――
+()||<SE2>Gunfight</SE2>:타타탕!+뒤에서 총성이 들려왔다.
+NytoIsomer(8)<Speaker>댄들라이</Speaker>||:...우리만 차를 탄 게 아니었군요.
+RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님, 점점 거리가 좁혀져 갑니다! 지금은 저도 놈들의 위치가 탐지돼요!+즉 우리도 놈들의 탐지 범위 내입니다!
+()<Speaker>지휘관</Speaker>||:속도 올려!
+()||<SE1>AVG_engine_speedup</SE1>:굳이 말할 필요도 없이, 나도 뒤에서 날아드는 진한 살기를 느낄 수 있었다.+AR팀만으로 저 정도 수의 패러데우스를 상대하기란 절대 불가능했다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:놈들이 보인다!
+AR15Mod(0)<Speaker>AR15</Speaker>||:젠장, 어떻게 저리 빨리 쫓아오는 거야?!
+RO635Mod(0)<Speaker>RO635</Speaker>||:댄들라이, 전방 확인해 줘!
+()||:나도 고개를 돌려보니, 뒤의 산등성이가 벌써 하얗게 뒤덮여 가는 중이었다. 놈들이 눈사태처럼 이쪽으로 몰려오는 것이었다.
+NytoIsomer(8)<Speaker>댄들라이</Speaker>||:따돌리는 건 무리겠군요.
+()<Speaker>지휘관</Speaker>||:RO, 앞의 저 숲으로 들어가!+AR-15, SOP2! 견제 사격으로 놈들의 속도를 늦춰!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:아싸~ 몸 좀 풀어 보실까!
+AR15Mod(0)<Speaker>AR15</Speaker>||:지휘관, 앞좌석으로 이동하세요. 화물칸의 문을 열겠습니다.
+NytoIsomer(8)<Speaker>댄들라이</Speaker>||:저와 자리를 바꾸시죠.
+()<Speaker>지휘관</Speaker>||:알았어.
+()||:나는 여전히 기절 상태인 마흐리안을 안아 들고, 좁은 화물칸을 지나 조심조심 앞좌석으로 자리를 옮겼다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님, 경로를 변경할까요?
+()<Speaker>지휘관</Speaker>||:경로는 나한테 맡기고, 넌 운전에 집중해 줘.
+()||:패러데우스 부대는 육안으로 보이는 거리까지 가까워졌다.
+NytoIsomer(8)<Speaker>댄들라이</Speaker>||:현 상태로는 5분 내로 따라잡힙니다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:저 녀석들 몽땅 해킹하면 안 돼?
+NytoIsomer(8)<Speaker>댄들라이</Speaker>||:아무리 나라도 저렇게 많은 수를 동시에 침투하긴 힘들어.
+()||:댄들라이의 해킹과 AR팀의 화망으로 선두 병력이 줄줄이 쓰러졌지만, 뒤이어 쫓아오는 적들은 끝이 없었다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:점점 가까워진다!
+AR15Mod(0)<Speaker>AR15</Speaker>||:RO! 더 빨리 달려!
+RO635Mod(0)<Speaker>RO635</Speaker>||<SE1>AVG_engine_speedup</SE1>:아까부터 최대로 밟고 있거든!?
+()||:총탄이 차를 스치기 시작했지만, RO도 이를 신경쓸 겨를이 없었다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:숲으로 들어갑니다!
+AR15Mod(0)<Speaker>AR15</Speaker>||:꽉 잡아!
+()||<黑屏1><SE1>Explode</SE1>:콰앙――!!+엄청난 소리와 함께, 트럭이 파도 위의 배처럼 요동쳤다.+그리고 산림 속에 들어서, 마침내 적들의 시야에서 잠시나마 벗어나게 되었다.
+()||<黑屏2><BIN>1</BIN>:우거진 나뭇가지가, 창문을 긁으며 스쳐 지나갔다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님, 타이어가 터졌습니다!
+NytoIsomer(8)<Speaker>댄들라이</Speaker>||:즉시 차량을 포기하는 것을 건의합니다. 더는 이동 수단으로서의 가치가 없습니다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:하지만 차가 없으면 금방 따라잡힐 텐데?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:우와아, 저 패러데우스 놈들 날개라도 달린 거 같아!
+RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님, 어떡할까요?
+()<Speaker>지휘관</Speaker>||<黑屏1>:......+이렇게 하자.

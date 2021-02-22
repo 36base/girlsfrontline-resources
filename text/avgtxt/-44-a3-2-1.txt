@@ -1,0 +1,86 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>160</BIN><BGM>BGM_Room</BGM>:......+갈라테아 요양원.+슈타지 요원들은 리오니의 방을 중심으로 삼엄한 경계망을 펼쳤고, 간호사는 물론 의사들마저도 복잡한 검문을 받아야만 그녀의 방에 접근할 수 있었다.+이는 물론 요양원 측의 강한 반발을 일으켰지만, J가 보기 드물게 강경한 태도로 대응해 결국 빈틈없는 "방어선"을 형성했다.
+()<Speaker></Speaker>||:한편, 리오니의 방에는...
+RPK16(0)<Speaker>RPK16</Speaker>||:오랜만이에요, 리오니 씨. 건강한 모습을 보니 정말 기쁘네요.
+()<Speaker></Speaker>||:유일하게 방에서 리오니의 곁을 지키도록 허락받은 것은 RPK-16이었다.+이 배정에, 리오니 본인은 불만이 한가득이었다.
+NPC-Leone(0)<Speaker>리오니</Speaker><Shake>0.1</Shake>||<SE1>AVG_21Winter_OperatingDisc_Drop</SE1>:가까이 오지 마! 떨어지란 말이야!
+()<Speaker></Speaker>||:겨우 회복되어 가기 시작한 손가락이 또다시 욱신거리는 것만 같았다.
+RPK16(2)<Speaker>RPK16</Speaker>||:네에? 그럼 어떡해요, 제가 당신의 밀착 경호원인데요.+멀리 있으면 당신을 지켜드릴 수 없잖아요?
+RPK16(2);NPC-Leone(0)<Speaker>리오니</Speaker>||:네 보호 따위 필요 없거든!?+안젤리아도 머리가 어떻게 된 거 아니야?!+다른 인형도 있으면서 왜 하필 너야?!+날 죽이고 싶으면 그냥 시원하게 죽이든가!
+RPK16(5)<Speaker>RPK16</Speaker>;NPC-Leone(0)||:이번 작전에는 강력한 돌격수가 필요하거든요.+AK-15와 AN-94가 빠질 순 없으니, 남은 건 저밖에 없죠.+그리고 저도 자원해서 당신의 경호를 맡았답니다.+당신과는 정말 좋은 친구가 될 수 있다고 생각해요.
+RPK16(5);NPC-Leone(0)<Speaker>리오니</Speaker>||:너도 머리에 문제 있지!?+슈타지는? 요양원에 따로 경비원도 있잖아! 누구든지 좋으니까 제발!+네 얼굴만은 보기 싫어!!
+RPK16(5)<Speaker>RPK16</Speaker>;NPC-Leone(0)||:자아 자아, 좀 진정하세요 리오니 씨.+지금 당신은 "레이디 그레이"에게 거역해서, 이것저것 따질 여유가 없는 상황이란 걸 기억하셔야죠.+아무리 제가 싫더라도, 지금 여기서 저보다 믿음직스러운 경호는 없는걸요.+제가 있는 한, 아무도 당신을 해칠 수 없어요.
+RPK16(5);NPC-Leone(0)<Speaker>리오니</Speaker>||:......
+RPK16(5)<Speaker>RPK16</Speaker>;NPC-Leone(0)||:적일 땐 한없이 무섭지만 동료가 되니 무척이나 든든한 사람. 엄청 매력적이란 생각 안 드세요?
+RPK16(5);NPC-Leone(0)<Speaker>리오니</Speaker>||:그게 당사자가 할 소리야?
+RPK16(4)<Speaker>RPK16</Speaker>;NPC-Leone(0)||:성실함은 미덕이랍니다♪
+RPK16(4);NPC-Leone(0)<Speaker>리오니</Speaker>||:...차라리 지금 죽고 말지.
+RPK16(5)<Speaker>RPK16</Speaker>;NPC-Leone(0)||:하지만 정말 그러진 못하죠. 저도 알 수 있어요.+지금의 당신은 삶에 대한 집착이 일반인만큼... 아니, 어쩌면 그 이상으로 강해졌다는 걸요.+대체 무슨 일이 있었길래 이렇게 달라졌을까요?+아... 알았다. 방아쇠를 당겼던 그 순간 후회했군요?+정말 운이 좋으시네요. 자멸을 추구했던 대다수의 인간들과는 달리, 당신은 두 번째 기회를 얻었잖아요.
+RPK16(5);NPC-Leone(0)<Speaker>리오니</Speaker>||:날 안다는 듯이 말하지 마, 이 미친 인형아!+대체 어디의 정신나간 과학자가 너 같은 AI를 만들어낸 거야?!
+RPK16(5)<Speaker>RPK16</Speaker>;NPC-Leone(0)||:저는 개인의 사상이나 기술이 아닌, 더욱 귀중한 것으로 만들어졌답니다.
+RPK16(5);NPC-Leone(0)<Speaker>리오니</Speaker>||:더욱 귀중한 거? 아 그래, 세상에서 가장 희귀한 독약 말이지?
+RPK16(5)<Speaker>RPK16</Speaker>;NPC-Leone(0)||:참 자세히도 물어보시네요, 이 기회에 인형 개발자로 전직하시게요?
+RPK16(5);NPC-Leone(0)<Speaker>리오니</Speaker>||:...너랑은 말이 안 통해.
+RPK16(4)<Speaker>RPK16</Speaker>;NPC-Leone(0)||:그런가요? 아쉽네요, 괜찮은 의견이라 생각했는데.
+RPK16(4);NPC-Leone(0)<Speaker>리오니</Speaker>||:그렇게 흥미 있으면 네가 직접 해보지 그래?+네가 직접 너처럼 똑같이 미친 친구를 잔뜩 만들면 되잖아.
+RPK16(4)<Speaker>RPK16</Speaker>;NPC-Leone(0)||:제가, 인형을요?+아뇨... 그렇게 말씀하시니 답해드리는데, 전 인형에 전~혀 관심이 없답니다.+오히려, 저는 당신처럼 되고 싶어요.
+RPK16(4);NPC-Leone(0)<Speaker>리오니</Speaker>||:나처럼...?+지금 나 놀리는 거야?
+RPK16(5)<Speaker>RPK16</Speaker>;NPC-Leone(0)||:그럴 리가요. 솔직히 당신은 놀려먹기엔 좀 시시해요.+정확히 말하자면, 전 인간이 되고 싶어요.
+RPK16(5);NPC-Leone(0)<Speaker>리오니</Speaker>||:인간이 되고 싶어...?
+RPK16(4)<Speaker>RPK16</Speaker>;NPC-Leone(0)||:인간처럼 유한한 육체로, 인간처럼 숨쉬고, 인간처럼 다치고, 인간처럼 죽음을 두려워하고 싶어요.+그러면 저도 더 완벽해질 수 있지 않을까요?
+NPC-Leone(0)<Speaker>리오니</Speaker>||:......
+()<Speaker></Speaker>||:리오니는 불안해하며 침을 꿀꺽 삼키고, 의자를 또 뒤로 밀었다.
+NPC-Leone(0)<Speaker>리오니</Speaker>||:...역시, 못 참겠어.+넌 진짜 소름 끼쳐! 인간이어도 상관없으니까 경호원 바꿔 달라고!
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:두 사람의 대화가 무르익었을 때, 누가 방 문을 노크했다.
+RPK16(0)<Speaker>RPK16</Speaker>||:J 씨네요.
+()<Speaker></Speaker>||:RPK-16은 담담하게 웃으며, 방금까지 아무 일도 없었다는 듯 태연하게 의자에서 일어났다.
+NPC-Keven(1)<Speaker>J</Speaker>||<SE1>AVG_Door_Open_Close</SE1>:은여우 아가씨, 요양원 원장 선생한테서 건물의 보안 시스템의 권한 코드를 제공받았습니다.+당신 드리려고 한걸음에 달려왔어요.
+()<Speaker></Speaker>||:J가 메모리 카드를 들고 방으로 들어왔다. 눈에 띄게 초췌해진 몰골의 그는 둘 사이의 이상한 분위기를 전혀 눈치채지 못했다.
+RPK16(4)<Speaker>RPK16</Speaker>||:고마워요, J 씨.+수고가 많으세요.
+()<Speaker></Speaker>||:메모리 카드를 받아든 RPK-16은 목의 케이블을 뽑아, 요양원 건물의 보안 시스템에 연결했다.+J는 그런 그녀를 기다리다 무심코 고개를 돌리니, 리오니가 무어라 형용하기 어려운 표정으로 그를 바라보고 있었다.
+NPC-Keven(1)<Speaker>J</Speaker>||:...표정 왜 그러십니까? 제 이에 뭐라도 꼈어요?
+RPK16(0)<Speaker>RPK16</Speaker>||:리오니 씨는 지금, 불편한 안전과 편안한 위험 사이에서 고민 중이시랍니다.
+()<Speaker></Speaker>||:RPK-16는 고개도 돌리지 않고 무표정으로 대답했다.
+NPC-Keven(1)<Speaker>J</Speaker>||:엥, 그게 뭔 뜻이죠? 수수께끼인가요?
+RPK16(4)<Speaker>RPK16</Speaker>||:그러니까, J 씨는 보기에 영 못 미덥다는 뜻이에요.
+NPC-Leone(0)<Speaker>리오니</Speaker>||:다른 옵션 없어? 딴 사람, 딴 사람 불러 봐!
+NPC-Keven(2)<Speaker>J</Speaker>||:아 뭔데요 진짜!?
+()<Speaker></Speaker>||:J는 갑자기 무시당한 기분에 황당해하면서 머리를 긁적였다.
+NPC-Leone(0)<Speaker>리오니</Speaker>||:어리버리해 보이는 건 둘째 치고... 나보다 더 심하게 다쳤잖아!+슈타지의 상황이 이렇게까지 어려워? 날 똑바로 지킬 생각이 있는 거야 없는 거야!
+NPC-Keven(2)<Speaker>J</Speaker>||:아 사람 좀 무시하지 마세요! 전 지금 동생처럼 소중한 부하를 잃고 심신이 만신창이인 상태로 일하는 중이란 말입니다!+안젤리아 씨가 대체 어디의 높으신 분이랑 일하는진 몰라도, 당신을 위해 우린 지금 갈라테아의 고위직이랑 정면으로 시비 붙었다고요!+여기에 우리 사람들 들여보내느라 얼마나 고생했는지 알아요!?
+NPC-Leone(0)<Speaker>리오니</Speaker>||:흥, 실패자나 자신이 고생했단 걸 강조하죠.+결과적으로 제게 무슨 일이 생기면 고생이고 뭐고 다 물거품이잖아요.
+NPC-Keven(2)<Speaker>J</Speaker>||:아니 이 아가씨가, 말 다 했어요!?
+RPK16(4)<Speaker>RPK16</Speaker>||:J 씨.
+NPC-Keven(2)<Speaker>J</Speaker>||:아 또 뭡니까! 말리지 마세요, 이런 세상 물정 모르는 과학자는 혼 좀 나야 정신을 차린다고요!
+RPK16(4)<Speaker>RPK16</Speaker>||:놈들이 왔어요.
+NPC-Keven(1)<Speaker>J</Speaker>||<BGM>BGM_Empty</BGM>:...예?
+()<Speaker></Speaker>||<震屏3><BGM>10230</BGM><SE1>Explode</SE1>:RPK-16의 말이 떨어지기가 무섭게, 바깥에서 폭발이 일어났다.
+NPC-Leone(0)<Speaker>리오니</Speaker><Shake>0.1</Shake>||:무, 무슨 일이야?!
+()<Speaker></Speaker>||:리오니는 놀란 고양이처럼 펄쩍 뛰었다.
+NPC-Keven(2)<Speaker>J</Speaker>||:무슨 일이야! 상황 보고해!
+()<Speaker>슈타지 요원 </Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>패러데우스입니다!</color>+<color=#00CCFF>선두에는 검은 니토가——</color>
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1><SE1>AVG_whitenoise</SE1>:재차 터진 폭음에 통신이 끊기자, J는 헤드셋을 벗고는 소총의 노리쇠를 당겼다.
+NPC-Keven(1)<Speaker>J</Speaker>||:이 자식들...
+RPK16(0)<Speaker>RPK16</Speaker>||:역시 왔군요.
+NPC-Leone(0)<Speaker>리오니</Speaker>||:뭐, 뭐야...
+()<Speaker></Speaker>||:방금까지만해도 가득했던 리오니의 기세는 감쪽같이 사라졌다.
+NPC-Leone(0)<Speaker>리오니</Speaker>||:저 지켜주는 거 맞죠!? 지켜준다고 약속했잖아요!+전 여기서 죽기 싫다고요!
+NPC-Keven(2)<Speaker>J</Speaker>||:알았으니까 여기 가만히 계세요!
+()<Speaker></Speaker>||:J는 씩씩대며 문을 박차고 나갔다.
+RPK16(3)<Speaker>RPK16</Speaker>||:아무래도 상황이 안 좋네요.
+RPK16(3);NPC-Leone(0)<Speaker>리오니</Speaker>||:뭣... 너, 너가 어떻게 알아?+슈타지가 사람 잔뜩 데리고 왔다며?
+RPK16(3)<Speaker>RPK16</Speaker>;NPC-Leone(0)||:첫째. 방금 J 씨의 통신으로 미뤄 보건대, 저쪽도 엄청 많이 몰려왔어요.+둘째. 인간은 수적 우위에 중무장이라도 하지 않는 한 패러데우스 부대에겐 상대가 안 돼요. 니토가 직접 지휘까지 한다면 두말할 것도 없죠.+요양원 자체의 보안 인형들도 성능이 나쁘진 않지만, 실전 경험이 너무 부족해요.+그리고 셋째. 라이트 씨가 봉변을 당해서, J 씨는 지금 전혀 침착하질 못해요. 냉정한 지휘를 기대할 수 없어요.
+NPC-Leone(0)<Speaker>리오니</Speaker>||:저... 정말이야?+그, 그럼 어떡하지?!
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:타이밍 좋게, 밖에서 또 무언가가 폭발하는 소리가 들려왔다. 조금 전보다 훨씬 가까운 위치였다.+결국 그레이에 대한 두려움이 RPK-16에 대한 두려움을 넘게 되자, 리오니는 눈앞의 구명줄을 단단히 붙잡았다.
+RPK16(4)<Speaker>RPK16</Speaker>||:저 기세라면... 느려봤자 5분이면 여기까지 들이닥치겠네요.+밝은 대낮에 폭발물까지 서슴없이 동원하다니 말이에요.+기뻐하세요, 리오니 씨. 그레이는 당신을 안젤리아보다 값어치 있다고 보나 봐요.
+NPC-Leone(0)<Speaker>리오니</Speaker>||:지금 농담할 때야!?+나... 난 살고 싶어서 너희한테 정보를 제공했단 말이야!+안젤리아는!? 그 여자 당장 불러! 너희 팀은 4인조라며!
+()<Speaker></Speaker>||:리오니는 방을 이리저리 돌아다녔다. 안절부절못하는 그녀의 떨림은 점점 눈에 보일 정도로 심해졌고, 이성을 유지하는 마지막 신경이 끊어지기 직전이었다.
+RPK16(5)<Speaker>RPK16</Speaker>||:네, 그렇죠.
+()<Speaker></Speaker>||:그때, RPK-16이 적절한 음량으로 리오니의 주의를 끌었다.
+RPK16(5)<Speaker>RPK16</Speaker>||:제 임무는 당신의 안전을 지키는 것... 무슨 일이 있어도 말이에요.+그러니, 리오니 씨...+우리, 도망갈까요?
+NPC-Leone(0)<Speaker>리오니</Speaker>||:도망...가자고...?
+()<Speaker></Speaker>||:초조해하던 발걸음을 멈추고, 리오니는 넋을 잃은 표정으로 RPK-16을 바라봤다.
+RPK16(5)<Speaker>RPK16</Speaker>||:네.
+()<Speaker></Speaker>||:RPK-16이 싱긋 웃었다. 저 악마의 얼굴이, 지금 이 순간만큼은 리오니에게 구원의 천사처럼 보였다.
+()<Speaker></Speaker>||:......
+()||<黑点1><BIN>10</BIN>:

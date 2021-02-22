@@ -1,0 +1,64 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>201</BIN><BGM>BGM_Room</BGM>:......
+()<Speaker></Speaker>||:조금 전.
+AN94(4)<Speaker>AN94</Speaker>||:......
+()<Speaker></Speaker>||:양옥의 정문 앞에서 몸을 숨긴 AN-94와 라이트는 적막함이 감도는 정원을 주시 중이었다.
+NPC-Light(0)<Speaker>라이트</Speaker>||:유사시가 아닌 이상 은폐를 유지해, 민간인의 시선을 끌지 말 것.+포착되는 공개 채널도 감시하되, 마찬가지로 주의를 끌 만한 행동은 삼가할 것.+그리고 각 인원은 5분마다 상황 보고하도록. 이상.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:라이트는 자리에 위치한 동료 요원들의 상황을 확인하고 통신을 종료했다.
+AN94(4)<Speaker>AN94</Speaker>||:......
+AN94(4);NPC-Light(0)<Speaker>라이트</Speaker>||:AN-94 씨?
+AN94(5)<Speaker>AN94</Speaker>;NPC-Light(0)||:무슨 일이지? 적인가?
+AN94(5);NPC-Light(3)<Speaker>라이트</Speaker>||:아뇨, 그저... 당신이 집중하지 못하는 것처럼 보여서요.+고민이라도 있으십니까?
+AN94(0)<Speaker>AN94</Speaker>;NPC-Light(3)||:무슨 의미지?
+AN94(0);NPC-Light(0)<Speaker>라이트</Speaker>||:AK-12 씨가, 잠시 이탈하게 된 후부터...+AN-94 씨의 상태가 안 좋아 보였습니다.
+AN94(0)<Speaker>AN94</Speaker>;NPC-Light(0)||:아니, 그렇지 않아.+설령 그렇다 하더라도 너희보다 임무 수행 능력이 떨어질 일은 없다.
+AN94(0);NPC-Light(3)<Speaker>라이트</Speaker>||:지적이 아니에요, 당신이 걱정되서 여쭤보는 겁니다.+리벨리온 여러분은 모두 사이가 정말 좋은 것 같네요.
+AN94(0)<Speaker>AN94</Speaker>;NPC-Light(3)||:인형에게 진정한 죽음이란 없다. 그리고, AK-12도 마지막 순간까지 전력을 다해 싸웠다.+나도 납득하는 결과이니, 원망 따윈 없다.+...굳이 말하자면, 그때 그녀를 돕지 못한 것이 아쉬울 따름이다.
+AN94(0);NPC-Light(0)<Speaker>라이트</Speaker>||:그렇군요...
+AN94(0)<Speaker>AN94</Speaker>;NPC-Light(0)||:그게 왜 신경쓰이지?
+AN94(0);NPC-Light(0)<Speaker>라이트</Speaker>||:네?+아... 조금 공감이 돼서요.
+AN94(5)<Speaker>AN94</Speaker>||:공감? 나한테?
+()<Speaker></Speaker>||:AN-94는 의아한 표정으로 물었다.
+NPC-Light(3)<Speaker>라이트</Speaker>||:AN-94 씨는 AK-12 씨와 자매처럼 보여요.+마침 저도 누나가 있어서, 그런 두 분을 보니 절로 저희 남매가 생각났습니다.
+AN94(0)<Speaker>AN94</Speaker>;NPC-Light(3)||:너라면 네 누나를 실망시킬 일 없겠지.
+AN94(0);NPC-Light(3)<Speaker>라이트</Speaker>||:하하... 저도 그렇길 바라요.
+AN94(0)<Speaker>AN94</Speaker>;NPC-Light(3)||:안젤리아도 K도, 요원으로서의 삶을 살아오면서 지금까지 살아남은 것은 단지 운이 좋아서가 아니야.+만약 죽음이 두렵다면, 애초부터 이 일에 발을 들여선 안 됐다.
+AN94(0);NPC-Light(0)<Speaker>라이트</Speaker>||:그럴 리가요, 저는 죽음이 두렵지 않습니다. 단지... 누나가 슬퍼할까 봐 무서워요.
+AN94(0)<Speaker>AN94</Speaker>;NPC-Light(0)||:정말 그것이 고민이라면... 그럼 최선을 다해 살아남도록.+넌 AK-12처럼 되살아날 수 없는 몸이잖은가.
+AN94(0);NPC-Light(3)<Speaker>라이트</Speaker>||:이미 한 번 되살아났는걸요, 그걸로 충분합니다.+게다가――
+AN94(5)<Speaker>AN94</Speaker>||<BGM>BGM_Empty</BGM>:쉿.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AN-94가 돌연 손을 들어 라이트의 말을 끊었다.
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:그 경고에, 라이트는 얼굴의 미소를 지우지 않으면서 신속히 무기를 들었다.
+()<Speaker></Speaker>||<SE1>AVG_wind_grass</SE1>:......+정원은 여전히, 날벌레의 소리마저 들리지 않을 정도로 고요했다.
+NPC-Light(3)<Speaker>라이트</Speaker>||:A팀, 보고.+...B팀?
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:통신기 너머도 고요했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그제서야 라이트의 얼굴에서 미소가 사라졌다. 그리고 그 즉시 정신을 집중해, AN-94와 함께 주위를 경계했다.
+NPC-Light(0)<Speaker>라이트</Speaker>||:...언제 눈치채셨습니까?
+AN94(0)<Speaker>AN94</Speaker>;NPC-Light(0)||:이전의 임무에서 기습당한 적이 있다. 그 후로 주변의 기척을 살피는 법을 배웠지.+정원의 벌이 사라졌다.
+AN94(0);NPC-Light(2)<Speaker>라이트</Speaker>||:벌이요?
+AN94(0)<Speaker>AN94</Speaker>||:그래, 벌.
+()<Speaker></Speaker>||:라이트가 눈을 가늘게 뜨고 넓은 정원을 유심히 살폈다.+과연, 방금까지만 해도 잡초가 무성한 화단의 들꽃들 사이를 날아다니던 벌들이, 지금은 살충제라도 맞은 것처럼 바닥에 떨어져 경련을 일으키고 있었다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:슈욱!
+AN94(2)<Speaker>AN94</Speaker>||:위험해!
+()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1>:AN-94가 라이트를 밀치기가 무섭게, 회색의 잔상이 허공을 가르며 두 사람이 숨어있던 나무를 깔끔하게 동강냈다.
+NPC-MrsGray(4)<Speaker>？？</Speaker>||<BGM>10130</BGM>:호오.
+NPC-Light(1)<Speaker>라이트</Speaker>||:닥터 그레이...!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타탕!
+()<Speaker></Speaker>||:옆구르기로 다른 엄폐물에 숨은 AN-94가 망설임 없이 방아쇠를 당겼고, 총은 불을 뿜었다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:티잉!+하지만 금속과 금속이 부딪히는 맑은 소리가 났다. 그레이의 가녀린 몸을 감싼, 방패처럼 거대한 꼬리에 막힌 것이었다.
+NPC-MrsGray(4)<Speaker>그레이</Speaker>||:멋지군.
+()<Speaker></Speaker>||:그레이는 AN-94의 움직임에 찬사를 보냈다.
+NPC-Light(1)<Speaker>라이트</Speaker>||<SE1>AVG_tele_connect</SE1>:습——
+NPC-Ange(0)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>라이트?</color>
+NPC-Light(1)<Speaker>라이트</Speaker>||:습격입니다!+패러데우스예요!+안젤리아 씨! 빨리 나오세요! 어서요!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1><BGM>10130</BGM>:슈욱!+라이트가 허겁지겁 뒤로 몸을 던졌지만, 육안으로 쫓을 수 없는 속도의 칼날 꼬리에 오른손을 베이고 말았다.
+NPC-Light(1)<Speaker>라이트</Speaker>||:으윽...!+앗, 통신기가!
+()<Speaker></Speaker>||:찰나의 섬광에 베인 고통에, 라이트는 그만 통신기를 떨어뜨리고 말았다.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_OperatingDisc_Drop</SE1>:그리고 다시 주으려 손을 뻗기도 전에, 그레이의 예리한 꼬리에 통신기는 두 동강 났다.
+AN94(2)<Speaker>AN94</Speaker>||:라이트! 도망쳐라!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:AN-94가 그레이에게 제압 사격을 가했다.+그와 동시에, 그레이의 뒤에서 니토 몇 명과 패러데우스 병사들이 모습을 드러냈다.+그렇다면 동료 요원들은...?
+NPC-Light(1)<Speaker>라이트</Speaker>||<SE1>Heartbeat</SE1>:상황은 절망적인가...
+()<Speaker></Speaker>||:자책감이 온전히 들기도 전에, 다른 무시무시한 생각이 먹물처럼 라이트의 마음에 퍼졌다.+어째서 그레이가 안젤리아가 여기 온 것을 알았지?+왜 미리 준비한 것처럼 보이지?+...함정?
+NPC-Light(1)<Speaker>라이트</Speaker>||:안젤리아 씨!
+()<Speaker></Speaker>||:라이트는 적의 공격으로 꼼짝 못하는 AN-94를 흘깃 보곤, 이를 악물며 양옥으로 달음박질쳤다.
+()||<黑点1><BIN>10</BIN>:

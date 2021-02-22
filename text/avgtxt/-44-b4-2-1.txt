@@ -1,0 +1,102 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>322</BIN><BGM>10065</BGM>:......+몇 분 전, 폐공장의 입구.
+VP1915(0)<Speaker>페로사</Speaker>||:지휘관? 지휘관!
+Fedorov(0)<Speaker>표도로프</Speaker>||:아직도 연락이 안 되나요?
+VP1915(0)<Speaker>페로사</Speaker>||:데린저?
+Derringer(0)<Speaker>데린저</Speaker>||:연결이 안 돼, 저 안이 무슨 이세계라도 된 것처럼 아무 신호도 안 나오고 안 들어가.
+Kolibri(0)<Speaker>콜리브리</Speaker>||:내 로봇 벌새들도 안으로 들어가고 금방 연결이 끊어져버렸어!+이래선 정찰도 못 하는데!
+VP1915(0)<Speaker>페로사</Speaker>||:큰일이다...
+()||:페로사는 다른 통신기를 집었다.
+VP1915(0)<Speaker>페로사</Speaker>||:404, 여기는 그리폰 소대.+UMP45, 내 말 들려?
+VP1915(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>어, 아주 잘 들려.</color>+<color=#00CCFF>우리도 연결 시도 중인데...</color>+<color=#00CCFF>지휘관만이 아니라, AR팀이랑 댄들라이와도 통신이 안 돼.</color>
+VP1915(0)<Speaker>페로사</Speaker>;UMP45Mod(0)<通讯框>||:내부에 고성능 교란기가 있는 게 분명해. 이건 함정이야.+분명 지휘관 쪽도 상황이 발생했을 테고.
+Savage99(0)<Speaker>새비지</Speaker>;UMP45Mod(0)<通讯框>||:지원하러 갈까요? 하지만, 통신도 안 되는데, 어떻게 그들을 찾아내죠?
+VP1915(0)<Speaker>페로사</Speaker>;UMP45Mod(0)<通讯框>||:...방법은 있어.+하지만 통신도 어떻게든 복구해야 해.
+VP1915(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>그건 우리한테 맡겨.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>넌 어서 가서 지휘관을 도와줘.</color>
+VP1915(0)<Speaker>페로사</Speaker>||:...그래, 그럼 너희에게 맡길게.
+()||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
+VP1915(0)<Speaker>페로사</Speaker>||<黑屏1>:그리폰 소대, 가자!
+()||<黑屏2><BIN>167</BIN>:UMP45도 통신을 종료하고서, 총을 들고 눈앞의 통풍구 뚜껑을 발로 차 열었다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:가자, 일할 시간이야.
+UMP45Mod(0);HK416Mod(0)<Speaker>HK416</Speaker>||:그리폰 소대랑 같이 안 들어가?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:우린 다른 임무니까.+잘하는 일도 다르고 말이지.
+UMP9Mod(0)<Speaker>UMP9</Speaker>;HK416Mod(0)||:뭘 해야 해?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:그야 당연히 우리가 제일 잘하는 일이지, 통신 복구하는 거.+지휘관도 우리가 그래 주길 바랄 거야.
+UMP45Mod(0);HK416Mod(0)<Speaker>HK416</Speaker>||:지휘관이 상대가 이렇게 신호를 차단할 거라 예상했다고?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:예상 못했을 이유가 어딨어?+이런 지하 기지에 매복한다면, 지휘관도 먼저 적의 통신망부터 차단할 텐데.+왜 지휘관이 우릴 안 보이는 곳에 숨겼겠어?+당연히 이런 때를 대비해서지.
+UMP45Mod(0);HK416Mod(0)<Speaker>HK416</Speaker>||:알았어, 그럼 다른 질문.+왜 문으로 안 가?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:댄들라이한테 공유받은 지도를 보면, 여기 바로 아래는 생태 구역이야.+제어실로 가려면 이 길이 제일 빨라.+물론 제어실에 가더라도 교란기를 처리할 수 있을지는 미지수지만, 목표 없이 돌아다니는 것보단 낫잖아?
+UMP9Mod(0)<Speaker>UMP9</Speaker>;HK416Mod(0)||:이 통풍구가 넓어서 안이 잘 보여서 다행이야!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:그래도 경계를 늦추지 마, 무슨 괴물이 우릴 기다리고 있을지 모르니까.
+UMP45Mod(0);HK416Mod(0)<Speaker>HK416</Speaker>||:말할 때는 말만 해, 내 머리 두드리지 말고.
+HK416Mod(0)<Speaker>HK416</Speaker>||:G11, 네 그 박스는...
+G11Mod(0)<Speaker>G11</Speaker>||:간신히 들어간다!
+HK416Mod(0)<Speaker>HK416</Speaker>||<黑点1>:맘대로 해라...+보기만 해도 골때리네 진짜...
+()||<黑点2><BIN>229</BIN><BGM>BGM_Empty</BGM>:404 소대는 통풍구로 들어갔다.
+HK416Mod(0)<Speaker>HK416</Speaker>||<BGM>BGM_Sneak</BGM>:썩은내...+잠수함 기지 때보다 더 지독해.+패러데우스 놈들, 뭘 그리 시체 갖고 놀길 좋아한대?
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:와우, 좀비 해저드 2064!
+G11Mod(0)<Speaker>G11</Speaker>||:좀비?! 안에 좀비 있어!?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:어쩌면 있을지도~♪
+HK416Mod(0)<Speaker>HK416</Speaker>||:괜한 소리 마.+좀비고 뭐고, 이런 데에까지 ELID가 있겠――
+()||:끼이익——+난데없이 손톱으로 긁는 소리가 들려와, HK416의 말을 끊었다.
+UMP9Mod(4)<Speaker>UMP9</Speaker>||:에이, 설마...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:쉬잇.
+()||<BGM>BGM_Empty</BGM>:UMP45가 총을 들고, 자동문에 다가갔다.
+()||<黑点1><SE1>AVG_door_elecport</SE1>:그러자 자동문이 천천히 열려, 생태 구역의 모습이 훤히 눈에 들어왔다.
+UMP9Mod(6)<Speaker>UMP9</Speaker>||<黑点2><BIN>321</BIN>:이거 모두...
+HK416Mod(0)<Speaker>HK416</Speaker>||:......
+G11Mod(0)<Speaker>G11</Speaker><Shake>||<BGM>m_avg_labyrinth</BGM>:좀비다!!!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:조용히 해. G11, 플러그 저기다 꽂아 봐.
+G11Mod(0)<Speaker>G11</Speaker><Shake>||:내 소중한 전력을 이런 데다 낭비하면 어떡해...
+HK416Mod(0)<Speaker>HK416</Speaker>||:이게... 다 뭐야?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:......+세대교체 시도의 부산물...이라 보면 되려나.
+()||:생태 구역에는 거대한 유리관들이 나란히 늘어서 있었다.+각각의 유리관들의 포르말린 용액에 담긴 이형의 소녀들은, 숨이 멎은 지 얼마 안 된 것처럼 보였다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:......
+UMP9Mod(6)<Speaker>UMP9</Speaker>||:언니...
+HK416Mod(0)<Speaker>HK416</Speaker>||:조심해, 45.
+()||:손톱으로 벽을 긁는 소리가 나는 방향을 따라 간 UMP45는, 구석의 한 유리관 앞에 섰다.+관 속의 소녀는 이미 신체의 절반 이상이 기계로 대체된 "괴물"이었다.+등의 변형된 척추에서 거대한 기계팔이 뻗어나와 있었지만, 인간의 연약한 골격으로 이토록 무거운 것을 감당할 수 있을 리가 만무했다.+소녀의 두 눈은 이미 초점이 없었고, 남은 동력과 생물의 본능으로 하염없이 유리벽을 긁어대기만 했다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:......
+G11Mod(0)<Speaker>G11</Speaker>||:아직 살아있는 거지...?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:이런 꼴인데, 죽은 거나 다름없지.
+()||<SE1>AVG_weapon_reload</SE1>:UMP45는 총을 겨눴다.
+()||<SE1>AVG_rifle_finalshot_n</SE1>:타앙!+날카로운 유리 조각들이 흩뿌려졌고, 소녀는 더는 움직이지 않았다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑点1>:이름은 모르지만, 잘 자.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑点2>:...다시 일로 돌아갈까.
+HK416Mod(0)<Speaker>HK416</Speaker>||:이게 대체 다 무슨...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:패러데우스가 니토를 개량하는 과정에서 나온 실패작들 같아.+그중 눈에 띄는 샘플들만 따로 여기다 모아 보관한 거겠지.
+UMP45Mod(0);HK416Mod(0)<Speaker>HK416</Speaker>||:......+이게 겨우 일부라니...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:그래, 놈들이 얼마나 실험을 자행했는지 본인들 말고 또 누가 알겠어.+어쩌면 안나 같은 사례는 그저 빙산의 일각에 불과했던 거지.+좀 불공평하겠지만... 아무래도 안나는 정말 운이 좋은 케이스인 거 같아.
+UMP45Mod(0);HK416Mod(0)<Speaker>HK416</Speaker>||:......
+UMP45Mod(0)<Speaker>UMP45</Speaker>);HK416Mod(0)||:똥 씹은 표정 짓지 말고 기분 풀어.+...이제 겨우 시작인걸.+앞으로 무슨 괴물이 튀어나올지 몰라.
+UMP9Mod(6)<Speaker>UMP9</Speaker>);HK416Mod(0)||:앞으론 패러데우스한테 방아쇠를 당길 때 기분이 이상할 거 같아...
+UMP45Mod(0)<Speaker>UMP45</Speaker>);HK416Mod(0)||:다르게 생각해 봐, 그들을 해방시켜 주는 거라고. 그럼 꺼려지진 않겠지?+물론, 녀석들의 뇌를 정상적으로 되돌릴 방법이 생기면 본인의 의견을 물어보던가.
+UMP9Mod(6)<Speaker>UMP9</Speaker>);HK416Mod(0)||:으윽... 그건 관둘래.
+UMP45Mod(0);HK416Mod(0)<Speaker>HK416</Speaker>||:이 주변, 신호가 느껴지질 않아.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:들어왔을 때부터 차단됐거든.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:마치... 탈린에서 봤던 이성질체들의 차단망 같아.
+UMP9Mod(6)<Speaker>UMP9</Speaker>||:이렇게 광범위하게...
+G11Mod(0)<Speaker>G11</Speaker>||:여긴 자기 되게 불편하네...
+()||:G11이 여기저기 보이는 소형 장치 중 하나에 기대, 졸린 눈을 비볐다.
+HK416Mod(0)<Speaker>HK416</Speaker>||:그런 데 기대니까 당연히 불편하지! 네 박스에 누워 이 밥통아!
+UMP9Mod(6)<Speaker>UMP9</Speaker>||:그러나저러나, 이 장치들은 또 뭐야?+한두 개도 아닌데, 가로등은 아닐 테고.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:뜯어보면 알겠지.
+()||:UMP45가 G11에게 다가가, 총을 내려놓고 그녀가 기댔던 소형 장치의 외장을 뜯어냈다.+그러자, 장치 안의 복잡한 회로가 드러났다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...가로등은 아니네.+이런 회로는 나도 처음 봐.
+HK416Mod(0)<Speaker>HK416</Speaker>||:나도 볼래.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:우와아... 나도 진짜 처음 보는 구조야.+이거 대체 어떤 원리지?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:기다려 봐...
+()||:UMP45는 얼굴을 가까이 대고 자세히 살펴봤다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:이쪽 부분. 잠수함 기지에서 봤던 니토의 억제기 설계랑 좀 비슷하지 않아?
+HK416Mod(0)<Speaker>HK416</Speaker>||:뭐? 잠깐, 그럼 설마...
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:억제기의 강화판?+아, 알겠다! 이쪽의 이 회로판은 증폭기야!+이게 교란 신호를 방출하고 있어!
+HK416Mod(0)<Speaker>HK416</Speaker>||:고작 우리의 통신을 차단하려고 이런 걸 잔뜩 설치했다고?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:아니...
+()||:UMP45의 눈이 가늘어졌다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:우리를 노린 게 아니야.+놈들에게, 이게 우리의 통신을 차단하느냐는 아무 상관 없어.+이건... "녀석"을 상대하려고 만든 거야.
+()||:UMP9과 HK416의 표정이 급변했다.
+HK416Mod(0)<Speaker>HK416</Speaker>||:그러니까...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:신호가 단절돼서 통신이 끊어지는 건 우리에겐 솔직히 사소한 문제지.+인형의 작전 능력에 좀 영향이 가고, 합류가 늦어지는 정도?+겨우 그걸 위해서라면 이 정도 수고를 들일 필요 없어.+하지만 그 녀석은... 네트워크에서 단절되면, 순식간에 짐덩이 신세가 되어버리지.
+UMP9Mod(4)<Speaker>UMP9</Speaker>||:댄들라이...!
+HK416Mod(0)<Speaker>HK416</Speaker>||:놈들의 목적은 댄들라이구나!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:더 서둘러야겠는걸.+놈들의 목적이 댄들라이였다니, 사전 준비가 전부 무용지물이 되어 버렸어.+416, G11한테 다시 전원 꽂아.+이것들이 여기 있으니, 매복도 예상보다 훨씬 성가실 게 분명해.
