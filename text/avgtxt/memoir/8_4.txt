@@ -1,0 +1,87 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>89</BIN>:...창고.
+PM(0)<Speaker>마카로프</Speaker>||:......+하여간 대단해, 넌 어떻게 매번 찾기 힘든 곳에 숨니?
+()||:마카로프는 드디어 찾아낸 알리타를 들어 안았다.+그리곤 먼지투성이가 된 알리타를 옷깃으로 닦아 주었다.
+()<Speaker>지휘관</Speaker>||:마카로프...
+PM(0)<Speaker>마카로프</Speaker>||<黑屏1>:알리타를 찾아낸 사람이 지휘관이라 들었는데, 자세한 얘기를 들려 줄 수 있을까?+녀석의... 마지막이 어땠는지, 알고 싶어.
+()||<黑屏2><BIN>8</BIN><回忆><Night><BGM>BGM_Moon</BGM>:이틀 전, 늦은 밤의 지휘실.
+()<Speaker>지휘관</Speaker>||:졸려 죽겠다... 대체 언제까지 야근해야 하는 거냐고...+스프링필드, 커피 좀 부탁해.
+()||:......
+()<Speaker>지휘관</Speaker>||:...퇴근했나. 하는 수 없지, 간만에 내가 직접――?
+()||:그때, 따뜻한 커피 한 잔이 내 손 옆에 불쑥 나타났다.+그 방향을 따라 고개를 천천히 돌리니, 처음 보는 자그마한 로봇이 때마침 내 탁상에서 뛰어내리려는 것이 보였다.+나는 반사적으로 그걸 덥석 붙잡았다.
+()<Speaker>지휘관</Speaker>||:응...? 너무 졸려서 헛것이라도 보이는 건가...+넌 누구니? 우리 기지에 너 같은 기종의 로봇은 없는 걸로 아는데?
+NPC_Golyat(5)<Position>0,150</Position><Speaker>？？？</Speaker>||:으악! 붙잡혔다!+놔 주세요, 전 평범한 서비스 로봇이에요! 아, 이름은 알리타예요!
+NPC_Golyat(5)<Position>0,150</Position><Speaker>지휘관</Speaker><同时置暗>||:서비스 로봇...?+G36이 구매했나? 몰랐네...
+NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:어어...+그럼 계속 일하겠습니다! 좋은 밤 되세요!
+()||<黑点1>:동글동글한 이 녀석은 내 다리를 타고 내려가더니, 바닥을 청소하고 창문까지 닦기 시작했다.
+NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||<黑点2>:휴우... 청소 끝났습니다!+알리타의 어어업무를 평가해 주세요!
+()<Speaker>지휘관</Speaker>||:...? 아, 응, 아주 잘했어.
+()||:나는 오늘 밤의 일곱 잔째 커피를 마시고 알리타에게 고개를 끄덕였다.+이렇게 기특한 물건이라면 G36이 몇 개 더 구매해도 좋겠다.
+NPC_Golyat(6)<Position>0,150</Position><Speaker>알리타</Speaker>||:그럼 알리, 알, 알리타는...+이만 실례하하하겠습니다...
+NPC_Golyat(6)<Position>0,150</Position><Speaker>지휘관</Speaker><同时置暗>||:어... 너 괜찮니?
+()||:돌연 어딘가 이상해진 알리타는 문으로 나가지 못하고 옆의 벽에 부딪혔다.
+NPC_Golyat(5)<Position>0,150</Position><Speaker>알리타</Speaker>||:어라...? 이쪽이... 아니네...
+()||<黑点1>:그리고 몇 번이나 벽에 몸을 부딪쳤다.
+()||<黑点2><BIN>97</BIN>:난 보다 못해 내보내 주려고 알리타를 잡았지만, 비정상적으로 뜨거운 동체의 온도에 화들짝 손을 뗐다.
+NPC_Golyat(4)<Position>0,150</Position><Speaker>지휘관</Speaker><同时置暗>||:앗 뜨거! 냉각 쪽에 문제 생긴 거 아니야? 공방으로 데려가 줄까?
+NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:괜찮괘괜찮습니다...+돌, 돌아가야 하는 곳이 있어, 있어서...
+()||<黑点1>:간신히 문을 나선 알리타는 비틀대며 어디론가 걸어갔고, 그 동체에서 피어오르는 연기에 나는 조바심이 들어 그 뒤를 따랐다.
+()||<黑点2><BIN>6</BIN><黑点1>:알리타는 그런 상태로도 끈기 있게 먼 길을 걸어...
+()||<黑点2><BIN>356</BIN>:마침내 기지 인근의 작은 오두막에 도착했다.
+NPC_Golyat(4)<Position>0,150</Position><Speaker>지휘관</Speaker><同时置暗>||:여긴...? 알리타, 여기서 누굴 기다리니?
+NPC_Golyat(6)<Position>0,150</Position><Speaker>알리타</Speaker>||:네! 여기서 기다...겠다... 약속...어요...+도, 돌아오면... 칭찬받...다고 자랑... 거예요!+헤헤헤...
+()||:밖은 깜깜해서 달빛 외엔 아무것도 보이지 않았지만, 알리타는 밝은 미소로 창밖을 바라보며 대답했다.
+NPC_Golyat(4)<Position>0,150</Position><Speaker>지휘관</Speaker><同时置暗>||:기다리는 사람이 누군데?
+NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:인간은... 평생을 드, 들여서 자기만의 반짝임을...+평생 함께할 사사사람을 찾는...고 들었어요.
+NPC_Golyat(4)<Position>0,150</Position><Speaker>지휘관</Speaker><同时置暗>||:......
+NPC_Golyat(6)<Position>0,150</Position><Speaker>알리타</Speaker>||:저는 차, 참 행운아예요...+흔흔흔해 빠진 ......인데...
+()<Speaker>지휘관</Speaker>||:알리타?
+()||<黑屏1>:알리타는 대답하지 않았다.
+()<Speaker>지휘관</Speaker>||<黑屏2><关闭蒙版><BIN>89</BIN>:나중에 G36한테 확인하고 나서야 얘가 우리 기지의 인원이 아니란 걸 알았지.+G36이 "이 일은 엄중히 처리하겠다" 했지만, 알리타가 나쁜 아이는 아니란 생각이 들어서 창고에다 뒀어.
+PM(0)<Speaker>마카로프</Speaker>||:...고마워, 지휘관.
+()<Speaker>지휘관</Speaker>||:그럼 수수께끼도 풀렸겠다, 원주인한테 돌려줘야겠지.+조심해서 데려가렴.
+PM(0)<Speaker>마카로프</Speaker>||:......응.+고마워.
+()||<黑屏1><BGM>BGM_Empty</BGM>:마카로프는 그대로 알리타를 안고 창고를 떠났다.+나갈 때까지도 계속 고개를 푹 숙여서, 그녀의 표정은 볼 수 없었다.
+NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||<黑屏2><回忆><BIN>356</BIN><BGM>GF_21winter_avg_mahaline</BGM>:에헴! "알리타"가 무슨 뜻인지 알았어요!
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(4)<Position>0,150</Position>||:뭔데?
+PM(0);NPC_Golyat(6)<Position>0,150</Position><Speaker>알리타</Speaker>||:화성어의 음역이래요!+"별이 발하는 마지막 가시광선"이란――
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(6)<Position>0,150</Position>||:화성어? 그런 게 정말 존재하기는 하는 걸까나...
+PM(0);NPC_Golyat(5)<Position>0,150</Position><Speaker>알리타</Speaker>||:그걸 어떻게 알아요?
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(5)<Position>0,150</Position>||:보거나 들은 사람이 없으니까.
+PM(0);NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:하지만 미래도 본 사람이 없잖아요.+마카로프 님도 미래가 반드시 온다는 걸 믿고, 그 미래를 또렷하게 볼 방법을 찾는 거 아니었어요?
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(4)<Position>0,150</Position>||:......
+PM(0);NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:제 생각에는요...
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(4)<Position>0,150</Position>||:네 생각에는, 뭐?
+PM(0);NPC_Golyat(6)<Position>0,150</Position><Speaker>알리타</Speaker>||:미래만 신경쓰면 주위를 보지 못한다고 생각해요.+오늘 나비가 몇 마리나 지나갔는지도 모르고, 지붕 밑 제비가 몰래 지은 둥지에 새끼가 몇 마리나 있는지도 모르고, AAT 님이 과자를 몇 개나 훔쳐 먹었는지도 모르고...
+()||:마카로프는 대꾸하지 않고, 그저 미소를 지으며 알리타를 바라봤다.
+NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:아앗! 또 "이게 또 무슨 헛소리래"라는 얼굴! 너무해요!+오늘 일과 시작할 거예요!
+()||<黑屏1>:알리타는 그대로 탁상에서 폴짝 뛰어내려, 스스로 정한 하루의 일과를 시작했다.+마카로프도 손에 든 책을 덮고, 창밖을 보았다. 때마침 제비가 둥지로 돌아와, 새끼들에게 먹이를 주고 있었다.
+()||<黑屏2><关闭蒙版><BIN>22</BIN>:마카로프는 알리타를 안은 채 공방의 업그레이드 캡슐에 누웠다.
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:정말 결심했니, 마카로프?+시작하면 되돌릴 수 없어.
+PM(0)<Speaker>마카로프</Speaker>||:응. 시작해 줘.
+()||:마카로프는 눈을 감았다. 다시 눈을 뜰 때면, 그녀의 마인드맵 밑바닥엔 언제나 재잘재잘 떠드는 그 자그마한 녀석이 자리잡을 것이다.+아무짝에도 소용없는데도, 손님이 올 일 없을 텐데도, 매일 "직장"을 열심히 청소하고 고치며 하루하루 열심히 살아가던 그 녀석이.
+PM(0)<Speaker>마카로프</Speaker>||:어떻게 생각해 봐도 짜증밖에 안 나는 녀석인데...
+()||<白屏1>:마카로프는 보일듯 말듯 희미하게 미소지었다.
+PMMod(0)<Speaker>마카로프</Speaker><Position>0,100</Position>||<白屏2><BIN>82</BIN>:나 왔어.
+AAT52(0)<Speaker>AAT52</Speaker><Shake>||:우와아아아!!!+마카로프 엄청 멋있어졌다아아!!!
+92type(0)<Speaker>92식</Speaker>||:하아, 난 언제쯤에나 개조받을 수 있으려나?
+StenMK2Mod(0)<Speaker>스텐</Speaker><Position>0,70</Position>||:부럽다아...
+PMMod(0)<Speaker>마카로프</Speaker><Position>0,100</Position>||:그만 그만, 알리타부터 내려놓고.
+StenMK2Mod(0)<Speaker>스텐</Speaker><Position>0,70</Position>||:......
+()||:마카로프는 다신 깨어나지 않을 알리타를, 자신의 침대 머리맡에 살며시 내려놨다.
+92type(0)<Speaker>92식</Speaker>||:알리타... 영영 못 깨어나는 건가요?
+AAT52(0)<Speaker>AAT52</Speaker>||:그 생각할 때마다 엄청 우울해요...+우리도 언젠간 저렇게 되겠지? 흑흑...
+StenMK2Mod(0)<Speaker>스텐</Speaker><Position>0,70</Position>||:그만해 AAT, 나까지 우울해지잖아...
+92type(0)<Speaker>92식</Speaker>||:이게 또... 그래도 신경은 쓰이네요. 마카로프, 우린 과연 미래에 어떻게 될까요?
+PMMod(0)<Speaker>마카로프</Speaker><Position>0,100</Position>||:그야 나도 모르지.
+()||:마카로프는 태연하게 침대에 누웠다.
+92type(0)<Speaker>92식</Speaker>||:어라? 얼마 전만 해도 이런 주제로 생각이 많지 않았어요?
+AAT52(0)<Speaker>AAT52</Speaker>||:그러게요, 어째 오늘은 별 말 없네요?
+StenMK2Mod(0)<Speaker>스텐</Speaker><Position>0,70</Position>||:알리타 때문에 기분이 안 좋아서 아닐까요...?
+()||:마카로프는 텅 빈 천장을 바라보다, 피식 웃었다.
+PMMod(2)<Speaker>마카로프</Speaker><Position>0,100</Position>||:나 자신의 존재 이유를 고민하고, 평생 닿지도 못할 것에 닿으려고 시간을 너무 많이 허비했지 뭐야.+인형이란 무엇인지 이해하지도 못하면서, 주제넘게 미래를 예측하려 했어.
+92type(0)<Speaker>92식</Speaker>||:마카로프...
+PMMod(2)<Speaker>마카로프</Speaker><Position>0,100</Position>||:어쩌면, 우리의 존재 이유에 깊은 의미 따위 없을지도 몰라. 그냥, "우리"로서 슬기롭게 잘 살아가면 그만일지도 몰라.+추운 겨울엔 서로 따뜻하게 안아 주고, 선선한 가을엔 낙엽을 치우고, 더운 여름엔 그늘 아래로 햇빛을 피하고, 따뜻한 봄에는 꽃향기를 맡끽하는 거야.+...이 작은 녀석처럼.
+AAT52(0)<Speaker>AAT52</Speaker>||:우에에엥 마카로프――!!
+StenMK2Mod(0)<Speaker>스텐</Speaker><Position>0,70</Position>||:훌쩍... 갑자기 그런 말이나 하고!
+()||<黑屏1>:모두가 와락 부둥켜안았고, 마카로프도 소대원들을 꼬옥 안아 주다 돌연 슬쩍 고개를 기울였다.+침대맡의 알리타가, 그녀에게 윙크한 것만 같았다.

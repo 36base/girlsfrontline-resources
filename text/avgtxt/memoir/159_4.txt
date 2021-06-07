@@ -1,0 +1,188 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BGM>BGM_Brain</BGM>:진흙의 비린내와 거친 숨소리... 어두운 동굴 안에서 촛불이 일렁일 때마다 그림자가 흔들렸다.+레퀴엠에 가세한 사람들은 최심부에서 밖으로 진흙을 퍼 나르며, 화이트존의 지하 터널을 향해 나아갔다.
+()<Speaker>잡음 가득한 소리</Speaker>||:상황은?
+()<Speaker>무장인원</Speaker>||:순조롭습니다. 이제 마지막 단계입니다.
+()<Speaker>잡음 가득한 소리</Speaker>||:우릴 방해하려는 심판자들의 움직임은?
+()<Speaker>무장인원</Speaker>||:흐흐흐, 그 얼간이들은 꿈에도 모를 겁니다.
+()<Speaker>잡음 가득한 소리</Speaker>||:좋아, 이제 마지막 자물쇠를 열 때다.+동지들이여! 신성한 만종의 소리가 열쇠로 화해, 너희를 옭아맨 사슬을 끊을 때가 왔다!+내 약속하노니, 이것이 레퀴엠의 처음이자 마지막 발걸음이 되리라!
+()<Speaker>현장의 난민들</Speaker>||<SE1>AVG_20Winter_People_Panic</SE1><黑屏1>:레퀴엠! 레퀴엠! 레퀴엠!
+()||<黑屏2><BIN>8</BIN><BGM>BGM_Room</BGM>:그리폰 지휘실.+카리나와 M1887은 상황 모니터를 사이에 두고 "레퀴엠" 관련 정보를 분석하는 중이었다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>;M1887(2)||:으음... 다시 분석해 봐도 결과가 똑같아. 놈들의 채널, 생각보다 꽤 단순한걸?
+NPC-Kalin(0);M1887(2)<Speaker>M1887</Speaker>||:자세한 위치는?
+NPC-Kalin(0)<Speaker>카리나</Speaker>;M1887(2)||:지난번 폭탄 테러 때 얻은 음성의 추적 결과와 대조해 보면, 위치는 그린존 내 버려진 방공호가 확실해.+다만 그들이 말한 "마지막 자물쇠"는 뭔지 모르겠어. 하지만 그걸 여는 "열쇠"가 아주 중요한 물건인 게 분명해.
+NPC-Kalin(0);M1887(2)<Speaker>M1887</Speaker>||:폭탄일까?
+NPC-Kalin(0)<Speaker>카리나</Speaker>;M1887(2)||:정황상 그럴 가능성이 높아. 경로상의 암벽을 파괴해야만 화이트존의 지하 터널로 들어갈 수 있을 테니까.
+NPC-Kalin(0);M1887(2)<Speaker>M1887</Speaker>||:좋았어. 놈들의 본거지를 찾아냈으니, 즉시 출동해도 되지?
+NPC-Kalin(0)<Speaker>카리나</Speaker>;M1887(2)||:안 돼, 이 일은 그 특수작전팀 관할이라 허가 없이는 그들한테 정보 제공밖에 할 수 없어.
+NPC-Kalin(0);M1887(2)<Speaker>M1887</Speaker>||:하지만 그런다고 그쪽이 움직이긴 할까?
+NPC-Kalin(0)<Speaker>카리나</Speaker>;M1887(2)||:끄응... 아마, 거기에 격리 구역을 세우고 레퀴엠에게 현혹당한 난민들을 모조리 체포하려 들겠지.+하지만 어떻든 간에 이건 이제 화이트존까지 엮인 문제라 우리가 함부로 나설 수 없어.
+NPC-Kalin(0);M1887(2)<Speaker>M1887</Speaker>||:우리 그리폰을 몇 번이나 도발한 놈들을 어떻게 건드리지도 못한다고?+마냥 참으라고 하면 납득 못해.
+NPC-Kalin(0)<Speaker>카리나</Speaker>;M1887(2)||:M1887, 다시 꺼내서 미안하지만 저번 일을 벌써 잊은 건 아니지?+그 작전의 실패로 지금 특수작전팀은 우릴 신용하지 않아.+이번에 우리에게 한 의뢰도 단순한 정보 분석 및 전달이 다야.
+NPC-Kalin(0);M1887(2)<Speaker>M1887</Speaker>||:......
+NPC-Kalin(0)<Speaker>카리나</Speaker>;M1887(2)||:하지~만! 그 테러리스트가 언제 어디서 불쑥 튀어나올진 아무도 모르는 일이니...+정보를 전달하러 가는 길에 우연~히 마주치면, 어쩔 수 없겠지~?
+NPC-Kalin(0);M1887(2)<Speaker>M1887</Speaker>||:이런 단독 작전, 나한텐 식은 죽 먹기지. 그리고 놈들 수준으론 나한테 생채기도 못 내니.
+NPC-Kalin(0)<Speaker></Speaker>;M1887(2)||:M1887이 자신만만하게 총을 장전했다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>;M1887(2)||:정말 갈 거야?
+NPC-Kalin(0);M1887(2)<Speaker>M1887</Speaker>||:응.
+NPC-Kalin(0)<Speaker>카리나</Speaker>;M1887(2)||:역시 그랬구나.
+NPC-Kalin(0);M1887(2)<Speaker>M1887</Speaker>||:응?
+NPC-Kalin(0)<Speaker>카리나</Speaker>;M1887(2)||:겉으론 매정하게 굴어도, 역시 RMB가 걱정되지?
+NPC-Kalin(0);M1887(2)<Speaker>M1887</Speaker>||:...놈들에게 진 빚을 갚아 주려는 것뿐이야. 됐으니까 계획이나 구상하자.
+NPC-Kalin(0)<Speaker>카리나</Speaker>;M1887(2)||:네 계획은 뭔데?
+NPC-Kalin(0);M1887(2)<Speaker>M1887</Speaker>||:놈들이 말하는 "열쇠"를 찾아내고, 두목놈을 사로잡아서 RMB한테 절하면서 사죄하는 영상을 찍어야지.
+NPC-Kalin(0)<Speaker>카리나</Speaker>;M1887(2)||:아하하... 그래도 전투는 될 수 있는대로 피하도록 해. 그 "열쇠"가 위험한 물건이면 즉시 나한테도 알려 주고.+만약의 경우에라도 네가 실패한다면, 그 즉시 특수작전팀에게 정보를 전달할 거야.+무슨 뜻인지 알지?
+NPC-Kalin(0);M1887(2)<Speaker>M1887</Speaker>||:물론.+지원이 올 일은 없겠지만, RMB를...+...아니, 그리폰을 위해서 반드시 해치워 버리겠어.
+RMB93(7)<Speaker></Speaker><同时置暗>||<BGM>BGM_Empty</BGM>:문 밖에 숨어 모든 대화를 들은 RMB-93은 생각에 잠겼다.
+RMB93(7)<Speaker></Speaker><同时置暗>||<黑屏1>:습관적으로 펜던트가 있는 곳을 더듬었지만, 지금은 아무것도 없었다.
+()||<黑屏2><BIN>159</BIN><BGM>BGM_Sneak</BGM>:목표인 버려진 방공호의 바깥, M1887은 그녀의 애마인 오토바이를 정문에 세웠다.
+M1887(2)<Speaker>M1887</Speaker>||<黑屏1>:주위에 흙더미가 잔뜩 쌓인 걸 보니, 여기가 확실하네.
+()||<黑屏2><BIN>281</BIN><黑屏1>:잠입이 서툰M1887은 안으로 들어간지 얼마 안 되어 발각되고 말았고, 소란에 무장한 난민들이 달려들었다.
+M1887(3)<Speaker></Speaker>||<黑屏2><BIN>15</BIN><SE2>Gunfight</SE2><SE1>AVG_rifle_finalshot_3h</SE1><SE1>AVG_pistol_finalshot_n</SE1>:무수한 총알의 세례가 M1887에게 쏟아져, 방공호 내부는 총성이 끝없이 메아리쳤다.
+M1887(3)<Speaker></Speaker><Shake>||:M1887은 조심조심 엄폐물 뒤에서 일어나 반대편을 바라봤다.
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>상황 어때? 무리하지 말고 여차하면 후퇴하도록 해.</color>
+NPC-Kalin(0)<通讯框>;M1887(3)<Speaker>M1887</Speaker>||:방패는 아직 충분히 견딜 수 있지만... 역시 수가 너무 많은걸.
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>;M1887(3)||:<color=#00CCFF>조금만 더 참아, 지금 지원 부대가 가고 있어!</color>
+NPC-Soldier(0)<Speaker></Speaker>;M1887(3)||:그때, 누군가가 EMP 발생기를 꺼내 들었다.
+NPC-Soldier(0)<Speaker>잡음 가득한 소리</Speaker>;M1887(3)||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>그리폰이냐? 거 참 끈질긴 로봇들이군, 이걸로 끝이다!</color>
+M1887(3)<Speaker>M1887</Speaker>||<SE1>Heartbeat</SE1>:카리나, 미안해.+후퇴하긴 늦었어.
+(0)<Speaker></Speaker><通讯框>||<黑屏1><SE1>AVG_tele_disconnect</SE1>:통신 두절.
+()||<黑屏2><BIN>222</BIN>:꼼짝 못하게 된 M1887은 튼튼한 우리에 감금됐다.+그리고 난민들은 방공호 구석에 웅크린 채 무언가를 기다렸다.
+M1887(3)<Speaker>M1887</Speaker>||:......
+M1887(3)<Speaker>잡음 가득한 소리</Speaker>||:<color=#00CCFF>그리폰의 인형아, 운 좋은 줄 알거라. 너는 이제 역사적인 순간을 목도하게 될 거다.</color>
+M1887(3)<Speaker>M1887</Speaker>||:하.
+M1887(3)<Speaker>잡음 가득한 소리</Speaker>||:<color=#00CCFF>흠? 뭐가 웃기지?</color>
+M1887(3)<Speaker>M1887</Speaker>||:네가 보기보다 머리가 안 돌아가는 머저리라서. 내가 왜 여기 있겠어? 특수작전팀이 벌써 터널 반대편에서 진을 치고 있단 의심은 안 들어?
+M1887(3);NPC-Refugee(0)<Speaker>이름없는 난민</Speaker>||:허, 헛소리 마! 너네 그리폰 때문에 우린 살 곳을 잃었다고! 다들, 이 녀석이 하는 말에 속지 마!+레퀴엠이 폭탄만 터뜨리면, 우리 모두 화이트존에 들어가서 붕괴 복사에 천천히 죽어 가지 않아도 돼!
+M1887(3)<Speaker>잡음 가득한 소리</Speaker>;NPC-Refugee(0)||:<color=#00CCFF>고립된 기계 주제에. 무어라 떠들든, 과연 누가 네 말을 믿을까?</color>
+M1887(3)<Speaker>M1887</Speaker>;NPC-Refugee(0)||:내 말 믿고 얌전히 투항하든가, 아님 다 같이 죽든가.
+M1887(3);NPC-Refugee(0)<Speaker>이름없는 난민</Speaker>||:흥, 어차피 너도 우릴 붙잡으러 왔으면서!+너네도 다 화이트존의 위선자들 편이잖아!+화이트존은커녕 그린존으로도 안 들여보내 주면서 우릴 테러리스트로 몰았는데, 너네 말을 믿을까 봐!?+우린 그저 살고 싶을 뿐인데, 왜 다들 우릴 쫓아내기만 하냐고!
+M1887(3)<Speaker>잡음 가득한 소리</Speaker>;NPC-Refugee(0)||:<color=#00CCFF>그래, 그 누구도 살고자 하는 의지를 꺾을 순 없다!</color>+<color=#00CCFF>하하하! 멈출 수 없는 의지의 힘을 경배하라!</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>Explode</SE1>:콰앙――!!+폭발과 함께 방공호 안으로 먼지폭풍이 밀려들었다.+그리고 먼지가 흩어지자, 예상밖의 것이 모습을 드러냈다.
+RMB93(7)<Speaker>RMB93</Speaker>;M1887(3)||<BGM>BGM_Reverse</BGM>:너무 늦진 않았지?
+RMB93(7);M1887(3)<Speaker>M1887</Speaker>||:RMB?!
+RMB93(7)<Speaker>RMB93</Speaker>;M1887(3)||:응?
+RMB93(7);NPC-Soldier(0)<Speaker>무장인원</Speaker>||:적의 증원이다! 쏴라!
+RMB93(7)<Speaker>RMB93</Speaker>;NPC-Soldier(0)||:뭐야, 뭐 이렇게 많아? 플랜 B로 가야겠네.
+()<Speaker></Speaker>||:RMB-93가 방패를 전개했다.
+RMB93(7);NPC-Soldier(0)<Speaker>무장인원</Speaker>||:아니, 우리 화력이 이것밖에 안 돼? 저딴 방패 하나――+으악! 맞았다!+...어? 뭐야, 아무렇지...도 않......
+RMB93(7)<Speaker>RMB93</Speaker>;M1887(3)||:우리 1887 동지, 몸은 좀 어때?+섬멸 작전도 아닌데 비살상용 마취탄을 챙겼어야지.
+RMB93(7);M1887(3)<Speaker>M1887</Speaker>||:난 괜찮아, 그냥... 살짝 그, 뭐라더라... 몸에 경련이 왔을 뿐이야.
+RMB93(7)<Speaker>RMB93</Speaker>;M1887(3)||:어머나, EMP에 신경 회로가 맛이 갔나 보네. 방패도 손상이 심하고...+그냥 여기 있다 회복되면 퇴근해.
+RMB93(7);M1887(3)<Speaker>M1887</Speaker>||:저 난민들은 어쩔 셈이지?
+RMB93(7)<Speaker>RMB93</Speaker>;M1887(3)||:카리나의 계획대로, 다 연행할 거야.+하지만 그 전에 먼저 해야 할 일이 있어.
+RMB93(7);M1887(3)<Speaker>M1887</Speaker>||:"열쇠" 말이군.
+RMB93(7)<Speaker>RMB93</Speaker>;M1887(3)||<黑屏1><BGM>BGM_Empty</BGM>:응, 그 폭탄이 여기 있을 거 아니겠어? 그것부터 제거해야 해.
+()<Speaker></Speaker>||<黑屏2><BIN>167</BIN><BGM>BGM_Brain</BGM>:RMB-93은 아직 쓰러지지 않은 사람들 사이를 지나갔다.
+()<Speaker></Speaker>||<BIN>167</BIN><SE1>AVG_20Winter_People_Panic</SE1>:난민들은 왠지 모를 위압감에 꼼짝 못하고, 그저 소리 낮춰 수근거릴 뿐이었다. 다만, 그 초조한 눈빛들에선 갈망이 역력했다.+M1887도 할 말이 있었지만, 나아가는 RMB-93의 뒷모습을 보며 말을 삼켰다.+그때, RMB-93의 앞을 한 노인이 가로막았다.
+RMB93(7)<Speaker>RMB93</Speaker>;NPC-Arla(0)||:어르신, 다치고 싶지 않으면 물러나세요.
+RMB93(7);NPC-Arla(0)<Speaker></Speaker>||:그 노인은 붉은 별 장식이 달린 펜던트를 꺼내 보였다.
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||:이거, 아가씨 꺼지?
+RMB93(7)<Speaker>RMB93</Speaker>||:어...? 그걸 왜 당신이 갖고 있죠?+당신도 레퀴엠의 일원인가요?
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||:아니. 저놈들은 너무 막 나가서 싫어. 하지만 내 마지막 소원을 이루려면, 저들을 따르는 게 최선이었어...+난 그저, 화이트존에서 살고 있는 내 막내 아들을 마지막으로 한 번만 더 보고 싶을 뿐이야.+화이트존의 귀족 밑에서 잡일을 하러 간다 한 뒤로 소식이 완전히 끊겼거든...+못 본 지 벌써 10년이 넘었어, 이게 마지막이자 유일한 기회야.
+RMB93(7);NPC-Arla(0)<Speaker></Speaker>||:노인은 셔츠의 단추를 풀었다.
+RMB93(7)<Speaker>RMB93</Speaker>;NPC-Arla(0)||:감염증... 증세를 보아하니, 얼마 안 남았겠군요.
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||:그래, 이렇게 혼란한 시대에 나 같은 노인네는 아무도 신경쓰지 않지.
+RMB93(7)<Speaker>RMB93</Speaker>;NPC-Arla(0)||:그래서, 어떡할 셈이죠?
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||:레퀴엠 놈들은 내가 뭘 원하는지 알고, 나한테 이걸 맡겼어.
+RMB93(7)<Speaker>RMB93</Speaker>;NPC-Arla(0)||:어르신, 몸에 그건...!
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||:난 무슨 일이 있어도 내 막내 아들을 보러 갈 거야.+누구라도 이 폭탄을 나한테 떼어내서, 구멍을 뚫는 걸 막으려 한다면...+버튼을 눌러 내 삶을 끝내겠어.
+RMB93(7)<Speaker>RMB93</Speaker>;NPC-Arla(0)||:진심이세요?
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||:이게 내가 할 수 있는 마지막 선택이야. 이런 시대에 태어나, 내 의지로 정할 수 있는 건 이것밖에 없어.+바깥 녀석들은 몰라, 멀어서 지금 우리 말도 안 들릴 테고. 모든 책임은 나 혼자 짊어지고 가겠어.
+RMB93(7)<Speaker>RMB93</Speaker>;NPC-Arla(0)||:하지만, 왜 저 난민들까지 휘말리게 하려는 거죠?
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||:저들도 나처럼 갈 곳 없는 사람들이거든.+그저, 손에 폭탄이 있느냐 없느냐의 차이지.
+RMB93(7)<Speaker>RMB93</Speaker>;NPC-Arla(0)||:저희가 방법을 찾아볼게요.
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||:하하하, 방법? 나도 해볼 수 있는 건 다 해봤어.+너희가 그 정화 시설을 터뜨린 후론 마지막 안녕까지 사라졌지.
+RMB93(7)<Speaker>RMB93</Speaker>;NPC-Arla(0)||:...죄송해요.
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||<黑屏1>:흥, 말로는 누군들 사과를 못 할까.
+()||<BIN>9</BIN><黑屏2><黑屏1><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:콰아앙——!!
+NPC-PasserbyF(0)<Speaker></Speaker>||<BGM>BGM_Truth</BGM>:RMB-93은 그날의 광경을 다시 떠올렸다. 휘날리는 먼지 속에서, 그 여자아이는 일어나 천천히 그녀에게 다가와...
+NPC-PasserbyF(0)<Speaker>여자아이</Speaker>||:넌... 아무것도...
+NPC-PasserbyF(0)<Speaker>여자아이</Speaker>||<黑屏1>:바꾸지 못해.
+RMB93(7)<Speaker>RMB93</Speaker>||<黑屏2><BIN>167</BIN>:아니야... 최소한 이번엔, 나 자신을 바꿀 수 있어.+이 노인을 반드시 데리고 가야 해.
+RMB93(7);M1887(3)<Speaker>M1887</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>폭탄을 크레이들 장치의 신호 범위 밖까지 가지고 가려고?</color>+<color=#00CCFF>실패하면 이번엔 레퀴엠에 현혹된 난민들이 화이트존에 들이닥칠 거야.</color>
+RMB93(7)<Speaker>RMB93</Speaker>;M1887(3)||:이게 최선의 방법이야.
+RMB93(7);M1887(3)<Speaker>M1887</Speaker>||:<color=#00CCFF>...알았어. 일단 요구를 들어주면서 방법을 강구해 보자.</color>
+RMB93(7)<Speaker>RMB93</Speaker>;M1887(3)||:폭발 예정 시각까지 20분 남았는데, 그 안에 저 사람 아들을 찾을 수 있을까?
+RMB93(7);M1887(3)<Speaker>M1887</Speaker>||:카리나, 들려?
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>;M1887(3)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>잘 들려. 내가 최대한 알아볼 테니 RMB 넌 일단 그 노인을 데리고 나가.</color>+<color=#00CCFF>M1887이 표시한 지점까지 이동해. 거기까지 가야 화이트존의 시선을 피할 수 있어.</color>
+RMB93(7)<Speaker>RMB93</Speaker>;M1887(3)||:어르신, 같이 가요. 저희가 아드님을 찾아드릴게요.
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||:너희가? 헛소리 마, 화이트존의 높으신 것들이 나 같은 거지의 요구 따윌 들어줄 리가 있겠어?
+RMB93(7)<Speaker>RMB93</Speaker>;NPC-Arla(0)||:아뇨, 반드시 찾아드릴게요. 약속해요. 아드님도 분명 어르신을 기다리고 있을 거예요.
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||:정말... 내 아들을 다시 보게 해 준다고...?
+RMB93(7)<Speaker>RMB93</Speaker>;NPC-Arla(0)||:시간이 많진 않지만, 선택할 시간은 아직 충분해요.
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||:......+내 아들... 정말 날 기다리고 있을까?
+RMB93(7)<Speaker>RMB93</Speaker>;NPC-Arla(0)||:물론이죠.
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||:...좋아, 같이 가겠어. 하지만 헛수작 부릴 생각 마, 조금이라도 이상하면 바로 터뜨릴 거야.
+()<Speaker></Speaker>||:RMB-93이 노인과 함께 방공호 밖으로 향하면서, M1887에게 다가갔다.
+RMB93(7)<Speaker>RMB93</Speaker>;M1887(3)||:동지, 애마 좀 빌릴게.
+RMB93(7);M1887(3)<Speaker>M1887</Speaker>||:비싼 거야, 흠집 하나라도 내기만 해 봐.
+()<Speaker></Speaker>||<黑屏1>:M1887은 오토바이의 열쇠를 RMB-93의 손에 꼬옥 쥐여 주었다.
+()||<BIN>99</BIN><黑屏2>:오토바이에 노인을 태운 RMB-93은 들판 위를 가로지르며 카리나가 지시한 지점으로 이동했다.
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||:곧 아들을 만날 수 있는 거지? 드디어...
+RMB93(7)<Speaker>RMB93</Speaker>;NPC-Arla(0)||:아드님을 정말 사랑하시네요, 몸도 사리지 않을 만큼.
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||:너 같은 기계는 이해 못할 거야.
+RMB93(7)<Speaker>RMB93</Speaker>;NPC-Arla(0)||:네, 직접 느끼긴 어렵죠. 그래서 많이 부러워요.
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||:너네도 부러워할 줄 안다고? 허 참.+그래도 그런 감정 따윈 접어두는 게 좋아. 너희한텐 하나도 쓸모없어.+...음? 지금 어디로 가는 거지?
+RMB93(7)<Speaker>RMB93</Speaker>;NPC-Arla(0)||:어르신이 바라던 대로, 아드님을 보러요.
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||:이쪽 방향은... 특수작전팀의 초소가 있는 쪽이잖아!+안 돼, 놈들은 날 테러리스트 취급할 거야!+당장 멈춰! 버튼을 놓을 테다!
+RMB93(7);NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>RMB, 뭔가 좀 이상해. 그 노인의 설명에 부합하는 기록을 조회해 봤는데, 기록은 물론이고 주민등록 정보도 전혀 뜨질 않아.</color>
+RMB93(7)<Speaker>RMB93</Speaker>;NPC-Kalin(0)<通讯框>||:뭐라고?
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||:네놈들... 역시 날 속였구나! 믿는 게 아니었어! 젠장, 나랑 여기서 같이 죽어라!
+RMB93(7)<Speaker>RMB93</Speaker>;NPC-Arla(0)||:예비 플랜이 완전 어긋나 버렸는걸, 시간이 좀 더 필요한데...
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||:이제 10분 남았다! 저 난민들이 화이트존으로 몰려들어서 테러리스트로 몰려 사살당하는 꼴을 보고 싶지 않으면 얼른 내 아들을 찾아내!+그렇지 않으면 난 여기서 꿈쩍도 안 하겠어! 내가 죽어도 다 네 탓이야!
+RMB93(7)<Speaker>RMB93</Speaker>;NPC-Arla(0)||<BGM>BGM_Empty</BGM>:잠깐만요.
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||:...?
+RMB93(7)<Speaker>RMB93</Speaker>;NPC-Arla(0)||<BGM>BGM_NightOPS</BGM>:어째서 당신이 저쪽에 특수작전팀의 초소가 있는 걸 알고 있는 거죠?+당신한테 그쪽 얘긴 한 마디도 안 했는데, 왜 그들이 터널 반대편에서 대기하고 있단 걸 알아요?
+RMB93(7);NPC-Arla(0)<Speaker>노인</Speaker>||<BIN>99</BIN>:내, 내 말이 틀리기라도 해?
+RMB93(7);NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>RMB, 조심해! 그 노인은 난민 명단에도 없어!</color>
+NPC-Arla(0)<Speaker></Speaker>||:하지만 노인이 한 박자 빨리 주머니에서 EMP 발생기를 꺼냈다.
+RMB93(7)<Speaker>RMB93</Speaker><Shake>||<震屏>:윽...!
+NPC-Arla(0)<Speaker>노인</Speaker>||:결국 들켰군.+그래도 날 여기까지 데리고 나와 준 것에는 감사하마, 그리폰의 인형아.
+NPC-Arla(0);RMB93(7)<Speaker>RMB93</Speaker>||:너는...
+NPC-Arla(0);RMB93(7)<Speaker></Speaker>||:노인이 목의 음성변조기를 켰다.
+NPC-Arla(0)<Speaker>잡음 가득한 소리</Speaker>;RMB93(7)||<SE1>AVG_whitenoise</SE1><BGM>BGM_Danger</BGM>:네 동료와 작별 인사할 시간이다.+너희가 잃는 슬픔을 모르길 바라지.
+NPC-Arla(0);RMB93(7)<Speaker>RMB93</Speaker>||:당신... 당신을 따르는 난민들은 어찌 돼도 상관없단 거야...?
+NPC-Arla(0)<Speaker>잡음 가득한 소리</Speaker>;RMB93(7)||:그럴 리가. 우리 모두, 화이트존에 들어가 살아남길 갈망하는 동지들인걸.+하지만 본거지를 들킨 이상, 내가 실패하면 그들도 갈 곳이 없어지지 않겠어?
+NPC-Arla(0);RMB93(7)<Speaker>RMB93</Speaker>||:그건... 네가 판단할 일이 아니야! 그들이 갈 곳은 그들 스스로가 정해!
+NPC-Arla(0)<Speaker>잡음 가득한 소리</Speaker>;RMB93(7)||:흠, 선택은 남이 아닌 스스로가 하는 것이다?
+NPC-Arla(0)<Speaker></Speaker>；RMB93(7)||:노인이 폭탄 조끼를 벗었다.
+NPC-Arla(0)<Speaker>잡음 가득한 소리</Speaker>;RMB93(7)||:그럼 내 몫을 네게 양보하마.
+NPC-Arla(0);RMB93(7)<Speaker>RMB93</Speaker>||:이 망할...!
+NPC-Arla(0)<Speaker>잡음 가득한 소리</Speaker>;RMB93(7)||:나는...+"진혼곡"의 마지막 음표로서...+나 자신을 바친다.+잘 가라, 그리폰의 장난감아.
+NPC-Arla(0)<Speaker></Speaker>；RMB93(7)||:노인은 손에 쥐었던 버튼을 놓았고...
+NPC-Arla(0);RMB93(7)<Speaker>RMB93</Speaker>||:저 방향... 1887!
+()<Speaker></Speaker>||<SE1>Explode</SE1><Shake><黑屏1><BGM>GF_Memorial</BGM>:거대한 폭발이 구름을 뚫고 치솟았고, 수많은 새들이 놀라 날아올랐다. 이어지는 충격파는 지평선을 가르며 그들이 있는 곳을 지나갔다.
+()||<BIN>99</BIN><黑屏2>:......
+NPC-Arla(0)<Speaker>잡음 가득한 소리</Speaker>||:잠깐... 아니야, 저쪽이 아니야! 어떻게 된 거지?+...실패했다고?+안 돼, 그럴 리가 없어!
+NPC-Arla(0)<Speaker></Speaker>||:멀리서 나타난 특수작전팀의 차량이 곧장 달려와, 큼지막한 탐조등으로 노인을 비췄다.
+NPC-Arla(0)<Speaker></Speaker>;RMB93(7)||<黑屏1>:1887...
+()||<BIN>9</BIN><黑屏1>:그렇다.+그 누구도, 선택의 결과를 홀로 감당할 필요는 없다.
+()<Speaker></Speaker>||<BIN>97</BIN><黑屏2><BGM>BGM_Empty</BGM>:M1887은 복도를 어슬렁거리며 RMB-93의 개조가 끝나길 기다렸다.+잠시 후, 카리나가 공방에서 나왔다.
+M1887(2)<Speaker>M1887</Speaker>||:잘 됐어?
+NPC-Kalin(0)<Speaker>카리나</Speaker>;M1887(2)||:응, 업그레이드 덕에 마인드맵도 더 튼튼해졌을 거야.
+NPC-Kalin(0);M1887(2)<Speaker>M1887</Speaker>||:말 안 듣는 돌대가리 녀석... 허가도 안 받고 무작정 지원하러 오다니, 하여간 민폐덩어리라니까.
+NPC-Kalin(0)<Speaker>카리나</Speaker>;M1887(2)||:에이~ 무작정 일 저지르고 보는 건 너도 마찬가지면서 뭘.
+NPC-Kalin(0)<Speaker></Speaker>;M1887(2)||:자동문이 다시 열리더니, 한껏 새로워진 모습의 RMB-93이 폴짝폴짝 뛰며 밖으로 나왔다.
+RMB93Mod(0)<Speaker>RMB93</Speaker>;M1887(2)||:안녕~ 둘이 거기서 뭐해?
+RMB93Mod(0);M1887(2)<Speaker>M1887</Speaker>||:벌써 나왔어? 넌 부팅 오래 걸리는 타입 아니었나?
+RMB93Mod(0)<Speaker>RMB93</Speaker>;M1887(2)||:그랬나? 내가 좀 많이 들떴나 봐~
+RMB93Mod(0);M1887(2)<Speaker>M1887</Speaker>||:그래서, 내가 누군지는 알아보겠어? 아직도 그냥 "직장 동료"로 보여?
+RMB93Mod(0)<Speaker>RMB93</Speaker>;M1887(2)||:우리 1887 씨가 그때 폭탄을 옮기지 않았다면 여전히 그랬겠지요~
+RMB93Mod(0)<Speaker></Speaker>;M1887(2)||:RMB-93은 감미로운 미소를 지었다.
+RMB93Mod(0);M1887(2)<Speaker>M1887</Speaker>||:<color=#A9A9A9>언제 또 입을 저렇게 잘 굴리게 됐대...</color>+응? 그 펜던트, 되찾았구나. 참... 반짝이네.
+RMB93Mod(0)<Speaker>RMB93</Speaker>;M1887(2)||:1887 아니었으면 영영 못 찾았을 거야. 특별히 한번 만지게 해 줄게, 자아♪
+RMB93Mod(0);M1887(2)<Speaker>M1887</Speaker>||:됐어, 치워.
+NPC-Kalin(0)<Speaker>카리나</Speaker>;M1887(2)||:그, 그건 그렇고, 1887은 이제 어때? 다 회복됐어?
+NPC-Kalin(0);M1887(2)<Speaker>M1887</Speaker>||:벌써 몸이 근질근질해서 다음 훈련만 기다리는 중이야. 아 참, 난민들은 어떻게 됐어?
+NPC-Kalin(0)<Speaker>카리나</Speaker>;M1887(2)||:아직 협상이 끝나진 않았지만, 사실이 밝혀지고 난 뒤론 레퀴엠을 추종하는 사람은 싹 사라졌어. 다 네 덕분이야, 1887.
+RMB93Mod(0)<Speaker>RMB93</Speaker>;M1887(2)||:엥, 나는? 놈들 두목은 내가 잡았잖아!
+RMB93Mod(0);M1887(2)<Speaker>M1887</Speaker>||:흥, 넌 또 사고나 안 치면 다행이지.+그리고 카리나, 우리한테 전할 말이 더 있지 않았어?
+NPC-Kalin(0)<Speaker>카리나</Speaker>;M1887(2)||:응응, 새 임무가 들어왔어. 1887이 먼저 보고 계획을 구상했으니까, RMB한테도 공유할게.
+NPC-Kalin(0);M1887(2)<Speaker>M1887</Speaker>||:네 개조 후 첫 임무야, 정신 똑바로 차려.
+RMB93Mod(0)<Speaker>RMB93</Speaker>;M1887(2)||:그야 물론이지~
+RMB93Mod(0);M1887(2)<Speaker>M1887</Speaker>||:뭘 벌써부터 그렇게 실실대? 계획 제대로 보긴 했어?
+RMB93Mod(0)<Speaker>RMB93</Speaker>;M1887(2)||:난 아무래도 좋은데?
+RMB93Mod(0);M1887(2)<Speaker>M1887</Speaker>||:아무래도 좋다니... 내가 고민해서 만들었다고, 좀 더 자세히 안 봐?
+RMB93Mod(0)<Speaker>RMB93</Speaker>;M1887(2)||:너와 함께인데, 내가 굳이 그럴 필요 있나~?
+RMB93Mod(0);M1887(2)<Speaker>M1887</Speaker>||:어휴, 개조받고 나더니 더 재수없어졌네...
+RMB93Mod(0)<Speaker>RMB93</Speaker>;M1887(2)||<黑屏1>:총알이 절대 빗나가지 않는다 확신하는 사람만이, 자기자신과 동료보다 계획을 더 중요시하지.+그런데, 그렇게 확신하는 사람은 하나같이 경험 없는 햇병아리들뿐이더라.+그치, 1887 씨?

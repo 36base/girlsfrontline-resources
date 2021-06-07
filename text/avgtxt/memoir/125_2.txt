@@ -1,0 +1,52 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>MG4</Speaker>||<黑屏2><BIN>364</BIN><BGM>GF_20HW_Scene_BPM82_loop</BGM>:과연 새로 개장한 귀신의 집이랄까... 밖에서부터 으스스한 분위기인걸.+나 혼자 와서 천만다행이야, 아는 사람 앞에서 창피한 꼴을 보인다면...
+MG4(0)<Speaker>MG4</Speaker>||:그 상황을 상상하면――
+MG4(0)<Speaker>MG4</Speaker><Shake>1</Shake>||:부끄러워서 그 자리에서 죽어버릴 거야!
+()||:귀신의 집은 입장 대기줄이 두 바퀴나 감을 정도로 호황이었고, MG4의 차례가 되어 뒤를 돌아봤을 땐 4바퀴 정도로 길어져 있었다.
+NPC-Arla(0)<Speaker>귀신의 집 주인</Speaker>||:《팬텀 해머》에 오신 것을 환영합니다! 저희 공원묘지의 최신 역작 엔터테인먼트! 간 떨어지는 공포를 직접 체험해 보십시오!+어디 보자... 오, 인형 아가씨로군요! 입장에 앞서 공격 모듈과 탐지 모듈을 꺼 주시기 바랍니다!
+MG4(0)<Speaker>MG4</Speaker>||:아, 네. 다른 주의 사항 있나요?
+NPC-Arla(0)<Speaker>귀신의 집 주인</Speaker>||:도중에 만나게 되는 귀신들은 절대 손님과 신체 접촉을 하지 않으니 너무 겁먹으실 것 없습니다.+만약 가슴이 괴롭거나 숨이 가빠지는 등의 증상이 발생할 경우, 제자리에서 손을 높이 흔들어 주세요.+실시간 모니터링 중이므로 즉시 스태프가 밖으로 안내해드릴 겁니다.
+NPC-Arla(0)<Speaker>귀신의 집 주인</Speaker>||:자아 그럼, 혼이 나갈 정도로 무서운 여행! 마음껏 즐겨 주십쇼!
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_door_storehouse</SE1>:목제 문을 넘어 들어간 순간, 안을 밝히던 등불이 일제히 꺼졌다.
+()||<SE1>GF_Halloween_Wind_loop</SE1><SE2>GF_Halloween_Femal_Laugh</SE2><SE3>AVG_Crowd</SE3>:관람객들은 곧바로 어수선해졌다. 그리고...
+()<Speaker>갑작스런 비명</Speaker>||<震屏3><黑屏2><BIN>365</BIN><SE1>GF_Halloween_Femal_Cry_loop</SE1>:꺄아아악 귀신이다아아아!!
+()||<黑屏2>:그 소리에 사람들 모두 달음박질쳤고, 자리에 남은 것은 서로 마주보고 있는 길쭉한 혀의 여자 귀신과 MG4뿐이었다.+귀신은 그 시뻘건 손을 MG4의 얼굴을 향해 뻗어...
+MG4(0)<Speaker>MG4</Speaker>||:와아... 친절하게 먼저 인사해 주는구나. 안녕.
+()||<震屏3>:흠칫한 귀신은 다른 관람객들이 도망친 방향으로 MG4를 떠밀듯 보냈다.
+()||<黑屏2>:얼마 안 가, 또다시 고막이 터질 듯한 비명이 울려퍼졌다.
+()<Speaker>갑작스런 비명</Speaker>||<SE1>GF_Halloween_Femal_Cry_loop</SE1>:사람 살려어어어!! 저리 가아아아!!!
+()<Speaker>갑작스런 비명</Speaker>||<闪屏><duration>1</duration><rate>5</rate><delay>1</delay></闪屏>:오, 오지 마! 나 복싱 배웠어! 오지 마! 오지 말라고!
+()||:한쪽에 모인 관람객들에게 머리 없는 형체가 느릿느릿 다가가는 광경이었다.+겁에 질린 관람객들은 뒷걸음질치다 벽에 몰린 듯했다.
+MG4(0)<Speaker>MG4</Speaker>||:음... 저 머리 없는 귀신은 남자일까 여자일까? 궁금하다.+<color=#A9A9A9>우와아, 다른 사람이 먼저 다가와 준다니 너무 좋다!</color>
+()<Speaker>갑작스런 비명</Speaker>||<震屏3><黑屏1>:아야야야 발 밟지 마!!
+()||<震屏3><黑屏2>:옆의 다른 사람이 갑자기 소리를 질러 MG4의 시선을 끌었다.
+()<Speaker>길쭉한 형체</Speaker>||:네 목숨을 받아 가겠다...
+MG4(0)<Speaker>MG4</Speaker>||:하하하, 무기도 없는데 어떻게?
+()<Speaker>길쭉한 형체</Speaker>||:......잠들었을 때...+통째로 삼켜 버릴 테다...
+MG4(0)<Speaker>MG4</Speaker>||:와아, 오늘밤에 만나러 와 줄 거야? 기다릴게.
+()<Speaker>길쭉한 형체</Speaker>||<黑屏1>0,10</黑屏1>:......
+()||<黑屏2><BIN>364</BIN><BGM>BGM_Empty</BGM><SE1>Stop_AVG_loop</SE1>:약 한 시간에 걸친 귀신의 집 탐험이 끝나고, 아직도 진정되지 않은 관람객들은 놀란 가슴을 쓸어내리며 서로 감상을 나눴다.
+MG4(0)<Speaker>MG4</Speaker>||:재밌었다~!+사람들이랑 엄청 많이 어울렸어! 다음에 또 오고 싶다~
+MG4(0);NPC-Arla(0)<Speaker>귀신의 집 주인</Speaker>||:거기 인형 아가씨! 잠깐 기다려 봐요!
+MG4(0)<Speaker>MG4</Speaker>;NPC-Arla(0)||:어... 저 말인가요?
+MG4(0);NPC-Arla(0)<Speaker>귀신의 집 주인</Speaker>||:네 네, 아가씨요! 이야아, 상황실에서 봤는데 전혀 안 무서워하시더라고요?
+MG4(0)<Speaker>MG4</Speaker>;NPC-Arla(0)||:아... 분장한 스태프분들 모두 친절했어요, 저한테 말도 걸어 줬고요.+평가 만점 드릴게요.
+MG4(0);NPC-Arla(0)<Speaker>귀신의 집 주인</Speaker>||:감사합니다~ 다음에 또 오세요~ ...가 아니라! 어휴 이젠 아주 조건 반사가 됐네...+아무튼 인형 아가씨, 혹시 아르바이트할 생각은 없어요?
+MG4(0)<Speaker>MG4</Speaker>;NPC-Arla(0)||:네?! 왜, 왜 갑자기 그런 걸 물으시는...
+MG4(0);NPC-Arla(0)<Speaker>귀신의 집 주인</Speaker>||:최근 들어 호러 테마가 핫해져선지 인형들도 손님으로 많이 온답니다!+그래서 겁 없는 인형도 직원으로 고용하고 싶은데, 혹시 흥미 없으신가 해서 말입니다.
+MG4(0)<Speaker>MG4</Speaker>;NPC-Arla(0)||:음... 정확히 뭘 하는 일인가요?+잘 모르는 사람한테 어떻게 말을 걸어야 하는지도 모르는데...
+MG4(0);NPC-Arla(0)<Speaker>귀신의 집 주인</Speaker>||:그냥 정해진 코스대로 움직이면서 손님들 상대를 하기만 하면 돼요.+말하기 껄끄럽다면 그냥 적당히 연기하면서 다가가기만 해도 되고요.
+MG4(0)<Speaker>MG4</Speaker>;NPC-Arla(0)||:<color=#A9A9A9>용기와 담력도 친구 만들기에 중요한 요소였지...? 여기서 단련할 수 있겠다.</color>+그... 그럼 해볼게요. 내일부터 오면 되나요?
+NPC-Arla(0)<Speaker>귀신의 집 주인</Speaker>||<黑屏1>:아가씨만 괜찮으면 오늘부터도 돼요!
+PPK(0)<Speaker>PPK</Speaker>||<黑屏2><BIN>364</BIN><BGM>GF_20HW_Scene_BPM82_loop</BGM>:이 귀신의 집이 핫 플레이스래. 벌써부터 기대된다~+귀신들이 날 정말 깜짝 놀라게 해 줬으면 좋겠는데~
+PPK(0);STG44Mod(0)<Speaker>STG44</Speaker>||:신체 접촉은 없겠죠? 금방 머리 감았는데...
+PPK(0)<Speaker>PPK</Speaker>;STG44Mod(0)||:포기해, 이런 테마 체험에 옷이나 머리카락이 스치는 건 어쩔 수 없어.
+PPK(0);STG44Mod(0)<Speaker>STG44</Speaker>||:그, 그럼 사전에 거리를 유지해 달라고 부탁은 못 할까요?!
+P38(0)<Speaker>P38</Speaker>;STG44Mod(0)||:너무 걱정 마 StG, 저 안의 모든 이목이 나에게 집중될 테니까, 넌 그냥 내 뒤를 따라오기만 하면 돼!
+P38(0);STG44Mod(0)<Speaker>STG44</Speaker>||:그렇다면야... 그나저나, 저 아웃테리어를 보니...+으으으, 먼지며 핏자국이며 죄다 장식에 가짜인 걸 알아도 불결해서 다 청소하고 싶어요!!!
+P38(0)<Speaker>P38</Speaker>||:에~이, 그럼 분위기가 안 살잖아?+난 귀신들한테 어떻게 공연해 줄지도 다 정했어!
+PPK(0)<Speaker>PPK</Speaker>||<黑屏1>:후후훗... 이거 흥분되네~
+MG4(2)<Speaker>MG4</Speaker><GradientHide>3</GradientHide> ||<黑屏2><BIN>365</BIN>:분장은 이렇게 하면 되나요?
+MG4(0);NPC-Arla(0)<Speaker>귀신의 집 주인</Speaker>||:좋아요 좋아요, 아~주 좋아요!+오늘 잘 부탁드립니다!
+MG4(3)<Speaker>MG4</Speaker><GradientShow>3</GradientShow> ||<SE1>Stop_AVG_loop</SE1>:잘 부탁드립니다.+<color=#A9A9A9>헤헤... 나도 쓸모가 있구나!</color>
+()||<黑屏1><BGM>BGM_Empty</BGM>:

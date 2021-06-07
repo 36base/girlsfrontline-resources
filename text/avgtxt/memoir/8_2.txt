@@ -1,0 +1,123 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><黑屏1>:"우리"는 무엇인가? "우리"는 어디로 가고 있으며, 대체 어떠한 사명을 짊어진 것일까?+그 질문에 대한 답은 전부 짙은 안개 너머에 숨어, 도저히 볼 수도 없고 다가갈 수도 없다.+하지만 그 답이 무엇이든, 인형으로서의 삶은 변치 않는다.+그저 받은 명령을 수행하고 임무를 완수하면 된다. 그저 앞으로 나아가기만 하면 된다.+목적이 없으면, 질서도 없다.+질서가 없으면, 모든 것은 모래성처럼 허무하게 무너지기 마련이다.
+()||<BIN>356</BIN><Night><黑屏2><BGM>m_avg_casual</BGM>:그리폰 기지 인근의 버려진 오두막.+나는 수리가 끝난 작은 로봇의 전원을 켰다.
+NPC_Golyat(5)<Position>0,150</Position><Speaker>？？？</Speaker>||:......
+PM(0)<Speaker>마카로프</Speaker>||:......
+NPC_Golyat(3)<Position>0,150</Position><Speaker>？？？</Speaker>||<震屏>:<size=50>해체하지 마세요!!!</size>
+()||:재기동하기가 무섭게, 작은 로봇은 몸을 둥글게 말고 그 짧은 팔로 몸을 감쌌다.
+PM(0)<Speaker>마카로프</Speaker>||:그럴 셈이었으면 네 전원을 켜지도 않았어.
+NPC_Golyat(4)<Position>0,150</Position><Speaker>？？？</Speaker>||:......+그건 그렇네요.
+()||:작은 로봇은 다리를 뻗어 일어나, 나를 찬찬히 살펴봤다.
+NPC_Golyat(6)<Position>0,150</Position><Speaker>？？？</Speaker>||:아하... 당신이 제 새 주인님이군요!
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(6)<Position>0,150</Position>||:뭐...? 그게 무슨 소리야, 그런 설정 안 했는데?
+PM(0);NPC_Golyat(4)<Position>0,150</Position><Speaker>？？？</Speaker>||:하지만 제 사용자 인증 정보엔 당신의 얼굴이 있는데요?
+NPC_Golyat(6)<Position>0,150</Position><Speaker>？？？</Speaker>||:어... 그런데 이름은 없네요.
+PM(0)<Speaker>마카로프</Speaker>||:K11 그 괴짜 녀석, 왜 로봇 수리에 안면 인증이 필요한가 했더니만...
+NPC_Golyat(4)<Position>0,150</Position><Speaker>？？？</Speaker>||:저기요 주인님, 주인님의 성함을 가르쳐 주세요.
+PM(0)<Speaker>마카로프</Speaker>||:하아... 별수 없지. 내 이름은 마카로프, 그리폰의 전술인형이야.
+()||:작은 로봇은 정중하게 고개를 숙이는 듯한 동작을 취하곤 팔을 쭉 뻗었다.
+NPC_Golyat(4)<Position>0,150</Position><Speaker>？？？</Speaker>||:친애하는 마카로프 새 주인님, 저는 시내의 대형 백화점에서 근무하면서 주로 고객의 점내 안내 및 간단한 청소, 정리 등의 업무를 맡았습니다.+지금까지 약 1만여 명의 고객에게 서비스를 제공하였고, 업무 만족도 99.8%의 우수한 실적을 거뒀습니다!+주인님을 절대 실망시키지 않겠습니다!
+PM(0)<Speaker>마카로프</Speaker>||:낯간지러우니까 그냥 마카로프라 불러.+그런데, 백화점에서 일하던 로봇이 어쩌다 쓰레기장에 버려진 거야?
+NPC_Golyat(3)<Position>0,150</Position><Speaker>？？？</Speaker>||:백화점이 문을 닫아서요...
+PM(0)<Speaker>마카로프</Speaker>||:......
+NPC_Golyat(4)<Position>0,150</Position><Speaker>？？？</Speaker>||:헤헤헤, 그래도 새 직장이 생겼으니까 괜찮아요! 이제 마카로프 님이 새 이름을 지어 주시면 돼요!
+()||:작은 로봇은 내 다리로 다가와 몸을 비볐다.
+PM(0)<Speaker>마카로프</Speaker>||:...하지 마.
+PM(0);NPC_Golyat(4)<Position>0,150</Position><Speaker>？？？</Speaker>||:이제 제 이름은 무엇인가요?
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(4)<Position>0,150</Position>||:알리타.
+PM(0);NPC_Golyat(6)<Position>0,150</Position><Speaker>알리타</Speaker>||:알리타! 마음에 들어요! 뜻이 있나요?
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(6)<Position>0,150</Position>||:몰라, 그냥 대충 검색했어.
+PM(0);NPC_Golyat(5)<Position>0,150</Position><Speaker>알리타</Speaker>||:에엑, 너무해요!
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(5)<Position>0,150</Position>||:......
+PM(0);NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:마카로프 님은 그리폰이란 데서 일한다고 하셨죠? 그렇다면 저도――
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(4)<Position>0,150</Position>||:아니.
+PM(0);NPC_Golyat(5)<Position>0,150</Position><Speaker>알리타</Speaker>||:아직 말도 다 안 했는데...
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(5)<Position>0,150</Position>||:그리폰에 너 같은 꼬맹이한테 어울리는 보직은 없어.
+PM(0);NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:그럴 리가 없어요!+저는―― 어, 알리타는 아주 우수한 직원이에요!+인간들도 모두 절 좋아했다고요!
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(4)<Position>0,150</Position>||:......
+PM(0)<Speaker>마카로프</Speaker>||:정 인정 못하겠으면 가서 테스트 받아보든가.
+NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||<黑点1>:좋아요! 제 실력을 보여 주겠어요!
+()||<黑点2>:그리폰 입사 테스트 종료 후.
+NPC_Golyat(3)<Position>0,150</Position><Speaker>알리타</Speaker><Shake>||:우으으... 말도 안 돼!+제가 불합격이라뇨!
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(3)<Position>0,150</Position>||:그러게 말했잖아.
+PM(0);NPC_Golyat(3)<Position>0,150</Position><Speaker>알리타</Speaker>||:으아아아앙!
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(3)<Position>0,150</Position>||:......+그래도 뭐, 도덕 점수는 만점이네.
+PM(0);NPC_Golyat(3)<Position>0,150</Position><Speaker>알리타</Speaker>||:마카로프 님이랑 함께 일하길 기대했는데... 우으으...+그럼 전 이제 어떡하죠? 무슨 일을 해야 해요?
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(3)<Position>0,150</Position>||:바로 여기가 네 새 직장이야.+업무 내용은 네가 알아서 정하고.
+PM(0);NPC_Golyat(5)<Position>0,150</Position><Speaker>알리타</Speaker>||:제가 알아서 정하라고요...? 추가 설명 없어요?
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(5)<Position>0,150</Position>||:없어, 앞으로 어떻게 지낼지 너 스스로 정해.
+PM(0);NPC_Golyat(5)<Position>0,150</Position><Speaker>알리타</Speaker>||:네?
+NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:그런 명령 처음 들어봐요...
+()||:알리타는 어리둥절해하며 방을 맴돌았다.
+PM(0)<Speaker>마카로프</Speaker>||<黑屏1>:알리타, 네가 스스로 선택하는 거야.
+()||<黑屏2><BGM>BGM_Empty</BGM>:그날 밤.
+NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||<BGM>GF_21winter_avg_mahaline</BGM>:자가 검진 실행.+알리타는 오늘로 가동된 지...+3831일째?!+품질 보증 기간도 한참 지났잖아...+그런데도 아직 움직일 수 있다니, 정말 기적이야!
+()||:알리타는 조심조심 창가에 올라, 하늘에 뜬 밝은 달을 바라봤다.
+NPC_Golyat(6)<Position>0,150</Position><Speaker>알리타</Speaker>||<黑屏1>:...세상은 여전히 아름답구나.
+()||<黑屏2><BIN>356</BIN><关闭蒙版>:다음날, 버려진 오두막.+어제만 해도 먼지에 거미줄 천지였던 낡은 오두막은 눈에 띄게 깔끔해진 상태였다.+그런 오두막 안을 동그랗고 작은 형체가 바쁘게 돌아다니고 있었다.
+PM(0)<Speaker>마카로프</Speaker>||:......+역시, 결국엔 본업을 계속하길 택했나.
+NPC_Golyat(6)<Position>0,150</Position><Speaker>알리타</Speaker>||:안녕히 주무셨어요, 마카로프 님!+알리타가 무얼 도와드릴까요?
+PM(0)<Speaker>마카로프</Speaker>||:아니, 그냥 지나가다 들렀어.
+NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:방을 구석구석 깨끗이 청소했어요! 엄청 깔끔해졌죠?
+PM(0)<Speaker>마카로프</Speaker>||:응, 아주 잘했어.
+NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:그럼 업무 평가를 해 주세요!
+()||:양손을 번쩍 들어 흔드는 알리타를 보며, 난 바로 대답하지 않고 그저 천천히 쪼그려 앉았다.
+PM(0)<Speaker>마카로프</Speaker>||:알리타, 다시 청소하는 일을 선택한 건 할 줄 아는 일이 그것뿐이어서야?
+PM(0);NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:당연히 아니죠! 알리타는 청소 말고도 할 줄 아는 거 많아요! 안내, 말 상대, 또――
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(4)<Position>0,150</Position>||:그럼 왜 청소를 했어?
+PM(0);NPC_Golyat(6)<Position>0,150</Position><Speaker>알리타</Speaker>||:제가 좋아하는 일이라서요!
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(6)<Position>0,150</Position>||:정말 네가 좋아해서야?
+PM(0);NPC_Golyat(5)<Position>0,150</Position><Speaker>알리타</Speaker>||:무슨 뜻이에요?
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(5)<Position>0,150</Position>||:...아무것도 아니야.
+PM(0)<Speaker>마카로프</Speaker>||:나도 할일이 있으니 이만 돌아갈게.
+NPC_Golyat(6)<Position>0,150</Position><Speaker>알리타</Speaker>||:네, 마카로프 님도 힘내세요!
+()||<黑屏1>:방을 나서기 전, 고개를 돌려 다시 알리타를 보았다.+작은 걸상 위에 올라서서 훨씬 큰 탁상을 닦고 있는 그 모습은 정말 즐거운 듯했다.
+()||<黑屏2><BIN>6</BIN>:...사흘째.+멀리 보이는 오두막의 문 앞에서, 작은 형체가 부지런히 눈을 치우는 것이 보였다.+문 옆으로는 작은 눈사람들이 일렬로 나란히 줄을 서 있었다.
+PM(0)<Speaker>마카로프</Speaker>||:알리타, 왜 또 밖으로 나왔어?+네 상태로 바깥은 위험하다고 했잖아.
+NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:하지만 안에선 더는 할일이 없는걸요!
+PM(0)<Speaker>마카로프</Speaker>||:......
+NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:걱정 마세요, 고물 장수한텐 안 들켜요!
+PM(0)<Speaker>마카로프</Speaker>||<黑点1>:아니, 이 근방은 안전하니까 그런 걱정은 없는데...+사실 너한텐 선택지가 꽤 많아.+굳이 예전 일을 반복할 것 없이――
+K11(0)<Speaker>K11</Speaker>||<BIN>356</BIN><Night><回忆><黑点2><黑点1>:정말 관찰자로서 아무런 간섭도 안 할 거라고 맹세할 수 있어?
+()||<黑点2><关闭蒙版><BIN>6</BIN>:하마터면 또 녀석의 판단에 간섭할 뻔했다.
+NPC_Golyat(5)<Position>0,150</Position><Speaker>알리타</Speaker>||:어... 무슨 말인지 이해가 안 돼요.
+PM(0)<Speaker>마카로프</Speaker>||<黑屏1>:...됐어, 별거 아니야.+그냥 너 하고 싶은대로 하면 돼.
+()||<黑屏2>:...나흘째.+오두막 앞은 이제 앞에 깨끗이 닦인 길이 보이게 됐고, 올 일 없는 방문객을 위한 바닥의 화살표와 목적지 표시도 생겼다.+작은 형체는 한창 바닥에 어질러진 목재를 줍느라 바쁜 모습이었다.
+PM(0)<Speaker>마카로프</Speaker>||:활동 영역이 더 넓어졌네.
+NPC_Golyat(6)<Position>0,150</Position><Speaker>알리타</Speaker>||:헤헤, 이 정돈 아무것도 아니에요! 예전엔 여기보다 훨씬 넓은 곳에서 일했다고요!
+NPC_Golyat(5)<Position>0,150</Position><Speaker>알리타</Speaker>||:...아, 지금 말실수한 건가요?
+PM(0)<Speaker>마카로프</Speaker>||:지겹지는 않아?
+NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:아뇨! 매일매일이 새로워요!
+()||<黑屏1>:부지런한 알리타의 뒷모습을 보며, 난 목구멍까지 올라왔던 말을 도로 삼켰다.
+()||<黑屏2><BIN>7</BIN>:...닷새째.+기지를 나온지 얼마 안 되어, 소복이 쌓인 눈 사이로 정리된 오솔길이 보였다.
+PM(0)<Speaker>마카로프</Speaker>||:......+녀석 참...
+()||<黑点1><SE1>RunStep</SE1>:오솔길을 따라 걸으며, 그 부지런한 작은 형체를 찾아 주위를 두리번거렸다.
+PM(0)<Speaker>마카로프</Speaker>||<BIN>356</BIN><黑点2>:알리타?+알리타, 안에 있어?
+()||:하지만 한층 더 깔끔해진 오두막 안에도, 햇빛을 받아 반짝이는 뜬 먼지만 보일 뿐이었다.
+PM(0)<Speaker>마카로프</Speaker>||<黑点1>:설마 이런 타이밍에 고장난 건 아니겠지?+알리타!
+PM(0)<Speaker>마카로프</Speaker>||<黑点2><BIN>6</BIN>:알리타! 알리타, 어딨어? 대답해!
+()||:알리타의 행동 패턴을 떠올리면서, 나는 밖으로 뛰쳐나와 땅바닥에 남은 흔적을 살폈다.+시냇물이 흐르는 소리... 쌓인 눈을 못 이기고 나뭇가지가 부러지는 소리... 돌이 가볍게 딱딱 부딪히는 소리...+딱, 딱, 딱.+타악—— 타악—— 타악——+딱, 딱, 딱.
+PM(0)<Speaker>마카로프</Speaker>||:··· --- ···+...이 소리는!+알리타!
+()||<SE1>RunStep</SE1>:나는 소리가 들려오는 방향을 향해 달렸다.+그리고 도착한 강가 옆의 바위 뒤에서, 꼼짝 못하고 있는 알리타를 찾았다.
+NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:마카로프 님...
+PM(0)<Speaker>마카로프</Speaker>||:...고장났어?
+NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:눈에 미끄러졌는데, 하필이면 바위에 부딪혔어요.+그래서 다리의 부품이 빠져서...
+()||<黑屏1>:난 그 부품을 줍고, 알리타를 안아 들고 오두막으로 돌아왔다.
+()||<黑屏2><BIN>356</BIN>:그리고 빠진 다리 부품을 다시 끼워 주었다.
+NPC_Golyat(6)<Position>0,150</Position><Speaker>알리타</Speaker>||:감사합니다 마카로프 님!
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(6)<Position>0,150</Position>||:네가 모스 부호를 알아서 망정이지, 하마터면 못 찾을 뻔했어.
+PM(0);NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:에헤헤...
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(4)<Position>0,150</Position>||:이젠 함부로 밖에 돌아다지니 마, 너 혼자선 너무 위험해.
+PM(0);NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:하지만 이게 제 일인걸요.+마카로프 님도 저한테 스스로 뭘 할지 정하라고 했잖아요?
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(4)<Position>0,150</Position>||:그래서 선택한 게 네 명줄이 얼마나 질긴지 시험해 보는 일이었어?
+PM(0);NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:아뇨! 앞으로 찾아올 손님을 더 잘 접대할 수 있도록 주위를 정리하는 일이에요!
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(4)<Position>0,150</Position>||:......+그건 네 기존 설정을 따른 것에 불과해. 네가 직접 선택했다 볼 수 없어.+네 AI 프로그램의 설정 때문에 청소를 좋아하고 사람과 어울리는 걸 좋아하는 거지. 네가 스스로 선택한 게 아니야.
+PM(0);NPC_Golyat(5)<Position>0,150</Position><Speaker>알리타</Speaker>||:그게 나쁜 일인가요?
+PM(0)<Speaker>마카로프</Speaker>;NPC_Golyat(5)<Position>0,150</Position>||:......
+PM(0);NPC_Golyat(6)<Position>0,150</Position><Speaker>알리타</Speaker>||:저는 만족해요. 처음 눈을 떴을 때부터 스스로 뭘 하고 싶은지, 뭘 좋아하는지 확실하게 알고 있으니까요.
+NPC_Golyat(6)<Position>0,150</Position><Speaker>알리타</Speaker>||:그리고, 제 AI 설정도 저의 일부 아닌가요?+그럼 AI 프로그램의 선택도 제 선택 아닌가요?
+()||:의아해하는 알리타의 되물음에, 난 할 말을 잃었다.
+NPC_Golyat(5)<Position>0,150</Position><Speaker>알리타</Speaker>||:제 말이 틀렸나요?+물론 제가 마카로프 님만큼 똑똑하진 않지만요...
+PM(0)<Speaker>마카로프</Speaker>||:...아니, 꽤 참신한 대답이었어.
+NPC_Golyat(4)<Position>0,150</Position><Speaker>알리타</Speaker>||:헤헤, 그럼 틀린 게 아니니 다행이네요.
+()||<黑屏1>:알아보긴 어려웠지만, 알리타는 왠지 쑥스러운 표정을 지은 듯했다.
