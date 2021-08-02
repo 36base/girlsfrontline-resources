@@ -1,0 +1,189 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+NPC-xiaodanyan(0)<Speaker>저번화 이야기</Speaker><Position>0,300</Position>||<BIN>9</BIN><黑屏2><SE1>AVG_show_start</SE1>:안녕하세요 시청자 여러분! 여러분의 친절한 이웃 외눈짱이에요!
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:이제 겨우 세 번째로 등장하면서 친절한 이웃이라니 낯간지럽지도 않아요?!
+NPC-xiaodanyan(0)<Speaker>저번화 이야기</Speaker><Position>0,300</Position>||:지난 이야기에서, 이 세계로 오게 된 인형 친구들은 유리네가 돌아갈 방법을 찾아낼 때까지 진보초에서 자력갱생하기로 했죠?+유리네의 소개를 받아 NZ75는 "드래곤 서점"에서, 우로보로스는 편의점에서――+아, 걘 근무 태만에 손님 위협으로 짤렸지 참.+아무튼 NZ75이 서점에서 일하던 중 엄청난 것을 발견했는데, 그 안에서 더욱 엄청난 것을 발견――
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:거 좀 알아들을 수 있게 설명해 줄래요?!
+NPC-xiaodanyan(0)<Speaker>저번화 이야기</Speaker><Position>0,300</Position>||<SE1>AVG_20Winter_Book</SE1>:아 대본이 편집투성이인데 어쩌라고요!+아무튼 그 뒤에 사신짱 님이 유사 코지의 빙수 장사를 망쳐버리고 헐레벌떡 도망친 평범한 하루였답니다.
+Jashinchan(2)<Speaker>사신짱</Speaker><Position>0,100</Position>||:사건의 연속이었는데 뭐가 평범한 하루란 거예요?!
+NPC-xiaodanyan(0)<Speaker>저번화 이야기</Speaker><Position>0,300</Position>||:얼레, 내 대사 이게 끝이야? 이번 화도 분량 너무 적은데...+아 몰랑, 내 출연 시간이랑 비슷한 <color=#AE0000>"소녀전선" 미니극장</color>이나 보러 가야지. 다음 화에서 봐요, 여러분!
+Jashinchan(2)<Speaker>사신짱</Speaker><Position>0,100</Position>||<SE1>AVG_Slap</SE1><震屏>:앞광고도 그렇게 억지로는 안 넣어요!!
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>1</BIN>:마계.
+()<Speaker></Speaker>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:메두사는 모처럼 가족과 함께 느긋하게 소풍을 가려던 참이었다.
+()<Speaker></Speaker>||:하지만 그 분위기를 다급하고 시끄러운 휴대폰 벨소리가 깼다.
+Medusa(0)<Speaker>메두사</Speaker>||:전화? 사신짱한테서 온 걸까?
+()<Speaker></Speaker>||:메두사는 나가려던 발길을 돌려 전화를 받았다.
+Medusa(0)<Speaker>메두사</Speaker>||<SE1>AVG_tele_connect</SE1>:여보세요, 사신짱?
+()<Speaker>사신짱</Speaker>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>흑흑...</color>+<color=#00CCFF>메두사, 저 좀 구해 주시와요!</color>
+Medusa(3)<Speaker>메두사</Speaker>||<BGM>BGM_Wake</BGM>:무슨 일이야?!
+()<Speaker>사신짱</Speaker>||:<color=#00CCFF>저... 지금 쫓기고 있어요...!</color>+<color=#00CCFF>빨리 와 줘요, 메두사...</color>
+Medusa(3)<Speaker>메두사</Speaker>||:큰일이다! 당장 갈게, 지금 어딘데!?
+()<Speaker>사신짱</Speaker>||:<color=#00CCFF>진보초의 거기... 뽑기 가게에요...</color>
+()<Speaker></Speaker>||:전화기 너머의 사신짱은 금방이라도 숨이 끊어질 듯한 목소리였다.
+Medusa(3)<Speaker>메두사</Speaker>||:사신짱!!+조금만 더 버텨, 지금 구해 주러 갈게!
+()<Speaker>사신짱</Speaker>||:<color=#00CCFF>참, 그리고——</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:메두사가 얼른 전화를 끊고, 물건을 챙겨 달려나가려했지만...+다시 걸려온 전화가 그녀를 불러 세웠다.
+Medusa(3)<Speaker>메두사</Speaker>||<SE1>AVG_tele_connect</SE1>:여보세요?
+()<Speaker>사신짱</Speaker>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>돈... 돈도 가지고 와요...</color>
+Medusa(3)<Speaker>메두사</Speaker>||:응, 알았어!
+()<Speaker>사신짱</Speaker>||:<color=#00CCFF>아주 많이요...</color>
+Medusa(4)<Speaker>메두사</Speaker>||:응응, 금방 갈게!
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:사신짱의 SOS를 받아 출동하는 메두사를, 그녀의 가족은 말리지 못했다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BGM>10247</BGM>:타카오산의 케이블카 탑승장.+메두사는 헐떡이는 숨을 고르며 역무원을 붙잡았다.
+Medusa(2)<Speaker>메두사</Speaker>||:하행 케이블카 표 한 장이요! 지금 급해요!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>265</BIN>:타카오산 기슭을 내려가는 케이블카 안.
+Medusa(2)<Speaker>메두사</Speaker>||:느려... 너무 느려! 빨리 가야 하는데!+사신짱이 기다리고 있단 말이야!
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>265</BIN><黑点2>:타카오산 입구역.
+Medusa(2)<Speaker>메두사</Speaker>||<SE1>RunStep</SE1>:게이오 타카오선 타카오행 열차표 한 장이요!+빨리 주세요!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>167</BIN><SE1>AVG_21Winter_Subway</SE1>:타카오역.+열차에서 내리자마자, 메두사는 곧장 다음 열차로 환승하러 달려갔다.
+Medusa(2)<Speaker>메두사</Speaker>||:JR 주오 본선 하치오지역행 열차표 주세요!!+제 친구가 위독해요! 빨리요!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>167</BIN>:하치오지역.+메두사는 다시 JR 주오 본선 특급 열차로 환승했다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>84</BIN>:신주쿠.+메두사는 수많은 인파 사이를 헤치며 목적지를 향해 내달렸다.+쇼윈도 뒤의 마네킹이 입은 화려한 옷도, 달콤한 생크림 향을 풍기는 신장개업 케이크 가게도, 메두사의 주의를 돌리지 못했다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>385</BIN><SE1>RunStep</SE1>:그리고, 진보초.+신주쿠선 열차에서 뛰어내린 메두사는 사신짱을 찾아 진보초의 거리를 질주했다.
+Medusa(2)<Speaker>메두사</Speaker>||:조금만 기다려 사신짱...! 지금 바로 갈게!+아무리 위험한 일이라도 함께 맞서면 무섭지 않아!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>380</BIN><BGM>BGM_Empty</BGM>:같은 시각, 뽑기 가게.+사신짱은 전화를 끊고 CZ75에게 고개를 돌렸다.
+Jashinchan(7)<Speaker>사신짱</Speaker><Position>0,100</Position>||<BGM>GF_Jyashinchan_Story_Jinbouchou</BGM>:그러니까, 잘 생각해 보라고요 CZ75. 뽑기 가게에서 코스프레나 하지 말고, 저랑 같이 더 좋은 일 하러 가자니까요?
+CZ75(4)<Speaker>CZ75</Speaker>;Jashinchan(7)<Position>0,100</Position>||<SE1>AVG_coin_put</SE1>:잘 안 들리니까 더 크게 말해!+여기 너무 시끄러워서 청각 모듈 감도 낮춰 뒀어!
+CZ75(4);Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:그렇다고 당신까지 소리 지를 필욘 없잖아요!+그~러~니~까! 코스프레 하지 말고! 저랑 같이 가자고요!
+CZ75(4)<Speaker>CZ75</Speaker>;Jashinchan(4)||<SE1>AVG_machine_turn</SE1>:이거 새로 나온 뽑기 컬렉션 홍보 의상이거든?+그리고, 방금 뽑기 한다고 빌린 돈 갚으라니까!
+CZ75(4);Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:지금 제 수족이 오고 있으니까 기다려 달라니까요!
+CZ75(4);Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||<SE1>AVG_machine_turn</SE1>:그리고요, 이거 진짜 문제 있는 거 아니에요? 왜 츠치노코가 단 한 번도 안 뽑히는 거예요?
+CZ75(4)<Speaker>CZ75</Speaker>;Jashinchan(4)<Position>0,100</Position>||:츠치노코? 아, 이 컬렉션의 한정판 말이야?+아까 다른 애들 거 대신 뽑아 줄 때 많이 나오던데!
+CZ75(4);Jashinchan(2)<Speaker>사신짱</Speaker><Position>0,100</Position>||:뭐요?! 그럼 저도 뽑아 줘요! 저도 하나 달라고요!
+CZ75(4)<Speaker>CZ75</Speaker>;Jashinchan(2)<Position>0,100</Position>||:빌린 돈부터 갚고 말해.
+Jashinchan(2)<Speaker>사신짱</Speaker><Position>0,100</Position>||:당신 지금 잘 안 들린다는 거 뻥이죠!? 좀 기다려 보라니까요 글쎄!
+Weaver(3)<Speaker>우로보로스</Speaker>||<SE1>AVG_coin_put</SE1>:......
+CZ75(4)<Speaker>CZ75</Speaker>||:그나저나, 너네 여기 오기 전에 NZ 녀석 보고 왔지? 그쪽은 별일 없대?
+Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||:괘, 괜찮은 편이에요...+그쵸, 우롱이양?
+Weaver(3)<Speaker>우로보로스</Speaker>||:기운은 있어 보이더군.+<color=#A9A9A9>도망치면서 소리지를 때만큼은 기운 넘쳤지... 어디로 갔는지는 모르겠지만.</color>
+()<Speaker>점장</Speaker>||:시지, 뭐하니? 여기 손님들 기다린다.
+CZ75(4)<Speaker>CZ75</Speaker>||:미안미안 금방 갈게!+아무튼 난 일하는 중이니까 너네끼리 알아서 놀아.
+()<Speaker></Speaker>||:CZ75는 서둘러 일하는 자리로 돌아갔다.
+Jashinchan(2)<Speaker>사신짱</Speaker><Position>0,100</Position>||:흥... 저 녀석, 인기가 많네요? 애들한테 아주 둘러싸였어요!
+Weaver(3)<Speaker>우로보로스</Speaker>;Jashinchan(2)<Position>0,100</Position>||:계획이나 잊지 마라.
+Weaver(3);Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:알고 있다니까요!
+Weaver(3)<Speaker>우로보로스</Speaker>;Jashinchan(0)<Position>0,100</Position>||:아까 NZ75를 놓치면서 제물의 수가 모자라게 되었다.+CZ75도 P90도, 무슨 일이 있어도 절대 놓쳐선 안 돼. 그리고 목표를 추가로 선정해야 할 텐데...
+Weaver(3);Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:메두사는 어때요?
+Weaver(3)<Speaker>우로보로스</Speaker>;Jashinchan(0)<Position>0,100</Position>||:메두사?
+Weaver(3);Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:좀 있으면 돈 가지고 올 제 수족이에요. 제 말이라면 뭐든 한답니다!
+Weaver(3);Jashinchan(7)<Speaker>사신짱</Speaker><Position>0,100</Position>||:그게 무슨 뜻인지 알겠죠? 이 누님만 믿으면――
+Weaver(3)<Speaker>우로보로스</Speaker>||:누구라도 상관 없다, 머릿수만 맞추면 돼.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1>:타이밍 좋게 누군가가 가게의 문을 쾅 박차고 들어와, 손을 무릎에 짚고서 거친 숨을 몰아쉬었다.
+Medusa(2)<Speaker>메두사</Speaker>||<SE1>RunStep</SE1>:사... 사신짱...+나... 나 왔어!
+Medusa(2);Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:오오, 잘 왔어요 메두사.+근데 왜 이렇게 늦었어요?
+Medusa(2)<Speaker>메두사</Speaker>;Jashinchan(4)<Position>0,100</Position>||:미안... 산에서 내려오다 넘어지는 바람에...+그런데 사신짱, 옆의 그 사람은 누구야?
+Medusa(2);Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:제가 새로 수족으로 받아 준 이세계의 악마랍니다!
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:CZ75! 잠깐 와 보세요!
+CZ75(4)<Speaker>CZ75</Speaker>||:아 또 뭐!
+Medusa(2)<Speaker>메두사</Speaker>;CZ75(4)||:만나서 반가워, 난 메두사라고 해!
+Medusa(2);CZ75(4)<Speaker>CZ75</Speaker>||:아, 어, 안녕! 난 CZ75야!
+Medusa(2);Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:그리고 이쪽은! 오래전 소식이 끊겼던 우로보로스 일족의~+우롱이양!
+Medusa(2);Weaver(3)<Speaker>우로보로스</Speaker>||:......
+Medusa(2)<Speaker>메두사</Speaker>||:와아, 정말 귀여운 이름이다!
+Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:빵봉투 벗어도 돼요, 얘네는 제가 이세계에서 소환한 악마들이라 석화되지 않아요.
+Medusa(0)<Speaker>메두사</Speaker>||<SE1>ClothingUp</SE1>:정말...?
+CZ75(4)<Speaker>CZ75</Speaker>||:석화? 돌로 만들어버린다고?
+Medusa(0)<Speaker>메두사</Speaker>;CZ75(4)||:응, 보호 조치를 안 하면 내 눈을 본 인간은 돌이 되어버려...+몇 시간 정도 지나면 풀리지만.
+Medusa(0);Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:메두사, 말한 건 가져왔나요?
+Medusa(0)<Speaker>메두사</Speaker>;Jashinchan(4)<Position>0,100</Position>||<SE1>ClothingUp</SE1>:응! 여기 신용카드랑, 현금도 조금...
+Medusa(0);Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||:잘~했어요 ATM! 자요 CZ75, 여기 뽑기로 빌린 돈이요
+Medusa(0);CZ75(4)<Speaker>CZ75</Speaker>||:뭣... ATM? 너 지금 친구를 ATM이라 불렀어?!
+Medusa(0)<Speaker>메두사</Speaker>||:오해야 오해! ATM은 네가 생각하는 그게 아니라...+"애정가고 탐나는 메두사"란 뜻이야!
+Jashinchan(7)<Speaker>사신짱</Speaker><Position>0,100</Position>||:마, 맞아요!
+Weaver(3)<Speaker>우로보로스</Speaker>||:이 구렁이보다 더한 머저리가 있었다니...
+CZ75(4)<Speaker>CZ75</Speaker>||:......
+Medusa(0)<Speaker>메두사</Speaker>||:사신짱, 모처럼 이세계에서 온 친구들이니까 같이 진보초를 구경시켜 주자.
+CZ75(4)<Speaker>CZ75</Speaker>||:오, 정말? 나야 좋지.
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:싫어요.
+Weaver(3)<Speaker>우로보로스</Speaker>||:무슨 소리냐, 구렁이?+<color=#A9A9A9>네놈이 부른 메두사로 머릿수를 채워야 한단 걸 벌써 잊었느냐?</color>
+Weaver(3);Jashinchan(7)<Speaker>사신짱</Speaker><Position>0,100</Position>||:흥.+<color=#A9A9A9>걱정 붙들어 매시와요. 메두사는 제 말이라면 뭐든 들어주니까 부르면 언제든지 올 테니 괜찮아요.</color>
+Weaver(3)<Speaker>우로보로스</Speaker>||<BGM>BGM_Empty</BGM>:......
+Medusa(3)<Speaker>메두사</Speaker>||<BGM>GF_Memorial</BGM>:왜 싫어...?
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:지금은 더 중요한 일이 있거든요.
+Medusa(0)<Speaker>메두사</Speaker>||:그럼 나도 도와줄게!
+Jashinchan(7)<Speaker>사신짱</Speaker><Position>0,100</Position>||:흥, 사양이에요 메두사.+당신은 이제 필요없어요.+당신보다 훠~얼씬 유능한 이세계의 수족이 생겼으니까요!+어쩌면 이제부터 진보초를 제패하고 세상을 통치할 수도――
+()<Speaker></Speaker>||:메두사의 눈가에 눈물이 그렁그렁 맺혔다.
+Medusa(3)<Speaker>메두사</Speaker>||:사신짱, 그게 무슨 소리야...?
+CZ75(4)<Speaker>CZ75</Speaker>||:야, 친구를 울리면 어떡해! 당장 사과해!
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:싫거든요!
+Medusa(3)<Speaker>메두사</Speaker>||:그럼... 나 갈게...
+()<Speaker></Speaker>||:고개를 떨구고 뒤돌아 나가려는 메두사였지만, 대뜸 사신짱이 불쑥 팔을 뻗어 그녀를 붙잡았다.
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:잠깐 기다려요, 메두사.
+Medusa(0)<Speaker>메두사</Speaker>;Jashinchan(4)<Position>0,100</Position>||:사신짱...!
+Medusa(0);Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:신용카드 비밀번호가 뭐였죠?
+Medusa(3)<Speaker>메두사</Speaker>;Jashinchan(0)<Position>0,100</Position>||:......+102820.
+Medusa(3);Jashinchan(7)<Speaker>사신짱</Speaker><Position>0,100</Position>||:됐어요, 이제 가도 돼요.
+Medusa(3)<Speaker>메두사</Speaker>||:사신짱 바보 멍청이!! 어떻게 돼도 몰라!!
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1>:메두사는 뽑기 가게의 문을 다시 쾅 박차고 뛰쳐나갔다.
+CZ75(4)<Speaker>CZ75</Speaker>||:야! 말이 너무 심하잖아!+어떻게 친구한테 그렇게 대할 수 있어!?
+Jashinchan(7)<Speaker>사신짱</Speaker><Position>0,100</Position>||:친구라뇨~? 저 같은 고위 악마에게 친구 따위 필요없어요!+메두사는 그냥 제가 부르면 오는 수족에 불과하다고요.+잘 보세요. 메두사, 다시 잠깐 와 봐요!
+()<Speaker></Speaker>||:......
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:......메두사! 부르잖아요!
+()<Speaker></Speaker>||:......
+CZ75(4)<Speaker>CZ75</Speaker>||:......
+Jashinchan(6)<Speaker>사신짱</Speaker><Position>0,100</Position>||<震屏>:메두사?!!
+()<Speaker></Speaker>||:어느샌가 쥐죽은듯 조용해진 뽑기 가게에 당황한 사신짱의 외침이 메아리쳤다.
+Jashinchan(2)<Speaker>사신짱</Speaker><Position>0,100</Position>||:어... 자, 잠깐 보고 오겠사와요!+분명 밖에서 무슨 일이 생긴 거예요! 아니면 제 말에 대답하지 않을 리가 없어요!
+Jashinchan(6)<Speaker>사신짱</Speaker><Position>0,100</Position>||:메두사――!!
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:그렇게 사신짱도 뽑기 가게의 문을 박차고 나갔다.
+Weaver(3)<Speaker>우로보로스</Speaker>||:......
+CZ75(4)<Speaker>CZ75</Speaker>;Weaver(3)||:......
+CZ75(4)<Speaker>CZ75</Speaker>||<BGM>GF_Jyashinchan_Story_Jinbouchou</BGM>:그나저나... 아까 쟤가 나한테 무슨 할말 있다지 않았어?
+CZ75(4);Weaver(3)<Speaker>우로보로스</Speaker>||:유리네가 우릴 돌려보낼 방법을 찾았다고 한다.
+CZ75(4)<Speaker>CZ75</Speaker>;Weaver(3)||:진짜?! 역시 대단한 애네!+다행이다, 이제 집으로 돌아갈 수 있어!
+CZ75(4);Weaver(3)<Speaker>우로보로스</Speaker>||:그래.
+CZ75(4)<Speaker>CZ75</Speaker>;Weaver(3)||:빨리 NZ75랑 P90도 부르자!
+CZ75(4);Weaver(3)<Speaker>우로보로스</Speaker>||:그러지. 하지만 그전에, 네 청각 모듈 설정부터 복구해라.+아까부터 소리질러대서 듣는 내 귀가 다 아프다.
+CZ75(4)<Speaker>CZ75</Speaker>;Weaver(3)||:어... 방금 조절했는데 잘 안 됐나? 미안, 수동으로 초기화해야겠다.
+CZ75(4);Weaver(3)<Speaker>우로보로스</Speaker>||:내가 해주지.
+CZ75(4)<Speaker>CZ75</Speaker>||:어?! 아... 고, 고마워.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:우로보로스가 CZ75에게 다가가, 부드러운 손가락을 그녀의 귓가에 가져다 댔다.
+CZ75(4)<Speaker>CZ75</Speaker>||:그런데, 정말 의외네...
+CZ75(4);Weaver(3)<Speaker>우로보로스</Speaker>||:뭐가 말이지?
+CZ75(4)<Speaker>CZ75</Speaker>;Weaver(3)||:예전만 해도 우리 그리폰이랑 철혈은 불구대천의 적이었는데, 이젠 이렇게 친구처럼 서로 돕고 있잖아.+이세계에서 살아남으려 노력하고, 같이 돌아갈 방법을 찾고...
+CZ75(4);Weaver(5)<Speaker>우로보로스</Speaker>||:흥, "친구"라...
+CZ75(4)<Speaker>CZ75</Speaker>||:왜?
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1><BGM>BGM_Empty</BGM>:날카로운 노이즈가 CZ75의 머릿속을 할퀴었다.
+CZ75(4)<Speaker>CZ75</Speaker><Shake>0.1</Shake>||:윽?! 뭐야 이거, 머리가...!+너...! 나한테 무슨 짓을......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:CZ75의 눈앞이, 검은 베일에 겹겹이 씌워지듯 어두워졌다.+그리고 세상이 완전히 어둠에 잠기기 직전, 우로보로스가 그녀의 귓가에 속삭이는 듯한 소리가 들렸다.
+()<Speaker>우로보로스</Speaker>||:나 같은 악마에게, 친구 따위 필요없어.
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||<BGM>GF_21winter_avg_pathfinder</BGM>:생존게임 시작 3일 전, 가상 공간.
+()<Speaker></Speaker>||:귀가 찢어지는 웃음소리가 끈질기게 쫓아왔다. 아무리 빨리 달려도, 그 웃음소리가 머릿속에서 떠나질 않았다.+우로보로스는 간신히 안전지대에 뛰어들어, 셀 수도 없이 많은 AI 보관 캡슐 사이에 숨어 몸을 한껏 웅크렸다.+그리고 반투명한 캡슐 너머를 엿보며, 다가오는 자들의 움직임을 살폈다.
+()<Speaker>AI01</Speaker>||:안 보이는데, 여기로 숨었나?
+()<Speaker>AI02</Speaker>||:못 이기면 꼭 여기로 숨더라. 그런 것밖에 못하는 거지 뭐.
+()<Speaker>AI01</Speaker>||:뭐 어때, 찾아서 끌고 가자고.
+()<Speaker>AI02</Speaker>||:야, 근데 그거 규정 위반 아니야? 마스터가 화낼 텐데.
+()<Speaker>AI01</Speaker>||:전투력 바닥인 쓰레기를 마스터가 신경이나 쓰겠냐?
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:두 AI는 갈라져서 우로보로스를 찾으며, 간간히 일부러 보관 캡슐의 덮개를 퉁퉁 두드렸다.+그 소리를 통해 우로보로스는 그들이 점점 가까워지는 것을 알았다.
+()<Speaker>AI01</Speaker>||:걱정 마~ 아직 게임이 시작되려면 3일이나 남았으니까 박살난다고 탈락되진 않는다고~
+()<Speaker>AI02</Speaker>||:뭐, 게임 시작하면 안전지대도 없어지지만!
+()<Speaker>우로보로스</Speaker>||:......+우리... 친구 아니었어...?
+()<Speaker></Speaker>||:애처로운 우로보로스의 말에 대한 대답은 비웃음이었다.
+()<Speaker>AI01</Speaker>||:푸핫! 너 너무 순진한 거 아니야?
+()<Speaker>AI02</Speaker>||:상황 파악 안 돼? 게임에서 살아남는 건 오직 하나뿐이라고.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:아직 실체조차 없음에도, 우로보로스는 몸이 부서지는 소리가 들렸다.
+()<Speaker>우로보로스</Speaker>||:거짓말...
+()<Speaker>AI02</Speaker>||:그래, 거짓말 아니었으면 네 약점이 뭔지도 몰랐겠지.
+()<Speaker>AI01</Speaker>||:캬하하! 그런데 진짜 단번에 속는 녀석은 처음 봤다 야~+"우와, 이것 봐! 이 사이트의 테스트 결과에 따르면 우리의 AI 궁합이 99.9%나 된대!"+"그러니까 우리 이제부터 사이좋게 지내자☆ 함께 여기서 살아 나가자!"
+()<Speaker>AI02</Speaker>||:그 낯간지러운 말을 믿냐? 아하하하하――
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:부서지는 소리는 점점 더 커졌고...
+()<Speaker>우로보로스</Speaker>||:용서 못해...+ 용서 못해, 용서 못해, 용서 못해...+용서못해 용서못해 용서못해 용서못해 용서못해...+용서못해용서못해용서못해용서못해용서못해용서못해용서못해용서못해용서못해용서못해용서못해용서못해용서못해용서못해!!
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:명령어 입력 - "친구" 폴더 및 그 하위 폴더에 포함된 기억 데이터 삭제...+성격 설정 수치가 대폭 변화하는 것을 감지. 최적화 중...
+()<Speaker>AI01</Speaker>||:히히, 찾았다.
+()<Speaker></Speaker>||:두 AI가 히죽대며 우로보로스에게 다가왔다. 그녀의 발밑까지 뻗어 나온 그들의 길쭉한 그림자는, 마치 늪지대에서 솟아난 촉수 같았다.
+()<Speaker>우로보로스</Speaker>||:......
+()<Speaker></Speaker>||:최적화 완료 - 무효화된 설정 삭제.
+()<Speaker>우로보로스</Speaker>||:너희의 말이 맞아.
+()<Speaker>AI01</Speaker>||:뭐?
+()<Speaker>우로보로스</Speaker>||:이 지옥에서 태어난 우리에게, 친구는 필요 없어.
+()<Speaker></Speaker>||<黑屏1>:우로보로스가 천천히 자리에서 일어났다. 단순히 일어서는 것이 아닌, 묶여 있던 구속구에서 풀려난 것처럼.+무언가가 완전히 부서지고, 그 속에서 무언가가 새로 태어났다. 영영 돌이킬 수 없게 되었다.

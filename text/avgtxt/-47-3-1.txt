@@ -1,0 +1,117 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>웨이터</Speaker>||<BIN>97</BIN><BGM>GF_Swim_Marnie</BGM><黑屏2>:보랜스노 씨! 어서 오십시오!+아주 좋은 자리를 마련해 두었습니다, 바로 안내해드릴까요?
+NPC_baolan(2)<Speaker>보랜스노？</Speaker>||:아... 아뇨, 괜찮아요. 이따가 갈게요.
+NPC_baolan(2)<Speaker>웨이터</Speaker>||:알겠습니다. 그럼 우선 샴폐인 한 잔 즐기시겠습니까? 저희가 특별히 마련한, 보랜스노 씨가 가장 선호하시는 연도산입니다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:웨이터가 잔을 꺼내 투명한 연황색의 샴페인을 따르니, 온갖 과일향이 섞인 향기가 풍겼다.
+NPC_baolan(2)<Speaker>보랜스노？</Speaker>||:고, 고마워요.
+NPC_baolan(2)<Speaker>웨이터</Speaker>||:마음에 드셨으면 좋겠습니다.+그럼, 오늘의 파티를 즐겨 주십시오.
+NPC_baolan(2)<Speaker>보랜스노？</Speaker>||:네에...
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>139</BIN><黑屏2><SE1>AVG_door_elecport</SE1>:자선 파티장 내부.
+NPC_baolan(0)<Speaker>보랜스노？</Speaker>||:후우―― 드디어 들어왔다!
+NPC_baolan(0);MDR(4)<Speaker>MDR</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>이제 겨우 입장했을 뿐인데 뭘 그렇게 긴장해?</color>
+NPC_baolan(0);NPC_baolan(4)<Speaker>보랜스노</Speaker><通讯框>||:<color=#00CCFF>루이스 씨는 잘하고 계세요.</color>+<color=#00CCFF>아무리 저라도 이렇게 단시간에 다른 사람을 연기하진 못하는걸요?</color>
+NPC_baolan(2)<Speaker>루이스</Speaker>;NPC_baolan(4)<通讯框>||:으헤... 과, 과찬이십니다!
+NPC_baolan(2);NPC_baolan(4)<Speaker>보랜스노</Speaker><通讯框>||:<color=#00CCFF>어... 우리 그냥 말 놓을까요? 친구처럼 느껴져서, 편하게 말하고 싶은데...</color>
+NPC_baolan(0)<Speaker>루이스</Speaker>;NPC_baolan(4)<通讯框>||:엑... 저, 정말요? 정말 말 놓아도 돼...요?
+NPC_baolan(0);NPC_baolan(4)<Speaker>보랜스노</Speaker><通讯框>||:<color=#00CCFF>응, 이제 친구니까 괜찮아.</color>
+NPC_baolan(2)<Speaker>루이스</Speaker>;NPC_baolan(4)<通讯框>||:우와아...! 보랜스노랑 친구다! 만세!
+NPC_baolan(2);Welrod(2)<Speaker>웰로드</Speaker><通讯框>||:<color=#00CCFF>정신 차려 루이스, 지금은 임무 중이다.</color>
+NPC_baolan(0)<Speaker>루이스</Speaker>||:아차차... 그래, 지금 나는 초 유명 배우 보랜스노! 옷소매에 깃털 모양 단추가 달린 사람을 찾아야 해!
+M200(4)<Speaker>M200</Speaker><通讯框>||:<color=#00CCFF>그걸 굳이 말로 할 필요가...?</color>
+()<Speaker>？？？</Speaker>||<SE1>AVG_tele_disconnect</SE1>:보랜스노! 이야, 오랜만이야.
+NPC_baolan(0)<Speaker>루이스</Speaker>||:(누구지???)+아... 응, 오랜만.
+NPC_baolan(4)<Speaker>？？？</Speaker>||:[웨이브 랭글러] 정말 환상적이었어. 네 얼굴 보고 싶어서 스케줄에 특별히 시간을 만들었다고.
+NPC_baolan(4)<Speaker>루이스</Speaker>||:아하하하... 여기서 이렇게 만나다니 인연이네.
+NPC_baolan(4)<Speaker>？？？</Speaker>||:풉, 인연이라기 보단 내가 쫓아다니는 거지만 말이지.+괜찮으면 같이 바람이나 쐬러 갈까?
+M200(4)<Speaker>M200</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>그 사람은 소매 단추가 깃털 모양이 아니에요.</color>
+NPC_baolan(4)<Speaker>루이스</Speaker>||:...미안, 컨디션이 좀 안 좋은지 찬 바람을 쐬면 바로 머리가 아파져서.
+NPC_baolan(4)<Speaker>？？？</Speaker>||:아아... 아쉽지만 어쩔 수 없지.
+()<Speaker></Speaker>||:루이스가 앉을 자리를 찾던 와중, 또 다른 사람이 그녀에게 다가왔다. 태도로 보아선 알고 지낸 지 꽤 되는 듯했다.
+NPC-Bodyguard2(0)<Speaker>？？？</Speaker>||:이게 누구야, 오늘의 하이라이트가 이렇게 일찍 나타나다니 별일인걸?
+NPC_baolan(0)<Speaker>루이스</Speaker>;NPC-Bodyguard2(0)||:...괜한 참견이야.
+NPC_baolan(0);NPC-Bodyguard2(0)<Speaker>？？？</Speaker>||:???+보랜스노...?
+NPC_baolan(0);NPC_baolan(0)<Speaker>보랜스노</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>크흠... 그 사람은 [웨이브 랭글러]의 남주인공 역을 맡은 게인이야.</color>
+NPC_baolan(1)<Speaker>루이스</Speaker>;NPC_baolan(0)||:으엑!? 세상에, 영화 속 모습이랑 완전 딴판이잖아?! 팬이 봐도 누구냐고 묻겠다!
+NPC_baolan(1);NPC-Bodyguard2(0)<Speaker>게인</Speaker>||:보랜스노?+지금 누구랑 얘기하는 거야?
+NPC_baolan(1);MDR(4)<Speaker>MDR</Speaker><通讯框>||:<color=#00CCFF>뭐해, 너한테 말 걸고 있잖아!</color>
+NPC_baolan(4)<Speaker>루이스</Speaker>||<SE1>AVG_tele_disconnect</SE1>:어어, 아, 아무것도 아니야. 오늘은 좀 피곤해서 빨리 돌아가 쉬고 싶어서 일찍 왔어.
+NPC_baolan(4);NPC-Bodyguard2(0)<Speaker>게인</Speaker>||:하하, 벌써 너무 많이 마시기라도 했어?+파티는 보나마나 새벽까지 이어질 텐데, 자리를 빛낼 오늘의 인물이 일찍 빠지면 곤란하지.
+NPC_baolan(4);NPC-Bodyguard2(0)<Speaker>게인</Speaker>||:정신 좀 차리게 술 대신 커피 가져올까?+아님 뭐 다른 거 마시고 싶은 거라도 있어?
+NPC_baolan(0)<Speaker>루이스</Speaker>||:술 안 마셨어, 커피도 됐고.
+NPC_baolan(0);M200(4)<Speaker>M200</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>와아... 월드 스타급 배우도 이렇게 귀찮은 일이 잔뜩 꼬이는군요.</color>
+NPC_baolan(0);NPC_baolan(0)<Speaker>보랜스노</Speaker><通讯框>||:<color=#00CCFF>영화 속 인물과 현실은 엄연히 다른 법이니까.</color>+<color=#00CCFF>누가 뭐래도 영화는 예술이야. 평범한 사람은 예술의 파도 속에서 살아남을 수 없어.</color>
+NPC_baolan(0);NPC_baolan(4)<Speaker>루이스</Speaker>;NPC_baolan(0)||:보랜스노도 정말 고생이 많구나, 이런 끈덕진 사람도 상대해야 하고!
+NPC_baolan(0);Thunder50(2)<Speaker>썬더</Speaker><通讯框>||:<color=#00CCFF>그래도 한눈팔진 마, 지금 급선무는 깃털 소매 단추가 있는 사람을 찾는 거야.</color>
+NPC_baolan(0)<Speaker>루이스</Speaker>||<SE1>AVG_tele_disconnect</SE1>:아 나도 안다니까!
+NPC-Bodyguard2(0)<Speaker>게인</Speaker>||:보랜스노, 왜 그래? 오늘따라 날 전혀 신경쓰지 않는 거 같은데.
+NPC_baolan(0)<Speaker>루이스</Speaker>;NPC-Bodyguard2(0)||:(내가 뭐 신경쓸 만한 물건이 있어야 신경을 써 주든 하지!)+아아니, 그냥 속이 좀 안 좋아서.
+NPC_baolan(0);NPC-Bodyguard2(0)<Speaker>게인</Speaker>||:이런, 속이 안 좋다고? 만병통치약인 내 얼굴을 봤는데도?
+NPC_baolan(0)<Speaker>루이스</Speaker>;NPC-Bodyguard2(0)||:......
+NPC_baolan(0)<Speaker>루이스</Speaker>;NPC-Bodyguard2(0)||:미안, 이만 가볼게!
+NPC_baolan(0);NPC-Bodyguard2(0)<Speaker>게인</Speaker>||:엇? 기다려, 우리 사이에 그래도 설명은 해 줘야――
+NPC_baolan(0)<Speaker>루이스</Speaker><Shake>0.1</Shake>||<SE1>ClothingUp</SE1>:아 이 손 놓――꺄악!
+()<Speaker></Speaker>||:게인이 잡아당기는 바람에 서둘러 자리를 벗어나려던 루이스는 발을 헛디뎌 넘어질 뻔했지만, 타이밍 좋게 다른 누군가가 그녀를 받아 주었다.
+NPC_baolan(0)<Speaker>루이스</Speaker>||:죄, 죄송합니다...
+()<Speaker></Speaker>||:바로 몸을 세운 루이스 앞에는 처음 보는 젊은 남성이 있었다.
+NPC_girill(0)<Speaker>？？？</Speaker>||:천만에요. ...응?+이런! 보랜스노 씨였군요!
+NPC_baolan(4)<Speaker>루이스</Speaker>;NPC_girill(0)||:어... 안녕하세요?
+NPC_baolan(4);NPC_girill(0)<Speaker>？？？</Speaker>||:월드 스타인 당신과 함께 이렇게 자선 파티에 참석하게 되어 대단히 영광입니다.
+NPC_baolan(4)<Speaker>루이스</Speaker>;NPC_girill(0)||:고... 고마워요.
+NPC_baolan(4);NPC_girill(0)<Speaker>？？？</Speaker>||:그런데, 당신 같은 사람이라면 거드름 좀 피워도 나무랄 사람 없지 않습니까? 파티 리셉션까지 아직 30분이나 남았는데 벌써 오시다니, 뜻밖이군요.+아 참, [웨이브 랭글러] 정말 잘 봤습니다, 온갖 상을 휩쓴 건 누가 봐도 자명했어요. 제 친구들끼리 내기할 거리도 없었다니까요? 다들 어지간한 상은 다 [웨이브 랭글러]와 당신이 수상할 거라 했거든요.
+NPC_baolan(2)<Speaker>루이스</Speaker>||:좋은 작품이죠, [웨이브 랭글러]!
+Thunder50(2)<Speaker>썬더</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>그 사람 소매 단추 확인했어?</color>
+NPC_baolan(1)<Speaker>루이스</Speaker>||:...헉, 이 사람이다.
+NPC_baolan(1);NPC_girill(0)<Speaker>？？？</Speaker>||:누가요?
+NPC_baolan(2)<Speaker>루이스</Speaker>;NPC_girill(0)||:아, 아하하! 아뇨, 아무것도 아니에요. 저기, 휴게실에서 과일이나 좀 먹으려는데 같이 가실래요?
+NPC_baolan(2);NPC_girill(0)<Speaker>？？？</Speaker>||:호오...? 당신 정도 되는 분은 식단 관리도 까다로울 줄 알았는데요.
+NPC_baolan(2)<Speaker>루이스</Speaker>;NPC_girill(0)||:과일쯤은 먹어도 상관없어요.
+NPC_baolan(2);NPC_girill(0)<Speaker>？？？</Speaker>||:그러시다면야. 그럼 가실까요?
+NPC_baolan(4)<Speaker>루이스</Speaker>||:좋아요.
+NPC-Bodyguard2(0)<Speaker>게인</Speaker>||:엑, 보랜스노? 갑자기 무슨 소릴... 아는 사람이야? 보랜스노?
+NPC_baolan(0)<Speaker>루이스</Speaker>||:......
+Welrod(2)<Speaker>웰로드</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>보랜스노 씨, 아는 사람입니까?</color>
+M200(4)<Speaker>M200</Speaker><通讯框>||:<color=#00CCFF>보랜스노 씨?</color>
+Welrod(2)<Speaker>웰로드</Speaker><通讯框>||:<color=#00CCFF>이상해, 통신이 두절됐어.</color>
+MDR(4)<Speaker>MDR</Speaker><通讯框>||:<color=#00CCFF>뭐? 그럴 리가, 우리 방에 있는데 어떻게 통신이 끊어져?</color>
+Welrod(2)<Speaker>웰로드</Speaker><通讯框>||:<color=#00CCFF>단순히 신호 불량일 수도 있겠지. 루이스, 그 사람을 붙잡아 두고 있어라. 우리는 복도에서 대기할 테니 상황 발생 시 즉시 호출하도록.</color>
+NPC_baolan(1)<Speaker>루이스</Speaker>||<SE1>AVG_tele_disconnect</SE1>:뭐?! 그치만 난――
+NPC_girill(2)<Speaker>？？？</Speaker>||<BGM>BGM_Empty</BGM>:자아 그럼 아가씨, 여기라면 보는 사람도 없으니 연기는 그만두실까?+얌전히 물건을 내놓는다면 고맙겠는데.
+NPC_baolan(0)<Speaker>루이스</Speaker>;NPC_girill(2)||:...그러는 당신은 누군데요?
+NPC_baolan(0);NPC_girill(2)<Speaker>발렌타인</Speaker>||:개의치 않는다면 "발렌타인"이라 불러 줘.+하지만 괜히 시치미 떼진 말아 주겠어? 미녀에겐 신사적으로 대하지만, 그것도 한계가 있어서 말이지.
+NPC_baolan(4)<Speaker>루이스</Speaker>;NPC_girill(2)||:어머, 그래요? 사실은 저도――+전부 똑똑하게 들은 건 아니라서요.
+NPC_girill(2)<Speaker>발렌타인</Speaker>||:귀 어두운 척해도 소용없어, 아가씨는 눈치 빠른 사람이잖아?
+Welrod(2)<Speaker>웰로드</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>대체 무슨 상황이지...?</color>
+Thunder50(2)<Speaker>썬더</Speaker><通讯框>||:<color=#00CCFF>예감이 안 좋은데.</color>
+()<Speaker></Speaker>||<SE1>AVG_alarm</SE1><BGM>BGM_Empty</BGM>:——!
+()<Speaker></Speaker>||<BGM>BGM_Danger</BGM>:그때, 갑작스레 울려 퍼진 경보음에 휴게실의 모두가 당황했다.
+NPC_baolan(1)<Speaker>루이스</Speaker>||:...?!+무슨 일이지!?
+NPC_baolan(1);NPC_girill(2)<Speaker>발렌타인</Speaker>||:화재 경보기인가? 어디서 뭔 일이라도 생겼나 보군.+하지만 지금 우리랑은 상관없지. 얌전히 물건이나 내놔.
+NPC_baolan(0)<Speaker>루이스</Speaker>||:내놓으라는 그게 대체 뭔데요?
+()<Speaker>수행원</Speaker>||:손님, 큰일입니다!
+NPC_girill(2)<Speaker>발렌타인</Speaker>||:뭘 그렇게 호들갑 떨어? 이쪽 아가씨 놀라게 하지 말고 침착하게 말해.
+NPC_girill(2)<Speaker>수행원</Speaker>||:어엇...!
+NPC_baolan(0)<Speaker>루이스</Speaker>||:......?
+()<Speaker>수행원</Speaker>||:죄송합니다, 그게... 방금의 경보는 손님의 방에서 돌연 화재가 발생해서입니다...
+NPC_girill(3)<Speaker>발렌타인</Speaker>||:그럼 내 계약...+...아니, 내 방의 물건들은?
+NPC_girill(3)<Speaker>수행원</Speaker>||:정말 죄송합니다, 불길이 거세 진입할 수가...
+NPC_girill(3)<Speaker>발렌타인</Speaker><Shake>0.1</Shake>||<SE1>Rope</SE1>:<size=55>뭐야!?</size>+빌어먹을!! 당신들은 이 아가씨 방으로 돌려보내! 내가 직접 가서 봐야겠어!
+NPC_baolan(0)<Speaker>루이스</Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>82</BIN><黑屏2><BGM>BGM_Empty</BGM>:개인실.
+MDR(4)<Speaker>MDR</Speaker>||<BGM>BGM_Room</BGM>:아 옷 갈아입는데 뭐가 이렇게 오래 걸려?!
+Lewis(9)<Speaker>루이스</Speaker>||<SE1>AVG_Door_Open_Close</SE1>:다 됐어 다 됐어! 그 옷차림으로 방금 그 보안 인형들 처리하느라 엄청 고생했다고!+어... 그런데 내가 세탁해 둔 옷이 어디 갔지?
+Welrod(2)<Speaker>웰로드</Speaker>||:급하니 있는대로 입어. 그건 그렇고, 무엇 때문에 경보가 울린 거지?
+Lewis(9)<Speaker>루이스</Speaker>||:발렌타인의 방에서 불이 났다더라. 어휴, 갱단 관련 정보는 하나도 못 얻었는데...+보랜스노 쪽은 어떻게 됐어?
+Welrod(2)<Speaker>웰로드</Speaker>||:방에 저항한 흔적은 없었으니, 습격당해 납치된 것은 아닐 터다. 하지만 그래서 그녀의 동향을 파악할 수가 없어.+그리고, 방금 전의 대화를 분석한 바로는 발렌타인은 그녀를 해칠 의도는 없었던 것으로 보인다.
+MDR(4)<Speaker>MDR</Speaker>||:어... 루이스, 이 조각상 네가 가져온 거야?
+Lewis(9)<Speaker>루이스</Speaker>||:조각상? 웬 조각상?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:막 옷을 다 갈아입은 루이스가 뒤돌아보니, MDR이 탈의실에서 가지고 나온 요란한 모습의 조각상을 들고 있었다. 그런데, 어째선지 그 조각상이 눈에 많이 익었다.
+Lewis(9)<Speaker>루이스</Speaker>||:아니, 그런 거 건드린 적도 없어. 원래부터 탈의실에 있던 거 아니야?
+()<Speaker></Speaker>||:루이스는 조각상을 넘겨 받아 찬찬히 살펴보았다.
+Lewis(9)<Speaker>루이스</Speaker>||:근데 확실히 눈에 익네... 이걸 어디서 봤더라...?
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:쿵쿵쿵!
+Lewis(7)<Speaker>루이스</Speaker>||:응? 누구세요?
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1><BGM>BGM_Empty</BGM>:콰앙――!!+문이 폭발하듯 강제로 열리면서, 보안 인형 10기가 안으로 줄지어 닥쳐들었다.
+()<Speaker>보안 인형</Speaker>||:절도 및 방화 혐의로 체포합니다. 무기를 버리고 투항하십시오.
+()||<黑点1><BIN>10</BIN>:

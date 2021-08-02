@@ -1,0 +1,65 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>129</BIN><Night><BGM>BGM_Room</BGM>:어느 특등객실.
+Lewis(9)<Speaker>루이스</Speaker>||:이게 마지막 방이야. 거추장스러운 장식 말곤 딱히 눈에 띄는 게 없어.
+Thunder50(2)<Speaker>썬더</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>이쪽 방은 완전 텅 비었어.</color>
+M200(4)<Speaker>M200</Speaker><通讯框>||:<color=#00CCFF>이쪽도요, 이 방의 승객은 평범한 부자 같아요.</color>
+Welrod(2)<Speaker>웰로드</Speaker><通讯框>||:<color=#00CCFF>혹시나 싶어서 바로 아래층의 삼등실까지 전부 수색했지만 이상은 없었다.</color>+<color=#00CCFF>정말 여기가 맞나? 보랜스노와 다시 확인해 보는 게 어때?</color>
+Lewis(9)<Speaker>루이스</Speaker>||<SE1>AVG_tele_disconnect</SE1>:아니야, 보랜스노 님이 우릴 속였을 리 없어... 분명 여기 있을 거야! 조금만... 조금만 더 찾아볼게!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:루이스는 이미 이 잡듯 들쑤신 방을 다시 한번 뒤졌다. 탁상에 놓인 서류까지 세 번이나 뒤집어 확인해 보았지만...+결과는 마찬가지였다. 전혀 수상한 점이 없었다.
+Lewis(9)<Speaker>루이스</Speaker>||:젠장... 어떻게 단서가 하나도 없냐고!
+MDR(4)<Speaker>MDR</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>헤이, 다들 조심해. 지금 열 명 넘게 파티장에서 나와서 객실로 이동 중이야.</color>+<color=#00CCFF>시야도 복도 끝까지 닿으니까 절대 문 열고 나오지 말고, 그 안에서 어떻게든 숨어.</color>
+Lewis(7)<Speaker>루이스</Speaker>||:뭐?! 설마 이 방으로 오는 거야!? 여기 묵는 사람 있는 방이란 말이야, 어디에 숨으라고!
+Welrod(2)<Speaker>웰로드</Speaker><通讯框>||:<color=#00CCFF>그 방도 환풍구가 있으니 거기로 숨어라.</color>
+Lewis(9)<Speaker>루이스</Speaker>;Welrod(2)<通讯框>||:우웩, 아무리 그래도 거긴 너무 더럽잖아...
+Welrod(2)<Speaker>웰로드</Speaker><通讯框>||:<color=#00CCFF>지금 청결을 따질 때냐!</color>
+()<Speaker></Speaker>||:발걸음 소리는 점점 가까워졌고, 이젠 옷자락이 스치는 소리까지 들렸다.
+Lewis(9)<Speaker>루이스</Speaker>||:끄응... 침착하자, 숨을 만한 곳이 분명 더 있을 거야... 어디 보자...
+MDR(4)<Speaker>MDR</Speaker><通讯框>||:<color=#00CCFF>시간 없어 이 밥팅아! 문 열린다!</color>
+Lewis(7)<Speaker>루이스</Speaker>||:헉!
+()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM><SE1>AVG_Door_Open_Close</SE1>:——
+()<Speaker>？？？</Speaker>||:......+잘 달래 놨겠지?
+()<Speaker>공손한 목소리</Speaker>||:네, 전부 계획대로 진행되고 있습니다.
+()<Speaker>？？？</Speaker>||:그래.
+Lewis(9)<Speaker>루이스</Speaker>||:......
+Welrod(2)<Speaker>웰로드</Speaker><通讯框>||:<color=#00CCFF>루이스, 응답해.</color>+<color=#00CCFF>발각되진 않았지?</color>
+Lewis(9)<Speaker>루이스</Speaker>;Welrod(2)<通讯框>||:간발의 차로... 지금 옷장 안에 숨었어.
+Lewis(9)<Speaker>루이스</Speaker>||:안 들킬 거야...+...아마도.
+()<Speaker>？？？</Speaker>||:그나저나, "에릭"은?
+()<Speaker>공손한 목소리</Speaker>||:사라졌습니다. 사람을 보내 찾을까요?
+()<Speaker>？？？</Speaker>||:나 참... 처음부터 마냥 순조롭게 잘 풀리리란 기대는 하지도 않았다만, 꼭 이렇게 일이 터진다니까!+애초에 교활한 게 마음에 들어서 불렀으니, 그 교활함을 원망해야지!
+()<Speaker>공손한 목소리</Speaker>||:그 물건은...?
+()<Speaker>？？？</Speaker>||:조급할 것 없어, 어차피 내일은 유명인도 참석하는 자선 파티가 있으니까.
+()<Speaker>공손한 목소리</Speaker>||:알겠습니다.
+Lewis(7)<Speaker>루이스</Speaker>||:유명인... 보랜스노 님 말일까?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:루이스는 옷장의 문을 아주 살짝 열어, 그 틈으로 방에 들어온 사람의 얼굴을 보려 했다.
+Lewis(9)<Speaker>루이스</Speaker>||:...하나도 안 보이잖아! 왜 둘이나 있는데 불도 안 켜고 말해?
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:루이스가 어떻게든 더 자세히 보려고 자세를 바꾸던 그때였다.+옷장의 문이 활짝 열리더니, 한 쌍의 손이 불쑥 들어왔다.
+Lewis(9)<Speaker>루이스</Speaker>||:——!!!
+()<Speaker></Speaker>||<SE1>Heartbeat</SE1>:루이스는 황급히 입을 막고 숨을 죽이곤, 손이 자신의 머리 위를 더듬는 것을 지켜봤다.+아무래도 정장을 고르는 듯했다.
+Lewis(7)<Speaker>루이스</Speaker>||:......?+(저 소매 단추...)
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:깃털 모양의 소매 단추였다. 그 날카로운 형태에, 루이스는 보랜스노의 얼굴에 난 그 어울리지 않는 상처가 떠올랐다.
+()<Speaker>공손한 목소리</Speaker>||:보스, 시간입니다.
+()<Speaker>？？？</Speaker>||:그래, 가자.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:——
+Lewis(9)<Speaker>루이스</Speaker>||:......
+()||<黑屏1>:
+Welrod(2)<Speaker>웰로드</Speaker>||<BIN>82</BIN><黑屏2><回忆>:당신을 공격한 사람을 특정할 만한 단서는 없습니까?
+NPC_baolan(0)<Speaker>보랜스노</Speaker>||:절 기절시킨 사람은... 분명 남성일 거예요. 옷소매의 단추에 얼굴을 긁혔으니, 정장을 입었겠죠.+그리고 희미하게나마 본 그 사람의 풍채는 겉보기엔 아주 품위 있는 모습이었어요, 절대 어중간하게 돈 많은 사람이 아니었어요.
+()||<黑屏1>:
+Lewis(9)<Speaker>루이스</Speaker>||<BIN>9</BIN><黑屏2><关闭蒙版>:어중간하게 돈 많은 자가 아닌 풍채라...
+()||<黑屏1>:
+()<Speaker></Speaker>||<Night><BIN>82</BIN><黑屏2><BGM>BGM_Room</BGM>:삼등실 구역.
+Thunder50(2)<Speaker>썬더</Speaker>||:그 단추의 주인이 이번 일과 어떤 식으로든 관계가 있어 보여.+하지만 불법 무기는 그림자도 못 찾았으니, 당장 고발하지는 못해.
+NPC_baolan(0)<Speaker>보랜스노</Speaker>||:엄청 큰 규모의 자선 행사인 만큼, 보는 눈이 많은 가운데 함부로 움직이진 않겠죠.
+Lewis(7)<Speaker>루이스</Speaker>;NPC_baolan(0)||:보랜스노 님은 놈들한테서 겨우 도망치셨으니, 다시 모습을 드러내면 분명 감시가 따라붙고 더 위험해질 거예요.
+Lewis(7);NPC_baolan(0)<Speaker>보랜스노</Speaker>||:그래도 가야만 해요. 불참하면 거액의 위약금을 물어야 해서, 자칫하면 소속사에게까지 피해가 갈 수 있어요...
+Lewis(9)<Speaker>루이스</Speaker>;NPC_baolan(0)||:그래도 반대예요! 지금 적은 그늘 속 어디에 숨었는지도 모르는 반면에 보랜스노 님은 혼자잖아요!
+Lewis(9);NPC_baolan(0)<Speaker>보랜스노</Speaker>||:하지만 다른 방법이...
+Lewis(6)<Speaker>루이스</Speaker>||:그럼...+그럼 제가 같이 갈게요!
+MDR(4)<Speaker>MDR</Speaker>||:누누이 말하는 건데, 우린 일반승객이라 그 자선 파티 못 들어간다니까?
+M200(4)<Speaker>M200</Speaker>||:저기, 잠시만요. 두 분을 나란히 놓고 보니 떠오른 건데요...
+()<Speaker></Speaker>||:M200의 시선이 루이스와 보랜스노 사이를 오갔다.
+Thunder50(2)<Speaker>썬더</Speaker>||:......오.
+Welrod(2)<Speaker>웰로드</Speaker>||:음, 고려해볼 만하군.
+Lewis(7)<Speaker>루이스</Speaker>||:응...? 뭐야, 뭔데? 너희끼리 무슨 눈치 게임해?
+()<Speaker></Speaker>||:......

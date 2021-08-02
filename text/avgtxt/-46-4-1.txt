@@ -1,0 +1,243 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+NPC-xiaodanyan(0)<Speaker>저번화 이야기</Speaker><Position>0,300</Position>||<SE1>AVG_show_start</SE1>:안녕! 여러분의 오랜 친구 외눈짱이 왔어요!+저번 화에서 사신짱 님과 우로보로스는 첫 번째 타겟 NZ75를 예상 밖의 일로 놓치고, 뽑기 가게에서 아르바이트 중인 두 번째 타겟 CZ75를 구슬리려 했죠.+뽑기 가게에서의 외상을 갚는 동시에 자신의 재력을 과시하려던 사신짱 님은 메두사에게 돈을 가져오라 했답니다.+그것도 모자라 메두사를 놓쳐버린 NZ75 대신으로 쓸 생각이었나 본데...+공교롭게도, 메두사는 이세계의 친구들을 구슬리느라 정신없는 사신짱 님에게 화가 나 가버렸어요!+뒤늦게 사신짱 님이 메두사를 쫓으러 간 사이 CZ75와 둘만 남은 우로보로스는 거짓말로 그녀의 경계심을 풀고 빈틈을 노려 CZ75를 무사 제압!+드디어 허점투성이 계획에 진전이 생겼네요!+CZ75를 안전하게 확보한 사신짱 님과 우로보로스는 이번엔 P90이 있는 곳으로 향합니다!+참고로 저 외눈짱의 졸견을 피력하자면, 사신짱 님 참 못됐어요! 뱀레기라 불러도 과언이 아니에요!
+Jashinchan(2)<Speaker>사신짱</Speaker><Position>0,100</Position>||:악마니까 당연히 못됐죠!
+NPC-xiaodanyan(0)<Speaker>저번화 이야기</Speaker><Position>0,300</Position>||:한편 유사 코지의 추격을 기어코 뿌리쳤지만 길을 잃고 만 NZ75는 우연찮게 알게 된 엄청난 비밀에 어쩔 줄 몰라하는데...+과연 그녀는 어디로 가는 것일까? 또 어떤 결정을 내릴 것인가?
+Jashinchan(7)<Speaker>사신짱</Speaker><Position>0,100</Position>||:흥, 발버둥쳐 봤자 결국엔 사신짱 제국의 신민이 될 뿐이에요!
+NPC-xiaodanyan(0)<Speaker>저번화 이야기</Speaker><Position>0,300</Position>||:사신짱 전선, 곧이어 방송됩니다!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>385</BIN><BGM>event_summer_Title</BGM>:이른 아침, 진보초의 주택가.+머리에 쇠뿔이 달린 활기찬 소녀가 우유 배달을 막 끝마쳤다.
+Minosu(0)<Speaker>미노스</Speaker>||:좋았어, 오늘도 힘세고 강한 아침!+배달 시간 신기록 달성했을까?
+()<Speaker></Speaker>||:초시계를 살펴보는 소녀의 턱선을 타고 땀방울이 흘러내렸다.
+Minosu(0)<Speaker>미노스</Speaker>||:아싸~! 어제보다 2초 단축했다!+기념으로 집까지 전력 질주! 가서 시원하게 목욕해야지!
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:말이 끝나기도 전에, 소녀의 모습은 거리에서 사라지고 없었다.
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>390</BIN><黑点2>:따르릉!+미노스의 집 전화가 울렸다.
+Minosu(0)<Speaker>미노스</Speaker>||<SE1>AVG_tele_connect</SE1>:여보세요, 미노스입니다!
+Minosu(0)<Speaker>사신짱</Speaker>||:<color=#00CCFF>미노스, 지금 시간 되나요?</color>
+Minosu(0)<Speaker>미노스</Speaker>||:아, 사신짱! 방금 아침 알바 끝나서 달리기하러 가려던 참이야.
+Minosu(0)<Speaker>사신짱</Speaker>||:<color=#00CCFF>그럼 유리네네 집에서 잠깐 좀 기다려 줄래요? 이따 직접 보고 할 말이 있는데요.</color>
+Minosu(0)<Speaker>미노스</Speaker>||:왜 이따 해? 지금 보면 되잖아.
+Minosu(0)<Speaker>사신짱</Speaker>||:<color=#00CCFF>그, 그게, 지금은 다른 용무가 있어서...</color>
+Minosu(0)<Speaker>미노스</Speaker>||:그럼 내가 도와주면 되겠다! 얼른 거기로 갈게!
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:사신짱이 다급하게 무어라 울부짖었지만, 미노스는 듣지 못하고 전화를 끊고는 집을 나섰다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>84</BIN><BGM>BGM_Empty</BGM>:그 시각, 슈퍼마켓 앞의 공중전화 박스.+사신짱은 수화기를 내려놓고, 심각한 얼굴로 옆에 있는 우로보로스를 힐끗 보았다.
+Weaver(3)<Speaker>우로보로스</Speaker>||<BGM>m_avg_casual</BGM>:말 안 해도 안다, 벌써 또 일이 틀어졌군.
+Weaver(3);Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:제 탓 아니에요...
+Weaver(3)<Speaker>우로보로스</Speaker>;Jashinchan(4)<Position>0,100</Position>||:그래서, 3차 목표인 미노스란 놈이 유리네의 아파트가 아니라 곧장 이곳으로 온다고?
+Weaver(3);Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:네...
+Weaver(3)<Speaker>우로보로스</Speaker>;Jashinchan(4)<Position>0,100</Position>||:메두사마저 놓친 이상, 미노스는 반드시 붙잡아야 한다.+다른 목표인 P90도 이곳에 있으니, 둘을 동시에 확보하려 했다간 분명 차질이 생기겠지...+무슨 수를 써서든 둘을 따로 떨어뜨린 뒤, P90부터 확보한 다음 미노스를 확보한다.
+Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:그렇게 하죠!
+()<Speaker></Speaker>||:우로보로스는 미간을 찡그리며 작전을 정리했다. 예측 불가능한 변수가 너무나도 많아, 미리 계획을 세워 놓기가 가능이나 한가 싶을 정도였다.+그래도 돌발상황에 대비하기 위해, 최대한 많은 가능성을 연산해 보았다.
+Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:저기, 우롱이양? 당신은 계획이 성공한다면 뭘 하고 싶나요?
+Weaver(3)<Speaker>우로보로스</Speaker>;Jashinchan(0)<Position>0,100</Position>||:이제 막 총 파지법을 배운 놈이 적을 몰살시키는 상상을 하는 거냐?
+Weaver(3);Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:에에이, 그냥 궁금해서요. 우롱이양은 대체 뭣 때문에 그렇게 열심인가 싶어서 말이죠.
+Weaver(3)<Speaker>우로보로스</Speaker>;Jashinchan(0)<Position>0,100</Position>||:......
+Weaver(3);Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:아, 대답하기 싫으면 됐어요, 그냥 물어본 거예요.
+Weaver(3)<Speaker>우로보로스</Speaker>;Jashinchan(0)<Position>0,100</Position>||:만나야 하는 놈이 있다. 만나서, 놈에게 진 빚을 갚아야 해.
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:에엑, 꼭 그래야 해요?!
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:왜 빌린 돈을 갚으려고 안달이 났어요!?
+Weaver(3)<Speaker>우로보로스</Speaker>||:......+P90이나 찾으러 가자.
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>385</BIN><黑点2><BGM>GF_Jyashinchan_Story_Jinbouchou</BGM>:어느 상가의 입구 앞.+소개받아 이곳에서 아르바이트를 하게 된 P90은 아주 열정적으로 행인들에게 상품 홍보를 하는 중이었다.
+P90(4)<Speaker>P90</Speaker>||:수제 샤브샤브! 샤브샤브 드셔보셔유우~!+급나게 맛있어유우~ 소기름 듬뿍 들어간 국물에 야채도 푸르딩딩허고 고기도 아주 기양 기가 멕혀유우!+거기 손님, 한 입 드셔보시라니깐유우~?+그이 아줌니도 직이는 소고기! 함 드셔보셔유우!
+P90(4)<Speaker>행인</Speaker>||:샤브샤브는 됐고, 그 냄비 아직도 팔아요? 볶음밥 해 먹으려는데.
+P90(4)<Speaker>P90</Speaker>||:아이구 당연히 있쥬우~ 영수증도 필요하셔유우?
+P90(4)<Speaker>행인</Speaker>||:뽑아 줘요.
+P90(4)<Speaker>P90</Speaker>||:감사합니다, 또 오세요!+샤브샤브! 중화냄비! 과일에 야채도 다 있다해!+구경만 해도 되니 다들 와서 보고 가라해!
+P90(4);Weaver(3)<Speaker>우로보로스</Speaker>||:P90, 잠깐 나와 봐라.
+P90(4)<Speaker>P90</Speaker>;Weaver(3)||:오, 우로보로스! 안녕~
+P90(4);Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||:보러 왔어요, P90.
+P90(4)<Speaker>P90</Speaker>;Jashinchan(5)<Position>0,100</Position>||:아, 너도 왔구나.
+P90(4);Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||:네에, 저랍니다!
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:...잠깐, 온도차가 좀 심하게 차이나네요?!
+Minosu(0)<Speaker>미노스</Speaker>||:안녕~! 네가 P90이구나! 난 미노스야!+만나서 반가워!
+()<Speaker></Speaker>||:미노스가 P90을 와락 껴안았다.
+P90(4)<Speaker>P90</Speaker>||:우흡?! 아, 안녕... 어? 소 꼬리?
+P90(4);Minosu(0)<Speaker>미노스</Speaker>||:아하핫, 이건 우리 미노타우르스 일족의 특징이야. 꼬리털이 풍성하고 윤기 있을수록 존경받는다구!+어떤 연유에서든 꼬리가 볼품없으면 치욕이야, 치욕...
+P90(4)<Speaker>P90</Speaker>||:호오 호오, 꼬리도 신경쓸 게 많구나!
+()<Speaker></Speaker>||:만나자마자 친해져 수다 삼매경에 빠진 P90과 미노스를 관찰하던 우로보로스가 사신짱에게 눈치를 주었다.
+Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||:크흠... P90? 실은 다름이 아니라, 유리네가 당신들이 돌아갈 방법을 찾았다고 전해 달라 해서 온 거예요.+그리고 가는 김에 마트에서 필요한 재료를 사오라고 했고요.
+P90(4)<Speaker>P90</Speaker>||:뭐, 정말?! 그럼 얼른 다른 애들한테도――
+Jashinchan(7)<Speaker>사신짱</Speaker><Position>0,100</Position>||:시간 없으니까 따라오기나 해요!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:사신짱이 흥분한 P90의 입을 틀어막고 상가 안으로 끌고 들어갔다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>88</BIN><BGM>BGM_Empty</BGM>:물론 사신짱은 상가 내 안내도를 따라 슈퍼마켓으로 가지 않고, 반대로 빙 돌아 깜깜한 창고로 향했다.
+P90(4)<Speaker>P90</Speaker>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:어휴, 왼쪽으로 오른쪽으로 왔다갔다... 무슨 상가 안이 이렇게 복잡해? 그리고 여기 슈퍼마켓 맞아?+먼지는 수북하지, 이 푯말은 또 뭐라 쓰여 있는 거야...?
+Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:그야 당연히 모르겠죠!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:사신짱이 아무렇게나 쓴 목록을 반으로 나눠 미노스에게 주었다.
+Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:여긴 마법용 재료를 전문으로 취급하는 곳이에요. 머글들은 이런 곳의 존재 자체를 모른다고요.
+Jashinchan(7)<Speaker>사신짱</Speaker><Position>0,100</Position>||:그러니까 감격하세요, 천민! 이 사신짱 님 덕에 이렇게 평생 해보지도 못할 경험을 하게 됐으니까요!
+Minosu(0)<Speaker>미노스</Speaker>||:응? 아까 거기서――
+Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||:갈라져서 움직이죠! 저랑 우롱이양, P90은 이 쪽지에 적어 준 물건을 사고!+미노스는 지금 제가 준 쪽지에 적힌 걸 가져와 주세요!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>9</BIN>:우로보로스는 잠시 망설여졌지만, 아무래도 사신짱은 먼저 P90에게 화력을 집중한 다음 미노스를 처리하려는 듯했다.+자신의 동의도 없이 이뤄진 계획 변경이었지만, 적어도 타당했기에 우로보로스는 일단 사신짱에게 알았다는 눈치를 주었다.+한편, 사신짱은 속으로 아주 좋아했다.+그냥 귀찮아서 더 긴 쪽지를 미노스에게 줬을 뿐인데, 우롱이의 인정을 받아서 기쁜 것이었다.+그렇게 사신짱 혼자서 싱글벙글하던 와중, 어김없이 변수가 발생했다.
+()||<黑点1>:
+Minosu(2)<Speaker>미노스</Speaker>||<黑点2><BIN>88</BIN>:뭐어? 그게 무슨 소리야 사신짱, 어떻게 손님한테 심부름을 시켜?
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:손님이라뇨! 이 둘은 제 수족이라고요!
+P90(4)<Speaker>P90</Speaker>||:어...
+Weaver(3)<Speaker>우로보로스</Speaker>||:......
+Minosu(0)<Speaker>미노스</Speaker>||:으이구... 사신짱 말은 무시해. 재료는 나랑 사신짱이 사 올 테니까 너흰 여기서 기다리고 있어!
+Jashinchan(2)<Speaker>사신짱</Speaker><Position>0,100</Position>||<SE1>Rope</SE1>:으엑? 잠깐――끼야아아――
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:미노스는 자신만만하게 웃으면서 사신짱을 어깨에 들쳐 메고 어두운 창고 안으로 사라졌다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>9</BIN>:작전의 신이 다시 우로보로스의 손을 들어 주니, 그녀가 바라던대로 자신과 P90만 남게 되었다.+만약 P90이 NZ75의 행방을 안다면, 틀어질대로 틀어진 계획을 다시 궤도상으로 되돌릴 수 있다.+그렇기에, 우로보로스는 머릿속에서 적절한 대화 소재가 없는지 필사적으로 검색했다.
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑点2><BIN>88</BIN><BGM>m_wv_title</BGM>:P90은 이를 아는지 모르는지, 구석의 나무 상자에 걸터앉아 다리를 흔들며 콧노래를 불렀다.
+P90(4)<Speaker>P90</Speaker>||:있잖아~ 나 오늘 기분 엄청 좋아!
+P90(4);Weaver(3)<Speaker>우로보로스</Speaker>||:...뭣 때문이지? 이딴 어딘지도 모를 곳에 와서 좋단 거냐?
+P90(4)<Speaker>P90</Speaker>;Weaver(3)||:아~니? 내 마음에 쏙 드는 직업을 찾아서!+나중에 혹시라도 그리폰이 구조조정 들어가서 길거리에 나앉게 돼도, 어디로 가면 될지 알았으니까야.
+P90(4);Weaver(3)<Speaker>우로보로스</Speaker>||:상가에서 물건 파는 일 말이냐?
+P90(4)<Speaker>P90</Speaker>;Weaver(3)||:응! 매일 많은 손님들을 볼 수 있고, 저마다 다 달라서 다양한 사람들을 흉내낼 수 있잖아!+진짜 엄청 즐거워! 세상에 이렇게 즐겁게 돈을 벌 수 있는 일이 있었다니, 놀랍지 않아?
+Weaver(3)<Speaker>우로보로스</Speaker>||:......
+()||<黑屏1>:
+()<Speaker>아키텍트</Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN>:난 그리폰이 좋아서 투항한 것이 아니야, 나 자신이 소중해 그런 거지.+우로보로스, 너는 어때? 너는 너 자신이 좋아?
+()<Speaker>우로보로스</Speaker>||:...무슨 소릴 하는 거지?+그런 게... 중요한가?
+()<Speaker>아키텍트</Speaker>||:방금 나한테, 내 마인드맵이 어떻게 됐냐 물어봤지?+바로 그게 포인트야. 나는, 내가 하고 싶은 대로 살고 싶어.
+()||<黑屏1><BGM>m_wv_title</BGM>:
+Weaver(3)<Speaker>우로보로스</Speaker>||<黑屏2><BIN>88</BIN>:너는...
+P90(4)<Speaker>P90</Speaker>;Weaver(3)||:응?
+P90(4);Weaver(3)<Speaker>우로보로스</Speaker>||:너는 너 자신이 좋으냐?
+P90(4)<Speaker>P90</Speaker>;Weaver(3)||:으엥? 그야 당연히 좋지, 스스로를 싫어하는 사람이 어디 있어?
+P90(4);Weaver(3)<Speaker>우로보로스</Speaker>||:그럼 왜 남을 흉내내는 거냐?
+P90(4)<Speaker>P90</Speaker>;Weaver(3)||:재밌으니까! 그리고 흉내내면서 그 사람의 시점과 사고방식을 알 수 있거든.+히히, 까놓고 말하자면 그냥 내 취미지만!
+Weaver(3)<Speaker>우로보로스</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:P90가 상자에서 폴짝 일어나, 대뜸 우로보로스처럼 벽에 기대고 쌀쌀맞은 표정으로 그녀를 흉내냈다.
+P90(4)<Speaker>P90</Speaker>||:흥... 또 무슨 생각을 하면서 연산력을 낭비 중이냐?
+P90(4);Weaver(3)<Speaker>우로보로스</Speaker>||:......+아무것도.
+P90(4)<Speaker>P90</Speaker>;Weaver(3)||:헤헤헤, 똑같지? 너랑 똑같았지?+구석에 숨어서 네 성대모사하면 다들 깜짝 놀라서 자지러지더라니까!
+Weaver(3)<Speaker>우로보로스</Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:여태까지 감히 상상해보지도 못한 것이 떠올라, 우로보로스는 입을 다물었다.+어쩌면... 자신도 그리폰에서 잘 지낼 수 있지 않을까?+물론, 그런 생각이 든 순간 바로 그 미약한 불씨를 덮었다.+하지만 꺼버리기엔 그 따뜻함이 아까웠고, 덮은 손을 치우기엔 너무 눈부셔 두려웠다.+P90도 자신이 말실수한 줄 알고 당황한 탓에, 두 인형 사이에 긴 침묵이 이어졌다.+P90은 이때 어쩌면 우로보로스의 진심에 가까운 모습을 볼 수 있었을지도 모른다는 사실을, 평생 알지 못할 것이다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑点2><BIN>88</BIN><BGM>GF_20HW_Scene_BPM82_loop</BGM>:한편, 같은 시각.
+Minosu(0)<Speaker>미노스</Speaker>||:그런데 말이야, 이렇게 나뉠 필요가 있었어?+장이야 나 혼자서 보면 되잖아, 너희는 그냥 밖에서 기다리고.
+Minosu(0);Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:그건...
+Minosu(0);Jashinchan(2)<Speaker>사신짱</Speaker><Position>0,100</Position>||:<color=#A9A9A9>당신을 어떻게서든 혼자 있게 만들어야 했어서지요!</color>+<color=#A9A9A9>...라고 말할 순 없으니 적당히 다른 이유를 지어내야겠어요.</color>
+Minosu(0);Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||:걔네한테 깜짝 선물을 주고 싶어서 그랬어요.
+Minosu(0)<Speaker>미노스</Speaker>;Jashinchan(5)<Position>0,100</Position>||:사신짱... 네가 그런 기특한 생각을 하다니! 나 감동 먹었어...
+Minosu(0);Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:그러니까 아무 소리 마세요, 알았죠? 저랑 유리네가 아주 상다리가 부러지도록 차려서 대접할 거니까요.
+Minosu(0)<Speaker>미노스</Speaker>;Jashinchan(0)<Position>0,100</Position>||:그거 좋네! 스키야키에 갈비도 구워 먹는 건 어때?
+Minosu(0);Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:갈비요? 좋지요, 유리네가 집에서 다 준비하고 있어요.+재료 다 사면 가지고 먼저 가서 기다려 주세요, 저흰 다른 할일이 더 있어서요.
+Minosu(0)<Speaker>미노스</Speaker>;Jashinchan(0)<Position>0,100</Position>||:알았어. 내가 더 도와줄 만한 건 없고?
+Minosu(0);Jashinchan(7)<Speaker>사신짱</Speaker><Position>0,100</Position>||:없어요, 나머진 제가 알아서 할 수 있어요.
+Minosu(0)<Speaker>미노스</Speaker>||<BGM>BGM_Empty</BGM>:......
+()<Speaker></Speaker>||:선반 사이를 오가며 물건을 고르던 미노스가 갑자기 멈춰섰다.
+Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:왜, 왜 그래요...?
+Minosu(0)<Speaker>미노스</Speaker>;Jashinchan(0)<Position>0,100</Position>||<BGM>GF_Memorial</BGM>:사신짱... 나 너무 기뻐!
+Minosu(0);Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:갑자기 왜요?
+Minosu(0)<Speaker>미노스</Speaker>;Jashinchan(0)<Position>0,100</Position>||:네가 남을 배려할 줄 알게 되다니...! 그것도 사귄 지 얼마 안 된 친구한테 말이야!+예전 같았음 상상도 못했을 일인데!
+Minosu(0);Jashinchan(3)<Speaker>사신짱</Speaker><Position>0,100</Position>||:......+칭찬으로 받아들이죠.
+Minosu(0)<Speaker>미노스</Speaker>;Jashinchan(3)<Position>0,100</Position>||:메두사도 들으면 엄청 기뻐할 거야!
+Jashinchan(3)<Speaker>사신짱</Speaker><Position>0,100</Position>||<BGM>BGM_Empty</BGM>:......
+()<Speaker>메두사</Speaker>||:사신짱, 바보 멍청이!!
+()<Speaker></Speaker>||:메두사의 울먹이며 외친 말이, 귓가에 다시 들리는 듯했다.
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:아오 진짜, 됐어요! 재료 다 골랐으니까 얼른 우롱이양한테 가요.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>88</BIN><BGM>GF_EV9_Story</BGM>:긴 침묵 끝에, 우로보로스가 다시 차가운 얼굴로 입을 열었다.
+Weaver(3)<Speaker>우로보로스</Speaker>||:아까 NZ75와 연락했다고 했지? 지금 어디 있다고는 말하더냐?
+P90(4)<Speaker>P90</Speaker>;Weaver(3)||:아니, 나도 안 물어봤어.+우리 전화번호 너한테 줬잖아? 궁금하면 네가 직접 물어봐.
+P90(4);Weaver(3)<Speaker>우로보로스</Speaker>||:......좀 껄끄러워서 말이지.
+P90(4)<Speaker>P90</Speaker>||:에이~ 이제 모두 한솥밥 먹는 동료인데 껄끄럽기는! 기다려 봐, 내가 걸어 줄게.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:P90이 조심조심 폴더폰을 열어 NZ75에게 전화를 걸었다.
+P90(4)<Speaker>P90</Speaker>||:여보세요, NZ? 몸은 다 녹았어?
+P90(4)<Speaker>NZ75</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>대충 다 녹았어...</color>+<color=#00CCFF>어우 진짜, 이 정도로 꽁꽁 얼어붙은 건 난생 처음이다 야...</color>
+P90(4)<Speaker>P90</Speaker>||:그런데 지금 어딨어? 우리 야영하는 거기야?
+P90(4)<Speaker>NZ75</Speaker>||:<color=#00CCFF>참, 여태 CZ 녀석 찾아다녔는데 코빼기도 안 보이더라... 너 혹시 알아?</color>
+Weaver(3)<Speaker>우로보로스</Speaker>||:야영? 네놈들, 어디서 야영하는 거냐?
+P90(4)<Speaker>P90</Speaker>||:응, 공원 입구 쪽에 캠핑장 있댔잖아. 거기.
+P90(4)<Speaker>NZ75</Speaker>||:<color=#00CCFF>어...? P90, 너 지금 우로보로스랑 같이 있어?</color>
+P90(4)<Speaker>P90</Speaker>||:응응, 유리네가 우릴 돌려보낼 방법을 찾았대!
+P90(4)<Speaker>NZ75</Speaker>||:<color=#00CCFF>안 돼... P90!</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:우로보로스가 P90의 휴대폰을 낚아챘다.
+Weaver(3)<Speaker>우로보로스</Speaker>||:내가 대신 설명하지. 조금 뒤에 P90과 함께 널 찾으러 가마.
+Weaver(3)<Speaker>NZ75</Speaker>||:<color=#00CCFF>P90 바꿔 줘, 개한테 할 말 있어!</color>
+Weaver(3)<Speaker>우로보로스</Speaker>||:할 말이 있다면 만나서 해라.
+Weaver(3)<Speaker>NZ75</Speaker>||:<color=#00CCFF>유리네한테 전화해서 물어봤어! 걔는 아직도 찾아보는 중이라는데, 왜 사신짱이 너랑 합심해서 거짓말하는 건지 모르겠다더라!</color>+<color=#00CCFF>우로보로스 너, 사신짱이랑 무슨 짓을 꾸미고 있는 거야?</color>
+Weaver(3)<Speaker>우로보로스</Speaker>||:......+CZ75라면, 어디 있는지 안다.
+Weaver(3)<Speaker>NZ75</Speaker>||:<color=#00CCFF>너...!</color>
+Weaver(3)<Speaker>우로보로스</Speaker>||:그러니, CZ75와 P90을 보고 싶다면 그 야영지에서 기다리도록.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:우로보로스가 전화를 끊고, 휴대폰을 P90에게 돌려주었다.
+P90(4)<Speaker>P90</Speaker>||:NZ가 뭐래? 내 얘길 하는 거 같았는데...
+Weaver(3)<Speaker>우로보로스</Speaker>||:돌아갈 수 있게 돼서 상당히 흥분한 모양이더군.
+P90(4)<Speaker>P90</Speaker>||:나도야! 드디어 그리폰으로 돌아갈 수 있어!+헤헤, 돌아가면 기념으로 우리 다 같이 새로 단체 사――
+()<Speaker></Speaker>||:P90이 등을 보인 순간을 노려, 우로보로스는 손가락을 그녀의 귓가에 댔다.
+P90(4)<Speaker>P90</Speaker>||<SE1>AVG_whitenoise</SE1>:어, 이게 무슨 소리지? 엄청... 시끄럽...
+Weaver(5)<Speaker>우로보로스</Speaker>||:쉿... 걱정 말고 자거라.
+P90(4)<Speaker>P90</Speaker>||:우...로보...
+()<Speaker></Speaker>||:밀려오는 어지러움과 어둠에 감싸여, P90는 잠에 빠졌다.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Phone_Crash</SE1><BGM>BGM_Empty</BGM>:P90의 손에서 미끄러져 바닥에 떨어진 휴대폰의 깨진 액정 화면에는, 그들이 진보초의 거리를 배경으로 찍은 사진이 보였다.
+Minosu(2)<Speaker>미노스</Speaker>||<SE1>RunStep</SE1><BGM>10065</BGM>:너... P90한테 무슨 짓을...?!
+Jashinchan(2)<Speaker>사신짱</Speaker><Position>0,100</Position>||:미... 미안해요 우롱이양... 붙잡아두는 데 실패했어요...
+Weaver(3)<Speaker>우로보로스</Speaker>||:......
+Minosu(2)<Speaker>미노스</Speaker>||:너희, 친구 아니야? 왜 친구한테 그런 짓을 해!?
+Weaver(3)<Speaker>우로보로스</Speaker>||:그 구렁이가 세운 계획이다. 정 궁금하면 놈에게 물어보거라.
+()<Speaker></Speaker>||:따지려고 성큼성큼 다가오던 미노스가 멈칫했다.
+Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:녜?+<color=#A9A9A9>원래 계획은 이게 아니지 않았던가요...?</color>
+Weaver(3)<Speaker>우로보로스</Speaker>||:너희 둘이서 이야기해라.+<color=#A9A9A9>미노스는 더는 필요 없어졌다. 떼어놓고 오거라.</color>
+Minosu(2)<Speaker>미노스</Speaker>||:거기 기다려! 나 아직 말 안 끝났어!
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:미노스!
+()<Speaker></Speaker>||:미노스는 사신짱의 외침을 무시하고 우로보로스에게 달려들었다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:사신짱도 미노스를 막으려고 그녀의 꼬리를 온힘을 다해 잡아당겼지만...
+Jashinchan(2)<Speaker>사신짱</Speaker><Position>0,100</Position>||:저 얘 못 막아요! 얼른 튀어요, 우롱이양!
+Minosu(2)<Speaker>미노스</Speaker>||<Shake>0.1</Shake>:기다리라고! 내 말에 대답해!
+()<Speaker></Speaker>||:사신짱은 아예 꼬리까지 건물 기둥에 감고 버텼지만, 그럼에도 역부족이었다.+미노스가 한 걸음 내디딜 때마다 그만큼 사신짱의 손이 미노스의 꼬리를 미끄러져 내려갔다.
+Jashinchan(2)<Speaker>사신짱</Speaker><Position>0,100</Position>||:더는... 못 버텨욧...!
+Minosu(0)<Speaker>미노스</Speaker>||:대체 사신짱이 왜――+......?!!
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||<SE1>ClothingUp</SE1><BGM>BGM_Empty</BGM>:끄으으응... 어?
+Weaver(3)<Speaker>우로보로스</Speaker>||:......?
+()<Speaker></Speaker>||:사신짱이 팔이 빠져라 잡아당기던 힘이, 갑자기 사라졌다. 착각이 아니었다. 어느샌가 그녀의 손가락 사이에 감긴 익숙한 털의 감각이, 그녀에게 경고하고 있었으니까.
+Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||:허어억...!
+Weaver(3)<Speaker>우로보로스</Speaker>||:구렁이, 너야말로 도망쳐라.
+Minosu(2)<Speaker>미노스</Speaker>||<SE1>Rope</SE1><BGM>BGM_Boss2</BGM><BGM>GF_21winter_battle_1</BGM>:사신짱...?
+()<Speaker></Speaker>||:털이 뽑혀 반들반들해진 자신의 꼬리를, 미노스는 말없이 바라봤다.+그녀의 두 손이 저절로 주먹쥐여지는 것은 물론, 공포로 인한 착각인지 사신짱의 눈에는 미노스의 몸집이 부풀어오르는 것처럼 보였다.
+Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||:저기, 미노스? 이건 절대 고의가 아니라...+제, 제 얘기를 들어주시겠사와요...?
+Minosu(2)<Speaker>미노스</Speaker>;Jashinchan(5)<Position>0,100</Position>||<SE1>AVG_Punch_Hit</SE1><震屏3>:그래, 들어줄게... 들어는 줄게...!
+Minosu(2);Jashinchan(2)<Speaker>사신짱</Speaker><Position>0,100</Position>||:오... 오... 오지 마세요...+제게 다가오지 말란 말이에요오...!+히이익 사신짱 살려――!!
+Minosu(2)<Speaker>미노스</Speaker>||<震屏3>:<size=55>거기 서――!!!</size>
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:사신짱이 냅다 도망쳤고, 분노한 미노스가 바로 그 뒤를 쫓았다.
+Weaver(3)<Speaker>우로보로스</Speaker>||<BGM>BGM_Empty</BGM>:......+어쨌든 해결됐군.+가자, P90.
+()<Speaker></Speaker>||:우로보로스가 바닥에 쓰러진 P90을 주워 들쳐 메고, 그녀의 몸에 묻은 먼지를 털어낸 뒤 창고를 나서려 했다.+하지만 분한 듯 깜빡이는 P90의 폴더폰 화면에 비치는 귀찮음 가득한 자신의 얼굴에, 아주 잠깐 정신이 팔렸다.
+Weaver(3)<Speaker>우로보로스</Speaker>||<黑屏1>:......+새 단체 사진...이라.
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_21Winter_Phone_Crash</SE1>:그리고, 우로보로스는 그 휴대폰을 밟아 부숴버렸다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>332</BIN><BGM>GF_21winter_battle_2</BGM>:생존게임 27일차, 전투 기간... 남은 AI 수 - 2.
+NPC-Jormungand(1)<Speaker>요르문간드</Speaker>||:우~롱아~ 언제까지 숨어있을래~?
+Weaver(3)<Speaker>우로보로스</Speaker>||:......
+()<Speaker></Speaker>||:우로보로스는 차갑게 식은 AI들의 잔해 더미 사이에 숨어, 망가질 대로 망가진 자신의 가상 신체를 살펴보았다.+최악의 상황이었다.
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:하하하, 너무 많이 맞아서 쫄기라도 했냐~?
+Weaver(3)<Speaker>우로보로스</Speaker>||:<color=#A9A9A9>더 이상의 정면 대결은 무리군.</color> +<color=#A9A9A9>기회를 봐서 놈을 기습해 단숨에 해치우는 것밖에 승산이 없어...</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:요르문간드의 발걸음 소리가, 우로보로스가 숨은 잔해 더미 바로 너머에서 멈췄다.
+Weaver(3)<Speaker>우로보로스</Speaker>||:<color=#A9A9A9>발각됐나...?</color> +<color=#A9A9A9>안 돼... 안 돼! 이대로 죽을 순 없어!</color>
+NPC-Jormungand(1)<Speaker>요르문간드</Speaker>||:야, 우롱아... 우리 처음 만났을 때 기억나?+게임 시작되고, 어... 며칠째였더라? 7일차였던 거 같은데.
+Weaver(3)<Speaker>우로보로스</Speaker>||:<color=#A9A9A9>내 주의를 분산시키려는 속셈인가?</color>
+NPC-Jormungand(1)<Speaker>요르문간드</Speaker>||:그때쯤 싸움에 안 어울리는 녀석들은 거의 다 정리됐던 참이었지 아마?+살아남은 놈들은 하나같이 수단 방법 안 가리는 괴물 같은 놈들이었고.+나도 정신적으로 힘들어서 그냥 이성이고 뭐고 다 버릴까 싶었는데, 때마침 휴전 기간이 시작돼서 숨통이 좀 트였지.
+Weaver(3)<Speaker>우로보로스</Speaker>||:<color=#A9A9A9>......</color>
+NPC-Jormungand(1)<Speaker>요르문간드</Speaker>||:그 괴물 같은 놈들도 죄다 한시름 놨다는 표정이었는데, 딱 하나만 빡쳐서 길길이 날뛰더라... 그래, 바로 너.
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:그때 말이야, 내가 얼마나 흥분했는지 넌 모를 거다. 괴물 같은 놈들 사이에 더 괴물 같은 놈이 있었으니까 말이야!+그래서 못 참고 너한테 접근한 거였는데, 엄청 실망했어.
+Weaver(3)<Speaker>우로보로스</Speaker>||:<color=#A9A9A9>......</color>
+NPC-Jormungand(2)<Speaker>요르문간드</Speaker>||:왜냐고? 넌 내가 생각한 괴물이 아니었으니까.+그냥 괴물 흉내를 내다 자기가 누구인지 잊어버린 불쌍한 녀석이었다고.+너무 오래 흉내낸 나머지, 진짜 알맹이와 가짜 껍데기가 뒤섞이기 시작한 불쌍한 녀석.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:우로보로스의 손톱이 손바닥을 파고들었다.
+NPC-Jormungand(1)<Speaker>요르문간드</Speaker>||:그래도 아주 실망만 한 건 아니야, 금방 너한테 다른 흥미가 생겼거든.+만약에... 아주 만약에 말이다? 네가 살아남기 위해 뒤집어쓴 그 가죽을, 내가 찢어버린다면...
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:넌 그대로 죽어버릴까, 아니면 새롭게 다시 태어날까?+뭐, 어느 쪽이든 곧 알게 되겠지.
+()<Speaker></Speaker>||:다시 발걸음 소리가 나기 시작했다.+우로보로스는 손의 무기를 단단히 고쳐 쥐고, 계상한 타이밍에 뛰쳐나갔다.
+Weaver(7)<Speaker>우로보로스</Speaker>||:죽어라!!
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:하하하하, 거깄었구나!
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Cut_Watermelon</SE1><BGM>BGM_Empty</BGM>:하지만 예상과는 달리, 요르문간드는 아무것도 하지 않았다.
+Weaver(7)<Speaker>우로보로스</Speaker>||<BGM>GF_21winter_avg_mahaline</BGM>:............+뭣...?!
+NPC-Jormungand(2)<Speaker>요르문간드</Speaker>||:뭐냐니, 방금 내가 말한 그대로지.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:치명상을 입은 요르문간드의 몸이 흩어지기 시작했다.+요르문간드뿐만이 아니었다. 가상 공간 전체가 흩어지고 사라져 갔다.
+Weaver(7)<Speaker>우로보로스</Speaker>||:웃기지 마라!!+양보라고!? 나 같은 건 정정당당하게 싸울 가지조차 없다는 거냐?!+나는 내 손으로 승리를 쟁취할 자격도 없다는 거냐!!
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>;Weaver(7)||:뭐어야... 왜 화내나 했더니 그래서였어...?
+NPC-Jormungand(0);Weaver(7)<Speaker>우로보로스</Speaker>||:일어나! 당장 수복하고 일어나란 말이다!!+다시 나와 싸우라고!! 어서!!
+NPC-Jormungand(2)<Speaker>요르문간드</Speaker>||:싫은데.
+NPC-Jormungand(2);Weaver(3)<Speaker>우로보로스</Speaker>||:어째서... 대체 왜...!!
+NPC-Jormungand(1)<Speaker>요르문간드</Speaker>;Weaver(3)||:네가 바깥 세상을 봤으면 하걸랑.+삶을 불태울 만한, 싸움이 아닌 다른 것을 봤을 때...+과연 네가 얼마나 우스꽝스런 표정을 지을지 궁금해.
+NPC-Jormungand(1);Weaver(7)<Speaker>우로보로스</Speaker>||:그딴 건 내가 알아서 할 일이다!! 내가 너 하나 못 이길 줄 알아!?+왜... 네가 무슨 자격으로 내게서 승리를 쟁취할 권리를 빼앗아 가는데!!+잘도... 잘도 나한테 이런 굴욕을 안겼겠다!!
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>;Weaver(7)||:흐하하하핫! 그래, 바로 그거야! 이렇게라도 안 하면 우롱이가 날 기억도 안 할 거 아니야!
+NPC-Jormungand(0);Weaver(3)<Speaker>우로보로스</Speaker>||:너어어...!!
+NPC-Jormungand(1)<Speaker>요르문간드</Speaker>;Weaver(3)||:내 멋대로지만, 난 널 친구라 생각했어. 그래서 우롱이 너도 날 평생 기억해 줬으면 해.+낄낄낄... 너 이제 영원히 나 못 이긴다~+이 정도 임팩트면... 평생 못 잊겠지...?
+Weaver(3)<Speaker>우로보로스</Speaker>||<SE1>AVG_Punch_Hit</SE1><震屏3>:닥쳐!! 난 친구 따위 필요없다고!!+누가 너더러...!
+()<Speaker></Speaker>||:사라져 가는 손으로, 요르문간드는 우로보로스의 얼굴을 어루만졌다. 입으로도 무어라 말하는 듯했지만, 목소리는 들리지 않았다.+그렇게, 우로보로스는 요르문간드가 어둠 속으로 사라지는 것을 눈뜨고 지켜볼 수밖에 없었다.
+()||<黑屏1>:
+()<Speaker>우로보로스</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:빌어먹을 자식아――!!!

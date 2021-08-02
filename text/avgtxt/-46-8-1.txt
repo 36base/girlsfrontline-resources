@@ -1,0 +1,96 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+NPC-xiaodanyan(0)<Speaker>저번화 이야기</Speaker><Position>0,300</Position>||<SE1>AVG_show_start</SE1><BIN>9</BIN><黑屏2><黑屏1>:안녕하세요 여러분! 인기만점 외눈짱입니다! 겨우 마계로 돌아왔어요!+지난 이야기에서, 거하게 소란을 피운 우로보로스와 사신짱 님은 모두 응징받았고, 진보초도 원래 모습을 되찾았답니다.+맞아요, 이번 화가 "사신짱 전선"의 피날레가 되겠습니다!+이야~, 드디어 최종화네요! 처음엔 귀찮기밖에 안 했는데, 벌써 끝이라니 아쉽긴 아쉬워요.+여러분도 절 보는 게 오늘로 마지막이라니 아쉽죠? 그쵸?+괜찮으시다면 실적으로 먹고 살아가는 저를 위해 구독과 좋아요, 고평가 눌러 주세요~+그럼 다 함께, 마지막까지 서비스 서비스!
+()||<黑屏2><BIN>8</BIN><BGM>m_avg_casual</BGM>:그리폰 기지의 지휘실.
+Weaver(3)<Speaker>우로보로스</Speaker>||:...이상입니다.
+()<Speaker>지휘관</Speaker>||:음, 보고서 내용과 비슷하네.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:이제, 어떤 벌을 내리실 것인지 정해 주시옵소서.+이번 사건의 근본적인 책임은 저희에게 있으니, 변명의 여지가 없사옵니다.
+Weaver(3)<Speaker>우로보로스</Speaker>||:......
+()<Speaker>지휘관</Speaker>||:우로보로스, 너한테 다시 기회를 주면 또 똑같은 짓을 벌일 거니?
+Weaver(3)<Speaker>우로보로스</Speaker>||:물론이죠. 아니, 이번보다 훨씬 더 완벽하게 할 겁니다.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:......
+()||<SE1>AVG_Punch_Hit</SE1>:에이전트가 우로보로스의 뒤통수를 후려치곤 다시 허리를 숙였다.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:송구하옵니다 주인님. 이 못난 우로보로스에게 다시 한번 기회를 주시기를 바라옵니다.+AI 라이브러리에 너무 오래 처박혀 있었던 탓에 정상적인 회화 방법도 잊어버린 모양입니다.
+()<Speaker>지휘관</Speaker>||:괜찮아, CZ75 말대로 하루아침에 적응되는 것도 아닐 테니.+그리고, 이번 일 덕분에 최소한 서로 한 발짝씩은 가까워졌잖아.
+Weaver(3)<Speaker>우로보로스</Speaker>||:......
+()<Speaker>지휘관</Speaker>||<黑屏1>:마침 유리네에게서 점심 식사 초대를 받았는데, CZ75와 다른 애들은 아직 공방에서 정밀 점검 중이니...+우리 먼저 갈까?
+()||<黑屏2><BIN>390</BIN><BGM>BGM_Empty</BGM>:유리네의 아파트.
+Yurine(0)<Speaker>유리네</Speaker>||<BGM>GF_Jyashinchan_Story_Jinbouchou</BGM>:사신짱, 정말 네가 진보초를 마계화했다고 생각했어?
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:헤~엥? 제가 당신을 어떻게 부려먹었는지 다시 한번 설명해드릴까요오~?
+Jashinchan(4)<Position>0,100</Position>;Yurine(5)<Speaker>유리네</Speaker>||:풋...
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>;Yurine(5)||:왜, 왜 웃어요!?
+Jashinchan(4)<Position>0,100</Position>;Yurine(0)<Speaker>유리네</Speaker>||:너는 마력으로 진보초를 통째로 복사해서 다른 세계선을 만들어낸 거였어.+네가 거기서 부려먹고 괴롭히던 사람들 모두 네 마력으로 만들어낸 허상이었고.
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>;Yurine(0)||:어... 그러니까 즉...?
+Jashinchan(4)<Position>0,100</Position>;Minosu(0)<Speaker>미노스</Speaker>||:대충 꿈 같은 거였단 뜻이네?
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>;Minosu(0)||:키이이이익!! 아제길꿈 엔딩이라니 그게 무슨 슈퍼 빌런이에요!!!
+Jashinchan(4)<Position>0,100</Position>;Medusa(0)<Speaker>메두사</Speaker>||:사신짱...
+Jashinchan(6)<Speaker>사신짱</Speaker><Position>0,100</Position>;Medusa(0)||:흐에엥~ 메두사아~ 역시 믿을 사람은 당신밖에 없――
+Jashinchan(6)<Position>0,100</Position>;Medusa(0)<Speaker>메두사</Speaker>||:고기 다 타겠어...
+Jashinchan(2)<Speaker>사신짱</Speaker><Position>0,100</Position>;Medusa(0)||:......
+Jashinchan(2)<Position>0,100</Position>;Minosu(0)<Speaker>미노스</Speaker>||:사신짱, 이 삼겹살 덜 익었어.
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>;Minosu(0)||:미노스도 미노스 주제에 기어오르지 좀 말라고요!
+Jashinchan(4)<Position>0,100</Position>;Yurine(3)<Speaker>유리네</Speaker>||:사신짱.
+Jashinchan(2)<Speaker>사신짱</Speaker><Position>0,100</Position>;Yurine(3)||:......
+Jashinchan(2)<Speaker>사신짱</Speaker><Position>0,100</Position>||:알았어요 알았어, 더 구우면 되잖아요!
+()||<黑屏1><SE1>AVG_tableware</SE1>:모두가 식탁에 빙 둘러 앉아, 수다를 떨며 고기를 구워 먹었다.
+()<Speaker>지휘관</Speaker>||<BIN>382</BIN><黑屏2>:어... 사신짱은 안 먹고 계속 굽기만 해도 괜찮은 거니?
+()<Speaker>유리네</Speaker>||:자업자득이에요. 그러게 누가 그런 소동을 일으켜서 그리폰네 친구들까지 휘말리게 하랬어요.
+()<Speaker>우로보로스</Speaker>||:망할 구렁이놈 같으니.
+()<Speaker>에이전트</Speaker>||:차는 다 끓였느냐? 다들 기다리고 있느니라.
+()<Speaker>우로보로스</Speaker>||:빌어먹을... 그리폰이고 철혈이고 다 저주하겠어...
+()||:사신짱이 고기를 굽는 동안, 우로보로스도 옆에서 쉴 새 없이 차를 따르고 새로 내왔다.
+()<Speaker>사신짱</Speaker>||:갈매기살 다 익었어요, 더 먹을 사람?
+()<Speaker>우로보로스</Speaker>||:자, 마셔라.
+()<Speaker>메두사</Speaker>||:사신짱, 뭐 먹고 싶어?+내가 남겨 줄게.
+()<Speaker>사신짱</Speaker>||:오오, 그럼 저는――
+()<Speaker>유리네</Speaker>||:냅둬, 메두사.
+()<Speaker>메두사</Speaker>||:엑...
+()<Speaker>지휘관</Speaker>||:메두사, 거기 소고기 좀 주겠니?
+()<Speaker>메두사</Speaker>||:응! 자, 여기!
+()<Speaker>사신짱</Speaker>||<黑屏1>:젠장젠장젠장젠자아앙!!!
+()||<BIN>9</BIN><黑屏2>:A5 와규가 지휘관의 밥그릇에 얹어지는 것을 끝으로 인내심이 폭발한 사신짱이 기어코 식탁을 엎어버렸다.+그와 동시에, 눈으로는 쫓지 못할 속도로 불판 위에서 구워지던 소고기를 모조리 먹어치워버렸다.
+Minosu(2)<Speaker>미노스</Speaker>||:사신짱?!
+Yurine(3)<Speaker>유리네</Speaker>||:사신짱... 전혀 반성을 안 했구나.
+()||:그냥 일을 저지르고 본 사신짱은 식은땀을 삐질삐질 흘리면서도 입에 한가득 든 소고기를 꿀꺽 삼켰다.+유리네도, 손에 식칼을 들고 일말의 표정 변화 없이 사신짱에게 그 위압적인 그림자를 드리웠다.
+Jashinchan(2)<Speaker>사신짱</Speaker><Position>0,100</Position>||<黑屏1>:유, 유리네? 잠깐만요, 저 진짜로 반성――+끼야아아아아악!!!
+()<Speaker>에이전트</Speaker>||<黑屏2><BIN>383</BIN>:우로보로스, 너도 좀 먹거라.
+()<Speaker>우로보로스</Speaker>||:음.
+()||:살벌한 소리와 사신짱의 비명을 배경으로, 에이전트가 우로보로스에게 밥에 반찬을 얹어 먹여 주었다.
+()<Speaker>에이전트</Speaker>||:내가 특별히 먹여 주었으니, 다음 주에 있을 테스트에서 반드시 만점을 받아내거라. 알았느냐?
+()<Speaker>우로보로스</Speaker>||:......+퉷.
+()<Speaker>에이전트</Speaker>||<黑屏1>:......
+()<Speaker>메두사</Speaker>||<BIN>9</BIN><黑屏2>:왜 너희까지 싸우고 그래?!+싸우면 안 돼, 그만――
+()<Speaker>미노스</Speaker>||:으아아 비싼 소고기 가지고 던지면서 싸우지 마!!
+()||:그 아수라장 속에서, 오직 지휘관만이 즐겁게 소고기를 구워 맛있게 먹었다.
+()<Speaker>지휘관</Speaker>||<SE1>AVG_deep_frying</SE1><黑屏1>:음... 좋은 하루는 불고기로 시작해야 제맛이구나!
+()||<黑屏1> <BGM>BGM_Empty</BGM><CGDelay>3</CGDelay>:[사신짱 전선] THE END.
+()||<黑屏2><BIN>89</BIN><BGM>BGM_Hello</BGM>:그리폰 기지, 식당 창고.+잠으로 체력을 보충한 페코라가 드디어 깨어났지만, 미노스와 메두사는 온데간데 없었다.
+Pekora(0)<Speaker>페코라</Speaker>||:......?!
+G36Mod(0)<Speaker>G36</Speaker>||:......
+QSB91(0)<Speaker>QSB91</Speaker>||:어...+메이드장, 이거 어쩌죠?
+G36Mod(0)<Speaker>G36</Speaker>||:당신은 누구십니까?
+Pekora(2)<Speaker>페코라</Speaker>;G36Mod(0)||:히익! 아, 악마!
+Pekora(2);G36Mod(0)<Speaker>G36</Speaker>||:악마...?
+Pekora(2)<Speaker>페코라</Speaker>;G36Mod(0)||:페코라가 천사의 고리를 잃어버렸을지는 몰라도, 천사로서의 자존심은 절대 버리지 않아요!
+Pekora(2);G36Mod(0)<Speaker>G36</Speaker>||:고리?
+Pekora(2);QSB91(0)<Speaker>QSB91</Speaker>||:이름이 페코라야?
+Pekora(2)<Speaker>페코라</Speaker>;QSB91(0)||:페, 페코라는 페코라예요!
+G36Mod(0)<Speaker>G36</Speaker>;QSB91(0)||:만능이, 이분께 식사를 만들어 주세요.
+G36Mod(0)<Speaker>G36</Speaker>||:아무래도 허기져서 정신이 온전치 못한 모양입니다.
+QSB91(0)<Speaker>QSB91</Speaker>||:넵!
+()||<SE1>RunStep</SE1>:G36의 명을 받은 QSB-91이 쏜살같이 주방으로 가, 계란볶음밥 한 접시를 가져왔다.
+QSB91(0)<Speaker>QSB91</Speaker>||:자아, 먹어 먹어!
+()||:계란볶음밥의 매혹적인 향기에, 페코라는 자기도 모르게 군침을 꿀꺽 삼켰다.
+Pekora(3)<Speaker>페코라</Speaker>||:볶음밥...! 맛있겠... 핫!!
+Pekora(2)<Speaker>페코라</Speaker>||:페코라는 천사예요! 악마의 공물 따위 받지 않아요!+<size=50>페코라는 절대 구걸하지 않아요!</size>
+()||:꼬르르륵...+하지만 그녀의 배는 그렇지 않았다.
+Pekora(0)<Speaker>페코라</Speaker>||:......
+G36Mod(0)<Speaker>G36</Speaker>||:......+계란볶음밥은 입에 안 맞나 보군요. 만능이, 다른 거 가져오세요.
+QSB91(0)<Speaker>QSB91</Speaker>||:넵!
+()||<SE1>RunStep</SE1>:QSB-91이 이번에는 업진살이 듬뿍 들어간 카레라이스를 가져왔다.
+QSB91(0)<Speaker>QSB91</Speaker>||:오늘의 특식인 업진살 카레라이스! 이건 어때?
+Pekora(0)<Speaker>페코라</Speaker>||:카... 카레...! 페코라는... 페코라는...!!
+G36Mod(0)<Speaker>G36</Speaker>||:무리할 것 없습니다.+당신의 사명이 무엇이든, 일단 배부르게 먹어야 완수할 수 있지 않겠습니까?
+Pekora(0)<Speaker>페코라</Speaker>||:......!!!
+()||:그 말을 들은 페코라의 눈에는, G36과 QSB-91에게서 후광과 날개가 보이는 것만 같았다.
+Pekora(3)<Speaker>페코라</Speaker>||:하늘에 계신 아버지, 페코라는 천국에 돌아온 건가요...?
+()||<黑屏1>:[사신짱 전선] 진짜로 THE END.
