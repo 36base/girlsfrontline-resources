@@ -1,0 +1,62 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator>:독일 베를린, 국가안전국의 취조실.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>158</BIN><黑屏2><BGM>BGM_Room</BGM>:밀폐된 취조실은 그 문이 닫히기만 하면, 햇빛은 물론 그 어떠한 전파도 드나들 수 없었다.+침묵하며 기다리기엔 더할 나위 없는 장소였다.
+NPC-Jason(2)<Speaker>K</Speaker>||:......
+SP9(0)<Speaker>모나</Speaker>||:......
+()<Speaker></Speaker>||:다만, 지금 취조실의 답답한 분위기는 우두커니 앉아 있는 두 사람으로 인한 것이 아니었다. 바로 그들 옆에서 잔뜩 짜증난 표정으로 좀처럼 가만있질 못하고 다리를 떠는 사람의 초조함 때문이었다.
+NPC-Keven(4)<Speaker>J</Speaker>||:......아 진짜! 그 여자 오는 거야 안 오는 거야!? 급한 일이라면서 부르더니만, 여기다 냅다 몰아넣고 방치 플레이하네?!+우린 부하지 용의자가 아니라고!
+NPC-Keven(4)<Speaker>J</Speaker>||:너희 둘도 뭐라고 말 좀 해 봐!+이런 상관 본 적 있어!? 아니, 이런 여자는 내가 살다 살다 처음 본다!
+NPC-Keven(5)<Speaker>J</Speaker>||:대체 무슨 생각이냐고오오... 이따위로 무시할 거면 아예 부르질 말던가!+윗대가리들은 뭐 외모만 보고 사람 뽑나? 어!? 현장직이 고생하는 것도 좀 생각을――
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>:뻐엉!+취조실의 문을 발로 뻥 차면서 구설수에 오르던 "낙하산"이 위풍당당하게 들어와, 다시 문을 쾅 닫았다.
+NPC-Keven(5)<Speaker>J</Speaker>||:......
+NPC-Romy(0)<Speaker>로미</Speaker>||:임무다. 코드네임 "네오", 실종된 화물 트럭 수색이다.+실종 지점은 A107 고속 도로, C6에서 C9 구간이다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:K 앞으로 날아든 한 장의 사진은, 간신히 트럭의 윤곽을 알아볼 수만 있을 정도로 극악의 해상도였다.
+NPC-Keven(5)<Speaker>J</Speaker>||:또 경찰이나 할 일을...
+()<Speaker></Speaker>||:로미의 시선이 자신을 향하자, J는 눈치껏 입을 다물었다.
+NPC-Romy(0)<Speaker>로미</Speaker>||:이 구간의 감시 카메라 영상이 전부 훼손된 상태다. 너희가 차와 화물을 추적해 회수하도록.
+NPC-Romy(0);NPC-Jason(2)<Speaker>K</Speaker>||:알겠습니다. 동원 가능한 자원과 인력은――
+NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Jason(2)||:이 자리의 인원만으로 처리해. 임무 과정에 기록이 남아선 안 된다.+그리고, 선 넘지 말 것.
+NPC-Romy(0);NPC-Jason(2)<Speaker>K</Speaker>||:...알겠습니다.
+NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Jason(2)||:슈바벤, 이건 내가 네게 일임하는 첫 임무다.
+NPC-Romy(0);NPC-Jason(2)<Speaker>K</Speaker>||:국장의 신임을 얻어 영광입니다.
+NPC-Romy(0)<Speaker>로미</Speaker>||:널 믿기에 이 일을 맡기는 게 아니라, 네 이력이 이 일에 적합해서 맡기는 거다.+다른 질문 있나?
+NPC-Keven(5)<Speaker>J</Speaker>||:......
+SP9(0)<Speaker>모나</Speaker>||:......
+NPC-Jason(2)<Speaker>K</Speaker>||:없습니다, 충분히 이해했습니다.
+NPC-Romy(0)<Speaker>로미</Speaker>||:정기 보고하도록.
+NPC-Jason(2)<Speaker>K</Speaker>||:네.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:로미는 고개를 끄덕이고 다시 바람처럼 방을 나섰다.+겨우 15분에 불과했지만, 긴장감이 감돌던 취조실은 문이 닫히는 소리와 함께 누그러졌다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>417</BIN>:국가안전국 사무실.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:전자펜을 휘갈기며 태블릿에 무언가 잔뜩 적은 K는, 펜을 돌리며 J에게도 그걸 보여 주었다.
+NPC-Jason(2)<Speaker>K</Speaker>||:이게 앞으로의 작업 일정이다.
+NPC-Keven(0)<Speaker>J</Speaker>||:......진심이냐?
+NPC-Jason(2)<Speaker>K</Speaker>||:그럼 농담하는 거 같냐?
+NPC-Keven(5)<Speaker>J</Speaker>||:얌마 케인... 너 그 여자한테 홀리기라도 했냐?+아니 사진은 뭐 알아볼 수도 없는데, 고속 도로도 그 구간이면 레이싱 경기해도 되겠더라 야.+아오 그냥 대놓고 면상에다 꼽을 주던가! 뭔 수작을 부려도 이따위야!?
+SP9(0)<Speaker>모나</Speaker>||:저는 국장님의 의도가 단순한 가혹 행위가 아니라 생각합니다.+그리고, 이 임무는 기밀 등급이 매우 높습니다. 신뢰하지 않는 요원에게 맡길 만한 일이 아닙니다.
+NPC-Keven(5)<Speaker>J</Speaker>||:얼씨구, 그래서 그 여자가 우릴 신뢰한다?
+SP9(0)<Speaker>모나</Speaker>||:안전국 내에서도 두 분의 호흡이 잘 맞고, 이러한 임무를 수행한 경험이 많다고 들었습니다만.
+NPC-Keven(5)<Speaker>J</Speaker>||:허이고.
+SP9(0)<Speaker>모나</Speaker>||:어쨌든, 임무 수행에 관해서는 두 분 모두 제 선배입니다.+지금부터 무얼 하는 것이 좋을까요?
+NPC-Jason(2)<Speaker>K</Speaker>||:트럭으로 운송되던 물건이 난데없이 사라지진 않지. 우선 그 화물 트럭이 어디로 향하던 건지부터 특정해야 하는데, 이런 일은 인형이 훨씬 효율적이니 네가 맡아라. 최대한 빨리 처리해.
+SP9(0)<Speaker>모나</Speaker>||:네, 당장 시작하겠습니다.
+NPC-Keven(0)<Speaker>J</Speaker>||:둘이서 잘 해보셔~
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:J는 빈정대며 그대로 소파에 드러누워 텔레비전을 켰다.
+()||<黑屏1>:
+()<Speaker>섀도리스</Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>343</BIN><BGM>GF_EV9_Story</BGM><common_effect>%%code=NPC_TV_3%%</common_effect>:――를린의 한 ELID 환자가 급성 쇼크 증상을 보여, 성 마리엔 병원으로 긴급 이송되었습니다.+이 환자는 자신이 갈라테아 그룹이 최근 개발한 항붕괴제 "이둔"을 주사받았다 주장했지만, 사측은 해당 약품은 3차 검증시험을 통과하지 않아 아직 시중에 유통되지 않았다고 발표했습니다.
+()<Speaker>섀도리스</Speaker>||:이 사건은 현재 경찰이 계속 조사 중이지만, 시중의 비허가 약물 남용 문제만이 아니라 식약청의 태만함에 대한 경고이기도 합니다.+최근 다수의 갈라테아 제약 공장이 운영 정지 처분을 받아 "이둔"의 출시 일정이 무기한 연기되어, 복사감염증 치료에 대한 해답이 다시 한번 미궁에 빠졌습니다.+고통받는 환자가 편법까지 도모해야 하는 처지에 몰린 현재, 이러한 불상사를 근절하기 위해서라도 정부는 국민의 안위를 최우선시하여, 국민들이 안전하고 신뢰할 수 있는 약품을 구매할 수 있도록 조속히 방안을 마련해야 할 것입니다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<关闭蒙版>%%</关闭蒙版><黑屏2><BIN>84</BIN><BGM>BGM_Room</BGM>:베를린 거리.
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Camera</SE1>:찰칵!
+FARA83(2)<Speaker>파라</Speaker>||:헤헤~ 섀도리스는 오늘도 전광판에서 빛나는구나~ 하아, 이번 일은 타이밍이 참 좋네. 갈라테아의 경쟁사가 꾸민 짓이 아닐까 싶다니까?+어...? 누구세요?
+()<Speaker></Speaker>||:화보지를 찢고 나온 듯 행인들의 시선을 사로잡는 미인이 소리도 없이 파라 앞에 나타났다.
+NPC-Bramedb(0)<Speaker>？？？</Speaker>||:꼬마 아가씨, 잠깐 카메라 좀 봐도 될까요?
+FARA83(2)<Speaker>파라</Speaker>||:어... 네, 얼마든지요...?
+()<Speaker></Speaker>||:어리둥절해하면서도, 파라는 카메라를 건네주었다. 그녀 눈에는 카메라를 보는 미인의 매력적인 눈매와 우아한 곡선을 그리는 입술만 들어왔다.
+NPC-Bramedb(0)<Speaker>？？？</Speaker>||:으흠... 섀도리스를 찍었군요?+정말 인기 많은 사람이네요.
+NPC-Bramedb(0);FARA83(2)<Speaker>파라</Speaker>||:네?
+NPC-Bramedb(2)<Speaker>？？？</Speaker>;FARA83(2)||:나를 찍은 줄 알았는데~ 아이 참, 괜히 설레였네요.
+NPC-Bramedb(2);FARA83(2)<Speaker>파라</Speaker>||:앗! 그, 그럼 지금 찍어드릴까요!?
+NPC-Bramedb(2)<Speaker>？？？</Speaker>||:음... 아뇨, 생각해 보니 지금은 화장이 촬영에 적절치 않네요. 인연이 되면 또 봐요, 꼬마 아가씨~
+()||<黑屏1>:

@@ -1,0 +1,63 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>229</BIN><BGM>10130</BGM><黑屏2>:......
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:이번엔 내가 진 걸로 칠게~ 다음에 또 한 곡 추자, 자기야.+자기랑 나랑, 단 둘이서만♪
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:전자전이 끝났을 때, 브라메드의 모습은 온데간데 없었다.+그저 그녀가 남긴 목소리가, 좁은 창고에서 맴돌 뿐이었다.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:...수준이 겨우 이건가.+지휘관님, 이곳의 모든 전자 자물쇠를 해제했습니다.+이 지하 창고는 이제 아무것도 숨기지 못합니다.
+()<Speaker>지휘관</Speaker>||:...알았다.
+()<Speaker></Speaker>||:브라메드를 놓쳐버린 것은 아쉬웠지만, 수확이 없진 않았으니 지휘관도 단념할 수밖에 없었다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:삐빅.+통신 연결.
+NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>지휘관, 별일 없습니까? 거기서 뭘 하길래 이렇게 오래 걸려요?</color>
+NPC-Keven(0)<Speaker>지휘관</Speaker>||:일이 좀 있었지. 바로 올라... 아니, 그쪽이 내려와.+여기의 전자 자물쇠를 해제했으니, 인원들 모아서 여길 다시 한번 수색하자.+나머진 서에서 얘기하지.
+NPC-Keven(0)<Speaker>J</Speaker>||:<color=#00CCFF>"서에서 얘기하지"? 아이고야, 슈타지가 할 법한 말을 하시네요.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:상황을 전혀 모르는 J는 가볍게 농담을 던지고 통신을 종료했다.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>417</BIN><黑屏2><BGM>GF_EV9_Story</BGM>:독일 국가안전국.
+NPC-Jason(2)<Speaker>K</Speaker>||:결국 안젤리아는 찾지 못했단 건가.
+()<Speaker></Speaker>||:안전국의 사무실에, J, K와 지휘관이 다시 한자리에 모였다.+K의 질문에 지휘관은 고개를 저었다.
+()<Speaker>지휘관</Speaker>||:최소한 거기에 있었어.+아마 그녀의 메시지를 눈치챈 그레이가 거꾸로 이용한 거겠지.
+NPC-Keven(0)<Speaker>J</Speaker>||:그래도 그 창고의 물건들은 우리가 몽땅 회수했잖습니까.+이번엔 진짜 우리가 점수 크게 딴 거예요, 놈들한테 강펀치 한 방 먹인 거라고요.
+()<Speaker>지휘관</Speaker>||:확실히. 그리고 단서도 많이 확보했지.+양은 물론, 아주 상세하기까지 해... 오히려 의심스러울 지경이야.+정말 이렇게 상세하게 문서로 남기는 작자가 있을까?
+NPC-Jason(3)<Speaker>K</Speaker>||:그게 놈들이 민생을 장악한 수법일 수도 있지.
+()<Speaker></Speaker>||:K의 농담에 지휘관도 피식 웃었다.
+()<Speaker>지휘관</Speaker>||:어쨌든, 중요한 단서를 너희에게도 공유하겠다.
+NPC-Jason(2)<Speaker>K</Speaker>||:...무슨 단서지?
+()<Speaker>지휘관</Speaker>||:방금 말했잖아?+그 브라메드라 하는 니토와 한판 겨뤘다고.+댄들라이가 녀석과 전자전을 하면서 많은 정보를 얻어냈어.+그걸 해독한 결과, 유용한 단서를 발견했다.
+()<Speaker>지휘관</Speaker>||:댄들라이.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:녹음 기록을 발견했습니다.
+NPC-Keven(0)<Speaker>J</Speaker>||:녹음?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:댄들라이가 고개를 끄덕이며 중앙의 테이블에 태블릿을 놓았다.
+()<Speaker>？？？</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_whitenoise</SE1>:......
+()<Speaker>？？？</Speaker>||:<color=#00CCFF>――갈라테아가 제공하는 기술은 국방부에게도, 독일에게도 무척이나 중요하네.</color>+<color=#00CCFF>자네도 이 점에 대해 동의하길 바라네, 슈바인슈타이거 장군.</color>
+NPC-Keven(0)<Speaker>J</Speaker>||<BGM>BGM_Brain</BGM>:——!
+()<Speaker></Speaker>||:J는 눈을 부릅떴고, 나머지 세 명은 진지한 얼굴로 입을 꾹 다물었다.
+()<Speaker>슈바인슈타이거</Speaker>||:<color=#00CCFF>그래, 그래, 이해하오... 나도 자네의 생각에 찬성하는 바요.</color>+<color=#00CCFF>자네가 중개인이 되어 준다니, 무척이나 고맙구려. 분명 즐거운 협력이 되리라 믿소.</color>
+()<Speaker>？？？</Speaker>||:<color=#00CCFF>그래, 내 확신하네.</color>
+NPC-Keven(5)<Speaker>J</Speaker>||:이 목소리는...
+NPC-Jason(4)<Speaker>K</Speaker>||:쉿!
+()<Speaker></Speaker>||:K마저 숨이 가빠졌다.
+()<Speaker>？？？</Speaker>||:<color=#00CCFF>...내 확신하네.</color>+<color=#00CCFF>오늘은 독일에게 있어, 무척이나 중요하고 위대한 날일세.</color>
+()<Speaker></Speaker>||:......
+()||<黑点1>:
+()<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||<黑点2><BIN>313</BIN><SE1>AVG_amb_thunderrain</SE1>:<color=#00CCFF>오늘은 독일에게 있어 무척이나 중요하고 위대한 날입니다!</color>
+()<Speaker></Speaker>||:텔레비전 속의 오버슈타인은 격양된 목소리로 연설해, 자신의 이상을 무한한 감화력에 실어 화면 너머로 쏟아냈다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:찻잔과 받침접시가 가볍게 부딪혀 경쾌한 소리를 냈다.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:남자는 텔레비전을 끄고 일어나 창문으로 고개를 돌렸다.
+()<Speaker></Speaker>||:먹구름 낀 하늘에서 주륵주륵 내리는 장대비가 시야를 가렸다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker>||:...그래, 확실하게 받았네.+음, 아주 중요한 정보야. 정말 잘했어.+이것이 승부를 판가름낼 비장의 카드가 되리라 내 믿어 의심치 않네.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:훈작사의 목소리와 함께 통신이 끊어졌다.
+()<Speaker></Speaker>||:안경의 렌즈 뒤로 가려진 그의 눈에서 비춰지는 심오한 눈빛은, 저 멀리를 향했다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>182</BIN><黑屏2><Night><common_effect>%%code=CJ_rain%%</common_effect>:쏟아지는 빗속에서도 우뚝 선 국회의사당은 통일절 행사 때의 광채를 오늘까지도 발했다.+그 광경을 보며, 그는 찻잔에 각설탕을 한 조각 더 넣고 수저로 저으며 "연주"를 했다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><SE1>AVG_doorknock_wood</SE1><Night><BIN>84</BIN><BGM>BGM_Empty</BGM>:더없이 평범한 어느 아파트. 요염한 풍채의 여인이, 눈에 띄지 않는 집의 문을 살며시 노크했다.
+()<Speaker>？？？</Speaker>||:들어와라.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:브라메드는 무척 긴장한 듯했다. 허락을 받았음에도, 심호흡을 하고 나서야 공손히 문을 열었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>Stop_AVG_loop</SE1><关闭蒙版>:그리고 천천히 방에 들어선 그녀는, 숭배하는 눈빛으로 방에 드리운 그림자를 향해 허리숙여 인사를 올렸다.
+NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:아버님께 보고를 올립니다.+임무를 순조로이 완수했습니다.
+()<Speaker>？？？</Speaker>||:......
+()<Speaker></Speaker>||:그림자는 아무런 대답도 하지 않았다. 하지만, 브라메드는 잘 알았다.+지금은 위업이 새로운 단계에 오를 중요한 시기였기에, 이런 일시적인 승리는 그에게 아무 의미도 없었다.
+NPC-Bramedb(0)<Speaker>브라메드</Speaker>||:부디 안심하시길... 앞으로도 제가 부담을 덜어드리겠습니다.+장담컨대, 아버님의 숙원이 이루어지는 그날까지, 저는 아버님께서 내려 주시는 모든 것을 해내보이겠습니다.
+()<Speaker></Speaker>||:바로 이것이었다. 이래야 옳았다.+자신이야말로, 아버님이 가장 아끼시는 딸이니까.
+()||<黑屏1>:

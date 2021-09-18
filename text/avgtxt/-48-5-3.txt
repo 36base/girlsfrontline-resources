@@ -1,0 +1,198 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>139</BIN><SE1>AVG_Firework</SE1>:뜨거웠던 열기가 점차 식어 가는 연회장. 오버슈타인은 홀로 창가에 서서, 여전히 하늘에서 피어나고 사라지는 불꽃놀이를 지켜봤다.
+()||<SE1>AVG_tele_connect</SE1>:폭죽이 터지는 소리에 수신음을 숨기면서, 한 메시지가 도착했다.+통신기를 슬쩍 본 오버슈타인은, 남들이 눈치채지 못할 희미한 미소를 띄웠다.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:자아 여러분! 다시 한번 잔을 듭시다! 멋진 오늘을 기념하는 성대한 행사에 걸맞는 성대한 마침표를 찍읍시다!
+()<Speaker>하객</Speaker>||:통일절을 위하여! 건배!
+()||<SE1>AVG_20Winter_Cheers_People</SE1>:높이 들어올려진 잔들이 부딪히는 가운데, 오버슈타인 장관과 슈바인슈타이거 장군은 멀리서 서로에게도 잔을 들었다.
+NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||<黑屏1><BGM>BGM_Empty</BGM>:오늘밤의 불꽃놀이는... 어느 해보다도 현란하군.
+()||<黑屏2><BIN>46</BIN><BGM>BGM_Sneak</BGM>:그리폰 기지, 지하 3층의 연구소.
+gsh18(2)<Speaker>GSH18</Speaker><通讯框>||:<color=#00CCFF>중앙홀에서 부상 인형을 이송 중입니다!</color>
+NPC-Helian(0)<Speaker>헬리안</Speaker>;gsh18(2)<通讯框>||:또? 한밤중에 왜 그렇게 많이 중앙 홀에 모여있었던 거지?
+NPC-Helian(0);gsh18(2)<Speaker>GSH18</Speaker><通讯框>||:<color=#00CCFF>어... 그게...</color>
+NPC-Helian(0);WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker><通讯框>||:<color=#00CCFF>헬리안 님, 무기고의 정리가 완료됐습니다. 현재 창고의 중요 물자 수량 파악과 이송을 진행 중입니다.</color>
+NPC-Helian(0)<Speaker>헬리안</Speaker>;WelrodMod(0)<通讯框>||:속도를 높여. 크루거 님과 전선대기조가 너희를 기다리며 적의 공세를 저지 중이다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:NTW-20 진행 상황 보고해라.
+NPC-Helian(0);NTW20Mod(0)<Speaker>NTW20</Speaker><通讯框>||:<color=#00CCFF>전자 봉쇄 해제 담당 소대가 노력하고 있지만, 아직 보고할 만한 상황은 아니다.</color>+<color=#00CCFF>후방 우회 소대는 방금 집결하여 출발했다.</color>
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NTW20Mod(0)<通讯框>||:알았다, 신중을 기하도록.
+NTW20Mod(0)<Speaker>NTW20</Speaker><通讯框>||:<color=#00CCFF>라저.</color>
+()||<SE1>AVG_tele_disconnect</SE1>:헬리안은 지휘 태블릿에 뜨는 메시지들을 빠르게 처리하면서, 다시 고개를 들어 페르시카의 실험실 문을 찾았다.
+MAC10(0)<Speaker>MAC10</Speaker>||:헬리안 씨, 여긴 벌써 세 번이나 봤어요.
+NPC-Helian(0)<Speaker>헬리안</Speaker>;MAC10(0)||:이상하네... 그녀의 실험실은 분명 이 근처였는데...
+NPC-Helian(0);MAC10(0)<Speaker>MAC10</Speaker>||:폭발에 놀라서 먼저 도망가진 않았을까요?
+NPC-Helian(0)<Speaker>헬리안</Speaker>;MAC10(0)||:아니, 그럴 리는 없어. 그녀는 아무것도 안 챙기고 갈 바에야 차라리 실험실에서 죽길 택하는 사람이야.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:아무래도 연락해봐야겠군. 하지만 시간이 시간이니 안 받을 수도...
+()||<SE1>AVG_tele_connect</SE1>:헬리안이 페르시카에게 통신을 걸었다.+발신음이 열 번 넘게 들리고 나서야, 짜증 섞인 목소리를 들을 수 있었다.
+NPC-Persica(1)<Speaker>페르시카</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>아, 마침 잘 됐다. 헬리안! 한밤중에 공사해서 층간소음 냈다고 클레임 넣을 거야!</color>
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(1)<通讯框>||:......
+NPC-Helian(0);NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>아니 대체 뭐야? 어딜 철거하길래 이렇게 소란스러워!</color>+<color=#00CCFF>덕분에 커피도 다 쏟았다고!</color>
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(3)||:공사가 아닙니다.+조금 전의 소란은 기지가 기습 폭격을 받아서고, 현재 적이 기지를 침공 중입니다.
+NPC-Helian(0);NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>......</color>
+NPC-Helian(0);NPC-Persica(1)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>으아아 난 왜 이렇게 재수가 없는 거야!! 이사 오자마자 뭔 습격이야 대체...</color>
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(1)<通讯框>||:불만은 나중에 들어드릴 테니 연구소 문이나 여세요, 급합니다.
+NPC-Helian(0);NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>예감이 안 좋은데... 용건부터 말해.</color>
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(0)<通讯框>||:연구소에 볼일이 있으니까죠.
+NPC-Helian(0);NPC-Persica(1)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>응? 설마 이 타이밍에 내가 요청한 새 실험 기구 왔어? 아님 주문한 재료?</color>+<color=#00CCFF>그것도 아니면... 설마 누가 먼저 내 프로젝트랑 똑같은 주제로 논문 발표한 건 아니지?</color>
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(1)<通讯框>||:하아... 다 아닙니다, 클라우드 마인드맵 서버 때문입니다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:크루거 님의 상황이 불리해질 경우, 전면 철수를 준비해야 합니다. 그땐 서버도 운반해야 합니다.
+NPC-Persica(1)<Speaker>페르시카</Speaker><通讯框>||<震屏><SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>뭐어?!</color>
+()||<SE1>AVG_21Winter_Medicine_Bottle</SE1>:벽의 조그만 창이 드르륵 열리더니, 드물게 부릅 뜬 페르시카의 눈이 나타났다.
+NPC-Persica(1)<Speaker>페르시카</Speaker>||:마인드맵 서버가 뭔지 알고나 말하는 거야!?+<size=40>이게 무슨 케이크 조각 같아?! 깜찍한 메이드 인형이 문앞까지 배달해 주는 간식 같냐고!!</size>+<size=50>마인드맵 서버라고! 알아 몰라!?</size>+<size=50>안 돼, 절대 안 돼!!</size>
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(1)||:일단 문부터 열고 얘기하세요.
+NPC-Helian(0);NPC-Persica(1)<Speaker>페르시카</Speaker>||:제대로 준비도 않고 마인드맵 서버를 옮겼다간 어떻게 되는 줄 알아?+운 좋으면 데이터 쬐끔 소실, 재수없으면 데이터가 통째로 손상돼서 쓰지도 못하게 된단 말이야!+그리폰이 지금까지 모아 온 기억과 경험이 날아간다고!
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(1)||:......
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:알았으니까 문 여세요.
+NPC-Persica(3)<Speaker>페르시카</Speaker>||:싫어! 저번에 네가 문 열라고 해서 열었더니 인형들 잔뜩 데리고 와서 내 커피잔들 몽땅 설거지해버렸잖아!
+MAC10(0)<Speaker>MAC10</Speaker>||:...그거 나쁜 일인가요?
+NPC-Persica(1)<Speaker>페르시카</Speaker>||:몰라, 문 안 열어. 단념해!
+()||<SE1>AVG_21Winter_Medicine_Bottle</SE1>:페르시카가 창을 쾅 닫았다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:......+잉그램, "대화 수단" 챙겨왔지?
+MAC10(0)<Speaker>MAC10</Speaker>||:분부대로.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:방금 위치 봤지? 문 하나 크기로 구멍 뚫어.
+MAC10(1)<Speaker>MAC10</Speaker>||:걱정 마세요, 이런 건 또 제가 전문이거든요... 킥킥킥...
+()||<黑屏1><SE1>AVG_Saw_Door</SE1><BGM>BGM_Empty</BGM><CGDelay>3</CGDelay>:MAC-10이 음흉하게 킥킥대며, 특제 전기톱의 시동을 걸었다.
+()||<BIN>430</BIN><黑屏2><SE2>Gunfight</SE2><黑屏1><BGM>10065</BGM>:그리폰 기지 입구. 미사일 폭격으로 모든 방위 시스템이 무력화된 탓에, 적들은 거침없이 쳐들어왔다.+가장 먼저 방어선에 도착한 산탄총 소대가 적의 선봉대와 맞붙어 치열한 격전을 벌였다.+뒤이어 도착한 소대들은 크루거의 지휘를 받으며 적 선봉대의 제압을 시도했다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||<黑屏2><BIN>398</BIN>:방어선을 유지해라! 무슨 일이 있어도 놈들의 화력에 진형에 구멍이 나선 안 돼!+외부 방어선이 돌파됐으니, 이 이상 들여보내면 기지가 위험해진다!+놈들은 우리가 여기서 막는다!
+M1928A1(0)<Speaker>톰슨</Speaker>||:라저!
+()||<SE1>AVG_Gunfire</SE1>:하지만 격전의 최전선에 선 산탄총 소대는 점점 밀리고 있었다.
+ColtDefender(1)<Speaker>콜트 디펜더</Speaker>||:저 XX X XX 놈들!! 반으로 찢어 죽일 거야!! 갈비뼈를 모조리 안으로 접어버리겠어!!+이거 놔!! 놓으라고!! 나 더 싸울 수 있어!!
+Liberator(0)<Speaker>리버레이터</Speaker>||:으아아 디펜더 알았으니까 좀 진정해! 얘 데리고 빠질 테니 엄호해 줘!
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:산탄총 B팀, 교대! A팀은 속히 퇴각해서 수복해라!
+()||<SE2>Gunfight</SE2>:크루거의 진두지휘에 힘입어, 인형들은 만신창이 꼴일지언정 방어선을 가까스로 유지해냈다.
+Webley(0)<Speaker>웨블리</Speaker><通讯框>||:<color=#00CCFF>크루거 님, 1시 방향에서 적의 증원이 접근 중입니다.</color>+<color=#00CCFF>1개 소대, 수는 7명. 중화기는 없습니다.</color>
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:톰슨, 몇 명 차출해 경로에 매복시켜라.
+98k(0)<Speaker>Kar98k</Speaker>||:저와 리엔필드가 가겠습니다.
+M1928A1(0)<Speaker>톰슨</Speaker>||:OK! WA, 넌 나랑 같이 카라비너와 리엔필드를 엄호한다!
+()||<SE2>Gunfight</SE2>:타타탕——!
+()||<SE1>RunStep</SE1>:리엔필드와 Kar98k는 날렵한 동작으로 크루거의 시야에서 사라졌다.+그는 다시 눈을 돌려, 현재 저 멀리서 교전 중인 적의 잔여 병력을 확인했다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:전원, 이번 공세를 섬멸하면 숨 돌릴 시간이 생길 것 같다.
+M1928A1(0)<Speaker>톰슨</Speaker>||:다 들었지? 있는 거 없는 거다 때려넣어!!
+WA2000(0)<Speaker>WA2000</Speaker>||:알았어!
+()||<SE2>Gunfight</SE2>:승기를 잡았단 낭보에, 지쳐 가던 인형들이 용맹하게 돌격을 감행해 해일 같은 기세로 남은 적들을 몰아붙였다.
+Webley(0)<Speaker>웨블리</Speaker><通讯框>||:<color=#00CCFF>여기는 웨블리. 적의 증원 부대가 3명이 사살되자 퇴각합니다.</color>
+NPC-Kyruger(0)<Speaker>크루거</Speaker>;Webley(0)<通讯框>||:그 둘이 해냈군. 적의 후속 병력이 보이나?
+NPC-Kyruger(0);Webley(0)<Speaker>웨블리</Speaker><通讯框>||:<color=#00CCFF>현재 관측된 바로는 없습니다.</color>
+NPC-Kyruger(0)<Speaker>크루거</Speaker>;Webley(0)<通讯框>||:전원! 이 틈에 재정비한다!
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:Kar98k와 리엔필드도 수고했다, 현 위치에서 철수해라.
+MLEMK1(0)<Speaker>리엔필드</Speaker><通讯框>||:<color=#00CCFF>즉시 복귀하겠습니다.</color>
+M1928A1(0)<Speaker>톰슨</Speaker>||:다들 정말 잘했다! 기념으로 와서 한잔해!
+()||:적의 1차 공세를 어렵사리 막아내어, 크루거가 이끄는 그리폰 부대는 짧은 휴식 시간을 얻었다.+이에 사기를 북돋으려는 심산으로 톰슨이 아껴 뒀던 술병을 꺼냈고, 무너진 잔해에서 치솟는 불길이 병을 반짝였다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:NTW-20, 돌파 소대의 상황은?
+NTW20Mod(0)<Speaker>NTW20</Speaker><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>미안...... 크...... ...무 실패......</color>
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||<SE1>Stop_AVG_loop</SE1>:...다시 말해라, 통신 상태가――
+M1928A1(0)<Speaker>톰슨</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:유탄이다!! 엎드려――!!
+()||<SE1>Explode</SE1><黑点2><BIN>9</BIN><黑屏1>:콰아앙!!
+()||<黑屏2><BIN>431</BIN><黑屏1><BGM>10254</BGM>:지시를 받은 NTW-20은 즉시 소대를 편성해, 포위망을 뚫고 적의 후방으로 강행돌파하기 위해 움직였다. 성공한다면, 어디가 됐든 외부에 지원을 요청할 수 있을 터였다.+먼저 정찰 결과를 보고받은 돌파 소대는 수비가 가장 취약한 D1 포인트로 돌격했다.+그리고 탄약과 더미를 절반 이상 소모한 끝에 함락시켰다.+하지만 환호도 잠깐, 적의 무장헬기가 나타나, 그들에게 시꺼먼 철갑 기관포를 들이댔다.
+()<Speaker>NTW20</Speaker>||<黑屏2><BIN>1</BIN><Night><common_effect>%%code=CJ_rain%%</common_effect>:<color=#00CCFF>돌파 소대, 응답해! 생존자는 없나!?</color>+<color=#00CCFF>기지에 지원이 필요하다! 반복한다, 기지에 지원이 필요하다!</color>
+()||<SE1>AVG_Rain2</SE1>:창백한 번개가 하늘을 갈랐고, 포성 같은 천둥 소리가 울려퍼졌다.+CZ75를 등에 업은 Spitfire는 그나마 멀쩡한 오른발로 두 사람 몫의 무게를 지탱하며 간신히 나아갔다.
+()<Speaker>CZ75</Speaker>||<SE1>AVG_Rain_Heavy</SE1>:야... 그만 내려놔...+놈들이 오고 있어...
+Spitfire(0)<Speaker>Spitfire</Speaker>||:질 나쁜 농담 말아요, 언니...
+()||<SE1>AVG_Explo_Distance</SE1>:Spitfire가 조심조심 잔해를 넘는 그 순간에도, 저 멀리서 적이 흩뿌리는 총탄이 그들을 스쳤다.+방금 전까지만 해도 소대가 함께 어깨를 나란히하고 작전에 임했건만, 순식간에 반파된 인형 둘밖에 남지 않았다.
+()<Speaker>CZ75</Speaker>||:이러면... 너도 못 살아남아...
+Spitfire(0)<Speaker>Spitfire</Speaker>||:그것도 괜찮네요, 저세상에서 다 같이 모일 테니.
+Spitfire(0)<Speaker>CZ75</Speaker><同时置暗>||:......
+()||:흔적을 감추기 위해, Spitfire는 더 걷기 힘든 숲속으로 들어갔다.+하지만 지금 Spitfire는 비가 쏟아져 질척질척해진 진흙을 나아가기엔 버거운 상태였다. 한 걸음 한 걸음 내디딜 때마다, 날카로운 금속의 마찰음이 들렸다.
+()<Speaker>NTW20</Speaker>||:<color=#00CCFF>돌파 소대! 응답해!</color>
+()<Speaker>CZ75</Speaker>||:너... 소체 아직 괜찮잖아... 더 싸울 수 있어... 난 됐으니까 기지로 가서 힘이나 보태...
+Spitfire(0)<Speaker>Spitfire</Speaker>||:시끄러워요, GSh의 구조팀이 바로 저 앞에 있다고요.
+()||:CZ75가 고개를 돌려 본 저 뒤엔, 진흙 위에 널브러진 동료들의 잔해가 조용히 누워있었다. 길 잃은 아이들처럼, 빗물의 세례를 받으며.
+()<Speaker>CZ75</Speaker>||:Spitfire... 우리 몫까지...+마저 싸워 줘...
+()||<SE1>AVG_wind_grass</SE1>:뒤편의 숲속에서 부스럭 소리가 나자, Spitfire는 다급한 마음에 걸음이 흐트러졌다.
+()||<SE1>AVG_20Winter_Chains_Break</SE1>:그리고 응급처치했던 왼다리가 콰직 소리를 내며 다시 부러져, 바닥에 나뒹굴었다.
+Spitfire(0)<Speaker>Spitfire</Speaker>||:윽... 언니, 괜찮아요? 언니?
+Spitfire(0)<Speaker>CZ75</Speaker><同时置暗>||:......
+()||:Spitfire는 다급하게 왼다리를 다시 이어 붙이면서 CZ75를 불렀다.
+Spitfire(0)<Speaker>Spitfire</Speaker>||<SE1>Stop_AVG_loop</SE1>:...75 언니?
+()||:CZ75는 더 이상 대답이 없었다.
+Spitfire(0)<Speaker>Spitfire</Speaker>||:......
+()||:Spitfire는 말없이 총을 주워, 다시 기지를 향해 발걸음을 옮겼다.
+Spitfire(0)<Speaker>Spitfire</Speaker>||:...여기는 돌파 소대의 Spitfire.
+NTW20Mod(0)<Speaker>NTW20</Speaker><通讯框>||:<color=#00CCFF>무사했구나 Spitfire! 다른 인원들은?</color>
+Spitfire(0)<Speaker>Spitfire</Speaker>;NTW20Mod(0)<通讯框>||:...저뿐이에요.
+Spitfire(0);NTW20Mod(0)<Speaker>NTW20</Speaker><通讯框>||:<color=#00CCFF>......</color>
+Spitfire(0)<Speaker>Spitfire</Speaker>||:바로 기지로 복귀하겠습니다.
+()||<黑屏1><SE1>AVG_tele_disconnect</SE1>:통신 종료.+뺨을 타고 흐르는 눈물은, 세차게 내리는 비에 섞여 들어 아무도 보지 못했다.
+()||<黑屏2><BGM>BGM_Empty</BGM><BIN>9</BIN><关闭蒙版><黑屏1><SE1>AVG_Water_Drip</SE1><CGDelay>2</CGDelay>:......
+()||<黑屏2><BIN>430</BIN><SE1>AVG_Gunfire</SE1><黑屏1><BGM>10082</BGM>:기지 입구 근처에서 크루거와 인형들이 고생 끝에 지켜낸 방어선은, 적의 폭격 앞에선 무용지물이었다.+인형들의 호위 덕분에, 크루거는 적들의 추격을 피할 수 있었지만...+적의 두 번째 공세가 기지로 진입하는 것을 저지하지 못했다.
+()||<黑屏2><BIN>398</BIN><common_effect>%%code=CJX_xm_yan%%</common_effect>:적 부대가 멀어진 것을 확인하고 나서야 크루거는 엄폐물 밖으로 나왔지만, 주위에 보이는 것이라곤 온통 자욱한 먼지구름과 초연이었다.+크루거는 통신 채널에 퇴각 명령을 내리면서 생존 인형을 찾아 헤맸다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:방어선이 돌파당했다, 모든 병력은 즉시 합류 지점으로 퇴각하라!+...거기 산탄총 소대원인가? 뭣하고 있나, 당장 퇴각한다!
+()||:초연 너머로 흐릿한 반쪽짜리 방패가 보이자, 크루거가 바닥을 짚으며 다가갔다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:아직 움직일 수 있겠나?
+()||:방패 뒤엔 부러진 기계팔밖에 없었다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:......+생존자 없느냐! 대답해라!!
+()<Speaker>톰슨</Speaker>||:빅 보스... 여기, 나랑 WA.
+()||:절뚝거리는 인형의 윤곽이 눈앞에 나타났다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:기지로 후퇴한다. 생존자를 집결시켜라.
+M1928A1(0)<Speaker>톰슨</Speaker>||:라저.
+WA2000(1)<Speaker>WA2000</Speaker>||:리엔필드... 카라비너...! 제발 정신 차려...!
+()||:톰슨의 뒤에선, 눈물이 그렁그렁한 WA2000이 리엔필드와 Kar98k의 소체를 붙잡고 흔들고 있었다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:......+WA2000, 아직 끝이 아니니 마음을 다잡아라. 동지들이 우리를 기다리고 있어.
+WA2000(1)<Speaker>WA2000</Speaker>||:알아요... 안다고요...
+WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker><通讯框>||:<color=#00CCFF>여기는 물자 이송 부대! 지원 요청합니다!</color>+<color=#00CCFF>적들이 창고로 침입했습니다! 우리만으로 반격하기엔 역부족입니다!</color>
+NPC-Kyruger(0)<Speaker>크루거</Speaker>;WelrodMod(0)<通讯框>||:알았다, 바로 지원하겠다.
+NPC-Kyruger(0);WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker><通讯框>||:<color=#00CCFF>...크루거 님? 들리십니까?</color>+<color=#00CCFF>톰슨! 톰슨, 응답 바란다!</color>+<color=#00CCFF>아무도 없습니까! 현재 창고가 적에게 포위되었습니다!</color>
+NPC-Kyruger(0)<Speaker>크루거</Speaker>;WelrodMod(0)<通讯框>||:안 들리는 건가? 빌어먹을 통신 교란...
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:WA2000, 너와――
+()||:크루거가 텅 빈 작전실을 죽 훑어봤지만, 다른 인형은 없었다.
+WA2000(1)<Speaker>WA2000</Speaker>||:...나한테 맡겨요, 크루거 씨.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:......+부탁한다.
+()||<黑屏1>:WA2000은 자가수복을 마무리하고, 곧장 창고를 향해 달려갔다.
+()||<关闭蒙版><黑屏2><BIN>9</BIN><SE1>RunStep</SE1><BGM>BGM_Empty</BGM><黑屏1>:쿵쿵쿵쿵——
+()||<黑屏2><BIN>432</BIN><黑屏1><BGM>10230</BGM>:물자 창고. 헬리안의 지시를 받은 웰로드는 신속히 부대를 편성해 창고의 중요 물자를 이송했다.+이송 작업은 막바지였고, 대부분의 대원들이 물자를 호위하며 창고를 떠났기에 남은 인원은 몇 없었다.+마지막 점검을 마친 후 웰로드와 나머지 대원들이 철수하려던 그때, 적들이 엄호 폭격을 받으며 크루거의 방어선을 뚫고 들어왔다.
+()||<黑屏2><BIN>89</BIN>:피 한 방울이 토카레프의 얼굴에 튀었다. 피비린내 나는 인간의 뜨거운 혈액이었다.
+()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:탄약이 진작에 바닥난 토카레프는, 창고에서 찾아낸 야전삽으로 자기 위로 엎어진 병사의 시체를 밀어냈다.
+TT33(0)<Speaker>토카레프</Speaker>||:до свидания (안녕히 가세요).
+()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:수많은 인간의 시체들과 인형의 잔해들이 한데 얽힌 광경에, 토카레프는 감정이 마비된 채, 그저 살아남기 위해 야전삽을 휘두를 뿐이었다.
+WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||:...크루거 님? 들리십니까?+톰슨! 톰슨, 응답 바란다!+아무도 없습니까! 현재 창고가 적에게 포위되었습니다!
+()||:웰로드는 아무런 응답이 없는 통신 채널에 계속해서 소리질렀다.
+PPK(0)<Speaker>PPK</Speaker>||:웰로드... 솔직히 말이야... 지금 이게 그 이벤트보다 훨씬 더 짜릿하다...?
+mp443(0)<Speaker>MP443</Speaker>||:알았으니까 입 좀 다물고 있어! 리베롤! PPK한테 긴급 수복!
+WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||:토카레프! 네가 PPK의 위치를 맡아라!
+TT33(0)<Speaker>토카레프</Speaker>||:네!
+()||<SE1>AVG_pistol_finalshot_n</SE1>:웰로드가 PPK에게 달려가면서, 토카레프의 사각지대에서 나타난 적을 처리했다.
+M1928A1(0)<Speaker>톰슨</Speaker><通讯框>||:<color=#00CCFF>여기는 톰슨. 웰로드, 상황 보고해.</color>
+WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||:톰슨! 적 병력 다수가 창고를 포위했다! 운반할 물자가 있는 상태라 돌파가 불가능해!
+M1928A1(0)<Speaker>톰슨</Speaker><通讯框>||:<color=#00CCFF>알았다. WA가 지원하러 갔으니 조금만 더 버텨.</color>
+WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||:PPK! 조금만 더 버텨라! 지원이 곧 도착한다!
+PPK(0)<Speaker>PPK</Speaker>||:우후훗... 나 같은 문제아를 왜 다들 가만 안 놔두는 건지... 토카레프가 아직 멀쩡할 때 얼른 빠져나가서 크루거 씨한테 가...
+WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||:어둠에 몸을 맡긴 내게 빛을 비춰 주는 것은 지휘관님과 너희밖에 없어!+아무리 기나긴 밤이라도, 난 빛을 쫓기를 멈추지 않는다!
+()||<SE1>AVG_lifttable</SE1>:그때, 환풍기가 쿵 바닥에 떨어지더니 구명 사다리가 내려왔다.
+WA2000(0)<Speaker>WA2000</Speaker>||:얘들아! 엄호할 테니까 빨리 나와!
+WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||:WA2000! 좋았어, 다들 물자를 가지고 탈출한다!
+()||:PPK를 업은 MP443이 먼저 사다리를 올랐고, 토카레프가 리베롤을 밀어 주면서 그 뒤를 따랐다.
+()||<SE1>AVG_pistol_finalshot_n</SE1>:웰로드는, 시간을 벌기 위해 홀로 닥쳐오는 적들에게 맞섰다.
+WA2000(0)<Speaker>WA2000</Speaker>||:웰로드! 이제 너만 나오면 돼! 얼른!
+WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||:알았——
+()||<黑屏1>:웰로드가 사다리를 붙잡았다.
+()||<SE1>AVG_Explo_Close</SE1><黑屏2><BIN>9</BIN><黑屏1>:콰아앙!!+날아든 포탄이 매우 가까이서 폭발했고, 열풍과 충격파가 웰로드의 뒤를 덮쳤다.+굉음과 혼란 속에서, 그녀는 벽에 내동댕이쳐졌다.
+()||<common_effect>%%code=CJ_fire%%</common_effect><睁眼><BIN>88</BIN>:그리고 다시 눈을 떴을 때, 그녀의 손에 쥐어진 것은 반 토막 난 사다리였다.+급히 소체의 상태를 자가진단한 결과도, 절망적이었다.
+WA2000(0)<Speaker>WA2000</Speaker><通讯框>||:<color=#00CCFF>웰로드!</color>+<color=#00CCFF>들려? 지금 출구가 박살났어!</color>
+WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||:......+먼저 가라. 여긴 내게 맡기고.
+WA2000(0)<Speaker>WA2000</Speaker><通讯框>||:<color=#00CCFF>지금 폼 잡을 때야!?</color>
+TT33(0)<Speaker>토카레프</Speaker><通讯框>||:<color=#00CCFF>웰로드 씨, 빨리 나오세요!</color>
+()||:웰로드는 엉망이 된 소체를 보며 쓴웃음을 지었다. 그녀의 시야에서는 경고 알람이 계속해서 깜빡였다.+그 폭발로 벽이 한계에 다다랐는지, 거친 부스러기가 후두둑 떨어지는 천장은 위태롭게 기울었다.
+WA2000(0)<Speaker>WA2000</Speaker><通讯框>||:<color=#00CCFF>이상한 짓 하지 말고 기다려, 다른 길을 찾을게!!</color>
+WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||:걱정 말라니까. 저놈들은 나 혼자서도 문제 없다.
+()||:멀지 않은 위치에서, 인형들의 농성으로 큰 피해를 입었던 적들이 지원군과 합류해 그녀를 찾아다녔다.+웰로드는 각도를 계산하며 무너져 가는 창고의 구석으로 기어가, 품에서 마지막 수류탄을 꺼냈다.
+PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>너... 설마 우리 구하겠다고 희생할 셈은 아니지...?</color>
+Ribeyrolles(0)<Speaker>리베롤</Speaker><通讯框>||:<color=#00CCFF>웰로드 씨... 저한텐 그럴 만한 가치가...!</color>
+WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||:...이 세상에, 구원받을 가치 없는 자는 없어.
+TT33(0)<Speaker>토카레프</Speaker><通讯框>||:<color=#00CCFF>웰..... ... 안 돼...!</color>
+()||<SE1>AVG_whitenoise</SE1><SE1>Rope</SE1>:노이즈가 심해지자, 웰로드는 통신을 끄고 수류탄을 꾹 쥐었다.
+WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||<SE1>Stop_AVG_loop</SE1>:내가 지금 해 줄 수 있는 건... 이것뿐이니까...
+()||:적들의 발소리가 가까워졌다. 소리로 판단해 인간 병사 2명에 군용인형 6기.+창고 반대편의 벽에서 쿵쿵 소리가 들렸다. 마치, 누군가 비통함에 오열하며 벽을 두들기는 것만 같았다.
+()<Speaker>토카레프</Speaker>||:웰로드 씨! 안 돼요! 웰로드 씨!
+()<Speaker>WA2000</Speaker>||:통신 다시 켜 이 바보야!! 허튼 짓 말고 기다리라고!
+()||:웰로드는 참지 못하고 피식 웃었다, 웃음이 터지는 동시에 눈물도 쏟아져나올 것 같았다.+벽에서 나는 소리를 들었는지 적 병사들이 경계하며 소리가 난 방향으로 움직이기 시작했다.+이를 본 웰로드는 무리해서 일어나, 마지막 힘을 쥐어짜 창고의 선반을 내리쳤다.
+WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||:..."순순히 저 어두운 밤을 받아들이지 말라."+"스러져 가는 이여, 저무는 날에 맞서 소리치고 격노하라."
+()||:그 소리에, 적 병사들이 방향을 꺾어 웰로드 쪽으로 접근했다.+선반에 몸을 기대 시야의 사각지대에 숨은 웰로드는, 숨을 죽이고 놈들의 발소리에 집중했다.+다가온다... 다가온다... 저승사자의 발걸음이, 점점 다가온다...+이윽고 때가 찾아왔고, 웰로드는 씨익 웃으며 안전핀을 뽑았다.
+WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||<黑屏1>:"격노하라, 꺼져 가는 빛에 격노하라."
+()||<黑屏2><BIN>9</BIN><关闭蒙版><SE1>AVG_Explo_Close</SE1><黑屏1><CGDelay>2</CGDelay><BGM>BGM_Empty</BGM>:——!!
+()||<黑屏2><BIN>433</BIN><黑屏1><BGM>10258</BGM>:작전실.+톰슨은 모든 생존자를 집합시켜 철수 준비를 하고, 크루거는 아직 흩어진 소대들에게 연락해 교전 상황과 적의 침투 정황을 재확인했다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||<黑屏2><BIN>398</BIN><火花>:헬리안, 방어선이 돌파됐다. 현시간부로 긴급 철수 계획을 실행한다.
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:<color=#00CCFF>...알겠습니다.</color>
+NPC-Kyruger(0)<Speaker>크루거</Speaker>;NPC-Helian(0)<通讯框>||:페르시카는 어떻지? 마인드맵 서버 운반 준비는 끝났나?
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:<color=#00CCFF>아직 준비 작업 중입니다.</color>+<color=#00CCFF>그런데 크루거 님, 정말 지하로 철수하는 겁니까?</color>
+NPC-Kyruger(0)<Speaker>크루거</Speaker>;NPC-Helian(0)<通讯框>||:지하는 피해가 크지 않고, 구조 기반도 아직 멀쩡하다.+잊지 말도록, 우리 기지는 본디 수비에 용이하도록 설계됐다.
+NPC-Kyruger(0);NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:<color=#00CCFF>...알겠습니다.</color>
+NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:<color=#00CCFF>이 통신을 받는 모든 그리폰 인형에게 전한다! 즉시 지하 3층으로 퇴각한다!</color>+<color=#00CCFF>반복한다, 즉시 지하 3층으로 퇴각하라! 적의 섬멸보다 안전히 퇴각하는 것을 우선하라!</color>
+()||<黑点1>:통신 채널을 통해, 헬리안의 목소리가 모든 그리폰 인형들의 통신 모듈에 전해졌다.+하지만 그녀들의 대부분은, 그 부름에 응할 수 없었다.

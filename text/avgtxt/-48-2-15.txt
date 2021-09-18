@@ -1,0 +1,146 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>356</BIN><黑屏2><Night><BGM>BGM_Room</BGM>:베를린 어딘가의 세이프하우스.
+()<Speaker></Speaker>||:달이 유별나게 밝은 밤, 예상치 못했던 전투가 일단락된 후.+어딘가에서 새로운 초연이 피어오르려 했다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>오랜만이네, 지휘관.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker>||:오랜만입니다, 훈작사.
+NPC-Griffin(0)<Speaker>그리폰</Speaker>||:<color=#00CCFF>지난번의 대화로부터 그리 많이 지나진 않았건만, 정말 간만에 보는 것 같군.</color>+<color=#00CCFF>이렇게 자네의 목소리를 다시 들으니 기쁘기 그지없어.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker>||:정말 죄송합니다.+일을 망쳐버리고, 당신의 직속 소대마저...
+NPC-Griffin(0)<Speaker>그리폰</Speaker>||:<color=#00CCFF>사과 말게, 자네는 무엇 하나 잘못하지 않았어.</color>+<color=#00CCFF>오히려, 난 자네를 선택해서 천만다행이라 생각하네.</color>+<color=#00CCFF>다른 사람에게 맡겼다면 돌이킬 수 없게 됐을지도 모르니 말이지... 자아, 자네의 현재 상황을 말해 보게.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker>||:몰리도를 생포하여, 조치를 취해 무력화시켰습니다.+"고치 계획"에 관한 정보는 미리 전송드린 것과 같습니다.+그리고... 아직 검증이 필요하지만, 놈들은 통일절을 노려 공격을 감행할 셈이라 합니다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:<color=#00CCFF>...알겠네, 유념하지.</color>
+NPC-Griffin(0)<Speaker>그리폰</Speaker>||:<color=#00CCFF>여기까지만 들어도, 자네가 그동안 얼마나 힘겨운 싸움을 벌였는지 알겠군.</color>+<color=#00CCFF>수고 많았네, 지휘관.</color>+<color=#00CCFF>새로운 세계가 자네의 공헌을 기억할 거야.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker>||:그저 임무를 받아 할일을 했을 뿐입니다.+...그래도, 아쉬움이 많지만 여기서 끝내야겠습니다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:<color=#00CCFF>끝내겠다고...?</color>+<color=#00CCFF>지금 그만두겠다는 말인가?</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker>||:정보도 부족한데다, 여긴 저희의 홈그라운드가 아닙니다.+무엇보다, 제 휘하 인형들의 피해가 심각하고 탄약을 비롯한 보급이 절실한 상황입니다.+제 의견에 상관없이, 이성적으로 판단하건대 여기서 그만두는 것이 지금 저의 유일한 선택지입니다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:<color=#00CCFF>자네가 이렇게 무사하고, 큰 성과까지 이뤘잖은가.</color>+<color=#00CCFF>어떻게 보아도 값진 승리인데... 자네는 이 결과에 만족하지 못하나 보군.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker>||:...더 잘할 수 있었습니다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:<color=#00CCFF>이 시대에 피와 눈물은 흔하다네.</color>+<color=#00CCFF>너무 많이 본 나머지 무감각해진 사람도 수두룩하지.</color>+<color=#00CCFF>무척이나 슬픈 일이지만... 자넨 다르군, 지휘관. 자네는 아직 피가 뜨거워.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker>||:......
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:<color=#00CCFF>솔직히 말해 주게, 정말 이대로 끝내고 싶은가?</color>+<color=#00CCFF>우리는 실패하고 괴로워할 수도 있지. 하지만 지금 승기를 잡은 것은 바로 우리일세.</color>+<color=#00CCFF>자네가 이대로 포기하고, 대신하는 사람이 더 처참한 결과를 초래한다면... </color>+<color=#00CCFF>"나였다면 그렇게 되진 않았을 텐데"라 후회하지 않을 자신이 있나?</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:지휘관은 긴 한숨을 내쉬었다.
+()<Speaker>지휘관</Speaker>||:...그렇다면, 지원해 주십시오. 최대한, 가능한 한 많이.
+()||<黑屏1>:
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||<黑屏2><BIN>414</BIN>:......
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:조용한 방의 문이 열리는 소리가, 잠든 공기를 깨웠다.+나타난 사람이 누구인지 다 예상했다는 듯, 몰리도는 씨익 웃으며 고개를 들었다.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:다시 보러 올 줄 알았어, 니모겐.
+NytoIsomer(12)<Speaker>M4A1</Speaker>||:...저는 당신이 자신의 컨셔스 파노라마를 직시하기를 도와주러 왔을 뿐이에요.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:M4A1은 문을 살며시 닫고, 천천히 몰리도에게 다가갔다.+여전히 내려다보는 M4A1을 마주보는 몰리도의 태도는 전보다 많이 애매해졌다.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:왜 나를 구해준 거야, 니모겐? 덕분에 넌 이제 그런 공격을 다신 못하게 됐잖아.+만약에... 그냥, 만약에... 다음에 그들이 바로 너흴 노리고 온다면, 너흰 그대로 끝장이야.
+NytoIsomer(12)<Speaker>M4A1</Speaker>||:저도 다시 할 생각 없어요.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:그럼 대체 왜 그랬어?
+NytoIsomer(12)<Speaker>M4A1</Speaker>||:......
+()<Speaker></Speaker>||:M4A1이 몸을 숙여, 드물게 위압감 가득한 얼굴을 들이밀었다.
+NytoIsomer(12)<Speaker>M4A1</Speaker>||:말했잖아요? 그냥, 당신을 구해주고 싶다고요.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:...웃긴다 정말, 그렇게 날 구해주고 싶다면 그냥 날 풀어 주지 그래?
+NytoIsomer(12)<Speaker>M4A1</Speaker>||:그럴 거예요.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:...뭐?
+NytoIsomer(12)<Speaker>M4A1</Speaker>||:그럴 거라고요. 아직은 아니지만.+지금은, 가면을 벗은 당신을 보고 싶어요.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......
+()<Speaker></Speaker>||:몰리도는 눈을 깜빡이며 뭐라 말하려는 듯 입을 뻐끔거렸지만, 결국 입을 다물었다.
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>356</BIN><黑点2><Night>:훈작사는 잠시 침묵하다 말을 이었다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>그저 지원이 필요한 것이라면, 물론이지. 얼마든지 지원을 제공하겠네.</color>+<color=#00CCFF>기지에 연락해 충분한 용적량의 이동 기지 차량을 조달한다면, 자네의 직속 전력을 자네 곁으로 보낼 수 있을걸세.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker>||:...그렇게까지 해 주실 줄은 생각지 못했습니다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:<color=#00CCFF>내 의견은 변하지 않았네. 지금까지 보아 왔던 젊은이들 중, 자네가 가장 믿음직스러워.</color>+<color=#00CCFF>이는 크루거도 나와 같은 생각일 테지.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker>||:그 신뢰에 반드시 부응하겠습니다.+단지, 솔직히 과분한 칭찬이라 좀 부담스럽군요.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:<color=#00CCFF>물론, 자넨 아직 젊고 완벽하지도 않아.</color>+<color=#00CCFF>허나 완벽한 사람이 이 세상에 어디 있겠나? 하물며 자네는 아직 젊으니, 앞으로 얼마든지 갈고닦을 수 있을걸세.</color>+<color=#00CCFF>다만... 갈고닦는 데에는 항상 고통이 따르기 마련이지.</color>+<color=#00CCFF>앞으로 마주할 시련을, 받아들일 줄 알아야 하네.</color>+<color=#00CCFF>자네는 특히, 희생을 받아들이는 법을 배워야 해.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker>||:저도 스스로의 의지로 희생하는 자들을 존중하고, 받아들일 수 있습니다. 하지만 결코 그걸 태연히 허락하지 않을 겁니다.+동료를 지킬 수 있다면, 그 어떤 기회도 포기하지 않겠습니다. 그것이 인형이라 해도요.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:<color=#00CCFF>허허, 말에 뼈가 있군.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker>||:안젤리아 씨와 연락이 두절됐습니다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:<color=#00CCFF>...그래, 행방불명이지.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker>||:제게 그녀의 수색 임무를 맡겨 주시겠습니까?
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:<color=#00CCFF>유감스럽게도, 그건 임무라 할 수 없네.</color>+<color=#00CCFF>그건 사적인 감정이야.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker>||:훈작사께서 설득하셨기에 저는 베를린에 남기로 결정했습니다.+그러니, 이왕 남는 것 그에 마땅한 책임을 지고 싶습니다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:<color=#00CCFF>그야 물론이지, 내가 어찌 잘 싸우는 맹수를 가둬 두겠나.</color>+<color=#00CCFF>허나 지금 자네에겐 더 중요한 일이 있잖은가.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker>||:......
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:<color=#00CCFF>"불꽃놀이"가 코앞이네. 자네 말곤 그걸 막을 사람이 없어.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker>||:하지만, 그럼 안젤리아 씨가...
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:<color=#00CCFF>자네가 "이아손의 상자"에 대해 파헤칠수록, 패러데우스는 어쩔 수 없이 자네에게 시선을 돌려야 할걸세. 그러면, 안젤리아를 구출하는 일의 난이도도 크게 떨어질 테지.</color>+<color=#00CCFF> 그러니 내가 자네를 믿듯 자네도 날 믿어 주길 바라네. 나도 뛰어난 전사를 이렇게 허망하게 보내고 싶지 않아.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker>||:...알겠습니다.+당신이 맡기신 일을 해결하겠습니다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><common_effect>%%code=CJX_avg_hb%%</common_effect>:맡겨 주십시오.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+NytoIsomer(12)<Speaker>M4A1</Speaker>||<黑屏2><BIN>249</BIN>:당신의 "아버지"가 무고한 사람을 산송장으로 만들어 버리는 건, 오로지 붕괴복사를 견뎌내는 면역체를 찾기 위해서죠.+...안타깝게도, 그건 헛수고예요.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:그게 패러데우스의 존재 의의야.+우리는 새로운 시대를 개척하고 있어... 우리의 이름처럼.+우매한 인류를 진정한 복음의 땅으로 인도하는 거라고.
+NytoIsomer(12)<Speaker>M4A1</Speaker>||:자기기만 아닌가요?
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:닥쳐.
+()<Speaker></Speaker>||:득의양양하던 모습은 온데간데 없었다. 지금의 몰리도에게선 음울함만이 느껴졌다.
+NytoIsomer(12)<Speaker>M4A1</Speaker>||:당신은 스스로를, 과거와의 연결고리를 부정하고 있어요.+하지만 그 기억들은 사라지지 않고 당신의 심층에 남아있죠. 기억이 바로 절대적인 증거예요.+"아버지"의 눈에 당신들은 모두 실패작이고, 당신도 그저 "그녀"의 그림자 중 하나일 뿐. 당신이 모든 것의 악순환을 끊어버리려 해도, 그 사실은 바뀌지 않아요.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:그녀... 루니샤...?
+()<Speaker></Speaker>||:몰리도는 필사적으로 머리를 흔들며 줄곧 두려워하던 생각을 뿌리쳐내려 했다.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아니야... 속일 생각 마...+웃기지 마... 내가 바로 완벽한 자란 말이야!
+NytoIsomer(12)<Speaker>M4A1</Speaker>||:정말요?
+()<Speaker></Speaker>||:그런 그녀를, M4A1은 측은하게 바라봤다.
+NytoIsomer(12)<Speaker>M4A1</Speaker>||:진실은 당신도 잘 알 텐데요.
+()<Speaker></Speaker>||:한층 더 위압적으로 다가오는 M4A1에 겁먹은 몰리도가 뒷걸음질치다 뭔가에 부딪혔다.+반사적으로 고개를 돌린 그녀의 눈앞에, 거울이 있었다.+그리고 거울에 비친 것은, 그 오물 속에서 몸부림치던 시체였다.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아니야... 아니야, 아니야 아니야!!!
+()<Speaker></Speaker>||:몰리도가 무너지며 비명을 질렀고, 거울 속의 시체도 그녀와 똑같이 움직였다.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:난 실패작이 아니야!! 아니야, 아니라고!!
+()||<黑屏1>:
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||<黑屏2><BIN>9</BIN><关闭蒙版>:아니야! 내가 실패작이면 넌 뭔데!!
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>356</BIN><黑点2><Night><SE1>AVG_tele_disconnect</SE1>:훈작사와의 통신을 마친 뒤, 지휘관을 생각을 정리하며 탁상을 두드렸다.
+()<Speaker>지휘관</Speaker>||:그가 도와주기로 약속했으니...+앞으로의 행동이 지금보단 순조로워지겠지.
+RO635Mod(2)<Speaker>RO635</Speaker>||:안젤리아 씨가 무사했으면 좋겠어요...
+RO635Mod(2)<Speaker>지휘관</Speaker>||:우리가 노력하면 무사할 거야.+아무렴, 어떤 사람인데. 그녀를 믿자.
+RO635Mod(5)<Speaker>RO635</Speaker>||:...네.
+()<Speaker>지휘관</Speaker>||:그리고... 음?
+()<Speaker></Speaker>||:지휘관은 의자를 돌려 주변을 둘러봤다.
+()<Speaker>지휘관</Speaker>||:M4는?
+KH2002(0)<Speaker>카이바르</Speaker>||:...응? 어라? 그러게, 그 신기한 애 어디 갔어?
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:또 언제 사라졌대...+이번에 돌아온 M4는 전보다 엄청 변한 거 같아.
+RO635Mod(0)<Speaker>RO635</Speaker>||:그렇게 느껴지나요?
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:넌 안 그래?+으음... 이걸 어떻게 설명해야 하나... 전이랑 풍기는 분위기가 완전 다르다고나 할까?
+RO635Mod(0)<Speaker>RO635</Speaker>||:...솔직히, 좀 변한 것 같긴 해요.+하지만 M4 씨가 우리로선 상상도 못할 일을 겪었을 수도 있잖아요? 조금 변하는 건 당연한 일이겠죠.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:그런가? 하긴 뭐 그렇긴 한데...
+AR15Mod(4)<Speaker>AR15</Speaker>||:......
+()<Speaker></Speaker>||:조용히 두 인형의 토론을 듣던 AR-15가 자진해서 나섰다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:찾아보고 올게요.
+()<Speaker>지휘관</Speaker>||:그래, 보면 현재 상황도 전달해 주렴.
+AR15Mod(0)<Speaker>AR15</Speaker>||:네.
+()<Speaker></Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>356</BIN><黑点2><Night>:쿵.
+AR15Mod(0)<Speaker>AR15</Speaker>||:윽?
+()<Speaker></Speaker>||:AR-15가 몰리도를 감금한 방 앞에 도착하자마자, 때마침 안에서 나오는 M4A1과 부딪혔다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:우왓, M4? 그 방에서 뭐하고 있었어?
+NytoIsomer(12)<Speaker>M4A1</Speaker>||:아... AR-15. 몰리도에게 볼일이 있어서요, 단둘이 얘기를 좀 했어요.
+AR15Mod(0)<Speaker>AR15</Speaker>||:...그랬구나. 그럼 나머진 나한테 맡기고, 넌 가서 좀 푹 쉬도록 해.
+NytoIsomer(12)<Speaker>M4A1</Speaker>||:네.
+()<Speaker></Speaker>||:M4가 돌아가다 말고 멈추곤, 잠시 머뭇거리다 고개를 돌렸다.
+NytoIsomer(12)<Speaker>M4A1</Speaker>||:AR-15?
+AR15Mod(0)<Speaker>AR15</Speaker>;NytoIsomer(12)||:응?
+AR15Mod(0);NytoIsomer(12)<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM>:제가... M4A1이라 생각하세요?
+AR15Mod(0)<Speaker>AR15</Speaker>;NytoIsomer(12)||:얘가 또 뭔 소릴... 그야 당연하지, 네가 M4가 아니면 누군데?
+AR15Mod(0);NytoIsomer(12)<Speaker>M4A1</Speaker>||:그러니까 제 말은, 제가 예전의 M4A1 본인이 맞다고 생각하나요?+여러 일을 겪은 지금, 모두가 예전과는 많이 달라졌잖아요.+그런데도 제가 여전히 당신이 알던 M4A1이라 확신할 수 있나요?
+AR15Mod(0)<Speaker>AR15</Speaker>;NytoIsomer(12)||:...네가 근본부터 뜯어고쳐지지 않은 이상, 너는 M4야.+내가 아는 M4는 심약하고 우유부단할 때가 많지만, 계속 성장하며 변화했어. 하지만 어떻게 변해도 그 선량함은 절대 흔들리는 일이 없었지.+그래서 난 믿어, 네가 틀림없는 M4라고.
+NytoIsomer(12)<Speaker>M4A1</Speaker>||:......
+()<Speaker></Speaker>||:그 말에 안도하듯 M4A1은 눈을 감고 고개를 끄덕이곤, AR-15에게 싱긋 미소지었다.
+NytoIsomer(12)<Speaker>M4A1</Speaker>||:...네, 고마워요.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>7</BIN><Night><SE1>GF_Halloween_Wind_loop</SE1>:......+신소련 변방.
+()<Speaker></Speaker>||<SE1>AVG_Rocket_Gun_Truck</SE1>:부르릉...
+()<Speaker></Speaker>||:군용 지프차 한 대가 흙먼지를 일으키며 허전한 땅 위를 달렸다.+그 차의 목적지인 어느 군사 기지의 검문소 앞에는 완전무장한 병사들이 이열종대로 정렬해 있었고, 그들의 인솔 장교도 매우 비장한 표정이었다.
+NPC-Yegor(3)<Speaker>장교</Speaker>||:......
+()<Speaker></Speaker>||:장교로부터 약 5m가량 떨어진 거리에 지프차가 멈춰 섰다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Car_Open</SE1>:철컥.+차의 문이 열리자, 검은 장화가 안에서 뻗어 나와 얇게 쌓인 눈을 밟았다.
+NPC-Yegor(3)<Speaker>장교</Speaker>||:전원, 경례!
+()<Speaker></Speaker>||:장교의 구령에 맞춰, 정렬한 병사들이 차에서 내린 이에게 일제히 경례했다.
+NPC-Carter(1)<Speaker>카터</Speaker>||:이럴 필요 없네, 동지.+직위 해제되어 위대한 조국의 일개 국민이 된 놈에게 뭐하는 건가.
+NPC-Yegor(3)<Speaker>장교</Speaker>||:농담 마십시오!+저희는 인정할 수 없습니다!
+()<Speaker></Speaker>||:카터는 한동안 아무 말 없이, 그저 제자리에 우두커니 서 있었다.
+NPC-Carter(1)<Speaker>카터</Speaker>||:......그럼, 내가 어떻게 하길 바라나?
+NPC-Yegor(3)<Speaker>장교</Speaker>||:저희는 배신을 택한 정부를 더는 믿을 수 없습니다.+이대로 참기만 하다간, 언제 저 위를 꿰찬 매국노들이 숙청의 칼날을 휘둘러 저희의 목을 앗아갈지 모릅니다.+저희는 진정한 지도자, 조국의 영광을 되찾고 저희를 승리로 이끌어 줄 지도자가 필요합니다.
+()<Speaker></Speaker>||:장교는 카터를 향해 고개를 푹 숙였다.
+NPC-Yegor(3)<Speaker>장교</Speaker>||:장교는 카터를 향해 고개를 푹 숙였다.
+NPC-Carter(1)<Speaker>카터</Speaker>||:......
+NPC-Yegor(3)<Speaker>장교</Speaker>||:이것은 국경 1718 특구의 동지 전원의 뜻입니다!
+()<Speaker></Speaker>||:눈앞의 병사들을 살펴보며, 카터는 등뒤의 깍지 낀 손을 풀었다.+그의 부하 수행원도 차에서 내려, 그 합의서를 그에게 건넸다.
+NPC-Carter(1)<Speaker>카터</Speaker>||:...조국을 위해.
+NPC-Yegor(3)<Speaker>장교</Speaker>||:조국을 위해!
+()<Speaker>병사</Speaker>||<震屏3>:<size=52>조국을 위해!</size>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:병사들의 격앙된 함성을 받으며, 카터는 서류봉투의 매듭을 풀었다.+"두고보아라."+"불씨는, 결코 쉽게 꺼지지 않는다."
+()<Speaker></Speaker>||<common_effect>%%code=DoomsdayClock04%%wait=1%%</common_effect>:
+()||<黑屏1>:

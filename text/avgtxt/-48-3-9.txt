@@ -1,0 +1,118 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>388</BIN>:베를린 공항.+직원 전용 휴게실.
+()<Speaker>공항 직원</Speaker>||:이만 퇴근할게요, 수고하셨습니다.
+()<Speaker>보안팀장</Speaker>||:그래, 고생했다.
+()<Speaker></Speaker>||:보안팀장은 부하에게 가볍게 고개를 끄덕이며 인사하고 탈의실의 문을 열었다.
+()<Speaker></Speaker>||<BGM>GF_EV9_Story</BGM><SE1>Select</SE1>:척.+그런데 갑자기, 차가운 총구가 옷 한 겹뿐인 그의 등에 닿았다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:입 다물고 꼼짝 마.
+()<Speaker>보안팀장</Speaker>||:무, 무슨...?!
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:그가 반사적으로 소리를 낸 순간, 오금에서 격통이 전해져왔다.+그 무자비한 타격으로 인한 고통에 그는 바닥에 무릎을 꿇었고, 총구는 이제 그의 머리를 향했다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:베를린 공항 T2 구역 보안팀장, 안도라 페인?
+()<Speaker>보안팀장</Speaker>||:...맞다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:금일 오후 3시 55분, 네 감독하에 한 화물이 공항에 반입되었다.
+()<Speaker>보안팀장</Speaker>||:......!
+AR15Mod(0)<Speaker>AR15</Speaker>||:그 화물, 어느 창고로 보냈지?
+()<Speaker>보안팀장</Speaker>||:무... 무슨 말인지 모르겠――
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker><Shake>0.1</Shake>||:<size=50>어흥!!</size>
+()<Speaker></Speaker>||:옆에서 난데없이 나타난 또 한 명의 인형의 포효와 동시에, 무언가가 콰직! 하는 끔찍한 소리와 함께 부러졌다.
+()<Speaker>보안팀장</Speaker>||:끄아아악!!
+()<Speaker></Speaker>||:그의 손목에서 감각이 사라졌다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:급하니까 인내심 테스트하지 마.+다시 묻겠다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:또 엉뚱한 소리 하면 다음엔 목 꺾어버릴 거야!
+AR15Mod(5)<Speaker>AR15</Speaker>||:그 무기 지금 어딨지?
+()<Speaker>보안팀장</Speaker>||:무, 무기라니...?
+AR15Mod(0)<Speaker>AR15</Speaker>||:네 공항에 들인 화물은 핵폭탄보다 더 끔찍한 생화학 무기야.+그걸 이 베를린에서 가장 큰 공항에 옮겨 놓곤, 그게 뭔지 모른다고?
+()<Speaker>보안팀장</Speaker>||:말도 안 돼! 동지들 말론...!
+AR15Mod(0)<Speaker>AR15</Speaker>||:잔말 말고 어느 창고인지나 말해.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:크르릉... 빨리 말해!
+()<Speaker>보안팀장</Speaker>||:......+그건――
+()<Speaker></Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>85</BIN>:공항의 중앙 관제 센터.
+AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>화물의 위치를 알아냈습니다. 다만 창고의 문을 열려면 담당자의 권한이 필요하다고 해요.</color>
+AR15Mod(0)<Speaker>지휘관</Speaker><通讯框>||:알았다, 거기서 기다려.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신을 끊고, 지휘관은 뒤의 관리자에게 고개를 돌렸다.
+()<Speaker>지휘관</Speaker>||:들으셨죠? 당신이 나설 차례입니다.
+()<Speaker>관리자</Speaker>||:물류 기록을 제공한 것만으로도 이미 파격적인 행위입니다, 게다가 거긴 사유 창고라고요...
+KH2002(0)<Speaker>카이바르</Speaker>||:미안하지만 우린 협상하러 온 게 아니라서요.
+KH2002(0)<Speaker>카이바르</Speaker>||<SE1>AVG_20Winter_Book</SE1>:행정부가 발급한 영장입니다. 현재 이곳의 최고 권한은 우리 지휘관한테 있으니까, 판단 잘 하세요.
+()<Speaker>관리자</Speaker>||:으... 아, 알겠습니다. 그 구역의 담당자에게 통지하죠.+연락받는대로 알려드릴 테니 그때 따라오십시오. 반드시 당신이 직접 확인해야 합니다, 절차상 인형한테는 못 맡겨요.
+()<Speaker>지휘관</Speaker>||:알겠습니다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:관리자는 표정을 잔뜩 구긴 채 나갔다.
+()<Speaker>지휘관</Speaker>||:후우... 훈작사의 명함은 정말 요긴하게 쓰이네.
+KH2002(0)<Speaker>카이바르</Speaker>||:그만큼 양날의 검이니까 지휘관도 움직일 때 조심하라구.
+()<Speaker>지휘관</Speaker>||:그럼 너는...
+()<Speaker></Speaker>||:지휘관은 여태까지 의자에 앉아 침묵을 지키던 몰리도에게 시선을 돌렸다.
+()<Speaker>지휘관</Speaker>||:여기에 남도록.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:얌전히 있을게요.
+()<Speaker>지휘관</Speaker>||:......+이 관제 센터에서 대기하면서 유사시 지원할 사람이 필요한데, 역시 M4밖에 맡길 사람이 없겠지.+미안하지만 몰리도의 감시도 계속 부탁한다, M4.
+()<Speaker></Speaker>||:M4A1은 뭔가 할 말이 있는 것 같았지만, 결국 그냥 고개만 끄덕였다.
+RO635Mod(0)<Speaker>RO635</Speaker>||<SE1>ClothingUp</SE1>:그럼 이번엔 저도 남겠습니다.
+()<Speaker></Speaker>||:예상 밖으로 RO635가 손을 들었다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:여기서 M4 씨를 지키겠어요.
+RO635Mod(0)<Speaker>지휘관</Speaker>||:그것도 좋지.+RO도 비상시 즉시 연락하도록.
+RO635Mod(0)<Speaker>RO635</Speaker>||:네.
+()<Speaker>지휘관</Speaker>||:나머지는 나와 함께 AR-15와 합류하러 간다.
+()<Speaker>일동</Speaker>||:네!
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:관리자가 돌아와 문을 두드렸다.
+()<Speaker>관리자</Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:연락 받았습니다, 따라오십시오.
+()<Speaker></Speaker>||:지휘관은 인형들과 함께 방을 나섰다.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:......
+RO635Mod(0)<Speaker>RO635</Speaker>||:......
+()<Speaker></Speaker>||:잠깐 동안, 상황실 안은 묘한 침묵이 흘렀다.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:...당신에게 할 말이 있어요, 몰리도.
+RO635Mod(0)<Speaker>RO635</Speaker>||:M4 씨, 이년이랑 필요 이상의 말은 하지 마세요.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:어머, 신용 엄청 낮나 봐?
+RO635Mod(4)<Speaker>RO635</Speaker>||:낮은 정도가 아니라 아예 없지.
+()<Speaker></Speaker>||:화물이 이송됐다는 구역의 감시 화면을 띄우고, RO635는 등을 돌렸다. 왠지 모르게 의기양양한 몰리도를 보니 영 불쾌했다.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:나 말고 너 말이야, 인형.+내가 니모겐이랑 단둘이 있는 게 걱정되나 본데, 네가 네 대장을 못 믿는단 소리나 마찬가지잖아?
+RO635Mod(0)<Speaker>RO635</Speaker>||:무슨 소릴 하나 했더니... 내가 그딴 시답잖은 도발에 넘어갈 거 같아?
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:몰리도, 우리의 관계가 질투나나요?+모두 저를 무척이나 신뢰해요. 당신들과는 다르게.
+()<Speaker></Speaker>||:몰리도는 M4A1의 시선에, 눈을 가늘게 뜨고 음흉하게 웃었다.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:알았어 알았어, 무슨 말이 하고 싶은데?
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:......+RO?
+()<Speaker></Speaker>||:M4가 RO635에게 고개를 돌렸다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:네, M4 씨.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:조금 어려운 부탁이지만...+...그녀와 단둘이서 얘기를 하고 싶어요.
+RO635Mod(3)<Speaker>RO635</Speaker>||:알았――뭐라고요?!
+()<Speaker></Speaker>||:RO635는 반사적으로 대답하다 말고 기겁했다.
+RO635Mod(3)<Speaker>RO635</Speaker>||:왜요!? 안 돼요, 단둘이서만 둘 수 없어요!
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:진정하세요 RO. 정말 이 상태의 그녀가 절 어떻게 할 수 있다고 생각하세요?
+RO635Mod(3)<Speaker>RO635</Speaker>||:그, 그래도 반드시 지금 해야 할 말도 아닐 텐데요... 그리고 M4 씨는 지금...
+()<Speaker></Speaker>||:RO635는 M4A1을 보며 걱정하는 마음을 감추지 못했다.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:괜찮아요, 아무 일 없을 거예요.
+()<Speaker></Speaker>||:M4A1은 온화하게 미소를 지어 보였다. 무척 허약해 보였지만, 그 굳센 오라는 여전했다.
+NytoIsomer(11)<Speaker>M4A1</Speaker>||:...부탁해요.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:저기, 내 의견은 안 물어봐?+난 지금 얘랑 단둘이 있기 싫은데!?
+RO635Mod(4)<Speaker>RO635</Speaker>||:시끄러! 넌 발언권 없어.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:몰리도, 제가 저번에 적당한 때를 고르겠다고 했죠?+지금이 그 때이니 잘 얘기해보고 싶어요.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:진심으로 하는 말이야...?+그럼 어디... 네가 어디까지 할 수 있나 보여 주는 건 어때?
+()<Speaker></Speaker>||:M4A1는 잠시 뜸을 들이다 고개를 들어, 다시 RO635에게 고개를 돌렸다.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:이따가 잘 설명해 줄게요, RO.+지금은 몰리도와 단둘이서 이야기하고 싶어요.
+RO635Mod(2)<Speaker>RO635</Speaker>||:으......
+RO635Mod(0)<Speaker>RO635</Speaker>||:...문 바로 앞에서 기다릴 거에요. 이상한 소리 들리면 바로 들어올 거예요, 알았죠?
+NytoIsomer(13)<Speaker>M4A1</Speaker>||:네, 약속해요.
+()<Speaker></Speaker>||:RO635가 상황실 밖으로 나왔다. 그리고 문이 닫히기 전, 그녀가 마지막으로 들은 말은...
+()<Speaker>M4A1</Speaker>||:...그게 당신의 소망이라면, 이뤄드리죠.
+RO635Mod(0)<Speaker>RO635</Speaker>||:......
+()<Speaker></Speaker>||:이뤄 주겠다니, 무엇을?+RO635는 잠깐 망설이다 결국 귀를 문에 바짝 댔지만, 아무 소리도 들리지 않았다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:M4 씨...
+()<Speaker></Speaker>||:총을 단단히 고쳐 쥐는 RO635의 머릿속에는 오만가지 생각이 스쳐지나갔다.+그녀는 M4A1을 믿는다. 그것이 그녀의 존재의의였다.+하지만, 만약 그녀마저도 M4A1의 생각을 이해할 수 없다면...+그렇다면, 과연 누가 그녀를 이해할 수 있을까?
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:G&K 안전계약사 기지.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>119</BIN>:인원 명단을 확인하는 크루거는 고민하며 커피를 들었다.
+()<Speaker>헬리안</Speaker>||:지휘관의 지원 요청은 어떡할까요?
+()<Speaker>크루거</Speaker>||:훈작사가 하벨을 시켜 이동 기지 차량을 보냈다는군. 지금 오는 중이라는데... 참 통이 커.
+()<Speaker>헬리안</Speaker>||:이 정도로 물심양면이라니...+지휘관에게 정말 지원이 시급한가 보군요.
+()<Speaker>크루거</Speaker>||:전술인형 부대의 완전 복구까지 얼마나 더 걸리나?
+()<Speaker>헬리안</Speaker>||<SE1>AVG_20Winter_Book</SE1>:아직 구체적인 예상 소요 기간은 없습니다.+피해가 상당했기에, 결코 단기간에 완료할 순 없겠죠...+때문에, 현재 복구한 전력으로는 충분한 화력 지원 제공이 불가능할 것으로 사료됩니다.
+()<Speaker>크루거</Speaker>||:......+그렇다면, "그들"을 보낼 수밖에 없겠군.
+()<Speaker>헬리안</Speaker>||:하지만 그들을 파견한다면 기지의 방위 수준이 크게 하락합니다.
+()<Speaker>크루거</Speaker>||:지금은 우리보단 지휘관에게 힘이 필요해.+훈작사가 무슨 일을 꾸미고 있는진 몰라도, 우리의 최우선 사항도 지휘관을 돕는 것이지. 안 그런가?
+()<Speaker>헬리안</Speaker>||:...맞습니다.
+()<Speaker>크루거</Speaker>||:실컷 날뛰고 오라 전하게.
+()<Speaker>헬리안</Speaker>||:알겠습니다.
+()||<黑屏1>:

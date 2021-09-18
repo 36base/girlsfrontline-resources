@@ -1,0 +1,118 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:부스럭부스럭... 끼이이...
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:큰 소리라도 날까 문을 아주 살살 열면서, 두 사람이 살금살금 방 안으로 들어왔다.
+()<Speaker>넬레</Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:안에 아무도 없지...?
+()<Speaker>미아</Speaker>||:안심해, 벌써 다 확인했어. 그 사람들도 다 해산했잖아.+뉴스 때문에 활활 타는 것도 대충 이틀사흘 정도 지나면 다 식지. 하여간 시간이 다 해결해 준다니까.
+()<Speaker></Speaker>||<BIN>129</BIN><SE1>AVG_tele_disconnect</SE1>:전등의 스위치를 켜자, 넬레의 집이 다시 밝아졌다.
+NPC-Nele(0)<Speaker>넬레</Speaker>||:후우~ 역시 집이 최고야!
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:그런데 넬레, 정말 내일 연구소에 갈 거야?
+NPC-Nele(1)<Speaker>넬레</Speaker>||:당연하지! 드디어 출입 허가 났잖아. 뭐어... 일 그만둔다고 말하러 가는 거지만.
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:...알았어. 그럼 난 방 청소할 테니까, 그 J인가 하는 사람한테 연락할 거면 미리미리 해. 가려면 내일 일찍 일어나야지.
+NPC-Nele(0)<Speaker>넬레</Speaker>||:응.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>129</BIN><黑屏2><BGM>BGM_Room</BGM><SE1>AVG_tele_connect</SE1>:통화음이 몇 번 울리고 나자, 그 나른한 목소리가 들려왔다.
+NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>뭐 좋은 소식 있습니까?</color>
+NPC-Keven(0);NPC-Nele(0)<Speaker>넬레</Speaker>||:있긴 한데 좋은지 나쁜지는 그쪽이 판단할 일이죠.+일단 그 트럭 말인데요, 확실히 갈라테아 소유의 회사 물건만 나르는 화물 차량이에요.+하지만 그런 차가 한두 대도 아닌데다, 하나같이 자주 이동해서 이번 달 배차 기록만 봐도 몇백 페이지는 나와요.
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(0)||:<color=#00CCFF>그 배차 기록으로 뭘 볼 수 있는데요?</color>
+NPC-Keven(0);NPC-Nele(0)<Speaker>넬레</Speaker>||:제 권한으로는 운전수랑 수령인 이름, 출발지와 목적지, 소요 시간 같은 일반적인 것들밖에 못 봐요.+그리고 제 권한으론 검색 기능도 못 쓰고요.
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(0)||:<color=#00CCFF>이름이라... 마침 잘됐군요.</color>+<color=#00CCFF>그 화물을 수령한 사람의 이름이 "움루스"라 합니다.</color>
+NPC-Keven(0);NPC-Nele(2)<Speaker>넬레</Speaker>||:......+그쪽에 기술팀 있지 않아요?+해킹이든 뭐든 해서 제 회사 계정 권한 높일 순 없어요?
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(2)||:<color=#00CCFF>그게 되면 그냥 당신네 회사 인트라넷을 해킹했죠.</color>+<color=#00CCFF>그리고 그러면 흔적이 남기 마련입니다, 내부고발자 아가씨.</color>
+NPC-Keven(0);NPC-Nele(1)<Speaker>넬레</Speaker>||:알았어요, 알아서 해볼게요.
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(1)||:<color=#00CCFF>그레이 선생님은 수업에 초등학교 1학년생만 받덥니까?</color>+<color=#00CCFF>어려울 땐 선배를 좀 찾고 그러세요.</color>
+NPC-Keven(0);NPC-Nele(2)<Speaker>넬레</Speaker>||:그게 무슨... 설마――
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(2)||:<color=#00CCFF>뭐가요~?</color>
+NPC-Keven(0);NPC-Nele(3)<Speaker>넬레</Speaker>||:......아뇨, 아무것도 아니에요.
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(3)||:<color=#00CCFF>양옥 쪽은 어땠죠?</color>
+NPC-Keven(0);NPC-Nele(1)<Speaker>넬레</Speaker>||:그런 권한 없다니까요? 마찬가지였어요.
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(1)||:<color=#00CCFF>흠... 역시 당신에게 기대기만 할 순 없겠군요.</color>
+NPC-Keven(0);NPC-Nele(1)<Speaker>넬레</Speaker>||:...잘 해볼게요.
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(1)||:<color=#00CCFF>말로야 누구든 잘 할 수 있죠.</color>+<color=#00CCFF>됐습니다. 전 아직 볼일이 있으니, 다음에 또 연락해요.</color>
+NPC-Nele(1)<Speaker>넬레</Speaker>||<SE1>AVG_tele_disconnect</SE1>:......
+()<Speaker></Speaker>||:통화를 끊은 넬레가 한숨을 푹 쉬었다.
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레, 넌 연구원이지 스파이가 아니야.
+NPC-Nele(0)<Speaker>넬레</Speaker>||:그치만 내가 하겠다고 나선 일인걸...+후우... 에라 모르겠다, 내일 가서 봐야지.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+APC556(5)<Speaker>미아</Speaker><通讯框>||<BGM>BGM_Empty</BGM><黑屏2><BIN>325</BIN><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>그렇다고 무리하지는 마. 누가 뭐래도 넌 평범한 여자애야.</color>
+NPC-Nele(0)<Speaker>넬레</Speaker>||:나도 알아 미아, 나도 이젠 분수도 모르는 어린애가 아니라고.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:미아의 근심과 걱정 어린 눈빛을 받으며, 넬레는 핸드폰을 주머니에 넣고 코트를 입었다.
+()<Speaker></Speaker>||<BGM>BGM_Brain</BGM>:......
+NPC-Nele(4)<Speaker>넬레</Speaker>||:아, 에케지에 선배~
+()<Speaker>에케지에</Speaker>||:어, 넬레?
+()<Speaker></Speaker>||:마침 나가려던 연구원이, 넬레를 보자 정말 의외인 듯 놀라며 물었다.
+()<Speaker>에케지에</Speaker>||:너 진작에 잘린 줄...
+NPC-Nele(4)<Speaker>넬레</Speaker>||:그게 자리 정리할 겸 두고 간 개인물품 가지러 온 거예요.
+()<Speaker>에케지에</Speaker>||:그렇구나...+아이버슨 교수님이 작업 인수인계 끝났다고 한턱 쏘신댔는데, 너도 올래? 차라랑 멜라니도 온댔어.
+NPC-Nele(4)<Speaker>넬레</Speaker>||:아~ 당연히 좋죠.
+()<Speaker>에케지에</Speaker>||:그럼 불 켜 놓고 갈 테니까 나올 때 꺼 줄래?+이따가 탕비실에서 보자.
+NPC-Nele(4)<Speaker>넬레</Speaker>||:네~
+()<Speaker></Speaker>||:에케지에에게 손을 흔들며 인사하고, 넬레는 자기 자리의 컴퓨터 앞에 앉았다.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Click_Keyboard</SE1>:그레이 생물과학 연구 센터 데이터베이스, 로그인...+검색어... "움루스."
+NPC-Nele(6)<Speaker>넬레</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:어, 검색 결과가 단 하나...?
+()<Speaker></Speaker>||:이름에 그어진 빨간 밑줄이, 이 내용의 기밀 등급이 상당히 높음을 나타냈다.
+NPC-Nele(4)<Speaker>넬레</Speaker>||<SE1>ClothingUp</SE1>:아이버슨 교수님의 카드를 슬쩍하길 잘했네...+자아, 그 다음엔...
+()<Speaker></Speaker>||:넬레에게, 그레이는 인생의 등대와 같은 존재였다.
+NPC-Nele(7)<Speaker>넬레</Speaker>||:선생님... 선생님은 반딧불이처럼 이리저리 방황하던 제게 길을 보여 주셨어요.+선생님이 결백하시단 게 입증되면, 아무도 선생님에게 뭐라 못할 거예요...!
+NPC-Nele(6)<Speaker>넬레</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:13... 14... 15...+...찾았다!
+()<Speaker></Speaker>||:인사 조정, 회의 기록, 일정 계획 일지...
+()<Speaker></Speaker>||<SE1>Heartbeat</SE1>:심장이 콩닥콩닥 뛰었다.
+NPC-Nele(6)<Speaker>넬레</Speaker>||:프로젝트 정리 개선 회의... 5월 22일?+내가 입사하기 전이네...
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1><BGM>BGM_Empty</BGM>:쿵쿵쿵.
+NPC-Nele(7)<Speaker>넬레</Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:......!!
+()<Speaker>에케지에</Speaker>||:내 정신 좀 봐, 스카프를 두고 나왔네.+넬레, 둘 다 왔으니까 빨리 와.
+NPC-Nele(4)<Speaker>넬레</Speaker>||:네! 5분만 더요!
+()<Speaker></Speaker>||:넬레는 깜짝 놀랐지만 표정 하나 바꾸지 않고, 황급히 데이터베이스 창을 최소화하고 일어나 대답했다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:에케지에는 깜빡한 스카프를 챙기고 곧바로 다시 나갔다.
+NPC-Nele(5)<Speaker>넬레</Speaker>||:휴우... 간 떨어지는 줄 알았네...
+()<Speaker></Speaker>||:다시 창을 열고 읽던 넬레의 눈에, 개인 자료에 첨부된 그레이의 당당함 넘치는 얼굴이 들어왔다.+그 때문일까, 넬레의 손이 점점 떨리기 시작했다.
+NPC-Nele(6)<Speaker>넬레</Speaker>||:앗... 선생님은 그날 실험실에 안 계셨네?+차량 이용 기록은... 외출 장소, 장소가... 노이템펠호프구?
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:쿵쿵쿵.+또 노크 소리가 울렸다.
+()<Speaker>에케지에</Speaker>||:넬레―― 다 모였어―― 아직이야――?
+NPC-Nele(6)<Speaker>넬레</Speaker>||:아, 아아... 다 됐어요! 지금 나갈게요!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:컴퓨터를 끄고, 마음을 다잡으며 얼굴에 다시 미소를 띄운 넬레는 탕비실로 향하면서 "빌린" 카드를 슬쩍 제자리에 돌려놨다.
+NPC-Nele(4)<Speaker>넬레</Speaker>||:와~ 밥이다~!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>80</BIN><BGM>GF_21winter_avg_nightbar</BGM>:......
+()<Speaker></Speaker>||:웨이터가 구운 소시지와 맥주를 서빙했다.
+()<Speaker>에케지에</Speaker>||:그럼 아이버슨 교수님은 브레멘의 연구 센터로 가시는 거예요?
+()<Speaker>아이버슨</Speaker>||:그렇지, 그쪽의 연구 프로젝트도 면역 체계 관련이니까.+같이 하던 사람 더 데려올 생각 없냐던데, 너흰 어때?
+()<Speaker>멜라니</Speaker>||:전 가족이 모두 여기 있어서 이사하기가 영 어렵단 말이죠...+게다가, 여기서 일한 지 아직 1년도 채 안 됐는걸요? 이력서에 나쁘게 보일 거라고요.
+()<Speaker>에케지에</Speaker>||:다들 그런데 뭘. 어차피 요즘 기업은 인적 조사로 정말인지 허위인지 다 알아보니까 별로 의미도 없어.+그리고 갈라테아에서 정리해고 수당 왕창 줬으니까 적어도 반년은 걱정 없이 일자리 알아봐도 될 거야.+그런데... 브레멘이라니 진짜 솔깃한데요? 거기 베를린보다 잘 살잖아요. 연구 기관도 지원금 많이 받는다던데.
+()<Speaker>아이버슨</Speaker>||:나도 이렇게 통 크게 주는 건 또 처음 봤다.
+()<Speaker>차라</Speaker>||:킥킥, 교수님 몸값이야 부르는 게 값 아니에요?+갈라테아에서 "그거" 관련 지식이며 자료 가진 사람은 그레이 선생님 빼면 우리뿐이잖아요.
+()<Speaker>아이버슨</Speaker>||:아서라, 동물 실험이랑 인체 실험은 차원이 다른 문제야.
+()<Speaker>에케지에</Speaker>||:하긴... 세기의 과학자는 다들 어딘가 나사가 빠졌다는 말도 있잖아요.
+NPC-Nele(0)<Speaker>넬레</Speaker>||:"그거"라니, 이둔 말이에요?+전에 봤는데, 다른 동종업계 회사들도 어지간해선 다 ELID 특별 부서가 있던데요.
+()<Speaker>아이버슨</Speaker>||:황금알을 낳는 거위니까. 뭐, 그래도 이 분야의 으뜸은 역시 그레이 씨지.+ELID 치료 기술에 손대고 싶어하는 회사는 넘쳐나고, 실제로 직접 연구소까지 굴리는 회사도 여러 곳이지만...+오직 그레이 씨만이 프로젝트를 이 정도로 추진해냈어.+적어도, 우리 건 방향성만 따지면 90%는 완료했지.
+NPC-Nele(1)<Speaker>넬레</Speaker>||:그러게 말이에요... 이제 3차 임상 시험만 통과하면 되는데 대체 뭐가 뇌사를 일으키는 건지 아무도 밝혀내질 못하다니, 이게 말이나 돼요? 성분 검사 결과에는 아무 문제 없어서 망정이지...
+()<Speaker>아이버슨</Speaker>||<BGM>BGM_Empty</BGM>:......
+()<Speaker>에케지에</Speaker>||:......
+()<Speaker>멜라니</Speaker>||:......
+()<Speaker>차라</Speaker>||:......
+NPC-Nele(2)<Speaker>넬레</Speaker>||<BGM>BGM_Truth</BGM>:엣? 왜... 왜 그래요?
+()<Speaker>에케지에</Speaker>||:쉬잇!! 잠깐, 너 몰랐어?+뉴스로 소식 듣고 네가 샘플을 강도한테 뺏긴 건 줄 알았는데, 정말 몰라? 정말 네가 쓴 거야?
+NPC-Nele(2)<Speaker>넬레</Speaker>||:...제가 뭘 모른다는 건데요?
+()<Speaker>에케지에</Speaker>||:그 약은... 밖에서는 쓰면 안 돼.
+()<Speaker></Speaker>||:넬레가 긴장하며 맥주잔을 내려놨다.
+NPC-Nele(0)<Speaker>넬레</Speaker>||:왜요...?
+()<Speaker>차라</Speaker>||:너 진짜 몰랐구나... 어... 근데 이거 말해야 되나?
+()<Speaker>멜라니</Speaker>||:채용할 때 이 프로젝트의 방향성에 대해서 설명받지 않았어? 정말 모르고 들어온 거야?
+NPC-Nele(1)<Speaker>넬레</Speaker>||:......
+NPC-Nele(3)<Speaker>넬레</Speaker>||:(확실하게 알아내야 해...)
+NPC-Nele(0)<Speaker>넬레</Speaker>||:...아, 그러고 보니 계약서에 무슨 기밀 유지 약관 같은 게 있었던 거 같은데, 자세히 읽어볼 여유가 없었어요.
+()<Speaker></Speaker>||:점점 심장이 빠르게 뛰었다. 안개 속에 가려졌던 무시무시한 진실이 드디어 드러나려 했다.
+()<Speaker>멜라니</Speaker>||:으이구 어쩐지...+다음에 어디 취직하게 되면 계약서 꼼꼼하게 다 읽고 사인해!
+NPC-Nele(0)<Speaker>넬레</Speaker>||:아, 네...+그래서, 대체 뭐예요?
+()<Speaker>아이버슨</Speaker>||:이 연구 프로젝트의 목적은... 치료가 아니라 "선별"이야.+인체의 면역 세포를 이용해서, 가장 적합한 항체를 찾아내는 거지.
+NPC-Nele(3)<Speaker>넬레</Speaker>||:말도 안 돼... 사람을 죽이는 거잖아요!
+()<Speaker></Speaker>||:넬레의 언성이 저절로 높아졌다.
+()<Speaker>차라</Speaker>||:구하는 거야.+넬레, 우린 사람을 구하는 거야.
+()<Speaker>멜라니</Speaker>||:ELID에 완벽한 치료법은 없어. 너도 그 정도 상식은 알 거 아니야.
+NPC-Nele(3)<Speaker>넬레</Speaker>||:그래서 모두가 "이둔"이 희망이라고 기대했잖아요!
+()<Speaker>아이버슨</Speaker>||:넬레는 아직 순수하구나. 세상이 다 뜻대로 되면 얼마나 좋겠니.+인류가 복사감염증을 극복하려면, 면역... 아니면 그에 한없이 가까운 항체를 지닌 사람을 찾아내 혈청을 채취해서 그걸 양산하는 게 유일한 방법이야.
+NPC-Nele(1)<Speaker>넬레</Speaker>||:......+그래서 계속 허가가 안 났군요. 정부도 알아요?
+()<Speaker>아이버슨</Speaker>||:당연하지. 이둔의 대외적 목표는 애초부터 바벨탑처럼 영원히 달성될 수 없는 것이었어.+그저, 정치적 수단으로 제격이니까 이렇게나 많은 지원금을 받을 수 있었던 거지.+나도 그레이 씨가 너한테 다 설명한 줄 알았다.+그걸 못 받아들이면서 대체 어떻게 채용된 거니?
+NPC-Nele(3)<Speaker>넬레</Speaker>||:......+저도 제가 왜 들어왔나 궁금하네요!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:넬레는 벌떡 일어나 의자 등받이에 걸었던 가방을 낚아채고, 놀라 눈만 끔벅거리는 동료들을 두고 성큼성큼 레스토랑 바깥으로 나섰다.
+()||<黑屏1>:

@@ -1,0 +1,157 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>9</BIN><黑屏2><黑屏1><narrator>:밤 11시, 초연으로 자욱한 신소련의 국경지대.
+()||<BIN>197</BIN><Night><黑屏2><Night><BGM>BGM_NightOPS</BGM>:
+NPC-Soldier(0)<Speaker>특전사 연락담당자</Speaker>||:장군님, 지정하신 번호로부터 새 메시지를 전달받았습니다.+"불꽃을 쏘아올렸다"는 내용입니다.
+NPC-Carter(1)<Speaker>카터</Speaker>||:알았다.
+NPC-Soldier(0)<Speaker>특전사 지휘부장</Speaker>||:장군님, 이게 무슨 뜻입니까?
+NPC-Carter(1)<Speaker>카터</Speaker>||:우리의 거래가, 다음 단계에 들어섰단 뜻이지.
+()||<SE1>AVG_20Winter_Door_Car_Open</SE1>:카터는 차에 올라타, 운전수에게 다음 목적지, 그리폰 S09 기지로 향할 것을 지시했다.+특전사 지휘부장은 공손히 차문을 닫았다.
+NPC-Carter(1)<Speaker>카터</Speaker>||:대 그리폰 배치는 완료했나?
+NPC-Soldier(0)<Speaker>특전사 지휘부장</Speaker>||:네, 전부 준비됐습니다.
+NPC-Carter(1)<Speaker>카터</Speaker>||:너무 수고 들일 필요는 없다. 동지들이 충분히 시간을 벌어 줬으니, 놈들은 이제 그물 안의 토끼나 다름없다.
+NPC-Soldier(0)<Speaker>특전사 지휘부장</Speaker>||:예!
+NPC-Carter(1)<Speaker>카터</Speaker>||:하지만 절대 방심하지 말고 경계하도록. 그 그리폰이다. 토끼도 궁지에 몰리면 물어서 반격하는 법이니.
+NPC-Soldier(0)<Speaker>특전사 지휘부장</Speaker>||<SE1>AVG_20Winter_Door_Car_Close</SE1>:절대 실망시키지 않겠습니다.
+()||<黑屏1>:카터가 차창을 닫았고, 곧이어 차도 시동이 걸려 떠났다.+그 와중, 카터는 어두운 밤하늘 저편으로 수송기가 날아간 방향을 바라봤다.
+()||<黑屏2><BIN>412</BIN><BGM>BGM_Empty</BGM><Night>:심야, 루뱐카 광장의 신소련 국가안전국 사무실.
+()||<SE1>AVG_Door_Hit</SE1>:덜컥.+젤린스키가 문을 열고 들어왔다.
+()<Speaker>비서</Speaker>||<BGM>GF_21summer_battle_4</BGM>:국장님!
+NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:동지, 침착해라.+국방부의 전황 보고는?
+NPC-Zielinski(0)<Speaker>비서</Speaker><同时置暗>||:전부 여기 기록했습니다!
+()||<SE1>AVG_20Winter_Book</SE1>:젤린스키는 관자놀이를 문지르며 군사 상황 통보 시스템의 기록을 집어 들었다.+서부 군사 지역 거의 대부분이, 온통 붉은 대공 경보로 뒤덮여 있었다.
+NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:상황 브리핑.
+NPC-Zielinski(0)<Speaker>비서</Speaker><同时置暗>||:금일 오후 2시 15분을 전후로 최초 상황 발생, 국경 경비대 초소에서 소속 불명의 무장인원들에게 습격받았다는 보고가 들어왔습니다. 직후 "쿠빙카-2" 국경 군사기지와의 연락이 두절됐고, 출동한 무인 정찰기가 교전 상황을 관측했습니다.+정찰 결과 다수 군사적 요충지가 중화기 폭격을 받았으며, 일대가 전자 봉쇄로 인해 사상자 수는 여전히 파악되지 않습니다.+해당 습격 사건 발생 후 각 지점 인근의 군사기지들도 연락이 두절되었으며, 일부 구역은 현재까지도 통신 장애가 발생하는 상태입니다.+더불어, 통신 두절 후 서부 군사 지역의 대공 경보 시스템이 다수의 전투기를 탐지했습니다.
+NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:전투기? 언제, 그리고 비행 방향과 기종은?
+NPC-Zielinski(0)<Speaker>비서</Speaker><同时置暗>||:약 14분 전입니다.+크라쿠프 상공에 미그 전투기 2대가 출현했습니다.+동일 시각, 수호이로 추정되는 비행체 1기가 프라하 상공에 출현하여 현재 북상 중입니다.+그외에도 일류신 2대가 리비우 방향으로 비행 중이며, 약 30분 후 도달할 것으로 예상됩니다.+하지만 이상의 전투기 전부 파일럿과 통신을 시도해도 응답이 없습니다.
+NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:제1방공사령부엔 연락했나?
+NPC-Zielinski(0)<Speaker>비서</Speaker><同时置暗>||:그게... 마침 저희 인원 일부가 있던 보르네슈의 방공사령부에를 제외하면, 각지의 항공 관제 센터와 항공대 모두 연락이 닿질 않습니다.+보르네슈 기지는 현재 공역 차단을 위해 전투기 출격 준비 중입니다.+그리고 공군 기지만이 아닙니다, 상당수 육군 기지와도 연락이 되질 않습니다.+국장님, 설마 그들 모두...?
+NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:진정하고, 대공 경보를 가장 먼저 발령한 곳은 어딘지 확인해라. 레이더 기지 표시가 아니라 시간 순서대로.
+NPC-Zielinski(0)<Speaker>비서</Speaker><同时置暗>||:네, 확인하겠습니다... 서부 군사지대 공중 상황 통제 센터...? 어째서...?!
+NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:그럼 그렇지. 당장 보르네슈 기지에 통지해라.+전투기 출격 시퀀스 즉시 중지하고, 원위치에서 지시를 대기하라고.
+NPC-Zielinski(0)<Speaker>비서</Speaker><同时置暗>||:네, 국장님... 통지 확인. 하지만 일류신의 비행 방향에...
+NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:나도 안다. 지금까지 대공 부대의 발포 보고는 있었나?
+NPC-Zielinski(0)<Speaker>비서</Speaker><同时置暗>||:불명입니다, 서부 국경에 배치된 대공 부대는 현재 전자 봉쇄로 인해 통신이 불가능합니다. 서부 군사사령부에서 헬기를 파견해 직접 연락을 시도하려는 중이라고 합니다.
+NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:레이더상으론?
+NPC-Zielinski(0)<Speaker>비서</Speaker><同时置暗>||:아직까지는 대공 미사일 발사 보고는 없습니다.
+NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:다행이군, 모두 온라인 상태인가?
+NPC-Zielinski(0)<Speaker>비서</Speaker><同时置暗>||:네, 서부 군사지대 총지휘관, 제1대공사령부 사령관과 국방부 장관 모두 2번 채널에서 대기 중입니다.
+NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:좋아, 우선 칼리닌그라드의 초계 레이더 통신부터 회복시킨다. 그들이 뭘 봤는지 알아야 해.+그리고... 공군사령부에 연락해, 일어났나 보게.
+NPC-Zielinski(0)<Speaker>비서</Speaker><同时置暗>||:알겠습니다.+무슨 사유로 연락할까요?
+NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:...국경의 우리 PMC가 습격받았다고 전해라.
+NPC-Zielinski(0)<Speaker>비서</Speaker><同时置暗>||:네.
+()||:비서가 서둘러 사무실을 나선 뒤, 젤린스키는 암호화 통신 수화기를 집으려다 멈칫했다.+놈들이 이렇게 나올 것을 예상 못한 것은 아니지만, 일이 이렇게 터지고 나니 역시 놈들의 끈질김에 혀를 내두를 수밖에 없었다.
+NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||<黑屏1>:...이제 그쪽이 어떻게 나오는지 보자고.
+()||<黑屏2><BIN>273</BIN><BGM>BGM_Empty</BGM>:곧 그리폰 S09 기지에 도착하는 군용 수송기.
+NPC-Soldier(0)<Speaker>？？？</Speaker>||<BGM>BGM_Sneak</BGM>:작전명 "마르두크".+이번 참수 작전의 목표는 그리폰의 최고집행관 크루거 및 그의 권한대행 헬리안투스의 사살이다.+그들은 현재 S09 지역 기지에 있으나, 상세 위치는 아직 불명이다.+목표를 사살하면 마무리 작업으로 클라우드 마인드맵 서버를 파괴한 뒤, 기지를 폭파할 거다.+먼저 밤 11시 17분, 미사일 폭격이 완료되면 1차 돌입조가 내부로 진입한다.+이어서 11시 25분, 2차 돌입조가 기지 주위로 전자봉쇄선을 구축하고 추가 지시가 내려오기 전까지 기지 안팎으로의 출입을 차단한다.+11시 48분까지 임무 달성 후, 1차 돌입조는 건물에서 나와 2차 돌입조와 함께 현장을 이탈한다.+화력 지원은 무장헬기의 기관포뿐이니 그 이상의 지원은 기대하지 마라. 어차피 민영 PMC 하나 상대로는 그 정도도 충분하다.+질문 있나?
+()<Speaker>？？</Speaker>||:없습니다!
+NPC-Soldier(0)<Speaker>？？？</Speaker>||<黑屏1>:전원, 건투를 빈다.
+()||<黑屏2><BIN>8</BIN><BGM>BGM_Empty</BGM>:...약 10분 전.
+()||<BGM>m_wv_scenario</BGM>:밤 10시 50분. 그리폰 기지, 크루거의 사무실.
+()||<SE1>AVG_21Winter_Click_Keyboard</SE1>:키보드 타자 소리와 함께, 시간은 조용히 흘렀다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:곧 도착합니까?+알겠습니다, 확인에 감사드립니다.
+NPC-Helian(0)<Speaker></Speaker>||:헬리안은 전화를 끊고 시계를 봤다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:철혈이 곧 베를린에 도착하는구나. 지휘관에게 도움이 되면 좋을 텐데.+어, 벌써 11시가 다 됐네? 그만하고 가야지...+후우... 오늘은 그래도 작업 진도 꽤 나갔네...
+NPC-Helian(0)<Speaker></Speaker>||:헬리안이 휴대품을 정리하고 일어날 준비를 했다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:이 속도로 처리하면, 카리나도 돌아와서 한동안은 편하겠지.
+NPC-Helian(0)<Speaker></Speaker>||<黑屏1>:창밖의 깜깜한 밤하늘을 바라보면서, 헬리안은 지금쯤 카리나가 뭘 하고 있을지 상상했다.
+()||<BIN>18</BIN><黑屏2><Night>:크루거의 사무실 맞은편.
+M1928A1(0)<Speaker>톰슨</Speaker>||:일어나 WA, 타겟이 움직인다.
+WA2000(0)<Speaker>WA2000</Speaker>||:우웅... 뭣, 뭐?!
+()||:꾸벅꾸벅 졸던 WA2000이 화들짝 깼다.
+WA2000(0)<Speaker>WA2000</Speaker><Shake>||:리엔필드! 카라비너!
+WA2000(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>수신 양호.</color>
+WA2000(0);MLEMK1(0)<Speaker>리엔필드</Speaker><通讯框>||:<color=#00CCFF>들린다. 현재 상황은? </color>
+WA2000(0)<Speaker>WA2000</Speaker>;MLEMK1(0)<通讯框>||:목표가 이동한다! 곧 사무실 밖 복도로 나오니까 모두 주의해!
+MLEMK1(0)<Speaker>리엔필드</Speaker><通讯框>||:<color=#00CCFF>알았다.</color>
+98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>알았어요.</color>
+M1928A1(0)<Speaker>톰슨</Speaker>||<SE1>AVG_tele_disconnect</SE1>:오늘밤의 하이라이트가 곧 시작되겠구만. 이만 이동할 테니, 관측 잘해.
+WA2000(0)<Speaker>WA2000</Speaker>||:아, 알았어.
+()||<黑屏1>:톰슨이 서둘러 자리를 떴고, WA2000도 막 작성한 메시지를 모두에게 송신했다.
+()||<黑屏2><BIN>1</BIN><Night>:기지 인근의 숲. 오토바이를 탄 인형들이, 눈으로 쫓기 힘든 속도로 기지를 향해 질주했다.
+M1928A1(0)<Speaker>톰슨</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여기는 톰슨. 총알배송팀, 응답해라.</color>
+NTW20Mod(0)<Speaker>NTW20</Speaker>;M1928A1(0)<通讯框>||:바이크 리더, 수신.
+NTW20Mod(0);M1928A1(0)<Speaker>톰슨</Speaker><通讯框>||:<color=#00CCFF>목표가 예상보다 일찍 움직였다, 복귀 시간 앞당길 수 있나?</color>
+NTW20Mod(0)<Speaker>NTW20</Speaker>;M1928A1(0)<通讯框>||:예정이 앞당겨졌다고... 알았다, 문제 없다.
+NTW20Mod(0);M1928A1(0)<Speaker>톰슨</Speaker><通讯框>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>OK.</color>
+NTW20Mod(0)<Speaker>NTW20</Speaker>||:그리즐리, Spitfire, 계획이 앞당겨졌으니 가속한다.
+Grizzly(0)<Speaker>그리즐리 Mk V</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>OK~ 곧 주방 후문에 도착해. 도착 예정 시각... 7초.</color>
+Spitfire(0)<Speaker>Spitfire</Speaker><通讯框>||:<color=#00CCFF>저와 75 언니도 함께예요.</color>
+NTW20Mod(0)<Speaker>NTW20</Speaker>||<SE1>AVG_tele_disconnect</SE1>:알았다, 다음 정기 연락 때 보자.
+()||<黑屏1>:NTW-20은 통신을 종료하고, 백미러를 통해 동료들의 위치를 확인했다.
+()||<黑屏2><BIN>88</BIN>:어두컴컴한 창고 안. 모니터의 불빛이 밝히는 얼굴들은 모두 괴로움에 찡그린 표정이었다.
+PPK(0)<Speaker>PPK</Speaker>||:그러니까... 이게 네가 말한 "투나잇 스페셜 이벤트"라고?
+mp443(0)<Speaker>MP443</Speaker>||:희한한 돌멩이가 잔뜩 있다길래 왔는데...
+Ribeyrolles(0)<Speaker></Speaker>||:리베롤은 피곤해하며 수액의 투여 속도를 늦췄다.
+WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||:크흠... 다른 인형들은 모두 스케줄이 가득 차서 말이지.+알았으면 시간 낭비 말고 어서 임무를 개시하자.+토카레프, 난 잠시 갔다올 테니 여긴 네게 맡긴다.
+TT33(0)<Speaker>토카레프</Speaker>||:네!
+()||:웰로드가 창고를 나서자마자, 모여있던 인형들이 수군댔다.
+PPK(0)<Speaker>PPK</Speaker>||:후후후... 그럼 수고 많이 해 토카레프~♪
+TT33(0)<Speaker>토카레프</Speaker>||:네?! 잠깐만요, 어딜――
+()||<SE1>AVG_20Winter_Door_Open</SE1>:고역에서 탈주하려던 인형들이 창고 문을 열었다.
+()||<SE2>Gunfight</SE2>:타타타탕!!+코앞에서 천장을 향해 번쩍이는 기관단총의 불빛이, 인형들의 얼굴을 다시 비췄다.
+M1928A1(0)<Speaker>톰슨</Speaker>||:어허, 임무는 완수하고 나오는 거야?
+()||<SE1>AVG_20Winter_Door_Close</SE1><黑屏1>:창고의 문이 다시 스르륵 닫혔다.
+()||<黑屏2><BIN>8</BIN><BGM>BGM_Empty</BGM>:분침이 "11"을 가리켰다.+헬리안은 마음 놓고 퇴근할 수 있도록 파일의 백업이 정상인지 재차 확인했다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:음... 됐다, 내일 좀 더 집중해서 작업하면 크루거 님께 보고 올릴 수 있겠어...+아 맞다, 그러고 보니 오늘이...
+NPC-Helian(0)<Speaker></Speaker>||<黑屏1>:헬리안의 시선이, 달력에 커다랗게 그려진 빨간 동그라미에 꽂혔다.
+()||<BIN>18</BIN><黑屏2><Night><BGM>m_avg_casual</BGM>:크루거의 사무실 맞은편.
+WA2000(0)<Speaker>WA2000</Speaker>||:목표가 사무실에서 이탈한다, 다들 홀에 모였어?
+MLEMK1(0)<Speaker>리엔필드</Speaker><通讯框>||:<color=#00CCFF>상황 전달받았다.</color>
+98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>홀에 집합 끝났어요.</color>
+WA2000(0)<Speaker>WA2000</Speaker>||:좋았어, 나도 금방 갈게.
+()||<黑屏1>:WA2000은 어둠 속으로 몸을 던졌다.
+Grizzly(0)<Speaker>그리즐리 Mk V</Speaker><通讯框>||<黑屏2><BIN>1</BIN><Night>:<color=#00CCFF>나 먼저 우리 애들 데리고 홀 문 앞에 집합할게.</color>
+NTW20Mod(0)<Speaker>NTW20</Speaker>||:알았다.+Spitfire, CZ75, 아직 멀었나?
+Spitfire(0)<Speaker>Spitfire</Speaker><通讯框>||:<color=#00CCFF>챙길 물건이 있어서 잠깐 딴 데 좀 들렸어요, 곧 도착해요.</color>
+()||<SE1>AVG_brake</SE1>:조용하던 숲속을 뚫고 나온 오토바이가, 고막을 찢을 듯한 급정거 소리를 내며 NTW-20의 바로 앞에 멈춰 섰다.
+CZ75(0)<Speaker>CZ75</Speaker>||:그리고 도착! 가자!
+NTW20Mod(0)<Speaker>NTW20</Speaker>||:예상보다 늦었는데 뭘... 응? 등에 덕지덕지 붙은 그거, 설마 벌금 딱지――
+CZ75(0)<Speaker>CZ75</Speaker><Shake>||<黑屏1>:시시시시간 없다며! 빨랑 가자니까!?
+()||<黑屏2><BIN>8</BIN><BGM>BGM_Empty</BGM>:밤 10시 59분. 드디어 헬리안이 사무실의 문손잡이를 잡았다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:그게 오늘이었구나... 케이크라도 사서 축하하는 게 좋겠지?
+()||<SE1>AVG_21Winter_Clock</SE1><黑屏1>:헬리안은 싱글벙글 웃으며 케이크 가게의 메뉴판을 훑었다.+그 와중에도 초침은 무심하게 "12"를 향해 나아갔다.+56초, 57초, 58초...+59초...
+()||<SE1>Explode</SE1><黑屏2><BIN>9</BIN><CGDelay>3</CGDelay>:콰아앙——!!!
+()||:헬리안이 번쩍 눈을 떴지만, 아무것도 보이지 않았다.
+()<Speaker>헬리안</Speaker>||:뭐야... 정전인가?+......
+()||<BGM>GF_21summer_avg_Demon</BGM>:헬리안이 조작 패널 컴퓨터가 있어야 할 곳을 더듬었지만, 거기선 차갑고 거친 석재가 만져졌다.
+()<Speaker>헬리안</Speaker>||:뭐야 이거... 느낌이... 콘크리트?
+()||:헬리안이 태블릿의 손전등 기능을 켜보았다.+눈부신 불빛을 통해, 무너진 천장과 박살난 벽면의 울퉁불퉁한 단면이 서로 맞물린 것이 보였다.+그리고, 헬리안 자신은 그 두 단면이 맞물려서 생긴 공간 사이에 갇혀 있었다.+바스러지며 얼굴에 떨어지는 콘크리트 부스러기들이, 여기는 아직 위험하다 경고했다.
+NPC-Helian(3)<Speaker>헬리안</Speaker>||:......+진정하자, 헬리안...+인형 수백 명이 네 지휘를 기다리고 있어...
+()||:헬리안이 다시 지휘용 전술 태블릿을 켰다. 하지만 모니터가 깨진 탓에 대다수의 버튼이 반응하지 않아, 헬리안이 아무리 화면을 두드려도 말을 듣지 않았다.
+NPC-Helian(3)<Speaker>헬리안</Speaker>||:당황하면 안 돼, 심호흡...+기지가 폭격당했을 뿐이야... 한두 번 겪은 것도 아닌데... 하나도 안 무서워...
+()||:비좁은 공간에서, 헬리안은 어찌저찌 윗몸을 일으켜 바닥에 앉았다.+그러자 통각이 마비되었던 몸이 다시 깨어나, 아드레날린이 억제하던 통증까지 한꺼번에 밀려들었다.
+NPC-Helian(1)<Speaker>헬리안</Speaker>||:...찰과상 다수, 왼팔 골절... 다른 부위는 모르겠네...+적어도 움직일 순 있어, 최악의 상황은 아니야...+......
+()||:꽉 막힌 벽의 잔해를 둘러봤지만, 기어 나갈 만한 구멍은 보이지 않고, 자신의 힘으로 잔해를 밀어낼 수도 없었다.+나지막이 한숨을 쉬던 그때, 태블릿의 빛이 깜빡였다.
+NPC-Helian(3)<Speaker>헬리안</Speaker><Shake>||:아, 안 돼, 안 돼...
+()||:태블릿 화면이 꺼져, 주위가 다시 어둠에 잠겼다.
+()<Speaker>헬리안</Speaker>||:......
+()||:그리고, 사라진 시야 대신 청각이 예민해졌다.+그로 인한 착각인지, 헬리안은 벽면의 마찰음이 점점 격해지는 것만 같았다.
+()<Speaker>헬리안</Speaker>||:오늘이 인생 마지막 날이더라도...+다 큰 여자가... 흑... 이런 걸로 질질 짜면... 안 돼...!
+()<Speaker>？？？</Speaker>||:헬리안!
+()<Speaker>헬리안</Speaker>||:...크루거 님?+크루거 님! 저 여기 있습니다!! 여기예요!!
+()<Speaker>크루거</Speaker>||:들었으니까 이제 괜찮아, 바로 꺼내 주겠네.
+()<Speaker>헬리안</Speaker>||:아... 네.
+()||<黑屏1>:헬리안은 문득 자신이 그리폰에 입사하고 울음을 터뜨린 게 이번이 두 번째임을 떠올렸다.+잠시 후 무너진 벽이 조심스레 들어내졌고, 익숙한 인형들의 얼굴이 헬리안의 눈에 들어왔다.
+M1928A1(0)<Speaker>톰슨</Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>398</BIN><火花>:Evening, ma'am.
+MAC10(0)<Speaker>MAC10</Speaker>||:손 주세요.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:고맙다 톰슨, 잉그램.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:다친 데 있나?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:괜찮습니다, 가벼운 상처뿐입니다.
+()||<BGM>GF_21summer_battle_3</BGM>:크루거는 새 지휘 태블릿을 헬리안에게 주었다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:미안하지만 쉴 틈이 없겠어.+기지가 중화기 폭격으로 기습받았네, 통신도 차단됐고.+수법을 보아하니... 카터의 짓일 것 같군.
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Kyruger(0)||:카터 장군이요?! 하지만 그는 분명...!
+NPC-Helian(0);NPC-Kyruger(0)<Speaker>크루거</Speaker>||:지금은 그걸 생각해볼 시간도 없어.+벌써 적 부대가 입구까지 왔네.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:난 전선대기조와 함께 놈들을 저지하러 갈 테니, 자네는 여기 남아 긴급 방어 계획을 실행하게. 동시에 퇴각 준비도 하고. 방어에 실패하면 긴급 철수 계획으로 변경해야 해.
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Kyruger(0)||:...알겠습니다, 맡겨 주십시오.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:톰슨, 소대 몇 개를 차출해 따라와라.
+M1928A1(0)<Speaker>톰슨</Speaker>||:라저. 잉그램, 마담 잘 지켜라.
+MAC10(0)<Speaker>MAC10</Speaker>||:걱정 마세요, 제가 고철덩이가 되어서라도 그 쓰레기들이 헬리안 씨한테 손가락 하나 못 대게 할게요.
+()||<SE1>Select</SE1>:크루거는 헬리안을 보며 고개를 끄덕이곤, 권총의 안전장치를 해제하고 깜깜한 문 밖으로 나섰다.+헬리안은 골절된 왼쪽 팔뚝을 응급 처치한 후, 태블릿으로 인형들의 지휘를 시작했다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:아직 행동 가능한 인형들은 내 지시에 따라라.+GSh-18, 즉시 구조팀을 편성해. 부상당한 인형들을 구조해 가용 인원수를 최대한 복구한다.+NTW-20는 2개 소대를 차출해라. 하나는 전자 봉쇄 해제와 통신 복구, 다른 하나는 적 후방으로 우회해 차단망 밖의 외부에 구조 요청을 시도한다.+웰로드, 가용 소대를 모아 중요 물자 이송과 위험 물품 파기를 맡아라.+임무를 접수한 인형은 즉시 응답하도록. 이후, 15분마다 상황을 보고하라. 이상.
+()||:초기 대응을 마친 헬리안이 좀 더 안전한 위치로 이동하려다, 크루거가 문앞에 돌아온 것을 눈치챘다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:크루거 님?
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:호신용 무기를 주는 걸 깜빡했더군.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:아... 감사합니다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그럼, 뒤를 맡기겠네.
+()||:헬리안은 차렷 자세로 미소와 함께 척 경례했다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||<黑屏1>:얼마든지 믿어 주십시오.

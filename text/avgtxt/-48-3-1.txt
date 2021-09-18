@@ -1,0 +1,47 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><narrator>:베를린 시가지.+어느 고급 아파트의 주차장.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>18</BIN><BGM>BGM_Room</BGM>:미행이 없는 것을 재차 확인한 검은 자동차가 주차 자리에 멈춰 섰다.
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:......
+NPC-Bramedb(2)<Speaker>브라메드</Speaker>;NPC-Hopps(0)||:많이 바빠?
+NPC-Bramedb(2);NPC-Hopps(0)<Speaker>？？？</Speaker>||:...나도 너와 좀 더 있고 싶다만, 화물이 도착했다.+확인해서 보내야 해.
+NPC-Bramedb(2)<Speaker>브라메드</Speaker>;NPC-Hopps(0)||:그렇게 열심히 일하는 거 보니까 너무 좋다.+상으로 내가 좋은 거 하나 알려 줄게.
+NPC-Bramedb(2);NPC-Hopps(0)<Speaker>？？？</Speaker>||:뭐지?
+NPC-Bramedb(2)<Speaker>브라메드</Speaker>;NPC-Hopps(0)||:누가 고속 도로를 뒤져봤어.+어디의 누군진 몰라도, 조심해.
+NPC-Bramedb(2);NPC-Hopps(0)<Speaker>？？？</Speaker>||:...내가 경험도 없는 초짜도 아니고, 걱정 마라.+그리고, 이제 마지막 단계다.
+NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:자신 있다면 됐어.
+()<Speaker></Speaker>||:브라메드가 양팔을 남자의 목에 감고, 가볍게 입김을 불었다.
+NPC-Bramedb(0)<Speaker>브라메드</Speaker>||:우리... 다 끝나면 같이 어디로 떠나자. 어때?+나, 전부터 노르웨이 가보고 싶었거든? 오염되지 않은 자연 경관이 정말 볼 만하대.
+()<Speaker></Speaker>||:브라메드의 애교에, 남자의 무뚝뚝한 태도도 누그러졌다.
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:기대되는군.
+NPC-Bramedb(2)<Speaker>브라메드</Speaker>;NPC-Hopps(0)||:자기가 물건을 무사히 공항에 다 보내기만 하면 끝이야.
+NPC-Bramedb(2);NPC-Hopps(0)<Speaker>？？？</Speaker>||:...나도 일이 끝나는 때가 기다려진다.
+NPC-Bramedb(2)<Speaker>브라메드</Speaker>;NPC-Hopps(0)||:잘해 봐... 자기야.
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Car_Open</SE1>:브라메드는 웃으며 차에서 내리는 남자를 배웅했다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Car_Close</SE1>:운전석의 그녀는 손짓으로 인사하고, 창문을 닫았다.
+()<Speaker></Speaker>||<SE1>AVG_engine_speedup</SE1>:그리고 엔진에 다시 시동이 걸렸고, 검은 자동차는 금세 멀리 사라졌다.
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>82</BIN><黑点2>:자동차가 시야에서 완전히 사라질 때까지 기다린 남자는, 곧장 아파트로 들어가면서... 도청기를 켰다.
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:여우 같은 년.
+()<Speaker></Speaker>||:다정함이고 뭐고 다 연기였다는 듯, 남자는 얼굴에 그늘을 드리운 채 엘레베이터에 올랐다.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:20초 남짓 잡음이 이어진 끝에, 드디어 목소리가 들렸다.
+()<Speaker>브라메드</Speaker>||:<color=#00CCFF>아 아, 마이크 테스트~</color>+<color=#00CCFF>아버님, 잘 들리시나요? 아버님이 가장 아끼시는 브라메드가 임무 브리핑을 올릴게요.</color>
+()<Speaker></Speaker>||:"아버님"?+남자의 눈썹이 들썩였다. 그녀가 누군가를 그런 호칭으로 부르는 것을 처음 들어보는 그는, 도청기로는 통화 상대의 목소리를 들을 수 없는 것이 아쉬울 따름이었다.
+()<Speaker>브라메드</Speaker>||:<color=#00CCFF>"화물"은 계획대로 꺼내 갔고, "노새"도 자리에 세워 놨답니다. 아무 말썽 없을 거예요.</color>+<color=#00CCFF>역시 아버님 고생 덜어드리는 아이는 저밖에 없죠?</color>
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:......+"노새"는 날 말하는 건가.
+()<Speaker>브라메드</Speaker>||:<color=#00CCFF>후우... 그 다음엔...</color>
+()<Speaker></Speaker>||<SE1>AVG_Car_Skid</SE1>:그때, 도청기에서 부자연스러운 노이즈가 들렸다.+남자는 잠깐이나마 도청기가 발각된 줄 알았다.
+()<Speaker>브라메드</Speaker>||:<color=#00CCFF>안녕 자기~ 어서 타.</color>
+()<Speaker>남자의 목소리</Speaker>||:<color=#00CCFF>어우, 우리 예쁜이 기다리느라 목 빠지는 줄 알았다.</color>
+()<Speaker>브라메드</Speaker>||:<color=#00CCFF>자기 보러 오기 전까지 해치워야 하는 일이 산더미였거든~ 설마 질투하는 거야? 귀엽다~</color>
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:......
+()<Speaker></Speaker>||:좀 더 알아보고 싶었지만, 불가능했다.+대화가 멈추더니, 얼마 안 가 듣기 민망한 소리가 났기 때문이다.
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:...헤프기까지 했군.
+()<Speaker></Speaker>||:남자는 콧방귀를 끼곤, 침대에 앉으며 도청기를 껐다.
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:대체 무얼 꾸미고 있는 거냐...
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:......
+()<Speaker></Speaker>||:브라메드는 차 안에 앉아, 가소롭다는 듯 손에 쥔 도청기를 살펴봤다.
+NPC-Bramedb(1)<Speaker>브라메드</Speaker>||:일만 잘한다면, 이런 것쯤 얼마든지 눈감아 줄 수 있어.+그러니까 나 실망시키지 마... "자기"야.
+()||<黑屏1>:

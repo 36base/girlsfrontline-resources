@@ -1,0 +1,148 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>325</BIN><BGM>GF_EV9_Story</BGM>:갈라테아 그룹 본사.+그레이 생물과학 연구 센터.
+()<Speaker>에케지에</Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:죄송하지만 지금 연구 센터는 어떤 취재도 받지 않습――넬레!?
+()<Speaker></Speaker>||:아직 실험실에 남아있던 연구원이 방문자를 알아보자 깜짝 놀라 소리를 냈다.
+NPC-Nele(5)<Speaker>넬레</Speaker>||:늦은 시간에 죄송해요 에케지에 선배.+저번에 제가 좀 충동적으로 굴어서... 죄송해요.
+()<Speaker>에케지에</Speaker>||:괜찮아 괜찮아, 사회생활을 한다는 게 다 그렇지 뭐.+나도 예전엔 충동적으로 막나가고 그렇기도 했어.
+NPC-Nele(4)<Speaker>넬레</Speaker>||:...여기서 그레이 선생님과 만나기로 약속했는데, 어쩌다 보니 좀 일찍 왔네요.
+()<Speaker></Speaker>||:넬레는 자연스럽게 자신의 자리에 앉았다.
+()<Speaker>에케지에</Speaker>||:그렇구나. 직장 관두는 거 때문이지?+다들 지금 절차 밟고 있어. 나도 금방 끝날 거야.
+NPC-Nele(5)<Speaker>넬레</Speaker>||:하아... 전 아직도 이제 어디로 가야 할지 모르겠어요.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Click_Keyboard</SE1>:넬레는 에케지에를 흘깃 보며 대화를 이어 나가면서, 자신의 것이었던 컴퓨터를 켰다.
+()<Speaker>에케지에</Speaker>||:아이버슨 교수님이 브레멘에 있는 연구소에 간다셨잖아, 거긴 흥미 없어?
+NPC-Nele(4)<Speaker>넬레</Speaker>||:...브레멘은 너무 먼걸요.+전 역시 베를린이 좋아요.
+()<Speaker></Speaker>||:심장이 쿵쾅댔지만, 어떻게든 평상심을 유지하려 노력했다. 그도 그럴 것이, 지금 넬레는 에케지에가 보는 앞에서 몰래 USB를 꽂는 중이었으니까.+어떻게든, 무엇이 됐든 증거를 확보해야 했다.
+()<Speaker>에케지에</Speaker>||:그래도 넌 젊잖아. 어딜 가도 괜찮지 않을까?
+NPC-Nele(4)<Speaker>넬레</Speaker>||:그래도... 베를린에 있는 게 편할 거 같아요.
+()<Speaker>에케지에</Speaker>||:뭐, 사람마다 생각은 다르지.
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:띠 띠 띠 띠...+권한 인증 성공.+자료의 복사가 시작되었다...
+()<Speaker>에케지에</Speaker>||:아 참, 너 퇴직금으로 월급 몇 개월치 받을 거야?
+NPC-Nele(6)<Speaker>넬레</Speaker>||:네? 어, 그, 그건 아직 생각을 안 해봤네요.
+()<Speaker>에케지에</Speaker>||:응? 그런 거 정하려고 온 거 아니었어?
+NPC-Nele(6)<Speaker>넬레</Speaker>||:...그러니까 제 말은, 얼마를 받을지 생각해보질 않았다고요.+그냥 선생님이 주시는대로 받을까 싶어요.
+()<Speaker>에케지에</Speaker>||:뭐어? 확실하게 요구하지 않으면 계약서대로 쥐꼬리만큼밖에 안 주려 할 거야!+우리 모두 재직 기간 1년도 못 채워서 규정상으로는 얼마 안 나올 거라고.
+NPC-Nele(6)<Speaker>넬레</Speaker>||:네?! 1년을 못 채웠다니... 다들 들어온 지 1년 안 됐어요?
+()<Speaker>에케지에</Speaker>||:그렇지, 최고참인 아이버슨 교수님도 작년 11월에 들어오셨어.
+NPC-Nele(6)<Speaker>넬레</Speaker>||:...에케지에 선배, 선배들은 입사할 때부터 연구 프로젝트의 방향성을 알고 있었던 거죠?
+()<Speaker>에케지에</Speaker>||:...그렇지.
+NPC-Nele(6)<Speaker>넬레</Speaker>||:그런데, 이 연구소는 설립된 지 꽤 되지 않았어요? 그 전 기수 선배들은요?
+()<Speaker>에케지에</Speaker>||:들은 바로는 일 못해서 잘렸다던데?
+()<Speaker></Speaker>||<SE1>AVG_Walk</SE1>:......
+()<Speaker>에케지에</Speaker>||:아 선생님, 오셨어요?+넬레, 너 선생님이랑 어디서 얘기한댔더라?
+NPC-Nele(5)<Speaker>넬레</Speaker>||:.......
+()<Speaker></Speaker>||:자료 전송 진행도는 아직 87%... 그 말을 들은 넬레는 긴장으로 얼굴에 피가 몰려 빨개졌다.+조심조심 뒤를 돌아보니...
+NPC-Nele(4)<Speaker>넬레</Speaker>||:...선생님.
+()<Speaker></Speaker>||:문앞의 그레이가, 가늘게 뜬 눈으로 넬레를 지켜보며 미소짓고 있었다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:에케지에, 잠깐 나가 주겠어요? 넬레와 할 얘기가 있답니다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:에케지에는 고개를 끄덕이고 서둘러 자리를 비웠다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:오랜만이에요, 넬레.
+()<Speaker></Speaker>||:저 속을 알 수 없는 미소를 마주하며, 넬레는 용기를 냈다.
+NPC-Nele(4)<Speaker>넬레</Speaker>||:선생님, 제가 선생님을 처음 뵀을 때, 선생님이 하셨던 말씀 아직도 다 기억해요.+"기술은 둘째, 첫째는 품성이다."
+NPC-MrsGray(0)<Speaker>그레이</Speaker>;NPC-Nele(4)||:대외적으론 그야 당연히 그리 말해야 하는 법이죠. 하지만 세상은 매정하답니다, 다들 기술과 성과를 보고 지갑을 열지, 품성을 보진 않아요.
+NPC-MrsGray(0);NPC-Nele(4)<Speaker>넬레</Speaker>||:이둔의 연구 방향성이 변경된 뒤로 임상 실험도 불가능해졌다는 거, 모르시진 않죠?
+NPC-MrsGray(0)<Speaker>그레이</Speaker>;NPC-Nele(4)||:그 점도 제가 좀 더 일찍 넬레에게 말해 줬어야 했네요. 난민이 뇌사한 사건은 제가 잘 처리했으니, 넬레는 걱정하지 않아도 돼요.
+NPC-MrsGray(0);NPC-Nele(5)<Speaker>넬레</Speaker>||:...예전에, 선생님이 난민 거주 구역에 여러 번 방문해서, 이둔을 테스트하셨잖아요?
+NPC-MrsGray(0)<Speaker>그레이</Speaker>;NPC-Nele(5)||:전부 합법적인 절차를 걸쳐 진행됐죠.
+NPC-MrsGray(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:아무리 성분 검사를 통과했다지만, 복사감염증에 고통받는 사람들에게 그 촉매 성분은 변이 세포의 확산을 촉진시킬 뿐이에요.
+NPC-MrsGray(0);NPC-Nele(7)<Speaker>넬레</Speaker>||<震屏3>:선생님, 그건 살인 행위예요!
+NPC-MrsGray(0)<Speaker>그레이</Speaker>;NPC-Nele(7)||:아뇨, 이건 사람을 구하는 행위예요.+인체 자신의 항체만이 복사감염증을 극복할 수 있는 유일한 물질이에요.
+NPC-MrsGray(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:하, 하지만 여태까지 면역 체계를 형성한 사람은 단 한 명도 없었잖아요!
+NPC-MrsGray(0)<Speaker>그레이</Speaker>;NPC-Nele(7)||:그건 그들이 나약했기 때문이에요. 신체 능력이 너무 약해서 실패한 거죠.+성공적으로 항체를 생성해내는 면역체를 확보하기만 한다면, 우리는 현 인류의 숙원인 ELID 근절이라는 숙원을 이룰 수 있어요.
+NPC-MrsGray(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:...이 실험실의 모두가 그 정신 나간 생각에 동의하나요?
+NPC-MrsGray(0)<Speaker>그레이</Speaker>;NPC-Nele(7)||:넬레, 넬레는 총명한 사람이잖아요? 이 실험이 성공한다면, 넬레도 역사에 이름이 기록될 거예요.
+NPC-MrsGray(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:그럼 그동안 죽은 사람은요?
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:인류 발전의 역사는, 그 한 걸음마다 희생이란 발자국을 남겼죠.+슬프지만, 필요한 대가랍니다.
+()<Speaker></Speaker>||:"희생"이란 단어가 아무렇지도 않게 그레이의 입에서 튀어나오자, 넬레는 극한의 모욕감에 몸서리를 쳤다.
+NPC-Nele(7)<Speaker>넬레</Speaker>||:선생님... 아니, 당신 누구예요?
+NPC-MrsGray(0)<Speaker>그레이</Speaker>;NPC-Nele(7)||:......
+NPC-MrsGray(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:의약품은 인류가 병에 걸린 동료를 버리지 못해 탄생했어요!+짐승처럼 다치고 병들어서 약해진 무리의 구성원을 버리고, 잡아먹지 못하니까, 인류는 약을 찾아 만들어서 동료의 고통을 줄여 준 거라고요!
+NPC-MrsGray(0)<Speaker>그레이</Speaker>;NPC-Nele(7)||:......
+NPC-MrsGray(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:질병 앞에선 모두가 약자다!!+우리도 모두 언젠가는 약자가 될 날이 온다!!+그래서 어떤 의약품의 연구 개발도 경외심을 가지고 임해야 한다고, 선생님이 말씀하셨잖아요!
+NPC-MrsGray(0)<Speaker>그레이</Speaker>;NPC-Nele(7)||:......
+NPC-MrsGray(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:그랬던 선생님이, 어떻게 지금 내 눈앞의 당신일 수가 있어요?+고통에 신음하는 사람들을 어떻게 "희생"이란 말로 퉁쳐요...? 그 사람... 지금도 성 마리엔 병원에 누워있는 페터 씨 때문에 죄책감이 들어서, 전 아직도 잠을 제대로 못 자요.+그런데 선생님이 그 일을 "처리했다"고요? 어떻게요? 어떻게 "처리"했는데요?
+NPC-MrsGray(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:전 예전에 선생님의 눈빛을 보곤 선생님에겐 자애로운 심장이 뛰고 있다는 걸 느꼈어요.+그런데, 지금은... 지금 당신은 아니에요...
+NPC-MrsGray(0)<Speaker>그레이</Speaker>;NPC-Nele(7)||<BGM>BGM_Empty</BGM>:...그야 당연하지. 내게 그런 약점 따위 없으니까.
+NPC-Nele(6)<Speaker>넬레</Speaker>||:...?!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>411</BIN><BGM>GF_EV9_Intermission</BGM>:그레이의 미소가 변했다. 세상 물정 모르고 대드는 풋내기를 향한 조롱이 아니라... 사냥감을 만난 희열이었다.
+()<Speaker></Speaker>||<SE1>AVG_Grey_Hand_Mech</SE1>:뒤로 숨겼던 칼날을 서서히 드러내며, 그레이는 저 풋내기에게 천천히 다가갔다.
+()<Speaker>넬레</Speaker>||:당신은...
+()<Speaker>그레이</Speaker>||:내가 이런 곳에서 방심할 줄이야...+일손이 부족하기도 했지만, 너처럼 백지 같은 이력서를 낸 사람이라면 써도 문제 없으리라 생각했는데.+지금 보아하니... 더 이상 말은 안 통하겠구나.
+()<Speaker>넬레</Speaker>||:......
+()<Speaker></Speaker>||:그레이가 흥미로워하며 웃었다.
+()<Speaker>그레이</Speaker>||:내가 누군지 알고 싶다고 했지?
+()<Speaker>넬레</Speaker>||:...말 안 해도 이제 대충 알겠네요.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>129</BIN><黑屏2><BGM>BGM_Empty</BGM>:평소보다 푸짐하게 차린 저녁 식사를 담은 식판을 들고, 미아는 넬레의 침실 앞에 와 최대한 밝은 목소리로 그녀를 불렀다.
+APC556(3)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레, 저녁 먹어야지.
+APC556(3)<Speaker>미아</Speaker><Position>0,120</Position>||:...성질 그만 부려. 다 너 생각해서 가지 말라는 거야.+내가 너 좋아하는 스파게티랑 버섯 스프 만들었어. 같이 저녁 먹자, 응?
+()<Speaker></Speaker>||:넬레는 아직도 삐졌는지, 방에서 아무 소리도 들리지 않았다.+...아무 소리도 없다?
+APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레?
+()<Speaker></Speaker>||:심상찮은 기운을 감지한 미아가, 식판을 옆의 서랍에 올려놓고 열쇠로 문을 열었다.
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||<SE1>AVG_20Winter_Door_Open</SE1>:——넬레?!
+()<Speaker></Speaker>||:방은 썰렁했다. 그저 활짝 열린 창문 밖으로, 침대 시트와 커튼 등을 꼬아 만든 동아줄이 걸려 있을 뿐이었다.
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:네... 넬레!!!
+()<Speaker></Speaker>||:곧장 방을 뛰쳐나가는 미아가 서랍에 부딪혔다.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_OperatingDisc_Drop</SE1>:서랍 위에 뒀던 식판도 엎질러져, 걸쭉한 버섯 스프와 토마토 소스 듬뿍인 스파게티가 바닥에 쏟아졌다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>82</BIN><黑屏2><BGM>m_avg_casual</BGM><SE1>AVG_21Winter_Close_Stool</SE1>:가벼운 발걸음으로 화장실 밖으로 나오는 J는 기분이 좋은지 콧노래를 불렀다.
+NPC-Keven(0)<Speaker>J</Speaker>||:요 호 호~+――헉 너 아직도 여깄었어?!
+SP9(0)<Speaker>모나</Speaker>||:소요 시간, 36분 47초. J 요원, 혹시 스트레스로 인해 소화기에 문제가 생겼나요? 진료를 받는 것이 좋겠습니다.
+NPC-Keven(0)<Speaker>J</Speaker>||:그런 거 재지 마, 기분 더럽다 야...+너 꼴보기 싫어서 안에서 멍때리고 있었다, 됐냐?
+SP9(0)<Speaker>모나</Speaker>||:하지만——
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:똑똑똑.
+SP9(0)<Speaker>모나</Speaker>||<SE1>Select</SE1>:——!
+()<Speaker></Speaker>||:노크 소리에 화들짝 놀란 모나가 벌떡 일어나, 총을 견착하고 현관을 주시했다.
+SP9(0)<Speaker>모나</Speaker>||:누가 방문한다는 통보는 받지 않았습니다. 제가 확인할 테니 J 요원은 여기서 기다리세요.
+NPC-Keven(0)<Speaker>J</Speaker>||:아, 그거――
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:J의 말도 다 듣지 않고, 모나는 총을 들고 현관까지 가 문을 조심조심 열었다.
+RPK16(4)<Speaker>RPK16</Speaker>||:반가워요~♪
+SP9(0)<Speaker>모나</Speaker>||:엑!?
+()<Speaker></Speaker>||:예고도 없이 나타난 "그 인형"에, J가 뭐라 해도 차분하던 모나가 깜짝 놀라 소리를 냈다.
+RPK16(4)<Speaker>RPK16</Speaker>||:들어갈게요~
+SP9(0)<Speaker>모나</Speaker>||:자, 잠깐만요, 기다리세요!
+NPC-Keven(0)<Speaker>J</Speaker>||:들여보내.+내가 오라 했어.
+SP9(0)<Speaker>모나</Speaker>||:불렀다니... J 요원, 화장실에서 대체 뭘 한 겁니까!+그녀와 어떻게 연락했죠? 이 인형은 실종됐다던 신소련의 안젤리아 요원 휘하 리벨리온 소대의 멤버 아닙니까!
+RPK16(6)<Speaker>RPK16</Speaker>||:어머, 설명하려면 제대로 해야죠 J 씨.+미안해요 예쁜 아가씨~ 사실 제가 먼저 연락한 거예요.
+SP9(0)<Speaker>모나</Speaker>||:당신이...?
+()<Speaker></Speaker>||:여태까지 행방불명이다 대뜸 J에게 연락하고 왔다는 RPK-16을, 모나는 극도로 경계했다.
+SP9(0)<Speaker>모나</Speaker>||:왜 갑자기, 하필 지금 모습을 드러냈죠? 당신의 대장, 신소련의 안젤리아 요원이 행방불명됐을 때, 당신은 어디 있었습니까?
+RPK16(0)<Speaker>RPK16</Speaker>||:자세한 설명은 J 씨한테 먼저 했어요.+당신에게도 간단히 설명하자면, 안젤리아는 패러데우스에게 사로잡혔고, 저 혼자서는 중과부적이었기에 몰래 숨어서 그들이 안젤리아를 감금한 위치를 이제야 겨우 파악했답니다.+원래는 그리폰의 지휘관에게 연락하고 싶었지만, 그럴 기회가 없었거든요.
+NPC-Keven(0)<Speaker>J</Speaker>||:아까 어떤 좌표를 얻었는데, 아무래도 거기 있는 건 패러데우스의 공장 같단 말이죠... 은여우 아가씨가 제공한 정보와 합쳐 본다면, 1등상 당첨이겠군요.+일이 아직 잘못되지 않았다면, 안젤리아 씨는... 거기 있을 가능성이 높은 거죠?
+RPK16(6)<Speaker>RPK16</Speaker>||:네, 맞아요.
+SP9(0)<Speaker>모나</Speaker>||:...저는 신뢰할 수 없습니다. 판단하기엔 너무 섣불러요.+죄송합니다 RPK-16 씨, 실례되는 말이지만 느닷없이 나타난 당신을 신용할 수 없습니다. 적어도 국장님께 보고해 어떡할지를 논의해야 한다고 봅니다.
+RPK16(0)<Speaker>RPK16</Speaker>||:의심되고 걱정스러운 건 당연하죠, 이해해요. 하지만 전 그때까지 기다릴 수 없어요.+삶도 그렇지만, 전장은 1초 뒤에 어떻게 급변할지 몰라요. 이 기회를 놓친다면, 그 뒤에도 안젤리아를 찾아낼 단서가 나오리란 보장이 없죠. 어떻게 될지 아무도 몰라요.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:RPK-16이 전술 파우치에 손을 넣어 잠깐 뒤적이더니, 한 작은 물건을 J에게 휙 던져 줬다.
+RPK16(0)<Speaker>RPK16</Speaker>||:지휘관님께 좌표를 보냈다 했죠?+J 씨가 못 가겠다면 저 혼자서도 괜찮아요. 마침 저도 이제 지휘관님과 합류할 생각이었거든요.
+()<Speaker></Speaker>||:RPK-16이 던져 준 물건은 차가웠다.+그걸 받은 손을 천천히 열어 본 J는 눈에 띄게 움찔했다.
+SP9(0)<Speaker>모나</Speaker>||:..."U"?
+()<Speaker></Speaker>||:알파벳 "U"가 새겨진 배지였다.
+NPC-Keven(5)<Speaker>J</Speaker>||:...나도 갈게.
+SP9(0)<Speaker>모나</Speaker>||:J요원?
+NPC-Keven(5)<Speaker>J</Speaker>||:모나, 보고 하든 말든 네 마음대로 해. 이젠 진짜 그 여자도 나 못 막는다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:J가 주먹을 꽉 움켜쥐더니, 그 배지를 자신의 옷소매에 달았다.
+NPC-Keven(5)<Speaker>J</Speaker>||:각오했다고. 주사위도 던졌으니 이젠 후회해도 늦었어.
+SP9(0)<Speaker>모나</Speaker>||<BGM>BGM_Empty</BGM>:주사위를 던졌다니... 설마, 또 뭔가 한――
+()<Speaker>슈타지 요원</Speaker>||<BGM>GF_21summer_avg_SecretAgent</BGM>:J 형님! 계십니까!
+()<Speaker></Speaker>||<SE1>AVG_Crowd</SE1>:그 부름과 함께 현관이 시끌벅적해졌다. 무슨 일인지 눈치를 챈 모나가 어이없어 하면서도 고개를 돌리니, 열 명이 넘는 슈타지 요원들이 모여있었다.
+NPC-Keven(0)<Speaker>J</Speaker>||:내가 화장실에서 "36분 47초"나 있으면서 고작 은여우 아가씨랑만 통화한 줄 알았냐?
+SP9(0)<Speaker>모나</Speaker>||:......
+()<Speaker>슈타지 요원</Speaker>||:형님, 최대한 불러 모았어요.+지옥 끝까지라도 함께하겠습니다!
+()<Speaker>슈타지 요원</Speaker>||:먼저 간 녀석들의 한을 풀어 줘야죠!
+RPK16(0)<Speaker>RPK16</Speaker>||:이것 참... 의외네요.+J 씨, 의외로 인망이 높았군요?
+NPC-Keven(5)<Speaker>J</Speaker>||:벌써 시간을 많이 끌었어, 다 모였으면 바로 출발해야지.+소련에서 온 친구들을 너무 기다리게 하진 말자고. 가자 이것들아!
+SP9(0)<Speaker>모나</Speaker>||:자... 잠깐만요!
+NPC-Keven(0)<Speaker>J</Speaker>||:...은여우 아가씨, 잠깐 우리 모나 양 좀 조용히시켜 줄래요?
+RPK16(0)<Speaker>RPK16</Speaker>||:저야 상관없지만, 책임은 안 질 거예요?
+SP9(0)<Speaker>모나</Speaker>||:......
+()<Speaker></Speaker>||:열혈로 똘똘 뭉친 그들의 모습에, 모나는 어깨를 늘어뜨리고 체념했다.
+SP9(0)<Speaker>모나</Speaker>||:...알겠습니다.+당장은 국장님께 보고하지 않겠습니다.+그 대신, 저도 동행하겠습니다.
+NPC-Keven(0)<Speaker>J</Speaker>||:뭣...?
+SP9(0)<Speaker>모나</Speaker>||:당신이 하고 싶은대로 하니까, 저도 제가 하고 싶은대로 하겠다는 말입니다.+제 임무는 당신을 감시하는 것입니다.
+()<Speaker></Speaker>||:모나가 당당하게 나오자, J도 할말을 잃었다.
+RPK16(0)<Speaker>RPK16</Speaker>||:전력이야 많을수록 좋잖아요?
+NPC-Keven(0)<Speaker>J</Speaker>||:하아... 그래, 마음대로 해라.
+SP9(0)<Speaker>모나</Speaker>||:......
+()<Speaker></Speaker>||:J의 수락에 모나도 마음을 놓았다. 하지만 고개를 기울여, 들이닥쳤을 때부터 계속 온화하게 미소짓고 있는 RPK-16를 흘겨봤다.
+()<Speaker></Speaker>||:착각이면 좋겠지만, 왠지 불안했다.
+()||<黑屏1>:

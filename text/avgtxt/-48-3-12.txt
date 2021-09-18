@@ -1,0 +1,186 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>417</BIN><BGM>GF_EV9_Story</BGM>:......
+NPC-Romy(2)<Speaker>로미</Speaker>||:너희는 정말이지... 매번 날 깜짝 놀래키는구나.
+()<Speaker></Speaker>||:로미 리슈펜탈 국장의 억누르지 못하는 분노가, 그녀 앞의 두 사람에게 생생하게 전해졌다.
+NPC-Keven(5)<Speaker>J</Speaker>||:......
+NPC-Jason(2)<Speaker>K</Speaker>||:......
+NPC-Romy(2)<Speaker>로미</Speaker>||:무단 행동에, 관건인 중요 인물을 죽게 하고, 그 다음엔 또 뭘 할 거지?+슈바벤, 이따위로 할 거면 그냥 네가 안전국장 하지 그러나?
+NPC-Jason(2)<Speaker>K</Speaker>||:국장님, 저흰...
+NPC-Romy(2)<Speaker>로미</Speaker>||:변명은 됐어.+네놈들 다 정직 처분이다.
+NPC-Keven(4)<Speaker>J</Speaker>||:!?+자, 잠깐만요!
+NPC-Romy(2)<Speaker>로미</Speaker>||:현시간부로.+이제 내 앞에서 꺼져!
+NPC-Keven(4)<Speaker>J</Speaker>||:저흰...!
+()<Speaker></Speaker>||:J가 난동을 부리기 전에 K가 먼저 나섰다.
+NPC-Jason(2)<Speaker>K</Speaker>||<SE1>ClothingUp</SE1>:...제 요원증과 배지입니다.+무기는 정비 후 반납하겠습니다.
+NPC-Keven(5)<Speaker>J</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:K의 표정을 본 J는 이를 갈며 자신의 요원증과 배지를 반납했다.
+NPC-Jason(2)<Speaker>K</Speaker>||:죄송합니다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:다시 한번 로미에게 고개를 숙인 뒤, K는 J를 끌고 사무실 밖으로 나갔다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><Night><BIN>97</BIN>:......
+NPC-Keven(4)<Speaker>J</Speaker>||:아니 왜 더 안 따져!?+이번에는 우리도――
+NPC-Jason(2)<Speaker>K</Speaker>||:이번만큼은 변명의 여지가 없어.+케빈, 전적으로 우리 잘못이다.
+NPC-Keven(5)<Speaker>J</Speaker>||:......
+NPC-Jason(2)<Speaker>K</Speaker>||:...모나의 마인드맵도 심각하게 손상됐다 한다. 후유증이 없을지 장담할 수 없다더군.
+NPC-Jason(2)<Speaker>K</Speaker>||:인정하자, 케빈.+이번은 우리의 완패야.
+NPC-Keven(0)<Speaker>J</Speaker>||:......
+()<Speaker></Speaker>||:J가 불끈 쥔 주먹이 하얘졌다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM><关闭蒙版><黑屏2>:......
+()<Speaker>？？？</Speaker>||:...알았어.+내게 맡겨.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+통신 종료.
+()<Speaker>？？？</Speaker>||:아직 이 시대에 네가 나설 자리는 없어.+그만둬야 할 때 버티지 말고 그냥 퇴장하도록 해.
+()<Speaker>？？？</Speaker>||:...M4.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>408</BIN><common_effect>%%code=CJ_rain%%</common_effect><SE1>AVG_Rain_Heavy</SE1>:가까스로 수송기의 이륙을 저지한 AR-15가 조종석에 들이닥쳐, 파일럿의 상태를 확인했다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:지휘관, 이 사람 부상이 심각해요. 우리가 막지 않아도 이륙하지 못했――
+AR15Mod(0)<Speaker>AR15</Speaker>||:...지금 숨이 멎었습니다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:뭐야, 수송기 화물칸 텅 비었는데?!+아무것도 없어! 붕괴복사 농도는 높은데 아무것도 없어!
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:지휘관이 AR-15가 끌고 나온 파일럿의 시신을 확인했다. 총상과 더불어 예리한 날붙이로 인한 상처로 보아, 절대 조금 전까지의 전투로 인한 것이 아니었다.+불길한 예감이 엄습했다.
+()<Speaker>지휘관</Speaker>||:창고로 이동한다!! 빨리!!
+()<Speaker></Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>222</BIN><BGM>BGM_Room</BGM><SE1>Stop_AVG_loop</SE1><关闭蒙版>:......
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker>관리자</Speaker>||:모... 몰라요! 이건 제가 모르는 일이에요, 정말 아무것도 몰라요!
+()<Speaker></Speaker>||:몇 분 전만 해도 허리에 힘이 들어가 있던 남자였지만, 지금은 얼굴이 새파랗게 질려 호들갑을 떨었다.
+AR15Mod(4)<Speaker>AR15</Speaker>||:잔인해...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:다 확인했어. 생존자 제로.+여기 있는 17명 모두 즉사야.
+()<Speaker></Speaker>||:몇 번을 겪어도, 지휘관은 이런 광경에 익숙해질 자신이 없었다.
+()<Speaker>관리자</Speaker>||:전 몰라요... 다, 당신네들이 찾겠다고 했으니까... 그쪽에서 책임지세요... 우욱!!!
+()<Speaker></Speaker>||:관리자는 입을 틀어막으며 허둥지둥 창고 밖으로 도망쳤다.
+KH2002(0)<Speaker>카이바르</Speaker>||:...화물은?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:보다시피, 시체뿐이야.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:UMP45가 시신을 확인하면서 찾아낸 물건을 지휘관에게 던져 주었다.+아주 낡았지만, 어느 시대든 독일을 대표하던 철십자 휘장이었다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:이제 어떡할까?
+()<Speaker>지휘관</Speaker>||:화물이 이미 이륙했다면, 무슨 수를 써도 우린 따라잡을 수 없어.+M4에게 대형 수송기의 비행 기록을 확인해보고 J와 훈작사에게 전달하자.
+AR15Mod(0)<Speaker>AR15</Speaker>||:저 관리자가 제정신으로 돌아오면 이 창고의 물품 보관 기록 가져오라 할게요.
+()<Speaker>지휘관</Speaker>||:그래.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:......
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Error</SE1>:삐이...
+()<Speaker>지휘관</Speaker>||:...음?
+AR15Mod(0)<Speaker>AR15</Speaker>||:왜 그래요?
+()<Speaker>지휘관</Speaker>||:M4가 통신을 안 받아.
+AR15Mod(5)<Speaker>AR15</Speaker>||:...RO는요?
+()<Speaker>지휘관</Speaker>||:RO도.
+()<Speaker></Speaker>||:지휘관과 AR-15가 멍하니 마주봤다.
+AR15Mod(8)<Speaker>AR15</Speaker>||<BGM>BGM_Empty</BGM>:젠장.
+()<Speaker>지휘관</Speaker>||:M4한테 무슨 일이 생겼어!
+()||<黑点1>:
+()<Speaker></Speaker>||<BGM>BGM_Truth</BGM><黑点2><BIN>9</BIN><SE1>RunStep</SE1>:......
+()<Speaker>지휘관</Speaker>||<BIN>85</BIN><SE1>AVG_Door_Hit</SE1><震屏3>:RO?!
+()<Speaker></Speaker>||:지휘관 일행이 관제 센터의 상황실에 돌아오자마자 보인 것은 문앞에 쓰러진 RO635였다.+카이바르가 재빨리 상황실 안을 확인했지만, 아무도 없었다.
+KH2002(0)<Speaker>카이바르</Speaker>||:큰일이야! M4랑 몰리도가 사라졌어!
+()<Speaker>지휘관</Speaker>||:제기랄!
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:RO!! 일어나 RO!!
+()<Speaker></Speaker>||:SOP2가 RO635의 몸을 붙잡고 마구 흔들었다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:살살 좀 다뤄! 마인드맵 공격을 당한 거니까 내가 해결할게.
+AR15Mod(5)<Speaker>AR15</Speaker>||:......+빌어먹을, 설마 그때...
+()<Speaker></Speaker>||:얼마 지나지 않아, 천천히 눈을 뜬 RO635가 망연하게 주위를 둘러봤다.
+RO635Mod(2)<Speaker>RO635</Speaker>||:M4 씨... 아!!
+RO635Mod(3)<Speaker>RO635</Speaker>||:지휘관님! 큰일이에요, 몰리도가! 몰리도가 M4 씨를 잡아갔어요!
+KH2002(0)<Speaker>카이바르</Speaker>||:너희 둘이 어떻게 걔한테 당한 거야?!
+()<Speaker></Speaker>||:쾌활하던 카이바르가 처음으로 발을 동동구르며 안절부절못해했다. RO635도 토끼눈으로 고개를 떨구며, 이 상황을 믿지 못하는 것 같았다.
+RO635Mod(2)<Speaker>RO635</Speaker>||:저... 저 또 M4 씨를 놓친 건가요...?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:진정해, 아직 멀리 가지 못했을 거야.
+RO635Mod(2)<Speaker>RO635</Speaker>||:......
+()<Speaker>지휘관</Speaker>||:당장 수색해! 몰리도를 찾아!
+()||<黑点1>:
+()<Speaker></Speaker>||<BGM>10130</BGM><黑屏2><BIN>408</BIN><common_effect>%%code=CJ_rain%%</common_effect><SE1>AVG_Rain_Heavy</SE1><SE1>AVG_Thunder_Dry</SE1>:천둥 번개와 함께, 밤하늘에서 소나기가 쏟아졌다.
+()<Speaker></Speaker>||<SE1>AVG_engine_speedup</SE1><SE1>AVG_Car_Skid</SE1>:순식간에 생긴 물웅덩이를 밟아 사방으로 뿌리면서, 지휘관 일행을 태운 차량이 질척해진 활주로를 내달렸다.
+UMP9Mod(4)<Speaker>UMP9</Speaker>||:앗! 저기 봐봐!
+()<Speaker></Speaker>||<SE1>AVG_door_storehouse</SE1>:투다다다다――
+RO635Mod(4)<Speaker>RO635</Speaker>||:지휘관님! 위에요!+위를 보세요!
+()<Speaker>지휘관</Speaker>||:——!?
+()<Speaker></Speaker>||:RO635의 다급한 외침을 듣고 모두 고개를 들었다.
+()<Speaker></Speaker>||<SE1>AVG_Helicopter_BG</SE1>:맹렬한 프로펠러 소리를 내며, 에이프런 위에 있던 헬리콥터 한 기가 떠올랐다.+눈이 밝은 AR-15는 단박에 조종석에 앉은 사람을 알아봤다.
+AR15Mod(5)<Speaker>AR15</Speaker>||:저 XXX 년이...+몰리도예요!
+KH2002(0)<Speaker>카이바르</Speaker>||:M4도 조수석에 있어! 어... 의식을 잃은 거 같은데...?!+통신 연결이 안 돼!
+HK416Mod(0)<Speaker>HK416</Speaker>||:제기랄... 그냥 저거 격추시키면 안 돼요?
+()<Speaker>지휘관</Speaker>||:안 돼, M4까지 다치고 말아!
+HK416Mod(0)<Speaker>HK416</Speaker>||:저대로 끌려가는 것보단 낫잖아요!
+KH2002(0)<Speaker>카이바르</Speaker>||:망할... 조금만 더 빨랐으면!+조금만 더 빨리 알아차렸으면――
+KH2002(0)<Speaker>카이바르</Speaker>||:――잠깐, 저기 저건 또 누구야?
+AR15Mod(8)<Speaker>AR15</Speaker>||:뭣——
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:어... 어어...?
+()<Speaker>지휘관</Speaker>||:......!!
+()<Speaker></Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑点2>:헬리콥터는 계속해서 고도를 높였다. M4A1을 잘 보이도록 조수석에 둔 것은 일종의 보험이자 경고였다.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:그래, 못 쏠 줄 알았어. 어디 이번에도 날 잡아보라지.
+()<Speaker></Speaker>||:몰리도는 저 밑의 닭 쫓던 개 꼴이 된 지휘관 일행이 훤히 보였다.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:이 녀석을 데리고 돌아가기만 하면... 여태까지의 추태를 아버님께서 다 용서해 주실 거야...
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:후후훗... 형세 역전이라니 정말 아깝게 됐구나, 니모겐.+넌 날 막지 못해, 아무도 날 막지 못해! 널 데려가기만 하면 난 다시 아버님께 사랑받을 수 있어!+내가 바로 아버님의 완벽한 작품이야!
+()<Speaker></Speaker>||:곁의 M4A1는 여전히 의식이 없어, 몰리도의 말에 대답하지 못했다.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:기적은 두 번 일어나지 않아!+역시, 내가 바로 유일무이한 완벽한 자야!
+()<Speaker></Speaker>||:이 순간, 그녀의 마음은 이미 저 위의 구름을 뚫고 드넓은 하늘의 태양에 닿았다.+성공했다. 아버님의 위업에 다시 한번 공헌했으니, 자신의 지위를 되찾을 수 있――
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><BGM>BGM_Empty</BGM>:쾅!
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:윽!?
+()<Speaker></Speaker>||:난데없는 큰 충격음과 함께 헬리콥터가 요동쳤다.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:뭐야... 뭐지?!
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:쾅!+몰리도가 상황을 파악하기도 전에, 같은 소리가 또 나고 헬리콥터도 다시 흔들렸다.+그제서야 몰리도는 무슨 소리였는지 깨달았다. 무언가가 헬리콥터에 세게 부딪히는 소리였다.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:뭐야...?!
+()<Speaker>？？？</Speaker>||:......
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:!
+()<Speaker></Speaker>||:믿기지 않았지만, 현실이었다.+몰리도의 눈에도, 헬리콥터의 계기판의 수치를 봐도, 지금 헬기는 공중에서 비행 중이었다.+그런데...
+()||<黑点1>:
+()<Speaker>몰리도</Speaker>||<震屏3><黑点2><关闭蒙版><BIN>405</BIN><SE1>AVG_Thunder_Dry</SE1><SE1>AVG_Helicopter_BG</SE1>:뭐야... 대체 뭐냐고!!!
+()<Speaker>몰리도</Speaker>||<BGM>GF_21summer_avg_Reunion</BGM>:너... 너 대체... 어떻게 올라왔어?!
+()<Speaker>？？？</Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:......
+()<Speaker></Speaker>||:인형이었다.+밤의 소나기와 맹렬한 프로펠러가 일으키는 바람이 아무렇지도 않다는 듯, 웬 인형이 헬리콥터 조종석 바깥에 달라붙었다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:한손으로 가느다란 와이어를 쥐고, 양발은 헬리콥터의 조종석 창을 밟아 균형을 잡고 있었다.+빗물에 젖은 유리 너머로 그녀의 무정한 얼굴이 비쳤고, 번쩍이는 번개가 그녀의 은빛 머릿결을 마귀처럼 빛냈다.
+()<Speaker>몰리도</Speaker>||:자... 잠깐만!
+()<Speaker>？？？</Speaker>||:......
+()<Speaker></Speaker>||:창 너머로, 몰리도는 그 인형의 입술이 가볍게 움직이는 것을 보았다.+하지만 온갖 소음에 묻혀 단 한 마디도 귀에 들어오지 않았다.
+()<Speaker></Speaker>||:여유만만한 모습의 그 인형이, 놀고 있는 손으로 허리춤에서 무언가를 꺼냈다.
+()<Speaker>몰리도</Speaker>||:기다――
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:퍼엉!+폭발이 일어났고, 헬리콥터의 계기판이 요란하게 경보를 울렸다.+몰리도는 저 인형이 무슨 짓을 벌이려는지 눈치챘다.
+()<Speaker>몰리도</Speaker>||:너 미쳤어?!
+()<Speaker></Speaker>||:이 상황에서, 몰리도는 저항할 방법이 없었다. 그저 기체를 이리저리 흔들어 저 정신나간 행각을 벌이는 인형이 떨어지길 빌 수밖에 없었다.+하지만 그러기도 전에, 상대가 먼저 움직였다.
+()<Speaker></Speaker>||:점착폭탄으로 로터를 파괴한 것이다.
+()<Speaker>몰리도</Speaker>||:너!! 다 같이 죽자는 거야 뭐야?!
+()<Speaker></Speaker>||:하지만 그 인형은... 그저 웃을 뿐이었다.
+()<Speaker>몰리도</Speaker>||:으아아악!!
+()<Speaker></Speaker>||:진작에 절대 고도까지 상승했던 헬리콥터는 프로펠러를 잃자마자 곧장 곤두박질쳤다.+그 하얀 머리의 인형은 여전히 한손으로 쥔 와이어만으로 외벽에 단단히 붙어있었다.+물론, 그게 다가 아니었다.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1><BIN>406</BIN>:텅!
+()<Speaker>몰리도</Speaker>||:!
+()<Speaker></Speaker>||:양다리에 힘을 주어 몸을 멀리 밀어내더니, 반동을 이용해 기체로 돌진했다.+통제불능으로 추락하는 헬리콥터 안으로, 저 하얀 머리의 인형이 쳐들어오려했다.
+()<Speaker>몰리도</Speaker>||:여기까지 왔는데... 너 따위한테...!!
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1><SE1>AVG_bigglassbreak</SE1>:쿠웅!
+()<Speaker></Speaker>||:몰리도가 다 소리지르기도 전에, 그 인형의 2차 시도에 헬리콥터의 옆문이 부서졌다.+그 다부진 몸이 강렬한 충격과 함께 좁은 헬리콥터 안으로 침입했다.+그리고――
+()<Speaker></Speaker>||<SE1>Explode</SE1><BIN>9</BIN>:콰아아앙!!!
+()<Speaker></Speaker>||:......+............
+()<Speaker>몰리도</Speaker>||:으윽...
+()<Speaker></Speaker>||:뒤이어 일어난 또 한 번의 폭발에, 몰리도는 완전히 깨달았다.+손 쓸 방도가 없는 완벽한 패배였다.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:치솟는 불길 밖으로 걸어 나오는 M16A1의 발걸음 소리는 마치 최후를 알리는 카운트다운처럼 몰리도의 심장을 두들겼다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<common_effect>%%code=CJ_rain%%</common_effect><黑屏2><BIN>407</BIN>:......
+()<Speaker>몰리도</Speaker>||:헤... 헤헤헤...
+()<Speaker></Speaker>||:저항을 포기했는지, 몰리도는 몸을 돌려 뒤에서 다가오는 M16A1을 바라봤다.+불길을 등진 그녀의 창백한 머리카락이, 이번엔 붉게 빛났다.
+()<Speaker>몰리도</Speaker>||:기억났다... 그래... 넌 AR팀의...
+()<Speaker>M16A1</Speaker>||:......
+()<Speaker></Speaker>||<BIN>408</BIN><震屏3><BGM>BGM_Empty</BGM><SE1>AVG_Punch_Hit</SE1>:M16A1의 주먹에, 몰리도는 말을 다 하지 못하고 기절했다.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:...또 짝퉁이군.
+()<Speaker></Speaker>||:사냥감을 집어 든 M16A1은 주위를 한 바퀴 둘러본 후 창고를 바라봤다.
+M16A1BOSS(2)<Speaker>M16A1</Speaker>||:......때가 됐구나.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>408</BIN>:......
+AR15Mod(8)<Speaker>AR15</Speaker>||:어... 내가 잘못 본 거 아니지...?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:에... 에... 에...!!
+()<Speaker>지휘관</Speaker>||:...M16이야.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:전보다 움직임이 더 빨라진 거 같다?
+HK416Mod(0)<Speaker>HK416</Speaker>||:저 자식...
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰앙!!
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:우왓, 헬리콥터 추락한다!+우리도 빨리 가자!
+()<Speaker>지휘관</Speaker>||:잠깐 기다려! 창고를 봐!
+KH2002(0)<Speaker>카이바르</Speaker>||:......?!
+()<Speaker></Speaker>||<SE1>AVG_door_storehouse</SE1>:창고의 문이 서서히 열리면서, 지독한 피비린내가 풍겼다.+거대한 수송기 양옆에 피칠갑한 니토들이 처음 보는 거대병기를 조립하는 것이, 아무래도 활주로 위의 모든 장애물을 쓸어버릴 셈인 듯했다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:이젠 아주 이판사판이네?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그런가 봐. 그 독일인들 처리하느라 시간을 꽤 낭비했단 거겠지.
+()<Speaker></Speaker>||:전투 태세를 취하고 몰려오는 하얀 군단을 보면서, 지휘관은 주먹을 꽉 쥐었다.
+()<Speaker>지휘관</Speaker>||:전원, 전투 준비!
+RO635Mod(0)<Speaker>RO635</Speaker>||:하지만 M4 씨가...!
+()<Speaker>지휘관</Speaker>||:지금은 M16을 믿고 맡기자. 우리는 우리가 해야 할 일을 해야지.+저 무기들이, 독일을 벗어나게 둬선 안 돼.
+()||<黑点1><BIN>10</BIN>:

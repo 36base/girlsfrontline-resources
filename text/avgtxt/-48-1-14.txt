@@ -1,0 +1,26 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>6</BIN><黑屏2><common_effect>%%code=CJ_snow%%</common_effect><SE1>GF_Halloween_Wind_loop</SE1>:신소련의 어딘가.
+()<Speaker></Speaker>||:뽀드득... 뽀드득...+땅바닥에 내려앉은 눈이 부츠에 밟혀, 가벼우면서도 가라앉는 듯한 소리를 냈다.+신소련의 겨울은 해가 갈수록 더 일찍 찾아왔다.
+()<Speaker></Speaker>||:사복 차림의 남자는 공원묘지의 입구를 지나, 느린 걸음으로 긴 발자국을 남겼다.+어느덧 영령비 앞까지 온 그는 고개를 들었다.+영령비에 새겨진 이름들은, 하나하나가 그의 머릿속에도 깊게 새겨져 있었다.
+NPC-Carter(1)<Speaker>카터</Speaker>||:후우...
+()<Speaker></Speaker>||:하얀 입김을 뱉고 나서야, 카터는 이 싸늘한 날씨를 체감했다.+잠시 후, 그의 뒤에서 우산을 쓰고 군복을 입은 병사가 그에게 다가왔다.
+()<Speaker>병사</Speaker>||:장군님, 서기가 보고서를 수리했습니다.+즉시 모든 직위를 해제하고 현지 대기하여 처분을 기다리란 명령입니다.
+NPC-Carter(1)<Speaker>카터</Speaker>||:직위 해제라...+그뿐인가?
+NPC-Carter(1)<Speaker>병사</Speaker>||:...예.
+NPC-Carter(1)<Speaker>카터</Speaker>||:젤린스키가 선심 썼을 리가 없지.+아무래도, 상층부 사람들은 그래도 조국에 대한 나의 헌신을 참작해 준 모양이야.
+NPC-Carter(1)<Speaker>병사</Speaker>||:장군님...
+NPC-Carter(1)<Speaker>카터</Speaker>||:...예고르 대위의 가족은?
+NPC-Carter(1)<Speaker>병사</Speaker>||:예고르 대위는... 반역자로 낙인 찍혔습니다.+열사로 추서될 수 없어, 저희로선... 유족들의 거주지 이전을 돕는 것이 전부였습니다.
+NPC-Carter(1)<Speaker>카터</Speaker>||:참 슬프구나.
+NPC-Carter(1)<Speaker>병사</Speaker>||:장군님?
+NPC-Carter(1)<Speaker>카터</Speaker>||:조국을 위해 분투한 영령에게서 곱게 묻힐 권리까지 빼앗아 가다니.+이 나라는 이제 우리가 모든 것을 바쳤던 조국이 아니야.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:무수한 이름들이 새겨진 비석을 올려다보며, 카터는 품속에서 서류를 꺼냈다.
+()<Speaker>병사</Speaker>||:장군님, 그건...?
+NPC-Carter(1)<Speaker>카터</Speaker>||:...별볼일 없는 합의서일 뿐이네.
+()<Speaker></Speaker>||:손에 든 서류를 응시하던 카터는 돌연 몸을 돌려 공원 묘지의 출구로 발걸음을 옮겼다.
+()<Speaker>병사</Speaker>||:장군님? 장군님, 어디 가십니까!
+NPC-Carter(1)<Speaker>카터</Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><关闭蒙版>:국경으로.
+()<Speaker></Speaker>||<common_effect>%%code=DoomsdayClock03%%wait=1%%</common_effect>:
+()||<黑屏1>:
