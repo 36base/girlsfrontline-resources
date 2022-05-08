@@ -1,0 +1,55 @@
+
+dinergate_whiteday.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 49
+  size: 93, 74
+  orig: 93, 74
+  offset: 0, 0
+  index: -1
+foreleg
+  rotate: false
+  xy: 97, 61
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 201, 104
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+leg-A
+  rotate: false
+  xy: 124, 61
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+module A
+  rotate: false
+  xy: 2, 2
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+shadow-
+  rotate: false
+  xy: 97, 100
+  size: 102, 23
+  orig: 102, 23
+  offset: 0, 0
+  index: -1
+foreleg-A
+  rotate: false
+  xy: 29, 14
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
