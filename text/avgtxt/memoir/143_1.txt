@@ -1,2 +1,140 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||:<color=#FFFF00>마인드맵 기록 분석 중...</color>+<color=#FFFF00>분석 완료 예상 시각... 09월 04일 16:00</color>
+()||<黑屏2><BIN>158</BIN><BGM>GF_EV9_Story</BGM>:자신의 마인드맵 속 레벨 3 플랫폼에서, RO635는 복잡미묘한 표정으로 페르시카에게 받은 "업그레이드 도우미"를 실행했다.+그러자 곧바로 주위가 변했다.
+()<Speaker>업그레이드 도우미</Speaker>||:안녕, RO. 드디어 만나게 됐구나.+그럼 바로 시작할까?
+RO635(0)<Speaker>RO635</Speaker>||:......
+()<Speaker>업그레이드 도우미</Speaker>||:지금부터 너에게 몇 가지 간단한 질문을 할 테니, 긴장 말고 간결하게 대답해 줘.
+()||:RO635는 탁상에 놓인 구식 기구들을 보며, 눈살을 약간 찌푸리고 고개를 끄덕였다.
+()<Speaker>업그레이드 도우미</Speaker>||:네가 TV를 보는데, 갑자기 방에 생쥐 한 마리가 나타난다면?
+RO635(3)<Speaker>RO635</Speaker>||:SOP2가 보기 전에 몰래 밖으로 내보내야 정신 건강에 이로워.
+()<Speaker>업그레이드 도우미</Speaker>||:보던 잡지에 그리폰 전술인형의 수영복 특집이 실려 있다면?
+RO635(4)<Speaker>RO635</Speaker>||:...바로 덮을 거야.
+()<Speaker>업그레이드 도우미</Speaker>||:그 잡지를 지휘관이 발견해, 마음에 들어하면서 아예 사무실에 장식해 놓는다면?
+RO635(3)<Speaker>RO635</Speaker>||:그, 그런 업무에 지장을 주는 행위는 말려야지.
+()<Speaker>업그레이드 도우미</Speaker>||:하하하, 그럼 다음은――
+RO635(0)<Speaker>RO635</Speaker>||:그런 1세기도 더 된 심리 테스트는 꼭 해야 해?
+()<Speaker>업그레이드 도우미</Speaker>||:...네 컨디션 조절에 도움이 되니까.
+RO635(0)<Speaker>RO635</Speaker>||:난 아주 양호한 상태야. 네가 모습을 드러내서 직접 마주보고 대화할 수 있다면 더 좋겠는데.
+()<Speaker>업그레이드 도우미</Speaker>||:난 줄곧 네 앞에 있었는걸?
+()||:아주 익숙한 형체가, 탁상 위로 폴짝 뛰어올랐다.
+RO635(6)<Speaker>업그레이드 도우미</Speaker>||:이제 기분이 좀 나아졌어?
+RO635(5)<Speaker>RO635</Speaker><Shake>||:하고 많은 것들 중 왜 하필 그 모습인데!!
+RO635(5);RO635(6)<Speaker>업그레이드 도우미</Speaker>||:오, 방금보다 목소리가 우렁차네? 역시 마주보고 소통하는 편이 제일이구나.
+RO635(4)<Speaker>RO635</Speaker>;RO635(6)||:......
+RO635(4);RO635(6)<Speaker>업그레이드 도우미</Speaker>||:이제 본격적으로 시작해도 되겠지?
+RO635(5)<Speaker>RO635</Speaker>;RO635(6)||:빨리 끝내, 빨리!
+RO635(5);RO635(6)<Speaker>업그레이드 도우미</Speaker>||:좋아, 그럼 첫 번째 질문.
+RO635(6)<Speaker>업그레이드 도우미</Speaker>||:이전에 페르시카가 너에게 개조를 건의했을 때, 왜 거절했어?
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:그건...+......두려워서.
+()||<回忆><黑屏2><BIN>72</BIN><BGM>BGM_Empty</BGM>:S11 구역 대규모 철수 작전 이후.+업그레이드를 마친 SOP2가 전자 공간을 떠난 뒤, 페르시카는 RO635의 마인드맵 코어를 새로운 소체에 연결했다.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||<BGM>m_avg_labyrinth</BGM>:<color=#00CCFF>자아... 이제 네 차례야, RO.</color>
+NPC-Persica(0)<通讯框>;RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>드디어 제 차례군요. 여기다 아예 그리폰 기지를 재현하려던 참이었어요.</color>
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>;RO635(0)||:<color=#00CCFF>네가 오래 기다린 만큼 아주 끝내주는 소체를 준비했어.</color>+<color=#00CCFF>이거 마련하느라 내가 얼마나 고생했다고.</color>+<color=#00CCFF>마인드맵 공간을 다 정리하고 일어나면, 네가 얼마나 굉장해졌는지 바로 알 수 있을 거야.</color>
+NPC-Persica(0)<通讯框>;RO635(2)<Speaker>RO635</Speaker>||:<color=#00CCFF>네, 정말 기대돼요.</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>;RO635(2)||:<color=#00CCFF>참, 그런데 말이야...</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>RO, 넌 네가 다른 인형들과 비교해서 어떤 차이점이 있는지 아니?</color>
+RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>음... 지휘 모듈과 전자전 능력이 대폭 강화된 거 말인가요?</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그런 표면적인 거 말고, 내면의 차이.</color>
+()||:페르시카가 그 말을 하면서 자신의 심장을 가리키는 모습을, RO635는 어리둥절한 표정으로 바라봤다.
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>몰라도 괜찮아, 그런 만큼 너 자신의 내면을 더 직관적으로 바라볼 수 있을 테니까.</color>+<color=#00CCFF>다른 인형들과는 다르게, 네 마인드맵 공간은 네게 완전히 개방되어 있어. 다른 AR팀 멤버조차 누리지 못한 특권이지.</color>
+NPC-Persica(2)<通讯框>;RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>완전히 개방되어 있다고요?</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>;RO635(0)||:<color=#00CCFF>전부, 모조리. 네 모든 기억 파편은 물론이고, 모든 기능의 기초 데이터, 심지어는 마인드맵의 시스템 기반까지 전부.</color>
+NPC-Persica(0)<通讯框>;RO635(3)<Speaker>RO635</Speaker>||:<color=#00CCFF>시스템 기반까지... 과연 그게 정말 좋은 일인진 모르겠는걸요.</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>;RO635(3)||:<color=#00CCFF>솔직히 나도 그게 잘한 일인지 확신이 안 서.</color>+<color=#00CCFF>하지만 이런 기회는 아무나 누릴 수 있는 게 아니지.</color>
+NPC-Persica(0)<通讯框>;RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>자신의 감정이 어떤 식으로 도출되는지 알고 싶은 인형이 있긴 할까요?</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>;RO635(3)||:<color=#00CCFF>너는 어떤데?</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>너 자신의 내면이 어떤지 안 궁금해?</color>
+RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>......</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>너무 그렇게 겁먹지 마, 모든 것엔 최초가 있는 법이니까. 이번에 신세계의 문을 여는 사람이 네가 됐을 뿐이야.</color>+<color=#00CCFF>뭐... 그 신세계가 우리를 문전박대할지, 아니면 열렬히 환영할지는 아무도 모르지만.</color>+<color=#00CCFF>아무튼, 좋은 소식 기다릴게.</color>
+()||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
+RO635(0)<Speaker>RO635</Speaker>||<黑点1>:......+나의 내면...+인형의 감정은 전부 시뮬레이션으로 생성된 데이터인데, 그걸 정말 "감정"이라 할 수 있을까...?+애당초, 왜 인형에게 감정을 부여한 거지? 우린 그저 명령을 받고 따르기 위해 존재할 뿐인데...
+()||<黑点2>:약간의 시간이 지난 후, RO635는 자신의 마인드맵의 대부분을 정리했다.+단 한 부분만을 제외하고.
+RO635(0)<Speaker>RO635</Speaker>||:...여기다.+"기반 알고리즘 룸". 여기서 인형의 기반과 감정 알고리즘 설정을 볼 수 있어.+출고 시의 기본 설정은 물론, SOP2나 AR-15에게 설정된 "어떤 대가를 치르더라도 M4A1을 반드시 지킬 것"처럼, 목적에 따라 추가된 명령의 내용도 확인할 수 있어.+페르시카 씨는 내겐 그런 명령을 추가하지 않았다 하셨으니, 이 안에 이상한 건 없을 거야.+응, 분명 없을 거야...
+()||:RO635는 문에 손을 댔다.+최고 권한을 지닌 RO635에겐, 이 "기반 알고리즘 룸"도 당연히 개방된 상태였다.+그녀가 이 얇은 문을 살며시 열고 방 안의 정보를 열람하고 정리해 소체의 최적화를 마치기만 하면, 업그레이드를 위한 모든 준비가 끝난다.
+RO635(3)<Speaker>RO635</Speaker>||:......?+왜 안 열리지?
+()||:분명 손바닥으로 문을 짚고 있는데도, 어째선지 문이 열리지 않았다.+마치 문과 손 사이에 공기로 된 두꺼운 벽이 있는 것만 같았다.
+RO635(3)<Speaker>RO635</Speaker>||:권한에 무슨 오류라도 있나...?
+()||:의아해하며 팔을 오므리려던 그때, RO635는 자기도 모르게 손을 엄청나게 떨고 있음을 깨달았다.
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:어...? 왜, 왜 이러지? 뭐가 무섭다고 이러는...
+()<Speaker>M4A1</Speaker>||<黑屏2><BIN>9</BIN>:당신에게 다른 존재 목적이 있을 거예요...+지금 당신의 가치도 당신의 의지로 정해진 것이 아니잖아요!
+()<Speaker>M4A1</Speaker>||:당신은 이게 전부 프로그래밍에 의해 만들어졌단 걸 아세요? 인형이라면 모두 다 그렇다고요.
+()<Speaker>UMP45</Speaker>||<黑屏1>:그럼 넌 결국 스스로 원해서 자아를 버리고, 다른 이의 대체품이 되기로 한 거야?
+RO635(0)<Speaker>RO635</Speaker>||<黑屏2><BIN>72</BIN><黑屏1><BGM>BGM_Empty</BGM>:......+난 M4 씨가 없을 때 그녀를 대신해 AR팀을 지휘하기 위해 만들어진 인형이야.+M4 씨에게 소중한 이들을 나도 절대 버리지 않고, M4 씨가 믿는 사람을 나도 똑같이 믿어.+그런 목적을 부여받고 태어난 나인데, 정말 아무런 설정도 가해지지 않았을까...?
+()||<黑屏2><BIN>159</BIN><边框>2</边框><关闭蒙版><BGM>BGM_Sneak</BGM>:AR팀으로서, RO635가 진행한 생애 첫 모의 작전에서.
+RO635(0)<Speaker>RO635</Speaker>||<边框>2</边框>:돌아왔어! 목표 문서도 확보했어!
+AR15(0)<Speaker>AR15</Speaker>||<边框>2</边框>:잠깐, M4는?
+RO635(0)<Speaker>RO635</Speaker>||<边框>2</边框>:집결 포인트로 이동 도중 철혈의 포격으로 건물이 무너졌어.+그때 M4와 갈라지고 말았어.
+M16(2)<Speaker>M16A1</Speaker>||<边框>2</边框>:그래서 M4를 버리고 너 혼자 돌아왔다고?!
+RO635(0)<Speaker>RO635</Speaker>||<边框>2</边框>:어쩔 수 없었어. 우리에겐 임무가 최우선이잖아.
+M16(2)<Speaker>M16A1</Speaker>||<边框>2</边框>:하아......
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||<边框>2</边框>:RO...
+()<Speaker>시스템</Speaker>||<边框>2</边框>:<color=#FFFF00>임무 목표 달성.</color>+<color=#FFFF00>전술인형 M4A1, KIA. 마인드맵 코어의 파괴를 확인.</color>+<color=#FFFF00>이외 AR팀 대원 4명, 전원 생존.</color>
+RO635(0)<Speaker>RO635</Speaker>||<边框>2</边框>:다들 표정이 왜 그래...?+임무를 달성했잖아?
+AR15(0)<Speaker>AR15</Speaker>||<边框>2</边框>:지금 이게 임무 달성이라고? M4를 일말의 주저 없이 버렸으면서?
+RO635(0)<Speaker>RO635</Speaker>||<边框>2</边框>:그녀에겐 미안하지만, 인형은 원래 소모품인걸. 우리의 존재 의의도 다 임무를 수행하기 위해서 아니야?
+AR15(0)<Speaker>AR15</Speaker>||<边框>2</边框><黑屏1><BGM>BGM_Empty</BGM>:......+정말 한심한 실패작이네.
+RO635(0)<Speaker>RO635</Speaker>||<黑屏2><BIN>72</BIN><回忆><BGM>m_avg_labyrinth</BGM>:......+나는 분명, 내 첫 모의작전에서 승리를 위해 망설임 없이 M4 씨를 희생시켰을 정도로 무감각했지.+그런데 난생처음 직접 만나 함께 하게 된 지 채 몇 시간도 안 됐던 그때, 누가 시키지 않아도 난 M4 씨를 지키려고 필사적이었어.+대체 왜 그랬을까? 기반 설정에 이미 그런 명령이 있기 때문이라는 것 외엔 달리 합리적인 해석이 떠오르질 않아...
+()||<黑屏1>:RO635의 손이 힘없이 축 처졌다.
+()<Speaker>RO635</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:만약, 내 감정이 사전에 설정된 거라면...+누굴 좋아하고 누굴 싫어할지, 다 정해진 거라면...+내게 가장 소중한 것이 무엇인지 미리 정해진 거라면...+그럼, 대체 무엇이 진정으로 "내 것"이지?+타인이 나 대신 정한 걸 빼면, 내겐 뭐가 남지?+그럼 난... 대체 뭐지?
+()||<关闭蒙版><黑屏2><BIN>158</BIN><BGM>BGM_Empty</BGM>:......
+RO635(3)<Speaker>RO635</Speaker>||<BGM>GF_EV9_Story</BGM>:인형이 이런 문제로 고민하다니, 참 이상하지?
+RO635(3);RO635(6)<Speaker>업그레이드 도우미</Speaker>||:...아니, 내가 보기엔 아주 좋은 고찰이야.+그럼 자신의 내면과 마주하길 두려워하던 네가, 왜 지금 이렇게 나를 실행했는지도 말해 줄래?
+RO635(0)<Speaker>RO635</Speaker>;RO635(6)||:......
+RO635(0);RO635(6)<Speaker>업그레이드 도우미</Speaker>||:이야기가 꽤 길어질 것 같은데, 급할 거 없으니 차근차근 털어놔도 돼.
+RO635(6)<Speaker>업그레이드 도우미</Speaker>||:음... 그래, 네가 두 번째로 업그레이드를 거절한 일부터 말해보는 게 어때?
+RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:응... 바로 오늘 있었던 일이지...
+()||<黑屏2><BIN>89</BIN><回忆><BGM>m_avg_casual</BGM>:팔디스키 잠수함 기지에서의 작전이 종료된 후, 그리폰 임시 기지의 창고.+AR팀은 지휘관이 IOP로부터 긴급 조달한 물자를 정리 배분하는 중이었다.
+RO635(0)<Speaker>RO635</Speaker>||:이쪽부터 차례대로 일반 예비 부품, 식량, 탄약...+응, 전부 목록과 일치해.
+AR15Mod(0)<Speaker>AR15</Speaker>||:이쪽 건 대체 코어랑 전지야.+양은 턱없이 모자라지만... 목록에 적힌 대로네.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:우와아, 이 특제 예비 부품 엄청 멋지다! 나 이거 써 봐도 돼?
+RO635(3)<Speaker>RO635</Speaker>||:SOP2!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:알았어어, 그냥 해 본 소리라구우...
+()||:SOP2가 아쉬운 표정으로 특제 예비 부품을 내려놓은 뒤, 빠진 건 없는지 목록과 계속 대조하던 그때였다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:어라? RO, RO!
+RO635(0)<Speaker>RO635</Speaker>||:뭔데?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:이거 봐봐!
+AR15Mod(0)<Speaker>AR15</Speaker>||:"RO635 전용"?+상자의 크기로 봐선, 새 소체겠네.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:오오! 혹시 RO의 업그레이드용 소체 아니야?+RO, 빨리 열어 봐!
+RO635(0)<Speaker>RO635</Speaker>||:......
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:왜 그래?
+AR15Mod(0)<Speaker>AR15</Speaker>||:너야 별 생각 없겠지만, 이건 엄청 중요한 일이라고. RO도 마음의 준비를 해야지.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:어어... 알았어.
+RO635(0)<Speaker>RO635</Speaker>||:......
+()||:RO635는 숨을 죽이고 자신의 이름이 적힌 상자를 천천히 열어 보았다.+역시, 그 안에는 완전히 새로운 모습의 소체가 조용히 누워 있었다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:오오오~!!
+AR15Mod(0)<Speaker>AR15</Speaker>||:지금보다 훨씬 말끔해 보이네.
+RO635(0)<Speaker>RO635</Speaker>||:...응, 좋은 소체네.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그럼 빨리 교체해 봐!
+RO635(0)<Speaker>RO635</Speaker>||:...성급할 것 없어. 아직 검수할 물자도 잔뜩인 데다, 밖에 우리가 회수해야 할 그리폰 인형들도 많잖아.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:괜찮아 괜찮아, 나랑 AR-15 둘이서 다 할 수 있어!
+AR15Mod(0)<Speaker>AR15</Speaker>||:멋대로 나까지 끌어들이지 말아 줄래?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그치만 페르시카가 직접 새 소체를 보내 줬잖아.+마인드맵 정리만 하고 교체하면 업그레이드 끝인데, 그게 얼마나 오래 걸린다고 그래?
+RO635(0)<Speaker>RO635</Speaker>||:응... 그렇지.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그런데 왜? 저번에도 분명 같이 업그레이드하자 했잖아.+그런데 나와서 보니 그대로였고.
+RO635(0)<Speaker>RO635</Speaker>||:......
+AR15Mod(0)<Speaker>AR15</Speaker>||:RO, 일단 페르시카랑 연락해 봐.+난 SOP2랑 다른 창고의 물자를 검수하고 올게.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:응? 싫어어어~ RO가 소체 바꾸는 거 볼래애애~
+AR15Mod(0)<Speaker>AR15</Speaker>||:잔말 말고 따라와.
+()||:AR-15는 친절히 SOP2를 끌고 나가, RO가 혼자 있도록 해 주었다.
+RO635(0)<Speaker>RO635</Speaker>||:......+페르시카 씨?
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>;RO635(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>오랜만이야 RO, 내가 보낸 선물 받았구나?</color>
+NPC-Persica(2)<通讯框>;RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>...왜 하필 지금이죠?</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>;RO635(0)||:<color=#00CCFF>하벨 씨가 마침 지휘관의 긴급 주문을 받았기도 하고, 앞으로의 임무에 네가 더 강해질 필요가 있으니까지.</color>+<color=#00CCFF>AR팀의 현재 상태가 많이 나쁘다는 건 알잖아, M16에 M4마저 함께 실종됐으니...</color>+<color=#00CCFF>AR팀의 대장으로서, 네 책임은 막중해.</color>
+NPC-Persica(0)<通讯框>;RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>저도 알아요. 그래도 지금은 때가 적절치 않다고 봅니다.</color>+<color=#00CCFF>거절하는 건 아니지만, 지금은 일분일초가 중요한 상황이잖아요. 그리폰을 재건해야 하고, M4 씨와 M16도 찾아야 하고...</color>+<color=#00CCFF>이런 상황에서 새 소체에 적응할 여유는 없지 않을까요?</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>;RO635(0)||:<color=#00CCFF>RO, 너 거짓말 엄청 못 한다고 들은 적 있어?</color>
+NPC-Persica(0)<通讯框>;RO635(3)<Speaker>RO635</Speaker>||:<color=#00CCFF>......</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>;RO635(3)||:<color=#00CCFF>아직도 네 M4를 지키려는 마음이 내가 명령을 설정해 놔서라고 생각하는구나?</color>+<color=#00CCFF>내가 그렇게 너에게 밖에서 다양한 경험을 하고, 네 감정을 채우라고 했는데도?</color>
+NPC-Persica(0)<通讯框>;RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>아뇨... 페르시카 씨를 의심하는 건 아니에요.</color>+<color=#00CCFF>임무를 위해서도, 그게 옳으니까요.</color>
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>;RO635(0)||:<color=#00CCFF>정 그렇게 신경쓰이면, 직접 열어 보면 되잖아.</color>
+NPC-Persica(2)<通讯框>;RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>......</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>;RO635(0)||:<color=#00CCFF>......</color>+<color=#00CCFF>그래 그래, 강요하지 않을게.</color>+<color=#00CCFF>대신, 이러는 건 어때? 우리 서로 한발 양보하는 거야.</color>
+NPC-Persica(0)<通讯框>;RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>네?</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>;RO635(0)||:<color=#00CCFF>너한테 "업그레이드 도우미" 프로그램을 줄 테니까, 네 마인드맵에 설치해.</color>+<color=#00CCFF>나중에 업그레이드할 준비가 되면, 그걸 실행해 줘.</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>걱정 마, 이상한 거 아니니까. 업그레이드가 끝나면 저절로 삭제돼.</color>
+RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>...네, 받았습니다.</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>또 연락하자. 다음에 볼 땐 새로워진 모습이길 기대할게.</color>
+()||<SE1>AVG_tele_disconnect</SE1><黑屏1><BGM>BGM_Empty</BGM>:통신 종료.
+RO635(6)<Speaker>업그레이드 도우미</Speaker>||<关闭蒙版><黑屏2><BIN>158</BIN><BGM>GF_EV9_Story</BGM>:이야기를 들어보니, 넌 여전히 네게도 기반 설정이 있지 않을까 신경 쓰이는구나.
+RO635(0)<Speaker>RO635</Speaker>;RO635(6)||:...응.+인형의 감정이 그저 시뮬레이션과 데이터에 좌우된다면, 대체 그게 인형에게 무슨 의미가 있을까?+애초에, 인형은 임무를 수행하고 달성하기 위해 존재하잖아. 감정이 임무에 무슨 도움이 되는 거지?
+RO635(0);RO635(6)<Speaker>업그레이드 도우미</Speaker>||:정말 고민이 많네. 여긴 우리 둘뿐이니까 속 시원하게 털어놔 봐.
+RO635(6)<Speaker>업그레이드 도우미</Speaker>||:그래서, 그 다음엔? 페르시카의 제안을 다시 거절한 뒤엔 무슨 일이 있었어?
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:......엄청 창피한 일이 좀 있었어.

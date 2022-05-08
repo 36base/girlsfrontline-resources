@@ -1,2 +1,74 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||:<color=#FFFF00>마인드맵 기록 분석 중...</color>+<color=#FFFF00>분석 완료 예상 시각... 02월 26일 16시 00분</color>
+()<Speaker>시스템</Speaker>||<黑屏2><BIN>9</BIN>:복구하려는 전술인형의 코드네임을 확인 - [56식 반]
+()<Speaker>시스템</Speaker>||:클라우드 마인드맵의 백업이 존재합니다. 백업 시기 - 36시간 전.+다운로드하겠습니까?
+()<Speaker>시스템</Speaker>||:마인드맵 백업 다운로드 시작. 잠시만 기다려 주십시오...+......+............+마인드맵 다운로드 완료. 소체를 가동합니다.+......
+()<Speaker>56식 반</Speaker>||:......으음?
+()<Speaker>여성의 목소리</Speaker>||:아 56반, 드디어 깨어났구나!+방금 소체가 가동되다 말고 전원이 나가길래 얼마나 걱정했는데.
+()<Speaker>56식 반</Speaker>||:이 목소리... 카리나 씨예요?
+()<Speaker>카리나의 목소리</Speaker>||:목소리? 지금 네 앞에 있잖아, 나 안 보이니?
+()<Speaker>다른 목소리</Speaker>||:엥? 뭐야 56반, 너 눈이 안 보여?
+()<Speaker>56식 반</Speaker>||:56-1?
+()<Speaker>56-1식의 목소리</Speaker>||:응, 나 여기 있어. 지금 어때?
+()<Speaker>56식 반</Speaker>||:깜깜해서 하나도 안 보여...
+()<Speaker>카리나의 목소리</Speaker>||:그거 이상하네...+시각 모듈의 프로그램이 고장났나? 기다려 봐, 내가 조정해볼게.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:......
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>22</BIN>:......
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:이제 어때? 아 다행이다, 동공이 초점 조절하네.
+NPC-Kalin(4);56typeR(0)<Speaker>56식 반</Speaker>||:네... 모듈 정상 작동. 이제 보여요.+감사합니다, 카리나 씨.
+NPC-Kalin(4)<Speaker>카리나</Speaker>;56typeR(0)||<BGM>BGM_Hello</BGM>:미안해, 네가 눈을 떠서 멀쩡한 줄 알았어.+오류 로그도 안 나왔지만 뭐어 처음 있는 일도 아니니.
+56-1type(0)<Speaker>56-1식</Speaker>;56typeR(0)||:그야 그렇겠죠, 56반이가 얼마나 자주 작전 중에 파괴되는데요!+마인드맵을 이렇게 자주 올렸다 받았다 덮어씌워 봐요, 누구라도 잔고장이 안 날 수가 없지.
+56-1type(0);56typeR(0)<Speaker>56식 반</Speaker>||:아하하, 그런 거였구나.
+56-1type(0)<Speaker>56-1식</Speaker>;56typeR(0)||:그래도 네 잘못 아니니까 너무 걱정 마. 전장에서 무슨 일이 일어날지는 아무도 모르잖아.+아무튼, 네가 무사 복귀해서 정말 다행이야!
+56-1type(0);56typeR(0)<Speaker>56식 반</Speaker>||:고마워, 다음엔 더 조심할게.
+56-1type(0)<Speaker>56-1식</Speaker>;56typeR(0)||:으이구 항상 그렇게 말하면서... 아무튼 힘내자!+너도 이제 괜찮겠다, 난 얼른 숙소 가서 애들한테 식사 준비시킬게. 이따 봐!
+56typeR(0)<Speaker>56식 반</Speaker>||<SE1>AVG_door_elecport</SE1>:응, 이따 봐.
+NPC-Kalin(3)<Speaker>카리나</Speaker>;56typeR(0)||:......
+NPC-Kalin(3);56typeR(0)<Speaker>56식 반</Speaker>||:...? 왜 그러세요?
+NPC-Kalin(3)<Speaker>카리나</Speaker>;56typeR(0)||:56-1식은, 네가 동료들을 지키려다 다쳤다는 걸 모르네?
+NPC-Kalin(4)<Speaker>카리나</Speaker>;56typeR(0)||:그러다 쟤네들이 아예 널 지키겠다고 나서서 소대의 팀워크에 지장이 가는 건 아닐까 걱정되는걸.
+NPC-Kalin(4);56typeR(0)<Speaker>56식 반</Speaker>||:그런가요...?
+NPC-Kalin(4)<Speaker>카리나</Speaker>;56typeR(0)||:56반 너 평소에 다른 애들이랑 잘 어울리는 편이야?
+NPC-Kalin(4);56typeR(0)<Speaker>56식 반</Speaker>||:어... 그럭저럭요. 같이 밥 먹고, 훈련하고, 운동하고...
+NPC-Kalin(0)<Speaker>카리나</Speaker>;56typeR(0)||:듣기엔 괜찮네. 쓸데없는 걱정이었나?
+NPC-Kalin(2)<Speaker>카리나</Speaker>;56typeR(0)||<SE1>AVG_tele_connect</SE1>:아, 지휘관님한테서 통신이다.
+NPC-Kalin(2);56typeR(0)<Speaker>56식 반</Speaker>||:저도 슬슬 근무 복귀해야겠네요. 다음에 봐요, 카리나 씨.
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:그래~ 아, 작전 나가기 전에 화기관제 시스템 점검하는 거 잊지 마!
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:네 지휘관님, 무슨 일이세요?+마침 56반이랑 얘기한 참이에요, 방금 막 마인드맵 백업이 끝났거든요.
+NPC-Kalin(1)<Speaker>지휘관</Speaker>||:<color=#00CCFF>56반이? 설마 또...</color>
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:네... 이번 달에만 벌써 두 번째예요.+게다가 이번엔 다운로드 과정에서 고장이 있어서, 마인드맵의 상태가 걱정돼요.
+NPC-Kalin(4)<Speaker>지휘관</Speaker>||:<color=#00CCFF>음, 나도 지금 오류 로그 받았는데, 이거 정비 매뉴얼에도 없는 현상이네... 처리하려면 시간이 좀 걸리겠다.</color>+<color=#00CCFF>56반의 소대는 어떤지 확인했어?</color>
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:듣기만으론 문제없어 보이지만...+그 애가 다 호의에서 비롯된 거라지만 동료들한테 숨기는 일이 많아요.+지휘관님이 직접 이야기해보시는 게 어떨까요?
+NPC-Kalin(4)<Speaker>지휘관</Speaker>||:<color=#00CCFF>아무래도 그러는 게 좋겠다.</color>+<color=#00CCFF>하지만 카리나 너도 너무 걱정할 것 없어, 오늘 아침에 56반의 예정을 앞당기로 했거든.</color>
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:와아, 정말요? 다행이네요!
+NPC-Kalin(1)<Speaker>지휘관</Speaker>||:<color=#00CCFF>곧 모두를 깜짝 놀라게 할 테니, 걔보고 푹 쉬고 있으라 해야지.</color>
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:네!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_whitenoise</SE1><BGM>BGM_Empty</BGM>:......
+()<Speaker>시스템</Speaker>||:데이터 스트림의 흐름을 재확인 중...+클라우드 마인드맵의 백업이 존재합니다. 백업 시기 - 36시간 전.+다운로드하겠습니까?
+()<Speaker>시스템</Speaker>||:마인드맵 백업 다운로드 시작. 잠시만 기다려 주십시오...+......+............+마인드맵 다운로드 완료. 소체를 가동합니다.+......
+()<Speaker></Speaker>||:......
+()<Speaker>56-1식</Speaker>||:좋아, 오늘 회의는 56반의 얘기를 하자.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>80</BIN><BGM>GF_Cafe</BGM>:......
+64type(0)<Speaker>64식</Speaker>||:네, 56반의 전투 능력 향상을 돕는 거 말이죠?
+63type(0)<Speaker>63식</Speaker>||:솔직히 우리 실력으로 얼마나 도움이 될지 의문인데...+그나저나, 뭐 안 먹어? 나 배고픈데.
+56-1type(0)<Speaker>56-1식</Speaker>||:그건 나중에!+오늘 56반이 재가동할 때 고장이 있었는데, 아무래도 너무 자주 수복해서 그런 거 같아.+그러니까 56반이 뒤처지지 않도록, 그리고 우리 소대의 미래를 위해서 모두 아이디어 좀 내 봐.
+64type(0)<Speaker>64식</Speaker>||:으음... 근본적인 문제를 해결하려면 역시 56반 본인과 직접 소통하는 편이 좋을 텐데요.
+63type(0)<Speaker>63식</Speaker>||:걔는 평소에 그런 얘기 잘 안 하잖아. 그야 뭐 파괴되면 그간의 기억이 날아가는 탓도 있지만.
+64type(0)<Speaker>64식</Speaker>||:56반이 일부러 숨긴다는 생각은 안 들어요?
+56-1type(0)<Speaker>56-1식</Speaker>||:응? 왜?
+63type(0)<Speaker>63식</Speaker>||:부끄러워서 아닐까? 생각해 봐, 평소에도 56반은 우리 대화를 따라오질 못해서 그냥 옆에서 듣기만 하잖아.
+64type(0)<Speaker>64식</Speaker>||:그야 56반이 최신 트렌드를 전혀 몰라서겠죠.
+56-1type(0)<Speaker>56-1식</Speaker>||:어쩌면... 같이 할 만한 대화 주제가 없어서 그럴지도.
+63type(0)<Speaker>63식</Speaker>||:걔 취향이 너무 구닥다리라서?
+56-1type(0)<Speaker>56-1식</Speaker>||:어...+맞는 말이지만 그대로 입밖으로 내진 마, 만약에라도 본인 귀에――
+()<Speaker>56식 반의 목소리</Speaker>||<SE1>AVG_door_elecport</SE1>:어라, 지금 내 얘기 중이야?
+56-1type(0)<Speaker>56-1식</Speaker><Shake>0.1</Shake>||:드러허헙 56반아 벌써 왔어!? 아아아니야 지금 네 얘기하는 거 아니......?
+56-1type(0)<Speaker>56-1식</Speaker>||<震屏3>:5... 56반 너...?!
+63type(0)<Speaker>63식</Speaker>||:헐!? 너, 너너너 어떻게 된...?!
+64type(0)<Speaker>64식</Speaker>||:와아... 해가 서쪽에서 떴네요.
+()||<黑屏1>:
+()<Speaker>56식 반</Speaker>||<黑屏2><BIN>9</BIN>:헤헤헤~!
+()||<黑屏1>:

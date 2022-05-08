@@ -48,15 +48,15 @@ NPC-Jason(1)<Speaker>K</Speaker>||:<color=#00CCFF>역시. 조심해라, 분대 �
 NPC-Jason(1)<Speaker>지휘관</Speaker>||:알았다. 일단 안젤리아와 연락해서 어떻게 할지 판단하지.
 NPC-Jason(1)<Speaker>K</Speaker>||:<color=#00CCFF>통신이 가능할까?</color>
 NPC-Jason(1)<Speaker>지휘관</Speaker>||<SE1>AVG_tele_disconnect</SE1>:전파 방해도 사라졌으니 될 거야. 그럼 끊는다.
-()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_connect</SE1>:안젤리아, 내 말 들리나?
+()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_connect</SE1>:안젤리아 씨, 제 말 들립니까?
 NPC-Ange(1)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>잘 들려.</color>+<color=#00CCFF>지금 바쁘니까 짧게 말해.</color>
-NPC-Ange(1)<Speaker>지휘관</Speaker>||:폭탄 설치 완료했고, 언제든지 터뜨릴 수 있어.+그쪽 상황은 어떻지?
+NPC-Ange(1)<Speaker>지휘관</Speaker>||:폭탄 설치를 완료하여, 언제든지 터뜨릴 수 있습니다.+그쪽 상황은 어떻습니까?
 NPC-Ange(1)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>예고르가 지하 2층으로 진입해서 지금 리벨리온과 함께 추격 중이야.</color>+<color=#00CCFF>AR팀은 아직 지하 1층에서 다른 기갑들과 교전 중인데, 현재 상황은 나도 몰라.</color>+<color=#00CCFF>상황이 좋지 않으니까, 언제든지 터뜨릴 수 있도록 준비해.</color>
-NPC-Ange(1)<Speaker>지휘관</Speaker>||:알았다. 그럼 언제 철수할 거지?
+NPC-Ange(1)<Speaker>지휘관</Speaker>||:알겠습니다. 그럼 언제 철수할 겁니까?
 NPC-Ange(1)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>우리가 철수하든 말든, 아무리 늦어도 5분 후에 자동 폭발하도록 설정해.</color>+<color=#00CCFF>너도 그동안 가능한 한 높은 곳으로 대피하고.</color>
-NPC-Ange(1)<Speaker>지휘관</Speaker>||:군을 제압할 수 있다면 이런 수단까지 동원할 필요는 없지 않아?
+NPC-Ange(1)<Speaker>지휘관</Speaker>||:군을 제압할 수 있다면 이런 수단까지 동원할 필요는 없지 않습니까?
 NPC-Ange(1)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>상황이 변했어. 지금 스타피쉬가 작동하려는 낌새가 있어.</color>+<color=#00CCFF>방심했어... 예고르를 막더라도, 전에 스피라에나 코어와 접촉한 적이 있는 M16이 스타피쉬 가동 권한을 가졌을지도 모른다는 생각을 했어야 했는데.</color>+<color=#00CCFF>하여간, 애당초 존재해서는 안 되는 기지였어. 지금 상황에선 임기응변으로 대처할 수밖에.</color>
-NPC-Ange(1)<Speaker>지휘관</Speaker>||<SE1>AVG_tele_disconnect</SE1>:알았다. 모두를 대피시킬 수 있도록 노력하겠다. 통신 종료.
+NPC-Ange(1)<Speaker>지휘관</Speaker>||<SE1>AVG_tele_disconnect</SE1>:알겠습니다. 모두를 대피시킬 수 있도록 노력하겠습니다. 통신 종료.
 ()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_connect</SE1>:M4, 지휘관이다. 그쪽 상황은 어떻지?
 NytoIsomer(3)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>댄들라이입니다, 지휘관님. AR팀은 현재 전투에 전념하고 있습니다. 그 옛 대원도 현장에 나타났습니다.</color>
 NytoIsomer(3)<Speaker>지휘관</Speaker>||:교전 중지하고 복귀하라 전달해.+스타피쉬가 가동하려는 낌새가 보인다는 안젤리아의 연락을 받았다. 5분 후에 수문을 폭파하겠어.

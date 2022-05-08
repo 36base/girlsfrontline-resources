@@ -1,0 +1,74 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>276</BIN><BGM>BGM_Room</BGM>:민병대를 도와 조금 전의 전투로 인한 부상자들을 이송한 뒤, 파파샤는 파블로프를 따라 아파트의 관리실로 들어갔다.
+()<Speaker>민병</Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:아, 파블로프 씨! 무사하셨군요!
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:그래, 모두 수고가 많아. 부상자가 생겼으니 가서 돌봐주게.
+()<Speaker>민병</Speaker>||:알겠습니다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:관리실을 지키던 민병대원은 고개를 끄덕이곤 나가면서 문을 닫았다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:......+여기 있는 분들 모두 동료인가요?
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:원래부터는 아니지. 저들은 이동하다 습격을 받아 이 건물로 대피했네.+대장이 후퇴를 엄호하다 전사해서, 마침 복무 경험이 있는 내가 지휘권을 넘겨받게 됐지.
+()<Speaker></Speaker>||:파블로프는 파파샤의 질문에 대답하며 자신의 훈장을 살폈다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리고 거기에 얼룩이 묻은 것을 보자, 바로 떼어내 조심조심 닦기 시작했다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:......+그건...?
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:아... 미안하네, 오랜 버릇이라...
+()<Speaker></Speaker>||:깨끗이 닦은 훈장을 손바닥 위에 올려놓고, 파블로프는 말을 이었다.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:이건 우리 집안에 대대로 내려온 조상님이 받으신 훈장이네, 침략자에 맞서 용맹하게 싸우셨지. 뭐어... 결국 집으로 돌아온 것은 이 두 훈장뿐이지만.+그래도, 지금 이렇게 반군놈들이 쳐들어왔으니 그분처럼 나도 용감해지길 바라면서 단 거야.
+PPSh41(0)<Speaker>파파샤</Speaker>||:그렇군요...
+()<Speaker></Speaker>||:훈장의 유래를 들은 파파샤는 더욱 존경심이 솟아났다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:참, 파블로프 씨?+의뢰인이 파블로프 씨도 이 구출 작전에 대해 아신다고 했는데요.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:미안하네만, 놈들이 계속 통신망을 차단하는 통에 그들과 연락을 주고받을 수가 없었어.+그러니 돌아가서 대신 그 의뢰인에게 말해 주겠나? 여기에 지켜야 할 사람들이 많이 있으니, 작전은 취소하자고.
+PPSh41(0)<Speaker>파파샤</Speaker>||:하, 하지만...
+()<Speaker>전방의 민병</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>파블로프 씨, 외부 진지입니다!</color>+<color=#00CCFF>놈들이 또 왔어요! 지금 저지 중이긴 한데, 가능하면 빨리 지원 보내 주세요!</color>
+PPSh41(0)<Speaker>파파샤</Speaker>||:......
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:알았네, 금방 가지.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||<SE1>AVG_tele_connect</SE1>:여기는 파블로프. 수비 병력에게 전한다. 외부 진지 지원 준비하라.
+()<Speaker>민병</Speaker>||:<color=#00CCFF>예!</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:파블로프가 통신을 종료하고 일어나자, PPSh-41이 앞을 가로막았다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:파블로프 씨, 또 전선으로 나가시려고요?
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:적이 처들어오면 반격한다, 그뿐이지.
+PPSh41(0)<Speaker>파파샤</Speaker>||:하지만 인간에게 군용인형은 매우 위험한 상대예요, 방금 전투 결과를 보고 적은 이번에 분명 더 많은 병력을 보냈을 거예요.+이런 상황에서 건물에서 벗어나 적을 요격하는 건 너무 위험해요.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:충고 고맙네, 하지만 지금 병력이 부족하니 어쩔 수가 없어.
+PPSh41(0)<Speaker>파파샤</Speaker>||:파블로프 씨, 당신은 방산업 기술 전문가이시고, 의뢰측에서 당신의 신변을 무척 걱정하고 있어요, 되도록이면 이런 모험은 하지 말아주세요...
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:방금 말했지, 구조 작전은 취소다, 자네가 고집부릴 필요는 없어!
+PPSh41(0)<Speaker>파파샤</Speaker>||:죄송합니다... 하지만 전 반드시 명령을 수행해야 해요, 부디 협조 바랍니다, 파블로프 씨.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:너...!
+()<Speaker></Speaker>||<SE1>AVG_Broken_Glass</SE1><BGM>BGM_Empty</BGM>:쨍그랑!
+()<Speaker></Speaker>||:창문 유리가 갑자기 깨져 대화를 끊었다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:...앗...+적이에요!
+()<Speaker></Speaker>||<SE1>AVG_Gatling_gun</SE1><震屏3><BGM>BGM_Danger</BGM>:타타탕!!
+()<Speaker></Speaker>||:파파샤와 파블로프는 동시에 벽구석으로 몸을 던졌고, 곧바로 총소리가 터졌다.
+()<Speaker></Speaker>||:총알들이 유리를 깨고 방 안의 물건을 박살냈다.
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:이 혼란 속에서 파파샤는 신속히 주변 상황을 탐지했다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:군용인형이에요, 수는 약 다섯!
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:빌어먹을, 여기까지 숨어 들어온 건가.
+()<Speaker></Speaker>||:말하던 사이에 군용인형 한 기가 창문을 넘어 관리실 안에 들어왔다.+상대가 총을 들기 전에 파파샤가 방아쇠를 당겼다.
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=5</controll_shake><SE1>AVG_The_Division_Machine_Gun_Tower_Shooting</SE1>:총알 세례가 군용인형의 제어 시스템을 박살냈고, 상대는 그대로 털썩 쓰러졌다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:이쪽으로!
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1><SE1>AVG_Gunfire</SE1><BIN>270</BIN>:그틈을 타서 파파샤는 파블로프를 끌고 관리실에서 나갔다.
+()<Speaker></Speaker>||:수비 중인 민병들은 프론트에서 군용인형을 막고 있었지만, 아파트 안에 유효한 엄폐물이 적어서, 전투 중에 계속 총알을 맞고 쓰러지는 사람이 생겼고, 군용인형은 거침없이 다가왔다.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:큰일이다, 모두가 위험해!
+PPSh41(0)<Speaker>파파샤</Speaker>||:파블로프 씨, 함부로 움직이지 마세요!
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:적이 벌써 여기까지 쳐들어왔는데 나 보고 숨어있으라는 거냐!?
+PPSh41(0)<Speaker>파파샤</Speaker>||:전 당신의 안전을 지켜야만 해요!+으음... 여긴 일단 제게 맡기세요!
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:파블로프를 진정시키고, 파파샤는 적이 재장전하는 빈틈을 노려 프론트 중 엄폐가 비교적 양호한 구역으로 몸을 던졌다.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타타탕!+군용인형 하나가 총성과 함께 쓰러졌다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:좋아, 하나 처치, 다음...
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타탕!
+()<Speaker></Speaker>||:파파샤를 눈치챈 군용인형은 뒤늦게 반격했지만, 차례대로 파파샤에게 쓰러졌다, 두 기째, 세 기째...
+PPSh41(0)<Speaker>파파샤</Speaker>||:!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:프론트에 군용인형이 하나만 남았을 때, 파파샤의 드럼탄창이 바닥나 철컥 소리를 냈다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:하필 이 순간에...!
+()<Speaker></Speaker>||<SE1>Select</SE1>:군용인형이 공격을 퍼붓기 전에 파파샤는 권총을 뽑았다.+자신의 각인 무기가 아니기 때문에 최대한 거리를 좁혀야 했다.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_rifle_finalshot_3h</SE1>:탕! 탕! 탕!
+()<Speaker></Speaker>||:총성이 연달아 울리고...+마지막 인형까지 쓰러졌다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:휴우...+<color=#A9A9A9>이걸로 마지막... 아니야!</color>
+()<Speaker></Speaker>||:파파샤는 고개를 번쩍 들었다, 지하실에 커다란 열원이 감지된 것이다.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:잠깐, 그쪽은——!
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1><BIN>88</BIN>:쾅!
+()<Speaker></Speaker>||:파파샤는 총을 들고 지하실의 문을 몸으로 부딪혀 열었다, 그러나 눈에 들어온 것은 군용인형이 아닌...
+()<Speaker>소녀</Speaker>||<BGM>BGM_Empty</BGM>:할머니, 좀 가만히 있어요, 밖에 위험하단 말이에요!
+()<Speaker>노파</Speaker>||:위험하다니? 놈들이 벌써 문앞까지 왔어, 이 할미가 박살내 주갔어!
+()<Speaker></Speaker>||:머리가 새하얗게 샌 할머니가 옆의 여자애가 말리는 것을 듣지 않고 지팡이로 군용인형을 박살내려고 달려들었다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:......+노인과... 어린아이...?
+()<Speaker>노파</Speaker>||:엥?
+()<Speaker></Speaker>||:파파샤와 파블로프가 들어오는 걸 보자 노인과 아이는 바로 조용해졌다.+그리고 그들 뒤에, 파파샤는 지하실 안엔 온통 이런 노약자와 어린아이들로 가득한 것을 봤다.
+()||<黑点1>:

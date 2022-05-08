@@ -1,0 +1,93 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Sneak</BGM>:......
+GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position>||:헉... 헉...
+NPC-Soldier(0)<Speaker>군 병사</Speaker>||:도주한 인형이 이쪽으로 숨었다! 전원, 산개해 수색한다! 절대 놓쳐선 안 된다!
+()<Speaker></Speaker>||:게파드 M1은 엄폐물 뒤에 몸을 숨긴 채, 거친 숨을 몰아쉬며 자신의 총을 끌어안았다.+탄약도 충분하고, 리엔필드에게서 폭약도 잔뜩 받았다.
+GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position>||:어떡하지... 어떡하지...
+()<Speaker></Speaker>||:이 고비만 넘긴다면, 정말 살아서 지휘관과 합류할 수도 있을 것 같았다.
+GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position>||:......
+()<Speaker></Speaker>||:하지만 추격해 온 군 병사들의 발소리가 주위를 떠나질 않았다.+그들은 게파드 M1이 남긴 발자국을 쫓아왔다. 그저 어디 숨었는지를 모를 뿐, 이곳을 이 잡듯 들쑤신다면 발각되는 것은 시간문제였다.+그녀가 도망칠 곳은 없었다.
+GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position>||:멋대로 움직인 것에 대한 업보인가...
+()<Speaker></Speaker>||:그저, 살아남고 싶었을 뿐인데.
+NPC-Soldier(0)<Speaker>군 병사</Speaker>||<BGM>BGM_Empty</BGM><BIN>99</BIN><SE1>AVG_lifttable</SE1>:――?!
+GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position><Shake>0.1</Shake>||:......!!
+()<Speaker></Speaker>||:탄식하던 그 순간, 그녀가 숨어있던 엄폐물이 갈라졌다.
+()<Speaker></Speaker>||<SE1>Select</SE1>:순간, 사고 회로가 끊어진 것만 같았다. 하지만 코앞의 병사가 돌리는 시꺼먼 총구가 강제로 그녀의 정신을 되돌렸다.
+GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position>||:안 돼...!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타탕!!
+()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1><震屏3>:게파드 M1은 곧장 몸을 날려 손의 단검으로 병사의 목을 그었지만, 총탄 한 발을 다리에 맞고 말았다.
+NPC-Soldier(0)<Speaker>군 병사</Speaker>||<BGM>BGM_Danger</BGM>:총성이다! 저쪽이다!
+NPC-Soldier(0)<Speaker>군 병사</Speaker>||:놓치지 말고 해치워라!+숫자는?
+NPC-Soldier(0)<Speaker>군 병사</Speaker>||:한 기다! 놈은 혼자다!
+GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position>||:미안해... 리엔필드... 미안해... 미안해...
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:총을 집어 들 여유도 없었기에, 게파드 M1은 황급히 도주했다.
+()<Speaker></Speaker>||:일개 인형인 그녀가 이런 전장에서 살아남을 가능성은 희박했다.+그럼에도 그녀는 "살고 싶다"는, 보통이라면 인형에겐 없는 욕망을 품었다.+인형이 꼭 죽어야 된다는 법은 없지 않은가.
+GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position>||:조금만 더... 조금만 더...!!
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><SE1>AVG_rifle_finalshot_h</SE1>:타앙!
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+M1903(10)<Speaker>스프링필드</Speaker>||<BIN>97</BIN><黑屏2><BGM>BGM_Dorm</BGM>:어머, 리엔필드? 미안해요, 방해했나요?
+98k(0)<Speaker>Kar98k</Speaker>||:아니. 현재 목표는 보고서를 정리하는 중이어서 괜찮다.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:......
+()<Speaker></Speaker>||:계속 걷다 보니 어느샌가 리엔필드와 Kar98k가 "목표"를 감시하는 위치까지 온 모양이었다. 대화 소리도 줄이지 않았으니, 바로 알아차렸을 것이다.
+MLEMK1(0)<Speaker>리엔필드</Speaker><Position>0,50</Position>||:게파드도 왔군?
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:아... 안녕 리엔필드. 여기서 헬리안 씨 감시 중이야?
+98k(0)<Speaker>Kar98k</Speaker>||:"목표"라 지칭하세요, 초보자 씨.+알 거 다 아는 사람이 아마추어처럼 굴어서야 되겠어요?
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:으, 응...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:게파드는 약간 불안해하며, 손에 든 홍차팩을 건냈다.
+MLEMK1(0)<Speaker>리엔필드</Speaker><Position>0,50</Position>||:홍차라. 정말 고맙지만, 이거 티타임을 가질 여유가 있을진 모르겠군.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:잠시 쉬라고 가져온 거야.+옆의 사무실에 찻잔이랑 온수기 있어.
+M1903(10)<Speaker>스프링필드</Speaker>||:게파드 씨 말이 맞아요, 쉬지도 않고 이런 추가 임무를 계속할 순 없지 않겠어요?+마침 목표도 일에 전념하고 있으니, 그동안만이라도 푹 좀 쉬세요.
+MLEMK1(0)<Speaker>리엔필드</Speaker><Position>0,50</Position>||:하지만... 목표가 갑자 목표가 밖으로 나오기라도 한다면?+곧장 들킬 거다.
+98k(0)<Speaker>Kar98k</Speaker>||:제 일에 누가 이의라도 제기했나요?
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:...그럼 내가 둘이 쉴 동안 교대할게.
+M1903(10)<Speaker>스프링필드</Speaker>||:게파드 씨?
+()<Speaker></Speaker>||:그 말에 놀라 고개를 돌린 스프링필드는 게파드 M1의 얼굴을 보곤 깨달았다. 아무래도, 그녀는 조금 전까지의 대화를 계속하기 싫은 눈치였다.
+MLEMK1(0)<Speaker>리엔필드</Speaker><Position>0,50</Position>||:네가?+흠... 그래, 너라면 믿고 맡길 수 있지.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:정식 임무도 있는데 이런 중요한 일 때문에 여태 긴장 상태였지?+그럼 둘 다 휴식 시간이 필요할 거 아니야.+잠깐이라도 좋으니까, 나도 좀 돕게 해 줘.
+98k(0)<Speaker>Kar98k</Speaker>||:일리 있는 말이네요. 리엔필드?
+MLEMK1(0)<Speaker>리엔필드</Speaker><Position>0,50</Position>||:그럼 그 호의, 감사히 받겠다.+스프링필드, 홍차를 끓여 주겠나?
+M1903(10)<Speaker>스프링필드</Speaker>||:물론이죠.
+()<Speaker></Speaker>||:간단한 상의 후, 리엔필드와 Kar98k는 고개를 끄덕이곤 잠시 휴식을 취하러 스프링필드를 따라 옆의 사무실로 향했다.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:리엔필드.
+MLEMK1(0)<Speaker>리엔필드</Speaker><Position>0,50</Position>||:음?
+()<Speaker></Speaker>||:그때, 게파드 M1이 리엔필드를 불러 세웠다.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:있잖아... "그때"... 전장에서 무슨 일이 있었는지 기억해?+다른 사람한테 듣기로는 우리가 같이 움직였다던데.
+MLEMK1(0)<Speaker>리엔필드</Speaker><Position>0,50</Position>||:......
+()<Speaker></Speaker>||:걸음을 멈춘 리엔필드는 곤혹스런 표정을 지었다.
+MLEMK1(0)<Speaker>리엔필드</Speaker><Position>0,50</Position>||:이런... 미안하군, 나도 백업으로 복귀한지라 당시의 기억이 없다.+그 전장에서의 일은 전혀 알지 못해.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:아... 그, 그랬구나... 나야말로 미안해, 괜한 걸로 불러 세워서.
+MLEMK1(0)<Speaker>리엔필드</Speaker><Position>0,50</Position>||:천만에.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:리엔필드의 뒷모습을 눈으로 배웅한 뒤, 게파드 M1은 심호흡을 하고 안주머니에 손을 넣어 그 퇴역 신청서를 꼭 쥐었다.+그리고, 헬리안의 사무실 문으로 고개를 돌렸다.+이걸 내면, 지금 그녀에게 있어 가시방석과 같은 이곳에서 떠날 수 있다.
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:——
+()<Speaker>헬리안</Speaker>||:들어오세요.
+()||<黑点1>:
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||<BIN>8</BIN><黑点2><SE1>AVG_door_elecport</SE1>:...실례합니다.
+()<Speaker></Speaker>||:사무실 안으로 발을 들이는 게파드 M1은 퇴역 신청서를 쥔 손에 더 힘을 줬다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||<BGM>BGM_Moon</BGM>:게파드? 별일이구나, 무슨 일이지?
+()<Speaker></Speaker>||:헬리안은 그저 말로 게파드에게 안부를 물을 뿐, 의자에 앉은 채로 고개조차 들지 않고 손의 만년필로 산더미 같은 서류를 처리 중이었다.+그녀의 얼굴엔 까만 다크서클과 쌓일대로 쌓인 피로감이 역력했다.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:저...
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:참, 개조 소체에는 익숙해졌니?
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:어......
+()<Speaker></Speaker>||:하려던 말이 끊겨버린 게파드 M1은 입을 뻐끔거리기만 했고, 퇴역 신청서를 쥔 손도 얼어붙은 듯 움직이질 못했다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:신경써 주지 못해 미안하구나, 요즘 기지의 사정이 좋지 않아 바빠서...+카리나도 없으니 나도 솔직히 좀 불안해.
+()<Speaker></Speaker>||:게파드 M1을 보는 헬리안은 무척이나 피곤해 보였지만, 눈빛만큼은 다정했다.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:그... 수고가 많으세요 헬리안 씨, 전 괜찮아요.+소체 상태도 양호하고, 훈련 평점도 예전보다 훨씬 좋아졌어요.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:후훗, 그렇다니 다행이다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:이제 그녀는 "사표"를 거의 구겨버릴 듯이 꽉 쥐었다.+한편, 헬리안은 단안경도 벗고 눈을 비비면서 천천히 일어나, 다시 게파드 M1에게 미소를 지었다.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:죄송하지만——
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:걱정 마렴, 네 휴가는 벌써 배정했어.
+()<Speaker></Speaker>||:퇴역 신청서를 꺼내려던 손이 정말로 얼어붙어버렸다.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:...네?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:카리나가 병가로 떠나기 전, 내게 너희 한 명 한 명의 이야기를 정말 자세히 해 줬단다. 네 이야기도 물론 들었지.+야근과 휴가에 아주 신경을 많이 쓴다면서?+걱정 마렴, 다 적절하게 계획해 줄 테니.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:왜 저를 특별히 챙겨 주세요...?+회사를 재건하느라 바쁜 상황 아니에요? 지금 그런 여유 없잖아요?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:너만 특별히 챙겨 주는 게 아니야.+물론, 우리 그리폰&크루거의 현재 상황이 나쁜 것은 사실이지.+하지만, 지휘관도 카리나도 한 명 한 명, 너희 모두를 "한 사람"으로서 존중하잖니? 내가 좀... 딱딱해 보일지언정, 너희를 위하는 마음은 뒤지지 않는다고 자부한단다.+인형에게도 일과 휴식의 균형이 있어야지.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:......
+()<Speaker></Speaker>||:게파드 M1은 넋을 잃고 헬리안을 바라보았다.+스프링필드의 계획은 확실히 아주 치밀했다. 헬리안은 인형들의 비밀 작전을 전혀 모르고 있었다.+그녀의 입사 10주년 파티를.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:게파드?
+()<Speaker></Speaker>||:10년...+게파드 M1은 숨을 깊게 들이마셨다.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||<SE1>ClothingUp</SE1>:...홍차 드리려고 왔어요. 헬리안 씨도 무리 말고 자주 휴식 취하세요. 그러다 몸 망가져요.
+()<Speaker></Speaker>||:안주머니의 퇴역 신청서를 놓고, 대신 남는 홍차 팩을 꺼내 허둥지둥 헬리안에게 차를 끓여 주었다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:어... 고마워?
+()<Speaker></Speaker>||:부자연스러운 게파드 M1의 거동에 헬리안은 고개를 갸우뚱했지만, 별다른 의심 없이 그녀의 호의를 고맙게 받았다.+다 우린 차를 헬리안 앞에 두고, 게파드 M1은 도망치듯 사무실을 나섰다.
+()||<黑屏1>:

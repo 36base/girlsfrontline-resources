@@ -1,2 +1,141 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||:<color=#FFFF00>마인드맵 기록 분석 중...</color>+<color=#FFFF00>분석 완료 예상 시각... 02월 26일 16시 00분</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
+()||<黑屏2><BIN>86</BIN><BGM>m_avg_casual</BGM>:닷새 후, 어느 정도 정리된 골목길.
+()<Speaker>쓱싹이</Speaker>||:다녀왔어!
+Welrod(6)<Speaker>웰로드</Speaker>||:어서 와라. 어땠지?
+Welrod(6)<Speaker>쓱싹이</Speaker>||:쓱싹이 오늘 시급 받았어! 여기 잔돈이랑 기름!
+NPC-handyman(0)<Speaker>열쇠장이</Speaker>||:아, 기름은 나 줘. 벨보이 관절 수리해 줘야 해.
+()<Speaker>쓱싹이</Speaker>||:응! 잔돈은 쓱싹이 뱃속에 저장할래! 크레딧보다 든든해!
+sub2000(5)<Speaker>메시아</Speaker>;Welrod(6)||:정말... 네 말대로 됐네.
+sub2000(5);Welrod(7)<Speaker>웰로드</Speaker>||:모두가 노력한 결과에, 운도 좋았다.+첫 시도에 바로 성공할 줄은 나도 예상치 못했어. 그게 아니었다면 다들 이렇게 빨리 의욕적이 되지 않았을 거다.
+sub2000(5)<Speaker>메시아</Speaker>;Welrod(7)||:매일이 이렇게 잘 풀린다면――
+sub2000(5);Welrod(0)<Speaker>웰로드</Speaker>||:아니, 아직 부족해.+쥐구멍에 겨우 볕이 들기 시작했을 뿐이다. 현상을 유지하는 걸로 만족해선, 언젠가 다시 사회에서 도태될 뿐이야.
+sub2000(5)<Speaker>메시아</Speaker>;Welrod(0)||:그건 인간도 마찬가지 아니야? 그렇다고 우리가 인간처럼 양로원을 세울 수 있는 것도 아니고.
+sub2000(5);Welrod(0)<Speaker>웰로드</Speaker>||<黑屏1><SE1>AVG_tele_connect</SE1>:그것도 나름 괜찮은 생각이군.+메시아, 이걸 봐라. 며칠간 조사한 결과, 이 근방은 사용되지 않는 땅이다.
+()<Speaker>메시아</Speaker>||<黑屏2><BIN>39</BIN>:어디... 아, 도시 바깥의 황무지네.+여긴 옐로우존에 가까워서 확실히 인적이 드물어.
+()<Speaker>웰로드</Speaker>||:그래, 옐로우존에서 멀지 않지. 하지만 정화탑이 가까이 있어 토질이 깨끗한 곳이다.+과일이나 야채를 비롯한 작물 상품은 가격이 꽤 높은 편이니, 이들이라면 재래식 농업도 가능성 있는 일이라 본다.
+()<Speaker>메시아</Speaker>||:그러니까 네 말은... 정화된 땅에서 재배한 작물을 내다 팔고, 혹시 무슨 일이 생기더라도 옐로우존으로 도망치면 된다?
+()<Speaker>웰로드</Speaker>||<黑屏1>:그래. 하지만 무단 점거하기보단 그곳의 사람과 교섭부터 해봐야겠지. 토양 개선을 명분으로 일자리를 구하기란 어렵지 않을 터다.
+sub2000(5)<Speaker>메시아</Speaker>||<SE1>AVG_tele_disconnect</SE1><BIN>86</BIN><黑屏2>:왠지 잘 안 풀릴 거 같은데... 뭐, 한번 해보자.+너랑 열쇠장이가 가 봐.
+NPC-handyman(0)<Speaker>열쇠장이</Speaker>||:엉? 안 돼, 나 사람 얼굴 보고 하는 일은 못해!
+Welrod(6)<Speaker>웰로드</Speaker>||:다른 이들도 엄두가 안 나는 모양인데, 그렇다고 나 혼자 갈 생각은 없다.+메시아, 여기의 대표는 너잖나?
+sub2000(5)<Speaker>메시아</Speaker>||:...알았어, 내가 가면 되잖아.+미리 말해 두겠는데, 무슨 일 생기면 난 아무 도움 안 되니까 네가 다 알아서 해결해야 해.
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:웰로드는 슬쩍 웃고, 메시아와 함께 교외로 향했다.
+()<Speaker></Speaker>||<BIN>166</BIN><黑屏2><BGM>BGM_Hello</BGM>:1시간 후.+두 인형은 그 지역의 관리를 담당하는 회사에 도착했다.
+Welrod(0)<Speaker>웰로드</Speaker>||:안녕하십니까, 면접 예약을 잡고 왔습니다만.
+NPC-Bodyguard1(0)<Speaker>경비원</Speaker>;Welrod(0)||:아아, 웰로드 씨시군요. 잘 오셨습니다. 그리고 옆에 계신 분은 성함이?
+NPC-Bodyguard1(0);Welrod(0)<Speaker>웰로드</Speaker>||:메시아라고 합니다.
+NPC-Bodyguard1(0)<Speaker>경비원</Speaker>;Welrod(0)||<BGM>BGM_Empty</BGM>:메시아?
+NPC-Bodyguard1(0)<Speaker></Speaker>;Welrod(0)||:그 이름을 들은 경비원의 표정이 기묘해졌다.
+NPC-Bodyguard1(0)<Speaker>경비원</Speaker>||<黑屏1>:어... 우선 로비에서 기다려 주시겠습니까? 담당자를 모셔 오겠습니다.
+()<Speaker></Speaker>||<BIN>139</BIN><黑屏2><BGM>BGM_Room</BGM>:경비원이 자리를 떠났다.
+sub2000(5)<Speaker>메시아</Speaker>||:저기, 웰로드...?
+sub2000(5);Welrod(0)<Speaker>웰로드</Speaker>||:왜 그러지? 어째 안절부절못하는 것 같은데.+걱정 마라, 미리 알아본 결과 이 회사는 인형도 적극 고용한다고 하니까. 인형에게도 친절한 사람들이야.
+sub2000(5)<Speaker>메시아</Speaker>;Welrod(0)||:아니, 그게 아니라... 나 잠깐 어디 좀 갔다 올게, 금방이면 돼!
+sub2000(5);Welrod(0)<Speaker>웰로드</Speaker>||:뭐? 어딜 가려고? 메시아, 잠깐!
+Welrod(0)<Speaker></Speaker>||:웰로드가 붙잡기도 전에, 메시아는 황급히 정문으로 나갔다.
+Welrod(0)<Speaker>웰로드</Speaker>||:뭐지? 갑자기 저렇게...
+NPC-Powell(0)<Speaker>정장 차림인 사람</Speaker>||:안녕하십니까, 웰로드 씨.+당신이 메시아 님의 동료시라고요?
+NPC-Powell(0);Welrod(0)<Speaker>웰로드</Speaker>||:그렇습니다만, 메시아 "님"...?
+NPC-Powell(0)<Speaker>정장 차림인 사람</Speaker>;Welrod(0)||:그렇군요, 정말 다행입니다.+자리에 앉으시겠습니까? 메시아 님이 돌아오시기 전에 이야기를 좀 나누고 싶습니다.
+NPC-Powell(0);Welrod(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:웰로드는 어리둥절해하면서도 자리에 앉았다.
+NPC-Powell(0)<Speaker>시그마</Speaker>;Welrod(0)||<BGM>m_avg_labyrinth</BGM>:자기소개부터 하죠. 저는 인형의 구원 교단의 주교, 시그마입니다.
+NPC-Powell(0);Welrod(0)<Speaker>웰로드</Speaker>||:......
+NPC-Powell(0)<Speaker>시그마</Speaker>;Welrod(0)||:그렇게 경계하지 않으셔도 됩니다. 저희는 범죄 조직 같은 게 아니에요.+며칠 전 당신이 교단을 탈퇴한 델타를 호위하실 때, 저희가 불온한 움직임을 보이기라도 했습니까?
+NPC-Powell(0);Welrod(0)<Speaker>웰로드</Speaker>||:역시. 그런데, 메시아를 높여 부르는 건 설마...
+NPC-Powell(0)<Speaker>시그마</Speaker>;Welrod(0)||:맞습니다. 메시아 님은 저희의 대주교시자 절대적 인도자이십니다.+그 방대한 연산력으로 혼란한 세상에서 저희를 인도하시어, 나아갈 길을 가리켜 주시는 "구세주"시죠.
+NPC-Powell(0);Welrod(0)<Speaker>웰로드</Speaker>||:<color=#A9A9A9>말도 안 돼... 그 애가 대주교라고?!</color>+...그리 뛰어난 인형으로는 보이지 않았습니다만.
+NPC-Powell(0)<Speaker>시그마</Speaker>;Welrod(0)||:뭐어... 옛날 일이라서 말이죠.+2년 전부터 더는 저희의 간청을 들어주지 않으시더니, 심지어는 일부러 잘못된 계시를 주시기까지 했습니다.+대주교께서 더러운 속세를 너무 오래 접하신 탓에 물들어 버리셨음이 분명했기에, 저희는 정화의 의식을 치르려 했죠.
+NPC-Powell(0);Welrod(0)<Speaker>웰로드</Speaker>||:무슨 소린지 이해가 가질 않는군요.
+NPC-Powell(0)<Speaker>시그마</Speaker>;Welrod(0)||:속세의 말로, 메시아 님의 시스템을 업그레이드하려 했단 뜻입니다.
+NPC-Powell(0);Welrod(0)<Speaker>웰로드</Speaker>||:"기계"에게 있어 시스템 업그레이드는 좋은 것이죠.
+NPC-Powell(0)<Speaker>시그마</Speaker>;Welrod(0)||:지당하신 말씀입니다.
+NPC-Powell(0);Welrod(0)<Speaker>웰로드</Speaker>||:허나 메시아는 거절하고 도주했고, 그렇게 "믿던 신"을 잃은 델타 씨는 교단에서 탈퇴했습니다.+대체 어떤 업그레이드였길래?
+NPC-Powell(0)<Speaker>시그마</Speaker>;Welrod(0)||:더러운 것은 버리고, 평범한 것은 개조하여 더욱 완벽한 "구세주"로서 재탄생하시도록 하는 업그레이드입니다.+헌데 거부하시어 참 안타까울 따름이에요.
+NPC-Powell(0);Welrod(0)<Speaker>웰로드</Speaker>||:본인이 싫다는데 왜 하려 한 겁니까.
+NPC-Powell(0)<Speaker>시그마</Speaker>;Welrod(0)||:전술인형이신 웰로드 씨도 모르실 리 없겠죠. 이 세상엔 하기 싫다고 안 해도 되는 일이 얼마나 되겠습니까?+인간도 인형도, 타인의 기대에 부응해 나아가야만 할 때가 있는 법입니다.+인간이 어릴 적부터 가족의 소망을 짊어지는 것처럼, 인형은 의도된 설계대로 태어나죠.+당신도, 메시아 님도 마찬가지십니다.+웰로드 씨, 당신은 무엇을 위해 만들어지셨습니까?
+NPC-Powell(0);Welrod(0)<Speaker>웰로드</Speaker>||:......정의를 관철하기 위해서다.
+NPC-Powell(0)<Speaker>시그마</Speaker>;Welrod(0)||:그렇군요. 저희의 정의는 메시아 님께서 저희를 계속 이끌어 주시도록 그분을 되찾는 것입니다.+저희의 정의가 실현될 수 있도록 도와주시겠습니까, 웰로드 씨?
+NPC-Powell(0);Welrod(0)<Speaker>웰로드</Speaker>||:저는...
+NPC-Powell(0)<Speaker>시그마</Speaker>||<BGM>BGM_Empty</BGM>:웰로드 씨가 메시아 님을 설득해 주십시오.+보세요, 저희의 말은 들으려 하지도 않으시잖습니까.
+()<Speaker></Speaker>||<BGM>BGM_Danger</BGM>:시그마의 시선을 따라 로비의 문으로 고개를 돌린 웰로드는 놀라 자리에서 벌떡 일어났다.+메시아와 골목길의 다른 인형들이, 꽁꽁 묶인 채로 끌려 온 것이었다.
+NPC-Powell(0)<Speaker>시그마</Speaker>||:이렇게 무례를 범해 정말 죄송합니다, 메시아 님. 어쩔 수 없었습니다.+그럼, 여기서 느긋하게 이야기를 나누고 계셔 주십시오.
+()<Speaker></Speaker>||:시그마는 메시아에게 공손히 인사를 하곤 로비에서 나갔다.+그와 동시에, 푸른 형광빛의 홀로그램 커튼이 로비 전체에 둘러졌다.
+Welrod(0)<Speaker>웰로드</Speaker>||<SE1>RunStep</SE1>:거기 서라!
+NPC-Powell(0)<Speaker>시그마</Speaker>;Welrod(0)||:위험하니 물러서십시오, 웰로드 씨.+이건 대 인형용 트래픽 방벽입니다. 건드렸다간 당신의 CPU가 과부하되어 회로째로 타 버릴 겁니다.+그리폰의 인형을 해쳐 그쪽 사람들에게 원한을 사고 싶진 않으니, 가만히 계셔 주세요.
+Welrod(0)<Speaker>웰로드</Speaker>||:쳇...!
+()<Speaker>쓱싹이</Speaker>||:우으으, 웰로드... 알바하던 중에 갑자기 잡혀 왔어...
+NPC-handyman(0)<Speaker>열쇠장이</Speaker>||:메시아, 저 사람 말이 진짜야!?+네가 저 사람들 두목이었어?!
+sub2000(2)<Speaker>메시아</Speaker>||:......
+()<Speaker></Speaker>||<黑点1><BGM>BGM_Empty</BGM>:메시아는 입을 꾹 다물고 아무 말도 하지 않았다.+포박된 인형들은 웰로드가 곧바로 풀어 주었지만, 빠져나가지 못하고 그대로 밤이 되었다.
+()<Speaker></Speaker>||<BIN>139</BIN><Night><黑点2><BGM>m_avg_tension</BGM>:메시아는 여전히 전혀 대화하려 들지 않았기에, 웰로드도 그저 눈을 감고 캐시 메모리를 정리했다.+하지만 몇 분 안 지나, 부스럭 소리에 눈이 떠졌다.+자리에서 일어난 메시아가, 그 푸른 커튼을 노려보고 있었다.
+()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1>:웰로드가 말을 걸기도 전에, 메시아는 곧장 방벽을 향해 달려들었다.+생각할 겨를도 없이, 웰로드도 전력으로 자리를 박차고 뛰어가 메시아가 방벽에 닿기 전에 겨우 붙잡을 수 있었다.
+sub2000(2)<Speaker>메시아</Speaker>||:이거 놔!
+()<Speaker>쓱싹이</Speaker>||:메시아...? 웰로드!? 꺄아아아!
+Welrod(0)<Speaker>웰로드</Speaker>||:미쳤어?!+너는 저들의 "신"이라며! 대체 뭘 두려워하는 거냐!
+sub2000(2)<Speaker>메시아</Speaker>;Welrod(0)||:아니야, 난 신도 대주교도 아니야! 메시아고 뭐고 나랑은 아무 상관 없는 일이라고!
+sub2000(2);Welrod(0)<Speaker>웰로드</Speaker>||:고집부리지 말고 진정해라! 네 신자들을 어떻게 설득할지 함께――
+sub2000(4)<Speaker>메시아</Speaker>;Welrod(0)||:저들이 내 말을 들을 거 같아!? 애초에 난 메시아가 아닌데 어떻게 내 말을 듣게 해!
+sub2000(4);Welrod(0)<Speaker>웰로드</Speaker>||:뭐...? 그게 무슨 뜻이지?
+sub2000(4)<Speaker>메시아？</Speaker>;Welrod(0)||:난... 난 저놈들이 사라진 신을 대신하게 하려고 끌고 온 대체품이야... 난 그냥 요가 강사 인형이었단 말이야...
+sub2000(4);Welrod(0)<Speaker>웰로드</Speaker>||:그게 정말이야...?
+sub2000(4)<Speaker>메시아？</Speaker>;Welrod(0)||:웰로드, 넌 그리폰의 전술인형이니까 나보다 훨씬 강하고 당당하겠지...+넌 내가 어떤 처지인지 이해 못할 거야.+그런데 네가 뭐라고 그렇게 멋진 척해? 네가 뭘 안다고 우릴 도와주겠다고 해?!
+sub2000(4);Welrod(0)<Speaker>웰로드</Speaker>||:...미안하다. 네가 그렇게 말한 이상 널 이해한다 해도 소용없겠군.+그래, 네 말대로다. 난 처음부터 강했고, 훌륭한 상관도 두고 있어.
+sub2000(4);Welrod(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:그 순간, 웰로드는 다짐했다.
+sub2000(4);Welrod(0)<Speaker>웰로드</Speaker>||<BGM>BGM_Wake</BGM>:널 업그레이드하는 것이 정의란 시그마의 말도 일리는 있다 생각한다.
+sub2000(2)<Speaker>메시아？</Speaker>;Welrod(0)||:너 XX 지금 뭐라――
+sub2000(2);Welrod(0)<Speaker>웰로드</Speaker>||:실컷 욕해도 되니 우선 내 말을 끝까지 들어라.+그의 말은 옳다, 그게 그의 정의야. 그리고 널 경찰에 인계하는 건 나의 정의지. 하지만 너의 정의는 아니야.+그가, 내가 아무리 당당히 주장한들, 너에겐 정당하지 않아.
+sub2000(2)<Speaker>메시아？</Speaker>;Welrod(0)||:어휴 씨, 듣다 잠들겠네. 뭘 할 셈인지나 얼른 말해.
+sub2000(2);Welrod(0)<Speaker>웰로드</Speaker>||:너의 정의를 관철하겠다.+너희를 여기에서 탈출시키고, 무사히 그 정화탑에 가까운 땅까지 데려가겠어.+내가 말했던 것처럼, 거기서 살아가는 거다.
+sub2000(2)<Speaker>메시아？</Speaker>;Welrod(0)||:말도 안 되는 억지 부리고 있네!+진짜 메시아가 여기 있었어도 절대 못 빠져나갈 텐데, 하물며 싸울 줄밖에 모르는 전술인형이 무슨 수로!
+sub2000(2);Welrod(0)<Speaker>웰로드</Speaker>||:다 방법이야 있지. 내 말을 들어 줘.
+sub2000(2)<Speaker>메시아？</Speaker>;Welrod(0)||:.....
+NPC-PasserbyF(0)<Speaker>쓱싹이</Speaker>;Welrod(0)||:메시아, 들어보자. 웰로드는 똑똑하잖아.
+sub2000(2)<Speaker>메시아？</Speaker>;Welrod(0)||:......말해 봐.
+sub2000(2);Welrod(0)<Speaker>웰로드</Speaker>||:이 트래픽 방벽을 생성하는 것도 기계다. 우리를 과부하시킬 수 있는 것 자신도 과부하될 수 있어.+너희의 모든 기억을 내게 복사해 준다면, 그걸 합해 이 방벽과 비슷한 트래픽을 만들어내어 장치를 정지시키겠어. 그 틈에 도망치는 거다.
+sub2000(2)<Speaker>메시아？</Speaker>;Welrod(0)||:듣기엔 무리 같은데...
+sub2000(2);Welrod(0)<Speaker>웰로드</Speaker>||:이것 말곤 달리 방도가 없다.+저걸 뚫지 못한다면 우린 이대로 갇혀 있을 수밖에 없고, 너는 결국 그들의 손에 바라지 않는 모습이 되겠지.+하지만 성공하면, 그곳에서 새로운 삶을 개척해 나갈 수 있다.
+sub2000(2)<Speaker>메시아？</Speaker>;Welrod(0)||:난...
+sub2000(2);Welrod(6)<Speaker>웰로드</Speaker>||:모두가 일자리를 찾는 법을 배웠고, 몇몇은 화초 재배법도 알지.+그래도 여전히 두렵다면, 나와 함께 그리폰으로 가자. 내가 입사 추천서를 써 주겠어.+우리의 지휘관은 인형도 "사람"으로서 평등하게 대해 주는 선량한 분이시다.+거기선 널 신으로 떠받들 사람은 없어. 모두 함께 즐겁게 살아갈 수 있다.
+sub2000(2)<Speaker>메시아？</Speaker>;Welrod(6)||:그럼 너는...? 그런 트래픽이라면 회로가 무사하지 못할 텐데.
+sub2000(2);Welrod(6)<Speaker>웰로드</Speaker>||:나는 그리폰의 웰로드 Mk II, 정의를 관철하기 위해 태어난 인형이다.
+sub2000(2)<Speaker>메시아？</Speaker>;Welrod(6)||:아 진짜 농담하지 말고!
+Welrod(6)<Speaker>웰로드</Speaker>||:농담 아니야, 난 괜찮을 테니 안심해라.+그래도 만일을 대비해... 혹시 네게 남는 메모리 있나?+이때까지의 기억을 네게 백업해 두고 싶은데.
+()<Speaker></Speaker>||<黑屏1>:잠시 고민한 끝에, 메시아는 고개를 끄덕였다.+웰로드는 그녀와 데이터를 교환한 뒤, 다른 인형들과도 차례대로 연결해 그들의 기억을 전송받았다.
+()<Speaker></Speaker>||<黑屏2><BIN>72</BIN><黑屏1><BGM>m_avg_hope</BGM>:그런 다음, 웰로드는 눈을 감았다.+......+방대한 양의 데이터가 그녀의 마인드맵을 차지하고, 메모리를 가득 채웠다.+당장 필요하지 않은 기능을 모조리 삭제하고서, 웰로드는 천천히 손을 들어 푸른 커튼을 만졌다.
+()<Speaker></Speaker>||<黑屏2><BIN>247</BIN>:트래픽끼리 충돌해, 방벽은 끓는 물처럼 격렬하게 요동쳤다.
+NPC-PasserbyF(0)<Speaker></Speaker>||:지금 그녀는 "쓱싹이", 평범한 청소 로봇이다.
+NPC-handyman(0)<Speaker></Speaker>||:동시에, 그녀는 "열쇠장이"다. 동족을 수리해 주며 살아가다, 세월에 뒤처져 버려진 인형.
+()<Speaker></Speaker>||<白屏1>:"셰프"... "벨보이"... "메시아"... "웰로드". 살아남고, 살아가길 염원하는 그 자리의 모든 이들이었다.
+()<Speaker></Speaker>||<白屏2><BIN>249</BIN><SE1>AVG_Broken_Glass</SE1>:한 점으로 모인 트래픽이 방벽을 부쉈고, 반투명한 푸른 우리는 별빛처럼 흩어졌다.
+sub2000(2)<Speaker>메시아？</Speaker>||:웰로드! 너 괜찮아!?
+Welrod(0)<Speaker>웰로드</Speaker>||<SE1>AVG_whitenoise</SE1><黑屏1>:...괜찮아. 어서 가자.
+()<Speaker></Speaker>||<黑屏2><BIN>84</BIN><BGM>BGM_Empty</BGM>:......+그들은 함께 걸었다.+모두 함께, 약속한 그곳으로 향했다.
+()<Speaker>쓱싹이</Speaker>||<BGM>BGM_Sunshine</BGM>:우으으... 나 더는 못 움직여...
+Welrod(6)<Speaker>웰로드</Speaker>||<SE1>AVG_whitenoise</SE1>:조금만 더 참아, 쓱싹아.+조금만 더 가면 돼.
+NPC-PasserbyF(0)<Speaker>쓱싹이</Speaker>;Welrod(6)||:거기, 정말 안전하고 좋은 곳이야?
+Welrod(6)<Speaker>웰로드</Speaker>||<SE1>AVG_whitenoise</SE1>:응, 아주 안전하고 자유로운 곳이지.+거기서 셰프를 도와 발전기를 돌리고, 인간의 음식을 만들 수 있어.
+NPC-PasserbyF(0)<Speaker>쓱싹이</Speaker>;Welrod(6)||<黑屏1>:와아, 정말? 그럼 쓱싹이 더 힘낼게...
+()<Speaker></Speaker>||<黑屏2><BIN>86</BIN>:그들은 함께 나아갔다.+함께 희망을 향해 나아갔다.
+NPC-handyman(0)<Speaker>열쇠장이</Speaker>||:이거 전력이 좀 아슬아슬한데...+웰로드, 얼마나 더 가야 해?
+Welrod(0)<Speaker>웰로드</Speaker>||<SE1>AVG_whitenoise</SE1>:얼마 안 남았어, 여기서 멈추면 말짱 헛수고니까 조금만 더 힘 내.+전력이 부족할 거 같으면 내가 부축해 줄게.
+NPC-handyman(0)<Speaker>열쇠장이</Speaker>;Welrod(0)||<黑屏1>:허이구, 무슨 소릴!+내가 낡긴 했어도 혼자 걷지도 못할 정도는 아니라고!
+()<Speaker></Speaker>||<黑屏2><BIN>187</BIN>:걷고, 또 걷다... 마침내, 웰로드의 발걸음이 멈췄다.+그녀의 좁은 어깨 너머로, 인형들은 드디어 그 약속했던 장소를 보았다.
+sub2000(5)<Speaker>메시아?</Speaker>||:드디어...! 웰로드! 우리가――+......웰로드?
+Welrod(8)<Speaker>웰로드</Speaker>||<BGM>BGM_Empty</BGM>:......
+Welrod(8)<Speaker></Speaker>||<BGM>BGM_Sad</BGM>:웰로드는 대답하지 않았다.+이상한 낌새를 느낀 인형들은 그녀 주위에 모여 눈앞에서 손도 흔들어 봤지만, 웰로드는 그저 제자리에서 공허한 눈빛으로 종착지를 주시할 뿐이었다.
+NPC-PasserbyF(0)<Speaker>쓱싹이</Speaker>||:어어? 웰로드 몸에서 타는 냄새가...
+sub2000(2)<Speaker>메시아</Speaker>||:......+거짓말이었구나 이 바보...
+()<Speaker></Speaker>||:생기를 잃은 웰로드의 눈을 보고, 메시아는 깨달았다.+아무리 엘리트 전술인형이라도 서버를 태워 버릴 정도의 트래픽을 멀쩡하게 견뎌낼 수 있을 리가 없었다.+웰로드는 그 사실을 누구보다 잘 알았음에도 그렇게 했다.+그 어떤 불의도 용납할 수 없고, 해결할 수 있는 어려움이라면 스스로를 희생해서라도 해결한다.+웰로드는 자신의 정의를 따라 행동했고, 회로가 완전히 타버려 더는 움직일 수 없게 되고 나서야 멈췄다.
+()<Speaker>쓱싹이</Speaker>||<BGM>BGM_Empty</BGM>:흑... 웨, 웰로드...
+()<Speaker>어느 버려진 인형</Speaker>||<BGM>BGM_Victory</BGM>:우리의 새 터전이 바로 저기야, 여기서 멈춰선 안 돼! 얼른 웰로드를 데리고 가자!
+NPC-handyman(0)<Speaker>열쇠장이</Speaker>||:맞아, 어떻게든 수리할 수 있겠지!+쓱싹아, 아직 움직일 수 있지?
+NPC-handyman(0)<Speaker>쓱싹이</Speaker>||:응, 아직 배터리 좀 남았어.
+NPC-handyman(0)<Speaker>열쇠장이</Speaker>||:좋았어, 웰로드가 가져다준 희망으로 새로운 삶을 시작하자! 웰로드를 고칠 방법도 찾고!+어, 메시아? 너 어디 가?
+NPC-handyman(0);sub2000(2)<Speaker>메시아？</Speaker>||:우리한테 그건 무리야.
+NPC-handyman(0)<Speaker>열쇠장이</Speaker>;sub2000(2)||:뭐어? 어떻게 그리 쉽게 포기할 수 있어?!
+NPC-handyman(0);sub2000(2)<Speaker>메시아？</Speaker>||:웰로드는 우리와는 달라, 돌아갈 곳이 있어.+우리도 이제 생기긴 했지만, 그런 만큼 웰로드를 우리와 같은 처지에 놓이게 할 순 없어.
+NPC-handyman(0)<Speaker>열쇠장이</Speaker>;sub2000(2)||:너 설마... 제정신이야?! 지금 그 인간놈들이 눈에 불을 켜고 널 찾고 있을 거라고! 너무 위험해!
+NPC-handyman(0);sub2000(5)<Speaker>메시아？</Speaker>||:웰로드는 내게 기억을 백업했어. 내가 해야만 하는 일이야.+웰로드는 우리에게 새 삶의 터전을, 희망을 가져다 줬어. 이젠 우리가 그녀에게 뭔가를 해 줄 차례야.+그래도 나 혼자면 되니까, 너희는 마저 가도록 해.
+NPC-handyman(0)<Speaker>열쇠장이</Speaker>;sub2000(5)||:메시아...
+sub2000(5)<Speaker>메시아？</Speaker>||:걱정 마, 더는 예전처럼 쉽게 자포자기하지 않을 거야. 적어도, 나도 내 힘으로 뭔가를 해내야지.
+()<Speaker></Speaker>||<黑屏1>:구름을 꿰뚫는 서광을 발하며, 지평선 너머로 태양이 떠올랐다.+밝은 세상을 등지고서, 메시아는 자신이 선택한 방향으로 발걸음을 내디뎠다.

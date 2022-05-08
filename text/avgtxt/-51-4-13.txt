@@ -1,0 +1,156 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_PPT_Switch</SE1>:아이네이아스 작전, 현재 상황을 저장 중...+제1단계 - 진도 100%.+제2단계 - 진도 50%.+제3단계 - 진도 0%.+제4단계 - 진도 100%.+제5단계 - 진도 0%.
+()<Speaker></Speaker>||:......+............+제0단계 - 진도 99%.
+()<Speaker></Speaker>||:아이네이아스 작전, 제0단계.+목표 - 안나 빅토르브나 최.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>446</BIN><黑屏2><BGM>10247</BGM>:아베르누스, 동탑 내부.
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:쿵쿵쿵쿵——+빙글빙글 도는 계단의 벽에 바짝 붙어, RO635는 홀로 내달렸다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>:걸음을 서두를 수밖에 없어, 다음 층의 입구에 도착하는 즉시 문을 박차고 열어 주변의 안전을 확인하지도 않고 바로 뛰어들어갔다.+RO635에게, 지금은 단 0.1초도 낭비할 시간은 없었다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:――!?
+NPC-Koleda(0)<Speaker>???</Speaker>||<SE1>ClothingUp</SE1>:——
+()<Speaker></Speaker>||<震屏3><SE1>AVG_XXS_kick</SE1>:휙!!+그때, 웬 검은 그림자가 길모퉁이에서 튀어나와 RO635의 앞을 가로막았다.
+()<Speaker></Speaker>||<SE1>Select</SE1>:RO635는 물론 망설이지 않고 냅다 총구를 들어 방아쇠를 당겼지만, 그녀의 코앞에 나타난 상대도 역시 냅다 총열을 덥석 붙잡았다.
+()<Speaker></Speaker>||<SE1>AVG_Rifle</SE1><SE1>AVG_Bullte_Ricochet</SE1>:총구는 천장으로 틀어졌고, 발사된 탄환은 위의 전등을 깨트렸다.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Combat_Hits</SE1>:툭!+퍽!+총에서 손을 떼지 않고, RO635는 뛰어난 격투기 실력으로 상대를 가격했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:하지만 놀랍게도, 상대도 똑같이 노련한 격투기로 반격해 왔다. 그렇게 둘은 각자 기관단총의 한 쪽을 붙잡은 채로 몇 합을 주고받은 뒤, 대치했다.+그때, 상대가 먼저 입을 열었다.
+NPC-Koleda(0)<Speaker>???</Speaker>||<BGM>BGM_Empty</BGM>:안젤리아를 찾고 있지, RO635?
+RO635Mod(0)<Speaker>RO635</Speaker>||:......?!
+()<Speaker></Speaker>||<BGM>GF_22W_BGM_1</BGM>:그제서야 RO635의 눈에 상대가 제대로 보였다.+그녀를 가로막은 것은, 평범한 검은 니토였다.
+NPC-Koleda(0)<Speaker>???</Speaker>||:왔던 길 그대로 돌아가도록 해.+안젤리아는 너와 함께 가지 않을 거야.
+RO635Mod(0)<Speaker>RO635</Speaker>||:......
+NPC-Koleda(0)<Speaker>???</Speaker><Shake>0.1</Shake>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:......!?
+()<Speaker></Speaker>||:니토가 말을 마치기가 무섭게, 엄청난 힘이 그녀를 바닥에 메쳤다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>:쿠웅!
+()<Speaker></Speaker>||<SE1>Select</SE1>:철컥.+RO635의 총구가 이마를 꾸욱 누르자, 검은 니토는 그저 눈을 끔뻑이며 조용히 손을 들었다.
+RO635Mod(4)<Speaker>RO635</Speaker>||:너 누구야.
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:...콜레다. 내 이름은 콜레다.
+RO635Mod(4)<Speaker>RO635</Speaker>||:안젤리아 어딨어?
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:지금 말했잖아, 안젤리아는 너와――
+RO635Mod(4)<Speaker>RO635</Speaker>||<SE1>Rope</SE1><震屏3>:<size=50>좋은 말로 할 때 말해 이 XX야! 안젤리아 어딨냐고!</size>
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:......
+()<Speaker></Speaker>||:이 머리 끝까지 분노하는 인형이 마지막 이성의 끈을 놓는 순간 저 방아쇠가 당겨질 것임을, 콜레다는 잘 알았다.
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:...따라와.
+RO635Mod(4)<Speaker>RO635</Speaker>||:수작 부릴 셈이면 네가 태어난 걸 후회하게 만들어 주겠어.
+()<Speaker></Speaker>||:생생하게 느껴지는 분노에, 콜레다는 굳이 고개릴 돌려 볼 필요도 없었다.+조금이라도 의심스러운 움직임을 보였다간, 그 즉시 세상에서 가장 잔인한 보복을 당할 것이 뻔했다.+콜레다는 그저 순순히 두 손을 높이 들고, RO635를 안젤리아가 있는 방으로 안내했다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<SE1>Explode</SE1><黑点2><震屏3><BIN>456</BIN><BGM>BGM_Empty</BGM>:콰앙!!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>GF_21summer_intro_DemonVariation</BGM>:쳇...!
+UMP9Mod(4)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:언니 괜찮아!?
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Grenade</SE1>:끝도 없이 몰려드는 패러데우스 부대를 향해 수류탄을 던지며, UMP45는 엄페물 뒤로 몸을 숨긴 채 휴대용 콘솔을 계속 두들겼다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:조금만 더 엄호해 줘 9!+어떻게든 통신을 복구해볼 테니까...!
+UMP9Mod(2)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:언니...
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:브라메드에게 해킹당한 뒤로 허약해진 UMP9도, 패러데우스의 병사들에게 쫓기면서 상처투성이가 되었다.+대부분의 공격을 대신 감당한 UMP45보단 나은 편이었지만, 지금 두 자매를 끈질기게 추격해 오는 것은 검고 하얀 니토들과 그 휘하 부대였다.+그나마 상급 니토가 없는 것이 행운이었다.
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:하지만 초소를 버리면서 대부분의 설비도 그곳에 두고 왔다.+현재 상황에서 통신을 복구하려면, UMP45는 자신의 연산력 태반을 집중해야 했지만. 이렇게 추격당하는 와중에 그 정도로 연산력을 할당할 여유는 있을 리가 만무했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:초조하게 콘솔을 두들기는 UMP45의 옆에서, UMP9는 그녀의 언니와 다가오는 적을 번갈아 봤다.
+UMP9Mod(2)<Speaker>UMP9</Speaker><Position>0,-50</Position>||<BGM>BGM_Empty</BGM>:...언니.+언니의 마인드맵, 메모리 제법 크지?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...그럭저럭.+갑자기 그건 왜?
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:삐이...+데이터 전송 중.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>GF_21summer_avg_Demon</BGM>:......
+()<Speaker></Speaker>||:전송받은 것을 확인한 UMP45의 동공이 수축했다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:마인드맵 백업...?+<size=50>너 뭐하려고?!</size>
+UMP9Mod(3)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:꼭 무사해야 해, 언니!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>ClothingUp</SE1>:안 돼 9!! 돌아와!!
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1>:UMP45는 손을 뻗어 동생의 팔을 붙잡으려 했지만, 간발의 차로 놓치고 말았다.
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:여태까지 허약했던 모습은 다 가짜였다는 것처럼, UMP9는 엄폐물을 훌쩍 뛰어넘어 곧장 코앞까지 다가온 패러데우스의 군세를 향해 돌진했다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:<size=50>9――!!!</size>
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>Explode</SE1>:콰아아앙!!!
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:팔을 놓친 UMP45가 벌떡 일어나 뒤쫓으려 했지만, 그 순간 일어난 폭발의 충격파로 그대로 넘어지고 말았다.
+()<Speaker>UMP45</Speaker>||<SE1>AVG_tinnitus_0</SE1>:콜록... 콜록콜록...
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:파지직...+그 충격으로, 그녀의 전자 두뇌가 불길한 노이즈를 냈다.
+()<Speaker></Speaker>||<SE1>AVG_NightVision_Start</SE1>:다시 정신을 차린 것은 약 3초가 지나서였다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>ClothingUp</SE1><BIN>456</BIN><BGM>BGM_Empty</BGM>:——!!
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:의식이 돌아온 순간, UMP45는 펄쩍 뛰어올랐다.+금방에라도 머리 위를 덮칠 것만 같던 니토들은 사라졌고, 폭발로 생긴 구덩이 주변에 흩뿌려진 "조각"들로 겨우 알아볼 수 있었다.+하지만 그보다 먼저 UMP45의 눈에 들어온 것은, 동생이 쓰고 다니던 고글의 부서진 파편이었다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:치지직...
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐이이...
+()<Speaker></Speaker>||:통신 연결.
+()||<黑屏1>:
+()<Speaker>RO635</Speaker>||<SE1>AVG_whitenoise</SE1><BIN>9</BIN><黑屏2>:<color=#00CCFF>......, 여기... 유니콘. 응답 ...란......</color>+<color=#00CCFF>임무 완...... 우산, ............</color>
+()<Speaker></Speaker>||:......+......
+()<Speaker></Speaker>||:아이네이아스 작전, 임무 완료.+진도 - 99%.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>357</BIN><黑屏2><BGM>GF_EV9_Intermission</BGM>:정적이 감도는 회의실에서, 지휘관은 깍지 낀 손으로 눈앞의 지도를 뚫어져라 바라봤다.+아이네이아스 작전팀과 연락이 두절된 지, 벌써 한 시간.+계속 작전 회의실에 통신을 연결해 보려 해도, 저 신호 차폐망을 돌파할 수가 없었다.+댄들라이의 노력에도 진전이 보이지 않았다..+AR-15는 지휘관의 옆을 지키면서 최대한 침착함을 유지하려 했지만, 수시로 방 안을 서성이는 통에 그녀의 심정이 고스란히 드러났다.
+()<Speaker>지휘관</Speaker>||:......
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:지휘관님?
+()<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1>:<size=50>——연결됐어?!</size>
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:...아직입니다.+그저, 예비 방안을 준비하는 것이 어떨지 제안하는 바입니다.+그들은 이미...
+AR15Mod(5)<Speaker>AR-15</Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>:<size=50>일 똑바로 못 하겠음 그냥 입 닥치고 있어!</size>
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:AR-15만큼 사납게 굴진 않았지만, 댄들라이마저 그러니 지휘관은 억장이 무너지는 기분이었다.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:...? 잠시만요.
+()<Speaker></Speaker>||:그때, 댄들라이의 표정이 변했다.
+AR15Mod(5)<Speaker>AR-15</Speaker>||:뭔데? 지금 장난칠 때 아니야!
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:장난 아니거든?+지휘관님, 회의실과 연결됐습니다.
+()<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1>:<size=50>바로 접속해!</size>
+()<Speaker></Speaker>||:지휘관이 벌떡 일어나며 외쳤다. 다만...
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:네.
+()<Speaker></Speaker>||:고개를 끄덕이는 댄들라이의 표정이 묘한 것을, 지휘관은 놓치지 않았다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:삐이이...+연결 중...
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:아이네이아스 작전 회의실에 연결되었습니다.+신분 인증 - 댄들라이.
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Baggage_bomb_Activation</SE1>:...인증 성공.
+()<Speaker>지휘관</Speaker>||:......
+AR15Mod(8)<Speaker>AR-15</Speaker>||:......
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:...제 탓이 아닙니다.
+()<Speaker></Speaker>||<BGM>GF_22W_BGM_2</BGM>:모니터에 회의실의 화면의 띄워졌다. 그리고 접속 인원 명단을 확인했을 때, 지휘관과 AR-15는 입을 다물지 못했다.
+()<Speaker></Speaker>||<narrator>:우산 - 오프라인.+철분 - 오프라인.+유니콘 - 오프라인.+질소 - 오프라인.+체스 마스터 - 오프라인+울프팩 - 로그아웃.+블랙박스 - 로그아웃.
+AR15Mod(2)<Speaker>AR-15</Speaker>||:설마... 모두...?
+()<Speaker>지휘관</Speaker>||:...아니야, 신호가 끊어졌을 뿐이야. 아직 아무것도 확실치 않아.+댄들라이, 저건 뭐지?
+()<Speaker></Speaker>||:지휘관이 가상 회의실 중앙에 놓인 파일을 가리켰다.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:파일명이 "to 지휘관"이군요.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:해독 중... 동영상 파일입니다, 열겠습니다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:확장자 분석...+분석 완료. 영상 재생.
+()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1>:화면이 몇 번 반짝이더니, 익숙한 얼굴이 화면에 나타났다.+그 얼굴에 지휘관은 잠시 호흡조차 잊어버렸다.
+()||<黑屏1>:
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker><通讯框>||<BIN>357</BIN><黑屏2>:<color=#00CCFF>...오랜만이야, 지휘관.</color>
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:화면 속 안젤리아의 얼굴은 멍과 상처투성이었지만, 여전히 굳센 눈빛은 그녀가 꺾이지 않았음을 대변했다.+왠지 모르게, 그저 영상일 뿐임에도 지휘관은 안심이 되었다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>시간 없으니까 결론부터 말할게.</color>+<color=#00CCFF>정말 미안하지만, 난 아직 여길 떠날 수 없어.</color>
+AR15Mod(8)<Speaker>AR-15</Speaker>||:뭣——
+()<Speaker></Speaker>||:AR-15가 지휘관보다 먼저 경악하며 소리질렀다. 당연했다. RO635와 SOP2가 생사불명인 지금, 그녀는 지금 여느 때보다도 신경이 곤두서 있었다.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:반면, 지휘관은 조용히 지켜보며 이어지는 내용을 기다렸다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>나도 알아, 납득할 수 없겠지.</color>+<color=#00CCFF>애써 특공대까지 꾸려서 보냈는데, 이런 말도 안 되는 대답이라니.</color>+<color=#00CCFF>하지만 이럴 수밖에 없는 이유가 있어.</color>
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>그 이유가 뭔지는 말해 줄 거야. 넌 알 자격이 있어.</color>+<color=#00CCFF>하지만 그 전에... 내 질문에 대답해.</color>
+NPC-AngeDamage(0)<Speaker>AR-15</Speaker><通讯框><同时置暗>||:질문...?
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>지휘관... 너는 어떻게 해야 이 세상을 구할 수 있다고 생각해?</color>
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>자, 네 대답을 들려줘.</color>
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>네가 진정으로 내 전우인지를 판단하기 위한 질문이야. 신중하게 답해 줘.</color>
+AR15Mod(5)<Speaker>AR-15</Speaker>||:무슨 이딴 억지가... 어? 왜 영상이 멈췄지?
+()<Speaker>지휘관</Speaker>||:...댄들라이?
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:다음 부분이 암호화되어 있습니다.+패스워드를 입력해야만 해독하고 재생할 수 있는데, 아마 그것이 그녀가 원하는 대답이겠죠.+정 모르시겠다면 강제 해독을 시도해볼 수도 있습니다만?
+AR15Mod(5)<Speaker>AR-15</Speaker>||:엉터리야... 안젤리아가 무슨 대답을 듣고 싶은지 우리가 어떻게 알아?
+()<Speaker>지휘관</Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:안젤리아 씨... 당신이 원하는 답은...<c>과거?<c>현재?<c>미래?
+()<Speaker></Speaker>||<分支>1</分支>:과거를 계승해, 옛 방식으로 세상을 나눈다. 훈작사처럼, 오버슈타인이나 다른 관료들처럼.+규칙과 정치, 선택, 그리고 이익으로 세상을 구별해, 사람들이 생각하는 세상의 마땅한 모습으로 되돌린다.+훈작사의 말처럼, 소수가 만든 규칙으로 다수가 "올바른 길"을 걷도록 하는 것이다.+......+하지만, 그들은 올바를까?+그들이 올바르다면... 세상이 이 지경이 됐을 리 없다.+과거는 진작에 부정당했다. 그들의 복고주의는 그저 세상이 똑같은 비극을 되풀이하게 만들 뿐이다.+아니야. 이건 아니야.
+()<Speaker>지휘관</Speaker>||<BIN>9</BIN><分支>2</分支>:...현재.
+()<Speaker></Speaker>||<BIN>9</BIN><分支>3</分支>:......
+()<Speaker></Speaker>||<分支>3</分支>:"미래를 개척한다". 듣기엔 꽤 매혹적이다.+지휘관은 그 말을 곱씹으며, 어쩌면 가능할지도 모를 미래의 풍경을 상상했다.+하지만... 그런 미래를 만들려면 얼마나 많은 대가가 필요하고, 누가 그 대가를 지불할까?+......+만약 미래만을 바라보는 자들이, 지금 있는 것을 무작정 소모한다면, 정말 그런 미래가 도래했을 때 구원받아 마땅한 것들은 얼마나 남아있을까?+현재를 버리고서 무슨 미래를 논한단 말인가?
+()<Speaker></Speaker>||<BIN>9</BIN>:그렇다. 현재를 지켜야 한다. 안젤리아 씨처럼, 크루거 씨처럼, 마흐리안처럼, 지금까지 함께해 왔던 모든 이들처럼.+과거의 비극이 얼마나 많은 참사를 초래했더라도, "도리"를 입에 담는 자들이 그 희생들은 보이지도, 만져지지도 않는 아름다운 미래를 위해서라 세상을 속이더라도.+그들과, 우리가.+우리가 지금 지킬 수 있는 것. 유지할 수 있는 것. 손에 닿는다 확신할 수 있는 것.+그건 바로 "지금"뿐이다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑点2><BIN>357</BIN>:...바로 지금.
+AR15Mod(5)<Speaker>AR-15</Speaker>||:네?
+()<Speaker>지휘관</Speaker>||:바로 지금입니다, 안젤리아 씨.+우리가 봐야 할 것은 지금껏 변하지 않았어요.+지나간 과거도 아니고, 보이지 않는 미래도 아닌...+당장 눈앞에 있는 지금이에요.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>......</color>
+()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1>:치이익...
+AR15Mod(8)<Speaker>AR-15</Speaker>||:......아!+움직인다!
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>...그럴 줄 알았어.</color>+<color=#00CCFF>역시 너랑 난 둘도 없는 전우라니까, 지휘관.</color>
+()<Speaker></Speaker>||:화면 속의 안젤리아는 부드럽게 미소를 지었다, 다시 진지해졌다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>상황이 변했어, 지휘관.</color>+<color=#00CCFF>"그"의 목적은, 처음부터 패러데우스를 뿌리뽑는 게 아니었어.</color>+<color=#00CCFF>"그"는... 윌리엄을 자신의 지배하에 둘 생각이야.</color>
+NPC-AngeDamage(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:......!?
+()<Speaker></Speaker>||:안젤리아가 누구라 특정하진 않았지만, 지휘관은 "그"가 누구인지 바로 알아챘다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>....그건 절대 용납할 수 없어.</color>+<color=#00CCFF>"그"가 그만둘 생각이라면, 나라도 나서야지.</color>
+NPC-AngeDamage(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:......
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>악마는 욕망에서 비롯되는 게 아니라, 그런 힘을 가짐으로서 태어나는 거야.</color>+<color=#00CCFF>"그"가 이 힘을 얻어서는 안 돼. 이 힘에는 너무 많은 피가 묻었어.</color>+<color=#00CCFF>그리고 윌리엄이랑은... 슬슬 그만 결판을 내야겠지.</color>
+NPC-AngeDamage(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:설마, 자신을 미끼로...
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>RO가 가져온 선물은 받았어.</color>+<color=#00CCFF>그리고 이쪽에 도우미도 있으니까 내 걱정은 안 해도 돼.</color>
+NPC-AngeDamage(0)<Speaker>???</Speaker><通讯框><同时置暗>||:<color=#00CCFF>...시간 다 됐어.</color>
+NPC-AngeDamage(0)<Speaker></Speaker><通讯框><同时置暗>||:안젤리아는 화면을 향해 웃으며, 여전히 흔들리지 않는 굳은 결심 어린 눈빛을 보였다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>지금부터 잘 들어, 지휘관.</color>+<color=#00CCFF>내 계획은——</color>
+()<Speaker></Speaker>||:......+......+......
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:삐익.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:재생 종료.
+()||<黑点1>:

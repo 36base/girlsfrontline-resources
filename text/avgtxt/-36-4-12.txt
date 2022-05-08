@@ -6,18 +6,18 @@ NPC-Kalin(4)<Speaker>지휘관</Speaker>||:진짜 찰거머리가 따로 없군.
 NPC-Kalin(7)<Speaker>카리나</Speaker>||:모두 흩어진 상태에, 기지 내부도 혼란한 상황이고...
 NPC-Kalin(7)<Speaker>지휘관</Speaker>||:엄폐 유지하면서 대치하도록 지시 내려. 놈들이 예고르와 합류하게 둬선 안 돼.
 NPC-AngeDamage(4)<Speaker>안젤리아</Speaker><通讯框>;NPC-Kalin(7)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>무슨 일이지? 여기까지 땅이 울리는데.</color>
-NPC-AngeDamage(4);NPC-Kalin(7)<Speaker>지휘관</Speaker>||:공군의 폭격을 호출했다. 지상의 군부대는 이걸로 끝장났겠지만, 기지 내부로 일부 병력이 진입했어.
+NPC-AngeDamage(4);NPC-Kalin(7)<Speaker>지휘관</Speaker>||:공군의 폭격을 호출했습니다. 지상의 군부대는 이걸로 끝장났겠지만, 기지 내부로 일부 병력이 진입했습니다.
 NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>;NPC-Kalin(7)||:<color=#00CCFF>칫... 예고르의 기갑 유닛은 성가시긴 하지만, 아직 철혈과 실랑이를 벌이고 있어.</color>+<color=#00CCFF>놈들을 해치울 방법이 떠올랐는데, 그쪽의 도움이 필요해.</color>
-NPC-AngeDamage(4);NPC-Kalin(7)<Speaker>지휘관</Speaker>||:뭐지?
+NPC-AngeDamage(4);NPC-Kalin(7)<Speaker>지휘관</Speaker>||:무엇입니까?
 NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>;NPC-Kalin(7)||:<color=#00CCFF>내가 여기로 잠입했을 땐 수로를 통해서 들어왔어. 이 기지에는 바다로 연결되는 4개의 수문이 있거든.</color>+<color=#00CCFF>놈들을 지하 1층에 묶어둘 수만 있다면, 그 수문을 동시에 열어서 놈들을 수장시킬 수 있어.</color>+<color=#00CCFF>하지만 밸브는 전부 기지 지상에 있으니까, 위치 전송해 줄 테니 열든 부수든 그쪽에 부탁할게.</color>
-NPC-AngeDamage(4);NPC-Kalin(7)<Speaker>지휘관</Speaker>||:당신은 어떻게 탈출하려고?
+NPC-AngeDamage(4);NPC-Kalin(7)<Speaker>지휘관</Speaker>||:그럼 그쪽은 어떻게 탈출할 겁니까?
 NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>;NPC-Kalin(7)||:<color=#00CCFF>적이 목적을 이루도록 놔둘 수도 없어. 철혈, 예고르, 패러데우스, 그 누구도.</color>
-NPC-AngeDamage(4);NPC-Kalin(7)<Speaker>지휘관</Speaker>||:......+알았다.
+NPC-AngeDamage(4);NPC-Kalin(7)<Speaker>지휘관</Speaker>||:......+알겠습니다.
 NPC-Kalin(7)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:통신 종료.
 NPC-Kalin(4)<Speaker>카리나</Speaker>||<SE1>ClothingUp</SE1>:어, 지휘관님 뭐 하세요?+왜 방탄조끼까지 꺼내 입으시는...+엑, 그 권총이랑 배낭은...?
 NPC-Kalin(4)<Speaker>지휘관</Speaker>||<BGM>BGM_Wake</BGM>:그래, 예전에 크루거 씨께 받은 거야.
 NPC-Kalin(4)<Speaker>카리나</Speaker>||:아니 그걸 말하는 게 아니잖아요, 어디 가시려고요?!
-NPC-Kalin(4)<Speaker>지휘관</Speaker>||:안젤리아가 한 얘기 들었잖아?
+NPC-Kalin(4)<Speaker>지휘관</Speaker>||:안젤리아 씨가 한 얘기 들었잖아?
 NPC-Kalin(4)<Speaker>카리나</Speaker>||:인형들도 돌아오지 않았는데 혼자 움직이시면 너무 위험해요!
 NPC-Kalin(4)<Speaker>지휘관</Speaker>||:알아, 나도 혼자 갈 생각은 없어.+K, 받아.
 NPC-Jason(1)<Speaker>K</Speaker>;NPC-Kalin(4)||:원격 폭탄?

@@ -1,2 +1,62 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||:<color=#FFFF00>마인드맵 기록 분석 중...</color>+<color=#FFFF00>분석 완료 예상 시각... 02월 26일 16시 00분</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
+()||<BIN>166</BIN><Night><黑屏2><SE1>RunStep</SE1>:마치 무대의 스포트라이트처럼, 달빛이 부서진 콘크리트 벽과 어색하게 마주보는 인형들이라는 이 해괴한 광경을 비췄다.+그리고 웰로드가 무어라 입을 열기도 전에, 분홍 머리 인형이 눈살을 찌푸리더니 냅다 웰로드의 손을 잡고 내달렸다.
+Welrod(0)<Speaker>웰로드</Speaker>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:윽?! 잠깐, 이게 무슨 짓이냐!
+sub2000(5)<Speaker>？？</Speaker>;Welrod(0)||:소리가 너무 컸어! 공사장 사람들도 분명 들었을 거라고!
+sub2000(5);Welrod(0)<Speaker>웰로드</Speaker>||:내가 누구 때문에 그랬는데!
+NPC-PasserbyM(0)<Speaker>애꾸눈 인형</Speaker>;Welrod(0)||:까, 합...
+sub2000(5)<Speaker>？？</Speaker>;Welrod(0)||:응, 나도 알아! 그러니까 서두르는 거야!
+sub2000(5);Welrod(0)<Speaker>웰로드</Speaker>||:저걸 알아들어...?
+sub2000(5)<Speaker>？？</Speaker>;Welrod(0)||<黑屏1>:감으로 대충!
+()<Speaker></Speaker>||<BIN>86</BIN><Night><黑屏2>:거리를 지나고, 차도를 넘어...+인형들은 빈민가의 어느 골목길에 숨어들었다.
+Welrod(0)<Speaker>웰로드</Speaker>||<BGM>BGM_Empty</BGM>:후우... 그럼 이제, 이게 어찌 된 일인지 설명해 주실까.
+sub2000(5)<Speaker>？？</Speaker>;Welrod(0)||<BGM>BGM_Hello</BGM>:뭐야, 너 왜 아직도 있어?
+sub2000(5);Welrod(0)<Speaker>웰로드</Speaker>||:네가 끌고 왔으니까!+...그리고, 너희 모두 상태가 안 좋아보이니 사정을 듣고 싶다.
+sub2000(5)<Speaker>？？</Speaker>;Welrod(0)||:어... 그건 말하기 좀 어려운데...
+NPC-PasserbyM(0)<Speaker>애꾸눈 인형</Speaker>;Welrod(0)||:크큭.
+sub2000(5)<Speaker>메시아</Speaker>;Welrod(0)||:아무튼... 내 이름은 "메시아"고, 여기 눈 하나 없는 애는 "열쇠장이", 이쪽의 팔 없는 애는 "셰프"야.+얘네 둘 말고도 같이 사는 애들이 더 있고... 뭐, 사실상 여기가 우리 집이라 할 수 있지.+그리고, 그게... 며칠 전에 그 공사장의 시멘트가 괜찮아 보여서 좀 가져다 벽에 난 구멍을 막으려 했는데, 실수로 그만 거기에 갇혀버렸지 뭐야.
+sub2000(5);Welrod(0)<Speaker>웰로드</Speaker>||:실수? 시멘트를 훔치려다 들킬 거 같아 벽 뒤에 숨었다 시멘트가 부어져서 갇힌 거겠지.+그건 범죄 행위다, 메시아. 당장 자수하도록.
+sub2000(2)<Speaker>메시아</Speaker>;Welrod(0)||:네가 뭔데 이래라저래라야? 경찰이라도 돼?
+sub2000(2);Welrod(0)<Speaker>웰로드</Speaker>||:오직 경찰만이 사회의 질서를 바로잡을 수 있다면, 그건 분명 사회가 엉망이란 뜻이지.
+sub2000(2)<Speaker>메시아</Speaker>;Welrod(0)||:하, 우리 형편은 진작부터 엉망이었는데 뭐... 아무튼, 자수는 절대 안 해.
+Welrod(0)<Speaker>웰로드</Speaker>||:그렇다면, 질서를 어지럽히는 자를 이대로 놔줄 수 없다!
+()<Speaker></Speaker>||:웰로드가 메시아를 연행하려던 그때, 뒤에서 앳된 목소리가 소리쳤다.
+()<Speaker>？？？</Speaker>||:메시아! 도망가!
+()<Speaker></Speaker>||<震屏3>:그리고 무언가가 웰로드의 발꿈치에 부딪혔다.+동시에, "열쇠장이"와 "셰프"도 양쪽에서 웰로드의 팔을 붙들었다.
+sub2000(5)<Speaker>메시아</Speaker>||:쓱싹아?!
+()<Speaker>쓱싹이</Speaker>||:얼른, 메시아! 우리가 붙잡고 있을 테니까 너만이라도 살아남아!
+();Welrod(0)<Speaker>웰로드</Speaker>||<SE1>Rope</SE1>:청소로봇? 이게 무슨... 대체 뭘 하려는 거지? 지금 날 밀어내려는 건가?
+Welrod(0)<Speaker>쓱싹이</Speaker><Shake>||<黑点1>:끄응...!
+()||<BIN>86</BIN><Night><黑点2><BGM>BGM_Empty</BGM>:......+짧은 소동이 진정된 후 웰로드는 인형들의 본거지에 앉았고, 저마다 어딘가 망가진 인형들 열몇 명이 모였다.+메시아를 필두로 한 그들은 웰로드에게 자신들의 사연을 설명했다.
+Welrod(0)<Speaker>웰로드</Speaker>||<BGM>BGM_Moon</BGM>:그러니까... 너희는 버려진 인형이고, 이렇게 숨어있지 않으면 잡혀가 폐기된다고?
+sub2000(5)<Speaker>메시아</Speaker>;Welrod(0)||:맞아.+보다시피, 쓱싹이나 나처럼 멀쩡한 인형은 손에 꼽을 정도로 드물어.+다들 그저 세월을 보내기만 하고 있긴 해도, 이대로 폐기될 생각은 없어.
+sub2000(5);Welrod(0)<Speaker>웰로드</Speaker>||:네가 시멘트를 훔치려 한 것도 이 바람구멍을 막기 위해서였고?
+sub2000(5);Welrod(0)<Speaker></Speaker>||:그 말을 들은 작은 로봇청소기가 펄펄 뛰며 거들었다.
+NPC-PasserbyF(0)<Speaker>쓱싹이</Speaker>;Welrod(0)||:비 내리면 물이 줄줄 새기까지 해!
+NPC-PasserbyF(0);Welrod(0)<Speaker>웰로드</Speaker>||:...그래도, 이건 범죄다.
+sub2000(2)<Speaker>메시아</Speaker>;Welrod(0)||:하지만 너도 인형이니 알 거 아니야.+내가 없으면 쓱싹이 혼자선 모두가 필요한 물건을 가져오지 못해.
+sub2000(2);Welrod(0)<Speaker>웰로드</Speaker>||:그건 도둑질이지.
+sub2000(2)<Speaker>메시아</Speaker>;Welrod(0)||:일부는 쓰레기 속에서 건진 거거든? 훔친 거 아니야.+아무튼, 난 이대로 너한테 잡혀 갈 수 없어.
+sub2000(2);Welrod(0)<Speaker></Speaker>||:적대심으로 번뜩이는 인형들의 눈빛을 본 웰로드는 잠시 입을 다물었다.
+sub2000(2);Welrod(0)<Speaker>웰로드</Speaker>||:<color=#A9A9A9>이들에게 무기는 없어. 여차하면 나 혼자서도 손쉽게 해치울 수 있겠지.</color>+<color=#A9A9A9>하지만 나도 인형이니, 폐기당하는 것이 어떤 기분인지 모르는 것도 아니야. 타인의 입장에서 생각할 줄 알아야지.</color>+<color=#A9A9A9>이런 경우엔... 어떡하면 좋지?</color>
+sub2000(2)<Speaker>메시아</Speaker>;Welrod(0)||:그러니까 너만 눈감아 준다면――
+sub2000(2);Welrod(0)<Speaker>웰로드</Speaker>||:그럴 순 없다.
+sub2000(2)<Speaker></Speaker>;Welrod(0)||:웰로드의 즉답에 메시아는 인상을 찌푸렸다.+주위의 인형들도 웅성이면서 여차하면 웰로드에게 달려들 자세를 취했다.
+sub2000(5);Welrod(0)<Speaker>웰로드</Speaker>||:하지만 너희를 도와줄 수는 있지.+너희가 자력갱생하도록 돕겠어. 대신, 다시는 남의 물건을 훔치지 않겠다 약속해라.
+sub2000(2)<Speaker>메시아</Speaker>;Welrod(0)||:우릴 돕겠다니, 어떻게?+물자 지원? 아님 일자리라도 구해 주려고? 우린 모두 서너 세대는 지난 구형 모델이야. 우릴 고용하려는 데가 있기나 하겠어?
+sub2000(2);Welrod(0)<Speaker>웰로드</Speaker>||:으음... 우선, 내게 저축해 둔 돈이 어느 정도 있다. 그걸로 수복용 부품을 사 오지.+너희가 원활한 활동이 가능해지면, 돈을 벌 방법을 구상해 보자. 가령 저수입층에게 가정 서비스를 제공한다던가 말이야.
+sub2000(5)<Speaker>메시아</Speaker>;Welrod(0)||:...생판 남인데도 도와주겠다니 정말 고마워.+하지만 우리의 처지는 네가 일하는 환경과 전혀 달라. 네 생각을 당연하단 듯이 우리한테 적용하지 말아 줘.+우리가 처한 환경은 항상 생각한 대로 풀리지도, 노력한 만큼 꼭 보답을 받을 수 있지도 않아.
+sub2000(5);Welrod(0)<Speaker>웰로드</Speaker>||:하지만 그저 물자만 조금 주고 가서는 문제가 해결되지 않잖나.+"물고기를 주지 말고, 물고기를 잡는 법을 가르쳐라"라는 말도 있지.+악행을 근절하기 위해선 그 원인부터 해결해야 한다.
+sub2000(5)<Speaker>메시아</Speaker>;Welrod(0)||:말이야 누군들 못 해.
+sub2000(5);Welrod(6)<Speaker>웰로드</Speaker>||<黑屏1>:난 그리폰의 전술인형이다. 한 말을 반드시 지켜.+모두가 자력갱생할 방법을 찾을 때까지, 나도 여기서 머물겠다.
+()<Speaker></Speaker>||<BIN>86</BIN><黑屏2><BGM>BGM_Empty</BGM>:다음날 아침.
+Welrod(0)<Speaker>웰로드</Speaker>||<BGM>m_avg_casual</BGM>:어... 이 모델의 안구 교환은 어떻게 하는 거지? 그냥 끼워넣으면 되나?
+NPC-PasserbyM(0)<Speaker>애꾸눈 인형</Speaker>;Welrod(0)||:아... 악!
+sub2000(2)<Speaker>메시아</Speaker><Shake>;Welrod(0)||:으아아 너무 힘주지 마! 그냥 걔한테 줘, 알아서 할 수 있으니까.
+sub2000(2)<Speaker>쓱싹이</Speaker>;Welrod(0)||:자, 여기 거울!
+Welrod(0)<Speaker>웰로드</Speaker>||:스스로 고칠 수 있다고?
+sub2000(5)<Speaker>메시아</Speaker>;Welrod(0)||:정비사 인형이거든.+얘가 눈이랑 성대 고치면 나머지 애들도 얘한테 맡기면 돼.
+sub2000(5);Welrod(0)<Speaker>웰로드</Speaker>||:알았다, 그럼 모두의 수복은 열쇠장이에게 맡기지.+그나저나 방금 눈치챘다만, 너희는 전력이 모자라지 않는 모양이군. 어째서지?
+sub2000(5)<Speaker>메시아</Speaker>||:버려진 태양광 발전기가 있어. 번갈아가면서 충전하면 일상생활에 지장 없는 정도는 돼.
+()<Speaker></Speaker>||:웰로드는 고개를 끄덕이면서 수첩에 빼곡히 적힌 항목 중 하나를 지웠다.+그리고는 고개를 들어, 열쇠장이 주위에 모인 인형들을 살펴보았다.+모두 수리받을 차례를 기다리고 있었지만, 하나같이 표정은 평생 햇빛을 못 볼 것처럼 표정이 어두웠다.
+Welrod(6)<Speaker>웰로드</Speaker>||:...다 나아질 거야. 그렇게 만들고 말겠어.
+()<Speaker></Speaker>||<黑屏1>:고개를 돌려 이 암울한 골목길을 향해, 웰로드는 단언했다.

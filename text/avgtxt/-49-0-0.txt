@@ -1,0 +1,61 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>81</BIN><黑屏2><BGM>m_19christmas_theme</BGM>:12월 23일 오후 8시, 카페.
+()<Speaker></Speaker>||:카리나의 집합 호출을 받은 인형들은 기대감을 잔뜩 품고 카페에 모였다.+그리고 카리나의 옆에서 그 광경을 지켜보는 지휘관은, 꽤나 불안한 듯한 표정이었다.
+()<Speaker>지휘관</Speaker>||:카리나... 정말 이런 이벤트를 해도 괜찮을까? 역시 좀...
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:정말 괜찮대두요? 제가 저~언부, 완~벽하게 계획해 뒀으니까, 아무 걱정 마시고 저한테 맡기세요!+올해엔 모두가 원하는 선물을 받을 거예요, 제가 장담해요! 헤헤헤...
+()<Speaker>지휘관</Speaker>||:그, 그러니...?
+()<Speaker></Speaker>||:카리나의 음흉한 미소에 지휘관은 불안감만 더욱 커졌다.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||<BGM>BGM_Empty</BGM>:자아 그럼 시작해 볼까요?
+()<Speaker></Speaker>||<Night><SE1>AVG_BaseDoor_Open</SE1>:불이 꺼지면서 카페의 프로젝터 스크린이 내려와, 올해의 크리스마스 이벤트의 규칙이 비쳐졌다.+인형들은 기다렸다는 듯 우렁차게 환호했고, 카리나는 손 안의 동전을 높이 들었다.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||<SE1>ClothingUp</SE1><BGM>BGM_21Christmas_Christmas</BGM>:이게 바로 이번 크리스마스 이벤트의 주인공, <color=#FF0000>성탄 코인</color>입니다!
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:앞면에는 크리스마스 트리가 새겨졌고, 뒷면엔 원래 소유자의 이름이 새겨져 있습니다! 봐, 이건 내 이름이 있죠?+이벤트는 바로 오늘부터! 각자 이 성탄 코인을 <color=#FF0000>가장 고마운 사람</color>에게 선물하고, 크리스마스 당일 밤 8시에 코인을 제일 많이 가진 우승자를 가릴 거예요!+우승자에게는 놀라지 마시라, <color=#FF0000>지휘관님께 소원을 하나 빌 수 있는 기회</color>가 주어집니다!
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:아, 물론 너무 과한 소원은 안 돼. 365일 유급 휴가라든가, 숙소에서 코끼리를 키우고 싶다든가――
+()<Speaker></Speaker>||:카리나는 계속해서 열심히 규칙을 설명했지만, 청중들의 소란스러운 목소리에 묻힌 지 오래였다.
+M1873Mod(0)<Speaker>콜트 리볼버</Speaker>||:내 소원은 오직 하나!
+M1873Mod(0)<Speaker>콜트 리볼버</Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>:콜라 100톤!
+64typeMod(0)<Speaker>64식</Speaker>||<SE1>Rope</SE1>:잠 좀 깨세요 56-1! 코인은 먹는 거 아니에요!
+92type(0)<Speaker>92식</Speaker><Shake>0.1</Shake>||<震屏3><SE1>Select</SE1>:뭐? 너 지금 코인을 누구한테 줄 거라고?!
+AAT52(0)<Speaker>AAT52</Speaker><Shake>0.1</Shake>||<SE1>ClothingUp</SE1><SE1>AVG_Combat_Hits</SE1>:스텐한테 줄 거라고! 어차피 스텐도 나한테 줄 텐데 뭐!
+StenMK2Mod(0)<Speaker>스텐 MkⅡ</Speaker><Shake>0.1</Shake>||:아이 참, 그만 싸워! <size=25>어떡하지, 마카로프한테 줄 생각인데...</size>
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=5</controll_shake>:기지의 모두가 모이기엔 조금 좁은 카페가, 인형들의 넘쳐나는 의욕으로 폭발할 것만 같았다.
+()<Speaker></Speaker>||<SE1>AVG_Combat_Hits</SE1>:애원하며 매달리고, 윽박지르며 말다툼하고, 투닥투닥 몸싸움까지 벌이는 저 아수라장을, 지휘관은 차마 눈 뜨고 볼 수가 없었다.
+()<Speaker></Speaker>||<关闭蒙版><SE1>AVG_tele_disconnect</SE1>:이에 아랑곳않고 끝까지 설명을 마친 카리나가 카페의 조명을 다시 켰음에도, 인형들의 아수라장은 잦아들 기미가 안 보였다.
+NPC-Kalin(8)<Speaker>카리나</Speaker>||<震屏3><SE1>AVG_whitenoise</SE1><SE1>AVG_Tinnitus</SE1>:다들 조용! 아직 하나 더 남았어!
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:지휘관님~♪
+()<Speaker>지휘관</Speaker>||:억, 왜, 왜 그러니 카리나...?
+()<Speaker></Speaker>||:스피커에서 "지휘관"이란 소리가 나자마자, 소란은 바로 멈췄다.+가슴이 철렁한 지휘관이 고개를 돌리니 역시나, 카리나가 이죽거리며 성탄 코인을 내밀었다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||<SE1>ClothingUp</SE1>:여기, 지휘관님의 코인이에요.
+()<Speaker>지휘관</Speaker>||:어... 고마워...
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:지휘관님.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:지휘관님은 누구에게 코인을 주실 거예요?
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:현장의 분위기가 순식간에 절대영도로 떨어졌다.+그와는 정반대로, 뜨겁게 불타는 무수한 시선이 지휘관을 벌집으로 만들 기세로 쏟아졌다.+지휘관은 침을 꿀꺽 삼키고, 긴장해 떨리는 목소리로 간신히 입을 열었다.
+()<Speaker>지휘관</Speaker>||:어... 나, 난 아ㅈ――
+()||<黑点1>:
+()<Speaker>MK23</Speaker>||<BGM>m_19christmas_battle</BGM><SE1>ClothingUp</SE1><黑点2><BIN>444</BIN>:당연히 나한테 줄 거지? 달~링♡
+()<Speaker>KAC PDW</Speaker>||<SE1>AVG_Punch</SE1><震屏3>:어머나 이게 어디서 주접이야? 허니의 성탄 코인은 당연히 내 거지~♥
+()<Speaker>MK23</Speaker>||<SE1>Rope</SE1>:헛소리 마셔! 달링, 누구한테 줄 거야!?
+()<Speaker>지휘관</Speaker>||:어...<c>Mk23에게 준다.<c>KAC PDW에게 준다.<c>다른 사람에게 준다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:그러니까...
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:그러니까...
+()<Speaker>지휘관</Speaker>||<分支>3</分支>:그러니까...
+()<Speaker>카리나</Speaker>||:어, 벌써 말하시려고요? 시시하게스리!+지휘관님의 선택을 공개하는 건 크리스마스 당일로 하자고요~
+()<Speaker>지휘관</Speaker>||:뭣?! 야!
+()<Speaker>MK23</Speaker>||:그래...? 조금 더 기다려도 괜찮아, 달링의 코인은 결국 내 거니까!
+()<Speaker>KAC PDW</Speaker>||:허니의 마음은 이미 잘 전달됐어. 괜찮아, 조금 더 기다리지 뭐.
+()<Speaker>카리나</Speaker>||:쉬~잇! 지휘관님, 서프라이즈는 최대한 아껴 두세요!
+()||<黑点1>:
+IDWMod(0)<Speaker>IDW</Speaker>||<震屏3><黑点2><BIN>81</BIN>:<size=50>우와! 지휘관의 코인! 냐도 갖고 싶다냥!</size>
+SPAS12(0)<Speaker>SPAS12</Speaker>||:지휘관의 마음이 담긴 성탄 코인... 나, 저거 못 받으면 속상해서 식량 창고 다 털어버릴지도!
+pa15(0)<Speaker>PA-15</Speaker>||:오호~? 지휘관의 코인을 어떻게 챙길지 생각 좀 해봐야겠는걸♪
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:뜨거운 시선을 한몸에 받는 지휘관은 식은땀을 뻘뻘 흘렸다.+그리고 이 곤경에서 벗어나기 위해, 아무와도 눈도 마주치지 않도록 이리저리 눈을 굴리며 슬금슬금 카페의 문으로 향했다.
+()<Speaker>지휘관</Speaker>||<SE1>AVG_BaseDoor_Open</SE1>:나, 난 아직 업무가 남았으니까, 먼저, 간다? 이벤트 재밌게 즐겨~
+()<Speaker></Speaker>||<SE1>Rope</SE1>:그 부질없는 연막을 뚫고, 부드러운 두 손이 지휘관의 손을 붙잡았다.
+DSR50(0)<Speaker>DSR50</Speaker>||:우리 자기, 많~이 피곤해 보이네... 내가 안마해 줄까? 싸게 해 줄게, 성탄 코인 한 닢이면 돼.
+Saiga12(0)<Speaker>Saiga-12</Speaker>||:크흠... 지휘관님? 성탄 코인을 제게 주신다면, 제 비장의 사진집을 빌려 드릴게요...!
+()<Speaker>지휘관</Speaker>||:사양할게! 이만 가봐야... 오, 오지 마... 오지 말라고...!
+()<Speaker></Speaker>||<SE1>AVG_Crowd_Run</SE1>:다들 힌트를 얻은 듯, 점점 더 많은 인형들이 눈을 번뜩이며 몰려들었다.+뜨거운 열정의 파도가 지휘관을 덮치려는 것이었다.
+()<Speaker>지휘관</Speaker>||<controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=5</controll_shake>:가까이 오지 마아아아――!!
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:줄행랑치는 지휘관의 비명과 함께, 올해 크리스마스 이벤트의 막이 올랐다.
+()||<黑点1><BGM>BGM_Empty</BGM>:

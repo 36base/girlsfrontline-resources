@@ -140,7 +140,7 @@ M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#00CCFF>알겠습니다, 즉시 움�
 NPC-AngeDamage(4)<Speaker>안젤리아</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>아직 살아있지, 지휘관?</color>
 NPC-AngeDamage(4);NPC-Kalin(8)<Speaker>카리나</Speaker>||<BGM>BGM_Sneak</BGM>:아... 안젤리아 씨!
 NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>;NPC-Kalin(8)||:<color=#00CCFF>그리폰이 전멸하진 않았구나. 다행이다.</color>+<color=#00CCFF>우리와 합류한 404가 봉쇄를 해제했으니, 우리도 지금부터 작전에 참가하겠어.</color>+<color=#00CCFF>방금 폭발이 꽤 크던데, 지금 상황은 어때?</color>
-NPC-AngeDamage(4);NPC-Kalin(8)<Speaker>지휘관</Speaker>||:입구에서 군부대를 저지 중이었는데, 예고르와 그의 친위대로 보이는 웬 기갑 유닛 한 부대가 기지 내부로 진입했다. AR팀이 저지에 나섰으니, 그쪽도 협력 바란다.+이쪽은 입구를 완전히 틀어막는 데 실패해서, 후속 병력과 싸우게 될 거야.
+NPC-AngeDamage(4);NPC-Kalin(8)<Speaker>지휘관</Speaker>||:입구에서 군부대를 저지 중이었는데, 예고르와 그의 친위대로 보이는 웬 기갑 유닛 한 부대가 기지 내부로 진입했습니다. AR팀이 저지에 나섰으니, 그쪽의 협력을 부탁합니다.+이쪽은 입구를 완전히 틀어막는 데 실패해서, 후속 병력과 싸우게 될 겁니다.
 NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>;NPC-Kalin(8)||:<color=#00CCFF>K는 살아있고?</color>
 NPC-AngeDamage(4);NPC-Jason(1)<Speaker>K</Speaker>||:난 멀쩡하다.
 NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>;NPC-Jason(1)||:<color=#00CCFF>그럼 네가 가진 수단으로 우릴 살려내 봐. 그 멋으로 차고 다니던 명찰을 이런 때 아니면 또 언제 쓰겠어?</color>
@@ -148,5 +148,5 @@ NPC-AngeDamage(4);NPC-Jason(1)<Speaker>K</Speaker>||:실험실 상황은?
 NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>;NPC-Jason(1)||:<color=#00CCFF>살아있는 샘플을 포함해서, 너희가 원하는 물건을 전부 수집했다. 기필코 안전하게 회수할 테니 걱정 마셔.</color>
 NPC-AngeDamage(4);NPC-Jason(1)<Speaker>K</Speaker>||:...그럼 나도 손을 써 보지.
 NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>;NPC-Jason(1)||:<color=#00CCFF>지휘관, AR팀의 지휘 권한을 내게 인계해 줘. 예고르 그 자식은 내가 확실하게 해치우겠어.</color>
-NPC-AngeDamage(4)<Speaker>지휘관</Speaker>||:부탁한다. 꼭 살아서 돌아와라.
+NPC-AngeDamage(4)<Speaker>지휘관</Speaker>||:부탁합니다. 꼭 살아서 돌아오십시오.
 NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>||<SE1>AVG_tele_disconnect</SE1><黑屏1>:<color=#00CCFF>노력하지. 통신 종료.</color>

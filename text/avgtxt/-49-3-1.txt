@@ -1,0 +1,182 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>7</BIN><黑屏2><回忆><边框>2</边框><SE1>GF_Halloween_Wind_loop</SE1><BGM>10065</BGM>:약 1개월 전, 그리폰 기지에서 약 50km 떨어진 설산지대. 그리폰의 소대 하나가 이곳에 원정 임무를 수행하는 중이었다.
+()<Speaker></Speaker>||<边框>2</边框><SE1>Select</SE1>:그곳에서, 수오미는 서리처럼 차가운 살기를 내뿜으며 Px4 스톰에게 총구를 향했다.
+KP31(0)<Speaker>수오미</Speaker>||<边框>2</边框>:Px4 스톰, 마지막 경고예요.+더미를 본체로 위장하고 대열에서 이탈하지 마세요.+물자 확보랍시고 규정 외 위험 지역으로 진입하는 당신만 아니라, 그런 당신을 찾으려는 우리까지 위험해진다고요.
+Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:알았어, 미안해. 그러니까 총부터 좀 치워 줄래?
+FP6(0)<Speaker>FP6</Speaker>||<边框>2</边框>:네가 암시장에서 의뢰를 받아 돈이 될 만한 물건을 찾아다니는 걸 우리가 정말 모를 줄 알았어?+솔직히 당장에라도 영창에 처넣고 싶은데, 지금은 임무 중이니 대원들의 안위를 고려하도록.
+Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:네에 네에, 여부가 있겠어요 형사님♪
+FP6(0)<Speaker>FP6</Speaker>||<边框>2</边框>:쯧... 수오미, 그만 총 내려.
+()<Speaker></Speaker>||<边框>2</边框><SE1>ClothingUp</SE1>:수오미가 총을 내릴 때, 옆에서 지켜보던 CAWS는 Px4 스톰의 표정이 처음부터 끝까지 전혀 변하지 않았음을 눈치챘다.+그 무엇에도 관심 없이, 그저 대충 넘기려는 미소였다.
+FP6(0)<Speaker>FP6</Speaker>||<边框>2</边框>:그럼 다시 예정 경로로 복귀한다.+수오미는 선두에서 길의 상태를 보고, 나머지는 멀리 떨어지지 말고 따라와!
+KP31(0)<Speaker>수오미</Speaker>||<边框>2</边框>:...알겠습니다.
+()<Speaker></Speaker>||<边框>2</边框>:수오미는 대열의 선두에 서서 GPS를 확인했고, 소대장을 맡은 FP-6은 대원들의 위치와 상태를 유심히 살폈다.+그러던 와중, CAWS의 시선을 눈치챘는지 Px4 스톰이 스리슬쩍 CAWS의 곁으로 다가왔다.
+Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:너무 긴장 마 신참, 모두 붙임성 좋은 애들이야. 그냥 내가 규정을 위반했다고 사납게 군 거지.+너도 얌전히 시키는 대로만 하면 별일 없을 거야.
+hkcaws(0)<Speaker>CAWS</Speaker><Position>0,100</Position>;Px4Storm(0)||<边框>2</边框>:...그리폰의 인형들은 다 동료부터 우선시하는 타입인 줄 알았는데.
+hkcaws(0)<Position>0,100</Position>;Px4Storm(4)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:하하하, 그래서 내가 이레귤러라는 말씀. 나랑 같이 다니면 불행한 일에 자주 휘말리게 된다구.
+hkcaws(0)<Speaker>CAWS</Speaker><Position>0,100</Position>;Px4Storm(4)||<边框>2</边框>:......
+FP6(0)<Speaker>FP6</Speaker>;Px4Storm(4)||<边框>2</边框><SE1>ClothingUp</SE1>:Px4, 또 허튼짓 말고 대열 중간으로 돌아가.
+FP6(0)<Speaker></Speaker>;Px4Storm(4)<同时置暗>||<边框>2</边框>:FP-6가 불쑥 나타나, Px4 스톰과 CAWS 사이에 끼어들었다.
+Px4Storm(4)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:네에 대장님~
+()<Speaker></Speaker>||<边框>2</边框>:Px4 스톰이 제자리로 돌아간 걸 확인한 뒤, FP-6은 CAWS에게 고개를 돌렸다.
+FP6(0)<Speaker>FP6</Speaker>||<边框>2</边框>:CAWS, 넌 원정 임무는 이번이 처음이지? 대장으로서 주의점을 하나 말해 주겠어.+Px4의 작전 수행 능력은 의심할 여지가 없긴 해. 하지만 녀석은 금전적인 욕구가 너무 강해서, 비이성적인 행위는 밥먹듯이 저지르고 툭하면 동료까지 화를 입게 만들지.+그러니까 녀석이 친절하게 나온다고 방심하지 말도록.
+hkcaws(0)<Speaker>CAWS</Speaker><Position>0,100</Position>||<边框>2</边框>:알았어.
+()<Speaker></Speaker>||<边框>2</边框>:FP-6도 위치로 돌아갔지만, CAWS의 시선은 다시 Px4 스톰에게 향했다.+마침 고개를 돌렸던 그녀도 눈치채고 미소로 화답했지만, 여전히 만사 무관심한 얼굴이었다.
+()||<黑屏1><边框>2</边框>:
+()<Speaker></Speaker>||<黑屏2><SE1>Stop_AVG_loop</SE1><关闭蒙版><BIN>9</BIN><BGM>BGM_Empty</BGM>:분노한 수오미를 마주한, 바로 지금처럼.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑点2><BIN>18</BIN><BGM>BGM_Brain</BGM>:12월 24일 오후 4시 45분, 기지의 복도.+수오미의 포효가 복도를 따라 메아리쳤다. 혹시나 싶어 CAWS가 Px4 스톰의 얼굴을 살폈지만 역시나, 별거 아니라는 미소였다.
+KP31(8)<Speaker>수오미</Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=10</controll_shake>:<size=50>악질인 것도 정도가 있지! 어떻게 사리사욕을 채우려고 이토록 비겁한 술수까지 쓸 수가 있어요!?</size>
+()<Speaker></Speaker>||:뚜껑 열린 수오미를 앞에 두고도, Px4 스톰은 아주 태연했다.
+Px4Storm(5)<Speaker>Px4 스톰</Speaker>||:아니 정말로, 네가 지금 무슨 소릴 하는지 하나도 모르겠다니까?+메일이니 전략을 도용했다니, 전혀 이해가 안 가. 좀 자세히 설명해 줄래?
+KP31(8)<Speaker>수오미</Speaker>||:설명? 설명이요!? 무슨 설명이 더 필요해요!!
+()<Speaker></Speaker>||:지금 수오미가 눈에 뵈는 게 없다는 것을 깨달은 CAWS는 일단 상황을 진정시키기로 마음먹었다.
+hkcaws(2)<Speaker>CAWS</Speaker>||:수오미, 정말 오해가 있는 걸지도 모르니까 일단 앉아서 천천히――
+KP31(8)<Speaker>수오미</Speaker>||:당신도 마찬가지예요! 그때 당신도 있었는데, 어떻게 또 이 여자한테 속을 수가 있어요!?
+hkcaws(2)<Speaker>CAWS</Speaker>||:......
+()<Speaker></Speaker>||:CAWS는 한 달 전의 그 임무를 떠올렸다.+그 임무는 예정 경로에서 눈사태가 발생해 중단되었고, 소대 전원은 눈사태에 휩쓸린 이후부터 수복되기 전까지의 기억이 없었다. 오직 Px4 스톰만 빼고.+하지만 그녀는 그 사이에 무슨 일이 있었는지를 말하지 않았다.+여기에 그녀의 평판이 더해져, 소대원 모두가 기능이 정지된 틈을 타 주변에서 물건을 잔뜩 주운 다음 구조를 부른 것 아니냐는 소문마저 퍼졌다.+CAWS가 인상을 조금 찌푸리며 다시 PX4 스톰에게 시선을 향하니, 이번에는 드물게도 그녀가 시큰둥한 태도를 거두고 약간 진지한 기색을 보였다.
+Px4Storm(5)<Speaker>Px4 스톰</Speaker>||:수오미, 일단 진정할까?
+KP31(8)<Speaker>수오미</Speaker>||:진정하라고요? 지금 진정하라고요!? 어떻게 진정하라는 건데요, 우리가 하루종일 고생고생한 게 전부 허사가 되게 생겼는데!
+Px4Storm(5)<Speaker>Px4 스톰</Speaker>||:그 메모리 카드는 우리도 진짜 처음 본대도? 헬리안 씨의 메일도 지금 확인했어.+농담 아니라, 정말 우리랑은 관계 없는 일이야. 우리도 오늘은 선물 뿌리고 다니느라 바빴다니까 그러네...
+hkcaws(2)<Speaker>CAWS</Speaker>||:맞아, 내가 보장해.
+KP31(8)<Speaker>수오미</Speaker>||:......
+RFB(6)<Speaker>RFB</Speaker>||:그래 수오미, 침착하게 생각해보자. 얘네가 했다는 확실한 증거도 없잖아.
+()<Speaker></Speaker>||:살벌하던 분위기가 약간 누그러지는 듯했다.
+hkcaws(2)<Speaker>CAWS</Speaker>||:그러니까, 다 앉아서 천천히 얘기를――
+()<Speaker>FP6</Speaker>||<BGM>BGM_Empty</BGM>:<size=50>네놈들! 꼼짝 말고 손 들어! 체포하겠다!</size>
+()<Speaker>100식</Speaker>||:<size=50>체포하겠어요!</size>
+()<Speaker></Speaker>||<BGM>BGM_Sneak</BGM>:복도 양쪽에서 메가폰의 기계음 섞인 고함이 들려와, 포위당한 인형들은 당황했다.
+RFB(6)<Speaker>RFB</Speaker>||:뭐야 뭐야?! 우리 현상금 걸렸어!?
+TMP(2)<Speaker>TMP</Speaker>||:우리 체포돼요...?
+KP31(8)<Speaker>수오미</Speaker>||:흥, 도망가긴 누가요? 잘못한 것도 없는데.
+()<Speaker></Speaker>||:갑작스런 상황에도 수오미는 전혀 겁먹지 않았다.+한편, Px4 스톰은 CAWS의 귓가에 대고 속삭였다.
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:준비해.
+hkcaws(2)<Speaker>CAWS</Speaker>||:...응? 무슨 준비?
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:복도의 양끝에서, FP-6와 100식이 포위망을 좁혀 왔다.
+RFB(6)<Speaker>RFB</Speaker>||:우, 우린 아무 짓도 안 했어!
+FP6(0)<Speaker>FP6</Speaker>||:너희 말고.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:FP-6의 날카로운 시선은, 수오미 일행을 지나 Px4 스톰에게 꽂혔다.
+FP6(0)<Speaker>FP6</Speaker>||:오랜만이다, Px4 스톰.
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:그렇네, 대충 한 달만인가?
+Type100(0)<Speaker>100식</Speaker>||:두 분, 고물을 선물로 둔갑시켜 인형들을 속이고 성탄 코인을 갈취한 혐의로 이벤트 수칙 제7항을 위반해――
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||<BGM>BGM_Empty</BGM>:지금이야.
+hkcaws(2)<Speaker>CAWS</Speaker>||:엉?
+()<Speaker></Speaker>||<SE1>RunStep</SE1><震屏3><BGM>m_avg_tension</BGM>:Px4 스톰이 냅다 달려, 100식의 옆을 쌩 지나쳤다.+CAWS는 아직 뭐가 뭔지 제대로 파악하지 못했지만, 반사적으로 Px4 스톰의 뒤를 따랐다.
+Type100(0)<Speaker>100식</Speaker>||<震屏>:<size=50>아앗! 거기 서라――!!</size>
+hkcaws(2)<Speaker>CAWS</Speaker>||:야! 그냥 함께 선물 나눠주는 거라며!
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:삶이란 원래 1초 뒤에 무슨 일이 벌어질지 모르는 재미지!
+()<Speaker></Speaker>||:부리나케 도망치는 와중인데도, Px4 스톰은 고개를 돌려 CAWS에게 혀를 내밀어 보였다.
+hkcaws(2)<Speaker>CAWS</Speaker>||:......
+()||<黑屏1>:
+hkcaws(2)<Speaker>CAWS</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:<color=#A9A9A9>어젯밤에 말한 거랑 전혀 다르잖아!</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<SE1>AVG_AMB_Restaurant</SE1><BGM>m_19christmas_theme</BGM><BIN>81</BIN><黑点2><回忆><边框>2</边框>:12월 23일 오후 8시, 시끌벅적한 카페.+익숙치 않은 얼굴들이 스쳐지나가고, 면식 있는 인형이 근처에 없는 것을 확인한 다음에야, CAWS는 아까부터 참았던 미소를 드러냈다.
+hkcaws(4)<Speaker>CAWS</Speaker>||<边框>2</边框>:<color=#A9A9A9>성탄 코인을 제일 많이 모으면, 지휘관한테 소원을 하나 빌 수 있다 이거지...</color>+<color=#A9A9A9>연말 보너스를 2배로 받을 절호의 찬스다! 헤헤헤...</color>+<color=#A9A9A9>아니, 2배는 너무 싱거운가? 3배... 아니, 5배? 으음...</color>
+()<Speaker></Speaker>||<边框>2</边框><SE1>ClothingUp</SE1>:그때, 누군가가 대뜸 CAWS의 어깨에 손을 얹었다.
+Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:안녕, Px4 스톰이야.+오랜만인데 아직 나 안 잊었지?
+hkcaws(0)<Speaker>CAWS</Speaker>;Px4Storm(0)||<边框>2</边框>:......+아, 기억해. 지난번에 원정 임무 같이 갔었지.
+hkcaws(0);Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:다행이다, 그럼 바로 본론으로 들어갈까?+CAWS, 나랑 한 팀 하자.
+hkcaws(0)<Speaker>CAWS</Speaker>;Px4Storm(0)||<边框>2</边框>:싫어.
+hkcaws(0);Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:아직 뭘 하자고 말도 안 했는데...
+hkcaws(0)<Speaker>CAWS</Speaker>;Px4Storm(0)||<边框>2</边框>:내가 아는 넌 멀쩡한 계획을 세웠을 리가 없으니까지. 방향성부터가 삐뚤어졌을 게 뻔해.
+hkcaws(0);Px4Storm(4)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:헤에... 날 잘 안다는 투네?+하지만 이 이벤트에서 100% 우승할 방법이라면 어때? 그래도 안 솔깃해?
+hkcaws(0)<Speaker>CAWS</Speaker>||<边框>2</边框>:......
+()<Speaker></Speaker>||<边框>2</边框>:CAWS는 가슴이 철렁했다. 이 위험천만한 녀석도 대회에서 이길 셈이었다니.
+hkcaws(0)<Speaker>CAWS</Speaker>||<边框>2</边框>:...왜 하필 나야?
+Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:내가 아는 애들은 하나같이 순진해 빠졌는데, 너만은 나랑 같은 부류 같아서 말이지.+시시한 환상 따위 버리고 현실을 직시하면서, 추상적인 것보단 물질적인 것을 추구하는...
+hkcaws(0)<Speaker>CAWS</Speaker>||<边框>2</边框>:확실히 내가 돈 욕심이 있긴 하지만, 그래도 너랑 손잡을 마음은 없어. 게다가 이건 단체전도 아니잖아. 미안하지만 다른 사람 알아봐.
+Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:아앗, 잠깐 잠깐!
+()<Speaker></Speaker>||<边框>2</边框><SE1>ClothingUp</SE1>:CAWS는 인파 사이를 유연하게 헤치고 나갔다.+하지만, Px4 스톰은 상당히 끈질겼다.
+Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:내 말 좀 끝까지 들어보라구!+이렇게 매력적인 상품이 걸린 대회인 만큼 경쟁자가 한둘이 아니라는 건 너도 알 거 아니야? 혼자서는 승산이 너무 낮아!
+hkcaws(0)<Speaker>CAWS</Speaker>||<边框>2</边框>:그렇겠지.
+Px4Storm(4)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:그치? 그러니까 내 계획이 뭐냐면, 선물을 줘서 성탄 코인이랑 맞바꾸는 거야.+생각해 봐, 우리 기지에 내성적인 애들 엄청 많잖아? 평소에 사교 활동 잘 못 해서 크리스마스에도 방에만 틀어박히는 애들.+걔네들 너무 불쌍하잖아? 그런 걔네 앞에 산타 두 명이 나타나서 선물을 주면, 무진장 기뻐하며 성탄 코인을 꺼내지 않을까?
+hkcaws(0)<Speaker>CAWS</Speaker>||<边框>2</边框>:그렇겠지.
+Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:그런데 왜 자꾸 걸음이 빨라지는데!?
+hkcaws(0)<Speaker>CAWS</Speaker>||<边框>2</边框>:참 장하다 생각해서. 정말 좋은 아이디어니까 잘 해봐, 꼭 우승할 거야.
+Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:그렇지? 다른 건 다 준비됐으니까 이제 완벽한 파트너만 있으면 돼.
+hkcaws(0)<Speaker>CAWS</Speaker>||<边框>2</边框>:그렇겠지. 완벽한 파트너 잘 찾아봐.
+Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:......
+()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_XXS_kick</SE1><震屏3><SE1>Stop_AVG_loop</SE1><BGM>BGM_Empty</BGM>:끈질기게 따라붙던 Px4 스톰의 갑자기 눈빛이 달라지더니, 몸을 날려 CAWS의 팔을 붙잡고 늘어졌다.
+hkcaws(0)<Speaker>CAWS</Speaker><Shake>0.1</Shake>||<边框>2</边框>:아 진짜 뭔――
+hkcaws(0);Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框><BGM>GF_Memorial</BGM>:훌쩍... 미안해 CAWS... 실은 다 거짓말이야...+지금 나한텐 너밖에 안 남았어...+다들 날 무서워해서 눈도 안 마주치려 해... 흑... 정말 너밖에는... 흑흑...
+hkcaws(0)<Speaker>CAWS</Speaker>;Px4Storm(0)||<边框>2</边框>:......
+hkcaws(0);Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:같이 임무 나갔을 때, 내가 얼마나 미움받는지 봤잖아...?+이렇게라도 날 상대해 주는 사람은... CAWS 너밖에 없어...
+hkcaws(0)<Speaker>CAWS</Speaker>;Px4Storm(0)||<边框>2</边框>:......
+Px4Storm(0)<Speaker></Speaker><同时置暗>||<边框>2</边框>:이때의 CAWS는, 다음날 Px4 스톰이 얼마나 굉장한 연기력의 소유자인지 놀랄 줄은 예상 못했다.+그저, 약 1개월 전의 임무 도중 맞닥뜨렸던 눈보라밖에 생각나지 않았다.+그리고 CAWS가 입을 열기도 전에, Px4 스톰은 그녀의 손을 잡고 계획의 설명을 계속했다.
+hkcaws(0);Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:그러니까, 모두의 경계심을 풀어 줄 사람이 필요해. 그래야 상대방이 문을 열고 나올 거 아니야?+나눠줄 선물을 준비하는 건 내가 다 알아서 할 테니까 걱정 마.+넌 그냥 나 대신 애들이 문을 열도록만 해 주면 돼.
+hkcaws(0)<Speaker>CAWS</Speaker>;Px4Storm(0)||<边框>2</边框>:......+그게 다면, 좋아.
+Px4Storm(4)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:정말!? 고마워 CAWS! 우린 분명 최고의 콤비가 될 거야!
+()<Speaker></Speaker>||<边框>2</边框>:CAWS는 귓가에 수오미와 FP-6의 경고가 어렴풋이 다시 들리는 것 같아, 왠지 모르게 찜찜했다.
+hkcaws(0)<Speaker>CAWS</Speaker>||<边框>2</边框>:성과 분할은 어떻게 할 건데?
+hkcaws(0);Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:그야 물론 5대5지! 24일 하루 동안만 협력하자.+25일에는 건투를 빌며 헤어져서, 누가 우승할지 겨루는 거야!
+hkcaws(0)<Speaker>CAWS</Speaker>;Px4Storm(0)||<边框>2</边框>:...꽤 공평하게 들리네.
+Px4Storm(4)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:헤헤, 그치그치? 우리 같이 잘해보자♪
+()<Speaker></Speaker>||<边框>2</边框>:힘차게 악수하는 Px4 스톰은 아주 진심 어린 얼굴이었다.
+()||<黑屏1><边框>2</边框>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>Stop_AVG_loop</SE1><BGM>BGM_Empty</BGM>:그 다음날, 순진한 인형들과 만날 때마다 보인 미소만큼.
+()||<黑屏1>:
+()<Speaker></Speaker>||<边框>2</边框><黑屏2><SE1>GF_Halloween_Wind_loop</SE1><BIN>7</BIN><BGM>m_wv_scenario</BGM>:12월 24일 오후 4시, 기지 근처.
+NPC_HanabiYousei(2)<Speaker>폭죽요정</Speaker><Position>0,340</Position>||<边框>2</边框>:어... 원래 크리스마스가 서로 선물을 교환하는 날이던가요?
+()<Speaker></Speaker>||<边框>2</边框>:크리스마스 기념 불꽃놀이를 준비하느라 한창 바쁘던 폭죽요정은, Px4 스톰에게서 선물을 받곤 고개를 갸우뚱했다.
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:그뿐만이 아니야! 크리스마스에 다른 사람의 소원을 이뤄 주면, 나중에 서프라이즈를 받을 수도 있어!
+NPC_HanabiYousei(2)<Speaker>폭죽요정</Speaker><Position>0,340</Position>||<边框>2</边框>:정말로요? 어떤 서프라이즈인데요?
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:뭔지 모르니까 "서프라이즈"겠지?+그래도 굳게 믿고 성실하게 임하면 분명 받게 될 거야.
+()<Speaker></Speaker>||<边框>2</边框><SE1>ClothingUp</SE1>:Px4 스톰은 폭죽요정 앞에 쪼그려앉아, 다정하게 머리를 쓰다듬어 주었다. 그 모습은 마치...+전문 아동 간호사 인형 같다고, CAWS는 생각했다.
+NPC_HanabiYousei(2)<Speaker>폭죽요정</Speaker><Position>0,340</Position>||<边框>2</边框>:오오...! 알겠어요, 기회가 되면 저도 다른 사람의 소원을 들어줄게요!
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:그래, 힘내렴!
+()<Speaker></Speaker>||<边框>2</边框>:폭죽요정에게서 성탄 코인을 받은 Px4 스톰과 CAWS는 다시 기지로 향했다.
+hkcaws(2)<Speaker>CAWS</Speaker>||<边框>2</边框>:너, 예전에 애들 돌보고 그랬어?
+hkcaws(2);Px4Storm(2)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:글쎄? 내 과거는 복잡하고 수수께끼로 가득한――
+hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(2)||<边框>2</边框>:방금 보니까 애들 잘 다루던데.
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:해당 메모리얼은 DLC 컨텐츠랍니다~
+()<Speaker></Speaker>||<边框>2</边框>:속내를 알 수 없는 미소를 보이며, Px4 스톰은 화제를 돌렸다.
+()||<黑屏1><边框>2</边框><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑点2><BIN>88</BIN><BGM>BGM_Sneak</BGM><SE1>Stop_AVG_loop</SE1><关闭蒙版>:12월 24일 오후 5시, 기지의 복도.+질서유지반과 정의로운 "주민"들의 추적을 피해, Px4 스톰과 CAWS는 창고 안에 숨었다.
+hkcaws(2)<Speaker>CAWS</Speaker>||:고물을 선물로 둔갑시켜 속였다는 게 대체 무슨 소리야?
+hkcaws(2);Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:아아, 그거 다 인근의 도매시장에서 대충 잡동사니를 잔뜩 사다가 적당히 포장한 거거든.
+hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(2)||:............
+hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(2)||<震屏3>:<size=50>사기잖아!!</size>
+hkcaws(2);Px4Storm(5)<Speaker>Px4 스톰</Speaker>||:에이... 우리가 받은 것도 그냥 동전이잖아...
+hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(5)||:그리고 그걸 왜 이제서야 알려 주는데!?
+hkcaws(2);Px4Storm(6)<Speaker>Px4 스톰</Speaker>||:네가 안 물어봤으니까.
+hkcaws(2)<Speaker>CAWS</Speaker>||:너——으읍!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Px4 스톰이 더 소리 높여 화내려는 CAWS의 입을 다급히 막았다.
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:쉬잇... 어차피 이젠 너도 공범이야. 하차하기엔 너무 늦었어.
+hkcaws(2)<Speaker>CAWS</Speaker><Shake>0.1</Shake>;Px4Storm(2)||:으읍읍!
+hkcaws(2);Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:응응, 엄청 화난 거 알아. 하지만 우선 발등에 떨어진 불부터 끌까?+우린 지금 이 비좁은 창고에 숨은 신세라, 언제든지 들킬 수 있어.+이대로 잡혔다간 용의자에 장물까지 있으니 현행범으로 체포되겠지.
+hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(2)||:......
+hkcaws(2);Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:여태까지의 노력을 전부 허사로 만들긴... 너도 싫지?
+hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(2)||:...응.
+hkcaws(2);Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:그러니까, 우리가 모은 코인을 둘로 나눠서 흩어지자. 계속 함께 돌아다녔다간 금방 잡힐 거야.+녀석들을 따돌리고 코인을 적당한 데다 숨겨 놓으면, 우리가 다른 애들을 속여서 코인을 받았다는 물증은 사라져.+애들의 증언과 고물딱지만으론 증거 불충분이라구.
+hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(2)||:장담해?
+hkcaws(2);Px4Storm(5)<Speaker>Px4 스톰</Speaker>||:100%는 아니지만, 달리 방법도 없잖아?
+hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(5)||:......
+hkcaws(2)<Speaker>CAWS</Speaker>||:다 끝나고 두고봐.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:Px4 스톰은 상냥하게 웃으며 CAWS를 꼬옥 껴안았다.
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:고마워, 이렇게 나한테 어울려 줘서.
+hkcaws(2)<Speaker>CAWS</Speaker>||:......
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:아, 걔네 온다. 이따 다시 봐, 조심하고.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:창고의 문 바로 앞에서 조심스러운 발소리가 들려올 때쯤, Px4 스톰은 여태까지 모은 성탄 코인의 절반을 가지고 창문 너머로 사라졌다.+그리고 CAWS가 다른쪽 창문에 걸터앉은 그때, 창고의 문이 활짝 열렸다.
+()<Speaker>FP6</Speaker>||<BGM>BGM_Empty</BGM>:찾았다!!
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:이어지는 FP-6의 고함이 바로 칼바람에 묻히도록 CAWS는 창밖으로 몸을 던졌다.+그녀도 나름 필사적이었다.+이벤트에서 우승하는 것 외에, 다른 목적이 있었으니까.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>81</BIN><回忆><边框>2</边框><BGM>BGM_Moon</BGM>:12월 23일 오후 8시 30분, 떠들썩한 카페.+Px4 스톰과 합의를 본 CAWS는 아까보다 확연히 경계가 느슨해졌다.
+hkcaws(0)<Speaker>CAWS</Speaker>||<边框>2</边框>:...한 달 전의 그 임무 마지막에, 대체 무슨 일이 있었어?
+Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:일이라니, 무슨 일?
+hkcaws(0)<Speaker>CAWS</Speaker>||<边框>2</边框>:시치미 떼지 마. 눈사태에 휩쓸려서 다들 소체가 마비되는 바람에 그때의 기억을 잃었는데, 정비 기록을 확인하니 너만 그 시간에 멀쩡했어.
+Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:아아 그랬지 참, 어째선지 난 기능이 정지되지 않았지.
+hkcaws(0)<Speaker>CAWS</Speaker>||<边框>2</边框>:그동안 뭐했어? 마음껏 주변의 물건 싹싹 긁어모았어?
+Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:궁금해?
+()<Speaker></Speaker>||<边框>2</边框>:이번에는 교활한 미소를 지으며, Px4 스톰은 손가락으로 술잔의 입가를 훑었다.
+Px4Storm(4)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:그러면... 나랑 내기할래?+만약 네가 이 성탄 코인 이벤트에서 날 이기면, 그때 무슨 일이 있었는지 가르쳐 줄게.+대신, 네가 지면...
+hkcaws(0)<Speaker>CAWS</Speaker>||<边框>2</边框>:뭐, 내 비밀 하나 말해 달라고?
+Px4Storm(4)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:네 동생 HK512한테 가서, "메리 크리스마스야, 내 귀염둥이 동생아!"라고, 똑바로 보면서 말해.
+hkcaws(0)<Speaker>CAWS</Speaker>||<边框>2</边框>:......
+Px4Storm(0)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:하하, 네 뒷조사를 좀 해봤어. 미안해.+그래도 파트너로 점찍어 둔 사람에 대해서 자세히 파악하고 있어야 하잖아?
+hkcaws(0)<Speaker>CAWS</Speaker>||<边框>2</边框>:...그건 아무래도 상관없어.
+Px4Storm(4)<Speaker>Px4 스톰</Speaker>||<边框>2</边框>:그럼, 할래?
+hkcaws(0)<Speaker>CAWS</Speaker>||<边框>2</边框>:좋아, 진실을 알아낼 기회인데 거부할 이유가 없지.
+()||<边框>2</边框><黑点1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>97</BIN><关闭蒙版><黑点2><BGM>m_avg_hope</BGM>:12월 24일 오후 5시 10분, 기지의 복도.
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:전력으로 질주하는 CAWS의 뒤를 수많은 발소리가 뒤쫓았다.
+hkcaws(2)<Speaker>CAWS</Speaker>||:<color=#A9A9A9>Px4 스톰... 난 절대 지지 않아.</color>+<color=#A9A9A9>반드시 우승해서 연말 보너스도 10배로 받고, 너한테서 그날의 진실을 듣겠어.</color>+<color=#A9A9A9>각오하라고.</color>
+()||<黑点1>:

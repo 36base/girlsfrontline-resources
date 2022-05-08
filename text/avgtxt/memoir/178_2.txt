@@ -1,2 +1,81 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||:<color=#FFFF00>마인드맵 기록 분석 중...</color>+<color=#FFFF00>분석 완료 예상 시각... 02월 26일 16시 00분</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_amb_wilderness</SE1>:숲속의 한 좁은 산굴 밖으로, F1이 빠져나왔다.
+F1(0)<Speaker>F1</Speaker>||<BIN>262</BIN><黑屏2>:휘유~ 이 일대는 수색 완료다, 철수 철수!
+()<Speaker></Speaker>||:F1은 허리를 툭툭 치며 가방 안에서 시집을 꺼내 들곤, 천천히 집합 장소인 보급고로 발걸음을 옮겼다.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:아무도 없는 숲속은 감동적인 시를 읊기에 최적의 환경이었다.
+F1(0)<Speaker>F1</Speaker>||<GradientShow>2</GradientShow>:그 연못을 지날 때마다, 우리는...+그의 자유로운 영혼이 하늘을 나는 소리가 들리니...
+F1(0)<Speaker>F1</Speaker>||:하늘을 나는 소리가 들리니...+...어라? 다음이 어떻게 되더라?
+()<Speaker>？？？</Speaker>||<BGM>BGM_Wake2</BGM><SE1>AVG_wind_grass</SE1>:저 아름다운 모닥불을 보며, 소리 높여 나는 노래를 부르네.
+()<Speaker>？？？</Speaker>||:왈츠를 추는 마틸다야, 이리와 나와 저 멀리 떠나자.
+F1(0)<Speaker>F1</Speaker>||:?!
+NPC-Arla(0)<Speaker></Speaker>||:소리가 난 방향으로 고개를 돌려 보니, 웬 지팡이를 짚은 노인이 있었다. 두 눈에 초점이 없는 것으로 봐선 장님인 것 같았다.
+NPC-Arla(0)<Speaker>할아버지</Speaker>||:아가씨, 방금 무슨 소리가 들렸는데, 혹시 뭘 떨어뜨리지 않았나?
+NPC-Arla(0);F1(0)<Speaker>F1</Speaker>||:으아아 내 시집! 이런 옷은 물건 넣어 두기 진짜 어렵네...+고마워요 할아버지! 그런데 여긴 전장이에요, 혼자 돌아다니면 위험해요.
+NPC-Arla(0)<Speaker>할아버지</Speaker>||:마음 속에서 싸움이 끊이질 않으면 세상 어딜 가든 전장이구먼 뭘.+그리고 난 나이를 먹을대로 먹어서 움직이기도 귀찮어.
+NPC-Arla(0);F1(0)<Speaker>F1</Speaker>||:오, 할아버지도 시인이세요? "마틸다" 좋아하시나 봐요?
+NPC-Arla(0)<Speaker>할아버지</Speaker>;F1(0)||:"마음"만 있다면 누구든 시인이 될 수 있지. 안 그런가 아가씨?
+NPC-Arla(0);F1(0)<Speaker>F1</Speaker>||:와아... 하지만 제 동료들은 제가 쓴 건 하나도 재미없대요...
+NPC-Arla(0)<Speaker>할아버지</Speaker>;F1(0)||:허허허... 아가씨, 아가씨는 여기 이 나무가 어떻게 보이는고?
+NPC-Arla(0);F1(0)<Speaker>F1</Speaker>||:으음? 되게 평범한 나무로 보이는데요.
+NPC-Arla(0)<Speaker>할아버지</Speaker>||:그래, 아가씨한텐 아주 평범한 나무겠지.+하지만 여기 사는 누군가에겐 고향의 이정표일 수도 있어.
+NPC-Arla(0)<Speaker>할아버지</Speaker>||:다른 이의 마음을 이해하는 건, 누구에게나 힘든 일이야.+누구에겐 아주 소중한 것이, 다른 누구에겐 시시하기 짝이 없을 수도 있어요. 아주 당연한 일이지.
+NPC-Arla(0)<Speaker>할아버지</Speaker>||:과학이 아무리 발전한들, 감정도 함께 진화하진 않으니.
+NPC-Arla(0);F1(0)<Speaker>F1</Speaker>||:하지만 제가 좋아하는 시인은 세간의 존경을 받았는걸요! 저도... 저도 다른 사람들한테 인정받고 싶어요.
+NPC-Arla(0)<Speaker>할아버지</Speaker>;F1(0)||:아가씨, 그 시인의 작품의 첫 독자는 누구라 생각허이?
+NPC-Arla(0);F1(0)<Speaker>F1</Speaker>||:음... 편집자요?
+NPC-Arla(0)<Speaker>할아버지</Speaker>;F1(0)||:아니, 바로 시인 본인이야. 본인도 자기 작품이 얼마나 많은 이들의 마음을 자극할지 몰라.+그저 자기 눈에, 자기 마음에 들면 그만이지. 시시한가 아닌가는 다 세간의 평가일 뿐, 굳이 신경쓸 필요가 있을까?
+NPC-Arla(0);F1(0)<Speaker>F1</Speaker>||:맞는 말이지만... 그래도 역시 좀 분하단 말이에요.
+NPC-Arla(0)<Speaker>할아버지</Speaker>;F1(0)||:그럼 아가씨는 그 시인의 작품이 좋은 겐가, 아님 그의 명성이 좋은 겐가?
+NPC-Arla(0);F1(0)<Speaker>F1</Speaker>||:당연히 그분의 작품이 좋은 거죠!
+NPC-Arla(0)<Speaker>할아버지</Speaker>||:이미 잘 알고 있구먼.
+F1(0)<Speaker>F1</Speaker>||:...하하, 그렇네요. 고마워요 할아――
+()<Speaker></Speaker>||:꼬르륵...
+NPC-Arla(0)<Speaker>할아버지</Speaker>||:어이쿠, 오늘내일하는 몸뚱이다 보니 말 몇 마디 나눈 것 가지고 배가 아우성이구만.
+NPC-Arla(0);F1(0)<Speaker>F1</Speaker>||:으음... 누군가랑 이렇게 시에 대해서 말을 나눈 건 처음인데, 제가 식사 한 끼 대접해드릴까요? 좀 더 얘기도 하고 싶어요.
+NPC-Arla(0)<Speaker>할아버지</Speaker>||<黑屏1>:허허허, 그럼 그 호의 잘 받도록 하지.
+()<Speaker></Speaker>||<黑屏2><BIN>55</BIN><BGM>BGM_Empty</BGM>:M1897이 깨끗이 청소한 임시 보급고는 식탁을 놓을 공간도 있었다.
+F1(0)<Speaker>F1</Speaker>||:포장 뜯었어요, 드세요.
+F1(0);NPC-Arla(0)<Speaker>할아버지</Speaker>||:고마우이 아가씨. ...에잉, 우라질 총알 같으니. 뭐 보이는 게 있어야지.
+F1(0)<Speaker>F1</Speaker>;NPC-Arla(0)||:<color=#A9A9A9>그래서 내가 인형인 줄도 모르는구나...</color>
+F1(0);NPC-Arla(0)<Speaker>할아버지</Speaker>||:응?
+F1(0)<Speaker>F1</Speaker>;NPC-Arla(0)||:아뇨, 이렇게 할아버지랑 같이 밥 먹으니까 기뻐서요.+아 맞다, 할아버지도 "마틸다" 좋아하시는 거 같은데 시인 한 분 추천해드릴까요? 할아버지도 좋아하실 거예요!
+F1(0);NPC-Arla(0)<Speaker>할아버지</Speaker>||:호오? 한번 들어보고 싶군그래.
+F1(0)<Speaker>F1</Speaker>||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1><黑屏1>:헤헤, 그분은 이 시대의 가자아아아앙 위대한 시인이에요! 아무도 견줄 수 없을 정도로요!
+()<Speaker></Speaker>||<BGM>BGM_Hello</BGM><黑屏2>:찬양의 말이 F1의 입에서 술술 나왔고, 흥분과 감격이 멈추질 않았다.
+NPC-Arla(0)<Speaker>할아버지</Speaker>||:허어, 거참 굉장한 칭찬이구먼. 그 사람 이름이 뭔가?
+F1(0)<Speaker>F1</Speaker>||:<size=50>한스요!</size>
+NPC-Arla(0)<Speaker>할아버지</Speaker>||:......+그렇군.
+F1(0)<Speaker>F1</Speaker>||:그분의 이름은 한스예요.
+F1(0);NPC-Arla(0)<Speaker>할아버지</Speaker>||:아가씨는 그의 작품 중에 뭐가 제일 좋은가?
+F1(0)<Speaker>F1</Speaker>||:바로 이 책이요!
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:F1이 손에 든 시집을 노인에게 건네주었다. 겉표지의 음각으로 인쇄된 "숲속에서의 해후"란 큰 글씨를, 그도 손으로 더듬어 알 수 있었다.
+NPC-Arla(0)<Speaker>할아버지</Speaker>||:......이렇게 오랜 시간이 흘렀는데도 그를 좋아하는 사람이 있다니. 그런데 아가씨, 이게 그의 최고의 작품은 아닐 게야.
+NPC-Arla(0);F1(0)<Speaker>F1</Speaker>||:네에? 전 이게 제일이라고 생각하는데요?
+NPC-Arla(0)<Speaker>할아버지</Speaker>;F1(0)||:시인에게 있어 최고의 작품은, 언제나 그 다음에 지을 시 아닌감?
+NPC-Arla(0);F1(0)<Speaker>F1</Speaker>||:아하. 하지만 그분은... 엄청 오래전에 실종됐는걸요. 어느 전장에서 목격됐단 소문이 있어서 지휘관한테 요청해 파견도 나가봤지만... 아무리 찾아도 발자취도 찾지 못했어요.
+NPC-Arla(0)<Speaker>할아버지</Speaker>;F1(0)||:그렇겠지, 이런 난세 속에서 사람의 행방이란 가을의 낙엽처럼 홀연히 휘날리는 법이니.
+NPC-Arla(0);F1(0)<Speaker>F1</Speaker>||:인간의 생명은 아주 연약하니까요.
+NPC-Arla(0)<Speaker>할아버지</Speaker>||<BGM>BGM_Moon</BGM>:무척이나 연하지만, 더없이 억세기도 해.
+NPC-Arla(0);F1(0)<Speaker>F1</Speaker>||:억세다고요?
+NPC-Arla(0)<Speaker>할아버지</Speaker>||:아가씨가 그를 기억하는 것도 그의 삶의 연장선 아닌가?
+NPC-Arla(0);F1(0)<Speaker>F1</Speaker>||:그치만...
+NPC-Arla(0)<Speaker>할아버지</Speaker>||:마침 내가 그가 쓴 시를 알거든. 한 번도 공개된 적 없는 건데, 흥미 있나?
+F1(0)<Speaker>F1</Speaker>||:정말요?! 네 네 네!!
+()<Speaker></Speaker>||:그 말에, 노인은 옷의 안주머니에서 낡은 만년필과 색바랜 수첩을 꺼냈다. 그의 손은 떨렸지만, 글씨를 써내려 가는 그의 손길은 조금도 흔들리지 않았다.
+F1(0)<Speaker>F1</Speaker>||:총과 시... 모순되는 주제가 이렇게 조합될 수 있다니... 우와아, 이거 엄청 굉장하네요!+할아버지 손글씨도 엄청 예뻐요! 앞이 안 보이면서 어떻게... 아차, 죄송해요!
+NPC-Arla(0)<Speaker>할아버지</Speaker>||:괜찮어 괜찮어, 글 쓰는 건 아주 본능 수준으로 이골이 났거든.+아마... 이게 생애 마지막 시일 테지. 좋아하는 사람의 손에 쥐여 주게 돼서, 정말 기쁘구나.
+NPC-Arla(0)<Speaker>할아버지</Speaker>||:흠... 시간도 많이 늦었으니 이만 가봐야겠어. 목소리 예쁜 아가씨, 잘 지내시게.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:노인은 조심조심 시를 적은 페이지를 뜯어 F1에게 건네곤 작별 인사를 했다.
+()<Speaker></Speaker>||:그를 배웅한 F1은 다시 한번 그 시를 읽고, 들뜬 마음으로 시집에 끼워 넣으려다 우연찮게 시집의 후기가 눈에 들어왔다.
+F1(0)<Speaker>F1</Speaker>||:<color=#A9A9A9>나는 눈과 손이 아니라, 직감과 느낌으로 글을 씁니다. 요즘처럼 출판업이 시대에 한참 뒤떨어진 때에 종이 서적을 보는 사람은 얼마 없겠죠.</color>+<color=#A9A9A9>그래도 나는 "책"을 고집합니다. 전자 신호가 닿지 않는 곳까지도, 글은 전달될 수 있으니.</color>
+F1(0)<Speaker>F1</Speaker>||:역시 내 우상의 글이야, 후기도 감명 깊다니까! 그것도 수필로...... 어?
+F1(0)<Speaker>F1</Speaker>||:이 독특하게 구부러진 필체... 한스는 표준 폰트를 안 좋아해서 후기는 꼭 손글씨로 남겼는데, 이 손글씨... 이 시...
+()<Speaker></Speaker>||<震屏>:그 사람이다.
+()<Speaker></Speaker>||<震屏>:<size=40>그 노인이 바로 한스다.</size>
+()<Speaker></Speaker>||<SE1>Heartbeat</SE1><震屏>:<size=50>방금 같은 식탁에 마주보고 앉았다!</size>
+F1(0)<Speaker>F1</Speaker>||<BGM>BGM_Truth</BGM>:<color=#A9A9A9>아직... 아직 내 존경하는 마음도 못 전했는데! 어떻게 그렇게 그냥 떠나보낼 수 있어!</color>
+()<Speaker></Speaker>||:도저히 진정할 수 없었다.
+()<Speaker></Speaker>||:도저히 가만있을 수 없었다.
+F1(0)<Speaker>F1</Speaker>||:<color=#A9A9A9>찾으러 가자!</color>
+()<Speaker></Speaker>||:반드시 다시 만나야 한다.
+F1(0)<Speaker>F1</Speaker>||:드디어 만나게 됐는데...!
+()<Speaker></Speaker>||<黑屏1>:F1은 허겁지겁 종이의 귀퉁이를 찢어, MP5와 M1897에게 쪽지를 남겼다.+"내 담당 구역은 전부 청소했으니까, 나 기다리지 말고 먼저 돌아가. - F1"

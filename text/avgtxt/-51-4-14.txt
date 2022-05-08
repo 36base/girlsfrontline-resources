@@ -1,0 +1,143 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+NPC-MorridowNew(1)<Speaker>몰리도</Speaker>||<BIN>448</BIN><黑屏2>:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:몰리도는 철수하는 리벨리온의 두 인형들을 뒤쫓으려는 시늉도 하지 않았다. 그저 난장판이 된 플랫폼을 옅은 미소로 훑어보곤, 그대로 탑으로 돌아가려 했다.
+NPC-MorridowNew(1)<Speaker>몰리도</Speaker>||:...어?
+()<Speaker></Speaker>||<BGM>GF_21winter_avg_mahaline</BGM>:그런데 그녀가 뒤로 돌으니, 입구 앞에 틸이 서 있었다.
+NPC-grig(1)<Speaker>틸</Speaker>||:부탁...
+NPC-MorridowNew(1)<Speaker>몰리도</Speaker>||:수복이 덜 된 모양이네?+얌전히 수복 캡슐에 누워있지 않고 여기서 뭐하니?
+NPC-grig(1)<Speaker>틸</Speaker>||:부탁한다...
+()<Speaker></Speaker>||:몰리도의 말에 섞인 조소는, 틸에게 전혀 들리지 않았다.
+NPC-grig(1)<Speaker>틸</Speaker>||:...그레이를, 제발 그레이를 구해 줘.
+NPC-MorridowNew(1)<Speaker>몰리도</Speaker>||:......
+()<Speaker></Speaker>||:몰리도가 시선을 살짝 내리니, 틸의 품에는 그녀가 탑의 밑바닥에서 겨우 건져낸 그레이의 몸뚱이가 안겨 있었다.
+NPC-MorridowNew(1)<Speaker>몰리도</Speaker>||:...이미 죽었잖아.
+NPC-grig(1)<Speaker>틸</Speaker>||:아버님께... 아버님은 되살려 주실 수 있잖나...+몰리도 언니가, 아버님께 청원한다면...
+NPC-MorridowNew(1)<Speaker>몰리도</Speaker>||:포기해.
+()<Speaker></Speaker>||:몰리도는 고개를 저으며 틸의 어깨를 스치고 지나쳤다.
+()<Speaker>틸</Speaker>||:<size=50>"우리"는 다시 기회가 주어지는 것이 아니었나!?</size>
+NPC-MorridowNew(1)<Speaker>몰리도</Speaker>||:아니, 저것들과 다를 바 없어.+애초에, 니토는 완전면역체를 만드는 과정에서 나온 부수적인 폐기물일 뿐인걸.+우리도 니토인 이상, 그냥 실패작인 거야.+우린 되살아날 수 없어. 되살릴 방법도 없고, 되살릴 가치도 없어.
+()<Speaker>틸</Speaker>||<SE1>ClothingUp</SE1>:뭣...
+NPC-MorridowNew(1)<Speaker>몰리도</Speaker>||:모두 일회용품인 거야.+너도, 나도,+...그레이도.
+()<Speaker>틸</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:털썩.+틸은 그자리에 주저앉았다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_footsteps_woodfloor</SE1>:몰리도는 탑의 계단을 올랐다. 저 뒤에서 처절한 통곡이 들려와도, 고개를 돌리지 않았다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1><BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:베를린 시가지의 어느 병원.
+()<Speaker></Speaker>||<SE1>RunStep</SE1><BGM>GF_21summer_song</BGM>:조용하던 복도에 다급한 발소리가 요란하게 메아리쳤다.+젖 먹던 힘까지 다해 내달리는 지휘관이었다.
+()<Speaker>지휘관</Speaker>||:드디어... 드디어 이 때가 왔구나...
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:크루거의 병실에 다다른 지휘관은 노크할 겨를도 없이 문을 벌컥 열고 들어갔다.
+()||<黑点1>:
+()<Speaker>헬리안</Speaker>||<黑点2><BIN>454</BIN>:지휘관?! 깜짝이야... 노크도 안 하고 들어오면 어떡합니까!
+()<Speaker>페르시카</Speaker>||:아직 준비 안 끝났는데!
+()<Speaker>크루거</Speaker>||:허허허, 뭐 어떤가. 어서 오게.
+()<Speaker>지휘관</Speaker>||:여러분... 크루거 씨!
+()<Speaker></Speaker>||:하고픈 말이 수백 개는 됐지만, 하나도 목 밖으로 나오질 않았다.
+()<Speaker>크루거</Speaker>||:다 아네, 다 알아.
+()<Speaker>헬리안</Speaker>||:...이런 장면은 영 어색하군요.
+()<Speaker>페르시카</Speaker>||:저기, 나 팔 저리니까 빨리 해 줄래?+나 평소에 드는 물건 중에 제일 무거운 게 커피잔이거든?
+()<Speaker>지휘관</Speaker>||:...제가 들죠.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:모두를 한 번씩 와락 껴안은 뒤, 지휘관은 페르시카에게서 케이크를 넘겨 받았다.
+()||<黑屏1>:
+()<Speaker>지휘관</Speaker>||<黑屏2><BIN>160</BIN>:몸 상태는 좀 어떠십니까?
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:지금 당장 자네와 한잔 하고 싶을 정도로 좋지. 다만...
+()<Speaker></Speaker>||:크루거가 옆을 힐끔 보자 과연, 헬리안이 얼굴에 그림자를 드리우고 무언의 시위를 하고 있었다. 이에 지휘관과 크루거는 피식 웃을 수밖에 없었다.
+()<Speaker>지휘관</Speaker>||:알겠습니다, 일단은 안정을 취하셔야죠. 크루거 씨의 상태가 호전되면 그때 한잔하겠습니다.
+NPC-Persica(3)<Speaker>페르시카</Speaker>||:대체 왜 그런 정신줄 놓게 만드는 걸 마시나 몰라...
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:페르시카 씨, 간식이나 사러 갈까요?
+()<Speaker></Speaker>||:무슨 비밀 신호라도 받은 듯, 헬리안이 대뜸 페르시카의 손을 끌고 밖으로 나갔다.
+NPC-Persica(1)<Speaker>페르시카</Speaker>||:아 참, 그러고 보니 기지 나오면서 나 커피랑 설탕 하나도 못 챙겼어!
+NPC-Helian(1)<Speaker>헬리안</Speaker>||:그런 건 좀 잊어버리면――
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:두 사람이 나가고, 병실에는 크루거와 지휘관만 남았다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||<BGM>BGM_Empty</BGM>:......
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||<BGM>GF_22W_BGM_2</BGM>:잠깐의 요란함이 사라지니, 병실도 바깥도 다시 조용해졌다.+지휘관은 크루거를 바라보다, 결국 참지 못하고 너털웃음을 지었다.
+()<Speaker>지휘관</Speaker>||:왜 아무 말씀도 안 하십니까?+혹시 제가 또 뭐 잘못했나요?
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:지금 자네와 단둘이 남아서 한소리할 생각이라면...+세상에 인정미가 어딨겠나.
+NPC-Kyruger(0)<Speaker>지휘관</Speaker><同时置暗>||:......
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:수고했네, 정말 수고했어.+자네에겐 턱없이 부족한 말인 건 아네만, 그래도 정말 수고했네.
+NPC-Kyruger(0)<Speaker>지휘관</Speaker><同时置暗>||:뭐... 이쪽 업계가 힘들다는 건 알고 시작한 일이니까요.+그래도 첫날에 카리나가 저한테 "철혈 찌끄래기나 간간히 해치우면 된다"고 했을 때를 생각하면, 사장님이 정말 너무했단 생각은 듭니다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:하하핫... 세상 일은 참 알다가도 모르겠어.+그래도, 결과적으로 자네는 그 모든 것을 견뎌내지 않았나.+살아남기 위해서라면, 인간의 잠재력은 스스로의 예상조차 뛰어넘는 일을 해내게 만들지.
+()<Speaker>지휘관</Speaker>||:...단순히 살아남기 위해서였다면 여기까지 오지도 못했을 겁니다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:크루거가 천천히 고개를 끄덕이며 지휘관과 눈빛을 교환했다.
+()<Speaker>지휘관</Speaker>||:게다가 제게 한 번 그만둘 기회를 주셨지만, 제 의지로 거절했죠.+탈린에서 팔디스키까지 가면서, 저 같은 사람이 보면 안 될 것을 너무 많이 봤습니다.+그래서인지, 그때부터인가 한 가지 생각이 들더군요.+저는 제 힘이 닿는 한 모두를 구하고, 소중한 가족을 지키고 싶다는 생각이요.+거기에 좀 더 욕심을 부리자면, 제 눈앞에서는 절대 어떤 비극도 일어나지 않게 하고 싶다...고 말입니다.+언제부터인가, 제가 정말 뭔가를 바꿀 수 있지 않을까 하는 생각이 들었습니다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:......
+NPC-Kyruger(0)<Speaker>지휘관</Speaker><同时置暗>||:하지만 베를린에서 그 환상은 처참하게 깨졌습니다.+크루거 씨... 저는 한없이 보잘것 없는 존재였습니다. 제 힘이 닿는 범위는, 제 생각보다 훨씬 좁았습니다.+훈작사가 말하기론, 이런 게 현실이라더군요.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:...그래서, 자넨 어쩔 셈인가?
+NPC-Kyruger(0)<Speaker>지휘관</Speaker><同时置暗>||:승복할 수 없습니다.+2년 전의 저라면, "사려 깊고 원대한 안목을 가진" 훈작사의 명령에 순종했겠죠.+하지만 지금은 승복할 수 없습니다.+그들이 장담하는 미래는 너무 아름다워서, 제게는 보이지도, 만져지지도 않습니다.+그런 허황된 기대 속에서 살고 싶지 않습니다. 저는 현재를 붙잡고 싶습니다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:......
+()<Speaker></Speaker>||:크루거는 잠시 침묵했다.+뭔가 말하려는 듯하다 관두기를 반복했다.+그렇게 한참이 지나서야, 그는 천천히 입을 열었다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:...내가 알던 친구가 있네.+자넨 그를 떠올리게 해. 지금의 자네는 그와 똑같았어.
+NPC-Kyruger(0)<Speaker>지휘관</Speaker><同时置暗>||:...어떤 분이었습니까?
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:나와 그 친구는 입대한 지 몇 년 안 된 풋내기였지.+나는 정찰병, 그는 전투공병. 어지간해서는 서로 얼굴 볼 일도 없었을 게야.+그런데 어느 날, 우린 같은 일에 휘말리고 말았어.
+()<Speaker>지휘관</Speaker>||:일이라니, 설마...
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:우리가 맡은 유적 탐사 작업에 문제가 발생했네.+북란도 사건 이래, 유적에서 뭐가 잘못되면 그게 어떤 결과를 초래할지 모두가 알고 있었지.+하도 오래돼서 자세히는 이제 기억도 안 나네만... 결과적으로는, 나와 그 친구가 함께 현장에 돌입해, 그 사건을 막아냈네.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그 일로 우리는 영웅이라 칭송받았지. 그리고 그 일로 우리는 친구가 되었고.
+NPC-Kyruger(0)<Speaker>지휘관</Speaker><同时置暗>||:......
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그 후로 몇 번 만나 보니, 그 친구와 나의 생각이 놀라울 정도로 똑같다는 것을 알았네.+미래로의 방향성, 이상, 그리고 조국에 어떻게 헌신할 것인가.+그때만 해도, 난 우리가 평생 함께할 전우가 되리라 믿어 의심치 않았어.
+NPC-Kyruger(0)<Speaker>지휘관</Speaker><同时置暗>||:...하지만 그렇게 되지 않았군요.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그래, 결국 각자 다른 길을 걷게 되었어.+지휘관. 자네가 지금까지 겪은 일처럼, 현실은 잔혹하다네.+이상도, 혈기도, 노력도, 역사의 흐름 앞에서는 보잘것없어.+결국 나는 떠나는 길을 택했네.
+NPC-Kyruger(0)<Speaker>지휘관</Speaker><同时置暗>||:그럼... 그 친구분은?
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그는 군대에 남아, 전혀 다른 사람이 되어버렸네.+처음엔 그 친구가 무슨 생각인지 몰랐어. 어쩌면, 우리 둘 다 각자 나름의 방식으로 이 세상을 바꾸려 한 것이겠지.+하지만... 그는 이상에 뒤틀린 괴물이 되어버렸네.+나는 내 길의 끝이 전혀 보이질 않고.
+()<Speaker>지휘관</Speaker>||:......
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그래서 자네에게서 과거의 그림자가 보이는 걸세.+자네가 걷는 길은, 우리가 걸었던 길과 똑같아. 너무나도 길고, 더없이 괴롭지.+나는 내 반평생 동안 수많은 것을 잃었네. 이상, 혈기, 그리고 그 친구.+그래서 의심이 들어. 정말 이 길에 끝이 존재하긴 하는 걸까?
+NPC-Kyruger(0)<Speaker>지휘관</Speaker><同时置暗>||:...그 친구분의 성함, 여쭤봐도 되겠습니까.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:카터.
+NPC-Kyruger(0)<Speaker>지휘관</Speaker><同时置暗>||:......
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:내 이렇게 말하는데도, 자네는 계속 이 길을 고집할 셈인가?
+()<Speaker>지휘관</Speaker>||:...예.
+()<Speaker></Speaker>||:크루거와, 그의 이야기를 경청하는 지휘관의 시선이 교차했다. 과거를 이야기하며 점점 수심이 가득해지는 크루거의 눈빛과는 확연히 다르게, 지휘관의 눈동자 속 불길은 점점 거세게 불타올랐다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:어째서지?
+()<Speaker>지휘관</Speaker>||:아무리 멀고, 아무리 길고, 아무리 고통스러운 길이더라도...+단 하나, 사장님과는 견해가 다른 점이 있습니다.
+()<Speaker></Speaker>||:마지막 말을, 지휘관은 또박또박 말했다.
+()<Speaker>지휘관</Speaker>||:저는 굳게 믿습니다. 이 길에는, 분명 끝이 있다고.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:...자네에겐 보이나?
+()<Speaker></Speaker>||:지휘관은 싱긋 웃었다.
+()<Speaker>지휘관</Speaker>||:아뇨, 하지만 그게 무슨 상관입니까? 어쩌면 그 끝을 보고, 또 도달하는 게 제가 아닐 수도 있죠.+그럼에도 저는 그 끝을 향해 조금이라도 더 나아가겠습니다. 저보다 먼저 이 길을 걸었던 사람이 있었으니, 저 이후에도 분명 같은 길을 걸으려는 사람은 분명 나타날 테죠.+크루거 씨, 우리의 이상은 결코 끊어지지 않습니다.+얼마나 오래 걸리더라도, 분명 그 끝은 나타날 겁니다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관의 말을 들은 크루거가 입을 살짝 벌렸다.+가만 있지 못하고, 흥분에 몸서리쳤다.+만약 몸 상태가 조금만 더 나았어도 당장 자리를 박차고 벌떡 일어날 것 같았다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:...그렇군.+그래, 맞는 말이야... 어쩌면 우린 그 끝을 보지도 못하고 스러져 갈 수도 있겠지...+하지만, 내가 한 일은 결코 헛되지 않고, 끝을 향한 또 하나의 초석이 될 게야.
+()<Speaker></Speaker>||:그는 지휘관을 바라보며 심호흡하며 간신히 흥분을 가라앉혔다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:어쩌면... 자네에게서 나아가기 마땅한 방향을 볼 수도 있겠구만.+나는 거의 포기했었지.+그런데, 지금 이렇게 자네 말을 들으니, 조금 더 멀리 나아갈 수 있을 것 같아.
+()<Speaker>지휘관</Speaker>||:네, 함께 세상을 새로 써야지 않겠습니까.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그래... 그렇지, 그래야지.+자네는 벌써 여기서 소중한 것을 얻었군.+그래도 베를린 여행은 이제 마무리해야지.
+()<Speaker>지휘관</Speaker>||:예. 하지만 이제 시작입니다.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:나에게는, 이제 시작이다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><火花><回忆><BIN>8</BIN><narrator>:분명 가시투성이인 길이다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<narrator><黑屏2><BIN>123</BIN>:처음 발을 디뎠을 때는 아직 몰랐다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<narrator><黑屏2><BIN>28</BIN><BGM>GF_22W_ED</BGM>:머뭇거릴 때, 뒤돌아볼 수 없었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<narrator><黑屏2><BIN>226</BIN>:멈춰 섰을 때, 내 눈은 원한으로 충혈되었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<narrator><黑屏2><BIN>78</BIN>:셀 수도 없이 많았던 맹세는 전부 백지가 되어버렸다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<narrator><黑屏2><BIN>398</BIN>:어깨를 맞대고 함께 싸웠던 전우들도, 함께 절망을 마주했다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<narrator><黑屏2><BIN>334</BIN>:그러나, 몸뚱이는 바스러질지언정,
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>319</BIN><黑屏2><narrator>:몸부림쳤던 흔적은 영원히 남을 것이다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<narrator><黑屏2><BIN>458</BIN>:내게는 이제 달리 선택지가 없다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<关闭蒙版><narrator><BIN>9</BIN><黑屏2>:그저, 맞서 싸울 수밖에.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:[고정점 - END]
+()||<黑屏1>:
+()||<名单2>2022Winter_Credit</名单2>:
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||:............
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:............+아베르누스.
+()<Speaker></Speaker>||:잊은 줄 알았던 익숙한 발소리가 귓가를 때리자, 안젤리아는 눈을 떴다.
+NPC-MorridowNew(1)<Speaker>몰리도</Speaker>||:오랜만이에요, 안젤리아 씨.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:......몰리도냐.
+()<Speaker></Speaker>||:모습이 완전히 변했음에도, 안젤리아는 그녀를 한눈에 알아보았다.
+NPC-MorridowNew(1)<Speaker>몰리도</Speaker>||:보고 싶지 않았나요? 브레멘에서 우리가 함께했던 때가 그립진 않았어요?+...그때 말했잖아요. 금방 다시 보게 될 거라고.
+()<Speaker></Speaker>||:음흉하게 미소지으며, 몰리도는 허리를 살짝 숙여 유리벽 너머의 안젤리아를 똑바로 응시했다.
+()<Speaker>몰리도</Speaker>||:아베르누스에 온 걸 환영해요.
+()||<黑屏1>:

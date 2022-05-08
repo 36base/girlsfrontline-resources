@@ -75,10 +75,10 @@ UMP9Mod(0)<Speaker>UMP9</Speaker>||:미안, 우리 동료가 워낙에 성질이
 ()<Speaker></Speaker>||<SE2>Gunfight</SE2>:하지만 너무 늦었다. 시야가 아직 돌아오지 않은 상태에서, 그녀는 마구잡이로 총을 쏘아대며 대인 유도 지뢰 소리의 반대 방향으로 뒷걸음질칠 수밖에 없었다.+그러다 뭔가에 발이 걸려, 균형을 잃고 뒤로 넘어졌다. 하지만 누구도 예상하지 못한 일이 벌어졌다.
 ()<Speaker>R93</Speaker>||:와아아악!?
 ()<Speaker></Speaker>||:쏘옥!
-()<Speaker></Speaker>||:HK416과 UMP9의 눈앞에서, R93의 몸이 벽 안으로 쑥 들어갔다.
+()<Speaker></Speaker>||:HK416과 UMP9의 눈앞에서, R93의 모습이 갑자기 사라졌다.
 UMP9Mod(3)<Speaker>UMP9</Speaker>||:으엥?!
 HK416Mod(0)<Speaker>HK416</Speaker>||:헐...?
-()<Speaker></Speaker>||:"이 게임에 저런 스킬이 있었나?"+...라 말하려던 UMP9은 자신이 던진 지뢰가 벽에 부딪힌 것을 눈치채지 못했다.+장애물에 막힌 탓인지 대인 유도 지뢰는 터지지 않았고, 몇 번 벽에 부딪히다 돌연 방향을 틀었다.
+()<Speaker></Speaker>||:"이 게임에 저런 스킬이 있었나?"+...라 말하려던 UMP9은 자신이 던진 지뢰가 제자리에 멈춘 것을 눈치채지 못했다.+목표를 잃은 탓인지 대인 유도 지뢰는 터지지 않았고 잠깐 가만히 있더니 돌연 방향을 틀었다.
 HK416Mod(0)<Speaker>HK416</Speaker>||:뭐, 뭐 저런 게 다 있어?!+9, 피해!
 UMP9Mod(0)<Speaker>UMP9</Speaker><Shake>0.1</Shake>||<SE1>AVG_The_Division_Baggage_bomb</SE1>:괜찮아 괜찮아, 이런 것쯤이야 구르기로 쉽게――
 HK416Mod(0)<Speaker>HK416</Speaker>||<SE1>AVG_The_Division_Baggage_bomb_Activation</SE1>:잠깐만 그쪽에는...!
@@ -88,7 +88,7 @@ HK416Mod(0)<Speaker>HK416</Speaker>||<SE1>AVG_The_Division_Baggage_bomb_Activati
 UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>......</color>
 HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:...동생이 공개 처형당한 감상은?
 HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>내 주먹이 너에게 닿은 뒤에 말해 줄게.</color>+<color=#00CCFF>목표는?</color>
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:버그 때문에 벽에 끼어서 못 나오고 있어.+말 그대로 벽에 파묻혀서 이쪽에서도 피해를 못 입히는 거 같고.
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:갑자기 사라졌어.+이래선 추격할 수도 없어.
 HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>결국 녀석들을 놓쳐버렸네. 거기다 9까지 잃다니...</color>+<color=#00CCFF>...뭐, 괜찮아. 어차피 이 게임의 승자는 단 한 명만 있으면 되니까.</color>+<color=#00CCFF>9의 물건 챙겨서 돌아와.</color>
 HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:......
 HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>에이, 그렇게 무섭게 침묵하지 마. 나도 소중한 두 동료의 죽음에 마음이 아프다고.</color>
@@ -122,7 +122,7 @@ NPC-Dima(1)<Speaker>디마</Speaker>;Vector(0)||:<color=#00CCFF>수, 숨기는 �
 NPC-Dima(1);K5(0)<Speaker>K5</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Vivi... Vivi! 들리면 대답해!</color>+<color=#00CCFF>그쪽 상황은 어때?</color>
 NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>......</color>
 Vector(0)<Speaker>Vector</Speaker>||:......+여기는 벡터. 그 이상한 녀석이 방금 도망쳤어. 그쪽은?
-K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>버그로 벽에 끼인 R93을 막 구출한 참이야.</color>+<color=#00CCFF>얘가 얼마나 웃긴 모습이었는지 상상도 못할걸!</color>
+K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>적을 따돌리고 방금 R93과 합류한 참이야.</color>+<color=#00CCFF>얘가 얼마나 웃긴 모습이었는지 상상도 못할걸!</color>
 R93(0)<Speaker>R93</Speaker><通讯框><Position>0,-100</Position>;Vector(0)||:<color=#00CCFF>닥쳐! 오늘 운수 진짜 왜 이래!? 이게 벌써 몇 번째야...</color>
 R93(0)<Position>0,-100</Position>;Vector(0)<Speaker>Vector</Speaker>||:모두 무사해서 다행이야.+방금 적에게 습격당했다 했는데, 어떻게 됐어?
 R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||:<color=#00CCFF>사라졌어. 그쪽 동료가 하나 죽어서 후퇴했나 봐.</color>
@@ -167,7 +167,7 @@ Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:......+
 ()<Speaker>K5</Speaker>||:좋아! R93, 우리도 빨리 Vivi한테 투표하자!
 ()<Speaker>R93</Speaker>||:이, 일단 진정부터 할래...?
 ()<Speaker>K5</Speaker>||:진정할 게 뭐가 있어, Vivi는 반드시 이기니까 두고보라고!+카리나, 여기 내 투표비!
-()<Speaker>K5</Speaker>||<BIN>294</BIN>:그래 그래, 싸우지 말고 차례대로 차례대로~+베팅 고마워!
+()<Speaker>카리나</Speaker>||<BIN>294</BIN>:그래 그래, 싸우지 말고 차례대로 차례대로~+베팅 고마워!
 ()||<黑屏1>:
 ()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:......
 ()<Speaker>시스템</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:남은 생존 플레이어 - 10명.

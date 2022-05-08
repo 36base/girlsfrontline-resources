@@ -1,0 +1,95 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<common_effect>%%code=AllSeeingEye02%%</common_effect>:......
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator>:신소련 국경, "불꽃놀이" 사건 발생으로부터 며칠 후.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>412</BIN><黑屏2><BGM>GF_21winter_avg_pathfinder</BGM>:상트페테르부르크의 어느 세이프하우스 안.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:한 갸름한 얼굴의 중년 남성이, 몸을 의자 등받이에 기대고 허리춤에 양손을 깍지를 낀 채, 맞은편에 서 있는 다른 남성을 조용히 바라보고 있었다.+거기에 서 있는 자는 상트페테르부르크 군사 구역 사령부의 기밀 요원이자, 신소련 국가안전국 제2총국의 특파원이었다.
+NPC-Bodyguard2(0)<Speaker>사령부 기밀요원</Speaker>||<SE1>AVG_20Winter_Book</SE1>:상트페테르부르크 사령부 전원의 프로필입니다.+그들의 출입국 상황도 전부 표기했습니다.
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:협조에 대단히 감사드리는 바입니다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:"뒤피외"라는 이름의 남자는 고개를 살짝 끄덕이며 서류를 넘겨받으려 했지만, 기밀 요원이 놓지 않았다.+이에 뒤피외는 그를 똑바로 바라보면서 다시 팔에 힘을 줬지만, 상대는 여전히 놔 주질 않았다.
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:...저희가 마땅한 절차로 처리하고, 최대한 빨리 진행 상황을 공유해드리겠습니다.
+NPC-Bodyguard2(0)<Speaker>사령부 기밀요원</Speaker>||:뒤피외 씨.
+()<Speaker></Speaker>||:여전히 서류를 붙잡은 손에 힘을 풀지 않으면서, 기밀 요원도 뒤피외를 똑바로 마주보았다.
+NPC-Bodyguard2(0)<Speaker>사령부 기밀요원</Speaker>||:연행된 인원들은 언제 석방시켜 주실 겁니까?
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:...조금 오해가 있으신 모양이군요.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:뒤피외는 미간을 찡그리며 서류에서 손을 떼고, 다시 의자 등받이에 기대면서 깍지 낀 손을 살살 비볐다.
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:"불꽃놀이" 사건 관련자를 철저히 조사하라 명령을 내린 주체는 안전국이 아니라 중앙입니다.+귀하 측의 군사 구역에서 벌어진 이런 중대한 실태가 윗선의 눈에 얼마나 실망스럽게 보였을지는, 제가 구태여 말할 필요 없겠죠?
+NPC-Bodyguard2(0)<Speaker>사령부 기밀요원</Speaker>;NPC-Dupieux(0)||:...저희의 업무 소홀의 심각성을 인지하고 반성하고 있으며, 그렇기에 조직을 정돈할 인력이 필요합니다.
+NPC-Bodyguard2(0);NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:중앙이 이 사태가 가져온 혼란을 얼마나 예의주시하고 있는지도, 군사 구역의 여러분은 잘 이해하시고 계시리라 믿습니다.
+NPC-Bodyguard2(0)<Speaker>사령부 기밀요원</Speaker>;NPC-Dupieux(0)||:물론 저희도 중앙의 결정을 이해하며, 적극 협조하고 있습니다.+하지만 그렇다고 안전국이 군의 인사 조정에 끼어들어도 되는 것은 아니죠.+부대의 운영을 정상적으로 유지해야 하지 않겠습니까.
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:우리가 여기 온 이유는 모든 사항을 도리에 맞게 처리하기 위해서입니다. 동지 여러분을 난처하게 만드려는 의도는 결코 없습니다.+다만... 절차에는 시간이 소요되는 법이죠.
+()<Speaker></Speaker>||:뒤피외는 턱을 살짝 들며 말을 마쳤다. 그 목소리에는 질의를 거부하는 단호함이 실려 있었다.
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:귀측 군사 구역에서의 혼란은 중요한 때에 중앙의 걸림돌이 되었습니다.
+NPC-Bodyguard2(0)<Speaker>사령부 기밀요원</Speaker>;NPC-Dupieux(0)||:그저 PMC들이었잖습니까, 중앙은 그들보다 저희 동지들을 생각해 줘야 마땅합니다.+저희 사이에 투기꾼들이 섞여들긴 했어도, 그런 것쯤 저희가 알아서 처리할 수 있습니다.
+NPC-Bodyguard2(0);NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:과연 그럴 수 있을지 의심스럽군요, 동지.
+NPC-Bodyguard2(0)<Speaker>사령부 기밀요원</Speaker>;NPC-Dupieux(0)||:무슨 말씀입니까?
+NPC-Bodyguard2(0);NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:당신이 편성한 조사팀 중 무려 3명이 혼란을 야기했습니다.+당신에겐 사람 보는 눈이 없는 것 같은데, 그래가지고 어찌 이 문제를 해결할 요량입니까?
+NPC-Bodyguard2(0)<Speaker>사령부 기밀요원</Speaker>;NPC-Dupieux(0)||:......
+NPC-Bodyguard2(0);NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:부디, 군사 구역의 동지 여러분이 조직을 신뢰해 주시길 바랍니다.
+NPC-Bodyguard2(0)<Speaker>사령부 기밀요원</Speaker>||:...알겠습니다.
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:새로운 소식이 들어오는 대로 바로 전달해드릴 테니 염려 마시길.+지금은 적이 우리 시스템의 허점을 얼마나 잘 파악하고 있는지 모르는 상황이잖습니까.+그래서 제가 중앙의 명을 받아, 군사 구역의 인트라넷 재구축 작업을 책임지게 되었습니다.+그리고 전문가들과 철야로 연구하고 토론한 결과, 완전히 새로운 시스템을 구축하는 방향으로 초점이 맞춰졌습니다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:뒤피외는 두 손을 뻗으면서 몸을 살짝 앞으로 내밀어, 상대의 손에서 서류를 집었다. 이번에는 저항이 없었다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:그리고, 그의 옆에 있던 조수가 다른 서류를 양손으로 꺼내 들었다.
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:48시간 내로 신규 시스템이 정상 가동하는 모습을 확인하고 싶습니다.+참고로, 망가진 구식 시스템을 완전히 대체할 예정이니 기존의 네트워크는 수복할 필요가 전혀 없습니다... 무슨 뜻인지 아시겠죠?
+NPC-Bodyguard2(0)<Speaker>사령부 기밀요원</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:기밀 요원은 대답 않고 고개만 끄덕인 뒤, 뒤피외에게 서류를 넘겨받고 방에서 나갔다.+이를 지켜본 뒤피외는 고개를 기울이며 웃는 듯 마는 듯한 얼굴로 조수에게 고개를 돌렸다.
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:점점 방첩 요원보다 중재인 같은 일을 하는 것 같단 말이지.
+NPC-Dupieux(0)<Speaker>조수</Speaker><同时置暗>||:저들은 중앙에 질의를 던질 담도 없습니다.+그래서 우리에게 화풀이하는 거죠.
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:정말 우습군, 우리한테 한 말이 중앙의 귀에 안 들어갈 거 같아서 저러나?+아무튼, 조사 상황은?
+NPC-Dupieux(0)<Speaker>조수</Speaker><同时置暗>||:매우 순조롭게 진행되고 있습니다만, 여전히 시간이 더 필요합니다.
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:듣자하니 국경 쪽도 어수선해지기 시작했다던데.
+()<Speaker>조수</Speaker>||:모스크바가 해당 문제를 해결 중입니다.
+()<Speaker></Speaker>||:뒤피외는 턱을 긁적이다 탁상을 툭툭 두드렸다.
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:중앙의 능력은 내가 믿어 의심치 않아.+위대한 우리 조국을 뒤흔드려는 어리석은 짓거리를 벌인 놈들에 대해서는, 그저... 유감이라고밖에 못 하겠군.
+()<Speaker>조수</Speaker>||:...조국의 위대한 의지는 의심의 여지가 없지요.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:삐익.+뒤피외가 짐짓 안타까운 척 한탄하려 할 때, 그의 손 옆의 통신기가 소리를 냈다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:탁상을 두드리던 그의 손가락이 멈췄다. 이에 눈치 빠른 그의 조수는 서둘러 허리를 숙여 인사하곤 서류를 챙겨 사무실 밖으로 나갔다.
+()<Speaker></Speaker>||:사무실에 자신밖에 없음을 재차 확인한 후, 뒤피외는 옷깃을 정리하고 통신을 받았다.
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||<BGM>10254</BGM>:제1총국의 뒤피외입니다.
+NPC-Dupieux(0)<Speaker>비서</Speaker><同时置暗>||:<color=#00CCFF>국가안전국 젤린스키 국장 사무실, 비서 안드레이입니다. 바쁘실 와중에 연락드려 실례합니다, 뒤피외 대령님.</color>
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:아닙니다, 안드레이 씨. 작업의 현재 상황을 보고하죠.+일은 매우 순조롭게 진행되고 있습니다. 군사 구역 내의 반동분자들을 최소 7할 색출해내었으며, 그 수는 아직도 늘어나고 있습니다.+신규 통신망 시스템 구축 작업도 아무 문제 없습니다, 72시간 내로 완료할 예정입니다.
+NPC-Dupieux(0)<Speaker>비서</Speaker><同时置暗>||:<color=#00CCFF>중앙은 절대 대령님의 공헌을 잊지 않을 겁니다.</color>+<color=#00CCFF>그리고 축하드립니다, 사실 이 시간에 연락을 드린 것도 이 때문입니다.</color>
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:예?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:뒤피외는 반사적으로 삐닥하던 자세를 고쳤다.
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:어... 설마 중앙의 뜻이라도...?
+()<Speaker></Speaker>||:그는 방금 전까지만 해도 득의양양하던 기세를 완전히 털어버리고, 아주 진지하고 신중한 어조로 물었다.
+()<Speaker>비서</Speaker>||:<color=#00CCFF>중앙은 대령님의 지난 1년간의 뛰어난 공헌을 인정했습니다.</color>+<color=#00CCFF>그래서 논의된 결과, 귀하를 위원회 의장단 부위원장으로 임명하기로 결정했습니다.</color>+<color=#00CCFF>이는 즉시 유효하며, 3 근무일 이내로 모스크바로 복귀해 보고하시기 바랍니다.</color>
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:...중앙에게 인정받아 대단히 영광입니다. 속히 복귀하겠습니다.
+()<Speaker>비서</Speaker>||:<color=#00CCFF>네, 귀하의 소식을 기다리겠습니다.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
+NPC-Dupieux(1)<Speaker>뒤피외</Speaker>||:......
+()<Speaker></Speaker>||:뒤피외는 깍지 낀 손의 손가락 마디를 꾹 눌렀다.+보통이라면 이런 파격적인 승진에 기뻐하거나 흥분할 테지만, 그는 대신 눈을 가늘게 뜨며 생각에 잠겼다.
+NPC-Dupieux(1)<Speaker>뒤피외</Speaker>||:<color=#A9A9A9>젤린스키... 대체 무슨 속셈이지?</color>
+()<Speaker></Speaker>||:다년 간의 첩보와 방첩 활동으로 쌓은 경험 덕분에, 지금 이런 전례 없는 상황에서도 그는 침착함을 유지했다.
+NPC-Dupieux(1)<Speaker>뒤피외</Speaker>||:<color=#A9A9A9>"불꽃놀이" 사건으로 모스크바가 그야말로 아비규환인 이 때에, 이런 인사 조정을 한다고?</color> +<color=#A9A9A9>하필이면 이 시점에 나를 승진시키고 인수인계까지 생략한다니...</color>+<color=#A9A9A9>나를 상트페테르부르크에서 빼내려는 건가?</color>+<color=#A9A9A9>아니면, 나를 모스크바로 불러들이려는 건가?</color>+<color=#A9A9A9>포상이냐, 함정이냐...</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:한참을 고민하던 뒤피외는 사무실 의자에서 벌떡 일어나, 컴퓨터로 젤린스키의 사무실에 간결한 답신을 보낸 후 코트를 집어 들고 서둘러 밖으로 나섰다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑点2><BGM>BGM_stage10</BGM><BIN>418</BIN>:뒤피외가 걸음을 재촉하며 자신이 거주하는 아파트까지 한 블록 정도 남은 곳까지 왔을 때였다.
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:...으음?
+()<Speaker></Speaker>||:고개에 힘을 주고 시선을 전방으로 고정하면서, 곁눈질로 아파트의 감시 카메라를 보았다.+그는 똑똑히 기억했다. 저 카메라는 본래 도로를 향하고 있던 평범한 교통 감시 카메라였다.+하지만, 지금은 각도가 90도 틀어져 아파트의 입구를 향하고 있었다.
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:......
+()<Speaker></Speaker>||:이를 전혀 모르는 척, 뒤피외는 일부러 도로 양쪽을 살피며 오가는 차량이 없는지 확인했다.
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:<color=#A9A9A9>감시 카메라의 각도를 돌렸다... 꽤 흔한 수법인데 말이지.</color>
+()<Speaker></Speaker>||<黑点1>:그리고 태연한 얼굴로 도로를 건너면서, 감시 카메라와는 눈길조차 마주치지 않았다.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1><黑点2><BIN>46</BIN>:아파트에 들어서서도, 그는 청소부가 바뀐 것도 모르는 척하며 반갑게 프런트에 인사한 뒤 엘레베이터를 타고 자신의 집 앞까지 왔다.
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||<SE1>Stop_AVG_loop</SE1>:......
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:열쇠 구멍에 열쇠를 집어넣자, 바로 "딸깍"하는 반응이 왔다.+멈출 줄 모르는 기술의 발전에도, 뒤피외는 오직 가장 원시적인 자물쇠만을 사용해 왔다.+그 이유는 간단했다. 누가 사용하든 반드시 흔적이 남으니까.
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||:<color=#A9A9A9>열쇠 구멍에는 문제가 없다... 야단났군.</color>+<color=#A9A9A9>놈들이 건드렸어.</color>+<color=#A9A9A9>들킨 건가.</color>
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>129</BIN><SE1>AVG_Door_Open_Close</SE1>:뒤피외는 차분한 얼굴을 유지하면서 현관문을 열고 들어가, 코트를 대충 침대 위로 던졌다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><SE1>AVG_Zipper</SE1>:그리고 갈아입을 옷을 적당히 고르면서, 전화기를 꺼내 조수에게 전화를 걸었다.+침대 위에 걸터앉아 신분증 등의 필수품을 확인하는 그의 모습은 누가 봐도 태연해 보였다.
+NPC-Dupieux(0)<Speaker>뒤피외</Speaker>||<SE1>AVG_tele_connect</SE1>:여보세요? 리타 씨? 어, 나야.+내일... 아니, 한 시간 뒤에 모스크바로 가는 비행기 표 좀 예약해 주겠어?+지금 엄청 급한 일이 들어와서 중앙에 돌아갔다 와야 할 거 같아서. 어, 목욕하고 나올 테니까 20분쯤 뒤에 차 보내 줘.
+()<Speaker></Speaker>||<SE1>AVG_va_addingredient</SE1>:그는 느긋하게 아직 다 못 읽은 책도 짐가방에 넣고, 따뜻한 차 한 잔을 따르는 여유까지 부렸다.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>???</Speaker>||<BIN>9</BIN><黑屏2>:목표는 20분 뒤 이동한다. 약 4시간 후 모스크바 셰레메티예보 국제 공항에 도착할 것으로 예상됨.
+()<Speaker>???</Speaker>||:상황 이상 무. 목표도 이상 정황 없음.+사전 계획대로 속행한다. 그가 눈치 못 채게 하라.
+()<Speaker>???</Speaker>||:제13조항에 따라 행동 개시.
+()||<黑点1><BGM>10213</BGM>:
+()<Speaker></Speaker>||<黑点2><BIN>129</BIN><SE1>AVG_20Winter_Drink_Tea</SE1>:뒤피외는 찻잔을 내려놓고, 욕실 안으로 들어갔다.
+()<Speaker></Speaker>||:앞으로 20분. 빨리, 당장 벗어나야만 한다. 꾸물거릴 여유는 없었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_tele_connect</SE1>:한 메시지가, 어느 암호화 채널을 통해 전송되었다.
+()<Speaker></Speaker>||:<color=#00CCFF>나는 즉시 소련을 벗어나야만 한다. "전도자"에게 지원 제공과 정치 망명을 요청한다.</color>
+()||<黑点1>:

@@ -1,0 +1,83 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<SE1>AVG_pistol_finalshot_n</SE1><BIN>9</BIN><BGM>10051</BGM><黑屏2>:탕!
+NPC-Romy(10)<Speaker>로미</Speaker>||<SE1>AVG_Button_Click</SE1>:——!
+()<Speaker></Speaker>||:총알이 바닥났다.+눈으로 확인할 필요도 없었다. 무게만으로도 확실히 느껴졌으니까.+이마에서 흐르는 피는 로미의 시야를 가렸다. 차량 충돌로 인한 부상이 생각보다 심각한 모양이었다.
+NPC-Romy(7)<Speaker>로미</Speaker>||:후우...
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>86</BIN><黑点2><SE1>RunStep</SE1>:그녀는 절뚝거리면서 간신히 골목을 벗어나, 탁 트인 건물 부지에 도착했다.
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1><震屏3>:타앙!
+()<Speaker></Speaker>||<SE1>AVG_Bullet_Hit_Wall</SE1>:총탄 한 발이 그녀의 발치에 날아들어 박혔다. 이 공간은 엄폐물이랄 것도 없었다.
+()||<黑点1>:
+()<Speaker>킬러</Speaker>||<黑点2><SE1>AVG_Team_Running</SE1>:.......
+()<Speaker></Speaker>||:그녀의 뒤를 쫓던 추격자들도, 처음엔 열 명은 족히 넘었지만 이제 네 명밖에 남지 않았다.+로미 못지 않게 만신창이인 꼴이, 슈타지의 국장을 추격한 대가를 증명했다.+하지만 지금 저들에겐 탄창이 더 있고, 로미에겐 없었다.
+()||<黑点1>:
+NPC-Romy(6)<Speaker>로미</Speaker>||<黑点2><SE1>AVG_tele_connect</SE1>:<size=50>그 하늘이 내린 지원은 어디 갔냐?</size>
+Sterling(0)<Speaker>스털링</Speaker><Position>0,150</Position><通讯框>||:<color=#00CCFF>......</color>
+PPQ(0)<Speaker>브리짓</Speaker><通讯框>||:<color=#00CCFF>앞으로 전진하세요, 뒤돌아보지 말고.</color>
+NPC-Romy(7)<Speaker>로미</Speaker>||:믿어도 되는 거냐고 진짜...
+()<Speaker></Speaker>||:자신만만한 동료의 목소리에 마음이 조금 놓이긴 했지만, 그녀가 발을 떼려는 그 순간...
+()<Speaker></Speaker>||<SE1>Select</SE1>:차가운 총구가 뒤통수에 닿았다.+그 낯설고 냉혹한 남성의 목소리는 살의를 고스란히 드러냈다.
+()<Speaker>킬러</Speaker>||:꼼짝 마라.
+NPC-Romy(6)<Speaker>로미</Speaker>||:하, 제발...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:로미는 반사적으로 손을 들었다.+그리고 동시에, 이것이 무의미함을 깨달았다. 애초부터 저들의 목적은 생포가 아니었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<SE1>Heartbeat</SE1><BIN>9</BIN><黑屏2>:킬러가 천천히 방아쇠를 당기는 소리가 들리는 듯했다.+그녀는 눈을 감고, 심호흡하며, 다가오는 그 순간을 기다렸다.
+()<Speaker>킬러</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1><BGM>BGM_Empty</BGM>:타앙——!
+()<Speaker></Speaker>||<SE1>AVG_Bullet_Hit_Body</SE1>:총성과 함께 뜨거운 피가 로미의 목덜미에 튀었고, 머리에 닿은 총구의 차가운 촉감도 사라졌다.+무언가 강력한 힘에 킬러의 총을 든 손이 잘려, 권총을 쥔 그대로 튕겨져 나간 것이었다.
+()||<黑屏1>:
+()<Speaker>킬러</Speaker>||<黑点2><BIN>86</BIN>:어...?
+()<Speaker>킬러</Speaker>||<震屏3>:<size=50>어억?! 으아, 아아아아아악!!!</size>
+()<Speaker></Speaker>||:남자는 한 순간 무슨 일이 벌어졌는지 이해하지 못했다.+하지만 날아간 것이 자신이 겨누던 목표의 머리가 아니라 자신의 손임을 깨닫곤, 이내 처절한 비명을 질렀다.
+()<Speaker>킬러</Speaker>||<SE1>AVG_weapon_reload</SE1>:<size=50>매복, 매복이다!! 매복당했――</size>
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_3h</SE1><震屏3>:<size=50>탕! 탕! 타앙!!</size>+저만치 뒤에 있던 나머지 세 명의 킬러들은 바로 상황을 파악하곤 내렸던 총을 황급히 다시 들었다.+하지만 그들보다 로미가 빨랐다. 잘린 손과 함께 바닥에 떨어진 총을 재빨리 집어, 섬광처럼 방아쇠를 당겼다.
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:그들은 전혀 대응하지 못했고, 그저 귓가를 때리는 동료들의 비명을 들으며 이어지는 총성에 차례차례 바닥에 쓰러지고 숨이 멎었다.
+NPC-Romy(8)<Speaker>로미</Speaker>||<SE1>ClothingUp</SE1>:하아아... 다음에는...
+()<Speaker></Speaker>||:로미는 길게 숨을 내쉬면서 투덜댔다.
+NPC-Romy(10)<Speaker>로미</Speaker>||:...좀 깔끔하게 처리해 줄래?
+Sterling(0)<Speaker>스털링</Speaker><Position>0,150</Position>||<SE1>Select</SE1><SE1>AVG_footsteps_cave</SE1>:목표의 침묵을 확인.+미션 컴플리트.
+()<Speaker></Speaker>||<BGM>GF_21winter_avg_nightbar</BGM><SE1>Stop_AVG_loop</SE1>:대원들을 데리고 그늘 밖으로 나오는 스털링의 총은 격발로 인한 열이 채 식지도 않았다.
+NPC-Romy(6)<Speaker>로미</Speaker>||:하마터면 죽을 뻔했다.
+PPQ(0)<Speaker>브리짓</Speaker>||:하지만 살았잖습니까.
+NPC-Romy(7)<Speaker>로미</Speaker>||:왜 너희 둘뿐이야? 나머지는?+으아아 모나가 보고 싶어 죽겠다...+...믿음직한 동료가 눈앞에 나타났건만, 난 소중히 하지 않았지.+없어지고 나니 큰 후회가 드는구나아아...
+LS26(0)<Speaker>이디스</Speaker><Position>0,-60</Position><通讯框>||:<color=#00CCFF>우린 좀 거리가 있습니다, 금방 합류하러 갈게요.</color>+<color=#00CCFF>그리고 작작 좀 투덜거려요, 모나 씨는 바쁘거든요?</color>
+TFQ(0)<Speaker>다그마르</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>슈타지는 지금 인력난이잖아요. 우리가 이해해 줘야죠.</color>
+LS26(0)<Speaker>이디스</Speaker><Position>0,-60</Position><通讯框>||:<color=#00CCFF>아니, 저 사람은 그냥 우리한테 짜증내는 거야.</color>+<color=#00CCFF>자기 꼴은 엉망이면서 말이지...</color>
+NPC-Romy(6)<Speaker>로미</Speaker><Shake>0.1</Shake>||:<size=50>그게 직장 선배를 대하는 태도냐 이것들아!?</size>
+LS26(0)<Speaker>이디스</Speaker><Position>0,-60</Position><通讯框>||:<color=#00CCFF>왜요. 우린 국장님 명을 따르지, 당신 부하가 아닌데요.</color>+<color=#00CCFF>설마 메소드 연기에 빠진 건 아니겠죠?</color>+<color=#00CCFF>J 요원.</color>
+NPC-Romy(7)<Speaker>J</Speaker>||:연기니까 많이 협조해 달라고 좀...
+Sterling(0)<Speaker>스털링</Speaker><Position>0,150</Position>||:잡담은 삼가라, 아직 임무는 끝나지 않았다.+다른 변수의 개입이 없다면, 이런 암살 시도는 앞으로 다섯번쯤은 더 있을 것이 분명해.
+NPC-Romy(6)<Speaker>J</Speaker>||:내 평생 이렇게 끔찍한 임무는 다신 없을 거다...+<size=50>최고로 끔찍하다고!</size>
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:.......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>408</BIN><BGM>GF_EV9_Story</BGM>:공항의 에이프런에서, 지휘관이 K에게 연락했다.
+NPC-Jason(2)<Speaker>K</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>K다. 공항에 도착했나 보군, 도중에 일은 없었나?</color>
+NPC-Jason(2)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:조금 소란이 있긴 했지만, 그것 외엔 별일 없었지.+그보다 크루거 씨는 지금 어떻지?
+NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>이미 조사했다. 국방부가 하달한 영장이 아니었어.</color>+<color=#00CCFF>아마 저번에 크게 한판 저지른 것의 후폭풍으로 보인다, 특히 너를 겨냥해서. 그러니 계획대로 네가 베를린을 떠나는 척하면, 그들도 더 무슨 짓을 하려 하지는 않을 거다.</color>
+NPC-Jason(2)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:그래, 계획에 따라 장군님을 호위하며 프랑크푸르트로 이동하겠다.
+NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>특별작전팀은 준비됐나?</color>
+NPC-Jason(2)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:...아직 저쪽에서 움직임이 없지만, 시간이 없을 것 같아 걱정이야.
+NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>놈들이 가만 있더라도 넌 가만 있을 수 없겠지.</color>
+()<Speaker>지휘관</Speaker>||:...그래.
+()<Speaker></Speaker>||:지휘관이 통신기에 대고 뱉는 목소리는, 약간의 초조함이 섞여있었다.
+NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>방법이야 찾으면 나오기 마련이다, 너무 조급해하지 마.</color>
+()<Speaker>지휘관</Speaker>||:알고 있어.
+()<Speaker></Speaker>||:지휘관은 한숨을 쉬었다.
+NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>로미 국장이 왜 장군님의 호위 임무를 네게 맡겼는지는 알고 있겠지?</color>
+NPC-Jason(2)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:그래. 내 신분으로 이 임무를 완수하면, 그리폰이 장군의 비호를 받았다는 증거가 되니까.+이 신뢰에 반드시 부응해야지.
+NPC-Jason(2)<Speaker>K</Speaker><通讯框>||<SE1>AVG_keyboardtype_sci</SE1>:<color=#00CCFF>좋아, 그럼 잠시 후에 "질소" 팀의 지휘 권한도 넘기겠다.</color>+<color=#00CCFF>건투를 빈다.</color>
+NPC-Jason(2)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:뭐...?+슈타지의 인형 소대 지휘 권한을 내게 넘긴다고?+너무 거창한 거 아니야?
+NPC-Jason(3)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>이것도 국장의 뜻이다.</color>+<color=#00CCFF>우리는 서로 "성의"를 주고받는 협력 관계다. 이것도 그 일부야.</color>
+()<Speaker>지휘관</Speaker>||:...대신 고맙다 전해 줘.+그리고――
+AR15Mod(0)<Speaker>AR-15</Speaker>||:지휘관.
+()<Speaker>지휘관</Speaker>||:응?
+()<Speaker></Speaker>||:그때, AR-15가 지휘관의 말을 끊었다.
+AR15Mod(0)<Speaker>AR-15</Speaker>||:놈들이 왔어요.
+()<Speaker>지휘관</Speaker>||:...그만 끊는다.
+NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>다시 한번, 건투를 빈다.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+통신 종료.
+()<Speaker></Speaker>||:지휘관은 통신기를 내려놨다.
+()<Speaker>지휘관</Speaker>||:요격 준비.
+AR15Mod(0)<Speaker>AR-15</Speaker>||<SE1>Select</SE1>:예!
+()||<黑点1>:

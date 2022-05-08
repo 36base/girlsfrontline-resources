@@ -1,0 +1,295 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_21Christmas_Christmas</BGM><BIN>81</BIN>:12월 23일 오후 8시, 한차례 폭풍이 휩쓸고 간 그리폰 카페.+지휘관이 도망치고 나니, 인형들은 놀랍도록 질서정연한 모습으로 카리나에게서 자신의 성탄 코인을 수령했다.
+()<Speaker>카리나</Speaker>||:다들 명심해! 성탄 코인을 절대 잃어버리지 마, 한 사람 앞에 더도 말고 덜도 말고 딱 하나뿐이니까!+꼬오오옥 진심으로 고마움을 전하고 싶은 상대에게 주도록 해, 알았지? 함부로 가지고 놀다간 후회할 수 있어!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:M21은 떨리는 손바닥 위에 놓인, 자신의 이름이 새겨진 성탄 코인을 물끄러미 바라봤다.
+M21(2)<Speaker>M21</Speaker>||:<color=#A9A9A9>성탄 코인은 한 사람당 단 하나뿐...</color>+<color=#A9A9A9>그렇다면... M14가 나한테 코인을 준다면...</color>
+()||<黑点1><BGM>BGM_Empty</BGM>:
+M14(2)<Speaker>M14</Speaker>||<BGM>GF_Memorial</BGM><黑点2><BIN>142</BIN><边框>2</边框>:M21! 우리, 이 코인을 너한테 줄게!
+M21(2)<Speaker>M21</Speaker>||<边框>2</边框>:정말 받아도 돼?
+M14(2)<Speaker>M14</Speaker>||<边框>2</边框>:응! M21은 우리가 가장 고맙다고 생각하는, 제일 소중한 사람이니까!
+M21(2)<Speaker>M21</Speaker>||<边框>2</边框>:M14... 나도 네가...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><边框>2</边框>:그렇게 서로 뜨겁게 맞잡은 손으로, 서로의 마음이...
+()||<黑点1><边框>2</边框><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑点2><BIN>81</BIN><BGM>m_wv_scenario</BGM>:찰싹찰싹.+누군가의 손바닥이, 망상에 빠져 있던 M21의 뺨을 노크해 그녀를 다시 현실로 불러들였다.
+M14(2)<Speaker>M14</Speaker>||:왜 멍때려? 괜찮아?
+M14(2);M21(2)<Speaker>M21</Speaker>||:엉?! 아, 어어... 그냥 좀, 새로운 농담 생각 중이었어.+그나저나, 왜 그렇게 코인을 요리조리 살펴봐?
+M14(2)<Speaker>M14</Speaker>;M21(2)||:그냐앙... 우리가 보기에 이건 그냥 평범한 기념 동전인데, 저렇게 호들갑 떨 일인가 싶어서.
+M21(2)<Speaker>M21</Speaker>||:...그치? 그냥 명절 이벤트 분위기 살리는 거지.
+()<Speaker></Speaker>||:M21은 M14의 코인을 계속 곁눈질했다. 그냥 그녀의 손바닥 위에 놓인 또 다른 코인에 지나지 않았지만, 기묘하게도 매혹적인 기운을 발산하고 있었다.
+M21(2)<Speaker>M21</Speaker>||:있잖아 M14... 너 그거 누구한테 줄 거야?
+M14(2)<Speaker>M14</Speaker>||:응? 글쎄... 아무한테나? 그냥 동전인걸.+우리 이런 거 대충인 거 알잖아.+M21은? 주고 싶은 사람 있어?
+M21(2)<Speaker>M21</Speaker>||:나... 나도 딱히 누구든 상관없지...+이, 이런 쓰잘데기 없는 걸 진지하게 누구한테 줄지 고민할 사람이 어디 있겠냐! 아하, 아하하하...
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:억지로 웃는 M21의 어깨를 누가 툭 쳐서 뒤를 보니, 어째선지 아무도 없었다.
+M21(5)<Speaker>M21</Speaker>||:...하여간, 어떻게 넌 질리지도 않고 항상 이러냐?
+M21(5);M9(0)<Speaker>M9</Speaker>||:헤헤헤~ M21! 성탄 코인 내놓는 거야!
+M21(5)<Speaker>M21</Speaker>;M9(0)||:싫거든!
+M9(0)<Speaker>M9</Speaker>||:우와, 즉답했어! 치사한 거야!
+()<Speaker></Speaker>||:M9은 입을 삐죽 내밀고는, 폴짝폴짝 M21의 옆을 지나쳐 M14를 와락 껴안았다.
+M9(0)<Speaker>M9</Speaker>||:M14~! 사랑하는 거야~
+M14(2)<Speaker>M14</Speaker>;M9(0)||:네 네, 뭐예요?
+M14(2);M9(0)<Speaker>M9</Speaker>||:네 코인, 나한테 주는 거야!
+M14(2)<Speaker>M14</Speaker>;M9(0)||:이거요? 좋아요.
+M14(2);M21(4)<Speaker>M21</Speaker><Shake>0.1</Shake>||:잠깐!
+M14(2)<Speaker>M14</Speaker>;M21(4)||:응?
+M9(0)<Speaker>M9</Speaker>;M21(4)||:뭐야, M21은 M14 게 갖고 싶은 거야?
+M9(0);M21(5)<Speaker>M21</Speaker>||:에에이, 그럴 리가! 내가 그런 유치한 짓을 왜...
+M9(0)<Speaker>M9</Speaker>||:그럼 어서 주는 거야, M14!
+M14(2)<Speaker>M14</Speaker>||<BGM>BGM_Empty</BGM>:받으세요~
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Clock</SE1>:M21의 흔들리는 시선을 받으며, M14의 성탄 코인이 공중에서 예쁜 포물선을 그렸다.+시간이 느려지기라도 한 듯, M21의 눈동자에는 회전하는 코인의 앞뒷면이 똑똑히 보였다.+앞면, 뒷면, 정의, 사악...
+M9(0)<Speaker>M9</Speaker>||<SE1>Stop_AVG_loop</SE1><SE1>Rope</SE1>:아싸~! M14의 코인을 손에 넣은 거야!
+()<Speaker></Speaker>||:득의양양해하며 M14의 코인을 자랑하는 M9을 보는 M21의 마인드맵에, 사악한 계획이 완성되었다.
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>1</BIN><Night><BGM>GF_20HW_Scene_BPM82_loop</BGM><SE1>AVG_wind_grass</SE1>:12월 23일 오후 8시 30분, 기지 인근의 작은 숲.+M9이 흥겨운 콧노래에 박자를 맞춘 발걸음으로 숲속을 거닐었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리고 그 뒤를 미행하는 M21의 떨리는 손에는, 웬 자루가 들려 있었다.
+M21(5)<Speaker>M21</Speaker>||:<color=#A9A9A9>다 네 탓이야 M9, 나한테서 M14의 성탄 코인을 빼앗아 간 네 잘못이라구...</color>+<color=#A9A9A9>내가 먼저 M14의 코인을, 어떤 대가를 치러서라도 얻겠다고 다짐했는데...!</color>+<color=#A9A9A9>그래도 너무 걱정은 마, 자루는 네가 좋아하는 빨간색이니까...</color>
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><震屏3>:몇 번의 심호흡 후 M21은 그대로 위에서 뛰어내려, 기습에 놀라 비명을 지르는 M9의 머리에 자루를 뒤집어씌웠다.
+()<Speaker>M9</Speaker>||<SE1>AVG_flag</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=10</controll_shake>:꺄아아악!! 이거 뭐야!? 난 그리폰의 인기인인 거야! 당장 치우는 거야, 내 팬들이 가만 안 둘 거야!
+M21(5)<Speaker>M21</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:바둥대는 M9의 머리를 누르고, M21은 그녀의 주머니에서 M14의 성탄 코인을 찾아냈다.
+M21(5)<Speaker>M21</Speaker>||:<color=#A9A9A9>용서해라, M9...!</color>+<color=#A9A9A9>나중에 임무에서 총 맞을 일 있으면 내가 흑기사 해 줄 테니까!</color>
+()<Speaker>M9</Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=10</controll_shake>:이 비겁한 녀석! 뭐하는 거야! 정정당당하게 얼굴을 보이는 거야아아!!
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:M21은 비장한 표정으로 자루의 입을 꽉 조이고, 그대로 뒤도 안 돌아보고 현장에서 벗어났다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>81</BIN><关闭蒙版><SE1>AVG_door_elecport</SE1><BGM>BGM_21Christmas_Christmas</BGM>:12월 23일 오후 9시, 여전히 떠들썩한 카페.+완전범죄에 성공한 M21이 헐레벌떡 돌아왔고, 아무 일 없었다는 듯 조용히 M14의 곁으로 다가와 그녀의 주머니에 코인을 다시 넣었다.
+M14(2)<Speaker>M14</Speaker>||:응? 어디 갔다 왔어?
+M21(2)<Speaker>M21</Speaker>||:아무데도. 그냥... 좀 바람 좀 쐬고 왔어.
+()<Speaker></Speaker>||:M21이 반사적으로 시선을 피하던 때, 익숙한 인형이 다가왔다.
+M1911Mod(0)<Speaker>M1911</Speaker>||<SE1>AVG_door_elecport</SE1>:모두 안녕~ 혹시 달링 못 봤어?
+M14(2)<Speaker>M14</Speaker>||:아뇨, 지휘관님 카페에서 도망치신 뒤론 아무도 못 봤대요.
+M21(2)<Speaker>M21</Speaker>||:지휘관도 고생이 많다니까...
+M1911Mod(0)<Speaker>M1911</Speaker>||:아까워라, 제일 먼저 달링의 성탄 코인을 쟁취하고 싶었는데 말이지...+뭐, 기왕 이렇게 된 거 마침 잘 됐다. 너희의 코인 나한테 주지 않을래?
+M21(5)<Speaker>M21</Speaker>||<震屏3>:턱도 없는 소리!
+M14(2)<Speaker>M14</Speaker>||:미안해요, 우리는 이미――?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:M14가 미안해하는 미소를 지으며, 주머니가 비었음을 보여 주려고 툭툭 쳤다.+그런데, 어째선지 손가락 끝에 동그란 물체가 만져졌다.
+M14(4)<Speaker>M14</Speaker><Shake>0.1</Shake>||:어라...? 이게 왜 여기 있지? 분명 M9――
+M1911Mod(0)<Speaker>M1911</Speaker>||:어머나~ 이건 운명의 계시가 틀림없어!
+M1911Mod(0)<Speaker>M1911</Speaker>||<SE1>ClothingUp</SE1>:잘 받을게 M14! 고마워~♪
+M21(5)<Speaker>M21</Speaker>||:기다――
+()<Speaker></Speaker>||:M1911은 싱글벙글해하며 M14의 성탄 코인을 집어 들곤 바로 카페를 나섰고, M21은 이번에도 제때 제지하지 못했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:결국, 그녀는 다시 대충 둘러대면서 카페를 나올 수밖에 없었다. 이번에는 손에 파란색 자루를 쥐고서.
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑点2><BIN>81</BIN><BGM>m_wv_scenario</BGM>:12월 23일 오후 9시 45분, 여전히 떠들썩한 카페.
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:이번에도 성공한 M21은 다시 돌아와, 몰래 코인을 M14의 주머니 속에 넣었다.
+M14(2)<Speaker>M14</Speaker>||:화장실 엄청 오래 걸렸네?
+M21(2)<Speaker>M21</Speaker>||:우리 기지 사람들 외모 관리 엄청 철저한 거 알잖아, 화장 고치는 애들이 바글바글하더라...
+M14(2)<Speaker>M14</Speaker>||:그렇구나. 시간도 많이 늦었는데 이제 돌아갈까?
+M21(2)<Speaker>M21</Speaker>||:그러자.
+()<Speaker></Speaker>||:M21은 안도의 한숨을 푹 내쉬며 M14의 뒤를 따라 숙소로 돌아가려 했지만, 이번에는 덩치 큰 그림자에게 앞을 가로막혔다.
+M1928A1(0)<Speaker>톰슨</Speaker>||:메리 크리스마스다 이것들아!
+M1928A1(0);M14(2)<Speaker>M14</Speaker>||:오, 대장!
+M1928A1(0);M21(2)<Speaker>M21</Speaker>||:안녕 대장, 우리 선물 주러 왔어요?
+M1928A1(0)<Speaker>톰슨</Speaker>;M21(2)||:그래, 너희 몫도 있지.+그나저나 M9이랑 M1911 못 봤냐? 아까부터 찾았는데 어디 숨었는지 그림자도 안 보이네.
+M1928A1(0);M21(5)<Speaker>M21</Speaker>||:지휘관 잡으러 가지 않았을까 싶은데요...
+M1928A1(0);M14(2)<Speaker>M14</Speaker>||:숙소로 돌아가려던 참이니까 우리가 대신 선물 전해 줄게요. 그런데, 크리스마스는 아직 이틀이나 남았는데요?
+M1928A1(0)<Speaker>톰슨</Speaker>;M14(2)||:그야 나도 알지. 헌데 내가 내일 아침 일찍부터 임무에 나가야 하거든, 내일모레 시간 맞춰 돌아올 수 있을지나 모르겠다.+그래서 그냥 미리 선물 주고 가려고.
+M1928A1(0);M21(2)<Speaker>M21</Speaker>||:그렇게 오래 걸리는구나...
+M1928A1(0);M14(2)<Speaker>M14</Speaker>||:그럼 우리도 대장한테 미리 선물 드릴게요!
+M1928A1(0)<Speaker>톰슨</Speaker>||;M14(2):됐어 이 녀석아, 나중에 줘도 돼.
+M14(2)<Speaker>M14</Speaker>||:안 돼요!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:M14이 허둥지둥 뭐가 없을까 몸의 구석구석을 뒤지던 그때, 또다시 손끝에 동그란 물체가 만져졌다.
+M14(4)<Speaker>M14</Speaker>||:어라라!? 이게 왜 또 돌아왔지?!+M21도 봤지? 내가 두 번이나 이거 주머니에서 꺼내서 주는 거!+이 동전 귀신 들렸나 봐!
+M21(5)<Speaker>M21</Speaker>||:저... M14? 성탄 코인은 나중에――
+M1928A1(0)<Speaker>톰슨</Speaker>||:오호라, M14의 성탄 코인이라? 좋아, 이틀 이른 크리스마스 선물로 감사히 받으마.
+M14(4)<Speaker>M14</Speaker>||:잠깐만요 대장! 이 동전 심상치가 않아요!
+M21(5)<Speaker>M21</Speaker>||:마, 맞아 맞아! 이거 갖고 임무 나갔다 무슨 안 좋은 일이라도 생기면 어떡해요!
+()<Speaker></Speaker>||:호들갑 떠는 M14와 당황하며 팔을 붕붕 휘젓는 M21을 무시하고, 톰슨은 신사적이면서도 은근히 고압적으로 M14에게서 성탄 코인을 받았다.
+M1928A1(0)<Speaker>톰슨</Speaker>||:하, 이딴 동전이 무슨 불행을 불러오겠어?
+M21(5)<Speaker>M21</Speaker>||:아니 그래도...
+M1928A1(0)<Speaker>톰슨</Speaker>||:왜, 설마 한밤중에 숲속을 거닐다 길이라도 잃을까 봐?
+()<Speaker></Speaker>||:톰슨의 한마디와 미소는 의미심장했지만, M21은 그걸 눈치챌 겨를이 없었다.
+M14(4)<Speaker>M14</Speaker>||:안 된다니까요 대장! 다른 거 없나 찾아볼게요!
+M1928A1(0)<Speaker>톰슨</Speaker>||:신경써 주는 건 고맙다만 M14, 난 이게 마음에 들었어. 그럼 돌아와서 보자.
+M21(5)<Speaker>M21</Speaker>||:대, 대장... 그게...!
+M14(4)<Speaker>M14</Speaker>||:그치만...
+()<Speaker></Speaker>||:톰슨은 쿨하게 인사를 남기며 카페를 떠났다.+그리고 2번이나 고생해서 되가져 왔던 M14의 성탄 코인이 또 멀어져 가는 모습을 보고 있자니, M21의 마인드맵은 점점 과부하되어 갔다.
+M14(4)<Speaker>M14</Speaker>||:어떡하지 M21?! 대장이 저 귀신 들린 코인을 가져가 버렸어!+M9이랑 M1911이랑도 연락이 안 되는데...+...M21? 왜그래 M21?
+M21(5)<Speaker>M21</Speaker>||:아... 아무것도 아니야...
+()<Speaker></Speaker>||:속이 타 들어가는 M21은 그저 억지로 미소를 짜낼 뿐이었다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑屏2><BIN>1</BIN><Night><BGM>BGM_Empty</BGM><SE1>AVG_wind_grass</SE1>:12월 23일 오후 10시 30분, 기지 인근의 작은 숲.+벌써 3번째인 M21은 자루를 들고 능숙하게 나무 뒤에 몸을 숨겼다.+점점 가까워지는 발소리에, 이젠 대장까지 해치워야 한다 생각하니 눈앞이 캄캄해졌다.
+M21(5)<Speaker>M21</Speaker>||:<color=#A9A9A9>대장... 왜 하필 M14의 코인을 탐낸 거야!</color>+<color=#A9A9A9>내가 얼마나 고생해서 M9과 M1911한테서 코인을 되찾았는데, 이번엔 대장까지...</color>
+()<Speaker></Speaker>||:마지막으로 톰슨의 위치를 확인한 다음, M21은 길게 한숨을 내쉬었다.
+M21(5)<Speaker>M21</Speaker>||:<color=#A9A9A9>왜 알아주질 못하는 거야, M14...</color>+<color=#A9A9A9>네 코인은 내 것이어야만 한다고!</color>
+()<Speaker></Speaker>||<SE1>Rope</SE1>:M21은 자루의 입을 열고, 거리를 가늠한 다음, 나무 뒤에서 튀어나왔다.+그리고 그녀를 맞이한 것은...
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_Cloak_Whoosh</SE1>:입을 쩌억 벌린, 또 하나의 자루였다.
+()<Speaker>M21</Speaker>||<SE1>AVG_flag</SE1>:으아악!? 아, 안 보여! 뭐야 이거!+누구야! 날 어디로 끌고 갈 셈이야?!+<size=50>인형 살려! 여기 납치당해요!!!</size>
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>GF_20HW_Scene_BPM82_loop</BGM><睁眼><BIN>89</BIN><关闭蒙版><SE1>ClothingUp</SE1>:그대로 포박당한 M21은 어디론가 옮겨졌고, 자루가 벗겨져 겨우 앞이 보이게 된 그곳은 바로 창고였다.+M21의 앞에는 톰슨이 의자에 반대로 앉은 채로, 그녀가 준비했던 보라색 자루를 만지작거리고 있었다.
+M1928A1(0)<Speaker>톰슨</Speaker>||:어이, M21... 나한테 무슨 볼일이길래 이런 것까지 준비해서 기다리고 있었냐?
+M21(5)<Speaker>M21</Speaker>||:저... 그, 그냥 찾는 물건이 좀...
+M1928A1(0)<Speaker>톰슨</Speaker>||:아하... 찾는 물건이 있으시다?
+M1928A1(0)<Speaker>톰슨</Speaker>||<SE1>ClothingUp</SE1>:네가 찾는 물건이... 이 보라색 자루냐?
+M1911Mod(0)<Speaker>M1911</Speaker>||<SE1>ClothingUp</SE1>:아님 이 파란색 자루냐~?
+()<Speaker></Speaker>||:M21이 뒤집어씌웠던 그 파란 자루를 들고서, M1911이 불쑥 끼어들었다.+이를 본 M21은 몸서리칠 수밖에 없었다.
+M21(5)<Speaker>M21</Speaker>||:아니 그게... 숲속에서 성탄 코인을 모을 수 있다길래...
+M9(0)<Speaker>M9</Speaker>||:아아~ 성탄 코인을 찾던 거야~?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:M9까지 M1911의 옆에서 튀어나와, 자랑하듯 M21의 눈앞에서 동전을 한 바퀴 팅 튕겼다.+"M14". 빛에 반짝이는 건 분명히 M14의 성탄 코인이었다.
+M21(5)<Speaker>M21</Speaker>||:......!+<color=#A9A9A9>M14의 성탄 코인!</color>
+M9(0)<Speaker>M9</Speaker>||:M21 너! M14의 코인이 갖고 싶어서 우리한테 그런 거야!?
+M1911Mod(0)<Speaker>M1911</Speaker>||:우리 M21이 의외로 로맨티스트였구나~ 나 진짜 다시 봤어.
+M21(5)<Speaker>M21</Speaker>||:아, 아니야! 내가 유치하게 그런 거 가지고 그랬겠어?!+<color=#A9A9A9>절대 인정하면 안 돼, 1년은 족히 놀림거리가 될 거라고!</color>
+M1928A1(0)<Speaker>톰슨</Speaker>||:아니라고?
+M21(5)<Speaker>M21</Speaker>||:진짜 아니라니까요!? 그, 그냥 바람이나 쐬면서 바닥에 뭐 재밌어 보이는 거 없나 하고...!
+M1928A1(0)<Speaker>톰슨</Speaker>||:그렇다니 다행이군. 그럼, 이 "귀신 들린" M14의 성탄 코인을 처리해도 상관없겠지?
+M1911Mod(0)<Speaker>M1911</Speaker>||:다행이네~
+M9(0)<Speaker>M9</Speaker>||:헤헤헷!
+M21(5)<Speaker>M21</Speaker>||:엑... 그, 그걸 어떡하려고요...?
+()<Speaker></Speaker>||:세 인형들이 심술궃은 미소를 띄우자, 불길한 예감이 M21의 등골을 타고 올랐다.
+M1928A1(0)<Speaker>톰슨</Speaker>||:궁금하냐?
+M21(5)<Speaker>M21</Speaker>||:아... 아뇨...?+그런 거 아무래도 상관없죠오...
+M1911Mod(0)<Speaker>M1911</Speaker>||:그치~ 너랑은 아무 상관 없는 일이지~
+M9(0)<Speaker>M9</Speaker>||:헤헤헤... 그럼~ M14의 성탄 코인은 맛이 어떤지 볼까나? 아앙~
+()<Speaker></Speaker>||:M9이 고개를 척 들더니, 입을 떡 벌리고 성탄 코인을 집은 손을 천천히 내리기 시작했다.+M14의 코인이 그 쬐끄만 심연에 가까워질수록, M21은 눈에 띄게 동요했다.
+M21(5)<Speaker>M21</Speaker>||:<color=#A9A9A9>아 왜 또 저러는데!</color>+어... 아무리 그래도 그건 좀 아니지 않아?
+M1911Mod(0)<Speaker>M1911</Speaker>||:뭐가?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:성탄 코인은 이제 M9의 콧등을 지나쳐, 저 심연의 입구 바로 앞까지 갔다.
+M21(4)<Speaker>M21</Speaker><Shake>0.1</Shake>||:안 돼, 멈춰!
+M1928A1(0)<Speaker>톰슨</Speaker>||:이제 좀 솔직해질 마음이 드냐?
+M21(5)<Speaker>M21</Speaker>||:제, 제가 뭘요!
+M1928A1(0)<Speaker>톰슨</Speaker>||:M9.
+()<Speaker></Speaker>||:그 말에, 성탄 코인이 그 작은 입 속으로 쏙 들어갔다.
+M21(4)<Speaker>M21</Speaker>||<震屏3>:아아악! 알았어요 말할게요 말한다고요!!
+M1928A1(0)<Speaker>톰슨</Speaker>||:M9, 스톱.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:M21은 결국 포기하고 실토할 수밖에 없었다.
+M21(5)<Speaker>M21</Speaker>||<BGM>GF_Memorial</BGM>:M9, M1911, 미안해... 딱히 어쩔 생각은 없었어...+그냥... M14한테서 코인을 받고 싶어서...
+M1911Mod(0)<Speaker>M1911</Speaker>||:뭐어? 그럼 걔한테 직접 말을 하지 그랬어.
+M21(5)<Speaker>M21</Speaker>||:하지만 그러면 내가 억지로 달라는 것처럼 보이잖아!+M14이 스스로의 의지로 줘야 의미가 있지!
+M1928A1(0)<Speaker>톰슨</Speaker>||:그래서 M14가 얘네한테 코인을 주는 걸 그냥 눈 뜨고 지켜보기만 했다고?
+M21(5)<Speaker>M21</Speaker>||:......
+M1928A1(0)<Speaker>톰슨</Speaker>||:세상엔 말이다 M21, 직접 상대에게 말하지 않으면 전할 수 없는 일들이 많아.+이건 직접 선물받아야 의미가 있네 없네의 문제가 아니라, 그냥 네가 바라는 바를 똑바로 표현 못해서 변명거리를 찾은 꼴이야.
+M1911Mod(0)<Speaker>M1911</Speaker>||:맞아. 나도 달링의 성탄 코인이 갖고 싶지만, 몰래 비겁한 술수 쓰지 않고 당당하게 말할 거야!
+M21(5)<Speaker>M21</Speaker>||:네... 죄송해요...
+M1928A1(0)<Speaker>톰슨</Speaker>||:M14의 코인은 너한테 주마. 이번 일도 없던 걸로 하고.
+M21(5)<Speaker>M21</Speaker>||:대장!
+M1928A1(0)<Speaker>톰슨</Speaker>||:대신.+당장 M14한테 가서 네 마음을 솔직하게 말하도록.
+M21(5)<Speaker>M21</Speaker>||:...네.
+M1928A1(0)<Speaker>톰슨</Speaker>||:M9, 장난 그만 치고 이제 줘. ...M9?
+()<Speaker></Speaker>||:어째선지 조금 전부터 등을 돌린 M9이 뜨끔하면서 겨우 고개를 돌려, 새빨개진 얼굴을 드러냈다.
+()<Speaker>M9</Speaker>||<BGM>BGM_Empty</BGM><SE1>Rope</SE1>:켁켁... 웩... 켁...
+M21(4)<Speaker>M21</Speaker>||<震屏3>:<size=50>진짜 삼키면 어떡해!!!</size>
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>82</BIN><Night><BGM>BGM_Moon</BGM>:12월 23일 오후 11시 30분, 고요한 숙소.+M21이 숙소로 돌아왔을 때, M14는 이미 심층 휴면 상태였다.
+M21(2)<Speaker>M21</Speaker>||:후우... 다행이다. 안 깨겠지?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:M21은 살금살금 다가가 M14의 성탄 코인을 그녀의 머리맡에 두고, 자신의 침대로 돌아가 지친 몸을 이불로 덮었다.
+M21(5)<Speaker>M21</Speaker>||:<color=#A9A9A9>어휴, 임무 나갔다 왔을 때보다 더 피곤하네.</color>+<color=#A9A9A9>대장이 날 봐줘서 망정이지...</color>
+()<Speaker></Speaker>||:M21이 누운 채로 몸을 뒤집어, 맞은편에서 곤히 자는 M14의 얼굴을 바라보며 무심코 한숨을 푹 쉬었다.
+M21(5)<Speaker>M21</Speaker>||:<color=#A9A9A9>M14...</color>+<color=#A9A9A9>내가 정말 잘못한 걸까?</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><关闭蒙版>:졸음이 쏟아지고, 눈꺼풀도 점점 무거워졌다.+하지만 아까 들었던 말이 그녀의 귓가를 좀처럼 떠나질 않았다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>82</BIN><Night><SE1>ClothingUp</SE1>:결국 다 감겼던 M21의 눈이 번쩍 뜨였다.
+M21(2)<Speaker>M21</Speaker>||:그래, 마음을 열고 내가 하고 싶은 말을 당당히 할 줄 알아야 해!+M14한테 성탄 코인 받고 싶다고 말하자!
+()||<黑屏1>:
+()<Speaker>M21</Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:내일, M14가 일어나면 바로!
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>82</BIN><黑屏2><关闭蒙版><BGM>m_avg_casual</BGM>:12월 24일 아침, 그리폰 숙소.+휴면에서 깨어난 M14는 아직 졸려 눈도 제대로 못 뜨면서도 미리 준비해 뒀던 크리스마스 복장으로 갈아입었다.
+M21(5)<Speaker>M21</Speaker>||:잘 잤어 M14...?
+M14(2)<Speaker>M14</Speaker>||:우웅... 안녕 M21. 오늘 일찍 일어났네?+...? 왜 기운 없어 보여?
+M21(5)<Speaker>M21</Speaker>||:아하하... 크리스마스가 기대되다 보니까 잠이 안 오더라...+<color=#A9A9A9>빨리 말해 M21! 어떻게 말할지 밤새도록 생각했잖아!</color>
+()<Speaker></Speaker>||:여전히 민망해, M21은 엉킨 머리카락을 잡아당기면서 시선을 돌렸다.+그 시선을 따라 M14도 고개를 돌리니, 그녀의 침대 머리맡에 작은 무언가가 햇빛을 받아 반짝이고 있었다.
+M14(4)<Speaker>M14</Speaker>||:어...?!+내 성탄 코인이잖아!?
+M14(4);M21(5)<Speaker>M21</Speaker>||:엉? 아아, 저, 정말이네!
+M14(4)<Speaker>M14</Speaker>;M21(5)||:이거, 왜 이렇게 끈질기게 날 따라오는 걸까? 어제 세 번이나 다른 사람한테 줬는데!
+M14(4);M21(5)<Speaker>M21</Speaker>||:어... 어쩌면 거기가 있어야 할 곳이 아니라 돌아온 걸지도...?
+M14(4)<Speaker>M14</Speaker>;M21(5)||:무서워! 이거 저주라도 걸렸나 봐!+어떻게 처리하지?!
+M14(4);M21(2)<Speaker>M21</Speaker>||:나, 나는 꽤 귀엽다고 생각하는데!
+M14(4)<Speaker>M14</Speaker>||:으으... 무서워무서워무서워어어...
+()<Speaker></Speaker>||:M14가 당황해 발을 동동 구르는 소리에 M21도 덩달아 긴장했다.
+M14(4)<Speaker>M14</Speaker>||:M21! 무슨 좋은 수 없을까? 이 불길한 동전을 빨리 없애버려야겠어!
+M21(2)<Speaker>M21</Speaker>||:어... 그럼...
+()<Speaker></Speaker>||:M21은 마침내 용기를 내어, M14에게 다가가 떨리는 입술로 한 마디 한 마디를 짜냈다.
+M21(2)<Speaker>M21</Speaker>||:M14, 네 성탄 코인, 나――
+()<Speaker></Speaker>||<震屏3><BGM>BGM_Empty</BGM><SE1>AVG_Door_Hit</SE1>:콰앙! 숙소의 문이 벌컥 열리면서 요란한 옷차림의 인형 둘이 안으로 쳐들어왔다.
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||<BGM>m_wv_title</BGM>:메리 크리스마스, 여러분!
+hkcaws(2)<Speaker>CAWS</Speaker>||:굿 모닝. 난 CAWS고, 이 아침부터 수상할 정도로 기운 넘치는 녀석은 Px4야.
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:놀랄 것 없어, 우린 산타클로스로서 선물을 나눠 주러 온 거니까!
+M21(5)<Speaker>M21</Speaker>||:<color=#A9A9A9>아 제발... 왜 하필 또 이런 때에...!</color>
+M14(2)<Speaker>M14</Speaker>||:반가워요. 그런데, 우리 처음 보는 사이죠?
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:직접 보는 건 그렇지? 근데 이상하게 엄청 친한 친구 같은 느낌이 든다 야...+마치... 내 언니 같은 느낌?
+M21(5)<Speaker>M21</Speaker>||:아니, 대뜸 들이닥쳐서는 그게 무슨 소리야?+<color=#A9A9A9>수상해! 이 녀석들 심상치 않아!</color>
+hkcaws(2)<Speaker>CAWS</Speaker>||<SE1>ClothingUp</SE1>:어쨌든 선물부터 받아.
+M14(2)<Speaker>M14</Speaker>||:정말 고마워요. 온 김에 잠깐 앉았다 갈래요?
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:마음만 받을게, 우린 선물로 기쁨을 나누러 왔을 뿐인걸.+물론, 너희가 답례를 해 주겠다면야 그건 우리도 사양 않고 고맙게 받을게!+우리의 모토가 마침 "기쁨이란 나누고 거두는 것"이거든!
+hkcaws(2)<Speaker>CAWS</Speaker>||:기쁨도 나누면 2배.+정 줄 만한 선물이 없으면 작은 동전이라도 괜찮아.
+M21(5)<Speaker>M21</Speaker>||:<color=#A9A9A9>역시나! 대놓고 성탄 코인을 달라고 하네?!</color>+<color=#A9A9A9>설마 M14가 이대로 속아넘어갈 리는...</color>
+M14(2)<Speaker>M14</Speaker>||:그건 그렇네요. 흐음...
+()<Speaker></Speaker>||:두 "산타"의 말을 들은 M14이 방을 두리번대다, 금세 다시 그 성탄 코인에 시선이 고정됐다.
+M21(4)<Speaker>M21</Speaker>||:아, 안 돼 M14! 잘 생각해 보자, 분명 다른 게――
+M14(2)<Speaker>M14</Speaker>||:괜찮아, 어차피 그냥 동전일 뿐이잖아?+그럼 우리의 성탄 코인을 드릴게요. 메리 크리스마스!
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:오오, 정말 고마워!
+hkcaws(6)<Speaker>CAWS</Speaker>||:선물 고맙게 받을게.
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:그럼 우린 이제 실례할 테니, 다음에 또 봐~♪
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Close</SE1><SE1>RunStep</SE1>:폭풍처럼 들이닥친 Px4 스톰과 CAWS는 휭하고 가버렸고, 방에는 다시 그대로 굳어버린 M21과 마냥 신난 M14만 남았다.
+M14(2)<Speaker>M14</Speaker>||:헤헤헤~ 우리, 모르는 사람한테 처음으로 크리스마스 선물 받았어!
+M14(4)<Speaker>M14</Speaker>||:하지만 그 불길한 성탄 코인을 줘 버렸는데, 역시 나쁜 짓일까?
+M21(5)<Speaker>M21</Speaker>||:아하... 아하하하... 아니지... 그게 왜 나쁜 짓이야...
+M14(2)<Speaker>M14</Speaker>||:어... 왜 그래 M21? 어디 아파?
+M21(5)<Speaker>M21</Speaker>||:아아니... 그냐앙...
+()<Speaker></Speaker>||:이 순간, M21의 마인드맵은 한계까지 가동했다. 이대로 포기할 수 없었다.
+M21(5)<Speaker>M21</Speaker>||:나도... 선물 받고 싶어서... 하나 더 줄 수 있나... 물어보고 올게...
+M14(2)<Speaker>M14</Speaker>||:그렇구나! 가는 김에 선물 고맙다고 한 번 더 전해 줘!
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:M21은 대답 대신 고개만 끄덕이고, 비틀거리며 숙소 밖으로 나갔다.
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Sneak</BGM><BIN>97</BIN>:자루를 손에 꽉 쥐고서, M21은 Px4 스톰과 CAWS 일행을 바짝 뒤쫓았다.+계속 미행하며 관찰한 결과, Px4 스톰과 CAWS는 숙소란 숙소는 전부 방문하며, 각기 다른 교섭 방식으로 인형들에게서 성탄 코인을 모으는 중임을 알게 되었다.
+M21(5)<Speaker>M21</Speaker>||:<color=#A9A9A9>저 녀석들, 특정 인형을 노리는 게 아니라 넓게 그물을 던지는 거였어.</color>+<color=#A9A9A9>아주 작정하고 성탄 코인 이벤트에서 우승해서, 지휘관한테 소원을 빌 권리를 얻으려나 본데...</color>+<color=#A9A9A9>근데 저렇게 선물을 잔뜩 뿌려대다니, 수지타산이 맞기는 한가?</color>
+()<Speaker>Px4 스톰</Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:고마워! 모두 사랑해~♪
+()<Speaker></Speaker>||:Px4 스톰과 CAWS가 또 다른 숙소에서 나와, 곧장 다음 목적지로 향했다.+그런데 그때, CAWS의 보따리에서 선물 상자 하나가 떨어졌다.
+M21(5)<Speaker>M21</Speaker>||:<color=#A9A9A9>오! 찬스다!</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:굴러들어온 기회를 놓칠세라, M21은 빠르게 몸을 날려 떨어진 선물 상자를 집으려 했다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:하지만 손이 상자에 닿기 직전, 옆에서 불쑥 나타난 발이 그녀의 손을 밟았다.
+M21(4)<Speaker>M21</Speaker>||<SE1>AVG_XXS_kick</SE1><BGM>BGM_Empty</BGM><震屏3>:끄악!?
+KP31(2)<Speaker>수오미</Speaker>||<震屏3>:앗!?
+()<Speaker></Speaker>||<BGM>BGM_21Christmas_Christmas</BGM>:놀란 수오미는 황급히 발을 치우려다 넘어질 뻔했다.
+KP31(2)<Speaker>수오미</Speaker>||:M21?! 거기서 뭐해요!?
+M21(5)<Speaker>M21</Speaker>||:아야야... 너야말로 어디서 튀어나왔어?!
+()<Speaker></Speaker>||:M21은 밟힌 손을 문지르며 선물을 집어 들었다.
+KP31(10)<Speaker>수오미</Speaker>||:......+미안해요, 고의는 아니었어요.
+M21(5)<Speaker>M21</Speaker>||:괜찮아... 바닥에서 이러던 내 잘못도 있으니.
+()<Speaker></Speaker>||:M21은 대충 둘러대면서, 초조한 시선으로 수오미 너머의 Px4 스톰을 곁눈질했다.
+M21(5)<Speaker>M21</Speaker>||:그, 그럼 난 이만――
+KP31(2)<Speaker>수오미</Speaker>||:잠깐만요 M21!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:수오미가 M21의 손을 덥석 붙잡더니, 작은 메모리 카드 하나를 쥐여 주었다.
+KP31(2)<Speaker>수오미</Speaker>||:우리가 평소에 딱히 교류가 없긴 했지만, 그래도...
+M21(5)<Speaker>M21</Speaker>||:이게 뭔데?
+KP31(9)<Speaker>수오미</Speaker>||:보다시피, 메모리 카드예요. 안에는 노래가 한 곡 들었고요.+당신이 마음에 두고 있는 사람에게 들려주면, 당신의 진심을 전할 수 있을 거예요.
+M21(5)<Speaker>M21</Speaker>||:머, 뭐가 마음에 둔 사람에 무슨 진심을 전한다는 거야? 그게 나랑 무슨 상관인데!
+()<Speaker></Speaker>||:M21은 예상치 못하게 정곡을 찔려서 하마터면 펄쩍 뛸 뻔했다.
+M21(5)<Speaker>M21</Speaker>||:그그그리고 대뜸 선물이라니, 무슨 보답이라도 바라는 거라면 꿈 깨셔!
+KP31(9)<Speaker>수오미</Speaker>||:보답이라뇨, 당치도 않아요. 당신 손을 밟은 것에 대한 사과로 받아 주세요.+벌써 내일이면 크리스마스잖아요? 분명 쓸모가 있을 거예요.
+M21(5)<Speaker>M21</Speaker>||:......+<color=#A9A9A9>이거, M14한테 들려주면 정말 내가 걔의 성탄 코인을 원한다는 걸 알아줄까?</color>
+()<Speaker></Speaker>||:M21이 한눈파는 사이에, 수오미는 그대로 갈 길을 갔다.
+M21(2)<Speaker>M21</Speaker>||:...고마워 수오미.
+M21(5)<Speaker>M21</Speaker>||:......+아니 지금 중요한 건 이게 아니지!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:M21은 받은 메모리 카드를 주머니에 쑤셔넣고, 방금 주운 선물 상자를 뜯어봤다.+안에 든 것은 쓰레기장을 뒤지면 얼마든지 볼 수 있는, 녹슨 숟가락이었다.
+M21(5)<Speaker>M21</Speaker>||:<color=#A9A9A9>이것들이... 이딴 걸 선물이라 속여서 모두의 성탄 코인을 받을 셈이었구나!</color>+<color=#A9A9A9>비겁한 놈들 같으니라고! M14의 코인을 되찾는 김에 따끔하게 혼 좀 내야겠구만!</color>+<color=#A9A9A9>그런 다음, M14에게 정식으로 코인을 내게 달라 하면...</color>
+()||<黑点1><BGM>BGM_Empty</BGM>:
+M14(2)<Speaker>M14</Speaker>||<黑点2><BIN>142</BIN><边框>2</边框><BGM>BGM_Moon</BGM>:고마워 M21!+네가 아니었으면 우리의 성탄 코인이 나쁜 사람 손에 들어가 버렸을 거야...+우리도, 우리가 누구에게 성탄 코인을 줘야 했는지도 몰랐을 테고...
+M21(2)<Speaker>M21</Speaker>||<边框>2</边框>:아하하하하! 천만에 M14!
+M14(2)<Speaker>M14</Speaker>||<边框>2</边框>:M21! 우리의 성탄 코인을 받아 줘!
+()||<黑点1><边框>2</边框>:
+M21(2)<Speaker>M21</Speaker>||<黑点2><BIN>97</BIN><BGM>BGM_Empty</BGM>:<color=#A9A9A9>으헤헤......웃긴 아직 이른가.</color>
+()<Speaker></Speaker>||:격정적인 심리 변화에 따라 M21의 표정도 휙휙 변했다.
+M21(2)<Speaker>M21</Speaker>||:<color=#A9A9A9>맞다, 카리나가 무슨 일 있으면 이벤트 질서유지반에 보고하라 했지?</color>+<color=#A9A9A9>이벤트 설명 우편에 연락처가 첨부되어 있던 걸로 기억하는데... 아, FP-6이구나!</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:M21은 바로 FP-6에게 통신을 걸었다.
+M21(2)<Speaker>M21</Speaker>||:여보세요, FP-6? 지금 이벤트 질서유지반한테 급히 보고할 일이 생겼는데...
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>97</BIN><BGM>m_avg_casual</BGM>:질서유지반과 모두의 노력으로, Px4 스톰과 CAWS는 "불공정거래죄"로 체포되었다.+하지만 안타깝게도 그들이 사기쳐 모은 성탄 코인은 절반밖에 회수하지 못했다.+M14는 질서유지반의 방송을 듣고는 자신의 성탄 코인을 찾으러 창고로 갔고, 함께 간 M21은 복도에서 기다리며 초조해했다.
+M21(2)<Speaker>M21</Speaker>||:<color=#A9A9A9>얼른 코인 찾아와, M14!</color>+<color=#A9A9A9>이젠 뭐라 말할지 다 정하고 준비했——</color>
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:등 뒤의 창고 문이 덜컹 소리를 냈다. 아무래도 문이 열린 듯했다.+M21은 움찔했지만, 바로 마음을 다잡고 몸을 홱 돌렸다.+그리고, 여태까지 고민하고 또 고민했던 말을 있는 힘껏 외쳤다.
+M21(2)<Speaker>M21</Speaker>||:<size=50>M14! 네 성탄 코인이 갖고 싶어!</size>
+NPC-Helian(2)<Speaker>헬리안</Speaker>||<SE1>ClothingUp</SE1>:?!!
+()<Speaker></Speaker>||:하지만 그것은 M14가 아니라, 놀라 황급히 뒤로 지휘 태블릿을 숨긴, 어리둥절한 얼굴의 헬리안이었다.
+NPC-Helian(1)<Speaker>헬리안</Speaker>||:...M21? 무슨 일이지?
+M21(2)<Speaker>M21</Speaker>||:아하하하... 아무것도 아님다...
+()<Speaker></Speaker>||:헬리안은 미심쩍어하면서도 발걸음을 서둘렀고, M21은 헬리안이 시야에서 사라진 뒤에야 숨을 토해냈다.+그리고 그제서야 창고의 문이 드르륵 열리면서 M14가 나왔다.
+M21(2)<Speaker>M21</Speaker>||:<size=50>M14! 네――</size>
+M14(2)<Speaker>M14</Speaker>||:M21, 우리 거 못 찾았어... 아무래도 그 나머지 절반 속에 있었나 봐...
+M21(4)<Speaker>M21</Speaker>||:뭐어?! 말도 안 돼!!+내가 당장 가서 찾아올게!!
+M14(2)<Speaker>M14</Speaker>||:괜찮아, 별로 중요한 물건도 아닌걸.
+M21(5)<Speaker>M21</Speaker>||:그래도!
+M14(2)<Speaker>M14</Speaker>||:그리고, 지금은 그보다 더 중요한 임무가 있잖아.+오늘 밤까지 M9랑 M1911을 도와서 크리스마스 기념 불꽃놀이 장소를 청소하기로 한 거, 벌써 잊었어?
+M21(5)<Speaker>M21</Speaker>||:아니 기억하지만...!
+M14(2)<Speaker>M14</Speaker>||:그럼 얼른 가서 도와주자!+M9이 언제 오냐고 지금도 메시지 보내고 있어!
+()<Speaker></Speaker>||:M14의 부드러운 손에 붙잡히니, M21은 차마 뭐라 더 말할 수가 없었다.
+M21(5)<Speaker>M21</Speaker>||:<color=#A9A9A9>하는 수 없지. 일단 일부터 해치우고 다시 기회를 보자!</color>
+()||<黑点1>:

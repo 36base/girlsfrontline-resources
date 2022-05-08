@@ -1,2 +1,68 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||:<color=#FFFF00>마인드맵 기록 분석 중...</color>+<color=#FFFF00>분석 완료 예상 시각... 02월 26일 16시 00분</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_lifttable</SE1>:임시 보급고.
+()||<黑屏2><BIN>55</BIN>:식탁 위엔 뜯어진 인스턴트 음식 포장지가 아무렇게 버려져 있었다.
+M1897Mod(0)<Speaker>M1897</Speaker>||:꺄아아아아악!!
+M1897Mod(0)<Speaker>M1897</Speaker>||:어떻게 밥 먹고 정리도 안 해!? 더러워! 지저분해!+<size=50>이건 암살 시도야! 날 암살하려는 거야!!</size>
+()<Speaker></Speaker>||:소고기 통조림도 먹다 남은 그대로였다.
+M1897Mod(0)<Speaker>M1897</Speaker>||:보존식량을 많이 챙겨 왔어도 이렇게 낭비하면 안 되지!+왜 뚜껑도 안 덮고...?!
+M1897Mod(0)<Speaker>M1897</Speaker>||<震屏> :으아아아아아!! 포크가 바닥에 떨어져 있어! 더러워어어!!
+M1897Mod(0)<Speaker>M1897</Speaker>||:으으으, 모두가 돌아오기 전에 깨끗이 치워야 해!
+()<Speaker></Speaker>||<黑屏1>:......
+M1897Mod(0)<Speaker>M1897</Speaker>||<黑屏2>:이 종이 쪼가리는 또 뭐야! 왜 쓰레기를 아무 데나 막 버리는데! 아 진짜, 치워 치워!
+()<Speaker></Speaker>||<黑屏1>:......
+()<Speaker></Speaker>||<黑屏2>:M1897이 야단법석을 떤 끝에, 임시 보급고는 다시 깨끗해졌다.
+MP5Mod(0)<Speaker>MP5</Speaker>||<SE1>AVG_Door_Open_Close</SE1>:미안해요! 오는 길에 시간이 좀 걸려서... 3일 넘기진 않았죠?
+MP5Mod(0);M1897Mod(0)<Speaker>M1897</Speaker>||:오늘로 3일째예요. 이제 F1만 돌아오면 되는데... 혹시 무슨 일 생긴 거 아닐까요?
+MP5Mod(0)<Speaker>MP5</Speaker>||:조금만 더 기다려 보죠, 어쩌면 탐험하느라 너무 멀리 가서일 수도 있잖아요.
+()<Speaker></Speaker>||<黑屏1>:그렇게 하루가 가고...
+()<Speaker></Speaker>||<黑屏2>:이튿날.
+M1897Mod(0)<Speaker>M1897</Speaker>||:벌써 5일이나 지났어요. 정말 위험에 빠진 거 아니에요?
+M1897Mod(0);MP5Mod(0)<Speaker>MP5</Speaker>||:그럴지도 모르겠네요...+연락해 봐도 응답이 없는데다, 쪽지 같은 것도 안 남겼으니... F1답지 않아요.
+M1897Mod(0)<Speaker>M1897</Speaker>;MP5Mod(0)||:사고라도 났다면 긴급 구조 요청을 보냈을 텐데...
+M1897Mod(0);MP5Mod(0)<Speaker>MP5</Speaker>||:걱정되네요, 우리가 찾으러 갈까요?+그때 F1은 2시~6시 방향을 맡았어요.
+M1897Mod(0)<Speaker>M1897</Speaker>||:물자를 좀 챙겨서 가죠, 다쳤다면 바로 조치할 수 있도록요.
+MP5Mod(0)<Speaker>MP5</Speaker>||<黑屏1>:좋은 생각이네요!
+MP5Mod(0)<Speaker>MP5</Speaker>||<BIN>269</BIN><黑屏2>:으으... 안 되겠어요, F1의 신호가 전혀 잡히질 않아요... 흔적이랄 만한 것도 안 보이고...
+M1897Mod(0)<Speaker>M1897</Speaker>||:상정 외 규모의 적이라도 만난 거면 어떡하죠? 본부에 보고하는 게 좋겠어요.
+MP5Mod(0)<Speaker>MP5</Speaker>||:벌써 지휘관님께 보고드렸으니 괜찮아요. 우린 F1을 찾는 게 급선무예요.
+M1897Mod(0)<Speaker>M1897</Speaker>||:네.
+()<Speaker></Speaker>||<黑屏1>:깊은 숲속은 다 비슷비슷하게 생긴 나무로 우거져, 천연의 미로를 이루고 있었다.
+M1897Mod(0)<Speaker>M1897</Speaker>||<黑屏2><BGM>BGM_Brain</BGM><BIN>262</BIN>:어? 이 종잇조각, 보급고에서 봤던 거랑 비슷해요.
+M1897Mod(0);MP5Mod(0)<Speaker>MP5</Speaker>||:그럼 F1이 여길 지나갔겠네요!
+M1897Mod(0)<Speaker>M1897</Speaker>;MP5Mod(0)||:그런데 F1은 왜 항상 이런 종잇조각을 가지고 다니는 걸까요?
+M1897Mod(0);MP5Mod(0)<Speaker>MP5</Speaker>||:창작할 때 쓰는 거겠죠?
+M1897Mod(0)<Speaker>M1897</Speaker>;MP5Mod(0)||:하지만 우린 인형이잖아요, 손글씨를 쓸 이유가――
+MP5Mod(0)<Speaker>MP5</Speaker>||:잠깐만요, 신호가... F1이에요!
+M1897Mod(0)<Speaker>M1897</Speaker>||<SE1>RunStep</SE1>:아앗, 저기 있다!
+MP5Mod(0)<Speaker>MP5</Speaker>||<Shake>:<size=50>F1? F1!</size>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:높다란 나무 아래에, 엎어진 채 꼼짝도 않는 F1이 보였다.
+M1897Mod(0)<Speaker>M1897</Speaker>||<黑屏2>:...확인 완료. 그냥 에너지 소진이네요.
+MP5Mod(0)<Speaker>MP5</Speaker>||:F1, 들려요? 아직 말할 수 있으면 대답하세요.
+F1(1)<Speaker>F1</Speaker>||:미안... 나... 못 움...이겠...
+F1(1);M1897Mod(0)<Speaker>M1897</Speaker>||:예비 전원 연결할게요.+어휴 정말, 어쩌다 이 지경이 된 거예요?
+F1(1);MP5Mod(0)<Speaker>MP5</Speaker>||:무슨 긴급 상황이라도 있었나요?
+F1(1)<Speaker>F1</Speaker>||:......
+MP5Mod(0)<Speaker>MP5</Speaker>||<Shake>:정신 차려요, F1! 본부에 구조 요청했으니까 금방 헬기가 올 거예요!
+F1(1)<Speaker>F1</Speaker>||:미안... 너희를 걱정시켜서...+아직 못 움직이겠는데, 옷 안쪽에 종이 괜찮은지 봐줘...
+()<Speaker></Speaker>||:MP5와 M1897이 F1의 몸을 뒤져보니, 잔뜩 더러워진 종이가 나왔다.
+MP5Mod(0)<Speaker>MP5</Speaker>||<BGM>BGM_Wake</BGM>:아... 완전히 젖어버렸네요.
+M1897Mod(0)<Speaker>M1897</Speaker>||:비 내릴 때 나무 밑에 숨으면 어떡해요? 벼락이라도 쳤다간...?
+()<Speaker></Speaker>||:F1이 갑자기 닭똥같은 눈물을 흘리기 시작했다.
+F1(1)<Speaker>F1</Speaker>||<黑屏1>:마지막으로 남겨 준 물건마저 똑바로 간수 못했어... 평생 소중히 하려 했는데...!
+지휘관()<Speaker>지휘관</Speaker>||<BIN>82</BIN><黑屏2>:...그래서, 왜 무단 이탈했는지 설명해 주겠니?
+F1(1)<Speaker>F1</Speaker>||:미안해, 내가 백번 잘못했어! 그치만...!
+()<Speaker></Speaker>||:복귀 후 기운을 어느 정도 회복한 F1이 지휘관에게 그곳에서 어떤 일이 있었는지 설명했다.
+F1(1)<Speaker>F1</Speaker>||<BGM>BGM_Empty</BGM>:절대 내가 잘못 본 게 아니야, 분명 본인이었어!
+지휘관()<Speaker>지휘관</Speaker>||:F1, 시인 한스는 행방불명된 지 벌써 50년이나 지났어. 그가 마지막으로 대중 앞에 모습을 보였을 땐 이미 환갑이었고.+네가 본 사람은 아마 그의 후손 내지는 제자였을 거야.
+F1(1)<Speaker>F1</Speaker>||:후손이나 제자...?+하, 하지만 필체에 말투까지 한스 본인인 거 같았는데...
+지휘관()<Speaker>지휘관</Speaker>||:그게 바로 "전승"이란 거지. 사람은 언젠가는 사라지지만, 정신은 사람에서 사람에게로 이어져.+넌 어쩌면 그렇게 한스와 해후한 게 아닐까?
+()<Speaker></Speaker>||<黑点1>:F1은 깊은 생각에 빠졌다.
+NPC-Arla(0)<Speaker>할아버지</Speaker>||<黑点2><回忆><BIN>262</BIN><BGM>BGM_Wake2</BGM><黑点1>:무척이나 연하지만, 더없이 억세기도 해.
+F1(1)<Speaker>F1</Speaker>||<黑点2><BIN>82</BIN><关闭蒙版>:그런 뜻이었구나...
+지휘관()<Speaker>지휘관</Speaker>||:어찌 됐든, 불가사의한 만남이야말로 시인의 로망이잖아?
+F1(1)<Speaker>F1</Speaker>||:지휘관 말이 맞아. 하지만 내 잘못으로 그 시를 버리고 말았어...+그리고 내가 조금만 더 빨랐다면 한스 씨를 따라잡을 수 있었을 텐데...
+F1(1)<Speaker>F1</Speaker>||:아니, 그의 제자거나 후손일 수도 있지만...+그래도 그로 인해 만나게 됐으니, 한스 씨와 만난 거랑 마찬가지겠지.
+F1(1)<Speaker>F1</Speaker>||:...카리나, 나 개조 받을게.
+F1(1);NPC-Kalin(2)<Speaker>카리나</Speaker>||:어? 정말?
+F1(1)<Speaker>F1</Speaker>;NPC-Kalin(0)||:지휘관, 내 취미 남겨 줄 수 있지?
+지휘관()<Speaker>지휘관</Speaker>||:그야 물론이지. 소체만 바꾸는 거지, 네 인격까지 건들진 않는걸.
+F1(1)<Speaker>F1</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:그럼... 잘 부탁해.

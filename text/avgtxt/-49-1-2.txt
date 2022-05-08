@@ -1,0 +1,36 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>97</BIN><黑屏2><Night><BGM>GF_Memorial</BGM>:12월 24일 오후 7시, 기지의 복도.+불꽃놀이가 예정된 장소는 네 인형이 힘을 합쳐 금방 정리되었고, M14와 M21도 숙소로 돌아가는 중이었다.+그 도중, 한참을 M14의 뒤통수를 물끄러미 바라보며 몇 번이고 고민한 M21은 마침내 입을 열었다.
+M21(2)<Speaker>M21</Speaker>||:M14, 네 성탄 코인 찾아올게.
+M14(2)<Speaker>M14</Speaker>||:M21은 성탄 코인이 그렇게 신경쓰여?
+M21(2)<Speaker>M21</Speaker>||:아, 아니, 나도 아무래도 좋긴 한데...+그냥, 네가 속은 걸 이대로 넘어갈 수가 없어서...
+M14(2)<Speaker>M14</Speaker>||:헤헤헤... 고마워, M21.+하지만 우린 정말 그 코인이 영영 없어져 버렸어도 상관없는걸?+그게 없으면 크리스마스를 즐겁게 보낼 수 없는 것도 아니잖아?
+M21(2)<Speaker>M21</Speaker>||:하하하... 그건 그렇지...
+()<Speaker></Speaker>||:M14은 장난스럽게 씨익 웃어 화답하고, 다시 폴짝폴짝 들뜬 걸음으로 걸어갔다.+그 모습에 M21은 제자리에 선 채 쓴웃음을 지을 뿐이었다.
+M21(5)<Speaker>M21</Speaker>||:<color=#A9A9A9>대체 왜! 내가 얼마나 노력했는데!</color>
+()<Speaker>톰슨</Speaker>||:M14한테 가서 네 마음을 솔직하게 말하도록.
+M21(5)<Speaker>M21</Speaker>||:<color=#A9A9A9>말 못해요! 말할 수가 없다고요 대장!</color>+<color=#A9A9A9>대체 뭘 어떻게 해야 내 마음을 알아줄 거야 M14――!!</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><SE1>AVG_lifttable</SE1>:울화통이 터진 M21은 소리 없는 비명을 지르며, 히스테리 부리는 것처럼 몸에 지닌 물건이란 물건을 죄다 창밖으로 내던지기 시작했다.+자신의 성탄 코인, <color=#FF0000>수오미가 준 메모리 카드</color>, 크리스마스 복장의 액세서리...+자신을 괴롭히는 번뇌를 떨쳐내려고, 모조리 창밖으로 던져버렸다.
+()<Speaker>M14</Speaker>||:M21~? 어디 있어~?+얼른 가서 쉬자~!
+M21(2)<Speaker>M21</Speaker>||:아아아 지금 갈게!!
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:M14의 목소리에, M21은 바로 제정신을 차리고 헐레벌떡 뒤따라갔다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>9</BIN><BGM>BGM_Empty</BGM><关闭蒙版>:
+()||<黑点1>:
+()<Speaker></Speaker>||<黑屏2><BIN>7</BIN><Night><BGM>m_wv_title</BGM>:같은 시각, 창문 아래 바깥의 눈밭.+창고에서 빠져나와 이곳으로 숨은 헬리안은, 지금 손톱을 잘근잘근 깨물고 몸을 배배 꼬며 몸부림쳤다.+지금 뚫어져라 쳐다보고 있는 지휘 태블릿에 띄워진 채팅창 때문이었다.
+()<Speaker>소개팅 상대 72번</Speaker>||:<color=#00CCFF>실례가 되지 않는다면, 당신이 일하시는 곳을 방문해 봐도 될까요?</color>+<color=#00CCFF>다름이 아니라, 당신이 청춘을 바치는 그 직장이 과연 어떤 곳인지 궁금해서 말이죠.</color>+<color=#00CCFF>불편하시다면 거절하셔도 괜찮습니다.</color>
+()<Speaker></Speaker>||:헬리안은 이미 텍스트 입력창에 답장을 적어 뒀다.
+()<Speaker>헬리안</Speaker>||:<color=#00CCFF>물론이죠. 서로를 더 이해할 수 있을 테니, 저야말로 환영입니다.</color>
+()<Speaker></Speaker>||:다만, 아직 발신하진 않은 상태였다.
+NPC-Helian(3)<Speaker>헬리안</Speaker>||:어어어어떡하지?! 여태까지 두 번째 약속은 잡아본 적 없는데...!+경험이 전혀 없어서 어떻게 해야 할지 모르겠어!+하지만 드디어 나에 대해 더 알고 싶다는 사람을 만났는데... 으으...
+()<Speaker></Speaker>||:헬리안은 떨리는 손가락을 몇 번이고 "발신" 버튼으로 내밀었다 움츠리기를 반복했다.
+NPC-Helian(3)<Speaker>헬리안</Speaker>||:보내자! ...안 돼. 보내... 아아안 돼 안 돼! 못 해! 못 한다고!
+()<Speaker></Speaker>||<SE1>AVG_21Winter_OperatingDisc_Drop</SE1>:그때, 머리 위로 뭔가가 날아드는 소리가 나더니...
+()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1>:후두두둑!+온갖 잡동사니가 헬리안에게 떨어졌다. 화폐는 아닌 동전, 메모리 카드, 알록달록한 액세서리...
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:뭐야, 누가 위층에서 물건 던지는 거냐! 쓰레기 무단 투척은 범죄――엑?!
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:추락물 중 하나에 맞아, 채팅창의 "발신" 버튼이 눌려 버린 것을 뒤늦게 깨달았다.
+NPC-Helian(4)<Speaker>헬리안</Speaker>||:망했다! 보기 전에 취소해야――
+()<Speaker>소개팅 상대 72번</Speaker>||:<color=#00CCFF>그렇게 생각하신다니 정말 다행입니다. 마침 저도 당신이 계신 곳에서 멀지 않으니, 30분쯤 뒤에 뵈어도 되겠습니까?</color>
+()<Speaker></Speaker>||:허나 주사위는 이미 타인의 의지로 던져진 뒤였다.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_XXS_kick</SE1>:답장을 써 뒀던 것에 후회막급인 헬리안은 태블릿을 이마로 마구 들이받다가, 문득 고개를 들어 보니 방금 떨어진 물건들 중 하나인 메모리 카드에 적힌 문자가 눈에 들어왔다.+"How I Remind of U"+"마음을 전해라."
+NPC-Helian(4)<Speaker>헬리안</Speaker>||<SE1>AVG_21Winter_Phone_Crash</SE1><震屏3>:전하긴 뭘 전해!!
+()||<黑点1>:

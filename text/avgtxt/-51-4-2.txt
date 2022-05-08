@@ -1,0 +1,87 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BGM>GF_21summer_intro_DemonVariation</BGM><BIN>412</BIN><黑屏2>:베를린, 슈타지 본부.
+NPC-Romy(3)<Speaker>로미</Speaker>||:통행 금지라고?
+NPC-Romy(3)<Speaker>비서</Speaker><同时置暗>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>네, 리펜슈탈 국장님. 장군님의 명령입니다.</color>
+NPC-Romy(3)<Speaker>로미</Speaker>||:하지만 장군님이 내게 직접 프랑크푸르트에 도착하는 대로 연락하겠다 하셨다.+그리고 나도 지금 장군님께 보고드릴 일이 있어.
+NPC-Romy(3)<Speaker>비서</Speaker><同时置暗>||:<color=#00CCFF>정말 죄송합니다만 장군님이 제게 직접 국장님께 전해드리라 하셨습니다.</color>+<color=#00CCFF>한동안 연락할 수 없고, 국장님은 당분간 베를린에 남아 계시라 하셨습니다.</color>+<color=#00CCFF>다시 장군님께 전달받는 대로 프랑크푸르트로 이동하실 수 있도록 하겠습니다.</color>
+NPC-Romy(3)<Speaker>로미</Speaker>||:...알았다.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+통신 종료.
+NPC-Romy(3)<Speaker>로미</Speaker>||:......
+()<Speaker></Speaker>||:출발 전만 해도 단호하던 슈바인슈타이거 장군이 말을 바꿔, 로미 국장을 베를린에 남도록 지시했다.+대체 비행기에서 무슨 일이 있었길래?
+NPC-Romy(0)<Speaker>로미</Speaker>||<SE1>AVG_tele_connect</SE1>:...J 오라고해.
+()||<黑点1>:
+NPC-Keven(0)<Speaker>J</Speaker>||<黑点2><SE1>AVG_Door_Open_Close</SE1>:부르셨습니까, 국장님?
+NPC-Romy(0)<Speaker>로미</Speaker>||<SE1>AVG_File_Put</SE1>:새로 맡길 일이 있다.
+()<Speaker></Speaker>||:로미가 막 작성을 끝낸 명단을 J에게 내밀었다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:의심쩍어 하면서도, J는 그 명단을 받아 가볍게 훑어봤다.
+NPC-Keven(5)<Speaker>J</Speaker>||:...이거 전부 우리 국방부 인사 아닙니까?
+NPC-Romy(0)<Speaker>로미</Speaker>||:그들의 배경을 조사해. 은밀하게.
+NPC-Keven(5)<Speaker>J</Speaker>||:어... 알겠습니다...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:J는 고개를 끄덕이고 명단을 주머니에 넣었다. 그런데, 로미 국장을 바라보는 그의 눈은 뭔가 더 할 말이 있는 듯했다.
+NPC-Romy(0)<Speaker>로미</Speaker>||:뭐야?
+NPC-Keven(0)<Speaker>J</Speaker>||:"죽음의 바다" 쪽에 문제가 생긴 모양입니다.+지원을 보내야 하지 않을까요?
+NPC-Romy(0)<Speaker>로미</Speaker>||:...그 일은 끝났다.
+NPC-Keven(5)<Speaker>J</Speaker>||:네...?
+()<Speaker></Speaker>||:J는 믿기 힘들다는 표정을 지었다.
+NPC-Romy(3)<Speaker>로미</Speaker>||:내가 두 번 말해야 해?+우리의 임무는 끝났어.
+NPC-Keven(5)<Speaker>J</Speaker>||:끝났다니요...? 지금 이게 뭐가 끝이란 말입니까?!
+NPC-Keven(4)<Speaker>J</Speaker>||:드디어, 간신히 놈들 본거지의 문턱에 손이 닿았습니다!+<size=50>진짜 싸움은 이제 겨우 시작이라고요!</size>
+NPC-Romy(0)<Speaker>로미</Speaker>||:"우리"한텐 끝난 일이야.
+()<Speaker></Speaker>||:로미는 무심하게 답했다.
+NPC-Keven(5)<Speaker>J</Speaker>||:하... 그런 거였군요.+처음부터 우린 그냥 여기까지만 하면 되는 거였습니까?
+NPC-Romy(0)<Speaker>로미</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:로미는 J의 질문에 대답하지 않고, 그저 말없이 의자 등받이에 몸을 기댔다.
+NPC-Keven(5)<Speaker>J</Speaker>||:우리의 지원이 없으면 작전팀은 귀환도 못 합니다.
+NPC-Romy(3)<Speaker>로미</Speaker>||:그건 그리폰 지휘관의 문제다.
+NPC-Keven(4)<Speaker>J</Speaker>||:<size=50>협력자잖습니까! 이게 배신이랑 뭐가 달라요!?</size>
+NPC-Romy(2)<Speaker>로미</Speaker>||:네가 배신해선 안 될 단 하나.+그건 슈타지다, J 요원.
+NPC-Keven(5)<Speaker>J</Speaker>||:......
+NPC-Romy(0)<Speaker>로미</Speaker>||:우리와 지휘관은 각자 필요한 것을 취했을 뿐이야. 그리고 이제 맞잡았던 손을 놓을 때가 왔다.+어린애처럼 징징대지 마.
+NPC-Keven(5)<Speaker>J</Speaker>||:...이만 실례하겠습니다.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1><BIN>9</BIN><黑屏2>:J는 문을 박차고 쾅 닫아버리고 싶은 충동을 억누르며, 최대한 점잖게 사무실을 나왔다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3><BIN>417</BIN>:그리고 로미의 시야에서 벗어나자마자, 들고 있던 서류를 탁상에 내리쳤다.
+NPC-Jason(2)<Speaker>K</Speaker>||<BGM>GF_21summer_avg_SecretAgent</BGM>:깜짝이야... 낮술이라도 했냐? 지휘관을 지원하는 건 어떻대?
+NPC-Keven(5)<Speaker>J</Speaker>||:그 망할 아줌마가 퇴짜 놨다!+뭐? 각자가 필요한 걸 취했을 뿐이다? 어떻게 사람을 이 따위 부려먹으면서――
+NPC-Jason(2)<Speaker>K</Speaker>||:그럼 우리에게 이대로 대기하라 했나?
+NPC-Keven(5)<Speaker>J</Speaker>||:...엉?
+NPC-Jason(2)<Speaker>K</Speaker>||:아니면 작전을 중단하라고 지휘관에게 전달하라 했어?
+NPC-Keven(0)<Speaker>J</Speaker>||:아니, 그렇게까진...
+NPC-Jason(3)<Speaker>K</Speaker>||:그럼 됐어.
+()<Speaker></Speaker>||:잔뜩 긴장했던 K의 표정이 살짝 풀어졌다.
+NPC-Keven(5)<Speaker>J</Speaker>||:넌 또 지금 뭔 소리냐...?
+NPC-Jason(2)<Speaker>K</Speaker>||:국장이 "퇴짜"를 놓은 것은 슈타지의 공식적인 지원이다. 허나 이력이 불분명한 민간인을 통한 지원에 대해서는 일언반구도 하지 않았지.
+NPC-Keven(0)<Speaker>J</Speaker>||:뭣... 너 설마――
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><SE1>AVG_Door_Open_Close</SE1>:K는 입꼬리를 살짝 올린 채로 서류 정리를 마치고 성큼성큼 사무실을 나섰다.
+NPC-Keven(0)<Speaker>J</Speaker>||:어, 야! 어디 가!
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>357</BIN><BGM>GF_21winter_avg_pathfinder</BGM>:임시 세이프하우스.
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Baggage_bomb_Activation</SE1>:삐빅.
+AR15Mod(0)<Speaker>AR-15</Speaker>||:지휘관!
+()<Speaker>지휘관</Speaker>||:크루거 씨의 연락이야?
+AR15Mod(0)<Speaker>AR-15</Speaker>||:아, 아뇨... K 요원이에요.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AR-15가 지휘 태블릿을 지휘관에게 건냈다.
+()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_disconnect</SE1>:제발 좋은 소식이라 말해 줘.
+NPC-Jason(3)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>이쪽 작업이 순조롭게 진행 중이라고만 해 두지.</color>+<color=#00CCFF>네 사장은 금방 석방될 거다.</color>
+NPC-Jason(3)<Speaker>지휘관</Speaker><同时置暗><通讯框>||:...고맙다.
+NPC-Jason(3)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>별것 아니야, 어차피 이게 내 일이니.</color>
+()<Speaker></Speaker>||:K는 잠시 입을 다물고, 지휘관의 얼굴을 살폈다.
+NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>달리 또 도움이 필요하다면 연락해라.</color>
+()<Speaker>지휘관</Speaker>||:그래.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삐익.+통신 종료.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 손 안의 태블릿을 바라보며, 살짝 눈살을 찌푸렸다.+하지만 이미 결정난 것을 다시 떠올리며, 굳은 표정을 풀었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>470</BIN><SE1>AVG_20Winter_Drink_Tea</SE1>:훈작사의 방.+그는 의자에 앉아, 조용히 차를 즐기고 있었다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐이——+그리고 메일 수신 알림이 그 고요함을 깼다.
+NPC-Griffin(0)<Speaker>훈작사</Speaker>||:이제야 좀 진전이 생겼나...
+()<Speaker></Speaker>||<SE1>AVG_Camera_Focus</SE1>:발신자의 주소를 확인한 훈작사는 찻잔을 내려놓고 메일을 읽었다.
+()<Speaker>???</Speaker>||:<color=#00CCFF>"거미가 돌아왔습니다."</color>+<color=#00CCFF>"그런데, '그자'의 방에서 살아서 나왔고, 승격의 기회까지 얻었네요."</color>
+NPC-Griffin(0)<Speaker>훈작사</Speaker>||:호오... "그"가 실패자에게 다시 한번 기회를 주기도――
+()<Speaker>???</Speaker>||:<color=#00CCFF>"이런 이유는 '루니샤'라는 여자와 관계가 있다고 합니다."</color>
+NPC-Griffin(1)<Speaker>훈작사</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_Camera_Focus</SE1>:그 문장에 훈작사의 눈썹이 치켜졌고, 그의 손이 빠르게 페이지를 넘겼으나 그 이상으로 새로운 정보는 없었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:메일을 수신한 흔적도 말끔히 지운 뒤, 다시 찻잔의 든 훈작사는 눈을 가늘게 뜨며 오랜 과거를 떠올렸다.
+()||<黑屏1>:
+()<Speaker>훈작사</Speaker>||<BIN>9</BIN><黑屏2>:루니샤...
+()||<黑点1>:

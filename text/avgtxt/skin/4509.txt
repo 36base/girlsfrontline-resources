@@ -1,133 +1,133 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-KSVK(0)<Speaker>KSVK</Speaker>||<黑屏2><BIN>82</BIN><BGM>BGM_Hello</BGM>:这次舞会你确定不参加吗？+难得一次放松的机会，抛弃现有的身份去获得新的体验。
-DP12(0)<Speaker>DP12</Speaker><通讯框>;KSVK(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>后勤这边实在走不开，再加上你们礼服应该都做好了，我也来不及参加。</color>+<color=#00CCFF>对了，你的礼服快递到了，我帮你拿进了房间，有空的话记得试试看。</color>
-DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:嗯。+这个尺寸……是我的吗？+完全穿不上。
-DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:<color=#00CCFF>你之前发错数据了吗？</color>
-DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:不应该啊，我直接复制的出厂数据。+现在要求更改的话不知道来不来得及。
-DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:<color=#00CCFF>没记错的话过两天就是舞会了吧？</color>+<color=#00CCFF>你们的布料好像是指挥官统一订购的。</color>
-DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:是，而且我听QBU88说这次刚好能把所有布料用完，估计再来一套肯定不行……+怎么办，我现在的素体穿这个是不可能的，但那天应该大家都会穿礼服……
-DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:<color=#00CCFF>想想别的办法呢？</color>
-DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:平常也没有备用。礼服这种东西我想其他人应该也没有。+而且我穿常服的话，会很扫兴吧。
-DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:<color=#00CCFF>你应该有具小一号的素体在仓库？</color>
-DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:是这样没错。最近的战斗用心智升级的尺寸不方便，就换回来了。
-DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:<color=#00CCFF>试试呗？也许用得上。</color>
-DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:也只能这样了，估计是最后的办法。
-DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:<color=#00CCFF>放心，肯定能用上的。</color>
-DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:哈？
-DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||<黑屏1>:<color=#00CCFF>没什么，你去试试吧，等你好消息。</color>
-KSVK(9)<Speaker>KSVK</Speaker>||<SE1>AVG_tele_disconnect</SE1><BIN>89</BIN><BGM>BGM_Empty</BGM><黑屏2>:没想到这具身体竟然刚刚好。+难道这就是命运的恩赐？果然上帝偶尔也会聆听人们的祷告。
-KSVK(9)<Speaker></Speaker>||<BGM>BGM_Room</BGM>:她将仓库门仔细地关好，就听见一阵脚步声。
-AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:什么人？
-AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:啊……？
-AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:呃，没有警报的话，那你获得了系统的批准。
-AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:<color=#A9A9A9>AR15难道看不出来？</color>
-AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:你看起来有点眼熟。
-AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:是吗？
-AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:有点像KSVK……
-AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:……我和她相似很正常。
-AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:同一批机型？+姐妹吗？
-AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:……这位小姐，请问你是？
-AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:我叫AR15，是KSVK的同事，你需要找她吗？
-AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:麻烦你了，我第一次来这边，路线还不太熟悉。+<color=#A9A9A9>好想保持这种感觉！</color>
-AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:嗯。+先跟我去待客室吧，这边是仓库。
-AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:谢谢。+<color=#A9A9A9>好亲切！ AR15竟有这样的一面，平常可见不到……</color>
-AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:我先联络她。
-AR15(3);KSVK(9)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:……嘟嘟嘟……+KSVK铃声响起。
-AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:……
-AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||<SE1>AVG_tele_disconnect</SE1>:……+妹妹？+呵。
-AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:摄影棚搭好了，你去试过吗？
-AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:别转移话题。
-AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:啊？我放了很多道具，布置成了可以拍艺术照的棚。+还联络了M200来帮忙，她在这块研究不少，能拍得特别像本人但是比本人华丽很多的照片。
-AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:怎么做到的？
-AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:镜头和灯光还有滤镜之类的吧。+你不去试试？ 
-AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:我问问sop2她们。
-KSVK(9)<Speaker></Speaker>||:AR15转身离去。
-KSVK(9)<Speaker>KSVK</Speaker>||<黑屏1>:艺术照对女人的吸引力真是几千年来都不曾改变。从炭笔到照相机，留住容颜的瞬间反而是永恒的事情。+偶尔恶作剧真是一种新奇的体验。+是不是平时的我让大家太拘束了？有点好奇……+虽然预料得到大家会生气，但是还是想要这样去做。+啊——这就是恶魔的想法吗？真有意思。
-()<Speaker></Speaker>||<黑屏2><BIN>96</BIN>:晚宴的灯光亮如白昼。+音乐仿佛春风，吹在来往的少女身上。
-M200(3)<Speaker>M200</Speaker>||:K……SVK？什么时候准备了新素体？
-M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:啊，我还以为能够骗过你，没想到这么容易看穿。
-M200(3)<Speaker>M200</Speaker>;KSVK(9)||:我保持通讯接入的话，就能看见你的信号。+既然接收信号还是KSVK，那换个素体也还是KSVK。
-M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:啊，看来得做个屏蔽。+挺厉害的嘛M200。
-M200(3)<Speaker>M200</Speaker>;KSVK(9)||:……没什么。+你想要捉弄谁呢？
-M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:倒没有具体的想法。+不阻拦我吗？
-M200(3)<Speaker>M200</Speaker>;KSVK(9)||:啊？只要不是太过分的话，我觉得没什么。
-M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:这样嘛……
-M200(3)<Speaker>M200</Speaker>;KSVK(9)||:不过应该有些人会生气的吧。
-M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:捉弄的人获得快乐，而被捉弄的人获得沮丧，世间万物都在等价交换。+事后我会好好道歉的。
-M200(3)<Speaker>M200</Speaker>;KSVK(9)||:那就好。
-M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:不过我能请你帮个忙吗？
-M200(3)<Speaker>M200</Speaker>;KSVK(9)||:啊，好啊。+还是之前的拍照吗？我准备好了相机。
-M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:是的，但是希望你能帮我多拍几张，如果能拍到恶作剧的那一幕就更好了。
-M200(3)<Speaker>M200</Speaker>||<黑屏1>:我会尽力的。
-()<Speaker></Speaker>||<BIN>139</BIN><黑屏2>:吧台处，是个人群聚集的好地方。+当然，也是恶作剧的绝佳场所。
-KSVK(9)<Speaker>KSVK</Speaker>||:能帮我调一杯雪夜玫瑰吗？
-KSVK(9)<Speaker>侍者</Speaker>||:当然，口感的话有额外的要求吗？
-KSVK(9)<Speaker>KSVK</Speaker>||:没有，按照你们的标准就好。+想必能叫这个名字的酒一定会有令人陶醉的口感。
-KSVK(9)<Speaker>？？？</Speaker><同时置暗>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:这声音！是新人？
-Saiga12(2)<Speaker></Speaker>||:迎面走来一位穿着纯白色的礼服的人形。+是Saiga。
-Saiga12(2)<Speaker>saiga12</Speaker>||:你……你好！诶？好眼熟的美少女！ 
-KSVK(9)<Speaker>KSVK</Speaker>||:我？+<color=#A9A9A9>她应该还没看出来……</color>
-()<Speaker></Speaker>||<BIN>9</BIN>:灯光“啪”一声熄灭了。
-()<Speaker>KSVK</Speaker>||:啊——+<color=#A9A9A9>跳舞的话人就都该走了吧。</color>
-()<Speaker>saiga12</Speaker>||:别担心！这是流程设计好的，等会儿要跳舞了。所以先关掉太亮的灯。
-()<Speaker>KSVK</Speaker>||:竟然是这样……谢谢你。
-()<Speaker>saiga12</Speaker>||:不用不用。话说我是不是见过你？
-()<Speaker>KSVK</Speaker>||:你是觉得我像KSVK吗？她是我姐姐，我们相似很正常。
-()<Speaker>saiga12</Speaker>||:啊！？这，这……那她怎么把你一个人放在这里啊。
-()<Speaker>KSVK</Speaker>||:她今天有事情要忙，就把名额让给我了。+不介意的话，可以直接喊我杜莎妮。
-()<Speaker>saiga12</Speaker>||:杜莎妮……真是个好名字。
-()<Speaker>KSVK</Speaker>||<黑屏1>:<color=#A9A9A9>她很轻易就上当了……一般来说，现在越容易相信我后续应该越容易生气，到时候该如何道歉呢？</color>+<color=#A9A9A9>算了，最后再想吧。</color>
-()<Speaker></Speaker>||<BIN>139</BIN><黑屏2>:悠扬的乐曲缓缓响起，灯光也配合地亮了起来。
-()<Speaker>侍者</Speaker>||:小姐，你的酒。
-KSVK(9)<Speaker>KSVK</Speaker>||:谢谢。
-Saiga12(2)<Speaker>saiga12</Speaker>;KSVK(9)||:你不去跳舞吗？
-Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:抱歉，我不跳舞。
-Saiga12(2)<Speaker>saiga12</Speaker>;KSVK(9)||:来舞会却不体验跳舞的感觉，岂非太遗憾了？
-Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:就算是春天来临，也会有花儿倔强地沉睡。+并非每一场舞会都要参与其中。
-Saiga12(2)<Speaker>saiga12</Speaker>;KSVK(9)||:可是那是因为有些花选在冬天开嘛。+你不试试怎么知道自己不喜欢呢？
-Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:……你对每个人，都是这么热情吗？
-Saiga12(2)<Speaker>saiga12</Speaker>;KSVK(9)||:当然不是！+我……我跟你姐姐也算同事嘛，帮她照顾你也是应该的。+并不是因为大家都在跳舞所以才希望你去跳舞，而是因为跳舞有意思所以我想要邀请你跳舞。
-Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:……其实，我是不会跳。连最基本的圆舞都不会。
-Saiga12(2)<Speaker>saiga12</Speaker>;KSVK(9)||:我可以教你！+圆舞是这世上最好学的舞蹈。
-Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:真这么简单吗？我看到有人好像会去练舞房专门练习呢。
-Saiga12(2)<Speaker>saiga12</Speaker>;KSVK(9)||:真的，你想象自己是一朵追逐月亮的玫瑰，在风里寻找它的圆色倒影。+你的裙子转动起来，会很像一朵玫瑰哦。+跟手里这杯雪夜玫瑰非常地相配。
-Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||<黑屏1>:<color=#A9A9A9>玫瑰的形容真有趣。</color>+<color=#A9A9A9>感觉被发现后肯定会很生气，但是又忍不住继续下去。</color>
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>82</BIN>:听到这里，DP12放下整理到一半的物资，微笑着看向KSVK。
-DP12(0)<Speaker>DP12</Speaker>||:然后呢？
-DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||<BGM>m_avg_casual</BGM>:然后我就回宴会了。
-DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:你很喜欢Saiga吗？
-DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:啊——这话怎么说？
-DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:她邀请你跳舞，还是去外面单独跳舞。+你竟然答应了……还一起准备去跳了。+如果不是ZAS揭穿的话——她一个晚上都不会知道真相吧。
-DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:毕竟换了个身份，总不能做一样的事情。
-DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:这话都有些不像你了。+素体变化的同时，心智似乎也在悄悄发生了改变。
-DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:……可能是潜在的一面被激发出来了。+以前没有体会过这样的恶作剧，没想到捉弄人也会带来快乐。
-DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:无伤大雅的恶作剧是生活的情趣呀。
-DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:你说的有道理，所以我就约她下午茶了。
-DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||<黑屏1>:嗯？前后顺序是这样的吗？+不过杜莎妮能接触到新的朋友，真让人欣慰啊。
-()<Speaker></Speaker>||<BIN>80</BIN><黑屏2>:热气腾腾的伯爵茶配上芝士蛋糕，还有什么下午茶比这更惬意？
-KSVK(0)<Speaker>KSVK</Speaker>||:你竟然不生气？
-Saiga12(0)<Speaker>saiga12</Speaker>;KSVK(0)||:我不会跟你生气的。
-Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:为什么？
-Saiga12(0)<Speaker>saiga12</Speaker>;KSVK(0)||:因为是KSVK啊，不管做什么都会有可爱一面的KSVK。
-Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:可爱？竟然会有人用这钟词语形容我，真是稀奇。
-Saiga12(0)<Speaker>saiga12</Speaker>;KSVK(0)||:啊，你很可爱啊，就是，就是害怕你会讨厌我。
-Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:不会。+<color=#A9A9A9>被恶作剧还无所谓的人才可爱吧，这可是连我都做不到的事情。</color>
-Saiga12(0)<Speaker>saiga12</Speaker>;KSVK(0)||:那，那我能借最心爱的东西给你吗？
-Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:写真集？
-Saiga12(0)<Speaker>saiga12</Speaker>;KSVK(0)||:对！这可是我最珍爱的一本，整个基地里我只给你看。+连指挥官都没有看过呢……
-Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:为什么你会对这个如此执着？
-Saiga12(0)<Speaker>saiga12</Speaker>;KSVK(0)||:啊，和美少女看美少女，这不是私密又快乐的事情吗？
-Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:一起做某件私密的事情从而拉近距离，然后做朋友吗？
-Saiga12(0)<Speaker>saiga12</Speaker>;KSVK(0)||:诶？我想着借给你的话，那你肯定要还嘛——+这样我们还可以再见——
-Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:噗，不用这么迂回。+下周末还可以再约。
-Saiga12(0)<Speaker>saiga12</Speaker>;KSVK(0)||:啊！太好了！+虽然没有收写真集，但是好像得到了更好的约定。
-Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:看来以前的我太死脑筋了。+主动的示好非但不丢人，还十分可爱呢。
-Saiga12(0)<Speaker>saiga12</Speaker>;KSVK(0)||:那就是说！我们在美少女的事情上达成共识啦？
-Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||<黑屏1>:唔，你这么理解也可以。
-DP12(0)<Speaker>DP12</Speaker><通讯框>||<黑屏2><BIN>82</BIN>:宿舍里，DP12的慰问电话再度打来。
-DP12(0)<Speaker>DP12</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>玩得如何？</color>
-DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:挺开心的，但我还是拒绝了奇奇怪怪的写真集。
-DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:<color=#00CCFF>这可真是一场愉快的约会。</color>
-DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:话说回来，为什么我的数据会出错呢？+就算出现问题也不会有刚好合适的素体，海伦娜……不会是……
-DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:<color=#00CCFF>哎呀舞会都结束那么久了还想着干嘛。</color>+<color=#00CCFF>啊对了，M200那边的照片发过来了。</color>
-KSVK(0)<Speaker>KSVK</Speaker>||<黑屏1><SE1>AVG_tele_disconnect</SE1>:唔，我可要好好备份。+虽然是只有一次的恶作剧，但……超开心啊！
+KSVK(0)<Speaker>KSVK</Speaker>||<黑屏2><BIN>82</BIN><BGM>BGM_Hello</BGM>:헬레나, 왜 이번 무도회에 불참하려 하지?+좀처럼 없는 기회잖나. 지금의 신분을 내려놓고 새로운 경험을 해볼 수 있는데.
+DP12(0)<Speaker>DP12</Speaker><通讯框>;KSVK(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>군수 일이 너무 바빠서. 그리고, 너희의 드레스는 거의 다 완성됐지만 내 건 아무래도 늦을 것 같거든.</color>+<color=#00CCFF>아 참, 네 드레스 배송와서 방에 두었으니 시간 날 때 입어보렴.</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:이거로군? 알았다.+으음...? 이 사이즈, 정말 내 것 맞나?+전혀 안 맞는데.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:<color=#00CCFF>혹시 수치 잘못 보내진 않았니?</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:그럴 리가. 출고 데이터를 그대로 복사해 제출했는걸.+지금 바로 수정 요청해도 늦지 않으려나 모르겠군.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:<color=#00CCFF>내 기억이 맞다면, 연회는 내일모레잖니?</color>+<color=#00CCFF>원단도 전부 지휘관님이 일괄 주문한 거고.</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:그래. 그리고 QBU-88이 받은 원단을 딱 맞춰 전부 썼다 하니, 한 벌 더 만드는 것은 분명 무리겠지...+어떡하지? 사이즈가 작아서 못 입지만, 그렇다고 안 입자니 연회의 드레스 코드니...
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:<color=#00CCFF>다른 방법은 없어?</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:달리 준비한 옷도 없고, 다른 이에게서 빌릴 수도 없는 노릇이겠지.+그렇다고 평상복 차림으로 가면 분명 분위기를 망칠 텐데...
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:<color=#00CCFF>창고에 작은 소체 두지 않았어?</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:그렇긴 하다만, 최근 임무에서 그 소체는 불편해서 이걸로 다시 교체했다.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:<color=#00CCFF>그 소체로 입어보면 어떨까? 어쩌면 사이즈 맞을지도 모르잖아.</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:그럴 수밖에 없겠군...
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:<color=#00CCFF>걱정 마, 딱 맞을 거야.</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:응?
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||<黑屏1>:<color=#00CCFF>어서 입어보렴, 좋은 소식 기다릴게.</color>
+KSVK(9)<Speaker>KSVK</Speaker>||<SE1>AVG_tele_disconnect</SE1><BIN>89</BIN><BGM>BGM_Empty</BGM><黑屏2>:거참... 정말 이 소체에 딱 맞을 줄이야.+이것이 바로 운명이란 건가? 역시 하늘도 가끔은 기도를 들어주는군.
+KSVK(9)<Speaker></Speaker>||<BGM>BGM_Room</BGM>:KSVK가 창고의 문을 잠그자마자 발소리가 들렸다.
+AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:거기 누구야?
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:어...?
+AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:음... 경보가 안 울렸다는 건, 시스템에 등록된 사람이란 뜻인데...
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:<color=#A9A9A9>날 못 알아보는 건가?</color>
+AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:근데 너, 어째 낯이 익다?
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:그런가?
+AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:KSVK랑 닮은 것 같은데...
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:...그녀와 닮은 건 당연한 일이죠.
+AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:같은 모델인가 보네.+혹시 자매니?
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:저기, 당신의 성함이...?
+AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:AR-15, KSVK의 직장 동료지. 걔 찾는 중이야?
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:네, 부탁드려요. 여긴 처음이라 길을 모르겠어요.+<color=#A9A9A9>이 무슨 신선함인가! 계속하고 싶구나!</color>
+AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:그렇구나.+그럼 일단 접객실로 갈까? 여긴 창고야.
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:감사합니다.+<color=#A9A9A9>AR-15에게 이렇게나 친절한 면이 있었다니! 평소엔 어림도 없을 모습이로군!</color>
+AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:그전에 본인한테 연락하고.
+AR15(3);KSVK(9)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:...뚜루루루...+KSVK의 벨소리가 울렸다.
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:......
+AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||<SE1>AVG_tele_disconnect</SE1>:......+...하.+동생이라.
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:촬영장의 설치가 끝났다. 확인했나?
+AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:말 돌리지 마.
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:아니 들어보시게, 소품도 잔뜩 준비해서 예술적인 사진도 찍을 수 있도록 꾸며놨어.+M200에게 도움을 청했지. 이 분야에서 연구한 것이 많아, 실물보다 더 실물같이, 더 화려하게 촬영할 수 있다고 했다.
+AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:어떻게 하는 건데?
+AR15(3);KSVK(9)<Speaker>KSVK</Speaker>||:필시 렌즈와 조명, 필터의 조화겠지.+한번 찍어보겠나?
+AR15(3)<Speaker>AR15</Speaker>;KSVK(9)||:...다른 애들한테 물어보고.
+KSVK(9)<Speaker></Speaker>||:AR-15는 뒤돌아 종종걸음으로 자리를 떠났다.
+KSVK(9)<Speaker>KSVK</Speaker>||<黑屏1>:여성이 사진에 끌리는 것은 수천 년이 지나도 변하지 않는군. 콩테에서 카메라까지, 한순간의 미모를 기록하는 행위는 영원하리니.+...그나저나, 이렇게 장난을 치는 것도 상당히 신선한 경험이구나.+내가 평소에 너무 고지식했던 것일까? 궁금해지는군...+분명 모두가 화를 내겠지만, 그래도 몸이 근질거려 참을 수가 없어.+하하하, 이게 바로 악마의 속삭임이란 것인가? 참으로 흥미로워!
+()<Speaker></Speaker>||<黑屏2><BIN>96</BIN>:연회장을 밝히는 조명은 대낮처럼 밝았다.+그리고 회장에 흐르는 음악은 봄바람처럼 소녀들의 주위를 감돌았다.
+M200(3)<Speaker>M200</Speaker>||:어... KSVK 씨 맞죠? 언제 새 소체 준비하셨어요?
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:이런, 너라면 전혀 눈치채지 못할 줄 알았더니만.
+M200(3)<Speaker>M200</Speaker>;KSVK(9)||:통신 접속 유지하면 식별 신호를 볼 수 있어요.+식별 신호가 KSVK니, 소체를 바꿔도 당신이죠.
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:아하, 그렇군! 말 나온 김에 신호도 위장해야겠어.+제법이구나, M200.
+M200(3)<Speaker>M200</Speaker>;KSVK(9)||:아뇨, 이 정도야...+그런데, 누굴 골탕먹일 셈이에요?
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:딱히 구체적인 계획은 없다.+날 말리지는 않는군?
+M200(3)<Speaker>M200</Speaker>;KSVK(9)||:네? 아, 네, 너무 심한 장난만 아니면 괜찮지 않을까 싶어서...
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:흐음...
+M200(3)<Speaker>M200</Speaker>;KSVK(9)||:그래도 화내는 사람이 있을 거예요.
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:하는 자는 쾌락을, 당하는 자는 울분을. 세상 모든 것은 다 등가교환이지.+허나 걱정 마라, 나중에 제대로 사과할 테니까.
+M200(3)<Speaker>M200</Speaker>;KSVK(9)||:그럼 괜찮아요.
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:그래서 말이다만, 네 도움을 받고 싶다.
+M200(3)<Speaker>M200</Speaker>;KSVK(9)||:네, 좋아요.+저번에 말한 촬영 말이죠? 카메라는 준비됐어요.
+M200(3);KSVK(9)<Speaker>KSVK</Speaker>||:그래, 다만 나를 좀 더 많이 찍어 주길 바란다. 내가 장난치는 장면을 찍는다면 더더욱 좋고.
+M200(3)<Speaker>M200</Speaker>||<黑屏1>:어... 노력해볼게요.
+()<Speaker></Speaker>||<BIN>139</BIN><黑屏2>:바 카운터. 사람들이 모이기 좋은 곳이다.+물론, 그만큼 장난치기에도 좋은 곳이다.
+KSVK(9)<Speaker>KSVK</Speaker>||:킬리안 로즈 한 잔 만들어 주시겠어요?
+KSVK(9)<Speaker>바텐더</Speaker>||:물론이죠, 추가 요구 사항 있으십니까?
+KSVK(9)<Speaker>KSVK</Speaker>||:아뇨, 그쪽 표준대로 해 주세요.+이런 이름의 칵테일은, 분명 사람을 심취하게 하는 맛이 나겠죠?
+KSVK(9)<Speaker>？？？</Speaker><同时置暗>||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:못 들어본 목소리! 신입인가?
+Saiga12(2)<Speaker></Speaker>||:하얀 드레스를 입은 인형이 눈을 반짝이며 다가왔다.+바로 Saiga-12였다.
+Saiga12(2)<Speaker>saiga12</Speaker>||:안녕~? 어머나, 많이 낯익은 미소녀네!
+KSVK(9)<Speaker>KSVK</Speaker>||:저요?+<color=#A9A9A9>아직 알아채지 못한 것 같군.</color>
+()<Speaker></Speaker>||<BIN>9</BIN>:그때, 연회장의 조명이 일제히 팟 하고 꺼졌다.
+()<Speaker>KSVK</Speaker>||:앗?+<color=#A9A9A9>벌써 댄스 타임이었나?</color>
+()<Speaker>saiga12</Speaker>||:릴렉스 릴렉스~ 좀 있으면 댄스 타임인데, 그냥 하기엔 너무 밝아서 불을 끈 거란다~
+()<Speaker>KSVK</Speaker>||:그랬군요... 고마워요.
+()<Speaker>saiga12</Speaker>||:천만에~ 그런데, 우리 어디서 만난 적 없니?
+()<Speaker>KSVK</Speaker>||:혹시 KSVK랑 닮았다 생각하세요? 제 언니예요, 닮은 것도 당연하죠.
+()<Speaker>saiga12</Speaker>||:그래!? 그, 그럼... 왜 걔가 널 여기 혼자 뒀니?
+()<Speaker>KSVK</Speaker>||:언니가 오늘은 일 때문에 바쁘다면서 저한테 초대장을 양보했어요.+제 이름은 드셰브니예요. 만나서 반가워요 언니.
+()<Speaker>saiga12</Speaker>||:드셰브니... 예쁜 이름이네.
+()<Speaker>KSVK</Speaker>||<黑屏1>:<color=#A9A9A9>아주 쉽게 속아넘어갔군... 그런데 솔직히, 이렇게 쉽게 속을수록 들통났을 때 더 크게 화내는 법인데. 나중에 어떻게 사과한담?</color>+<color=#A9A9A9>...그건 그때 가서 생각하자.</color>
+()<Speaker></Speaker>||<BIN>139</BIN><黑屏2>:잔잔한 음악이 시작되자, 조명도 그에 맞춰 반짝였다.
+()<Speaker>바텐더</Speaker>||:주문하신 킬리안 로즈 나왔습니다.
+KSVK(9)<Speaker>KSVK</Speaker>||:고마워요.
+Saiga12(2)<Speaker>saiga12</Speaker>;KSVK(9)||:넌 춤 추러 안 가?
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:전 춤 안 춰요.
+Saiga12(2)<Speaker>saiga12</Speaker>;KSVK(9)||:에이, 댄스 파티인데 춤을 안 추면 아깝지.
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:봄이 와도 고집 부리며 잠에서 깨지 않는 꽃이 있는 것처럼...+무도회에 왔다고 꼭 모두를 따라할 필요는 없죠.
+Saiga12(2)<Speaker>saiga12</Speaker>;KSVK(9)||:그야 겨울에도 피는 꽃이 있으니까 그렇지.+해보지도 않곤 좋은지 싫은지 모르잖아?
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:...언니는 누구에게나 이렇게 열정적인가요?
+Saiga12(2)<Speaker>saiga12</Speaker>;KSVK(9)||:아아아니 당연히 아니지!+그, 그게... 나랑 네 언니는 직장 동료잖아? 언니 대신 널 돌봐줄 의무가 있어.+모두가 춤추니까 너도 하라는 게 아니라, 재밌으니까 같이 추러 가자고 권하는 거야.
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:...실은 저, 춤출 줄 몰라요. 제일 간단한 왈츠도 못해요.
+Saiga12(2)<Speaker>saiga12</Speaker>;KSVK(9)||:그럼 내가 가르쳐 줄게!+왈츠가 얼마나 쉬운데!
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||:정말요? 전문 학원 같은 데서 배우는 사람도 있다던데.
+Saiga12(2)<Speaker>saiga12</Speaker>;KSVK(9)||:정말로 쉽다니까! 드셰브니, 네가 달을 쫓는 장미라 생각해 보렴. 바람을 맞으며 동그란 달의 그림자를 찾는 장미.+네 치마가 빙글 돌면, 정말 예쁜 장미 같을 거야.+네 손의 그 킬리안 로즈랑 정말 잘 어울릴걸?
+Saiga12(2);KSVK(9)<Speaker>KSVK</Speaker>||<黑屏1>:<color=#A9A9A9>장미라, 이건 또 재밌는 비유로군.</color>+<color=#A9A9A9>들켰을 때의 천벌은 무시무시하겠지만, 이래서는 그만둘 수가 없어!</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>82</BIN>:여기까지 듣자, DP12는 정리하던 물자를 내려놓고, 미소짓고 KSVK에게 고개를 돌렸다.
+DP12(0)<Speaker>DP12</Speaker>||:그래서 어쨌는데?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||<BGM>m_avg_casual</BGM>:그리고 난 연회로 돌아갔지.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:Saiga가 마음에 들었나 봐?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:어... 그게 무슨 뜻이지?
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:Saiga가 너랑 밖에서, 그것도 단둘이서 댄스를 권했잖니.+그리고 넌 그걸 받아들이고, 정말 나가서 추려 했어.+그때 M76이 와서 들키지만 않았어도, Saiga는 영영 진실을 알지 못했을걸?
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:변장을 했으니, 평소처럼 행동할 순 없지 않은가.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:그 말도 너답지 않네.+소체를 바꾸면서 마인드맵도 덩달아 변한 것 같아.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:...어쩌면, 나도 몰랐던 숨겨진 일면이 수면 밖으로 드러난 것일지도 모르겠군.+예전에 이렇게 장난칠 기회도 없었으니 말이지... 그렇게 즐거울 줄은 상상도 못했어.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:조그만 장난은 삶에 감칠맛을 더하는 조미료라잖니.
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:일리 있는 말이야. 아무튼 그래서, 사과하는 뜻으로 함께 티타임을 가지자 했다.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||<黑屏1>:응? 그렇게 된 거였어?+그래도 우리 드셰브니가 또 새 친구를 사귀어서 정말 기쁘구나.
+()<Speaker></Speaker>||<BIN>80</BIN><黑屏2>:따끈따끈한 얼 그레이에 치즈 케이크. 이보다 더 좋은 티타임이 또 어디 있을까?
+KSVK(0)<Speaker>KSVK</Speaker>||:정말로 화 안 났나?
+Saiga12(0)<Speaker>saiga12</Speaker>;KSVK(0)||:화 안 났어.
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:어째서지?
+Saiga12(0)<Speaker>saiga12</Speaker>;KSVK(0)||:KSVK니까. 무슨 짓을 해도 귀여운 KSVK니까.
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:귀엽다? 나를 그런 단어로 형용하다니... 너도 참 희한하구나.
+Saiga12(0)<Speaker>saiga12</Speaker>;KSVK(0)||:아니 진짜 귀엽대도? 단지, 네가 날 싫어하진 않을까 걱정돼서 그래.
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:내가 널 싫어할 리 없지 않은가.+<color=#A9A9A9>장난에 당했는데도 아무렇지도 않아 하는 쪽이야말로 "귀엽다"는 수식어가 더 어울리지 않나 싶지만 말이지. 나마저도 할 수 없는 일이야.</color>
+Saiga12(0)<Speaker>saiga12</Speaker>;KSVK(0)||:그, 그럼 내가 제일 아끼는 거 빌려줄까?
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:이건... 앨범?
+Saiga12(0)<Speaker>saiga12</Speaker>;KSVK(0)||:응! 내가 제일~ 아끼는 거! 이거는 다른 사람한테 보여 주는 게 네가 처음이야!+지휘관한테도 보여 준 적 없어!
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:왜 이렇게까지 집착하지?
+Saiga12(0)<Speaker>saiga12</Speaker>;KSVK(0)||:우후후... 미소녀와 함께 다른 미소녀들을 감상한다, 얼마나 은밀하고도 즐거운 일이니?
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:함께 은밀한 일을 하면서 거리감을 좁히고, 친구가 된다는 뜻이로군.
+Saiga12(0)<Speaker>saiga12</Speaker>;KSVK(0)||:어? 아니, 내가 이걸 빌려주면 나중에 돌려줘야 하니까――+그럼 그때 다시 만날 수 있고――
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:후훗, 에둘러 말하려 할 것 없다.+그럼 다음 주말에 또 만나도록 하자.
+Saiga12(0)<Speaker>saiga12</Speaker>;KSVK(0)||:정말!? 응, 그러자!+우와아, 앨범 빌려 주지 않았는데 더 좋은 약속을 얻어냈어!
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||:아무래도, 나도 여태까지 너무 고지식했던 모양이군.+먼저 호의를 표하는 것은 부끄러운 일이 아니라, 귀여운 일이었어.
+Saiga12(0)<Speaker>saiga12</Speaker>;KSVK(0)||:그말은 즉! 미소녀에 관해서 우리 의견이 일치한다는 거네?!
+Saiga12(0);KSVK(0)<Speaker>KSVK</Speaker>||<黑屏1>:어... 그리 이해해도 되겠지.
+DP12(0)<Speaker>DP12</Speaker><通讯框>||<黑屏2><BIN>82</BIN>:숙소에서, DP-12가 안부 전화를 걸었다.
+DP12(0)<Speaker>DP12</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>잘 놀았니?</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:꽤 재밌었다만, 역시 그 이상한 앨범은 거절했어.
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:<color=#00CCFF>즐거운 데이트였나 보네~</color>
+DP12(0);KSVK(0)<Speaker>KSVK</Speaker>||:그나저나, 아직도 왜 내 신체 수치가 잘못 전송됐는지 모르겠다. 우연이라기엔 그 소체와 딱 맞았고...+설마, 헬레나 너...?
+DP12(0)<Speaker>DP12</Speaker>;KSVK(0)||:<color=#00CCFF>얘도 참, 연회 끝난 지도 한참 됐는데 아직도 마음에 두긴.</color>+<color=#00CCFF>그래그래, 방금 M200이 사진을 잔뜩 보내 줬단다.</color>
+KSVK(0)<Speaker>KSVK</Speaker>||<黑屏1><SE1>AVG_tele_disconnect</SE1>:음, 잘 보관해 둬야지.+두번 다신 못할 장난이었지만... 정말 즐거웠어!

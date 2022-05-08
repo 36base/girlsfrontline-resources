@@ -1,0 +1,62 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BGM>BGM_Truth</BGM><BIN>9</BIN><黑屏2>:날이 저물어갔다...
+()<Speaker>민병 저격수</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>적의 수량이... 예상을 훨씬 넘었습니다... 게다가... 대형병기까지 하나 있습니다!</color>
+()<Speaker></Speaker>||:......
+()<Speaker>민병 저격수</Speaker>||:<color=#00CCFF>...또 두 명이 당했습니다, 탈출은 포기해야 겠습니다...!</color>
+()<Speaker></Speaker>||:......
+()<Speaker>민병 저격수</Speaker>||:<color=#00CCFF>저흰... 놈들을 최대한 붙잡아두겠습니다, 그 동안... 전투 준비를 단단히 하십시오....</color>+<color=#00CCFF>......</color>+<color=#00CCFF>건투를 빌겠습니다.</color>
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:통신이 끊어졌다.
+()||<黑屏1>:
+NPC-Arla(0)<Speaker>파블로프</Speaker>||<BIN>88</BIN><黑屏2>:......+준비하자.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:파블로프는 수화기를 힘없이 내려놓고 민병들에게 당부했다.+그리고 파파샤에게 고개를 돌렸다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:할머니, 발밑 조심하세요.
+()<Speaker>노파</Speaker>||:고맙구려, 아가씨...
+PPSh41(0)<Speaker>파파샤</Speaker>||:천만예요.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:파파샤는 할머니를 부축해 자리에 앉혔다, 그리고 상대의 시선이 계속 자신의 무기에 꽂혀있는 것을 눈치챘다.
+()<Speaker>노파</Speaker>||:"파파샤"라... 정말 오랜만에 보는구먼!+아이고! 내 할아버지가 남기신 그 파파샤가 아직 있었으면 저 밖의 고철딱지들을 전부 박살내주는 건디... 콜록... 콜록콜록...!+근데 지금은 또 이렇게 숨어다녀야 하는구먼!
+PPSh41(0)<Speaker>파파샤</Speaker>||:……
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:이들 모두 이 도시의 주민이야, 반군이 처들어오고 부득이하게 여기에 피신한 셈이지.
+PPSh41(0)<Speaker>파파샤</Speaker>||:이들을 소산할 수는 없나요?
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:이미 시도해봤지만...
+()<Speaker></Speaker>||:파블로프는 어금니를 깨물었다.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:적들은 보이는 게 누구인지 전혀 신경쓰지 않았어, 이미 많은 사람들이...
+PPSh41(0)<Speaker>파파샤</Speaker>||:그렇군요...
+()<Speaker></Speaker>||:두려움, 분노, 불안, 초조함... 부정적인 감정이 이 지하실 안에 모여 공기마저 무겁게 만들었다.+건물 밖에선 지금도 묵직한 폭발 소리가 들려오고, 비록 매우 멀지만, 소리가 울릴 때마다 모두 몸을 바싹 움츠리고 고개를 들지 못했다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:......+여기에 남아계시려는 이유는 알겠어요, 파블로프 씨.+하지만 지금 상황을 봐선 계속 남아계시면 너무 위험해요.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:위험하든 말든 상관 없어.+계속 반격하다 보면 희망이 꼭 찾아올 거야.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:파블로프는 가슴팍의 훈장을 가볍게 어루어만지며 지하실에서 나갔고, 파파샤도 바로 따라나왔다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>270</BIN><Night>:민병들이 건물 안에 진지 구축을 하는 것을 보고, 파블로프도 손을 거들었다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:파블로프 씨, 저도 이젠 탄약이 얼마 없어서 도움이 별로 되어드릴 수가 없어요.+지금 여기는 사상자가 잔뜩이고, 이대로 가다간...
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:어떻게 될지는 아직 모르지.
+PPSh41(0)<Speaker>파파샤</Speaker>||:......+저한테는 미지수가 아니에요.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:뭐라고?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:파파샤는 옆의 방어 공사 재료를 들어 고개를 드는 파블로프에게 건내줬다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:저는 전술인형으로서, 전장에서 우열을 분석하고 대응법을 도출할 수 있어요.+언제 진격하고 언제 후퇴할지 최적의 타이밍을 찾아 실행해, 최대한 유리한 결과를 끌어낼 수 있어요.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:그래서? 네 전문적인 분석 결과 우린 승산이 없다고 말하고 싶은 거냐?
+PPSh41(0)<Speaker>파파샤</Speaker>||:어쩌면 패배하겠지만... 이길 수도 있어요.+다만... 이기기 위한 대가는 아마 감당하기 어려울 거예요.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:이제와서 감당하기 힘든 대가가 뭐가 있다고 그래?+희생이 필요하다는 거지?+지금 우리에게 남은 병력으로 이기려면 확실히 큰 희생이 필요할 거야, 어쩜 내 목숨까지 보장 못하겠지.
+PPSh41(0)<Speaker>파파샤</Speaker>||:......
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:그래도 말이지, 파파샤...
+()<Speaker></Speaker>||:파블로프는 하던 일을 잠시 멈추고 파파샤에게 몸을 향했다.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:나는 그런 대가로 승리할 수 있다면 값지다고 보네.
+PPSh41(0)<Speaker>파파샤</Speaker>||:파블로프 씨...!?+정말 자신의 안위를 걱정하지 않는 건가요?
+()<Speaker></Speaker>||:파파샤의 질문에 다른 민병들이 흠칫했지만, 파블로프는 가볍에 콧방귀를 뀌었다.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:자네의 분석은 아주 정확하겠지, 내가 여기 남아있다간 아마 죽을 수도 있겠지...+그래도 그 대신 이길 수 있다면, 여기 주민들을 지킬 수만 있다면, 난 그걸로 족하네.
+PPSh41(0)<Speaker>파파샤</Speaker>||:하지만 의뢰측에선...
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:의뢰측은 이 전쟁에서 이기기 위해 날 구해주려 하는 거지.+하지만 그래서 주민들을 잃는다면, 이후 반군을 몰아낸다 해도 이 텅빈 도시만 남아선 무슨 의미가 있겠나.
+PPSh41(0)<Speaker>파파샤</Speaker>||:......
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:내 조상님들도 나와 같은 처지였지, 이 두 훈장이 그들의 선택의 증거야.+나도 그렇게 하겠네.
+()<Speaker></Speaker>||:방어 진지 공사를 마치고, 파블로프는 습관적으로 훈장을 떼어 자신차게 닦았다.+저번 세기의 세계대전에서 수여된 훈장은 지금도 황금빛으로 반짝였다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:파블로프 씨...
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:자네가 전술인형인 건 알아, 자네가 우리와는 다르지만 내 말을 이해해주길 바라네.
+PPSh41(0)<Speaker>파파샤</Speaker>||:...으음...
+()<Speaker></Speaker>||:파파샤는 주위의 민병들을 둘러봤고, 모두 다짐한 눈빛을 보내었다. 지하실에서 겁에 떨고 있는 주민들을 떠올리니, 파파샤의 마음이 소용돌이쳤다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:<color=#A9A9A9>이상해, 그저 임무를 완수하면 될 것인데...</color>+<color=#A9A9A9>이 뭐라고 설명하기 힘든 갈망은... 대체 뭐지?</color>
+PPSh41(0)<Speaker>파파샤</Speaker>||:......+저...
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3><BGM>BGM_Empty</BGM>:콰아앙!!!
+()<Speaker></Speaker>||:갑작스런 폭발로 프론트의 벽이 완전히 무너지며 먼지구름을 일으켰다.
+()<Speaker></Speaker>||:가까스로 수평을 잡은 파파샤는 먼지구름 속의 거대한 실루엣을 봤다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:......+큰일이다...!
+()<Speaker></Speaker>||<SE1>AVG_BaseDoor_Close</SE1>:적의 대형병기가 이미 코앞에 다가왔다.
+()||<黑点1>:

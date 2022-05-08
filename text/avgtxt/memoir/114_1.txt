@@ -1,2 +1,71 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||:<color=#FFFF00>마인드맵 기록 분석 중...</color>+<color=#FFFF00>분석 완료 예상 시각... 02월 26일 16시 00분</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
+()||<黑屏2><BIN>82</BIN><BGM>BGM_Room</BGM>:인형 숙소.+<color=#00CCFF>신규 통신 요청. 응답하겠습니까?</color>
+Welrod(0)<Speaker>웰로드</Speaker>||:처음 보는 식별 신호... 이런 시간에 누구지?+혹시, 긴급 임무에 내가 필요한 걸까?
+Welrod(0)<Speaker>웰로드</Speaker>||<SE1>AVG_tele_connect</SE1>:여기는 웰로드 Mk II.
+M82A1(0)<Speaker>M82A1</Speaker><通讯框>;Welrod(0)||:<color=#00CCFF>처음 뵙겠습니다, 웰로드. 저는 M82A1입니다.</color>+<color=#00CCFF>갑작스레 송구하오나, 저 대신 수행해 주었으면 하는 임무가 있어 이렇게 연락을 드렸습니다.</color>
+M82A1(0);Welrod(0)<Speaker>웰로드</Speaker>||:미안해할 것 없다, 동료의 부담을 덜어주는 것도 나의 의무니.+허나 그리폰의 임무는 전부 합리적으로 배정된 것일 터. 어떤 사유로 내게 부탁하고자 하는 거지?
+M82A1(0)<Speaker>M82A1</Speaker>;Welrod(0)||:<color=#00CCFF>지휘관이 주신 임무이니 저도 스스로, 완벽히 수행하고 싶습니다. 함부로 책임을 남에게 떠미는 인형도 아닙니다.</color>+<color=#00CCFF>하지만 제 개인적인 사정으로 인해 이 임무를 직접 수행할 수 없게 되었고, 기지에서 신뢰할 수 있는 인형 중 현재 여유가 있는 자는 당신밖에 떠오르질 않았습니다.</color>
+M82A1(0);Welrod(0)<Speaker>웰로드</Speaker>||:...알았다, 자세한 사정을 말하기 어렵다면 묻지 않도록 하지.+임무라면 얼마든지 내가 대신 수행해 주겠다. 임무의 예정 시각과 내용은 어떻게 되지?
+M82A1(0)<Speaker>M82A1</Speaker>;Welrod(0)||:<color=#00CCFF>도움의 손길에 감사드립니다. 지금 상세 사항을 전달했습니다.</color>
+Welrod(0)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>통신 종료.</color>+<color=#00CCFF>새로운 친구 등록 요청을 받았습니다. 수락하겠습니까?</color>+<color=#00CCFF>새로운 메시지를 받았습니다. - [임무 내용]</color>
+Welrod(0)<Speaker>웰로드</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:"인형의 구원 교단"... 듣기만으로도 수상쩍은 이름이로군.+이 교단에게서 전직 인형제조업자였던 상인을 호위하는 임무라.+꽤 단순한 임무... 아니, 그럼 안 된다 웰로드! 언제 어디서 어둠이 도사리고 있을지 모르는데, 방심은 금물이지!+우선 카리나 씨에게 보고부터 해야겠다.
+()||<黑屏2><BIN>97</BIN><BGM>BGM_Hello</BGM>:기지 복도.
+Welrod(0)<Speaker>웰로드</Speaker>||:카리나 씨!
+NPC-Kalin(2)<Speaker>카리나</Speaker>;Welrod(0)||:안녕 웰로드~ 어쩐 일이야? 그렇게 뛰어오고.+마인드맵 업그레이드용 소체라면 내일 오후에 출발한대.
+NPC-Kalin(2);Welrod(0)<Speaker>웰로드</Speaker>||:네, 그 일에 관해 보고할 것이 생겼습니다.+방금 M82A1에게서 임무를 양도받았습니다만, 현재 상태로도 수행 및 완수 가능한 임무라 판단, 마인드맵 업그레이드 일정을 이 임무를 완수한 후로 미루고 싶습니다.
+NPC-Kalin(3)<Speaker>카리나</Speaker>;Welrod(0)||:아아, 그 임무를 대신 받았다는 게 너였구나! 안 그래도 방금 막 신청을 받아서 아직 처리는 못했는데 잘됐다.+임무 소요 시간은 대충 3일 정도로 예상되니까, 여기에 주말까지 더하면... 7일 후에 하는 걸로 해 둘게.
+NPC-Kalin(3);Welrod(0)<Speaker>웰로드</Speaker>||:감사합니다, 그럼 당장 출발하겠습니다!
+NPC-Kalin(3)<Speaker></Speaker>||:답변을 받은 웰로드는 임무 수행을 위해 서둘러 자리를 떴다. 한편, 복도에 남은 카리나는 태블릿 화면에 띄워진 그 임무의 내용을 보곤 생각에 잠겼다.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:"인형의 구원 교단"이라, 분명히 어디서 본 이름인데...+누구랑 관련된 일이었나?
+NPC-Kalin(2)<Speaker>카리나</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:아아! 걔가 그래서...!
+()||<黑屏2><BIN>84</BIN><BGM>BGM_Sunshine</BGM>:......+웰로드가 출발한 다음날, 어느 도시의 중심가.
+Welrod(0)<Speaker>웰로드</Speaker>||:여기까지면 됩니까?
+NPC-Arla(0)<Speaker>상인</Speaker>;Welrod(0)||:네, 감사합니다. 영수증도 끊어서 그리폰 본부에 보낼게요.
+NPC-Arla(0);Welrod(0)<Speaker>웰로드</Speaker>||:한 가지 여쭤도 되겠습니까, 델타 씨?
+NPC-Arla(0)<Speaker>델타</Speaker>;Welrod(0)||:얼마든지요.
+NPC-Arla(0);Welrod(0)<Speaker>웰로드</Speaker>||:호위역으로 특별히 엘리트 전술인형을 지명하셨다 하는데, 이토록 간단한 임무에 굳이 엘리트 전술인형이 필요했습니까?+아니면, 위협이 더 크다 예상하신 겁니까?
+NPC-Arla(0)<Speaker>델타</Speaker>;Welrod(0)||:그렇죠, 인형의 구원 교단은 저 같은 일개 상인이 대적할 수 있는 상대가 아니라서 말입니다.+그리폰 같은 레벨의 회사 정도는 되어야 놈들이 겁먹고 안 건드릴 테죠, 허허허... 그래서 큰돈 들여 당신들께 의뢰했습니다.
+NPC-Arla(0);Welrod(0)<Speaker>웰로드</Speaker>||:그 "인형의 구원 교단"이란 건 대체 무엇이죠? 상당히 불쾌한 이름이로군요.
+NPC-Arla(0)<Speaker>델타</Speaker>;Welrod(0)||:어... 일단은 저도 한때 그 교단의 신자였던지라 그런 말을 들으니 좀 속상하네요.
+NPC-Arla(0);Welrod(0)<Speaker>웰로드</Speaker>||:아, 죄송합니다.+하지만 당신의 말씀과는 달리, 여기까지 오면서 수상한 거동을 보이는 자는 없었습니다.
+NPC-Arla(0)<Speaker>델타</Speaker>;Welrod(0)||:뭔가 의심스러우신가요? 그리폰은 명성이 자자한 PMC인데, 일개 상인인 제가 당신을 손쉽게 속일 수도 없잖겠습니까.
+NPC-Arla(0);Welrod(0)<Speaker>웰로드</Speaker>||:의뢰받은 것과 달리 일이 너무 수월하게 끝나서 말이죠.
+NPC-Arla(0)<Speaker>델타</Speaker>;Welrod(0)||:인형 아가씨, 너무 그런 눈으로 보지 말아 주세요.+제가 설명해드려도 도움이 되진 않을 겁니다. 교단에서 나온지 꽤 됐으니, 거기도 그사이에 많이 변했을 테니까요.+그리고 인형의 구원 교단은 무슨 범죄조직 같은 게 아닙니다. 그저, 여타 종교들처럼 마음의 안식을 바라는 종교 집단일 뿐이에요.
+NPC-Arla(0);Welrod(0)<Speaker>웰로드</Speaker>||<BGM>BGM_Empty</BGM>:그럼, 당신은 왜 그곳의 신도이기를 그만뒀습니까?
+NPC-Arla(0)<Speaker>델타</Speaker>;Welrod(0)||<BGM>m_avg_labyrinth</BGM>:...믿던 신이 사라져서요.
+NPC-Arla(0);Welrod(0)<Speaker>웰로드</Speaker>||:신이 사라지다니... 그게 무슨 뜻이죠?
+NPC-Arla(0)<Speaker>델타</Speaker>;Welrod(0)||:그건 인형 아가씨가 알아서 좋을 거 없어요.+그냥, 놈들이 보이면 빨리 도망치기만 하면 됩니다.
+NPC-Arla(0);Welrod(0)<Speaker>웰로드</Speaker>||:범죄조직 같은 것이 아니라 했잖습니까.
+NPC-Arla(0)<Speaker>델타</Speaker>;Welrod(0)||:아가씨 같은 인형에겐 이야기가 좀 달라요. 이름처럼 인형을 숭배하는 교단이라 인형에 대해 잘 알고, 또 상대하는 법에도 아주 도가 텄습니다.+평소에는 일부러 드러내지 않지만, 그들이 신분을 밝힌다면 그때가 바로 저항할 때입니다.
+NPC-Arla(0);Welrod(0)<Speaker>웰로드</Speaker>||:잘 알기에 무서운 법이다?
+NPC-Arla(0)<Speaker>델타</Speaker>;Welrod(0)||:그렇다고 할 수 있죠.+아무튼, 이만 돌아가셔도 됩니다. 그쪽 상사분께도 감사하다고 전해 주세요.
+Welrod(0)<Speaker>웰로드</Speaker>||:......
+Welrod(0)<Speaker></Speaker>||:웰로드는 상인에게 허리 숙여 인사하고, 그가 건물 안으로 모습을 감출 때까지 지켜봤다.
+Welrod(0)<Speaker>웰로드</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:<color=#A9A9A9>목표를 안전지대까지 호위 완료. 대상이 이쪽에 관심을 보이지 않는 것을 확인.</color>+<color=#A9A9A9>흥... 그런 말에 납득하고 넘어갈 줄 알고?</color>+<color=#A9A9A9>아무리 봐도 수상해, 혹시 모르니 이 기회에 기본 정보를 파악해 둬야겠어.</color>+<color=#A9A9A9>우선 이 근방부터 살펴볼까.</color>
+()<Speaker></Speaker>||<BIN>166</BIN><黑屏2><BGM>BGM_Sneak</BGM>:단독 행동을 결심한 웰로드는 곧바로 주변의 정찰을 시작했다.
+()<Speaker>행인 A</Speaker>||<SE1>AVG_footsteps_cave</SE1>:그 소문 들었어? 요즘 거리에 유령이 돌아다닌대...
+()<Speaker>웰로드</Speaker>||:<color=#A9A9A9>유령 따위 있을까 보냐. 필시 누군가의 분장겠지.</color>
+()<Speaker>행인 B</Speaker>||:아, 그 얘기 나도 들었어. 콘크리트 벽에서 우는 소리가 들린다던데, 혹시 공사장에서 죽은 인부의 원혼이 떠도는 거 아니야?
+()<Speaker>웰로드</Speaker>||:<color=#A9A9A9>그럴 리가. 바람소리를 착각한 거겠지.</color>
+()<Speaker>행인 C</Speaker>||:우리 집도 천장에서 무슨 애가 구슬치기라도 하는 거 같은 소리가 들리더라니까요. 우리 집은 아파트 꼭대기 층인데...
+()<Speaker>웰로드</Speaker>||:<color=#A9A9A9>말도 안 돼. 합성판이나 콘크리트에 금이 가는 소리겠지.</color>
+()<Speaker>행인 B</Speaker>||:동네 너무 흉흉한 거 아닌가... 인형의 구원 교단한테 봐 달라 하면 어때?
+()<Speaker>웰로드</Speaker>||:<color=#A9A9A9>......!</color>
+()<Speaker>행인 A</Speaker>||:넌 또 뭐 그딴 걸 믿냐?+인형이래봤자 공장에서 기계가 조립해서 만든 거에, 계시네 뭐네 하는 것도 다 난수 연산해서 뱉는 거잖아? 그냥 다 사기야, 사기.
+()<Speaker>행인 B</Speaker>||:아니 진지하게 유령 얘기할 땐 언제고?+그 교단도 헛소리만 떠드는 게 아니라, 다 과학적 근거를 두고 말하는 거라고.+그리고... 이상하지 않아? 왜 우리 동네서만 이런 일이 일어나는데?
+()<Speaker>행인 C</Speaker>||:그러니까... 살인 사건일지도 모른단 얘기예요?
+()<Speaker>행인 B</Speaker>||:말이 그렇다는 거지. 그래도 가만 있긴 너무 찝찝하다니까...+일단 한번 불러보고, 영 마음에 안 들면 경찰한테도 말해보자.
+()<Speaker></Speaker>||<黑点1>:어느 행인들의 대화를 들은 웰로드는 무언가 있음을 직감하곤, 몰래 뒤를 쫓아 그들이 사는 거리까지 미행했다.
+()<Speaker></Speaker>||<BIN>166</BIN><Night><黑点2>:어느덧 날은 저물어, 고요한 밤이 찾아왔다.+적당한 위치를 잡은 웰로드는 눈을 감고 청각 모듈의 감도를 최대로 높였다.
+()<Speaker>울먹이는 소리</Speaker>||<SE1>GF_Halloween_Femal_Cry_loop</SE1>:흑... 흑흑...
+Welrod(0)<Speaker>웰로드</Speaker>||<SE1>Stop_AVG_loop</SE1>:<color=#A9A9A9>확실히 수상한 소리가 들리는군.</color>+<color=#A9A9A9>바로 이 근처... 음?</color>
+Welrod(0)<Speaker></Speaker>||:소리가 들려오는 방향을 따라 다다른 곳은 변두리의 아직 공사가 한창인 건설 현장이었다.+절반 정도 세워진 콘크리트 벽 옆에, 몸이 성치 않은 인형이 어슬렁대며 우는 소리를 내고 있었다.
+Welrod(0)<Speaker>웰로드</Speaker>||:네놈이 유령의 정체렷다?
+NPC-PasserbyM(0)<Speaker>애꾸눈 인형</Speaker>;Welrod(0)||:악... 어아...
+NPC-PasserbyM(0);Welrod(0)<Speaker>웰로드</Speaker>||:...발성 모듈까지 망가진 상태인 건가.
+NPC-PasserbyM(0);Welrod(0)<Speaker>울먹이는 소리</Speaker><同时置暗>||<SE1>GF_Halloween_Femal_Cry_loop</SE1>:흑... 흑흑...
+NPC-PasserbyM(0);Welrod(0)<Speaker>웰로드</Speaker>||:......?+네가 아니었어?
+NPC-PasserbyM(0)<Speaker></Speaker>;Welrod(0)||<SE1>Stop_AVG_loop</SE1>:한쪽 눈알이 없는 인형이 아직 다 지어지지 않은 콘크리트 벽을 가리키자, 무슨 뜻인지 눈치챈 웰로드는 공사장의 망치로 그 벽을 힘껏 쳤다.
+Welrod(0)<Speaker></Speaker>||<SE1>AVG_Explosion</SE1>:그러자 벽이 생각보다 훨씬 쉽게 부서지더니, 안에서 분홍색 머리의 인형이 굴러 나왔다.
+Welrod(0)<Speaker>웰로드</Speaker>||<震屏1>:어...?
+sub2000(5)<Speaker>？？？</Speaker>||<黑屏1>:푸하아! 죽는 줄 알았네... 엥, 열쇠장이 너 왜 여기 있어?+...넌 또 누구야?

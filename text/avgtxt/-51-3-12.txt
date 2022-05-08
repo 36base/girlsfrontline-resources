@@ -1,0 +1,148 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BGM>10227</BGM><黑点2><SE1>AVG_Explosion</SE1><BIN>485</BIN>:쿠르릉――+부유검의 포격이 일으킨 먼지구름이, 블랙존의 녹색 안개와 뒤섞여 인형들의 모습을 가렸다.
+Narciss(2)<Speaker>나르시스</Speaker><Shake>0.1</Shake>||:빌어먹을... <size=50>이리저리! 이리저리! 이리저리!</size>+<size=50>이리저리 뛰어다니지 말라고!!!</size>
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:콰앙!!
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:먼지구름과 안개를 연막 삼으면서, 모나 일행은 침착하게 나르시스와 거리를 벌렸다.+이를 깨달은 나르시스는 성질을 내며 부유검을 날렸다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1><震屏3>:쉬익!!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1><震屏3>:물론, 목표가 보이지 않으니 마구잡이로 던질 뿐이었다.+결국 예리하고 신속한 부유검은 아무런 소득도 없이 돌아왔다.
+Narciss(2)<Speaker>나르시스</Speaker><Shake>0.1</Shake>||<SE1>AVG_Punch_Hit</SE1>:<size=50>제기라아아아알!!!</size>
+()<Speaker></Speaker>||:부아가 치밀어 오른 나르시스는 자리를 박차고 쫓아가려 했지만, 뒤에서 틸이 쉰 목소리로 그녀를 불러 세웠다.
+NPC-grig(3)<Speaker>틸</Speaker>||:그만둬라, 나르시스.
+Narciss(2)<Speaker>나르시스</Speaker>||:닥치라 했지 폐급!+전투 타입이 그 꼬라지로 잘도 입을 여네?+무슨 자격이 있다고 나한테 명령이야!
+NPC-grig(3)<Speaker>틸</Speaker>||:...그런 뜻이 아니다.+놈들은 이미 상당한 부상을 입어 한동안 재정비해야만 할 터다. 시간은 벌었으니, 놈들을 쫓기보단 먼저 할 일을 해야 해.+몰리도... 몰리도 언니에게 네가 필요하다. 그녀는 지금 부상이 심각한데, 어서 가봐야 하지 않겠나?
+Narciss(1)<Speaker>나르시스</Speaker>||:......
+()<Speaker></Speaker>||:고개를 갸우뚱하는 나르시스는 틸의 말에 설득됐는지, 잠시 고민하는 듯하다 추격하려던 자세를 풀었다.
+Narciss(1)<Speaker>나르시스</Speaker>||:언니 때문만 아니었으면...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:나르시스는 아쉬워하며 뒤로 돌아 틸을 덥석 잡고는, 그대로 질질 끌고 중얼거리면서 뒤편의 초소로 향했다.
+Narciss(1)<Speaker>나르시스</Speaker>||:네가 언니 도와주느라 그 한심한 꼴 된 거만 아니었어도, 너 따위...
+NPC-grig(3)<Speaker>틸</Speaker><Shake>0.1</Shake>||<SE1>AVG_Door_Hit</SE1><震屏3>:윽...
+()<Speaker></Speaker>||:초소에 마련된 비행기에 중상인 틸을 난폭하게 던져 넣고, 나르시스도 조종석에 올랐다.+하지만 미련이 남는지, 인형들이 도망친 방향을 보며 불같이 성질을 냈다.
+Narciss(2)<Speaker>나르시스</Speaker>||:다음에 보면 다 죽여버릴 거야... 다 으깨버리겠어!!
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><SE1>AVG_Button_Click</SE1><SE1>AVG_Jet_Speedup</SE1>:화풀이하듯 조종간의 레버를 콱 밀며, 나르시스는 비행기를 몰아 안개가 짙은 하늘로 날아갔다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>485</BIN><SE1>AVG_Team_Running</SE1>:한편, 적이 추격해 오지 않음을 확인한 질소와 철분 팀은 도주를 멈췄다.
+()<Speaker></Speaker>||<BGM>10254</BGM><SE1>AVG_keyboardtype_sci</SE1>:게이저는 즉시 자가 수복을 했다.
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:저 화력... 덩치에 비해 터무니없군.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:아니 대체 뭐래 그 무시무시한 전투력은?! 괴물이야!?
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:...같은 지능 떨어지는 전투 타입인데, 왜 이리 차이가 나는지.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:그러게 말<size=55>이번엔 안 넘어가! 지금 나 욕하는 거지!!</size>+아니 그보다 난 전투 타입 아니거든!?
+SP9(0)<Speaker>모나</Speaker>||:모두 무사합니까?
+Rhino(0)<Speaker>라이노</Speaker>||:응, 나 별로 안 다쳤어.
+QBZ191(5)<Speaker>9호</Speaker>||:나도 임무 속행에 지장 안 가.
+Rhino(0)<Speaker>라이노</Speaker>||:다행이<size=50>야 너 머리에 토끼귀가 없는데?!</size>
+QBZ191(5)<Speaker>9호</Speaker>||:그건 신호 추적기야. 필요하면 내 신호로 위장할 수 있어.+마침 아까 그 비행기 지나칠 때 놈들이 그거 타고 소굴로 돌아갈 거라 생각해서 안에다 하나 몰래 넣었지.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:다른 한 쪽은?
+QBZ191(5)<Speaker>9호</Speaker>||:...외관상의 문제로 같이 뗐어.
+Rhino(0)<Speaker>라이노</Speaker>||:외관상의 문제...?
+QBZ191(5)<Speaker>9호</Speaker>||:아 몰라도 돼!
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:회의실에서 호출이 들어왔다.
+SP9(0)<Speaker>모나</Speaker>||<BGM>BGM_Empty</BGM>:이건... 긴급 통신 요청?
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>486</BIN><黑点2><SE1>AVG_keyboardtype_sci</SE1><BGM>GF_21summer_intro_DemonVariation</BGM>:RO635 일행은 소리 없이 패러데우스의 초소를 점령했다.+주위를 정리한 후, RO635와 UMP45는 초소의 데이터베이스를 해킹해 필요한 정보를 수색했다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:보안 시스템이 영 허술한걸? 아예 거저로 우리한테 정보를 갖다 바치는 꼴이야.
+RO635Mod(0)<Speaker>RO635</Speaker>||:XM8, 초소 배치도를 찾았어.
+XM8MOD(0)<Speaker>XM8</Speaker>||:어디, 다시 실력 발휘 좀 해볼까~
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:XM8은 RO635가 공유한 배치도를 분석하며, 그 위로 선을 그어댔다.+수많은 직선들이 초소가 위치한 지점에서 출발해, 아무것도 없는 공백으로 뻗어나갔다.+직선과 직선들은 교차하며 점을 만들었고, 그중 직선이 가장 많이 교차한 점은...
+RO635Mod(5)<Speaker>RO635</Speaker>||:가까워, 아주 가까워... 여기서 아주 가까운 곳에 있어...!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:RO635가, 그 시커먼 점을 가리켰다.+흥분 탓인지 긴장 탓인지, 목소리도 약간 떨렸다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:여기가 분명해. 이 지점으로 가자.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>485</BIN>:인형들은 지도에서 찾아낸 그 점의 위치로 향했다.+하지만 그곳은 말 그대로 아무것도 없었다.+초소도, 다른 건물도, 패러데우스도 없었다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:엥... 아무것도 없는데?
+RO635Mod(3)<Speaker>RO635</Speaker>||:......
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:헤이 체스 마스터, 혹시 계산 잘못한 거 아니야?
+XM8MOD(0)<Speaker>XM8</Speaker>||:아, 아니야! 내 계산이 잘못됐을 리 없다구!
+()<Speaker></Speaker>||:일행의 초조한 목소리가 광활한 평지에 울려퍼졌다.
+UMP9Mod(6)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:흐음... 혹시 지하 기지 아닐까? 팔디스키처럼.
+RO635Mod(2)<Speaker>RO635</Speaker>||:그 가능성은 낮아. 이런 지질로 그런 굴착 작업은 불가능해.
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1>:RO635가 증명하듯 발을 몇 번 굴렀다. 이 일대의 지면은 거의 대부분이 매우 단단한 암석으로 뒤덮여 있었다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:수색해볼까?
+RO635Mod(0)<Speaker>RO635</Speaker>||:아뇨, 지형이 너무 탁 트였어요. 적이 지나가기라도 하면 바로 발각되고 말 거예요.
+RO635Mod(0)<Speaker>RO635</Speaker>||<SE1>ClothingUp</SE1>:일단은 질소와 철분 팀에게......?
+RO635Mod(3)<Speaker>RO635</Speaker>||:SOP2? 너 거기서 뭐해?
+()<Speaker></Speaker>||:통신 요청을 하려던 RO635의 눈에, 녹색이 감도는 물웅덩이 앞에 쪼그려 앉은 SOP2가 들어왔다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:여기만 색깔이 더 어두워.
+UMP9Mod(6)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:오염도가 달라서 그런 거 아니야?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:모르겠어... 다른 각도에서 보면 어두운 부분도 같이 움직여.
+RO635Mod(3)<Speaker>RO635</Speaker>||:나도 보자.
+()<Speaker></Speaker>||:RO635도 다가가 보니, 확실히 SOP2의 말대로 물웅덩이의 한 부분만 색깔이 좀 더 짙어 보였다.+하지만 그것은 수질 차이 때문이 아니었다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:무언가가 비쳐 보이는 것이었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:이를 깨달은 RO635의 고개가 저절로 들어졌다.
+RO635Mod(3)<Speaker>RO635</Speaker>||:......?!
+()<Speaker></Speaker>||:드물게 얼빠진 표정을 짓는 RO635를 따라, SOP2도 고개를 갸우뚱하며 시선을 하늘로 들었다.+그리고――
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker><Shake>0.1</Shake>||:우와... <size=50>우와아아아!!!</size>
+RO635Mod(3)<Speaker>RO635</Speaker>||<BGM>GF_22W_BGM_3</BGM>:저... 저게 뭐지?!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...저런 게 어디서 잘 나오더라? 신화? 괴담?
+()||<白屏1>:
+()<Speaker></Speaker>||<BIN>456</BIN><白屏2>:하나둘씩 고개를 든 인형들의 시선은 모두 저 하늘에 떠 있는 거대한 물체로 향했다.+탑이었다.+정확히는, 토대가 서로 이어진 두 개의 검은 거탑이었다.+중력을 완전히 거스르며 그 위용을 자랑하는 두 거탑이 하늘 높이 떠 있었고, 표면의 금속 질감은 멀리서도 엄청난 압박감을 과시했다.+그리고 그 두 탑 사이로 은은하게 빛나는 달이, 경이롭다 못해 신비한 분위기를 자아냈다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:멋지다아...
+()<Speaker></Speaker>||:기적이란 수식어로도 부족한 저 불가사의한 경관에, SOP2는 넋을 잃고 감탄했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BGM>BGM_Empty</BGM>:RO635도 겨우 제정신을 차리고, 아이네이아스의 채널로 긴급 통신 요청을 송신했다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>GF_22W_BGM_2</BGM>:......+통신 연결 - 질소, 철분.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Error</SE1>:통신 연결 실패 - 지휘관.
+RO635Mod(3)<Speaker>RO635</Speaker>||:...큰일이다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:왜 그래?
+RO635Mod(2)<Speaker>RO635</Speaker>||:지휘관님이랑 연락이 안 돼...
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:댄들라이가 또 장난치나?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:잠깐만, 내가 검사해볼게.
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:UMP45가 급히 네트워크의 상태와 통신 상황을 검사했다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_21Winter_Error</SE1>:쯧... 아이네이아스 회의실 내부 채널은 멀쩡한데, 외부와의 연결이 끊겼어.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_tele_connect</SE1>:모나, 내 말 들려?
+()<Speaker>모나</Speaker>||:<color=#00CCFF>잘 들립니다. 그런데 외부와의 연결이 끊어졌다뇨?</color>
+()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>거 되게 심상찮은데... 발각된 거 아니야?</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:아니, 만약 우리의 위치가 발각됐다면 지금쯤 패러데우스의 병력이 물밀듯이 몰려왔을 거야.
+()<Speaker>게이저</Speaker>||:<color=#00CCFF>그럼 계획을 변경할까? 지휘가 없는 상황에서 무작정 돌입하는 것은 좋은 생각이 아니다.</color>
+UMP9Mod(2)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:잠깐 잠깐, 벌써 그렇게 결론 내리면 안 되지!
+RO635Mod(2)<Speaker>RO635</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:고민하던 RO635는 이내 단호하게 고개를 저었다.+그녀의 눈빛은 정면으로 곧게 향해, 맞은편의 모나와 마주쳤다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:작전은 속행합니다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:응, 그래야지!
+()<Speaker>모나</Speaker>||:<color=#00CCFF>다른 뜻은 없습니다만, 정말 이것이 현명한 판단일까요?</color>+<color=#00CCFF>지휘관이 우리의 상황을 파악하지 못하면, 만일의 사태 시에도 지원을 기대할 수 없습니다.</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:이건 분명 패러데우스의 신호 차폐망 때문이에요. 이 타이밍에 저런다는 것은 우리가 목표 지점에 매우 가까워졌고, 그들도 우리의 존재를 위협적으로 여긴다는 뜻입니다.+만약 여기서 물러난다면, 첫째로 철수 도중 놈들이 추격해 오지 않으리란 보장이 없고, 둘째로 수지타산에 안 맞습니다. 다음에 다시 여기로 들어오려면 훨씬 더 큰 대가를 치뤄야 할 거예요.
+()<Speaker>모나</Speaker>||:<color=#00CCFF>......</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:그리고, 처음부터 우리는 추가적인 지원을 받지 못할 것을 상정했습니다.
+()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>하하, 결국 백업 후 수복캡슐 엔딩이겠네.</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:잔인한 현실이지만... 여러분 모두, 출발하기 전에 그 정도의 각오는 했다 믿습니다.
+()<Speaker>모나</Speaker>||:<color=#00CCFF>무슨 일이 있어도 임무를 속행하겠다... 흔들림 없는 결의군요.</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:네. 이건 여유 있는 시도가 아닙니다. 우리의 모든 것을 건 도박이에요.
+()<Speaker></Speaker>||:RO635의 결정으로 인한 결과를 예상하는 듯, 아이네이아스 회의실은 침묵에 빠졌다.
+XM8MOD(0)<Speaker>XM8</Speaker>||:생사랑 지원 유무는 다 차치하고, 나 질문 있어.+저기 어떻게 올라갈 거야?
+RO635Mod(2)<Speaker>RO635</Speaker>||:......
+XM8MOD(0)<Speaker>XM8</Speaker>||:임무 속행도 좋은데, 일단 저 탑을 올라가야 하잖아. 문제는 저거 공중에 덩그러니 떠 있다고.
+()<Speaker></Speaker>||:XM8이 상공의 거탑을 가리키며 물었다. 확실히, 그냥 등반하기엔 지면으로부터 떠 있는 높이가 상당히 높았다.+게다가 탑과 지상을 잇는 것이라곤 굵은 파이프 몇 가닥뿐이었다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:오, 저기 파이프 잔뜩 있네! 별수없음 그냥 저거 타고 오르면 돼!
+UMP9Mod(2)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:으엑... 난 못해!
+XM8MOD(0)<Speaker>XM8</Speaker>||:저거 암만 봐도 에너지 공급선 같은데? 저거 타고 오르다 끊어지거나 하면 큰일나는 걸론 안 끝나.
+RO635Mod(3)<Speaker>RO635</Speaker>||:에너지 공급선?
+XM8MOD(0)<Speaker>XM8</Speaker>||:응, 전에 파파샤가 굴착기 몰다 하나 끊어버린 적 있었잖아.
+RO635Mod(3)<Speaker>RO635</Speaker>||:......
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:그거 파파샤 짓이었구나...
+XM8MOD(0)<Speaker>XM8</Speaker>||:음... 괜히 말했나?
+RO635Mod(5)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:아니, 체스 마스터.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:다시 한번 고민하던 RO635가 눈을 번쩍이더니, XM8의 어깨를 탁 쳤다.
+RO635Mod(5)<Speaker>RO635</Speaker>||:어떻게 탑에 오를지 떠올랐어.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>GF_22W_BGM_1</BGM><common_effect>%%code=CJ_WC_piaofu%%</common_effect><黑屏2><BIN>459</BIN>:아베르누스의 강당.
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><SE1>AVG_Cloak_Whoosh</SE1>:몰리도와 그레이는 휘청이다시피 걸어 들어와, 대기 중의 먼지를 잔뜩 휘저었다.
+NytoWhite(0)<Speaker>???</Speaker><Position>0,50</Position>||:아... 몰리도 언니, 그레이 언니.+돌아오셨습니까.
+()<Speaker></Speaker>||:문앞의 니토가 그들을 맞이했다.+하지만 존댓말을 쓰면서도 무척이나 무덤덤한 어조였고, 몸이 만신창이인 그들을 보면서도 제자리에 선 채로 꿈쩍하지 않았다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...넌 여기서 뭘 하고 있지?
+NytoWhite(0)<Speaker>???</Speaker><Position>0,50</Position>||:네메아란 언니께서 해충을 박멸하겠다 하시어, 방금 신호 차폐장을 가동했습니다.
+NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||:네메아란이 널 보냈다고...? 너, 이름이 뭐야?
+NytoWhite(0)<Speaker>애슐리</Speaker><Position>0,50</Position>||:저는 애슐리입니다, 몰리도 언니.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:틸이 아직 저 아래에 있어. 지원이 필요해.
+NytoWhite(0)<Speaker>애슐리</Speaker><Position>0,50</Position>||:......
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:내 말 안 들려?
+NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||:그레이, 기다려 봐.+네메아란은 항상 뒷일을 염두에 두고 계획을 짜니까.
+()<Speaker></Speaker>||:몰리도는 약간 위험한 눈초리를 깜빡이며 애슐리를 노려봤다.
+NytoWhite(0)<Speaker>애슐리</Speaker><Position>0,50</Position>||:몰리도 언니, 제가 수복실로 모시겠습니다.
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=0.5%%delay=0.1%%range=8</controll_shake><SE1>AVG_XXS_kick</SE1>:애슐리가 다가와 부축하려 하자, 몰리도는 그녀를 툭 밀쳐냈다.
+NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||:필요없어, 아버님을 뵙게 해 줘.
+NytoWhite(0)<Speaker>애슐리</Speaker><Position>0,50</Position>||:예...?+죄송합니다만, 그런 명령은 받지 못했습니다.
+NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||:가서... 네메아란한테 전해.+"그 언니"를 만난 건 나니까, 그녀에 관한 정보는 오직 나만이 제공할 수 있다고.+네가 이해 못해도 상관없어, 그냥 지금 내가 한 말을 그대로 전하기만 하면 돼. 명심해, 아버님께도 아주 중요한 일이니까.
+NytoWhite(0)<Speaker>애슐리</Speaker><Position>0,50</Position>||:...알겠습니다, 잠시만 기다려 주십시오.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:애슐리는 공손히 몸을 숙이고, 천천히 뒤로 돌아 어디론가 향했다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>9</BIN>:그런 그녀의 뒷모습을 바라보면서, 몰리도는 입술을 깨물며 사시나무처럼 떨리는 몸을 억눌렀다.+이것은 목숨을 건 도박이다.
+()<Speaker></Speaker>||<关闭蒙版>:그리고 이 도박에, 그녀는 마지막 승부수로 자신의 모든 것을 걸었다.
+()||<黑点1>:

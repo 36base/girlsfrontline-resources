@@ -1,0 +1,57 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑点2><BIN>480</BIN><BGM>GF_21summer_avg_Crisis</BGM>:베를린 시외, 레드존의 가장자리.+질소 팀은 수와 진형의 우세를 이용해 미약하게나마 우위를 점했다.
+Rhino(0)<Speaker>라이노</Speaker>||:속도가 느려졌어! 9호!
+QBZ191(0)<Speaker>9호</Speaker>||<SE1>RunStep</SE1>:봤어!
+()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1>:부웅!
+()<Speaker></Speaker>||<SE1>Select</SE1>:잠시 땅에 닿은 틸의 발이 다시 떨어지기 전에, 9호가 총구를 들고 망설임 없이 방아쇠를 당겼다.
+()<Speaker></Speaker>||<震屏3><SE2>Gunfight</SE2>:타타탕——!
+()<Speaker></Speaker>||<SE1>AVG_Bullte_Ricochet</SE1>:연사된 총탄은 틸에게 정확히 날아들었고, 몇 발이 다리에 명중했다.
+NPC-grig(0)<Speaker>틸</Speaker><Shake>0.1</Shake>||<SE1>AVG_Bullet_Hit_Body</SE1>:큭...!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:틸은 낮게 신음하며 검을 눕히고 방어 태세를 취했다.+번뜩이는 하얀 칼날과 시꺼먼 총구가 서로를 조용히 노려봤다.+양측 모두, 상대보다 먼저 움직이지 않고 대치하는 것이었다.
+SP9(0)<Speaker>모나</Speaker>||:......
+QBZ191(0)<Speaker>9호</Speaker>||:......
+Rhino(0)<Speaker>라이노</Speaker>||:<color=#00CCFF>왜, 왜 안 움직여?</color>
+QBZ191(0)<Speaker>9호</Speaker>||:<color=#00CCFF>선공으로 제압할 확신이 안 서.</color>
+Rhino(0)<Speaker>라이노</Speaker>||:<color=#00CCFF>그렇다고 가만 있음 우리가 불리해지지!</color>
+SP9(3)<Speaker>모나</Speaker>||:<color=#00CCFF>아뇨, 저쪽도 확신이 없어서 공격을 멈춘 겁니다.</color>
+Rhino(0)<Speaker>라이노</Speaker>||:<color=#00CCFF>그럼 어쩌지...?</color>
+QBZ191(0)<Speaker>9호</Speaker>||:<color=#00CCFF>당황하지 마, 침착해.</color>+<color=#00CCFF>정신을 사냥감에게 집중하고, 상대의 눈빛에 겁먹지 말고, 가능한 모든 움직임을 예측해.</color>
+Rhino(0)<Speaker>라이노</Speaker>||:<color=#00CCFF>해볼게.</color>
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:그때, 틸이 냉소와 함께 방어 태세를 풀고 매섭게 돌진하며 전방을 찔렀다.
+SP9(3)<Speaker>모나</Speaker>||<SE1>RunStep</SE1>:<size=50>산개!</size>
+QBZ191(0)<Speaker>9호</Speaker>||:윽――
+Rhino(0)<Speaker>라이노</Speaker><Shake>0.1</Shake>||<SE1>ClothingUp</SE1>:히익!
+()<Speaker></Speaker>||:아무리 훈련받은 인형이라 할지라도, 눈으로 쫓기 힘든 돌진에 즉각 대응하긴 힘들었다.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2><震屏3>:타타탕!!+인형들은 견제 사격을 날리며 돌진을 피해 각기 다른 방향으로 몸을 던졌다.+틸은 이 공격으로 질소 팀의 진형을 붕괴시켰다.
+NPC-grig(0)<Speaker>틸</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:진형이 무너져, 그야말로 상대를 난도질할 절호의 기회였다. 하지만 틸은 뒤돌아보지도 않고, 그대로 계속 돌진했다.+그리고 언덕을 뛰어내려, 아래에도 짙게 깔린 안개 속으로 사라져버렸다.
+Rhino(0)<Speaker>라이노</Speaker>||<SE1>RunStep</SE1>:거기 서!
+QBZ191(0)<Speaker>9호</Speaker>||:쫓지 마. 우리로선 어차피 따라잡지도 못해.
+SP9(0)<Speaker>모나</Speaker>||:......+상대는 애초부터 우릴 전력으로 상대할 생각이 아니었군요.
+QBZ191(0)<Speaker>9호</Speaker>||:그러게. 저런 놈 상대로 나름 잘 맞선다 싶었더니만...
+SP9(0)<Speaker>모나</Speaker>||:...몰리도가 빠져나갈 시간을 버는 것일 뿐이었어요.
+Rhino(0)<Speaker>라이노</Speaker>||:완전 우릴 가지고 놀았단 소리잖아...
+QBZ191(0)<Speaker>9호</Speaker>||:......
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:세 인형들은 언덕 끄트머리에 서, 틸이 사라진 방향을 바라봤다.+그들이 선 그곳은 레드존과 블랙존의 경계선으로, 저 아래로 더욱 짙게 깔린 안개 너머가 바로 블랙존이었다.
+SP9(0)<Speaker>모나</Speaker>||:우선 이동하죠. 철분과 합류해야 합니다.
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:문자 그대로 "미지의 영역"에서 시선을 돌린 질소 팀은 가볍게 재정비하고 발길을 돌렸다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BGM>GF_22W_BGM_2</BGM><BIN>85</BIN>:그 시각, 아이네이아스 회의실.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:작은 말을 집은 깜찍한 손가락이, 회의 테이블 위에 펼쳐진 지도의 구불구불 얽히고설킨 경로들을 짚으며 돌아다녔다.+그 손가락의 주인공은 일말의 주저도 없는 능숙하고 자신감 넘치는 움직임으로, 무질서하게 꼬인 실마리를 머릿속에서 풀어나갔다.
+XM8MOD(2)<Speaker>???</Speaker>||:흠흠... 그렇구나...
+()<Speaker></Speaker>||:선과 선이 한 점에서 교차하고, 또 그 교차점이 다른 방향으로 이어지길 여러 번.
+XM8MOD(2)<Speaker>???</Speaker>||:우산과 유니콘은 여기서 목표를 놓쳤고, 질소는 여기서 목표와 접촉...+그럼...... 여기인가.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:인형이 손에 쥔 말을 내려놨다.
+XM8MOD(2)<Speaker>???</Speaker>||:그래, 여기뿐이야. 모든 선과 점들은 여기를 가리키고 있어...!
+XM8MOD(2)<Speaker>???</Speaker>||:<size=50>그렇구나! 알았다, 알았어!</size>
+()<Speaker></Speaker>||<SE1>AVG_Card_Reader</SE1>:아이네이아스 작전팀 출석 확인 - 체스 마스터.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_21Winter_OperatingDisc_Drop</SE1>:코드네임 "체스 마스터"가 흥분해 옆의 말판을 뒤엎으며 회의실의 통신 채널에 대고 소리질렀다.
+()<Speaker>RO635</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>?!!</color>+<color=#00CCFF>무슨 일이야!?</color>
+XM8MOD(0)<Speaker>XM8</Speaker><GradientShow>1</GradientShow>||:안녕! 코드네임 "체스 마스터" 도착!+놈들의 합류 지점을 알아냈어, 대장.
+XM8MOD(0)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>아, 안녕. 어디야?</color>
+XM8MOD(0)<Speaker>XM8</Speaker>||:조급할 거 없어, 합류하면 내가 직접 안내해 줄 테니까.+이거 참 재밌는 한 판이겠는걸.
+XM8MOD(0)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>알았어. 혹시 다른 지시 사항 전달받은 건 없고?</color>
+XM8MOD(0)<Speaker>XM8</Speaker>||:있지, 페르시카 씨가 대장한테 물건 2개 전해 달라더라.+하나는 지금 내가 쓰고 있는 오프라인 맵핑 장치. 그리고 다른 하나는 "철완"이란 물건인데, 네가 보면 알 거래.
+XM8MOD(0)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>어... 알았어, 합류하고 보자.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신을 종료한 XM8은 다시 생각에 잠겼다. 그리고 자신도 모르게 미소가 지어졌다.
+()||<黑点1>:
