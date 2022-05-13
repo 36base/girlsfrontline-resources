@@ -1,136 +1,136 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>385</BIN><common_effect>%%code=RedScreen%%</common_effect>:"사신짱 반점"의 입구.
-Yurine(4)<Speaker>유리네</Speaker>||<黑屏1>:...사신짱 반점?
-Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||<黑屏2><BIN>390</BIN><关闭蒙版><边框>2</边框><BGM>GF_Jyashinchan_Story_Jinbouchou</BGM>:어때요 어때요~? 이번 창작 요리도 맛 쥑이죠?
-Yurine(5)<Speaker>유리네</Speaker>||<边框>2</边框>:응, 엄청 맛있어!
-Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||<边框>2</边框>:헤헤~ 역시 그렇죠~♪
-()||<边框>2</边框>:사신짱은 콧노래를 부르며 신나게 설거지를 하는중이었다.
-Yurine(5)<Speaker>유리네</Speaker>||<边框>2</边框>:그런데 사신짱, 이렇게 요리를 잘하는데 식당 차려볼 생각은 안 해봤어?
-Yurine(5);Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||<边框>2</边框>:식당이요? 그거 괜찮겠네요, 제 실력이면 돈도 왕창 벌 수 있을 거예요!
-Yurine(5);Jashinchan(7)<Speaker>사신짱</Speaker><Position>0,100</Position>||<边框>2</边框>:후후훗... 아마 그 망할 유사 코지보다 수십, 아니 수백, 아니 수천 배는 더 벌어들일걸요?
-Yurine(0)<Speaker>유리네</Speaker>;Jashinchan(7)<Position>0,100</Position>||<边框>2</边框>:......+진보초의 명물 맛집이 될 수도 있겠지.
-Yurine(0);Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||<边框>2</边框>:와우, 그거 좋네요!+그래도 싫어요.
-Yurine(4)<Speaker>유리네</Speaker>;Jashinchan(5)<Position>0,100</Position>||<边框>2</边框>:응? 왜?
-Yurine(4);Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||<边框>2</边框>:저는 제가 하고 싶을 때에만 요리할 거예요.+그런데 식당을 차리면 마음대로 못하게 되잖아요.
-Yurine(5)<Speaker>유리네</Speaker>;Jashinchan(4)<Position>0,100</Position>||<边框>2</边框>:그러니까, 사신짱은 자기가 요리해 주고 싶은 사람에게만 요리해 준다는 거구나?
-Yurine(5);Jashinchan(3)<Speaker>사신짱</Speaker><Position>0,100</Position>||<边框>2</边框>:그그그게 무슨 소리예요!!
-Jashinchan(3)<Speaker>사신짱</Speaker><Position>0,100</Position>||<边框>2</边框>:함부로 기어오르지 말라고요!
-()||<边框>2</边框><黑屏1>:투덜거리는 사신짱의 뒷모습을 보며, 유리네는 싱긋 웃곤 국물을 마셨다.
-()||<黑屏2><BIN>385</BIN><common_effect>%%code=RedScreen%%</common_effect><BGM>BGM_Empty</BGM>:유리네는 우아한 동작으로 치마자락을 들고 식당의 계단을 올랐다.
-()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:그리고 안내하려던 마물 웨이터를 단칼에 베어버렸다.
-Yurine(0)<Speaker>유리네</Speaker>||:......+사신짱, 지금 갈게.
-()||<SE1>AVG_Door_Hit</SE1><黑屏1>:유리네가 식당 현관문을 발로 뻥 차 열었다.
-()||<黑屏2><关闭蒙版><BIN>381</BIN><BGM>GF_Cafe</BGM>:휴식 시간인지, 식당 안에는 손님이 거의 없었다.+사신짱도 어느 식탁 앞에 앉아 얼굴에 팔을 괸 채, 행복한 얼굴로 유리네가 주는 음식을 받아먹었다.+..."유리네"?
-Yurine(3)<Speaker>유리네</Speaker>||:사신짱, 설명해 줄래?
-Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:유, 유리네?! 유리네가 두 명!?
-Yurine(6)<Speaker>유리네?</Speaker>||:사신짱, 왜 그래?+국물 흘렸잖아.
-()||:사신짱 앞의 "유리네"가 친절하게 손수건으로 사신짱 몸에 묻은 국물을 닦아 주었다.
-Yurine(6)<Speaker>유리네?</Speaker>||:아, 손님이 왔구나.+죄송하지만 지금은 휴식 시간이랍니다.
-Yurine(6);Yurine(3)<Speaker>유리네</Speaker>||:......+너, 누구야?
-Yurine(6)<Speaker>유리네?</Speaker>;Yurine(3)||:자기소개가 늦었네. 내 이름은 유리네, 사신짱의 동거인이자 이 사신짱 반점의 동업자야.
-Yurine(6);Yurine(3)<Speaker>유리네</Speaker>||:오? 사신짱, 제법이구나. 이렇게 빨리 동업자까지 찾아 식당을 열다니.
-Yurine(6);Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:더... 더블 유리네... 이건... 대체 어느 쪽이 진짜예요?
-Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:어떻게 된 건지 하나도 모르겠사와요...
-Yurine(6)<Speaker>유리네?</Speaker>||:안심해, 사신짱. 내가 지켜 줄게.
-Yurine(3)<Speaker>유리네</Speaker>||<BGM>BGM_Empty</BGM>:더 말할 것도 없겠네. 덤벼.
-()||<BGM>GF_Jyashinchan_Battle_1</BGM>:유리네가 살기등등하게 무기를 꺼내 들었고, "유리네"도 전혀 겁먹지 않고 앞으로 나왔다.
-Yurine(6)<Speaker>유리네?</Speaker>||:이렇게까지 해야 해? 사신짱에게 넌 이제 필요 없어.+이간질이 아니야. 사신짱이 직접 말한 사실이야.
-Yurine(0)<Speaker>유리네</Speaker>||:......
-Yurine(6)<Speaker>유리네?</Speaker>||:너도 잘 알잖아? 사신짱이 얼마나 널 없애버리지 못해 안달인지.+그렇게 미움받으면서, 왜 이런 헛수고를 하려 해?
-Yurine(3)<Speaker>유리네</Speaker>||:내 삶에 참견 마.
-()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:유리네가 먼저 선제공격을 날렸다.+하지만 "유리네"는 진작에 예상했다는 듯 가볍게 그 공격을 피한 뒤 반격했다.
-Yurine(6)<Speaker>유리네?</Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:아하하하핫!+나는 그대, 그대는 나...
-Yurine(0)<Speaker>유리네</Speaker>||:......
-Yurine(6)<Speaker>유리네?</Speaker>||:네 움직임이라면 모조리 꿰고 있어.+네 눈꺼풀이 움찔하는 것만 봐도, 무슨 생각인지 다 알아!
-()||:유리네가 카운터 뒤에 숨은 사신짱을 흘겨보니, 어쩔 줄 몰라하는 눈치였다.+그 틈을 놓치지 않고, "유리네"가 유리네를 밀어냈다.
-Yurine(6)<Speaker>유리네?</Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:뭐야, 감성팔이 하는 거야? 늦었어.+그러게 왜 항상 사신짱한테 못되게 굴래?+나처럼 잘해 주고, 잘못을 저질러도 감싸 줬어야지.+남들이 모두 사신짱에게 질려서, 곁에 나만 남도록.
-Yurine(6);Yurine(3)<Speaker>유리네</Speaker>||:그러면 사신짱이 글러먹게 되어 버려.
-Yurine(6)<Speaker>유리네?</Speaker>;Yurine(3)||:상관없어♪+사신짱 곁에는 나만 있으면 돼.
-Yurine(6);Yurine(0)<Speaker>유리네</Speaker>||:넌 어차피 숙주에 들러붙어야만 존재할 수 있는 환상. 그러니까 그렇게 생각하는 게 유치찬란한 거야.
-Yurine(6)<Speaker>유리네?</Speaker>;Yurine(0)||:너는 사신짱이랑 영원히 함께하고 싶지 않아?
-Yurine(6);Yurine(0)<Speaker>유리네</Speaker>||:불가능하니까.+언젠가 나는 떠날 거고, 사신짱은 계속 살아가야 해.
-Yurine(6)<Speaker>유리네?</Speaker>;Yurine(0)||:응?
-Yurine(6);Yurine(0)<Speaker>유리네</Speaker>||:그러니까, 내가 없어져도 사신짱이 잘 살아갈 수 있도록 내가 책임져야 해.
-Yurine(6)<Speaker>유리네?</Speaker>;Yurine(0)||:......
-Yurine(6)<Speaker>유리네?</Speaker>||:후후후... 아하하하!+그게 우리가 다른 점인가 봐!+미안하게 됐어, 난 욕망으로 더 큰 힘을 얻었거든!
-()||:"유리네"가 마력으로 만들어낸 거대한 파도가 유리네를 덮쳤다.
-()||<SE1>AVG_20Winter_Chains_Break</SE1>:좁은 식당 안에 숨을 곳은 거의 없었기에, 유리네는 그대로 밀려나 벽에 부딪혔다.
-Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||<震屏>:유리네!!
-Yurine(6)<Speaker>유리네?</Speaker>||:걱정 마 사신짱, 금방 끝나.+끝나면 아무 일도 없었던 것처럼 내가 깔끔하게 다 정리할게.+그리고 둘이서 계속, 영원히 행복하고 즐겁게 살아가자.
-Jashinchan(6)<Speaker>사신짱</Speaker><Position>0,100</Position>||:유리네...
-Yurine(3)<Speaker>유리네</Speaker>||:......
-()||:사신짱이 카운터 뒤에서 걸어 나와, 걱정스런 눈으로 두 유리네를 번갈아 바라봤다.+우위를 점한 "유리네"가, 유리네에게 천천히 다가가 마무리를 지으려 했다.
-Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:어떡하죠... 어떡하면 좋죠?!
-()||:그때, 사신짱의 발에 뭔가가 걸렸다.+CZ75가 두고 간 책 봉투. "마도서 하권"이 든 그 봉투였다.
-Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:스토오옵! 타임, 타임! 둘 다 멈춰요!
-Yurine(6)<Speaker>유리네?</Speaker>||:왜 그래?
-Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:누가 진짜인지, 가려낼 방법을 찾았어요!
-()||:사신짱이 "마도서 하권"을 번쩍 들었다.
-Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:진짜 유리네만이 이 마도서에 적힌 귀환 주문으로 절 마계로 돌려보낼 수 있을 거예요!
-Yurine(0)<Speaker>유리네</Speaker>||:......
-Yurine(6)<Speaker>유리네?</Speaker>||:사신짱, 집이 그립구나?+사신짱이 원한다면 내가 뭐든지 이루어 줄게.
-Yurine(0)<Speaker>유리네</Speaker>||:불가능해.
-Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>;Yurine(0)||:네?
-Jashinchan(4)<Position>0,100</Position>;Yurine(0)<Speaker>유리네</Speaker>||:불가능하다고. 애당초 "마도서 하권"에는 귀환 주문이 안 적혀있어.+못 믿겠으면 직접 보던가.
-Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>;Yurine(0)|| <SE1>AVG_20Winter_Book</SE1>:......+"소환한 것을 돌려보내는 귀환 주문――"+"――은 여백이 부족하므로 '마도서 특별편'에 따로 적는다."
-Jashinchan(0)<Position>0,100</Position>;Yurine(0)<Speaker>유리네</Speaker>||<SE1>VO_Yurine_AGREE_JP</SE1>:미안해, 사신짱. 사실 "마도서 하권"은 한참 전에 찾아냈어. 거기에 귀환 주문이 안 적혀 있다는 것도 그래서 알았고.
-Yurine(0)<Speaker>유리네</Speaker>||:하지만 네가 그걸 받아들이지 못할까 봐, 적당히 기회를 봐서 말해 주려고 했었어.
-Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:......
-Yurine(6)<Speaker>유리네?</Speaker>||:사신짱, 그래도 상관없어. 다른 방법이 있잖아?+저 녀석만 없어지면, 넌 돌아갈 수 있어.
-()||:사신짱은 구석에 주저앉은 유리네를 멍하니 바라봤다. 왜 그녀가 이토록 불리한 타이밍에 진실을 말했는지 이해할 수 없었다.+한편 "유리네"는 불길한 미소를 띄우며 손바닥에 마력을 모았다.
-Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||<BGM>BGM_Empty</BGM>:<color=#A9A9A9>대체 무슨 생각인 거예요, 유리네?</color>
-()||<黑屏1>:지금 이곳은 사신짱의 홈그라운드나 다름없었기에, 아주 약간의 마력으로도 유리네의 기억을 영화 보듯 생생하게 재생할 수 있었다.
-()||<黑屏2><回忆><BIN>390</BIN><BGM>GF_Jyashinchan_Story_JSC</BGM>:언젠가의 마계 축제 시즌.
-Yurine(4)<Speaker>유리네</Speaker>||:사신짱, 왜 며칠 내내 집에만 있어?
-Jashinchan(2)<Speaker>사신짱</Speaker><Position>0,100</Position>||:마계에서 축제 있다고 모두 돌아갔어요.
-Yurine(0)<Speaker>유리네</Speaker>||:......+그럼 특별히 용돈 줄 테니까 뽑기 가게 가서 놀고 올래?
-Jashinchan(3)<Speaker>사신짱</Speaker><Position>0,100</Position>||:됐어요오...
-Yurine(4)<Speaker>유리네</Speaker>||:......
-()||:사신짱은 한여름에 녹아버린 아이스크림처럼 바닥에 늘어졌다.
-()||<SE1>AVG_20Winter_Book</SE1>:유리네는 슬며시 책장 앞으로 가, 소장한 마도서를 뒤져봤다.
-Yurine(0)<Speaker>유리네</Speaker>||<黑点1>:<color=#A9A9A9>며칠만이라도 좋으니까...</color>+<color=#A9A9A9>정말 며칠만이라도 되니까...</color>+<color=#A9A9A9>사신짱을 마계로 돌려보낼 방법을 찾아보자.</color>
-()||<黑点2>:그러던 어느날, 사신짱이 또 빠칭코에서 돈을 탕진하고 돌아왔다.
-Jashinchan(6)<Speaker>사신짱</Speaker><Position>0,100</Position>||:저어... 유리네? 저녁 재료 살 돈이 모자란데...
-Yurine(0)<Speaker>유리네</Speaker>||:보나마나 또 빠칭코 하다가 전부 날리고 왔지?
-Jashinchan(3)<Speaker>사신짱</Speaker><Position>0,100</Position>||:아아아니요!+그게 그러니까요!+어... 길을 가다 강아지를 봤는데!+저를 보자마자 달라붙어서 엄청 불쌍한 눈으로 애교를 부리는 거 아니겠어요!+그, 그래서! 차마 못 본 척할 수가 없어서 소시지를 열몇 개 사 줘버렸지 뭐예요!
-Yurine(3)<Speaker>유리네</Speaker>||:......
-()||:물론 거짓말이었다.
-Yurine(0)<Speaker>유리네</Speaker>||:...그랬구나.
-Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||:히이익! ......엥? 안 혼내요...?
-()||:유리네는 금방 포장을 뜯은 택배에서 삼지창을 꺼냈다.
-Jashinchan(6)<Speaker>사신짱</Speaker><Position>0,100</Position>||:끼야아아아아――
-()||:사신짱의 만행을 응징한 후, 유리네는 신문을 펼쳐 구인구직란을 살펴봤다.
-Yurine(0)<Speaker>유리네</Speaker>||:<color=#A9A9A9>역시, 사신짱을 기르려면 메이드 카페에서라도 일해야 하나...</color>
-()||<黑点1>:한숨을 푹 쉬며, 유리네는 빨간색 펜으로 신문의 아르바이트 정보에 동그라미를 쳤다.
-()||<黑点2>:유리네가 외출하는 사신짱 일행을 현관까지 배웅했다.
-Yurine(0)<Speaker>유리네</Speaker>||:사신짱, 이세계에서 불러온 애들이랑 잘 지냈으면 좋겠다.+그럼 메두사랑 미노스가 없을 때에도 덜 쓸쓸하겠지?
-()||:유리네가 잠깐 허공을 보며 웃다, 엉망진창이 된 집을 청소했다.
-Yurine(4)<Speaker>유리네</Speaker>||:...아, 숫자가 더 많아졌으니까 사신짱 용돈 모자라겠지?
-()||:유리네가 서랍을 열어 지갑을 확인했다.
-Yurine(0)<Speaker>유리네</Speaker>||:음... 사신짱의 지갑 사정을 걱정할 때가 아닌걸...
-()||:허전한 지갑에 남은 동전 몇 푼이, 유리네의 씁쓸한 미소를 비췄다.
-Yurine(0)<Speaker>유리네</Speaker>||<黑屏1>:아르바이트, 힘내자.
-Jashinchan(6)<Speaker>사신짱</Speaker><Position>0,100</Position>||<黑屏2><关闭蒙版><BGM>BGM_Empty</BGM><BIN>381</BIN>:............
-Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||<BGM>GF_Jyashinchan_Battle_1</BGM><黑屏1>:<size=50>유리네에에!!</size>+<size=50>유리네――!!</size>
-()<Speaker>사신짱</Speaker>||<黑屏2><BIN>379</BIN>:원한 청산은 잠시 미뤄 두겠어요!+마계에 못 돌아가는 것도 지긋지긋하고, 항상 두들겨 맞는 것도 진절머리나지만! 모자이크만은 절대 지울 수 없어요!+"사신짱 전선"의 메인 히로인 자리도 양보하겠어요!+당신은 계속해서 이 사신짱의 파트너예요, 유리네!+그러니까 앞으로도 잘 부탁해요!!!
-()<Speaker>사신짱</Speaker>||<黑屏1><SE1>VO_Jashinchan_SKILL1_JP</SE1>:<size=60>사신짱 드롭킥!!!</size>
-Yurine(6)<Speaker>유리네?</Speaker>||<黑屏2><BIN>381</BIN>:어머 사신짱, 금방 끝난대도?+그냥 구경만 해도 되는데♪
-Yurine(4)<Speaker>유리네</Speaker>||:......
-()||<SE1>AVG_XXS_kick</SE1>:사신짱의 드롭킥이 "유리네"에게 정확하게 명중했다.
-Yurine(7)<Speaker>유리네?</Speaker>||<BGM>BGM_Empty</BGM>:커헉...+사신짱... 어째서...?!
-Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:잘 가라, "유리네"!!
-Yurine(7)<Speaker>유리네?</Speaker>||:어째서... 어째서...
-()||:"유리네"는 도저히 이해할 수 없다는 표정으로 검은 연기가 되어 사라졌다.
-Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||<BGM>GF_Jyashinchan_Story_JSC</BGM>:유리네! 무사하죠?!
-Yurine(5)<Speaker>유리네</Speaker>||:응.
-()||:"유리네"가 사라지면서, 붉은 마력의 소용돌이도 흩어져 갔다.
-Jashinchan(6)<Speaker>사신짱</Speaker><Position>0,100</Position>||:흐어엉... 미안해요 유리네에...
-Yurine(5)<Speaker>유리네</Speaker>||:괜찮대도.
-Jashinchan(6)<Speaker>사신짱</Speaker><Position>0,100</Position>||:흐으응...!+유리네!!
-()||:상냥하게 미소짓는 유리네에게, 사신짱이 눈물 콧물 다 흘리며 달려갔다.
-Jashinchan(6)<Speaker>사신짱</Speaker><Position>0,100</Position>||:유우우리이이네에에――!!
-Yurine(5)<Speaker>유리네</Speaker>||<黑屏1>:사신짱...
-()||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:상냥하게 웃는 유리네...의 손에, 어느샌가 전기톱이 들려 있었다.
-()<Speaker>사신짱</Speaker>||:헉?!
-()<Speaker>유리네</Speaker>||<SE1>VO_Yurine_LOWMOOD_JP</SE1>:잘못한 벌은 받아야지?
-()<Speaker>사신짱</Speaker>||<SE1>VO_Jashinchan_APPRECIATE_JP</SE1><黑屏1>:끼야아아아아아악!!!
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>385</BIN><common_effect>%%code=RedScreen%%</common_effect>:"사신짱 반점"의 입구.
+Yurine(4)<Speaker>유리네</Speaker>||<黑屏1>:...사신짱 반점?
+Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||<黑屏2><BIN>390</BIN><关闭蒙版><边框>2</边框><BGM>GF_Jyashinchan_Story_Jinbouchou</BGM>:어때요 어때요~? 이번 창작 요리도 맛 쥑이죠?
+Yurine(5)<Speaker>유리네</Speaker>||<边框>2</边框>:응, 엄청 맛있어!
+Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||<边框>2</边框>:헤헤~ 역시 그렇죠~♪
+()||<边框>2</边框>:사신짱은 콧노래를 부르며 신나게 설거지를 하는중이었다.
+Yurine(5)<Speaker>유리네</Speaker>||<边框>2</边框>:그런데 사신짱, 이렇게 요리를 잘하는데 식당 차려볼 생각은 안 해봤어?
+Yurine(5);Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||<边框>2</边框>:식당이요? 그거 괜찮겠네요, 제 실력이면 돈도 왕창 벌 수 있을 거예요!
+Yurine(5);Jashinchan(7)<Speaker>사신짱</Speaker><Position>0,100</Position>||<边框>2</边框>:후후훗... 아마 그 망할 유사 코지보다 수십, 아니 수백, 아니 수천 배는 더 벌어들일걸요?
+Yurine(0)<Speaker>유리네</Speaker>;Jashinchan(7)<Position>0,100</Position>||<边框>2</边框>:......+진보초의 명물 맛집이 될 수도 있겠지.
+Yurine(0);Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||<边框>2</边框>:와우, 그거 좋네요!+그래도 싫어요.
+Yurine(4)<Speaker>유리네</Speaker>;Jashinchan(5)<Position>0,100</Position>||<边框>2</边框>:응? 왜?
+Yurine(4);Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||<边框>2</边框>:저는 제가 하고 싶을 때에만 요리할 거예요.+그런데 식당을 차리면 마음대로 못하게 되잖아요.
+Yurine(5)<Speaker>유리네</Speaker>;Jashinchan(4)<Position>0,100</Position>||<边框>2</边框>:그러니까, 사신짱은 자기가 요리해 주고 싶은 사람에게만 요리해 준다는 거구나?
+Yurine(5);Jashinchan(3)<Speaker>사신짱</Speaker><Position>0,100</Position>||<边框>2</边框>:그그그게 무슨 소리예요!!
+Jashinchan(3)<Speaker>사신짱</Speaker><Position>0,100</Position>||<边框>2</边框>:함부로 기어오르지 말라고요!
+()||<边框>2</边框><黑屏1>:투덜거리는 사신짱의 뒷모습을 보며, 유리네는 싱긋 웃곤 국물을 마셨다.
+()||<黑屏2><BIN>385</BIN><common_effect>%%code=RedScreen%%</common_effect><BGM>BGM_Empty</BGM>:유리네는 우아한 동작으로 치마자락을 들고 식당의 계단을 올랐다.
+()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:그리고 안내하려던 마물 웨이터를 단칼에 베어버렸다.
+Yurine(0)<Speaker>유리네</Speaker>||:......+사신짱, 지금 갈게.
+()||<SE1>AVG_Door_Hit</SE1><黑屏1>:유리네가 식당 현관문을 발로 뻥 차 열었다.
+()||<黑屏2><关闭蒙版><BIN>381</BIN><BGM>GF_Cafe</BGM>:휴식 시간인지, 식당 안에는 손님이 거의 없었다.+사신짱도 어느 식탁 앞에 앉아 얼굴에 팔을 괸 채, 행복한 얼굴로 유리네가 주는 음식을 받아먹었다.+..."유리네"?
+Yurine(3)<Speaker>유리네</Speaker>||:사신짱, 설명해 줄래?
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:유, 유리네?! 유리네가 두 명!?
+Yurine(6)<Speaker>유리네?</Speaker>||:사신짱, 왜 그래?+국물 흘렸잖아.
+()||:사신짱 앞의 "유리네"가 친절하게 손수건으로 사신짱 몸에 묻은 국물을 닦아 주었다.
+Yurine(6)<Speaker>유리네?</Speaker>||:아, 손님이 왔구나.+죄송하지만 지금은 휴식 시간이랍니다.
+Yurine(6);Yurine(3)<Speaker>유리네</Speaker>||:......+너, 누구야?
+Yurine(6)<Speaker>유리네?</Speaker>;Yurine(3)||:자기소개가 늦었네. 내 이름은 유리네, 사신짱의 동거인이자 이 사신짱 반점의 동업자야.
+Yurine(6);Yurine(3)<Speaker>유리네</Speaker>||:오? 사신짱, 제법이구나. 이렇게 빨리 동업자까지 찾아 식당을 열다니.
+Yurine(6);Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:더... 더블 유리네... 이건... 대체 어느 쪽이 진짜예요?
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:어떻게 된 건지 하나도 모르겠사와요...
+Yurine(6)<Speaker>유리네?</Speaker>||:안심해, 사신짱. 내가 지켜 줄게.
+Yurine(3)<Speaker>유리네</Speaker>||<BGM>BGM_Empty</BGM>:더 말할 것도 없겠네. 덤벼.
+()||<BGM>GF_Jyashinchan_Battle_1</BGM>:유리네가 살기등등하게 무기를 꺼내 들었고, "유리네"도 전혀 겁먹지 않고 앞으로 나왔다.
+Yurine(6)<Speaker>유리네?</Speaker>||:이렇게까지 해야 해? 사신짱에게 넌 이제 필요 없어.+이간질이 아니야. 사신짱이 직접 말한 사실이야.
+Yurine(0)<Speaker>유리네</Speaker>||:......
+Yurine(6)<Speaker>유리네?</Speaker>||:너도 잘 알잖아? 사신짱이 얼마나 널 없애버리지 못해 안달인지.+그렇게 미움받으면서, 왜 이런 헛수고를 하려 해?
+Yurine(3)<Speaker>유리네</Speaker>||:내 삶에 참견 마.
+()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:유리네가 먼저 선제공격을 날렸다.+하지만 "유리네"는 진작에 예상했다는 듯 가볍게 그 공격을 피한 뒤 반격했다.
+Yurine(6)<Speaker>유리네?</Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:아하하하핫!+나는 그대, 그대는 나...
+Yurine(0)<Speaker>유리네</Speaker>||:......
+Yurine(6)<Speaker>유리네?</Speaker>||:네 움직임이라면 모조리 꿰고 있어.+네 눈꺼풀이 움찔하는 것만 봐도, 무슨 생각인지 다 알아!
+()||:유리네가 카운터 뒤에 숨은 사신짱을 흘겨보니, 어쩔 줄 몰라하는 눈치였다.+그 틈을 놓치지 않고, "유리네"가 유리네를 밀어냈다.
+Yurine(6)<Speaker>유리네?</Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:뭐야, 감성팔이 하는 거야? 늦었어.+그러게 왜 항상 사신짱한테 못되게 굴래?+나처럼 잘해 주고, 잘못을 저질러도 감싸 줬어야지.+남들이 모두 사신짱에게 질려서, 곁에 나만 남도록.
+Yurine(6);Yurine(3)<Speaker>유리네</Speaker>||:그러면 사신짱이 글러먹게 되어 버려.
+Yurine(6)<Speaker>유리네?</Speaker>;Yurine(3)||:상관없어♪+사신짱 곁에는 나만 있으면 돼.
+Yurine(6);Yurine(0)<Speaker>유리네</Speaker>||:넌 어차피 숙주에 들러붙어야만 존재할 수 있는 환상. 그러니까 그렇게 생각하는 게 유치찬란한 거야.
+Yurine(6)<Speaker>유리네?</Speaker>;Yurine(0)||:너는 사신짱이랑 영원히 함께하고 싶지 않아?
+Yurine(6);Yurine(0)<Speaker>유리네</Speaker>||:불가능하니까.+언젠가 나는 떠날 거고, 사신짱은 계속 살아가야 해.
+Yurine(6)<Speaker>유리네?</Speaker>;Yurine(0)||:응?
+Yurine(6);Yurine(0)<Speaker>유리네</Speaker>||:그러니까, 내가 없어져도 사신짱이 잘 살아갈 수 있도록 내가 책임져야 해.
+Yurine(6)<Speaker>유리네?</Speaker>;Yurine(0)||:......
+Yurine(6)<Speaker>유리네?</Speaker>||:후후후... 아하하하!+그게 우리가 다른 점인가 봐!+미안하게 됐어, 난 욕망으로 더 큰 힘을 얻었거든!
+()||:"유리네"가 마력으로 만들어낸 거대한 파도가 유리네를 덮쳤다.
+()||<SE1>AVG_20Winter_Chains_Break</SE1>:좁은 식당 안에 숨을 곳은 거의 없었기에, 유리네는 그대로 밀려나 벽에 부딪혔다.
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||<震屏>:유리네!!
+Yurine(6)<Speaker>유리네?</Speaker>||:걱정 마 사신짱, 금방 끝나.+끝나면 아무 일도 없었던 것처럼 내가 깔끔하게 다 정리할게.+그리고 둘이서 계속, 영원히 행복하고 즐겁게 살아가자.
+Jashinchan(6)<Speaker>사신짱</Speaker><Position>0,100</Position>||:유리네...
+Yurine(3)<Speaker>유리네</Speaker>||:......
+()||:사신짱이 카운터 뒤에서 걸어 나와, 걱정스런 눈으로 두 유리네를 번갈아 바라봤다.+우위를 점한 "유리네"가, 유리네에게 천천히 다가가 마무리를 지으려 했다.
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:어떡하죠... 어떡하면 좋죠?!
+()||:그때, 사신짱의 발에 뭔가가 걸렸다.+CZ75가 두고 간 책 봉투. "마도서 하권"이 든 그 봉투였다.
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:스토오옵! 타임, 타임! 둘 다 멈춰요!
+Yurine(6)<Speaker>유리네?</Speaker>||:왜 그래?
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:누가 진짜인지, 가려낼 방법을 찾았어요!
+()||:사신짱이 "마도서 하권"을 번쩍 들었다.
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:진짜 유리네만이 이 마도서에 적힌 귀환 주문으로 절 마계로 돌려보낼 수 있을 거예요!
+Yurine(0)<Speaker>유리네</Speaker>||:......
+Yurine(6)<Speaker>유리네?</Speaker>||:사신짱, 집이 그립구나?+사신짱이 원한다면 내가 뭐든지 이루어 줄게.
+Yurine(0)<Speaker>유리네</Speaker>||:불가능해.
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>;Yurine(0)||:네?
+Jashinchan(4)<Position>0,100</Position>;Yurine(0)<Speaker>유리네</Speaker>||:불가능하다고. 애당초 "마도서 하권"에는 귀환 주문이 안 적혀있어.+못 믿겠으면 직접 보던가.
+Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>;Yurine(0)|| <SE1>AVG_20Winter_Book</SE1>:......+"소환한 것을 돌려보내는 귀환 주문――"+"――은 여백이 부족하므로 '마도서 특별편'에 따로 적는다."
+Jashinchan(0)<Position>0,100</Position>;Yurine(0)<Speaker>유리네</Speaker>||<SE1>VO_Yurine_AGREE_JP</SE1>:미안해, 사신짱. 사실 "마도서 하권"은 한참 전에 찾아냈어. 거기에 귀환 주문이 안 적혀 있다는 것도 그래서 알았고.
+Yurine(0)<Speaker>유리네</Speaker>||:하지만 네가 그걸 받아들이지 못할까 봐, 적당히 기회를 봐서 말해 주려고 했었어.
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:......
+Yurine(6)<Speaker>유리네?</Speaker>||:사신짱, 그래도 상관없어. 다른 방법이 있잖아?+저 녀석만 없어지면, 넌 돌아갈 수 있어.
+()||:사신짱은 구석에 주저앉은 유리네를 멍하니 바라봤다. 왜 그녀가 이토록 불리한 타이밍에 진실을 말했는지 이해할 수 없었다.+한편 "유리네"는 불길한 미소를 띄우며 손바닥에 마력을 모았다.
+Jashinchan(0)<Speaker>사신짱</Speaker><Position>0,100</Position>||<BGM>BGM_Empty</BGM>:<color=#A9A9A9>대체 무슨 생각인 거예요, 유리네?</color>
+()||<黑屏1>:지금 이곳은 사신짱의 홈그라운드나 다름없었기에, 아주 약간의 마력으로도 유리네의 기억을 영화 보듯 생생하게 재생할 수 있었다.
+()||<黑屏2><回忆><BIN>390</BIN><BGM>GF_Jyashinchan_Story_JSC</BGM>:언젠가의 마계 축제 시즌.
+Yurine(4)<Speaker>유리네</Speaker>||:사신짱, 왜 며칠 내내 집에만 있어?
+Jashinchan(2)<Speaker>사신짱</Speaker><Position>0,100</Position>||:마계에서 축제 있다고 모두 돌아갔어요.
+Yurine(0)<Speaker>유리네</Speaker>||:......+그럼 특별히 용돈 줄 테니까 뽑기 가게 가서 놀고 올래?
+Jashinchan(3)<Speaker>사신짱</Speaker><Position>0,100</Position>||:됐어요오...
+Yurine(4)<Speaker>유리네</Speaker>||:......
+()||:사신짱은 한여름에 녹아버린 아이스크림처럼 바닥에 늘어졌다.
+()||<SE1>AVG_20Winter_Book</SE1>:유리네는 슬며시 책장 앞으로 가, 소장한 마도서를 뒤져봤다.
+Yurine(0)<Speaker>유리네</Speaker>||<黑点1>:<color=#A9A9A9>며칠만이라도 좋으니까...</color>+<color=#A9A9A9>정말 며칠만이라도 되니까...</color>+<color=#A9A9A9>사신짱을 마계로 돌려보낼 방법을 찾아보자.</color>
+()||<黑点2>:그러던 어느날, 사신짱이 또 빠칭코에서 돈을 탕진하고 돌아왔다.
+Jashinchan(6)<Speaker>사신짱</Speaker><Position>0,100</Position>||:저어... 유리네? 저녁 재료 살 돈이 모자란데...
+Yurine(0)<Speaker>유리네</Speaker>||:보나마나 또 빠칭코 하다가 전부 날리고 왔지?
+Jashinchan(3)<Speaker>사신짱</Speaker><Position>0,100</Position>||:아아아니요!+그게 그러니까요!+어... 길을 가다 강아지를 봤는데!+저를 보자마자 달라붙어서 엄청 불쌍한 눈으로 애교를 부리는 거 아니겠어요!+그, 그래서! 차마 못 본 척할 수가 없어서 소시지를 열몇 개 사 줘버렸지 뭐예요!
+Yurine(3)<Speaker>유리네</Speaker>||:......
+()||:물론 거짓말이었다.
+Yurine(0)<Speaker>유리네</Speaker>||:...그랬구나.
+Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||:히이익! ......엥? 안 혼내요...?
+()||:유리네는 금방 포장을 뜯은 택배에서 삼지창을 꺼냈다.
+Jashinchan(6)<Speaker>사신짱</Speaker><Position>0,100</Position>||:끼야아아아아――
+()||:사신짱의 만행을 응징한 후, 유리네는 신문을 펼쳐 구인구직란을 살펴봤다.
+Yurine(0)<Speaker>유리네</Speaker>||:<color=#A9A9A9>역시, 사신짱을 기르려면 메이드 카페에서라도 일해야 하나...</color>
+()||<黑点1>:한숨을 푹 쉬며, 유리네는 빨간색 펜으로 신문의 아르바이트 정보에 동그라미를 쳤다.
+()||<黑点2>:유리네가 외출하는 사신짱 일행을 현관까지 배웅했다.
+Yurine(0)<Speaker>유리네</Speaker>||:사신짱, 이세계에서 불러온 애들이랑 잘 지냈으면 좋겠다.+그럼 메두사랑 미노스가 없을 때에도 덜 쓸쓸하겠지?
+()||:유리네가 잠깐 허공을 보며 웃다, 엉망진창이 된 집을 청소했다.
+Yurine(4)<Speaker>유리네</Speaker>||:...아, 숫자가 더 많아졌으니까 사신짱 용돈 모자라겠지?
+()||:유리네가 서랍을 열어 지갑을 확인했다.
+Yurine(0)<Speaker>유리네</Speaker>||:음... 사신짱의 지갑 사정을 걱정할 때가 아닌걸...
+()||:허전한 지갑에 남은 동전 몇 푼이, 유리네의 씁쓸한 미소를 비췄다.
+Yurine(0)<Speaker>유리네</Speaker>||<黑屏1>:아르바이트, 힘내자.
+Jashinchan(6)<Speaker>사신짱</Speaker><Position>0,100</Position>||<黑屏2><关闭蒙版><BGM>BGM_Empty</BGM><BIN>381</BIN>:............
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||<BGM>GF_Jyashinchan_Battle_1</BGM><黑屏1>:<size=50>유리네에에!!</size>+<size=50>유리네――!!</size>
+()<Speaker>사신짱</Speaker>||<黑屏2><BIN>379</BIN>:원한 청산은 잠시 미뤄 두겠어요!+마계에 못 돌아가는 것도 지긋지긋하고, 항상 두들겨 맞는 것도 진절머리나지만! 모자이크만은 절대 지울 수 없어요!+"사신짱 전선"의 메인 히로인 자리도 양보하겠어요!+당신은 계속해서 이 사신짱의 파트너예요, 유리네!+그러니까 앞으로도 잘 부탁해요!!!
+()<Speaker>사신짱</Speaker>||<黑屏1><SE1>VO_Jashinchan_SKILL1_JP</SE1>:<size=60>사신짱 드롭킥!!!</size>
+Yurine(6)<Speaker>유리네?</Speaker>||<黑屏2><BIN>381</BIN>:어머 사신짱, 금방 끝난대도?+그냥 구경만 해도 되는데♪
+Yurine(4)<Speaker>유리네</Speaker>||:......
+()||<SE1>AVG_XXS_kick</SE1>:사신짱의 드롭킥이 "유리네"에게 정확하게 명중했다.
+Yurine(7)<Speaker>유리네?</Speaker>||<BGM>BGM_Empty</BGM>:커헉...+사신짱... 어째서...?!
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||:잘 가라, "유리네"!!
+Yurine(7)<Speaker>유리네?</Speaker>||:어째서... 어째서...
+()||:"유리네"는 도저히 이해할 수 없다는 표정으로 검은 연기가 되어 사라졌다.
+Jashinchan(4)<Speaker>사신짱</Speaker><Position>0,100</Position>||<BGM>GF_Jyashinchan_Story_JSC</BGM>:유리네! 무사하죠?!
+Yurine(5)<Speaker>유리네</Speaker>||:응.
+()||:"유리네"가 사라지면서, 붉은 마력의 소용돌이도 흩어져 갔다.
+Jashinchan(6)<Speaker>사신짱</Speaker><Position>0,100</Position>||:흐어엉... 미안해요 유리네에...
+Yurine(5)<Speaker>유리네</Speaker>||:괜찮대도.
+Jashinchan(6)<Speaker>사신짱</Speaker><Position>0,100</Position>||:흐으응...!+유리네!!
+()||:상냥하게 미소짓는 유리네에게, 사신짱이 눈물 콧물 다 흘리며 달려갔다.
+Jashinchan(6)<Speaker>사신짱</Speaker><Position>0,100</Position>||:유우우리이이네에에――!!
+Yurine(5)<Speaker>유리네</Speaker>||<黑屏1>:사신짱...
+()||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:상냥하게 웃는 유리네...의 손에, 어느샌가 전기톱이 들려 있었다.
+()<Speaker>사신짱</Speaker>||:헉?!
+()<Speaker>유리네</Speaker>||<SE1>VO_Yurine_LOWMOOD_JP</SE1>:잘못한 벌은 받아야지?
+()<Speaker>사신짱</Speaker>||<SE1>VO_Jashinchan_APPRECIATE_JP</SE1><黑屏1>:끼야아아아아아악!!!

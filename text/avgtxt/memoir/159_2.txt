@@ -1,46 +1,46 @@
-()||<BIN>9</BIN><黑屏1>7,17</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Wake</BGM>:RMB-93가 눈을 떴지만, 아무것도 보이지 않았다.
-RMB93(7)<Speaker>RMB93</Speaker>||<黑屏1>:무거워... 목에 뭔가 걸린 거 같은데...+눈도 안 보여... 감각 시스템이 고장났나...?
-()<Speaker>RMB93</Speaker>||<黑屏2><BIN>9</BIN>:아니야... 고장은 아니야, 소리는 들려. 그런데 왜... 내가 꿈을 꾸고 있는 걸까?
-()||<BIN>9</BIN><SE1>Explode</SE1>:콰아아아...
-()||<BIN>9</BIN>:거대한 폭발은 먼지를 일으켰고, 충격파는 화이트존까지 퍼졌다.
-()<Speaker>RMB93</Speaker>||<BIN>9</BIN>:임무는 완수하지 못했네... 그래도, 실패는 아니겠지.
-()<Speaker></Speaker>||<BIN>9</BIN><SE1>Heartbeat</SE1><SE1>AVG_Water_Drip</SE1><SE1>AVG_21Winter_Clock</SE1>:어둠 속으로, 붉은 별 장식의 펜던트가 떨어졌다.
-()<Speaker></Speaker>||<BIN>9</BIN>:테스트 2.+당신은 인정받지 못할 선택으로 인한 결과를, 홀로 짊어질 각오가 되었습니까?
-RMB93(7)<Speaker>RMB93</Speaker>||<黑屏1>:인정받지 못할 선택...
-()||<黑屏2><BIN>8</BIN><BGM>BGM_Empty</BGM>:그리폰 작전 자료실.
-()<Speaker>위클리 그리폰</Speaker>||<BGM>BGM_Sad</BGM>:전일 C3 지역 그린존을 겨냥한 테러 공격 직후, 무장 집단 "레퀴엠"이 해당 공격은 자신들의 소행임을 밝히는 성명을 발표했습니다.+이 테러 공격으로 정화 시설이 마비되어, 그린존의 오염도가 급상승해 옐로우존으로 격하될 위기에 당면했습니다.+무장 집단 "레퀴엠"은 비교적 최근 결성된 무장 집단으로, 사건 직후 오염도가 비교적 낮은 지대에서 그린존으로의 입경이 거부당한 난민들까지 조직에 가담하고 있다고 합니다.+해당 이슈에 관한 최신 정보는 입수하는대로 즉각 보도하겠습니다. 이어서――
-NPC-Kalin(5)<Speaker>카리나</Speaker>||:완전 실패야...?
-NPC-Kalin(5);M1887(2)<Speaker>M1887</Speaker>||:좀 있으면 RMB가 보고하러 올 거야. 녀석이 자기가 한 짓을 어떻게 생각하는지, 나도 좀 들어봐야겠어.+...아직 제정신이길 바라야겠지만.
-NPC-Kalin(4)<Speaker>카리나</Speaker>;M1887(2)||:마인드맵 검진은 우리에겐 몇 분이지만, 당사자인 RMB에겐...
-NPC-Kalin(4);M1887(2)<Speaker>M1887</Speaker>||:뭐 어때, 정밀 검진으로 자신이 무슨 잘못을 저질렀는지 되돌아볼 수 있는데.+하지만... 명령 불복종 자체가 녀석의 마인드맵에 문제가 있단 뜻이야.
-()<Speaker></Speaker>||:그때, 자동문이 열리고 RMB-93이 들어왔다.
-RMB93(7)<Speaker>RMB93</Speaker>||:나... 얼마나 오래 잤어?
-M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:오래는 아니야. 마침 잘 왔어.
-M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:...무슨 일이야?
-M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:아무 일도. 너야말로, 대체 어떻게 된 일인지나 말해 봐.
-M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:그, 그 여자애가...
-M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:틀렸어, 지금 물은 건 네가 명령에 불복종하고 독단적으로 행동한 것에 대해서야. 방금 뉴스, 너도 봤겠지?
-M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:......
-M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:이상하네. 카리나, RMB가 평소와 좀 다른 점 있지 않아?
-NPC-Kalin(2)<Speaker>카리나</Speaker>;RMB93(7)||:응? 으음... 아, RMB 너 목걸인 어디에...?
-NPC-Kalin(2);RMB93(7)<Speaker>RMB93</Speaker>||:......
-M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:잃어버렸어? 하아...
-M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:아마... 내가 구해준 여자애가 아직 갖고 있을 거야. 그 앤 어떻게 됐어? 안전한 곳에 보냈어? 크게 다치진 않았고?
-M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:...폭탄을 해체했으면서 그 다음 무슨 일이 있었는지 몰라?
-M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:기... 기억이 안 나... 그때 기습을 당한 듯한 것만...
-M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:너 때문에 C3 그린존의 정화 시설이 파괴됐어. 그 여자애 하나 구하겠다고 임무를 망치고 수많은 사람들을 위험에 빠뜨렸어.
-M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:뭐야, 내 판단에 불만이야?+그렇다고 그냥 떠났으면 그 여자애는 분명 죽었어!+인형으로서 절대 그렇게는 못 해!
-M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:그건 우리의 계획이 아니었어!
-M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:그럼 너였으면 어쨌을 건데!?
-M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:카리나.
-M1887(2);NPC-Kalin(5)<Speaker>카리나</Speaker>||:아니, 말하지 마... RMB도 심란할 거야.
-M1887(2)<Speaker>M1887</Speaker>;NPC-Kalin(6)||:어차피 알게 될 일인걸. 오히려 나중에 알면 더 괴로울걸?
-M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:뭐, 뭔데...?
-M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:그 여자애.
-M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:...?
-M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:레퀴엠과 한패였어.
-M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:......!!!
-M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||<黑屏1>:넌 명령을 어기고 그 엉터리 계획을 한 직후, 그 여자애한테 급소를 당했어.
-RMB93(7)<Speaker>RMB93</Speaker>||<黑屏2><BIN>9</BIN>:어... 어떻게...
-RMB93(7)<Speaker>RMB93</Speaker>||<BIN>9</BIN><黑屏1><BGM>BGM_Empty</BGM>:그럴... 리가...+그럼... 내가 잘못한...?
+()||<BIN>9</BIN><黑屏1>7,17</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Wake</BGM>:RMB-93가 눈을 떴지만, 아무것도 보이지 않았다.
+RMB93(7)<Speaker>RMB93</Speaker>||<黑屏1>:무거워... 목에 뭔가 걸린 거 같은데...+눈도 안 보여... 감각 시스템이 고장났나...?
+()<Speaker>RMB93</Speaker>||<黑屏2><BIN>9</BIN>:아니야... 고장은 아니야, 소리는 들려. 그런데 왜... 내가 꿈을 꾸고 있는 걸까?
+()||<BIN>9</BIN><SE1>Explode</SE1>:콰아아아...
+()||<BIN>9</BIN>:거대한 폭발은 먼지를 일으켰고, 충격파는 화이트존까지 퍼졌다.
+()<Speaker>RMB93</Speaker>||<BIN>9</BIN>:임무는 완수하지 못했네... 그래도, 실패는 아니겠지.
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>Heartbeat</SE1><SE1>AVG_Water_Drip</SE1><SE1>AVG_21Winter_Clock</SE1>:어둠 속으로, 붉은 별 장식의 펜던트가 떨어졌다.
+()<Speaker></Speaker>||<BIN>9</BIN>:테스트 2.+당신은 인정받지 못할 선택으로 인한 결과를, 홀로 짊어질 각오가 되었습니까?
+RMB93(7)<Speaker>RMB93</Speaker>||<黑屏1>:인정받지 못할 선택...
+()||<黑屏2><BIN>8</BIN><BGM>BGM_Empty</BGM>:그리폰 작전 자료실.
+()<Speaker>위클리 그리폰</Speaker>||<BGM>BGM_Sad</BGM>:전일 C3 지역 그린존을 겨냥한 테러 공격 직후, 무장 집단 "레퀴엠"이 해당 공격은 자신들의 소행임을 밝히는 성명을 발표했습니다.+이 테러 공격으로 정화 시설이 마비되어, 그린존의 오염도가 급상승해 옐로우존으로 격하될 위기에 당면했습니다.+무장 집단 "레퀴엠"은 비교적 최근 결성된 무장 집단으로, 사건 직후 오염도가 비교적 낮은 지대에서 그린존으로의 입경이 거부당한 난민들까지 조직에 가담하고 있다고 합니다.+해당 이슈에 관한 최신 정보는 입수하는대로 즉각 보도하겠습니다. 이어서――
+NPC-Kalin(5)<Speaker>카리나</Speaker>||:완전 실패야...?
+NPC-Kalin(5);M1887(2)<Speaker>M1887</Speaker>||:좀 있으면 RMB가 보고하러 올 거야. 녀석이 자기가 한 짓을 어떻게 생각하는지, 나도 좀 들어봐야겠어.+...아직 제정신이길 바라야겠지만.
+NPC-Kalin(4)<Speaker>카리나</Speaker>;M1887(2)||:마인드맵 검진은 우리에겐 몇 분이지만, 당사자인 RMB에겐...
+NPC-Kalin(4);M1887(2)<Speaker>M1887</Speaker>||:뭐 어때, 정밀 검진으로 자신이 무슨 잘못을 저질렀는지 되돌아볼 수 있는데.+하지만... 명령 불복종 자체가 녀석의 마인드맵에 문제가 있단 뜻이야.
+()<Speaker></Speaker>||:그때, 자동문이 열리고 RMB-93이 들어왔다.
+RMB93(7)<Speaker>RMB93</Speaker>||:나... 얼마나 오래 잤어?
+M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:오래는 아니야. 마침 잘 왔어.
+M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:...무슨 일이야?
+M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:아무 일도. 너야말로, 대체 어떻게 된 일인지나 말해 봐.
+M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:그, 그 여자애가...
+M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:틀렸어, 지금 물은 건 네가 명령에 불복종하고 독단적으로 행동한 것에 대해서야. 방금 뉴스, 너도 봤겠지?
+M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:......
+M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:이상하네. 카리나, RMB가 평소와 좀 다른 점 있지 않아?
+NPC-Kalin(2)<Speaker>카리나</Speaker>;RMB93(7)||:응? 으음... 아, RMB 너 목걸인 어디에...?
+NPC-Kalin(2);RMB93(7)<Speaker>RMB93</Speaker>||:......
+M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:잃어버렸어? 하아...
+M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:아마... 내가 구해준 여자애가 아직 갖고 있을 거야. 그 앤 어떻게 됐어? 안전한 곳에 보냈어? 크게 다치진 않았고?
+M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:...폭탄을 해체했으면서 그 다음 무슨 일이 있었는지 몰라?
+M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:기... 기억이 안 나... 그때 기습을 당한 듯한 것만...
+M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:너 때문에 C3 그린존의 정화 시설이 파괴됐어. 그 여자애 하나 구하겠다고 임무를 망치고 수많은 사람들을 위험에 빠뜨렸어.
+M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:뭐야, 내 판단에 불만이야?+그렇다고 그냥 떠났으면 그 여자애는 분명 죽었어!+인형으로서 절대 그렇게는 못 해!
+M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:그건 우리의 계획이 아니었어!
+M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:그럼 너였으면 어쨌을 건데!?
+M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:카리나.
+M1887(2);NPC-Kalin(5)<Speaker>카리나</Speaker>||:아니, 말하지 마... RMB도 심란할 거야.
+M1887(2)<Speaker>M1887</Speaker>;NPC-Kalin(6)||:어차피 알게 될 일인걸. 오히려 나중에 알면 더 괴로울걸?
+M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:뭐, 뭔데...?
+M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:그 여자애.
+M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:...?
+M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||:레퀴엠과 한패였어.
+M1887(2);RMB93(7)<Speaker>RMB93</Speaker>||:......!!!
+M1887(2)<Speaker>M1887</Speaker>;RMB93(7)||<黑屏1>:넌 명령을 어기고 그 엉터리 계획을 한 직후, 그 여자애한테 급소를 당했어.
+RMB93(7)<Speaker>RMB93</Speaker>||<黑屏2><BIN>9</BIN>:어... 어떻게...
+RMB93(7)<Speaker>RMB93</Speaker>||<BIN>9</BIN><黑屏1><BGM>BGM_Empty</BGM>:그럴... 리가...+그럼... 내가 잘못한...?

@@ -1,124 +1,124 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>288</BIN><BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM>:조금 전, UN 플라자.+과거에 세계 평화를 위해 각국 정상들이 모이던 이 장소는, 지금은 LMB 부대가 점령해 군사 요새로 완전히 개조되었다.+하지만 이곳의 병력은 말끔하게 소탕된 상태였고, 마침 도착한 UMP45도 광장에서 지금까지 무전기로 자신들을 지시하던 "요원 NPC"를 발견했다.<下雪></下雪>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:안녕, 너 먼저 와 있었구나?+하긴, 전부터 네가 어디 있길래 도와주러 못 온다고 하나 했어.+역시 골에서 기다리고 있었구나.
-UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:엑, 왜 하필이면...!
-UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:응? 하필이라니?+내가 오면 안 되는 이유라도 있어?+나한테 불만이라도 있는 것 같다?
-UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:아, 아아, 아닙니다 요원님!+그런데 다른 요원님은요? 같이 안 왔나요? 제가 알기론 당신도 팀을 짜고 있었을 텐데요.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:나밖에 안 왔어, 그리고 승자도 나밖에 없지.+플레어 건 너한테 있지? 이리 내놔.
-NPC-Dima(1)<Speaker>디마</Speaker>||:......
-()<Speaker></Speaker>||:UMP45는 당연하다는 듯 상대에게 이 게임 최고의 키 아이템을 내놓으라며 손을 내밀었다.+플레어 건을 쏘면 게임은 최종 단계에 돌입하고, 호출된 헬리콥터에 탑승하면 그것으로 우승자가 정해진다.+이론상으로는, 그럴 터였다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그런데 얌전히 플레어 건을 내놓을 거라 생각됐던 디마는 오히려 한 발짝 물러섰다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:......+이거 놀라운걸. 너마저 내가 상금을 못 타게 방해할 셈이야?
-UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:아니, 그게 그, 그러니까...+어... 지금 당신 한 명뿐인 상황에서 철수 헬리콥터를 호출하는 것은 위험합니다.+전투 가능 인원을 더 모아, 호출 후 발생 가능한 돌발 상황에 대비해야 합니다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:...그래?
-UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:네... 신호를 쏘아 올리면, 분명 예측 불가능한 상황이 벌어질 겁니다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:예측 못할 상황이라는 게 어떤 게 있겠어? 저기 하수구에서 말하는 거북이 4마리라도 튀어나오게?
-UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:농담 마세요, 전 지금 진지――히익!?
-()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:디마는 계속 설득하려 했지만, UMP45는 시커먼 총구로 대답을 대신했다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:아무리 봐도, 너는 그 "예측 불가능한 상황"을 두려워하는 게 아닌 것 같아.+사실 무슨 일이 일어나지 아주 잘 아는 거지? 아니면, 그냥 단순히 그걸 나한테 주기 싫어서 그래?
-UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:저, 저, 요원님!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:어느 쪽이든 난 상관없어.+내가 어떡하든 고작 NPC가 훈수를 둬 봤자니까.
-()<Speaker></Speaker>||:UMP45는 디마의 손에서 플레어 건을 낚아채, 하늘 높이 들었다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>287</BIN><SE1>AVG_The_Division_Flare_Gun</SE1>:날카로운 소리와 함께, 눈부신 붉은 빛이 검은 밤하늘로 치솟았다.
-NPC-Dima(1)<Speaker>디마</Speaker>||:너, 너 무슨 짓이야!
-()<Speaker></Speaker>||:그리고 거의 동시에, UMP45의 시각에 약간의 노이즈가 발생했다.
-()<Speaker>헬리콥터 파일럿</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:신호 확인. 철수 지점으로 이동합니다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:그래서? 뭐 대단한 일도 없잖아.+혹시나 싶었는데 역시나네.
-NPC-Dima(1)<Speaker>디마</Speaker>||:아니! 이건 내가 예상한 거랑 전혀 달라!
-()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:높은 위험도의 적을 탐지.
-NPC-Dima(1)<Speaker>디마</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:으아아아, 놈들이 왔다, 망했다 망했다 망했다 망했다...!
-UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:닥쳐.
-NPC-Dima(1)<Speaker>디마</Speaker><Shake>0.1</Shake>||:닥치긴 누가... 와아아악!
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:밀물처럼 몰려오는 변절 요원들은 숨 돌릴 틈을 주지 않았다.+교차하는 화망 속에서, UMP45는 접근하려 드는 적을 정확하게 쏘아 맞혔다.+반면, 디마는 엄폐물 밑에 웅크려 꼼짝도 안 했다.
-NPC-Dima(1)<Speaker>디마</Speaker>||:망했다... 이젠 다 끝이야...
-UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:겨우 이 정도로 벌벌 떨어?+탄약만 충분하면 저런 잔챙이들은 내 털끝 하나 못 건드린다고. 오히려 너무 싱거운 수준인걸?+헬기가 오기까지 버티는 건 식은 죽 먹기겠네.
-UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:아니, 넌 몰라! 넌 아무것도 몰라!+여기서 실패하면 전부 물거품이 되고 만다고!+아아아 난 대체 언제 이 망할 곳에서 탈출할 수 있는 거야아아!!
-UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:내가 아무것도 모른다고?
-UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:그래! 넌 아무것도 몰라!+진짜 무서운 건 저 로그 요원따위가 아니라——
-UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:"헬파이어"라고?
-UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:...?!
-UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:아까부터 말하고 싶었는데 마침 잘됐다.+요원 아가씨, 지금 그 추태 너무 꼴사납단 생각 안 들어?+조금은 기대했는데 말이야.
-UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:뭣... 무, 무슨 소리야...
-UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:너, NPC가 아니라 우리와 똑같은 플레이어잖아.
-NPC-Dima(1)<Speaker>디마</Speaker>||:뭇...!+무무무, 무슨 소린지 모르――
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:슬슬 뒤로 물러나며 도망치려던 디마가 엄폐물에서 살짝 벗어나자마자, 총알이 그녀의 귓가를 스쳤다.+디마는 화들짝 놀라 다시 몸을 웅크렸다.
-NPC-Dima(1)<Speaker>디마</Speaker>||:우와악! 총 맞았다, 총 맞았어!+평생 이딴 곳에 있긴 싫다고, 누가 좀 구해줘!
-UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:진짜 그 고집엔 감탄해야겠네, 어쩜 이렇게까지 꼴불견인 상태에서도 계속 잡아떼려고 해?
-UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:으윽...
-UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:물론, 그냥 그런 거였다면 나도 신경 안 썼지.+네가 NPC든 플레이어든, 나랑 무슨 상관이야?+근데 말이야, 내가 약간의 디테일을 알게 돼서~
-UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:디, 디테일?
-UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:너, 나랑 아는 사이지?+처음에 말을 걸었을 때부터 네 태도가 이상했어.+심상찮은 낯선 이를 무서워한다기보단, 나를 무서워하는 것 같았달까?+이, "UMP45"라는 인형을.
-UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:그, 그게 무슨...! 내가 왜, 난데없이 널 무서워하는데?!
-UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:너, 이 게임에서 나가지 못하는 거 맞지?
-UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:맞긴 한데... 엉?+너, 너 그 말 대체 무슨 뜻이야?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:히히히...
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Machine_Gun_Tower</SE1>:UMP45가 엄폐물 너머로 터렛을 던져 변절 요원들의 어그로를 분산시킨 다음, 다시 디마에게 집중했다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_The_Division_Machine_Gun_Tower_Shooting</SE1>:긴장돼? 역시 긴장되겠지.+너라면 내가 일하는 스타일을 잘 알 테니까.+이 게임에서 오직 최종 승자만이 모든 것을 쟁취한다면, 그 승자는 바로 나여야만 해.+그 결과를 위해서라면 과정 따윈 아무래도 좋아.+그래서, 게임이 시작됐을 때 약간의 꼼수를 썼지.
-UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:꼼수라는 건...
-UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:후후, 맞아. 권한을 약~간 조작해서, 모든 접속 플레이어들의 상태를 확인했어. 그런데 거기서 내가 뭘 발견했게?+총 24명의 플레이어 중 19명은 그리폰에서 왔지만, 내 팀까지 전부 합쳐도 23명밖에 안 되네?
-UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:그런데 그 마지막 한 사람 말이야, 좀 무신경했다고나 할까, 가장 중요한 접속 정보를 감추는 걸 까먹었더라.+그리고 그 접속 지점... 이런 우연이 또 어딨을까, 내가 자주 가던 어디랑 많이 가깝던데?
-()<Speaker></Speaker>||:무수한 적들의 포위에도 불구하고, UMP45는 농담조를 섞으며 자신이 알아낸 정보로 디마의 목을 졸랐다.
-NPC-Dima(1)<Speaker>디마</Speaker>||:뭐라고!? 너 임마! 왜 멋대로 남의 서버 주소를 훔쳐봐?!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:시치미 그만 떼셔.
-()<Speaker></Speaker>||:UMP45가 디마의 방독면을 확 벗겨 버렸다.
-NPC-Dima(3)<Speaker>디마</Speaker>||:아아아아! 무슨 짓이야아아!!+나 죽는다, 나 죽어!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:솔직히, 네 연기 꽤 재밌었어. 416도 아직까지 전혀 눈치를 못 챘고.+아 그래, 걔랑 G11한테 말해 주면 걔들이 과연 어떤 표정을 지을까? NPC라 찰떡같이 믿었던 디마가 실은——
-()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:......
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:...칫, 설마 네가 먼저 도착할 줄이야.+416이 널 따돌리다 길을 잃었나 보네.
-()<Speaker></Speaker>||:총성 한 발이 UMP45의 말을 끊었다. 그리폰의 전술인형, Vector였다.
-Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_weapon_reload</SE1>:네가 그 마지막 플레이어지?+미안하지만 나도 반드시 이겨야만 해.
-Vector(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:괜찮아 괜찮아, 시합이란 원래 그런 거니까. 승자가 있으면 패자도 생기는 법이지.+그런데 너, 방금 그 한 방은 그냥 날 맞히는 게 낫지 않았어?
-Vector(0)<Speaker>Vector</Speaker>||:너한텐 원한 없으니, 정정당당히 겨루려고.
-NPC-Dima(2)<Speaker>디마</Speaker>||:얘한테 그런 거 따지지 마!
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타탕!+디마의 말에 Vector의 주의가 잠깐 분산된 틈을 노린 UMP45의 총구가 불을 뿜었다.
-Vector(0)<Speaker>Vector</Speaker>||:...!
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:하지만 Vector는 날렵하게 굴러 엄폐물 뒤에 숨었고, 날아든 총알은 허물어진 벽에 탄흔 한 줄을 남겼다.
-NPC-Dima(0)<Speaker>디마</Speaker>||:야! 치사하게 그게 무슨 짓이야!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:넌 좀 닥쳐.
-()<Speaker></Speaker>||:데구르르르...+맹렬한 격발음 속에 불협화음이 끼어들었다.+풍부한 전투 경험이 UMP45의 경종을 울렸고, 고개를 숙인 그곳엔 막 굴러온 수류탄 2개가 그녀에게 인사하고 있었다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:제기랄!
-()<Speaker></Speaker>||:욕을 내뱉으며, UMP45는 놀란 참새처럼 뒤로 몸을 날렸다.
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Grenade</SE1>:퍼엉!!
-NPC-Dima(3)<Speaker>디마</Speaker>||:으갸갸갸갸!!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:이런 상황인데도 대응이 완벽하네... 이래서 성능 좋은 인형이 싫다니까.
-()<Speaker></Speaker>||:폭발의 충격이 UMP45를 멀리 밀쳐내 돌무더기에 내팽개쳤고, HP도 눈에 띄게 뭉텅 깎였다.+포기하지 않은 UMP45는 용수철처럼 벌떡 일어났지만, 그대로 몸이 굳어버렸다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:...치잇.
-Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_weapon_reload</SE1>:체크메이트.
-()<Speaker></Speaker>||:폭발의 먼지가 채 흩어기지도 전에 Vector가 다가온 것이었다.+슬며시 고개를 들어보니, Vector의 총구가 바로 눈앞에 있었다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:창피하게 됐네... 꼭 이겨야 해, 우리 엘리트 씨.
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_rifle_finalshot_h</SE1>:타앙!
-()<Speaker>시스템</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:X 전술인형Vector이(가) aaaa을(를) 처치했습니다. X
-NPC-Dima(3)<Speaker>디마</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:해... 해치웠어...?
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(3)||:디마, 무사하지?
-Vector(0);NPC-Dima(3)<Speaker>디마</Speaker>||:...아, 네, 무사합니다.+그런데 요원님은 4... 다른 요원님을 뒤쫓는 중 아니었나요?
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(3)||:부끄럽지만, 도중에 따돌려지고 말았어.+그래서 일단 철수 지점으로 왔는데 방금 그 상황을 목격했고.+디마 얼굴은 이렇게 생겼구나.
-Vector(0);NPC-Dima(3)<Speaker>디마</Speaker>||:아, 이건... 크흠, 제 외모는 아무래도 좋습니다.+구해주셔서 정말 감사합니다, 요원님.
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(3)||:천만에. 아무튼, 이걸로 내가 이긴 거지?
-Vector(0);NPC-Dima(3)<Speaker>디마</Speaker>||:네?
-Vector(0)<Speaker>Vector</Speaker>||:이제 그 녀석만...
-()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:타앙!
-()<Speaker></Speaker>||<BGM>GF_xDivision_Battle1</BGM>:총성과 함께 벽의 귀퉁이가 부서졌다. 조금만 더 옆이었다면 Vector가 맞았을 것이다.
-HK416Mod(0)<Speaker>HK416</Speaker>||:젠장, 젠장! 잘도 저질렀겠다!+감히 내 동료한테 손대고... 내가 죽일 목표를 빼앗아!?
-NPC-Dima(2)<Speaker>디마</Speaker>||:그 동료가 목표였다는 걸 생각하면...
-Vector(0)<Speaker>Vector</Speaker>||<SE1>Select</SE1>:왔구나.
-NPC-Dima(2)<Speaker>디마</Speaker>||:잠깐만요, 이제 그만 싸우라니까요?!
-NPC-Dima(2)<Speaker>디마</Speaker>||:우와아악!!
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Flash_Bomb</SE1>:HK416이 발포를 시작하자마자, Vector는 연막탄을 던지고 디마를 붙잡아 다른 엄폐물 뒤로 숨었다.
-NPC-Dima(3)<Speaker>디마</Speaker>||<SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:잠깐, 제 말 좀 들어보세요!
-Vector(0)<Speaker>Vector</Speaker>||<SE2>Gunfight</SE2><震屏3>:얌전히 죽어라, 헬파이어!
-HK416Mod(0)<Speaker>HK416</Speaker>||:난 그런 중2병 넘치는 이름 아니야!
-NPC-Dima(3)<Speaker>디마</Speaker><Shake>0.1</Shake>||:제발 사람 말 좀 들으라고요!!
-()<Speaker>헬리콥터 파일럿</Speaker>||<SE1>AVG_whitenoise</SE1>:...리콥터, 회수 지점에 접근 중...
-()||<黑屏1>:
-()<Speaker>？？？</Speaker>||<黑屏2><BIN>9</BIN>:준비는 되었나...?<火焰销毁></火焰销毁>
-()<Speaker>？？？</Speaker>||:마지막... 싸움이다...
-()||<黑屏1>:
-HK416Mod(0)<Speaker>HK416</Speaker>||<黑屏2><BIN>288</BIN>:무슨 소리지?<下雪></下雪>
-Vector(0)<Speaker>Vector</Speaker>||:또다...
-NPC-Dima(0)<Speaker>디마</Speaker>||:소리? 무슨 소리요?
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(0)||:넌 안 들려? 마치 강제 무전 통신처럼 귓가에서 누가 괴상한 말투로 말하고 있어.
-Vector(0);NPC-Dima(3)<Speaker>디마</Speaker>||:괴상한 말투...?+그, 그 녀석들이다! 분명 그 녀석들이에요!
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(3)||:그게 누군데?
-NPC-Dima(3)<Speaker>디마</Speaker>||:어... 에이, 이젠 밝혀야겠지. 그러니까, 여러분의 진정한 상대인...+"터스크"와 "헬파이어"입니다.
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>288</BIN><BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM>:조금 전, UN 플라자.+과거에 세계 평화를 위해 각국 정상들이 모이던 이 장소는, 지금은 LMB 부대가 점령해 군사 요새로 완전히 개조되었다.+하지만 이곳의 병력은 말끔하게 소탕된 상태였고, 마침 도착한 UMP45도 광장에서 지금까지 무전기로 자신들을 지시하던 "요원 NPC"를 발견했다.<下雪></下雪>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:안녕, 너 먼저 와 있었구나?+하긴, 전부터 네가 어디 있길래 도와주러 못 온다고 하나 했어.+역시 골에서 기다리고 있었구나.
+UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:엑, 왜 하필이면...!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:응? 하필이라니?+내가 오면 안 되는 이유라도 있어?+나한테 불만이라도 있는 것 같다?
+UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:아, 아아, 아닙니다 요원님!+그런데 다른 요원님은요? 같이 안 왔나요? 제가 알기론 당신도 팀을 짜고 있었을 텐데요.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:나밖에 안 왔어, 그리고 승자도 나밖에 없지.+플레어 건 너한테 있지? 이리 내놔.
+NPC-Dima(1)<Speaker>디마</Speaker>||:......
+()<Speaker></Speaker>||:UMP45는 당연하다는 듯 상대에게 이 게임 최고의 키 아이템을 내놓으라며 손을 내밀었다.+플레어 건을 쏘면 게임은 최종 단계에 돌입하고, 호출된 헬리콥터에 탑승하면 그것으로 우승자가 정해진다.+이론상으로는, 그럴 터였다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그런데 얌전히 플레어 건을 내놓을 거라 생각됐던 디마는 오히려 한 발짝 물러섰다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:......+이거 놀라운걸. 너마저 내가 상금을 못 타게 방해할 셈이야?
+UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:아니, 그게 그, 그러니까...+어... 지금 당신 한 명뿐인 상황에서 철수 헬리콥터를 호출하는 것은 위험합니다.+전투 가능 인원을 더 모아, 호출 후 발생 가능한 돌발 상황에 대비해야 합니다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:...그래?
+UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:네... 신호를 쏘아 올리면, 분명 예측 불가능한 상황이 벌어질 겁니다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:예측 못할 상황이라는 게 어떤 게 있겠어? 저기 하수구에서 말하는 거북이 4마리라도 튀어나오게?
+UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:농담 마세요, 전 지금 진지――히익!?
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:디마는 계속 설득하려 했지만, UMP45는 시커먼 총구로 대답을 대신했다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:아무리 봐도, 너는 그 "예측 불가능한 상황"을 두려워하는 게 아닌 것 같아.+사실 무슨 일이 일어나지 아주 잘 아는 거지? 아니면, 그냥 단순히 그걸 나한테 주기 싫어서 그래?
+UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:저, 저, 요원님!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:어느 쪽이든 난 상관없어.+내가 어떡하든 고작 NPC가 훈수를 둬 봤자니까.
+()<Speaker></Speaker>||:UMP45는 디마의 손에서 플레어 건을 낚아채, 하늘 높이 들었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>287</BIN><SE1>AVG_The_Division_Flare_Gun</SE1>:날카로운 소리와 함께, 눈부신 붉은 빛이 검은 밤하늘로 치솟았다.
+NPC-Dima(1)<Speaker>디마</Speaker>||:너, 너 무슨 짓이야!
+()<Speaker></Speaker>||:그리고 거의 동시에, UMP45의 시각에 약간의 노이즈가 발생했다.
+()<Speaker>헬리콥터 파일럿</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:신호 확인. 철수 지점으로 이동합니다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그래서? 뭐 대단한 일도 없잖아.+혹시나 싶었는데 역시나네.
+NPC-Dima(1)<Speaker>디마</Speaker>||:아니! 이건 내가 예상한 거랑 전혀 달라!
+()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:높은 위험도의 적을 탐지.
+NPC-Dima(1)<Speaker>디마</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:으아아아, 놈들이 왔다, 망했다 망했다 망했다 망했다...!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:닥쳐.
+NPC-Dima(1)<Speaker>디마</Speaker><Shake>0.1</Shake>||:닥치긴 누가... 와아아악!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:밀물처럼 몰려오는 변절 요원들은 숨 돌릴 틈을 주지 않았다.+교차하는 화망 속에서, UMP45는 접근하려 드는 적을 정확하게 쏘아 맞혔다.+반면, 디마는 엄폐물 밑에 웅크려 꼼짝도 안 했다.
+NPC-Dima(1)<Speaker>디마</Speaker>||:망했다... 이젠 다 끝이야...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:겨우 이 정도로 벌벌 떨어?+탄약만 충분하면 저런 잔챙이들은 내 털끝 하나 못 건드린다고. 오히려 너무 싱거운 수준인걸?+헬기가 오기까지 버티는 건 식은 죽 먹기겠네.
+UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:아니, 넌 몰라! 넌 아무것도 몰라!+여기서 실패하면 전부 물거품이 되고 만다고!+아아아 난 대체 언제 이 망할 곳에서 탈출할 수 있는 거야아아!!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:내가 아무것도 모른다고?
+UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:그래! 넌 아무것도 몰라!+진짜 무서운 건 저 로그 요원따위가 아니라——
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:"헬파이어"라고?
+UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:...?!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:아까부터 말하고 싶었는데 마침 잘됐다.+요원 아가씨, 지금 그 추태 너무 꼴사납단 생각 안 들어?+조금은 기대했는데 말이야.
+UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:뭣... 무, 무슨 소리야...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:너, NPC가 아니라 우리와 똑같은 플레이어잖아.
+NPC-Dima(1)<Speaker>디마</Speaker>||:뭇...!+무무무, 무슨 소린지 모르――
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:슬슬 뒤로 물러나며 도망치려던 디마가 엄폐물에서 살짝 벗어나자마자, 총알이 그녀의 귓가를 스쳤다.+디마는 화들짝 놀라 다시 몸을 웅크렸다.
+NPC-Dima(1)<Speaker>디마</Speaker>||:우와악! 총 맞았다, 총 맞았어!+평생 이딴 곳에 있긴 싫다고, 누가 좀 구해줘!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:진짜 그 고집엔 감탄해야겠네, 어쩜 이렇게까지 꼴불견인 상태에서도 계속 잡아떼려고 해?
+UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:으윽...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:물론, 그냥 그런 거였다면 나도 신경 안 썼지.+네가 NPC든 플레이어든, 나랑 무슨 상관이야?+근데 말이야, 내가 약간의 디테일을 알게 돼서~
+UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:디, 디테일?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:너, 나랑 아는 사이지?+처음에 말을 걸었을 때부터 네 태도가 이상했어.+심상찮은 낯선 이를 무서워한다기보단, 나를 무서워하는 것 같았달까?+이, "UMP45"라는 인형을.
+UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:그, 그게 무슨...! 내가 왜, 난데없이 널 무서워하는데?!
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:너, 이 게임에서 나가지 못하는 거 맞지?
+UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:맞긴 한데... 엉?+너, 너 그 말 대체 무슨 뜻이야?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:히히히...
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Machine_Gun_Tower</SE1>:UMP45가 엄폐물 너머로 터렛을 던져 변절 요원들의 어그로를 분산시킨 다음, 다시 디마에게 집중했다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_The_Division_Machine_Gun_Tower_Shooting</SE1>:긴장돼? 역시 긴장되겠지.+너라면 내가 일하는 스타일을 잘 알 테니까.+이 게임에서 오직 최종 승자만이 모든 것을 쟁취한다면, 그 승자는 바로 나여야만 해.+그 결과를 위해서라면 과정 따윈 아무래도 좋아.+그래서, 게임이 시작됐을 때 약간의 꼼수를 썼지.
+UMP45Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:꼼수라는 건...
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:후후, 맞아. 권한을 약~간 조작해서, 모든 접속 플레이어들의 상태를 확인했어. 그런데 거기서 내가 뭘 발견했게?+총 24명의 플레이어 중 19명은 그리폰에서 왔지만, 내 팀까지 전부 합쳐도 23명밖에 안 되네?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NPC-Dima(1)||:그런데 그 마지막 한 사람 말이야, 좀 무신경했다고나 할까, 가장 중요한 접속 정보를 감추는 걸 까먹었더라.+그리고 그 접속 지점... 이런 우연이 또 어딨을까, 내가 자주 가던 어디랑 많이 가깝던데?
+()<Speaker></Speaker>||:무수한 적들의 포위에도 불구하고, UMP45는 농담조를 섞으며 자신이 알아낸 정보로 디마의 목을 졸랐다.
+NPC-Dima(1)<Speaker>디마</Speaker>||:뭐라고!? 너 임마! 왜 멋대로 남의 서버 주소를 훔쳐봐?!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:시치미 그만 떼셔.
+()<Speaker></Speaker>||:UMP45가 디마의 방독면을 확 벗겨 버렸다.
+NPC-Dima(3)<Speaker>디마</Speaker>||:아아아아! 무슨 짓이야아아!!+나 죽는다, 나 죽어!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:솔직히, 네 연기 꽤 재밌었어. 416도 아직까지 전혀 눈치를 못 챘고.+아 그래, 걔랑 G11한테 말해 주면 걔들이 과연 어떤 표정을 지을까? NPC라 찰떡같이 믿었던 디마가 실은——
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:......
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...칫, 설마 네가 먼저 도착할 줄이야.+416이 널 따돌리다 길을 잃었나 보네.
+()<Speaker></Speaker>||:총성 한 발이 UMP45의 말을 끊었다. 그리폰의 전술인형, Vector였다.
+Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_weapon_reload</SE1>:네가 그 마지막 플레이어지?+미안하지만 나도 반드시 이겨야만 해.
+Vector(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:괜찮아 괜찮아, 시합이란 원래 그런 거니까. 승자가 있으면 패자도 생기는 법이지.+그런데 너, 방금 그 한 방은 그냥 날 맞히는 게 낫지 않았어?
+Vector(0)<Speaker>Vector</Speaker>||:너한텐 원한 없으니, 정정당당히 겨루려고.
+NPC-Dima(2)<Speaker>디마</Speaker>||:얘한테 그런 거 따지지 마!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타탕!+디마의 말에 Vector의 주의가 잠깐 분산된 틈을 노린 UMP45의 총구가 불을 뿜었다.
+Vector(0)<Speaker>Vector</Speaker>||:...!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:하지만 Vector는 날렵하게 굴러 엄폐물 뒤에 숨었고, 날아든 총알은 허물어진 벽에 탄흔 한 줄을 남겼다.
+NPC-Dima(0)<Speaker>디마</Speaker>||:야! 치사하게 그게 무슨 짓이야!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:넌 좀 닥쳐.
+()<Speaker></Speaker>||:데구르르르...+맹렬한 격발음 속에 불협화음이 끼어들었다.+풍부한 전투 경험이 UMP45의 경종을 울렸고, 고개를 숙인 그곳엔 막 굴러온 수류탄 2개가 그녀에게 인사하고 있었다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:제기랄!
+()<Speaker></Speaker>||:욕을 내뱉으며, UMP45는 놀란 참새처럼 뒤로 몸을 날렸다.
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Grenade</SE1>:퍼엉!!
+NPC-Dima(3)<Speaker>디마</Speaker>||:으갸갸갸갸!!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:이런 상황인데도 대응이 완벽하네... 이래서 성능 좋은 인형이 싫다니까.
+()<Speaker></Speaker>||:폭발의 충격이 UMP45를 멀리 밀쳐내 돌무더기에 내팽개쳤고, HP도 눈에 띄게 뭉텅 깎였다.+포기하지 않은 UMP45는 용수철처럼 벌떡 일어났지만, 그대로 몸이 굳어버렸다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...치잇.
+Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_weapon_reload</SE1>:체크메이트.
+()<Speaker></Speaker>||:폭발의 먼지가 채 흩어기지도 전에 Vector가 다가온 것이었다.+슬며시 고개를 들어보니, Vector의 총구가 바로 눈앞에 있었다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:창피하게 됐네... 꼭 이겨야 해, 우리 엘리트 씨.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_rifle_finalshot_h</SE1>:타앙!
+()<Speaker>시스템</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:X 전술인형Vector이(가) aaaa을(를) 처치했습니다. X
+NPC-Dima(3)<Speaker>디마</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:해... 해치웠어...?
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(3)||:디마, 무사하지?
+Vector(0);NPC-Dima(3)<Speaker>디마</Speaker>||:...아, 네, 무사합니다.+그런데 요원님은 4... 다른 요원님을 뒤쫓는 중 아니었나요?
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(3)||:부끄럽지만, 도중에 따돌려지고 말았어.+그래서 일단 철수 지점으로 왔는데 방금 그 상황을 목격했고.+디마 얼굴은 이렇게 생겼구나.
+Vector(0);NPC-Dima(3)<Speaker>디마</Speaker>||:아, 이건... 크흠, 제 외모는 아무래도 좋습니다.+구해주셔서 정말 감사합니다, 요원님.
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(3)||:천만에. 아무튼, 이걸로 내가 이긴 거지?
+Vector(0);NPC-Dima(3)<Speaker>디마</Speaker>||:네?
+Vector(0)<Speaker>Vector</Speaker>||:이제 그 녀석만...
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:타앙!
+()<Speaker></Speaker>||<BGM>GF_xDivision_Battle1</BGM>:총성과 함께 벽의 귀퉁이가 부서졌다. 조금만 더 옆이었다면 Vector가 맞았을 것이다.
+HK416Mod(0)<Speaker>HK416</Speaker>||:젠장, 젠장! 잘도 저질렀겠다!+감히 내 동료한테 손대고... 내가 죽일 목표를 빼앗아!?
+NPC-Dima(2)<Speaker>디마</Speaker>||:그 동료가 목표였다는 걸 생각하면...
+Vector(0)<Speaker>Vector</Speaker>||<SE1>Select</SE1>:왔구나.
+NPC-Dima(2)<Speaker>디마</Speaker>||:잠깐만요, 이제 그만 싸우라니까요?!
+NPC-Dima(2)<Speaker>디마</Speaker>||:우와아악!!
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Flash_Bomb</SE1>:HK416이 발포를 시작하자마자, Vector는 연막탄을 던지고 디마를 붙잡아 다른 엄폐물 뒤로 숨었다.
+NPC-Dima(3)<Speaker>디마</Speaker>||<SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:잠깐, 제 말 좀 들어보세요!
+Vector(0)<Speaker>Vector</Speaker>||<SE2>Gunfight</SE2><震屏3>:얌전히 죽어라, 헬파이어!
+HK416Mod(0)<Speaker>HK416</Speaker>||:난 그런 중2병 넘치는 이름 아니야!
+NPC-Dima(3)<Speaker>디마</Speaker><Shake>0.1</Shake>||:제발 사람 말 좀 들으라고요!!
+()<Speaker>헬리콥터 파일럿</Speaker>||<SE1>AVG_whitenoise</SE1>:...리콥터, 회수 지점에 접근 중...
+()||<黑屏1>:
+()<Speaker>？？？</Speaker>||<黑屏2><BIN>9</BIN>:준비는 되었나...?<火焰销毁></火焰销毁>
+()<Speaker>？？？</Speaker>||:마지막... 싸움이다...
+()||<黑屏1>:
+HK416Mod(0)<Speaker>HK416</Speaker>||<黑屏2><BIN>288</BIN>:무슨 소리지?<下雪></下雪>
+Vector(0)<Speaker>Vector</Speaker>||:또다...
+NPC-Dima(0)<Speaker>디마</Speaker>||:소리? 무슨 소리요?
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(0)||:넌 안 들려? 마치 강제 무전 통신처럼 귓가에서 누가 괴상한 말투로 말하고 있어.
+Vector(0);NPC-Dima(3)<Speaker>디마</Speaker>||:괴상한 말투...?+그, 그 녀석들이다! 분명 그 녀석들이에요!
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(3)||:그게 누군데?
+NPC-Dima(3)<Speaker>디마</Speaker>||:어... 에이, 이젠 밝혀야겠지. 그러니까, 여러분의 진정한 상대인...+"터스크"와 "헬파이어"입니다.
+()||<黑屏1>:

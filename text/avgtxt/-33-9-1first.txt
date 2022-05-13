@@ -1,75 +1,75 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>55</BIN><BGM>BGM_Room</BGM>:같은 시각, 그리폰 정찰대.
-Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_tele_connect</SE1>:여기는 정찰 B팀. 현재 킬링존을 넘어 작전 협력 중입니다.+전력을 공급하던 중추가 파괴되어, 도시의 중심 구역으로 진입할 수 있게 됐습니다.+폭발과 동시에 경미한 지진이 감지된 것으로 보아, 도시의 방위 시스템은 예상보다 더 깊은 곳까지 위치한 것 같습니다. 어쩌면 여전히 무력화되지 않은 자동 포탑과 조우할 수도 있습니다.+더불어 통신 간섭이 더욱 심해졌습니다. 지나 네트워크의 중계를 통해 되도록 원활한 통신을 유지하도록 하겠습니다.
-M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>;Kord(0)||:<color=#00CCFF>알겠습니다. 통신을 유지하면서 계속해서 위협을 제거해 주세요.</color>+<color=#00CCFF>여러분, 지금부터 흩어져서 각자 담당한 목표를 파괴하십시오.</color>
-Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_tele_disconnect</SE1>:하아... 예상은 했지만, 정말 쌀쌀맞은 아가씨네...+...나쁜 인상을 주진 않았겠지?
-Kord(0)<Speaker></Speaker>||:삐... 삐삐...+경보가 울렸다.
-Kord(0)<Speaker>Kord</Speaker>||:우와...+이거 정말 끝이 없네?+신호탑 노릇도 다 했으니... 다시 뒤처리 작업이나 해야지.
-Kord(0)<Speaker></Speaker>||:몰려오는 감염생물의 무리를 마주하며, Kord는 총의 안전장치를 해제했다.
-Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_weapon_reload</SE1><黑屏1>:감염된 친구들, 누구도 여길 지나갈 생각 마.
-()<Speaker></Speaker>||<BIN>197</BIN><黑屏2><BGM>BGM_Empty</BGM>:90초 후, 탈린 정거장 앞.
-RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>:아이고, 겨우 도착했... 앗!+뭐가 돌진해 오는 거지?!
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:M4! 나 집합 장소에 도착했어!+오! RO도 왔구나!
-RO635(5)<Speaker>RO635</Speaker><Shake>;M4 SOPMOD IIMod(0)||:뭐가 나도 왔다는 거야, 내가 제일 먼저 왔거든?
-RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:...지금 이런 걸로 투덕댈 때가 아니지. 아무래도 통신이 회복된 모양이야. 다른 제대가 노력해준 덕분인가?
-RO635(0)<Speaker>RO635</Speaker>||:M4 씨, 저희 먼저 들어갈까요, 아님 당신이 합류할 때까지 대기할까요?
-M4A1Mod(3)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>지금 이쪽에 감염 생물이 나타났습니다. 처리하는 대로 갈 테니 대기하세요.</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1Mod(3)||:나도 도울래!
-M4 SOPMOD IIMod(0);M4A1Mod(3)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>제자리에서 대기하세요, SOP2.</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1Mod(3)||:왜? 이렇게 재밌는 기회를――
-M4A1Mod(3)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>대기하세요.</color>
-RO635(0)<Speaker>RO635</Speaker>||:M4 씨 말대로 기다리자. AR15도 곧 도착할 거야.+...SOP2? 표정이 왜 그래?
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:...이상해.+M4가 감염 생물을 상대하고 있댔잖아? 그런데 총소리가 하나도 안 들려.
-RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:아직 거리가 먼가 보지. 방어 시설을 처리한 지도 얼마 안 됐잖아?+그런데, 감염 생물 처리는 지휘관님이 따로 담당 인형을 보냈을 텐데...?
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:M4도 거들고 싶었나 보지 뭐.+에이 몰라! 우린 AR15나 기다리자!
-RO635(0)<Speaker>RO635</Speaker>||<黑点1>:......+(역시... 뭔가 좀 수상해.)+(M4 씨는 마치... 지휘관님께서 내린 임무를 따르는 게 아니라, 스스로 뭔가를 찾고 있는 것 같아.)+(...괜한 걱정이었으면 좋겠지만.)
-M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||<BIN>202</BIN><黑点2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>지휘관님, AR팀이 탈린 정거장 내부로 진입했습니다.</color>+<color=#00CCFF>아직 이렇다 할 위험 요소는 발견되지 않았으며, 붕괴 오염도도 낮습니다. 현재 정찰 범위를 넓히는 중입니다.</color>
-M4A1Mod(0)<Speaker>SOP2의 목소리</Speaker>||:<color=#00CCFF>지휘관! 여긴 안전하니까 빨리 와!</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#00CCFF>...그렇다는군요. 다음 지시를 내려 주세요.</color>+<color=#00CCFF>......</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:<color=#00CCFF>알겠습니다. 열차가 정거장으로 진입할 수 있도록 선로를 수정하겠습니다. 완료되면 신호를 보낼 테니 그때까지 기다려 주세요.</color>
-()<Speaker></Speaker>||<BIN>55</BIN><黑屏2><SE1>AVG_tele_disconnect</SE1>:같은 시각, 그리폰 소대는 순찰을 계속하고 있었다.
-Kord(0)<Speaker>Kord</Speaker>||:나도 참... 또 너덜너덜하게 만들어 버렸네.+요즘 스트레스가 너무 많이 쌓였나?+전투 말고도 스트레스를 해소할 방법을 찾아야겠는걸...
-Kord(0)<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:통신 연결.
-Kord(0)<Speaker>Kord</Speaker>||:응? 새로운 지시인가...?+안녕하세요 지휘관님, 여기는 Kord입니다. 말씀하세요.+...알겠습니다. SSG3000의 제대와 합류해, 함께 제어소를 수색하겠습니다.+네? 아뇨, 이 정도의 연속 작전쯤이야 아무 문제 없어요. 나중에 쉴 수 있을 때 다시...
-Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:......+음?+지휘관님, 들리시나요?+어라, 또 신호가 나빠졌나?
-Kord(0)<Speaker></Speaker>||<BIN>55</BIN><Night>:Kord가 통신을 복구하려는 그때... 갑자기 주위에 안개가 자욱해졌다.
-Kord(0)<Speaker>Kord</Speaker>||<BGM>m_avg_labyrinth</BGM>:...무슨 안개가 이리 자욱하담.
-Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_tele_connect</SE1>:SSG3000 응답 바람. 제 말 들리나요?+......+이쪽도 안 되나.
-Kord(0)<Speaker></Speaker>||:뚜둑.+나뭇가지가 부러지는 듯한 소리가, 음산한 정적을 깨뜨렸다.
-Kord(0)<Speaker>Kord</Speaker>||:철혈공조... 아니면 패러데우스인가요?
-()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:점점 더 짙어져 가는 안개 속에서, 흐릿한 형체가 천천히 다가오는 것이 보였다.
-AbandonedIsomer(0)<Speaker>？？？</Speaker>||:......+너는... 누구야?+우리와는 다른 존재... 너는 나의 적이야?
-Kord(0)<Speaker>Kord</Speaker>||:(목소리는 여성 같은데, 이상해... 꽤 가까운데 왜 전혀 뚜렷하게 보이질 않지? 신호도 탐지되지 않아...)+더 이상 접근하지 마세요. 당신이 누구든 간에, 멈추지 않으면 쏘겠습니다.
-AbandonedIsomer(0)<Speaker>？？？</Speaker>||:저게 바로... 적?+나를 죽인다... 가능해?+아니면, 나에게 죽고 싶은 거야?
-()<Speaker></Speaker>||:흐릿한 형체가 점점 가까이 다가왔다. Kord는 어쩔 수 없이 상대의 다리를 조준했다. 하지만 방아쇠를 당기려는 순간, 어째서인지 손이 꼼짝도 하지 않았다.
-Kord(0)<Speaker>Kord</Speaker>||:이게 어떻게 된...?!+이 목소리... 청각 모듈을 통해 들리는 게 아니야...!+아뿔싸, 마인드맵이 침입당한...!?
-()<Speaker></Speaker>||<黑屏1><SE1>ClothingUp</SE1>:Kord는 총을 조준한 자세 그대로 균형을 잃고 쓰러졌다.
-AbandonedIsomer(0)<Speaker>？？？</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:넌... 우리의 구세주가 아니야.+여기서... 얌전히 자고 있어.
-()<Speaker></Speaker>||<黑屏2><BIN>197</BIN><BGM>BGM_Empty</BGM>:......
-AR15Mod(0)<Speaker>AR15</Speaker>||<BGM>BGM_Room</BGM>:M4! M4, 내 말 들려?!
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:......+...앗, 저 방금 또 한눈팔았나요? 죄송해요.
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:정신 똑바로 차려, 대장.+지휘관이 우리에게 정거장을 지키라는 명령을 내렸어. 다른 인형 제대는 격리벽의 제어소를 찾는 중이고.
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:네, 저도 알아요. 그런데 방금... 정체불명의 신호가 느껴졌어요.
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:정체불명? 패러데우스 같은 거?
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:모르겠어요. 하지만 아직도 느껴지고... 점점 수가 늘어나고 있어요.+...지금 이쪽으로 오는 중인 거 같아요.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1Mod(0)||:뭐야 뭐야? 드디어 진짜배기가 등장하는 거야?
-M4 SOPMOD IIMod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:잘 모르겠어요. RO, 주변에 다른 생물이나 기계가 탐지되나요?
-RO635(0)<Speaker>RO635</Speaker><通讯框>;M4A1Mod(0)||:<color=#00CCFF>...그리폰의 신호밖에 안 잡히는데요?</color>+<color=#00CCFF>하지만, 조금 전부터 묘한 안개가 끼더니 통신 상태가 나빠져서... 잘 확인할 수가 없습니다. 나가서 정찰하고 올까요?</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:아뇨, 아직 그럴 필요는 없습니다. 현재 위치를 고수하세요.+......+잠깐만요. 안개가 꼈다고요...?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>응. 지금은 더 심해졌는데, 점점 짙어지는 거 같아.</color>
-()<Speaker></Speaker>||:M4A1은 성큼성큼 정거장의 입구로 걸어가 밖을 살펴보았다.+바깥은 어둡긴커녕 맑고 안개도 전혀 보이지 않았다.
-RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>역시 안개가 심해지는 것 같아요.</color>
-RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM>:......+RO, 제 목소리 잘 들려요?
-RO635(0)<Speaker>RO635</Speaker><通讯框>;M4A1Mod(0)||:<color=#00CCFF>네?! 아, 네, 음질이 좀 나쁘지만 들려요. 그런데 이렇게 가까운 거리에서 왜...</color>
-RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:SOP2! 제 목소리 들리나요?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1Mod(0)||:<color=#00CCFF><size=50>응? M4 지금 통신으로 뭐라고 했어? 잘 안 들려!</size></color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>m_avg_tension</BGM>:...AR15?
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:나도 안개 같은 건 안 보여.
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:무언가가... 우리의 마인드맵 포트에 매우 높은 빈도로 접속을 시도하고 있습니다. 그들에게 보이는 안개는 아마 이 강제 연결로 인한 노이즈일 거예요.
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:난 마인드맵을 완전히 닫아서 영향이 없는 거네.
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:독립 개체는 이상 없는 거군요..+하지만 이상해요. 공격하려 했다면 지금 우리 모두 마비됐을 거예요. 그런데 안개가 보이는 정도가 다라니, 대체 무슨 의도인지...
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:어쩌면... 해킹이 아니라 그냥 단순하고 불규칙한 연결 아닐까?
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:연결이요?
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:높은 빈도의 연결 시도로 지나 프로토콜이 정상적으로 작동하지 않게 되고, 인형의 마인드맵 연산까지 간섭받게 된 게 아닐까 싶어.+인형들은 지나 프로토콜로 통신 및 정보를 공유하잖아. 만약 프로토콜에 연결된 인형 대부분이 안개가 있다고 판단하면, 프로토콜은 마인드맵에 오류를 보고해 안개가 없어도 보이도록 보정하지.
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:그렇게 되려면 정보를 대체 얼마나 많이 수정해야 하는 거죠?
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||<黑屏1>:난 우산 바이러스든 다른 인형이든, 누가 날 바꾸려 하는 게 싫어서 마인드맵의 연결을 완전히 차단했어.+너는... 정반대로 또 다른 너를 용납할 정도라서 영향을 받지 않는 거겠지.+아무튼, 빨리 이 연결의 근원을 찾아야 해. 오래 놔둘수록 우리 동료들이 위험해져.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>55</BIN><BGM>BGM_Room</BGM>:같은 시각, 그리폰 정찰대.
+Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_tele_connect</SE1>:여기는 정찰 B팀. 현재 킬링존을 넘어 작전 협력 중입니다.+전력을 공급하던 중추가 파괴되어, 도시의 중심 구역으로 진입할 수 있게 됐습니다.+폭발과 동시에 경미한 지진이 감지된 것으로 보아, 도시의 방위 시스템은 예상보다 더 깊은 곳까지 위치한 것 같습니다. 어쩌면 여전히 무력화되지 않은 자동 포탑과 조우할 수도 있습니다.+더불어 통신 간섭이 더욱 심해졌습니다. 지나 네트워크의 중계를 통해 되도록 원활한 통신을 유지하도록 하겠습니다.
+M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>;Kord(0)||:<color=#00CCFF>알겠습니다. 통신을 유지하면서 계속해서 위협을 제거해 주세요.</color>+<color=#00CCFF>여러분, 지금부터 흩어져서 각자 담당한 목표를 파괴하십시오.</color>
+Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_tele_disconnect</SE1>:하아... 예상은 했지만, 정말 쌀쌀맞은 아가씨네...+...나쁜 인상을 주진 않았겠지?
+Kord(0)<Speaker></Speaker>||:삐... 삐삐...+경보가 울렸다.
+Kord(0)<Speaker>Kord</Speaker>||:우와...+이거 정말 끝이 없네?+신호탑 노릇도 다 했으니... 다시 뒤처리 작업이나 해야지.
+Kord(0)<Speaker></Speaker>||:몰려오는 감염생물의 무리를 마주하며, Kord는 총의 안전장치를 해제했다.
+Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_weapon_reload</SE1><黑屏1>:감염된 친구들, 누구도 여길 지나갈 생각 마.
+()<Speaker></Speaker>||<BIN>197</BIN><黑屏2><BGM>BGM_Empty</BGM>:90초 후, 탈린 정거장 앞.
+RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>:아이고, 겨우 도착했... 앗!+뭐가 돌진해 오는 거지?!
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:M4! 나 집합 장소에 도착했어!+오! RO도 왔구나!
+RO635(5)<Speaker>RO635</Speaker><Shake>;M4 SOPMOD IIMod(0)||:뭐가 나도 왔다는 거야, 내가 제일 먼저 왔거든?
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:...지금 이런 걸로 투덕댈 때가 아니지. 아무래도 통신이 회복된 모양이야. 다른 제대가 노력해준 덕분인가?
+RO635(0)<Speaker>RO635</Speaker>||:M4 씨, 저희 먼저 들어갈까요, 아님 당신이 합류할 때까지 대기할까요?
+M4A1Mod(3)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>지금 이쪽에 감염 생물이 나타났습니다. 처리하는 대로 갈 테니 대기하세요.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1Mod(3)||:나도 도울래!
+M4 SOPMOD IIMod(0);M4A1Mod(3)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>제자리에서 대기하세요, SOP2.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1Mod(3)||:왜? 이렇게 재밌는 기회를――
+M4A1Mod(3)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>대기하세요.</color>
+RO635(0)<Speaker>RO635</Speaker>||:M4 씨 말대로 기다리자. AR15도 곧 도착할 거야.+...SOP2? 표정이 왜 그래?
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:...이상해.+M4가 감염 생물을 상대하고 있댔잖아? 그런데 총소리가 하나도 안 들려.
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:아직 거리가 먼가 보지. 방어 시설을 처리한 지도 얼마 안 됐잖아?+그런데, 감염 생물 처리는 지휘관님이 따로 담당 인형을 보냈을 텐데...?
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:M4도 거들고 싶었나 보지 뭐.+에이 몰라! 우린 AR15나 기다리자!
+RO635(0)<Speaker>RO635</Speaker>||<黑点1>:......+(역시... 뭔가 좀 수상해.)+(M4 씨는 마치... 지휘관님께서 내린 임무를 따르는 게 아니라, 스스로 뭔가를 찾고 있는 것 같아.)+(...괜한 걱정이었으면 좋겠지만.)
+M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||<BIN>202</BIN><黑点2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>지휘관님, AR팀이 탈린 정거장 내부로 진입했습니다.</color>+<color=#00CCFF>아직 이렇다 할 위험 요소는 발견되지 않았으며, 붕괴 오염도도 낮습니다. 현재 정찰 범위를 넓히는 중입니다.</color>
+M4A1Mod(0)<Speaker>SOP2의 목소리</Speaker>||:<color=#00CCFF>지휘관! 여긴 안전하니까 빨리 와!</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:<color=#00CCFF>...그렇다는군요. 다음 지시를 내려 주세요.</color>+<color=#00CCFF>......</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:<color=#00CCFF>알겠습니다. 열차가 정거장으로 진입할 수 있도록 선로를 수정하겠습니다. 완료되면 신호를 보낼 테니 그때까지 기다려 주세요.</color>
+()<Speaker></Speaker>||<BIN>55</BIN><黑屏2><SE1>AVG_tele_disconnect</SE1>:같은 시각, 그리폰 소대는 순찰을 계속하고 있었다.
+Kord(0)<Speaker>Kord</Speaker>||:나도 참... 또 너덜너덜하게 만들어 버렸네.+요즘 스트레스가 너무 많이 쌓였나?+전투 말고도 스트레스를 해소할 방법을 찾아야겠는걸...
+Kord(0)<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:통신 연결.
+Kord(0)<Speaker>Kord</Speaker>||:응? 새로운 지시인가...?+안녕하세요 지휘관님, 여기는 Kord입니다. 말씀하세요.+...알겠습니다. SSG3000의 제대와 합류해, 함께 제어소를 수색하겠습니다.+네? 아뇨, 이 정도의 연속 작전쯤이야 아무 문제 없어요. 나중에 쉴 수 있을 때 다시...
+Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:......+음?+지휘관님, 들리시나요?+어라, 또 신호가 나빠졌나?
+Kord(0)<Speaker></Speaker>||<BIN>55</BIN><Night>:Kord가 통신을 복구하려는 그때... 갑자기 주위에 안개가 자욱해졌다.
+Kord(0)<Speaker>Kord</Speaker>||<BGM>m_avg_labyrinth</BGM>:...무슨 안개가 이리 자욱하담.
+Kord(0)<Speaker>Kord</Speaker>||<SE1>AVG_tele_connect</SE1>:SSG3000 응답 바람. 제 말 들리나요?+......+이쪽도 안 되나.
+Kord(0)<Speaker></Speaker>||:뚜둑.+나뭇가지가 부러지는 듯한 소리가, 음산한 정적을 깨뜨렸다.
+Kord(0)<Speaker>Kord</Speaker>||:철혈공조... 아니면 패러데우스인가요?
+()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:점점 더 짙어져 가는 안개 속에서, 흐릿한 형체가 천천히 다가오는 것이 보였다.
+AbandonedIsomer(0)<Speaker>？？？</Speaker>||:......+너는... 누구야?+우리와는 다른 존재... 너는 나의 적이야?
+Kord(0)<Speaker>Kord</Speaker>||:(목소리는 여성 같은데, 이상해... 꽤 가까운데 왜 전혀 뚜렷하게 보이질 않지? 신호도 탐지되지 않아...)+더 이상 접근하지 마세요. 당신이 누구든 간에, 멈추지 않으면 쏘겠습니다.
+AbandonedIsomer(0)<Speaker>？？？</Speaker>||:저게 바로... 적?+나를 죽인다... 가능해?+아니면, 나에게 죽고 싶은 거야?
+()<Speaker></Speaker>||:흐릿한 형체가 점점 가까이 다가왔다. Kord는 어쩔 수 없이 상대의 다리를 조준했다. 하지만 방아쇠를 당기려는 순간, 어째서인지 손이 꼼짝도 하지 않았다.
+Kord(0)<Speaker>Kord</Speaker>||:이게 어떻게 된...?!+이 목소리... 청각 모듈을 통해 들리는 게 아니야...!+아뿔싸, 마인드맵이 침입당한...!?
+()<Speaker></Speaker>||<黑屏1><SE1>ClothingUp</SE1>:Kord는 총을 조준한 자세 그대로 균형을 잃고 쓰러졌다.
+AbandonedIsomer(0)<Speaker>？？？</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:넌... 우리의 구세주가 아니야.+여기서... 얌전히 자고 있어.
+()<Speaker></Speaker>||<黑屏2><BIN>197</BIN><BGM>BGM_Empty</BGM>:......
+AR15Mod(0)<Speaker>AR15</Speaker>||<BGM>BGM_Room</BGM>:M4! M4, 내 말 들려?!
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:......+...앗, 저 방금 또 한눈팔았나요? 죄송해요.
+AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:정신 똑바로 차려, 대장.+지휘관이 우리에게 정거장을 지키라는 명령을 내렸어. 다른 인형 제대는 격리벽의 제어소를 찾는 중이고.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:네, 저도 알아요. 그런데 방금... 정체불명의 신호가 느껴졌어요.
+AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:정체불명? 패러데우스 같은 거?
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:모르겠어요. 하지만 아직도 느껴지고... 점점 수가 늘어나고 있어요.+...지금 이쪽으로 오는 중인 거 같아요.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1Mod(0)||:뭐야 뭐야? 드디어 진짜배기가 등장하는 거야?
+M4 SOPMOD IIMod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:잘 모르겠어요. RO, 주변에 다른 생물이나 기계가 탐지되나요?
+RO635(0)<Speaker>RO635</Speaker><通讯框>;M4A1Mod(0)||:<color=#00CCFF>...그리폰의 신호밖에 안 잡히는데요?</color>+<color=#00CCFF>하지만, 조금 전부터 묘한 안개가 끼더니 통신 상태가 나빠져서... 잘 확인할 수가 없습니다. 나가서 정찰하고 올까요?</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:아뇨, 아직 그럴 필요는 없습니다. 현재 위치를 고수하세요.+......+잠깐만요. 안개가 꼈다고요...?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>응. 지금은 더 심해졌는데, 점점 짙어지는 거 같아.</color>
+()<Speaker></Speaker>||:M4A1은 성큼성큼 정거장의 입구로 걸어가 밖을 살펴보았다.+바깥은 어둡긴커녕 맑고 안개도 전혀 보이지 않았다.
+RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>역시 안개가 심해지는 것 같아요.</color>
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM>:......+RO, 제 목소리 잘 들려요?
+RO635(0)<Speaker>RO635</Speaker><通讯框>;M4A1Mod(0)||:<color=#00CCFF>네?! 아, 네, 음질이 좀 나쁘지만 들려요. 그런데 이렇게 가까운 거리에서 왜...</color>
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:SOP2! 제 목소리 들리나요?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;M4A1Mod(0)||:<color=#00CCFF><size=50>응? M4 지금 통신으로 뭐라고 했어? 잘 안 들려!</size></color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>m_avg_tension</BGM>:...AR15?
+AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:나도 안개 같은 건 안 보여.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:무언가가... 우리의 마인드맵 포트에 매우 높은 빈도로 접속을 시도하고 있습니다. 그들에게 보이는 안개는 아마 이 강제 연결로 인한 노이즈일 거예요.
+AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:난 마인드맵을 완전히 닫아서 영향이 없는 거네.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:독립 개체는 이상 없는 거군요..+하지만 이상해요. 공격하려 했다면 지금 우리 모두 마비됐을 거예요. 그런데 안개가 보이는 정도가 다라니, 대체 무슨 의도인지...
+AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:어쩌면... 해킹이 아니라 그냥 단순하고 불규칙한 연결 아닐까?
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:연결이요?
+AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:높은 빈도의 연결 시도로 지나 프로토콜이 정상적으로 작동하지 않게 되고, 인형의 마인드맵 연산까지 간섭받게 된 게 아닐까 싶어.+인형들은 지나 프로토콜로 통신 및 정보를 공유하잖아. 만약 프로토콜에 연결된 인형 대부분이 안개가 있다고 판단하면, 프로토콜은 마인드맵에 오류를 보고해 안개가 없어도 보이도록 보정하지.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:그렇게 되려면 정보를 대체 얼마나 많이 수정해야 하는 거죠?
+AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||<黑屏1>:난 우산 바이러스든 다른 인형이든, 누가 날 바꾸려 하는 게 싫어서 마인드맵의 연결을 완전히 차단했어.+너는... 정반대로 또 다른 너를 용납할 정도라서 영향을 받지 않는 거겠지.+아무튼, 빨리 이 연결의 근원을 찾아야 해. 오래 놔둘수록 우리 동료들이 위험해져.

@@ -1,76 +1,76 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker>섀도리스</Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>343</BIN><common_effect>%%code=NPC_TV_11%%</common_effect>:허가받지 않은 갈라테아제 약품 남용 사건 수사에 진전이 있었습니다.+경찰이 용의자를 체포하여 현재 취조 중이라는 소식입니다.
-()<Speaker>섀도리스</Speaker>||:본 방송국은 해당 사건에 관련하여 갈라테아 그룹에 취재를 요청했으나, 사측은 답변하기를 거부하고 수사 결과를 기다리겠다는 입장을 밝혔습니다.+현재까지 파악된 정보에 따르면, 신형 항붕괴제 "이둔"의 개발을 담당하던 연구소는 여전히 운영이 정지된 상태이며, 책임자인 그레이 박사도 행방이 묘연한 실정입니다. 식약청도, 아직까지 해당 사안에 관해 확실한 입장 표명을 하지 않고 있습니다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BGM>BGM_Truth</BGM><BIN>158</BIN><黑屏2><关闭蒙版>:국가안전국의 취조실.
-()<Speaker></Speaker>||:에어컨 바람에 장시간 노출되어 얼음장처럼 차가워진 쇠파이프 의자에 앉은 넬레는, 기약 없는 기다림의 고통과 무슨 일이 벌어질지 모르는 두려움에 계속해서 손을 다리 사이에 넣고 비벼댔다.+이윽고 들리는 다가오는 발소리가, 최종 선고를 내리러 오는 것 같았다.
-NPC-Keven(0)<Speaker>J</Speaker>||:어이쿠, 이거 넬레 씨 아닙니까? 이런 데서 만나다니 인연이네요.
-NPC-Nele(2)<Speaker>넬레</Speaker>||:......
-NPC-Keven(0)<Speaker>J</Speaker>||:다시 봐서 안 반가워요?
-NPC-Nele(3)<Speaker>넬레</Speaker>||:...전혀요.
-NPC-Keven(0)<Speaker>J</Speaker>||:그럼 소름은 돋나요?
-NPC-Nele(1)<Speaker>넬레</Speaker>||:조... 조금은요...
-NPC-Keven(0)<Speaker>J</Speaker>||:흠, 목적 달성이군요 그럼.+인사는 이쯤 하고, 본론으로 들어가죠.
-()<Speaker></Speaker>||:J가 손에 든 수첩을 탁상에 툭 던지면서 맞은편의 의자에 앉아, 등받이에 주욱 몸을 기대면서 양손으로 머리를 받쳤다.+저 껄렁한 사람의 얼굴에 차원이 다른 진지함이 엿보이자, 넬레는 형용하기 어려운 두려움을 느꼈다.
-NPC-Keven(5)<Speaker>J</Speaker>||:약에 문제가 있다는 걸 알고있었습니까?
-NPC-Keven(5);NPC-Nele(2)<Speaker>넬레</Speaker>||:네... 아, 아뇨! 전혀 몰랐어요!+그, 그러니까 제 말은... 아직 3차 임상시험은 통과하지 못했지만, 그 전까지의 실험에서 단 한 번도 문제가 발생한 적 없다고요! 왜 그 사람이 그렇게 됐는지는 저도 모르겠어요...
-NPC-Keven(5);NPC-Nele(1)<Speaker>넬레</Speaker>||:막 주사했을 땐 분명 상태가 호전된 것 같았는데... 그리고 남은 약은 전부 가져갔잖아요!+성분 검사 결과 아직 안 나왔어요?
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(1)||:누가 당신에게 약을 줬죠? 그레이입니까?
-NPC-Keven(5);NPC-Nele(1)<Speaker>넬레</Speaker>||:...아뇨, 제가 제 의지로 실험실에서 꺼낸 거예요. 그날 그쪽 봤을 때요.
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(1)||:왜 그랬죠?
-NPC-Keven(5);NPC-Nele(3)<Speaker>넬레</Speaker>||:그때 말했잖아요, 정부가 느닷없이 실험을 중단하라 했다고요. 그때 마침 신규 샘플이 완성됐는데...
-NPC-Keven(5);NPC-Nele(1)<Speaker>넬레</Speaker>||:혹시 못 쓰게 되진 않을까 싶어서, 몇 개 가지고 나온 거예요...
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(1)||:그 약품에 손댈 수 있는 사람은 당신 말고 또 누가 있습니까?
-NPC-Keven(5);NPC-Nele(1)<Speaker>넬레</Speaker>||:...몰라요.
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(1)||:모르는 겁니까, 말할 수 없는 겁니까?
-NPC-Keven(5);NPC-Nele(3)<Speaker>넬레</Speaker>||:저, 정말 몰라서 그래요!+실험실의 연구원마다 권한이 제각각이라, 이 약에 손댈 수 있는 사람이 몇 명이나 되는지 정말 몰라요...
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(3)||:흠... 그럼 다음 질문입니다. 누가 당신을 채용했죠?
-NPC-Keven(5);NPC-Nele(1)<Speaker>넬레</Speaker>||:...그레이 선생님이요.
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(1)||:그레이 본인이요? 소위 "낙하산"이란 겁니까?
-NPC-Keven(5);NPC-Nele(2)<Speaker>넬레</Speaker>||:아뇨아뇨아뇨!! 전 대학생 시절부터 그레이 선생님의 수업을 들었어요! 제가 졸업하고 이력서를 몇 번이나 넣었는데요!
-NPC-Keven(5);NPC-Nele(3)<Speaker>넬레</Speaker>||:그렇게 면접 보고 당당하게 채용된 거라고요!
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(3)||:그럼 그레이 박사가 최근 테러 사건에 연루됐다는 건 아십니까?
-NPC-Keven(5);NPC-Nele(2)<Speaker>넬레</Speaker>||:네에에?!!+그, 그럴 리가요! 선생님은 의사이자 의약품 전문가시지, 무슨 테러리스트가... 사람 잘못 보신 거 아니에요?!
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(2)||:됐으니까 앉아서 제 질문에나 대답하세요.+그레이 박사가 지난 2주 간 어디를 방문했는지 아십니까?
-NPC-Keven(5);NPC-Nele(1)<Speaker>넬레</Speaker>||:당연히 모르죠. 저는 그냥 조수지, 선생님의 비서나 운전기사가 아니에요.+어, 그러고 보니 선생님은 비서도 안 두셨던 거 같네...?
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(1)||:그녀를 마지막으로 본 게 언제죠?
-NPC-Keven(5);NPC-Nele(2)<Speaker>넬레</Speaker>||:어... 저번달 10일쯤이었나... 아, 아니다, 그때도 전화만 받았으니까...+으음... 요 반년 동안 실험실에서도 거의 뵌 적이 없는 거 같은데... 아, 맞다! 저번에 인터뷰하신다고 회사에 오셨었어요!
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(2)||:그거 좀 이상하단 생각은 안 해봤나요?+의사이자 의약품 전문가인 사람이, 그렇게나 장기간 연구소에 얼굴도장도 안 찍다니.
-NPC-Nele(3)<Speaker>넬레</Speaker>||:지금 선생님을 의심하는 거예요!?+그 사람한테 약을 주사한 건, 다 저 혼자 판단한 일이에요! 선생님과는 관계 없어요!
-()<Speaker></Speaker>||:J는 짜증난다는 눈빛으로 고개를 기울여 벽시계를 확인했다.+매 초마다 초침이 움직일수록, 그의 미간의 주름도 점점 더 깊어졌다.
-NPC-Keven(5)<Speaker>J</Speaker>||:잘 생각하고 말해야 할 겁니다.+당신의 대답 한 마디 한 마디가 앞으로 어디서 지내게 될지를 정할 거예요.
-NPC-Keven(5)<Speaker>J</Speaker>||:그레이가 "이둔"을 당신에게 맡긴 것은 당신을 무척 신뢰한다는 의미인데, 아무것도 모른다니...+넬레 씨, 자꾸 이러시면 아무리 저라도 인내심이 바닥나 버립니다?
-NPC-Keven(5);NPC-Nele(3)<Speaker>넬레</Speaker>||:저, 저, 정말 아무것도 모르는걸 어떡해요...+저도 선생님과 함께 일하고 싶었는데, 여태까지 그런 기회도 없었는데...
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(3)||:당신과 그레이 모두, 약품 취급법 위반 혐의에서 벗어날 수 없습니다.+감형이라도 받고 싶으시면 솔직하게 실토하세요, 알았어요?
-NPC-Keven(5);NPC-Nele(3)<Speaker>넬레</Speaker>||:정말 모른다고요!+그쪽이 저한테서 무슨 말을 듣고 싶은 건지도 도통 모르겠단 말예요...
-NPC-Keven(5);NPC-Nele(3)<Speaker>넬레</Speaker>||:할 말, 못할 말 다 했다고요... 아니, 못할 말 같은 건 없어요!+제가 아는 건 전부 다 말했어요!+아 씨, 정 그렇게 감방 보내고 싶으면 보내버리던가요!
-NPC-Keven(5)<Speaker>J</Speaker>||:......
-NPC-Keven(5);NPC-Nele(1)<Speaker>넬레</Speaker>||:......그런데, 이런 경우엔 징역 몇 년 나와요...? 3년? 아님 5년?+으아아... 취직한 지 1년도 채 안 됐는데 왜 이리 재수가 옴 붙은 거야...
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(1)||:잠깐만요, 1년도 안 됐다고요? 지금 그레이 박사가 1년도 안 된 인――아 인턴 아니시랬지, 신참한테 개발 중이던 신약을 맡겼다는 겁니까?
-NPC-Keven(5);NPC-Nele(3)<Speaker>넬레</Speaker>||:네? 아, 아무래도 잘못 이해하신 모양인데 전 프로젝트 책임자 같은 게 아니에요.+그냥, 실험 데이터 모아다 정리하는 말단이죠...
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(3)||:그런데 당신이 이둔의 샘플을 건드리도록 놔뒀다고요?+당신, 회사 주식이라도 갖고 있습니까?
-NPC-Nele(3)<Speaker>넬레</Speaker>||:......
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:또 한 차례 발소리가 들려오더니, 웬 남자가 취조실의 문을 열었다.
-()<Speaker>젊은 남자</Speaker>||:어, J 선배님? 어... 죄송합니다, 잘못 들어왔습니다.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:문은 곧바로 닫혔지만, 2초 후 다시 벌컥 열렸다.
-()<Speaker>젊은 남자</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_20Winter_Door_Open</SE1>:어... J 선배님, 그 사람 코넬리아 슈펠 맞죠? 제가 취조하기로 되어 있던데요?
-NPC-Keven(0)<Speaker>J</Speaker>||:아, 이 아가씨랑 아는 사이걸랑.+엄청 겁내길래, 너무 긴장 말라 다독이던 중이었지. 우리 슈타지가 자랑하는 취조 기술에 놀라 기절이라도 하면 어떡하겠냐?
-NPC-Nele(2)<Speaker>넬레</Speaker>||:...당신, 취조하러 온 거 아니었어요?
-NPC-Keven(0)<Speaker>J</Speaker>||:제가 취조하러 왔다 말하긴 했습니까?
-NPC-Nele(2)<Speaker>넬레</Speaker>||:......
-()<Speaker>젊은 남자</Speaker>||:그랬군요... 그럼 조금 있다 다시 올까요?
-NPC-Keven(0)<Speaker>J</Speaker>||:아니아니 그럴 필요 없어. 알았죠 넬레 씨? 너무 긴장할 거 없어요.+이만 가볼 테니 이따 봐요~!
-()<Speaker>젊은 남자</Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:J 선배님이 저래 봬도 상급 요원이신데, 아는 사이라니 보통내기가 아닌가 봅니다?
-NPC-Nele(2)<Speaker>넬레</Speaker>||:......
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>315</BIN>:얼마 후, 영혼이 빠져나간 듯한 표정의 넬레가 건물에서 나왔고, 문앞에서 기다리다 이를 본 미아가 곧장 달려왔다.
-APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레! 괜찮아!?
-APC556(5)<Position>0,120</Position>;NPC-Nele(1)<Speaker>넬레</Speaker>||:흐에에... 취조며 검사며 다 통과했는데 물건은 다 압수당했어... 그리고 한동안 베를린 밖으로 나가지 말고 언제든지 부르면 바로 튀어오래...
-APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(1)||:경찰도 아니고 슈타지가 널 잡으러 왔다 해서 진짜 놀라 죽는 줄 알았다고...
-APC556(5)<Position>0,120</Position>;NPC-Nele(3)<Speaker>넬레</Speaker>||:약품 남용으로 사회 불안감을 조성한 혐의래...+그런데 그 짜증나는 사람 있잖아, 나 취조하는 것도 아닌데 와서 겁주더라!
-APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(3)||:그 J란 사람?
-APC556(4)<Position>0,120</Position>;NPC-Nele(3)<Speaker>넬레</Speaker>||:어! 그레이 선생님이 무슨 테러리스트라고 하질 않나, 완전 깜짝 놀랐어!
-APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(3)||:그래서... 뭐래?
-NPC-Nele(1)<Speaker>넬레</Speaker>||:......+아직은 결론 난 거 없대...
-()<Speaker></Speaker>||:두 사람은 잠시 입을 열지 않았다.+국가안전국 앞의 넓은 거리는, 내리쬐는 햇빛에 다소 눈이 부셨다.
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>섀도리스</Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>343</BIN><common_effect>%%code=NPC_TV_11%%</common_effect>:허가받지 않은 갈라테아제 약품 남용 사건 수사에 진전이 있었습니다.+경찰이 용의자를 체포하여 현재 취조 중이라는 소식입니다.
+()<Speaker>섀도리스</Speaker>||:본 방송국은 해당 사건에 관련하여 갈라테아 그룹에 취재를 요청했으나, 사측은 답변하기를 거부하고 수사 결과를 기다리겠다는 입장을 밝혔습니다.+현재까지 파악된 정보에 따르면, 신형 항붕괴제 "이둔"의 개발을 담당하던 연구소는 여전히 운영이 정지된 상태이며, 책임자인 그레이 박사도 행방이 묘연한 실정입니다. 식약청도, 아직까지 해당 사안에 관해 확실한 입장 표명을 하지 않고 있습니다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Truth</BGM><BIN>158</BIN><黑屏2><关闭蒙版>:국가안전국의 취조실.
+()<Speaker></Speaker>||:에어컨 바람에 장시간 노출되어 얼음장처럼 차가워진 쇠파이프 의자에 앉은 넬레는, 기약 없는 기다림의 고통과 무슨 일이 벌어질지 모르는 두려움에 계속해서 손을 다리 사이에 넣고 비벼댔다.+이윽고 들리는 다가오는 발소리가, 최종 선고를 내리러 오는 것 같았다.
+NPC-Keven(0)<Speaker>J</Speaker>||:어이쿠, 이거 넬레 씨 아닙니까? 이런 데서 만나다니 인연이네요.
+NPC-Nele(2)<Speaker>넬레</Speaker>||:......
+NPC-Keven(0)<Speaker>J</Speaker>||:다시 봐서 안 반가워요?
+NPC-Nele(3)<Speaker>넬레</Speaker>||:...전혀요.
+NPC-Keven(0)<Speaker>J</Speaker>||:그럼 소름은 돋나요?
+NPC-Nele(1)<Speaker>넬레</Speaker>||:조... 조금은요...
+NPC-Keven(0)<Speaker>J</Speaker>||:흠, 목적 달성이군요 그럼.+인사는 이쯤 하고, 본론으로 들어가죠.
+()<Speaker></Speaker>||:J가 손에 든 수첩을 탁상에 툭 던지면서 맞은편의 의자에 앉아, 등받이에 주욱 몸을 기대면서 양손으로 머리를 받쳤다.+저 껄렁한 사람의 얼굴에 차원이 다른 진지함이 엿보이자, 넬레는 형용하기 어려운 두려움을 느꼈다.
+NPC-Keven(5)<Speaker>J</Speaker>||:약에 문제가 있다는 걸 알고있었습니까?
+NPC-Keven(5);NPC-Nele(2)<Speaker>넬레</Speaker>||:네... 아, 아뇨! 전혀 몰랐어요!+그, 그러니까 제 말은... 아직 3차 임상시험은 통과하지 못했지만, 그 전까지의 실험에서 단 한 번도 문제가 발생한 적 없다고요! 왜 그 사람이 그렇게 됐는지는 저도 모르겠어요...
+NPC-Keven(5);NPC-Nele(1)<Speaker>넬레</Speaker>||:막 주사했을 땐 분명 상태가 호전된 것 같았는데... 그리고 남은 약은 전부 가져갔잖아요!+성분 검사 결과 아직 안 나왔어요?
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(1)||:누가 당신에게 약을 줬죠? 그레이입니까?
+NPC-Keven(5);NPC-Nele(1)<Speaker>넬레</Speaker>||:...아뇨, 제가 제 의지로 실험실에서 꺼낸 거예요. 그날 그쪽 봤을 때요.
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(1)||:왜 그랬죠?
+NPC-Keven(5);NPC-Nele(3)<Speaker>넬레</Speaker>||:그때 말했잖아요, 정부가 느닷없이 실험을 중단하라 했다고요. 그때 마침 신규 샘플이 완성됐는데...
+NPC-Keven(5);NPC-Nele(1)<Speaker>넬레</Speaker>||:혹시 못 쓰게 되진 않을까 싶어서, 몇 개 가지고 나온 거예요...
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(1)||:그 약품에 손댈 수 있는 사람은 당신 말고 또 누가 있습니까?
+NPC-Keven(5);NPC-Nele(1)<Speaker>넬레</Speaker>||:...몰라요.
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(1)||:모르는 겁니까, 말할 수 없는 겁니까?
+NPC-Keven(5);NPC-Nele(3)<Speaker>넬레</Speaker>||:저, 정말 몰라서 그래요!+실험실의 연구원마다 권한이 제각각이라, 이 약에 손댈 수 있는 사람이 몇 명이나 되는지 정말 몰라요...
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(3)||:흠... 그럼 다음 질문입니다. 누가 당신을 채용했죠?
+NPC-Keven(5);NPC-Nele(1)<Speaker>넬레</Speaker>||:...그레이 선생님이요.
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(1)||:그레이 본인이요? 소위 "낙하산"이란 겁니까?
+NPC-Keven(5);NPC-Nele(2)<Speaker>넬레</Speaker>||:아뇨아뇨아뇨!! 전 대학생 시절부터 그레이 선생님의 수업을 들었어요! 제가 졸업하고 이력서를 몇 번이나 넣었는데요!
+NPC-Keven(5);NPC-Nele(3)<Speaker>넬레</Speaker>||:그렇게 면접 보고 당당하게 채용된 거라고요!
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(3)||:그럼 그레이 박사가 최근 테러 사건에 연루됐다는 건 아십니까?
+NPC-Keven(5);NPC-Nele(2)<Speaker>넬레</Speaker>||:네에에?!!+그, 그럴 리가요! 선생님은 의사이자 의약품 전문가시지, 무슨 테러리스트가... 사람 잘못 보신 거 아니에요?!
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(2)||:됐으니까 앉아서 제 질문에나 대답하세요.+그레이 박사가 지난 2주 간 어디를 방문했는지 아십니까?
+NPC-Keven(5);NPC-Nele(1)<Speaker>넬레</Speaker>||:당연히 모르죠. 저는 그냥 조수지, 선생님의 비서나 운전기사가 아니에요.+어, 그러고 보니 선생님은 비서도 안 두셨던 거 같네...?
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(1)||:그녀를 마지막으로 본 게 언제죠?
+NPC-Keven(5);NPC-Nele(2)<Speaker>넬레</Speaker>||:어... 저번달 10일쯤이었나... 아, 아니다, 그때도 전화만 받았으니까...+으음... 요 반년 동안 실험실에서도 거의 뵌 적이 없는 거 같은데... 아, 맞다! 저번에 인터뷰하신다고 회사에 오셨었어요!
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(2)||:그거 좀 이상하단 생각은 안 해봤나요?+의사이자 의약품 전문가인 사람이, 그렇게나 장기간 연구소에 얼굴도장도 안 찍다니.
+NPC-Nele(3)<Speaker>넬레</Speaker>||:지금 선생님을 의심하는 거예요!?+그 사람한테 약을 주사한 건, 다 저 혼자 판단한 일이에요! 선생님과는 관계 없어요!
+()<Speaker></Speaker>||:J는 짜증난다는 눈빛으로 고개를 기울여 벽시계를 확인했다.+매 초마다 초침이 움직일수록, 그의 미간의 주름도 점점 더 깊어졌다.
+NPC-Keven(5)<Speaker>J</Speaker>||:잘 생각하고 말해야 할 겁니다.+당신의 대답 한 마디 한 마디가 앞으로 어디서 지내게 될지를 정할 거예요.
+NPC-Keven(5)<Speaker>J</Speaker>||:그레이가 "이둔"을 당신에게 맡긴 것은 당신을 무척 신뢰한다는 의미인데, 아무것도 모른다니...+넬레 씨, 자꾸 이러시면 아무리 저라도 인내심이 바닥나 버립니다?
+NPC-Keven(5);NPC-Nele(3)<Speaker>넬레</Speaker>||:저, 저, 정말 아무것도 모르는걸 어떡해요...+저도 선생님과 함께 일하고 싶었는데, 여태까지 그런 기회도 없었는데...
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(3)||:당신과 그레이 모두, 약품 취급법 위반 혐의에서 벗어날 수 없습니다.+감형이라도 받고 싶으시면 솔직하게 실토하세요, 알았어요?
+NPC-Keven(5);NPC-Nele(3)<Speaker>넬레</Speaker>||:정말 모른다고요!+그쪽이 저한테서 무슨 말을 듣고 싶은 건지도 도통 모르겠단 말예요...
+NPC-Keven(5);NPC-Nele(3)<Speaker>넬레</Speaker>||:할 말, 못할 말 다 했다고요... 아니, 못할 말 같은 건 없어요!+제가 아는 건 전부 다 말했어요!+아 씨, 정 그렇게 감방 보내고 싶으면 보내버리던가요!
+NPC-Keven(5)<Speaker>J</Speaker>||:......
+NPC-Keven(5);NPC-Nele(1)<Speaker>넬레</Speaker>||:......그런데, 이런 경우엔 징역 몇 년 나와요...? 3년? 아님 5년?+으아아... 취직한 지 1년도 채 안 됐는데 왜 이리 재수가 옴 붙은 거야...
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(1)||:잠깐만요, 1년도 안 됐다고요? 지금 그레이 박사가 1년도 안 된 인――아 인턴 아니시랬지, 신참한테 개발 중이던 신약을 맡겼다는 겁니까?
+NPC-Keven(5);NPC-Nele(3)<Speaker>넬레</Speaker>||:네? 아, 아무래도 잘못 이해하신 모양인데 전 프로젝트 책임자 같은 게 아니에요.+그냥, 실험 데이터 모아다 정리하는 말단이죠...
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(3)||:그런데 당신이 이둔의 샘플을 건드리도록 놔뒀다고요?+당신, 회사 주식이라도 갖고 있습니까?
+NPC-Nele(3)<Speaker>넬레</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:또 한 차례 발소리가 들려오더니, 웬 남자가 취조실의 문을 열었다.
+()<Speaker>젊은 남자</Speaker>||:어, J 선배님? 어... 죄송합니다, 잘못 들어왔습니다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:문은 곧바로 닫혔지만, 2초 후 다시 벌컥 열렸다.
+()<Speaker>젊은 남자</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_20Winter_Door_Open</SE1>:어... J 선배님, 그 사람 코넬리아 슈펠 맞죠? 제가 취조하기로 되어 있던데요?
+NPC-Keven(0)<Speaker>J</Speaker>||:아, 이 아가씨랑 아는 사이걸랑.+엄청 겁내길래, 너무 긴장 말라 다독이던 중이었지. 우리 슈타지가 자랑하는 취조 기술에 놀라 기절이라도 하면 어떡하겠냐?
+NPC-Nele(2)<Speaker>넬레</Speaker>||:...당신, 취조하러 온 거 아니었어요?
+NPC-Keven(0)<Speaker>J</Speaker>||:제가 취조하러 왔다 말하긴 했습니까?
+NPC-Nele(2)<Speaker>넬레</Speaker>||:......
+()<Speaker>젊은 남자</Speaker>||:그랬군요... 그럼 조금 있다 다시 올까요?
+NPC-Keven(0)<Speaker>J</Speaker>||:아니아니 그럴 필요 없어. 알았죠 넬레 씨? 너무 긴장할 거 없어요.+이만 가볼 테니 이따 봐요~!
+()<Speaker>젊은 남자</Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:J 선배님이 저래 봬도 상급 요원이신데, 아는 사이라니 보통내기가 아닌가 봅니다?
+NPC-Nele(2)<Speaker>넬레</Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>315</BIN>:얼마 후, 영혼이 빠져나간 듯한 표정의 넬레가 건물에서 나왔고, 문앞에서 기다리다 이를 본 미아가 곧장 달려왔다.
+APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레! 괜찮아!?
+APC556(5)<Position>0,120</Position>;NPC-Nele(1)<Speaker>넬레</Speaker>||:흐에에... 취조며 검사며 다 통과했는데 물건은 다 압수당했어... 그리고 한동안 베를린 밖으로 나가지 말고 언제든지 부르면 바로 튀어오래...
+APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(1)||:경찰도 아니고 슈타지가 널 잡으러 왔다 해서 진짜 놀라 죽는 줄 알았다고...
+APC556(5)<Position>0,120</Position>;NPC-Nele(3)<Speaker>넬레</Speaker>||:약품 남용으로 사회 불안감을 조성한 혐의래...+그런데 그 짜증나는 사람 있잖아, 나 취조하는 것도 아닌데 와서 겁주더라!
+APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(3)||:그 J란 사람?
+APC556(4)<Position>0,120</Position>;NPC-Nele(3)<Speaker>넬레</Speaker>||:어! 그레이 선생님이 무슨 테러리스트라고 하질 않나, 완전 깜짝 놀랐어!
+APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(3)||:그래서... 뭐래?
+NPC-Nele(1)<Speaker>넬레</Speaker>||:......+아직은 결론 난 거 없대...
+()<Speaker></Speaker>||:두 사람은 잠시 입을 열지 않았다.+국가안전국 앞의 넓은 거리는, 내리쬐는 햇빛에 다소 눈이 부셨다.
+()||<黑屏1>:

@@ -1,105 +1,105 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>6</BIN><黑屏2><BGM>10051</BGM>:그리폰의 방어선.
-M1928A1(0)<Speaker>톰슨</Speaker>||:엄폐물은 다 쌓은 것 같군. 예비 진지의 탄약은?
-M9(0)<Speaker>M9</Speaker>||:방금 드론이 다 옮긴 거예요!+그런데, 정말 군이 우리 쪽으로 오는 거예요?
-MAC10(0)<Speaker>MAC10</Speaker>||:헤헤헤... 오면 어때, 이렇게 즐거운 일은 흔치 않은걸.+지난번의 빚도 아직 다 못 갚았다고!
-M3(0)<Speaker>M3</Speaker>||:하, 하지만 저희의 화력으론 군의 장갑 부대를 상대할 수 없지 않나요...?+일반 보병 유닛이라도 거리가 멀면 처치하기 힘든데...
-M1928A1(0)<Speaker>톰슨</Speaker>||:걱정 마, 보스도 다 생각이 있으니까.+B-3 소대, 들리나?
-MP5(0)<Speaker>MP5</Speaker>||:네, 네엣! 벌써 적이 왔나요?!
-MP5(0);M1928A1(0)<Speaker>톰슨</Speaker>||:긴장 풀어, MP5. 정기 연락했을 뿐이야.
-MP5(0)<Speaker>MP5</Speaker>;M1928A1(0)||:까, 깜짝 놀랐네...+저희는 방어선 후방에 폭탄 설치를 끝마쳤어요. 그런데, 퇴로에 폭탄을 설치해도 정말 괜찮은 건가요?
-MP5(0);M1928A1(0)<Speaker>톰슨</Speaker>||:보스가 다 생각하고 내린 지시야.
-M1928A1(0)<Speaker>톰슨</Speaker>||<黑点1>:B-4와 B-5 소대는?
-P7(0)<Speaker>P7</Speaker>||<黑点2>:여기도 문제없어!
-92type(0)<Speaker>92식</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>B-5도 이상 없습니다.</color>+<color=#00CCFF>그래도 너무 자주 연락하는 거 아닌가요?</color>
-P7(0)<Speaker>P7</Speaker>||:B-4도 이제 준비 완료야!+이제 놈들을 해치우는 일만 남았네!
-PM(0)<Speaker>마카로프</Speaker>||:톰슨은 적이 우릴 아무도 모르는 사이에 없애버리지 않을까 걱정하는 거야. 어차피 네가 연락 담당인 것도 아닌데 뭘.
-PM(0);92type(0)<Speaker>92식</Speaker><通讯框>||:<color=#00CCFF>그건 그렇네요. 그런데, P7이 준비 완료라고 하니 장난이라도 칠까 불안한데... 믿어도 되는 거예요?</color>
-PM(0)<Speaker>마카로프</Speaker>;92type(0)<通讯框>||:걱정할 것 없어, P7도 작전 중엔 나름 얌전해지니까.
-PM(0);92type(0)<Speaker>92식</Speaker><通讯框>||:<color=#00CCFF>그러길 바라죠, 이런 상황에서――</color>+<color=#00CCFF>잠깐, "나름"이라니요?</color>
-PM(0)<Speaker>마카로프</Speaker>;92type(0)<通讯框>||:아무렴 어때, 그래봤자 모두 함께 낯선 캡슐 안에서 깨어나는 건데.
-PM(0);92type(0)<Speaker>92식</Speaker><通讯框>||:<color=#00CCFF>정말... 다시 깨어날 수 있을까요?</color>
-PM(0)<Speaker>마카로프</Speaker>;92type(0)<通讯框>||:깨어날 거야. 지휘관을 믿어.+참, 스텐이랑 토마토 녀석은 어디 갔어?
-PM(0);92type(0)<Speaker>92식</Speaker><通讯框>||:<color=#00CCFF>북서쪽에 아직 확인하지 않은 건물이 있어서 정찰 겸 함정을 설치하러 갔어요.</color>
-PM(0)<Speaker>마카로프</Speaker>;92type(0)<通讯框>||:싸움이 시작되기도 전에 자기 함정에 걸리지나 않았으면 좋겠네...+현 팔레트 소대의 대장으로서, 선임 대장한테 부끄러운 꼴을 보일 순 없다고.
-PM(0);92type(0)<Speaker>92식</Speaker><通讯框>||:<color=#00CCFF>현재 위치 확인할까요?</color>
-PM(0)<Speaker>마카로프</Speaker>;92type(0)<通讯框>||<黑点1>:연락해 봐.
-92type(0)<Speaker>92식</Speaker>||<BIN>7</BIN><黑点2>:B-5-1가 B-5-2에게.+스텐, 들려? 지금 상황 어때? 왜 그렇게 오래 걸려?
-92type(0);StenMK2(0)<Speaker>스텐MkⅡ</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>아, 92식이구나.</color>+<color=#00CCFF>지정 위치에 지뢰 매설 다 끝났어.</color>
-92type(0)<Speaker>92식</Speaker>;StenMK2(0)<通讯框>||:그럼 안 돌아오고 뭐해?
-92type(0);StenMK2(0)<Speaker>스텐MkⅡ</Speaker><通讯框>||<黑点1>:<color=#00CCFF>그게... </color>+<color=#00CCFF>네게브 씨가 좀 도와 달라고 해서...</color>
-NEGEV(0)<Speaker>네게브</Speaker>||<BIN>6</BIN><黑点2>:C-3이 B-5에게.+여기는 네게브. 말도 없이 너네 대원을 빌려서 미안해.
-NEGEV(0);92type(0)<Speaker>92식</Speaker><通讯框>||:<color=#00CCFF>네게브 소대군요. 괜찮아요, 얼마든지 부려먹으세요.</color>
-NEGEV(0)<Speaker>네게브</Speaker>;92type(0)<通讯框>||:고마워. 여기 진지 공사 끝나는 대로 돌려보낼게.
-NEGEV(0)<Speaker>네게브</Speaker>||:물건은 다 옮겼어?
-AAT52(0)<Speaker>AAT52</Speaker>||:무, 무거워...
-NEGEV(0)<Speaker>네게브</Speaker>||:넌 기관총 쓰는 주제에 왜 그렇게 힘이 없어?
-AAT52(0)<Speaker>AAT52</Speaker>||:모래주머니 수십 개를 한 번에 옮기면... 누구나 힘들다고요... 헥... 헥...
-MicroUZI(0)<Speaker>우지</Speaker>||:우리 진지가 뚫리면 바로 너희 측면이 노출되는데 불평하면 쓰나. 그러니까 좀 더 부탁해, 토마토 씨~
-AAT52(0)<Speaker>AAT52</Speaker>||:토마토 아니거든요!
-TAR21(0)<Speaker>TAR21</Speaker>||:정말 죄송해요. 하지만 지휘관님께서 저희 기관총 진지를 최대한 튼튼하게 만들라 하셔서...
-StenMK2(0)<Speaker>스텐MkⅡ</Speaker>||:괜찮아요, 이런 때일수록 서로 도와야죠. 그치, 토마토 씨?
-AAT52(0)<Speaker>AAT52</Speaker>||:기왕이면 사과라 불러 달라고요... 으으, 손목 빠질 거 같아...
-NEGEV(0)<Speaker>네게브</Speaker>||:모래주머니 몇 개 안 남았으니까 조금만 더 힘내.+여기는 방어선의 최전방이야. 놈들이 이쪽으로 접근하지도 못하도록 막아야 해.
-StenMK2(0)<Speaker>스텐MkⅡ</Speaker>||:여기가 최전방이었어요? 아까 인형 몇 명이 더 바깥쪽으로 이동하던데요?
-NEGEV(0)<Speaker>네게브</Speaker>||<黑点1>:정찰팀이야. 군부대가 점점 다가오는 만큼, 놈들의 동향을 주시해야 하니까.+그나저나, 시간이 꽤 지났는데도 연락이 없으니 무사하기나 한지 모르겠네.
-Welrod(0)<Speaker>웰로드MkⅡ</Speaker>||<BIN>7</BIN><黑点2>:G-1가 G-5에게. 우리의 위치가 보이나?
-Welrod(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>G-5가 G-1에게. 네, 아주 잘 보여요.</color>
-Welrod(0)<Speaker>웰로드MkⅡ</Speaker>;98k(0)<通讯框>||:엄호를 잘 부탁하겠다. 적도 정찰 부대를 보내 이쪽으로 접근하고 있는 것 같다.
-Welrod(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>알겠습니다. 하지만 조금 뒤로 물러나는 게 어떻겠어요? 지금 그 위치는 너무 위험해요.</color>
-Welrod(0)<Speaker>웰로드MkⅡ</Speaker>;98k(0)<通讯框>||:걱정해 줘서 고맙지만, 적의 장갑 열차를 염탐하기엔 이 위치가 최적이다.+적의 동향을 조금이라도 더 빨리, 더 많이 알아야 아군의 피해를 줄일 수 있으니 말이다.
-Welrod(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>...알겠습니다.</color>+<color=#00CCFF>전력을 다해 엄호하죠.</color>
-Welrod(0)<Speaker>웰로드MkⅡ</Speaker>;98k(0)<通讯框>||:잠깐...
-Welrod(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>무슨 일이죠?</color>
-Welrod(0)<Speaker>웰로드MkⅡ</Speaker>;98k(0)<通讯框>||:소규모의 적대 신호가 이 위치로 접근 중이다. 아마 정찰을 나온 자율 부대겠지.+놈들을 방어선이 보이는 위치까지 접근하게 놔둬선 안 되니, 여기서 섬멸하자.+탐지된 신호의 좌표를 공유했다.
-Welrod(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||<黑点1>:<color=#00CCFF>네, 이 정도 규모라면 문제없을 거예요.</color>+<color=#00CCFF>StG, 엄호 지원해야 하니 모두 부르세요.</color>
-STG44Mod(0)<Speaker>StG44</Speaker>||<黑点2>:네, 지금 연락할게요.+G43 씨, 아직도 보급 포인트인가요?
-STG44Mod(0);g43(0)<Speaker>G43</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>지금 복귀하는 중이에요.</color>
-STG44Mod(0)<Speaker>StG44</Speaker>||:작전 변경입니다. 3번 사격 지점으로 오세요. 교전 계획이 앞당겨졌어요.
-STG44Mod(0);g43(0)<Speaker>G43</Speaker><通讯框>||<黑点1>:<color=#00CCFF>네, 당장 갈게요!</color>
-g43(0)<Speaker>G43</Speaker>||<黑点2>:MP41, 작전 변경이래.
-MP41(0)<Speaker>MP41</Speaker>||:오! 카라비너 선배한테서 연락인가요?
-g43(0)<Speaker>G43</Speaker>||:지금 당장 3번 사격 지점으로 오랬어.
-MP41(0)<Speaker>MP41</Speaker>||:어... 지금 당장이요?+이 주변의 상황을 정리해서 지휘관님께 보고하려 했는데...
-g43(0)<Speaker>G43</Speaker>||:그런 보고는 조금 이따가 해도 되잖아. 내 관측병 역할이나 잘해, 카라비너 선배와 함께 싸울 기회는 엄청 드물다고!
-MP41(0)<Speaker>MP41</Speaker>||:으음... 그러죠 뭐. 만약 당신이 먼저 당하면 전 바로 카라비너 선배를 도우러 가도 되니... 나쁠 것 없겠네요.
-g43(0)<Speaker>G43</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:불길한 소리 하지 마!
-()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:열차의 지휘실.
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:모두 거의 다 준비된 것 같아요.
-()<Speaker>지휘관</Speaker>||:음. 그리고 적도 마찬가지겠지.+댄들라이, 인형들의 백업은 끝났나?
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||:완료했습니다. 하지만 교전이 시작된다면, 파괴되는 인형들의 실시간 마인드맵 백업은 불가능합니다. 아무리 저라도, 그건 연산에 부담이 큽니다.
-()<Speaker>지휘관</Speaker>||:전투 전에 모두 백업한 것만으로도 감지덕지야.+만약 우리가 전멸하더라도... 너나 M4만이라도 빠져나간다면, 그 아이들은 계속 살아갈 수 있을 테니.
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||:이론상으로는 그렇겠죠.+하지만 그런 발언은 여러분의 심리적 부담을 키울 뿐입니다. 카리나 씨만 해도 매우 긴장되어 보이는군요.
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:으으...
-()<Speaker>지휘관</Speaker>||:아... 미안해, 카리나.
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:괘, 괜찮아요 지휘관님. 헤헤헤... 이런 일이 한두 번 있는 것도 아닌데요.
-()<Speaker>지휘관</Speaker>||:나도 내가 괜히 호들갑 떠는 거라면 좋겠지만, 이번엔 정말로 불길한 예감밖에 들지를 않아. 지금까지 함께했던 행운이 드디어 바닥난 것만 같은 느낌이야...
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||:현재 모든 제대의 정보를 정리, 전장의 상태를 분석해 메인 모니터에 띄웠습니다.+병력의 상황과 적의 예상 경로도 포함했으니, 이것으로 부담감을 덜으셨으면 합니다.
-()<Speaker>지휘관</Speaker>||:어떻게 이렇게...?+이런 건 설비가 갖춰진 기지에서나 가능한 서포트인데...
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||:저를... 최고 사양의 작전 보조용 슈퍼컴퓨터라 보셔도 무방합니다.+그리폰에서 이런 대접을 받을 자격이 있는 사람은 당신뿐입니다. 그야말로, 그리폰 VIP 특권인 것이죠.
-()<Speaker>지휘관</Speaker>||:............
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||:...재미없으셨습니까?+이 농담으로 조금이나마 분위기를 완화할 수 있으리라 판단했는데, 적절치 않았나 보군요. 이러한 상황에선 자제하도록 하겠습니다.
-()<Speaker>지휘관</Speaker>||:하아... 신경 써 준 건 고맙다만, 지금은 작전에 집중하자.
-()||<SE1>AVG_tele_connect</SE1>:삐이익! 하는 버저음이 지휘실에 울려 퍼졌다.
-()<Speaker>지휘관</Speaker>||:무슨 일이지?
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:정찰팀의 보고예요. 군의 장갑 열차가 정지 후 배치한 다수의 자율 부대와 교전 중입니다.+현재 적 열차는 지상 부대를 계속해서 투입 중으로, 좌우 양측으로 각각 2개 중대 규모로 전개하고 있습니다!
-()<Speaker>지휘관</Speaker>||:협공하려는 것이군. 잔수작 부리지 않고 전력으로 우릴 돌파할 생각이야.+다른 동향은 없어?
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:어...? 자, 잠깐만요. 연락이 갑자기 끊겼...+저격팀으로부터 긴급 보고... 저, 정찰팀이 포격을 맞았다고...!
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||:그 교전으로 정찰팀의 위치가 발각되었고, 적 열차포의 화력 투사로 G-1, G-3, G-7 소대의 신호가 소멸했습니다.+K 그룹의 두 소대도 철로에 폭탄을 설치하던 중 박격포 공격을 받아, 엄폐물까지 후퇴했습니다.+주 방어선에 배치된 제대는 아직 엄폐 중입니다만, B 그룹이 G 그룹에 대한 지원 허가를 요청하고 있습니다.
-()<Speaker>지휘관</Speaker>||:빌어먹을... 정말 인정사정 봐주지 않는군.+전 G 그룹 제대에게 긴급 철수 명령.+ 방어선 제대는 그대로 엄폐를 유지하고, 노출되지 않게 주의하도록. 위치가 발각되는 즉시 포격이 날아올 거야.+작전은 그대로 플랜 A로 속행한다.
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:라헤페레 만 방어선도 포격을 받았어요!+해당 위치의 방어 제대는 포화를 피해 능선 뒤로 대피했다고 합니다!
-()<Speaker>지휘관</Speaker>||<黑屏1>:그쪽으로 돌파할 생각인가...
-()||<BIN>9</BIN><黑屏2>:같은 시각...+군의 장갑 열차.
-NPC-Yegor(4)<Speaker>예고르</Speaker>||:상황 보고.
-NPC-Yegor(4);NPC-Yegor(3)<Speaker>부관</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>자율 부대가 그리폰의 정찰 부대를 발견, 좌표를 전송받아 포격으로 섬멸했습니다.</color>+<color=#00CCFF>52 및 54 기갑 중대의 배치가 완료, 14 수색 보병 중대도 위치했습니다.</color>+<color=#00CCFF>C, D 자동화 중대는 아직 시운행 중이어서, 준비 완료까지 몇 분 정도 더 소요됩니다.</color>
-NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Yegor(3)<通讯框>||:사전 계획에 따라 인형과 보병을 혼합 편성하고, 적의 전자전 공격에 주의하라.+그리폰은 분명 이 병목 구간에서 우릴 막을 셈이겠지. 그렇다면 방어선을 구축할 지점도 매우 제한되어 있을 터다. 예상되는 지점을 전부 포격하라.
-NPC-Yegor(4);NPC-Yegor(3)<Speaker>부관</Speaker><通讯框>||:<color=#00CCFF>알겠습니다.</color>+<color=#00CCFF>외람되오나, 질문해도 되겠습니까?</color>+<color=#00CCFF>아무리 저들의 수완이 뛰어나다곤 해도, 일개 PMC잖습니까. 굳이 파상 공세로 천천히 몰아붙일 필요가 있습니까?</color>
-NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Yegor(3)<通讯框>||:그리폰 놈들은 그저 들러리에 불과하다. 우리의 진정한 적은 여전히 어딘가에 숨어서 우릴 지켜보고 있을 거다. 이번 임무는 절대로 실패해서는 안 되니, 신중에 신중을 기해야만 한다.
-NPC-Yegor(4);NPC-Yegor(3)<Speaker>부관</Speaker><通讯框>||:<color=#00CCFF>알겠습니다.</color>
-NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Yegor(3)<通讯框>||:전 기갑 병력을 북측에 배치해라. 그리폰보다는 팔디스키의 해안선 방어 체계가 더 위협적이다.+하지만 그곳에서 포격이 날아오지 않고 있다는 건, 그리폰이 아직 그곳을 확보하지 못했다는 뜻이겠지.
-NPC-Yegor(4);NPC-Yegor(3)<Speaker>부관</Speaker><通讯框>||:<color=#00CCFF>팔디스키는 본디 저희의 군사 기지 아니었습니까?</color>
-NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Yegor(3)<通讯框>||:그랬지. 하지만 어느 망할 자식에게 빼앗기고 말았다.
-NPC-Yegor(4);NPC-Yegor(3)<Speaker>부관</Speaker><通讯框>||:<color=#00CCFF>그러니 되찾아야 하는군요.</color>
-NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Yegor(3)<通讯框>||:그래, 반드시 되찾아야 한다. 짓밟힌 우리 군의 영광과 함께.
-NPC-Yegor(4);NPC-Yegor(3)<Speaker>부관</Speaker><通讯框>||:<color=#00CCFF>예!</color>+<color=#00CCFF>아직 PMC 놈들은 진지를 구축하느라 정신이 없습니다. 언제 진격하겠습니까?</color>+<color=#00CCFF>병사들도 다들 놈들에게 마땅한 대가를 치르게 하고 싶어 안달이 나, 사기가 하늘을 찌르고 있습니다.</color>+<color=#00CCFF>지옥까지라도 대위님과 함께하겠습니다.</color>
-NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Yegor(3)<通讯框>||<黑屏1>:알고 있다. 나도 동지들과 같은 심정이다.+하지만 명심해라. 우리는 군인이다. 명령에는 절대복종한다.+아직은 때가 아니니, 우선 놈들에게 포격으로 우리의 분노를 맛보여 주도록.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>6</BIN><黑屏2><BGM>10051</BGM>:그리폰의 방어선.
+M1928A1(0)<Speaker>톰슨</Speaker>||:엄폐물은 다 쌓은 것 같군. 예비 진지의 탄약은?
+M9(0)<Speaker>M9</Speaker>||:방금 드론이 다 옮긴 거예요!+그런데, 정말 군이 우리 쪽으로 오는 거예요?
+MAC10(0)<Speaker>MAC10</Speaker>||:헤헤헤... 오면 어때, 이렇게 즐거운 일은 흔치 않은걸.+지난번의 빚도 아직 다 못 갚았다고!
+M3(0)<Speaker>M3</Speaker>||:하, 하지만 저희의 화력으론 군의 장갑 부대를 상대할 수 없지 않나요...?+일반 보병 유닛이라도 거리가 멀면 처치하기 힘든데...
+M1928A1(0)<Speaker>톰슨</Speaker>||:걱정 마, 보스도 다 생각이 있으니까.+B-3 소대, 들리나?
+MP5(0)<Speaker>MP5</Speaker>||:네, 네엣! 벌써 적이 왔나요?!
+MP5(0);M1928A1(0)<Speaker>톰슨</Speaker>||:긴장 풀어, MP5. 정기 연락했을 뿐이야.
+MP5(0)<Speaker>MP5</Speaker>;M1928A1(0)||:까, 깜짝 놀랐네...+저희는 방어선 후방에 폭탄 설치를 끝마쳤어요. 그런데, 퇴로에 폭탄을 설치해도 정말 괜찮은 건가요?
+MP5(0);M1928A1(0)<Speaker>톰슨</Speaker>||:보스가 다 생각하고 내린 지시야.
+M1928A1(0)<Speaker>톰슨</Speaker>||<黑点1>:B-4와 B-5 소대는?
+P7(0)<Speaker>P7</Speaker>||<黑点2>:여기도 문제없어!
+92type(0)<Speaker>92식</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>B-5도 이상 없습니다.</color>+<color=#00CCFF>그래도 너무 자주 연락하는 거 아닌가요?</color>
+P7(0)<Speaker>P7</Speaker>||:B-4도 이제 준비 완료야!+이제 놈들을 해치우는 일만 남았네!
+PM(0)<Speaker>마카로프</Speaker>||:톰슨은 적이 우릴 아무도 모르는 사이에 없애버리지 않을까 걱정하는 거야. 어차피 네가 연락 담당인 것도 아닌데 뭘.
+PM(0);92type(0)<Speaker>92식</Speaker><通讯框>||:<color=#00CCFF>그건 그렇네요. 그런데, P7이 준비 완료라고 하니 장난이라도 칠까 불안한데... 믿어도 되는 거예요?</color>
+PM(0)<Speaker>마카로프</Speaker>;92type(0)<通讯框>||:걱정할 것 없어, P7도 작전 중엔 나름 얌전해지니까.
+PM(0);92type(0)<Speaker>92식</Speaker><通讯框>||:<color=#00CCFF>그러길 바라죠, 이런 상황에서――</color>+<color=#00CCFF>잠깐, "나름"이라니요?</color>
+PM(0)<Speaker>마카로프</Speaker>;92type(0)<通讯框>||:아무렴 어때, 그래봤자 모두 함께 낯선 캡슐 안에서 깨어나는 건데.
+PM(0);92type(0)<Speaker>92식</Speaker><通讯框>||:<color=#00CCFF>정말... 다시 깨어날 수 있을까요?</color>
+PM(0)<Speaker>마카로프</Speaker>;92type(0)<通讯框>||:깨어날 거야. 지휘관을 믿어.+참, 스텐이랑 토마토 녀석은 어디 갔어?
+PM(0);92type(0)<Speaker>92식</Speaker><通讯框>||:<color=#00CCFF>북서쪽에 아직 확인하지 않은 건물이 있어서 정찰 겸 함정을 설치하러 갔어요.</color>
+PM(0)<Speaker>마카로프</Speaker>;92type(0)<通讯框>||:싸움이 시작되기도 전에 자기 함정에 걸리지나 않았으면 좋겠네...+현 팔레트 소대의 대장으로서, 선임 대장한테 부끄러운 꼴을 보일 순 없다고.
+PM(0);92type(0)<Speaker>92식</Speaker><通讯框>||:<color=#00CCFF>현재 위치 확인할까요?</color>
+PM(0)<Speaker>마카로프</Speaker>;92type(0)<通讯框>||<黑点1>:연락해 봐.
+92type(0)<Speaker>92식</Speaker>||<BIN>7</BIN><黑点2>:B-5-1가 B-5-2에게.+스텐, 들려? 지금 상황 어때? 왜 그렇게 오래 걸려?
+92type(0);StenMK2(0)<Speaker>스텐MkⅡ</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>아, 92식이구나.</color>+<color=#00CCFF>지정 위치에 지뢰 매설 다 끝났어.</color>
+92type(0)<Speaker>92식</Speaker>;StenMK2(0)<通讯框>||:그럼 안 돌아오고 뭐해?
+92type(0);StenMK2(0)<Speaker>스텐MkⅡ</Speaker><通讯框>||<黑点1>:<color=#00CCFF>그게... </color>+<color=#00CCFF>네게브 씨가 좀 도와 달라고 해서...</color>
+NEGEV(0)<Speaker>네게브</Speaker>||<BIN>6</BIN><黑点2>:C-3이 B-5에게.+여기는 네게브. 말도 없이 너네 대원을 빌려서 미안해.
+NEGEV(0);92type(0)<Speaker>92식</Speaker><通讯框>||:<color=#00CCFF>네게브 소대군요. 괜찮아요, 얼마든지 부려먹으세요.</color>
+NEGEV(0)<Speaker>네게브</Speaker>;92type(0)<通讯框>||:고마워. 여기 진지 공사 끝나는 대로 돌려보낼게.
+NEGEV(0)<Speaker>네게브</Speaker>||:물건은 다 옮겼어?
+AAT52(0)<Speaker>AAT52</Speaker>||:무, 무거워...
+NEGEV(0)<Speaker>네게브</Speaker>||:넌 기관총 쓰는 주제에 왜 그렇게 힘이 없어?
+AAT52(0)<Speaker>AAT52</Speaker>||:모래주머니 수십 개를 한 번에 옮기면... 누구나 힘들다고요... 헥... 헥...
+MicroUZI(0)<Speaker>우지</Speaker>||:우리 진지가 뚫리면 바로 너희 측면이 노출되는데 불평하면 쓰나. 그러니까 좀 더 부탁해, 토마토 씨~
+AAT52(0)<Speaker>AAT52</Speaker>||:토마토 아니거든요!
+TAR21(0)<Speaker>TAR21</Speaker>||:정말 죄송해요. 하지만 지휘관님께서 저희 기관총 진지를 최대한 튼튼하게 만들라 하셔서...
+StenMK2(0)<Speaker>스텐MkⅡ</Speaker>||:괜찮아요, 이런 때일수록 서로 도와야죠. 그치, 토마토 씨?
+AAT52(0)<Speaker>AAT52</Speaker>||:기왕이면 사과라 불러 달라고요... 으으, 손목 빠질 거 같아...
+NEGEV(0)<Speaker>네게브</Speaker>||:모래주머니 몇 개 안 남았으니까 조금만 더 힘내.+여기는 방어선의 최전방이야. 놈들이 이쪽으로 접근하지도 못하도록 막아야 해.
+StenMK2(0)<Speaker>스텐MkⅡ</Speaker>||:여기가 최전방이었어요? 아까 인형 몇 명이 더 바깥쪽으로 이동하던데요?
+NEGEV(0)<Speaker>네게브</Speaker>||<黑点1>:정찰팀이야. 군부대가 점점 다가오는 만큼, 놈들의 동향을 주시해야 하니까.+그나저나, 시간이 꽤 지났는데도 연락이 없으니 무사하기나 한지 모르겠네.
+Welrod(0)<Speaker>웰로드MkⅡ</Speaker>||<BIN>7</BIN><黑点2>:G-1가 G-5에게. 우리의 위치가 보이나?
+Welrod(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>G-5가 G-1에게. 네, 아주 잘 보여요.</color>
+Welrod(0)<Speaker>웰로드MkⅡ</Speaker>;98k(0)<通讯框>||:엄호를 잘 부탁하겠다. 적도 정찰 부대를 보내 이쪽으로 접근하고 있는 것 같다.
+Welrod(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>알겠습니다. 하지만 조금 뒤로 물러나는 게 어떻겠어요? 지금 그 위치는 너무 위험해요.</color>
+Welrod(0)<Speaker>웰로드MkⅡ</Speaker>;98k(0)<通讯框>||:걱정해 줘서 고맙지만, 적의 장갑 열차를 염탐하기엔 이 위치가 최적이다.+적의 동향을 조금이라도 더 빨리, 더 많이 알아야 아군의 피해를 줄일 수 있으니 말이다.
+Welrod(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>...알겠습니다.</color>+<color=#00CCFF>전력을 다해 엄호하죠.</color>
+Welrod(0)<Speaker>웰로드MkⅡ</Speaker>;98k(0)<通讯框>||:잠깐...
+Welrod(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>무슨 일이죠?</color>
+Welrod(0)<Speaker>웰로드MkⅡ</Speaker>;98k(0)<通讯框>||:소규모의 적대 신호가 이 위치로 접근 중이다. 아마 정찰을 나온 자율 부대겠지.+놈들을 방어선이 보이는 위치까지 접근하게 놔둬선 안 되니, 여기서 섬멸하자.+탐지된 신호의 좌표를 공유했다.
+Welrod(0);98k(0)<Speaker>Kar98k</Speaker><通讯框>||<黑点1>:<color=#00CCFF>네, 이 정도 규모라면 문제없을 거예요.</color>+<color=#00CCFF>StG, 엄호 지원해야 하니 모두 부르세요.</color>
+STG44Mod(0)<Speaker>StG44</Speaker>||<黑点2>:네, 지금 연락할게요.+G43 씨, 아직도 보급 포인트인가요?
+STG44Mod(0);g43(0)<Speaker>G43</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>지금 복귀하는 중이에요.</color>
+STG44Mod(0)<Speaker>StG44</Speaker>||:작전 변경입니다. 3번 사격 지점으로 오세요. 교전 계획이 앞당겨졌어요.
+STG44Mod(0);g43(0)<Speaker>G43</Speaker><通讯框>||<黑点1>:<color=#00CCFF>네, 당장 갈게요!</color>
+g43(0)<Speaker>G43</Speaker>||<黑点2>:MP41, 작전 변경이래.
+MP41(0)<Speaker>MP41</Speaker>||:오! 카라비너 선배한테서 연락인가요?
+g43(0)<Speaker>G43</Speaker>||:지금 당장 3번 사격 지점으로 오랬어.
+MP41(0)<Speaker>MP41</Speaker>||:어... 지금 당장이요?+이 주변의 상황을 정리해서 지휘관님께 보고하려 했는데...
+g43(0)<Speaker>G43</Speaker>||:그런 보고는 조금 이따가 해도 되잖아. 내 관측병 역할이나 잘해, 카라비너 선배와 함께 싸울 기회는 엄청 드물다고!
+MP41(0)<Speaker>MP41</Speaker>||:으음... 그러죠 뭐. 만약 당신이 먼저 당하면 전 바로 카라비너 선배를 도우러 가도 되니... 나쁠 것 없겠네요.
+g43(0)<Speaker>G43</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:불길한 소리 하지 마!
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:열차의 지휘실.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:모두 거의 다 준비된 것 같아요.
+()<Speaker>지휘관</Speaker>||:음. 그리고 적도 마찬가지겠지.+댄들라이, 인형들의 백업은 끝났나?
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:완료했습니다. 하지만 교전이 시작된다면, 파괴되는 인형들의 실시간 마인드맵 백업은 불가능합니다. 아무리 저라도, 그건 연산에 부담이 큽니다.
+()<Speaker>지휘관</Speaker>||:전투 전에 모두 백업한 것만으로도 감지덕지야.+만약 우리가 전멸하더라도... 너나 M4만이라도 빠져나간다면, 그 아이들은 계속 살아갈 수 있을 테니.
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:이론상으로는 그렇겠죠.+하지만 그런 발언은 여러분의 심리적 부담을 키울 뿐입니다. 카리나 씨만 해도 매우 긴장되어 보이는군요.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:으으...
+()<Speaker>지휘관</Speaker>||:아... 미안해, 카리나.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:괘, 괜찮아요 지휘관님. 헤헤헤... 이런 일이 한두 번 있는 것도 아닌데요.
+()<Speaker>지휘관</Speaker>||:나도 내가 괜히 호들갑 떠는 거라면 좋겠지만, 이번엔 정말로 불길한 예감밖에 들지를 않아. 지금까지 함께했던 행운이 드디어 바닥난 것만 같은 느낌이야...
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:현재 모든 제대의 정보를 정리, 전장의 상태를 분석해 메인 모니터에 띄웠습니다.+병력의 상황과 적의 예상 경로도 포함했으니, 이것으로 부담감을 덜으셨으면 합니다.
+()<Speaker>지휘관</Speaker>||:어떻게 이렇게...?+이런 건 설비가 갖춰진 기지에서나 가능한 서포트인데...
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:저를... 최고 사양의 작전 보조용 슈퍼컴퓨터라 보셔도 무방합니다.+그리폰에서 이런 대접을 받을 자격이 있는 사람은 당신뿐입니다. 그야말로, 그리폰 VIP 특권인 것이죠.
+()<Speaker>지휘관</Speaker>||:............
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:...재미없으셨습니까?+이 농담으로 조금이나마 분위기를 완화할 수 있으리라 판단했는데, 적절치 않았나 보군요. 이러한 상황에선 자제하도록 하겠습니다.
+()<Speaker>지휘관</Speaker>||:하아... 신경 써 준 건 고맙다만, 지금은 작전에 집중하자.
+()||<SE1>AVG_tele_connect</SE1>:삐이익! 하는 버저음이 지휘실에 울려 퍼졌다.
+()<Speaker>지휘관</Speaker>||:무슨 일이지?
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:정찰팀의 보고예요. 군의 장갑 열차가 정지 후 배치한 다수의 자율 부대와 교전 중입니다.+현재 적 열차는 지상 부대를 계속해서 투입 중으로, 좌우 양측으로 각각 2개 중대 규모로 전개하고 있습니다!
+()<Speaker>지휘관</Speaker>||:협공하려는 것이군. 잔수작 부리지 않고 전력으로 우릴 돌파할 생각이야.+다른 동향은 없어?
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:어...? 자, 잠깐만요. 연락이 갑자기 끊겼...+저격팀으로부터 긴급 보고... 저, 정찰팀이 포격을 맞았다고...!
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:그 교전으로 정찰팀의 위치가 발각되었고, 적 열차포의 화력 투사로 G-1, G-3, G-7 소대의 신호가 소멸했습니다.+K 그룹의 두 소대도 철로에 폭탄을 설치하던 중 박격포 공격을 받아, 엄폐물까지 후퇴했습니다.+주 방어선에 배치된 제대는 아직 엄폐 중입니다만, B 그룹이 G 그룹에 대한 지원 허가를 요청하고 있습니다.
+()<Speaker>지휘관</Speaker>||:빌어먹을... 정말 인정사정 봐주지 않는군.+전 G 그룹 제대에게 긴급 철수 명령.+ 방어선 제대는 그대로 엄폐를 유지하고, 노출되지 않게 주의하도록. 위치가 발각되는 즉시 포격이 날아올 거야.+작전은 그대로 플랜 A로 속행한다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:라헤페레 만 방어선도 포격을 받았어요!+해당 위치의 방어 제대는 포화를 피해 능선 뒤로 대피했다고 합니다!
+()<Speaker>지휘관</Speaker>||<黑屏1>:그쪽으로 돌파할 생각인가...
+()||<BIN>9</BIN><黑屏2>:같은 시각...+군의 장갑 열차.
+NPC-Yegor(4)<Speaker>예고르</Speaker>||:상황 보고.
+NPC-Yegor(4);NPC-Yegor(3)<Speaker>부관</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>자율 부대가 그리폰의 정찰 부대를 발견, 좌표를 전송받아 포격으로 섬멸했습니다.</color>+<color=#00CCFF>52 및 54 기갑 중대의 배치가 완료, 14 수색 보병 중대도 위치했습니다.</color>+<color=#00CCFF>C, D 자동화 중대는 아직 시운행 중이어서, 준비 완료까지 몇 분 정도 더 소요됩니다.</color>
+NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Yegor(3)<通讯框>||:사전 계획에 따라 인형과 보병을 혼합 편성하고, 적의 전자전 공격에 주의하라.+그리폰은 분명 이 병목 구간에서 우릴 막을 셈이겠지. 그렇다면 방어선을 구축할 지점도 매우 제한되어 있을 터다. 예상되는 지점을 전부 포격하라.
+NPC-Yegor(4);NPC-Yegor(3)<Speaker>부관</Speaker><通讯框>||:<color=#00CCFF>알겠습니다.</color>+<color=#00CCFF>외람되오나, 질문해도 되겠습니까?</color>+<color=#00CCFF>아무리 저들의 수완이 뛰어나다곤 해도, 일개 PMC잖습니까. 굳이 파상 공세로 천천히 몰아붙일 필요가 있습니까?</color>
+NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Yegor(3)<通讯框>||:그리폰 놈들은 그저 들러리에 불과하다. 우리의 진정한 적은 여전히 어딘가에 숨어서 우릴 지켜보고 있을 거다. 이번 임무는 절대로 실패해서는 안 되니, 신중에 신중을 기해야만 한다.
+NPC-Yegor(4);NPC-Yegor(3)<Speaker>부관</Speaker><通讯框>||:<color=#00CCFF>알겠습니다.</color>
+NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Yegor(3)<通讯框>||:전 기갑 병력을 북측에 배치해라. 그리폰보다는 팔디스키의 해안선 방어 체계가 더 위협적이다.+하지만 그곳에서 포격이 날아오지 않고 있다는 건, 그리폰이 아직 그곳을 확보하지 못했다는 뜻이겠지.
+NPC-Yegor(4);NPC-Yegor(3)<Speaker>부관</Speaker><通讯框>||:<color=#00CCFF>팔디스키는 본디 저희의 군사 기지 아니었습니까?</color>
+NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Yegor(3)<通讯框>||:그랬지. 하지만 어느 망할 자식에게 빼앗기고 말았다.
+NPC-Yegor(4);NPC-Yegor(3)<Speaker>부관</Speaker><通讯框>||:<color=#00CCFF>그러니 되찾아야 하는군요.</color>
+NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Yegor(3)<通讯框>||:그래, 반드시 되찾아야 한다. 짓밟힌 우리 군의 영광과 함께.
+NPC-Yegor(4);NPC-Yegor(3)<Speaker>부관</Speaker><通讯框>||:<color=#00CCFF>예!</color>+<color=#00CCFF>아직 PMC 놈들은 진지를 구축하느라 정신이 없습니다. 언제 진격하겠습니까?</color>+<color=#00CCFF>병사들도 다들 놈들에게 마땅한 대가를 치르게 하고 싶어 안달이 나, 사기가 하늘을 찌르고 있습니다.</color>+<color=#00CCFF>지옥까지라도 대위님과 함께하겠습니다.</color>
+NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Yegor(3)<通讯框>||<黑屏1>:알고 있다. 나도 동지들과 같은 심정이다.+하지만 명심해라. 우리는 군인이다. 명령에는 절대복종한다.+아직은 때가 아니니, 우선 놈들에게 포격으로 우리의 분노를 맛보여 주도록.

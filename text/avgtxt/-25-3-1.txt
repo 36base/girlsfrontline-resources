@@ -1,65 +1,65 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()<Speaker></Speaker>||<BIN>159</BIN><BGM>BGM_Danger</BGM><黑屏2>:HK416은 적극적으로 보급선을 유지하지만, 적의 공세는 점점 거세져만 갔다.
-HK416(0)<Speaker>HK416</Speaker>||:모두 이쪽으로 모여, 탄약 검사하고 다음 공세에 준비해!
-AK74U(0)<Speaker>AK74U</Speaker>;HK416(0)||:416, 아직 버틸 수 있겠어?+네가 무리라면 나도 무리지만.
-AK74U(0);HK416(0)<Speaker>HK416</Speaker>||:그럼 굳이 말해서 뭐 하는 건데!
-AK74U(0)<Speaker>AK74U</Speaker>;HK416(0)||:네 짜증 난 얼굴을 보면 내 기분이 좀 풀리거든.
-AK74U(0);HK416(0)<Speaker>HK416</Speaker>||:왜 그리폰에 와서까지 이런 놈들만 만나는 거야!
-AK74U(0)<Speaker>AK74U</Speaker>;HK416(0)||:끼리끼리 논다는 말이 있잖아, 하핫.
-AK74U(0);HK416(0)<Speaker>HK416</Speaker>||:웃어라 웃어. 이제 우리 모두 여기서 죽을 테니까.
-AK74U(0)<Speaker>AK74U</Speaker>;HK416(0)||:아직 모르지, 지휘관이 지원군을 불렀다고 했잖아?
-AK74U(0);HK416(0)<Speaker>HK416</Speaker>||:정말 지휘관님을 믿어?
-AK74U(0)<Speaker>AK74U</Speaker>;HK416(0)||:적어도 너보다는 믿을 수 있지.
-AK74U(0);HK416(0)<Speaker>HK416</Speaker>||:왜 꼭 다른 사람을 믿는 건데.
-AK74U(0)<Speaker>AK74U</Speaker>;HK416(0)||:그럼 나 자신을 믿어야 하니?+HK416, "나 자신"이란 게 뭔지는 알아?
-AK74U(0);HK416(0)<Speaker>HK416</Speaker>||:... 난 모르는 것 같아.
-AK74U(0)<Speaker>AK74U</Speaker>;HK416(0)||:우리가 연산하는 것을 생각하는 것이라고 하고, 그 도중에 발생하는 모순을 감정이라고 하지.+하지만 우리에게 정말 자아의식, "나 자신"이라는 것이 있는 걸까?
-AK74U(0);HK416(0)<Speaker>HK416</Speaker>||:대체 무슨 말씀이시죠, 썩은 얼굴을 하신 철학가 선생님?
-AK74U(0)<Speaker>AK74U</Speaker>||:그러니까... 그 때문에 난 나 자신을 믿을 수 없다는 거야.
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:위이잉!
-HK416(0)<Speaker>HK416</Speaker>||:이 소리는...
-AK74U(0)<Speaker>AK74U</Speaker>||:하지만 난 날 믿어주는 사람을 믿어.
-()<Speaker></Speaker>||<SE1>Explode</SE1>:쾅! 콰쾅!
-HK416(3)<Speaker>HK416</Speaker>||:지휘관님? 네! 모두 엎드려, 위험사격이야!
-AK74U(0)<Speaker>AK74U</Speaker>||:위험사격? 그게 뭐야?
-()<Speaker></Speaker>||<SE1>Explode</SE1><CGDelay>0.5</CGDelay>:쾅! 콰쾅!+또 한 차레 격렬한 폭발이 전선을 휩쓸었다.
-NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<BGM>BGM_War</BGM>:<color=#00CCFF>중화기지원부대가 현장에 도착!</color>+<color=#00CCFF>모두 오래 기다렸어!</color>
-()<Speaker></Speaker>||<BIN>159</BIN><BGM>BGM_War</BGM>:쾅! 콰쾅!+매서운 폭격이 진지의 적들을 타격했다.
-AK74U(0)<Speaker>AK74U</Speaker>||:지휘관... 또 어디서 저런 장난감을 장만한 거야.
-HK416(0)<Speaker>HK416</Speaker>||:이거 아무리봐도 일개 PMC가 써도 되는 물건이 아니잖아...
-AK74U(0)<Speaker>AK74U</Speaker>||:이기면 장땡이지.+흐아, 아슬아슬했네, 하마터면 늦는 줄 알았잖아...
-AK74U(0);HK416(0)<Speaker>HK416</Speaker>||:너 아까 지휘관님을 믿는다고 하지 않았어?
-AK74U(0)<Speaker>AK74U</Speaker>;HK416(0)||:그냥 널 안심시키려고 해준 소리야. 너 말이야, 전장에 오기만 하면 긴장해서 굳어버리잖아.
-HK416(0)<Speaker>HK416</Speaker>||:도움이 안 되면서 괜히 자원을 받아먹을 수는 없으니까.
-()<Speaker></Speaker>||:통신 연결.
-NPC-Kalin(8)<Speaker>카리나</Speaker><通讯框>||:<color=#00CCFF>모두 무사해?</color>+<color=#00CCFF>미안한데, 지금 다른 수비거점에서 파이슨 제대의 수비거점이 습격을 받는 중이라고 연락이 왔어. 지금 지원하러 갈 수 있을까?</color>
-HK416(0)<Speaker>HK416</Speaker>;NPC-Kalin(8)||:방금 그 중화기만으로는 부족한가요?
-NPC-Kalin(8)<Speaker>카리나</Speaker>||:<color=#00CCFF>안 돼, 적이 끝없이 쏟아져 나오는 데다가, 보스급 유닛까지 나타났어.</color>
-AK74U(0)<Speaker>AK74U</Speaker>||<黑屏1>:그럼 어서 가자.+방을 정리 안 하고 외출할 수는 없으니까.
-()<Speaker></Speaker>||<黑屏2>:십 분 후, 수비거점.
-Python(0)<Speaker>파이슨</Speaker>||:74U, 뭐하다가 이제 온 거야?
-AK74U(0)<Speaker>AK74U</Speaker>||:금방 우리 그쪽을 정리한 참이야, 그래도 걱정 마, 지휘관의 새로운 장난감이 왔으니까!
-Mk12(0)<Speaker>Mk12</Speaker>||:쟤는 누구야? 이름을 기억할 가치가 있는 녀석이야?
-HK416(0)<Speaker>HK416</Speaker>||:HK416, 지휘관님의 임시 부관이야.
-Mk12(0)<Speaker>Mk12</Speaker>||:부관? 아무리 봐도 신참 같은데...
-AK74U(0)<Speaker>AK74U</Speaker>||:저 녀석을 믿는 게 좋을 거야, 여기서도 베테랑이니까.
-A91(0)<Speaker>A91</Speaker>||:베테라앙? 그럼 왜 본 적이 없는 걸까아?
-HK416(0)<Speaker>HK416</Speaker>||:네가 기지에서 술에 취해있는 동안, 난 계속 밖에서 뛰어다녔으니까.
-A91(0)<Speaker>A91</Speaker>||:이봐아, 난 뭐 기지에서...
-Python(0)<Speaker>파이슨</Speaker>||:자아, 자아, 잡답은 일단 눈앞의 상대를 해치우고 하는 게 어때?
-HK416(0)<Speaker>HK416</Speaker>||:저 멀리 보이는 녀석이 이번의 보스야?
-Nyto(1)<Speaker>파이슨</Speaker>||:그래 저기 보이지, 저 녀석 저곳에 도착한 뒤론 꼼짝도 안 하고 있어, 마치 마네킹처럼 말이야...+다만 녀석이 이번 습격의 지휘자인 것은 확실해.
-Nyto(1)<Speaker>HK416</Speaker>||:여전히 정보가 없는 거야?+(저 얼굴... 어째선가...)
-Nyto(1)<Speaker>파이슨</Speaker>||<CGDelay>0.4</CGDelay>:녀석이 말을 할 줄 아는 건지도 모르는 상태야.
-HK416(0)<Speaker>HK416</Speaker>||:지금 지휘관님이 로그인했어, 연결할게.+네가 파이슨이지? 제대를 재집합시켜.
-Python(0)<Speaker>파이슨</Speaker>||:호오, 신참이 건방지구나.+하지만 딱 내 스타일이야.
-AK74U(0)<Speaker>AK74U</Speaker>||:416 너 찍혔네.
-HK416(0)<Speaker>HK416</Speaker>||<黑屏1>:... 상관없어.
-HK416(0)<Speaker>HK416</Speaker><通讯框>||<BIN>10</BIN><黑点2>:<color=#00CCFF>지휘관님, 보시다시피, 적은 아직도 거점을 공격하고 있습니다.</color>+<color=#00CCFF>이번엔 더 많은 물량을 투입했으며, 저 인간형 보스가 가장 큰 위협으로 보입니다.</color>+<color=#00CCFF>방금 전의 중화기 소대의 지원이 필요합니다. 괜찮습니까?</color>
-()<Speaker>지휘관</Speaker>||:+<c>제 위치시켜 계속 지원하겠다.<c>그걸 또 보고 싶은가?<c>416이 점점 부관 역할에 적응하는 것 같다.
-HK416(0)<Speaker>HK416</Speaker>||<分支>1</分支>:<color=#00CCFF>좋아요. 하지만 지휘관님, 자원 소모에 주의하세요, 저희 물자 비축도 한계가 있으니.</color>
-AK74U(0)<Speaker>AK74U</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>그래 맞아, 그거! 보여줘, 보여줘!</color>
-HK416(0)<Speaker>HK416</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>74U, 지휘관님께 예의를 갖춰.</color>
-HK416(0)<Speaker>HK416</Speaker>||<分支>3</分支>:<color=#00CCFF>... 곧 저 없이는 버틸 수 없게 될 거예요.</color>
-HK416(0)<Speaker>HK416</Speaker>||<黑点1>:<color=#00CCFF>지휘관님, 어디서 그런 중화기 인형부대를 조달했는지는 모르지만.</color>+<color=#00CCFF>앞으로의 전투에서 반드시 필요한 전력입니다.</color>+<color=#00CCFF>적절하게 운용하면서 안전 거점 내부의 적을 철저하게 섬멸하세요.</color>
-()||<黑点2><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>159</BIN><BGM>BGM_Danger</BGM><黑屏2>:HK416은 적극적으로 보급선을 유지하지만, 적의 공세는 점점 거세져만 갔다.
+HK416(0)<Speaker>HK416</Speaker>||:모두 이쪽으로 모여, 탄약 검사하고 다음 공세에 준비해!
+AK74U(0)<Speaker>AK74U</Speaker>;HK416(0)||:416, 아직 버틸 수 있겠어?+네가 무리라면 나도 무리지만.
+AK74U(0);HK416(0)<Speaker>HK416</Speaker>||:그럼 굳이 말해서 뭐 하는 건데!
+AK74U(0)<Speaker>AK74U</Speaker>;HK416(0)||:네 짜증 난 얼굴을 보면 내 기분이 좀 풀리거든.
+AK74U(0);HK416(0)<Speaker>HK416</Speaker>||:왜 그리폰에 와서까지 이런 놈들만 만나는 거야!
+AK74U(0)<Speaker>AK74U</Speaker>;HK416(0)||:끼리끼리 논다는 말이 있잖아, 하핫.
+AK74U(0);HK416(0)<Speaker>HK416</Speaker>||:웃어라 웃어. 이제 우리 모두 여기서 죽을 테니까.
+AK74U(0)<Speaker>AK74U</Speaker>;HK416(0)||:아직 모르지, 지휘관이 지원군을 불렀다고 했잖아?
+AK74U(0);HK416(0)<Speaker>HK416</Speaker>||:정말 지휘관님을 믿어?
+AK74U(0)<Speaker>AK74U</Speaker>;HK416(0)||:적어도 너보다는 믿을 수 있지.
+AK74U(0);HK416(0)<Speaker>HK416</Speaker>||:왜 꼭 다른 사람을 믿는 건데.
+AK74U(0)<Speaker>AK74U</Speaker>;HK416(0)||:그럼 나 자신을 믿어야 하니?+HK416, "나 자신"이란 게 뭔지는 알아?
+AK74U(0);HK416(0)<Speaker>HK416</Speaker>||:... 난 모르는 것 같아.
+AK74U(0)<Speaker>AK74U</Speaker>;HK416(0)||:우리가 연산하는 것을 생각하는 것이라고 하고, 그 도중에 발생하는 모순을 감정이라고 하지.+하지만 우리에게 정말 자아의식, "나 자신"이라는 것이 있는 걸까?
+AK74U(0);HK416(0)<Speaker>HK416</Speaker>||:대체 무슨 말씀이시죠, 썩은 얼굴을 하신 철학가 선생님?
+AK74U(0)<Speaker>AK74U</Speaker>||:그러니까... 그 때문에 난 나 자신을 믿을 수 없다는 거야.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:위이잉!
+HK416(0)<Speaker>HK416</Speaker>||:이 소리는...
+AK74U(0)<Speaker>AK74U</Speaker>||:하지만 난 날 믿어주는 사람을 믿어.
+()<Speaker></Speaker>||<SE1>Explode</SE1>:쾅! 콰쾅!
+HK416(3)<Speaker>HK416</Speaker>||:지휘관님? 네! 모두 엎드려, 위험사격이야!
+AK74U(0)<Speaker>AK74U</Speaker>||:위험사격? 그게 뭐야?
+()<Speaker></Speaker>||<SE1>Explode</SE1><CGDelay>0.5</CGDelay>:쾅! 콰쾅!+또 한 차레 격렬한 폭발이 전선을 휩쓸었다.
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<BGM>BGM_War</BGM>:<color=#00CCFF>중화기지원부대가 현장에 도착!</color>+<color=#00CCFF>모두 오래 기다렸어!</color>
+()<Speaker></Speaker>||<BIN>159</BIN><BGM>BGM_War</BGM>:쾅! 콰쾅!+매서운 폭격이 진지의 적들을 타격했다.
+AK74U(0)<Speaker>AK74U</Speaker>||:지휘관... 또 어디서 저런 장난감을 장만한 거야.
+HK416(0)<Speaker>HK416</Speaker>||:이거 아무리봐도 일개 PMC가 써도 되는 물건이 아니잖아...
+AK74U(0)<Speaker>AK74U</Speaker>||:이기면 장땡이지.+흐아, 아슬아슬했네, 하마터면 늦는 줄 알았잖아...
+AK74U(0);HK416(0)<Speaker>HK416</Speaker>||:너 아까 지휘관님을 믿는다고 하지 않았어?
+AK74U(0)<Speaker>AK74U</Speaker>;HK416(0)||:그냥 널 안심시키려고 해준 소리야. 너 말이야, 전장에 오기만 하면 긴장해서 굳어버리잖아.
+HK416(0)<Speaker>HK416</Speaker>||:도움이 안 되면서 괜히 자원을 받아먹을 수는 없으니까.
+()<Speaker></Speaker>||:통신 연결.
+NPC-Kalin(8)<Speaker>카리나</Speaker><通讯框>||:<color=#00CCFF>모두 무사해?</color>+<color=#00CCFF>미안한데, 지금 다른 수비거점에서 파이슨 제대의 수비거점이 습격을 받는 중이라고 연락이 왔어. 지금 지원하러 갈 수 있을까?</color>
+HK416(0)<Speaker>HK416</Speaker>;NPC-Kalin(8)||:방금 그 중화기만으로는 부족한가요?
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:<color=#00CCFF>안 돼, 적이 끝없이 쏟아져 나오는 데다가, 보스급 유닛까지 나타났어.</color>
+AK74U(0)<Speaker>AK74U</Speaker>||<黑屏1>:그럼 어서 가자.+방을 정리 안 하고 외출할 수는 없으니까.
+()<Speaker></Speaker>||<黑屏2>:십 분 후, 수비거점.
+Python(0)<Speaker>파이슨</Speaker>||:74U, 뭐하다가 이제 온 거야?
+AK74U(0)<Speaker>AK74U</Speaker>||:금방 우리 그쪽을 정리한 참이야, 그래도 걱정 마, 지휘관의 새로운 장난감이 왔으니까!
+Mk12(0)<Speaker>Mk12</Speaker>||:쟤는 누구야? 이름을 기억할 가치가 있는 녀석이야?
+HK416(0)<Speaker>HK416</Speaker>||:HK416, 지휘관님의 임시 부관이야.
+Mk12(0)<Speaker>Mk12</Speaker>||:부관? 아무리 봐도 신참 같은데...
+AK74U(0)<Speaker>AK74U</Speaker>||:저 녀석을 믿는 게 좋을 거야, 여기서도 베테랑이니까.
+A91(0)<Speaker>A91</Speaker>||:베테라앙? 그럼 왜 본 적이 없는 걸까아?
+HK416(0)<Speaker>HK416</Speaker>||:네가 기지에서 술에 취해있는 동안, 난 계속 밖에서 뛰어다녔으니까.
+A91(0)<Speaker>A91</Speaker>||:이봐아, 난 뭐 기지에서...
+Python(0)<Speaker>파이슨</Speaker>||:자아, 자아, 잡답은 일단 눈앞의 상대를 해치우고 하는 게 어때?
+HK416(0)<Speaker>HK416</Speaker>||:저 멀리 보이는 녀석이 이번의 보스야?
+Nyto(1)<Speaker>파이슨</Speaker>||:그래 저기 보이지, 저 녀석 저곳에 도착한 뒤론 꼼짝도 안 하고 있어, 마치 마네킹처럼 말이야...+다만 녀석이 이번 습격의 지휘자인 것은 확실해.
+Nyto(1)<Speaker>HK416</Speaker>||:여전히 정보가 없는 거야?+(저 얼굴... 어째선가...)
+Nyto(1)<Speaker>파이슨</Speaker>||<CGDelay>0.4</CGDelay>:녀석이 말을 할 줄 아는 건지도 모르는 상태야.
+HK416(0)<Speaker>HK416</Speaker>||:지금 지휘관님이 로그인했어, 연결할게.+네가 파이슨이지? 제대를 재집합시켜.
+Python(0)<Speaker>파이슨</Speaker>||:호오, 신참이 건방지구나.+하지만 딱 내 스타일이야.
+AK74U(0)<Speaker>AK74U</Speaker>||:416 너 찍혔네.
+HK416(0)<Speaker>HK416</Speaker>||<黑屏1>:... 상관없어.
+HK416(0)<Speaker>HK416</Speaker><通讯框>||<BIN>10</BIN><黑点2>:<color=#00CCFF>지휘관님, 보시다시피, 적은 아직도 거점을 공격하고 있습니다.</color>+<color=#00CCFF>이번엔 더 많은 물량을 투입했으며, 저 인간형 보스가 가장 큰 위협으로 보입니다.</color>+<color=#00CCFF>방금 전의 중화기 소대의 지원이 필요합니다. 괜찮습니까?</color>
+()<Speaker>지휘관</Speaker>||:+<c>제 위치시켜 계속 지원하겠다.<c>그걸 또 보고 싶은가?<c>416이 점점 부관 역할에 적응하는 것 같다.
+HK416(0)<Speaker>HK416</Speaker>||<分支>1</分支>:<color=#00CCFF>좋아요. 하지만 지휘관님, 자원 소모에 주의하세요, 저희 물자 비축도 한계가 있으니.</color>
+AK74U(0)<Speaker>AK74U</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>그래 맞아, 그거! 보여줘, 보여줘!</color>
+HK416(0)<Speaker>HK416</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>74U, 지휘관님께 예의를 갖춰.</color>
+HK416(0)<Speaker>HK416</Speaker>||<分支>3</分支>:<color=#00CCFF>... 곧 저 없이는 버틸 수 없게 될 거예요.</color>
+HK416(0)<Speaker>HK416</Speaker>||<黑点1>:<color=#00CCFF>지휘관님, 어디서 그런 중화기 인형부대를 조달했는지는 모르지만.</color>+<color=#00CCFF>앞으로의 전투에서 반드시 필요한 전력입니다.</color>+<color=#00CCFF>적절하게 운용하면서 안전 거점 내부의 적을 철저하게 섬멸하세요.</color>
+()||<黑点2><BIN>10</BIN>:

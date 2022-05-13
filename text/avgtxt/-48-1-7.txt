@@ -1,112 +1,112 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:독일 베를린, 국가안전국.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>158</BIN><BGM>BGM_Truth</BGM><黑屏2>:J는 설마 슈타지의 상급 요원인 자신이 심문당하는 자리에 앉게 될 줄은 상상도 못했다.
-NPC-Romy(0)<Speaker>？？？</Speaker>||:그럼...+슈타지가 봉쇄한 접근 금지 구역에 무단 침입한다는 것이 무엇을 의미하는지는, 모를 리 없겠지?
-NPC-Keven(5)<Speaker>J</Speaker>||:......
-()<Speaker></Speaker>||:이 여성은 슈타지의 신임 국장, 로미 리펜슈탈.+즉, J의 새 상사였다.
-NPC-Keven(5)<Speaker>J</Speaker>||:조국을 배신하는 일은 아니었습니다만.
-NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Keven(5)||:그걸 판단하는 건 나다, 케빈 요원.
-NPC-Romy(0);NPC-Keven(5)<Speaker>J</Speaker>||:제가 베를린으로 배치되면서 맡은 임무는 신소련의 안젤리아 요원을 전적으로 지원하는 일이었습니다.+그리고, 거기서 희생된 요원들 중 한 명인 라이트는 제 후배였습니다. 그래서 제가 직접 진상 조사에 나선 겁니다.
-NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Keven(5)||:하지만 난 허가하지 않았어.
-NPC-Romy(0);NPC-Keven(5)<Speaker>J</Speaker>||:저도 슈타지 요원 아닙니까? 요원의 직책은 진실을 밝혀 국민과 국가의 안전을 지키는 겁니다.+저는 이번 사건이 국익에 해를 끼칠 중대한 일이라 판단하여 행동했습니다.
-NPC-Romy(3)<Speaker>로미</Speaker>;NPC-Keven(5)||:네가 뭔데? 네 판단은 그 무엇보다도 우선인가?+다른 사람들은 다 머저리인 줄 알아?
-NPC-Romy(3);NPC-Keven(5)<Speaker>J</Speaker>||:......
-NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Keven(5)||:네가 수 차례나 제출한 조사 신청서, 내가 읽어보지도 않은 줄 알았다면 큰 오산이야.+난 똑똑히 말했다, 그곳은 더는 조사할 가치가 없다고.
-NPC-Romy(0);NPC-Keven(4)<Speaker>J</Speaker>||:거기서 우리 요원 일곱 명이 목숨을 잃었습니다! 그런데도 그 현장을 조사할 가치가 없다뇨?!+댁이 국장이라지만 이제 막 취임했으면서 너무한 거 아닙니까!?+이유도 설명 않고 그런 판단을 내리면 누가 납득합니까! 귀신도――
-NPC-Romy(0)<Speaker>로미</Speaker>||:그만.
-()<Speaker></Speaker>||:로미는 J의 항변을 묵살하고, 증거물품함에서 J가 양옥에서 발견했던 약병을 꺼내 들었다.
-NPC-Romy(0)<Speaker>로미</Speaker>||<SE1>AVG_21Winter_Medicine_Bottle</SE1>:이건 뭐지?
-NPC-Romy(0);NPC-Keven(5)<Speaker>J</Speaker>||:...보고도 모르시겠습니까?
-NPC-Romy(3)<Speaker>로미</Speaker>;NPC-Keven(5)||:이게 뭐냐고 물었다.
-NPC-Romy(3);NPC-Keven(5)<Speaker>J</Speaker>||:현장에서 찾아낸 단서입니다.+병의 그 로고는 갈라테아 그룹의 것이 확실하고요.+하지만 시중에 이런 포장의 제품은 유통된 적 없습니다.+즉, 아직 출시되지 않은 시제품이란 뜻이죠. 그리고 그런 건 오직 어느 정도 직급이 되는 내부자만이 얻을 수 있습니다.
-NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Keven(5)||:그래서?
-NPC-Romy(0);NPC-Keven(5)<Speaker>J</Speaker>||:...그러니까, 현장에 갈라테아의 관계자가 있었단 명백한 증거입니다.
-NPC-Romy(3)<Speaker>로미</Speaker>;NPC-Keven(5)||:멍청이.
-NPC-Romy(3);NPC-Keven(5)<Speaker>J</Speaker>||:......잘 못 들었습니다?
-NPC-Romy(0)<Speaker>로미</Speaker>||:이것만으론 아무것도 증명할 수 없어.
-()<Speaker></Speaker>||:로미는 흥미 없다는 듯 병을 한쪽에 내려놨다.
-NPC-Romy(0)<Speaker>로미</Speaker>||:이깟 약병 하나쯤, 그곳에 있었던 이유라면 얼마든지 만들어낼 수 있어.+너는 그저 네가 가장 바라는, 가능성 낮은 결론을 믿기로 한 것에 불과해.
-NPC-Romy(0);NPC-Keven(5)<Speaker>J</Speaker>||:아니 그게 말이 되는――
-NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Keven(5)||:네 무단 행동의 이유는 그게 다인가?
-NPC-Romy(0);NPC-Keven(5)<Speaker>J</Speaker>||:...이렇게 쉽게 후속 조사도 없이 포기한다는 결정을 납득할 수 없습니다.
-NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Keven(5)||:네가 내 결정에 이의를 제기할 자격은 없다.
-NPC-Romy(0);NPC-Keven(5)<Speaker>J</Speaker>||:그래서 "국장님"의 결정이란, 희생된 동료들을 무시하고, 일을 벌인 범인에 대해서 신경쓰는 척도 안 하겠단 겁니까?
-NPC-Romy(3)<Speaker>로미</Speaker>;NPC-Keven(5)||:아무래도 넌 네 일자리가 소중하지 않나 보군.
-NPC-Keven(5)<Speaker>J</Speaker>||:......!
-()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:똑똑.
-()<Speaker>K</Speaker>||:국장님, 실례하겠습니다.+케인 슈바벤입니다.
-NPC-Romy(0)<Speaker>로미</Speaker>||:...들어와.
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:K가 그 익숙한 무덤덤한 표정으로 문을 열고 들어와, 로미에게 가볍게 목례했다.
-NPC-Jason(2)<Speaker>K</Speaker>||:갈라테아의 제약 공장 운영 중지 건에 대해서 새로 보고드릴 내용이 들어왔습니다.
-()<Speaker></Speaker>||:그 말에 로미는 의자에 묶여 있는 J를 의미심장한 눈빛으로 바라봤다.
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:그리곤, 리모컨을 눌러 J의 구속을 풀어 주었다.
-NPC-Romy(0)<Speaker>로미</Speaker>||:가 봐.
-NPC-Keven(0)<Speaker>J</Speaker>||:...이대로 끝이라고요?
-NPC-Romy(0)<Speaker>로미</Speaker>||:그래, 끝이다. 슈타지에서의 마지막 몇 시간이나 만끽해.
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>417</BIN><SE1>ClothingUp</SE1>:국가안전국의 사무실에, J는 주섬주섬 자신의 짐을 챙겼다.
-NPC-Jason(2)<Speaker>K</Speaker>||:케빈, 할 얘기가...+...너 지금 뭐하냐?
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:J가 골판지 상자에서 고개를 들었다.
-NPC-Keven(0)<Speaker>J</Speaker>||:보면 모르겠냐? 내 바캉스 플랜의 첫 단계지. 명예퇴직.+그 아줌마가 말했잖아.
-SP9(0)<Speaker>？？？</Speaker>||:......
-()<Speaker></Speaker>||:거침없는 J의 말에 K는 이번에도 절로 눈살이 찌푸려졌다.+그제서야 J는 K의 뒤에 처음 보는 여성이 있는 것을 눈치챘다.
-NPC-Jason(4)<Speaker>K</Speaker>||:좀 어른스럽게 행동해라...
-NPC-Keven(5)<Speaker>J</Speaker>||:뭐, 내가 지금 애들처럼 땡깡이라도 부리는 거 같아?
-()<Speaker></Speaker>||:J는 정리 중이던 물건을 내려놓고 다시 K를 마주봤다.
-NPC-Jason(4)<Speaker>K</Speaker>||:좌절 좀 겪었다고 다 때려치려는 그 행위가 유치해서지 그럼 뭐겠냐.+라이트의 복수를 하겠다면서 슈타지를 그만두겠다니, 이런 걸 보고 정신분열이라 하던가?
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(4)||:됐네요 이 자식아! 내가 좋아서 이러는 줄 알아!?+조사 안 한다니 너한테 유치하단 소리나 듣고, 조사한다니 그 여자한테 욕이나 먹―― 아, 욕이 아니라 모가지네.
-NPC-Jason(4)<Speaker>K</Speaker>||:......
-()<Speaker></Speaker>||:K는 숨을 깊이 들이쉬곤 J에게 한 발짝 더 다가서며 목소리를 낮췄다.
-NPC-Jason(2)<Speaker>K</Speaker>||:케빈, 주변을 봐라. 빈 자리가 이렇게 많아졌어. 너만 당한 게 아니야. 그만둔 게 누구누구인지도 생각해 봐, 그들은 왜 떠났을 거 같냐?+무슨 일이든 좀 더 머리를 굴리라고.
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(2)||:지금 그걸 신경 쓸 겨를이 어딨다고... 내 머릿속엔 지금 양옥에서 뭔 일이 있었나밖에 없어.
-NPC-Keven(0);NPC-Jason(2)<Speaker>K</Speaker>||:이 멍청아, 슈타지에 남아야 계속 조사를 할 거 아니야.
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(2)||:이제 와서 죄송합니다~ 해도 소용 없을 텐데?
-NPC-Keven(0);NPC-Jason(2)<Speaker>K</Speaker>||:그거라면 걱정 마라.+그녀가 네게 새 임무를 하달했다. 너 안 짤렸어.
-NPC-Keven(0)<Speaker>J</Speaker>||:너... 설마 날 위해 미인계를?
-()<Speaker></Speaker>||:K는 J의 농담에 딴지 대신 땅이 꺼져라 한숨을 푹 쉬는 것으로 대신했다.+그리곤 한 발짝 물러나, 여태까지 침묵하던 소녀에게 고개를 돌렸다.
-SP9(0)<Speaker>？？？</Speaker>||:......
-NPC-Jason(2)<Speaker>K</Speaker>||:소개하지. 이쪽은 모나 양이다. 얼마 전 슈타지에 정식 배치된 전술인형이지.
-SP9(0)<Speaker>모나</Speaker>||:잘 부탁드립니다, J 요원.
-NPC-Keven(0)<Speaker>J</Speaker>;SP9(0)||:오, 우리도 이제 전술인형 써? 음 음... 일단 외모는 합격.
-NPC-Keven(0);NPC-Jason(2)<Speaker>K</Speaker>||:...리펜슈탈 국장의 요구로, 슈타지에 전술인형 운용이 도입된 거다. 아직은 실험 기수다만.+현시간부로, 모나 양이 널 데리고 임무를 수행할 거다.
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:예쁜 전술인형 아가씨과 함께 작――뭐?+잠깐잠깐, 내가 잘못 들었나...? 난 인간에, 얜 인형 맞지? 얘가 날 지휘한다고?
-NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:청력에 이상 없는 것 같아 다행이군.+아무튼, 윗선의 명령이다. 상관 명령엔 절대복종이라, 훈련 때 안 배웠나?
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(2)||:......쓰읍.+알았어.
-NPC-Jason(2)<Speaker>K</Speaker>||:수행할 임무의 내용은 모나 양이 대신 설명하도록.
-SP9(0)<Speaker>모나</Speaker>||:네. 얼마 전 갈라테아 제약 공장의 운영 정지 처분으로 인한 치안 문제가 발생했습니다.+베를린 경찰청에게서 전달받은 정보로, 현재 한 시위대 무리가 제약 공장 앞에 집합했다고 합니다.+즉시 출동해 폭력 내지는 범법 행위 발생을 미연에 방지해야 합니다.
-NPC-Keven(5)<Speaker>J</Speaker>||:쳇... 참 슈타지 요원다운 일이구만.+하면 되잖아, 높으신 분이 까라면 까야지.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:모나는 고개를 끄덕이곤 먼저 가 문을 열었다.
-NPC-Jason(2)<Speaker>K</Speaker>||:케빈.+이거 가지고 가라.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:K가 불쑥 J에게 내민 것은 연락처로 보이는 숫자가 적힌 쪽지였다. 다만, 이게 연락처라면 독일의 것이 아니었다.+J는 번호를 머릿속에 새겨둔 다음, 쪽지를 구겨 주머니에 쑤셔넣곤 고개를 돌려 K를 보았다.
-NPC-Jason(2)<Speaker>K</Speaker>||:시간 있을 때 걸어 봐.+도움이 될지도 모르니.
-NPC-Keven(5)<Speaker>J</Speaker>||:...그래.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>325</BIN><BGM>BGM_Room</BGM>:갈라테아 그룹, 그레이 생물 연구소.
-NPC-grig(2)<Speaker>？？？</Speaker>||:뭘 보고 있지?
-NPC-MrsGray(1)<Speaker>그레이</Speaker>||:주문 내역서.
-()<Speaker></Speaker>||:손가락으로 탁상을 툭툭 두드리며 목록을 읽어 내려가는 그레이의 미간은 좀처럼 펴질 기미가 보이지 않았다.
-NPC-grig(2)<Speaker>？？？</Speaker>||:"그녀"가 보낸 건가?
-NPC-grig(2);NPC-MrsGray(1)<Speaker>그레이</Speaker>||:맞아.+메시지만 보내곤, 연락받는 걸 거절하고 있어.+...아버님이나 스승님 외엔 아무하고도 말하기 싫다는 거겠지.
-NPC-grig(1)<Speaker>？？？</Speaker>;NPC-MrsGray(1)||:...그레이.
-NPC-grig(1);NPC-MrsGray(3)<Speaker>그레이</Speaker>||:이게 뭐람...+그 여자, 선전포고라도 하는 건가? 아님 투항하겠단 걸 돌려 말하나?
-NPC-grig(1)<Speaker>？？？</Speaker>;NPC-MrsGray(3)||:그녀의 성격으로 판단할 때, 둘 다 아니야.
-NPC-grig(1);NPC-MrsGray(4)<Speaker>그레이</Speaker>||:흥...+아무리 불만이 많더라도, 지금 임무의 흐름을 쥔 사람은 녀석이 아니라 바로 나야.
-NPC-grig(1)<Speaker>？？？</Speaker>;NPC-MrsGray(4)||:그녀가 네게 주문을 보낸 것이 그 증거지.
-NPC-grig(1);NPC-MrsGray(0)<Speaker>그레이</Speaker>||:그래...+임무는 어차피 실행해야 해. 때가 왔어.
-NPC-grig(0)<Speaker>？？？</Speaker>||:불꽃이 피어날 날이 정해졌으니, 아무도 막을 수 없어.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>413</BIN><BGM>BGM_Room</BGM>:베를린 시가지, 가동 정지된 갈라테아 제약 공장 앞.
-()<Speaker>시위민중</Speaker>||<SE1>AVG_Crowd</SE1>:망할 놈들아! 약 만드는 공장을 멈추면 우리더러 어쩌라는 거냐!+정부는 우릴 몽땅 죽일 셈이냐!
-()<Speaker>시위민중</Speaker>||:벌써 약을 살 곳이 없어요! 이래서 어떻게 살라는 거예요!?+대체 무슨 생각이냐고요!!
-()<Speaker></Speaker>||:가동 정지 처분에 분노한 시민들이, 공장 앞 차단선에 모여 울부짖었다.+그 많은 수에, 출동한 경찰 인력만으로는 그들을 진정시키는 데 점점 힘에 부쳐 가는 상황이었다.
-SP9(0)<Speaker>모나</Speaker>||:로미 국장님께서 내리신 임무는, 경찰의 시위대 해산 및 치안 유지 임무를 지원하는 것입니다.+도착 전까지 일부 사건 사례 보고를 봤는데, 현장을 직접 보니 예상보다 심각하군요.+J 요원의 의견은 어떱니까?
-NPC-Keven(0)<Speaker>J</Speaker>||:내 의견은 왜 물어?+여기 대장은 너잖아.
-SP9(0)<Speaker>모나</Speaker>||:그렇죠. 하지만 J 요원이 저보다 슈타지 요원으로서의 경험이 훨씬 풍부합니다.+J 요원의 경험이 임무 수행에 더 도움이 될 것이라 판단합니다만, 이견 있습니까?
-()<Speaker></Speaker>||:어떻게 봐도, 모나는 틀림없이 "국장님 편"이었다.+J와는 완전 반대 입장인 것이다.
-NPC-Keven(0)<Speaker>J</Speaker>||:거 참... 어쩌긴 뭘 어째, 치안 유지 도우랬으니 그렇게 해야지.+일단 여기 담당자한테 연락하고, 상황 보면서 행동해야지. 그것도 모르면서 무슨 요원 일을 한다는 거야?
-SP9(0)<Speaker>모나</Speaker>||:......
-()<Speaker></Speaker>||:그 말에 J를 바라보는 눈빛이 다소 이상했지만, 그녀는 딱히 뭐라 답하지 않고 고개만 끄덕였다.
-NPC-Keven(5)<Speaker>J</Speaker>||<BGM>BGM_Empty</BGM>:(리펜슈탈 그 여자, 이딴 허드렛이나 시키다니... 나보고 귀찮으니까 좀 가만 있어라 이거잖아?)+(인형까지 감시로 붙이고 말이야...)+(젠장! 이딴 데서 시간 낭비할 여유 없다고!)
-()<Speaker></Speaker>||:모나가 눈치채지 못하도록, J는 속으로만 불같이 화를 내었다.
-()||<黑点1><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:독일 베를린, 국가안전국.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>158</BIN><BGM>BGM_Truth</BGM><黑屏2>:J는 설마 슈타지의 상급 요원인 자신이 심문당하는 자리에 앉게 될 줄은 상상도 못했다.
+NPC-Romy(0)<Speaker>？？？</Speaker>||:그럼...+슈타지가 봉쇄한 접근 금지 구역에 무단 침입한다는 것이 무엇을 의미하는지는, 모를 리 없겠지?
+NPC-Keven(5)<Speaker>J</Speaker>||:......
+()<Speaker></Speaker>||:이 여성은 슈타지의 신임 국장, 로미 리펜슈탈.+즉, J의 새 상사였다.
+NPC-Keven(5)<Speaker>J</Speaker>||:조국을 배신하는 일은 아니었습니다만.
+NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Keven(5)||:그걸 판단하는 건 나다, 케빈 요원.
+NPC-Romy(0);NPC-Keven(5)<Speaker>J</Speaker>||:제가 베를린으로 배치되면서 맡은 임무는 신소련의 안젤리아 요원을 전적으로 지원하는 일이었습니다.+그리고, 거기서 희생된 요원들 중 한 명인 라이트는 제 후배였습니다. 그래서 제가 직접 진상 조사에 나선 겁니다.
+NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Keven(5)||:하지만 난 허가하지 않았어.
+NPC-Romy(0);NPC-Keven(5)<Speaker>J</Speaker>||:저도 슈타지 요원 아닙니까? 요원의 직책은 진실을 밝혀 국민과 국가의 안전을 지키는 겁니다.+저는 이번 사건이 국익에 해를 끼칠 중대한 일이라 판단하여 행동했습니다.
+NPC-Romy(3)<Speaker>로미</Speaker>;NPC-Keven(5)||:네가 뭔데? 네 판단은 그 무엇보다도 우선인가?+다른 사람들은 다 머저리인 줄 알아?
+NPC-Romy(3);NPC-Keven(5)<Speaker>J</Speaker>||:......
+NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Keven(5)||:네가 수 차례나 제출한 조사 신청서, 내가 읽어보지도 않은 줄 알았다면 큰 오산이야.+난 똑똑히 말했다, 그곳은 더는 조사할 가치가 없다고.
+NPC-Romy(0);NPC-Keven(4)<Speaker>J</Speaker>||:거기서 우리 요원 일곱 명이 목숨을 잃었습니다! 그런데도 그 현장을 조사할 가치가 없다뇨?!+댁이 국장이라지만 이제 막 취임했으면서 너무한 거 아닙니까!?+이유도 설명 않고 그런 판단을 내리면 누가 납득합니까! 귀신도――
+NPC-Romy(0)<Speaker>로미</Speaker>||:그만.
+()<Speaker></Speaker>||:로미는 J의 항변을 묵살하고, 증거물품함에서 J가 양옥에서 발견했던 약병을 꺼내 들었다.
+NPC-Romy(0)<Speaker>로미</Speaker>||<SE1>AVG_21Winter_Medicine_Bottle</SE1>:이건 뭐지?
+NPC-Romy(0);NPC-Keven(5)<Speaker>J</Speaker>||:...보고도 모르시겠습니까?
+NPC-Romy(3)<Speaker>로미</Speaker>;NPC-Keven(5)||:이게 뭐냐고 물었다.
+NPC-Romy(3);NPC-Keven(5)<Speaker>J</Speaker>||:현장에서 찾아낸 단서입니다.+병의 그 로고는 갈라테아 그룹의 것이 확실하고요.+하지만 시중에 이런 포장의 제품은 유통된 적 없습니다.+즉, 아직 출시되지 않은 시제품이란 뜻이죠. 그리고 그런 건 오직 어느 정도 직급이 되는 내부자만이 얻을 수 있습니다.
+NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Keven(5)||:그래서?
+NPC-Romy(0);NPC-Keven(5)<Speaker>J</Speaker>||:...그러니까, 현장에 갈라테아의 관계자가 있었단 명백한 증거입니다.
+NPC-Romy(3)<Speaker>로미</Speaker>;NPC-Keven(5)||:멍청이.
+NPC-Romy(3);NPC-Keven(5)<Speaker>J</Speaker>||:......잘 못 들었습니다?
+NPC-Romy(0)<Speaker>로미</Speaker>||:이것만으론 아무것도 증명할 수 없어.
+()<Speaker></Speaker>||:로미는 흥미 없다는 듯 병을 한쪽에 내려놨다.
+NPC-Romy(0)<Speaker>로미</Speaker>||:이깟 약병 하나쯤, 그곳에 있었던 이유라면 얼마든지 만들어낼 수 있어.+너는 그저 네가 가장 바라는, 가능성 낮은 결론을 믿기로 한 것에 불과해.
+NPC-Romy(0);NPC-Keven(5)<Speaker>J</Speaker>||:아니 그게 말이 되는――
+NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Keven(5)||:네 무단 행동의 이유는 그게 다인가?
+NPC-Romy(0);NPC-Keven(5)<Speaker>J</Speaker>||:...이렇게 쉽게 후속 조사도 없이 포기한다는 결정을 납득할 수 없습니다.
+NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Keven(5)||:네가 내 결정에 이의를 제기할 자격은 없다.
+NPC-Romy(0);NPC-Keven(5)<Speaker>J</Speaker>||:그래서 "국장님"의 결정이란, 희생된 동료들을 무시하고, 일을 벌인 범인에 대해서 신경쓰는 척도 안 하겠단 겁니까?
+NPC-Romy(3)<Speaker>로미</Speaker>;NPC-Keven(5)||:아무래도 넌 네 일자리가 소중하지 않나 보군.
+NPC-Keven(5)<Speaker>J</Speaker>||:......!
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:똑똑.
+()<Speaker>K</Speaker>||:국장님, 실례하겠습니다.+케인 슈바벤입니다.
+NPC-Romy(0)<Speaker>로미</Speaker>||:...들어와.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:K가 그 익숙한 무덤덤한 표정으로 문을 열고 들어와, 로미에게 가볍게 목례했다.
+NPC-Jason(2)<Speaker>K</Speaker>||:갈라테아의 제약 공장 운영 중지 건에 대해서 새로 보고드릴 내용이 들어왔습니다.
+()<Speaker></Speaker>||:그 말에 로미는 의자에 묶여 있는 J를 의미심장한 눈빛으로 바라봤다.
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:그리곤, 리모컨을 눌러 J의 구속을 풀어 주었다.
+NPC-Romy(0)<Speaker>로미</Speaker>||:가 봐.
+NPC-Keven(0)<Speaker>J</Speaker>||:...이대로 끝이라고요?
+NPC-Romy(0)<Speaker>로미</Speaker>||:그래, 끝이다. 슈타지에서의 마지막 몇 시간이나 만끽해.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>417</BIN><SE1>ClothingUp</SE1>:국가안전국의 사무실에, J는 주섬주섬 자신의 짐을 챙겼다.
+NPC-Jason(2)<Speaker>K</Speaker>||:케빈, 할 얘기가...+...너 지금 뭐하냐?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:J가 골판지 상자에서 고개를 들었다.
+NPC-Keven(0)<Speaker>J</Speaker>||:보면 모르겠냐? 내 바캉스 플랜의 첫 단계지. 명예퇴직.+그 아줌마가 말했잖아.
+SP9(0)<Speaker>？？？</Speaker>||:......
+()<Speaker></Speaker>||:거침없는 J의 말에 K는 이번에도 절로 눈살이 찌푸려졌다.+그제서야 J는 K의 뒤에 처음 보는 여성이 있는 것을 눈치챘다.
+NPC-Jason(4)<Speaker>K</Speaker>||:좀 어른스럽게 행동해라...
+NPC-Keven(5)<Speaker>J</Speaker>||:뭐, 내가 지금 애들처럼 땡깡이라도 부리는 거 같아?
+()<Speaker></Speaker>||:J는 정리 중이던 물건을 내려놓고 다시 K를 마주봤다.
+NPC-Jason(4)<Speaker>K</Speaker>||:좌절 좀 겪었다고 다 때려치려는 그 행위가 유치해서지 그럼 뭐겠냐.+라이트의 복수를 하겠다면서 슈타지를 그만두겠다니, 이런 걸 보고 정신분열이라 하던가?
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(4)||:됐네요 이 자식아! 내가 좋아서 이러는 줄 알아!?+조사 안 한다니 너한테 유치하단 소리나 듣고, 조사한다니 그 여자한테 욕이나 먹―― 아, 욕이 아니라 모가지네.
+NPC-Jason(4)<Speaker>K</Speaker>||:......
+()<Speaker></Speaker>||:K는 숨을 깊이 들이쉬곤 J에게 한 발짝 더 다가서며 목소리를 낮췄다.
+NPC-Jason(2)<Speaker>K</Speaker>||:케빈, 주변을 봐라. 빈 자리가 이렇게 많아졌어. 너만 당한 게 아니야. 그만둔 게 누구누구인지도 생각해 봐, 그들은 왜 떠났을 거 같냐?+무슨 일이든 좀 더 머리를 굴리라고.
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(2)||:지금 그걸 신경 쓸 겨를이 어딨다고... 내 머릿속엔 지금 양옥에서 뭔 일이 있었나밖에 없어.
+NPC-Keven(0);NPC-Jason(2)<Speaker>K</Speaker>||:이 멍청아, 슈타지에 남아야 계속 조사를 할 거 아니야.
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(2)||:이제 와서 죄송합니다~ 해도 소용 없을 텐데?
+NPC-Keven(0);NPC-Jason(2)<Speaker>K</Speaker>||:그거라면 걱정 마라.+그녀가 네게 새 임무를 하달했다. 너 안 짤렸어.
+NPC-Keven(0)<Speaker>J</Speaker>||:너... 설마 날 위해 미인계를?
+()<Speaker></Speaker>||:K는 J의 농담에 딴지 대신 땅이 꺼져라 한숨을 푹 쉬는 것으로 대신했다.+그리곤 한 발짝 물러나, 여태까지 침묵하던 소녀에게 고개를 돌렸다.
+SP9(0)<Speaker>？？？</Speaker>||:......
+NPC-Jason(2)<Speaker>K</Speaker>||:소개하지. 이쪽은 모나 양이다. 얼마 전 슈타지에 정식 배치된 전술인형이지.
+SP9(0)<Speaker>모나</Speaker>||:잘 부탁드립니다, J 요원.
+NPC-Keven(0)<Speaker>J</Speaker>;SP9(0)||:오, 우리도 이제 전술인형 써? 음 음... 일단 외모는 합격.
+NPC-Keven(0);NPC-Jason(2)<Speaker>K</Speaker>||:...리펜슈탈 국장의 요구로, 슈타지에 전술인형 운용이 도입된 거다. 아직은 실험 기수다만.+현시간부로, 모나 양이 널 데리고 임무를 수행할 거다.
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:예쁜 전술인형 아가씨과 함께 작――뭐?+잠깐잠깐, 내가 잘못 들었나...? 난 인간에, 얜 인형 맞지? 얘가 날 지휘한다고?
+NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:청력에 이상 없는 것 같아 다행이군.+아무튼, 윗선의 명령이다. 상관 명령엔 절대복종이라, 훈련 때 안 배웠나?
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(2)||:......쓰읍.+알았어.
+NPC-Jason(2)<Speaker>K</Speaker>||:수행할 임무의 내용은 모나 양이 대신 설명하도록.
+SP9(0)<Speaker>모나</Speaker>||:네. 얼마 전 갈라테아 제약 공장의 운영 정지 처분으로 인한 치안 문제가 발생했습니다.+베를린 경찰청에게서 전달받은 정보로, 현재 한 시위대 무리가 제약 공장 앞에 집합했다고 합니다.+즉시 출동해 폭력 내지는 범법 행위 발생을 미연에 방지해야 합니다.
+NPC-Keven(5)<Speaker>J</Speaker>||:쳇... 참 슈타지 요원다운 일이구만.+하면 되잖아, 높으신 분이 까라면 까야지.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:모나는 고개를 끄덕이곤 먼저 가 문을 열었다.
+NPC-Jason(2)<Speaker>K</Speaker>||:케빈.+이거 가지고 가라.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:K가 불쑥 J에게 내민 것은 연락처로 보이는 숫자가 적힌 쪽지였다. 다만, 이게 연락처라면 독일의 것이 아니었다.+J는 번호를 머릿속에 새겨둔 다음, 쪽지를 구겨 주머니에 쑤셔넣곤 고개를 돌려 K를 보았다.
+NPC-Jason(2)<Speaker>K</Speaker>||:시간 있을 때 걸어 봐.+도움이 될지도 모르니.
+NPC-Keven(5)<Speaker>J</Speaker>||:...그래.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>325</BIN><BGM>BGM_Room</BGM>:갈라테아 그룹, 그레이 생물 연구소.
+NPC-grig(2)<Speaker>？？？</Speaker>||:뭘 보고 있지?
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:주문 내역서.
+()<Speaker></Speaker>||:손가락으로 탁상을 툭툭 두드리며 목록을 읽어 내려가는 그레이의 미간은 좀처럼 펴질 기미가 보이지 않았다.
+NPC-grig(2)<Speaker>？？？</Speaker>||:"그녀"가 보낸 건가?
+NPC-grig(2);NPC-MrsGray(1)<Speaker>그레이</Speaker>||:맞아.+메시지만 보내곤, 연락받는 걸 거절하고 있어.+...아버님이나 스승님 외엔 아무하고도 말하기 싫다는 거겠지.
+NPC-grig(1)<Speaker>？？？</Speaker>;NPC-MrsGray(1)||:...그레이.
+NPC-grig(1);NPC-MrsGray(3)<Speaker>그레이</Speaker>||:이게 뭐람...+그 여자, 선전포고라도 하는 건가? 아님 투항하겠단 걸 돌려 말하나?
+NPC-grig(1)<Speaker>？？？</Speaker>;NPC-MrsGray(3)||:그녀의 성격으로 판단할 때, 둘 다 아니야.
+NPC-grig(1);NPC-MrsGray(4)<Speaker>그레이</Speaker>||:흥...+아무리 불만이 많더라도, 지금 임무의 흐름을 쥔 사람은 녀석이 아니라 바로 나야.
+NPC-grig(1)<Speaker>？？？</Speaker>;NPC-MrsGray(4)||:그녀가 네게 주문을 보낸 것이 그 증거지.
+NPC-grig(1);NPC-MrsGray(0)<Speaker>그레이</Speaker>||:그래...+임무는 어차피 실행해야 해. 때가 왔어.
+NPC-grig(0)<Speaker>？？？</Speaker>||:불꽃이 피어날 날이 정해졌으니, 아무도 막을 수 없어.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>413</BIN><BGM>BGM_Room</BGM>:베를린 시가지, 가동 정지된 갈라테아 제약 공장 앞.
+()<Speaker>시위민중</Speaker>||<SE1>AVG_Crowd</SE1>:망할 놈들아! 약 만드는 공장을 멈추면 우리더러 어쩌라는 거냐!+정부는 우릴 몽땅 죽일 셈이냐!
+()<Speaker>시위민중</Speaker>||:벌써 약을 살 곳이 없어요! 이래서 어떻게 살라는 거예요!?+대체 무슨 생각이냐고요!!
+()<Speaker></Speaker>||:가동 정지 처분에 분노한 시민들이, 공장 앞 차단선에 모여 울부짖었다.+그 많은 수에, 출동한 경찰 인력만으로는 그들을 진정시키는 데 점점 힘에 부쳐 가는 상황이었다.
+SP9(0)<Speaker>모나</Speaker>||:로미 국장님께서 내리신 임무는, 경찰의 시위대 해산 및 치안 유지 임무를 지원하는 것입니다.+도착 전까지 일부 사건 사례 보고를 봤는데, 현장을 직접 보니 예상보다 심각하군요.+J 요원의 의견은 어떱니까?
+NPC-Keven(0)<Speaker>J</Speaker>||:내 의견은 왜 물어?+여기 대장은 너잖아.
+SP9(0)<Speaker>모나</Speaker>||:그렇죠. 하지만 J 요원이 저보다 슈타지 요원으로서의 경험이 훨씬 풍부합니다.+J 요원의 경험이 임무 수행에 더 도움이 될 것이라 판단합니다만, 이견 있습니까?
+()<Speaker></Speaker>||:어떻게 봐도, 모나는 틀림없이 "국장님 편"이었다.+J와는 완전 반대 입장인 것이다.
+NPC-Keven(0)<Speaker>J</Speaker>||:거 참... 어쩌긴 뭘 어째, 치안 유지 도우랬으니 그렇게 해야지.+일단 여기 담당자한테 연락하고, 상황 보면서 행동해야지. 그것도 모르면서 무슨 요원 일을 한다는 거야?
+SP9(0)<Speaker>모나</Speaker>||:......
+()<Speaker></Speaker>||:그 말에 J를 바라보는 눈빛이 다소 이상했지만, 그녀는 딱히 뭐라 답하지 않고 고개만 끄덕였다.
+NPC-Keven(5)<Speaker>J</Speaker>||<BGM>BGM_Empty</BGM>:(리펜슈탈 그 여자, 이딴 허드렛이나 시키다니... 나보고 귀찮으니까 좀 가만 있어라 이거잖아?)+(인형까지 감시로 붙이고 말이야...)+(젠장! 이딴 데서 시간 낭비할 여유 없다고!)
+()<Speaker></Speaker>||:모나가 눈치채지 못하도록, J는 속으로만 불같이 화를 내었다.
+()||<黑点1><BIN>10</BIN>:

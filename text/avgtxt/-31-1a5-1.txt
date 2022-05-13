@@ -1,127 +1,127 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>9</BIN><BGM>BGM_Sneak</BGM>:......
-X95(0)<Speaker>X95</Speaker><通讯框>||:<color=#00CCFF>지휘관님, 안에서 총소리가 들렸는데 무사하신가요?</color>+<color=#00CCFF>저희는 지금 문 바로 밖에 위치해 있습니다. 언제든지 움직일 수 있어요.</color>+<color=#00CCFF>지휘관님?</color>
-()<Speaker>지휘관</Speaker>||:......
-()<Speaker></Speaker>||<黑屏1>:지금 침투조가 문을 뚫고 들어와 곧장 반란 병사 몇 명을 사살한다 해도, 나머지가 대사를 쏴 죽일 수 있다.+사망자 없이 모든 적을 섬멸할 가능성은 너무나도 낮다...+제기랄, 지금 이런 상황에서 K는 대체 뭘 하고 있는 거지?!+......
-()<Speaker></Speaker>||<黑屏2><BIN>97</BIN>:베오그라드 회담장, 대회의실.
-()<Speaker>반란 병사</Speaker>||:아주 감동적인 연설이었소, 울릭 주석. 너무 감동적이어서 구토가 나올 지경이야!
-NPC-Ambassador(0)<Speaker>울릭 주석</Speaker>||:......
-()<Speaker>반란 병사</Speaker>||:뭐? 서로를 믿고 손을 잡으라? 희생은 근절되어야만 한다고?+그렇게 말하던 방금, 바깥에서는 우리의 형제자매들이, 우리의 가족들이 무참하게 학살당했다! 그저 자신의 억울함을 밝히고 싶어했던 그들을 너희가 잔인하게 죽였다!
-NPC-Ambassador(0)<Speaker>울릭 주석</Speaker>||:당신들은 대체 누구입니까!?
-()<Speaker>반란 병사</Speaker>||:우리는 오물을 정화하는 집행자 패러데우스(Paradeus)의 충실하고 강인한 하수인이자, 세치 혀로 거짓말을 내뱉는 네놈 같은 죄인들을 처단할 처형수다!+국민을 위해서라 떠들어대면서, 장벽을 세워 그 국민들을 바깥에 저버리고 있지! 분열은 없어져야 한다고 했지? 그럼 오늘 이 자리서, 분열을 조장하는 벽을 무너뜨려 주마!
-()<Speaker>지휘관</Speaker>||:침착하게... 돌파할 기회를 노려야 해...
-()<Speaker></Speaker>||:슬쩍 주변 상황을 관찰하니, 놀랍게도 나와 같은 의도인 사람들이 보였다.
-()<Speaker></Speaker>||:반란 병사가 주석을 연설대 앞으로 몰아붙였다.
-()<Speaker>반란 병사</Speaker>||<震屏>:더 큰 책임을 지닌 사람이 희생해야 한다 했으렷다? 그럼 그 말대로, 먼저 지옥으로 보내주지!+네년의 피로 우리의 혁명의 시작을 알리겠다!
-()<Speaker></Speaker>||:반란 병사가 소총을 들어 주석의 머리를 겨눴다.
-NPC-Ambassador(0)<Speaker>울릭 주석</Speaker>||:저는 전에도 총구와 대면한 적이 있습니다. 루크사트주의에 몸을 맡긴 날부터, 전 언제든지 각오가 되어 있습니다.+하지만 당신이 지금 방아쇠를 당겨서 바뀌는 것이 무엇입니까? 분쟁은 더 많은 이들을 다치게 할 뿐입니다. 싸우기만 해서, 언제 우리의 가정을 재건하겠습니까!?
-()<Speaker>반란 병사</Speaker>||:네년이 말하는 건 우리가 아니라 네년의 집이겠지!
-NPC-Ambassador(0)<Speaker>울릭 주석</Speaker>||:이 세상이 우리 모두의 집이라는 것을 왜 이해하지 못하십니까!
-()<Speaker>반란 병사</Speaker>||<黑屏1>0,3</黑屏1>:닥치고 지옥으로 떨어져라!
-()<Speaker>지휘관</Speaker>||<黑屏2>0,3</黑屏2>:안 돼!+ X95! 지금 즉시――
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>벌써 인내심이 다했나, 지휘관?</color>
-NPC-Jason(0)<Speaker>지휘관</Speaker>||<黑屏1>0,3</黑屏1><BGM>BGM_Empty</BGM>:무슨...?!
-()<Speaker></Speaker>||<黑屏2>0,3</黑屏2><CGDelay>0.3</CGDelay>:......
-()<Speaker></Speaker>||<白屏1>0,6</白屏1>:
-()<Speaker></Speaker>||<白屏2>0,6</白屏2>:
-()<Speaker></Speaker>||<CGDelay>0.3</CGDelay>:탕! 탕! 탕!
-()<Speaker>반란 병사</Speaker>||:......+너는......
-()<Speaker></Speaker>||:이마에 뚫린 구멍으로 피를 쏟으며, 반란 병사가 쓰러졌다.+그 뒤에는, 권총을 쥔 로쉬친 대사가 있었다.
-()<Speaker></Speaker>||:다른 반란 병사들도 그 광경에 어리둥절한 표정이었다. 그 순간, 그들이 총을 겨누고 있던 기자들도 총을 꺼내 들었다.
-()<Speaker>지휘관</Speaker>||:그런 거였군.+카리나, 엎드려!
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:엎드리자마자, 대회의실은 총성으로 뒤덮였다.
-X95(0)<Speaker>X95</Speaker><通讯框>||:<color=#00CCFF>지휘관님? 카리나 씨? 지금 교전 중인가요?</color>
-NPC-KalinReporter(0)<Speaker>카리나</Speaker>||:아니야! 우리가 아니야!
-()<Speaker></Speaker>||:......
-()<Speaker>지휘관</Speaker>||:...끝났군.
-()<Speaker></Speaker>||:대회의실의 반란 병사들은, 기자들에 의해 거의 동시에 사살됐다.+총을 든 기자들은 여전히 무기를 쥔 채, 병사들의 시신을 확인했다.
-NPC-Bodyguard1(0)<Speaker>잠복 요원A</Speaker>||<BGM>BGM_Room</BGM>:회의실 정리 완료. 목표의 사망을 확인하겠다.
-NPC-Bodyguard2(0)<Speaker>잠복 요원B</Speaker>||:알았다. 제3조는 날 따라와라.
-()<Speaker>지휘관</Speaker>||:젠장할...+이게 그쪽의 각본인가, K.
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>내가 말했잖아, 너흰 그저 예비 병력이라고.</color>
-NPC-Jason(0)<Speaker>지휘관</Speaker>||:지금 여기에는 진짜 기자는 한 명도 없겠군?
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>진짜 기자라면, 벌써 기절했겠지.</color>
-()<Speaker></Speaker>||:연설대를 보니, 로쉬친 대사가 울릭 주석을 다독이고 있었다.
-()<Speaker>로쉬친 대사</Speaker>||:죄송합니다, 울릭 여사. 놀라게 했군요.
-NPC-Ambassador(0)<Speaker>울릭 주석</Speaker>||:아뇨, 괜찮습니다... 아무도 다치지 않아서 다행입니다...
-()<Speaker>지휘관</Speaker>||:방금 상황은 전부 카메라에 찍혔을 테니, 내일 신문은 "평화회담을 파괴하려던 테러리스트의 음모, 양국의 협력이 무찌르다!"로 헤드라인을 장식하겠군.+아주 멋진 정치 쇼였어. 이렇게 화끈한 기사거리를 만들었으니, 그쪽이 말한대로 회담 내용은 아무래도 좋게 됐군.
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>그런 말을 들으니, 자네는 왠지 지휘관보단 기자가 어울리지 않을까 싶군.</color>
-NPC-Jason(0)<Speaker>지휘관</Speaker>||:흥... 일전에 내 의견을 묵살한 것도, 처음부터 적의 회담장에 숨어들 것을 알고 있었기 때문이었나 보지?
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>베오그라드 당국이 반란 분자를 미리 발견해, 그 명단을 우리에게 전달했다. 나머지 잔당들도 벌써 우리 요원이 다 처리했어.</color>+<color=#00CCFF>참으로 우습지 않나? 회담장의 통로를 막아 모두를 가둘 셈이었는데, 오히려 자신들이 갇히게 되다니 말이야.</color>
-NPC-Jason(0)<Speaker>지휘관</Speaker>||:결국 우리는 조연의 조연에 불과했다는 거군.+그래, 그건 됐고. 방금 반란군이 패러데우스라고 한 게 신경이 쓰인다.
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>이미 조사를 통해, 어느 변경지대의 옐로우존에서 보고된 기록을 찾았다. 사이비 교단의 이름이고, 그들의 특징과 일치해. 내 생각이 맞다면 패러데우스가 하얀 세력의 정식 명칭이겠지.</color>
-NPC-Jason(0)<Speaker>지휘관</Speaker>||:패러데우스라... 정말 신이 자신들을 구원하리라 믿는 건가. 뭐, 아무래도 상관없지만. 아무튼 이제야 놈들을 "하얀 세력"이라 혀 꼬이게 부르지 않아도 되겠군.
-NPC-Jason(0)<Speaker>K</Speaker>||<黑屏1>:<color=#00CCFF>죽은 자들을 뭐라고 부르든 의미가 있나?</color>
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:......
-()<Speaker>？？？</Speaker>||<黑屏1>:그래, 죽어버리면 무슨 의미가 있어? 바보도 아는 걸 모르는 녀석들이 꼭 있다니까...+히히히, 밖이나 안이나, 다 구제불능인 얼간이들뿐이네.+그래, 얼간이인 건 진작에 알고 있었어. 잘도 자기들이 패러데우스의 하수인이라고 떠벌리기나 하고 말이야.+아빠에게 저런 멍청한 하수인은 필요 없어. 아빠에겐 나만 있으면 돼.+히히히...+그래도, 숨어있던 생쥐들을 찾을 수고는 덜었네. 그럼 준비운동은 끝났구나. 다들 준비 됐어?
-()<Speaker></Speaker>||<黑屏2><BIN>97</BIN>:......
-()<Speaker>지휘관</Speaker>||:이것으로 임무를 완수한 거겠지? 이제 안젤리아와 만나게 해줬으면 하는데.
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>나도 약속은 지키는 사람이라고. 인형 제대를 수습해. 지금 바로 일정을...?!</color>
-()<Speaker></Speaker>||<震屏>:돌연, 바닥을 뒤흔드는 진동이 느껴졌다.
-NPC-KalinReporter(0)<Speaker>카리나</Speaker>||<BGM>BGM_Boss</BGM>:지, 지진인가?!
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>무슨 일이지? ...뭐라고?!</color>
-()<Speaker></Speaker>||:K가 갑자기 통신을 끊었다.
-()<Speaker></Speaker>||:삐익.
-Lewis(0)<Speaker>루이스 기관총</Speaker><通讯框>||:지휘관님! 먼 곳에서 엄청난 규모의 폭발이 일어났어요! 거기서도 보이시나요?+지금 상황이 엄청 안 좋아요!
-NPC-KalinReporter(0)<Speaker>카리나</Speaker>||:거대한 폭발이라고?!
-RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>지휘관님! 적의 습격을 받았습니다! 하얀 세력입니다! 이전의 적들과는 차원이 다릅니다! 엎드리라니까 SOP2!</color>
-NPC-KalinReporter(0)<Speaker>카리나</Speaker>||<震屏>:대체 무슨 일이야!?
-RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>적의 기습입니다! 벌써 제대의 절반을 손실했습니다! 더 이상 버틸 수 없습니다, 회의장으로 후퇴를 허가해 주십시오!</color>
-RO635(0)<Speaker>지휘관</Speaker>||:후퇴를 허가한다! 하지만 회담장 안으로 진입하지는 마, 수비대 군경이 너희를 공격할 수도 있다!
-RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>라저! 거리를 유지하겠습니다!</color>
-NPC-KalinReporter(0)<Speaker>카리나</Speaker>||:방금 K 씨가 임무 끝났다고 하지 않았어요? 어째서...
-()<Speaker>지휘관</Speaker>||:"패러데우스" 놈들은 그렇게 생각하지 않은 거지.+역시 그때 본 건 니토였어... 내가 잘못 본 게 아니야... 제기랄!+회담장이 견고해서 다행이군... 그리고 안전국 요원들과 군경의 화력도 있으니...+젠장, K! 응답하라! 이런 상황에서 죽은 척 하고 있을 셈인가!
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>...돌발상황이 발생했다, 지휘관. 임무를 속행하도록. VIP를 지켜내라.</color>
-NPC-Jason(0)<Speaker>지휘관</Speaker>||:외부에서 임무 수행 중이던 인형 제대들이 큰 피해를 입었다. 회담장 내부로 철수시켜 방어선을 구축해야 한다!
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>쳇... 너희도 공격당했나? 이쪽도 특파 요원팀의 3분의 2가 연락이 두절됐어. 다 순식간에 일어난 일이야.</color>
-NPC-Jason(0)<Speaker>지휘관</Speaker>||:그 잔챙이들을 찾아다닐 때 진정한 적에게 포착당한 거겠지. 우리도 큰 피해를 입었다. 지금 바로 우리 인형 제대에 대한 피아 식별을 수정하길 요구한다!
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>군경이 자네의 인형들을 아군으로 인식하도록 수정하지. 대신 VIP를 반드시 지켜내라.</color>
-()<Speaker></Speaker>||:회담장 내의 안전국 요원들도, 통신을 받고 서둘러 움직였다.+우선 대사와 주석의 안전을 확보한 후, 요원들은 대회의실에 방어선을 구축했다.
-KSVK(0)<Speaker>KSVK</Speaker><通讯框>||:<color=#00CCFF>나쁜 소식이다, 지휘관. 거리에 ELID가 출현했다.</color>+<color=#00CCFF>현재 목적 없이 이동하면서 피난 중인 시민을 공격하고 있다.</color>+<color=#00CCFF>지시를 내려다오.</color>
-NPC-KalinReporter(0)<Speaker>카리나</Speaker>;KSVK(0)||:ELID? 전에 오염 구역에서 봤던 그 괴물 말이야? 어째서 도시에 나타난 거지!?
-NPC-KalinReporter(0);KSVK(0)<Speaker>KSVK</Speaker>||:<color=#00CCFF>정화탑 방향에서 폭발이 발생했다. 방어벽이 파괴된 거겠지... 공격조는 이미 철수했고, 이 감시 초소는 고립되었다. 계속 관찰해야 하나?</color>
-KSVK(0)<Speaker>지휘관</Speaker>||:감시 초소를 포기하고, 회담장으로 접근해 RO의 제대와 합류해라.+감염자가 곧장 이곳으로 몰려오지 않는다면 아직 시간이 있다.+애초에 회담장은 주요 방어 시설이고, 이곳은 병력도 충분하니 그리 쉽게――
-()<Speaker></Speaker>||<SE2>MachineGunBurst</SE2>:퍼억.
-()<Speaker>지휘관</Speaker>||:뭐지?
-()<Speaker></Speaker>||<SE2>MachineGunBurst</SE2>:퍼억.
-()<Speaker></Speaker>||:무언가가 몇 겹이나 되는 회담장 외부의 격벽을 뚫고 들어와, 두꺼운 콘크리트 벽에 구멍을 냈다.
-()<Speaker>지휘관</Speaker>||:30mm 철갑탄...!
-()<Speaker>요원</Speaker>||:모두 엎드려!
-()<Speaker>로쉬친 대사</Speaker>||:주석의 안전이 최우선이다! 주석을 보호해라! 여사, 따라오시오!
-NPC-Ambassador(0)<Speaker>울릭 주석</Speaker>||<SE2>MachineGunBurst</SE2>:네... 꺄아아악!
-()<Speaker></Speaker>||:날아든 철갑탄이 로쉬친 대사의 몸을 반토막내었다.+울릭 주석은 대사의 시신에 맞아 기절했다.
-()<Speaker></Speaker>||:대회의실을 수비하던 안전국 요원들도 속수무책이었다. 외부에서 날아오는 정확한 저격에, 그들도 하나둘씩 쓰려졌다.
-()<Speaker>지휘관</Speaker>||:카리나! 꼭 붙어서 따라와!+K! 안전국 요원들이 당했다!
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>나도 알아.</color>
-()<Speaker></Speaker>||:퍼억.+엄폐물 뒤에 숨어있던 요원 또 한 명이 대구경 철갑탄에 맞아 즉사했다.
-()<Speaker>지휘관</Speaker>||:철갑탄으로 인간을 쏘다니... 이런 잔인한 짓을...!
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>회의장에 배신자가 있는 모양이다.</color>+<color=#00CCFF>조금 전의 폭동 진압으로 노출된 요원은 물론, 대기 중이었던 소대까지 당했어.</color>+<color=#00CCFF>즉, 회담장 안의 누군가가 아군의 위치를 노출시키고 있는 거지.</color>
-NPC-Jason(0)<Speaker>지휘관</Speaker>||:여기는 사람이 너무 많다!+그 잘난 정보력으로 누가 배신자인지 알아내 보라고!
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>...불가능해.</color>+<color=#00CCFF>이젠 그 회의실도 안전하지 않아. 위치가 노출되지 않도록 주의하면서, VIP와 함께 그곳을 벗어나도록.</color>
-NPC-Jason(0)<Speaker>지휘관</Speaker>||:이것도 안전국이 예상한 일인가?
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>아니... 이건 예측하지 못했어.</color>
-()<Speaker></Speaker>||:통신 종료.
-()<Speaker>지휘관</Speaker>||:X95 제대! 지하실 통로를 확보해라! 루이스는 관측을 중단하고, 연막탄을 던질 테니 그틈에 VIP를 지하실까지 호송해! 합류한 뒤 VIP 호위조를 재편성한다, 이상!
-X95(0)<Speaker>X95</Speaker><通讯框>||:<color=#00CCFF>네!</color>
-KSVK(0)<Speaker>KSVK</Speaker><通讯框>||:<color=#00CCFF>명령을 받들겠다.</color>
-()<Speaker>지휘관</Speaker>||:각 제대 주목! 지금부터 VIP를 회의실 밖으로 호송할 준비를 하겠다.+RO, SOP2, 어디 다친 곳 있나?
-RO635(5)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>지금 부상자를 구조 중입니다!</color>+<color=#00CCFF>적은 현재 인간을 우선적으로 공격하고 있어, 바깥의 헌병과 군경이 밀리고 있습니다!</color>+<color=#00CCFF>이제 어떡할까요?</color>
-RO635(5)<Speaker>지휘관</Speaker>||:우린 지금 VIP와 함께 지하실로 이동 중이다. 그다음 행동을 위해 퇴로를 확보해야만 해.+뒷문을 통해 이탈할 테니, 지금 당장 바깥의 길을 뚫도록.+VIP가 밖으로 나오면 즉시 호송해라!
-RO635(3)<Speaker>RO635</Speaker>||:<color=#00CCFF>알겠습니다!</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>지휘관, 거리에 대피하는 사람들이 잔뜩 보여.</color>+<color=#00CCFF>정말로... ELID가 오는 거야?</color>
-()<Speaker>지휘관</Speaker>||:이쪽으로 올지는 확실치 않지만, 준비는 해야겠지.+감염자든 "패러데우스"든, 길을 막는 적은 모조리 해치워.
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>지휘관, 아직 살아있나?</color>
-NPC-Jason(0)<Speaker>지휘관</Speaker>||:아직은.
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>바깥에서 잠복 중이던 특수 요원 팀과의 연결이 거의 다 끊겼어. 살아남은 팀은 지금 적의 포격 진지를 찾는 중이다.</color>+<color=#00CCFF>회담장 내부는 지금 엉망이야. 지휘 센터의 응답은 없고, 로쉬친 대사도 사망이 확인됐다.</color>
-NPC-Jason(0)<Speaker>지휘관</Speaker>||:정말 최악의 사태군...+부디 대책이 있다고 말해줘.
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>그곳에서 몇 블록 떨어진 곳에 대성당이 있다. 그쪽이 예비 철수 지점이지. 훨씬 더 견고한 건물이니, 수비하기 더 편할 거야.</color>
-NPC-Jason(0)<Speaker>지휘관</Speaker>||:알았다. VIP를 그쪽으로 호송하지.+적의 행동에 짐작가는 점은 있나?
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>적어도 "패러데우스"는 이미 베오그라드의 내부에까지 침투한 상태다.</color>+<color=#00CCFF>아마 우리가 적의 잠복 부대를 처리하는 동안, 베오그라드 정부 내부의 배신자가 우리 요원의 배치 정보를 파악한 후, 계획을 유출했겠지.</color>+<color=#00CCFF>앞선 행동은 모두 우리의 경계심을 늦추기 위한 양동 작전이었던 거다.</color>
-NPC-Jason(0)<Speaker>지휘관</Speaker>||:이런 상황에서 잘도 차분하게 말하는군.
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>미안하지만 난 지금 이를 악물고 말하는 중이야.</color>+<color=#00CCFF>지금까지 순조로웠던 것 모두, 놈들이 우리가 다 계획대로 되고 있다고 착각하게 만들기 위한 환상이었어.</color>+<color=#00CCFF>첫 번째 습격을 일부러 간단히 저지되도록 해서, 두 번째 습격이야말로 진짜 공세라고 생각하게 만들었고.</color>+<color=#00CCFF>하지만 두 번째도 그저 버리는 패였던 거다. 진정한 주력부대는 지금 이 세 번째 공격이야. 처음부터 가장 극단적인 파괴 작전을 짰던 거였어...</color>
-NPC-Jason(0)<Speaker>지휘관</Speaker>||:놈들의 목적은 대체 뭐지?+회의 하나를 망치자고 이렇게까지 나오진 않을 거 아닌가!
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>확실히, 우린 놈들이 노리는 것이 무엇인지 파악하고 있어. 하지만 그걸 위해 설마 이 도시를 통째로 희생시키려 할 줄은...</color>
-NPC-Jason(0)<Speaker>지휘관</Speaker>||:그 목적은 나에게 말해줄 수 없는 건가 보지? 그렇다면 안젤리아의 임무와 관련이 있겠군.
-NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>여기까지 와서 부정은 하지 않겠어. 사태가 이렇게 됐으니, 안젤리아도 위험에 처했을 거다. 지금 통신이 끊겼어.</color>+<color=#00CCFF>서둘러 방어선을 구축하고 안전구역을 확보해야 해. 안젤리아가 도시 내부에서의 일이 끝난 뒤 철수할 곳이 있도록.</color>
-NPC-Jason(0)<Speaker>지휘관</Speaker>||:최선을 다해 보지. 이제부터는 중장비 부대도 동원해야 한다. 허가를 요청한다.
-NPC-Jason(0)<Speaker>K</Speaker>||<黑屏1>:<color=#00CCFF>요청을 승인한다. 이제 모든 건 자네 손에 달렸어, 지휘관.</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>9</BIN><BGM>BGM_Sneak</BGM>:......
+X95(0)<Speaker>X95</Speaker><通讯框>||:<color=#00CCFF>지휘관님, 안에서 총소리가 들렸는데 무사하신가요?</color>+<color=#00CCFF>저희는 지금 문 바로 밖에 위치해 있습니다. 언제든지 움직일 수 있어요.</color>+<color=#00CCFF>지휘관님?</color>
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||<黑屏1>:지금 침투조가 문을 뚫고 들어와 곧장 반란 병사 몇 명을 사살한다 해도, 나머지가 대사를 쏴 죽일 수 있다.+사망자 없이 모든 적을 섬멸할 가능성은 너무나도 낮다...+제기랄, 지금 이런 상황에서 K는 대체 뭘 하고 있는 거지?!+......
+()<Speaker></Speaker>||<黑屏2><BIN>97</BIN>:베오그라드 회담장, 대회의실.
+()<Speaker>반란 병사</Speaker>||:아주 감동적인 연설이었소, 울릭 주석. 너무 감동적이어서 구토가 나올 지경이야!
+NPC-Ambassador(0)<Speaker>울릭 주석</Speaker>||:......
+()<Speaker>반란 병사</Speaker>||:뭐? 서로를 믿고 손을 잡으라? 희생은 근절되어야만 한다고?+그렇게 말하던 방금, 바깥에서는 우리의 형제자매들이, 우리의 가족들이 무참하게 학살당했다! 그저 자신의 억울함을 밝히고 싶어했던 그들을 너희가 잔인하게 죽였다!
+NPC-Ambassador(0)<Speaker>울릭 주석</Speaker>||:당신들은 대체 누구입니까!?
+()<Speaker>반란 병사</Speaker>||:우리는 오물을 정화하는 집행자 패러데우스(Paradeus)의 충실하고 강인한 하수인이자, 세치 혀로 거짓말을 내뱉는 네놈 같은 죄인들을 처단할 처형수다!+국민을 위해서라 떠들어대면서, 장벽을 세워 그 국민들을 바깥에 저버리고 있지! 분열은 없어져야 한다고 했지? 그럼 오늘 이 자리서, 분열을 조장하는 벽을 무너뜨려 주마!
+()<Speaker>지휘관</Speaker>||:침착하게... 돌파할 기회를 노려야 해...
+()<Speaker></Speaker>||:슬쩍 주변 상황을 관찰하니, 놀랍게도 나와 같은 의도인 사람들이 보였다.
+()<Speaker></Speaker>||:반란 병사가 주석을 연설대 앞으로 몰아붙였다.
+()<Speaker>반란 병사</Speaker>||<震屏>:더 큰 책임을 지닌 사람이 희생해야 한다 했으렷다? 그럼 그 말대로, 먼저 지옥으로 보내주지!+네년의 피로 우리의 혁명의 시작을 알리겠다!
+()<Speaker></Speaker>||:반란 병사가 소총을 들어 주석의 머리를 겨눴다.
+NPC-Ambassador(0)<Speaker>울릭 주석</Speaker>||:저는 전에도 총구와 대면한 적이 있습니다. 루크사트주의에 몸을 맡긴 날부터, 전 언제든지 각오가 되어 있습니다.+하지만 당신이 지금 방아쇠를 당겨서 바뀌는 것이 무엇입니까? 분쟁은 더 많은 이들을 다치게 할 뿐입니다. 싸우기만 해서, 언제 우리의 가정을 재건하겠습니까!?
+()<Speaker>반란 병사</Speaker>||:네년이 말하는 건 우리가 아니라 네년의 집이겠지!
+NPC-Ambassador(0)<Speaker>울릭 주석</Speaker>||:이 세상이 우리 모두의 집이라는 것을 왜 이해하지 못하십니까!
+()<Speaker>반란 병사</Speaker>||<黑屏1>0,3</黑屏1>:닥치고 지옥으로 떨어져라!
+()<Speaker>지휘관</Speaker>||<黑屏2>0,3</黑屏2>:안 돼!+ X95! 지금 즉시――
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>벌써 인내심이 다했나, 지휘관?</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||<黑屏1>0,3</黑屏1><BGM>BGM_Empty</BGM>:무슨...?!
+()<Speaker></Speaker>||<黑屏2>0,3</黑屏2><CGDelay>0.3</CGDelay>:......
+()<Speaker></Speaker>||<白屏1>0,6</白屏1>:
+()<Speaker></Speaker>||<白屏2>0,6</白屏2>:
+()<Speaker></Speaker>||<CGDelay>0.3</CGDelay>:탕! 탕! 탕!
+()<Speaker>반란 병사</Speaker>||:......+너는......
+()<Speaker></Speaker>||:이마에 뚫린 구멍으로 피를 쏟으며, 반란 병사가 쓰러졌다.+그 뒤에는, 권총을 쥔 로쉬친 대사가 있었다.
+()<Speaker></Speaker>||:다른 반란 병사들도 그 광경에 어리둥절한 표정이었다. 그 순간, 그들이 총을 겨누고 있던 기자들도 총을 꺼내 들었다.
+()<Speaker>지휘관</Speaker>||:그런 거였군.+카리나, 엎드려!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:엎드리자마자, 대회의실은 총성으로 뒤덮였다.
+X95(0)<Speaker>X95</Speaker><通讯框>||:<color=#00CCFF>지휘관님? 카리나 씨? 지금 교전 중인가요?</color>
+NPC-KalinReporter(0)<Speaker>카리나</Speaker>||:아니야! 우리가 아니야!
+()<Speaker></Speaker>||:......
+()<Speaker>지휘관</Speaker>||:...끝났군.
+()<Speaker></Speaker>||:대회의실의 반란 병사들은, 기자들에 의해 거의 동시에 사살됐다.+총을 든 기자들은 여전히 무기를 쥔 채, 병사들의 시신을 확인했다.
+NPC-Bodyguard1(0)<Speaker>잠복 요원A</Speaker>||<BGM>BGM_Room</BGM>:회의실 정리 완료. 목표의 사망을 확인하겠다.
+NPC-Bodyguard2(0)<Speaker>잠복 요원B</Speaker>||:알았다. 제3조는 날 따라와라.
+()<Speaker>지휘관</Speaker>||:젠장할...+이게 그쪽의 각본인가, K.
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>내가 말했잖아, 너흰 그저 예비 병력이라고.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:지금 여기에는 진짜 기자는 한 명도 없겠군?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>진짜 기자라면, 벌써 기절했겠지.</color>
+()<Speaker></Speaker>||:연설대를 보니, 로쉬친 대사가 울릭 주석을 다독이고 있었다.
+()<Speaker>로쉬친 대사</Speaker>||:죄송합니다, 울릭 여사. 놀라게 했군요.
+NPC-Ambassador(0)<Speaker>울릭 주석</Speaker>||:아뇨, 괜찮습니다... 아무도 다치지 않아서 다행입니다...
+()<Speaker>지휘관</Speaker>||:방금 상황은 전부 카메라에 찍혔을 테니, 내일 신문은 "평화회담을 파괴하려던 테러리스트의 음모, 양국의 협력이 무찌르다!"로 헤드라인을 장식하겠군.+아주 멋진 정치 쇼였어. 이렇게 화끈한 기사거리를 만들었으니, 그쪽이 말한대로 회담 내용은 아무래도 좋게 됐군.
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>그런 말을 들으니, 자네는 왠지 지휘관보단 기자가 어울리지 않을까 싶군.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:흥... 일전에 내 의견을 묵살한 것도, 처음부터 적의 회담장에 숨어들 것을 알고 있었기 때문이었나 보지?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>베오그라드 당국이 반란 분자를 미리 발견해, 그 명단을 우리에게 전달했다. 나머지 잔당들도 벌써 우리 요원이 다 처리했어.</color>+<color=#00CCFF>참으로 우습지 않나? 회담장의 통로를 막아 모두를 가둘 셈이었는데, 오히려 자신들이 갇히게 되다니 말이야.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:결국 우리는 조연의 조연에 불과했다는 거군.+그래, 그건 됐고. 방금 반란군이 패러데우스라고 한 게 신경이 쓰인다.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>이미 조사를 통해, 어느 변경지대의 옐로우존에서 보고된 기록을 찾았다. 사이비 교단의 이름이고, 그들의 특징과 일치해. 내 생각이 맞다면 패러데우스가 하얀 세력의 정식 명칭이겠지.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:패러데우스라... 정말 신이 자신들을 구원하리라 믿는 건가. 뭐, 아무래도 상관없지만. 아무튼 이제야 놈들을 "하얀 세력"이라 혀 꼬이게 부르지 않아도 되겠군.
+NPC-Jason(0)<Speaker>K</Speaker>||<黑屏1>:<color=#00CCFF>죽은 자들을 뭐라고 부르든 의미가 있나?</color>
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:......
+()<Speaker>？？？</Speaker>||<黑屏1>:그래, 죽어버리면 무슨 의미가 있어? 바보도 아는 걸 모르는 녀석들이 꼭 있다니까...+히히히, 밖이나 안이나, 다 구제불능인 얼간이들뿐이네.+그래, 얼간이인 건 진작에 알고 있었어. 잘도 자기들이 패러데우스의 하수인이라고 떠벌리기나 하고 말이야.+아빠에게 저런 멍청한 하수인은 필요 없어. 아빠에겐 나만 있으면 돼.+히히히...+그래도, 숨어있던 생쥐들을 찾을 수고는 덜었네. 그럼 준비운동은 끝났구나. 다들 준비 됐어?
+()<Speaker></Speaker>||<黑屏2><BIN>97</BIN>:......
+()<Speaker>지휘관</Speaker>||:이것으로 임무를 완수한 거겠지? 이제 안젤리아와 만나게 해줬으면 하는데.
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>나도 약속은 지키는 사람이라고. 인형 제대를 수습해. 지금 바로 일정을...?!</color>
+()<Speaker></Speaker>||<震屏>:돌연, 바닥을 뒤흔드는 진동이 느껴졌다.
+NPC-KalinReporter(0)<Speaker>카리나</Speaker>||<BGM>BGM_Boss</BGM>:지, 지진인가?!
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>무슨 일이지? ...뭐라고?!</color>
+()<Speaker></Speaker>||:K가 갑자기 통신을 끊었다.
+()<Speaker></Speaker>||:삐익.
+Lewis(0)<Speaker>루이스 기관총</Speaker><通讯框>||:지휘관님! 먼 곳에서 엄청난 규모의 폭발이 일어났어요! 거기서도 보이시나요?+지금 상황이 엄청 안 좋아요!
+NPC-KalinReporter(0)<Speaker>카리나</Speaker>||:거대한 폭발이라고?!
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>지휘관님! 적의 습격을 받았습니다! 하얀 세력입니다! 이전의 적들과는 차원이 다릅니다! 엎드리라니까 SOP2!</color>
+NPC-KalinReporter(0)<Speaker>카리나</Speaker>||<震屏>:대체 무슨 일이야!?
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>적의 기습입니다! 벌써 제대의 절반을 손실했습니다! 더 이상 버틸 수 없습니다, 회의장으로 후퇴를 허가해 주십시오!</color>
+RO635(0)<Speaker>지휘관</Speaker>||:후퇴를 허가한다! 하지만 회담장 안으로 진입하지는 마, 수비대 군경이 너희를 공격할 수도 있다!
+RO635(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>라저! 거리를 유지하겠습니다!</color>
+NPC-KalinReporter(0)<Speaker>카리나</Speaker>||:방금 K 씨가 임무 끝났다고 하지 않았어요? 어째서...
+()<Speaker>지휘관</Speaker>||:"패러데우스" 놈들은 그렇게 생각하지 않은 거지.+역시 그때 본 건 니토였어... 내가 잘못 본 게 아니야... 제기랄!+회담장이 견고해서 다행이군... 그리고 안전국 요원들과 군경의 화력도 있으니...+젠장, K! 응답하라! 이런 상황에서 죽은 척 하고 있을 셈인가!
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>...돌발상황이 발생했다, 지휘관. 임무를 속행하도록. VIP를 지켜내라.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:외부에서 임무 수행 중이던 인형 제대들이 큰 피해를 입었다. 회담장 내부로 철수시켜 방어선을 구축해야 한다!
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>쳇... 너희도 공격당했나? 이쪽도 특파 요원팀의 3분의 2가 연락이 두절됐어. 다 순식간에 일어난 일이야.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:그 잔챙이들을 찾아다닐 때 진정한 적에게 포착당한 거겠지. 우리도 큰 피해를 입었다. 지금 바로 우리 인형 제대에 대한 피아 식별을 수정하길 요구한다!
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>군경이 자네의 인형들을 아군으로 인식하도록 수정하지. 대신 VIP를 반드시 지켜내라.</color>
+()<Speaker></Speaker>||:회담장 내의 안전국 요원들도, 통신을 받고 서둘러 움직였다.+우선 대사와 주석의 안전을 확보한 후, 요원들은 대회의실에 방어선을 구축했다.
+KSVK(0)<Speaker>KSVK</Speaker><通讯框>||:<color=#00CCFF>나쁜 소식이다, 지휘관. 거리에 ELID가 출현했다.</color>+<color=#00CCFF>현재 목적 없이 이동하면서 피난 중인 시민을 공격하고 있다.</color>+<color=#00CCFF>지시를 내려다오.</color>
+NPC-KalinReporter(0)<Speaker>카리나</Speaker>;KSVK(0)||:ELID? 전에 오염 구역에서 봤던 그 괴물 말이야? 어째서 도시에 나타난 거지!?
+NPC-KalinReporter(0);KSVK(0)<Speaker>KSVK</Speaker>||:<color=#00CCFF>정화탑 방향에서 폭발이 발생했다. 방어벽이 파괴된 거겠지... 공격조는 이미 철수했고, 이 감시 초소는 고립되었다. 계속 관찰해야 하나?</color>
+KSVK(0)<Speaker>지휘관</Speaker>||:감시 초소를 포기하고, 회담장으로 접근해 RO의 제대와 합류해라.+감염자가 곧장 이곳으로 몰려오지 않는다면 아직 시간이 있다.+애초에 회담장은 주요 방어 시설이고, 이곳은 병력도 충분하니 그리 쉽게――
+()<Speaker></Speaker>||<SE2>MachineGunBurst</SE2>:퍼억.
+()<Speaker>지휘관</Speaker>||:뭐지?
+()<Speaker></Speaker>||<SE2>MachineGunBurst</SE2>:퍼억.
+()<Speaker></Speaker>||:무언가가 몇 겹이나 되는 회담장 외부의 격벽을 뚫고 들어와, 두꺼운 콘크리트 벽에 구멍을 냈다.
+()<Speaker>지휘관</Speaker>||:30mm 철갑탄...!
+()<Speaker>요원</Speaker>||:모두 엎드려!
+()<Speaker>로쉬친 대사</Speaker>||:주석의 안전이 최우선이다! 주석을 보호해라! 여사, 따라오시오!
+NPC-Ambassador(0)<Speaker>울릭 주석</Speaker>||<SE2>MachineGunBurst</SE2>:네... 꺄아아악!
+()<Speaker></Speaker>||:날아든 철갑탄이 로쉬친 대사의 몸을 반토막내었다.+울릭 주석은 대사의 시신에 맞아 기절했다.
+()<Speaker></Speaker>||:대회의실을 수비하던 안전국 요원들도 속수무책이었다. 외부에서 날아오는 정확한 저격에, 그들도 하나둘씩 쓰려졌다.
+()<Speaker>지휘관</Speaker>||:카리나! 꼭 붙어서 따라와!+K! 안전국 요원들이 당했다!
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>나도 알아.</color>
+()<Speaker></Speaker>||:퍼억.+엄폐물 뒤에 숨어있던 요원 또 한 명이 대구경 철갑탄에 맞아 즉사했다.
+()<Speaker>지휘관</Speaker>||:철갑탄으로 인간을 쏘다니... 이런 잔인한 짓을...!
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>회의장에 배신자가 있는 모양이다.</color>+<color=#00CCFF>조금 전의 폭동 진압으로 노출된 요원은 물론, 대기 중이었던 소대까지 당했어.</color>+<color=#00CCFF>즉, 회담장 안의 누군가가 아군의 위치를 노출시키고 있는 거지.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:여기는 사람이 너무 많다!+그 잘난 정보력으로 누가 배신자인지 알아내 보라고!
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>...불가능해.</color>+<color=#00CCFF>이젠 그 회의실도 안전하지 않아. 위치가 노출되지 않도록 주의하면서, VIP와 함께 그곳을 벗어나도록.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:이것도 안전국이 예상한 일인가?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>아니... 이건 예측하지 못했어.</color>
+()<Speaker></Speaker>||:통신 종료.
+()<Speaker>지휘관</Speaker>||:X95 제대! 지하실 통로를 확보해라! 루이스는 관측을 중단하고, 연막탄을 던질 테니 그틈에 VIP를 지하실까지 호송해! 합류한 뒤 VIP 호위조를 재편성한다, 이상!
+X95(0)<Speaker>X95</Speaker><通讯框>||:<color=#00CCFF>네!</color>
+KSVK(0)<Speaker>KSVK</Speaker><通讯框>||:<color=#00CCFF>명령을 받들겠다.</color>
+()<Speaker>지휘관</Speaker>||:각 제대 주목! 지금부터 VIP를 회의실 밖으로 호송할 준비를 하겠다.+RO, SOP2, 어디 다친 곳 있나?
+RO635(5)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>지금 부상자를 구조 중입니다!</color>+<color=#00CCFF>적은 현재 인간을 우선적으로 공격하고 있어, 바깥의 헌병과 군경이 밀리고 있습니다!</color>+<color=#00CCFF>이제 어떡할까요?</color>
+RO635(5)<Speaker>지휘관</Speaker>||:우린 지금 VIP와 함께 지하실로 이동 중이다. 그다음 행동을 위해 퇴로를 확보해야만 해.+뒷문을 통해 이탈할 테니, 지금 당장 바깥의 길을 뚫도록.+VIP가 밖으로 나오면 즉시 호송해라!
+RO635(3)<Speaker>RO635</Speaker>||:<color=#00CCFF>알겠습니다!</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>지휘관, 거리에 대피하는 사람들이 잔뜩 보여.</color>+<color=#00CCFF>정말로... ELID가 오는 거야?</color>
+()<Speaker>지휘관</Speaker>||:이쪽으로 올지는 확실치 않지만, 준비는 해야겠지.+감염자든 "패러데우스"든, 길을 막는 적은 모조리 해치워.
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>지휘관, 아직 살아있나?</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:아직은.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>바깥에서 잠복 중이던 특수 요원 팀과의 연결이 거의 다 끊겼어. 살아남은 팀은 지금 적의 포격 진지를 찾는 중이다.</color>+<color=#00CCFF>회담장 내부는 지금 엉망이야. 지휘 센터의 응답은 없고, 로쉬친 대사도 사망이 확인됐다.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:정말 최악의 사태군...+부디 대책이 있다고 말해줘.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>그곳에서 몇 블록 떨어진 곳에 대성당이 있다. 그쪽이 예비 철수 지점이지. 훨씬 더 견고한 건물이니, 수비하기 더 편할 거야.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:알았다. VIP를 그쪽으로 호송하지.+적의 행동에 짐작가는 점은 있나?
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>적어도 "패러데우스"는 이미 베오그라드의 내부에까지 침투한 상태다.</color>+<color=#00CCFF>아마 우리가 적의 잠복 부대를 처리하는 동안, 베오그라드 정부 내부의 배신자가 우리 요원의 배치 정보를 파악한 후, 계획을 유출했겠지.</color>+<color=#00CCFF>앞선 행동은 모두 우리의 경계심을 늦추기 위한 양동 작전이었던 거다.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:이런 상황에서 잘도 차분하게 말하는군.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>미안하지만 난 지금 이를 악물고 말하는 중이야.</color>+<color=#00CCFF>지금까지 순조로웠던 것 모두, 놈들이 우리가 다 계획대로 되고 있다고 착각하게 만들기 위한 환상이었어.</color>+<color=#00CCFF>첫 번째 습격을 일부러 간단히 저지되도록 해서, 두 번째 습격이야말로 진짜 공세라고 생각하게 만들었고.</color>+<color=#00CCFF>하지만 두 번째도 그저 버리는 패였던 거다. 진정한 주력부대는 지금 이 세 번째 공격이야. 처음부터 가장 극단적인 파괴 작전을 짰던 거였어...</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:놈들의 목적은 대체 뭐지?+회의 하나를 망치자고 이렇게까지 나오진 않을 거 아닌가!
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>확실히, 우린 놈들이 노리는 것이 무엇인지 파악하고 있어. 하지만 그걸 위해 설마 이 도시를 통째로 희생시키려 할 줄은...</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:그 목적은 나에게 말해줄 수 없는 건가 보지? 그렇다면 안젤리아의 임무와 관련이 있겠군.
+NPC-Jason(0)<Speaker>K</Speaker>||:<color=#00CCFF>여기까지 와서 부정은 하지 않겠어. 사태가 이렇게 됐으니, 안젤리아도 위험에 처했을 거다. 지금 통신이 끊겼어.</color>+<color=#00CCFF>서둘러 방어선을 구축하고 안전구역을 확보해야 해. 안젤리아가 도시 내부에서의 일이 끝난 뒤 철수할 곳이 있도록.</color>
+NPC-Jason(0)<Speaker>지휘관</Speaker>||:최선을 다해 보지. 이제부터는 중장비 부대도 동원해야 한다. 허가를 요청한다.
+NPC-Jason(0)<Speaker>K</Speaker>||<黑屏1>:<color=#00CCFF>요청을 승인한다. 이제 모든 건 자네 손에 달렸어, 지휘관.</color>

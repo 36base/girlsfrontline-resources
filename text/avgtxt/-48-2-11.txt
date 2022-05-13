@@ -1,107 +1,107 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>276</BIN><BGM>m_avg_casual</BGM>:안 그래도 좁은 세이프하우스가 사람으로 가득 찼다.+미아는 그나마 있는 물건으로 커피를 준비했고, 넬레와 레니는 2인용 벤치에 앉았다. 그리고 창문을 걸어 잠근 모나는 몸을 움츠려 그 두 사람 사이에 낑겨 앉았다. J는 혼자 탁상에 반쯤 몸을 기대어 섰다.
-NPC-Keven(0)<Speaker>J</Speaker>||:아파트 주변은 여전히 개미 떼가 우글거리니까, 대충 한 이틀 간은 여기서 지내세요.
-NPC-Nele(2)<Speaker>넬레</Speaker>||:...생각보다 배려심이 있네요.
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(2)||:안전국의 세이프하우스라 제가 월세 내는 것도 아닌데요 뭘.+아, 그래도 최대 이틀입니다. 사용 허가 신청 안 했어요.
-NPC-Keven(0);NPC-Nele(3)<Speaker>넬레</Speaker>||:방금 한 말 취소요.
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(3)||:아무튼 이제 말씀이나 해 주실까요? 무슨 정보를 갖고 있단 겁니까?
-NPC-Keven(0);NPC-Nele(0)<Speaker>넬레</Speaker>||:J 요원님. 저, 잘 생각해봤는데요...+요원님은 지금 제 입으로 뭔가를 듣고 싶은 게 아니라, 저한테 시키고 싶은 일이 있는 거죠?+슈타지의 상급 요원이 무슨 시간이 있다고 절 집까지 호위해 주고, 취조 전에 들어와서 수다를 떨어요?+갈라테아에 관해서 뭘 알고 싶은 거예요?
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(0)||:오호라... 이거 제가 당신을 과소평가했나 봅니다.
-NPC-Keven(0);NPC-Nele(0)<Speaker>넬레</Speaker>||:말하세요, 당신이 원하는 정보를 찾아볼 테니.
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(0)||:풉... 그렇게 적극적으로 협력 의사를 내비치다니 오히려 의심스러운데요?
-NPC-Keven(0);NPC-Nele(0)<Speaker>넬레</Speaker>||:믿어 주세요. 저도 따로 알아보고 싶은 일이 생겼어요.
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(0)||:"이둔"에 관해섭니까, 아니면 "그레이 선생님"에 관해섭니까?
-NPC-Keven(0);NPC-Nele(3)<Speaker>넬레</Speaker>||:둘 다요. 그러니까, 제가 내부고발자가 될게요.+그럼 제가 뭘 찾아내면 당신이 확인해 줄 수 있죠?
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(3)||:내부고발자란 게 그리 쉬운 게 아닙니다, 넬레 씨.
-NPC-Keven(5);NPC-Nele(3)<Speaker>넬레</Speaker>||:제 의지를 얕보지 말아 줄래요?+실험실에서 일하던 마음가짐으로 당신이 요구하는 일도 해치우겠어요.
-NPC-Keven(0)<Speaker>J</Speaker>||:그건 당신의 포트폴리오를 보고 판단할 일이죠.
-()<Speaker></Speaker>||:J가 품에서 사진을 한 장 꺼내 미아에게 넘겼다.
-SP9(0)<Speaker>모나</Speaker>||:앗, 기밀 사항을 민간인에게 함부로 유출하면...
-NPC-Keven(5)<Speaker>J</Speaker>||:다른 수 있으면 얼마든지 따릅죠, 모나 대장님.
-SP9(0)<Speaker>모나</Speaker>||:으...
-()<Speaker></Speaker>||:J가 다시 고개를 넬레에게 돌려, 그 사진을 가리켰다.
-NPC-Keven(0)<Speaker>J</Speaker>||:잘 기억하세요. 갈라테아의 데이터베이스에서, 이 차량의 운송 정보를 조회해 주세요. 할 수 있겠어요?
-NPC-Nele(3)<Speaker>넬레</Speaker>||:네.
-NPC-Keven(0)<Speaker>J</Speaker>||:좋습니다. 그럼 오늘은 이만할까요? 이쪽의 제 인형 대장님이 더는 못 있겠다는 표정이라서.
-SP9(0)<Speaker>모나</Speaker>||:...아닙니다.
-NPC-Keven(0)<Speaker>J</Speaker>||:별일 없으면 곧 다시 연락하겠습니다. 지금은 시간이 그 무엇보다 중요한 상황이라서 말이죠.
-NPC-Nele(0)<Speaker>넬레</Speaker>||:알았어요.
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:J와 모나가 떠나자 비로소 방은 조용해졌고, 넬레도 그제서야 한꺼번에 피로가 밀려든 기색이 역력했다.
-APC556(2)<Speaker>미아</Speaker>||:넬레? 미안하지만... 방금 그 요원이 시킨 일, 하나가 아니야.
-NPC-Nele(2)<Speaker>넬레</Speaker>||<BGM>BGM_Empty</BGM>:뭐?
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:미아가 사진의 뒷면을 보여 주니, 거기엔 휘갈겨 적은 글씨가 있었다.+"거래 2 - 920, 노이템펠호프구, 별장, 누구?"
-()<Speaker></Speaker>||:......
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>168</BIN><BGM>GF_21winter_avg_nightbar</BGM>:밤만 되면 시끌벅적한 홍등가지만, 오늘 이 시간은 유별나게 적적했다.+그 거리를, 한 여인이 거닐고 있었다.
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:한손에는 담배를 든 그녀는, 109번째 연락 시도가 실패하자 짜증 섞인 눈빛으로 한탄했다.
-NPC-Bramedb(2)<Speaker>？？？</Speaker>||:하아... 다들 소리소문 없이 죽기라도 했나? 죽을 거면 좀 확실하게 알리고 죽던가. 중간에 작업에 투입되면 엄청 힘들단 말이야.+이렇게까지 상사를 신경써 주는 부하가 어디 흔해?
-NPC-Bramedb(2)<Speaker>？？？</Speaker>||:어휴 참, 가끔씩은 본부에 사람이 모조리 사라진 건 아닌가 싶다니까. 뭘 해도 구멍투성이야.
-()<Speaker></Speaker>||:여인이 투덜대던 그때, 뒤에서 웬 건들거리는 남자가 나타났다.
-NPC-handyman(0)<Speaker>건들건들한 남자</Speaker>||:휘유~ 아가씨, 여기서 누구 기다려요~?+어이쿠, 담배 피우시네?
-()<Speaker></Speaker>||:여인은 웃으며 통신기를 내리고, 불을 붙이지 않은 담배를 까딱거렸다.+그걸 본 남자는 냉큼 라이터를 꺼내 그 담배에 불을 붙였다.
-NPC-handyman(0)<Speaker>건들건들한 남자</Speaker>||:이곳 미인은 다 밤에만 보이는 줄 알았는데 말임다~+아가씨는... 척 봐도 분위기가 남다르네요.
-NPC-Bramedb(1)<Speaker>？？？</Speaker>||:후훗... 보는 눈이 있네요.
-()<Speaker></Speaker>||:여인이 우아한 자태를 뽐내며 그 매력적인 입술로 담배 연기를 남자의 얼굴에 뿜으니, 그에겐 그야말로 매혹적인 도발이었다.
-NPC-handyman(0)<Speaker>건들건들한 남자</Speaker>||:낮엔 장사하는 술집 없던데, 기왕 이렇게 만난 거 제 집에서 한잔... 어때요? 좋은 거 많――
-()<Speaker></Speaker>||:걸걸한 남성의 목소리가 끼어들었다.
-()<Speaker>？？？</Speaker>||:그 여자는 나와 선약이 있다.
-NPC-handyman(0)<Speaker>건들건들한 남자</Speaker>||:엥... 아저씨가 뉘신진 몰라도――+엌!!
-()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:체격차에도 여전히 건들대던 남자가, 팔이 뒤로 꺾이면서 벽에 밀쳐졌다.
-NPC-Hopps(1)<Speaker>？？？</Speaker>||:꺼져.
-()<Speaker></Speaker>||:그 무력행사에 건들대던 남자는 곧장 꽁무니 빠져라 도망쳤고, 여인은 담배를 바닥에 버리고 가볍게 즈려밟았다.
-NPC-Hopps(0)<Speaker>？？？</Speaker>||:기다리게 했군. 이동 경로는 이미 정리했다.
-NPC-Bramedb(2)<Speaker>？？？</Speaker>||:미인을 기다리게 하다니, 그에 대한 보상을 하는 게 인지상정 아닐까?
-NPC-Hopps(0)<Speaker>？？？</Speaker>||:물건은 가져왔나?
-NPC-Bramedb(0)<Speaker>？？？</Speaker>||:물론~
-()<Speaker></Speaker>||:그녀는 발치의 짐가방을 가리켰다.
-NPC-Bramedb(2)<Speaker>？？？</Speaker>||:자기가 원하는 정보야.+하아... 그런데, 독일 남자는 다 자기처럼 머리에 정치밖에 안 들었어?
-NPC-Hopps(0)<Speaker>？？？</Speaker>||:난 거래를 위해 온 거다만.
-NPC-Bramedb(0)<Speaker>？？？</Speaker>||:한 마디도 안 지려고 대꾸하는 거 진짜 재밌다~
-NPC-Hopps(0)<Speaker>？？？</Speaker>||:...장난이라면 그만해라.
-()<Speaker></Speaker>||:여인이 남자의 허리에 팔을 감으니, 마치 조용하지만 뜨거운 사랑을 나누는 연인처럼 보였다.
-NPC-Bramedb(0)<Speaker>？？？</Speaker>||:나, 오늘 잘 곳이 없는데... 어떡할까?
-NPC-Hopps(0)<Speaker>？？？</Speaker>||:괜찮으면 내 집에서 묵어라.
-NPC-Bramedb(1)<Speaker>？？？</Speaker>||:내가 안 괜찮다면?
-NPC-Hopps(0)<Speaker>？？？</Speaker>||:......
-()<Speaker></Speaker>||:남자는 대꾸하지 않고, 여인의 손에서 짐가방을 넘겨받았다.
-()<Speaker></Speaker>||:......
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>417</BIN><BGM>GF_21summer_avg_SecretAgent</BGM><SE1>AVG_20Winter_Drink_Tea</SE1>:커피 머신이 요란한 소리를 내더니, 아주 진한 향의 시꺼먼 액체를 하얀 머그컵에 따랐다. 다들 앉아서 키보드나 두들기는 것보단 직접 발로 뛰는 일이 많기에, 안전국의 사무실은 항상 사람이 별로 없었다.
-NPC-Keven(0)<Speaker>J</Speaker>||:하하핫! 아주 월척이야 월척! 교통부 사람들 구슬리느라 아주 진땀을 뺀 보람이 있었어!
-NPC-Keven(0);NPC-Jason(3)<Speaker>K</Speaker>||:잘했다! 드디어 우리가 아는 케빈이 돌아왔군!
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(3)||:나 참, 고작 운송 경로 기록 몇 개 얻자고 무슨 사막에서 바늘 찾는 꼴이었으니 원...
-NPC-Keven(0);NPC-Jason(3)<Speaker>K</Speaker>||:이거 오늘 저녁은 내가 한턱 내야겠는걸.+아무튼 서둘러 경로의 인근 지형을 조사하자고, 그런 화물 트럭이 흔적도 없이 사라졌을 리 없으니.
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(3)||:그래야지. 아, 그나저나 내가 차량 번호 너한테 공유했냐?
-NPC-Keven(0);NPC-Jason(3)<Speaker>K</Speaker>||:아니. 하는 김에 정리한 자료도 부탁한다.
-NPC-Keven(0)<Speaker>J</Speaker>||:예이 예이.
-()<Speaker></Speaker>||<SE1>AVG_21Winter_Click_Keyboard</SE1>:전원 연결, 스위치 온, 부팅... 세이프. 10초 내외로 켜졌으니, 컴퓨터의 상태가 아주 양호하다는 뜻이었다.+그런데, J의 안색이 급격히 변했다.
-NPC-Keven(4)<Speaker>J</Speaker>||<BGM>BGM_Empty</BGM>:야 케인! 누가 내 컴퓨터 건드렸냐?!
-NPC-Jason(2)<Speaker>K</Speaker>||:글쎄다, 여기 컴퓨터는 모두에게 접근 권한이 있으니... 저번에 인쇄한 자료는?
-()<Speaker></Speaker>||<SE1>AVG_21Winter_Click_Keyboard</SE1>:그 말에 J는 사무실의 휴지통까지 들쑤셨다.
-NPC-Keven(4)<Speaker>J</Speaker>||:없어... 그 사진까지 없어졌어!
-()<Speaker></Speaker>||<SE1>AVG_Walk</SE1>:그 말을 기다렸다는 듯 쿵하고 사무실의 문이 열리더니, 누군가가 뚜벅뚜벅 안으로 들어왔다.
-()<Speaker></Speaker>||<BGM>BGM_Room</BGM>:손에 두꺼운 서류 뭉치를 든 로미 리슈펜탈 국장과, 그녀를 뒤따라온 모나였다. 두 사람 모두, 표정이 매우 심각했다.
-NPC-Romy(0)<Speaker>로미</Speaker>||:너희, 갈라테아의 물류 기록을 조사했다며?
-NPC-Romy(0);NPC-Jason(2)<Speaker>K</Speaker>||:...네, 사건과의 연관성이 발견되어――
-NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Jason(2)||:방향을 잘못 짚었어.
-NPC-Romy(0);NPC-Jason(2)<Speaker>K</Speaker>||:하지만 불확실한 단서만으론 후속 조사를 전개하기 어렵습니다.
-NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Jason(2)||:그건 너희의 수준 문제고.
-NPC-Romy(0);NPC-Jason(2)<Speaker>K</Speaker>||:...죄송합니다.
-NPC-Romy(0)<Speaker>로미</Speaker>||:그리 단순한 일이었다면 너에게 맡기지도 않았어.+그 화물이 어디 있는지 알아내는 게 우선이었다.
-()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:로미가 손에 든 서류 뭉치를 철썩 탁상에 내리쳤다.
-NPC-Romy(2)<Speaker>로미</Speaker>||:내가 몇 번을 말했어!+화물 트럭! 화물하고, 트럭!
-NPC-Jason(2)<Speaker>K</Speaker>||:...네.
-NPC-Romy(0)<Speaker>로미</Speaker>||:기본적인 기밀 유지도 못하면서 뭐가 슈타지의 요원이냐! 여기도 물갈이를 해야 하는 거냐!?
-NPC-Keven(4)<Speaker>J</Speaker>||:지금 뭐——
-()<Speaker></Speaker>||:로미는 J를 쏘아보면서 단호히 명령했다.
-NPC-Romy(0)<Speaker>로미</Speaker>||:이 임무는 취소다!+후속 작업도 중지해!
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM><黑屏2><BIN>356</BIN>:조용히 재정비하던 도중 갑자기 통신 수신음이 울렸지만, 연결을 기다리지 않고 바로 녹음 메시지로 전환됐다.
-NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>아아, 여보세요? 녹음 시작된 건가?</color>+<color=#00CCFF>죄송합니다 지휘관 나리, 이쪽에서 또 부탁할 일이 생겼습니다.</color>
-NPC-Keven(5)<Speaker>J</Speaker>||:<color=#00CCFF>우리 낙하산 국장님이 임무를 내렸는데 말입니다... 상세 사항은 기밀이지만, 대충 돌려 말하자면 실종된 화물 트럭을 찾아내는 일이었거든요?</color>+<color=#00CCFF>그런데 조사하고 보니 그 트럭이 어디 거였는 줄 알아요? 갈라테아 그룹 거였습니다. 그런데 이제야 좀 일이 재밌어진다 싶더니만, 낙하산님이 뜬금없이 성질 부리면서 일을 덮어버렸지 뭡니까.</color>
-NPC-Keven(5)<Speaker>J</Speaker>||:<color=#00CCFF>그냥 들어봐도 이상하죠? 제가 봐도 이상해요... 제 후배 녀석이 목숨을 잃은 그때랑 상황이 판박이란 말입니다.</color>+<color=#00CCFF>그 사건의 담당자도 아주 그냥 시치미 뚝 떼고 이것도 기밀이네, 저것도 기밀이네... 이젠 제가 요원인지 청소부인지도 헷갈린다니까요.</color>
-NPC-Keven(0)<Speaker>J</Speaker>||:<color=#00CCFF>아이고, 또 딴 길로 샜네... 아무튼 대충 무슨 말인지 알겠죠? 이번 일도 뒤가 구려요.</color>+<color=#00CCFF>아무래도, 그 트럭에 실린 물건이 의심스럽습니다..</color>
-NPC-Keven(0)<Speaker>J</Speaker>||:<color=#00CCFF>어쩌면... 이번 일에도 먼저 간 제 동료들과 안젤리아 씨가 엮였을지도 모를 노릇이죠.</color>+<color=#00CCFF>지금 상황에서 부탁할 수 있는 사람은 나리뿐입니다. 소식 기다릴게요, 이상.</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:......
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>276</BIN><BGM>m_avg_casual</BGM>:안 그래도 좁은 세이프하우스가 사람으로 가득 찼다.+미아는 그나마 있는 물건으로 커피를 준비했고, 넬레와 레니는 2인용 벤치에 앉았다. 그리고 창문을 걸어 잠근 모나는 몸을 움츠려 그 두 사람 사이에 낑겨 앉았다. J는 혼자 탁상에 반쯤 몸을 기대어 섰다.
+NPC-Keven(0)<Speaker>J</Speaker>||:아파트 주변은 여전히 개미 떼가 우글거리니까, 대충 한 이틀 간은 여기서 지내세요.
+NPC-Nele(2)<Speaker>넬레</Speaker>||:...생각보다 배려심이 있네요.
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(2)||:안전국의 세이프하우스라 제가 월세 내는 것도 아닌데요 뭘.+아, 그래도 최대 이틀입니다. 사용 허가 신청 안 했어요.
+NPC-Keven(0);NPC-Nele(3)<Speaker>넬레</Speaker>||:방금 한 말 취소요.
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(3)||:아무튼 이제 말씀이나 해 주실까요? 무슨 정보를 갖고 있단 겁니까?
+NPC-Keven(0);NPC-Nele(0)<Speaker>넬레</Speaker>||:J 요원님. 저, 잘 생각해봤는데요...+요원님은 지금 제 입으로 뭔가를 듣고 싶은 게 아니라, 저한테 시키고 싶은 일이 있는 거죠?+슈타지의 상급 요원이 무슨 시간이 있다고 절 집까지 호위해 주고, 취조 전에 들어와서 수다를 떨어요?+갈라테아에 관해서 뭘 알고 싶은 거예요?
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(0)||:오호라... 이거 제가 당신을 과소평가했나 봅니다.
+NPC-Keven(0);NPC-Nele(0)<Speaker>넬레</Speaker>||:말하세요, 당신이 원하는 정보를 찾아볼 테니.
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(0)||:풉... 그렇게 적극적으로 협력 의사를 내비치다니 오히려 의심스러운데요?
+NPC-Keven(0);NPC-Nele(0)<Speaker>넬레</Speaker>||:믿어 주세요. 저도 따로 알아보고 싶은 일이 생겼어요.
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(0)||:"이둔"에 관해섭니까, 아니면 "그레이 선생님"에 관해섭니까?
+NPC-Keven(0);NPC-Nele(3)<Speaker>넬레</Speaker>||:둘 다요. 그러니까, 제가 내부고발자가 될게요.+그럼 제가 뭘 찾아내면 당신이 확인해 줄 수 있죠?
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(3)||:내부고발자란 게 그리 쉬운 게 아닙니다, 넬레 씨.
+NPC-Keven(5);NPC-Nele(3)<Speaker>넬레</Speaker>||:제 의지를 얕보지 말아 줄래요?+실험실에서 일하던 마음가짐으로 당신이 요구하는 일도 해치우겠어요.
+NPC-Keven(0)<Speaker>J</Speaker>||:그건 당신의 포트폴리오를 보고 판단할 일이죠.
+()<Speaker></Speaker>||:J가 품에서 사진을 한 장 꺼내 미아에게 넘겼다.
+SP9(0)<Speaker>모나</Speaker>||:앗, 기밀 사항을 민간인에게 함부로 유출하면...
+NPC-Keven(5)<Speaker>J</Speaker>||:다른 수 있으면 얼마든지 따릅죠, 모나 대장님.
+SP9(0)<Speaker>모나</Speaker>||:으...
+()<Speaker></Speaker>||:J가 다시 고개를 넬레에게 돌려, 그 사진을 가리켰다.
+NPC-Keven(0)<Speaker>J</Speaker>||:잘 기억하세요. 갈라테아의 데이터베이스에서, 이 차량의 운송 정보를 조회해 주세요. 할 수 있겠어요?
+NPC-Nele(3)<Speaker>넬레</Speaker>||:네.
+NPC-Keven(0)<Speaker>J</Speaker>||:좋습니다. 그럼 오늘은 이만할까요? 이쪽의 제 인형 대장님이 더는 못 있겠다는 표정이라서.
+SP9(0)<Speaker>모나</Speaker>||:...아닙니다.
+NPC-Keven(0)<Speaker>J</Speaker>||:별일 없으면 곧 다시 연락하겠습니다. 지금은 시간이 그 무엇보다 중요한 상황이라서 말이죠.
+NPC-Nele(0)<Speaker>넬레</Speaker>||:알았어요.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:J와 모나가 떠나자 비로소 방은 조용해졌고, 넬레도 그제서야 한꺼번에 피로가 밀려든 기색이 역력했다.
+APC556(2)<Speaker>미아</Speaker>||:넬레? 미안하지만... 방금 그 요원이 시킨 일, 하나가 아니야.
+NPC-Nele(2)<Speaker>넬레</Speaker>||<BGM>BGM_Empty</BGM>:뭐?
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:미아가 사진의 뒷면을 보여 주니, 거기엔 휘갈겨 적은 글씨가 있었다.+"거래 2 - 920, 노이템펠호프구, 별장, 누구?"
+()<Speaker></Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>168</BIN><BGM>GF_21winter_avg_nightbar</BGM>:밤만 되면 시끌벅적한 홍등가지만, 오늘 이 시간은 유별나게 적적했다.+그 거리를, 한 여인이 거닐고 있었다.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:한손에는 담배를 든 그녀는, 109번째 연락 시도가 실패하자 짜증 섞인 눈빛으로 한탄했다.
+NPC-Bramedb(2)<Speaker>？？？</Speaker>||:하아... 다들 소리소문 없이 죽기라도 했나? 죽을 거면 좀 확실하게 알리고 죽던가. 중간에 작업에 투입되면 엄청 힘들단 말이야.+이렇게까지 상사를 신경써 주는 부하가 어디 흔해?
+NPC-Bramedb(2)<Speaker>？？？</Speaker>||:어휴 참, 가끔씩은 본부에 사람이 모조리 사라진 건 아닌가 싶다니까. 뭘 해도 구멍투성이야.
+()<Speaker></Speaker>||:여인이 투덜대던 그때, 뒤에서 웬 건들거리는 남자가 나타났다.
+NPC-handyman(0)<Speaker>건들건들한 남자</Speaker>||:휘유~ 아가씨, 여기서 누구 기다려요~?+어이쿠, 담배 피우시네?
+()<Speaker></Speaker>||:여인은 웃으며 통신기를 내리고, 불을 붙이지 않은 담배를 까딱거렸다.+그걸 본 남자는 냉큼 라이터를 꺼내 그 담배에 불을 붙였다.
+NPC-handyman(0)<Speaker>건들건들한 남자</Speaker>||:이곳 미인은 다 밤에만 보이는 줄 알았는데 말임다~+아가씨는... 척 봐도 분위기가 남다르네요.
+NPC-Bramedb(1)<Speaker>？？？</Speaker>||:후훗... 보는 눈이 있네요.
+()<Speaker></Speaker>||:여인이 우아한 자태를 뽐내며 그 매력적인 입술로 담배 연기를 남자의 얼굴에 뿜으니, 그에겐 그야말로 매혹적인 도발이었다.
+NPC-handyman(0)<Speaker>건들건들한 남자</Speaker>||:낮엔 장사하는 술집 없던데, 기왕 이렇게 만난 거 제 집에서 한잔... 어때요? 좋은 거 많――
+()<Speaker></Speaker>||:걸걸한 남성의 목소리가 끼어들었다.
+()<Speaker>？？？</Speaker>||:그 여자는 나와 선약이 있다.
+NPC-handyman(0)<Speaker>건들건들한 남자</Speaker>||:엥... 아저씨가 뉘신진 몰라도――+엌!!
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:체격차에도 여전히 건들대던 남자가, 팔이 뒤로 꺾이면서 벽에 밀쳐졌다.
+NPC-Hopps(1)<Speaker>？？？</Speaker>||:꺼져.
+()<Speaker></Speaker>||:그 무력행사에 건들대던 남자는 곧장 꽁무니 빠져라 도망쳤고, 여인은 담배를 바닥에 버리고 가볍게 즈려밟았다.
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:기다리게 했군. 이동 경로는 이미 정리했다.
+NPC-Bramedb(2)<Speaker>？？？</Speaker>||:미인을 기다리게 하다니, 그에 대한 보상을 하는 게 인지상정 아닐까?
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:물건은 가져왔나?
+NPC-Bramedb(0)<Speaker>？？？</Speaker>||:물론~
+()<Speaker></Speaker>||:그녀는 발치의 짐가방을 가리켰다.
+NPC-Bramedb(2)<Speaker>？？？</Speaker>||:자기가 원하는 정보야.+하아... 그런데, 독일 남자는 다 자기처럼 머리에 정치밖에 안 들었어?
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:난 거래를 위해 온 거다만.
+NPC-Bramedb(0)<Speaker>？？？</Speaker>||:한 마디도 안 지려고 대꾸하는 거 진짜 재밌다~
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:...장난이라면 그만해라.
+()<Speaker></Speaker>||:여인이 남자의 허리에 팔을 감으니, 마치 조용하지만 뜨거운 사랑을 나누는 연인처럼 보였다.
+NPC-Bramedb(0)<Speaker>？？？</Speaker>||:나, 오늘 잘 곳이 없는데... 어떡할까?
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:괜찮으면 내 집에서 묵어라.
+NPC-Bramedb(1)<Speaker>？？？</Speaker>||:내가 안 괜찮다면?
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:......
+()<Speaker></Speaker>||:남자는 대꾸하지 않고, 여인의 손에서 짐가방을 넘겨받았다.
+()<Speaker></Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>417</BIN><BGM>GF_21summer_avg_SecretAgent</BGM><SE1>AVG_20Winter_Drink_Tea</SE1>:커피 머신이 요란한 소리를 내더니, 아주 진한 향의 시꺼먼 액체를 하얀 머그컵에 따랐다. 다들 앉아서 키보드나 두들기는 것보단 직접 발로 뛰는 일이 많기에, 안전국의 사무실은 항상 사람이 별로 없었다.
+NPC-Keven(0)<Speaker>J</Speaker>||:하하핫! 아주 월척이야 월척! 교통부 사람들 구슬리느라 아주 진땀을 뺀 보람이 있었어!
+NPC-Keven(0);NPC-Jason(3)<Speaker>K</Speaker>||:잘했다! 드디어 우리가 아는 케빈이 돌아왔군!
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(3)||:나 참, 고작 운송 경로 기록 몇 개 얻자고 무슨 사막에서 바늘 찾는 꼴이었으니 원...
+NPC-Keven(0);NPC-Jason(3)<Speaker>K</Speaker>||:이거 오늘 저녁은 내가 한턱 내야겠는걸.+아무튼 서둘러 경로의 인근 지형을 조사하자고, 그런 화물 트럭이 흔적도 없이 사라졌을 리 없으니.
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(3)||:그래야지. 아, 그나저나 내가 차량 번호 너한테 공유했냐?
+NPC-Keven(0);NPC-Jason(3)<Speaker>K</Speaker>||:아니. 하는 김에 정리한 자료도 부탁한다.
+NPC-Keven(0)<Speaker>J</Speaker>||:예이 예이.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Click_Keyboard</SE1>:전원 연결, 스위치 온, 부팅... 세이프. 10초 내외로 켜졌으니, 컴퓨터의 상태가 아주 양호하다는 뜻이었다.+그런데, J의 안색이 급격히 변했다.
+NPC-Keven(4)<Speaker>J</Speaker>||<BGM>BGM_Empty</BGM>:야 케인! 누가 내 컴퓨터 건드렸냐?!
+NPC-Jason(2)<Speaker>K</Speaker>||:글쎄다, 여기 컴퓨터는 모두에게 접근 권한이 있으니... 저번에 인쇄한 자료는?
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Click_Keyboard</SE1>:그 말에 J는 사무실의 휴지통까지 들쑤셨다.
+NPC-Keven(4)<Speaker>J</Speaker>||:없어... 그 사진까지 없어졌어!
+()<Speaker></Speaker>||<SE1>AVG_Walk</SE1>:그 말을 기다렸다는 듯 쿵하고 사무실의 문이 열리더니, 누군가가 뚜벅뚜벅 안으로 들어왔다.
+()<Speaker></Speaker>||<BGM>BGM_Room</BGM>:손에 두꺼운 서류 뭉치를 든 로미 리슈펜탈 국장과, 그녀를 뒤따라온 모나였다. 두 사람 모두, 표정이 매우 심각했다.
+NPC-Romy(0)<Speaker>로미</Speaker>||:너희, 갈라테아의 물류 기록을 조사했다며?
+NPC-Romy(0);NPC-Jason(2)<Speaker>K</Speaker>||:...네, 사건과의 연관성이 발견되어――
+NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Jason(2)||:방향을 잘못 짚었어.
+NPC-Romy(0);NPC-Jason(2)<Speaker>K</Speaker>||:하지만 불확실한 단서만으론 후속 조사를 전개하기 어렵습니다.
+NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Jason(2)||:그건 너희의 수준 문제고.
+NPC-Romy(0);NPC-Jason(2)<Speaker>K</Speaker>||:...죄송합니다.
+NPC-Romy(0)<Speaker>로미</Speaker>||:그리 단순한 일이었다면 너에게 맡기지도 않았어.+그 화물이 어디 있는지 알아내는 게 우선이었다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:로미가 손에 든 서류 뭉치를 철썩 탁상에 내리쳤다.
+NPC-Romy(2)<Speaker>로미</Speaker>||:내가 몇 번을 말했어!+화물 트럭! 화물하고, 트럭!
+NPC-Jason(2)<Speaker>K</Speaker>||:...네.
+NPC-Romy(0)<Speaker>로미</Speaker>||:기본적인 기밀 유지도 못하면서 뭐가 슈타지의 요원이냐! 여기도 물갈이를 해야 하는 거냐!?
+NPC-Keven(4)<Speaker>J</Speaker>||:지금 뭐——
+()<Speaker></Speaker>||:로미는 J를 쏘아보면서 단호히 명령했다.
+NPC-Romy(0)<Speaker>로미</Speaker>||:이 임무는 취소다!+후속 작업도 중지해!
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM><黑屏2><BIN>356</BIN>:조용히 재정비하던 도중 갑자기 통신 수신음이 울렸지만, 연결을 기다리지 않고 바로 녹음 메시지로 전환됐다.
+NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>아아, 여보세요? 녹음 시작된 건가?</color>+<color=#00CCFF>죄송합니다 지휘관 나리, 이쪽에서 또 부탁할 일이 생겼습니다.</color>
+NPC-Keven(5)<Speaker>J</Speaker>||:<color=#00CCFF>우리 낙하산 국장님이 임무를 내렸는데 말입니다... 상세 사항은 기밀이지만, 대충 돌려 말하자면 실종된 화물 트럭을 찾아내는 일이었거든요?</color>+<color=#00CCFF>그런데 조사하고 보니 그 트럭이 어디 거였는 줄 알아요? 갈라테아 그룹 거였습니다. 그런데 이제야 좀 일이 재밌어진다 싶더니만, 낙하산님이 뜬금없이 성질 부리면서 일을 덮어버렸지 뭡니까.</color>
+NPC-Keven(5)<Speaker>J</Speaker>||:<color=#00CCFF>그냥 들어봐도 이상하죠? 제가 봐도 이상해요... 제 후배 녀석이 목숨을 잃은 그때랑 상황이 판박이란 말입니다.</color>+<color=#00CCFF>그 사건의 담당자도 아주 그냥 시치미 뚝 떼고 이것도 기밀이네, 저것도 기밀이네... 이젠 제가 요원인지 청소부인지도 헷갈린다니까요.</color>
+NPC-Keven(0)<Speaker>J</Speaker>||:<color=#00CCFF>아이고, 또 딴 길로 샜네... 아무튼 대충 무슨 말인지 알겠죠? 이번 일도 뒤가 구려요.</color>+<color=#00CCFF>아무래도, 그 트럭에 실린 물건이 의심스럽습니다..</color>
+NPC-Keven(0)<Speaker>J</Speaker>||:<color=#00CCFF>어쩌면... 이번 일에도 먼저 간 제 동료들과 안젤리아 씨가 엮였을지도 모를 노릇이죠.</color>+<color=#00CCFF>지금 상황에서 부탁할 수 있는 사람은 나리뿐입니다. 소식 기다릴게요, 이상.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:......
+()||<黑屏1>:

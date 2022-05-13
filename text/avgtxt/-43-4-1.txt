@@ -1,71 +1,71 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<黑屏2><BGM>BGM_Truth</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>요원님? 요원님?</color>+<color=#00CCFF>현재 귀측의 위치가 파악되지 않습니다. 들리십니까?</color>+<color=#00CCFF>응답바랍니다. 요원님?</color>
-HK416Mod(0)<Speaker>HK416</Speaker>||<SE1>AVG_amb_wilderness</SE1><黑屏1><BIN>9</BIN>:시끄러워.
-()||<BIN>299</BIN>:렉싱턴 가.+가로등의 빛을 받으며, HK416이 다시 모습을 드러냈다.<下雪></下雪>
-HK416Mod(0)<Speaker>HK416</Speaker>||:방금 겨우 죽다 살아남았는데 너 때문에 고막 터져 죽고 싶진 않아.
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;HK416Mod(0)||:<color=#00CCFF>무사해서 다행입니다, 요원님.</color>
-NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:입에 발린 말 그만해, 내가 쫓기느라 정신없을 땐 한 마디도 안 하더니만.+네가 조금이라도 쓸모가 있으면 와서 좀 도와주지 그래?
-NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||:<color=#00CCFF>제 현재 위치에선 귀측에게 지원을 제공할 수가 없습니다...</color>
-NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:됐어, NPC한텐 처음부터 기대도 안 했어.
-NPC-Dima(1);HK416Mod(0)<Speaker></Speaker>||:안개가 서서히 걷혔다.<火焰销毁></火焰销毁>
-NPC-Dima(1);HK416Mod(0)<Speaker></Speaker>||:눈보라도 그쳐, 하늘에 흩날리던 눈발도 잦아들었다.+하지만 차가운 공기가 아직 덜 걷힌 안개를 길바닥에 깔았고, 어두운 거리를 드문드문 비추는 등불이 이미 죽음으로 뒤덮인 도시의 분위기를 더욱 오싹하게 만들었다.
-NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||:<color=#00CCFF>저희는 이전에 요원들을 호출해 1차적으로 지금은 다크존이 된 구역에 파견했습니다만, 결과는 저희가 원한 것이 아니었습니다. 방금 요원님이 만난 변절자들도 그중 하나죠.</color>+<color=#00CCFF>하지만 요원님의 실력은 지금까지의 그 어떤 요원보다 뛰어납니다. 당신이라면 이번 작전의 성공도 꿈은 아닐 겁니다.</color>
-NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:성공이라...
-NPC-Dima(1);HK416Mod(0)<Speaker></Speaker>||:HK416은 도로 위를 걸으며 대꾸했다.
-NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:난 이 게임을 클리어하는 데엔 전혀 관심 없어.+애당초, 싫은데 끌려온 거니까.+상금에 눈이 돌아간 것도 45뿐이고.
-NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||:<color=#00CCFF>하, 하지만...</color>
-NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:그래도 그만둘 생각은 없어.
-NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||:<color=#00CCFF>네?</color>
-NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:NPC에 불과한 넌 이해 못하겠지.+누구라도 이런 꼴을 당하면 오기가 생긴다고.+그리고 내가 승부욕이 그리 강하진 않지만, 무의미한 패배는 절대 사절이야.
-NPC-Dima(1);HK416Mod(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:그리고 HK416이 말을 마치자마자, 꽤나 오랜만에 통신이 들어왔다.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>;HK416Mod(0)||<BGM>BGM_Room</BGM>:<color=#00CCFF>안녕~ 아직 살아있었구나?</color>+<color=#00CCFF>그리폰이 꽤나 사나운 녀석을 보냈다 싶었는데, 결국 널 어쩌진 못했네.</color>
-UMP45Mod(0);HK416Mod(0)<Speaker>HK416</Speaker>||:왠지 실망한 목소리다?+그렇게 내가 죽길 바랐어?
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:<color=#00CCFF>뭐 어때, 게임 속인데.</color>+<color=#00CCFF>어쩌면 평생 오지 않을지도 모를 기회잖아, 안 그래? 너도 그렇게 생각하지?</color>
-UMP45Mod(0);HK416Mod(0)<Speaker>HK416</Speaker>||:진짜 드물게 우리 의견이 일치했네.+게임 속이니, 기왕 이렇게 된 거 모처럼의 기회를 소중히 해야지.+현실에선 하면 안 될 짓을 해보자고.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:<color=#00CCFF>그렇게 말해 주다니 기뻐, 살의도 좀 억눌러 줬으면 더 고맙겠지만.</color>+<color=#00CCFF>내가 네 엘리트 인형으로서의 실력을 믿으니까 이 막중한 임무를 네게 맡긴 거야.</color>+<color=#00CCFF>다른 녀석이었으면 엄청 망설였을걸?</color>
-UMP45Mod(0);HK416Mod(0)<Speaker>HK416</Speaker>||:그렇게 신뢰받고 있었다니 정말 눈물나게 고맙다 야.
-UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:<color=#00CCFF>천만의 말씀, 게임 끝나고 한잔 쏴 주면 돼.</color>+<color=#00CCFF>아 참~ 네가 적을 모조리 끌고가 준 덕분에, 그 NPC가 회수하라던 약품 찾았어, 그것도 여섯 상자씩이나.</color>+<color=#00CCFF>네 몫까지 가지고 헬기에 탈 테니 힘내~</color>
-HK416Mod(0)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
-HK416Mod(0)<Speaker>HK416</Speaker>||<黑屏1>:마지막에 웃는 게 누군지 두고보자고...+나를 이렇게 열받게 만든 게 이걸로...
-()||<黑屏2><BIN>288</BIN><BGM>BGM_Empty</BGM>:......
-HK416Mod(0)<Speaker>HK416</Speaker>||<BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM><SE1>AVG_footsteps_cave</SE1>:...세지 말자.+그건 그렇고, 또 뭔가 좀 이상하네.+분명 안개도 걷혔는데 오히려 방향 감각이 무뎌진 기분이야.+어느 길이 맞는지 모르겠어.
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;HK416Mod(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여기까지 온 사람이 거의 없기 때문이죠.</color>
-NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:너 아직도 나한테 연락이 돼?
-NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||:<color=#00CCFF>전략국토부 전용 채널이 있으니까요.</color>
-NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:진짜로?
-NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||:<color=#00CCFF>아무튼, 이제부턴 다크존에 존재하는 오염지대를 조심하세요. 그곳에서 오래 체류할수록 감염의 진행 속도가 빨라집니다.</color>
-NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:저 길가에 초록색 빛이 나는 데를 말하는 거라면 딱 봐도 안 좋아 보이니 안 가.
-NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||:<color=#00CCFF>블랙 프라이데이 직후, 도움이 필요한 수많은 이들은 이 구역에 수용되었습니다. 그리고 정부는 높은 장벽을 세워 맨해튼의 마지막 방어선으로 삼았죠.</color>+<color=#00CCFF>하지만 급속도로 악화되는 사태에, 모두 얼마 버티지 못했습니다.</color>+<color=#00CCFF>맨해튼의 전력 공급마저 끊어지자 JTF는 모든 것을 포기하고 이곳에서 철수했고, 그들이 두고 간 첨단 장비 외엔 오직 죽음만이 남게 되었습니다.</color>+<color=#00CCFF>아무도 더는 발을 디디려 하지 않았고, 아무도 살아서 나오지 못했죠.</color>
-NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:"다크존"...+빛이 있어야 그림자도 있는 법이지.+하지만 이 세계에선 "빛"이 전혀 보이지 않아.+그저 지옥에서 더 끔찍한 지옥으로 내려온 기분이야.
-NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||:<color=#00CCFF>아뇨, 이곳엔 아직 한줄기 희망이 남았——</color>
-NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:바깥의 사람들에게 절실히 필요한 약품?+"가장 어두운 때는 동이 트기 직전의 새벽"이란 같잖은 말이라도 하려고?+그런 낡아 빠진 이야기는 벌써 40년 전에 유행 끝났어.
-NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||:<color=#00CCFF>저에겐 중요한 목적입니다.</color>+<color=#00CCFF>그 약품은 단순히 사람을 치료할 수 있는 것이 아니에요.</color>+<color=#00CCFF>더 많은 사람들에게 희망을 가져다 줄 수 있죠.</color>+<color=#00CCFF>사람은 항상 폐허에서 무언가를 건져내려 노력하잖아요? 인간에겐 방향성이 필요하기 때문입니다.</color>+<color=#00CCFF>우리가 정작 자기자신을 살려야 할 때 한없이 나약해지는 이유기도 하죠.</color>
-NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:거창한 말만 잔뜩 늘어놓는데, 너 그게 무슨 뜻인지는 이해하고 있어?+완전히 동문서답이잖아, 무슨 연설문 읽는 것도 아니고.
-NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||<BGM>BGM_Empty</BGM>:<color=#00CCFF>러시아 대사관저 근처가 회수 지점으로 삼기 적당하겠군요. 약품을 회수하신다면 그곳에서 신호탄으로 헬기를 호출하시면 되겠습니다.</color>
-HK416Mod(0)<Speaker>HK416</Speaker>||<BGM>BGM_Danger</BGM>:참 "사람다운" 조언이네... 윽?!
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타앗!+오한이 등골을 따라 느껴졌을 때, HK416은 자신의 방심을 후회했다. 디마와의 대화에 정신이 팔려 뒤에서 누가 달려오는 소리를 듣지 못했던 것이다.+이를 깨달았을 때, 상대는 이미 HK416에게 위험한 거리까지 가까이 접근한 상태였다.+아직 상대가 누군지 확인하지 못한 상황에서, HK416은 시뮬레이션으로 구현된 자신의 소체의 최대 성능을 발휘해 총구를 신속히 돌려, 소리가 난 방향을 향해 방아쇠를 당겼다.+그리고 시야의 끝자락에서, 그늘에 가려졌음에도 낯익은 모습이 빠르게 공격을 피하는 것이 보였다.
-Vector(0)<Speaker>Vector</Speaker>||:은색 생머리에 초록색 눈... 이번엔 절대 놓치지 않아.
-Vector(0);HK416Mod(0)<Speaker>HK416</Speaker>||<黑屏1>:다시 왔다?!+좋아, 이번에야말로 완전히 끝장을 내 주마!
-()||<黑屏2><BIN>298</BIN><BGM>BGM_Empty</BGM>:......+몇 분 전.
-()<Speaker>시스템</Speaker>||<BGM>BGM_Truth</BGM>:통신 두절.+X 헬파이어이(가) 언럭키엔젤을(를) 처치했습니다. X+X 헬파이어이(가) 철학관요정을(를) 처치했습니다. X
-Vector(0)<Speaker>Vector</Speaker>||:……
-Vector(0)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:R93과 K5와의 통신이 갑자기 끊어지더니, 이어서 그들이 전사 통보가 날아들었다.+완전히 혼자가 된 Vector는 주먹을 불끈 움켜쥐었다.+아직도 PP-90이 남긴 말이 그녀의 머릿속에 맴돌았다.
-Vector(0)<Speaker>Vector</Speaker>||<黑屏1>:지휘관의 임무와 관계없어도...+내 동료들을 위해, 절대로 질 수 없어.
-()<Speaker></Speaker>||<黑屏2><BIN>288</BIN>:"반드시 이기고 말겠다."+그 집념은 마치 뜨거운 불꽃처럼 Vector의 마인드맵에서 활활 타올랐다.+하지만 이기는 것만이 아니었다. 이기는 동시에...
-Vector(0)<Speaker>Vector</Speaker>||:은색 머리에, 초록색 눈...+물론 전장에서 옳고 그름은 없다지만...+내 소중한 동료들을 죽인 원수는 반드시 갚겠어.
-Vector(0);NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>서두르세요 요원님, 이제 시간이 얼마 없습니다!</color>
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:알아, 지금 가고 있는 거 안 보여?+...디마, 이제 플레이어 몇 명 남았어?
-Vector(0);NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>어... 이제 3명가량 남았습니다.</color>
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:알려 줘도 되는 거였어?+여태까지 계속 강 건너 불구경 같더니.
-Vector(0);NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>농담이 지나치시군요, 요원님.</color>+<color=#00CCFF> 다크존에 도사리는 적의 위협은 강대합니다. 여러분이 힘을 합쳐 맞서 싸워야 해요.</color>
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:그 제안엔 응할 수 없어.+나머지 두 명 중 하나가... 바로 그 은색 머리에 초록색 눈인 녀석이지?+그 녀석만큼은 절대 용서 못해.
-Vector(0);NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>요원님, 더는 서로 쟁탈전을 벌일 필요가 없습니다, 그러니――</color>
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:...!
-Vector(0)<Speaker></Speaker>;NPC-Dima(1)||:다크존의 중심지로 천천히 이동하던 Vector의 눈에, 그 익숙한 모습이 들어왔다.
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||<BGM>BGM_Empty</BGM>:그 녀석이다.
-NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>자, 잠깐만요 요원님! 요원님!</color>
-()<Speaker>Vector</Speaker>||<快跑><BGM>BGM_Battle</BGM><SE1>RunStep</SE1>:네 목숨을 내놔라!
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>요원님들, 잠깐만요! 지금 싸울 필요가 없다니까요!</color>
-HK416Mod(0)<Speaker>HK416</Speaker>||:그건 저쪽한테 말하지 그래?
-HK416Mod(0)<Speaker>HK416</Speaker>||<SE1>AVG_weapon_reload</SE1><黑点1>:저 녀석이 이번에도 안 죽기를 기도하기나 해.
-()||<黑点2><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<黑屏2><BGM>BGM_Truth</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>요원님? 요원님?</color>+<color=#00CCFF>현재 귀측의 위치가 파악되지 않습니다. 들리십니까?</color>+<color=#00CCFF>응답바랍니다. 요원님?</color>
+HK416Mod(0)<Speaker>HK416</Speaker>||<SE1>AVG_amb_wilderness</SE1><黑屏1><BIN>9</BIN>:시끄러워.
+()||<BIN>299</BIN>:렉싱턴 가.+가로등의 빛을 받으며, HK416이 다시 모습을 드러냈다.<下雪></下雪>
+HK416Mod(0)<Speaker>HK416</Speaker>||:방금 겨우 죽다 살아남았는데 너 때문에 고막 터져 죽고 싶진 않아.
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;HK416Mod(0)||:<color=#00CCFF>무사해서 다행입니다, 요원님.</color>
+NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:입에 발린 말 그만해, 내가 쫓기느라 정신없을 땐 한 마디도 안 하더니만.+네가 조금이라도 쓸모가 있으면 와서 좀 도와주지 그래?
+NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||:<color=#00CCFF>제 현재 위치에선 귀측에게 지원을 제공할 수가 없습니다...</color>
+NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:됐어, NPC한텐 처음부터 기대도 안 했어.
+NPC-Dima(1);HK416Mod(0)<Speaker></Speaker>||:안개가 서서히 걷혔다.<火焰销毁></火焰销毁>
+NPC-Dima(1);HK416Mod(0)<Speaker></Speaker>||:눈보라도 그쳐, 하늘에 흩날리던 눈발도 잦아들었다.+하지만 차가운 공기가 아직 덜 걷힌 안개를 길바닥에 깔았고, 어두운 거리를 드문드문 비추는 등불이 이미 죽음으로 뒤덮인 도시의 분위기를 더욱 오싹하게 만들었다.
+NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||:<color=#00CCFF>저희는 이전에 요원들을 호출해 1차적으로 지금은 다크존이 된 구역에 파견했습니다만, 결과는 저희가 원한 것이 아니었습니다. 방금 요원님이 만난 변절자들도 그중 하나죠.</color>+<color=#00CCFF>하지만 요원님의 실력은 지금까지의 그 어떤 요원보다 뛰어납니다. 당신이라면 이번 작전의 성공도 꿈은 아닐 겁니다.</color>
+NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:성공이라...
+NPC-Dima(1);HK416Mod(0)<Speaker></Speaker>||:HK416은 도로 위를 걸으며 대꾸했다.
+NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:난 이 게임을 클리어하는 데엔 전혀 관심 없어.+애당초, 싫은데 끌려온 거니까.+상금에 눈이 돌아간 것도 45뿐이고.
+NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||:<color=#00CCFF>하, 하지만...</color>
+NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:그래도 그만둘 생각은 없어.
+NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||:<color=#00CCFF>네?</color>
+NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:NPC에 불과한 넌 이해 못하겠지.+누구라도 이런 꼴을 당하면 오기가 생긴다고.+그리고 내가 승부욕이 그리 강하진 않지만, 무의미한 패배는 절대 사절이야.
+NPC-Dima(1);HK416Mod(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:그리고 HK416이 말을 마치자마자, 꽤나 오랜만에 통신이 들어왔다.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>;HK416Mod(0)||<BGM>BGM_Room</BGM>:<color=#00CCFF>안녕~ 아직 살아있었구나?</color>+<color=#00CCFF>그리폰이 꽤나 사나운 녀석을 보냈다 싶었는데, 결국 널 어쩌진 못했네.</color>
+UMP45Mod(0);HK416Mod(0)<Speaker>HK416</Speaker>||:왠지 실망한 목소리다?+그렇게 내가 죽길 바랐어?
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:<color=#00CCFF>뭐 어때, 게임 속인데.</color>+<color=#00CCFF>어쩌면 평생 오지 않을지도 모를 기회잖아, 안 그래? 너도 그렇게 생각하지?</color>
+UMP45Mod(0);HK416Mod(0)<Speaker>HK416</Speaker>||:진짜 드물게 우리 의견이 일치했네.+게임 속이니, 기왕 이렇게 된 거 모처럼의 기회를 소중히 해야지.+현실에선 하면 안 될 짓을 해보자고.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:<color=#00CCFF>그렇게 말해 주다니 기뻐, 살의도 좀 억눌러 줬으면 더 고맙겠지만.</color>+<color=#00CCFF>내가 네 엘리트 인형으로서의 실력을 믿으니까 이 막중한 임무를 네게 맡긴 거야.</color>+<color=#00CCFF>다른 녀석이었으면 엄청 망설였을걸?</color>
+UMP45Mod(0);HK416Mod(0)<Speaker>HK416</Speaker>||:그렇게 신뢰받고 있었다니 정말 눈물나게 고맙다 야.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;HK416Mod(0)||:<color=#00CCFF>천만의 말씀, 게임 끝나고 한잔 쏴 주면 돼.</color>+<color=#00CCFF>아 참~ 네가 적을 모조리 끌고가 준 덕분에, 그 NPC가 회수하라던 약품 찾았어, 그것도 여섯 상자씩이나.</color>+<color=#00CCFF>네 몫까지 가지고 헬기에 탈 테니 힘내~</color>
+HK416Mod(0)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
+HK416Mod(0)<Speaker>HK416</Speaker>||<黑屏1>:마지막에 웃는 게 누군지 두고보자고...+나를 이렇게 열받게 만든 게 이걸로...
+()||<黑屏2><BIN>288</BIN><BGM>BGM_Empty</BGM>:......
+HK416Mod(0)<Speaker>HK416</Speaker>||<BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM><SE1>AVG_footsteps_cave</SE1>:...세지 말자.+그건 그렇고, 또 뭔가 좀 이상하네.+분명 안개도 걷혔는데 오히려 방향 감각이 무뎌진 기분이야.+어느 길이 맞는지 모르겠어.
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;HK416Mod(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여기까지 온 사람이 거의 없기 때문이죠.</color>
+NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:너 아직도 나한테 연락이 돼?
+NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||:<color=#00CCFF>전략국토부 전용 채널이 있으니까요.</color>
+NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:진짜로?
+NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||:<color=#00CCFF>아무튼, 이제부턴 다크존에 존재하는 오염지대를 조심하세요. 그곳에서 오래 체류할수록 감염의 진행 속도가 빨라집니다.</color>
+NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:저 길가에 초록색 빛이 나는 데를 말하는 거라면 딱 봐도 안 좋아 보이니 안 가.
+NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||:<color=#00CCFF>블랙 프라이데이 직후, 도움이 필요한 수많은 이들은 이 구역에 수용되었습니다. 그리고 정부는 높은 장벽을 세워 맨해튼의 마지막 방어선으로 삼았죠.</color>+<color=#00CCFF>하지만 급속도로 악화되는 사태에, 모두 얼마 버티지 못했습니다.</color>+<color=#00CCFF>맨해튼의 전력 공급마저 끊어지자 JTF는 모든 것을 포기하고 이곳에서 철수했고, 그들이 두고 간 첨단 장비 외엔 오직 죽음만이 남게 되었습니다.</color>+<color=#00CCFF>아무도 더는 발을 디디려 하지 않았고, 아무도 살아서 나오지 못했죠.</color>
+NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:"다크존"...+빛이 있어야 그림자도 있는 법이지.+하지만 이 세계에선 "빛"이 전혀 보이지 않아.+그저 지옥에서 더 끔찍한 지옥으로 내려온 기분이야.
+NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||:<color=#00CCFF>아뇨, 이곳엔 아직 한줄기 희망이 남았——</color>
+NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:바깥의 사람들에게 절실히 필요한 약품?+"가장 어두운 때는 동이 트기 직전의 새벽"이란 같잖은 말이라도 하려고?+그런 낡아 빠진 이야기는 벌써 40년 전에 유행 끝났어.
+NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||:<color=#00CCFF>저에겐 중요한 목적입니다.</color>+<color=#00CCFF>그 약품은 단순히 사람을 치료할 수 있는 것이 아니에요.</color>+<color=#00CCFF>더 많은 사람들에게 희망을 가져다 줄 수 있죠.</color>+<color=#00CCFF>사람은 항상 폐허에서 무언가를 건져내려 노력하잖아요? 인간에겐 방향성이 필요하기 때문입니다.</color>+<color=#00CCFF>우리가 정작 자기자신을 살려야 할 때 한없이 나약해지는 이유기도 하죠.</color>
+NPC-Dima(1);HK416Mod(0)<Speaker>HK416</Speaker>||:거창한 말만 잔뜩 늘어놓는데, 너 그게 무슨 뜻인지는 이해하고 있어?+완전히 동문서답이잖아, 무슨 연설문 읽는 것도 아니고.
+NPC-Dima(1)<Speaker>디마</Speaker>;HK416Mod(0)||<BGM>BGM_Empty</BGM>:<color=#00CCFF>러시아 대사관저 근처가 회수 지점으로 삼기 적당하겠군요. 약품을 회수하신다면 그곳에서 신호탄으로 헬기를 호출하시면 되겠습니다.</color>
+HK416Mod(0)<Speaker>HK416</Speaker>||<BGM>BGM_Danger</BGM>:참 "사람다운" 조언이네... 윽?!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타앗!+오한이 등골을 따라 느껴졌을 때, HK416은 자신의 방심을 후회했다. 디마와의 대화에 정신이 팔려 뒤에서 누가 달려오는 소리를 듣지 못했던 것이다.+이를 깨달았을 때, 상대는 이미 HK416에게 위험한 거리까지 가까이 접근한 상태였다.+아직 상대가 누군지 확인하지 못한 상황에서, HK416은 시뮬레이션으로 구현된 자신의 소체의 최대 성능을 발휘해 총구를 신속히 돌려, 소리가 난 방향을 향해 방아쇠를 당겼다.+그리고 시야의 끝자락에서, 그늘에 가려졌음에도 낯익은 모습이 빠르게 공격을 피하는 것이 보였다.
+Vector(0)<Speaker>Vector</Speaker>||:은색 생머리에 초록색 눈... 이번엔 절대 놓치지 않아.
+Vector(0);HK416Mod(0)<Speaker>HK416</Speaker>||<黑屏1>:다시 왔다?!+좋아, 이번에야말로 완전히 끝장을 내 주마!
+()||<黑屏2><BIN>298</BIN><BGM>BGM_Empty</BGM>:......+몇 분 전.
+()<Speaker>시스템</Speaker>||<BGM>BGM_Truth</BGM>:통신 두절.+X 헬파이어이(가) 언럭키엔젤을(를) 처치했습니다. X+X 헬파이어이(가) 철학관요정을(를) 처치했습니다. X
+Vector(0)<Speaker>Vector</Speaker>||:……
+Vector(0)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:R93과 K5와의 통신이 갑자기 끊어지더니, 이어서 그들이 전사 통보가 날아들었다.+완전히 혼자가 된 Vector는 주먹을 불끈 움켜쥐었다.+아직도 PP-90이 남긴 말이 그녀의 머릿속에 맴돌았다.
+Vector(0)<Speaker>Vector</Speaker>||<黑屏1>:지휘관의 임무와 관계없어도...+내 동료들을 위해, 절대로 질 수 없어.
+()<Speaker></Speaker>||<黑屏2><BIN>288</BIN>:"반드시 이기고 말겠다."+그 집념은 마치 뜨거운 불꽃처럼 Vector의 마인드맵에서 활활 타올랐다.+하지만 이기는 것만이 아니었다. 이기는 동시에...
+Vector(0)<Speaker>Vector</Speaker>||:은색 머리에, 초록색 눈...+물론 전장에서 옳고 그름은 없다지만...+내 소중한 동료들을 죽인 원수는 반드시 갚겠어.
+Vector(0);NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>서두르세요 요원님, 이제 시간이 얼마 없습니다!</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:알아, 지금 가고 있는 거 안 보여?+...디마, 이제 플레이어 몇 명 남았어?
+Vector(0);NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>어... 이제 3명가량 남았습니다.</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:알려 줘도 되는 거였어?+여태까지 계속 강 건너 불구경 같더니.
+Vector(0);NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>농담이 지나치시군요, 요원님.</color>+<color=#00CCFF> 다크존에 도사리는 적의 위협은 강대합니다. 여러분이 힘을 합쳐 맞서 싸워야 해요.</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:그 제안엔 응할 수 없어.+나머지 두 명 중 하나가... 바로 그 은색 머리에 초록색 눈인 녀석이지?+그 녀석만큼은 절대 용서 못해.
+Vector(0);NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>요원님, 더는 서로 쟁탈전을 벌일 필요가 없습니다, 그러니――</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:...!
+Vector(0)<Speaker></Speaker>;NPC-Dima(1)||:다크존의 중심지로 천천히 이동하던 Vector의 눈에, 그 익숙한 모습이 들어왔다.
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||<BGM>BGM_Empty</BGM>:그 녀석이다.
+NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>자, 잠깐만요 요원님! 요원님!</color>
+()<Speaker>Vector</Speaker>||<快跑><BGM>BGM_Battle</BGM><SE1>RunStep</SE1>:네 목숨을 내놔라!
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>요원님들, 잠깐만요! 지금 싸울 필요가 없다니까요!</color>
+HK416Mod(0)<Speaker>HK416</Speaker>||:그건 저쪽한테 말하지 그래?
+HK416Mod(0)<Speaker>HK416</Speaker>||<SE1>AVG_weapon_reload</SE1><黑点1>:저 녀석이 이번에도 안 죽기를 기도하기나 해.
+()||<黑点2><BIN>10</BIN>:

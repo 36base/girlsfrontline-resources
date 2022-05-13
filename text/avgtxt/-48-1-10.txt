@@ -1,82 +1,82 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑点2><震屏3><BIN>315</BIN><SE1>AVG_Car_Skid</SE1>:끼이익——!
-NPC-Nele(6)<Speaker>넬레</Speaker><Shake>0.1</Shake>||:으악!?+아 깜짝이야!+갑자기 웬 급브레이크야?!
-APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:미안... 그게, 길이 막혔어.
-NPC-Nele(6)<Speaker>넬레</Speaker>||:길이 막히다니?
-()<Speaker></Speaker>||:넬레가 앞을 내다보니, 좁은 길을 난민 몇 명이 가로막고 있었다.+차도 한가운데의 바닥에 한 남자가 신음을 내며 쓰러져 있었고, 일행인 듯한 난민들이 그를 둘러싼 채 어쩔 줄 몰라하고 있었다.
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:교통사고인가?
-NPC-Nele(7)<Speaker>넬레</Speaker>||:...아니야.
-()<Speaker></Speaker>||:단박에 상황을 파악한 넬레의 표정이 어두워졌다.
-()<Speaker></Speaker>||<BGM>BGM_Truth</BGM><SE1>AVG_20Winter_Door_Car_Open</SE1>:그리고 잠깐 망설이다, 차에서 내려 그들에게 다가갔다.
-APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>||<SE1>AVG_20Winter_Door_Car_Open</SE1>:넬레?! 기다려!
-NPC-Nele(7)<Speaker>넬레</Speaker>||:저기요...
-()<Speaker>난민</Speaker>||:......!+죄, 죄송합니다, 일부러 길을 막은 게 아니라...
-NPC-Nele(7)<Speaker>넬레</Speaker>||:아뇨, 화내려는 게 아니에요.+이 사람...
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:넬레는 사람들 사이로 들어가, 의식이 혼미한 그 남자를 보았다.+주위의 난민들의 얼굴엔 근심이 가득했지만, 아무도 그에게 손을 대진 않고 있었다. 그렇다는 건...
-NPC-Nele(5)<Speaker>넬레</Speaker>||:복사감염증...
-()<Speaker>난민</Speaker>||:모, 몸에 규소화가 꽤 진행되어서...+우리도 대체 어떻게 해야 할지... 감염되면 끝장인데, 두고 갈 수도 없고...
-()<Speaker></Speaker>||:그때, 그들 중 한 명이 넬레의 옷차림을 눈치챘다.
-NPC-PasserbyM(0)<Speaker>난민</Speaker>||:아, 아가씨 혹시 의사인가요?!
-NPC-Nele(5)<Speaker>넬레</Speaker>||:저요?+아, 아뇨... 의사는... 그래도 일단 검사는 해볼게요.
-()<Speaker></Speaker>||:뒤쫓아 온 미아는 "의사"라는 말에 흥분한 난민들이 무슨 짓이라도 저지르진 않을까 넬레와 그들 사이를 가로막았다.+어쩔 수 없었기에, 넬레는 난민들에게 미안한 미소를 짓고 바닥에 쓰러진 환자를 자세히 살펴보기 시작했다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:파우치에서 일회용 의료 장갑을 꺼내 끼고, 작은 가위로 환자의 옷을 잘라 열었다.
-NPC-Nele(7)<Speaker>넬레</Speaker>||:(피부 표면에 규소 결정이 보이지만, 저들이 생각하는 만큼 심각한 상태는 아니야.)+(이런 데서 절개할 수도 없지만, 아직 근육 조직까지 침식되진 않았을 거야.)+(제때 치료받기만 한다면 완치될 수 있을 거 같은데?)
-NPC-PasserbyM(0)<Speaker>난민</Speaker>||:누나! 어때요, 우리 형 살 수 있어요?!
-NPC-Nele(4)<Speaker>넬레</Speaker>||:중태는 아니에요!+수술하든지, 적절하게 약물 치료를 받으면 나을 수 있어요!
-NPC-PasserbyM(0)<Speaker>난민</Speaker>||:......
-()<Speaker></Speaker>||:그 말을 들은 소년의 얼굴에 환희로 밝아졌지만, 곧바로 다시 어두워졌다.
-NPC-Nele(5)<Speaker>넬레</Speaker>||:(그렇지 참...)+(치료를 받을 돈이 있었다면 애초부터 이 지경이 되지도 않았겠지...)
-APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레...
-()<Speaker></Speaker>||:미아도 마찬가지로 안색이 어두워지는 넬레를 걱정스럽게 바라봤다.
-NPC-PasserbyM(0)<Speaker>난민</Speaker>||:누나... 정말 의사 아니에요?
-()<Speaker></Speaker>||:넬레가 이미 한 번 부정했음에도, 소년은 지푸라기 잡는 심정으로 다시 물었다.
-NPC-Nele(5)<Speaker>넬레</Speaker>||:죄송해요...
-()<Speaker>난민</Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:씨X!!
-()<Speaker></Speaker>||:나이가 있어 보이는 난민이 울분을 터뜨리며 발로 벽을 찼다.
-()<Speaker>난민</Speaker>||:다 정부 놈들 때문이야!+그 이둔인지 뭔지 하는 약이 빨리 나왔으면 페터가 이렇게 되지도 않았어!
-()<Speaker>난민</Speaker>||:무슨 병이든 고쳐 주는 성녀가 사는 마을이 있대서 먼 길을 왔더니만...+성녀고 자시고, 마을 자체가 없더만! 진작에 사기란 걸 알았어야 했는데!
-()<Speaker>난민</Speaker>||:아니야, 나 그 성녀 본 적 있어... 정말로 병을 고쳐 주더라.+하지만 최근에 납치당하고, 마을도 박살나서 사라진 거래. 성녀가 어디로 잡혀 갔는진 아무도 몰라...
-()<Speaker>난민</Speaker>||:분명 정부 짓이야!
-NPC-Nele(5)<Speaker>넬레</Speaker>||:......
-APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레...
-()<Speaker></Speaker>||:입술을 질끈 깨문 넬레가, 손을 가방 속에 넣어 실험실에서 가져온 약병을 붙잡았다.
-NPC-Nele(5)<Speaker>넬레</Speaker>||:(...안 돼, 이둔은 아직 3차 검증을 통과하지 못했어. 승인 나지 않은 약품을 일반인에게 사용하는 건 절대 용납되지 않아...)
-()<Speaker>페터</Speaker>||:물...
-()<Speaker></Speaker>||:지켜보던 난민들이 다시 모여들었다.
-()<Speaker>난민</Speaker>||:물...! 누구 물 남은 거 있어?!
-()<Speaker>난민</Speaker>||:나! 나 있어!
-NPC-PasserbyM(0)<Speaker>난민</Speaker>||:형...
-NPC-Nele(5)<Speaker>넬레</Speaker>||:......
-()<Speaker></Speaker>||:조용히 뒤로 물러난 넬레는, 절박함과 간절함 어린 난민들의 얼굴을 보며 고뇌했다.+의사가 아니어도 그녀는 잘 안다. 입원 치료할 돈도, 약을 처방받을 돈도 없는 저 남자는 며칠 버티지도 못할 것임을.+저 남자의 현상태가 복사감염증을 치료할 수 있는 마지막 기회인, 증세가 급속도로 악화되기 일보직전의 단계였다.
-APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레, 딱하지만 우린 아무것도 못 해. 그만 가자.
-()<Speaker></Speaker>||:미아는 넬레를 위로하며 차로 돌아가려 했다.
-NPC-Nele(7)<Speaker>넬레</Speaker>||:......치잇!
-()<Speaker></Speaker>||:넬레가 이를 악물더니, 그녀 앞의 난민 몇 명을 밀쳐냈다.
-APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레!?
-NPC-PasserbyM(0)<Speaker>난민</Speaker>||:억? 이봐요 아가씨, 뭘 하려고요!?
-NPC-Nele(7)<Speaker>넬레</Speaker>||:의사는 아니지만, 저는 갈라테아 그룹의 연구원이에요. 제가... 저한테 약이 있어요!
-()<Speaker></Speaker>||:그 한마디에, 그녀를 말리려던 난민들이 일제히 얼어붙었다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:넬레도 잠깐 머뭇했지만, 이내 가방에서 이둔의 샘플이 담긴 주사기를 꺼냈다.
-APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레, 안 돼!
-()<Speaker></Speaker>||:미아가 다급하게 넬레를 불러 세웠다.
-APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>||:너 미쳤어!? 그레이 씨한테 들켰다간 해고로 안 끝나!
-NPC-Nele(5)<Speaker>넬레</Speaker>||:......
-()<Speaker></Speaker>||:넬레는 샘플을 꼭 쥔 채 잠시 망설였지만, 결심한 듯 남자의 피부를 소독했다.
-NPC-Nele(7)<Speaker>넬레</Speaker>||:선생님이 말씀하셨어, 우린 생명을 구하기 위해 왔다고.
-()<Speaker></Speaker>||:그리고 환자의 팔에 주사를 놓았다.
-APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레!
-NPC-Nele(7)<Speaker>넬레</Speaker>||:난 "이둔"을 믿어... 복사감염증의 진행을 억제할 수 있다고 믿어.+그래서 선생님의 연구팀에 들어간 거야. 그러니까...
-()<Speaker></Speaker>||:넬레는 이둔 샘플을 남자의 몸에 주사하고 일어나서 다시 모여드는 난민 일행에서 뒤로 물러났다.
-()<Speaker>페터</Speaker>||:으으...
-()<Speaker></Speaker>||:신음소리밖에 못 내던 그 남자가, 점점 의식을 되찾았다.
-NPC-PasserbyM(0)<Speaker>난민</Speaker>||:형아!!
-()<Speaker></Speaker>||:그들에게서 몇 발자국 떨어져, 넬레는 몸을 떨며 손 안의 빈 병을 내려다보았다.
-NPC-Nele(5)<Speaker>넬레</Speaker>||:목숨이 위태로운 사람을 보고도 그냥 지나칠 수 없어.
-APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:너, 그거 책임져야 해.
-NPC-Nele(5)<Speaker>넬레</Speaker>||:시끄러워, 벌써부터 머리가 지끈지끈하다고...
-()<Speaker></Speaker>||:넬레는 이미 머리를 손으로 짚으면서 한순간의 충동으로 저지른 일에 대한 엄청난 압박감을 느끼는 중이었다.
-NPC-Nele(7)<Speaker>넬레</Speaker>||:후회할지는... 나중 가서 봐야지.
-APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:...돌아가자.
-NPC-Nele(5)<Speaker>넬레</Speaker>||:응.
-()<Speaker></Speaker>||:넬레는 다시 정신을 차린 남자를 보며 안도의 한숨을 내쉬었다.+적어도, 의미가 있는 일을 한 것이었다.
-()||<黑点1><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑点2><震屏3><BIN>315</BIN><SE1>AVG_Car_Skid</SE1>:끼이익——!
+NPC-Nele(6)<Speaker>넬레</Speaker><Shake>0.1</Shake>||:으악!?+아 깜짝이야!+갑자기 웬 급브레이크야?!
+APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:미안... 그게, 길이 막혔어.
+NPC-Nele(6)<Speaker>넬레</Speaker>||:길이 막히다니?
+()<Speaker></Speaker>||:넬레가 앞을 내다보니, 좁은 길을 난민 몇 명이 가로막고 있었다.+차도 한가운데의 바닥에 한 남자가 신음을 내며 쓰러져 있었고, 일행인 듯한 난민들이 그를 둘러싼 채 어쩔 줄 몰라하고 있었다.
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:교통사고인가?
+NPC-Nele(7)<Speaker>넬레</Speaker>||:...아니야.
+()<Speaker></Speaker>||:단박에 상황을 파악한 넬레의 표정이 어두워졌다.
+()<Speaker></Speaker>||<BGM>BGM_Truth</BGM><SE1>AVG_20Winter_Door_Car_Open</SE1>:그리고 잠깐 망설이다, 차에서 내려 그들에게 다가갔다.
+APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>||<SE1>AVG_20Winter_Door_Car_Open</SE1>:넬레?! 기다려!
+NPC-Nele(7)<Speaker>넬레</Speaker>||:저기요...
+()<Speaker>난민</Speaker>||:......!+죄, 죄송합니다, 일부러 길을 막은 게 아니라...
+NPC-Nele(7)<Speaker>넬레</Speaker>||:아뇨, 화내려는 게 아니에요.+이 사람...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:넬레는 사람들 사이로 들어가, 의식이 혼미한 그 남자를 보았다.+주위의 난민들의 얼굴엔 근심이 가득했지만, 아무도 그에게 손을 대진 않고 있었다. 그렇다는 건...
+NPC-Nele(5)<Speaker>넬레</Speaker>||:복사감염증...
+()<Speaker>난민</Speaker>||:모, 몸에 규소화가 꽤 진행되어서...+우리도 대체 어떻게 해야 할지... 감염되면 끝장인데, 두고 갈 수도 없고...
+()<Speaker></Speaker>||:그때, 그들 중 한 명이 넬레의 옷차림을 눈치챘다.
+NPC-PasserbyM(0)<Speaker>난민</Speaker>||:아, 아가씨 혹시 의사인가요?!
+NPC-Nele(5)<Speaker>넬레</Speaker>||:저요?+아, 아뇨... 의사는... 그래도 일단 검사는 해볼게요.
+()<Speaker></Speaker>||:뒤쫓아 온 미아는 "의사"라는 말에 흥분한 난민들이 무슨 짓이라도 저지르진 않을까 넬레와 그들 사이를 가로막았다.+어쩔 수 없었기에, 넬레는 난민들에게 미안한 미소를 짓고 바닥에 쓰러진 환자를 자세히 살펴보기 시작했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:파우치에서 일회용 의료 장갑을 꺼내 끼고, 작은 가위로 환자의 옷을 잘라 열었다.
+NPC-Nele(7)<Speaker>넬레</Speaker>||:(피부 표면에 규소 결정이 보이지만, 저들이 생각하는 만큼 심각한 상태는 아니야.)+(이런 데서 절개할 수도 없지만, 아직 근육 조직까지 침식되진 않았을 거야.)+(제때 치료받기만 한다면 완치될 수 있을 거 같은데?)
+NPC-PasserbyM(0)<Speaker>난민</Speaker>||:누나! 어때요, 우리 형 살 수 있어요?!
+NPC-Nele(4)<Speaker>넬레</Speaker>||:중태는 아니에요!+수술하든지, 적절하게 약물 치료를 받으면 나을 수 있어요!
+NPC-PasserbyM(0)<Speaker>난민</Speaker>||:......
+()<Speaker></Speaker>||:그 말을 들은 소년의 얼굴에 환희로 밝아졌지만, 곧바로 다시 어두워졌다.
+NPC-Nele(5)<Speaker>넬레</Speaker>||:(그렇지 참...)+(치료를 받을 돈이 있었다면 애초부터 이 지경이 되지도 않았겠지...)
+APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레...
+()<Speaker></Speaker>||:미아도 마찬가지로 안색이 어두워지는 넬레를 걱정스럽게 바라봤다.
+NPC-PasserbyM(0)<Speaker>난민</Speaker>||:누나... 정말 의사 아니에요?
+()<Speaker></Speaker>||:넬레가 이미 한 번 부정했음에도, 소년은 지푸라기 잡는 심정으로 다시 물었다.
+NPC-Nele(5)<Speaker>넬레</Speaker>||:죄송해요...
+()<Speaker>난민</Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:씨X!!
+()<Speaker></Speaker>||:나이가 있어 보이는 난민이 울분을 터뜨리며 발로 벽을 찼다.
+()<Speaker>난민</Speaker>||:다 정부 놈들 때문이야!+그 이둔인지 뭔지 하는 약이 빨리 나왔으면 페터가 이렇게 되지도 않았어!
+()<Speaker>난민</Speaker>||:무슨 병이든 고쳐 주는 성녀가 사는 마을이 있대서 먼 길을 왔더니만...+성녀고 자시고, 마을 자체가 없더만! 진작에 사기란 걸 알았어야 했는데!
+()<Speaker>난민</Speaker>||:아니야, 나 그 성녀 본 적 있어... 정말로 병을 고쳐 주더라.+하지만 최근에 납치당하고, 마을도 박살나서 사라진 거래. 성녀가 어디로 잡혀 갔는진 아무도 몰라...
+()<Speaker>난민</Speaker>||:분명 정부 짓이야!
+NPC-Nele(5)<Speaker>넬레</Speaker>||:......
+APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레...
+()<Speaker></Speaker>||:입술을 질끈 깨문 넬레가, 손을 가방 속에 넣어 실험실에서 가져온 약병을 붙잡았다.
+NPC-Nele(5)<Speaker>넬레</Speaker>||:(...안 돼, 이둔은 아직 3차 검증을 통과하지 못했어. 승인 나지 않은 약품을 일반인에게 사용하는 건 절대 용납되지 않아...)
+()<Speaker>페터</Speaker>||:물...
+()<Speaker></Speaker>||:지켜보던 난민들이 다시 모여들었다.
+()<Speaker>난민</Speaker>||:물...! 누구 물 남은 거 있어?!
+()<Speaker>난민</Speaker>||:나! 나 있어!
+NPC-PasserbyM(0)<Speaker>난민</Speaker>||:형...
+NPC-Nele(5)<Speaker>넬레</Speaker>||:......
+()<Speaker></Speaker>||:조용히 뒤로 물러난 넬레는, 절박함과 간절함 어린 난민들의 얼굴을 보며 고뇌했다.+의사가 아니어도 그녀는 잘 안다. 입원 치료할 돈도, 약을 처방받을 돈도 없는 저 남자는 며칠 버티지도 못할 것임을.+저 남자의 현상태가 복사감염증을 치료할 수 있는 마지막 기회인, 증세가 급속도로 악화되기 일보직전의 단계였다.
+APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레, 딱하지만 우린 아무것도 못 해. 그만 가자.
+()<Speaker></Speaker>||:미아는 넬레를 위로하며 차로 돌아가려 했다.
+NPC-Nele(7)<Speaker>넬레</Speaker>||:......치잇!
+()<Speaker></Speaker>||:넬레가 이를 악물더니, 그녀 앞의 난민 몇 명을 밀쳐냈다.
+APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레!?
+NPC-PasserbyM(0)<Speaker>난민</Speaker>||:억? 이봐요 아가씨, 뭘 하려고요!?
+NPC-Nele(7)<Speaker>넬레</Speaker>||:의사는 아니지만, 저는 갈라테아 그룹의 연구원이에요. 제가... 저한테 약이 있어요!
+()<Speaker></Speaker>||:그 한마디에, 그녀를 말리려던 난민들이 일제히 얼어붙었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:넬레도 잠깐 머뭇했지만, 이내 가방에서 이둔의 샘플이 담긴 주사기를 꺼냈다.
+APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레, 안 돼!
+()<Speaker></Speaker>||:미아가 다급하게 넬레를 불러 세웠다.
+APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>||:너 미쳤어!? 그레이 씨한테 들켰다간 해고로 안 끝나!
+NPC-Nele(5)<Speaker>넬레</Speaker>||:......
+()<Speaker></Speaker>||:넬레는 샘플을 꼭 쥔 채 잠시 망설였지만, 결심한 듯 남자의 피부를 소독했다.
+NPC-Nele(7)<Speaker>넬레</Speaker>||:선생님이 말씀하셨어, 우린 생명을 구하기 위해 왔다고.
+()<Speaker></Speaker>||:그리고 환자의 팔에 주사를 놓았다.
+APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레!
+NPC-Nele(7)<Speaker>넬레</Speaker>||:난 "이둔"을 믿어... 복사감염증의 진행을 억제할 수 있다고 믿어.+그래서 선생님의 연구팀에 들어간 거야. 그러니까...
+()<Speaker></Speaker>||:넬레는 이둔 샘플을 남자의 몸에 주사하고 일어나서 다시 모여드는 난민 일행에서 뒤로 물러났다.
+()<Speaker>페터</Speaker>||:으으...
+()<Speaker></Speaker>||:신음소리밖에 못 내던 그 남자가, 점점 의식을 되찾았다.
+NPC-PasserbyM(0)<Speaker>난민</Speaker>||:형아!!
+()<Speaker></Speaker>||:그들에게서 몇 발자국 떨어져, 넬레는 몸을 떨며 손 안의 빈 병을 내려다보았다.
+NPC-Nele(5)<Speaker>넬레</Speaker>||:목숨이 위태로운 사람을 보고도 그냥 지나칠 수 없어.
+APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:너, 그거 책임져야 해.
+NPC-Nele(5)<Speaker>넬레</Speaker>||:시끄러워, 벌써부터 머리가 지끈지끈하다고...
+()<Speaker></Speaker>||:넬레는 이미 머리를 손으로 짚으면서 한순간의 충동으로 저지른 일에 대한 엄청난 압박감을 느끼는 중이었다.
+NPC-Nele(7)<Speaker>넬레</Speaker>||:후회할지는... 나중 가서 봐야지.
+APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:...돌아가자.
+NPC-Nele(5)<Speaker>넬레</Speaker>||:응.
+()<Speaker></Speaker>||:넬레는 다시 정신을 차린 남자를 보며 안도의 한숨을 내쉬었다.+적어도, 의미가 있는 일을 한 것이었다.
+()||<黑点1><BIN>10</BIN>:

@@ -1,46 +1,46 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||<BIN>22</BIN><BGM>BGM_Empty</BGM>:SOP2와 RO가 페르시카의 연구실에 도착했다.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Hello</BGM>:페르시카- 우리 왔어!
-NPC-Persica(0)<Speaker>페르시카</Speaker>||:예상보다 빨리 왔네, 이 커피를 다 마실 때쯤 올 것...+어라... SOP2, 너 혼자 왔니? RO는?
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:RO도 왔어, 여기에 있어!
-()||:SOP2가 디너게이트를 페르시카에게 보여줬다.
-NPC-Persica(1)<Speaker>페르시카</Speaker>||:뭐? 정말로 디너게이트 안에 있는 거였어?
-NPC-Persica(3)<Speaker>페르시카</Speaker>||:난 또 카리나가 농담하는 줄 알고, 방에서 쫓아냈는데...
-RO635(6)<Speaker>RO635</Speaker>||:인정하긴 싫지만...+제 마인드맵은 확실히... 이 안에 있어요... 페르시카 씨.
-NPC-Persica(2)<Speaker>페르시카</Speaker>||:그렇게까지 놀랄 일은 아니지만... 설마 SOP2가 이런 일을 해낼 줄이야...+예전의 너 같았으면 완전히 방전돼서 망가진 마인드맵을 줬을 텐데 말이야.
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:날 바보로 보지 마, 망가진 마인드맵을 페르시카에게 주면 의미가 없잖아!
-SOPIIDamage(2);NPC-Persica(2)<Speaker>페르시카</Speaker>||:나라면 그래도 어느 정도 건질 수는 있겠지만. 그것보다 네가 어떻게 이런 걸 해냈는지를 알고 싶은데?
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:그게... 나도 잘 모르겠어, 그저 꼭 RO를 구하고 싶어서 방법이 생각나는 대로 다 해봤어.+그랬더니, 이렇게 된 거야.
-SOPIIDamage(0);NPC-Persica(2)<Speaker>페르시카</Speaker>||:음... 뭐 예상한 대답이네, 깊게 파고들면 꽤 재미있을지도 모르겠지만.+그래도 확실히 내 예상을 뛰어넘었어, SOP2.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:흐흥! 나는 중요할 때 기적을 일으키는 인형이라고!
-RO635(6)<Speaker>RO635</Speaker>||:페르시카 씨... 일단 그 전에 빨리 절 이 디너게이트에서 꺼내줄 수 있나요?
-RO635(6);NPC-Persica(2)<Speaker>페르시카</Speaker>||:미안 RO, 지금 손에 너에게 맞는 인형 소체가 없어, 당장 옮긴다 해도 아무것도 못할 거야.+그냥 잠시 동안은 그렇게 있는 게 어때, 보아하니 상태도 안정적이고...
-RO635(6)<Speaker>RO635</Speaker>;NPC-Persica(2)||:뭐, 뭐라고요! 전 이런 몸을 견딜 수 없어요! 그냥 아무 인형이든 좋으니까 옮겨주세요!
-RO635(6);NPC-Persica(0)<Speaker>페르시카</Speaker>||:그러니까... 블록 쌓기처럼 맘대로 옮길 수 있는 게 아니야, RO.+지금 성공한 건 운이 좋았던 거지, 또 억지로 옮겼다간 무슨 일이 일어날지 몰라.
-RO635(6)<Speaker>RO635</Speaker>;NPC-Persica(0)||:뭐가 어쨌든 이런 개 같은 몸으로 있기 싫어요!+이 디너게이트에서 나올 수만 있으면 되니까 부탁할게요, 페르시카 씨!
-RO635(6);NPC-Persica(2)<Speaker>페르시카</Speaker>||:음... 잠시 널 옮겨둘 곳이 있긴 해.+다만 거기에 들어가면 좀 말썽이 있을 수 있어...
-RO635(6)<Speaker>RO635</Speaker>;NPC-Persica(2)||:그걸로 돼요! 해봤자 지금 이 모습보다 더하겠어요?
-NPC-Persica(2)<Speaker>페르시카</Speaker>||:좋아, 그럼 그렇게 해줄게.+그럼 SOP2 이쪽은... 그 조각조각 이어붙인 몸도 손을 봐야겠는걸.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:가끔 이쪽 팔이 멋대로 움직이는 것만 빼면 아직 괜찮아... 먼저 RO부터 어떻게 해주는 게 어때?
-NPC-Persica(2)<Speaker>페르시카</Speaker>||:RO를 손보기 전에 너희 둘의 상태를 검사해볼게. 너희 둘, 이쪽에 앉으렴.+내가 준비하는 동안에 무슨 일을 겪었는지 얘기해봐.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:알았어! 다만 꽤 긴 이야기야...
-()||<黑屏1>:SOP2는 RO를 데리고 페르시카가 가르킨 의자에 앉았다.+그리고 페르시카는 작업에 착수했다.
-()||<黑屏2><BGM>BGM_Empty</BGM>:30분 후.
-NPC-Persica(0)<Speaker>페르시카</Speaker>||<BGM>BGM_Moon</BGM>:그렇구나, 정말 아찔한 경험이었겠네.+부디 무사했으면 좋을 텐데...
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(0)||:페르시카, 누굴 걱정하는 거야?
-SOPIIDamage(0);NPC-Persica(2)<Speaker>페르시카</Speaker>||:아, 뭐 아니야, 일단 너희들의 일을 말하자.+SOP2, 이번 작전에 무슨 감상이라도 있니?
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:감상이라... 다시는 그런 일 없었으면 좋겠어!
-RO635(6)<Speaker>RO635</Speaker>||:동감이요...
-NPC-Persica(2)<Speaker>페르시카</Speaker>||:... 다르게 물어보자, 그럼 깨우친 것은 있니?+기나긴 싸움 속에서, 스스로나 다른 사람이나... 새로 느낀 점이 있니?
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:그건...
-SOPIIDamage(2)<Speaker></Speaker>||:SOP2가 고개를 숙였다.
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:여태까지는 그냥 자신이 즐거우면 다라고 생각했어... 하지만 이번에 있었던 일로, 지휘하는 게 얼마나 힘든지 알았어.+M4와 RO는 정말로 대단해... 모두를 이끌고 승리를 얻고, 다른 인형들을 무사히 전장에서 데리고 돌아오고. 나는 할 수가 없는 일이야...
-RO635(6)<Speaker>RO635</Speaker>||:SOP2...
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:다시는 동료를 잃고 싶지 않아, 혼자 남겨지고 싶지도 않고... 나 혼자 살아남는 건 싫어.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:다른 사람들에게 도움이 되고 싶어... 다 같이 살아가면서, 동료들 모두를 즐겁게 살아갈 수 있게 할 수 있으면 좋겠어!
-NPC-Persica(2)<Speaker>페르시카</Speaker>||:... 잘 알았어.
-NPC-Persica(2)<Speaker></Speaker>||:... 페르시카가 다정한 미소를 지었다.
-NPC-Persica(2)<Speaker>페르시카</Speaker>||:괜찮은 답변이야, 칭찬으로 상을 줄게.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:상이 있어?+그냥 고치는 것 말고도?
-NPC-Persica(2)<Speaker>페르시카</Speaker>||<黑屏1>:그래, 너의 마인드맵과 모든 무장을 전면적으로 업그레이드해줄 거야.
-페르시카()<Speaker>페르시카</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:그럼, 너의 새로운 힘을 기대해도 좋아, SOPMOD2.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>22</BIN><BGM>BGM_Empty</BGM>:SOP2와 RO가 페르시카의 연구실에 도착했다.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Hello</BGM>:페르시카- 우리 왔어!
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:예상보다 빨리 왔네, 이 커피를 다 마실 때쯤 올 것...+어라... SOP2, 너 혼자 왔니? RO는?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:RO도 왔어, 여기에 있어!
+()||:SOP2가 디너게이트를 페르시카에게 보여줬다.
+NPC-Persica(1)<Speaker>페르시카</Speaker>||:뭐? 정말로 디너게이트 안에 있는 거였어?
+NPC-Persica(3)<Speaker>페르시카</Speaker>||:난 또 카리나가 농담하는 줄 알고, 방에서 쫓아냈는데...
+RO635(6)<Speaker>RO635</Speaker>||:인정하긴 싫지만...+제 마인드맵은 확실히... 이 안에 있어요... 페르시카 씨.
+NPC-Persica(2)<Speaker>페르시카</Speaker>||:그렇게까지 놀랄 일은 아니지만... 설마 SOP2가 이런 일을 해낼 줄이야...+예전의 너 같았으면 완전히 방전돼서 망가진 마인드맵을 줬을 텐데 말이야.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:날 바보로 보지 마, 망가진 마인드맵을 페르시카에게 주면 의미가 없잖아!
+SOPIIDamage(2);NPC-Persica(2)<Speaker>페르시카</Speaker>||:나라면 그래도 어느 정도 건질 수는 있겠지만. 그것보다 네가 어떻게 이런 걸 해냈는지를 알고 싶은데?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(2)||:그게... 나도 잘 모르겠어, 그저 꼭 RO를 구하고 싶어서 방법이 생각나는 대로 다 해봤어.+그랬더니, 이렇게 된 거야.
+SOPIIDamage(0);NPC-Persica(2)<Speaker>페르시카</Speaker>||:음... 뭐 예상한 대답이네, 깊게 파고들면 꽤 재미있을지도 모르겠지만.+그래도 확실히 내 예상을 뛰어넘었어, SOP2.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:흐흥! 나는 중요할 때 기적을 일으키는 인형이라고!
+RO635(6)<Speaker>RO635</Speaker>||:페르시카 씨... 일단 그 전에 빨리 절 이 디너게이트에서 꺼내줄 수 있나요?
+RO635(6);NPC-Persica(2)<Speaker>페르시카</Speaker>||:미안 RO, 지금 손에 너에게 맞는 인형 소체가 없어, 당장 옮긴다 해도 아무것도 못할 거야.+그냥 잠시 동안은 그렇게 있는 게 어때, 보아하니 상태도 안정적이고...
+RO635(6)<Speaker>RO635</Speaker>;NPC-Persica(2)||:뭐, 뭐라고요! 전 이런 몸을 견딜 수 없어요! 그냥 아무 인형이든 좋으니까 옮겨주세요!
+RO635(6);NPC-Persica(0)<Speaker>페르시카</Speaker>||:그러니까... 블록 쌓기처럼 맘대로 옮길 수 있는 게 아니야, RO.+지금 성공한 건 운이 좋았던 거지, 또 억지로 옮겼다간 무슨 일이 일어날지 몰라.
+RO635(6)<Speaker>RO635</Speaker>;NPC-Persica(0)||:뭐가 어쨌든 이런 개 같은 몸으로 있기 싫어요!+이 디너게이트에서 나올 수만 있으면 되니까 부탁할게요, 페르시카 씨!
+RO635(6);NPC-Persica(2)<Speaker>페르시카</Speaker>||:음... 잠시 널 옮겨둘 곳이 있긴 해.+다만 거기에 들어가면 좀 말썽이 있을 수 있어...
+RO635(6)<Speaker>RO635</Speaker>;NPC-Persica(2)||:그걸로 돼요! 해봤자 지금 이 모습보다 더하겠어요?
+NPC-Persica(2)<Speaker>페르시카</Speaker>||:좋아, 그럼 그렇게 해줄게.+그럼 SOP2 이쪽은... 그 조각조각 이어붙인 몸도 손을 봐야겠는걸.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:가끔 이쪽 팔이 멋대로 움직이는 것만 빼면 아직 괜찮아... 먼저 RO부터 어떻게 해주는 게 어때?
+NPC-Persica(2)<Speaker>페르시카</Speaker>||:RO를 손보기 전에 너희 둘의 상태를 검사해볼게. 너희 둘, 이쪽에 앉으렴.+내가 준비하는 동안에 무슨 일을 겪었는지 얘기해봐.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:알았어! 다만 꽤 긴 이야기야...
+()||<黑屏1>:SOP2는 RO를 데리고 페르시카가 가르킨 의자에 앉았다.+그리고 페르시카는 작업에 착수했다.
+()||<黑屏2><BGM>BGM_Empty</BGM>:30분 후.
+NPC-Persica(0)<Speaker>페르시카</Speaker>||<BGM>BGM_Moon</BGM>:그렇구나, 정말 아찔한 경험이었겠네.+부디 무사했으면 좋을 텐데...
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Persica(0)||:페르시카, 누굴 걱정하는 거야?
+SOPIIDamage(0);NPC-Persica(2)<Speaker>페르시카</Speaker>||:아, 뭐 아니야, 일단 너희들의 일을 말하자.+SOP2, 이번 작전에 무슨 감상이라도 있니?
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:감상이라... 다시는 그런 일 없었으면 좋겠어!
+RO635(6)<Speaker>RO635</Speaker>||:동감이요...
+NPC-Persica(2)<Speaker>페르시카</Speaker>||:... 다르게 물어보자, 그럼 깨우친 것은 있니?+기나긴 싸움 속에서, 스스로나 다른 사람이나... 새로 느낀 점이 있니?
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:그건...
+SOPIIDamage(2)<Speaker></Speaker>||:SOP2가 고개를 숙였다.
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:여태까지는 그냥 자신이 즐거우면 다라고 생각했어... 하지만 이번에 있었던 일로, 지휘하는 게 얼마나 힘든지 알았어.+M4와 RO는 정말로 대단해... 모두를 이끌고 승리를 얻고, 다른 인형들을 무사히 전장에서 데리고 돌아오고. 나는 할 수가 없는 일이야...
+RO635(6)<Speaker>RO635</Speaker>||:SOP2...
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||:다시는 동료를 잃고 싶지 않아, 혼자 남겨지고 싶지도 않고... 나 혼자 살아남는 건 싫어.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:다른 사람들에게 도움이 되고 싶어... 다 같이 살아가면서, 동료들 모두를 즐겁게 살아갈 수 있게 할 수 있으면 좋겠어!
+NPC-Persica(2)<Speaker>페르시카</Speaker>||:... 잘 알았어.
+NPC-Persica(2)<Speaker></Speaker>||:... 페르시카가 다정한 미소를 지었다.
+NPC-Persica(2)<Speaker>페르시카</Speaker>||:괜찮은 답변이야, 칭찬으로 상을 줄게.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:상이 있어?+그냥 고치는 것 말고도?
+NPC-Persica(2)<Speaker>페르시카</Speaker>||<黑屏1>:그래, 너의 마인드맵과 모든 무장을 전면적으로 업그레이드해줄 거야.
+페르시카()<Speaker>페르시카</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:그럼, 너의 새로운 힘을 기대해도 좋아, SOPMOD2.

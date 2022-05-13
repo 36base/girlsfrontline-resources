@@ -1,42 +1,42 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......+메인 승강기 앞.
-()||<黑屏2><BIN>231</BIN><SE1>Explode</SE1><BGM>m_avg_tension</BGM>:콰앙! 콰아앙!+매서운 폭격의 여파가 기지 깊숙이까지 전해졌다.+하지만 이를 아는지 모르는지, 철혈은 무수한 병력으로 아레스 부대의 길을 막으면서 격전을 벌이고 있었다.
-NPC-Yegor(4)<Speaker>예고르</Speaker>||:지르콘! 여기는 랜드! 응답하라! 지르콘, 응답하라!
-NPC-Yegor(3)<Speaker>부관</Speaker>||:대위님, 헤마타이트와도 연락이 두절됐습니다.
-NPC-Yegor(4)<Speaker>예고르</Speaker>||:빌어먹을... 공군이 벌써 움직이다니.
-NPC-Yegor(3)<Speaker>부관</Speaker>||:대위님... 이제 시간이 없습니다. 이 철혈들은 저희가 처리할 테니, 먼저 가십시오.
-NPC-Yegor(4)<Speaker>예고르</Speaker>||:......
-NPC-Yegor(3)<Speaker>부관</Speaker>||:희생된 동지들을 위해서라도 임무를 반드시 완수해야 합니다.
-NPC-Yegor(4)<Speaker>예고르</Speaker>||:엠버-2, 엠버-3! 지금부터 엠버-1의 지휘를 따라라! 적을 신속히 섬멸한 뒤 나와 합류하도록!
-NPC-Yegor(3)<Speaker>파일럿</Speaker>||:예!
-NPC-Yegor(3)<Speaker>부관</Speaker>||:엠버 각 기, 3시 방향으로 미사일 발사! 대위님께 길을 열어라!
-BossJustice(0)<Speaker>저지</Speaker>||:막아라!
-()||:철혈 인형들은 다시 한번 몸을 던져 적을 막으려 했다.+하지만 투사된 수많은 미사일로 인해, 길이 뚫리고 말았다.+예고르의 기체는 후폭풍을 뚫고 전속력으로 돌진했고, 그의 앞을 가로막는 자는 저지 한 명밖에 없었다.
-NPC-Yegor(4)<Speaker>예고르</Speaker>||:이게 내 마지막 선물이다, 이 빌어먹을 인형들아!
-()||<SE1>Explode</SE1>:조준도, 감속도 하지 않고, 거대한 기갑이 육중한 중량으로 그대로 왜소한 몸집의 인형을 들이받았다.+저지는 태풍 속의 허수아비처럼 튕겨 나가, 통로의 벽에 처박혔다.
-BOSS-8(0)<Speaker>에이전트</Speaker>||:저지!
-NPC-Yegor(3)<Speaker>부관</Speaker>||<SE2>Gunfight</SE2>:어딜 보는 거냐!
-BOSS-8(0)<Speaker>에이전트</Speaker><Shake>||:윽!?
-()||:에이전트를 조준한 아레스 한 기의 주포에서 빛이 차올랐다.
-()||<SE1>Explode</SE1><BGM>BGM_Empty</BGM>:하지만 발사 직전, 조종석의 위치 바로 앞에 폭발이 일어났다.
-()||<BGM>BGM_Sneak</BGM><黑点1>:통로 높은 곳에서, M4A1이 M16A1에게 물려받은 화포로 쏜 것이었다.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑点2><BIN>232</BIN>:안젤리아 씨, AR팀은 지금부터 전투에 돌입합니다!+하지만 저희의 무기로는 저 기갑 유닛에게 경미한 피해도 주지 못합니다! 약간 지체시키는 정도가 다예요!
-NPC-AngeDamage(4)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>알았어, 그럼 계획대로 놈들을 고립시켜 각개격파한다! 아직 희망은 있어!</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:네! 호위 기체를 유인해 보겠습니다!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:박살 내주마!!
-AR15Mod(0)<Speaker>AR15</Speaker>||:다리와 조종석을 노려!
-RO635(5)<Speaker>RO635</Speaker>||:라저!
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:안젤리아 씨! 여기는 저희에게 맡기고 예고르를 쫓으세요!
-NPC-AngeDamage(4)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>알았다!</color>+<color=#00CCFF>AK-12, AN-94! 따라와!</color>
-()||:안젤리아가 통신기에 대고 외쳤다.
-NPC-AngeDamage(4)<Speaker>안젤리아</Speaker><通讯框>||<黑点1>:<color=#00CCFF>RPK-16! 당장 2층으로 이동해! 예고르가 포위를 돌파했다!</color>
-()||<黑点2><BIN>231</BIN>:한편, M4A1의 포격을 정통으로 맞은 아레스는 하마터면 시스템이 충격으로 정지될 뻔했지만, 다행히 장갑이 관통되지 않아 무사했다.+부관은 현재 상황이 매우 심각한 것을 깨달았다. 그리폰 인형들이 자신의 기체를 협공할 수 있는 위치에 매복하고 있었다.+지금 누가 아레스 부대를 지휘하고 있는지 알고서 한 배치였다.
-NPC-Yegor(3)<Speaker>부관</Speaker>||:엠버-2, 엄호! 승강기까지 물러나 태세를 정비한다!
-NPC-Yegor(3)<Speaker>파일럿</Speaker>||:예!
-()||:엠버-1은 다리를 노리는 유탄을 피하고 승강기를 향해 움직였다.
-()||<SE1>Explode</SE1><BGM>BGM_Empty</BGM><白屏1>:하지만 승강기로 들어가기 직전, 거대한 폭발이 일어났다.+푸른 섬광이 승강기를 집어삼켰고, 엠버-1은 동체만이 공중으로 떠올랐다 바닥으로 추락했다.
-()<Speaker>？？？</Speaker>||<白屏2><BGM>m_avg_labyrinth</BGM><火花>:벌써 다 당했나? 철혈은 하나같이 쓸모가 없군.
-RO635(5)<Speaker>RO635</Speaker>||:이 목소리... 설마!
-()||:RO635가 고개를 돌려 M4A1을 바라보니, 긴장한 표정으로 얼어붙어 있었다. 그녀의 생각이 맞았다.+저 목소리는...
-BOSS-12(0)<Speaker>？？？</Speaker>||:모두, 오래 기다렸다.
-()||:푸른 섬광을 뚫고, 그 창백한 머리카락의 인형이, 옛 동료들 앞에 모습을 드러냈다.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||<黑屏1>:드디어 다시 만날 때가 됐구나, 루니샤.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......+메인 승강기 앞.
+()||<黑屏2><BIN>231</BIN><SE1>Explode</SE1><BGM>m_avg_tension</BGM>:콰앙! 콰아앙!+매서운 폭격의 여파가 기지 깊숙이까지 전해졌다.+하지만 이를 아는지 모르는지, 철혈은 무수한 병력으로 아레스 부대의 길을 막으면서 격전을 벌이고 있었다.
+NPC-Yegor(4)<Speaker>예고르</Speaker>||:지르콘! 여기는 랜드! 응답하라! 지르콘, 응답하라!
+NPC-Yegor(3)<Speaker>부관</Speaker>||:대위님, 헤마타이트와도 연락이 두절됐습니다.
+NPC-Yegor(4)<Speaker>예고르</Speaker>||:빌어먹을... 공군이 벌써 움직이다니.
+NPC-Yegor(3)<Speaker>부관</Speaker>||:대위님... 이제 시간이 없습니다. 이 철혈들은 저희가 처리할 테니, 먼저 가십시오.
+NPC-Yegor(4)<Speaker>예고르</Speaker>||:......
+NPC-Yegor(3)<Speaker>부관</Speaker>||:희생된 동지들을 위해서라도 임무를 반드시 완수해야 합니다.
+NPC-Yegor(4)<Speaker>예고르</Speaker>||:엠버-2, 엠버-3! 지금부터 엠버-1의 지휘를 따라라! 적을 신속히 섬멸한 뒤 나와 합류하도록!
+NPC-Yegor(3)<Speaker>파일럿</Speaker>||:예!
+NPC-Yegor(3)<Speaker>부관</Speaker>||:엠버 각 기, 3시 방향으로 미사일 발사! 대위님께 길을 열어라!
+BossJustice(0)<Speaker>저지</Speaker>||:막아라!
+()||:철혈 인형들은 다시 한번 몸을 던져 적을 막으려 했다.+하지만 투사된 수많은 미사일로 인해, 길이 뚫리고 말았다.+예고르의 기체는 후폭풍을 뚫고 전속력으로 돌진했고, 그의 앞을 가로막는 자는 저지 한 명밖에 없었다.
+NPC-Yegor(4)<Speaker>예고르</Speaker>||:이게 내 마지막 선물이다, 이 빌어먹을 인형들아!
+()||<SE1>Explode</SE1>:조준도, 감속도 하지 않고, 거대한 기갑이 육중한 중량으로 그대로 왜소한 몸집의 인형을 들이받았다.+저지는 태풍 속의 허수아비처럼 튕겨 나가, 통로의 벽에 처박혔다.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:저지!
+NPC-Yegor(3)<Speaker>부관</Speaker>||<SE2>Gunfight</SE2>:어딜 보는 거냐!
+BOSS-8(0)<Speaker>에이전트</Speaker><Shake>||:윽!?
+()||:에이전트를 조준한 아레스 한 기의 주포에서 빛이 차올랐다.
+()||<SE1>Explode</SE1><BGM>BGM_Empty</BGM>:하지만 발사 직전, 조종석의 위치 바로 앞에 폭발이 일어났다.
+()||<BGM>BGM_Sneak</BGM><黑点1>:통로 높은 곳에서, M4A1이 M16A1에게 물려받은 화포로 쏜 것이었다.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑点2><BIN>232</BIN>:안젤리아 씨, AR팀은 지금부터 전투에 돌입합니다!+하지만 저희의 무기로는 저 기갑 유닛에게 경미한 피해도 주지 못합니다! 약간 지체시키는 정도가 다예요!
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>알았어, 그럼 계획대로 놈들을 고립시켜 각개격파한다! 아직 희망은 있어!</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:네! 호위 기체를 유인해 보겠습니다!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:박살 내주마!!
+AR15Mod(0)<Speaker>AR15</Speaker>||:다리와 조종석을 노려!
+RO635(5)<Speaker>RO635</Speaker>||:라저!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:안젤리아 씨! 여기는 저희에게 맡기고 예고르를 쫓으세요!
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>알았다!</color>+<color=#00CCFF>AK-12, AN-94! 따라와!</color>
+()||:안젤리아가 통신기에 대고 외쳤다.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker><通讯框>||<黑点1>:<color=#00CCFF>RPK-16! 당장 2층으로 이동해! 예고르가 포위를 돌파했다!</color>
+()||<黑点2><BIN>231</BIN>:한편, M4A1의 포격을 정통으로 맞은 아레스는 하마터면 시스템이 충격으로 정지될 뻔했지만, 다행히 장갑이 관통되지 않아 무사했다.+부관은 현재 상황이 매우 심각한 것을 깨달았다. 그리폰 인형들이 자신의 기체를 협공할 수 있는 위치에 매복하고 있었다.+지금 누가 아레스 부대를 지휘하고 있는지 알고서 한 배치였다.
+NPC-Yegor(3)<Speaker>부관</Speaker>||:엠버-2, 엄호! 승강기까지 물러나 태세를 정비한다!
+NPC-Yegor(3)<Speaker>파일럿</Speaker>||:예!
+()||:엠버-1은 다리를 노리는 유탄을 피하고 승강기를 향해 움직였다.
+()||<SE1>Explode</SE1><BGM>BGM_Empty</BGM><白屏1>:하지만 승강기로 들어가기 직전, 거대한 폭발이 일어났다.+푸른 섬광이 승강기를 집어삼켰고, 엠버-1은 동체만이 공중으로 떠올랐다 바닥으로 추락했다.
+()<Speaker>？？？</Speaker>||<白屏2><BGM>m_avg_labyrinth</BGM><火花>:벌써 다 당했나? 철혈은 하나같이 쓸모가 없군.
+RO635(5)<Speaker>RO635</Speaker>||:이 목소리... 설마!
+()||:RO635가 고개를 돌려 M4A1을 바라보니, 긴장한 표정으로 얼어붙어 있었다. 그녀의 생각이 맞았다.+저 목소리는...
+BOSS-12(0)<Speaker>？？？</Speaker>||:모두, 오래 기다렸다.
+()||:푸른 섬광을 뚫고, 그 창백한 머리카락의 인형이, 옛 동료들 앞에 모습을 드러냈다.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||<黑屏1>:드디어 다시 만날 때가 됐구나, 루니샤.

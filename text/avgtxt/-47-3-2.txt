@@ -1,108 +1,108 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>367</BIN><BGM>BGM_Danger</BGM>:갑판 위.
-()<Speaker></Speaker>||:그리폰 인형들은 상황을 제대로 파악할 겨를도 없이 정신없이 달렸다.
-Lewis(9)<Speaker>루이스</Speaker>||:생각났다!
-Lewis(9);M200(4)<Speaker>M200</Speaker>||:뭐가요?!
-Lewis(9)<Speaker>루이스</Speaker>;M200(4)||:그 조각상, 발렌타인의 방에 있던 거야! 그 남자가 나한테 누명을 씌운 게 분명해!
-M200(4)<Speaker>M200</Speaker>||:네? 그럴 리가요! 우리 방엔 방범 장치도 있는걸요! 누가 억지로 들어왔다면 경보가 울렸을 거예요!
-Welrod(2)<Speaker>웰로드</Speaker>||:그것도 보랜스노에게 추궁해야겠군!
-Lewis(9)<Speaker>루이스</Speaker>;Welrod(2)||:뭐야, 지금 우리 보랜스노를 의심하는 거야?!
-Lewis(9);Welrod(2)<Speaker>웰로드</Speaker>||:단순한 의심이 아니다! 지금으로선 너무 많은 의문점이 그녀와 얽혀 있어!
-Lewis(9);M200(4)<Speaker>M200</Speaker>||:지금은 추격부터 따돌리고 숨는 게 우선이라 보는데요!
-Lewis(9)<Speaker>루이스</Speaker>;M200(4)||:우리가 왜 숨어야 해? 불지르지도 물건 훔치지도 않았는데! 다 그 발렌타인이란 놈의 모함이야!+이 난장판의 원인을 알아내지 못하면 계속 억울한 일만 당할 거라고!
-M200(4)<Speaker>M200</Speaker>||:엇, 저 모니터 좀 보세요!
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:긴급 경보. 절도 방화 사건이 발생했음을 알립니다. 용의자는 소속 불명의 전술인형으로, 현재 도주 중입니다.+감시 카메라 영상을 확인하시고, 용의자 목격 시 보안실에 즉시 연락하시되 안전을 위해 절대 용의자와 접촉하지 마십시오.
-M200(4)<Speaker>M200</Speaker>||:저희 수배당했어요...
-MDR(4)<Speaker>MDR</Speaker>||:말 안 해도 알아!
-M200(4)<Speaker>M200</Speaker>||:그런데, 저 녹화 영상은 뭐죠?+루이스 씨는 그때 분명 파티장에 있었잖아요! 왜 물건을 훔치는 모습이 찍힌 거예요?!
-Welrod(2)<Speaker>웰로드</Speaker>||:영문을 모르겠는 일이 꼬리에 꼬리를 물고...+전혀 휴가답지 않게 됐어...
-M200(4)<Speaker>M200</Speaker>||:그나저나, 썬더 씨가 안 보이는데 어디 갔는지 아는 분 있어요?
-()<Speaker></Speaker>||:그 말에 모두가 걸음을 멈췄고, 루이스도 홱 뒤돌아 일행을 확인했다.+웰로드와 MDR, M200, 그리고 자신. 4명뿐이었다.
-MDR(4)<Speaker>MDR</Speaker>||<BGM>BGM_Empty</BGM>:어...?
-Lewis(9)<Speaker>루이스</Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Room</BGM><BIN>9</BIN>:어느 방.
-()<Speaker></Speaker>||:잠겼어야 할 방의 문은 어째선지 슬며시 열려있었다.+아무런 소리도 없었지만, 방문객은 그 안에 찾는 사람이 있다고 확신했다.
-()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><BIN>97</BIN>:——!
-Thunder50(2)<Speaker>썬더</Speaker>||:루이스.
-()<Speaker></Speaker>||:썬더는 무언가를 증명하려는 듯 아주 나지막한 목소리였다.+그 목소리에 반응해 고개를 돌린 창가의 그림자는, 확실히 익숙한 얼굴이었다.
-Lewis(8)<Speaker>루이스</Speaker>||:......
-Lewis(8)<Speaker>루이스</Speaker>||<SE1>AVG_20Winter_Book</SE1>:아, 썬더! 이것 봐, 내가 발렌타인이 암거래상이란 증거를 찾았어! 역시, 그는 최근 뉴스에서 집중 보도하던 갱단의 우두머리였어! 국적 불문하고 전문적으로 무기를 밀매하는――
-Lewis(8);Thunder50(2)<Speaker>썬더</Speaker>||:그 증거가 뭔데?
-Lewis(8)<Speaker>루이스</Speaker>;Thunder50(2)||:발렌타인 본인이 직접 서명한 서류야! 거래 상대도 꽤 거물인 거 같은데?+후후후, 우리 이번에 대박 났어!
-Lewis(8);Thunder50(2)<Speaker>썬더</Speaker>||:보여 줄래?
-Lewis(8)<Speaker>루이스</Speaker>;Thunder50(2)||:응, 우선 다른 애들이랑 합류부터 하자.
-Thunder50(2)<Speaker>썬더</Speaker>||<SE1>Select</SE1>:그럴 필욘 없어요.
-()<Speaker></Speaker>||:썬더는 총의 안전 장치를 풀고, 총구를 눈앞의 "루이스"에게 겨눴다.
-Thunder50(2)<Speaker>썬더</Speaker>||<BGM>BGM_Empty</BGM>:그걸 손에 넣기 위해 우릴 미끼로 그의 주의를 돌렸군요.+그렇죠? 보랜스노 씨.
-Lewis(8)<Speaker>보랜스노</Speaker>||<BGM>BGM_Brain</BGM>:......+언제 눈치챘어?
-Lewis(8);Thunder50(2)<Speaker>썬더</Speaker>||:창문 밖으로 뛰어내린 이유가 너무 어설퍼서요.
-Lewis(10)<Speaker>보랜스노</Speaker>;Thunder50(2)||:어머, 그럼 처음부터잖아?+왜 바로 밝히지 않았어?
-Lewis(10);Thunder50(2)<Speaker>썬더</Speaker>||:루이스가 당신을 엄청 좋아하거든요.
-Lewis(10)<Speaker>보랜스노</Speaker>;Thunder50(2)||:그건... 진심으로 감격스러워.
-Lewis(10);Thunder50(2)<Speaker>썬더</Speaker>||:루이스는 오직 당신을 보고 싶어서 이 배에 올랐어요. 매일 동료들에게 당신에게 인기 투표를 해 달라고 부탁했죠.+하지만 역시 당신은 영화 속 캐릭터 같은 사람이 아니네요.
-Lewis(10);Thunder50(2)<Speaker>썬더</Speaker>||:제 눈에 당신은 천의 얼굴을 가진 예술가가 아니라, 정체불명의 교활한 사기꾼이에요.
-Lewis(10)<Speaker>보랜스노</Speaker>;Thunder50(2)||:그 말은 좀 속상한걸... 흠.+아무튼, 어떻게 날 찾아낸 거야?
-Lewis(10);Thunder50(2)<Speaker>썬더</Speaker>||:루이스의 옷에다 초소형 추적기를 달았죠.
-Lewis(10)<Speaker>보랜스노</Speaker>;Thunder50(2)||:내가 너희를 너무 얕봤구나.
-Lewis(10);Thunder50(2)<Speaker>썬더</Speaker>||:왜 이런 일을 벌였는지 말하세요. 들어줄게요.
-Lewis(10)<Speaker>보랜스노</Speaker>;Thunder50(2)||:어디서부터 시작하는 게 좋을까?
-Lewis(10);Thunder50(2)<Speaker>썬더</Speaker>||:창문에서 뛰어내려 일부러 루이스와 부딪힌 시점부터요.+아니면 우리가 전술인형임을 모르는 척하던 때부터도 좋겠죠.
-Lewis(10)<Speaker>보랜스노</Speaker>||:그건 정말 긴 이야기가 되겠는걸...
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>89</BIN>:다른 방.
-Lewis(9)<Speaker>루이스</Speaker>||:여기도 없어... 아 정말 대체 어디 간 거야!+만약... 만약 내 판단 때문에 썬더한테 무슨 일이 생겼으면...
-MDR(4)<Speaker>MDR</Speaker>||:얼씨구, 지금 자책하는 거야? 진심?+우린 전술인형이야, 이딴 데서 당하기라도 할까 봐?
-Welrod(2)<Speaker>웰로드</Speaker>||:아직도 보랜스노가 전혀 이상하지 않다고 생각하나?
-Lewis(9)<Speaker>루이스</Speaker>||:어쩜 정말로 갱단이...
-Welrod(2)<Speaker>웰로드</Speaker>||:정신 차려라, 루이스. 아무리 그녀가 네 우상이더라도 현실을 직시해.+감시 카메라에 포착된 그 모습은 너와 외견이 비슷한 그녀밖에 없어.
-Lewis(9)<Speaker>루이스</Speaker>||:하... 하지만 어째서...?
-M200(4)<Speaker>M200</Speaker>||:그 사람을 찾으면 알 수 있겠죠.+하지만 먼저 썬더 씨를 찾아야 해요.
-MDR(4)<Speaker>MDR</Speaker>||:하지만 어떻게? 아까부터 신호도 안 잡힌다고...
-Lewis(7)<Speaker>루이스</Speaker>||:발렌타인!
-MDR(4)<Speaker>MDR</Speaker>||:잉?
-Lewis(9)<Speaker>루이스</Speaker>||:보랜스노 님... 아니지.+보랜스노가 무슨 목적이든, 이 일의 실마리는 발렌타인에게 있어.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>85</BIN>:크루즈 어딘가의 컨퍼런스 룸.
-NPC_girill(0)<Speaker>발렌타인</Speaker>||:사장님, 설명 좀 부탁드려도 될까요?+그 인형들은 대체 뭡니까?
-NPC-Arla(0)<Speaker>뚱뚱한 남자</Speaker>||:설명해야 하는 건 그쪽 아닙니까?
-NPC_girill(3)<Speaker>발렌타인</Speaker>;NPC-Arla(0)||:설마 여기서도 당신 마음대로 해도 되는 줄 아시나 보죠?+제가 무력한 상인일 뿐이긴 하지만, 궁지에 몰리면 총도 당연히 쏩니다.
-NPC_girill(3)<Speaker>발렌타인</Speaker>;NPC-Arla(0)||:무슨 꿍꿍이길래 사람을 보내 제 계약서를 없앤 겁니까?+거기엔 당신들과의 거래만 있는 게 아닌데요.
-NPC_girill(3);NPC-Arla(0)<Speaker>뚱뚱한 남자</Speaker>||:그건 또 무슨 헛소립니까? 생사람 잡을 생각은 접어 두고, 우리가 어떻게 협력해야 할지나 생각하세요.
-NPC_girill(3)<Speaker>발렌타인</Speaker>;NPC-Arla(0)||:나 참... 사장님, "생선"이 죽어서 이제 "떡밥"을 뿌릴 이유도 사라졌어요.
-NPC-Arla(0)<Speaker>뚱뚱한 남자</Speaker>||:이놈이 설마 일부러...!+우리 뒤에 있는 게 누군지――
-()<Speaker></Speaker>||<震屏3><SE1>AVG_rifle_finalshot_h</SE1>:——!
-NPC_girill(0)<Speaker>발렌타인</Speaker>||:어휴 진짜, 귀찮아 죽겠네.
-NPC-Arla(0)<Speaker>뚱뚱한 남자</Speaker>||:너어어...!
-()<Speaker></Speaker>||<震屏3><SE1>AVG_rifle_finalshot_3h</SE1>:몇 차례 총성이 울린 뒤, 방바닥은 피로 흥건해졌다.
-NPC_girill(0)<Speaker>발렌타인</Speaker>||<SE1>ClothingUp</SE1>:여기 좀 깨끗하게 청소해 놔. 너랑 너, 나랑 같이 그 물 흐리는 금붕어들한테 따지러 가자.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>97</BIN><黑屏2>:보랜스노와 썬더가 대치 중인 어느 방.
-Thunder50(2)<Speaker>썬더</Speaker>||:어떻게 요약할지 다 생각했나요?
-Lewis(10)<Speaker>보랜스노</Speaker>||:그렇게 재촉하지 마~+여자란 원래 이렇게 좀 번거로운 법인걸.
-()<Speaker></Speaker>||<SE1>Select</SE1>:그렇게 말하면서도 수상쩍게 움직이는 보랜스노의 손을, 썬더는 넘어가지 않았다.
-Thunder50(2)<Speaker>썬더</Speaker>||:눈앞의 상대를 조금은 존중해 주시는 게 어떻겠어요? 대화 도중에 딴 마음 품지 마세요.
-Lewis(10)<Speaker>보랜스노</Speaker>||:딴 마음이라니? 그냥 말할 마음을 다잡으려는 거일 뿐이야, 너무 긴장하지 마.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:보랜스노는 썬더가 보는 앞에서 작은 주머니에서 물건 하나를 꺼냈다.+쥔 손을 천천히 펴 보이니, 그것은 어젯밤 썼던 것과 같은 립스틱이었다.
-Lewis(10)<Speaker>보랜스노</Speaker>||:우리한테 립스틱은 화장품이 아니라 무기란다.+단두대에 올라 최후를 맞이할지언정, 피로 입술을 붉게 칠할 거야.
-Lewis(10);Thunder50(2)<Speaker>썬더</Speaker>||:루이스 덕분에 당신의 영화는 잘 감상했습니다.+영화마다 정말 훌륭한 연기였어요, 과연 명배우랄까요? 이렇게 가까이서 세계 최고의 여배우의 연기를 공짜로 보게 되어 참 영광이에요.
-Lewis(10)<Speaker>보랜스노</Speaker>;Thunder50(2)||:고마워, 칭찬은 사양 않고 받을게.+그런데... 네가 여기서 날 노려본 지도 꽤 됐지? 동료들한테 연락도 없는 거 같은데 괜찮겠어?
-Thunder50(2)<Speaker>썬더</Speaker>||:......!
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Error</SE1>:그 말에 썬더는 동료들에게 통신을 시도했지만, 점점 안색이 나빠졌다.+그 모습에 보랜스노는 미소를 띄우며 썬더에게 다가갔다.
-Lewis(10)<Speaker>보랜스노</Speaker>||:신호에 문제가 생긴 걸 드디어 깨달았구나.+생선을 잡으려던 새가 역으로 생선에게 잡아먹힌 기분은 어때?
-Lewis(10);Thunder50(2)<Speaker>썬더</Speaker>||:당장 멈춰――
-Lewis(10)<Speaker>보랜스노</Speaker>;Thunder50(2)||:내가 루이스의 옷을 훔칠 때도, 실은 네가 발견하길 기다리고서 움직인 거야.
-Lewis(10);Thunder50(2)<Speaker>썬더</Speaker>||:너... 무슨 속셈이야?
-Lewis(10)<Speaker>보랜스노</Speaker>||:슬슬 네 동료들도 눈치챘을 테지...
-()<Speaker></Speaker>||:보랜스노는 립스틱의 뚜껑을 다시 돌려 끼웠다.
-Thunder50(2)<Speaker>썬더</Speaker>||:눈치채다니, 뭘?
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:금속 외피의 립스틱이 보랜스노의 손끝에서 빙글 반바퀴 돌자, 돌연 뚜껑이 퉁 튕겨나왔다.
-Thunder50(2)<Speaker>썬더</Speaker>||:――!!
-()<Speaker></Speaker>||<SE1>Rope</SE1>:썬더는 재빨리 보랜스노의 손을 낚아채 립스틱을 떨어뜨리게 했다.+하지만 튕겨나온 립스틱 뚜껑은 단지 겉면에 반짝이는 거울이 붙은 평범한 뚜껑일 뿐이었다.
-Thunder50(2)<Speaker>썬더</Speaker>||:......?
-()<Speaker></Speaker>||:그때, 차가운 금속의 촉감이 썬더의 허리에 닿았다.
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1><BGM>BGM_Empty</BGM>:그리고 강렬한 전류가 그녀의 몸을 타고 흘렀다.
-Thunder50(2)<Speaker>썬더</Speaker>||:으윽...!
-Lewis(10)<Speaker>보랜스노</Speaker>||:굿 나잇, Ms. 썬더.+너희 같은 전술인형을 상대로 내가 방심할 리가 없잖니.
-()||<黑屏1>:
-()<Speaker>보랜스노</Speaker>||<黑屏2><BIN>9</BIN>:농담 아니야, 정말 높게 사고 있어. 그러니까 나머지도 열심히 잘해 봐~
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>367</BIN><BGM>BGM_Danger</BGM>:갑판 위.
+()<Speaker></Speaker>||:그리폰 인형들은 상황을 제대로 파악할 겨를도 없이 정신없이 달렸다.
+Lewis(9)<Speaker>루이스</Speaker>||:생각났다!
+Lewis(9);M200(4)<Speaker>M200</Speaker>||:뭐가요?!
+Lewis(9)<Speaker>루이스</Speaker>;M200(4)||:그 조각상, 발렌타인의 방에 있던 거야! 그 남자가 나한테 누명을 씌운 게 분명해!
+M200(4)<Speaker>M200</Speaker>||:네? 그럴 리가요! 우리 방엔 방범 장치도 있는걸요! 누가 억지로 들어왔다면 경보가 울렸을 거예요!
+Welrod(2)<Speaker>웰로드</Speaker>||:그것도 보랜스노에게 추궁해야겠군!
+Lewis(9)<Speaker>루이스</Speaker>;Welrod(2)||:뭐야, 지금 우리 보랜스노를 의심하는 거야?!
+Lewis(9);Welrod(2)<Speaker>웰로드</Speaker>||:단순한 의심이 아니다! 지금으로선 너무 많은 의문점이 그녀와 얽혀 있어!
+Lewis(9);M200(4)<Speaker>M200</Speaker>||:지금은 추격부터 따돌리고 숨는 게 우선이라 보는데요!
+Lewis(9)<Speaker>루이스</Speaker>;M200(4)||:우리가 왜 숨어야 해? 불지르지도 물건 훔치지도 않았는데! 다 그 발렌타인이란 놈의 모함이야!+이 난장판의 원인을 알아내지 못하면 계속 억울한 일만 당할 거라고!
+M200(4)<Speaker>M200</Speaker>||:엇, 저 모니터 좀 보세요!
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:긴급 경보. 절도 방화 사건이 발생했음을 알립니다. 용의자는 소속 불명의 전술인형으로, 현재 도주 중입니다.+감시 카메라 영상을 확인하시고, 용의자 목격 시 보안실에 즉시 연락하시되 안전을 위해 절대 용의자와 접촉하지 마십시오.
+M200(4)<Speaker>M200</Speaker>||:저희 수배당했어요...
+MDR(4)<Speaker>MDR</Speaker>||:말 안 해도 알아!
+M200(4)<Speaker>M200</Speaker>||:그런데, 저 녹화 영상은 뭐죠?+루이스 씨는 그때 분명 파티장에 있었잖아요! 왜 물건을 훔치는 모습이 찍힌 거예요?!
+Welrod(2)<Speaker>웰로드</Speaker>||:영문을 모르겠는 일이 꼬리에 꼬리를 물고...+전혀 휴가답지 않게 됐어...
+M200(4)<Speaker>M200</Speaker>||:그나저나, 썬더 씨가 안 보이는데 어디 갔는지 아는 분 있어요?
+()<Speaker></Speaker>||:그 말에 모두가 걸음을 멈췄고, 루이스도 홱 뒤돌아 일행을 확인했다.+웰로드와 MDR, M200, 그리고 자신. 4명뿐이었다.
+MDR(4)<Speaker>MDR</Speaker>||<BGM>BGM_Empty</BGM>:어...?
+Lewis(9)<Speaker>루이스</Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Room</BGM><BIN>9</BIN>:어느 방.
+()<Speaker></Speaker>||:잠겼어야 할 방의 문은 어째선지 슬며시 열려있었다.+아무런 소리도 없었지만, 방문객은 그 안에 찾는 사람이 있다고 확신했다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><BIN>97</BIN>:——!
+Thunder50(2)<Speaker>썬더</Speaker>||:루이스.
+()<Speaker></Speaker>||:썬더는 무언가를 증명하려는 듯 아주 나지막한 목소리였다.+그 목소리에 반응해 고개를 돌린 창가의 그림자는, 확실히 익숙한 얼굴이었다.
+Lewis(8)<Speaker>루이스</Speaker>||:......
+Lewis(8)<Speaker>루이스</Speaker>||<SE1>AVG_20Winter_Book</SE1>:아, 썬더! 이것 봐, 내가 발렌타인이 암거래상이란 증거를 찾았어! 역시, 그는 최근 뉴스에서 집중 보도하던 갱단의 우두머리였어! 국적 불문하고 전문적으로 무기를 밀매하는――
+Lewis(8);Thunder50(2)<Speaker>썬더</Speaker>||:그 증거가 뭔데?
+Lewis(8)<Speaker>루이스</Speaker>;Thunder50(2)||:발렌타인 본인이 직접 서명한 서류야! 거래 상대도 꽤 거물인 거 같은데?+후후후, 우리 이번에 대박 났어!
+Lewis(8);Thunder50(2)<Speaker>썬더</Speaker>||:보여 줄래?
+Lewis(8)<Speaker>루이스</Speaker>;Thunder50(2)||:응, 우선 다른 애들이랑 합류부터 하자.
+Thunder50(2)<Speaker>썬더</Speaker>||<SE1>Select</SE1>:그럴 필욘 없어요.
+()<Speaker></Speaker>||:썬더는 총의 안전 장치를 풀고, 총구를 눈앞의 "루이스"에게 겨눴다.
+Thunder50(2)<Speaker>썬더</Speaker>||<BGM>BGM_Empty</BGM>:그걸 손에 넣기 위해 우릴 미끼로 그의 주의를 돌렸군요.+그렇죠? 보랜스노 씨.
+Lewis(8)<Speaker>보랜스노</Speaker>||<BGM>BGM_Brain</BGM>:......+언제 눈치챘어?
+Lewis(8);Thunder50(2)<Speaker>썬더</Speaker>||:창문 밖으로 뛰어내린 이유가 너무 어설퍼서요.
+Lewis(10)<Speaker>보랜스노</Speaker>;Thunder50(2)||:어머, 그럼 처음부터잖아?+왜 바로 밝히지 않았어?
+Lewis(10);Thunder50(2)<Speaker>썬더</Speaker>||:루이스가 당신을 엄청 좋아하거든요.
+Lewis(10)<Speaker>보랜스노</Speaker>;Thunder50(2)||:그건... 진심으로 감격스러워.
+Lewis(10);Thunder50(2)<Speaker>썬더</Speaker>||:루이스는 오직 당신을 보고 싶어서 이 배에 올랐어요. 매일 동료들에게 당신에게 인기 투표를 해 달라고 부탁했죠.+하지만 역시 당신은 영화 속 캐릭터 같은 사람이 아니네요.
+Lewis(10);Thunder50(2)<Speaker>썬더</Speaker>||:제 눈에 당신은 천의 얼굴을 가진 예술가가 아니라, 정체불명의 교활한 사기꾼이에요.
+Lewis(10)<Speaker>보랜스노</Speaker>;Thunder50(2)||:그 말은 좀 속상한걸... 흠.+아무튼, 어떻게 날 찾아낸 거야?
+Lewis(10);Thunder50(2)<Speaker>썬더</Speaker>||:루이스의 옷에다 초소형 추적기를 달았죠.
+Lewis(10)<Speaker>보랜스노</Speaker>;Thunder50(2)||:내가 너희를 너무 얕봤구나.
+Lewis(10);Thunder50(2)<Speaker>썬더</Speaker>||:왜 이런 일을 벌였는지 말하세요. 들어줄게요.
+Lewis(10)<Speaker>보랜스노</Speaker>;Thunder50(2)||:어디서부터 시작하는 게 좋을까?
+Lewis(10);Thunder50(2)<Speaker>썬더</Speaker>||:창문에서 뛰어내려 일부러 루이스와 부딪힌 시점부터요.+아니면 우리가 전술인형임을 모르는 척하던 때부터도 좋겠죠.
+Lewis(10)<Speaker>보랜스노</Speaker>||:그건 정말 긴 이야기가 되겠는걸...
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>89</BIN>:다른 방.
+Lewis(9)<Speaker>루이스</Speaker>||:여기도 없어... 아 정말 대체 어디 간 거야!+만약... 만약 내 판단 때문에 썬더한테 무슨 일이 생겼으면...
+MDR(4)<Speaker>MDR</Speaker>||:얼씨구, 지금 자책하는 거야? 진심?+우린 전술인형이야, 이딴 데서 당하기라도 할까 봐?
+Welrod(2)<Speaker>웰로드</Speaker>||:아직도 보랜스노가 전혀 이상하지 않다고 생각하나?
+Lewis(9)<Speaker>루이스</Speaker>||:어쩜 정말로 갱단이...
+Welrod(2)<Speaker>웰로드</Speaker>||:정신 차려라, 루이스. 아무리 그녀가 네 우상이더라도 현실을 직시해.+감시 카메라에 포착된 그 모습은 너와 외견이 비슷한 그녀밖에 없어.
+Lewis(9)<Speaker>루이스</Speaker>||:하... 하지만 어째서...?
+M200(4)<Speaker>M200</Speaker>||:그 사람을 찾으면 알 수 있겠죠.+하지만 먼저 썬더 씨를 찾아야 해요.
+MDR(4)<Speaker>MDR</Speaker>||:하지만 어떻게? 아까부터 신호도 안 잡힌다고...
+Lewis(7)<Speaker>루이스</Speaker>||:발렌타인!
+MDR(4)<Speaker>MDR</Speaker>||:잉?
+Lewis(9)<Speaker>루이스</Speaker>||:보랜스노 님... 아니지.+보랜스노가 무슨 목적이든, 이 일의 실마리는 발렌타인에게 있어.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>85</BIN>:크루즈 어딘가의 컨퍼런스 룸.
+NPC_girill(0)<Speaker>발렌타인</Speaker>||:사장님, 설명 좀 부탁드려도 될까요?+그 인형들은 대체 뭡니까?
+NPC-Arla(0)<Speaker>뚱뚱한 남자</Speaker>||:설명해야 하는 건 그쪽 아닙니까?
+NPC_girill(3)<Speaker>발렌타인</Speaker>;NPC-Arla(0)||:설마 여기서도 당신 마음대로 해도 되는 줄 아시나 보죠?+제가 무력한 상인일 뿐이긴 하지만, 궁지에 몰리면 총도 당연히 쏩니다.
+NPC_girill(3)<Speaker>발렌타인</Speaker>;NPC-Arla(0)||:무슨 꿍꿍이길래 사람을 보내 제 계약서를 없앤 겁니까?+거기엔 당신들과의 거래만 있는 게 아닌데요.
+NPC_girill(3);NPC-Arla(0)<Speaker>뚱뚱한 남자</Speaker>||:그건 또 무슨 헛소립니까? 생사람 잡을 생각은 접어 두고, 우리가 어떻게 협력해야 할지나 생각하세요.
+NPC_girill(3)<Speaker>발렌타인</Speaker>;NPC-Arla(0)||:나 참... 사장님, "생선"이 죽어서 이제 "떡밥"을 뿌릴 이유도 사라졌어요.
+NPC-Arla(0)<Speaker>뚱뚱한 남자</Speaker>||:이놈이 설마 일부러...!+우리 뒤에 있는 게 누군지――
+()<Speaker></Speaker>||<震屏3><SE1>AVG_rifle_finalshot_h</SE1>:——!
+NPC_girill(0)<Speaker>발렌타인</Speaker>||:어휴 진짜, 귀찮아 죽겠네.
+NPC-Arla(0)<Speaker>뚱뚱한 남자</Speaker>||:너어어...!
+()<Speaker></Speaker>||<震屏3><SE1>AVG_rifle_finalshot_3h</SE1>:몇 차례 총성이 울린 뒤, 방바닥은 피로 흥건해졌다.
+NPC_girill(0)<Speaker>발렌타인</Speaker>||<SE1>ClothingUp</SE1>:여기 좀 깨끗하게 청소해 놔. 너랑 너, 나랑 같이 그 물 흐리는 금붕어들한테 따지러 가자.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>97</BIN><黑屏2>:보랜스노와 썬더가 대치 중인 어느 방.
+Thunder50(2)<Speaker>썬더</Speaker>||:어떻게 요약할지 다 생각했나요?
+Lewis(10)<Speaker>보랜스노</Speaker>||:그렇게 재촉하지 마~+여자란 원래 이렇게 좀 번거로운 법인걸.
+()<Speaker></Speaker>||<SE1>Select</SE1>:그렇게 말하면서도 수상쩍게 움직이는 보랜스노의 손을, 썬더는 넘어가지 않았다.
+Thunder50(2)<Speaker>썬더</Speaker>||:눈앞의 상대를 조금은 존중해 주시는 게 어떻겠어요? 대화 도중에 딴 마음 품지 마세요.
+Lewis(10)<Speaker>보랜스노</Speaker>||:딴 마음이라니? 그냥 말할 마음을 다잡으려는 거일 뿐이야, 너무 긴장하지 마.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:보랜스노는 썬더가 보는 앞에서 작은 주머니에서 물건 하나를 꺼냈다.+쥔 손을 천천히 펴 보이니, 그것은 어젯밤 썼던 것과 같은 립스틱이었다.
+Lewis(10)<Speaker>보랜스노</Speaker>||:우리한테 립스틱은 화장품이 아니라 무기란다.+단두대에 올라 최후를 맞이할지언정, 피로 입술을 붉게 칠할 거야.
+Lewis(10);Thunder50(2)<Speaker>썬더</Speaker>||:루이스 덕분에 당신의 영화는 잘 감상했습니다.+영화마다 정말 훌륭한 연기였어요, 과연 명배우랄까요? 이렇게 가까이서 세계 최고의 여배우의 연기를 공짜로 보게 되어 참 영광이에요.
+Lewis(10)<Speaker>보랜스노</Speaker>;Thunder50(2)||:고마워, 칭찬은 사양 않고 받을게.+그런데... 네가 여기서 날 노려본 지도 꽤 됐지? 동료들한테 연락도 없는 거 같은데 괜찮겠어?
+Thunder50(2)<Speaker>썬더</Speaker>||:......!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Error</SE1>:그 말에 썬더는 동료들에게 통신을 시도했지만, 점점 안색이 나빠졌다.+그 모습에 보랜스노는 미소를 띄우며 썬더에게 다가갔다.
+Lewis(10)<Speaker>보랜스노</Speaker>||:신호에 문제가 생긴 걸 드디어 깨달았구나.+생선을 잡으려던 새가 역으로 생선에게 잡아먹힌 기분은 어때?
+Lewis(10);Thunder50(2)<Speaker>썬더</Speaker>||:당장 멈춰――
+Lewis(10)<Speaker>보랜스노</Speaker>;Thunder50(2)||:내가 루이스의 옷을 훔칠 때도, 실은 네가 발견하길 기다리고서 움직인 거야.
+Lewis(10);Thunder50(2)<Speaker>썬더</Speaker>||:너... 무슨 속셈이야?
+Lewis(10)<Speaker>보랜스노</Speaker>||:슬슬 네 동료들도 눈치챘을 테지...
+()<Speaker></Speaker>||:보랜스노는 립스틱의 뚜껑을 다시 돌려 끼웠다.
+Thunder50(2)<Speaker>썬더</Speaker>||:눈치채다니, 뭘?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:금속 외피의 립스틱이 보랜스노의 손끝에서 빙글 반바퀴 돌자, 돌연 뚜껑이 퉁 튕겨나왔다.
+Thunder50(2)<Speaker>썬더</Speaker>||:――!!
+()<Speaker></Speaker>||<SE1>Rope</SE1>:썬더는 재빨리 보랜스노의 손을 낚아채 립스틱을 떨어뜨리게 했다.+하지만 튕겨나온 립스틱 뚜껑은 단지 겉면에 반짝이는 거울이 붙은 평범한 뚜껑일 뿐이었다.
+Thunder50(2)<Speaker>썬더</Speaker>||:......?
+()<Speaker></Speaker>||:그때, 차가운 금속의 촉감이 썬더의 허리에 닿았다.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1><BGM>BGM_Empty</BGM>:그리고 강렬한 전류가 그녀의 몸을 타고 흘렀다.
+Thunder50(2)<Speaker>썬더</Speaker>||:으윽...!
+Lewis(10)<Speaker>보랜스노</Speaker>||:굿 나잇, Ms. 썬더.+너희 같은 전술인형을 상대로 내가 방심할 리가 없잖니.
+()||<黑屏1>:
+()<Speaker>보랜스노</Speaker>||<黑屏2><BIN>9</BIN>:농담 아니야, 정말 높게 사고 있어. 그러니까 나머지도 열심히 잘해 봐~

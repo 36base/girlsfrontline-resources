@@ -1,61 +1,61 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>41</BIN><黑屏2>:어느 겨울.
-()<Speaker></Speaker>||:전쟁에 휘말려, 지옥으로 변한 변방의 한 도시.+불바다가 된 거리에는 "아군이 아닌 것"을 찾는 군용 인형들의 행렬뿐이었다.+그리고 그들이 저만치 멀어진 뒤에야, 허물어진 벽 뒤로 숨어있던 파파샤가 고개를 빼꼼 내밀었다.
-PPSh41(0)<Speaker>파파샤</Speaker>||<SE1>ClothingUp</SE1>:...후우.+<color=#A9A9A9>이 앞일 텐데...</color>
-()<Speaker></Speaker>||:파파샤는 폐허 사이에서 방향을 확인했다.
-()<Speaker></Speaker>||<SE1>Battlefield</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:그 와중에도 도시 여기저기서 수시로 일어나는 폭발이 발밑을 흔들었다.+그리고 그럴 때마다 폐허의 무너져 가는 벽돌 더미가 눈물처럼 모래 먼지를 흘리고, 찬바람과 함께 비명을 질렀다.+눈앞의 광경에, PPSh-41은 이틀 전의 일을 떠올렸다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>8</BIN><回忆><BGM>BGM_Room</BGM>:그리폰 지휘실.+의뢰 임무의 내용이 파파샤의 시각화 화면에 띄워졌다.
-PPSh41(0)<Speaker>파파샤</Speaker>||:구출 작전인가요?
-PPSh41(0)<Speaker>지휘관</Speaker><同时置暗>||:방산업 기술 전문가 파블로프. 의뢰인이 속히 그의 신병을 확보하기를 바라는데, 문제는 브리핑 내용대로 그가 지금 위험지대에 있다는 거야.+변방에서 무장 봉기를 일으킨 반군이 국도에 인접한 도시까지 진격했는데, 수비군은 현재 반격을 준비 중이라 바빠서 우리에게 의뢰했어.
-PPSh41(0)<Speaker>파파샤</Speaker>||:그렇군요.
-PPSh41(0)<Speaker>지휘관</Speaker><同时置暗>||:파블로프 본인도 이 의뢰를 알아. 그러니 접선 위치로 지정한 아파트에서 그와 합류해 후방까지 안전하게 호위해 오기만 하면 돼.
-PPSh41(0)<Speaker>파파샤</Speaker>||:알겠습니다.+...그것뿐인가요, 지휘관님?
-PPSh41(0)<Speaker>지휘관</Speaker><同时置暗>||:그래, 그게 다야. 다만 결코 쉬운 임무는 아니란다, 파파샤.+말이 반군이지, 놈들의 무력 수준은 정규군에 견줄 만한 데다, 장악한 구역을 철통 봉쇄 중이라 조금만 실수해도 발각당하고 말 거야.
-PPSh41(0)<Speaker>파파샤</Speaker>||:그렇다면...
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:파파샤의 마인드맵이 빠르게 회전했다.
-PPSh41(0)<Speaker>파파샤</Speaker>||:그렇다면, 신호를 차폐하고 통신 침묵을 유지하면 문제 없겠네요.+적의 이목을 끌 행동도, 사소한 충돌도 최대한 피하도록 할게요.+비상사태 시 현장의 상황에 따라 판단하겠습니다.
-PPSh41(0)<Speaker>지휘관</Speaker><同时置暗>||:그래, 그럼 조심해서 다녀오렴.
-PPSh41(0)<Speaker>파파샤</Speaker>||:알겠습니다!
-()||<黑屏1>:
-()<Speaker></Speaker>||<关闭蒙版><黑屏2><BIN>9</BIN><SE2>Gunfight</SE2><BGM>BGM_Empty</BGM>:타타타탕――
-()||<黑屏1>:
-PPSh41(0)<Speaker>파파샤</Speaker>||<黑屏2><BIN>159</BIN><BGM>BGM_Danger</BGM>:......!
-()<Speaker></Speaker>||:난잡한 폐허 너머로, 드디어 저 멀리 그 아파트의 윤곽이 보였다.+그런데 접선 위치여야 할 그곳에서 지금 총소리가 끊이질 않고 있었다.
-PPSh41(0)<Speaker>파파샤</Speaker>||:<color=#A9A9A9>저기서 교전이 벌어지고 있어...</color>+<color=#A9A9A9>감지되는 신호로 봐서는... 두 무리가 대치 중. 한 쪽은 적 군용 인형 2기고, 다른 쪽은... 인간인가?</color>+<color=#A9A9A9>수는 10여 명. 음, 파블로프 씨도 있을지도 몰라.</color>+<color=#A9A9A9>빨리 가서 확인해야 해.</color>
-()<Speaker></Speaker>||<SE1>RunStep</SE1>:거기까지 생각이 닿자, 파파샤는 걸음을 서둘렀다.
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>98</BIN><震屏3><SE1>AVG_Gunfire</SE1>:성치 않은 그 아파트에 가까워질 수록 총성도 점점 더 크게 들려왔다.+별 탈 없이 교전이 벌어지는 위치까지 접근한 파파샤는 잔해 사이로 몸을 굴려 숨어, 틈 사이로 적대적 신호의 근원을 육안으로 확인했다.
-PPSh41(0)<Speaker>파파샤</Speaker>||:<color=#A9A9A9>역시 반군의 군용 인형 2기.</color>+<color=#A9A9A9>그리고 교전 중인 상대는... 어? 군장도 없네?</color>
-()<Speaker></Speaker>||:민병대가 진지에 몸을 의탁해 필사적으로 반격하고 있었다.+단 2기뿐인 군용 인형에게 그들이 이미 상당한 피해를 입은 것은 어찌 보면 당연지사였다.
-PPSh41(0)<Speaker>파파샤</Speaker>||:<color=#A9A9A9>이대로는 저 사람들이 위험해...</color>+<color=#A9A9A9>파블로프 씨가 저들과 함께인진 몰라도, 내버려둘 순 없어!</color>
-()<Speaker></Speaker>||:이미 열세였던 민병대가 결국 후퇴하기 시작하자, 군용 인형들은 그 틈을 놓치지 않고 빠르게 전진했다.
-PPSh41(0)<Speaker>파파샤</Speaker>||:<color=#A9A9A9>지금이다!</color>
-()<Speaker></Speaker>||<震屏3><SE1>AVG_The_Division_Machine_Gun_Tower_Shooting</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=10</controll_shake>:그리고 파파샤도 그 기회를 놓치지 않았다. 군용 인형들이 엄폐물을 벗어날 때, 그들의 측후방을 노리고 방아쇠를 당겼다.
-()<Speaker>군용인형</Speaker>||:——!
-()<Speaker></Speaker>||:반군의 군용 인형은 옆의 동료가 기습으로 쓰러지기가 무섭게 뒤돌아 반격하려 했지만, 이미 파파샤의 수류탄이 그 발밑에 정확히 던져진 후였다.
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:콰앙!
-()<Speaker></Speaker>||:폭발과 함께, 방금까지 우위를 점하던 군용 인형들은 고철이 되어버렸다.
-()<Speaker></Speaker>||:한편, 후퇴하느라 정신이 없던 민병대는 갑자기 적이 쓰러지자 잠시 상황을 파악하지 못했다.+고개를 들어 두리번대는 그들을 향해 파파샤가 멀리서 손을 흔다, 의뢰인이 제고한 사진 속 인물과 일치하는 얼굴이 보였다.
-PPSh41(0)<Speaker>파파샤</Speaker>||:찾았다, 파블로프 씨.+정말 여기 있었구나...
-()<Speaker></Speaker>||:......
-()||<黑点1>:
-PPSh41(0)<Speaker>파파샤</Speaker>||<黑点2><BGM>m_avg_casual</BGM>:반갑습니다, 저는 그리폰의 전술인형 파파샤입니다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:민병들과 합류한 파파샤는 먼저 손을 내밀었다.
-()<Speaker>민병</Speaker>||:정말 감사합니다! 당신 아니었음 우리 모두 죽은 목숨이었어요!
-PPSh41(0)<Speaker>파파샤</Speaker>||:천만에요, 마땅히 해야 할 일인걸요.
-()<Speaker>민병</Speaker>||:혹시 수비군이 보낸 지원입니까?
-PPSh41(0)<Speaker>파파샤</Speaker>||:아뇨, 사람을 찾으러 왔어요.
-()<Speaker>민병</Speaker>||:누구를... 말인지?
-()<Speaker></Speaker>||:파파샤는 말 대신 사람들 사이서 부상자에게 붕대를 감아 주고 있는 파블로프를 가리켰다.
-()<Speaker></Speaker>||:그러자 시선을 눈치챈 듯, 파블로프는 고개를 그들 쪽으로 돌렸다.+그도 다른 민병들처럼 무기를 들고 있었다.+다만 한 가지 다른 점이라면, 그의 가슴팍에는 구식 훈장 2개가 달려있었다.
-()<Speaker>민병</Speaker>||:파블로프 씨, 이 인형 아가씨가 찾으시는 것 같습니다.
-()<Speaker></Speaker>||:파블로프는 부상자의 조치를 끝낸 뒤 다가왔다.
-PPSh41(0)<Speaker>파파샤</Speaker>||:파블로프 씨, 처음 뵙겠습니다.+저는 그리폰의 전술인형 파파샤입니다. 의뢰인의 요청을 받고 호송을 위해 왔습니다.
-NPC-Arla(0)<Speaker>파블로프</Speaker>||:파파샤라. 방금 전의 지원은 대단히 감사하네.
-PPSh41(0)<Speaker>파파샤</Speaker>||:별 말씀을요. 그 전투로 이곳의 상황이 얼마나 심각한지 알았어요. 하지만 안심하세요.+의뢰인의 요청에 따라, 당신을 이 분쟁지대에서 수비군 주둔지의 후방까지 안전히 모시겠습니다!
-NPC-Arla(0)<Speaker>파블로프</Speaker>||:......
-()<Speaker></Speaker>||:보통, 구출받는 사람은 이 말을 들으면 얼굴에 화색이 돈다. 하지만 파블로프는 딱히 기쁜 기색이 아니었다.+그는 곁의 동료를 잠깐 바라보곤, 다시 시선을 파파샤에게 돌렸다.
-NPC-Arla(0)<Speaker>파블로프</Speaker>||:말은 고맙네만... 아직은 갈 수 없네.
-PPSh41(0)<Speaker>파파샤</Speaker>||:......+......네?!
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>41</BIN><黑屏2>:어느 겨울.
+()<Speaker></Speaker>||:전쟁에 휘말려, 지옥으로 변한 변방의 한 도시.+불바다가 된 거리에는 "아군이 아닌 것"을 찾는 군용 인형들의 행렬뿐이었다.+그리고 그들이 저만치 멀어진 뒤에야, 허물어진 벽 뒤로 숨어있던 파파샤가 고개를 빼꼼 내밀었다.
+PPSh41(0)<Speaker>파파샤</Speaker>||<SE1>ClothingUp</SE1>:...후우.+<color=#A9A9A9>이 앞일 텐데...</color>
+()<Speaker></Speaker>||:파파샤는 폐허 사이에서 방향을 확인했다.
+()<Speaker></Speaker>||<SE1>Battlefield</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:그 와중에도 도시 여기저기서 수시로 일어나는 폭발이 발밑을 흔들었다.+그리고 그럴 때마다 폐허의 무너져 가는 벽돌 더미가 눈물처럼 모래 먼지를 흘리고, 찬바람과 함께 비명을 질렀다.+눈앞의 광경에, PPSh-41은 이틀 전의 일을 떠올렸다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>8</BIN><回忆><BGM>BGM_Room</BGM>:그리폰 지휘실.+의뢰 임무의 내용이 파파샤의 시각화 화면에 띄워졌다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:구출 작전인가요?
+PPSh41(0)<Speaker>지휘관</Speaker><同时置暗>||:방산업 기술 전문가 파블로프. 의뢰인이 속히 그의 신병을 확보하기를 바라는데, 문제는 브리핑 내용대로 그가 지금 위험지대에 있다는 거야.+변방에서 무장 봉기를 일으킨 반군이 국도에 인접한 도시까지 진격했는데, 수비군은 현재 반격을 준비 중이라 바빠서 우리에게 의뢰했어.
+PPSh41(0)<Speaker>파파샤</Speaker>||:그렇군요.
+PPSh41(0)<Speaker>지휘관</Speaker><同时置暗>||:파블로프 본인도 이 의뢰를 알아. 그러니 접선 위치로 지정한 아파트에서 그와 합류해 후방까지 안전하게 호위해 오기만 하면 돼.
+PPSh41(0)<Speaker>파파샤</Speaker>||:알겠습니다.+...그것뿐인가요, 지휘관님?
+PPSh41(0)<Speaker>지휘관</Speaker><同时置暗>||:그래, 그게 다야. 다만 결코 쉬운 임무는 아니란다, 파파샤.+말이 반군이지, 놈들의 무력 수준은 정규군에 견줄 만한 데다, 장악한 구역을 철통 봉쇄 중이라 조금만 실수해도 발각당하고 말 거야.
+PPSh41(0)<Speaker>파파샤</Speaker>||:그렇다면...
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:파파샤의 마인드맵이 빠르게 회전했다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:그렇다면, 신호를 차폐하고 통신 침묵을 유지하면 문제 없겠네요.+적의 이목을 끌 행동도, 사소한 충돌도 최대한 피하도록 할게요.+비상사태 시 현장의 상황에 따라 판단하겠습니다.
+PPSh41(0)<Speaker>지휘관</Speaker><同时置暗>||:그래, 그럼 조심해서 다녀오렴.
+PPSh41(0)<Speaker>파파샤</Speaker>||:알겠습니다!
+()||<黑屏1>:
+()<Speaker></Speaker>||<关闭蒙版><黑屏2><BIN>9</BIN><SE2>Gunfight</SE2><BGM>BGM_Empty</BGM>:타타타탕――
+()||<黑屏1>:
+PPSh41(0)<Speaker>파파샤</Speaker>||<黑屏2><BIN>159</BIN><BGM>BGM_Danger</BGM>:......!
+()<Speaker></Speaker>||:난잡한 폐허 너머로, 드디어 저 멀리 그 아파트의 윤곽이 보였다.+그런데 접선 위치여야 할 그곳에서 지금 총소리가 끊이질 않고 있었다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:<color=#A9A9A9>저기서 교전이 벌어지고 있어...</color>+<color=#A9A9A9>감지되는 신호로 봐서는... 두 무리가 대치 중. 한 쪽은 적 군용 인형 2기고, 다른 쪽은... 인간인가?</color>+<color=#A9A9A9>수는 10여 명. 음, 파블로프 씨도 있을지도 몰라.</color>+<color=#A9A9A9>빨리 가서 확인해야 해.</color>
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:거기까지 생각이 닿자, 파파샤는 걸음을 서둘렀다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>98</BIN><震屏3><SE1>AVG_Gunfire</SE1>:성치 않은 그 아파트에 가까워질 수록 총성도 점점 더 크게 들려왔다.+별 탈 없이 교전이 벌어지는 위치까지 접근한 파파샤는 잔해 사이로 몸을 굴려 숨어, 틈 사이로 적대적 신호의 근원을 육안으로 확인했다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:<color=#A9A9A9>역시 반군의 군용 인형 2기.</color>+<color=#A9A9A9>그리고 교전 중인 상대는... 어? 군장도 없네?</color>
+()<Speaker></Speaker>||:민병대가 진지에 몸을 의탁해 필사적으로 반격하고 있었다.+단 2기뿐인 군용 인형에게 그들이 이미 상당한 피해를 입은 것은 어찌 보면 당연지사였다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:<color=#A9A9A9>이대로는 저 사람들이 위험해...</color>+<color=#A9A9A9>파블로프 씨가 저들과 함께인진 몰라도, 내버려둘 순 없어!</color>
+()<Speaker></Speaker>||:이미 열세였던 민병대가 결국 후퇴하기 시작하자, 군용 인형들은 그 틈을 놓치지 않고 빠르게 전진했다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:<color=#A9A9A9>지금이다!</color>
+()<Speaker></Speaker>||<震屏3><SE1>AVG_The_Division_Machine_Gun_Tower_Shooting</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=10</controll_shake>:그리고 파파샤도 그 기회를 놓치지 않았다. 군용 인형들이 엄폐물을 벗어날 때, 그들의 측후방을 노리고 방아쇠를 당겼다.
+()<Speaker>군용인형</Speaker>||:——!
+()<Speaker></Speaker>||:반군의 군용 인형은 옆의 동료가 기습으로 쓰러지기가 무섭게 뒤돌아 반격하려 했지만, 이미 파파샤의 수류탄이 그 발밑에 정확히 던져진 후였다.
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:콰앙!
+()<Speaker></Speaker>||:폭발과 함께, 방금까지 우위를 점하던 군용 인형들은 고철이 되어버렸다.
+()<Speaker></Speaker>||:한편, 후퇴하느라 정신이 없던 민병대는 갑자기 적이 쓰러지자 잠시 상황을 파악하지 못했다.+고개를 들어 두리번대는 그들을 향해 파파샤가 멀리서 손을 흔다, 의뢰인이 제고한 사진 속 인물과 일치하는 얼굴이 보였다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:찾았다, 파블로프 씨.+정말 여기 있었구나...
+()<Speaker></Speaker>||:......
+()||<黑点1>:
+PPSh41(0)<Speaker>파파샤</Speaker>||<黑点2><BGM>m_avg_casual</BGM>:반갑습니다, 저는 그리폰의 전술인형 파파샤입니다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:민병들과 합류한 파파샤는 먼저 손을 내밀었다.
+()<Speaker>민병</Speaker>||:정말 감사합니다! 당신 아니었음 우리 모두 죽은 목숨이었어요!
+PPSh41(0)<Speaker>파파샤</Speaker>||:천만에요, 마땅히 해야 할 일인걸요.
+()<Speaker>민병</Speaker>||:혹시 수비군이 보낸 지원입니까?
+PPSh41(0)<Speaker>파파샤</Speaker>||:아뇨, 사람을 찾으러 왔어요.
+()<Speaker>민병</Speaker>||:누구를... 말인지?
+()<Speaker></Speaker>||:파파샤는 말 대신 사람들 사이서 부상자에게 붕대를 감아 주고 있는 파블로프를 가리켰다.
+()<Speaker></Speaker>||:그러자 시선을 눈치챈 듯, 파블로프는 고개를 그들 쪽으로 돌렸다.+그도 다른 민병들처럼 무기를 들고 있었다.+다만 한 가지 다른 점이라면, 그의 가슴팍에는 구식 훈장 2개가 달려있었다.
+()<Speaker>민병</Speaker>||:파블로프 씨, 이 인형 아가씨가 찾으시는 것 같습니다.
+()<Speaker></Speaker>||:파블로프는 부상자의 조치를 끝낸 뒤 다가왔다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:파블로프 씨, 처음 뵙겠습니다.+저는 그리폰의 전술인형 파파샤입니다. 의뢰인의 요청을 받고 호송을 위해 왔습니다.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:파파샤라. 방금 전의 지원은 대단히 감사하네.
+PPSh41(0)<Speaker>파파샤</Speaker>||:별 말씀을요. 그 전투로 이곳의 상황이 얼마나 심각한지 알았어요. 하지만 안심하세요.+의뢰인의 요청에 따라, 당신을 이 분쟁지대에서 수비군 주둔지의 후방까지 안전히 모시겠습니다!
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:......
+()<Speaker></Speaker>||:보통, 구출받는 사람은 이 말을 들으면 얼굴에 화색이 돈다. 하지만 파블로프는 딱히 기쁜 기색이 아니었다.+그는 곁의 동료를 잠깐 바라보곤, 다시 시선을 파파샤에게 돌렸다.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:말은 고맙네만... 아직은 갈 수 없네.
+PPSh41(0)<Speaker>파파샤</Speaker>||:......+......네?!
+()||<黑点1>:

@@ -1,120 +1,120 @@
-()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()<Speaker></Speaker>||<BIN>97</BIN><Night><BGM>m_va_showtime</BGM><黑屏2>:
-Dorothy(0)<Speaker>도로시</Speaker>||:으응...+여긴... 어디지...+왜 이렇게...+숨이 가쁘지...?
-Dorothy(2)<Speaker>도로시</Speaker><Shake>||:뭐야, 왜 내 다리가 멋대로 움직이고 있어!?+여기 어디야! 나 지금 어디로 가는 거야?!
-Stella(0)<Speaker>스텔라</Speaker>;Dorothy(2)||:소리 지르지 마, 시끄러워. 정신도 차렸겠다, 화이트 나이트한테 잡히기 싫으면 달리기에 집중해!
-Stella(0);Dorothy(2)<Speaker>도로시</Speaker>||:스텔라??
-Stella(0);Dorothy(2)<Speaker>도로시</Speaker>||:이게 대체 어떻게 된 일이야? 나... 언니한테 몸을 빼앗기지 않았어?
-Stella(0)<Speaker>스텔라</Speaker>;Dorothy(2)||:어째선지 안나가 갑자기 네 몸에서 빠져나갔어. 기절한 너를 거기에 버리고 갈 수도 없는 노릇이라, 내가 널 해킹해서 조종한 거고!
-Stella(2)<Speaker>스텔라</Speaker>;Dorothy(2)||:...왜 그래?
-Stella(0);Dorothy(5)<Speaker>도로시</Speaker>||:아, 아무것도 아니야...
-Stella(0);Dorothy(5)<Speaker>도로시</Speaker>||:그... 그냥... 이렇게... 당하는 느낌도...
-Stella(2)<Speaker>스텔라</Speaker>;Dorothy(5)||:안나가 또 무슨 속셈인지는 모르겠지만, 당장 여기서 도망쳐야 해!
-Stella(0);Dorothy(5)<Speaker>도로시</Speaker>||:침입해서... 조종...+이... 이런 방법도 있었다니...
-Stella(2)<Speaker>스텔라</Speaker>;Dorothy(5)||:...도로시?+너 상태가 이상한데...? 네 AI에 오류라도 생겼나 봐. 강제 원격 조종을 너무 오래 지속한 탓인가...+나중에 캐시 메모리를 정리하고, 과열된 모듈도 냉각――
-Dorothy(5)<Speaker>도로시</Speaker><Shake>||:으하아앙――♥+더는 못 참아――!!
-()||<SE1>Runstep</SE1>:도로시가 느닷없이 전속력으로 달음박질쳤다.
-Stella(0)<Speaker>스텔라</Speaker>||:도로시, 멈춰! 그 앞엔――!
-Dorothy(5)<Speaker>도로시</Speaker>||:스텔라――! 내 안에 침입해 줘! 강제로 명령을 내려!! 내 캐시 메모리를 잔뜩 점유해줘! 내 모듈을 과열시켜줘!!
-()||<震屏>:꽈당!!
-Stella(2)<Speaker>스텔라</Speaker>||:어... 도로시? 너 괜찮아?
-Stella(2);Dorothy(2)<Speaker>도로시</Speaker>||:으으...+벽에 부딪혔어. 자가진단 좀 해야지...
-Stella(0)<Speaker>스텔라</Speaker>||:그럴 시간 없으니까 빨리 일어나! 아직 화이트 나이트가 쫓아오고 있단 말이야!
-()||:스텔라는 도로시가 부딪친 벽을 보고 아연실색했다.
-Stella(2)<Speaker>스텔라</Speaker>||:뭐야? 왜 막다른 길이지?!+건축 설계도상 여기에 통로가 있어야 하는데!
-Stella(2)<Speaker>？？</Speaker>||:그야, 비밀 통로니까.
-Stella(2)<Speaker>스텔라</Speaker>||:벽 뒤에서 소리가...?!+이... 이 목소리...!+세이!
-()||<SE1>AVG_door_elecport</SE1>:막다른 복도의 벽이 천천히 열리더니, 화이트 나이트 대원 한 명이 모습을 드러냈다.
-Sei(0)<Speaker>세이</Speaker>||:오랜만이야, 스텔라.
-Sei(0);Stella(0)<Speaker></Speaker>||<SE1>ClothingUp</SE1>:스텔라는 잠시 넋을 잃더니, 세이를 부둥켜안았다.
-Sei(0);Stella(3)<Speaker>스텔라</Speaker>||:아...+세상에...+내가 꿈을 꾸는 건 아니겠지?+여기서 죽어도 여한이 없을 거 같아...
-Sei(4)<Speaker>세이</Speaker>;Stella(3)||:하하, 그러면 내가 여기에 온 의미가 없잖아.
-Dorothy(0)<Speaker>도로시</Speaker>||:으으... 이제야 좀 정신이 맑아졌네.
-Dorothy(5)<Speaker>도로시</Speaker>||:너희들 뭘 꾸물거리고 있어! 얼른 여기서 나가야지!
-Sei(2)<Speaker>세이</Speaker>||<黑屏1>:만나서 반갑습니다, 도로시 총리.+화이트 나이트 765 블리츠크리그 군단 소속, 세이 P. 아사기리입니다. 당신을 구출하러 왔습니다.
-()||<BIN>46</BIN><黑屏2><BGM>BGM_Empty</BGM>:세이는 둘을 비밀 통로 안으로 들여보낸 뒤 문을 닫았다.
-()||<BGM>m_va_follow_the_trail</BGM><SE1>AVG_footsteps_cave</SE1>:세 사람은 어두운 비밀 통로를 따라 아래층으로 이동했다.
-Stella(3)<Speaker>스텔라</Speaker>||:네가 와서 다행이야... 세이, 설마 네가 이곳에 올 줄은...
-Sei(0)<Speaker>세이</Speaker>;Stella(3)||:오는 길에 정말 많은 이야기를 들었어. 도로시 총리, 안나, 그리고 너에 관한 이야기를.+네가 있다는 말을 듣자마자 곧장 달려왔어. 늦지 않아서 정말 다행이야.
-Sei(0);Dorothy(0)<Speaker>도로시</Speaker>||:이런 곳에 비밀 통로가 다 있었어? 나도 몰랐는데!
-Sei(0)<Speaker>세이</Speaker>;Dorothy(0)||:여긴 화이트 나이트의 비상 이동 통로입니다. 대장급 대원만이 사용 권한을 갖고 있죠.+10분 정도만 가면 시청의 뒷문으로 빠져나갈 수 있을 겁니다.
-Sei(0);Stella(0)<Speaker>스텔라</Speaker>||:하지만 넌 부대장이잖아?
-Sei(0)<Speaker>세이</Speaker>;Stella(0)||:그렇지. 하지만 제리코 대장이 내게도 권한을 줬어.+원주민은 목숨이 하나뿐이니, 나한테 더 쓸모 있을 거라면서.
-Stella(2)<Speaker>스텔라</Speaker>||:세이...+제리코는 어떻게 됐어?
-()||:세이는 한숨을 내뱉었다.
-Sei(3)<Speaker>세이</Speaker>||:스텔라... 나한테 그런 일을 시키고서 어떻게 됐냐고 묻는 건 너무하지 않아?
-Sei(3);Stella(2)<Speaker>스텔라</Speaker>||:미안해...+하지만... 인형은 마인드맵을 백업할 수 있잖아...+네가 제리코를... 그러면 전부 없었던 일로 할 수――
-Sei(3)<Speaker>세이</Speaker>;Stella(2)||:이걸 어떻게 없었던 일로 해!?+내가 무슨 짓을 했는지 보라고! 제리코 대장은 잊어버리겠지. 하지만 난? 난 어떡해?! 이 일을 평생 기억할 텐데!
-Sei(3);Stella(0)<Speaker>스텔라</Speaker>||:미안해... 정말 미안해... 내가 너까지 끌어들여서...+내가 어떻게든 방법을 찾아볼게... 기억 소거 수술이라든지...
-Sei(2)<Speaker>세이</Speaker>;Stella(0)||<BGM>BGM_Empty</BGM>:난 제리코 대장을 죽이지 않았어.
-Sei(2);Stella(2)<Speaker>스텔라</Speaker>||<BGM>m_va_hopes_and_dreams</BGM>:뭐...?
-Sei(0)<Speaker>세이</Speaker>;Stella(2)||:처음엔 정말 급소를 노리고 쐈어. 차라리 그러는 게 마음이 편할까 싶어서.+하지만 빗맞혔어. 그리고... 도저히 다시 쏠 수가 없었어.+그래서 바깥에 두고 왔어. 정신이 들면 구조를 요청할 수 있는 곳에... 그러면 분명 살아남을 거라고, 그리고 대장이라면 그래도 우리의 편을 들어줄 거라고 믿었으니까.
-Sei(0);Stella(0)<Speaker>스텔라</Speaker>||:그랬구나... 하지만 그것도 결국 헛수고가 됐어.+내 계획 대로였다면... 우산 바이러스로 모든 그리폰 인형을 조종해서, 도로시를 붙잡고 안나를 끄집어내면 전부 해결될 거라고 생각했는데...
-Sei(0)<Speaker>세이</Speaker>;Stella(0)||<BGM>BGM_Empty</BGM>:그건 그렇고, 어떻게 철혈의 우두머리가 된 거야?
-Sei(0);Stella(2)<Speaker>스텔라</Speaker>||<BGM>m_va_troubling_news</BGM>:세계 최고의 해커... 알마에게 철혈을 조사해 달라 의뢰했거든.+그리고 물건을 받기로 한 날 밤, 알마가 화이트 나이트에게 체포돼서... 당황했어.
-Dorothy(2)<Speaker>도로시</Speaker><Shake>;Stella(0)||:나, 난 그런 일이 있었는지도 몰랐어! 언니가 또... 분명 언니가 한 짓일 거야...
-Dorothy(2);Stella(2)<Speaker>스텔라</Speaker>||:그래도 알마와 사전에 약속한 대로, 임무를 맡은 인형과의 접선 장소로 가 봤어.+Super-Shorty와 IDW는 없었지만, 적어도 임무를 완수했다는 것만은 알 수 있었지...+...철혈의 엘더 브레인, 엘리사의 소체가 접선 장소에 있었으니까.
-Dorothy(2);Stella(2)<Speaker>스텔라</Speaker>||:난 그들의 희생을 헛되이 하지 않기 위해서, 엘리사를 연구해 지휘 모듈을 적출해서 내 것으로 만들었어.+그리고 그 후로 줄곧 진실이 무엇인지 조사했던 거야. 철혈, 테라 컴퓨터, 그리고 안나에 대해서...
-Sei(2)<Speaker>세이</Speaker>;Stella(2)||:정말 너다운 행보구나, 스텔라.
-Sei(2);Stella(0)<Speaker>스텔라</Speaker>||:그리폰 시티를 구해내겠다고 내 모든 것을 걸고 맹세했는데...+그런데... 사태가 도저히 손을 쓸 수 없을 정도로 폭주했어. 완전히 내 예상 밖이야...
-Sei(2)<Speaker>세이</Speaker>;Stella(0)||:모든 일을 컨트롤하는 건 불가능해, 스텔라.+넌 어릴 적부터 그랬어. 항상 타인을 위하지만... 너 자신에겐 자꾸 너무 엄격하게 굴어.+과하게 이성적으로 판단하고, 언제나 혼자서 모든 문제를 짊어지려고 해. 그래서 다른 사람들의 생각을 알아채지 못하게 되고...
-Sei(2);Stella(0)<Speaker>스텔라</Speaker>||:나는... 납득할 수 있는 대가로 좋은 결과를 얻을 수 있다면, 옳은 판단이라 여기고 실행했을 뿐이야.
-Sei(2)<Speaker>세이</Speaker>;Stella(0)||:그래, 네 말이 옳아. 하지만 항상 옳을 수만은 없잖아. 뭐든지 혼자서 해결할 수는 없잖아.+명령보다 확실한 건 신뢰야. 나를 믿는 것처럼, 다른 사람들도 믿어 봐.
-Dorothy(0)<Speaker>도로시</Speaker>;Stella(0)||:맞아 맞아! 미리 나랑 얘기했다면 너나 나나 지금보단 상황이 훨씬 나았을 거야!
-Dorothy(0);Stella(0)<Speaker>스텔라</Speaker>||:하, 하지만! 성과를 얻기는 했잖아!?+적어도 안나가 모습을 드러내게 해서, 모든 사건의 원흉임을 밝혀냈잖아?!
-Dorothy(4)<Speaker>도로시</Speaker>;Stella(0)||:그래 그래. 그래서 우리 언니는 지금 어디 있는데?
-Dorothy(4);Stella(0)<Speaker>스텔라</Speaker>||:바로 그게 문제야. 하지만 난 세상에 존재할 수 없는 사람이 정말로 존재할 거라고는 믿지 않아.
-Sei(4)<Speaker>세이</Speaker>;Stella(0)||:후후, 무슨 발음 테스트야?+난 이번에도 네가 옳으리라 믿어. 내가 본 사람들 중에서 가장 똑똑한 사람이니까, 분명 단서를 찾아낼 수 있을 거야.
-Sei(4);Stella(2)<Speaker>스텔라</Speaker>||:하지만 이번만큼은 나도 잘 모르겠어...+이번 상대는 내 상식을 벗어났어. 어쩌면 그녀 말대로 "신"일지도 몰라...
-Sei(3)<Speaker>세이</Speaker>;Stella(2)||:아니면 그냥 유령이든가. 스텔라, 그 "안나"란 사람이 누군지, 무엇인지는 아무 상관없어.+내가 예전에 아폴로 신용 은행에서 철혈에게 둘러싸였을 때, 네가 뭐라고 했는지 기억나?
-Sei(3);Stella(0)<Speaker>스텔라</Speaker>||:...사람은 마지막 순간에야 희망을 잃는다.
-Sei(4)<Speaker>세이</Speaker>;Stella(0)||:그래, 그거. 그 말을 듣고, 난 건물에서 뛰어내려서 목숨을 건졌지.+아직 "마지막" 순간은 아니야, 스텔라. 힘내.
-Sei(4);Stella(3)<Speaker>스텔라</Speaker>||:그래...+너와 함께니, 아직 최악의 상황은 아니야... 아직 희망은 있어.+하지만, 이젠 나 혼자서는 안 돼.+도로시, 안나에 대해서 정말 아는 게 하나도 없어? 뭐라도 좋으니까 잘 생각해 봐.
-Dorothy(4)<Speaker>도로시</Speaker>;Stella(3)||:음...+아, 원주민 거주구 VA-11번지의 술집 알아? 길모퉁이에 있는 데.
-Dorothy(4);Stella(0)<Speaker>스텔라</Speaker>||:그 술집... *키라* 미키의 블로그에서 본 적 있어. 몇 번 가보기도 했고. 그런데 거기가 왜?
-Dorothy(4);Sei(0)<Speaker>세이</Speaker>||:VA-11 Hall-A 말인가요?
-Dorothy(6)<Speaker>도로시</Speaker>||:응, 거기! 다들 가본 적 있나 보네? 나도 여러 번 갔어!+그리고 안나 언니가 거기에 대해서 말한 적이 있어...+그곳이... 모든 것의 시작점이라고.
-Dorothy(6);Stella(0)<Speaker>스텔라</Speaker>||:모든 것의 시작점? 인간 거주구의 술집이?+그 술집에 무슨 특별한 점이라도 있어?
-Sei(0)<Speaker>세이</Speaker>;Stella(0)||:나도 몇 시간 전에 처음 가본 거야. 제리코 대장이 추천해 주셔서.+비누 냄새랑 개오줌 냄새가 진동하지만, 오너가 흥미로운 사람이었어. 하지만 술집 자체는 평범했어.+오히려... 다른 술집들보다도 더 평범한 곳이야. 바텐더가 노출이 심한 복장을 입은 것도 아니고, 쌍절곤 묘기를 부리는 것 같은 퍼포먼스도 없었어.
-Sei(0);Stella(0)<Speaker>스텔라</Speaker>||:그래도 가봐야 해. 어떤 비밀이 숨겨져 있는 걸지도 몰라.
-Sei(3)<Speaker>세이</Speaker>;Stella(0)||:위험하진 않을까? 안나가 지금 그곳에 있다면...
-Sei(3);Stella(0)<Speaker>스텔라</Speaker>||:아니, 안나는 거기에 없을 거야. 갑자기 도로시의 몸에서 빠져나가더니, 여태 다시 돌아오지 않았어. 분명 무슨 일이 생긴 거야.+하지만 만일을 대비해서... 세이, 제리코에게 연락해서 화이트 나이트 대원 몇 명을 보내달라고 부탁해 줘.
-Sei(3)<Speaker>세이</Speaker>;Stella(0)||:알았어. 하지만 과연 허가해줄지...
-Dorothy(4)<Speaker>도로시</Speaker>;Stella(0)||:지금 그리폰 시티 전체가 난장판이라고. 세상을 구하고 싶은 건 우리뿐만이 아닐걸? 분명 다른 사람들도 나름대로 노력하고 있을 거야!+물론, 여기서 그 술집까지 가려면 도중에 성가신 녀석들이 잔뜩이겠지만.
-Sei(3)<Speaker>세이</Speaker>;Stella(0)||:지금 바로 그 성가신 녀석들을 만날 거예요.+여러분, 이제 시청 밖으로 나갑니다. 문 앞엔 폭주한 기갑 유닛이 적어도 10기는 우릴 기다리고 있겠죠.
-Sei(3);Stella(0)<Speaker>스텔라</Speaker>||:시간을 끌어 줘. 인형을 최대한 많이 제어해서 우릴 돕게 하겠어.
-Sei(3);Dorothy(6)<Speaker>도로시</Speaker>||:그런 거라면 이 댄져러스한 도로시한테 맡겨! 이런 상황을 대비해서 몸을 개조했거든!
-Sei(3)<Speaker>세이</Speaker>;Dorothy(6)||:그 두 손은 MIRD113? 그렇다면...
-Sei(3);Dorothy(3)<Speaker>도로시</Speaker>||<SE1>AVG_weapon_reload</SE1>:손끝에서 5등급 총탄 발사 가능! 그래서 경호원을 많이 안 뒀던 거라구!
-Sei(2)<Speaker>세이</Speaker>||<白屏1>:준비되셨나요? 문을 엽니다!
-()<Speaker></Speaker>||<BIN>166</BIN><night><BGM>BGM_Empty</BGM><白屏2>:
-()||<BGM>m_va_digital_drive</BGM><SE1>AVG_door_storehouse</SE1>:세이는 무기를 단단히 쥐고서, 비밀 통로의 출구 문을 열었다.
-()||<SE2>Gunfight</SE2>:타탕! 탕!
-()||:그리고 세 사람의 눈앞에 펼쳐진 광경은, 격전이 벌어지고 있는 시청 앞 광장과 지면을 뒤덮고 있는 화이트 나이트 기갑 유닛의 잔해들이었다.
-NPC-Bodyguard1(0)<Speaker>인간 경호원</Speaker>||:도로시 총리, 무사하십니까!?
-NPC-Jason(0)<Speaker>인간 기자 K</Speaker>||:이제야 나오셨군!
-Dorothy(0)<Speaker>도로시</Speaker>||:하하하, 거 봐, 내가 원주민은 믿음직하다고 했지!
-Sei(2)<Speaker>세이</Speaker>;Dorothy(0)||:현장에 있는 모두에게 우리가 건물에서 나올 때까지만 시간을 벌어달라고 부탁했습니다만...+설마... 이렇게 잘 싸울 줄은 몰랐네요.
-Dorothy(6)<Speaker>도로시</Speaker>||:스텔라, 가끔은 우산 바이러스 없이도 모두의 도움을 받을 수 있다고.
-Stella(0)<Speaker>스텔라</Speaker>||:명령보다 확실한 건, 신뢰...
-WA2000(0)<Speaker>WA2000</Speaker><通讯框>||:<color=#00CCFF>...슨 로즈가 스텔라에게.</color>+<color=#00CCFF>...네 왼쪽이야.</color>
-()||<SE1>AVG_rifle_finalshot_h</SE1>:타앙!
-()||<SE2>AVG_weapon_reload</SE2>:스텔라 일행을 향해 돌진해오던 기갑 유닛이 철갑탄에 꿰뚫렸다.
-Stella(0)<Speaker>스텔라</Speaker>||:뭐야, 너 아직도 있었어?
-WA2000(0)<Speaker>WA2000</Speaker><通讯框>||:<color=#00CCFF>널 버리고 가면 내 보수는 누가 지불해?</color>
-Stella(3)<Speaker>스텔라</Speaker>||:...우리 모두 살아남으면 두 배로 줄게.+여러분! 아직 희망은 있습니다! 우리에게 힘을 빌려주세요!+하지만 더 이상 우산 바이러스를 쓰지 않겠습니다. 여러분의 의지로 우리를 도와주세요!
-MP5(0)<Speaker>MP5</Speaker>||:아, 저 사람은...
-MP446(0)<Speaker>MP-446</Speaker>||:아까 MP5를 넘어뜨린 이상한 원주민이잖아? 저 사람이 우릴――
-Dorothy(2)<Speaker>도로시</Speaker>||:그리폰 시티의 여러분! 내 말을 들어줘!+나는 지금까지 많은 잘못을 저지르고, 눈앞에 닥친 문제들을 회피하기만 했어...+하지만 이제 깨달았어. 거짓 없이 모두들, 인형들과 인간들, 그리고 나사들과 세포들을 보고 있어!
-Dorothy(2)<Speaker>도로시</Speaker>||:나는 처음부터 알고 있었어... 배후에서 그리폰 시티를 지배하는 누군가가 있다는 것을.+하지만 난 모두가 나처럼 겁이 많고 나약해서 진실을 마주하지 못할 거라고 생각했어. 그래서 비밀을 숨기고, 모두에게 다 괜찮을 거라고 속였어...
-Dorothy(0)<Speaker>도로시</Speaker>||:하지만, 오늘 이렇게 모두가 용감하게 싸우는 모습을 봤어! 모두의 용기를 모두가 품고 있는 희망을 우습게 봤던 거야! 그래서――
-Dorothy(6)<Speaker>도로시</Speaker>||:모두가 사랑하는 나, 도로시 헤이즈가!+고개 숙여 모두의 협력을 부탁할게! 그리폰 시티를 위해서! 그리고 지구의 마지막 희망을 위해서! 우리와 함께 어둠 속에 숨어 이 도시를 위협하는 적과 맞서 싸워줘!
-MP446(0)<Speaker>MP-446</Speaker>||:와! 도로시 총리가 그 소문을 드디어 인정했어!
-NPC-Jason(0)<Speaker>인간 기자 K</Speaker>||:하, 이제야 좀 총리 같은 말을 하는군.
-MP5(0)<Speaker>MP5</Speaker>||:우... 우리도 도와주자!+나쁜 놈들한테 그리폰 인형의 무서움을 보여주자! 각인의 출력을 최대로 높여!
-NPC-Bodyguard1(0)<Speaker>인간 경호원</Speaker><Shake>||:우오오오오오!
-NPC-Bodyguard2(0)<Speaker>인간 경호원</Speaker><Shake>||:내 목숨을 도로시 님께!
-Sei(4)<Speaker>세이</Speaker>||:분위기가 단번에 바뀌었네요.
-Stella(3)<Speaker>스텔라</Speaker>||:인정할게. 너희 모두 나와는 전혀 다른 방식으로 일을 처리하는구나. 전부 나름대로 효과적이기도 하고.
-Dorothy(6)<Speaker>도로시</Speaker>||:그리고 우리는 지금 목적도 일치하지!+하지만 아직 긴장을 풀기엔 일러. 도시 전체에 화이트 나이트의 기갑 유닛들이 고삐 풀린 망아지처럼 날뛰고 있다고. 절대 피해서 갈 순 없을 거야.
-Sei(4)<Speaker>세이</Speaker>||<黑屏1>:어서 출발하죠. 술집 VA-11 Hall-A를 향해서! 제가 앞장서겠습니다!
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>97</BIN><Night><BGM>m_va_showtime</BGM><黑屏2>:
+Dorothy(0)<Speaker>도로시</Speaker>||:으응...+여긴... 어디지...+왜 이렇게...+숨이 가쁘지...?
+Dorothy(2)<Speaker>도로시</Speaker><Shake>||:뭐야, 왜 내 다리가 멋대로 움직이고 있어!?+여기 어디야! 나 지금 어디로 가는 거야?!
+Stella(0)<Speaker>스텔라</Speaker>;Dorothy(2)||:소리 지르지 마, 시끄러워. 정신도 차렸겠다, 화이트 나이트한테 잡히기 싫으면 달리기에 집중해!
+Stella(0);Dorothy(2)<Speaker>도로시</Speaker>||:스텔라??
+Stella(0);Dorothy(2)<Speaker>도로시</Speaker>||:이게 대체 어떻게 된 일이야? 나... 언니한테 몸을 빼앗기지 않았어?
+Stella(0)<Speaker>스텔라</Speaker>;Dorothy(2)||:어째선지 안나가 갑자기 네 몸에서 빠져나갔어. 기절한 너를 거기에 버리고 갈 수도 없는 노릇이라, 내가 널 해킹해서 조종한 거고!
+Stella(2)<Speaker>스텔라</Speaker>;Dorothy(2)||:...왜 그래?
+Stella(0);Dorothy(5)<Speaker>도로시</Speaker>||:아, 아무것도 아니야...
+Stella(0);Dorothy(5)<Speaker>도로시</Speaker>||:그... 그냥... 이렇게... 당하는 느낌도...
+Stella(2)<Speaker>스텔라</Speaker>;Dorothy(5)||:안나가 또 무슨 속셈인지는 모르겠지만, 당장 여기서 도망쳐야 해!
+Stella(0);Dorothy(5)<Speaker>도로시</Speaker>||:침입해서... 조종...+이... 이런 방법도 있었다니...
+Stella(2)<Speaker>스텔라</Speaker>;Dorothy(5)||:...도로시?+너 상태가 이상한데...? 네 AI에 오류라도 생겼나 봐. 강제 원격 조종을 너무 오래 지속한 탓인가...+나중에 캐시 메모리를 정리하고, 과열된 모듈도 냉각――
+Dorothy(5)<Speaker>도로시</Speaker><Shake>||:으하아앙――♥+더는 못 참아――!!
+()||<SE1>Runstep</SE1>:도로시가 느닷없이 전속력으로 달음박질쳤다.
+Stella(0)<Speaker>스텔라</Speaker>||:도로시, 멈춰! 그 앞엔――!
+Dorothy(5)<Speaker>도로시</Speaker>||:스텔라――! 내 안에 침입해 줘! 강제로 명령을 내려!! 내 캐시 메모리를 잔뜩 점유해줘! 내 모듈을 과열시켜줘!!
+()||<震屏>:꽈당!!
+Stella(2)<Speaker>스텔라</Speaker>||:어... 도로시? 너 괜찮아?
+Stella(2);Dorothy(2)<Speaker>도로시</Speaker>||:으으...+벽에 부딪혔어. 자가진단 좀 해야지...
+Stella(0)<Speaker>스텔라</Speaker>||:그럴 시간 없으니까 빨리 일어나! 아직 화이트 나이트가 쫓아오고 있단 말이야!
+()||:스텔라는 도로시가 부딪친 벽을 보고 아연실색했다.
+Stella(2)<Speaker>스텔라</Speaker>||:뭐야? 왜 막다른 길이지?!+건축 설계도상 여기에 통로가 있어야 하는데!
+Stella(2)<Speaker>？？</Speaker>||:그야, 비밀 통로니까.
+Stella(2)<Speaker>스텔라</Speaker>||:벽 뒤에서 소리가...?!+이... 이 목소리...!+세이!
+()||<SE1>AVG_door_elecport</SE1>:막다른 복도의 벽이 천천히 열리더니, 화이트 나이트 대원 한 명이 모습을 드러냈다.
+Sei(0)<Speaker>세이</Speaker>||:오랜만이야, 스텔라.
+Sei(0);Stella(0)<Speaker></Speaker>||<SE1>ClothingUp</SE1>:스텔라는 잠시 넋을 잃더니, 세이를 부둥켜안았다.
+Sei(0);Stella(3)<Speaker>스텔라</Speaker>||:아...+세상에...+내가 꿈을 꾸는 건 아니겠지?+여기서 죽어도 여한이 없을 거 같아...
+Sei(4)<Speaker>세이</Speaker>;Stella(3)||:하하, 그러면 내가 여기에 온 의미가 없잖아.
+Dorothy(0)<Speaker>도로시</Speaker>||:으으... 이제야 좀 정신이 맑아졌네.
+Dorothy(5)<Speaker>도로시</Speaker>||:너희들 뭘 꾸물거리고 있어! 얼른 여기서 나가야지!
+Sei(2)<Speaker>세이</Speaker>||<黑屏1>:만나서 반갑습니다, 도로시 총리.+화이트 나이트 765 블리츠크리그 군단 소속, 세이 P. 아사기리입니다. 당신을 구출하러 왔습니다.
+()||<BIN>46</BIN><黑屏2><BGM>BGM_Empty</BGM>:세이는 둘을 비밀 통로 안으로 들여보낸 뒤 문을 닫았다.
+()||<BGM>m_va_follow_the_trail</BGM><SE1>AVG_footsteps_cave</SE1>:세 사람은 어두운 비밀 통로를 따라 아래층으로 이동했다.
+Stella(3)<Speaker>스텔라</Speaker>||:네가 와서 다행이야... 세이, 설마 네가 이곳에 올 줄은...
+Sei(0)<Speaker>세이</Speaker>;Stella(3)||:오는 길에 정말 많은 이야기를 들었어. 도로시 총리, 안나, 그리고 너에 관한 이야기를.+네가 있다는 말을 듣자마자 곧장 달려왔어. 늦지 않아서 정말 다행이야.
+Sei(0);Dorothy(0)<Speaker>도로시</Speaker>||:이런 곳에 비밀 통로가 다 있었어? 나도 몰랐는데!
+Sei(0)<Speaker>세이</Speaker>;Dorothy(0)||:여긴 화이트 나이트의 비상 이동 통로입니다. 대장급 대원만이 사용 권한을 갖고 있죠.+10분 정도만 가면 시청의 뒷문으로 빠져나갈 수 있을 겁니다.
+Sei(0);Stella(0)<Speaker>스텔라</Speaker>||:하지만 넌 부대장이잖아?
+Sei(0)<Speaker>세이</Speaker>;Stella(0)||:그렇지. 하지만 제리코 대장이 내게도 권한을 줬어.+원주민은 목숨이 하나뿐이니, 나한테 더 쓸모 있을 거라면서.
+Stella(2)<Speaker>스텔라</Speaker>||:세이...+제리코는 어떻게 됐어?
+()||:세이는 한숨을 내뱉었다.
+Sei(3)<Speaker>세이</Speaker>||:스텔라... 나한테 그런 일을 시키고서 어떻게 됐냐고 묻는 건 너무하지 않아?
+Sei(3);Stella(2)<Speaker>스텔라</Speaker>||:미안해...+하지만... 인형은 마인드맵을 백업할 수 있잖아...+네가 제리코를... 그러면 전부 없었던 일로 할 수――
+Sei(3)<Speaker>세이</Speaker>;Stella(2)||:이걸 어떻게 없었던 일로 해!?+내가 무슨 짓을 했는지 보라고! 제리코 대장은 잊어버리겠지. 하지만 난? 난 어떡해?! 이 일을 평생 기억할 텐데!
+Sei(3);Stella(0)<Speaker>스텔라</Speaker>||:미안해... 정말 미안해... 내가 너까지 끌어들여서...+내가 어떻게든 방법을 찾아볼게... 기억 소거 수술이라든지...
+Sei(2)<Speaker>세이</Speaker>;Stella(0)||<BGM>BGM_Empty</BGM>:난 제리코 대장을 죽이지 않았어.
+Sei(2);Stella(2)<Speaker>스텔라</Speaker>||<BGM>m_va_hopes_and_dreams</BGM>:뭐...?
+Sei(0)<Speaker>세이</Speaker>;Stella(2)||:처음엔 정말 급소를 노리고 쐈어. 차라리 그러는 게 마음이 편할까 싶어서.+하지만 빗맞혔어. 그리고... 도저히 다시 쏠 수가 없었어.+그래서 바깥에 두고 왔어. 정신이 들면 구조를 요청할 수 있는 곳에... 그러면 분명 살아남을 거라고, 그리고 대장이라면 그래도 우리의 편을 들어줄 거라고 믿었으니까.
+Sei(0);Stella(0)<Speaker>스텔라</Speaker>||:그랬구나... 하지만 그것도 결국 헛수고가 됐어.+내 계획 대로였다면... 우산 바이러스로 모든 그리폰 인형을 조종해서, 도로시를 붙잡고 안나를 끄집어내면 전부 해결될 거라고 생각했는데...
+Sei(0)<Speaker>세이</Speaker>;Stella(0)||<BGM>BGM_Empty</BGM>:그건 그렇고, 어떻게 철혈의 우두머리가 된 거야?
+Sei(0);Stella(2)<Speaker>스텔라</Speaker>||<BGM>m_va_troubling_news</BGM>:세계 최고의 해커... 알마에게 철혈을 조사해 달라 의뢰했거든.+그리고 물건을 받기로 한 날 밤, 알마가 화이트 나이트에게 체포돼서... 당황했어.
+Dorothy(2)<Speaker>도로시</Speaker><Shake>;Stella(0)||:나, 난 그런 일이 있었는지도 몰랐어! 언니가 또... 분명 언니가 한 짓일 거야...
+Dorothy(2);Stella(2)<Speaker>스텔라</Speaker>||:그래도 알마와 사전에 약속한 대로, 임무를 맡은 인형과의 접선 장소로 가 봤어.+Super-Shorty와 IDW는 없었지만, 적어도 임무를 완수했다는 것만은 알 수 있었지...+...철혈의 엘더 브레인, 엘리사의 소체가 접선 장소에 있었으니까.
+Dorothy(2);Stella(2)<Speaker>스텔라</Speaker>||:난 그들의 희생을 헛되이 하지 않기 위해서, 엘리사를 연구해 지휘 모듈을 적출해서 내 것으로 만들었어.+그리고 그 후로 줄곧 진실이 무엇인지 조사했던 거야. 철혈, 테라 컴퓨터, 그리고 안나에 대해서...
+Sei(2)<Speaker>세이</Speaker>;Stella(2)||:정말 너다운 행보구나, 스텔라.
+Sei(2);Stella(0)<Speaker>스텔라</Speaker>||:그리폰 시티를 구해내겠다고 내 모든 것을 걸고 맹세했는데...+그런데... 사태가 도저히 손을 쓸 수 없을 정도로 폭주했어. 완전히 내 예상 밖이야...
+Sei(2)<Speaker>세이</Speaker>;Stella(0)||:모든 일을 컨트롤하는 건 불가능해, 스텔라.+넌 어릴 적부터 그랬어. 항상 타인을 위하지만... 너 자신에겐 자꾸 너무 엄격하게 굴어.+과하게 이성적으로 판단하고, 언제나 혼자서 모든 문제를 짊어지려고 해. 그래서 다른 사람들의 생각을 알아채지 못하게 되고...
+Sei(2);Stella(0)<Speaker>스텔라</Speaker>||:나는... 납득할 수 있는 대가로 좋은 결과를 얻을 수 있다면, 옳은 판단이라 여기고 실행했을 뿐이야.
+Sei(2)<Speaker>세이</Speaker>;Stella(0)||:그래, 네 말이 옳아. 하지만 항상 옳을 수만은 없잖아. 뭐든지 혼자서 해결할 수는 없잖아.+명령보다 확실한 건 신뢰야. 나를 믿는 것처럼, 다른 사람들도 믿어 봐.
+Dorothy(0)<Speaker>도로시</Speaker>;Stella(0)||:맞아 맞아! 미리 나랑 얘기했다면 너나 나나 지금보단 상황이 훨씬 나았을 거야!
+Dorothy(0);Stella(0)<Speaker>스텔라</Speaker>||:하, 하지만! 성과를 얻기는 했잖아!?+적어도 안나가 모습을 드러내게 해서, 모든 사건의 원흉임을 밝혀냈잖아?!
+Dorothy(4)<Speaker>도로시</Speaker>;Stella(0)||:그래 그래. 그래서 우리 언니는 지금 어디 있는데?
+Dorothy(4);Stella(0)<Speaker>스텔라</Speaker>||:바로 그게 문제야. 하지만 난 세상에 존재할 수 없는 사람이 정말로 존재할 거라고는 믿지 않아.
+Sei(4)<Speaker>세이</Speaker>;Stella(0)||:후후, 무슨 발음 테스트야?+난 이번에도 네가 옳으리라 믿어. 내가 본 사람들 중에서 가장 똑똑한 사람이니까, 분명 단서를 찾아낼 수 있을 거야.
+Sei(4);Stella(2)<Speaker>스텔라</Speaker>||:하지만 이번만큼은 나도 잘 모르겠어...+이번 상대는 내 상식을 벗어났어. 어쩌면 그녀 말대로 "신"일지도 몰라...
+Sei(3)<Speaker>세이</Speaker>;Stella(2)||:아니면 그냥 유령이든가. 스텔라, 그 "안나"란 사람이 누군지, 무엇인지는 아무 상관없어.+내가 예전에 아폴로 신용 은행에서 철혈에게 둘러싸였을 때, 네가 뭐라고 했는지 기억나?
+Sei(3);Stella(0)<Speaker>스텔라</Speaker>||:...사람은 마지막 순간에야 희망을 잃는다.
+Sei(4)<Speaker>세이</Speaker>;Stella(0)||:그래, 그거. 그 말을 듣고, 난 건물에서 뛰어내려서 목숨을 건졌지.+아직 "마지막" 순간은 아니야, 스텔라. 힘내.
+Sei(4);Stella(3)<Speaker>스텔라</Speaker>||:그래...+너와 함께니, 아직 최악의 상황은 아니야... 아직 희망은 있어.+하지만, 이젠 나 혼자서는 안 돼.+도로시, 안나에 대해서 정말 아는 게 하나도 없어? 뭐라도 좋으니까 잘 생각해 봐.
+Dorothy(4)<Speaker>도로시</Speaker>;Stella(3)||:음...+아, 원주민 거주구 VA-11번지의 술집 알아? 길모퉁이에 있는 데.
+Dorothy(4);Stella(0)<Speaker>스텔라</Speaker>||:그 술집... *키라* 미키의 블로그에서 본 적 있어. 몇 번 가보기도 했고. 그런데 거기가 왜?
+Dorothy(4);Sei(0)<Speaker>세이</Speaker>||:VA-11 Hall-A 말인가요?
+Dorothy(6)<Speaker>도로시</Speaker>||:응, 거기! 다들 가본 적 있나 보네? 나도 여러 번 갔어!+그리고 안나 언니가 거기에 대해서 말한 적이 있어...+그곳이... 모든 것의 시작점이라고.
+Dorothy(6);Stella(0)<Speaker>스텔라</Speaker>||:모든 것의 시작점? 인간 거주구의 술집이?+그 술집에 무슨 특별한 점이라도 있어?
+Sei(0)<Speaker>세이</Speaker>;Stella(0)||:나도 몇 시간 전에 처음 가본 거야. 제리코 대장이 추천해 주셔서.+비누 냄새랑 개오줌 냄새가 진동하지만, 오너가 흥미로운 사람이었어. 하지만 술집 자체는 평범했어.+오히려... 다른 술집들보다도 더 평범한 곳이야. 바텐더가 노출이 심한 복장을 입은 것도 아니고, 쌍절곤 묘기를 부리는 것 같은 퍼포먼스도 없었어.
+Sei(0);Stella(0)<Speaker>스텔라</Speaker>||:그래도 가봐야 해. 어떤 비밀이 숨겨져 있는 걸지도 몰라.
+Sei(3)<Speaker>세이</Speaker>;Stella(0)||:위험하진 않을까? 안나가 지금 그곳에 있다면...
+Sei(3);Stella(0)<Speaker>스텔라</Speaker>||:아니, 안나는 거기에 없을 거야. 갑자기 도로시의 몸에서 빠져나가더니, 여태 다시 돌아오지 않았어. 분명 무슨 일이 생긴 거야.+하지만 만일을 대비해서... 세이, 제리코에게 연락해서 화이트 나이트 대원 몇 명을 보내달라고 부탁해 줘.
+Sei(3)<Speaker>세이</Speaker>;Stella(0)||:알았어. 하지만 과연 허가해줄지...
+Dorothy(4)<Speaker>도로시</Speaker>;Stella(0)||:지금 그리폰 시티 전체가 난장판이라고. 세상을 구하고 싶은 건 우리뿐만이 아닐걸? 분명 다른 사람들도 나름대로 노력하고 있을 거야!+물론, 여기서 그 술집까지 가려면 도중에 성가신 녀석들이 잔뜩이겠지만.
+Sei(3)<Speaker>세이</Speaker>;Stella(0)||:지금 바로 그 성가신 녀석들을 만날 거예요.+여러분, 이제 시청 밖으로 나갑니다. 문 앞엔 폭주한 기갑 유닛이 적어도 10기는 우릴 기다리고 있겠죠.
+Sei(3);Stella(0)<Speaker>스텔라</Speaker>||:시간을 끌어 줘. 인형을 최대한 많이 제어해서 우릴 돕게 하겠어.
+Sei(3);Dorothy(6)<Speaker>도로시</Speaker>||:그런 거라면 이 댄져러스한 도로시한테 맡겨! 이런 상황을 대비해서 몸을 개조했거든!
+Sei(3)<Speaker>세이</Speaker>;Dorothy(6)||:그 두 손은 MIRD113? 그렇다면...
+Sei(3);Dorothy(3)<Speaker>도로시</Speaker>||<SE1>AVG_weapon_reload</SE1>:손끝에서 5등급 총탄 발사 가능! 그래서 경호원을 많이 안 뒀던 거라구!
+Sei(2)<Speaker>세이</Speaker>||<白屏1>:준비되셨나요? 문을 엽니다!
+()<Speaker></Speaker>||<BIN>166</BIN><night><BGM>BGM_Empty</BGM><白屏2>:
+()||<BGM>m_va_digital_drive</BGM><SE1>AVG_door_storehouse</SE1>:세이는 무기를 단단히 쥐고서, 비밀 통로의 출구 문을 열었다.
+()||<SE2>Gunfight</SE2>:타탕! 탕!
+()||:그리고 세 사람의 눈앞에 펼쳐진 광경은, 격전이 벌어지고 있는 시청 앞 광장과 지면을 뒤덮고 있는 화이트 나이트 기갑 유닛의 잔해들이었다.
+NPC-Bodyguard1(0)<Speaker>인간 경호원</Speaker>||:도로시 총리, 무사하십니까!?
+NPC-Jason(0)<Speaker>인간 기자 K</Speaker>||:이제야 나오셨군!
+Dorothy(0)<Speaker>도로시</Speaker>||:하하하, 거 봐, 내가 원주민은 믿음직하다고 했지!
+Sei(2)<Speaker>세이</Speaker>;Dorothy(0)||:현장에 있는 모두에게 우리가 건물에서 나올 때까지만 시간을 벌어달라고 부탁했습니다만...+설마... 이렇게 잘 싸울 줄은 몰랐네요.
+Dorothy(6)<Speaker>도로시</Speaker>||:스텔라, 가끔은 우산 바이러스 없이도 모두의 도움을 받을 수 있다고.
+Stella(0)<Speaker>스텔라</Speaker>||:명령보다 확실한 건, 신뢰...
+WA2000(0)<Speaker>WA2000</Speaker><通讯框>||:<color=#00CCFF>...슨 로즈가 스텔라에게.</color>+<color=#00CCFF>...네 왼쪽이야.</color>
+()||<SE1>AVG_rifle_finalshot_h</SE1>:타앙!
+()||<SE2>AVG_weapon_reload</SE2>:스텔라 일행을 향해 돌진해오던 기갑 유닛이 철갑탄에 꿰뚫렸다.
+Stella(0)<Speaker>스텔라</Speaker>||:뭐야, 너 아직도 있었어?
+WA2000(0)<Speaker>WA2000</Speaker><通讯框>||:<color=#00CCFF>널 버리고 가면 내 보수는 누가 지불해?</color>
+Stella(3)<Speaker>스텔라</Speaker>||:...우리 모두 살아남으면 두 배로 줄게.+여러분! 아직 희망은 있습니다! 우리에게 힘을 빌려주세요!+하지만 더 이상 우산 바이러스를 쓰지 않겠습니다. 여러분의 의지로 우리를 도와주세요!
+MP5(0)<Speaker>MP5</Speaker>||:아, 저 사람은...
+MP446(0)<Speaker>MP-446</Speaker>||:아까 MP5를 넘어뜨린 이상한 원주민이잖아? 저 사람이 우릴――
+Dorothy(2)<Speaker>도로시</Speaker>||:그리폰 시티의 여러분! 내 말을 들어줘!+나는 지금까지 많은 잘못을 저지르고, 눈앞에 닥친 문제들을 회피하기만 했어...+하지만 이제 깨달았어. 거짓 없이 모두들, 인형들과 인간들, 그리고 나사들과 세포들을 보고 있어!
+Dorothy(2)<Speaker>도로시</Speaker>||:나는 처음부터 알고 있었어... 배후에서 그리폰 시티를 지배하는 누군가가 있다는 것을.+하지만 난 모두가 나처럼 겁이 많고 나약해서 진실을 마주하지 못할 거라고 생각했어. 그래서 비밀을 숨기고, 모두에게 다 괜찮을 거라고 속였어...
+Dorothy(0)<Speaker>도로시</Speaker>||:하지만, 오늘 이렇게 모두가 용감하게 싸우는 모습을 봤어! 모두의 용기를 모두가 품고 있는 희망을 우습게 봤던 거야! 그래서――
+Dorothy(6)<Speaker>도로시</Speaker>||:모두가 사랑하는 나, 도로시 헤이즈가!+고개 숙여 모두의 협력을 부탁할게! 그리폰 시티를 위해서! 그리고 지구의 마지막 희망을 위해서! 우리와 함께 어둠 속에 숨어 이 도시를 위협하는 적과 맞서 싸워줘!
+MP446(0)<Speaker>MP-446</Speaker>||:와! 도로시 총리가 그 소문을 드디어 인정했어!
+NPC-Jason(0)<Speaker>인간 기자 K</Speaker>||:하, 이제야 좀 총리 같은 말을 하는군.
+MP5(0)<Speaker>MP5</Speaker>||:우... 우리도 도와주자!+나쁜 놈들한테 그리폰 인형의 무서움을 보여주자! 각인의 출력을 최대로 높여!
+NPC-Bodyguard1(0)<Speaker>인간 경호원</Speaker><Shake>||:우오오오오오!
+NPC-Bodyguard2(0)<Speaker>인간 경호원</Speaker><Shake>||:내 목숨을 도로시 님께!
+Sei(4)<Speaker>세이</Speaker>||:분위기가 단번에 바뀌었네요.
+Stella(3)<Speaker>스텔라</Speaker>||:인정할게. 너희 모두 나와는 전혀 다른 방식으로 일을 처리하는구나. 전부 나름대로 효과적이기도 하고.
+Dorothy(6)<Speaker>도로시</Speaker>||:그리고 우리는 지금 목적도 일치하지!+하지만 아직 긴장을 풀기엔 일러. 도시 전체에 화이트 나이트의 기갑 유닛들이 고삐 풀린 망아지처럼 날뛰고 있다고. 절대 피해서 갈 순 없을 거야.
+Sei(4)<Speaker>세이</Speaker>||<黑屏1>:어서 출발하죠. 술집 VA-11 Hall-A를 향해서! 제가 앞장서겠습니다!

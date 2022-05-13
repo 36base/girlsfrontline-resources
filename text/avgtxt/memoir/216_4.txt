@@ -1,104 +1,104 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>80</BIN><BGM>m_avg_casual</BGM>:XM8은 벨렌코가 당겨준 의자에 다가갔다, 눈앞의 광경은 몇년 전과 한 치 차이 없이 판박이엿다.+여전히 그 익숙한 클럽, 그리고 가상공간은 시간이 흘러도 먼지가 쌓이지 않았다.
-XM8(0)<Speaker>XM8</Speaker>||:사장님?! 몇 년 동안 어디 가신 거예요?
-NPC-Powell(0)<Speaker>벨렌코</Speaker>;XM8(0)||:오셨습니까, 보시 양, 벨렌코 보드게임 클럽에 돌아오신 것을 환영합니다.
-NPC-Powell(0);XM8(0)<Speaker>XM8</Speaker>||:환영하고 뭐고, 저 사장님 이름마저 가물가물했다니까요!+제가 아직 여길 기억하고 있어서 다행인 줄 알아요!
-NPC-Powell(0)<Speaker>벨렌코</Speaker>||:참으로 감격입니다, 보시 양, 먼저 한 판 대국하는 게 어떻습니까?+얼마나 발전했는지 보죠.
-()<Speaker></Speaker>||:벨렌코는 여전히 그 담담한 태도였다, 다만 예전과 다른 점이라면 말 사이에 옅은 도발이 섞여 있었다.
-()<Speaker></Speaker>||:XM8은 짜증부리며 맞은 편에 앉더니, 체스말을 한 줌 집어 판 위에 내동댕이쳤다.
-XM8(0)<Speaker>XM8</Speaker>||<SE1>AVG_21Winter_OperatingDisc_Drop</SE1><震屏>:제 질문에 대답해요!
-()<Speaker></Speaker>||:XM8이 불같이 화를 내지만, 벨렌코는 말없이 말들을 정리할 뿐이었다.+XM8은 답변이 없자, 다시 손으로 판 위의 말을 다 밀쳐버렸다, 하지만 상대는 아랑곳 않고 다시 정리했다.+그렇게 열 번을 넘게 반복하더니, 드디어 벨렌코가 순환을 끊고자 입을 열었다.
-NPC-Powell(0)<Speaker>벨렌코</Speaker>||<SE1>ClothingUp</SE1>:아무래도 옛날 이야기를 듣는 것이 최우선 사항이신가 보군요.+하지만 저는 그것을 추가 조건으로 걸고 싶습니다.+보시 양이 한 판만이라도 이긴다면 그동안의 일을 모두 설명해드리겠습니다, 어떻습니까?
-NPC-Powell(0);XM8(0)<Speaker>XM8</Speaker>||:정말로요?
-NPC-Powell(0)<Speaker>벨렌코</Speaker>;XM8(0)||:약속합니다.
-XM8(0)<Speaker>XM8</Speaker>||:좋아요, 이번엔 그쪽이 상대를 얕본 대가를 치르게 해주겠어요...+잠깐 몇 분만 준비하고요!
-()<Speaker></Speaker>||:XM8은 홧김의 말을 뱉고, 몰래 TS12에게 통신을 연결했다.+비록 자신만의 실력으론 벨렌코를 쓰러뜨리기 어렵겠지만, 지금 그녀에겐 도우미가 있다.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:몇 번 호출음이 울리고, TS12가 소음 속에서 통신을 연결했다.
-TavorTS12(0)<Speaker>TS12</Speaker><通讯框>||<SE1>AVG_AMB_Street</SE1>:<color=#00CCFF>여보세요, XM8? 일 다 봤어?</color>
-TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:뭐 이렇게 시끄러워! 왜 자동차 소리가 들리는 거야?
-TavorTS12(0)<Speaker>TS12</Speaker><通讯框>;XM8(0)||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>너무 지루해서 널 업고 버스 정거장까지 왔지, 어차피 돌아갈 건데.</color>
-TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:아 그래그래... 지금 그건 상관 없으니까.+빨리 나 대신 좀 검색해줘, 발레리 A 벨렌코의 과거 모든 기보가 필요해.
-TavorTS12(0)<Speaker>TS12</Speaker><通讯框>;XM8(0)||:<color=#00CCFF>그게 뭔 소리야! 나 보고 가만히 자료를 뒤지라고? 열 나서 토스터가 되어버릴 거야!</color>
-TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:애초에 넌 힘만 넘쳐나는 바보라서 달리는 토스터인 건 마찬가지잖아.+잔소리할 시간 없어! 곧 첫째판 시작하니까 빨리!
-TavorTS12(0)<Speaker>TS12</Speaker><通讯框>||:<color=#00CCFF>너 정말! 어휴... 그래, 끝까지 도와주는 셈 치자.</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:반쯤 강요하는 재촉에 TS12는 이기지 못하고 타협했다.+한편 XM8은 체스판에 전심전념을 집중했다, 몇 년이 지났지만 그녀는 여전히 기보 알고리즘을 설치하지 않았다.+왜냐면 그녀는 인간과 같은 유연한 판단력을 원했고, 더 중요한 것은 도전 정신이었다.+벨렌코의 말대로 이런 건 알고리즘으로 구현할 수 없는 것이었다.
-NPC-Powell(0)<Speaker>벨렌코</Speaker>||:굉장하군요, 보시 양. 실력과 정신력 모두 눈부시게 상승했군요, 겨우 10분만인데 엄청난 압박감이 느껴집니다.
-NPC-Powell(0);XM8(0)<Speaker>XM8</Speaker>||:몇 년 동안 제자리걸음 하진 않았다고요, 사장님.
-NPC-Powell(0)<Speaker>벨렌코</Speaker>||:예, 참으로 멋진 활약입니다.+다만 한 가지 귀띔해드리는데, 이제 앞으로 몇 수만에 승패가 결정날 텐데 어떻게 두시겠습니까?
-()<Speaker></Speaker>||:벨렌코의 말이 XM8의 경각심을 일으켰다, 뭔가 수상한 낌새가 느껴졌고, 이제 한끗차이로 상대를 파악할 수 있을 것 같은 기분이었다.+그런데 자료 검색을 맡긴 TS12에게선 아직도 대답이 없었다.+XM8은 참지 못하고 다시 통신을 연결해 TS12를 재촉했다.
-XM8(0)<Speaker>XM8</Speaker>||<SE1>AVG_tele_connect</SE1>:TS12! 기보 자료는!? 찾았어 못 찾았어!?
-TavorTS12(0)<Speaker>TS12</Speaker><通讯框>;XM8(0)||:<color=#00CCFF>검색은 다 했는데, 그게...</color>
-TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:뭘 우물쭈물거려? 빨리 말해.
-TavorTS12(0)<Speaker>TS12</Speaker><通讯框>;XM8(0)||:<color=#00CCFF>너 지금 눈앞에 그 아저씨 모습이 좀 이상하지 않아?</color>
-TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:내 마인드맵이 고장이라도 났을까 봐? 기억하던 모습 그대로인데!
-TavorTS12(0)<Speaker>TS12</Speaker><通讯框>;XM8(0)||:<color=#00CCFF>생김새 말고, 그러니까 어... 행동거지나 성격 같은 거 말이야.</color>
-TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:몇 년 사이에 성격이 좀 변할 수도 있겠지... 뭐, 확실히 좀 예전과 다른 느낌이지만.
-TavorTS12(0)<Speaker>TS12</Speaker><通讯框>;XM8(0)||:<color=#00CCFF>좀 자세히 설명해봐! 오래 알고 지낸 사이면 그에 대해서 엄청 잘 알 거 아니야?</color>
-TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:뭔 뚱딴지같은 질문이야? 벨렌코보다 네가 더 이상해!
-TavorTS12(0)<Speaker>TS12</Speaker><通讯框>||<黑点1>:<color=#00CCFF>아앙? 에이 몰라, 그냥 까놓고 말해줄게!</color>
-()<Speaker></Speaker>||<黑点2><BIN>84</BIN><Night><SE1>AVG_tele_disconnect</SE1>:TS12는 갑자기 진지한 말투로 말을 마치더니, XM8을 강제로 레벨2 플랫폼의 클럽에서 로그아웃시켰다.
-XM8(0)<Speaker>XM8</Speaker>||<震屏>:아 너 무슨 짓이야!
-TavorTS12(0)<Speaker>TS12</Speaker>;XM8(0)||:일단 진정해!+방금 클럽에 접속 유저는 너 하나뿐이었어, 그건 눈치 못 챘어?+그러니까 그 "벨렌코 씨"는 서버 로컬에서 실행 중인 존재였다고! 무슨 말인지 알겠어?
-TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:그러니까 내 앞에 있던 게... 사전 설정된 AI 프로그램이었다는 거야?+그럴 리가! 그럼 진짜 벨렌코는 어디 갔는데?
-TavorTS12(0)<Speaker>TS12</Speaker>||<BGM>BGM_Empty</BGM>:사실 방금 자료를 찾을 때 덤으로 그 사람에 대해서도 조사해봤어, 우연히 집주소까지 찾아냈고.+그런데 그 동네의 가이드 페이지가...
-TavorTS12(0)<Speaker>TS12</Speaker>||<白屏1>:열사 기념 사이트가 되어 있었어...
-()<Speaker></Speaker>||<白屏2><BIN>137</BIN><BGM>BGM_Wake</BGM>:TS12는 말하면서 촛불과 비둘기, 그리고 올리브 나뭇가지로 장식된 사이트 화면을 XM8에게 전송했다.
-()<Speaker></Speaker>||:무수한 흑백 영정 사진이 생기를 되찾고 있는 폐허 파노라마 위에 진열되어 있고, 그 중엔 익숙한 모습이 끼어있었다.+다만 여기선 그도 군복을 입고 있었다.
-()<Speaker></Speaker>||:[발레리 A 벨렌코]+[옛날의 그랜드 마스터, 오늘의 충열한 전사]+[고향을 지키는 싸움에서 역적과 군벌에 용맹히 맞써싸워]+[진지를 사흘 동안 사수한 끝에 목숨을 바쳤다]+[그의 용기를 기억하는 이가 없어도, 그의 업적은 영원히 기록되리]
-()<Speaker>TS12</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>XM8, 속상한 이야기인 건 알지만, 이 사람이 진짜 벨렌코 씨야.</color>+<color=#00CCFF>네가 안에서 만난 건 그저 그가 생전에 설정해놓은 자율 프로그램일 뿐이고.</color>+<color=#00CCFF>모든 낡은 대국 AI처럼 대국이 끝나면 포맷될 거야.</color>+<color=#00CCFF>마지막으로 실행 중인 AI가 사라지면 서버도 닫힐 거고.</color>
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏1>:TS12에 XM8은 어안이 벙벙해졌다.
-()<Speaker></Speaker>||<黑屏2><BIN>80</BIN>:바로 다시 클럽에 접속했다.+하지만 벨레노는 여전히 체스판을 정리하고 있었고, 방문자를 보자 다시 예절있게 고개를 들었다.+다만 이제 XM8에 눈에 그의 동작은 매우 뻣뻣하게 보였다.
-NPC-Powell(0)<Speaker>벨렌코</Speaker>||:오셨습니까, 보시 양, 벨렌코 보드게임 클럽에 돌아오신 것을 환영합니다.+이번 대국에서 보여주신 모습은 참으로 굉장하군요.+다만 한 가지 귀띔해드리는데, 이제 앞으로 몇 수만에 승패가 결정날 텐데 어떻게 두시겠습니까?
-()<Speaker></Speaker>||:토씨 하나 틀리지 않고 똑같은 말이 귀를 바늘처럼 찔렀다.+받아들이지 못한 XM8은 또 클럽에서 로그아웃과 로그인을 반복하며, 꼭 무언가를 확인하려고 했다.
-NPC-Powell(0)<Speaker>벨렌코</Speaker>||:오셨습니까, 보시 양, 벨렌코 보드게임 클럽에 돌아오신 것을 환영합니다...
-()<Speaker></Speaker>||:오셨습니까, 보시 양, 벨렌코 보드게임 클럽에...+오셨습니까, 보시 양...
-XM8(0)<Speaker>XM8</Speaker>||:아니, 사장님, 예전엔 인사가 이렇게 단조롭지 않았잖아요!
-NPC-Powell(0)<Speaker>벨렌코</Speaker>;XM8(0)||:오셨습니까, 보시 양, 벨렌코 보드게임 클럽에 돌아오신 것을 환영합니다.
-XM8(0)<Speaker>XM8</Speaker>||:사장님...
-()<Speaker></Speaker>||:XM8은 다시 질문하지 않았다, 바라는 대답을 얻을 수 없다는 것을 확실하게 깨달았다.+눈앞에 있는 "벨렌코"는 유령이다, 아직 흩어지지 않은 실루엣이다.+그에게 필요한 건 옛적 친구와의 그리움이 아니라, 아쉬움에 마침표를 찍을 작별 인사다...
-TavorTS12(0)<Speaker>TS12</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>기보 자료 압축파일로 만들어놨어, 보내줘?</color>
-XM8(0)<Speaker>XM8</Speaker>||:아니... 이번 판은 약속했던 마지막 대국이야.+역시 나 스스로 그의 소망을 마칠게.
-()<Speaker></Speaker>||<黑屏1>:XM8은 심호흡을 하고, 벨렌코가 했던 말을 떠올렸다.
-NPC-Powell(0)<Speaker>벨렌코</Speaker>||<黑屏2><回忆>:제 수단은 진작에 바닥 났답니다, 지금 이건 그저 배열 조합한 무수한 가능성일 뿐입니다...+그 이유는 승리법이 정해진 공식이 되어 버리면 의미가 없고, 인류는 극한에 도전하는 재미를 즐기죠.
-NPC-Powell(0)<Speaker>벨렌코</Speaker>||<黑屏1><回忆>:불확정성과 수싸움이 가득한 것이야말로 경기의 즐거움입니다.
-()<Speaker></Speaker>||<关闭蒙版><黑屏2>:그렇다, XM8이 상대하는 것은 벨렌코가 설정해둔 프로그램에 불과하고, 그는 이미 모든 수를 전수했다.+그 점을 잊어서는 안 되고, 더욱 외부의 도움을 빌려서는 안 된다, 프로그램은 오직 배열 조합밖에 못하기 때문에.+벨렌코가 보길 원하는 "극한"이란 것도 결국엔 깊은 추리 사고 끝에 상대를 쓰러뜨리는 과정에 불과하다.+그렇다는 건 지금 눈앞의 잔국도 예전에 있었던 것의 변형일 뿐이란 것이다.+그 점을 깨달은 XM8은 바로 기보를 되짚으며, 그 기시감을 다시 분석했다.
-XM8(0)<Speaker>XM8</Speaker>||:사장님의 캐슬링을 끌어내면 다섯 수 후 제가 이기고, 그러지 않을 경우 네 수 후에 제가 져요...
-NPC-Powell(0)<Speaker>벨렌코</Speaker>;XM8(0)||:훌륭합니다, 보시 양, 그 수를 계산하는데 단 57초 걸렸군요.+그럼 어떻게 하실 겁니까?
-NPC-Powell(0);XM8(0)<Speaker>XM8</Speaker>||:사장님 본인이라면 분명 저 보고 이기라고 하겠죠...
-NPC-Powell(0)<Speaker>벨렌코</Speaker>||:그럼 그리 하십시오, 보시 양. 정말 멋진 승부였습니다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:"벨렌코"는 기립박수했다, 마치 자신의 마지막 염원을 이루어 기뻐하는 것 같았다.+혹은 XM8이 굴레에서 벗어난 것을 흡족해 하는 것일지도 모른다.
-XM8(0)<Speaker>XM8</Speaker>||:사장님, 다음 주말에, 한 판 더 두죠...
-NPC-Powell(0)<Speaker>벨렌코</Speaker>||:더할 나위가 없죠, 보시 양.
-()<Speaker></Speaker>||<黑屏1>:XM8은 상대와 이뤄질 수 없는 다음을 기약했다, 과거 그녀가 전선에 향하는 전사들과 약속했던 것처럼.+말을 판에 내려놓는 것으로 작별 인사를 했다, 이것으로 수많은 방문객들이 거쳐간 좁은 공간의 모든 아쉬움이 풀렸다.
-()<Speaker></Speaker>||<黑屏2><BIN>72</BIN><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:벨렌코의 끊임없는 박수 속에서, 포맷은 빠르게 진행되어, 서버는 어둠 속으로 흩어졌다.
-()||<黑屏1>:
-XM8(0)<Speaker>XM8</Speaker>||<黑屏2><BIN>9</BIN>:이건...?
-()<Speaker></Speaker>||:클럽이 완전히 무너지고 사라진 암흑 공간에 작은 불빛이 남아있었다.+XM8가 가까이 가서 보니, 그것은 짧은 녹음 캐시 메모리였다, XM8은 망설이지도 않고 음성 파일을 받아 재생했다.
-()<Speaker></Speaker>||:익숙한 목소리가 재생되었다.
-NPC-Powell(0)<Speaker>벨렌코</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><SE1>Battlefield</SE1>:<color=#00CCFF>저는 발레리 알렉산드로비치 벨렌코입니다.</color>+<color=#00CCFF>아마 이것이 제 마지막 녹음이겠죠, 이걸... 보시 양에게 전해드리고 싶습니다.</color>
-()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:말하면서 벨렌코는 가래 섞인 쓴웃음 소리를 냈고, 멀리서 점점 다가오는 포성이 울렸다.
-NPC-Powell(0)<Speaker>벨렌코</Speaker><通讯框>||:<color=#00CCFF>저는 한때 끝없이 도망쳤습니다, 하지만 전쟁은 결국 모두를 따라잡았습니다.</color>+<color=#00CCFF>제가 사지에 나서지 않으면, 무고한 민간인들이 성하지 못한 무기를 쥐고 흉악한 살인마들과 도적들에게 맞서야 하게 되겠죠.</color>+<color=#00CCFF>저는 전장에 나서는 것을 영광이나 위대함이라 여기지 않습니다, 우리는 그저 버림받은 희생양일 뿐입니다.</color>+<color=#00CCFF>결국 희생을 무릅쓰고 전장에 나서는 것은, 추하게 구걸하고 울고불며 자비를 애원한 끝에 어쩔 수 없이 발악하는 것입니다.</color>+<color=#00CCFF>이는 절망과 고독으로 점철된 운명으로 정해진 재난일 뿐이죠.</color>+<color=#00CCFF>이게 제발 우스꽝스러운 영웅활극이길 바라고, 제게 마침 현실을 뒤집을 힘이 있기를 바랍니다.</color>+<color=#00CCFF>마치 체스판의 폰이 물러서지 않고 끝에 도달해 퀸으로 승격하는 것처럼.</color>+<color=#00CCFF>캐슬링한 룩이 모든 공격을 견디면서 우뚝 서있는 것처럼.</color>+<color=#00CCFF>허나 현실이란 우리에게 너무 많은 사치를 베풀어주지 않습니다.</color>+<color=#00CCFF>당신만은 제외하고요, 보시 양. 원래 당신은 우리의 전쟁과 전혀 인연이 없고, 당신과의 약속은 사지에 향하는 전사들에게 얼마 없는 햇빛이었습니다.</color>+<color=#00CCFF>그러니 마지막 대국 약속을 몇 년이나 미루게 된 것을 부디 용서해 주십시오.</color>+<color=#00CCFF>당신의 생활을 갑자기 방해하고 싶지 않았고, 이 수많은 희망을 담은 클럽이 평화의 시대에 문을 닫길 바랐습니다.</color>+<color=#00CCFF>부디 그 무렵엔 봄바람이 죽은 이의 눈물을 거두어주고, 더는 억울한 죽음이 없기를.</color>
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:날카로운 노이즈가 울리면서 재생이 끝나, 마침내 완전한 정적이 도래했다.
-()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1><白屏1>:XM8은 묵묵히 녹음 파일을 저장하고 레벨2 플랫폼에서 로그아웃했다.
-()<Speaker></Speaker>||<BIN>84</BIN><白屏2>:그녀가 눈을 뜨자, TS12의 걱정과 짜증으로 가득한 얼굴이 코앞에서 마중해줬다.
-TavorTS12(0)<Speaker>TS12</Speaker>||:XM8! 너 그대로 잘못된 줄 알았잖아!
-XM8(0)<Speaker>XM8</Speaker>||:그것 참 안 됐네, 당분간 그럴 생각은 없거든.
-()<Speaker></Speaker>||:TS12의 얼굴에 XM8의 무거운 심정이 싹 달아났다, 하지만 지금 그녀는 유난히도 차분한 기분이었다.
-XM8(0)<Speaker>XM8</Speaker>||:아 맞다... 오늘 많이 신세졌어, TS12.
-TavorTS12(0)<Speaker>TS12</Speaker><Shake>0.5</Shake>;XM8(0)||:으엑... 느끼하게 왜 그래, 성질 안 부리니까 이상하다 야!
-TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:이게 진짜...+빨리 그리폰에 돌아가기나 하자고, 내일 또 출근해야니까.
-TavorTS12(0)<Speaker>TS12</Speaker>;XM8(0)||:그래, 그래서 네가 소체를 나한테 내던진 동안 정거장까지 왔지.
-TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:그리고, 나도 개조 신청하려고.
-TavorTS12(0)<Speaker>TS12</Speaker>;XM8(0)||:뭐라고? 무슨 바람이 불었는진 모르겠지만...+근데 갑자기 개조를 신청하면 엄청 엄격한 심사를 뚫어야 하는 거 알지?
-XM8(0)<Speaker>XM8</Speaker>||:나라도 가끔은 내가 프로모션할 수 있을지 시도해 보고 싶다고...
-XM8(0)<Speaker>XM8</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:그리고, 누구 몫을 봐서도, 반드시, 꼭 통과하고 말 거야!
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>GF_Memorial</BGM>:...3개월 후.
-()||<黑屏1>:
-XM8MOD(0)<Speaker>XM8</Speaker>||<黑屏2><BIN>73</BIN><SE2>Gunfight</SE2>:이걸로 체크메이트...
-MP5Mod(0)<Speaker>MP5</Speaker>;XM8MOD(0)||:XM8, 멈춰! 또 훈련용 과녁을 망가뜨렸잖아!
-MP5Mod(0);XM8MOD(0)<Speaker>XM8</Speaker>||:미안, 꼬맹이 네 화력이 너무 약해서 그런 거 아니야?
-MP5Mod(0)<Speaker>MP5</Speaker>||:뭐야!? 그러면 더미 소체를 동원할 거야!+내가 개조할 때 너한테 시달린 거 곱빼기로 갚아주겠어!
-MP5Mod(0);XM8MOD(0)<Speaker>XM8</Speaker>||:꼬맹이야, 0의 곱빼기는 여전히 0이라고...
-XM8MOD(0)<Speaker>XM8</Speaker>||:뭐, 상관 없어...+이번엔 내가 지켜줄 거니까, 꼬맹이.
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>80</BIN><BGM>m_avg_casual</BGM>:XM8은 벨렌코가 당겨준 의자에 다가갔다, 눈앞의 광경은 몇년 전과 한 치 차이 없이 판박이엿다.+여전히 그 익숙한 클럽, 그리고 가상공간은 시간이 흘러도 먼지가 쌓이지 않았다.
+XM8(0)<Speaker>XM8</Speaker>||:사장님?! 몇 년 동안 어디 가신 거예요?
+NPC-Powell(0)<Speaker>벨렌코</Speaker>;XM8(0)||:오셨습니까, 보시 양, 벨렌코 보드게임 클럽에 돌아오신 것을 환영합니다.
+NPC-Powell(0);XM8(0)<Speaker>XM8</Speaker>||:환영하고 뭐고, 저 사장님 이름마저 가물가물했다니까요!+제가 아직 여길 기억하고 있어서 다행인 줄 알아요!
+NPC-Powell(0)<Speaker>벨렌코</Speaker>||:참으로 감격입니다, 보시 양, 먼저 한 판 대국하는 게 어떻습니까?+얼마나 발전했는지 보죠.
+()<Speaker></Speaker>||:벨렌코는 여전히 그 담담한 태도였다, 다만 예전과 다른 점이라면 말 사이에 옅은 도발이 섞여 있었다.
+()<Speaker></Speaker>||:XM8은 짜증부리며 맞은 편에 앉더니, 체스말을 한 줌 집어 판 위에 내동댕이쳤다.
+XM8(0)<Speaker>XM8</Speaker>||<SE1>AVG_21Winter_OperatingDisc_Drop</SE1><震屏>:제 질문에 대답해요!
+()<Speaker></Speaker>||:XM8이 불같이 화를 내지만, 벨렌코는 말없이 말들을 정리할 뿐이었다.+XM8은 답변이 없자, 다시 손으로 판 위의 말을 다 밀쳐버렸다, 하지만 상대는 아랑곳 않고 다시 정리했다.+그렇게 열 번을 넘게 반복하더니, 드디어 벨렌코가 순환을 끊고자 입을 열었다.
+NPC-Powell(0)<Speaker>벨렌코</Speaker>||<SE1>ClothingUp</SE1>:아무래도 옛날 이야기를 듣는 것이 최우선 사항이신가 보군요.+하지만 저는 그것을 추가 조건으로 걸고 싶습니다.+보시 양이 한 판만이라도 이긴다면 그동안의 일을 모두 설명해드리겠습니다, 어떻습니까?
+NPC-Powell(0);XM8(0)<Speaker>XM8</Speaker>||:정말로요?
+NPC-Powell(0)<Speaker>벨렌코</Speaker>;XM8(0)||:약속합니다.
+XM8(0)<Speaker>XM8</Speaker>||:좋아요, 이번엔 그쪽이 상대를 얕본 대가를 치르게 해주겠어요...+잠깐 몇 분만 준비하고요!
+()<Speaker></Speaker>||:XM8은 홧김의 말을 뱉고, 몰래 TS12에게 통신을 연결했다.+비록 자신만의 실력으론 벨렌코를 쓰러뜨리기 어렵겠지만, 지금 그녀에겐 도우미가 있다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:몇 번 호출음이 울리고, TS12가 소음 속에서 통신을 연결했다.
+TavorTS12(0)<Speaker>TS12</Speaker><通讯框>||<SE1>AVG_AMB_Street</SE1>:<color=#00CCFF>여보세요, XM8? 일 다 봤어?</color>
+TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:뭐 이렇게 시끄러워! 왜 자동차 소리가 들리는 거야?
+TavorTS12(0)<Speaker>TS12</Speaker><通讯框>;XM8(0)||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>너무 지루해서 널 업고 버스 정거장까지 왔지, 어차피 돌아갈 건데.</color>
+TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:아 그래그래... 지금 그건 상관 없으니까.+빨리 나 대신 좀 검색해줘, 발레리 A 벨렌코의 과거 모든 기보가 필요해.
+TavorTS12(0)<Speaker>TS12</Speaker><通讯框>;XM8(0)||:<color=#00CCFF>그게 뭔 소리야! 나 보고 가만히 자료를 뒤지라고? 열 나서 토스터가 되어버릴 거야!</color>
+TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:애초에 넌 힘만 넘쳐나는 바보라서 달리는 토스터인 건 마찬가지잖아.+잔소리할 시간 없어! 곧 첫째판 시작하니까 빨리!
+TavorTS12(0)<Speaker>TS12</Speaker><通讯框>||:<color=#00CCFF>너 정말! 어휴... 그래, 끝까지 도와주는 셈 치자.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:반쯤 강요하는 재촉에 TS12는 이기지 못하고 타협했다.+한편 XM8은 체스판에 전심전념을 집중했다, 몇 년이 지났지만 그녀는 여전히 기보 알고리즘을 설치하지 않았다.+왜냐면 그녀는 인간과 같은 유연한 판단력을 원했고, 더 중요한 것은 도전 정신이었다.+벨렌코의 말대로 이런 건 알고리즘으로 구현할 수 없는 것이었다.
+NPC-Powell(0)<Speaker>벨렌코</Speaker>||:굉장하군요, 보시 양. 실력과 정신력 모두 눈부시게 상승했군요, 겨우 10분만인데 엄청난 압박감이 느껴집니다.
+NPC-Powell(0);XM8(0)<Speaker>XM8</Speaker>||:몇 년 동안 제자리걸음 하진 않았다고요, 사장님.
+NPC-Powell(0)<Speaker>벨렌코</Speaker>||:예, 참으로 멋진 활약입니다.+다만 한 가지 귀띔해드리는데, 이제 앞으로 몇 수만에 승패가 결정날 텐데 어떻게 두시겠습니까?
+()<Speaker></Speaker>||:벨렌코의 말이 XM8의 경각심을 일으켰다, 뭔가 수상한 낌새가 느껴졌고, 이제 한끗차이로 상대를 파악할 수 있을 것 같은 기분이었다.+그런데 자료 검색을 맡긴 TS12에게선 아직도 대답이 없었다.+XM8은 참지 못하고 다시 통신을 연결해 TS12를 재촉했다.
+XM8(0)<Speaker>XM8</Speaker>||<SE1>AVG_tele_connect</SE1>:TS12! 기보 자료는!? 찾았어 못 찾았어!?
+TavorTS12(0)<Speaker>TS12</Speaker><通讯框>;XM8(0)||:<color=#00CCFF>검색은 다 했는데, 그게...</color>
+TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:뭘 우물쭈물거려? 빨리 말해.
+TavorTS12(0)<Speaker>TS12</Speaker><通讯框>;XM8(0)||:<color=#00CCFF>너 지금 눈앞에 그 아저씨 모습이 좀 이상하지 않아?</color>
+TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:내 마인드맵이 고장이라도 났을까 봐? 기억하던 모습 그대로인데!
+TavorTS12(0)<Speaker>TS12</Speaker><通讯框>;XM8(0)||:<color=#00CCFF>생김새 말고, 그러니까 어... 행동거지나 성격 같은 거 말이야.</color>
+TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:몇 년 사이에 성격이 좀 변할 수도 있겠지... 뭐, 확실히 좀 예전과 다른 느낌이지만.
+TavorTS12(0)<Speaker>TS12</Speaker><通讯框>;XM8(0)||:<color=#00CCFF>좀 자세히 설명해봐! 오래 알고 지낸 사이면 그에 대해서 엄청 잘 알 거 아니야?</color>
+TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:뭔 뚱딴지같은 질문이야? 벨렌코보다 네가 더 이상해!
+TavorTS12(0)<Speaker>TS12</Speaker><通讯框>||<黑点1>:<color=#00CCFF>아앙? 에이 몰라, 그냥 까놓고 말해줄게!</color>
+()<Speaker></Speaker>||<黑点2><BIN>84</BIN><Night><SE1>AVG_tele_disconnect</SE1>:TS12는 갑자기 진지한 말투로 말을 마치더니, XM8을 강제로 레벨2 플랫폼의 클럽에서 로그아웃시켰다.
+XM8(0)<Speaker>XM8</Speaker>||<震屏>:아 너 무슨 짓이야!
+TavorTS12(0)<Speaker>TS12</Speaker>;XM8(0)||:일단 진정해!+방금 클럽에 접속 유저는 너 하나뿐이었어, 그건 눈치 못 챘어?+그러니까 그 "벨렌코 씨"는 서버 로컬에서 실행 중인 존재였다고! 무슨 말인지 알겠어?
+TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:그러니까 내 앞에 있던 게... 사전 설정된 AI 프로그램이었다는 거야?+그럴 리가! 그럼 진짜 벨렌코는 어디 갔는데?
+TavorTS12(0)<Speaker>TS12</Speaker>||<BGM>BGM_Empty</BGM>:사실 방금 자료를 찾을 때 덤으로 그 사람에 대해서도 조사해봤어, 우연히 집주소까지 찾아냈고.+그런데 그 동네의 가이드 페이지가...
+TavorTS12(0)<Speaker>TS12</Speaker>||<白屏1>:열사 기념 사이트가 되어 있었어...
+()<Speaker></Speaker>||<白屏2><BIN>137</BIN><BGM>BGM_Wake</BGM>:TS12는 말하면서 촛불과 비둘기, 그리고 올리브 나뭇가지로 장식된 사이트 화면을 XM8에게 전송했다.
+()<Speaker></Speaker>||:무수한 흑백 영정 사진이 생기를 되찾고 있는 폐허 파노라마 위에 진열되어 있고, 그 중엔 익숙한 모습이 끼어있었다.+다만 여기선 그도 군복을 입고 있었다.
+()<Speaker></Speaker>||:[발레리 A 벨렌코]+[옛날의 그랜드 마스터, 오늘의 충열한 전사]+[고향을 지키는 싸움에서 역적과 군벌에 용맹히 맞써싸워]+[진지를 사흘 동안 사수한 끝에 목숨을 바쳤다]+[그의 용기를 기억하는 이가 없어도, 그의 업적은 영원히 기록되리]
+()<Speaker>TS12</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>XM8, 속상한 이야기인 건 알지만, 이 사람이 진짜 벨렌코 씨야.</color>+<color=#00CCFF>네가 안에서 만난 건 그저 그가 생전에 설정해놓은 자율 프로그램일 뿐이고.</color>+<color=#00CCFF>모든 낡은 대국 AI처럼 대국이 끝나면 포맷될 거야.</color>+<color=#00CCFF>마지막으로 실행 중인 AI가 사라지면 서버도 닫힐 거고.</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏1>:TS12에 XM8은 어안이 벙벙해졌다.
+()<Speaker></Speaker>||<黑屏2><BIN>80</BIN>:바로 다시 클럽에 접속했다.+하지만 벨레노는 여전히 체스판을 정리하고 있었고, 방문자를 보자 다시 예절있게 고개를 들었다.+다만 이제 XM8에 눈에 그의 동작은 매우 뻣뻣하게 보였다.
+NPC-Powell(0)<Speaker>벨렌코</Speaker>||:오셨습니까, 보시 양, 벨렌코 보드게임 클럽에 돌아오신 것을 환영합니다.+이번 대국에서 보여주신 모습은 참으로 굉장하군요.+다만 한 가지 귀띔해드리는데, 이제 앞으로 몇 수만에 승패가 결정날 텐데 어떻게 두시겠습니까?
+()<Speaker></Speaker>||:토씨 하나 틀리지 않고 똑같은 말이 귀를 바늘처럼 찔렀다.+받아들이지 못한 XM8은 또 클럽에서 로그아웃과 로그인을 반복하며, 꼭 무언가를 확인하려고 했다.
+NPC-Powell(0)<Speaker>벨렌코</Speaker>||:오셨습니까, 보시 양, 벨렌코 보드게임 클럽에 돌아오신 것을 환영합니다...
+()<Speaker></Speaker>||:오셨습니까, 보시 양, 벨렌코 보드게임 클럽에...+오셨습니까, 보시 양...
+XM8(0)<Speaker>XM8</Speaker>||:아니, 사장님, 예전엔 인사가 이렇게 단조롭지 않았잖아요!
+NPC-Powell(0)<Speaker>벨렌코</Speaker>;XM8(0)||:오셨습니까, 보시 양, 벨렌코 보드게임 클럽에 돌아오신 것을 환영합니다.
+XM8(0)<Speaker>XM8</Speaker>||:사장님...
+()<Speaker></Speaker>||:XM8은 다시 질문하지 않았다, 바라는 대답을 얻을 수 없다는 것을 확실하게 깨달았다.+눈앞에 있는 "벨렌코"는 유령이다, 아직 흩어지지 않은 실루엣이다.+그에게 필요한 건 옛적 친구와의 그리움이 아니라, 아쉬움에 마침표를 찍을 작별 인사다...
+TavorTS12(0)<Speaker>TS12</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>기보 자료 압축파일로 만들어놨어, 보내줘?</color>
+XM8(0)<Speaker>XM8</Speaker>||:아니... 이번 판은 약속했던 마지막 대국이야.+역시 나 스스로 그의 소망을 마칠게.
+()<Speaker></Speaker>||<黑屏1>:XM8은 심호흡을 하고, 벨렌코가 했던 말을 떠올렸다.
+NPC-Powell(0)<Speaker>벨렌코</Speaker>||<黑屏2><回忆>:제 수단은 진작에 바닥 났답니다, 지금 이건 그저 배열 조합한 무수한 가능성일 뿐입니다...+그 이유는 승리법이 정해진 공식이 되어 버리면 의미가 없고, 인류는 극한에 도전하는 재미를 즐기죠.
+NPC-Powell(0)<Speaker>벨렌코</Speaker>||<黑屏1><回忆>:불확정성과 수싸움이 가득한 것이야말로 경기의 즐거움입니다.
+()<Speaker></Speaker>||<关闭蒙版><黑屏2>:그렇다, XM8이 상대하는 것은 벨렌코가 설정해둔 프로그램에 불과하고, 그는 이미 모든 수를 전수했다.+그 점을 잊어서는 안 되고, 더욱 외부의 도움을 빌려서는 안 된다, 프로그램은 오직 배열 조합밖에 못하기 때문에.+벨렌코가 보길 원하는 "극한"이란 것도 결국엔 깊은 추리 사고 끝에 상대를 쓰러뜨리는 과정에 불과하다.+그렇다는 건 지금 눈앞의 잔국도 예전에 있었던 것의 변형일 뿐이란 것이다.+그 점을 깨달은 XM8은 바로 기보를 되짚으며, 그 기시감을 다시 분석했다.
+XM8(0)<Speaker>XM8</Speaker>||:사장님의 캐슬링을 끌어내면 다섯 수 후 제가 이기고, 그러지 않을 경우 네 수 후에 제가 져요...
+NPC-Powell(0)<Speaker>벨렌코</Speaker>;XM8(0)||:훌륭합니다, 보시 양, 그 수를 계산하는데 단 57초 걸렸군요.+그럼 어떻게 하실 겁니까?
+NPC-Powell(0);XM8(0)<Speaker>XM8</Speaker>||:사장님 본인이라면 분명 저 보고 이기라고 하겠죠...
+NPC-Powell(0)<Speaker>벨렌코</Speaker>||:그럼 그리 하십시오, 보시 양. 정말 멋진 승부였습니다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:"벨렌코"는 기립박수했다, 마치 자신의 마지막 염원을 이루어 기뻐하는 것 같았다.+혹은 XM8이 굴레에서 벗어난 것을 흡족해 하는 것일지도 모른다.
+XM8(0)<Speaker>XM8</Speaker>||:사장님, 다음 주말에, 한 판 더 두죠...
+NPC-Powell(0)<Speaker>벨렌코</Speaker>||:더할 나위가 없죠, 보시 양.
+()<Speaker></Speaker>||<黑屏1>:XM8은 상대와 이뤄질 수 없는 다음을 기약했다, 과거 그녀가 전선에 향하는 전사들과 약속했던 것처럼.+말을 판에 내려놓는 것으로 작별 인사를 했다, 이것으로 수많은 방문객들이 거쳐간 좁은 공간의 모든 아쉬움이 풀렸다.
+()<Speaker></Speaker>||<黑屏2><BIN>72</BIN><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:벨렌코의 끊임없는 박수 속에서, 포맷은 빠르게 진행되어, 서버는 어둠 속으로 흩어졌다.
+()||<黑屏1>:
+XM8(0)<Speaker>XM8</Speaker>||<黑屏2><BIN>9</BIN>:이건...?
+()<Speaker></Speaker>||:클럽이 완전히 무너지고 사라진 암흑 공간에 작은 불빛이 남아있었다.+XM8가 가까이 가서 보니, 그것은 짧은 녹음 캐시 메모리였다, XM8은 망설이지도 않고 음성 파일을 받아 재생했다.
+()<Speaker></Speaker>||:익숙한 목소리가 재생되었다.
+NPC-Powell(0)<Speaker>벨렌코</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><SE1>Battlefield</SE1>:<color=#00CCFF>저는 발레리 알렉산드로비치 벨렌코입니다.</color>+<color=#00CCFF>아마 이것이 제 마지막 녹음이겠죠, 이걸... 보시 양에게 전해드리고 싶습니다.</color>
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:말하면서 벨렌코는 가래 섞인 쓴웃음 소리를 냈고, 멀리서 점점 다가오는 포성이 울렸다.
+NPC-Powell(0)<Speaker>벨렌코</Speaker><通讯框>||:<color=#00CCFF>저는 한때 끝없이 도망쳤습니다, 하지만 전쟁은 결국 모두를 따라잡았습니다.</color>+<color=#00CCFF>제가 사지에 나서지 않으면, 무고한 민간인들이 성하지 못한 무기를 쥐고 흉악한 살인마들과 도적들에게 맞서야 하게 되겠죠.</color>+<color=#00CCFF>저는 전장에 나서는 것을 영광이나 위대함이라 여기지 않습니다, 우리는 그저 버림받은 희생양일 뿐입니다.</color>+<color=#00CCFF>결국 희생을 무릅쓰고 전장에 나서는 것은, 추하게 구걸하고 울고불며 자비를 애원한 끝에 어쩔 수 없이 발악하는 것입니다.</color>+<color=#00CCFF>이는 절망과 고독으로 점철된 운명으로 정해진 재난일 뿐이죠.</color>+<color=#00CCFF>이게 제발 우스꽝스러운 영웅활극이길 바라고, 제게 마침 현실을 뒤집을 힘이 있기를 바랍니다.</color>+<color=#00CCFF>마치 체스판의 폰이 물러서지 않고 끝에 도달해 퀸으로 승격하는 것처럼.</color>+<color=#00CCFF>캐슬링한 룩이 모든 공격을 견디면서 우뚝 서있는 것처럼.</color>+<color=#00CCFF>허나 현실이란 우리에게 너무 많은 사치를 베풀어주지 않습니다.</color>+<color=#00CCFF>당신만은 제외하고요, 보시 양. 원래 당신은 우리의 전쟁과 전혀 인연이 없고, 당신과의 약속은 사지에 향하는 전사들에게 얼마 없는 햇빛이었습니다.</color>+<color=#00CCFF>그러니 마지막 대국 약속을 몇 년이나 미루게 된 것을 부디 용서해 주십시오.</color>+<color=#00CCFF>당신의 생활을 갑자기 방해하고 싶지 않았고, 이 수많은 희망을 담은 클럽이 평화의 시대에 문을 닫길 바랐습니다.</color>+<color=#00CCFF>부디 그 무렵엔 봄바람이 죽은 이의 눈물을 거두어주고, 더는 억울한 죽음이 없기를.</color>
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:날카로운 노이즈가 울리면서 재생이 끝나, 마침내 완전한 정적이 도래했다.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1><白屏1>:XM8은 묵묵히 녹음 파일을 저장하고 레벨2 플랫폼에서 로그아웃했다.
+()<Speaker></Speaker>||<BIN>84</BIN><白屏2>:그녀가 눈을 뜨자, TS12의 걱정과 짜증으로 가득한 얼굴이 코앞에서 마중해줬다.
+TavorTS12(0)<Speaker>TS12</Speaker>||:XM8! 너 그대로 잘못된 줄 알았잖아!
+XM8(0)<Speaker>XM8</Speaker>||:그것 참 안 됐네, 당분간 그럴 생각은 없거든.
+()<Speaker></Speaker>||:TS12의 얼굴에 XM8의 무거운 심정이 싹 달아났다, 하지만 지금 그녀는 유난히도 차분한 기분이었다.
+XM8(0)<Speaker>XM8</Speaker>||:아 맞다... 오늘 많이 신세졌어, TS12.
+TavorTS12(0)<Speaker>TS12</Speaker><Shake>0.5</Shake>;XM8(0)||:으엑... 느끼하게 왜 그래, 성질 안 부리니까 이상하다 야!
+TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:이게 진짜...+빨리 그리폰에 돌아가기나 하자고, 내일 또 출근해야니까.
+TavorTS12(0)<Speaker>TS12</Speaker>;XM8(0)||:그래, 그래서 네가 소체를 나한테 내던진 동안 정거장까지 왔지.
+TavorTS12(0);XM8(0)<Speaker>XM8</Speaker>||:그리고, 나도 개조 신청하려고.
+TavorTS12(0)<Speaker>TS12</Speaker>;XM8(0)||:뭐라고? 무슨 바람이 불었는진 모르겠지만...+근데 갑자기 개조를 신청하면 엄청 엄격한 심사를 뚫어야 하는 거 알지?
+XM8(0)<Speaker>XM8</Speaker>||:나라도 가끔은 내가 프로모션할 수 있을지 시도해 보고 싶다고...
+XM8(0)<Speaker>XM8</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:그리고, 누구 몫을 봐서도, 반드시, 꼭 통과하고 말 거야!
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>GF_Memorial</BGM>:...3개월 후.
+()||<黑屏1>:
+XM8MOD(0)<Speaker>XM8</Speaker>||<黑屏2><BIN>73</BIN><SE2>Gunfight</SE2>:이걸로 체크메이트...
+MP5Mod(0)<Speaker>MP5</Speaker>;XM8MOD(0)||:XM8, 멈춰! 또 훈련용 과녁을 망가뜨렸잖아!
+MP5Mod(0);XM8MOD(0)<Speaker>XM8</Speaker>||:미안, 꼬맹이 네 화력이 너무 약해서 그런 거 아니야?
+MP5Mod(0)<Speaker>MP5</Speaker>||:뭐야!? 그러면 더미 소체를 동원할 거야!+내가 개조할 때 너한테 시달린 거 곱빼기로 갚아주겠어!
+MP5Mod(0);XM8MOD(0)<Speaker>XM8</Speaker>||:꼬맹이야, 0의 곱빼기는 여전히 0이라고...
+XM8MOD(0)<Speaker>XM8</Speaker>||:뭐, 상관 없어...+이번엔 내가 지켜줄 거니까, 꼬맹이.
+()||<黑屏1>:

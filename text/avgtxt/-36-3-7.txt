@@ -1,63 +1,63 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>99</BIN><黑屏2><BGM>BGM_Battle</BGM><SE1>Battlefield</SE1>:이미 예견된 결과였지만, 군의 막강한 화력에 견제 부대는 중과부적으로 큰 피해를 입었다.
-Webley(0)<Speaker>웨블리</Speaker>||<SE2>Gunfight</SE2>:부상당한 분은 엄폐하고 긴급 수복하세요! 다른 분들은 엄호 사격!+INSAS, 당신은 어떤가요?
-INSAS(1)<Speaker>INSAS</Speaker><通讯框>;Webley(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>흥, 네 몸조심부터 하라고! 난 아직 멀쩡――</color>
-Webley(0)<Speaker></Speaker>||<SE1>Explode</SE1>:콰앙!!
-Webley(0)<Speaker>웨블리</Speaker>||<SE1>AVG_tele_disconnect</SE1>:INSAS...?
-06TypeSMG(0)<Speaker></Speaker>||:CF05가 고개를 저었다.
-06TypeSMG(0);Webley(0)<Speaker>웨블리</Speaker>||:......+계속 사격하세요! 한곳에 머물러선 안 됩니다!
-06TypeSMG(0);Webley(0)<Speaker>웨블리</Speaker>||:발멧, 왜 아직도 여기 있어요?!+몸에서 부품이 떨어져 나오잖아요! 먼저 수복하라 했는데!
-m82(0)<Speaker>M82</Speaker>;Webley(0)||:그러지 마세요, 대장님. 저보고 먼저 쉬라 해 놓고, 나중에 작전 중 무단이탈이라면서 약점 잡을 생각이시잖아요.
-m82(0);Webley(0)<Speaker>웨블리</Speaker>||<SE1>AVG_pistol_finalshot_n</SE1>:......
-06TypeSMG(0)<Speaker>CF05</Speaker>;Webley(0)||:저기, 누구 탄약 남는 거 있어?! 나 좀 나눠 줘!
-06TypeSMG(0);Webley(0)<Speaker>웨블리</Speaker>||<SE1>Select</SE1>:이게 마지막입니다...! 받으세요!
-m82(0)<Speaker>M82</Speaker>;Webley(0)||:저도... 탄약이 바닥났습니다...
-Webley(0)<Speaker>웨블리</Speaker>||:여기까지인 걸까요...
-06TypeSMG(0)<Speaker>CF05</Speaker>||:벌써 포기하면 안 되지, 얘들아! 지휘관이랑 약속한 이상, 마지막까지 싸우자고!
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE2>MachineGunBurst</SE2>:......+만신창이가 된 견제 부대는 마지막 남은 총알 한 발까지 쏘면서 저항했다.
-Webley(0)<Speaker>웨블리</Speaker>||<BGM>BGM_Truth</BGM>:여러분, 제 곁에 모이세요.
-m82(0)<Speaker>M82</Speaker>||:무슨 일입니까, 대장님?
-m82(0);Webley(0)<Speaker>웨블리</Speaker>||:제가... 몰래 폭탄을 챙겨왔답니다.+어떻게 쓰는 건지는... 다들 알죠?
-m82(0)<Speaker>M82</Speaker>;Webley(0)||:물론입니다.
-06TypeSMG(0)<Speaker>CF05</Speaker>;Webley(0)||:뇌관을 결합하면 되는 거지?
-06TypeSMG(0);Webley(0)<Speaker>웨블리</Speaker>||:네. 그럼 참호로 적들을 유인하세요. 마지막으로 할 말 있습니까?
-m82(0)<Speaker>M82</Speaker>;Webley(0)||:무슨 말이요? 지금 휴가 신청하면 나갈 수 있습니까?
-06TypeSMG(0)<Speaker>CF05</Speaker>;Webley(0)||:나 출출한데, 매운 거 있어?
-06TypeSMG(0);Webley(0)<Speaker>웨블리</Speaker>||:아니, 지금 상황에서 그런 농담이 나와요?! 눈에서 눈물 떨어지는 건 뭔가요!
-06TypeSMG(0)<Speaker>CF05</Speaker>||:헤헤, 너야말로 눈이 팅팅 부었는데 뭘.
-m82(0)<Speaker>M82</Speaker>||:대장님이야말로 떨고 계시지 않습니까.
-Webley(0)<Speaker>웨블리</Speaker>||:크흠... 아무튼, 농담은 그만하죠. 지휘관님의 말씀을 빌리겠어요.+여러분과 함께 싸워, 영광이었습니다.
-m82(0)<Speaker>M82</Speaker>||:에이, 뭘요.
-06TypeSMG(0)<Speaker>CF05</Speaker>||<SE1>AVG_amb_wilderness</SE1>:그럼 다시 정신이 들었을 때 한턱 쏘는 거다?
-()<Speaker></Speaker>||:두 인형은 멀리 있는 참호로 달려갔고, 적들도 그 뒤를 쫓았다.+거리를 계산할 필요도 없이, 적의 발소리가 들려왔다.
-()<Speaker></Speaker>||<SE1>Explode</SE1>:그리고... 폭발이 연달아 두 번 터졌다. 이를 확인한 웨블리는 나지막이 한숨을 쉬었다.
-Webley(1)<Speaker>웨블리</Speaker>||<黑屏1>:하늘이시여, 우리 폐하를 보우하소서. 승리와 영광을 가져다주소서.
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:뒤이어 세 번째 폭발이 일어났다.
-()<Speaker></Speaker>||<BIN>223</BIN><黑屏2><BGM>BGM_Sad</BGM>:격리벽 위, 관측 지점.
-RPK16(0)<Speaker>RPK16</Speaker>||:견제 부대가 돌파당했습니다.
-RPK16(0)<Speaker>지휘관</Speaker>||:......
-RPK16(0);AK15(0)<Speaker>AK15</Speaker>||:지금 기폭할 건가?
-RPK16(0)<Speaker>RPK16</Speaker>;AK15(0)||:전원, 기지 내부로 진입했습니다. 명령을 내리세요, 지휘관님.
-RPK16(0)<Speaker>지휘관</Speaker>;AK15(0)||:...폭파해. 입구를 봉쇄해라.
-AK15(0)<Speaker>AK15</Speaker>||:라저.
-()<Speaker></Speaker>||<黑点1>:기지의 입구는 무너져 내려, 아무도 발을 들일 수 없게 되었다.
-NPC-Yegor(4)<Speaker>예고르</Speaker>||<黑点2>:헤마타이트, 여기는 랜드. 현재 상황을 보고하라.
-NPC-Yegor(4);NPC-Soldier(0)<Speaker>장교</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여기는 헤마타이트. 방어선은 돌파했으나, 잔존 그리폰 병력이 기지의 입구를 폭파했다. 다른 입구를 수색 중이다. 이상.</color>
-NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Soldier(0)||<SE1>AVG_tele_disconnect</SE1>:흥... 끝까지 몸부림치는군.+쿼츠, 여기는 랜드. 현재 상황을 보고하라.
-NPC-Yegor(4);NPC-Soldier(0)<Speaker>장교</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여기는 쿼츠. 포탑을 파괴했다. 적의 포격 지원은 더는 없을 것이다.</color>+<color=#00CCFF>다음, 부상자가 너무 많아 후송한 후 기지로 진입하려 한다. 재정비할 시간을 요청한다. 이상.</color>
-NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Soldier(0)||:거절한다, 즉시 내부로 진입하라! 한시라도 빨리 기지를 제압해야 한다!
-NPC-Yegor(4);NPC-Soldier(0)<Speaker>장교</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>......수신 완료.</color>+<color=#00CCFF>즉시 움직이겠다. 이상.</color>
-()||<BGM>BGM_Empty</BGM><黑屏2><BIN>99</BIN>:한편, AR팀은 후퇴 중이었다.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>m_avg_tension</BGM>:적의 공세가 주춤해졌습니다. 서둘러 기지로 들어가 지휘관님과 합류하도록 해요.
-M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker>||:하지만 밖에 기갑 유닛들이 잔뜩인걸? 이대로 합류해 봤자 모두 함께 당하고 말 거야.
-M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:그렇다고 마냥 가만히 있을 순 없어.
-M4A1Mod(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:맞아! 죽더라도 한 놈이라도 더 해치우고 죽을 거야!
-M4A1Mod(0)<Speaker>M4A1</Speaker>;M4 SOPMOD IIMod(0)||:댄들라이, 우리는 지금 기지로 이동하는 중입니다.+하지만 우리가 상대하기엔 군의 기갑 병력이 너무 많습니다. 지휘관님의 상황은 어떤가요?
-M4A1Mod(0);NytoIsomer(3)<Speaker>댄들라이</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>그리폰은 무사히 기지 내부로 후퇴했어. 남쪽 입구도 폭파해서, 당분간은 안전할 거야.</color>+<color=#00CCFF>하지만 너희의 위치는 너무 위험해. 군의 주력이 그쪽의 기갑 유닛들과 합류하러 가고 있어.</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)||:...네, 여기서도 보입니다.
-M4A1Mod(0);NytoIsomer(3)<Speaker>댄들라이</Speaker>||:<color=#00CCFF>다행히, 아직 너희를 발견하진 못했어. 그 유닛들을 피해 북쪽 입구로 와. 나도 거기서 합류할게.</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)||:적은 합류하는 대로 다시 진격할 겁니다. 어떻게 대처하죠?
-M4A1Mod(0);NytoIsomer(3)<Speaker>댄들라이</Speaker>||:<color=#00CCFF>네가 날 믿어 준다면, 방법이 하나 있어.</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)||:무슨 방법이죠?
-M4A1Mod(0);NytoIsomer(3)<Speaker>댄들라이</Speaker>||:<color=#00CCFF>우선 네가 나와 합류해야 해. 경로는 표기했어.</color>+<color=#00CCFF>너와 다시 만난 다음, 어떻게 할지 말해 줄게.</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)||<黑屏1>:...알겠습니다.+군을 피해 당신과 합류하겠습니다. 이상.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>99</BIN><黑屏2><BGM>BGM_Battle</BGM><SE1>Battlefield</SE1>:이미 예견된 결과였지만, 군의 막강한 화력에 견제 부대는 중과부적으로 큰 피해를 입었다.
+Webley(0)<Speaker>웨블리</Speaker>||<SE2>Gunfight</SE2>:부상당한 분은 엄폐하고 긴급 수복하세요! 다른 분들은 엄호 사격!+INSAS, 당신은 어떤가요?
+INSAS(1)<Speaker>INSAS</Speaker><通讯框>;Webley(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>흥, 네 몸조심부터 하라고! 난 아직 멀쩡――</color>
+Webley(0)<Speaker></Speaker>||<SE1>Explode</SE1>:콰앙!!
+Webley(0)<Speaker>웨블리</Speaker>||<SE1>AVG_tele_disconnect</SE1>:INSAS...?
+06TypeSMG(0)<Speaker></Speaker>||:CF05가 고개를 저었다.
+06TypeSMG(0);Webley(0)<Speaker>웨블리</Speaker>||:......+계속 사격하세요! 한곳에 머물러선 안 됩니다!
+06TypeSMG(0);Webley(0)<Speaker>웨블리</Speaker>||:발멧, 왜 아직도 여기 있어요?!+몸에서 부품이 떨어져 나오잖아요! 먼저 수복하라 했는데!
+m82(0)<Speaker>M82</Speaker>;Webley(0)||:그러지 마세요, 대장님. 저보고 먼저 쉬라 해 놓고, 나중에 작전 중 무단이탈이라면서 약점 잡을 생각이시잖아요.
+m82(0);Webley(0)<Speaker>웨블리</Speaker>||<SE1>AVG_pistol_finalshot_n</SE1>:......
+06TypeSMG(0)<Speaker>CF05</Speaker>;Webley(0)||:저기, 누구 탄약 남는 거 있어?! 나 좀 나눠 줘!
+06TypeSMG(0);Webley(0)<Speaker>웨블리</Speaker>||<SE1>Select</SE1>:이게 마지막입니다...! 받으세요!
+m82(0)<Speaker>M82</Speaker>;Webley(0)||:저도... 탄약이 바닥났습니다...
+Webley(0)<Speaker>웨블리</Speaker>||:여기까지인 걸까요...
+06TypeSMG(0)<Speaker>CF05</Speaker>||:벌써 포기하면 안 되지, 얘들아! 지휘관이랑 약속한 이상, 마지막까지 싸우자고!
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE2>MachineGunBurst</SE2>:......+만신창이가 된 견제 부대는 마지막 남은 총알 한 발까지 쏘면서 저항했다.
+Webley(0)<Speaker>웨블리</Speaker>||<BGM>BGM_Truth</BGM>:여러분, 제 곁에 모이세요.
+m82(0)<Speaker>M82</Speaker>||:무슨 일입니까, 대장님?
+m82(0);Webley(0)<Speaker>웨블리</Speaker>||:제가... 몰래 폭탄을 챙겨왔답니다.+어떻게 쓰는 건지는... 다들 알죠?
+m82(0)<Speaker>M82</Speaker>;Webley(0)||:물론입니다.
+06TypeSMG(0)<Speaker>CF05</Speaker>;Webley(0)||:뇌관을 결합하면 되는 거지?
+06TypeSMG(0);Webley(0)<Speaker>웨블리</Speaker>||:네. 그럼 참호로 적들을 유인하세요. 마지막으로 할 말 있습니까?
+m82(0)<Speaker>M82</Speaker>;Webley(0)||:무슨 말이요? 지금 휴가 신청하면 나갈 수 있습니까?
+06TypeSMG(0)<Speaker>CF05</Speaker>;Webley(0)||:나 출출한데, 매운 거 있어?
+06TypeSMG(0);Webley(0)<Speaker>웨블리</Speaker>||:아니, 지금 상황에서 그런 농담이 나와요?! 눈에서 눈물 떨어지는 건 뭔가요!
+06TypeSMG(0)<Speaker>CF05</Speaker>||:헤헤, 너야말로 눈이 팅팅 부었는데 뭘.
+m82(0)<Speaker>M82</Speaker>||:대장님이야말로 떨고 계시지 않습니까.
+Webley(0)<Speaker>웨블리</Speaker>||:크흠... 아무튼, 농담은 그만하죠. 지휘관님의 말씀을 빌리겠어요.+여러분과 함께 싸워, 영광이었습니다.
+m82(0)<Speaker>M82</Speaker>||:에이, 뭘요.
+06TypeSMG(0)<Speaker>CF05</Speaker>||<SE1>AVG_amb_wilderness</SE1>:그럼 다시 정신이 들었을 때 한턱 쏘는 거다?
+()<Speaker></Speaker>||:두 인형은 멀리 있는 참호로 달려갔고, 적들도 그 뒤를 쫓았다.+거리를 계산할 필요도 없이, 적의 발소리가 들려왔다.
+()<Speaker></Speaker>||<SE1>Explode</SE1>:그리고... 폭발이 연달아 두 번 터졌다. 이를 확인한 웨블리는 나지막이 한숨을 쉬었다.
+Webley(1)<Speaker>웨블리</Speaker>||<黑屏1>:하늘이시여, 우리 폐하를 보우하소서. 승리와 영광을 가져다주소서.
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:뒤이어 세 번째 폭발이 일어났다.
+()<Speaker></Speaker>||<BIN>223</BIN><黑屏2><BGM>BGM_Sad</BGM>:격리벽 위, 관측 지점.
+RPK16(0)<Speaker>RPK16</Speaker>||:견제 부대가 돌파당했습니다.
+RPK16(0)<Speaker>지휘관</Speaker>||:......
+RPK16(0);AK15(0)<Speaker>AK15</Speaker>||:지금 기폭할 건가?
+RPK16(0)<Speaker>RPK16</Speaker>;AK15(0)||:전원, 기지 내부로 진입했습니다. 명령을 내리세요, 지휘관님.
+RPK16(0)<Speaker>지휘관</Speaker>;AK15(0)||:...폭파해. 입구를 봉쇄해라.
+AK15(0)<Speaker>AK15</Speaker>||:라저.
+()<Speaker></Speaker>||<黑点1>:기지의 입구는 무너져 내려, 아무도 발을 들일 수 없게 되었다.
+NPC-Yegor(4)<Speaker>예고르</Speaker>||<黑点2>:헤마타이트, 여기는 랜드. 현재 상황을 보고하라.
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>장교</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여기는 헤마타이트. 방어선은 돌파했으나, 잔존 그리폰 병력이 기지의 입구를 폭파했다. 다른 입구를 수색 중이다. 이상.</color>
+NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Soldier(0)||<SE1>AVG_tele_disconnect</SE1>:흥... 끝까지 몸부림치는군.+쿼츠, 여기는 랜드. 현재 상황을 보고하라.
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>장교</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여기는 쿼츠. 포탑을 파괴했다. 적의 포격 지원은 더는 없을 것이다.</color>+<color=#00CCFF>다음, 부상자가 너무 많아 후송한 후 기지로 진입하려 한다. 재정비할 시간을 요청한다. 이상.</color>
+NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Soldier(0)||:거절한다, 즉시 내부로 진입하라! 한시라도 빨리 기지를 제압해야 한다!
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>장교</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>......수신 완료.</color>+<color=#00CCFF>즉시 움직이겠다. 이상.</color>
+()||<BGM>BGM_Empty</BGM><黑屏2><BIN>99</BIN>:한편, AR팀은 후퇴 중이었다.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>m_avg_tension</BGM>:적의 공세가 주춤해졌습니다. 서둘러 기지로 들어가 지휘관님과 합류하도록 해요.
+M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker>||:하지만 밖에 기갑 유닛들이 잔뜩인걸? 이대로 합류해 봤자 모두 함께 당하고 말 거야.
+M4A1Mod(0);RO635(0)<Speaker>RO635</Speaker>||:그렇다고 마냥 가만히 있을 순 없어.
+M4A1Mod(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:맞아! 죽더라도 한 놈이라도 더 해치우고 죽을 거야!
+M4A1Mod(0)<Speaker>M4A1</Speaker>;M4 SOPMOD IIMod(0)||:댄들라이, 우리는 지금 기지로 이동하는 중입니다.+하지만 우리가 상대하기엔 군의 기갑 병력이 너무 많습니다. 지휘관님의 상황은 어떤가요?
+M4A1Mod(0);NytoIsomer(3)<Speaker>댄들라이</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>그리폰은 무사히 기지 내부로 후퇴했어. 남쪽 입구도 폭파해서, 당분간은 안전할 거야.</color>+<color=#00CCFF>하지만 너희의 위치는 너무 위험해. 군의 주력이 그쪽의 기갑 유닛들과 합류하러 가고 있어.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)||:...네, 여기서도 보입니다.
+M4A1Mod(0);NytoIsomer(3)<Speaker>댄들라이</Speaker>||:<color=#00CCFF>다행히, 아직 너희를 발견하진 못했어. 그 유닛들을 피해 북쪽 입구로 와. 나도 거기서 합류할게.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)||:적은 합류하는 대로 다시 진격할 겁니다. 어떻게 대처하죠?
+M4A1Mod(0);NytoIsomer(3)<Speaker>댄들라이</Speaker>||:<color=#00CCFF>네가 날 믿어 준다면, 방법이 하나 있어.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)||:무슨 방법이죠?
+M4A1Mod(0);NytoIsomer(3)<Speaker>댄들라이</Speaker>||:<color=#00CCFF>우선 네가 나와 합류해야 해. 경로는 표기했어.</color>+<color=#00CCFF>너와 다시 만난 다음, 어떻게 할지 말해 줄게.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NytoIsomer(3)||<黑屏1>:...알겠습니다.+군을 피해 당신과 합류하겠습니다. 이상.

@@ -1,45 +1,45 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>357</BIN><Night>:임시 지휘부의 지휘실.+지휘관은 밤 늦게까지 자료를 보며 깊은 생각에 빠져 있었다.
-()||<SE1>RunStep</SE1>:하지만 그 고뇌도 갑자기 댄들라이를 데리고 들이닥친 AR-15에 의해 깨졌다.
-()<Speaker>AR15</Speaker>||:지휘관, 급히 보고드릴 사항이 있습니다!
-()<Speaker>지휘관</Speaker>||:무슨 일이야?
-()||:지휘관은 차를 한 모금 마시면서 피곤한 눈을 자료에서 떼고 고개를 들었다.+그리고 AR-15의 얼굴을 본 순간, 아직 삼키지 못한 차를 그만 거하게 뿜고 말았다.
-()<Speaker>지휘관</Speaker>||:푸――웁!+켁켁... AR-15, 너...
-AR15Mod(6)<Speaker>AR15</Speaker>||<BGM>m_avg_casual</BGM>:지휘관, 일단 제 말을 들으세요!+제가 방금 댄들라이와 함께 마흐리안의 파노라마를 다시 조사하던 도중, 낮에는 없었던 구역이 나타났습니다.
-AR15Mod(6)<Speaker>지휘관</Speaker><同时置暗>||:잠깐만, 오늘은 더 이상 심문하지――
-AR15Mod(6)<Speaker>AR15</Speaker>||:아주 중요한 일이라니까요!
-AR15Mod(6)<Speaker>지휘관</Speaker><同时置暗>||:...계속하렴.
-AR15Mod(6)<Speaker>AR15</Speaker>||:그 구역의 잠금을 해제하니, 거기에서 몰리도의 기억이 나왔어요!+몰리도가 어떻게 난민을 학살하고, 울릭 주석의 비서 행세를 하게 됐는지요!
-AR15Mod(6)<Speaker>지휘관</Speaker><同时置暗>||:뭐라고?!
-AR15Mod(7)<Speaker>AR15</Speaker>||:그 녀석 머릿속에 몰리도의 기억이 있어요! 마흐리안이 바로 몰리도예요!+...댄들라이도 저랑 그 기억을 함께 목격하고, 제 말에 동의한다고 했습니다.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:사실, 전 이미 AR-15의 의견에 동의하지 않습니다.
-AR15Mod(7)<Speaker>AR15</Speaker>||:너 뭐어?!
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:니토의 컨셔스 파노라마는 본래부터 뒤죽박죽인데 더해, 의식 교차를 통해 서로 정보를 교환합니다.+마흐리안은 몰리도와 외모도 일치하니, 파노라마에 서로의 기억이 섞여 있어도 이상할 것 없겠죠.+물론, 마흐리안이 몰리도일 가능성을 부정하지는 않습니다. 단지 다른 가능성도 있다는 뜻입니다.
-AR15Mod(6)<Speaker>AR15</Speaker>||:너 일부러 그러는 거지...
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:지휘관님이 직접 보고 판단하시는 게 좋겠군요.
-()<Speaker>지휘관</Speaker>||:녹화 영상 있지? 스크린에 띄워 봐.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:...이상하군요, 그 구역을 촬영한 영상이 전부 손상됐습니다. 재생할 수가 없습니다.
-AR15Mod(6)<Speaker>AR15</Speaker>||:그럼 다시 가서 직접 보여드리자고.
-()<Speaker>지휘관</Speaker>||<黑点1>:...가자.
-()||<黑点2><BIN>82</BIN><Night>:마흐리안의 침실.+지휘관과 AR-15, 댄들라이가 함께 방으로 들어갔다.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:으음...? 무슨 일이세요?
-AR15Mod(6)<Speaker>AR15</Speaker>||:연기 그만해 몰리도, 다 들켰으니까.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:네...?
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:통로 연결. AR-15, 갔다 와.
-()||:댄들라이가 연결한 스크린에, 마흐리안의 파노라마가 보였다.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:여기가... 제 마음 속인가요?
-()||:AR-15는 기억을 더듬어 붉은 공백 구역이 나타났던 지점으로 돌아왔지만, 그곳엔 난잡하게 어질러진 기억파편들만 가득할 뿐이었다.
-AR15Mod(6)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>야... 이게 뭐야?</color>
-AR15Mod(6);NytoIsomer(7)<Speaker>댄들라이</Speaker>||:나도... 모르겠어.
-AR15Mod(6)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>마흐리안! 너 무슨 짓 했어!?</color>
-AR15Mod(6);NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:네? 저는 아무것도... 이게 대체 무슨 일인가요?
-AR15Mod(6)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>젠장!</color>
-()||:AR-15는 포기하지 않고 조각들을 뒤졌지만, 몰리도의 기억은 없었다.
-AR15Mod(7)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>이럴 리가 없어! 분명 여기 있었는데!</color>
-()<Speaker>지휘관</Speaker>||:일단 나오렴, AR-15.
-()||:의식이 밖으로 나온 AR-15는 분한 얼굴로 씩씩댔다.
-AR15Mod(6)<Speaker>AR15</Speaker>||:거짓말 아니에요 지휘관! 분명 거기에 있었다고요!
-AR15Mod(6)<Speaker>지휘관</Speaker><同时置暗>||:......+네가 말한 그 구역은 나중에 다시 찾아보자.+근데, 그 전에... AR-15? 너 얼굴에...
-()||:지휘관은 차마 말은 못하고 그저 손가락으로 얼굴을 슥슥 문질렀고, AR-15는 어리둥절해하며 옆의 거울을 보았다.
-AR15Mod(7)<Speaker>AR15</Speaker>||:......+<size=50>댄들라이!!!</size>+<size=50>죽여버리겠어!!!</size>
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||<黑屏1>:면죄부 두 번째.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>357</BIN><Night>:임시 지휘부의 지휘실.+지휘관은 밤 늦게까지 자료를 보며 깊은 생각에 빠져 있었다.
+()||<SE1>RunStep</SE1>:하지만 그 고뇌도 갑자기 댄들라이를 데리고 들이닥친 AR-15에 의해 깨졌다.
+()<Speaker>AR15</Speaker>||:지휘관, 급히 보고드릴 사항이 있습니다!
+()<Speaker>지휘관</Speaker>||:무슨 일이야?
+()||:지휘관은 차를 한 모금 마시면서 피곤한 눈을 자료에서 떼고 고개를 들었다.+그리고 AR-15의 얼굴을 본 순간, 아직 삼키지 못한 차를 그만 거하게 뿜고 말았다.
+()<Speaker>지휘관</Speaker>||:푸――웁!+켁켁... AR-15, 너...
+AR15Mod(6)<Speaker>AR15</Speaker>||<BGM>m_avg_casual</BGM>:지휘관, 일단 제 말을 들으세요!+제가 방금 댄들라이와 함께 마흐리안의 파노라마를 다시 조사하던 도중, 낮에는 없었던 구역이 나타났습니다.
+AR15Mod(6)<Speaker>지휘관</Speaker><同时置暗>||:잠깐만, 오늘은 더 이상 심문하지――
+AR15Mod(6)<Speaker>AR15</Speaker>||:아주 중요한 일이라니까요!
+AR15Mod(6)<Speaker>지휘관</Speaker><同时置暗>||:...계속하렴.
+AR15Mod(6)<Speaker>AR15</Speaker>||:그 구역의 잠금을 해제하니, 거기에서 몰리도의 기억이 나왔어요!+몰리도가 어떻게 난민을 학살하고, 울릭 주석의 비서 행세를 하게 됐는지요!
+AR15Mod(6)<Speaker>지휘관</Speaker><同时置暗>||:뭐라고?!
+AR15Mod(7)<Speaker>AR15</Speaker>||:그 녀석 머릿속에 몰리도의 기억이 있어요! 마흐리안이 바로 몰리도예요!+...댄들라이도 저랑 그 기억을 함께 목격하고, 제 말에 동의한다고 했습니다.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:사실, 전 이미 AR-15의 의견에 동의하지 않습니다.
+AR15Mod(7)<Speaker>AR15</Speaker>||:너 뭐어?!
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:니토의 컨셔스 파노라마는 본래부터 뒤죽박죽인데 더해, 의식 교차를 통해 서로 정보를 교환합니다.+마흐리안은 몰리도와 외모도 일치하니, 파노라마에 서로의 기억이 섞여 있어도 이상할 것 없겠죠.+물론, 마흐리안이 몰리도일 가능성을 부정하지는 않습니다. 단지 다른 가능성도 있다는 뜻입니다.
+AR15Mod(6)<Speaker>AR15</Speaker>||:너 일부러 그러는 거지...
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:지휘관님이 직접 보고 판단하시는 게 좋겠군요.
+()<Speaker>지휘관</Speaker>||:녹화 영상 있지? 스크린에 띄워 봐.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:...이상하군요, 그 구역을 촬영한 영상이 전부 손상됐습니다. 재생할 수가 없습니다.
+AR15Mod(6)<Speaker>AR15</Speaker>||:그럼 다시 가서 직접 보여드리자고.
+()<Speaker>지휘관</Speaker>||<黑点1>:...가자.
+()||<黑点2><BIN>82</BIN><Night>:마흐리안의 침실.+지휘관과 AR-15, 댄들라이가 함께 방으로 들어갔다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:으음...? 무슨 일이세요?
+AR15Mod(6)<Speaker>AR15</Speaker>||:연기 그만해 몰리도, 다 들켰으니까.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:네...?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:통로 연결. AR-15, 갔다 와.
+()||:댄들라이가 연결한 스크린에, 마흐리안의 파노라마가 보였다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:여기가... 제 마음 속인가요?
+()||:AR-15는 기억을 더듬어 붉은 공백 구역이 나타났던 지점으로 돌아왔지만, 그곳엔 난잡하게 어질러진 기억파편들만 가득할 뿐이었다.
+AR15Mod(6)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>야... 이게 뭐야?</color>
+AR15Mod(6);NytoIsomer(7)<Speaker>댄들라이</Speaker>||:나도... 모르겠어.
+AR15Mod(6)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>마흐리안! 너 무슨 짓 했어!?</color>
+AR15Mod(6);NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:네? 저는 아무것도... 이게 대체 무슨 일인가요?
+AR15Mod(6)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>젠장!</color>
+()||:AR-15는 포기하지 않고 조각들을 뒤졌지만, 몰리도의 기억은 없었다.
+AR15Mod(7)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>이럴 리가 없어! 분명 여기 있었는데!</color>
+()<Speaker>지휘관</Speaker>||:일단 나오렴, AR-15.
+()||:의식이 밖으로 나온 AR-15는 분한 얼굴로 씩씩댔다.
+AR15Mod(6)<Speaker>AR15</Speaker>||:거짓말 아니에요 지휘관! 분명 거기에 있었다고요!
+AR15Mod(6)<Speaker>지휘관</Speaker><同时置暗>||:......+네가 말한 그 구역은 나중에 다시 찾아보자.+근데, 그 전에... AR-15? 너 얼굴에...
+()||:지휘관은 차마 말은 못하고 그저 손가락으로 얼굴을 슥슥 문질렀고, AR-15는 어리둥절해하며 옆의 거울을 보았다.
+AR15Mod(7)<Speaker>AR15</Speaker>||:......+<size=50>댄들라이!!!</size>+<size=50>죽여버리겠어!!!</size>
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||<黑屏1>:면죄부 두 번째.

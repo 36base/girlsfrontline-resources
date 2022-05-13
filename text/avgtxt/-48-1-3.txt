@@ -1,71 +1,71 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>240</BIN><Night><BGM>BGM_Sneak</BGM>:버려진 지 족히 몇 년은 되어 보이는 저택은 달빛을 받아 더욱 을씨년스러웠다. 경찰도 수사하고 슈타지도 철저히 내부를 수색했기에, 그들이 제공한 보고서는 매우 상세했고 J 본인도 몇 번이고 열람했다.+안젤리아의 부하 인형들의 잔해가 이곳에서 발견됐지만, 정작 그녀 본인의 행방은 오리무중이었다.+문제는, 오직 그 사실만으로 안젤리아가 라이트를 비롯한 슈타지 요원들을 살해했다 단정짓는 사람도 있다는 것이었다.
-NPC-Keven(5)<Speaker>J</Speaker>||:전혀 납득이 안 된단 말이지...
-()<Speaker></Speaker>||:벽지도 다 떨어져 가는 벽면의 핏자국 덕분에 지문이 선명하게 남아, 그들도 사망자의 신분을 파악할 수 있었다.
-()<Speaker></Speaker>||:.....
-NPC-Keven(5)<Speaker>J</Speaker>||:(여기구나... 라이트가 최초로 공격당한 곳이.)
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:J가 고개를 들어 손전등으로 벽을 비추자, 소름끼치는 형태의 혈흔이 선명히 보였다.+마치 피가 가득 든 혈액 팩이 터진 듯했다.
-NPC-Keven(5)<Speaker>J</Speaker>||:......
-()<Speaker></Speaker>||:그 혈흔 가까이엔 마찬가지로 대량의 출혈과 지혈 흔적, 응급 처치용 상처 봉합 테이프와 소독용 알코올 병이 있었다.
-NPC-Keven(5)<Speaker>J</Speaker>||:......
-()<Speaker></Speaker>||:J가 이번엔 바닥의 다른 쪽을 비췄다. 보고서에 따르면, 그쪽에서도 눈에 띄는 흔적이 발견됐다.
-NPC-Keven(5)<Speaker>J</Speaker>||:(이건가...)
-()<Speaker></Speaker>||:척 봐도 부자연스러운 형태의 혈흔. 피로 무언가를 그린 듯한 모양새지만, 누군가가 특수 약품으로 그 그림을 깨끗이 지워버린 뒤였다.+단지 남아있는 형태로 보아, 경찰과 슈타지 모두 피로 그린 작전 계획도로 추정할 뿐이었다.
-NPC-Keven(5)<Speaker>J</Speaker>||:(라이트 녀석이 누군가와 무슨 계획을 짤 때 남은 흔적인 건가...)
-()<Speaker></Speaker>||:대체 무슨 일이었길래, 라이트는 몸이 그 상태가 되어서도 행동했을까?
-NPC-Keven(5)<Speaker>J</Speaker>||:도저히 상상이 안 간단...?+음?
-()<Speaker></Speaker>||:J가 사색에 잠겨 주위를 둘러보던 그때, 가까운 잔해에서 부자연스러운 반사광이 비쳤다.
-NPC-Keven(5)<Speaker>J</Speaker>||:저건 뭐지...?
-()<Speaker></Speaker>||:벽이 부서져 바닥에 널브러진 나무 판자 조각들 사이로, 무언가가 J가 흔드는 손전등 빛을 따라 반짝이는 것이었다.+다름 아닌 약병이었다.
-NPC-Keven(5)<Speaker>J</Speaker>||:저건...
-()<Speaker></Speaker>||:J는 허겁지겁 나무 조각들을 치우고 그 약병을 주워 들었다.
-()<Speaker></Speaker>||<SE1>AVG_21Winter_Medicine_Bottle</SE1>:그리고 병에 묻은 먼지를 소매로 닦아내니 크고 작은 두 개의 로고가 선명하게 드러났고, 그중 하나는 J도 모를래야 모를 수가 없는 것이었다.+갈라테아 그룹.
-()<Speaker>요원</Speaker>||<SE1>Select</SE1><BGM>BGM_Empty</BGM>:거기 누구냐!
-NPC-Keven(4)<Speaker>J</Speaker>||:쳇...!
-()<Speaker></Speaker>||<BGM>BGM_Danger</BGM>:한눈파는 사이에 들키고 말았다.+좀 더 자세히 살펴보고 싶었지만, J는 당장 그자리서 벗어나야만 했다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:찾아낸 병을 파우치에 쑤셔넣고, 곧장 창문으로 몸을 던졌다.
-()<Speaker>요원A</Speaker>||:침입자다!
-()<Speaker>요원B</Speaker>||<SE1>AVG_tele_connect</SE1>:긴급 상황 발생! 침입자가――
-NPC-Keven(4)<Speaker>J</Speaker>||:아오 진짜 왜 꼭 이럴 때만 일 잘하냐고!
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BGM>BGM_Sneak</BGM><BIN>239</BIN><Night><SE1>RunStep</SE1>:......
-NPC-Keven(0)<Speaker>J</Speaker>||:휴우...!
-()<Speaker></Speaker>||:소란스러워진 양옥에서 벗어나, J는 골목길로 들어선 뒤에야 한숨 돌리면서 위장을 벗었다. 슈타지의 동료들 중에서도 J의 위장을 간파하는 사람은 거의 없으니, 신원을 들켰을 리는 없었다.+이제 저들이 코앞에서 놓친 "침입자"를 찾느라 시끄러운 틈을 타 차를 타고 사라지기만 하면, 자신이 여기 왔었단 증거는 하나도 남지 않을 터였다.
-NPC-Keven(0)<Speaker>J</Speaker>||:......엉?
-()<Speaker></Speaker>||:차로 돌아온 J가 문 손잡이를 당겼지만, 어째선지 잠겨 있었다.
-()<Speaker></Speaker>||:약속과는 다른 상황에, J는 눈살을 찌푸리고 차 창문을 쿵쿵 두드렸다.
-NPC-Keven(0)<Speaker>J</Speaker>||<SE1>AVG_20Winter_Door_Car_Close</SE1>:야, 뭐해? 문 열어!
-()<Speaker></Speaker>||:대답이 없었다.+설마 싶어 차의 정면으로 돌아가 안을 살펴 보니...+안에는 아무도 없었다.
-NPC-Keven(5)<Speaker>J</Speaker>||:이런 ㅆ――
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_21Winter_Open_Light</SE1><BIN>183</BIN>:파앗!
-()<Speaker></Speaker>||:J의 뒤에서 탐조등이 켜져, 등진 상태인데도 그 강렬한 빛에 눈이 부셨다.+J는 체념한 표정으로 뒤돌아, 손으로 그 빛을 가리면서 탐조등까지 끌고 나타난 사람들을 바라봤다.
-()||<白屏1>:
-NPC-Keven(4)<Speaker>J</Speaker>||<白屏2><BIN>239</BIN><Night>:케인 슈바벤 이 망할 자식아...
-NPC-Jason(2)<Speaker>K</Speaker>||:......
-()<Speaker></Speaker>||:J의 욕설에도 K는 대답하지 않고, 그저 어쩔 수 없었다는 얼굴로 자신의 옆에 선 사람을 눈짓했다.
-NPC-Romy(0)<Speaker>？？？</Speaker>||<SE1>ClothingUp</SE1>:...네 쪽 사람이야?
-NPC-Romy(0)<Speaker></Speaker>||:첫인상만 보면 눈부시게 아름다운 여성이었다. 여자라면 숱하게 상대해본 J의 눈에도, 흔치 않은 매력을 지닌 사람이었다.+다만, 그녀의 질문에 K가 묵묵히, 그리고 공손히 고개를 끄덕일 뿐이라는 점에서 그녀의 정체는 대강 짐작이 갔다.
-NPC-Romy(0)<Speaker>？？？</Speaker>||:끌고 가.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Room</BGM>:독일 베를린의 어딘가, 패러데우스의 기지.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>323</BIN><Night>:깔끔한 사무실에서, 하얀 니토가 눈에 띄게 안절부절못해 하며 그레이에게 상황을 보고했다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||<SE1>AVG_20Winter_Book</SE1>:시내의 갈라테아 시설 약 5할이 가동 중단되었습니다만... 작업은 여전히 진행 중입니다...+그, 그룹 측에서도 정부와 교섭에 노력 중이며...
-NPC-MrsGray(5)<Speaker>그레이</Speaker>||:......
-()<Speaker></Speaker>||:한 손으로 턱을 괸 그레이는 하얀 니토에겐 눈길도 주지 않고 있었다. 그저 그녀가 손가락으로 금속제 탁상을 톡톡 두드리는 경쾌한 소리 하나하나가, 하얀 니토의 몸 속까지 울렸다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||<SE1>AVG_20Winter_Book</SE1>:그리고... 그리고...+D8 구역 지하 기지의 잔해를 면밀히 조사한 결과...+몰리도 님의 흐, 흔적은... 여전히 찾지... 못하였...
-()<Speaker></Speaker>||:언제 자신에게 화풀이할지 모른다고 생각하니, 하얀 니토는 두려움을 참을 수 없었다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:그, 그리고 나르시스 님은...+부상이 심각하여 수복에 시, 시간이 소요되는 바, 당분간 작전 참여는 불가능할 것입니다...
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:툭.+탁상을 두드리던 소리가 멈췄다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker><Shake>0.1</Shake>||:힉...
-NPC-MrsGray(5)<Speaker>그레이</Speaker>||:내 명의로 그룹 전체에 메시지 보내.+당장 약품 공장 내 모든 자료를 파기하라고. 특히 거래 명부.+사소한 증거 하나라도 남겨선 안 돼.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:아, 알겠습니다...
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:가 봐.
-()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:두려워하던 일은 일어나지 않았지만, 하얀 니토는 여전히 벌벌 떨며 사무실에서 나갔다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:나르시스는 중상에, 스승님은 실종...+안전계약사와 니모겐의 몸을 탈취한 오가스 일행의 행방도 불명.+가장 큰 문제는 책임자가 사라져서 "고치 계획"이 정체된 상황인 건데...+아버님이 들으시면 뭐라 하실지...
-NPC-MrsGray(5)<Speaker>그레이</Speaker>||:하여간 얼간이들밖에 없――
-()<Speaker>？？？</Speaker>||:...그레이.
-()<Speaker></Speaker>||:그레이의 짜증이 폭발하기 직전, 그녀만 있던 방에 난데없이 전혀 다른 목소리가 들렸다.+그리고 그 목소리를 들은 순간, 그레이의 얼굴이 밝아졌다.
-NPC-MrsGray(4)<Speaker>그레이</Speaker>||<SE1>ClothingUp</SE1>:아아... 돌아왔니?
-()<Speaker></Speaker>||:그 인사 한 마디에, 그레이의 울화가 감쪽같이 사라졌다.
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>240</BIN><Night><BGM>BGM_Sneak</BGM>:버려진 지 족히 몇 년은 되어 보이는 저택은 달빛을 받아 더욱 을씨년스러웠다. 경찰도 수사하고 슈타지도 철저히 내부를 수색했기에, 그들이 제공한 보고서는 매우 상세했고 J 본인도 몇 번이고 열람했다.+안젤리아의 부하 인형들의 잔해가 이곳에서 발견됐지만, 정작 그녀 본인의 행방은 오리무중이었다.+문제는, 오직 그 사실만으로 안젤리아가 라이트를 비롯한 슈타지 요원들을 살해했다 단정짓는 사람도 있다는 것이었다.
+NPC-Keven(5)<Speaker>J</Speaker>||:전혀 납득이 안 된단 말이지...
+()<Speaker></Speaker>||:벽지도 다 떨어져 가는 벽면의 핏자국 덕분에 지문이 선명하게 남아, 그들도 사망자의 신분을 파악할 수 있었다.
+()<Speaker></Speaker>||:.....
+NPC-Keven(5)<Speaker>J</Speaker>||:(여기구나... 라이트가 최초로 공격당한 곳이.)
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:J가 고개를 들어 손전등으로 벽을 비추자, 소름끼치는 형태의 혈흔이 선명히 보였다.+마치 피가 가득 든 혈액 팩이 터진 듯했다.
+NPC-Keven(5)<Speaker>J</Speaker>||:......
+()<Speaker></Speaker>||:그 혈흔 가까이엔 마찬가지로 대량의 출혈과 지혈 흔적, 응급 처치용 상처 봉합 테이프와 소독용 알코올 병이 있었다.
+NPC-Keven(5)<Speaker>J</Speaker>||:......
+()<Speaker></Speaker>||:J가 이번엔 바닥의 다른 쪽을 비췄다. 보고서에 따르면, 그쪽에서도 눈에 띄는 흔적이 발견됐다.
+NPC-Keven(5)<Speaker>J</Speaker>||:(이건가...)
+()<Speaker></Speaker>||:척 봐도 부자연스러운 형태의 혈흔. 피로 무언가를 그린 듯한 모양새지만, 누군가가 특수 약품으로 그 그림을 깨끗이 지워버린 뒤였다.+단지 남아있는 형태로 보아, 경찰과 슈타지 모두 피로 그린 작전 계획도로 추정할 뿐이었다.
+NPC-Keven(5)<Speaker>J</Speaker>||:(라이트 녀석이 누군가와 무슨 계획을 짤 때 남은 흔적인 건가...)
+()<Speaker></Speaker>||:대체 무슨 일이었길래, 라이트는 몸이 그 상태가 되어서도 행동했을까?
+NPC-Keven(5)<Speaker>J</Speaker>||:도저히 상상이 안 간단...?+음?
+()<Speaker></Speaker>||:J가 사색에 잠겨 주위를 둘러보던 그때, 가까운 잔해에서 부자연스러운 반사광이 비쳤다.
+NPC-Keven(5)<Speaker>J</Speaker>||:저건 뭐지...?
+()<Speaker></Speaker>||:벽이 부서져 바닥에 널브러진 나무 판자 조각들 사이로, 무언가가 J가 흔드는 손전등 빛을 따라 반짝이는 것이었다.+다름 아닌 약병이었다.
+NPC-Keven(5)<Speaker>J</Speaker>||:저건...
+()<Speaker></Speaker>||:J는 허겁지겁 나무 조각들을 치우고 그 약병을 주워 들었다.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Medicine_Bottle</SE1>:그리고 병에 묻은 먼지를 소매로 닦아내니 크고 작은 두 개의 로고가 선명하게 드러났고, 그중 하나는 J도 모를래야 모를 수가 없는 것이었다.+갈라테아 그룹.
+()<Speaker>요원</Speaker>||<SE1>Select</SE1><BGM>BGM_Empty</BGM>:거기 누구냐!
+NPC-Keven(4)<Speaker>J</Speaker>||:쳇...!
+()<Speaker></Speaker>||<BGM>BGM_Danger</BGM>:한눈파는 사이에 들키고 말았다.+좀 더 자세히 살펴보고 싶었지만, J는 당장 그자리서 벗어나야만 했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:찾아낸 병을 파우치에 쑤셔넣고, 곧장 창문으로 몸을 던졌다.
+()<Speaker>요원A</Speaker>||:침입자다!
+()<Speaker>요원B</Speaker>||<SE1>AVG_tele_connect</SE1>:긴급 상황 발생! 침입자가――
+NPC-Keven(4)<Speaker>J</Speaker>||:아오 진짜 왜 꼭 이럴 때만 일 잘하냐고!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BGM>BGM_Sneak</BGM><BIN>239</BIN><Night><SE1>RunStep</SE1>:......
+NPC-Keven(0)<Speaker>J</Speaker>||:휴우...!
+()<Speaker></Speaker>||:소란스러워진 양옥에서 벗어나, J는 골목길로 들어선 뒤에야 한숨 돌리면서 위장을 벗었다. 슈타지의 동료들 중에서도 J의 위장을 간파하는 사람은 거의 없으니, 신원을 들켰을 리는 없었다.+이제 저들이 코앞에서 놓친 "침입자"를 찾느라 시끄러운 틈을 타 차를 타고 사라지기만 하면, 자신이 여기 왔었단 증거는 하나도 남지 않을 터였다.
+NPC-Keven(0)<Speaker>J</Speaker>||:......엉?
+()<Speaker></Speaker>||:차로 돌아온 J가 문 손잡이를 당겼지만, 어째선지 잠겨 있었다.
+()<Speaker></Speaker>||:약속과는 다른 상황에, J는 눈살을 찌푸리고 차 창문을 쿵쿵 두드렸다.
+NPC-Keven(0)<Speaker>J</Speaker>||<SE1>AVG_20Winter_Door_Car_Close</SE1>:야, 뭐해? 문 열어!
+()<Speaker></Speaker>||:대답이 없었다.+설마 싶어 차의 정면으로 돌아가 안을 살펴 보니...+안에는 아무도 없었다.
+NPC-Keven(5)<Speaker>J</Speaker>||:이런 ㅆ――
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_21Winter_Open_Light</SE1><BIN>183</BIN>:파앗!
+()<Speaker></Speaker>||:J의 뒤에서 탐조등이 켜져, 등진 상태인데도 그 강렬한 빛에 눈이 부셨다.+J는 체념한 표정으로 뒤돌아, 손으로 그 빛을 가리면서 탐조등까지 끌고 나타난 사람들을 바라봤다.
+()||<白屏1>:
+NPC-Keven(4)<Speaker>J</Speaker>||<白屏2><BIN>239</BIN><Night>:케인 슈바벤 이 망할 자식아...
+NPC-Jason(2)<Speaker>K</Speaker>||:......
+()<Speaker></Speaker>||:J의 욕설에도 K는 대답하지 않고, 그저 어쩔 수 없었다는 얼굴로 자신의 옆에 선 사람을 눈짓했다.
+NPC-Romy(0)<Speaker>？？？</Speaker>||<SE1>ClothingUp</SE1>:...네 쪽 사람이야?
+NPC-Romy(0)<Speaker></Speaker>||:첫인상만 보면 눈부시게 아름다운 여성이었다. 여자라면 숱하게 상대해본 J의 눈에도, 흔치 않은 매력을 지닌 사람이었다.+다만, 그녀의 질문에 K가 묵묵히, 그리고 공손히 고개를 끄덕일 뿐이라는 점에서 그녀의 정체는 대강 짐작이 갔다.
+NPC-Romy(0)<Speaker>？？？</Speaker>||:끌고 가.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Room</BGM>:독일 베를린의 어딘가, 패러데우스의 기지.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>323</BIN><Night>:깔끔한 사무실에서, 하얀 니토가 눈에 띄게 안절부절못해 하며 그레이에게 상황을 보고했다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||<SE1>AVG_20Winter_Book</SE1>:시내의 갈라테아 시설 약 5할이 가동 중단되었습니다만... 작업은 여전히 진행 중입니다...+그, 그룹 측에서도 정부와 교섭에 노력 중이며...
+NPC-MrsGray(5)<Speaker>그레이</Speaker>||:......
+()<Speaker></Speaker>||:한 손으로 턱을 괸 그레이는 하얀 니토에겐 눈길도 주지 않고 있었다. 그저 그녀가 손가락으로 금속제 탁상을 톡톡 두드리는 경쾌한 소리 하나하나가, 하얀 니토의 몸 속까지 울렸다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||<SE1>AVG_20Winter_Book</SE1>:그리고... 그리고...+D8 구역 지하 기지의 잔해를 면밀히 조사한 결과...+몰리도 님의 흐, 흔적은... 여전히 찾지... 못하였...
+()<Speaker></Speaker>||:언제 자신에게 화풀이할지 모른다고 생각하니, 하얀 니토는 두려움을 참을 수 없었다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:그, 그리고 나르시스 님은...+부상이 심각하여 수복에 시, 시간이 소요되는 바, 당분간 작전 참여는 불가능할 것입니다...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:툭.+탁상을 두드리던 소리가 멈췄다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker><Shake>0.1</Shake>||:힉...
+NPC-MrsGray(5)<Speaker>그레이</Speaker>||:내 명의로 그룹 전체에 메시지 보내.+당장 약품 공장 내 모든 자료를 파기하라고. 특히 거래 명부.+사소한 증거 하나라도 남겨선 안 돼.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:아, 알겠습니다...
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:가 봐.
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:두려워하던 일은 일어나지 않았지만, 하얀 니토는 여전히 벌벌 떨며 사무실에서 나갔다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:나르시스는 중상에, 스승님은 실종...+안전계약사와 니모겐의 몸을 탈취한 오가스 일행의 행방도 불명.+가장 큰 문제는 책임자가 사라져서 "고치 계획"이 정체된 상황인 건데...+아버님이 들으시면 뭐라 하실지...
+NPC-MrsGray(5)<Speaker>그레이</Speaker>||:하여간 얼간이들밖에 없――
+()<Speaker>？？？</Speaker>||:...그레이.
+()<Speaker></Speaker>||:그레이의 짜증이 폭발하기 직전, 그녀만 있던 방에 난데없이 전혀 다른 목소리가 들렸다.+그리고 그 목소리를 들은 순간, 그레이의 얼굴이 밝아졌다.
+NPC-MrsGray(4)<Speaker>그레이</Speaker>||<SE1>ClothingUp</SE1>:아아... 돌아왔니?
+()<Speaker></Speaker>||:그 인사 한 마디에, 그레이의 울화가 감쪽같이 사라졌다.
+()||<黑屏1>:

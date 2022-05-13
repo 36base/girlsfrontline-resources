@@ -1,177 +1,177 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>46</BIN><Night><BGM>BGM_Room</BGM>:......
-()<Speaker></Speaker>||:베를린, 안젤리아의 거처.+깊은 밤이 지나고, 동이 트기까지도 두세 시간밖에 안 남은 시점.+각자 꼴이 엉망인 안젤리아와 그녀의 부하들이 드디어 아파트로 돌아왔다.+창고를 떠날 때부터 라이트는 계속 안젤리아를 따라왔지만, 입을 열지는 않았다.+상대가 말이 없으니 안젤리아도 말하지 않았고, 그렇게 둘은 조용히 안식처로 돌아왔다.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:......
-NPC-Light(0)<Speaker>라이트</Speaker>||:......
-()<Speaker></Speaker>||:슈타지 요원들은 다들 자기 위치로 복귀했지만, 라이트는 안젤리아의 방 문앞까지 와서도 떠날 기색이 안 보였다.+결국 안젤리아가 보다 못해 먼저 입을 열었다.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:배웅은 여기까지면 됐어.
-NPC-Light(0)<Speaker>라이트</Speaker>||:오늘은 저도 여기서 묵을 겁니다. 바로 옆방에서요.
-()<Speaker></Speaker>||:라이트는 무표정한 얼굴로 시큰둥하게 대답했다.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:왜, 내가 또 다른 창고 터뜨릴까 봐?
-NPC-AngeDamage(0);NPC-Light(0)<Speaker>라이트</Speaker>||:당신을 의심해서가 아닙니다.+그저... 제 누나가 잠자리에 들어서, 깨우기 싫어서요.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;NPC-Light(0)||:음? 너 누나가 있어? 걔도 슈타지야?
-NPC-AngeDamage(0);NPC-Light(0)<Speaker>라이트</Speaker>||:아뇨, 기자입니다.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;NPC-Light(0)||:기자?
-NPC-Light(0)<Speaker>라이트</Speaker>||:네.
-()<Speaker></Speaker>||:안젤리아는 여전히 문고리를 잡은 채로 라이트를 바라보았다.+라이트도, 아무래도 안젤리아가 방으로 들어가기 전엔 눈을 뗄 생각이 없는 듯했다.+이번 일 때문에... 안젤리아는 할 말이 없었다.+한참을 머뭇거리다, 끝내 문고리를 놓고 팔꿈치를 문에 기대고서 말을 마저 하기로 했다.
-NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||:그러니까... 오늘 일은 내가 진심으로 사과할게.+함부로 행동해서 너한테 폐를 끼쳤다. 미안해.
-NPC-Light(2)<Speaker>라이트</Speaker>||:......
-()<Speaker></Speaker>||:뜻밖의 전개에 라이트는 넋을 잃었다.+그도 그럴 것이, 그가 아는 안젤리아는 사과를 모르는 인물이었으니 말이다.
-NPC-Light(3)<Speaker>라이트</Speaker>||:아, 아뇨... 괜찮습니다.+저를 신용하지 못하신다는 건 알고 있습니다. 당연한 일이죠.+당신께 브레멘에서 무슨 일이 있었는지도 압니다.+설마 패러데우스가 정계의 고위직까지 침투했고, 그레이 박사마저 포섭했다니...+이런 상황에서 당신이 신중에 신중을 기하는 것도 어쩔 수 없는 일이죠.
-()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:안젤리아는 문을 퉁퉁 두드리며 할 말을 정리했다. 솔직히, 안젤리아에 대한 라이트의 인상은 틀리지 않았다. 안젤리아는 사과가 서투르다.+하지만 이 청년은 사과를 받을 권리가 있다고, 안젤리아는 생각했다.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:그 여자를 처음 봤을 때, 딱 너 같았어.+젊고, 열정적이고, 포부 있고... 너는 더 심해, 내 옛날 생각까지 났어.
-NPC-AngeDamage(0);NPC-Light(3)<Speaker>라이트</Speaker>||:그래도 전 당신과 대적하지도, 비행기에서 목숨 걸고 싸우지도 않을 겁니다.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;NPC-Light(3)||:풉.+뭐야, 착한 아이였네?
-NPC-AngeDamage(0);NPC-Light(3)<Speaker>라이트</Speaker>||:글쎄요, 착한 아이라 할 수 있을진...+툭하면 누나를 화나게 만들고, 누나한테 대들기만 하는 동생인걸요.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:대드는 게 꼭 나쁜 짓이지만은 않아. 상대방 열받게 하려고 대드는 것만 아니면 돼.
-()<Speaker></Speaker>||:안젤리아는 다시 문고리를 잡았다.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:오늘은 네 덕분에 살았어, 고맙다.+그래도 난 다음에도 내 방식대로 할 거야.
-NPC-AngeDamage(0);NPC-Light(3)<Speaker>라이트</Speaker>||:얼마든지요. 전 당신의 판단을 믿습니다.+제 도움이 필요하시다면 언제든지 말씀해 주세요.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:착한 아이는 일찍 자기나 해, 내일 또 할 일 있으니까.
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:안젤리아는 피식 웃으며 문을 열었다.
-NPC-Light(3)<Speaker>라이트</Speaker>||:안녕히 주무십시오, 안젤리아 씨.
-()<Speaker></Speaker>||:라이트는 안젤리아가 방에 들어가 문을 닫는 것까지 확인하고 난 뒤에야 발걸음을 옮겼다.+조용한 복도 위에 걸린 샹들리에의 불빛은 평소보다 어두워 보였다.
-NPC-Light(0)<Speaker>라이트</Speaker>||:......
-()<Speaker></Speaker>||:동료 요원들은 모두 건물의 1층과 2층을 지키는 중이었다.+이 건물은 본디 타국의 귀빈이 방문했을 때 사용하는 숙소여서, 높은 층에 사람을 배치하는 일은 거의 없었다.+게다가 지금은 안젤리아 일행을 빼면 아무도 없다.+조용한 것도 당연했다.
-()<Speaker></Speaker>||:라이트는 자신의 방의 문고리를 잡고, 천천히 문을 열었다.+......이상했다.+오늘의 고요함은... 뭔가 심상찮았다.
-NPC-Light(2)<Speaker>라이트</Speaker>||:안젤리——
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:라이트는 바로 몸을 돌렸지만, 눈앞에 그림자가 나타나 그를 가로막았다.
-()<Speaker>패러데우스 병사</Speaker>||<SE1>AVG_weapon_reload</SE1>:——!
-()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_Punch_Hit</SE1><BGM>BGM_Empty</BGM>:퍼억!
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>276</BIN><Night><SE1>AVG_20Winter_Door_Close</SE1>:......
-()<Speaker></Speaker>||:안젤리아는 이제 창가에 앉은 AK-12가 자신을 맞이하는 게 더는 어색하지도 않았다.
-AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:젊은 애랑 그렇게 오래 얘기하다니, 이거 별일이네.+솔직히 나 감동 먹었어.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(15)<Position>0,60</Position>||:다른 애들이랑 바깥 경계 안 서고 뭐해.
-NPC-AngeDamage(0);AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:나도 부상자거든? 휴식할 권리가 있다고.+그리고, 지금 너한테 말상대가 필요할 거 같아서.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:......
-()<Speaker></Speaker>||:안젤리아는 창문의 커튼을 닫고, 침대 앞 의자에 앉았다.
-AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:안젤리아, 너 지금 신경이 너무 곤두서 있어.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(15)<Position>0,60</Position>||:와서는 하는 말이 심리상담이야? 그런 짓은 RPK나 하는 줄 알았더니.
-NPC-AngeDamage(0);AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:나야 인간의 신체 언어를 분석하는 법을 배웠으니까 알지.+넌 항상 창문을 싫어했잖아. 문을 보고 앉으려 하지도 않고.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(15)<Position>0,60</Position>||:...내가 지금 베를린에 있는 건지, 패러데우스의 소굴에 있는 건지 모르겠다.+어쩌면 둘 다일 수도 있겠네.
-NPC-AngeDamage(0);AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:우린 결국 도움을 받아야 해, 안젤리아.+패러데우스는 우리만으로 엎을 수 있는 조직이 아니야.+저 꼬맹이를 변호하는 건 아니지만, 그래도 J랑 K가 추천해서 온 거 아니겠어?+게다가 오늘은 쟤 안 왔으면 우리 모두 거기서 끝장이었어.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(15)<Position>0,60</Position>||:알아, 나도 안다고... 라이트가 믿어도 될 녀석이란 건 진작부터 알았어.+하지만 내가 말했지, 저 녀석 하나 믿을 만해선 아무 의미 없다고. 쟤 밑에 스파이가 있을 가능성이 0이 아닌 이상, 계획을 말해줄 수 없어.+녀석이 혼자서 따라오기라도 하지 않는 이상은.
-NPC-AngeDamage(0);AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:최악의 상황이라도 우리가 있잖아. 우리가 비록 "반역자 소대"라지만, 널 배신할 일은 없어.+아 그렇지, 그리폰의 지휘관도 여기 왔잖아.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(15)<Position>0,60</Position>||:...라이트에 대해선 좀 더 생각해 볼게.
-NPC-AngeDamage(0);AK12(16)<Speaker>AK12</Speaker><Position>0,60</Position>||:후훗, 그래야 우리 안젤리아지.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(16)<Position>0,60</Position>||:일단 브레멘에서보단 목표가 확실해.+그레이부터 진압한다면 윌리엄의 속셈을 밝혀낼 수 있을 거야.+그 여자가 최중요 인물이야.
-NPC-AngeDamage(0);AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:무슨 일이 있어도 그 여자의 계획을 막아야 한다는 거네.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(15)<Position>0,60</Position>||:그래... 반드시 막아야 해.+그놈의 빌어먹을 테러 계획에 찬물을 끼얹어야지.
-AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:그러고 보니 물어볼 게 있는데, 안젤리아 너 혹시――
-()<Speaker></Speaker>||:......+AK-12가 돌연 말을 멈췄다.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:AK-12?
-AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:적습이다.
-()<Speaker></Speaker>||<震屏3><SE1>AVG_Broken_Glass</SE1><BGM>10230</BGM>:쨍그랑!
-AK12(17)<Speaker>AK12</Speaker><Position>0,60</Position>||<SE1>AVG_weapon_reload</SE1>:안젤리아, 엎드려!
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타타탕!!+커튼에 가려졌던 창문이, 거대한 형체가 들이받아 박살났다. 안젤리아는 조건반사에 가까운 움직임으로 몸을 침대 너머로 굴려 엄폐하면서, 권총을 뽑아 들었다.
-()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:타앙!
-()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1>:그리고 신속하게 AK-12의 칼질에 목이 베인 그 병사를 확인사살했다.
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Flash_Bomb</SE1>:떼구르르...
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:수류탄!
-()<Speaker></Speaker>||<震屏3><SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:펑!
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:콜록... 콜록콜록...+제기랄, 최루탄이잖아...
-()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:안젤리아가 손수건을 꺼내든 순간, 누가 방의 문을 박차고 들어왔다.+AK-12는 열린 문을 향해 총구를 돌리고, 하마터면 방아쇠를 당길 뻔했다.
-NPC-Light(1)<Speaker>라이트</Speaker>||:안젤리아 씨!+윽?! 콜록콜록!!
-()<Speaker></Speaker>||:마찬가지로 잔뜩 경계 태세인 라이트였다.+얼굴엔 피가 묻어있고, 한손엔 단도, 다른 손엔 권총을 쥐고 있었다.
-NPC-Light(1)<Speaker>라이트</Speaker>||:어서 움직이세요!+적습입니다!
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:알아, 나도 장님이 아니라고.
-()<Speaker></Speaker>||:안젤리아의 눈에 문 앞에 쓰러져 있는 패러데우스 병사의 시체가 들어왔다.+그리고 AK-12가 해치운 병사들도... 다 안젤리아가 본 적 있는 종류였다.+패러데우스의 보병 유닛, 통칭 "스트렐치".+안젤리아는 속으로 욕했다.+왜 생각이 닿지 않았을까?+그 여자가, 그렇게 순순히 포기할 리 없었단 사실에.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:안젤리아가 주저하던 도중, 복도 귀퉁이에서 총탄이 날아와 라이트도 방 안으로 숨어야 했다.
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:다른 애들은?!
-AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||<CGDelay>0.5</CGDelay>:지금 통신 중인데...
-AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position><Delay>1</Delay>||<SE1>AVG_21Winter_Error</SE1>:젠장, 신호가 차단당했어.
-NPC-Light(1)<Speaker>라이트</Speaker>||:저도입니다.+통신이 먹통이라 지원 요청도 불가능합니다. 경보도 마비됐어요.
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:쯧, 아까 그년 역린을 아주 제대로 건드린 모양이네.
-()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:안젤리아는 혀를 차면서 총을 재장전했다.
-NPC-Light(1)<Speaker>라이트</Speaker>||:하지만 이렇게 소란을 피웠으니, 통신을 차단했어도 금방 들킬 겁니다.+지원이 도착할 때까지만 버티면 돼요.
-AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:...무리겠는걸.
-NPC-Light(1)<Speaker>라이트</Speaker>||:네?
-()<Speaker></Speaker>||<SE1>Explode</SE1><SE1>AVG_20Winter_Burnfire_Loop</SE1>:타닥타닥...
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||<火花>:소이탄이야.+날 죽이려고 아주 단단히 벼르고 왔어.
-()<Speaker></Speaker>||:맹렬한 열기가 복도 끝에서부터 서서히 밀려왔다.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:그리고 AK-12가 커튼을 뜯어내 창문으로부터의 습격에 대비하는 그 와중에도, 건물 밑에서 치열한 총격전의 소리가 들려왔다.
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:젠장, 보초 서던 인원들까지 대치 중인가?
-NPC-AngeDamage(3);AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:이 정도 고온은 나한텐 별거 아니지만...+나 혼자 살아남아선 의미 없겠지?
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;AK12(15)<Position>0,60</Position>||:불길의 기세로 봐선...+몇 분 안에 불타 죽던지, 질식해 죽던지야.
-NPC-AngeDamage(3);NPC-Light(1)<Speaker>라이트</Speaker>||:질식은 걱정 없겠죠, 창문이 있으니... 잠깐.+창문으로 탈출하면 되지 않나요?
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;NPC-Light(1)||:열기에 벌써 머리가 익었어? 여긴 8층이야.
-NPC-AngeDamage(3);NPC-Light(1)<Speaker>라이트</Speaker>||:그래도 AK-12 씨가 안젤리아 씨를 안고 뛰어내린다면, 인형의 능력상 도구 등을 사용해 7층이나 6층에 착지할 수 있다고 봅니다.
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;NPC-Light(1)||:넌 어쩌고?
-NPC-AngeDamage(3);NPC-Light(3)<Speaker>라이트</Speaker>||:저들은 안젤리아 씨 당신을 노리고 왔으니, 빠져나가면 당연히 쫓아가겠죠.+그럼 경계가 느슨해진 틈을 타 빠져나갈 수 있습니다.
-AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:괜찮은 생각이긴 한데, 지금 내 상태로는 그런 고난이도 곡예를 할 수 있을런지 모르겠는걸.+그리고 저것들이 그 생각을 안 할 거 같아?
-()<Speaker></Speaker>||:AK-12가 테이블의 컵을 덥석 집어 창밖으로 던졌다.
-()<Speaker></Speaker>||<SE1>AVG_Broken_Glass</SE1><SE1>AVG_rifle_finalshot_h</SE1>:타앙!+밖으로 던져지기가 무섭게, 유리잔은 순식간에 산산조각 났다.
-AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:고개라도 내미는 그 즉시 머리가 저 꼴이 될 거야.
-NPC-AngeDamage(1)<Speaker>안젤리아</Speaker>||:복도를 돌파하는 수밖에 없어.+놈들이 불길을 이쪽으로 몰고오기 전에 어떻게든 포위망을 뚫어야 해.
-NPC-AngeDamage(1);NPC-Light(1)<Speaker>라이트</Speaker>||:알겠습니다, 그럼 저와 AK-12 씨가 선봉으로 나가죠!
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;NPC-Light(1)||:미쳤어? 넌 2초도 안 돼서 벌집이 될 거다!
-NPC-AngeDamage(3);NPC-Light(3)<Speaker>라이트</Speaker>||:그럼 적어도 1초는 벌 수 있단 뜻이네요!+당신의 안전이 최우선입니다, 안젤리아 씨!
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;NPC-Light(1)||:이 꼬맹이가 무슨 헛소리를――
-NPC-AngeDamage(3);AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:그만, 입 좀 다물어 봐!+바닥에 뭐가 있어!
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:있긴 뭐가 있――?!
-()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1>:두 사람이 말다툼하던 사이, 발밑에서 강력한 충격이 느껴졌다.+박살난 벽돌이 중력에 이끌려 무너져내렸고, 안젤리아와 라이트도 무방비하게 추락했다.
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:크윽... 쿨럭쿨럭...
-AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:아야야... 야! 딴 길로 올 순 없었어!?
-()<Speaker></Speaker>||:추락하는 순간, AK-12는 안젤리아를 붙잡아 품에 안고 그녀 대신 충격을 흡수했다.+그 때문에, 이미 아슬아슬한 상태였던 AK-12의 소체에서 불길한 소리가 났다.+그래도 다행히 적은 아니었다. 자욱한 먼지 너머로 AK-12가 고함쳤고, 익숙한 목소리가 그녀에게 변명했다.
-RPK16(4)<Speaker>RPK16</Speaker>||:하늘에 맹세코 달리 방도가 없었는데 어떡해요.+7층에서 8층으로 향하는 길이 죄다 막혀버렸는데, 안젤리아를 적이 철통 수비 중인 비상구로 가게 할 수도 없잖아요?
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;RPK16(4)||:RPK...? AK-15와 AN-94는?
-RPK16(4)<Speaker>RPK16</Speaker>||:아래층에 니토를 포함한 패러데우스의 암살 부대가 들이닥쳤어요.+기습엔 도가 튼 녀석들이니, 그 둘이서도 상대하긴 꽤나 까다로울 거예요.+하지만 상대가 양동 작전을 벌이지 않을까 싶어서 와봤더니, 정답이지 뭐예요?
-NPC-Light(2)<Speaker>라이트</Speaker>||:으윽...
-()<Speaker></Speaker>||:라이트는 다리를 부둥켜안고 신음소리를 내었다.
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:어, 라이트? 괜찮아?!
-NPC-Light(2)<Speaker>라이트</Speaker>||:으... 잘 모르겠네요.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:투다다다당!!
-RPK16(4)<Speaker>RPK16</Speaker>||:사과하고 싶지만 지금은 느긋하게 그럴 상황이 아니네요.+이게 제가 생각해낸 것들 중 여러분을 제일 빨리 구해낼 방법이었어요.+너무 요란했던 게 사소한 단점이라면 단점이겠네요.
-AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:사소하긴 무슨! 자기가 했다고 점수 너무 후하게 매긴다 너?
-NPC-Light(2)<Speaker>라이트</Speaker>||<SE1>Rope</SE1>:아윽...!
-()<Speaker></Speaker>||:라이트가 고통을 참으며 일어났지만, 곧바로 다시 잔해 위에 무릎을 꿇었다.
-NPC-AngeDamage(1)<Speaker>안젤리아</Speaker>||:전혀 안 괜찮아 보이는걸.
-NPC-Light(1)<Speaker>라이트</Speaker>||:아뇨, 괜찮... 예, 좀 심각하네요.+발목을 삐었습니다.
-RPK16(5)<Speaker>RPK16</Speaker>||:이런.
-NPC-AngeDamage(1)<Speaker>안젤리아</Speaker>||:걸을 순 있겠어?
-NPC-AngeDamage(1);NPC-Light(2)<Speaker>라이트</Speaker>||:네, 다만... 여러분과 함께 행동하면 안 되겠습니다.+괜히 발목만 잡을 뿐이에요.+여기서 따로 움직이죠.
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;NPC-Light(2)||:아까부터 헛소리하네, 너 혼자로는 움직이기도 전에 죽어!
-NPC-Light(3)<Speaker>라이트</Speaker>||:안심하십시오, 죽더라도 절대 쉽게 죽진 않을 셈입니다. ...아무렴요, 저는 슈타지의 유망주인걸요.+그리고 저들의 목적은 어디까지나 당신이니, 저를 노리진 않을 겁니다.
-()<Speaker></Speaker>||:라이트는 안젤리아에게 싱긋 미소를 지어 보였다. 무척 매력적인 얼굴이었지만, 지금은 감상할 때가 아니었다.
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:영웅 흉내는 꿈에서나 하셔.+널 버리고는 안 가.
-NPC-Light(3)<Speaker>라이트</Speaker>||:안젤리아 씨야말로 잠꼬대하지 마세요.+시간이 없습니다.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:라이트의 말을 증명하듯, 패러데우스의 총성이 다시 들려왔다.
-Nyto(1)<Speaker>검은 니토</Speaker>||:목표 발견. 섬멸 개시.
-AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:온다.
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:제기랄, 숨 돌릴 틈도 안 주질 않는구만.+어떻게든 내 목을 가져가겠다 이거지?
-NPC-Light(2)<Speaker>라이트</Speaker>||:놈들의 부대가 길목에 진을 치고 있으니, 강행돌파하더라도 금새 따라붙을 겁니다.
-AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:아무래도, 안젤리아를 무사히 탈출시키려면...+누가 미끼가 되어야겠네.
-RPK16(4)<Speaker>RPK16</Speaker>;AK12(18)<Position>0,60</Position>||:어머, 그럼 우리 대장님이 나설 시간이네요?
-RPK16(4);AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:그렇지.
-RPK16(3)<Speaker>RPK16</Speaker>;AK12(15)<Position>0,60</Position>||:......엥, 네? 진심이었어요?
-RPK16(3);AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:그 방법 말곤 없어.
-RPK16(3)<Speaker>RPK16</Speaker>;AK12(15)<Position>0,60</Position>||:지금 그 꼴로요?+그랬다간 어떻게 될지, 알죠?
-RPK16(3);AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:그걸 왜 몰라.+내가 너처럼 멍청한 줄 알아?
-RPK16(0)<Speaker>RPK16</Speaker>||:그렇다면야, 확실히 묘안이긴 해요. 게다가 베를린을 떠날 때까진 선배의 잔소리를 듣지 않아도 되니, 일석이조예요.+하지만 안젤리아가 섭섭하겠네요.
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:네가 미끼가 되겠다고?+절대 안 돼, 지금 상황으론 네 예비 소체를 가져올 수도 없어! 다른――
-AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:너네 둘이 머리 맞대도 나보다 못하면서 무슨.+내가 다른 방법이 없다면 정말 없는 거야.+안젤리아, 내가 몇 번이고 말했지만... 네 목숨을 최우선으로 해.+인형 지키려다 죽지 말고.
-AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:네가 목숨을 걸 전장은 여기가 아니잖아?
-NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:......
-AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||<SE1>AVG_keyboardtype_sci</SE1>:RPK.
-RPK16(0)<Speaker>RPK16</Speaker>||:네? 어, 지금 뭘 보냈... 지휘 권한?+그럼 이제 제가 대장이에요?
-AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:나 복귀할 때까지만.+안젤리아한테 무슨 일 생기기만 해봐, 쇼가 뭐라 해도 소용없을 테니까.+네 기반 코드가 안 뜯어지는 걸 후회하게 만들어 줄 거야, 알았어?
-RPK16(4)<Speaker>RPK16</Speaker>||:와아... 이거 정말... 황송할 따름이네요.
-NPC-Light(2)<Speaker>라이트</Speaker>||:그럼, 지금부터 저와 AK-12 씨가 적을 각기 다른 방향으로 유인하겠습니다.+안젤리아 씨가 무사히 탈출하기만 한다면, 저희가 받는 압력도 바로 줄어들겠죠.+정말 저희를 살리고 싶으시다면 서둘러 탈출하세요.
-NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||:하지만...
-NPC-Light(3)<Speaker>라이트</Speaker>||:걱정 마시라니까요. 말씀드렸잖습니까, 여기서 죽을 생각 없다고.+AK-12 씨에게 화력이 더 쏠릴 테니, 잘 사린다면 저도 목숨을 부지할 수 있을 겁니다.
-RPK16(3)<Speaker>RPK16</Speaker>||:안젤리아, 그만해요.+두 분 모두 자원해서 당신을 도와주려는 거라고요.+그리고, 저도 이번만큼은 달리 더 나은 방법이 안 떠올라요.
-NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>;RPK16(3)||:......
-NPC-AngeDamage(2);RPK16(5)<Speaker>RPK16</Speaker>||:제가 책임지고 무사히 AK-15랑 AN-94와 합류할게요.
-NPC-AngeDamage(1)<Speaker>안젤리아</Speaker>||:...알았어, 그럼 가자.
-()<Speaker></Speaker>||:안젤리아는 어금니를 꽉 깨물었다. 모퉁이에서 준비 태세를 갖춘 AK-12와 온통 흙투성이면서도 여전히 미소를 짓는 라이트를 뒤로하고, RPK-16과 함께 출발했다.
-NPC-Light(3)<Speaker>라이트</Speaker>||<SE1>ClothingUp</SE1>:AK-12 씨, 제 탄약 전부 드리겠습니다.
-()<Speaker></Speaker>||:라이트가 AK-12에게 자신의 남은 탄창과 폭약까지 전부 건넸다.
-AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:응? 넌 어쩌려고?+그렇게 멋지게 말해놓고선, 설마 여기서 나랑 같이 죽을 셈은 아니겠지?
-NPC-Light(3)<Speaker>라이트</Speaker>;AK12(15)<Position>0,60</Position>||:물론 아니죠. 그냥 제 판단상, 당신이 이걸 가져가는 편이 제 생존률이 더 높아서입니다.+저는 이 자리서 움직이지 않겠습니다. 안젤리아 씨가 탈출하거나 지원 병력이 도착한다면, 저를 공격할 이유도 사라지니까요.
-NPC-Light(3);AK12(16)<Speaker>AK12</Speaker><Position>0,60</Position>||:오호, 너 머리 되게 잘 돌아가는구나?+그럼... 또 보자.
-NPC-Light(3)<Speaker>라이트</Speaker>;AK12(16)<Position>0,60</Position>||:...새로운 세상에서 다시 만납시다, AK-12 씨.
-AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:불길한 소리하긴.
-()<Speaker></Speaker>||<SE1>Select</SE1>:새 탄창으로 교체하고, AK-12는 총의 노리쇠를 당겼다.
-AK12(17)<Speaker>AK12</Speaker><Position>0,60</Position>||:저 패러데우스 피라미들에게 보여 주지.+"진짜 전술인형"이... 얼마나 뛰어난지를.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>46</BIN><Night><BGM>BGM_Room</BGM>:......
+()<Speaker></Speaker>||:베를린, 안젤리아의 거처.+깊은 밤이 지나고, 동이 트기까지도 두세 시간밖에 안 남은 시점.+각자 꼴이 엉망인 안젤리아와 그녀의 부하들이 드디어 아파트로 돌아왔다.+창고를 떠날 때부터 라이트는 계속 안젤리아를 따라왔지만, 입을 열지는 않았다.+상대가 말이 없으니 안젤리아도 말하지 않았고, 그렇게 둘은 조용히 안식처로 돌아왔다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:......
+NPC-Light(0)<Speaker>라이트</Speaker>||:......
+()<Speaker></Speaker>||:슈타지 요원들은 다들 자기 위치로 복귀했지만, 라이트는 안젤리아의 방 문앞까지 와서도 떠날 기색이 안 보였다.+결국 안젤리아가 보다 못해 먼저 입을 열었다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:배웅은 여기까지면 됐어.
+NPC-Light(0)<Speaker>라이트</Speaker>||:오늘은 저도 여기서 묵을 겁니다. 바로 옆방에서요.
+()<Speaker></Speaker>||:라이트는 무표정한 얼굴로 시큰둥하게 대답했다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:왜, 내가 또 다른 창고 터뜨릴까 봐?
+NPC-AngeDamage(0);NPC-Light(0)<Speaker>라이트</Speaker>||:당신을 의심해서가 아닙니다.+그저... 제 누나가 잠자리에 들어서, 깨우기 싫어서요.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;NPC-Light(0)||:음? 너 누나가 있어? 걔도 슈타지야?
+NPC-AngeDamage(0);NPC-Light(0)<Speaker>라이트</Speaker>||:아뇨, 기자입니다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;NPC-Light(0)||:기자?
+NPC-Light(0)<Speaker>라이트</Speaker>||:네.
+()<Speaker></Speaker>||:안젤리아는 여전히 문고리를 잡은 채로 라이트를 바라보았다.+라이트도, 아무래도 안젤리아가 방으로 들어가기 전엔 눈을 뗄 생각이 없는 듯했다.+이번 일 때문에... 안젤리아는 할 말이 없었다.+한참을 머뭇거리다, 끝내 문고리를 놓고 팔꿈치를 문에 기대고서 말을 마저 하기로 했다.
+NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||:그러니까... 오늘 일은 내가 진심으로 사과할게.+함부로 행동해서 너한테 폐를 끼쳤다. 미안해.
+NPC-Light(2)<Speaker>라이트</Speaker>||:......
+()<Speaker></Speaker>||:뜻밖의 전개에 라이트는 넋을 잃었다.+그도 그럴 것이, 그가 아는 안젤리아는 사과를 모르는 인물이었으니 말이다.
+NPC-Light(3)<Speaker>라이트</Speaker>||:아, 아뇨... 괜찮습니다.+저를 신용하지 못하신다는 건 알고 있습니다. 당연한 일이죠.+당신께 브레멘에서 무슨 일이 있었는지도 압니다.+설마 패러데우스가 정계의 고위직까지 침투했고, 그레이 박사마저 포섭했다니...+이런 상황에서 당신이 신중에 신중을 기하는 것도 어쩔 수 없는 일이죠.
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:안젤리아는 문을 퉁퉁 두드리며 할 말을 정리했다. 솔직히, 안젤리아에 대한 라이트의 인상은 틀리지 않았다. 안젤리아는 사과가 서투르다.+하지만 이 청년은 사과를 받을 권리가 있다고, 안젤리아는 생각했다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:그 여자를 처음 봤을 때, 딱 너 같았어.+젊고, 열정적이고, 포부 있고... 너는 더 심해, 내 옛날 생각까지 났어.
+NPC-AngeDamage(0);NPC-Light(3)<Speaker>라이트</Speaker>||:그래도 전 당신과 대적하지도, 비행기에서 목숨 걸고 싸우지도 않을 겁니다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;NPC-Light(3)||:풉.+뭐야, 착한 아이였네?
+NPC-AngeDamage(0);NPC-Light(3)<Speaker>라이트</Speaker>||:글쎄요, 착한 아이라 할 수 있을진...+툭하면 누나를 화나게 만들고, 누나한테 대들기만 하는 동생인걸요.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:대드는 게 꼭 나쁜 짓이지만은 않아. 상대방 열받게 하려고 대드는 것만 아니면 돼.
+()<Speaker></Speaker>||:안젤리아는 다시 문고리를 잡았다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:오늘은 네 덕분에 살았어, 고맙다.+그래도 난 다음에도 내 방식대로 할 거야.
+NPC-AngeDamage(0);NPC-Light(3)<Speaker>라이트</Speaker>||:얼마든지요. 전 당신의 판단을 믿습니다.+제 도움이 필요하시다면 언제든지 말씀해 주세요.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:착한 아이는 일찍 자기나 해, 내일 또 할 일 있으니까.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:안젤리아는 피식 웃으며 문을 열었다.
+NPC-Light(3)<Speaker>라이트</Speaker>||:안녕히 주무십시오, 안젤리아 씨.
+()<Speaker></Speaker>||:라이트는 안젤리아가 방에 들어가 문을 닫는 것까지 확인하고 난 뒤에야 발걸음을 옮겼다.+조용한 복도 위에 걸린 샹들리에의 불빛은 평소보다 어두워 보였다.
+NPC-Light(0)<Speaker>라이트</Speaker>||:......
+()<Speaker></Speaker>||:동료 요원들은 모두 건물의 1층과 2층을 지키는 중이었다.+이 건물은 본디 타국의 귀빈이 방문했을 때 사용하는 숙소여서, 높은 층에 사람을 배치하는 일은 거의 없었다.+게다가 지금은 안젤리아 일행을 빼면 아무도 없다.+조용한 것도 당연했다.
+()<Speaker></Speaker>||:라이트는 자신의 방의 문고리를 잡고, 천천히 문을 열었다.+......이상했다.+오늘의 고요함은... 뭔가 심상찮았다.
+NPC-Light(2)<Speaker>라이트</Speaker>||:안젤리——
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:라이트는 바로 몸을 돌렸지만, 눈앞에 그림자가 나타나 그를 가로막았다.
+()<Speaker>패러데우스 병사</Speaker>||<SE1>AVG_weapon_reload</SE1>:——!
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_Punch_Hit</SE1><BGM>BGM_Empty</BGM>:퍼억!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>276</BIN><Night><SE1>AVG_20Winter_Door_Close</SE1>:......
+()<Speaker></Speaker>||:안젤리아는 이제 창가에 앉은 AK-12가 자신을 맞이하는 게 더는 어색하지도 않았다.
+AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:젊은 애랑 그렇게 오래 얘기하다니, 이거 별일이네.+솔직히 나 감동 먹었어.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(15)<Position>0,60</Position>||:다른 애들이랑 바깥 경계 안 서고 뭐해.
+NPC-AngeDamage(0);AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:나도 부상자거든? 휴식할 권리가 있다고.+그리고, 지금 너한테 말상대가 필요할 거 같아서.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||:안젤리아는 창문의 커튼을 닫고, 침대 앞 의자에 앉았다.
+AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:안젤리아, 너 지금 신경이 너무 곤두서 있어.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(15)<Position>0,60</Position>||:와서는 하는 말이 심리상담이야? 그런 짓은 RPK나 하는 줄 알았더니.
+NPC-AngeDamage(0);AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:나야 인간의 신체 언어를 분석하는 법을 배웠으니까 알지.+넌 항상 창문을 싫어했잖아. 문을 보고 앉으려 하지도 않고.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(15)<Position>0,60</Position>||:...내가 지금 베를린에 있는 건지, 패러데우스의 소굴에 있는 건지 모르겠다.+어쩌면 둘 다일 수도 있겠네.
+NPC-AngeDamage(0);AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:우린 결국 도움을 받아야 해, 안젤리아.+패러데우스는 우리만으로 엎을 수 있는 조직이 아니야.+저 꼬맹이를 변호하는 건 아니지만, 그래도 J랑 K가 추천해서 온 거 아니겠어?+게다가 오늘은 쟤 안 왔으면 우리 모두 거기서 끝장이었어.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(15)<Position>0,60</Position>||:알아, 나도 안다고... 라이트가 믿어도 될 녀석이란 건 진작부터 알았어.+하지만 내가 말했지, 저 녀석 하나 믿을 만해선 아무 의미 없다고. 쟤 밑에 스파이가 있을 가능성이 0이 아닌 이상, 계획을 말해줄 수 없어.+녀석이 혼자서 따라오기라도 하지 않는 이상은.
+NPC-AngeDamage(0);AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:최악의 상황이라도 우리가 있잖아. 우리가 비록 "반역자 소대"라지만, 널 배신할 일은 없어.+아 그렇지, 그리폰의 지휘관도 여기 왔잖아.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(15)<Position>0,60</Position>||:...라이트에 대해선 좀 더 생각해 볼게.
+NPC-AngeDamage(0);AK12(16)<Speaker>AK12</Speaker><Position>0,60</Position>||:후훗, 그래야 우리 안젤리아지.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(16)<Position>0,60</Position>||:일단 브레멘에서보단 목표가 확실해.+그레이부터 진압한다면 윌리엄의 속셈을 밝혀낼 수 있을 거야.+그 여자가 최중요 인물이야.
+NPC-AngeDamage(0);AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:무슨 일이 있어도 그 여자의 계획을 막아야 한다는 거네.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>;AK12(15)<Position>0,60</Position>||:그래... 반드시 막아야 해.+그놈의 빌어먹을 테러 계획에 찬물을 끼얹어야지.
+AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:그러고 보니 물어볼 게 있는데, 안젤리아 너 혹시――
+()<Speaker></Speaker>||:......+AK-12가 돌연 말을 멈췄다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:AK-12?
+AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:적습이다.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Broken_Glass</SE1><BGM>10230</BGM>:쨍그랑!
+AK12(17)<Speaker>AK12</Speaker><Position>0,60</Position>||<SE1>AVG_weapon_reload</SE1>:안젤리아, 엎드려!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타타탕!!+커튼에 가려졌던 창문이, 거대한 형체가 들이받아 박살났다. 안젤리아는 조건반사에 가까운 움직임으로 몸을 침대 너머로 굴려 엄폐하면서, 권총을 뽑아 들었다.
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:타앙!
+()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1>:그리고 신속하게 AK-12의 칼질에 목이 베인 그 병사를 확인사살했다.
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Flash_Bomb</SE1>:떼구르르...
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:수류탄!
+()<Speaker></Speaker>||<震屏3><SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:펑!
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:콜록... 콜록콜록...+제기랄, 최루탄이잖아...
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:안젤리아가 손수건을 꺼내든 순간, 누가 방의 문을 박차고 들어왔다.+AK-12는 열린 문을 향해 총구를 돌리고, 하마터면 방아쇠를 당길 뻔했다.
+NPC-Light(1)<Speaker>라이트</Speaker>||:안젤리아 씨!+윽?! 콜록콜록!!
+()<Speaker></Speaker>||:마찬가지로 잔뜩 경계 태세인 라이트였다.+얼굴엔 피가 묻어있고, 한손엔 단도, 다른 손엔 권총을 쥐고 있었다.
+NPC-Light(1)<Speaker>라이트</Speaker>||:어서 움직이세요!+적습입니다!
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:알아, 나도 장님이 아니라고.
+()<Speaker></Speaker>||:안젤리아의 눈에 문 앞에 쓰러져 있는 패러데우스 병사의 시체가 들어왔다.+그리고 AK-12가 해치운 병사들도... 다 안젤리아가 본 적 있는 종류였다.+패러데우스의 보병 유닛, 통칭 "스트렐치".+안젤리아는 속으로 욕했다.+왜 생각이 닿지 않았을까?+그 여자가, 그렇게 순순히 포기할 리 없었단 사실에.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:안젤리아가 주저하던 도중, 복도 귀퉁이에서 총탄이 날아와 라이트도 방 안으로 숨어야 했다.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:다른 애들은?!
+AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||<CGDelay>0.5</CGDelay>:지금 통신 중인데...
+AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position><Delay>1</Delay>||<SE1>AVG_21Winter_Error</SE1>:젠장, 신호가 차단당했어.
+NPC-Light(1)<Speaker>라이트</Speaker>||:저도입니다.+통신이 먹통이라 지원 요청도 불가능합니다. 경보도 마비됐어요.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:쯧, 아까 그년 역린을 아주 제대로 건드린 모양이네.
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:안젤리아는 혀를 차면서 총을 재장전했다.
+NPC-Light(1)<Speaker>라이트</Speaker>||:하지만 이렇게 소란을 피웠으니, 통신을 차단했어도 금방 들킬 겁니다.+지원이 도착할 때까지만 버티면 돼요.
+AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:...무리겠는걸.
+NPC-Light(1)<Speaker>라이트</Speaker>||:네?
+()<Speaker></Speaker>||<SE1>Explode</SE1><SE1>AVG_20Winter_Burnfire_Loop</SE1>:타닥타닥...
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||<火花>:소이탄이야.+날 죽이려고 아주 단단히 벼르고 왔어.
+()<Speaker></Speaker>||:맹렬한 열기가 복도 끝에서부터 서서히 밀려왔다.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:그리고 AK-12가 커튼을 뜯어내 창문으로부터의 습격에 대비하는 그 와중에도, 건물 밑에서 치열한 총격전의 소리가 들려왔다.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:젠장, 보초 서던 인원들까지 대치 중인가?
+NPC-AngeDamage(3);AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:이 정도 고온은 나한텐 별거 아니지만...+나 혼자 살아남아선 의미 없겠지?
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;AK12(15)<Position>0,60</Position>||:불길의 기세로 봐선...+몇 분 안에 불타 죽던지, 질식해 죽던지야.
+NPC-AngeDamage(3);NPC-Light(1)<Speaker>라이트</Speaker>||:질식은 걱정 없겠죠, 창문이 있으니... 잠깐.+창문으로 탈출하면 되지 않나요?
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;NPC-Light(1)||:열기에 벌써 머리가 익었어? 여긴 8층이야.
+NPC-AngeDamage(3);NPC-Light(1)<Speaker>라이트</Speaker>||:그래도 AK-12 씨가 안젤리아 씨를 안고 뛰어내린다면, 인형의 능력상 도구 등을 사용해 7층이나 6층에 착지할 수 있다고 봅니다.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;NPC-Light(1)||:넌 어쩌고?
+NPC-AngeDamage(3);NPC-Light(3)<Speaker>라이트</Speaker>||:저들은 안젤리아 씨 당신을 노리고 왔으니, 빠져나가면 당연히 쫓아가겠죠.+그럼 경계가 느슨해진 틈을 타 빠져나갈 수 있습니다.
+AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:괜찮은 생각이긴 한데, 지금 내 상태로는 그런 고난이도 곡예를 할 수 있을런지 모르겠는걸.+그리고 저것들이 그 생각을 안 할 거 같아?
+()<Speaker></Speaker>||:AK-12가 테이블의 컵을 덥석 집어 창밖으로 던졌다.
+()<Speaker></Speaker>||<SE1>AVG_Broken_Glass</SE1><SE1>AVG_rifle_finalshot_h</SE1>:타앙!+밖으로 던져지기가 무섭게, 유리잔은 순식간에 산산조각 났다.
+AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:고개라도 내미는 그 즉시 머리가 저 꼴이 될 거야.
+NPC-AngeDamage(1)<Speaker>안젤리아</Speaker>||:복도를 돌파하는 수밖에 없어.+놈들이 불길을 이쪽으로 몰고오기 전에 어떻게든 포위망을 뚫어야 해.
+NPC-AngeDamage(1);NPC-Light(1)<Speaker>라이트</Speaker>||:알겠습니다, 그럼 저와 AK-12 씨가 선봉으로 나가죠!
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;NPC-Light(1)||:미쳤어? 넌 2초도 안 돼서 벌집이 될 거다!
+NPC-AngeDamage(3);NPC-Light(3)<Speaker>라이트</Speaker>||:그럼 적어도 1초는 벌 수 있단 뜻이네요!+당신의 안전이 최우선입니다, 안젤리아 씨!
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;NPC-Light(1)||:이 꼬맹이가 무슨 헛소리를――
+NPC-AngeDamage(3);AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:그만, 입 좀 다물어 봐!+바닥에 뭐가 있어!
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:있긴 뭐가 있――?!
+()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1>:두 사람이 말다툼하던 사이, 발밑에서 강력한 충격이 느껴졌다.+박살난 벽돌이 중력에 이끌려 무너져내렸고, 안젤리아와 라이트도 무방비하게 추락했다.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:크윽... 쿨럭쿨럭...
+AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:아야야... 야! 딴 길로 올 순 없었어!?
+()<Speaker></Speaker>||:추락하는 순간, AK-12는 안젤리아를 붙잡아 품에 안고 그녀 대신 충격을 흡수했다.+그 때문에, 이미 아슬아슬한 상태였던 AK-12의 소체에서 불길한 소리가 났다.+그래도 다행히 적은 아니었다. 자욱한 먼지 너머로 AK-12가 고함쳤고, 익숙한 목소리가 그녀에게 변명했다.
+RPK16(4)<Speaker>RPK16</Speaker>||:하늘에 맹세코 달리 방도가 없었는데 어떡해요.+7층에서 8층으로 향하는 길이 죄다 막혀버렸는데, 안젤리아를 적이 철통 수비 중인 비상구로 가게 할 수도 없잖아요?
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;RPK16(4)||:RPK...? AK-15와 AN-94는?
+RPK16(4)<Speaker>RPK16</Speaker>||:아래층에 니토를 포함한 패러데우스의 암살 부대가 들이닥쳤어요.+기습엔 도가 튼 녀석들이니, 그 둘이서도 상대하긴 꽤나 까다로울 거예요.+하지만 상대가 양동 작전을 벌이지 않을까 싶어서 와봤더니, 정답이지 뭐예요?
+NPC-Light(2)<Speaker>라이트</Speaker>||:으윽...
+()<Speaker></Speaker>||:라이트는 다리를 부둥켜안고 신음소리를 내었다.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:어, 라이트? 괜찮아?!
+NPC-Light(2)<Speaker>라이트</Speaker>||:으... 잘 모르겠네요.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:투다다다당!!
+RPK16(4)<Speaker>RPK16</Speaker>||:사과하고 싶지만 지금은 느긋하게 그럴 상황이 아니네요.+이게 제가 생각해낸 것들 중 여러분을 제일 빨리 구해낼 방법이었어요.+너무 요란했던 게 사소한 단점이라면 단점이겠네요.
+AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:사소하긴 무슨! 자기가 했다고 점수 너무 후하게 매긴다 너?
+NPC-Light(2)<Speaker>라이트</Speaker>||<SE1>Rope</SE1>:아윽...!
+()<Speaker></Speaker>||:라이트가 고통을 참으며 일어났지만, 곧바로 다시 잔해 위에 무릎을 꿇었다.
+NPC-AngeDamage(1)<Speaker>안젤리아</Speaker>||:전혀 안 괜찮아 보이는걸.
+NPC-Light(1)<Speaker>라이트</Speaker>||:아뇨, 괜찮... 예, 좀 심각하네요.+발목을 삐었습니다.
+RPK16(5)<Speaker>RPK16</Speaker>||:이런.
+NPC-AngeDamage(1)<Speaker>안젤리아</Speaker>||:걸을 순 있겠어?
+NPC-AngeDamage(1);NPC-Light(2)<Speaker>라이트</Speaker>||:네, 다만... 여러분과 함께 행동하면 안 되겠습니다.+괜히 발목만 잡을 뿐이에요.+여기서 따로 움직이죠.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>;NPC-Light(2)||:아까부터 헛소리하네, 너 혼자로는 움직이기도 전에 죽어!
+NPC-Light(3)<Speaker>라이트</Speaker>||:안심하십시오, 죽더라도 절대 쉽게 죽진 않을 셈입니다. ...아무렴요, 저는 슈타지의 유망주인걸요.+그리고 저들의 목적은 어디까지나 당신이니, 저를 노리진 않을 겁니다.
+()<Speaker></Speaker>||:라이트는 안젤리아에게 싱긋 미소를 지어 보였다. 무척 매력적인 얼굴이었지만, 지금은 감상할 때가 아니었다.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:영웅 흉내는 꿈에서나 하셔.+널 버리고는 안 가.
+NPC-Light(3)<Speaker>라이트</Speaker>||:안젤리아 씨야말로 잠꼬대하지 마세요.+시간이 없습니다.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:라이트의 말을 증명하듯, 패러데우스의 총성이 다시 들려왔다.
+Nyto(1)<Speaker>검은 니토</Speaker>||:목표 발견. 섬멸 개시.
+AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:온다.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:제기랄, 숨 돌릴 틈도 안 주질 않는구만.+어떻게든 내 목을 가져가겠다 이거지?
+NPC-Light(2)<Speaker>라이트</Speaker>||:놈들의 부대가 길목에 진을 치고 있으니, 강행돌파하더라도 금새 따라붙을 겁니다.
+AK12(18)<Speaker>AK12</Speaker><Position>0,60</Position>||:아무래도, 안젤리아를 무사히 탈출시키려면...+누가 미끼가 되어야겠네.
+RPK16(4)<Speaker>RPK16</Speaker>;AK12(18)<Position>0,60</Position>||:어머, 그럼 우리 대장님이 나설 시간이네요?
+RPK16(4);AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:그렇지.
+RPK16(3)<Speaker>RPK16</Speaker>;AK12(15)<Position>0,60</Position>||:......엥, 네? 진심이었어요?
+RPK16(3);AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:그 방법 말곤 없어.
+RPK16(3)<Speaker>RPK16</Speaker>;AK12(15)<Position>0,60</Position>||:지금 그 꼴로요?+그랬다간 어떻게 될지, 알죠?
+RPK16(3);AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:그걸 왜 몰라.+내가 너처럼 멍청한 줄 알아?
+RPK16(0)<Speaker>RPK16</Speaker>||:그렇다면야, 확실히 묘안이긴 해요. 게다가 베를린을 떠날 때까진 선배의 잔소리를 듣지 않아도 되니, 일석이조예요.+하지만 안젤리아가 섭섭하겠네요.
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:네가 미끼가 되겠다고?+절대 안 돼, 지금 상황으론 네 예비 소체를 가져올 수도 없어! 다른――
+AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:너네 둘이 머리 맞대도 나보다 못하면서 무슨.+내가 다른 방법이 없다면 정말 없는 거야.+안젤리아, 내가 몇 번이고 말했지만... 네 목숨을 최우선으로 해.+인형 지키려다 죽지 말고.
+AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:네가 목숨을 걸 전장은 여기가 아니잖아?
+NPC-AngeDamage(3)<Speaker>안젤리아</Speaker>||:......
+AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||<SE1>AVG_keyboardtype_sci</SE1>:RPK.
+RPK16(0)<Speaker>RPK16</Speaker>||:네? 어, 지금 뭘 보냈... 지휘 권한?+그럼 이제 제가 대장이에요?
+AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:나 복귀할 때까지만.+안젤리아한테 무슨 일 생기기만 해봐, 쇼가 뭐라 해도 소용없을 테니까.+네 기반 코드가 안 뜯어지는 걸 후회하게 만들어 줄 거야, 알았어?
+RPK16(4)<Speaker>RPK16</Speaker>||:와아... 이거 정말... 황송할 따름이네요.
+NPC-Light(2)<Speaker>라이트</Speaker>||:그럼, 지금부터 저와 AK-12 씨가 적을 각기 다른 방향으로 유인하겠습니다.+안젤리아 씨가 무사히 탈출하기만 한다면, 저희가 받는 압력도 바로 줄어들겠죠.+정말 저희를 살리고 싶으시다면 서둘러 탈출하세요.
+NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>||:하지만...
+NPC-Light(3)<Speaker>라이트</Speaker>||:걱정 마시라니까요. 말씀드렸잖습니까, 여기서 죽을 생각 없다고.+AK-12 씨에게 화력이 더 쏠릴 테니, 잘 사린다면 저도 목숨을 부지할 수 있을 겁니다.
+RPK16(3)<Speaker>RPK16</Speaker>||:안젤리아, 그만해요.+두 분 모두 자원해서 당신을 도와주려는 거라고요.+그리고, 저도 이번만큼은 달리 더 나은 방법이 안 떠올라요.
+NPC-AngeDamage(2)<Speaker>안젤리아</Speaker>;RPK16(3)||:......
+NPC-AngeDamage(2);RPK16(5)<Speaker>RPK16</Speaker>||:제가 책임지고 무사히 AK-15랑 AN-94와 합류할게요.
+NPC-AngeDamage(1)<Speaker>안젤리아</Speaker>||:...알았어, 그럼 가자.
+()<Speaker></Speaker>||:안젤리아는 어금니를 꽉 깨물었다. 모퉁이에서 준비 태세를 갖춘 AK-12와 온통 흙투성이면서도 여전히 미소를 짓는 라이트를 뒤로하고, RPK-16과 함께 출발했다.
+NPC-Light(3)<Speaker>라이트</Speaker>||<SE1>ClothingUp</SE1>:AK-12 씨, 제 탄약 전부 드리겠습니다.
+()<Speaker></Speaker>||:라이트가 AK-12에게 자신의 남은 탄창과 폭약까지 전부 건넸다.
+AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:응? 넌 어쩌려고?+그렇게 멋지게 말해놓고선, 설마 여기서 나랑 같이 죽을 셈은 아니겠지?
+NPC-Light(3)<Speaker>라이트</Speaker>;AK12(15)<Position>0,60</Position>||:물론 아니죠. 그냥 제 판단상, 당신이 이걸 가져가는 편이 제 생존률이 더 높아서입니다.+저는 이 자리서 움직이지 않겠습니다. 안젤리아 씨가 탈출하거나 지원 병력이 도착한다면, 저를 공격할 이유도 사라지니까요.
+NPC-Light(3);AK12(16)<Speaker>AK12</Speaker><Position>0,60</Position>||:오호, 너 머리 되게 잘 돌아가는구나?+그럼... 또 보자.
+NPC-Light(3)<Speaker>라이트</Speaker>;AK12(16)<Position>0,60</Position>||:...새로운 세상에서 다시 만납시다, AK-12 씨.
+AK12(15)<Speaker>AK12</Speaker><Position>0,60</Position>||:불길한 소리하긴.
+()<Speaker></Speaker>||<SE1>Select</SE1>:새 탄창으로 교체하고, AK-12는 총의 노리쇠를 당겼다.
+AK12(17)<Speaker>AK12</Speaker><Position>0,60</Position>||:저 패러데우스 피라미들에게 보여 주지.+"진짜 전술인형"이... 얼마나 뛰어난지를.
 ()||<黑点1><BIN>10</BIN>:

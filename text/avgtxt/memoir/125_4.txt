@@ -1,69 +1,69 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>82</BIN><BGM>BGM_Moon</BGM>:밖에서 하루 종일 놀고 돌아온 MG4는 침대에 풀썩 쓰러져 꼼짝도 하지 않았다.
-NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:뚜뚜 온라인!+다녀오셨어요 MG4 님!
-MG4(0)<Speaker>MG4</Speaker>||:오늘 저번에 말한 걔네랑 같이 놀았는데, 나만 리액션이 달랐어... 따돌림당하진 않을까...?
-MG4(0);NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:걱정 마세요, MG4 님은 최고예요!
-MG4(0)<Speaker>MG4</Speaker>;NPC_Cheeringteam(0)<Position>0,150</Position>||:정말? 하지만 나만 그래서 분위기가 어색했는걸... 다음부턴 같이 안 논다고 하면 어쩌지...
-MG4(0);NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:걱정 마세요, MG4 님은 최고예요!
-MG4(0)<Speaker>MG4</Speaker>||:으...! 너 대답이 왜 그래?+내가 설정을 잘못했나?
-()||:MG4가 세가 툭툭 치자, 뚜뚜의 램프가 다시 켜졌다.
-MG4(0)<Speaker>MG4</Speaker>||:뚜뚜, 이제 어때?
-NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:뚜뚜 온라인!+MG4 님과 함께라서 정말 즐거워요!
-MG4(0)<Speaker>MG4</Speaker>;NPC_Cheeringteam(0)<Position>0,150</Position>||:...이상하다, 얼마 전만 해도 이 말을 들으면 기뻤는데 왜 지금은 아무 느낌도 안 들지?
-MG4(0);NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:MG4 님이 즐겁다면 뚜뚜도 즐거워요!
-NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||<SE1>AVG_tele_connect</SE1>:딩동―― 뚜뚜가 다가오는 일정을 알려드립니다! MG4 님, 마인드맵 업그레이드 예정일까지 3일 남았습니다!
-MG4(0)<Speaker>MG4</Speaker>;NPC_Cheeringteam(0)<Position>0,150</Position>||:아! 어, 어떡하지!? 개조를 완전히 까먹고 있었어!+PPK네한테 물어볼까? 하지만 아직 많이 친해지지도 않았는데... 불쑥 그런 걸 물어보면 실례겠지?
-MG4(0)<Speaker>MG4</Speaker>||:날 무시하기라도 하면...+으으... 나도 걔네처럼 개성적이면 좋을 텐데... 이런 점도 개조로 바꿀 순 없을까...
-NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:마음 우울하더라도 Smile~
-MG4(0)<Speaker>MG4</Speaker>||<BGM>BGM_Empty</BGM>:아이 참! 분위기 파악도 못하면서 무슨 스마트 AI라는 거야?+너 반품할 거야!
-()||:MG4가 뚜뚜를 더 세게 탁탁 쳤다.
-()||<SE1>AVG_doorknock_wood</SE1>:그때, 누군가가 노크하는 소리가 났다.
-MG4(0)<Speaker>MG4</Speaker>||:음...? 누구세요?
-PPK(0)<Speaker>PPK</Speaker>||:우리야~ 다음에 또 언제 놀러 갈까 얘기하러 왔어.
-MG4(0)<Speaker>MG4</Speaker>||:어? 다음?! 이, 일단 들어와!
-()||<SE1>AVG_door_elecport</SE1>:MG4이 허겁지겁 문을 열어 하루 종일 함께 놀았던 세 인형을 안으로 들였다.
-PPK(0)<Speaker>PPK</Speaker>||:역시 아직 안 잤구나.
-PPK(0);NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||<SE1>AVG_whitenoise</SE1>:뚜뚜 온라인!
-NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:"오늘 저번에 말한 걔네랑 같이 놀았는데, 나만 리액션이 달랐어... 따돌림당하진 않을까...?"
-MG4(0)<Speaker>MG4</Speaker>||:?!!
-PPK(0)<Speaker>PPK</Speaker>||:흐응~?
-STG44Mod(0)<Speaker>STG44</Speaker>||:어...
-P38(0)<Speaker>P38</Speaker>||:어어...
-NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:"정말? 하지만 나만 그래서 분위기가 어색했는걸... 다음부턴 같이 안 논다고 하면 어쩌지..."+"아! 어, 어떡하지!? 개조를 완전히 까먹고 있었어!"+"PPK네한테 물어볼까? 하지만 아직 많이 친해지지도 않았는데... 불쑥 그런 걸 물어보면 실례겠지?"
-NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:"날 무시하기라도 하면..."+"으으... 나도 걔네처럼 개성적이면 좋을 텐데... 이런 점도 개조로 바꿀 순 없을까..."
-MG4(0)<Speaker>MG4</Speaker>||:이... 이, 이, 이거 고장났더라... 하, 아하하하하...+다다다, 당장 버리고 올 테니까, 지금 그건 못 들은 걸로――
-STG44Mod(0)<Speaker>STG44</Speaker>||:당신, 개조받는군요!
-MG4(0)<Speaker>MG4</Speaker>;STG44Mod(0)||:어... 응...
-MG4(0);STG44Mod(0)<Speaker>STG44</Speaker>||:제가 조언해드릴까요? 보시다시피 저는 이미 개조를 받은 몸이랍니다!
-MG4(0)<Speaker>MG4</Speaker>||:저, 정말?! 고마워!
-PPK(0)<Speaker>PPK</Speaker>||:아니 StG, 하지 마.
-MG4(0)<Speaker>MG4</Speaker>;PPK(0)||:응? 아... P, PPK는 실망했구나...+미안... 그게, 뚜뚜가 고장나서...
-MG4(0);PPK(0)<Speaker>PPK</Speaker>||<BGM>BGM_Moon</BGM>:MG4, 날 똑바로 봐. 널 싫어하는 사람은 아무도 없어.
-MG4(0)<Speaker>MG4</Speaker>;PPK(0)||:그... 그치만 아무도 날 안 좋아하는 것 같던데...
-MG4(0);PPK(0)<Speaker>PPK</Speaker>||:그야 네가 너 자신을 좋아하지 않으니까 그렇게 느껴지는 거지!
-MG4(0)<Speaker>MG4</Speaker>||:난...
-MG4(0);P38(0)<Speaker>P38</Speaker>||:어색하긴 언제 어색했어? 아침에 바이킹 탈 때 엄청 좋아했잖아!+꼭 우리랑 같아야 할 필요 없어, 우린 비명 지르는데 너는 안 그러는게 뭐 어때서?
-MG4(0)<Speaker>MG4</Speaker>||:너희랑 다르니까...
-MG4(0);PPK(0)<Speaker>PPK</Speaker>||:사람이 모두 똑같기만 해선 하나도 재미 없어.+MG4, 넌 지금의 네가 마음에 안들어?
-MG4(0)<Speaker>MG4</Speaker>;PPK(0)||:잘... 모르겠어... 모두와 비슷한 제복 차림으로 괜찮다고 생각해.+실은 저번에 카리나 씨가 개조에 바라는 거 있냐고 물어봤는데, 난 그냥 내 신경 쓰지 말고 지휘관 마음대로 하라고 했어...
-PPK(0)<Speaker>PPK</Speaker>||:얘가 정말? 마인드맵 업그레이드는 정말 드문 기회야, 어떻게 신경 안 쓸 수 있어?+무조건 네가 원하는 스타일로 해야지!
-P38(0)<Speaker>P38</Speaker>||:너무 겁주지 마~ MG4는 그냥 다른 애들처럼 되고 싶다는 거잖아.
-PPK(0)<Speaker>PPK</Speaker>||:너도 얘가 아이돌 활동하는 거 알지? 노래 부르고 춤추는 거.+하지만 그런 얘도 누구한테나 인기 있는 건 아니다?
-PPK(0);P38(0)<Speaker>P38</Speaker>||:허억, 너무해! 내 노래를 좋아하는 팬이 얼마나 많은데! 나 상처받았어!
-PPK(0)<Speaker>PPK</Speaker>||:안 물어봤어.+MG4, 누군가처럼 되고 싶다면, 그렇게 되도록 해.
-MG4(0)<Speaker>MG4</Speaker>||:하지만... 생각해본 적 없는데...
-PPK(0)<Speaker>PPK</Speaker>||:그럼 생각해봐야지.+남의 비위만 맞추려 하지 말고.
-PPK(0);P38(0)<Speaker>P38</Speaker>||:응응, 그건 인정. 팬들 사이에 어떤 장르가 유행이라고 그런 노래만 부르다간 금방 인기가 식어 버리지.
-PPK(0)<Speaker>PPK</Speaker>;P38(0)||:타인의 호감이란 덧없고 허무한 거야.+사람은 누구나 변해. 오늘은 너를 좋아하던 사람이 내일엔 널 싫어하게 됐다가, 모레엔 다시 또 널 좋아하게 될 수도 있지.
-PPK(0)<Speaker>PPK</Speaker>;P38(0)||<BGM>BGM_Empty</BGM><SE1>AVG_amb_wilderness</SE1>:즉, 사람의 기호는 하나로 통일할 수 없어.+안 그럼 너도 오늘 우리랑 같이 그렇게 신나게 놀았으면서, 왜 내일은 따돌림받지 않을까 걱정을 해?
-P38(0)<Speaker>P38</Speaker>||:오오, PPK가 철학적인 말을 한다!
-STG44Mod(0)<Speaker>STG44</Speaker>||<黑屏1>:잠깐 끼어들게요.+우리 기지 창고엔 소체랑 복식 디자인 템플릿이 잔뜩 있으니까, 직접 골라보는 건 어때요?+보다가 확 끌리는 게 있으면 그걸로 하면 되잖아요.
-()||<黑屏2><BIN>82</BIN><BGM>BGM_Dorm</BGM>:...그리고, 새로운 하루가 찾아왔다. 평소와 별반 다르지 않은 하루가.
-NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:뚜뚜 온라인!+MG4 님, 오늘의 당신이 베스트예요!
-MG4Mod(0)<Speaker>MG4</Speaker>;NPC_Cheeringteam(0)<Position>0,150</Position>||:그래? 나도 그렇게 생각해.+이따가 애들을 깜짝 놀래켜 줄 거야!
-MG4Mod(0);NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:즐거워 보이시네요~
-MG4Mod(0)<Speaker>MG4</Speaker>;NPC_Cheeringteam(0)<Position>0,150</Position>||:응, 좋은 친구를 사귀었으니까.+갔다 올게, 뚜뚜.
-NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:안녕히 다녀오세요~
-()||:문이 스르륵 닫히고, 주위가 다시 조용해졌다.+하지만 두근거리는 가슴에는 작은 변화가 생겼다.
-()||:새로운 모습으로 새로운 출발. 이 얼마나 기쁜 일인가!
-()||<黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>82</BIN><BGM>BGM_Moon</BGM>:밖에서 하루 종일 놀고 돌아온 MG4는 침대에 풀썩 쓰러져 꼼짝도 하지 않았다.
+NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:뚜뚜 온라인!+다녀오셨어요 MG4 님!
+MG4(0)<Speaker>MG4</Speaker>||:오늘 저번에 말한 걔네랑 같이 놀았는데, 나만 리액션이 달랐어... 따돌림당하진 않을까...?
+MG4(0);NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:걱정 마세요, MG4 님은 최고예요!
+MG4(0)<Speaker>MG4</Speaker>;NPC_Cheeringteam(0)<Position>0,150</Position>||:정말? 하지만 나만 그래서 분위기가 어색했는걸... 다음부턴 같이 안 논다고 하면 어쩌지...
+MG4(0);NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:걱정 마세요, MG4 님은 최고예요!
+MG4(0)<Speaker>MG4</Speaker>||:으...! 너 대답이 왜 그래?+내가 설정을 잘못했나?
+()||:MG4가 세가 툭툭 치자, 뚜뚜의 램프가 다시 켜졌다.
+MG4(0)<Speaker>MG4</Speaker>||:뚜뚜, 이제 어때?
+NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:뚜뚜 온라인!+MG4 님과 함께라서 정말 즐거워요!
+MG4(0)<Speaker>MG4</Speaker>;NPC_Cheeringteam(0)<Position>0,150</Position>||:...이상하다, 얼마 전만 해도 이 말을 들으면 기뻤는데 왜 지금은 아무 느낌도 안 들지?
+MG4(0);NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:MG4 님이 즐겁다면 뚜뚜도 즐거워요!
+NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||<SE1>AVG_tele_connect</SE1>:딩동―― 뚜뚜가 다가오는 일정을 알려드립니다! MG4 님, 마인드맵 업그레이드 예정일까지 3일 남았습니다!
+MG4(0)<Speaker>MG4</Speaker>;NPC_Cheeringteam(0)<Position>0,150</Position>||:아! 어, 어떡하지!? 개조를 완전히 까먹고 있었어!+PPK네한테 물어볼까? 하지만 아직 많이 친해지지도 않았는데... 불쑥 그런 걸 물어보면 실례겠지?
+MG4(0)<Speaker>MG4</Speaker>||:날 무시하기라도 하면...+으으... 나도 걔네처럼 개성적이면 좋을 텐데... 이런 점도 개조로 바꿀 순 없을까...
+NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:마음 우울하더라도 Smile~
+MG4(0)<Speaker>MG4</Speaker>||<BGM>BGM_Empty</BGM>:아이 참! 분위기 파악도 못하면서 무슨 스마트 AI라는 거야?+너 반품할 거야!
+()||:MG4가 뚜뚜를 더 세게 탁탁 쳤다.
+()||<SE1>AVG_doorknock_wood</SE1>:그때, 누군가가 노크하는 소리가 났다.
+MG4(0)<Speaker>MG4</Speaker>||:음...? 누구세요?
+PPK(0)<Speaker>PPK</Speaker>||:우리야~ 다음에 또 언제 놀러 갈까 얘기하러 왔어.
+MG4(0)<Speaker>MG4</Speaker>||:어? 다음?! 이, 일단 들어와!
+()||<SE1>AVG_door_elecport</SE1>:MG4이 허겁지겁 문을 열어 하루 종일 함께 놀았던 세 인형을 안으로 들였다.
+PPK(0)<Speaker>PPK</Speaker>||:역시 아직 안 잤구나.
+PPK(0);NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||<SE1>AVG_whitenoise</SE1>:뚜뚜 온라인!
+NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:"오늘 저번에 말한 걔네랑 같이 놀았는데, 나만 리액션이 달랐어... 따돌림당하진 않을까...?"
+MG4(0)<Speaker>MG4</Speaker>||:?!!
+PPK(0)<Speaker>PPK</Speaker>||:흐응~?
+STG44Mod(0)<Speaker>STG44</Speaker>||:어...
+P38(0)<Speaker>P38</Speaker>||:어어...
+NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:"정말? 하지만 나만 그래서 분위기가 어색했는걸... 다음부턴 같이 안 논다고 하면 어쩌지..."+"아! 어, 어떡하지!? 개조를 완전히 까먹고 있었어!"+"PPK네한테 물어볼까? 하지만 아직 많이 친해지지도 않았는데... 불쑥 그런 걸 물어보면 실례겠지?"
+NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:"날 무시하기라도 하면..."+"으으... 나도 걔네처럼 개성적이면 좋을 텐데... 이런 점도 개조로 바꿀 순 없을까..."
+MG4(0)<Speaker>MG4</Speaker>||:이... 이, 이, 이거 고장났더라... 하, 아하하하하...+다다다, 당장 버리고 올 테니까, 지금 그건 못 들은 걸로――
+STG44Mod(0)<Speaker>STG44</Speaker>||:당신, 개조받는군요!
+MG4(0)<Speaker>MG4</Speaker>;STG44Mod(0)||:어... 응...
+MG4(0);STG44Mod(0)<Speaker>STG44</Speaker>||:제가 조언해드릴까요? 보시다시피 저는 이미 개조를 받은 몸이랍니다!
+MG4(0)<Speaker>MG4</Speaker>||:저, 정말?! 고마워!
+PPK(0)<Speaker>PPK</Speaker>||:아니 StG, 하지 마.
+MG4(0)<Speaker>MG4</Speaker>;PPK(0)||:응? 아... P, PPK는 실망했구나...+미안... 그게, 뚜뚜가 고장나서...
+MG4(0);PPK(0)<Speaker>PPK</Speaker>||<BGM>BGM_Moon</BGM>:MG4, 날 똑바로 봐. 널 싫어하는 사람은 아무도 없어.
+MG4(0)<Speaker>MG4</Speaker>;PPK(0)||:그... 그치만 아무도 날 안 좋아하는 것 같던데...
+MG4(0);PPK(0)<Speaker>PPK</Speaker>||:그야 네가 너 자신을 좋아하지 않으니까 그렇게 느껴지는 거지!
+MG4(0)<Speaker>MG4</Speaker>||:난...
+MG4(0);P38(0)<Speaker>P38</Speaker>||:어색하긴 언제 어색했어? 아침에 바이킹 탈 때 엄청 좋아했잖아!+꼭 우리랑 같아야 할 필요 없어, 우린 비명 지르는데 너는 안 그러는게 뭐 어때서?
+MG4(0)<Speaker>MG4</Speaker>||:너희랑 다르니까...
+MG4(0);PPK(0)<Speaker>PPK</Speaker>||:사람이 모두 똑같기만 해선 하나도 재미 없어.+MG4, 넌 지금의 네가 마음에 안들어?
+MG4(0)<Speaker>MG4</Speaker>;PPK(0)||:잘... 모르겠어... 모두와 비슷한 제복 차림으로 괜찮다고 생각해.+실은 저번에 카리나 씨가 개조에 바라는 거 있냐고 물어봤는데, 난 그냥 내 신경 쓰지 말고 지휘관 마음대로 하라고 했어...
+PPK(0)<Speaker>PPK</Speaker>||:얘가 정말? 마인드맵 업그레이드는 정말 드문 기회야, 어떻게 신경 안 쓸 수 있어?+무조건 네가 원하는 스타일로 해야지!
+P38(0)<Speaker>P38</Speaker>||:너무 겁주지 마~ MG4는 그냥 다른 애들처럼 되고 싶다는 거잖아.
+PPK(0)<Speaker>PPK</Speaker>||:너도 얘가 아이돌 활동하는 거 알지? 노래 부르고 춤추는 거.+하지만 그런 얘도 누구한테나 인기 있는 건 아니다?
+PPK(0);P38(0)<Speaker>P38</Speaker>||:허억, 너무해! 내 노래를 좋아하는 팬이 얼마나 많은데! 나 상처받았어!
+PPK(0)<Speaker>PPK</Speaker>||:안 물어봤어.+MG4, 누군가처럼 되고 싶다면, 그렇게 되도록 해.
+MG4(0)<Speaker>MG4</Speaker>||:하지만... 생각해본 적 없는데...
+PPK(0)<Speaker>PPK</Speaker>||:그럼 생각해봐야지.+남의 비위만 맞추려 하지 말고.
+PPK(0);P38(0)<Speaker>P38</Speaker>||:응응, 그건 인정. 팬들 사이에 어떤 장르가 유행이라고 그런 노래만 부르다간 금방 인기가 식어 버리지.
+PPK(0)<Speaker>PPK</Speaker>;P38(0)||:타인의 호감이란 덧없고 허무한 거야.+사람은 누구나 변해. 오늘은 너를 좋아하던 사람이 내일엔 널 싫어하게 됐다가, 모레엔 다시 또 널 좋아하게 될 수도 있지.
+PPK(0)<Speaker>PPK</Speaker>;P38(0)||<BGM>BGM_Empty</BGM><SE1>AVG_amb_wilderness</SE1>:즉, 사람의 기호는 하나로 통일할 수 없어.+안 그럼 너도 오늘 우리랑 같이 그렇게 신나게 놀았으면서, 왜 내일은 따돌림받지 않을까 걱정을 해?
+P38(0)<Speaker>P38</Speaker>||:오오, PPK가 철학적인 말을 한다!
+STG44Mod(0)<Speaker>STG44</Speaker>||<黑屏1>:잠깐 끼어들게요.+우리 기지 창고엔 소체랑 복식 디자인 템플릿이 잔뜩 있으니까, 직접 골라보는 건 어때요?+보다가 확 끌리는 게 있으면 그걸로 하면 되잖아요.
+()||<黑屏2><BIN>82</BIN><BGM>BGM_Dorm</BGM>:...그리고, 새로운 하루가 찾아왔다. 평소와 별반 다르지 않은 하루가.
+NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:뚜뚜 온라인!+MG4 님, 오늘의 당신이 베스트예요!
+MG4Mod(0)<Speaker>MG4</Speaker>;NPC_Cheeringteam(0)<Position>0,150</Position>||:그래? 나도 그렇게 생각해.+이따가 애들을 깜짝 놀래켜 줄 거야!
+MG4Mod(0);NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:즐거워 보이시네요~
+MG4Mod(0)<Speaker>MG4</Speaker>;NPC_Cheeringteam(0)<Position>0,150</Position>||:응, 좋은 친구를 사귀었으니까.+갔다 올게, 뚜뚜.
+NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:안녕히 다녀오세요~
+()||:문이 스르륵 닫히고, 주위가 다시 조용해졌다.+하지만 두근거리는 가슴에는 작은 변화가 생겼다.
+()||:새로운 모습으로 새로운 출발. 이 얼마나 기쁜 일인가!
+()||<黑屏1><BGM>BGM_Empty</BGM>:

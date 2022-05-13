@@ -1,77 +1,77 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>506</BIN><黑点2><BGM>GF_21summer_avg_SecretAgent</BGM>:레드존 가장자리의 버려진 초소.+미리 도착한 XM8은 초소 중앙의 테이블 위에 앉아 여유롭게 다리를 흔들며 기다리고 있었다.
-XM8MOD(0)<Speaker>XM8</Speaker>||<SE1>AVG_Door_Open_Close</SE1>:아, 왔구나.
-RO635Mod(0)<Speaker>RO635</Speaker>||:오느라 수고했어 XM8, 중요한 단서를 찾아 줘서 정말 고마워.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:덕분에 안전하게 쉴 데도 겨우 찾았네!
-XM8MOD(0)<Speaker>XM8</Speaker>||:히히, 이 정도쯤이야.+아 참, 이게 페르시카 씨가 대장한테 주라 한 물건이야.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:XM8이 "철완"이란 이상한 생김새의 장치를 RO635에게 건네주면서 오프라인 지도도 공유했다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:"철완"이라니... 어디다 쓰는 물건이지?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>0.1</Shake>||:나 보여 줘 봐!
-()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1>:처음 보는 희한하게 생긴 장치를 보자, SOP2는 신이 나서 요리조리 살피고 자신의 소체에 달 만한 부위가 없나 확인해봤다.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<SE1>AVG_21Winter_Error</SE1>:에엥...? 뭐야, 이거 어디다 다는 거야?
-XM8MOD(0)<Speaker>XM8</Speaker>||:즉 이건 너한테 줄 물건이 아니란 거겠지.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:칫... 그럼 누구 건데! RO도 모르겠다잖아.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:RO635는 SOP2에게서 그 이상하게 생긴 작은 장치를 돌려받았지만, 마찬가지로 마땅한 용도가 곧장 생각나질 않았다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:XM8, 이 "철완"에 대해서 페르시카 씨가 더 설명하신 건 없어?
-XM8MOD(0)<Speaker>XM8</Speaker>||:아니? 그냥 대장이 보면 알 거라고만 했어.
-RO635Mod(0)<Speaker>RO635</Speaker>||:......+알았어, 일단 가지고 있을게.
-()<Speaker></Speaker>||:잠시 후 짐작 가는 것이 떠올랐지만, 지금은 곰곰이 생각할 시간이 없었기에 RO635는 통신기를 들었다.
-RO635Mod(0)<Speaker>RO635</Speaker>||<SE1>AVG_tele_connect</SE1>:여기는 우산. 아이네이아스 작전팀, 전원 응답 바람.
-RO635Mod(0)<Speaker>모나</Speaker><同时置暗>||:<color=#00CCFF>질소 팀 수신, 현재 이상 무. 임무 정황에 변화가 생겼습니까?</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:네, 일단 모두 모인 다음 설명하겠습니다.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:곧이어 철분 팀도 채널에 접속했다.
-()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>또 뭔데?</color>
-()<Speaker>게이저</Speaker>||:<color=#00CCFF>철분, 수신.</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:좋았어. 모두 확인했으니 지휘관님께 연락하겠습니다.
-NytoIsomer(3)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>언제든지.</color>
-()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>RO, 임무에 진전이 생겼어?</color>
-()<Speaker></Speaker>||:익숙한 목소리가 들려왔다.
-RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>GF_22W_BGM_2</BGM>:지휘관님, 저희는 현재 블랙존 부근에 도착했습니다.+아시겠지만, 블랙존 내의 붕괴 복사 농도는 차원이 다릅니다. 그래서 돌입 전에 작전 회의를 하고자 합니다.
-RO635Mod(0)<Speaker>지휘관</Speaker><同时置暗>||:<color=#00CCFF>알았다. 먼저 상황 보고부터 해.</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:현재 몰리도의 행방을 포착하였습니다. 그레이, 틸과 함께 블랙존으로 이동하고 있었습니다.+다만 도중에 저희의 추적이 발각되어, 그레이와 틸이 남아 견제해 몰리도가 도주할 시간을 벌었습니다.+질소 팀의 마지막 조우 정황에 따르면, 몰리도는 패러데우스의 수송 차량에 탑승해 "죽음의 바다"로 진입했습니다.
-RO635Mod(0)<Speaker>RO635</Speaker>||<SE1>ClothingUp</SE1>:...그래서, 저희도 지금부터 "죽음의 바다로" 진입할 예정입니다.
-()<Speaker></Speaker>||:모두가 공유하는 전술 보드 위, RO635가 "죽음의 바다"를 나타내는 검은 구역에 깃발을 하나 꽂았다.+그저 깃발을 꽂을 뿐이었지만, 분위기는 아주 무거워졌다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:저 안으로 돌입하는 즉시 심각한 통신 장애가 일어날 거예요. 우리의 팀워크는 큰 시련을 받겠죠...
-XM8MOD(0)<Speaker>XM8</Speaker>||:팀워크? 우린 체스 한 판 둔 적도 없는 사인데?
-RO635Mod(0)<Speaker>RO635</Speaker>||:......
-()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>캬아~ 너 말 잘했다! 내 속이 다 뻥 뚫리네!</color>
-()<Speaker>게이저</Speaker>||:<color=#00CCFF>넌 좀 닥쳐.</color>
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:떠들지 마! 지휘관이랑 RO가 작전 회의 중이잖아!
-RO635Mod(0)<Speaker>RO635</Speaker>||:괜찮아 SOP2. 맞아요, XM8의 지적도 분명히 우리가 극복해야 할 난제입니다. 우리는 모두 각자 전혀 다른 소속에서 차출되어 임시로 뭉친 팀이니까요.+사전에 협력 작전조차 한 경험이 없으니, 팀워크랄 만한 것도 없죠.
-()<Speaker>모나</Speaker>||:<color=#00CCFF>...그렇네요.</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:하지만 지금 우리에게 팀워크를 기를 시간은 없습니다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:맞아, 이번에 놓치면 다음에 또 언제 어디서 놈들을 찾아낼 수 있을진 아무도 몰라.
-RO635Mod(0)<Speaker>RO635</Speaker>||:현 단계에서, 우리의 임무는 변함없습니다.+하지만 "죽음의 바다" 내부는 문자 그대로 예측불허입니다. 각 팀의 상황은 시시각각 변화할 거예요.+사전 계획과 실제 상황의 일치 여부에 관계없이, 우리는 상시로 통신을 유지하면서 임무를 실시간으로 조율할 수 있어야 합니다.
-()<Speaker>모나</Speaker>||:<color=#00CCFF>질소, 수신.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:유니콘, 수신.
-()<Speaker>게이저</Speaker>||:<color=#00CCFF>알았다.</color>
-XM8MOD(0)<Speaker>XM8</Speaker>||:OK!
-RO635Mod(0)<Speaker>RO635</Speaker>||:감사합니다. 지휘관님, 협의 마쳤습니다.
-()<Speaker>지휘관</Speaker>||:<color=#00CCFF>그래, 그럼 그렇게 하자.</color>
-()||<黑点1>:
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2><SE1>AVG_HeavyVehicle_Stop</SE1>:같은 시각, "죽음의 바다" 내부의 어느 도로변.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>485</BIN><BGM>BGM_stage11</BGM>:다시 합류한 틸과 그레이가 수송 차량에서 몰리도를 내렸다.
-NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||<SE1>ClothingUp</SE1>:드라이브는 여기까지. 둘 다 놈들 확실하게 따돌렸지?
-NPC-grig(1)<Speaker>틸</Speaker>||:추격도 못 하도록 거리를 벌렸다.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:저도입니다.
-NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||:후읍...
-()<Speaker></Speaker>||:몰리도는 깊게 숨을 들이마셨다.
-NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||:놈들이 내 몸에다 무슨 수작을 부린 게 분명해.+소련놈들 기술도 제법이라니까... 만일을 위해서 놈들을 저지할 부대를 배치해야겠어.
-NPC-grig(1)<Speaker>틸</Speaker>;NPC-Morridow(11)<Position>0,100</Position>||:하지만 지금 비행기를 동원하면 우리의 종적이 발각될 위험이 크다.
-NPC-grig(1);NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||:더는 꾸물거릴 시간 없어, 당장 그 탑으로 돌아가야 한다고.+그리고 내 꼬리도 밟힐대로 밟혔으니, 놈들이 여기까지 쫓아오지 않으리란 보장도 없지... 올 거라 상정하고 대비해야 해...+...뭐, 그래도 너무 걱정하지는 마. 잔챙이 몇 마리뿐이니, 우리한텐 아무런 위협도 안 돼.
-NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||:게다가, 비행 수단 없이 어떻게 더 쫓아오겠어?
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:하지만...+하지만 만약, 정말 만약 저희로 인해 아베르누스의 위치가 탄로나면, 아버님께선 저희를 어찌 하실까요...?
-()<Speaker></Speaker>||:그레이가 드물게도 몰리도의 말에 의문을 표했다.
-NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||:......
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:몰리도가 고개를 들었다. 안 그래도 부상이 심각한 그녀는 조금 전의 전투로 더 허약해진 상태였다.
-NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||:그런 것쯤, 사소한 일이야...+놈들한테 들키면 어때, 빠져나가지 못하면 아무 일도 없는 거나 마찬가진데.+아버님도 절대 우리를 나무라지 못할 거야... 내가 드릴 소식은 우릴 벌하기엔 너무 가치 있으니까...
-NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||:그러니까, 난 돌아가야해...+반드시 돌아가야 한다고...!
-NPC-Morridow(10)<Speaker>몰리도</Speaker><Position>0,100</Position><Shake>0.1</Shake>||<SE1>AVG_XXS_kick</SE1>:<size=50>지금, 당장!</size>
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:......
-NPC-grig(1)<Speaker>틸</Speaker>||:그레이.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...초소로 가자. 오늘은 근무 교대일이니 거기에 예비용 비행기가 있을 거야.
-NPC-grig(1)<Speaker>틸</Speaker>||:......
-()<Speaker></Speaker>||:그레이의 표정이 점점 변하는 것을 보는 틸은 곧장 대답하지 못했다.
-NPC-grig(1)<Speaker>틸</Speaker>||:......알았다.
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>506</BIN><黑点2><BGM>GF_21summer_avg_SecretAgent</BGM>:레드존 가장자리의 버려진 초소.+미리 도착한 XM8은 초소 중앙의 테이블 위에 앉아 여유롭게 다리를 흔들며 기다리고 있었다.
+XM8MOD(0)<Speaker>XM8</Speaker>||<SE1>AVG_Door_Open_Close</SE1>:아, 왔구나.
+RO635Mod(0)<Speaker>RO635</Speaker>||:오느라 수고했어 XM8, 중요한 단서를 찾아 줘서 정말 고마워.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:덕분에 안전하게 쉴 데도 겨우 찾았네!
+XM8MOD(0)<Speaker>XM8</Speaker>||:히히, 이 정도쯤이야.+아 참, 이게 페르시카 씨가 대장한테 주라 한 물건이야.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:XM8이 "철완"이란 이상한 생김새의 장치를 RO635에게 건네주면서 오프라인 지도도 공유했다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:"철완"이라니... 어디다 쓰는 물건이지?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>0.1</Shake>||:나 보여 줘 봐!
+()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1>:처음 보는 희한하게 생긴 장치를 보자, SOP2는 신이 나서 요리조리 살피고 자신의 소체에 달 만한 부위가 없나 확인해봤다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<SE1>AVG_21Winter_Error</SE1>:에엥...? 뭐야, 이거 어디다 다는 거야?
+XM8MOD(0)<Speaker>XM8</Speaker>||:즉 이건 너한테 줄 물건이 아니란 거겠지.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:칫... 그럼 누구 건데! RO도 모르겠다잖아.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:RO635는 SOP2에게서 그 이상하게 생긴 작은 장치를 돌려받았지만, 마찬가지로 마땅한 용도가 곧장 생각나질 않았다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:XM8, 이 "철완"에 대해서 페르시카 씨가 더 설명하신 건 없어?
+XM8MOD(0)<Speaker>XM8</Speaker>||:아니? 그냥 대장이 보면 알 거라고만 했어.
+RO635Mod(0)<Speaker>RO635</Speaker>||:......+알았어, 일단 가지고 있을게.
+()<Speaker></Speaker>||:잠시 후 짐작 가는 것이 떠올랐지만, 지금은 곰곰이 생각할 시간이 없었기에 RO635는 통신기를 들었다.
+RO635Mod(0)<Speaker>RO635</Speaker>||<SE1>AVG_tele_connect</SE1>:여기는 우산. 아이네이아스 작전팀, 전원 응답 바람.
+RO635Mod(0)<Speaker>모나</Speaker><同时置暗>||:<color=#00CCFF>질소 팀 수신, 현재 이상 무. 임무 정황에 변화가 생겼습니까?</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:네, 일단 모두 모인 다음 설명하겠습니다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:곧이어 철분 팀도 채널에 접속했다.
+()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>또 뭔데?</color>
+()<Speaker>게이저</Speaker>||:<color=#00CCFF>철분, 수신.</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:좋았어. 모두 확인했으니 지휘관님께 연락하겠습니다.
+NytoIsomer(3)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>언제든지.</color>
+()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>RO, 임무에 진전이 생겼어?</color>
+()<Speaker></Speaker>||:익숙한 목소리가 들려왔다.
+RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>GF_22W_BGM_2</BGM>:지휘관님, 저희는 현재 블랙존 부근에 도착했습니다.+아시겠지만, 블랙존 내의 붕괴 복사 농도는 차원이 다릅니다. 그래서 돌입 전에 작전 회의를 하고자 합니다.
+RO635Mod(0)<Speaker>지휘관</Speaker><同时置暗>||:<color=#00CCFF>알았다. 먼저 상황 보고부터 해.</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:현재 몰리도의 행방을 포착하였습니다. 그레이, 틸과 함께 블랙존으로 이동하고 있었습니다.+다만 도중에 저희의 추적이 발각되어, 그레이와 틸이 남아 견제해 몰리도가 도주할 시간을 벌었습니다.+질소 팀의 마지막 조우 정황에 따르면, 몰리도는 패러데우스의 수송 차량에 탑승해 "죽음의 바다"로 진입했습니다.
+RO635Mod(0)<Speaker>RO635</Speaker>||<SE1>ClothingUp</SE1>:...그래서, 저희도 지금부터 "죽음의 바다로" 진입할 예정입니다.
+()<Speaker></Speaker>||:모두가 공유하는 전술 보드 위, RO635가 "죽음의 바다"를 나타내는 검은 구역에 깃발을 하나 꽂았다.+그저 깃발을 꽂을 뿐이었지만, 분위기는 아주 무거워졌다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:저 안으로 돌입하는 즉시 심각한 통신 장애가 일어날 거예요. 우리의 팀워크는 큰 시련을 받겠죠...
+XM8MOD(0)<Speaker>XM8</Speaker>||:팀워크? 우린 체스 한 판 둔 적도 없는 사인데?
+RO635Mod(0)<Speaker>RO635</Speaker>||:......
+()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>캬아~ 너 말 잘했다! 내 속이 다 뻥 뚫리네!</color>
+()<Speaker>게이저</Speaker>||:<color=#00CCFF>넌 좀 닥쳐.</color>
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:떠들지 마! 지휘관이랑 RO가 작전 회의 중이잖아!
+RO635Mod(0)<Speaker>RO635</Speaker>||:괜찮아 SOP2. 맞아요, XM8의 지적도 분명히 우리가 극복해야 할 난제입니다. 우리는 모두 각자 전혀 다른 소속에서 차출되어 임시로 뭉친 팀이니까요.+사전에 협력 작전조차 한 경험이 없으니, 팀워크랄 만한 것도 없죠.
+()<Speaker>모나</Speaker>||:<color=#00CCFF>...그렇네요.</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:하지만 지금 우리에게 팀워크를 기를 시간은 없습니다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:맞아, 이번에 놓치면 다음에 또 언제 어디서 놈들을 찾아낼 수 있을진 아무도 몰라.
+RO635Mod(0)<Speaker>RO635</Speaker>||:현 단계에서, 우리의 임무는 변함없습니다.+하지만 "죽음의 바다" 내부는 문자 그대로 예측불허입니다. 각 팀의 상황은 시시각각 변화할 거예요.+사전 계획과 실제 상황의 일치 여부에 관계없이, 우리는 상시로 통신을 유지하면서 임무를 실시간으로 조율할 수 있어야 합니다.
+()<Speaker>모나</Speaker>||:<color=#00CCFF>질소, 수신.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:유니콘, 수신.
+()<Speaker>게이저</Speaker>||:<color=#00CCFF>알았다.</color>
+XM8MOD(0)<Speaker>XM8</Speaker>||:OK!
+RO635Mod(0)<Speaker>RO635</Speaker>||:감사합니다. 지휘관님, 협의 마쳤습니다.
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>그래, 그럼 그렇게 하자.</color>
+()||<黑点1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2><SE1>AVG_HeavyVehicle_Stop</SE1>:같은 시각, "죽음의 바다" 내부의 어느 도로변.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>485</BIN><BGM>BGM_stage11</BGM>:다시 합류한 틸과 그레이가 수송 차량에서 몰리도를 내렸다.
+NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||<SE1>ClothingUp</SE1>:드라이브는 여기까지. 둘 다 놈들 확실하게 따돌렸지?
+NPC-grig(1)<Speaker>틸</Speaker>||:추격도 못 하도록 거리를 벌렸다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:저도입니다.
+NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||:후읍...
+()<Speaker></Speaker>||:몰리도는 깊게 숨을 들이마셨다.
+NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||:놈들이 내 몸에다 무슨 수작을 부린 게 분명해.+소련놈들 기술도 제법이라니까... 만일을 위해서 놈들을 저지할 부대를 배치해야겠어.
+NPC-grig(1)<Speaker>틸</Speaker>;NPC-Morridow(11)<Position>0,100</Position>||:하지만 지금 비행기를 동원하면 우리의 종적이 발각될 위험이 크다.
+NPC-grig(1);NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||:더는 꾸물거릴 시간 없어, 당장 그 탑으로 돌아가야 한다고.+그리고 내 꼬리도 밟힐대로 밟혔으니, 놈들이 여기까지 쫓아오지 않으리란 보장도 없지... 올 거라 상정하고 대비해야 해...+...뭐, 그래도 너무 걱정하지는 마. 잔챙이 몇 마리뿐이니, 우리한텐 아무런 위협도 안 돼.
+NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||:게다가, 비행 수단 없이 어떻게 더 쫓아오겠어?
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:하지만...+하지만 만약, 정말 만약 저희로 인해 아베르누스의 위치가 탄로나면, 아버님께선 저희를 어찌 하실까요...?
+()<Speaker></Speaker>||:그레이가 드물게도 몰리도의 말에 의문을 표했다.
+NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:몰리도가 고개를 들었다. 안 그래도 부상이 심각한 그녀는 조금 전의 전투로 더 허약해진 상태였다.
+NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||:그런 것쯤, 사소한 일이야...+놈들한테 들키면 어때, 빠져나가지 못하면 아무 일도 없는 거나 마찬가진데.+아버님도 절대 우리를 나무라지 못할 거야... 내가 드릴 소식은 우릴 벌하기엔 너무 가치 있으니까...
+NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,100</Position>||:그러니까, 난 돌아가야해...+반드시 돌아가야 한다고...!
+NPC-Morridow(10)<Speaker>몰리도</Speaker><Position>0,100</Position><Shake>0.1</Shake>||<SE1>AVG_XXS_kick</SE1>:<size=50>지금, 당장!</size>
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:......
+NPC-grig(1)<Speaker>틸</Speaker>||:그레이.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...초소로 가자. 오늘은 근무 교대일이니 거기에 예비용 비행기가 있을 거야.
+NPC-grig(1)<Speaker>틸</Speaker>||:......
+()<Speaker></Speaker>||:그레이의 표정이 점점 변하는 것을 보는 틸은 곧장 대답하지 못했다.
+NPC-grig(1)<Speaker>틸</Speaker>||:......알았다.
+()||<黑点1>:

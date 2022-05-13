@@ -1,46 +1,46 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>219</BIN><黑屏2><BGM>10051</BGM>:한편...
-()||:해안선 포탑의 각 부위가 전속력으로 가동하는 소음은 바깥의 총성을 덮을 정도로 시끄러웠다.
-()||:초조한 M4A1은 제어 시스템을 분석해, 포탑을 가장 빠르게 조작할 방법을 모색했다.+그리고 즉시 지휘관에게 통신을 시도했지만, 들리는 건 노이즈뿐이었다.
-()<Speaker>M4A1</Speaker>||:댄들라이, 들리나요? 현재 상황은 어떻죠?
-NytoIsomer(4)<Speaker>댄들라이</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>안심해, 루니샤. 지휘관은 무사해. 하지만 격리벽은 더 이상 제구실을 할 수 없어.</color>+<color=#00CCFF>그리폰은 지금 매우 위급한 상황이야. 발사 준비는 다 됐어?</color>
-()<Speaker>M4A1</Speaker>||:제어실은 준비됐습니다! 급탄실은 어떻죠?
-AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>15초만 기다려!</color>
-()<Speaker>M4A1</Speaker>||:지휘관님의 다음 방안은 뭔가요?
-NytoIsomer(4)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>지금은 피해가 매우 심각해서, 404소대가 미리 정찰한 경로를 따라 기지 내부로 후퇴하려 해.</color>+<color=#00CCFF>그러기 위해선 네 포격 지원이 필수야.</color>
-())<Speaker>M4A1</Speaker>||:알겠습니다, 전력으로 지원하겠어요!
-AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>포탄 일발 장전 완료!</color>
-()<Speaker>M4A1</Speaker>||:포격 준비 완료! 좌표는 아직인가요?
-NytoIsomer(4)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>지금 리벨리온이 열차의 좌표를 전송했어.</color>
-()<Speaker>M4A1</Speaker>||:좌표 확인!+포격 개시!
-()||:거대한 포신이 각도를 조절했다.
-()||<SE1>Battlefield</SE1><黑屏1>:그리고 웅장한 포성이 모든 소리를 삼켰고, 포구에서의 충격파는 병사들이 살짝 휘청일 정도였다.
-()||<BIN>9</BIN><黑屏2><SE2>Gunfight</SE2><BGM>BGM_Empty</BGM>:조급해진 병사들은 모래 먼지를 일으키며 돌격했지만, 수비하는 AR팀에게 격파당했다.
-()<Speaker>무전 통신</Speaker>||<SE2>AVG_whitenoise</SE2>:<color=#00CCFF>랜드, 여기는 쿼츠!</color>+<color=#00CCFF>적이 포탑을 탈취, 포격했다! 즉시 회피하라!</color>+<color=#00CCFF>반복한다, 즉시 회피하라!</color>
-()<Speaker>예고르</Speaker>||:무슨 일이지?
-()<Speaker>부관</Speaker>||:긴급 상황! 적이 해안선 포탑을 조작해 이쪽으로――
-()||<SE1>Explode</SE1><BGM>10106</BGM><黑屏1>:장교가 말을 끝내기도 전에, 거대한 포탄이 날아들어 장갑 열차 바로 옆에 떨어졌다.+엄청난 충격이 장갑 열차를 뒤흔들었다.+예고르는 균형을 잃고 벽에 부딪혔고, 지휘 테이블 위의 탄약과 서류가 바닥에 쏟아졌다.
-NPC-Yegor(4)<Speaker>예고르</Speaker>||<BIN>202</BIN><黑屏2>:제기랄!+열차를 움직여라! 이 열차의 보호막으로는 저 구경을 견딜 수 없다!
-NPC-Soldier(0)<Speaker>장교</Speaker>||<黑点1>:알겠습니다!
-NytoIsomer(4)<Speaker>댄들라이</Speaker><通讯框>||<黑点2><BIN>219</BIN><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>약간 빗나갔네. 군의 열차도 시동을 걸었어.</color>
-()<Speaker>M4A1</Speaker>||<黑屏1>:탄도 수정... 이번엔 반드시 맞추겠어!
-()||<BIN>9</BIN><黑屏2><SE1>Explode</SE1>:장갑 열차가 서서히 움직이기 시작했지만, 두 번째 포탄이 바람을 가르고 날아와, 열차의 끄트머리에 직격했다.+다시 한번 거대한 폭발이 일어났고, 열차의 주포는 하늘 높이 날아올랐다 땅으로 추락해 큰 구덩이를 만들었다.+열차는 불타올랐고, 안에서 몸에 불이 붙은 병사들이 비명을 지르며 뛰쳐나왔다.
-()<Speaker>부관</Speaker>||:4번 열차에 직격!
-()<Speaker>예고르</Speaker>||<黑屏1>:빌어먹을! 전속 전진! 그리폰이 남긴 쓰레기를 밀쳐내고, 전 병력으로 돌격한다!+무슨 수를 써서라도 그리폰을 섬멸한다!+쿼츠, 여기는 랜드! 즉시 포탑을 파괴하라!+반복한다, 즉시 포탑을 파괴하라!
-()<Speaker>M4A1</Speaker>||<BIN>219</BIN><黑屏2>:명중했나요?
-NytoIsomer(4)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>2차 포격, 군의 열차에 명중.</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>여기서도 잘 보여!</color>+<color=#00CCFF>불꽃놀이처럼 슈웅~하고 날아가서 퍼엉~하고 터졌어!</color>
-AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>포탄은 아직 충분해! 계속 쏴!</color>
-()<Speaker>M4A1</Speaker>||:좋아요, 포격 지원을 계속합니다!+RO, 밖의 공세는 어떤가요?
-RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>어... 뭔가 이상해요, 공세가 약해졌어요.</color>+<color=#00CCFF>왠지 불길한 예감이 드는데요...</color>
-()||<SE1>Explode</SE1>:RO의 말이 끝나기가 무섭게, 머리 위에서 폭음과 진동이 느껴졌다.
-RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>젠장, 아무래도 탈취를 포기하고 파괴할 작정인가 봐요!</color>+<color=#00CCFF>빨리 여길 이탈해야 해요. 포신이 무너지면 저희까지 밑에 깔리고 말아요!</color>
-()<Speaker>M4A1</Speaker>||:아직입니다!+한 발이라도 더 쏴야 지휘관님의 부담을 덜 수 있어요!
-AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>나도 찬성해! 이 포탑은 꽤 튼튼하니까, 좀 더 버틸 수 있을 거야!</color>
-NytoIsomer(4)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>군부대가 돌격하고 있어.</color>+<color=#00CCFF>선두는 이미 격리벽을 넘어, 잔존 그리폰 병력에게 접근하고 있어.</color>
-()<Speaker>M4A1</Speaker>||:포를 돌립니다! 지휘관님이 후퇴할 시간을 벌어야 해요!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>아 진짜 이놈들 정말 끈질기네! 껌딱지도 아니고 뭐가 이렇게 찰거머리야?!</color>
-()<Speaker>M4A1</Speaker>||:RO, 당신은 SOP2와 함께 기지로 이동할 경로를 확보하세요!
-RO635(0)<Speaker>RO635</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>알겠습니다! SOP2, 따라와!</color>
-()<Speaker>M4A1</Speaker>||<黑屏2><BIN>9</BIN>:AR-15, 조금만 더 버텨요!+한 발이라도 더 쏘는 거예요!
-()<Speaker>AR15</Speaker>||<黑屏1>:<color=#00CCFF>알았어!</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>219</BIN><黑屏2><BGM>10051</BGM>:한편...
+()||:해안선 포탑의 각 부위가 전속력으로 가동하는 소음은 바깥의 총성을 덮을 정도로 시끄러웠다.
+()||:초조한 M4A1은 제어 시스템을 분석해, 포탑을 가장 빠르게 조작할 방법을 모색했다.+그리고 즉시 지휘관에게 통신을 시도했지만, 들리는 건 노이즈뿐이었다.
+()<Speaker>M4A1</Speaker>||:댄들라이, 들리나요? 현재 상황은 어떻죠?
+NytoIsomer(4)<Speaker>댄들라이</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>안심해, 루니샤. 지휘관은 무사해. 하지만 격리벽은 더 이상 제구실을 할 수 없어.</color>+<color=#00CCFF>그리폰은 지금 매우 위급한 상황이야. 발사 준비는 다 됐어?</color>
+()<Speaker>M4A1</Speaker>||:제어실은 준비됐습니다! 급탄실은 어떻죠?
+AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>15초만 기다려!</color>
+()<Speaker>M4A1</Speaker>||:지휘관님의 다음 방안은 뭔가요?
+NytoIsomer(4)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>지금은 피해가 매우 심각해서, 404소대가 미리 정찰한 경로를 따라 기지 내부로 후퇴하려 해.</color>+<color=#00CCFF>그러기 위해선 네 포격 지원이 필수야.</color>
+())<Speaker>M4A1</Speaker>||:알겠습니다, 전력으로 지원하겠어요!
+AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>포탄 일발 장전 완료!</color>
+()<Speaker>M4A1</Speaker>||:포격 준비 완료! 좌표는 아직인가요?
+NytoIsomer(4)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>지금 리벨리온이 열차의 좌표를 전송했어.</color>
+()<Speaker>M4A1</Speaker>||:좌표 확인!+포격 개시!
+()||:거대한 포신이 각도를 조절했다.
+()||<SE1>Battlefield</SE1><黑屏1>:그리고 웅장한 포성이 모든 소리를 삼켰고, 포구에서의 충격파는 병사들이 살짝 휘청일 정도였다.
+()||<BIN>9</BIN><黑屏2><SE2>Gunfight</SE2><BGM>BGM_Empty</BGM>:조급해진 병사들은 모래 먼지를 일으키며 돌격했지만, 수비하는 AR팀에게 격파당했다.
+()<Speaker>무전 통신</Speaker>||<SE2>AVG_whitenoise</SE2>:<color=#00CCFF>랜드, 여기는 쿼츠!</color>+<color=#00CCFF>적이 포탑을 탈취, 포격했다! 즉시 회피하라!</color>+<color=#00CCFF>반복한다, 즉시 회피하라!</color>
+()<Speaker>예고르</Speaker>||:무슨 일이지?
+()<Speaker>부관</Speaker>||:긴급 상황! 적이 해안선 포탑을 조작해 이쪽으로――
+()||<SE1>Explode</SE1><BGM>10106</BGM><黑屏1>:장교가 말을 끝내기도 전에, 거대한 포탄이 날아들어 장갑 열차 바로 옆에 떨어졌다.+엄청난 충격이 장갑 열차를 뒤흔들었다.+예고르는 균형을 잃고 벽에 부딪혔고, 지휘 테이블 위의 탄약과 서류가 바닥에 쏟아졌다.
+NPC-Yegor(4)<Speaker>예고르</Speaker>||<BIN>202</BIN><黑屏2>:제기랄!+열차를 움직여라! 이 열차의 보호막으로는 저 구경을 견딜 수 없다!
+NPC-Soldier(0)<Speaker>장교</Speaker>||<黑点1>:알겠습니다!
+NytoIsomer(4)<Speaker>댄들라이</Speaker><通讯框>||<黑点2><BIN>219</BIN><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>약간 빗나갔네. 군의 열차도 시동을 걸었어.</color>
+()<Speaker>M4A1</Speaker>||<黑屏1>:탄도 수정... 이번엔 반드시 맞추겠어!
+()||<BIN>9</BIN><黑屏2><SE1>Explode</SE1>:장갑 열차가 서서히 움직이기 시작했지만, 두 번째 포탄이 바람을 가르고 날아와, 열차의 끄트머리에 직격했다.+다시 한번 거대한 폭발이 일어났고, 열차의 주포는 하늘 높이 날아올랐다 땅으로 추락해 큰 구덩이를 만들었다.+열차는 불타올랐고, 안에서 몸에 불이 붙은 병사들이 비명을 지르며 뛰쳐나왔다.
+()<Speaker>부관</Speaker>||:4번 열차에 직격!
+()<Speaker>예고르</Speaker>||<黑屏1>:빌어먹을! 전속 전진! 그리폰이 남긴 쓰레기를 밀쳐내고, 전 병력으로 돌격한다!+무슨 수를 써서라도 그리폰을 섬멸한다!+쿼츠, 여기는 랜드! 즉시 포탑을 파괴하라!+반복한다, 즉시 포탑을 파괴하라!
+()<Speaker>M4A1</Speaker>||<BIN>219</BIN><黑屏2>:명중했나요?
+NytoIsomer(4)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>2차 포격, 군의 열차에 명중.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>여기서도 잘 보여!</color>+<color=#00CCFF>불꽃놀이처럼 슈웅~하고 날아가서 퍼엉~하고 터졌어!</color>
+AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>포탄은 아직 충분해! 계속 쏴!</color>
+()<Speaker>M4A1</Speaker>||:좋아요, 포격 지원을 계속합니다!+RO, 밖의 공세는 어떤가요?
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>어... 뭔가 이상해요, 공세가 약해졌어요.</color>+<color=#00CCFF>왠지 불길한 예감이 드는데요...</color>
+()||<SE1>Explode</SE1>:RO의 말이 끝나기가 무섭게, 머리 위에서 폭음과 진동이 느껴졌다.
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>젠장, 아무래도 탈취를 포기하고 파괴할 작정인가 봐요!</color>+<color=#00CCFF>빨리 여길 이탈해야 해요. 포신이 무너지면 저희까지 밑에 깔리고 말아요!</color>
+()<Speaker>M4A1</Speaker>||:아직입니다!+한 발이라도 더 쏴야 지휘관님의 부담을 덜 수 있어요!
+AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>나도 찬성해! 이 포탑은 꽤 튼튼하니까, 좀 더 버틸 수 있을 거야!</color>
+NytoIsomer(4)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>군부대가 돌격하고 있어.</color>+<color=#00CCFF>선두는 이미 격리벽을 넘어, 잔존 그리폰 병력에게 접근하고 있어.</color>
+()<Speaker>M4A1</Speaker>||:포를 돌립니다! 지휘관님이 후퇴할 시간을 벌어야 해요!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>아 진짜 이놈들 정말 끈질기네! 껌딱지도 아니고 뭐가 이렇게 찰거머리야?!</color>
+()<Speaker>M4A1</Speaker>||:RO, 당신은 SOP2와 함께 기지로 이동할 경로를 확보하세요!
+RO635(0)<Speaker>RO635</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>알겠습니다! SOP2, 따라와!</color>
+()<Speaker>M4A1</Speaker>||<黑屏2><BIN>9</BIN>:AR-15, 조금만 더 버텨요!+한 발이라도 더 쏘는 거예요!
+()<Speaker>AR15</Speaker>||<黑屏1>:<color=#00CCFF>알았어!</color>

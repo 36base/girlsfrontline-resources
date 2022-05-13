@@ -1,127 +1,127 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>419</BIN><黑屏2><SE1>AVG_Explo_Distance</SE1><BGM>10220</BGM>:콰앙――!!+지하 2층의 사격장 천장 위에서, 폭발의 굉음이 시시때때로 들려왔다.+희미한 빛을 통해, 크루거는 인형들이 예정된 위치에 매복해 적의 도래를 기다리는 모습을 볼 수 있었다.
-Webley(0)<Speaker>웨블리</Speaker><通讯框>||:<color=#00CCFF>크루거 님, 적 제1소대가 D3 구역에 도달했습니다.</color>
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:D5, 주의하라.
-M1928A1(0)<Speaker>톰슨</Speaker><通讯框>||:<color=#00CCFF>라저, 더미 배치 완료.</color>
-Webley(0)<Speaker>웨블리</Speaker><通讯框>||:<color=#00CCFF>적 제1소대, D4 구역에 도달. 이어서 제2소대가 D3 구역에 진입.</color>
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:전원, 주의하라. 적이 곧 사정권에 들어온다.
-()||:인형들은 적이 나타날 방향을 주시하며, 방아쇠에 손가락을 얹고 기다렸다.+주변은 온통 고요했지만, 인형들은 저벅저벅 다가오는 발소리가 들려오는 것만 같았다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:......+준비.
-()||<黑点1>:곧 사격 신호가 떨어진다.+모두가 방아쇠에 걸친 손가락에 힘을 주었다.+당장에라도 모퉁이를 돌아 모습을 드러낼 적들을 맞이하기 위해.
-()||<黑点2><BIN>46</BIN>:지하 3층, 예비 엘레베이터 앞.+헬리안과 마인드맵 서버 호위 팀은 초조한 마음으로 엘레베이터를 기다렸다.+한편, 페르시카가 헬리안의 시선이 자꾸 천장으로 향하는 것을 눈치챘다.
-NPC-Persica(0)<Speaker>페르시카</Speaker>||:헬리안, 크루거 씨 걱정해?
-NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(0)||:...네, 적과의 전력차는 명백하니까요.
-NPC-Helian(0);NPC-Persica(0)<Speaker>페르시카</Speaker>||:너무 걱정 마, "인간의 가장 강력한 무기는 습관과 신뢰"라는 말도 있잖아.
-NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(0)||:그러고 보니, 당신은 이상하리만치 태연하군요?
-NPC-Helian(0);NPC-Persica(2)<Speaker>페르시카</Speaker>||:그야 그렇지 뭐, 너희가 날 실망시킨 적이 없었는데.
-NPC-Persica(0)<Speaker>페르시카</Speaker>||:그러니까, 저 위 말고 여길 더 걱정하도록 해.
-()||:그 말에, 헬리안은 천천히 뒤의 호위 팀을 돌아보았다. 싸울 수 있는 인형들은 모두 자진해서 저지 팀으로 들어갔기에, 여기 남은 인형들은 모두 부상병이었다.+평소 같았으면 다들 수복실에 누워있어야 하는 인형들이었다.
-gsh18(2)<Speaker>GSH18</Speaker>||:헬리안 씨, 저흰 괜찮아요.
-()||:만신창이인 소체로 무거운 서버를 끌고 온 인형들은 차분한 모습을 보이려 애썼다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:......+모두 수고가 많아.+조금만 더 참자, 지원군은 반드시 올 거야.
-()||<黑点1>:벌써 몇 번째인지 몰라도, 헬리안은 또 천장을 바라봤다.+다만 이번에는 그녀가 바라보는 방향이 크루거가 있는 쪽인지, 지원군이 올 방향인지 페르시카도 알 수 없었다.
-()||<黑点2><BIN>419</BIN><BGM>BGM_Empty</BGM>:지하 2층, 사격연습장.+저지 팀은 집결하여 방금 사살한 적을 하나씩 확인하면서, 시신에서 쓸 만한 무기와 탄약을 뒤졌다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||<BGM>10227</BGM>:인간 병사 4명에 군용 인형 7대.+꽤 정예병들을 보냈군. 카터가 배 좀 아파하겠어.
-Webley(0)<Speaker>웨블리</Speaker><通讯框>||:<color=#00CCFF>크루거 님, 적들의 동향이 이상합니다.</color>+<color=#00CCFF>지하 1층과 2층을 연결하는 구간의 일부 적이 지상 1층으로 퇴각하는 것을 관측했습니다.</color>
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:알았다, 계속 정찰 바란다.
-mp443(0)<Speaker>MP443</Speaker>||:퇴각...? 설마 이게 끝은 아니겠지?
-TT33(0)<Speaker>토카레프</Speaker>||:적도 확실히 병력 손실이 꽤 크긴 할 거야...
-M1928A1(0)<Speaker>톰슨</Speaker>||:빅 보스, 반격할까?
-()||:적의 시신을 확인하던 크루거는 잠시 고민했다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:카터가 내가 알던 그대로라면, 저놈들은 아마 후속 지원군을 기다리면서 재보급을 위해 일시적으로 후퇴한 것이겠지.
-M1928A1(0)<Speaker>톰슨</Speaker>||:놈들이 보급을 마치기 전에 해치울 수 있다면 전선을 크게 밀어낼 수 있겠는데.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그래, 시도해볼 만한 가치는 충분하지. 무기고를 탈환하면 보급이 가능해지고, 무엇보다 더 많은 시간을 벌 좋은 기회로군.+헬리안, 적이 후퇴한다. 지금부터 반격을 시도하려 한다만, 호위 팀은 예정대로 더 아래로 철수하도록.
-NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:<color=#00CCFF>알겠습니다. ...조심하십시오.</color>
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||<黑点1>:명심하지.+전원, 돌격 준비. 전선을 탈환한다.
-()||<黑点2><BIN>46</BIN>:지하 3층, 예비 엘레베이터 문 앞.+헬리안의 지휘를 받으며, 호위 팀 인형들은 질서정연하게 마인드맵 서버를 한 블록씩 지하 3층에서 4층으로 운반했다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:...역시 불안해.
-NPC-Helian(0);NPC-Persica(0)<Speaker>페르시카</Speaker>||:왜? 크루거 씨가 적들이 후퇴하는 낌새라며.
-NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(0)||:만약 그게 함정이라면요?
-NPC-Helian(0);NPC-Persica(0)<Speaker>페르시카</Speaker>||:크루거 씨도 백전노장이잖아, 모든 가능성을 고려하고 내린 결정이겠지.+그리고, 계속 도망치기만 해선 결국 기지 밑바닥에 갇혀 죽기를 기다리는 신세밖에 더 돼?
-NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(0)||:저도 지원군의 구조가 오기를 바라기만 하는 건 너무 소극적이라 생각합니다만... 왠지 모르게 걱정됩니다.
-NPC-Helian(0);NPC-Persica(0)<Speaker>페르시카</Speaker>||:적어도 당장 눈앞의 상대는 이길 방법이 있잖아.
-NPC-Persica(2)<Speaker>페르시카</Speaker>||:내가 저놈들이었으면, 아예 기지의 출입구란 출입구는 모조리 틀어막고 안에다 물을 들이부었을 거야.
-NPC-Helian(2)<Speaker>헬리안</Speaker>||:......
-()||<SE1>AVG_Explo_Distance</SE1><BGM>BGM_Empty</BGM>:쿠구궁――
-()||<BIN>47</BIN><震屏>:격렬한 진동과 함께, 예비 엘레베이터의 전원이 끊어졌다.
-NPC-Helian(3)<Speaker>헬리안</Speaker>||<BGM>10230</BGM>:무슨 일이지?
-()||:헬리안이 태블릿으로 기지의 에너지 관리 시스템을 확인하니, 지하 2층의 전력망이 끊어졌다고 표시됐다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:적의 공작인가...+크루거 님, 무사하십니까?
-()||:통신 채널엔 노이즈뿐이었다.
-NPC-Persica(1)<Speaker>페르시카</Speaker>||:서버를 지켜라!
-gsh18(2)<Speaker>GSH18</Speaker>||:모두 침착하세요!
-()||<SE1>AVG_Explo_Distance</SE1>:콰아앙!!+계속되는 포성에 인형들은 서로를 부둥켜안아 파란 속을 떠도는 뗏목이 되었다.
-NPC-Helian(1)<Speaker>헬리안</Speaker>||<黑点1>:크루거 님...
-()||<BIN>393</BIN><黑点2>:지하 2층에서 지하 1층으로 통하는 복도. 크루거와 저지 팀은 퇴각하는 적을 맹추격하며 뒤처지는 낙오병들을 섬멸했다.
-PPK(0)<Speaker>PPK</Speaker>||:이놈들, 술래잡기 엄청 좋아하나 봐? 우리가 쫓아오니까 꽁무니 빠져라 도망가네.
-mp443(0)<Speaker>MP443</Speaker>||:분명 우리한테 겁먹은 거야!
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:...추격 중지, 제자리에서 대기하라.
-()||:크루거가 손짓으로 부대를 멈춰 세웠다.
-M1928A1(0)<Speaker>톰슨</Speaker>||:왜 그래, 빅 보스? 조금만 더 가면 지하 1층의 무기고를 탈환할 수 있어.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:놈들은 우릴 유인하고 있다. 우리의 한계 사거리에 들어왔다 도망치기를 반복하고 있어.
-WA2000(0)<Speaker>WA2000</Speaker>||:하지만 이렇게 우리랑 계속 실랑이를 벌이는 게 저놈들한테 무슨 의미인데요? 아까부터 계속 우리한테 얻어맞고만 있는데...
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:......+일단 물러난다.
-()||<BGM>BGM_Empty</BGM>:그때, 불현듯 뭔가 떠오른 크루거의 표정이 급변했다.+하지만, 너무 늦었다.
-()||<SE1>AVG_whitenoise</SE1>:전원이 죽기 전의 마지막 단말마가 들려왔다.
-()||<BIN>9</BIN><BGM>GF_21winter_battle_2</BGM>:순식간에 불빛이 사라지고, 어둠이 내려앉았다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||<SE1>Stop_AVG_loop</SE1>:제기랄, 엎드려! 야시장비 착용!
-()||<SE1>AVG_Gunfire</SE1>:타타타탕——+콰앙——+맹렬한 포화가 순식간에 벽을 허물었다.+깜깜한 가운데 사방에서 총탄과 포격이 날아들어, 피아조차 구분할 수가 없었다.+바닥에 엎드린 인형들은 그저 어둠 속을 더듬으면서, 몰아치는 총탄과 화염의 파도를 헤치며 나아가야만 했다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:카터, 자넨 역시나...
-M1928A1(0)<Speaker>톰슨</Speaker>||:빅 보스, 이제 어떡하지?
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:야시장비 착용자는 퇴각을 엄호한다!
-TT33(0)<Speaker>토카레프</Speaker>||:예!
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:<color=#A9A9A9>헬리안, 부디 침착하게...</color>
-()||<SE1>AVG_Explo_Close</SE1><火花>:콰아앙——!!+포탄 한 발이, 아주 가까이서 폭발했다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker><Shake>||:크으윽...!
-M1928A1(0)<Speaker>톰슨</Speaker>||<关闭火花><黑点1>:빅 보스!+긴급 상황! 빅 보스가 폭발에 휘말렸다!
-()||<黑点2><BIN>47</BIN>:지하 3층, 멈춰 버린 예비 엘레베이터 앞.
-M1928A1(0)<Speaker>톰슨</Speaker><通讯框>||:<color=#00CCFF>마담 헬리안, 지금 우린 지하 3층으로 퇴각 중이야. 빅 보스가 중상을 입었어...</color>
-NPC-Helian(1)<Speaker>헬리안</Speaker>;M1928A1(0)<通讯框>||:뭐라고?!
-NPC-Helian(1);M1928A1(0)<Speaker>톰슨</Speaker><通讯框>||:<color=#00CCFF>빅 보스가 기절한 상태라 지휘가 불가능해. 이젠 마담밖에 없어.</color>
-M1928A1(0)<Speaker>톰슨</Speaker><通讯框>||:<color=#00CCFF>지금은 놈들의 추격을 따돌리려는 중이야. 마담, 더 늦기 전에 지휘권 인계받길 바라.</color>
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:...알았다. 너희는 현재 경로를 유지하며 퇴각하도록.
-M1928A1(0)<Speaker>톰슨</Speaker><通讯框>||:<color=#00CCFF>지금 이 상태로 복귀는 불가능해, 놈들이 바짝 따라잡았어.</color>
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:......
-NPC-Persica(0)<Speaker>페르시카</Speaker>||:이런 상황에선 역시... 소대 하나를 "미끼"로 삼아야겠지.+쟤네가 이대로 돌아오면 서버까지 위험해져.
-NPC-Helian(1)<Speaker>헬리안</Speaker>||:저도 압니다... 하지만...
-()||<SE1>AVG_tele_connect</SE1>:헬리안이 주저하던 사이, 떨리는 목소리가 채널에 끼어들었다.
-TT33(0)<Speaker>토카레프</Speaker><通讯框>||:<color=#00CCFF>헬리안 씨! 제가 남아서 시간을 벌겠습니다!</color>
-NPC-Helian(0)<Speaker>헬리안</Speaker>;TT33(0)<通讯框>||:토카레프...!
-NPC-Helian(0);TT33(0)<Speaker>토카레프</Speaker><通讯框>||:<color=#00CCFF>웰로드가 목숨을 바쳐 저를 구해 줬어요... 저도... 저도 모두를 위해 뭐라도 하고 싶어요!</color>
-NPC-Helian(0)<Speaker>헬리안</Speaker>;TT33(0)<通讯框>||:......
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:알았다. 네게 권한을 부여했으니, 즉시 소대를 편성해 동료들의 퇴각을 도와라.
-TT33(0)<Speaker>토카레프</Speaker><通讯框>||:<color=#00CCFF>알겠습니다!</color>
-()||<黑点1>:통신을 종료하자마자 헬리안은 벽에 기댄 채로 바닥에 주저앉았다. 그녀의 등골을 타고 오한이 치솟았다.+또 한 번, 홀로 어둠 속에 갇힌 공포감이 들었다.
-()||<黑点2><BIN>393</BIN><BGM>BGM_Empty</BGM>:긴급 편성된 저지 소대가 방어선을 구축하는 사이, 나머지 인형들은 차례차례 퇴각했다.+토카레프는 엄폐물 뒤에서 적의 동향을 귀기울여 살폈다.
-M1928A1(0)<Speaker>톰슨</Speaker>||<BGM>BGM_Empty</BGM>:교활한 놈들... 전력이 끊겨서 마담 헬리안도 서버를 옮길 수 없게 됐어.
-TT33(0)<Speaker>토카레프</Speaker>||<BGM>GF_21winter_battle_1</BGM>:저희가 어떻게든 고쳐볼게요.
-M1928A1(0)<Speaker>톰슨</Speaker>||:나도 여기 남겠다.
-PPK(0)<Speaker>PPK</Speaker>||:톰슨, 우린 시간만 벌 수 있지 결국엔 당하고 말 거야.+너 없으면 크루거 씨랑 헬리안이랑 다른 애들이랑, 또 마인드맵 서버는 누가 지켜?+목숨 하나 바치면 되는 간단한 임무는 우리한테 맡기고 어서 가. 모두를 지키는 게 더 중요하잖아.
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:맞아요...
-TT33(0)<Speaker>토카레프</Speaker>||:걱정 마세요, 마지막의 마지막까지 버틸게요.
-M1928A1(0)<Speaker>톰슨</Speaker>||:......+소대 하나 남겨서, 2차 방어선을 만들어 둘게. 도저히 못 버티겠으면 뒤로 빠져야 한다, 알았지?
-()||:톰슨은 토카레프의 어깨를 다독여 주고, 의식을 잃은 크루거를 업고 떠났다.
-mp443(0)<Speaker>MP443</Speaker>||:...설마 내가 너희랑 마지막을 함께할 줄이야.
-TT33(0)<Speaker>토카레프</Speaker>||:웰로드 씨 덕분에 이렇게 한자리에 모일 수 있었다고 생각해요.
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:......
-PPK(0)<Speaker>PPK</Speaker>||:그럼 웰로드를 대신해 대장이 된 토카레프~? 우린 이제 어떡하면 될까?
-TT33(0)<Speaker>토카레프</Speaker>||:적의 진격을 최대한 지연시키면서, 전원을 복구해야죠.
-mp443(0)<Speaker>MP443</Speaker>||:우리만으로?
-TT33(0)<Speaker>토카레프</Speaker>||:네, 우리만으로요.
-()||:어둠 속에서도 토카레프의 눈이 굳세게 빛났다.
-PPK(0)<Speaker>PPK</Speaker>||:정말 과감한 작전이네. 마음에 들어.
-mp443(0)<Speaker>MP443</Speaker>||:무리야... 우리의 화력으론...
-TT33(0)<Speaker>토카레프</Speaker>||:그러니 적과의 정면 충돌은 일절 피해야 해요.+놈들의 전술은, 집중 폭격으로 우리의 진형을 와해시킨 뒤 부대를 투입해 돌파하는 거예요.+지금 우리로선 그걸 버텨낼 방법이 없어요.
-PPK(0)<Speaker>PPK</Speaker>||:가루가 되는 데 1초도 안 걸리겠지.
-TT33(0)<Speaker>토카레프</Speaker>||:다만, 제가 관찰한 바에 따르면 적 대다수의 장비는 기관단총에 수류탄 정도에, 권총이나 근접 무기가 없었어요.
-mp443(0)<Speaker>MP443</Speaker>||:그게 표준이잖아?
-TT33(0)<Speaker>토카레프</Speaker>||:그렇죠, 즉 놈들은 기관단총의 교전 사거리보다 더 가까운 거리에서의 전투에 대비하지 않았단 뜻이에요.
-PPK(0)<Speaker>PPK</Speaker>||:오호라... 알았다.
-mp443(0)<Speaker>MP443</Speaker>||:뭘 알아?
-TT33(0)<Speaker>토카레프</Speaker>||:좁은 통로를 이용해서, 지근거리에서 싸운다면 우리도 승산이 있다는 거예요.
-()||<SE1>AVG_weapon_reload</SE1>:권총을 장전하는 토카레프의 등에서, 야전삽이 은은히 빛을 발했다.
-mp443(0)<Speaker>MP443</Speaker>||:오오... 제법 그럴싸한데?
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:근접전... 저도 할 수 있어요...!
-PPK(0)<Speaker>PPK</Speaker>||:작전 계획이 세워졌네. 이제 남은 문제는 하나야.+전원을 복구하러 갈 술래는 누가 할 거야?
-()||:시끌시끌하던 엄폐물 뒤의 작전 회의가, 찬물을 끼얹은 듯 조용해졌다.
-TT33(0)<Speaker>토카레프</Speaker>||<黑点1>:왜, 왜 다들 절 보세요...?
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>419</BIN><黑屏2><SE1>AVG_Explo_Distance</SE1><BGM>10220</BGM>:콰앙――!!+지하 2층의 사격장 천장 위에서, 폭발의 굉음이 시시때때로 들려왔다.+희미한 빛을 통해, 크루거는 인형들이 예정된 위치에 매복해 적의 도래를 기다리는 모습을 볼 수 있었다.
+Webley(0)<Speaker>웨블리</Speaker><通讯框>||:<color=#00CCFF>크루거 님, 적 제1소대가 D3 구역에 도달했습니다.</color>
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:D5, 주의하라.
+M1928A1(0)<Speaker>톰슨</Speaker><通讯框>||:<color=#00CCFF>라저, 더미 배치 완료.</color>
+Webley(0)<Speaker>웨블리</Speaker><通讯框>||:<color=#00CCFF>적 제1소대, D4 구역에 도달. 이어서 제2소대가 D3 구역에 진입.</color>
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:전원, 주의하라. 적이 곧 사정권에 들어온다.
+()||:인형들은 적이 나타날 방향을 주시하며, 방아쇠에 손가락을 얹고 기다렸다.+주변은 온통 고요했지만, 인형들은 저벅저벅 다가오는 발소리가 들려오는 것만 같았다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:......+준비.
+()||<黑点1>:곧 사격 신호가 떨어진다.+모두가 방아쇠에 걸친 손가락에 힘을 주었다.+당장에라도 모퉁이를 돌아 모습을 드러낼 적들을 맞이하기 위해.
+()||<黑点2><BIN>46</BIN>:지하 3층, 예비 엘레베이터 앞.+헬리안과 마인드맵 서버 호위 팀은 초조한 마음으로 엘레베이터를 기다렸다.+한편, 페르시카가 헬리안의 시선이 자꾸 천장으로 향하는 것을 눈치챘다.
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:헬리안, 크루거 씨 걱정해?
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(0)||:...네, 적과의 전력차는 명백하니까요.
+NPC-Helian(0);NPC-Persica(0)<Speaker>페르시카</Speaker>||:너무 걱정 마, "인간의 가장 강력한 무기는 습관과 신뢰"라는 말도 있잖아.
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(0)||:그러고 보니, 당신은 이상하리만치 태연하군요?
+NPC-Helian(0);NPC-Persica(2)<Speaker>페르시카</Speaker>||:그야 그렇지 뭐, 너희가 날 실망시킨 적이 없었는데.
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:그러니까, 저 위 말고 여길 더 걱정하도록 해.
+()||:그 말에, 헬리안은 천천히 뒤의 호위 팀을 돌아보았다. 싸울 수 있는 인형들은 모두 자진해서 저지 팀으로 들어갔기에, 여기 남은 인형들은 모두 부상병이었다.+평소 같았으면 다들 수복실에 누워있어야 하는 인형들이었다.
+gsh18(2)<Speaker>GSH18</Speaker>||:헬리안 씨, 저흰 괜찮아요.
+()||:만신창이인 소체로 무거운 서버를 끌고 온 인형들은 차분한 모습을 보이려 애썼다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:......+모두 수고가 많아.+조금만 더 참자, 지원군은 반드시 올 거야.
+()||<黑点1>:벌써 몇 번째인지 몰라도, 헬리안은 또 천장을 바라봤다.+다만 이번에는 그녀가 바라보는 방향이 크루거가 있는 쪽인지, 지원군이 올 방향인지 페르시카도 알 수 없었다.
+()||<黑点2><BIN>419</BIN><BGM>BGM_Empty</BGM>:지하 2층, 사격연습장.+저지 팀은 집결하여 방금 사살한 적을 하나씩 확인하면서, 시신에서 쓸 만한 무기와 탄약을 뒤졌다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||<BGM>10227</BGM>:인간 병사 4명에 군용 인형 7대.+꽤 정예병들을 보냈군. 카터가 배 좀 아파하겠어.
+Webley(0)<Speaker>웨블리</Speaker><通讯框>||:<color=#00CCFF>크루거 님, 적들의 동향이 이상합니다.</color>+<color=#00CCFF>지하 1층과 2층을 연결하는 구간의 일부 적이 지상 1층으로 퇴각하는 것을 관측했습니다.</color>
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:알았다, 계속 정찰 바란다.
+mp443(0)<Speaker>MP443</Speaker>||:퇴각...? 설마 이게 끝은 아니겠지?
+TT33(0)<Speaker>토카레프</Speaker>||:적도 확실히 병력 손실이 꽤 크긴 할 거야...
+M1928A1(0)<Speaker>톰슨</Speaker>||:빅 보스, 반격할까?
+()||:적의 시신을 확인하던 크루거는 잠시 고민했다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:카터가 내가 알던 그대로라면, 저놈들은 아마 후속 지원군을 기다리면서 재보급을 위해 일시적으로 후퇴한 것이겠지.
+M1928A1(0)<Speaker>톰슨</Speaker>||:놈들이 보급을 마치기 전에 해치울 수 있다면 전선을 크게 밀어낼 수 있겠는데.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그래, 시도해볼 만한 가치는 충분하지. 무기고를 탈환하면 보급이 가능해지고, 무엇보다 더 많은 시간을 벌 좋은 기회로군.+헬리안, 적이 후퇴한다. 지금부터 반격을 시도하려 한다만, 호위 팀은 예정대로 더 아래로 철수하도록.
+NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:<color=#00CCFF>알겠습니다. ...조심하십시오.</color>
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||<黑点1>:명심하지.+전원, 돌격 준비. 전선을 탈환한다.
+()||<黑点2><BIN>46</BIN>:지하 3층, 예비 엘레베이터 문 앞.+헬리안의 지휘를 받으며, 호위 팀 인형들은 질서정연하게 마인드맵 서버를 한 블록씩 지하 3층에서 4층으로 운반했다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:...역시 불안해.
+NPC-Helian(0);NPC-Persica(0)<Speaker>페르시카</Speaker>||:왜? 크루거 씨가 적들이 후퇴하는 낌새라며.
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(0)||:만약 그게 함정이라면요?
+NPC-Helian(0);NPC-Persica(0)<Speaker>페르시카</Speaker>||:크루거 씨도 백전노장이잖아, 모든 가능성을 고려하고 내린 결정이겠지.+그리고, 계속 도망치기만 해선 결국 기지 밑바닥에 갇혀 죽기를 기다리는 신세밖에 더 돼?
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(0)||:저도 지원군의 구조가 오기를 바라기만 하는 건 너무 소극적이라 생각합니다만... 왠지 모르게 걱정됩니다.
+NPC-Helian(0);NPC-Persica(0)<Speaker>페르시카</Speaker>||:적어도 당장 눈앞의 상대는 이길 방법이 있잖아.
+NPC-Persica(2)<Speaker>페르시카</Speaker>||:내가 저놈들이었으면, 아예 기지의 출입구란 출입구는 모조리 틀어막고 안에다 물을 들이부었을 거야.
+NPC-Helian(2)<Speaker>헬리안</Speaker>||:......
+()||<SE1>AVG_Explo_Distance</SE1><BGM>BGM_Empty</BGM>:쿠구궁――
+()||<BIN>47</BIN><震屏>:격렬한 진동과 함께, 예비 엘레베이터의 전원이 끊어졌다.
+NPC-Helian(3)<Speaker>헬리안</Speaker>||<BGM>10230</BGM>:무슨 일이지?
+()||:헬리안이 태블릿으로 기지의 에너지 관리 시스템을 확인하니, 지하 2층의 전력망이 끊어졌다고 표시됐다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:적의 공작인가...+크루거 님, 무사하십니까?
+()||:통신 채널엔 노이즈뿐이었다.
+NPC-Persica(1)<Speaker>페르시카</Speaker>||:서버를 지켜라!
+gsh18(2)<Speaker>GSH18</Speaker>||:모두 침착하세요!
+()||<SE1>AVG_Explo_Distance</SE1>:콰아앙!!+계속되는 포성에 인형들은 서로를 부둥켜안아 파란 속을 떠도는 뗏목이 되었다.
+NPC-Helian(1)<Speaker>헬리안</Speaker>||<黑点1>:크루거 님...
+()||<BIN>393</BIN><黑点2>:지하 2층에서 지하 1층으로 통하는 복도. 크루거와 저지 팀은 퇴각하는 적을 맹추격하며 뒤처지는 낙오병들을 섬멸했다.
+PPK(0)<Speaker>PPK</Speaker>||:이놈들, 술래잡기 엄청 좋아하나 봐? 우리가 쫓아오니까 꽁무니 빠져라 도망가네.
+mp443(0)<Speaker>MP443</Speaker>||:분명 우리한테 겁먹은 거야!
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:...추격 중지, 제자리에서 대기하라.
+()||:크루거가 손짓으로 부대를 멈춰 세웠다.
+M1928A1(0)<Speaker>톰슨</Speaker>||:왜 그래, 빅 보스? 조금만 더 가면 지하 1층의 무기고를 탈환할 수 있어.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:놈들은 우릴 유인하고 있다. 우리의 한계 사거리에 들어왔다 도망치기를 반복하고 있어.
+WA2000(0)<Speaker>WA2000</Speaker>||:하지만 이렇게 우리랑 계속 실랑이를 벌이는 게 저놈들한테 무슨 의미인데요? 아까부터 계속 우리한테 얻어맞고만 있는데...
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:......+일단 물러난다.
+()||<BGM>BGM_Empty</BGM>:그때, 불현듯 뭔가 떠오른 크루거의 표정이 급변했다.+하지만, 너무 늦었다.
+()||<SE1>AVG_whitenoise</SE1>:전원이 죽기 전의 마지막 단말마가 들려왔다.
+()||<BIN>9</BIN><BGM>GF_21winter_battle_2</BGM>:순식간에 불빛이 사라지고, 어둠이 내려앉았다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||<SE1>Stop_AVG_loop</SE1>:제기랄, 엎드려! 야시장비 착용!
+()||<SE1>AVG_Gunfire</SE1>:타타타탕——+콰앙——+맹렬한 포화가 순식간에 벽을 허물었다.+깜깜한 가운데 사방에서 총탄과 포격이 날아들어, 피아조차 구분할 수가 없었다.+바닥에 엎드린 인형들은 그저 어둠 속을 더듬으면서, 몰아치는 총탄과 화염의 파도를 헤치며 나아가야만 했다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:카터, 자넨 역시나...
+M1928A1(0)<Speaker>톰슨</Speaker>||:빅 보스, 이제 어떡하지?
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:야시장비 착용자는 퇴각을 엄호한다!
+TT33(0)<Speaker>토카레프</Speaker>||:예!
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:<color=#A9A9A9>헬리안, 부디 침착하게...</color>
+()||<SE1>AVG_Explo_Close</SE1><火花>:콰아앙——!!+포탄 한 발이, 아주 가까이서 폭발했다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker><Shake>||:크으윽...!
+M1928A1(0)<Speaker>톰슨</Speaker>||<关闭火花><黑点1>:빅 보스!+긴급 상황! 빅 보스가 폭발에 휘말렸다!
+()||<黑点2><BIN>47</BIN>:지하 3층, 멈춰 버린 예비 엘레베이터 앞.
+M1928A1(0)<Speaker>톰슨</Speaker><通讯框>||:<color=#00CCFF>마담 헬리안, 지금 우린 지하 3층으로 퇴각 중이야. 빅 보스가 중상을 입었어...</color>
+NPC-Helian(1)<Speaker>헬리안</Speaker>;M1928A1(0)<通讯框>||:뭐라고?!
+NPC-Helian(1);M1928A1(0)<Speaker>톰슨</Speaker><通讯框>||:<color=#00CCFF>빅 보스가 기절한 상태라 지휘가 불가능해. 이젠 마담밖에 없어.</color>
+M1928A1(0)<Speaker>톰슨</Speaker><通讯框>||:<color=#00CCFF>지금은 놈들의 추격을 따돌리려는 중이야. 마담, 더 늦기 전에 지휘권 인계받길 바라.</color>
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:...알았다. 너희는 현재 경로를 유지하며 퇴각하도록.
+M1928A1(0)<Speaker>톰슨</Speaker><通讯框>||:<color=#00CCFF>지금 이 상태로 복귀는 불가능해, 놈들이 바짝 따라잡았어.</color>
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:......
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:이런 상황에선 역시... 소대 하나를 "미끼"로 삼아야겠지.+쟤네가 이대로 돌아오면 서버까지 위험해져.
+NPC-Helian(1)<Speaker>헬리안</Speaker>||:저도 압니다... 하지만...
+()||<SE1>AVG_tele_connect</SE1>:헬리안이 주저하던 사이, 떨리는 목소리가 채널에 끼어들었다.
+TT33(0)<Speaker>토카레프</Speaker><通讯框>||:<color=#00CCFF>헬리안 씨! 제가 남아서 시간을 벌겠습니다!</color>
+NPC-Helian(0)<Speaker>헬리안</Speaker>;TT33(0)<通讯框>||:토카레프...!
+NPC-Helian(0);TT33(0)<Speaker>토카레프</Speaker><通讯框>||:<color=#00CCFF>웰로드가 목숨을 바쳐 저를 구해 줬어요... 저도... 저도 모두를 위해 뭐라도 하고 싶어요!</color>
+NPC-Helian(0)<Speaker>헬리안</Speaker>;TT33(0)<通讯框>||:......
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:알았다. 네게 권한을 부여했으니, 즉시 소대를 편성해 동료들의 퇴각을 도와라.
+TT33(0)<Speaker>토카레프</Speaker><通讯框>||:<color=#00CCFF>알겠습니다!</color>
+()||<黑点1>:통신을 종료하자마자 헬리안은 벽에 기댄 채로 바닥에 주저앉았다. 그녀의 등골을 타고 오한이 치솟았다.+또 한 번, 홀로 어둠 속에 갇힌 공포감이 들었다.
+()||<黑点2><BIN>393</BIN><BGM>BGM_Empty</BGM>:긴급 편성된 저지 소대가 방어선을 구축하는 사이, 나머지 인형들은 차례차례 퇴각했다.+토카레프는 엄폐물 뒤에서 적의 동향을 귀기울여 살폈다.
+M1928A1(0)<Speaker>톰슨</Speaker>||<BGM>BGM_Empty</BGM>:교활한 놈들... 전력이 끊겨서 마담 헬리안도 서버를 옮길 수 없게 됐어.
+TT33(0)<Speaker>토카레프</Speaker>||<BGM>GF_21winter_battle_1</BGM>:저희가 어떻게든 고쳐볼게요.
+M1928A1(0)<Speaker>톰슨</Speaker>||:나도 여기 남겠다.
+PPK(0)<Speaker>PPK</Speaker>||:톰슨, 우린 시간만 벌 수 있지 결국엔 당하고 말 거야.+너 없으면 크루거 씨랑 헬리안이랑 다른 애들이랑, 또 마인드맵 서버는 누가 지켜?+목숨 하나 바치면 되는 간단한 임무는 우리한테 맡기고 어서 가. 모두를 지키는 게 더 중요하잖아.
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:맞아요...
+TT33(0)<Speaker>토카레프</Speaker>||:걱정 마세요, 마지막의 마지막까지 버틸게요.
+M1928A1(0)<Speaker>톰슨</Speaker>||:......+소대 하나 남겨서, 2차 방어선을 만들어 둘게. 도저히 못 버티겠으면 뒤로 빠져야 한다, 알았지?
+()||:톰슨은 토카레프의 어깨를 다독여 주고, 의식을 잃은 크루거를 업고 떠났다.
+mp443(0)<Speaker>MP443</Speaker>||:...설마 내가 너희랑 마지막을 함께할 줄이야.
+TT33(0)<Speaker>토카레프</Speaker>||:웰로드 씨 덕분에 이렇게 한자리에 모일 수 있었다고 생각해요.
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:......
+PPK(0)<Speaker>PPK</Speaker>||:그럼 웰로드를 대신해 대장이 된 토카레프~? 우린 이제 어떡하면 될까?
+TT33(0)<Speaker>토카레프</Speaker>||:적의 진격을 최대한 지연시키면서, 전원을 복구해야죠.
+mp443(0)<Speaker>MP443</Speaker>||:우리만으로?
+TT33(0)<Speaker>토카레프</Speaker>||:네, 우리만으로요.
+()||:어둠 속에서도 토카레프의 눈이 굳세게 빛났다.
+PPK(0)<Speaker>PPK</Speaker>||:정말 과감한 작전이네. 마음에 들어.
+mp443(0)<Speaker>MP443</Speaker>||:무리야... 우리의 화력으론...
+TT33(0)<Speaker>토카레프</Speaker>||:그러니 적과의 정면 충돌은 일절 피해야 해요.+놈들의 전술은, 집중 폭격으로 우리의 진형을 와해시킨 뒤 부대를 투입해 돌파하는 거예요.+지금 우리로선 그걸 버텨낼 방법이 없어요.
+PPK(0)<Speaker>PPK</Speaker>||:가루가 되는 데 1초도 안 걸리겠지.
+TT33(0)<Speaker>토카레프</Speaker>||:다만, 제가 관찰한 바에 따르면 적 대다수의 장비는 기관단총에 수류탄 정도에, 권총이나 근접 무기가 없었어요.
+mp443(0)<Speaker>MP443</Speaker>||:그게 표준이잖아?
+TT33(0)<Speaker>토카레프</Speaker>||:그렇죠, 즉 놈들은 기관단총의 교전 사거리보다 더 가까운 거리에서의 전투에 대비하지 않았단 뜻이에요.
+PPK(0)<Speaker>PPK</Speaker>||:오호라... 알았다.
+mp443(0)<Speaker>MP443</Speaker>||:뭘 알아?
+TT33(0)<Speaker>토카레프</Speaker>||:좁은 통로를 이용해서, 지근거리에서 싸운다면 우리도 승산이 있다는 거예요.
+()||<SE1>AVG_weapon_reload</SE1>:권총을 장전하는 토카레프의 등에서, 야전삽이 은은히 빛을 발했다.
+mp443(0)<Speaker>MP443</Speaker>||:오오... 제법 그럴싸한데?
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:근접전... 저도 할 수 있어요...!
+PPK(0)<Speaker>PPK</Speaker>||:작전 계획이 세워졌네. 이제 남은 문제는 하나야.+전원을 복구하러 갈 술래는 누가 할 거야?
+()||:시끌시끌하던 엄폐물 뒤의 작전 회의가, 찬물을 끼얹은 듯 조용해졌다.
+TT33(0)<Speaker>토카레프</Speaker>||<黑点1>:왜, 왜 다들 절 보세요...?

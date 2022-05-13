@@ -1,49 +1,49 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>357</BIN><Night>:늦은 밤.+지휘실까지 쫓아온 AR-15와 댄들라이를 돌려보낸 지휘관은 통신을 걸었다.
-()<Speaker>지휘관</Speaker><通讯框>||<BGM>m_avg_casual</BGM>:페르시카 씨, 계시죠? 아침에 RO가 전송한 영상을 어떻게 보십니까?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>네 네 네, 좀 더 왼쪽, 아니 좀 더 위로. 거기요 거기.</color>+<color=#00CCFF>으아아 잠깐만요, 그 책장은 그렇게 두면 안――</color>
-()||<SE1>AVG_lifttable</SE1>:와르르르——!
-NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>하아... 이사 정말 귀찮다.</color>+<color=#00CCFF>됐어요 됐어, 됐으니까 이만 가도 돼요.</color>+<color=#00CCFF>안녕 지휘관, 기지에 인형도 잔뜩인데 이사 부서라도 만드는 건 어때? 어떻게 지금까지 부른 이사 센터 중에 일을 똑바로 하는 데가 없어...</color>
-NPC-Persica(3)<Speaker>지휘관</Speaker><通讯框>||:......+아직도 이사 중이십니까?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>응, 지휘관네 기지에서 나한테 할당해 준 공간이 너무 작아서. 그리고 거기 설비도 내가 아주 할아버지라 불러도 될 정도로 낡았더라.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:그것들 겨우 2년 전에 구입한 물건입니다만...
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그리고, 내 커피 메이커가 고장나서 일을 전혀 할 수가 없어.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:거기 바로 아래층에 카페가 있습니다.+인형들은 쉬어서 카페 문은 닫았겠지만, 커피 자판기는 여전히 작동할 겁니다.
-NPC-Persica(1)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>오오? 그런 인간친화적인 서비스도 있었어?</color>
-()||:그 말에 페르시카의 모습이 통신 화면에서 휙 사라졌다.+잠시 후, 페르시카는 손에 커피를 들고 돌아와 매우 흡족한 얼굴로 화면에 다시 나타났다.
-NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>후우, 이제야 살 것 같다.</color>+<color=#00CCFF>응, 이제 일할 수 있겠어.</color>
-()||:그러고는 설탕통을 꺼내, 커피잔에 들이부었다.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>RO가 보내 준 영상도 다 확인했어.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:페르시카 씨의 견해를 듣고 싶습니다.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>자세하게까지는 아니지만, 과거 수 년 간의 베를린 내 신문 기사를 검색하고 대조해봤지만 그런 사건은 전혀 일어나지 않았어.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:그렇다면...?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>워낙에 사실적이어서, 처음 봤을 땐 무슨 블록버스터 영화 홍보물인 줄 알았다고.</color>+<color=#00CCFF>그래도 어느 부잣집 영화광이 한가해서 이런 짓을 했다고는 생각 안 해.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:저희도 최대한 분석해봤지만, 합성된 흔적은 없었습니다.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>댄들라이 말로는 마흐리안의 마인드맵... 컨셔스 파노라마는 기억 이식도 못 견딜 수준으로 연약하다 했지?</color>+<color=#00CCFF>그렇다면, 그 영상들은 전부 사실이면서도 아직 일어나지 않은 것이라 가정할 수밖에 없어.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:이렇게 끔찍한 재난이 사실이라니...
-NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>하지만 아직 일어나지 않았지. 지휘관에겐 아직 그걸 저지할 기회가 있다고 봐.</color>
-NPC-Persica(2)<Speaker>지휘관</Speaker><通讯框>||:......
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그리고 AR-15가 말한 마흐리안의 파노라마에 돌연 나타났다 사라진 공백 구역도 흥미로워.</color>+<color=#00CCFF>그걸 기록한 데이터가 어째선지 손상돼서 유감이야.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:혹시 추측하시는 게 있습니까?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>가설이라면 몇 가지 있는데...</color>+<color=#00CCFF>나도 듣도보지 못한 거라 과연 얼마나 신빙성 있을지는 모르니까 알아서 걸러 듣도록 해.</color>+<color=#00CCFF>그러니까, 그 전에 두 번 침투했을 때와는 달리, 그땐 AR-15와 댄들라이가 마흐리안이 잠들었을 때 침투했잖아?</color>+<color=#00CCFF>인간에 비유해 간단히 말하자면, 잠들었을 때가 자의식이 가장 느슨해질 때야.</color>+<color=#00CCFF>마흐리안이 패러데우스의 신형 니토고, 그 파노라마의 구조가 인간의 기초의식과 비슷한 점이 있다는 걸 감안한다면, 그녀도 수면 중일 때 방어기제가 느슨해질 거라 생각해.</color>+<color=#00CCFF>그 둘은 마침 그때 침투해서 보통 땐 숨겨져 있던 기억을 찾아냈을 수도 있어.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:그 말씀대로라면, 그 구역에 있는 몰리도의 기억을 마흐리안이 의도적으로 숨겼다는 뜻입니까?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>내 추측 중 한 가지지.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:다른 추측은 어떻죠?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>이성질체들 간의 감응 능력에 대해선 얼마나 알아?</color>+<color=#00CCFF>지휘관이 탈린에서 봤던 이성질체들은 어떤 통신기구도 없이 서로 생각을 "공유"한다는 걸 알아냈어.</color>+<color=#00CCFF>이러한 감응은 정보를 안정적으로, 또 대량으로 온전하게 전달할 순 없지만, 자신의 기억의 일부를 동료에게 전달하기에는 충분해.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:그 추측대로면, 마흐리안은 그저 몰리도의 기억의 일부를 전송받았을 뿐이겠군요.
-NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>맞아, 하지만 기억을 전송받았다는 사실 그 자체만으로도 마흐리안은 몰리도와 같은 타입의 패러데우스라는 것이 증명되지.</color>
-NPC-Persica(2)<Speaker>지휘관</Speaker><通讯框>||:......
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그리고 하나 더 있는데, 이건 더 말이 안 될지도 몰라.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:괜찮습니다, 말씀해 주시죠.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>받은 스캔 결과로 보건대, 마흐리안의 신체는 개조를 거치긴 했어도 아직 인간의 범주를 벗어나진 않았어.</color>+<color=#00CCFF>인체에서 이뤄지는 신호 전달에는 화학반응을 통한 것과 전류를 통한 것이 있다는 건 알지?</color>+<color=#00CCFF>하지만 어느 쪽이든, 세포 간에 다양한 화학적 또는 전기학적 단차가 발생해.</color>+<color=#00CCFF>유전적으로 완벽하게 동일한 사람이 함께 있을 때, 그들은 상대의 것임에도 자신 고유의 정보 전달 방식과 똑같은 신호에 극도로 민감하게 반응하게 돼.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:네? 그 말은 즉...
-NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>비과학적인 용어를 쓰자면, 그 둘 사이엔 일란성 쌍둥이의 텔레파시 같은 게 있다고 볼 수 있어.</color>
-NPC-Persica(2)<Speaker>지휘관</Speaker><通讯框>||:그러니까... 마흐리안은 몰리도의 쌍둥이 자매일지도 모른다는 말이군요.+그녀의 파노라마에 몰리도의 기억이 나타난 건 몰리도의 영향을 받아서고요.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>어디까지나 가설일 뿐이야.</color>+<color=#00CCFF>과연 어떨지는, 내가 직접 마흐리안과 몰리도의 DNA를 검사하는 수밖에.</color>+<color=#00CCFF>하지만 이 추측이 사실이라면, 몰리도도 마흐리안의 눈을 통해 지휘관을 볼 수 있다는 뜻이야. 조심해.</color>
-()||:지휘관은 다 식은 차를 한 모금 마시고, 그 쓴맛에 얼굴을 찡그렸다.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>뭐야, 카리나가 없으니까 커피 타 줄 사람도 없어?</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:크흠... 돌아가면 다시 타 달라고 해야죠.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>걔 당분간은 커피 못 타 줄 텐데.</color>+<color=#00CCFF>지휘관이 돌아왔을 때 얼굴 보고 대화라도 할 수 있으면 다행일걸.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:...그게 무슨 뜻입니까?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>아직 못 들었어?</color>+<color=#00CCFF>오늘 카리나의 상태가 악화됐대. 경미하지만 피부조직에 규소 결정이 발견돼서 시립 병원으로 이송됐어.</color>
-()||<SE1>AVG_21Winter_Phone_Crash</SE1><黑屏1>:태블릿이 손에서 떨어졌다.+페르시카가 아직 뭐라 더 말하는 듯했지만, 지휘관에겐 들리지 않았다.+온세상이 정적에 빠져, 귓가엔 오직 헬리안에게 카리나에게 전해 달라 부탁한 말이 맴돌았다.+"금방 돌아갈 테니, 얼른 나아 기다리고 있어 달라."
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>357</BIN><Night>:늦은 밤.+지휘실까지 쫓아온 AR-15와 댄들라이를 돌려보낸 지휘관은 통신을 걸었다.
+()<Speaker>지휘관</Speaker><通讯框>||<BGM>m_avg_casual</BGM>:페르시카 씨, 계시죠? 아침에 RO가 전송한 영상을 어떻게 보십니까?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>네 네 네, 좀 더 왼쪽, 아니 좀 더 위로. 거기요 거기.</color>+<color=#00CCFF>으아아 잠깐만요, 그 책장은 그렇게 두면 안――</color>
+()||<SE1>AVG_lifttable</SE1>:와르르르——!
+NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>하아... 이사 정말 귀찮다.</color>+<color=#00CCFF>됐어요 됐어, 됐으니까 이만 가도 돼요.</color>+<color=#00CCFF>안녕 지휘관, 기지에 인형도 잔뜩인데 이사 부서라도 만드는 건 어때? 어떻게 지금까지 부른 이사 센터 중에 일을 똑바로 하는 데가 없어...</color>
+NPC-Persica(3)<Speaker>지휘관</Speaker><通讯框>||:......+아직도 이사 중이십니까?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>응, 지휘관네 기지에서 나한테 할당해 준 공간이 너무 작아서. 그리고 거기 설비도 내가 아주 할아버지라 불러도 될 정도로 낡았더라.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:그것들 겨우 2년 전에 구입한 물건입니다만...
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그리고, 내 커피 메이커가 고장나서 일을 전혀 할 수가 없어.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:거기 바로 아래층에 카페가 있습니다.+인형들은 쉬어서 카페 문은 닫았겠지만, 커피 자판기는 여전히 작동할 겁니다.
+NPC-Persica(1)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>오오? 그런 인간친화적인 서비스도 있었어?</color>
+()||:그 말에 페르시카의 모습이 통신 화면에서 휙 사라졌다.+잠시 후, 페르시카는 손에 커피를 들고 돌아와 매우 흡족한 얼굴로 화면에 다시 나타났다.
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>후우, 이제야 살 것 같다.</color>+<color=#00CCFF>응, 이제 일할 수 있겠어.</color>
+()||:그러고는 설탕통을 꺼내, 커피잔에 들이부었다.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>RO가 보내 준 영상도 다 확인했어.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:페르시카 씨의 견해를 듣고 싶습니다.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>자세하게까지는 아니지만, 과거 수 년 간의 베를린 내 신문 기사를 검색하고 대조해봤지만 그런 사건은 전혀 일어나지 않았어.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:그렇다면...?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>워낙에 사실적이어서, 처음 봤을 땐 무슨 블록버스터 영화 홍보물인 줄 알았다고.</color>+<color=#00CCFF>그래도 어느 부잣집 영화광이 한가해서 이런 짓을 했다고는 생각 안 해.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:저희도 최대한 분석해봤지만, 합성된 흔적은 없었습니다.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>댄들라이 말로는 마흐리안의 마인드맵... 컨셔스 파노라마는 기억 이식도 못 견딜 수준으로 연약하다 했지?</color>+<color=#00CCFF>그렇다면, 그 영상들은 전부 사실이면서도 아직 일어나지 않은 것이라 가정할 수밖에 없어.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:이렇게 끔찍한 재난이 사실이라니...
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>하지만 아직 일어나지 않았지. 지휘관에겐 아직 그걸 저지할 기회가 있다고 봐.</color>
+NPC-Persica(2)<Speaker>지휘관</Speaker><通讯框>||:......
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그리고 AR-15가 말한 마흐리안의 파노라마에 돌연 나타났다 사라진 공백 구역도 흥미로워.</color>+<color=#00CCFF>그걸 기록한 데이터가 어째선지 손상돼서 유감이야.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:혹시 추측하시는 게 있습니까?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>가설이라면 몇 가지 있는데...</color>+<color=#00CCFF>나도 듣도보지 못한 거라 과연 얼마나 신빙성 있을지는 모르니까 알아서 걸러 듣도록 해.</color>+<color=#00CCFF>그러니까, 그 전에 두 번 침투했을 때와는 달리, 그땐 AR-15와 댄들라이가 마흐리안이 잠들었을 때 침투했잖아?</color>+<color=#00CCFF>인간에 비유해 간단히 말하자면, 잠들었을 때가 자의식이 가장 느슨해질 때야.</color>+<color=#00CCFF>마흐리안이 패러데우스의 신형 니토고, 그 파노라마의 구조가 인간의 기초의식과 비슷한 점이 있다는 걸 감안한다면, 그녀도 수면 중일 때 방어기제가 느슨해질 거라 생각해.</color>+<color=#00CCFF>그 둘은 마침 그때 침투해서 보통 땐 숨겨져 있던 기억을 찾아냈을 수도 있어.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:그 말씀대로라면, 그 구역에 있는 몰리도의 기억을 마흐리안이 의도적으로 숨겼다는 뜻입니까?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>내 추측 중 한 가지지.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:다른 추측은 어떻죠?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>이성질체들 간의 감응 능력에 대해선 얼마나 알아?</color>+<color=#00CCFF>지휘관이 탈린에서 봤던 이성질체들은 어떤 통신기구도 없이 서로 생각을 "공유"한다는 걸 알아냈어.</color>+<color=#00CCFF>이러한 감응은 정보를 안정적으로, 또 대량으로 온전하게 전달할 순 없지만, 자신의 기억의 일부를 동료에게 전달하기에는 충분해.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:그 추측대로면, 마흐리안은 그저 몰리도의 기억의 일부를 전송받았을 뿐이겠군요.
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>맞아, 하지만 기억을 전송받았다는 사실 그 자체만으로도 마흐리안은 몰리도와 같은 타입의 패러데우스라는 것이 증명되지.</color>
+NPC-Persica(2)<Speaker>지휘관</Speaker><通讯框>||:......
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그리고 하나 더 있는데, 이건 더 말이 안 될지도 몰라.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:괜찮습니다, 말씀해 주시죠.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>받은 스캔 결과로 보건대, 마흐리안의 신체는 개조를 거치긴 했어도 아직 인간의 범주를 벗어나진 않았어.</color>+<color=#00CCFF>인체에서 이뤄지는 신호 전달에는 화학반응을 통한 것과 전류를 통한 것이 있다는 건 알지?</color>+<color=#00CCFF>하지만 어느 쪽이든, 세포 간에 다양한 화학적 또는 전기학적 단차가 발생해.</color>+<color=#00CCFF>유전적으로 완벽하게 동일한 사람이 함께 있을 때, 그들은 상대의 것임에도 자신 고유의 정보 전달 방식과 똑같은 신호에 극도로 민감하게 반응하게 돼.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:네? 그 말은 즉...
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>비과학적인 용어를 쓰자면, 그 둘 사이엔 일란성 쌍둥이의 텔레파시 같은 게 있다고 볼 수 있어.</color>
+NPC-Persica(2)<Speaker>지휘관</Speaker><通讯框>||:그러니까... 마흐리안은 몰리도의 쌍둥이 자매일지도 모른다는 말이군요.+그녀의 파노라마에 몰리도의 기억이 나타난 건 몰리도의 영향을 받아서고요.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>어디까지나 가설일 뿐이야.</color>+<color=#00CCFF>과연 어떨지는, 내가 직접 마흐리안과 몰리도의 DNA를 검사하는 수밖에.</color>+<color=#00CCFF>하지만 이 추측이 사실이라면, 몰리도도 마흐리안의 눈을 통해 지휘관을 볼 수 있다는 뜻이야. 조심해.</color>
+()||:지휘관은 다 식은 차를 한 모금 마시고, 그 쓴맛에 얼굴을 찡그렸다.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>뭐야, 카리나가 없으니까 커피 타 줄 사람도 없어?</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:크흠... 돌아가면 다시 타 달라고 해야죠.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>걔 당분간은 커피 못 타 줄 텐데.</color>+<color=#00CCFF>지휘관이 돌아왔을 때 얼굴 보고 대화라도 할 수 있으면 다행일걸.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:...그게 무슨 뜻입니까?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>아직 못 들었어?</color>+<color=#00CCFF>오늘 카리나의 상태가 악화됐대. 경미하지만 피부조직에 규소 결정이 발견돼서 시립 병원으로 이송됐어.</color>
+()||<SE1>AVG_21Winter_Phone_Crash</SE1><黑屏1>:태블릿이 손에서 떨어졌다.+페르시카가 아직 뭐라 더 말하는 듯했지만, 지휘관에겐 들리지 않았다.+온세상이 정적에 빠져, 귓가엔 오직 헬리안에게 카리나에게 전해 달라 부탁한 말이 맴돌았다.+"금방 돌아갈 테니, 얼른 나아 기다리고 있어 달라."

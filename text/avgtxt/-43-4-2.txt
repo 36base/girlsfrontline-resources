@@ -1,45 +1,45 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>288</BIN><BGM>m_avg_tension</BGM><SE2>Alarm</SE2>:맹렬한 총격전의 소리가 다크존에서 점점 크게 울려 퍼졌지만, 거리를 활보하는 적들은 그 소란에도 전혀 아랑곳하지 않았다.+시스템 설정상, 그들의 행동 패턴은 적을 "발견"해야만 움직이기 시작한다.+때문에, 직접 마주치는 적에게만 주저없이 방아쇠를 당기기만 하면 되는 일이었다.
-()||<SE1>Select</SE1>:하지만 다시 Vector와 마주한 HK416은 엄청난 위화감을 느꼈다. 조금 전에 상대했던 "Vector"는, 행동 양상이 게임 속 NPC 캐릭터에 가까웠다.+하지만 지금으로선 그 위화감을 천천히 곱씹어볼 겨를이 없었다.
-()||<SE2>Gunfight</SE2><SE1>AVG_rifle_finalshot_3h</SE1>:연사된 총알이 잇따라 지면에 도탄돼, 먼지와 흙탕물을 사방으로 튀겼다.+총구는 눈앞의 질주하는 표적을 뒤쫓다, 그 상대가 길가의 자동차 뒤로 미끄러져 들어가서야 멈췄다.
-()||<SE1>AVG_weapon_reload</SE1>:탄창을 교체하며, HK416은 드디어 Vector의 사격에 공백이 생겼음을 포착, 고개를 내밀어 반격하려 했지만... 파편 수류탄이 바로 옆에 떨어졌다.
-HK416Mod(0)<Speaker>HK416</Speaker>||<SE1>Explode</SE1>:칫!
-HK416Mod(0)<Speaker></Speaker>||:이 자동차가 HK416이 몸을 숨길 마지막 엄폐물이었지만, 어쩔 수 없었다.+황급히 옆으로 몸을 굴려 파편 수류탄의 폭발 반경에서는 벗어났지만, 또 다시 자신을 Vector의 사선에 고스란히 노출시키고 말았다.
-HK416Mod(0);Vector(0)<Speaker></Speaker><同时点亮>||<SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:지금 두 인형 사이의 간격은 교전 거리상 코앞이나 다름없었다. 엄폐물 밖으로 나온 HK416의 눈에는 전투 태세를 갖춘 Vector의 모습이 아주 뚜렷하게 보였다.+그래도 HK416은 불리한 상황에서 한줄기 희망을 찾았다. 길바닥에 아직 센서가 반짝이는 부비트랩이 있었고, HK416은 주저하지 않고 그것을 쏘았다.
-HK416Mod(0)<Speaker></Speaker>;Vector(0)||<SE2>Gunfight</SE2>:아주 잠깐이나마, HK416은 자신의 몸에 총알이 여러 발 명중하는 것이 느껴졌다. 하지만 상대의 총성은 그 이상 계속되지 않았다.
-HK416Mod(0)<Speaker></Speaker>;Vector(0)||<SE1>RunStep</SE1>:녀석의 탄창이 바닥난 것이었다.+이를 깨달은 HK416은, 피격되어 시야가 붉게 물드는 것도 무시하고 폭발로 인한 먼지구름을 뚫고 달려들어 Vector의 미간에 자신의 총을 겨눴다.
-HK416Mod(0);Vector(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>Select</SE1>:하지만 탄창을 교체할 겨를이 없음을 판단한 Vector도 보조무기를 뽑았고, 거의 동시에 그녀의 총구가 HK416의 왼쪽 눈에 닿았다.
-HK416Mod(0)<Speaker>HK416</Speaker>||:......
-Vector(0)<Speaker>Vector</Speaker>||:......
-()<Speaker></Speaker>||<白屏1>:한끗 차이로 승부가 갈라질 상황, 두 인형은 전혀 물러서지 않으면서도 방아쇠를 당기지 않았다.+둘 다, 서로를 응시하는 눈에서 똑같은 의혹을 느낀 것이었다.
-()<Speaker></Speaker>||<BIN>287</BIN><BGM>BGM_Frontline</BGM><SE1>AVG_The_Division_Flare_Gun</SE1><白屏2>:잠깐의 침묵을 날카로운 소리가 방해했다.+도시 저편의 하늘로 솟아오르는 붉은 신호탄. 헬리콥터에게 철수 지점 위치를 전달하는 신호였다.
-()<Speaker>시스템</Speaker>||:플레이어 "aaaa" 요원이 철수 신호탄을 쏘아 올렸습니다.+철수용 헬리콥터 도착까지 남은 시간 - 9분 59초 62...
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<黑屏2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>요원님, 철수 신호탄이 발사되었습니다! 즉시 철수 지점으로 이동하세요!</color>
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:급하면 너 먼저 가, 난 더 중요한 일을 처리해야 해.
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||:정말 끈질기게 구는구나?
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:너야말로 뻔뻔하기 짝이 없어.
-Vector(0);NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>저기요? 결판은 나중에 내도 되니까 우선 눈앞의 위협부터 처리하지 않을래요?</color>
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:무슨 위협?
-Vector(0)<Speaker>ISAC</Speaker>;NPC-Dima(1)||:높은 위험도의 적 다수 탐지.
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||:왜 또 하필 이럴 때...?!
-HK416Mod(0)<Speaker></Speaker>;NPC-Dima(1)||<SE1>Explode</SE1>:ISAC의 경고와 거의 동시에, HK416과 Vector는 시각에 노이즈가 발생하는 것을 느꼈다.+그리고 희미하게 들린 쇳소리에, 반사적으로 옆의 엄폐물로 몸을 던졌다.+희미한 쇳소리의 정체는 파편 수류탄이었다. 두 인형이 서 있던 자리에 날아든 파편 수류탄들이 연달아 폭발했다.+그리고 폭발의 연기 너머로, 신호탄이 발사된 방향에서 다시 나타난 변절 요원들이 개미떼처럼 몰려왔다.
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||:이거 수가 좀... 지나치지 않아?
-HK416Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>지금 당신들을 발견한 적들뿐만이 아니라, 주변의 모든 적들이 철수 지점으로 모이고 있어요!</color>
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||<BGM>BGM_Empty</BGM>:45가 헬기를 호출해서야?
-NPC-Dima(1)<Speaker>디마</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>그것도 있지만, 더 큰 원인은――</color>
-()<Speaker>？？？</Speaker>||<BGM>BGM_Danger</BGM>:이제... 죽을 준비가 되었나?+모든 것이... 끝을 맞이할 때...
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>...바로 저 녀석들입니다.</color>
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||<SE2>Gunfight</SE2>:잠깐, 이 목소리는...?
-HK416Mod(0)<Speaker></Speaker>;NPC-Dima(1)||<SE1>Explode</SE1>:하지만 변절 요원들이 이미 포위망을 구축해, 생각할 시간이 없었다.+엄폐물에서 남은 탄창을 확인한 HK416은 다시 Vector가 있는 곳을 확인했다.
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||:지금 저 녀석도 적에게 노려진 거지?
-HK416Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>그렇죠...</color>+<color=#00CCFF>잠깐만요, 뭘 어쩌려고요?</color>
-HK416Mod(0);NPC-Dima(1)<Speaker></Speaker>||<SE1>RunStep</SE1>:디마의 말을 무시하고, HK416은 변절 요원들의 어그로가 Vector에게 쏠린 틈을 타 곧장 골목길로 달려 들어갔다.
-HK416Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>이봐요, 혼자 도망치면 어떡해요!? 저 사람을 버릴 작정이에요!?</color>+<color=#00CCFF>협력하지 않으면 당신도 저 사람도 저 많은 적들을 상대할 수 없다고요!</color>
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||:진짜 시끄럽네... 녀석한테 뒤통수 맞긴 했어도 UMP45는 여전히 내 동료야, 그리폰 녀석이랑 손잡을 생각 없어.+게다가, 그 녀석이 약품을 확보하고 헬기를 불렀다고.+내 팀원이랑 합류하지 않고 저 정신 나간 녀석을 도우라고?
-HK416Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>그, 그치만...</color>
-HK416Mod(0);NPC-Dima(1)<Speaker></Speaker>||:디마의 목소리와 말투가 확연히 달라졌다.+HK416은 이런 표현을 쓰기 싫지만...+디마가 마치 "살아난" 것 같은 느낌이 들었다.
-HK416Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>신호탄 쏜 사람보단 두 분이 더 믿음직하다고요...</color>
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||:뭐?
-HK416Mod(0);NPC-Dima(1)<Speaker></Speaker>||:그때, 총격음이 HK416의 뒤를 따라왔다.
-HK416Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>어? 그 사람 따라오나 봐요!</color>
-HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||<黑屏1><SE1>AVG_weapon_reload</SE1>:쳇, 성가신 놈들이 아주 앞뒤로 짜증나게 하네.+날 막을 생각 마!
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>288</BIN><BGM>m_avg_tension</BGM><SE2>Alarm</SE2>:맹렬한 총격전의 소리가 다크존에서 점점 크게 울려 퍼졌지만, 거리를 활보하는 적들은 그 소란에도 전혀 아랑곳하지 않았다.+시스템 설정상, 그들의 행동 패턴은 적을 "발견"해야만 움직이기 시작한다.+때문에, 직접 마주치는 적에게만 주저없이 방아쇠를 당기기만 하면 되는 일이었다.
+()||<SE1>Select</SE1>:하지만 다시 Vector와 마주한 HK416은 엄청난 위화감을 느꼈다. 조금 전에 상대했던 "Vector"는, 행동 양상이 게임 속 NPC 캐릭터에 가까웠다.+하지만 지금으로선 그 위화감을 천천히 곱씹어볼 겨를이 없었다.
+()||<SE2>Gunfight</SE2><SE1>AVG_rifle_finalshot_3h</SE1>:연사된 총알이 잇따라 지면에 도탄돼, 먼지와 흙탕물을 사방으로 튀겼다.+총구는 눈앞의 질주하는 표적을 뒤쫓다, 그 상대가 길가의 자동차 뒤로 미끄러져 들어가서야 멈췄다.
+()||<SE1>AVG_weapon_reload</SE1>:탄창을 교체하며, HK416은 드디어 Vector의 사격에 공백이 생겼음을 포착, 고개를 내밀어 반격하려 했지만... 파편 수류탄이 바로 옆에 떨어졌다.
+HK416Mod(0)<Speaker>HK416</Speaker>||<SE1>Explode</SE1>:칫!
+HK416Mod(0)<Speaker></Speaker>||:이 자동차가 HK416이 몸을 숨길 마지막 엄폐물이었지만, 어쩔 수 없었다.+황급히 옆으로 몸을 굴려 파편 수류탄의 폭발 반경에서는 벗어났지만, 또 다시 자신을 Vector의 사선에 고스란히 노출시키고 말았다.
+HK416Mod(0);Vector(0)<Speaker></Speaker><同时点亮>||<SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:지금 두 인형 사이의 간격은 교전 거리상 코앞이나 다름없었다. 엄폐물 밖으로 나온 HK416의 눈에는 전투 태세를 갖춘 Vector의 모습이 아주 뚜렷하게 보였다.+그래도 HK416은 불리한 상황에서 한줄기 희망을 찾았다. 길바닥에 아직 센서가 반짝이는 부비트랩이 있었고, HK416은 주저하지 않고 그것을 쏘았다.
+HK416Mod(0)<Speaker></Speaker>;Vector(0)||<SE2>Gunfight</SE2>:아주 잠깐이나마, HK416은 자신의 몸에 총알이 여러 발 명중하는 것이 느껴졌다. 하지만 상대의 총성은 그 이상 계속되지 않았다.
+HK416Mod(0)<Speaker></Speaker>;Vector(0)||<SE1>RunStep</SE1>:녀석의 탄창이 바닥난 것이었다.+이를 깨달은 HK416은, 피격되어 시야가 붉게 물드는 것도 무시하고 폭발로 인한 먼지구름을 뚫고 달려들어 Vector의 미간에 자신의 총을 겨눴다.
+HK416Mod(0);Vector(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>Select</SE1>:하지만 탄창을 교체할 겨를이 없음을 판단한 Vector도 보조무기를 뽑았고, 거의 동시에 그녀의 총구가 HK416의 왼쪽 눈에 닿았다.
+HK416Mod(0)<Speaker>HK416</Speaker>||:......
+Vector(0)<Speaker>Vector</Speaker>||:......
+()<Speaker></Speaker>||<白屏1>:한끗 차이로 승부가 갈라질 상황, 두 인형은 전혀 물러서지 않으면서도 방아쇠를 당기지 않았다.+둘 다, 서로를 응시하는 눈에서 똑같은 의혹을 느낀 것이었다.
+()<Speaker></Speaker>||<BIN>287</BIN><BGM>BGM_Frontline</BGM><SE1>AVG_The_Division_Flare_Gun</SE1><白屏2>:잠깐의 침묵을 날카로운 소리가 방해했다.+도시 저편의 하늘로 솟아오르는 붉은 신호탄. 헬리콥터에게 철수 지점 위치를 전달하는 신호였다.
+()<Speaker>시스템</Speaker>||:플레이어 "aaaa" 요원이 철수 신호탄을 쏘아 올렸습니다.+철수용 헬리콥터 도착까지 남은 시간 - 9분 59초 62...
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<黑屏2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>요원님, 철수 신호탄이 발사되었습니다! 즉시 철수 지점으로 이동하세요!</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:급하면 너 먼저 가, 난 더 중요한 일을 처리해야 해.
+HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||:정말 끈질기게 구는구나?
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:너야말로 뻔뻔하기 짝이 없어.
+Vector(0);NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>저기요? 결판은 나중에 내도 되니까 우선 눈앞의 위협부터 처리하지 않을래요?</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)||:무슨 위협?
+Vector(0)<Speaker>ISAC</Speaker>;NPC-Dima(1)||:높은 위험도의 적 다수 탐지.
+HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||:왜 또 하필 이럴 때...?!
+HK416Mod(0)<Speaker></Speaker>;NPC-Dima(1)||<SE1>Explode</SE1>:ISAC의 경고와 거의 동시에, HK416과 Vector는 시각에 노이즈가 발생하는 것을 느꼈다.+그리고 희미하게 들린 쇳소리에, 반사적으로 옆의 엄폐물로 몸을 던졌다.+희미한 쇳소리의 정체는 파편 수류탄이었다. 두 인형이 서 있던 자리에 날아든 파편 수류탄들이 연달아 폭발했다.+그리고 폭발의 연기 너머로, 신호탄이 발사된 방향에서 다시 나타난 변절 요원들이 개미떼처럼 몰려왔다.
+HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||:이거 수가 좀... 지나치지 않아?
+HK416Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>지금 당신들을 발견한 적들뿐만이 아니라, 주변의 모든 적들이 철수 지점으로 모이고 있어요!</color>
+HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||<BGM>BGM_Empty</BGM>:45가 헬기를 호출해서야?
+NPC-Dima(1)<Speaker>디마</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>그것도 있지만, 더 큰 원인은――</color>
+()<Speaker>？？？</Speaker>||<BGM>BGM_Danger</BGM>:이제... 죽을 준비가 되었나?+모든 것이... 끝을 맞이할 때...
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>...바로 저 녀석들입니다.</color>
+HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||<SE2>Gunfight</SE2>:잠깐, 이 목소리는...?
+HK416Mod(0)<Speaker></Speaker>;NPC-Dima(1)||<SE1>Explode</SE1>:하지만 변절 요원들이 이미 포위망을 구축해, 생각할 시간이 없었다.+엄폐물에서 남은 탄창을 확인한 HK416은 다시 Vector가 있는 곳을 확인했다.
+HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||:지금 저 녀석도 적에게 노려진 거지?
+HK416Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>그렇죠...</color>+<color=#00CCFF>잠깐만요, 뭘 어쩌려고요?</color>
+HK416Mod(0);NPC-Dima(1)<Speaker></Speaker>||<SE1>RunStep</SE1>:디마의 말을 무시하고, HK416은 변절 요원들의 어그로가 Vector에게 쏠린 틈을 타 곧장 골목길로 달려 들어갔다.
+HK416Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>이봐요, 혼자 도망치면 어떡해요!? 저 사람을 버릴 작정이에요!?</color>+<color=#00CCFF>협력하지 않으면 당신도 저 사람도 저 많은 적들을 상대할 수 없다고요!</color>
+HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||:진짜 시끄럽네... 녀석한테 뒤통수 맞긴 했어도 UMP45는 여전히 내 동료야, 그리폰 녀석이랑 손잡을 생각 없어.+게다가, 그 녀석이 약품을 확보하고 헬기를 불렀다고.+내 팀원이랑 합류하지 않고 저 정신 나간 녀석을 도우라고?
+HK416Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>그, 그치만...</color>
+HK416Mod(0);NPC-Dima(1)<Speaker></Speaker>||:디마의 목소리와 말투가 확연히 달라졌다.+HK416은 이런 표현을 쓰기 싫지만...+디마가 마치 "살아난" 것 같은 느낌이 들었다.
+HK416Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>신호탄 쏜 사람보단 두 분이 더 믿음직하다고요...</color>
+HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||:뭐?
+HK416Mod(0);NPC-Dima(1)<Speaker></Speaker>||:그때, 총격음이 HK416의 뒤를 따라왔다.
+HK416Mod(0);NPC-Dima(1)<Speaker>디마</Speaker>||:<color=#00CCFF>어? 그 사람 따라오나 봐요!</color>
+HK416Mod(0)<Speaker>HK416</Speaker>;NPC-Dima(1)||<黑屏1><SE1>AVG_weapon_reload</SE1>:쳇, 성가신 놈들이 아주 앞뒤로 짜증나게 하네.+날 막을 생각 마!

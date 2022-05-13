@@ -1,62 +1,62 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>46</BIN><黑屏2><Night><BGM>BGM_Brain</BGM><Night>:...잠시 후, 철혈 거점.
-BOSS-5(0)<Speaker>알케미스트</Speaker>||:헉... 헉... 후훗... 아무래도, 더미 소체라서 제 성능이 안 나오나 보군...
-()<Speaker></Speaker>||:Spitfire는 총구를 무릎을 꿇은 알케미스트의 미간에 대었다.+부상을 입고 머리카락도 헝클어진 알케미스트였지만, 표정은 여전히 당당했다.
-Spitfire(2)<Speaker>Spitfire</Speaker>||<黑屏1>:이제... 끝이에요.
-()||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:......
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐이——!
-P90(0)<Speaker>P90</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>흠흠... 어... 긴급 공지를 전달할게!</color>
-()<Speaker></Speaker>||<BIN>46</BIN><黑屏2><Night>:......
-()<Speaker></Speaker>||:Spitfire가 방아쇠를 당기려던 찰나, 갑작스레 들어온 통신에 모두가 깜짝 놀랐다.+화상 통신에서, P90은 P7의 목덜미를 잡아 들고 있었다.
-P90(0)<Speaker>P90</Speaker><通讯框>||<BGM>m_avg_casual</BGM>:<color=#00CCFF>통신 다 연결됐겠지? 그럼 지금부터 P7이 설명할 테니까 잘 들어 줘.</color>
-P7(2)<Speaker>P7</Speaker><通讯框>||:<color=#00CCFF>우이씨, 내려놓기나 해!</color>+<color=#00CCFF>커흠... 그러니까... 이번 전염병 사태는 말이지... 전부 오해로 인한 일이야...</color>
-()<Speaker></Speaker>||:그 말에, 철혈 거점의 일행은 할 말을 잃었다. Spitfire는 총을 내리고, 어안이 벙벙한 표정으로 웰로드와 서로를 마주 봤다.+그리고 그런 그들을 보며 알케미스트는 폭소를 터뜨렸다.
-P7(2)<Speaker>P7</Speaker><通讯框>||:<color=#00CCFF>오늘 아침에 말이야... 그러니까 해 뜬 지 얼마 안 됐을 때, 내가 키우는 디너게이트를 시켜서 카리나의 화장품을 하나 슬쩍했어. SuperSASS의 몸에 좀비처럼 얼룩을 칠하려고...</color>+<color=#00CCFF>이야, 지금 생각해 봐도 정말 완벽한 계획이었다니까! 며칠 전부터 카리나가 외출할 거란 정보를 입수했고, 외출 전에 화장하는 것도 확인했고!</color>+<color=#00CCFF>그야말로 하늘이 내려준 기회였지. 화장품을 그냥 탁상 위에 내버려 두고 갔으니까. 물론 서랍에 넣고 잠갔더라도 꺼냈을 테지만!</color>+<color=#00CCFF>그리고 내 디너게이트 군단을 보내서 옷 속과 수건에 그걸 잔뜩 묻혔지! 도중에 TAC50한테 들킬 뻔하긴 했지만.</color>+<color=#00CCFF>그런데 SASS 녀석, 평소에 입는 옷을 안 입고 핼러윈 분장을 했지 뭐야! 임무 나가는데 쓸데없이 옷차림에 신경이나 쓰고, 흥! 얼굴은 제대로 닦지도 않는 주제에!</color>
-Spitfire(2)<Speaker>Spitfire</Speaker>||:P7, 요점만 말해!
-P7(2)<Speaker>P7</Speaker><通讯框>||:<color=#00CCFF>아, 알았어...</color>+<color=#00CCFF>아무튼, SuperSASS가 아무것도 모르고 멀쩡하게 임무에 나가길래 무지 실망했어. 게다가 실수로 내 손에 묻은 화장품이 지워지질 않아서 그냥 버렸는데——</color>
-()<Speaker></Speaker>||<SE1>AVG_pistol_finalshot_n</SE1>:타앙! Spitfire가 맨땅에 총을 한 방 쏘았다.+통신기 너머의 P7은 그 소리에 기겁하면서 P90에게 통신기를 넘겼다.
-P90(0)<Speaker>P90</Speaker><通讯框>||:<color=#00CCFF>어... 나머진 내가 설명할게.</color>
-()<Speaker></Speaker>||:P90은 숨을 깊게 들이마신 뒤, 마저 설명했다.
-P90(0)<Speaker>P90</Speaker><通讯框>||:<color=#00CCFF>사실, 내가 그때 P7이 디너게이트에게 지시를 내리는 걸 봤어. SASS한테 장난치는 건 못 봤지만.</color>+<color=#00CCFF>그리고 초소 경계하러 갔는데, 너무 지루한 거 있지? 그래서 가던 중에 P7의 말투를 따라 하면서 그 버려진 화장품을 회수해서, 드론들한테 똑같은 지시를 내렸어...</color>+<color=#00CCFF>그나저나 그 화장품, P7이 아주 엉망으로 만들어놨더라! 구석에 숨어서 겨우겨우 정리한 다음에, 지령을 짜서 드론 여러 대에 염료를 나눠 줬지.</color>+<color=#00CCFF>비행 경로도 엄청 신경 썼다고! 기지 전체를 커버하고 목표를 발견하는 즉시 돌진해서 염료를 뿌리도록! P7은 이 정도까진 못할——</color>
-Spitfire(2)<Speaker>Spitfire</Speaker>||<SE1>AVG_pistol_finalshot_n</SE1>:<b>그, 다, 음, 엔?</b>
-P90(0)<Speaker>P90</Speaker><通讯框>||:<color=#00CCFF>그, 그그그 다음엔 웰로드의 부사수로 함께 초소 경계 임무를 섰지... 그때부터 웰로드의 말투를 따라 하느라... 드론을 까맣게 잊어... 버렸...</color>
-()<Speaker></Speaker>||:P90은 점점 기어들어 가는 목소리로 눈을 이리저리 굴렸다.+철혈 거점에는 웃다 지친 알케미스트의 숨소리와 미약한 전류의 노이즈만이 들릴 뿐이었다.+웰로드와 Spitfire는 어이가 없어 무슨 말을 해야 할지 몰랐다.
-Spitfire(2)<Speaker>Spitfire</Speaker>||:그러니까... 전염병 바이러스 같은 건 애초부터 없었고, 75 언니도 멀쩡했고, 전부... 카리나 씨의 화장품이었단 거예요?
-P90(0)<Speaker>P90</Speaker><通讯框>||:<color=#00CCFF><size=30>으응... 맞아...</size></color>
-()<Speaker></Speaker>||:P90의 목소리는 이제 모기 소리 같았다.
-Spitfire(2)<Speaker>Spitfire</Speaker>||:P7... P90... 두 사람 모두...
-P7(2)<Speaker>P7</Speaker><通讯框>||:<color=#00CCFF>으으... 잘못했어 Spitfire 언니... 히익, 주먹 쥐는 소리가 여기서도 들려...</color>
-()<Speaker></Speaker>||:철혈 거점도 침묵에 빠졌다. 알케미스트도 그저 히죽거리기만 하며 이 난리극을 구경했다.
-P7(2)<Speaker>P7</Speaker><通讯框>||:<color=#00CCFF><size=30>P90, 네가 털어놓는 편이 좋을 거라며...</size></color>
-P7(2);P90(0)<Speaker>P90</Speaker><通讯框>||:<color=#00CCFF><size=30>네가 있는 대로 죄다 털어놔서 그렇잖아...</size></color>
-P7(2)<Speaker>P7</Speaker><通讯框>;P90(0)||:<color=#00CCFF><size=30>솔직하게 말하면 좀 봐줄 거라 생각했지...</size></color>
-P90(0)<Speaker>P90</Speaker><通讯框>||:<color=#00CCFF><size=30>나도 Spitfire가 이렇게 화낼 줄은 몰랐어...</size></color>
-Spitfire(2)<Speaker>Spitfire</Speaker>||<SE1>Select</SE1>:두 사람... 작게 말하면 안 들릴 줄 알아요?
-P90(0)<Speaker>P90</Speaker><通讯框>||:<color=#00CCFF>미안해, 우리가 잘못했어!</color>
-BOSS-5(0)<Speaker>알케미스트</Speaker>||:후후후... 너희의 소동도 다 끝난 것 같으니, 난 이만 가볼―― 윽.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:일어나려던 알케미스트의 어깨를, 웰로드가 붙잡아 눌렀다.
-Welrod(4)<Speaker>웰로드 MkⅡ</Speaker>||:이번 소동에서, 네놈이 결백하단 사실은 알았다.+하지만 네놈의 이름이 알케미스트인 이상, 나중에 다른 바이러스를 퍼뜨릴지도 모를 일이지.+어떨까, Spitfire? 이대로... 생포해서 기지로 끌고 가 연구하는 건.
-Spitfire(2)<Speaker>Spitfire</Speaker>||:찬성이에요.
-Spitfire(2);P90(0)<Speaker>P90</Speaker><通讯框>||:<color=#00CCFF>반대는 안 할게...</color>
-Spitfire(2);P7(2)<Speaker>P7</Speaker<通讯框>>||:<color=#00CCFF>연구? 그거 좋지~</color>
-Spitfire(2)<Speaker>Spitfire</Speaker>||<黑屏1>:하지만, 돌아가서... P7, P90, 두 사람은 따로 할 일이 있어요.
-()<Speaker></Speaker>||<BIN>83</BIN><黑屏2><Night><BGM>BGM_Empty</BGM>:......+핼러윈의 깊은 밤.+그리폰 기지.
-()<Speaker></Speaker>||<BGM>GF_Memorial</BGM>:게시판에 댓글이 줄줄이 달린 글이 나타났다. 언제나 그렇듯, 게시자는 MDR이었다.
-()<Speaker>MDR</Speaker>||<白屏1>:<color=#CA8EFF>"헤헤헤, 모두의 귀염둥이 MDR이 단독 촬영한 이 사진을 보시라! 저녁에 드론으로 어쩌다 보니 찍게 된 사진이야! 잘 봤으면 추천 세게 박으시라고!"</color>+<color=#CA8EFF>"올해도 소란스러웠던 핼러윈, 이들에게는 과연 무슨 일이 있었을까? MDR이 진실을 파헤친다! 댓글로 중계할 거니까 끼어들지 말고——”</color>
-()<Speaker></Speaker>||<BIN>211</BIN><白屏2>:......+그 게시글의 마지막에 첨부된 사진은 인형 5명이 각양각색의 미소를 짓고 있는 모습이었다.+알케미스트마저도 여전히 거만한 미소였고, 이 점이 Spitfire의 신경을 건드린 듯했다. 물론 그런 점이 MDR의 글에 뜨거운 반응을 몰고 왔다.
-()<Speaker>지나가던히어로</Speaker>||:"특별 수사대에 감동했다. 소중한 이들을 잘 지켜냈구나..."
-()<Speaker>콜라체고</Speaker>||:"P7 저 멍청이는 배우질 못하넼ㅋㅋㅋ 장난은 어설픈 시점에서 이미 실패한 거얔ㅋㅋㅋㅋㅋ"
-()<Speaker>인형은인조돼지를먹나</Speaker>||:"어휴 정말, 이런 난리를 일으키고 뭐야! 사부님을 두 번 다시 못 보는 줄 알았잖아..."
-()<Speaker>미스타로카드</Speaker>||:"그런데 잡아 온 건 좋다 쳐도, 알케미스트를 가지고 뭘 할 수 있을까? 점술에 도움이 되려나 모르겠네"
-()<Speaker>겸손한요정왕</Speaker>||<黑屏1>:"아, 연금술! 연금술 좋지! 내 금고를 순도 100% 금괴로 꽉꽉 채워 달라 해야겠다!"
-()||<BIN>9</BIN><黑点2>:...자정.+지휘실의 패닉룸.
-()<Speaker>지휘관</Speaker>||:이봐! 밖에 아무도 없어!? 나 좀 내보내 줘! 벌써 12시 지났잖아! 핼러윈 끝났다고!
-BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||:<color=#00CCFF>이야~, 패닉룸 하나는 정말 잘 만들었네. 목청이 터져라 외쳐대도 아무도 모르다니.</color>
-BOSS-9(0)<Speaker>지휘관</Speaker><通讯框>||:아키텍트... 너 정말 포로 맞아?
-BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||:<color=#00CCFF>누가 아니래? 아~ 오늘은 정말 재밌었어! 아직 아무도 날 다시 가두러 오지 않고 말이야. 이 자유로운 느낌이 정말 좋다~</color>
-BOSS-9(0)<Speaker>지휘관</Speaker><通讯框>||:실망하진 않네?
-BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||:<color=#00CCFF>응? 그건 또 무슨 소리야?</color>
-BOSS-9(0)<Speaker>지휘관</Speaker><通讯框>||:목적을 달성하지 못해서 심술부릴 줄 알았거든.
-BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||:<color=#00CCFF>흥, 난 그렇게 사사건건 까다롭게 굴지 않는다고. 그리고... 가끔은 이렇게 노는 것도 좋잖아?</color>+<color=#00CCFF>그나저나, 너는 아무래도 핼러윈이 완전히 끝난 뒤에나 찾으러 올 거 같네.</color>
-BOSS-9(0)<Speaker>지휘관</Speaker><通讯框>||:하아... 패닉룸에 통신 설비 안 넣게 한 사람 누구야...+저기, 아무나 불러서 나 좀 내보내 달라고 할 수 있어? 이 빚은 카리나에게 말해 줄 테니까!
-BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>히히히, 그럼... 어서 내게 빌어 봐, 그리폰의 지휘관~♪</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>46</BIN><黑屏2><Night><BGM>BGM_Brain</BGM><Night>:...잠시 후, 철혈 거점.
+BOSS-5(0)<Speaker>알케미스트</Speaker>||:헉... 헉... 후훗... 아무래도, 더미 소체라서 제 성능이 안 나오나 보군...
+()<Speaker></Speaker>||:Spitfire는 총구를 무릎을 꿇은 알케미스트의 미간에 대었다.+부상을 입고 머리카락도 헝클어진 알케미스트였지만, 표정은 여전히 당당했다.
+Spitfire(2)<Speaker>Spitfire</Speaker>||<黑屏1>:이제... 끝이에요.
+()||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:......
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐이——!
+P90(0)<Speaker>P90</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>흠흠... 어... 긴급 공지를 전달할게!</color>
+()<Speaker></Speaker>||<BIN>46</BIN><黑屏2><Night>:......
+()<Speaker></Speaker>||:Spitfire가 방아쇠를 당기려던 찰나, 갑작스레 들어온 통신에 모두가 깜짝 놀랐다.+화상 통신에서, P90은 P7의 목덜미를 잡아 들고 있었다.
+P90(0)<Speaker>P90</Speaker><通讯框>||<BGM>m_avg_casual</BGM>:<color=#00CCFF>통신 다 연결됐겠지? 그럼 지금부터 P7이 설명할 테니까 잘 들어 줘.</color>
+P7(2)<Speaker>P7</Speaker><通讯框>||:<color=#00CCFF>우이씨, 내려놓기나 해!</color>+<color=#00CCFF>커흠... 그러니까... 이번 전염병 사태는 말이지... 전부 오해로 인한 일이야...</color>
+()<Speaker></Speaker>||:그 말에, 철혈 거점의 일행은 할 말을 잃었다. Spitfire는 총을 내리고, 어안이 벙벙한 표정으로 웰로드와 서로를 마주 봤다.+그리고 그런 그들을 보며 알케미스트는 폭소를 터뜨렸다.
+P7(2)<Speaker>P7</Speaker><通讯框>||:<color=#00CCFF>오늘 아침에 말이야... 그러니까 해 뜬 지 얼마 안 됐을 때, 내가 키우는 디너게이트를 시켜서 카리나의 화장품을 하나 슬쩍했어. SuperSASS의 몸에 좀비처럼 얼룩을 칠하려고...</color>+<color=#00CCFF>이야, 지금 생각해 봐도 정말 완벽한 계획이었다니까! 며칠 전부터 카리나가 외출할 거란 정보를 입수했고, 외출 전에 화장하는 것도 확인했고!</color>+<color=#00CCFF>그야말로 하늘이 내려준 기회였지. 화장품을 그냥 탁상 위에 내버려 두고 갔으니까. 물론 서랍에 넣고 잠갔더라도 꺼냈을 테지만!</color>+<color=#00CCFF>그리고 내 디너게이트 군단을 보내서 옷 속과 수건에 그걸 잔뜩 묻혔지! 도중에 TAC50한테 들킬 뻔하긴 했지만.</color>+<color=#00CCFF>그런데 SASS 녀석, 평소에 입는 옷을 안 입고 핼러윈 분장을 했지 뭐야! 임무 나가는데 쓸데없이 옷차림에 신경이나 쓰고, 흥! 얼굴은 제대로 닦지도 않는 주제에!</color>
+Spitfire(2)<Speaker>Spitfire</Speaker>||:P7, 요점만 말해!
+P7(2)<Speaker>P7</Speaker><通讯框>||:<color=#00CCFF>아, 알았어...</color>+<color=#00CCFF>아무튼, SuperSASS가 아무것도 모르고 멀쩡하게 임무에 나가길래 무지 실망했어. 게다가 실수로 내 손에 묻은 화장품이 지워지질 않아서 그냥 버렸는데——</color>
+()<Speaker></Speaker>||<SE1>AVG_pistol_finalshot_n</SE1>:타앙! Spitfire가 맨땅에 총을 한 방 쏘았다.+통신기 너머의 P7은 그 소리에 기겁하면서 P90에게 통신기를 넘겼다.
+P90(0)<Speaker>P90</Speaker><通讯框>||:<color=#00CCFF>어... 나머진 내가 설명할게.</color>
+()<Speaker></Speaker>||:P90은 숨을 깊게 들이마신 뒤, 마저 설명했다.
+P90(0)<Speaker>P90</Speaker><通讯框>||:<color=#00CCFF>사실, 내가 그때 P7이 디너게이트에게 지시를 내리는 걸 봤어. SASS한테 장난치는 건 못 봤지만.</color>+<color=#00CCFF>그리고 초소 경계하러 갔는데, 너무 지루한 거 있지? 그래서 가던 중에 P7의 말투를 따라 하면서 그 버려진 화장품을 회수해서, 드론들한테 똑같은 지시를 내렸어...</color>+<color=#00CCFF>그나저나 그 화장품, P7이 아주 엉망으로 만들어놨더라! 구석에 숨어서 겨우겨우 정리한 다음에, 지령을 짜서 드론 여러 대에 염료를 나눠 줬지.</color>+<color=#00CCFF>비행 경로도 엄청 신경 썼다고! 기지 전체를 커버하고 목표를 발견하는 즉시 돌진해서 염료를 뿌리도록! P7은 이 정도까진 못할——</color>
+Spitfire(2)<Speaker>Spitfire</Speaker>||<SE1>AVG_pistol_finalshot_n</SE1>:<b>그, 다, 음, 엔?</b>
+P90(0)<Speaker>P90</Speaker><通讯框>||:<color=#00CCFF>그, 그그그 다음엔 웰로드의 부사수로 함께 초소 경계 임무를 섰지... 그때부터 웰로드의 말투를 따라 하느라... 드론을 까맣게 잊어... 버렸...</color>
+()<Speaker></Speaker>||:P90은 점점 기어들어 가는 목소리로 눈을 이리저리 굴렸다.+철혈 거점에는 웃다 지친 알케미스트의 숨소리와 미약한 전류의 노이즈만이 들릴 뿐이었다.+웰로드와 Spitfire는 어이가 없어 무슨 말을 해야 할지 몰랐다.
+Spitfire(2)<Speaker>Spitfire</Speaker>||:그러니까... 전염병 바이러스 같은 건 애초부터 없었고, 75 언니도 멀쩡했고, 전부... 카리나 씨의 화장품이었단 거예요?
+P90(0)<Speaker>P90</Speaker><通讯框>||:<color=#00CCFF><size=30>으응... 맞아...</size></color>
+()<Speaker></Speaker>||:P90의 목소리는 이제 모기 소리 같았다.
+Spitfire(2)<Speaker>Spitfire</Speaker>||:P7... P90... 두 사람 모두...
+P7(2)<Speaker>P7</Speaker><通讯框>||:<color=#00CCFF>으으... 잘못했어 Spitfire 언니... 히익, 주먹 쥐는 소리가 여기서도 들려...</color>
+()<Speaker></Speaker>||:철혈 거점도 침묵에 빠졌다. 알케미스트도 그저 히죽거리기만 하며 이 난리극을 구경했다.
+P7(2)<Speaker>P7</Speaker><通讯框>||:<color=#00CCFF><size=30>P90, 네가 털어놓는 편이 좋을 거라며...</size></color>
+P7(2);P90(0)<Speaker>P90</Speaker><通讯框>||:<color=#00CCFF><size=30>네가 있는 대로 죄다 털어놔서 그렇잖아...</size></color>
+P7(2)<Speaker>P7</Speaker><通讯框>;P90(0)||:<color=#00CCFF><size=30>솔직하게 말하면 좀 봐줄 거라 생각했지...</size></color>
+P90(0)<Speaker>P90</Speaker><通讯框>||:<color=#00CCFF><size=30>나도 Spitfire가 이렇게 화낼 줄은 몰랐어...</size></color>
+Spitfire(2)<Speaker>Spitfire</Speaker>||<SE1>Select</SE1>:두 사람... 작게 말하면 안 들릴 줄 알아요?
+P90(0)<Speaker>P90</Speaker><通讯框>||:<color=#00CCFF>미안해, 우리가 잘못했어!</color>
+BOSS-5(0)<Speaker>알케미스트</Speaker>||:후후후... 너희의 소동도 다 끝난 것 같으니, 난 이만 가볼―― 윽.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:일어나려던 알케미스트의 어깨를, 웰로드가 붙잡아 눌렀다.
+Welrod(4)<Speaker>웰로드 MkⅡ</Speaker>||:이번 소동에서, 네놈이 결백하단 사실은 알았다.+하지만 네놈의 이름이 알케미스트인 이상, 나중에 다른 바이러스를 퍼뜨릴지도 모를 일이지.+어떨까, Spitfire? 이대로... 생포해서 기지로 끌고 가 연구하는 건.
+Spitfire(2)<Speaker>Spitfire</Speaker>||:찬성이에요.
+Spitfire(2);P90(0)<Speaker>P90</Speaker><通讯框>||:<color=#00CCFF>반대는 안 할게...</color>
+Spitfire(2);P7(2)<Speaker>P7</Speaker<通讯框>>||:<color=#00CCFF>연구? 그거 좋지~</color>
+Spitfire(2)<Speaker>Spitfire</Speaker>||<黑屏1>:하지만, 돌아가서... P7, P90, 두 사람은 따로 할 일이 있어요.
+()<Speaker></Speaker>||<BIN>83</BIN><黑屏2><Night><BGM>BGM_Empty</BGM>:......+핼러윈의 깊은 밤.+그리폰 기지.
+()<Speaker></Speaker>||<BGM>GF_Memorial</BGM>:게시판에 댓글이 줄줄이 달린 글이 나타났다. 언제나 그렇듯, 게시자는 MDR이었다.
+()<Speaker>MDR</Speaker>||<白屏1>:<color=#CA8EFF>"헤헤헤, 모두의 귀염둥이 MDR이 단독 촬영한 이 사진을 보시라! 저녁에 드론으로 어쩌다 보니 찍게 된 사진이야! 잘 봤으면 추천 세게 박으시라고!"</color>+<color=#CA8EFF>"올해도 소란스러웠던 핼러윈, 이들에게는 과연 무슨 일이 있었을까? MDR이 진실을 파헤친다! 댓글로 중계할 거니까 끼어들지 말고——”</color>
+()<Speaker></Speaker>||<BIN>211</BIN><白屏2>:......+그 게시글의 마지막에 첨부된 사진은 인형 5명이 각양각색의 미소를 짓고 있는 모습이었다.+알케미스트마저도 여전히 거만한 미소였고, 이 점이 Spitfire의 신경을 건드린 듯했다. 물론 그런 점이 MDR의 글에 뜨거운 반응을 몰고 왔다.
+()<Speaker>지나가던히어로</Speaker>||:"특별 수사대에 감동했다. 소중한 이들을 잘 지켜냈구나..."
+()<Speaker>콜라체고</Speaker>||:"P7 저 멍청이는 배우질 못하넼ㅋㅋㅋ 장난은 어설픈 시점에서 이미 실패한 거얔ㅋㅋㅋㅋㅋ"
+()<Speaker>인형은인조돼지를먹나</Speaker>||:"어휴 정말, 이런 난리를 일으키고 뭐야! 사부님을 두 번 다시 못 보는 줄 알았잖아..."
+()<Speaker>미스타로카드</Speaker>||:"그런데 잡아 온 건 좋다 쳐도, 알케미스트를 가지고 뭘 할 수 있을까? 점술에 도움이 되려나 모르겠네"
+()<Speaker>겸손한요정왕</Speaker>||<黑屏1>:"아, 연금술! 연금술 좋지! 내 금고를 순도 100% 금괴로 꽉꽉 채워 달라 해야겠다!"
+()||<BIN>9</BIN><黑点2>:...자정.+지휘실의 패닉룸.
+()<Speaker>지휘관</Speaker>||:이봐! 밖에 아무도 없어!? 나 좀 내보내 줘! 벌써 12시 지났잖아! 핼러윈 끝났다고!
+BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||:<color=#00CCFF>이야~, 패닉룸 하나는 정말 잘 만들었네. 목청이 터져라 외쳐대도 아무도 모르다니.</color>
+BOSS-9(0)<Speaker>지휘관</Speaker><通讯框>||:아키텍트... 너 정말 포로 맞아?
+BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||:<color=#00CCFF>누가 아니래? 아~ 오늘은 정말 재밌었어! 아직 아무도 날 다시 가두러 오지 않고 말이야. 이 자유로운 느낌이 정말 좋다~</color>
+BOSS-9(0)<Speaker>지휘관</Speaker><通讯框>||:실망하진 않네?
+BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||:<color=#00CCFF>응? 그건 또 무슨 소리야?</color>
+BOSS-9(0)<Speaker>지휘관</Speaker><通讯框>||:목적을 달성하지 못해서 심술부릴 줄 알았거든.
+BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||:<color=#00CCFF>흥, 난 그렇게 사사건건 까다롭게 굴지 않는다고. 그리고... 가끔은 이렇게 노는 것도 좋잖아?</color>+<color=#00CCFF>그나저나, 너는 아무래도 핼러윈이 완전히 끝난 뒤에나 찾으러 올 거 같네.</color>
+BOSS-9(0)<Speaker>지휘관</Speaker><通讯框>||:하아... 패닉룸에 통신 설비 안 넣게 한 사람 누구야...+저기, 아무나 불러서 나 좀 내보내 달라고 할 수 있어? 이 빚은 카리나에게 말해 줄 테니까!
+BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>히히히, 그럼... 어서 내게 빌어 봐, 그리폰의 지휘관~♪</color>

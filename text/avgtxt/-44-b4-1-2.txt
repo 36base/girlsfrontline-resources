@@ -1,143 +1,143 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
-()<Speaker></Speaker>||<黑屏2><BIN>322</BIN><BGM>BGM_Brain</BGM>:베를린 교외, 버려진 지하 공장 앞.
-NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:......
-NPC-Machlian(7)<Speaker></Speaker><Position>0,-50</Position>||:익숙한 대문이 다시 눈앞에 나타나자, 마흐리안의 안색은 차에서보다 훨씬 창백해졌다.+심장이 고동칠 때마다 가슴이 지끈거렸고, 이 앞에 선 것만으로 숨이 막혔다.
-NPC-Machlian(7)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:......
-NPC-Machlian(7)<Speaker></Speaker><Position>0,-50</Position>||:그런 그녀의 등에, 지휘관이 부드럽게 손을 얹었다.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:...로빈.
-NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||:이런 작은 행동으로도, 마흐리안은 불안감이 사라졌다.+그녀의 호흡도 점점 안정됐다.
-NPC-Machlian(6)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:심장이 엄청 빨리 뛰는걸...+괜찮아?
-NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:심장...이요?
-NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||:그 말에, 마흐리안도 자신의 가슴에 손을 얹어보았다.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:...로빈, 시체는 심장이 뛰나요?
-NPC-Machlian(6)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:엉?
-AR15Mod(5)<Speaker>AR15</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:드디어 정신이 나갔구나?
-AR15Mod(5);NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:저는... 인간이에요.+제 심장은 제대로 뛰고 있어요.+저는 괴물이 아니에요, 심장이 뛰는 인간이에요.
-AR15Mod(5);NPC-Machlian(5)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:......
-NPC-Machlian(5)<Speaker></Speaker><Position>0,-50</Position>||:그 혼잣말에, 마흐리안의 마음에서 용기가 샘솟았다.+그리고 굳게 닫힌 공장의 대문을 바라보다, 지휘관에게 고개를 돌렸다.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:로빈, 들어가요.
-NPC-Machlian(5)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:그래.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:그럼 문을 열겠습니다.
-()<Speaker></Speaker>||:댄들라이의 말이 떨어지자마자, 대문이 우렁찬 소리를 내며 반으로 갈라졌다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:자, 들어가요.+지휘관님은 마흐리안과 함께 대열의 중앙에 서 주세요.+SOP2는 선봉에서 길 청소하고, AR-15는 후방 경계를 맡아 줘.
-AR15Mod(0)<Speaker></Speaker>||:AR-15는 고개를 끄덕이곤 소대의 제일 뒤로 걸어갔다.+그리고 그리폰 소대와 스칠 때, 페로사와 시선을 교환했다.+지휘관과 AR팀이 지하 공장의 문을 통과하는 것을, 바깥의 모두가 가만히 지켜봤다.
-VP1915(0)<Speaker>페로사</Speaker>||:...후우.
-VP1915(0);Kolibri(0)<Speaker>콜리브리</Speaker>||:둘이 뭐 했어?
-VP1915(0)<Speaker>페로사</Speaker>;Kolibri(0)||:뭐가?
-VP1915(0);Kolibri(0)<Speaker>콜리브리</Speaker>||:에이, 시치미 떼지 말고~ +다 봤어, 그 성질머리 나쁜 분홍머리랑 눈빛 교환했지?+언제부터 사귀기 시작했어?
-VP1915(0)<Speaker>페로사</Speaker>;Kolibri(0)||:얘가 무슨 소린가 했더니...+드론으로 사주 경계나 잘해.
-VP1915(0);Kolibri(0)<Speaker>콜리브리</Speaker>||:흥.
-VP1915(0)<Speaker></Speaker>||:콜리브리가 투덜대며 자리를 떠났다.
-VP1915(0)<Speaker>페로사</Speaker>||:......
-VP1915(0)<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:페로사는 제자리에서, AR팀이 지나간 자리를 바라봤다.
-()<Speaker></Speaker>||<BIN>202</BIN><回忆><黑屏2><BGM>BGM_Room</BGM>:조금 전.+차량의 임시 지휘실.
-AR15Mod(0)<Speaker>AR15</Speaker>||:페로사.
-VP1915(0)<Speaker>페로사</Speaker>;AR15Mod(0)||:AR-15?+무슨 일이야?
-VP1915(0);AR15Mod(2)<Speaker>AR15</Speaker>||:마흐리안이 말한 거, 넌 믿어?
-VP1915(0)<Speaker>페로사</Speaker>;AR15Mod(2)||:그러니까... 공장 내부 말이야?+아니면 그녀의 공장 탈출기 말이야?
-VP1915(0);AR15Mod(0)<Speaker>AR15</Speaker>||:공장 내부는 댄들라이가 직접 확인했으니 이견 없어.+하지만 그 녀석이 그렇게 쉽게 도망쳐 나왔다니, 아무리 생각해봐도 이상해.
-VP1915(0)<Speaker>페로사</Speaker>;AR15Mod(0)||:확실히, 너무 쉽게 탈출했어.
-VP1915(0);AR15Mod(0)<Speaker>AR15</Speaker>||:그뿐만이 아니야.+백번 양보해서 마흐리안이 정말 무고하고, 정말 천운으로 탈출에 성공한 거라 치자.+왜 하필 도착한 곳이 본 마을인데?+그 망할 마을이 패러데우스의 전초기지였다는 건 우리 모두가 확인했잖아.+그 녀석은 결국 패러데우스의 손아귀에서 벗어나지 못했어.
-VP1915(0)<Speaker>페로사</Speaker>;AR15Mod(0)||:그리고 너희가 처음 본 마을에서 탈출할 때도, 패러데우스의 반응은 이상할 정도로 빨랐지. 그들이 마흐리안의 행방을 전혀 몰랐다고 보기 어려워.
-VP1915(0);AR15Mod(0)<Speaker>AR15</Speaker>||:역시 너도 수상하지?
-VP1915(0)<Speaker>페로사</Speaker>;AR15Mod(0)||:왜 그걸 지휘관에게 말하지 않았어?
-VP1915(0);AR15Mod(0)<Speaker>AR15</Speaker>||:지금 지휘관에겐 그 치료제가 무엇보다 중요해... 내가 뭐라 해도 작전을 취소하지 않을 거야.+게다가 지휘관이 마흐리안을 보는 시각도 나랑 다르고, 마흐리안의 연기가 가끔 감동적이란 건 나도 인정해.+하지만 그렇다고 의심이 사라질 정도는 아니야.
-VP1915(0)<Speaker>페로사</Speaker>;AR15Mod(0)||:그래서 날 찾아왔구나.+내가 뭘 도우면 되겠어?
-VP1915(0);AR15Mod(0)<Speaker>AR15</Speaker>||:너도 봤다시피, 댄들라이의 지도는 딱히 문제될 게 없어.+하지만 저 공장의 내부는 엄청 복잡하니, 만일을 대비하고 싶어.+상황이 발생하면, 너와 네 소대가 즉시 지원을 올 수 있도록.
-VP1915(0)<Speaker>페로사</Speaker>||:그렇군... 알았어.
-()<Speaker></Speaker>||:페로사가 고개를 끄덕이곤 전술 행낭에서 작은 유리관을 꺼냈다.
-AR15Mod(2)<Speaker>AR15</Speaker>||:그게 뭐야?
-VP1915(0)<Speaker>페로사</Speaker>;AR15Mod(2)||:아주 원시적인 전술도구지. 이 특별한 성분의 가루는 자외선을 비춰야만 볼 수 있어.+네가 진입할 때 길을 따라 이걸 뿌리면, 우린 자외선 램프로 너희의 이동 경로를 파악할 수 있지.+상황이 발생하는 즉시 네가 남긴 흔적을 따라갈게.
-VP1915(0);AR15Mod(0)<Speaker>AR15</Speaker>||:...확실히, 원시적이네.
-VP1915(0)<Speaker>페로사</Speaker>;AR15Mod(0)||:하지만 효과적이지.+자외선 램프도 많이 있으니까 하나 가져가.
-AR15Mod(0)<Speaker>AR15</Speaker>||<黑屏1>:고마워.
-VP1915(0)<Speaker>페로사</Speaker>||<黑屏2><关闭蒙版><BGM>BGM_Empty</BGM><BIN>322</BIN>:......
-()<Speaker></Speaker>||:어쩌면, AR-15의 괜한 걱정일 수도 있다.+그들은 신속히 행동할 테니, 10분도 채 지나지 않아 돌아올 수도 있다.+하지만...
-VP1915(0)<Speaker>페로사</Speaker>||<黑屏1>:역시... 어째 영 불안하단 말이지.
-()<Speaker></Speaker>||<黑屏2><BIN>324</BIN><BGM>BGM_Sneak</BGM>:댄들라이가 스캔한 지형도 덕에, 지휘관 일행은 먼 길을 도는 일이 없었다.+돌입한 지 몇 분 안 지나 목표 지점에 도착했다.+끊어진 전선, 탁상에 쌓인 먼지, 망가진 설비... 모든 것이, 이 "공장"이 오래전 버려졌다는 사실을 증명했다.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:되게 지저분하네...
-RO635Mod(0)<Speaker>RO635</Speaker>||:흔적으로 봐도 확실히 급히 철수한 것으로 보여, 남기고 간 물건도 잔뜩이고.+이 작은 설비는 또 뭐래...
-()<Speaker></Speaker>||:기둥처럼 이상한 물건이, 상당히 규칙적으로 통로 양측에 잔뜩 놓여 있었다.+댄들라이는 그것들을 보며 눈살을 찌푸렸다.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:침투가 안 돼... 가동도 안 되고.+어쩌면, 물리적으로 고장난 걸지도.
-NytoIsomer(7);NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:이 설비는... 본 적 없어요.+제가 여기서 탈출할 땐 없었어요...
-AR15Mod(4)<Speaker>AR15</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:흥.
-RO635Mod(0)<Speaker>RO635</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:지휘관님, 근방에 저희를 제외한 신호는 탐지되지 않습니다.
-RO635Mod(0)<Speaker>지휘관</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:좋아, 그래도 경계 늦추지 말고 수색 개시.
-RO635Mod(0)<Speaker>RO635</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:알겠습니다.
-NPC-Machlian(5)<Speaker></Speaker><Position>0,-50</Position>||:AR팀은 좁은 범위로 산개해, 버려진 잡동사니들 속에서 쓸만한 정보는 없는지 찾았다.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:로빈, 합성실은 저기에요.
-NPC-Machlian(5)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:우리는 설비가 아직 작동하는지 확인하러 갈게. 댄들라이, 가자.
-NytoIsomer(7)<Speaker>댄들라이</Speaker><Position>0,-50</Position>||:예.
-()<Speaker></Speaker>||<黑屏1>:댄들라이와 함께, 지휘관은 앞장서는 마흐리안을 따라 합성실로 들어갔다.
-()<Speaker></Speaker>||<黑屏2><BIN>70</BIN>:합성실도 마찬가지로 잔뜩 어질러졌고, 중앙엔 이상한 기구도 있었다.+잔뜩 쌓인 먼지를 보아, 사용하지 않은 지 꽤 오래된 것 같았다.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:여기가... 혈청을 만드는 곳이에요.
-NPC-Machlian(5)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:그리고 이게 그 설비고?
-NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:네.
-NPC-Machlian(5)<Speaker></Speaker><Position>0,-50</Position>||:마흐리안은 거대한 기구 양측의 수액관을 보며, 한손을 가슴에 얹고 다른 손을 뻗어 바늘을 닦아보았다.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:보니까... 아직 쓸 수 있겠어요.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:전기 공급도 정상이군요.+축하합니다 지휘관님, 40명 도적의 보물 창고를 찾아내셨습니다.
-NytoIsomer(7)<Speaker>지휘관</Speaker>||:마흐리안?
-NPC-Machlian(5)<Speaker></Speaker><Position>0,-50</Position>||:마흐리안은 대답하지 않고 기계에 올라 앉아, 수액관을 자기 앞으로 끌어당겼다.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:조금 물러서세요, 로빈.+기계가 예전처럼 작동한다면, 제 혈액을 뽑고 자동으로 혈청을 만들 거예요.
-NPC-Machlian(5)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:...알았어.
-NPC-Machlian(8)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:줄곧 절 믿어 줘서 정말 고마워요.+반드시 약을 당신의 손에 쥐여드릴게요, 약속해요.
-()<Speaker></Speaker>||:지휘관은 고개를 끄덕이고, 댄들라이와 함께 몇 발짝 뒤로 물러났다.+마흐리안은 이를 악물고 바늘을 자신의 팔에 찔러 넣었다.+그러자 기계가 작동하기 시작했고, 합성실도 불이 환히 켜졌다.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:때마침 통신이 들어왔다.
-VP1915(0)<Speaker>페로사</Speaker><通讯框>||:<color=#00CCFF>정기 연락입니다, 지휘관.</color>
-VP1915(0)<Speaker>지휘관</Speaker>||:이쪽 상황은 양호해.+목표 지점에 도달해서 수색 중이야.+그쪽은 어떻지?
-VP1915(0)<Speaker>페로사</Speaker>||:<color=#00CCFF>이상 없습니다.</color>+<color=#00CCFF>비록 제 쪽에서 보이진 않지만, 404 소대도 순찰 중입니다.</color>+<color=#00CCFF>방금 그들과도 통신했습니다.</color>
-VP1915(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_whitenoise</SE1>:그때, 통신기에서 이상한 소음이 들렸다.
-VP1915(0)<Speaker>지휘관</Speaker>||:그래, 별일 없으면 다음 정기 연락 전에 복귀할 것 같다.
-VP1915(0)<Speaker>페로사</Speaker>||:<color=#00CCFF>지휘...? 지금 ...라고...</color>
-VP1915(0)<Speaker>지휘관</Speaker>||:음? 페로사?
-VP1915(0)<Speaker>페로사</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>지...관!? 들리십......</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신이 끊어졌다.
-()<Speaker>지휘관</Speaker>||:뭐지?
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:지휘관님.
-NytoIsomer(7);NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:크윽!
-NytoIsomer(7);NPC-Machlian(7)<Speaker></Speaker><Position>0,-50</Position>||:마흐리안의 얼굴이 갑작스런 고통으로 일그러졌다.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐이이——
-()<Speaker></Speaker>||<SE1>AVG_bigglassbreak</SE1>:쿠구구궁...
-()<Speaker></Speaker>||<SE2>Alarm</SE2><SE1>AVG_Helicopter</SE1>:불길한 소리를 시작으로, 마흐리안이 앉은 시설의 밑바닥이 가라앉기 시작했다.+밝고 푸른 빛이 그녀의 얼굴을 비추어, 창백했던 얼굴을 더욱 섬뜩하게 보이게 했다.
-()<Speaker>지휘관</Speaker>||<BGM>BGM_Danger</BGM>:댄들라이!
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:제어가 불가능합니다.+...아니, 그뿐이 아닙니다.+어떤 신호도 느껴지지가... 이럴 리가... 제가, 제가 네트워크에서 단절되었습니다!
-NytoIsomer(7)<Speaker>지휘관</Speaker>||:뭐라고!?
-()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:꾸물대던 사이, 마흐리안은 기계와 함께 바닥으로 사라져 버렸다.
-()<Speaker></Speaker>||<闪屏><duration>5</duration></闪屏><BIN>229</BIN>:곧이어 금속판이 구멍난 바닥을 메워, 합성실에는 지휘관과 댄들라이만 남게 되었다.
-()<Speaker>지휘관</Speaker>||:마흐리안!
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:지휘관 지휘관――! 큰일났어!!
-M4 SOPMOD IIMod(3)<Speaker></Speaker>||<SE1>RunStep</SE1>:동시에 SOP2가 헐레벌떡 뛰어왔고, 표정이 심각한 AR-15와 RO635도 뒤따라 들어왔다.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:밖에 저것들!+저 기둥들이 갑자기 빛나기 시작했어!
-RO635Mod(4)<Speaker>RO635</Speaker>||:지휘관님, 외부와의 통신이 전부 끊어졌습니다!+모든 신호가 차단됐어요, 지상의 인원들과 연결되지 않습니다!
-AR15Mod(4)<Speaker>AR15</Speaker>||:내 이럴 줄 알았어!+말씀드렸잖아요, 이건 함정이라고!
-()<Speaker>지휘관</Speaker>||:페로사! 45!
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:치지직...
-()<Speaker>지휘관</Speaker>||:......
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:어떡하지?!
-RO635Mod(4)<Speaker>RO635</Speaker>||:댄들라이, 아무 문제 없다며!
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:......
-NytoIsomer(7)<Speaker></Speaker>||:댄들라이는 넋을 잃은 채, 자신의 두 손을 바라보기만 했다.+RO635의 다그침이 들리지 않는, 자신만의 세계에 빠진 듯했다.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:나... 난...+모르겠어... 이건...+이런 감각은, 처음 느껴 봐...
-AR15Mod(0)<Speaker>AR15</Speaker>||:야, 정신 차려! 너까지 중요한 때에 나사 빠질래!?
-()<Speaker>지휘관</Speaker>||<BGM>BGM_Empty</BGM>:모두 진정해!
-()<Speaker></Speaker>||:지휘관의 호통에 야단법석이던 SOP2도 얌전해졌다.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:......!
-RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님...
-()<Speaker></Speaker>||<BGM>m_avg_hope</BGM>:지휘관은 천장을 올려다봤다.+밖에서 대기 중인 404와 그리폰 소대는 비상 사태 발생 시 즉시 지원하러 올 것이다.+방금 전의 통신으로, 페로사도 이상함을 감지했을 터였다.
-()<Speaker>지휘관</Speaker>||:그리폰과 404가 지원하러 오는 중일 거야.+왔던 길로 되돌아가 그들과 합류한다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:...네, 알겠습니다!
-NytoIsomer(7)<Speaker></Speaker>||:댄들라이가 고개를 들었다.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:그럼 마흐리안은 어떡합니까?+치료제는 어떡하고요?
-NytoIsomer(7);AR15Mod(5)<Speaker>AR15</Speaker>||:약은 무슨 얼어죽을 약! 아직도 그년을 믿어?+안젤리아의 말이 맞았어, 녀석은 사기꾼이야!
-NytoIsomer(7);AR15Mod(5)<Speaker>지휘관</Speaker>||:...현재로선 우리에게 너무 불리하니, 그리폰과 404와 합류가 우선이야.+그리고...
-NytoIsomer(7)<Speaker></Speaker>||:지휘관이 댄들라이를 보았다.
-NytoIsomer(7)<Speaker>지휘관</Speaker>||:그리고 무엇보다, 네 상태를 회복시켜야지. 네가 이래서는 우리에게 승산이 전혀 없어.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:승산이라...
-NytoIsomer(7);AR15Mod(5)<Speaker>AR15</Speaker>||:제길.
-RO635Mod(4)<Speaker>RO635</Speaker>||:벌써 왔구나.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:크앙!!
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:...큰일이군요.
-NytoIsomer(7)<Speaker></Speaker>||<SE1>AVG_Crowd_Run</SE1>:댄들라이가 눈을 찡그렸다. 그녀도 들은 것이다.+확실한 거리를 가늠할 순 없었지만, 어디선가 나타난 수많은 발소리가 일행을 향해 몰려오고 있었다.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:...들립니다.+죄송합니다, 청각을 통한 정보 취득은 익숙지가 않아서.
-()<Speaker>지휘관</Speaker>||:전원, 전투 준비.
-()<Speaker></Speaker>||<黑屏1><SE1>AVG_weapon_reload</SE1>:지휘관도 권총을 꺼내 장전했다.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
+()<Speaker></Speaker>||<黑屏2><BIN>322</BIN><BGM>BGM_Brain</BGM>:베를린 교외, 버려진 지하 공장 앞.
+NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:......
+NPC-Machlian(7)<Speaker></Speaker><Position>0,-50</Position>||:익숙한 대문이 다시 눈앞에 나타나자, 마흐리안의 안색은 차에서보다 훨씬 창백해졌다.+심장이 고동칠 때마다 가슴이 지끈거렸고, 이 앞에 선 것만으로 숨이 막혔다.
+NPC-Machlian(7)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:......
+NPC-Machlian(7)<Speaker></Speaker><Position>0,-50</Position>||:그런 그녀의 등에, 지휘관이 부드럽게 손을 얹었다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:...로빈.
+NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||:이런 작은 행동으로도, 마흐리안은 불안감이 사라졌다.+그녀의 호흡도 점점 안정됐다.
+NPC-Machlian(6)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:심장이 엄청 빨리 뛰는걸...+괜찮아?
+NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:심장...이요?
+NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||:그 말에, 마흐리안도 자신의 가슴에 손을 얹어보았다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:...로빈, 시체는 심장이 뛰나요?
+NPC-Machlian(6)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:엉?
+AR15Mod(5)<Speaker>AR15</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:드디어 정신이 나갔구나?
+AR15Mod(5);NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:저는... 인간이에요.+제 심장은 제대로 뛰고 있어요.+저는 괴물이 아니에요, 심장이 뛰는 인간이에요.
+AR15Mod(5);NPC-Machlian(5)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:......
+NPC-Machlian(5)<Speaker></Speaker><Position>0,-50</Position>||:그 혼잣말에, 마흐리안의 마음에서 용기가 샘솟았다.+그리고 굳게 닫힌 공장의 대문을 바라보다, 지휘관에게 고개를 돌렸다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:로빈, 들어가요.
+NPC-Machlian(5)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:그래.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:그럼 문을 열겠습니다.
+()<Speaker></Speaker>||:댄들라이의 말이 떨어지자마자, 대문이 우렁찬 소리를 내며 반으로 갈라졌다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:자, 들어가요.+지휘관님은 마흐리안과 함께 대열의 중앙에 서 주세요.+SOP2는 선봉에서 길 청소하고, AR-15는 후방 경계를 맡아 줘.
+AR15Mod(0)<Speaker></Speaker>||:AR-15는 고개를 끄덕이곤 소대의 제일 뒤로 걸어갔다.+그리고 그리폰 소대와 스칠 때, 페로사와 시선을 교환했다.+지휘관과 AR팀이 지하 공장의 문을 통과하는 것을, 바깥의 모두가 가만히 지켜봤다.
+VP1915(0)<Speaker>페로사</Speaker>||:...후우.
+VP1915(0);Kolibri(0)<Speaker>콜리브리</Speaker>||:둘이 뭐 했어?
+VP1915(0)<Speaker>페로사</Speaker>;Kolibri(0)||:뭐가?
+VP1915(0);Kolibri(0)<Speaker>콜리브리</Speaker>||:에이, 시치미 떼지 말고~ +다 봤어, 그 성질머리 나쁜 분홍머리랑 눈빛 교환했지?+언제부터 사귀기 시작했어?
+VP1915(0)<Speaker>페로사</Speaker>;Kolibri(0)||:얘가 무슨 소린가 했더니...+드론으로 사주 경계나 잘해.
+VP1915(0);Kolibri(0)<Speaker>콜리브리</Speaker>||:흥.
+VP1915(0)<Speaker></Speaker>||:콜리브리가 투덜대며 자리를 떠났다.
+VP1915(0)<Speaker>페로사</Speaker>||:......
+VP1915(0)<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:페로사는 제자리에서, AR팀이 지나간 자리를 바라봤다.
+()<Speaker></Speaker>||<BIN>202</BIN><回忆><黑屏2><BGM>BGM_Room</BGM>:조금 전.+차량의 임시 지휘실.
+AR15Mod(0)<Speaker>AR15</Speaker>||:페로사.
+VP1915(0)<Speaker>페로사</Speaker>;AR15Mod(0)||:AR-15?+무슨 일이야?
+VP1915(0);AR15Mod(2)<Speaker>AR15</Speaker>||:마흐리안이 말한 거, 넌 믿어?
+VP1915(0)<Speaker>페로사</Speaker>;AR15Mod(2)||:그러니까... 공장 내부 말이야?+아니면 그녀의 공장 탈출기 말이야?
+VP1915(0);AR15Mod(0)<Speaker>AR15</Speaker>||:공장 내부는 댄들라이가 직접 확인했으니 이견 없어.+하지만 그 녀석이 그렇게 쉽게 도망쳐 나왔다니, 아무리 생각해봐도 이상해.
+VP1915(0)<Speaker>페로사</Speaker>;AR15Mod(0)||:확실히, 너무 쉽게 탈출했어.
+VP1915(0);AR15Mod(0)<Speaker>AR15</Speaker>||:그뿐만이 아니야.+백번 양보해서 마흐리안이 정말 무고하고, 정말 천운으로 탈출에 성공한 거라 치자.+왜 하필 도착한 곳이 본 마을인데?+그 망할 마을이 패러데우스의 전초기지였다는 건 우리 모두가 확인했잖아.+그 녀석은 결국 패러데우스의 손아귀에서 벗어나지 못했어.
+VP1915(0)<Speaker>페로사</Speaker>;AR15Mod(0)||:그리고 너희가 처음 본 마을에서 탈출할 때도, 패러데우스의 반응은 이상할 정도로 빨랐지. 그들이 마흐리안의 행방을 전혀 몰랐다고 보기 어려워.
+VP1915(0);AR15Mod(0)<Speaker>AR15</Speaker>||:역시 너도 수상하지?
+VP1915(0)<Speaker>페로사</Speaker>;AR15Mod(0)||:왜 그걸 지휘관에게 말하지 않았어?
+VP1915(0);AR15Mod(0)<Speaker>AR15</Speaker>||:지금 지휘관에겐 그 치료제가 무엇보다 중요해... 내가 뭐라 해도 작전을 취소하지 않을 거야.+게다가 지휘관이 마흐리안을 보는 시각도 나랑 다르고, 마흐리안의 연기가 가끔 감동적이란 건 나도 인정해.+하지만 그렇다고 의심이 사라질 정도는 아니야.
+VP1915(0)<Speaker>페로사</Speaker>;AR15Mod(0)||:그래서 날 찾아왔구나.+내가 뭘 도우면 되겠어?
+VP1915(0);AR15Mod(0)<Speaker>AR15</Speaker>||:너도 봤다시피, 댄들라이의 지도는 딱히 문제될 게 없어.+하지만 저 공장의 내부는 엄청 복잡하니, 만일을 대비하고 싶어.+상황이 발생하면, 너와 네 소대가 즉시 지원을 올 수 있도록.
+VP1915(0)<Speaker>페로사</Speaker>||:그렇군... 알았어.
+()<Speaker></Speaker>||:페로사가 고개를 끄덕이곤 전술 행낭에서 작은 유리관을 꺼냈다.
+AR15Mod(2)<Speaker>AR15</Speaker>||:그게 뭐야?
+VP1915(0)<Speaker>페로사</Speaker>;AR15Mod(2)||:아주 원시적인 전술도구지. 이 특별한 성분의 가루는 자외선을 비춰야만 볼 수 있어.+네가 진입할 때 길을 따라 이걸 뿌리면, 우린 자외선 램프로 너희의 이동 경로를 파악할 수 있지.+상황이 발생하는 즉시 네가 남긴 흔적을 따라갈게.
+VP1915(0);AR15Mod(0)<Speaker>AR15</Speaker>||:...확실히, 원시적이네.
+VP1915(0)<Speaker>페로사</Speaker>;AR15Mod(0)||:하지만 효과적이지.+자외선 램프도 많이 있으니까 하나 가져가.
+AR15Mod(0)<Speaker>AR15</Speaker>||<黑屏1>:고마워.
+VP1915(0)<Speaker>페로사</Speaker>||<黑屏2><关闭蒙版><BGM>BGM_Empty</BGM><BIN>322</BIN>:......
+()<Speaker></Speaker>||:어쩌면, AR-15의 괜한 걱정일 수도 있다.+그들은 신속히 행동할 테니, 10분도 채 지나지 않아 돌아올 수도 있다.+하지만...
+VP1915(0)<Speaker>페로사</Speaker>||<黑屏1>:역시... 어째 영 불안하단 말이지.
+()<Speaker></Speaker>||<黑屏2><BIN>324</BIN><BGM>BGM_Sneak</BGM>:댄들라이가 스캔한 지형도 덕에, 지휘관 일행은 먼 길을 도는 일이 없었다.+돌입한 지 몇 분 안 지나 목표 지점에 도착했다.+끊어진 전선, 탁상에 쌓인 먼지, 망가진 설비... 모든 것이, 이 "공장"이 오래전 버려졌다는 사실을 증명했다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:되게 지저분하네...
+RO635Mod(0)<Speaker>RO635</Speaker>||:흔적으로 봐도 확실히 급히 철수한 것으로 보여, 남기고 간 물건도 잔뜩이고.+이 작은 설비는 또 뭐래...
+()<Speaker></Speaker>||:기둥처럼 이상한 물건이, 상당히 규칙적으로 통로 양측에 잔뜩 놓여 있었다.+댄들라이는 그것들을 보며 눈살을 찌푸렸다.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:침투가 안 돼... 가동도 안 되고.+어쩌면, 물리적으로 고장난 걸지도.
+NytoIsomer(7);NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:이 설비는... 본 적 없어요.+제가 여기서 탈출할 땐 없었어요...
+AR15Mod(4)<Speaker>AR15</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:흥.
+RO635Mod(0)<Speaker>RO635</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:지휘관님, 근방에 저희를 제외한 신호는 탐지되지 않습니다.
+RO635Mod(0)<Speaker>지휘관</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:좋아, 그래도 경계 늦추지 말고 수색 개시.
+RO635Mod(0)<Speaker>RO635</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:알겠습니다.
+NPC-Machlian(5)<Speaker></Speaker><Position>0,-50</Position>||:AR팀은 좁은 범위로 산개해, 버려진 잡동사니들 속에서 쓸만한 정보는 없는지 찾았다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:로빈, 합성실은 저기에요.
+NPC-Machlian(5)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:우리는 설비가 아직 작동하는지 확인하러 갈게. 댄들라이, 가자.
+NytoIsomer(7)<Speaker>댄들라이</Speaker><Position>0,-50</Position>||:예.
+()<Speaker></Speaker>||<黑屏1>:댄들라이와 함께, 지휘관은 앞장서는 마흐리안을 따라 합성실로 들어갔다.
+()<Speaker></Speaker>||<黑屏2><BIN>70</BIN>:합성실도 마찬가지로 잔뜩 어질러졌고, 중앙엔 이상한 기구도 있었다.+잔뜩 쌓인 먼지를 보아, 사용하지 않은 지 꽤 오래된 것 같았다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:여기가... 혈청을 만드는 곳이에요.
+NPC-Machlian(5)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:그리고 이게 그 설비고?
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:네.
+NPC-Machlian(5)<Speaker></Speaker><Position>0,-50</Position>||:마흐리안은 거대한 기구 양측의 수액관을 보며, 한손을 가슴에 얹고 다른 손을 뻗어 바늘을 닦아보았다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:보니까... 아직 쓸 수 있겠어요.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:전기 공급도 정상이군요.+축하합니다 지휘관님, 40명 도적의 보물 창고를 찾아내셨습니다.
+NytoIsomer(7)<Speaker>지휘관</Speaker>||:마흐리안?
+NPC-Machlian(5)<Speaker></Speaker><Position>0,-50</Position>||:마흐리안은 대답하지 않고 기계에 올라 앉아, 수액관을 자기 앞으로 끌어당겼다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:조금 물러서세요, 로빈.+기계가 예전처럼 작동한다면, 제 혈액을 뽑고 자동으로 혈청을 만들 거예요.
+NPC-Machlian(5)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:...알았어.
+NPC-Machlian(8)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:줄곧 절 믿어 줘서 정말 고마워요.+반드시 약을 당신의 손에 쥐여드릴게요, 약속해요.
+()<Speaker></Speaker>||:지휘관은 고개를 끄덕이고, 댄들라이와 함께 몇 발짝 뒤로 물러났다.+마흐리안은 이를 악물고 바늘을 자신의 팔에 찔러 넣었다.+그러자 기계가 작동하기 시작했고, 합성실도 불이 환히 켜졌다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:때마침 통신이 들어왔다.
+VP1915(0)<Speaker>페로사</Speaker><通讯框>||:<color=#00CCFF>정기 연락입니다, 지휘관.</color>
+VP1915(0)<Speaker>지휘관</Speaker>||:이쪽 상황은 양호해.+목표 지점에 도달해서 수색 중이야.+그쪽은 어떻지?
+VP1915(0)<Speaker>페로사</Speaker>||:<color=#00CCFF>이상 없습니다.</color>+<color=#00CCFF>비록 제 쪽에서 보이진 않지만, 404 소대도 순찰 중입니다.</color>+<color=#00CCFF>방금 그들과도 통신했습니다.</color>
+VP1915(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_whitenoise</SE1>:그때, 통신기에서 이상한 소음이 들렸다.
+VP1915(0)<Speaker>지휘관</Speaker>||:그래, 별일 없으면 다음 정기 연락 전에 복귀할 것 같다.
+VP1915(0)<Speaker>페로사</Speaker>||:<color=#00CCFF>지휘...? 지금 ...라고...</color>
+VP1915(0)<Speaker>지휘관</Speaker>||:음? 페로사?
+VP1915(0)<Speaker>페로사</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>지...관!? 들리십......</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신이 끊어졌다.
+()<Speaker>지휘관</Speaker>||:뭐지?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:지휘관님.
+NytoIsomer(7);NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:크윽!
+NytoIsomer(7);NPC-Machlian(7)<Speaker></Speaker><Position>0,-50</Position>||:마흐리안의 얼굴이 갑작스런 고통으로 일그러졌다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐이이——
+()<Speaker></Speaker>||<SE1>AVG_bigglassbreak</SE1>:쿠구구궁...
+()<Speaker></Speaker>||<SE2>Alarm</SE2><SE1>AVG_Helicopter</SE1>:불길한 소리를 시작으로, 마흐리안이 앉은 시설의 밑바닥이 가라앉기 시작했다.+밝고 푸른 빛이 그녀의 얼굴을 비추어, 창백했던 얼굴을 더욱 섬뜩하게 보이게 했다.
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Danger</BGM>:댄들라이!
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:제어가 불가능합니다.+...아니, 그뿐이 아닙니다.+어떤 신호도 느껴지지가... 이럴 리가... 제가, 제가 네트워크에서 단절되었습니다!
+NytoIsomer(7)<Speaker>지휘관</Speaker>||:뭐라고!?
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:꾸물대던 사이, 마흐리안은 기계와 함께 바닥으로 사라져 버렸다.
+()<Speaker></Speaker>||<闪屏><duration>5</duration></闪屏><BIN>229</BIN>:곧이어 금속판이 구멍난 바닥을 메워, 합성실에는 지휘관과 댄들라이만 남게 되었다.
+()<Speaker>지휘관</Speaker>||:마흐리안!
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:지휘관 지휘관――! 큰일났어!!
+M4 SOPMOD IIMod(3)<Speaker></Speaker>||<SE1>RunStep</SE1>:동시에 SOP2가 헐레벌떡 뛰어왔고, 표정이 심각한 AR-15와 RO635도 뒤따라 들어왔다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:밖에 저것들!+저 기둥들이 갑자기 빛나기 시작했어!
+RO635Mod(4)<Speaker>RO635</Speaker>||:지휘관님, 외부와의 통신이 전부 끊어졌습니다!+모든 신호가 차단됐어요, 지상의 인원들과 연결되지 않습니다!
+AR15Mod(4)<Speaker>AR15</Speaker>||:내 이럴 줄 알았어!+말씀드렸잖아요, 이건 함정이라고!
+()<Speaker>지휘관</Speaker>||:페로사! 45!
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:치지직...
+()<Speaker>지휘관</Speaker>||:......
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:어떡하지?!
+RO635Mod(4)<Speaker>RO635</Speaker>||:댄들라이, 아무 문제 없다며!
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:......
+NytoIsomer(7)<Speaker></Speaker>||:댄들라이는 넋을 잃은 채, 자신의 두 손을 바라보기만 했다.+RO635의 다그침이 들리지 않는, 자신만의 세계에 빠진 듯했다.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:나... 난...+모르겠어... 이건...+이런 감각은, 처음 느껴 봐...
+AR15Mod(0)<Speaker>AR15</Speaker>||:야, 정신 차려! 너까지 중요한 때에 나사 빠질래!?
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Empty</BGM>:모두 진정해!
+()<Speaker></Speaker>||:지휘관의 호통에 야단법석이던 SOP2도 얌전해졌다.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:......!
+RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님...
+()<Speaker></Speaker>||<BGM>m_avg_hope</BGM>:지휘관은 천장을 올려다봤다.+밖에서 대기 중인 404와 그리폰 소대는 비상 사태 발생 시 즉시 지원하러 올 것이다.+방금 전의 통신으로, 페로사도 이상함을 감지했을 터였다.
+()<Speaker>지휘관</Speaker>||:그리폰과 404가 지원하러 오는 중일 거야.+왔던 길로 되돌아가 그들과 합류한다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:...네, 알겠습니다!
+NytoIsomer(7)<Speaker></Speaker>||:댄들라이가 고개를 들었다.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:그럼 마흐리안은 어떡합니까?+치료제는 어떡하고요?
+NytoIsomer(7);AR15Mod(5)<Speaker>AR15</Speaker>||:약은 무슨 얼어죽을 약! 아직도 그년을 믿어?+안젤리아의 말이 맞았어, 녀석은 사기꾼이야!
+NytoIsomer(7);AR15Mod(5)<Speaker>지휘관</Speaker>||:...현재로선 우리에게 너무 불리하니, 그리폰과 404와 합류가 우선이야.+그리고...
+NytoIsomer(7)<Speaker></Speaker>||:지휘관이 댄들라이를 보았다.
+NytoIsomer(7)<Speaker>지휘관</Speaker>||:그리고 무엇보다, 네 상태를 회복시켜야지. 네가 이래서는 우리에게 승산이 전혀 없어.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:승산이라...
+NytoIsomer(7);AR15Mod(5)<Speaker>AR15</Speaker>||:제길.
+RO635Mod(4)<Speaker>RO635</Speaker>||:벌써 왔구나.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:크앙!!
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:...큰일이군요.
+NytoIsomer(7)<Speaker></Speaker>||<SE1>AVG_Crowd_Run</SE1>:댄들라이가 눈을 찡그렸다. 그녀도 들은 것이다.+확실한 거리를 가늠할 순 없었지만, 어디선가 나타난 수많은 발소리가 일행을 향해 몰려오고 있었다.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:...들립니다.+죄송합니다, 청각을 통한 정보 취득은 익숙지가 않아서.
+()<Speaker>지휘관</Speaker>||:전원, 전투 준비.
+()<Speaker></Speaker>||<黑屏1><SE1>AVG_weapon_reload</SE1>:지휘관도 권총을 꺼내 장전했다.

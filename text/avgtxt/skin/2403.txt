@@ -1,106 +1,106 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>82</BIN><Night><黑屏2><BGM>GF_Memorial</BGM>:늦은 밤 그리폰 기지.+인형 숙소.
-()<Speaker></Speaker>||:AA12는 탁상에 엎드려 라디오를 쳐다보며 궁시렁거리고 있었다.
-AA12(0)<Speaker>AA-12</Speaker>||<Night><黑点1>:역시 물어보는 게 나으려나... 딱히 가고 싶은 건 아니지만, 가기 싫다고 할 수도 없고.+그래도, 내가 가서 대답할 때쯤이면 이미 자고 있겠지.
-()<Speaker></Speaker>||<Night><黑点2>:3시간 전.
-()<Speaker></Speaker>||<Night>:똑 똑.
-()<Speaker></Speaker>||<Night>:문을 두드리자, AA12가 문을 열고 고개를 내밀었다.+눈이 마주치자 AA12는... 몇 초정도 굳은 것 같았다.
-()<Speaker>지휘관</Speaker>||<Night>:늦은 시간에 미안하지만.+그러니까, AA12, 이번에 단체 휴가 여행 명단에 네 이름이 있거든.
-AA12(0)<Speaker>AA-12</Speaker>||<Night>:... 어.
-AA12(0)<Speaker>지휘관</Speaker>||<Night>:그래서 물어보는 건데, 올 거니?
-AA12(0)<Speaker>AA-12</Speaker>||<Night>:... 해변 휴가 말이야?
-AA12(0)<Speaker>지휘관</Speaker>||<Night>:그래.+너도 그리폰에 온 지 얼마 안 됐으니까 모두하고 같이 나가서 놀면 서로 대화를 나누는 기회가 되지 않을까?+앞으로 임무에 나갈 때도 서로 호흡이 맞을 테니... 말이야?
-AA12(0)<Speaker>AA-12</Speaker>||<Night>:.....+저기, 좀 나중에 대답할게.
-AA12(0)<Speaker>지휘관</Speaker>||<Night>:나중에? 알았어.+그럼, 기다릴게.
-()<Speaker></Speaker>||<Night><闪屏><duration>5</duration></闪屏><黑点1>:말이 끝나기 무섭게 문이 닫혔다.+쫓겨난 것은 아니지만... 아무래도 이 신입은 별로 나와 얘기를 하고 싶지 않은 것 같다.+과연 모두와 바닷가에 놀러 간다고 할 지 모르겠군...
-()<Speaker></Speaker>||<Night><黑点2>:잠시후
-()<Speaker></Speaker>||<Night>:AA12는 여전히 탁상에 엎드려 라디오를 쳐다보고 있었다.
-AA12(0)<Speaker>AA-12</Speaker>||<Night>:아, 곧 시작한다.
-()<Speaker></Speaker>||<Night>:인형 숙소는 마치 시간이 멈춘 듯 하였다.+AA12는 그 자세로 꿈쩍 안 하다가, 몇 분 후...+음악 소리가 울렸다.
-NPC-Kalin(0)<Speaker>DJ 카리나</Speaker><通讯框>||<Night>:<color=#00CCFF>말로 서로의 마음 전하고, 주파수로 서로를 더욱 가까이☆</color>+<color=#00CCFF>여러분 모두 안녕! 좋은 밤이야, 오늘도 새벽 한 시 "카리나의 무엇이든 물어보세요" 시간이야!</color>+<color=#00CCFF>오늘도 모두를 사랑하는 카리나가 모두의 생활 속 고민을 풀어줄 거야♪</color>
-AA12(0)<Speaker>AA-12</Speaker>||<Night>:아 맞다, 문자 작성해야지...+이렇게 이렇게, 이러면 되겠지?+좋아, 발송!
-NPC-Kalin(0)<Speaker>DJ 카리나</Speaker><通讯框>||<Night>:<color=#00CCFF>그럼 먼저 우리 한 친구의 문자를 읽어보자, 과연 오늘의 행운아는 누구일까?</color>+<color=#00CCFF>자, 나왔다. 오늘의 첫 번째 사연은 【사육사 씨가 나를 1등으로 보지 않는 것 같아, 어떡해?】</color>+<color=#00CCFF>음... 이 문제는...</color>
-AA12(0)<Speaker>AA-12</Speaker>||<Night>:에이, 왜 내 게 아니야.+좀 피곤한데, 빨리 내꺼 내꺼내꺼내꺼내꺼...
-NPC-Kalin(3)<Speaker>DJ 카리나</Speaker><通讯框>||<Night>:<color=#00CCFF>... 그러니까, 이런 일은 스스로 해결할 줄 알아야 해.</color>
-NPC-Kalin(7)<Speaker>DJ 카리나</Speaker>||<Night>:<color=#00CCFF>너희 불쌍한 카리나를 보렴, 매일 보고서 쓰지 정보 분석도 해야지, 어디서 보고거리랑 정보를 이렇게 많이 가져오는지 모르겠지만.</color>+<color=#00CCFF>이렇게 고생해도 지휘관님의 1위가 아니잖아.</color>
-NPC-Kalin(0)<Speaker>DJ 카리나</Speaker>||<Night>:<color=#00CCFF>그럼 다음 사연을 한번 볼까...</color>+<color=#00CCFF>【입사한 지 얼마 안 됐는데, 상사가 저보고 다른 직장동료들과 같이 해변으로 휴가를 가자고 초대했어요, 좋은 의도인 건 알지만, 가야 할까요?】</color>
-AA12(0)<Speaker>AA-12</Speaker>||<Night>:DJ 카리나 씨, 도와주세요!
-NPC-Kalin(0)<Speaker>DJ 카리나</Speaker><通讯框>||<Night>:<color=#00CCFF>이 청취자 친구, 지금 듣고 있는지는 모르겠지만, 확실하게 말할게...</color>
-NPC-Kalin(1)<Speaker>DJ 카리나</Speaker>||<Night>:<color=#00CCFF>당연히 가야지!! 해변 휴가라고!</color>+<color=#00CCFF>그리고 입사한 지 얼마 안 됐다고 했잖아, 그럼 네 상사는 좋은 분인 거야, 적어도 직원을 보살필 줄 알고, 신입 직원도 즐거운 대인관계를 맺길 바라는 분이라고.</color>
-NPC-Kalin(6)<Speaker>DJ 카리나</Speaker>||<Night>:<color=#00CCFF>카리나도 정말 부러워! 나도 바닷가로 휴가 나가고 싶단 말이야!</color>
-AA12(0)<Speaker>AA-12</Speaker>||<Night>:아, DJ 카리나 씨가 가라고 했네...+그럼 지금 지휘관에게 말하러 가자...
-AA12(0)<Speaker></Speaker>||<Night>:AA12는 일어나 방에서 나가려 하지만 또 망설이는 표정으로 걸음을 멈췄다.
-AA12(0)<Speaker>AA-12</Speaker>||<Night>:아무래도 이미 자고 있겠지.+게다가 내가 왜 꼭 이딴 일에 신경 쓰는 것처럼...
-NPC-Kalin(0)<Speaker>DJ 카리나</Speaker><通讯框>||<Night>:<color=#00CCFF>그럼 이 청취자분은 무슨 사연이 있나 보자.</color>+<color=#00CCFF>【새로 온 직원이 저를 피하는 것 같습니다, 어떻게 하면 좋을까요? 다른 직원들과 함께 바다로 놀러 가자고 초대했지만, 흥미가 별로 없어 보이네요】...</color>
-NPC-Kalin(7)<Speaker>DJ 카리나</Speaker>||<Night>:<color=#00CCFF>그래, 여름이니까, 모두 바닷가 이야기를 하네.</color>
-()<Speaker></Speaker>||<Night>:AA12는 라디오를 뒤돌아봤다.
-AA12(0)<Speaker>AA-12</Speaker>||<Night>:어라, 이 사연은 설마...
-NPC-Kalin(3)<Speaker>DJ 카리나</Speaker><通讯框>||<Night><黑屏1>:<color=#00CCFF>... 그런 건 잘 확인하시고 말해야 돼요?</color>+<color=#00CCFF>새로 온 직원이면 부끄럽거나 낯을 가리거나 하는 이유일 수도 있으니까요.</color>
-()<Speaker></Speaker>||<Night><黑屏2>:...+라디오에서 DJ가 또 다른 청취자의 사연을 하나하나씩 읽었다. AA12는 서둘러 앉아 문자를 작성해 발송했다, 그러곤 다시 망설이면서도 기대하는 표정으로 라디오를 쳐다보았다.
-NPC-Kalin(0)<Speaker>DJ 카리나</Speaker><通讯框>||<Night>:<color=#00CCFF>...그럼 다음 사연을 들어볼까?</color>
-NPC-Kalin(1)<Speaker>DJ 카리나</Speaker>||<Night><黑屏1>:<color=#00CCFF>오호오...【제 상사께서 제가 피하는 건 줄 오해하신 것 같아요. 저는 그저 다른 사람과 이야기를 잘 못 나눌 뿐이니까, 오해를 풀고 싶어요, 그리고 같이 해변에 가기로 결정했어요.】...</color>+<color=#00CCFF>이 청취자의 사연은 아까 전의 문자와 관계가 있는 것 같네, 요즘 직장관계에 오해가 이렇게나 많은 걸까...</color>
-NPC-Kalin(1)<Speaker>DJ 카리나</Speaker><通讯框>||<Night><黑屏2><黑屏1>:<color=#00CCFF>이 문자 내용도 재미있네.</color>+<color=#00CCFF>【신입 사원이 해변 휴가에 같이 가기로 약속해줬네요! 부디 이번 휴가에서 새 친구를 사귀었으면 좋겠네요. 그리고 절 피하는 것이 아니라 정말 다행이네요.】...</color>+<color=#00CCFF>호호호호, 오해가 풀린 것을 봐서 정말 기쁜 일이네요, 저도 바닷가에 휴가 나가고 싶은데...</color>
-()<Speaker></Speaker>||<Night><黑屏2>:30분 후.
-NPC-Kalin(1)<Speaker>DJ 카리나</Speaker><通讯框>||<Night><黑屏1>:<color=#00CCFF>이상으로 오늘의 고민 상담 끝~</color>+<color=#00CCFF>비록 아까 바닷가에 간다는 두 청취자분이 누군지는 전-혀 모르겠지만.</color>+<color=#00CCFF>이런 라디오 프로그램에서 "잘 부탁드려요!""아뇨, 저야말로." 같은 문자를 주고받는 것보다는 직접 만나서 얘기를 나누는 게 좋을 거예요♪</color>
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:...+다음 날 아침.
-()<Speaker></Speaker>||<BIN>162</BIN><黑屏2><BGM>BGM_Hello</BGM>:AA12가 정신을 차렸을 때, 자신은 이미 수영복을 입고 시끌벅적 떠드는 인형들과 햇볕이 쨍쨍한 바닷가에 있었다.
-AA12(2)<Speaker>AA-12</Speaker>||:어째서... 이렇게 된 거지...+으윽, 눈부셔, 게다가 너무 오래 긴장해 있었더니 메스꺼워...+우읍, 왜 이런 수영복까지 입은 걸까...
-()<Speaker></Speaker>||:AA12는 두세 명씩 모여 흩어지는 동료들을 바라보며 한숨을 쉬었다.+그러곤 백사장과는 반대 방향으로 걸어가 파라솔을 펼쳐  태양을 피하려 했다.
-AA12(2)<Speaker>AA-12</Speaker>||:파라솔을 챙겨와서 다행이야... 여기에 이렇게 대충 하면...+...응?
-()<Speaker></Speaker>||:누군가의 시선이 자신에게 향하고 있는 것을 느꼈다.+한 손으론 파라솔의 우산대를 잡고, 다른 한 손은 몰래 총몸에 얹고...+빠르게 뒤돌아보자 멀지 않은 야자수 밑에서 키가 작은 인형이 고개를 반쯤 내밀고 자신을 물끄러미 보고 있었다.
-AA12(2)<Speaker>AA-12</Speaker>||:...
-Ameli(4)<Speaker>아멜리</Speaker><Shake>||:히익! ...
-()<Speaker></Speaker>||:한 동안 눈싸움을 하던 AA12는 다시 포기하고 총에서 손을 떼 다시 파라솔을 세우기 시작했다.
-AA12(2)<Speaker>AA-12</Speaker>||:<color=#A9A9A9>(이런, 이럴 땐 인사라도 하는 게 아닐까...)</color>
-()<Speaker></Speaker>||:아멜리는 AA12가 자신을 쫓아낼 의도가 없어보이자, AA12 곁으로 다가갔다.
-Ameli(4)<Speaker>아멜리</Speaker>||:저, 저기, 안녕!
-()<Speaker></Speaker>||:AA12는 화들짝 놀라고, 삐걱대면서 고개를 아멜리쪽으로 돌렸다.
-Ameli(4)<Speaker>아멜리</Speaker>||:저기, 난 아멜리라고 해...+네가 새로 온 동료구나! 기지에 있을 땐 말을 걸 기회가 없어서...
-Ameli(4);AA12(2)<Speaker>AA-12</Speaker>||:... 안녕, 난 AA12야.
-Ameli(4)<Speaker>아멜리</Speaker>;AA12(2)||:AA12는 여기 혼자 있는 거야?+지금 저쪽에서 함께 비치발리볼을 할 생각인데, 같이 가지 않을래?
-Ameli(4);AA12(2)||:
-()||:아멜리가 AA12에게 말을 걸 때, 두 눈에서 마치 빛이 반짝이는 것 같았다.+AA12는 그걸 보고 또 움찔했다.
-Ameli(4);AA12(2)<Speaker>AA-12</Speaker>||:<color=#A9A9A9>(심야 라디오에서 사회 에티켓을 어떻게 가르쳐줬지? 빨리 떠올려봐!)</color>+아, 아니 난 됐어...+너무 사람이 많은 곳은 안 좋아해서.
-Ameli(4)<Speaker>아멜리</Speaker>;AA12(2)||:그렇구나...
-Ameli(4);AA12(2)<Speaker>AA-12</Speaker>||:<color=#A9A9A9>(어떡하지? 내가 잘못 말했나? 왜 고개를 숙이는 거야!)</color>
-Ameli(4)<Speaker>아멜리</Speaker>;AA12(2)||:알겠다! AA12는 여기서 태양을 피하고 싶은 거구나?+그러고 보니, 바닷가는 자료에 있던 것처럼 눈부시고 더워, 나도 바다에 온 건 처음이라서 깜짝 놀랐어...
-Ameli(4);AA12(2)<Speaker>AA-12</Speaker>||:그, 그래.
-Ameli(4)<Speaker>아멜리</Speaker>;AA12(2)||:저기... 파라솔 펴는 거 도와줘도 될까?+AA12 파라솔을 많이 가져왔네...
-Ameli(4);AA12(2)<Speaker>AA-12</Speaker>||:어, 좋아.
-Ameli(4)<Speaker>아멜리</Speaker>||:정말이야? 다행이다!
-()<Speaker></Speaker>||:아멜리가 바로 기뻐하는 모습을 보자, AA12는 잠깐 어쩔 줄 몰라 하다 그냥 아멜리가 하자는 대로 했다.+아멜리의 도움으로 파라솔 작업은 순조롭게 흘러갔다.+얼마 후, AA12에게 커다란 파라솔을 세방향으로 설치한 햇볕을 완전히 차단하는 의자가 생겼다.+AA12는 사교성의 중요성을 또다시 한번 깨달았다.
-AA12(2)<Speaker>AA-12</Speaker>||:... 응, 고마워.
-Ameli(4)<Speaker>아멜리</Speaker>;AA12(2)||:그, 그렇게 감사할 필요는 없어! 같은 기지의 동료니까 이 정도쯤은 당연히 도와줘야지!
-Ameli(4);AA12(2)<Speaker>AA-12</Speaker>||:(답변 양식을 검색 검색...)+같은 기지의... 아, 마, 맞아, 동료니까.+그래도 고마워, 내 동료 아멜리.
-Ameli(4)<Speaker>아멜리</Speaker>;AA12(2)||:동료... 친구...
-Ameli(4);AA12(2)||:
-()||:AA12가 어떻게 이 대화를 예절 있게 끝낼지 머리를 굴리는 동안, 아멜리가 갑자기 항상 휴대하는 주머니 속에서 무언가를 꺼내 기대로 가득 찬 얼굴로 AA12에게 내밀었다.
-Ameli(4);AA12(2)<Speaker>AA-12</Speaker>||:... 어?! 이건 뭐야?
-Ameli(4)<Speaker>아멜리</Speaker>;AA12(2)||:단추야! 바, 받아줘!
-Ameli(4);AA12(2)<Speaker>AA-12</Speaker>||:... 어어? 음, 응...
-Ameli(4)<Speaker>아멜리</Speaker>;AA12(2)||:그럼 AA12, 난 먼저 지휘관님 쪽으로 갈게!+안녕!
-AA12(2)<Speaker>AA-12</Speaker>||:... 안녕.
-()<Speaker></Speaker>||:AA12는 아멜리가 깡총깡총 뛰면서 멀어지는 모습을 지켜보다 그대로 꽈당하고 넘어지는 꼴을 보고, 고개를 숙여 손안의 단추를 바라보았다.
-AA12(2)<Speaker>AA-12</Speaker>||:뭐가 어떻게 된 거지? 이 단추는 또 뭐지? 방금 다른 인형과 성공적으로 대화를 나눈 건가...+아, 귀찮아. 그냥 밤까지 여기 있자, 덥고, 눈부시고, 대화하는 것도 힘들어.+으윽, 방금 그렇게 점잖은 척 하는 것 역시 메스꺼운데...
-()<Speaker></Speaker>||<黑屏1>:머릿속이 의문으로 가득 찬 AA12는 고민해봤자 쓸모없는 문제를 접어두고, 의자에 푹 퍼졌다.+이제야 햇볕을 피해 조용히 있을 거라고 생각할 때, 저 멀리 튜브를 들고 있는 주황빛의 모습이 자신을 향해 걸어오는 모습을 보았다...
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:...+그날 밤.
-()<Speaker></Speaker>||<BIN>162</BIN><Night><黑屏2><BGM>BGM_Moon</BGM>:AA12가 다시 정신을 차릴 때는 이미 그 주황색 인형과 한탕 다투고 난 뒤였다. 당분을 보충한 뒤 캠프파이어 장소에 나타났다.
-AA12(2)<Speaker>AA-12</Speaker>||<Night>:뭐지... 왜 갑자기 이렇게 된 거지...+여긴 어디고 나는 누구지? 난 또 뭐 하고 있는 거지...
-()<Speaker></Speaker>||<Night>:AA12가 멍하니 있을 때, 지휘관이 다가왔다.
-지휘관()<Speaker>지휘관</Speaker>||<Night>:안녕, AA12.
-AA12(2)<Speaker>AA-12</Speaker>||<Night>:... 지휘관이구나.
-AA12(2)<Speaker>지휘관</Speaker>||<Night>:어때, 바다 멋지지 않니?
-AA12(2)<Speaker>AA-12</Speaker>||<Night>:... 점점 인사가 촌스러워지네, 지휘관.+그리고, 바닷가에서 바다를 보는 건, 그리폰 기지 높은 곳에서 바깥 폐허를 보는 것 같은 느낌이었어.
-AA12(2)<Speaker>지휘관</Speaker>||<Night>:그렇게 썰렁한 느낌이었니.
-AA12(2)<Speaker>AA-12</Speaker>||<Night>:... 응.
-AA12(2)<Speaker>지휘관</Speaker>||<Night>:우리가 있으니까 이 바다가, 혹은 그리폰 기지가 그렇게 썰렁하지 않다고 대답할 줄 알았는데.
-AA12(2)<Speaker>AA-12</Speaker>||<Night>:......
-AA12(2)<Speaker>지휘관</Speaker>||<Night>:나는 너희가 있어서 매일 보람차고 즐겁단다!
-AA12(2)<Speaker>AA-12</Speaker>||<Night>:... 지휘관의 생각은 물은 적 없어.
-AA12(2)<Speaker>지휘관</Speaker>||<Night>:그럼 그냥 내 혼잣말이니까 듣든 말든 상관없어.+비록 우리는 저마다 다른 하나의 개체지만, 모두가 함께 모여 있는 것과 혼자 있는 것은 분명 다르잖아?+아무튼, 그리폰에 온 것을 환영한다, 너도 여기서 많은 좋은 것들을 얻기를 바라지.
-AA12(2)<Speaker>AA-12</Speaker>||<Night>:좋은 것들... 그 폐허뿐인 구역에 그런 게 있을까?
-AA12(2)<Speaker>지휘관</Speaker>||<Night>:꼭 실체가 있는 것은 아니야. 사람들이 만들어 낸 개념이지만, 이 썰렁한 세상을 덮을 정도로 아름답지.
-()<Speaker></Speaker>||<Night>:AA12는 잠깐 멍해졌다, 그리고 손안에 쥐고 있는 단추와, 입속에 남아 있는 막대사탕의 신맛을 떠올렸다.
-지휘관()<Speaker>지휘관</Speaker>||<Night>:나중에 또 기회가 있으면, 다시 모두와 함께 바닷가에 오겠니?
-AA12(2)<Speaker>AA-12</Speaker>||<黑屏1>:......+그건, 기지에 돌아간 뒤에 대답할게.
-AA12(2)<Speaker>AA-12</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>: <color=#A9A9A9>(단추고 친구고 좋은 것이고 뭐고... 귀찮아, 그러면서도...)</color>+ <color=#A9A9A9>(돌아가면 DJ 카리나 씨에게 확실하게 물어봐야겠어!)</color>+<color=#A9A9A9>(음, 가장 먼저 보낼 수 있도록 미리 문자를 준비해두자!)</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>82</BIN><Night><黑屏2><BGM>GF_Memorial</BGM>:늦은 밤 그리폰 기지.+인형 숙소.
+()<Speaker></Speaker>||:AA12는 탁상에 엎드려 라디오를 쳐다보며 궁시렁거리고 있었다.
+AA12(0)<Speaker>AA-12</Speaker>||<Night><黑点1>:역시 물어보는 게 나으려나... 딱히 가고 싶은 건 아니지만, 가기 싫다고 할 수도 없고.+그래도, 내가 가서 대답할 때쯤이면 이미 자고 있겠지.
+()<Speaker></Speaker>||<Night><黑点2>:3시간 전.
+()<Speaker></Speaker>||<Night>:똑 똑.
+()<Speaker></Speaker>||<Night>:문을 두드리자, AA12가 문을 열고 고개를 내밀었다.+눈이 마주치자 AA12는... 몇 초정도 굳은 것 같았다.
+()<Speaker>지휘관</Speaker>||<Night>:늦은 시간에 미안하지만.+그러니까, AA12, 이번에 단체 휴가 여행 명단에 네 이름이 있거든.
+AA12(0)<Speaker>AA-12</Speaker>||<Night>:... 어.
+AA12(0)<Speaker>지휘관</Speaker>||<Night>:그래서 물어보는 건데, 올 거니?
+AA12(0)<Speaker>AA-12</Speaker>||<Night>:... 해변 휴가 말이야?
+AA12(0)<Speaker>지휘관</Speaker>||<Night>:그래.+너도 그리폰에 온 지 얼마 안 됐으니까 모두하고 같이 나가서 놀면 서로 대화를 나누는 기회가 되지 않을까?+앞으로 임무에 나갈 때도 서로 호흡이 맞을 테니... 말이야?
+AA12(0)<Speaker>AA-12</Speaker>||<Night>:.....+저기, 좀 나중에 대답할게.
+AA12(0)<Speaker>지휘관</Speaker>||<Night>:나중에? 알았어.+그럼, 기다릴게.
+()<Speaker></Speaker>||<Night><闪屏><duration>5</duration></闪屏><黑点1>:말이 끝나기 무섭게 문이 닫혔다.+쫓겨난 것은 아니지만... 아무래도 이 신입은 별로 나와 얘기를 하고 싶지 않은 것 같다.+과연 모두와 바닷가에 놀러 간다고 할 지 모르겠군...
+()<Speaker></Speaker>||<Night><黑点2>:잠시후
+()<Speaker></Speaker>||<Night>:AA12는 여전히 탁상에 엎드려 라디오를 쳐다보고 있었다.
+AA12(0)<Speaker>AA-12</Speaker>||<Night>:아, 곧 시작한다.
+()<Speaker></Speaker>||<Night>:인형 숙소는 마치 시간이 멈춘 듯 하였다.+AA12는 그 자세로 꿈쩍 안 하다가, 몇 분 후...+음악 소리가 울렸다.
+NPC-Kalin(0)<Speaker>DJ 카리나</Speaker><通讯框>||<Night>:<color=#00CCFF>말로 서로의 마음 전하고, 주파수로 서로를 더욱 가까이☆</color>+<color=#00CCFF>여러분 모두 안녕! 좋은 밤이야, 오늘도 새벽 한 시 "카리나의 무엇이든 물어보세요" 시간이야!</color>+<color=#00CCFF>오늘도 모두를 사랑하는 카리나가 모두의 생활 속 고민을 풀어줄 거야♪</color>
+AA12(0)<Speaker>AA-12</Speaker>||<Night>:아 맞다, 문자 작성해야지...+이렇게 이렇게, 이러면 되겠지?+좋아, 발송!
+NPC-Kalin(0)<Speaker>DJ 카리나</Speaker><通讯框>||<Night>:<color=#00CCFF>그럼 먼저 우리 한 친구의 문자를 읽어보자, 과연 오늘의 행운아는 누구일까?</color>+<color=#00CCFF>자, 나왔다. 오늘의 첫 번째 사연은 【사육사 씨가 나를 1등으로 보지 않는 것 같아, 어떡해?】</color>+<color=#00CCFF>음... 이 문제는...</color>
+AA12(0)<Speaker>AA-12</Speaker>||<Night>:에이, 왜 내 게 아니야.+좀 피곤한데, 빨리 내꺼 내꺼내꺼내꺼내꺼...
+NPC-Kalin(3)<Speaker>DJ 카리나</Speaker><通讯框>||<Night>:<color=#00CCFF>... 그러니까, 이런 일은 스스로 해결할 줄 알아야 해.</color>
+NPC-Kalin(7)<Speaker>DJ 카리나</Speaker>||<Night>:<color=#00CCFF>너희 불쌍한 카리나를 보렴, 매일 보고서 쓰지 정보 분석도 해야지, 어디서 보고거리랑 정보를 이렇게 많이 가져오는지 모르겠지만.</color>+<color=#00CCFF>이렇게 고생해도 지휘관님의 1위가 아니잖아.</color>
+NPC-Kalin(0)<Speaker>DJ 카리나</Speaker>||<Night>:<color=#00CCFF>그럼 다음 사연을 한번 볼까...</color>+<color=#00CCFF>【입사한 지 얼마 안 됐는데, 상사가 저보고 다른 직장동료들과 같이 해변으로 휴가를 가자고 초대했어요, 좋은 의도인 건 알지만, 가야 할까요?】</color>
+AA12(0)<Speaker>AA-12</Speaker>||<Night>:DJ 카리나 씨, 도와주세요!
+NPC-Kalin(0)<Speaker>DJ 카리나</Speaker><通讯框>||<Night>:<color=#00CCFF>이 청취자 친구, 지금 듣고 있는지는 모르겠지만, 확실하게 말할게...</color>
+NPC-Kalin(1)<Speaker>DJ 카리나</Speaker>||<Night>:<color=#00CCFF>당연히 가야지!! 해변 휴가라고!</color>+<color=#00CCFF>그리고 입사한 지 얼마 안 됐다고 했잖아, 그럼 네 상사는 좋은 분인 거야, 적어도 직원을 보살필 줄 알고, 신입 직원도 즐거운 대인관계를 맺길 바라는 분이라고.</color>
+NPC-Kalin(6)<Speaker>DJ 카리나</Speaker>||<Night>:<color=#00CCFF>카리나도 정말 부러워! 나도 바닷가로 휴가 나가고 싶단 말이야!</color>
+AA12(0)<Speaker>AA-12</Speaker>||<Night>:아, DJ 카리나 씨가 가라고 했네...+그럼 지금 지휘관에게 말하러 가자...
+AA12(0)<Speaker></Speaker>||<Night>:AA12는 일어나 방에서 나가려 하지만 또 망설이는 표정으로 걸음을 멈췄다.
+AA12(0)<Speaker>AA-12</Speaker>||<Night>:아무래도 이미 자고 있겠지.+게다가 내가 왜 꼭 이딴 일에 신경 쓰는 것처럼...
+NPC-Kalin(0)<Speaker>DJ 카리나</Speaker><通讯框>||<Night>:<color=#00CCFF>그럼 이 청취자분은 무슨 사연이 있나 보자.</color>+<color=#00CCFF>【새로 온 직원이 저를 피하는 것 같습니다, 어떻게 하면 좋을까요? 다른 직원들과 함께 바다로 놀러 가자고 초대했지만, 흥미가 별로 없어 보이네요】...</color>
+NPC-Kalin(7)<Speaker>DJ 카리나</Speaker>||<Night>:<color=#00CCFF>그래, 여름이니까, 모두 바닷가 이야기를 하네.</color>
+()<Speaker></Speaker>||<Night>:AA12는 라디오를 뒤돌아봤다.
+AA12(0)<Speaker>AA-12</Speaker>||<Night>:어라, 이 사연은 설마...
+NPC-Kalin(3)<Speaker>DJ 카리나</Speaker><通讯框>||<Night><黑屏1>:<color=#00CCFF>... 그런 건 잘 확인하시고 말해야 돼요?</color>+<color=#00CCFF>새로 온 직원이면 부끄럽거나 낯을 가리거나 하는 이유일 수도 있으니까요.</color>
+()<Speaker></Speaker>||<Night><黑屏2>:...+라디오에서 DJ가 또 다른 청취자의 사연을 하나하나씩 읽었다. AA12는 서둘러 앉아 문자를 작성해 발송했다, 그러곤 다시 망설이면서도 기대하는 표정으로 라디오를 쳐다보았다.
+NPC-Kalin(0)<Speaker>DJ 카리나</Speaker><通讯框>||<Night>:<color=#00CCFF>...그럼 다음 사연을 들어볼까?</color>
+NPC-Kalin(1)<Speaker>DJ 카리나</Speaker>||<Night><黑屏1>:<color=#00CCFF>오호오...【제 상사께서 제가 피하는 건 줄 오해하신 것 같아요. 저는 그저 다른 사람과 이야기를 잘 못 나눌 뿐이니까, 오해를 풀고 싶어요, 그리고 같이 해변에 가기로 결정했어요.】...</color>+<color=#00CCFF>이 청취자의 사연은 아까 전의 문자와 관계가 있는 것 같네, 요즘 직장관계에 오해가 이렇게나 많은 걸까...</color>
+NPC-Kalin(1)<Speaker>DJ 카리나</Speaker><通讯框>||<Night><黑屏2><黑屏1>:<color=#00CCFF>이 문자 내용도 재미있네.</color>+<color=#00CCFF>【신입 사원이 해변 휴가에 같이 가기로 약속해줬네요! 부디 이번 휴가에서 새 친구를 사귀었으면 좋겠네요. 그리고 절 피하는 것이 아니라 정말 다행이네요.】...</color>+<color=#00CCFF>호호호호, 오해가 풀린 것을 봐서 정말 기쁜 일이네요, 저도 바닷가에 휴가 나가고 싶은데...</color>
+()<Speaker></Speaker>||<Night><黑屏2>:30분 후.
+NPC-Kalin(1)<Speaker>DJ 카리나</Speaker><通讯框>||<Night><黑屏1>:<color=#00CCFF>이상으로 오늘의 고민 상담 끝~</color>+<color=#00CCFF>비록 아까 바닷가에 간다는 두 청취자분이 누군지는 전-혀 모르겠지만.</color>+<color=#00CCFF>이런 라디오 프로그램에서 "잘 부탁드려요!""아뇨, 저야말로." 같은 문자를 주고받는 것보다는 직접 만나서 얘기를 나누는 게 좋을 거예요♪</color>
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:...+다음 날 아침.
+()<Speaker></Speaker>||<BIN>162</BIN><黑屏2><BGM>BGM_Hello</BGM>:AA12가 정신을 차렸을 때, 자신은 이미 수영복을 입고 시끌벅적 떠드는 인형들과 햇볕이 쨍쨍한 바닷가에 있었다.
+AA12(2)<Speaker>AA-12</Speaker>||:어째서... 이렇게 된 거지...+으윽, 눈부셔, 게다가 너무 오래 긴장해 있었더니 메스꺼워...+우읍, 왜 이런 수영복까지 입은 걸까...
+()<Speaker></Speaker>||:AA12는 두세 명씩 모여 흩어지는 동료들을 바라보며 한숨을 쉬었다.+그러곤 백사장과는 반대 방향으로 걸어가 파라솔을 펼쳐  태양을 피하려 했다.
+AA12(2)<Speaker>AA-12</Speaker>||:파라솔을 챙겨와서 다행이야... 여기에 이렇게 대충 하면...+...응?
+()<Speaker></Speaker>||:누군가의 시선이 자신에게 향하고 있는 것을 느꼈다.+한 손으론 파라솔의 우산대를 잡고, 다른 한 손은 몰래 총몸에 얹고...+빠르게 뒤돌아보자 멀지 않은 야자수 밑에서 키가 작은 인형이 고개를 반쯤 내밀고 자신을 물끄러미 보고 있었다.
+AA12(2)<Speaker>AA-12</Speaker>||:...
+Ameli(4)<Speaker>아멜리</Speaker><Shake>||:히익! ...
+()<Speaker></Speaker>||:한 동안 눈싸움을 하던 AA12는 다시 포기하고 총에서 손을 떼 다시 파라솔을 세우기 시작했다.
+AA12(2)<Speaker>AA-12</Speaker>||:<color=#A9A9A9>(이런, 이럴 땐 인사라도 하는 게 아닐까...)</color>
+()<Speaker></Speaker>||:아멜리는 AA12가 자신을 쫓아낼 의도가 없어보이자, AA12 곁으로 다가갔다.
+Ameli(4)<Speaker>아멜리</Speaker>||:저, 저기, 안녕!
+()<Speaker></Speaker>||:AA12는 화들짝 놀라고, 삐걱대면서 고개를 아멜리쪽으로 돌렸다.
+Ameli(4)<Speaker>아멜리</Speaker>||:저기, 난 아멜리라고 해...+네가 새로 온 동료구나! 기지에 있을 땐 말을 걸 기회가 없어서...
+Ameli(4);AA12(2)<Speaker>AA-12</Speaker>||:... 안녕, 난 AA12야.
+Ameli(4)<Speaker>아멜리</Speaker>;AA12(2)||:AA12는 여기 혼자 있는 거야?+지금 저쪽에서 함께 비치발리볼을 할 생각인데, 같이 가지 않을래?
+Ameli(4);AA12(2)||:
+()||:아멜리가 AA12에게 말을 걸 때, 두 눈에서 마치 빛이 반짝이는 것 같았다.+AA12는 그걸 보고 또 움찔했다.
+Ameli(4);AA12(2)<Speaker>AA-12</Speaker>||:<color=#A9A9A9>(심야 라디오에서 사회 에티켓을 어떻게 가르쳐줬지? 빨리 떠올려봐!)</color>+아, 아니 난 됐어...+너무 사람이 많은 곳은 안 좋아해서.
+Ameli(4)<Speaker>아멜리</Speaker>;AA12(2)||:그렇구나...
+Ameli(4);AA12(2)<Speaker>AA-12</Speaker>||:<color=#A9A9A9>(어떡하지? 내가 잘못 말했나? 왜 고개를 숙이는 거야!)</color>
+Ameli(4)<Speaker>아멜리</Speaker>;AA12(2)||:알겠다! AA12는 여기서 태양을 피하고 싶은 거구나?+그러고 보니, 바닷가는 자료에 있던 것처럼 눈부시고 더워, 나도 바다에 온 건 처음이라서 깜짝 놀랐어...
+Ameli(4);AA12(2)<Speaker>AA-12</Speaker>||:그, 그래.
+Ameli(4)<Speaker>아멜리</Speaker>;AA12(2)||:저기... 파라솔 펴는 거 도와줘도 될까?+AA12 파라솔을 많이 가져왔네...
+Ameli(4);AA12(2)<Speaker>AA-12</Speaker>||:어, 좋아.
+Ameli(4)<Speaker>아멜리</Speaker>||:정말이야? 다행이다!
+()<Speaker></Speaker>||:아멜리가 바로 기뻐하는 모습을 보자, AA12는 잠깐 어쩔 줄 몰라 하다 그냥 아멜리가 하자는 대로 했다.+아멜리의 도움으로 파라솔 작업은 순조롭게 흘러갔다.+얼마 후, AA12에게 커다란 파라솔을 세방향으로 설치한 햇볕을 완전히 차단하는 의자가 생겼다.+AA12는 사교성의 중요성을 또다시 한번 깨달았다.
+AA12(2)<Speaker>AA-12</Speaker>||:... 응, 고마워.
+Ameli(4)<Speaker>아멜리</Speaker>;AA12(2)||:그, 그렇게 감사할 필요는 없어! 같은 기지의 동료니까 이 정도쯤은 당연히 도와줘야지!
+Ameli(4);AA12(2)<Speaker>AA-12</Speaker>||:(답변 양식을 검색 검색...)+같은 기지의... 아, 마, 맞아, 동료니까.+그래도 고마워, 내 동료 아멜리.
+Ameli(4)<Speaker>아멜리</Speaker>;AA12(2)||:동료... 친구...
+Ameli(4);AA12(2)||:
+()||:AA12가 어떻게 이 대화를 예절 있게 끝낼지 머리를 굴리는 동안, 아멜리가 갑자기 항상 휴대하는 주머니 속에서 무언가를 꺼내 기대로 가득 찬 얼굴로 AA12에게 내밀었다.
+Ameli(4);AA12(2)<Speaker>AA-12</Speaker>||:... 어?! 이건 뭐야?
+Ameli(4)<Speaker>아멜리</Speaker>;AA12(2)||:단추야! 바, 받아줘!
+Ameli(4);AA12(2)<Speaker>AA-12</Speaker>||:... 어어? 음, 응...
+Ameli(4)<Speaker>아멜리</Speaker>;AA12(2)||:그럼 AA12, 난 먼저 지휘관님 쪽으로 갈게!+안녕!
+AA12(2)<Speaker>AA-12</Speaker>||:... 안녕.
+()<Speaker></Speaker>||:AA12는 아멜리가 깡총깡총 뛰면서 멀어지는 모습을 지켜보다 그대로 꽈당하고 넘어지는 꼴을 보고, 고개를 숙여 손안의 단추를 바라보았다.
+AA12(2)<Speaker>AA-12</Speaker>||:뭐가 어떻게 된 거지? 이 단추는 또 뭐지? 방금 다른 인형과 성공적으로 대화를 나눈 건가...+아, 귀찮아. 그냥 밤까지 여기 있자, 덥고, 눈부시고, 대화하는 것도 힘들어.+으윽, 방금 그렇게 점잖은 척 하는 것 역시 메스꺼운데...
+()<Speaker></Speaker>||<黑屏1>:머릿속이 의문으로 가득 찬 AA12는 고민해봤자 쓸모없는 문제를 접어두고, 의자에 푹 퍼졌다.+이제야 햇볕을 피해 조용히 있을 거라고 생각할 때, 저 멀리 튜브를 들고 있는 주황빛의 모습이 자신을 향해 걸어오는 모습을 보았다...
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:...+그날 밤.
+()<Speaker></Speaker>||<BIN>162</BIN><Night><黑屏2><BGM>BGM_Moon</BGM>:AA12가 다시 정신을 차릴 때는 이미 그 주황색 인형과 한탕 다투고 난 뒤였다. 당분을 보충한 뒤 캠프파이어 장소에 나타났다.
+AA12(2)<Speaker>AA-12</Speaker>||<Night>:뭐지... 왜 갑자기 이렇게 된 거지...+여긴 어디고 나는 누구지? 난 또 뭐 하고 있는 거지...
+()<Speaker></Speaker>||<Night>:AA12가 멍하니 있을 때, 지휘관이 다가왔다.
+지휘관()<Speaker>지휘관</Speaker>||<Night>:안녕, AA12.
+AA12(2)<Speaker>AA-12</Speaker>||<Night>:... 지휘관이구나.
+AA12(2)<Speaker>지휘관</Speaker>||<Night>:어때, 바다 멋지지 않니?
+AA12(2)<Speaker>AA-12</Speaker>||<Night>:... 점점 인사가 촌스러워지네, 지휘관.+그리고, 바닷가에서 바다를 보는 건, 그리폰 기지 높은 곳에서 바깥 폐허를 보는 것 같은 느낌이었어.
+AA12(2)<Speaker>지휘관</Speaker>||<Night>:그렇게 썰렁한 느낌이었니.
+AA12(2)<Speaker>AA-12</Speaker>||<Night>:... 응.
+AA12(2)<Speaker>지휘관</Speaker>||<Night>:우리가 있으니까 이 바다가, 혹은 그리폰 기지가 그렇게 썰렁하지 않다고 대답할 줄 알았는데.
+AA12(2)<Speaker>AA-12</Speaker>||<Night>:......
+AA12(2)<Speaker>지휘관</Speaker>||<Night>:나는 너희가 있어서 매일 보람차고 즐겁단다!
+AA12(2)<Speaker>AA-12</Speaker>||<Night>:... 지휘관의 생각은 물은 적 없어.
+AA12(2)<Speaker>지휘관</Speaker>||<Night>:그럼 그냥 내 혼잣말이니까 듣든 말든 상관없어.+비록 우리는 저마다 다른 하나의 개체지만, 모두가 함께 모여 있는 것과 혼자 있는 것은 분명 다르잖아?+아무튼, 그리폰에 온 것을 환영한다, 너도 여기서 많은 좋은 것들을 얻기를 바라지.
+AA12(2)<Speaker>AA-12</Speaker>||<Night>:좋은 것들... 그 폐허뿐인 구역에 그런 게 있을까?
+AA12(2)<Speaker>지휘관</Speaker>||<Night>:꼭 실체가 있는 것은 아니야. 사람들이 만들어 낸 개념이지만, 이 썰렁한 세상을 덮을 정도로 아름답지.
+()<Speaker></Speaker>||<Night>:AA12는 잠깐 멍해졌다, 그리고 손안에 쥐고 있는 단추와, 입속에 남아 있는 막대사탕의 신맛을 떠올렸다.
+지휘관()<Speaker>지휘관</Speaker>||<Night>:나중에 또 기회가 있으면, 다시 모두와 함께 바닷가에 오겠니?
+AA12(2)<Speaker>AA-12</Speaker>||<黑屏1>:......+그건, 기지에 돌아간 뒤에 대답할게.
+AA12(2)<Speaker>AA-12</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>: <color=#A9A9A9>(단추고 친구고 좋은 것이고 뭐고... 귀찮아, 그러면서도...)</color>+ <color=#A9A9A9>(돌아가면 DJ 카리나 씨에게 확실하게 물어봐야겠어!)</color>+<color=#A9A9A9>(음, 가장 먼저 보낼 수 있도록 미리 문자를 준비해두자!)</color>

@@ -1,89 +1,89 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
-()||<黑屏2><BIN>82</BIN><BGM>BGM_Moon</BGM>:얼마 후의 오후.+마흐리안은 부스스 잠에서 깨어났다.+그녀의 침대 옆에 앉아 있는 인형도, 잠시 눈을 붙이고 있었다.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:우으응...
-VP1915(0)<Speaker>페로사</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:...아, 깨어났구나.
-VP1915(0)<Speaker></Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:마흐리안이 기지개를 켜던차에 페로사가 눈을 떴다.
-VP1915(0)<Speaker>페로사</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:잘 잤어?
-VP1915(0);NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:네... 꽤 괜찮게 잤어요...+다른 분들은요...?
-VP1915(0)<Speaker>페로사</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:주방에서 인간이 섭취할 요리는 어떻게 만들어야 하는지 연구 중이야.+...소리로 봐선 그다지 잘 안 되는 거 같지만.
-VP1915(0);NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:......
-VP1915(0);NPC-Machlian(5)<Speaker></Speaker><Position>0,-50</Position>||:마흐리안이 귀를 기울이니, 과연 방 밖은 떠들썩했다. 다만 무슨 말을 하는 중인지는 잘 들리지 않았다.
-VP1915(0)<Speaker>페로사</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:가보겠어? 이제 막 깼으니 좀 걷는 편이 정신 차리기에도 좋을 거야.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:네.
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:마흐리안은 침대에서 내려와, 페로사를 따라 방 밖으로 나왔다.
-()<Speaker></Speaker>||<黑屏2><BIN>129</BIN><BGM>m_avg_casual</BGM>:역시나, 주방에선 가스레인지와 몇 접시의 원형을 알 수 없는 시꺼먼 물체를 사이에 두고 인형 몇 명이서 치열한 논쟁을 벌이고 있었다.
-Kolibri(0)<Speaker>콜리브리</Speaker>||:――자꾸 그딴 식으로 요리하면 미각 모듈 꺼도 못 먹는다니까!?
-Kolibri(0);Derringer(0)<Speaker>데린저</Speaker>||<震屏>:네가 뭘 안다고 그래?! 이건 데린저가 아껴둔 간식이란 말이야!
-Kolibri(0)<Speaker>콜리브리</Speaker>;Derringer(0)||:그렇다고 그걸 왜 튀겨!
-Derringer(0)<Speaker>데린저</Speaker>||:그치만 지휘관이 따끈한 걸 먹고 싶댔는걸!
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
-VP1915(0)<Speaker>페로사</Speaker>;NPC-Machlian(5)||:왜들 그렇게 싸워?
-VP1915(0);Savage99(0)<Speaker>새비지</Speaker>||:아, 페로사. 지금 둘이 과자도 튀김으로 만들 수 있는지로 싸우고 있어요.
-VP1915(0);Fedorov(0)<Speaker>표도로프</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:어떻게 좀 해 주세요 페로사, 태워먹은 게 벌써 몇 접시나 돼요...
-()||<黑点2>:그 와중 마흐리안이 가스레인지에 다가가, 그 시꺼먼 물체를 집어 살짝 핥아보았다.
-NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||<BGM>BGM_Danger</BGM>:......+이건...!
-()<Speaker></Speaker>||<震屏>:강렬한 비린내와 기괴한 단맛이 동시에 몰아쳐, 백상아리처럼 미각을 넘어 머릿속까지 쳐들어왔다.+마흐리안은 다리에 힘이 풀려 풀썩 주저앉고 말았다.
-VP1915(0)<Speaker>페로사</Speaker>||:마흐리안!? 괜찮아?!+빨리 물 가져와!
-VP1915(0);Savage99(0)<Speaker>새비지</Speaker>||<黑点1>:여기, 물로 입을 헹구세요!
-()||<黑点2><BGM>BGM_Empty</BGM>:깨끗한 물을 벌컥벌컥 마시고 나서야 마흐리안은 겨우 정신을 차렸다.+그런 그녀의 반응을 본 데린저와 콜리브리는 더욱 기운이 없어졌다.
-VP1915(0)<Speaker>페로사</Speaker>||<BGM>m_avg_casual</BGM>:...너흰 마흐리안을 지켜봐, 내가 할게.
-VP1915(0);Savage99(0)<Speaker>새비지</Speaker>||:오, 페로사의 요리는 간만이네요.
-VP1915(0);Fedorov(0)<Speaker>표도로프</Speaker>||:저도 돕겠습니다.
-VP1915(0)<Speaker></Speaker>||:페로사는 능숙하게 생선을 씻고 손질한 다음, 살을 얇게 썰고 튀김옷을 입혔다.+표도로프는 옆에서 감자를 길게 썰어, 생선살과 함께 뜨거운 기름에 넣었다.+얼마 안 지나, 황금빛 윤기를 뽐내는 피시 앤 칩스가 완성되었다.
-Kolibri(0)<Speaker>콜리브리</Speaker>||:와아~!!
-Kolibri(0);Derringer(0)<Speaker>데린저</Speaker>||:페로사 굉장해!
-Kolibri(0);NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:냄새가... 고소하네요.
-VP1915(0)<Speaker></Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:페로사가 한 접시를 마흐리안 앞에 놓았다.
-VP1915(0)<Speaker>페로사</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:이건 네 몫.
-VP1915(0);NPC-Machlian(8)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:네? 저도 먹어도 되나요...? 감사합니다.
-NPC-Machlian(8)<Speaker></Speaker><Position>0,-50</Position>||:인형들의 부러워하는 시선을 받으며, 마흐리안은 조심조심 감자튀김을 집어 입으로 가져갔다.
-()<Speaker></Speaker>||:그때, 장을 보고 돌아온 AR팀이 그 장면을 목격했다.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<SE1>AVG_Door_Open_Close</SE1>:오오, 냄새 좋다. 뭐 먹어?
-AR15Mod(0)<Speaker>AR15</Speaker>||:지휘관이 부탁한 애프터눈 티도 준비됐지? 불러올게.
-()<Speaker></Speaker>||:AR-15는 그대로 지휘실로 향했다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:생긴 걸 보니, 영국 요리 같네.
-RO635Mod(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:아아~ 벌써 기지의 식당이 그립다~
-RO635Mod(0)<Speaker>RO635</Speaker>||:얘가 또, 돌아가서 실컷 먹으면 되지.
-NPC-Machlian(8)<Speaker></Speaker><Position>0,-50</Position>||:마흐리안은 감자튀김을 꼭꼭 씹었다. 겉은 바삭바삭하지만 속은 수분으로 촉촉했고, 조미료도 거의 안 들어가 감자의 본연의 향이 물씬 풍겼다.
-Kolibri(0)<Speaker>콜리브리</Speaker>||:너네 기지의 식당... 그렇게 맛있어?
-Kolibri(0);Derringer(0)<Speaker>데린저</Speaker>||:훈작사는 독살당할 수도 있다면서 식당 싫어하더라...
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;Derringer(0)||:응? 응! 우리 기지 식당 요리 엄청 맛있어! 여러 나라의 요리가 전부 있다구!+감자만 해도 미국식 감자 튀김, 영국식 감자 튀김, 이탈리아식 으깬 감자, 동양식 감자채...
-Derringer(0)<Speaker>데린저</Speaker>||:우으으... 데린저 죽어... 그만, 그마아안...
-NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||:그 말을 들은 마흐리안도 고개를 숙인 채 접시의 피시 앤 칩스를 물끄러미 바라보았다. 방금까지만 해도 정말 맛있었는데, 갑자기 싱겁게 느껴졌다.
-VP1915(0)<Speaker>페로사</Speaker>||:너무 속상할 것 없어, 어쩌면 우리도 그 기지를 방문하게 될지도 모르니까.
-Kolibri(0)<Speaker>콜리브리</Speaker>||:어, 정말?
-Kolibri(0);Savage99(0)<Speaker>새비지</Speaker>||:훈작사님 말씀으론, 아무래도 우리를 장기간 지휘관과 함께 행동하게 하실 셈이신 것 같아.
-Kolibri(0);Fedorov(0)<Speaker>표도로프</Speaker>||:우린 패러데우스에 대한 지식이 아직 부족하니, 지휘관과 함께라면 분명 많은 걸 배울 수 있겠죠.
-Kolibri(0);Derringer(0)<Speaker>데린저</Speaker>||:오오, 기대된다.
-Kolibri(0);NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||:홍차가 담긴 찻잔을 든 마흐리안도, 자신도 모르게 고개를 끄덕였다.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Machlian(6)||:그럼 모두 미리 기지의 애들한테 인사하는 건 어때?
-M4 SOPMOD IIMod(0);Savage99(0)<Speaker>새비지</Speaker>||:무슨 인사?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:뭐긴, 반갑다고 자기소개하는 영상 보내는 거지! 기지의 모두가 미리 얼굴을 알 수 있게 말이야!
-RO635Mod(0)<Speaker>RO635</Speaker>||:그거라면 지휘관님도 개의치 않으실 거야, 이따가 여쭤볼게.
-()<Speaker></Speaker>||:그리폰 소대의 시선이 동시에 페로사를 향했다.
-VP1915(0)<Speaker>페로사</Speaker>||:다들 그런 표정 지으면 내가 어떻게 거절해.
-Kolibri(0)<Speaker>콜리브리</Speaker>||:아싸~! 나 얼굴 정리 좀 하고 올게!
-Derringer(0)<Speaker>데린저</Speaker>||:걔네한테 뭐라 하면 좋을까...
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:얼른 얼른! 녹화 시작하니까 "바나나" 보고 말해!
-()<Speaker></Speaker>||:그리폰 소대는 약간 긴장한 표정으로, 차례대로 "바나나" 앞에 서서 자기소개를 시작했다.+그런 와중, 페로사가 마흐리안에게 다가왔다.
-VP1915(0)<Speaker>페로사</Speaker>||:너도 어때?
-VP1915(0);NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:저는... 찍을 필요 없지 않을까요.
-VP1915(0)<Speaker>페로사</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:내가 지휘관을 본 바로는, 임무가 끝나면 너도 그 기지로 가게 될 수 있어.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:음......
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:마흐리안은 불안한 눈빛으로 찻잔을 꼭 쥐었지만, 잔 속의 차는 잔잔했다.+그때, AR-15와 함께 지휘관이 주방으로 들어왔다.
-()<Speaker>지휘관</Speaker>||:으음, 벌써 좋은 냄새가 나네.
-RO635Mod(0)<Speaker>RO635</Speaker>||:페로사가 직접 요리한 피시 앤 칩스입니다.
-RO635Mod(0)<Speaker>지휘관</Speaker>||:척 봐도 맛있어 보이는걸, 잘 먹을게.
-RO635Mod(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>GF_Memorial</BGM>:지휘관 지휘관! 나 기지의 애들한테 얘네를 소개하는 영상 찍고 있었어!+모두가 귀여운 신참이 온다는 걸 알면 분명 엄청 기뻐할 거야, 그치!
-RO635Mod(0);M4 SOPMOD IIMod(0)<Speaker>지휘관</Speaker>||:하하, 그거 좋은 생각인데?
-VP1915(0)<Speaker>페로사</Speaker>;M4 SOPMOD IIMod(0)||:지휘관, 아직 마흐리안이 찍지 않았습니다.
-VP1915(0)<Speaker></Speaker>||:페로사가 미소를 지으며 마흐리안을 데리고 왔다.+마흐리안은 빨갛게 달아오른 얼굴로 눈을 어디다 둬야 할지 몰라 했다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:...지휘관, 어차피 저 여자는——
-AR15Mod(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:뭐 어때 AR-15, 철혈 녀석들도 거기서 잘 지내고 있잖아.
-AR15Mod(0);M4 SOPMOD IIMod(0)<Speaker></Speaker>||:지휘관은 괜찮다는 눈빛으로 AR-15에게 감자튀김을 내밀었다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:......
-()<Speaker></Speaker>||:AR-15는 그 감자튀김을 받지 않았지만, 더는 반대하지도 않았다.
-()<Speaker>지휘관</Speaker>||:이리 와, 마흐리안.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:자자자, 이쪽 보고 자기소개 시이~작!
-NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||:결국 "바나나" 앞에 서게 된 마흐리안은 여전히 안절부절못하며 렌즈를 바라봤다.+한 순간, 그녀의 머릿속에 수많은 과거의 단편이 스쳐 지나갔고, 희노애락이 교차했다.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||<黑屏1>:......반가워요, 저는 마흐리안이라고 해요.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
+()||<黑屏2><BIN>82</BIN><BGM>BGM_Moon</BGM>:얼마 후의 오후.+마흐리안은 부스스 잠에서 깨어났다.+그녀의 침대 옆에 앉아 있는 인형도, 잠시 눈을 붙이고 있었다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:우으응...
+VP1915(0)<Speaker>페로사</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:...아, 깨어났구나.
+VP1915(0)<Speaker></Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:마흐리안이 기지개를 켜던차에 페로사가 눈을 떴다.
+VP1915(0)<Speaker>페로사</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:잘 잤어?
+VP1915(0);NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:네... 꽤 괜찮게 잤어요...+다른 분들은요...?
+VP1915(0)<Speaker>페로사</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:주방에서 인간이 섭취할 요리는 어떻게 만들어야 하는지 연구 중이야.+...소리로 봐선 그다지 잘 안 되는 거 같지만.
+VP1915(0);NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:......
+VP1915(0);NPC-Machlian(5)<Speaker></Speaker><Position>0,-50</Position>||:마흐리안이 귀를 기울이니, 과연 방 밖은 떠들썩했다. 다만 무슨 말을 하는 중인지는 잘 들리지 않았다.
+VP1915(0)<Speaker>페로사</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:가보겠어? 이제 막 깼으니 좀 걷는 편이 정신 차리기에도 좋을 거야.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:네.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:마흐리안은 침대에서 내려와, 페로사를 따라 방 밖으로 나왔다.
+()<Speaker></Speaker>||<黑屏2><BIN>129</BIN><BGM>m_avg_casual</BGM>:역시나, 주방에선 가스레인지와 몇 접시의 원형을 알 수 없는 시꺼먼 물체를 사이에 두고 인형 몇 명이서 치열한 논쟁을 벌이고 있었다.
+Kolibri(0)<Speaker>콜리브리</Speaker>||:――자꾸 그딴 식으로 요리하면 미각 모듈 꺼도 못 먹는다니까!?
+Kolibri(0);Derringer(0)<Speaker>데린저</Speaker>||<震屏>:네가 뭘 안다고 그래?! 이건 데린저가 아껴둔 간식이란 말이야!
+Kolibri(0)<Speaker>콜리브리</Speaker>;Derringer(0)||:그렇다고 그걸 왜 튀겨!
+Derringer(0)<Speaker>데린저</Speaker>||:그치만 지휘관이 따끈한 걸 먹고 싶댔는걸!
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
+VP1915(0)<Speaker>페로사</Speaker>;NPC-Machlian(5)||:왜들 그렇게 싸워?
+VP1915(0);Savage99(0)<Speaker>새비지</Speaker>||:아, 페로사. 지금 둘이 과자도 튀김으로 만들 수 있는지로 싸우고 있어요.
+VP1915(0);Fedorov(0)<Speaker>표도로프</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:어떻게 좀 해 주세요 페로사, 태워먹은 게 벌써 몇 접시나 돼요...
+()||<黑点2>:그 와중 마흐리안이 가스레인지에 다가가, 그 시꺼먼 물체를 집어 살짝 핥아보았다.
+NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||<BGM>BGM_Danger</BGM>:......+이건...!
+()<Speaker></Speaker>||<震屏>:강렬한 비린내와 기괴한 단맛이 동시에 몰아쳐, 백상아리처럼 미각을 넘어 머릿속까지 쳐들어왔다.+마흐리안은 다리에 힘이 풀려 풀썩 주저앉고 말았다.
+VP1915(0)<Speaker>페로사</Speaker>||:마흐리안!? 괜찮아?!+빨리 물 가져와!
+VP1915(0);Savage99(0)<Speaker>새비지</Speaker>||<黑点1>:여기, 물로 입을 헹구세요!
+()||<黑点2><BGM>BGM_Empty</BGM>:깨끗한 물을 벌컥벌컥 마시고 나서야 마흐리안은 겨우 정신을 차렸다.+그런 그녀의 반응을 본 데린저와 콜리브리는 더욱 기운이 없어졌다.
+VP1915(0)<Speaker>페로사</Speaker>||<BGM>m_avg_casual</BGM>:...너흰 마흐리안을 지켜봐, 내가 할게.
+VP1915(0);Savage99(0)<Speaker>새비지</Speaker>||:오, 페로사의 요리는 간만이네요.
+VP1915(0);Fedorov(0)<Speaker>표도로프</Speaker>||:저도 돕겠습니다.
+VP1915(0)<Speaker></Speaker>||:페로사는 능숙하게 생선을 씻고 손질한 다음, 살을 얇게 썰고 튀김옷을 입혔다.+표도로프는 옆에서 감자를 길게 썰어, 생선살과 함께 뜨거운 기름에 넣었다.+얼마 안 지나, 황금빛 윤기를 뽐내는 피시 앤 칩스가 완성되었다.
+Kolibri(0)<Speaker>콜리브리</Speaker>||:와아~!!
+Kolibri(0);Derringer(0)<Speaker>데린저</Speaker>||:페로사 굉장해!
+Kolibri(0);NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:냄새가... 고소하네요.
+VP1915(0)<Speaker></Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:페로사가 한 접시를 마흐리안 앞에 놓았다.
+VP1915(0)<Speaker>페로사</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:이건 네 몫.
+VP1915(0);NPC-Machlian(8)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:네? 저도 먹어도 되나요...? 감사합니다.
+NPC-Machlian(8)<Speaker></Speaker><Position>0,-50</Position>||:인형들의 부러워하는 시선을 받으며, 마흐리안은 조심조심 감자튀김을 집어 입으로 가져갔다.
+()<Speaker></Speaker>||:그때, 장을 보고 돌아온 AR팀이 그 장면을 목격했다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<SE1>AVG_Door_Open_Close</SE1>:오오, 냄새 좋다. 뭐 먹어?
+AR15Mod(0)<Speaker>AR15</Speaker>||:지휘관이 부탁한 애프터눈 티도 준비됐지? 불러올게.
+()<Speaker></Speaker>||:AR-15는 그대로 지휘실로 향했다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:생긴 걸 보니, 영국 요리 같네.
+RO635Mod(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:아아~ 벌써 기지의 식당이 그립다~
+RO635Mod(0)<Speaker>RO635</Speaker>||:얘가 또, 돌아가서 실컷 먹으면 되지.
+NPC-Machlian(8)<Speaker></Speaker><Position>0,-50</Position>||:마흐리안은 감자튀김을 꼭꼭 씹었다. 겉은 바삭바삭하지만 속은 수분으로 촉촉했고, 조미료도 거의 안 들어가 감자의 본연의 향이 물씬 풍겼다.
+Kolibri(0)<Speaker>콜리브리</Speaker>||:너네 기지의 식당... 그렇게 맛있어?
+Kolibri(0);Derringer(0)<Speaker>데린저</Speaker>||:훈작사는 독살당할 수도 있다면서 식당 싫어하더라...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;Derringer(0)||:응? 응! 우리 기지 식당 요리 엄청 맛있어! 여러 나라의 요리가 전부 있다구!+감자만 해도 미국식 감자 튀김, 영국식 감자 튀김, 이탈리아식 으깬 감자, 동양식 감자채...
+Derringer(0)<Speaker>데린저</Speaker>||:우으으... 데린저 죽어... 그만, 그마아안...
+NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||:그 말을 들은 마흐리안도 고개를 숙인 채 접시의 피시 앤 칩스를 물끄러미 바라보았다. 방금까지만 해도 정말 맛있었는데, 갑자기 싱겁게 느껴졌다.
+VP1915(0)<Speaker>페로사</Speaker>||:너무 속상할 것 없어, 어쩌면 우리도 그 기지를 방문하게 될지도 모르니까.
+Kolibri(0)<Speaker>콜리브리</Speaker>||:어, 정말?
+Kolibri(0);Savage99(0)<Speaker>새비지</Speaker>||:훈작사님 말씀으론, 아무래도 우리를 장기간 지휘관과 함께 행동하게 하실 셈이신 것 같아.
+Kolibri(0);Fedorov(0)<Speaker>표도로프</Speaker>||:우린 패러데우스에 대한 지식이 아직 부족하니, 지휘관과 함께라면 분명 많은 걸 배울 수 있겠죠.
+Kolibri(0);Derringer(0)<Speaker>데린저</Speaker>||:오오, 기대된다.
+Kolibri(0);NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||:홍차가 담긴 찻잔을 든 마흐리안도, 자신도 모르게 고개를 끄덕였다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;NPC-Machlian(6)||:그럼 모두 미리 기지의 애들한테 인사하는 건 어때?
+M4 SOPMOD IIMod(0);Savage99(0)<Speaker>새비지</Speaker>||:무슨 인사?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:뭐긴, 반갑다고 자기소개하는 영상 보내는 거지! 기지의 모두가 미리 얼굴을 알 수 있게 말이야!
+RO635Mod(0)<Speaker>RO635</Speaker>||:그거라면 지휘관님도 개의치 않으실 거야, 이따가 여쭤볼게.
+()<Speaker></Speaker>||:그리폰 소대의 시선이 동시에 페로사를 향했다.
+VP1915(0)<Speaker>페로사</Speaker>||:다들 그런 표정 지으면 내가 어떻게 거절해.
+Kolibri(0)<Speaker>콜리브리</Speaker>||:아싸~! 나 얼굴 정리 좀 하고 올게!
+Derringer(0)<Speaker>데린저</Speaker>||:걔네한테 뭐라 하면 좋을까...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:얼른 얼른! 녹화 시작하니까 "바나나" 보고 말해!
+()<Speaker></Speaker>||:그리폰 소대는 약간 긴장한 표정으로, 차례대로 "바나나" 앞에 서서 자기소개를 시작했다.+그런 와중, 페로사가 마흐리안에게 다가왔다.
+VP1915(0)<Speaker>페로사</Speaker>||:너도 어때?
+VP1915(0);NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:저는... 찍을 필요 없지 않을까요.
+VP1915(0)<Speaker>페로사</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:내가 지휘관을 본 바로는, 임무가 끝나면 너도 그 기지로 가게 될 수 있어.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:음......
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:마흐리안은 불안한 눈빛으로 찻잔을 꼭 쥐었지만, 잔 속의 차는 잔잔했다.+그때, AR-15와 함께 지휘관이 주방으로 들어왔다.
+()<Speaker>지휘관</Speaker>||:으음, 벌써 좋은 냄새가 나네.
+RO635Mod(0)<Speaker>RO635</Speaker>||:페로사가 직접 요리한 피시 앤 칩스입니다.
+RO635Mod(0)<Speaker>지휘관</Speaker>||:척 봐도 맛있어 보이는걸, 잘 먹을게.
+RO635Mod(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>GF_Memorial</BGM>:지휘관 지휘관! 나 기지의 애들한테 얘네를 소개하는 영상 찍고 있었어!+모두가 귀여운 신참이 온다는 걸 알면 분명 엄청 기뻐할 거야, 그치!
+RO635Mod(0);M4 SOPMOD IIMod(0)<Speaker>지휘관</Speaker>||:하하, 그거 좋은 생각인데?
+VP1915(0)<Speaker>페로사</Speaker>;M4 SOPMOD IIMod(0)||:지휘관, 아직 마흐리안이 찍지 않았습니다.
+VP1915(0)<Speaker></Speaker>||:페로사가 미소를 지으며 마흐리안을 데리고 왔다.+마흐리안은 빨갛게 달아오른 얼굴로 눈을 어디다 둬야 할지 몰라 했다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:...지휘관, 어차피 저 여자는——
+AR15Mod(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:뭐 어때 AR-15, 철혈 녀석들도 거기서 잘 지내고 있잖아.
+AR15Mod(0);M4 SOPMOD IIMod(0)<Speaker></Speaker>||:지휘관은 괜찮다는 눈빛으로 AR-15에게 감자튀김을 내밀었다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:......
+()<Speaker></Speaker>||:AR-15는 그 감자튀김을 받지 않았지만, 더는 반대하지도 않았다.
+()<Speaker>지휘관</Speaker>||:이리 와, 마흐리안.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:자자자, 이쪽 보고 자기소개 시이~작!
+NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||:결국 "바나나" 앞에 서게 된 마흐리안은 여전히 안절부절못하며 렌즈를 바라봤다.+한 순간, 그녀의 머릿속에 수많은 과거의 단편이 스쳐 지나갔고, 희노애락이 교차했다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||<黑屏1>:......반가워요, 저는 마흐리안이라고 해요.

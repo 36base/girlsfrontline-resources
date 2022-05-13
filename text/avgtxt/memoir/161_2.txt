@@ -1,55 +1,55 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>46</BIN><BGM>BGM_Sneak</BGM>:레벨 2 플랫폼에 접속한 인형들 앞에, 굳게 닫힌 쇠문이 나타났다.
-NZ75(0)<Speaker>NZ75</Speaker>||:여긴 어디지? 아무도 없는 게 좀 수상한데.
-56-1type(0)<Speaker>56-1식</Speaker>||:호크~! 호――크――!!
-64typeMod(0)<Speaker>64식</Speaker>||:쉿! 누가 오고 있어요, 들키지 않게 숨어요!
-()||:인형들은 흩어져 몸을 숨겼다.
-()||:그리고 얼마 안 가 초조한 발소리가 들려왔다. 총을 든 중년 남성이, 젊은 여성을 붙잡고 뒷걸음질로 오는 소리였다.
-NPC-PasserbyF(0)<Speaker>젊은 여성</Speaker>||:흑흑... 제발 풀어 주세요... 저, 전 아무것도 몰라요...
-NPC-Bodyguard1(0)<Speaker>중년 남성</Speaker>||:닥쳐!+제기랄, 완벽한 계획이었는데 이게 뭐야! 인질도 잡을 필요 없었는데!+그 인형이 대뜸 튀어나와서 내 다리를 쏘지만 않았어도, 벌써 아그들이랑 돈 챙기고 튀었다고!
-NPC-Bodyguard1(0)<Speaker>중년 남성</Speaker>||:인형이 뭐 저렇게 끈질겨? 이 문 뒤로 숨어야지...
-NPC-PasserbyF(0)<Speaker>젊은 여성</Speaker>||:흑흑, 살려 주세요, 제발 살려 주세요...!
-NPC-Bodyguard1(0)<Speaker>중년 남성</Speaker>||:닥치고 얌전히 따라와!
-()||:강도는 인질과 함께 안으로 들어가, 바깥에 혈흔을 남긴 채 문을 닫았다.
-()||:56-1식이 통신을 켰다.
-56-1type(0)<Speaker>56-1식</Speaker><通讯框>||:<color=#00CCFF>다들 들리지? 아니 호크 이 녀석, 업그레이드하는 때에까지 이때 일을 떠올리고 있네...</color>
-M99(0)<Speaker>M99</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>음? 설마 이게 그 "백만 호송 사건"인가요? 들어본 적 있어요.</color>
-64typeMod(0)<Speaker>64식</Speaker><通讯框>||:<color=#00CCFF>"백만 호송 사건"이요?</color>
-56-1type(0)<Speaker>56-1식</Speaker><通讯框>||:<color=#00CCFF>그래, 호크가 명성을 떨치게 된 바로 그 사건이야. 모두 들어 본 적 있어?</color>
-NZ75(0)<Speaker>NZ75</Speaker><通讯框>||:<color=#00CCFF>우와, 새대가리한테 그런 업적도 있었다고? 나 못 들었어, 말해 줘!</color>
-56-1type(0)<Speaker>56-1식</Speaker><通讯框>||:<color=#00CCFF>사건날 호크는 평소대로 근무하던 은행의 지폐 호송 임무를 맡았는데, 그걸 노린 강도단이 은행을 습격했어.</color>+<color=#00CCFF>보안 조치가 허술했던 탓에 강도의 계획은 거의 성공할 뻔했지만, 호크가 이판사판 달려들어서 일이 틀어졌지. </color>+<color=#00CCFF>결국 인질까지 잡아서 버텼지만 강도들은 모두 체포됐어. 그야말로, 두고두고 자랑할 만한 일이었지.</color>
-56-1type(0)<Speaker>56-1식</Speaker><通讯框>||:<color=#00CCFF>그런데...</color>
-NZ75(0)<Speaker>NZ75</Speaker><通讯框>||:<color=#00CCFF>...뭔데? 어떻게 됐는데?</color>
-64typeMod(0)<Speaker>64식</Speaker><通讯框>||:<color=#00CCFF>쉬잇, 주인공이 도착했어요.</color>
-()||:호크도 강도가 남긴 혈흔을 쫓아 문 앞에 도착했다.
-97typeS(0)<Speaker>97식 산탄총</Speaker>||:혈흔이 여기에 넓게 퍼져 있어... 여기서 잠시 멈췄다 안으로 숨었구나.
-()||:호크가 보안 요원 권한으로 문을 열자, 강도는 총을 인질의 머리에 대고 절뚝거리며 뒤로 물러나고 있었다.
-NPC-Bodyguard1(0)<Speaker>중년 남성</Speaker>||:야, 너! 허튼 짓 마라!? 다가오기만 해봐, 이년 목숨은 없어! 알아들었냐!
-NPC-PasserbyF(0)<Speaker>젊은 여성</Speaker>||:꺄아아악!!+빨리 구해 줘! 날 지키도록 프로그램되어 있잖아!? 왜 가만 있어? 고장났어?! 빨리 이 자식을 쏴!
-NZ75(0)<Speaker>NZ75</Speaker><通讯框>||:<color=#00CCFF>뭐야 저 여자, 인질범한텐 질질 짜면서 호크한텐 사납게 구네.</color>
-M99(0)<Speaker>M99</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>......</color>
-()||:호크는 무기를 단단히 쥐었지만, 인질이 버둥거리는 통에 정확히 조준할 수가 없었다.
-NPC-Bodyguard1(0)<Speaker>중년 남성</Speaker>||:빨리 총 버려! 쏴 버린다!?
-()||:호크는 결국 천천히 무기를 내려놓고, 뒤로 물러섰다.
-97typeS(0)<Speaker>97식 산탄총</Speaker>||:무기 버렸습니다, 먼저 인질을――
-()||<SE1>AVG_pistol_finalshot_n</SE1>:말을 다 하기도 전에 강도가 머리를 향해 총을 쐈고, 호크는 바로 쓰러지고 말았다.
-NPC-Bodyguard1(0)<Speaker>중년 남성</Speaker>||:젠장, 애먹이고 있어...
-NZ75(0)<Speaker>NZ75</Speaker>||:이...!
-()||<黑屏1><BGM>BGM_Empty</BGM>:뛰쳐나가려는 NZ75를 64식이 덥석 붙잡았다.
-NZ75(0)<Speaker>NZ75</Speaker>||<黑屏2><BIN>72</BIN>:뭐야 이게?! 네가 말한 거랑 완전 다르잖아! 그리고 저 새대가리는 왜 순순히 총을 버렸어!?
-M99(0)<Speaker>M99</Speaker><Position>0,100</Position>||:이상하네요... 호크가 이 사건 덕분에 유명해졌다면서요, 지금 상황은 뭐죠?
-56-1type(0)<Speaker>56-1식</Speaker>||<黑屏1>:저도 모르겠어요...
-()||<黑屏2><BIN>46</BIN><BGM>BGM_Sneak</BGM>:모두가 어리둥정해하던 그때, 주위가 처음으로 되돌아갔다. 강도의 발소리도 다시 멀리서 들려왔다.
-NPC-PasserbyF(0)<Speaker>젊은 여성</Speaker>||:흑흑... 제발 풀어 주세요... 저, 전 아무것도 몰라요...
-NPC-Bodyguard1(0)<Speaker>중년 남성</Speaker>||:닥쳐!+제기랄, 완벽한 계획이었는데 이게 뭐야! 인질도 잡을 필요 없었는데!+그 인형이 대뜸 튀어나와서 내 다리를 쏘지만 않았어도...
-M99(0)<Speaker>M99</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>이건... 루프인가요?</color>
-56-1type(0)<Speaker>56-1식</Speaker><通讯框>||:<color=#00CCFF>그런가 봐요, 호크는 이 상황에 갇혀 빠져나오질 못하는 거예요.</color>
-64typeMod(0)<Speaker>64식</Speaker><通讯框>||:<color=#00CCFF>56, 그때 무슨 일이 있었는지 마저 말해 주세요.</color>
-()||:인형들은 반복되는 인질극을 뒤로한 채, 엄폐물 뒤에 숨어 56-1식에게 호크의 사연을 마저 들었다.
-56-1type(0)<Speaker>56-1식</Speaker><通讯框>||:<color=#00CCFF>그 날, 호크는 혼자서는 불가능에 가까운 일을 해내고 인질까지 구출해서 표창을 받았어.</color>+<color=#00CCFF>하지만 구출 과정에서 인질의 팔을 약간 다치게 한 것 때문에, 그 가족에게 고소당했어.</color>+<color=#00CCFF>덕분에 내부 평가도 깎이고 사내 테스트도 통과하지 못하게 돼서, 위험성 높은 불량 인형 딱지가 붙어버렸지. 살상력도 대폭 제한받아 약해 빠진 고무탄이나 쏘다 결국 해고됐고.</color>+<color=#00CCFF>그리폰과 지휘관이 아니었다면 아마...</color>
-M99(0)<Speaker>M99</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>호크에게 충격이 엄청났겠네요...</color>
-NZ75(0)<Speaker>NZ75</Speaker><通讯框>||:<color=#00CCFF>말도 안 돼... 그런 일이 있었다고? 하, 하지만 툭하면 앞으로 나서는 녀석인데? 전혀 트라우마 있는 인형으론 안 보였는걸?</color>
-56-1type(0)<Speaker>56-1식</Speaker><通讯框>||:<color=#00CCFF>호크 성격에 그러겠어? 그래도 예전에 나한테 얘기한 적이 있어. 그 징계를 받은 후론 두려워져서, 무슨 일이든 자신감을 가질 수가 없다더라.</color>+<color=#00CCFF>항상 용감하게 보이는 것도, 어쩌면 호크가 약한 모습 보이기 싫어서 무리하는 걸지도 몰라.</color>
-M99(0)<Speaker>M99</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>그럼 뭘 주저해요? 문제를 파악했으면 같이 해결해야죠!</color>
-56-1type(0)<Speaker>56-1식</Speaker><通讯框>||:<color=#00CCFF>그걸 정확히 어떻게...</color>
-()||<黑屏1>:모두가 토의하는 사이, 이번 루프에서 호크는 도망치는 인질을 감싸 총을 여러 발 맞고 쓰러졌다.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>46</BIN><BGM>BGM_Sneak</BGM>:레벨 2 플랫폼에 접속한 인형들 앞에, 굳게 닫힌 쇠문이 나타났다.
+NZ75(0)<Speaker>NZ75</Speaker>||:여긴 어디지? 아무도 없는 게 좀 수상한데.
+56-1type(0)<Speaker>56-1식</Speaker>||:호크~! 호――크――!!
+64typeMod(0)<Speaker>64식</Speaker>||:쉿! 누가 오고 있어요, 들키지 않게 숨어요!
+()||:인형들은 흩어져 몸을 숨겼다.
+()||:그리고 얼마 안 가 초조한 발소리가 들려왔다. 총을 든 중년 남성이, 젊은 여성을 붙잡고 뒷걸음질로 오는 소리였다.
+NPC-PasserbyF(0)<Speaker>젊은 여성</Speaker>||:흑흑... 제발 풀어 주세요... 저, 전 아무것도 몰라요...
+NPC-Bodyguard1(0)<Speaker>중년 남성</Speaker>||:닥쳐!+제기랄, 완벽한 계획이었는데 이게 뭐야! 인질도 잡을 필요 없었는데!+그 인형이 대뜸 튀어나와서 내 다리를 쏘지만 않았어도, 벌써 아그들이랑 돈 챙기고 튀었다고!
+NPC-Bodyguard1(0)<Speaker>중년 남성</Speaker>||:인형이 뭐 저렇게 끈질겨? 이 문 뒤로 숨어야지...
+NPC-PasserbyF(0)<Speaker>젊은 여성</Speaker>||:흑흑, 살려 주세요, 제발 살려 주세요...!
+NPC-Bodyguard1(0)<Speaker>중년 남성</Speaker>||:닥치고 얌전히 따라와!
+()||:강도는 인질과 함께 안으로 들어가, 바깥에 혈흔을 남긴 채 문을 닫았다.
+()||:56-1식이 통신을 켰다.
+56-1type(0)<Speaker>56-1식</Speaker><通讯框>||:<color=#00CCFF>다들 들리지? 아니 호크 이 녀석, 업그레이드하는 때에까지 이때 일을 떠올리고 있네...</color>
+M99(0)<Speaker>M99</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>음? 설마 이게 그 "백만 호송 사건"인가요? 들어본 적 있어요.</color>
+64typeMod(0)<Speaker>64식</Speaker><通讯框>||:<color=#00CCFF>"백만 호송 사건"이요?</color>
+56-1type(0)<Speaker>56-1식</Speaker><通讯框>||:<color=#00CCFF>그래, 호크가 명성을 떨치게 된 바로 그 사건이야. 모두 들어 본 적 있어?</color>
+NZ75(0)<Speaker>NZ75</Speaker><通讯框>||:<color=#00CCFF>우와, 새대가리한테 그런 업적도 있었다고? 나 못 들었어, 말해 줘!</color>
+56-1type(0)<Speaker>56-1식</Speaker><通讯框>||:<color=#00CCFF>사건날 호크는 평소대로 근무하던 은행의 지폐 호송 임무를 맡았는데, 그걸 노린 강도단이 은행을 습격했어.</color>+<color=#00CCFF>보안 조치가 허술했던 탓에 강도의 계획은 거의 성공할 뻔했지만, 호크가 이판사판 달려들어서 일이 틀어졌지. </color>+<color=#00CCFF>결국 인질까지 잡아서 버텼지만 강도들은 모두 체포됐어. 그야말로, 두고두고 자랑할 만한 일이었지.</color>
+56-1type(0)<Speaker>56-1식</Speaker><通讯框>||:<color=#00CCFF>그런데...</color>
+NZ75(0)<Speaker>NZ75</Speaker><通讯框>||:<color=#00CCFF>...뭔데? 어떻게 됐는데?</color>
+64typeMod(0)<Speaker>64식</Speaker><通讯框>||:<color=#00CCFF>쉬잇, 주인공이 도착했어요.</color>
+()||:호크도 강도가 남긴 혈흔을 쫓아 문 앞에 도착했다.
+97typeS(0)<Speaker>97식 산탄총</Speaker>||:혈흔이 여기에 넓게 퍼져 있어... 여기서 잠시 멈췄다 안으로 숨었구나.
+()||:호크가 보안 요원 권한으로 문을 열자, 강도는 총을 인질의 머리에 대고 절뚝거리며 뒤로 물러나고 있었다.
+NPC-Bodyguard1(0)<Speaker>중년 남성</Speaker>||:야, 너! 허튼 짓 마라!? 다가오기만 해봐, 이년 목숨은 없어! 알아들었냐!
+NPC-PasserbyF(0)<Speaker>젊은 여성</Speaker>||:꺄아아악!!+빨리 구해 줘! 날 지키도록 프로그램되어 있잖아!? 왜 가만 있어? 고장났어?! 빨리 이 자식을 쏴!
+NZ75(0)<Speaker>NZ75</Speaker><通讯框>||:<color=#00CCFF>뭐야 저 여자, 인질범한텐 질질 짜면서 호크한텐 사납게 구네.</color>
+M99(0)<Speaker>M99</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>......</color>
+()||:호크는 무기를 단단히 쥐었지만, 인질이 버둥거리는 통에 정확히 조준할 수가 없었다.
+NPC-Bodyguard1(0)<Speaker>중년 남성</Speaker>||:빨리 총 버려! 쏴 버린다!?
+()||:호크는 결국 천천히 무기를 내려놓고, 뒤로 물러섰다.
+97typeS(0)<Speaker>97식 산탄총</Speaker>||:무기 버렸습니다, 먼저 인질을――
+()||<SE1>AVG_pistol_finalshot_n</SE1>:말을 다 하기도 전에 강도가 머리를 향해 총을 쐈고, 호크는 바로 쓰러지고 말았다.
+NPC-Bodyguard1(0)<Speaker>중년 남성</Speaker>||:젠장, 애먹이고 있어...
+NZ75(0)<Speaker>NZ75</Speaker>||:이...!
+()||<黑屏1><BGM>BGM_Empty</BGM>:뛰쳐나가려는 NZ75를 64식이 덥석 붙잡았다.
+NZ75(0)<Speaker>NZ75</Speaker>||<黑屏2><BIN>72</BIN>:뭐야 이게?! 네가 말한 거랑 완전 다르잖아! 그리고 저 새대가리는 왜 순순히 총을 버렸어!?
+M99(0)<Speaker>M99</Speaker><Position>0,100</Position>||:이상하네요... 호크가 이 사건 덕분에 유명해졌다면서요, 지금 상황은 뭐죠?
+56-1type(0)<Speaker>56-1식</Speaker>||<黑屏1>:저도 모르겠어요...
+()||<黑屏2><BIN>46</BIN><BGM>BGM_Sneak</BGM>:모두가 어리둥정해하던 그때, 주위가 처음으로 되돌아갔다. 강도의 발소리도 다시 멀리서 들려왔다.
+NPC-PasserbyF(0)<Speaker>젊은 여성</Speaker>||:흑흑... 제발 풀어 주세요... 저, 전 아무것도 몰라요...
+NPC-Bodyguard1(0)<Speaker>중년 남성</Speaker>||:닥쳐!+제기랄, 완벽한 계획이었는데 이게 뭐야! 인질도 잡을 필요 없었는데!+그 인형이 대뜸 튀어나와서 내 다리를 쏘지만 않았어도...
+M99(0)<Speaker>M99</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>이건... 루프인가요?</color>
+56-1type(0)<Speaker>56-1식</Speaker><通讯框>||:<color=#00CCFF>그런가 봐요, 호크는 이 상황에 갇혀 빠져나오질 못하는 거예요.</color>
+64typeMod(0)<Speaker>64식</Speaker><通讯框>||:<color=#00CCFF>56, 그때 무슨 일이 있었는지 마저 말해 주세요.</color>
+()||:인형들은 반복되는 인질극을 뒤로한 채, 엄폐물 뒤에 숨어 56-1식에게 호크의 사연을 마저 들었다.
+56-1type(0)<Speaker>56-1식</Speaker><通讯框>||:<color=#00CCFF>그 날, 호크는 혼자서는 불가능에 가까운 일을 해내고 인질까지 구출해서 표창을 받았어.</color>+<color=#00CCFF>하지만 구출 과정에서 인질의 팔을 약간 다치게 한 것 때문에, 그 가족에게 고소당했어.</color>+<color=#00CCFF>덕분에 내부 평가도 깎이고 사내 테스트도 통과하지 못하게 돼서, 위험성 높은 불량 인형 딱지가 붙어버렸지. 살상력도 대폭 제한받아 약해 빠진 고무탄이나 쏘다 결국 해고됐고.</color>+<color=#00CCFF>그리폰과 지휘관이 아니었다면 아마...</color>
+M99(0)<Speaker>M99</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>호크에게 충격이 엄청났겠네요...</color>
+NZ75(0)<Speaker>NZ75</Speaker><通讯框>||:<color=#00CCFF>말도 안 돼... 그런 일이 있었다고? 하, 하지만 툭하면 앞으로 나서는 녀석인데? 전혀 트라우마 있는 인형으론 안 보였는걸?</color>
+56-1type(0)<Speaker>56-1식</Speaker><通讯框>||:<color=#00CCFF>호크 성격에 그러겠어? 그래도 예전에 나한테 얘기한 적이 있어. 그 징계를 받은 후론 두려워져서, 무슨 일이든 자신감을 가질 수가 없다더라.</color>+<color=#00CCFF>항상 용감하게 보이는 것도, 어쩌면 호크가 약한 모습 보이기 싫어서 무리하는 걸지도 몰라.</color>
+M99(0)<Speaker>M99</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>그럼 뭘 주저해요? 문제를 파악했으면 같이 해결해야죠!</color>
+56-1type(0)<Speaker>56-1식</Speaker><通讯框>||:<color=#00CCFF>그걸 정확히 어떻게...</color>
+()||<黑屏1>:모두가 토의하는 사이, 이번 루프에서 호크는 도망치는 인질을 감싸 총을 여러 발 맞고 쓰러졌다.

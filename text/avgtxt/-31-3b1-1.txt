@@ -1,70 +1,70 @@
-()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>0,10</黑屏1>:
-()<Speaker></Speaker>||<BIN>168</BIN><黑屏2>:
-()||<BGM>BGM_Sneak</BGM>:베오그라드 시내.
-()||:격리벽이 파괴된 지 1시간이 지났다. 총성과 비명소리는 사라졌고, 대신 광풍이 거리를 휩쓸었다.+드넓은 거리와 우뚝 선 빌딩 사이로, 움직이는 사람은 더 이상 보이지 않았다.
-()||:...단 두 명을 빼고.
-AK12(0)<Speaker>AK12</Speaker>||:전방 양호. 전진.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:라저.
-()||<SE2>RunStep</SE2>:두 인형은 앞뒤로 나란히 거리 사이를 가로질렀다.
-()||:한 명은 앞을 주시하고, 다른 한 명은 뒷걸음질로 뒤를 경계하면서, 서로의 등을 맡긴 채 달렸다.
-AK12(2)<Speaker>AK12</Speaker>||:정지. 드론이 전방에 감염자 관측.
-M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(2)||:우회합니까?
-M4A1Mod(0);AK12(2)<Speaker>AK12</Speaker>||:별로 많지도 않고 시간도 촉박하니까, 그대로 돌파하자.+전투 준비. 넌 왼쪽, 난 오른쪽.
-M4A1Mod(3)<Speaker>M4A1</Speaker>||:알겠습니다.
-()||<SE2>RunStep</SE2>:총성은 소음기와 폭풍에 묻혀, 들리는 건 인형의 발소리와 탄피가 떨어지는 소리뿐이었다.+얼마 지나지 않아, 두 인형은 인간과 ELID 감염자들의 시체로 가득한 거리를 지나 다음 블록에 들어섰다.
-AK12(0)<Speaker>AK12</Speaker>||:전투만 보면, 너도 꽤 괜찮은 전우인데 말이지.
-M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||:그게 무슨 뜻이죠?
-M4A1Mod(3);AK12(0)<Speaker>AK12</Speaker>||:아, 네 친구한테서 네 옛날 이야기를 몇 가지 들었거든. 그래서 처음엔 네가 얼마나 잘 싸울지 딱히 기대도 안 했어.
-M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||:...그래서 아무 말도 없이 사라졌던 탈영병의 말을 믿어서는 안 된다는 겁니다.+그리고 소문만으로 사람을 판단하고, 함부로 타인의 정보를 캐는 사람은 더욱 믿을 수 없다는 것도 교훈으로 삼으세요.
-M4A1Mod(3);AK12(0)<Speaker>AK12</Speaker>||:에이, 오해하진 말아줘. 난 정말 네게 흥미가 있다고. 앞으로도 널 계속 관찰하고 싶어.+하지만 지금 그것보다 중요한 건... 안젤리아? 무슨 일이야?
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>AN94와 AR15의 신호는 잡혀?</color>
-NPC-AngeStreet(0)<通讯框>;AK12(2)<Speaker>AK12</Speaker>||:아니. 아직까진 아무 신호도, 연락도 받지 못했어.+그쪽도 여전히 연락이 안 되나 봐?
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>그러니까 너희한테 묻는 거 아니야.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>마지막 연락 후 벌써 30분째야. 아무 소식이 없으니 이거 불길한 예감이 드는데...</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>오페라 극장까지는 얼마나 남았지?</color>
-NPC-AngeStreet(0)<通讯框>;M4A1Mod(0)<Speaker>M4A1</Speaker>||:직선 거리상... 도착까지 10분 남았습니다.
-NPC-AngeStreet(0)<通讯框>;AK12(2)<Speaker>AK12</Speaker>||:도중에 아무 일도 없다면 말이지만.
-NPC-AngeStreet(0)<通讯框>;M4A1Mod(0)<Speaker>M4A1</Speaker>||:안젤리아 씨는 안전한 곳으로 피신하셨습니까?
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>;M4A1Mod(0)||:<color=#00CCFF>지금 여기보다 더 안전한 데는 없으니까 걱정 마. 너희는 AN94와 AR15를 찾는 것에만 집중해.</color>
-NPC-AngeStreet(0)<通讯框>;AK12(2)<Speaker>AK12</Speaker>||:정말 그렇길 바랄게. 거기서 ELID가 나타났다고 소리질러도 지금 여기서는 못 돌아가.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>내 몸은 내가 알아서 지킬 테니까 빨리 이동이나 해.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>새로운 진전이나 정보가 있으면 곧장 내게 연락하도록. 이상.</color>
-NPC-AngeStreet(0)<Speaker></Speaker><通讯框>||:통신 종료.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:... 정말 괜찮을까요?
-M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:별일 있기야 하겠어?+안젤리아가 문제 없다면 문제 없는 거야.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(2)||:단순명료한 대답이군요.
-AK12(0)<Speaker>AK12</Speaker>||<黑屏1>:지금 리벨리온에 혼잣말만 하는 인형이 두 명인데, 나라도 말수를 줄여야 하지 않겠어?
-()||<BIN>159</BIN><黑屏2>:목표를 향해 계속 전진하는 두 인형은, 수많은 거리와 골목을 지나, 한 광장 앞에 도착했다.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:저기가 그 오페라 극장인가요...
-M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:응, 맞아. 기마병 동상이 있는 광장의 건너편. 바로 저 건물이야.+하지만 이 지형으로 봐선... 정면으로는 못 들어가겠는걸?
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:서둘러 지원하라고 명령받지 않았습니까?
-M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:지각이 결석보단 낫지. 빨리 지원하러 가는 것과 빨리 함정에 뛰어드는 건 전혀 다른 거야.+좁은 길거리는 은엄폐가 쉽지만, 탁 트인 광장은 적이 고지에서 상황 파악은 물론 공간 장악을 하기 쉬워.+철혈이든 하얀 녀석이든, 싸움에서 이긴 쪽은 지금 불청객을 맞이할 준비를 끝마쳤을 거야.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:그럼 어쩌라는 거죠? 여기까지 와서 그냥 눈뜨고 지켜보란 말입니까?
-M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:일단 극장 주변을 정찰하고, 안에서 이상 징후가 있지는 않은지부터 확인하자.+들어가긴 해야 하지만, 가기도 전에 벌집이 되긴 싫잖아?
-AK12(2)<Speaker></Speaker>||:거만하기 짝이 없는 말투였지만, 아주 신중한 계획이었다.
-()||:AK12를 따라 좁은 골목길을 지나, 천천히 우회하며 극장으로 접근했다.+하지만 기나 긴 우회 경로 때문에, M4A1은 결국 참지 못하고 다시 의문을 제기했다.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:지금 AR1... AN94가 걱정되지는 않나요?
-M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:조금은. 그래도 네가 AR15를 걱정하는 만큼은 아니야.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:으으...
-M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:항상 죽고 싶어 안달이 난 너희랑은 다르게, AN94는 자신이 어떤 처지인지, 어떤 역할을 맡았는지 잘 알고 있어.+만약 AR15가 무슨 엉뚱한 짓을 저지르려 해도 걔가 어떻게든 말릴 거야.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:그래서 그렇게 여유가 있었군요...+...잘 생각해보니, 전 계속 함께였던 AR15에 대해서조차 잘 몰라요.+재회하고 나서도 제대로 대화해본 적도 없고요...
-M4A1Mod(3);AK12(0)<Speaker>AK12</Speaker>||:그럼 내 관찰 동호회에 가입할래? 지금이라면 두 번째 회원이 될 수 있어. 회비도 깎아줄게.
-M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||:...웃으라고 하는 말인가요?
-M4A1Mod(3);AK12(0)<Speaker>AK12</Speaker>||:그래, 그 방어 의식 넘치는 반응도, 내겐 일종의 수확이야.
-M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||:정말이지... 당신의 태도는 진지한 건지 장난치는 건지 도저히 감을 못 잡겠습니다.
-M4A1Mod(3);AK12(0)<Speaker>AK12</Speaker>||:이래 뵈도 항상 진지하거든?
-M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:아무튼, 사주 경계를 할 테니 통신 채널에 뭐라도 잡히는지 봐봐.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:...아무것도 잡히지 않습니다.+이렇게 가까이 왔는데도, AR15와 AN94의 신호가 전혀 잡히질 않아요.
-M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:철혈이나 하얀 녀석들의 통신이라도 좋으니까 피아식별을 꺼봐.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:근처에서 잡히는 건 긴급 라디오 채널밖에 없습니다.+아직 대피하진 못한 시민들은 대성당으로 대피하라는 것 같습니다.
-M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:어머, 그렇게 대놓고 방송해? 그거 절대 K가 시켜서 하는 일이 아닐 거야.+보아하니, 그리폰의 지휘관도 그렇게 꽉 막힌 사람은 아닌 거 같네.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:네... 그분은 항상 나설 필요가 없는 일도 자발적으로 도와주셨죠.
-M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:그래도 너네 지휘관의 방송 덕분에, 이 안은 어떤 상황인지 알았어.+극장 안에는 매복이 있을 거야. 분명해.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:정말 확신하시나요?
-M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:아직 밖에서 라디오 방송이 나돌고 있다는 건, 폭풍이 아직 이 구역의 통신을 마비시킬 정도로 거세지 않다는 뜻이야.+하지만 이 극장 안은 쥐죽은듯이 조용해. 오히려 이상하지 않아?
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:그렇군요... 그러니까, 극장 안에 신호 차단기가 있다는 뜻이네요.
-AK12(0)<Speaker>AK12</Speaker>||:빙고. 슬슬 리벨리온의 템포를 따라잡을 수 있게 됐네? 기특해라.+아주 힘든 싸움이 될 거야. 준비는 됐어?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:언제든지요.
-()||:두 인형은 마주보고 웃었다.
-()||<SE2>RunStep</SE2>:그리고, 그들의 발걸음은 극장의 현관 너머로 사라졌다.
-()||<黑屏1>:
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>168</BIN><黑屏2>:
+()||<BGM>BGM_Sneak</BGM>:베오그라드 시내.
+()||:격리벽이 파괴된 지 1시간이 지났다. 총성과 비명소리는 사라졌고, 대신 광풍이 거리를 휩쓸었다.+드넓은 거리와 우뚝 선 빌딩 사이로, 움직이는 사람은 더 이상 보이지 않았다.
+()||:...단 두 명을 빼고.
+AK12(0)<Speaker>AK12</Speaker>||:전방 양호. 전진.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:라저.
+()||<SE2>RunStep</SE2>:두 인형은 앞뒤로 나란히 거리 사이를 가로질렀다.
+()||:한 명은 앞을 주시하고, 다른 한 명은 뒷걸음질로 뒤를 경계하면서, 서로의 등을 맡긴 채 달렸다.
+AK12(2)<Speaker>AK12</Speaker>||:정지. 드론이 전방에 감염자 관측.
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(2)||:우회합니까?
+M4A1Mod(0);AK12(2)<Speaker>AK12</Speaker>||:별로 많지도 않고 시간도 촉박하니까, 그대로 돌파하자.+전투 준비. 넌 왼쪽, 난 오른쪽.
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:알겠습니다.
+()||<SE2>RunStep</SE2>:총성은 소음기와 폭풍에 묻혀, 들리는 건 인형의 발소리와 탄피가 떨어지는 소리뿐이었다.+얼마 지나지 않아, 두 인형은 인간과 ELID 감염자들의 시체로 가득한 거리를 지나 다음 블록에 들어섰다.
+AK12(0)<Speaker>AK12</Speaker>||:전투만 보면, 너도 꽤 괜찮은 전우인데 말이지.
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||:그게 무슨 뜻이죠?
+M4A1Mod(3);AK12(0)<Speaker>AK12</Speaker>||:아, 네 친구한테서 네 옛날 이야기를 몇 가지 들었거든. 그래서 처음엔 네가 얼마나 잘 싸울지 딱히 기대도 안 했어.
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||:...그래서 아무 말도 없이 사라졌던 탈영병의 말을 믿어서는 안 된다는 겁니다.+그리고 소문만으로 사람을 판단하고, 함부로 타인의 정보를 캐는 사람은 더욱 믿을 수 없다는 것도 교훈으로 삼으세요.
+M4A1Mod(3);AK12(0)<Speaker>AK12</Speaker>||:에이, 오해하진 말아줘. 난 정말 네게 흥미가 있다고. 앞으로도 널 계속 관찰하고 싶어.+하지만 지금 그것보다 중요한 건... 안젤리아? 무슨 일이야?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>AN94와 AR15의 신호는 잡혀?</color>
+NPC-AngeStreet(0)<通讯框>;AK12(2)<Speaker>AK12</Speaker>||:아니. 아직까진 아무 신호도, 연락도 받지 못했어.+그쪽도 여전히 연락이 안 되나 봐?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>그러니까 너희한테 묻는 거 아니야.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>마지막 연락 후 벌써 30분째야. 아무 소식이 없으니 이거 불길한 예감이 드는데...</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>오페라 극장까지는 얼마나 남았지?</color>
+NPC-AngeStreet(0)<通讯框>;M4A1Mod(0)<Speaker>M4A1</Speaker>||:직선 거리상... 도착까지 10분 남았습니다.
+NPC-AngeStreet(0)<通讯框>;AK12(2)<Speaker>AK12</Speaker>||:도중에 아무 일도 없다면 말이지만.
+NPC-AngeStreet(0)<通讯框>;M4A1Mod(0)<Speaker>M4A1</Speaker>||:안젤리아 씨는 안전한 곳으로 피신하셨습니까?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>;M4A1Mod(0)||:<color=#00CCFF>지금 여기보다 더 안전한 데는 없으니까 걱정 마. 너희는 AN94와 AR15를 찾는 것에만 집중해.</color>
+NPC-AngeStreet(0)<通讯框>;AK12(2)<Speaker>AK12</Speaker>||:정말 그렇길 바랄게. 거기서 ELID가 나타났다고 소리질러도 지금 여기서는 못 돌아가.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>내 몸은 내가 알아서 지킬 테니까 빨리 이동이나 해.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>;AK12(0)||:<color=#00CCFF>새로운 진전이나 정보가 있으면 곧장 내게 연락하도록. 이상.</color>
+NPC-AngeStreet(0)<Speaker></Speaker><通讯框>||:통신 종료.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:... 정말 괜찮을까요?
+M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:별일 있기야 하겠어?+안젤리아가 문제 없다면 문제 없는 거야.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(2)||:단순명료한 대답이군요.
+AK12(0)<Speaker>AK12</Speaker>||<黑屏1>:지금 리벨리온에 혼잣말만 하는 인형이 두 명인데, 나라도 말수를 줄여야 하지 않겠어?
+()||<BIN>159</BIN><黑屏2>:목표를 향해 계속 전진하는 두 인형은, 수많은 거리와 골목을 지나, 한 광장 앞에 도착했다.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:저기가 그 오페라 극장인가요...
+M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:응, 맞아. 기마병 동상이 있는 광장의 건너편. 바로 저 건물이야.+하지만 이 지형으로 봐선... 정면으로는 못 들어가겠는걸?
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:서둘러 지원하라고 명령받지 않았습니까?
+M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:지각이 결석보단 낫지. 빨리 지원하러 가는 것과 빨리 함정에 뛰어드는 건 전혀 다른 거야.+좁은 길거리는 은엄폐가 쉽지만, 탁 트인 광장은 적이 고지에서 상황 파악은 물론 공간 장악을 하기 쉬워.+철혈이든 하얀 녀석이든, 싸움에서 이긴 쪽은 지금 불청객을 맞이할 준비를 끝마쳤을 거야.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:그럼 어쩌라는 거죠? 여기까지 와서 그냥 눈뜨고 지켜보란 말입니까?
+M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:일단 극장 주변을 정찰하고, 안에서 이상 징후가 있지는 않은지부터 확인하자.+들어가긴 해야 하지만, 가기도 전에 벌집이 되긴 싫잖아?
+AK12(2)<Speaker></Speaker>||:거만하기 짝이 없는 말투였지만, 아주 신중한 계획이었다.
+()||:AK12를 따라 좁은 골목길을 지나, 천천히 우회하며 극장으로 접근했다.+하지만 기나 긴 우회 경로 때문에, M4A1은 결국 참지 못하고 다시 의문을 제기했다.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:지금 AR1... AN94가 걱정되지는 않나요?
+M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:조금은. 그래도 네가 AR15를 걱정하는 만큼은 아니야.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:으으...
+M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:항상 죽고 싶어 안달이 난 너희랑은 다르게, AN94는 자신이 어떤 처지인지, 어떤 역할을 맡았는지 잘 알고 있어.+만약 AR15가 무슨 엉뚱한 짓을 저지르려 해도 걔가 어떻게든 말릴 거야.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:그래서 그렇게 여유가 있었군요...+...잘 생각해보니, 전 계속 함께였던 AR15에 대해서조차 잘 몰라요.+재회하고 나서도 제대로 대화해본 적도 없고요...
+M4A1Mod(3);AK12(0)<Speaker>AK12</Speaker>||:그럼 내 관찰 동호회에 가입할래? 지금이라면 두 번째 회원이 될 수 있어. 회비도 깎아줄게.
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||:...웃으라고 하는 말인가요?
+M4A1Mod(3);AK12(0)<Speaker>AK12</Speaker>||:그래, 그 방어 의식 넘치는 반응도, 내겐 일종의 수확이야.
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||:정말이지... 당신의 태도는 진지한 건지 장난치는 건지 도저히 감을 못 잡겠습니다.
+M4A1Mod(3);AK12(0)<Speaker>AK12</Speaker>||:이래 뵈도 항상 진지하거든?
+M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:아무튼, 사주 경계를 할 테니 통신 채널에 뭐라도 잡히는지 봐봐.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:...아무것도 잡히지 않습니다.+이렇게 가까이 왔는데도, AR15와 AN94의 신호가 전혀 잡히질 않아요.
+M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:철혈이나 하얀 녀석들의 통신이라도 좋으니까 피아식별을 꺼봐.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:근처에서 잡히는 건 긴급 라디오 채널밖에 없습니다.+아직 대피하진 못한 시민들은 대성당으로 대피하라는 것 같습니다.
+M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:어머, 그렇게 대놓고 방송해? 그거 절대 K가 시켜서 하는 일이 아닐 거야.+보아하니, 그리폰의 지휘관도 그렇게 꽉 막힌 사람은 아닌 거 같네.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:네... 그분은 항상 나설 필요가 없는 일도 자발적으로 도와주셨죠.
+M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:그래도 너네 지휘관의 방송 덕분에, 이 안은 어떤 상황인지 알았어.+극장 안에는 매복이 있을 거야. 분명해.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:정말 확신하시나요?
+M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:아직 밖에서 라디오 방송이 나돌고 있다는 건, 폭풍이 아직 이 구역의 통신을 마비시킬 정도로 거세지 않다는 뜻이야.+하지만 이 극장 안은 쥐죽은듯이 조용해. 오히려 이상하지 않아?
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:그렇군요... 그러니까, 극장 안에 신호 차단기가 있다는 뜻이네요.
+AK12(0)<Speaker>AK12</Speaker>||:빙고. 슬슬 리벨리온의 템포를 따라잡을 수 있게 됐네? 기특해라.+아주 힘든 싸움이 될 거야. 준비는 됐어?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:언제든지요.
+()||:두 인형은 마주보고 웃었다.
+()||<SE2>RunStep</SE2>:그리고, 그들의 발걸음은 극장의 현관 너머로 사라졌다.
+()||<黑屏1>:

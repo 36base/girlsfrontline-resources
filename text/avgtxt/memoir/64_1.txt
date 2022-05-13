@@ -1,40 +1,40 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()<Speaker></Speaker>||<BIN>157</BIN><SE1>Gunfight</SE1><BGM>BGM_Danger</BGM><黑屏2><火花>:오염 구역 내, 어느 낡은 건물의 옆.
-XM8(0)<Speaker>XM8</Speaker>||:G36, 내 말 들려?! 더이상은 못 버티겠어! 어떡하지!?
-XM8(0);G36(0)<Speaker>G36</Speaker>||:적의 화력이 너무 거세군요... 후퇴합시다!
-요정()||:경고! 적 원거리 타격 유닛이 접근 중!+앞으로 12초!
-PSG1(0)<Speaker>PSG-1</Speaker>;G36(0)||:조금만 더 시간을 주세요! 금방 조준할 수 있어요!
-PSG1(0);G36(0)<Speaker>G36</Speaker>||:반복합니다, PSG-1! 후퇴하세요!
-G36(0)<Speaker></Speaker>||:......
-XM8(0)<Speaker>XM8</Speaker>;G36(0)||:PSG-1 녀석이 못 들은 척 하는데?!+G36! 너 전장에서 발언권이 영 모자란걸!
-XM8(0);G36(0)<Speaker>G36</Speaker>||<黑屏1>:......
-()<Speaker></Speaker>||<黑屏2>:그 순간.+......탕!
-PSG1(0)<Speaker>PSG-1</Speaker>||<SE1>Gunkill</SE1>:명중이다! 적 보스 처치! 지금 후퇴할――
-PSG1(0)<Speaker>？？</Speaker>||:엎드려!
-PSG1(0)<Speaker>PSG-1</Speaker>||<震屏><黑屏1><BGM>BGM_Empty</BGM>:...?!
-()<Speaker></Speaker>||<BIN>9</BIN><SE1>Explode</SE1><黑屏2><黑屏1><关闭火花>:......
-XM8(0)<Speaker>XM8</Speaker><通讯框>||<BIN>8</BIN><黑屏2><BGM>BGM_Sneak</BGM>:뭐... 그렇게 된 일이야, 카리나 언니.+다른 사람들은 많이 다치지 않았지만, 우리 대장은 좀... 심각한 상태야.
-XM8(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:그래... 후퇴는 순조로웠어?
-XM8(0)<Speaker>XM8</Speaker>;NPC-Kalin(2)||:PSG-1이 날린 그 한 방 덕분에, 적의 지상 부대한테 쫓기지 않고 무사히 후퇴할 수 있었어.+그럼 나중에 봐, 카리나 언니.
-()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:......
-()<Speaker></Speaker>||<BIN>160</BIN><黑点2>:3시간 후, 수복실.
-NPC-Kalin(4)<Speaker>카리나</Speaker>||<BGM>BGM_Room</BGM>:상황이 안 좋네... 이런 날씨로는, 임시 기지에 부품이 도착하기까지 적어도 사흘은 걸리겠어.
-NPC-Kalin(4);G36(0)<Speaker>G36</Speaker>||:카리나 씨...?
-NPC-Kalin(2)<Speaker>카리나</Speaker><Shake>;G36(0)||:아, 재가동 시퀀스 끝났니?
-NPC-Kalin(2);G36(0)<Speaker>G36</Speaker>||:네. 안녕히 주무셨습니까?
-NPC-Kalin(4)<Speaker>카리나</Speaker>;G36(0)||:아하하, 굿 모닝...
-NPC-Kalin(4);G36(0)<Speaker>G36</Speaker>||:무슨 일 있었나요? 많이 곤란해 보이는 표정이십니다만.+제가 도와드릴 일이 있다면, 사양 마시고...
-NPC-Kalin(4)<Speaker>카리나</Speaker>;G36(0)||:어... 그게, G36... 넌 이틀 정도 기지에서 대기해야 할 것 같아.
-NPC-Kalin(4);G36(0)<Speaker>G36</Speaker>||:전략상의 판단입니까?
-NPC-Kalin(4)<Speaker>카리나</Speaker>;G36(0)||:그런 셈이지.+지금 그 왼팔은 움직일 순 있어도, 뭘 드는 건 무리야.
-NPC-Kalin(4);G36(0)<Speaker>G36</Speaker>||:...총도 들 수 없다는 말씀이십니까?
-NPC-Kalin(6)<Speaker>카리나</Speaker>;G36(0)||:맞아, 왼손 관절을 구성하는 나사 몇 개가 없어. 그렇게 움직이는 것만으로도 다행이야.+기상 상황이 너무 나빠서, 총을 다룰 수 있을 정도로 네 손을 고치거나 새 소체로 교체하는 것도, 모레 부품이 도착해야 가능해.
-NPC-Kalin(6);G36(0)<Speaker>G36</Speaker>||:...그렇군요. 그리고, 어째선지 머리도 조금 가벼워진 느낌이군요.
-NPC-Kalin(6)<Speaker>카리나</Speaker>;G36(0)||:응... 네 땋은 머리도 왼손과 함께 끊어졌거든.+당시에는 다들 후퇴하느라 여념이 없어서, 부품을 회수할 여유가 없었대.
-NPC-Kalin(6);G36(0)<Speaker>G36</Speaker>||:알겠습니다...+전장에서 도움이 되지 못한다면, 적어도 짐이 되어선 안 되겠죠...
-NPC-Kalin(6)<Speaker>카리나</Speaker>;G36(0)||:지휘관님도 너무 무리하지는 말라고 하셨어.
-NPC-Kalin(6);G36(0)<Speaker>G36</Speaker>||:네... 명령에 따르겠습니다.
-NPC-Kalin(1)<Speaker>카리나</Speaker>;G36(0)||:휴가라 생각하고 푹 쉬고 있어. 그럼 나 먼저 가볼게.
-G36(0)||<BGM>BGM_Empty</BGM>:또 뵙겠습니다, 카리나 씨. 카리나 씨도 적당한 휴식을 취하면서 업무를 보시기 바랍니다.
-()||:카리나가 수복실을 나섰다.+홀로 남겨진 G36은 침대 옆에 놓인 총을 잠시 바라보다, 왼손으로 잡고 들어보려 했다.+하지만 관절에선 힘겨운 마찰음밖에 나지 않았다. 총은 살짝 흔들리기만 했고, 조금도 들어 올려지지 않았다.
-G36(0)<Speaker>G36</Speaker>||<黑屏1>:재적 상한은 약 3kg인가. 정말 아무것도 못 하는구나...+하지만, 전투 외의 일이라면 나도...
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BIN>157</BIN><SE1>Gunfight</SE1><BGM>BGM_Danger</BGM><黑屏2><火花>:오염 구역 내, 어느 낡은 건물의 옆.
+XM8(0)<Speaker>XM8</Speaker>||:G36, 내 말 들려?! 더이상은 못 버티겠어! 어떡하지!?
+XM8(0);G36(0)<Speaker>G36</Speaker>||:적의 화력이 너무 거세군요... 후퇴합시다!
+요정()||:경고! 적 원거리 타격 유닛이 접근 중!+앞으로 12초!
+PSG1(0)<Speaker>PSG-1</Speaker>;G36(0)||:조금만 더 시간을 주세요! 금방 조준할 수 있어요!
+PSG1(0);G36(0)<Speaker>G36</Speaker>||:반복합니다, PSG-1! 후퇴하세요!
+G36(0)<Speaker></Speaker>||:......
+XM8(0)<Speaker>XM8</Speaker>;G36(0)||:PSG-1 녀석이 못 들은 척 하는데?!+G36! 너 전장에서 발언권이 영 모자란걸!
+XM8(0);G36(0)<Speaker>G36</Speaker>||<黑屏1>:......
+()<Speaker></Speaker>||<黑屏2>:그 순간.+......탕!
+PSG1(0)<Speaker>PSG-1</Speaker>||<SE1>Gunkill</SE1>:명중이다! 적 보스 처치! 지금 후퇴할――
+PSG1(0)<Speaker>？？</Speaker>||:엎드려!
+PSG1(0)<Speaker>PSG-1</Speaker>||<震屏><黑屏1><BGM>BGM_Empty</BGM>:...?!
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>Explode</SE1><黑屏2><黑屏1><关闭火花>:......
+XM8(0)<Speaker>XM8</Speaker><通讯框>||<BIN>8</BIN><黑屏2><BGM>BGM_Sneak</BGM>:뭐... 그렇게 된 일이야, 카리나 언니.+다른 사람들은 많이 다치지 않았지만, 우리 대장은 좀... 심각한 상태야.
+XM8(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:그래... 후퇴는 순조로웠어?
+XM8(0)<Speaker>XM8</Speaker>;NPC-Kalin(2)||:PSG-1이 날린 그 한 방 덕분에, 적의 지상 부대한테 쫓기지 않고 무사히 후퇴할 수 있었어.+그럼 나중에 봐, 카리나 언니.
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:......
+()<Speaker></Speaker>||<BIN>160</BIN><黑点2>:3시간 후, 수복실.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||<BGM>BGM_Room</BGM>:상황이 안 좋네... 이런 날씨로는, 임시 기지에 부품이 도착하기까지 적어도 사흘은 걸리겠어.
+NPC-Kalin(4);G36(0)<Speaker>G36</Speaker>||:카리나 씨...?
+NPC-Kalin(2)<Speaker>카리나</Speaker><Shake>;G36(0)||:아, 재가동 시퀀스 끝났니?
+NPC-Kalin(2);G36(0)<Speaker>G36</Speaker>||:네. 안녕히 주무셨습니까?
+NPC-Kalin(4)<Speaker>카리나</Speaker>;G36(0)||:아하하, 굿 모닝...
+NPC-Kalin(4);G36(0)<Speaker>G36</Speaker>||:무슨 일 있었나요? 많이 곤란해 보이는 표정이십니다만.+제가 도와드릴 일이 있다면, 사양 마시고...
+NPC-Kalin(4)<Speaker>카리나</Speaker>;G36(0)||:어... 그게, G36... 넌 이틀 정도 기지에서 대기해야 할 것 같아.
+NPC-Kalin(4);G36(0)<Speaker>G36</Speaker>||:전략상의 판단입니까?
+NPC-Kalin(4)<Speaker>카리나</Speaker>;G36(0)||:그런 셈이지.+지금 그 왼팔은 움직일 순 있어도, 뭘 드는 건 무리야.
+NPC-Kalin(4);G36(0)<Speaker>G36</Speaker>||:...총도 들 수 없다는 말씀이십니까?
+NPC-Kalin(6)<Speaker>카리나</Speaker>;G36(0)||:맞아, 왼손 관절을 구성하는 나사 몇 개가 없어. 그렇게 움직이는 것만으로도 다행이야.+기상 상황이 너무 나빠서, 총을 다룰 수 있을 정도로 네 손을 고치거나 새 소체로 교체하는 것도, 모레 부품이 도착해야 가능해.
+NPC-Kalin(6);G36(0)<Speaker>G36</Speaker>||:...그렇군요. 그리고, 어째선지 머리도 조금 가벼워진 느낌이군요.
+NPC-Kalin(6)<Speaker>카리나</Speaker>;G36(0)||:응... 네 땋은 머리도 왼손과 함께 끊어졌거든.+당시에는 다들 후퇴하느라 여념이 없어서, 부품을 회수할 여유가 없었대.
+NPC-Kalin(6);G36(0)<Speaker>G36</Speaker>||:알겠습니다...+전장에서 도움이 되지 못한다면, 적어도 짐이 되어선 안 되겠죠...
+NPC-Kalin(6)<Speaker>카리나</Speaker>;G36(0)||:지휘관님도 너무 무리하지는 말라고 하셨어.
+NPC-Kalin(6);G36(0)<Speaker>G36</Speaker>||:네... 명령에 따르겠습니다.
+NPC-Kalin(1)<Speaker>카리나</Speaker>;G36(0)||:휴가라 생각하고 푹 쉬고 있어. 그럼 나 먼저 가볼게.
+G36(0)||<BGM>BGM_Empty</BGM>:또 뵙겠습니다, 카리나 씨. 카리나 씨도 적당한 휴식을 취하면서 업무를 보시기 바랍니다.
+()||:카리나가 수복실을 나섰다.+홀로 남겨진 G36은 침대 옆에 놓인 총을 잠시 바라보다, 왼손으로 잡고 들어보려 했다.+하지만 관절에선 힘겨운 마찰음밖에 나지 않았다. 총은 살짝 흔들리기만 했고, 조금도 들어 올려지지 않았다.
+G36(0)<Speaker>G36</Speaker>||<黑屏1>:재적 상한은 약 3kg인가. 정말 아무것도 못 하는구나...+하지만, 전투 외의 일이라면 나도...

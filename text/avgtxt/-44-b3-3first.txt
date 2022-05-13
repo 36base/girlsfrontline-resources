@@ -1,88 +1,88 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>318</BIN><黑屏2><BGM>BGM_Brain</BGM>:인형들의 철통같은 경호를 받으며, 지휘관은 두 번째로 본 마을의 땅을 밟았다.+지난번에 비해, 거리의 풍경은 확연히 썰렁했다.+텅 빈 좁은 길목에도 그림자 하나 보이지 않아, 지휘관 일행이 오히려 무대의 스포트라이트를 받는 것 같았다.
-()||<黑点1>:
-()<Speaker>지휘관</Speaker>||<黑点2><BIN>262</BIN>:...다 왔다.
-()<Speaker></Speaker>||<SE1>AVG_wind_grass</SE1>:관리소의 대문 앞에 도착한 지휘관은 자신도 모르게 방금 걸어온 길을 뒤돌아봤다.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:마을에... 대체 무슨 일이 생긴 거죠?
-()<Speaker></Speaker>||:마흐리안도 이런 광경은 처음인지, 더욱 걱정스러운 얼굴이었다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:모르겠습니다. 좀... 소름끼치네요.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:오싹오싹해!
-AR15Mod(0)<Speaker>AR15</Speaker>||:...칫.
-()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:AR-15는 총을 들어 도어록을 겨눴다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:드물게 의견도 일치하니까, 빨리 끝내고 나가자고.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:저... 바로 총을 꺼내진 말아 주시겠어요?
-AR15Mod(4)<Speaker>AR15</Speaker>||:싫으면 네가 눈 감던가.
-()<Speaker>지휘관</Speaker>||:여기까지 조용히 왔으니, 충돌은 최대한 피하자.+댄들라이, 문 열 수 있겠어?
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:벌써 열었습니다.
-()<Speaker></Speaker>||<SE1>AVG_21Winter_Open_Light</SE1>:철컥.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Gate_Close</SE1>:문이 스르륵 열렸다.
-()<Speaker>지휘관</Speaker>||:후우...
-()<Speaker></Speaker>||:그 상대하기 까다로운 여인을 다시 떠올린 지휘관은 마음을 단단히 먹었다.
-()<Speaker>지휘관</Speaker>||:...이리야와 마주치면, 소란 일으키기 전에 처리해.
-NPC-Machlian(7)<Speaker>마흐리안</Speaker>||:처리요...!?
-()<Speaker>지휘관</Speaker>||:아, 사살이 아니라 기절시키든지 하란――
-RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님.
-RO635Mod(0)<Speaker>지휘관</Speaker>||:무슨 일이지?
-RO635Mod(0)<Speaker>RO635</Speaker>||:분위기가 심상찮습니다.
-()<Speaker></Speaker>||:열린 문 너머로 드러난 건물 내부는, 밖과 다를 바 없이 전혀 활기가 느껴지지 않았다.+관리소가 이렇게까지 조용해서 마을 전체도 텅 빈 게 아닐까 싶을 정도였다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:그 재수없는 여자가 정말 여기 있을까?
-()<Speaker>지휘관</Speaker>||:폭발물 반응은 있어?
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:잠시만 기다리십시오...
-()<Speaker></Speaker>||:댄들라이가 사뿐사뿐 계단을 올라, 조용히 정신을 집중했다.
-()<Speaker>지휘관</Speaker>||:......
-()<Speaker></Speaker>||:일행 모두가 신경을 곤두세우고, 댄들라이의 모습을 지켜봤다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그런데 갑자기 댄들라이가 움찔하더니, 심각한 얼굴로 계단을 뛰어 올라가 안으로 들어가며 소리쳤다.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:안 돼!
-()<Speaker>지휘관</Speaker>||:?!+모두 쫓아가!
-()<Speaker></Speaker>||:댄들라이의 돌발행동에, 일행의 대부분이 한 박자 늦게 반응했다.+오직 AR-15와 마흐리안만이, 댄들라이가 뛰어들어가는 거의 동시에, 지휘관이 말하기도 전에 쫓아갔다.
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><SE1>RunStep</SE1><BIN>270</BIN>:세 사람의 그림자를 쫓아, 지휘관은 긴 복도를 달려 응접실까지 도달하고 나서야 거기서 걸음을 멈춘 댄들라이를 볼 수 있었다.
-()<Speaker>지휘관</Speaker>||:댄들라이... 대체 무슨 일이야?
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:당신들, 미쳤습니까?
-()<Speaker></Speaker>||:어이가 없다는 표정으로, 댄들라이는 지휘관에게 고개를 돌리지 않고 앞만 바라봤다.
-NPC-Elijah(0)<Speaker>이리야</Speaker>||<BGM>BGM_Empty</BGM>:성녀님... 오오, 성녀님!+성녀님께서 저희를 저버리지 않을 것이라, 믿고 있었습니다...!
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:마흐리안도 경악했다.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||<BGM>BGM_Truth</BGM>:이게... 대체 뭐하는 거예요, 이리야?!
-()<Speaker></Speaker>||:이리야 앞의 흡사 제단처럼 생긴 탁상에, 폭발물이 분명한 상자가 반듯하게 놓여 있었다.+그 상자의 내용물을 본 순간, 그 더없이 익숙한 녹색에 지휘관은 가슴이 철렁했다.+붕괴 입자였다.+이리야는 숫자 버튼을 몇 개 누르고는 살짝 뒤로 물러난 참이었다.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:<color=#A9A9A9>640921...</color>
-()<Speaker>지휘관</Speaker>||:이리야 씨.
-()<Speaker></Speaker>||:나머지 인형들과 함께, 지휘관이 마흐리안 앞으로 나섰다.+그리고 마흐리안을 다시 보게 되어 감격과 기쁨에 눈물을 흘리던 이리야의 얼굴이, 급격하게 일그러졌다.
-NPC-Elijah(0)<Speaker>이리야</Speaker>||:네놈...! 우리 성녀님을 속여 데려간 놈!+성녀님을, 우리를 속인 거짓된 양치기놈이!
-()<Speaker></Speaker>||:모자 베일에 반쯤 가려진 그녀의 얼굴이 흉악해져, 당장이라도 달려들 것만 같았다.
-()<Speaker>지휘관</Speaker>||:이리야 씨!
-NPC-Machlian(7)<Speaker>마흐리안</Speaker>||:이리야!
-()<Speaker></Speaker>||:마흐리안이 소리높여 이름을 부르자, 이리야는 다시 그녀를 보며 진정했다.
-NPC-Elijah(0)<Speaker>이리야</Speaker>||:아아, 성녀님... 우리 성녀님...
-()<Speaker></Speaker>||:맑은 눈물이, 이리야의 눈에서 흘러내렸다.
-NPC-Elijah(0)<Speaker>이리야</Speaker>||:저희는 당신을 잃을 수 없습니다...+당신이 없으면, 저희는...
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:이리야, 제 말을 들어 주세요.+지금 우리는 여러분을 도와드리러 왔어요.+그러니 제발, 제발 진정하세요...
-()<Speaker>지휘관</Speaker>||:저건 뭡니까?+누가 당신에게 저걸 줬죠? 저걸로 뭘 할 셈입니까?
-NPC-Elijah(0)<Speaker>이리야</Speaker>||:......아니, 아니야, 이제 넌 필요 없어!
-()<Speaker></Speaker>||:이리야가 지휘관에게 고개를 돌렸고, 눈빛도 다시 날카로워졌다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:이리야가 손을 폭발물의 작동 버튼 위로 올렸고, 인형들은 잽싸게 총을 들었다.
-AR15Mod(5)<Speaker>AR15</Speaker>||<SE1>AVG_weapon_reload</SE1>:지휘관, 명령을!
-NPC-Machlian(7)<Speaker>마흐리안</Speaker>||:안 돼! 쏘지 말아요!
-NPC-Elijah(0)<Speaker>이리야</Speaker>||:지저분한 쓰레기의 말은 믿지 않아!+너의 도움도, 이제 필요 없어!+우리의 인도자는 패러데우스일지니, 우리의 미래가 있는 곳에 그분께서 손짓하시노라!
-()<Speaker></Speaker>||:완전히 실성한 목소리로, 이리야는 작동 버튼을 눌렀다.
-NPC-Elijah(0)<Speaker>이리야</Speaker>||:배신자! 넌 우리를, 패러데우스를 배신했어!+너는 없어도 돼! 우리가... 우리가, 우리 손으로 새로운 성녀를 창조하겠다!
-NPC-Machlian(7)<Speaker>마흐리안</Speaker>||:이리야...!
-()<Speaker></Speaker>||:마흐리안이 눈을 크게 떴다.
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_21Winter_Ink_Drop_Single</SE1>:퐁.+폭발물이 맥 빠지는 우스꽝스런 소리를 냈다.+한 순간, 그 자리의 모두가 폭발물이 고장난 게 아닌가 의심했다.+하지만 오직 한 사람, 댄들라이만은 표정이 더욱 심각해졌다.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||<BGM>BGM_Danger</BGM>:즉시 철수해야 합니다!+붕괴 입자가 확산됩니다, 저건 폭발물이 아니라 더티밤입니다!+저들이 스스로를 감염시키려 합니다!
-()<Speaker>지휘관</Speaker>||:제기랄!
-RO635Mod(0)<Speaker>RO635</Speaker>||<SE1>AVG_tele_disconnect</SE1>:지휘관님! 마을에서 연쇄 폭발 반응이라는 그리폰 소대의 보고입니다!+모든 마을 주민들이 소형 폭탄으로 자폭하고 있어요!+그리폰 소대만으로는 다 해체할 수 없습니다!
-()<Speaker>지휘관</Speaker>||<SE1>AVG_Punch_Hit</SE1>:엎친 데 덮친 격이네...
-()||<黑屏1>:
-NPC-Elijah(0)<Speaker>이리야</Speaker>||<黑屏2><common_effect>%%code=changjing_huafen%%</common_effect>:하하하하... 아하하하하하!!
-()<Speaker></Speaker>||:서서히 퍼지는 연황색 안개를 맞으며, 이리야는 양팔을 벌리고 하늘을 향해 광소했다.
-NPC-Elijah(0)<Speaker>이리야</Speaker>||:신의 기적이... 이것이 신의 기적이로다!!!
-NPC-Machlian(7)<Speaker>마흐리안</Speaker>||:이리야! 안 돼요!!
-()<Speaker></Speaker>||:이리야의 피부가 눈에 보이는 속도로 부식되어 가는 것을 보며, 마흐리안은 주저앉아 눈물을 흘리며 절규했다.
-()<Speaker>지휘관</Speaker>||:일어나, 마흐리안!
-()<Speaker></Speaker>||:지휘관이 마흐리안을 억지로 일으켜 세웠다.
-()<Speaker>지휘관</Speaker>||:아직 다른 사람을 구할 수 있어!
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......!
-AR15Mod(5)<Speaker>AR15</Speaker>||:위험하니까 얼른 움직여요!
-()<Speaker></Speaker>||<SE1>RunStep</SE1>:......
-()||<黑点1><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>318</BIN><黑屏2><BGM>BGM_Brain</BGM>:인형들의 철통같은 경호를 받으며, 지휘관은 두 번째로 본 마을의 땅을 밟았다.+지난번에 비해, 거리의 풍경은 확연히 썰렁했다.+텅 빈 좁은 길목에도 그림자 하나 보이지 않아, 지휘관 일행이 오히려 무대의 스포트라이트를 받는 것 같았다.
+()||<黑点1>:
+()<Speaker>지휘관</Speaker>||<黑点2><BIN>262</BIN>:...다 왔다.
+()<Speaker></Speaker>||<SE1>AVG_wind_grass</SE1>:관리소의 대문 앞에 도착한 지휘관은 자신도 모르게 방금 걸어온 길을 뒤돌아봤다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:마을에... 대체 무슨 일이 생긴 거죠?
+()<Speaker></Speaker>||:마흐리안도 이런 광경은 처음인지, 더욱 걱정스러운 얼굴이었다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:모르겠습니다. 좀... 소름끼치네요.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:오싹오싹해!
+AR15Mod(0)<Speaker>AR15</Speaker>||:...칫.
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:AR-15는 총을 들어 도어록을 겨눴다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:드물게 의견도 일치하니까, 빨리 끝내고 나가자고.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:저... 바로 총을 꺼내진 말아 주시겠어요?
+AR15Mod(4)<Speaker>AR15</Speaker>||:싫으면 네가 눈 감던가.
+()<Speaker>지휘관</Speaker>||:여기까지 조용히 왔으니, 충돌은 최대한 피하자.+댄들라이, 문 열 수 있겠어?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:벌써 열었습니다.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Open_Light</SE1>:철컥.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Gate_Close</SE1>:문이 스르륵 열렸다.
+()<Speaker>지휘관</Speaker>||:후우...
+()<Speaker></Speaker>||:그 상대하기 까다로운 여인을 다시 떠올린 지휘관은 마음을 단단히 먹었다.
+()<Speaker>지휘관</Speaker>||:...이리야와 마주치면, 소란 일으키기 전에 처리해.
+NPC-Machlian(7)<Speaker>마흐리안</Speaker>||:처리요...!?
+()<Speaker>지휘관</Speaker>||:아, 사살이 아니라 기절시키든지 하란――
+RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님.
+RO635Mod(0)<Speaker>지휘관</Speaker>||:무슨 일이지?
+RO635Mod(0)<Speaker>RO635</Speaker>||:분위기가 심상찮습니다.
+()<Speaker></Speaker>||:열린 문 너머로 드러난 건물 내부는, 밖과 다를 바 없이 전혀 활기가 느껴지지 않았다.+관리소가 이렇게까지 조용해서 마을 전체도 텅 빈 게 아닐까 싶을 정도였다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:그 재수없는 여자가 정말 여기 있을까?
+()<Speaker>지휘관</Speaker>||:폭발물 반응은 있어?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:잠시만 기다리십시오...
+()<Speaker></Speaker>||:댄들라이가 사뿐사뿐 계단을 올라, 조용히 정신을 집중했다.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:일행 모두가 신경을 곤두세우고, 댄들라이의 모습을 지켜봤다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그런데 갑자기 댄들라이가 움찔하더니, 심각한 얼굴로 계단을 뛰어 올라가 안으로 들어가며 소리쳤다.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:안 돼!
+()<Speaker>지휘관</Speaker>||:?!+모두 쫓아가!
+()<Speaker></Speaker>||:댄들라이의 돌발행동에, 일행의 대부분이 한 박자 늦게 반응했다.+오직 AR-15와 마흐리안만이, 댄들라이가 뛰어들어가는 거의 동시에, 지휘관이 말하기도 전에 쫓아갔다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><SE1>RunStep</SE1><BIN>270</BIN>:세 사람의 그림자를 쫓아, 지휘관은 긴 복도를 달려 응접실까지 도달하고 나서야 거기서 걸음을 멈춘 댄들라이를 볼 수 있었다.
+()<Speaker>지휘관</Speaker>||:댄들라이... 대체 무슨 일이야?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:당신들, 미쳤습니까?
+()<Speaker></Speaker>||:어이가 없다는 표정으로, 댄들라이는 지휘관에게 고개를 돌리지 않고 앞만 바라봤다.
+NPC-Elijah(0)<Speaker>이리야</Speaker>||<BGM>BGM_Empty</BGM>:성녀님... 오오, 성녀님!+성녀님께서 저희를 저버리지 않을 것이라, 믿고 있었습니다...!
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:마흐리안도 경악했다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||<BGM>BGM_Truth</BGM>:이게... 대체 뭐하는 거예요, 이리야?!
+()<Speaker></Speaker>||:이리야 앞의 흡사 제단처럼 생긴 탁상에, 폭발물이 분명한 상자가 반듯하게 놓여 있었다.+그 상자의 내용물을 본 순간, 그 더없이 익숙한 녹색에 지휘관은 가슴이 철렁했다.+붕괴 입자였다.+이리야는 숫자 버튼을 몇 개 누르고는 살짝 뒤로 물러난 참이었다.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:<color=#A9A9A9>640921...</color>
+()<Speaker>지휘관</Speaker>||:이리야 씨.
+()<Speaker></Speaker>||:나머지 인형들과 함께, 지휘관이 마흐리안 앞으로 나섰다.+그리고 마흐리안을 다시 보게 되어 감격과 기쁨에 눈물을 흘리던 이리야의 얼굴이, 급격하게 일그러졌다.
+NPC-Elijah(0)<Speaker>이리야</Speaker>||:네놈...! 우리 성녀님을 속여 데려간 놈!+성녀님을, 우리를 속인 거짓된 양치기놈이!
+()<Speaker></Speaker>||:모자 베일에 반쯤 가려진 그녀의 얼굴이 흉악해져, 당장이라도 달려들 것만 같았다.
+()<Speaker>지휘관</Speaker>||:이리야 씨!
+NPC-Machlian(7)<Speaker>마흐리안</Speaker>||:이리야!
+()<Speaker></Speaker>||:마흐리안이 소리높여 이름을 부르자, 이리야는 다시 그녀를 보며 진정했다.
+NPC-Elijah(0)<Speaker>이리야</Speaker>||:아아, 성녀님... 우리 성녀님...
+()<Speaker></Speaker>||:맑은 눈물이, 이리야의 눈에서 흘러내렸다.
+NPC-Elijah(0)<Speaker>이리야</Speaker>||:저희는 당신을 잃을 수 없습니다...+당신이 없으면, 저희는...
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:이리야, 제 말을 들어 주세요.+지금 우리는 여러분을 도와드리러 왔어요.+그러니 제발, 제발 진정하세요...
+()<Speaker>지휘관</Speaker>||:저건 뭡니까?+누가 당신에게 저걸 줬죠? 저걸로 뭘 할 셈입니까?
+NPC-Elijah(0)<Speaker>이리야</Speaker>||:......아니, 아니야, 이제 넌 필요 없어!
+()<Speaker></Speaker>||:이리야가 지휘관에게 고개를 돌렸고, 눈빛도 다시 날카로워졌다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:이리야가 손을 폭발물의 작동 버튼 위로 올렸고, 인형들은 잽싸게 총을 들었다.
+AR15Mod(5)<Speaker>AR15</Speaker>||<SE1>AVG_weapon_reload</SE1>:지휘관, 명령을!
+NPC-Machlian(7)<Speaker>마흐리안</Speaker>||:안 돼! 쏘지 말아요!
+NPC-Elijah(0)<Speaker>이리야</Speaker>||:지저분한 쓰레기의 말은 믿지 않아!+너의 도움도, 이제 필요 없어!+우리의 인도자는 패러데우스일지니, 우리의 미래가 있는 곳에 그분께서 손짓하시노라!
+()<Speaker></Speaker>||:완전히 실성한 목소리로, 이리야는 작동 버튼을 눌렀다.
+NPC-Elijah(0)<Speaker>이리야</Speaker>||:배신자! 넌 우리를, 패러데우스를 배신했어!+너는 없어도 돼! 우리가... 우리가, 우리 손으로 새로운 성녀를 창조하겠다!
+NPC-Machlian(7)<Speaker>마흐리안</Speaker>||:이리야...!
+()<Speaker></Speaker>||:마흐리안이 눈을 크게 떴다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_21Winter_Ink_Drop_Single</SE1>:퐁.+폭발물이 맥 빠지는 우스꽝스런 소리를 냈다.+한 순간, 그 자리의 모두가 폭발물이 고장난 게 아닌가 의심했다.+하지만 오직 한 사람, 댄들라이만은 표정이 더욱 심각해졌다.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||<BGM>BGM_Danger</BGM>:즉시 철수해야 합니다!+붕괴 입자가 확산됩니다, 저건 폭발물이 아니라 더티밤입니다!+저들이 스스로를 감염시키려 합니다!
+()<Speaker>지휘관</Speaker>||:제기랄!
+RO635Mod(0)<Speaker>RO635</Speaker>||<SE1>AVG_tele_disconnect</SE1>:지휘관님! 마을에서 연쇄 폭발 반응이라는 그리폰 소대의 보고입니다!+모든 마을 주민들이 소형 폭탄으로 자폭하고 있어요!+그리폰 소대만으로는 다 해체할 수 없습니다!
+()<Speaker>지휘관</Speaker>||<SE1>AVG_Punch_Hit</SE1>:엎친 데 덮친 격이네...
+()||<黑屏1>:
+NPC-Elijah(0)<Speaker>이리야</Speaker>||<黑屏2><common_effect>%%code=changjing_huafen%%</common_effect>:하하하하... 아하하하하하!!
+()<Speaker></Speaker>||:서서히 퍼지는 연황색 안개를 맞으며, 이리야는 양팔을 벌리고 하늘을 향해 광소했다.
+NPC-Elijah(0)<Speaker>이리야</Speaker>||:신의 기적이... 이것이 신의 기적이로다!!!
+NPC-Machlian(7)<Speaker>마흐리안</Speaker>||:이리야! 안 돼요!!
+()<Speaker></Speaker>||:이리야의 피부가 눈에 보이는 속도로 부식되어 가는 것을 보며, 마흐리안은 주저앉아 눈물을 흘리며 절규했다.
+()<Speaker>지휘관</Speaker>||:일어나, 마흐리안!
+()<Speaker></Speaker>||:지휘관이 마흐리안을 억지로 일으켜 세웠다.
+()<Speaker>지휘관</Speaker>||:아직 다른 사람을 구할 수 있어!
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......!
+AR15Mod(5)<Speaker>AR15</Speaker>||:위험하니까 얼른 움직여요!
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:......
+()||<黑点1><BIN>10</BIN>:

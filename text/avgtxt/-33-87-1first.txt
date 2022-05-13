@@ -1,18 +1,18 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>202</BIN><BGM>BGM_Pervaded</BGM>:그리폰 임시 지휘부.
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:정말 많은 사람이 저희를 주시하는 것 같네요...
-지휘관()||:그래, 그러니 우리도 더 많은 정보가 필요해.
-()||<SE1>AVG_tele_connect</SE1>:삐이——
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:응? WAVE에서 또 뭔가를 보낸 걸까요?
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>오호라, 역시 이쪽으로 흘러 들어갔군.</color>
-NPC-Havel(0);NPC-Kalin(4)<Speaker>카리나</Speaker>||:꺄앗! 왜 통신이 멋대로 켜졌지?!
-NPC-Havel(0)<Speaker>하벨</Speaker>;NPC-Kalin(4)||:<color=#00CCFF>뭘 그리 놀라시나, 그리폰 제군들? 몰래 이상한 일이라도 꾸미고 있었나?</color>
-NPC-Havel(0);NPC-Kalin(4)<Speaker>카리나</Speaker>||:하벨씨가 갑자기 강제 통신을 켰으니까 놀랐죠!
-NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>하하하, 미안하네 카리나 양. 일단 탈린에서 무사히 벗어난 것부터 축하하지.</color>+<color=#00CCFF>다 어느 정도 예상한 일이긴 하지만, 정말로 해내서 참 기쁘군.</color>
-지휘관()||:겨우 축하 한마디 하자고 이렇게 갑작스레 연락하진 않으셨겠죠?
-NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>확실히 갑자기 연락한 거긴 하네만... 뭐, 딱히 신경쓸 거 없어. 다 그 양반이 자네들을 마음에 들어한다는 뜻이니까.</color>+<color=#00CCFF>그리고 이왕 연결된 김에, 내 개인적인 조언을 하나 해줌세.</color>
-지휘관()||:말씀하시죠.
-NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>자네가 결국 페르시카의 부탁을 들어준 건 알고 있네. 그러니 했던 말을 또 반복하는 건 시간만 낭비하는 짓이겠지.</color>+<color=#00CCFF>다만... 페르시카의 아이가 가지고 온 물건을 절대 안전국에게 들키지 말게나.</color>+<color=#00CCFF>그 물건은... 위기의 순간에서 자네들을 구해줄 비장의 카드가 될 수도 있지만, 반대로 방심하는 순간 뒤통수를 칠 수도 있으니까.</color>
-지휘관()||:......
-NPC-Havel(0)<Speaker>하벨</Speaker>||<黑屏1>:<color=#00CCFF>할 말은 이상일세. 앞으로도 행운이 자네들과 함께하기를 빌지. 다시 자네와 직접 만나서 대화를 하고 싶구먼.</color>+<color=#00CCFF>...자네가 살아서 돌아온다면 말이지.</color>
-()||<黑屏2><黑屏1><BIN>9</BIN>:[연쇄분열 END]
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>202</BIN><BGM>BGM_Pervaded</BGM>:그리폰 임시 지휘부.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:정말 많은 사람이 저희를 주시하는 것 같네요...
+지휘관()||:그래, 그러니 우리도 더 많은 정보가 필요해.
+()||<SE1>AVG_tele_connect</SE1>:삐이——
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:응? WAVE에서 또 뭔가를 보낸 걸까요?
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>오호라, 역시 이쪽으로 흘러 들어갔군.</color>
+NPC-Havel(0);NPC-Kalin(4)<Speaker>카리나</Speaker>||:꺄앗! 왜 통신이 멋대로 켜졌지?!
+NPC-Havel(0)<Speaker>하벨</Speaker>;NPC-Kalin(4)||:<color=#00CCFF>뭘 그리 놀라시나, 그리폰 제군들? 몰래 이상한 일이라도 꾸미고 있었나?</color>
+NPC-Havel(0);NPC-Kalin(4)<Speaker>카리나</Speaker>||:하벨씨가 갑자기 강제 통신을 켰으니까 놀랐죠!
+NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>하하하, 미안하네 카리나 양. 일단 탈린에서 무사히 벗어난 것부터 축하하지.</color>+<color=#00CCFF>다 어느 정도 예상한 일이긴 하지만, 정말로 해내서 참 기쁘군.</color>
+지휘관()||:겨우 축하 한마디 하자고 이렇게 갑작스레 연락하진 않으셨겠죠?
+NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>확실히 갑자기 연락한 거긴 하네만... 뭐, 딱히 신경쓸 거 없어. 다 그 양반이 자네들을 마음에 들어한다는 뜻이니까.</color>+<color=#00CCFF>그리고 이왕 연결된 김에, 내 개인적인 조언을 하나 해줌세.</color>
+지휘관()||:말씀하시죠.
+NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>자네가 결국 페르시카의 부탁을 들어준 건 알고 있네. 그러니 했던 말을 또 반복하는 건 시간만 낭비하는 짓이겠지.</color>+<color=#00CCFF>다만... 페르시카의 아이가 가지고 온 물건을 절대 안전국에게 들키지 말게나.</color>+<color=#00CCFF>그 물건은... 위기의 순간에서 자네들을 구해줄 비장의 카드가 될 수도 있지만, 반대로 방심하는 순간 뒤통수를 칠 수도 있으니까.</color>
+지휘관()||:......
+NPC-Havel(0)<Speaker>하벨</Speaker>||<黑屏1>:<color=#00CCFF>할 말은 이상일세. 앞으로도 행운이 자네들과 함께하기를 빌지. 다시 자네와 직접 만나서 대화를 하고 싶구먼.</color>+<color=#00CCFF>...자네가 살아서 돌아온다면 말이지.</color>
+()||<黑屏2><黑屏1><BIN>9</BIN>:[연쇄분열 END]

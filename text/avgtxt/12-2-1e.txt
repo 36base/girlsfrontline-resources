@@ -1,45 +1,45 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>202</BIN><黑屏2>:임시 지휘실.
-()<Speaker>지휘관</Speaker>||<BGM>BGM_Room</BGM>:잠수함 기지에서 또 주의할 사항은 있나?
-NytoIsomer(4)<Speaker>단델라이</Speaker>||:해안선의 포탑 외에, 기지의 지하 2층, 3층을 주의해야 합니다.
-RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:그 지하 구역들 말이야?
-RO635(0);NytoIsomer(4)<Speaker>단델라이</Speaker>||:네, 그곳은 이미 패러데우스가 이성질체를 제조하는 연구 기지로 개조됐을 가능성이 높습니다.+만약 그곳에 니토가 여러 명 존재한다면, 제압하기가 매우 어려울 겁니다.
-RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:니토가 여러 명... 일반 제대로는 니토를 상대로 손실이 클 텐데요...
-RO635(0);NytoIsomer(4)<Speaker>단델라이</Speaker>||:그리고, 지하 3층은 출입 가능한 통로는 오직 지상과 연결된 엘리베이터뿐입니다.+이 구역은 본디 유적을 봉쇄하기 위한 곳이기에, 이미 영구적으로 봉쇄된 상태일 겁니다. 적어도 제가 본 기억 속에서는 봉쇄된 상태였습니다.+하지만 현재 철혈이 개입한 이상, 어떠한 상황일지는 알 수 없습니다.
-()<Speaker>지휘관</Speaker>||:대체 왜 철혈이 그곳에 관심을 가진 거지?
-RO635(0);NytoIsomer(4)<Speaker>단델라이</Speaker>||:그곳은 "스타피쉬"라는 이름의 시설로, 과거 스피라에나 시스템을 탑재하기 위한 대형 시스템이 존재했습니다.+베오그라드에 있었던 그 스피라에나 노드의 출처는, 아마 이곳일 겁니다.
-()<Speaker>지휘관</Speaker>||:그 스피라에나 노드의 출처라... 그렇다면 왜 철혈의 엘더 브레인이 이곳에 관심을 보였는지도 이해가 되는군.
-RO635(0);NytoIsomer(4)<Speaker>단델라이</Speaker>||:그리고 나비 사건의 원인도 이곳에 얽혀 있죠. 그래서 그녀가 이번 작전에 참여한 겁니다.+그렇지, 특수 소대의 대장?
-()<Speaker>지휘관</Speaker>||:UMP45 말이야?+지금 여기에 없는데.
-RO635(0);NytoIsomer(4)<Speaker>단델라이</Speaker>||:괜찮습니다, 아까부터 다 듣고 있을 테니까요.
-RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:스피라에나 노드... 철혈이 지하 3층에 관심을 가질 요소도 시뮬레이션에 변수로 추가했습니다.+단델라이, 다른 추가할 만한 정보는 없어?
-RO635(0);NytoIsomer(4)<Speaker>단델라이</Speaker>||:지형과 시각 정보는 이미 전부 공유했습니다. 추가로, 이곳의 고지와 이 건물들이 연결된 구역도 주의해야 합니다. 매복하기 안성맞춤인 곳입니다.+그 외에는... 딱히 유용한 정보는 없군요.
-()<Speaker>지휘관</Speaker>||:음, 주변의 지형과 기지 내부의 구조를 파악한 것만으로도 굉장한 도움이 됐어.+카리나, 지도 작성할 때 해당 정보들을 반드시 강조해. 작전 제대들이 놓치지 않도록.
-RO635(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:알겠습니다, 지금 각 항목에 주석을 다는 중이에요.
-RO635(0)<Speaker>RO635</Speaker>||:추가 정보가 없다면, 이상의 정보를 바탕으로 예비 방안을 작성하겠습니다.
-RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:최소한 5가지는 연산해 주세요. 이번 작전은 미지수가 너무 많아요. 어떤 위험이 도사리고 있을지 알 수 없습니다.
-RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||:네, 위험 지역에서의 예상 손실도 늘려야겠네요. 하지만 역시 시간이 부족해서, 만약 임무에 실패했을 때를 위한 퇴각 방안을 연산할 수가 없습니다.
-()<Speaker>지휘관</Speaker>||:괜찮아... 기지를 제압할 수만 있다면, 퇴각할 필요도 없어지니까.
-RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||:그러길 바랄게요...+M4 씨, 시뮬레이션 좀 도와주시겠어요?+될 수 있는 대로 많은 변수를 고려하고 싶어요.
-RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:물론이죠. 레벨 2 플랫폼으로 들어가면 되나요?
-RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||:아뇨, 그냥 연산만 지원해 주시면 돼요. 나머지는 저 혼자서도 충분해요.
-NytoIsomer(4)<Speaker>단델라이</Speaker>;M4A1Mod(0)||:나도 도와줄까?
-NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||:아뇨, 당신은 나중에 기지 내부로 진입할 때 제 곁에 꼭 붙어 있기나 하세요.+보는 눈이 없을 때 당신이 무슨 짓을 할지 모르니 안심이 안 돼요.
-NytoIsomer(4)<Speaker>단델라이</Speaker>;M4A1Mod(0)||:걱정 마, 꼭 붙어 있을게. 예전처럼 친밀하게.
-NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||:......
-NytoIsomer(4)<Speaker>단델라이</Speaker>||:잡담은 이쯤 하고...+지휘관님, 지도가 작성되는 동안 루니샤의 나머지 기억을 보시겠습니까?
-()<Speaker>지휘관</Speaker>||:어... 그럴 시간이 있을까?
-NytoIsomer(4)<Speaker>단델라이</Speaker>||:아까 루니샤도 모두가 자신을 더 깊게 알아주었으면 한다고 했잖습니까.+본인이 희망하는 이상, 철저히 알아야 하지 않을까요?
-()<Speaker>지휘관</Speaker>||:하지만 RO도 지금은 시뮬레이션 중이고, 다른 애들도 아직 안 돌아왔는데.
-RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:괜찮아요, 시뮬레이션은 백그라운드로 처리할 수 있어요.+그리고 저도 M4 씨와 AR-15가 어떻게 거기서 탈출했는지 엄청 궁금해요.
-AR15Mod(0)<Speaker>AR15</Speaker>;NytoIsomer(4)||:지휘관, 지금 돌아왔습니다.
-NytoIsomer(4)<Speaker>단델라이</Speaker>||:관객이 다 모였군요.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:지금 M4랑 AR-15의 대모험을 마저 본다고 들은 거 같은데?
-RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:대모험은 무슨...+자, 네 바나나. 다 썼으니까 돌려줄게.
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:바나나~! 역시 너라면 해낼 거라 믿었어!
-RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:...몰래 터뜨려 버리고 싶었지만.
-()<Speaker>지휘관</Speaker>||:작전 수고했어. 404 소대는?
-AR15Mod(0)<Speaker>AR15</Speaker>;M4 SOPMOD IIMod(0)||:정비부터 끝내고 온다고 했어요.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그럼 그동안 우리끼리 마저 다 보면 되겠네!+그치 그치 M4!
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑点1>:저... 정말 어쩔 수 없네요...+그럼, 그때의 일을 마저 보도록 해요.
-()||<黑点2><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>202</BIN><黑屏2>:임시 지휘실.
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Room</BGM>:잠수함 기지에서 또 주의할 사항은 있나?
+NytoIsomer(4)<Speaker>단델라이</Speaker>||:해안선의 포탑 외에, 기지의 지하 2층, 3층을 주의해야 합니다.
+RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:그 지하 구역들 말이야?
+RO635(0);NytoIsomer(4)<Speaker>단델라이</Speaker>||:네, 그곳은 이미 패러데우스가 이성질체를 제조하는 연구 기지로 개조됐을 가능성이 높습니다.+만약 그곳에 니토가 여러 명 존재한다면, 제압하기가 매우 어려울 겁니다.
+RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:니토가 여러 명... 일반 제대로는 니토를 상대로 손실이 클 텐데요...
+RO635(0);NytoIsomer(4)<Speaker>단델라이</Speaker>||:그리고, 지하 3층은 출입 가능한 통로는 오직 지상과 연결된 엘리베이터뿐입니다.+이 구역은 본디 유적을 봉쇄하기 위한 곳이기에, 이미 영구적으로 봉쇄된 상태일 겁니다. 적어도 제가 본 기억 속에서는 봉쇄된 상태였습니다.+하지만 현재 철혈이 개입한 이상, 어떠한 상황일지는 알 수 없습니다.
+()<Speaker>지휘관</Speaker>||:대체 왜 철혈이 그곳에 관심을 가진 거지?
+RO635(0);NytoIsomer(4)<Speaker>단델라이</Speaker>||:그곳은 "스타피쉬"라는 이름의 시설로, 과거 스피라에나 시스템을 탑재하기 위한 대형 시스템이 존재했습니다.+베오그라드에 있었던 그 스피라에나 노드의 출처는, 아마 이곳일 겁니다.
+()<Speaker>지휘관</Speaker>||:그 스피라에나 노드의 출처라... 그렇다면 왜 철혈의 엘더 브레인이 이곳에 관심을 보였는지도 이해가 되는군.
+RO635(0);NytoIsomer(4)<Speaker>단델라이</Speaker>||:그리고 나비 사건의 원인도 이곳에 얽혀 있죠. 그래서 그녀가 이번 작전에 참여한 겁니다.+그렇지, 특수 소대의 대장?
+()<Speaker>지휘관</Speaker>||:UMP45 말이야?+지금 여기에 없는데.
+RO635(0);NytoIsomer(4)<Speaker>단델라이</Speaker>||:괜찮습니다, 아까부터 다 듣고 있을 테니까요.
+RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:스피라에나 노드... 철혈이 지하 3층에 관심을 가질 요소도 시뮬레이션에 변수로 추가했습니다.+단델라이, 다른 추가할 만한 정보는 없어?
+RO635(0);NytoIsomer(4)<Speaker>단델라이</Speaker>||:지형과 시각 정보는 이미 전부 공유했습니다. 추가로, 이곳의 고지와 이 건물들이 연결된 구역도 주의해야 합니다. 매복하기 안성맞춤인 곳입니다.+그 외에는... 딱히 유용한 정보는 없군요.
+()<Speaker>지휘관</Speaker>||:음, 주변의 지형과 기지 내부의 구조를 파악한 것만으로도 굉장한 도움이 됐어.+카리나, 지도 작성할 때 해당 정보들을 반드시 강조해. 작전 제대들이 놓치지 않도록.
+RO635(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:알겠습니다, 지금 각 항목에 주석을 다는 중이에요.
+RO635(0)<Speaker>RO635</Speaker>||:추가 정보가 없다면, 이상의 정보를 바탕으로 예비 방안을 작성하겠습니다.
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:최소한 5가지는 연산해 주세요. 이번 작전은 미지수가 너무 많아요. 어떤 위험이 도사리고 있을지 알 수 없습니다.
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||:네, 위험 지역에서의 예상 손실도 늘려야겠네요. 하지만 역시 시간이 부족해서, 만약 임무에 실패했을 때를 위한 퇴각 방안을 연산할 수가 없습니다.
+()<Speaker>지휘관</Speaker>||:괜찮아... 기지를 제압할 수만 있다면, 퇴각할 필요도 없어지니까.
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||:그러길 바랄게요...+M4 씨, 시뮬레이션 좀 도와주시겠어요?+될 수 있는 대로 많은 변수를 고려하고 싶어요.
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:물론이죠. 레벨 2 플랫폼으로 들어가면 되나요?
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)||:아뇨, 그냥 연산만 지원해 주시면 돼요. 나머지는 저 혼자서도 충분해요.
+NytoIsomer(4)<Speaker>단델라이</Speaker>;M4A1Mod(0)||:나도 도와줄까?
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||:아뇨, 당신은 나중에 기지 내부로 진입할 때 제 곁에 꼭 붙어 있기나 하세요.+보는 눈이 없을 때 당신이 무슨 짓을 할지 모르니 안심이 안 돼요.
+NytoIsomer(4)<Speaker>단델라이</Speaker>;M4A1Mod(0)||:걱정 마, 꼭 붙어 있을게. 예전처럼 친밀하게.
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||:......
+NytoIsomer(4)<Speaker>단델라이</Speaker>||:잡담은 이쯤 하고...+지휘관님, 지도가 작성되는 동안 루니샤의 나머지 기억을 보시겠습니까?
+()<Speaker>지휘관</Speaker>||:어... 그럴 시간이 있을까?
+NytoIsomer(4)<Speaker>단델라이</Speaker>||:아까 루니샤도 모두가 자신을 더 깊게 알아주었으면 한다고 했잖습니까.+본인이 희망하는 이상, 철저히 알아야 하지 않을까요?
+()<Speaker>지휘관</Speaker>||:하지만 RO도 지금은 시뮬레이션 중이고, 다른 애들도 아직 안 돌아왔는데.
+RO635(0)<Speaker>RO635</Speaker>;NytoIsomer(4)||:괜찮아요, 시뮬레이션은 백그라운드로 처리할 수 있어요.+그리고 저도 M4 씨와 AR-15가 어떻게 거기서 탈출했는지 엄청 궁금해요.
+AR15Mod(0)<Speaker>AR15</Speaker>;NytoIsomer(4)||:지휘관, 지금 돌아왔습니다.
+NytoIsomer(4)<Speaker>단델라이</Speaker>||:관객이 다 모였군요.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:지금 M4랑 AR-15의 대모험을 마저 본다고 들은 거 같은데?
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:대모험은 무슨...+자, 네 바나나. 다 썼으니까 돌려줄게.
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:바나나~! 역시 너라면 해낼 거라 믿었어!
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:...몰래 터뜨려 버리고 싶었지만.
+()<Speaker>지휘관</Speaker>||:작전 수고했어. 404 소대는?
+AR15Mod(0)<Speaker>AR15</Speaker>;M4 SOPMOD IIMod(0)||:정비부터 끝내고 온다고 했어요.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그럼 그동안 우리끼리 마저 다 보면 되겠네!+그치 그치 M4!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑点1>:저... 정말 어쩔 수 없네요...+그럼, 그때의 일을 마저 보도록 해요.
+()||<黑点2><BIN>10</BIN>:

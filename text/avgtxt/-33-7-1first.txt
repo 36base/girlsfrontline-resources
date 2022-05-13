@@ -1,78 +1,78 @@
-()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||<BGM>BGM_Pervaded</BGM><黑屏2><BIN>55</BIN>:탈린시 외곽, 발전소 구역.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:상황은 어때, 9?
-UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>영차... 진입했어, 언니.</color>+<color=#00CCFF>예상보다 너무 쉬운걸? 하수도에서 방해도 별로 없었어.</color>+<color=#00CCFF>이대로 이 길을 쭉 따라가면, 발전소까지 가면서 방어 시설도 대부분 피해 갈 수 있어.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:좋았어, 우리도 따라가자, 416. 후방 경계는 너랑 G11한테 맡길게.
-HK416Mod(0)<Speaker>HK416</Speaker>||:신형 소체까지 받았는데, 여전히 네 뒷바라지나 하라는 거네...
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:바로 그거야. 가자.
-HK416Mod(0)<Speaker>HK416</Speaker>||:쳇... 야, 얼른 안 일어나!?
-G11(3)<Speaker>G11</Speaker><Shake>||:쿠우울... 컥?!+아야야... 왜 갑자기 때리고 난리야...? 오늘 일요일이잖아...
-HK416Mod(0)<Speaker>HK416</Speaker>||<黑点1>:이 잠탱이가 아직도 잠이 덜 깼나... 잔소리할 시간 없으니까 빨리 움직이기나 해!
-()||<黑点2><BIN>167</BIN>:UMP9이 미리 정찰한 통로를 따라서, UMP45와 HK416, 그리고 그녀에게 질질 끌려 오는 G11은 발전소로 접근했다.
-UMP9Mod(0)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>이제 다 왔어?</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:조금만 더 가면 시스템 연결 포트야.
-()||<BGM>BGM_Empty</BGM><SE2>Gunfight</SE2>:바로 그때, 통로 반대편에서 소음기를 거치지 않은 총성이 울려퍼졌다.
-UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||<BGM>BGM_Danger</BGM>:<color=#00CCFF>...들켰네. 거기서 기다려! 무인기들이 출구 쪽에 진을 치고 있어!</color>
-()||<SE1>Gunfight</SE1>:폭발과 진동을 동반한 총알 세례가 쏟아지는 것은 순식간이었다.
-UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>이거 일이 귀찮게 됐네. 자동 포탑에 무인기에 경비 로봇까지... 도시의 방위 시설의 절반 가까이가 쫓아온 모양이야!</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:30초면 되니까 거기서 버티고 있어. 416, G11 계획 변경이야. 견제 사격으로 주의를 끌어 줘. 내가 포트에 연결해서 포탑을 무력화시킬 테니까!
-HK416Mod(0)<Speaker>HK416</Speaker>||:9을 버리는 것도 모자라서 나랑 G11을 길동무로 삼으려고? 참 너다운 판단이네!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:네가 여기서 죽고 기억을 잃은 채로 다시 수복돼서 날 위해 또 죽는 꼴을 보는 것도 재밌겠지만... 우리 모두 여기서 당했다간 그대로 끝이야.
-HK416Mod(0)<Speaker>HK416</Speaker>||:젠장... G11! 따라와!
-UMP9Mod(3)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>헤헤... 나 완전 감동 먹었어. 그래, 서로 돕고 도와야 가족이지――꺄아악! 방금 스친 거 진짜 위험했어!</color>
-()||:UMP45는 하수도 벽의 금속 덮개를 뜯어내, 안에서 케이블 하나를 뽑아내 자신의 기계팔에 연결했다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_tele_connect</SE1>:...빙고. 역시 연결됐어. 그런데 생각보다 수가 너무 많은걸...
-HK416Mod(0)<Speaker>HK416</Speaker>||:저 포탑들 정말 처리할 수 있겠어? 정 못 하겠으면 아직 안 늦었으니까 당장 포기하고 작전 취소해.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:걱정 마렴, 나도 너희가 못 미더워서 미리 보험을 들어놨거든.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑点1>:...권한 개방 완료. 3초 세고 함께 돌격해.
-UMP9Mod(2)<Speaker>UMP9</Speaker>||<黑点2><BIN>159</BIN>:으으, 아무리 쏴도 다 보호막에... 어라?
-()||:3초 뒤, 발전소 주변의 자동 포탑들이 전부 사시나무 떨듯 경련을 일으켰다.
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:와... 역시 언니야, 해냈구나!
-HK416Mod(0)<Speaker>HK416</Speaker>||:포탑의 보호막도 사라졌어! 사격 개시!
-()||<SE2>MachineGunBurst</SE2>:총알을 막아내던 보호막이 사라졌고, 무인기들도 회피 기동을 멈췄다. 포탑들은 쏟아지는 탄환에 하나둘씩 폭발했다.
-G11(0)<Speaker>G11</Speaker>||<BGM>BGM_Empty</BGM>:정말 편하네. 항상 이렇게 편하면 좋을 텐데.
-HK416Mod(0)<Speaker>HK416</Speaker>||:9, 아직 안 죽었지?
-UMP9Mod(3)<Speaker>UMP9</Speaker>||<BGM>BGM_Sneak</BGM>:난 무사해! 언니가 성공한 모양이네. 그나저나, 저것들 보호막이 사라지니까 철혈의 잡병하고 별반 다를 게 없는걸?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:그야 당연하지, 다 철혈공조의 제품이니까... 무인기, 자동 포탑, 감시기에 경보 장치까지.+3차 세계대전이 발발하기 전부터 철혈공조는 이런 군용 설비를 생산했어. 인형보다도 더 일찍, 더 많이 만들었지.
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:어서 와 45 언니~! 방금 그 전자전 덕분에 살았어.
-HK416Mod(0)<Speaker>HK416</Speaker>||:내가 전자전에 관해서 잘 모르긴 하지만...+침투 가능한 회선이 있다 해도, 한 번에 10대가 넘는 포탑과 무인기를 해킹하는 건 일반적으로 무리 아니야?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:확실히 그렇지. 게다가 지금은 M4를 계속 감시해야 하니 사용 가능한 리소스도 제한적이야.+게다가 AR팀이 맞닥뜨렸던 것과 똑같이, 이 자동 방어 시설들은 전부 보안성이 높은 폐쇄 회로를 쓰지. 하지만... 전력 공급과 데이터 송수신은 전부 하나로 묶여 있어서 다행이었지.+1, 2초 정도라면 나도 움직임을 마비시킬 수 있어. 그리고 그 짧은 시간에 모조리 해치울 수 있었던 건 다 너희들 덕분이고.
-UMP9Mod(3)<Speaker>UMP9</Speaker>||:그렇다는 건... 우리가 정말로 강해졌다는 뜻이네?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:응, 돈을 헛되이 쓰진 않은 셈이지.
-G11(0)<Speaker>G11</Speaker>||:그럼 다들 그렇게 믿음직스러우니까, 나 조기 퇴근해도 되지?
-HK416Mod(0)<Speaker>HK416</Speaker>||:당연히 안 되지. 돈 받았으면 게으름 피우지 말고 똑바로 일해.
-G11(0)<Speaker>G11</Speaker>||:아 왜애...
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑点1>:장난은 그쯤하고, 어서 할 일이나 하자. 나랑 9은 폭약을 설치할 테니까, 416이랑 G11은 하수도의 퇴로를 확보해.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑点2><白屏1><BIN>159</BIN>:3, 2, 1...
-()||<SE1>Explode</SE1><BIN>183</BIN>:삑. 그리고 엄청난 굉음과 폭발이 하늘을 뒤흔들었다.
-()||:건물을 지탱하는 기둥들이 교묘하게 설치된 폭탄들로 인해 파괴됐고, 천장부터 무너져 내리면서 건물 내부의 변압기와 천연가스 탱크도 전부 잇따라 폭발했다.
-()||<SE1>AVG_whitenoise</SE1><白屏1>:푸른 섬광이, 어두워져 가던 하늘을 수 초간 대낮처럼 눈부시게 밝혔다.
-()||<白屏2><BIN>159</BIN>:폭발로 날아올랐던 파편들이 거의 다 지면으로 떨어지고 나서야, HK416은 하수도에서 고개를 내밀고 성과를 평가했다.
-HK416Mod(0)<Speaker>HK416</Speaker>||:...완전히 박살 났네. 아주 깔끔해.+이걸로 도시의 방위 시설의 절반 정도는 무력화됐겠지?
-UMP9Mod(4)<Speaker>UMP9</Speaker>||<BGM>BGM_Empty</BGM>:45 언니! 괜찮아?!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>BGM_Brain</BGM>:으으...
-()||:UMP45는 갑자기 이마를 짚고 휘청이다 벽에 기댔다. UMP9는 다급히 달려가 그녀를 부축했다.
-HK416Mod(0)<Speaker>HK416</Speaker>||:뭐야, 왜 그래?
-G11(2)<Speaker>G11</Speaker>||:나도 몰라... 폭발 때문에 다리라도 풀렸나?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:난... 괜찮아... 방금 갑자기 엄청난 수의 연결 신호가 나타났어...
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:45 언니, 전자전이라면 나도 도울게.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:그게 아니야. 방금...+수십... 아니, 어쩌면 수백 개의 신호가 동시에 서로 연결했어.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:발전소가 파괴되자마자... 마치, 도시에 생명이 돌아온 것처럼... 무언가가 부활한 것 같은 느낌이야...
-()||<黑屏2><BIN>197</BIN>:
-M4A1Mod(3)<Speaker>M4A1</Speaker>||:여기는 M4A1! AR팀 전원 무사합니까?! 응답 바랍니다!
-AR15Mod(2)<Speaker>AR15</Speaker><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>여기는... 치지직... R15! 들려!</color>
-AR15Mod(2)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>갑자기 간섭이 강해졌... 높은 곳에... 치지직... 곳에 올라가면...</color>
-M4A1Mod(3)<Speaker>M4A1</Speaker>||:대체 무슨 일이 일어난 거지...
-M4A1Mod(3)<Speaker>청아한 목소리</Speaker>||:내가 잘못 판단했나 봐. 신호는 하나가 아니었어. 놈들이 오고 있어.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:알아요. 이명... 아니, 마인드맵의 심층에서 들려오는 이상한 소리가... 점점 커지고 있어요.+아무튼 높은 곳으로 이동해야겠군요. 감도가 더 좋은 곳으로 가서 통신을 복구해야 해요.
-M4A1Mod(0)<Speaker>청아한 목소리</Speaker>||:조심해.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:네... 알고 있습니다.+AR팀! 제 말이 들리나요!?+현재 심각한 통신 간섭이 발생했습니다! 단순히 발전소의 폭발로 인한 전자기파 폭풍일 수도 있지만, 우선 정거장의 출구로 집합하세요!
-()||<BGM>BGM_Empty</BGM>:M4A1은 탈린 정거장의 옥상에 올라, 소대원들과 통신을 연결하기 위해 노력했다.
-()||<BGM>m_avg_labyrinth</BGM><黑点1>:그 시각, 거리에서 멀리 떨어진 곳...
-()<Speaker>？？？</Speaker>||<黑点2><BIN>196</BIN>:왔나?
-()<Speaker>？？？</Speaker>||:족쇄가 풀린 건가?
-()<Speaker>？？？</Speaker>||:온 거야?+구세주가 왔어?
-()||:무너진 건물의 잔해와 뿌연 연기 속에서, 흐릿한 형체가 하나둘씩 나타났다.+재잘재잘 이야기를 나누며, 이제부터 일어날 일을 기대하는 모습이었다.
-()||<黑屏1>:그리고... 한 소녀는 정거장 옥상에 서 있는 M4A1을 응시했다.
-()||<黑屏2><BIN>9</BIN>:
-()<Speaker>？？？</Speaker>||<黑屏1>:새로운 몸인가?+아니... 파괴, 그리고 궤멸.+아니... 그뿐만이 아니라, 선택받아 마땅한 자인가?+난 이곳에서 벗어날 수 있을까? 그녀가 날 구원할 수 있을까?
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BGM>BGM_Pervaded</BGM><黑屏2><BIN>55</BIN>:탈린시 외곽, 발전소 구역.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:상황은 어때, 9?
+UMP45Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>영차... 진입했어, 언니.</color>+<color=#00CCFF>예상보다 너무 쉬운걸? 하수도에서 방해도 별로 없었어.</color>+<color=#00CCFF>이대로 이 길을 쭉 따라가면, 발전소까지 가면서 방어 시설도 대부분 피해 갈 수 있어.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:좋았어, 우리도 따라가자, 416. 후방 경계는 너랑 G11한테 맡길게.
+HK416Mod(0)<Speaker>HK416</Speaker>||:신형 소체까지 받았는데, 여전히 네 뒷바라지나 하라는 거네...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:바로 그거야. 가자.
+HK416Mod(0)<Speaker>HK416</Speaker>||:쳇... 야, 얼른 안 일어나!?
+G11(3)<Speaker>G11</Speaker><Shake>||:쿠우울... 컥?!+아야야... 왜 갑자기 때리고 난리야...? 오늘 일요일이잖아...
+HK416Mod(0)<Speaker>HK416</Speaker>||<黑点1>:이 잠탱이가 아직도 잠이 덜 깼나... 잔소리할 시간 없으니까 빨리 움직이기나 해!
+()||<黑点2><BIN>167</BIN>:UMP9이 미리 정찰한 통로를 따라서, UMP45와 HK416, 그리고 그녀에게 질질 끌려 오는 G11은 발전소로 접근했다.
+UMP9Mod(0)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>이제 다 왔어?</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:조금만 더 가면 시스템 연결 포트야.
+()||<BGM>BGM_Empty</BGM><SE2>Gunfight</SE2>:바로 그때, 통로 반대편에서 소음기를 거치지 않은 총성이 울려퍼졌다.
+UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||<BGM>BGM_Danger</BGM>:<color=#00CCFF>...들켰네. 거기서 기다려! 무인기들이 출구 쪽에 진을 치고 있어!</color>
+()||<SE1>Gunfight</SE1>:폭발과 진동을 동반한 총알 세례가 쏟아지는 것은 순식간이었다.
+UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>이거 일이 귀찮게 됐네. 자동 포탑에 무인기에 경비 로봇까지... 도시의 방위 시설의 절반 가까이가 쫓아온 모양이야!</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:30초면 되니까 거기서 버티고 있어. 416, G11 계획 변경이야. 견제 사격으로 주의를 끌어 줘. 내가 포트에 연결해서 포탑을 무력화시킬 테니까!
+HK416Mod(0)<Speaker>HK416</Speaker>||:9을 버리는 것도 모자라서 나랑 G11을 길동무로 삼으려고? 참 너다운 판단이네!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:네가 여기서 죽고 기억을 잃은 채로 다시 수복돼서 날 위해 또 죽는 꼴을 보는 것도 재밌겠지만... 우리 모두 여기서 당했다간 그대로 끝이야.
+HK416Mod(0)<Speaker>HK416</Speaker>||:젠장... G11! 따라와!
+UMP9Mod(3)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>헤헤... 나 완전 감동 먹었어. 그래, 서로 돕고 도와야 가족이지――꺄아악! 방금 스친 거 진짜 위험했어!</color>
+()||:UMP45는 하수도 벽의 금속 덮개를 뜯어내, 안에서 케이블 하나를 뽑아내 자신의 기계팔에 연결했다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_tele_connect</SE1>:...빙고. 역시 연결됐어. 그런데 생각보다 수가 너무 많은걸...
+HK416Mod(0)<Speaker>HK416</Speaker>||:저 포탑들 정말 처리할 수 있겠어? 정 못 하겠으면 아직 안 늦었으니까 당장 포기하고 작전 취소해.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:걱정 마렴, 나도 너희가 못 미더워서 미리 보험을 들어놨거든.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑点1>:...권한 개방 완료. 3초 세고 함께 돌격해.
+UMP9Mod(2)<Speaker>UMP9</Speaker>||<黑点2><BIN>159</BIN>:으으, 아무리 쏴도 다 보호막에... 어라?
+()||:3초 뒤, 발전소 주변의 자동 포탑들이 전부 사시나무 떨듯 경련을 일으켰다.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:와... 역시 언니야, 해냈구나!
+HK416Mod(0)<Speaker>HK416</Speaker>||:포탑의 보호막도 사라졌어! 사격 개시!
+()||<SE2>MachineGunBurst</SE2>:총알을 막아내던 보호막이 사라졌고, 무인기들도 회피 기동을 멈췄다. 포탑들은 쏟아지는 탄환에 하나둘씩 폭발했다.
+G11(0)<Speaker>G11</Speaker>||<BGM>BGM_Empty</BGM>:정말 편하네. 항상 이렇게 편하면 좋을 텐데.
+HK416Mod(0)<Speaker>HK416</Speaker>||:9, 아직 안 죽었지?
+UMP9Mod(3)<Speaker>UMP9</Speaker>||<BGM>BGM_Sneak</BGM>:난 무사해! 언니가 성공한 모양이네. 그나저나, 저것들 보호막이 사라지니까 철혈의 잡병하고 별반 다를 게 없는걸?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그야 당연하지, 다 철혈공조의 제품이니까... 무인기, 자동 포탑, 감시기에 경보 장치까지.+3차 세계대전이 발발하기 전부터 철혈공조는 이런 군용 설비를 생산했어. 인형보다도 더 일찍, 더 많이 만들었지.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:어서 와 45 언니~! 방금 그 전자전 덕분에 살았어.
+HK416Mod(0)<Speaker>HK416</Speaker>||:내가 전자전에 관해서 잘 모르긴 하지만...+침투 가능한 회선이 있다 해도, 한 번에 10대가 넘는 포탑과 무인기를 해킹하는 건 일반적으로 무리 아니야?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:확실히 그렇지. 게다가 지금은 M4를 계속 감시해야 하니 사용 가능한 리소스도 제한적이야.+게다가 AR팀이 맞닥뜨렸던 것과 똑같이, 이 자동 방어 시설들은 전부 보안성이 높은 폐쇄 회로를 쓰지. 하지만... 전력 공급과 데이터 송수신은 전부 하나로 묶여 있어서 다행이었지.+1, 2초 정도라면 나도 움직임을 마비시킬 수 있어. 그리고 그 짧은 시간에 모조리 해치울 수 있었던 건 다 너희들 덕분이고.
+UMP9Mod(3)<Speaker>UMP9</Speaker>||:그렇다는 건... 우리가 정말로 강해졌다는 뜻이네?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:응, 돈을 헛되이 쓰진 않은 셈이지.
+G11(0)<Speaker>G11</Speaker>||:그럼 다들 그렇게 믿음직스러우니까, 나 조기 퇴근해도 되지?
+HK416Mod(0)<Speaker>HK416</Speaker>||:당연히 안 되지. 돈 받았으면 게으름 피우지 말고 똑바로 일해.
+G11(0)<Speaker>G11</Speaker>||:아 왜애...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑点1>:장난은 그쯤하고, 어서 할 일이나 하자. 나랑 9은 폭약을 설치할 테니까, 416이랑 G11은 하수도의 퇴로를 확보해.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑点2><白屏1><BIN>159</BIN>:3, 2, 1...
+()||<SE1>Explode</SE1><BIN>183</BIN>:삑. 그리고 엄청난 굉음과 폭발이 하늘을 뒤흔들었다.
+()||:건물을 지탱하는 기둥들이 교묘하게 설치된 폭탄들로 인해 파괴됐고, 천장부터 무너져 내리면서 건물 내부의 변압기와 천연가스 탱크도 전부 잇따라 폭발했다.
+()||<SE1>AVG_whitenoise</SE1><白屏1>:푸른 섬광이, 어두워져 가던 하늘을 수 초간 대낮처럼 눈부시게 밝혔다.
+()||<白屏2><BIN>159</BIN>:폭발로 날아올랐던 파편들이 거의 다 지면으로 떨어지고 나서야, HK416은 하수도에서 고개를 내밀고 성과를 평가했다.
+HK416Mod(0)<Speaker>HK416</Speaker>||:...완전히 박살 났네. 아주 깔끔해.+이걸로 도시의 방위 시설의 절반 정도는 무력화됐겠지?
+UMP9Mod(4)<Speaker>UMP9</Speaker>||<BGM>BGM_Empty</BGM>:45 언니! 괜찮아?!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>BGM_Brain</BGM>:으으...
+()||:UMP45는 갑자기 이마를 짚고 휘청이다 벽에 기댔다. UMP9는 다급히 달려가 그녀를 부축했다.
+HK416Mod(0)<Speaker>HK416</Speaker>||:뭐야, 왜 그래?
+G11(2)<Speaker>G11</Speaker>||:나도 몰라... 폭발 때문에 다리라도 풀렸나?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:난... 괜찮아... 방금 갑자기 엄청난 수의 연결 신호가 나타났어...
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:45 언니, 전자전이라면 나도 도울게.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그게 아니야. 방금...+수십... 아니, 어쩌면 수백 개의 신호가 동시에 서로 연결했어.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑屏1>:발전소가 파괴되자마자... 마치, 도시에 생명이 돌아온 것처럼... 무언가가 부활한 것 같은 느낌이야...
+()||<黑屏2><BIN>197</BIN>:
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:여기는 M4A1! AR팀 전원 무사합니까?! 응답 바랍니다!
+AR15Mod(2)<Speaker>AR15</Speaker><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>여기는... 치지직... R15! 들려!</color>
+AR15Mod(2)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>갑자기 간섭이 강해졌... 높은 곳에... 치지직... 곳에 올라가면...</color>
+M4A1Mod(3)<Speaker>M4A1</Speaker>||:대체 무슨 일이 일어난 거지...
+M4A1Mod(3)<Speaker>청아한 목소리</Speaker>||:내가 잘못 판단했나 봐. 신호는 하나가 아니었어. 놈들이 오고 있어.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:알아요. 이명... 아니, 마인드맵의 심층에서 들려오는 이상한 소리가... 점점 커지고 있어요.+아무튼 높은 곳으로 이동해야겠군요. 감도가 더 좋은 곳으로 가서 통신을 복구해야 해요.
+M4A1Mod(0)<Speaker>청아한 목소리</Speaker>||:조심해.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:네... 알고 있습니다.+AR팀! 제 말이 들리나요!?+현재 심각한 통신 간섭이 발생했습니다! 단순히 발전소의 폭발로 인한 전자기파 폭풍일 수도 있지만, 우선 정거장의 출구로 집합하세요!
+()||<BGM>BGM_Empty</BGM>:M4A1은 탈린 정거장의 옥상에 올라, 소대원들과 통신을 연결하기 위해 노력했다.
+()||<BGM>m_avg_labyrinth</BGM><黑点1>:그 시각, 거리에서 멀리 떨어진 곳...
+()<Speaker>？？？</Speaker>||<黑点2><BIN>196</BIN>:왔나?
+()<Speaker>？？？</Speaker>||:족쇄가 풀린 건가?
+()<Speaker>？？？</Speaker>||:온 거야?+구세주가 왔어?
+()||:무너진 건물의 잔해와 뿌연 연기 속에서, 흐릿한 형체가 하나둘씩 나타났다.+재잘재잘 이야기를 나누며, 이제부터 일어날 일을 기대하는 모습이었다.
+()||<黑屏1>:그리고... 한 소녀는 정거장 옥상에 서 있는 M4A1을 응시했다.
+()||<黑屏2><BIN>9</BIN>:
+()<Speaker>？？？</Speaker>||<黑屏1>:새로운 몸인가?+아니... 파괴, 그리고 궤멸.+아니... 그뿐만이 아니라, 선택받아 마땅한 자인가?+난 이곳에서 벗어날 수 있을까? 그녀가 날 구원할 수 있을까?

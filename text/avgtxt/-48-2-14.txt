@@ -1,121 +1,121 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>2</BIN><Night>:독일 베를린의 고속 도로변.
-NPC-grig(0)<Speaker>？？？</Speaker>||:......
-()<Speaker></Speaker>||:도로 맞은편에, 적이 나타났다.+우뚝 선 늘씬한 소체의 그녀가 발하는 냉혹한 눈빛은, 여태까지의 봐 왔던 적과 전혀 달랐다. 시야에 포착된 목표물을 그저 시체로 간주하는 눈빛이었다.+단순히 대치하는 것만으로도, 일반적인 하얀 니토와 천지 차이임이 피부로 느껴졌다.
-()||<黑点1>:
-()<Speaker>지휘관</Speaker>||<黑点2><BIN>2</BIN><Night><SE1>AVG_tele_connect</SE1>:...적의 수와 전투 방식, 파악 가능해?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>미확인 니토는 단 한 기. 걸음걸이를 보아하니, 백병전에 특화된 타입 같아.</color>
-UMP45Mod(0)<Speaker>지휘관</Speaker>||:45, J한테 연락해. 단서와 놈들의 은폐 수단을 찾았다고.
-()||<黑点1>:
-()<Speaker>지휘관</Speaker>||<黑点2><BIN>2</BIN><Night><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>AR팀, 즉시 정차 지점으로 귀환해. 우리는 여기에 정면으로 맞붙으려고 온 게 아니야.</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:알겠습——
-()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1><BGM>BGM_Empty</BGM>:부웅――+칼날이 진동하면서 등골이 오싹해지는 소리를 내더니, 섬광과 함께 그 예리한 칼날이 RO635의 코앞에서 번뜩였다.
-RO635Mod(4)<Speaker>RO635</Speaker>||<BGM>10130</BGM>:큭!?
-()<Speaker>지휘관</Speaker>||:<color=#00CCFF>RO!? 무슨 일이야?!</color>
-RO635Mod(4)<Speaker>RO635</Speaker>||:놈이 순식간에 접근했어요! AR-15! 빨리 SOP2 데리고 가! 이놈은 내가――
-AR15Mod(5)<Speaker>AR15</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>꿈도 꾸지 마!</color>+<color=#00CCFF>그리고 녀석 벌써 이쪽으로 왔는데?!</color>
-RO635Mod(3)<Speaker>RO635</Speaker>||:뭐?!
-()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1>:부웅――+하얀 그림자는 유령 같았다. 코앞까지 다가와도, 그 누구도 그녀의 얼굴을 포착할 수 없었다.+바람을 가르는 칼날은 소리보다 먼저 도달했다.
-AR15Mod(5)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>제기랄!!</color>
-()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1>:섬광이 또 한 번 번쩍이자, RO635가 서 있던 자리에 바닥이 안 보이는 깊은 틈새가 생겨났다.+저 진동하는 칼 앞에서는, 그 어떤 전술인형의 소체도 종잇장이나 다름없어 보였다.
-()||<黑点1>:
-AR15Mod(5)<Speaker>AR15</Speaker>||<黑点2><BIN>2</BIN><Night>:지휘관을 엄호해!
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:<size=50>AR-15!!!</size>
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:SOP2가 방아쇠를 당겨, 전혀 포착할 수 없는 상대를 향해 소사했다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:SOP2 넌 나서지 마! 그 몸으론 못 버틴다고!
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:그렇다고 네가 당하게 둘 거 같아!? 이제 M4도 돌아왔는데!
-AR15Mod(8)<Speaker>AR15</Speaker>||:누가 죽는댔어!
-()<Speaker></Speaker>||:AR-15는 이를 악물었다.+속도가 떨어질 때가 분명 올 것이다. 저 하얀 그림자가, 언제까지고 초고속을 유지하지는 못할 터였다.+집중... 집중...
-AR15Mod(5)<Speaker>AR15</Speaker>||:지금이다!
-()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_3h</SE1>:타타타탕!!+찰나의 타이밍을 포착한 AR-15가 총구를 들어 소사했고, 여러 발의 총탄이 하얀 칼날에 정확히 꽂혔다.
-NPC-grig(0)<Speaker>？？？</Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:......
-()<Speaker></Speaker>||:이렇다 할 피해는 입히지 못했지만, 하얀 그림자는 아주 잠깐 멈칫하며 의아해했다.+바로 그때, 다른 방향에서 고함이 들려왔다.
-RO635Mod(4)<Speaker>RO635</Speaker>||:피해!!
-()<Speaker></Speaker>||:RO635가 있는 힘껏 불타는 폭약을 던졌고, AR-15는 SOP2를 데리고 즉시 몸을 굴렸다.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<震屏3><SE1>Explode</SE1>:<size=50>우와악!?</size>
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:한 치의 지체도 없이, 폭발이 일으킨 분진을 뚫고 칼날이 솟구쳤다.+RO635는 SOP2의 목소리에 고개를 돌릴 틈도 없었다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:젠장, 적어도 M4와 지휘관만이라도――
-()||<黑点1>:
-()<Speaker>지휘관</Speaker>||<黑点2><BIN>2</BIN><Night>:......!
-()<Speaker></Speaker>||:칼날이 분진을 가르자, 지휘관도 비로소 그 칼날을 직시할 수 있었다.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:AR-15가 다시 퍼부은 총탄은 잔상에 닿을 뿐이었고, 부서진 잔상은 허공에 흩어졌다.
-()<Speaker></Speaker>||:그리고, 단 1초.+하얀 그림자는 드디어 스스로 발을 멈춰, 그 냉혹한 얼굴을 드러냈다.+지휘관의 코앞에서.
-NPC-grig(0)<Speaker>틸</Speaker>||:......
-AR15Mod(8)<Speaker>AR15</Speaker>||:지휘관!!!
-()<Speaker></Speaker>||:하지만 모두의 예상이 빗나갔다. 하얀 니토는 장검을 꾹 쥔 채 지휘관을 뛰어넘어, 뒷편의 트럭에 돌진했다.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1><SE1>AVG_lifttable</SE1>:칼날이 또다시 바람을 가르며 번뜩이자, 차량이 그대로 두 동강이 났다.
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:케흑! 콜록콜록... 어라, 틸...?
-()<Speaker></Speaker>||:충격에 단면으로 튕겨 나와 바닥에서 몇 바퀴 구른 몰리도가, 다가오는 니토를 간신히 알아봤다.
-NPC-grig(0)<Speaker>틸</Speaker>||:...몰리도 언니.
-()<Speaker></Speaker>||:장검이 몰리도의 목을 노렸다. 새하얀 니토는 뒤쫓아오는 인형들의 존재를 깡그리 무시하고, 차가운 눈빛으로 오직 몰리도를 내려다봤다.
-NPC-grig(0)<Speaker>틸</Speaker>||:실패한다면, 존재할 가치는 없다.+언니 네가 내게 직접 가르친 말이다.
-()<Speaker></Speaker>||:폭발에 일어난 흙먼지 구름이 이제서야 동강 난 차량 쪽으로 몰려왔다.
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:날... 죽이려고...?
-()<Speaker></Speaker>||:몰리도는 놀란 눈으로 "틸"을 바라봤다. 그녀는 지금 최우선 목표를 무시하고 자신을 노리는 것이었다.+그 누구도 예상치 못한 전개였다.
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:틸, 기다려... 너, 너 지금 이게 무슨 짓인지 알아...?
-NPC-grig(0)<Speaker>틸</Speaker>||:...잘 가라, 몰리도.
-()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1>:장검이 높이 들어올려졌고, 예리한 칼날이 몰리도를 가르려는... 그 순간이었다.
-NytoIsomer(11)<Speaker>M4A1</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:멈춰!!
-NPC-grig(0)<Speaker>틸</Speaker>||:——!?
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:위기일발의 순간, 강력한 충격파가 정확히 틸을 향해 밀려들었다.+그 불가사의한, 그녀가 추호도 이해 못할 힘에, 찰나의 순간임에도 그녀는 현명한 판단을 내렸다.
-()<Speaker></Speaker>||<BIN>183</BIN>:슉!
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:뭣......
-()||<白屏1>:
-()<Speaker></Speaker>||<白屏2><BIN>2</BIN><Night>:한 순간 차이로 사신의 칼날은 몰리도에게 닿지 않았고, 그 섬광 같은 그림자는 쏜살처럼 단숨에 10m 넘게 물러났다.
-NytoIsomer(12)<Speaker>M4A1</Speaker>||:하아... 하아...
-()<Speaker></Speaker>||:몰리도는 더더욱 놀란 눈으로, 멍하니 M4A1을 바라봤다.+거친 숨을 몰아쉬는 M4A1은 눈에 띄게 힘들어 보였다.
-()<Speaker>지휘관</Speaker>||:틈을 주지 마!
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Flash_Bomb</SE1>:기회를 놓치지 않고, AR-15와 RO635가 동시에 수류탄을 던졌다.
-NPC-grig(0)<Speaker>틸</Speaker>||:...칫.
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1><BIN>183</BIN>:펑!
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:펑!
-()||<白屏1>:
-()<Speaker></Speaker>||<白屏2><BIN>2</BIN><Night><common_effect>%%code=CJX_xm_yan%%</common_effect>:하지만 어디선가 날아든 연막탄 2개가 먼저 지면과 공중에서 터져, 그자리의 모두를 당황하게 만들었다.
-()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:콰앙!!+연막탄에 뒤이어 둘이 던진 수류탄이 폭발했다.
-()<Speaker>？？？</Speaker>||:이쪽으로!
-()<Speaker>지휘관</Speaker>||:누구야!?
-()<Speaker></Speaker>||:낯선 소녀의 목소리와 함께, 틸 주위에 더 많은 연막탄이 떨어졌다.
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:족히 10개는 넘는 연막탄들이 동시에 폭발하자, 온몸이 마비될 것 같은 역한 냄새까지 퍼졌다.
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:이어서 곱절의 연막탄이 연달아 폭발하는 통에, 어디서 기습해 올지 모르는 상황에선 틸도 경계 태세를 취할 수밖에 없었다.
-()||<白屏1>:
-NPC-grig(0)<Speaker>틸</Speaker>||<白屏2><BIN>183</BIN><关闭蒙版>:......
-()||<白屏1>:
-()<Speaker></Speaker>||<白屏2><BIN>2</BIN><Night>:하지만 자욱했던 연기가 흩어지고 났을 땐, 아무도 없었다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>1</BIN><Night><SE1>AVG_Car_Skid</SE1>:한참을 운전해 간 끝에, 지휘관 일행은 문을 열고 여전히 후들거리는 다리로 차에서 내렸다.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<SE1>AVG_20Winter_Door_Car_Open</SE1>:우웨에... 콜록콜록...
-()<Speaker>지휘관</Speaker>||:후우... 고맙다.+네 연막탄과 차가 없었다면 거기서 모두 당했을 거야.
-KH2002(0)<Speaker>카이바르</Speaker>||:에이 천만에 천만에!+반가워 지휘관! 내 이름은 카이바르! 훈작사의 명으로 지원하러 왔는데, 너무 늦진 않았지?
-KH2002(0)<Speaker>지휘관</Speaker>||:아주 기막힌 타이밍이었어.
-KH2002(0)<Speaker>카이바르</Speaker>||:그랬다니 다행이다~
-NytoIsomer(12)<Speaker>M4A1</Speaker>||:콜록... 콜록.
-()<Speaker></Speaker>||:M4A1도 일행과 조금 떨어진 곳에서 소리죽여 기침했다.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......
-()<Speaker></Speaker>||:놀라움, 의아함, 증오... 허약해진 M4A1을 보는 몰리도의 시선은 복잡했다.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:...왜 나를 구했어?
-()<Speaker></Speaker>||:그녀는 일행이 듣지 못하도록 소리 낮춰 물었다.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:......
-()<Speaker></Speaker>||:심호흡하며 호흡을 가다듬은 M4A1은 몰리도를 흘깃 보고선 고개를 저었다.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:당신에겐 남을 돕는 것이 그렇게 희한한가요?
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>229</BIN><BGM>BGM_Brain</BGM><Night><SE1>ClothingUp</SE1>:틸이 사뿐사뿐 돌아와, 칼날을 수납했다.+그레이는 그녀를 반기며 와인 한 잔을 따라 주었다.
-NPC-MrsGray(1)<Speaker>그레이</Speaker>||:처리했니?
-NPC-grig(2)<Speaker>틸</Speaker>||:목표물은 처리했지만, 인물을 놓치고 말았다.
-NPC-MrsGray(1)<Speaker>그레이</Speaker>||:...그래도 수고했어.
-()<Speaker></Speaker>||:틸이 먼가 말하려다 말고 고개를 저었다.
-NPC-MrsGray(1)<Speaker>그레이</Speaker>||:왜 그래? 우리 사이에 숨길 일 없잖니.
-NPC-grig(1)<Speaker>틸</Speaker>||:......사실, 망설이지 않았다면 그녀를 죽일 수 있었다.
-NPC-MrsGray(2)<Speaker>그레이</Speaker>||:...뭐?
-()<Speaker></Speaker>||:그레이의 눈이 아주 약간 커져, 언제나 평정심을 유지하던 그녀의 얼굴에 금이 갔다.
-NPC-MrsGray(3)<Speaker>그레이</Speaker>||:누가 너더러 스승님에게 손을 대랬지?
-NPC-grig(2)<Speaker>틸</Speaker>||:그레이... 나는 네가 우리를 이끄는 것이 좋다고 생각해.+그녀가 돌아올 필요는 없어.+그녀와 함께던 때보다, 난 지금의 네 모습이 좋다.
-NPC-MrsGray(5)<Speaker>그레이</Speaker>||:닥쳐!
-()<Speaker></Speaker>||:그레이가 처음으로 틸에게 분노했다.
-NPC-MrsGray(5)<Speaker>그레이</Speaker>||:몰리도는... 스승님은 우리들 중에서 가장 우수한 개체야. 설마 그걸 잊지는 않았겠지?
-NPC-grig(1)<Speaker>틸</Speaker>||:난...
-NPC-MrsGray(5)<Speaker>그레이</Speaker>||:그만.+두 번 다시 그런 짓 마렴. 또 그런 짓을 저지른다면, 내 손으로 직접 널 처분하겠어.
-NPC-grig(1)<Speaker>틸</Speaker>||:......
-()<Speaker></Speaker>||:틸은 시선을 살짝 떨구고 조용히 읊조렸다.
-NPC-grig(1)<Speaker>틸</Speaker>||:...알았다.
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>2</BIN><Night>:독일 베를린의 고속 도로변.
+NPC-grig(0)<Speaker>？？？</Speaker>||:......
+()<Speaker></Speaker>||:도로 맞은편에, 적이 나타났다.+우뚝 선 늘씬한 소체의 그녀가 발하는 냉혹한 눈빛은, 여태까지의 봐 왔던 적과 전혀 달랐다. 시야에 포착된 목표물을 그저 시체로 간주하는 눈빛이었다.+단순히 대치하는 것만으로도, 일반적인 하얀 니토와 천지 차이임이 피부로 느껴졌다.
+()||<黑点1>:
+()<Speaker>지휘관</Speaker>||<黑点2><BIN>2</BIN><Night><SE1>AVG_tele_connect</SE1>:...적의 수와 전투 방식, 파악 가능해?
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>미확인 니토는 단 한 기. 걸음걸이를 보아하니, 백병전에 특화된 타입 같아.</color>
+UMP45Mod(0)<Speaker>지휘관</Speaker>||:45, J한테 연락해. 단서와 놈들의 은폐 수단을 찾았다고.
+()||<黑点1>:
+()<Speaker>지휘관</Speaker>||<黑点2><BIN>2</BIN><Night><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>AR팀, 즉시 정차 지점으로 귀환해. 우리는 여기에 정면으로 맞붙으려고 온 게 아니야.</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:알겠습——
+()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1><BGM>BGM_Empty</BGM>:부웅――+칼날이 진동하면서 등골이 오싹해지는 소리를 내더니, 섬광과 함께 그 예리한 칼날이 RO635의 코앞에서 번뜩였다.
+RO635Mod(4)<Speaker>RO635</Speaker>||<BGM>10130</BGM>:큭!?
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>RO!? 무슨 일이야?!</color>
+RO635Mod(4)<Speaker>RO635</Speaker>||:놈이 순식간에 접근했어요! AR-15! 빨리 SOP2 데리고 가! 이놈은 내가――
+AR15Mod(5)<Speaker>AR15</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>꿈도 꾸지 마!</color>+<color=#00CCFF>그리고 녀석 벌써 이쪽으로 왔는데?!</color>
+RO635Mod(3)<Speaker>RO635</Speaker>||:뭐?!
+()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1>:부웅――+하얀 그림자는 유령 같았다. 코앞까지 다가와도, 그 누구도 그녀의 얼굴을 포착할 수 없었다.+바람을 가르는 칼날은 소리보다 먼저 도달했다.
+AR15Mod(5)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>제기랄!!</color>
+()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1>:섬광이 또 한 번 번쩍이자, RO635가 서 있던 자리에 바닥이 안 보이는 깊은 틈새가 생겨났다.+저 진동하는 칼 앞에서는, 그 어떤 전술인형의 소체도 종잇장이나 다름없어 보였다.
+()||<黑点1>:
+AR15Mod(5)<Speaker>AR15</Speaker>||<黑点2><BIN>2</BIN><Night>:지휘관을 엄호해!
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:<size=50>AR-15!!!</size>
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:SOP2가 방아쇠를 당겨, 전혀 포착할 수 없는 상대를 향해 소사했다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:SOP2 넌 나서지 마! 그 몸으론 못 버틴다고!
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:그렇다고 네가 당하게 둘 거 같아!? 이제 M4도 돌아왔는데!
+AR15Mod(8)<Speaker>AR15</Speaker>||:누가 죽는댔어!
+()<Speaker></Speaker>||:AR-15는 이를 악물었다.+속도가 떨어질 때가 분명 올 것이다. 저 하얀 그림자가, 언제까지고 초고속을 유지하지는 못할 터였다.+집중... 집중...
+AR15Mod(5)<Speaker>AR15</Speaker>||:지금이다!
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_3h</SE1>:타타타탕!!+찰나의 타이밍을 포착한 AR-15가 총구를 들어 소사했고, 여러 발의 총탄이 하얀 칼날에 정확히 꽂혔다.
+NPC-grig(0)<Speaker>？？？</Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:......
+()<Speaker></Speaker>||:이렇다 할 피해는 입히지 못했지만, 하얀 그림자는 아주 잠깐 멈칫하며 의아해했다.+바로 그때, 다른 방향에서 고함이 들려왔다.
+RO635Mod(4)<Speaker>RO635</Speaker>||:피해!!
+()<Speaker></Speaker>||:RO635가 있는 힘껏 불타는 폭약을 던졌고, AR-15는 SOP2를 데리고 즉시 몸을 굴렸다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<震屏3><SE1>Explode</SE1>:<size=50>우와악!?</size>
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:한 치의 지체도 없이, 폭발이 일으킨 분진을 뚫고 칼날이 솟구쳤다.+RO635는 SOP2의 목소리에 고개를 돌릴 틈도 없었다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:젠장, 적어도 M4와 지휘관만이라도――
+()||<黑点1>:
+()<Speaker>지휘관</Speaker>||<黑点2><BIN>2</BIN><Night>:......!
+()<Speaker></Speaker>||:칼날이 분진을 가르자, 지휘관도 비로소 그 칼날을 직시할 수 있었다.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:AR-15가 다시 퍼부은 총탄은 잔상에 닿을 뿐이었고, 부서진 잔상은 허공에 흩어졌다.
+()<Speaker></Speaker>||:그리고, 단 1초.+하얀 그림자는 드디어 스스로 발을 멈춰, 그 냉혹한 얼굴을 드러냈다.+지휘관의 코앞에서.
+NPC-grig(0)<Speaker>틸</Speaker>||:......
+AR15Mod(8)<Speaker>AR15</Speaker>||:지휘관!!!
+()<Speaker></Speaker>||:하지만 모두의 예상이 빗나갔다. 하얀 니토는 장검을 꾹 쥔 채 지휘관을 뛰어넘어, 뒷편의 트럭에 돌진했다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1><SE1>AVG_lifttable</SE1>:칼날이 또다시 바람을 가르며 번뜩이자, 차량이 그대로 두 동강이 났다.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:케흑! 콜록콜록... 어라, 틸...?
+()<Speaker></Speaker>||:충격에 단면으로 튕겨 나와 바닥에서 몇 바퀴 구른 몰리도가, 다가오는 니토를 간신히 알아봤다.
+NPC-grig(0)<Speaker>틸</Speaker>||:...몰리도 언니.
+()<Speaker></Speaker>||:장검이 몰리도의 목을 노렸다. 새하얀 니토는 뒤쫓아오는 인형들의 존재를 깡그리 무시하고, 차가운 눈빛으로 오직 몰리도를 내려다봤다.
+NPC-grig(0)<Speaker>틸</Speaker>||:실패한다면, 존재할 가치는 없다.+언니 네가 내게 직접 가르친 말이다.
+()<Speaker></Speaker>||:폭발에 일어난 흙먼지 구름이 이제서야 동강 난 차량 쪽으로 몰려왔다.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:날... 죽이려고...?
+()<Speaker></Speaker>||:몰리도는 놀란 눈으로 "틸"을 바라봤다. 그녀는 지금 최우선 목표를 무시하고 자신을 노리는 것이었다.+그 누구도 예상치 못한 전개였다.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:틸, 기다려... 너, 너 지금 이게 무슨 짓인지 알아...?
+NPC-grig(0)<Speaker>틸</Speaker>||:...잘 가라, 몰리도.
+()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1>:장검이 높이 들어올려졌고, 예리한 칼날이 몰리도를 가르려는... 그 순간이었다.
+NytoIsomer(11)<Speaker>M4A1</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:멈춰!!
+NPC-grig(0)<Speaker>틸</Speaker>||:——!?
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:위기일발의 순간, 강력한 충격파가 정확히 틸을 향해 밀려들었다.+그 불가사의한, 그녀가 추호도 이해 못할 힘에, 찰나의 순간임에도 그녀는 현명한 판단을 내렸다.
+()<Speaker></Speaker>||<BIN>183</BIN>:슉!
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:뭣......
+()||<白屏1>:
+()<Speaker></Speaker>||<白屏2><BIN>2</BIN><Night>:한 순간 차이로 사신의 칼날은 몰리도에게 닿지 않았고, 그 섬광 같은 그림자는 쏜살처럼 단숨에 10m 넘게 물러났다.
+NytoIsomer(12)<Speaker>M4A1</Speaker>||:하아... 하아...
+()<Speaker></Speaker>||:몰리도는 더더욱 놀란 눈으로, 멍하니 M4A1을 바라봤다.+거친 숨을 몰아쉬는 M4A1은 눈에 띄게 힘들어 보였다.
+()<Speaker>지휘관</Speaker>||:틈을 주지 마!
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Flash_Bomb</SE1>:기회를 놓치지 않고, AR-15와 RO635가 동시에 수류탄을 던졌다.
+NPC-grig(0)<Speaker>틸</Speaker>||:...칫.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1><BIN>183</BIN>:펑!
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:펑!
+()||<白屏1>:
+()<Speaker></Speaker>||<白屏2><BIN>2</BIN><Night><common_effect>%%code=CJX_xm_yan%%</common_effect>:하지만 어디선가 날아든 연막탄 2개가 먼저 지면과 공중에서 터져, 그자리의 모두를 당황하게 만들었다.
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:콰앙!!+연막탄에 뒤이어 둘이 던진 수류탄이 폭발했다.
+()<Speaker>？？？</Speaker>||:이쪽으로!
+()<Speaker>지휘관</Speaker>||:누구야!?
+()<Speaker></Speaker>||:낯선 소녀의 목소리와 함께, 틸 주위에 더 많은 연막탄이 떨어졌다.
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:족히 10개는 넘는 연막탄들이 동시에 폭발하자, 온몸이 마비될 것 같은 역한 냄새까지 퍼졌다.
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:이어서 곱절의 연막탄이 연달아 폭발하는 통에, 어디서 기습해 올지 모르는 상황에선 틸도 경계 태세를 취할 수밖에 없었다.
+()||<白屏1>:
+NPC-grig(0)<Speaker>틸</Speaker>||<白屏2><BIN>183</BIN><关闭蒙版>:......
+()||<白屏1>:
+()<Speaker></Speaker>||<白屏2><BIN>2</BIN><Night>:하지만 자욱했던 연기가 흩어지고 났을 땐, 아무도 없었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>1</BIN><Night><SE1>AVG_Car_Skid</SE1>:한참을 운전해 간 끝에, 지휘관 일행은 문을 열고 여전히 후들거리는 다리로 차에서 내렸다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<SE1>AVG_20Winter_Door_Car_Open</SE1>:우웨에... 콜록콜록...
+()<Speaker>지휘관</Speaker>||:후우... 고맙다.+네 연막탄과 차가 없었다면 거기서 모두 당했을 거야.
+KH2002(0)<Speaker>카이바르</Speaker>||:에이 천만에 천만에!+반가워 지휘관! 내 이름은 카이바르! 훈작사의 명으로 지원하러 왔는데, 너무 늦진 않았지?
+KH2002(0)<Speaker>지휘관</Speaker>||:아주 기막힌 타이밍이었어.
+KH2002(0)<Speaker>카이바르</Speaker>||:그랬다니 다행이다~
+NytoIsomer(12)<Speaker>M4A1</Speaker>||:콜록... 콜록.
+()<Speaker></Speaker>||:M4A1도 일행과 조금 떨어진 곳에서 소리죽여 기침했다.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......
+()<Speaker></Speaker>||:놀라움, 의아함, 증오... 허약해진 M4A1을 보는 몰리도의 시선은 복잡했다.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:...왜 나를 구했어?
+()<Speaker></Speaker>||:그녀는 일행이 듣지 못하도록 소리 낮춰 물었다.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:......
+()<Speaker></Speaker>||:심호흡하며 호흡을 가다듬은 M4A1은 몰리도를 흘깃 보고선 고개를 저었다.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:당신에겐 남을 돕는 것이 그렇게 희한한가요?
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>229</BIN><BGM>BGM_Brain</BGM><Night><SE1>ClothingUp</SE1>:틸이 사뿐사뿐 돌아와, 칼날을 수납했다.+그레이는 그녀를 반기며 와인 한 잔을 따라 주었다.
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:처리했니?
+NPC-grig(2)<Speaker>틸</Speaker>||:목표물은 처리했지만, 인물을 놓치고 말았다.
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:...그래도 수고했어.
+()<Speaker></Speaker>||:틸이 먼가 말하려다 말고 고개를 저었다.
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:왜 그래? 우리 사이에 숨길 일 없잖니.
+NPC-grig(1)<Speaker>틸</Speaker>||:......사실, 망설이지 않았다면 그녀를 죽일 수 있었다.
+NPC-MrsGray(2)<Speaker>그레이</Speaker>||:...뭐?
+()<Speaker></Speaker>||:그레이의 눈이 아주 약간 커져, 언제나 평정심을 유지하던 그녀의 얼굴에 금이 갔다.
+NPC-MrsGray(3)<Speaker>그레이</Speaker>||:누가 너더러 스승님에게 손을 대랬지?
+NPC-grig(2)<Speaker>틸</Speaker>||:그레이... 나는 네가 우리를 이끄는 것이 좋다고 생각해.+그녀가 돌아올 필요는 없어.+그녀와 함께던 때보다, 난 지금의 네 모습이 좋다.
+NPC-MrsGray(5)<Speaker>그레이</Speaker>||:닥쳐!
+()<Speaker></Speaker>||:그레이가 처음으로 틸에게 분노했다.
+NPC-MrsGray(5)<Speaker>그레이</Speaker>||:몰리도는... 스승님은 우리들 중에서 가장 우수한 개체야. 설마 그걸 잊지는 않았겠지?
+NPC-grig(1)<Speaker>틸</Speaker>||:난...
+NPC-MrsGray(5)<Speaker>그레이</Speaker>||:그만.+두 번 다시 그런 짓 마렴. 또 그런 짓을 저지른다면, 내 손으로 직접 널 처분하겠어.
+NPC-grig(1)<Speaker>틸</Speaker>||:......
+()<Speaker></Speaker>||:틸은 시선을 살짝 떨구고 조용히 읊조렸다.
+NPC-grig(1)<Speaker>틸</Speaker>||:...알았다.
+()||<黑屏1>:

@@ -1,145 +1,145 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>313</BIN><边框>2</边框><BGM>GF_21winter_avg_nightbar</BGM>:잔잔한 음악이 흘렀다.+그 소리에 정신을 차린 지휘관은, 술집의 테이블 앞에 앉은 자신을 발견했다.+차가운 진저 에일 한 잔이 테이블 위에 길쭉한 물자국을 남기며 손 옆으로 미끄러져 왔다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||<边框>2</边框>:내가 쏘는 거야.
-NPC-Ange(7)<Speaker>지휘관</Speaker><同时置暗>||<边框>2</边框>:안젤리아 씨!?
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||<边框>2</边框>:응?
-()||<SE1>AVG_20Winter_Cheers</SE1><边框>2</边框>:테이블 맞은편에 안젤리아가 있었다. 그녀는 주황빛 위스키가 든 잔을 천천히 흔들었고, 그때마다 얼음 조각이 잔에 부딪히며 달그락 소리를 냈다.
-()<Speaker>지휘관</Speaker>||<边框>2</边框>:...무사하셔서 다행입니다.+그렇지, 우리가 진짜 몰리도를 찾아냈습니다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||<边框>2</边框>:그래?
-()||<边框>2</边框>:어째선지, 안젤리아는 관심없다는 듯 술값과 팁을 툭 던지며 자리에서 일어났다.
-()<Speaker>지휘관</Speaker>||<边框>2</边框>:어디... 가십니까?
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||<边框>2</边框>:......
-()||<SE1>Select</SE1><边框>2</边框>:안젤리아는 대답 대신 허리춤에서 권총을 뽑아 지휘관을 겨눴다.
-()<Speaker>지휘관</Speaker>||<边框>2</边框>:안젤리아 씨...?
-NPC-Ange(7)<Speaker>안젤리아</Speaker><GradientHide>4</GradientHide>||<BGM>BGM_Empty</BGM><边框>2</边框><黑屏1>:네 눈에 보이는 것 전부가 진실은 아니야. 지휘관, 눈에 의존하지 마.
-()<Speaker>지휘관</Speaker>||<黑屏2><BIN>9</BIN>:네?
-()||<SE1>AVG_pistol_finalshot_n</SE1><黑屏1><CGDelay>2</CGDelay>:타앙!!!
-()||<睁眼><BIN>160</BIN><边框>2</边框><BGM>GF_Swim_Marnie</BGM>:지휘관은 가슴을 움켜쥐며 침대에서 벌떡 일어났다.
-()<Speaker>지휘관</Speaker>||<边框>2</边框>:헉!! ...여긴 어디지?
-NPC-Kalin(1)<Speaker>카리나</Speaker>||<边框>2</边框>:일어나셨나요 지휘관님?
-NPC-Kalin(1)<Speaker>지휘관</Speaker><同时置暗>||<边框>2</边框>:카리나...?
-()||<边框>2</边框>:침대 옆에 카리나가 앉아있었다. 조금 초췌한 기색이었지만, 그래도 기운만은 넘쳐 보였다.
-()<Speaker>지휘관</Speaker>||<边框>2</边框>:너... 몸은 다 나았니? 의사 선생님이 뭐래?
-NPC-Kalin(8)<Speaker>카리나</Speaker>||<边框>2</边框>:헤헤, 저 다 나았어요! 이제 입원해 있을 필요 없다니까 오늘 퇴원할 거예요!
-()||<边框>2</边框>:카리나는 발랄하게 웃으며 짐을 싸는 중이었다, 침대 옆 협탁에 놓인 싱싱한 꽃이 한층 더 밝은 분위기를 내었다.
-()<Speaker>지휘관</Speaker>||<边框>2</边框>:퇴원해도 된대?
-NPC-Kalin(3)<Speaker>카리나</Speaker>||<边框>2</边框>:...입원비 엄청 비싼걸요. 명세서 볼 때마다 가슴 아파 죽겠어요.
-NPC-Kalin(3)<Speaker>지휘관</Speaker><同时置暗>||<边框>2</边框>:이 녀석이... 네가 아까워할 게 어딨어? 다 내 통장에서 나가는 건데.
-NPC-Kalin(7)<Speaker>카리나</Speaker>||<边框>2</边框>:제가 빨리 퇴원해야, 지휘관님이 약 찾는다고 무작정 돌아다니지 않으실 거 아니에요.
-()||<黑屏1><边框>2</边框>:카리나가 고개를 돌려 지휘관을 마주봤다.
-()<Speaker>카리나</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:병문안 오시는 거 매일 기다렸는데, 한 번도 안 오시고.
-()<Speaker>지휘관</Speaker>||:윽... 미안해 카리나, 그게――?
-()||:뜨끔하며 시선을 돌린 협탁에 놓인 꽃이, 시들었다.+털썩.+그리고 시선을 돌린 그 순간, 카리나도 의식을 잃고 바닥에 쓰러졌다.
-()<Speaker>지휘관</Speaker>||:카리나? 카리나!!+카리나, 정신 차려!!+의사... 의사 있습니까!!
-()||<SE1>AVG_Door_Hit</SE1><黑屏1>:지휘관은 카리나를 안아 들고 일어나, 병실의 문을 확 열어재꼈다.
-()<Speaker>지휘관</Speaker>||<BIN>398</BIN><黑屏2><BGM>m_avg_labyrinth</BGM><边框>2</边框>:여기 환자가――
-()||<边框>2</边框><common_effect>%%code=CJX_xm_yan%%</common_effect>:하지만 문을 열자 보인 것은 병원의 복도가 아니었다. 치솟는 불길과 자욱한 연기, 초연 냄새가 코를 찌르는 어딘가였다.
-()<Speaker>지휘관</Speaker>||<边框>2</边框>:뭐야... 이게 무슨 상황이야...?!+우, 우리 인형들은 어딨지...?
-()<Speaker>？？？</Speaker>||<边框>2</边框>:지휘관...님...+저희... 여기 있......
-()||<边框>2</边框>:얼굴을 알아볼 수 없는 인형이 절뚝거리며 다가왔고, 지휘관은 그녀를 향해 손을 뻗었다.
-()<Speaker>지휘관</Speaker>||<边框>2</边框><闪屏><duration>10</duration><rate>20</rate><delay>30</delay><CG>393,394,419,398</CG></闪屏>:여긴... 그리폰 기지?
-()<Speaker>？？？</Speaker>||<边框>2</边框>:구해 주세요...
-()||<边框>2</边框>:지휘관의 품에 쓰러지는 것과 동시에, 인형의 몸이 점점 흩어져갔다.+반사적으로 그녀를 부둥켜안았지만, 바스라져 가는 그녀의 몸을 붙잡아 둘 수 없었다.
-()<Speaker>지휘관</Speaker>||<边框>2</边框>:너 누구니? 기지에 대체 무슨 일이 벌어진 거야!?
-()||<黑屏1><边框>2</边框>:그녀는 대답하지 못하고, 잔불이 되어 지휘관의 팔 사이로 흘러내렸다.+떨리는 눈으로 내려다본 바닥은, 온통 타고 남은 잿더미뿐이었다.
-AR15Mod(0)<Speaker>AR15</Speaker>||<睁眼><BIN>357</BIN><BGM>BGM_Empty</BGM><关闭蒙版>:지휘관...
-RO635Mod(0)<Speaker>RO635</Speaker>||:악몽이라도 꾸셨어요...?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:꿈에서 괴물 나왔어? 내가 다 때려잡아 줄게!
-M4 SOPMOD IIMod(0)<Speaker>지휘관</Speaker><同时置暗>||:난... 괜찮아.
-()||<BGM>m_wv_title</BGM>:베를린 교외의 임시 지휘부. 소파에서 악몽에 시달린 지휘관이 식은땀을 흘리며 깨어났다.
-()<Speaker>지휘관</Speaker>||:...꿈이 좀 생생했어.
-()||:하지만 가슴은 여전히 벌렁거렸다.+지휘관이 고개를 돌리니, 옆자리의 M4A1은 여전히 잠들어 있었다. 지휘관의 잠꼬대에도 방해받지 않은 듯했다.+그녀에게 다시 이불을 덮어 주면서, 지휘관은 피로감 역력한 얼굴로 한숨을 내쉬었다.
-()<Speaker>지휘관</Speaker>||:M4는... 아직도 안 깨어났어?
-AR15Mod(4)<Speaker>AR15</Speaker>||:아뇨, 계속 지켜봤지만 손가락 하나 안 움직였어요.
-AR15Mod(4)<Speaker>지휘관</Speaker><同时置暗>||:......
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:걱정 마 지휘관, M4잖아! 분명 괜찮을 거야!
-RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님, 물 한 잔 마시면서 진정하세요. 지금 심박수가 엄청 높으세요.
-RO635Mod(0)<Speaker>지휘관</Speaker><同时置暗>||:응... 고마워 RO.
-()||:소파에서 일어나려던 그때, 차가우면서도 부드러운 손이 지휘관의 손을 붙잡았다.
-NytoIsomer(9)<Speaker>M4A1</Speaker>||:지휘관님...?
-NytoIsomer(9)<Speaker>지휘관</Speaker><同时置暗>||:M4...! 정신이 드니?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:M4!! 너 괜찮아?! 너 엄청 오래 잤어!
-NytoIsomer(9)<Speaker>M4A1</Speaker>||:난... 괜찮아요...
-()||:지휘관의 부축을 받으며 앉은 M4A1이 부스스한 눈을 비볐다.+AR-15와 SOP2가 가장 먼저 M4A1의 곁에 모여들었고, RO635는 헐레벌떡 데운 타올을 가져왔다.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:무사해서 정말 다행이야!
-AR15Mod(5)<Speaker>AR15</Speaker>||:몸에 어디 불편한 덴 없어?
-NytoIsomer(9)<Speaker>M4A1</Speaker>||:조금 피곤한 걸 빼면, 딱히 아무 느낌도...+저, 얼마나 잤나요? 그동안 무슨 일이 있었죠?
-()||<BGM>BGM_Empty</BGM>:걱정 가득한 눈빛으로 바라보던 AR-15가, 갑자기 인상을 썼다.
-AR15Mod(4)<Speaker>AR15</Speaker>||<BGM>BGM_Sneak</BGM>:......
-NytoIsomer(9)<Speaker>M4A1</Speaker>||:...AR-15? 왜 그래요? 제 얼굴에 뭐 묻었나요?
-()||:그리고 얼굴도 어두워지더니, M4A1의 말도 무시하고 그녀의 얼굴을 덥석 붙잡아 자세히 살펴봤다.
-()<Speaker>지휘관</Speaker>||:AR-15?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:으음...? 뭔가 좀... 어색하다?
-AR15Mod(4)<Speaker>AR15</Speaker>||:너...
-NytoIsomer(9)<Speaker>M4A1</Speaker>||:AR-15...? 그, 그렇게 잡으면 아파요...
-NytoIsomer(9)<Speaker>지휘관</Speaker><同时置暗>||:AR-15, 일단 손에 힘부터 풀으렴.
-()||:잠시 후, AR-15는 툴툴대며 손을 놓곤 지휘관에게 고개를 돌렸다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:얘 M4 아니에요.
-AR15Mod(0)<Speaker>지휘관</Speaker><同时置暗>||:뭐?
-NytoIsomer(9)<Speaker>？M4A1</Speaker>||:제가 M4가 아니라니... 그럼 전 누구죠...?
-AR15Mod(4)<Speaker>AR15</Speaker>||<SE1>Select</SE1>:......
-NytoIsomer(9)<Speaker>？M4A1</Speaker>||:AR-15...+함께 집으로 돌아가기로 약속했잖아요?
-AR15Mod(5)<Speaker>AR15</Speaker>||:너 진짜!
-RO635Mod(0)<Speaker>RO635</Speaker>||:앗, AR-15! 진정해!
-()||:열받은 AR-15를 RO635가 뜯어말리는 광경을 재밌다는 듯 보면서도, "그녀"는 무미건조한 투로 입을 열었다.
-NytoIsomer(9)<Speaker>댄들라이</Speaker>||:벌써 들켰네, 시시해.
-NytoIsomer(9)<Speaker>지휘관</Speaker><同时置暗>||:댄들라이니...?
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:엥!? 그럼 M4는? M4 어디 갔어?!
-NytoIsomer(9)<Speaker>댄들라이</Speaker>||:글쎄, 나도 모르겠네. 어쩌면 내가 잡아먹었을지도?
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:뭐야!? 너어어――!!
-()||:SOP2가 댄들라이의 팔을 덥석 물었다.
-RO635Mod(4)<Speaker>RO635</Speaker>||:SOP2!
-RO635Mod(4)<Speaker>지휘관</Speaker><同时置暗>||:......
-()||:소체의 주도권이 댄들라이에게 되돌아간 것을 깨달은 지휘관은 아쉬움에 다리가 풀려 소파에 털썩 주저앉았다.
-RO635Mod(2)<Speaker>RO635</Speaker>||:지휘관님...
-()||<SE1>RunStep</SE1>:RO635가 한눈파는 사이에 AR-15까지 풀려나 댄들라이에게 달려들어, 조용했던 임시 지휘부가 순식간에 떠들썩해졌다.+넋이 나간 표정의 지휘관을 본 RO635는 제지를 포기하고, 대신 서둘러 따뜻한 물 한 잔을 가져왔다.
-RO635Mod(2)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:지휘관님, M4 씨는 꼭 돌아올 거예요.
-RO635Mod(2)<Speaker>지휘관</Speaker><同时置暗>||:...응.
-()||<SE1>AVG_doorknock_wood</SE1><BGM>BGM_Empty</BGM>:그때, 겁먹은 듯한 노크 소리가 들려왔다.+언제 왔는지, 문짝이 뜯어진 문틀 앞의 카이바르가 난장판이 된 방에 어쩔 줄 몰라하며 다가왔다.
-KH2002(0)<Speaker>카이바르</Speaker>||<BGM>m_avg_casual</BGM>:지, 지휘관... 여기 무슨 일이야...?
-KH2002(0)<Speaker>지휘관</Speaker><同时置暗>||:얘네 원래 이렇게 다투고 그래.
-KH2002(0)<Speaker>카이바르</Speaker>||:오오... 그리폰의 일상은 이렇구나...
-KH2002(0)<Speaker>지휘관</Speaker><同时置暗>||:아니 그건 아니지만...
-KH2002(0)<Speaker>카이바르</Speaker>||:아, 까먹을 뻔했다. 지휘관이 저번에 훈작사한테 패러데우스가 인질 교환 거래 제시한 거 물어보라 했잖아? 방금 답신이 왔어.
-KH2002(0)<Speaker>지휘관</Speaker><同时置暗>||:뭐라고 했어?
-KH2002(0)<Speaker>카이바르</Speaker>||:"몰리도의 처우는 지휘관에게 전권 위임하겠다."
-KH2002(0)<Speaker>지휘관</Speaker><同时置暗>||:훈작사께 의견을 존중해 줘서 고맙다고 전해 주렴.
-KH2002(0)<Speaker>카이바르</Speaker>||:응.
-()||:카이바르는 고개를 끄덕이곤 잔뜩 어질러진 바닥의 장애물을 넘어 방에서 나갔다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:정말 몰리도를 넘길 셈이야?+M4가 알아서 처리하겠다곤 했지만, 공항에서의 일은 너무 갑작스러웠는데.
-RO635Mod(0)<Speaker>RO635</Speaker>;UMP45Mod(0)||:M4 씨는 몰리도에게, "때가 되면"이라 했어요. 지금도 적절한 타이밍이라 생각해요.+M4 씨의 바람대로 하면서, 동시에 안젤리아 씨를 되찾을 수 있을지도 모르잖아요.
-RO635Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:결국 몰리도를 어떤 식으로 풀어 주려는 건지는 끝까지 설명을 못 들었지만.
-RO635Mod(0)<Speaker>RO635</Speaker>;UMP45Mod(0)||:그래도 뜻은 명확했어요.
-RO635Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:안젤리아를 구할 수 있다면야 나도 두 손 들고 찬성이야. 하지만 자칫 잘못했다간 몰리도가 우리에 관한 정보를 잔뜩 가진 채로 윌리엄에게 돌아가는 꼴밖에 안 돼.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:이건 패러데우스한테 꿇고 들어가는 거라고. 우리가 그 후폭풍을 감당할 수 있겠어?
-UMP45Mod(0)<Speaker>지휘관</Speaker><同时置暗>||:알아, 리스크가 크지. 하지만 모처럼 찾아온 기회이기도 해. 이번에 놓치면, 우린 언제 또 윌리엄의 꼬리를 붙잡을지 알 수 없어.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:무슨 뜻인진 알겠는데에... 그래도 역시 너무 무모하다니깐?
-()||:UMP45는 뭔가 계속 말하려는 눈치였지만, 한층 더 시끄러워진 소란이 그녀의 말을 끊었다.
-NytoIsomer(9)<Speaker>댄들라이</Speaker>||:잊지 마, 나 아직 면죄부 남았어.
-AR15Mod(4)<Speaker>AR15</Speaker>||:그딴 거 이제 없어!!+얼른 지휘관한테 똑바로 설명이나 해!
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:설명해!
-()||:한바탕 투닥거리고 난 뒤, AR-15와 SOP2가 댄들라이를 지휘관 앞에 떠밀었다.+옷차림도 흐트러지고 머리도 엉망이었지만, 그녀는 상관없다는 듯 전혀 신경쓰지 않고 옷의 먼지만 털어내고 담담하게 지휘관을 바라봤다.
-NytoIsomer(9)<Speaker>댄들라이</Speaker>||:짐작하신 바와 같이, 루니샤가 떠났습니다.
-NytoIsomer(9)<Speaker>지휘관</Speaker><同时置暗>||:어디로 간지 알아?
-NytoIsomer(9)<Speaker>댄들라이</Speaker>||:그야 저도 모르죠. 그저, 지금 여기엔 없다는 것만은 확실합니다.
-NytoIsomer(9)<Speaker>지휘관</Speaker><同时置暗>||:언제 다시 돌아올지도?
-NytoIsomer(9)<Speaker>댄들라이</Speaker>||:네, 루니샤의 현황에 관해서는 저도 지휘관님보다 많이 아는 게 아니라서 말이죠.
-AR15Mod(0)<Speaker>AR15</Speaker>||:숨기지 말라니까!?
-NytoIsomer(9)<Speaker>댄들라이</Speaker>||:루니샤와 재회하고 싶은 건 나도 똑같아, 수많은 의문에 답해 줄 수 있는 건 오직 루니샤뿐인걸.+하지만 유감스럽게도, 나로선 그녀에게 연락할 방법도 없고 언제 다시 돌아올지도 몰라.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:으... 벌써 M4를 보고 싶어졌어...
-RO635Mod(0)<Speaker>RO635</Speaker>||:...꼭 다시 만나게 될 거야. 꼭.+다만, 우린 그 전에 완수해야 할 임무가 있잖아?
-RO635Mod(0)<Speaker>지휘관</Speaker><同时置暗>||:......
-()||:지휘관은 AR팀을 차례대로 바라봤다.+베를린에 도착하고부터 계속 자신과 함께한 이들에겐 쉴 틈이 나질 않아, 항상 극도로 긴장하면서 언제 닥쳐올지 모르는 위협에 대비해야 했다.+아무리 전술인형이라도, 이대로는 피로와 스트레스에 무너질 때가 올 것이 분명했다.
-()<Speaker>지휘관</Speaker>||<黑点1>:그래, 조금만 더 힘내자. 얼마 안 남았어.
-()||<黑点2><BGM>BGM_Empty</BGM>:약속한 시간이 다가오자, 지휘관은 카이바르에게 통신을 지시했다.+일곱 번의 발신음 뒤, 상대가 통신을 받았다.
-NPC-MrsGray(6)<Speaker>？？？</Speaker><通讯框>||<BGM>BGM_stage11</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>시간을 잘 지키는군요, 그리폰의 지휘관. 어떡할지 결론을 내렸나요?</color>
-NPC-MrsGray(6)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:거래를 받아들이겠다. 단, 그 전에 안젤리아와 대화해야겠다.
-NPC-MrsGray(6)<Speaker>？？？</Speaker><通讯框>||:<color=#00CCFF>안 된다고 한다면?</color>
-NPC-MrsGray(6)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:거래를 제안한 건 너희다. 최소한의 성의라도 보이지 않으면 거래고 뭐고 없어.
-()||:상대가 코웃음 치는 소리가 잠깐 멀어졌다.+그리고 곧바로, 참지 못하고 새어 나오는 비명 소리가 들렸다.
-()||<SE1>Rope</SE1>:그 소리에, 지휘관은 손가락이 하얗게 될 정도로 수화기를 꽉 움켜쥐었다.
-NPC-MrsGray(6)<Speaker>？？？</Speaker><通讯框>||:<color=#00CCFF>만족하셨나요?</color>+<color=#00CCFF>안젤리아는 아주 팔팔하답니다.</color>
-NPC-MrsGray(6)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:......
-NPC-MrsGray(6)<Speaker>？？？</Speaker><通讯框>||:<color=#00CCFF>다시 거래 얘기를 할까요?</color>
-NPC-MrsGray(6)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:...2시간 후, 그 공항에서 보자.
-NPC-MrsGray(6)<Speaker>？？？</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>기다리고 있을게요.</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>313</BIN><边框>2</边框><BGM>GF_21winter_avg_nightbar</BGM>:잔잔한 음악이 흘렀다.+그 소리에 정신을 차린 지휘관은, 술집의 테이블 앞에 앉은 자신을 발견했다.+차가운 진저 에일 한 잔이 테이블 위에 길쭉한 물자국을 남기며 손 옆으로 미끄러져 왔다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||<边框>2</边框>:내가 쏘는 거야.
+NPC-Ange(7)<Speaker>지휘관</Speaker><同时置暗>||<边框>2</边框>:안젤리아 씨!?
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||<边框>2</边框>:응?
+()||<SE1>AVG_20Winter_Cheers</SE1><边框>2</边框>:테이블 맞은편에 안젤리아가 있었다. 그녀는 주황빛 위스키가 든 잔을 천천히 흔들었고, 그때마다 얼음 조각이 잔에 부딪히며 달그락 소리를 냈다.
+()<Speaker>지휘관</Speaker>||<边框>2</边框>:...무사하셔서 다행입니다.+그렇지, 우리가 진짜 몰리도를 찾아냈습니다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||<边框>2</边框>:그래?
+()||<边框>2</边框>:어째선지, 안젤리아는 관심없다는 듯 술값과 팁을 툭 던지며 자리에서 일어났다.
+()<Speaker>지휘관</Speaker>||<边框>2</边框>:어디... 가십니까?
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||<边框>2</边框>:......
+()||<SE1>Select</SE1><边框>2</边框>:안젤리아는 대답 대신 허리춤에서 권총을 뽑아 지휘관을 겨눴다.
+()<Speaker>지휘관</Speaker>||<边框>2</边框>:안젤리아 씨...?
+NPC-Ange(7)<Speaker>안젤리아</Speaker><GradientHide>4</GradientHide>||<BGM>BGM_Empty</BGM><边框>2</边框><黑屏1>:네 눈에 보이는 것 전부가 진실은 아니야. 지휘관, 눈에 의존하지 마.
+()<Speaker>지휘관</Speaker>||<黑屏2><BIN>9</BIN>:네?
+()||<SE1>AVG_pistol_finalshot_n</SE1><黑屏1><CGDelay>2</CGDelay>:타앙!!!
+()||<睁眼><BIN>160</BIN><边框>2</边框><BGM>GF_Swim_Marnie</BGM>:지휘관은 가슴을 움켜쥐며 침대에서 벌떡 일어났다.
+()<Speaker>지휘관</Speaker>||<边框>2</边框>:헉!! ...여긴 어디지?
+NPC-Kalin(1)<Speaker>카리나</Speaker>||<边框>2</边框>:일어나셨나요 지휘관님?
+NPC-Kalin(1)<Speaker>지휘관</Speaker><同时置暗>||<边框>2</边框>:카리나...?
+()||<边框>2</边框>:침대 옆에 카리나가 앉아있었다. 조금 초췌한 기색이었지만, 그래도 기운만은 넘쳐 보였다.
+()<Speaker>지휘관</Speaker>||<边框>2</边框>:너... 몸은 다 나았니? 의사 선생님이 뭐래?
+NPC-Kalin(8)<Speaker>카리나</Speaker>||<边框>2</边框>:헤헤, 저 다 나았어요! 이제 입원해 있을 필요 없다니까 오늘 퇴원할 거예요!
+()||<边框>2</边框>:카리나는 발랄하게 웃으며 짐을 싸는 중이었다, 침대 옆 협탁에 놓인 싱싱한 꽃이 한층 더 밝은 분위기를 내었다.
+()<Speaker>지휘관</Speaker>||<边框>2</边框>:퇴원해도 된대?
+NPC-Kalin(3)<Speaker>카리나</Speaker>||<边框>2</边框>:...입원비 엄청 비싼걸요. 명세서 볼 때마다 가슴 아파 죽겠어요.
+NPC-Kalin(3)<Speaker>지휘관</Speaker><同时置暗>||<边框>2</边框>:이 녀석이... 네가 아까워할 게 어딨어? 다 내 통장에서 나가는 건데.
+NPC-Kalin(7)<Speaker>카리나</Speaker>||<边框>2</边框>:제가 빨리 퇴원해야, 지휘관님이 약 찾는다고 무작정 돌아다니지 않으실 거 아니에요.
+()||<黑屏1><边框>2</边框>:카리나가 고개를 돌려 지휘관을 마주봤다.
+()<Speaker>카리나</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:병문안 오시는 거 매일 기다렸는데, 한 번도 안 오시고.
+()<Speaker>지휘관</Speaker>||:윽... 미안해 카리나, 그게――?
+()||:뜨끔하며 시선을 돌린 협탁에 놓인 꽃이, 시들었다.+털썩.+그리고 시선을 돌린 그 순간, 카리나도 의식을 잃고 바닥에 쓰러졌다.
+()<Speaker>지휘관</Speaker>||:카리나? 카리나!!+카리나, 정신 차려!!+의사... 의사 있습니까!!
+()||<SE1>AVG_Door_Hit</SE1><黑屏1>:지휘관은 카리나를 안아 들고 일어나, 병실의 문을 확 열어재꼈다.
+()<Speaker>지휘관</Speaker>||<BIN>398</BIN><黑屏2><BGM>m_avg_labyrinth</BGM><边框>2</边框>:여기 환자가――
+()||<边框>2</边框><common_effect>%%code=CJX_xm_yan%%</common_effect>:하지만 문을 열자 보인 것은 병원의 복도가 아니었다. 치솟는 불길과 자욱한 연기, 초연 냄새가 코를 찌르는 어딘가였다.
+()<Speaker>지휘관</Speaker>||<边框>2</边框>:뭐야... 이게 무슨 상황이야...?!+우, 우리 인형들은 어딨지...?
+()<Speaker>？？？</Speaker>||<边框>2</边框>:지휘관...님...+저희... 여기 있......
+()||<边框>2</边框>:얼굴을 알아볼 수 없는 인형이 절뚝거리며 다가왔고, 지휘관은 그녀를 향해 손을 뻗었다.
+()<Speaker>지휘관</Speaker>||<边框>2</边框><闪屏><duration>10</duration><rate>20</rate><delay>30</delay><CG>393,394,419,398</CG></闪屏>:여긴... 그리폰 기지?
+()<Speaker>？？？</Speaker>||<边框>2</边框>:구해 주세요...
+()||<边框>2</边框>:지휘관의 품에 쓰러지는 것과 동시에, 인형의 몸이 점점 흩어져갔다.+반사적으로 그녀를 부둥켜안았지만, 바스라져 가는 그녀의 몸을 붙잡아 둘 수 없었다.
+()<Speaker>지휘관</Speaker>||<边框>2</边框>:너 누구니? 기지에 대체 무슨 일이 벌어진 거야!?
+()||<黑屏1><边框>2</边框>:그녀는 대답하지 못하고, 잔불이 되어 지휘관의 팔 사이로 흘러내렸다.+떨리는 눈으로 내려다본 바닥은, 온통 타고 남은 잿더미뿐이었다.
+AR15Mod(0)<Speaker>AR15</Speaker>||<睁眼><BIN>357</BIN><BGM>BGM_Empty</BGM><关闭蒙版>:지휘관...
+RO635Mod(0)<Speaker>RO635</Speaker>||:악몽이라도 꾸셨어요...?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:꿈에서 괴물 나왔어? 내가 다 때려잡아 줄게!
+M4 SOPMOD IIMod(0)<Speaker>지휘관</Speaker><同时置暗>||:난... 괜찮아.
+()||<BGM>m_wv_title</BGM>:베를린 교외의 임시 지휘부. 소파에서 악몽에 시달린 지휘관이 식은땀을 흘리며 깨어났다.
+()<Speaker>지휘관</Speaker>||:...꿈이 좀 생생했어.
+()||:하지만 가슴은 여전히 벌렁거렸다.+지휘관이 고개를 돌리니, 옆자리의 M4A1은 여전히 잠들어 있었다. 지휘관의 잠꼬대에도 방해받지 않은 듯했다.+그녀에게 다시 이불을 덮어 주면서, 지휘관은 피로감 역력한 얼굴로 한숨을 내쉬었다.
+()<Speaker>지휘관</Speaker>||:M4는... 아직도 안 깨어났어?
+AR15Mod(4)<Speaker>AR15</Speaker>||:아뇨, 계속 지켜봤지만 손가락 하나 안 움직였어요.
+AR15Mod(4)<Speaker>지휘관</Speaker><同时置暗>||:......
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:걱정 마 지휘관, M4잖아! 분명 괜찮을 거야!
+RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님, 물 한 잔 마시면서 진정하세요. 지금 심박수가 엄청 높으세요.
+RO635Mod(0)<Speaker>지휘관</Speaker><同时置暗>||:응... 고마워 RO.
+()||:소파에서 일어나려던 그때, 차가우면서도 부드러운 손이 지휘관의 손을 붙잡았다.
+NytoIsomer(9)<Speaker>M4A1</Speaker>||:지휘관님...?
+NytoIsomer(9)<Speaker>지휘관</Speaker><同时置暗>||:M4...! 정신이 드니?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:M4!! 너 괜찮아?! 너 엄청 오래 잤어!
+NytoIsomer(9)<Speaker>M4A1</Speaker>||:난... 괜찮아요...
+()||:지휘관의 부축을 받으며 앉은 M4A1이 부스스한 눈을 비볐다.+AR-15와 SOP2가 가장 먼저 M4A1의 곁에 모여들었고, RO635는 헐레벌떡 데운 타올을 가져왔다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:무사해서 정말 다행이야!
+AR15Mod(5)<Speaker>AR15</Speaker>||:몸에 어디 불편한 덴 없어?
+NytoIsomer(9)<Speaker>M4A1</Speaker>||:조금 피곤한 걸 빼면, 딱히 아무 느낌도...+저, 얼마나 잤나요? 그동안 무슨 일이 있었죠?
+()||<BGM>BGM_Empty</BGM>:걱정 가득한 눈빛으로 바라보던 AR-15가, 갑자기 인상을 썼다.
+AR15Mod(4)<Speaker>AR15</Speaker>||<BGM>BGM_Sneak</BGM>:......
+NytoIsomer(9)<Speaker>M4A1</Speaker>||:...AR-15? 왜 그래요? 제 얼굴에 뭐 묻었나요?
+()||:그리고 얼굴도 어두워지더니, M4A1의 말도 무시하고 그녀의 얼굴을 덥석 붙잡아 자세히 살펴봤다.
+()<Speaker>지휘관</Speaker>||:AR-15?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:으음...? 뭔가 좀... 어색하다?
+AR15Mod(4)<Speaker>AR15</Speaker>||:너...
+NytoIsomer(9)<Speaker>M4A1</Speaker>||:AR-15...? 그, 그렇게 잡으면 아파요...
+NytoIsomer(9)<Speaker>지휘관</Speaker><同时置暗>||:AR-15, 일단 손에 힘부터 풀으렴.
+()||:잠시 후, AR-15는 툴툴대며 손을 놓곤 지휘관에게 고개를 돌렸다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:얘 M4 아니에요.
+AR15Mod(0)<Speaker>지휘관</Speaker><同时置暗>||:뭐?
+NytoIsomer(9)<Speaker>？M4A1</Speaker>||:제가 M4가 아니라니... 그럼 전 누구죠...?
+AR15Mod(4)<Speaker>AR15</Speaker>||<SE1>Select</SE1>:......
+NytoIsomer(9)<Speaker>？M4A1</Speaker>||:AR-15...+함께 집으로 돌아가기로 약속했잖아요?
+AR15Mod(5)<Speaker>AR15</Speaker>||:너 진짜!
+RO635Mod(0)<Speaker>RO635</Speaker>||:앗, AR-15! 진정해!
+()||:열받은 AR-15를 RO635가 뜯어말리는 광경을 재밌다는 듯 보면서도, "그녀"는 무미건조한 투로 입을 열었다.
+NytoIsomer(9)<Speaker>댄들라이</Speaker>||:벌써 들켰네, 시시해.
+NytoIsomer(9)<Speaker>지휘관</Speaker><同时置暗>||:댄들라이니...?
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:엥!? 그럼 M4는? M4 어디 갔어?!
+NytoIsomer(9)<Speaker>댄들라이</Speaker>||:글쎄, 나도 모르겠네. 어쩌면 내가 잡아먹었을지도?
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:뭐야!? 너어어――!!
+()||:SOP2가 댄들라이의 팔을 덥석 물었다.
+RO635Mod(4)<Speaker>RO635</Speaker>||:SOP2!
+RO635Mod(4)<Speaker>지휘관</Speaker><同时置暗>||:......
+()||:소체의 주도권이 댄들라이에게 되돌아간 것을 깨달은 지휘관은 아쉬움에 다리가 풀려 소파에 털썩 주저앉았다.
+RO635Mod(2)<Speaker>RO635</Speaker>||:지휘관님...
+()||<SE1>RunStep</SE1>:RO635가 한눈파는 사이에 AR-15까지 풀려나 댄들라이에게 달려들어, 조용했던 임시 지휘부가 순식간에 떠들썩해졌다.+넋이 나간 표정의 지휘관을 본 RO635는 제지를 포기하고, 대신 서둘러 따뜻한 물 한 잔을 가져왔다.
+RO635Mod(2)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:지휘관님, M4 씨는 꼭 돌아올 거예요.
+RO635Mod(2)<Speaker>지휘관</Speaker><同时置暗>||:...응.
+()||<SE1>AVG_doorknock_wood</SE1><BGM>BGM_Empty</BGM>:그때, 겁먹은 듯한 노크 소리가 들려왔다.+언제 왔는지, 문짝이 뜯어진 문틀 앞의 카이바르가 난장판이 된 방에 어쩔 줄 몰라하며 다가왔다.
+KH2002(0)<Speaker>카이바르</Speaker>||<BGM>m_avg_casual</BGM>:지, 지휘관... 여기 무슨 일이야...?
+KH2002(0)<Speaker>지휘관</Speaker><同时置暗>||:얘네 원래 이렇게 다투고 그래.
+KH2002(0)<Speaker>카이바르</Speaker>||:오오... 그리폰의 일상은 이렇구나...
+KH2002(0)<Speaker>지휘관</Speaker><同时置暗>||:아니 그건 아니지만...
+KH2002(0)<Speaker>카이바르</Speaker>||:아, 까먹을 뻔했다. 지휘관이 저번에 훈작사한테 패러데우스가 인질 교환 거래 제시한 거 물어보라 했잖아? 방금 답신이 왔어.
+KH2002(0)<Speaker>지휘관</Speaker><同时置暗>||:뭐라고 했어?
+KH2002(0)<Speaker>카이바르</Speaker>||:"몰리도의 처우는 지휘관에게 전권 위임하겠다."
+KH2002(0)<Speaker>지휘관</Speaker><同时置暗>||:훈작사께 의견을 존중해 줘서 고맙다고 전해 주렴.
+KH2002(0)<Speaker>카이바르</Speaker>||:응.
+()||:카이바르는 고개를 끄덕이곤 잔뜩 어질러진 바닥의 장애물을 넘어 방에서 나갔다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:정말 몰리도를 넘길 셈이야?+M4가 알아서 처리하겠다곤 했지만, 공항에서의 일은 너무 갑작스러웠는데.
+RO635Mod(0)<Speaker>RO635</Speaker>;UMP45Mod(0)||:M4 씨는 몰리도에게, "때가 되면"이라 했어요. 지금도 적절한 타이밍이라 생각해요.+M4 씨의 바람대로 하면서, 동시에 안젤리아 씨를 되찾을 수 있을지도 모르잖아요.
+RO635Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:결국 몰리도를 어떤 식으로 풀어 주려는 건지는 끝까지 설명을 못 들었지만.
+RO635Mod(0)<Speaker>RO635</Speaker>;UMP45Mod(0)||:그래도 뜻은 명확했어요.
+RO635Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:안젤리아를 구할 수 있다면야 나도 두 손 들고 찬성이야. 하지만 자칫 잘못했다간 몰리도가 우리에 관한 정보를 잔뜩 가진 채로 윌리엄에게 돌아가는 꼴밖에 안 돼.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:이건 패러데우스한테 꿇고 들어가는 거라고. 우리가 그 후폭풍을 감당할 수 있겠어?
+UMP45Mod(0)<Speaker>지휘관</Speaker><同时置暗>||:알아, 리스크가 크지. 하지만 모처럼 찾아온 기회이기도 해. 이번에 놓치면, 우린 언제 또 윌리엄의 꼬리를 붙잡을지 알 수 없어.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:무슨 뜻인진 알겠는데에... 그래도 역시 너무 무모하다니깐?
+()||:UMP45는 뭔가 계속 말하려는 눈치였지만, 한층 더 시끄러워진 소란이 그녀의 말을 끊었다.
+NytoIsomer(9)<Speaker>댄들라이</Speaker>||:잊지 마, 나 아직 면죄부 남았어.
+AR15Mod(4)<Speaker>AR15</Speaker>||:그딴 거 이제 없어!!+얼른 지휘관한테 똑바로 설명이나 해!
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:설명해!
+()||:한바탕 투닥거리고 난 뒤, AR-15와 SOP2가 댄들라이를 지휘관 앞에 떠밀었다.+옷차림도 흐트러지고 머리도 엉망이었지만, 그녀는 상관없다는 듯 전혀 신경쓰지 않고 옷의 먼지만 털어내고 담담하게 지휘관을 바라봤다.
+NytoIsomer(9)<Speaker>댄들라이</Speaker>||:짐작하신 바와 같이, 루니샤가 떠났습니다.
+NytoIsomer(9)<Speaker>지휘관</Speaker><同时置暗>||:어디로 간지 알아?
+NytoIsomer(9)<Speaker>댄들라이</Speaker>||:그야 저도 모르죠. 그저, 지금 여기엔 없다는 것만은 확실합니다.
+NytoIsomer(9)<Speaker>지휘관</Speaker><同时置暗>||:언제 다시 돌아올지도?
+NytoIsomer(9)<Speaker>댄들라이</Speaker>||:네, 루니샤의 현황에 관해서는 저도 지휘관님보다 많이 아는 게 아니라서 말이죠.
+AR15Mod(0)<Speaker>AR15</Speaker>||:숨기지 말라니까!?
+NytoIsomer(9)<Speaker>댄들라이</Speaker>||:루니샤와 재회하고 싶은 건 나도 똑같아, 수많은 의문에 답해 줄 수 있는 건 오직 루니샤뿐인걸.+하지만 유감스럽게도, 나로선 그녀에게 연락할 방법도 없고 언제 다시 돌아올지도 몰라.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:으... 벌써 M4를 보고 싶어졌어...
+RO635Mod(0)<Speaker>RO635</Speaker>||:...꼭 다시 만나게 될 거야. 꼭.+다만, 우린 그 전에 완수해야 할 임무가 있잖아?
+RO635Mod(0)<Speaker>지휘관</Speaker><同时置暗>||:......
+()||:지휘관은 AR팀을 차례대로 바라봤다.+베를린에 도착하고부터 계속 자신과 함께한 이들에겐 쉴 틈이 나질 않아, 항상 극도로 긴장하면서 언제 닥쳐올지 모르는 위협에 대비해야 했다.+아무리 전술인형이라도, 이대로는 피로와 스트레스에 무너질 때가 올 것이 분명했다.
+()<Speaker>지휘관</Speaker>||<黑点1>:그래, 조금만 더 힘내자. 얼마 안 남았어.
+()||<黑点2><BGM>BGM_Empty</BGM>:약속한 시간이 다가오자, 지휘관은 카이바르에게 통신을 지시했다.+일곱 번의 발신음 뒤, 상대가 통신을 받았다.
+NPC-MrsGray(6)<Speaker>？？？</Speaker><通讯框>||<BGM>BGM_stage11</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>시간을 잘 지키는군요, 그리폰의 지휘관. 어떡할지 결론을 내렸나요?</color>
+NPC-MrsGray(6)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:거래를 받아들이겠다. 단, 그 전에 안젤리아와 대화해야겠다.
+NPC-MrsGray(6)<Speaker>？？？</Speaker><通讯框>||:<color=#00CCFF>안 된다고 한다면?</color>
+NPC-MrsGray(6)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:거래를 제안한 건 너희다. 최소한의 성의라도 보이지 않으면 거래고 뭐고 없어.
+()||:상대가 코웃음 치는 소리가 잠깐 멀어졌다.+그리고 곧바로, 참지 못하고 새어 나오는 비명 소리가 들렸다.
+()||<SE1>Rope</SE1>:그 소리에, 지휘관은 손가락이 하얗게 될 정도로 수화기를 꽉 움켜쥐었다.
+NPC-MrsGray(6)<Speaker>？？？</Speaker><通讯框>||:<color=#00CCFF>만족하셨나요?</color>+<color=#00CCFF>안젤리아는 아주 팔팔하답니다.</color>
+NPC-MrsGray(6)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:......
+NPC-MrsGray(6)<Speaker>？？？</Speaker><通讯框>||:<color=#00CCFF>다시 거래 얘기를 할까요?</color>
+NPC-MrsGray(6)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:...2시간 후, 그 공항에서 보자.
+NPC-MrsGray(6)<Speaker>？？？</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>기다리고 있을게요.</color>

@@ -1,68 +1,68 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
-NPC-Kalin(3)<Speaker>카리나</Speaker>||<BIN>8</BIN><BGM>BGM_Room</BGM>:지휘관님, 정말 비존 혼자 보내도 괜찮겠어요?+정보에 따르면 최근 그 근방에 강도 무리가 나타났대요.
-NPC-Kalin(3)<Speaker>지휘관</Speaker>||:겨우 100km 거리인데 뭘, 별 문제 없을 거야.+그리고 정말 강도가 나타나더라도, 비존이라면 손쉽게 해결할 수 있잖아.
-NPC-Kalin(3)<Speaker>카리나</Speaker>||:그거 보고 "플래그"라 하는 거 아시죠?
-NPC-Kalin(3)<Speaker>지휘관</Speaker>||:하하, 그런 클리셰가 정말 통한다면 아예 K5한테 지휘를 맡기는 게 낫지.
-NPC-Kalin(3)<Speaker>카리나</Speaker>||:농담할 일이 아니잖아요!
-NPC-Kalin(3)<Speaker>지휘관</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:그래 그래, 나도 알아. 따로 한 명 더 보냈으니까 안심해, 별일 없을 거야.
-()||<黑屏2><BIN>187</BIN><BGM>BGM_Hello</BGM>:......+아직 오염이 심각하지 않은 황무지 위에서, 트럭 한 대가 조용히 움직였다.+트럭 앞좌석의 PP-19는 무릎에 어린 여자아이를 앉힌 채, 지루하단 표정으로 하염없이 창밖을 바라봤다.
-NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:바깥 풍경이 신기한가 봐?
-pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:응, 이렇게 나쁜놈 하나 없는 황야를 보긴 드물거든.
-pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:허허, 아가씨처럼 대화가 제대로 이뤄지는 전투 인형은 처음이라 나도 희한한 느낌인걸.+게다가 단순히 주위 경계가 아니라 정말 흥미를 가지고 보는 거 같고 말이야.
-pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:그런가? 내 회사 동료들 모두 개성적이라 희한하다 생각한 적 없었는데.+그나저나 아저씨는 PMC 고용한 게 이번이 처음이야?
-pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:맞아, 2년 동안 고생고생해서 지갑 사정이 좀 나아진 덕분이지.+예전같았으면 이렇게 뒤숭숭한 날엔 부랑자들한테 습격이라도 당하면 어쩌나 해서 트럭도 못 몰았다고.
-pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:이상하네, 부랑자가 아무리 막무가내라도 어떻게 이런 트럭에 덤벼?
-pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:맞아요 아빠! 이상해요!
-pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:에이, 강도가 어떻게 정면으로 덤벼들겠어?+놈들이 얼마나 교활하고 악랄한데. 평범한 떠돌이랑은 비교도 안 돼.
-pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:예를 들면?
-pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:도로에다 함정을 놓아서 타이어를 터뜨리고, 운전자가 내리는 순간 어디선가 튀어나와 물건을 털어 간다던가...+과장 좀 보태서 조난당한 탐험가 흉내를 내서 차를 얻어 타는 순간 총을 꺼낸다던가... 쓸데없이 창의력이 좋아서 절대 방심하면 안 되지.
-pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker><Shake>||:우와, 무섭다! 아빠도 당한 적 있어?
-pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:하하하, 이 아빠는 운이 좋아서, 그런 일 있었으면 이렇게 우리 공주님 데리고 엄마 보러 가지도 못했어요.
-pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:그럼 아빤 맨날맨날 운이 좋아야겠다!
-pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:그래, 셜리를 위해서 아빠 힘낼게.
-pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:정말 만난 적 없어? 말하는 게 마치 직접 봤다는 투인데.
-pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:놀랍게도 정말 없었어, 다 동업자들한테 들은 이야기야. 뭐, 적어도 목숨은 부지하고 돌아온 사람들의 이야기지만.
-pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:생물 샘플이 그렇게 돈이 돼?
-pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:그야 물론이지, 붕괴 감염이 없는 산 것은 어디서든 아주 불티나게 팔린다고. 특히나, 이번 건 청정지대서 방목하던 거라 부르는 게 값이지.+다만 저 녀석들 성깔이 보통 더러운 게 아니라서, 운송하려고 차에다 태우는 것부터가 고난이었다니까.
-pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:하지만 짐칸에서 별 소리 안 들리는데? 마취했어?
-pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:어떻게 이렇게 오래 마취해 두겠어? 다 내 운전 실력과 공간 분할, 그리고 최첨단 기술의 집대성 덕분이지.+자랑은 아니지만, 이 트럭에 들인 돈만 해도 아가씨 같은 인형 3명은 만들 수 있을 거야.
-pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:우와아... 비결이라도 있나 보네?
-pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:하하, 그렇지! 모의 환경 구성 시뮬레이션으로 녀석들이 지금도 원래 자기가 살던 곳에 있는 것처럼 느끼게 하고, 수 년을 들여서 차의 진동을 최대한으로 줄이는 운전 노하우까지 터득했거든.+내가 이 업계에 발을 들이고 3년 넘게 수습생으로 선배 밑에서 일하면서 배웠지. 이 차도 선배 걸 따라 만든 거야.
-pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:역시 잘 모르겠네, 그럼 이 차가 저 뒤의 동물들보다 비싸?
-pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:어... 만약 저 녀석들도 내가 기른 거라 마진을 나 혼자서 독식한다 치면, 한 5번 정도 뛰면 이 차 한 대 사겠네.
-pp19(0)<Speaker>pp19</Speaker><Shake>;NPC-PasserbyM(0)||:마진 엄청나네!
-pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:내 말이. 그래서 우리 같은 운송업자들은 부랑자들 눈엔 토실토실한 먹잇감이란 거지.+놈들은 우리가 그저 한탕 장사하는 줄로만 알고, 기회만 생기면 뺏으려 든다니까.+최근에 또 강도 무리까지 나타났다던데, 연말만 아니었어도 셜리 데리고 애 엄마 보러 가지도 않았어...
-pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:무서워...
-pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:걱정 마 셜리, 내가 꼭 지켜줄게.
-pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:언니 세요?
-pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:이 언니가 가늘어 보여도 엄청 강하다고!+그딴 강도들이 총을 들이밀어 봤자, 나 혼자서 열 명은 식은 죽 먹기지!
-pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:언니들은 다 그렇게 대단해요?
-pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||<BGM>BGM_Empty</BGM>:언니들?
-pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:그... 언니처럼 그리폰에서 일하는 언니들!
-pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||<BGM>BGM_Hello</BGM>:당연하지, 모두 강해.
-pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:그럼 언니는 얼마나 세요? 언니보다 센 사람 있어요?
-pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:꽤... 많지. 하지만 나도 충분히 강하니까 안심해.+강도가 나오기만 하라지, 내가 그놈 총을 분지르고 나무에다 매달아버릴 테니까.
-pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||<黑屏1>:응!
-()||<黑屏2><BIN>83</BIN>:1시간 후, 트럭이 휴게소에서 멈춰섰다.
-NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:잠깐 쉬다 가자.
-NPC-Shelley(0)<Speaker>셜리</Speaker>||:우으으... 어지러워...
-NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:셜리 멀미 났어? 그럼 여기서 쉬고 있으렴, 아빠는 저기 시장에서 장 좀 보고 올게.
-pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:같이 갈까?
-pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:아니, 여기 시장에서 무슨 일이 생기진 않으니 나 대신 셜리랑 차를 지켜 줘.+저 녀석들 무지 사나워서, 누가 안 지켜보면 큰일나기 쉽거든.
-pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:알았어.
-pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:빨리 돌아와야 해요 아빠!
-NPC-Shelley(0)<Speaker></Speaker>||:유리안은 딸을 꼬옥 껴안았고, 셜리는 쪽하고 아버지의 뺨에 뽀뽀했다.+유리안이 시장으로 가고, 잠시 후.
-pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:셜리, 나 말고 다른 언니 봤어?
-pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:네! 출발하기 전에 봤어요.
-pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:어떻게 생긴 언니였어?
-pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:으음... 연보라색 머리에, 검고 하얀 옷에, 엄청 큰 어깨 가방을 메고 있었어요.+날씬하고 예뻐서 선녀 같은 언니였어요.
-pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:와아, 정말 선녀 같은 언니였겠네. 그 언니가 어디로 갔는지도 봤어?
-pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:우리 차 뒤쪽으로 갔어요.+그래서 따라가 봤더니 획하고 사라졌어요.
-pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:어쩌면 잘못 본 게 아닐 수도 있겠네. 한번 확인해볼까?
-NPC-Shelley(0)<Speaker>셜리</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:응!
-()||<黑屏2><BIN>86</BIN><BGM>BGM_Room</BGM>:두 사람은 웃으며 휴게소의 쉼터에서 나와, 트럭 옆까지 왔다.+모의 환경 조성 장치가 작동하는 소리 외에, 화물칸에서 다른 소리는 들리지 않았다.
-NPC-Shelley(0)<Speaker>셜리</Speaker>||:아무도 없는 것 같은데요...
-pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:이리 와 봐 셜리, 언니가 마술 보여 줄게.
-pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:마술?
-pp19(0)<Speaker>pp19</Speaker>||:그래, 마술. 잘 봐... 마술의 제1원칙, 마법의 주문은 바라는대로 이루어진다――
-pp19(0)<Speaker>pp19</Speaker>||<黑屏1>:<Size=55>당장 나와 AK-Alfa! 여기 있는 거 다 알아!</Size>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
+NPC-Kalin(3)<Speaker>카리나</Speaker>||<BIN>8</BIN><BGM>BGM_Room</BGM>:지휘관님, 정말 비존 혼자 보내도 괜찮겠어요?+정보에 따르면 최근 그 근방에 강도 무리가 나타났대요.
+NPC-Kalin(3)<Speaker>지휘관</Speaker>||:겨우 100km 거리인데 뭘, 별 문제 없을 거야.+그리고 정말 강도가 나타나더라도, 비존이라면 손쉽게 해결할 수 있잖아.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:그거 보고 "플래그"라 하는 거 아시죠?
+NPC-Kalin(3)<Speaker>지휘관</Speaker>||:하하, 그런 클리셰가 정말 통한다면 아예 K5한테 지휘를 맡기는 게 낫지.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:농담할 일이 아니잖아요!
+NPC-Kalin(3)<Speaker>지휘관</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:그래 그래, 나도 알아. 따로 한 명 더 보냈으니까 안심해, 별일 없을 거야.
+()||<黑屏2><BIN>187</BIN><BGM>BGM_Hello</BGM>:......+아직 오염이 심각하지 않은 황무지 위에서, 트럭 한 대가 조용히 움직였다.+트럭 앞좌석의 PP-19는 무릎에 어린 여자아이를 앉힌 채, 지루하단 표정으로 하염없이 창밖을 바라봤다.
+NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:바깥 풍경이 신기한가 봐?
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:응, 이렇게 나쁜놈 하나 없는 황야를 보긴 드물거든.
+pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:허허, 아가씨처럼 대화가 제대로 이뤄지는 전투 인형은 처음이라 나도 희한한 느낌인걸.+게다가 단순히 주위 경계가 아니라 정말 흥미를 가지고 보는 거 같고 말이야.
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:그런가? 내 회사 동료들 모두 개성적이라 희한하다 생각한 적 없었는데.+그나저나 아저씨는 PMC 고용한 게 이번이 처음이야?
+pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:맞아, 2년 동안 고생고생해서 지갑 사정이 좀 나아진 덕분이지.+예전같았으면 이렇게 뒤숭숭한 날엔 부랑자들한테 습격이라도 당하면 어쩌나 해서 트럭도 못 몰았다고.
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:이상하네, 부랑자가 아무리 막무가내라도 어떻게 이런 트럭에 덤벼?
+pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:맞아요 아빠! 이상해요!
+pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:에이, 강도가 어떻게 정면으로 덤벼들겠어?+놈들이 얼마나 교활하고 악랄한데. 평범한 떠돌이랑은 비교도 안 돼.
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:예를 들면?
+pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:도로에다 함정을 놓아서 타이어를 터뜨리고, 운전자가 내리는 순간 어디선가 튀어나와 물건을 털어 간다던가...+과장 좀 보태서 조난당한 탐험가 흉내를 내서 차를 얻어 타는 순간 총을 꺼낸다던가... 쓸데없이 창의력이 좋아서 절대 방심하면 안 되지.
+pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker><Shake>||:우와, 무섭다! 아빠도 당한 적 있어?
+pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:하하하, 이 아빠는 운이 좋아서, 그런 일 있었으면 이렇게 우리 공주님 데리고 엄마 보러 가지도 못했어요.
+pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:그럼 아빤 맨날맨날 운이 좋아야겠다!
+pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:그래, 셜리를 위해서 아빠 힘낼게.
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:정말 만난 적 없어? 말하는 게 마치 직접 봤다는 투인데.
+pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:놀랍게도 정말 없었어, 다 동업자들한테 들은 이야기야. 뭐, 적어도 목숨은 부지하고 돌아온 사람들의 이야기지만.
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:생물 샘플이 그렇게 돈이 돼?
+pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:그야 물론이지, 붕괴 감염이 없는 산 것은 어디서든 아주 불티나게 팔린다고. 특히나, 이번 건 청정지대서 방목하던 거라 부르는 게 값이지.+다만 저 녀석들 성깔이 보통 더러운 게 아니라서, 운송하려고 차에다 태우는 것부터가 고난이었다니까.
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:하지만 짐칸에서 별 소리 안 들리는데? 마취했어?
+pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:어떻게 이렇게 오래 마취해 두겠어? 다 내 운전 실력과 공간 분할, 그리고 최첨단 기술의 집대성 덕분이지.+자랑은 아니지만, 이 트럭에 들인 돈만 해도 아가씨 같은 인형 3명은 만들 수 있을 거야.
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:우와아... 비결이라도 있나 보네?
+pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:하하, 그렇지! 모의 환경 구성 시뮬레이션으로 녀석들이 지금도 원래 자기가 살던 곳에 있는 것처럼 느끼게 하고, 수 년을 들여서 차의 진동을 최대한으로 줄이는 운전 노하우까지 터득했거든.+내가 이 업계에 발을 들이고 3년 넘게 수습생으로 선배 밑에서 일하면서 배웠지. 이 차도 선배 걸 따라 만든 거야.
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:역시 잘 모르겠네, 그럼 이 차가 저 뒤의 동물들보다 비싸?
+pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:어... 만약 저 녀석들도 내가 기른 거라 마진을 나 혼자서 독식한다 치면, 한 5번 정도 뛰면 이 차 한 대 사겠네.
+pp19(0)<Speaker>pp19</Speaker><Shake>;NPC-PasserbyM(0)||:마진 엄청나네!
+pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:내 말이. 그래서 우리 같은 운송업자들은 부랑자들 눈엔 토실토실한 먹잇감이란 거지.+놈들은 우리가 그저 한탕 장사하는 줄로만 알고, 기회만 생기면 뺏으려 든다니까.+최근에 또 강도 무리까지 나타났다던데, 연말만 아니었어도 셜리 데리고 애 엄마 보러 가지도 않았어...
+pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:무서워...
+pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:걱정 마 셜리, 내가 꼭 지켜줄게.
+pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:언니 세요?
+pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:이 언니가 가늘어 보여도 엄청 강하다고!+그딴 강도들이 총을 들이밀어 봤자, 나 혼자서 열 명은 식은 죽 먹기지!
+pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:언니들은 다 그렇게 대단해요?
+pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||<BGM>BGM_Empty</BGM>:언니들?
+pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:그... 언니처럼 그리폰에서 일하는 언니들!
+pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||<BGM>BGM_Hello</BGM>:당연하지, 모두 강해.
+pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:그럼 언니는 얼마나 세요? 언니보다 센 사람 있어요?
+pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:꽤... 많지. 하지만 나도 충분히 강하니까 안심해.+강도가 나오기만 하라지, 내가 그놈 총을 분지르고 나무에다 매달아버릴 테니까.
+pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||<黑屏1>:응!
+()||<黑屏2><BIN>83</BIN>:1시간 후, 트럭이 휴게소에서 멈춰섰다.
+NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:잠깐 쉬다 가자.
+NPC-Shelley(0)<Speaker>셜리</Speaker>||:우으으... 어지러워...
+NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:셜리 멀미 났어? 그럼 여기서 쉬고 있으렴, 아빠는 저기 시장에서 장 좀 보고 올게.
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:같이 갈까?
+pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:아니, 여기 시장에서 무슨 일이 생기진 않으니 나 대신 셜리랑 차를 지켜 줘.+저 녀석들 무지 사나워서, 누가 안 지켜보면 큰일나기 쉽거든.
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:알았어.
+pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:빨리 돌아와야 해요 아빠!
+NPC-Shelley(0)<Speaker></Speaker>||:유리안은 딸을 꼬옥 껴안았고, 셜리는 쪽하고 아버지의 뺨에 뽀뽀했다.+유리안이 시장으로 가고, 잠시 후.
+pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:셜리, 나 말고 다른 언니 봤어?
+pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:네! 출발하기 전에 봤어요.
+pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:어떻게 생긴 언니였어?
+pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:으음... 연보라색 머리에, 검고 하얀 옷에, 엄청 큰 어깨 가방을 메고 있었어요.+날씬하고 예뻐서 선녀 같은 언니였어요.
+pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:와아, 정말 선녀 같은 언니였겠네. 그 언니가 어디로 갔는지도 봤어?
+pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:우리 차 뒤쪽으로 갔어요.+그래서 따라가 봤더니 획하고 사라졌어요.
+pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:어쩌면 잘못 본 게 아닐 수도 있겠네. 한번 확인해볼까?
+NPC-Shelley(0)<Speaker>셜리</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:응!
+()||<黑屏2><BIN>86</BIN><BGM>BGM_Room</BGM>:두 사람은 웃으며 휴게소의 쉼터에서 나와, 트럭 옆까지 왔다.+모의 환경 조성 장치가 작동하는 소리 외에, 화물칸에서 다른 소리는 들리지 않았다.
+NPC-Shelley(0)<Speaker>셜리</Speaker>||:아무도 없는 것 같은데요...
+pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:이리 와 봐 셜리, 언니가 마술 보여 줄게.
+pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:마술?
+pp19(0)<Speaker>pp19</Speaker>||:그래, 마술. 잘 봐... 마술의 제1원칙, 마법의 주문은 바라는대로 이루어진다――
+pp19(0)<Speaker>pp19</Speaker>||<黑屏1>:<Size=55>당장 나와 AK-Alfa! 여기 있는 거 다 알아!</Size>

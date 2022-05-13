@@ -1,28 +1,28 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>80</BIN><BGM>m_avg_casual</BGM>:퇴근 시간, 그리폰 카페.
-NPC-Kalin(1)<Speaker>카리나</Speaker>||<SE1>Runstep</SE1>:굿 이브닝 아름다운 아가씨들~!+다들 잘 쉬었어? 나 폐점 시간보다 늦게 온 건 아니지~?
-88typeMod(0)<Speaker>한양조</Speaker>;NPC-Kalin(1)||:와아, 카리나 씨 오늘 기분 무지 좋아 보이시네요?
-88typeMod(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:그러엄~ 오늘 분량의 작전보고서도 저~언부... 어라, 아이 너 어디 가?
-88typeMod(0)<Speaker>한양조</Speaker>;NPC-Kalin(0)||:오늘은 야간 임무가 있거든요. 외출해야 하니까 일찍 퇴근하려고요.+물론 카페 일도 소홀히 하지 않을 거랍니다!
-88typeMod(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:그렇구나. 저번에 업그레이드하고 나서 아이도 많이 바빠졌네...
-88typeMod(0)<Speaker>한양조</Speaker>;NPC-Kalin(0)||:괜찮아요, 아이도 기쁜걸요!+이제 뭐든지 기억할 수 있고, 할 수 있는 일도 많아졌어요. 다 카리나 씨 덕분이에요.
-G36(0)<Speaker>G36</Speaker>;NPC-Kalin(0)||:이만 갈 시간입니다.
-G36(0);NPC-Kalin(5)<Speaker>카리나</Speaker>||:에헤헤, 그렇게 칭찬하면 쑥스러운데~+아무튼 조심해서 잘 갔다 와!
-88typeMod(0)<Speaker>한양조</Speaker>;NPC-Kalin(5)||<BGM>BGM_PAUSE</BGM><黑点1>:그럼, 메이드장과 함께 다녀오겠습니다!+나중에 봐요 카리나 씨!
-M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,150</Position>||<黑点2>:어서 오세요, 카리나 씨. 제가 교대할게요.+주문은 무엇으로 하시겠어요?
-M1903Cafe(0)<Position>0,150</Position>;NPC-Kalin(1)<Speaker>카리나</Speaker>||<BGM>BGM_UNPAUSE</BGM>:스페셜 라떼 한 잔~
-M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,150</Position>;NPC-Kalin(1)||:네, 바로 준비해 드릴게요.
-M1903Cafe(0);NPC-Kalin(1)<Speaker>카리나</Speaker>||:그런데... 역시 볼 때마다 신기하다니까.
-M1903Cafe(0)<Speaker>스프링필드</Speaker>;NPC-Kalin(1)||:뭐가요?
-M1903Cafe(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:아이를 수복할 때 일 말이야.
-M1903Cafe(0)<Speaker>스프링필드</Speaker>;NPC-Kalin(0)||:저도 들었어요. 메모리 점용 문제였다고 했죠?
-M1903Cafe(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:응, 마인드맵이 엄청 구식인 데다 여태까지 메모리 용량이 이상할 정도로 적었거든.+그래서 마인드맵 모듈도 증설하고 나니 성능도 상승하고, 과거에 배웠던 전투 기술도 이제 전장에서 응용할 수 있게 됐어.
-M1903Cafe(0)<Speaker>스프링필드</Speaker>;NPC-Kalin(0)||:그거 정말 대단하네요.
-M1903Cafe(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:그치 그치? 저 갑옷도 멋지지 않아? 지휘관님께서 제안하지 않았다면 아이의 성격상 저런 건 입을 생각도 못 했을걸?
-M1903Cafe(0)<Speaker>스프링필드</Speaker>;NPC-Kalin(0)||:저희도 저 갑옷을 처음 봤을 때 깜짝 놀랐다니까요.
-M1903Cafe(0);NPC-Kalin(3)<Speaker>카리나</Speaker>||:후후후, 겉모습만 멋진 게 아니라고.
-M1903Cafe(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:그런데, 스프링필드는 생각 없어?+신청서만 제출하면 지휘관님도 거절하지 않으실 텐데...
-M1903Cafe(0)<Speaker>스프링필드</Speaker>;NPC-Kalin(2)||:그건 말이죠... 아직 때가 아니거든요.+훗날, 꼭 해야만 한다는 생각이 들면 할게요.
-M1903Cafe(0);NPC-Kalin(1)<Speaker>카리나</Speaker>||<黑屏1>:그래, 스프링필드라면 믿을 수 있으니까.+아, 벌써 다 마셨네. 스프링필드가 주는 커피는 역시 무지 맛있어.+그럼 다 마셨겠다, 나도 이만 갈게. 다음에 보자.
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:[2051-05-09 기록 - 보존 완료.]+[분석 - 외부 요인으로 인한 삭제 가능성 존재.]+[실행 - 해당 기록의 암호화.]+............+[2053-03-01 재가동 완료.]+[암호화된 기록을 최우선으로 보존. 이외의 메모리는 불필요한 것으로 간주, 삭제.]+......+[2057-07-01 재가동 완료.]+[암호화된 기록을 최우선으로 보존. 이외의 메모리는 불필요한 것으로 간주, 삭제.]+......+[2060-05-20 재가동 완료.]+[암호화된 기록을 최우선으로 보존. 이외의 메모리는 불필요한 것으로 간주, 삭제.]+[마인드맵 모듈 추가 설치 중... 업데이트 완료.]+[메모리 최적화 - 암호화된 기록을 신규 모듈로 이동.]+......+..........
-()<Speaker></Speaker>||<黑屏1>:[실시간 기록.]+[마인드맵 업그레이드 완료.]+[더는 외부 요인으로 인한 암호화된 기록의 삭제 가능성이 없다고 판단.]+[해당 기록의 암호화, 압축을 해제... 새로운 주석을 첨부.]+["감사합니다."]+*저장 완료*
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>80</BIN><BGM>m_avg_casual</BGM>:퇴근 시간, 그리폰 카페.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||<SE1>Runstep</SE1>:굿 이브닝 아름다운 아가씨들~!+다들 잘 쉬었어? 나 폐점 시간보다 늦게 온 건 아니지~?
+88typeMod(0)<Speaker>한양조</Speaker>;NPC-Kalin(1)||:와아, 카리나 씨 오늘 기분 무지 좋아 보이시네요?
+88typeMod(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:그러엄~ 오늘 분량의 작전보고서도 저~언부... 어라, 아이 너 어디 가?
+88typeMod(0)<Speaker>한양조</Speaker>;NPC-Kalin(0)||:오늘은 야간 임무가 있거든요. 외출해야 하니까 일찍 퇴근하려고요.+물론 카페 일도 소홀히 하지 않을 거랍니다!
+88typeMod(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:그렇구나. 저번에 업그레이드하고 나서 아이도 많이 바빠졌네...
+88typeMod(0)<Speaker>한양조</Speaker>;NPC-Kalin(0)||:괜찮아요, 아이도 기쁜걸요!+이제 뭐든지 기억할 수 있고, 할 수 있는 일도 많아졌어요. 다 카리나 씨 덕분이에요.
+G36(0)<Speaker>G36</Speaker>;NPC-Kalin(0)||:이만 갈 시간입니다.
+G36(0);NPC-Kalin(5)<Speaker>카리나</Speaker>||:에헤헤, 그렇게 칭찬하면 쑥스러운데~+아무튼 조심해서 잘 갔다 와!
+88typeMod(0)<Speaker>한양조</Speaker>;NPC-Kalin(5)||<BGM>BGM_PAUSE</BGM><黑点1>:그럼, 메이드장과 함께 다녀오겠습니다!+나중에 봐요 카리나 씨!
+M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,150</Position>||<黑点2>:어서 오세요, 카리나 씨. 제가 교대할게요.+주문은 무엇으로 하시겠어요?
+M1903Cafe(0)<Position>0,150</Position>;NPC-Kalin(1)<Speaker>카리나</Speaker>||<BGM>BGM_UNPAUSE</BGM>:스페셜 라떼 한 잔~
+M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,150</Position>;NPC-Kalin(1)||:네, 바로 준비해 드릴게요.
+M1903Cafe(0);NPC-Kalin(1)<Speaker>카리나</Speaker>||:그런데... 역시 볼 때마다 신기하다니까.
+M1903Cafe(0)<Speaker>스프링필드</Speaker>;NPC-Kalin(1)||:뭐가요?
+M1903Cafe(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:아이를 수복할 때 일 말이야.
+M1903Cafe(0)<Speaker>스프링필드</Speaker>;NPC-Kalin(0)||:저도 들었어요. 메모리 점용 문제였다고 했죠?
+M1903Cafe(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:응, 마인드맵이 엄청 구식인 데다 여태까지 메모리 용량이 이상할 정도로 적었거든.+그래서 마인드맵 모듈도 증설하고 나니 성능도 상승하고, 과거에 배웠던 전투 기술도 이제 전장에서 응용할 수 있게 됐어.
+M1903Cafe(0)<Speaker>스프링필드</Speaker>;NPC-Kalin(0)||:그거 정말 대단하네요.
+M1903Cafe(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:그치 그치? 저 갑옷도 멋지지 않아? 지휘관님께서 제안하지 않았다면 아이의 성격상 저런 건 입을 생각도 못 했을걸?
+M1903Cafe(0)<Speaker>스프링필드</Speaker>;NPC-Kalin(0)||:저희도 저 갑옷을 처음 봤을 때 깜짝 놀랐다니까요.
+M1903Cafe(0);NPC-Kalin(3)<Speaker>카리나</Speaker>||:후후후, 겉모습만 멋진 게 아니라고.
+M1903Cafe(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:그런데, 스프링필드는 생각 없어?+신청서만 제출하면 지휘관님도 거절하지 않으실 텐데...
+M1903Cafe(0)<Speaker>스프링필드</Speaker>;NPC-Kalin(2)||:그건 말이죠... 아직 때가 아니거든요.+훗날, 꼭 해야만 한다는 생각이 들면 할게요.
+M1903Cafe(0);NPC-Kalin(1)<Speaker>카리나</Speaker>||<黑屏1>:그래, 스프링필드라면 믿을 수 있으니까.+아, 벌써 다 마셨네. 스프링필드가 주는 커피는 역시 무지 맛있어.+그럼 다 마셨겠다, 나도 이만 갈게. 다음에 보자.
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:[2051-05-09 기록 - 보존 완료.]+[분석 - 외부 요인으로 인한 삭제 가능성 존재.]+[실행 - 해당 기록의 암호화.]+............+[2053-03-01 재가동 완료.]+[암호화된 기록을 최우선으로 보존. 이외의 메모리는 불필요한 것으로 간주, 삭제.]+......+[2057-07-01 재가동 완료.]+[암호화된 기록을 최우선으로 보존. 이외의 메모리는 불필요한 것으로 간주, 삭제.]+......+[2060-05-20 재가동 완료.]+[암호화된 기록을 최우선으로 보존. 이외의 메모리는 불필요한 것으로 간주, 삭제.]+[마인드맵 모듈 추가 설치 중... 업데이트 완료.]+[메모리 최적화 - 암호화된 기록을 신규 모듈로 이동.]+......+..........
+()<Speaker></Speaker>||<黑屏1>:[실시간 기록.]+[마인드맵 업그레이드 완료.]+[더는 외부 요인으로 인한 암호화된 기록의 삭제 가능성이 없다고 판단.]+[해당 기록의 암호화, 압축을 해제... 새로운 주석을 첨부.]+["감사합니다."]+*저장 완료*

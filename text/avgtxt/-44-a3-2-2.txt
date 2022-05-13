@@ -1,75 +1,75 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>315</BIN><BGM>10230</BGM><SE1>Explode</SE1><震屏3>:콰아앙!!
-NPC-Keven(2)<Speaker>J</Speaker>||:죽겠다죽겠다이러다죽겠다아아...!+아오 진짜, 저놈들 뭐야?! 이렇게 대놓고 날뛰어도 되는 거야!?+여긴 베를린 한복판이란 말이다 이 자식들아아!!
-()<Speaker></Speaker>||:패러데우스가 병력은 J의 예상을 아득히 뛰어넘었다. 요양원의 보안 인력과 슈타지만으로는 니토가 안으로 돌입하지 못하도록 막는 것이 고작이었다.+다양한 상황을 예측해 대응책을 세웠건만, 설마 상대가 당당하게 정문으로 쳐들어올 줄은 꿈에도 상상하지 못했다.+지원군이 올 때까지만 버틴다면 저놈들을 일망타진할 수 있겠지만... 상대도 당연히 그걸 모를 리가 없었다.
-()<Speaker></Speaker>||:J가 아무리 떠들어도, 요양원은 리오니를 포함한 환자들을 대피시키는 것을 단호히 거부했다.+즉, 지금 이 건물에는 이 일과는 아무 관련 없는 일반인과 의료진들이 잔뜩 남아있지만, 현재 병력으로는 모두를 보호하기엔 턱없이 부족한 상황이었다.
-NPC-Keven(2)<Speaker>J</Speaker>||:머리를 굴려... 잘 좀 생각해 봐...
-()<Speaker></Speaker>||:J는 식은땀을 흘리며 중얼거렸다.+라이트가 있었다면...
-()<Speaker>라이트</Speaker>||:——전원 돌격!
-NPC-Keven(2)<Speaker>J</Speaker><Shake>0.1</Shake>||<BGM>BGM_Empty</BGM>:......엉?
-()<Speaker></Speaker>||:J가 거의 자포자기하려던 그 순간, 익숙한 목소리가 패러데우스 부대의 측면에서 들려왔다.
-NPC-Ange(4)<Speaker>안젤리아</Speaker>||<BGM>10118</BGM>:AK-15!
-AK15(2)<Speaker>AK15</Speaker>||:라저.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:설마하는 심정으로 J가 엄폐물에서 고개를 살짝 내밀어 보니 과연, 은빛 형체가 뱀 같은 잔상을 남기며 패러데우스 병력의 진형 중앙으로 돌입했다.
-Nyto(1)<Speaker>니토</Speaker>||:――!!
-()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:은빛이 그대로 검정색과 충돌하는가 싶더니, 굵직한 팔이 니토의 목을 잡고 지면에 처박았다.
-Nyto(1)<Speaker>니토</Speaker>||:크윽!
-NPC-Light(1)<Speaker>라이트</Speaker>||:선배님!
-NPC-Keven(2)<Speaker>J</Speaker>||:어어...? 아, 그래 그래!
-NPC-Keven(2)<Speaker>J</Speaker>||<SE1>AVG_tele_connect</SE1>:A팀, B팀! 지원군이다!+지원 사격 개시! 밀어붙여!
-()<Speaker></Speaker>||:......+......+......
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2>:안젤리아와 라이트가 전장에 개입하자, 패러데우스의 공세는 신속하게 제압되었다.+그리고 J는 그제서야 우두머리인 니토를 제외하면 나머지 병사들은 그저 고성능 무기를 지닌 인간임을 깨달았다.+그리고...
-NPC-Keven(1)<Speaker>J</Speaker>||:...뭐야, 왜 다 죽었어?
-AK15(0)<Speaker>AK15</Speaker>||:니토도 숨이 끊어졌습니다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:복용하면 일정 시간 후에 효과가 발휘되는 독약이야.+성공 여부에 상관없이, 다 여기서 죽을 운명이었어... 신분 확인 가능해?
-AN94(0)<Speaker>AN94</Speaker>||:아니. 전부 얼굴이 훼손됐고, 지문도 채취 불가능하다.+우선 DNA를 채취했다. 데이터를 라이트 요원에게 전달하겠다.
-NPC-Light(0)<Speaker>라이트</Speaker>||:네, 받았습니다. 선배님, 저 대신 본부의 데이터베이스와 대조해 주시겠어요?
-NPC-Light(2)<Speaker>라이트</Speaker>||<BGM>BGM_Empty</BGM>:...선배님?
-NPC-Keven(1)<Speaker>J</Speaker>||:너... 너 이 새애애...
-NPC-Light(2)<Speaker>라이트</Speaker>||:어...
-NPC-Keven(2)<Speaker>J</Speaker>||<BGM>m_avg_casual</BGM><SE1>AVG_Punch_Hit</SE1>:"대신 대조해 주시겠어요"~?+그거 말고 할 말 없냐!?
-NPC-Light(2)<Speaker>라이트</Speaker>;NPC-Keven(2)||:아, 으, 죄송합니다! 선배님께 숨길 의도는 없었습니다만...
-NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Keven(2)||:내가 말하지 말라고 시켰어.+효과 확실하잖아, 안 그래?
-NPC-Ange(7);NPC-Keven(2)<Speaker>J</Speaker>||:쓰으읍, 후우우... 제대로 된 설명 부탁드립니다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Keven(2)||:봤지? 패러데우스는 이제 정말로 다급해졌어.+나를 해치우려 할 땐 적어도 들키지 않으려고 노력은 했어.+하지만 이번엔 목표가 대비하고 있자 번거롭게 암살하려 할 생각을 접었어.+그리고 이렇게 강경 수단으로 쳐들어왔지.+머릿수만 보면, 딱 너네를 찍어누를 수준이었네.
-NPC-Light(3)<Speaker>라이트</Speaker>;NPC-Keven(2)||:거기서 제가 갑자기 지원군과 함께 나타나면, 상황은 그들의 예측에서 완전히 벗어나게 되죠.
-NPC-Light(3);NPC-Keven(2)<Speaker>J</Speaker>||:잠깐만, 그래서 넌 그때 거기서 어떻게 빠져나온 건데?
-NPC-Light(3)<Speaker>라이트</Speaker>;NPC-Keven(2)||:안젤리아 씨가 무사히 탈출하자, 암살자들도 일제히 후퇴했습니다.+하지만 전 발을 삐어서 움직일 수가 없었죠.
-NPC-Light(2)<Speaker>라이트</Speaker>;NPC-Keven(2)||:AK-12 씨가 아니었으면...
-NPC-Light(2);NPC-Keven(1)<Speaker>J</Speaker>||:그 백랑 아가씨가 말이지...+안젤리아 씨, 그 아가씨 백업하고 나면 같이 한잔하자고 말해 주시겠습니까?
-NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Keven(1)||:잔소리는 됐어, 지금 너랑 수다 떨 시간 없어.+니토의 시체는 끌고가, 중요한 단서니까.+...리오니는?
-NPC-Ange(7);NPC-Keven(1)<Speaker>J</Speaker>||:댁의 은여우 아가씨가 밀착 경호 중입니다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Keven(1)||:그러니까 묻잖아, 걔네 지금 어딨냐고.
-NPC-Keven(1)<Speaker>J</Speaker>||:...어라?
-()<Speaker></Speaker>||:그제서야 위화감을 눈치챈 J가, 주위를 황급히 둘러봤다.
-NPC-Keven(2)<Speaker>J</Speaker>||:이상하다, 제자리서 가만 있으라 했는데?
-AN94(2)<Speaker>AN94</Speaker>||:아, 안젤리아!
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:뭐야?
-AN94(2)<Speaker>AN94</Speaker>||:RPK다!
-RPK16(3)<Speaker>RPK16</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...안젤리아.</color>
-NPC-Ange(7)<Speaker>안젤리아</Speaker>;RPK16(3)<通讯框>||:무슨 일이야? 리오니는? 너 지금 어딨어?
-NPC-Ange(7);RPK16(3)<Speaker>RPK16</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>죄송해요.</color>
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:뭐...?
-()<Speaker></Speaker>||:......
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>167</BIN>:지하 통로.
-()<Speaker></Speaker>||:안젤리아 일행이 황급히 현장에 도착했지만, 그곳은 이미 엉망이었다.+총에 몸을 기대고 무릎을 꿇은 RPK-16의 표정은 평소의 능글맞은 미소가 아니었다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:......!
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>329</BIN><黑屏2>:그 옆의 리오니는 생기 없는 몸으로 벽에 쓰러져 있었고, 벽에 흩뿌려진 핏자국은 흡사 활짝 펼친 날개 같았다.+계단 위의 안젤리아는 고개를 떨군 리오니의 얼굴을 볼 수 없었지만, 뚝뚝 떨어지는 핏방울만은 확실하게 보였다.
-()<Speaker></Speaker>||:그녀의 가녀린 몸을 비추며 깜빡이는 등불 아래로 움직이는 것은, 불빛에 이끌려 춤추는 나방뿐이었다.
-()<Speaker></Speaker>||:리오니는 죽었다.
-()<Speaker>AK15</Speaker>||:...어떻게 된 거야.
-()<Speaker>RPK16</Speaker>||:기습당했어요... 하얀 니토에게.
-()<Speaker>AN94</Speaker>||:하얀 니토가...?
-()<Speaker></Speaker>||:안젤리아는 말없이 계단을 내려가, 리오니의 시체 앞에 무릎을 꿇었다.+볼 때마다 두려움에 떨리던 그녀의 속눈썹은 더는 미동도 하지 않았고, 눈동자의 빛도 완전히 사라졌다.+목에 난 흉칙한 자상은, 아주 예리한 날붙이로 인해 생긴 것이 틀림없었다. 이를 본 안젤리아의 뇌리에는 거대한 낫을 휘두르는 하얀 니토가 스쳐 지나갔다.
-()<Speaker>RPK16</Speaker>||:......+...적어도, 이젠 더 이상 두려움에 떨 일 없게 되었겠죠.
-()||<黑屏1>:
-()<Speaker>안젤리아</Speaker>||<黑屏2><BIN>9</BIN>:약속했어...
-()<Speaker>RPK16</Speaker>||:네...?
-()<Speaker>안젤리아</Speaker>||<SE1>Heartbeat</SE1><common_effect>%%code=AVG_ink4%%</common_effect>:약속했다고... 지켜 주겠다고, 약속했는데...!
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>167</BIN>:원통함에 주먹을 꽈악 쥐면서, 안젤리아는 오른손을 내밀어 채 감기지 않은 리오니의 눈을 덮어 주었다.+이번에도, 그녀는 지켜내지 못했다.
-()<Speaker></Speaker>||:......
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>315</BIN><BGM>10230</BGM><SE1>Explode</SE1><震屏3>:콰아앙!!
+NPC-Keven(2)<Speaker>J</Speaker>||:죽겠다죽겠다이러다죽겠다아아...!+아오 진짜, 저놈들 뭐야?! 이렇게 대놓고 날뛰어도 되는 거야!?+여긴 베를린 한복판이란 말이다 이 자식들아아!!
+()<Speaker></Speaker>||:패러데우스가 병력은 J의 예상을 아득히 뛰어넘었다. 요양원의 보안 인력과 슈타지만으로는 니토가 안으로 돌입하지 못하도록 막는 것이 고작이었다.+다양한 상황을 예측해 대응책을 세웠건만, 설마 상대가 당당하게 정문으로 쳐들어올 줄은 꿈에도 상상하지 못했다.+지원군이 올 때까지만 버틴다면 저놈들을 일망타진할 수 있겠지만... 상대도 당연히 그걸 모를 리가 없었다.
+()<Speaker></Speaker>||:J가 아무리 떠들어도, 요양원은 리오니를 포함한 환자들을 대피시키는 것을 단호히 거부했다.+즉, 지금 이 건물에는 이 일과는 아무 관련 없는 일반인과 의료진들이 잔뜩 남아있지만, 현재 병력으로는 모두를 보호하기엔 턱없이 부족한 상황이었다.
+NPC-Keven(2)<Speaker>J</Speaker>||:머리를 굴려... 잘 좀 생각해 봐...
+()<Speaker></Speaker>||:J는 식은땀을 흘리며 중얼거렸다.+라이트가 있었다면...
+()<Speaker>라이트</Speaker>||:——전원 돌격!
+NPC-Keven(2)<Speaker>J</Speaker><Shake>0.1</Shake>||<BGM>BGM_Empty</BGM>:......엉?
+()<Speaker></Speaker>||:J가 거의 자포자기하려던 그 순간, 익숙한 목소리가 패러데우스 부대의 측면에서 들려왔다.
+NPC-Ange(4)<Speaker>안젤리아</Speaker>||<BGM>10118</BGM>:AK-15!
+AK15(2)<Speaker>AK15</Speaker>||:라저.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:설마하는 심정으로 J가 엄폐물에서 고개를 살짝 내밀어 보니 과연, 은빛 형체가 뱀 같은 잔상을 남기며 패러데우스 병력의 진형 중앙으로 돌입했다.
+Nyto(1)<Speaker>니토</Speaker>||:――!!
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:은빛이 그대로 검정색과 충돌하는가 싶더니, 굵직한 팔이 니토의 목을 잡고 지면에 처박았다.
+Nyto(1)<Speaker>니토</Speaker>||:크윽!
+NPC-Light(1)<Speaker>라이트</Speaker>||:선배님!
+NPC-Keven(2)<Speaker>J</Speaker>||:어어...? 아, 그래 그래!
+NPC-Keven(2)<Speaker>J</Speaker>||<SE1>AVG_tele_connect</SE1>:A팀, B팀! 지원군이다!+지원 사격 개시! 밀어붙여!
+()<Speaker></Speaker>||:......+......+......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2>:안젤리아와 라이트가 전장에 개입하자, 패러데우스의 공세는 신속하게 제압되었다.+그리고 J는 그제서야 우두머리인 니토를 제외하면 나머지 병사들은 그저 고성능 무기를 지닌 인간임을 깨달았다.+그리고...
+NPC-Keven(1)<Speaker>J</Speaker>||:...뭐야, 왜 다 죽었어?
+AK15(0)<Speaker>AK15</Speaker>||:니토도 숨이 끊어졌습니다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:복용하면 일정 시간 후에 효과가 발휘되는 독약이야.+성공 여부에 상관없이, 다 여기서 죽을 운명이었어... 신분 확인 가능해?
+AN94(0)<Speaker>AN94</Speaker>||:아니. 전부 얼굴이 훼손됐고, 지문도 채취 불가능하다.+우선 DNA를 채취했다. 데이터를 라이트 요원에게 전달하겠다.
+NPC-Light(0)<Speaker>라이트</Speaker>||:네, 받았습니다. 선배님, 저 대신 본부의 데이터베이스와 대조해 주시겠어요?
+NPC-Light(2)<Speaker>라이트</Speaker>||<BGM>BGM_Empty</BGM>:...선배님?
+NPC-Keven(1)<Speaker>J</Speaker>||:너... 너 이 새애애...
+NPC-Light(2)<Speaker>라이트</Speaker>||:어...
+NPC-Keven(2)<Speaker>J</Speaker>||<BGM>m_avg_casual</BGM><SE1>AVG_Punch_Hit</SE1>:"대신 대조해 주시겠어요"~?+그거 말고 할 말 없냐!?
+NPC-Light(2)<Speaker>라이트</Speaker>;NPC-Keven(2)||:아, 으, 죄송합니다! 선배님께 숨길 의도는 없었습니다만...
+NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Keven(2)||:내가 말하지 말라고 시켰어.+효과 확실하잖아, 안 그래?
+NPC-Ange(7);NPC-Keven(2)<Speaker>J</Speaker>||:쓰으읍, 후우우... 제대로 된 설명 부탁드립니다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Keven(2)||:봤지? 패러데우스는 이제 정말로 다급해졌어.+나를 해치우려 할 땐 적어도 들키지 않으려고 노력은 했어.+하지만 이번엔 목표가 대비하고 있자 번거롭게 암살하려 할 생각을 접었어.+그리고 이렇게 강경 수단으로 쳐들어왔지.+머릿수만 보면, 딱 너네를 찍어누를 수준이었네.
+NPC-Light(3)<Speaker>라이트</Speaker>;NPC-Keven(2)||:거기서 제가 갑자기 지원군과 함께 나타나면, 상황은 그들의 예측에서 완전히 벗어나게 되죠.
+NPC-Light(3);NPC-Keven(2)<Speaker>J</Speaker>||:잠깐만, 그래서 넌 그때 거기서 어떻게 빠져나온 건데?
+NPC-Light(3)<Speaker>라이트</Speaker>;NPC-Keven(2)||:안젤리아 씨가 무사히 탈출하자, 암살자들도 일제히 후퇴했습니다.+하지만 전 발을 삐어서 움직일 수가 없었죠.
+NPC-Light(2)<Speaker>라이트</Speaker>;NPC-Keven(2)||:AK-12 씨가 아니었으면...
+NPC-Light(2);NPC-Keven(1)<Speaker>J</Speaker>||:그 백랑 아가씨가 말이지...+안젤리아 씨, 그 아가씨 백업하고 나면 같이 한잔하자고 말해 주시겠습니까?
+NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Keven(1)||:잔소리는 됐어, 지금 너랑 수다 떨 시간 없어.+니토의 시체는 끌고가, 중요한 단서니까.+...리오니는?
+NPC-Ange(7);NPC-Keven(1)<Speaker>J</Speaker>||:댁의 은여우 아가씨가 밀착 경호 중입니다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Keven(1)||:그러니까 묻잖아, 걔네 지금 어딨냐고.
+NPC-Keven(1)<Speaker>J</Speaker>||:...어라?
+()<Speaker></Speaker>||:그제서야 위화감을 눈치챈 J가, 주위를 황급히 둘러봤다.
+NPC-Keven(2)<Speaker>J</Speaker>||:이상하다, 제자리서 가만 있으라 했는데?
+AN94(2)<Speaker>AN94</Speaker>||:아, 안젤리아!
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:뭐야?
+AN94(2)<Speaker>AN94</Speaker>||:RPK다!
+RPK16(3)<Speaker>RPK16</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...안젤리아.</color>
+NPC-Ange(7)<Speaker>안젤리아</Speaker>;RPK16(3)<通讯框>||:무슨 일이야? 리오니는? 너 지금 어딨어?
+NPC-Ange(7);RPK16(3)<Speaker>RPK16</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>죄송해요.</color>
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:뭐...?
+()<Speaker></Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>167</BIN>:지하 통로.
+()<Speaker></Speaker>||:안젤리아 일행이 황급히 현장에 도착했지만, 그곳은 이미 엉망이었다.+총에 몸을 기대고 무릎을 꿇은 RPK-16의 표정은 평소의 능글맞은 미소가 아니었다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:......!
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>329</BIN><黑屏2>:그 옆의 리오니는 생기 없는 몸으로 벽에 쓰러져 있었고, 벽에 흩뿌려진 핏자국은 흡사 활짝 펼친 날개 같았다.+계단 위의 안젤리아는 고개를 떨군 리오니의 얼굴을 볼 수 없었지만, 뚝뚝 떨어지는 핏방울만은 확실하게 보였다.
+()<Speaker></Speaker>||:그녀의 가녀린 몸을 비추며 깜빡이는 등불 아래로 움직이는 것은, 불빛에 이끌려 춤추는 나방뿐이었다.
+()<Speaker></Speaker>||:리오니는 죽었다.
+()<Speaker>AK15</Speaker>||:...어떻게 된 거야.
+()<Speaker>RPK16</Speaker>||:기습당했어요... 하얀 니토에게.
+()<Speaker>AN94</Speaker>||:하얀 니토가...?
+()<Speaker></Speaker>||:안젤리아는 말없이 계단을 내려가, 리오니의 시체 앞에 무릎을 꿇었다.+볼 때마다 두려움에 떨리던 그녀의 속눈썹은 더는 미동도 하지 않았고, 눈동자의 빛도 완전히 사라졌다.+목에 난 흉칙한 자상은, 아주 예리한 날붙이로 인해 생긴 것이 틀림없었다. 이를 본 안젤리아의 뇌리에는 거대한 낫을 휘두르는 하얀 니토가 스쳐 지나갔다.
+()<Speaker>RPK16</Speaker>||:......+...적어도, 이젠 더 이상 두려움에 떨 일 없게 되었겠죠.
+()||<黑屏1>:
+()<Speaker>안젤리아</Speaker>||<黑屏2><BIN>9</BIN>:약속했어...
+()<Speaker>RPK16</Speaker>||:네...?
+()<Speaker>안젤리아</Speaker>||<SE1>Heartbeat</SE1><common_effect>%%code=AVG_ink4%%</common_effect>:약속했다고... 지켜 주겠다고, 약속했는데...!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>167</BIN>:원통함에 주먹을 꽈악 쥐면서, 안젤리아는 오른손을 내밀어 채 감기지 않은 리오니의 눈을 덮어 주었다.+이번에도, 그녀는 지켜내지 못했다.
+()<Speaker></Speaker>||:......
 ()||<黑屏1>:

@@ -1,47 +1,47 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>97</BIN><BGM>BGM_21Christmas_Christmas</BGM>:12월 24일 오후 4시경, 기지의 복도.+많은 인형들에게 메모리 카드를 나눠주는 세 인형은 수오미의 홍보 전략에 힘입어 성탄 코인도 제법 모았다.+하지만, "How I Remind of U"의 마법은 서서히 그 힘을 잃어 가고 있었다...
-TMP(2)<Speaker>TMP</Speaker>||<SE1>ClothingUp</SE1>:저기요... 이, 이거... 크리스마스 선물이에요...
-RFB(2)<Speaker>RFB</Speaker>||<SE1>ClothingUp</SE1>:너의 마음을 원하는 상대에게 전해 봐!
-KP31(9)<Speaker>수오미</Speaker>||<SE1>ClothingUp</SE1>:이 메모리 카드를 받아 주세요.
-()<Speaker></Speaker>||<SE1>RunStep</SE1>:어찌된 영문인지, 홍보 문구를 들은 인형들은 기겁하며 쏜살같이 줄행랑쳤다.
-TMP(2)<Speaker>TMP</Speaker>||:아, 기, 기다려 주세요...!
-RFB(6)<Speaker>RFB</Speaker>||:이상하다~? 처음엔 다들 좋다고 받았는데, 왜 지금은 기겁을 하지?
-KP31(2)<Speaker>수오미</Speaker>||:......
-()<Speaker></Speaker>||:아직 나눠주지 못한 메모리 카드들이, 점점 무겁게 느껴졌다.
-KP31(2)<Speaker>수오미</Speaker>||:...잠시 쉬면서 전략을 수정할까요?
-()||<黑点1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑点2><BIN>18</BIN>:12월 24일 오후 4시 30분, 기지의 복도.+한적한 구석을 찾은 수오미 일행은 대책을 궁리했다.
-TMP(2)<Speaker>TMP</Speaker>||:어째서일까요... 대체 어디서 문제가 발생한 걸까요...?
-RFB(6)<Speaker>RFB</Speaker>||:우리의 3단 콤보는 완벽할 텐데!
-()<Speaker></Speaker>||<BGM>BGM_Sneak</BGM>:방금 또 한 번 본 기겁하는 인형의 얼굴에, 수오미는 안 좋은 예감이 들었다.
-KP31(2)<Speaker>수오미</Speaker>||:......+어쩌면, 우리 탓이 아닐지도 몰라요.
-RFB(2)<Speaker>RFB</Speaker>||:응? 그게 무슨 소리야?
-TMP(2)<Speaker>TMP</Speaker>||:저... 수오미 씨...? 방금 게시판에서 MDR의 글을 봤는데... 다, 다른 인형들이 팀을 짜서 우리와 비슷한 전략을...
-RFB(6)<Speaker>RFB</Speaker>||:뭐어?!
-KP31(2)<Speaker>수오미</Speaker>||:"오늘, 인형 몇 명이 기지에서 대규모로 선물을 뿌리며 성탄 코인을 요구함. 그런데 선물을 받은 인형들은 하나같이 사기를 당했다고 호소함."...
-RFB(6)<Speaker>RFB</Speaker>||:이거 우리 아니지?
-TMP(2)<Speaker>TMP</Speaker>||:우, 우리는 사기 안 쳤어요...!
-KP31(10)<Speaker>수오미</Speaker>||:대체 무슨 일이지?
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:그때, 메일 착신음이 셋에게서 동시에 울렸다.+헬리안에게서 온 공지였다.
-()<Speaker>헬리안</Speaker>||:<color=#00CCFF>기지의 전원에게 주의 사항을 전달합니다. 금일, 기지 내에서 인증받지 않은 소형 메모리 카드가 다수 발견되었습니다.</color>+<color=#00CCFF>해당 메모리 카드의 내용은 악질적이고 불쾌한 영향을 끼칠 우려가 있어, [그리폰 기지 내 미디어 관리 규범]에 따라 일시적으로 유해 매체로 지정합니다.</color>+<color=#00CCFF>만약 해당 메모리 카드를 습득했을 경우, 내용을 확인하지 말고 즉시 지정된 창고로 제출하십시오. 모두의 협조를 부탁합니다.</color>
-TMP(2)<Speaker>TMP</Speaker>||:우으... 이건 우리 얘기 맞아요!
-RFB(6)<Speaker>RFB</Speaker>||:뭐야? 우리가 뭘 잘못했단 건데!
-KP31(10)<Speaker>수오미</Speaker>||:제가 헬리안 씨에게 연락해볼게요.+<color=#A9A9A9>여기서 일이 꼬이면 RFB와 계속 함께할 이유가 없어져버려...</color>+<color=#A9A9A9>그럼 전부 말짱 도루묵이야!</color>
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:헬리안에게 연락하려 했지만, 손이 너무 떨려 제대로 버튼을 누르질 못했다.+그런데 그때, 익숙한 목소리가 수오미를 불렀다.
-()<Speaker>？？？</Speaker>||<BGM>BGM_Empty</BGM>:어머, 수오미잖아? 오랜만~
-()<Speaker></Speaker>||:목소리가 난 방향으로 고개를 돌린 수오미는 바로 미간이 좁혀졌다.
-Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:에이, 인상 풀어.+그냥 지나가던 길에 보이길래, 크리스마스 기념 선물이나 줄까 해서.
-hkcaws(6)<Speaker>CAWS</Speaker>||<SE1>ClothingUp</SE1><BGM>BGM_Brain</BGM>:안녕. 별거 아닌 선물이지만 받아 줘.
-()<Speaker></Speaker>||:CAWS 정성껏 포장된 선물을 수오미에게 내밀었다.
-TMP(2)<Speaker>TMP</Speaker>||:어... 당신들, 게시판에서 말하던 그...?
-RFB(6)<Speaker>RFB</Speaker>||:보이는 사람마다 선물을 주고 성탄 코인을 받아 간다는...!
-Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:어머나~ 벌써 그렇게 소문이 퍼졌어? 이거 설명 안 해도 되겠네!+즐거움은 나누면 2배! 우리가 정성껏 준비한 선물을 줄 테니 기쁘다면 보답으로 작은 선물을 줬으면 해.+정 줄 만한 선물이 없으면――
-hkcaws(2)<Speaker>CAWS</Speaker>||:Px4, 잠깐만. 분위기가 좀 이상한데...?
-()<Speaker></Speaker>||:CAWS의 말이 맞았다. 수오미의 가녀린 몸이, 분노로 파르르 떨리고 있었다.
-KP31(8)<Speaker>수오미</Speaker>||:......+Px4, 또 당신이군요...
-Px4Storm(6)<Speaker>Px4 스톰</Speaker>||:뭐가?
-KP31(8)<Speaker>수오미</Speaker>||:위장... 양동작전... 다 당신이 자주 쓰는 수작이죠.+이 메일도 당신과 관계 있죠?
-Px4Storm(6)<Speaker>Px4 스톰</Speaker>||:메일이라니, 무슨 메일? 무슨 소릴――
-KP31(8)<Speaker>수오미</Speaker>||:악질인 것도 정도가 있지! 어떻게 사리사욕을 채우려고 이토록 비겁한 술수까지 쓸 수가 있어요!?
-()<Speaker></Speaker>||<SE1>AVG_Scene_Transfer</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:좁은 복도가 수오미의 분노로 요동쳤다.+그녀의 눈빛은 분명했다. 그들 사이에 쌓인 빚을, 이 자리를 빌어 청산할 작정이었다.
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>97</BIN><BGM>BGM_21Christmas_Christmas</BGM>:12월 24일 오후 4시경, 기지의 복도.+많은 인형들에게 메모리 카드를 나눠주는 세 인형은 수오미의 홍보 전략에 힘입어 성탄 코인도 제법 모았다.+하지만, "How I Remind of U"의 마법은 서서히 그 힘을 잃어 가고 있었다...
+TMP(2)<Speaker>TMP</Speaker>||<SE1>ClothingUp</SE1>:저기요... 이, 이거... 크리스마스 선물이에요...
+RFB(2)<Speaker>RFB</Speaker>||<SE1>ClothingUp</SE1>:너의 마음을 원하는 상대에게 전해 봐!
+KP31(9)<Speaker>수오미</Speaker>||<SE1>ClothingUp</SE1>:이 메모리 카드를 받아 주세요.
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:어찌된 영문인지, 홍보 문구를 들은 인형들은 기겁하며 쏜살같이 줄행랑쳤다.
+TMP(2)<Speaker>TMP</Speaker>||:아, 기, 기다려 주세요...!
+RFB(6)<Speaker>RFB</Speaker>||:이상하다~? 처음엔 다들 좋다고 받았는데, 왜 지금은 기겁을 하지?
+KP31(2)<Speaker>수오미</Speaker>||:......
+()<Speaker></Speaker>||:아직 나눠주지 못한 메모리 카드들이, 점점 무겁게 느껴졌다.
+KP31(2)<Speaker>수오미</Speaker>||:...잠시 쉬면서 전략을 수정할까요?
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑点2><BIN>18</BIN>:12월 24일 오후 4시 30분, 기지의 복도.+한적한 구석을 찾은 수오미 일행은 대책을 궁리했다.
+TMP(2)<Speaker>TMP</Speaker>||:어째서일까요... 대체 어디서 문제가 발생한 걸까요...?
+RFB(6)<Speaker>RFB</Speaker>||:우리의 3단 콤보는 완벽할 텐데!
+()<Speaker></Speaker>||<BGM>BGM_Sneak</BGM>:방금 또 한 번 본 기겁하는 인형의 얼굴에, 수오미는 안 좋은 예감이 들었다.
+KP31(2)<Speaker>수오미</Speaker>||:......+어쩌면, 우리 탓이 아닐지도 몰라요.
+RFB(2)<Speaker>RFB</Speaker>||:응? 그게 무슨 소리야?
+TMP(2)<Speaker>TMP</Speaker>||:저... 수오미 씨...? 방금 게시판에서 MDR의 글을 봤는데... 다, 다른 인형들이 팀을 짜서 우리와 비슷한 전략을...
+RFB(6)<Speaker>RFB</Speaker>||:뭐어?!
+KP31(2)<Speaker>수오미</Speaker>||:"오늘, 인형 몇 명이 기지에서 대규모로 선물을 뿌리며 성탄 코인을 요구함. 그런데 선물을 받은 인형들은 하나같이 사기를 당했다고 호소함."...
+RFB(6)<Speaker>RFB</Speaker>||:이거 우리 아니지?
+TMP(2)<Speaker>TMP</Speaker>||:우, 우리는 사기 안 쳤어요...!
+KP31(10)<Speaker>수오미</Speaker>||:대체 무슨 일이지?
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:그때, 메일 착신음이 셋에게서 동시에 울렸다.+헬리안에게서 온 공지였다.
+()<Speaker>헬리안</Speaker>||:<color=#00CCFF>기지의 전원에게 주의 사항을 전달합니다. 금일, 기지 내에서 인증받지 않은 소형 메모리 카드가 다수 발견되었습니다.</color>+<color=#00CCFF>해당 메모리 카드의 내용은 악질적이고 불쾌한 영향을 끼칠 우려가 있어, [그리폰 기지 내 미디어 관리 규범]에 따라 일시적으로 유해 매체로 지정합니다.</color>+<color=#00CCFF>만약 해당 메모리 카드를 습득했을 경우, 내용을 확인하지 말고 즉시 지정된 창고로 제출하십시오. 모두의 협조를 부탁합니다.</color>
+TMP(2)<Speaker>TMP</Speaker>||:우으... 이건 우리 얘기 맞아요!
+RFB(6)<Speaker>RFB</Speaker>||:뭐야? 우리가 뭘 잘못했단 건데!
+KP31(10)<Speaker>수오미</Speaker>||:제가 헬리안 씨에게 연락해볼게요.+<color=#A9A9A9>여기서 일이 꼬이면 RFB와 계속 함께할 이유가 없어져버려...</color>+<color=#A9A9A9>그럼 전부 말짱 도루묵이야!</color>
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:헬리안에게 연락하려 했지만, 손이 너무 떨려 제대로 버튼을 누르질 못했다.+그런데 그때, 익숙한 목소리가 수오미를 불렀다.
+()<Speaker>？？？</Speaker>||<BGM>BGM_Empty</BGM>:어머, 수오미잖아? 오랜만~
+()<Speaker></Speaker>||:목소리가 난 방향으로 고개를 돌린 수오미는 바로 미간이 좁혀졌다.
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:에이, 인상 풀어.+그냥 지나가던 길에 보이길래, 크리스마스 기념 선물이나 줄까 해서.
+hkcaws(6)<Speaker>CAWS</Speaker>||<SE1>ClothingUp</SE1><BGM>BGM_Brain</BGM>:안녕. 별거 아닌 선물이지만 받아 줘.
+()<Speaker></Speaker>||:CAWS 정성껏 포장된 선물을 수오미에게 내밀었다.
+TMP(2)<Speaker>TMP</Speaker>||:어... 당신들, 게시판에서 말하던 그...?
+RFB(6)<Speaker>RFB</Speaker>||:보이는 사람마다 선물을 주고 성탄 코인을 받아 간다는...!
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:어머나~ 벌써 그렇게 소문이 퍼졌어? 이거 설명 안 해도 되겠네!+즐거움은 나누면 2배! 우리가 정성껏 준비한 선물을 줄 테니 기쁘다면 보답으로 작은 선물을 줬으면 해.+정 줄 만한 선물이 없으면――
+hkcaws(2)<Speaker>CAWS</Speaker>||:Px4, 잠깐만. 분위기가 좀 이상한데...?
+()<Speaker></Speaker>||:CAWS의 말이 맞았다. 수오미의 가녀린 몸이, 분노로 파르르 떨리고 있었다.
+KP31(8)<Speaker>수오미</Speaker>||:......+Px4, 또 당신이군요...
+Px4Storm(6)<Speaker>Px4 스톰</Speaker>||:뭐가?
+KP31(8)<Speaker>수오미</Speaker>||:위장... 양동작전... 다 당신이 자주 쓰는 수작이죠.+이 메일도 당신과 관계 있죠?
+Px4Storm(6)<Speaker>Px4 스톰</Speaker>||:메일이라니, 무슨 메일? 무슨 소릴――
+KP31(8)<Speaker>수오미</Speaker>||:악질인 것도 정도가 있지! 어떻게 사리사욕을 채우려고 이토록 비겁한 술수까지 쓸 수가 있어요!?
+()<Speaker></Speaker>||<SE1>AVG_Scene_Transfer</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:좁은 복도가 수오미의 분노로 요동쳤다.+그녀의 눈빛은 분명했다. 그들 사이에 쌓인 빚을, 이 자리를 빌어 청산할 작정이었다.
+()||<黑点1>:

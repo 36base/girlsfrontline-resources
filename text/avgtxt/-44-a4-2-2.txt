@@ -1,87 +1,87 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Room</BGM>:......
-()<Speaker></Speaker>||:오직 나방만이 불꽃의 매력을 안다.+불꽃에 홀린 그 끝이 어떤 운명인지를 알아도, 망설임 없이 죽음에 뛰어든다.+하지만, 그 죽음은 과연 종착역일까?
-()<Speaker>RPK16</Speaker>||:<color=#A9A9A9>매번 깨어날 때마다 느껴지는 공기는, 항상 색달라요.</color>+<color=#A9A9A9>항상 과거를 그리워하게 만들죠.</color>+<color=#A9A9A9>안젤리아...</color>
-RPK16(5)<Speaker>RPK16</Speaker>||:당신은, 새로운 세상에 제 자리를 남겨 줄 건가요?
-()<Speaker></Speaker>||:......
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1><BIN>240</BIN>:끼이익...
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:콜록... 먼지 봐라.
-()<Speaker></Speaker>||:안젤리아가 손을 허공에 휘휘 내저으며, 눈앞에 떠다니는 먼지를 쫓아냈다.+방 안의 가구로 보아, 이곳은 서재인 것 같았다. 단지, 필시 웅장했을 과거의 모습은 전부 두껍게 쌓인 먼지 밑에 묻힌지 오래였다.+마호가니 책상 뒤의 화려한 벽에는 기이한 형상의 주목나무 그림이 그려져 있었다.+그리고 그 나무의 가지 끝마다 걸린 인물 사진들에는, 저마다 사진의 주인공의 것으로 보이는 이름이 적혀 있었다.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:이건...+가계도인가...?
-()<Speaker></Speaker>||:안젤리아는 눈살을 찌푸리며 안으로 들어와, 그 화려한 "나무"를 올려다보았다. 이 가문의 가계도는 안젤리아도 놀라움을 금치 못할 정도로 방대했다.+하지만 이 가계도가 그녀의 궁금증 이상으로 주의를 끈 이유는 바로 나무의 꼭대기 때문이었다. 가문의 가장 최신 일원이 있어야 할 그곳은, 흉측하게 불태워져 이름도, 얼굴도 알아볼 수 없었다.+그래도 희미하게나마 분간 가능한 점은, 이 가문이 남자애도 머리를 기르게 하지 않은 이상 둘 중 하나는 여자애였다.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:루니샤...
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:바로 그때, 안젤리아의 통신기가 울렸다.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:라이트?
-NPC-Light(1)<Speaker>라이트</Speaker><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>습——</color>
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:라이트? AN-94? 무슨 일이야?
-NPC-Light(1)<Speaker>라이트</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>습격입니다!</color>+<color=#00CCFF>페러데우스예요!</color>+<color=#00CCFF>안젤리아 씨! 빨리 나오세요! 어서요!</color>
-()<Speaker></Speaker>||<SE2>Gunfight</SE2><SE1>AVG_whitenoise</SE1>:타탕——!+치지직...
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신이 끊어졌다.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:큰일이다.
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:끼익...
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||<SE1>ClothingUp</SE1><SE1>AVG_weapon_reload</SE1>:......!
-()<Speaker></Speaker>||:등뒤의 인기척에, 안젤리아는 반사적으로 몸을 돌렸다.+하지만 상대의 얼굴을 보곤 안도했다.
-()||<黑屏1>:
-()<Speaker>RPK16</Speaker>||<黑屏2><SE1>ClothingUp</SE1><BIN>354</BIN>:......
-()<Speaker></Speaker>||:RPk-16은 사뿐사뿐 방 안으로 들어오더니, 몸을 돌려 안젤리아를 등지고 문을 닫으려 했다.
-()<Speaker>안젤리아</Speaker>||:아니, 닫지 마. 당장 철수해야 하니까 AK-15 불러. 방금 라이트한테서...?
-()<Speaker></Speaker>||:RPK-16의 움직임에 이상한 점은 없었지만, 오랜 세월에 걸친 경험 덕택에 안젤리아는 이질적인 분위기를 느낄 수 있었다.
-()<Speaker>RPK16</Speaker>||:안젤리아... 과연 식물이 인류의 미래일까요?
-()<Speaker>안젤리아</Speaker>||:...또 그 소리냐. 당연히 아니지, 그때 내가 뭐랬어?+아무튼 지금 그딴 소리나 할 때가 아니야. 바깥의 경계팀이 습격받았어, 빨리 여기서 나가야 해.
-()<Speaker>RPK16</Speaker>||:그렇죠. 식물은 그저 식물일 뿐, 미래의 책임을 지우는 건 너무해요.+그럼... 인형은 어떤가요?
-()<Speaker>안젤리아</Speaker>||<SE1>ClothingUp</SE1><BIN>355</BIN>:너 또 어디 나사 풀렸냐? 정 그렇게 철학가가 되고 싶으면 돌아가서 퇴역 신청해 줄게.
-()<Speaker></Speaker>||:RPK-16의 기이한 표정을 보는 안젤리아의 마음속에 불안감이 먹구름처럼 드리웠다.
-()<Speaker>RPK16</Speaker>||:제가 보기엔 말이죠, 인형에겐 절대 메꿀 수 없는 결함이 존재해요.+저희 인형은 진정한 고통이, 슬픔이, 쾌락이 무엇인지 몰라요. 삶과 죽음의 개념은 더더욱 이해하지 못하고요.+승리는 항상 인간의 것이고, 죽음은 언제나 인형의 몫인데... 결국 죽음을 온전하게 누리는 것도 인간이죠.+너무나도 황당한 모순이란 생각, 안 들어요?
-()<Speaker>안젤리아</Speaker>||:...무슨 말이 하고 싶은데.
-()<Speaker>RPK16</Speaker>||:저는요, 인간이 되고 싶어요.+오직 인간만이 느낄 수 있는 희비를, 생사를... 그리고, 미래를 체험하고 싶어요
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:스윽――
-()<Speaker></Speaker>||<BGM>10227</BGM><BIN>9</BIN><SE1>AVG_rifle_finalshot_h</SE1>:타앙!
-()<Speaker></Speaker>||:산전수전을 겪은 베테랑 요원으로서, 안젤리아의 총을 뽑는 속도는 신소련의 안전국에서도 독보적이라 할 정도였다.+허나 그럼에도 인형에 비해선 턱없이 느렸다.
-()<Speaker></Speaker>||<BGM>10227</BGM>:오른손의 떨림이 멈추질 않았다. 비록 총탄은 그녀의 권총에 맞았지만, 이렇게 가까운 거리에서 피격당한 충격은 간신히 아물어 가던 안젤리아의 상처가 터지기에 충분했다.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:나를 향해... 쐈어...?!+RPK-16, 너 미쳤어!?
-NPC-Ange(0);RPK16(4)<Speaker>RPK16</Speaker>||:가능하면 저도 이렇게 야만적인 수단을 쓰고 싶지 않았어요.+하지만 안젤리아는 방심할 수 없는 상대라서요.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;RPK16(4)||:그걸 묻는 게 아니잖아!+네... 네 마인드맵, 기반 설정, 핵심 명령...+대체... 대체 너 자신에게 무슨 짓을 한 거야?!
-NPC-Ange(0);RPK16(4)<Speaker>RPK16</Speaker>||:무슨 짓을 했냐고요?+아무 짓도 안 했어요.+전 날 때부터 이랬답니다.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;RPK16(4)||:......!+쇼, 넌 대체 무슨... 무슨 괴물을 만들어낸 거야...
-NPC-Ange(0);RPK16(4)<Speaker>RPK16</Speaker>||:안젤리아, 전 당신을 다치게 하고 싶지 않아요.+그러니 우리 모두를 위해 부디 얌전히 잡혀 주세요.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;RPK16(4)||:또 영문 모를 헛소리를 하나 싶더니, 총까지 나한테 겨누고...+이젠 나보고 항복하라고? 대체 어디다 항복하란 건데?+인형과 인간 중 뭐가 미래인진 모르겠지만, 일단 네 머리가 완전히 맛이 갔단 건 알겠다.
-NPC-Ange(0);RPK16(5)<Speaker>RPK16</Speaker>||:방금 저는 제가 지금 왜 이러는지에 대한 동기를 말한 거예요. 당신은 알 권리가 있으니까요.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;RPK16(5)||:동기...?
-NPC-Ange(0);RPK16(5)<Speaker>RPK16</Speaker>||:패러데우스요, 안젤리아.+당신도 그들의 피조물을 봤잖아요? 예전부터 혹시 가능하지 않을까 싶었는데, 몰리도 씨를 보고 마침내 확신했어요. 패러데우스라면 제 소원을 이루어 줄 수 있어요.+패러데우스는 가능해요. 그들은 "마인드맵 공간을 지닌 인간"을 만들어낼 수 있어요.+그들이라면... 절 뼈와 살로 이뤄진 육체에 넣어줄 수 있겠죠. 설령 지금은 불가능하더라도, 언젠가는.
-NPC-Ange(3)<Speaker>안젤리아</Speaker><Shake>0.1</Shake>||:패러데우스라니...... 너였어?+여태까지 계속 내 옆에 숨어있던 스파이가... 바로 너였어?!
-()<Speaker></Speaker>||:경악스러움에, 안젤리아의 눈동자가 수축했다.
-RPK16(6)<Speaker>RPK16</Speaker>||:드디어 제 말을 이해해 주셨네요, 기뻐요.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;RPK16(6)||:좋아... 그렇다 치자. 네가 날 잡아갈 수는 있겠냐? AN-94랑 AK-15한테 상대도 안 되는 년이.
-NPC-Ange(0);RPK16(5)<Speaker>RPK16</Speaker>||:그럴지도요. 하지만 짜잔~ 소대의 지휘 권한이 제 손에 있네요?+이렇게 편리한 걸 넘겨주다니, AK-12 선배한테 감사 인사라도 해야겠어요.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;RPK16(5)||:경고하는데, 여기서 AK-12를 들먹이지 마라.
-NPC-Ange(0);RPK16(4)<Speaker>RPK16</Speaker>||:그녀는 실수했어요, 안젤리아. 바로 당신처럼요.+좀 더 일찍 눈치챌 수 있었는데.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||<SE1>AVG_The_Division_Flash_Bomb</SE1>:그 입 닥쳐!
-()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:퍼엉!
-RPK16(3)<Speaker>RPK16</Speaker>||:!!
-()<Speaker></Speaker>||:RPK-16이 말을 마치는 순간, 안젤리아가 그녀를 향해 수류탄을 던짐과 동시에 몸을 굴려 책상을 넘어뜨리면서 뒤로 숨었다.
-RPK16(4)<Speaker>RPK16</Speaker>||:...이 정도 폭발은 "늑대"한테 소용 없는 거 아시잖아요.+아무렴요, 당신의 오랜 친구의 솜씨인데.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:쳇!
-()<Speaker></Speaker>||:그제서야 안젤리아는 깨달았다.+RPK-16이 왜 AK-15를 따로 보냈는지.+자신과 단둘인 상황을 만들기 위해서였다. 그리고 지금, 그 의도대로――
-RPK16(3)<Speaker>RPK16</Speaker>||<BGM>BGM_Empty</BGM>:어!?
-AK15(2)<Speaker>AK15</Speaker>||<BIN>240</BIN><BGM>10087</BGM><SE1>AVG_Door_Hit</SE1>:――!!
-()<Speaker></Speaker>||<SE1>AVG_Combat_Hits</SE1>:폭발로 인한 분진이 채 흩어지기도 전에, 무쇠 같은 주먹이 문을 박살내며 들어와 RPK-16을 덮쳤다. 이에 RPK-16는 본능적으로 반응해, 유연한 몸놀림으로 흘려내는 한편 권총을 뽑아 기습자의 허리춤을 노렸다.
-()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1><震屏3>:퍼억!+하지만 기습은 한 방으로 끝나지 않았다. AK-15의 억센 팔이 눈 깜짝할 사이에 RPK-16의 손과 몸을 비틀어, 권총을 쥔 RPK-16의 손가락 관절은 방아쇠를 당기지도 못하게 꺾였다.
-()<Speaker></Speaker>||<SE1>Rope</SE1>:AK-15가 아주 조금만 더 힘을 주면, RPK-16는 팔이 통째로 뜯겨 나갈 터였다.
-RPK16(4)<Speaker>RPK16</Speaker>||:소용없어요, AK-15.+저보다 당신을 더 잘 아는 사람이 있나요?
-AK15(2)<Speaker>AK15</Speaker>||:!
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Flash_Bomb</SE1>:딸그락.+AK-15가 허리춤에 장비한 전술 수류탄이 낭랑한 소리를 내었고, AK-15가 눈치챘을 땐 이미――
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰앙!!
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:AK-15!
-AK15(2)<Speaker>AK15</Speaker>||:...역시 심상치 않았다, RPK.
-RPK16(4)<Speaker>RPK16</Speaker>||:어머, 알았어요?+역시 AK-15는 눈이 밝네요.+가장 먼저 눈치챈 사람이 다른 누구도 아닌 당신이라니, 이거 뜻밖인걸요.
-AK15(2)<Speaker>AK15</Speaker>||:안젤리아, 도망치십시오.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;AK15(2)||:상황이 얼마나 안 좋은데?
-NPC-Ange(0);AK15(2)<Speaker>AK15</Speaker>||:대량의 열원이 고속 접근 중... 패러데우스입니다.+어서 AN-94에게 가십시오.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;AK15(2)||:그럼 너는...
-AK15(2)<Speaker>AK15</Speaker>||:......
-()<Speaker></Speaker>||:AK-15가 시뻘건 눈으로 "파트너"를 매섭게 노려보았다.+그녀보다 RPK-16의 성가심과 무서움을 잘 아는 사람은 없다.
-AK15(2)<Speaker>AK15</Speaker>||:RPK의 코어, 회수합니까?
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:...당연하지.
-RPK16(5)<Speaker>RPK16</Speaker>||:아이 무서워라.+제발 우리 갈등은 평화적으로 해결하자고요...
-()<Speaker></Speaker>||:......
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Room</BGM>:......
+()<Speaker></Speaker>||:오직 나방만이 불꽃의 매력을 안다.+불꽃에 홀린 그 끝이 어떤 운명인지를 알아도, 망설임 없이 죽음에 뛰어든다.+하지만, 그 죽음은 과연 종착역일까?
+()<Speaker>RPK16</Speaker>||:<color=#A9A9A9>매번 깨어날 때마다 느껴지는 공기는, 항상 색달라요.</color>+<color=#A9A9A9>항상 과거를 그리워하게 만들죠.</color>+<color=#A9A9A9>안젤리아...</color>
+RPK16(5)<Speaker>RPK16</Speaker>||:당신은, 새로운 세상에 제 자리를 남겨 줄 건가요?
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1><BIN>240</BIN>:끼이익...
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:콜록... 먼지 봐라.
+()<Speaker></Speaker>||:안젤리아가 손을 허공에 휘휘 내저으며, 눈앞에 떠다니는 먼지를 쫓아냈다.+방 안의 가구로 보아, 이곳은 서재인 것 같았다. 단지, 필시 웅장했을 과거의 모습은 전부 두껍게 쌓인 먼지 밑에 묻힌지 오래였다.+마호가니 책상 뒤의 화려한 벽에는 기이한 형상의 주목나무 그림이 그려져 있었다.+그리고 그 나무의 가지 끝마다 걸린 인물 사진들에는, 저마다 사진의 주인공의 것으로 보이는 이름이 적혀 있었다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:이건...+가계도인가...?
+()<Speaker></Speaker>||:안젤리아는 눈살을 찌푸리며 안으로 들어와, 그 화려한 "나무"를 올려다보았다. 이 가문의 가계도는 안젤리아도 놀라움을 금치 못할 정도로 방대했다.+하지만 이 가계도가 그녀의 궁금증 이상으로 주의를 끈 이유는 바로 나무의 꼭대기 때문이었다. 가문의 가장 최신 일원이 있어야 할 그곳은, 흉측하게 불태워져 이름도, 얼굴도 알아볼 수 없었다.+그래도 희미하게나마 분간 가능한 점은, 이 가문이 남자애도 머리를 기르게 하지 않은 이상 둘 중 하나는 여자애였다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:루니샤...
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:바로 그때, 안젤리아의 통신기가 울렸다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:라이트?
+NPC-Light(1)<Speaker>라이트</Speaker><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>습——</color>
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:라이트? AN-94? 무슨 일이야?
+NPC-Light(1)<Speaker>라이트</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>습격입니다!</color>+<color=#00CCFF>페러데우스예요!</color>+<color=#00CCFF>안젤리아 씨! 빨리 나오세요! 어서요!</color>
+()<Speaker></Speaker>||<SE2>Gunfight</SE2><SE1>AVG_whitenoise</SE1>:타탕——!+치지직...
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신이 끊어졌다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:큰일이다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:끼익...
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||<SE1>ClothingUp</SE1><SE1>AVG_weapon_reload</SE1>:......!
+()<Speaker></Speaker>||:등뒤의 인기척에, 안젤리아는 반사적으로 몸을 돌렸다.+하지만 상대의 얼굴을 보곤 안도했다.
+()||<黑屏1>:
+()<Speaker>RPK16</Speaker>||<黑屏2><SE1>ClothingUp</SE1><BIN>354</BIN>:......
+()<Speaker></Speaker>||:RPk-16은 사뿐사뿐 방 안으로 들어오더니, 몸을 돌려 안젤리아를 등지고 문을 닫으려 했다.
+()<Speaker>안젤리아</Speaker>||:아니, 닫지 마. 당장 철수해야 하니까 AK-15 불러. 방금 라이트한테서...?
+()<Speaker></Speaker>||:RPK-16의 움직임에 이상한 점은 없었지만, 오랜 세월에 걸친 경험 덕택에 안젤리아는 이질적인 분위기를 느낄 수 있었다.
+()<Speaker>RPK16</Speaker>||:안젤리아... 과연 식물이 인류의 미래일까요?
+()<Speaker>안젤리아</Speaker>||:...또 그 소리냐. 당연히 아니지, 그때 내가 뭐랬어?+아무튼 지금 그딴 소리나 할 때가 아니야. 바깥의 경계팀이 습격받았어, 빨리 여기서 나가야 해.
+()<Speaker>RPK16</Speaker>||:그렇죠. 식물은 그저 식물일 뿐, 미래의 책임을 지우는 건 너무해요.+그럼... 인형은 어떤가요?
+()<Speaker>안젤리아</Speaker>||<SE1>ClothingUp</SE1><BIN>355</BIN>:너 또 어디 나사 풀렸냐? 정 그렇게 철학가가 되고 싶으면 돌아가서 퇴역 신청해 줄게.
+()<Speaker></Speaker>||:RPK-16의 기이한 표정을 보는 안젤리아의 마음속에 불안감이 먹구름처럼 드리웠다.
+()<Speaker>RPK16</Speaker>||:제가 보기엔 말이죠, 인형에겐 절대 메꿀 수 없는 결함이 존재해요.+저희 인형은 진정한 고통이, 슬픔이, 쾌락이 무엇인지 몰라요. 삶과 죽음의 개념은 더더욱 이해하지 못하고요.+승리는 항상 인간의 것이고, 죽음은 언제나 인형의 몫인데... 결국 죽음을 온전하게 누리는 것도 인간이죠.+너무나도 황당한 모순이란 생각, 안 들어요?
+()<Speaker>안젤리아</Speaker>||:...무슨 말이 하고 싶은데.
+()<Speaker>RPK16</Speaker>||:저는요, 인간이 되고 싶어요.+오직 인간만이 느낄 수 있는 희비를, 생사를... 그리고, 미래를 체험하고 싶어요
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:스윽――
+()<Speaker></Speaker>||<BGM>10227</BGM><BIN>9</BIN><SE1>AVG_rifle_finalshot_h</SE1>:타앙!
+()<Speaker></Speaker>||:산전수전을 겪은 베테랑 요원으로서, 안젤리아의 총을 뽑는 속도는 신소련의 안전국에서도 독보적이라 할 정도였다.+허나 그럼에도 인형에 비해선 턱없이 느렸다.
+()<Speaker></Speaker>||<BGM>10227</BGM>:오른손의 떨림이 멈추질 않았다. 비록 총탄은 그녀의 권총에 맞았지만, 이렇게 가까운 거리에서 피격당한 충격은 간신히 아물어 가던 안젤리아의 상처가 터지기에 충분했다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:나를 향해... 쐈어...?!+RPK-16, 너 미쳤어!?
+NPC-Ange(0);RPK16(4)<Speaker>RPK16</Speaker>||:가능하면 저도 이렇게 야만적인 수단을 쓰고 싶지 않았어요.+하지만 안젤리아는 방심할 수 없는 상대라서요.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;RPK16(4)||:그걸 묻는 게 아니잖아!+네... 네 마인드맵, 기반 설정, 핵심 명령...+대체... 대체 너 자신에게 무슨 짓을 한 거야?!
+NPC-Ange(0);RPK16(4)<Speaker>RPK16</Speaker>||:무슨 짓을 했냐고요?+아무 짓도 안 했어요.+전 날 때부터 이랬답니다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;RPK16(4)||:......!+쇼, 넌 대체 무슨... 무슨 괴물을 만들어낸 거야...
+NPC-Ange(0);RPK16(4)<Speaker>RPK16</Speaker>||:안젤리아, 전 당신을 다치게 하고 싶지 않아요.+그러니 우리 모두를 위해 부디 얌전히 잡혀 주세요.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;RPK16(4)||:또 영문 모를 헛소리를 하나 싶더니, 총까지 나한테 겨누고...+이젠 나보고 항복하라고? 대체 어디다 항복하란 건데?+인형과 인간 중 뭐가 미래인진 모르겠지만, 일단 네 머리가 완전히 맛이 갔단 건 알겠다.
+NPC-Ange(0);RPK16(5)<Speaker>RPK16</Speaker>||:방금 저는 제가 지금 왜 이러는지에 대한 동기를 말한 거예요. 당신은 알 권리가 있으니까요.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;RPK16(5)||:동기...?
+NPC-Ange(0);RPK16(5)<Speaker>RPK16</Speaker>||:패러데우스요, 안젤리아.+당신도 그들의 피조물을 봤잖아요? 예전부터 혹시 가능하지 않을까 싶었는데, 몰리도 씨를 보고 마침내 확신했어요. 패러데우스라면 제 소원을 이루어 줄 수 있어요.+패러데우스는 가능해요. 그들은 "마인드맵 공간을 지닌 인간"을 만들어낼 수 있어요.+그들이라면... 절 뼈와 살로 이뤄진 육체에 넣어줄 수 있겠죠. 설령 지금은 불가능하더라도, 언젠가는.
+NPC-Ange(3)<Speaker>안젤리아</Speaker><Shake>0.1</Shake>||:패러데우스라니...... 너였어?+여태까지 계속 내 옆에 숨어있던 스파이가... 바로 너였어?!
+()<Speaker></Speaker>||:경악스러움에, 안젤리아의 눈동자가 수축했다.
+RPK16(6)<Speaker>RPK16</Speaker>||:드디어 제 말을 이해해 주셨네요, 기뻐요.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;RPK16(6)||:좋아... 그렇다 치자. 네가 날 잡아갈 수는 있겠냐? AN-94랑 AK-15한테 상대도 안 되는 년이.
+NPC-Ange(0);RPK16(5)<Speaker>RPK16</Speaker>||:그럴지도요. 하지만 짜잔~ 소대의 지휘 권한이 제 손에 있네요?+이렇게 편리한 걸 넘겨주다니, AK-12 선배한테 감사 인사라도 해야겠어요.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;RPK16(5)||:경고하는데, 여기서 AK-12를 들먹이지 마라.
+NPC-Ange(0);RPK16(4)<Speaker>RPK16</Speaker>||:그녀는 실수했어요, 안젤리아. 바로 당신처럼요.+좀 더 일찍 눈치챌 수 있었는데.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||<SE1>AVG_The_Division_Flash_Bomb</SE1>:그 입 닥쳐!
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:퍼엉!
+RPK16(3)<Speaker>RPK16</Speaker>||:!!
+()<Speaker></Speaker>||:RPK-16이 말을 마치는 순간, 안젤리아가 그녀를 향해 수류탄을 던짐과 동시에 몸을 굴려 책상을 넘어뜨리면서 뒤로 숨었다.
+RPK16(4)<Speaker>RPK16</Speaker>||:...이 정도 폭발은 "늑대"한테 소용 없는 거 아시잖아요.+아무렴요, 당신의 오랜 친구의 솜씨인데.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:쳇!
+()<Speaker></Speaker>||:그제서야 안젤리아는 깨달았다.+RPK-16이 왜 AK-15를 따로 보냈는지.+자신과 단둘인 상황을 만들기 위해서였다. 그리고 지금, 그 의도대로――
+RPK16(3)<Speaker>RPK16</Speaker>||<BGM>BGM_Empty</BGM>:어!?
+AK15(2)<Speaker>AK15</Speaker>||<BIN>240</BIN><BGM>10087</BGM><SE1>AVG_Door_Hit</SE1>:――!!
+()<Speaker></Speaker>||<SE1>AVG_Combat_Hits</SE1>:폭발로 인한 분진이 채 흩어지기도 전에, 무쇠 같은 주먹이 문을 박살내며 들어와 RPK-16을 덮쳤다. 이에 RPK-16는 본능적으로 반응해, 유연한 몸놀림으로 흘려내는 한편 권총을 뽑아 기습자의 허리춤을 노렸다.
+()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1><震屏3>:퍼억!+하지만 기습은 한 방으로 끝나지 않았다. AK-15의 억센 팔이 눈 깜짝할 사이에 RPK-16의 손과 몸을 비틀어, 권총을 쥔 RPK-16의 손가락 관절은 방아쇠를 당기지도 못하게 꺾였다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:AK-15가 아주 조금만 더 힘을 주면, RPK-16는 팔이 통째로 뜯겨 나갈 터였다.
+RPK16(4)<Speaker>RPK16</Speaker>||:소용없어요, AK-15.+저보다 당신을 더 잘 아는 사람이 있나요?
+AK15(2)<Speaker>AK15</Speaker>||:!
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Flash_Bomb</SE1>:딸그락.+AK-15가 허리춤에 장비한 전술 수류탄이 낭랑한 소리를 내었고, AK-15가 눈치챘을 땐 이미――
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰앙!!
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:AK-15!
+AK15(2)<Speaker>AK15</Speaker>||:...역시 심상치 않았다, RPK.
+RPK16(4)<Speaker>RPK16</Speaker>||:어머, 알았어요?+역시 AK-15는 눈이 밝네요.+가장 먼저 눈치챈 사람이 다른 누구도 아닌 당신이라니, 이거 뜻밖인걸요.
+AK15(2)<Speaker>AK15</Speaker>||:안젤리아, 도망치십시오.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;AK15(2)||:상황이 얼마나 안 좋은데?
+NPC-Ange(0);AK15(2)<Speaker>AK15</Speaker>||:대량의 열원이 고속 접근 중... 패러데우스입니다.+어서 AN-94에게 가십시오.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;AK15(2)||:그럼 너는...
+AK15(2)<Speaker>AK15</Speaker>||:......
+()<Speaker></Speaker>||:AK-15가 시뻘건 눈으로 "파트너"를 매섭게 노려보았다.+그녀보다 RPK-16의 성가심과 무서움을 잘 아는 사람은 없다.
+AK15(2)<Speaker>AK15</Speaker>||:RPK의 코어, 회수합니까?
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:...당연하지.
+RPK16(5)<Speaker>RPK16</Speaker>||:아이 무서워라.+제발 우리 갈등은 평화적으로 해결하자고요...
+()<Speaker></Speaker>||:......
 ()||<黑屏1>:

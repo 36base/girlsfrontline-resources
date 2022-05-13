@@ -1,188 +1,188 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>356</BIN><BGM>GF_21summer_intro_DemonVariation</BGM><narrator>:베를린, 소련군 측 세이프하우스.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐이...+통신 연결.
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>이번에는 좀 좋은 소식이길 바라네.</color>
-M16A1BOSS(4)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:실망시켜서 미안하게 됐군. 결국 놓치고 말았어.+지금까지 우리가 쫓았던 어떤 놈들보다도 끈질겨.
-M16A1BOSS(4);NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>흐음... 내용은 전달받았네.</color>+<color=#00CCFF>그 여자를 이 일대에서 놓친 것이 분명한가?</color>
-M16A1BOSS(2)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:맞아.
-M16A1BOSS(2);NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>그렇다면 추가적으로 보고할 내용이 있겠지?</color>
-M16A1BOSS(5)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:하.+이 근방엔 "죽음의 바다"라 불리는 구역이 있더라.+3차대전 시기에 전쟁 폐기물을 투기하던 곳이었지. 지금은 새조차 못 지나가는 죽음의 땅이 되어버렸지만.
-M16A1BOSS(5);NPC-Havel(1)<Speaker>하벨</Speaker>||:<color=#00CCFF>"블랙존"이다?</color>
-M16A1BOSS(4)<Speaker>M16A1</Speaker>;NPC-Havel(1)||:틀림없어.+인간은 말할 것도 없고, 인형은 물론 기갑마저도 거기서 오래 못 버텨.
-M16A1BOSS(4);NPC-Havel(1)<Speaker>하벨</Speaker>||:<color=#00CCFF>......</color>+<color=#00CCFF>아귀가 맞는구먼.</color>
-M16A1BOSS(2)<Speaker>M16A1</Speaker>;NPC-Havel(1)||:음?
-M16A1BOSS(2);NPC-Havel(1)<Speaker>하벨</Speaker>||:<color=#00CCFF>이쪽에서 내부를 "청소"하던 도중 이름을 하나 들었다네, "아베르누스"라고.</color>+<color=#00CCFF>"지옥의 입구". 그 죽음의 바다란 곳과 수상하게 어울리는 이름이란 생각 안 드나?</color>
-M16A1BOSS(4)<Speaker>M16A1</Speaker>;NPC-Havel(1)||:...그렇군.+그렇다면 그 여자가 이 근방에서 종적을 감춘 걸 더 생각해볼 필요가 있겠어.
-NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>희소식을 기다리겠네.</color>
-()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_tele_disconnect</SE1>:삐이.+통신 종료.
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:......
-()||<黑屏1>:
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||<SE1>ClothingUp</SE1><黑屏2>:......
-()<Speaker></Speaker>||<BGM>GF_22W_BGM_3</BGM>:안젤리아는 인상을 잔뜩 구기고 있었다. 다름이 아니라, 발은 몰라도 손이 뒤로 묶인 상태는 손톱을 물어뜯는 버릇이 있는 사람으로서 너무나도 고역이기 때문이었다.
-()<Speaker></Speaker>||<SE1>AVG_21Winter_Open_Light</SE1>:퉁.
-()<Speaker></Speaker>||<SE1>AVG_21Winter_Open_Light</SE1>:퉁.
-()<Speaker></Speaker>||<SE1>AVG_21Winter_Open_Light</SE1>:퉁.
-()<Speaker></Speaker>||:얼마나 지났을까, 환하게 주위를 밝히는 등불이 멀리서부터 차례대로 꺼졌다.+마치 형용할 수 없는 공포가 다가온다고 알리기라도 하듯, 등불이 꺼지는 소리는 넓은 복도로부터 방으로 메아리쳐 리듬감 있게 가슴을 두드렸다.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:...폼 잡기는.
-()<Speaker></Speaker>||:가장 처음 난 소리에 흠칫했을 뿐, 안젤리아는 아무 느낌도 들지 않았다.+들어봤자 아무 의미 없으니까.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:후우...
-()<Speaker></Speaker>||:이윽고, 주위의 소리까지 완전히 사라졌다.
-()<Speaker></Speaker>||<SE1>AVG_21Winter_Open_Light</SE1><BIN>510</BIN><白屏2>:퉁.+강렬한 빛줄기가 안젤리아의 얼굴을 비추어, 그녀의 가려진 시야까지 희미한 분홍색으로 밝아졌다.+낯선 기척이 그녀의 바로 앞에서 느껴졌지만, 꼼짝하지 않았다. 아니, 할 수 없었다. 그녀는 지금 입을 제외하면 조금이라도 움직일 수 있는 부분이 없었다.
-NPC-William(0)<Speaker>???</Speaker><Position>0,-50</Position>||<BGM>BGM_Empty</BGM>:......
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:...누구야.
-()<Speaker></Speaker>||:먼저 입을 열어 떠보았는데도 묵묵부답인 점이 오히려 안젤리아의 추측을 확실하게 만들었다. 다만...+비록 만나게 되리라 예상은 했지만, 설마 이렇게 자신의 코앞까지 직접 행차하실 줄은 예상치 못했다.
-NPC-William(0)<Speaker>???</Speaker><Position>0,-50</Position>||:안녕하신가, 안젤리아.
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||<BGM>GF_22W_BGM_1</BGM>:나는 네가 그토록 찾던 사람이다. 계속 "윌리엄"이라 불러도 돼.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:......
-()<Speaker></Speaker>||:변성기가 온 소년 특유의 목소리.+안젤리아는 무심코 눈살을 찌푸렸다.+음성 변조조차 하지 않았다. 자신감이 넘쳐서일까, 그녀가 여기서 빠져나갈 수 없다 확신해서일까?+그것도 아니면...+하지만 그보다도 그녀를 의아하게 만든 것은 바로 그가 너무 젊은 수준을 넘어, 어리다는 것이었다.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:네 진짜 이름 아니잖아.
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:진짜고 아니고가 무슨 상관이야? 그저 호칭, 별명, 코드네임에 불과한데.+너만 좋다면 날 다르게 불러도 괜찮아, 상관없어.+그리고 중요한 건 내 이름이 아니지... 지금 중요한 건, 내가 너를 여기에 초대한 이유야, 안젤리아.+너랑 간단하게 대화를 나누고 싶었거든.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:이게 간단한 대화나 하자고 사람 불러다 놓은 꼴이냐?
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:안젤리아가 몸에 힘을 줬지만, 당연히 손가락 하나 까딱할 수 없었다.
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:물론이지, 우리가 공평하게 대화를 나누기 위한 필수적인 조치인걸.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:공평 좋아하네... 내가 네 머리통이라도 쥐어 터뜨릴까 봐 겁나?
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:그럴 리가. 그건 내가 아니라 너를 지키기 위해서야.+솔직해지자고, 네가 나를 죽이고 싶어한다는 건 여기 있는 모두가 알아.+그래도 물어는 보자. 왜 나를 죽이려 하는 거지? 네 친구의 복수를 하려고? 아니면, 그 얄팍한 정의를 위해서인가?
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:내가 그런 사적인 이유로 널 찾아다닌 줄 알아?+네 손에 죽은 사람이 얼마나 되는지는 세어나 봤냐? 그런 것까지 얄팍하다 하면 세상에 뭐가 중요한데?
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:그래 그래 잘나셨어, 정의의 사도님.+하지만 이런 생각은 안 해봤어? 난 그저 무기상일 뿐이라고.+내가 이런 무기를 만들지 않아도 사람들은 서로를 죽이려 들어. 돌멩이와 몽둥이를 써서라도 말이야.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:지는 죄가 없다는 듯이 말하네.+적어도 네가 살아있는 한 이 세상은 점점 엉망진창이 될 뿐이란 건 객관적인 사실이야.
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:객관적이라... 진짜 객관적인 사실은, 네가 성공하더라도... 그러니까, "윌리엄"이 죽어 패러데우스가 사라지더라도... 무엇 하나 달라지지 않는다는 게 아닐까?+이 세상을 이렇게나 엉망으로 만든 만악의 근원이 정말 나라고 생각해?
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:날 왜 산 채로 잡아왔나 했더니 그딴 자기 변호나 들려주려고였어? 그렇게 앳된 목소리라도 그건 좀 너무 유치하지 않냐?
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:바로 그거야, 뭐라 반박해야 할지 더는 안 떠오르지?+네가 그런 말로 대꾸했을 때에야 비로소 본론으로 들어갈 수 있지.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:......
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:실은 너도 잘 알고 있잖아. 너도 알고 있어.+이 세상이 병든 원인은 내가 아니란 걸.+이 세상을... 이 세상의 권력 구조, 지금 세상의 흐름을 지배하려는 자들.+그들이야말로 세상이 썩어 들어가는 근본적인 원인이야.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:......
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:떠오르는 사람 있지?+하긴, 예시가 차고 넘치니.+그 인간들. 그 정치인들. 세상을 쥐고 흔들면서, 오로지 사사로운 이익만 좇는 놈들.+그런데 너처럼 투지 넘치는 의인들은 눈에 불을 켜고 나 같은 일개 과학자나 뒤쫓으면서, 정작 그런 놈들은 못 본 척하지.+그런 걸 두고 정말 "정의"라 할 수 있을까?
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:그러는 너는 왜 그런 정의감을 안 보이고 그 정치인들이랑 줄다리기하다 흉기를 홀라당 넘겨 줬대?
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:그게 우리가 다른 점이야.+출발점은 같았지만, 너는 무력을 행사했고 나는 기술을 연구했으니까.+그리고 그 과정에서, 너도 나도 너무 많은 사람을 죽였지... 그래, 이게 잘못됐다는 건 나도 인정해.+하지만 이런 아이러니가 바로 이 세상이 변해야만 한다는 증거야.
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:그래서 나는 지금, 이 세상의 구조를 바꿀 수 있는 힘을 만들고 있어.+총 몇 자루로 아무래도 상관없는 조무래기 여럿을 죽이는 것과는 차원이 다른 힘을.+그런 힘을 손에 넣은 뒤에야, 우리는 비로소 올바른 일을 행할 자본이 생기게 돼.+그때가 된다면 생각해 봐, 안젤리아.+과연 누구에게 그런 힘을 휘두를 자격이 있을까?
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:적어도 넌 아니지.
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:그럴지도. 하지만 그런 힘을 만들 수 있는 자가 나 말고 또 누가 있어?+그래서 나는 그런 힘을 만들어내겠어. 그리고 그것을 휘둘러 마땅한 자에게 쥐여 줄 거야.+너는 어때, 안젤리아?+넌 그런 힘을 갖고 싶어?
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:......
-()||:이것은 초대가 아니라 선별이었다. 투기장에 오를 정도로 탐욕스런 자를 가려내기 위한 선별.
-NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:......흥.+절대적인 힘이라.
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:그래, 절대적인 힘.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:......+......
-()||<白屏1>:
-()<Speaker></Speaker>||<白屏2><BGM>GF_22W_SFX_chant</BGM><BIN>460</BIN><common_effect>%%code=CJ_WC_piaofu%%</common_effect>:아베르누스.
-()<Speaker></Speaker>||:첫 아침 햇살이 아베르누스를 비출 때, 의식은 시작된다.
-Nyto(2)<Speaker>검은 니토</Speaker><Position>0,50</Position>||:두 태양은 각자 서로 다른 두 길을 밝히니,
-NytoWhite(1)<Speaker>하얀 니토</Speaker><Position>0,50</Position>;Nyto(2)<Position>0,50</Position>||:속세로의 길과, 자애로운 아버지로의 길.
-NytoWhite(1)<Speaker>흑/백 니토</Speaker><Position>0,50</Position><同时点亮>;Nyto(2)<Position>0,50</Position>||:신전은 마굴로 변하고, 천칭은 죄악으로 물들어 피를 채우는 제단이 되었도다.+복수의 여신은 보검으로 자신의 가슴을 갈라, 자신의 심장을 두드리며 날카롭게 외치노라.
-NPC-Nemhran(3)<Speaker></Speaker>||:......
-NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||:우리 인생길의 한중간에서 나 올바른 길을 잃으니,+천국에서 지옥으로 이끌려 내려간다.+그대 태어났을 때 나는 아직 세상을 떠나지 않았으나,+그대 받은 고통 나의 기억에서 지워졌나니.+우리는 함께하리라. 천국도 지옥도 아닌 곳에서, 저주도 축복도 받지 아니하매. 나는 죽지도 아니하고, 살아있지도 아니하다.
-()<Speaker></Speaker>||:......
-NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||:......
-Nyto(1)<Speaker>검은 니토</Speaker>||:네메아란 언니, 아버님께서 찾으십니다.
-NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||:알았다.+올가.
-NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||<SE1>ClothingUp</SE1>:내가 돌아오면, 내게 이 문서를 주렴.
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:예.
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<关闭蒙版><BIN>9</BIN><黑屏2>:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_door_elecport</SE1><黑点2><BIN>447</BIN>:가벼운 벨 소리와 함께 엘레베이터 문이 열렸고, 네메아란은 천천히 걸어 나왔다.
-()<Speaker></Speaker>||<SE1>AVG_Walk</SE1>:그녀는 고개를 살짝 숙인 채로 눈앞의 방으로 향했다. 그리고 아주 공손한 태도로 문을 열고 들어가, 입을 열었다.
-()||<黑点1>:
-NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||<SE1>AVG_20Winter_Door_Open</SE1><黑点2><BIN>507</BIN><BGM>GF_EV9_Intermission</BGM>:축하드립니다, 아버님.
-NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||<SE1>Stop_AVG_loop</SE1>:전부 아버님의 계획대로 진행되어 가고 있습니다.+지금, 전 세계에 아버님의 목소리가 닿고 있습니다.
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:......
-()<Speaker></Speaker>||:긴 침묵 끝에, 그늘 속의 그 인물이 대답했다.
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:늙은 것들이 드디어 눈치챘다고?
-NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||:예. 그 누구도 아버님의 힘을 무시할 수 없게 되었습니다.
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:하이에나처럼 연명하면서 스스로가 고귀한 줄 착각하는 놈들.+시시한 권력을 놓치지 않으려고 뇌속 마지막 뉴런 하나까지 쥐어짜면서, 세상의 미래에는 눈길 한 번 주지 않아.
-NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||:아버님은 그들 위에 서시게 될 것입니다.
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:아니야 네메아란, 난 오직 힘만 있으면 돼.+힘과 권모술수 중에서, 그들은 결국 힘 앞에 머리를 조아릴 테니까.
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:세상 모든 이를 뛰어넘는 힘을 쥐게 되면, 무슨 소리를 지껄이든 세상은 싫어도 경청하게 되거든.
-NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||:아버님의 힘은 이미 세상을 뒤흔들 관건이 되었습니다.
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:하지만 힘만 있으면, 사람들은 저울질하고, 빼앗으려 들고, 실랑이를 벌이지.
-NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||:그리고 그 후의 새로운 세계를 부술지, 새롭게 만들지는, 전부 아버님의 뜻에 달립니다.
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:하하하... 그놈의 표정이 벌써부터 기대되는걸.
-NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||:......
-()<Speaker></Speaker>||:네메아란은 눈을 감았다.+그녀의 보고는 끝났지만, 아직 떠나서는 안 됐다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그래서 그녀는 잠시 뜸을 들이다, 서서히 고개를 들어 가면을 벗었다.
-NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:...이리와.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:무슨 스위치라도 켜진 듯, 그늘 속의 목소리가 돌연 아주 온화해졌다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BGM>GF_22W_SFX_chant</BGM><黑屏2><BIN>488</BIN>:그의 부름에, 네메아란은 걸어가 살며시 자리에 앉았다. 그녀 앞의 식탁에는 고급스런 음식들이 깨끗한 은쟁반에 보기 좋게 담겨 있었다.+하나같이 그녀에겐 낯설고 처음 보는 음식들이었지만, 전부 그녀가 좋아하는 맛임을 그녀는 알고 있었다.
-()<Speaker>네메아란</Speaker>||:...식전 기도를 드리자.
-()||<黑屏1>:
-()<Speaker>윌리엄?</Speaker>||<黑屏2><BIN>489</BIN>:나를 거쳐 번뇌의 성으로,+나를 거쳐 극락의 탑으로,+나를 거쳐 버림받은 자들 사이로 갈지어니.
-()<Speaker>네메아란</Speaker>||:루시.
-()<Speaker></Speaker>||:그녀의 눈빛엔 희미하게나마 자애로움이 비쳤다.+그 자애로운 시선이 향하는 곳, 방의 한구석에는 홀로그램이 서 있었다.
-()||<黑屏1>:
-()<Speaker>루니샤</Speaker>||<BIN>490</BIN><黑屏2>:......
-()<Speaker>윌리엄?</Speaker>||:......
-()<Speaker>네메아란</Speaker>||:정의로 창조주는 움직이시어,+전능하신 힘과 지고하신 지혜,+원초의 사랑으로 우리를 만드셨도다.
-()<Speaker></Speaker>||:그들은 서로를 마주보며 눈을 감고, 서로의 열 손가락을 마주잡았다.
-()<Speaker>윌리엄?</Speaker>||:나 이전에 태어난 것 없었으며,+나 영원히 존재하리.
-()<Speaker>루니샤</Speaker>||:......
-()<Speaker></Speaker>||:조용한 "거실"에 울려 퍼지는 기도 소리.+평범한 가정처럼, 자리의 모두가 식탁에 모여 식사 전 찬미의 기도문을 읊었다.
-()<Speaker>네메아란</Speaker>||:우리는 함께하리라. 천국도 지옥도 아닌 곳에서, 저주도 축복도 받지 아니하매. 나는 죽지도 아니하고, 살아있지도 아니하다.
-()<Speaker>루니샤</Speaker>||:...사랑이 우리를 함께 살게 하시어,+사랑이 우리를 함께 죽게 하리라.
-()<Speaker></Speaker>||:홀로그램이 약간 노이즈 낀 소리를 내며 기도를 끝냈다. 그리고 네메아란은 눈을 떠, 맞은편에 앉은 자와 온화한 눈빛을 교환했다.
-()<Speaker>네메아란</Speaker>||:...곧, 네가 이길 거란다.
-()<Speaker>윌리엄?</Speaker>||:물론이죠... 어머니.
-()<Speaker></Speaker>||:기도가 끝나자마자, 들뜬 마음을 숨기지 못하는 그는 더는 못 참고 포크와 나이프를 들어 소고기 스테이크를 자르기 시작했고, 은제 나이프가 접시에 부딪혀 소리를 냈다.
-()<Speaker>네메아란</Speaker>||:네가 이 세상을 바꿀 거란다.
-()<Speaker>윌리엄?</Speaker>||:물론이에요. 오직... 오직 나만이 구할 수 있어요.+어머니... 그리고 누나.
-()<Speaker>네메아란</Speaker>||:그래... 루시도 그렇게 생각한단다.
-()<Speaker>루니샤</Speaker>||:......
-()<Speaker>윌리엄?</Speaker>||:조금만 더 참아, 누나...+얼마 안 남았어... 그 미치광이들이 대가를 치를 날이...
-()<Speaker>네메아란</Speaker>||:......
-()<Speaker></Speaker>||:네메아란은 더는 말하지 않으면서 이 기괴한 광경을 지켜봤다.+이것이 그녀를 가장 특별하게 만드는 직책이자, 사명이었다.
-()<Speaker></Speaker>||<CGDelay>3</CGDelay>:......+......
-()||<黑屏1>:
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_door_elecport</SE1><黑屏2><BIN>447</BIN>:.....
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||<BGM>GF_21summer_avg_Demon</BGM>:네메아란 언니.
-()<Speaker></Speaker>||<SE1>AVG_Walk</SE1>:엘레베이터의 문이 열리자, 네메아란이 밖으로 걸어 나왔다.
-()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:그녀의 얼굴에는 손가락 끄트머리에서 대롱거리는 가면 대신 멍한 표정이 걸려 있었다.+그러다 올가의 부름을 듣자, 뻣뻣한 움직임으로 고개를 돌려, 약간 날카로운 시선을 그녀에게 고정했다.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:네 이름은 무엇이니?
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)<Position>0,100</Position>||:예...?
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:네 이름이 무엇이냐 물었단다.
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:...올가입니다. 언니께서 직접 지어 주신 올가입니다.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:올가...
-()<Speaker></Speaker>||:네메아란은 뭔가 떠오른 듯, 천천히 고개를 끄덕였다.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:내가 너에게 여기서 기다리라 했니?
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:예.
-()<Speaker></Speaker>||:네메아란은 재차 천천히 고개를 끄덕이며 올가에게 살짝 다가섰다.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:그럼 내게 줄 물건이 있겠지?
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:예.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:어딘가 기묘한 네메아란의 모습에 조금 당혹스러웠지만, 올가는 여태까지 들고 있던 문서를 공손히 내밀었다.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:네메아란은 그 문서를 받아, 말없이 그것을 읽었다.
-()<Speaker></Speaker>||:데이터 동기화 시작.
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:동기화 진행 중...+동기화 완료.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:......음.
-()<Speaker></Speaker>||:한참 후, 네메아란은 또 한 번 고개를 천천히 끄덕이며 문서를 덮었다.
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:네메아란 언니...?
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||<SE1>ClothingUp</SE1>:올가.
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position><Shake>0.1</Shake>||<SE1>AVG_Bullet_Hit_Body</SE1>:앗...!?
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:수고 많았다.
-()<Speaker></Speaker>||:네메아란의 차가운 표정이, 경악으로 휘둥그레진 올가의 눈에 담긴 마지막 그림이었다.
-()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:올가는 바닥에 채 쓰러지기도 전에 숨을 거두었다.+그 마지막 순간까지, 자신이 무엇을 잘못했는지 알지 못했다.+아니, 알 도리가 없었다. 그녀는 아무런 잘못도 안 했으니까.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:...일하자꾸나.
-()<Speaker></Speaker>||<SE1>AVG_File_Put</SE1>:파기를 끝낸 문서를 올가의 시체 위에 휙 던지고선, 네메아란은 고개를 들고 곧장 출구로 향했다.
-()<Speaker></Speaker>||:멍한 표정은 온데간데 없었다.+기억이 돌아왔다. 아버님과 만나기 전까지의 기억이.+여태까지, 셀 수도 없을 만큼 그래왔던 것처럼.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><关闭蒙版><BGM>BGM_Empty</BGM><narrator>:Loading...
-()<Speaker></Speaker>||<narrator><SE1>AVG_keyboardtype_sci</SE1>:■기록■ NUSSR/DDR, 압축 해제.
-()<Speaker></Speaker>||<narrator><SE1>AVG_keyboardtype_sci</SE1>:■기록■ AS, 불러오는 중...
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>229</BIN><黑屏2><BGM>GF_22W_BGM_1</BGM>:패러데우스의 임시 기지.
-()<Speaker></Speaker>||<SE1>AVG_21Winter_FT_Heel</SE1>:늘씬한 몸매의 니토가 휴면 중으로 보이는 한 인형에게 다가가, 천천히 입을 열었다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||<SE1>Stop_AVG_loop</SE1>:...잘 있었느냐, 판도라.
-RPK16(3)<Speaker>RPK16</Speaker>||:......
-()<Speaker></Speaker>||:그레이의 목소리가 들리자마자, RPK-16은 눈을 떴다.
-RPK16(4)<Speaker>RPK16</Speaker>||:아아, 잘 지냈나요 레이디 그레이.+정말 간만에 아직도 저를 기억하는 손님이군요.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>;RPK16(4)||:네게 낭비할 시간 없어.
-NPC-MrsGray(0);RPK16(4)<Speaker>RPK16</Speaker>||:그러시겠죠.+또 부탁할 일이 생겼나요? 이유야 짐작은 가지만.
-NPC-MrsGray(4)<Speaker>그레이</Speaker>;RPK16(4)||:아니, 너와의 약속을 이행하려 한다.
-RPK16(5)<Speaker>RPK16</Speaker>||:오오?
-()<Speaker></Speaker>||:RPK-16의 눈이 가늘어지며, 희미한 미소가 피어올랐다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:우리는 잠시 베를린을 포기한다.+곧 너를 기지로 데려갈 사람이 올 거다.
-NPC-MrsGray(0);RPK16(2)<Speaker>RPK16</Speaker>||:당신들의 기지...
-NPC-MrsGray(4)<Speaker>그레이</Speaker>;RPK16(2)||:그래, 우리의 진짜 기지.+이제부터 너도 진정한 의미로 우리의 일원이 된다는 뜻이지.+그러니 기뻐해라, 판도라.
-RPK16(6)<Speaker>RPK16</Speaker>||:그렇네요... 정말, 이 날이 오기를 얼마나 손꼽아 기다렸는지.
-()<Speaker></Speaker>||:가볍게 눈을 깜빡이며, RPK-16은 자리에서 일어났다.
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>356</BIN><BGM>GF_21summer_intro_DemonVariation</BGM><narrator>:베를린, 소련군 측 세이프하우스.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐이...+통신 연결.
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>이번에는 좀 좋은 소식이길 바라네.</color>
+M16A1BOSS(4)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:실망시켜서 미안하게 됐군. 결국 놓치고 말았어.+지금까지 우리가 쫓았던 어떤 놈들보다도 끈질겨.
+M16A1BOSS(4);NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>흐음... 내용은 전달받았네.</color>+<color=#00CCFF>그 여자를 이 일대에서 놓친 것이 분명한가?</color>
+M16A1BOSS(2)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:맞아.
+M16A1BOSS(2);NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>그렇다면 추가적으로 보고할 내용이 있겠지?</color>
+M16A1BOSS(5)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:하.+이 근방엔 "죽음의 바다"라 불리는 구역이 있더라.+3차대전 시기에 전쟁 폐기물을 투기하던 곳이었지. 지금은 새조차 못 지나가는 죽음의 땅이 되어버렸지만.
+M16A1BOSS(5);NPC-Havel(1)<Speaker>하벨</Speaker>||:<color=#00CCFF>"블랙존"이다?</color>
+M16A1BOSS(4)<Speaker>M16A1</Speaker>;NPC-Havel(1)||:틀림없어.+인간은 말할 것도 없고, 인형은 물론 기갑마저도 거기서 오래 못 버텨.
+M16A1BOSS(4);NPC-Havel(1)<Speaker>하벨</Speaker>||:<color=#00CCFF>......</color>+<color=#00CCFF>아귀가 맞는구먼.</color>
+M16A1BOSS(2)<Speaker>M16A1</Speaker>;NPC-Havel(1)||:음?
+M16A1BOSS(2);NPC-Havel(1)<Speaker>하벨</Speaker>||:<color=#00CCFF>이쪽에서 내부를 "청소"하던 도중 이름을 하나 들었다네, "아베르누스"라고.</color>+<color=#00CCFF>"지옥의 입구". 그 죽음의 바다란 곳과 수상하게 어울리는 이름이란 생각 안 드나?</color>
+M16A1BOSS(4)<Speaker>M16A1</Speaker>;NPC-Havel(1)||:...그렇군.+그렇다면 그 여자가 이 근방에서 종적을 감춘 걸 더 생각해볼 필요가 있겠어.
+NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>희소식을 기다리겠네.</color>
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_tele_disconnect</SE1>:삐이.+통신 종료.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:......
+()||<黑屏1>:
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||<SE1>ClothingUp</SE1><黑屏2>:......
+()<Speaker></Speaker>||<BGM>GF_22W_BGM_3</BGM>:안젤리아는 인상을 잔뜩 구기고 있었다. 다름이 아니라, 발은 몰라도 손이 뒤로 묶인 상태는 손톱을 물어뜯는 버릇이 있는 사람으로서 너무나도 고역이기 때문이었다.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Open_Light</SE1>:퉁.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Open_Light</SE1>:퉁.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Open_Light</SE1>:퉁.
+()<Speaker></Speaker>||:얼마나 지났을까, 환하게 주위를 밝히는 등불이 멀리서부터 차례대로 꺼졌다.+마치 형용할 수 없는 공포가 다가온다고 알리기라도 하듯, 등불이 꺼지는 소리는 넓은 복도로부터 방으로 메아리쳐 리듬감 있게 가슴을 두드렸다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:...폼 잡기는.
+()<Speaker></Speaker>||:가장 처음 난 소리에 흠칫했을 뿐, 안젤리아는 아무 느낌도 들지 않았다.+들어봤자 아무 의미 없으니까.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:후우...
+()<Speaker></Speaker>||:이윽고, 주위의 소리까지 완전히 사라졌다.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Open_Light</SE1><BIN>510</BIN><白屏2>:퉁.+강렬한 빛줄기가 안젤리아의 얼굴을 비추어, 그녀의 가려진 시야까지 희미한 분홍색으로 밝아졌다.+낯선 기척이 그녀의 바로 앞에서 느껴졌지만, 꼼짝하지 않았다. 아니, 할 수 없었다. 그녀는 지금 입을 제외하면 조금이라도 움직일 수 있는 부분이 없었다.
+NPC-William(0)<Speaker>???</Speaker><Position>0,-50</Position>||<BGM>BGM_Empty</BGM>:......
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:...누구야.
+()<Speaker></Speaker>||:먼저 입을 열어 떠보았는데도 묵묵부답인 점이 오히려 안젤리아의 추측을 확실하게 만들었다. 다만...+비록 만나게 되리라 예상은 했지만, 설마 이렇게 자신의 코앞까지 직접 행차하실 줄은 예상치 못했다.
+NPC-William(0)<Speaker>???</Speaker><Position>0,-50</Position>||:안녕하신가, 안젤리아.
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||<BGM>GF_22W_BGM_1</BGM>:나는 네가 그토록 찾던 사람이다. 계속 "윌리엄"이라 불러도 돼.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||:변성기가 온 소년 특유의 목소리.+안젤리아는 무심코 눈살을 찌푸렸다.+음성 변조조차 하지 않았다. 자신감이 넘쳐서일까, 그녀가 여기서 빠져나갈 수 없다 확신해서일까?+그것도 아니면...+하지만 그보다도 그녀를 의아하게 만든 것은 바로 그가 너무 젊은 수준을 넘어, 어리다는 것이었다.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:네 진짜 이름 아니잖아.
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:진짜고 아니고가 무슨 상관이야? 그저 호칭, 별명, 코드네임에 불과한데.+너만 좋다면 날 다르게 불러도 괜찮아, 상관없어.+그리고 중요한 건 내 이름이 아니지... 지금 중요한 건, 내가 너를 여기에 초대한 이유야, 안젤리아.+너랑 간단하게 대화를 나누고 싶었거든.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:이게 간단한 대화나 하자고 사람 불러다 놓은 꼴이냐?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:안젤리아가 몸에 힘을 줬지만, 당연히 손가락 하나 까딱할 수 없었다.
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:물론이지, 우리가 공평하게 대화를 나누기 위한 필수적인 조치인걸.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:공평 좋아하네... 내가 네 머리통이라도 쥐어 터뜨릴까 봐 겁나?
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:그럴 리가. 그건 내가 아니라 너를 지키기 위해서야.+솔직해지자고, 네가 나를 죽이고 싶어한다는 건 여기 있는 모두가 알아.+그래도 물어는 보자. 왜 나를 죽이려 하는 거지? 네 친구의 복수를 하려고? 아니면, 그 얄팍한 정의를 위해서인가?
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:내가 그런 사적인 이유로 널 찾아다닌 줄 알아?+네 손에 죽은 사람이 얼마나 되는지는 세어나 봤냐? 그런 것까지 얄팍하다 하면 세상에 뭐가 중요한데?
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:그래 그래 잘나셨어, 정의의 사도님.+하지만 이런 생각은 안 해봤어? 난 그저 무기상일 뿐이라고.+내가 이런 무기를 만들지 않아도 사람들은 서로를 죽이려 들어. 돌멩이와 몽둥이를 써서라도 말이야.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:지는 죄가 없다는 듯이 말하네.+적어도 네가 살아있는 한 이 세상은 점점 엉망진창이 될 뿐이란 건 객관적인 사실이야.
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:객관적이라... 진짜 객관적인 사실은, 네가 성공하더라도... 그러니까, "윌리엄"이 죽어 패러데우스가 사라지더라도... 무엇 하나 달라지지 않는다는 게 아닐까?+이 세상을 이렇게나 엉망으로 만든 만악의 근원이 정말 나라고 생각해?
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:날 왜 산 채로 잡아왔나 했더니 그딴 자기 변호나 들려주려고였어? 그렇게 앳된 목소리라도 그건 좀 너무 유치하지 않냐?
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:바로 그거야, 뭐라 반박해야 할지 더는 안 떠오르지?+네가 그런 말로 대꾸했을 때에야 비로소 본론으로 들어갈 수 있지.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:......
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:실은 너도 잘 알고 있잖아. 너도 알고 있어.+이 세상이 병든 원인은 내가 아니란 걸.+이 세상을... 이 세상의 권력 구조, 지금 세상의 흐름을 지배하려는 자들.+그들이야말로 세상이 썩어 들어가는 근본적인 원인이야.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:......
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:떠오르는 사람 있지?+하긴, 예시가 차고 넘치니.+그 인간들. 그 정치인들. 세상을 쥐고 흔들면서, 오로지 사사로운 이익만 좇는 놈들.+그런데 너처럼 투지 넘치는 의인들은 눈에 불을 켜고 나 같은 일개 과학자나 뒤쫓으면서, 정작 그런 놈들은 못 본 척하지.+그런 걸 두고 정말 "정의"라 할 수 있을까?
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:그러는 너는 왜 그런 정의감을 안 보이고 그 정치인들이랑 줄다리기하다 흉기를 홀라당 넘겨 줬대?
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:그게 우리가 다른 점이야.+출발점은 같았지만, 너는 무력을 행사했고 나는 기술을 연구했으니까.+그리고 그 과정에서, 너도 나도 너무 많은 사람을 죽였지... 그래, 이게 잘못됐다는 건 나도 인정해.+하지만 이런 아이러니가 바로 이 세상이 변해야만 한다는 증거야.
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:그래서 나는 지금, 이 세상의 구조를 바꿀 수 있는 힘을 만들고 있어.+총 몇 자루로 아무래도 상관없는 조무래기 여럿을 죽이는 것과는 차원이 다른 힘을.+그런 힘을 손에 넣은 뒤에야, 우리는 비로소 올바른 일을 행할 자본이 생기게 돼.+그때가 된다면 생각해 봐, 안젤리아.+과연 누구에게 그런 힘을 휘두를 자격이 있을까?
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:적어도 넌 아니지.
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:그럴지도. 하지만 그런 힘을 만들 수 있는 자가 나 말고 또 누가 있어?+그래서 나는 그런 힘을 만들어내겠어. 그리고 그것을 휘둘러 마땅한 자에게 쥐여 줄 거야.+너는 어때, 안젤리아?+넌 그런 힘을 갖고 싶어?
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:......
+()||:이것은 초대가 아니라 선별이었다. 투기장에 오를 정도로 탐욕스런 자를 가려내기 위한 선별.
+NPC-AngeDamage(0)<Speaker>안젤리아</Speaker>||:......흥.+절대적인 힘이라.
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:그래, 절대적인 힘.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:......+......
+()||<白屏1>:
+()<Speaker></Speaker>||<白屏2><BGM>GF_22W_SFX_chant</BGM><BIN>460</BIN><common_effect>%%code=CJ_WC_piaofu%%</common_effect>:아베르누스.
+()<Speaker></Speaker>||:첫 아침 햇살이 아베르누스를 비출 때, 의식은 시작된다.
+Nyto(2)<Speaker>검은 니토</Speaker><Position>0,50</Position>||:두 태양은 각자 서로 다른 두 길을 밝히니,
+NytoWhite(1)<Speaker>하얀 니토</Speaker><Position>0,50</Position>;Nyto(2)<Position>0,50</Position>||:속세로의 길과, 자애로운 아버지로의 길.
+NytoWhite(1)<Speaker>흑/백 니토</Speaker><Position>0,50</Position><同时点亮>;Nyto(2)<Position>0,50</Position>||:신전은 마굴로 변하고, 천칭은 죄악으로 물들어 피를 채우는 제단이 되었도다.+복수의 여신은 보검으로 자신의 가슴을 갈라, 자신의 심장을 두드리며 날카롭게 외치노라.
+NPC-Nemhran(3)<Speaker></Speaker>||:......
+NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||:우리 인생길의 한중간에서 나 올바른 길을 잃으니,+천국에서 지옥으로 이끌려 내려간다.+그대 태어났을 때 나는 아직 세상을 떠나지 않았으나,+그대 받은 고통 나의 기억에서 지워졌나니.+우리는 함께하리라. 천국도 지옥도 아닌 곳에서, 저주도 축복도 받지 아니하매. 나는 죽지도 아니하고, 살아있지도 아니하다.
+()<Speaker></Speaker>||:......
+NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||:......
+Nyto(1)<Speaker>검은 니토</Speaker>||:네메아란 언니, 아버님께서 찾으십니다.
+NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||:알았다.+올가.
+NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||<SE1>ClothingUp</SE1>:내가 돌아오면, 내게 이 문서를 주렴.
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:예.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<关闭蒙版><BIN>9</BIN><黑屏2>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_door_elecport</SE1><黑点2><BIN>447</BIN>:가벼운 벨 소리와 함께 엘레베이터 문이 열렸고, 네메아란은 천천히 걸어 나왔다.
+()<Speaker></Speaker>||<SE1>AVG_Walk</SE1>:그녀는 고개를 살짝 숙인 채로 눈앞의 방으로 향했다. 그리고 아주 공손한 태도로 문을 열고 들어가, 입을 열었다.
+()||<黑点1>:
+NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||<SE1>AVG_20Winter_Door_Open</SE1><黑点2><BIN>507</BIN><BGM>GF_EV9_Intermission</BGM>:축하드립니다, 아버님.
+NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||<SE1>Stop_AVG_loop</SE1>:전부 아버님의 계획대로 진행되어 가고 있습니다.+지금, 전 세계에 아버님의 목소리가 닿고 있습니다.
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:......
+()<Speaker></Speaker>||:긴 침묵 끝에, 그늘 속의 그 인물이 대답했다.
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:늙은 것들이 드디어 눈치챘다고?
+NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||:예. 그 누구도 아버님의 힘을 무시할 수 없게 되었습니다.
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:하이에나처럼 연명하면서 스스로가 고귀한 줄 착각하는 놈들.+시시한 권력을 놓치지 않으려고 뇌속 마지막 뉴런 하나까지 쥐어짜면서, 세상의 미래에는 눈길 한 번 주지 않아.
+NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||:아버님은 그들 위에 서시게 될 것입니다.
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:아니야 네메아란, 난 오직 힘만 있으면 돼.+힘과 권모술수 중에서, 그들은 결국 힘 앞에 머리를 조아릴 테니까.
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:세상 모든 이를 뛰어넘는 힘을 쥐게 되면, 무슨 소리를 지껄이든 세상은 싫어도 경청하게 되거든.
+NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||:아버님의 힘은 이미 세상을 뒤흔들 관건이 되었습니다.
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:하지만 힘만 있으면, 사람들은 저울질하고, 빼앗으려 들고, 실랑이를 벌이지.
+NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||:그리고 그 후의 새로운 세계를 부술지, 새롭게 만들지는, 전부 아버님의 뜻에 달립니다.
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:하하하... 그놈의 표정이 벌써부터 기대되는걸.
+NPC-Nemhran(3)<Speaker>네메아란</Speaker><Position>0,100</Position>||:......
+()<Speaker></Speaker>||:네메아란은 눈을 감았다.+그녀의 보고는 끝났지만, 아직 떠나서는 안 됐다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그래서 그녀는 잠시 뜸을 들이다, 서서히 고개를 들어 가면을 벗었다.
+NPC-William(0)<Speaker>윌리엄?</Speaker><Position>0,-50</Position>||:...이리와.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:무슨 스위치라도 켜진 듯, 그늘 속의 목소리가 돌연 아주 온화해졌다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>GF_22W_SFX_chant</BGM><黑屏2><BIN>488</BIN>:그의 부름에, 네메아란은 걸어가 살며시 자리에 앉았다. 그녀 앞의 식탁에는 고급스런 음식들이 깨끗한 은쟁반에 보기 좋게 담겨 있었다.+하나같이 그녀에겐 낯설고 처음 보는 음식들이었지만, 전부 그녀가 좋아하는 맛임을 그녀는 알고 있었다.
+()<Speaker>네메아란</Speaker>||:...식전 기도를 드리자.
+()||<黑屏1>:
+()<Speaker>윌리엄?</Speaker>||<黑屏2><BIN>489</BIN>:나를 거쳐 번뇌의 성으로,+나를 거쳐 극락의 탑으로,+나를 거쳐 버림받은 자들 사이로 갈지어니.
+()<Speaker>네메아란</Speaker>||:루시.
+()<Speaker></Speaker>||:그녀의 눈빛엔 희미하게나마 자애로움이 비쳤다.+그 자애로운 시선이 향하는 곳, 방의 한구석에는 홀로그램이 서 있었다.
+()||<黑屏1>:
+()<Speaker>루니샤</Speaker>||<BIN>490</BIN><黑屏2>:......
+()<Speaker>윌리엄?</Speaker>||:......
+()<Speaker>네메아란</Speaker>||:정의로 창조주는 움직이시어,+전능하신 힘과 지고하신 지혜,+원초의 사랑으로 우리를 만드셨도다.
+()<Speaker></Speaker>||:그들은 서로를 마주보며 눈을 감고, 서로의 열 손가락을 마주잡았다.
+()<Speaker>윌리엄?</Speaker>||:나 이전에 태어난 것 없었으며,+나 영원히 존재하리.
+()<Speaker>루니샤</Speaker>||:......
+()<Speaker></Speaker>||:조용한 "거실"에 울려 퍼지는 기도 소리.+평범한 가정처럼, 자리의 모두가 식탁에 모여 식사 전 찬미의 기도문을 읊었다.
+()<Speaker>네메아란</Speaker>||:우리는 함께하리라. 천국도 지옥도 아닌 곳에서, 저주도 축복도 받지 아니하매. 나는 죽지도 아니하고, 살아있지도 아니하다.
+()<Speaker>루니샤</Speaker>||:...사랑이 우리를 함께 살게 하시어,+사랑이 우리를 함께 죽게 하리라.
+()<Speaker></Speaker>||:홀로그램이 약간 노이즈 낀 소리를 내며 기도를 끝냈다. 그리고 네메아란은 눈을 떠, 맞은편에 앉은 자와 온화한 눈빛을 교환했다.
+()<Speaker>네메아란</Speaker>||:...곧, 네가 이길 거란다.
+()<Speaker>윌리엄?</Speaker>||:물론이죠... 어머니.
+()<Speaker></Speaker>||:기도가 끝나자마자, 들뜬 마음을 숨기지 못하는 그는 더는 못 참고 포크와 나이프를 들어 소고기 스테이크를 자르기 시작했고, 은제 나이프가 접시에 부딪혀 소리를 냈다.
+()<Speaker>네메아란</Speaker>||:네가 이 세상을 바꿀 거란다.
+()<Speaker>윌리엄?</Speaker>||:물론이에요. 오직... 오직 나만이 구할 수 있어요.+어머니... 그리고 누나.
+()<Speaker>네메아란</Speaker>||:그래... 루시도 그렇게 생각한단다.
+()<Speaker>루니샤</Speaker>||:......
+()<Speaker>윌리엄?</Speaker>||:조금만 더 참아, 누나...+얼마 안 남았어... 그 미치광이들이 대가를 치를 날이...
+()<Speaker>네메아란</Speaker>||:......
+()<Speaker></Speaker>||:네메아란은 더는 말하지 않으면서 이 기괴한 광경을 지켜봤다.+이것이 그녀를 가장 특별하게 만드는 직책이자, 사명이었다.
+()<Speaker></Speaker>||<CGDelay>3</CGDelay>:......+......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_door_elecport</SE1><黑屏2><BIN>447</BIN>:.....
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||<BGM>GF_21summer_avg_Demon</BGM>:네메아란 언니.
+()<Speaker></Speaker>||<SE1>AVG_Walk</SE1>:엘레베이터의 문이 열리자, 네메아란이 밖으로 걸어 나왔다.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:그녀의 얼굴에는 손가락 끄트머리에서 대롱거리는 가면 대신 멍한 표정이 걸려 있었다.+그러다 올가의 부름을 듣자, 뻣뻣한 움직임으로 고개를 돌려, 약간 날카로운 시선을 그녀에게 고정했다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:네 이름은 무엇이니?
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)<Position>0,100</Position>||:예...?
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:네 이름이 무엇이냐 물었단다.
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:...올가입니다. 언니께서 직접 지어 주신 올가입니다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:올가...
+()<Speaker></Speaker>||:네메아란은 뭔가 떠오른 듯, 천천히 고개를 끄덕였다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:내가 너에게 여기서 기다리라 했니?
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:예.
+()<Speaker></Speaker>||:네메아란은 재차 천천히 고개를 끄덕이며 올가에게 살짝 다가섰다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:그럼 내게 줄 물건이 있겠지?
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:예.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:어딘가 기묘한 네메아란의 모습에 조금 당혹스러웠지만, 올가는 여태까지 들고 있던 문서를 공손히 내밀었다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:네메아란은 그 문서를 받아, 말없이 그것을 읽었다.
+()<Speaker></Speaker>||:데이터 동기화 시작.
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:동기화 진행 중...+동기화 완료.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:......음.
+()<Speaker></Speaker>||:한참 후, 네메아란은 또 한 번 고개를 천천히 끄덕이며 문서를 덮었다.
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:네메아란 언니...?
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||<SE1>ClothingUp</SE1>:올가.
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position><Shake>0.1</Shake>||<SE1>AVG_Bullet_Hit_Body</SE1>:앗...!?
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:수고 많았다.
+()<Speaker></Speaker>||:네메아란의 차가운 표정이, 경악으로 휘둥그레진 올가의 눈에 담긴 마지막 그림이었다.
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:올가는 바닥에 채 쓰러지기도 전에 숨을 거두었다.+그 마지막 순간까지, 자신이 무엇을 잘못했는지 알지 못했다.+아니, 알 도리가 없었다. 그녀는 아무런 잘못도 안 했으니까.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:...일하자꾸나.
+()<Speaker></Speaker>||<SE1>AVG_File_Put</SE1>:파기를 끝낸 문서를 올가의 시체 위에 휙 던지고선, 네메아란은 고개를 들고 곧장 출구로 향했다.
+()<Speaker></Speaker>||:멍한 표정은 온데간데 없었다.+기억이 돌아왔다. 아버님과 만나기 전까지의 기억이.+여태까지, 셀 수도 없을 만큼 그래왔던 것처럼.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><关闭蒙版><BGM>BGM_Empty</BGM><narrator>:Loading...
+()<Speaker></Speaker>||<narrator><SE1>AVG_keyboardtype_sci</SE1>:■기록■ NUSSR/DDR, 압축 해제.
+()<Speaker></Speaker>||<narrator><SE1>AVG_keyboardtype_sci</SE1>:■기록■ AS, 불러오는 중...
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>229</BIN><黑屏2><BGM>GF_22W_BGM_1</BGM>:패러데우스의 임시 기지.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_FT_Heel</SE1>:늘씬한 몸매의 니토가 휴면 중으로 보이는 한 인형에게 다가가, 천천히 입을 열었다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||<SE1>Stop_AVG_loop</SE1>:...잘 있었느냐, 판도라.
+RPK16(3)<Speaker>RPK16</Speaker>||:......
+()<Speaker></Speaker>||:그레이의 목소리가 들리자마자, RPK-16은 눈을 떴다.
+RPK16(4)<Speaker>RPK16</Speaker>||:아아, 잘 지냈나요 레이디 그레이.+정말 간만에 아직도 저를 기억하는 손님이군요.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>;RPK16(4)||:네게 낭비할 시간 없어.
+NPC-MrsGray(0);RPK16(4)<Speaker>RPK16</Speaker>||:그러시겠죠.+또 부탁할 일이 생겼나요? 이유야 짐작은 가지만.
+NPC-MrsGray(4)<Speaker>그레이</Speaker>;RPK16(4)||:아니, 너와의 약속을 이행하려 한다.
+RPK16(5)<Speaker>RPK16</Speaker>||:오오?
+()<Speaker></Speaker>||:RPK-16의 눈이 가늘어지며, 희미한 미소가 피어올랐다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:우리는 잠시 베를린을 포기한다.+곧 너를 기지로 데려갈 사람이 올 거다.
+NPC-MrsGray(0);RPK16(2)<Speaker>RPK16</Speaker>||:당신들의 기지...
+NPC-MrsGray(4)<Speaker>그레이</Speaker>;RPK16(2)||:그래, 우리의 진짜 기지.+이제부터 너도 진정한 의미로 우리의 일원이 된다는 뜻이지.+그러니 기뻐해라, 판도라.
+RPK16(6)<Speaker>RPK16</Speaker>||:그렇네요... 정말, 이 날이 오기를 얼마나 손꼽아 기다렸는지.
+()<Speaker></Speaker>||:가볍게 눈을 깜빡이며, RPK-16은 자리에서 일어났다.
+()||<黑点1>:

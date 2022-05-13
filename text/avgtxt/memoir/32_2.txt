@@ -1,54 +1,54 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>55</BIN><SE1>Explode</SE1><CGDelay>0.5</CGDelay>:......
-MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||<BGM>BGM_Sunshine</BGM>:휴우, 아슬아슬했네.+하마터면 옷이 더러워질 뻔했어.+그래도 이 출력 정말 대단한걸? 과연 군용이야.
-AR(0)<Speaker>갈릴</Speaker>||:......
-AR(0)<Speaker>갈릴</Speaker>||<震屏>:어럽쇼...?+잠깐, 방금 무슨 일이 일어난 거야?+아까 튀어나왔던 철혈들이... 갑자기 싹 사라졌어...?
-MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:굳이 상황 파악할 필요 없어. 참, 지휘관한테 나 좀 늦게 돌아가게 될 거 같다고 전해줄래?+아직 할 일이 있거든.
-AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:아니, 그래도 그렇지 어떻게 이렇게 순식간에...+...뭐야, 너 몸에 그거 뭐야? 신형 장비야? 그런 건 또 어디서 났어?
-AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:헤헤, 깜짝 놀랐지?+임무에 충실해서 샅샅이 수색한 덕분에 구석에서 이 녀석을 찾아낸 거야.+내 몸에도 딱 맞길래 착용했지.
-AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:와, 이 치사한 녀석! 미리 좀 알려주면 어디가 덧나냐!
-AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:혹시 알아? 지금 가서 찾아보면 똑같은 게 더 있을지.+없다면... 뭐, 아쉽게 된 거고!
-AR(0)<Speaker>갈릴</Speaker>||:으음... 그럴지도 모르지만...+그래도 그렇게 수고해서까지 신형 장비를 찾아다 쓰고 싶지는――
-()<Speaker>[관리자]</Speaker>||:사용 가능한 운영체제 검색 중...
-AR(0)<Speaker>갈릴</Speaker>||:접속 거부.
-()<Speaker>[관리자]</Speaker>||:접속이 거부되었습니다.+마인드맵 동기화가 중단되었습니다.
-AR(0)<Speaker>갈릴</Speaker>||:......+우지, 그 장비 대체 뭐야?+멋대로 인형의 마인드맵과 동기화하려는 스마트 모듈은 듣도 보도 못했는데.
-MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:IOP가 군의 의뢰를 받아 개발한 전투 보조 시스템이래.+근데 왜 접속을 거부했어? 어쩌면 네 작전 능력을 높여줄 방법을 가르쳐 줄지도 몰라!
-AR(0)<Speaker>갈릴</Speaker>||:......+싫어. 누가 멋대로 내 마인드맵을 엿보는 건 사양이야.+특히 정체를 알 수 없는 녀석에겐 더더욱.
-AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:하긴, 네 다이어트 계획은 보는 사람이 다 창피할 정도로 엉망이잖아.
-AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:어... 그건 그렇지.+아무튼, 명심해 우지. 세상 모든 것에는 대가가 필요해. 그리고 그 대가를 언제 어떻게 치르게 될지는 일이 닥치기 전까진 알 수 없어.
-AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:너 어째 말투가 점점 네게브랑 비슷해진다? 처음 만났을 땐 안 그랬는데.
-AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:네게브도 처음 만났을 땐 안 이랬는데 뭘.
-AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:물론, 그 네게브식 충고는 천 번 만 번 옳은 말이지만...+선택 자체도 대가 아니야?+타고나지 않은 사람들은 다 선택이란 대가를 치러야 한다고.
-AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:......+그래, 그럼 이제 뭘 할 셈인데?+적어도 지휘관에게 귀환이 늦어질 사유는 대야 할 거 아니야.
-AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||<BGM>BGM_Empty</BGM>:...세이프하우스.+우리의 옛 세이프하우스로 갈 거야.
-AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||<BGM>BGM_Wake</BGM>:뭐...?+......+야, 너 설마... 전에 철수했던 거기 말하는 거야...?!
-AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:[관리자]가 최단 경로를 계산해줬어. 동이 트기 전에는 돌아올게.
-AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:하지만 거긴 이미 봉쇄됐다고. 게다가 우리는 상대도 안 되는 것들이 잔뜩이란 말이야.
-AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:"넌" 상대가 안 되는 것들이지. 그러니까 먼저 돌아가.+이건 이 장비를 착용한 내가 해야 할 일이야.
-AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:그런 명령은 없었잖아?
-AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:......+아직 기억해? 갈릴... 난 그 세이프하우스에서 잘못을 저질렀어. 그 때문에 네게브는 나를 나무랐고.
-AR(0)<Speaker>갈릴</Speaker>||<黑屏1>0,3</黑屏1>:......
-()<Speaker>네게브</Speaker>||<黑屏2>0,3</黑屏2><BIN>9</BIN><黑屏1>0,3</黑屏1><CGDelay>0.2</CGDelay>:<size=55>이 바보야! 두고 가라고!</size>
-AR(0)<Speaker>갈릴</Speaker>||<黑屏2>0,3</黑屏2><BIN>55</BIN>:기억 안 나.+우지, 일단 기지로 돌아가자. 나머진 거기서 천천히 이야기해도 늦지 않아.
-MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:네게브는 그때 모든 자료를 파기하라고 명령했어.+하지만 난 실망시키고 말았어.+내가 우물쭈물해서... 능력이 부족했던 탓에...
-AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:그 세이프하우스는 어지간히도 쓴 데라 파기할 게 너무 많았을 뿐이야.+적이 거길 기습한 게 네 잘못이야? 아니잖아. 철수하고 난 뒤에 네게브도 널 비난했어? 안 했잖아.
-AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:화내기도 귀찮아서였겠지. 그 후 난 여기로 쫓겨났어.+곧 쫓아낼 사람한테 굳이 화를 낼 필요가 어디 있어?
-AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:그런 생각은 콜레스테롤이나 마찬가지인 거 알아?+자신의 잘잘못과 타인의 평가를 지나치게 신경 쓰는 건 하나도 좋을 거 없어.
-AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:따지고 그러는 게 아니야. 그저, 내가 마저 파기하지 못한 자료들이 아직 거기에 남아있어서 그래.+네게브가 나한테 맡겼던 일을 끝내서... 나도 아직 쓸모 있다는 걸 증명해내고 말겠어.
-AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:......+어휴... 그래, 알았어.
-AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:날 믿어!+아이스크림은 나중에 같이 먹자.
-AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:그딴 소린 돌아가서 하셔.+지금은 그 추억의 세이프하우스 다시 보게 생겨서 아이스크림이 문제가 아니야.
-AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:아니 잠깐, 넌 돌아가라니까?+거기서 무서운 놈들이랑 마주쳤다간 넌 순식간에 박살 날 거라고!
-AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:그럼 네가 날 지켜 주면 되겠네.+지금 네 전투능력이라면 별거 아니지?+그리고... 그 전투광 대장이랑 어울리면서 단련된 내 실력을 얕보지 말라고.
-MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:으음...
-()<Speaker>[관리자]</Speaker>||:갈릴 씨, 마이크로 우지의 작전 능력을 의심하는 겁니까?
-AR(0)<Speaker>갈릴</Speaker>||:......+무슨 소리래? 나도 우지가 얼마나 대단해졌는지 내 눈으로 직접 확인하고 싶어서 그래.
-()<Speaker>[관리자]</Speaker>||:마이크로 우지, 거절해.+갈릴은 짐이 될 뿐이야.
-AR(0)<Speaker>갈릴</Speaker>||:겨우 전술인형 하나 못 지킨다는 거야? 차세대가 어쩌고저쩌고 하더니 별로 대단하지도 않은 보조 시스템인가 보네.
-()<Speaker>[관리자]</Speaker>||:마이크로 우지, 거절해.+전장에서 예측 못할 변수가 될 뿐이야.
-MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:아니, 갈릴 말이 맞아.+이렇게까지 업그레이드됐는데, 어떤 상황에서도 임무를 완수할 수 있을 거야.
-AR(0)<Speaker>갈릴</Speaker>||:...히히.
-()<Speaker>[관리자]</Speaker>||:......+명령 확인.
-MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||<黑屏1>:색적 개시!+우리 앞을 가로막는 적은 누가 됐든 뚫고 지나갈 뿐이야!
-()<Speaker>마이크로 우지</Speaker>||<BIN>9</BIN><黑屏1>:자신의 잘못을 스스로 매듭지을 수 없는 자에게... 미래는 없으니까.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>55</BIN><SE1>Explode</SE1><CGDelay>0.5</CGDelay>:......
+MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||<BGM>BGM_Sunshine</BGM>:휴우, 아슬아슬했네.+하마터면 옷이 더러워질 뻔했어.+그래도 이 출력 정말 대단한걸? 과연 군용이야.
+AR(0)<Speaker>갈릴</Speaker>||:......
+AR(0)<Speaker>갈릴</Speaker>||<震屏>:어럽쇼...?+잠깐, 방금 무슨 일이 일어난 거야?+아까 튀어나왔던 철혈들이... 갑자기 싹 사라졌어...?
+MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:굳이 상황 파악할 필요 없어. 참, 지휘관한테 나 좀 늦게 돌아가게 될 거 같다고 전해줄래?+아직 할 일이 있거든.
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:아니, 그래도 그렇지 어떻게 이렇게 순식간에...+...뭐야, 너 몸에 그거 뭐야? 신형 장비야? 그런 건 또 어디서 났어?
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:헤헤, 깜짝 놀랐지?+임무에 충실해서 샅샅이 수색한 덕분에 구석에서 이 녀석을 찾아낸 거야.+내 몸에도 딱 맞길래 착용했지.
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:와, 이 치사한 녀석! 미리 좀 알려주면 어디가 덧나냐!
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:혹시 알아? 지금 가서 찾아보면 똑같은 게 더 있을지.+없다면... 뭐, 아쉽게 된 거고!
+AR(0)<Speaker>갈릴</Speaker>||:으음... 그럴지도 모르지만...+그래도 그렇게 수고해서까지 신형 장비를 찾아다 쓰고 싶지는――
+()<Speaker>[관리자]</Speaker>||:사용 가능한 운영체제 검색 중...
+AR(0)<Speaker>갈릴</Speaker>||:접속 거부.
+()<Speaker>[관리자]</Speaker>||:접속이 거부되었습니다.+마인드맵 동기화가 중단되었습니다.
+AR(0)<Speaker>갈릴</Speaker>||:......+우지, 그 장비 대체 뭐야?+멋대로 인형의 마인드맵과 동기화하려는 스마트 모듈은 듣도 보도 못했는데.
+MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:IOP가 군의 의뢰를 받아 개발한 전투 보조 시스템이래.+근데 왜 접속을 거부했어? 어쩌면 네 작전 능력을 높여줄 방법을 가르쳐 줄지도 몰라!
+AR(0)<Speaker>갈릴</Speaker>||:......+싫어. 누가 멋대로 내 마인드맵을 엿보는 건 사양이야.+특히 정체를 알 수 없는 녀석에겐 더더욱.
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:하긴, 네 다이어트 계획은 보는 사람이 다 창피할 정도로 엉망이잖아.
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:어... 그건 그렇지.+아무튼, 명심해 우지. 세상 모든 것에는 대가가 필요해. 그리고 그 대가를 언제 어떻게 치르게 될지는 일이 닥치기 전까진 알 수 없어.
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:너 어째 말투가 점점 네게브랑 비슷해진다? 처음 만났을 땐 안 그랬는데.
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:네게브도 처음 만났을 땐 안 이랬는데 뭘.
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:물론, 그 네게브식 충고는 천 번 만 번 옳은 말이지만...+선택 자체도 대가 아니야?+타고나지 않은 사람들은 다 선택이란 대가를 치러야 한다고.
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:......+그래, 그럼 이제 뭘 할 셈인데?+적어도 지휘관에게 귀환이 늦어질 사유는 대야 할 거 아니야.
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||<BGM>BGM_Empty</BGM>:...세이프하우스.+우리의 옛 세이프하우스로 갈 거야.
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||<BGM>BGM_Wake</BGM>:뭐...?+......+야, 너 설마... 전에 철수했던 거기 말하는 거야...?!
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:[관리자]가 최단 경로를 계산해줬어. 동이 트기 전에는 돌아올게.
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:하지만 거긴 이미 봉쇄됐다고. 게다가 우리는 상대도 안 되는 것들이 잔뜩이란 말이야.
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:"넌" 상대가 안 되는 것들이지. 그러니까 먼저 돌아가.+이건 이 장비를 착용한 내가 해야 할 일이야.
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:그런 명령은 없었잖아?
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:......+아직 기억해? 갈릴... 난 그 세이프하우스에서 잘못을 저질렀어. 그 때문에 네게브는 나를 나무랐고.
+AR(0)<Speaker>갈릴</Speaker>||<黑屏1>0,3</黑屏1>:......
+()<Speaker>네게브</Speaker>||<黑屏2>0,3</黑屏2><BIN>9</BIN><黑屏1>0,3</黑屏1><CGDelay>0.2</CGDelay>:<size=55>이 바보야! 두고 가라고!</size>
+AR(0)<Speaker>갈릴</Speaker>||<黑屏2>0,3</黑屏2><BIN>55</BIN>:기억 안 나.+우지, 일단 기지로 돌아가자. 나머진 거기서 천천히 이야기해도 늦지 않아.
+MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:네게브는 그때 모든 자료를 파기하라고 명령했어.+하지만 난 실망시키고 말았어.+내가 우물쭈물해서... 능력이 부족했던 탓에...
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:그 세이프하우스는 어지간히도 쓴 데라 파기할 게 너무 많았을 뿐이야.+적이 거길 기습한 게 네 잘못이야? 아니잖아. 철수하고 난 뒤에 네게브도 널 비난했어? 안 했잖아.
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:화내기도 귀찮아서였겠지. 그 후 난 여기로 쫓겨났어.+곧 쫓아낼 사람한테 굳이 화를 낼 필요가 어디 있어?
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:그런 생각은 콜레스테롤이나 마찬가지인 거 알아?+자신의 잘잘못과 타인의 평가를 지나치게 신경 쓰는 건 하나도 좋을 거 없어.
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:따지고 그러는 게 아니야. 그저, 내가 마저 파기하지 못한 자료들이 아직 거기에 남아있어서 그래.+네게브가 나한테 맡겼던 일을 끝내서... 나도 아직 쓸모 있다는 걸 증명해내고 말겠어.
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:......+어휴... 그래, 알았어.
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:날 믿어!+아이스크림은 나중에 같이 먹자.
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:그딴 소린 돌아가서 하셔.+지금은 그 추억의 세이프하우스 다시 보게 생겨서 아이스크림이 문제가 아니야.
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:아니 잠깐, 넌 돌아가라니까?+거기서 무서운 놈들이랑 마주쳤다간 넌 순식간에 박살 날 거라고!
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)||:그럼 네가 날 지켜 주면 되겠네.+지금 네 전투능력이라면 별거 아니지?+그리고... 그 전투광 대장이랑 어울리면서 단련된 내 실력을 얕보지 말라고.
+MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:으음...
+()<Speaker>[관리자]</Speaker>||:갈릴 씨, 마이크로 우지의 작전 능력을 의심하는 겁니까?
+AR(0)<Speaker>갈릴</Speaker>||:......+무슨 소리래? 나도 우지가 얼마나 대단해졌는지 내 눈으로 직접 확인하고 싶어서 그래.
+()<Speaker>[관리자]</Speaker>||:마이크로 우지, 거절해.+갈릴은 짐이 될 뿐이야.
+AR(0)<Speaker>갈릴</Speaker>||:겨우 전술인형 하나 못 지킨다는 거야? 차세대가 어쩌고저쩌고 하더니 별로 대단하지도 않은 보조 시스템인가 보네.
+()<Speaker>[관리자]</Speaker>||:마이크로 우지, 거절해.+전장에서 예측 못할 변수가 될 뿐이야.
+MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||:아니, 갈릴 말이 맞아.+이렇게까지 업그레이드됐는데, 어떤 상황에서도 임무를 완수할 수 있을 거야.
+AR(0)<Speaker>갈릴</Speaker>||:...히히.
+()<Speaker>[관리자]</Speaker>||:......+명령 확인.
+MicroUZIMod(0)<Speaker>마이크로 우지</Speaker>||<黑屏1>:색적 개시!+우리 앞을 가로막는 적은 누가 됐든 뚫고 지나갈 뿐이야!
+()<Speaker>마이크로 우지</Speaker>||<BIN>9</BIN><黑屏1>:자신의 잘못을 스스로 매듭지을 수 없는 자에게... 미래는 없으니까.

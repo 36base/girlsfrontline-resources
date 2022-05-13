@@ -1,22 +1,22 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>169</BIN><黑屏2><BGM>BGM_Room</BGM>:격리벽 뒤.
-()<Speaker></Speaker>||:안젤리아가 통신기를 켰다.
-NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>쓸데없는 말은 그만 하라고 했을 텐데.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:......+격리벽에 또 구멍이 났다. 지금 상황을 정리 중이야.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>네 임무는 "스피라에나 노드"의 수색이지, 인명 구조가 아니야.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:상황이 계속 악화되면, 정찰이고 뭐고 진행할 수가 없어져.+지원해줄 수 없다면, 적어도 다른 정보라도 제공해주지 그래? 다른 쪽의 상황은 어떻지?
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>그리폰 말인가?</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:그래.+그 지휘관은 지금 어떤 임무를 맡고 있지?
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>국련이 파견한 주석의 경호를 맡고 있다.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:허... 그 녀석을 그렇게까지 믿다니.+하지만 그 지휘관까지 끌어들이진 않았으면 좋겠다고 했잖아.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>우연이군. 우리의 의견이 일치할 때는 흔치 않은데.</color>+<color=#00CCFF>하지만 지금은 그자가 필요해.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:정말 그런 임무를 "외부인"에게 맡겨도 되는 거야?
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>왜 그렇게 그자를 감싸지?</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:...그런 뜻이 아니야.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>비록 그 지휘관이 외부인이긴 하지만, 우리에게 협력함으로서 그리폰의 마지막 남은 불씨를 살려낼 수 있지.</color>+<color=#00CCFF>그래도 그를 빼고 싶나?</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:그리폰이야 어떻게 되든 내 알 바 아니다만.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>그래? 과거에 몸을 담갔던 곳이라 정이라도 있을 줄 알았더니만.</color>+<color=#00CCFF>그건 그렇고, 이번 작전에서 모든 요원을 잃었어.</color>+<color=#00CCFF>지금 우리가 기댈 수 있는 전투력은 그리폰의 지휘관뿐이야.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:......+그 지휘관이라면 임무를 무사히 마칠 수는 있겠지...
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>네 말대로, 철수 작전은 현재 순조롭게 진행 중이다.</color>+<color=#00CCFF>그래, 네가 원하는 정보를 줬으니, 이제 임무를 계속할 수 있겠나?</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:...칫.
-()<Speaker></Speaker>||<黑屏1>:통신 종료.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>169</BIN><黑屏2><BGM>BGM_Room</BGM>:격리벽 뒤.
+()<Speaker></Speaker>||:안젤리아가 통신기를 켰다.
+NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>쓸데없는 말은 그만 하라고 했을 텐데.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:......+격리벽에 또 구멍이 났다. 지금 상황을 정리 중이야.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>네 임무는 "스피라에나 노드"의 수색이지, 인명 구조가 아니야.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:상황이 계속 악화되면, 정찰이고 뭐고 진행할 수가 없어져.+지원해줄 수 없다면, 적어도 다른 정보라도 제공해주지 그래? 다른 쪽의 상황은 어떻지?
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>그리폰 말인가?</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:그래.+그 지휘관은 지금 어떤 임무를 맡고 있지?
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>국련이 파견한 주석의 경호를 맡고 있다.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:허... 그 녀석을 그렇게까지 믿다니.+하지만 그 지휘관까지 끌어들이진 않았으면 좋겠다고 했잖아.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>우연이군. 우리의 의견이 일치할 때는 흔치 않은데.</color>+<color=#00CCFF>하지만 지금은 그자가 필요해.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:정말 그런 임무를 "외부인"에게 맡겨도 되는 거야?
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>왜 그렇게 그자를 감싸지?</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:...그런 뜻이 아니야.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>비록 그 지휘관이 외부인이긴 하지만, 우리에게 협력함으로서 그리폰의 마지막 남은 불씨를 살려낼 수 있지.</color>+<color=#00CCFF>그래도 그를 빼고 싶나?</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:그리폰이야 어떻게 되든 내 알 바 아니다만.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>그래? 과거에 몸을 담갔던 곳이라 정이라도 있을 줄 알았더니만.</color>+<color=#00CCFF>그건 그렇고, 이번 작전에서 모든 요원을 잃었어.</color>+<color=#00CCFF>지금 우리가 기댈 수 있는 전투력은 그리폰의 지휘관뿐이야.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:......+그 지휘관이라면 임무를 무사히 마칠 수는 있겠지...
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>네 말대로, 철수 작전은 현재 순조롭게 진행 중이다.</color>+<color=#00CCFF>그래, 네가 원하는 정보를 줬으니, 이제 임무를 계속할 수 있겠나?</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:...칫.
+()<Speaker></Speaker>||<黑屏1>:통신 종료.

@@ -1,30 +1,30 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||<黑屏2><BIN>80</BIN><BGM>BGM_Hello</BGM>:
-()||:1주일 후, 카페.
-M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,120</Position>||:도와줘서 고마워요, P38. 여기 오늘 일당이에요.
-P38(0)<Speaker>P38</Speaker>||:와, 감사합니다! 이 정도면 충분해요!
-M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,120</Position>||:천만에요. 그런데 당신, 요즘 엄청 바쁘다면서요?+카페 일에 구호소, 군수지원까지... 아르바이트로 아주 열심이라던데요.
-P38(0)<Speaker>P38</Speaker>||:에헤헤... 스프링필드 씨도 알고 계셨어요?
-M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,120</Position>||:그렇게 열심히 돌아다니면 당연히 알게 되죠.+급하게 돈이 필요한 일이라도 생겼나요?
-P38(0)<Speaker>P38</Speaker>||:네, 돈이 좀 필요해졌어요.
-M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,120</Position>||:무슨 일인지 알려 줄 수 있을까요?
-P38(0)<Speaker>P38</Speaker>||:비밀이에요! 하지만 약속할게요, 1주일 뒤면 스프링필드 씨도 제 눈부신 성과를 보게 될 거예요!
-M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,120</Position>||:후훗, 그럼 기대하고 있을게요.
-P38(0)<Speaker>P38</Speaker>||<黑点1>:네!
-()||<黑点2><BIN>18</BIN>:스타 메이커 스튜디오.
-P38(0)<Speaker>P38</Speaker>||:내 할당량은 다 모았어!
-HK45(0)<Speaker>HK45</Speaker>||:나도. 이제 스테츠킨한테 연락하기만 하면 돼.
-SpectreM4(0)<Speaker>Spectre M4</Speaker>||:...나는? 난 왜 안 물어봐?! 나도 열심히 모았어!
-HK45(0)<Speaker>HK45</Speaker>||:Spectre도 믿고 있었어. 좋아, 그럼 연락한다?
-P38(0)<Speaker>P38</Speaker>||:으으... 긴장된다...
-HK45(0)<Speaker>HK45</Speaker>||:여보세요, 스테츠킨?+네가 말한 섭외비 다 모았어.
-APS(0)<Speaker>스테츠킨</Speaker><通讯框>||:<color=#00CCFF>와, 벌써? 내가 딱 1주일만 주긴 했지만 설마 정말로 다 모을 줄은 몰랐는걸.</color>+<color=#00CCFF>진짜 단단히도 결심했나 보구나.</color>
-SpectreM4(0)<Speaker>Spectre M4</Speaker>||:우리 엄청 진지하다고!
-APS(0)<Speaker>스테츠킨</Speaker><通讯框>||<黑点1>:<color=#00CCFF>그래 그래, 너희의 열정은 잘 알았어.</color>+<color=#00CCFF>돈은 내 계좌로 입금해, 이건 너희의 과외비로 칠게.</color>+<color=#00CCFF>입금 확인되는 대로 그 대단한 선배님 모셔 올 테니까 거기서 기다리고 있어.</color>
-()||<黑点2><BGM>BGM_Empty</BGM>清空BGM:10분 후, 복도 끝에서 또각또각 구두 소리가 들려왔다.
-()||<SE1>AVG_footsteps_cave</SE1>:그리고 그 경쾌한 발소리가 예비 아이돌들의 마음을 쿵쿵 두들겼다.
-P38(0)<Speaker>P38</Speaker>||:<color=#A9A9A9>HK45는 누군지 이미 아는 거 같은데, 전혀 알려 주질 않았어.</color>+<color=#A9A9A9>과연 누구일까...?</color>
-SpectreM4(0)<Speaker>Spectre M4</Speaker>||:<color=#A9A9A9>대체 얼마나 대단한 사람이길래...</color>
-()||:이윽고, 그 발소리가 복도 귀퉁이까지 도착했다.
-()||:그 인물의 모습이 세 인형들의 눈에 들어왔다.
-DesertEagle(0)<Speaker>데저트 이글</Speaker>||<黑屏1>:HK45, P38.+...그리고 Spectre M4.+내 지도를 받고 싶다는 사람이, 너희 셋이니?
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<黑屏2><BIN>80</BIN><BGM>BGM_Hello</BGM>:
+()||:1주일 후, 카페.
+M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,120</Position>||:도와줘서 고마워요, P38. 여기 오늘 일당이에요.
+P38(0)<Speaker>P38</Speaker>||:와, 감사합니다! 이 정도면 충분해요!
+M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,120</Position>||:천만에요. 그런데 당신, 요즘 엄청 바쁘다면서요?+카페 일에 구호소, 군수지원까지... 아르바이트로 아주 열심이라던데요.
+P38(0)<Speaker>P38</Speaker>||:에헤헤... 스프링필드 씨도 알고 계셨어요?
+M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,120</Position>||:그렇게 열심히 돌아다니면 당연히 알게 되죠.+급하게 돈이 필요한 일이라도 생겼나요?
+P38(0)<Speaker>P38</Speaker>||:네, 돈이 좀 필요해졌어요.
+M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,120</Position>||:무슨 일인지 알려 줄 수 있을까요?
+P38(0)<Speaker>P38</Speaker>||:비밀이에요! 하지만 약속할게요, 1주일 뒤면 스프링필드 씨도 제 눈부신 성과를 보게 될 거예요!
+M1903Cafe(0)<Speaker>스프링필드</Speaker><Position>0,120</Position>||:후훗, 그럼 기대하고 있을게요.
+P38(0)<Speaker>P38</Speaker>||<黑点1>:네!
+()||<黑点2><BIN>18</BIN>:스타 메이커 스튜디오.
+P38(0)<Speaker>P38</Speaker>||:내 할당량은 다 모았어!
+HK45(0)<Speaker>HK45</Speaker>||:나도. 이제 스테츠킨한테 연락하기만 하면 돼.
+SpectreM4(0)<Speaker>Spectre M4</Speaker>||:...나는? 난 왜 안 물어봐?! 나도 열심히 모았어!
+HK45(0)<Speaker>HK45</Speaker>||:Spectre도 믿고 있었어. 좋아, 그럼 연락한다?
+P38(0)<Speaker>P38</Speaker>||:으으... 긴장된다...
+HK45(0)<Speaker>HK45</Speaker>||:여보세요, 스테츠킨?+네가 말한 섭외비 다 모았어.
+APS(0)<Speaker>스테츠킨</Speaker><通讯框>||:<color=#00CCFF>와, 벌써? 내가 딱 1주일만 주긴 했지만 설마 정말로 다 모을 줄은 몰랐는걸.</color>+<color=#00CCFF>진짜 단단히도 결심했나 보구나.</color>
+SpectreM4(0)<Speaker>Spectre M4</Speaker>||:우리 엄청 진지하다고!
+APS(0)<Speaker>스테츠킨</Speaker><通讯框>||<黑点1>:<color=#00CCFF>그래 그래, 너희의 열정은 잘 알았어.</color>+<color=#00CCFF>돈은 내 계좌로 입금해, 이건 너희의 과외비로 칠게.</color>+<color=#00CCFF>입금 확인되는 대로 그 대단한 선배님 모셔 올 테니까 거기서 기다리고 있어.</color>
+()||<黑点2><BGM>BGM_Empty</BGM>清空BGM:10분 후, 복도 끝에서 또각또각 구두 소리가 들려왔다.
+()||<SE1>AVG_footsteps_cave</SE1>:그리고 그 경쾌한 발소리가 예비 아이돌들의 마음을 쿵쿵 두들겼다.
+P38(0)<Speaker>P38</Speaker>||:<color=#A9A9A9>HK45는 누군지 이미 아는 거 같은데, 전혀 알려 주질 않았어.</color>+<color=#A9A9A9>과연 누구일까...?</color>
+SpectreM4(0)<Speaker>Spectre M4</Speaker>||:<color=#A9A9A9>대체 얼마나 대단한 사람이길래...</color>
+()||:이윽고, 그 발소리가 복도 귀퉁이까지 도착했다.
+()||:그 인물의 모습이 세 인형들의 눈에 들어왔다.
+DesertEagle(0)<Speaker>데저트 이글</Speaker>||<黑屏1>:HK45, P38.+...그리고 Spectre M4.+내 지도를 받고 싶다는 사람이, 너희 셋이니?

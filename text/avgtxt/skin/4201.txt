@@ -1,140 +1,140 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-JS9mm(2)<Speaker>JS9</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>m_avg_casual</BGM><黑屏2><BIN>139</BIN>:<color=#00CCFF>회장 문 엽니다, 주의하세요!</color>
-JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:어머? 아직 배치가 다 안 끝났는데 벌써 손님이...+어쩐담, 이 옷장을 어디다 놓지?
-JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:<color=#00CCFF>죄송해요 DP-12 씨, 혹시 아직 배치 못한 물건이 있나요?</color>+<color=#00CCFF>금방 도와드리러 갈 테니 잠시만 기다려 주세요!</color>
-JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:여긴 내가 처리할 수 있으니 괜찮아, JS 9.+우선 너부터 진정하렴.
-JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:<color=#00CCFF>아... 목소리만 들어도 티가 나나요?</color>
-JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:내가 듣기에는.
-JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:<color=#00CCFF>역시, 전 이런 일이 안 맞는 걸지도...</color>
-JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:맞는지 안 맞는지는 해보지 않으면 모른단다.+그러니 지금은 최선을 다하렴. 나도 같이 힘낼 테니까.
-JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:<color=#00CCFF>네... 헤헤, 그 말을 들으니 왠지 조금 안심이 되네요.</color>+<color=#00CCFF>그럼 나중에 봐요!</color>
-JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:그래, 이따 봐.
-DP12(2)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>통신 종료.</color>
-DP12(2)<Speaker>DP12</Speaker>||<BGM>BGM_Empty</BGM>:자아, 그럼 이 옷장을 대체 어떻게 할까...
-NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||<BGM>BGM_Hello</BGM>:오, 여긴 꽤 그럴싸하게 꾸며놨... 잠깐, 침대가 거울이랑 마주보고 있잖아? 이봐 아가씨, 이거 풍수에 안 좋아!
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:죄송합니다, 아직 배치가 덜 된 상태예요. 저 거울은 측면에 부착하려는 건데, 흥미 있으신가요?
-NPC-PasserbyM(0)<Speaker>행인</Speaker><Shake>;DP12(2)||:뭐? 아직 안―― 억, 으어어...
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||<SE1>Heartbeat</SE1>:왜 그러세요?+혹시 체하신 건 아닌가요? 여기 물 좀 드세요.
-NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||<震屏>:어윽... 꿀꺽꿀꺽꿀꺽쿨럭쿨럭!+어우, 덕분에 살았네! 아, 아니 딱히 흥미 있는 건 아닌데...
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:방금 풍수지리를 말씀하셨는데, 혹시 새집의 인테리어로 고민 중이신지요?
-NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||:어... 그런 것까지 알 수 있어?
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:가구 전시회에 오신 손님이니, 가구를 보러 오셨겠죠.
-NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||:어... 그렇지! 좋은 가구 있나 보러 온 거지... 아무튼, 여기 가구 배치가 풍수에 아주 안 좋다니까!+댁은... 어...
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:제가... 어떤데요? 얼굴에 뭐라도 묻었나요?
-NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||:아, 아니, 어디다 시선을 둘지 모르겠어서...
-DP12(2)<Speaker>DP12</Speaker>||:시선 둘 곳을 모르겠다니, 무슨 뜻이신가요?+이해하기 쉽게 말씀해 주시지 않으면 곤란해요.
-행인2()<Speaker>행인2</Speaker>||:어머, 저기 점원 되게 예쁘다...
-행인3()<Speaker>행인3</Speaker>||:그러게. 가구보다 저쪽이 더 눈에 띄네.
-DP12(2)<Speaker>DP12</Speaker>||:......
-NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||:그러니까, 그게, 어... 그게 말이지...
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:제 얼굴 때문인가요?
-NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||:......+뭐, 반반하게 생겼네.
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:후훗, 감사합니다.+어쨌든, 아직 준비 중이어서 대단히 죄송합니다. 배치가 다 끝난 다음에 다시 방문해 주시기 바랍니다.
-NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||<SE1>RunStep</SE1>:으아아아 그렇게 고개를 숙이면...! 아아아알았으니까 빨리 고치세요!
-JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:DP-12 씨! 늦어서 죄송... 어라? 저 사람 어딜 저렇게 급하게 달려가는 거죠?+...코피까지 흘리네?
-JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:글쎄? 그런데 코피라니, 몸이 편찮은 와중에도 방문해 주신 고마운 분이었구나.
-JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:인간의 고집은 잘 모르겠지만요. 아직 배치가 안 끝난 것들은 이건가요?
-JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:응, 특히 이 옷장이 문제야. 대체 어디다 둬야 할지 모르겠어.
-JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:아, 이거라면 벽에다 붙이고, 침대와 한 이 정도 거리를 두면... 침대와 가까우면서도 옷장을 여는데 방해되지 않으니, 일어나서 입을 옷을 고르기 편하겠죠?+하지만 이러면 거울의 위치를 바꿔야 하는데...
-JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:옷장 문 안쪽에 걸어 두면 어떨까?
-JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:오! 그게 좋겠네요. DP-12 씨는 인테리어 지식도 풍부하신가 봐요.
-JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:미관과 합리성을 추구했을 뿐이야.+수고했어, 역시 JS 9이구나. 정말 큰 도움이 됐어.
-JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:아이 참, 부끄럽게 그렇게까지 말할 것까진... 그럼 먼저 가볼게요.
-DP12(2)<Speaker>DP12</Speaker>||<BGM>BGM_Empty</BGM>:응, 너무 무리하진 말고.
-DP12(2)<Speaker>DP12</Speaker>||<黑点1><BGM>m_avg_casual</BGM>:JS 9을 돌려보내기가 무섭게, 어째선지 손님들이 다시 몰려들었다.+DP-12가 소개하는 가구들은 불티나게 팔렸고, 손님들도 가격을 따지지 않는 눈치였다.
-()<Speaker></Speaker>||<黑点2>:덕분에, 고급 가구로 가득하던 DP-12의 부스는 금세 휑해졌다.
-DP12(2)<Speaker>DP12</Speaker>||:<color=#A9A9A9>그런데도 이 옷장은 여전히 안 팔리네...</color>
-NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||:아가씨, 갑자기 흥미진진한 부분에서 뚝 끊으면 어떡해요? 얘기 계속해 줘요!
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:아, 네. 손님께서 구매하신 이 발보상은 최근에 제작된 제품이지만, 그 유래는 아주 깊답니다. 매우 정교하고 복잡한 공예품이기에 어느 것이든 가격이 상당하죠. 이걸 구입하신 손님도 분명 부유하시겠네요.
-NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||:후후후, 그야 물론이죠.
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:침대로 취급하지만 사실상 단칸방에 더 가까운 것이기에, 사람들은 이걸 주로 야외에 두었답니다. 물론, 외형만 아니라 다른 이유도――
-NPC-PasserbyF(0);DP12(2)<Speaker>？？？</Speaker>||:으아앙!!
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:<color=#A9A9A9>응...? 이게 무슨 소리지?</color>
-NPC-PasserbyF(0);DP12(2)<Speaker>？？？</Speaker>||:엄마아... 엄마...+엄마 어딨어... 히끅... 엄마...
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:<color=#A9A9A9>잘못 들은 게 아니야... 어린애가 울고 있어.</color>
-NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||:외형 말고... 뭐요, 다른 이유가 뭔데요?
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:아, 죄송합니다. 어린아이가 우는 소리가 들리는데, 잠시 실례해도 될까요?
-NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||<黑屏1>:애가 운다고요? ...어머, 정말이네.
-DP12(2)<Speaker></Speaker>||<BGM>BGM_Moon</BGM><黑屏2><BIN>97</BIN>:DP-12는 인파 속으로 들어가, 귀를 기울이며 그 희미한 울음소리가 나는 방향을 쫓았다.
-DP12(2)<Speaker>？？？</Speaker>||:엄마...+엄마아... 흐윽... 훌쩍!
-DP12(2)<Speaker>DP12</Speaker>||:<color=#A9A9A9>정말 어린 아이구나.</color>+안녕 꼬마야, 엄마를 잃어버렸니?
-DP12(2)<Speaker>아이</Speaker>||:......
-DP12(2)<Speaker>DP12</Speaker>||:괜찮아, 누나는 나쁜 사람 아니에요.
-DP12(2)<Speaker>아이</Speaker>||:히끅...
-DP12(2)<Speaker>DP12</Speaker>||:어머, 딸꾹질할 정도로 울었니? 엄마 기다리느라 오래 있었나 보네.
-DP12(2)<Speaker>아이</Speaker>||:어... 엄마가 모르는 사람이랑 말하지 말랬는데...
-DP12(2)<Speaker>DP12</Speaker>||:그래, 네 엄마 말이 맞아.+하지만 누나는 정말 나쁜 사람이 아니야. 저기 가게 보이니? 누나는 저 가게를 보고 있어. 학교에서 밖에서 길을 잃으면 주변의 가게로 가서 도와 달라 하라고 배웠지?
-DP12(2)<Speaker>아이</Speaker>||:......응.
-DP12(2)<Speaker>DP12</Speaker>||:그럼, 누나가 뭘 도와줄까?
-DP12(2)<Speaker>아이</Speaker>||:엄마... 엄마가 안 보여...
-DP12(2)<Speaker>DP12</Speaker>||:그거 큰일이네. 엄마가 언제부터 안 보였니?
-DP12(2)<Speaker>아이</Speaker>||:몰라... 시계가 없어서...+누나, 나 무서워...
-DP12(2)<Speaker>DP12</Speaker>||:괜찮아, 괜찮아. 누나네 가게는 밝고 넓어서 어디서든 눈에 띈단다. 저기서 엄마가 올 때까지 기다릴까?
-DP12(2)<Speaker>아이</Speaker>||<黑屏1>:응...
-NPC-PasserbyF(0)<Speaker>손님</Speaker>||<BIN>139</BIN><黑屏2>:어머나, 아가씨 아이에요?
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:후후후, 설마요. 엄마와 떨어져서 저쪽에서 울고 있있어요. 인파 속에서보다, 여기서 기다리게 하는 게 더 안전할 것 같아서요.
-NPC-PasserbyF(0);DP12(2)<Speaker>아이</Speaker>||:......
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:어머, 리본 당기면 안 돼요. 왜, 아직도 무섭니?
-NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||:호호호, 그 정도면 되게 씩씩한 아이예요. 내가 요만했을 때 부모님을 잃어버렸다면 엄마가 와서 안아 줄 때까지 누가 아무리 달래도 계속 엉엉 울었을걸요?
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:아하... 그럼 정말 씩씩한 아이네요.+누나가 안아 줄까?
-NPC-PasserbyF(0);DP12(2)<Speaker>아이</Speaker>||:아니...+근데... 엄마가 나 없어진 줄도 모르고 집에 가면 어떡해...?
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:걱정 마렴, 엄마도 분명 지금 널 찾고 있을 거란다. 이 회장이 워낙에 넓어서 시간이 좀 오래 걸릴 뿐이야.
-NPC-PasserbyF(0);DP12(2)<Speaker>아이</Speaker>||:응...
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:그러니 안심하고 여기서 기다리렴.+엄마는 대단하니까, 네가 어디 있어도 분명 찾아낼 거야.
-NPC-PasserbyF(0);DP12(2)<Speaker>아이</Speaker>||:응...! 우리 엄마 엄청 대단해!
-NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||:아이 달래는 솜씨가 훌륭하네요. 아가씨도 혹시 아이 있어요?
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:후훗, 글쎄요? 그리고 그런 칭찬을 받기엔 아직 멀었어요.+이 아이의 어머니께서 빨리 나타나셔야 할 텐데 걱정이네요. 아이는 가족 곁에 있어야 진심으로 안심하거든요.
-NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||:아무튼 아이도 달랬겠다, 궁금해 죽겠으니까 이 발보상 얘기나 계속해 줘요.
-NPC-PasserbyF(0)<Speaker>아이</Speaker>;DP12(2)||:발보상?
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:아, 이 침대의 이름이란다.
-NPC-PasserbyF(0);DP12(2)<Speaker>아이</Speaker>||:엄청 크다...
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:과학 기술이 발달하지 않았던 과거엔, 이런 침대를 만드는 데 평균 3년이나 걸렸다고 해요. 도안을 하나하나 손으로 정성 들여 깎아야 했기에 제작 비용도 어마어마했죠.+그래서 중국 남부의 귀족들은, 딸을 시집보낼 때 이런 발보상을 혼수품으로 선물했답니다.+물론, 현대엔 혼수품으로서만이 아니라 더 많은 의미가 생겼죠. 존재 자체가 동화책 같다고나 할까요?
-NPC-PasserbyF(0);DP12(2)<Speaker>아이</Speaker>||:동화책?
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:그래, 동화책. 여기 뭐가 조각되어 있는지 보이니?
-NPC-PasserbyF(0);DP12(2)<Speaker>아이</Speaker>||:어... 검이랑, 호리병이랑... 꽃이랑...
-NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||:피리도 있네요.
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:제대로 보셨네요.+이건 "암팔선"이라는 것으로, 행운을 부르는 의미로 여덟 신선들의 상징물들을 조각한 것이랍니다.+그리고 여기, 이 꽃바구니가 상징하는 선인의 이름은 "한상자"라고 해요.
-NPC-PasserbyF(0);DP12(2)<Speaker>아이</Speaker>||:그게 누구야?
-NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||:어디서 들어본 것 같은데... 신선이랬죠?
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||<黑点1>:네, 한상자는――
-()<Speaker></Speaker>||<黑点2>:DP-12의 이야기가 이어지면서, 지나가다 발길을 멈추고 듣는 방청객이 점점 늘어났다.
-DP12(2)<Speaker>DP12</Speaker>||:――그제서야 한상자의 삼촌은, 조카가 쓴 시가 바로 이 풍경을 그린 것임을 깨달았답니다.+여기까지가 한상자의 이야기예요.
-DP12(2)<Speaker>사람들</Speaker>||:오오...
-방송()<Speaker>방송</Speaker>||<BGM>BGM_Empty</BGM>:아이를 찾습니다. 밍밍 어린이, 밍밍 어린이의 어머니께서 아이를 찾고 있사오니, 밍밍 어린이를 보호 중이신 분은 즉시 1번 카운터로――
-아이()<Speaker>아이</Speaker>||<BGM>BGM_Sunshine</BGM>:아, 엄마다!
-DP12(2)<Speaker>DP12</Speaker>||:누나 말이 맞지? 어서 엄마한테 가야겠네.
-DP12(2)<Speaker>아이</Speaker>||:응! 그런데... 1번 카운터가 뭐야?
-DP12(2)<Speaker>DP12</Speaker>||:이쪽, 이 빨간 카펫을 쭉 따라가면 1번 카운터가 보일 거야. 누나는 가게를 비워선 안 되는데, 혼자 갈 수 있겠니?
-DP12(2)<Speaker>아이</Speaker>||:응!
-DP12(2)<Speaker>DP12</Speaker>||:자, 그럼 어서 가렴. 엄마 기다리시게 하면 안 돼요.
-()<Speaker></Speaker>||<SE1>RunStep</SE1>:아이는 걸상에서 내려와 달려가다, 갑자기 다시 돌아와 DP-12를 꼭 껴안았다.
-아이()<Speaker>아이</Speaker>||:고마워 누나!
-DP12(2)<Speaker>DP12</Speaker>||:어머어머... 천만에.
-NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||:침대 운반할 사람도 왔다니 나도 가야겠네. 고마워요, 이야기 정말 재밌었어요.
-NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:상품 구입 감사드립니다, 좋은 하루 되시길.+<color=#A9A9A9>후우... 이제 좀 쉴 수 있으려나?</color>
-NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||:어... 저기, 방금 거 같은 이야기 더 해 줄 수 있나요?
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:민속 이야기에 흥미 있으신가요?
-NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||:그 "하선고"란 선녀 이야기가 궁금해서요. 그리고 아가씨가 이야기를 참 잘하길래!
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:감사합니다, 원하신다면――
-NPC-PasserbyM(0);DP12(2)<Speaker>지나가던 아이들</Speaker>||:저 누나 또 이야기한대!
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:어머나... 방청객이 생각보다 훨씬 많아졌네요.
-NPC-PasserbyM(0);DP12(2)<Speaker></Speaker>||:그때, 마지막 남은 그 옷장이 DP-12의 눈에 띄었다.
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:흐음... 그럼 여러분, 저와 내기는 어떠세요?+담력에 자신 있으신 분은, 입장권을 가지고 이 옷장 안에서 제가 들려드리는 무서운 이야기를 듣는 거예요.+만약 도중에 밖으로 나오지 않고 이야기를 끝까지 듣는 분에겐, 회장 전체에 적용되는 25% 할인 쿠폰을 드리겠습니다. 한 장밖에 없으니, 선착순 1명이랍니다.
-NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||<震屏>:25%?! 다른 부스에서도 쓸 수 있는 거 맞죠?
-NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||<黑屏1>:네. 자아, 도전하실 용감한 분 계신가요?
-()<Speaker></Speaker>||<黑屏2><BIN>139</BIN><Night><BGM>BGM_Empty</BGM>:......
-지휘관()<Speaker>지휘관</Speaker>||<BGM>BGM_Danger</BGM>:후우... 아직 완전히 끝나진 않았구나.+좋아, 다들 뭐하고 있는지 볼까.
-손님()<Speaker>손님</Speaker>||<震屏>:와아아아아악 기권!! 기궈어어어언!!!
-지휘관()<Speaker>지휘관</Speaker>||:무슨 일이지?
-손님2()<Speaker>손님2</Speaker>||:저도 기권요... 내, 내보내 주세요...
-지휘관()<Speaker>지휘관</Speaker>||:<color=#A9A9A9>기습 테러...일 리는 없고, 무슨 소란이지? 저긴 DP-12의 담당 부스인데...</color>+<color=#A9A9A9>가서 봐야겠다.</color>
-손님3()<Speaker>손님3</Speaker>||:으아... 후으... 안 되겠다, 기권. 심호흡... 심호흡 좀 해야겠어...
-DP12(2)<Speaker>DP12</Speaker>||:아까워라, 조금만 더 버티시면 됐는데 말예요.+아직까지 아무도 성공하지 못했는데, 도전자분 더 없나요?
-DP12(2)<Speaker>지휘관</Speaker>||:DP-12? 지금 무슨 이벤트 중이니?
-DP12(2)<Speaker>손님3</Speaker>||:댁도 도전하려고? 그만둬, 나도 잠깐 들었을 뿐인데 무서워서 다리가 다 후들거리더라니까...
-DP12(2)<Speaker>지휘관</Speaker>||:무섭다니 대체 무슨... DP-12?
-DP12(2)<Speaker>DP12</Speaker>||:담력 내기랍니다.
-DP12(2)<Speaker></Speaker>||:DP-12가 뒤에 활짝 열린 옷장을 가리켰다.+별로 깊지도 않은 옷장이건만, 마치 끝없는 심연으로 이어지는 입을 벌린 것처럼 으스스한 분위기였다.
-DP12(2)<Speaker>DP12</Speaker>||:지휘관님도 도전해보시겠어요?+안 그래도 당신께 들려드리고 싶은 이야기 잔뜩 있는데요.
-DP12(2)<Speaker>지휘관</Speaker>||:어... 아니, 사양할게, 지, 지금 마무리 작업해야 하거든! 너도 너무 지나치게 장난치면 안 된다!
-DP12(2)<Speaker>DP12</Speaker>||<黑屏1>:그래요? 정말 아쉽네요.+그래도 앞으로 기회는 얼마든지 있을 테니... 이번에는 얌전히 포기할게요.+자아, 그럼 이 옷장을 어떻게 팔아 치울지 다시 고민해볼까...
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+JS9mm(2)<Speaker>JS9</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>m_avg_casual</BGM><黑屏2><BIN>139</BIN>:<color=#00CCFF>회장 문 엽니다, 주의하세요!</color>
+JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:어머? 아직 배치가 다 안 끝났는데 벌써 손님이...+어쩐담, 이 옷장을 어디다 놓지?
+JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:<color=#00CCFF>죄송해요 DP-12 씨, 혹시 아직 배치 못한 물건이 있나요?</color>+<color=#00CCFF>금방 도와드리러 갈 테니 잠시만 기다려 주세요!</color>
+JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:여긴 내가 처리할 수 있으니 괜찮아, JS 9.+우선 너부터 진정하렴.
+JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:<color=#00CCFF>아... 목소리만 들어도 티가 나나요?</color>
+JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:내가 듣기에는.
+JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:<color=#00CCFF>역시, 전 이런 일이 안 맞는 걸지도...</color>
+JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:맞는지 안 맞는지는 해보지 않으면 모른단다.+그러니 지금은 최선을 다하렴. 나도 같이 힘낼 테니까.
+JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:<color=#00CCFF>네... 헤헤, 그 말을 들으니 왠지 조금 안심이 되네요.</color>+<color=#00CCFF>그럼 나중에 봐요!</color>
+JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:그래, 이따 봐.
+DP12(2)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>통신 종료.</color>
+DP12(2)<Speaker>DP12</Speaker>||<BGM>BGM_Empty</BGM>:자아, 그럼 이 옷장을 대체 어떻게 할까...
+NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||<BGM>BGM_Hello</BGM>:오, 여긴 꽤 그럴싸하게 꾸며놨... 잠깐, 침대가 거울이랑 마주보고 있잖아? 이봐 아가씨, 이거 풍수에 안 좋아!
+NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:죄송합니다, 아직 배치가 덜 된 상태예요. 저 거울은 측면에 부착하려는 건데, 흥미 있으신가요?
+NPC-PasserbyM(0)<Speaker>행인</Speaker><Shake>;DP12(2)||:뭐? 아직 안―― 억, 으어어...
+NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||<SE1>Heartbeat</SE1>:왜 그러세요?+혹시 체하신 건 아닌가요? 여기 물 좀 드세요.
+NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||<震屏>:어윽... 꿀꺽꿀꺽꿀꺽쿨럭쿨럭!+어우, 덕분에 살았네! 아, 아니 딱히 흥미 있는 건 아닌데...
+NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:방금 풍수지리를 말씀하셨는데, 혹시 새집의 인테리어로 고민 중이신지요?
+NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||:어... 그런 것까지 알 수 있어?
+NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:가구 전시회에 오신 손님이니, 가구를 보러 오셨겠죠.
+NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||:어... 그렇지! 좋은 가구 있나 보러 온 거지... 아무튼, 여기 가구 배치가 풍수에 아주 안 좋다니까!+댁은... 어...
+NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:제가... 어떤데요? 얼굴에 뭐라도 묻었나요?
+NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||:아, 아니, 어디다 시선을 둘지 모르겠어서...
+DP12(2)<Speaker>DP12</Speaker>||:시선 둘 곳을 모르겠다니, 무슨 뜻이신가요?+이해하기 쉽게 말씀해 주시지 않으면 곤란해요.
+행인2()<Speaker>행인2</Speaker>||:어머, 저기 점원 되게 예쁘다...
+행인3()<Speaker>행인3</Speaker>||:그러게. 가구보다 저쪽이 더 눈에 띄네.
+DP12(2)<Speaker>DP12</Speaker>||:......
+NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||:그러니까, 그게, 어... 그게 말이지...
+NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:제 얼굴 때문인가요?
+NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||:......+뭐, 반반하게 생겼네.
+NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:후훗, 감사합니다.+어쨌든, 아직 준비 중이어서 대단히 죄송합니다. 배치가 다 끝난 다음에 다시 방문해 주시기 바랍니다.
+NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||<SE1>RunStep</SE1>:으아아아 그렇게 고개를 숙이면...! 아아아알았으니까 빨리 고치세요!
+JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:DP-12 씨! 늦어서 죄송... 어라? 저 사람 어딜 저렇게 급하게 달려가는 거죠?+...코피까지 흘리네?
+JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:글쎄? 그런데 코피라니, 몸이 편찮은 와중에도 방문해 주신 고마운 분이었구나.
+JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:인간의 고집은 잘 모르겠지만요. 아직 배치가 안 끝난 것들은 이건가요?
+JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:응, 특히 이 옷장이 문제야. 대체 어디다 둬야 할지 모르겠어.
+JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:아, 이거라면 벽에다 붙이고, 침대와 한 이 정도 거리를 두면... 침대와 가까우면서도 옷장을 여는데 방해되지 않으니, 일어나서 입을 옷을 고르기 편하겠죠?+하지만 이러면 거울의 위치를 바꿔야 하는데...
+JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:옷장 문 안쪽에 걸어 두면 어떨까?
+JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:오! 그게 좋겠네요. DP-12 씨는 인테리어 지식도 풍부하신가 봐요.
+JS9mm(2);DP12(2)<Speaker>DP12</Speaker>||:미관과 합리성을 추구했을 뿐이야.+수고했어, 역시 JS 9이구나. 정말 큰 도움이 됐어.
+JS9mm(2)<Speaker>JS9</Speaker>;DP12(2)||:아이 참, 부끄럽게 그렇게까지 말할 것까진... 그럼 먼저 가볼게요.
+DP12(2)<Speaker>DP12</Speaker>||<BGM>BGM_Empty</BGM>:응, 너무 무리하진 말고.
+DP12(2)<Speaker>DP12</Speaker>||<黑点1><BGM>m_avg_casual</BGM>:JS 9을 돌려보내기가 무섭게, 어째선지 손님들이 다시 몰려들었다.+DP-12가 소개하는 가구들은 불티나게 팔렸고, 손님들도 가격을 따지지 않는 눈치였다.
+()<Speaker></Speaker>||<黑点2>:덕분에, 고급 가구로 가득하던 DP-12의 부스는 금세 휑해졌다.
+DP12(2)<Speaker>DP12</Speaker>||:<color=#A9A9A9>그런데도 이 옷장은 여전히 안 팔리네...</color>
+NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||:아가씨, 갑자기 흥미진진한 부분에서 뚝 끊으면 어떡해요? 얘기 계속해 줘요!
+NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:아, 네. 손님께서 구매하신 이 발보상은 최근에 제작된 제품이지만, 그 유래는 아주 깊답니다. 매우 정교하고 복잡한 공예품이기에 어느 것이든 가격이 상당하죠. 이걸 구입하신 손님도 분명 부유하시겠네요.
+NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||:후후후, 그야 물론이죠.
+NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:침대로 취급하지만 사실상 단칸방에 더 가까운 것이기에, 사람들은 이걸 주로 야외에 두었답니다. 물론, 외형만 아니라 다른 이유도――
+NPC-PasserbyF(0);DP12(2)<Speaker>？？？</Speaker>||:으아앙!!
+NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:<color=#A9A9A9>응...? 이게 무슨 소리지?</color>
+NPC-PasserbyF(0);DP12(2)<Speaker>？？？</Speaker>||:엄마아... 엄마...+엄마 어딨어... 히끅... 엄마...
+NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:<color=#A9A9A9>잘못 들은 게 아니야... 어린애가 울고 있어.</color>
+NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||:외형 말고... 뭐요, 다른 이유가 뭔데요?
+NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:아, 죄송합니다. 어린아이가 우는 소리가 들리는데, 잠시 실례해도 될까요?
+NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||<黑屏1>:애가 운다고요? ...어머, 정말이네.
+DP12(2)<Speaker></Speaker>||<BGM>BGM_Moon</BGM><黑屏2><BIN>97</BIN>:DP-12는 인파 속으로 들어가, 귀를 기울이며 그 희미한 울음소리가 나는 방향을 쫓았다.
+DP12(2)<Speaker>？？？</Speaker>||:엄마...+엄마아... 흐윽... 훌쩍!
+DP12(2)<Speaker>DP12</Speaker>||:<color=#A9A9A9>정말 어린 아이구나.</color>+안녕 꼬마야, 엄마를 잃어버렸니?
+DP12(2)<Speaker>아이</Speaker>||:......
+DP12(2)<Speaker>DP12</Speaker>||:괜찮아, 누나는 나쁜 사람 아니에요.
+DP12(2)<Speaker>아이</Speaker>||:히끅...
+DP12(2)<Speaker>DP12</Speaker>||:어머, 딸꾹질할 정도로 울었니? 엄마 기다리느라 오래 있었나 보네.
+DP12(2)<Speaker>아이</Speaker>||:어... 엄마가 모르는 사람이랑 말하지 말랬는데...
+DP12(2)<Speaker>DP12</Speaker>||:그래, 네 엄마 말이 맞아.+하지만 누나는 정말 나쁜 사람이 아니야. 저기 가게 보이니? 누나는 저 가게를 보고 있어. 학교에서 밖에서 길을 잃으면 주변의 가게로 가서 도와 달라 하라고 배웠지?
+DP12(2)<Speaker>아이</Speaker>||:......응.
+DP12(2)<Speaker>DP12</Speaker>||:그럼, 누나가 뭘 도와줄까?
+DP12(2)<Speaker>아이</Speaker>||:엄마... 엄마가 안 보여...
+DP12(2)<Speaker>DP12</Speaker>||:그거 큰일이네. 엄마가 언제부터 안 보였니?
+DP12(2)<Speaker>아이</Speaker>||:몰라... 시계가 없어서...+누나, 나 무서워...
+DP12(2)<Speaker>DP12</Speaker>||:괜찮아, 괜찮아. 누나네 가게는 밝고 넓어서 어디서든 눈에 띈단다. 저기서 엄마가 올 때까지 기다릴까?
+DP12(2)<Speaker>아이</Speaker>||<黑屏1>:응...
+NPC-PasserbyF(0)<Speaker>손님</Speaker>||<BIN>139</BIN><黑屏2>:어머나, 아가씨 아이에요?
+NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:후후후, 설마요. 엄마와 떨어져서 저쪽에서 울고 있있어요. 인파 속에서보다, 여기서 기다리게 하는 게 더 안전할 것 같아서요.
+NPC-PasserbyF(0);DP12(2)<Speaker>아이</Speaker>||:......
+NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:어머, 리본 당기면 안 돼요. 왜, 아직도 무섭니?
+NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||:호호호, 그 정도면 되게 씩씩한 아이예요. 내가 요만했을 때 부모님을 잃어버렸다면 엄마가 와서 안아 줄 때까지 누가 아무리 달래도 계속 엉엉 울었을걸요?
+NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:아하... 그럼 정말 씩씩한 아이네요.+누나가 안아 줄까?
+NPC-PasserbyF(0);DP12(2)<Speaker>아이</Speaker>||:아니...+근데... 엄마가 나 없어진 줄도 모르고 집에 가면 어떡해...?
+NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:걱정 마렴, 엄마도 분명 지금 널 찾고 있을 거란다. 이 회장이 워낙에 넓어서 시간이 좀 오래 걸릴 뿐이야.
+NPC-PasserbyF(0);DP12(2)<Speaker>아이</Speaker>||:응...
+NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:그러니 안심하고 여기서 기다리렴.+엄마는 대단하니까, 네가 어디 있어도 분명 찾아낼 거야.
+NPC-PasserbyF(0);DP12(2)<Speaker>아이</Speaker>||:응...! 우리 엄마 엄청 대단해!
+NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||:아이 달래는 솜씨가 훌륭하네요. 아가씨도 혹시 아이 있어요?
+NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:후훗, 글쎄요? 그리고 그런 칭찬을 받기엔 아직 멀었어요.+이 아이의 어머니께서 빨리 나타나셔야 할 텐데 걱정이네요. 아이는 가족 곁에 있어야 진심으로 안심하거든요.
+NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||:아무튼 아이도 달랬겠다, 궁금해 죽겠으니까 이 발보상 얘기나 계속해 줘요.
+NPC-PasserbyF(0)<Speaker>아이</Speaker>;DP12(2)||:발보상?
+NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:아, 이 침대의 이름이란다.
+NPC-PasserbyF(0);DP12(2)<Speaker>아이</Speaker>||:엄청 크다...
+NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:과학 기술이 발달하지 않았던 과거엔, 이런 침대를 만드는 데 평균 3년이나 걸렸다고 해요. 도안을 하나하나 손으로 정성 들여 깎아야 했기에 제작 비용도 어마어마했죠.+그래서 중국 남부의 귀족들은, 딸을 시집보낼 때 이런 발보상을 혼수품으로 선물했답니다.+물론, 현대엔 혼수품으로서만이 아니라 더 많은 의미가 생겼죠. 존재 자체가 동화책 같다고나 할까요?
+NPC-PasserbyF(0);DP12(2)<Speaker>아이</Speaker>||:동화책?
+NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:그래, 동화책. 여기 뭐가 조각되어 있는지 보이니?
+NPC-PasserbyF(0);DP12(2)<Speaker>아이</Speaker>||:어... 검이랑, 호리병이랑... 꽃이랑...
+NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||:피리도 있네요.
+NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:제대로 보셨네요.+이건 "암팔선"이라는 것으로, 행운을 부르는 의미로 여덟 신선들의 상징물들을 조각한 것이랍니다.+그리고 여기, 이 꽃바구니가 상징하는 선인의 이름은 "한상자"라고 해요.
+NPC-PasserbyF(0);DP12(2)<Speaker>아이</Speaker>||:그게 누구야?
+NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||:어디서 들어본 것 같은데... 신선이랬죠?
+NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||<黑点1>:네, 한상자는――
+()<Speaker></Speaker>||<黑点2>:DP-12의 이야기가 이어지면서, 지나가다 발길을 멈추고 듣는 방청객이 점점 늘어났다.
+DP12(2)<Speaker>DP12</Speaker>||:――그제서야 한상자의 삼촌은, 조카가 쓴 시가 바로 이 풍경을 그린 것임을 깨달았답니다.+여기까지가 한상자의 이야기예요.
+DP12(2)<Speaker>사람들</Speaker>||:오오...
+방송()<Speaker>방송</Speaker>||<BGM>BGM_Empty</BGM>:아이를 찾습니다. 밍밍 어린이, 밍밍 어린이의 어머니께서 아이를 찾고 있사오니, 밍밍 어린이를 보호 중이신 분은 즉시 1번 카운터로――
+아이()<Speaker>아이</Speaker>||<BGM>BGM_Sunshine</BGM>:아, 엄마다!
+DP12(2)<Speaker>DP12</Speaker>||:누나 말이 맞지? 어서 엄마한테 가야겠네.
+DP12(2)<Speaker>아이</Speaker>||:응! 그런데... 1번 카운터가 뭐야?
+DP12(2)<Speaker>DP12</Speaker>||:이쪽, 이 빨간 카펫을 쭉 따라가면 1번 카운터가 보일 거야. 누나는 가게를 비워선 안 되는데, 혼자 갈 수 있겠니?
+DP12(2)<Speaker>아이</Speaker>||:응!
+DP12(2)<Speaker>DP12</Speaker>||:자, 그럼 어서 가렴. 엄마 기다리시게 하면 안 돼요.
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:아이는 걸상에서 내려와 달려가다, 갑자기 다시 돌아와 DP-12를 꼭 껴안았다.
+아이()<Speaker>아이</Speaker>||:고마워 누나!
+DP12(2)<Speaker>DP12</Speaker>||:어머어머... 천만에.
+NPC-PasserbyF(0)<Speaker>손님</Speaker>;DP12(2)||:침대 운반할 사람도 왔다니 나도 가야겠네. 고마워요, 이야기 정말 재밌었어요.
+NPC-PasserbyF(0);DP12(2)<Speaker>DP12</Speaker>||:상품 구입 감사드립니다, 좋은 하루 되시길.+<color=#A9A9A9>후우... 이제 좀 쉴 수 있으려나?</color>
+NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||:어... 저기, 방금 거 같은 이야기 더 해 줄 수 있나요?
+NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:민속 이야기에 흥미 있으신가요?
+NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||:그 "하선고"란 선녀 이야기가 궁금해서요. 그리고 아가씨가 이야기를 참 잘하길래!
+NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:감사합니다, 원하신다면――
+NPC-PasserbyM(0);DP12(2)<Speaker>지나가던 아이들</Speaker>||:저 누나 또 이야기한대!
+NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:어머나... 방청객이 생각보다 훨씬 많아졌네요.
+NPC-PasserbyM(0);DP12(2)<Speaker></Speaker>||:그때, 마지막 남은 그 옷장이 DP-12의 눈에 띄었다.
+NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||:흐음... 그럼 여러분, 저와 내기는 어떠세요?+담력에 자신 있으신 분은, 입장권을 가지고 이 옷장 안에서 제가 들려드리는 무서운 이야기를 듣는 거예요.+만약 도중에 밖으로 나오지 않고 이야기를 끝까지 듣는 분에겐, 회장 전체에 적용되는 25% 할인 쿠폰을 드리겠습니다. 한 장밖에 없으니, 선착순 1명이랍니다.
+NPC-PasserbyM(0)<Speaker>행인</Speaker>;DP12(2)||<震屏>:25%?! 다른 부스에서도 쓸 수 있는 거 맞죠?
+NPC-PasserbyM(0);DP12(2)<Speaker>DP12</Speaker>||<黑屏1>:네. 자아, 도전하실 용감한 분 계신가요?
+()<Speaker></Speaker>||<黑屏2><BIN>139</BIN><Night><BGM>BGM_Empty</BGM>:......
+지휘관()<Speaker>지휘관</Speaker>||<BGM>BGM_Danger</BGM>:후우... 아직 완전히 끝나진 않았구나.+좋아, 다들 뭐하고 있는지 볼까.
+손님()<Speaker>손님</Speaker>||<震屏>:와아아아아악 기권!! 기궈어어어언!!!
+지휘관()<Speaker>지휘관</Speaker>||:무슨 일이지?
+손님2()<Speaker>손님2</Speaker>||:저도 기권요... 내, 내보내 주세요...
+지휘관()<Speaker>지휘관</Speaker>||:<color=#A9A9A9>기습 테러...일 리는 없고, 무슨 소란이지? 저긴 DP-12의 담당 부스인데...</color>+<color=#A9A9A9>가서 봐야겠다.</color>
+손님3()<Speaker>손님3</Speaker>||:으아... 후으... 안 되겠다, 기권. 심호흡... 심호흡 좀 해야겠어...
+DP12(2)<Speaker>DP12</Speaker>||:아까워라, 조금만 더 버티시면 됐는데 말예요.+아직까지 아무도 성공하지 못했는데, 도전자분 더 없나요?
+DP12(2)<Speaker>지휘관</Speaker>||:DP-12? 지금 무슨 이벤트 중이니?
+DP12(2)<Speaker>손님3</Speaker>||:댁도 도전하려고? 그만둬, 나도 잠깐 들었을 뿐인데 무서워서 다리가 다 후들거리더라니까...
+DP12(2)<Speaker>지휘관</Speaker>||:무섭다니 대체 무슨... DP-12?
+DP12(2)<Speaker>DP12</Speaker>||:담력 내기랍니다.
+DP12(2)<Speaker></Speaker>||:DP-12가 뒤에 활짝 열린 옷장을 가리켰다.+별로 깊지도 않은 옷장이건만, 마치 끝없는 심연으로 이어지는 입을 벌린 것처럼 으스스한 분위기였다.
+DP12(2)<Speaker>DP12</Speaker>||:지휘관님도 도전해보시겠어요?+안 그래도 당신께 들려드리고 싶은 이야기 잔뜩 있는데요.
+DP12(2)<Speaker>지휘관</Speaker>||:어... 아니, 사양할게, 지, 지금 마무리 작업해야 하거든! 너도 너무 지나치게 장난치면 안 된다!
+DP12(2)<Speaker>DP12</Speaker>||<黑屏1>:그래요? 정말 아쉽네요.+그래도 앞으로 기회는 얼마든지 있을 테니... 이번에는 얌전히 포기할게요.+자아, 그럼 이 옷장을 어떻게 팔아 치울지 다시 고민해볼까...

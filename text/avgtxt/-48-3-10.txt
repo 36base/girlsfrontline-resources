@@ -1,48 +1,48 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BGM>10213</BGM><黑屏2><BIN>408</BIN>:......
-()<Speaker>？？？</Speaker>||:...알았다.
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+통신 종료.
-()<Speaker>？？？</Speaker>||:후우...
-()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:차가운 밤바람이 부는 높은 탑 위에서, 우뚝 선 그림자가 냉철한 시선으로 멀리의 공항을 지켜보고 있었다.+그 그림자가 지켜보는 밤하늘 아래의 공항 한가운데, 전술인형 부대가 바쁜 걸음으로 썰렁한 활주로 위를 가로질렀다.
-()<Speaker>？？？</Speaker>||:......
-()<Speaker></Speaker>||:기다려야한다.+때가 머지않았다.
-()<Speaker></Speaker>||:불현듯 인형이 고개를 들었다.+이미 어두운 하늘에, 시꺼먼 비구름이 장막처럼 드리웠다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>315</BIN><Night><黑屏2><SE1>AVG_tele_connect</SE1>:치익——+통신 연결.
-NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:여보세요~?
-NPC-MrsGray(0)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>지난 몇 주만 따져도, 네가 나한테 연락한 횟수가 지난 한 해의 횟수를 합친 것보다 많겠구나.</color>
-NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:어머, 그랬나?+내가 좀 많이 바빠서 그랬지~ 정말 한가해서 수다 떨 상대가 필요한 거라면, 앞으론 자주 연락할게.
-NPC-MrsGray(0)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>됐고, 무슨 일이지?</color>
-NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:지금 무슨 상황인지 몰라서 물어?+그게 제시간에 이륙하지 못하면 우리 모두 좋은 꼴 못 봐.
-NPC-MrsGray(0)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>그래서, 이제와서 내게 손을 벌리겠다?</color>
-NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:빨리.+벌써 "꼬리"가 따라붙었어.+네가 무슨 생각이든 간에, 아버님 성질 건드렸다간 너도 무사하지 못해.
-NPC-MrsGray(0)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>그러니?</color>+<color=#00CCFF>미안하지만 나와는 상관없는 일이구나, 브라메드.</color>+<color=#00CCFF>네가 했던 말을 기억하니?</color>+<color=#00CCFF>이건 네 임무니 난 끼어들 권리가 없다고 했잖니.</color>
-NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:그땐 그때고 지금은 지금이지!+그거 뺏겼다간 모두 모가지야!+다 말아먹고 아버지한테 네가 손 놓고 구경만 했다고 말해 줄까?
-NPC-MrsGray(0)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>아버님이 어떻게 평가하실지 듣는 것도 좋겠네.</color>
-NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:틸~ 너 거기 있는 거 다 아니까 없는 척하지 마.+네 언니가 지금 바보 같은 짓거리를 하려는데, 그냥 냅둘 거니?
-NPC-grig(0)<Speaker>틸</Speaker><通讯框>||:<color=#00CCFF>난 내 언니의 모든 결정을 존중한다.</color>
-NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:...그레이, 너 진심이야?+지금은 사적인 감정을 내세울 때가 아니라니까?
-NPC-MrsGray(0)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>......</color>
-NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:......
-NPC-MrsGray(4)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>풉... 브라메드, 네가 그렇게 당황하는 모습은 정말 처음이구나.</color>
-NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:......
-NPC-MrsGray(4)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>도움의 손길이라면 진작에 보냈다. 그냥, 정말 드문 기회라서 네 리액션을 좀 보고 싶었을 뿐이야.</color>+<color=#00CCFF>정말 연기한 가치가 있는 값진 광경이었어. 너도 의외로 귀여운 구석이 있었구나.</color>
-NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:너 진짜...!
-NPC-MrsGray(4)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>알았으면 임무나 완수하렴.</color>+<color=#00CCFF>나와 아버님을 실망시키지 말고.</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
-NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:......+...이 빌어먹을 년.
-()<Speaker></Speaker>||<SE1>AVG_21Winter_Phone_Crash</SE1>:화를 못 참고 통신기를 손으로 으깨버린 브라메드는 심호흡했다.
-NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:두고봐... 절대 가만 안 둘 거야...!
-()<Speaker></Speaker>||:......
-()||<黑点1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>408</BIN><common_effect>%%code=CJ_rain%%</common_effect><SE1>AVG_Rain_Heavy</SE1>:관리자를 따라 공항을 가로지르는 지휘관 일행 위로, 비가 점점 크게 내렸다.+썰렁한 한밤중의 공항 활주로에 사람은 없다시피했다.+대신, 넓은 에이프런 위의 헬리콥터 몇 대가 그들을 지켜볼 뿐이었다.
-AR15Mod(5)<Speaker>AR15</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>지휘관! 긴급 상황입니다!</color>
-AR15Mod(5)<Speaker>지휘관</Speaker><通讯框>||:무슨 일이지?
-AR15Mod(5)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>목표 창고에 도착했는데...</color>+<color=#00CCFF>수송기 한 대가 활주로에 올랐습니다, 고농도의 붕괴복사도 감지되고요!</color>
-AR15Mod(5)<Speaker>지휘관</Speaker><通讯框>||:그 화물이다. 야단났군...
-AR15Mod(5)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>파일럿의 상태도 좀 이상해요... 뭐랄까, 아무래도 미친 거 같아요.</color>
-AR15Mod(5)<Speaker>지휘관</Speaker><通讯框>||:그건 아무래도 좋으니까 절대 이륙하게 두지 마!
-AR15Mod(5)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>네!</color>
-()||<黑点1><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BGM>10213</BGM><黑屏2><BIN>408</BIN>:......
+()<Speaker>？？？</Speaker>||:...알았다.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+통신 종료.
+()<Speaker>？？？</Speaker>||:후우...
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:차가운 밤바람이 부는 높은 탑 위에서, 우뚝 선 그림자가 냉철한 시선으로 멀리의 공항을 지켜보고 있었다.+그 그림자가 지켜보는 밤하늘 아래의 공항 한가운데, 전술인형 부대가 바쁜 걸음으로 썰렁한 활주로 위를 가로질렀다.
+()<Speaker>？？？</Speaker>||:......
+()<Speaker></Speaker>||:기다려야한다.+때가 머지않았다.
+()<Speaker></Speaker>||:불현듯 인형이 고개를 들었다.+이미 어두운 하늘에, 시꺼먼 비구름이 장막처럼 드리웠다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>315</BIN><Night><黑屏2><SE1>AVG_tele_connect</SE1>:치익——+통신 연결.
+NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:여보세요~?
+NPC-MrsGray(0)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>지난 몇 주만 따져도, 네가 나한테 연락한 횟수가 지난 한 해의 횟수를 합친 것보다 많겠구나.</color>
+NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:어머, 그랬나?+내가 좀 많이 바빠서 그랬지~ 정말 한가해서 수다 떨 상대가 필요한 거라면, 앞으론 자주 연락할게.
+NPC-MrsGray(0)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>됐고, 무슨 일이지?</color>
+NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:지금 무슨 상황인지 몰라서 물어?+그게 제시간에 이륙하지 못하면 우리 모두 좋은 꼴 못 봐.
+NPC-MrsGray(0)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>그래서, 이제와서 내게 손을 벌리겠다?</color>
+NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:빨리.+벌써 "꼬리"가 따라붙었어.+네가 무슨 생각이든 간에, 아버님 성질 건드렸다간 너도 무사하지 못해.
+NPC-MrsGray(0)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>그러니?</color>+<color=#00CCFF>미안하지만 나와는 상관없는 일이구나, 브라메드.</color>+<color=#00CCFF>네가 했던 말을 기억하니?</color>+<color=#00CCFF>이건 네 임무니 난 끼어들 권리가 없다고 했잖니.</color>
+NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:그땐 그때고 지금은 지금이지!+그거 뺏겼다간 모두 모가지야!+다 말아먹고 아버지한테 네가 손 놓고 구경만 했다고 말해 줄까?
+NPC-MrsGray(0)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>아버님이 어떻게 평가하실지 듣는 것도 좋겠네.</color>
+NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:틸~ 너 거기 있는 거 다 아니까 없는 척하지 마.+네 언니가 지금 바보 같은 짓거리를 하려는데, 그냥 냅둘 거니?
+NPC-grig(0)<Speaker>틸</Speaker><通讯框>||:<color=#00CCFF>난 내 언니의 모든 결정을 존중한다.</color>
+NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:...그레이, 너 진심이야?+지금은 사적인 감정을 내세울 때가 아니라니까?
+NPC-MrsGray(0)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>......</color>
+NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:......
+NPC-MrsGray(4)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>풉... 브라메드, 네가 그렇게 당황하는 모습은 정말 처음이구나.</color>
+NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:......
+NPC-MrsGray(4)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>도움의 손길이라면 진작에 보냈다. 그냥, 정말 드문 기회라서 네 리액션을 좀 보고 싶었을 뿐이야.</color>+<color=#00CCFF>정말 연기한 가치가 있는 값진 광경이었어. 너도 의외로 귀여운 구석이 있었구나.</color>
+NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:너 진짜...!
+NPC-MrsGray(4)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>알았으면 임무나 완수하렴.</color>+<color=#00CCFF>나와 아버님을 실망시키지 말고.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
+NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:......+...이 빌어먹을 년.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Phone_Crash</SE1>:화를 못 참고 통신기를 손으로 으깨버린 브라메드는 심호흡했다.
+NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:두고봐... 절대 가만 안 둘 거야...!
+()<Speaker></Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>408</BIN><common_effect>%%code=CJ_rain%%</common_effect><SE1>AVG_Rain_Heavy</SE1>:관리자를 따라 공항을 가로지르는 지휘관 일행 위로, 비가 점점 크게 내렸다.+썰렁한 한밤중의 공항 활주로에 사람은 없다시피했다.+대신, 넓은 에이프런 위의 헬리콥터 몇 대가 그들을 지켜볼 뿐이었다.
+AR15Mod(5)<Speaker>AR15</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>지휘관! 긴급 상황입니다!</color>
+AR15Mod(5)<Speaker>지휘관</Speaker><通讯框>||:무슨 일이지?
+AR15Mod(5)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>목표 창고에 도착했는데...</color>+<color=#00CCFF>수송기 한 대가 활주로에 올랐습니다, 고농도의 붕괴복사도 감지되고요!</color>
+AR15Mod(5)<Speaker>지휘관</Speaker><通讯框>||:그 화물이다. 야단났군...
+AR15Mod(5)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>파일럿의 상태도 좀 이상해요... 뭐랄까, 아무래도 미친 거 같아요.</color>
+AR15Mod(5)<Speaker>지휘관</Speaker><通讯框>||:그건 아무래도 좋으니까 절대 이륙하게 두지 마!
+AR15Mod(5)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>네!</color>
+()||<黑点1><BIN>10</BIN>:

@@ -1,85 +1,85 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-RO635(0)<Speaker>RO635</Speaker>||<BIN>202</BIN><黑屏2><BGM>m_avg_casual</BGM>:이어지는 기억 파편을 찾았습니다. 계속할까요?
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||:계속하지 않으면 아무것도 못 해.
-()<Speaker>지휘관</Speaker>||:M4, 정말 괜찮겠니? 이 기억들...
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:괜찮아요, 지휘관.+서둘러서 작업을 마치도록 해요. 언제든지 군이 추격해올 수 있어요.
-()<Speaker>지휘관</Speaker>||<黑屏1>:알았다. RO, 계속하자.
-()<speaker></speaker>||<黑屏2><BIN>7</BIN><Night><BGM>BGM_Empty</BGM><SE1>AVG_wind_grass</SE1><回忆>:...M4A1과 AR-15가 이동한 지 15분째.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Sneak</BGM>:날이 어두워지고 있습니다. 눈보라도 멈출 기미가 보이질 않는군요... 극저온 환경은 소체의 운동 능력에 큰 영향을 미치니, 계속 밖에 있다간 우리 둘 다 얼어붙을 겁니다.
-M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker>||:알아, 그래서 이쪽으로 가는 거야.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:그쪽에 뭐가 있죠?
-M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker>||:널 쫓아오던 길에 집이 있는 걸 봤어.
-AR15Mod(0)<Speaker>AR15</Speaker>||:그래, 바로 이 앞이야. 저 눈에 띄게 수상한 수풀 뒤에 민가가 있어. 적이 없다면, 안에 들어가서 바람을 피할 수 있을 거야.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑点1>:우선 정찰부터 하죠.
-()<speaker></speaker>||<黑点2><BIN>9</BIN>:M4A1과 AR-15는 길가의 수풀에 다가갔다.+누군가 일부러 뚫어 놓은 듯한 좁다란 길이 보이자, 두 인형은 그 길을 따라 들어갔다.+무성한 수풀 더미를 지나니, 버려진 것으로 보이는 오두막이 보였다.+오두막의 주변에는 어린아이의 장난감이 어질러져 있었다. 금방이라도 장난감들의 주인이 그곳에서 놀고 있던 것만 같았다.+AR-15는 바닥의 낙서를 조심스레 피해 가, 홀로 쓸쓸히 누워 있는 곰인형을 주워들었다.+해어지고 털도 많이 빠진 것으로 보아, 주인이 얼마나 이 곰인형을 껴안고 다녔는지를 짐작할 수 있었다.
-()<speaker></speaker>||<黑点1>:하지만 그 곰인형이 검붉은색으로 얼룩진 것을 알아차린 AR-15는 얼굴을 찡그렸다.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||<黑点2><BIN>7</BIN><Night><回忆>:멈추세요, 안에 누가 있습니다.
-M4A1Mod(4);AR15Mod(4)<Speaker>AR15</Speaker>||:적이야?
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(4)||:...운이 좋군요. 여긴 군의 통신 중계소입니다. 인기 많은 집이네요.
-M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker>||:어디 보자.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:보입니까? 10m 내라면 내부의 상황을 전부 스캔할 수 있습니다.+통신 설비도 정상이고, 비전투 인원밖에 없습니다. 놈들을 처리하면 설비를 이용할 수 있을 겁니다.
-M4A1Mod(0);AR15Mod(5)<Speaker>AR15</Speaker>||:무기도 없는 인간을 쏘겠다고?
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(5)||:비무장이어도 적은 적입니다. 저들의 통신을 담당하고 있다는 것 자체가 우리에게 있어 위협입니다.
-M4A1Mod(0);AR15Mod(4)<Speaker>AR15</Speaker>||:......
-M4A1Mod(3)<Speaker>M4A1</Speaker>;AR15Mod(4)||:갑자기 연민이라도 듭니까?+저 군인들이 그리폰의 인형들을 어떻게 몰살했는지 잊었습니까?+아니면, 인형을 망가뜨린 건 몰살이라 할 수 없단 겁니까?
-M4A1Mod(0);AR15Mod(3)<Speaker>AR15</Speaker>||:...아니, 쓸데없는 연민 따위가 아니야.
-AR15Mod(4)<Speaker>AR15</Speaker>||<BGM>BGM_Empty</BGM>:지금 너의 말투와 행동거지... 넌 M4A1이 아니야.
-M4A1Mod(4)<Speaker>M4A1？</Speaker>||:훗...
-AR15Mod(3)<Speaker>AR15</Speaker>||<BGM>BGM_Danger</BGM>:전부터 이상했어. M4가 혼자 있는데도 자꾸 누군가와 대화하듯이...
-AR15Mod(4)<Speaker>AR15</Speaker><Shake>||:지금 넌 M4가 아니야, 대체 누구야?!
-M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(4)||:그게 중요해?+지금 중요한 건 살아남는 거야.+"M4A1"이 살아남도록.+이건 너의 목적에 반하지 않을 텐데.
-M4A1Mod(0);AR15Mod(4)<Speaker>AR15</Speaker>||:쳇...
-M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(4)||:내 말에 동의한다면, 이런 비효율적인 논쟁으로 시간을 낭비하지 말자.
-M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker>||:흥... 그럼 어떻게 쳐들어갈 셈인데?
-M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(0)||:네게 좋은 소식을 하나 알려 줄게. 저들에게 미안한 감정을 품을 필요는 없어.
-M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker>||:무슨 뜻이지?
-M4A1Mod(2)<Speaker>M4A1？</Speaker>;AR15Mod(0)||:집 내부의 인간들은 모두 변이됐어.
-M4A1Mod(2)<Speaker>M4A1？</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:이성을 잃은 통신병들뿐이야. 저들을 고통에서 해방시켜 주자.
-()<speaker></speaker>||<Night><黑点2><BIN>6</BIN><SE2>Gunfight</SE2><Night><回忆>:타타탕!+ELID화가 진행 중이던 병사들이 쓰러졌다.+AR-15는 전부 움직이지 않는 것을 확인한 후 총을 내렸다.
-()<speaker></speaker>||<SE2>Gunkill</SE2>:하지만 M4A1이 무덤덤한 표정으로 AR-15의 부무장을 집어 들더니, 쓰러진 시체들의 머리와 가슴팍을 몇 번 더 쏘았다.
-M4A1Mod(0)<Speaker>M4A1？</Speaker>||<BGM>10230</BGM>:신중해야지.
-()<speaker></speaker>||:"확인 작업"을 끝낸 M4A1은 부무장을 AR-15에게 다시 던져 주고서, 바로 통신 설비를 확인했다.
-AR15Mod(3)<Speaker>AR15</Speaker>||:치잇...+아직 변이하지 않은 녀석들은 어떡하고?
-M4A1Mod(0)<Speaker>M4A1？</Speaker>||:오염지대에 고립된 이상, 결국 변이하고 말 거야. 탄을 아껴야 하니, 칼로 처치하는 게 좋겠지.+난 이 중계 설비로 군의 통신을 도청해볼 테니, 그건 너에게 맡길게.
-M4A1Mod(0);AR15Mod(4)<Speaker>AR15</Speaker>||:......
-M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(4)||:왜, 못 하겠어?
-M4A1Mod(0);AR15Mod(3)<Speaker>AR15</Speaker>||:M4라면... 절대 그런 말을 하지 않아...+난 역시...
-M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(3)||:역시, 내가 루니샤가 아니니까 따르지 않겠다는 거야?
-M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker><Shake>||:이 자식이...!
-M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(0)||:그래서 어쩔 건데? 날 쏘려고?+난 지금 총알도 다 떨어졌어. 네가 하고 싶은 대로 해.
-M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker><Shake>||:M4의 목소리로 그딴 말 하지 마!
-M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(0)||:쏠 생각이 없다면, 어서 할 일이나 해.
-M4A1Mod(0);AR15Mod(4)<Speaker>AR15</Speaker>||:젠장...
-M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(4)||:그러는 너야말로, 예전의 너와 다르다는 생각은 안 들어?
-M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker>||:뭐...?
-M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(0)||:예전의 AR-15이라면, 감정에 흔들리는 인형들을 깔보면서 군말 않고 임무를 수행했잖아.
-M4A1Mod(0)<Speaker>M4A1？</Speaker>||:헌데 지금 너에게선 그 나약한 모습밖에 보이지 않아.+설마, 예전의 그 냉혹하고 굳센 모습은 루니샤를 위해 억지로 연기한 거고, 실은 무능하고 나약한 인형이었던 거야?
-AR15Mod(0)<Speaker>AR15</Speaker>||<震屏>:뭐라고!?
-M4A1Mod(0)<Speaker>M4A1？</Speaker>||:아니야? 그래서 저 병사들이 고통받도록 내버려 두고, 저들이 변이해 우릴 덮칠 위험성을 무시하는 거야?+루니샤는 이미 총알이 바닥났어. 위험한 상황에서 반격할 수 있는 건 너뿐이야.+설마 너 혼자서 어떠한 위협도 대처할 수 있다고 생각해?
-AR15Mod(4)<Speaker>AR15</Speaker>||:됐어, 그만!+그만 말해!
-AR15Mod(3)<Speaker>AR15</Speaker>||:하면... 하면 되잖아!
-M4A1Mod(0)<Speaker>M4A1？</Speaker>||<黑屏1>:너희가 여태까지 어떻게 살아남았는지 도저히 이해가 안 돼.+다 끝나면 루니샤에게 돌아와. 난 레벨 2 플랫폼에 접속해서, 그리폰이나 안젤리아의 위치를 찾아보겠어. 누구든 찾아낸다면 한 줄기 희망이 보이겠지.
-RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>202</BIN><关闭蒙版>:으음...
-()<Speaker>지휘관</Speaker>||<BGM>m_avg_casual</BGM>:이, 이건 정말 의외인데...?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:우와, AR-15가 댄들라이한테 아주 혼쭐이 났네?
-AR15Mod(2)<Speaker>AR15</Speaker><Shake>||:그... 그냥 비상 상황이니까 굳이 대꾸 안 한 거야!
-AR15Mod(3)<Speaker>AR15</Speaker>||:그리고 녀석이 M4의 목소리로 그런 말을 하니까 난처했을 뿐이라고!
-RO635(0)<Speaker>RO635</Speaker>||:어... M4 씨가 한 말이라서 반박 못 했다는 거네?
-AR15Mod(5)<Speaker>AR15</Speaker><Shake>||:그, 그게 뭐 어때서!
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:......
-RO635(0)<Speaker>RO635</Speaker>||:......
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:......
-()<Speaker>지휘관</Speaker>||:......
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||:제가 관찰한 바를 종합해 보자면, AR팀은 감정에 너무 연연하여 작전 효율이 예상보다 훨씬 낮습니다.+성능마저 뛰어나지 않았다면 벌써 몇 번은 전멸하고도 남았을 겁니다.
-()<Speaker>지휘관</Speaker>||:그렇기 때문에 단순한 살인 기계로 전락하지 않은 거야.
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||:그런가요? 하지만 전술인형은 싸우기 위해 존재합니다. 설령 상대가 기계가 아닌 생물이라도 말이죠.+당신의 말은 마치 식칼로 고기를 썰지 말라는 것과 다름없습니다.+그리고 당신이 아무리 변론하더라도, 인류는 직접 하기 싫은 더러운 일을 인형에게 떠넘겼습니다.
-()<Speaker>지휘관</Speaker>||:......
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||:이건 부끄러워하거나 죄책감을 가질 일이 아닙니다. 세상 만물에는 전부 존재 이유가 있으니까요.+제 생각엔, 사람 하나 죽이지 못하는 인형은 차라리 카페에서 손님이나 받는 편이 더 낫다고 봅니다.+적을 상대하는 것에 주저하는 것은 인간이든 인형이든 무능한 행위입니다.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:괜찮아, 지휘관은 적한테 절대 용서 없거든!
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||:그리폰의 기록을 확인하니, 지휘관님은 특히나 적을 남기지 않고 전멸시키기를 선호하시더군요. 그 점만큼은 신뢰가 갑니다.
-()<Speaker>지휘관</Speaker>||:전혀 칭찬으로 들리지 않는데...
-RO635(0)<Speaker>RO635</Speaker>||:크흠... 수다는 그만하는 게 어때요? 지금 전송 중 약간 문제가 생겼는데 좀 도와주세요.
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||:기억 파편을 초기화하는 도중 잠깐 렉이 걸렸을 뿐이야. 레벨 2 플랫폼에서라면 너 혼자서도 해결할 수 있어.
-RO635(0)<Speaker>RO635</Speaker>||:그래도 나 혼자 하게 두지 말아 줘, 이 파일들을 정리하자 한 건 너잖아.
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||<黑点1>:정말 어쩔 수 없구나. 그럼 빨리 쓸모없는 파편들을 청소하자.
-()||<黑点2><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+RO635(0)<Speaker>RO635</Speaker>||<BIN>202</BIN><黑屏2><BGM>m_avg_casual</BGM>:이어지는 기억 파편을 찾았습니다. 계속할까요?
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:계속하지 않으면 아무것도 못 해.
+()<Speaker>지휘관</Speaker>||:M4, 정말 괜찮겠니? 이 기억들...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:괜찮아요, 지휘관.+서둘러서 작업을 마치도록 해요. 언제든지 군이 추격해올 수 있어요.
+()<Speaker>지휘관</Speaker>||<黑屏1>:알았다. RO, 계속하자.
+()<speaker></speaker>||<黑屏2><BIN>7</BIN><Night><BGM>BGM_Empty</BGM><SE1>AVG_wind_grass</SE1><回忆>:...M4A1과 AR-15가 이동한 지 15분째.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Sneak</BGM>:날이 어두워지고 있습니다. 눈보라도 멈출 기미가 보이질 않는군요... 극저온 환경은 소체의 운동 능력에 큰 영향을 미치니, 계속 밖에 있다간 우리 둘 다 얼어붙을 겁니다.
+M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker>||:알아, 그래서 이쪽으로 가는 거야.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:그쪽에 뭐가 있죠?
+M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker>||:널 쫓아오던 길에 집이 있는 걸 봤어.
+AR15Mod(0)<Speaker>AR15</Speaker>||:그래, 바로 이 앞이야. 저 눈에 띄게 수상한 수풀 뒤에 민가가 있어. 적이 없다면, 안에 들어가서 바람을 피할 수 있을 거야.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑点1>:우선 정찰부터 하죠.
+()<speaker></speaker>||<黑点2><BIN>9</BIN>:M4A1과 AR-15는 길가의 수풀에 다가갔다.+누군가 일부러 뚫어 놓은 듯한 좁다란 길이 보이자, 두 인형은 그 길을 따라 들어갔다.+무성한 수풀 더미를 지나니, 버려진 것으로 보이는 오두막이 보였다.+오두막의 주변에는 어린아이의 장난감이 어질러져 있었다. 금방이라도 장난감들의 주인이 그곳에서 놀고 있던 것만 같았다.+AR-15는 바닥의 낙서를 조심스레 피해 가, 홀로 쓸쓸히 누워 있는 곰인형을 주워들었다.+해어지고 털도 많이 빠진 것으로 보아, 주인이 얼마나 이 곰인형을 껴안고 다녔는지를 짐작할 수 있었다.
+()<speaker></speaker>||<黑点1>:하지만 그 곰인형이 검붉은색으로 얼룩진 것을 알아차린 AR-15는 얼굴을 찡그렸다.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<黑点2><BIN>7</BIN><Night><回忆>:멈추세요, 안에 누가 있습니다.
+M4A1Mod(4);AR15Mod(4)<Speaker>AR15</Speaker>||:적이야?
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(4)||:...운이 좋군요. 여긴 군의 통신 중계소입니다. 인기 많은 집이네요.
+M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker>||:어디 보자.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(0)||:보입니까? 10m 내라면 내부의 상황을 전부 스캔할 수 있습니다.+통신 설비도 정상이고, 비전투 인원밖에 없습니다. 놈들을 처리하면 설비를 이용할 수 있을 겁니다.
+M4A1Mod(0);AR15Mod(5)<Speaker>AR15</Speaker>||:무기도 없는 인간을 쏘겠다고?
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AR15Mod(5)||:비무장이어도 적은 적입니다. 저들의 통신을 담당하고 있다는 것 자체가 우리에게 있어 위협입니다.
+M4A1Mod(0);AR15Mod(4)<Speaker>AR15</Speaker>||:......
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AR15Mod(4)||:갑자기 연민이라도 듭니까?+저 군인들이 그리폰의 인형들을 어떻게 몰살했는지 잊었습니까?+아니면, 인형을 망가뜨린 건 몰살이라 할 수 없단 겁니까?
+M4A1Mod(0);AR15Mod(3)<Speaker>AR15</Speaker>||:...아니, 쓸데없는 연민 따위가 아니야.
+AR15Mod(4)<Speaker>AR15</Speaker>||<BGM>BGM_Empty</BGM>:지금 너의 말투와 행동거지... 넌 M4A1이 아니야.
+M4A1Mod(4)<Speaker>M4A1？</Speaker>||:훗...
+AR15Mod(3)<Speaker>AR15</Speaker>||<BGM>BGM_Danger</BGM>:전부터 이상했어. M4가 혼자 있는데도 자꾸 누군가와 대화하듯이...
+AR15Mod(4)<Speaker>AR15</Speaker><Shake>||:지금 넌 M4가 아니야, 대체 누구야?!
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(4)||:그게 중요해?+지금 중요한 건 살아남는 거야.+"M4A1"이 살아남도록.+이건 너의 목적에 반하지 않을 텐데.
+M4A1Mod(0);AR15Mod(4)<Speaker>AR15</Speaker>||:쳇...
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(4)||:내 말에 동의한다면, 이런 비효율적인 논쟁으로 시간을 낭비하지 말자.
+M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker>||:흥... 그럼 어떻게 쳐들어갈 셈인데?
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(0)||:네게 좋은 소식을 하나 알려 줄게. 저들에게 미안한 감정을 품을 필요는 없어.
+M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker>||:무슨 뜻이지?
+M4A1Mod(2)<Speaker>M4A1？</Speaker>;AR15Mod(0)||:집 내부의 인간들은 모두 변이됐어.
+M4A1Mod(2)<Speaker>M4A1？</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:이성을 잃은 통신병들뿐이야. 저들을 고통에서 해방시켜 주자.
+()<speaker></speaker>||<Night><黑点2><BIN>6</BIN><SE2>Gunfight</SE2><Night><回忆>:타타탕!+ELID화가 진행 중이던 병사들이 쓰러졌다.+AR-15는 전부 움직이지 않는 것을 확인한 후 총을 내렸다.
+()<speaker></speaker>||<SE2>Gunkill</SE2>:하지만 M4A1이 무덤덤한 표정으로 AR-15의 부무장을 집어 들더니, 쓰러진 시체들의 머리와 가슴팍을 몇 번 더 쏘았다.
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||<BGM>10230</BGM>:신중해야지.
+()<speaker></speaker>||:"확인 작업"을 끝낸 M4A1은 부무장을 AR-15에게 다시 던져 주고서, 바로 통신 설비를 확인했다.
+AR15Mod(3)<Speaker>AR15</Speaker>||:치잇...+아직 변이하지 않은 녀석들은 어떡하고?
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||:오염지대에 고립된 이상, 결국 변이하고 말 거야. 탄을 아껴야 하니, 칼로 처치하는 게 좋겠지.+난 이 중계 설비로 군의 통신을 도청해볼 테니, 그건 너에게 맡길게.
+M4A1Mod(0);AR15Mod(4)<Speaker>AR15</Speaker>||:......
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(4)||:왜, 못 하겠어?
+M4A1Mod(0);AR15Mod(3)<Speaker>AR15</Speaker>||:M4라면... 절대 그런 말을 하지 않아...+난 역시...
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(3)||:역시, 내가 루니샤가 아니니까 따르지 않겠다는 거야?
+M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker><Shake>||:이 자식이...!
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(0)||:그래서 어쩔 건데? 날 쏘려고?+난 지금 총알도 다 떨어졌어. 네가 하고 싶은 대로 해.
+M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker><Shake>||:M4의 목소리로 그딴 말 하지 마!
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(0)||:쏠 생각이 없다면, 어서 할 일이나 해.
+M4A1Mod(0);AR15Mod(4)<Speaker>AR15</Speaker>||:젠장...
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(4)||:그러는 너야말로, 예전의 너와 다르다는 생각은 안 들어?
+M4A1Mod(0);AR15Mod(0)<Speaker>AR15</Speaker>||:뭐...?
+M4A1Mod(0)<Speaker>M4A1？</Speaker>;AR15Mod(0)||:예전의 AR-15이라면, 감정에 흔들리는 인형들을 깔보면서 군말 않고 임무를 수행했잖아.
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||:헌데 지금 너에게선 그 나약한 모습밖에 보이지 않아.+설마, 예전의 그 냉혹하고 굳센 모습은 루니샤를 위해 억지로 연기한 거고, 실은 무능하고 나약한 인형이었던 거야?
+AR15Mod(0)<Speaker>AR15</Speaker>||<震屏>:뭐라고!?
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||:아니야? 그래서 저 병사들이 고통받도록 내버려 두고, 저들이 변이해 우릴 덮칠 위험성을 무시하는 거야?+루니샤는 이미 총알이 바닥났어. 위험한 상황에서 반격할 수 있는 건 너뿐이야.+설마 너 혼자서 어떠한 위협도 대처할 수 있다고 생각해?
+AR15Mod(4)<Speaker>AR15</Speaker>||:됐어, 그만!+그만 말해!
+AR15Mod(3)<Speaker>AR15</Speaker>||:하면... 하면 되잖아!
+M4A1Mod(0)<Speaker>M4A1？</Speaker>||<黑屏1>:너희가 여태까지 어떻게 살아남았는지 도저히 이해가 안 돼.+다 끝나면 루니샤에게 돌아와. 난 레벨 2 플랫폼에 접속해서, 그리폰이나 안젤리아의 위치를 찾아보겠어. 누구든 찾아낸다면 한 줄기 희망이 보이겠지.
+RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>202</BIN><关闭蒙版>:으음...
+()<Speaker>지휘관</Speaker>||<BGM>m_avg_casual</BGM>:이, 이건 정말 의외인데...?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:우와, AR-15가 댄들라이한테 아주 혼쭐이 났네?
+AR15Mod(2)<Speaker>AR15</Speaker><Shake>||:그... 그냥 비상 상황이니까 굳이 대꾸 안 한 거야!
+AR15Mod(3)<Speaker>AR15</Speaker>||:그리고 녀석이 M4의 목소리로 그런 말을 하니까 난처했을 뿐이라고!
+RO635(0)<Speaker>RO635</Speaker>||:어... M4 씨가 한 말이라서 반박 못 했다는 거네?
+AR15Mod(5)<Speaker>AR15</Speaker><Shake>||:그, 그게 뭐 어때서!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:......
+RO635(0)<Speaker>RO635</Speaker>||:......
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:......
+()<Speaker>지휘관</Speaker>||:......
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:제가 관찰한 바를 종합해 보자면, AR팀은 감정에 너무 연연하여 작전 효율이 예상보다 훨씬 낮습니다.+성능마저 뛰어나지 않았다면 벌써 몇 번은 전멸하고도 남았을 겁니다.
+()<Speaker>지휘관</Speaker>||:그렇기 때문에 단순한 살인 기계로 전락하지 않은 거야.
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:그런가요? 하지만 전술인형은 싸우기 위해 존재합니다. 설령 상대가 기계가 아닌 생물이라도 말이죠.+당신의 말은 마치 식칼로 고기를 썰지 말라는 것과 다름없습니다.+그리고 당신이 아무리 변론하더라도, 인류는 직접 하기 싫은 더러운 일을 인형에게 떠넘겼습니다.
+()<Speaker>지휘관</Speaker>||:......
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:이건 부끄러워하거나 죄책감을 가질 일이 아닙니다. 세상 만물에는 전부 존재 이유가 있으니까요.+제 생각엔, 사람 하나 죽이지 못하는 인형은 차라리 카페에서 손님이나 받는 편이 더 낫다고 봅니다.+적을 상대하는 것에 주저하는 것은 인간이든 인형이든 무능한 행위입니다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:괜찮아, 지휘관은 적한테 절대 용서 없거든!
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:그리폰의 기록을 확인하니, 지휘관님은 특히나 적을 남기지 않고 전멸시키기를 선호하시더군요. 그 점만큼은 신뢰가 갑니다.
+()<Speaker>지휘관</Speaker>||:전혀 칭찬으로 들리지 않는데...
+RO635(0)<Speaker>RO635</Speaker>||:크흠... 수다는 그만하는 게 어때요? 지금 전송 중 약간 문제가 생겼는데 좀 도와주세요.
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:기억 파편을 초기화하는 도중 잠깐 렉이 걸렸을 뿐이야. 레벨 2 플랫폼에서라면 너 혼자서도 해결할 수 있어.
+RO635(0)<Speaker>RO635</Speaker>||:그래도 나 혼자 하게 두지 말아 줘, 이 파일들을 정리하자 한 건 너잖아.
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||<黑点1>:정말 어쩔 수 없구나. 그럼 빨리 쓸모없는 파편들을 청소하자.
+()||<黑点2><BIN>10</BIN>:

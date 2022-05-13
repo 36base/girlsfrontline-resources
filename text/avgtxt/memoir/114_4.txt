@@ -1,39 +1,39 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
-()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><BGM>BGM_Hello</BGM>:문득 정신이 든 웰로드가 벌떡 일어났다.
-()<Speaker>웰로드</Speaker>||:숙소!? 어떻게 돌아온 거지?!+으윽... 아직도 마인드맵이 타버릴 때의 감각이 남아있는 거 같아...
-()<Speaker>？？？</Speaker>||:잘 잤어?
-()<Speaker></Speaker>||:그 소리에 웰로드가 고개를 돌리자, 거기엔 미소짓는 얼굴의 익숙한 분홍머리 인형이 앉아있었다.
-()<Speaker>웰로드</Speaker>||:메시아...? 네가 날 여기로 데려왔나?+다른 애들은 무사해? 옐로우존에서의 일은 어떻게 됐지? 교단은――
-sub2000(5)<Speaker>메시아？</Speaker>||:스톱 스톱, 질문이 너무 많잖아. 하나씩 대답해 줄게.+먼저, 난 이제 "SUB-2000"이야. 무슨 뜻인지 알지?
-sub2000(5)<Speaker>웰로드</Speaker>||:아... 알았다, SUB-2000. 내가 추천할 필요도 없었던 모양이군.
-sub2000(5)<Speaker>sub2000</Speaker>||:그런 셈이지, 나도 이젠 그리폰의 일원이야.+두 번째랑 세 번째 질문은... 응, 모두 무사해.
-sub2000(5)<Speaker></Speaker>||:SUB-2000이 단말기를 꺼내, 웰로드에게 사진을 보여 주었다.
-sub2000(5)<Speaker>sub2000</Speaker>||:봐 봐, 그 정화탑 근처의 깨끗한 땅에 자리를 잡았어. 벌써 채소밭까지 가꿨다니까.
-sub2000(5)<Speaker>웰로드</Speaker>||:...되게 작은걸?
-sub2000(5)<Speaker>sub2000</Speaker>||:욕심은, 걔네들 빨리 못 움직이는 거 알잖아.
-sub2000(5)<Speaker>웰로드</Speaker>||:그럼 나도 도우러 가야겠군! 아, 그 전에 휴가 일수가 충분한지 모르니 우선 지휘관을 봐야겠어.
-sub2000(5)<Speaker>sub2000</Speaker>||:그래, 보고도 해야 하니 봐야겠지. 그런데 너 말이야, 아직도 뭐 이상한 점 안 느껴져?
-sub2000(5);WelrodMod(0)<Speaker>웰로드</Speaker>||:이상한 점이라니?
-sub2000(5)<Speaker>sub2000</Speaker>;WelrodMod(0)||:소체가 완전히 망가져서, 지휘관이 이참에 아예 새걸로 바꿔 줬어.+여기서 말하기론 마인드맵 업그레이드랬던가?
-sub2000(5);WelrodMod(0)<Speaker>웰로드</Speaker>||:아하... 흠, 딱히 이상한 점은 없군. 컨디션도 최상이다.
-sub2000(5)<Speaker>sub2000</Speaker>;WelrodMod(0)||:네 번째로, 네가 가서 거들 필요 없어.+열쇠장이가 자기들만으로 충분하고, 대충 정리되면 우릴 초대하겠대.
-sub2000(5);WelrodMod(0)<Speaker>웰로드</Speaker>||:그래도 걱정되는데, 정말 괜찮을까?
-sub2000(5)<Speaker>sub2000</Speaker>;WelrodMod(0)||:"너의 황금처럼 빛나는 노력과 아침 햇살처럼 눈부신 용감한 마음이, 우리에게 나아갈 길을 비춰 주었다."+"물론 앞으로 어떻게 될진 아무도 장담 못하지만, 하다보면 변화가 있겠지. 네가 직접 보여 준 것처럼 말이야."+...라고 전해 달래.
-sub2000(5);WelrodMod(0)<Speaker>웰로드</Speaker>||:...왠지 낯이 간지럽군.
-sub2000(5)<Speaker>sub2000</Speaker>;WelrodMod(0)||:부끄러우면 그냥 부끄럽다 하셔.
-sub2000(5);WelrodMod(0)<Speaker></Speaker><同时点亮>||:두 인형은 어색하게 시선을 주고받다, 동시에 웃음을 터뜨렸다.
-sub2000(5)<Speaker>sub2000</Speaker>;WelrodMod(0)||:이렇게 너와 함께 일하게 돼서 정말 기쁘다...+웰로드, 정말 고마워. 네가 아니었다면 난 죽었다 깨어나도 여기까지 오지 못했을 거야.
-sub2000(5);WelrodMod(0)<Speaker>웰로드</Speaker>||:하하... 여기서는 멋대로 죽으려고 뛰쳐나가지 마라.
-sub2000(5)<Speaker>sub2000</Speaker>||:무슨 소린지 모르겠네? 난 평범한 전직 요가 강사인데.
-()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:똑똑.+노크 소리가 두 인형의 담소에 끼어들었다.
-WelrodMod(0)<Speaker>웰로드</Speaker>||:들어와도 된다.
-M82A1(0)<Speaker>M82A1</Speaker>;WelrodMod(0)||<SE1>AVG_Door_Open_Close</SE1>:당신이 깨어났다기에 왔습니다.+정말 죄송합니다, 설마 일이 그렇게 커질 줄은... 지금은 괜찮으신지요?
-M82A1(0);WelrodMod(0)<Speaker>웰로드</Speaker>||:괜찮아, 사과할 것 없어. 임무도 그 자체론 별것 아니었다. 그저 내 단독 행동으로부터 비롯된 일일 뿐이야.
-sub2000(4)<Speaker>sub2000</Speaker>;WelrodMod(0)||:......
-M82A1(0)<Speaker>M82A1</Speaker>;WelrodMod(0)||:이쪽 분은?
-WelrodMod(0)<Speaker>웰로드</Speaker>||:아, 아직 소개를 안 했나? 이쪽은 SUB-2000, 이번에 입사한 새 동료...?+SUB-2000? 왜 그렇게 M82A1을 빤히 보지?+으음...? 설마 다운됐나? SUB-2000?
-sub2000(4)<Speaker></Speaker>;WelrodMod(0)||<BGM>BGM_Empty</BGM>:웰로드가 이름을 몇 번이나 부르고서야 SUB-2000은 겨우 반응했다.+하지만 눈은 여전히 M82A1에게서 떨어지질 않았고, 이윽고 낸 떨리는 목소리에서는 충격과 경악이 느껴졌다.
-sub2000(2)<Speaker>sub2000</Speaker>||:메시아...? 왜 당신이 여기에......?
-M82A1(0)<Speaker>M82A1</Speaker>||:......
-WelrodMod(0)<Speaker>웰로드</Speaker>||:......
-()<Speaker></Speaker>||<黑屏1>:이 일은 아직 끝나지 않았다는 예감이, 웰로드의 뇌리를 스쳤다.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
+()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><BGM>BGM_Hello</BGM>:문득 정신이 든 웰로드가 벌떡 일어났다.
+()<Speaker>웰로드</Speaker>||:숙소!? 어떻게 돌아온 거지?!+으윽... 아직도 마인드맵이 타버릴 때의 감각이 남아있는 거 같아...
+()<Speaker>？？？</Speaker>||:잘 잤어?
+()<Speaker></Speaker>||:그 소리에 웰로드가 고개를 돌리자, 거기엔 미소짓는 얼굴의 익숙한 분홍머리 인형이 앉아있었다.
+()<Speaker>웰로드</Speaker>||:메시아...? 네가 날 여기로 데려왔나?+다른 애들은 무사해? 옐로우존에서의 일은 어떻게 됐지? 교단은――
+sub2000(5)<Speaker>메시아？</Speaker>||:스톱 스톱, 질문이 너무 많잖아. 하나씩 대답해 줄게.+먼저, 난 이제 "SUB-2000"이야. 무슨 뜻인지 알지?
+sub2000(5)<Speaker>웰로드</Speaker>||:아... 알았다, SUB-2000. 내가 추천할 필요도 없었던 모양이군.
+sub2000(5)<Speaker>sub2000</Speaker>||:그런 셈이지, 나도 이젠 그리폰의 일원이야.+두 번째랑 세 번째 질문은... 응, 모두 무사해.
+sub2000(5)<Speaker></Speaker>||:SUB-2000이 단말기를 꺼내, 웰로드에게 사진을 보여 주었다.
+sub2000(5)<Speaker>sub2000</Speaker>||:봐 봐, 그 정화탑 근처의 깨끗한 땅에 자리를 잡았어. 벌써 채소밭까지 가꿨다니까.
+sub2000(5)<Speaker>웰로드</Speaker>||:...되게 작은걸?
+sub2000(5)<Speaker>sub2000</Speaker>||:욕심은, 걔네들 빨리 못 움직이는 거 알잖아.
+sub2000(5)<Speaker>웰로드</Speaker>||:그럼 나도 도우러 가야겠군! 아, 그 전에 휴가 일수가 충분한지 모르니 우선 지휘관을 봐야겠어.
+sub2000(5)<Speaker>sub2000</Speaker>||:그래, 보고도 해야 하니 봐야겠지. 그런데 너 말이야, 아직도 뭐 이상한 점 안 느껴져?
+sub2000(5);WelrodMod(0)<Speaker>웰로드</Speaker>||:이상한 점이라니?
+sub2000(5)<Speaker>sub2000</Speaker>;WelrodMod(0)||:소체가 완전히 망가져서, 지휘관이 이참에 아예 새걸로 바꿔 줬어.+여기서 말하기론 마인드맵 업그레이드랬던가?
+sub2000(5);WelrodMod(0)<Speaker>웰로드</Speaker>||:아하... 흠, 딱히 이상한 점은 없군. 컨디션도 최상이다.
+sub2000(5)<Speaker>sub2000</Speaker>;WelrodMod(0)||:네 번째로, 네가 가서 거들 필요 없어.+열쇠장이가 자기들만으로 충분하고, 대충 정리되면 우릴 초대하겠대.
+sub2000(5);WelrodMod(0)<Speaker>웰로드</Speaker>||:그래도 걱정되는데, 정말 괜찮을까?
+sub2000(5)<Speaker>sub2000</Speaker>;WelrodMod(0)||:"너의 황금처럼 빛나는 노력과 아침 햇살처럼 눈부신 용감한 마음이, 우리에게 나아갈 길을 비춰 주었다."+"물론 앞으로 어떻게 될진 아무도 장담 못하지만, 하다보면 변화가 있겠지. 네가 직접 보여 준 것처럼 말이야."+...라고 전해 달래.
+sub2000(5);WelrodMod(0)<Speaker>웰로드</Speaker>||:...왠지 낯이 간지럽군.
+sub2000(5)<Speaker>sub2000</Speaker>;WelrodMod(0)||:부끄러우면 그냥 부끄럽다 하셔.
+sub2000(5);WelrodMod(0)<Speaker></Speaker><同时点亮>||:두 인형은 어색하게 시선을 주고받다, 동시에 웃음을 터뜨렸다.
+sub2000(5)<Speaker>sub2000</Speaker>;WelrodMod(0)||:이렇게 너와 함께 일하게 돼서 정말 기쁘다...+웰로드, 정말 고마워. 네가 아니었다면 난 죽었다 깨어나도 여기까지 오지 못했을 거야.
+sub2000(5);WelrodMod(0)<Speaker>웰로드</Speaker>||:하하... 여기서는 멋대로 죽으려고 뛰쳐나가지 마라.
+sub2000(5)<Speaker>sub2000</Speaker>||:무슨 소린지 모르겠네? 난 평범한 전직 요가 강사인데.
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:똑똑.+노크 소리가 두 인형의 담소에 끼어들었다.
+WelrodMod(0)<Speaker>웰로드</Speaker>||:들어와도 된다.
+M82A1(0)<Speaker>M82A1</Speaker>;WelrodMod(0)||<SE1>AVG_Door_Open_Close</SE1>:당신이 깨어났다기에 왔습니다.+정말 죄송합니다, 설마 일이 그렇게 커질 줄은... 지금은 괜찮으신지요?
+M82A1(0);WelrodMod(0)<Speaker>웰로드</Speaker>||:괜찮아, 사과할 것 없어. 임무도 그 자체론 별것 아니었다. 그저 내 단독 행동으로부터 비롯된 일일 뿐이야.
+sub2000(4)<Speaker>sub2000</Speaker>;WelrodMod(0)||:......
+M82A1(0)<Speaker>M82A1</Speaker>;WelrodMod(0)||:이쪽 분은?
+WelrodMod(0)<Speaker>웰로드</Speaker>||:아, 아직 소개를 안 했나? 이쪽은 SUB-2000, 이번에 입사한 새 동료...?+SUB-2000? 왜 그렇게 M82A1을 빤히 보지?+으음...? 설마 다운됐나? SUB-2000?
+sub2000(4)<Speaker></Speaker>;WelrodMod(0)||<BGM>BGM_Empty</BGM>:웰로드가 이름을 몇 번이나 부르고서야 SUB-2000은 겨우 반응했다.+하지만 눈은 여전히 M82A1에게서 떨어지질 않았고, 이윽고 낸 떨리는 목소리에서는 충격과 경악이 느껴졌다.
+sub2000(2)<Speaker>sub2000</Speaker>||:메시아...? 왜 당신이 여기에......?
+M82A1(0)<Speaker>M82A1</Speaker>||:......
+WelrodMod(0)<Speaker>웰로드</Speaker>||:......
+()<Speaker></Speaker>||<黑屏1>:이 일은 아직 끝나지 않았다는 예감이, 웰로드의 뇌리를 스쳤다.

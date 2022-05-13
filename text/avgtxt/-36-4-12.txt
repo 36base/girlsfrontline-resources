@@ -1,44 +1,44 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
-()||<BIN>85</BIN><黑屏2>||<SE2>Alarm</SE2><SE1>Explode</SE1>:그리폰 임시 지휘부.+바깥의 폭격은 그칠 기미가 보이지 않았다.+지진과 같은 진동에 엄폐물도 함께 흔들렸다.
-()<Speaker>지휘관</Speaker>||<BGM>BGM_Danger</BGM>:복귀한 인형은 얼마나 되지?
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:아직 절반밖에 못 돌아왔어요! 내부로 들어온 선봉 부대의 추격으로 복귀하지 못하고 있습니다!
-NPC-Kalin(4)<Speaker>지휘관</Speaker>||:진짜 찰거머리가 따로 없군...
-NPC-Kalin(7)<Speaker>카리나</Speaker>||:모두 흩어진 상태에, 기지 내부도 혼란한 상황이고...
-NPC-Kalin(7)<Speaker>지휘관</Speaker>||:엄폐 유지하면서 대치하도록 지시 내려. 놈들이 예고르와 합류하게 둬선 안 돼.
-NPC-AngeDamage(4)<Speaker>안젤리아</Speaker><通讯框>;NPC-Kalin(7)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>무슨 일이지? 여기까지 땅이 울리는데.</color>
-NPC-AngeDamage(4);NPC-Kalin(7)<Speaker>지휘관</Speaker>||:공군의 폭격을 호출했습니다. 지상의 군부대는 이걸로 끝장났겠지만, 기지 내부로 일부 병력이 진입했습니다.
-NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>;NPC-Kalin(7)||:<color=#00CCFF>칫... 예고르의 기갑 유닛은 성가시긴 하지만, 아직 철혈과 실랑이를 벌이고 있어.</color>+<color=#00CCFF>놈들을 해치울 방법이 떠올랐는데, 그쪽의 도움이 필요해.</color>
-NPC-AngeDamage(4);NPC-Kalin(7)<Speaker>지휘관</Speaker>||:무엇입니까?
-NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>;NPC-Kalin(7)||:<color=#00CCFF>내가 여기로 잠입했을 땐 수로를 통해서 들어왔어. 이 기지에는 바다로 연결되는 4개의 수문이 있거든.</color>+<color=#00CCFF>놈들을 지하 1층에 묶어둘 수만 있다면, 그 수문을 동시에 열어서 놈들을 수장시킬 수 있어.</color>+<color=#00CCFF>하지만 밸브는 전부 기지 지상에 있으니까, 위치 전송해 줄 테니 열든 부수든 그쪽에 부탁할게.</color>
-NPC-AngeDamage(4);NPC-Kalin(7)<Speaker>지휘관</Speaker>||:그럼 그쪽은 어떻게 탈출할 겁니까?
-NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>;NPC-Kalin(7)||:<color=#00CCFF>적이 목적을 이루도록 놔둘 수도 없어. 철혈, 예고르, 패러데우스, 그 누구도.</color>
-NPC-AngeDamage(4);NPC-Kalin(7)<Speaker>지휘관</Speaker>||:......+알겠습니다.
-NPC-Kalin(7)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:통신 종료.
-NPC-Kalin(4)<Speaker>카리나</Speaker>||<SE1>ClothingUp</SE1>:어, 지휘관님 뭐 하세요?+왜 방탄조끼까지 꺼내 입으시는...+엑, 그 권총이랑 배낭은...?
-NPC-Kalin(4)<Speaker>지휘관</Speaker>||<BGM>BGM_Wake</BGM>:그래, 예전에 크루거 씨께 받은 거야.
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:아니 그걸 말하는 게 아니잖아요, 어디 가시려고요?!
-NPC-Kalin(4)<Speaker>지휘관</Speaker>||:안젤리아 씨가 한 얘기 들었잖아?
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:인형들도 돌아오지 않았는데 혼자 움직이시면 너무 위험해요!
-NPC-Kalin(4)<Speaker>지휘관</Speaker>||:알아, 나도 혼자 갈 생각은 없어.+K, 받아.
-NPC-Jason(1)<Speaker>K</Speaker>;NPC-Kalin(4)||:원격 폭탄?
-NPC-Jason(1);NPC-Kalin(4)<Speaker>지휘관</Speaker>||:소령씩이나 되니, 이 정도 임무는 식은 죽 먹기겠지?
-NPC-Jason(1)<Speaker>K</Speaker>;NPC-Kalin(4)||:흥, 네가 빵을 먹은 횟수보다 훨씬 더 많이 훈련받은 몸이다.
-NPC-Jason(1)<Speaker></Speaker>;NPC-Kalin(4)||:K는 지휘관의 말에 콧방귀를 뀌며 받은 폭탄을 배낭에 넣고, 능숙한 솜씨로 무기를 점검했다.
-NPC-Jason(1);NPC-Kalin(4)<Speaker>지휘관</Speaker>||:하, 본격적으로 싸우기도 전에 기절해서 드러누워 있던 사람이 누구시더라?
-NPC-Jason(1)<Speaker>K</Speaker>;NPC-Kalin(4)||:난 항상 인형 뒤에 숨어서 명령만 내리는 너와는 다르니까 말이지.
-NPC-Jason(1);NPC-Kalin(4)<Speaker>카리나</Speaker>||:저기... 두 분 다 설마...!
-NPC-Jason(1);NPC-Kalin(4)<Speaker>지휘관</Speaker>||:그래, 그 설마야. 평소에 전술 훈련 빠지지 않고 참여해서 망정이지.+안젤리아가 표기한 위치다. 각각 2개씩, 문제없지?
-NPC-Jason(1)<Speaker>K</Speaker>;NPC-Kalin(4)||:알았다.
-NPC-Jason(1);NPC-Kalin(4)<Speaker>카리나</Speaker>||:저... 잠깐 기다려 주세요!+지휘관님, 저도요!
-NPC-Jason(1);NPC-Kalin(4)<Speaker>지휘관</Speaker>||:응...?
-NPC-Jason(1);NPC-Kalin(8)<Speaker>카리나</Speaker>||:저도 하나 주세요.
-NPC-Kalin(8)<Speaker>지휘관</Speaker>||:뭐라고?
-NPC-Kalin(8)<Speaker></Speaker>||:카리나는 손을 내밀며 큰 소리로 외쳤다.
-NPC-Kalin(8)<Speaker>카리나</Speaker>||:저도 하나 주세요! 지휘관님 대신 제가 하나 설치할게요!
-NPC-Kalin(8)<Speaker>지휘관</Speaker>||:아니, 넌 여기 남아 있으렴.
-NPC-Kalin(8)<Speaker></Speaker>||:항상 밝게 미소 짓는 이 말괄량이 보급관 아가씨는, 이런 위험하기 짝이 없는 전장에 어울리는 사람이 아니었다. 그럼에도, 고비마다 항상 곁에 있어 주었다.+이 이상 그녀를 위험에 빠뜨릴 순 없었다.
-NPC-Kalin(8)<Speaker>지휘관</Speaker>||:복귀하는 인형에게 지시를 내리고 보급을 해 줄 사람이 있어야 해.+누군가는 지휘부를 지켜야 하잖니. 이것도 아주 중요한 일이야.+무슨 말인지 알겠지, 카리나?
-NPC-Kalin(8)<Speaker>카리나</Speaker>||:하지만...
-NPC-Kalin(8)<Speaker>지휘관</Speaker>||:카리나, 명령이야. 생존한 인형들을 집결시키도록 해.
-NPC-Kalin(4)<Speaker></Speaker>||:카리나는 입을 다물고 지휘관을 바라보았다. 그리고 잠시 후, 사뭇 진지한 표정으로 고개를 끄덕였다.+그 눈가에 맺힌 눈물을 못 본 체하면서, 지휘관은 고개를 돌려야만 했다.
-()<Speaker>지휘관</Speaker>||<黑屏1>:K, 준비됐으면 출발하자. 모두 살아서 다시 보자고!
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
+()||<BIN>85</BIN><黑屏2>||<SE2>Alarm</SE2><SE1>Explode</SE1>:그리폰 임시 지휘부.+바깥의 폭격은 그칠 기미가 보이지 않았다.+지진과 같은 진동에 엄폐물도 함께 흔들렸다.
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Danger</BGM>:복귀한 인형은 얼마나 되지?
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:아직 절반밖에 못 돌아왔어요! 내부로 들어온 선봉 부대의 추격으로 복귀하지 못하고 있습니다!
+NPC-Kalin(4)<Speaker>지휘관</Speaker>||:진짜 찰거머리가 따로 없군...
+NPC-Kalin(7)<Speaker>카리나</Speaker>||:모두 흩어진 상태에, 기지 내부도 혼란한 상황이고...
+NPC-Kalin(7)<Speaker>지휘관</Speaker>||:엄폐 유지하면서 대치하도록 지시 내려. 놈들이 예고르와 합류하게 둬선 안 돼.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker><通讯框>;NPC-Kalin(7)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>무슨 일이지? 여기까지 땅이 울리는데.</color>
+NPC-AngeDamage(4);NPC-Kalin(7)<Speaker>지휘관</Speaker>||:공군의 폭격을 호출했습니다. 지상의 군부대는 이걸로 끝장났겠지만, 기지 내부로 일부 병력이 진입했습니다.
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>;NPC-Kalin(7)||:<color=#00CCFF>칫... 예고르의 기갑 유닛은 성가시긴 하지만, 아직 철혈과 실랑이를 벌이고 있어.</color>+<color=#00CCFF>놈들을 해치울 방법이 떠올랐는데, 그쪽의 도움이 필요해.</color>
+NPC-AngeDamage(4);NPC-Kalin(7)<Speaker>지휘관</Speaker>||:무엇입니까?
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>;NPC-Kalin(7)||:<color=#00CCFF>내가 여기로 잠입했을 땐 수로를 통해서 들어왔어. 이 기지에는 바다로 연결되는 4개의 수문이 있거든.</color>+<color=#00CCFF>놈들을 지하 1층에 묶어둘 수만 있다면, 그 수문을 동시에 열어서 놈들을 수장시킬 수 있어.</color>+<color=#00CCFF>하지만 밸브는 전부 기지 지상에 있으니까, 위치 전송해 줄 테니 열든 부수든 그쪽에 부탁할게.</color>
+NPC-AngeDamage(4);NPC-Kalin(7)<Speaker>지휘관</Speaker>||:그럼 그쪽은 어떻게 탈출할 겁니까?
+NPC-AngeDamage(4)<Speaker>안젤리아</Speaker>;NPC-Kalin(7)||:<color=#00CCFF>적이 목적을 이루도록 놔둘 수도 없어. 철혈, 예고르, 패러데우스, 그 누구도.</color>
+NPC-AngeDamage(4);NPC-Kalin(7)<Speaker>지휘관</Speaker>||:......+알겠습니다.
+NPC-Kalin(7)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:통신 종료.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||<SE1>ClothingUp</SE1>:어, 지휘관님 뭐 하세요?+왜 방탄조끼까지 꺼내 입으시는...+엑, 그 권총이랑 배낭은...?
+NPC-Kalin(4)<Speaker>지휘관</Speaker>||<BGM>BGM_Wake</BGM>:그래, 예전에 크루거 씨께 받은 거야.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:아니 그걸 말하는 게 아니잖아요, 어디 가시려고요?!
+NPC-Kalin(4)<Speaker>지휘관</Speaker>||:안젤리아 씨가 한 얘기 들었잖아?
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:인형들도 돌아오지 않았는데 혼자 움직이시면 너무 위험해요!
+NPC-Kalin(4)<Speaker>지휘관</Speaker>||:알아, 나도 혼자 갈 생각은 없어.+K, 받아.
+NPC-Jason(1)<Speaker>K</Speaker>;NPC-Kalin(4)||:원격 폭탄?
+NPC-Jason(1);NPC-Kalin(4)<Speaker>지휘관</Speaker>||:소령씩이나 되니, 이 정도 임무는 식은 죽 먹기겠지?
+NPC-Jason(1)<Speaker>K</Speaker>;NPC-Kalin(4)||:흥, 네가 빵을 먹은 횟수보다 훨씬 더 많이 훈련받은 몸이다.
+NPC-Jason(1)<Speaker></Speaker>;NPC-Kalin(4)||:K는 지휘관의 말에 콧방귀를 뀌며 받은 폭탄을 배낭에 넣고, 능숙한 솜씨로 무기를 점검했다.
+NPC-Jason(1);NPC-Kalin(4)<Speaker>지휘관</Speaker>||:하, 본격적으로 싸우기도 전에 기절해서 드러누워 있던 사람이 누구시더라?
+NPC-Jason(1)<Speaker>K</Speaker>;NPC-Kalin(4)||:난 항상 인형 뒤에 숨어서 명령만 내리는 너와는 다르니까 말이지.
+NPC-Jason(1);NPC-Kalin(4)<Speaker>카리나</Speaker>||:저기... 두 분 다 설마...!
+NPC-Jason(1);NPC-Kalin(4)<Speaker>지휘관</Speaker>||:그래, 그 설마야. 평소에 전술 훈련 빠지지 않고 참여해서 망정이지.+안젤리아가 표기한 위치다. 각각 2개씩, 문제없지?
+NPC-Jason(1)<Speaker>K</Speaker>;NPC-Kalin(4)||:알았다.
+NPC-Jason(1);NPC-Kalin(4)<Speaker>카리나</Speaker>||:저... 잠깐 기다려 주세요!+지휘관님, 저도요!
+NPC-Jason(1);NPC-Kalin(4)<Speaker>지휘관</Speaker>||:응...?
+NPC-Jason(1);NPC-Kalin(8)<Speaker>카리나</Speaker>||:저도 하나 주세요.
+NPC-Kalin(8)<Speaker>지휘관</Speaker>||:뭐라고?
+NPC-Kalin(8)<Speaker></Speaker>||:카리나는 손을 내밀며 큰 소리로 외쳤다.
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:저도 하나 주세요! 지휘관님 대신 제가 하나 설치할게요!
+NPC-Kalin(8)<Speaker>지휘관</Speaker>||:아니, 넌 여기 남아 있으렴.
+NPC-Kalin(8)<Speaker></Speaker>||:항상 밝게 미소 짓는 이 말괄량이 보급관 아가씨는, 이런 위험하기 짝이 없는 전장에 어울리는 사람이 아니었다. 그럼에도, 고비마다 항상 곁에 있어 주었다.+이 이상 그녀를 위험에 빠뜨릴 순 없었다.
+NPC-Kalin(8)<Speaker>지휘관</Speaker>||:복귀하는 인형에게 지시를 내리고 보급을 해 줄 사람이 있어야 해.+누군가는 지휘부를 지켜야 하잖니. 이것도 아주 중요한 일이야.+무슨 말인지 알겠지, 카리나?
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:하지만...
+NPC-Kalin(8)<Speaker>지휘관</Speaker>||:카리나, 명령이야. 생존한 인형들을 집결시키도록 해.
+NPC-Kalin(4)<Speaker></Speaker>||:카리나는 입을 다물고 지휘관을 바라보았다. 그리고 잠시 후, 사뭇 진지한 표정으로 고개를 끄덕였다.+그 눈가에 맺힌 눈물을 못 본 체하면서, 지휘관은 고개를 돌려야만 했다.
+()<Speaker>지휘관</Speaker>||<黑屏1>:K, 준비됐으면 출발하자. 모두 살아서 다시 보자고!

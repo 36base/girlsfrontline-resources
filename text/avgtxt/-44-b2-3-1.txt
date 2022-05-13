@@ -1,24 +1,24 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>357</BIN><BGM>GF_EV9_Story</BGM>:베를린 시가지의 임시 지휘부.
-()<Speaker>지휘관</Speaker>||:...이상입니다.+의문점이나 질문 있으십니까?
-NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>......</color>
-()||:그리폰은 마흐리안의 파노라마에서 추출한 일부 영상의 녹화본을 주의깊게 살펴보았다.
-NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>역시 그랬군.</color>+<color=#00CCFF>놈은 정부가 여러 지역에 걸친 동시다발적 소규모 습격을 막을 능력이 없다는 걸 노리고 있어.</color>+<color=#00CCFF>한 곳에 대규모 공세를 가하는 것보다 성공률도 훨씬 높지.</color>+<color=#00CCFF>계획도 아주 치밀해...</color>
-NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:이미 알아내신 게 있으신 모양이군요.
-NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>이러한 계획이 존재한단 것만 알았지, 구체적으로 어떻게 실행하려는지는 전혀 두서가 없었네.</color>+<color=#00CCFF>하나 묻지, 자네는 마흐리안에게서 얻은 이 정보가 신뢰성이 있다 판단하나?</color>
-NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:염려하시는 것도 이해합니다.+너무나도 쉽게 마흐리안을 확보했고, 또 이렇게 간단하게 패러데우스의 중대한 계획에 대한 정보까지 얻었죠.+모든 게 순조로워서 오히려 의심될 정도입니다.
-NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>주입된 기억일 가능성은 배제했겠지?</color>
-NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:물론입니다, 자세히 검사해본 결과 외부에서 주입된 데이터가 아님이 확실합니다.+하지만 여전히 아리송한 부분이 있습니다.
-NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>마흐리안 본인 말이로군.</color>
-NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:네, 그녀가 이 계획에서 어떤 역할을 맡았는지 파악할 수가 없습니다.+그녀의 기억은 부서진 유리처럼 산산조각이라, 대체 어디서 무엇을 겪었는지 판단이 불가합니다.+그녀가 함정의 미끼인지, 계획 진행 도중 발생한 변수인지도 알 수 없고요.
-NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>진실이 어떻든 조사할 가치는 있지.</color>
-NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:이게 함정이든 진정한 계획이든, 배후의 조종자가 남긴 흔적이 분명합니다.+이 영상에 나타난 장소를 알아내 더 자세히 조사해야 합니다.+이것들이 이미 일어났지만 은폐된 사건들인지, 아직 진행 중인 계획인지를 알아내야 합니다.
-NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>자원은 걱정 말고 마음껏 쓰도록 하게.</color>+<color=#00CCFF>대신, 더욱 상세한 보고와 모든 기억 파편 촬영 영상을 보내도록.</color>+<color=#00CCFF>정보에 있어선 우리 모두 허심탄회하게 생각을 공유할 수 있기를 바라네.</color>+<color=#00CCFF>누가 뭐래도, 재난을 막아내 더 좋은 세상을 만드는 것이 우리의 공통된 목표잖나.</color>
-NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:알겠습니다.
-NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>그럼, 또 좋은 소식 기대하겠네.</color>
-()||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
-()<Speaker>지휘관</Speaker>||:RO, 페로사, 즉시 소대 집합시켜.
-RO635Mod(0)<Speaker>RO635</Speaker>||:네!
-VP1915(0)<Speaker>페로사</Speaker>||:알겠습니다.
-()<Speaker>지휘관</Speaker>||:댄들라이, 너와 함께 마흐리안의 기억 속으로 들어갈 멤버들을 골라 최대한 빨리 모든 습격 관련 영상을 선별해내도록 해.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||<黑点1>:네, 인형들도 통과할 통로를 연결했습니다.+언제든지 시작 가능합니다.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>357</BIN><BGM>GF_EV9_Story</BGM>:베를린 시가지의 임시 지휘부.
+()<Speaker>지휘관</Speaker>||:...이상입니다.+의문점이나 질문 있으십니까?
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>......</color>
+()||:그리폰은 마흐리안의 파노라마에서 추출한 일부 영상의 녹화본을 주의깊게 살펴보았다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>역시 그랬군.</color>+<color=#00CCFF>놈은 정부가 여러 지역에 걸친 동시다발적 소규모 습격을 막을 능력이 없다는 걸 노리고 있어.</color>+<color=#00CCFF>한 곳에 대규모 공세를 가하는 것보다 성공률도 훨씬 높지.</color>+<color=#00CCFF>계획도 아주 치밀해...</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:이미 알아내신 게 있으신 모양이군요.
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>이러한 계획이 존재한단 것만 알았지, 구체적으로 어떻게 실행하려는지는 전혀 두서가 없었네.</color>+<color=#00CCFF>하나 묻지, 자네는 마흐리안에게서 얻은 이 정보가 신뢰성이 있다 판단하나?</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:염려하시는 것도 이해합니다.+너무나도 쉽게 마흐리안을 확보했고, 또 이렇게 간단하게 패러데우스의 중대한 계획에 대한 정보까지 얻었죠.+모든 게 순조로워서 오히려 의심될 정도입니다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>주입된 기억일 가능성은 배제했겠지?</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:물론입니다, 자세히 검사해본 결과 외부에서 주입된 데이터가 아님이 확실합니다.+하지만 여전히 아리송한 부분이 있습니다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>마흐리안 본인 말이로군.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:네, 그녀가 이 계획에서 어떤 역할을 맡았는지 파악할 수가 없습니다.+그녀의 기억은 부서진 유리처럼 산산조각이라, 대체 어디서 무엇을 겪었는지 판단이 불가합니다.+그녀가 함정의 미끼인지, 계획 진행 도중 발생한 변수인지도 알 수 없고요.
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>진실이 어떻든 조사할 가치는 있지.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:이게 함정이든 진정한 계획이든, 배후의 조종자가 남긴 흔적이 분명합니다.+이 영상에 나타난 장소를 알아내 더 자세히 조사해야 합니다.+이것들이 이미 일어났지만 은폐된 사건들인지, 아직 진행 중인 계획인지를 알아내야 합니다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>자원은 걱정 말고 마음껏 쓰도록 하게.</color>+<color=#00CCFF>대신, 더욱 상세한 보고와 모든 기억 파편 촬영 영상을 보내도록.</color>+<color=#00CCFF>정보에 있어선 우리 모두 허심탄회하게 생각을 공유할 수 있기를 바라네.</color>+<color=#00CCFF>누가 뭐래도, 재난을 막아내 더 좋은 세상을 만드는 것이 우리의 공통된 목표잖나.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:알겠습니다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>그럼, 또 좋은 소식 기대하겠네.</color>
+()||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
+()<Speaker>지휘관</Speaker>||:RO, 페로사, 즉시 소대 집합시켜.
+RO635Mod(0)<Speaker>RO635</Speaker>||:네!
+VP1915(0)<Speaker>페로사</Speaker>||:알겠습니다.
+()<Speaker>지휘관</Speaker>||:댄들라이, 너와 함께 마흐리안의 기억 속으로 들어갈 멤버들을 골라 최대한 빨리 모든 습격 관련 영상을 선별해내도록 해.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||<黑点1>:네, 인형들도 통과할 통로를 연결했습니다.+언제든지 시작 가능합니다.

@@ -1,104 +1,104 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-NPC-xiaodanyan(0)<Speaker>저번화 이야기</Speaker><Position>0,300</Position>||<SE1>AVG_show_start</SE1><黑屏2><BIN>9</BIN><黑屏1>:오, 또 만났네요! 히야~ 역시 출장 근무는 힘들다니까요!+지난 이야기에서, 지휘관을 도와 ELID 무리를 소탕한 유리네 일행이 어째 분위기가 좀 이상한 진보초로 돌아가기로 한 데까지 나왔죠?+그런데 짜잔! 문을 넘은 그곳은 정말로 모두가 알던 모습의 진보초가 아니었습니다!+인간은 모조리 잠들고, 마물들이 거리를 누비는 그야말로 마경! 그리고 사신짱과 우로보로스의 행방은 오리무중이지요...+사상 초유의 위기에서, 유리네 일행은 과연 소중한 친구들을 구할 수 있을 것인가?+네, 여기까지. 전 다음 버스 타고 돌아갈 거라서요. 닷씨는 이런 초장거리 출장 근무 안 받을 거예――어?+<size=50>헉! 버스 기사 아저씨, 기다려요!! 기사 아저씨!!!</size>
-()||<黑屏2><BIN>384</BIN><common_effect>%%code=RedScreen%%</common_effect>:진보초의 공원.+대폭발을 고스란히 맞은 듯 머리가 어지러운 우로보로스가, 천천히 몸을 일으켰다.
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||<SE1>VO_Jashinchan_MOOD2_JP</SE1><BGM>GF_Jyashinchan_Story_Jinbouchou</BGM>:아~하하하하하하!
-()||:반면 팔팔한 사신짱은 미끄럼틀 꼭대기에 위풍당당하게 서 있었다.
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:이 사신짱이 세계의 왕이 되었노라!+이제부터 마음껏 슈퍼 빌런짓을 하고 다닐 거예요!
-Jashinchan(8)<Position>0,100</Position>;Weaver(3)<Speaker>우로보로스</Speaker>||:......
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>;Weaver(3)||:제일 먼저――!!+여기다 식당을 세우도록 하죠.
-Jashinchan(8)<Position>0,100</Position>;Weaver(3)<Speaker>우로보로스</Speaker><Shake>||:그게 빌런이 하는 짓이냐?
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>;Weaver(3)||:세상에, 공공장소 한복판에다 식당을 세우다니!+이 얼마나 사악한 짓인가! 비둘기 남작이 울고 가겠다!
-Jashinchan(8)<Position>0,100</Position>;Weaver(3)<Speaker>우로보로스</Speaker>||:......
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>;Weaver(3)||:게다가게다가, 유리네를 점원으로 부려먹을 거예요! 와하하하하하!!
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:끝을 모르는 사악함에 자신마저 소름이 다 돋네요!
-Weaver(3)<Speaker>우로보로스</Speaker>||:......
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:그리고 우롱이양도 사돈 남 말하긴~ 태클 걸면서 벌써 아지트를 만들었잖아요?
-Weaver(3)<Speaker>우로보로스</Speaker>||:뭐?
-()||:심상찮은 낌새를 느낀 우로보로스가 뒤를 돌아보니, 웬 철혈 기지가 부자연스럽게 덩그러니 생겨나 있었다. 바로 예전의 자신의 관할 구역 기지였다.
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:우롱이양도 고향을 그리워하는 마음이 있었군요~
-Weaver(3)<Speaker>우로보로스</Speaker>||:대체... 어떻게...?
-()||<黑屏1><BGM>BGM_Empty</BGM>:사신짱의 말은 우로보로스에게 들리지 않았다. 난데없이 나타난 옛 기지에, 우로보로스는 홀린 듯 그 안으로 들어갔다.
-()||<黑屏2><BIN>34</BIN><关闭蒙版><BGM>m_avg_labyrinth</BGM>:옛 기지는 내부 구조도 자신의 기억과 완벽하게 일치했다.+벽에 남은 404 소대와 격전 벌인 흔적은 물론 분명 꾸깃꾸깃 구겨서 버렸을 터인 철혈 인형들의 단체 사진까지, 전부.+우로보로스는 복잡한 심정으로 그 사진을 집어 들었다.
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:오오... 여기가 우롱이양이 말한 그리폰 기지인가요?
-Weaver(3)<Speaker>우로보로스</Speaker>||:아니, 여긴... 예전에 내가 있었던 곳이다.
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:근데 왜 쟤네가 여기 있어요?
-Weaver(3)<Speaker>우로보로스</Speaker>||:......
-()||:세 그리폰 인형들이, 사신짱이 가리킨 기지의 한구석에 조용히 누워 있었다.+제한 설정 중 그리폰 인형에게 위해를 가하면 안 된다는 조항 때문인지, 우로보로스가 무의식 중에 그들을 자신이 가장 안전하다 여기는 곳에 둔 듯했다.
-Weaver(3)<Speaker>우로보로스</Speaker>||:......글쎄다.
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:우롱이양 집엔 다른 사람 없어요? 엄청 큰데 되게 썰렁하네요.
-Weaver(3)<Speaker>우로보로스</Speaker>||:당연히 다른 놈들도 있었지. 다 꼴도 보기 싫은 놈들뿐이지만.
-BOSS-8(0)<Speaker>에이전트?</Speaker>||:돌아왔구나, 우로보로스.
-Weaver(3)<Speaker>우로보로스</Speaker>||:......+호랑이도 제 말 하면 온다더니.
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:오우, 우롱이양의 친구... 어? 메이드?
-BOSS-8(0)<Speaker>에이전트?</Speaker>||:임무를 훌륭하게 완수하였구나. 엘리사 주인님께서도 만족해하셨다.
-Weaver(3)<Speaker>우로보로스</Speaker>||:알았으니 나가라.
-BOSS-8(0)<Speaker>에이전트?</Speaker>||:수고 많았다. 헌터를 시켜 피로를 풀어 주도록 하마.
-Weaver(3)<Speaker>우로보로스</Speaker>||:...그래, 엑스큐셔너도 불러서 인디언 춤이나 추라고 해.
-BOSS-8(0)<Speaker>에이전트?</Speaker>||:그리하마.
-()||:"에이전트"는 우아하게 물러나, 어둠 속으로 사라졌다.
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:오우야... 우롱이양 카리스마 넘치네요!
-Weaver(3)<Speaker>우로보로스</Speaker>||:아직 시작도 안 했다.
-BOSS-11(0)<Speaker>드리머?</Speaker>||:어서 돌아와~ 맡은 임무 대성공이었다며? 엘더 브레인 님한테도 인정받았다고 들었어.
-Weaver(3)<Speaker>우로보로스</Speaker>||:그래.
-BOSS-11(0)<Speaker>드리머?</Speaker>||:앞으로의 활약, 기대할게. 난 지금 따로 할 일이 있어서 이만~
-BossCerberus(0)<Speaker>디스트로이어?</Speaker><Position>0,150</Position>||:멍멍!
-Weaver(3)<Speaker>우로보로스</Speaker>||:...알았으니 가라.
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:아하하, 이 멍멍이 되게 귀엽네요!
-()||:사신짱이 호들갑 떨었지만, 우로보로스는 껌껌한 복도 너머를 응시할 뿐이었다.
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:응? 어디 가요?
-Jashinchan(8) <Position>0,100</Position>;Weaver(3)<Speaker>우로보로스</Speaker>||:해야만 하는 일이 있다.
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>;Weaver(3)||:그 엑스뭐시기란 사람의 인디언 춤은 안 봐요?
-Jashinchan(8) <Position>0,100</Position>;Weaver(3)<Speaker>우로보로스</Speaker>||:어차피 놈이 취할 때면 질리도록 볼 수 있어.
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>;Weaver(3)||:오호... 그럼 저도 같이 갈게요.
-Jashinchan(8) <Position>0,100</Position>;Weaver(3)<Speaker>우로보로스</Speaker>||:아니, 이건 반드시 나 혼자서 할 일이다. 구렁이 네놈은 여기서 있어라.
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>;Weaver(3)||:엑, 왜요!?
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:전 혼자서 뭐하라고요!!
-()||:우로보로스가 주위를 둘러보다, CZ75가 바닥에 떨어뜨린 도끼를 주워들었다.
-Weaver(3)<Speaker>우로보로스</Speaker>||:그나마 쓸 만한 건 이것뿐인가...
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:우, 우롱이양! 저만 놔두고 가지 말아요!+지금 우롱이양 말고 아무도 없단 말예요!
-Weaver(3)<Speaker>우로보로스</Speaker>||:식당을 세워 유리네를 점원으로 부려먹겠다 하지 않았나?
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:그랬죠...
-Weaver(3)<Speaker>우로보로스</Speaker>||:그럼 네놈도 따로 할 일이 있군. 내 말이 틀렸느냐?
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:저, 저도 당연히 할일이 산더미죠! 우롱이양 없으면 갈 곳 없는 처량한 신세가 저저저절대 아니라고요!
-Weaver(3)<Speaker>우로보로스</Speaker>||:그럼 됐다. 각자 할 일을 다한 다음 보자.
-()||:우로보로스는 복도 끝의 문을 열고, 시커먼 어둠 속으로 사라졌다.
-()<Speaker>사신짱</Speaker><Position>0,100</Position>||<黑屏1>:그치만... 혼자는 싫단 말예요...
-()||<黑屏2><BIN>384</BIN><common_effect>%%code=RedScreen%%</common_effect><BGM>BGM_Empty</BGM>:한편, 유리네 일행은 인형들의 지원을 받으며 공원에 도착했다.
-K5(0)<Speaker>K5</Speaker>||<BGM>m_avg_tension</BGM>:어휴 힘들어... 적들이 뭐 이렇게 끝이 없어?
-Minosu(2)<Speaker>미노스</Speaker>||:마계에서도 마물들이 이렇게 잔뜩인 건 본 적이 없는데...
-Medusa(0)<Speaker>메두사</Speaker>||:이 마물들, 마법으로 만들어낸 거 같아. 쓰러지면 바로 사라져.
-BOSS-8(0)<Speaker>에이전트</Speaker>||:주인님, 주위를 청소하면서 유리네 님이 말씀하신 목표 지점에 도착하였사옵니다.
-Yurine(0)<Speaker>유리네</Speaker>||:확실해... 여기가 마력의 폭심지야. 결계는 여기서부터 만들어졌어.
-Yurine(3)<Speaker>유리네</Speaker>||:이런 짓은 사신짱 말곤 할 사람이 없지.
-K5(0)<Speaker>K5</Speaker>||:그럼 걔는 지금 어디 있을까?
-BOSS-8(0)<Speaker>에이전트</Speaker>||:......
-()||:에이전트가 아주 부자연스럽게 덩그러니 세워져 있는 건물의 대문을 말없이 바라보았다.
-K5(0)<Speaker>K5</Speaker>||:이거... 철혈 기지 아니야?
-BOSS-8(0)<Speaker>에이전트</Speaker>||:그렇사옵니다. 우로보로스의 예전 소굴이로군요.
-Yurine(4)<Speaker>유리네</Speaker>||<黑屏1>:들어가보자.
-()||<黑屏2><BIN>34</BIN><关闭蒙版>:기지 내부로 들어가자마자, 곧바로 그리폰 인형의 신호가 감지되었다.+그리고 그 신호를 따라가 보니, 잠들어 있는 세 인형이 있었다.+CZ75, NZ75, 그리고 P90은 바닥에 조용히 누운 채로, 서로 손을 꼭 맞잡고 있었다.
-K5(0)<Speaker>K5</Speaker>||:얘들아! 대체 무슨 일이 있었던 거지?!
-BOSS-8(0)<Speaker>에이전트</Speaker>||:단순 기능 정지로 추정되오나, 흔들어 봤자 깨어날 일 없으니 이대로 회수하는 것이 어떨런지요?
-()<Speaker>지휘관</Speaker>||:<color=#00CCFF>그래, 이쪽에서 검사해보자. K5는 셋을 회수하고, 나머지는 유리네를 도와 계속 수색하도록.</color>
-K5(0)<Speaker>K5</Speaker>||:응, 바로 데리고 갈게!
-BOSS-8(0)<Speaker>에이전트</Speaker>||:......
-()||:에이전트는 CZ75의 손에 그녀의 도끼가 아닌 벗겨진 검은 장갑이 쥐어져 있는 것을 눈치챘다.
-Yurine(0)<Speaker>유리네</Speaker>||:지휘관, 이들은 폭심지에 너무 가까이 있어서 강한 충격에 기절한 거 같아요.
-BOSS-8(0)<Speaker>에이전트</Speaker>||:우로보로스는 몸뚱이는커녕 흔적도 보이지 않는군요.
-Minosu(0)<Speaker>미노스</Speaker>||:그럼 분명 근처에 있을 거야, 내가 사신짱 쫓아다닐 때 둘이 한패였어.
-BOSS-8(0)<Speaker>에이전트</Speaker>||:그렇다면 이곳은 저희에게 맡겨 주십시오.
-K5(0)<Speaker>K5</Speaker>||:뭐? 하지만...
-BOSS-8(0)<Speaker>에이전트</Speaker>||:이곳은 본디 철혈의 영역. 문제 없사옵니다.
-BOSS-2(0)<Speaker>엑스큐셔너</Speaker>||:그러니까 괜한 소리 말고 네녀석들은 그 사신짱인가 뭔가 하는 놈이나 찾으러 가.
-Minosu(0)<Speaker>미노스</Speaker>||:그렇게까지 말한다면야. 무슨 일 생기면 연락해!
-()<Speaker>지휘관</Speaker>||:<color=#00CCFF>그럼 셋으로 나뉘는 게 좋겠군. 유리네와 메두사, 미노스는 사신짱을 수색, K5는 그대로 셋을 회수해 데려온 다음 다시 유리네를 지원하러 가고, 에이전트는 철혈 부대와 함께 기지를 수색하도록 하자.</color>
-K5(0)<Speaker>K5</Speaker>||:응!
-()||<BGM>BGM_Empty</BGM>:삭막한 기지에는 다시 철혈만 남게 되었다.+에이전트는 품에서 태블릿을 꺼내, 신호 추적을 계속했다.
-BOSS-3(0)<Speaker>헌터</Speaker>||:우로보로스의 신호는 안 느껴지지만, 확실히 여기 어딘가에 있다는 느낌은 드는군.
-BOSS-2(0)<Speaker>엑스큐셔너</Speaker>||:그 음침한 녀석, 또 무슨 짓을 벌였을지 궁금한걸?
-BOSS-8(0)<Speaker>에이전트</Speaker>||:쉿.
-()||<SE1>AVG_21Winter_FT_Heel</SE1>:그때, 복도 너머에서 높은 구두가 또각또각 바닥을 디디는 소리가 들려왔다.
-BOSS-8(0)<Speaker>에이전트</Speaker>||:......
-BOSS-2(0)<Speaker>엑스큐셔너</Speaker>||:저건——
-()||<SE1>Stop_AVG_loop</SE1>:매우 낯익은 여성이 어둠 속에서 걸어 나와 우아하게 인사했다.
-BOSS-8(0)<Speaker>에이전트</Speaker>||<黑点1>:흠... 아무래도, 우로보로스가 우릴 위해 정성들여 즐길 거리를 마련한 듯 싶구나.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+NPC-xiaodanyan(0)<Speaker>저번화 이야기</Speaker><Position>0,300</Position>||<SE1>AVG_show_start</SE1><黑屏2><BIN>9</BIN><黑屏1>:오, 또 만났네요! 히야~ 역시 출장 근무는 힘들다니까요!+지난 이야기에서, 지휘관을 도와 ELID 무리를 소탕한 유리네 일행이 어째 분위기가 좀 이상한 진보초로 돌아가기로 한 데까지 나왔죠?+그런데 짜잔! 문을 넘은 그곳은 정말로 모두가 알던 모습의 진보초가 아니었습니다!+인간은 모조리 잠들고, 마물들이 거리를 누비는 그야말로 마경! 그리고 사신짱과 우로보로스의 행방은 오리무중이지요...+사상 초유의 위기에서, 유리네 일행은 과연 소중한 친구들을 구할 수 있을 것인가?+네, 여기까지. 전 다음 버스 타고 돌아갈 거라서요. 닷씨는 이런 초장거리 출장 근무 안 받을 거예――어?+<size=50>헉! 버스 기사 아저씨, 기다려요!! 기사 아저씨!!!</size>
+()||<黑屏2><BIN>384</BIN><common_effect>%%code=RedScreen%%</common_effect>:진보초의 공원.+대폭발을 고스란히 맞은 듯 머리가 어지러운 우로보로스가, 천천히 몸을 일으켰다.
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||<SE1>VO_Jashinchan_MOOD2_JP</SE1><BGM>GF_Jyashinchan_Story_Jinbouchou</BGM>:아~하하하하하하!
+()||:반면 팔팔한 사신짱은 미끄럼틀 꼭대기에 위풍당당하게 서 있었다.
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:이 사신짱이 세계의 왕이 되었노라!+이제부터 마음껏 슈퍼 빌런짓을 하고 다닐 거예요!
+Jashinchan(8)<Position>0,100</Position>;Weaver(3)<Speaker>우로보로스</Speaker>||:......
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>;Weaver(3)||:제일 먼저――!!+여기다 식당을 세우도록 하죠.
+Jashinchan(8)<Position>0,100</Position>;Weaver(3)<Speaker>우로보로스</Speaker><Shake>||:그게 빌런이 하는 짓이냐?
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>;Weaver(3)||:세상에, 공공장소 한복판에다 식당을 세우다니!+이 얼마나 사악한 짓인가! 비둘기 남작이 울고 가겠다!
+Jashinchan(8)<Position>0,100</Position>;Weaver(3)<Speaker>우로보로스</Speaker>||:......
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>;Weaver(3)||:게다가게다가, 유리네를 점원으로 부려먹을 거예요! 와하하하하하!!
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:끝을 모르는 사악함에 자신마저 소름이 다 돋네요!
+Weaver(3)<Speaker>우로보로스</Speaker>||:......
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:그리고 우롱이양도 사돈 남 말하긴~ 태클 걸면서 벌써 아지트를 만들었잖아요?
+Weaver(3)<Speaker>우로보로스</Speaker>||:뭐?
+()||:심상찮은 낌새를 느낀 우로보로스가 뒤를 돌아보니, 웬 철혈 기지가 부자연스럽게 덩그러니 생겨나 있었다. 바로 예전의 자신의 관할 구역 기지였다.
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:우롱이양도 고향을 그리워하는 마음이 있었군요~
+Weaver(3)<Speaker>우로보로스</Speaker>||:대체... 어떻게...?
+()||<黑屏1><BGM>BGM_Empty</BGM>:사신짱의 말은 우로보로스에게 들리지 않았다. 난데없이 나타난 옛 기지에, 우로보로스는 홀린 듯 그 안으로 들어갔다.
+()||<黑屏2><BIN>34</BIN><关闭蒙版><BGM>m_avg_labyrinth</BGM>:옛 기지는 내부 구조도 자신의 기억과 완벽하게 일치했다.+벽에 남은 404 소대와 격전 벌인 흔적은 물론 분명 꾸깃꾸깃 구겨서 버렸을 터인 철혈 인형들의 단체 사진까지, 전부.+우로보로스는 복잡한 심정으로 그 사진을 집어 들었다.
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:오오... 여기가 우롱이양이 말한 그리폰 기지인가요?
+Weaver(3)<Speaker>우로보로스</Speaker>||:아니, 여긴... 예전에 내가 있었던 곳이다.
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:근데 왜 쟤네가 여기 있어요?
+Weaver(3)<Speaker>우로보로스</Speaker>||:......
+()||:세 그리폰 인형들이, 사신짱이 가리킨 기지의 한구석에 조용히 누워 있었다.+제한 설정 중 그리폰 인형에게 위해를 가하면 안 된다는 조항 때문인지, 우로보로스가 무의식 중에 그들을 자신이 가장 안전하다 여기는 곳에 둔 듯했다.
+Weaver(3)<Speaker>우로보로스</Speaker>||:......글쎄다.
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:우롱이양 집엔 다른 사람 없어요? 엄청 큰데 되게 썰렁하네요.
+Weaver(3)<Speaker>우로보로스</Speaker>||:당연히 다른 놈들도 있었지. 다 꼴도 보기 싫은 놈들뿐이지만.
+BOSS-8(0)<Speaker>에이전트?</Speaker>||:돌아왔구나, 우로보로스.
+Weaver(3)<Speaker>우로보로스</Speaker>||:......+호랑이도 제 말 하면 온다더니.
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:오우, 우롱이양의 친구... 어? 메이드?
+BOSS-8(0)<Speaker>에이전트?</Speaker>||:임무를 훌륭하게 완수하였구나. 엘리사 주인님께서도 만족해하셨다.
+Weaver(3)<Speaker>우로보로스</Speaker>||:알았으니 나가라.
+BOSS-8(0)<Speaker>에이전트?</Speaker>||:수고 많았다. 헌터를 시켜 피로를 풀어 주도록 하마.
+Weaver(3)<Speaker>우로보로스</Speaker>||:...그래, 엑스큐셔너도 불러서 인디언 춤이나 추라고 해.
+BOSS-8(0)<Speaker>에이전트?</Speaker>||:그리하마.
+()||:"에이전트"는 우아하게 물러나, 어둠 속으로 사라졌다.
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:오우야... 우롱이양 카리스마 넘치네요!
+Weaver(3)<Speaker>우로보로스</Speaker>||:아직 시작도 안 했다.
+BOSS-11(0)<Speaker>드리머?</Speaker>||:어서 돌아와~ 맡은 임무 대성공이었다며? 엘더 브레인 님한테도 인정받았다고 들었어.
+Weaver(3)<Speaker>우로보로스</Speaker>||:그래.
+BOSS-11(0)<Speaker>드리머?</Speaker>||:앞으로의 활약, 기대할게. 난 지금 따로 할 일이 있어서 이만~
+BossCerberus(0)<Speaker>디스트로이어?</Speaker><Position>0,150</Position>||:멍멍!
+Weaver(3)<Speaker>우로보로스</Speaker>||:...알았으니 가라.
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:아하하, 이 멍멍이 되게 귀엽네요!
+()||:사신짱이 호들갑 떨었지만, 우로보로스는 껌껌한 복도 너머를 응시할 뿐이었다.
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:응? 어디 가요?
+Jashinchan(8) <Position>0,100</Position>;Weaver(3)<Speaker>우로보로스</Speaker>||:해야만 하는 일이 있다.
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>;Weaver(3)||:그 엑스뭐시기란 사람의 인디언 춤은 안 봐요?
+Jashinchan(8) <Position>0,100</Position>;Weaver(3)<Speaker>우로보로스</Speaker>||:어차피 놈이 취할 때면 질리도록 볼 수 있어.
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>;Weaver(3)||:오호... 그럼 저도 같이 갈게요.
+Jashinchan(8) <Position>0,100</Position>;Weaver(3)<Speaker>우로보로스</Speaker>||:아니, 이건 반드시 나 혼자서 할 일이다. 구렁이 네놈은 여기서 있어라.
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>;Weaver(3)||:엑, 왜요!?
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:전 혼자서 뭐하라고요!!
+()||:우로보로스가 주위를 둘러보다, CZ75가 바닥에 떨어뜨린 도끼를 주워들었다.
+Weaver(3)<Speaker>우로보로스</Speaker>||:그나마 쓸 만한 건 이것뿐인가...
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:우, 우롱이양! 저만 놔두고 가지 말아요!+지금 우롱이양 말고 아무도 없단 말예요!
+Weaver(3)<Speaker>우로보로스</Speaker>||:식당을 세워 유리네를 점원으로 부려먹겠다 하지 않았나?
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:그랬죠...
+Weaver(3)<Speaker>우로보로스</Speaker>||:그럼 네놈도 따로 할 일이 있군. 내 말이 틀렸느냐?
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:저, 저도 당연히 할일이 산더미죠! 우롱이양 없으면 갈 곳 없는 처량한 신세가 저저저절대 아니라고요!
+Weaver(3)<Speaker>우로보로스</Speaker>||:그럼 됐다. 각자 할 일을 다한 다음 보자.
+()||:우로보로스는 복도 끝의 문을 열고, 시커먼 어둠 속으로 사라졌다.
+()<Speaker>사신짱</Speaker><Position>0,100</Position>||<黑屏1>:그치만... 혼자는 싫단 말예요...
+()||<黑屏2><BIN>384</BIN><common_effect>%%code=RedScreen%%</common_effect><BGM>BGM_Empty</BGM>:한편, 유리네 일행은 인형들의 지원을 받으며 공원에 도착했다.
+K5(0)<Speaker>K5</Speaker>||<BGM>m_avg_tension</BGM>:어휴 힘들어... 적들이 뭐 이렇게 끝이 없어?
+Minosu(2)<Speaker>미노스</Speaker>||:마계에서도 마물들이 이렇게 잔뜩인 건 본 적이 없는데...
+Medusa(0)<Speaker>메두사</Speaker>||:이 마물들, 마법으로 만들어낸 거 같아. 쓰러지면 바로 사라져.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:주인님, 주위를 청소하면서 유리네 님이 말씀하신 목표 지점에 도착하였사옵니다.
+Yurine(0)<Speaker>유리네</Speaker>||:확실해... 여기가 마력의 폭심지야. 결계는 여기서부터 만들어졌어.
+Yurine(3)<Speaker>유리네</Speaker>||:이런 짓은 사신짱 말곤 할 사람이 없지.
+K5(0)<Speaker>K5</Speaker>||:그럼 걔는 지금 어디 있을까?
+BOSS-8(0)<Speaker>에이전트</Speaker>||:......
+()||:에이전트가 아주 부자연스럽게 덩그러니 세워져 있는 건물의 대문을 말없이 바라보았다.
+K5(0)<Speaker>K5</Speaker>||:이거... 철혈 기지 아니야?
+BOSS-8(0)<Speaker>에이전트</Speaker>||:그렇사옵니다. 우로보로스의 예전 소굴이로군요.
+Yurine(4)<Speaker>유리네</Speaker>||<黑屏1>:들어가보자.
+()||<黑屏2><BIN>34</BIN><关闭蒙版>:기지 내부로 들어가자마자, 곧바로 그리폰 인형의 신호가 감지되었다.+그리고 그 신호를 따라가 보니, 잠들어 있는 세 인형이 있었다.+CZ75, NZ75, 그리고 P90은 바닥에 조용히 누운 채로, 서로 손을 꼭 맞잡고 있었다.
+K5(0)<Speaker>K5</Speaker>||:얘들아! 대체 무슨 일이 있었던 거지?!
+BOSS-8(0)<Speaker>에이전트</Speaker>||:단순 기능 정지로 추정되오나, 흔들어 봤자 깨어날 일 없으니 이대로 회수하는 것이 어떨런지요?
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>그래, 이쪽에서 검사해보자. K5는 셋을 회수하고, 나머지는 유리네를 도와 계속 수색하도록.</color>
+K5(0)<Speaker>K5</Speaker>||:응, 바로 데리고 갈게!
+BOSS-8(0)<Speaker>에이전트</Speaker>||:......
+()||:에이전트는 CZ75의 손에 그녀의 도끼가 아닌 벗겨진 검은 장갑이 쥐어져 있는 것을 눈치챘다.
+Yurine(0)<Speaker>유리네</Speaker>||:지휘관, 이들은 폭심지에 너무 가까이 있어서 강한 충격에 기절한 거 같아요.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:우로보로스는 몸뚱이는커녕 흔적도 보이지 않는군요.
+Minosu(0)<Speaker>미노스</Speaker>||:그럼 분명 근처에 있을 거야, 내가 사신짱 쫓아다닐 때 둘이 한패였어.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:그렇다면 이곳은 저희에게 맡겨 주십시오.
+K5(0)<Speaker>K5</Speaker>||:뭐? 하지만...
+BOSS-8(0)<Speaker>에이전트</Speaker>||:이곳은 본디 철혈의 영역. 문제 없사옵니다.
+BOSS-2(0)<Speaker>엑스큐셔너</Speaker>||:그러니까 괜한 소리 말고 네녀석들은 그 사신짱인가 뭔가 하는 놈이나 찾으러 가.
+Minosu(0)<Speaker>미노스</Speaker>||:그렇게까지 말한다면야. 무슨 일 생기면 연락해!
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>그럼 셋으로 나뉘는 게 좋겠군. 유리네와 메두사, 미노스는 사신짱을 수색, K5는 그대로 셋을 회수해 데려온 다음 다시 유리네를 지원하러 가고, 에이전트는 철혈 부대와 함께 기지를 수색하도록 하자.</color>
+K5(0)<Speaker>K5</Speaker>||:응!
+()||<BGM>BGM_Empty</BGM>:삭막한 기지에는 다시 철혈만 남게 되었다.+에이전트는 품에서 태블릿을 꺼내, 신호 추적을 계속했다.
+BOSS-3(0)<Speaker>헌터</Speaker>||:우로보로스의 신호는 안 느껴지지만, 확실히 여기 어딘가에 있다는 느낌은 드는군.
+BOSS-2(0)<Speaker>엑스큐셔너</Speaker>||:그 음침한 녀석, 또 무슨 짓을 벌였을지 궁금한걸?
+BOSS-8(0)<Speaker>에이전트</Speaker>||:쉿.
+()||<SE1>AVG_21Winter_FT_Heel</SE1>:그때, 복도 너머에서 높은 구두가 또각또각 바닥을 디디는 소리가 들려왔다.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:......
+BOSS-2(0)<Speaker>엑스큐셔너</Speaker>||:저건——
+()||<SE1>Stop_AVG_loop</SE1>:매우 낯익은 여성이 어둠 속에서 걸어 나와 우아하게 인사했다.
+BOSS-8(0)<Speaker>에이전트</Speaker>||<黑点1>:흠... 아무래도, 우로보로스가 우릴 위해 정성들여 즐길 거리를 마련한 듯 싶구나.

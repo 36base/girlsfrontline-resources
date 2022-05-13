@@ -1,54 +1,54 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>181</BIN><黑屏2><BGM>BGM_Room</BGM>:삐익.+통신 연결.
-AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>그래도 그렇지, 갑자기 뛰쳐나갈 필요는... 아무튼, AN94를 따라잡은 뒤에 같이 추적할게.</color>+<color=#00CCFF>정말로 "노드"를 발견하면, 즉시 파괴하는 거 맞아?</color>+<color=#00CCFF>그게 대체 뭐길래?</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AR15Mod(0)||:뭔지 네가 알 필요는 없어. "노드"로 의심되는 물건을 발견하면, 내 명령에 따라 즉시 파괴해.
-AR15Mod(0)<Speaker>AR15</Speaker>||:<color=#00CCFF>...알았어.</color>+<color=#00CCFF>지금 이 채널은 위험하니까, AN94를 따라잡은 뒤에 다시 연락할게.</color>
-AK12(0)<Speaker>AK12</Speaker>||:안젤리아, 이쪽 상황이 좀 심상치 않아.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:그래.+다음 통신을 기다리지, AR15.
-()||:안젤리아는 AR15와의 통신을 종료한 뒤, AK12에게 고개를 돌렸다.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:무슨 일이지?
-NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker>||:격리벽에서 상황 발생.+벽 바깥의 감염생물들 이외에도, 명령대로 주둔 중인 수비 부대도 감시하고 있었는데...+여태까지는 정해진 패턴에 따라 순찰 및 경계 작전을 진행하고 있었거든?+그런데 아까전부터 일부 유닛이 순찰 경로를 이탈해서 벽 꼭대기로 집합하고 있어.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AK12(0)||:적의 침입인가?
-NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker>||:아니, 외부 신호는 감지되지 않아.+방금 이탈한 유닛이 식별 신호를 변경하고 있어. 이 신호는... 하얀 세력이야.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AK12(0)||:"잎사귀가 썩는 건 먼저 뿌리가 썩은 다음."+도시 내부뿐이 아니라 여기까지...
-NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker>||:안젤리아, 이제 어떻게 할까?
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||<黑点1>:당장 M4와 함께 격리벽으로 이동, 정찰하면서 정보를 수집해.+현장 상황에 따라 다음 행동을 정하지.
-()||<黑点2><BGM>BGM_Empty</BGM><BIN>169</BIN>:몇 분 후.+AK12와 M4A1이 격리벽 구역에 도착했다.
-AK12(0)<Speaker>AK12</Speaker>||<BGM>BGM_Sneak</BGM>:안젤리아, 내부 분열이야.+격리벽 내부의 방위군이 둘로 나뉘어서 교전을 벌이고 있어.+현장 자료를 전송할게.
-AK12(0);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>그래, 알았어.</color>
-AK12(0)<Speaker>AK12</Speaker>;NPC-AngeStreet(0)||:계속 여기서 관찰하면 될까?
-AK12(0);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>...아니.</color>+<color=#00CCFF>AK12, M4A1, 지금부터 격리벽 방위군을 도와 반란군을 섬멸해라.</color>
-AK12(2)<Speaker>AK12</Speaker>;NPC-AngeStreet(0)||:정말 그렇게 할 거야? 아무리 반란군 진압이라지만, 외국 영토에서 무력을 행사하는 건...
-AK12(2);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>넌 또 언제부터 그렇게 우유부단해졌어?</color>
-AK12(0)<Speaker>AK12</Speaker>;NPC-AngeStreet(0)||:화 내지 마... 난 그냥 안젤리아가 진심인지 확인한 거야.+그렇게 하면 일이 어떻게 될지, 잘 생각해.
-AK12(0);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>어떻게 되는지야 잘 알다마다.</color>
-AK12(0)<Speaker>AK12</Speaker>;NPC-AngeStreet(0)||:그럼 지금부터 인간을 쏴야 하는 거네. 맞지?
-AK12(0);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>네가 보낸 정보에 따르면, 반란군에 인간은 얼마 없어. 인형과 기갑부대가 대부분이야.</color>+<color=#00CCFF>너희는 그저 놈들이 조종하는 인형과 기갑을 파괴해 방위군의 부담을 덜어주기만 하면 돼.</color>+<color=#00CCFF>물론, 어쩔 수 없을 경우 인간을 쏠 각오를 하도록.</color>
-M4A1Mod(3)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:안젤리아 씨. 명령에 이의를 제기할 생각은 없지만, 지금 저희의 임무와 관계 없는 교전에 끼어들어도 괜찮은 건가요?+저희의 목적은 "스피라에나 노드"를 찾아내 파괴하는 것이 아닌가요?
-M4A1Mod(3);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>이건 절대 "관계 없는" 일이 아니야, M4.</color>+<color=#00CCFF>반란군이 하얀 세력과 손 잡았다는 건, "스피라에나"와 분명 관계가 있어.</color>
-M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:무슨 근거에 따른 판단이죠?
-M4A1Mod(0);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>지금 도시 반대편에서 똑같은 일이 벌어지고 있으니까.</color>
-M4A1Mod(4)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:평화회담... 그러니까, 이건 하얀 세력의 협동 공격이란 뜻이군요.+하지만, 그렇다 한들 이곳에서의 무력 충돌이 "스피라에나"를 찾는 것보다 중요하다는 것을 증명하지는 않습니다.
-M4A1Mod(4);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>"확실한" 근거를 찾은 다음에 움직이면, 항상 한발 늦게 되지.</color>+<color=#00CCFF>나보다 네가 더 잘 알 텐데.</color>
-M4A1Mod(4)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:하지만...
-M4A1Mod(4);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>M4, 왜 그렇게 "스피라에나"에게 집착하는 거지?</color>
-M4A1Mod(3)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:......+그저, 원활한 임무 진행을 위해 의견을 피력했을 뿐입니다.
-AK12(0)<Speaker>AK12</Speaker>;NPC-AngeStreet(0)||:나도 M4의 말이 옳다고 생각하지만...+뭐 어쩌겠어. 안젤리아가 시키면 따라야지.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>알았으면 빨리 움직여.</color>
-AK12(0)<Speaker>AK12</Speaker>||<黑屏1>:그럼...+리벨리온, 지금부터 작전 개시.
-()||<BGM>BGM_Empty</BGM><黑屏2>:리벨리온의 작전이 시작되고서 몇 분 후.
-()||<BGM>BGM_Sneak</BGM>:통신 연결.
-AK12(0)<Speaker>AK12</Speaker>||<SE1>Gunfight</SE1>:왜 이런 상황에 연락했어?
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>지금 전투를 시작한 것 같네.</color>
-AK12(0)<Speaker>AK12</Speaker>;NPC-AngeStreet(0)||:지금 방어용 자동 병기를 처치하면서, 방위군과 반란군의 교전 지점으로 이동 중이야.+이럴 때 연락했다는 건... 좋은 소식이 아니겠지?
-AK12(0);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>그래.</color>+<color=#00CCFF>폭풍우가 오고 있어. 폭풍우를 피해 감염생물이 격리벽으로 접근 중이야.</color>
-AK12(0)<Speaker>AK12</Speaker>;NPC-AngeStreet(0)||:으음... 그거 곤란한데.+지금 격리벽의 상황을 봐선, 그게 전부 몰려왔다간 제대로 막지도 못할걸?
-AK12(0);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||<黑点1>:<color=#00CCFF>더 심각한 문제는, 폭풍이 붕괴 오염을 가속시킬 거야... 그렇게 되면 베오그라드 방위군은 평소보다 몇 배는 더 많은 감염자를 상대해야 해.</color>+<color=#00CCFF>상황이 돌이킬 수 없게 되기 전에 서둘러!</color>+<color=#00CCFF>시간이 얼마 남지 않았어!</color>
-()||<黑点2>:격리벽 통로 속.
-AK12(0)<Speaker>AK12</Speaker>||<SE1>Gunfight</SE1>:정말이지, 자동 병기가 엄청 많네...
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:방위군의 인력 부족을 충당하기 위해 이렇게 많이 설치했을 겁니다.
-M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:하지만 지금은 저것들이 우릴 막아서고 있잖아.+먼저 방위군에게 상황을 설명하면 일이 좀 더 쉬워질 거 같은데.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:반대합니다.+리벨리온의 존재를 함부로 노출해서는 안 됩니다.
-M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:하지만 이대로 가다간 임무에 지장이 생길걸?
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:잠시 생각해보죠. 분명 다른 방법이 있을 겁니다...
-M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||<黑点1>:다른 방법이라, 조금 기대되는걸?+하지만 할 거면 빨리 생각해내... 지금 시간이 정말 촉박하니까.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>181</BIN><黑屏2><BGM>BGM_Room</BGM>:삐익.+통신 연결.
+AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>그래도 그렇지, 갑자기 뛰쳐나갈 필요는... 아무튼, AN94를 따라잡은 뒤에 같이 추적할게.</color>+<color=#00CCFF>정말로 "노드"를 발견하면, 즉시 파괴하는 거 맞아?</color>+<color=#00CCFF>그게 대체 뭐길래?</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AR15Mod(0)||:뭔지 네가 알 필요는 없어. "노드"로 의심되는 물건을 발견하면, 내 명령에 따라 즉시 파괴해.
+AR15Mod(0)<Speaker>AR15</Speaker>||:<color=#00CCFF>...알았어.</color>+<color=#00CCFF>지금 이 채널은 위험하니까, AN94를 따라잡은 뒤에 다시 연락할게.</color>
+AK12(0)<Speaker>AK12</Speaker>||:안젤리아, 이쪽 상황이 좀 심상치 않아.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:그래.+다음 통신을 기다리지, AR15.
+()||:안젤리아는 AR15와의 통신을 종료한 뒤, AK12에게 고개를 돌렸다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:무슨 일이지?
+NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker>||:격리벽에서 상황 발생.+벽 바깥의 감염생물들 이외에도, 명령대로 주둔 중인 수비 부대도 감시하고 있었는데...+여태까지는 정해진 패턴에 따라 순찰 및 경계 작전을 진행하고 있었거든?+그런데 아까전부터 일부 유닛이 순찰 경로를 이탈해서 벽 꼭대기로 집합하고 있어.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AK12(0)||:적의 침입인가?
+NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker>||:아니, 외부 신호는 감지되지 않아.+방금 이탈한 유닛이 식별 신호를 변경하고 있어. 이 신호는... 하얀 세력이야.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AK12(0)||:"잎사귀가 썩는 건 먼저 뿌리가 썩은 다음."+도시 내부뿐이 아니라 여기까지...
+NPC-AngeStreet(0);AK12(0)<Speaker>AK12</Speaker>||:안젤리아, 이제 어떻게 할까?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||<黑点1>:당장 M4와 함께 격리벽으로 이동, 정찰하면서 정보를 수집해.+현장 상황에 따라 다음 행동을 정하지.
+()||<黑点2><BGM>BGM_Empty</BGM><BIN>169</BIN>:몇 분 후.+AK12와 M4A1이 격리벽 구역에 도착했다.
+AK12(0)<Speaker>AK12</Speaker>||<BGM>BGM_Sneak</BGM>:안젤리아, 내부 분열이야.+격리벽 내부의 방위군이 둘로 나뉘어서 교전을 벌이고 있어.+현장 자료를 전송할게.
+AK12(0);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>그래, 알았어.</color>
+AK12(0)<Speaker>AK12</Speaker>;NPC-AngeStreet(0)||:계속 여기서 관찰하면 될까?
+AK12(0);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>...아니.</color>+<color=#00CCFF>AK12, M4A1, 지금부터 격리벽 방위군을 도와 반란군을 섬멸해라.</color>
+AK12(2)<Speaker>AK12</Speaker>;NPC-AngeStreet(0)||:정말 그렇게 할 거야? 아무리 반란군 진압이라지만, 외국 영토에서 무력을 행사하는 건...
+AK12(2);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>넌 또 언제부터 그렇게 우유부단해졌어?</color>
+AK12(0)<Speaker>AK12</Speaker>;NPC-AngeStreet(0)||:화 내지 마... 난 그냥 안젤리아가 진심인지 확인한 거야.+그렇게 하면 일이 어떻게 될지, 잘 생각해.
+AK12(0);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>어떻게 되는지야 잘 알다마다.</color>
+AK12(0)<Speaker>AK12</Speaker>;NPC-AngeStreet(0)||:그럼 지금부터 인간을 쏴야 하는 거네. 맞지?
+AK12(0);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>네가 보낸 정보에 따르면, 반란군에 인간은 얼마 없어. 인형과 기갑부대가 대부분이야.</color>+<color=#00CCFF>너희는 그저 놈들이 조종하는 인형과 기갑을 파괴해 방위군의 부담을 덜어주기만 하면 돼.</color>+<color=#00CCFF>물론, 어쩔 수 없을 경우 인간을 쏠 각오를 하도록.</color>
+M4A1Mod(3)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:안젤리아 씨. 명령에 이의를 제기할 생각은 없지만, 지금 저희의 임무와 관계 없는 교전에 끼어들어도 괜찮은 건가요?+저희의 목적은 "스피라에나 노드"를 찾아내 파괴하는 것이 아닌가요?
+M4A1Mod(3);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>이건 절대 "관계 없는" 일이 아니야, M4.</color>+<color=#00CCFF>반란군이 하얀 세력과 손 잡았다는 건, "스피라에나"와 분명 관계가 있어.</color>
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:무슨 근거에 따른 판단이죠?
+M4A1Mod(0);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>지금 도시 반대편에서 똑같은 일이 벌어지고 있으니까.</color>
+M4A1Mod(4)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:평화회담... 그러니까, 이건 하얀 세력의 협동 공격이란 뜻이군요.+하지만, 그렇다 한들 이곳에서의 무력 충돌이 "스피라에나"를 찾는 것보다 중요하다는 것을 증명하지는 않습니다.
+M4A1Mod(4);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>"확실한" 근거를 찾은 다음에 움직이면, 항상 한발 늦게 되지.</color>+<color=#00CCFF>나보다 네가 더 잘 알 텐데.</color>
+M4A1Mod(4)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:하지만...
+M4A1Mod(4);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>M4, 왜 그렇게 "스피라에나"에게 집착하는 거지?</color>
+M4A1Mod(3)<Speaker>M4A1</Speaker>;NPC-AngeStreet(0)||:......+그저, 원활한 임무 진행을 위해 의견을 피력했을 뿐입니다.
+AK12(0)<Speaker>AK12</Speaker>;NPC-AngeStreet(0)||:나도 M4의 말이 옳다고 생각하지만...+뭐 어쩌겠어. 안젤리아가 시키면 따라야지.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>알았으면 빨리 움직여.</color>
+AK12(0)<Speaker>AK12</Speaker>||<黑屏1>:그럼...+리벨리온, 지금부터 작전 개시.
+()||<BGM>BGM_Empty</BGM><黑屏2>:리벨리온의 작전이 시작되고서 몇 분 후.
+()||<BGM>BGM_Sneak</BGM>:통신 연결.
+AK12(0)<Speaker>AK12</Speaker>||<SE1>Gunfight</SE1>:왜 이런 상황에 연락했어?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>지금 전투를 시작한 것 같네.</color>
+AK12(0)<Speaker>AK12</Speaker>;NPC-AngeStreet(0)||:지금 방어용 자동 병기를 처치하면서, 방위군과 반란군의 교전 지점으로 이동 중이야.+이럴 때 연락했다는 건... 좋은 소식이 아니겠지?
+AK12(0);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>그래.</color>+<color=#00CCFF>폭풍우가 오고 있어. 폭풍우를 피해 감염생물이 격리벽으로 접근 중이야.</color>
+AK12(0)<Speaker>AK12</Speaker>;NPC-AngeStreet(0)||:으음... 그거 곤란한데.+지금 격리벽의 상황을 봐선, 그게 전부 몰려왔다간 제대로 막지도 못할걸?
+AK12(0);NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||<黑点1>:<color=#00CCFF>더 심각한 문제는, 폭풍이 붕괴 오염을 가속시킬 거야... 그렇게 되면 베오그라드 방위군은 평소보다 몇 배는 더 많은 감염자를 상대해야 해.</color>+<color=#00CCFF>상황이 돌이킬 수 없게 되기 전에 서둘러!</color>+<color=#00CCFF>시간이 얼마 남지 않았어!</color>
+()||<黑点2>:격리벽 통로 속.
+AK12(0)<Speaker>AK12</Speaker>||<SE1>Gunfight</SE1>:정말이지, 자동 병기가 엄청 많네...
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:방위군의 인력 부족을 충당하기 위해 이렇게 많이 설치했을 겁니다.
+M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:하지만 지금은 저것들이 우릴 막아서고 있잖아.+먼저 방위군에게 상황을 설명하면 일이 좀 더 쉬워질 거 같은데.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:반대합니다.+리벨리온의 존재를 함부로 노출해서는 안 됩니다.
+M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||:하지만 이대로 가다간 임무에 지장이 생길걸?
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||:잠시 생각해보죠. 분명 다른 방법이 있을 겁니다...
+M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||<黑点1>:다른 방법이라, 조금 기대되는걸?+하지만 할 거면 빨리 생각해내... 지금 시간이 정말 촉박하니까.

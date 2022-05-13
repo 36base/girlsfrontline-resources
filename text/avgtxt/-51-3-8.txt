@@ -1,255 +1,255 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>357</BIN><BGM>GF_21winter_avg_pathfinder</BGM><SE1>AVG_Jet_Passby</SE1>:베를린, 공항 근처의 임시 세이프하우스.
-()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:크루거와 연락이 두절된 지휘관은 다시 초조해하며 방을 서성였다.+그리고 방 안을 몇 바퀴 돌고 나서야 걸음을 멈췄다.
-()<Speaker>지휘관</Speaker>||<SE1>Stop_AVG_loop</SE1>:카이바르한테 "훈작사"에게 연락하라고 해 줘.
-AR15Mod(0)<Speaker>AR-15</Speaker>||:네.
-()||<黑屏1>:
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1><BIN>9</BIN><黑屏2>:잠시 후.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삑.
-()||<黑屏1>:
-NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||<黑屏2><BIN>357</BIN>:<color=#00CCFF>마침 연락하려던 참이었네, 지휘관.</color>
-NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:당신의 도움이 필요합니다.+크루거 씨와 모두의 신변에 문제가 발생했는데, 당장은 제가 할 수 있는 일이 없습니다.+그러니, 부디 부탁드립니다.
-NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>진정하게, 나도 그 일 때문에 연락하려던 거였으니.</color>+<color=#00CCFF>그건 단지, 사소한 오해로 빚어진 일이라네.</color>+<color=#00CCFF>소통에 약간의 문제가 생겼을 뿐이야.</color>+<color=#00CCFF>이미 해결했으니, 이제 걱정하지 않아도 돼.</color>
-()<Speaker>지휘관</Speaker>||:해결...했다고요...?
-()<Speaker></Speaker>||:지휘관의 눈이 휘둥그레졌고, 안도감에 목소리도 풀려버렸다.
-NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>그래, 바로 마땅한 대우를 받게 할 수 있네.</color>+<color=#00CCFF>다만... 우리가 조금 양보를 해야 해.</color>
-NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:...양보? 무슨 양보 말입니까?
-NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>지금 자네가 하는 것을 전부 중지하게.</color>
-()<Speaker>지휘관</Speaker>||:하는 것을 중지하라니, 그게 무슨 말씀이십니까.
-()<Speaker></Speaker>||:지휘관은 미간을 좁히며 다시 신경을 곤두세웠다. 지금 훈작사의 말은 결코 예사로운 것이 아니었다.
-()<Speaker>지휘관</Speaker>||:이제 겨우 조사에 진전이 생겼습니다. 지금 여기서 멈추면 전부 물거품이 되고 맙니다.+그리고, 그게 크루거 씨, 헬리안 씨가 연행된 일과 무슨 관계가 있죠?
-NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>내 자네가 얼마나 안젤리아를 구출하고 싶은지는 이해하네만, 세상 어떤 일이든 규칙에 따라 움직여야만 하네.</color>+<color=#00CCFF>이 세상은 질서라는 지팡이에 기대어 움직이지. 함부로 규칙을 어기고, 충동적으로 움직여서는 이길 수 없어.</color>+<color=#00CCFF>강인한 의지만으로는 아무것도 이룰 수 없네.</color>
-NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:...대체 무슨 말씀을 하고 싶으신 겁니까?
-NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>크루거를 비롯한 모두가 무사하길 바란다면...</color>+<color=#00CCFF>자네가 포기해야 할 것이 있네. 등가교환이란 다 그런 것 아니겠나.</color>
-NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:......안젤리아 씨를요?
-NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>부득이하게 무엇을 희생할지 선택해야 할 때가 오기 마련이잖은가.</color>+<color=#00CCFF>어른으로서 마주해야 할 잔혹한 현실이지만 말일세.</color>
-NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:또... <size=50>또 저희를 가지고 거래했다는 겁니까!?</size>
-NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>지휘관, 자네가 그 자리에서 볼 수 있는 세상은 너무나도 좁다네. 물론 자네 탓은 아니야.</color>+<color=#00CCFF>하지만, 어떤 일이든 그것이 가지는 의미를 보는 법도, 자네는 배워야 해...</color>+<color=#00CCFF>이는 어쩔 도리가 없는 결과일세. 모든 것을 품에 안을 수는 없어.</color>
-NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:그 말씀은 벌써 질리도록 들었습니다.+지금 모든 것을 품에 안을 수는 없다고 하셨습니까?+저는 지금까지 고생하고, 손해만 보면서 얻은 것이 하나도 없습니다.+이제야 겨우 기회가 바로 제 눈앞에 나타났습니다.+그런데, 영문도 모를 어딘가의 "승리"를 위해 그걸 포기하란 말씀입니까?
-NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>대의를 위해서는 누구든 희생될 수 있네.</color>+<color=#00CCFF>더군다나 안젤리아는 요원일세, 그 정도 각오는 한 몸이야. 설마 자네는 안젤리아의 목숨이 크루거와 G&K보다 중요하다 여기는 건가?</color>
-NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:그래요, 누구라도 희생될 수는 있죠...+하지만 왜 하필 안젤리아 씨입니까?
-NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>누가 희생하냐는 중요치 않아. 누가 됐든 마찬가지네.</color>
-NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:당신에겐 누구를 희생시킬지 정할 자격이 있다는 말처럼 들리는군요.
-NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>...고집부리지 말게, 지휘관.</color>
-NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:지금 기지와 동료를 잃은 저에게 고집 부리지 말라고 하시는 겁니까?
-NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>당장 하던 일을 전부 중지하게, 크루거는 내가 해결해 줄 테니.</color>
-()<Speaker></Speaker>||<SE1>Rope</SE1>:지휘관은 입술을 깨물고, 주먹을 움켜쥐었다.
-()<Speaker>지휘관</Speaker>||:...거절합니다.
-NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>......</color>+<color=#00CCFF>크루거와 G&K를 포기하겠단 말인가?</color>
-NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:아니오. 전 그 누구도 포기할 생각 없습니다.+아직 구할 수 있다 판단되는 한, 절대로.
-NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>지휘관 나는 지금 자네와 협상하려는 게 아니야, 지금 당장――</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:삑.+통신이 끊어졌다.
-KH2002(0)<Speaker>카이바르</Speaker>||:엑... 지휘관?
-AR15Mod(8)<Speaker>AR-15</Speaker>||:지휘관, 지금 우리 회사 CEO의 통화를 끊어버렸어요.+그것도 저쪽이 슬슬 화내려는 타이밍에.
-()<Speaker>지휘관</Speaker>||:......+...그런 것 같네.
-NytoIsomer(3)<Speaker>댄들라이</Speaker>||:아니, 예기치 못한 사고였어. 신호 불량은 늘상 있는 일이잖아?
-AR15Mod(4)<Speaker>AR-15</Speaker>||:...웬일로 네가 나랑 생각이 비슷하냐.
-()<Speaker>지휘관</Speaker>||:......
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 땅이 꺼져라 한숨을 푹 내뱉었다.+하지만, 이제 멈출 사람은 아무도 없다.
-NytoIsomer(3)<Speaker>댄들라이</Speaker>||:지휘관님, 아이네이아스 회의실에서 통신 요청입니다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BGM>10220</BGM><黑屏2><BIN>85</BIN>:아이네이아스 회의실.
-()<Speaker></Speaker>||<BIN>85</BIN><SE1>AVG_NightVision_Start</SE1>:회의실 중앙에 떠 있는 거대한 전술 보드에 위치가 표시되는 각 작전팀들은 지휘관의 배치를 기다리는 중이었다.+그리고 각 팀을 대표하는 색상 가까이서, 모든 빛을 흡수하는 검은색의 구역이 유난히 눈에 띄었다.+블랙존, "죽음의 바다".
-()<Speaker>지휘관</Speaker>||:모두 모였지?
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>네, 모두의 정보를 통합했습니다. 질소와 철분이 먼저 합류해 "죽음의 바다"로 돌입합니다.</color>+<color=#00CCFF>우산, 유니콘, 체스 마스터는 뒤이어서 진입합니다.</color>
-()<Speaker></Speaker>||:두려움, 불안감, 긴장감이 한데 섞인 시선들이 철분과 질소 팀에게 모였다.
-()<Speaker>지휘관</Speaker>||:미리 건투를 빈다.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>다만 "죽음의 바다"로 직접 발을 들이기 전에, 경험과 이전의 정보를 결합해 블랙존 내부의 상황을 시뮬레이션해서 간단한 긴급 대처 방안을 마련해야 합니다.</color>
-SP9(0)<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>지금 저희에게 가장 시급한 일입니다.</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>현재 우리 데이터베이스에서 블랙존에 가장 가까웠던 상황은...</color>
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>......아.</color>
-SP9(0)<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>왜 그러죠?</color>
-RO635Mod(2)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>그게... 저희가 경험한 상황 중 블랙존에 가장 가까웠던 것은 안젤리아 씨가 더티밤을 터뜨렸던 그 지역에서의 기록이라서...</color>
-()<Speaker>지휘관</Speaker>||:......
-SP9(0)<Speaker>모나</Speaker><通讯框>||<BIN>85</BIN>:<color=#00CCFF>잠시만요, 안젤리아 씨는 이번의 구출 목표 아닙니까? 그녀가 직접 더티밤을 터뜨리고, 거기서 살아남았단 말인가요? 인간의 몸으로?</color>
-SP9(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:맞아.
-SP9(0)<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>......</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>더티밤은 폭발하면서 반경 500m 내의 모든 사물을 증발시켰습니다.</color>+<color=#00CCFF>그리고 그 일대의 오염도는 바로 블랙존이 되어, 대기 중에 붕괴 입자가 육안으로 확인될 정도였죠.</color>+<color=#00CCFF>붕괴 입자는 통신을 비롯한 온갖 신호를 극도로 교란하기 때문에, 안정적인 통신을 위해 아이네이아스 회의실을 제작한 것이니 통신 장애는 크게 걱정하지 않아도 됩니다.</color>+<color=#00CCFF>그리고, 장시간 붕괴 복사에 노출되는 것은 인형 소체도 위험하므로 우리 모두 특수 항붕괴 입자 처리를 받았습니다만... 블랙존급 붕괴 복사에는 얼마나 효용성이 있을지 미지수입니다.</color>
-()<Speaker></Speaker>||:회의실의 모두는 더티밤 폭발 후에 펼쳐진 세상의 종말 같은 광경을 말없이 바라봤다.
-QBZ191(0)<Speaker>9호</Speaker><通讯框>||:<color=#00CCFF>완전 외계 행성 같은 광경이야.</color>
-BOSS-7(0)<Speaker>게이저</Speaker><通讯框>||:<color=#00CCFF>......</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>곧 우리가 마주할 광경이죠.</color>+<color=#00CCFF>어떤 기척도 없고, 생명체도 없으며, 오직 걸쭉하게 느껴질 정도로 붕괴 입자 농도가 짙은 대기만이 있는 곳이에요.</color>
-QBZ191(2)<Speaker>9호</Speaker><通讯框>||:<color=#00CCFF>모래폭풍 속에서 길을 헤매던 때가 떠오르는걸.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>꽤 적절한 비유네.</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>복사 방호에 주의하고, 유사 시 즉각 채널로 보고하세요.</color>
-SP9(3)<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>알겠습니다.</color>
-()||<黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>480</BIN><SE1>AVG_tele_disconnect</SE1><BGM>GF_EV9_Story</BGM>:레드존과 블랙존의 경계선.+이제부터 어디로 들어가는지를 생각하니, 질소 팀의 분위기가 무거워지는 것도 당연했다.
-Rhino(0)<Speaker>라이노</Speaker>||:온갖 비밀이 숨겨진 죽음의 땅으로 들어가는 것 같아... 아, 맞나?
-QBZ191(0)<Speaker>9호</Speaker>||:나도 진짜 블랙존 안으로 들어가는 건 이번이 처음이야.+대비 연습이나 모의 훈련 같은 건 해봤지만, 역시... 진짜는 압박감부터가 다르네.
-Rhino(0)<Speaker>라이노</Speaker>||:많이 돌아다녔대서 블랙존도 가본 줄 알았더니?
-QBZ191(4)<Speaker>9호</Speaker>||:넌 출고된 지 그리 오래는 안 돼서 아직 많이 못 돌아다녀봤지? 좀만 지나면 나 못지않게 많은 곳을 가보게 될지도 몰라, 기대하라고.
-SP9(0)<Speaker>모나</Speaker>||:하지만 세상 어디든, 블랙존은 절대 들어가서는 안 되는 금기의 땅이죠.
-QBZ191(4)<Speaker>9호</Speaker>||:하긴, 나도 블랙존에 들어가는 임무는 들어보지도 못했으니.+다만...
-Rhino(0)<Speaker>라이노</Speaker>||:다만?
-QBZ191(2)<Speaker>9호</Speaker>||:딱 한 번, ELID 소탕 임무 도중 사고로 대열에서 이탈한 적이 있거든?+그때 실수로 갈림길에서 길을 잘못 드는 바람에, 블랙존의 변두리까지 간 적이... 있었지...
-()<Speaker></Speaker>||:9호가 갑자기 말을 멈추고, 회상에 잠긴 듯했다.
-Rhino(0)<Speaker>라이노</Speaker>||:9호?
-SP9(0)<Speaker>모나</Speaker>||:끔찍한 기억이었나요?
-QBZ191(2)<Speaker>9호</Speaker>||:...아니, 들어가진 못했지. 인솔자가 제때 나타나서 날 제지했거든.+그런데 나중에 듣기론, 그때 난 블랙존 가까이서 뭔가에 홀린 듯한 눈빛으로 멍하니, 그쪽으로 걸어가고 있었대.
-Rhino(0)<Speaker>라이노</Speaker>||:으에...
-QBZ191(2)<Speaker>9호</Speaker>||:마치... 무언가의 부름이라도 받은 것처럼.
-SP9(0)<Speaker>모나</Speaker>||:위험한 곳에 관한 소문은 대개 그런 공통점이 있죠, 인간을 현혹하는 자기장을 발산한다던가 하는 이야기가. 설마 인형도 그런 영향을 받나요?
-QBZ191(0)<Speaker>9호</Speaker>||:몰라, 결국 안으로 들어가진 않았으니 해 줄 말이 없어. 대신, 한 가지 확실한 점은...+절대 들어가선 안 될 곳이란 거야.
-Rhino(0)<Speaker>라이노</Speaker>||:......
-QBZ191(4)<Speaker>9호</Speaker>||:뭐, 긍정적으로 생각하자.+이 일 끝나고 돌아가면 남들이랑은 차원이 다른 경력이 생기는 거 아니겠어?+"죄송하지만, 전 블랙존에서 비밀 임무도 맡아본 인형이라 그 정도 보수로는 일 안 해요" 같은 말도 할 수 있고.
-Rhino(0)<Speaker>라이노</Speaker><Shake>0.1</Shake>||<SE1>ClothingUp</SE1>:<size=50>아니 이게 무슨 스펙 쌓기인 줄 알아!?</size>
-SP9(2)<Speaker>모나</Speaker>||:아무래도 당신에겐 재미있는 이야기가 많은 것 같네요.
-QBZ191(4)<Speaker>9호</Speaker>||:후훗, 궁금해? 나중에 간식이랑 차나 같이 하면서 천천히 얘기해 줄게.
-Rhino(0)<Speaker>라이노</Speaker>||:오오...+갑자기 엄청 기대된다.
-SP9(2)<Speaker>모나</Speaker>||:우리 앞에 닥친 문제를 하나씩 해결하고 나면 꼭 그런 날이 올 거예요.
-Rhino(0)<Speaker>라이노</Speaker>||:응! 모나 대장이 그렇게 말하니까 자신감 다시 생겼어.
-SP9(2)<Speaker>모나</Speaker>||:그럼 첫 번째 문제부터 해결할까요? 철분 팀을 기다리는 동안 백업을 한 번 더 업로드해요.+무슨 일이 있어도, 이 약속만큼은 잊지 않기로.
-QBZ191(4)<Speaker>9호</Speaker>||:좋아!
-()||<黑点1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑点2><SE1>AVG_Team_Running</SE1><BGM>GF_21summer_avg_Demon</BGM>:잠시 후.+서둘러 달려온 아키텍트와 게이저의 눈에 드디어 질소 팀의 모습이 보였다.
-BOSS-9(0)<Speaker>아키텍트</Speaker>||:게이저! 저기 쟤들 보인다!
-BOSS-9(0);BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:말 안 해도 알아.
-BOSS-9(0)<Speaker>아키텍트</Speaker>;BOSS-7(0)<Position>0,120</Position>||:쟤네랑 합류하면 바로 블랙존 직행이지?
-BOSS-9(0);BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:그래.
-BOSS-9(0)<Speaker>아키텍트</Speaker>;BOSS-7(0)<Position>0,120</Position>||:만약에 들어갔다 무슨 일 터지면 그냥 나 버리고 가도 돼, 원망 안 하니까.+애초에 우리 기사님은 나 때문에 억지로 끌려왔잖아.
-BOSS-9(0);BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:...시끄러.
-BOSS-9(0)<Speaker>아키텍트</Speaker>;BOSS-7(0)<Position>0,120</Position>||:에이 고집 부리지 말고~ 우리 둘 다 여기서 세상 하직할 거 같은 영 안 좋은 예감이 든다구.
-BOSS-9(0);BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:뭐야, 그리폰으로 전향하더니 일에 열심이 됐나?
-BOSS-9(0)<Speaker>아키텍트</Speaker>;BOSS-7(0)<Position>0,120</Position>||:아~니, 전혀. 그러는 너야말로 나 때릴 정도로 싫어하더니 의외로 적응 잘하네?
-BOSS-9(0);BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:하.+어느 다리 한 짝 뜯긴 얼간이를 구하려 하지만 않았어도 그딴 것에 사로잡힐 일 없었다.
-BOSS-9(0)<Speaker>아키텍트</Speaker>;BOSS-7(0)<Position>0,120</Position>||:하여간 절대 동료를 두고 가지 못하는 다정한 기사님이라니까~
-BOSS-9(0);BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:......
-BOSS-9(0)<Speaker>아키텍트</Speaker>||:그래도 이건 명심하도록 해. 가장 소중히해야 하는 건 바로 너 자신이야.
-()<Speaker></Speaker>||<SE1>RunStep</SE1>:게이저의 대답을 기다리지 않고, 아키텍트는 팔을 높이 흔들며 질소 팀을 불렀다.
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BGM>BGM_Empty</BGM>:질소 팀과 철분 팀이 합류한 후.
-SP9(2)<Speaker>모나</Speaker>||<BGM>GF_22W_BGM_2</BGM>:철분 팀의 두 분, 만나서 반갑습니다. 원거리 중화기 지원이 절실했어요.+앞으로의 전투에서 두 분이 화력 지원을 맡아 주시기 바랍니다.
-BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:문제 없다.
-SP9(2)<Speaker>모나</Speaker>||:...저희는 "죽음의 바다"로 돌입할 준비를 마쳤습니다.+두 분도 준비할 시간이 필요한가요? 아직 조율할 시간은 있습니다.
-BOSS-9(0)<Speaker>아키텍트</Speaker>||:아하하, 친절도 하셔라~+괜찮아 괜찮아, 우린 진작에 백업해 뒀걸랑.+뭔 일 터져도 노 프라블럼이지!
-QBZ191(4)<Speaker>9호</Speaker>||:최악을 상정한 임무라지만, 그 각오라니 대단한걸...+아니, 그냥 사고방식이 다른 걸까? 혹시 철혈공조의 인형은 다 이래?
-BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:미안하지만 먼저 지형을 확인해야 한다. 데이터를 압축 해제할 시간을 다오.
-Rhino(0)<Speaker>라이노</Speaker>||:어... 그래서 어느 쪽이야?
-BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:...이 머저리는 무시하고.
-BOSS-9(0)<Speaker>아키텍트</Speaker><Shake>0.1</Shake>||<SE1>AVG_XXS_kick</SE1>:<size=50>누가 머저리라는 거야!</size>
-()<Speaker></Speaker>||:왁자지껄 떠들면서, 다섯 명의 인형들은 서로를 바라봤다.+익숙하든 낯설든, 죽이 맞든 안 맞든, 지금부터 운명을 함께 할 전우들을.
-SP9(2)<Speaker>모나</Speaker>||:...철혈공조에 대해서는 오래 전부터 많이 들었습니다. 아무쪼록, 화력 지원 잘 부탁드립니다.+질문 사항이 없다면 바로 출발해요.
-BOSS-9(0)<Speaker>아키텍트</Speaker>||:으음... 좋아, 가자.+대충 적이 보이면 펑펑! 하고 터뜨리면 되는 거지? 그거라면야 내가 전문이지...+대신, 지휘 부탁해도 되지?+모나 양.
-SP9(2)<Speaker>모나</Speaker>||:...네.
-()<Speaker></Speaker>||:아이네이아스 작전팀, 질소와 철분은 함께 블랙존으로 진입했다.
-()||<黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>9</BIN><BGM>10213</BGM><黑屏2><黑屏1>:질소 팀과 철분 팀은 모두가 독특한 이력의 소유자들이다.+각자 다른 때와 장소에서 레드존에 발을 디딘 적이 있다.
-()||<黑屏2><BIN>480</BIN><黑屏1>:때문에, 레드존의 그 비현실적인 광경은 모두가 경험했다.+붕괴 입자에 침식된 폐허와 그 사이를 서성이는 ELID들, 그리고 보기만 해도 오싹해지는 돌연변이 식물이 즐비하는, 황폐한 세계.
-()||<黑屏2><BIN>472</BIN><黑屏1>:아무리 팔팔한 생명체도 그곳에선 붕괴 복사에 오염되어 쓰러지고, 운이 좋으면 그대로 죽지만, 그렇지 않으면 "다른 것"이 되어 다시 일어선다.
-()||<黑屏2><BIN>9</BIN>:어떤 곳은 바람마저 굳어버린다. 붕괴 입자가 대기 그 자체와 엉겨붙어, 일년 365일 내내 끈적하고 역겨운 안개로 변하는 것이다.+그것이 그녀들이 인지하는 "인간이면 픽 죽어버리는 오염지대"의 모습이다.
-()||<白屏1>:
-()<Speaker></Speaker>||<白屏2><BIN>485</BIN><SE1>AVG_Geiger_Counter</SE1>:하지만...+그런 경험이 있는 그녀들마저, 블랙존으로 들어간 순간 차원을 넘는 "격차"를 느꼈다.
-Rhino(0)<Speaker>라이노</Speaker><Shake>0.1</Shake>||:...꿀꺽.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:라이노는 오한이 등골을 타고 오르는 느낌이 들었다. 발을 내딛을 때마다 의식이 붕 뜨는 것 같아, 언제라도 발을 헛디뎌 넘어질 것만 같았다.
-Rhino(0)<Speaker>라이노</Speaker>||:이게... 9호 네가 말한 압박감이야?
-QBZ191(0)<Speaker>9호</Speaker>||:......
-()<Speaker></Speaker>||:9호는 블랙존에 들어오고부터 과묵해졌다.
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:대신 그녀 머리 위에서 부자연스럽게 까딱이는 장치가, 그녀의 초조한 심정을 대변했다.
-QBZ191(2)<Speaker>9호</Speaker>||:...그때 내 눈에 어렴풋이 보였던 광경이 딱 이거였어.
-()<Speaker></Speaker>||:9호는 모나와 함께 대열의 선두에 섰다. 아직 적이랄 만한 것 하나 보이지 않았지만, 다들 극도로 긴장한 기색이었다.
-BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:그런데... 의외로, 생각보다는 생기가 느껴지는 것 같군.
-BOSS-9(0)<Speaker>아키텍트</Speaker><Shake>0.1</Shake>||<SE1>ClothingUp</SE1>:써, 썰렁한 농담 말아 줄래 게이저?+나 벌써 토할 거 같다구...
-SP9(0)<Speaker>모나</Speaker>||:......
-()<Speaker></Speaker>||:아무도, 지금 보이는 이 광경을 어떻게 형용하면 좋을지 떠오르질 않았다.+시야의 끝자락에서 모든 것을 뒤덮는 어둠은 거의 코앞까지 이어졌다.+주변 곳곳에는 불길한 초록색의 결정이 지면에 솟아나 있었고, 그중 암석 같은 거대한 가시는 속에서부터 은은하게 빛을 냈다. 그리고 발밑은 내딛을 때마다 걸쭉한 액체가 밟혔다.+붕괴 입자는 눈에 보일 수준으로 뭉쳐져, 조금이라도 파인 지형의 구석구석에 고여 웅덩이를 이루고 있었다.+계속 보고 있자니, 마치 생명력 왕성한 곰팡이가 꿈틀대는 듯한 착각이 들 정도였다.+시꺼먼 암석과 불길한 녹색이 대조를 이루는, 징그럽고 공포스러운 광경이었다.
-SP9(0)<Speaker>모나</Speaker>||:정신 똑바로 차리세요, 시선을 너무 한 곳에다 두면 안 됩니다.
-Rhino(0)<Speaker>라이노</Speaker><Shake>0.1</Shake>||<SE1>Rope</SE1>:어... 응... 으으...+나 기분 이상해... 저것들이 내 몸속에서 증식하는 거 같아...
-BOSS-9(0)<Speaker>아키텍트</Speaker><Shake>0.1</Shake>||:너도 무, 무무무서운 소리 좀 하지 마!
-QBZ191(0)<Speaker>9호</Speaker>||:돌아가서 씻으면 돼.+그냥 버섯 폈다고 생각해.
-BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:그것도 불쾌하기는 마찬가지다만...
-()<Speaker></Speaker>||<SE1>AVG_wind_grass</SE1>:그뿐만이 아니었다. 이곳은 바람도 마냥 조용하지 않아, 인형들의 주위를 맴돌면서 떠들고 고함을 질러댔다.+마치 한 맺힌 이들이, 그들의 마지막 순간에 내뱉은 욕설처럼 들렸다.
-Rhino(0)<Speaker>라이노</Speaker>||:저기 있잖아... 누가 자꾸 우리한테 말 거는 거 같지 않아...?
-QBZ191(2)<Speaker>9호</Speaker>||:바람 소리야.
-Rhino(0)<Speaker>라이노</Speaker>||:그... 그치만...
-SP9(0)<Speaker>모나</Speaker>||:라이노, 당신은 정찰 특화 모델이라 감지 능력이 우리보다 뛰어납니다. 그래서 당신에게는 붕괴 입자의 영향력이 더 클 수도 있어요.+그래도 너무 걱정 마세요. 다 괜찮을 거예요.
-Rhino(0)<Speaker>라이노</Speaker>||:응...
-BOSS-9(0)<Speaker>아키텍트</Speaker>||:<size=50>아 분위기 되게 꿀꿀하네!</size>
-BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:행여 말하지만 쓸데없는 짓 마라.
-BOSS-9(0)<Speaker>아키텍트</Speaker>||:신경이 너무 곤두서도 안 좋거든? 큰일난다고! 내가 웃긴 얘기로 분위기 전환 좀 할까?+너희들 그거 알아? 인간 중에 유난히 방귀 소리가 요란한 사람 있잖아, 왜 그렇게?
-Rhino(0)<Speaker>라이노</Speaker>||:왜... 왜 그런데...?
-()<Speaker></Speaker>||:아키텍트가 뜬금없이 우스꽝스런 얘기를 하자, 인형들은 아주 잠깐이나마 긴장을 풀었다.+찰나의 시간 동안만.
-QBZ191(0)<Speaker>9호</Speaker>||<SE1>Select</SE1><BGM>BGM_Empty</BGM>:누구냐!
-SP9(3)<Speaker>모나</Speaker>||:손 들고 엎드려!
-()<Speaker></Speaker>||<BGM>10130</BGM><SE1>AVG_AMB_Wind</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=7</controll_shake>:멀지 않은 곳에서 돌풍이 불어, 땅바닥에 고여 있던 녹색 안개가 인형들에게 밀려들었다.+그런데, 가까워진 안개 속에 어떤 형체가 보였다.+인간일까, 배배 꼬인 나무일까, 아니면 달빛에 드리운 나뭇가지의 그림자일까.+정체가 무엇이든, 지금 그것은 인형들을 향해 거침없이 다가오고 있었다.
-Rhino(0)<Speaker>라이노</Speaker>||:머, 멈춰!
-BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:......
-()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:극도로 긴장한 인형들은 각자 무기의 안전장치를 풀고, 안개 속의 형체를 겨눴다.
-Rhino(0)<Speaker>라이노</Speaker>||:<size=50>오지 말라고!</size>
-()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1><震屏3>:타앙――+주변 환경에 극히 민감한 라이노가 결국 첫 총성을 터뜨렸다.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타타탕!+뒤이어 다른 총성도 잇따랐다.
-SP9(3)<Speaker>모나</Speaker>||:무작정 발포하지 마세요! 후퇴합니다!
-()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:늪지대에 빠져 허우적대듯, 인형들은 밀려드는 녹색 안개에게서 도망치려 했다.
-()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:하지만 안개는 그들보다 훨씬 빨랐다.
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:몇 발자국 채 떼지도 못하고, 인형들은 그 기괴한 그림자를 품은 안개에 삼켜졌다.
-Rhino(0)<Speaker>라이노</Speaker><Shake>0.1</Shake>||:<size=50>싫어어어어!!</size>
-QBZ191(0)<Speaker>9호</Speaker>||:진정해!
-()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_Cloak_Whoosh</SE1><SE1>AVG_tinnitus_0</SE1><BIN>9</BIN>:라이노는 겁에 질려 그대로 주저앉아, 손으로 얼굴을 감쌌다. 그 기괴한 그림자가 무엇이든 간에 보지 않으려는 것이었다.
-SP9(3)<Speaker>모나</Speaker>||:라이노, 괜찮아요. 안개가 대기를 왜곡시켜 착각을 일으킨 거예요.
-BOSS-9(0)<Speaker>아키텍트</Speaker>||:어우 깜짝이야... 나 놀라서 에러 나는 줄 알았어.
-BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position><黑屏1>||:눈 떠라, 그냥 안개일 뿐이다.
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>485</BIN><SE1>AVG_wind_grass</SE1><SE1>AVG_Geiger_Counter</SE1>:라이노가 벌벌 떨며 눈을 떠 보니, 정말 인형들은 그냥 녹색 안개에 휩싸여 있을 뿐이었다.+그 안개에 딱히 이상한 것은 없었다.+그리고 금세, 안개는 무심하게 그들을 지나쳐 저 너머로 사라져버렸다.
-Rhino(0)<Speaker>라이노</Speaker>||:......딸꾹.
-SP9(0)<Speaker>모나</Speaker>||:이 상황을 정리해 아이네이아스에 전달하겠습니다. 그 동안 잠시 휴식할까요?+저희의 좌표 데이터를 바탕으로 체스 마스터가 꽤 많은 정보를 분석해낼 수 있을 겁니다.+그럼 길을 헤맬 일도 줄일 수 있겠죠.
-BOSS-9(0)<Speaker>아키텍트</Speaker>||:제발 그렇게 해 줘...
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>486</BIN><BGM>10194</BGM><SE1>AVG_Team_Running</SE1>:한편, 그레이 일행은 목적지인 초소로 내달리는 중이었다.
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,100</Position>||:얼마나 남았어?
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:아직 조금 더 걸립니다.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:그때 멀리서 격렬한 총소리가 들려왔다.
-NPC-grig(1)<Speaker>틸</Speaker>||:그레이! 놈들이 쫓아왔다.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:<size=50>제기랄! 온다던 지원은 대체 어디 있는 거야!</size>
-()<Speaker></Speaker>||:언제나 침착함을 유지하던 그레이가, 통신기에 대고 소리를 질렀다.
-NPC-Bramedb(3)<Speaker>브라메드</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>어~ 아주 잘 들리니까 소리 안 질러도 돼~♪</color>+<color=#00CCFF>짜증내서 좋을 것 하나도 없단다, 그레이.</color>
-NPC-grig(1)<Speaker>틸</Speaker>||:당장 지원이 필요하다. 지금 어디에 있지?+뒤쫓아오는 꼬리가 너무 끈질기다.
-NPC-Bramedb(3)<Speaker>브라메드</Speaker><通讯框>||:<color=#00CCFF>알아. 그래도 내가 뭘 어떡하겠니?</color>+<color=#00CCFF>나도 가는 데 시간이 걸리는걸.</color>
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:느려 터진 너라도 여기서 아베르누스까지 적어도 3번은 왕복했을 시간이다만.
-NPC-Bramedb(5)<Speaker>브라메드</Speaker><通讯框>||:<color=#00CCFF>그래~? 거 참 희한하네에, 오늘따라 왜 이리 길이 긴 것 같지~?</color>
-NPC-grig(1)<Speaker>틸</Speaker>||:......
-NPC-Bramedb(3)<Speaker>브라메드</Speaker><通讯框>||:<color=#00CCFF>아무튼 길 잘못 들면 안 되니까 이만 끊을게.</color>+<color=#00CCFF>최대한 빨리 보자~♪</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+통신을 홱 끊어버리는 모양새가, 끝내 못 참고 폭소를 터뜨리는 것을 감추기 위해서임이 분명했다.
-NPC-grig(1)<Speaker>틸</Speaker>||:그레이...
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:......
-()<Speaker></Speaker>||:그레이는 어금니를 악물었다.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...아무래도, 지원은 오지 않을 것 같구나.
-NPC-grig(1)<Speaker>틸</Speaker>||:......
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:그래도 절망하기엔 아직 일러.+우선 비행기가 있는 초소까지 가야 해. 이 주변 최근 순찰 기록이――
-NPC-grig(1)<Speaker>틸</Speaker>||:그레이, 놈들이 계속 따라오게 놔둬서는 안 된다.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:......
-NPC-grig(1)<Speaker>틸</Speaker>||:내가 가서 저지하겠어.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:하지만 너도 부상을 입었잖니. 그 상태로 전투를 지속하기엔 부담이 너무 커.
-NPC-grig(1)<Speaker>틸</Speaker>||:나는... 괜찮다.+놈들의 침입을 방치하면, 아버님이 너를 벌하실 거다.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:......
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타탕――+연달은 총성은 더 가까워진 듯했다.
-NPC-grig(1)<Speaker>틸</Speaker>||:어차피 비행기는 2인승이니 먼저 가라, 그레이.+놈들은 내 속도를 따라오지 못해. 놈들을 따돌리고 바로 가겠다.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...알았어.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그레이는 상처투성이인 틸을 보며 잠깐 망설였지만, 이내 정신을 잃기 직전인 몰리도를 부축하며 발길을 옮겼다.
-()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1>:부우웅...+그리고 그들 뒤로, 틸의 칼이 다시 진동하기 시작했다.
-()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><BIN>9</BIN><BGM>BGM_Empty</BGM>:쉬익――+희미하게나마 달빛이 보이는 밤하늘을, 소름끼치는 섬광이 가로질렀다.
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>485</BIN><BGM>BGM_NightOPS</BGM>:혼란 상태에서 벗어난 질소와 철분 팀은 다시 이동했다.
-Rhino(0)<Speaker>라이노</Speaker>||:아까 정신없이 달리는 바람에 처음에 남긴 흔적이 어디 있는지 모르겠어...
-QBZ191(4)<Speaker>9호</Speaker>||:괜찮으니까 침착하게 살펴봐, 너라면 찾아낼 수 있어.
-SP9(0)<Speaker>모나</Speaker>||<SE1>ClothingUp</SE1>:......
-BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:왜 그러지?
-()<Speaker></Speaker>||:모나가 갑자기 걸음을 멈췄다.
-SP9(0)<Speaker>모나</Speaker>||:...옷깃이 펄럭이는 소리가 들린 것 같습니다.
-Rhino(0)<Speaker>라이노</Speaker>||:바람 소리겠지 뭐, 나도 이젠 무덤덤해졌어.
-QBZ191(2)<Speaker>9호</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:적대적 신호는 감지되지 않아.
-BOSS-9(0)<Speaker>아키텍트</Speaker>||:저기 있잖아, 나도 누가 이쪽을 노려보는 느낌이 드는데...?
-BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||<BGM>BGM_Empty</BGM>:......모두, 경계해라.+이 바보가 딱히 잘하는 건 없어도 감은 꽤 정확한 편이다.
-BOSS-9(0)<Speaker>아키텍트</Speaker>||:<size=50>아 너 진짜!</size>
-SP9(0)<Speaker>모나</Speaker>||:네, 혹시 모르니 대비――
-()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1>:부웅——
-SP9(3)<Speaker>모나</Speaker>||<SE1>Select</SE1>:——!?
-()<Speaker></Speaker>||<BGM>10203</BGM>:귀에 익은 진동음이 들려, 모나는 반사적으로 총을 들었다.
-()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><SE1>AVG_20Winter_Knife_Whoosh</SE1><震屏3>:쉬익――!!+그 새하얀 유령이 잔상을 남기며 온통 검정과 초록 투성이인 주위를 맴도는 모습은, 마치 수풀을 헤치며 기회를 노리는 사마귀 같았다.
-Rhino(0)<Speaker>라이노</Speaker><Shake>0.1</Shake>||<SE1>AVG_Cut_Watermelon</SE1>:<size=50>으윽...!</size>
-()<Speaker></Speaker>||:한발 앞서 눈치채고 경계 태세로 전환했다지만, 성급하게 공격을 피하던 라이노는 눈 깜짝할 사이에 온몸에 무수한 상처를 입었다.
-()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:슈욱——
-Rhino(0)<Speaker>라이노</Speaker>||:뭐가 저리 빨라?!
-SP9(3)<Speaker>모나</Speaker>||:<size=50>틸입니다!</size>
-()<Speaker></Speaker>||:인형들이 간신히 눈으로 포착했을 때, 새하얀 옷의 틸은 높게 솟은 가시 바위 끝에서 냉혹한 시선으로 그들을 내려다보고 있었다.+그 모습은 이 기괴한 어두운 "이계"에서 밝게 빛났다.+날카롭게 굽은, 피를 뚝뚝 흘리는 초승달처럼.
-()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:슈욱!+인형들의 시선이 닿자마자, 틸은 바로 턱을 살짝 당기고 땅을 차 다시 모습을 감췄다.+하지만 그대로 인형들에게 돌진하지 않았다. 저 불길한 녹색 안개 속으로 숨은것이었다.
-SP9(3)<Speaker>모나</Speaker>||<SE1>RunStep</SE1>:주의하세요, 우리의 전력을 소모시키려는 속셈입니다!+철분 팀! 화력 지원 바랍니다!
-BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||<SE1>AVG_weapon_reload</SE1>:알았다.
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>357</BIN><BGM>GF_21winter_avg_pathfinder</BGM><SE1>AVG_Jet_Passby</SE1>:베를린, 공항 근처의 임시 세이프하우스.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:크루거와 연락이 두절된 지휘관은 다시 초조해하며 방을 서성였다.+그리고 방 안을 몇 바퀴 돌고 나서야 걸음을 멈췄다.
+()<Speaker>지휘관</Speaker>||<SE1>Stop_AVG_loop</SE1>:카이바르한테 "훈작사"에게 연락하라고 해 줘.
+AR15Mod(0)<Speaker>AR-15</Speaker>||:네.
+()||<黑屏1>:
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1><BIN>9</BIN><黑屏2>:잠시 후.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삑.
+()||<黑屏1>:
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||<黑屏2><BIN>357</BIN>:<color=#00CCFF>마침 연락하려던 참이었네, 지휘관.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:당신의 도움이 필요합니다.+크루거 씨와 모두의 신변에 문제가 발생했는데, 당장은 제가 할 수 있는 일이 없습니다.+그러니, 부디 부탁드립니다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>진정하게, 나도 그 일 때문에 연락하려던 거였으니.</color>+<color=#00CCFF>그건 단지, 사소한 오해로 빚어진 일이라네.</color>+<color=#00CCFF>소통에 약간의 문제가 생겼을 뿐이야.</color>+<color=#00CCFF>이미 해결했으니, 이제 걱정하지 않아도 돼.</color>
+()<Speaker>지휘관</Speaker>||:해결...했다고요...?
+()<Speaker></Speaker>||:지휘관의 눈이 휘둥그레졌고, 안도감에 목소리도 풀려버렸다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>그래, 바로 마땅한 대우를 받게 할 수 있네.</color>+<color=#00CCFF>다만... 우리가 조금 양보를 해야 해.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:...양보? 무슨 양보 말입니까?
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>지금 자네가 하는 것을 전부 중지하게.</color>
+()<Speaker>지휘관</Speaker>||:하는 것을 중지하라니, 그게 무슨 말씀이십니까.
+()<Speaker></Speaker>||:지휘관은 미간을 좁히며 다시 신경을 곤두세웠다. 지금 훈작사의 말은 결코 예사로운 것이 아니었다.
+()<Speaker>지휘관</Speaker>||:이제 겨우 조사에 진전이 생겼습니다. 지금 여기서 멈추면 전부 물거품이 되고 맙니다.+그리고, 그게 크루거 씨, 헬리안 씨가 연행된 일과 무슨 관계가 있죠?
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>내 자네가 얼마나 안젤리아를 구출하고 싶은지는 이해하네만, 세상 어떤 일이든 규칙에 따라 움직여야만 하네.</color>+<color=#00CCFF>이 세상은 질서라는 지팡이에 기대어 움직이지. 함부로 규칙을 어기고, 충동적으로 움직여서는 이길 수 없어.</color>+<color=#00CCFF>강인한 의지만으로는 아무것도 이룰 수 없네.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:...대체 무슨 말씀을 하고 싶으신 겁니까?
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>크루거를 비롯한 모두가 무사하길 바란다면...</color>+<color=#00CCFF>자네가 포기해야 할 것이 있네. 등가교환이란 다 그런 것 아니겠나.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:......안젤리아 씨를요?
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>부득이하게 무엇을 희생할지 선택해야 할 때가 오기 마련이잖은가.</color>+<color=#00CCFF>어른으로서 마주해야 할 잔혹한 현실이지만 말일세.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:또... <size=50>또 저희를 가지고 거래했다는 겁니까!?</size>
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>지휘관, 자네가 그 자리에서 볼 수 있는 세상은 너무나도 좁다네. 물론 자네 탓은 아니야.</color>+<color=#00CCFF>하지만, 어떤 일이든 그것이 가지는 의미를 보는 법도, 자네는 배워야 해...</color>+<color=#00CCFF>이는 어쩔 도리가 없는 결과일세. 모든 것을 품에 안을 수는 없어.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:그 말씀은 벌써 질리도록 들었습니다.+지금 모든 것을 품에 안을 수는 없다고 하셨습니까?+저는 지금까지 고생하고, 손해만 보면서 얻은 것이 하나도 없습니다.+이제야 겨우 기회가 바로 제 눈앞에 나타났습니다.+그런데, 영문도 모를 어딘가의 "승리"를 위해 그걸 포기하란 말씀입니까?
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>대의를 위해서는 누구든 희생될 수 있네.</color>+<color=#00CCFF>더군다나 안젤리아는 요원일세, 그 정도 각오는 한 몸이야. 설마 자네는 안젤리아의 목숨이 크루거와 G&K보다 중요하다 여기는 건가?</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:그래요, 누구라도 희생될 수는 있죠...+하지만 왜 하필 안젤리아 씨입니까?
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>누가 희생하냐는 중요치 않아. 누가 됐든 마찬가지네.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:당신에겐 누구를 희생시킬지 정할 자격이 있다는 말처럼 들리는군요.
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>...고집부리지 말게, 지휘관.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:지금 기지와 동료를 잃은 저에게 고집 부리지 말라고 하시는 겁니까?
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>당장 하던 일을 전부 중지하게, 크루거는 내가 해결해 줄 테니.</color>
+()<Speaker></Speaker>||<SE1>Rope</SE1>:지휘관은 입술을 깨물고, 주먹을 움켜쥐었다.
+()<Speaker>지휘관</Speaker>||:...거절합니다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>......</color>+<color=#00CCFF>크루거와 G&K를 포기하겠단 말인가?</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:아니오. 전 그 누구도 포기할 생각 없습니다.+아직 구할 수 있다 판단되는 한, 절대로.
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>지휘관 나는 지금 자네와 협상하려는 게 아니야, 지금 당장――</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:삑.+통신이 끊어졌다.
+KH2002(0)<Speaker>카이바르</Speaker>||:엑... 지휘관?
+AR15Mod(8)<Speaker>AR-15</Speaker>||:지휘관, 지금 우리 회사 CEO의 통화를 끊어버렸어요.+그것도 저쪽이 슬슬 화내려는 타이밍에.
+()<Speaker>지휘관</Speaker>||:......+...그런 것 같네.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:아니, 예기치 못한 사고였어. 신호 불량은 늘상 있는 일이잖아?
+AR15Mod(4)<Speaker>AR-15</Speaker>||:...웬일로 네가 나랑 생각이 비슷하냐.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 땅이 꺼져라 한숨을 푹 내뱉었다.+하지만, 이제 멈출 사람은 아무도 없다.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:지휘관님, 아이네이아스 회의실에서 통신 요청입니다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>10220</BGM><黑屏2><BIN>85</BIN>:아이네이아스 회의실.
+()<Speaker></Speaker>||<BIN>85</BIN><SE1>AVG_NightVision_Start</SE1>:회의실 중앙에 떠 있는 거대한 전술 보드에 위치가 표시되는 각 작전팀들은 지휘관의 배치를 기다리는 중이었다.+그리고 각 팀을 대표하는 색상 가까이서, 모든 빛을 흡수하는 검은색의 구역이 유난히 눈에 띄었다.+블랙존, "죽음의 바다".
+()<Speaker>지휘관</Speaker>||:모두 모였지?
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>네, 모두의 정보를 통합했습니다. 질소와 철분이 먼저 합류해 "죽음의 바다"로 돌입합니다.</color>+<color=#00CCFF>우산, 유니콘, 체스 마스터는 뒤이어서 진입합니다.</color>
+()<Speaker></Speaker>||:두려움, 불안감, 긴장감이 한데 섞인 시선들이 철분과 질소 팀에게 모였다.
+()<Speaker>지휘관</Speaker>||:미리 건투를 빈다.
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>다만 "죽음의 바다"로 직접 발을 들이기 전에, 경험과 이전의 정보를 결합해 블랙존 내부의 상황을 시뮬레이션해서 간단한 긴급 대처 방안을 마련해야 합니다.</color>
+SP9(0)<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>지금 저희에게 가장 시급한 일입니다.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>현재 우리 데이터베이스에서 블랙존에 가장 가까웠던 상황은...</color>
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>......아.</color>
+SP9(0)<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>왜 그러죠?</color>
+RO635Mod(2)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>그게... 저희가 경험한 상황 중 블랙존에 가장 가까웠던 것은 안젤리아 씨가 더티밤을 터뜨렸던 그 지역에서의 기록이라서...</color>
+()<Speaker>지휘관</Speaker>||:......
+SP9(0)<Speaker>모나</Speaker><通讯框>||<BIN>85</BIN>:<color=#00CCFF>잠시만요, 안젤리아 씨는 이번의 구출 목표 아닙니까? 그녀가 직접 더티밤을 터뜨리고, 거기서 살아남았단 말인가요? 인간의 몸으로?</color>
+SP9(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:맞아.
+SP9(0)<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>......</color>
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>더티밤은 폭발하면서 반경 500m 내의 모든 사물을 증발시켰습니다.</color>+<color=#00CCFF>그리고 그 일대의 오염도는 바로 블랙존이 되어, 대기 중에 붕괴 입자가 육안으로 확인될 정도였죠.</color>+<color=#00CCFF>붕괴 입자는 통신을 비롯한 온갖 신호를 극도로 교란하기 때문에, 안정적인 통신을 위해 아이네이아스 회의실을 제작한 것이니 통신 장애는 크게 걱정하지 않아도 됩니다.</color>+<color=#00CCFF>그리고, 장시간 붕괴 복사에 노출되는 것은 인형 소체도 위험하므로 우리 모두 특수 항붕괴 입자 처리를 받았습니다만... 블랙존급 붕괴 복사에는 얼마나 효용성이 있을지 미지수입니다.</color>
+()<Speaker></Speaker>||:회의실의 모두는 더티밤 폭발 후에 펼쳐진 세상의 종말 같은 광경을 말없이 바라봤다.
+QBZ191(0)<Speaker>9호</Speaker><通讯框>||:<color=#00CCFF>완전 외계 행성 같은 광경이야.</color>
+BOSS-7(0)<Speaker>게이저</Speaker><通讯框>||:<color=#00CCFF>......</color>
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>곧 우리가 마주할 광경이죠.</color>+<color=#00CCFF>어떤 기척도 없고, 생명체도 없으며, 오직 걸쭉하게 느껴질 정도로 붕괴 입자 농도가 짙은 대기만이 있는 곳이에요.</color>
+QBZ191(2)<Speaker>9호</Speaker><通讯框>||:<color=#00CCFF>모래폭풍 속에서 길을 헤매던 때가 떠오르는걸.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>꽤 적절한 비유네.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>복사 방호에 주의하고, 유사 시 즉각 채널로 보고하세요.</color>
+SP9(3)<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>알겠습니다.</color>
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>480</BIN><SE1>AVG_tele_disconnect</SE1><BGM>GF_EV9_Story</BGM>:레드존과 블랙존의 경계선.+이제부터 어디로 들어가는지를 생각하니, 질소 팀의 분위기가 무거워지는 것도 당연했다.
+Rhino(0)<Speaker>라이노</Speaker>||:온갖 비밀이 숨겨진 죽음의 땅으로 들어가는 것 같아... 아, 맞나?
+QBZ191(0)<Speaker>9호</Speaker>||:나도 진짜 블랙존 안으로 들어가는 건 이번이 처음이야.+대비 연습이나 모의 훈련 같은 건 해봤지만, 역시... 진짜는 압박감부터가 다르네.
+Rhino(0)<Speaker>라이노</Speaker>||:많이 돌아다녔대서 블랙존도 가본 줄 알았더니?
+QBZ191(4)<Speaker>9호</Speaker>||:넌 출고된 지 그리 오래는 안 돼서 아직 많이 못 돌아다녀봤지? 좀만 지나면 나 못지않게 많은 곳을 가보게 될지도 몰라, 기대하라고.
+SP9(0)<Speaker>모나</Speaker>||:하지만 세상 어디든, 블랙존은 절대 들어가서는 안 되는 금기의 땅이죠.
+QBZ191(4)<Speaker>9호</Speaker>||:하긴, 나도 블랙존에 들어가는 임무는 들어보지도 못했으니.+다만...
+Rhino(0)<Speaker>라이노</Speaker>||:다만?
+QBZ191(2)<Speaker>9호</Speaker>||:딱 한 번, ELID 소탕 임무 도중 사고로 대열에서 이탈한 적이 있거든?+그때 실수로 갈림길에서 길을 잘못 드는 바람에, 블랙존의 변두리까지 간 적이... 있었지...
+()<Speaker></Speaker>||:9호가 갑자기 말을 멈추고, 회상에 잠긴 듯했다.
+Rhino(0)<Speaker>라이노</Speaker>||:9호?
+SP9(0)<Speaker>모나</Speaker>||:끔찍한 기억이었나요?
+QBZ191(2)<Speaker>9호</Speaker>||:...아니, 들어가진 못했지. 인솔자가 제때 나타나서 날 제지했거든.+그런데 나중에 듣기론, 그때 난 블랙존 가까이서 뭔가에 홀린 듯한 눈빛으로 멍하니, 그쪽으로 걸어가고 있었대.
+Rhino(0)<Speaker>라이노</Speaker>||:으에...
+QBZ191(2)<Speaker>9호</Speaker>||:마치... 무언가의 부름이라도 받은 것처럼.
+SP9(0)<Speaker>모나</Speaker>||:위험한 곳에 관한 소문은 대개 그런 공통점이 있죠, 인간을 현혹하는 자기장을 발산한다던가 하는 이야기가. 설마 인형도 그런 영향을 받나요?
+QBZ191(0)<Speaker>9호</Speaker>||:몰라, 결국 안으로 들어가진 않았으니 해 줄 말이 없어. 대신, 한 가지 확실한 점은...+절대 들어가선 안 될 곳이란 거야.
+Rhino(0)<Speaker>라이노</Speaker>||:......
+QBZ191(4)<Speaker>9호</Speaker>||:뭐, 긍정적으로 생각하자.+이 일 끝나고 돌아가면 남들이랑은 차원이 다른 경력이 생기는 거 아니겠어?+"죄송하지만, 전 블랙존에서 비밀 임무도 맡아본 인형이라 그 정도 보수로는 일 안 해요" 같은 말도 할 수 있고.
+Rhino(0)<Speaker>라이노</Speaker><Shake>0.1</Shake>||<SE1>ClothingUp</SE1>:<size=50>아니 이게 무슨 스펙 쌓기인 줄 알아!?</size>
+SP9(2)<Speaker>모나</Speaker>||:아무래도 당신에겐 재미있는 이야기가 많은 것 같네요.
+QBZ191(4)<Speaker>9호</Speaker>||:후훗, 궁금해? 나중에 간식이랑 차나 같이 하면서 천천히 얘기해 줄게.
+Rhino(0)<Speaker>라이노</Speaker>||:오오...+갑자기 엄청 기대된다.
+SP9(2)<Speaker>모나</Speaker>||:우리 앞에 닥친 문제를 하나씩 해결하고 나면 꼭 그런 날이 올 거예요.
+Rhino(0)<Speaker>라이노</Speaker>||:응! 모나 대장이 그렇게 말하니까 자신감 다시 생겼어.
+SP9(2)<Speaker>모나</Speaker>||:그럼 첫 번째 문제부터 해결할까요? 철분 팀을 기다리는 동안 백업을 한 번 더 업로드해요.+무슨 일이 있어도, 이 약속만큼은 잊지 않기로.
+QBZ191(4)<Speaker>9호</Speaker>||:좋아!
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑点2><SE1>AVG_Team_Running</SE1><BGM>GF_21summer_avg_Demon</BGM>:잠시 후.+서둘러 달려온 아키텍트와 게이저의 눈에 드디어 질소 팀의 모습이 보였다.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:게이저! 저기 쟤들 보인다!
+BOSS-9(0);BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:말 안 해도 알아.
+BOSS-9(0)<Speaker>아키텍트</Speaker>;BOSS-7(0)<Position>0,120</Position>||:쟤네랑 합류하면 바로 블랙존 직행이지?
+BOSS-9(0);BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:그래.
+BOSS-9(0)<Speaker>아키텍트</Speaker>;BOSS-7(0)<Position>0,120</Position>||:만약에 들어갔다 무슨 일 터지면 그냥 나 버리고 가도 돼, 원망 안 하니까.+애초에 우리 기사님은 나 때문에 억지로 끌려왔잖아.
+BOSS-9(0);BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:...시끄러.
+BOSS-9(0)<Speaker>아키텍트</Speaker>;BOSS-7(0)<Position>0,120</Position>||:에이 고집 부리지 말고~ 우리 둘 다 여기서 세상 하직할 거 같은 영 안 좋은 예감이 든다구.
+BOSS-9(0);BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:뭐야, 그리폰으로 전향하더니 일에 열심이 됐나?
+BOSS-9(0)<Speaker>아키텍트</Speaker>;BOSS-7(0)<Position>0,120</Position>||:아~니, 전혀. 그러는 너야말로 나 때릴 정도로 싫어하더니 의외로 적응 잘하네?
+BOSS-9(0);BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:하.+어느 다리 한 짝 뜯긴 얼간이를 구하려 하지만 않았어도 그딴 것에 사로잡힐 일 없었다.
+BOSS-9(0)<Speaker>아키텍트</Speaker>;BOSS-7(0)<Position>0,120</Position>||:하여간 절대 동료를 두고 가지 못하는 다정한 기사님이라니까~
+BOSS-9(0);BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:......
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:그래도 이건 명심하도록 해. 가장 소중히해야 하는 건 바로 너 자신이야.
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:게이저의 대답을 기다리지 않고, 아키텍트는 팔을 높이 흔들며 질소 팀을 불렀다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BGM>BGM_Empty</BGM>:질소 팀과 철분 팀이 합류한 후.
+SP9(2)<Speaker>모나</Speaker>||<BGM>GF_22W_BGM_2</BGM>:철분 팀의 두 분, 만나서 반갑습니다. 원거리 중화기 지원이 절실했어요.+앞으로의 전투에서 두 분이 화력 지원을 맡아 주시기 바랍니다.
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:문제 없다.
+SP9(2)<Speaker>모나</Speaker>||:...저희는 "죽음의 바다"로 돌입할 준비를 마쳤습니다.+두 분도 준비할 시간이 필요한가요? 아직 조율할 시간은 있습니다.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:아하하, 친절도 하셔라~+괜찮아 괜찮아, 우린 진작에 백업해 뒀걸랑.+뭔 일 터져도 노 프라블럼이지!
+QBZ191(4)<Speaker>9호</Speaker>||:최악을 상정한 임무라지만, 그 각오라니 대단한걸...+아니, 그냥 사고방식이 다른 걸까? 혹시 철혈공조의 인형은 다 이래?
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:미안하지만 먼저 지형을 확인해야 한다. 데이터를 압축 해제할 시간을 다오.
+Rhino(0)<Speaker>라이노</Speaker>||:어... 그래서 어느 쪽이야?
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:...이 머저리는 무시하고.
+BOSS-9(0)<Speaker>아키텍트</Speaker><Shake>0.1</Shake>||<SE1>AVG_XXS_kick</SE1>:<size=50>누가 머저리라는 거야!</size>
+()<Speaker></Speaker>||:왁자지껄 떠들면서, 다섯 명의 인형들은 서로를 바라봤다.+익숙하든 낯설든, 죽이 맞든 안 맞든, 지금부터 운명을 함께 할 전우들을.
+SP9(2)<Speaker>모나</Speaker>||:...철혈공조에 대해서는 오래 전부터 많이 들었습니다. 아무쪼록, 화력 지원 잘 부탁드립니다.+질문 사항이 없다면 바로 출발해요.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:으음... 좋아, 가자.+대충 적이 보이면 펑펑! 하고 터뜨리면 되는 거지? 그거라면야 내가 전문이지...+대신, 지휘 부탁해도 되지?+모나 양.
+SP9(2)<Speaker>모나</Speaker>||:...네.
+()<Speaker></Speaker>||:아이네이아스 작전팀, 질소와 철분은 함께 블랙존으로 진입했다.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><BGM>10213</BGM><黑屏2><黑屏1>:질소 팀과 철분 팀은 모두가 독특한 이력의 소유자들이다.+각자 다른 때와 장소에서 레드존에 발을 디딘 적이 있다.
+()||<黑屏2><BIN>480</BIN><黑屏1>:때문에, 레드존의 그 비현실적인 광경은 모두가 경험했다.+붕괴 입자에 침식된 폐허와 그 사이를 서성이는 ELID들, 그리고 보기만 해도 오싹해지는 돌연변이 식물이 즐비하는, 황폐한 세계.
+()||<黑屏2><BIN>472</BIN><黑屏1>:아무리 팔팔한 생명체도 그곳에선 붕괴 복사에 오염되어 쓰러지고, 운이 좋으면 그대로 죽지만, 그렇지 않으면 "다른 것"이 되어 다시 일어선다.
+()||<黑屏2><BIN>9</BIN>:어떤 곳은 바람마저 굳어버린다. 붕괴 입자가 대기 그 자체와 엉겨붙어, 일년 365일 내내 끈적하고 역겨운 안개로 변하는 것이다.+그것이 그녀들이 인지하는 "인간이면 픽 죽어버리는 오염지대"의 모습이다.
+()||<白屏1>:
+()<Speaker></Speaker>||<白屏2><BIN>485</BIN><SE1>AVG_Geiger_Counter</SE1>:하지만...+그런 경험이 있는 그녀들마저, 블랙존으로 들어간 순간 차원을 넘는 "격차"를 느꼈다.
+Rhino(0)<Speaker>라이노</Speaker><Shake>0.1</Shake>||:...꿀꺽.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:라이노는 오한이 등골을 타고 오르는 느낌이 들었다. 발을 내딛을 때마다 의식이 붕 뜨는 것 같아, 언제라도 발을 헛디뎌 넘어질 것만 같았다.
+Rhino(0)<Speaker>라이노</Speaker>||:이게... 9호 네가 말한 압박감이야?
+QBZ191(0)<Speaker>9호</Speaker>||:......
+()<Speaker></Speaker>||:9호는 블랙존에 들어오고부터 과묵해졌다.
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:대신 그녀 머리 위에서 부자연스럽게 까딱이는 장치가, 그녀의 초조한 심정을 대변했다.
+QBZ191(2)<Speaker>9호</Speaker>||:...그때 내 눈에 어렴풋이 보였던 광경이 딱 이거였어.
+()<Speaker></Speaker>||:9호는 모나와 함께 대열의 선두에 섰다. 아직 적이랄 만한 것 하나 보이지 않았지만, 다들 극도로 긴장한 기색이었다.
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:그런데... 의외로, 생각보다는 생기가 느껴지는 것 같군.
+BOSS-9(0)<Speaker>아키텍트</Speaker><Shake>0.1</Shake>||<SE1>ClothingUp</SE1>:써, 썰렁한 농담 말아 줄래 게이저?+나 벌써 토할 거 같다구...
+SP9(0)<Speaker>모나</Speaker>||:......
+()<Speaker></Speaker>||:아무도, 지금 보이는 이 광경을 어떻게 형용하면 좋을지 떠오르질 않았다.+시야의 끝자락에서 모든 것을 뒤덮는 어둠은 거의 코앞까지 이어졌다.+주변 곳곳에는 불길한 초록색의 결정이 지면에 솟아나 있었고, 그중 암석 같은 거대한 가시는 속에서부터 은은하게 빛을 냈다. 그리고 발밑은 내딛을 때마다 걸쭉한 액체가 밟혔다.+붕괴 입자는 눈에 보일 수준으로 뭉쳐져, 조금이라도 파인 지형의 구석구석에 고여 웅덩이를 이루고 있었다.+계속 보고 있자니, 마치 생명력 왕성한 곰팡이가 꿈틀대는 듯한 착각이 들 정도였다.+시꺼먼 암석과 불길한 녹색이 대조를 이루는, 징그럽고 공포스러운 광경이었다.
+SP9(0)<Speaker>모나</Speaker>||:정신 똑바로 차리세요, 시선을 너무 한 곳에다 두면 안 됩니다.
+Rhino(0)<Speaker>라이노</Speaker><Shake>0.1</Shake>||<SE1>Rope</SE1>:어... 응... 으으...+나 기분 이상해... 저것들이 내 몸속에서 증식하는 거 같아...
+BOSS-9(0)<Speaker>아키텍트</Speaker><Shake>0.1</Shake>||:너도 무, 무무무서운 소리 좀 하지 마!
+QBZ191(0)<Speaker>9호</Speaker>||:돌아가서 씻으면 돼.+그냥 버섯 폈다고 생각해.
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:그것도 불쾌하기는 마찬가지다만...
+()<Speaker></Speaker>||<SE1>AVG_wind_grass</SE1>:그뿐만이 아니었다. 이곳은 바람도 마냥 조용하지 않아, 인형들의 주위를 맴돌면서 떠들고 고함을 질러댔다.+마치 한 맺힌 이들이, 그들의 마지막 순간에 내뱉은 욕설처럼 들렸다.
+Rhino(0)<Speaker>라이노</Speaker>||:저기 있잖아... 누가 자꾸 우리한테 말 거는 거 같지 않아...?
+QBZ191(2)<Speaker>9호</Speaker>||:바람 소리야.
+Rhino(0)<Speaker>라이노</Speaker>||:그... 그치만...
+SP9(0)<Speaker>모나</Speaker>||:라이노, 당신은 정찰 특화 모델이라 감지 능력이 우리보다 뛰어납니다. 그래서 당신에게는 붕괴 입자의 영향력이 더 클 수도 있어요.+그래도 너무 걱정 마세요. 다 괜찮을 거예요.
+Rhino(0)<Speaker>라이노</Speaker>||:응...
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:<size=50>아 분위기 되게 꿀꿀하네!</size>
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:행여 말하지만 쓸데없는 짓 마라.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:신경이 너무 곤두서도 안 좋거든? 큰일난다고! 내가 웃긴 얘기로 분위기 전환 좀 할까?+너희들 그거 알아? 인간 중에 유난히 방귀 소리가 요란한 사람 있잖아, 왜 그렇게?
+Rhino(0)<Speaker>라이노</Speaker>||:왜... 왜 그런데...?
+()<Speaker></Speaker>||:아키텍트가 뜬금없이 우스꽝스런 얘기를 하자, 인형들은 아주 잠깐이나마 긴장을 풀었다.+찰나의 시간 동안만.
+QBZ191(0)<Speaker>9호</Speaker>||<SE1>Select</SE1><BGM>BGM_Empty</BGM>:누구냐!
+SP9(3)<Speaker>모나</Speaker>||:손 들고 엎드려!
+()<Speaker></Speaker>||<BGM>10130</BGM><SE1>AVG_AMB_Wind</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=7</controll_shake>:멀지 않은 곳에서 돌풍이 불어, 땅바닥에 고여 있던 녹색 안개가 인형들에게 밀려들었다.+그런데, 가까워진 안개 속에 어떤 형체가 보였다.+인간일까, 배배 꼬인 나무일까, 아니면 달빛에 드리운 나뭇가지의 그림자일까.+정체가 무엇이든, 지금 그것은 인형들을 향해 거침없이 다가오고 있었다.
+Rhino(0)<Speaker>라이노</Speaker>||:머, 멈춰!
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:......
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:극도로 긴장한 인형들은 각자 무기의 안전장치를 풀고, 안개 속의 형체를 겨눴다.
+Rhino(0)<Speaker>라이노</Speaker>||:<size=50>오지 말라고!</size>
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1><震屏3>:타앙――+주변 환경에 극히 민감한 라이노가 결국 첫 총성을 터뜨렸다.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타타탕!+뒤이어 다른 총성도 잇따랐다.
+SP9(3)<Speaker>모나</Speaker>||:무작정 발포하지 마세요! 후퇴합니다!
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:늪지대에 빠져 허우적대듯, 인형들은 밀려드는 녹색 안개에게서 도망치려 했다.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:하지만 안개는 그들보다 훨씬 빨랐다.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:몇 발자국 채 떼지도 못하고, 인형들은 그 기괴한 그림자를 품은 안개에 삼켜졌다.
+Rhino(0)<Speaker>라이노</Speaker><Shake>0.1</Shake>||:<size=50>싫어어어어!!</size>
+QBZ191(0)<Speaker>9호</Speaker>||:진정해!
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_Cloak_Whoosh</SE1><SE1>AVG_tinnitus_0</SE1><BIN>9</BIN>:라이노는 겁에 질려 그대로 주저앉아, 손으로 얼굴을 감쌌다. 그 기괴한 그림자가 무엇이든 간에 보지 않으려는 것이었다.
+SP9(3)<Speaker>모나</Speaker>||:라이노, 괜찮아요. 안개가 대기를 왜곡시켜 착각을 일으킨 거예요.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:어우 깜짝이야... 나 놀라서 에러 나는 줄 알았어.
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position><黑屏1>||:눈 떠라, 그냥 안개일 뿐이다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>485</BIN><SE1>AVG_wind_grass</SE1><SE1>AVG_Geiger_Counter</SE1>:라이노가 벌벌 떨며 눈을 떠 보니, 정말 인형들은 그냥 녹색 안개에 휩싸여 있을 뿐이었다.+그 안개에 딱히 이상한 것은 없었다.+그리고 금세, 안개는 무심하게 그들을 지나쳐 저 너머로 사라져버렸다.
+Rhino(0)<Speaker>라이노</Speaker>||:......딸꾹.
+SP9(0)<Speaker>모나</Speaker>||:이 상황을 정리해 아이네이아스에 전달하겠습니다. 그 동안 잠시 휴식할까요?+저희의 좌표 데이터를 바탕으로 체스 마스터가 꽤 많은 정보를 분석해낼 수 있을 겁니다.+그럼 길을 헤맬 일도 줄일 수 있겠죠.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:제발 그렇게 해 줘...
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>486</BIN><BGM>10194</BGM><SE1>AVG_Team_Running</SE1>:한편, 그레이 일행은 목적지인 초소로 내달리는 중이었다.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,100</Position>||:얼마나 남았어?
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:아직 조금 더 걸립니다.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:그때 멀리서 격렬한 총소리가 들려왔다.
+NPC-grig(1)<Speaker>틸</Speaker>||:그레이! 놈들이 쫓아왔다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:<size=50>제기랄! 온다던 지원은 대체 어디 있는 거야!</size>
+()<Speaker></Speaker>||:언제나 침착함을 유지하던 그레이가, 통신기에 대고 소리를 질렀다.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>어~ 아주 잘 들리니까 소리 안 질러도 돼~♪</color>+<color=#00CCFF>짜증내서 좋을 것 하나도 없단다, 그레이.</color>
+NPC-grig(1)<Speaker>틸</Speaker>||:당장 지원이 필요하다. 지금 어디에 있지?+뒤쫓아오는 꼬리가 너무 끈질기다.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker><通讯框>||:<color=#00CCFF>알아. 그래도 내가 뭘 어떡하겠니?</color>+<color=#00CCFF>나도 가는 데 시간이 걸리는걸.</color>
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:느려 터진 너라도 여기서 아베르누스까지 적어도 3번은 왕복했을 시간이다만.
+NPC-Bramedb(5)<Speaker>브라메드</Speaker><通讯框>||:<color=#00CCFF>그래~? 거 참 희한하네에, 오늘따라 왜 이리 길이 긴 것 같지~?</color>
+NPC-grig(1)<Speaker>틸</Speaker>||:......
+NPC-Bramedb(3)<Speaker>브라메드</Speaker><通讯框>||:<color=#00CCFF>아무튼 길 잘못 들면 안 되니까 이만 끊을게.</color>+<color=#00CCFF>최대한 빨리 보자~♪</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+통신을 홱 끊어버리는 모양새가, 끝내 못 참고 폭소를 터뜨리는 것을 감추기 위해서임이 분명했다.
+NPC-grig(1)<Speaker>틸</Speaker>||:그레이...
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:......
+()<Speaker></Speaker>||:그레이는 어금니를 악물었다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...아무래도, 지원은 오지 않을 것 같구나.
+NPC-grig(1)<Speaker>틸</Speaker>||:......
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:그래도 절망하기엔 아직 일러.+우선 비행기가 있는 초소까지 가야 해. 이 주변 최근 순찰 기록이――
+NPC-grig(1)<Speaker>틸</Speaker>||:그레이, 놈들이 계속 따라오게 놔둬서는 안 된다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:......
+NPC-grig(1)<Speaker>틸</Speaker>||:내가 가서 저지하겠어.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:하지만 너도 부상을 입었잖니. 그 상태로 전투를 지속하기엔 부담이 너무 커.
+NPC-grig(1)<Speaker>틸</Speaker>||:나는... 괜찮다.+놈들의 침입을 방치하면, 아버님이 너를 벌하실 거다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:......
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타탕――+연달은 총성은 더 가까워진 듯했다.
+NPC-grig(1)<Speaker>틸</Speaker>||:어차피 비행기는 2인승이니 먼저 가라, 그레이.+놈들은 내 속도를 따라오지 못해. 놈들을 따돌리고 바로 가겠다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...알았어.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그레이는 상처투성이인 틸을 보며 잠깐 망설였지만, 이내 정신을 잃기 직전인 몰리도를 부축하며 발길을 옮겼다.
+()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1>:부우웅...+그리고 그들 뒤로, 틸의 칼이 다시 진동하기 시작했다.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><BIN>9</BIN><BGM>BGM_Empty</BGM>:쉬익――+희미하게나마 달빛이 보이는 밤하늘을, 소름끼치는 섬광이 가로질렀다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>485</BIN><BGM>BGM_NightOPS</BGM>:혼란 상태에서 벗어난 질소와 철분 팀은 다시 이동했다.
+Rhino(0)<Speaker>라이노</Speaker>||:아까 정신없이 달리는 바람에 처음에 남긴 흔적이 어디 있는지 모르겠어...
+QBZ191(4)<Speaker>9호</Speaker>||:괜찮으니까 침착하게 살펴봐, 너라면 찾아낼 수 있어.
+SP9(0)<Speaker>모나</Speaker>||<SE1>ClothingUp</SE1>:......
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:왜 그러지?
+()<Speaker></Speaker>||:모나가 갑자기 걸음을 멈췄다.
+SP9(0)<Speaker>모나</Speaker>||:...옷깃이 펄럭이는 소리가 들린 것 같습니다.
+Rhino(0)<Speaker>라이노</Speaker>||:바람 소리겠지 뭐, 나도 이젠 무덤덤해졌어.
+QBZ191(2)<Speaker>9호</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:적대적 신호는 감지되지 않아.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:저기 있잖아, 나도 누가 이쪽을 노려보는 느낌이 드는데...?
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||<BGM>BGM_Empty</BGM>:......모두, 경계해라.+이 바보가 딱히 잘하는 건 없어도 감은 꽤 정확한 편이다.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:<size=50>아 너 진짜!</size>
+SP9(0)<Speaker>모나</Speaker>||:네, 혹시 모르니 대비――
+()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1>:부웅——
+SP9(3)<Speaker>모나</Speaker>||<SE1>Select</SE1>:——!?
+()<Speaker></Speaker>||<BGM>10203</BGM>:귀에 익은 진동음이 들려, 모나는 반사적으로 총을 들었다.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><SE1>AVG_20Winter_Knife_Whoosh</SE1><震屏3>:쉬익――!!+그 새하얀 유령이 잔상을 남기며 온통 검정과 초록 투성이인 주위를 맴도는 모습은, 마치 수풀을 헤치며 기회를 노리는 사마귀 같았다.
+Rhino(0)<Speaker>라이노</Speaker><Shake>0.1</Shake>||<SE1>AVG_Cut_Watermelon</SE1>:<size=50>으윽...!</size>
+()<Speaker></Speaker>||:한발 앞서 눈치채고 경계 태세로 전환했다지만, 성급하게 공격을 피하던 라이노는 눈 깜짝할 사이에 온몸에 무수한 상처를 입었다.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:슈욱——
+Rhino(0)<Speaker>라이노</Speaker>||:뭐가 저리 빨라?!
+SP9(3)<Speaker>모나</Speaker>||:<size=50>틸입니다!</size>
+()<Speaker></Speaker>||:인형들이 간신히 눈으로 포착했을 때, 새하얀 옷의 틸은 높게 솟은 가시 바위 끝에서 냉혹한 시선으로 그들을 내려다보고 있었다.+그 모습은 이 기괴한 어두운 "이계"에서 밝게 빛났다.+날카롭게 굽은, 피를 뚝뚝 흘리는 초승달처럼.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:슈욱!+인형들의 시선이 닿자마자, 틸은 바로 턱을 살짝 당기고 땅을 차 다시 모습을 감췄다.+하지만 그대로 인형들에게 돌진하지 않았다. 저 불길한 녹색 안개 속으로 숨은것이었다.
+SP9(3)<Speaker>모나</Speaker>||<SE1>RunStep</SE1>:주의하세요, 우리의 전력을 소모시키려는 속셈입니다!+철분 팀! 화력 지원 바랍니다!
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||<SE1>AVG_weapon_reload</SE1>:알았다.
+()||<黑点1>:

@@ -1,174 +1,174 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>299</BIN>:조금 전.
-K5(0)<Speaker>K5</Speaker><Shake>0.1</Shake>||<SE2>Gunfight</SE2><BGM>GF_xDivision_Battle1</BGM>:아아아 진짜, 대체 어디서 공격해 오는 거야!?
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:나한테 물어도... 이, 일단 빨리 엄폐물부터 찾아!
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:엄폐는 무슨, 내가 가서 저놈들 머리통을 다 날려버리겠어!
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:헛소리 작작하고 얌전히 숨으라고!
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>298</BIN>:같은 시각.
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:45 언니, 여기는 9. 목표의 후방에 도착했어.+완전 어쩔 줄 몰라하는데, 언니도 보이지?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>응, 아주 잘 보여. 그런데 416은? 네 옆에 없어?</color>
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:모르겠어. 내 시야에도 안 보이는데 길 잃은 거 아닐까?
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP9Mod(0)||<SE1>AVG_weapon_reload</SE1>:그럼 언제든지 네 뒤의 날 볼 수 있도록 뒤통수에 구멍을 뚫어 줘야겠네.
-HK416Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:어머나 무서워라~
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>동료의 뒤통수에 총알을 박으려 하다니, 416 참 나쁜 아이구나?</color>
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:혼자 느긋하게 구경이나 하고 앉아있는 녀석이 할 말이야?
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>구경이라니, 네가 부탁한 대로 잘 지켜보고있다고.</color>
-HK416Mod(0)<Speaker>HK416</Speaker>||:그럼 닥치고 내가 놈들을 해치우는 거나 구경해!
-HK416Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:오, 돌돌이다!
-HK416Mod(0)<Speaker>HK416</Speaker>||:저렇게 뭉쳐 있는 적한텐 이게 딱이지. 쓸데없이 총알 낭비하지 말고 이걸로 싹 해치우자고.
-()<Speaker></Speaker>||:HK416이 배낭에서 대인 유도 지뢰를 꺼내 던졌다.
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Landmine_Movement</SE1>:목표를 포착한 대인 유도 지뢰는 빠른 속도로 R93과 K5를 향해 굴러갔다.+이제 몇 초 후면 두 인형은 사이좋게 폭사할 운명이었고, 승리를 확신한 HK416은 등을 돌렸다.
-HK416Mod(0)<Speaker>HK416</Speaker>||:다 끝났어, 45. 물건 줍게 너도 내려와.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:......
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>정말? 아직도 그쪽에서 총격음이 들리는데?</color>
-HK416Mod(0)<Speaker>HK416</Speaker><Shake>0.1</Shake>||:뭐라고...?
-()<Speaker></Speaker>||:스텝이 꼬여 넘어질 뻔한 HK416은 바로 UMP9 곁으로 돌아와 상황을 확인했다.+그녀의 눈에 들어온 광경은 폭사한 R93과 K5가 아닌, 어디선가 갑자기 들이닥친 LMB 부대에게 습격당해 밀리는 그들의 모습이었고, 그녀가 던졌던 대인 유도 지뢰는 더 가까운 목표의 출현에 그쪽으로 방향을 틀어――
-()<Speaker></Speaker>||<震屏3><SE1>AVG_The_Division_Landmine_Explosion</SE1>:퍼엉!
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>299</BIN>:그 효과를 200% 발휘하여, LMB 부대원들을 모조리 하늘로 날려버렸다. 반면, 엄폐물에 숨어 전혀 피해를 입지 않은 R93과 K5는 이 광경에 놀란 토끼 눈을 끔뻑거리기만 했다.
-K5(0)<Speaker>K5</Speaker>||:어......+우릴 기습해 온 게 저 녀석들인 거 같은데...+설마 폭탄 한 방에 일망타진할 줄은 몰랐네. R93 너 제법이다?
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:어... 내가 한 거 아닌데?
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:음? 뭐야, 그럼 어떻게 된 거지?
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:쟤네가 실수로 길가의 가스통이라도 터뜨렸나 보지. 거리에 그런 거 많잖아?
-K5(0)<Speaker>K5</Speaker>||:그럴 수도... 있나?+아무래도 네 쥐구멍에도 볕들 날이 드디어 왔구나!
-()<Speaker>이를 가는 소리</Speaker>||:아니 뭔 운이 ㅆ――
-K5(0)<Speaker>K5</Speaker>||:응? 방금 뭐랬어?
-()<Speaker></Speaker>||:......
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:잘못 들었나...?+에이 됐어, 저 녀석들이 뭘 떨어뜨렸나 보고 대기 장소를 바꾸자.
-K5(0)<Speaker>K5</Speaker>||:응.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>299</BIN>:천운으로 살아남아 떠나는 두 인형을 마냥 지켜보면서, HK416과 UMP9은 전멸한 LMB 부대의 시체 더미 위에 올라섰다.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>나이스 슈퍼 세이브~</color>
-HK416Mod(0)<Speaker>HK416</Speaker>||:이럴 때 잡몹이 튀어나올 줄 누가 알았겠냐고!+이 대인 유도 지뢰, 가장 먼저 포착한 적을 쫓아야 하는 거 아니야!?
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:묻고 싶어도 돌돌이는 이미 터지고 없는걸.
-UMP9Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>9, 쟤네들 지금 서둘러서 Vector와 합류하려는 모양이니까 가능하면 그 전에 해치워.</color>+<color=#00CCFF>조금은 과격하게 나가도 좋으니까. 나도 금방 따라갈게.</color>
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:알았어 언니!
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>299</BIN><SE2>Gunfight</SE2>:......
-K5(0)<Speaker>K5</Speaker><Shake>0.1</Shake>||:으악!! 또 있어?!
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:어쩌면 방금 그 녀석들일 수 있어! 젠장, 정말 끈질기네!
-K5(0)<Speaker>K5</Speaker><Shake>0.1</Shake>;R93(0)<Position>0,-100</Position>||:반격! 반격해!
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:안 돼, Vivi가 무리하게 싸우지 말라 했잖아! 따돌릴 수 있으면 되도록 도망치자!
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Grenade</SE1><震屏3>:퍼엉!
-K5(0)<Speaker>K5</Speaker>||:수류탄까지 던져대는데 어떻게 도망쳐! 아주 작정하고 우릴 잡으려 하는데?
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:저 앞에 교차로가 있어! 너는 왼쪽, 나는 오른쪽! 놈들을 따돌린 다음 반대편에서 만나자!
-K5(0)<Speaker>K5</Speaker>||:그 수가 통하길 바라는 수밖에. 먼저 갈게!
-()<Speaker></Speaker>||:R93은 교차로에서 방향을 돌려, 눈바람을 맞으며 온힘을 다해 달렸다.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:귓가에 들리는 총성으로 적들 일부가 자신을 쫓아오는 것을 확신하고, 어떻게 대처할지를 고민하던 와중, 수류탄 하나가 그녀 옆에 떨어졌다. 그리고 그것이 뿜어내는 하얀 연기에 시야가 흐려졌다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_tinnitus_0</SE1>:——
-()<Speaker>R93</Speaker>||:마, 망했다...!
-()<Speaker>우쭐대는 목소리</Speaker>||:히히, 이제 못 도망치겠지?
-()<Speaker>R93</Speaker>||:자, 잠깐만! 너도 그리폰 인형이지?+직장 동료끼리 말로 하자!
-()<Speaker>우쭐대는 목소리</Speaker>||:유감이지만, 난 너네 사원이 아니라서. 그럼 게임에서의 마지막을 마음껏 즐기도록 해~
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>300</BIN>:......
-HK416Mod(0)<Speaker>HK416</Speaker>||:잡았어?
-HK416Mod(0);UMP9Mod(2)<Speaker>UMP9</Speaker>||:물론. 넌?
-HK416Mod(0)<Speaker>HK416</Speaker>||:그 녀석 맨발로 뭐가 그렇게 빠른지... 그래도 하나는 잡았으니 다행이네, 이 녀석도 좋은 물건 잔뜩 가졌을 테니.
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:<size=55>난 물밖에 없어!</size>
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:뭐가 있는진 우리가 뒤져보고 판단할게♪+참, 아까 돌돌이 낭비해서 짜증냈지? 나 아직 하나 남았는데 쓸래?
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP9Mod(0)||:잔말 말고 얼른 해치우기나 해!
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:미안, 우리 동료가 워낙에 성질이 급해서 말이야.+그럼 잘 가, 그리폰의 인형 아가씨~
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Landmine_Movement</SE1>:R93은 대인 유도 지뢰가 굴러오는 소리를 듣고, 그제서야 방금 일어났던 폭발의 원인이 무엇이었는지 깨달았다.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:하지만 너무 늦었다. 시야가 아직 돌아오지 않은 상태에서, 그녀는 마구잡이로 총을 쏘아대며 대인 유도 지뢰 소리의 반대 방향으로 뒷걸음질칠 수밖에 없었다.+그러다 뭔가에 발이 걸려, 균형을 잃고 뒤로 넘어졌다. 하지만 누구도 예상하지 못한 일이 벌어졌다.
-()<Speaker>R93</Speaker>||:와아아악!?
-()<Speaker></Speaker>||:쏘옥!
-()<Speaker></Speaker>||:HK416과 UMP9의 눈앞에서, R93의 모습이 갑자기 사라졌다.
-UMP9Mod(3)<Speaker>UMP9</Speaker>||:으엥?!
-HK416Mod(0)<Speaker>HK416</Speaker>||:헐...?
-()<Speaker></Speaker>||:"이 게임에 저런 스킬이 있었나?"+...라 말하려던 UMP9은 자신이 던진 지뢰가 제자리에 멈춘 것을 눈치채지 못했다.+목표를 잃은 탓인지 대인 유도 지뢰는 터지지 않았고 잠깐 가만히 있더니 돌연 방향을 틀었다.
-HK416Mod(0)<Speaker>HK416</Speaker>||:뭐, 뭐 저런 게 다 있어?!+9, 피해!
-UMP9Mod(0)<Speaker>UMP9</Speaker><Shake>0.1</Shake>||<SE1>AVG_The_Division_Baggage_bomb</SE1>:괜찮아 괜찮아, 이런 것쯤이야 구르기로 쉽게――
-HK416Mod(0)<Speaker>HK416</Speaker>||<SE1>AVG_The_Division_Baggage_bomb_Activation</SE1>:잠깐만 그쪽에는...!
-()<Speaker></Speaker>||<SE1>Explode</SE1>:콰앙!
-()<Speaker></Speaker>||:UMP9이 굴러 착지한 지점에서 불꽃이 치솟았다. UMP9은 얼굴에 시꺼먼 물건이 들러붙은 채로, 개구리처럼 바닥에 엎어졌다.
-()<Speaker>시스템</Speaker>||:X 플레이어 "라이나"이(가) 부비트랩에 사망했습니다. X
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>......</color>
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:...동생이 공개 처형당한 감상은?
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>내 주먹이 너에게 닿은 뒤에 말해 줄게.</color>+<color=#00CCFF>목표는?</color>
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:갑자기 사라졌어.+이래선 추격할 수도 없어.
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>결국 녀석들을 놓쳐버렸네. 거기다 9까지 잃다니...</color>+<color=#00CCFF>...뭐, 괜찮아. 어차피 이 게임의 승자는 단 한 명만 있으면 되니까.</color>+<color=#00CCFF>9의 물건 챙겨서 돌아와.</color>
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:......
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>에이, 그렇게 무섭게 침묵하지 마. 나도 소중한 두 동료의 죽음에 마음이 아프다고.</color>
-HK416Mod(0)<Speaker>HK416</Speaker>||<SE1>AVG_tele_disconnect</SE1>:웃기고 있네!
-()<Speaker></Speaker>||:HK416은 투덜대면서 UMP9이 떨어뜨린 물자를 챙기고 거리를 벗어났다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:......
-R93()<Speaker>R93</Speaker>||:......+그 녀석들 갔지?+저기요――? K5, 거기 있어? K――5――!
-()<Speaker></Speaker>||:......
-R93()<Speaker>R93</Speaker>||:이게 뭐야... 이게 대체 뭐냐고...+저기, 방금 나 죽이려던 애들이라도 좋으니까 나 좀 여기서 꺼내 줘!+차라리 죽여도 좋으니까 이대로 날 두고 가지 말아 줘――!!
-()<Speaker></Speaker>||:......
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>159</BIN><Night>:한편, 그랜트 센트럴 터미널.
-Vector(0)<Speaker>Vector</Speaker>||<SE1>Select</SE1><BGM>GF_xDivision_Scene3</BGM>:......
-HK416(6)<Speaker>터스크</Speaker>||:......+금방일 줄 알았는데, 예상보다 훨씬 끈질기구나. 그 점만큼은 칭찬해 주겠어.
-Vector(0)<Speaker>Vector</Speaker>||:이 정도도 못하면 여기까지 오지도 못했어.
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>대단합니다 요원님, 녀석을 제압하셨군요!</color>+<color=#00CCFF>자, 이제 녀석을 해치우세요!</color>
-Vector(0)<Speaker>Vector</Speaker>||:말 안 해도 그러려던 참이야.
-HK416(6)<Speaker>터스크</Speaker>||:그런가... 그럼 나도 작전을 다시 짜야겠군.
-Vector(0)<Speaker>Vector</Speaker>||:...?
-HK416(6)<Speaker>터스크</Speaker>||:하이라이트는 마지막까지 남겨 두도록 하지... 그때, 네가 얼마나 절망하는 표정을 지을지 기대할게.
-()<Speaker></Speaker>||:의미심장한 말을 남기고, Vector가 제압했던 적은 거리 위에서 홀연히 사라졌다.
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>아, 안 돼!!</color>+<color=#00CCFF>제기랄, 결국 놓쳤잖아!</color>
-NPC-Dima(1);Vector(0)<Speaker>Vector</Speaker>||:저 녀석이 죽길 바라는 것 같네?
-NPC-Dima(1)<Speaker>디마</Speaker>;Vector(0)||:<color=#00CCFF>그뿐일 리가... 녀석을 당장에라도 삭제해 버리고 싶은 심정인데...</color>+<color=#00CCFF>아, 물론 물론, 다 맨해튼과 뉴욕을 위해서입니다!</color>
-NPC-Dima(1);Vector(0)<Speaker>Vector</Speaker>||:삭제라니, 저쪽도 플레이어야? 너 혹시 저쪽한테도 날 해치우라고 하는 건 아니겠지?
-NPC-Dima(1)<Speaker>디마</Speaker>;Vector(0)||:<color=#00CCFF>네?</color>
-NPC-Dima(1);Vector(0)<Speaker>Vector</Speaker>||:디마, 점점 더 네가 의심스러워.+나한테 뭘 숨기고 있어?
-NPC-Dima(1)<Speaker>디마</Speaker>;Vector(0)||:<color=#00CCFF>수, 숨기는 건...</color>
-NPC-Dima(1);K5(0)<Speaker>K5</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Vivi... Vivi! 들리면 대답해!</color>+<color=#00CCFF>그쪽 상황은 어때?</color>
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>......</color>
-Vector(0)<Speaker>Vector</Speaker>||:......+여기는 벡터. 그 이상한 녀석이 방금 도망쳤어. 그쪽은?
-K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>적을 따돌리고 방금 R93과 합류한 참이야.</color>+<color=#00CCFF>얘가 얼마나 웃긴 모습이었는지 상상도 못할걸!</color>
-R93(0)<Speaker>R93</Speaker><通讯框><Position>0,-100</Position>;Vector(0)||:<color=#00CCFF>닥쳐! 오늘 운수 진짜 왜 이래!? 이게 벌써 몇 번째야...</color>
-R93(0)<Position>0,-100</Position>;Vector(0)<Speaker>Vector</Speaker>||:모두 무사해서 다행이야.+방금 적에게 습격당했다 했는데, 어떻게 됐어?
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||:<color=#00CCFF>사라졌어. 그쪽 동료가 하나 죽어서 후퇴했나 봐.</color>
-R93(0)<Position>0,-100</Position>;Vector(0)<Speaker>Vector</Speaker>||:그렇구나... 상대도 그리폰 인형이었어?
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>;Vector(0)||:<color=#00CCFF>미안... 얼굴을 보기도 전에 최루탄을 맞았어.</color>
-K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>나나나! 난 봤어!</color>+<color=#00CCFF>날 쫓아오던 녀석, 그리폰에서 본 적은 없지만 하얀 생머리에 초록색 눈이었어! 독특한 외모여서 똑똑히 기억해!</color>
-K5(0);Vector(0)<Speaker>Vector</Speaker>||:하얀 생머리에 초록색 눈...?
-K5(0)<Speaker>K5</Speaker>;Vector(0)||:<color=#00CCFF>뭐 이상한 점 있어?</color>
-Vector(0)<Speaker>Vector</Speaker>||:......+우리, 아무래도 같은 상대를 만난 거 같아. 하지만... 어떻게 거의 동시에 두 장소에 나타난 거지?+최대한 빨리 그쪽으로 갈 테니, 조심해.
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>||<SE2>Gunfight</SE2>:<color=#00CCFF>안심해, 적어도 당분간은 아무도 안 올 거 같으니까.</color>
-K5(0)<Speaker>K5</Speaker><通讯框>||:<color=#00CCFF>R93——!!!</color>
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>||:<color=#00CCFF>엉?!</color>
-Vector(0)<Speaker>Vector</Speaker>||:총성... 또 그 녀석들이야?
-K5(0)<Speaker>K5</Speaker><通讯框>||:<color=#00CCFF>잠깐만, 저거 설마...</color>+<color=#00CCFF>에엥?!</color>+<color=#00CCFF>저, 저건...!</color>
-K5(0)<Speaker>K5</Speaker>||<SE2>Gunfight</SE2>:<color=#00CCFF>꺄악!</color>
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>||:<color=#00CCFF>V, Vivi! 너——</color>
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||<SE2>Gunfight</SE2>:<color=#00CCFF>꺄아아아——!</color>
-Vector(0)<Speaker>Vector</Speaker>||:K5! R93!
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:통신이 끊어졌다.
-()<Speaker>시스템</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:X 헬파이어이(가) 언럭키엔젤을(를) 처치했습니다. X+X 헬파이어이(가) 철학관요정을(를) 처치했습니다. X
-Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:......+결국, 나 혼자만 남은 건가...+...그래도, 모두 기다려 줘.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......
-()<Speaker>카리나</Speaker>||:이... 이건 정말 예상 밖의 전개네요!
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>295</BIN><BGM>BGM_Hello</BGM>:그리폰 지휘실.
-()<Speaker>카리나</Speaker>||:Vector가 저렇게 진지해질 줄이야! 저 기세라면 결승전도 문제 없겠어요!
-()<Speaker>인형A</Speaker>||:Vivi가 어떤 활약을 보일지 정말 기대되네.
-()<Speaker>인형B</Speaker>||:응... 정말 손에 땀을 쥐게 해!
-()<Speaker>K5</Speaker>||:헤헷, 걱정 붙들어들 매시라. 진심 모드인 Vivi는 누구에게도 지지 않아!
-()<Speaker>인형A</Speaker>||:어라, K5? 벌써 로그아웃했어? 아, R93도 왔네.
-()<Speaker>R93</Speaker>||:레벨 2 플랫폼에서 뭐해 그럼...+지금 지지율 어떻게 돼?
-()<Speaker>인형B</Speaker>||:너희 팀 지지율이 엄청 오르긴 했는데, 마지막까지 봐야지.
-()<Speaker>K5</Speaker>||:지휘관이 직접 선발한 팀인걸, 실력은 확실해!
-()<Speaker>인형C</Speaker>||:큰소리치기엔 일러, 이 게임은 피지컬만으론 안 된다고.
-()<Speaker>K5</Speaker>||:흐응? 그럼 그 의견이나 좀 들어보실까?
-()<Speaker>인형C</Speaker>||:좋아. 근데 미리 말하지만 난 이 게임 직접 해본 적은 없고 스트리밍으로만 봤어.+Vivi는 저 게임 모드의 메타를 잘 몰라서 초반부터 전멸할 뻔했는데, 내가 아는 스트리머는 팀 데리고 맨몸으로 캐리하더라. Vivi랑은 완전 하늘과 땅 차이였어.
-()<Speaker>R93</Speaker>||:직접 해본 적도 없으면서 뭘 평가해?
-()<Speaker>인형C</Speaker>||:그래도 스트리밍으로 봐서 안다니까? 너넨 안 봐?
-()<Speaker>K5</Speaker>||:아니 아니, 전혀 설득력 없거든?!
-()<Speaker>인형C</Speaker>||:오직 결과만이 가장 설득력 있지. 그럼 어느 팀이 이길지 내기할래?
-()<Speaker>K5</Speaker>||:좋아! R93, 우리도 빨리 Vivi한테 투표하자!
-()<Speaker>R93</Speaker>||:이, 일단 진정부터 할래...?
-()<Speaker>K5</Speaker>||:진정할 게 뭐가 있어, Vivi는 반드시 이기니까 두고보라고!+카리나, 여기 내 투표비!
-()<Speaker>카리나</Speaker>||<BIN>294</BIN>:그래 그래, 싸우지 말고 차례대로 차례대로~+베팅 고마워!
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:......
-()<Speaker>시스템</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:남은 생존 플레이어 - 10명.
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>299</BIN>:조금 전.
+K5(0)<Speaker>K5</Speaker><Shake>0.1</Shake>||<SE2>Gunfight</SE2><BGM>GF_xDivision_Battle1</BGM>:아아아 진짜, 대체 어디서 공격해 오는 거야!?
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:나한테 물어도... 이, 일단 빨리 엄폐물부터 찾아!
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:엄폐는 무슨, 내가 가서 저놈들 머리통을 다 날려버리겠어!
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:헛소리 작작하고 얌전히 숨으라고!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>298</BIN>:같은 시각.
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:45 언니, 여기는 9. 목표의 후방에 도착했어.+완전 어쩔 줄 몰라하는데, 언니도 보이지?
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>응, 아주 잘 보여. 그런데 416은? 네 옆에 없어?</color>
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:모르겠어. 내 시야에도 안 보이는데 길 잃은 거 아닐까?
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP9Mod(0)||<SE1>AVG_weapon_reload</SE1>:그럼 언제든지 네 뒤의 날 볼 수 있도록 뒤통수에 구멍을 뚫어 줘야겠네.
+HK416Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:어머나 무서워라~
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>동료의 뒤통수에 총알을 박으려 하다니, 416 참 나쁜 아이구나?</color>
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:혼자 느긋하게 구경이나 하고 앉아있는 녀석이 할 말이야?
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>구경이라니, 네가 부탁한 대로 잘 지켜보고있다고.</color>
+HK416Mod(0)<Speaker>HK416</Speaker>||:그럼 닥치고 내가 놈들을 해치우는 거나 구경해!
+HK416Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:오, 돌돌이다!
+HK416Mod(0)<Speaker>HK416</Speaker>||:저렇게 뭉쳐 있는 적한텐 이게 딱이지. 쓸데없이 총알 낭비하지 말고 이걸로 싹 해치우자고.
+()<Speaker></Speaker>||:HK416이 배낭에서 대인 유도 지뢰를 꺼내 던졌다.
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Landmine_Movement</SE1>:목표를 포착한 대인 유도 지뢰는 빠른 속도로 R93과 K5를 향해 굴러갔다.+이제 몇 초 후면 두 인형은 사이좋게 폭사할 운명이었고, 승리를 확신한 HK416은 등을 돌렸다.
+HK416Mod(0)<Speaker>HK416</Speaker>||:다 끝났어, 45. 물건 줍게 너도 내려와.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:......
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>정말? 아직도 그쪽에서 총격음이 들리는데?</color>
+HK416Mod(0)<Speaker>HK416</Speaker><Shake>0.1</Shake>||:뭐라고...?
+()<Speaker></Speaker>||:스텝이 꼬여 넘어질 뻔한 HK416은 바로 UMP9 곁으로 돌아와 상황을 확인했다.+그녀의 눈에 들어온 광경은 폭사한 R93과 K5가 아닌, 어디선가 갑자기 들이닥친 LMB 부대에게 습격당해 밀리는 그들의 모습이었고, 그녀가 던졌던 대인 유도 지뢰는 더 가까운 목표의 출현에 그쪽으로 방향을 틀어――
+()<Speaker></Speaker>||<震屏3><SE1>AVG_The_Division_Landmine_Explosion</SE1>:퍼엉!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>299</BIN>:그 효과를 200% 발휘하여, LMB 부대원들을 모조리 하늘로 날려버렸다. 반면, 엄폐물에 숨어 전혀 피해를 입지 않은 R93과 K5는 이 광경에 놀란 토끼 눈을 끔뻑거리기만 했다.
+K5(0)<Speaker>K5</Speaker>||:어......+우릴 기습해 온 게 저 녀석들인 거 같은데...+설마 폭탄 한 방에 일망타진할 줄은 몰랐네. R93 너 제법이다?
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:어... 내가 한 거 아닌데?
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:음? 뭐야, 그럼 어떻게 된 거지?
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:쟤네가 실수로 길가의 가스통이라도 터뜨렸나 보지. 거리에 그런 거 많잖아?
+K5(0)<Speaker>K5</Speaker>||:그럴 수도... 있나?+아무래도 네 쥐구멍에도 볕들 날이 드디어 왔구나!
+()<Speaker>이를 가는 소리</Speaker>||:아니 뭔 운이 ㅆ――
+K5(0)<Speaker>K5</Speaker>||:응? 방금 뭐랬어?
+()<Speaker></Speaker>||:......
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:잘못 들었나...?+에이 됐어, 저 녀석들이 뭘 떨어뜨렸나 보고 대기 장소를 바꾸자.
+K5(0)<Speaker>K5</Speaker>||:응.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>299</BIN>:천운으로 살아남아 떠나는 두 인형을 마냥 지켜보면서, HK416과 UMP9은 전멸한 LMB 부대의 시체 더미 위에 올라섰다.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>나이스 슈퍼 세이브~</color>
+HK416Mod(0)<Speaker>HK416</Speaker>||:이럴 때 잡몹이 튀어나올 줄 누가 알았겠냐고!+이 대인 유도 지뢰, 가장 먼저 포착한 적을 쫓아야 하는 거 아니야!?
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:묻고 싶어도 돌돌이는 이미 터지고 없는걸.
+UMP9Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>9, 쟤네들 지금 서둘러서 Vector와 합류하려는 모양이니까 가능하면 그 전에 해치워.</color>+<color=#00CCFF>조금은 과격하게 나가도 좋으니까. 나도 금방 따라갈게.</color>
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:알았어 언니!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>299</BIN><SE2>Gunfight</SE2>:......
+K5(0)<Speaker>K5</Speaker><Shake>0.1</Shake>||:으악!! 또 있어?!
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:어쩌면 방금 그 녀석들일 수 있어! 젠장, 정말 끈질기네!
+K5(0)<Speaker>K5</Speaker><Shake>0.1</Shake>;R93(0)<Position>0,-100</Position>||:반격! 반격해!
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:안 돼, Vivi가 무리하게 싸우지 말라 했잖아! 따돌릴 수 있으면 되도록 도망치자!
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Grenade</SE1><震屏3>:퍼엉!
+K5(0)<Speaker>K5</Speaker>||:수류탄까지 던져대는데 어떻게 도망쳐! 아주 작정하고 우릴 잡으려 하는데?
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:저 앞에 교차로가 있어! 너는 왼쪽, 나는 오른쪽! 놈들을 따돌린 다음 반대편에서 만나자!
+K5(0)<Speaker>K5</Speaker>||:그 수가 통하길 바라는 수밖에. 먼저 갈게!
+()<Speaker></Speaker>||:R93은 교차로에서 방향을 돌려, 눈바람을 맞으며 온힘을 다해 달렸다.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:귓가에 들리는 총성으로 적들 일부가 자신을 쫓아오는 것을 확신하고, 어떻게 대처할지를 고민하던 와중, 수류탄 하나가 그녀 옆에 떨어졌다. 그리고 그것이 뿜어내는 하얀 연기에 시야가 흐려졌다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_tinnitus_0</SE1>:——
+()<Speaker>R93</Speaker>||:마, 망했다...!
+()<Speaker>우쭐대는 목소리</Speaker>||:히히, 이제 못 도망치겠지?
+()<Speaker>R93</Speaker>||:자, 잠깐만! 너도 그리폰 인형이지?+직장 동료끼리 말로 하자!
+()<Speaker>우쭐대는 목소리</Speaker>||:유감이지만, 난 너네 사원이 아니라서. 그럼 게임에서의 마지막을 마음껏 즐기도록 해~
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>300</BIN>:......
+HK416Mod(0)<Speaker>HK416</Speaker>||:잡았어?
+HK416Mod(0);UMP9Mod(2)<Speaker>UMP9</Speaker>||:물론. 넌?
+HK416Mod(0)<Speaker>HK416</Speaker>||:그 녀석 맨발로 뭐가 그렇게 빠른지... 그래도 하나는 잡았으니 다행이네, 이 녀석도 좋은 물건 잔뜩 가졌을 테니.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:<size=55>난 물밖에 없어!</size>
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:뭐가 있는진 우리가 뒤져보고 판단할게♪+참, 아까 돌돌이 낭비해서 짜증냈지? 나 아직 하나 남았는데 쓸래?
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP9Mod(0)||:잔말 말고 얼른 해치우기나 해!
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:미안, 우리 동료가 워낙에 성질이 급해서 말이야.+그럼 잘 가, 그리폰의 인형 아가씨~
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Landmine_Movement</SE1>:R93은 대인 유도 지뢰가 굴러오는 소리를 듣고, 그제서야 방금 일어났던 폭발의 원인이 무엇이었는지 깨달았다.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:하지만 너무 늦었다. 시야가 아직 돌아오지 않은 상태에서, 그녀는 마구잡이로 총을 쏘아대며 대인 유도 지뢰 소리의 반대 방향으로 뒷걸음질칠 수밖에 없었다.+그러다 뭔가에 발이 걸려, 균형을 잃고 뒤로 넘어졌다. 하지만 누구도 예상하지 못한 일이 벌어졌다.
+()<Speaker>R93</Speaker>||:와아아악!?
+()<Speaker></Speaker>||:쏘옥!
+()<Speaker></Speaker>||:HK416과 UMP9의 눈앞에서, R93의 모습이 갑자기 사라졌다.
+UMP9Mod(3)<Speaker>UMP9</Speaker>||:으엥?!
+HK416Mod(0)<Speaker>HK416</Speaker>||:헐...?
+()<Speaker></Speaker>||:"이 게임에 저런 스킬이 있었나?"+...라 말하려던 UMP9은 자신이 던진 지뢰가 제자리에 멈춘 것을 눈치채지 못했다.+목표를 잃은 탓인지 대인 유도 지뢰는 터지지 않았고 잠깐 가만히 있더니 돌연 방향을 틀었다.
+HK416Mod(0)<Speaker>HK416</Speaker>||:뭐, 뭐 저런 게 다 있어?!+9, 피해!
+UMP9Mod(0)<Speaker>UMP9</Speaker><Shake>0.1</Shake>||<SE1>AVG_The_Division_Baggage_bomb</SE1>:괜찮아 괜찮아, 이런 것쯤이야 구르기로 쉽게――
+HK416Mod(0)<Speaker>HK416</Speaker>||<SE1>AVG_The_Division_Baggage_bomb_Activation</SE1>:잠깐만 그쪽에는...!
+()<Speaker></Speaker>||<SE1>Explode</SE1>:콰앙!
+()<Speaker></Speaker>||:UMP9이 굴러 착지한 지점에서 불꽃이 치솟았다. UMP9은 얼굴에 시꺼먼 물건이 들러붙은 채로, 개구리처럼 바닥에 엎어졌다.
+()<Speaker>시스템</Speaker>||:X 플레이어 "라이나"이(가) 부비트랩에 사망했습니다. X
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>......</color>
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:...동생이 공개 처형당한 감상은?
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>내 주먹이 너에게 닿은 뒤에 말해 줄게.</color>+<color=#00CCFF>목표는?</color>
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:갑자기 사라졌어.+이래선 추격할 수도 없어.
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>결국 녀석들을 놓쳐버렸네. 거기다 9까지 잃다니...</color>+<color=#00CCFF>...뭐, 괜찮아. 어차피 이 게임의 승자는 단 한 명만 있으면 되니까.</color>+<color=#00CCFF>9의 물건 챙겨서 돌아와.</color>
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:......
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>에이, 그렇게 무섭게 침묵하지 마. 나도 소중한 두 동료의 죽음에 마음이 아프다고.</color>
+HK416Mod(0)<Speaker>HK416</Speaker>||<SE1>AVG_tele_disconnect</SE1>:웃기고 있네!
+()<Speaker></Speaker>||:HK416은 투덜대면서 UMP9이 떨어뜨린 물자를 챙기고 거리를 벗어났다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:......
+R93()<Speaker>R93</Speaker>||:......+그 녀석들 갔지?+저기요――? K5, 거기 있어? K――5――!
+()<Speaker></Speaker>||:......
+R93()<Speaker>R93</Speaker>||:이게 뭐야... 이게 대체 뭐냐고...+저기, 방금 나 죽이려던 애들이라도 좋으니까 나 좀 여기서 꺼내 줘!+차라리 죽여도 좋으니까 이대로 날 두고 가지 말아 줘――!!
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>159</BIN><Night>:한편, 그랜트 센트럴 터미널.
+Vector(0)<Speaker>Vector</Speaker>||<SE1>Select</SE1><BGM>GF_xDivision_Scene3</BGM>:......
+HK416(6)<Speaker>터스크</Speaker>||:......+금방일 줄 알았는데, 예상보다 훨씬 끈질기구나. 그 점만큼은 칭찬해 주겠어.
+Vector(0)<Speaker>Vector</Speaker>||:이 정도도 못하면 여기까지 오지도 못했어.
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>대단합니다 요원님, 녀석을 제압하셨군요!</color>+<color=#00CCFF>자, 이제 녀석을 해치우세요!</color>
+Vector(0)<Speaker>Vector</Speaker>||:말 안 해도 그러려던 참이야.
+HK416(6)<Speaker>터스크</Speaker>||:그런가... 그럼 나도 작전을 다시 짜야겠군.
+Vector(0)<Speaker>Vector</Speaker>||:...?
+HK416(6)<Speaker>터스크</Speaker>||:하이라이트는 마지막까지 남겨 두도록 하지... 그때, 네가 얼마나 절망하는 표정을 지을지 기대할게.
+()<Speaker></Speaker>||:의미심장한 말을 남기고, Vector가 제압했던 적은 거리 위에서 홀연히 사라졌다.
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>아, 안 돼!!</color>+<color=#00CCFF>제기랄, 결국 놓쳤잖아!</color>
+NPC-Dima(1);Vector(0)<Speaker>Vector</Speaker>||:저 녀석이 죽길 바라는 것 같네?
+NPC-Dima(1)<Speaker>디마</Speaker>;Vector(0)||:<color=#00CCFF>그뿐일 리가... 녀석을 당장에라도 삭제해 버리고 싶은 심정인데...</color>+<color=#00CCFF>아, 물론 물론, 다 맨해튼과 뉴욕을 위해서입니다!</color>
+NPC-Dima(1);Vector(0)<Speaker>Vector</Speaker>||:삭제라니, 저쪽도 플레이어야? 너 혹시 저쪽한테도 날 해치우라고 하는 건 아니겠지?
+NPC-Dima(1)<Speaker>디마</Speaker>;Vector(0)||:<color=#00CCFF>네?</color>
+NPC-Dima(1);Vector(0)<Speaker>Vector</Speaker>||:디마, 점점 더 네가 의심스러워.+나한테 뭘 숨기고 있어?
+NPC-Dima(1)<Speaker>디마</Speaker>;Vector(0)||:<color=#00CCFF>수, 숨기는 건...</color>
+NPC-Dima(1);K5(0)<Speaker>K5</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Vivi... Vivi! 들리면 대답해!</color>+<color=#00CCFF>그쪽 상황은 어때?</color>
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>......</color>
+Vector(0)<Speaker>Vector</Speaker>||:......+여기는 벡터. 그 이상한 녀석이 방금 도망쳤어. 그쪽은?
+K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>적을 따돌리고 방금 R93과 합류한 참이야.</color>+<color=#00CCFF>얘가 얼마나 웃긴 모습이었는지 상상도 못할걸!</color>
+R93(0)<Speaker>R93</Speaker><通讯框><Position>0,-100</Position>;Vector(0)||:<color=#00CCFF>닥쳐! 오늘 운수 진짜 왜 이래!? 이게 벌써 몇 번째야...</color>
+R93(0)<Position>0,-100</Position>;Vector(0)<Speaker>Vector</Speaker>||:모두 무사해서 다행이야.+방금 적에게 습격당했다 했는데, 어떻게 됐어?
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||:<color=#00CCFF>사라졌어. 그쪽 동료가 하나 죽어서 후퇴했나 봐.</color>
+R93(0)<Position>0,-100</Position>;Vector(0)<Speaker>Vector</Speaker>||:그렇구나... 상대도 그리폰 인형이었어?
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>;Vector(0)||:<color=#00CCFF>미안... 얼굴을 보기도 전에 최루탄을 맞았어.</color>
+K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>나나나! 난 봤어!</color>+<color=#00CCFF>날 쫓아오던 녀석, 그리폰에서 본 적은 없지만 하얀 생머리에 초록색 눈이었어! 독특한 외모여서 똑똑히 기억해!</color>
+K5(0);Vector(0)<Speaker>Vector</Speaker>||:하얀 생머리에 초록색 눈...?
+K5(0)<Speaker>K5</Speaker>;Vector(0)||:<color=#00CCFF>뭐 이상한 점 있어?</color>
+Vector(0)<Speaker>Vector</Speaker>||:......+우리, 아무래도 같은 상대를 만난 거 같아. 하지만... 어떻게 거의 동시에 두 장소에 나타난 거지?+최대한 빨리 그쪽으로 갈 테니, 조심해.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>||<SE2>Gunfight</SE2>:<color=#00CCFF>안심해, 적어도 당분간은 아무도 안 올 거 같으니까.</color>
+K5(0)<Speaker>K5</Speaker><通讯框>||:<color=#00CCFF>R93——!!!</color>
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>||:<color=#00CCFF>엉?!</color>
+Vector(0)<Speaker>Vector</Speaker>||:총성... 또 그 녀석들이야?
+K5(0)<Speaker>K5</Speaker><通讯框>||:<color=#00CCFF>잠깐만, 저거 설마...</color>+<color=#00CCFF>에엥?!</color>+<color=#00CCFF>저, 저건...!</color>
+K5(0)<Speaker>K5</Speaker>||<SE2>Gunfight</SE2>:<color=#00CCFF>꺄악!</color>
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>||:<color=#00CCFF>V, Vivi! 너——</color>
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||<SE2>Gunfight</SE2>:<color=#00CCFF>꺄아아아——!</color>
+Vector(0)<Speaker>Vector</Speaker>||:K5! R93!
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:통신이 끊어졌다.
+()<Speaker>시스템</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:X 헬파이어이(가) 언럭키엔젤을(를) 처치했습니다. X+X 헬파이어이(가) 철학관요정을(를) 처치했습니다. X
+Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:......+결국, 나 혼자만 남은 건가...+...그래도, 모두 기다려 줘.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......
+()<Speaker>카리나</Speaker>||:이... 이건 정말 예상 밖의 전개네요!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>295</BIN><BGM>BGM_Hello</BGM>:그리폰 지휘실.
+()<Speaker>카리나</Speaker>||:Vector가 저렇게 진지해질 줄이야! 저 기세라면 결승전도 문제 없겠어요!
+()<Speaker>인형A</Speaker>||:Vivi가 어떤 활약을 보일지 정말 기대되네.
+()<Speaker>인형B</Speaker>||:응... 정말 손에 땀을 쥐게 해!
+()<Speaker>K5</Speaker>||:헤헷, 걱정 붙들어들 매시라. 진심 모드인 Vivi는 누구에게도 지지 않아!
+()<Speaker>인형A</Speaker>||:어라, K5? 벌써 로그아웃했어? 아, R93도 왔네.
+()<Speaker>R93</Speaker>||:레벨 2 플랫폼에서 뭐해 그럼...+지금 지지율 어떻게 돼?
+()<Speaker>인형B</Speaker>||:너희 팀 지지율이 엄청 오르긴 했는데, 마지막까지 봐야지.
+()<Speaker>K5</Speaker>||:지휘관이 직접 선발한 팀인걸, 실력은 확실해!
+()<Speaker>인형C</Speaker>||:큰소리치기엔 일러, 이 게임은 피지컬만으론 안 된다고.
+()<Speaker>K5</Speaker>||:흐응? 그럼 그 의견이나 좀 들어보실까?
+()<Speaker>인형C</Speaker>||:좋아. 근데 미리 말하지만 난 이 게임 직접 해본 적은 없고 스트리밍으로만 봤어.+Vivi는 저 게임 모드의 메타를 잘 몰라서 초반부터 전멸할 뻔했는데, 내가 아는 스트리머는 팀 데리고 맨몸으로 캐리하더라. Vivi랑은 완전 하늘과 땅 차이였어.
+()<Speaker>R93</Speaker>||:직접 해본 적도 없으면서 뭘 평가해?
+()<Speaker>인형C</Speaker>||:그래도 스트리밍으로 봐서 안다니까? 너넨 안 봐?
+()<Speaker>K5</Speaker>||:아니 아니, 전혀 설득력 없거든?!
+()<Speaker>인형C</Speaker>||:오직 결과만이 가장 설득력 있지. 그럼 어느 팀이 이길지 내기할래?
+()<Speaker>K5</Speaker>||:좋아! R93, 우리도 빨리 Vivi한테 투표하자!
+()<Speaker>R93</Speaker>||:이, 일단 진정부터 할래...?
+()<Speaker>K5</Speaker>||:진정할 게 뭐가 있어, Vivi는 반드시 이기니까 두고보라고!+카리나, 여기 내 투표비!
+()<Speaker>카리나</Speaker>||<BIN>294</BIN>:그래 그래, 싸우지 말고 차례대로 차례대로~+베팅 고마워!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:......
+()<Speaker>시스템</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:남은 생존 플레이어 - 10명.
+()||<黑屏1>:

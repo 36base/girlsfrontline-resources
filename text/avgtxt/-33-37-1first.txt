@@ -1,79 +1,79 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>55</BIN><黑屏2>:탈린시 교외.+AR팀은 방어 위치에 도착해, 진격할 때를 기다렸다.
-RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>:알겠습니다 지휘관님, 저희가 다른 제대를 통솔하겠습니다. 공격 임무는 맡겨 주세요.+네, 명령을 기다리겠습니다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:임무 다 전달받았어?
-RO635(0)<Speaker>RO635</Speaker>||:응, 우리 쪽은 문제없어.+그것보다, 정말 M4 씨만으로 괜찮을까?
-AR15Mod(3)<Speaker>AR15</Speaker>||:M4가 스스로 정한 일이야. 대장의 판단을 믿어야지.+그리고, 지금 상황으로선 이게 최선이야.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그래도 좀 걱정돼...+만약에 M4가 말한 그 상황이 또 발생하면 위험하잖아.
-AR15Mod(0)<Speaker>AR15</Speaker>||:안심해. M4는 이제 예전처럼 망설이지 않을 테니까.
-RO635(0)<Speaker>RO635</Speaker>||:그 말을 들으니 생각났는데, M4 씨랑 연결한 동안 무슨 일 있었어?
-AR15Mod(0)<Speaker>AR15</Speaker>||:있었지. 왜, 궁금해?
-RO635(0)<Speaker>RO635</Speaker>||:응. 둘이 또 느낌이 달라진 것 같아서.
-AR15Mod(3)<Speaker>AR15</Speaker>||:별거 아니야.+그냥... 엉터리 초대장을 거절하고, 보기 역겨운 이야기를 봤을 뿐이지.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:으응...?+무슨 소릴 하는 건지 하나도 모르겠어.
-AR15Mod(4)<Speaker>AR15</Speaker>||:모르는 편이 나아.+세상엔 알면 오히려 손해인 일도 있으니까.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그래...? 어차피 그런 거 관심 없으니까 뭐.+난 모두와 함께라면 아무래도 좋아!
-()<Speaker></Speaker>||<黑点1>:그때, 멀리서 총성이 터졌다.+그리고 그와 동시에 AR팀의 모두에게 통신이 들어왔다.
-RO635(4)<Speaker>RO635</Speaker>||<黑点2>:...예상보다 훨씬 빨리 교전 거리에 들어왔네. 상황이 좀 어긋났어.
-AR15Mod(2)<Speaker>AR15</Speaker>||:그런데, 지휘관이 설마 저 장갑 열차를 탈취하자 할 줄은 몰랐는걸.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:되게 재밌을 거 같은데, AR15는 싫어? 성공하면 더 큰 폭죽을 펑펑 쏠 수 있잖아!
-RO635(0)<Speaker>RO635</Speaker>||:너 정말 왜 그렇게 낙천적이야? 열차를 뺏기 전에 우리가 폭죽이 되지나 않으면 다행이라고...
-AR15Mod(0)<Speaker>AR15</Speaker>||:...아무래도 404 쪽에서 상황 발생인가 보네. 전투 준비해.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:통신 연결.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<BGM>BGM_Pervaded</BGM>:<color=#00CCFF>장갑 열차 주변에 배치된 초소가 예상보다 너무 많아.</color>+<color=#00CCFF>우리도 침투 도중 발각돼서 퇴로가 막혀버렸어. 미안~</color>
-AR15Mod(0)<Speaker>AR15</Speaker>;UMP45Mod(0)||:누가 실수로 돌멩이라도 찼나 봐?
-AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>그런 거라면 오히려 다행이지.</color>+<color=#00CCFF>적 열차는 지금 도시 바깥에서 경계 중이야. 아무래도 섣불리 시내로 진입하지 못하는 모양이네.</color>+<color=#00CCFF>지휘관의 열차를 박살 냈지만, 다음 표적으로 뭘 노려야 할지를 모르는 것 같아.</color>+<color=#00CCFF>다만 열차에서 지상 병력이 잔뜩 내렸어. 인간 병사는 안 보이지만, 처음 보는 유닛이 많아...</color>+<color=#00CCFF>아무튼, 지휘관의 작전을 속행하려면 우릴 지원해 줘야겠어.</color>
-RO635(0)<Speaker>RO635</Speaker>;UMP45Mod(0)||:요컨대 지휘관님의 계획에 차질이 생긴 거군요.
-RO635(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>정말이지, 이렇게 허드렛일밖에 못 하는 연약한 인형들한테 저런 무쇠 덩어리를 빼앗으라 시키다니, 억지에도 정도가 있다니까...</color>
-RO635(2);HK416Mod(0)<Speaker>HK416</Speaker><通讯框>||:<color=#00CCFF><size=30>그러면서 그 계획에 찬성했냐...</size></color>
-RO635(2)<Speaker>RO635</Speaker>;HK416Mod(0)||:하하하... 이제 와서 불평해봤자 늦었죠.
-RO635(0)<Speaker>RO635</Speaker>||:지휘관님, AR팀입니다. 현재 그리폰 제대의 배치를 완료했지만, 404 소대가 지원을 요청했습니다. 어떻게 하시겠습니까?<c>404 소대의 구출을 우선한다.<c>화력을 집중해 열차의 방어선을 돌파한다.
-()<Speaker>지휘관</Speaker>||<分支>1</分支>:404 소대의 구출을 우선으로 한다.+그들이 없으면 장갑 열차의 제어권을 빼앗기 어려워.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>우리의 가치를 알아주다니 기뻐, 지휘관♪</color>
-()<Speaker>지휘관</Speaker>||<分支>2</分支>:화력을 집중해 열차의 방어선을 돌파한다.+다른 쪽을 기습해서, 놈들이 반응할 시간조차 없도록 밀어붙여.+그럼 404의 부담도 줄일 수 있겠지.
-AR15Mod(0)<Speaker>AR15</Speaker>||<分支>2</分支>:정말 지휘관다운 방식이네.
-RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:알겠습니다. 모두에게 지시를 전달하겠습니다.+그럼, 지금부터 "황금 양털" 작전을 시작합니다.+모두, 작전 개시!
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE2>Gunfight</SE2><BGM>BGM_Empty</BGM>:......+..........
-()<Speaker></Speaker>||<SE1>Explode</SE1><黑屏1>:콰앙!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Reverse</BGM><BIN>208</BIN><黑屏2>:콜록콜록... 뭐야 저거, 철혈의 대포보다 강력하잖아?!
-AR15Mod(0)<Speaker>AR15</Speaker>||:조심해, 저 위력을 정통으로 맞았다간 마인드맵 코어의 조각도 안 남을 거야.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:나도 알아! 안 맞으면 되지!
-RO635(0)<Speaker>RO635</Speaker>||:UMP45, 그쪽 상황은 어떻습니까?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>열차 도달까지 앞으로 600m!</color>+<color=#00CCFF>지상 유닛의 대부분이 너희 쪽으로 몰려가서 숨통이 트이긴 했는데, 대포는 여전해서 전진하기가 힘들어!</color>
-AR15Mod(0)<Speaker>AR15</Speaker>||:그럼 우리가 전진해야겠네.+가자, SOP2.
-RO635(4)<Speaker>RO635</Speaker>||:잠깐, 어딜 가려고?!
-AR15Mod(0)<Speaker>AR15</Speaker>||:여기서 가장 성능이 뛰어난 인형이 우리 말고 더 있어?+우리에게 걸맞는 일을 하러 가야지.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:오오, 돌격이구나!
-AR15Mod(0)<Speaker>AR15</Speaker>||:그래, 네 감각을 총동원해서 포격을 피하라고.+물론 나도 함께할 거야.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:되~게 위험한 생각이네... 그래도 마음에 들어!
-RO635(4)<Speaker>RO635</Speaker>||:얘들이 정말... 그럼 나도 가겠어!
-AR15Mod(0)<Speaker>AR15</Speaker>||:아니, 넌 여기서 기다려. M4가 없는 상황에서 제대를 전부 통솔할 수 있는 인형은 너뿐이야.+네 성능이 아무리 좋아도, 저 녀석들이랑 중장비 부대까지 지휘하면서 포탄을 피할 순 없을 거 아니야?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:걱정 마 RO!+금방 갔다 올게!
-RO635(0)<Speaker>RO635</Speaker>||:...알았어.+그럼 중장비 부대로 너희를 지원할게.
-AR15Mod(0)<Speaker>AR15</Speaker>||:그걸로 충분해.+SOP2, 준비됐지?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:OK——!
-()<Speaker></Speaker>||<SE1>Explode</SE1><SE2>Gunfight</SE2><黑点2>:......
-AR15Mod(0)<Speaker>AR15</Speaker>||:다음 포격까지 앞으로 10초! 정신 집중해서 피해!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:나도 알아! 그치만 대포가 여러 갠데!?
-AR15Mod(0)<Speaker>AR15</Speaker>||:그건 네 본능에 맡겨야지!
-RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>조금만 더 버텨! 중장비 부대가 곧 공격 위치에 도착할 거야!</color>
-()<Speaker></Speaker>||<SE1>Explode</SE1>:...콰앙!!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:으아아——!!!
-AR15Mod(5)<Speaker>AR15</Speaker>||:SOP2!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:아직 괜찮아! 근데 대신 맞아줄 더미가 얼마 안 남았어!+RO! 빨리빨리!
-RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>15초만 더 버텨!</color>
-AR15Mod(4)<Speaker>AR15</Speaker>||:콜록... 우릴 상대한답시고 저딴 괴물을 보내다니, 정말 대접 한번 후하네.
-RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>포격 개시!</color>
-()<Speaker></Speaker>||<SE1>Explode</SE1>:......+그리폰 중장비 부대의 포격이 열차의 포탑 몇 문에 정확히 명중했다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:지금이야 SOP2! 달려!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:이야아아아아아압!!!+이제 지원 포격은 못 하겠지? 좋~았어, 너희들 다 손으로 뜯어버려 주마!
-AR15Mod(0)<Speaker>AR15</Speaker>||:SOP2, 먼저 열차에 올라타!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:지금 길 뚫고 있잖아!
-AR15Mod(0)<Speaker>AR15</Speaker>||<黑点1>:...그래 그래, 그래도 적당히 해.
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑点2><BIN>202</BIN>:...몇 분 후.+AR팀은 무사히 장갑 열차 내부로 진입했다.
-AR15Mod(0)<Speaker>AR15</Speaker>||<BGM>BGM_Room</BGM>:RO, 열차 안으로 들어왔어. 제어실은 어디야?
-RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>어... 열차 중간쯤에 있긴 한데...</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>우리가 먼저 왔어. 지금 조작 권한을 탈취하는 중이야.</color>+<color=#00CCFF>너희는 우리가 방해받지 않게 주변을 수비해 줘.</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:엥...? 너희 언제 왔어?!
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>방금 네가 소리 지를 때.</color>+<color=#00CCFF>아무튼 주위를 부탁할게.</color>
-RO635(0)<Speaker>RO635</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>AR15, SOP2, 나도 지금 다른 제대와 함께 그쪽으로 가고 있어. 약 4분 후 도착할 거야.</color>+<color=#00CCFF>그동안 404 소대와 제어실을 사수해 줘!</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>55</BIN><黑屏2>:탈린시 교외.+AR팀은 방어 위치에 도착해, 진격할 때를 기다렸다.
+RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>:알겠습니다 지휘관님, 저희가 다른 제대를 통솔하겠습니다. 공격 임무는 맡겨 주세요.+네, 명령을 기다리겠습니다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:임무 다 전달받았어?
+RO635(0)<Speaker>RO635</Speaker>||:응, 우리 쪽은 문제없어.+그것보다, 정말 M4 씨만으로 괜찮을까?
+AR15Mod(3)<Speaker>AR15</Speaker>||:M4가 스스로 정한 일이야. 대장의 판단을 믿어야지.+그리고, 지금 상황으로선 이게 최선이야.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그래도 좀 걱정돼...+만약에 M4가 말한 그 상황이 또 발생하면 위험하잖아.
+AR15Mod(0)<Speaker>AR15</Speaker>||:안심해. M4는 이제 예전처럼 망설이지 않을 테니까.
+RO635(0)<Speaker>RO635</Speaker>||:그 말을 들으니 생각났는데, M4 씨랑 연결한 동안 무슨 일 있었어?
+AR15Mod(0)<Speaker>AR15</Speaker>||:있었지. 왜, 궁금해?
+RO635(0)<Speaker>RO635</Speaker>||:응. 둘이 또 느낌이 달라진 것 같아서.
+AR15Mod(3)<Speaker>AR15</Speaker>||:별거 아니야.+그냥... 엉터리 초대장을 거절하고, 보기 역겨운 이야기를 봤을 뿐이지.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:으응...?+무슨 소릴 하는 건지 하나도 모르겠어.
+AR15Mod(4)<Speaker>AR15</Speaker>||:모르는 편이 나아.+세상엔 알면 오히려 손해인 일도 있으니까.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그래...? 어차피 그런 거 관심 없으니까 뭐.+난 모두와 함께라면 아무래도 좋아!
+()<Speaker></Speaker>||<黑点1>:그때, 멀리서 총성이 터졌다.+그리고 그와 동시에 AR팀의 모두에게 통신이 들어왔다.
+RO635(4)<Speaker>RO635</Speaker>||<黑点2>:...예상보다 훨씬 빨리 교전 거리에 들어왔네. 상황이 좀 어긋났어.
+AR15Mod(2)<Speaker>AR15</Speaker>||:그런데, 지휘관이 설마 저 장갑 열차를 탈취하자 할 줄은 몰랐는걸.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:되게 재밌을 거 같은데, AR15는 싫어? 성공하면 더 큰 폭죽을 펑펑 쏠 수 있잖아!
+RO635(0)<Speaker>RO635</Speaker>||:너 정말 왜 그렇게 낙천적이야? 열차를 뺏기 전에 우리가 폭죽이 되지나 않으면 다행이라고...
+AR15Mod(0)<Speaker>AR15</Speaker>||:...아무래도 404 쪽에서 상황 발생인가 보네. 전투 준비해.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:통신 연결.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<BGM>BGM_Pervaded</BGM>:<color=#00CCFF>장갑 열차 주변에 배치된 초소가 예상보다 너무 많아.</color>+<color=#00CCFF>우리도 침투 도중 발각돼서 퇴로가 막혀버렸어. 미안~</color>
+AR15Mod(0)<Speaker>AR15</Speaker>;UMP45Mod(0)||:누가 실수로 돌멩이라도 찼나 봐?
+AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>그런 거라면 오히려 다행이지.</color>+<color=#00CCFF>적 열차는 지금 도시 바깥에서 경계 중이야. 아무래도 섣불리 시내로 진입하지 못하는 모양이네.</color>+<color=#00CCFF>지휘관의 열차를 박살 냈지만, 다음 표적으로 뭘 노려야 할지를 모르는 것 같아.</color>+<color=#00CCFF>다만 열차에서 지상 병력이 잔뜩 내렸어. 인간 병사는 안 보이지만, 처음 보는 유닛이 많아...</color>+<color=#00CCFF>아무튼, 지휘관의 작전을 속행하려면 우릴 지원해 줘야겠어.</color>
+RO635(0)<Speaker>RO635</Speaker>;UMP45Mod(0)||:요컨대 지휘관님의 계획에 차질이 생긴 거군요.
+RO635(0);UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>정말이지, 이렇게 허드렛일밖에 못 하는 연약한 인형들한테 저런 무쇠 덩어리를 빼앗으라 시키다니, 억지에도 정도가 있다니까...</color>
+RO635(2);HK416Mod(0)<Speaker>HK416</Speaker><通讯框>||:<color=#00CCFF><size=30>그러면서 그 계획에 찬성했냐...</size></color>
+RO635(2)<Speaker>RO635</Speaker>;HK416Mod(0)||:하하하... 이제 와서 불평해봤자 늦었죠.
+RO635(0)<Speaker>RO635</Speaker>||:지휘관님, AR팀입니다. 현재 그리폰 제대의 배치를 완료했지만, 404 소대가 지원을 요청했습니다. 어떻게 하시겠습니까?<c>404 소대의 구출을 우선한다.<c>화력을 집중해 열차의 방어선을 돌파한다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:404 소대의 구출을 우선으로 한다.+그들이 없으면 장갑 열차의 제어권을 빼앗기 어려워.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>우리의 가치를 알아주다니 기뻐, 지휘관♪</color>
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:화력을 집중해 열차의 방어선을 돌파한다.+다른 쪽을 기습해서, 놈들이 반응할 시간조차 없도록 밀어붙여.+그럼 404의 부담도 줄일 수 있겠지.
+AR15Mod(0)<Speaker>AR15</Speaker>||<分支>2</分支>:정말 지휘관다운 방식이네.
+RO635(0)<Speaker>RO635</Speaker>||<黑屏1>:알겠습니다. 모두에게 지시를 전달하겠습니다.+그럼, 지금부터 "황금 양털" 작전을 시작합니다.+모두, 작전 개시!
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE2>Gunfight</SE2><BGM>BGM_Empty</BGM>:......+..........
+()<Speaker></Speaker>||<SE1>Explode</SE1><黑屏1>:콰앙!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Reverse</BGM><BIN>208</BIN><黑屏2>:콜록콜록... 뭐야 저거, 철혈의 대포보다 강력하잖아?!
+AR15Mod(0)<Speaker>AR15</Speaker>||:조심해, 저 위력을 정통으로 맞았다간 마인드맵 코어의 조각도 안 남을 거야.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:나도 알아! 안 맞으면 되지!
+RO635(0)<Speaker>RO635</Speaker>||:UMP45, 그쪽 상황은 어떻습니까?
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>열차 도달까지 앞으로 600m!</color>+<color=#00CCFF>지상 유닛의 대부분이 너희 쪽으로 몰려가서 숨통이 트이긴 했는데, 대포는 여전해서 전진하기가 힘들어!</color>
+AR15Mod(0)<Speaker>AR15</Speaker>||:그럼 우리가 전진해야겠네.+가자, SOP2.
+RO635(4)<Speaker>RO635</Speaker>||:잠깐, 어딜 가려고?!
+AR15Mod(0)<Speaker>AR15</Speaker>||:여기서 가장 성능이 뛰어난 인형이 우리 말고 더 있어?+우리에게 걸맞는 일을 하러 가야지.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:오오, 돌격이구나!
+AR15Mod(0)<Speaker>AR15</Speaker>||:그래, 네 감각을 총동원해서 포격을 피하라고.+물론 나도 함께할 거야.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:되~게 위험한 생각이네... 그래도 마음에 들어!
+RO635(4)<Speaker>RO635</Speaker>||:얘들이 정말... 그럼 나도 가겠어!
+AR15Mod(0)<Speaker>AR15</Speaker>||:아니, 넌 여기서 기다려. M4가 없는 상황에서 제대를 전부 통솔할 수 있는 인형은 너뿐이야.+네 성능이 아무리 좋아도, 저 녀석들이랑 중장비 부대까지 지휘하면서 포탄을 피할 순 없을 거 아니야?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:걱정 마 RO!+금방 갔다 올게!
+RO635(0)<Speaker>RO635</Speaker>||:...알았어.+그럼 중장비 부대로 너희를 지원할게.
+AR15Mod(0)<Speaker>AR15</Speaker>||:그걸로 충분해.+SOP2, 준비됐지?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:OK——!
+()<Speaker></Speaker>||<SE1>Explode</SE1><SE2>Gunfight</SE2><黑点2>:......
+AR15Mod(0)<Speaker>AR15</Speaker>||:다음 포격까지 앞으로 10초! 정신 집중해서 피해!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:나도 알아! 그치만 대포가 여러 갠데!?
+AR15Mod(0)<Speaker>AR15</Speaker>||:그건 네 본능에 맡겨야지!
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>조금만 더 버텨! 중장비 부대가 곧 공격 위치에 도착할 거야!</color>
+()<Speaker></Speaker>||<SE1>Explode</SE1>:...콰앙!!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:으아아——!!!
+AR15Mod(5)<Speaker>AR15</Speaker>||:SOP2!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:아직 괜찮아! 근데 대신 맞아줄 더미가 얼마 안 남았어!+RO! 빨리빨리!
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>15초만 더 버텨!</color>
+AR15Mod(4)<Speaker>AR15</Speaker>||:콜록... 우릴 상대한답시고 저딴 괴물을 보내다니, 정말 대접 한번 후하네.
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>포격 개시!</color>
+()<Speaker></Speaker>||<SE1>Explode</SE1>:......+그리폰 중장비 부대의 포격이 열차의 포탑 몇 문에 정확히 명중했다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:지금이야 SOP2! 달려!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:이야아아아아아압!!!+이제 지원 포격은 못 하겠지? 좋~았어, 너희들 다 손으로 뜯어버려 주마!
+AR15Mod(0)<Speaker>AR15</Speaker>||:SOP2, 먼저 열차에 올라타!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:지금 길 뚫고 있잖아!
+AR15Mod(0)<Speaker>AR15</Speaker>||<黑点1>:...그래 그래, 그래도 적당히 해.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑点2><BIN>202</BIN>:...몇 분 후.+AR팀은 무사히 장갑 열차 내부로 진입했다.
+AR15Mod(0)<Speaker>AR15</Speaker>||<BGM>BGM_Room</BGM>:RO, 열차 안으로 들어왔어. 제어실은 어디야?
+RO635(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>어... 열차 중간쯤에 있긴 한데...</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>우리가 먼저 왔어. 지금 조작 권한을 탈취하는 중이야.</color>+<color=#00CCFF>너희는 우리가 방해받지 않게 주변을 수비해 줘.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:엥...? 너희 언제 왔어?!
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>방금 네가 소리 지를 때.</color>+<color=#00CCFF>아무튼 주위를 부탁할게.</color>
+RO635(0)<Speaker>RO635</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>AR15, SOP2, 나도 지금 다른 제대와 함께 그쪽으로 가고 있어. 약 4분 후 도착할 거야.</color>+<color=#00CCFF>그동안 404 소대와 제어실을 사수해 줘!</color>

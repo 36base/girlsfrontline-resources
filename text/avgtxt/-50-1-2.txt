@@ -1,84 +1,84 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_stage1</BGM>:............+3월 14일, 오전 2시.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>8</BIN><黑屏2>:그리폰 기지 지휘부.+지휘관의 사무실.
-()<Speaker>지휘관</Speaker>||<SE1>AVG_door_elecport</SE1>:음, 재료는 이만큼 있으면 충분하겠다.+24시간 무인 슈퍼마켓 덕분에 살았네...
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:일반적으론 다 만들고도 남을 정도죠.
-LWMMGMod(0)<Speaker>지휘관</Speaker><同时置暗>||:아침 10시에 받으러 오기로 되어 있지?
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:네, 기지 전체에 통보된 사항이에요.+그러니 그 전에 일을 마쳐야만 해요.
-LWMMGMod(0)<Speaker>지휘관</Speaker><同时置暗>||:앞으로 몇 시간 남았어?
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:8시간... 아니, 7시간하고 조금이요.
-LWMMGMod(0)<Speaker>지휘관</Speaker><同时置暗>||:......
-()<Speaker></Speaker>||:지휘관은 초콜릿 재료의 산을 보며 머리를 싸맸다.
-()<Speaker>지휘관</Speaker>||:...할 수 있으려나.
-BOSS-3(0)<Speaker>헌터</Speaker>||:우리쪽에서 일손을 부를까?+알케미스트는 임무 수행 중이지만, 엑스큐셔너와 스케어크로우는 비번이다.+드리머와 저지도 아마 한가할 테고.
-BOSS-3(0)<Speaker>지휘관</Speaker><同时置暗>||:아니, 됐어. 다들 선물을 받는 입장인데 더 알리고 싶지 않아.+게다가 네가 지금 말한 녀석들은 오히려 일만 늘릴 거 같아서 말이지...
-BOSS-3(0)<Speaker>헌터</Speaker>||:하지만 우리 셋만으론 물리적으로 불가능하다.
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:이 녀석의 말에 동의하긴 싫지만...+확실히 맞는 말이에요.
-LWMMGMod(0)<Speaker>지휘관</Speaker><同时置暗>||:......
-()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:지휘관은 초조함에 방을 서성였다.
-()<Speaker>지휘관</Speaker>||:알아, 나도 안다고...+하지만 해내지 못하면... 내일 아침 난 이 세상에 존재하지 않게 될 수도 있어...
-BOSS-3(0)<Speaker>헌터</Speaker>||:꽤 재미있는 농담이군.
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:보세요, 헌터가 웃기다잖아요.
-()<Speaker>지휘관</Speaker>||<BGM>BGM_Empty</BGM><SE1>Stop_AVG_loop</SE1>:......아.
-()<Speaker></Speaker>||:두 인형의 말을 듣는 척도 안 하던 지휘관이, 돌연 발을 멈췄다.
-()<Speaker>지휘관</Speaker>||:방법이 떠올랐다.
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:무슨 방법이요?
-()<Speaker></Speaker>||:.....
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>22</BIN><Night><BGM>m_avg_casual</BGM><SE1>AVG_door_elecport</SE1>:페르시카의 연구실.+연구실의 구석에 놓인 전혀 안 어울리는 침대는, 항상 침실을 놔두고 실험대 밑에서 엎어져 자는 페르시카를 보다 못한 카리나가 큰마음을 먹고 들인 것이었다.
-()<Speaker>지휘관</Speaker>||:저어, 페르시카 씨? 페르시――
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:조심조심 침대에 다가간 지휘관은 눈살을 찌푸렸다. 침대 위엔 엎어져 자는 페르시카가 아니라, 온갖 서류와 기계 부품, 그리고 빈 깡통으로 엉망이었다.
-BOSS-3(0)<Speaker>헌터</Speaker>||:...침대에 없네.
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:침대 위가 이래서는 못 자죠...
-()<Speaker>지휘관</Speaker>||<SE1>Rope</SE1>:그럼 어디로 갔지? 여기 말고 다른 데에 있을 리가――
-()<Speaker>？？？</Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:<size=50>나악!!</size>
-()<Speaker></Speaker>||:지휘관이 난처해하며 옮긴 발에 뭔가 물컹한 것이 밟혔다.
-()<Speaker>지휘관</Speaker>||:엥, 페르시카 씨?!
-NPC-Persica(3)<Speaker>페르시카</Speaker><Shake>0.1</Shake>||:아야야... 왜 밟아...
-NPC-Persica(0)<Speaker>지휘관</Speaker><同时置暗>||:아니 왜 바닥에서 주무시고 계십니까!?
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관이 화들짝 놀라 발을 뗐고, 바닥의 그 형체는 이불 삼아 덮고 있던, 이미 원래의 색을 알아볼 수 없는 카펫을 홱 젖히며 일어났다.
-NPC-Persica(3)<Speaker>페르시카</Speaker>||:신문안봐요정수기안써요수정사항안받아요오...
-()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:털썩.+그러곤 다시 뒤로 쓰러졌다.
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:잠꼬대하지 말고 일어나 주세요, 페르시카 씨!+지금 급하게 당신의 도움이 필요해요!
-()<Speaker>페르시카</Speaker>||:으에에에에에...+귀이차안게에하아지이마알라아고오...
-()<Speaker></Speaker>||:LWMMG에게 옷깃을 붙잡힌 페르시카는 녹아내린 초콜릿처럼 추욱 늘어졌다.+하지만 LWMMG가 마구 흔드는 통에 겨우 눈을 뜬 그녀는, 여전히 비몽사몽인 목소리로 지휘관에게 나지막이 입을 열었다.
-()<Speaker>페르시카</Speaker>||:네가진자주꼬십구나아아...
-()<Speaker>지휘관</Speaker>||:그런 말투로 무서운 소리 하지 말아 주세요!+정말 죄송합니다, 항상 늦게까지 일하시길래 오늘도 안 주무시는 줄...
-()<Speaker>페르시카</Speaker>||:그래서 내 수면 시간은 더 소중해애...
-()<Speaker>지휘관</Speaker>||:아무튼, 초콜릿을 양산하는 기계를 만들어 주실 수 있을까요?
-()<Speaker>페르시카</Speaker>||<BGM>BGM_Empty</BGM>:.........나갈 때 문 잠궈.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:페르시카는 그대로 LWMMG의 손을 홱 뿌리치곤 다시 바닥에 드러누웠다.
-()<Speaker>지휘관</Speaker>||<SE1>Rope</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=5</controll_shake>:제발 부탁입니다 페르시카 씨! 지금 당신밖에 기댈 사람이 없어요! 페르시카 씨!
-()<Speaker>페르시카</Speaker>||<SE1>Rope</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=5</controll_shake>:나 잔다고...! 이불 내놔아...!
-BOSS-3(0)<Speaker>헌터</Speaker>||<BGM>m_wv_scenario</BGM>:......
-()<Speaker></Speaker>||:헌터는 애걸복걸하는 지휘관에게 조용히 항의하는 페르시카를 보다, 고개를 홱 돌렸다.
-BOSS-3(0)<Speaker>헌터</Speaker>||:됐다, 지휘관. 다른 사람을 찾자.+이곳에 이 여자보다 그런 일을 잘하는 자는 널리고 널렸어.
-()<Speaker>페르시카</Speaker>||:............
-()<Speaker>지휘관</Speaker>||:헌터...? 갑자기 그게 무슨 소리야?
-()<Speaker></Speaker>||:그 말에 놀란 지휘관은 자기도 모르게 손에서 카펫을 놓았다.
-()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:"이불"을 되찾은 페르시카는 그대로 그 카펫을 머리까지 덮었다.
-BOSS-3(0)<Speaker>헌터</Speaker>||:이 여자가 이름 높은 IOP의 수석 기술자라는 것은 익히 들었다만, 전부터 그 실력이 영 의심스러웠거든.+대체 다른 이들보다 나은 점이 뭔가 싶다.+이런 일은 적당히 다른 녀석에게 부탁해도 될 일 아닌가?
-()<Speaker>지휘관</Speaker>||:어... 저기, 헌터...?
-()<Speaker></Speaker>||:지휘관이 당황하며 뭔가 말하려던, 그때였다.
-()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:벌떡.
-()<Speaker>지휘관</Speaker>||:――?!
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:방금까지 이불을 사수하며 죽어도 안 일어날 기세던 페르시카가, 도끼눈을 치켜뜬 채로 벌떡 일어났다.
-NPC-Persica(3)<Speaker>페르시카</Speaker>||<BGM>m_wv_battle</BGM>:너어... 지금 뭐랬어.
-()<Speaker></Speaker>||:당연히, 그녀의 진노가 향하는 곳은 바로 건방진 말을 내뱉은 헌터였다.
-BOSS-3(0)<Speaker>헌터</Speaker>||:그러니까, 이렇게 단시간 내에는 아무리 당신이라도 무리일 거라 했다.
-NPC-Persica(1)<Speaker>페르시카</Speaker>||<震屏3>:내가 여기의 애송이들보다 못하다고!? 너 지금 내가 누군지나 알기는 해? 나 페르시카야! 16Lab의 페르시카리아라고!!
-()<Speaker></Speaker>||:어디서 힘이 솟아났는지, 페르시카는 우렁차게 포효했다.
-NPC-Persica(1)<Speaker>페르시카</Speaker>||:그딴 거 2시간이면 만들고도 남아!
-BOSS-3(0)<Speaker>헌터</Speaker>||:드리머라면 90분이면 될 텐데.
-NPC-Persica(1)<Speaker>페르시카</Speaker>||:이게... 좋아, 그럼 1시간!
-()<Speaker></Speaker>||<SE1>RunStep</SE1>:페르시카는 당당히 선언하더니, 씩씩대며 공방으로 들어갔다.
-()<Speaker></Speaker>||:그 광경을 지켜본 지휘관과 LWMMG는 입을 다물지 못했다.
-()<Speaker>지휘관</Speaker>||:헌터, 너...
-BOSS-3(0)<Speaker>헌터</Speaker>||:......훗.+저런 부류는 자기 분야에서 타인과 비교당하기를 세상 무엇보다 싫어하지.+그래서 저 여자에게도 먹힐까 싶어 질러봤는데, 적중했군.
-BOSS-3(0)<Speaker>지휘관</Speaker><同时置暗>||:...이런 기특한 녀석.
-BOSS-3(0)<Speaker>헌터</Speaker>||:별거 아니다, 어차피 난 이번 일에 책임을 져야 하는 입장이니.+어서 초콜릿 재료나 여기로 가져오자고.
-()<Speaker>지휘관</Speaker>||:그래. 럼, 어서 가자.
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:네.
-()<Speaker></Speaker>||:......
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_stage1</BGM>:............+3월 14일, 오전 2시.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>8</BIN><黑屏2>:그리폰 기지 지휘부.+지휘관의 사무실.
+()<Speaker>지휘관</Speaker>||<SE1>AVG_door_elecport</SE1>:음, 재료는 이만큼 있으면 충분하겠다.+24시간 무인 슈퍼마켓 덕분에 살았네...
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:일반적으론 다 만들고도 남을 정도죠.
+LWMMGMod(0)<Speaker>지휘관</Speaker><同时置暗>||:아침 10시에 받으러 오기로 되어 있지?
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:네, 기지 전체에 통보된 사항이에요.+그러니 그 전에 일을 마쳐야만 해요.
+LWMMGMod(0)<Speaker>지휘관</Speaker><同时置暗>||:앞으로 몇 시간 남았어?
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:8시간... 아니, 7시간하고 조금이요.
+LWMMGMod(0)<Speaker>지휘관</Speaker><同时置暗>||:......
+()<Speaker></Speaker>||:지휘관은 초콜릿 재료의 산을 보며 머리를 싸맸다.
+()<Speaker>지휘관</Speaker>||:...할 수 있으려나.
+BOSS-3(0)<Speaker>헌터</Speaker>||:우리쪽에서 일손을 부를까?+알케미스트는 임무 수행 중이지만, 엑스큐셔너와 스케어크로우는 비번이다.+드리머와 저지도 아마 한가할 테고.
+BOSS-3(0)<Speaker>지휘관</Speaker><同时置暗>||:아니, 됐어. 다들 선물을 받는 입장인데 더 알리고 싶지 않아.+게다가 네가 지금 말한 녀석들은 오히려 일만 늘릴 거 같아서 말이지...
+BOSS-3(0)<Speaker>헌터</Speaker>||:하지만 우리 셋만으론 물리적으로 불가능하다.
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:이 녀석의 말에 동의하긴 싫지만...+확실히 맞는 말이에요.
+LWMMGMod(0)<Speaker>지휘관</Speaker><同时置暗>||:......
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:지휘관은 초조함에 방을 서성였다.
+()<Speaker>지휘관</Speaker>||:알아, 나도 안다고...+하지만 해내지 못하면... 내일 아침 난 이 세상에 존재하지 않게 될 수도 있어...
+BOSS-3(0)<Speaker>헌터</Speaker>||:꽤 재미있는 농담이군.
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:보세요, 헌터가 웃기다잖아요.
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Empty</BGM><SE1>Stop_AVG_loop</SE1>:......아.
+()<Speaker></Speaker>||:두 인형의 말을 듣는 척도 안 하던 지휘관이, 돌연 발을 멈췄다.
+()<Speaker>지휘관</Speaker>||:방법이 떠올랐다.
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:무슨 방법이요?
+()<Speaker></Speaker>||:.....
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>22</BIN><Night><BGM>m_avg_casual</BGM><SE1>AVG_door_elecport</SE1>:페르시카의 연구실.+연구실의 구석에 놓인 전혀 안 어울리는 침대는, 항상 침실을 놔두고 실험대 밑에서 엎어져 자는 페르시카를 보다 못한 카리나가 큰마음을 먹고 들인 것이었다.
+()<Speaker>지휘관</Speaker>||:저어, 페르시카 씨? 페르시――
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:조심조심 침대에 다가간 지휘관은 눈살을 찌푸렸다. 침대 위엔 엎어져 자는 페르시카가 아니라, 온갖 서류와 기계 부품, 그리고 빈 깡통으로 엉망이었다.
+BOSS-3(0)<Speaker>헌터</Speaker>||:...침대에 없네.
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:침대 위가 이래서는 못 자죠...
+()<Speaker>지휘관</Speaker>||<SE1>Rope</SE1>:그럼 어디로 갔지? 여기 말고 다른 데에 있을 리가――
+()<Speaker>？？？</Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:<size=50>나악!!</size>
+()<Speaker></Speaker>||:지휘관이 난처해하며 옮긴 발에 뭔가 물컹한 것이 밟혔다.
+()<Speaker>지휘관</Speaker>||:엥, 페르시카 씨?!
+NPC-Persica(3)<Speaker>페르시카</Speaker><Shake>0.1</Shake>||:아야야... 왜 밟아...
+NPC-Persica(0)<Speaker>지휘관</Speaker><同时置暗>||:아니 왜 바닥에서 주무시고 계십니까!?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관이 화들짝 놀라 발을 뗐고, 바닥의 그 형체는 이불 삼아 덮고 있던, 이미 원래의 색을 알아볼 수 없는 카펫을 홱 젖히며 일어났다.
+NPC-Persica(3)<Speaker>페르시카</Speaker>||:신문안봐요정수기안써요수정사항안받아요오...
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:털썩.+그러곤 다시 뒤로 쓰러졌다.
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:잠꼬대하지 말고 일어나 주세요, 페르시카 씨!+지금 급하게 당신의 도움이 필요해요!
+()<Speaker>페르시카</Speaker>||:으에에에에에...+귀이차안게에하아지이마알라아고오...
+()<Speaker></Speaker>||:LWMMG에게 옷깃을 붙잡힌 페르시카는 녹아내린 초콜릿처럼 추욱 늘어졌다.+하지만 LWMMG가 마구 흔드는 통에 겨우 눈을 뜬 그녀는, 여전히 비몽사몽인 목소리로 지휘관에게 나지막이 입을 열었다.
+()<Speaker>페르시카</Speaker>||:네가진자주꼬십구나아아...
+()<Speaker>지휘관</Speaker>||:그런 말투로 무서운 소리 하지 말아 주세요!+정말 죄송합니다, 항상 늦게까지 일하시길래 오늘도 안 주무시는 줄...
+()<Speaker>페르시카</Speaker>||:그래서 내 수면 시간은 더 소중해애...
+()<Speaker>지휘관</Speaker>||:아무튼, 초콜릿을 양산하는 기계를 만들어 주실 수 있을까요?
+()<Speaker>페르시카</Speaker>||<BGM>BGM_Empty</BGM>:.........나갈 때 문 잠궈.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:페르시카는 그대로 LWMMG의 손을 홱 뿌리치곤 다시 바닥에 드러누웠다.
+()<Speaker>지휘관</Speaker>||<SE1>Rope</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=5</controll_shake>:제발 부탁입니다 페르시카 씨! 지금 당신밖에 기댈 사람이 없어요! 페르시카 씨!
+()<Speaker>페르시카</Speaker>||<SE1>Rope</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=5</controll_shake>:나 잔다고...! 이불 내놔아...!
+BOSS-3(0)<Speaker>헌터</Speaker>||<BGM>m_wv_scenario</BGM>:......
+()<Speaker></Speaker>||:헌터는 애걸복걸하는 지휘관에게 조용히 항의하는 페르시카를 보다, 고개를 홱 돌렸다.
+BOSS-3(0)<Speaker>헌터</Speaker>||:됐다, 지휘관. 다른 사람을 찾자.+이곳에 이 여자보다 그런 일을 잘하는 자는 널리고 널렸어.
+()<Speaker>페르시카</Speaker>||:............
+()<Speaker>지휘관</Speaker>||:헌터...? 갑자기 그게 무슨 소리야?
+()<Speaker></Speaker>||:그 말에 놀란 지휘관은 자기도 모르게 손에서 카펫을 놓았다.
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:"이불"을 되찾은 페르시카는 그대로 그 카펫을 머리까지 덮었다.
+BOSS-3(0)<Speaker>헌터</Speaker>||:이 여자가 이름 높은 IOP의 수석 기술자라는 것은 익히 들었다만, 전부터 그 실력이 영 의심스러웠거든.+대체 다른 이들보다 나은 점이 뭔가 싶다.+이런 일은 적당히 다른 녀석에게 부탁해도 될 일 아닌가?
+()<Speaker>지휘관</Speaker>||:어... 저기, 헌터...?
+()<Speaker></Speaker>||:지휘관이 당황하며 뭔가 말하려던, 그때였다.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:벌떡.
+()<Speaker>지휘관</Speaker>||:――?!
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:방금까지 이불을 사수하며 죽어도 안 일어날 기세던 페르시카가, 도끼눈을 치켜뜬 채로 벌떡 일어났다.
+NPC-Persica(3)<Speaker>페르시카</Speaker>||<BGM>m_wv_battle</BGM>:너어... 지금 뭐랬어.
+()<Speaker></Speaker>||:당연히, 그녀의 진노가 향하는 곳은 바로 건방진 말을 내뱉은 헌터였다.
+BOSS-3(0)<Speaker>헌터</Speaker>||:그러니까, 이렇게 단시간 내에는 아무리 당신이라도 무리일 거라 했다.
+NPC-Persica(1)<Speaker>페르시카</Speaker>||<震屏3>:내가 여기의 애송이들보다 못하다고!? 너 지금 내가 누군지나 알기는 해? 나 페르시카야! 16Lab의 페르시카리아라고!!
+()<Speaker></Speaker>||:어디서 힘이 솟아났는지, 페르시카는 우렁차게 포효했다.
+NPC-Persica(1)<Speaker>페르시카</Speaker>||:그딴 거 2시간이면 만들고도 남아!
+BOSS-3(0)<Speaker>헌터</Speaker>||:드리머라면 90분이면 될 텐데.
+NPC-Persica(1)<Speaker>페르시카</Speaker>||:이게... 좋아, 그럼 1시간!
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:페르시카는 당당히 선언하더니, 씩씩대며 공방으로 들어갔다.
+()<Speaker></Speaker>||:그 광경을 지켜본 지휘관과 LWMMG는 입을 다물지 못했다.
+()<Speaker>지휘관</Speaker>||:헌터, 너...
+BOSS-3(0)<Speaker>헌터</Speaker>||:......훗.+저런 부류는 자기 분야에서 타인과 비교당하기를 세상 무엇보다 싫어하지.+그래서 저 여자에게도 먹힐까 싶어 질러봤는데, 적중했군.
+BOSS-3(0)<Speaker>지휘관</Speaker><同时置暗>||:...이런 기특한 녀석.
+BOSS-3(0)<Speaker>헌터</Speaker>||:별거 아니다, 어차피 난 이번 일에 책임을 져야 하는 입장이니.+어서 초콜릿 재료나 여기로 가져오자고.
+()<Speaker>지휘관</Speaker>||:그래. 럼, 어서 가자.
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:네.
+()<Speaker></Speaker>||:......
+()||<黑点1>:

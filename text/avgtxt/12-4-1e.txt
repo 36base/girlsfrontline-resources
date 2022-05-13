@@ -1,41 +1,41 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:...몇 분 전.+장갑 열차.
-NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>45, 아직 지휘실에 안 왔니?</color>
-NPC-Kalin(0)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:정비 금방 끝나니까 조금만 더 기다려.+우리 정비가 끝나는 대로 회선을 A23 정비창으로 돌릴게. 아직 수복이 필요한 인형들이 많지?
-NPC-Kalin(1)<Speaker>카리나</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>고마워, 너희의 회선까지 빌려 쓰게 해 줘서.</color>
-NPC-Kalin(0)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:뭘, 다 요금 받을 건데.
-NPC-Kalin(5)<Speaker>카리나</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>아하하하...</color>
-NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>그런데, 부탁 좀 하나 해도 될까?</color>
-NPC-Kalin(0)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:뭔데?
-NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>문제가 좀 있는 압축 파일을 전송받았는데, 아무래도 안젤리아 씨가 보낸 것 같아.</color>
-NPC-Kalin(0)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:드디어 그 여자한테서 연락이 왔구나?+그런데, 성격상 통신도 안 하고 파일만 덜렁 보낼 리가 없는데.
-NPC-Kalin(4)<Speaker>카리나</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>나도 그래서 걱정이야...</color>
-NPC-Kalin(4)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:직접 통신하지 않았다는 건... 지금 위험한 상황이 처했을 수도 있다는 뜻이려나.
-NPC-Kalin(4)<Speaker>카리나</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>약속 시간을 훨씬 넘긴 것부터가 이상해.</color>+<color=#00CCFF>그리고 이 압축 파일은 간섭을 너무 많이 받아서 코드가 손상됐어...</color>
-NPC-Kalin(4)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:그래서, 깨진 압축 파일을 복구해 달라는 거네?
-NPC-Kalin(4)<Speaker>카리나</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>미안해, 이쪽 컴퓨터는 지금 3D 지도를 작성 중이고, M4랑 RO는 마인드맵으로 작전을 시뮬레이션하고 있어서 바빠서...</color>
-NPC-Kalin(4)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:다들 여유가 없겠네.+알았어. 5분 안에 해치워 줄 테니까 이리 줘 봐.
-NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||:<color=#00CCFF>부탁할게~</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:카리나가 통신을 종료했다.
-HK416Mod(0)<Speaker>HK416</Speaker>||:추가 의뢰야?
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:응.
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:레벨 2 플랫폼에서 파일 하나 복구하려고 완전무장하는 건 아니겠지?
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:30분 후면 잠수함 기지에 도착하니, 미리 준비해야지.
-HK416Mod(0)<Speaker>HK416</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:하... 네가 그렇게 임무에 진지한 모습은 처음 본다.+나도 도와줄게, 마침 너한테 할 말도 있거든.
-()||<黑点2><BIN>72</BIN><BGM>m_avg_labyrinth</BGM>:레벨 2 플랫폼.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:역시... 철혈 때문에 파일이 손상된 거였어.+그런데 처리가 뭐 이리 어설프담. 걔네 형편이 이렇게 초라해질 줄은 진짜 몰랐어.
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:아까 댄들라이가 잠수함 기지에 철혈이 있다 하지 않았어?
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:그 녀석의 말을 믿어?
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:적어도... 다른 인형들은 녀석을 적대시하지 않는 것 같아.
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:오가스와 관계가 있고, 나비 사건과 관계가 있는 스피라에나 노드와 관계가 있는데도?+저 인간도, 인형도, 기계도 아닌 녀석이야말로 이 열차 안에서 제일 수상한 녀석이야.
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:그렇게 신경 쓰이면 직접 가서 말해보는 게 어때?
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:흥... 그 댄들라이란 녀석, 내가 M4의 마인드맵을 감시하는 걸 진작에 눈치채고 있었어.
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:하긴, 조금 전에도 우리 들으라는 말도 많이 했으니.+그냥 그만두지? 단지 페르시카의 의뢰 때문에 M4의 마인드맵을 감시하는 게 아니잖아.
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:하고 싶은 말이 뭐야?
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:지금 네가 무슨 꿍꿍이속인지는 나도 모르지만, 적어도 목적만큼은 그리폰과 일치하잖아. 그러니 저 특별한 녀석들이 우리 대신 알아서 일을 처리하도록 놔두는 게 낫지 않나 싶어.+우리와 쟤네들은... 다르잖아.
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:자기는 엘리트라고 그렇게 노래를 부르고 다니더니, 이제 와서 겸손 떠는 거야?
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:많은 일을 겪으면 변하는 법이지.+AR팀만이 아니야. 나도 돌아올 때 깨달았어... 우리도 변했다는 걸.+과거에 너무 집착하다간, 과거에 빠져 죽을 수도 있다는 걸.+내가 아는 UMP45는 그딴 허접한 실수를 범할 얼간이는 아니라고 생각해.
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:너 오늘따라 말이 많다?
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:난 그냥 너한테 충고나 해 주고 싶었을 뿐이야. 들을지 말지는 네 마음대로 해.+곧 뭐가 있을지도 모를 잠수함 기지로 들어갈 텐데, 또다시 걸레짝이 된 네 몸뚱이를 업고 뛰어다니긴 싫다고.
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑点1>:걱정해 줘서 고마워, 하지만 지금은 파일을 망가뜨린 철혈의 프로그램을 청소하는 데에 집중하자.
-()||<黑点2><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:...몇 분 전.+장갑 열차.
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>45, 아직 지휘실에 안 왔니?</color>
+NPC-Kalin(0)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:정비 금방 끝나니까 조금만 더 기다려.+우리 정비가 끝나는 대로 회선을 A23 정비창으로 돌릴게. 아직 수복이 필요한 인형들이 많지?
+NPC-Kalin(1)<Speaker>카리나</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>고마워, 너희의 회선까지 빌려 쓰게 해 줘서.</color>
+NPC-Kalin(0)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:뭘, 다 요금 받을 건데.
+NPC-Kalin(5)<Speaker>카리나</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>아하하하...</color>
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>그런데, 부탁 좀 하나 해도 될까?</color>
+NPC-Kalin(0)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:뭔데?
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>문제가 좀 있는 압축 파일을 전송받았는데, 아무래도 안젤리아 씨가 보낸 것 같아.</color>
+NPC-Kalin(0)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:드디어 그 여자한테서 연락이 왔구나?+그런데, 성격상 통신도 안 하고 파일만 덜렁 보낼 리가 없는데.
+NPC-Kalin(4)<Speaker>카리나</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>나도 그래서 걱정이야...</color>
+NPC-Kalin(4)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:직접 통신하지 않았다는 건... 지금 위험한 상황이 처했을 수도 있다는 뜻이려나.
+NPC-Kalin(4)<Speaker>카리나</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>약속 시간을 훨씬 넘긴 것부터가 이상해.</color>+<color=#00CCFF>그리고 이 압축 파일은 간섭을 너무 많이 받아서 코드가 손상됐어...</color>
+NPC-Kalin(4)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:그래서, 깨진 압축 파일을 복구해 달라는 거네?
+NPC-Kalin(4)<Speaker>카리나</Speaker><通讯框>;UMP45Mod(0)||:<color=#00CCFF>미안해, 이쪽 컴퓨터는 지금 3D 지도를 작성 중이고, M4랑 RO는 마인드맵으로 작전을 시뮬레이션하고 있어서 바빠서...</color>
+NPC-Kalin(4)<通讯框>;UMP45Mod(0)<Speaker>UMP45</Speaker>||:다들 여유가 없겠네.+알았어. 5분 안에 해치워 줄 테니까 이리 줘 봐.
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||:<color=#00CCFF>부탁할게~</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:카리나가 통신을 종료했다.
+HK416Mod(0)<Speaker>HK416</Speaker>||:추가 의뢰야?
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:응.
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:레벨 2 플랫폼에서 파일 하나 복구하려고 완전무장하는 건 아니겠지?
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:30분 후면 잠수함 기지에 도착하니, 미리 준비해야지.
+HK416Mod(0)<Speaker>HK416</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:하... 네가 그렇게 임무에 진지한 모습은 처음 본다.+나도 도와줄게, 마침 너한테 할 말도 있거든.
+()||<黑点2><BIN>72</BIN><BGM>m_avg_labyrinth</BGM>:레벨 2 플랫폼.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:역시... 철혈 때문에 파일이 손상된 거였어.+그런데 처리가 뭐 이리 어설프담. 걔네 형편이 이렇게 초라해질 줄은 진짜 몰랐어.
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:아까 댄들라이가 잠수함 기지에 철혈이 있다 하지 않았어?
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:그 녀석의 말을 믿어?
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:적어도... 다른 인형들은 녀석을 적대시하지 않는 것 같아.
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:오가스와 관계가 있고, 나비 사건과 관계가 있는 스피라에나 노드와 관계가 있는데도?+저 인간도, 인형도, 기계도 아닌 녀석이야말로 이 열차 안에서 제일 수상한 녀석이야.
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:그렇게 신경 쓰이면 직접 가서 말해보는 게 어때?
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:흥... 그 댄들라이란 녀석, 내가 M4의 마인드맵을 감시하는 걸 진작에 눈치채고 있었어.
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:하긴, 조금 전에도 우리 들으라는 말도 많이 했으니.+그냥 그만두지? 단지 페르시카의 의뢰 때문에 M4의 마인드맵을 감시하는 게 아니잖아.
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:하고 싶은 말이 뭐야?
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:지금 네가 무슨 꿍꿍이속인지는 나도 모르지만, 적어도 목적만큼은 그리폰과 일치하잖아. 그러니 저 특별한 녀석들이 우리 대신 알아서 일을 처리하도록 놔두는 게 낫지 않나 싶어.+우리와 쟤네들은... 다르잖아.
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:자기는 엘리트라고 그렇게 노래를 부르고 다니더니, 이제 와서 겸손 떠는 거야?
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:많은 일을 겪으면 변하는 법이지.+AR팀만이 아니야. 나도 돌아올 때 깨달았어... 우리도 변했다는 걸.+과거에 너무 집착하다간, 과거에 빠져 죽을 수도 있다는 걸.+내가 아는 UMP45는 그딴 허접한 실수를 범할 얼간이는 아니라고 생각해.
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:너 오늘따라 말이 많다?
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:난 그냥 너한테 충고나 해 주고 싶었을 뿐이야. 들을지 말지는 네 마음대로 해.+곧 뭐가 있을지도 모를 잠수함 기지로 들어갈 텐데, 또다시 걸레짝이 된 네 몸뚱이를 업고 뛰어다니긴 싫다고.
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||<黑点1>:걱정해 줘서 고마워, 하지만 지금은 파일을 망가뜨린 철혈의 프로그램을 청소하는 데에 집중하자.
+()||<黑点2><BIN>10</BIN>:

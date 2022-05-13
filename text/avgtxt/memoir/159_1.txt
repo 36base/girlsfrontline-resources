@@ -1,143 +1,143 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>99</BIN><BGM>BGM_Brain</BGM>:험준한 절벽 사이로 일사불란한 발걸음이 가득했고, 그 위로 일렁이는 초연이 바다괴물처럼 주위를 맴돌았다.+완전무장한 사람들은 붕괴 복사와 자욱한 안개 속을 헤치며 조용히 달리다, 로브를 두른 인물 앞에 멈춰 섰다.
-NPC-Soldier(0)<Speaker>무장인원</Speaker>||:모든 준비가 끝났습니다.
-()<Speaker>정체불명의 통신</Speaker>||<黑屏1>:<color=#00CCFF>드디어...</color>+<color=#00CCFF>마지막 만종이 준비되었구나...</color>+<color=#00CCFF>자아, 이제 진혼곡을 울려 퍼뜨리자! 우리의 울분을 토해내자!</color>+<color=#00CCFF>두 자루의 열쇠가 사슬을 끊고 길을 열어, 우리를 그린존이라는 미래로 인도하리니!</color>+<color=#00CCFF>열쇠는 두 자루, 하나라도 성공한다면 웃는 것은 우리 "레퀴엠"일지어다!</color>
-()||<BIN>9</BIN><黑屏2><黑屏1><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:콰――앙――!!
-()||<BIN>22</BIN><黑屏2><BGM>BGM_Room</BGM>:그리폰, 전술인형 마인드맵 수복실.+시스템 가동 - 논리 모듈 동기화, 상태 분석 중...
-()<Speaker>낯선 목소리</Speaker>||:당신의 모델명은?
-RMB93(7)<Speaker>RMB93</Speaker>||:RMB-93...
-RMB93(7)<Speaker>낯선 목소리</Speaker><同时置暗>||:복창합니다, "모닝 엔젤".
-RMB93(7)<Speaker>RMB93</Speaker>||:...모닝 엔젤.
-RMB93(7)<Speaker>낯선 목소리</Speaker><同时置暗>||:당신이 왜 여기 왔는지, 이유를 압니까?
-RMB93(7)<Speaker>RMB93</Speaker>||:...압니다.
-RMB93(7)<Speaker>낯선 목소리</Speaker><同时置暗>||:테스트 준비 완료.+식별명 RMB-93. 경찰 특별작전팀의 의뢰 임무에서의 명령 위반으로, 마인드맵 테스트를 실시합니다.
-RMB93(7)<Speaker>낯선 목소리</Speaker><同时置暗>||:이상의 사항을 이해했습니까?
-RMB93(7)<Speaker>RMB93</Speaker>||<黑屏1>:이해했습니다.
-()<Speaker>낯선 목소리</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:마인드맵 테스트를 시작합니다.+테스트 1. 당신은 개인의 판단이 사전에 구상된 계획보다 우선이라 생각합니까?
-()||<黑屏2><BIN>8</BIN>:그리폰 작전 자료실.
-()<Speaker>위클리 그리폰</Speaker>||:최근 조직되어 장기간 C3 지역을 점거 중이던 반체제 무장 집단 "레퀴엠"이, 점점 더 빈번한 활동을 벌이고 있습니다. 이에 인근 그린존의 경찰 특별작전팀이 여러 차례에 걸쳐 무력 제압을 시도했지만, 이렇다할 성과는 얻지 못했습니다.+때문에 해당 지역에서 극심한 무력 충돌이 계속될 것으로 예상되오니, 각 지휘관님께선 각별히 주의하시기 바랍니다.
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:보다시피, 최근에 "레퀴엠"이라는 폭력 조직이 출현했어. 구성원은 그린존 입경이 여러 번 거부된 난민이 대다수고, 상황은 지금 뉴스에서 설명한 대로야.+그리고 우리가 얻은 첩보에 따르면, 놈들은 약 3시간 후에 그린존의 정화 시설을 파괴해서 안으로 돌입하려 한다고 해. 너희의 임무는 그걸 저지하는 거야.
-RMB93(0)<Speaker>RMB93</Speaker>||:그 테러범들, 저쪽에서 그들의 요구를 들어줄 리가 만무하니 그런 초강수를 두는 거겠지?
-RMB93(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:일단은 특수작전팀도 상황이 심각해지지만 않으면 협상을 고려 중이래.
-RMB93(0)<Speaker>RMB93</Speaker>;NPC-Kalin(0)||:그럼 상황이 심각해지면?
-RMB93(0);M1887(2)<Speaker>M1887</Speaker>||:일이 더 커지기 전에 해결해야지. RMB, 현재 상황 보고해.
-RMB93(0)<Speaker>RMB93</Speaker>;M1887(2)||:하하, 그렇게 불쑥 나타나는 것도 이제 다 익숙해졌네~+마카로프였다면 벌써 잔소리부터 한 트럭 쏟아냈겠지만.
-RMB93(0);M1887(2)<Speaker>M1887</Speaker>||:네 반사 신경은 거의 장거리 탄도 미사일급이구나...+아무튼, 그 테러리스트들이 강하게 나왔다 이거지?
-RMB93(0)<Speaker>RMB93</Speaker>;M1887(2)||:목표는 그린존의 정화 시설이래. 첩보로 확인한 폭약만 해도 웬만한 가옥 10채는 가루로 만들고도 남을 양이야.
-RMB93(0);M1887(2)<Speaker>M1887</Speaker>||:그래? 조금 흥미가 생기네.
-RMB93(0)<Speaker>RMB93</Speaker>;M1887(2)||:그런데 좀 이상하지 않아? 그놈들 목적이 그린존에 들어가는 거라면, 왜 거기의 유일한 정화 시설을 박살내려는 걸까? 죽어도 같이 죽겠단 심본가?
-RMB93(0);M1887(2)<Speaker>M1887</Speaker>||:이유야 나중에 알아보면 되지. 당장은 테러를 막는 게 급선무야.
-RMB93(0)<Speaker>RMB93</Speaker>;M1887(2)||:그렇다면야. 카리나, 시간 얼마나 남았어?
-RMB93(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:어... 2시간 50분.
-RMB93(0)<Speaker>RMB93</Speaker>;M1887(2)||:우리 승산 있기는 해?
-RMB93(0);M1887(2)<Speaker>M1887</Speaker>||:정 걱정되면 3시간 전으로 돌아가서 준비하든가.
-RMB93(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:둘 다 자신감 넘치네~
-NPC-Kalin(0)<Speaker>카리나</Speaker>||<黑屏1>:이만 출발하도록 해, 난 여기서 계속해서 상황을 전달해 줄게.
-()<Speaker></Speaker>||<BIN>169</BIN><黑屏2><BGM>BGM_Empty</BGM>:예상 폭발 시각까지 앞으로 1시간 47분.+RMB-93과 M1887은 목적지인 정화 시설의 외부 지점에 도착해, 열원을 탐지하며 "레퀴엠"의 종적을 샅샅이 수색했다.
-RMB93(0)<Speaker>RMB93</Speaker>||<BGM>BGM_Truth</BGM>:...스캔 완료, 생명체 반응 무.
-RMB93(0);M1887(2)<Speaker>M1887</Speaker>||:이상한걸...
-RMB93(0)<Speaker>RMB93</Speaker>;M1887(2)||:이상하긴 뭐가 이상해? 곧 잿더미가 될 곳에 사람이 남아있을 리가 없잖아.
-RMB93(0);M1887(2)<Speaker>M1887</Speaker>||:특수작전팀이 벌써 대피를 끝마친 건가?
-RMB93(0)<同时置暗>;M1887(2)<Speaker>오퍼레이터</Speaker>||:<color=#00CCFF>그리폰의 전술인형인가? 여기는 특수작전팀이다, 지금 어디――</color>
-M1887(2)<Speaker>M1887</Speaker>||:현장이야.
-M1887(2)<Speaker>오퍼레이터</Speaker>||:<color=#00CCFF>알았다, 보아하니 설명은 생략해도 되겠군. 현재 이 작전의 지휘자는 나다. 너희는 내부로 진입해 폭탄을 찾아내, 해체하는대로 철수하도록.</color>
-M1887(2)<Speaker>M1887</Speaker>||<黑屏1>:알았어.
-()||<黑屏2><BIN>167</BIN>:정화 시설 내부.+폭발까지 앞으로 57분.+한 차례의 수색으로 ,RMB-93과 M1887은 어렵지 않게 설치된 폭탄을 찾아냈다. 하지만 그걸 살펴보던 RMB-93의 안색이 순식간에 어두워졌다.
-M1887(2)<Speaker>M1887</Speaker>||:왜 그래?
-M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:이거, "크레이들"형 폭탄이야.
-M1887(2)<Speaker>M1887</Speaker>;RMB93(0)||:그게 뭔데?
-M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:간단히 설명하자면, 폭탄을 해체하면 이게 가동해서 신호 범위 안의 다른 폭탄을 기폭시키게 되어 있어.+응... 모의훈련 때 처리해본 거랑 똑같으니까 틀림없어.
-M1887(2)<Speaker>M1887</Speaker>;RMB93(0)||:성가시게 됐네.
-M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:빼도 박도 못하는 추가 업무지? 지금부터는 특근 수당을 3배로 받아야겠는데~
-M1887(2)<Speaker>M1887</Speaker>;RMB93(0)||:<color=#A9A9A9>그렇게까지 계산을 해야 하는 건가...</color>+이봐 오퍼레이터, 문제가 생겼어.
-M1887(2)<Speaker>오퍼레이터</Speaker>;RMB93(0)<同时置暗>||:<color=#00CCFF>설마 벌써 폭탄이 터졌다는 건 아니겠지?</color>
-M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:풋, 의외로 유머 감각 있는 사람이네. 우리가 그렇게 못미덥나? 이거 무시당했는걸~
-M1887(2)<Speaker>오퍼레이터</Speaker>;RMB93(0)<同时置暗>||:<color=#00CCFF>나도 정시 퇴근하고 싶으니까 얼른 무슨 일인지나 말해.</color>
-M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:응? 저기——
-M1887(2)<Speaker>M1887</Speaker>||:무선 "크레이들" 폭탄이야. 무작정 건드렸다간...
-M1887(2)<Speaker>오퍼레이터</Speaker><同时置暗>||:<color=#00CCFF>하나를 해체하면 다른 하나가 폭발하겠군. 귀찮은 짓을 하는구만...</color>
-M1887(2)<Speaker>M1887</Speaker>||:아무튼 그렇게 됐어. 이제 한 시간도 채 안 남았는데...
-M1887(2)<Speaker>오퍼레이터</Speaker><同时置暗>||:<color=#00CCFF>나머지 폭탄의 위치는 파악했나?</color>
-M1887(2)<Speaker>M1887</Speaker>||:아니, 하지만 신호의 출력으로 봐선 멀리 있진 않을 거야.
-M1887(2)<Speaker>오퍼레이터</Speaker><同时置暗>||:<color=#00CCFF>알았다. 폭탄 해체는 중지. 거기서 다음 지시를... 그래, 마침 거기 있으니 반경 3km에 차단선을 구축하도록.</color>
-M1887(2)<Speaker>M1887</Speaker>||:차단선? 누굴 막으려고?
-M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:그야 당연히 난민들이겠지. 하아... 폭탄까지 터지게 생겼는데 위험수당 더 받아야겠는걸?
-M1887(2)<Speaker>M1887</Speaker>;RMB93(0)||:폭탄을 내버려두고 차단선을 세우라고? 이 정화 시설이 파괴되면 이 그린존은 끝장이야. 저들이 그걸 모르진 않을 텐데.
-M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:음... 일단 카리나한테 연락해 보자.
-NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>;RMB93(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여기는 그리폰. 지금 상황 어때?</color>
-NPC-Kalin(0)<通讯框>;RMB93(0)<Speaker>RMB93</Speaker>||:아무래도 추가 근무에 위험 수당도 추가로 받아야 할 것 같아.
-NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>;RMB93(0)||:<color=#00CCFF>정보 받았어. 음... "크레이들" 폭탄이라... 특수작전팀도 다른 폭탄이 어디 있는진 모른대?</color>
-NPC-Kalin(0);RMB93(0)<Speaker>RMB93</Speaker>||:신호의 출력이 약해서 근처에 있는 것만은 확실해.
-NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>;RMB93(0)||:<color=#00CCFF>어휴 참, 이 테러리스트들 정말 이판사판으로 부...</color>+<color=#00CCFF>...힐 생각...가 보...</color>
-RMB93(0)<Speaker>RMB93</Speaker>||<SE1>AVG_tele_disconnect</SE1>:응? 여보세요? ...통신 교란?
-RMB93(0)<Speaker>잡음 가득한 소리</Speaker><同时置暗>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>아아, ...디어 연...됐나. 애먹이는 채널이군. 크흠... 안녕하신가, 그리폰의 귀빈 여러분.</color>+<color=#00CCFF>그린존의 심판자들이 우리의 걸작에 골치를 썩이고 있겠지?</color>
-RMB93(0)<Speaker>RMB93</Speaker>||:...?!+이건 기밀 채널인데?+ 당신 누구야? 무슨 속셈이야? 대답해.
-RMB93(0)<Speaker>잡음 가득한 소리</Speaker><同时置暗>||:<color=#00CCFF>하, 과연 인형이나 할 질문이로군. 역시 기계는 독선적이야.</color>
-RMB93(0)<Speaker>RMB93</Speaker>||:이런 짓으로라도 그린존에 들어갈 생각이걸랑 꿈 깨셔.
-RMB93(0)<Speaker>잡음 가득한 소리</Speaker><同时置暗>||:<color=#00CCFF>그럼 특별히 말해 주지. 이 옐로우존의 난민들은 오직 우리 "레퀴엠"만이 모든 것을 치유하리라 믿고 있다.</color>+<color=#00CCFF>거지 꼴로 붕괴 복사에 천천히 죽어 가는데도 배척받을 바에야, 차라리 "진혼곡"의 음표가 되겠다면서...</color>
-RMB93(0);M1887(2)<Speaker>M1887</Speaker>||:참 유감이네, 우리가 예상한 그대로의 헛소리라서.
-RMB93(0)<Speaker>잡음 가득한 소리</Speaker>;M1887(2)<同时置暗>||:<color=#00CCFF>그럴지도. 하지만 네가 놓친 것이 있다. 그리고 마침 우리는 아직 오늘 밤의 주인공을 정하지 않아서 말이지...</color>+<color=#00CCFF>어서 각자 자리에 앉으라 하고 싶지만, 그러기엔 시간상 선택의 여지가 별로 없군.</color>
-RMB93(0)<Speaker>RMB93</Speaker>;M1887(2)||:우린 너네 "파티"에 어울려 줄 생각 없거든? 특수작전팀도 마찬가질 테고.
-RMB93(0)<Speaker>잡음 가득한 소리</Speaker><同时置暗>||:<color=#00CCFF>본디 초대를 받은 건 그들이다만, 대신 이렇게 너희가 와 주었지. 진심으로 감사한다, 덕분에 실험이 더욱 가치 있어질 거야.</color>
-RMB93(0);M1887(2)<Speaker></Speaker><同时点亮>||:RMB-93이 M1887에게 시선을 줬지만, M1887은 고개를 저을 뿐이었다.
-RMB93(0);M1887(2)<Speaker>M1887</Speaker>||:신호원 분석 실패. 생각보다 교활한 놈들이야.
-RMB93(0)<Speaker>잡음 가득한 소리</Speaker><同时置暗>;M1887(2)||:<color=#00CCFF>너희 눈앞의 "크레이들" 폭탄은 그저 에피타이저일 뿐. 메인디쉬는 북동쪽 2시 방향에 있는 특수작전팀의 세이프하우스에 있다.</color>+<color=#00CCFF>하지만 명심하도록, 이건 원래 그들을 위해 준비한 것이야.</color>
-NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>...아, 복구됐다!</color>
-NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>괜찮아? 방금 대체 어떻게 된 거였어?</color>
-M1887(2)<Speaker>M1887</Speaker>;NPC-Kalin(0)<通讯框>||:채널이 해킹당했어, 예비 채널로 전환해.
-M1887(2);NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>자, 작전용 통신 채널에 끼어들었다고? 그 정도의 해킹 실력까지 있다니...</color>
-M1887(2)<Speaker>M1887</Speaker>;NPC-Kalin(0)<通讯框>||:녹음 파일은 전송했어. 다만, 아무래도 그 세이프하우스를 확인해 봐야 할 것 같아.+RMB, 준비됐어?
-M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:응, 언제든... 엥? 잠깐, 나 혼자 가라고?
-M1887(2)<Speaker>M1887</Speaker>;RMB93(0)||:이 자의 말이 사실이라면, 그곳에 있는 것이 "크레이들"의 나머지 폭탄일 거야.+그리고 우리 둘 중 폭탄 제거의 전문가는 너지.+차단선 설치와 주위 경계는 내가 맡을게.
-M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:도저히 반박 불가능한 논리네...
-M1887(2)<Speaker>M1887</Speaker>;RMB93(0)||:신중에 신중을 기하도록 해. 이 임무, 점점 심상찮게 느껴져.
-M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||<黑屏1>:걱정 마, 너도 나도 보통 인형은 아니잖아?
-()||<黑屏2><BIN>70</BIN><BGM>BGM_Empty</BGM>:폭발까지 남은 시간 - 28분.+특수작전팀의 세이프하우스.+RMB-93은 곧바로 진입하지 않고 문앞에 서서, 실내의 동향을 파악했다.
-RMB93(0)<Speaker>RMB93</Speaker>||<BGM>BGM_Danger</BGM>:RMB-93이 M1887에게. 지금 세이프하우스에 도착했어.
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>M1887 수신. 정화 시설 주위의 봉쇄 완료했고, 나도 방금 막 위험 반경 밖으로 철수했어. 하지만 특수작전팀에서 아직도 움직임이 없는 게 걸리는걸.</color>
-M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:정말이지 엄청 까다로운 클라이언트네... 아무튼 지금부터 돌입할게.
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(0)||:<color=#00CCFF>유사시엔 즉시 보고해.</color>
-RMB93(0)<Speaker></Speaker>||:RMB-93은 신경을 곤두세우고 세이프하우스에 돌입해, 방을 살펴봤다.
-RMB93(0)<Speaker>RMB93</Speaker>||:어? 저건...!
-NPC-PasserbyF(0)<Speaker></Speaker>||:텅 빈 방 한가운데에, 웬 여자아이가 전선 케이블에 꽁꽁 묶인 채로 나무 의자에 앉혀져 있었다.
-NPC-PasserbyF(0)<Speaker>여자아이</Speaker>||:앗...!
-NPC-PasserbyF(0);RMB93(0)<Speaker>RMB93</Speaker>||:안심해, 구하러 왔어. 이름이 뭐니?
-NPC-PasserbyF(0)<Speaker>여자아이</Speaker>;RMB93(0)||:으아아앙...
-NPC-PasserbyF(0);RMB93(0)<Speaker>RMB93</Speaker>||:위험하니까 움직이지 말고 가만히 기다려, 언니가 금방 풀어 줄게.
-NPC-PasserbyF(0)<Speaker>여자아이</Speaker>;RMB93(0)||:훌쩍... 아...
-NPC-PasserbyF(0);RMB93(0)<Speaker>RMB93</Speaker>||:어머, 이거 갖고 싶어? 자, 줄 테니까 괜찮다고 할 때까지 얌전히 있으렴, 알았지?
-NPC-PasserbyF(0);RMB93(0)<Speaker></Speaker>||:RMB-93은 망설임 없이 자신의 목걸이를 벗어 여자아이에게 걸어 주었다.
-NPC-PasserbyF(0);RMB93(7)<Speaker>RMB93</Speaker>||:<color=#A9A9A9>애도 달랬으니 일에 집중해야지.</color>+마음에 드니?
-NPC-PasserbyF(0)<Speaker>여자아이</Speaker>;RMB93(7)||:응.
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>그게 놈이 말한 "메인디쉬"인가...</color>
-M1887(2)<通讯框>;RMB93(7)<Speaker>RMB93</Speaker>||:똑같은 "크레이들"형...
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>뭐라고!?</color>
-M1887(2)<通讯框>;RMB93(7)<Speaker>RMB93</Speaker>||:틀림없어.
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>칫... RMB, 함부로 움직이지 마. 당장 특수작전팀에게 연락할게.</color>+<color=#00CCFF>특수작전팀, 여기는 그리폰. 응답 바란다, 소대원이 다른 폭탄의 위치를 확인했다. 지시 바란다.</color>
-M1887(2)<Speaker>오퍼레이터</Speaker><通讯框>;RMB93(7)<同时置暗>||:<color=#00CCFF>그...폰, 이... 됐다. 이후... 처리......</color>
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:뭐지? 또 통신 교란인가?
-M1887(2)<通讯框>;RMB93(7)<Speaker>RMB93</Speaker>||:저쪽에서 뭐래? 이제 몇 분 안 남았어!
-M1887(2)<Speaker>오퍼레이터</Speaker><通讯框>;RMB93(7)<同时置暗>||:<color=#00CCFF>...리폰? 그......, 응답... 젠장, 이 말... 들리면 ......</color>
-M1887(2)<Speaker></Speaker><通讯框>;RMB93(7)<同时置暗>||:불안정한 통신은 결국 완전히 끊어졌고, RMB-93에겐 M1887이 통신을 재시도하는 소리만 들렸다.
-M1887(2)<通讯框>;RMB93(7)<Speaker>RMB93</Speaker>||:1887! 이제 정말 시간 없어!
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>그 담당자한테 통신이 불가능해. 제기랄, 지휘관과 카리나에게도 신호가 닿질 않으니...</color>+<color=#00CCFF>...잠깐, 저건... 특수작전팀의 장갑차잖아? RMB, 폭탄 처리반이 왔어. 이제――</color>
-M1887(2)<通讯框>;RMB93(7)<Speaker>RMB93</Speaker>||:무슨 일이 있든 내가 임무를 완수하겠어!
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>그게 무슨 소리야, 우리 임무는 폭탄 해체를 중단하고 차단선을 구축하는 거야.</color>+<color=#00CCFF>크레이들 장치의 다른 폭탄을 찾아내서 어떻게 처리할지는 특수작전팀의 책임이고.</color>
-M1887(2)<通讯框>;RMB93(7)<Speaker>RMB93</Speaker>||:이 애 두고는 절대 못 가!
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>RMB, 우리 임무는 끝났어. 판단은 작전 지휘권을 가진 저쪽의 몫이야. 우린 다른 폭탄을 찾아내란 명령도 받지 않았어.</color>
-M1887(2)<Speaker></Speaker><通讯框>;RMB93(7)||:폭발까지, 앞으로 47초... 46초...
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>저쪽이 폭탄의 해체를 시작하면 네 위치의 폭탄이 폭발할 거야.</color>
-NPC-PasserbyF(0)<Speaker>여자아이</Speaker>;RMB93(7)||:언니... 나 숨 막혀...
-NPC-PasserbyF(0);RMB93(7)<Speaker>RMB93</Speaker>||:괜찮아, 언니가 지금 바로――
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>RMB-93! 당장 거기서 이탈해! 명령이야!</color>
-M1887(2)<通讯框>;RMB93(7)<Speaker>RMB93</Speaker>||:앞으로 30초... 크레이들 장치의 신호 범위 밖으로 나가기엔 늦었어... 그럼, 남은 방법은...
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>RMB! 너 지금 무슨 생각해!?</color>
-NPC-PasserbyF(0)<Speaker>여자아이</Speaker>;RMB93(7)||:언니...!
-M1887(2)<通讯框>;RMB93(7)<Speaker>RMB93</Speaker>||:특수작전팀... 아직 여기 가까이는 안 왔지?
-M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>너 설마! 안 돼!!</color>
-()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:똑딱이는 시계 소리가 모두의 통신 채널에 울렸고, 오직 한 사람의 입꼬리가 올라갔다.+그리고 모든 것이 멈췄다.
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>Explode</SE1>:콰아앙!!
-()<Speaker></Speaker>||<BIN>9</BIN>:......
-()<Speaker>잡음 가득한 소리</Speaker>||<BIN>9</BIN>:그것이 너희의 "선택"인가...
-()<Speaker>잡음 가득한 소리</Speaker>||<BIN>9</BIN>:기계는 결국 기계로군. 무고한 인간을 해치지 못하도록 설정된 이상, 눈앞의 상황밖에 안 보이겠지.
-()<Speaker>잡음 가득한 소리</Speaker>||<BIN>9</BIN><黑屏1>:하하하, 참 아름다운 위선이야.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>99</BIN><BGM>BGM_Brain</BGM>:험준한 절벽 사이로 일사불란한 발걸음이 가득했고, 그 위로 일렁이는 초연이 바다괴물처럼 주위를 맴돌았다.+완전무장한 사람들은 붕괴 복사와 자욱한 안개 속을 헤치며 조용히 달리다, 로브를 두른 인물 앞에 멈춰 섰다.
+NPC-Soldier(0)<Speaker>무장인원</Speaker>||:모든 준비가 끝났습니다.
+()<Speaker>정체불명의 통신</Speaker>||<黑屏1>:<color=#00CCFF>드디어...</color>+<color=#00CCFF>마지막 만종이 준비되었구나...</color>+<color=#00CCFF>자아, 이제 진혼곡을 울려 퍼뜨리자! 우리의 울분을 토해내자!</color>+<color=#00CCFF>두 자루의 열쇠가 사슬을 끊고 길을 열어, 우리를 그린존이라는 미래로 인도하리니!</color>+<color=#00CCFF>열쇠는 두 자루, 하나라도 성공한다면 웃는 것은 우리 "레퀴엠"일지어다!</color>
+()||<BIN>9</BIN><黑屏2><黑屏1><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:콰――앙――!!
+()||<BIN>22</BIN><黑屏2><BGM>BGM_Room</BGM>:그리폰, 전술인형 마인드맵 수복실.+시스템 가동 - 논리 모듈 동기화, 상태 분석 중...
+()<Speaker>낯선 목소리</Speaker>||:당신의 모델명은?
+RMB93(7)<Speaker>RMB93</Speaker>||:RMB-93...
+RMB93(7)<Speaker>낯선 목소리</Speaker><同时置暗>||:복창합니다, "모닝 엔젤".
+RMB93(7)<Speaker>RMB93</Speaker>||:...모닝 엔젤.
+RMB93(7)<Speaker>낯선 목소리</Speaker><同时置暗>||:당신이 왜 여기 왔는지, 이유를 압니까?
+RMB93(7)<Speaker>RMB93</Speaker>||:...압니다.
+RMB93(7)<Speaker>낯선 목소리</Speaker><同时置暗>||:테스트 준비 완료.+식별명 RMB-93. 경찰 특별작전팀의 의뢰 임무에서의 명령 위반으로, 마인드맵 테스트를 실시합니다.
+RMB93(7)<Speaker>낯선 목소리</Speaker><同时置暗>||:이상의 사항을 이해했습니까?
+RMB93(7)<Speaker>RMB93</Speaker>||<黑屏1>:이해했습니다.
+()<Speaker>낯선 목소리</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:마인드맵 테스트를 시작합니다.+테스트 1. 당신은 개인의 판단이 사전에 구상된 계획보다 우선이라 생각합니까?
+()||<黑屏2><BIN>8</BIN>:그리폰 작전 자료실.
+()<Speaker>위클리 그리폰</Speaker>||:최근 조직되어 장기간 C3 지역을 점거 중이던 반체제 무장 집단 "레퀴엠"이, 점점 더 빈번한 활동을 벌이고 있습니다. 이에 인근 그린존의 경찰 특별작전팀이 여러 차례에 걸쳐 무력 제압을 시도했지만, 이렇다할 성과는 얻지 못했습니다.+때문에 해당 지역에서 극심한 무력 충돌이 계속될 것으로 예상되오니, 각 지휘관님께선 각별히 주의하시기 바랍니다.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:보다시피, 최근에 "레퀴엠"이라는 폭력 조직이 출현했어. 구성원은 그린존 입경이 여러 번 거부된 난민이 대다수고, 상황은 지금 뉴스에서 설명한 대로야.+그리고 우리가 얻은 첩보에 따르면, 놈들은 약 3시간 후에 그린존의 정화 시설을 파괴해서 안으로 돌입하려 한다고 해. 너희의 임무는 그걸 저지하는 거야.
+RMB93(0)<Speaker>RMB93</Speaker>||:그 테러범들, 저쪽에서 그들의 요구를 들어줄 리가 만무하니 그런 초강수를 두는 거겠지?
+RMB93(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:일단은 특수작전팀도 상황이 심각해지지만 않으면 협상을 고려 중이래.
+RMB93(0)<Speaker>RMB93</Speaker>;NPC-Kalin(0)||:그럼 상황이 심각해지면?
+RMB93(0);M1887(2)<Speaker>M1887</Speaker>||:일이 더 커지기 전에 해결해야지. RMB, 현재 상황 보고해.
+RMB93(0)<Speaker>RMB93</Speaker>;M1887(2)||:하하, 그렇게 불쑥 나타나는 것도 이제 다 익숙해졌네~+마카로프였다면 벌써 잔소리부터 한 트럭 쏟아냈겠지만.
+RMB93(0);M1887(2)<Speaker>M1887</Speaker>||:네 반사 신경은 거의 장거리 탄도 미사일급이구나...+아무튼, 그 테러리스트들이 강하게 나왔다 이거지?
+RMB93(0)<Speaker>RMB93</Speaker>;M1887(2)||:목표는 그린존의 정화 시설이래. 첩보로 확인한 폭약만 해도 웬만한 가옥 10채는 가루로 만들고도 남을 양이야.
+RMB93(0);M1887(2)<Speaker>M1887</Speaker>||:그래? 조금 흥미가 생기네.
+RMB93(0)<Speaker>RMB93</Speaker>;M1887(2)||:그런데 좀 이상하지 않아? 그놈들 목적이 그린존에 들어가는 거라면, 왜 거기의 유일한 정화 시설을 박살내려는 걸까? 죽어도 같이 죽겠단 심본가?
+RMB93(0);M1887(2)<Speaker>M1887</Speaker>||:이유야 나중에 알아보면 되지. 당장은 테러를 막는 게 급선무야.
+RMB93(0)<Speaker>RMB93</Speaker>;M1887(2)||:그렇다면야. 카리나, 시간 얼마나 남았어?
+RMB93(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:어... 2시간 50분.
+RMB93(0)<Speaker>RMB93</Speaker>;M1887(2)||:우리 승산 있기는 해?
+RMB93(0);M1887(2)<Speaker>M1887</Speaker>||:정 걱정되면 3시간 전으로 돌아가서 준비하든가.
+RMB93(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:둘 다 자신감 넘치네~
+NPC-Kalin(0)<Speaker>카리나</Speaker>||<黑屏1>:이만 출발하도록 해, 난 여기서 계속해서 상황을 전달해 줄게.
+()<Speaker></Speaker>||<BIN>169</BIN><黑屏2><BGM>BGM_Empty</BGM>:예상 폭발 시각까지 앞으로 1시간 47분.+RMB-93과 M1887은 목적지인 정화 시설의 외부 지점에 도착해, 열원을 탐지하며 "레퀴엠"의 종적을 샅샅이 수색했다.
+RMB93(0)<Speaker>RMB93</Speaker>||<BGM>BGM_Truth</BGM>:...스캔 완료, 생명체 반응 무.
+RMB93(0);M1887(2)<Speaker>M1887</Speaker>||:이상한걸...
+RMB93(0)<Speaker>RMB93</Speaker>;M1887(2)||:이상하긴 뭐가 이상해? 곧 잿더미가 될 곳에 사람이 남아있을 리가 없잖아.
+RMB93(0);M1887(2)<Speaker>M1887</Speaker>||:특수작전팀이 벌써 대피를 끝마친 건가?
+RMB93(0)<同时置暗>;M1887(2)<Speaker>오퍼레이터</Speaker>||:<color=#00CCFF>그리폰의 전술인형인가? 여기는 특수작전팀이다, 지금 어디――</color>
+M1887(2)<Speaker>M1887</Speaker>||:현장이야.
+M1887(2)<Speaker>오퍼레이터</Speaker>||:<color=#00CCFF>알았다, 보아하니 설명은 생략해도 되겠군. 현재 이 작전의 지휘자는 나다. 너희는 내부로 진입해 폭탄을 찾아내, 해체하는대로 철수하도록.</color>
+M1887(2)<Speaker>M1887</Speaker>||<黑屏1>:알았어.
+()||<黑屏2><BIN>167</BIN>:정화 시설 내부.+폭발까지 앞으로 57분.+한 차례의 수색으로 ,RMB-93과 M1887은 어렵지 않게 설치된 폭탄을 찾아냈다. 하지만 그걸 살펴보던 RMB-93의 안색이 순식간에 어두워졌다.
+M1887(2)<Speaker>M1887</Speaker>||:왜 그래?
+M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:이거, "크레이들"형 폭탄이야.
+M1887(2)<Speaker>M1887</Speaker>;RMB93(0)||:그게 뭔데?
+M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:간단히 설명하자면, 폭탄을 해체하면 이게 가동해서 신호 범위 안의 다른 폭탄을 기폭시키게 되어 있어.+응... 모의훈련 때 처리해본 거랑 똑같으니까 틀림없어.
+M1887(2)<Speaker>M1887</Speaker>;RMB93(0)||:성가시게 됐네.
+M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:빼도 박도 못하는 추가 업무지? 지금부터는 특근 수당을 3배로 받아야겠는데~
+M1887(2)<Speaker>M1887</Speaker>;RMB93(0)||:<color=#A9A9A9>그렇게까지 계산을 해야 하는 건가...</color>+이봐 오퍼레이터, 문제가 생겼어.
+M1887(2)<Speaker>오퍼레이터</Speaker>;RMB93(0)<同时置暗>||:<color=#00CCFF>설마 벌써 폭탄이 터졌다는 건 아니겠지?</color>
+M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:풋, 의외로 유머 감각 있는 사람이네. 우리가 그렇게 못미덥나? 이거 무시당했는걸~
+M1887(2)<Speaker>오퍼레이터</Speaker>;RMB93(0)<同时置暗>||:<color=#00CCFF>나도 정시 퇴근하고 싶으니까 얼른 무슨 일인지나 말해.</color>
+M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:응? 저기——
+M1887(2)<Speaker>M1887</Speaker>||:무선 "크레이들" 폭탄이야. 무작정 건드렸다간...
+M1887(2)<Speaker>오퍼레이터</Speaker><同时置暗>||:<color=#00CCFF>하나를 해체하면 다른 하나가 폭발하겠군. 귀찮은 짓을 하는구만...</color>
+M1887(2)<Speaker>M1887</Speaker>||:아무튼 그렇게 됐어. 이제 한 시간도 채 안 남았는데...
+M1887(2)<Speaker>오퍼레이터</Speaker><同时置暗>||:<color=#00CCFF>나머지 폭탄의 위치는 파악했나?</color>
+M1887(2)<Speaker>M1887</Speaker>||:아니, 하지만 신호의 출력으로 봐선 멀리 있진 않을 거야.
+M1887(2)<Speaker>오퍼레이터</Speaker><同时置暗>||:<color=#00CCFF>알았다. 폭탄 해체는 중지. 거기서 다음 지시를... 그래, 마침 거기 있으니 반경 3km에 차단선을 구축하도록.</color>
+M1887(2)<Speaker>M1887</Speaker>||:차단선? 누굴 막으려고?
+M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:그야 당연히 난민들이겠지. 하아... 폭탄까지 터지게 생겼는데 위험수당 더 받아야겠는걸?
+M1887(2)<Speaker>M1887</Speaker>;RMB93(0)||:폭탄을 내버려두고 차단선을 세우라고? 이 정화 시설이 파괴되면 이 그린존은 끝장이야. 저들이 그걸 모르진 않을 텐데.
+M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:음... 일단 카리나한테 연락해 보자.
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>;RMB93(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여기는 그리폰. 지금 상황 어때?</color>
+NPC-Kalin(0)<通讯框>;RMB93(0)<Speaker>RMB93</Speaker>||:아무래도 추가 근무에 위험 수당도 추가로 받아야 할 것 같아.
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>;RMB93(0)||:<color=#00CCFF>정보 받았어. 음... "크레이들" 폭탄이라... 특수작전팀도 다른 폭탄이 어디 있는진 모른대?</color>
+NPC-Kalin(0);RMB93(0)<Speaker>RMB93</Speaker>||:신호의 출력이 약해서 근처에 있는 것만은 확실해.
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>;RMB93(0)||:<color=#00CCFF>어휴 참, 이 테러리스트들 정말 이판사판으로 부...</color>+<color=#00CCFF>...힐 생각...가 보...</color>
+RMB93(0)<Speaker>RMB93</Speaker>||<SE1>AVG_tele_disconnect</SE1>:응? 여보세요? ...통신 교란?
+RMB93(0)<Speaker>잡음 가득한 소리</Speaker><同时置暗>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>아아, ...디어 연...됐나. 애먹이는 채널이군. 크흠... 안녕하신가, 그리폰의 귀빈 여러분.</color>+<color=#00CCFF>그린존의 심판자들이 우리의 걸작에 골치를 썩이고 있겠지?</color>
+RMB93(0)<Speaker>RMB93</Speaker>||:...?!+이건 기밀 채널인데?+ 당신 누구야? 무슨 속셈이야? 대답해.
+RMB93(0)<Speaker>잡음 가득한 소리</Speaker><同时置暗>||:<color=#00CCFF>하, 과연 인형이나 할 질문이로군. 역시 기계는 독선적이야.</color>
+RMB93(0)<Speaker>RMB93</Speaker>||:이런 짓으로라도 그린존에 들어갈 생각이걸랑 꿈 깨셔.
+RMB93(0)<Speaker>잡음 가득한 소리</Speaker><同时置暗>||:<color=#00CCFF>그럼 특별히 말해 주지. 이 옐로우존의 난민들은 오직 우리 "레퀴엠"만이 모든 것을 치유하리라 믿고 있다.</color>+<color=#00CCFF>거지 꼴로 붕괴 복사에 천천히 죽어 가는데도 배척받을 바에야, 차라리 "진혼곡"의 음표가 되겠다면서...</color>
+RMB93(0);M1887(2)<Speaker>M1887</Speaker>||:참 유감이네, 우리가 예상한 그대로의 헛소리라서.
+RMB93(0)<Speaker>잡음 가득한 소리</Speaker>;M1887(2)<同时置暗>||:<color=#00CCFF>그럴지도. 하지만 네가 놓친 것이 있다. 그리고 마침 우리는 아직 오늘 밤의 주인공을 정하지 않아서 말이지...</color>+<color=#00CCFF>어서 각자 자리에 앉으라 하고 싶지만, 그러기엔 시간상 선택의 여지가 별로 없군.</color>
+RMB93(0)<Speaker>RMB93</Speaker>;M1887(2)||:우린 너네 "파티"에 어울려 줄 생각 없거든? 특수작전팀도 마찬가질 테고.
+RMB93(0)<Speaker>잡음 가득한 소리</Speaker><同时置暗>||:<color=#00CCFF>본디 초대를 받은 건 그들이다만, 대신 이렇게 너희가 와 주었지. 진심으로 감사한다, 덕분에 실험이 더욱 가치 있어질 거야.</color>
+RMB93(0);M1887(2)<Speaker></Speaker><同时点亮>||:RMB-93이 M1887에게 시선을 줬지만, M1887은 고개를 저을 뿐이었다.
+RMB93(0);M1887(2)<Speaker>M1887</Speaker>||:신호원 분석 실패. 생각보다 교활한 놈들이야.
+RMB93(0)<Speaker>잡음 가득한 소리</Speaker><同时置暗>;M1887(2)||:<color=#00CCFF>너희 눈앞의 "크레이들" 폭탄은 그저 에피타이저일 뿐. 메인디쉬는 북동쪽 2시 방향에 있는 특수작전팀의 세이프하우스에 있다.</color>+<color=#00CCFF>하지만 명심하도록, 이건 원래 그들을 위해 준비한 것이야.</color>
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>...아, 복구됐다!</color>
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>괜찮아? 방금 대체 어떻게 된 거였어?</color>
+M1887(2)<Speaker>M1887</Speaker>;NPC-Kalin(0)<通讯框>||:채널이 해킹당했어, 예비 채널로 전환해.
+M1887(2);NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>자, 작전용 통신 채널에 끼어들었다고? 그 정도의 해킹 실력까지 있다니...</color>
+M1887(2)<Speaker>M1887</Speaker>;NPC-Kalin(0)<通讯框>||:녹음 파일은 전송했어. 다만, 아무래도 그 세이프하우스를 확인해 봐야 할 것 같아.+RMB, 준비됐어?
+M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:응, 언제든... 엥? 잠깐, 나 혼자 가라고?
+M1887(2)<Speaker>M1887</Speaker>;RMB93(0)||:이 자의 말이 사실이라면, 그곳에 있는 것이 "크레이들"의 나머지 폭탄일 거야.+그리고 우리 둘 중 폭탄 제거의 전문가는 너지.+차단선 설치와 주위 경계는 내가 맡을게.
+M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:도저히 반박 불가능한 논리네...
+M1887(2)<Speaker>M1887</Speaker>;RMB93(0)||:신중에 신중을 기하도록 해. 이 임무, 점점 심상찮게 느껴져.
+M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||<黑屏1>:걱정 마, 너도 나도 보통 인형은 아니잖아?
+()||<黑屏2><BIN>70</BIN><BGM>BGM_Empty</BGM>:폭발까지 남은 시간 - 28분.+특수작전팀의 세이프하우스.+RMB-93은 곧바로 진입하지 않고 문앞에 서서, 실내의 동향을 파악했다.
+RMB93(0)<Speaker>RMB93</Speaker>||<BGM>BGM_Danger</BGM>:RMB-93이 M1887에게. 지금 세이프하우스에 도착했어.
+M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>M1887 수신. 정화 시설 주위의 봉쇄 완료했고, 나도 방금 막 위험 반경 밖으로 철수했어. 하지만 특수작전팀에서 아직도 움직임이 없는 게 걸리는걸.</color>
+M1887(2);RMB93(0)<Speaker>RMB93</Speaker>||:정말이지 엄청 까다로운 클라이언트네... 아무튼 지금부터 돌입할게.
+M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(0)||:<color=#00CCFF>유사시엔 즉시 보고해.</color>
+RMB93(0)<Speaker></Speaker>||:RMB-93은 신경을 곤두세우고 세이프하우스에 돌입해, 방을 살펴봤다.
+RMB93(0)<Speaker>RMB93</Speaker>||:어? 저건...!
+NPC-PasserbyF(0)<Speaker></Speaker>||:텅 빈 방 한가운데에, 웬 여자아이가 전선 케이블에 꽁꽁 묶인 채로 나무 의자에 앉혀져 있었다.
+NPC-PasserbyF(0)<Speaker>여자아이</Speaker>||:앗...!
+NPC-PasserbyF(0);RMB93(0)<Speaker>RMB93</Speaker>||:안심해, 구하러 왔어. 이름이 뭐니?
+NPC-PasserbyF(0)<Speaker>여자아이</Speaker>;RMB93(0)||:으아아앙...
+NPC-PasserbyF(0);RMB93(0)<Speaker>RMB93</Speaker>||:위험하니까 움직이지 말고 가만히 기다려, 언니가 금방 풀어 줄게.
+NPC-PasserbyF(0)<Speaker>여자아이</Speaker>;RMB93(0)||:훌쩍... 아...
+NPC-PasserbyF(0);RMB93(0)<Speaker>RMB93</Speaker>||:어머, 이거 갖고 싶어? 자, 줄 테니까 괜찮다고 할 때까지 얌전히 있으렴, 알았지?
+NPC-PasserbyF(0);RMB93(0)<Speaker></Speaker>||:RMB-93은 망설임 없이 자신의 목걸이를 벗어 여자아이에게 걸어 주었다.
+NPC-PasserbyF(0);RMB93(7)<Speaker>RMB93</Speaker>||:<color=#A9A9A9>애도 달랬으니 일에 집중해야지.</color>+마음에 드니?
+NPC-PasserbyF(0)<Speaker>여자아이</Speaker>;RMB93(7)||:응.
+M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>그게 놈이 말한 "메인디쉬"인가...</color>
+M1887(2)<通讯框>;RMB93(7)<Speaker>RMB93</Speaker>||:똑같은 "크레이들"형...
+M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>뭐라고!?</color>
+M1887(2)<通讯框>;RMB93(7)<Speaker>RMB93</Speaker>||:틀림없어.
+M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>칫... RMB, 함부로 움직이지 마. 당장 특수작전팀에게 연락할게.</color>+<color=#00CCFF>특수작전팀, 여기는 그리폰. 응답 바란다, 소대원이 다른 폭탄의 위치를 확인했다. 지시 바란다.</color>
+M1887(2)<Speaker>오퍼레이터</Speaker><通讯框>;RMB93(7)<同时置暗>||:<color=#00CCFF>그...폰, 이... 됐다. 이후... 처리......</color>
+M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:뭐지? 또 통신 교란인가?
+M1887(2)<通讯框>;RMB93(7)<Speaker>RMB93</Speaker>||:저쪽에서 뭐래? 이제 몇 분 안 남았어!
+M1887(2)<Speaker>오퍼레이터</Speaker><通讯框>;RMB93(7)<同时置暗>||:<color=#00CCFF>...리폰? 그......, 응답... 젠장, 이 말... 들리면 ......</color>
+M1887(2)<Speaker></Speaker><通讯框>;RMB93(7)<同时置暗>||:불안정한 통신은 결국 완전히 끊어졌고, RMB-93에겐 M1887이 통신을 재시도하는 소리만 들렸다.
+M1887(2)<通讯框>;RMB93(7)<Speaker>RMB93</Speaker>||:1887! 이제 정말 시간 없어!
+M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>그 담당자한테 통신이 불가능해. 제기랄, 지휘관과 카리나에게도 신호가 닿질 않으니...</color>+<color=#00CCFF>...잠깐, 저건... 특수작전팀의 장갑차잖아? RMB, 폭탄 처리반이 왔어. 이제――</color>
+M1887(2)<通讯框>;RMB93(7)<Speaker>RMB93</Speaker>||:무슨 일이 있든 내가 임무를 완수하겠어!
+M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>그게 무슨 소리야, 우리 임무는 폭탄 해체를 중단하고 차단선을 구축하는 거야.</color>+<color=#00CCFF>크레이들 장치의 다른 폭탄을 찾아내서 어떻게 처리할지는 특수작전팀의 책임이고.</color>
+M1887(2)<通讯框>;RMB93(7)<Speaker>RMB93</Speaker>||:이 애 두고는 절대 못 가!
+M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>RMB, 우리 임무는 끝났어. 판단은 작전 지휘권을 가진 저쪽의 몫이야. 우린 다른 폭탄을 찾아내란 명령도 받지 않았어.</color>
+M1887(2)<Speaker></Speaker><通讯框>;RMB93(7)||:폭발까지, 앞으로 47초... 46초...
+M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>저쪽이 폭탄의 해체를 시작하면 네 위치의 폭탄이 폭발할 거야.</color>
+NPC-PasserbyF(0)<Speaker>여자아이</Speaker>;RMB93(7)||:언니... 나 숨 막혀...
+NPC-PasserbyF(0);RMB93(7)<Speaker>RMB93</Speaker>||:괜찮아, 언니가 지금 바로――
+M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>RMB-93! 당장 거기서 이탈해! 명령이야!</color>
+M1887(2)<通讯框>;RMB93(7)<Speaker>RMB93</Speaker>||:앞으로 30초... 크레이들 장치의 신호 범위 밖으로 나가기엔 늦었어... 그럼, 남은 방법은...
+M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>RMB! 너 지금 무슨 생각해!?</color>
+NPC-PasserbyF(0)<Speaker>여자아이</Speaker>;RMB93(7)||:언니...!
+M1887(2)<通讯框>;RMB93(7)<Speaker>RMB93</Speaker>||:특수작전팀... 아직 여기 가까이는 안 왔지?
+M1887(2)<Speaker>M1887</Speaker><通讯框>;RMB93(7)||:<color=#00CCFF>너 설마! 안 돼!!</color>
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:똑딱이는 시계 소리가 모두의 통신 채널에 울렸고, 오직 한 사람의 입꼬리가 올라갔다.+그리고 모든 것이 멈췄다.
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>Explode</SE1>:콰아앙!!
+()<Speaker></Speaker>||<BIN>9</BIN>:......
+()<Speaker>잡음 가득한 소리</Speaker>||<BIN>9</BIN>:그것이 너희의 "선택"인가...
+()<Speaker>잡음 가득한 소리</Speaker>||<BIN>9</BIN>:기계는 결국 기계로군. 무고한 인간을 해치지 못하도록 설정된 이상, 눈앞의 상황밖에 안 보이겠지.
+()<Speaker>잡음 가득한 소리</Speaker>||<BIN>9</BIN><黑屏1>:하하하, 참 아름다운 위선이야.

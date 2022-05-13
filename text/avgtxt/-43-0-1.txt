@@ -1,219 +1,219 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>9</BIN>:......
-()<Speaker></Speaker>||:미국, 맨해튼.
-()<Speaker></Speaker>||<黑屏1>:재난이 터진 후 어둠이 드리운 이 붕괴되기 직전의 도시. 빌딩들을 휘감는 눈보라는 점점 더 심해져만 갔다...
-()<Speaker></Speaker>||<黑屏2><BIN>288</BIN>:............<下雪></下雪>
-()<Speaker></Speaker>||<BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM><SE2>Gunfight</SE2>:총성과 불꽃이 정적과 눈보라를 꿰뚫었다.+갈수록 혼란스러워지는 기류는 소용돌이로 변해, 바닥의 눈을 휩쓸어 콘크리트 바리케이드 위에 흩뿌렸다.+그리고 어디선가 나타난 두 소녀가, 바리케이드를 짚고 뛰어넘어 갓길에 세워진 순찰차 옆에 몸을 바싹 기댔다.+반쯤 열린 운전석의 문을 닫자, 차 창문에 그들의 모습이 비쳤다.
-RFB(0)<Speaker>RFB</Speaker>||<SE1>Select</SE1>:헤헤헤, 겨우 여기까지 다시 왔네.
-NPC-Dima(1)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>요원님, 임무 달성까지 얼마 안 남았습니다. 예정대로 집결 포인트에서 만나죠. 행운을 빕니다.</color>
-MDR(0)<Speaker>MDR</Speaker>||:저 말도 귀에 못이 박일 정도로 들었어.
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:하하, 인형 귀에 못이 박일 리가...+야!
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:우웅?
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:유리창에 얼굴 문대지 말고 얼른 저기다 터렛이나 던져!
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:아니 근데 진짜, 이게 대체 몇 번째냐고...+좀 다른 루트로 시도하면 안 돼?
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:어느 쪽으로 가도 마찬가지야, 상대도 만만찮다고.+어디 보자... 그래, 기회를 노려서 놈들의 뒤를 치자! 그럼 분명 이길 수 있을 거야!
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:겨우 우리 둘이서 저놈들의 뒤를 친다고?
-RFB(0)<Speaker>RFB</Speaker>||:어... 시간을 좀 더 끌 수만 있다면――
-NPC-Dima(1)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>요원님, 시간이 얼마 없습니다. JTF의 헬기가 현재 대기 중이니, 서둘러 신호탄으로 위치를 알리고 철수하세요.</color>
-RFB(0)<Speaker>RFB</Speaker>||:아 진짜 뭐만 하면 시간 없대!
-MDR(0)<Speaker>MDR</Speaker>||:저 여자는 통신기로 떠들기만 하고, 지겹지도 않나... 히익!?
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Landmine_Movement</SE1>:둘을 발견한 적대 세력이 화력을 그녀들이 숨은 순찰차로 쏟아, 불꽃이 잔뜩 튀었다.+MDR은 반사적으로 대인 유도 지뢰를 순찰차 밑으로 굴려 보냈다.
-RFB(0)<Speaker>RFB</Speaker>||:오오, MDR 이제 요령 생겼네!
-MDR(0)<Speaker>MDR</Speaker>||:그러니까 나 커버 좀 잘 해 달란 말이야! 또 혼자 들어가면 나 진짜 끌 거야, 알았어?!
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Landmine_Explosion</SE1>:지뢰가 폭발하는 순간을 틈 타, MDR이 순찰차 너머의 거리를 빠르게 훑어봤다. 예상대로, 저쪽엔 덩치 큰 무장인원 여럿이 이쪽을 노려보고 있었다.+붉게 빛나는 손목시계를 찬 그들의 몸놀림은 신속하면서도 질서정연했다. 배후에 그들을 지휘하는 자가 있다는 뜻이었다.+그때, RFB와 MDR의 어깨에서 무감정한 목소리가 들렸다.
-()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:높은 위험도의 적을 탐지.
-NPC-Dima(1)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_The_Division_ISAC_Off</SE1>:<color=#00CCFF>주의하세요, 성가신 녀석이 그쪽으로 가고 있습니다!</color>
-MDR(0)<Speaker>MDR</Speaker>||:그래, 시간 딱 맞춰서 왔네!
-RFB(0)<Speaker>RFB</Speaker>||:한 놈씩 일점사해!+각개격파하면 분명 승산이――
-()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:경고. 바이탈 사인 이상. 감염이 의심됨.
-MDR(0)<Speaker>MDR</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:또야?! 다크존이래도 그렇지 뭔 감염률이 이따구로 높아!?+RFB! 약 남은 거 없어?!
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:지금 적이 코앞인데 약 먹을 시간이 어딨어!
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:아니 아니, 싸우다 감염률 초과해서 죽은 적도 있잖아! 또 같은 이유로 전멸할 수는――
-RFB(0)<Speaker>RFB</Speaker>||:앗! 소이탄! 소이탄 조심해!
-()<Speaker></Speaker>||<SE1>Explode</SE1>:퍼엉!+폭발과 함께 MDR의 몸에 불이 붙었고, 그녀는 바로 자리를 박차고 튀어올랐다.
-MDR(0)<Speaker>MDR</Speaker><Shake>0.1</Shake>||:꺄아아아앗뜨뜨뜨앗뜨앗뜨거어어!!
-RFB(0)<Speaker>RFB</Speaker>||:어?! 야, 진정해!!
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:하지만 온몸에 불이 붙은 MDR에게 RFB의 말이 들릴 턱이 없었다. MDR이 몸부림치며 엄폐물에서 벗어난 그 순간, 적들의 화력이 모조리 그녀에게 퍼부어졌다.
-MDR(0)<Speaker>MDR</Speaker>||:으아악!!+RFB! 살려 줘! 나 다운됐어! 빨리!
-RFB(0)<Speaker>RFB</Speaker>||:멀어! 그러게 진정하랬잖아!+조금만 더 가까이...+헉!
-()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:가까스로 뻗은 손이 MDR에게 닿으려던 그 순간, RFB의 등뒤에서 묵직한 숨소리가 들렸다. 그녀가 황급히 뒤를 돌아봤을 땐, 이미 상대의 시커먼 총구가 그녀의 미간을 가리키고 있었다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_rifle_finalshot_n</SE1><BGM>BGM_Empty</BGM>:............<火焰销毁></火焰销毁>
-NPC-Dima(1)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>유감입니다, 요원님. 작전에 실패했습니다.</color>+<color=#00CCFF>재정비하신 후 다시 도전하시기를——</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><Night>:그리폰 숙소, 새벽 4시 36분.
-RFB(0)<Speaker>RFB</Speaker>||<震屏3>:<size=55>못해먹겠네 진짜아아아아아!!!</size>
-()<Speaker></Speaker>||<BGM>BGM_Hello</BGM>:레벨 2 플랫폼에서 로그아웃한 RFB가 분을 못 참고 절규했다.+하지만 그녀의 절규에 대답하는 건 옆방에서 벽을 쿵쿵 두들기는 소리였다.
-잠깬 옆방 인형()<Speaker>잠깬 옆방 인형</Speaker>||<SE1>AVG_doorknock_wood</SE1>:야! 한밤중에 뭔 소리를 빽빽 질러!? 침대 밑에서 ELID라도 나왔냐!
-RFB(0)<Speaker>RFB</Speaker>||:끄응...!
-()<Speaker></Speaker>||:민폐를 끼쳤음을 자각한 RFB는 곧장 입을 다물었지만, 미션에 실패할 때마다 은근히 비아냥대던 "그 여자"의 목소리가 계속 머릿속에서 맴돌았다.+베테랑 게이머로서 자부심이 있는 RFB는 짜증스럽게 다시 레벨 2 플랫폼에 접속하려 했다.+하지만 그러기 직전, RFB만큼 표정이 구겨진 그녀의 게임 파트너가 방의 문을 박차고 들어왔다.
-MDR(0)<Speaker>MDR</Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1>:<size=55>딴 거 해!</size>
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:아이 깜짝이야... 벌써 포기야?
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:이렇게 어려운 게임인 줄 몰랐지!
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:좀 어려운 거야 정상이지. 쉽기만 해선 게임을 하는 맛이 안 나잖아?
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:맛은 개뿔이!+게시판에서 누가 선물해 주길래 그냥 업적 좀 따고 말 생각이었는데, 밤 9시에 시작해서 벌써 새벽 4시 반이야!+그리고 계속 클리어 직전에 게임오버 당하고! 넌 재밌을지 몰라도 난 열불나서 부품 수명 바닥나겠다!
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:뭐 어때, 어차피 최근엔 임무랄 것도 없어서 시간 때우는 덴 딱인걸.
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:얼마 전에 어떤 민수용 인형이 부품 노화로 실족해서 용광로에 빠졌단 소문, 들었지...?
-RFB(0)<Speaker>RFB</Speaker><Shake>0.1</Shake>;MDR(0)||:<size=55>아아악! 그만! 그만! 무서운 이야기 하지 마!</size>
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:그럼 얼른 딴 거 골라, 딴 거!
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:어휴 정말... 어려운 방식으로 하는 게 그리 짜증나면, 정공법으로 하면 되지?
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:정공법? 그게 무슨 말이야?
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:둘만으로 공략하기 어렵다면...+사람을 더 부르면 쉬워질 거 아니야.
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:엥, 더 부를 수 있어?
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:물론이지, 이 게임은 최대 24인 동시 멀티플레이를 지원하거든!
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:......+그러니까, 처음부터 셀프 하드모드였어!?
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:아, 아니, 꼭 그렇단 건 아니고!+처음이니까 맛보기부터 하잔 의미에서...
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:에휴... 그래서, 나머지 22명의 플레이어는 무슨 수로 모으게?+우리 기지에서 게임 좋아하는 애들도 몇 명 없는데, 이거 꽤나 고전작이잖아.+우리가 초대해 봤자 별로 흥미 가질 사람 없지 않아?
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:후, 후, 후... 그거야 간단하지.+떡밥을 뿌리면 돼!
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:떡밥...?
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:다들 자주 그불게를 보잖아? 그럼 "그 수"를 쓰면 분명 모두 앞다퉈서 참여하려 들 거야!
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:"그 수"라니, 무슨 수?
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:자세히 설명해 주자면, 귀 좀 이리 줘봐...+속닥속닥속닥속닥...
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:음...+흠 흠...+오오...!+그거 재밌겠다!
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:헤헤헤, 이렇게 그불게에 글을 올리기만 하면 얼마 안 가서 게임 안이 훨~씬 소란스러워질 거야!
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:그리고, 몰려든 뉴비들에게 우리의 실력을 보여 준다? 이거 기대되는걸~ 꺄하하핫!
-RFB(0)<Speaker>RFB</Speaker>||:이 프로게이머 RFB와 함께인데 당연하지! 아하하하!
-()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:쿵! 쿵! 쿵!
-잠깬 옆방 인형()<Speaker>잠깬 옆방 인형</Speaker>||:<size=60>잠 좀 자자 이것들아!!!</size>
-()<Speaker></Speaker>||:흥분해 떠들던 두 인형들은 즉시 옆방의 고함소리에 입을 다물었지만, 서로에게 척 엄지를 세우며 "계획"을 시작했다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......
-()<Speaker></Speaker>||:그리고 그날 밤, 그리폰 익명 게시판에 수상한 글이 게재됐다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>97</BIN>:그리폰 기지, 전략지휘센터.+따스한 아침햇살이 창문을 넘어 들어오는 화창한 날씨였다.+복도는 아직 붐비지 않고, 이따금씩 인형 두세 명이 지나가는 것이 다였다.+그런데 다들 하나같이 자료실 앞을 지날 때마다 무언가에 홀린 듯, 걸음을 멈추고 바라보다 자료실 안으로 들어갔다.
-()<Speaker></Speaker>||:출근한 지휘관도 자료실에 들어가 보니, 인형들이 가장 안쪽의 문 앞을 에워싸고 있었다.
-지휘관()<Speaker>지휘관</Speaker>||:뭐 재밌는 거라도 있니?
-지나가던 인형()<Speaker>지나가던 인형</Speaker>||:아, 지휘관님. 안녕하세요.+그게... 카리나 씨의 상태가 영 안 좋아 보여서요.
-()<Speaker></Speaker>||:인형이 가리키는 쪽으로 고개를 돌리니, 탁상 위에 엎어진 채 꿈쩍도 않는 카리나가 있었다.+온몸으로 건들지 말라는 오오라를 풍기고 있어, 인형들은 적어도 그녀가 무슨 병에 걸리진 않았다 짐작하고 가만히 지켜보기만 하는 중이었다.
-NPC-Kalin(12)<Speaker>카리나</Speaker>||:으아... 지휘관님, 안녕히 주무셨어요...
-NPC-Kalin(12)<Speaker>지휘관</Speaker>||:우왓, 깜짝이야...+카리나 너 안색이 엉망인 수준이 아닌데... 괜찮니?
-NPC-Kalin(12)<Speaker>카리나</Speaker>||:하아아... 넵!
-()<Speaker></Speaker>||:카리나는 정신을 차리려고 양손으로 자신의 뺨을 힘껏 찰싹 때렸고, 그제서야 좀 괜찮아진 듯했다.+...아마도.
-NPC-Kalin(12)<Speaker>카리나</Speaker>||:죄송해요... 어젯밤에 라디오 방송이 길어지는 바람에...+그리고 엄청 큰 걱정거리도 생겨서 잠을 못 잤어요...
-NPC-Kalin(12)<Speaker>지휘관</Speaker>||:또 밤을 샜다고? 너 그러다 몸 망가진다?+어서 가서 자렴, 오늘 일정은 내일로 연기하자.
-NPC-Kalin(12)<Speaker>카리나</Speaker>||:네...? 해도 떴는데 지금 가서 자면 어떡해요...
-NPC-Kalin(12)<Speaker>지휘관</Speaker>||:억지로 깨어 있다 몸이 망가지는 것보단 낫지. 어차피 오늘 일정은 재정 결산밖에 없으니까 내일로 미뤄도 돼.+그 걱정거리란 것도 내일 얘기하고.
-NPC-Kalin(12)<Speaker>카리나</Speaker>||:으윽... 그 재정 결산이 걱정거리란 말예요!
-NPC-Kalin(12)<Speaker>지휘관</Speaker>||:엥, 재정이 어쨌길래?
-NPC-Kalin(12)<Speaker>카리나</Speaker>||:그게... 어제 저번 분기의 재정 내역을 확인해봤는데요...+상층부서 준 보조금을 제외하면, 앞으로의 임무로 얻는 수입을 전부 합산해도 저희의 일상 지출을 메꿀 수가 없어요...+더 심각한 건... 계산해 보니까 적자가 점점 더 커지고 있어요!
-NPC-Kalin(12)<Speaker>지휘관</Speaker>||:잠깐, 그 말인즉슨...?
-NPC-Kalin(12)<Speaker>카리나</Speaker>||:네에... 저희 완전 거덜났어요...+아, 아예 빈털터리가 된 건 아니지만, 얼마 안 가 비슷하게 될 거예요...
-NPC-Kalin(12)<Speaker>지휘관</Speaker>||:끄응... 하긴, 최근엔 여러 가지 원인으로 의뢰며 파견 임무도 받질 못했지. 그래도 그게 잠을 못 잘 정도는 아니잖니?
-NPC-Kalin(12)<Speaker>카리나</Speaker>||:아뇨! 담당 지부의 재정을 적자로 만들다니, 제 커리어에 큰 오점이에요!
-NPC-Kalin(12)<Speaker>지휘관</Speaker>||:하하... 너무 자책 말고, 내가 헬리안 씨와 상담해볼 테니 우선 넌 가서 푹 쉬도록 해.+얘들아, 카리나 좀 돌봐 주렴. 난 지휘실에 다녀올게.
-()<Speaker>구경하던 인형들</Speaker>||:네!
-()<Speaker></Speaker>||:카리나를 맡기고 자료실을 나서려던 지휘관은 때마침 들어오던 두 인형과 맞닥뜨렸다.
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:아, 지휘관님도 마침 계셨네요!
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:좋은 아침~!
-K5(0)<Speaker>지휘관</Speaker>;R93(0)<Position>0,-100</Position>||:R93, K5? 무슨 일이야?
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:카리나 씨한테 볼일이 있어서요, 흥미 있어 할 만한 일이라.
-K5(0);R93(0)<Speaker>지휘관</Speaker><Position>0,-100</Position>||:카리나가 어젯밤에 한숨도 못 자서 쉬어야 하는데, 나중에 하면 안 될까?
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:그래? 그럼 어쩔 수 없지. 아쉬워라.
-K5(0)<Speaker>지휘관</Speaker>;R93(0)<Position>0,-100</Position>||:무슨 일인데 그래? 나한테도 말해 줄 수 있어?
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:그게... 조금 전에 게시판에서 이런 글을 봤거든요.
-()<Speaker></Speaker>||:R93이 구체적인 대답 대신 지휘관에게 휴대 단말기를 보라고 눈짓했고, 고개를 갸우뚱하며 꺼낸 단말기에도 이미 그녀의 통신 요청이 깜빡이고 있었다.+수신을 누르자, 웬 기묘한 소용돌이 모양의 로고가 그려진 "초대장"이 나타났다.
-지휘관()<Speaker>지휘관</Speaker>||:"초대형 이벤트... 서바이벌 매치"?+카리나랑 같이 게임하려고?
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:그게 아니라, 뭐가 걸렸는지 한번 보세요. 최종 우승 상금이 무려 1천만 크레딧이에요, 1천만!
-R93(0)<Speaker>지휘관</Speaker><Position>0,-100</Position>||:난 또... 이렇게 거창한 단어는 거의 다 사기야, 신빙성이 없어.
-K5(0)<Speaker>K5</Speaker>||:지휘관은 그런 경험 많은가 봐?
-K5(0)<Speaker>지휘관</Speaker>||:아주 오래전 평화롭던 시기에도 흔했는데, 요즘은 더하면 더했지...+뭐, 너희도 대충 알잖니.
-K5(0)<Speaker>K5</Speaker>||:내가 아까 점을 쳐 봤는데, 오늘은 재물운이 엄청 좋다고 나왔거든? 아무리 봐도 이 게임 이벤트를 가리키는 것 같아.+속는 셈 치고 한번 해보는 건 어떨까?
-K5(0)<Speaker>지휘관</Speaker>||:아무리 그래도, 이런 사실 여부도 확실치 않은 정보에 흥미를 가질 사람이――
-()<Speaker>카리나의 목소리</Speaker>||<震屏3>:방금 누가 1천만이라고 했어!?
-()<Speaker></Speaker>||:......+있겠냐고 하려던 찰나에 바로 한 명 나타났네.
-K5(0)<Speaker>K5</Speaker>||:카리나가 밤 샜다는 거 정말이야?
-지휘관()<Speaker>지휘관</Speaker>||:너 갑자기 너무 팔팔해진 거 아니니...?
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:완전 회복했어요!
-NPC-Kalin(0)<Speaker>지휘관</Speaker>||:안색은 확실히 나아져 보이는데... 하룻밤 꼬박 샌 건 사실이잖아. 이런 수상하기 짝이 없는 광고는 그냥 흘려들으렴.
-NPC-Kalin(8)<Speaker>카리나</Speaker>||:그럴 순 없죠! 사실이든 아니든 1천만이라잖아요!+만약 진짜라면요? 진짜로 상금 1천만 크레딧이라면 적자 문제도 바로 해결이에요!
-NPC-Kalin(8)<Speaker>지휘관</Speaker>||:어... 이, 일단 좀 진정할래?
-NPC-Kalin(8)<Speaker>카리나</Speaker>||:일획천금의 기회가 굴러들어 왔는데 어떻게 진정해요! 부관 커뮤니티에서 "재무 허접"이라 놀림받지 않을 절호의 찬스란 말이에요!
-NPC-Kalin(8)<Speaker>지휘관</Speaker>||:부관도 커뮤니티가 따로 있구나...?
-NPC-Kalin(8)<Speaker>카리나</Speaker>||:R93, 이 글 그불게에 올라온 거지?
-NPC-Kalin(8);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:네? 아, 네.
-NPC-Kalin(8)<Speaker>카리나</Speaker>;R93(0)<Position>0,-100</Position>||:좋아, 그럼 오늘 임무는 이 이벤트에 참가해서 1천만 크레딧을 따내는 거야!
-NPC-Kalin(8)<Speaker>지휘관</Speaker>;R93(0)<Position>0,-100</Position>||:잠깐 잠깐, 오늘은 휴무일이 아니라고.
-NPC-Kalin(8);K5(0)<Speaker>K5</Speaker>||:어차피 우리 모두 요즘은 기지에서 빈둥거리기밖에 안 하잖아.
-NPC-Kalin(8);K5(0)<Speaker>지휘관</Speaker>||:그... 그건 그렇지...
-NPC-Kalin(8)<Speaker>카리나</Speaker>;K5(0)||:이건 엄청 중요한 일이에요, 이 1천만 크레딧이라도 없으면 저희 진짜 휴업하게 될지도 몰라요!+오늘만 부탁드릴게요, 네? 지휘관님도 재정 위기 해결에 도움을 주세요!
-NPC-Kalin(8)<Speaker>지휘관</Speaker>||:정말 진심으로 이 게임 이벤트로 재정 위기를 해결할 셈이야?+하아... 하는 수 없지. 그럼 딱 오늘만이다.
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:아싸!
-NPC-Kalin(1)<Speaker>지휘관</Speaker>||:네가 너무 걱정하다 무리하지 않았으면 해서 허가하는 거야. 이게 근본적인 해결책이 안 된다는 건 너도 알잖니.+설령 이 이벤트가 진짜여도, 상금 1천만 크레딧을 따내지 못하면 헬리안 씨와 검토하는 수밖에 없어.
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:걱정 마세요! 그럼 당장 준비하러 갈까요!
-()<Speaker></Speaker>||:방금까지만 해도 죽을상이었던 카리나는 언제 그랬냐는 듯 기운찬 걸음으로 방을 나섰다.
-지휘관()<Speaker>지휘관</Speaker>||:역시 좀 걱정되는걸...+그래도 뭐, 우리 부관 아가씨가 기운을 차렸으니 됐나.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>302</BIN>:......<下雪></下雪>
-()<Speaker></Speaker>||<BGM>GF_The_Division_Ola_Strandh_Prologue</BGM>:미국, 맨해튼.
-NPC-Kalin(11)<Speaker>카리나</Speaker>||:우와아, 여기가 바로 뉴욕인가요?+인터넷에서 사진으로밖에 못 봤는데, 이렇게 큰 도시를 게임 안에 구현하다니 대단하네요!
-NPC-Kalin(11)<Speaker>지휘관</Speaker>||:그건 그렇고, 왜 우리 둘만이야?
-NPC-Kalin(13)<Speaker>카리나</Speaker>||:고작해야 게임인데 간단하잖아요. 그냥 총 들고 적을 물리치기만 하면 우승은 따놓은 당상이라고요!
-()<Speaker>ISAC</Speaker>||:경고. 감염 위험에 노출됨.
-NPC-Kalin(11)<Speaker>카리나</Speaker>||:어라?
-NPC-Kalin(11)<Speaker>지휘관</Speaker>||:감염...? 붕괴 복사 같은 느낌이네.
-NPC-Kalin(9)<Speaker>카리나</Speaker>||:에, 에이... 설마 그건 아니겠죠. 아마 다른 질병 아닐까요?
-()<Speaker>ISAC</Speaker>||:경고. 체온 저하.
-NPC-Kalin(11)<Speaker>카리나</Speaker>||:엑, 게임에 요소가 이렇게 많아요?
-NPC-Kalin(11)<Speaker>지휘관</Speaker>||:폭설이 쏟아지고 있으니... 이 게임, 열악한 환경을 상당히 잘 재현했는걸? 이 정도면 아마 옐로우존보다도 심각한 수준이겠지.
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>요원님, 여기는 디마입니다.</color>+<color=#00CCFF>귀측 상황은 아직 양호한 모양이군요. 하지만 지금은 임무가 급선무입니다, 서둘러 다크존으로 진입해 약품을 회수하세요!</color>
-NPC-Kalin(11)<Speaker>카리나</Speaker>;NPC-Dima(1)||:약품 회수가 이 게임의 목표인가 봐요.+그런데 이 사람은...?
-NPC-Kalin(11);NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>전략국토부 요원 "디마"입니다.</color>+<color=#00CCFF>두 분보다 고작 며칠 일찍 깨어난 정도입니다만, 현 시간부로 여러분의 이번 임무 수행을 지원하겠습니다.</color>
-NPC-Kalin(11);NPC-Dima(1)<Speaker>지휘관</Speaker>||:아하, NPC구나. 그럼 튜토리얼도 해 주겠네.
-NPC-Kalin(11);NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>당신의 ISAC은 정상이군요, 다행이네요. 출발 전에 상태를 확인하시기 바랍니다.</color>+<color=#00CCFF>임무 수행에 필요한 정보는 입수할 때마다 바로 제공해드리겠습니다. 그럼 행운을 빕니다, 요원님.</color>
-NPC-Kalin(11)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
-NPC-Kalin(11)<Speaker>카리나</Speaker>||:"ISAC"은 방금 그 인공지능 같은 목소리를 말하는 걸까요?
-ISAC()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:정보 시스템 분석 컴퓨터 가동. 모든 ISAC 서브 시스템 접속 확인.+무기로 인증을 시작하십시오.
-지휘관()<Speaker>지휘관</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:응, 튜토리얼이 나왔네.
-NPC-Kalin(13)<Speaker>카리나</Speaker>||:흐흥~ 총만 잘 쏘면 되는 건데 튜토리얼이 필요해요?
-()<Speaker></Speaker>||:카리나는 자신만만한 표정으로 내게 윙크했다.
-지휘관()<Speaker>지휘관</Speaker>||:그저 약품을 회수하는 일이더라도, 가는 길에 많은 위협이 있을 테니 신중해야지.
-NPC-Kalin(13)<Speaker>카리나</Speaker>||:걱정 마시래도요! 평소에는 기회가 별로 없었지만, 게임이니까 제 진짜 실력을 마음껏 보여드릴게요!
-()<Speaker></Speaker>||:게임을 시작해 "전략국토부"의 특수요원이 된 두 사람은, 그렇게 담소를 나누며 거리를 따라 디마가 말한 "다크존"으로 발걸음을 내디뎠다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......<火焰销毁></火焰销毁>
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:그리고 얼마 지나지 않아, 점점 퍼져 가는 안개 너머로 경쾌한 총성이 울려 퍼졌다.
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>......</color>+<color=#00CCFF>유감입니다, 요원님.</color>
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>8</BIN><BGM>BGM_Hello</BGM>:지휘실.
-()<Speaker>지휘관</Speaker>||:......
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:지휘관님, 카리나 씨... 벌써 끝났어요?
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:다른 사람도 아니고 지휘관이 직접 나섰으니, 안 봐도 비디오겠지?
-K5(0)<Speaker>지휘관</Speaker>||:하하... 얘 표정을 보면 알지.
-NPC-Kalin(12)<Speaker>카리나</Speaker>||:후엥...?
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:...방금 한 말 취소할게요.
-NPC-Kalin(8)<Speaker>카리나</Speaker>||:뭐야! 왜 게임에 우리 말고 다른 플레이어가 있어요?!
-NPC-Kalin(8)<Speaker>지휘관</Speaker>||:그야 1천만 크레딧이 걸렸는데 당연히 참가자가 더 있겠지.
-NPC-Kalin(8)<Speaker>카리나</Speaker>||:그리고 그보다, 어떻게 저희가 순식간에 당한 거예요?+이거 마치, 마치 그... 그걸 뭐라 하더라...?
-NPC-Kalin(8)<Speaker>지휘관</Speaker>||:핵?
-NPC-Kalin(8)<Speaker>카리나</Speaker>||:네네네!!+그 녀석들, 분명 핵을 쓴 거예요!
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:다른 가능성도 있지 않나요?+이 이벤트 소식은 그불게에 올라왔으니까, 보셨다는 다른 플레이어들은 아마도...
-K5(0)<Speaker>K5</Speaker>||:전술인형일지도?
-K5(0)<Speaker>지휘관</Speaker>||:그럴 가능성이 높네.
-NPC-Kalin(2)<Speaker>카리나</Speaker>||:엑, 인형이 참가해도 되는 거였어요?
-NPC-Kalin(2)<Speaker>지휘관</Speaker>||:글에 안 된다는 문구는 없었으니까.+화기 관제 코어를 탑재한 인형이 이런 방면엔 압도적으로 유리하니, 인간인 우리로선 죽었다 깨어나도 못 이길 거야.+하지만 오히려 잘 됐어.
-()||<黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>302</BIN>:같은 시각, 게임 안의 어딘가.
-RFB(0)<Speaker>RFB</Speaker>||:지금쯤이면 슬슬 다른 애들도 접속했으려나?
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:방금 우리가 해치운 인간 같은 허접 둘도 있었으니 그렇겠지.
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:헤헤헤, 역시 인형도 돈에는 끌릴 수밖에 없다니까.+자아~ 그럼 어디 일방적인 학살을 시작해볼까?
-RFB(0);MDR(0)<Speaker>MDR</Speaker>||:우히히, 이게 게임이지! 그나저나 너도 참 나쁜 아이디어를 생각해낸다?
-RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:과찬해 주니 몸 둘 바를 모르겠네~ 앞으로도 더더욱 나를 다시보게 될 거라고! 아하하하!!
-MDR(0)<Speaker>MDR</Speaker>||:꺄하하하――
-()<Speaker></Speaker>||<BIN>290</BIN>:......
-MDR()<Speaker>MDR</Speaker>||:...얼라리요?
-RFB()<Speaker>RFB</Speaker>||:<size=55>아아아아아아아아악!!!</size>
-MDR()<Speaker>MDR</Speaker>||:뭐야!? 왜 갑자기 튕겨?!
-RFB()<Speaker>RFB</Speaker>||:재접! 얼른 재접해!
-MDR()<Speaker>MDR</Speaker>||:괜찮아 괜찮아, 이제 막 시작한 참이니까 너무 늦진 않았어!
-RFB()<Speaker>RFB</Speaker>||:너무든 아니든 늦은 건 늦은 거지! 이러면 초반 파밍을 놓치고 만단 말이야, 빨리 빨리!
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>302</BIN>:……
-RFB(0)<Speaker>RFB</Speaker>||:휴우~+겨우 재접했네...
-()<Speaker></Speaker>||<BIN>290</BIN>:......
-RFB()<Speaker>RFB</Speaker>||<震屏3>:<size=60>NOOOOOOOO!!!</size>
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......
-NPC-Dima(1)<Speaker>디마</Speaker>||:하아... 저 인형들, 정말 믿어도 될까?
-()<Speaker>시스템</Speaker>||:남은 생존 플레이어 - 20명.
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN>:......
+()<Speaker></Speaker>||:미국, 맨해튼.
+()<Speaker></Speaker>||<黑屏1>:재난이 터진 후 어둠이 드리운 이 붕괴되기 직전의 도시. 빌딩들을 휘감는 눈보라는 점점 더 심해져만 갔다...
+()<Speaker></Speaker>||<黑屏2><BIN>288</BIN>:............<下雪></下雪>
+()<Speaker></Speaker>||<BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM><SE2>Gunfight</SE2>:총성과 불꽃이 정적과 눈보라를 꿰뚫었다.+갈수록 혼란스러워지는 기류는 소용돌이로 변해, 바닥의 눈을 휩쓸어 콘크리트 바리케이드 위에 흩뿌렸다.+그리고 어디선가 나타난 두 소녀가, 바리케이드를 짚고 뛰어넘어 갓길에 세워진 순찰차 옆에 몸을 바싹 기댔다.+반쯤 열린 운전석의 문을 닫자, 차 창문에 그들의 모습이 비쳤다.
+RFB(0)<Speaker>RFB</Speaker>||<SE1>Select</SE1>:헤헤헤, 겨우 여기까지 다시 왔네.
+NPC-Dima(1)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>요원님, 임무 달성까지 얼마 안 남았습니다. 예정대로 집결 포인트에서 만나죠. 행운을 빕니다.</color>
+MDR(0)<Speaker>MDR</Speaker>||:저 말도 귀에 못이 박일 정도로 들었어.
+RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:하하, 인형 귀에 못이 박일 리가...+야!
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:우웅?
+RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:유리창에 얼굴 문대지 말고 얼른 저기다 터렛이나 던져!
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:아니 근데 진짜, 이게 대체 몇 번째냐고...+좀 다른 루트로 시도하면 안 돼?
+RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:어느 쪽으로 가도 마찬가지야, 상대도 만만찮다고.+어디 보자... 그래, 기회를 노려서 놈들의 뒤를 치자! 그럼 분명 이길 수 있을 거야!
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:겨우 우리 둘이서 저놈들의 뒤를 친다고?
+RFB(0)<Speaker>RFB</Speaker>||:어... 시간을 좀 더 끌 수만 있다면――
+NPC-Dima(1)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>요원님, 시간이 얼마 없습니다. JTF의 헬기가 현재 대기 중이니, 서둘러 신호탄으로 위치를 알리고 철수하세요.</color>
+RFB(0)<Speaker>RFB</Speaker>||:아 진짜 뭐만 하면 시간 없대!
+MDR(0)<Speaker>MDR</Speaker>||:저 여자는 통신기로 떠들기만 하고, 지겹지도 않나... 히익!?
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Landmine_Movement</SE1>:둘을 발견한 적대 세력이 화력을 그녀들이 숨은 순찰차로 쏟아, 불꽃이 잔뜩 튀었다.+MDR은 반사적으로 대인 유도 지뢰를 순찰차 밑으로 굴려 보냈다.
+RFB(0)<Speaker>RFB</Speaker>||:오오, MDR 이제 요령 생겼네!
+MDR(0)<Speaker>MDR</Speaker>||:그러니까 나 커버 좀 잘 해 달란 말이야! 또 혼자 들어가면 나 진짜 끌 거야, 알았어?!
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Landmine_Explosion</SE1>:지뢰가 폭발하는 순간을 틈 타, MDR이 순찰차 너머의 거리를 빠르게 훑어봤다. 예상대로, 저쪽엔 덩치 큰 무장인원 여럿이 이쪽을 노려보고 있었다.+붉게 빛나는 손목시계를 찬 그들의 몸놀림은 신속하면서도 질서정연했다. 배후에 그들을 지휘하는 자가 있다는 뜻이었다.+그때, RFB와 MDR의 어깨에서 무감정한 목소리가 들렸다.
+()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:높은 위험도의 적을 탐지.
+NPC-Dima(1)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_The_Division_ISAC_Off</SE1>:<color=#00CCFF>주의하세요, 성가신 녀석이 그쪽으로 가고 있습니다!</color>
+MDR(0)<Speaker>MDR</Speaker>||:그래, 시간 딱 맞춰서 왔네!
+RFB(0)<Speaker>RFB</Speaker>||:한 놈씩 일점사해!+각개격파하면 분명 승산이――
+()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:경고. 바이탈 사인 이상. 감염이 의심됨.
+MDR(0)<Speaker>MDR</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:또야?! 다크존이래도 그렇지 뭔 감염률이 이따구로 높아!?+RFB! 약 남은 거 없어?!
+RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:지금 적이 코앞인데 약 먹을 시간이 어딨어!
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:아니 아니, 싸우다 감염률 초과해서 죽은 적도 있잖아! 또 같은 이유로 전멸할 수는――
+RFB(0)<Speaker>RFB</Speaker>||:앗! 소이탄! 소이탄 조심해!
+()<Speaker></Speaker>||<SE1>Explode</SE1>:퍼엉!+폭발과 함께 MDR의 몸에 불이 붙었고, 그녀는 바로 자리를 박차고 튀어올랐다.
+MDR(0)<Speaker>MDR</Speaker><Shake>0.1</Shake>||:꺄아아아앗뜨뜨뜨앗뜨앗뜨거어어!!
+RFB(0)<Speaker>RFB</Speaker>||:어?! 야, 진정해!!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:하지만 온몸에 불이 붙은 MDR에게 RFB의 말이 들릴 턱이 없었다. MDR이 몸부림치며 엄폐물에서 벗어난 그 순간, 적들의 화력이 모조리 그녀에게 퍼부어졌다.
+MDR(0)<Speaker>MDR</Speaker>||:으아악!!+RFB! 살려 줘! 나 다운됐어! 빨리!
+RFB(0)<Speaker>RFB</Speaker>||:멀어! 그러게 진정하랬잖아!+조금만 더 가까이...+헉!
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:가까스로 뻗은 손이 MDR에게 닿으려던 그 순간, RFB의 등뒤에서 묵직한 숨소리가 들렸다. 그녀가 황급히 뒤를 돌아봤을 땐, 이미 상대의 시커먼 총구가 그녀의 미간을 가리키고 있었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_rifle_finalshot_n</SE1><BGM>BGM_Empty</BGM>:............<火焰销毁></火焰销毁>
+NPC-Dima(1)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>유감입니다, 요원님. 작전에 실패했습니다.</color>+<color=#00CCFF>재정비하신 후 다시 도전하시기를——</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><Night>:그리폰 숙소, 새벽 4시 36분.
+RFB(0)<Speaker>RFB</Speaker>||<震屏3>:<size=55>못해먹겠네 진짜아아아아아!!!</size>
+()<Speaker></Speaker>||<BGM>BGM_Hello</BGM>:레벨 2 플랫폼에서 로그아웃한 RFB가 분을 못 참고 절규했다.+하지만 그녀의 절규에 대답하는 건 옆방에서 벽을 쿵쿵 두들기는 소리였다.
+잠깬 옆방 인형()<Speaker>잠깬 옆방 인형</Speaker>||<SE1>AVG_doorknock_wood</SE1>:야! 한밤중에 뭔 소리를 빽빽 질러!? 침대 밑에서 ELID라도 나왔냐!
+RFB(0)<Speaker>RFB</Speaker>||:끄응...!
+()<Speaker></Speaker>||:민폐를 끼쳤음을 자각한 RFB는 곧장 입을 다물었지만, 미션에 실패할 때마다 은근히 비아냥대던 "그 여자"의 목소리가 계속 머릿속에서 맴돌았다.+베테랑 게이머로서 자부심이 있는 RFB는 짜증스럽게 다시 레벨 2 플랫폼에 접속하려 했다.+하지만 그러기 직전, RFB만큼 표정이 구겨진 그녀의 게임 파트너가 방의 문을 박차고 들어왔다.
+MDR(0)<Speaker>MDR</Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1>:<size=55>딴 거 해!</size>
+RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:아이 깜짝이야... 벌써 포기야?
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:이렇게 어려운 게임인 줄 몰랐지!
+RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:좀 어려운 거야 정상이지. 쉽기만 해선 게임을 하는 맛이 안 나잖아?
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:맛은 개뿔이!+게시판에서 누가 선물해 주길래 그냥 업적 좀 따고 말 생각이었는데, 밤 9시에 시작해서 벌써 새벽 4시 반이야!+그리고 계속 클리어 직전에 게임오버 당하고! 넌 재밌을지 몰라도 난 열불나서 부품 수명 바닥나겠다!
+RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:뭐 어때, 어차피 최근엔 임무랄 것도 없어서 시간 때우는 덴 딱인걸.
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:얼마 전에 어떤 민수용 인형이 부품 노화로 실족해서 용광로에 빠졌단 소문, 들었지...?
+RFB(0)<Speaker>RFB</Speaker><Shake>0.1</Shake>;MDR(0)||:<size=55>아아악! 그만! 그만! 무서운 이야기 하지 마!</size>
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:그럼 얼른 딴 거 골라, 딴 거!
+RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:어휴 정말... 어려운 방식으로 하는 게 그리 짜증나면, 정공법으로 하면 되지?
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:정공법? 그게 무슨 말이야?
+RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:둘만으로 공략하기 어렵다면...+사람을 더 부르면 쉬워질 거 아니야.
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:엥, 더 부를 수 있어?
+RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:물론이지, 이 게임은 최대 24인 동시 멀티플레이를 지원하거든!
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:......+그러니까, 처음부터 셀프 하드모드였어!?
+RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:아, 아니, 꼭 그렇단 건 아니고!+처음이니까 맛보기부터 하잔 의미에서...
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:에휴... 그래서, 나머지 22명의 플레이어는 무슨 수로 모으게?+우리 기지에서 게임 좋아하는 애들도 몇 명 없는데, 이거 꽤나 고전작이잖아.+우리가 초대해 봤자 별로 흥미 가질 사람 없지 않아?
+RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:후, 후, 후... 그거야 간단하지.+떡밥을 뿌리면 돼!
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:떡밥...?
+RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:다들 자주 그불게를 보잖아? 그럼 "그 수"를 쓰면 분명 모두 앞다퉈서 참여하려 들 거야!
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:"그 수"라니, 무슨 수?
+RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:자세히 설명해 주자면, 귀 좀 이리 줘봐...+속닥속닥속닥속닥...
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:음...+흠 흠...+오오...!+그거 재밌겠다!
+RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:헤헤헤, 이렇게 그불게에 글을 올리기만 하면 얼마 안 가서 게임 안이 훨~씬 소란스러워질 거야!
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:그리고, 몰려든 뉴비들에게 우리의 실력을 보여 준다? 이거 기대되는걸~ 꺄하하핫!
+RFB(0)<Speaker>RFB</Speaker>||:이 프로게이머 RFB와 함께인데 당연하지! 아하하하!
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:쿵! 쿵! 쿵!
+잠깬 옆방 인형()<Speaker>잠깬 옆방 인형</Speaker>||:<size=60>잠 좀 자자 이것들아!!!</size>
+()<Speaker></Speaker>||:흥분해 떠들던 두 인형들은 즉시 옆방의 고함소리에 입을 다물었지만, 서로에게 척 엄지를 세우며 "계획"을 시작했다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......
+()<Speaker></Speaker>||:그리고 그날 밤, 그리폰 익명 게시판에 수상한 글이 게재됐다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>97</BIN>:그리폰 기지, 전략지휘센터.+따스한 아침햇살이 창문을 넘어 들어오는 화창한 날씨였다.+복도는 아직 붐비지 않고, 이따금씩 인형 두세 명이 지나가는 것이 다였다.+그런데 다들 하나같이 자료실 앞을 지날 때마다 무언가에 홀린 듯, 걸음을 멈추고 바라보다 자료실 안으로 들어갔다.
+()<Speaker></Speaker>||:출근한 지휘관도 자료실에 들어가 보니, 인형들이 가장 안쪽의 문 앞을 에워싸고 있었다.
+지휘관()<Speaker>지휘관</Speaker>||:뭐 재밌는 거라도 있니?
+지나가던 인형()<Speaker>지나가던 인형</Speaker>||:아, 지휘관님. 안녕하세요.+그게... 카리나 씨의 상태가 영 안 좋아 보여서요.
+()<Speaker></Speaker>||:인형이 가리키는 쪽으로 고개를 돌리니, 탁상 위에 엎어진 채 꿈쩍도 않는 카리나가 있었다.+온몸으로 건들지 말라는 오오라를 풍기고 있어, 인형들은 적어도 그녀가 무슨 병에 걸리진 않았다 짐작하고 가만히 지켜보기만 하는 중이었다.
+NPC-Kalin(12)<Speaker>카리나</Speaker>||:으아... 지휘관님, 안녕히 주무셨어요...
+NPC-Kalin(12)<Speaker>지휘관</Speaker>||:우왓, 깜짝이야...+카리나 너 안색이 엉망인 수준이 아닌데... 괜찮니?
+NPC-Kalin(12)<Speaker>카리나</Speaker>||:하아아... 넵!
+()<Speaker></Speaker>||:카리나는 정신을 차리려고 양손으로 자신의 뺨을 힘껏 찰싹 때렸고, 그제서야 좀 괜찮아진 듯했다.+...아마도.
+NPC-Kalin(12)<Speaker>카리나</Speaker>||:죄송해요... 어젯밤에 라디오 방송이 길어지는 바람에...+그리고 엄청 큰 걱정거리도 생겨서 잠을 못 잤어요...
+NPC-Kalin(12)<Speaker>지휘관</Speaker>||:또 밤을 샜다고? 너 그러다 몸 망가진다?+어서 가서 자렴, 오늘 일정은 내일로 연기하자.
+NPC-Kalin(12)<Speaker>카리나</Speaker>||:네...? 해도 떴는데 지금 가서 자면 어떡해요...
+NPC-Kalin(12)<Speaker>지휘관</Speaker>||:억지로 깨어 있다 몸이 망가지는 것보단 낫지. 어차피 오늘 일정은 재정 결산밖에 없으니까 내일로 미뤄도 돼.+그 걱정거리란 것도 내일 얘기하고.
+NPC-Kalin(12)<Speaker>카리나</Speaker>||:으윽... 그 재정 결산이 걱정거리란 말예요!
+NPC-Kalin(12)<Speaker>지휘관</Speaker>||:엥, 재정이 어쨌길래?
+NPC-Kalin(12)<Speaker>카리나</Speaker>||:그게... 어제 저번 분기의 재정 내역을 확인해봤는데요...+상층부서 준 보조금을 제외하면, 앞으로의 임무로 얻는 수입을 전부 합산해도 저희의 일상 지출을 메꿀 수가 없어요...+더 심각한 건... 계산해 보니까 적자가 점점 더 커지고 있어요!
+NPC-Kalin(12)<Speaker>지휘관</Speaker>||:잠깐, 그 말인즉슨...?
+NPC-Kalin(12)<Speaker>카리나</Speaker>||:네에... 저희 완전 거덜났어요...+아, 아예 빈털터리가 된 건 아니지만, 얼마 안 가 비슷하게 될 거예요...
+NPC-Kalin(12)<Speaker>지휘관</Speaker>||:끄응... 하긴, 최근엔 여러 가지 원인으로 의뢰며 파견 임무도 받질 못했지. 그래도 그게 잠을 못 잘 정도는 아니잖니?
+NPC-Kalin(12)<Speaker>카리나</Speaker>||:아뇨! 담당 지부의 재정을 적자로 만들다니, 제 커리어에 큰 오점이에요!
+NPC-Kalin(12)<Speaker>지휘관</Speaker>||:하하... 너무 자책 말고, 내가 헬리안 씨와 상담해볼 테니 우선 넌 가서 푹 쉬도록 해.+얘들아, 카리나 좀 돌봐 주렴. 난 지휘실에 다녀올게.
+()<Speaker>구경하던 인형들</Speaker>||:네!
+()<Speaker></Speaker>||:카리나를 맡기고 자료실을 나서려던 지휘관은 때마침 들어오던 두 인형과 맞닥뜨렸다.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:아, 지휘관님도 마침 계셨네요!
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:좋은 아침~!
+K5(0)<Speaker>지휘관</Speaker>;R93(0)<Position>0,-100</Position>||:R93, K5? 무슨 일이야?
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:카리나 씨한테 볼일이 있어서요, 흥미 있어 할 만한 일이라.
+K5(0);R93(0)<Speaker>지휘관</Speaker><Position>0,-100</Position>||:카리나가 어젯밤에 한숨도 못 자서 쉬어야 하는데, 나중에 하면 안 될까?
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:그래? 그럼 어쩔 수 없지. 아쉬워라.
+K5(0)<Speaker>지휘관</Speaker>;R93(0)<Position>0,-100</Position>||:무슨 일인데 그래? 나한테도 말해 줄 수 있어?
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:그게... 조금 전에 게시판에서 이런 글을 봤거든요.
+()<Speaker></Speaker>||:R93이 구체적인 대답 대신 지휘관에게 휴대 단말기를 보라고 눈짓했고, 고개를 갸우뚱하며 꺼낸 단말기에도 이미 그녀의 통신 요청이 깜빡이고 있었다.+수신을 누르자, 웬 기묘한 소용돌이 모양의 로고가 그려진 "초대장"이 나타났다.
+지휘관()<Speaker>지휘관</Speaker>||:"초대형 이벤트... 서바이벌 매치"?+카리나랑 같이 게임하려고?
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:그게 아니라, 뭐가 걸렸는지 한번 보세요. 최종 우승 상금이 무려 1천만 크레딧이에요, 1천만!
+R93(0)<Speaker>지휘관</Speaker><Position>0,-100</Position>||:난 또... 이렇게 거창한 단어는 거의 다 사기야, 신빙성이 없어.
+K5(0)<Speaker>K5</Speaker>||:지휘관은 그런 경험 많은가 봐?
+K5(0)<Speaker>지휘관</Speaker>||:아주 오래전 평화롭던 시기에도 흔했는데, 요즘은 더하면 더했지...+뭐, 너희도 대충 알잖니.
+K5(0)<Speaker>K5</Speaker>||:내가 아까 점을 쳐 봤는데, 오늘은 재물운이 엄청 좋다고 나왔거든? 아무리 봐도 이 게임 이벤트를 가리키는 것 같아.+속는 셈 치고 한번 해보는 건 어떨까?
+K5(0)<Speaker>지휘관</Speaker>||:아무리 그래도, 이런 사실 여부도 확실치 않은 정보에 흥미를 가질 사람이――
+()<Speaker>카리나의 목소리</Speaker>||<震屏3>:방금 누가 1천만이라고 했어!?
+()<Speaker></Speaker>||:......+있겠냐고 하려던 찰나에 바로 한 명 나타났네.
+K5(0)<Speaker>K5</Speaker>||:카리나가 밤 샜다는 거 정말이야?
+지휘관()<Speaker>지휘관</Speaker>||:너 갑자기 너무 팔팔해진 거 아니니...?
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:완전 회복했어요!
+NPC-Kalin(0)<Speaker>지휘관</Speaker>||:안색은 확실히 나아져 보이는데... 하룻밤 꼬박 샌 건 사실이잖아. 이런 수상하기 짝이 없는 광고는 그냥 흘려들으렴.
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:그럴 순 없죠! 사실이든 아니든 1천만이라잖아요!+만약 진짜라면요? 진짜로 상금 1천만 크레딧이라면 적자 문제도 바로 해결이에요!
+NPC-Kalin(8)<Speaker>지휘관</Speaker>||:어... 이, 일단 좀 진정할래?
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:일획천금의 기회가 굴러들어 왔는데 어떻게 진정해요! 부관 커뮤니티에서 "재무 허접"이라 놀림받지 않을 절호의 찬스란 말이에요!
+NPC-Kalin(8)<Speaker>지휘관</Speaker>||:부관도 커뮤니티가 따로 있구나...?
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:R93, 이 글 그불게에 올라온 거지?
+NPC-Kalin(8);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:네? 아, 네.
+NPC-Kalin(8)<Speaker>카리나</Speaker>;R93(0)<Position>0,-100</Position>||:좋아, 그럼 오늘 임무는 이 이벤트에 참가해서 1천만 크레딧을 따내는 거야!
+NPC-Kalin(8)<Speaker>지휘관</Speaker>;R93(0)<Position>0,-100</Position>||:잠깐 잠깐, 오늘은 휴무일이 아니라고.
+NPC-Kalin(8);K5(0)<Speaker>K5</Speaker>||:어차피 우리 모두 요즘은 기지에서 빈둥거리기밖에 안 하잖아.
+NPC-Kalin(8);K5(0)<Speaker>지휘관</Speaker>||:그... 그건 그렇지...
+NPC-Kalin(8)<Speaker>카리나</Speaker>;K5(0)||:이건 엄청 중요한 일이에요, 이 1천만 크레딧이라도 없으면 저희 진짜 휴업하게 될지도 몰라요!+오늘만 부탁드릴게요, 네? 지휘관님도 재정 위기 해결에 도움을 주세요!
+NPC-Kalin(8)<Speaker>지휘관</Speaker>||:정말 진심으로 이 게임 이벤트로 재정 위기를 해결할 셈이야?+하아... 하는 수 없지. 그럼 딱 오늘만이다.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:아싸!
+NPC-Kalin(1)<Speaker>지휘관</Speaker>||:네가 너무 걱정하다 무리하지 않았으면 해서 허가하는 거야. 이게 근본적인 해결책이 안 된다는 건 너도 알잖니.+설령 이 이벤트가 진짜여도, 상금 1천만 크레딧을 따내지 못하면 헬리안 씨와 검토하는 수밖에 없어.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:걱정 마세요! 그럼 당장 준비하러 갈까요!
+()<Speaker></Speaker>||:방금까지만 해도 죽을상이었던 카리나는 언제 그랬냐는 듯 기운찬 걸음으로 방을 나섰다.
+지휘관()<Speaker>지휘관</Speaker>||:역시 좀 걱정되는걸...+그래도 뭐, 우리 부관 아가씨가 기운을 차렸으니 됐나.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>302</BIN>:......<下雪></下雪>
+()<Speaker></Speaker>||<BGM>GF_The_Division_Ola_Strandh_Prologue</BGM>:미국, 맨해튼.
+NPC-Kalin(11)<Speaker>카리나</Speaker>||:우와아, 여기가 바로 뉴욕인가요?+인터넷에서 사진으로밖에 못 봤는데, 이렇게 큰 도시를 게임 안에 구현하다니 대단하네요!
+NPC-Kalin(11)<Speaker>지휘관</Speaker>||:그건 그렇고, 왜 우리 둘만이야?
+NPC-Kalin(13)<Speaker>카리나</Speaker>||:고작해야 게임인데 간단하잖아요. 그냥 총 들고 적을 물리치기만 하면 우승은 따놓은 당상이라고요!
+()<Speaker>ISAC</Speaker>||:경고. 감염 위험에 노출됨.
+NPC-Kalin(11)<Speaker>카리나</Speaker>||:어라?
+NPC-Kalin(11)<Speaker>지휘관</Speaker>||:감염...? 붕괴 복사 같은 느낌이네.
+NPC-Kalin(9)<Speaker>카리나</Speaker>||:에, 에이... 설마 그건 아니겠죠. 아마 다른 질병 아닐까요?
+()<Speaker>ISAC</Speaker>||:경고. 체온 저하.
+NPC-Kalin(11)<Speaker>카리나</Speaker>||:엑, 게임에 요소가 이렇게 많아요?
+NPC-Kalin(11)<Speaker>지휘관</Speaker>||:폭설이 쏟아지고 있으니... 이 게임, 열악한 환경을 상당히 잘 재현했는걸? 이 정도면 아마 옐로우존보다도 심각한 수준이겠지.
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>요원님, 여기는 디마입니다.</color>+<color=#00CCFF>귀측 상황은 아직 양호한 모양이군요. 하지만 지금은 임무가 급선무입니다, 서둘러 다크존으로 진입해 약품을 회수하세요!</color>
+NPC-Kalin(11)<Speaker>카리나</Speaker>;NPC-Dima(1)||:약품 회수가 이 게임의 목표인가 봐요.+그런데 이 사람은...?
+NPC-Kalin(11);NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>전략국토부 요원 "디마"입니다.</color>+<color=#00CCFF>두 분보다 고작 며칠 일찍 깨어난 정도입니다만, 현 시간부로 여러분의 이번 임무 수행을 지원하겠습니다.</color>
+NPC-Kalin(11);NPC-Dima(1)<Speaker>지휘관</Speaker>||:아하, NPC구나. 그럼 튜토리얼도 해 주겠네.
+NPC-Kalin(11);NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>당신의 ISAC은 정상이군요, 다행이네요. 출발 전에 상태를 확인하시기 바랍니다.</color>+<color=#00CCFF>임무 수행에 필요한 정보는 입수할 때마다 바로 제공해드리겠습니다. 그럼 행운을 빕니다, 요원님.</color>
+NPC-Kalin(11)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
+NPC-Kalin(11)<Speaker>카리나</Speaker>||:"ISAC"은 방금 그 인공지능 같은 목소리를 말하는 걸까요?
+ISAC()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:정보 시스템 분석 컴퓨터 가동. 모든 ISAC 서브 시스템 접속 확인.+무기로 인증을 시작하십시오.
+지휘관()<Speaker>지휘관</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:응, 튜토리얼이 나왔네.
+NPC-Kalin(13)<Speaker>카리나</Speaker>||:흐흥~ 총만 잘 쏘면 되는 건데 튜토리얼이 필요해요?
+()<Speaker></Speaker>||:카리나는 자신만만한 표정으로 내게 윙크했다.
+지휘관()<Speaker>지휘관</Speaker>||:그저 약품을 회수하는 일이더라도, 가는 길에 많은 위협이 있을 테니 신중해야지.
+NPC-Kalin(13)<Speaker>카리나</Speaker>||:걱정 마시래도요! 평소에는 기회가 별로 없었지만, 게임이니까 제 진짜 실력을 마음껏 보여드릴게요!
+()<Speaker></Speaker>||:게임을 시작해 "전략국토부"의 특수요원이 된 두 사람은, 그렇게 담소를 나누며 거리를 따라 디마가 말한 "다크존"으로 발걸음을 내디뎠다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......<火焰销毁></火焰销毁>
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:그리고 얼마 지나지 않아, 점점 퍼져 가는 안개 너머로 경쾌한 총성이 울려 퍼졌다.
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>......</color>+<color=#00CCFF>유감입니다, 요원님.</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>8</BIN><BGM>BGM_Hello</BGM>:지휘실.
+()<Speaker>지휘관</Speaker>||:......
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:지휘관님, 카리나 씨... 벌써 끝났어요?
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:다른 사람도 아니고 지휘관이 직접 나섰으니, 안 봐도 비디오겠지?
+K5(0)<Speaker>지휘관</Speaker>||:하하... 얘 표정을 보면 알지.
+NPC-Kalin(12)<Speaker>카리나</Speaker>||:후엥...?
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:...방금 한 말 취소할게요.
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:뭐야! 왜 게임에 우리 말고 다른 플레이어가 있어요?!
+NPC-Kalin(8)<Speaker>지휘관</Speaker>||:그야 1천만 크레딧이 걸렸는데 당연히 참가자가 더 있겠지.
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:그리고 그보다, 어떻게 저희가 순식간에 당한 거예요?+이거 마치, 마치 그... 그걸 뭐라 하더라...?
+NPC-Kalin(8)<Speaker>지휘관</Speaker>||:핵?
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:네네네!!+그 녀석들, 분명 핵을 쓴 거예요!
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:다른 가능성도 있지 않나요?+이 이벤트 소식은 그불게에 올라왔으니까, 보셨다는 다른 플레이어들은 아마도...
+K5(0)<Speaker>K5</Speaker>||:전술인형일지도?
+K5(0)<Speaker>지휘관</Speaker>||:그럴 가능성이 높네.
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:엑, 인형이 참가해도 되는 거였어요?
+NPC-Kalin(2)<Speaker>지휘관</Speaker>||:글에 안 된다는 문구는 없었으니까.+화기 관제 코어를 탑재한 인형이 이런 방면엔 압도적으로 유리하니, 인간인 우리로선 죽었다 깨어나도 못 이길 거야.+하지만 오히려 잘 됐어.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>302</BIN>:같은 시각, 게임 안의 어딘가.
+RFB(0)<Speaker>RFB</Speaker>||:지금쯤이면 슬슬 다른 애들도 접속했으려나?
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:방금 우리가 해치운 인간 같은 허접 둘도 있었으니 그렇겠지.
+RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:헤헤헤, 역시 인형도 돈에는 끌릴 수밖에 없다니까.+자아~ 그럼 어디 일방적인 학살을 시작해볼까?
+RFB(0);MDR(0)<Speaker>MDR</Speaker>||:우히히, 이게 게임이지! 그나저나 너도 참 나쁜 아이디어를 생각해낸다?
+RFB(0)<Speaker>RFB</Speaker>;MDR(0)||:과찬해 주니 몸 둘 바를 모르겠네~ 앞으로도 더더욱 나를 다시보게 될 거라고! 아하하하!!
+MDR(0)<Speaker>MDR</Speaker>||:꺄하하하――
+()<Speaker></Speaker>||<BIN>290</BIN>:......
+MDR()<Speaker>MDR</Speaker>||:...얼라리요?
+RFB()<Speaker>RFB</Speaker>||:<size=55>아아아아아아아아악!!!</size>
+MDR()<Speaker>MDR</Speaker>||:뭐야!? 왜 갑자기 튕겨?!
+RFB()<Speaker>RFB</Speaker>||:재접! 얼른 재접해!
+MDR()<Speaker>MDR</Speaker>||:괜찮아 괜찮아, 이제 막 시작한 참이니까 너무 늦진 않았어!
+RFB()<Speaker>RFB</Speaker>||:너무든 아니든 늦은 건 늦은 거지! 이러면 초반 파밍을 놓치고 만단 말이야, 빨리 빨리!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>302</BIN>:……
+RFB(0)<Speaker>RFB</Speaker>||:휴우~+겨우 재접했네...
+()<Speaker></Speaker>||<BIN>290</BIN>:......
+RFB()<Speaker>RFB</Speaker>||<震屏3>:<size=60>NOOOOOOOO!!!</size>
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......
+NPC-Dima(1)<Speaker>디마</Speaker>||:하아... 저 인형들, 정말 믿어도 될까?
+()<Speaker>시스템</Speaker>||:남은 생존 플레이어 - 20명.
+()||<黑屏1>:

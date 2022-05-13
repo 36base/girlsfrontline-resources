@@ -1,114 +1,114 @@
-AK12(0)<Speaker>AK12</Speaker>||<BIN>7</BIN><Night><BGM>BGM_Sneak</BGM>:다녀왔어, 상황은 그다지 낙관적이진 않네...+뭐라 해도 저것 다 군의 주력이니까 말이야…
-AK12(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:본론을 말하죠, 지금 군의 움직임은 어떤가요?
-AK12(0)<Speaker>AK12</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:그건 말이지...+군의 선봉 부대는 이미 감염 구역의 소탕을 전개했어, 중장갑 유닛은 아직 바깥에 배치되어 있지만, 아마 곧 따라오겠지.+비록 저 선봉대가 그저 정찰부대라 할지라도, 우리로선 상대할 수 있는 녀석들이 아니야.
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:계속해서 군의 중계소로 나아간다면, 결국 녀석들과 정면으로 맞붙게 될 거야.+M4A1, 일단은 후퇴하는 게 어때.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...아뇨. 지금 군 주력은 바깥에 있으니, 아직 우리에게는 기회가 남아있어요.+장갑 유닛이 다 포위해 오면 그땐 어떤 수도 쓸 수 없게 돼요.+AK12, 군 정찰대의 전진 방향을 알려 주세요, 저들을 우회 통과하는 것을 우선 목표로 하죠.
-AK12(0)<Speaker>AK12</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:방향만을 보자면...+군의 전진 방향의 축은 기본적으로 이쪽을 향하고 있어... 저들을 피하는 것을 주로 생각하면, 가장 효율적인 루트는 이 구역을 넘는 거지.+여기를 넘어가면, 바로 군 인형의 레이더 사각지대에 도착할 수 있어.
-AK12(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:그 루트의 리스크는 어느 정도죠?
-AK12(0)<Speaker>AK12</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:...철혈이 방해한다면 귀찮아지겠지, 뭐라 해도 더욱 폐쇄적인 지형이니까.+다만 군의 정찰 범위의 넓이를 고려하면, 다른 루트를 타는 건 별로 추천하는 방법은 아니야.
-AK12(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1><BIN>7</BIN><Night>:철혈은 결국 방해하기 마련이에요, 어딜 가든 똑같죠.+그럼 출발하도록 하죠, 철혈을 만나면 최대한 빨리 돌파합시다.
-()||<BIN>7</BIN><Night><黑屏2><SE1>Gunfight</SE1>:...군 인형을 우회하는 도중, 리벨리온 소대와 철혈의 유닛이 교전 중이다.
-AR15Mod(0)<Speaker>AR15</Speaker>||<BIN>7</BIN><Night>:이 철혈들은 예정된 행동 패턴을 따라 수비하는 건가...?+우리와 만나자마자 무너지니, 뭔가 찝찝하네.
-AR15Mod(0);AN94(0)<Speaker>AN94</Speaker>||<BIN>7</BIN><Night>:지금 엘더브레인은 군으로부터의 위협을 처리하고 있다, 아마 방어선을 좁히고 있는 것으로 보인다.
-AR15Mod(0)<Speaker>AR15</Speaker>||<BIN>7</BIN><Night>:녀석도 알 텐데, 군 앞에서 이런 잔챙이들을 집중시켜 봤자 의미가 없는걸...+이건 마치… 우리를 끌어들이려고 하는 것 같아…
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:일단 정지.+AK12, 의심쩍은 상황이라도 탐지됐나요?
-AK12(0)<Speaker>AK12</Speaker>||<BIN>7</BIN><Night>:어머? 아직도 함정일까 걱정하는 거야?+아니, 적어도 신호엔 안 잡...
-()||<BIN>7</BIN><Night><SE1>Explode</SE1><BGM>BGM_Empty</BGM><震屏>:...콰앙!!
-()||<BIN>7</BIN><Night><BGM>BGM_Boss</BGM>:...AK12가 서 있던 위치에 갑작스런 공격이 날아와, 격렬한 폭발을 일으키며 소대를 밀어냈다.
-BOSS-4(0)<Speaker>인트루더</Speaker><通讯框>||<BIN>7</BIN><Night>:...딱 사정거리에 들어왔네.+방금까지 우리 신호를 탐지하고 있었던 건 이 인형이겠지?+출연자 명단을 앞서 공개해버리는 건 전혀 도움이 안 된다고.
-AN94(0)<Speaker>AN94</Speaker>||<BIN>7</BIN><Night>:......!
-AN94(0)<Speaker>AN94</Speaker>||<BIN>7</BIN><Night>:A...+AK... 12...+AK12... AK12...
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:AN94, 정신 차리세요, 철혈의 보스급 인형이에요.
-BOSS-4(0)<Speaker>인트루더</Speaker><通讯框>;M4A1Mod(0)||<BIN>7</BIN><Night>:또 만났네, M4A1, 인사가 좀 거칠었는데 맘에 들었으려나?
-BOSS-4(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...+이제 곧 그쪽 엘더브레인이 군에 제압당할지도 모르는데, 아직도 한가하게 어슬렁거릴 여유가 있나 보군요?
-BOSS-4(0)<Speaker>인트루더</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:만약 이게 엘더브레인이 내게 내린 명령이라면?+어차피 나도 딱히 상대하기 힘든 인형도 아니니, 잡무를 잠시 처리해도 괜찮지 않을까?+아니면, 엘더브레인이 더 중요한 인형을 보내서 널 상대해주길 바라는 거니?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...+AN94, 지금부터 AK12의 자리를 대신하세요.
-AN94(0)<Speaker>AN94</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:하지만... AK12가...
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:AN94, 움직여요!
-()<Speaker>AK12</Speaker>||<BIN>7</BIN><Night>:......나 안 죽었어, M4A1.
-AK12(3)<Speaker></Speaker>||<BIN>7</BIN><Night>:......먼지 속에서 AK12가 걸어 나왔다.
-AK12(3)<Speaker>AK12</Speaker>||<BIN>7</BIN><Night>:이런 상황에서 AN94를 압박하면, 버티질 못할 거라고.
-AN94(4)<Speaker>AN94</Speaker>||<BIN>7</BIN><Night>:AK12!
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:그게... 당신의 진짜 모습인가요?
-AK12(3)<Speaker>AK12</Speaker>||<BIN>7</BIN><Night>:이 망토 좋아했는데 아까운걸...+식별 신호로 보아하니… 인트루더라고 부르면 되겠지?+내 탐지 범위 밖에서 공격하다니, 확실히 예상하지 못했어.
-BOSS-4(0)<Speaker>인트루더</Speaker><通讯框>||<BIN>7</BIN><Night>:미안한걸, 확실히 이 거리에서의 살상 효율은 내 상급자에 미치진 못해...+하지만 됐어, 신호차단 준비도 충분하니, 그럼 내가 직접 작별을 고하도록 해줄게.
-()<Speaker></Speaker>||<BIN>7</BIN><Night>:...삑.+...삑! 삑!
-AN94(2)<Speaker>AN94</Speaker>||<BIN>7</BIN><Night>:보고, 대량의 철혈 부대의 신호가 우리 앞뒤 양쪽에서 나타났다.
-AN94(2);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:뭐라고요?
-AK12(3)<Speaker>AK12</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:오프라인으로 루트를 세팅하는 방식으로 인형들을 조종해 위치에 도달하게 했나 보네.+그래서 탐지할 수 없었던 거겠지...+재밌는걸...
-AK12(3);AR15Mod(0)<Speaker>AR15</Speaker>||<BIN>7</BIN><Night>:또 포위당한 거야?+잠깐, 어째서 내가 "또"라고 말한 거지? 게다가 철혈의 보스가 하나 더 늘었어.
-AK12(3)<Speaker>AK12</Speaker>;AR15Mod(0)||<BIN>7</BIN><Night>:지금 여기서 녀석을 가루로 만드는 건 문제가 아니지만...+더 이상 꾸물대다간 군의 정찰대에게 들키고 말 거야.
-AR15Mod(0)<Speaker>AR15</Speaker>||<BIN>7</BIN><Night>:마음 정했어, M4A1? 싸울 거야, 아니면...
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:......+모두 전투에서 이탈할 준비, 지금 녀석을 상대 할 시간이 없어요.+모두 AK12가 중계소에 도달하도록 도와주세요, 나머지 따라잡지 못하는 인원은 일단 은신처를 찾아 몸을 숨기세요!
-AK12(3)<Speaker>AK12</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:......스스로 그런 명령을 내릴 줄이야.
-AK12(3);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:모두를 위해서입니다.+지금 당신과 AN94만이 중계소에 침투할 능력이 있어요, 그러니 당신들의 안전이 최우선입니다.
-AK12(0)<Speaker>AK12</Speaker>||<BIN>7</BIN><Night>:영광인걸, 그럼 서두르자.
-BOSS-4(0)<Speaker>인트루더</Speaker><通讯框>||<SE1>Gunfight</SE1><BIN>7</BIN><Night>:도중에 퇴장하는 거니? 그렇게 보내줄 순 없겠는걸?+이 앞에 어떤 시나리오가 기다리고 있는지 알고 있으려나?
-AR15Mod(0)<Speaker>AR15</Speaker>||<BIN>7</BIN><Night>:서둘러! 인트루더의 부대가 포위를 좁혀오고 있어!+그리고, 전방의 철혈 제대는 어떡하지?
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:가능한 한 빨리 돌파해야 해요, 멈추지 마세요!
-AN94(2)<Speaker>AN94</Speaker>;M4A1Mod(0)||<SE2>Gunfight</SE2><BIN>7</BIN><Night>:잠깐, M4A1, 전방에 철혈이 다른 부대와 교전 중이다.
-AN94(2);AK12(0)<Speaker>AK12</Speaker>||<BIN>7</BIN><Night>:그리폰 측 제대잖아, 아는 사람들이야?
-AR15Mod(0)<Speaker>AR15</Speaker>;AK12(0)||<BIN>7</BIN><Night>:우리 지휘관이야, M4A1! 저기 내가 아는 인형들이 있어!
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:......!
-AK12(0)<Speaker>AK12</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:잠깐 인사라도 나누는 게 어때?+아니면 뒤에서 협공을 노려서, 너희 지휘관과 합류하는 건?
-AK12(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:현재 상황에서 그다지 도움이 되지 못할 거예요.+우린 이 틈을 타서 후방으로 통과하죠, AK12, 루트 재설정 부탁드려요!
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:...+정말 효율적인 판단이네, M4A1.
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:저를 비꼬는 건가요?
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:나 자신을 비꼬는 거야.+넌 이미 나처럼 되었으니, 난 이제 뭐가 되면 좋을까?...
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:......
-AR15Mod(3)<Speaker>AR15</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:농담이야.+적어도 지금의 너보다는 난 아직 지금 나 자신이 싫지는 않아.
-AR15Mod(3);M4A1Mod(0)<Speaker></Speaker>||<BIN>7</BIN><Night>:......M4A1은 웃음을 지어보았다.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1><BIN>7</BIN><Night>:그래요...+많은 것들은 저희가 하고 싶다고 할 수 있는 것이 아니죠...+여긴 전장이에요, 우리가 할 수 있는 건 임무를 완수하는 것뿐이니까요.+(지휘관님, 건투를 빕니다.)
-()||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:...리벨리온 소대가 틈을 타 데이터 중계소 점령에 성공했다.+...해킹 시작.
-M4A1Mod(3)<Speaker>M4A1</Speaker>||<BGM>BGM_Room</BGM><BIN>34</BIN><黑屏2>0.6</黑屏2>:......+AK12.
-M4A1Mod(3);AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:말해, 되도록 짧게. 지금 정신을 집중해야 하니까.
-M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||<BIN>34</BIN>:이 중계소의 데이터 연결을 통해서, 지휘관과 그리폰 제대의 현재 상황을 확인할 수 있지 않을까요?
-M4A1Mod(3);AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:......+아니. 이곳의 링크에는 전장 현황과 관련된 부분은 없어.
-M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||<BIN>34</BIN>:이미 AN94가 이 중계소의 모든 역할을 설명해줬어요.+그러니까, AK12, 솔직히 대답해 주세요.
-M4A1Mod(3);AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:솔직하게? 솔직히 말하면...+후후... AN94는 참 성실한 아이지, 그치?+넌 이미 답을 알고 있으면서 물어본 거야...+하지만 지금 가장 중요한 것은, 가장 결정적인 자료를 찾아내서 안젤리아에게 보고하는 거야, 너도 알고 있겠지?
-M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||<BIN>34</BIN>:부정하지 않겠습니다.
-M4A1Mod(3);AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:설마 안젤리아와 연락하게 되면 바로 다음 명령을 받게 돼서, 정보를 얻을 기회를 놓칠까 봐 걱정하는 거야?
-M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||<BIN>34</BIN>:...+방금 한 말은 잊어주세요.
-AR15Mod(0)<Speaker>AR15</Speaker>;AK12(0)||<BIN>34</BIN>:AK12, 지금 그리폰 측 상황을 확인하는데 별로 시간은 걸리지 않을 거야.
-AR15Mod(0);AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:AR15, 너마저 온 거야?+AN94, 너도 뭐라고 말 좀 해야 되는 거 아니야?
-AR15Mod(0);AN94(0)<Speaker>AN94</Speaker>||<BIN>34</BIN>:다른 일에 한눈팔아선 안 된다, 그러니 AK12의 판단이 옳다고 생각한다.
-AR15Mod(0)<Speaker>AR15</Speaker>;AN94(0)||<BIN>34</BIN>:우리에게 있어선 너희 상상보다 무거운 일들도 있어.+언제까지고 AK12의 대변인 행세만 하지 마, AN94.
-AR15Mod(0);AN94(0)<Speaker>AN94</Speaker>||<BIN>34</BIN>:내가 진술한 건 객관적 사실이다.+지금 상황에서 나의 주장을 엎을 수는 없다.+아니면, 내 마인드맵 성능을 뛰어넘어서 내가 내린 결론보다 초월적인 답안을 얻어낼 수 있다는 말인가? 
-AR15Mod(0)<Speaker>AR15</Speaker>;AN94(0)||<BIN>34</BIN>:너 ...
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>34</BIN>:AR15, 됐어요, 이대로 둬요.
-AR15Mod(0)<Speaker>AR15</Speaker>||<BIN>34</BIN>:나 원... 명령에 따르지.
-AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:필요한 건 이미 얻어냈어. 예상한 것보다 빠르게 진행됐네.
-AK12(0)<Speaker></Speaker>||<BIN>34</BIN>:...AK12가 M4A1을 슬쩍 보았다.
-AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:연결을 끊기 전에... 실은 나도 그리폰 제대의 활약이 어떤지 궁금하거든.+살짝 엿보는 정도라면, 그 정돈 우리에게 식은 죽 먹기지.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||<BIN>34</BIN><黑屏1>7</黑屏1>:그런가요...+AK12, 그럼 부탁───
-()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2>7</黑屏2><SE2>Alarm</SE2>:...치이… 치직...+────위잉────
-M4A1()<Speaker>M4A1</Speaker>||<BIN>9</BIN>:크윽......!
-AN94()<Speaker>AN94</Speaker>||<BIN>9</BIN>:AK12......
-AK12()<Speaker>AK12</Speaker>||<BIN>9</BIN>:무전을 포함한 통신 설비의 전원을 내려!+AN94! 모든 레벨 2 플랫폼과의 연결을 끊어! 당장!
-AN94()<Speaker>AN94</Speaker>||<BIN>9</BIN>:다 끊었어요!
-M4A1()<Speaker>M4A1</Speaker>||<BIN>9</BIN>:무슨 일이죠!?
-AK12()<Speaker>AK12</Speaker>||<BIN>9</BIN>:군에서 1급 APS를 가동했어! 마인드맵이 타버리고 싶지 않으면 허튼짓 하지 마!
-AR15()<Speaker>AR15</Speaker>||<BIN>9</BIN><黑屏1>:지금 상황에?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Sneak</BGM><BIN>34</BIN><黑屏2>:군에서... 이런 것까지 동원하게 된 건가요?
-M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:아마 그들도 약간... 큰 문제가 생긴 거겠지.+그들의 전자전 능력은 알고 있었지만, 참 무서운 위력이야... 지나 네트워크마저 쓸 수 없게 됐어, 더미 인형도 잠시는 쓸 수 없고.+하지만 이렇게 난리를 치면, 그들 자신의 지휘 시스템에도 여파가 갈 텐데... 아무래도 심각한 사태인가 보지…
-M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||<BIN>34</BIN>:무슨 일이 일어났는지 알 수 있나요?
-M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN><黑点1>:지금 모든 주파수가 엉망이 됐어, 우리의 적들은 지금 아무것도 못하겠지.+다만 우리도 안젤리아에게 연락할 수가 없고, 지금은 앉아서 기다릴 수밖에 없겠어.+너희는 잠깐 쉬고 있어, 난 엉망이 된 네트워크를 손볼 테니까.
-AR15Mod(4)<Speaker>AR15</Speaker>||<BIN>34</BIN><黑点2>:M4, 혹시 후회돼?
-AR15Mod(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>34</BIN>:......뭘 말이죠?
-AR15Mod(4)<Speaker>AR15</Speaker>;M4A1Mod(0)||<BIN>34</BIN>:방금 지휘관을 구하러 가지 않은 거나, 단숨에 중계소를 점령하지 못해서 다음 명령을 받지 못한 거나...+너 정말로 네가 내린 모든 결정에 대해 의식하고 있기는 한 거야?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>34</BIN>:후회해서 뭔가 바꿀 수 있다면, 후회하겠어요.+전 여기 전장에서 너무나도 보잘것없는 존재예요.+제가 할 수 있는 건 가장 옳다고 생각되는 방식을 선택해 실천하고, 결과를 받아들이는 것뿐이죠.
-AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:...그래?+난 말이야......
-AK12(0)<Speaker></Speaker>||<BIN>34</BIN>:...삑.
-AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:어머, 아무래도 모든 통신 네트워크가 회복된 것 같네.
-()||<BIN>34</BIN>:...M4A1은 몸을 일으켜, 통신을 연결했다.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>34</BIN>:안젤리아 씨, 여기는 M4A1입니다, 계획대로 중계소를 점령하였습니다.+지금 AK12가 얻은 정보를 보내드릴 겁니다.
-M4A1Mod(0);NPC-Ange(0)<Speaker>안젤리아</Speaker><通讯框>||<BIN>34</BIN>:그래, 알겠어.+아무래도 군 측이 예상치 못한 상황을 마주한 것 같아, 방금 APS에 너희는 영향받지 않길 바라.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:그 전에 이미 자료 해킹를 완료했습니다, 지금 다음 명령을 기다리고 있어요.
-M4A1Mod(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||<BIN>34</BIN>:서두르지 마렴, M4.+지금 긴급한 구출 임무가 있어… 너희에겐 지루할 수도 있지만, 그만큼 간단한 임무야.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:대상은 누구입니까?
-M4A1Mod(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||<BIN>34</BIN>:404소대, 지금 철혈 주력에 의해 철혈의 빅 데이터베이스에 갇혀 있어, 너희들만 믿을게.+좌표는 이미 보내뒀어. 이게 이번에 수행할 명령이야.
-M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Ange(0)||<黑点1><BIN>34</BIN>:작전목표 반복─── 좌표 20664-5ETK85에 위치한 아군 유닛의 포위 돌파를 지원하는 것.+리벨리온 소대, 작전개시.
-AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN><黑点2>:M4A1은 여전히 너희 AR팀의 실종된 동료를 마음에 두고 있나 보네, AR15.+AR팀의 대원을 찾는 것도, 지휘관과 만나는 것도, 이제 기회가 얼마 남지 않았는데 말이야.
-AR15Mod(3)<Speaker>AR15</Speaker>;AK12(0)||<BIN>34</BIN>:그렇게 생각하는 것을 보면, 당신은 M4A1을 너무나도 모르고 있는 거야.
-AR15Mod(3);AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:그래?+내가 봤을 땐 너 또한... "지금의" M4A1을 모르는 것 같은데.
-AR15Mod(0)<Speaker>AR15</Speaker>;AK12(0)||<BIN>34</BIN><黑屏1>:......이제 곧 결과를 알게 되겠지.
+AK12(0)<Speaker>AK12</Speaker>||<BIN>7</BIN><Night><BGM>BGM_Sneak</BGM>:다녀왔어, 상황은 그다지 낙관적이진 않네...+뭐라 해도 저것 다 군의 주력이니까 말이야…
+AK12(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:본론을 말하죠, 지금 군의 움직임은 어떤가요?
+AK12(0)<Speaker>AK12</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:그건 말이지...+군의 선봉 부대는 이미 감염 구역의 소탕을 전개했어, 중장갑 유닛은 아직 바깥에 배치되어 있지만, 아마 곧 따라오겠지.+비록 저 선봉대가 그저 정찰부대라 할지라도, 우리로선 상대할 수 있는 녀석들이 아니야.
+AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:계속해서 군의 중계소로 나아간다면, 결국 녀석들과 정면으로 맞붙게 될 거야.+M4A1, 일단은 후퇴하는 게 어때.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...아뇨. 지금 군 주력은 바깥에 있으니, 아직 우리에게는 기회가 남아있어요.+장갑 유닛이 다 포위해 오면 그땐 어떤 수도 쓸 수 없게 돼요.+AK12, 군 정찰대의 전진 방향을 알려 주세요, 저들을 우회 통과하는 것을 우선 목표로 하죠.
+AK12(0)<Speaker>AK12</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:방향만을 보자면...+군의 전진 방향의 축은 기본적으로 이쪽을 향하고 있어... 저들을 피하는 것을 주로 생각하면, 가장 효율적인 루트는 이 구역을 넘는 거지.+여기를 넘어가면, 바로 군 인형의 레이더 사각지대에 도착할 수 있어.
+AK12(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:그 루트의 리스크는 어느 정도죠?
+AK12(0)<Speaker>AK12</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:...철혈이 방해한다면 귀찮아지겠지, 뭐라 해도 더욱 폐쇄적인 지형이니까.+다만 군의 정찰 범위의 넓이를 고려하면, 다른 루트를 타는 건 별로 추천하는 방법은 아니야.
+AK12(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1><BIN>7</BIN><Night>:철혈은 결국 방해하기 마련이에요, 어딜 가든 똑같죠.+그럼 출발하도록 하죠, 철혈을 만나면 최대한 빨리 돌파합시다.
+()||<BIN>7</BIN><Night><黑屏2><SE1>Gunfight</SE1>:...군 인형을 우회하는 도중, 리벨리온 소대와 철혈의 유닛이 교전 중이다.
+AR15Mod(0)<Speaker>AR15</Speaker>||<BIN>7</BIN><Night>:이 철혈들은 예정된 행동 패턴을 따라 수비하는 건가...?+우리와 만나자마자 무너지니, 뭔가 찝찝하네.
+AR15Mod(0);AN94(0)<Speaker>AN94</Speaker>||<BIN>7</BIN><Night>:지금 엘더브레인은 군으로부터의 위협을 처리하고 있다, 아마 방어선을 좁히고 있는 것으로 보인다.
+AR15Mod(0)<Speaker>AR15</Speaker>||<BIN>7</BIN><Night>:녀석도 알 텐데, 군 앞에서 이런 잔챙이들을 집중시켜 봤자 의미가 없는걸...+이건 마치… 우리를 끌어들이려고 하는 것 같아…
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:일단 정지.+AK12, 의심쩍은 상황이라도 탐지됐나요?
+AK12(0)<Speaker>AK12</Speaker>||<BIN>7</BIN><Night>:어머? 아직도 함정일까 걱정하는 거야?+아니, 적어도 신호엔 안 잡...
+()||<BIN>7</BIN><Night><SE1>Explode</SE1><BGM>BGM_Empty</BGM><震屏>:...콰앙!!
+()||<BIN>7</BIN><Night><BGM>BGM_Boss</BGM>:...AK12가 서 있던 위치에 갑작스런 공격이 날아와, 격렬한 폭발을 일으키며 소대를 밀어냈다.
+BOSS-4(0)<Speaker>인트루더</Speaker><通讯框>||<BIN>7</BIN><Night>:...딱 사정거리에 들어왔네.+방금까지 우리 신호를 탐지하고 있었던 건 이 인형이겠지?+출연자 명단을 앞서 공개해버리는 건 전혀 도움이 안 된다고.
+AN94(0)<Speaker>AN94</Speaker>||<BIN>7</BIN><Night>:......!
+AN94(0)<Speaker>AN94</Speaker>||<BIN>7</BIN><Night>:A...+AK... 12...+AK12... AK12...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:AN94, 정신 차리세요, 철혈의 보스급 인형이에요.
+BOSS-4(0)<Speaker>인트루더</Speaker><通讯框>;M4A1Mod(0)||<BIN>7</BIN><Night>:또 만났네, M4A1, 인사가 좀 거칠었는데 맘에 들었으려나?
+BOSS-4(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...+이제 곧 그쪽 엘더브레인이 군에 제압당할지도 모르는데, 아직도 한가하게 어슬렁거릴 여유가 있나 보군요?
+BOSS-4(0)<Speaker>인트루더</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:만약 이게 엘더브레인이 내게 내린 명령이라면?+어차피 나도 딱히 상대하기 힘든 인형도 아니니, 잡무를 잠시 처리해도 괜찮지 않을까?+아니면, 엘더브레인이 더 중요한 인형을 보내서 널 상대해주길 바라는 거니?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:...+AN94, 지금부터 AK12의 자리를 대신하세요.
+AN94(0)<Speaker>AN94</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:하지만... AK12가...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:AN94, 움직여요!
+()<Speaker>AK12</Speaker>||<BIN>7</BIN><Night>:......나 안 죽었어, M4A1.
+AK12(3)<Speaker></Speaker>||<BIN>7</BIN><Night>:......먼지 속에서 AK12가 걸어 나왔다.
+AK12(3)<Speaker>AK12</Speaker>||<BIN>7</BIN><Night>:이런 상황에서 AN94를 압박하면, 버티질 못할 거라고.
+AN94(4)<Speaker>AN94</Speaker>||<BIN>7</BIN><Night>:AK12!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:그게... 당신의 진짜 모습인가요?
+AK12(3)<Speaker>AK12</Speaker>||<BIN>7</BIN><Night>:이 망토 좋아했는데 아까운걸...+식별 신호로 보아하니… 인트루더라고 부르면 되겠지?+내 탐지 범위 밖에서 공격하다니, 확실히 예상하지 못했어.
+BOSS-4(0)<Speaker>인트루더</Speaker><通讯框>||<BIN>7</BIN><Night>:미안한걸, 확실히 이 거리에서의 살상 효율은 내 상급자에 미치진 못해...+하지만 됐어, 신호차단 준비도 충분하니, 그럼 내가 직접 작별을 고하도록 해줄게.
+()<Speaker></Speaker>||<BIN>7</BIN><Night>:...삑.+...삑! 삑!
+AN94(2)<Speaker>AN94</Speaker>||<BIN>7</BIN><Night>:보고, 대량의 철혈 부대의 신호가 우리 앞뒤 양쪽에서 나타났다.
+AN94(2);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:뭐라고요?
+AK12(3)<Speaker>AK12</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:오프라인으로 루트를 세팅하는 방식으로 인형들을 조종해 위치에 도달하게 했나 보네.+그래서 탐지할 수 없었던 거겠지...+재밌는걸...
+AK12(3);AR15Mod(0)<Speaker>AR15</Speaker>||<BIN>7</BIN><Night>:또 포위당한 거야?+잠깐, 어째서 내가 "또"라고 말한 거지? 게다가 철혈의 보스가 하나 더 늘었어.
+AK12(3)<Speaker>AK12</Speaker>;AR15Mod(0)||<BIN>7</BIN><Night>:지금 여기서 녀석을 가루로 만드는 건 문제가 아니지만...+더 이상 꾸물대다간 군의 정찰대에게 들키고 말 거야.
+AR15Mod(0)<Speaker>AR15</Speaker>||<BIN>7</BIN><Night>:마음 정했어, M4A1? 싸울 거야, 아니면...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:......+모두 전투에서 이탈할 준비, 지금 녀석을 상대 할 시간이 없어요.+모두 AK12가 중계소에 도달하도록 도와주세요, 나머지 따라잡지 못하는 인원은 일단 은신처를 찾아 몸을 숨기세요!
+AK12(3)<Speaker>AK12</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:......스스로 그런 명령을 내릴 줄이야.
+AK12(3);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:모두를 위해서입니다.+지금 당신과 AN94만이 중계소에 침투할 능력이 있어요, 그러니 당신들의 안전이 최우선입니다.
+AK12(0)<Speaker>AK12</Speaker>||<BIN>7</BIN><Night>:영광인걸, 그럼 서두르자.
+BOSS-4(0)<Speaker>인트루더</Speaker><通讯框>||<SE1>Gunfight</SE1><BIN>7</BIN><Night>:도중에 퇴장하는 거니? 그렇게 보내줄 순 없겠는걸?+이 앞에 어떤 시나리오가 기다리고 있는지 알고 있으려나?
+AR15Mod(0)<Speaker>AR15</Speaker>||<BIN>7</BIN><Night>:서둘러! 인트루더의 부대가 포위를 좁혀오고 있어!+그리고, 전방의 철혈 제대는 어떡하지?
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:가능한 한 빨리 돌파해야 해요, 멈추지 마세요!
+AN94(2)<Speaker>AN94</Speaker>;M4A1Mod(0)||<SE2>Gunfight</SE2><BIN>7</BIN><Night>:잠깐, M4A1, 전방에 철혈이 다른 부대와 교전 중이다.
+AN94(2);AK12(0)<Speaker>AK12</Speaker>||<BIN>7</BIN><Night>:그리폰 측 제대잖아, 아는 사람들이야?
+AR15Mod(0)<Speaker>AR15</Speaker>;AK12(0)||<BIN>7</BIN><Night>:우리 지휘관이야, M4A1! 저기 내가 아는 인형들이 있어!
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:......!
+AK12(0)<Speaker>AK12</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:잠깐 인사라도 나누는 게 어때?+아니면 뒤에서 협공을 노려서, 너희 지휘관과 합류하는 건?
+AK12(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:현재 상황에서 그다지 도움이 되지 못할 거예요.+우린 이 틈을 타서 후방으로 통과하죠, AK12, 루트 재설정 부탁드려요!
+AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:...+정말 효율적인 판단이네, M4A1.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:저를 비꼬는 건가요?
+AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:나 자신을 비꼬는 거야.+넌 이미 나처럼 되었으니, 난 이제 뭐가 되면 좋을까?...
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>7</BIN><Night>:......
+AR15Mod(3)<Speaker>AR15</Speaker>;M4A1Mod(0)||<BIN>7</BIN><Night>:농담이야.+적어도 지금의 너보다는 난 아직 지금 나 자신이 싫지는 않아.
+AR15Mod(3);M4A1Mod(0)<Speaker></Speaker>||<BIN>7</BIN><Night>:......M4A1은 웃음을 지어보았다.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1><BIN>7</BIN><Night>:그래요...+많은 것들은 저희가 하고 싶다고 할 수 있는 것이 아니죠...+여긴 전장이에요, 우리가 할 수 있는 건 임무를 완수하는 것뿐이니까요.+(지휘관님, 건투를 빕니다.)
+()||<BIN>9</BIN><黑屏2><黑屏1><BGM>BGM_Empty</BGM>:...리벨리온 소대가 틈을 타 데이터 중계소 점령에 성공했다.+...해킹 시작.
+M4A1Mod(3)<Speaker>M4A1</Speaker>||<BGM>BGM_Room</BGM><BIN>34</BIN><黑屏2>0.6</黑屏2>:......+AK12.
+M4A1Mod(3);AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:말해, 되도록 짧게. 지금 정신을 집중해야 하니까.
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||<BIN>34</BIN>:이 중계소의 데이터 연결을 통해서, 지휘관과 그리폰 제대의 현재 상황을 확인할 수 있지 않을까요?
+M4A1Mod(3);AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:......+아니. 이곳의 링크에는 전장 현황과 관련된 부분은 없어.
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||<BIN>34</BIN>:이미 AN94가 이 중계소의 모든 역할을 설명해줬어요.+그러니까, AK12, 솔직히 대답해 주세요.
+M4A1Mod(3);AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:솔직하게? 솔직히 말하면...+후후... AN94는 참 성실한 아이지, 그치?+넌 이미 답을 알고 있으면서 물어본 거야...+하지만 지금 가장 중요한 것은, 가장 결정적인 자료를 찾아내서 안젤리아에게 보고하는 거야, 너도 알고 있겠지?
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||<BIN>34</BIN>:부정하지 않겠습니다.
+M4A1Mod(3);AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:설마 안젤리아와 연락하게 되면 바로 다음 명령을 받게 돼서, 정보를 얻을 기회를 놓칠까 봐 걱정하는 거야?
+M4A1Mod(3)<Speaker>M4A1</Speaker>;AK12(0)||<BIN>34</BIN>:...+방금 한 말은 잊어주세요.
+AR15Mod(0)<Speaker>AR15</Speaker>;AK12(0)||<BIN>34</BIN>:AK12, 지금 그리폰 측 상황을 확인하는데 별로 시간은 걸리지 않을 거야.
+AR15Mod(0);AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:AR15, 너마저 온 거야?+AN94, 너도 뭐라고 말 좀 해야 되는 거 아니야?
+AR15Mod(0);AN94(0)<Speaker>AN94</Speaker>||<BIN>34</BIN>:다른 일에 한눈팔아선 안 된다, 그러니 AK12의 판단이 옳다고 생각한다.
+AR15Mod(0)<Speaker>AR15</Speaker>;AN94(0)||<BIN>34</BIN>:우리에게 있어선 너희 상상보다 무거운 일들도 있어.+언제까지고 AK12의 대변인 행세만 하지 마, AN94.
+AR15Mod(0);AN94(0)<Speaker>AN94</Speaker>||<BIN>34</BIN>:내가 진술한 건 객관적 사실이다.+지금 상황에서 나의 주장을 엎을 수는 없다.+아니면, 내 마인드맵 성능을 뛰어넘어서 내가 내린 결론보다 초월적인 답안을 얻어낼 수 있다는 말인가? 
+AR15Mod(0)<Speaker>AR15</Speaker>;AN94(0)||<BIN>34</BIN>:너 ...
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>34</BIN>:AR15, 됐어요, 이대로 둬요.
+AR15Mod(0)<Speaker>AR15</Speaker>||<BIN>34</BIN>:나 원... 명령에 따르지.
+AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:필요한 건 이미 얻어냈어. 예상한 것보다 빠르게 진행됐네.
+AK12(0)<Speaker></Speaker>||<BIN>34</BIN>:...AK12가 M4A1을 슬쩍 보았다.
+AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:연결을 끊기 전에... 실은 나도 그리폰 제대의 활약이 어떤지 궁금하거든.+살짝 엿보는 정도라면, 그 정돈 우리에게 식은 죽 먹기지.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||<BIN>34</BIN><黑屏1>7</黑屏1>:그런가요...+AK12, 그럼 부탁───
+()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2>7</黑屏2><SE2>Alarm</SE2>:...치이… 치직...+────위잉────
+M4A1()<Speaker>M4A1</Speaker>||<BIN>9</BIN>:크윽......!
+AN94()<Speaker>AN94</Speaker>||<BIN>9</BIN>:AK12......
+AK12()<Speaker>AK12</Speaker>||<BIN>9</BIN>:무전을 포함한 통신 설비의 전원을 내려!+AN94! 모든 레벨 2 플랫폼과의 연결을 끊어! 당장!
+AN94()<Speaker>AN94</Speaker>||<BIN>9</BIN>:다 끊었어요!
+M4A1()<Speaker>M4A1</Speaker>||<BIN>9</BIN>:무슨 일이죠!?
+AK12()<Speaker>AK12</Speaker>||<BIN>9</BIN>:군에서 1급 APS를 가동했어! 마인드맵이 타버리고 싶지 않으면 허튼짓 하지 마!
+AR15()<Speaker>AR15</Speaker>||<BIN>9</BIN><黑屏1>:지금 상황에?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_Sneak</BGM><BIN>34</BIN><黑屏2>:군에서... 이런 것까지 동원하게 된 건가요?
+M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:아마 그들도 약간... 큰 문제가 생긴 거겠지.+그들의 전자전 능력은 알고 있었지만, 참 무서운 위력이야... 지나 네트워크마저 쓸 수 없게 됐어, 더미 인형도 잠시는 쓸 수 없고.+하지만 이렇게 난리를 치면, 그들 자신의 지휘 시스템에도 여파가 갈 텐데... 아무래도 심각한 사태인가 보지…
+M4A1Mod(0)<Speaker>M4A1</Speaker>;AK12(0)||<BIN>34</BIN>:무슨 일이 일어났는지 알 수 있나요?
+M4A1Mod(0);AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN><黑点1>:지금 모든 주파수가 엉망이 됐어, 우리의 적들은 지금 아무것도 못하겠지.+다만 우리도 안젤리아에게 연락할 수가 없고, 지금은 앉아서 기다릴 수밖에 없겠어.+너희는 잠깐 쉬고 있어, 난 엉망이 된 네트워크를 손볼 테니까.
+AR15Mod(4)<Speaker>AR15</Speaker>||<BIN>34</BIN><黑点2>:M4, 혹시 후회돼?
+AR15Mod(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>34</BIN>:......뭘 말이죠?
+AR15Mod(4)<Speaker>AR15</Speaker>;M4A1Mod(0)||<BIN>34</BIN>:방금 지휘관을 구하러 가지 않은 거나, 단숨에 중계소를 점령하지 못해서 다음 명령을 받지 못한 거나...+너 정말로 네가 내린 모든 결정에 대해 의식하고 있기는 한 거야?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>34</BIN>:후회해서 뭔가 바꿀 수 있다면, 후회하겠어요.+전 여기 전장에서 너무나도 보잘것없는 존재예요.+제가 할 수 있는 건 가장 옳다고 생각되는 방식을 선택해 실천하고, 결과를 받아들이는 것뿐이죠.
+AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:...그래?+난 말이야......
+AK12(0)<Speaker></Speaker>||<BIN>34</BIN>:...삑.
+AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:어머, 아무래도 모든 통신 네트워크가 회복된 것 같네.
+()||<BIN>34</BIN>:...M4A1은 몸을 일으켜, 통신을 연결했다.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BIN>34</BIN>:안젤리아 씨, 여기는 M4A1입니다, 계획대로 중계소를 점령하였습니다.+지금 AK12가 얻은 정보를 보내드릴 겁니다.
+M4A1Mod(0);NPC-Ange(0)<Speaker>안젤리아</Speaker><通讯框>||<BIN>34</BIN>:그래, 알겠어.+아무래도 군 측이 예상치 못한 상황을 마주한 것 같아, 방금 APS에 너희는 영향받지 않길 바라.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:그 전에 이미 자료 해킹를 완료했습니다, 지금 다음 명령을 기다리고 있어요.
+M4A1Mod(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||<BIN>34</BIN>:서두르지 마렴, M4.+지금 긴급한 구출 임무가 있어… 너희에겐 지루할 수도 있지만, 그만큼 간단한 임무야.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Ange(0)||<BIN>34</BIN>:대상은 누구입니까?
+M4A1Mod(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||<BIN>34</BIN>:404소대, 지금 철혈 주력에 의해 철혈의 빅 데이터베이스에 갇혀 있어, 너희들만 믿을게.+좌표는 이미 보내뒀어. 이게 이번에 수행할 명령이야.
+M4A1Mod(0)<Speaker>M4A1</Speaker>;NPC-Ange(0)||<黑点1><BIN>34</BIN>:작전목표 반복─── 좌표 20664-5ETK85에 위치한 아군 유닛의 포위 돌파를 지원하는 것.+리벨리온 소대, 작전개시.
+AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN><黑点2>:M4A1은 여전히 너희 AR팀의 실종된 동료를 마음에 두고 있나 보네, AR15.+AR팀의 대원을 찾는 것도, 지휘관과 만나는 것도, 이제 기회가 얼마 남지 않았는데 말이야.
+AR15Mod(3)<Speaker>AR15</Speaker>;AK12(0)||<BIN>34</BIN>:그렇게 생각하는 것을 보면, 당신은 M4A1을 너무나도 모르고 있는 거야.
+AR15Mod(3);AK12(0)<Speaker>AK12</Speaker>||<BIN>34</BIN>:그래?+내가 봤을 땐 너 또한... "지금의" M4A1을 모르는 것 같은데.
+AR15Mod(0)<Speaker>AR15</Speaker>;AK12(0)||<BIN>34</BIN><黑屏1>:......이제 곧 결과를 알게 되겠지.

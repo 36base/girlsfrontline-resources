@@ -1,68 +1,68 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>276</BIN><BGM>BGM_Room</BGM>:......
-()<Speaker></Speaker>||:아파트.+안젤리아는 파월에게 받은 튜브를 테이블 위에 두고 조용히 그걸 바라보았다.
-AK12(12)<Speaker>AK12</Speaker>||:어쩐지 허탕 쳤단 눈빛이 아니더라니.
-()<Speaker></Speaker>||:AK-12가 슬그머니 그녀 뒤에 나타났다.
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:다른 애들은?
-NPC-Ange(6);AK12(12)<Speaker>AK12</Speaker>||:AN-94는 꼬맹이 감시, AK-15랑 RPK-16은 경계 중.+다음 일엔 그 애 끼워 주기 싫어서 그랬지?
-NPC-Ange(6)<Speaker>안젤리아</Speaker>;AK12(12)||:이제부턴 정말로 선을 넘어야 할지도 모르니 말이지.+그 녀석이 알았다간 일이 성가셔질 수도 있어.
-NPC-Ange(6);AK12(12)<Speaker>AK12</Speaker>||:어떡하려고?
-NPC-Ange(7)<Speaker>안젤리아</Speaker>;AK12(12)||:우선, 이것의 출처부터 알아봐야지.+파월의 말이 사실이라면, 이건 재고가 충분한 수준을 넘어서 아주 차고 넘치는 양이 어딘가에 숨겨져 있을 거야.+양이 그렇게 많아선 아무리 조심스럽게 유통하더라도, 흔적을 안 남길 수가 없어.
-NPC-Ange(7);AK12(12)<Speaker>AK12</Speaker>||:이게 뭔데?
-NPC-Ange(7)<Speaker>안젤리아</Speaker>;AK12(12)||:브레멘에서 봤던 거. 기억하지? 리오니가 만든 그 환각제.+하지만 리오니와 파월이 소유했던 것들은 전부 체포 당시 슈타지가 압수했을 텐데...
-NPC-Ange(7);AK12(12)<Speaker>AK12</Speaker>||:그렇다면, 유통처가 따로 있던지...+...슈타지에 놈들과 내통하는 사람이 있다는 뜻이네.+어느 쪽이 더 가능성 있다고 봐?
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:...물론, 리오니와 파월이 가졌던 게 전부일 리도 없지.+그보다 중요한 건, 이런 위법 물품이 빈민가도 아니고 교도소에서 버젓이 유통되고 있다는 거야. 무슨 뜻인지 알겠지?+지금 내가 대체 누굴 신용할 수 있겠냐고?
-()<Speaker></Speaker>||:안젤리아는 의자의 팔걸이를 쿵쿵 쳐, 목소리도 요동쳤다.
-AK12(12)<Speaker>AK12</Speaker>||:...그리폰의 지휘관, 우리, 나.
-NPC-Ange(6)<Speaker>안젤리아</Speaker>;AK12(12)||:......
-NPC-Ange(6);AK12(12)<Speaker>AK12</Speaker>||:넌 혼자가 아니야, 안젤리아.+마음 좀 풀어, 스스로를 너무 궁지에 몰지 마.
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:......나도 알아.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐익.+통신 연결.
-()<Speaker>지휘관</Speaker>||:<color=#00CCFF>안젤리아 씨?</color>
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:안녕, 지휘관.+좋은 소식이면 좋겠는데.
-NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>어... 이걸 좋은 소식이라 할 수 있을지 모르겠군요.</color>+<color=#00CCFF>새로운 단서를 찾았습니다만, 이 단서대로라면 엄청난 참극이 일어날지도 모릅니다.</color>
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:아직 안 일어났으니 좋은 소식이네.+대체 뭔데?
-NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>훈작사가 말한 윌리엄이 베를린에서 벌이려는 큰 일에 관해, 어느 정도 갈피가 잡혔습니다.</color>
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:갈피라고?
-NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>윌리엄은 아무래도 베를린에서 일종의 더티밤을 터뜨릴 셈으로 보입니다.</color>+<color=#00CCFF>그런 화면을 봤습니다. 베를린에서 더티밤이 터진 참상을, 온도시가 우담화로 뒤덮인 광경을요.</color>+<color=#00CCFF>댄들라이도, 이것이 어떠한 "계획"을 통해 달성하려는 결과라 판단했습니다.</color>
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:더티밤...?+확실해? 아무리 윌리엄이라도 그런 물건을 들키지 않고 베를린으로 들여올 수 있을 리가 없어.
-NPC-Ange(6)<Speaker>지휘관</Speaker>||:<color=#00CCFF>확신하긴 어렵지만, 일단 그가 그럴 심산이라는 증거는 찾았습니다.</color>+<color=#00CCFF>하지만 언제, 어떻게 실행하려 하는지는 미지수기에 현재 조사 중입니다.</color>+<color=#00CCFF>이에 대해 미리 알려드리는 것이 좋겠다 생각해서 이렇게 연락드린 겁니다.</color>
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:그래, 알았어... 말하는 게 진짜 점점 너네 영감탱이를 닮아간다니까.+몰리도 쪽은 어때? 혼수 상태랬는데, 정신은 차렸어? 녀석한테서 새로운 단서는?
-NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>몰리도... 아, 마흐리안 말입니까?</color>+<color=#00CCFF>의식은 회복했지만, 단서는 아직...</color>+<color=#00CCFF>노력 중입니다.</color>
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:네 쪽에서 안 될 거 같으면 그냥 나한테 보내.+입 열게 만들 방법은 내가 더 잘 알아.
-NPC-Ange(6)<Speaker>지휘관</Speaker>||:<color=#00CCFF>아뇨, 괜찮습니다. 아직 감당할 만합니다.</color>
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:그러시다면야.+...그런데, 그거 말고 무슨 일 있어?+어째 안색이 안 좋은데.
-NPC-Ange(6)<Speaker>지휘관</Speaker>||:<color=#00CCFF>네? 아, 아뇨... 아무 일도 없습니다만.</color>
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:날 속이려면 10년은 멀었어.+아니면 뭐야, 날 못 믿겠어?
-NPC-Ange(2)<Speaker>지휘관</Speaker>||:<color=#00CCFF>그럴 리 있겠습니까!</color>+<color=#00CCFF>하아... 그게...</color>+<color=#00CCFF>카리나... 그러니까, 제 부관이... 지난번 작전 때 레드존에서 너무 오래 머무르는 바람에...</color>
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:감염증?
-NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>......네.</color>
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:...미안해.+많이 심각해?
-NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>괜찮습니다, 아직은 초기 증상이라 당장은, 단지 의료 할당이 어떻게 될지... 아, 아무튼, 초기니까...</color>
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:너무 걱정 마, 엄청 야무진 아가씨잖아. 입대했다면 분명 나한테도 지지 않을걸?+그러니까, 분명 괜찮을 거야.
-NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>아... 네, 감사합니다.</color>
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:오늘은 여기까지 하자, 나도 아직 할 일이 산더미야.+또 연락하자고.
-NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>알겠습니다, 수고하십시오.</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+통신 종료.
-AK12(12)<Speaker>AK12</Speaker>||:타이밍 참 안 좋네...+하필 이런 때에 그 능력 좋은 카리나가 쓰러졌어?+어쩐지, 술집에 왔을 때 왜 같이 안 왔나 싶더라니.
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:......
-()<Speaker></Speaker>||:안젤리아는 눈을 질끈 감고, 가슴을 움켜쥐고서 몸을 웅크렸다.
-AK12(13)<Speaker>AK12</Speaker>||<BGM>BGM_Empty</BGM>:...안젤리아?
-NPC-Ange(4)<Speaker>안젤리아</Speaker>;AK12(13)||:......
-NPC-Ange(4);AK12(13)<Speaker>AK12</Speaker>||:안젤리아!
-NPC-Ange(6)<Speaker>안젤리아</Speaker>;AK12(13)||:......왜.
-NPC-Ange(6);AK12(13)<Speaker>AK12</Speaker>||:괜찮아...?
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:...괜찮아.
-()<Speaker></Speaker>||:안젤리아는 손을 쥐었다, 땀이 그녀의 손바닥을 흥건하게 적셨다.
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:지휘관의 말이 틀림없는 사실이라면, 이 모든 이상 사태가 습격의 징조일 가능성이 높아.+훈작사가... 날 속인 게 아니었어.
-NPC-Ange(6);AK12(13)<Speaker>AK12</Speaker>||:정말 그런 일이 일어날까?
-NPC-Ange(6)<Speaker>안젤리아</Speaker>;AK12(13)||:부정할 수도 없어, 우리의 단서와도 전부 이어지는걸.+더티밤이 터진 광경을, 우담화가 잔뜩 핀 광경을 봤다고 했잖아.+과연 누가 베를린 도심에 더티밤을 들여올 생각을 할까? 대놓고 우릴 도발한 그레이밖에 없지.+그럼 뭘로 더티밤을 만드려 할까? 리오니의 신기술밖에 없지.+정확히 어떤 건진 몰라도, 분명 우담화와 관계가 있어.
-NPC-Ange(6);AK12(13)<Speaker>AK12</Speaker>||:듣고 보니 일리 있네... 종합하면, 그 여자가 관건이란 소리네?
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:문제는 리오니가 그 기술을 벌써 그년에게 넘겼느냐인데... 계획이 시작되기 전에 훈작사가 그년을 해치우도록 만들어야만 해.+증거를 가져다 달라고? 그럼 가져다 면상에다 던져 줘야지.
-()<Speaker></Speaker>||:안젤리아는 숨을 크게 들이마셔, 가슴의 무거운 느낌을 조금이나마 풀었다.
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:시작은 이 약품의 출처야. 너와 AN-94... 아니, 걘 계속 그 꼬맹이 지켜보게 하고, AK-15랑 RPK-16 불러서 누가 감옥으로 약을 유통시키는지 알아내.
-NPC-Ange(6);AK12(13)<Speaker>AK12</Speaker>||:OK.
-NPC-Ange(6)<Speaker>안젤리아</Speaker>;AK12(13)||:윌리엄은 큰 그림을 그리고 있어.+그렇다면, 놈의 물감통을 엎어 버리자고.
-NPC-Ange(4)<Speaker>안젤리아</Speaker>||:절대로, 그놈 뜻대로 되도록 놔두지 않겠어.
-()<Speaker></Speaker>||:......
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>276</BIN><BGM>BGM_Room</BGM>:......
+()<Speaker></Speaker>||:아파트.+안젤리아는 파월에게 받은 튜브를 테이블 위에 두고 조용히 그걸 바라보았다.
+AK12(12)<Speaker>AK12</Speaker>||:어쩐지 허탕 쳤단 눈빛이 아니더라니.
+()<Speaker></Speaker>||:AK-12가 슬그머니 그녀 뒤에 나타났다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:다른 애들은?
+NPC-Ange(6);AK12(12)<Speaker>AK12</Speaker>||:AN-94는 꼬맹이 감시, AK-15랑 RPK-16은 경계 중.+다음 일엔 그 애 끼워 주기 싫어서 그랬지?
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;AK12(12)||:이제부턴 정말로 선을 넘어야 할지도 모르니 말이지.+그 녀석이 알았다간 일이 성가셔질 수도 있어.
+NPC-Ange(6);AK12(12)<Speaker>AK12</Speaker>||:어떡하려고?
+NPC-Ange(7)<Speaker>안젤리아</Speaker>;AK12(12)||:우선, 이것의 출처부터 알아봐야지.+파월의 말이 사실이라면, 이건 재고가 충분한 수준을 넘어서 아주 차고 넘치는 양이 어딘가에 숨겨져 있을 거야.+양이 그렇게 많아선 아무리 조심스럽게 유통하더라도, 흔적을 안 남길 수가 없어.
+NPC-Ange(7);AK12(12)<Speaker>AK12</Speaker>||:이게 뭔데?
+NPC-Ange(7)<Speaker>안젤리아</Speaker>;AK12(12)||:브레멘에서 봤던 거. 기억하지? 리오니가 만든 그 환각제.+하지만 리오니와 파월이 소유했던 것들은 전부 체포 당시 슈타지가 압수했을 텐데...
+NPC-Ange(7);AK12(12)<Speaker>AK12</Speaker>||:그렇다면, 유통처가 따로 있던지...+...슈타지에 놈들과 내통하는 사람이 있다는 뜻이네.+어느 쪽이 더 가능성 있다고 봐?
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:...물론, 리오니와 파월이 가졌던 게 전부일 리도 없지.+그보다 중요한 건, 이런 위법 물품이 빈민가도 아니고 교도소에서 버젓이 유통되고 있다는 거야. 무슨 뜻인지 알겠지?+지금 내가 대체 누굴 신용할 수 있겠냐고?
+()<Speaker></Speaker>||:안젤리아는 의자의 팔걸이를 쿵쿵 쳐, 목소리도 요동쳤다.
+AK12(12)<Speaker>AK12</Speaker>||:...그리폰의 지휘관, 우리, 나.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;AK12(12)||:......
+NPC-Ange(6);AK12(12)<Speaker>AK12</Speaker>||:넌 혼자가 아니야, 안젤리아.+마음 좀 풀어, 스스로를 너무 궁지에 몰지 마.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:......나도 알아.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐익.+통신 연결.
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>안젤리아 씨?</color>
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:안녕, 지휘관.+좋은 소식이면 좋겠는데.
+NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>어... 이걸 좋은 소식이라 할 수 있을지 모르겠군요.</color>+<color=#00CCFF>새로운 단서를 찾았습니다만, 이 단서대로라면 엄청난 참극이 일어날지도 모릅니다.</color>
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:아직 안 일어났으니 좋은 소식이네.+대체 뭔데?
+NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>훈작사가 말한 윌리엄이 베를린에서 벌이려는 큰 일에 관해, 어느 정도 갈피가 잡혔습니다.</color>
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:갈피라고?
+NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>윌리엄은 아무래도 베를린에서 일종의 더티밤을 터뜨릴 셈으로 보입니다.</color>+<color=#00CCFF>그런 화면을 봤습니다. 베를린에서 더티밤이 터진 참상을, 온도시가 우담화로 뒤덮인 광경을요.</color>+<color=#00CCFF>댄들라이도, 이것이 어떠한 "계획"을 통해 달성하려는 결과라 판단했습니다.</color>
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:더티밤...?+확실해? 아무리 윌리엄이라도 그런 물건을 들키지 않고 베를린으로 들여올 수 있을 리가 없어.
+NPC-Ange(6)<Speaker>지휘관</Speaker>||:<color=#00CCFF>확신하긴 어렵지만, 일단 그가 그럴 심산이라는 증거는 찾았습니다.</color>+<color=#00CCFF>하지만 언제, 어떻게 실행하려 하는지는 미지수기에 현재 조사 중입니다.</color>+<color=#00CCFF>이에 대해 미리 알려드리는 것이 좋겠다 생각해서 이렇게 연락드린 겁니다.</color>
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:그래, 알았어... 말하는 게 진짜 점점 너네 영감탱이를 닮아간다니까.+몰리도 쪽은 어때? 혼수 상태랬는데, 정신은 차렸어? 녀석한테서 새로운 단서는?
+NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>몰리도... 아, 마흐리안 말입니까?</color>+<color=#00CCFF>의식은 회복했지만, 단서는 아직...</color>+<color=#00CCFF>노력 중입니다.</color>
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:네 쪽에서 안 될 거 같으면 그냥 나한테 보내.+입 열게 만들 방법은 내가 더 잘 알아.
+NPC-Ange(6)<Speaker>지휘관</Speaker>||:<color=#00CCFF>아뇨, 괜찮습니다. 아직 감당할 만합니다.</color>
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:그러시다면야.+...그런데, 그거 말고 무슨 일 있어?+어째 안색이 안 좋은데.
+NPC-Ange(6)<Speaker>지휘관</Speaker>||:<color=#00CCFF>네? 아, 아뇨... 아무 일도 없습니다만.</color>
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:날 속이려면 10년은 멀었어.+아니면 뭐야, 날 못 믿겠어?
+NPC-Ange(2)<Speaker>지휘관</Speaker>||:<color=#00CCFF>그럴 리 있겠습니까!</color>+<color=#00CCFF>하아... 그게...</color>+<color=#00CCFF>카리나... 그러니까, 제 부관이... 지난번 작전 때 레드존에서 너무 오래 머무르는 바람에...</color>
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:감염증?
+NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>......네.</color>
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:...미안해.+많이 심각해?
+NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>괜찮습니다, 아직은 초기 증상이라 당장은, 단지 의료 할당이 어떻게 될지... 아, 아무튼, 초기니까...</color>
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:너무 걱정 마, 엄청 야무진 아가씨잖아. 입대했다면 분명 나한테도 지지 않을걸?+그러니까, 분명 괜찮을 거야.
+NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>아... 네, 감사합니다.</color>
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:오늘은 여기까지 하자, 나도 아직 할 일이 산더미야.+또 연락하자고.
+NPC-Ange(7)<Speaker>지휘관</Speaker>||:<color=#00CCFF>알겠습니다, 수고하십시오.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+통신 종료.
+AK12(12)<Speaker>AK12</Speaker>||:타이밍 참 안 좋네...+하필 이런 때에 그 능력 좋은 카리나가 쓰러졌어?+어쩐지, 술집에 왔을 때 왜 같이 안 왔나 싶더라니.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||:안젤리아는 눈을 질끈 감고, 가슴을 움켜쥐고서 몸을 웅크렸다.
+AK12(13)<Speaker>AK12</Speaker>||<BGM>BGM_Empty</BGM>:...안젤리아?
+NPC-Ange(4)<Speaker>안젤리아</Speaker>;AK12(13)||:......
+NPC-Ange(4);AK12(13)<Speaker>AK12</Speaker>||:안젤리아!
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;AK12(13)||:......왜.
+NPC-Ange(6);AK12(13)<Speaker>AK12</Speaker>||:괜찮아...?
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:...괜찮아.
+()<Speaker></Speaker>||:안젤리아는 손을 쥐었다, 땀이 그녀의 손바닥을 흥건하게 적셨다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:지휘관의 말이 틀림없는 사실이라면, 이 모든 이상 사태가 습격의 징조일 가능성이 높아.+훈작사가... 날 속인 게 아니었어.
+NPC-Ange(6);AK12(13)<Speaker>AK12</Speaker>||:정말 그런 일이 일어날까?
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;AK12(13)||:부정할 수도 없어, 우리의 단서와도 전부 이어지는걸.+더티밤이 터진 광경을, 우담화가 잔뜩 핀 광경을 봤다고 했잖아.+과연 누가 베를린 도심에 더티밤을 들여올 생각을 할까? 대놓고 우릴 도발한 그레이밖에 없지.+그럼 뭘로 더티밤을 만드려 할까? 리오니의 신기술밖에 없지.+정확히 어떤 건진 몰라도, 분명 우담화와 관계가 있어.
+NPC-Ange(6);AK12(13)<Speaker>AK12</Speaker>||:듣고 보니 일리 있네... 종합하면, 그 여자가 관건이란 소리네?
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:문제는 리오니가 그 기술을 벌써 그년에게 넘겼느냐인데... 계획이 시작되기 전에 훈작사가 그년을 해치우도록 만들어야만 해.+증거를 가져다 달라고? 그럼 가져다 면상에다 던져 줘야지.
+()<Speaker></Speaker>||:안젤리아는 숨을 크게 들이마셔, 가슴의 무거운 느낌을 조금이나마 풀었다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:시작은 이 약품의 출처야. 너와 AN-94... 아니, 걘 계속 그 꼬맹이 지켜보게 하고, AK-15랑 RPK-16 불러서 누가 감옥으로 약을 유통시키는지 알아내.
+NPC-Ange(6);AK12(13)<Speaker>AK12</Speaker>||:OK.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;AK12(13)||:윌리엄은 큰 그림을 그리고 있어.+그렇다면, 놈의 물감통을 엎어 버리자고.
+NPC-Ange(4)<Speaker>안젤리아</Speaker>||:절대로, 그놈 뜻대로 되도록 놔두지 않겠어.
+()<Speaker></Speaker>||:......
 ()||<黑屏1>:

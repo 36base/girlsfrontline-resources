@@ -1,134 +1,134 @@
-페르시카()<Speaker>페르시카</Speaker>||<BIN>9</BIN><BGM>BGM_Room</BGM><黑屏2>:너 정말... 지금 가야겠어?
-M4A1()<Speaker>M4A1</Speaker>||:네.
-페르시카()<Speaker>페르시카</Speaker>||:지금 밖은 매우 위험한 데다가, 아직 조정도 제대로 끝나지 않은 상태인데도...
-M4A1()<Speaker>M4A1</Speaker>||:제가 가지 않으면 안 된다는 거 아시잖아요.+그래도 저를 막으시겠다면, 제 기체를 정지시키고 오프라인 상태로 만들면 될 문제예요.
-페르시카()<Speaker>페르시카</Speaker>||:...그래, 이제 마음을 굳힌 거구나.+옥상에 내 개인 헬기를 준비해놨어. 지휘관이 네가 어디로 가야 할지 알려줄 거야...
-M4A1()<Speaker>M4A1</Speaker>||:페르시카 씨... 고마워요.
-()||<黑屏1>:............전술 인형 M4A1이 방을 나섰다.
-NPC-Persica(0)<Speaker>페르시카</Speaker>||<BIN>22</BIN><黑屏2>:리미트를 해제하게 되면, 역시 성격에 변화가 일어나기 시작하는구나...+아니지, 지금은 이런 생각을 하고 있을 때가 아니야.
-NPC-Persica(0)<Speaker></Speaker>||:............페르시카가 어딘가로 연결을 시도했다.
-NPC-Persica(0)<Speaker>시스템 알림</Speaker>||:...Access Complete.
-NPC-Persica(0)<Speaker>페르시카</Speaker>||:............
-NPC-Persica(0)<Speaker>SoundOnly</Speaker>||:왠 일로 천하의 페르시카 님께서 나한테 연락을 하셨나.
-NPC-Persica(0)<Speaker>페르시카</Speaker>||:시치미 떼지 마, 철혈의 데이터베이스 안에 표식을 남겨둔 건 너잖아.+안젤리아, 너란 거 다 알고 있으니까, 날 피하려고 하지 마.
-NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker><通讯框>||:아아......+정말로 그리운 이름인걸.
-NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:너 또 코드 네임을 바꾼 거야?
-NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그냥 그 이름으로 불러줘. 난 그 이름이 꽤 마음에 들거든. 특히 네가 불러줄 때가 제일 좋더라고.
-NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:.....딴소리 하지 말고. 표식을 남긴 거 너 맞지?
-NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:하하하, 드디어 찾아낸 건가.
-NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:주소를 알고 있다는 말은, 네가 예전에 가봤다는 뜻이겠지.
-NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그 표식은 옛정 때문에 남겨둔 거야. 더 파고들어봤자 너한테도 별로 좋을 건 없을 텐데.
-NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:아직도 날 믿지 못하겠다는 말이야?
-NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:미안한데 옛날이야기만 할 거라면, 내가 지금 좀 바쁘거든.
-NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:......그럼 화제를 바꾸자고.+그때의 감시 카메라 영상을 찾아냈어.+하지만 운반 중이던 무인기가 피격당해 오염지역에 추락해 버렸지. 그 소대를 회수 임무에 사용하고 싶어.
-NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그런 거라면 AR팀에게 맡기면 되잖아?
-NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:그건 그렇지만, 크루거가 모든 인형을 다른 곳에 배치해서 말이지...
-NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:...전부?+그리폰이 이번에 무슨 짓을 벌일지, 정말로 기대되는걸...
-NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:그래서 도와줄 거야, 말 거야.
-NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:너라면 감시 영상을 보지 않아도, 무슨 일이 일어났을지 충분히 짐작할 수 있을 텐데.
-NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:............+그렇지만... 내 눈으로 직접 확인하고 싶어서 그래...+너라면 이해할 수 있겠지.
-NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:칫...+알겠어, 그렇다고 해서 가격을 깎아주지는 않을 거야. 우리도 땅 파서 장사하는 건 아니니까.
-NPC-Persica(2)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:영상만 손에 넣을 수 있다면, 돈 따윈 얼마든지 낼 수 있어.+그리고 한 가지 더...... 너한테 부탁할 게 있는데...
-NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그렇다면 말하지 마. 별로 좋은 일도 아니겠지.
-NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:M4A1이 가버렸단 말야...... 나는 막을 수 없었어.
-NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:하아...... 알겠어.
-NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:M4, 그리고 AR팀의 안전......+이게 너한테 의뢰하는 다른 하나의 요청이야.
-NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:이건 아까 요청한 임무보다 훨씬 더 어렵잖아.+너도 알다시피 걔들은 이미 군사 작전 범위 내로 들어갔어. 이건 이미 내 능력을 벗어난 일이라고.
-NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:나도 알아...... 하지만 그 애들을 지켜줄 수 있는 건 지금도 너밖에 없어.+그리고 너와 걔들은......
-NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그 이상 말하지 마. 벌써 옛날에 잊어버렸으니까......+그럼 이사할 준비나 하고 있어. 이번에는 돈이 제법 많이 들 테니까 말이야.
-NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:고마워. 괜찮아...... 너말고 부탁할 사람이 없으니까...... 
-NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:페르시카, 너......
-NPC-Persica(2)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:다만... 만약 네가 실패한다면 한푼도 주지 않을 거야.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||<震屏>:너 이 자식이!+내가 만약 퇴직한다고 해도 고양이 만큼은 절대로 키우지 않겠어! 끊어!
-()||:......안젤리아가 거칠게 통신을 끊어버렸다.
-NPC-Persica(2)<Speaker>페르시카</Speaker>||<黑屏1>:안젤리아, 너 그거 알아?+고양이 기르는 사람들은 처음엔 전부 다 그렇게 말하더라고.
-()||<黑屏2><BGM>BGM_Empty</BGM><BIN>9</BIN>:......세 시간이 지났다.
-무전 통신()<Speaker>무전 통신</Speaker>||<BGM>BGM_Sneak</BGM>:공역 193x432-1 유닛. 여기는 임시 관제탑. 지금 당장 신분을 밝히도록.
-조종사()<Speaker>조종사</Speaker>||:여기는 IOP 회사 소속의 수송 헬리콥터. 등록 번호 xed900002.+우리는 이미 해당 공역에 대한 통행 권한을 요청했다.
-무전 통신()<Speaker>무전 통신</Speaker>||:공역 193x432-1 유닛은 공중에서 대기 바람. 현재 비행경로를 탐색 중.
-조종사()<Speaker>조종사</Speaker>||:라져, 근처를 순회 비행하고 있겠다.
-M4A1()<Speaker>M4A1</Speaker>||:무슨 일이죠?
-조종사()<Speaker>조종사</Speaker>||:이상한걸. 얼마 전까지만 해도 이 루트의 공중 관제가 그리 까다롭지 않았거든.
-무전 통신()<Speaker>무전 통신</Speaker>||:공역 193x432-1 유닛, 현재 진입하려는 공역은 이미 군사 보호구역으로 지정되었으므로 권한이 없는 유닛의 출입을 불허한다.+즉시 해당 공역을 이탈하라.
-조종사()<Speaker>조종사</Speaker>||:라져, 이탈하겠다.
-M4A1()<Speaker>M4A1</Speaker>||:더 이상 갈 수 없는 건가요?
-조종사()<Speaker>조종사</Speaker>||:공역이 봉쇄되었으니, 지금은 돌아가는 수밖에.
-M4A1()<Speaker>M4A1</Speaker>||:지상도 봉쇄되었을까요?
-조종사()<Speaker>조종사</Speaker>||:그건 잘 모르겠군. 다만, 군사 보호구역으로 지정됐다면 하늘이나 지상이나 똑같은 상황일 거야.
-M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:그럼 이 근처에서 내려주세요. 한 번 시도해볼게요.
-()||<BIN>4</BIN><黑屏2>:......15분 후.
-M4A1(0)<Speaker>M4A1</Speaker>||:(지상에 내려왔지만 도로 역시 봉쇄되어 있어...)+(여기는 원래 그리폰이 관리하는 구역일 텐데, 어째서 지휘관님과 연락이 닿질 않는 걸까......)+(여기선 내 운을 믿어볼 수밖에...)
-M4A1(0)<Speaker>인간 용병</Speaker>||:멈춰라! 이 앞으로는 출입 금지 구역이다!
-M4A1(2)<Speaker>M4A1</Speaker>||:저는 S09 관할 구역의 그리폰 특별 집행 전술 인형입니다. 현재 임무를 위해 복귀하고 있습니다.+식별 번호는 여기 있습니다.
-M4A1(2)<Speaker>인간 용병</Speaker>||:그리폰의 전술 인형?+이 앞으로는 본격적인 연합 작전의 진행을 위해 출입이 제한되어 있으므로 그리폰의 인형은 담당 지휘관의 허가가 없으면 들어갈 수 없다.
-M4A1(2)<Speaker>M4A1</Speaker>||:전...... 다른 지역에서 온 터라 아직 제 지휘관님과 만나지 못했습니다.
-M4A1(2)<Speaker>인간 용병</Speaker>||:그렇다면 우선 네 주인한테 연락하라고, 인형 아가씨.+그냥 포기하고 돌아가는 게 어때, 너처럼 비실한 인형이 지금 들어가봤자 별 도움도 안될 테고,+더군다나 그런 무기를 가지고 있다면 더 말할 것도 없지.
-M4A1(2)<Speaker>M4A1</Speaker>||:............
-NPC-Ange(0)<Speaker>???</Speaker>||:이 비실한 인형이 네 척추를 순식간에 분질러버릴 수도 있으니까 말을 골라서 하는 게 좋을 거야.
-NPC-Ange(0)<Speaker>인간 용병</Speaker>||:누구냐?
-NPC-Ange(0)<Speaker>성숙한 인간 여성</Speaker>||:17 혼합 정찰여단의 2급 대위다. 이건 내 신분증이고. 이제 들어가도 되겠나?
-NPC-Ange(0)<Speaker>인간 용병</Speaker>||:충성! 들어가십시오!
-NPC-Ange(0)<Speaker>성숙한 인간 여성</Speaker>||:이 인형은 내 보좌관이니 같이 들어가도 되겠지?
-NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:──??
-NPC-Ange(0);M4A1(0)||:
-인간 용병()<Speaker>인간 용병</Speaker>||:물론입니다! 하지만 방금 저 인형이 자신을 그리폰 소속이라고......
-NPC-Ange(0)<Speaker>성숙한 인간 여성</Speaker>;M4A1(0)||:현 시간부로 이 인형은 내 보좌관이다.
-NPC-Ange(0);M4A1(0)||:
-인간 용병()<Speaker>인간 용병</Speaker>||:알겠습니다! 인증되었습니다! 들어가십시오!
-NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||<黑屏1>:......
-()||<黑屏2><BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>:......여자와 M4A1이 함께 제한 구역에 들어갔다. 
-M4A1(0)<Speaker>M4A1</Speaker>||<黑屏2><BIN>83</BIN><BGM>BGM_Room</BGM>:안젤리아 씨.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:신분증에 있는 이름을 본 거야?
-NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:맞아요... 죄송하지만 전 당신을 보좌해드릴 수 없습니다.+전 제 지휘관님을 찾으러 가야만 해요.
-NPC-Ange(0)<Speaker></Speaker>;M4A1(0)||:......안젤리아가 웃었다.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:지금 나한테 자신의 성실함을 어필이라도 하려는 건가?
-NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:전 그저 사실 그대로 이야기하고 있을 뿐입니다......
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:알고 있어.+하지만 너 말야, 지금 네 지휘관이 어디에 있는지나 알고 있는 거야?+네 지휘관은 지금 최전방에 있기 때문에, 현재 관련된 모든 정보는 군에 의해 암호화되어 있어. 지금 네 권한으로는 제대로 된 정보 하나 찾기도 힘들 거라고.
-NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:이곳은 그리폰의 관할 구역이니 방법이야 있겠죠.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:지금까진 그랬겠지.+하지만 지금의 넌 막 새장을 벗어난 작은 새 한 마리일 뿐이야.+저기 앞에 연기가 솟아오르는 게 보이지? 방금 철혈이 또 보급소대를 처리했나 본데.+여기는 진짜 전장이야. "베스피드"나 "예거", 혹은 "디너게이트" 몇 마리가 네 목숨을 앗아갈 수도 있단 말이지.
-NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:그럼 어째서 절 데리고 들어오신 거죠?
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:누가 널 도와달라고 돈을 줬거든. 네가 네 발로 사지로 걸어간다고 해도 난 널 도와야 하는 사람이라고.
-NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:페르시카 씨... 말인가요?
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:머리가 제법 잘 돌아가잖아.
-NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:하지만 전 페르시카 씨에게 아무것도 들은 게 없는걸요. 당신은 대체 누구시죠?
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:난 말이지......
-NPC-Ange(0)<Speaker></Speaker>;M4A1(0)||:......안젤리아가 M4A1을 훑어봤다.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:난 어디서든 흔히 볼 수 있는 용병일 뿐이야. 받은 돈만큼 일하지. 별로 특별한 것도 없어.
-NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:그렇다면...... 방금 그건 가짜 신분증인가요?
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:군 측의 보안은 결코 만만하게 볼 수 없지만, 난 이 방면의 전문가거든.+그리고 너무 걱정하지 마. 이번에는 나만의 방식으로 너희들을 도와주러 온 거니까...... 뭐 문제 있어?
-NPC-Ange(0);M4A1(0)<Speaker></Speaker>||:......M4A1은 잠시 침묵했다.
-NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:이다음에는 어떻게 해야 할지 가르쳐주세요.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:뭐?
-NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:방금 당신이 페르시카 씨에게 돈을 받고 절 도우러 오셨다고 하셨잖아요.+저...... 이다음엔 뭘 어떻게 해야 좋을지 모르겠어서......
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:넌 아무런 준비도 없이, 무모하게 혼자 군사 지역으로 들어가려 했던 거야?
-NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:전 제 팀으로..... 제 친구들 곁으로 돌아가서 철혈의 엘더 브레인을 찾아 결판을 내야 한다는 생각만 들어요.+하지만, 목적을 달성하기 위한 방법은 모르고 있어요......+저한테 무슨 문제가 있어서 이렇게 된 건지...... 모든 게 엉망이에요......
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:넌 더 굳세지고 싶어 하지만, 애초부터 그런 성격이 아니라서 그래.  너에겐 확실히 어려운 일이지.
-NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:전......
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:앞쪽에 작은 거점이 있으니까 안에서 기다리도록 하자.
-NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:뭘요?
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:네 지휘관이 널 데리러 이쪽으로 올 거야. 내가 도와줄 테니 날 믿어.
-NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:정말......인가요?
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:그래.+ 내가 하고 싶어서 하는 건 아니지만 너에게 다시 한번 의지를 심어주겠어.
-NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:다시 한번이라뇨?
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:네가 여기 왔다는 건 이미 스스로 길을 선택했다는 거야.+너 스스로 선택할 수 있다면 답은 이미 나와 있는 거나 다름없지.
-NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:하지만 그 답이란 게 명령에서 나온 게 아니다 보니 전 그게 정확한 판단인지 알 수가 없어요......
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:인형은 원래 그런 식으로 설계되어 있어. 하지만 넌 달라. 넌 특별하지.+자신이 선택한 결과에 대한 책임을 져야 하기 때문에, 선택은 고통스러운 거야.+하지만 오직 네 선택에 대한 책임을 짐으로서 더욱 강해질 테고, 지금보다 더 강해지고 나서야 너 자신의 운명을 스스로 결정할 수 있는 거야.
-NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:자신의 운명......
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:네가 받은 모든 훈련은 오직 이날만을 위해서가 아니었나? AR팀의 M4A1?
-M4A1(0)<Speaker></Speaker>||<黑屏1>:......안젤리아는 손을 흔들고서는 자리를 떠났다.
-안젤리아()<Speaker>안젤리아</Speaker>||<黑屏2><BIN>9</BIN>:그때와는 달라, 넌 이미 변했어.+계속해서 변해가라고.+(그래야만 유일한 희망이 될 거야. 그들을 막을 희망이 말이지......)
-()||<黑屏1><BGM>BGM_Empty</BGM>:............
-()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM><黑屏2>:......같은 시각, S11 구역의 그리폰 지휘 거점.
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:지휘관님, 저희 보급 물자가 무사히 기지에 도착했다고 해요! 이제 군 측에서 명령이 내려올 때까지 기다리는 것만 남았어요!+앗? 제가 방해한 건가요?+정말 죄송해요. 하지만 이렇게 중요한 작전을 앞두고 두근거림을 감출 수 없어요! 그런데 지휘관님은 하나도 긴장되지 않으신가 봐요? 이렇게 아침 일찍부터 일어나시는 건 엄청 드문 일이잖아요!+그렇죠...... 갑작스레 이런 명령을 받으면 누구라도 가만있지 못할 거예요.+마침내...... 철혈의 엘더 브레인과의 결전의 날이 찾아왔네요.+오랫동안 싸워왔지만, 정말 이런 시간이 오다니 오히려 어찌할 바를 모르겠어요.+게다가 이번 작전은 그리폰과 군부의 첫 연합 작전이니 생각만큼 순조롭게 흘러갈지......+.....네? 말이 너무 많다구요? 지휘관님! 어떻게 부관한테 그런 말을 하실 수가 있으세요!+어쨌든! 더 생각해봤자 소용없으니 얌전히 군에서 내리는 명령만 들으면 될 거라구요!+지휘관님, 최전방에서 싸울 준비를 해두세요! 저도 지휘관님을 위해서 최대한 열심히 서포트할 테니까요!
-NPC-Kalin(0)<Speaker></Speaker>||:......지휘실로 통신이 걸려왔다.
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:왔어요, 왔어! 분명 군에서 명령이 내려온 걸 거예요!
-NPC-Kalin(0);NPC-Helian(0)<Speaker></Speaker><通讯框>||:......삑
-NPC-Kalin(0);NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:카리나, 너도 마침 여기 있었나. 잘됐군.
-NPC-Kalin(3)<Speaker>카리나</Speaker>);NPC-Helian(0)||:에이 뭐예요...... 헬리안 씨네요......
-NPC-Kalin(3);NPC-Helian(0)<Speaker>헬리안</Speaker>||:어째서 실망한 표정을 짓는 거지......+지휘관님의 제대는 현재 작전 구역에 도착했지만 다른 지휘관들은 아직 후방에 있으므로 지휘관님께 한 가지 중요한 임무를 부탁드리겠습니다.
-NPC-Kalin(2)<Speaker>카리나</Speaker>);NPC-Helian(0)||:오옷! 이번 작전은 역시나 총공격이군요!
-NPC-Kalin(2);NPC-Helian(0)<Speaker>헬리안</Speaker>||<黑点1>:5분 전, 철혈이 다수의 거점에서부터 기습을 걸어와서 보급에 차질을 빚고 있습니다.+저희 정찰 부대가 어느 거점인지 지도상에 표시해놓았으니 원활한 보급을 위해 지금 당장 철혈을 배제해주시기 바랍니다.
-NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<BIN>10</BIN><BGM>BGM_War</BGM><黑点2>:이곳에 있는 철혈 거점인가 보네요?
-NPC-Kalin(0);NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:그렇습니다. 중요한 작전이니만큼 절대로 대충 처리해서는 안 됩니다. 특히 이곳은 철혈의 본거지니까 더더욱.+그러니 이 임무를 여러분께 맡기겠습니다, 괜찮습니까?+......좋습니다. 지휘관님이야말로 저희가 가장 신뢰하고 있는 사람입니다. 그럼 행운을 빌겠습니다.
-NPC-Kalin(0)<Speaker>카리나</Speaker>;NPC-Helian(0)||<黑点1>:본격적인 작전으로 들어가기 전에 몸풀기용으로 딱 좋겠는걸요? 빨리 처리해버리도록 하죠, 지휘관님!
-()||<黑点2>:
+페르시카()<Speaker>페르시카</Speaker>||<BIN>9</BIN><BGM>BGM_Room</BGM><黑屏2>:너 정말... 지금 가야겠어?
+M4A1()<Speaker>M4A1</Speaker>||:네.
+페르시카()<Speaker>페르시카</Speaker>||:지금 밖은 매우 위험한 데다가, 아직 조정도 제대로 끝나지 않은 상태인데도...
+M4A1()<Speaker>M4A1</Speaker>||:제가 가지 않으면 안 된다는 거 아시잖아요.+그래도 저를 막으시겠다면, 제 기체를 정지시키고 오프라인 상태로 만들면 될 문제예요.
+페르시카()<Speaker>페르시카</Speaker>||:...그래, 이제 마음을 굳힌 거구나.+옥상에 내 개인 헬기를 준비해놨어. 지휘관이 네가 어디로 가야 할지 알려줄 거야...
+M4A1()<Speaker>M4A1</Speaker>||:페르시카 씨... 고마워요.
+()||<黑屏1>:............전술 인형 M4A1이 방을 나섰다.
+NPC-Persica(0)<Speaker>페르시카</Speaker>||<BIN>22</BIN><黑屏2>:리미트를 해제하게 되면, 역시 성격에 변화가 일어나기 시작하는구나...+아니지, 지금은 이런 생각을 하고 있을 때가 아니야.
+NPC-Persica(0)<Speaker></Speaker>||:............페르시카가 어딘가로 연결을 시도했다.
+NPC-Persica(0)<Speaker>시스템 알림</Speaker>||:...Access Complete.
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:............
+NPC-Persica(0)<Speaker>SoundOnly</Speaker>||:왠 일로 천하의 페르시카 님께서 나한테 연락을 하셨나.
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:시치미 떼지 마, 철혈의 데이터베이스 안에 표식을 남겨둔 건 너잖아.+안젤리아, 너란 거 다 알고 있으니까, 날 피하려고 하지 마.
+NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker><通讯框>||:아아......+정말로 그리운 이름인걸.
+NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:너 또 코드 네임을 바꾼 거야?
+NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그냥 그 이름으로 불러줘. 난 그 이름이 꽤 마음에 들거든. 특히 네가 불러줄 때가 제일 좋더라고.
+NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:.....딴소리 하지 말고. 표식을 남긴 거 너 맞지?
+NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:하하하, 드디어 찾아낸 건가.
+NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:주소를 알고 있다는 말은, 네가 예전에 가봤다는 뜻이겠지.
+NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그 표식은 옛정 때문에 남겨둔 거야. 더 파고들어봤자 너한테도 별로 좋을 건 없을 텐데.
+NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:아직도 날 믿지 못하겠다는 말이야?
+NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:미안한데 옛날이야기만 할 거라면, 내가 지금 좀 바쁘거든.
+NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:......그럼 화제를 바꾸자고.+그때의 감시 카메라 영상을 찾아냈어.+하지만 운반 중이던 무인기가 피격당해 오염지역에 추락해 버렸지. 그 소대를 회수 임무에 사용하고 싶어.
+NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그런 거라면 AR팀에게 맡기면 되잖아?
+NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:그건 그렇지만, 크루거가 모든 인형을 다른 곳에 배치해서 말이지...
+NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:...전부?+그리폰이 이번에 무슨 짓을 벌일지, 정말로 기대되는걸...
+NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:그래서 도와줄 거야, 말 거야.
+NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:너라면 감시 영상을 보지 않아도, 무슨 일이 일어났을지 충분히 짐작할 수 있을 텐데.
+NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:............+그렇지만... 내 눈으로 직접 확인하고 싶어서 그래...+너라면 이해할 수 있겠지.
+NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:칫...+알겠어, 그렇다고 해서 가격을 깎아주지는 않을 거야. 우리도 땅 파서 장사하는 건 아니니까.
+NPC-Persica(2)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:영상만 손에 넣을 수 있다면, 돈 따윈 얼마든지 낼 수 있어.+그리고 한 가지 더...... 너한테 부탁할 게 있는데...
+NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그렇다면 말하지 마. 별로 좋은 일도 아니겠지.
+NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:M4A1이 가버렸단 말야...... 나는 막을 수 없었어.
+NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:하아...... 알겠어.
+NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:M4, 그리고 AR팀의 안전......+이게 너한테 의뢰하는 다른 하나의 요청이야.
+NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:이건 아까 요청한 임무보다 훨씬 더 어렵잖아.+너도 알다시피 걔들은 이미 군사 작전 범위 내로 들어갔어. 이건 이미 내 능력을 벗어난 일이라고.
+NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:나도 알아...... 하지만 그 애들을 지켜줄 수 있는 건 지금도 너밖에 없어.+그리고 너와 걔들은......
+NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그 이상 말하지 마. 벌써 옛날에 잊어버렸으니까......+그럼 이사할 준비나 하고 있어. 이번에는 돈이 제법 많이 들 테니까 말이야.
+NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:고마워. 괜찮아...... 너말고 부탁할 사람이 없으니까...... 
+NPC-Persica(0);NPC-Ange(0)<Speaker>안젤리아</Speaker>||:페르시카, 너......
+NPC-Persica(2)<Speaker>페르시카</Speaker>;NPC-Ange(0)||:다만... 만약 네가 실패한다면 한푼도 주지 않을 거야.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||<震屏>:너 이 자식이!+내가 만약 퇴직한다고 해도 고양이 만큼은 절대로 키우지 않겠어! 끊어!
+()||:......안젤리아가 거칠게 통신을 끊어버렸다.
+NPC-Persica(2)<Speaker>페르시카</Speaker>||<黑屏1>:안젤리아, 너 그거 알아?+고양이 기르는 사람들은 처음엔 전부 다 그렇게 말하더라고.
+()||<黑屏2><BGM>BGM_Empty</BGM><BIN>9</BIN>:......세 시간이 지났다.
+무전 통신()<Speaker>무전 통신</Speaker>||<BGM>BGM_Sneak</BGM>:공역 193x432-1 유닛. 여기는 임시 관제탑. 지금 당장 신분을 밝히도록.
+조종사()<Speaker>조종사</Speaker>||:여기는 IOP 회사 소속의 수송 헬리콥터. 등록 번호 xed900002.+우리는 이미 해당 공역에 대한 통행 권한을 요청했다.
+무전 통신()<Speaker>무전 통신</Speaker>||:공역 193x432-1 유닛은 공중에서 대기 바람. 현재 비행경로를 탐색 중.
+조종사()<Speaker>조종사</Speaker>||:라져, 근처를 순회 비행하고 있겠다.
+M4A1()<Speaker>M4A1</Speaker>||:무슨 일이죠?
+조종사()<Speaker>조종사</Speaker>||:이상한걸. 얼마 전까지만 해도 이 루트의 공중 관제가 그리 까다롭지 않았거든.
+무전 통신()<Speaker>무전 통신</Speaker>||:공역 193x432-1 유닛, 현재 진입하려는 공역은 이미 군사 보호구역으로 지정되었으므로 권한이 없는 유닛의 출입을 불허한다.+즉시 해당 공역을 이탈하라.
+조종사()<Speaker>조종사</Speaker>||:라져, 이탈하겠다.
+M4A1()<Speaker>M4A1</Speaker>||:더 이상 갈 수 없는 건가요?
+조종사()<Speaker>조종사</Speaker>||:공역이 봉쇄되었으니, 지금은 돌아가는 수밖에.
+M4A1()<Speaker>M4A1</Speaker>||:지상도 봉쇄되었을까요?
+조종사()<Speaker>조종사</Speaker>||:그건 잘 모르겠군. 다만, 군사 보호구역으로 지정됐다면 하늘이나 지상이나 똑같은 상황일 거야.
+M4A1()<Speaker>M4A1</Speaker>||<黑屏1>:그럼 이 근처에서 내려주세요. 한 번 시도해볼게요.
+()||<BIN>4</BIN><黑屏2>:......15분 후.
+M4A1(0)<Speaker>M4A1</Speaker>||:(지상에 내려왔지만 도로 역시 봉쇄되어 있어...)+(여기는 원래 그리폰이 관리하는 구역일 텐데, 어째서 지휘관님과 연락이 닿질 않는 걸까......)+(여기선 내 운을 믿어볼 수밖에...)
+M4A1(0)<Speaker>인간 용병</Speaker>||:멈춰라! 이 앞으로는 출입 금지 구역이다!
+M4A1(2)<Speaker>M4A1</Speaker>||:저는 S09 관할 구역의 그리폰 특별 집행 전술 인형입니다. 현재 임무를 위해 복귀하고 있습니다.+식별 번호는 여기 있습니다.
+M4A1(2)<Speaker>인간 용병</Speaker>||:그리폰의 전술 인형?+이 앞으로는 본격적인 연합 작전의 진행을 위해 출입이 제한되어 있으므로 그리폰의 인형은 담당 지휘관의 허가가 없으면 들어갈 수 없다.
+M4A1(2)<Speaker>M4A1</Speaker>||:전...... 다른 지역에서 온 터라 아직 제 지휘관님과 만나지 못했습니다.
+M4A1(2)<Speaker>인간 용병</Speaker>||:그렇다면 우선 네 주인한테 연락하라고, 인형 아가씨.+그냥 포기하고 돌아가는 게 어때, 너처럼 비실한 인형이 지금 들어가봤자 별 도움도 안될 테고,+더군다나 그런 무기를 가지고 있다면 더 말할 것도 없지.
+M4A1(2)<Speaker>M4A1</Speaker>||:............
+NPC-Ange(0)<Speaker>???</Speaker>||:이 비실한 인형이 네 척추를 순식간에 분질러버릴 수도 있으니까 말을 골라서 하는 게 좋을 거야.
+NPC-Ange(0)<Speaker>인간 용병</Speaker>||:누구냐?
+NPC-Ange(0)<Speaker>성숙한 인간 여성</Speaker>||:17 혼합 정찰여단의 2급 대위다. 이건 내 신분증이고. 이제 들어가도 되겠나?
+NPC-Ange(0)<Speaker>인간 용병</Speaker>||:충성! 들어가십시오!
+NPC-Ange(0)<Speaker>성숙한 인간 여성</Speaker>||:이 인형은 내 보좌관이니 같이 들어가도 되겠지?
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:──??
+NPC-Ange(0);M4A1(0)||:
+인간 용병()<Speaker>인간 용병</Speaker>||:물론입니다! 하지만 방금 저 인형이 자신을 그리폰 소속이라고......
+NPC-Ange(0)<Speaker>성숙한 인간 여성</Speaker>;M4A1(0)||:현 시간부로 이 인형은 내 보좌관이다.
+NPC-Ange(0);M4A1(0)||:
+인간 용병()<Speaker>인간 용병</Speaker>||:알겠습니다! 인증되었습니다! 들어가십시오!
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||<黑屏1>:......
+()||<黑屏2><BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>:......여자와 M4A1이 함께 제한 구역에 들어갔다. 
+M4A1(0)<Speaker>M4A1</Speaker>||<黑屏2><BIN>83</BIN><BGM>BGM_Room</BGM>:안젤리아 씨.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:신분증에 있는 이름을 본 거야?
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:맞아요... 죄송하지만 전 당신을 보좌해드릴 수 없습니다.+전 제 지휘관님을 찾으러 가야만 해요.
+NPC-Ange(0)<Speaker></Speaker>;M4A1(0)||:......안젤리아가 웃었다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:지금 나한테 자신의 성실함을 어필이라도 하려는 건가?
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:전 그저 사실 그대로 이야기하고 있을 뿐입니다......
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:알고 있어.+하지만 너 말야, 지금 네 지휘관이 어디에 있는지나 알고 있는 거야?+네 지휘관은 지금 최전방에 있기 때문에, 현재 관련된 모든 정보는 군에 의해 암호화되어 있어. 지금 네 권한으로는 제대로 된 정보 하나 찾기도 힘들 거라고.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:이곳은 그리폰의 관할 구역이니 방법이야 있겠죠.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:지금까진 그랬겠지.+하지만 지금의 넌 막 새장을 벗어난 작은 새 한 마리일 뿐이야.+저기 앞에 연기가 솟아오르는 게 보이지? 방금 철혈이 또 보급소대를 처리했나 본데.+여기는 진짜 전장이야. "베스피드"나 "예거", 혹은 "디너게이트" 몇 마리가 네 목숨을 앗아갈 수도 있단 말이지.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:그럼 어째서 절 데리고 들어오신 거죠?
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:누가 널 도와달라고 돈을 줬거든. 네가 네 발로 사지로 걸어간다고 해도 난 널 도와야 하는 사람이라고.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:페르시카 씨... 말인가요?
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:머리가 제법 잘 돌아가잖아.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:하지만 전 페르시카 씨에게 아무것도 들은 게 없는걸요. 당신은 대체 누구시죠?
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:난 말이지......
+NPC-Ange(0)<Speaker></Speaker>;M4A1(0)||:......안젤리아가 M4A1을 훑어봤다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:난 어디서든 흔히 볼 수 있는 용병일 뿐이야. 받은 돈만큼 일하지. 별로 특별한 것도 없어.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:그렇다면...... 방금 그건 가짜 신분증인가요?
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:군 측의 보안은 결코 만만하게 볼 수 없지만, 난 이 방면의 전문가거든.+그리고 너무 걱정하지 마. 이번에는 나만의 방식으로 너희들을 도와주러 온 거니까...... 뭐 문제 있어?
+NPC-Ange(0);M4A1(0)<Speaker></Speaker>||:......M4A1은 잠시 침묵했다.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:이다음에는 어떻게 해야 할지 가르쳐주세요.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:뭐?
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:방금 당신이 페르시카 씨에게 돈을 받고 절 도우러 오셨다고 하셨잖아요.+저...... 이다음엔 뭘 어떻게 해야 좋을지 모르겠어서......
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:넌 아무런 준비도 없이, 무모하게 혼자 군사 지역으로 들어가려 했던 거야?
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:전 제 팀으로..... 제 친구들 곁으로 돌아가서 철혈의 엘더 브레인을 찾아 결판을 내야 한다는 생각만 들어요.+하지만, 목적을 달성하기 위한 방법은 모르고 있어요......+저한테 무슨 문제가 있어서 이렇게 된 건지...... 모든 게 엉망이에요......
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:넌 더 굳세지고 싶어 하지만, 애초부터 그런 성격이 아니라서 그래.  너에겐 확실히 어려운 일이지.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:전......
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:앞쪽에 작은 거점이 있으니까 안에서 기다리도록 하자.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:뭘요?
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:네 지휘관이 널 데리러 이쪽으로 올 거야. 내가 도와줄 테니 날 믿어.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:정말......인가요?
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:그래.+ 내가 하고 싶어서 하는 건 아니지만 너에게 다시 한번 의지를 심어주겠어.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:다시 한번이라뇨?
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:네가 여기 왔다는 건 이미 스스로 길을 선택했다는 거야.+너 스스로 선택할 수 있다면 답은 이미 나와 있는 거나 다름없지.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:하지만 그 답이란 게 명령에서 나온 게 아니다 보니 전 그게 정확한 판단인지 알 수가 없어요......
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:인형은 원래 그런 식으로 설계되어 있어. 하지만 넌 달라. 넌 특별하지.+자신이 선택한 결과에 대한 책임을 져야 하기 때문에, 선택은 고통스러운 거야.+하지만 오직 네 선택에 대한 책임을 짐으로서 더욱 강해질 테고, 지금보다 더 강해지고 나서야 너 자신의 운명을 스스로 결정할 수 있는 거야.
+NPC-Ange(0);M4A1(0)<Speaker>M4A1</Speaker>||:자신의 운명......
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;M4A1(0)||:네가 받은 모든 훈련은 오직 이날만을 위해서가 아니었나? AR팀의 M4A1?
+M4A1(0)<Speaker></Speaker>||<黑屏1>:......안젤리아는 손을 흔들고서는 자리를 떠났다.
+안젤리아()<Speaker>안젤리아</Speaker>||<黑屏2><BIN>9</BIN>:그때와는 달라, 넌 이미 변했어.+계속해서 변해가라고.+(그래야만 유일한 희망이 될 거야. 그들을 막을 희망이 말이지......)
+()||<黑屏1><BGM>BGM_Empty</BGM>:............
+()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM><黑屏2>:......같은 시각, S11 구역의 그리폰 지휘 거점.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:지휘관님, 저희 보급 물자가 무사히 기지에 도착했다고 해요! 이제 군 측에서 명령이 내려올 때까지 기다리는 것만 남았어요!+앗? 제가 방해한 건가요?+정말 죄송해요. 하지만 이렇게 중요한 작전을 앞두고 두근거림을 감출 수 없어요! 그런데 지휘관님은 하나도 긴장되지 않으신가 봐요? 이렇게 아침 일찍부터 일어나시는 건 엄청 드문 일이잖아요!+그렇죠...... 갑작스레 이런 명령을 받으면 누구라도 가만있지 못할 거예요.+마침내...... 철혈의 엘더 브레인과의 결전의 날이 찾아왔네요.+오랫동안 싸워왔지만, 정말 이런 시간이 오다니 오히려 어찌할 바를 모르겠어요.+게다가 이번 작전은 그리폰과 군부의 첫 연합 작전이니 생각만큼 순조롭게 흘러갈지......+.....네? 말이 너무 많다구요? 지휘관님! 어떻게 부관한테 그런 말을 하실 수가 있으세요!+어쨌든! 더 생각해봤자 소용없으니 얌전히 군에서 내리는 명령만 들으면 될 거라구요!+지휘관님, 최전방에서 싸울 준비를 해두세요! 저도 지휘관님을 위해서 최대한 열심히 서포트할 테니까요!
+NPC-Kalin(0)<Speaker></Speaker>||:......지휘실로 통신이 걸려왔다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:왔어요, 왔어! 분명 군에서 명령이 내려온 걸 거예요!
+NPC-Kalin(0);NPC-Helian(0)<Speaker></Speaker><通讯框>||:......삑
+NPC-Kalin(0);NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:카리나, 너도 마침 여기 있었나. 잘됐군.
+NPC-Kalin(3)<Speaker>카리나</Speaker>);NPC-Helian(0)||:에이 뭐예요...... 헬리안 씨네요......
+NPC-Kalin(3);NPC-Helian(0)<Speaker>헬리안</Speaker>||:어째서 실망한 표정을 짓는 거지......+지휘관님의 제대는 현재 작전 구역에 도착했지만 다른 지휘관들은 아직 후방에 있으므로 지휘관님께 한 가지 중요한 임무를 부탁드리겠습니다.
+NPC-Kalin(2)<Speaker>카리나</Speaker>);NPC-Helian(0)||:오옷! 이번 작전은 역시나 총공격이군요!
+NPC-Kalin(2);NPC-Helian(0)<Speaker>헬리안</Speaker>||<黑点1>:5분 전, 철혈이 다수의 거점에서부터 기습을 걸어와서 보급에 차질을 빚고 있습니다.+저희 정찰 부대가 어느 거점인지 지도상에 표시해놓았으니 원활한 보급을 위해 지금 당장 철혈을 배제해주시기 바랍니다.
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<BIN>10</BIN><BGM>BGM_War</BGM><黑点2>:이곳에 있는 철혈 거점인가 보네요?
+NPC-Kalin(0);NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:그렇습니다. 중요한 작전이니만큼 절대로 대충 처리해서는 안 됩니다. 특히 이곳은 철혈의 본거지니까 더더욱.+그러니 이 임무를 여러분께 맡기겠습니다, 괜찮습니까?+......좋습니다. 지휘관님이야말로 저희가 가장 신뢰하고 있는 사람입니다. 그럼 행운을 빌겠습니다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>;NPC-Helian(0)||<黑点1>:본격적인 작전으로 들어가기 전에 몸풀기용으로 딱 좋겠는걸요? 빨리 처리해버리도록 하죠, 지휘관님!
+()||<黑点2>:

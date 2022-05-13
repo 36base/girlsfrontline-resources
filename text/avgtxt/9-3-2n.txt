@@ -1,52 +1,52 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>99</BIN><Night><SE2>Gunfight</SE2><BGM>BGM_Boss</BGM>:......
-T77(0)<Speaker>T77</Speaker>||:이런, 막다른 길이다.
-M4A1(0)<Speaker>M4-1</Speaker>||:길이 막혔어요...?!
-T65(0)<Speaker>T65</Speaker>||:T77 너 길 안내 똑바로 안 해!? 우리 여기서 죽으면 다 너 때문이야!
-m1(0)<Speaker>개런드</Speaker>||<CGDelay>0.2</CGDelay>:더는 도망칠 수가 없어요...
-BossJustice(0)<Speaker>저지</Speaker>||:국면은 정해졌으니, 긴 말을 생략하마.+M4A1, 무기를 버리고 엄폐물에서 나와라, 그럼 사지 멀쩡하게 데려가 주겠다.
-M4A1(3)<Speaker>M4-1</Speaker>||:저... 전 M4 씨가 아니라니까요!
-BossJustice(0)<Speaker>저지</Speaker>||:AR팀의 리더란 자가 그런 궤변으로 목숨을 구걸하다니, 자존심도 없나?
-M4A1(3)<Speaker>M4-1</Speaker>||:전혀 듣지를 않아...
-T65(0)<Speaker>T65</Speaker>||:긍정적으로 생각해, M3 선배.+모처럼 철혈의 기지를 견학할 기회라 쳐...
-BossJustice(0)<Speaker>저지</Speaker>||:솔직히, 지금 네 모습에 진심으로 실망했다, M4A1.+리더로서의 자질은 눈곱만큼도 안 보이고, 심지어는 위장한 신호조차 그리폰의 그 "주유기" 녀석이라니. 그렇게까지 숨어 다니고 싶었나?
-M4A1(0)<Speaker>M4-1</Speaker>||:......+주유기?
-BossJustice(0)<Speaker>저지</Speaker>||:마지막 경고다.+주인님께서 원하시는 건 너의 마인드맵이다. 저항하지 않고 얌전히 나온다면, 고통 없이 데려가 주지.
-T65(0)<Speaker>T65</Speaker>||:아아... 이제 끝장이구나...
-M4A1(0)<Speaker>M4-1</Speaker>||:<color=#FF0000>주유기?</color>
-BossJustice(0)<Speaker>저지</Speaker>||<CGDelay>0.7</CGDelay>:끝까지 무시하겠다는 거냐. 좋다, 그렇다면――
-()<Speaker>？？？</Speaker>||<BGM>BGM_Empty</BGM><震屏>:꼼짝 마라!
-BossJustice(0)<Speaker>저지</Speaker>||<CGDelay>0.3</CGDelay>:누구냐.
-()<Speaker></Speaker>||<BGM>BGM_Reverse</BGM>:T65 일행의 길을 가로막는 언덕 위에, 누군가가 나타났다.
-M16(3)<Speaker>M16A1</Speaker>||:거기까지다, 철혈의 쓰레기.+내 동생한테서 손 떼시지.
-BossJustice(0)<Speaker>저지</Speaker>||:너는...?! 네가 어째서 여기 있는 거지?+말도 안 돼, 넌 분명 드리머가 주인님께 끌고 갔을 터인데...?
-M16(3)<Speaker>M16A1</Speaker>||:드리머 말이야?+네가 아는 드리머는 그렇게 믿음직한 녀석이었냐? 다시 한번 잘 생각해 보시지...
-BossJustice(0)<Speaker>저지</Speaker>||:드리머 자식... 그딴 일조차 똑바로 처리 안 하고 뭐 하는 거야?
-M16(3)<Speaker>M16A1</Speaker>||:그 어리숙한 마인드맵으론 이해하기도 힘들겠지.+나머진 네 피웅덩이에 누워서 천천히 생각해 보라고.
-T65(0)<Speaker>T65</Speaker>||:M16... 선배...?
-T65(0)<Speaker>T65</Speaker><Shake>||:M16 선배?!
-M4A1(0)<Speaker>M4-1</Speaker>||:이거... 설마 꿈인가요?
-m1(0)<Speaker>개런드</Speaker>||:M16 씨...+...아! T65 씨, 카메라요! 빨리!
-T65(0)<Speaker>T65</Speaker>||:맞다!!
-T65(0)<Speaker>T65</Speaker>||<震屏>:빨리 빨리 빨리...+아아아 이 고물 카메라! 왜 하필이면 이런 때에 안 켜지는 거야!+불량률 0%라면서어어!
-M4A1(0)<Speaker>M4-1</Speaker>||:T65 씨, 조심해요!
-()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1>:퍼엉!
-T65(0)<Speaker>T65</Speaker>||:휴우... 하마터면 맞을 뻔했어...+이거 녹화 버튼 대체 어느 거야!?+아오 짜증 나! 이 골동품은 대체 어떻게 쓰는 거냐고!
-T77(0)<Speaker>T77</Speaker>||:선배, 불 들어왔어.+이미 한참 전부터 녹화 중이야. 렌즈 덮개 열어야지.
-T65(0)<Speaker>T65</Speaker>||<震屏>:응? ...아, 진짜네.
-T77(0)<Speaker>T77</Speaker>||:저거... 진짜야...?!+진짜 M16 선배야?
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타탕!+다른 방향에서 총탄이 저지를 향해 매섭게 날아들었다.
-M1928A1(0)<Speaker>M1928A1</Speaker>||<震屏>:발 멈추지 마!+당장 철수 지점으로 이동해!
-m1(0)<Speaker>개런드</Speaker>||:톰슨 씨!+M16... M16 씨가...
-M1928A1(0)<Speaker>M1928A1</Speaker>||:알아, 나도 보여.+어쨌든 뭘 멍하니 있어?+총부리를 겨눈 철혈 앞에서 도망칠 기회가 흔한 줄 알아?! 움직여!
-BossJustice(0)<Speaker>저지</Speaker>||:헛수고다.
-()<Speaker></Speaker>||<SE1>Explode</SE1>:퍼엉!
-M1928A1(0)<Speaker>M1928A1</Speaker>||:크윽...!+제길... 발목이...
-M14(0)<Speaker>M14</Speaker>||:대장!!
-m1(0)<Speaker>개런드</Speaker>||:M3 씨, 부축해 주세요! 빨리요!
-M4A1(3)<Speaker>M4-1</Speaker>||:지금 가요!
-()<Speaker></Speaker>||:......
-BossJustice(0)<Speaker>저지</Speaker>||:비켜라. 주인님의 명령이 최우선이다.+너의 처우에 대해선 명령받지 않았지만, 나를 방해한다면 설령 너라 해도 여기서 즉결심판하겠다.+M16A1.
-M16(3)<Speaker>M16A1</Speaker>||:그게 마지막으로 남길 말이냐?
-()<Speaker></Speaker>||<白屏1>0,5</白屏1>:M16이 저지를 향해 무언가를 던졌다.+파앗!
-()<Speaker>저지</Speaker>||<BIN>183</BIN><白屏2>0,0.9</白屏2><黑屏1>0,0.7</黑屏1>:서... 섬광탄...?!
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>99</BIN><Night><SE2>Gunfight</SE2><BGM>BGM_Boss</BGM>:......
+T77(0)<Speaker>T77</Speaker>||:이런, 막다른 길이다.
+M4A1(0)<Speaker>M4-1</Speaker>||:길이 막혔어요...?!
+T65(0)<Speaker>T65</Speaker>||:T77 너 길 안내 똑바로 안 해!? 우리 여기서 죽으면 다 너 때문이야!
+m1(0)<Speaker>개런드</Speaker>||<CGDelay>0.2</CGDelay>:더는 도망칠 수가 없어요...
+BossJustice(0)<Speaker>저지</Speaker>||:국면은 정해졌으니, 긴 말을 생략하마.+M4A1, 무기를 버리고 엄폐물에서 나와라, 그럼 사지 멀쩡하게 데려가 주겠다.
+M4A1(3)<Speaker>M4-1</Speaker>||:저... 전 M4 씨가 아니라니까요!
+BossJustice(0)<Speaker>저지</Speaker>||:AR팀의 리더란 자가 그런 궤변으로 목숨을 구걸하다니, 자존심도 없나?
+M4A1(3)<Speaker>M4-1</Speaker>||:전혀 듣지를 않아...
+T65(0)<Speaker>T65</Speaker>||:긍정적으로 생각해, M3 선배.+모처럼 철혈의 기지를 견학할 기회라 쳐...
+BossJustice(0)<Speaker>저지</Speaker>||:솔직히, 지금 네 모습에 진심으로 실망했다, M4A1.+리더로서의 자질은 눈곱만큼도 안 보이고, 심지어는 위장한 신호조차 그리폰의 그 "주유기" 녀석이라니. 그렇게까지 숨어 다니고 싶었나?
+M4A1(0)<Speaker>M4-1</Speaker>||:......+주유기?
+BossJustice(0)<Speaker>저지</Speaker>||:마지막 경고다.+주인님께서 원하시는 건 너의 마인드맵이다. 저항하지 않고 얌전히 나온다면, 고통 없이 데려가 주지.
+T65(0)<Speaker>T65</Speaker>||:아아... 이제 끝장이구나...
+M4A1(0)<Speaker>M4-1</Speaker>||:<color=#FF0000>주유기?</color>
+BossJustice(0)<Speaker>저지</Speaker>||<CGDelay>0.7</CGDelay>:끝까지 무시하겠다는 거냐. 좋다, 그렇다면――
+()<Speaker>？？？</Speaker>||<BGM>BGM_Empty</BGM><震屏>:꼼짝 마라!
+BossJustice(0)<Speaker>저지</Speaker>||<CGDelay>0.3</CGDelay>:누구냐.
+()<Speaker></Speaker>||<BGM>BGM_Reverse</BGM>:T65 일행의 길을 가로막는 언덕 위에, 누군가가 나타났다.
+M16(3)<Speaker>M16A1</Speaker>||:거기까지다, 철혈의 쓰레기.+내 동생한테서 손 떼시지.
+BossJustice(0)<Speaker>저지</Speaker>||:너는...?! 네가 어째서 여기 있는 거지?+말도 안 돼, 넌 분명 드리머가 주인님께 끌고 갔을 터인데...?
+M16(3)<Speaker>M16A1</Speaker>||:드리머 말이야?+네가 아는 드리머는 그렇게 믿음직한 녀석이었냐? 다시 한번 잘 생각해 보시지...
+BossJustice(0)<Speaker>저지</Speaker>||:드리머 자식... 그딴 일조차 똑바로 처리 안 하고 뭐 하는 거야?
+M16(3)<Speaker>M16A1</Speaker>||:그 어리숙한 마인드맵으론 이해하기도 힘들겠지.+나머진 네 피웅덩이에 누워서 천천히 생각해 보라고.
+T65(0)<Speaker>T65</Speaker>||:M16... 선배...?
+T65(0)<Speaker>T65</Speaker><Shake>||:M16 선배?!
+M4A1(0)<Speaker>M4-1</Speaker>||:이거... 설마 꿈인가요?
+m1(0)<Speaker>개런드</Speaker>||:M16 씨...+...아! T65 씨, 카메라요! 빨리!
+T65(0)<Speaker>T65</Speaker>||:맞다!!
+T65(0)<Speaker>T65</Speaker>||<震屏>:빨리 빨리 빨리...+아아아 이 고물 카메라! 왜 하필이면 이런 때에 안 켜지는 거야!+불량률 0%라면서어어!
+M4A1(0)<Speaker>M4-1</Speaker>||:T65 씨, 조심해요!
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1>:퍼엉!
+T65(0)<Speaker>T65</Speaker>||:휴우... 하마터면 맞을 뻔했어...+이거 녹화 버튼 대체 어느 거야!?+아오 짜증 나! 이 골동품은 대체 어떻게 쓰는 거냐고!
+T77(0)<Speaker>T77</Speaker>||:선배, 불 들어왔어.+이미 한참 전부터 녹화 중이야. 렌즈 덮개 열어야지.
+T65(0)<Speaker>T65</Speaker>||<震屏>:응? ...아, 진짜네.
+T77(0)<Speaker>T77</Speaker>||:저거... 진짜야...?!+진짜 M16 선배야?
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타탕!+다른 방향에서 총탄이 저지를 향해 매섭게 날아들었다.
+M1928A1(0)<Speaker>M1928A1</Speaker>||<震屏>:발 멈추지 마!+당장 철수 지점으로 이동해!
+m1(0)<Speaker>개런드</Speaker>||:톰슨 씨!+M16... M16 씨가...
+M1928A1(0)<Speaker>M1928A1</Speaker>||:알아, 나도 보여.+어쨌든 뭘 멍하니 있어?+총부리를 겨눈 철혈 앞에서 도망칠 기회가 흔한 줄 알아?! 움직여!
+BossJustice(0)<Speaker>저지</Speaker>||:헛수고다.
+()<Speaker></Speaker>||<SE1>Explode</SE1>:퍼엉!
+M1928A1(0)<Speaker>M1928A1</Speaker>||:크윽...!+제길... 발목이...
+M14(0)<Speaker>M14</Speaker>||:대장!!
+m1(0)<Speaker>개런드</Speaker>||:M3 씨, 부축해 주세요! 빨리요!
+M4A1(3)<Speaker>M4-1</Speaker>||:지금 가요!
+()<Speaker></Speaker>||:......
+BossJustice(0)<Speaker>저지</Speaker>||:비켜라. 주인님의 명령이 최우선이다.+너의 처우에 대해선 명령받지 않았지만, 나를 방해한다면 설령 너라 해도 여기서 즉결심판하겠다.+M16A1.
+M16(3)<Speaker>M16A1</Speaker>||:그게 마지막으로 남길 말이냐?
+()<Speaker></Speaker>||<白屏1>0,5</白屏1>:M16이 저지를 향해 무언가를 던졌다.+파앗!
+()<Speaker>저지</Speaker>||<BIN>183</BIN><白屏2>0,0.9</白屏2><黑屏1>0,0.7</黑屏1>:서... 섬광탄...?!

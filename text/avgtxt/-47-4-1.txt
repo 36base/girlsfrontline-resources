@@ -1,74 +1,74 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BGM>BGM_Brain</BGM><BIN>367</BIN><黑屏2>:갑판 위.
-MDR(4)<Speaker>MDR</Speaker>||:얼레...? 기억상 분명 이쪽이었는데?
-Welrod(2)<Speaker>웰로드</Speaker>||:언제부턴가 그 보안 인형들이 종적을 감췄다. 이상하군.
-Lewis(9)<Speaker>루이스</Speaker>||:앗, 저기 수영장에!
-MDR(4)<Speaker>MDR</Speaker>||:수영장?+엑, 보안 인형이잖아?
-()<Speaker></Speaker>||:인형들은 바로 경계 태세를 취했지만, 아까까지만 해도 가차없이 공격해 오던 보안 인형은 하반신을 수영장 물에 담근 채로 엎어져 꼼짝도 하지 않고 있었다.
-MDR(4)<Speaker>MDR</Speaker>||:저 녀석... 왜 저래? 설마 반신욕 중은 아니지?
-M200(4)<Speaker>M200</Speaker>||:여러분! 이것 좀 보세요!
-()<Speaker></Speaker>||:M200의 외침에 인형들이 수영장에 가까이 가 보니, 물속에 보안 인형들이 7기나 가라앉아 있었다.
-Welrod(2)<Speaker>웰로드</Speaker>||:이건... 썬더가 한 건가?
-Lewis(9)<Speaker>루이스</Speaker>||:아니, 상처 하나 없이 깨끗한 게 해킹당해서 스스로 물속으로 뛰어든 거야... 응?
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:웰로드가 물가에 엎어진 보안 인형을 살펴보던 중 손에 쥐어져 있는 익숙한 물건을 발견했다.
-MDR(4)<Speaker>MDR</Speaker>||:에엥...? 우리가 보랜스노한테 준 통신기잖아?+뭐야 그럼, 그 사람이 이놈들을 해치웠다고?
-Welrod(2)<Speaker>웰로드</Speaker>||:......
-Lewis(7)<Speaker>루이스</Speaker>||:괴... 굉장하다...
-M200(4)<Speaker>M200</Speaker>||:통신기는 어때요?
-Welrod(2)<Speaker>웰로드</Speaker>||<SE1>AVG_tele_connect</SE1>:멀쩡하군. 그런데... 지도가 들어있다.
-M200(4)<Speaker>M200</Speaker>||:지도요?
-Lewis(7)<Speaker>루이스</Speaker>||:에게해 호의 내부 구조도인데... 관계자용이군. 선내의 모든 통로가 표기되어 있어. 특등실 구역 전체도 포함해서.
-MDR(4)<Speaker>MDR</Speaker>||:문제의 명배우가 남긴 게 분명하네.
-Welrod(2)<Speaker>웰로드</Speaker>||:보안 인형을 처리할 실력이 있는데다, 이런 것까지 남기다니... 언제든지 이 배를 떠날 수 있단 뜻인가?
-Lewis(9)<Speaker>루이스</Speaker>||:그건 모르겠지만, 별표 그려진 화물칸을 봐봐. 주석이...+"썬더".
-MDR(4)<Speaker>MDR</Speaker>||:설마 썬더가 거기 있다는 거야?+거기 있다는 건 둘째 쳐도 그 사람이 그렇 어떻게 알고 있대?
-Welrod(2)<Speaker>웰로드</Speaker>||:이유야 어쨌든 지금으로선 이게 유일한 단서다.
-Lewis(9)<Speaker>루이스</Speaker>||:함정이더라도 빠질 수밖에 없겠는걸.+동료는 절대 버리고 가지 않아.
-MDR(4)<Speaker>MDR</Speaker>||:네 우상님은 어쩌고?
-Lewis(9)<Speaker>루이스</Speaker>||:아이 참, 이거랑 그거랑 같아?! 보랜스노야 하늘 저 높은 곳의 우상이지만 우린 동고동락하는 동료잖아!
-Welrod(2)<Speaker>웰로드</Speaker>||:그 말은 썬더를 찾았을 때까지 아껴 두도록.
-M200(4)<Speaker>M200</Speaker>||:썬더 씨는 분명 곤경에 처해 있을 거예요, 가서 멋지게 구하자고요!
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>222</BIN>:크루즈선의 어딘가.
-()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1><震屏3>:퍽!
-()<Speaker></Speaker>||:어두운 화물칸에서, 보안 인형의 주먹이 썬더의 얼굴을 강타했다.
-NPC_girill(2)<Speaker>발렌타인</Speaker>||:젠장!+전자 장비 좀 진작에 준비해 둘 걸 그랬나? 보통 수단으론 인형 입은 도통 못 열겠단 말이야...
-Thunder50(2)<Speaker>썬더</Speaker>||:보랜...스노...
-NPC_girill(2)<Speaker>발렌타인</Speaker>||:이제 그냥 좀 말해 줄래, 인형 아가씨? "그거" 어딨어?
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:썬더는 쇠사슬로 의자에 완전히 포박되어, 꼼짝달싹하지 못했다.
-NPC_girill(2)<Speaker>발렌타인</Speaker>||:다음 항구에 정박하기 전에 어디다 숨겼는지 제발 부탁이니까 털어놔.+안 그럼 나도 어쩔 수 없다고, 널 그대로 바다에다 던지는 수밖에.
-Thunder50(2)<Speaker>썬더</Speaker>||:......
-NPC_girill(2)<Speaker>발렌타인</Speaker>||:고개 들어.
-()<Speaker></Speaker>||<SE1>Rope</SE1>:보안 인형은 썬더의 머리채를 잡아당겨 고개를 들게 했다.
-Thunder50(2)<Speaker>썬더</Speaker><Shake>0.1</Shake>||<SE1>AVG_Punch_Hit</SE1><震屏3>:윽...
-NPC_girill(0)<Speaker>발렌타인</Speaker>||:네 주인님은 내가 진작에 해치웠거든? 그러니 눈치 적당히 봐도 돼.+"머메이드 하트", 어딨어? 모른다고 하진 않겠지?
-Thunder50(2)<Speaker>썬더</Speaker>||:각 단어는 당연히 알지만... 그 조합은 모르겠는걸...+우린... 당신이 말하는 물건 안 가져갔어...
-()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:발렌타인은 혀를 차며 탁상에서 권총을 집어 들고 탄약을 확인했다.
-NPC_girill(0)<Speaker>발렌타인</Speaker>||:쯧, 진짜 어쩔 수 없네. 사람은 많이 죽여봤지만...+인형은 이번이 처음이군.
-()<Speaker></Speaker>||<SE1>Select</SE1>:발렌타인은 총구를 썬더의 어깨에 가져다 대고, 방아쇠에 걸친 손가락에 천천히 힘을 주었다.
-()<Speaker></Speaker>||:......
-NPC_girill(0)<Speaker>발렌타인</Speaker>||:내 첫 상대가 되다니, 운이 좋구나 인형 아가씨야.
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><SE1>AVG_rifle_finalshot_h</SE1>:타앙!
-Thunder50(2)<Speaker>썬더</Speaker>||:!!!
-NPC_girill(3)<Speaker>발렌타인</Speaker><Shake>0.1</Shake>||:으악!
-()<Speaker></Speaker>||:발렌타인의 권총이 손에서 멀리 튕겨나갔다. 그의 손은 피로 빨갛게 물들었고, 충격에 휘청이며 썬더에게서도 몇 걸음 멀어졌다.+그와 동시에, 높다란 화물로 그늘진 구석 밖으로 그림자가 홀연히 뻗어나왔다.
-NPC_girill(3)<Speaker>발렌타인</Speaker>||:누구냐!
-()<Speaker>？？？</Speaker>||:"너의 눈을 가리는 것은 이 어둠이 아니라 너 자신의 어리석음이어라. 때는 왔도다, 장막을 들춰 던지고 심판을 내릴지어니!"
-Lewis(11)<Speaker>루이스</Speaker>||<BGM>BGM_War</BGM>:내가 왔다!
-Thunder50(2)<Speaker>썬더</Speaker>||:...루이스.
-Lewis(0)<Speaker>루이스</Speaker>||:널 납치한 사람이 보랜스노가 아니라서 내심 기뻐서 그만~+영화 명대사가 절로 튀어나왔네!
-NPC_girill(3)<Speaker>발렌타인</Speaker>||:네놈들이군...
-Thunder50(2)<Speaker>썬더</Speaker>||:조심해...!
-()<Speaker></Speaker>||<BIN>222</BIN><SE1>AVG_20Winter_Open_Light</SE1>:번쩍!
-()<Speaker></Speaker>||:탐조등이 일제히 켜져, 화물칸이 단숨에 밝아졌다.+주위엔 군용 무기가 산더미처럼 쌓여 있었고, 수많은 보안 인형들이 대기 상태에서 전투 태세로 전환하기 시작했다.
-Thunder50(2)<Speaker>썬더</Speaker>||:밀수한 군용 무기야...!
-Lewis(11)<Speaker>루이스</Speaker>||:무... 무기 밀수?!
-NPC_girill(2)<Speaker>발렌타인</Speaker>||:이번 거래는 받을 때부터 누가 자꾸 방해하더라니, 네놈들이었냐? 아주 살기가 싫은가 봐?
-()<Speaker></Speaker>||:발렌타인의 지시에 보안 인형들이 일제히 루이스에게 달려들었다.
-()<Speaker></Speaker>||<震屏3><SE2>Gunfight</SE2>:하지만 앞장섰던 인형들이 맹렬한 총성과 함께 걸레짝이 되어 바닥에 널브러졌다.
-M200(4)<Speaker>M200</Speaker>||:밖에서 기다리기만 했다고 우릴 장식이라 착각하면 큰코다치죠!
-()<Speaker></Speaker>||:루이스의 동료 전술인형들이 하나둘씩 모습을 드러냈고, 눈 깜짝할 새에 썬더의 몸에 감긴 쇠사슬을 풀고 그녀를 구했다.
-()<Speaker></Speaker>||<SE1>Select</SE1>:그리고 모두가 다시 한자리에 모여, 무기를 발렌타인에게 겨눴다.+하지만 발렌타인은 그 상황에도 코웃음을 쳤다.
-NPC_girill(2)<Speaker>발렌타인</Speaker>||:하! 이봐요 아가씨들, 내가 누군지 정말 몰라? 특급 암거래상이야. 무기쯤이야 얼마든지 있다고.
-NPC_girill(2)<Speaker>발렌타인</Speaker>||<SE1>AVG_door_storehouse</SE1>:이거야 원, 나도 참 통도 크지. 이런 보물까지 구경시켜 주다니.+봐라! 이 세상에 단 하나뿐인 "슈퍼노바 기어"! 한 달 유지비만으로 너희 같은 인형은 수십 대 사고도 남아!+너무 싱겁게 끝나진 마라, 고물딱지 인형들아!
-()||<黑点1><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BGM>BGM_Brain</BGM><BIN>367</BIN><黑屏2>:갑판 위.
+MDR(4)<Speaker>MDR</Speaker>||:얼레...? 기억상 분명 이쪽이었는데?
+Welrod(2)<Speaker>웰로드</Speaker>||:언제부턴가 그 보안 인형들이 종적을 감췄다. 이상하군.
+Lewis(9)<Speaker>루이스</Speaker>||:앗, 저기 수영장에!
+MDR(4)<Speaker>MDR</Speaker>||:수영장?+엑, 보안 인형이잖아?
+()<Speaker></Speaker>||:인형들은 바로 경계 태세를 취했지만, 아까까지만 해도 가차없이 공격해 오던 보안 인형은 하반신을 수영장 물에 담근 채로 엎어져 꼼짝도 하지 않고 있었다.
+MDR(4)<Speaker>MDR</Speaker>||:저 녀석... 왜 저래? 설마 반신욕 중은 아니지?
+M200(4)<Speaker>M200</Speaker>||:여러분! 이것 좀 보세요!
+()<Speaker></Speaker>||:M200의 외침에 인형들이 수영장에 가까이 가 보니, 물속에 보안 인형들이 7기나 가라앉아 있었다.
+Welrod(2)<Speaker>웰로드</Speaker>||:이건... 썬더가 한 건가?
+Lewis(9)<Speaker>루이스</Speaker>||:아니, 상처 하나 없이 깨끗한 게 해킹당해서 스스로 물속으로 뛰어든 거야... 응?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:웰로드가 물가에 엎어진 보안 인형을 살펴보던 중 손에 쥐어져 있는 익숙한 물건을 발견했다.
+MDR(4)<Speaker>MDR</Speaker>||:에엥...? 우리가 보랜스노한테 준 통신기잖아?+뭐야 그럼, 그 사람이 이놈들을 해치웠다고?
+Welrod(2)<Speaker>웰로드</Speaker>||:......
+Lewis(7)<Speaker>루이스</Speaker>||:괴... 굉장하다...
+M200(4)<Speaker>M200</Speaker>||:통신기는 어때요?
+Welrod(2)<Speaker>웰로드</Speaker>||<SE1>AVG_tele_connect</SE1>:멀쩡하군. 그런데... 지도가 들어있다.
+M200(4)<Speaker>M200</Speaker>||:지도요?
+Lewis(7)<Speaker>루이스</Speaker>||:에게해 호의 내부 구조도인데... 관계자용이군. 선내의 모든 통로가 표기되어 있어. 특등실 구역 전체도 포함해서.
+MDR(4)<Speaker>MDR</Speaker>||:문제의 명배우가 남긴 게 분명하네.
+Welrod(2)<Speaker>웰로드</Speaker>||:보안 인형을 처리할 실력이 있는데다, 이런 것까지 남기다니... 언제든지 이 배를 떠날 수 있단 뜻인가?
+Lewis(9)<Speaker>루이스</Speaker>||:그건 모르겠지만, 별표 그려진 화물칸을 봐봐. 주석이...+"썬더".
+MDR(4)<Speaker>MDR</Speaker>||:설마 썬더가 거기 있다는 거야?+거기 있다는 건 둘째 쳐도 그 사람이 그렇 어떻게 알고 있대?
+Welrod(2)<Speaker>웰로드</Speaker>||:이유야 어쨌든 지금으로선 이게 유일한 단서다.
+Lewis(9)<Speaker>루이스</Speaker>||:함정이더라도 빠질 수밖에 없겠는걸.+동료는 절대 버리고 가지 않아.
+MDR(4)<Speaker>MDR</Speaker>||:네 우상님은 어쩌고?
+Lewis(9)<Speaker>루이스</Speaker>||:아이 참, 이거랑 그거랑 같아?! 보랜스노야 하늘 저 높은 곳의 우상이지만 우린 동고동락하는 동료잖아!
+Welrod(2)<Speaker>웰로드</Speaker>||:그 말은 썬더를 찾았을 때까지 아껴 두도록.
+M200(4)<Speaker>M200</Speaker>||:썬더 씨는 분명 곤경에 처해 있을 거예요, 가서 멋지게 구하자고요!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>222</BIN>:크루즈선의 어딘가.
+()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1><震屏3>:퍽!
+()<Speaker></Speaker>||:어두운 화물칸에서, 보안 인형의 주먹이 썬더의 얼굴을 강타했다.
+NPC_girill(2)<Speaker>발렌타인</Speaker>||:젠장!+전자 장비 좀 진작에 준비해 둘 걸 그랬나? 보통 수단으론 인형 입은 도통 못 열겠단 말이야...
+Thunder50(2)<Speaker>썬더</Speaker>||:보랜...스노...
+NPC_girill(2)<Speaker>발렌타인</Speaker>||:이제 그냥 좀 말해 줄래, 인형 아가씨? "그거" 어딨어?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:썬더는 쇠사슬로 의자에 완전히 포박되어, 꼼짝달싹하지 못했다.
+NPC_girill(2)<Speaker>발렌타인</Speaker>||:다음 항구에 정박하기 전에 어디다 숨겼는지 제발 부탁이니까 털어놔.+안 그럼 나도 어쩔 수 없다고, 널 그대로 바다에다 던지는 수밖에.
+Thunder50(2)<Speaker>썬더</Speaker>||:......
+NPC_girill(2)<Speaker>발렌타인</Speaker>||:고개 들어.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:보안 인형은 썬더의 머리채를 잡아당겨 고개를 들게 했다.
+Thunder50(2)<Speaker>썬더</Speaker><Shake>0.1</Shake>||<SE1>AVG_Punch_Hit</SE1><震屏3>:윽...
+NPC_girill(0)<Speaker>발렌타인</Speaker>||:네 주인님은 내가 진작에 해치웠거든? 그러니 눈치 적당히 봐도 돼.+"머메이드 하트", 어딨어? 모른다고 하진 않겠지?
+Thunder50(2)<Speaker>썬더</Speaker>||:각 단어는 당연히 알지만... 그 조합은 모르겠는걸...+우린... 당신이 말하는 물건 안 가져갔어...
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:발렌타인은 혀를 차며 탁상에서 권총을 집어 들고 탄약을 확인했다.
+NPC_girill(0)<Speaker>발렌타인</Speaker>||:쯧, 진짜 어쩔 수 없네. 사람은 많이 죽여봤지만...+인형은 이번이 처음이군.
+()<Speaker></Speaker>||<SE1>Select</SE1>:발렌타인은 총구를 썬더의 어깨에 가져다 대고, 방아쇠에 걸친 손가락에 천천히 힘을 주었다.
+()<Speaker></Speaker>||:......
+NPC_girill(0)<Speaker>발렌타인</Speaker>||:내 첫 상대가 되다니, 운이 좋구나 인형 아가씨야.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><SE1>AVG_rifle_finalshot_h</SE1>:타앙!
+Thunder50(2)<Speaker>썬더</Speaker>||:!!!
+NPC_girill(3)<Speaker>발렌타인</Speaker><Shake>0.1</Shake>||:으악!
+()<Speaker></Speaker>||:발렌타인의 권총이 손에서 멀리 튕겨나갔다. 그의 손은 피로 빨갛게 물들었고, 충격에 휘청이며 썬더에게서도 몇 걸음 멀어졌다.+그와 동시에, 높다란 화물로 그늘진 구석 밖으로 그림자가 홀연히 뻗어나왔다.
+NPC_girill(3)<Speaker>발렌타인</Speaker>||:누구냐!
+()<Speaker>？？？</Speaker>||:"너의 눈을 가리는 것은 이 어둠이 아니라 너 자신의 어리석음이어라. 때는 왔도다, 장막을 들춰 던지고 심판을 내릴지어니!"
+Lewis(11)<Speaker>루이스</Speaker>||<BGM>BGM_War</BGM>:내가 왔다!
+Thunder50(2)<Speaker>썬더</Speaker>||:...루이스.
+Lewis(0)<Speaker>루이스</Speaker>||:널 납치한 사람이 보랜스노가 아니라서 내심 기뻐서 그만~+영화 명대사가 절로 튀어나왔네!
+NPC_girill(3)<Speaker>발렌타인</Speaker>||:네놈들이군...
+Thunder50(2)<Speaker>썬더</Speaker>||:조심해...!
+()<Speaker></Speaker>||<BIN>222</BIN><SE1>AVG_20Winter_Open_Light</SE1>:번쩍!
+()<Speaker></Speaker>||:탐조등이 일제히 켜져, 화물칸이 단숨에 밝아졌다.+주위엔 군용 무기가 산더미처럼 쌓여 있었고, 수많은 보안 인형들이 대기 상태에서 전투 태세로 전환하기 시작했다.
+Thunder50(2)<Speaker>썬더</Speaker>||:밀수한 군용 무기야...!
+Lewis(11)<Speaker>루이스</Speaker>||:무... 무기 밀수?!
+NPC_girill(2)<Speaker>발렌타인</Speaker>||:이번 거래는 받을 때부터 누가 자꾸 방해하더라니, 네놈들이었냐? 아주 살기가 싫은가 봐?
+()<Speaker></Speaker>||:발렌타인의 지시에 보안 인형들이 일제히 루이스에게 달려들었다.
+()<Speaker></Speaker>||<震屏3><SE2>Gunfight</SE2>:하지만 앞장섰던 인형들이 맹렬한 총성과 함께 걸레짝이 되어 바닥에 널브러졌다.
+M200(4)<Speaker>M200</Speaker>||:밖에서 기다리기만 했다고 우릴 장식이라 착각하면 큰코다치죠!
+()<Speaker></Speaker>||:루이스의 동료 전술인형들이 하나둘씩 모습을 드러냈고, 눈 깜짝할 새에 썬더의 몸에 감긴 쇠사슬을 풀고 그녀를 구했다.
+()<Speaker></Speaker>||<SE1>Select</SE1>:그리고 모두가 다시 한자리에 모여, 무기를 발렌타인에게 겨눴다.+하지만 발렌타인은 그 상황에도 코웃음을 쳤다.
+NPC_girill(2)<Speaker>발렌타인</Speaker>||:하! 이봐요 아가씨들, 내가 누군지 정말 몰라? 특급 암거래상이야. 무기쯤이야 얼마든지 있다고.
+NPC_girill(2)<Speaker>발렌타인</Speaker>||<SE1>AVG_door_storehouse</SE1>:이거야 원, 나도 참 통도 크지. 이런 보물까지 구경시켜 주다니.+봐라! 이 세상에 단 하나뿐인 "슈퍼노바 기어"! 한 달 유지비만으로 너희 같은 인형은 수십 대 사고도 남아!+너무 싱겁게 끝나진 마라, 고물딱지 인형들아!
+()||<黑点1><BIN>10</BIN>:

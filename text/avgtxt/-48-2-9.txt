@@ -1,83 +1,83 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Truth</BGM><BIN>129</BIN><SE1>AVG_tele_connect</SE1>:전화기의 벨소리가 요란하게 울렸다.+하지만 미아도, 넬레도 꿈쩍하지 않았다.+그렇게 벨이 네 차례 울리고, 자동 응답기로 넘어갔다.
-()<Speaker>낯선 남성 목소리</Speaker>||:<color=#00CCFF>이 역겨운 년아! 콱 죽어――</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:소리가 들리자마자 미아가 냅다 메시지 재생을 껐다. 어디의 불량 매스컴이 넬레의 신상정보를 유출했는지, 지난 며칠 간 그녀는 밤낮을 가리지 않고 걸려오는 악성 전화에 시달리는 중이었다.+또다시 전화기 벨소리가 울리자, 이번엔 미아가 신경질적으로 수신 버튼을 눌렀다.
-()<Speaker>낯선 여성 목소리</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>지옥에나 떨어져라 이 해충아! 너 때문에 난민들이 정부를 안 믿는――</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:미아가 통화를 끊고 전화기에서 손을 떼자마자 다시 전화가 걸려왔다.
-()<Speaker>낯선 남성 목소리</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>너 간첩이지? 당장 네 나라――</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:이번에도 미아는 중간에 통화를 끊어버렸다.
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레, 그냥 전화선 뽑아버리자니까? 넌 지금 안정을 취해야 해...
-NPC-Nele(1)<Speaker>넬레</Speaker>||:......
-()<Speaker></Speaker>||:또다시 전화벨이 울리자, 미아가 반사적으로 수신 거부 버튼을 누르려다 가까스로 발신자가 "그레이 선생님"인 것을 보았다.
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:...그레이야.
-()<Speaker></Speaker>||:그 말에 넬레가 눈을 번쩍 뜨고 전화기에 달려들어, 수화기를 집었다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>임시 통보를 전달합니다. 불가항적인 요인으로 인해 사무실을 이용할 수 없는 바, 갈라테아 그룹은 일시적으로 연구 센터를 폐쇄하기로 결정했습니다.</color>+<color=#00CCFF>그동안 특별한 사항이 아닌 이상 연구 센터로의 복귀를 금하며, 질문이 있을 경우 인사팀장에게 문의하십시오.</color>
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:단체 메시지네...
-NPC-Nele(1)<Speaker>넬레</Speaker>||:...응.
-()<Speaker></Speaker>||:수화기를 내려놓은 넬레는 힘없이 풀썩 소파에 엎어졌다.
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:왜 그래?
-APC556(2)<Position>0,120</Position>;NPC-Nele(1)<Speaker>넬레</Speaker>||:연구소 문 닫았다잖아... 다 내 탓이야...+그때 충동을 참기만 했어도, 이렇게까진 안 됐을 텐데...
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(1)||:그후로 슈타지한테서 연락 온 거 없잖아.
-APC556(2)<Position>0,120</Position>;NPC-Nele(2)<Speaker>넬레</Speaker>||:응...?+그, 그럼 약은 문제 없었고 나도 괜찮다는 건가!?
-APC556(3)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(2)||:그런 셈이지. 약에 정말 문제가 있었으면 연구소 문 닫는 정도론 안 끝났을걸?
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(2)||:그런데... 정작 약은 문제 없으면서 여전히 출근하지 말라는 건 역시 좀 이상하네.
-APC556(2)<Position>0,120</Position>;NPC-Nele(1)<Speaker>넬레</Speaker>||:선생님한테 메시지를 계속 보내봤는데, 답장 하나 없고...
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(1)||:기운내, 넬레. 정말 바쁜 걸지도 모르잖아. 사람들 앞에 나타나지 않은 것도 꽤 되지 않았어?
-APC556(2)<Position>0,120</Position>;NPC-Nele(1)<Speaker>넬레</Speaker>||:그러게... 대체 선생님께 무슨 일이 있는 걸까...+대학에서 선생님은 꼭 점심 아니면 저녁 시간대로 수업을 잡으셨는데... 연구 실험에 더 많은 노력을 들여야 한다면서.+올바른 의약품 전문가는 절대 실험을 아랫사람한테만 맡겨서는 안 된다, 현장 업무에 직접 참여하지 않는 사람은 프로젝트에 이름을 올릴 자격이 없다고, 선생님이 항상 강조하셨는데... 그런데...+그런데... 생각해 보니까, 연구 센터에 입사하고서 선생님을 직접 뵌 적이 거의 없었어...
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(1)||:말은 쉽지만 실천은 어렵다고들 하잖아.+아무리 "닥터 그레이"라도 스스로 한 말을 지키긴 어려웠단 거지 뭐.
-NPC-Nele(3)<Speaker>넬레</Speaker>||:서, 선생님은 절대 그런 분이 아니야!
-()<Speaker></Speaker>||:넬레가 소파 위에서 벌떡 일어나 방의 벽 한 면을 가득 장식한 논문을 가리키며 소리쳤다.
-NPC-Nele(3)<Speaker>넬레</Speaker>||:난 선생님이 다른 사람들과 다르니까 갈라테아에 들어간 거라고!
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(3)||:...넬레, 네가 스승을 엄청 존경한다는 건 나도 알아.+하지만... 그 사람, 네 생각만큼 단순하지 않을지도 몰라.+그 요원이 한 말도 아주 쌩뚱맞진 않다고 느끼지 않았어?
-APC556(2)<Position>0,120</Position>;NPC-Nele(1)<Speaker>넬레</Speaker>||:......응.+솔직히 그 사람이 한 말이 좀 신경쓰이긴 해. 하지만, 그렇다 해서 뭘 어쩌면 좋을지...
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(1)||:네가 뭘 어떻게 할 것까진 없어.+너와는 상관없는 일이잖아, 안 그래?
-NPC-Nele(3)<Speaker>넬레</Speaker>||:그게 무슨 소리야!+난――
-()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:그때, 누가 다급하게 현관문을 쾅쾅 두들겼다.
-APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>||:누구세요?
-()<Speaker>경비원</Speaker>||:경비원입니다! 지금 아파트가 난민들한테 포위당했어요!
-APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>||:그게 무슨...?
-()<Speaker>경비원</Speaker>||:오늘 아침 신문 말예요, "'이둔' 치사 사건 용의자, 석방되어 자택 복귀"요!+어디서 소문을 들었는진 몰라도 현수막까지 들고 지금 주위에 쫙 깔렸어요!+처음엔 많아봤자 몇십 명 정도여서 저희가 어떻게든 달래서 돌래보내려 했는데...+계속 더 나타난데다 지나가던 사람들이 보고 합세까지 하고, 입주민들 일부까지 끼어들었지 뭡니까.+저희만으론 도저히 감당이 안 돼요, 위험하니 아예 잠시 다른 곳으로 피하는 게 좋지 않을까요?
-APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>||:이봐요 아저씨, 지금 건물이 포위당했면서요! 그럼 우리가 어떻게 빠져나가요?+좀 골치아픈 일 생겼다고 입주자한테 나가 달라 하면 누가 이 아파트 경비원을 믿어요?+아무리 수가 많아도 무기도 없는 일반인들이잖아요, 정말 당신들이 어떻게 못 해요?
-()<Speaker>경비원</Speaker>||:그냥 아파트 경비원인데 뭘 어떡해요, 경찰도 아니고 총도 없는데!+일단 경비팀장님이 방금 경찰에 신고는 했는데, 솔직히 지금 상황으론 경찰서가 더 안전하지 않을까 싶어요.
-APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>||:.....
-()<Speaker>경비원</Speaker>||:그리고 미리 말씀드리는데, 그놈들이 벌써 아파트 안까지 들이닥쳐서 사진 들고 집집마다 찾는 중입니다.+입주민께 이런 소리 해서 정말 송구합니다만, 얼른 피신 안 하면 무슨 일 생겨도 저흰 몰라요.
-()<Speaker></Speaker>||:그리고 경비원은 도망치듯 사라졌다.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:미아는 복도 밖으로 저 아파트 아래를 살펴봤다.+경비원의 말대로, 아파트 아래는 바글거리는 군중들로 발 디딜 틈 없어, 어디로 나가든 바로 들킬 게 뻔했다.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:사태가 심각함을 파악한 미아는 냉큼 돌아와 문을 잠갔다.
-APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레... 긴급 사태야. 밖에 사람들이 쫙 깔렸어. 창문으로 뛰어내려도 들킬 거야.+...나 혼자선 널 지키면서 탈출하기 힘들겠어.
-NPC-Nele(1)<Speaker>넬레</Speaker>||:......
-()<Speaker></Speaker>||:미아는 하는 수 없이 어딘가로 연락했다.
-MG338(0)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여보세요, 미아?</color>
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:레니, 하필이면 이런 때에 연락해서 미안한데 도무지 다른 방법이 없어.+최대한 빨리 와 줘. 사람 한 명 구해서 나가야 해.
-MG338(0)<Speaker>레니</Speaker><通讯框>||:<color=#00CCFF>알겠습니다, 주소 주세요.</color>
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:미아는 주소를 전송한 다음, 한숨을 푹 쉬곤 방금부터 아무 말도 않는 넬레에게 다가갔다.
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레, 간단하게 짐 싸자. 레니가 오는대로 바로 나갈 거야.
-NPC-Nele(1)<Speaker>넬레</Speaker>||:...아파트가 통째로 포위됐다면, 머릿수 좀 늘린다고 빠져나갈 수 있는 게 아니잖아. 더 좋은 수가 없을까?
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:그건 그렇지. 우린 그저, 수단 방법 가리지 않고 널 지킬 수밖에 없어.+경비원 말대로 경찰이라도 나서지 않는 이상은 지금 상황을 수습하긴 어려울 거야.
-NPC-Nele(2)<Speaker>넬레</Speaker>||<BGM>BGM_Empty</BGM>:...그래!
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:응?
-NPC-Nele(3)<Speaker>넬레</Speaker>||:경찰은 아니지만, 그 사람 슈타지잖아! 빨리 연락해 봐!
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>84</BIN><BGM>m_avg_casual</BGM>:독일의 어느 물류 회사의 입구. J는 여전한 태도로 드문드문 사람들이 드나드는 회사 건물의 현관 너머로 모나가 관계자들과 대화하는 모습을 구경했다.+그리고 얼마 지나지 않아 모나가 돌아왔다.
-SP9(0)<Speaker>모나</Speaker>||:사측에게서 해당 운송 경로 구간의 데이터를 제공받았습니다.+대조 결과 실종 지점의 범위가 대폭 축소됐는데, K 요원과 합류한 뒤에 계속할까요?
-NPC-Keven(0)<Speaker>J</Speaker>;SP9(0)||:쫄따구한테 일일이 보고 말고 알아서 하세요~
-NPC-Keven(0);SP9(0)<Speaker>모나</Speaker>||:......+기술팀이 오늘 오후까지 이미지를 최대한 복원해 보내겠다고 했습니다. 운이 좋다면 새로운 단서를 찾을 수 있을 겁니다.
-NPC-Keven(0)<Speaker>J</Speaker>;SP9(0)||:딱 봐도 똥개 훈련인데, 너도 K도 왜 그리 진지한지 모르겠다.
-NPC-Keven(0);SP9(0)<Speaker>모나</Speaker>||:...J 요원.
-NPC-Keven(0)<Speaker>J</Speaker>||:듣고 있습니다~
-()<Speaker></Speaker>||:"띵!"하는 소리와 함께, 모나가 복원된 고화질 이미지를 전송받았다.
-SP9(0)<Speaker>모나</Speaker>||:이 로고는...
-()<Speaker></Speaker>||:모나가 보여준 이미지를 본 J의 눈도 휘둥그레졌다.+내내 대충대충이던 J의 태도를 단숨에 진지하게 만들기에 충분하고도 남는 로고였다.
-NPC-Keven(5)<Speaker>J</Speaker>||:갈라테아...
-()<Speaker></Speaker>||:이토록 진중한 기색의 J는 모나도 처음 보는 것 같았다.
-NPC-Keven(0)<Speaker>J</Speaker>||:흐음... 이러면 또 이야기가 다르지.+또 거기라니...
-()<Speaker></Speaker>||:때마침 J의 통신기가 수신음을 냈고, 수신 알림엔 J가 처음 보는 번호가 띄워졌다.
-NPC-Nele(0)<Speaker>넬레</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여보세요, J 요원 맞죠?</color>
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(0)||:어, 넬레 씨?
-NPC-Keven(0);NPC-Nele(0)<Speaker>넬레</Speaker>||:<color=#00CCFF>저 지금 아파트가 사람들한테 포위당해서 갇혔어요.</color>+<color=#00CCFF>경찰한텐 절대 알릴 수 없는 정보를 갖고 있는데, 그쪽이 아주 흥미로워 할 거라 보는데요.</color>
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(0)||:주소 불러요.
-NPC-Nele(0)<Speaker>넬레</Speaker>||:<color=#00CCFF>좋아요, 제 친구가 문앞에서 기다리고 있으니 만나서 같이 와 주세요. 이름은 "레니"예요.</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:넬레가 전화를 끊자마자 모든 정보가 전송됐다.+J는 곧바로 받은 위치로 향하려 했지만, 모나가 그의 앞을 가로막았다.
-SP9(0)<Speaker>모나</Speaker>||:J 요원, 적어도 저와 동행하세요.
-NPC-Keven(0)<Speaker>J</Speaker>||:그래그래 너 마음대로 하셔. 이 사건도 갈라테아가 연루됐는데, 갈라테아의 내부자가 제발로 접촉해 왔다고. 이 절호의 기회를 놓칠 수야 없지!
-()||<黑点1><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Truth</BGM><BIN>129</BIN><SE1>AVG_tele_connect</SE1>:전화기의 벨소리가 요란하게 울렸다.+하지만 미아도, 넬레도 꿈쩍하지 않았다.+그렇게 벨이 네 차례 울리고, 자동 응답기로 넘어갔다.
+()<Speaker>낯선 남성 목소리</Speaker>||:<color=#00CCFF>이 역겨운 년아! 콱 죽어――</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:소리가 들리자마자 미아가 냅다 메시지 재생을 껐다. 어디의 불량 매스컴이 넬레의 신상정보를 유출했는지, 지난 며칠 간 그녀는 밤낮을 가리지 않고 걸려오는 악성 전화에 시달리는 중이었다.+또다시 전화기 벨소리가 울리자, 이번엔 미아가 신경질적으로 수신 버튼을 눌렀다.
+()<Speaker>낯선 여성 목소리</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>지옥에나 떨어져라 이 해충아! 너 때문에 난민들이 정부를 안 믿는――</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:미아가 통화를 끊고 전화기에서 손을 떼자마자 다시 전화가 걸려왔다.
+()<Speaker>낯선 남성 목소리</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>너 간첩이지? 당장 네 나라――</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:이번에도 미아는 중간에 통화를 끊어버렸다.
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레, 그냥 전화선 뽑아버리자니까? 넌 지금 안정을 취해야 해...
+NPC-Nele(1)<Speaker>넬레</Speaker>||:......
+()<Speaker></Speaker>||:또다시 전화벨이 울리자, 미아가 반사적으로 수신 거부 버튼을 누르려다 가까스로 발신자가 "그레이 선생님"인 것을 보았다.
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:...그레이야.
+()<Speaker></Speaker>||:그 말에 넬레가 눈을 번쩍 뜨고 전화기에 달려들어, 수화기를 집었다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>임시 통보를 전달합니다. 불가항적인 요인으로 인해 사무실을 이용할 수 없는 바, 갈라테아 그룹은 일시적으로 연구 센터를 폐쇄하기로 결정했습니다.</color>+<color=#00CCFF>그동안 특별한 사항이 아닌 이상 연구 센터로의 복귀를 금하며, 질문이 있을 경우 인사팀장에게 문의하십시오.</color>
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:단체 메시지네...
+NPC-Nele(1)<Speaker>넬레</Speaker>||:...응.
+()<Speaker></Speaker>||:수화기를 내려놓은 넬레는 힘없이 풀썩 소파에 엎어졌다.
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:왜 그래?
+APC556(2)<Position>0,120</Position>;NPC-Nele(1)<Speaker>넬레</Speaker>||:연구소 문 닫았다잖아... 다 내 탓이야...+그때 충동을 참기만 했어도, 이렇게까진 안 됐을 텐데...
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(1)||:그후로 슈타지한테서 연락 온 거 없잖아.
+APC556(2)<Position>0,120</Position>;NPC-Nele(2)<Speaker>넬레</Speaker>||:응...?+그, 그럼 약은 문제 없었고 나도 괜찮다는 건가!?
+APC556(3)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(2)||:그런 셈이지. 약에 정말 문제가 있었으면 연구소 문 닫는 정도론 안 끝났을걸?
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(2)||:그런데... 정작 약은 문제 없으면서 여전히 출근하지 말라는 건 역시 좀 이상하네.
+APC556(2)<Position>0,120</Position>;NPC-Nele(1)<Speaker>넬레</Speaker>||:선생님한테 메시지를 계속 보내봤는데, 답장 하나 없고...
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(1)||:기운내, 넬레. 정말 바쁜 걸지도 모르잖아. 사람들 앞에 나타나지 않은 것도 꽤 되지 않았어?
+APC556(2)<Position>0,120</Position>;NPC-Nele(1)<Speaker>넬레</Speaker>||:그러게... 대체 선생님께 무슨 일이 있는 걸까...+대학에서 선생님은 꼭 점심 아니면 저녁 시간대로 수업을 잡으셨는데... 연구 실험에 더 많은 노력을 들여야 한다면서.+올바른 의약품 전문가는 절대 실험을 아랫사람한테만 맡겨서는 안 된다, 현장 업무에 직접 참여하지 않는 사람은 프로젝트에 이름을 올릴 자격이 없다고, 선생님이 항상 강조하셨는데... 그런데...+그런데... 생각해 보니까, 연구 센터에 입사하고서 선생님을 직접 뵌 적이 거의 없었어...
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(1)||:말은 쉽지만 실천은 어렵다고들 하잖아.+아무리 "닥터 그레이"라도 스스로 한 말을 지키긴 어려웠단 거지 뭐.
+NPC-Nele(3)<Speaker>넬레</Speaker>||:서, 선생님은 절대 그런 분이 아니야!
+()<Speaker></Speaker>||:넬레가 소파 위에서 벌떡 일어나 방의 벽 한 면을 가득 장식한 논문을 가리키며 소리쳤다.
+NPC-Nele(3)<Speaker>넬레</Speaker>||:난 선생님이 다른 사람들과 다르니까 갈라테아에 들어간 거라고!
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(3)||:...넬레, 네가 스승을 엄청 존경한다는 건 나도 알아.+하지만... 그 사람, 네 생각만큼 단순하지 않을지도 몰라.+그 요원이 한 말도 아주 쌩뚱맞진 않다고 느끼지 않았어?
+APC556(2)<Position>0,120</Position>;NPC-Nele(1)<Speaker>넬레</Speaker>||:......응.+솔직히 그 사람이 한 말이 좀 신경쓰이긴 해. 하지만, 그렇다 해서 뭘 어쩌면 좋을지...
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(1)||:네가 뭘 어떻게 할 것까진 없어.+너와는 상관없는 일이잖아, 안 그래?
+NPC-Nele(3)<Speaker>넬레</Speaker>||:그게 무슨 소리야!+난――
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:그때, 누가 다급하게 현관문을 쾅쾅 두들겼다.
+APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>||:누구세요?
+()<Speaker>경비원</Speaker>||:경비원입니다! 지금 아파트가 난민들한테 포위당했어요!
+APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>||:그게 무슨...?
+()<Speaker>경비원</Speaker>||:오늘 아침 신문 말예요, "'이둔' 치사 사건 용의자, 석방되어 자택 복귀"요!+어디서 소문을 들었는진 몰라도 현수막까지 들고 지금 주위에 쫙 깔렸어요!+처음엔 많아봤자 몇십 명 정도여서 저희가 어떻게든 달래서 돌래보내려 했는데...+계속 더 나타난데다 지나가던 사람들이 보고 합세까지 하고, 입주민들 일부까지 끼어들었지 뭡니까.+저희만으론 도저히 감당이 안 돼요, 위험하니 아예 잠시 다른 곳으로 피하는 게 좋지 않을까요?
+APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>||:이봐요 아저씨, 지금 건물이 포위당했면서요! 그럼 우리가 어떻게 빠져나가요?+좀 골치아픈 일 생겼다고 입주자한테 나가 달라 하면 누가 이 아파트 경비원을 믿어요?+아무리 수가 많아도 무기도 없는 일반인들이잖아요, 정말 당신들이 어떻게 못 해요?
+()<Speaker>경비원</Speaker>||:그냥 아파트 경비원인데 뭘 어떡해요, 경찰도 아니고 총도 없는데!+일단 경비팀장님이 방금 경찰에 신고는 했는데, 솔직히 지금 상황으론 경찰서가 더 안전하지 않을까 싶어요.
+APC556(4)<Speaker>미아</Speaker><Position>0,120</Position>||:.....
+()<Speaker>경비원</Speaker>||:그리고 미리 말씀드리는데, 그놈들이 벌써 아파트 안까지 들이닥쳐서 사진 들고 집집마다 찾는 중입니다.+입주민께 이런 소리 해서 정말 송구합니다만, 얼른 피신 안 하면 무슨 일 생겨도 저흰 몰라요.
+()<Speaker></Speaker>||:그리고 경비원은 도망치듯 사라졌다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:미아는 복도 밖으로 저 아파트 아래를 살펴봤다.+경비원의 말대로, 아파트 아래는 바글거리는 군중들로 발 디딜 틈 없어, 어디로 나가든 바로 들킬 게 뻔했다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:사태가 심각함을 파악한 미아는 냉큼 돌아와 문을 잠갔다.
+APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레... 긴급 사태야. 밖에 사람들이 쫙 깔렸어. 창문으로 뛰어내려도 들킬 거야.+...나 혼자선 널 지키면서 탈출하기 힘들겠어.
+NPC-Nele(1)<Speaker>넬레</Speaker>||:......
+()<Speaker></Speaker>||:미아는 하는 수 없이 어딘가로 연락했다.
+MG338(0)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여보세요, 미아?</color>
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:레니, 하필이면 이런 때에 연락해서 미안한데 도무지 다른 방법이 없어.+최대한 빨리 와 줘. 사람 한 명 구해서 나가야 해.
+MG338(0)<Speaker>레니</Speaker><通讯框>||:<color=#00CCFF>알겠습니다, 주소 주세요.</color>
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:미아는 주소를 전송한 다음, 한숨을 푹 쉬곤 방금부터 아무 말도 않는 넬레에게 다가갔다.
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레, 간단하게 짐 싸자. 레니가 오는대로 바로 나갈 거야.
+NPC-Nele(1)<Speaker>넬레</Speaker>||:...아파트가 통째로 포위됐다면, 머릿수 좀 늘린다고 빠져나갈 수 있는 게 아니잖아. 더 좋은 수가 없을까?
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:그건 그렇지. 우린 그저, 수단 방법 가리지 않고 널 지킬 수밖에 없어.+경비원 말대로 경찰이라도 나서지 않는 이상은 지금 상황을 수습하긴 어려울 거야.
+NPC-Nele(2)<Speaker>넬레</Speaker>||<BGM>BGM_Empty</BGM>:...그래!
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:응?
+NPC-Nele(3)<Speaker>넬레</Speaker>||:경찰은 아니지만, 그 사람 슈타지잖아! 빨리 연락해 봐!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>84</BIN><BGM>m_avg_casual</BGM>:독일의 어느 물류 회사의 입구. J는 여전한 태도로 드문드문 사람들이 드나드는 회사 건물의 현관 너머로 모나가 관계자들과 대화하는 모습을 구경했다.+그리고 얼마 지나지 않아 모나가 돌아왔다.
+SP9(0)<Speaker>모나</Speaker>||:사측에게서 해당 운송 경로 구간의 데이터를 제공받았습니다.+대조 결과 실종 지점의 범위가 대폭 축소됐는데, K 요원과 합류한 뒤에 계속할까요?
+NPC-Keven(0)<Speaker>J</Speaker>;SP9(0)||:쫄따구한테 일일이 보고 말고 알아서 하세요~
+NPC-Keven(0);SP9(0)<Speaker>모나</Speaker>||:......+기술팀이 오늘 오후까지 이미지를 최대한 복원해 보내겠다고 했습니다. 운이 좋다면 새로운 단서를 찾을 수 있을 겁니다.
+NPC-Keven(0)<Speaker>J</Speaker>;SP9(0)||:딱 봐도 똥개 훈련인데, 너도 K도 왜 그리 진지한지 모르겠다.
+NPC-Keven(0);SP9(0)<Speaker>모나</Speaker>||:...J 요원.
+NPC-Keven(0)<Speaker>J</Speaker>||:듣고 있습니다~
+()<Speaker></Speaker>||:"띵!"하는 소리와 함께, 모나가 복원된 고화질 이미지를 전송받았다.
+SP9(0)<Speaker>모나</Speaker>||:이 로고는...
+()<Speaker></Speaker>||:모나가 보여준 이미지를 본 J의 눈도 휘둥그레졌다.+내내 대충대충이던 J의 태도를 단숨에 진지하게 만들기에 충분하고도 남는 로고였다.
+NPC-Keven(5)<Speaker>J</Speaker>||:갈라테아...
+()<Speaker></Speaker>||:이토록 진중한 기색의 J는 모나도 처음 보는 것 같았다.
+NPC-Keven(0)<Speaker>J</Speaker>||:흐음... 이러면 또 이야기가 다르지.+또 거기라니...
+()<Speaker></Speaker>||:때마침 J의 통신기가 수신음을 냈고, 수신 알림엔 J가 처음 보는 번호가 띄워졌다.
+NPC-Nele(0)<Speaker>넬레</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여보세요, J 요원 맞죠?</color>
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(0)||:어, 넬레 씨?
+NPC-Keven(0);NPC-Nele(0)<Speaker>넬레</Speaker>||:<color=#00CCFF>저 지금 아파트가 사람들한테 포위당해서 갇혔어요.</color>+<color=#00CCFF>경찰한텐 절대 알릴 수 없는 정보를 갖고 있는데, 그쪽이 아주 흥미로워 할 거라 보는데요.</color>
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(0)||:주소 불러요.
+NPC-Nele(0)<Speaker>넬레</Speaker>||:<color=#00CCFF>좋아요, 제 친구가 문앞에서 기다리고 있으니 만나서 같이 와 주세요. 이름은 "레니"예요.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:넬레가 전화를 끊자마자 모든 정보가 전송됐다.+J는 곧바로 받은 위치로 향하려 했지만, 모나가 그의 앞을 가로막았다.
+SP9(0)<Speaker>모나</Speaker>||:J 요원, 적어도 저와 동행하세요.
+NPC-Keven(0)<Speaker>J</Speaker>||:그래그래 너 마음대로 하셔. 이 사건도 갈라테아가 연루됐는데, 갈라테아의 내부자가 제발로 접촉해 왔다고. 이 절호의 기회를 놓칠 수야 없지!
+()||<黑点1><BIN>10</BIN>:

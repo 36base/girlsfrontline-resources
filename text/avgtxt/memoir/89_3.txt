@@ -1,64 +1,64 @@
-()||<BIN>88</BIN><BGM>BGM_Sad</BGM>:어느 폐기된 창고.
-BrenMK(1)<Speaker>브렌</Speaker>||:제길... 이런 곳에 발을 묶이다니...
-BrenMK(1)<Speaker></Speaker>||:브렌은 창고 문 뒤에 기대여 낡은 문짝의 틈 사이로 바깥을 보았다.+얼마 멀지 않게 철혈이 점점 다가오고 있었다.
-BrenMK(1)<Speaker>브렌</Speaker>||<黑屏1>0,3</黑屏1>:조금 전에 전진 속도가 더 빨랐다면 여기까지 몰릴 일도 없었을 텐데...+새로운 소대에 온 이상 나도 분명 더 강해졌을 텐데!
-()||<BIN>9</BIN><黑屏1>0.3</黑屏1>:... 정말 그럴까?
-()||:엘리트 인형들로 편성된 소대에서 모두의 발걸음을 맞추는 것만으로도 숨이 가빴지.+일시적인 현상이라고 생각했지만... 이제와서 더는 자기 합리화로 통하지 않아.
-BrenMK(1)<Speaker>브렌</Speaker><Shake>1.5</Shake>||:제길, 망할!+어째서 더 강해질 수 없는 거지! 도대체 왜!!!
-()||<黑屏1>0.3</黑屏1>:... 사실 다 알고 있으면서.
-()||:어떻게 해도 엘리트 인형처럼 강해질 수는 없어.+어떻게 노력해도 한계를 넘을 수가 없어.+결국 여기서 끝인 걸까?
-BrenMK(1)<Speaker>브렌</Speaker>||<黑屏1>0,0.3</黑屏1>:평생 그들의 뒷모습만 바라봐야는 거냐...+절대 그럴 수는 없어!+하지만... 대체 어떻게 하면 좋은 거야?
-()||<BIN>88</BIN><黑屏2>0,0.5</黑屏2>:브렌은 다시 일어서 자신의 기관총을 쥐었다.
-BrenMK(0)<Speaker>브렌</Speaker>||:... 여기서 꼴사납게 죽을 수는 없어.+다시 만난다면 한 번 직접 답을 물어보지.+웰로드...
-()||<SE1>Gunfight</SE1>:창고 밖에서 총소리가 울렸다.
-BrenMK(0)<Speaker>브렌</Speaker>||<白屏1>0,2</白屏1>:뭐지?!
-Welrod(0)<Speaker>웰로드</Speaker>||<白屏2>0,0.5</白屏2><BIN>89</BIN>:브렌!+무사한가?
-BrenMK(0)<Speaker>브렌</Speaker>||:웰로드?!+어째서 여기에 있는 거야!
-BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:마침 우리 소대가 근처에서 임무를 진행 중이었다가 지휘관께서 지원으로 보냈다.+보아하니 내 정의의 철퇴가 늦지 않은 모양이군. 잔말은 나중에 하고, 눈앞의 상황을 정리한다.
-BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:... 또 괜한 참견을.+너희 없이도 나 혼자 뚫고 나갈 수 있었어...
-BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:알고 있다.+그래도 지금은 나와 힘을 합쳐 저 악의 철혈무리에게 정의의 심판을 내리자!
-BrenMK(0)<Speaker>브렌</Speaker>||<黑屏1>:... 가자, 웰로드.
-()||<BIN>9</BIN><黑屏1><SE1>Gunfight</SE1><BGM>BGM_Empty</BGM>:...+전투 종료.
-()||<BGM>BGM_Wake</BGM><黑屏2><BIN>2</BIN>:그리폰 소대 임시 합류 지점.
-L85A1(0)<Speaker>L85A1</Speaker>||:흑흑... 무사해서 다행이에요! 브렌!+여기에 고립됐다고 들어서 걱정했어요!
-BrenMK(0)<Speaker>브렌</Speaker>;L85A1(0)||:... 별 거 아냐.+또 한 놈은 어디 갔어?
-BrenMK(0);L85A1(0)<Speaker>L85A1</Speaker>||:IDW 말인가요?+지금 임시 수복을 받으러 갔으니 곧 합류하러 올 거예요!
-BrenMK(0)<Speaker>브렌</Speaker>;L85A1(0)||:쯧... 그 미련한 고양이는 또 다쳤군.+넌 녀석을 돌보러 가봐...+난 웰로드하고 할 말이 있으니까.
-BrenMK(0);L85A1(0)<Speaker>L85A1</Speaker>||:... 네.+저기...+브렌, 임무 끝나고 나서... 저희 다과회에 올 건가요?
-BrenMK(0)<Speaker>브렌</Speaker>;L85A1(0)||:... 봐서.
-BrenMK(0);L85A1(0)<Speaker>L85A1</Speaker>||:오든 안 오든 정하면 꼭 말해주세요.
-BrenMK(0)<Speaker>브렌</Speaker>;L85A1(0)||:그러지.
-L85A1(0)<Speaker>L85A1</Speaker>||<黑点1>:그럼, 나중에 봐요!
-()||<黑点2>:L85A1이 떠났다.
-Welrod(0)<Speaker>웰로드</Speaker>||:브렌, 하고 싶은 말이 뭔가?
-BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:웰로드... 넌 어째서 그렇게 강한 거지?
-BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:왜 그런 것을 묻는가?
-BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:난 언제나 강해지고 싶었어.+하지만 어떻게 노력해도 너처럼... 엘리트 인형처럼 될 수가 없었어.+전장에서든 일상에서든 넌 항상 우수했어.+알려줘, 웰로드. 대체 어떻게 그렇게 강할 수 있지?
-BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:엘리트 인형이기 때문이다.
-BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:그런 답을 듣고 싶지 않아!+네 녀석도 괴상한 마인드맵에 성격은 음침하고 하는 짓은 꼰대 같고, 허구한 날 겉치레뿐인 설교만 하고!+그러면서 그런 상향심 없는 녀석들을 데리고 임무를 훌륭하게 완수하고.+언제나 알아 듣지 못 할 말이나 하면서도 모두에게 이쁨을 받고...
-BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:브렌...
-BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:난 강해지기 위해서 수많은 것들을 포기했는데도 여전히 엘리트 인형을 따라잡지 못했어...+젠장, 너 같은 녀석은 정말... 사기라고...
-BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:그저 강해지기 위해서 강해지려는 것이면 너도 거기까지인 것이다, 브렌.
-BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:무슨 말이야?
-BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:내가 강한 진정한 이유를 알려주지...+난 항상 정의를 수호하고 있기 때문이다.
-BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:"정의"를 수호하기에 강해질 수 있다는 거야?
-BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:아니.
-BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:그럼 대체 어째서야?
-BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:정의는 강해야만 한다.+강하기 때문에 정의지.+그러니 정의를 수호하는 나도 반드시 강해야만 한다.
-BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:... 그게 무슨 말이야.+전혀 못 알아듣겠어.
-BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:넌 계속 강해지고 싶다고 했지, 하지만 무엇이 강함인지 정말로 알고 있는가?
-BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:그럼, 웰로드...+너에게 강함이란 무엇인데?
-BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:강함이란 누구보다 수치 상으로 더 우수하거나 타인을 발밑에 둔다는 것이 아니다.
-Welrod(0)<Speaker>웰로드</Speaker>||:황무지에 깊숙이 묻힌 소망의 씨앗은 신념과 노력을 거름으로 결국엔 저 하늘을 향해 가지를 뻗는다.+자신이 나아갈 목표를 명심하고 이 땅 위의 바로 서서 그 목표를 향해 곧바르게 나아간다.+그 포기를 모르는 마음을 바로 "강함"이라고 부른다.
-BrenMK(0)<Speaker>브렌</Speaker>||:... 웰로드, 또 이상한 말을 늘여놓고 있잖아.
-BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:그 어느 때에도 정의를 관철한다. 이것이 내가 강해진 이유다.+브렌, 넌 무엇을 위해 강해지는 거지?
-BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:난...
-BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:그 이유를 찾아봐라, 브렌.+그러면 너도 진정하게 강해질 것이다.
-BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:말은 쉽지, 웰로드...+그런 것을 어떻게 쉽게 찾겠어.
-BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:너라면 찾을 수 있다고 믿는다.+네가 하고 싶은 일, 네가 맡고 싶은 "역할"을 찾아라.
-BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:하지만... 난 이미 한계야, 웰로드. 어쩌면 더는 강해질 수 없는 것일지도 몰라.
-BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:그렇지 않다, 브렌.+넌 더 강해질 수 있다. 너에겐 그 자격이 있다.+너에겐 그저 계기가 필요할 뿐이다.
-BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:...계기?
-BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:한 가지 방법이 생각났다, 듣고 싶나?
-BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:뭔데?
-BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||<黑屏1>:바로...
+()||<BIN>88</BIN><BGM>BGM_Sad</BGM>:어느 폐기된 창고.
+BrenMK(1)<Speaker>브렌</Speaker>||:제길... 이런 곳에 발을 묶이다니...
+BrenMK(1)<Speaker></Speaker>||:브렌은 창고 문 뒤에 기대여 낡은 문짝의 틈 사이로 바깥을 보았다.+얼마 멀지 않게 철혈이 점점 다가오고 있었다.
+BrenMK(1)<Speaker>브렌</Speaker>||<黑屏1>0,3</黑屏1>:조금 전에 전진 속도가 더 빨랐다면 여기까지 몰릴 일도 없었을 텐데...+새로운 소대에 온 이상 나도 분명 더 강해졌을 텐데!
+()||<BIN>9</BIN><黑屏1>0.3</黑屏1>:... 정말 그럴까?
+()||:엘리트 인형들로 편성된 소대에서 모두의 발걸음을 맞추는 것만으로도 숨이 가빴지.+일시적인 현상이라고 생각했지만... 이제와서 더는 자기 합리화로 통하지 않아.
+BrenMK(1)<Speaker>브렌</Speaker><Shake>1.5</Shake>||:제길, 망할!+어째서 더 강해질 수 없는 거지! 도대체 왜!!!
+()||<黑屏1>0.3</黑屏1>:... 사실 다 알고 있으면서.
+()||:어떻게 해도 엘리트 인형처럼 강해질 수는 없어.+어떻게 노력해도 한계를 넘을 수가 없어.+결국 여기서 끝인 걸까?
+BrenMK(1)<Speaker>브렌</Speaker>||<黑屏1>0,0.3</黑屏1>:평생 그들의 뒷모습만 바라봐야는 거냐...+절대 그럴 수는 없어!+하지만... 대체 어떻게 하면 좋은 거야?
+()||<BIN>88</BIN><黑屏2>0,0.5</黑屏2>:브렌은 다시 일어서 자신의 기관총을 쥐었다.
+BrenMK(0)<Speaker>브렌</Speaker>||:... 여기서 꼴사납게 죽을 수는 없어.+다시 만난다면 한 번 직접 답을 물어보지.+웰로드...
+()||<SE1>Gunfight</SE1>:창고 밖에서 총소리가 울렸다.
+BrenMK(0)<Speaker>브렌</Speaker>||<白屏1>0,2</白屏1>:뭐지?!
+Welrod(0)<Speaker>웰로드</Speaker>||<白屏2>0,0.5</白屏2><BIN>89</BIN>:브렌!+무사한가?
+BrenMK(0)<Speaker>브렌</Speaker>||:웰로드?!+어째서 여기에 있는 거야!
+BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:마침 우리 소대가 근처에서 임무를 진행 중이었다가 지휘관께서 지원으로 보냈다.+보아하니 내 정의의 철퇴가 늦지 않은 모양이군. 잔말은 나중에 하고, 눈앞의 상황을 정리한다.
+BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:... 또 괜한 참견을.+너희 없이도 나 혼자 뚫고 나갈 수 있었어...
+BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:알고 있다.+그래도 지금은 나와 힘을 합쳐 저 악의 철혈무리에게 정의의 심판을 내리자!
+BrenMK(0)<Speaker>브렌</Speaker>||<黑屏1>:... 가자, 웰로드.
+()||<BIN>9</BIN><黑屏1><SE1>Gunfight</SE1><BGM>BGM_Empty</BGM>:...+전투 종료.
+()||<BGM>BGM_Wake</BGM><黑屏2><BIN>2</BIN>:그리폰 소대 임시 합류 지점.
+L85A1(0)<Speaker>L85A1</Speaker>||:흑흑... 무사해서 다행이에요! 브렌!+여기에 고립됐다고 들어서 걱정했어요!
+BrenMK(0)<Speaker>브렌</Speaker>;L85A1(0)||:... 별 거 아냐.+또 한 놈은 어디 갔어?
+BrenMK(0);L85A1(0)<Speaker>L85A1</Speaker>||:IDW 말인가요?+지금 임시 수복을 받으러 갔으니 곧 합류하러 올 거예요!
+BrenMK(0)<Speaker>브렌</Speaker>;L85A1(0)||:쯧... 그 미련한 고양이는 또 다쳤군.+넌 녀석을 돌보러 가봐...+난 웰로드하고 할 말이 있으니까.
+BrenMK(0);L85A1(0)<Speaker>L85A1</Speaker>||:... 네.+저기...+브렌, 임무 끝나고 나서... 저희 다과회에 올 건가요?
+BrenMK(0)<Speaker>브렌</Speaker>;L85A1(0)||:... 봐서.
+BrenMK(0);L85A1(0)<Speaker>L85A1</Speaker>||:오든 안 오든 정하면 꼭 말해주세요.
+BrenMK(0)<Speaker>브렌</Speaker>;L85A1(0)||:그러지.
+L85A1(0)<Speaker>L85A1</Speaker>||<黑点1>:그럼, 나중에 봐요!
+()||<黑点2>:L85A1이 떠났다.
+Welrod(0)<Speaker>웰로드</Speaker>||:브렌, 하고 싶은 말이 뭔가?
+BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:웰로드... 넌 어째서 그렇게 강한 거지?
+BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:왜 그런 것을 묻는가?
+BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:난 언제나 강해지고 싶었어.+하지만 어떻게 노력해도 너처럼... 엘리트 인형처럼 될 수가 없었어.+전장에서든 일상에서든 넌 항상 우수했어.+알려줘, 웰로드. 대체 어떻게 그렇게 강할 수 있지?
+BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:엘리트 인형이기 때문이다.
+BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:그런 답을 듣고 싶지 않아!+네 녀석도 괴상한 마인드맵에 성격은 음침하고 하는 짓은 꼰대 같고, 허구한 날 겉치레뿐인 설교만 하고!+그러면서 그런 상향심 없는 녀석들을 데리고 임무를 훌륭하게 완수하고.+언제나 알아 듣지 못 할 말이나 하면서도 모두에게 이쁨을 받고...
+BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:브렌...
+BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:난 강해지기 위해서 수많은 것들을 포기했는데도 여전히 엘리트 인형을 따라잡지 못했어...+젠장, 너 같은 녀석은 정말... 사기라고...
+BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:그저 강해지기 위해서 강해지려는 것이면 너도 거기까지인 것이다, 브렌.
+BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:무슨 말이야?
+BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:내가 강한 진정한 이유를 알려주지...+난 항상 정의를 수호하고 있기 때문이다.
+BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:"정의"를 수호하기에 강해질 수 있다는 거야?
+BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:아니.
+BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:그럼 대체 어째서야?
+BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:정의는 강해야만 한다.+강하기 때문에 정의지.+그러니 정의를 수호하는 나도 반드시 강해야만 한다.
+BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:... 그게 무슨 말이야.+전혀 못 알아듣겠어.
+BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:넌 계속 강해지고 싶다고 했지, 하지만 무엇이 강함인지 정말로 알고 있는가?
+BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:그럼, 웰로드...+너에게 강함이란 무엇인데?
+BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:강함이란 누구보다 수치 상으로 더 우수하거나 타인을 발밑에 둔다는 것이 아니다.
+Welrod(0)<Speaker>웰로드</Speaker>||:황무지에 깊숙이 묻힌 소망의 씨앗은 신념과 노력을 거름으로 결국엔 저 하늘을 향해 가지를 뻗는다.+자신이 나아갈 목표를 명심하고 이 땅 위의 바로 서서 그 목표를 향해 곧바르게 나아간다.+그 포기를 모르는 마음을 바로 "강함"이라고 부른다.
+BrenMK(0)<Speaker>브렌</Speaker>||:... 웰로드, 또 이상한 말을 늘여놓고 있잖아.
+BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:그 어느 때에도 정의를 관철한다. 이것이 내가 강해진 이유다.+브렌, 넌 무엇을 위해 강해지는 거지?
+BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:난...
+BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:그 이유를 찾아봐라, 브렌.+그러면 너도 진정하게 강해질 것이다.
+BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:말은 쉽지, 웰로드...+그런 것을 어떻게 쉽게 찾겠어.
+BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:너라면 찾을 수 있다고 믿는다.+네가 하고 싶은 일, 네가 맡고 싶은 "역할"을 찾아라.
+BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:하지만... 난 이미 한계야, 웰로드. 어쩌면 더는 강해질 수 없는 것일지도 몰라.
+BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:그렇지 않다, 브렌.+넌 더 강해질 수 있다. 너에겐 그 자격이 있다.+너에겐 그저 계기가 필요할 뿐이다.
+BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:...계기?
+BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||:한 가지 방법이 생각났다, 듣고 싶나?
+BrenMK(0)<Speaker>브렌</Speaker>;Welrod(0)||:뭔데?
+BrenMK(0);Welrod(0)<Speaker>웰로드</Speaker>||<黑屏1>:바로...

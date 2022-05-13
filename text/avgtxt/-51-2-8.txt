@@ -1,63 +1,63 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_Jet_Passby</SE1><BGM>GF_21summer_intro_DemonVariation</BGM>:......
-()<Speaker></Speaker>||:베를린 상공, 슈바인슈타이거 장군의 전용기.
-()||<黑屏1>:
-()<Speaker>슈타지 연락인원</Speaker>||<BIN>273</BIN><黑屏2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>긴급 보고. 금일 오전, 프로이센 및 베딩 지역에서 무력 충돌 발생.</color>+<color=#00CCFF>현재까지 부상자 20여 명으로 확인.</color>
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:......
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+통신을 끈 그의 안색이 미묘하게 변화했다.
-NPC-Bodyguard1(0)<Speaker>경호원</Speaker>||:장군님, 약 60분 후 수도에 도착합니다.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:......
-NPC-Bodyguard1(0)<Speaker>경호원</Speaker>||:장군님?
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:알았네. 잠시 혼자 있고 싶으니 모두 나가 주게.
-NPC-Bodyguard1(0)<Speaker>경호원</Speaker>||:예.
-()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:경호훤들이 공손히 문을 닫고 나가, 특등석 칸에는 슈바인슈타이거 한 명만 남았다.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:이렇게 막 나가다니...+루돌프, 자네도 역시 늙었구먼.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:희미하게 웃는 듯 마는 듯 중얼거리고, 슈바인슈타이거는 고개를 저으며 로미 국장에게 연락했다.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:나일세. 전부 처리했나?
-NPC-Romy(0)<Speaker>로미</Speaker><通讯框>;NPC-Arla(0)||:<color=#00CCFF>전부 계획의 오차 범위 내에서 진행 중입니다.</color>+<color=#00CCFF>베를린에서의 흔적은 차례대로 깨끗이 지우고 있습니다.</color>
-NPC-Romy(0);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:"안"만이 아니야.+무슨 말인지 알고 있겠지.
-NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Arla(0)||:<color=#00CCFF>예, 바깥으로의 "선"도 차례대로 자르고 있습니다.</color>
-NPC-Romy(0);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:그래, 잘하고 있어...+그런데 이따금씩 생각이 드네만, 역시 저번은 너무 과격하지 않았나 싶군.+"불꽃놀이"로 긴장된 모스크바의 분위기가 프랑크푸르트까지 퍼졌어.
-NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Arla(0)||:<color=#00CCFF>안심하시길. 어떤 판단을 내리시든, 장군님은 절대적인 우위를 유지하실 겁니다.</color>+<color=#00CCFF>이번 싸움에선 정보를 쥐는 자가 권력도 손에 넣습니다.</color>
-NPC-Romy(1)<Speaker>로미</Speaker>;NPC-Arla(0)||:<color=#00CCFF>그리고 지금은 그 모든 것이 장군님께 기울고 있죠.</color>
-NPC-Romy(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:베를린에서의 일을 해결하면 자네도 서둘러 수도로 돌아오게나.
-NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Arla(0)||:<color=#00CCFF>예.</color>
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:아무리 불같이 분노하더라도, 언젠가는 식기 마련이지...+그가 떠나는 길에 체면을 버릴 작정이라면, 우리가 대신 체면을 세워 주자고.
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:슈바인슈타이거는 모자를 고쳐 쓰고, 가볍게 목청을 가다듬은 뒤, 느긋하게 소파 앞까지 걸어가 옆의 티테이블 위에 놓인 꽃병에 손을 뻗었다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:꽃병에는 3가지 색의 장미들이 꽂혀 있었고, 꽃잎은 싱그럽게 물방울을 머금고 있었다.+검정, 빨강, 노랑. 선명한 색상은 펄럭이는 국기 같았다.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:...흠?
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:그런데, 샴페인 옆에 세련된 디자인의 펜이 놓여있었다.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:......
-()<Speaker></Speaker>||<SE1>AVG_Button_Click</SE1>:그는 그 녹음펜을 집어, 신중하게 재생 버튼을 눌렀다.
-()<Speaker>오버슈타인</Speaker>||<BGM>GF_21winter_avg_pathfinder</BGM>:<color=#00CCFF>좋은 아침일세, 하인리히.</color>+<color=#00CCFF>내가 아침 식사를 방해한 것이 아니면 좋겠군.</color>
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:......
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:슈바인슈타이거는 어깨를 으쓱하곤, 녹음펜을 다시 테이블에 내려놓고 소파에 앉았다.+녹음펜에서 나온 목소리가 전혀 놀랍지 않은 눈치였다.
-()<Speaker>오버슈타인</Speaker>||:<color=#00CCFF>자네와 직접 마주보고 이야기하지 못해서 정말 미안하네.</color>+<color=#00CCFF>하지만, 그래도 우리의 우정에 금이 가지는 않겠지?</color>
-()<Speaker>오버슈타인</Speaker>||:<color=#00CCFF>내가 보내는 선물도 분명 자네 마음에 쏙 드리라 믿네.</color>+<color=#00CCFF>화해의 선물로 받아 주게나.</color>
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:......
-()<Speaker>오버슈타인</Speaker>||:<color=#00CCFF>가끔, 정말 가끔, 친구 사이에도 의견이 갈리고, 때론 다투기도 하지. 다 늘상 있는 일이야.</color>+<color=#00CCFF>하지만 모두가 다툰 뒤에 화해할 수 있는 건 아니라네... 다만, 우리의 우정을 이어가는 것은 분명 우리 모두에게 좋은 일일 게야.</color>
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:......
-()<Speaker>오버슈타인</Speaker>||:<color=#00CCFF>"외부자"보다는 우리야말로 서로 믿고 기댈 수 있는 동료이지 않은가.</color>
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:대체 원하는 게 뭐요, 오버슈타인 장관...
-()<Speaker></Speaker>||:녹음펜에서 눈을 떼지 않으면서, 슈바인슈타이거는 나지막이 중얼거렸다.
-()<Speaker>오버슈타인</Speaker>||:<color=#00CCFF>나는... 우리가 가꾼 정원에, 우리가 들이지 않은 "외래종"이 자리를 꿰차는 꼴을 보기 싫네.</color>+<color=#00CCFF>그러니, 우리 모두 다 여기까지만 하는 게 어떻겠나?</color>
-()<Speaker></Speaker>||:그 질문을 예상했다는 듯, 녹음된 오버슈타인의 목소리가 답했다.
-()<Speaker>오버슈타인</Speaker>||:<color=#00CCFF>나를 믿게, 장군.</color>+<color=#00CCFF>자네를 끝까지 도울 수 있는 것은 오직 같은 내부자뿐이야.</color>
-()<Speaker></Speaker>||:오버슈타인은 목소리를 살짝 가다듬고 부드럽게 말을 이었다.
-()<Speaker>오버슈타인</Speaker>||:<color=#00CCFF>내 약속하지, 모든 일이 끝나면 우리의 우정에 가장 화끈한 불을 지필 것이라고.</color>+<color=#00CCFF>슈타지도 이제 백여 년 전의 휘황찬란하던 시기로 돌아갈 때가 되었다고 보네. 난 자네가 우리의 정원에 꼭 필요한 유능한 정원사라 믿어 의심치 않아.</color>
-()<Speaker>오버슈타인</Speaker>||:<color=#00CCFF>언제나 그러했듯이.</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+녹음펜의 재생이 멈췄다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:슈바인슈타이거도 모자를 벗으며 길게 한숨을 내뱉었다.
-()<Speaker></Speaker>||<SE1>AVG_Knock</SE1>:그때, 노크 소리가 났다.
-NPC-Schweinsteiger(0)<Speaker>슈바인슈타이거</Speaker>||:혼자 있고 싶다 했을 텐데?
-()<Speaker>???</Speaker>||:......
-()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:문밖의 사람은 이를 못 들은마냥 문을 열고 들어왔다.
-()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:샴페인 병을 든, 하얀 옷의 무표정한 웨이터였다.+슈바인슈타이거는 자신의 수행원들 중 이 자의 얼굴은 본 적 없음을 확신했다.
-()<Speaker>웨이터</Speaker>||<SE1>Stop_AVG_loop</SE1>:맛있게 드십시오.
-()<Speaker></Speaker>||:샴페인 병에는 선명한 붉은 글씨로 "우정을 위하여"라 쓰여있었다.+슈바인슈타이거는 일어나지 않고, 열린 문 너머를 슬쩍 곁눈질했다. 그의 경호원들은 여전히 맡은 소임을 다하고 있었지만, 지금 이 방에서 무슨 일이 일어나는지는 전혀 보이지 않는 듯했다.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:한편, "웨이터"는 슈바인슈타이거의 시선을 아는지 모르는지 조용히 술병을 따고 정중하게 샴페인을 가득 따랐다.+따라지는 샴페인은 톡톡 튀며 시원한 탄산 소리를 냈다.
-NPC-Schweinsteiger(0)<Speaker>슈바인슈타이거</Speaker>||:......
-NPC-Schweinsteiger(0)<Speaker>웨이터</Speaker><同时置暗>||:......
-NPC-Schweinsteiger(0)<Speaker>슈바인슈타이거</Speaker>||:...우정을 위하여.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:슈바인슈타이거는 샴페인잔을 들어 허공에 건배하고, 잔을 단숨에 비웠다.
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_Jet_Passby</SE1><BGM>GF_21summer_intro_DemonVariation</BGM>:......
+()<Speaker></Speaker>||:베를린 상공, 슈바인슈타이거 장군의 전용기.
+()||<黑屏1>:
+()<Speaker>슈타지 연락인원</Speaker>||<BIN>273</BIN><黑屏2><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>긴급 보고. 금일 오전, 프로이센 및 베딩 지역에서 무력 충돌 발생.</color>+<color=#00CCFF>현재까지 부상자 20여 명으로 확인.</color>
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+통신을 끈 그의 안색이 미묘하게 변화했다.
+NPC-Bodyguard1(0)<Speaker>경호원</Speaker>||:장군님, 약 60분 후 수도에 도착합니다.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:......
+NPC-Bodyguard1(0)<Speaker>경호원</Speaker>||:장군님?
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:알았네. 잠시 혼자 있고 싶으니 모두 나가 주게.
+NPC-Bodyguard1(0)<Speaker>경호원</Speaker>||:예.
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:경호훤들이 공손히 문을 닫고 나가, 특등석 칸에는 슈바인슈타이거 한 명만 남았다.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:이렇게 막 나가다니...+루돌프, 자네도 역시 늙었구먼.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:희미하게 웃는 듯 마는 듯 중얼거리고, 슈바인슈타이거는 고개를 저으며 로미 국장에게 연락했다.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:나일세. 전부 처리했나?
+NPC-Romy(0)<Speaker>로미</Speaker><通讯框>;NPC-Arla(0)||:<color=#00CCFF>전부 계획의 오차 범위 내에서 진행 중입니다.</color>+<color=#00CCFF>베를린에서의 흔적은 차례대로 깨끗이 지우고 있습니다.</color>
+NPC-Romy(0);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:"안"만이 아니야.+무슨 말인지 알고 있겠지.
+NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Arla(0)||:<color=#00CCFF>예, 바깥으로의 "선"도 차례대로 자르고 있습니다.</color>
+NPC-Romy(0);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:그래, 잘하고 있어...+그런데 이따금씩 생각이 드네만, 역시 저번은 너무 과격하지 않았나 싶군.+"불꽃놀이"로 긴장된 모스크바의 분위기가 프랑크푸르트까지 퍼졌어.
+NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Arla(0)||:<color=#00CCFF>안심하시길. 어떤 판단을 내리시든, 장군님은 절대적인 우위를 유지하실 겁니다.</color>+<color=#00CCFF>이번 싸움에선 정보를 쥐는 자가 권력도 손에 넣습니다.</color>
+NPC-Romy(1)<Speaker>로미</Speaker>;NPC-Arla(0)||:<color=#00CCFF>그리고 지금은 그 모든 것이 장군님께 기울고 있죠.</color>
+NPC-Romy(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:베를린에서의 일을 해결하면 자네도 서둘러 수도로 돌아오게나.
+NPC-Romy(0)<Speaker>로미</Speaker>;NPC-Arla(0)||:<color=#00CCFF>예.</color>
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:아무리 불같이 분노하더라도, 언젠가는 식기 마련이지...+그가 떠나는 길에 체면을 버릴 작정이라면, 우리가 대신 체면을 세워 주자고.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:슈바인슈타이거는 모자를 고쳐 쓰고, 가볍게 목청을 가다듬은 뒤, 느긋하게 소파 앞까지 걸어가 옆의 티테이블 위에 놓인 꽃병에 손을 뻗었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:꽃병에는 3가지 색의 장미들이 꽂혀 있었고, 꽃잎은 싱그럽게 물방울을 머금고 있었다.+검정, 빨강, 노랑. 선명한 색상은 펄럭이는 국기 같았다.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:...흠?
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:그런데, 샴페인 옆에 세련된 디자인의 펜이 놓여있었다.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_Button_Click</SE1>:그는 그 녹음펜을 집어, 신중하게 재생 버튼을 눌렀다.
+()<Speaker>오버슈타인</Speaker>||<BGM>GF_21winter_avg_pathfinder</BGM>:<color=#00CCFF>좋은 아침일세, 하인리히.</color>+<color=#00CCFF>내가 아침 식사를 방해한 것이 아니면 좋겠군.</color>
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:슈바인슈타이거는 어깨를 으쓱하곤, 녹음펜을 다시 테이블에 내려놓고 소파에 앉았다.+녹음펜에서 나온 목소리가 전혀 놀랍지 않은 눈치였다.
+()<Speaker>오버슈타인</Speaker>||:<color=#00CCFF>자네와 직접 마주보고 이야기하지 못해서 정말 미안하네.</color>+<color=#00CCFF>하지만, 그래도 우리의 우정에 금이 가지는 않겠지?</color>
+()<Speaker>오버슈타인</Speaker>||:<color=#00CCFF>내가 보내는 선물도 분명 자네 마음에 쏙 드리라 믿네.</color>+<color=#00CCFF>화해의 선물로 받아 주게나.</color>
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:......
+()<Speaker>오버슈타인</Speaker>||:<color=#00CCFF>가끔, 정말 가끔, 친구 사이에도 의견이 갈리고, 때론 다투기도 하지. 다 늘상 있는 일이야.</color>+<color=#00CCFF>하지만 모두가 다툰 뒤에 화해할 수 있는 건 아니라네... 다만, 우리의 우정을 이어가는 것은 분명 우리 모두에게 좋은 일일 게야.</color>
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:......
+()<Speaker>오버슈타인</Speaker>||:<color=#00CCFF>"외부자"보다는 우리야말로 서로 믿고 기댈 수 있는 동료이지 않은가.</color>
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:대체 원하는 게 뭐요, 오버슈타인 장관...
+()<Speaker></Speaker>||:녹음펜에서 눈을 떼지 않으면서, 슈바인슈타이거는 나지막이 중얼거렸다.
+()<Speaker>오버슈타인</Speaker>||:<color=#00CCFF>나는... 우리가 가꾼 정원에, 우리가 들이지 않은 "외래종"이 자리를 꿰차는 꼴을 보기 싫네.</color>+<color=#00CCFF>그러니, 우리 모두 다 여기까지만 하는 게 어떻겠나?</color>
+()<Speaker></Speaker>||:그 질문을 예상했다는 듯, 녹음된 오버슈타인의 목소리가 답했다.
+()<Speaker>오버슈타인</Speaker>||:<color=#00CCFF>나를 믿게, 장군.</color>+<color=#00CCFF>자네를 끝까지 도울 수 있는 것은 오직 같은 내부자뿐이야.</color>
+()<Speaker></Speaker>||:오버슈타인은 목소리를 살짝 가다듬고 부드럽게 말을 이었다.
+()<Speaker>오버슈타인</Speaker>||:<color=#00CCFF>내 약속하지, 모든 일이 끝나면 우리의 우정에 가장 화끈한 불을 지필 것이라고.</color>+<color=#00CCFF>슈타지도 이제 백여 년 전의 휘황찬란하던 시기로 돌아갈 때가 되었다고 보네. 난 자네가 우리의 정원에 꼭 필요한 유능한 정원사라 믿어 의심치 않아.</color>
+()<Speaker>오버슈타인</Speaker>||:<color=#00CCFF>언제나 그러했듯이.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+녹음펜의 재생이 멈췄다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:슈바인슈타이거도 모자를 벗으며 길게 한숨을 내뱉었다.
+()<Speaker></Speaker>||<SE1>AVG_Knock</SE1>:그때, 노크 소리가 났다.
+NPC-Schweinsteiger(0)<Speaker>슈바인슈타이거</Speaker>||:혼자 있고 싶다 했을 텐데?
+()<Speaker>???</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:문밖의 사람은 이를 못 들은마냥 문을 열고 들어왔다.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:샴페인 병을 든, 하얀 옷의 무표정한 웨이터였다.+슈바인슈타이거는 자신의 수행원들 중 이 자의 얼굴은 본 적 없음을 확신했다.
+()<Speaker>웨이터</Speaker>||<SE1>Stop_AVG_loop</SE1>:맛있게 드십시오.
+()<Speaker></Speaker>||:샴페인 병에는 선명한 붉은 글씨로 "우정을 위하여"라 쓰여있었다.+슈바인슈타이거는 일어나지 않고, 열린 문 너머를 슬쩍 곁눈질했다. 그의 경호원들은 여전히 맡은 소임을 다하고 있었지만, 지금 이 방에서 무슨 일이 일어나는지는 전혀 보이지 않는 듯했다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:한편, "웨이터"는 슈바인슈타이거의 시선을 아는지 모르는지 조용히 술병을 따고 정중하게 샴페인을 가득 따랐다.+따라지는 샴페인은 톡톡 튀며 시원한 탄산 소리를 냈다.
+NPC-Schweinsteiger(0)<Speaker>슈바인슈타이거</Speaker>||:......
+NPC-Schweinsteiger(0)<Speaker>웨이터</Speaker><同时置暗>||:......
+NPC-Schweinsteiger(0)<Speaker>슈바인슈타이거</Speaker>||:...우정을 위하여.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:슈바인슈타이거는 샴페인잔을 들어 허공에 건배하고, 잔을 단숨에 비웠다.
+()||<黑点1>:

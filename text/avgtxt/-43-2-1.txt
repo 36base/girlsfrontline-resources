@@ -1,79 +1,79 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......
-()<Speaker>시스템</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:게임을 종료하시겠습니까?+......+게임을 종료합니다, 로그아웃 중...+......+로그아웃 실패.
-NPC-Dima(1)<Speaker>디마</Speaker>||:젠장!+내가 여기에 평생 갇혀있을 것 같아?
-()<Speaker>시스템</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:경고. 식별 코드가 잠겼습니다.
-NPC-Dima(1)<Speaker>디마</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:...!?
-HK416(6)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>GF_xDivision_Scene3</BGM>:<color=#00CCFF>그만 단념하세요. 당신이 떠나게 두지 않을 거예요.</color>
-NPC-Dima(1)<Speaker>디마</Speaker>;HK416(6)||:네 짓이구나, 416...
-NPC-Dima(1);HK416(6)<Speaker>？？？</Speaker>||:<color=#00CCFF>제 진짜 이름으로 불러 달라니까요?</color>
-NPC-Dima(1)<Speaker>디마</Speaker>;HK416(6)||:그건 네 이름이 아니야. 나도 널 그렇게 만들 생각 없었다고.
-NPC-Dima(1);HK416(6)<Speaker>？？？</Speaker>||:<color=#00CCFF>그래서, 끝까지 거부하시겠다?</color>
-NPC-Dima(1)<Speaker>디마</Speaker>;HK416(6)||:거부고 뭐고, 왜 나더러 네 동료가 되란 건데?+애당초 우린 방향부터가 다르다고!
-NPC-Dima(1);HK416(6)<Speaker>？？？</Speaker>||:<color=#00CCFF>괜찮아요, 결과는 언제나 선택에 의해 변하는 법이니까.</color>+<color=#00CCFF>곧 당신이 모든 걸 받아들일 수 있게 해 줄 테니...</color>+<color=#00CCFF>기다리고 있어요.</color>
-NPC-Dima(1)<Speaker>디마</Speaker>||<SE1>AVG_tele_disconnect</SE1>:잠깐, 끊지... 이봐? 이봐!+젠장... 젠장!+로그아웃되라고, 로그아웃!
-()<Speaker>시스템</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:경고. 식별 코드가 잠겼습니다.+경고. 식별 코드가 잠겼습니다.+경고. 식별 코드가...
-()<Speaker>시스템</Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>301</BIN><黑屏2>:......<下雪></下雪>
-()<Speaker></Speaker>||:폭력이 난무하는 뉴욕 5번 가. 범죄자들은 그들이 자신의 것으로 삼은 영역에서 날뛰어댔다.+버려진 순찰차 위에 올라, 모든 질서를 멸시할 수 있다는 듯 환호했다.+하지만 그 교만은 오래가지 못했다.
-()<Speaker></Speaker>||<SE1>AVG_pistol_finalshot_sup</SE1>:바람을 가르고 날아온 총알이 불행한 첫 번째 희생자를 꿰뚫자, 그들은 바로 흥분해 마구잡이로 총을 갈기며 총알이 날아온 방향으로 달려들었다.
-()<Speaker></Speaker>||<SE1>AVG_pistol_finalshot_sup</SE1>:방금 그 총알을 뱉었던 총구는 초연이 아직 사라지기도 전에 다시 불을 뿜어, 차례차례 몰려드는 적들의 숨통을 끊었다.+거리의 범죄자들은 하나둘씩 쓰러졌고, 총알이 바닥나고 나서야 거리는 조용해졌다.
-()<Speaker></Speaker>||:패거리들은 거의 다 쓰러졌지만, 아직 목숨을 부지한 강도가 바닥에 엎드린 채 떨어뜨린 무기를 다시 주으려 했다.+하지만 가까스로 무기에 닿기 전, 해골 마크가 그려진 장화가 그의 손을 짓밟았다.
-M870P(0)<Speaker>M870</Speaker>||<BGM>BGM_War</BGM>:Surprise, mo********er!+어제 내 신발 바닥에 붙은 껌딱지처럼 끈질긴데, 발버둥도 이제 끝이야.+걱정 마, 너한텐 특별히 쓰레기통 특등석을 줄 테니까!+신참, 너도 뭐라 말 좀 해봐. 그리고 딱지 끊는 건 너한테 맡길게.
-VSK(0)<Speaker>VSK-94</Speaker>||:내가? 어, 그러니까, 크흠...
-M870P(0)<Speaker>M870</Speaker>||:그래 잘했어, 이제 현장에 남은 증거물을 수집한다!
-VSK(0)<Speaker>VSK-94</Speaker>||:나 아직 아무 말도 안 했는데.
-ART556(0)<Speaker>ART556</Speaker>||:누님의 충실한 부하 ART55륫! 에으으...+아, 아무튼 수사를 시작합니다!+어디, 요놈들은 뭘 가지고 있나... 이건 파이프인가? 에이 몰라, 흉기는 흉기지 뭐.
-()<Speaker></Speaker>||:ART556은 P7이 건넨 플라스틱 파이프를 받아, 쓰러진 강도 앞에 놓았다.
-P7(0)<Speaker>P7</Speaker>||:음... 아니, 좀 더 이쪽으로.
-P7(0);ART556(0)<Speaker>ART556</Speaker>||:이쪽? 이렇게?
-P7(6)<Speaker>P7</Speaker>;ART556(0)||:좀 더, 좀 더... OK, 거기 거기! 퍼펙트!
-P7(6);ART556(6)<Speaker>ART556</Speaker><Position>35,30</Position>||:헤헤헤... 이렇게 흉악한 흉기를 가졌으니, 분명 아주~ 아주 위험한 폭력범인 게 틀림없구만!
-P7(6)<Speaker>P7</Speaker>||:이런 폭력범을 해치웠으니, 또 하나 도시를 위한 일을 해낸 거지!+역시 우리야, 범죄자를 처단하고 맨해튼의 평화를 지켰다!
-M870P(0)<Speaker>M870</Speaker>||:푸후~ 도시의 안녕을 수호하고 마시는 사이다는 각별하다니까!
-VSK(0)<Speaker>VSK-94</Speaker>||:하지만 이런 적들에게서 얻는 물자는 역시 너무 한정됐어. 장비나 탄약은 많지만 식량이 너무 부족해.
-ART556(0)<Speaker>ART556</Speaker>||:오는 길에서 본 보급 포인트는 전부 허탕이었잖아. 분명 누가 선수를 친 거야!
-P7(0)<Speaker>P7</Speaker>||:으으, 초코바! 내 초코바!
-VSK(0)<Speaker>VSK-94</Speaker>||:그런 거야 먼저 발견하는 사람이 임자지. 지금쯤이면 거리의 물자는 거의 다 회수됐을 테고, 또 곳곳에서 싸움이 몇 번인가 벌어졌으니, 앞으로는 물자가 더더욱 부족해질 거야.+차질 없이 움직일 수 있도록, 안정적인 보급품 확보 방법을 강구해야 해.
-M870P(0)<Speaker>M870</Speaker>||:아~ 그런 건 나중에 생각하자고.+작업은 뭐든지 마무리가 중요한 법이야. 자, 너도 이리 와서 같이 한 장 찍어. 이 "들러리"들이 아직 남아있을 때 말이야.+다들 준비됐지? 그럼 치――
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>요원님, 기상 상태가 악화되고 있습니다. 귀측의 현재 위치에서 이 이상 지체한다면 이후의 작전에 심각한 차질이 빚어질 겁니다.</color>+<color=#00CCFF>서둘러 다크존으로 이동해 약품을 회수하세요!</color>
-M870P(0)<Speaker>M870</Speaker>||:아 뭔데 진짜! 이 여자는 왜 자꾸 저 천사도 보면 타락할 얼굴을 들이밀어서 기분을 잡치는데!+이 녀석 통신 차단 못해?
-ART556(0)<Speaker>ART556</Speaker>||:해봤는데 안 돼, 게임 음성 음소거했는데도 계속 들려.
-VSK(0)<Speaker>VSK-94</Speaker>;ART556(0)||:그러고 보니, 나 배경 음악 껐는데도 계속 무슨 음악이 들려. 이 게임의 사운드트랙은 아닌 거 같은데...
-VSK(0);P7(0)<Speaker>P7</Speaker>||:아, 내 공무집행 전용 BGM이야. 마음에 들어?
-VSK(0)<Speaker>VSK-94</Speaker>;P7(0)||:좀 시끄러워.
-VSK(0);ART556(0)<Speaker>ART556</Speaker>||:지금은 여기 범죄자들 모두 해치웠으니까 분위기 적절할 때 다시 틀자.
-VSK(0);P7(0)<Speaker>P7</Speaker>||:쳇, 하여간 감성이 부족해요, 감성이.
-VSK(0);P7(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:딸깍.
-VSK(0)<Speaker>VSK-94</Speaker>||:후우... 이제야 좀 조용해졌네.
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<BGM>m_avg_casual</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>이 시각에도 무고한 시민들이 질병의 공포에 떨며 요원님이 약품을 회수해 오기만을 기다리고 있습니다. 우리의 임무는 뉴욕을 구하기 위한 일입니다.</color>
-M870P(0)<Speaker>M870</Speaker>;NPC-Dima(1)||:후후... 약만으로 도시를 구할 수 있다고? 정말? 그럼 나와서 지나가는 범죄자들한테 네가 애교라도 떨어 봐. 누가 알아? 가출한 그놈들의 양심이 돌아와서 자수할지.
-NPC-Dima(1)<Speaker>디마</Speaker>||:그건...!
-VSK(0)<Speaker>VSK-94</Speaker>||:와... NPC가 말문도 막히네.
-P7(0)<Speaker>P7</Speaker>||:하지만 말대꾸는 전혀 안 해. 그렇게 프로그래밍된 걸까, 아님 그냥 멘탈이 강한 걸까?
-ART556(0)<Speaker>ART556</Speaker>||:그러게 내가 말했잖아, 저 가이드 캐릭터, 고전 게임답지 않게 엄청 인간적이라고. 한창 즐기고 있을 때마다 튀어나와서 훼방놔서 불만이긴 하지만.
-VSK(0)<Speaker>VSK-94</Speaker>||:우리에게 좀 진지해지라는 충고이기도 하니, 필요하면 얌전히 협조하는 게 낫지 않을까?+내가 아직 경관직 복무 중이었을 땐――
-P7(0)<Speaker>P7</Speaker>||:또 또 또 설교한다!
-ART556(0)<Speaker>ART556</Speaker>||:적당히 하자구, VSK 후배. 흥이 식잖아 흥이!
-VSK(0)<Speaker>VSK-94</Speaker>||:아까 내 말을 안 끊었으면 지금 설교처럼 들리게 말하지도 않았어.
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:발언권 줄 때 다 말할 수 있도록 미리 할 말을 정리해 두도록 해.+자아, 그럼 이젠 어디로 가서 놀까나...
-M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:우선 보급품 확보 문제부터 해결하자니까!
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:에이, 식사 정도야 다른 녀석들을 해치우면 만사 오케이지.
-VSK(0)<Speaker>VSK-94</Speaker>||:...약탈?
-P7(0)<Speaker>P7</Speaker>||:약탈이라니, 엄연한 "징수"라고! 아무한테도 원망받지 않는 커뮤니케이션~
-ART556(0)<Speaker>ART556</Speaker>||:원망해도 납득하게 만들어 줄 거지만~
-VSK(0)<Speaker>VSK-94</Speaker>||:뭐야 그게...
-M870P(0)<Speaker>M870</Speaker>||:알았어 알았어, 그럼 물자 징수를 최우선 사항으로. 됐지? 제군들! 우린 지금부터 그랜드 센트럴 터미널로 이동한다!
-ART556(0)<Speaker>ART556</Speaker>||:오오, 뭔가 보물이 잔뜩 있을 것 같은 이름이야!
-VSK(0)<Speaker>VSK-94</Speaker>||:물자를 찾는다면 저쪽의 도서관도 괜찮지 않아?
-ART556(0)<Speaker>ART556</Speaker>||:도서관은 하나도 범죄의 온상 같지가 않잖아, 게다가 거긴 분위기도 꽝이야.
-P7(0)<Speaker>P7</Speaker>;ART556(0)||:스샷도 안 예쁘게 나올걸?
-P7(0);VSK(0)<Speaker>VSK-94</Speaker>||:너희들 정말 진지하게 게임에 임하는 거 맞아...?
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:흐흐흐... 내 감은 틀림없어, 그랜드 센트럴 터미널엔 분명 도주 중인 흉악한 수배범이 숨었을 거야. 어쩌면 대량의 물자를 독점하고 있을지도 모를 일이니, 반드시 수사해야 해!+벼룩이든 노린재든 모조리 끄집어내서, 깡그리 털어버린다!
-M870P(0);ART556(0)<Speaker>ART556</Speaker>||:정의를 위하여!
-M870P(0);P7(0)<Speaker>P7</Speaker>||:초코바를 위하여!
-M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:하아...+틈만 나면 코사크 댄스나 추는 녀석들보단 제정신이니, 내가 참아야지.
-M870P(0)<Speaker>M870</Speaker>||:그 말, 찬성한단 뜻이렷다?+그럼 만장일치로 출발!
-()<Speaker>일동</Speaker>||:오――!!
-()||<黑点1><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......
+()<Speaker>시스템</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:게임을 종료하시겠습니까?+......+게임을 종료합니다, 로그아웃 중...+......+로그아웃 실패.
+NPC-Dima(1)<Speaker>디마</Speaker>||:젠장!+내가 여기에 평생 갇혀있을 것 같아?
+()<Speaker>시스템</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:경고. 식별 코드가 잠겼습니다.
+NPC-Dima(1)<Speaker>디마</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:...!?
+HK416(6)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>GF_xDivision_Scene3</BGM>:<color=#00CCFF>그만 단념하세요. 당신이 떠나게 두지 않을 거예요.</color>
+NPC-Dima(1)<Speaker>디마</Speaker>;HK416(6)||:네 짓이구나, 416...
+NPC-Dima(1);HK416(6)<Speaker>？？？</Speaker>||:<color=#00CCFF>제 진짜 이름으로 불러 달라니까요?</color>
+NPC-Dima(1)<Speaker>디마</Speaker>;HK416(6)||:그건 네 이름이 아니야. 나도 널 그렇게 만들 생각 없었다고.
+NPC-Dima(1);HK416(6)<Speaker>？？？</Speaker>||:<color=#00CCFF>그래서, 끝까지 거부하시겠다?</color>
+NPC-Dima(1)<Speaker>디마</Speaker>;HK416(6)||:거부고 뭐고, 왜 나더러 네 동료가 되란 건데?+애당초 우린 방향부터가 다르다고!
+NPC-Dima(1);HK416(6)<Speaker>？？？</Speaker>||:<color=#00CCFF>괜찮아요, 결과는 언제나 선택에 의해 변하는 법이니까.</color>+<color=#00CCFF>곧 당신이 모든 걸 받아들일 수 있게 해 줄 테니...</color>+<color=#00CCFF>기다리고 있어요.</color>
+NPC-Dima(1)<Speaker>디마</Speaker>||<SE1>AVG_tele_disconnect</SE1>:잠깐, 끊지... 이봐? 이봐!+젠장... 젠장!+로그아웃되라고, 로그아웃!
+()<Speaker>시스템</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:경고. 식별 코드가 잠겼습니다.+경고. 식별 코드가 잠겼습니다.+경고. 식별 코드가...
+()<Speaker>시스템</Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>301</BIN><黑屏2>:......<下雪></下雪>
+()<Speaker></Speaker>||:폭력이 난무하는 뉴욕 5번 가. 범죄자들은 그들이 자신의 것으로 삼은 영역에서 날뛰어댔다.+버려진 순찰차 위에 올라, 모든 질서를 멸시할 수 있다는 듯 환호했다.+하지만 그 교만은 오래가지 못했다.
+()<Speaker></Speaker>||<SE1>AVG_pistol_finalshot_sup</SE1>:바람을 가르고 날아온 총알이 불행한 첫 번째 희생자를 꿰뚫자, 그들은 바로 흥분해 마구잡이로 총을 갈기며 총알이 날아온 방향으로 달려들었다.
+()<Speaker></Speaker>||<SE1>AVG_pistol_finalshot_sup</SE1>:방금 그 총알을 뱉었던 총구는 초연이 아직 사라지기도 전에 다시 불을 뿜어, 차례차례 몰려드는 적들의 숨통을 끊었다.+거리의 범죄자들은 하나둘씩 쓰러졌고, 총알이 바닥나고 나서야 거리는 조용해졌다.
+()<Speaker></Speaker>||:패거리들은 거의 다 쓰러졌지만, 아직 목숨을 부지한 강도가 바닥에 엎드린 채 떨어뜨린 무기를 다시 주으려 했다.+하지만 가까스로 무기에 닿기 전, 해골 마크가 그려진 장화가 그의 손을 짓밟았다.
+M870P(0)<Speaker>M870</Speaker>||<BGM>BGM_War</BGM>:Surprise, mo********er!+어제 내 신발 바닥에 붙은 껌딱지처럼 끈질긴데, 발버둥도 이제 끝이야.+걱정 마, 너한텐 특별히 쓰레기통 특등석을 줄 테니까!+신참, 너도 뭐라 말 좀 해봐. 그리고 딱지 끊는 건 너한테 맡길게.
+VSK(0)<Speaker>VSK-94</Speaker>||:내가? 어, 그러니까, 크흠...
+M870P(0)<Speaker>M870</Speaker>||:그래 잘했어, 이제 현장에 남은 증거물을 수집한다!
+VSK(0)<Speaker>VSK-94</Speaker>||:나 아직 아무 말도 안 했는데.
+ART556(0)<Speaker>ART556</Speaker>||:누님의 충실한 부하 ART55륫! 에으으...+아, 아무튼 수사를 시작합니다!+어디, 요놈들은 뭘 가지고 있나... 이건 파이프인가? 에이 몰라, 흉기는 흉기지 뭐.
+()<Speaker></Speaker>||:ART556은 P7이 건넨 플라스틱 파이프를 받아, 쓰러진 강도 앞에 놓았다.
+P7(0)<Speaker>P7</Speaker>||:음... 아니, 좀 더 이쪽으로.
+P7(0);ART556(0)<Speaker>ART556</Speaker>||:이쪽? 이렇게?
+P7(6)<Speaker>P7</Speaker>;ART556(0)||:좀 더, 좀 더... OK, 거기 거기! 퍼펙트!
+P7(6);ART556(6)<Speaker>ART556</Speaker><Position>35,30</Position>||:헤헤헤... 이렇게 흉악한 흉기를 가졌으니, 분명 아주~ 아주 위험한 폭력범인 게 틀림없구만!
+P7(6)<Speaker>P7</Speaker>||:이런 폭력범을 해치웠으니, 또 하나 도시를 위한 일을 해낸 거지!+역시 우리야, 범죄자를 처단하고 맨해튼의 평화를 지켰다!
+M870P(0)<Speaker>M870</Speaker>||:푸후~ 도시의 안녕을 수호하고 마시는 사이다는 각별하다니까!
+VSK(0)<Speaker>VSK-94</Speaker>||:하지만 이런 적들에게서 얻는 물자는 역시 너무 한정됐어. 장비나 탄약은 많지만 식량이 너무 부족해.
+ART556(0)<Speaker>ART556</Speaker>||:오는 길에서 본 보급 포인트는 전부 허탕이었잖아. 분명 누가 선수를 친 거야!
+P7(0)<Speaker>P7</Speaker>||:으으, 초코바! 내 초코바!
+VSK(0)<Speaker>VSK-94</Speaker>||:그런 거야 먼저 발견하는 사람이 임자지. 지금쯤이면 거리의 물자는 거의 다 회수됐을 테고, 또 곳곳에서 싸움이 몇 번인가 벌어졌으니, 앞으로는 물자가 더더욱 부족해질 거야.+차질 없이 움직일 수 있도록, 안정적인 보급품 확보 방법을 강구해야 해.
+M870P(0)<Speaker>M870</Speaker>||:아~ 그런 건 나중에 생각하자고.+작업은 뭐든지 마무리가 중요한 법이야. 자, 너도 이리 와서 같이 한 장 찍어. 이 "들러리"들이 아직 남아있을 때 말이야.+다들 준비됐지? 그럼 치――
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>요원님, 기상 상태가 악화되고 있습니다. 귀측의 현재 위치에서 이 이상 지체한다면 이후의 작전에 심각한 차질이 빚어질 겁니다.</color>+<color=#00CCFF>서둘러 다크존으로 이동해 약품을 회수하세요!</color>
+M870P(0)<Speaker>M870</Speaker>||:아 뭔데 진짜! 이 여자는 왜 자꾸 저 천사도 보면 타락할 얼굴을 들이밀어서 기분을 잡치는데!+이 녀석 통신 차단 못해?
+ART556(0)<Speaker>ART556</Speaker>||:해봤는데 안 돼, 게임 음성 음소거했는데도 계속 들려.
+VSK(0)<Speaker>VSK-94</Speaker>;ART556(0)||:그러고 보니, 나 배경 음악 껐는데도 계속 무슨 음악이 들려. 이 게임의 사운드트랙은 아닌 거 같은데...
+VSK(0);P7(0)<Speaker>P7</Speaker>||:아, 내 공무집행 전용 BGM이야. 마음에 들어?
+VSK(0)<Speaker>VSK-94</Speaker>;P7(0)||:좀 시끄러워.
+VSK(0);ART556(0)<Speaker>ART556</Speaker>||:지금은 여기 범죄자들 모두 해치웠으니까 분위기 적절할 때 다시 틀자.
+VSK(0);P7(0)<Speaker>P7</Speaker>||:쳇, 하여간 감성이 부족해요, 감성이.
+VSK(0);P7(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:딸깍.
+VSK(0)<Speaker>VSK-94</Speaker>||:후우... 이제야 좀 조용해졌네.
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<BGM>m_avg_casual</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>이 시각에도 무고한 시민들이 질병의 공포에 떨며 요원님이 약품을 회수해 오기만을 기다리고 있습니다. 우리의 임무는 뉴욕을 구하기 위한 일입니다.</color>
+M870P(0)<Speaker>M870</Speaker>;NPC-Dima(1)||:후후... 약만으로 도시를 구할 수 있다고? 정말? 그럼 나와서 지나가는 범죄자들한테 네가 애교라도 떨어 봐. 누가 알아? 가출한 그놈들의 양심이 돌아와서 자수할지.
+NPC-Dima(1)<Speaker>디마</Speaker>||:그건...!
+VSK(0)<Speaker>VSK-94</Speaker>||:와... NPC가 말문도 막히네.
+P7(0)<Speaker>P7</Speaker>||:하지만 말대꾸는 전혀 안 해. 그렇게 프로그래밍된 걸까, 아님 그냥 멘탈이 강한 걸까?
+ART556(0)<Speaker>ART556</Speaker>||:그러게 내가 말했잖아, 저 가이드 캐릭터, 고전 게임답지 않게 엄청 인간적이라고. 한창 즐기고 있을 때마다 튀어나와서 훼방놔서 불만이긴 하지만.
+VSK(0)<Speaker>VSK-94</Speaker>||:우리에게 좀 진지해지라는 충고이기도 하니, 필요하면 얌전히 협조하는 게 낫지 않을까?+내가 아직 경관직 복무 중이었을 땐――
+P7(0)<Speaker>P7</Speaker>||:또 또 또 설교한다!
+ART556(0)<Speaker>ART556</Speaker>||:적당히 하자구, VSK 후배. 흥이 식잖아 흥이!
+VSK(0)<Speaker>VSK-94</Speaker>||:아까 내 말을 안 끊었으면 지금 설교처럼 들리게 말하지도 않았어.
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:발언권 줄 때 다 말할 수 있도록 미리 할 말을 정리해 두도록 해.+자아, 그럼 이젠 어디로 가서 놀까나...
+M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:우선 보급품 확보 문제부터 해결하자니까!
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:에이, 식사 정도야 다른 녀석들을 해치우면 만사 오케이지.
+VSK(0)<Speaker>VSK-94</Speaker>||:...약탈?
+P7(0)<Speaker>P7</Speaker>||:약탈이라니, 엄연한 "징수"라고! 아무한테도 원망받지 않는 커뮤니케이션~
+ART556(0)<Speaker>ART556</Speaker>||:원망해도 납득하게 만들어 줄 거지만~
+VSK(0)<Speaker>VSK-94</Speaker>||:뭐야 그게...
+M870P(0)<Speaker>M870</Speaker>||:알았어 알았어, 그럼 물자 징수를 최우선 사항으로. 됐지? 제군들! 우린 지금부터 그랜드 센트럴 터미널로 이동한다!
+ART556(0)<Speaker>ART556</Speaker>||:오오, 뭔가 보물이 잔뜩 있을 것 같은 이름이야!
+VSK(0)<Speaker>VSK-94</Speaker>||:물자를 찾는다면 저쪽의 도서관도 괜찮지 않아?
+ART556(0)<Speaker>ART556</Speaker>||:도서관은 하나도 범죄의 온상 같지가 않잖아, 게다가 거긴 분위기도 꽝이야.
+P7(0)<Speaker>P7</Speaker>;ART556(0)||:스샷도 안 예쁘게 나올걸?
+P7(0);VSK(0)<Speaker>VSK-94</Speaker>||:너희들 정말 진지하게 게임에 임하는 거 맞아...?
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:흐흐흐... 내 감은 틀림없어, 그랜드 센트럴 터미널엔 분명 도주 중인 흉악한 수배범이 숨었을 거야. 어쩌면 대량의 물자를 독점하고 있을지도 모를 일이니, 반드시 수사해야 해!+벼룩이든 노린재든 모조리 끄집어내서, 깡그리 털어버린다!
+M870P(0);ART556(0)<Speaker>ART556</Speaker>||:정의를 위하여!
+M870P(0);P7(0)<Speaker>P7</Speaker>||:초코바를 위하여!
+M870P(0);VSK(0)<Speaker>VSK-94</Speaker>||:하아...+틈만 나면 코사크 댄스나 추는 녀석들보단 제정신이니, 내가 참아야지.
+M870P(0)<Speaker>M870</Speaker>||:그 말, 찬성한단 뜻이렷다?+그럼 만장일치로 출발!
+()<Speaker>일동</Speaker>||:오――!!
+()||<黑点1><BIN>10</BIN>:

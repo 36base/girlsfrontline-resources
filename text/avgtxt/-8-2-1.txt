@@ -1,28 +1,28 @@
-()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM>:낙뢰 사건으로부터 일주일 후, S09 구역의 그리폰 지휘부.
-FNFNC(0)<Speaker>FN-FNC</Speaker>||<BIN>8</BIN>:.....그렇다는 건, 너도 군인이란 거야?
-FNFNC(0);BB_Noel(2)<Speaker>노엘</Speaker>||<BIN>8</BIN>:응..... 이곳의 사정을 듣고 나니까, 나도 좀 혼란스럽지만.....
-FNFNC(0)<Speaker>FN-FNC</Speaker>;BB_Noel(2)||<BIN>8</BIN>:미래에서 온 사람이니, 좀 더 멋있는 옷을 입을 줄 알았는데.
-FNFNC(0);BB_Noel(2)<Speaker>노엘</Speaker>||<BIN>8</BIN>:실망시켰다니 미...미안...+그런데...... 넌 내 말을 믿어주는 거야?
-FNFNC(0)<Speaker>FN-FNC</Speaker>;BB_Noel(2)||<BIN>8</BIN>:믿는 건 아니고, 그냥 별로 상관없을 뿐이야.......+우리 인형은 그저 무사히 임무만 끝마칠 수 있다면 충분하니까.
-FNFNC(0);BB_Noel(2)<Speaker>노엘</Speaker>||<BIN>8</BIN>:인형...... 너희들은 정말로 인간이 아니구나.+로봇이라면, 너희들도 로켓 펀치라던가 스크류 드라이버 같은 기술도 쓸 수 있는 거야?
-FNFNC(0)<Speaker>FN-FNC</Speaker>;BB_Noel(2)||<BIN>8</BIN>:......너희들 세계의 로봇은 전부 그런 걸 쓸 수 있는 거야?
-FNFNC(0);BB_Noel(2)<Speaker>노엘</Speaker>||<BIN>8</BIN>:어...... 그게 로봇이라기 보다는 사이보그라는 말이 더 맞긴 한데......
-FNFNC(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:너희 둘, 보기보다 죽이 잘 맞는걸.
-FNFNC(0)<Speaker>FN-FNC</Speaker>;FAL(0)||<BIN>8</BIN>:어, FAL? 벌써 밥 먹을 시간이야?
-FNFNC(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:빵이라면 있어. 하지만 임무 이야기가 우선이야.+낙뢰 사건 이후에, 철혈이 주변 지역을 미친 듯이 습격하기 시작했어.+이미 S09 구역의 주변에 거주하던 시민들이 다수 사망했다는 보고가 올라왔고.+그리고...... 목격자들의 정보에 따르면, 철혈 유닛 중에 긴 토끼 귀를 가진 인형이 있다고 해.
-BB_Noel(2)<Speaker>노엘</Speaker>;FAL(0)||<BIN>8</BIN>:토끼 귀라고요!? 서, 설마!....
-BB_Noel(2);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:딱 잘라 말할 수는 없지만, 겉모습은 네가 말하는 그 녀석과 비슷하다고 하던데.
-BB_Noel(2)<Speaker>노엘</Speaker>;FAL(0)||<BIN>8</BIN>:분명 그 사람이에요! 그 사람만 찾으면, 집에 돌아갈 수 있어!
-BB_Noel(2);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:현재 토끼 인간의 동기가 뭔지는 불확실하지만......+이렇게나 우리를 성가시게 한다면, 우리도 곤란하단 말이지.+모두의 목표가 그 사람인 이상, 지금은 너도 우리에게 협력하도록 해.
-BB_Noel(2)<Speaker>노엘</Speaker>;FAL(0)||<BIN>8</BIN>:다행이야!...... 드디어 돌아갈 수 있는 희망이 생겼어!
-BB_Noel(2);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:미안한데, 노엘 씨. 지금 자신의 처지를 돌아보도록 해.+넌 용의자 신분으로 이곳에 있는 거니까, 행동의 제한은 풀어줄 수 없어.
-BB_Noel(2)<Speaker>노엘</Speaker>;FAL(0)||<BIN>8</BIN>:우으..... 미안해요...... 너무 들떠버려서 그만......
-BB_Noel(2);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN><黑点1>:다음에 철혈이 습격할 예상 지점의 보고가 들어왔어.+가자, 다들 밥벌이 도구 잘 챙기도록 해......+자, "헌팅 래빗 작전" 시작이야.
-FN49(0)<Speaker>FN-49</Speaker><通讯框>||<BIN>10</BIN><BGM>BGM_Empty</BGM><黑点2>:여, 여기는 B 지점...... 주변의 거주민들은 이미 대피시켰어요.
-FN57(0)<Speaker>FN-57</Speaker><通讯框>||<BIN>10</BIN>:C 지점도 확인 끝났어. 별문제는 없어 보이는걸?
-FAL(0)<Speaker>FAL</Speaker>||<BIN>10</BIN><BGM>BGM_Frontline</BGM>:좋아, 이제 가만히 앉아서 토끼만 기다리면 되겠네......
-FAL(0);BOSS-4(0)<Speaker>인트루더</Speaker><通讯框>||<BIN>10</BIN>:그럴싸하네, 너희들의 열의가 여기까지 전해져 오는 것 같아.
-FAL(0)<Speaker>FAL</Speaker>;BOSS-4(0)<通讯框>||<BIN>10</BIN>:인트루더? 어째서 네가 여기에!...
-FAL(0);BOSS-4(0)<Speaker>인트루더</Speaker><通讯框>||<BIN>10</BIN>:미안하지만, 아직은 너희들을 "토끼"와 만나게 해줄 수는 없어서.+내가 대역을 맡은 걸 너희들이 싫어하지 않을 거라 믿어.
-FAL(0)<Speaker>FAL</Speaker>;BOSS-4(0)<通讯框>||<BIN>10</BIN>:너도, "토끼"도, 전부 우리의 타깃 리스트에 있을 뿐이야.+이번엔 단지, 리스트에 있는 네 이름에 먼저 줄을 긋는 것일 뿐이지.
-FAL(0);BOSS-4(0)<Speaker>인트루더</Speaker><通讯框>||<BIN>10</BIN>:환영해줘서 고마워. 우리들의 이번 만남을 소중히 여기자고.
+()||<BIN>8</BIN><BGM>BGM_Sunshine</BGM>:낙뢰 사건으로부터 일주일 후, S09 구역의 그리폰 지휘부.
+FNFNC(0)<Speaker>FN-FNC</Speaker>||<BIN>8</BIN>:.....그렇다는 건, 너도 군인이란 거야?
+FNFNC(0);BB_Noel(2)<Speaker>노엘</Speaker>||<BIN>8</BIN>:응..... 이곳의 사정을 듣고 나니까, 나도 좀 혼란스럽지만.....
+FNFNC(0)<Speaker>FN-FNC</Speaker>;BB_Noel(2)||<BIN>8</BIN>:미래에서 온 사람이니, 좀 더 멋있는 옷을 입을 줄 알았는데.
+FNFNC(0);BB_Noel(2)<Speaker>노엘</Speaker>||<BIN>8</BIN>:실망시켰다니 미...미안...+그런데...... 넌 내 말을 믿어주는 거야?
+FNFNC(0)<Speaker>FN-FNC</Speaker>;BB_Noel(2)||<BIN>8</BIN>:믿는 건 아니고, 그냥 별로 상관없을 뿐이야.......+우리 인형은 그저 무사히 임무만 끝마칠 수 있다면 충분하니까.
+FNFNC(0);BB_Noel(2)<Speaker>노엘</Speaker>||<BIN>8</BIN>:인형...... 너희들은 정말로 인간이 아니구나.+로봇이라면, 너희들도 로켓 펀치라던가 스크류 드라이버 같은 기술도 쓸 수 있는 거야?
+FNFNC(0)<Speaker>FN-FNC</Speaker>;BB_Noel(2)||<BIN>8</BIN>:......너희들 세계의 로봇은 전부 그런 걸 쓸 수 있는 거야?
+FNFNC(0);BB_Noel(2)<Speaker>노엘</Speaker>||<BIN>8</BIN>:어...... 그게 로봇이라기 보다는 사이보그라는 말이 더 맞긴 한데......
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:너희 둘, 보기보다 죽이 잘 맞는걸.
+FNFNC(0)<Speaker>FN-FNC</Speaker>;FAL(0)||<BIN>8</BIN>:어, FAL? 벌써 밥 먹을 시간이야?
+FNFNC(0);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:빵이라면 있어. 하지만 임무 이야기가 우선이야.+낙뢰 사건 이후에, 철혈이 주변 지역을 미친 듯이 습격하기 시작했어.+이미 S09 구역의 주변에 거주하던 시민들이 다수 사망했다는 보고가 올라왔고.+그리고...... 목격자들의 정보에 따르면, 철혈 유닛 중에 긴 토끼 귀를 가진 인형이 있다고 해.
+BB_Noel(2)<Speaker>노엘</Speaker>;FAL(0)||<BIN>8</BIN>:토끼 귀라고요!? 서, 설마!....
+BB_Noel(2);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:딱 잘라 말할 수는 없지만, 겉모습은 네가 말하는 그 녀석과 비슷하다고 하던데.
+BB_Noel(2)<Speaker>노엘</Speaker>;FAL(0)||<BIN>8</BIN>:분명 그 사람이에요! 그 사람만 찾으면, 집에 돌아갈 수 있어!
+BB_Noel(2);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:현재 토끼 인간의 동기가 뭔지는 불확실하지만......+이렇게나 우리를 성가시게 한다면, 우리도 곤란하단 말이지.+모두의 목표가 그 사람인 이상, 지금은 너도 우리에게 협력하도록 해.
+BB_Noel(2)<Speaker>노엘</Speaker>;FAL(0)||<BIN>8</BIN>:다행이야!...... 드디어 돌아갈 수 있는 희망이 생겼어!
+BB_Noel(2);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN>:미안한데, 노엘 씨. 지금 자신의 처지를 돌아보도록 해.+넌 용의자 신분으로 이곳에 있는 거니까, 행동의 제한은 풀어줄 수 없어.
+BB_Noel(2)<Speaker>노엘</Speaker>;FAL(0)||<BIN>8</BIN>:우으..... 미안해요...... 너무 들떠버려서 그만......
+BB_Noel(2);FAL(0)<Speaker>FAL</Speaker>||<BIN>8</BIN><黑点1>:다음에 철혈이 습격할 예상 지점의 보고가 들어왔어.+가자, 다들 밥벌이 도구 잘 챙기도록 해......+자, "헌팅 래빗 작전" 시작이야.
+FN49(0)<Speaker>FN-49</Speaker><通讯框>||<BIN>10</BIN><BGM>BGM_Empty</BGM><黑点2>:여, 여기는 B 지점...... 주변의 거주민들은 이미 대피시켰어요.
+FN57(0)<Speaker>FN-57</Speaker><通讯框>||<BIN>10</BIN>:C 지점도 확인 끝났어. 별문제는 없어 보이는걸?
+FAL(0)<Speaker>FAL</Speaker>||<BIN>10</BIN><BGM>BGM_Frontline</BGM>:좋아, 이제 가만히 앉아서 토끼만 기다리면 되겠네......
+FAL(0);BOSS-4(0)<Speaker>인트루더</Speaker><通讯框>||<BIN>10</BIN>:그럴싸하네, 너희들의 열의가 여기까지 전해져 오는 것 같아.
+FAL(0)<Speaker>FAL</Speaker>;BOSS-4(0)<通讯框>||<BIN>10</BIN>:인트루더? 어째서 네가 여기에!...
+FAL(0);BOSS-4(0)<Speaker>인트루더</Speaker><通讯框>||<BIN>10</BIN>:미안하지만, 아직은 너희들을 "토끼"와 만나게 해줄 수는 없어서.+내가 대역을 맡은 걸 너희들이 싫어하지 않을 거라 믿어.
+FAL(0)<Speaker>FAL</Speaker>;BOSS-4(0)<通讯框>||<BIN>10</BIN>:너도, "토끼"도, 전부 우리의 타깃 리스트에 있을 뿐이야.+이번엔 단지, 리스트에 있는 네 이름에 먼저 줄을 긋는 것일 뿐이지.
+FAL(0);BOSS-4(0)<Speaker>인트루더</Speaker><通讯框>||<BIN>10</BIN>:환영해줘서 고마워. 우리들의 이번 만남을 소중히 여기자고.

@@ -1,64 +1,64 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:장갑 열차의 임시 지휘실.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||:그래서...? 그래서 다음엔 어떻게 됐어!?
-AR15Mod(0)<Speaker>AR15</Speaker>;M4 SOPMOD IIMod(0)||:눈 반짝이면서 내 옷 잡아당기지 마, 안 가르쳐 줄 거야.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:RO! 어떻게 된 거야!+왜 갑자기 끊어졌어?
-RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:나머지 기억 파편을 처리 중인데, 네 바나나가 과열됐어.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:뭐어?! 조금만 더 힘내 바나나!
-()<Speaker>지휘관</Speaker>||:그때 우리만 안젤리아를 찾던 것이 아니었구나.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:지휘관님도 안젤리아 씨를 찾고 있었나요?+하지만 그때 그리폰은 철수했다고...
-RO635(0)<Speaker>RO635</Speaker>||:네, 그리폰의 주 병력은 모두 철수했지만, 지휘관님은 안젤리아 씨를 구하기 위해서 저희와 함께 다시 전장으로 향하셨어요.
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||:그리고 결국 니토에게 붙잡혔죠. 그곳에서 살아 돌아온 건 정말 천운입니다.
-()<Speaker>지휘관</Speaker>||:으... RO의 마음이 이제 이해가 되네... 괜히 그때의 기억이...
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:우리가 지휘관을 구출하려고 얼마나 고생했는데!+그 후로 그 하얀 놈들이 우리가 가는 곳마다 나타나서 훼방을 놓았다니까! 어휴 지긋지긋해!
-AR15Mod(0)<Speaker>AR15</Speaker>||:니토도 갈수록 강해졌고 말이지.
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||:여러분이 제 외모만 보고 저에 대한 판단을 흐리지 않기를 바라죠.
-NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||:...자아, 수다는 나중에 해요.+남은 파편은 아직도 처리 중인가요?
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||:그렇지만, 바깥의 인형 제대들의 통신이 빈번해지고 있어. 상황이 생겼나 봐.
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:지휘관님! 적이 움직이기 시작했습니다! 지금 보고받은 내용을 보내드릴게요!
-()<Speaker>지휘관</Speaker>||:알았다. 각 제대를 전투태세로 전환하고, 탄약을 기존의 3배로 지급하도록.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:알겠습니다. 마인드맵 연산을 지나 프로토콜 통신에 집중하겠습니다.
-()<Speaker>지휘관</Speaker>||:카리나, 전투 경보 발령해서 후방 작업 인원을 교전 지역에서 철수시켜.+중장비 소대는 시야 확보를 우선하고, 모든 제대는 명령이 떨어지기 전에는 발포를 절대 금지한다.
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:네!+UMP45부터 통신! 연결해 드릴게요!
-()<Speaker>지휘관</Speaker>||:연결해.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>지휘관, 추억담 나누던 와중에 미안하지만 지금 군부대가 엄청난 속도로 접근 중인 건 알고 있지?</color>+<color=#00CCFF>다른 작전 제대들은 계획대로 위치했어. 지시를 내려 줘.</color>
-UMP45Mod(0)<Speaker>지휘관</Speaker><通讯框>||:404소대는 AR팀이 합류할 때까지 열차 내에서 대기하도록.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>라저.</color>
-()<Speaker>지휘관</Speaker>||:RO, 군의 장갑 열차도 출발했나?
-RO635(0)<Speaker>RO635</Speaker>||:아닌 것 같습니다. 대형 열원은 아직 탈린을 벗어나지 않은 것으로 파악됩니다.
-()<Speaker>지휘관</Speaker>||:그렇다면, 정찰 부대를 보내 우리가 왜 멈춰 있는지 염탐하려는 속셈이겠군.+그럼 우리도 전력을 최대한 아껴야 해.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:그렇겠군요, 우리 열차가 고장 난 건 아직 모를 거예요.
-()<Speaker>지휘관</Speaker>||:M4, RO, 그리고 댄들라이는 나머지 작업을 마치도록.+AR-15와 SOP2는 404소대와 합류, 예비 부대로서 수비를 지원해.+되도록 적은 화력으로 접근하는 군부대를 섬멸해야 한다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:알겠습니다. 가자, SOP2.
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:전원 준비 완료했습니다.
-()<Speaker>지휘관</Speaker>||<黑点1>:좋아, 나머지 사항은 지휘 시스템을 통해 전달하겠다.
-()<Speaker></Speaker>||<BIN>207</BIN><Night><黑点2><BGM>BGM_Empty</BGM>:지휘실 밖.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>m_avg_casual</BGM>:이제야 왔네.+그런데, 너희 둘뿐이야?
-AR15Mod(0)<Speaker>AR15</Speaker>;UMP45Mod(0)||:M4랑 RO는 아직 처리할 일이 남아서. 우리끼리 예비 부대를 편성하고, 지시가 있기 전에는 절대 함부로 발포하지 말라는 명령이야.
-AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:너네 그리폰 애들이나 멋대로 쏘지 않도록 해. 404는 총알값 아까워서 절대 총알 낭비 안 하는 주의거든.
-AR15Mod(0)<Speaker>AR15</Speaker>||:좋아, 다시 한번 탄약과 장비를 점검하자.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:너희가 404소대구나!+드디어 소문의 비밀 부대와 함께 작전하게 됐어! 히히, 기대된다!
-G11(0)<Speaker>G11</Speaker>||:응...?+예~전에 같이 싸웠잖아?+언제였더라, 그 설산에서――우으읍.
-HK416Mod(0)<Speaker>HK416</Speaker>||:시끄러워.+쟤넨 그때 일 기억 못 해.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:듣자 하니 같은 전장에 투입된 적이 몇 번 있었지만, 자꾸 엇갈린 것 같단 말이야. 아, 그래도 416은 인상 깊었어! 그리폰이 철수할 때 말이야!+그때 같이 싸워서 진~짜 즐거웠어. 이번에도 같이 저 푸르딩딩한 놈들을 처부숴 버리자!
-HK416Mod(0)<Speaker>HK416</Speaker>||:그때 말인가...
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:어머, 혼자 그리폰에서 꽤 즐겁게 지냈나 보구나?
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:그때 네가 걸레짝이 돼서 재활용 쓰레기통에라도 버려야 하나 싶었지.+내가 저 글러 먹은 인형들을 데리고 필사적으로 적을 막아내서 네가 지금 그렇게 멀쩡하게 서 있을 수 있는 거야.
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:그래? 미안해~ 난 그때 기억이 없어서~
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:흥, 그냥 404로 돌아오지 말 걸 그랬어.
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:이제 와서 후회해도 늦었다구♪
-AR15Mod(0)<Speaker>AR15</Speaker>;UMP45Mod(0)||:지금 옛날이야기나 할 때야? 눈앞에 닥친 일에 집중해 줬으면 하는데.
-AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:네에 네에, 우리 엘리트 AR-15님.
-AR15Mod(0)<Speaker>AR15</Speaker>;UMP45Mod(0)||:칫... 그래서, 지금 전선의 상황은 어때?
-AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:현황은 네트워크에 다 실시간 동기화하고 있어. 상대는 자율 부대고, 우리의 방어선과 화력의 위치를 염탐하려는 목적일 거야.+첫 번째 공세는 방위각 80, 3000m 거리에서 아주 빠른 속도로 접근하고 있어. 아마 10분 후면 최전방 제대와 조우할 거야.
-AR15Mod(0)<Speaker>AR15</Speaker>||:그 정도의 부대라면 겁먹을 것도 없어.+하지만 딱 하나 걱정되는 일은, 지금 우리 열차는 고장으로 멈춰 있고, 놈들과 동시에 출발한다 해도 목적지에 도착해서 대비할 시간이 5분도 채 되지 않아.+만약 놈들이 지금 바로 탈린에서 출발한다면 우리에게 승산은 없어.
-G11(0)<Speaker>G11</Speaker>||:그럼 왜 당장 안 나오는 걸까?
-HK416Mod(0)<Speaker>HK416</Speaker>||:깔보던 그리폰한테 몇 차례나 코가 깨진 게 트라우마가 됐나 보지.+우리의 상황을 완전히 파악하기 전까진 신중에 신중을 기할 거야.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:나도 그렇게 생각해.+열차의 수리가 아직 끝나지 않았으니, 자율 부대가 가까이 접근하기 전에 해치워야 해.+9, 수리 끝내려면 얼마나 더 필요해?
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:대충 30분 정도.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:들었지?+적어도 30분은 버텨야 해.
-AR15Mod(0)<Speaker>AR15</Speaker>;UMP45Mod(0)||:알았어. 정면의 방어선은 지휘관이 해결할 테니, 우리는 측면으로 유격해 정면에서 빠져나오는 놈들을 처치하자.+다른 의견은 없겠지?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:이견 없어. 9이랑 G11은 열차에서 계속 수리를 맡아 줘. 416은 나랑 같이 유격하러 나가자.
-HK416Mod(0)<Speaker>HK416</Speaker>||:라저. 당장 놈들을 혼내주러 가자고.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:그럼 모두 출발!
-()||<黑点2><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:장갑 열차의 임시 지휘실.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||:그래서...? 그래서 다음엔 어떻게 됐어!?
+AR15Mod(0)<Speaker>AR15</Speaker>;M4 SOPMOD IIMod(0)||:눈 반짝이면서 내 옷 잡아당기지 마, 안 가르쳐 줄 거야.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:RO! 어떻게 된 거야!+왜 갑자기 끊어졌어?
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:나머지 기억 파편을 처리 중인데, 네 바나나가 과열됐어.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:뭐어?! 조금만 더 힘내 바나나!
+()<Speaker>지휘관</Speaker>||:그때 우리만 안젤리아를 찾던 것이 아니었구나.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:지휘관님도 안젤리아 씨를 찾고 있었나요?+하지만 그때 그리폰은 철수했다고...
+RO635(0)<Speaker>RO635</Speaker>||:네, 그리폰의 주 병력은 모두 철수했지만, 지휘관님은 안젤리아 씨를 구하기 위해서 저희와 함께 다시 전장으로 향하셨어요.
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:그리고 결국 니토에게 붙잡혔죠. 그곳에서 살아 돌아온 건 정말 천운입니다.
+()<Speaker>지휘관</Speaker>||:으... RO의 마음이 이제 이해가 되네... 괜히 그때의 기억이...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:우리가 지휘관을 구출하려고 얼마나 고생했는데!+그 후로 그 하얀 놈들이 우리가 가는 곳마다 나타나서 훼방을 놓았다니까! 어휴 지긋지긋해!
+AR15Mod(0)<Speaker>AR15</Speaker>||:니토도 갈수록 강해졌고 말이지.
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:여러분이 제 외모만 보고 저에 대한 판단을 흐리지 않기를 바라죠.
+NytoIsomer(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||:...자아, 수다는 나중에 해요.+남은 파편은 아직도 처리 중인가요?
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:그렇지만, 바깥의 인형 제대들의 통신이 빈번해지고 있어. 상황이 생겼나 봐.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:지휘관님! 적이 움직이기 시작했습니다! 지금 보고받은 내용을 보내드릴게요!
+()<Speaker>지휘관</Speaker>||:알았다. 각 제대를 전투태세로 전환하고, 탄약을 기존의 3배로 지급하도록.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:알겠습니다. 마인드맵 연산을 지나 프로토콜 통신에 집중하겠습니다.
+()<Speaker>지휘관</Speaker>||:카리나, 전투 경보 발령해서 후방 작업 인원을 교전 지역에서 철수시켜.+중장비 소대는 시야 확보를 우선하고, 모든 제대는 명령이 떨어지기 전에는 발포를 절대 금지한다.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:네!+UMP45부터 통신! 연결해 드릴게요!
+()<Speaker>지휘관</Speaker>||:연결해.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>지휘관, 추억담 나누던 와중에 미안하지만 지금 군부대가 엄청난 속도로 접근 중인 건 알고 있지?</color>+<color=#00CCFF>다른 작전 제대들은 계획대로 위치했어. 지시를 내려 줘.</color>
+UMP45Mod(0)<Speaker>지휘관</Speaker><通讯框>||:404소대는 AR팀이 합류할 때까지 열차 내에서 대기하도록.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>라저.</color>
+()<Speaker>지휘관</Speaker>||:RO, 군의 장갑 열차도 출발했나?
+RO635(0)<Speaker>RO635</Speaker>||:아닌 것 같습니다. 대형 열원은 아직 탈린을 벗어나지 않은 것으로 파악됩니다.
+()<Speaker>지휘관</Speaker>||:그렇다면, 정찰 부대를 보내 우리가 왜 멈춰 있는지 염탐하려는 속셈이겠군.+그럼 우리도 전력을 최대한 아껴야 해.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:그렇겠군요, 우리 열차가 고장 난 건 아직 모를 거예요.
+()<Speaker>지휘관</Speaker>||:M4, RO, 그리고 댄들라이는 나머지 작업을 마치도록.+AR-15와 SOP2는 404소대와 합류, 예비 부대로서 수비를 지원해.+되도록 적은 화력으로 접근하는 군부대를 섬멸해야 한다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:알겠습니다. 가자, SOP2.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:전원 준비 완료했습니다.
+()<Speaker>지휘관</Speaker>||<黑点1>:좋아, 나머지 사항은 지휘 시스템을 통해 전달하겠다.
+()<Speaker></Speaker>||<BIN>207</BIN><Night><黑点2><BGM>BGM_Empty</BGM>:지휘실 밖.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BGM>m_avg_casual</BGM>:이제야 왔네.+그런데, 너희 둘뿐이야?
+AR15Mod(0)<Speaker>AR15</Speaker>;UMP45Mod(0)||:M4랑 RO는 아직 처리할 일이 남아서. 우리끼리 예비 부대를 편성하고, 지시가 있기 전에는 절대 함부로 발포하지 말라는 명령이야.
+AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:너네 그리폰 애들이나 멋대로 쏘지 않도록 해. 404는 총알값 아까워서 절대 총알 낭비 안 하는 주의거든.
+AR15Mod(0)<Speaker>AR15</Speaker>||:좋아, 다시 한번 탄약과 장비를 점검하자.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:너희가 404소대구나!+드디어 소문의 비밀 부대와 함께 작전하게 됐어! 히히, 기대된다!
+G11(0)<Speaker>G11</Speaker>||:응...?+예~전에 같이 싸웠잖아?+언제였더라, 그 설산에서――우으읍.
+HK416Mod(0)<Speaker>HK416</Speaker>||:시끄러워.+쟤넨 그때 일 기억 못 해.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:듣자 하니 같은 전장에 투입된 적이 몇 번 있었지만, 자꾸 엇갈린 것 같단 말이야. 아, 그래도 416은 인상 깊었어! 그리폰이 철수할 때 말이야!+그때 같이 싸워서 진~짜 즐거웠어. 이번에도 같이 저 푸르딩딩한 놈들을 처부숴 버리자!
+HK416Mod(0)<Speaker>HK416</Speaker>||:그때 말인가...
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:어머, 혼자 그리폰에서 꽤 즐겁게 지냈나 보구나?
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:그때 네가 걸레짝이 돼서 재활용 쓰레기통에라도 버려야 하나 싶었지.+내가 저 글러 먹은 인형들을 데리고 필사적으로 적을 막아내서 네가 지금 그렇게 멀쩡하게 서 있을 수 있는 거야.
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:그래? 미안해~ 난 그때 기억이 없어서~
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:흥, 그냥 404로 돌아오지 말 걸 그랬어.
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:이제 와서 후회해도 늦었다구♪
+AR15Mod(0)<Speaker>AR15</Speaker>;UMP45Mod(0)||:지금 옛날이야기나 할 때야? 눈앞에 닥친 일에 집중해 줬으면 하는데.
+AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:네에 네에, 우리 엘리트 AR-15님.
+AR15Mod(0)<Speaker>AR15</Speaker>;UMP45Mod(0)||:칫... 그래서, 지금 전선의 상황은 어때?
+AR15Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:현황은 네트워크에 다 실시간 동기화하고 있어. 상대는 자율 부대고, 우리의 방어선과 화력의 위치를 염탐하려는 목적일 거야.+첫 번째 공세는 방위각 80, 3000m 거리에서 아주 빠른 속도로 접근하고 있어. 아마 10분 후면 최전방 제대와 조우할 거야.
+AR15Mod(0)<Speaker>AR15</Speaker>||:그 정도의 부대라면 겁먹을 것도 없어.+하지만 딱 하나 걱정되는 일은, 지금 우리 열차는 고장으로 멈춰 있고, 놈들과 동시에 출발한다 해도 목적지에 도착해서 대비할 시간이 5분도 채 되지 않아.+만약 놈들이 지금 바로 탈린에서 출발한다면 우리에게 승산은 없어.
+G11(0)<Speaker>G11</Speaker>||:그럼 왜 당장 안 나오는 걸까?
+HK416Mod(0)<Speaker>HK416</Speaker>||:깔보던 그리폰한테 몇 차례나 코가 깨진 게 트라우마가 됐나 보지.+우리의 상황을 완전히 파악하기 전까진 신중에 신중을 기할 거야.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:나도 그렇게 생각해.+열차의 수리가 아직 끝나지 않았으니, 자율 부대가 가까이 접근하기 전에 해치워야 해.+9, 수리 끝내려면 얼마나 더 필요해?
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:대충 30분 정도.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:들었지?+적어도 30분은 버텨야 해.
+AR15Mod(0)<Speaker>AR15</Speaker>;UMP45Mod(0)||:알았어. 정면의 방어선은 지휘관이 해결할 테니, 우리는 측면으로 유격해 정면에서 빠져나오는 놈들을 처치하자.+다른 의견은 없겠지?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:이견 없어. 9이랑 G11은 열차에서 계속 수리를 맡아 줘. 416은 나랑 같이 유격하러 나가자.
+HK416Mod(0)<Speaker>HK416</Speaker>||:라저. 당장 놈들을 혼내주러 가자고.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:그럼 모두 출발!
+()||<黑点2><BIN>10</BIN>:

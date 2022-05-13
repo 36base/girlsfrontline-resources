@@ -1,261 +1,261 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<common_effect>%%code=AllSeeingEye01%%</common_effect>:……
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator><BGM>GF_21summer_intro_DemonVariation</BGM>:팔디스키 잠수함 기지 사건으로부터 1주 후.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>491</BIN><黑屏2><SE1>AVG_keyboardtype_sci</SE1>:■기록■ NUSSRA920640605190087, 디코딩...
-()||<黑屏1>:
-NPC-Yegor(3)<Speaker>군 장교</Speaker>||<黑屏2><SE1>AVG_PPT_Switch</SE1><BIN>99</BIN><边框>2</边框>:보고, 그리폰이 아직도 저항 중입니다.
-NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Yegor(3)||<边框>2</边框>:우리의 목적을 잊지 마라... 정말 중요한 건 저 기지다.
-NPC-Yegor(4)<Speaker></Speaker>;NPC-Yegor(3)<同时置暗>||<边框>2</边框><SE1>AVG_Button_Click</SE1>:재생 중이던 화면이 갑자기 일시정지됐고, 상황실에서 그 기록을 들고 있던 니토는 조마조마해하며 일어섰다.
-()||<黑屏1><边框>2</边框>:
-NytoWhite(0)<Speaker>수잔나</Speaker><Position>0,50</Position>||<BIN>9</BIN><SE1>ClothingUp</SE1><黑屏2>:......
-()<Speaker></Speaker>||:지금은 일주일에 한 번인 정기 보고 시간. 이 긴장된 분위기는 모든 니토에게 절대로 실수해선 안 됨을 다시 한번 명심시켰다.+그리고 그때, 상냥한 여성의 목소리가 들려왔다.
-NPC-Nemhran(0)<Speaker>???</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>이게 아니잖니, 수잔나.</color>
-()<Speaker></Speaker>||:상냥하기에 더더욱 긴장감을 가중시키는 어조였다.+"수잔나"라는 이름의 니토는, 문자 그대로 손에 땀을 쥐는 상태였다. 어떻게든 진정하려고 애쓰는 것이 그 자리의 모두에게 티가 났다.
-NytoWhite(0)<Speaker>수잔나</Speaker><Position>0,50</Position>||:...죄송합니다, 잠시만 기다려 주십시오.
-()<Speaker></Speaker>||:수잔나는 즉각 다른 기록을 열었다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>492</BIN><黑屏2><SE1>AVG_keyboardtype_sci</SE1>:■기록■ DDRA585246472307521, 디코딩...
-()||<黑屏1>:
-NPC-Jason(1)<Speaker>K</Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>222</BIN><黑屏2><边框>2</边框>:그럼 여기서 헤어지지.
-NPC-Jason(1)<Speaker>지휘관</Speaker><同时置暗>||<边框>2</边框>:따로 챙길 건 없고?
-NPC-Jason(1)<Speaker>K</Speaker>||<边框>2</边框>:모든 물건은 네가 가져간다, 그게 내가 받은 명령이야. 그 아이들을 하벨에게 잘 전달하도록.+그리고, 영 내키진 않지만 난 안젤리아를 찾으러 가야 해.+그녀를 감시하는 게 내 임무인데, 감시 대상을 놓쳤다간 큰일나지.
-NPC-Jason(1)<Speaker>지휘관</Speaker><同时置暗>||<边框>2</边框>:알았다... 그럼 행운을 빌지.
-NPC-Jason(1)<Speaker>K</Speaker>||<边框>2</边框>:걱정 마라, 금방 또 볼 테니.
-NPC-Jason(1)<Speaker></Speaker><同时置暗>||<边框>2</边框><SE1>AVG_Button_Click</SE1>:또 화면이 정지됐다.+그리고 그 상냥한 여성의 목소리는 방금보다도 더 부드러워졌다.
-()||<黑屏1><边框>2</边框>:
-NPC-Nemhran(0)<Speaker>???</Speaker><通讯框>||<BIN>9</BIN><黑屏2>:<color=#00CCFF>미안하지만... 더 뒤로 빨리 돌려 줄래요?</color>
-()<Speaker></Speaker>||:저쪽에서 존댓말까지 쓰자, 수잔나는 오한이 들어 사시나무처럼 떨기 시작했다.+하지만 어쩔 도리가 없었다. 그녀가 지금부터 할 대답은 분명 저쪽을 더욱 분노케 할 게 뻔하니까.
-NytoWhite(0)<Speaker>수잔나</Speaker><Position>0,50</Position>||:......죄송합니다, 네메아란 언니.+바닷물에 침수되어, 그 기지에서의 기록은 전부 회수에 실패했습니다...
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>......</color>
-()<Speaker></Speaker>||:이번에는 네메아란이 대답을 않았고, 수잔나는 차마 고개를 들지 못했다.+하지만 이대로 가만 있을 수는 없었다.
-()<Speaker></Speaker>||:초조한 마음으로, 수잔나는 자신의 "기억" 속을 뒤졌다.+그리고 찾아낸 개인 기록 2개를 황급히 열어 보려 했다.+부디 무사히 열리기를 기도하면서.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator><SE1>AVG_keyboardtype_sci</SE1>:■기록■ UO83520530300147, 디코딩...
-()<Speaker></Speaker>||<narrator><SE1>AVG_21Winter_Error</SE1>:<color=#DC143C>E R R O R !</color>
-()<Speaker></Speaker>||<narrator><SE1>AVG_keyboardtype_sci</SE1>:■기록■ UO34678231305238, 디코딩...
-()<Speaker></Speaker>||<narrator><SE1>AVG_21Winter_Error</SE1>:<color=#DC143C>E R R O R !</color>
-()||<黑屏1>:
-()<Speaker></Speaker>||<SE1>AVG_Shield_Startup</SE1><BIN>72</BIN><黑屏2>:"벌침" 시스템 연결 중...+............
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_21Winter_Error</SE1><BIN>9</BIN>:시스템에 이상이 발생하여 연결할 수 없습니다.+재가동하시겠습니까?
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>417</BIN><黑屏2><BGM>GF_22W_BGM_1</BGM>:암호화 플랫폼의 오류 메시지와 함께, 니토들은 현실의 상황실로 돌아왔다.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:이윽고 들려온 통신음에 수잔나는 거의 조건반사적으로 연결했다.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>...단순한 시스템 오류일 뿐이니 긴장 말려무나.</color>
-()<Speaker></Speaker>||:상냥하고 친절한 다독임 같았지만, 수잔나에겐 마치 사탄의 속삭임처럼 들렸다.
-NytoWhite(0)<Speaker>수잔나</Speaker><Position>0,50</Position>||:죄, 죄송합니다... 안젤리아의 기록과 기지 관련 기록은 잠시 후 정리되는 대로 전달하겠습니다...
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>수고가 많구나.</color>
-NytoWhite(0)<Speaker>수잔나</Speaker><Position>0,50</Position>;NPC-Nemhran(0)<通讯框>||:천만의... 말씀입니다...
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>안젤리아의 기록은 개별적으로 꺼내고, 리벨리온의 기록과 함께 비암호화 파일로 전환해서 어휘를 다듬은 다음 전송하거라.</color>
-NytoWhite(0)<Speaker>수잔나</Speaker><Position>0,50</Position>;NPC-Nemhran(0)<通讯框>||:"부장님"께 보내드립니까, 아니면 아베르――
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>올가.</color>
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:네메아란이 가볍게 부르자, 한 니토가 소리 없이 그늘 밖으로 나왔다.
-()<Speaker></Speaker>||<SE1>AVG_Bullet_Hit_Wall</SE1><震屏3>:그리고, 신속하고 군더더기 없는 움직임으로 수잔나의 목을 꺾었다.
-()<Speaker></Speaker>||:수잔나의 목소리는 단순하면서도 거칠게 끊어졌다.+아무런 징조 없이, 물리적으로 발성 기관이 파괴된 것이다.
-()<Speaker></Speaker>||:하지만 그 과정에서, 수잔나는 조금도 저항하지 않았다.+저항해봤자 아무 의미가 없음을, 본인도 알고 있었으니까.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>그곳은 언급하면 안 되잖니...</color>
-()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_XXS_kick</SE1>:수잔나는 바닥에 쓰러져, 싸늘한 주검이 되었다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리고 "올가"라 불린 니토가 죽은 수잔나 대신 공손히 통신기를 바꿔 받았다.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>...네 이름은 무엇이니?</color>
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)<通讯框>||:올가입니다, 네메아란 언니.
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>그냥 말해본 이름이란다. 러시아의 인명이지.</color>
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:지금부터 저는 올가입니다, 네메아란 언니.
-()<Speaker></Speaker>||:상대의 눈치 빠름에 흡족한 듯, 네메아란은 나지막이 웃었다.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>"북극곰"에게 귀뜸해 주거라, 안젤리아를 베를린으로 보내야 한다고.</color>
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:알겠습니다.
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:......+네메아란은 통신을 종료했다.+방에 원래 4명이던 니토는 이제 3명만 남았다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:아직 서 있는 니토 중 한 명이, 한참 고민한 끝에 올가를 향해 고개를 돌렸다.
-()<Speaker>하얀 니토</Speaker>||:지금까지 "북극곰"에게 연락하는 자는 수잔나였어. 어떡하면 그녀가 담당하던 일을 처리할 거야?
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:그녀의 기억 모듈을 뜯어내.
-NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:수잔나 하나 만드는 것도 힘든 일인데... 아예――
-()<Speaker></Speaker>||:그 니토는 무심결에 목까지 올라온 그 금지어를 간신히 도로 삼켰다.
-()<Speaker>하얀 니토</Speaker>||:...그곳으로 돌려보내면 안 될까?
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:임무가 끝나기 전에는 아무도 돌아가지 못해.+우리의 가치로 보건대, 돌려보낼 바에야 이대로 묻어버리는 편이 안전해.
-NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:그럼 권한은 어떡하지? 수잔나의 권한은 우리보다 높았어.+벌침 시스템의 권한과 규정은 오직 네메아란 언니만이 수정할 수 있는데, 지금이라도 연락해서 여쭈어보는 건 어떨까?
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:......+그분께는 아무것도 물어선 안 돼.
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:필요한 임무를 해결하면, 상응하는 권한은 자연스레 받게 돼.+언급되지 않은 일을 함부로 추측하지 마.
-NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:그래도...
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:나를 믿어.
-()<Speaker></Speaker>||:방 안의 니토들은 다시 조용해졌다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:다만 올가는 능숙하게 수잔나의 시체를 처리했고, 상황실 안은 다시 새것처럼 깨끗히 청소됐다.+수잔나는 존재했던 흔적마저 지워졌다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>313</BIN><BGM>BGM_Empty</BGM>:신소련, 상트페테르부르크의 어느 술집.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BGM>GF_21winter_avg_nightbar</BGM>:얼굴이 벌겋게 달아오른 남성 취객이 술집의 한구석에 널브러졌지만, "혈관에 피 대신 보드카가 흐르는 민족"들에겐 일상다반사라 아무도 신경쓰지 않았다.
-()<Speaker></Speaker>||:그는 허공에 팔을 뻗어 허우적대다, 바로 옆의 망가진 호출 벨을 눌렀다.+이런 곳에서 반짝이는 것 외엔 아무짝에도 쓸모가 없는 버튼을 연신 눌러대는 이 취객은, 아무래도 다른 이들에 비해서는 비교적 매너가 있는 편인 것 같았다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리고 얼마 안 지나, 바텐더가 금방 만든 칵테일을 들고 그의 어깨를 두드렸다.
-()<Speaker>바텐더</Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:손님, 주문하신 "저먼 메리"입니다.
-()<Speaker>술취한 남성</Speaker>||:……
-()<Speaker></Speaker>||:그 말에 남자가 역시 벌겋게 충혈된 눈을 번쩍 뜨더니, 피식 웃으며 물었다.
-()<Speaker>술취한 남성</Speaker>||:베를린산이야아, 브레멘산이야아?
-()<Speaker>바텐더</Speaker>||:...직수입한 브레멘산 코른이 베이스입니다.
-()<Speaker></Speaker>||:어째선진 몰라도 그 말이 취객의 신경을 건드렸는지, 뺨을 더욱 빨갛게 물들이며 술집의 음악마저 덮을 기세로 고래고래 소리질렀다.
-()<Speaker>술취한 남성</Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3><BGM>BGM_Empty</BGM>:난 베를린산뫄안 마셔어! 이 가게 어떠케 대먹은 거야아!?
-()<Speaker></Speaker>||<SE1>AVG_21Winter_OperatingDisc_Drop</SE1>:머리 끝까지 화난 취객은 바텐더의 손에 들린 쟁반을 냅다 잡아 바닥에 내리쳤다.
-()<Speaker>술취한 남성</Speaker>||:저먼 메리는 베를린산 코른 아님 드아 짝퉁이라고오!!
-()<Speaker></Speaker>||<SE1>Rope</SE1>:바텐더는 직업 정신이 투철한지, 마찬가지로 머리 끝까지 화났음에도 어떻게든 미소는 유지했다.
-()<Speaker>바텐더</Speaker>||:손님, 저희 가게의 코른은 항상 브레멘에서 직수입합니다. 손님께선 다른 가게에서 드신 저먼 메리와 헷갈리시는 게 아닐까요.+괜찮으시다면 저희의 이번 달 신상품을 드셔 보시겠습니까? 손님들께 인기가 많아 많이들 주문하십――
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:취한 남자는 바텐더의 말도 다 안 듣고 홱 떠밀며 비틀비틀 출입구로 향했다.
-()<Speaker></Speaker>||<SE1>AVG_tableware</SE1>:남겨진 바텐더는 붙잡아 따지지도 않고, 그저 허리를 숙여 깨진 잔을 정리했다.+그와 함께 술집은 다시 원래의 떠들썩한 분위기로 돌아갔다. 그리고 그때, 한 여인이 아직 깨진 잔을 정리 중인 바텐더에게 다가가 귀에 속삭이듯 말했다.
-()<Speaker>여인</Speaker>||<SE1>ClothingUp</SE1>:저 사람 술값은 제가 대신 냅니다, 좋은 하루 되세요.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>417</BIN><黑屏2><BGM>10254</BGM>:약 한 시간 후, 모스크바의 패러데우스 기지는 적잖은 소란이 일어났다.
-()<Speaker>하얀 니토</Speaker>||:큰일이다, 안젤리아가 예정대로 베를린으로 가지 않고 브레멘으로 갔다!
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:즉시 암호화 통신 준비를.
-NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:그분께 도움을 청할 셈이야? 네가 저번에 그분께는 아무것도 묻지 말라 했잖아?+이건 너무 뜻밖이야, 왜 브레멘으로 갔지?+설마 "북극곰"이 장소를 헷갈렸나? 아니, 그건 정말 말도 안 되는 실수인데...
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:뜻밖의 사태지만, 아직 최악은 아니야.+진짜 최악은 실수를 저지를 때지.
-NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:이것도 실수야, 이런 실수를 용서받을 리가 없어!
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:조용히 해!+...이 정도 돌발 상황쯤, 올해에만 1,000번 가까이 발생했어.
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:보통, 뜻밖의 상황은 오히려 기회가 되기 마련.+이 정도의 일로 우리가 노여움을 살 일은 없어.
-NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:그럼 왜 수잔나는 말 한 마디 잘못한 것으로 죽었지? 지금보다 훨씬 더 사소한 실수였으면서!+그... 그곳을 언급한 것이 이유가 아닐 텐데.
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:아니지.+그녀는 아버님의 계획에 지장을 주었기에 죽은 거야.
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:아버님의 계획을 조금이라도 방해하는 자매는 모두 죄인이야.
-NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:...너, 그 소문 들어봤어?
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:무슨 소문?
-NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:네메아란 언니는... 아버님께 사랑받지 못해서 쫓겨났다고.+그래서 그녀는 실수를 해서는 안 되니까, 우리에게도 실수하지 말라 강요하는 거라고.
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:......+내가 너였다면 입과 귀를 틀어막았을 거야.+지금 같은 저급하고 같잖은 실수도 저지르지 않기 위해서.
-NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:무슨――
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:왜 이름이 "벌침"인지 몰라?+"모든 틈에 들어간다."
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:우리에게도, 마찬가지.
-NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:......
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:그것이 그 니토가 마지막으로 들은 말이었다.+빈틈없는 감시 시스템. 니토도 당연히 감시 대상이었다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>72</BIN><黑屏2><BGM>GF_EV9_Story</BGM><SE1>AVG_keyboardtype_sci</SE1>:다중 암호화된 플랫폼에서, 올가는 수시로 신호의 원활함을 확인했다.+지금은 그녀가 기록을 맡은 3인 회의. 하지만 그녀에게 발언권은 없다.+기나긴 침묵 끝에, 드디어 한 명이 먼저 입을 열었다.
-NPC-Morridow(4)<Speaker>???</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>지금 언니가 도움을 청하는 상황 아닌가요?</color>
-NPC-Morridow(4)<通讯框>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>이해하려무나, 10954번아. 난 그저 아버님의 뜻을 전할 뿐이란다.</color>
-NPC-Morridow(4)<Speaker>???</Speaker><通讯框>;NPC-Nemhran(0)<通讯框>||:<color=#00CCFF>"10954번"은 이제 없어요, 여기 있는 건 "몰리도"랍니다.</color>
-NPC-Morridow(3)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)<通讯框>||:<color=#00CCFF>덤으로 말해드리겠는데, 10876번의 도주에 관해서는 아버님을 어떡하면 잘 설득할 수 있을지 고민해 두는 게 좋을 거예요.</color>
-NPC-Morridow(3);NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>...내 기억이 맞다면, 너는 그녀가 도망치는 것을 두고보기만 하지 않았니?</color>
-NPC-Morridow(4)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>증거 있어요?</color>
-NPC-Morridow(4);NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>......</color>
-NPC-Morridow(4)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>언니, 벌침 시스템 좀 업그레이드해야겠던데요?</color>+<color=#00CCFF>그 자료 파기하는 데 겨우 10시간도 안 걸렸어요.</color>
-NPC-Morridow(4)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>모스크바에선 언니가 곧 아버님의 뜻이겠지만, 베를린과 브레멘은 제 영역이랍니다.</color>+<color=#00CCFF>목적지가 예정대로였더라도 언니가 낄 자리는 없어요.</color>
-NPC-Morridow(4);NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>수치상으로 봤을 때, 너보단 그녀가 더 완벽하단다.</color>+<color=#00CCFF>아무튼 거래를 하자꾸나, 간단히 이야기도 할 겸.</color>
-NPC-Morridow(3)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>듣고 있어요.</color>
-NPC-Morridow(3);NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>원래 계획한 대로 임무를 완수하는 것이 아버님의 바람이시다.</color>+<color=#00CCFF>네가 그저 흥정을 좀 하고 싶을 뿐임을 아시니, 말을 좀 완곡하게 다듬는다면 네 요구도 쉬이 들어주실지도 몰라.</color>
-NPC-Morridow(3)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>제가 뭘 원하는지는 언니도 알잖아요.</color>+<color=#00CCFF>그녀의 행방을 줄 테니, 제가 안젤리아를 맡게 해 주세요.</color>
-NPC-Morridow(3);NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>이아손의 상자도.</color>
-NPC-Morridow(3)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>그렇게까지요?</color>
-NPC-Morridow(3);NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>내게 묻지 말고 스스로 생각하거라.</color>
-NPC-Morridow(4)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>......</color>+<color=#00CCFF>아아... 제가 마흐리안 언니를 얼마나 소중히 여기는지 안다면, 분명 기뻐하겠죠?</color>
-NPC-Morridow(4)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>축하해요, 언니가 이득 보는 장사예요.</color>+<color=#00CCFF>그럼 회의를 끝맺으면서, 선배로서 주실 충고라도 있나요?</color>
-NPC-Morridow(4);NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>...그 얼굴을 쓰고 있는 한, 실수로라도 그 얼굴이 해서는 안 될 말을 하지 말거라.</color>
-NPC-Morridow(3)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>안심하세요, 지금은 언니를 믿기에 살~짝 본성을 드러낸 거니까요.</color>+<color=#00CCFF>그리고, 기밀 유지와 유출은 다 언니의 주특기 아닌가요?</color>+<color=#00CCFF>언니랑 연락하려고 1주일을 준비해야 했다고요.</color>
-NPC-Morridow(4)<Speaker>몰리도</Speaker><通讯框>||:<color=#00CCFF>그토록이나 아버님께 "신임받는" 언니인데, 어떻게 남을 실망시키겠어요? 하하하!</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:설탕처럼 달콤한 웃음소리를 끝으로, 몰리도가 마침내 암호화 플랫폼에서 사라졌다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>417</BIN><黑屏2><SE1>AVG_keyboardtype_sci</SE1>:기록을 마친 올가는 봉인하기 전 조심스럽게 네메아란의 눈치를 살폈다.
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:■기록■ ASD698746327127648...+■기록■ PACC67592352129875...
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:■기록■ ROTT46532528123234, 총 3건의 관련 기록을 정리하여 전송했습니다.+기반 백업도 계속 보존하고 있습니다.+방금 기록도 이분하였으며, 몰리도 언니의 부분은 그녀의 기록에 수록했습니다.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:설명은 필요없단다. 네가 보고 들은 것을 전부 기록하면 돼.+언제, 어느 때의 대화든, 내가 있든 없든, 하나도 빠짐없이.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:내가 하는 말도 모조리 기록해 두렴.
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:...예, 주제넘었습니다.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:그 애도 너처럼 눈치가 빨랐다면 이런 일도 없었을 텐데.+10876번의 실종은 그녀 말고 또 누가 신경을 쓰겠니.
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:예, 10876번이 아무리 근접하더라도, 언니가 가장 완벽하십니다.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:아부는 고맙지만, 나도 완벽하지 않단다.
-()||<黑屏1>:
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:아무도 완벽할 수 없어.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>325</BIN><BGM>GF_EV9_Intermission</BGM>:같은 시각, 그레이 생물과학 연구소. 휴면 캡슐에 누워있던 여성이 눈을 떴다.
-()<Speaker></Speaker>||<SE1>AVG_BaseDoor_Open</SE1>:이를 옆에서 기다리던 그레이는 투명한 캡슐의 덮개를 열어 주었다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:스승님.
-NPC-MrsGray(0);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:예상대로야, 그 여자가 동의했어.+이제 아버님께서 가장 중요시하는 임무는 전부 우리 손에 들어왔어.
-NPC-MrsGray(0);NPC-Morridow(4)<Speaker>몰리도</Speaker><Position>0,50</Position>||:이건 아주 좋은 기회야 그레이, 나는 물론 너에게도.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>;NPC-Morridow(4)<Position>0,50</Position>||:모든 사전 준비 작업이 끝난 상태입니다.
-NPC-MrsGray(0);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:너는 내가 터놓고 얘기할 수 있는 사람이야. 그러니, 그녀의 연락 방법도 너에게만 가르쳐 줄게.+만일의 사태가 벌어진다면, 여기는 네가 담당하도록 해.
-NPC-MrsGray(1)<Speaker>그레이</Speaker>;NPC-Morridow(3)<Position>0,50</Position>||:제가 그녀에게 연락할 날이 영영 오지 않았으면 좋겠군요.
-NPC-MrsGray(1);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:그녀에게의 연락은 양날의 검임을 명심해, 정말 달리 방도가 없을 때에만 동원하는 최후의 수단이야.
-NPC-MrsGray(1);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:거의 아무도 그녀를 함부로 논하지도, 이해하지도 못하거든.
-NPC-MrsGray(2)<Speaker>그레이</Speaker>;NPC-Morridow(3)<Position>0,50</Position>||:아버님께서 그토록 높이 사는 자이니...
-NPC-MrsGray(2);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:아니, 아버님은 그녀를 무척 싫어하셔. 그건 내가 확신해.+소문처럼 추방당해서 모스크바에 있는 거야.+여전히 임무를 받고 수행하지만, 그것도 다 아버님 나름의 뜻이 있는 거지.
-NPC-MrsGray(3)<Speaker>그레이</Speaker>;NPC-Morridow(3)<Position>0,50</Position>||:하지만 그녀에게 우리 모두가 필요로 하는 것이 있지 않습니까.
-NPC-MrsGray(3);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:그래, 벌침 시스템. 그게 제일 비상한 점이란 말이지...+우리 자매는 모두 개성 만점에 장단점도 제각각이잖아?
-NPC-MrsGray(3);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:하지만 그녀는... 성격조차 알기 어려울걸. 감정은 있지만 욕망이 없으니까.
-NPC-MrsGray(2)<Speaker>그레이</Speaker>;NPC-Morridow(3)<Position>0,50</Position>||:니토보다도 도구에 가깝다는 뜻입니까?
-NPC-MrsGray(2);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:음, 아주 적절한 비유야.+하지만 그렇기에 그녀는 아버님의 총애를 받지 못해.
-NPC-MrsGray(2);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:우리에겐 영리함, 용기, 충성심, 헌신하는 마음이 필요하지만...+단 하나, 이성은 불필요해.
-NPC-MrsGray(1)<Speaker>그레이</Speaker>;NPC-Morridow(3)<Position>0,50</Position>||:"이레귤러"로군요.
-NPC-MrsGray(1);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:유일하게 존재를 허락받은 이레귤러지.
-NPC-MrsGray(1)<Speaker>그레이</Speaker>;NPC-Morridow(3)<Position>0,50</Position>||:...명심하겠습니다.
-NPC-Morridow(4)<Speaker>몰리도</Speaker><Position>0,50</Position>||:정신 똑바로 차리고 있어, 난 우리의 선물을 받으러 브레멘에 갔다 올게.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator><BGM>BGM_Empty</BGM>:엘베 강 비행기 추락 사건으로부터 1주일 후.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>336</BIN><SE1>AVG_20_Winter_TVnews_Start</SE1><common_effect>%%code=NPC_TV_14%%</common_effect>:- 곧이어 [DRF 이슈 포커스]가 방송됩니다 -
-()<Speaker></Speaker>||:1주일 전 브레멘 시내에서 출발했던 JU-094 수송기가 예정 항로를 벗어나, 엘베 강 하류에 추락하였습니다. 다행히도 민간인 피해는 없었으며――
-()<Speaker></Speaker>||:――사건의 기타 자세한 정황은 추가적인 공식 성명이 발표되는 대로 전해드리겠습니다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<关闭蒙版><BIN>493</BIN><黑屏2><SE1>AVG_keyboardtype_sci</SE1>:■기록■ PACC76589264100147, 디코딩...
-()||<黑屏1>:
-()<Speaker></Speaker>||<关闭蒙版><BIN>508</BIN><黑屏2><SE1>AVG_keyboardtype_sci</SE1>:■기록■ PACC35426159108760, 디코딩...
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><SE1>AVG_PPT_Switch</SE1><BIN>313</BIN><SE1>AVG_Door_Open_Close</SE1><边框>2</边框><BGM>GF_EV9_Story</BGM>:화면에 꽤 선명한 감시 카메라 영상이 나타났다. 어느 시끌벅적한 술집에, 때마침 한 여성이 들어오는 장면이었다.+다만, 이 술집에는 "진짜 손님"은 단 한 명도 없었다.+전부 슈타지, 사설 무장 단체, 혹은 또 다른 세력의 소속원이었다.
-()||<黑屏1><边框>2</边框>:
-()<Speaker>훈작사</Speaker>||<黑屏2><BIN>314</BIN><边框>2</边框><SE1>AVG_20Winter_Drink_Tea</SE1>:우리는 적이 아니라네, 안젤리아 양.+오히려... 아주 끈끈한 전우지.
-()<Speaker>안젤리아</Speaker>||<边框>2</边框>:당신이랑요? 흥... 과연 어떨까요.+저보다 훨씬 손이 더러운 주제에, 뻔뻔하게 "아름다운 세상"을 논할 자격은 있습니까?
-()<Speaker>훈작사</Speaker>||<边框>2</边框>:우리의 목표는 같아. 그걸 부정하진 않겠지?+물론, 방식에 조금 차이가 있을 수는 있지만.+그래도 우리의 이상은 일치하지, 바로 루크사트를 위해서.
-()<Speaker>안젤리아</Speaker>||<边框>2</边框>:운명공동체... 그런 말장난은 벌써 귀에 딱지가 앉도록 들었습니다.+당신 쪽 똘마니를 구슬리는 덴 먹힐지 몰라도, 저한텐 됐으니까 도로 넣으시죠.
-()<Speaker>훈작사</Speaker>||<边框>2</边框>:젤린스키와 미하일이 왜 하필 자네를 독일로 보냈는지, 생각해본 적 있나?
-()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_Button_Click</SE1>:......
-()||<黑屏1><边框>2</边框>:
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||<BIN>72</BIN><黑屏2>:데이터에 이상 없음.
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:올가는 능숙한 솜씨로 기록 파일들을 암호화했다.+하지만 통신기 너머의 인물은 기다림이 너무 길었는지, 약간 짜증을 냈다.
-NPC-MrsGray(3)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>내가 인내심이 좋긴 하지만 그것도 한계가 있어.</color>
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-MrsGray(3)<通讯框>||:죄송합니다, 현재 그레이 언니께서 바라시는 자료를 정리 중입니다.+언니의 뜻은 존중하나, 저희는 정보 자료 취급에 매우 엄격한 절차를 따라야 하기에 압축 해제에도 약간 시간이 걸립니다. 기다리시게 만들어 대단히 죄송합니다.
-NytoWhite(0)<Position>0,50</Position>;NPC-MrsGray(3)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>나는 저번 실수에 관해 스승님을 변호하려는 게 아니라, 임무 때문에 연락했어.</color>+<color=#00CCFF>안젤리아 확보 임무에 약간의... 곡절이 있었지만, 아직 실패하지는 않았지.</color>+<color=#00CCFF>다만 스승님과 연락이 두절된 상황이니, 네메아란 언니께서 얼굴을 보여야 해.</color>
-NytoWhite(0)<Position>0,50</Position>;NPC-MrsGray(3)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>그리고 너는 나와 말할 자격도 없는 놈이고.</color>
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-MrsGray(3)<通讯框>||:제 미천한 신분으로 기대에 부응하지 못해 대단히 죄송합니다, 그레이 언니.+다만 감히 말씀드리건대, 벌침 시스템은 이용하는 모든 이의 행동을 기록합니다. 언니께서 제게 당부하신 모든 말들이, 곧 네메아란 언니께 전달됩니다.
-NytoWhite(0)<Position>0,50</Position>;NPC-MrsGray(3)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>......</color>+<color=#00CCFF>아버님께 연락하는 건 훨씬 쉬워.</color>
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-MrsGray(3)<通讯框>||:미천한 제가 첨언할 자격은 없지만...+그레이 언니께서 그럴 셈이셨다면, 이렇게 기다리는 시간조차 참지 않으셨을 테지요.
-NPC-MrsGray(3)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>나중에 후회하지나 말거라.</color>+<color=#00CCFF>위에서의 소란은 이미 아래까지 퍼졌고, 사태는 점점 통제 가능 범위를 벗어나고 있습니다.</color>+<color=#00CCFF>네메아란 언니, 지원이 필요합니다.</color>
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:올가는 무감정한 기계음으로 대답을 대신했다.+어차피 그녀가 대답할 수 있는 질문도 아니고, 대답할 자격도 없었으니까.+기계음을 들은 그레이는 말을 이었다.
-NPC-MrsGray(3)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>아직 "폭죽"이 터질 때가 아니건만, 우리의 패는 거의 다 꺼낸 것이나 마찬가지인 상황입니다.</color>+<color=#00CCFF>만약 그날까지 들키지 말아야 할 것들이 들키게 됐다간, 그 결과는 우리뿐만 아니라 그 누구도 감당할 수 없을 겁니다.</color>
-NPC-MrsGray(3)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>안젤리아는 이미 확보했고, 이아손의 상자도 예정대로 진행 중입니다.</color>+<color=#00CCFF>하지만 약속했던 협력 건에서 다수의 차질이 빚어져, 일부 요인의 입장에 변수가 발생했습니다..</color>
-NPC-MrsGray(5)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>이런 것은 제 권한으로 결정할 수 있는 일이 아닙니다.</color>+<color=#00CCFF>여기까지입니다.</color>
-()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:그레이는 말을 마치기가 무섭게 바로 통신을 끊었다.+그녀 나름대로 불만을 표출한 것이었다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1><黑屏2><BIN>325</BIN><BGM>GF_EV9_Intermission</BGM>:그레이가 인상을 잔뜩 쓴 채로 휴면 캡슐 밖으로 나왔다.+그리고 이를 옆에서 지켜보던 틸이 조바심에 그녀의 어깨를 부축했다.
-NPC-grig(2)<Speaker>틸</Speaker>||<SE1>ClothingUp</SE1>:커피를 내어 올까?
-NPC-grig(2);NPC-MrsGray(3)<Speaker>그레이</Speaker>||:아무래도 뒷수습을 어떻게 할지 미리 고민해야겠어.
-NPC-grig(1)<Speaker>틸</Speaker>;NPC-MrsGray(3)||:어째서지? 우리는 아직 실패하지 않았는데.
-NPC-grig(2);NPC-MrsGray(3)<Speaker>그레이</Speaker>||:후속 계획을 앞당겨야만 해. 하지만 그 전에 스승님을 구출해야겠지.
-NPC-grig(1)<Speaker>틸</Speaker>;NPC-MrsGray(3)||:...이해가 안 된다.
-NPC-grig(1);NPC-MrsGray(1)<Speaker>그레이</Speaker>||:내가 그렇게 순진해 보이니?+내가 아버님이 아니라 스승님의 줄에 선 것처럼 보여?
-NPC-grig(1)<Speaker>틸</Speaker>;NPC-MrsGray(1)||:너에겐 항상 네 나름대로 생각이 있지. 하지만 이번에는 정말 네가 그녀를 대신해도 무방하다.
-NPC-grig(1);NPC-MrsGray(1)<Speaker>그레이</Speaker>||:아니란다 틸, 나는 스승님을 대신할 수 없어.+수치만 따지면 나, 너, 브라메드나 나르시스조차도 스승님보다 뛰어나.+하지만 베를린에서의 작업 총괄자는 그녀야.
-NPC-grig(1)<Speaker>틸</Speaker>;NPC-MrsGray(1)||:시시한 수단밖에 쓸 줄 모르건만.
-NPC-grig(1);NPC-MrsGray(1)<Speaker>그레이</Speaker>||:일을 너무 단면적으로만 보는구나. 우린 모두 각자의 기수에서 수치가 가장 뛰어난 개체지만, 스승님은 아니야.+그녀의 기수에서 가장 완벽했던 개체는 그녀가 직접 해치워버렸거든.
-NPC-grig(1)<Speaker>틸</Speaker>;NPC-MrsGray(1)||:..."마흐리안"을?
-NPC-grig(1);NPC-MrsGray(1)<Speaker>그레이</Speaker>||:아버님의 코앞에서 대놓고 그런 짓을 저질렀는데, 과연 능력 부족이라 할 수 있을까?
-NPC-grig(1)<Speaker>틸</Speaker>;NPC-MrsGray(1)||:그건 아버님이 그녀를 봐주셨을 뿐이다.
-NPC-grig(1);NPC-MrsGray(1)<Speaker>그레이</Speaker>||:틀렸어, 아버님이 관용을 보이시도록 만들 정도로 능력이 있단 증거야.+하지만... 우리의 임무는 사실상 실패지. 목표인 니모겐을 놓쳤으니.
-NPC-grig(1);NPC-MrsGray(1)<Speaker>그레이</Speaker>||:스승님이 안 계시면, 우리는 돌아가 봤자 좋은 꼴을 못 볼 거야.+우리는 이 일을 해결할 수 없지만... 스승님이라면 해내실지도 모르겠구나.
-NPC-grig(1)<Speaker>틸</Speaker>;NPC-MrsGray(1)||:...역시 납득하긴 싫지만, 너를 따르겠다.
-NPC-MrsGray(1)<Speaker>그레이</Speaker>||:미안해, 나도 너를 실망시키고 싶지 않아.+그래도 약속할게, 내가 살아있는 한 너를 죽게 만들지 않겠다고.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>72</BIN><BGM>BGM_Empty</BGM><黑屏2><SE1>AVG_keyboardtype_sci</SE1>:암호화 플랫폼에서, 올가는 그레이가 제출한 데이터를 분류, 정리해 통신 너머의 인물에게 전달했다.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||<BGM>GF_21summer_intro_DemonVariation</BGM>:<color=#00CCFF>......</color>
-()<Speaker></Speaker>||:네메아란은 미간을 좁힌 채 무심하게 그것들을 훑어본 뒤, 가볍게 입을 열었다.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>어딘가의 누구가 내 뜻을 이해했다면 좋겠구나.</color>
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)<通讯框>||:예, 네메아란 언니.+언니의 뜻은 오차 없이 그레이 언니에게 전달했습니다.+자만에 빠진 요원은 잘못된 정보를 그 소련인에게 전달하게 될 것입니다.+그들은 결국 감옥으로 향하겠죠. ...그 소련인이 바보가 아니라면.
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>그 새내기가, 아주 멍청이가 아니라 적당히 바보이길 바라야지...</color>+<color=#00CCFF>인간은 항상 타인이 대놓고 보여 주는 답은 깡그리 무시하면서, 자신이 추리하는 결과를 맹신하지. 진짜 생산 라인을 들킨다면 너희 모두 영영 돌아올 필요가 없어짐을 명심하거라.</color>
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:예. 추가로, "판도라"의 데이터와 니모겐의 신규 데이터도 전부 업로드했습니다.+다만 판도라의 기반은 암호화 수준이 매우 높아 여전히 해독이 불가능합니다. 어째서 그녀를 남겨 두고 있는지 이해가 가지 않습니다.
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>그녀의 진의는 아버님도 잘 알고 계신단다. 하지만 그것도 아버님께서 바라시는 바.</color>+<color=#00CCFF>지금이야말로 "그쪽"과 소통해야 할 시기인데, 판도라... 혹은 그녀의 배후는 이미 충분한 "성의"를 보였어.</color>
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>아버님과 대화하기 위해, 그녀에게 충분한 "삯"을 얹어 보낸 거란다.</color>
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:이해했습니다.
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>오늘은 이쯤으로 충분해.</color>+<color=#00CCFF>이만 돌아가 보거라.</color>
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:예.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>잠깐.</color>
-()<Speaker></Speaker>||:네메아란은 잠시 뜸을 들이다, 대뜸 방금보다 가벼운 말투로 올가를 불렀다.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>올가, 너는 몰리도가 돌아올 것이라 생각하니?</color>
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:...죄송합니다, 네메아란 언니.+몰리도 언니의 생각을 제가 함부로 추측할 수는 없습니다.+몰리도 언니가 임무에 실패한 것은 부정할 수 없는 사실. 그러나 저는 모릅니다, 언니께서, 그리고... 아버님께서 이를 어찌 여기실지를.
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>나는 총명한 자가 좋단다. 물론 어리석은 자도 그리 싫지만은 않아.</color>+<color=#00CCFF>하지만 자기가 똑똑하다 착각하는 바보야말로 세상에서 가장 역겨운 존재지.</color>
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:......
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>올가, 몰리도는 어느 쪽이라 생각하니?</color>
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:...죄송합니다.
-NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>말해 보렴, 무서워 말고.</color>
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:...언니들이 총명한지 아닌지는 제가 감히 논할 수 없습니다. 허나 네메아란 언니가 유일무이함은 믿어 의심치 않습니다.+몰리도 언니, 브라메드 언니, 그분들이 하는 일은 전부 아버님의 환심을 사기 위해서입니다.+하지만 네메아란 언니는 아버님의 "팔뚝"이십니다.+사람이 애완동물을 갈아치울 순 있어도, 팔뚝은 그러할 수 없습니다.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>팔뚝이라... 제법 재미있는 비유구나.</color>+<color=#00CCFF>하지만 올가, 그 말은 틀렸단다.</color>+<color=#00CCFF>인간은 팔이 잘리면 의수로 갈아치울 수 있어. 그런 한계는 진작에 사라졌단다.</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삐익.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:통신 종료.
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<common_effect>%%code=AllSeeingEye01%%</common_effect>:……
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator><BGM>GF_21summer_intro_DemonVariation</BGM>:팔디스키 잠수함 기지 사건으로부터 1주 후.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>491</BIN><黑屏2><SE1>AVG_keyboardtype_sci</SE1>:■기록■ NUSSRA920640605190087, 디코딩...
+()||<黑屏1>:
+NPC-Yegor(3)<Speaker>군 장교</Speaker>||<黑屏2><SE1>AVG_PPT_Switch</SE1><BIN>99</BIN><边框>2</边框>:보고, 그리폰이 아직도 저항 중입니다.
+NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Yegor(3)||<边框>2</边框>:우리의 목적을 잊지 마라... 정말 중요한 건 저 기지다.
+NPC-Yegor(4)<Speaker></Speaker>;NPC-Yegor(3)<同时置暗>||<边框>2</边框><SE1>AVG_Button_Click</SE1>:재생 중이던 화면이 갑자기 일시정지됐고, 상황실에서 그 기록을 들고 있던 니토는 조마조마해하며 일어섰다.
+()||<黑屏1><边框>2</边框>:
+NytoWhite(0)<Speaker>수잔나</Speaker><Position>0,50</Position>||<BIN>9</BIN><SE1>ClothingUp</SE1><黑屏2>:......
+()<Speaker></Speaker>||:지금은 일주일에 한 번인 정기 보고 시간. 이 긴장된 분위기는 모든 니토에게 절대로 실수해선 안 됨을 다시 한번 명심시켰다.+그리고 그때, 상냥한 여성의 목소리가 들려왔다.
+NPC-Nemhran(0)<Speaker>???</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>이게 아니잖니, 수잔나.</color>
+()<Speaker></Speaker>||:상냥하기에 더더욱 긴장감을 가중시키는 어조였다.+"수잔나"라는 이름의 니토는, 문자 그대로 손에 땀을 쥐는 상태였다. 어떻게든 진정하려고 애쓰는 것이 그 자리의 모두에게 티가 났다.
+NytoWhite(0)<Speaker>수잔나</Speaker><Position>0,50</Position>||:...죄송합니다, 잠시만 기다려 주십시오.
+()<Speaker></Speaker>||:수잔나는 즉각 다른 기록을 열었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>492</BIN><黑屏2><SE1>AVG_keyboardtype_sci</SE1>:■기록■ DDRA585246472307521, 디코딩...
+()||<黑屏1>:
+NPC-Jason(1)<Speaker>K</Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>222</BIN><黑屏2><边框>2</边框>:그럼 여기서 헤어지지.
+NPC-Jason(1)<Speaker>지휘관</Speaker><同时置暗>||<边框>2</边框>:따로 챙길 건 없고?
+NPC-Jason(1)<Speaker>K</Speaker>||<边框>2</边框>:모든 물건은 네가 가져간다, 그게 내가 받은 명령이야. 그 아이들을 하벨에게 잘 전달하도록.+그리고, 영 내키진 않지만 난 안젤리아를 찾으러 가야 해.+그녀를 감시하는 게 내 임무인데, 감시 대상을 놓쳤다간 큰일나지.
+NPC-Jason(1)<Speaker>지휘관</Speaker><同时置暗>||<边框>2</边框>:알았다... 그럼 행운을 빌지.
+NPC-Jason(1)<Speaker>K</Speaker>||<边框>2</边框>:걱정 마라, 금방 또 볼 테니.
+NPC-Jason(1)<Speaker></Speaker><同时置暗>||<边框>2</边框><SE1>AVG_Button_Click</SE1>:또 화면이 정지됐다.+그리고 그 상냥한 여성의 목소리는 방금보다도 더 부드러워졌다.
+()||<黑屏1><边框>2</边框>:
+NPC-Nemhran(0)<Speaker>???</Speaker><通讯框>||<BIN>9</BIN><黑屏2>:<color=#00CCFF>미안하지만... 더 뒤로 빨리 돌려 줄래요?</color>
+()<Speaker></Speaker>||:저쪽에서 존댓말까지 쓰자, 수잔나는 오한이 들어 사시나무처럼 떨기 시작했다.+하지만 어쩔 도리가 없었다. 그녀가 지금부터 할 대답은 분명 저쪽을 더욱 분노케 할 게 뻔하니까.
+NytoWhite(0)<Speaker>수잔나</Speaker><Position>0,50</Position>||:......죄송합니다, 네메아란 언니.+바닷물에 침수되어, 그 기지에서의 기록은 전부 회수에 실패했습니다...
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>......</color>
+()<Speaker></Speaker>||:이번에는 네메아란이 대답을 않았고, 수잔나는 차마 고개를 들지 못했다.+하지만 이대로 가만 있을 수는 없었다.
+()<Speaker></Speaker>||:초조한 마음으로, 수잔나는 자신의 "기억" 속을 뒤졌다.+그리고 찾아낸 개인 기록 2개를 황급히 열어 보려 했다.+부디 무사히 열리기를 기도하면서.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator><SE1>AVG_keyboardtype_sci</SE1>:■기록■ UO83520530300147, 디코딩...
+()<Speaker></Speaker>||<narrator><SE1>AVG_21Winter_Error</SE1>:<color=#DC143C>E R R O R !</color>
+()<Speaker></Speaker>||<narrator><SE1>AVG_keyboardtype_sci</SE1>:■기록■ UO34678231305238, 디코딩...
+()<Speaker></Speaker>||<narrator><SE1>AVG_21Winter_Error</SE1>:<color=#DC143C>E R R O R !</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<SE1>AVG_Shield_Startup</SE1><BIN>72</BIN><黑屏2>:"벌침" 시스템 연결 중...+............
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_21Winter_Error</SE1><BIN>9</BIN>:시스템에 이상이 발생하여 연결할 수 없습니다.+재가동하시겠습니까?
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>417</BIN><黑屏2><BGM>GF_22W_BGM_1</BGM>:암호화 플랫폼의 오류 메시지와 함께, 니토들은 현실의 상황실로 돌아왔다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:이윽고 들려온 통신음에 수잔나는 거의 조건반사적으로 연결했다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>...단순한 시스템 오류일 뿐이니 긴장 말려무나.</color>
+()<Speaker></Speaker>||:상냥하고 친절한 다독임 같았지만, 수잔나에겐 마치 사탄의 속삭임처럼 들렸다.
+NytoWhite(0)<Speaker>수잔나</Speaker><Position>0,50</Position>||:죄, 죄송합니다... 안젤리아의 기록과 기지 관련 기록은 잠시 후 정리되는 대로 전달하겠습니다...
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>수고가 많구나.</color>
+NytoWhite(0)<Speaker>수잔나</Speaker><Position>0,50</Position>;NPC-Nemhran(0)<通讯框>||:천만의... 말씀입니다...
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>안젤리아의 기록은 개별적으로 꺼내고, 리벨리온의 기록과 함께 비암호화 파일로 전환해서 어휘를 다듬은 다음 전송하거라.</color>
+NytoWhite(0)<Speaker>수잔나</Speaker><Position>0,50</Position>;NPC-Nemhran(0)<通讯框>||:"부장님"께 보내드립니까, 아니면 아베르――
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>올가.</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:네메아란이 가볍게 부르자, 한 니토가 소리 없이 그늘 밖으로 나왔다.
+()<Speaker></Speaker>||<SE1>AVG_Bullet_Hit_Wall</SE1><震屏3>:그리고, 신속하고 군더더기 없는 움직임으로 수잔나의 목을 꺾었다.
+()<Speaker></Speaker>||:수잔나의 목소리는 단순하면서도 거칠게 끊어졌다.+아무런 징조 없이, 물리적으로 발성 기관이 파괴된 것이다.
+()<Speaker></Speaker>||:하지만 그 과정에서, 수잔나는 조금도 저항하지 않았다.+저항해봤자 아무 의미가 없음을, 본인도 알고 있었으니까.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>그곳은 언급하면 안 되잖니...</color>
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_XXS_kick</SE1>:수잔나는 바닥에 쓰러져, 싸늘한 주검이 되었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리고 "올가"라 불린 니토가 죽은 수잔나 대신 공손히 통신기를 바꿔 받았다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>...네 이름은 무엇이니?</color>
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)<通讯框>||:올가입니다, 네메아란 언니.
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>그냥 말해본 이름이란다. 러시아의 인명이지.</color>
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:지금부터 저는 올가입니다, 네메아란 언니.
+()<Speaker></Speaker>||:상대의 눈치 빠름에 흡족한 듯, 네메아란은 나지막이 웃었다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>"북극곰"에게 귀뜸해 주거라, 안젤리아를 베를린으로 보내야 한다고.</color>
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:알겠습니다.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:......+네메아란은 통신을 종료했다.+방에 원래 4명이던 니토는 이제 3명만 남았다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:아직 서 있는 니토 중 한 명이, 한참 고민한 끝에 올가를 향해 고개를 돌렸다.
+()<Speaker>하얀 니토</Speaker>||:지금까지 "북극곰"에게 연락하는 자는 수잔나였어. 어떡하면 그녀가 담당하던 일을 처리할 거야?
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:그녀의 기억 모듈을 뜯어내.
+NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:수잔나 하나 만드는 것도 힘든 일인데... 아예――
+()<Speaker></Speaker>||:그 니토는 무심결에 목까지 올라온 그 금지어를 간신히 도로 삼켰다.
+()<Speaker>하얀 니토</Speaker>||:...그곳으로 돌려보내면 안 될까?
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:임무가 끝나기 전에는 아무도 돌아가지 못해.+우리의 가치로 보건대, 돌려보낼 바에야 이대로 묻어버리는 편이 안전해.
+NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:그럼 권한은 어떡하지? 수잔나의 권한은 우리보다 높았어.+벌침 시스템의 권한과 규정은 오직 네메아란 언니만이 수정할 수 있는데, 지금이라도 연락해서 여쭈어보는 건 어떨까?
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:......+그분께는 아무것도 물어선 안 돼.
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:필요한 임무를 해결하면, 상응하는 권한은 자연스레 받게 돼.+언급되지 않은 일을 함부로 추측하지 마.
+NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:그래도...
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:나를 믿어.
+()<Speaker></Speaker>||:방 안의 니토들은 다시 조용해졌다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:다만 올가는 능숙하게 수잔나의 시체를 처리했고, 상황실 안은 다시 새것처럼 깨끗히 청소됐다.+수잔나는 존재했던 흔적마저 지워졌다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>313</BIN><BGM>BGM_Empty</BGM>:신소련, 상트페테르부르크의 어느 술집.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BGM>GF_21winter_avg_nightbar</BGM>:얼굴이 벌겋게 달아오른 남성 취객이 술집의 한구석에 널브러졌지만, "혈관에 피 대신 보드카가 흐르는 민족"들에겐 일상다반사라 아무도 신경쓰지 않았다.
+()<Speaker></Speaker>||:그는 허공에 팔을 뻗어 허우적대다, 바로 옆의 망가진 호출 벨을 눌렀다.+이런 곳에서 반짝이는 것 외엔 아무짝에도 쓸모가 없는 버튼을 연신 눌러대는 이 취객은, 아무래도 다른 이들에 비해서는 비교적 매너가 있는 편인 것 같았다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리고 얼마 안 지나, 바텐더가 금방 만든 칵테일을 들고 그의 어깨를 두드렸다.
+()<Speaker>바텐더</Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:손님, 주문하신 "저먼 메리"입니다.
+()<Speaker>술취한 남성</Speaker>||:……
+()<Speaker></Speaker>||:그 말에 남자가 역시 벌겋게 충혈된 눈을 번쩍 뜨더니, 피식 웃으며 물었다.
+()<Speaker>술취한 남성</Speaker>||:베를린산이야아, 브레멘산이야아?
+()<Speaker>바텐더</Speaker>||:...직수입한 브레멘산 코른이 베이스입니다.
+()<Speaker></Speaker>||:어째선진 몰라도 그 말이 취객의 신경을 건드렸는지, 뺨을 더욱 빨갛게 물들이며 술집의 음악마저 덮을 기세로 고래고래 소리질렀다.
+()<Speaker>술취한 남성</Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3><BGM>BGM_Empty</BGM>:난 베를린산뫄안 마셔어! 이 가게 어떠케 대먹은 거야아!?
+()<Speaker></Speaker>||<SE1>AVG_21Winter_OperatingDisc_Drop</SE1>:머리 끝까지 화난 취객은 바텐더의 손에 들린 쟁반을 냅다 잡아 바닥에 내리쳤다.
+()<Speaker>술취한 남성</Speaker>||:저먼 메리는 베를린산 코른 아님 드아 짝퉁이라고오!!
+()<Speaker></Speaker>||<SE1>Rope</SE1>:바텐더는 직업 정신이 투철한지, 마찬가지로 머리 끝까지 화났음에도 어떻게든 미소는 유지했다.
+()<Speaker>바텐더</Speaker>||:손님, 저희 가게의 코른은 항상 브레멘에서 직수입합니다. 손님께선 다른 가게에서 드신 저먼 메리와 헷갈리시는 게 아닐까요.+괜찮으시다면 저희의 이번 달 신상품을 드셔 보시겠습니까? 손님들께 인기가 많아 많이들 주문하십――
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:취한 남자는 바텐더의 말도 다 안 듣고 홱 떠밀며 비틀비틀 출입구로 향했다.
+()<Speaker></Speaker>||<SE1>AVG_tableware</SE1>:남겨진 바텐더는 붙잡아 따지지도 않고, 그저 허리를 숙여 깨진 잔을 정리했다.+그와 함께 술집은 다시 원래의 떠들썩한 분위기로 돌아갔다. 그리고 그때, 한 여인이 아직 깨진 잔을 정리 중인 바텐더에게 다가가 귀에 속삭이듯 말했다.
+()<Speaker>여인</Speaker>||<SE1>ClothingUp</SE1>:저 사람 술값은 제가 대신 냅니다, 좋은 하루 되세요.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>417</BIN><黑屏2><BGM>10254</BGM>:약 한 시간 후, 모스크바의 패러데우스 기지는 적잖은 소란이 일어났다.
+()<Speaker>하얀 니토</Speaker>||:큰일이다, 안젤리아가 예정대로 베를린으로 가지 않고 브레멘으로 갔다!
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:즉시 암호화 통신 준비를.
+NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:그분께 도움을 청할 셈이야? 네가 저번에 그분께는 아무것도 묻지 말라 했잖아?+이건 너무 뜻밖이야, 왜 브레멘으로 갔지?+설마 "북극곰"이 장소를 헷갈렸나? 아니, 그건 정말 말도 안 되는 실수인데...
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:뜻밖의 사태지만, 아직 최악은 아니야.+진짜 최악은 실수를 저지를 때지.
+NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:이것도 실수야, 이런 실수를 용서받을 리가 없어!
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:조용히 해!+...이 정도 돌발 상황쯤, 올해에만 1,000번 가까이 발생했어.
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:보통, 뜻밖의 상황은 오히려 기회가 되기 마련.+이 정도의 일로 우리가 노여움을 살 일은 없어.
+NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:그럼 왜 수잔나는 말 한 마디 잘못한 것으로 죽었지? 지금보다 훨씬 더 사소한 실수였으면서!+그... 그곳을 언급한 것이 이유가 아닐 텐데.
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:아니지.+그녀는 아버님의 계획에 지장을 주었기에 죽은 거야.
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:아버님의 계획을 조금이라도 방해하는 자매는 모두 죄인이야.
+NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:...너, 그 소문 들어봤어?
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:무슨 소문?
+NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:네메아란 언니는... 아버님께 사랑받지 못해서 쫓겨났다고.+그래서 그녀는 실수를 해서는 안 되니까, 우리에게도 실수하지 말라 강요하는 거라고.
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:......+내가 너였다면 입과 귀를 틀어막았을 거야.+지금 같은 저급하고 같잖은 실수도 저지르지 않기 위해서.
+NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:무슨――
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:왜 이름이 "벌침"인지 몰라?+"모든 틈에 들어간다."
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:우리에게도, 마찬가지.
+NytoWhite(0)<Speaker>하얀 니토</Speaker><同时置暗><Position>0,50</Position>||:......
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:그것이 그 니토가 마지막으로 들은 말이었다.+빈틈없는 감시 시스템. 니토도 당연히 감시 대상이었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>72</BIN><黑屏2><BGM>GF_EV9_Story</BGM><SE1>AVG_keyboardtype_sci</SE1>:다중 암호화된 플랫폼에서, 올가는 수시로 신호의 원활함을 확인했다.+지금은 그녀가 기록을 맡은 3인 회의. 하지만 그녀에게 발언권은 없다.+기나긴 침묵 끝에, 드디어 한 명이 먼저 입을 열었다.
+NPC-Morridow(4)<Speaker>???</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>지금 언니가 도움을 청하는 상황 아닌가요?</color>
+NPC-Morridow(4)<通讯框>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>이해하려무나, 10954번아. 난 그저 아버님의 뜻을 전할 뿐이란다.</color>
+NPC-Morridow(4)<Speaker>???</Speaker><通讯框>;NPC-Nemhran(0)<通讯框>||:<color=#00CCFF>"10954번"은 이제 없어요, 여기 있는 건 "몰리도"랍니다.</color>
+NPC-Morridow(3)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)<通讯框>||:<color=#00CCFF>덤으로 말해드리겠는데, 10876번의 도주에 관해서는 아버님을 어떡하면 잘 설득할 수 있을지 고민해 두는 게 좋을 거예요.</color>
+NPC-Morridow(3);NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>...내 기억이 맞다면, 너는 그녀가 도망치는 것을 두고보기만 하지 않았니?</color>
+NPC-Morridow(4)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>증거 있어요?</color>
+NPC-Morridow(4);NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>......</color>
+NPC-Morridow(4)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>언니, 벌침 시스템 좀 업그레이드해야겠던데요?</color>+<color=#00CCFF>그 자료 파기하는 데 겨우 10시간도 안 걸렸어요.</color>
+NPC-Morridow(4)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>모스크바에선 언니가 곧 아버님의 뜻이겠지만, 베를린과 브레멘은 제 영역이랍니다.</color>+<color=#00CCFF>목적지가 예정대로였더라도 언니가 낄 자리는 없어요.</color>
+NPC-Morridow(4);NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>수치상으로 봤을 때, 너보단 그녀가 더 완벽하단다.</color>+<color=#00CCFF>아무튼 거래를 하자꾸나, 간단히 이야기도 할 겸.</color>
+NPC-Morridow(3)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>듣고 있어요.</color>
+NPC-Morridow(3);NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>원래 계획한 대로 임무를 완수하는 것이 아버님의 바람이시다.</color>+<color=#00CCFF>네가 그저 흥정을 좀 하고 싶을 뿐임을 아시니, 말을 좀 완곡하게 다듬는다면 네 요구도 쉬이 들어주실지도 몰라.</color>
+NPC-Morridow(3)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>제가 뭘 원하는지는 언니도 알잖아요.</color>+<color=#00CCFF>그녀의 행방을 줄 테니, 제가 안젤리아를 맡게 해 주세요.</color>
+NPC-Morridow(3);NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>이아손의 상자도.</color>
+NPC-Morridow(3)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>그렇게까지요?</color>
+NPC-Morridow(3);NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>내게 묻지 말고 스스로 생각하거라.</color>
+NPC-Morridow(4)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>......</color>+<color=#00CCFF>아아... 제가 마흐리안 언니를 얼마나 소중히 여기는지 안다면, 분명 기뻐하겠죠?</color>
+NPC-Morridow(4)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>축하해요, 언니가 이득 보는 장사예요.</color>+<color=#00CCFF>그럼 회의를 끝맺으면서, 선배로서 주실 충고라도 있나요?</color>
+NPC-Morridow(4);NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>...그 얼굴을 쓰고 있는 한, 실수로라도 그 얼굴이 해서는 안 될 말을 하지 말거라.</color>
+NPC-Morridow(3)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>안심하세요, 지금은 언니를 믿기에 살~짝 본성을 드러낸 거니까요.</color>+<color=#00CCFF>그리고, 기밀 유지와 유출은 다 언니의 주특기 아닌가요?</color>+<color=#00CCFF>언니랑 연락하려고 1주일을 준비해야 했다고요.</color>
+NPC-Morridow(4)<Speaker>몰리도</Speaker><通讯框>||:<color=#00CCFF>그토록이나 아버님께 "신임받는" 언니인데, 어떻게 남을 실망시키겠어요? 하하하!</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:설탕처럼 달콤한 웃음소리를 끝으로, 몰리도가 마침내 암호화 플랫폼에서 사라졌다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>417</BIN><黑屏2><SE1>AVG_keyboardtype_sci</SE1>:기록을 마친 올가는 봉인하기 전 조심스럽게 네메아란의 눈치를 살폈다.
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:■기록■ ASD698746327127648...+■기록■ PACC67592352129875...
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:■기록■ ROTT46532528123234, 총 3건의 관련 기록을 정리하여 전송했습니다.+기반 백업도 계속 보존하고 있습니다.+방금 기록도 이분하였으며, 몰리도 언니의 부분은 그녀의 기록에 수록했습니다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:설명은 필요없단다. 네가 보고 들은 것을 전부 기록하면 돼.+언제, 어느 때의 대화든, 내가 있든 없든, 하나도 빠짐없이.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:내가 하는 말도 모조리 기록해 두렴.
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:...예, 주제넘었습니다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:그 애도 너처럼 눈치가 빨랐다면 이런 일도 없었을 텐데.+10876번의 실종은 그녀 말고 또 누가 신경을 쓰겠니.
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:예, 10876번이 아무리 근접하더라도, 언니가 가장 완벽하십니다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:아부는 고맙지만, 나도 완벽하지 않단다.
+()||<黑屏1>:
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:아무도 완벽할 수 없어.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>325</BIN><BGM>GF_EV9_Intermission</BGM>:같은 시각, 그레이 생물과학 연구소. 휴면 캡슐에 누워있던 여성이 눈을 떴다.
+()<Speaker></Speaker>||<SE1>AVG_BaseDoor_Open</SE1>:이를 옆에서 기다리던 그레이는 투명한 캡슐의 덮개를 열어 주었다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:스승님.
+NPC-MrsGray(0);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:예상대로야, 그 여자가 동의했어.+이제 아버님께서 가장 중요시하는 임무는 전부 우리 손에 들어왔어.
+NPC-MrsGray(0);NPC-Morridow(4)<Speaker>몰리도</Speaker><Position>0,50</Position>||:이건 아주 좋은 기회야 그레이, 나는 물론 너에게도.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>;NPC-Morridow(4)<Position>0,50</Position>||:모든 사전 준비 작업이 끝난 상태입니다.
+NPC-MrsGray(0);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:너는 내가 터놓고 얘기할 수 있는 사람이야. 그러니, 그녀의 연락 방법도 너에게만 가르쳐 줄게.+만일의 사태가 벌어진다면, 여기는 네가 담당하도록 해.
+NPC-MrsGray(1)<Speaker>그레이</Speaker>;NPC-Morridow(3)<Position>0,50</Position>||:제가 그녀에게 연락할 날이 영영 오지 않았으면 좋겠군요.
+NPC-MrsGray(1);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:그녀에게의 연락은 양날의 검임을 명심해, 정말 달리 방도가 없을 때에만 동원하는 최후의 수단이야.
+NPC-MrsGray(1);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:거의 아무도 그녀를 함부로 논하지도, 이해하지도 못하거든.
+NPC-MrsGray(2)<Speaker>그레이</Speaker>;NPC-Morridow(3)<Position>0,50</Position>||:아버님께서 그토록 높이 사는 자이니...
+NPC-MrsGray(2);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:아니, 아버님은 그녀를 무척 싫어하셔. 그건 내가 확신해.+소문처럼 추방당해서 모스크바에 있는 거야.+여전히 임무를 받고 수행하지만, 그것도 다 아버님 나름의 뜻이 있는 거지.
+NPC-MrsGray(3)<Speaker>그레이</Speaker>;NPC-Morridow(3)<Position>0,50</Position>||:하지만 그녀에게 우리 모두가 필요로 하는 것이 있지 않습니까.
+NPC-MrsGray(3);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:그래, 벌침 시스템. 그게 제일 비상한 점이란 말이지...+우리 자매는 모두 개성 만점에 장단점도 제각각이잖아?
+NPC-MrsGray(3);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:하지만 그녀는... 성격조차 알기 어려울걸. 감정은 있지만 욕망이 없으니까.
+NPC-MrsGray(2)<Speaker>그레이</Speaker>;NPC-Morridow(3)<Position>0,50</Position>||:니토보다도 도구에 가깝다는 뜻입니까?
+NPC-MrsGray(2);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:음, 아주 적절한 비유야.+하지만 그렇기에 그녀는 아버님의 총애를 받지 못해.
+NPC-MrsGray(2);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:우리에겐 영리함, 용기, 충성심, 헌신하는 마음이 필요하지만...+단 하나, 이성은 불필요해.
+NPC-MrsGray(1)<Speaker>그레이</Speaker>;NPC-Morridow(3)<Position>0,50</Position>||:"이레귤러"로군요.
+NPC-MrsGray(1);NPC-Morridow(3)<Speaker>몰리도</Speaker><Position>0,50</Position>||:유일하게 존재를 허락받은 이레귤러지.
+NPC-MrsGray(1)<Speaker>그레이</Speaker>;NPC-Morridow(3)<Position>0,50</Position>||:...명심하겠습니다.
+NPC-Morridow(4)<Speaker>몰리도</Speaker><Position>0,50</Position>||:정신 똑바로 차리고 있어, 난 우리의 선물을 받으러 브레멘에 갔다 올게.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator><BGM>BGM_Empty</BGM>:엘베 강 비행기 추락 사건으로부터 1주일 후.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>336</BIN><SE1>AVG_20_Winter_TVnews_Start</SE1><common_effect>%%code=NPC_TV_14%%</common_effect>:- 곧이어 [DRF 이슈 포커스]가 방송됩니다 -
+()<Speaker></Speaker>||:1주일 전 브레멘 시내에서 출발했던 JU-094 수송기가 예정 항로를 벗어나, 엘베 강 하류에 추락하였습니다. 다행히도 민간인 피해는 없었으며――
+()<Speaker></Speaker>||:――사건의 기타 자세한 정황은 추가적인 공식 성명이 발표되는 대로 전해드리겠습니다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<关闭蒙版><BIN>493</BIN><黑屏2><SE1>AVG_keyboardtype_sci</SE1>:■기록■ PACC76589264100147, 디코딩...
+()||<黑屏1>:
+()<Speaker></Speaker>||<关闭蒙版><BIN>508</BIN><黑屏2><SE1>AVG_keyboardtype_sci</SE1>:■기록■ PACC35426159108760, 디코딩...
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><SE1>AVG_PPT_Switch</SE1><BIN>313</BIN><SE1>AVG_Door_Open_Close</SE1><边框>2</边框><BGM>GF_EV9_Story</BGM>:화면에 꽤 선명한 감시 카메라 영상이 나타났다. 어느 시끌벅적한 술집에, 때마침 한 여성이 들어오는 장면이었다.+다만, 이 술집에는 "진짜 손님"은 단 한 명도 없었다.+전부 슈타지, 사설 무장 단체, 혹은 또 다른 세력의 소속원이었다.
+()||<黑屏1><边框>2</边框>:
+()<Speaker>훈작사</Speaker>||<黑屏2><BIN>314</BIN><边框>2</边框><SE1>AVG_20Winter_Drink_Tea</SE1>:우리는 적이 아니라네, 안젤리아 양.+오히려... 아주 끈끈한 전우지.
+()<Speaker>안젤리아</Speaker>||<边框>2</边框>:당신이랑요? 흥... 과연 어떨까요.+저보다 훨씬 손이 더러운 주제에, 뻔뻔하게 "아름다운 세상"을 논할 자격은 있습니까?
+()<Speaker>훈작사</Speaker>||<边框>2</边框>:우리의 목표는 같아. 그걸 부정하진 않겠지?+물론, 방식에 조금 차이가 있을 수는 있지만.+그래도 우리의 이상은 일치하지, 바로 루크사트를 위해서.
+()<Speaker>안젤리아</Speaker>||<边框>2</边框>:운명공동체... 그런 말장난은 벌써 귀에 딱지가 앉도록 들었습니다.+당신 쪽 똘마니를 구슬리는 덴 먹힐지 몰라도, 저한텐 됐으니까 도로 넣으시죠.
+()<Speaker>훈작사</Speaker>||<边框>2</边框>:젤린스키와 미하일이 왜 하필 자네를 독일로 보냈는지, 생각해본 적 있나?
+()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_Button_Click</SE1>:......
+()||<黑屏1><边框>2</边框>:
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||<BIN>72</BIN><黑屏2>:데이터에 이상 없음.
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:올가는 능숙한 솜씨로 기록 파일들을 암호화했다.+하지만 통신기 너머의 인물은 기다림이 너무 길었는지, 약간 짜증을 냈다.
+NPC-MrsGray(3)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>내가 인내심이 좋긴 하지만 그것도 한계가 있어.</color>
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-MrsGray(3)<通讯框>||:죄송합니다, 현재 그레이 언니께서 바라시는 자료를 정리 중입니다.+언니의 뜻은 존중하나, 저희는 정보 자료 취급에 매우 엄격한 절차를 따라야 하기에 압축 해제에도 약간 시간이 걸립니다. 기다리시게 만들어 대단히 죄송합니다.
+NytoWhite(0)<Position>0,50</Position>;NPC-MrsGray(3)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>나는 저번 실수에 관해 스승님을 변호하려는 게 아니라, 임무 때문에 연락했어.</color>+<color=#00CCFF>안젤리아 확보 임무에 약간의... 곡절이 있었지만, 아직 실패하지는 않았지.</color>+<color=#00CCFF>다만 스승님과 연락이 두절된 상황이니, 네메아란 언니께서 얼굴을 보여야 해.</color>
+NytoWhite(0)<Position>0,50</Position>;NPC-MrsGray(3)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>그리고 너는 나와 말할 자격도 없는 놈이고.</color>
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-MrsGray(3)<通讯框>||:제 미천한 신분으로 기대에 부응하지 못해 대단히 죄송합니다, 그레이 언니.+다만 감히 말씀드리건대, 벌침 시스템은 이용하는 모든 이의 행동을 기록합니다. 언니께서 제게 당부하신 모든 말들이, 곧 네메아란 언니께 전달됩니다.
+NytoWhite(0)<Position>0,50</Position>;NPC-MrsGray(3)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>......</color>+<color=#00CCFF>아버님께 연락하는 건 훨씬 쉬워.</color>
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-MrsGray(3)<通讯框>||:미천한 제가 첨언할 자격은 없지만...+그레이 언니께서 그럴 셈이셨다면, 이렇게 기다리는 시간조차 참지 않으셨을 테지요.
+NPC-MrsGray(3)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>나중에 후회하지나 말거라.</color>+<color=#00CCFF>위에서의 소란은 이미 아래까지 퍼졌고, 사태는 점점 통제 가능 범위를 벗어나고 있습니다.</color>+<color=#00CCFF>네메아란 언니, 지원이 필요합니다.</color>
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:올가는 무감정한 기계음으로 대답을 대신했다.+어차피 그녀가 대답할 수 있는 질문도 아니고, 대답할 자격도 없었으니까.+기계음을 들은 그레이는 말을 이었다.
+NPC-MrsGray(3)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>아직 "폭죽"이 터질 때가 아니건만, 우리의 패는 거의 다 꺼낸 것이나 마찬가지인 상황입니다.</color>+<color=#00CCFF>만약 그날까지 들키지 말아야 할 것들이 들키게 됐다간, 그 결과는 우리뿐만 아니라 그 누구도 감당할 수 없을 겁니다.</color>
+NPC-MrsGray(3)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>안젤리아는 이미 확보했고, 이아손의 상자도 예정대로 진행 중입니다.</color>+<color=#00CCFF>하지만 약속했던 협력 건에서 다수의 차질이 빚어져, 일부 요인의 입장에 변수가 발생했습니다..</color>
+NPC-MrsGray(5)<Speaker>그레이</Speaker><通讯框>||:<color=#00CCFF>이런 것은 제 권한으로 결정할 수 있는 일이 아닙니다.</color>+<color=#00CCFF>여기까지입니다.</color>
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:그레이는 말을 마치기가 무섭게 바로 통신을 끊었다.+그녀 나름대로 불만을 표출한 것이었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1><黑屏2><BIN>325</BIN><BGM>GF_EV9_Intermission</BGM>:그레이가 인상을 잔뜩 쓴 채로 휴면 캡슐 밖으로 나왔다.+그리고 이를 옆에서 지켜보던 틸이 조바심에 그녀의 어깨를 부축했다.
+NPC-grig(2)<Speaker>틸</Speaker>||<SE1>ClothingUp</SE1>:커피를 내어 올까?
+NPC-grig(2);NPC-MrsGray(3)<Speaker>그레이</Speaker>||:아무래도 뒷수습을 어떻게 할지 미리 고민해야겠어.
+NPC-grig(1)<Speaker>틸</Speaker>;NPC-MrsGray(3)||:어째서지? 우리는 아직 실패하지 않았는데.
+NPC-grig(2);NPC-MrsGray(3)<Speaker>그레이</Speaker>||:후속 계획을 앞당겨야만 해. 하지만 그 전에 스승님을 구출해야겠지.
+NPC-grig(1)<Speaker>틸</Speaker>;NPC-MrsGray(3)||:...이해가 안 된다.
+NPC-grig(1);NPC-MrsGray(1)<Speaker>그레이</Speaker>||:내가 그렇게 순진해 보이니?+내가 아버님이 아니라 스승님의 줄에 선 것처럼 보여?
+NPC-grig(1)<Speaker>틸</Speaker>;NPC-MrsGray(1)||:너에겐 항상 네 나름대로 생각이 있지. 하지만 이번에는 정말 네가 그녀를 대신해도 무방하다.
+NPC-grig(1);NPC-MrsGray(1)<Speaker>그레이</Speaker>||:아니란다 틸, 나는 스승님을 대신할 수 없어.+수치만 따지면 나, 너, 브라메드나 나르시스조차도 스승님보다 뛰어나.+하지만 베를린에서의 작업 총괄자는 그녀야.
+NPC-grig(1)<Speaker>틸</Speaker>;NPC-MrsGray(1)||:시시한 수단밖에 쓸 줄 모르건만.
+NPC-grig(1);NPC-MrsGray(1)<Speaker>그레이</Speaker>||:일을 너무 단면적으로만 보는구나. 우린 모두 각자의 기수에서 수치가 가장 뛰어난 개체지만, 스승님은 아니야.+그녀의 기수에서 가장 완벽했던 개체는 그녀가 직접 해치워버렸거든.
+NPC-grig(1)<Speaker>틸</Speaker>;NPC-MrsGray(1)||:..."마흐리안"을?
+NPC-grig(1);NPC-MrsGray(1)<Speaker>그레이</Speaker>||:아버님의 코앞에서 대놓고 그런 짓을 저질렀는데, 과연 능력 부족이라 할 수 있을까?
+NPC-grig(1)<Speaker>틸</Speaker>;NPC-MrsGray(1)||:그건 아버님이 그녀를 봐주셨을 뿐이다.
+NPC-grig(1);NPC-MrsGray(1)<Speaker>그레이</Speaker>||:틀렸어, 아버님이 관용을 보이시도록 만들 정도로 능력이 있단 증거야.+하지만... 우리의 임무는 사실상 실패지. 목표인 니모겐을 놓쳤으니.
+NPC-grig(1);NPC-MrsGray(1)<Speaker>그레이</Speaker>||:스승님이 안 계시면, 우리는 돌아가 봤자 좋은 꼴을 못 볼 거야.+우리는 이 일을 해결할 수 없지만... 스승님이라면 해내실지도 모르겠구나.
+NPC-grig(1)<Speaker>틸</Speaker>;NPC-MrsGray(1)||:...역시 납득하긴 싫지만, 너를 따르겠다.
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:미안해, 나도 너를 실망시키고 싶지 않아.+그래도 약속할게, 내가 살아있는 한 너를 죽게 만들지 않겠다고.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>72</BIN><BGM>BGM_Empty</BGM><黑屏2><SE1>AVG_keyboardtype_sci</SE1>:암호화 플랫폼에서, 올가는 그레이가 제출한 데이터를 분류, 정리해 통신 너머의 인물에게 전달했다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||<BGM>GF_21summer_intro_DemonVariation</BGM>:<color=#00CCFF>......</color>
+()<Speaker></Speaker>||:네메아란은 미간을 좁힌 채 무심하게 그것들을 훑어본 뒤, 가볍게 입을 열었다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>어딘가의 누구가 내 뜻을 이해했다면 좋겠구나.</color>
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)<通讯框>||:예, 네메아란 언니.+언니의 뜻은 오차 없이 그레이 언니에게 전달했습니다.+자만에 빠진 요원은 잘못된 정보를 그 소련인에게 전달하게 될 것입니다.+그들은 결국 감옥으로 향하겠죠. ...그 소련인이 바보가 아니라면.
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>그 새내기가, 아주 멍청이가 아니라 적당히 바보이길 바라야지...</color>+<color=#00CCFF>인간은 항상 타인이 대놓고 보여 주는 답은 깡그리 무시하면서, 자신이 추리하는 결과를 맹신하지. 진짜 생산 라인을 들킨다면 너희 모두 영영 돌아올 필요가 없어짐을 명심하거라.</color>
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:예. 추가로, "판도라"의 데이터와 니모겐의 신규 데이터도 전부 업로드했습니다.+다만 판도라의 기반은 암호화 수준이 매우 높아 여전히 해독이 불가능합니다. 어째서 그녀를 남겨 두고 있는지 이해가 가지 않습니다.
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>그녀의 진의는 아버님도 잘 알고 계신단다. 하지만 그것도 아버님께서 바라시는 바.</color>+<color=#00CCFF>지금이야말로 "그쪽"과 소통해야 할 시기인데, 판도라... 혹은 그녀의 배후는 이미 충분한 "성의"를 보였어.</color>
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>아버님과 대화하기 위해, 그녀에게 충분한 "삯"을 얹어 보낸 거란다.</color>
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:이해했습니다.
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>오늘은 이쯤으로 충분해.</color>+<color=#00CCFF>이만 돌아가 보거라.</color>
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:예.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>잠깐.</color>
+()<Speaker></Speaker>||:네메아란은 잠시 뜸을 들이다, 대뜸 방금보다 가벼운 말투로 올가를 불렀다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>올가, 너는 몰리도가 돌아올 것이라 생각하니?</color>
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:...죄송합니다, 네메아란 언니.+몰리도 언니의 생각을 제가 함부로 추측할 수는 없습니다.+몰리도 언니가 임무에 실패한 것은 부정할 수 없는 사실. 그러나 저는 모릅니다, 언니께서, 그리고... 아버님께서 이를 어찌 여기실지를.
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>나는 총명한 자가 좋단다. 물론 어리석은 자도 그리 싫지만은 않아.</color>+<color=#00CCFF>하지만 자기가 똑똑하다 착각하는 바보야말로 세상에서 가장 역겨운 존재지.</color>
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:......
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>올가, 몰리도는 어느 쪽이라 생각하니?</color>
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:...죄송합니다.
+NytoWhite(0)<Position>0,50</Position>;NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>말해 보렴, 무서워 말고.</color>
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>;NPC-Nemhran(0)||:...언니들이 총명한지 아닌지는 제가 감히 논할 수 없습니다. 허나 네메아란 언니가 유일무이함은 믿어 의심치 않습니다.+몰리도 언니, 브라메드 언니, 그분들이 하는 일은 전부 아버님의 환심을 사기 위해서입니다.+하지만 네메아란 언니는 아버님의 "팔뚝"이십니다.+사람이 애완동물을 갈아치울 순 있어도, 팔뚝은 그러할 수 없습니다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>팔뚝이라... 제법 재미있는 비유구나.</color>+<color=#00CCFF>하지만 올가, 그 말은 틀렸단다.</color>+<color=#00CCFF>인간은 팔이 잘리면 의수로 갈아치울 수 있어. 그런 한계는 진작에 사라졌단다.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삐익.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:통신 종료.
+()||<黑点1>:

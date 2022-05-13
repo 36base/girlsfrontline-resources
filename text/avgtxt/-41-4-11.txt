@@ -1,111 +1,111 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>270</BIN><BGM>BGM_Room</BGM>:난민 거주구, B 구역.
-NPC-Morridow(1)<Speaker>몰리도</Speaker>||:흐아아――어우...+이 방, 냄새 진짜 지독하네요... 오기 전까지만 해도 단체가 홍보한 대로 "화창"할 줄 알았더니...
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Morridow(1)||:소위 포장의 "조리 예시"를 믿는 타입이시군요?
-NPC-Keven(0);NPC-Morridow(1)<Speaker>몰리도</Speaker>||:과대 포장이라도 어느 정도 알맹이가 있어야죠, 이렇게 차이가 클 줄은 몰랐어요...
-NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Morridow(1)||:사물이든 인간이든, 다 양면성이 있기 마련이지.
-NPC-Ange(2);NPC-Hopps(0)<Speaker>홉스</Speaker>||:......
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Hopps(0)||:그나저나 여기의 인사 처리 서류, 재밌는 내용이 꽤 많네요.+일부 난민이 화이트존에 직장을 구했는데, 다 농부가 됐다네요? 1,400명이 넘는 난민들이 죄다 그 식물 연구소에 꽃 키우는 농부로 취직했어요.
-NPC-Keven(0);NPC-Morridow(1)<Speaker>몰리도</Speaker>||:네에? 그 연구소에 그렇게 많은 일자리는 없어 보이던데요?
-NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Morridow(1)||:재정 장부에 적힌 것도 똑같아. 정말 우연찮게도, 영수증에 적힌 수하인도 전부 파월이군.+고아원과 식물 연구소를 잇는 단서야.
-NPC-Ange(2);NPC-Keven(0)<Speaker>J</Speaker>||:역시 자독당은 패러데우스와 협력 관계였군요.
-NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Keven(0)||:십중팔구 그렇겠지. 하지만 좀 더 결정적인 증거가 필요해. 이것만 가지곤 당장 울릭이 놈들 면상을 후려쳐도 꿈쩍도 않을 거야.+루치아, 주변 상황 어때?
-NPC-Ange(2);AK12(12)<Speaker>AK12</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>난민이 점점 더 많아지고 있어.</color>+<color=#00CCFF>그 사이에 전혀 난민 같지 않은 녀석들도 섞였고.</color>
-NPC-Ange(2)<Speaker>안젤리아</Speaker>||:이대로 가만있을 순 없겠군.+레나테, 상황 보고해.+......?+레나테?
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:RPK-16의 응답이 없던 그때, A 구역 방향에서 굉음이 들려왔다.
-()<Speaker></Speaker>||<BGM>BGM_Danger</BGM>:소리를 들은 홉스가 즉시 가로막았지만, 안젤리아는 묵묵히 그를 피해 창밖을 내다봤다.+폭발로 인한 충격파와 폭음으로, 안 그래도 어수선하던 거리의 난민들이 더욱 많아졌다.
-NPC-Morridow(1)<Speaker>몰리도</Speaker>||:방금 소리 뭐예요?!
-NPC-Hopps(0)<Speaker>홉스</Speaker>||:적이 움직이기 시작한 모양입니다.
-AN94(11)<Speaker>AN94</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>안젤리아, A 구역에서 원인불명의 폭발이 일어났다. 저 폭발에 자극받았는지 난민이 더 많아지고 있어. 상황이 좋지 않다.</color>
-NPC-Ange(2)<Speaker>안젤리아</Speaker>;AN94(11)||:신호탄 같은 거군. 누구신진 몰라도 강하게 나올 셈이야.
-AN94(12)<Speaker>AN94</Speaker>||:<color=#00CCFF>레나테와도 연락이...</color>+<color=#00CCFF>안젤리아, 레나테와 에르빈과 연락이 두절됐다.</color>
-AK12(12)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>방금 폭발 때문인가?</color>
-()<Speaker></Speaker>||<SE2>Alarm</SE2>:AK-12의 말이 끝나기 무섭게, 경보가 거주구의 하늘에 울려 퍼지면서 "정적"을 깨뜨렸다.
-NPC-Keven(0)<Speaker>J</Speaker>||:얼씨구, 이번엔 또 뭐야?
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐익.
-NPC-Hopps(0)<Speaker>홉스</Speaker>||:나다. ......뭐? 그럼 우린 이제 어떡하지?+...알았다, 이쪽에서 방법을 물색해보지.
-NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Hopps(0)||:무슨 일이야?
-NPC-Ange(2);NPC-Hopps(0)<Speaker>홉스</Speaker>||:관문 초소에서 사망자가 발생했습니다.+그리고 누가 격리벽의 무기를 가동했는지, 움직이는 건 무차별 공격하고 있다 합니다.
-NPC-Morridow(1)<Speaker>몰리도</Speaker>;NPC-Hopps(0)||:네!? 그, 그럼 벽 근처의 난민들이...!
-NPC-Morridow(1);NPC-Hopps(0)<Speaker>홉스</Speaker>||:...그건 포착하는 모든 목표를 공격할 겁니다. 우리든, 난민이든, 지나가던 생쥐 한 마리든.
-NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Hopps(0)||:난민들을 선동해 폭동을 일으킬 작정이군. 하긴, 혼란을 일으키면 움직이기도 쉬워질 테니.
-NPC-Ange(2)<Speaker>안젤리아</Speaker>||:음... 우리가 빠져나갈 구멍이 다 막혀 버렸어.+이젠 그 헬기가 유일한 희망이야.
-NPC-Ange(2);NPC-Keven(0)<Speaker>J</Speaker>||:지금 엄청 심각한 상황 아닙니까!?+뭘 그렇게 "아아, 오늘 아침은 식빵뿐이네" 같은 투로 말해요?!
-NPC-Ange(2)<Speaker>안젤리아</Speaker>||:따지고 보면 별반 차이 없지 뭐.+루치아, 합류할 수 있어?
-AK12(12)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>옥상으로 진입할게.</color>
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:AK-12가 창밖으로 몸을 내민 순간, AN-94가 황급히 그녀를 다시 안으로 잡아당겼다.+어디선가 날아든 총탄이 창문을 박살냈고, 두 인형은 몸을 낮추고 이동하면서 적의 위치를 파악하려 했다.
-AK12(12)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>안젤리아! 공격받았어!</color>+<color=#00CCFF>그쪽에서 보여?</color>
-NPC-Ange(2)<Speaker>안젤리아</Speaker>||:총소리 들었어. 빌어먹을, 저건 또 뭐야?
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:어디선가 나타난 방패를 든 로봇들이, 일렬 횡대로 늘어서 성당을 향해 접근 중이었다. 설상가상으로 그들 손에 들린 기관단총이 불을 뿜어댔다.+성당 주변의 난민들은 비명을 지르며 도망쳤지만, 벌써 많은 이들이 총에 맞고 쓰러졌다.
-NPC-Hopps(0)<Speaker>홉스</Speaker>||:저건 격리벽 방위군의 폭동 진압 인형입니다! 자동화 부대까지 탈취된 건가!?
-NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Hopps(0)||:과연 탈취일까.
-NPC-Ange(2);NPC-Keven(0)<Speaker>J</Speaker>||:네, 무리네요. 저런 인형은 권총으론 턱도 없습니다.+그리고 지금 이쪽으로 달려오고 있어요!
-NPC-Ange(2)<Speaker>안젤리아</Speaker>||:루치아, 저것들 침투 가능해?
-NPC-Ange(2);AK12(12)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>벌써 시도해봤는데, 원격 제어가 아니야.</color>+<color=#00CCFF>모든 연결 포트를 폐쇄했어.</color>
-NPC-Ange(2)<Speaker>안젤리아</Speaker>;AK12(12)||:우릴 아주 잘 아는 놈이 준비했겠군.+무기 사용을 허가한다. 진압 인형들을 섬멸하고 우리와 합류해.+여기서 이탈한다.
-AK12(12)<Speaker>AK12</Speaker>||:<color=#00CCFF>라저.</color>+<color=#00CCFF>안티아, 총 꺼내.</color>
-AN94(11)<Speaker>AN94</Speaker><通讯框>||:<color=#00CCFF>알았다.</color>+<color=#00CCFF>하지만 탄약을 넉넉히 챙기지 않았다. 신중하게 사격해야 한다.</color>
-()<Speaker></Speaker>||:AK-12는 우선 간단히 현재 상황을 정리해보았다. 적의 화력이 매서워, 공중으로 성당에 뛰어들긴 불가능했다.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:차선책으로, 그녀와 AN-94는 서둘러 1층으로 이동했다. 그리고 진압 인형들이 벌써 성당 정면으로 돌격하는 것을 본 두 인형은, 동시에 점사를 퍼부어 가까운 진압 인형 몇 기를 무력화했다.
-()<Speaker></Speaker>||<SE1>Select</SE1>:AK-12는 탄창을 교체하면서 몸을 낮춘 채로 귀퉁이에서 나와, 곧장 성당으로 달렸다.+더 먼 위치의 진압 인형들이 소리가 난 방향으로 몸을 돌려 공격했고, AN-94도 그에 맞서 제압사격을 가했다. 한편, AK-12는 한 난민의 시체 뒤에 엎드려 시신을 거치대 삼아 반격했다.
-AK12(12)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>반응이 굼뜬데? 성가시진 않아서 다행이네.</color>
-AN94(11)<Speaker>AN94</Speaker><通讯框>||:<color=#00CCFF>루치아! 위험해!</color>
-()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:그때, AK-12의 눈앞에서 쓰러진 진압 인형 하나가 갑자기 폭발했다.+심상찮음을 느낀 그녀는 바로 일어나 다시 성당으로 달려갔다.+그 뒤를 AN-94가 폭발의 연기구름에 숨으면서 따랐고, 금세 성당의 외벽에 다다랐다.
-AK12(13)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>안젤리아! 당장 밖으로 나와!</color>+<color=#00CCFF>저 진압 인형들 안에 폭약이 잔뜩 채워졌어! 건물이 낡아서 충격을 못 견딜 거야!</color>
-NPC-Ange(2)<Speaker>안젤리아</Speaker>||:이런 민간인 살해도 모자라서 저놈들이 미쳤나! 모두 창문으로 나가! 어서!!
-()<Speaker></Speaker>||:더 많은 진압 인형들이 폭발의 엄호를 받으며 성당으로 접근해 왔다. AK-12의 정밀한 점사도 끝이 없는 그들을 막기엔 역부족이었다.
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:점점 더 가까워져 가는 폭발은 8세기에 세워진 성당을 흔들었고, 오랜 세월을 견뎌 온 벽돌들도 몸서리를 치기 시작했다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><SE1>AVG_Broken_Glass</SE1><BIN>168</BIN>:안젤리아는 성당 2층의 스테인드글라스를 부수면서 뛰어내렸고, 다른 일행들도 뒤이어 지면에 착지했다.
-NPC-Keven(0)<Speaker>J</Speaker>||:저렇게 많은 폭약은 다 어디서 난 거지?+저 자식들, 대체 무슨 속셈이야?
-NPC-Hopps(0)<Speaker>홉스</Speaker>||:이대로는 위험합니다! 격리벽 쪽으로 철수합시다!
-NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Hopps(0)||:저 기총에 벌집이 되자고?+아무튼 일단 여기서 벗어나자!+몰리도, 너 달리기는 하지?
-NPC-Ange(2);NPC-Morridow(1)<Speaker>몰리도</Speaker>||:어, 어느 정도는요...?
-NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Morridow(1)||:날 따라 멈추지 말고 전속력으로 달려!+J! 정 안 되면 네가 업어서라도 데려와!
-NPC-Ange(2);NPC-Keven(0)<Speaker>J</Speaker>||:알겠습니다!
-NPC-Ange(2);AK12(12)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>안젤리아, 빨리!</color>+<color=#00CCFF>우리 탄약도 얼마 안 남았어!</color>
-NPC-Ange(2)<Speaker>안젤리아</Speaker>||:그럼 여긴 맡긴다!
-()<Speaker></Speaker>||<SE1>AVG_Crowd_Run</SE1>:안젤리아 일행은 거주구 방향으로 달렸고, 남은 두 인형은 온힘을 다해 그들을 엄호했다.
-AN94(11)<Speaker>AN94</Speaker>||:...우리도 철수해야 한다.
-AK12(12)<Speaker>AK12</Speaker>;AN94(11)||:아니, 조금만 더 기다려.
-AK12(12);AN94(12)<Speaker>AN94</Speaker>||:하지만 탄약이 거의 바닥났다. 저들을 멈추는 건 불가능해.
-AK12(12)<Speaker>AK12</Speaker>;AN94(12)||:AN-94, 나를 믿어. 안젤리아를 믿어. 그리고 그 왕재수 이인조도 믿어 봐.+우린 여기서 마지막 순간까지 싸워야 해.
-AN94(11)<Speaker>AN94</Speaker>||:......+알았다. 모두를 믿겠다.+......!
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:진압 인형 몇 기가 달려들었지만, AK-12와 AN-94의 정확한 사격에 차례차례 쓰러져 갔다.
-AK12(12)<Speaker>AK12</Speaker>||:쳇, 총알 다 떨어졌어!
-AN94(11)<Speaker>AN94</Speaker>||:루치아!!
-()<Speaker></Speaker>||:제압 사격이 멎었고, 진압 인형이 드디어 성당의 정문에 도달했다. AN-94의 마지막 총알이 그 인형의 급소를 맞췄지만, 고꾸라진 그 인형은 진흙투성이인 바닥에 넘어져 건물 근처까지 미끄러졌다.
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:그 순간, 눈부신 섬광이 성당 건물 옆에서 터졌다. 그 충격파로, 이미 위태롭게 흔들리던 건물은 마침내 무너져내렸다.+잠시 후 붕괴된 잔해의 먼지구름과 폭발의 연기는 흩어졌지만, AK-12와 AN-94의 모습은 어디에도 보이지 않았다.
-()<Speaker></Speaker>||:......+그리고 약 100m가량 떨어진 폐가 안에서, 누군가가 망원경을 내려놨다.
-불명인원()<Speaker>불명인원</Speaker>||:지휘부에 보고. 목표의 군용 전술인형 2기의 파괴를 확인.
-변조된 목소리()<Speaker>변조된 목소리</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>지휘부 수신. 저들에겐 더 이상 전술인형의 지원이 없다. 목표는 고립됐다.</color>
-불명인원()<Speaker>불명인원</Speaker>||:나머지 두 인형은 어떻게 됐지?
-변조된 목소리()<Speaker>변조된 목소리</Speaker>||:<color=#00CCFF>행방불명이다. 15분 전, A 구역에서 폭발 후 정찰팀과 작전팀과의 연락이 두절됐지만 그들 간의 통신도 없없다.</color>
-불명인원()<Speaker>불명인원</Speaker>||:그 인형들에게 당했겠군.+하지만 이상한데. 겨우 두 명에 폭발물을 사용하진 않았을 터다. 설마..?+제기랄, 그 자식들이다. 역시 놈들도 움직이기 시작했어.+지상팀은 아직 준비 안 됐나?
-변조된 목소리()<Speaker>변조된 목소리</Speaker>||:<color=#00CCFF>잠시 기다려라, 확인하겠다. ......준비 완료.</color>
-불명인원()<Speaker>불명인원</Speaker>||:그럼 이제 불을 지필 때가 왔군. 일할 시간이다, 형제들이여!
-변조된 목소리()<Speaker>변조된 목소리</Speaker>||:<color=#00CCFF>알았다. "비둘기"에게 전달할 사항은 없나?</color>
-불명인원()<Speaker>불명인원</Speaker>||:없다. 알아서 처리하라 해.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>85</BIN><黑屏2>:그 시각, 거주구 B 구역의 구 브레멘 미술관. 건물의 2층에서, 우수한 장비로 무장하고 복면을 쓴 인원들도 그들의 대화를 듣고 있었다.
-무장인원()<Speaker>무장인원</Speaker>||:명령이 내려졌다. 작전 준비.
-지휘인원()<Speaker>지휘인원</Speaker>||:드디어 때가 왔다.+판은 이미 깔렸으니, 우리도 인정사정 볼 것 없어.+그 사이비들이 벌써 판돈을 쓸어담을 셈인가 본데, 우리가 한 수 앞섰다는 건 예상 못했겠지.+한 놈도 살려두지 말고, 그들이 믿는 신 곁으로 보내 줘라!
-무장인원 일동()<Speaker>무장인원 일동</Speaker>||:예!
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>168</BIN><黑屏2><BGM>BGM_Danger</BGM><SE1>AVG_Crowd_Run</SE1>:안젤리아 일행은 주위를 경계하면서 거리를 따라 빠르게 이동했다.+저 멀리서, 거리의 쓰레기와 타이어가 불타는 시커먼 연기가 잇따라 피어올랐다. 곧 혼돈이 찾아온다는 신호였다.
-()<Speaker></Speaker>||:안젤리아가 다급히 약간 높은 건물의 문을 발로 차 열고, 일행들과 함께 안으로 숨었다.+그리고 위층으로 올라가 밖을 살펴보니, 멀리서부터 인파가 몰려오는 동시에 소름끼치는 울음소리가 가까운 곳에서 들렸다.+멀리서 또 다시 폭발이 일어나자, 안젤리아 곁의 몰리도는 난색을 표했다.+그녀는 안젤리아에게 묻고 싶은 것이 있었지만, 의연한 태도인 안젤리아에게 입을 열 수가 없었다.
-NPC-Keven(0)<Speaker>J</Speaker>||:이렇게 짧은 시간에 난민들이 폭동을 일으키다니...+이렇게 보니, 자독당 놈들뿐만 아니라 파월도 내부에서 휘젓고 다니는 모양이네요. 그놈, 영향력이 상당한데요?
-NPC-Keven(0);NPC-Hopps(0)<Speaker>홉스</Speaker>||:민중의 혼란을 일으킨 뒤, 그 틈을 타 저희를 자연스럽게 "실종"시키려 들겠죠.+이런 상황도 예상한 바입니까, 안젤리아 씨?
-NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Hopps(0)||:물론 예상했지. 철저하게 원칙적이라 오히려 무서울 정도야.+고작 우리를 상대하겠다고 일을 이렇게까지 키운 건 확실히 내 예상 밖이지만...+그래도, 아직 완전히 실패한 건 아니야. 파월을 붙잡을 기회는 아직 있어.
-NPC-Ange(2);NPC-Hopps(0)<Speaker>홉스</Speaker>||:미쳤습니까!?+바깥이 저렇게 돌아가는 와중에 어떻게 그자를 잡겠다는 겁니까!+지금은 헬기가 도착할 때까지 더 안전한 곳을 찾아 숨어야 합니다!
-NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Hopps(0)||:내 인형들이 파월의 마지막 좌표를 보내줬어.+그놈을 잡기 전까진 난 떠날 생각 없어. 바깥의 혼란이 그렇게 무서우면, 여기서 몰리도나 지키고 있어.
-NPC-Ange(2);NPC-Morridow(1)<Speaker>몰리도</Speaker>||:네?! 여기 남으라고요!?+그, 그럴 바에야 저도 안젤리아 씨랑 같이 갈래요!
-NPC-Ange(2);NPC-Hopps(0)<Speaker>홉스</Speaker>||:다들 제정신입니까?!+저 혼자선 저렇게 많은 수를 상대할 수 없습니다!
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Hopps(0)||:걱정 마세요, 숙녀분들의 안전은 제가 목숨을 바쳐서라도 지켜드릴 테니까요~
-NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Hopps(0)||:진짜 말 한번 징그럽게 하네. K도 그렇고, 너네 독일 남자들은 어떻게 말을 좀 정상적으로 하는 녀석이 없냐?+그래도, 동의해 줘서 고맙다.+홉스, 그래도 싫으면 너 혼자 여기 남던가.
-NPC-Ange(2);NPC-Hopps(0)<Speaker>홉스</Speaker>||:치잇...!+그럼 서둘러야 할 겁니다.+파월을 찾아낼 방법은 있습니까?
-NPC-Ange(2)<Speaker>안젤리아</Speaker>||:방법이야 항상 있지.+그런데 잠깐 기다려 봐, 아래쪽이 어째 심상치가 않아.
-NPC-Morridow(1)<Speaker>몰리도</Speaker>||:아까 그 이상한 울음소리가 점점 가까워지고 있어요...+엄청... 소름 끼치던데...
-()<Speaker></Speaker>||:무언가 떠오른 안젤리아가 황급히 다시 창밖을 살펴봤다. 시커먼 연기가 하늘로 치솟는 가운데, 사람들이 여기저기 서성이고 있었다.+그리고... 인간 같지 않은 것들도 눈에 들어왔다.
-NPC-Ange(2)<Speaker>안젤리아</Speaker>||:역시 여기다도 손을 댔군.+슬슬 네놈의 꼬리를 끄집어내 주겠어... 윌리엄.
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>270</BIN><BGM>BGM_Room</BGM>:난민 거주구, B 구역.
+NPC-Morridow(1)<Speaker>몰리도</Speaker>||:흐아아――어우...+이 방, 냄새 진짜 지독하네요... 오기 전까지만 해도 단체가 홍보한 대로 "화창"할 줄 알았더니...
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Morridow(1)||:소위 포장의 "조리 예시"를 믿는 타입이시군요?
+NPC-Keven(0);NPC-Morridow(1)<Speaker>몰리도</Speaker>||:과대 포장이라도 어느 정도 알맹이가 있어야죠, 이렇게 차이가 클 줄은 몰랐어요...
+NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Morridow(1)||:사물이든 인간이든, 다 양면성이 있기 마련이지.
+NPC-Ange(2);NPC-Hopps(0)<Speaker>홉스</Speaker>||:......
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Hopps(0)||:그나저나 여기의 인사 처리 서류, 재밌는 내용이 꽤 많네요.+일부 난민이 화이트존에 직장을 구했는데, 다 농부가 됐다네요? 1,400명이 넘는 난민들이 죄다 그 식물 연구소에 꽃 키우는 농부로 취직했어요.
+NPC-Keven(0);NPC-Morridow(1)<Speaker>몰리도</Speaker>||:네에? 그 연구소에 그렇게 많은 일자리는 없어 보이던데요?
+NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Morridow(1)||:재정 장부에 적힌 것도 똑같아. 정말 우연찮게도, 영수증에 적힌 수하인도 전부 파월이군.+고아원과 식물 연구소를 잇는 단서야.
+NPC-Ange(2);NPC-Keven(0)<Speaker>J</Speaker>||:역시 자독당은 패러데우스와 협력 관계였군요.
+NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Keven(0)||:십중팔구 그렇겠지. 하지만 좀 더 결정적인 증거가 필요해. 이것만 가지곤 당장 울릭이 놈들 면상을 후려쳐도 꿈쩍도 않을 거야.+루치아, 주변 상황 어때?
+NPC-Ange(2);AK12(12)<Speaker>AK12</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>난민이 점점 더 많아지고 있어.</color>+<color=#00CCFF>그 사이에 전혀 난민 같지 않은 녀석들도 섞였고.</color>
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:이대로 가만있을 순 없겠군.+레나테, 상황 보고해.+......?+레나테?
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:RPK-16의 응답이 없던 그때, A 구역 방향에서 굉음이 들려왔다.
+()<Speaker></Speaker>||<BGM>BGM_Danger</BGM>:소리를 들은 홉스가 즉시 가로막았지만, 안젤리아는 묵묵히 그를 피해 창밖을 내다봤다.+폭발로 인한 충격파와 폭음으로, 안 그래도 어수선하던 거리의 난민들이 더욱 많아졌다.
+NPC-Morridow(1)<Speaker>몰리도</Speaker>||:방금 소리 뭐예요?!
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:적이 움직이기 시작한 모양입니다.
+AN94(11)<Speaker>AN94</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>안젤리아, A 구역에서 원인불명의 폭발이 일어났다. 저 폭발에 자극받았는지 난민이 더 많아지고 있어. 상황이 좋지 않다.</color>
+NPC-Ange(2)<Speaker>안젤리아</Speaker>;AN94(11)||:신호탄 같은 거군. 누구신진 몰라도 강하게 나올 셈이야.
+AN94(12)<Speaker>AN94</Speaker>||:<color=#00CCFF>레나테와도 연락이...</color>+<color=#00CCFF>안젤리아, 레나테와 에르빈과 연락이 두절됐다.</color>
+AK12(12)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>방금 폭발 때문인가?</color>
+()<Speaker></Speaker>||<SE2>Alarm</SE2>:AK-12의 말이 끝나기 무섭게, 경보가 거주구의 하늘에 울려 퍼지면서 "정적"을 깨뜨렸다.
+NPC-Keven(0)<Speaker>J</Speaker>||:얼씨구, 이번엔 또 뭐야?
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐익.
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:나다. ......뭐? 그럼 우린 이제 어떡하지?+...알았다, 이쪽에서 방법을 물색해보지.
+NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Hopps(0)||:무슨 일이야?
+NPC-Ange(2);NPC-Hopps(0)<Speaker>홉스</Speaker>||:관문 초소에서 사망자가 발생했습니다.+그리고 누가 격리벽의 무기를 가동했는지, 움직이는 건 무차별 공격하고 있다 합니다.
+NPC-Morridow(1)<Speaker>몰리도</Speaker>;NPC-Hopps(0)||:네!? 그, 그럼 벽 근처의 난민들이...!
+NPC-Morridow(1);NPC-Hopps(0)<Speaker>홉스</Speaker>||:...그건 포착하는 모든 목표를 공격할 겁니다. 우리든, 난민이든, 지나가던 생쥐 한 마리든.
+NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Hopps(0)||:난민들을 선동해 폭동을 일으킬 작정이군. 하긴, 혼란을 일으키면 움직이기도 쉬워질 테니.
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:음... 우리가 빠져나갈 구멍이 다 막혀 버렸어.+이젠 그 헬기가 유일한 희망이야.
+NPC-Ange(2);NPC-Keven(0)<Speaker>J</Speaker>||:지금 엄청 심각한 상황 아닙니까!?+뭘 그렇게 "아아, 오늘 아침은 식빵뿐이네" 같은 투로 말해요?!
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:따지고 보면 별반 차이 없지 뭐.+루치아, 합류할 수 있어?
+AK12(12)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>옥상으로 진입할게.</color>
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:AK-12가 창밖으로 몸을 내민 순간, AN-94가 황급히 그녀를 다시 안으로 잡아당겼다.+어디선가 날아든 총탄이 창문을 박살냈고, 두 인형은 몸을 낮추고 이동하면서 적의 위치를 파악하려 했다.
+AK12(12)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>안젤리아! 공격받았어!</color>+<color=#00CCFF>그쪽에서 보여?</color>
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:총소리 들었어. 빌어먹을, 저건 또 뭐야?
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:어디선가 나타난 방패를 든 로봇들이, 일렬 횡대로 늘어서 성당을 향해 접근 중이었다. 설상가상으로 그들 손에 들린 기관단총이 불을 뿜어댔다.+성당 주변의 난민들은 비명을 지르며 도망쳤지만, 벌써 많은 이들이 총에 맞고 쓰러졌다.
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:저건 격리벽 방위군의 폭동 진압 인형입니다! 자동화 부대까지 탈취된 건가!?
+NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Hopps(0)||:과연 탈취일까.
+NPC-Ange(2);NPC-Keven(0)<Speaker>J</Speaker>||:네, 무리네요. 저런 인형은 권총으론 턱도 없습니다.+그리고 지금 이쪽으로 달려오고 있어요!
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:루치아, 저것들 침투 가능해?
+NPC-Ange(2);AK12(12)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>벌써 시도해봤는데, 원격 제어가 아니야.</color>+<color=#00CCFF>모든 연결 포트를 폐쇄했어.</color>
+NPC-Ange(2)<Speaker>안젤리아</Speaker>;AK12(12)||:우릴 아주 잘 아는 놈이 준비했겠군.+무기 사용을 허가한다. 진압 인형들을 섬멸하고 우리와 합류해.+여기서 이탈한다.
+AK12(12)<Speaker>AK12</Speaker>||:<color=#00CCFF>라저.</color>+<color=#00CCFF>안티아, 총 꺼내.</color>
+AN94(11)<Speaker>AN94</Speaker><通讯框>||:<color=#00CCFF>알았다.</color>+<color=#00CCFF>하지만 탄약을 넉넉히 챙기지 않았다. 신중하게 사격해야 한다.</color>
+()<Speaker></Speaker>||:AK-12는 우선 간단히 현재 상황을 정리해보았다. 적의 화력이 매서워, 공중으로 성당에 뛰어들긴 불가능했다.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:차선책으로, 그녀와 AN-94는 서둘러 1층으로 이동했다. 그리고 진압 인형들이 벌써 성당 정면으로 돌격하는 것을 본 두 인형은, 동시에 점사를 퍼부어 가까운 진압 인형 몇 기를 무력화했다.
+()<Speaker></Speaker>||<SE1>Select</SE1>:AK-12는 탄창을 교체하면서 몸을 낮춘 채로 귀퉁이에서 나와, 곧장 성당으로 달렸다.+더 먼 위치의 진압 인형들이 소리가 난 방향으로 몸을 돌려 공격했고, AN-94도 그에 맞서 제압사격을 가했다. 한편, AK-12는 한 난민의 시체 뒤에 엎드려 시신을 거치대 삼아 반격했다.
+AK12(12)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>반응이 굼뜬데? 성가시진 않아서 다행이네.</color>
+AN94(11)<Speaker>AN94</Speaker><通讯框>||:<color=#00CCFF>루치아! 위험해!</color>
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:그때, AK-12의 눈앞에서 쓰러진 진압 인형 하나가 갑자기 폭발했다.+심상찮음을 느낀 그녀는 바로 일어나 다시 성당으로 달려갔다.+그 뒤를 AN-94가 폭발의 연기구름에 숨으면서 따랐고, 금세 성당의 외벽에 다다랐다.
+AK12(13)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>안젤리아! 당장 밖으로 나와!</color>+<color=#00CCFF>저 진압 인형들 안에 폭약이 잔뜩 채워졌어! 건물이 낡아서 충격을 못 견딜 거야!</color>
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:이런 민간인 살해도 모자라서 저놈들이 미쳤나! 모두 창문으로 나가! 어서!!
+()<Speaker></Speaker>||:더 많은 진압 인형들이 폭발의 엄호를 받으며 성당으로 접근해 왔다. AK-12의 정밀한 점사도 끝이 없는 그들을 막기엔 역부족이었다.
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:점점 더 가까워져 가는 폭발은 8세기에 세워진 성당을 흔들었고, 오랜 세월을 견뎌 온 벽돌들도 몸서리를 치기 시작했다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><SE1>AVG_Broken_Glass</SE1><BIN>168</BIN>:안젤리아는 성당 2층의 스테인드글라스를 부수면서 뛰어내렸고, 다른 일행들도 뒤이어 지면에 착지했다.
+NPC-Keven(0)<Speaker>J</Speaker>||:저렇게 많은 폭약은 다 어디서 난 거지?+저 자식들, 대체 무슨 속셈이야?
+NPC-Hopps(0)<Speaker>홉스</Speaker>||:이대로는 위험합니다! 격리벽 쪽으로 철수합시다!
+NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Hopps(0)||:저 기총에 벌집이 되자고?+아무튼 일단 여기서 벗어나자!+몰리도, 너 달리기는 하지?
+NPC-Ange(2);NPC-Morridow(1)<Speaker>몰리도</Speaker>||:어, 어느 정도는요...?
+NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Morridow(1)||:날 따라 멈추지 말고 전속력으로 달려!+J! 정 안 되면 네가 업어서라도 데려와!
+NPC-Ange(2);NPC-Keven(0)<Speaker>J</Speaker>||:알겠습니다!
+NPC-Ange(2);AK12(12)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>안젤리아, 빨리!</color>+<color=#00CCFF>우리 탄약도 얼마 안 남았어!</color>
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:그럼 여긴 맡긴다!
+()<Speaker></Speaker>||<SE1>AVG_Crowd_Run</SE1>:안젤리아 일행은 거주구 방향으로 달렸고, 남은 두 인형은 온힘을 다해 그들을 엄호했다.
+AN94(11)<Speaker>AN94</Speaker>||:...우리도 철수해야 한다.
+AK12(12)<Speaker>AK12</Speaker>;AN94(11)||:아니, 조금만 더 기다려.
+AK12(12);AN94(12)<Speaker>AN94</Speaker>||:하지만 탄약이 거의 바닥났다. 저들을 멈추는 건 불가능해.
+AK12(12)<Speaker>AK12</Speaker>;AN94(12)||:AN-94, 나를 믿어. 안젤리아를 믿어. 그리고 그 왕재수 이인조도 믿어 봐.+우린 여기서 마지막 순간까지 싸워야 해.
+AN94(11)<Speaker>AN94</Speaker>||:......+알았다. 모두를 믿겠다.+......!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:진압 인형 몇 기가 달려들었지만, AK-12와 AN-94의 정확한 사격에 차례차례 쓰러져 갔다.
+AK12(12)<Speaker>AK12</Speaker>||:쳇, 총알 다 떨어졌어!
+AN94(11)<Speaker>AN94</Speaker>||:루치아!!
+()<Speaker></Speaker>||:제압 사격이 멎었고, 진압 인형이 드디어 성당의 정문에 도달했다. AN-94의 마지막 총알이 그 인형의 급소를 맞췄지만, 고꾸라진 그 인형은 진흙투성이인 바닥에 넘어져 건물 근처까지 미끄러졌다.
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:그 순간, 눈부신 섬광이 성당 건물 옆에서 터졌다. 그 충격파로, 이미 위태롭게 흔들리던 건물은 마침내 무너져내렸다.+잠시 후 붕괴된 잔해의 먼지구름과 폭발의 연기는 흩어졌지만, AK-12와 AN-94의 모습은 어디에도 보이지 않았다.
+()<Speaker></Speaker>||:......+그리고 약 100m가량 떨어진 폐가 안에서, 누군가가 망원경을 내려놨다.
+불명인원()<Speaker>불명인원</Speaker>||:지휘부에 보고. 목표의 군용 전술인형 2기의 파괴를 확인.
+변조된 목소리()<Speaker>변조된 목소리</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>지휘부 수신. 저들에겐 더 이상 전술인형의 지원이 없다. 목표는 고립됐다.</color>
+불명인원()<Speaker>불명인원</Speaker>||:나머지 두 인형은 어떻게 됐지?
+변조된 목소리()<Speaker>변조된 목소리</Speaker>||:<color=#00CCFF>행방불명이다. 15분 전, A 구역에서 폭발 후 정찰팀과 작전팀과의 연락이 두절됐지만 그들 간의 통신도 없없다.</color>
+불명인원()<Speaker>불명인원</Speaker>||:그 인형들에게 당했겠군.+하지만 이상한데. 겨우 두 명에 폭발물을 사용하진 않았을 터다. 설마..?+제기랄, 그 자식들이다. 역시 놈들도 움직이기 시작했어.+지상팀은 아직 준비 안 됐나?
+변조된 목소리()<Speaker>변조된 목소리</Speaker>||:<color=#00CCFF>잠시 기다려라, 확인하겠다. ......준비 완료.</color>
+불명인원()<Speaker>불명인원</Speaker>||:그럼 이제 불을 지필 때가 왔군. 일할 시간이다, 형제들이여!
+변조된 목소리()<Speaker>변조된 목소리</Speaker>||:<color=#00CCFF>알았다. "비둘기"에게 전달할 사항은 없나?</color>
+불명인원()<Speaker>불명인원</Speaker>||:없다. 알아서 처리하라 해.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>85</BIN><黑屏2>:그 시각, 거주구 B 구역의 구 브레멘 미술관. 건물의 2층에서, 우수한 장비로 무장하고 복면을 쓴 인원들도 그들의 대화를 듣고 있었다.
+무장인원()<Speaker>무장인원</Speaker>||:명령이 내려졌다. 작전 준비.
+지휘인원()<Speaker>지휘인원</Speaker>||:드디어 때가 왔다.+판은 이미 깔렸으니, 우리도 인정사정 볼 것 없어.+그 사이비들이 벌써 판돈을 쓸어담을 셈인가 본데, 우리가 한 수 앞섰다는 건 예상 못했겠지.+한 놈도 살려두지 말고, 그들이 믿는 신 곁으로 보내 줘라!
+무장인원 일동()<Speaker>무장인원 일동</Speaker>||:예!
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>168</BIN><黑屏2><BGM>BGM_Danger</BGM><SE1>AVG_Crowd_Run</SE1>:안젤리아 일행은 주위를 경계하면서 거리를 따라 빠르게 이동했다.+저 멀리서, 거리의 쓰레기와 타이어가 불타는 시커먼 연기가 잇따라 피어올랐다. 곧 혼돈이 찾아온다는 신호였다.
+()<Speaker></Speaker>||:안젤리아가 다급히 약간 높은 건물의 문을 발로 차 열고, 일행들과 함께 안으로 숨었다.+그리고 위층으로 올라가 밖을 살펴보니, 멀리서부터 인파가 몰려오는 동시에 소름끼치는 울음소리가 가까운 곳에서 들렸다.+멀리서 또 다시 폭발이 일어나자, 안젤리아 곁의 몰리도는 난색을 표했다.+그녀는 안젤리아에게 묻고 싶은 것이 있었지만, 의연한 태도인 안젤리아에게 입을 열 수가 없었다.
+NPC-Keven(0)<Speaker>J</Speaker>||:이렇게 짧은 시간에 난민들이 폭동을 일으키다니...+이렇게 보니, 자독당 놈들뿐만 아니라 파월도 내부에서 휘젓고 다니는 모양이네요. 그놈, 영향력이 상당한데요?
+NPC-Keven(0);NPC-Hopps(0)<Speaker>홉스</Speaker>||:민중의 혼란을 일으킨 뒤, 그 틈을 타 저희를 자연스럽게 "실종"시키려 들겠죠.+이런 상황도 예상한 바입니까, 안젤리아 씨?
+NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Hopps(0)||:물론 예상했지. 철저하게 원칙적이라 오히려 무서울 정도야.+고작 우리를 상대하겠다고 일을 이렇게까지 키운 건 확실히 내 예상 밖이지만...+그래도, 아직 완전히 실패한 건 아니야. 파월을 붙잡을 기회는 아직 있어.
+NPC-Ange(2);NPC-Hopps(0)<Speaker>홉스</Speaker>||:미쳤습니까!?+바깥이 저렇게 돌아가는 와중에 어떻게 그자를 잡겠다는 겁니까!+지금은 헬기가 도착할 때까지 더 안전한 곳을 찾아 숨어야 합니다!
+NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Hopps(0)||:내 인형들이 파월의 마지막 좌표를 보내줬어.+그놈을 잡기 전까진 난 떠날 생각 없어. 바깥의 혼란이 그렇게 무서우면, 여기서 몰리도나 지키고 있어.
+NPC-Ange(2);NPC-Morridow(1)<Speaker>몰리도</Speaker>||:네?! 여기 남으라고요!?+그, 그럴 바에야 저도 안젤리아 씨랑 같이 갈래요!
+NPC-Ange(2);NPC-Hopps(0)<Speaker>홉스</Speaker>||:다들 제정신입니까?!+저 혼자선 저렇게 많은 수를 상대할 수 없습니다!
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Hopps(0)||:걱정 마세요, 숙녀분들의 안전은 제가 목숨을 바쳐서라도 지켜드릴 테니까요~
+NPC-Ange(2)<Speaker>안젤리아</Speaker>;NPC-Hopps(0)||:진짜 말 한번 징그럽게 하네. K도 그렇고, 너네 독일 남자들은 어떻게 말을 좀 정상적으로 하는 녀석이 없냐?+그래도, 동의해 줘서 고맙다.+홉스, 그래도 싫으면 너 혼자 여기 남던가.
+NPC-Ange(2);NPC-Hopps(0)<Speaker>홉스</Speaker>||:치잇...!+그럼 서둘러야 할 겁니다.+파월을 찾아낼 방법은 있습니까?
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:방법이야 항상 있지.+그런데 잠깐 기다려 봐, 아래쪽이 어째 심상치가 않아.
+NPC-Morridow(1)<Speaker>몰리도</Speaker>||:아까 그 이상한 울음소리가 점점 가까워지고 있어요...+엄청... 소름 끼치던데...
+()<Speaker></Speaker>||:무언가 떠오른 안젤리아가 황급히 다시 창밖을 살펴봤다. 시커먼 연기가 하늘로 치솟는 가운데, 사람들이 여기저기 서성이고 있었다.+그리고... 인간 같지 않은 것들도 눈에 들어왔다.
+NPC-Ange(2)<Speaker>안젤리아</Speaker>||:역시 여기다도 손을 댔군.+슬슬 네놈의 꼬리를 끄집어내 주겠어... 윌리엄.
+()||<黑屏1>:

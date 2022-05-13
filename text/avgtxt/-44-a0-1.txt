@@ -1,123 +1,123 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>5</BIN><SE1>AVG_Helicopter</SE1>:독일, 브레멘.
-()<Speaker></Speaker>||:민간인 거주 구역에서 상당히 떨어진 베저 강 하류.+양쪽의 강기슭을 따라 약 50m의 거리를, 시꺼먼 승합차들과 "통행금지" 테이프가 겹겹이 에워싸고 있었다.
-()<Speaker></Speaker>||<BGM>BGM_Brain</BGM>:하늘에서 굉음을 내는 헬리콥터 아래로, 한눈에 봐도 어려 보이는 청년이 서류 가방을 들고 강가의 이끼로 가득한 길을 지났다.
-NPC-Light(0)<Speaker>？？？</Speaker>||:......
-()<Speaker></Speaker>||:그리고 그가 발걸음을 멈춘 곳엔, 잠깐의 틈도 없이 보고가 들어오는 무전기를 든 사람이 있었다.
-()<Speaker>슈타지 요원A</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>D1 구역 수색 완료, 의심 정황 없음.</color>
-()<Speaker>슈타지 요원B</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>A2 구역 수색 완료, 의심 정황 없음.</color>
-NPC-Jason(1)<Speaker>K</Speaker>||:알았다. 하류로 범위 1km 추가, 수색을 속행한다.+전원 주목, "토끼"가 우리에서 빠져나갔다. 모두 눈 번쩍 뜨고 털 한 올이라도 찾아내도록.
-()<Speaker>슈타지 요원A&B</Speaker>||:<color=#00CCFF>Jawohl.</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:안전국의 수색인원들은 벌써 24시간 넘게 쉬지도 않고 강변을 들쑤시는 중이었다.+그리고 한편, 안젤리아가 독일에 온 지도 벌써 5일이 지났다.
-()<Speaker></Speaker>||<SE1>AVG_wind_grass</SE1>:겉옷이 관목에 스치는 소리가 들리자, 다가오는 인기척을 눈치챈 K는 고개를 돌렸다.+하지만 다가온 사람이 누구인지 알아본 그는 이내 긴장을 풀었다.
-NPC-Light(0)<Speaker>？？？</Speaker>||:소령님.
-NPC-Jason(1)<Speaker>K</Speaker>||:이리 와.
-NPC-Light(0)<Speaker>？？？</Speaker>||:네.
-()<Speaker></Speaker>||:청년은 K에게 가까이 다가갔다.+그의 날카롭고 곧은 눈빛은 강을 향해, 아직도 바쁘게 움직이는 구조선을 바라봤다.
-NPC-Jason(1)<Speaker>K</Speaker>||:시간 없으니 간단히 말하지.+...사실 긴 말이랄 것도 필요 없어. 내가 왜 너를 불렀는진 알겠지, 라이트?
-NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:네, 안젤리아 님에 관한 일이라고 들었습니다.
-NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:보고서는 읽었고?
-NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:네, 안젤리아 님과 "몰리도 씨"의 충돌까지, 전부 파악했습니다.+하지만 이 건은 J 선배가 담당 아니었습니까?
-NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:녀석은 지금 꼴이 엉망이라, 네가 더 쓸모 있어.+그리고 마침 너에게도 중요한 시기니까 말이지. 어느 알파벳으로 할지는 정했나?
-NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:노, 놀리지 말아 주십시오.+J 선배는 우수한 요원이시잖습니까, 전 아직 멀었어요.
-NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:하, 재미없긴.
-NPC-Light(3)<Speaker>라이트</Speaker>;NPC-Jason(1)||:시간 없다 하셨잖습니까.
-NPC-Jason(1)<Speaker>K</Speaker>||:어쭈... 그래, 좋아.
-()<Speaker></Speaker>||:K는 고개를 살짝 돌려, 여전히 강 위를 동분서주 중인 구조선에 시선을 향했다.
-NPC-Jason(1)<Speaker>K</Speaker>||:몰리도가 물에 빠져 죽었다고 생각해?
-NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:단정하기 어렵습니다, 비행기에 동승했던 그분들도 강에 빠지는 순간을 목격하진 못했으니까요.+그 정도 높이라면, 잘 훈련된 요원이라도 중상을 입을 수밖에 없습니다.+일반인이라면 수면에 부딪힌 순간 즉사했더라도 이상할 것 없죠.
-NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:하지만 우리 비서 아가씨는 아니지.
-NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:네, 문제는 몰리도가 일반인이 아니었단 점입니다.+안젤리아 님의 말대로라면, 그녀는 거대 범죄 조직 "패러데우스"의 최신형 개조 인간이니까요.+"늑대들"의 우두머리, AK-12와도 견줄 정도로 강하다고 들었습니다.
-NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:패러데우스 관련 자료는 A 등급 기밀 사항이다.+이렇게 이례적으로 네게 알려 줬다는 게, 무슨 뜻인지도 알겠지?
-NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:네.
-NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:원래대로라면 울릭 주석의 사무 빌딩으로 향했어야 할 그 비행기는, 예정 항로를 이탈했다.+증인의 증언 덕에, 비행기는 옛 베르더 호수를 지날 때 충돌이 시작된 것으로 단정지었다.
-NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:증인은 파일럿과 안젤리아 님 본인 말씀입니까?
-NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:맞아.+충돌은 약 6분간 지속됐고, 베저 강 상공에 도달했을 즈음, 용의자 몰리도는 계획이 실패했음을 깨닫고 도주하고자 비행기에서 뛰어내렸지.+그리고 난 그 소식을 듣자마자 사건 지점 반경 5km를 봉쇄했다. 긴급 조치였지만, 포위망의 효력에는 꽤 자신 있어.
-NPC-Light(0)<Speaker>라이트</Speaker>||:그럼에도 여전히 아무런 수확이 없단 겁니까?
-()<Speaker></Speaker>||:K는 어깨를 으쓱할 뿐이었다.
-NPC-Jason(1)<Speaker>K</Speaker>||:봉쇄 전에 그녀는 이미 현장을 벗어난 상황이었다고 보는 것이 타당하겠지.+아니면 그녀가 수용성이었다고 보고하는 수밖에.
-NPC-Light(0)<Speaker>라이트</Speaker>||:......
-NPC-Jason(1)<Speaker>K</Speaker>||:하지만 아주 절망적이지만은 않아.+아주 조금이나마, 단서를 찾았으니까.
-()<Speaker></Speaker>||:K는 제자리서 둘이 지금 서 있는 강가를 살짝 쿡쿡 밟으며 말을 이었다.
-NPC-Jason(1)<Speaker>K</Speaker>||:1시간 전, 여기서 떨어진 비행기 문을 발견했다.+혈흔도 검출됐지. 그건 아직 비공개다만.
-NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:혈흔이요...? 확실히, 안젤리아 님이 몰리도가 부상을 입었다고 하셨습니다.
-NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:애들한테 이 주변을 샅샅이 뒤지라 했지만, 역시 그녀의 종적은 발견하지 못했어.
-NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:도주 경로는 추측 가능한가요?
-NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:불가능해. 혈흔도 겨우 식별할 정도에, 별다른 인위적인 흔적도 발견되지 않았으니까.+애당초 저 강물부터가 방해물이고 말이지.
-NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:그렇다면 시간을 추정할 순 없을까요?+예상 이동 거리를 계산해, 그걸 반지름으로 삼으면...
-NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:역시 두뇌회전이 빨라.
-NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||<SE1>AVG_20Winter_Book</SE1>:그게 여기서의 네 첫 번째 임무다. 검토 보고서는 여기 있다.
-NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:알겠습니다.+하지만 솔직히 말씀드리자면, 이렇게 해도 사막에서 바늘 찾기라고 생각합니다.+그리고 넓은 반경 때문에 인원들이 너무 분산되어서, 설령 용의자를 발견하더라도 확보하기 어려울 겁니다.+상대는 고성능 전술인형과도 대적할 수 있는 괴물이잖습니까.
-NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:그렇지. 그래서 이번 작전은 소극적으로 나가도 아무도 뭐라 안 해.
-NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:......+...그렇다면, 중요한 건 두 번째군요?
-NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:그래... 맞아.+방금 인사조정 명령을 받았다.+여기서의 수색 작업이 끝나는 즉시 베를린으로 이동하도록.+기뻐해라 꼬맹이, 네가 사모하는 안젤리아 님과 함께 일할 수 있다.
-NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:그, 그런 거 아닙니다!
-NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:시치미 떼기는. 뭐, 사춘기 꼬맹이의 마음 따위 내 알 바 아니긴 하지.+아무튼 알았으면 빨리 움직여라, 손님 기다리게 하지 말고.
-NPC-Light(0)<Speaker>라이트</Speaker>||:아.
-()<Speaker></Speaker>||:라이트의 뒤에는, 경호원 2명을 대동한 울릭 주석이 언제부터인가 조용히 차례를 기다리고 있었다.+코앞에 나타난 우아한 여인에 당황한 라이트는 엉거주춤 허리 숙여 인사했다.+울릭은 그의 실례를 용서한다는 듯, 가볍게 고개를 끄덕여 인사에 답했다.
-NPC-Light(0)<Speaker>라이트</Speaker>||:그럼, 먼저 실례하겠습니다.
-NPC-Jason(1)<Speaker>K</Speaker>||:가 봐.
-()<Speaker></Speaker>||:라이트는 K에게 경례한 뒤, 보고서를 들고 자리를 떠났다.+떠나면서 울릭과 어깨가 스쳤지만, 그의 시선은 전혀 흔들리지 않았다.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:...저 아이가 울리히의 아들인가요?
-NPC-Jason(1)<Speaker>K</Speaker>||:떠오르는 신성이죠.+못 믿으시겠지만, J가 가르친 녀석입니다.
-()<Speaker></Speaker>||:울릭은 손짓으로 경호원들에게 잠시 자리를 비워 달라 지시했다.+두 경호원들은 초라한 옷차림의 슈타지 요원을 보며 살짝 눈살을 찌푸렸지만, 이내 고개를 끄덕이고 다른 위치로 이동했다.
-()<Speaker></Speaker>||:경호원들이 멀어진 뒤에야, 울릭은 천천히 K 곁으로 다가가 강물을 가르며 바쁘게 돌아다니는 구조선을 바라봤다.
-NPC-Jason(1)<Speaker>K</Speaker>||:방금 전까지 취재를 받고 계셨습니까?
-NPC-Ambassador(0)<Speaker>울릭</Speaker>;NPC-Jason(1)||:정치인에겐 언론이 곧 전장이랍니다, 슈바벤.
-NPC-Ambassador(0);NPC-Jason(1)<Speaker>K</Speaker>||:지난 이틀간의 뉴스만으로도, 방송국에서 1년은 족히 우려먹을 수 있겠죠.+뒷수습하시느라 수고가 많으십니다.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>;NPC-Jason(1)||:말투에 주의하세요, "K 소령".+여긴 공개 장소입니다.
-NPC-Ambassador(0);NPC-Jason(1)<Speaker>K</Speaker>||:...실언했습니다, 죄송합니다.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:수고는 피할 수 없는 노릇이겠죠.+제 판단 미스니까요.
-()<Speaker></Speaker>||:울릭은 한숨을 내쉬었다.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:홉스가 자독당의 사람임은 불 보듯 뻔했어요. 하지만 몰리도의 배경이 그토록 복잡할 줄이야... 둘이 한패라고 예상했건만.+상황이 이 지경으로 치닫게 된 데엔 저에게도 큰 책임이 있습니다.
-NPC-Ambassador(0);NPC-Jason(1)<Speaker>K</Speaker>||:저희 요원들의 세상엔, 이런 말이 있습니다.+"무슨 일이 벌어져도 후회하지 말라, 정말 후회할 일은 그럴 여유도 없을 테니까."
-NPC-Ambassador(0)<Speaker>울릭</Speaker>;NPC-Jason(1)||:슈바벤, 지금 제게 설교하는 건가요?
-NPC-Ambassador(0);NPC-Jason(1)<Speaker>K</Speaker>||:또 주제넘은 말투였나 보군요, 죄송합니다.+제 말은, 주석님께서 미리 두 사람이 수상하다 귀띔하지 않았더라도 그녀는 진작부터 눈치채고 있었을 거란 뜻입니다.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:...그래요, 그랬겠죠.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:울릭은 꼭 쥔 양손을 서로 살짝 주물렀다.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:안젤리아가 플로라 연구소를 무너뜨렸을 때에도, 제가 무마할 수 있었어요.+리오니가 먼저 공격했으니까요.+고아원에서 월권행위를 했을 때도, 비난의 소리를 받아칠 수 있었어요.+아무리 지저분한 정치인이라도, 무고한 아동을 건드리진 못하니까요.+하지만 그녀가 난민촌에서 벌인 일... 그건 선을 넘었습니다.+베를린은 굶주린 이리 떼처럼 호시탐탐 그녀를 노리고 있었는데, 스스로 머리를 그 입 안에 들이민 거예요.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:물론, 제가 미리 경고했더라도 막을 수는 없었겠죠.+안젤리아의 행동과 결과는 거의 필연적이니까요.+그게, 그녀의 방식이니까요.
-NPC-Ambassador(0);NPC-Jason(1)<Speaker>K</Speaker>||:그럼... 무엇을 걱정하고 계시는 겁니까?
-NPC-Ambassador(0)<Speaker>울릭</Speaker>;NPC-Jason(1)||:베를린이 안젤리아를 데려갔습니다.+이젠 저로서도 어떨 도리가 없어요. 더는 제가 나설 자리가 없습니다.
-NPC-Ambassador(0);NPC-Jason(1)<Speaker>K</Speaker>||:그들이 안젤리아를 순순히 놔줄 리가 없죠.+그들의 수단도 잘 압니다. 원하는 정보를 얻기 전까진, 분명 안젤리아를 물고 늘어질 겁니다.+그녀가 입을 다문 채 쓰러질 때까지.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>;NPC-Jason(1)||:이젠 그녀 스스로 해결해야 해요.
-NPC-Ambassador(0);NPC-Jason(1)<Speaker>K</Speaker>||:말씀은 그렇게 하시면서, J와 라이트를 베를린으로 보내셨잖습니까. 이미 충분히 도우신 겁니다.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>;NPC-Jason(1)||:......
-NPC-Jason(1)<Speaker>K</Speaker>||:...주석님?
-()<Speaker></Speaker>||:울릭이 천천히 고개를 돌려, K를 바라봤다. 그녀가 미세하게나마 표정이 흔들리는 것을, 베테랑 요원인 K는 놓치려야 놓칠 수 없었다.+오히려, 그래서 K는 당황스러웠다. 울릭과 같은 인물이 이런 표정을 보인다는 것 자체가 엄청나게 동요하고 있다는 뜻이었다.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:...K.
-NPC-Jason(1)<Speaker>K</Speaker>||:예.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:전 인사조정을 내리지 않았어요.
-NPC-Jason(1)<Speaker>K</Speaker>||:예...?
-()<Speaker></Speaker>||:K는 울릭보다 표정을 숨기지 못했고, 그 과한 반응에 멀리 떨어진 경호원들의 주의를 끌 뻔했다.
-NPC-Jason(1)<Speaker>K</Speaker>||:그럼... 그 명령은 누가 대체 누가 내린 거죠?+이런 상황에서 절대 평범한 임무일 리도 없고... 게다가 다른 부서도 아니고 저희라니, 안젤리아를 지원하는 것이 목적이란 뜻 아닙니까?
-NPC-Ambassador(0)<Speaker>울릭</Speaker>;NPC-Jason(1)||:네... 결과적으론 안젤리아에게 잘된 일이죠. 너무 걱정하지 마세요, K.
-NPC-Ambassador(0);NPC-Jason(1)<Speaker>K</Speaker>||:...걱정하지 않았습니다. 딱히 걱정할 관계도 아닌걸요.+단지 조금... 아니, 좀 많이 놀랐을 뿐입니다. 대체 누가 주석님의 권한을 넘어 아직 브레멘에서 임무를 수행 중인 상위 슈타지 요원을 움직인 거죠?
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:모르겠어요.
-()<Speaker></Speaker>||:울릭의 시선은 강을 거슬러 올라가, 지평선 너머를 바라봤다. 그 아래로, 부지런한 수색대원들은 여전히 있는지, 없는지도 모르는 여인을 찾아 강의 밑바닥을 헤매는 중이었다.
-()||<黑屏1>:
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:하지만 확실한 사실은... 벌써 무대가 변했다는 거예요, 슈바벤.+우리가 너무 뒤처지지 않았기만을 바라죠.
-()<Speaker></Speaker>||:......
-()<Speaker></Speaker>||:......
-()<Speaker></Speaker>||:......
-Narciss(0)<Speaker>？？？</Speaker>||<BGM>BGM_Truth</BGM>:......
-()<Speaker></Speaker>||<SE1>AVG_Water_Drip</SE1>:지독한 금속의 비린내가 풍기는 좁은 공간. 바닥에 고인 피웅덩이 위로, 한 소녀의 머리에서 물방울이 뚝뚝 떨어졌다.
-Narciss(0)<Speaker>？？？</Speaker>||:괜찮아...?
-NPC-Morridow(5)<Speaker>몰리도</Speaker>||:...응, 괜찮아.
-Narciss(3)<Speaker>？？？</Speaker>||:언니가 이렇게까지 혼난 거, 처음 봤어... 아버님, 엄청 화나셨어...
-NPC-Morridow(6)<Speaker>몰리도</Speaker>||:실패작은 마땅히 벌을 받는다. 그게 규칙이야.
-Narciss(0)<Speaker>？？？</Speaker>||:언니마저 실패작이라니――
-NPC-Morridow(5)<Speaker>몰리도</Speaker>||:말조심해, 나르시스.+실패작인지 아닌지를 정하는 건 오직 그분뿐이야.
-Narciss(0)<Speaker>나르시스</Speaker>||:......응.+그럼, 이번엔 누굴 죽이면 돼?
-NPC-Morridow(6)<Speaker>몰리도</Speaker>||:......
-()<Speaker></Speaker>||:몰리도는 힘겹게 자리에서 일어났다.
-NPC-Morridow(5)<Speaker>몰리도</Speaker>||:이번엔 그렇게 간단한 일이 아니야.+어쩌면, 조금 희생이 필요할지도 몰라.
-Narciss(0)<Speaker>나르시스</Speaker>||:정말?
-NPC-Morridow(5)<Speaker>몰리도</Speaker>||:만약 아버님이 너에게 날 죽이라 하신다면...+망설일 거야?
-Narciss(2)<Speaker>나르시스</Speaker>||:아니, 아주 기쁘게 할 거야.
-NPC-Morridow(5)<Speaker>몰리도</Speaker>||:그래... 넌 그러리라 믿어.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:젖은 머리카락을 귓등으로 넘기며, 몰리도는 눈앞의 소녀의 뺨을 어루만졌다.
-NPC-Morridow(5)<Speaker>몰리도</Speaker>||:깔끔하게 해 줘.
-Narciss(0)<Speaker>나르시스</Speaker>||:...응.
-()<Speaker></Speaker>||:......
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>5</BIN><SE1>AVG_Helicopter</SE1>:독일, 브레멘.
+()<Speaker></Speaker>||:민간인 거주 구역에서 상당히 떨어진 베저 강 하류.+양쪽의 강기슭을 따라 약 50m의 거리를, 시꺼먼 승합차들과 "통행금지" 테이프가 겹겹이 에워싸고 있었다.
+()<Speaker></Speaker>||<BGM>BGM_Brain</BGM>:하늘에서 굉음을 내는 헬리콥터 아래로, 한눈에 봐도 어려 보이는 청년이 서류 가방을 들고 강가의 이끼로 가득한 길을 지났다.
+NPC-Light(0)<Speaker>？？？</Speaker>||:......
+()<Speaker></Speaker>||:그리고 그가 발걸음을 멈춘 곳엔, 잠깐의 틈도 없이 보고가 들어오는 무전기를 든 사람이 있었다.
+()<Speaker>슈타지 요원A</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>D1 구역 수색 완료, 의심 정황 없음.</color>
+()<Speaker>슈타지 요원B</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>A2 구역 수색 완료, 의심 정황 없음.</color>
+NPC-Jason(1)<Speaker>K</Speaker>||:알았다. 하류로 범위 1km 추가, 수색을 속행한다.+전원 주목, "토끼"가 우리에서 빠져나갔다. 모두 눈 번쩍 뜨고 털 한 올이라도 찾아내도록.
+()<Speaker>슈타지 요원A&B</Speaker>||:<color=#00CCFF>Jawohl.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:안전국의 수색인원들은 벌써 24시간 넘게 쉬지도 않고 강변을 들쑤시는 중이었다.+그리고 한편, 안젤리아가 독일에 온 지도 벌써 5일이 지났다.
+()<Speaker></Speaker>||<SE1>AVG_wind_grass</SE1>:겉옷이 관목에 스치는 소리가 들리자, 다가오는 인기척을 눈치챈 K는 고개를 돌렸다.+하지만 다가온 사람이 누구인지 알아본 그는 이내 긴장을 풀었다.
+NPC-Light(0)<Speaker>？？？</Speaker>||:소령님.
+NPC-Jason(1)<Speaker>K</Speaker>||:이리 와.
+NPC-Light(0)<Speaker>？？？</Speaker>||:네.
+()<Speaker></Speaker>||:청년은 K에게 가까이 다가갔다.+그의 날카롭고 곧은 눈빛은 강을 향해, 아직도 바쁘게 움직이는 구조선을 바라봤다.
+NPC-Jason(1)<Speaker>K</Speaker>||:시간 없으니 간단히 말하지.+...사실 긴 말이랄 것도 필요 없어. 내가 왜 너를 불렀는진 알겠지, 라이트?
+NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:네, 안젤리아 님에 관한 일이라고 들었습니다.
+NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:보고서는 읽었고?
+NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:네, 안젤리아 님과 "몰리도 씨"의 충돌까지, 전부 파악했습니다.+하지만 이 건은 J 선배가 담당 아니었습니까?
+NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:녀석은 지금 꼴이 엉망이라, 네가 더 쓸모 있어.+그리고 마침 너에게도 중요한 시기니까 말이지. 어느 알파벳으로 할지는 정했나?
+NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:노, 놀리지 말아 주십시오.+J 선배는 우수한 요원이시잖습니까, 전 아직 멀었어요.
+NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:하, 재미없긴.
+NPC-Light(3)<Speaker>라이트</Speaker>;NPC-Jason(1)||:시간 없다 하셨잖습니까.
+NPC-Jason(1)<Speaker>K</Speaker>||:어쭈... 그래, 좋아.
+()<Speaker></Speaker>||:K는 고개를 살짝 돌려, 여전히 강 위를 동분서주 중인 구조선에 시선을 향했다.
+NPC-Jason(1)<Speaker>K</Speaker>||:몰리도가 물에 빠져 죽었다고 생각해?
+NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:단정하기 어렵습니다, 비행기에 동승했던 그분들도 강에 빠지는 순간을 목격하진 못했으니까요.+그 정도 높이라면, 잘 훈련된 요원이라도 중상을 입을 수밖에 없습니다.+일반인이라면 수면에 부딪힌 순간 즉사했더라도 이상할 것 없죠.
+NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:하지만 우리 비서 아가씨는 아니지.
+NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:네, 문제는 몰리도가 일반인이 아니었단 점입니다.+안젤리아 님의 말대로라면, 그녀는 거대 범죄 조직 "패러데우스"의 최신형 개조 인간이니까요.+"늑대들"의 우두머리, AK-12와도 견줄 정도로 강하다고 들었습니다.
+NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:패러데우스 관련 자료는 A 등급 기밀 사항이다.+이렇게 이례적으로 네게 알려 줬다는 게, 무슨 뜻인지도 알겠지?
+NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:네.
+NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:원래대로라면 울릭 주석의 사무 빌딩으로 향했어야 할 그 비행기는, 예정 항로를 이탈했다.+증인의 증언 덕에, 비행기는 옛 베르더 호수를 지날 때 충돌이 시작된 것으로 단정지었다.
+NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:증인은 파일럿과 안젤리아 님 본인 말씀입니까?
+NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:맞아.+충돌은 약 6분간 지속됐고, 베저 강 상공에 도달했을 즈음, 용의자 몰리도는 계획이 실패했음을 깨닫고 도주하고자 비행기에서 뛰어내렸지.+그리고 난 그 소식을 듣자마자 사건 지점 반경 5km를 봉쇄했다. 긴급 조치였지만, 포위망의 효력에는 꽤 자신 있어.
+NPC-Light(0)<Speaker>라이트</Speaker>||:그럼에도 여전히 아무런 수확이 없단 겁니까?
+()<Speaker></Speaker>||:K는 어깨를 으쓱할 뿐이었다.
+NPC-Jason(1)<Speaker>K</Speaker>||:봉쇄 전에 그녀는 이미 현장을 벗어난 상황이었다고 보는 것이 타당하겠지.+아니면 그녀가 수용성이었다고 보고하는 수밖에.
+NPC-Light(0)<Speaker>라이트</Speaker>||:......
+NPC-Jason(1)<Speaker>K</Speaker>||:하지만 아주 절망적이지만은 않아.+아주 조금이나마, 단서를 찾았으니까.
+()<Speaker></Speaker>||:K는 제자리서 둘이 지금 서 있는 강가를 살짝 쿡쿡 밟으며 말을 이었다.
+NPC-Jason(1)<Speaker>K</Speaker>||:1시간 전, 여기서 떨어진 비행기 문을 발견했다.+혈흔도 검출됐지. 그건 아직 비공개다만.
+NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:혈흔이요...? 확실히, 안젤리아 님이 몰리도가 부상을 입었다고 하셨습니다.
+NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:애들한테 이 주변을 샅샅이 뒤지라 했지만, 역시 그녀의 종적은 발견하지 못했어.
+NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:도주 경로는 추측 가능한가요?
+NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:불가능해. 혈흔도 겨우 식별할 정도에, 별다른 인위적인 흔적도 발견되지 않았으니까.+애당초 저 강물부터가 방해물이고 말이지.
+NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:그렇다면 시간을 추정할 순 없을까요?+예상 이동 거리를 계산해, 그걸 반지름으로 삼으면...
+NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:역시 두뇌회전이 빨라.
+NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||<SE1>AVG_20Winter_Book</SE1>:그게 여기서의 네 첫 번째 임무다. 검토 보고서는 여기 있다.
+NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:알겠습니다.+하지만 솔직히 말씀드리자면, 이렇게 해도 사막에서 바늘 찾기라고 생각합니다.+그리고 넓은 반경 때문에 인원들이 너무 분산되어서, 설령 용의자를 발견하더라도 확보하기 어려울 겁니다.+상대는 고성능 전술인형과도 대적할 수 있는 괴물이잖습니까.
+NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:그렇지. 그래서 이번 작전은 소극적으로 나가도 아무도 뭐라 안 해.
+NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:......+...그렇다면, 중요한 건 두 번째군요?
+NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:그래... 맞아.+방금 인사조정 명령을 받았다.+여기서의 수색 작업이 끝나는 즉시 베를린으로 이동하도록.+기뻐해라 꼬맹이, 네가 사모하는 안젤리아 님과 함께 일할 수 있다.
+NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Jason(1)||:그, 그런 거 아닙니다!
+NPC-Light(0);NPC-Jason(1)<Speaker>K</Speaker>||:시치미 떼기는. 뭐, 사춘기 꼬맹이의 마음 따위 내 알 바 아니긴 하지.+아무튼 알았으면 빨리 움직여라, 손님 기다리게 하지 말고.
+NPC-Light(0)<Speaker>라이트</Speaker>||:아.
+()<Speaker></Speaker>||:라이트의 뒤에는, 경호원 2명을 대동한 울릭 주석이 언제부터인가 조용히 차례를 기다리고 있었다.+코앞에 나타난 우아한 여인에 당황한 라이트는 엉거주춤 허리 숙여 인사했다.+울릭은 그의 실례를 용서한다는 듯, 가볍게 고개를 끄덕여 인사에 답했다.
+NPC-Light(0)<Speaker>라이트</Speaker>||:그럼, 먼저 실례하겠습니다.
+NPC-Jason(1)<Speaker>K</Speaker>||:가 봐.
+()<Speaker></Speaker>||:라이트는 K에게 경례한 뒤, 보고서를 들고 자리를 떠났다.+떠나면서 울릭과 어깨가 스쳤지만, 그의 시선은 전혀 흔들리지 않았다.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:...저 아이가 울리히의 아들인가요?
+NPC-Jason(1)<Speaker>K</Speaker>||:떠오르는 신성이죠.+못 믿으시겠지만, J가 가르친 녀석입니다.
+()<Speaker></Speaker>||:울릭은 손짓으로 경호원들에게 잠시 자리를 비워 달라 지시했다.+두 경호원들은 초라한 옷차림의 슈타지 요원을 보며 살짝 눈살을 찌푸렸지만, 이내 고개를 끄덕이고 다른 위치로 이동했다.
+()<Speaker></Speaker>||:경호원들이 멀어진 뒤에야, 울릭은 천천히 K 곁으로 다가가 강물을 가르며 바쁘게 돌아다니는 구조선을 바라봤다.
+NPC-Jason(1)<Speaker>K</Speaker>||:방금 전까지 취재를 받고 계셨습니까?
+NPC-Ambassador(0)<Speaker>울릭</Speaker>;NPC-Jason(1)||:정치인에겐 언론이 곧 전장이랍니다, 슈바벤.
+NPC-Ambassador(0);NPC-Jason(1)<Speaker>K</Speaker>||:지난 이틀간의 뉴스만으로도, 방송국에서 1년은 족히 우려먹을 수 있겠죠.+뒷수습하시느라 수고가 많으십니다.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>;NPC-Jason(1)||:말투에 주의하세요, "K 소령".+여긴 공개 장소입니다.
+NPC-Ambassador(0);NPC-Jason(1)<Speaker>K</Speaker>||:...실언했습니다, 죄송합니다.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:수고는 피할 수 없는 노릇이겠죠.+제 판단 미스니까요.
+()<Speaker></Speaker>||:울릭은 한숨을 내쉬었다.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:홉스가 자독당의 사람임은 불 보듯 뻔했어요. 하지만 몰리도의 배경이 그토록 복잡할 줄이야... 둘이 한패라고 예상했건만.+상황이 이 지경으로 치닫게 된 데엔 저에게도 큰 책임이 있습니다.
+NPC-Ambassador(0);NPC-Jason(1)<Speaker>K</Speaker>||:저희 요원들의 세상엔, 이런 말이 있습니다.+"무슨 일이 벌어져도 후회하지 말라, 정말 후회할 일은 그럴 여유도 없을 테니까."
+NPC-Ambassador(0)<Speaker>울릭</Speaker>;NPC-Jason(1)||:슈바벤, 지금 제게 설교하는 건가요?
+NPC-Ambassador(0);NPC-Jason(1)<Speaker>K</Speaker>||:또 주제넘은 말투였나 보군요, 죄송합니다.+제 말은, 주석님께서 미리 두 사람이 수상하다 귀띔하지 않았더라도 그녀는 진작부터 눈치채고 있었을 거란 뜻입니다.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:...그래요, 그랬겠죠.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:울릭은 꼭 쥔 양손을 서로 살짝 주물렀다.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:안젤리아가 플로라 연구소를 무너뜨렸을 때에도, 제가 무마할 수 있었어요.+리오니가 먼저 공격했으니까요.+고아원에서 월권행위를 했을 때도, 비난의 소리를 받아칠 수 있었어요.+아무리 지저분한 정치인이라도, 무고한 아동을 건드리진 못하니까요.+하지만 그녀가 난민촌에서 벌인 일... 그건 선을 넘었습니다.+베를린은 굶주린 이리 떼처럼 호시탐탐 그녀를 노리고 있었는데, 스스로 머리를 그 입 안에 들이민 거예요.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:물론, 제가 미리 경고했더라도 막을 수는 없었겠죠.+안젤리아의 행동과 결과는 거의 필연적이니까요.+그게, 그녀의 방식이니까요.
+NPC-Ambassador(0);NPC-Jason(1)<Speaker>K</Speaker>||:그럼... 무엇을 걱정하고 계시는 겁니까?
+NPC-Ambassador(0)<Speaker>울릭</Speaker>;NPC-Jason(1)||:베를린이 안젤리아를 데려갔습니다.+이젠 저로서도 어떨 도리가 없어요. 더는 제가 나설 자리가 없습니다.
+NPC-Ambassador(0);NPC-Jason(1)<Speaker>K</Speaker>||:그들이 안젤리아를 순순히 놔줄 리가 없죠.+그들의 수단도 잘 압니다. 원하는 정보를 얻기 전까진, 분명 안젤리아를 물고 늘어질 겁니다.+그녀가 입을 다문 채 쓰러질 때까지.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>;NPC-Jason(1)||:이젠 그녀 스스로 해결해야 해요.
+NPC-Ambassador(0);NPC-Jason(1)<Speaker>K</Speaker>||:말씀은 그렇게 하시면서, J와 라이트를 베를린으로 보내셨잖습니까. 이미 충분히 도우신 겁니다.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>;NPC-Jason(1)||:......
+NPC-Jason(1)<Speaker>K</Speaker>||:...주석님?
+()<Speaker></Speaker>||:울릭이 천천히 고개를 돌려, K를 바라봤다. 그녀가 미세하게나마 표정이 흔들리는 것을, 베테랑 요원인 K는 놓치려야 놓칠 수 없었다.+오히려, 그래서 K는 당황스러웠다. 울릭과 같은 인물이 이런 표정을 보인다는 것 자체가 엄청나게 동요하고 있다는 뜻이었다.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:...K.
+NPC-Jason(1)<Speaker>K</Speaker>||:예.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:전 인사조정을 내리지 않았어요.
+NPC-Jason(1)<Speaker>K</Speaker>||:예...?
+()<Speaker></Speaker>||:K는 울릭보다 표정을 숨기지 못했고, 그 과한 반응에 멀리 떨어진 경호원들의 주의를 끌 뻔했다.
+NPC-Jason(1)<Speaker>K</Speaker>||:그럼... 그 명령은 누가 대체 누가 내린 거죠?+이런 상황에서 절대 평범한 임무일 리도 없고... 게다가 다른 부서도 아니고 저희라니, 안젤리아를 지원하는 것이 목적이란 뜻 아닙니까?
+NPC-Ambassador(0)<Speaker>울릭</Speaker>;NPC-Jason(1)||:네... 결과적으론 안젤리아에게 잘된 일이죠. 너무 걱정하지 마세요, K.
+NPC-Ambassador(0);NPC-Jason(1)<Speaker>K</Speaker>||:...걱정하지 않았습니다. 딱히 걱정할 관계도 아닌걸요.+단지 조금... 아니, 좀 많이 놀랐을 뿐입니다. 대체 누가 주석님의 권한을 넘어 아직 브레멘에서 임무를 수행 중인 상위 슈타지 요원을 움직인 거죠?
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:모르겠어요.
+()<Speaker></Speaker>||:울릭의 시선은 강을 거슬러 올라가, 지평선 너머를 바라봤다. 그 아래로, 부지런한 수색대원들은 여전히 있는지, 없는지도 모르는 여인을 찾아 강의 밑바닥을 헤매는 중이었다.
+()||<黑屏1>:
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:하지만 확실한 사실은... 벌써 무대가 변했다는 거예요, 슈바벤.+우리가 너무 뒤처지지 않았기만을 바라죠.
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||:......
+Narciss(0)<Speaker>？？？</Speaker>||<BGM>BGM_Truth</BGM>:......
+()<Speaker></Speaker>||<SE1>AVG_Water_Drip</SE1>:지독한 금속의 비린내가 풍기는 좁은 공간. 바닥에 고인 피웅덩이 위로, 한 소녀의 머리에서 물방울이 뚝뚝 떨어졌다.
+Narciss(0)<Speaker>？？？</Speaker>||:괜찮아...?
+NPC-Morridow(5)<Speaker>몰리도</Speaker>||:...응, 괜찮아.
+Narciss(3)<Speaker>？？？</Speaker>||:언니가 이렇게까지 혼난 거, 처음 봤어... 아버님, 엄청 화나셨어...
+NPC-Morridow(6)<Speaker>몰리도</Speaker>||:실패작은 마땅히 벌을 받는다. 그게 규칙이야.
+Narciss(0)<Speaker>？？？</Speaker>||:언니마저 실패작이라니――
+NPC-Morridow(5)<Speaker>몰리도</Speaker>||:말조심해, 나르시스.+실패작인지 아닌지를 정하는 건 오직 그분뿐이야.
+Narciss(0)<Speaker>나르시스</Speaker>||:......응.+그럼, 이번엔 누굴 죽이면 돼?
+NPC-Morridow(6)<Speaker>몰리도</Speaker>||:......
+()<Speaker></Speaker>||:몰리도는 힘겹게 자리에서 일어났다.
+NPC-Morridow(5)<Speaker>몰리도</Speaker>||:이번엔 그렇게 간단한 일이 아니야.+어쩌면, 조금 희생이 필요할지도 몰라.
+Narciss(0)<Speaker>나르시스</Speaker>||:정말?
+NPC-Morridow(5)<Speaker>몰리도</Speaker>||:만약 아버님이 너에게 날 죽이라 하신다면...+망설일 거야?
+Narciss(2)<Speaker>나르시스</Speaker>||:아니, 아주 기쁘게 할 거야.
+NPC-Morridow(5)<Speaker>몰리도</Speaker>||:그래... 넌 그러리라 믿어.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:젖은 머리카락을 귓등으로 넘기며, 몰리도는 눈앞의 소녀의 뺨을 어루만졌다.
+NPC-Morridow(5)<Speaker>몰리도</Speaker>||:깔끔하게 해 줘.
+Narciss(0)<Speaker>나르시스</Speaker>||:...응.
+()<Speaker></Speaker>||:......
 ()||<黑屏1>:

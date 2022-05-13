@@ -1,45 +1,45 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
-()||<黑屏2><BIN>82</BIN><SE1>AVG_footsteps_woodfloor</SE1><BGM>BGM_Brain</BGM>:이상하리만치 조용한 PP-19의 숙소 주변. 그 정적은 폭풍 전야와도 같은 저기압이었다.+시끄럽게 떠들며 근처를 지나가던 인형들도 그 기운을 감지하고 비켜 갔고, 그녀의 숙소 문에 가까워질수록 웃음소리도 잦아들었다.+하지만 지금 문앞에 당도한 방문자는, 이를 전혀 개의치 않았다.
-()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:똑똑똑.
-()<Speaker>pp19</Speaker>||<震屏>:절대 동의 안 한다고 했잖아!+안 가, 죽어도 안 갈 거야!
-AKAlfa(0)<Speaker>AKAlfa</Speaker>||:비존, 나 Alfa야. 화난 건 알지만, 마인드맵 업그레이드는 엄청 중요한 일이잖아.+들여보내 줘, 말싸움 하더라도 얼굴을 보고 해야지.
-AKAlfa(0)<Speaker></Speaker><同时置暗>||:......
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:AK-Alfa와 PP-19의 신경전에 주위의 이목이 집중됐다.+어떤 인형은 아예 통신기에 카리나의 채널을 띄워, 상황을 봐서 바로 연결할 준비까지 했다.+하지만 우려하던 사태까지 벌어지진 않았다.+PP-19가 문을 열더니, AK-Alfa의 팔을 냅다 잡아당겨 숙소 안으로 끌고 들어갔다.+문이 닫히자 불안하던 분위기도 걷혔고, 인형들도 안심한 듯 다시 수다를 떨기 시작했다.
-()<Speaker></Speaker>||<BGM>BGM_Wake</BGM><黑点1>:PP-19의 숙소 안.
-pp19(0)<Speaker>pp19</Speaker>||<黑点2>:너처럼 귀한 아가씨가 이런 누추한 곳엔 어쩐 일이시래?+여긴 더럽고 별도 안 보인다고 높은 층의 방으로 갔잖아.
-pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:꼭 할 말이 있으니까. 카리나 씨도 다 네가 걱정돼서――
-pp19(0)<Speaker>pp19</Speaker><Shake>;AKAlfa(0)||:시끄러워! 싫다고 몇 번을 말해!
-pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:이유는? 이건 흔치 않은 기회야.+인형의 마인드맵의 수명은 길어봤자 20년 정도지만, 업그레이드를 받으면 완전히 새것이 돼서 수명도 늘어나.
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:그 정도쯤이야 나도 알아.+아 진짜, 왜 내가 너한테 사정을 설명해야 하는데... 너 고집 부리는 거 보면 회사의 평가가 잘못된 거 아닌가 싶다.
-pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:내가 받은 평가는 내 마인드맵의 깊이와 넓이로 정해졌을 뿐이야. 너도 업그레이드를 받으면 나와 비슷한 평가를 받을 수 있어.
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:아 글쎄, 전혀 필요 없다고! 난 너보다 힘도 세고 할 수 있는 일도 훨씬 많아!+그리고 나보다 업그레이드가 필요한 동료가 얼마나 많은데! 잔뜩, 자안뜩 있다고! 난 아직 괜찮은데 다른 사람의 기회를 빼앗을 이유가 어디 있어?
-pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:지난번의 보고서를 다시 읽어 줘야겠어?+"전술인형 PP-19는 인질 구출 작전, 작전명 '밤 비'에서 다수의 인질에게 부상을 초래함. 원인은 마인드맵 알고리즘의 유연성 결여 및 과잉 방어로 판단됨."+"이와 같은 일의 재발 방지를 위해 전술인형 PP-19의 마인드맵 업그레이드가 건의되었으며, 본인 포함 사원 30명의 투표 결과 찬성 28표, 반대 2표."
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:그건 그냥 사소한 문제였다고, 정말로 업그레이드가 필요한 때가 오기 전까지 그런 구출 임무만 안 하면 돼지.+그나저나, 나 말고 반대표 넣은 사람은 누구야?
-pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:비밀 투표였는데 내가 어떻게 알아.
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:하긴... 아무튼, 개조 명단에는 나 빼고 다른 애 넣어.+마카로프든 토카레프든 PPK든 많잖아.
-pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:그리고?
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:그리고 뭐? 난 그냥 내가 할 수 있는 일을 하면 되지.
-pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:너는 네가 할 수 있는 일만 하고, 네가 저질러 놓은 난장판은 남 보고 뒷처리하라고?
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:너 말 다했——
-pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:대뜸 성질이나 내고, 내가 정곡을 찔렀나 봐?+그때 일도 그래. 너랑 같이 나갔던 토카레프만 잔뜩 사과했고, 지휘관도 인질의 가족분들에게 클레임을 엄청 받았어. 하지만 너는?+자괴감과 각오만으로는 아무것도 해결할 수 없어.
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:난.... 난 힘도 있어!
-pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:그렇지, 힘이 세지. 하지만 왜 모두가 네 업그레이드를 바라는지에 대한 이해는 전혀 없네.
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:난...
-pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:넌 모두에게 민폐를 끼쳤어. 그리고 네가 저지른 잘못을 만회하기엔, 지금의 넌 능력이 부족해.+그러니까 다시 잘 생각하고 결정해.
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:......
-pp19(0)<Speaker></Speaker>;AKAlfa(0)||:PP-19는 입을 꾹 다물었다. 여전히 주먹을 꽈악 쥐고 화가 가시지 않은 표정이었지만, 눈빛에서 망설임이 드러났다.+이를 본 AK-Alfa도 더는 말하지 않고 시선을 텅 빈 창가로 돌렸다.
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:...마인드맵 업그레이드가 그렇게 대단한 일이야? 개조만 받으면 뭐든지 해결되는 거야?
-pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:난 모르겠지만, 카리나 씨는 그렇게 말했어.+하지만 딱 하나 나도 확실히 아는 건, 소체를 교체하지 않고 마인드맵만 업데이트한다면 언제든지 이전 버전으로 되돌릴 수 있어.
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:......그럼 한번 받아볼까.
-pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:그건 네가 정해야지.
-()||<BIN>8</BIN><黑屏2>:......+이틀 후의 그리폰 기지, 지휘관의 사무실.
-NPC-Kalin(1)<Speaker>카리나</Speaker>||<BGM>BGM_Sunshine</BGM>:수고하셨습니다 지휘관님!+서류 정리는 다 했으니 이제――우왓?!
-pp19(0)<Speaker>pp19</Speaker>;NPC-Kalin(1)||<SE1>AVG_lifttable</SE1>:지휘관, 카리나! 나 왔어!
-pp19(0);NPC-Kalin(12)<Speaker>카리나</Speaker>||:...다시 주워서 정리해야겠네요. 안녕, 비존.
-pp19(0)<Speaker>pp19</Speaker>;NPC-Kalin(12)||:으아아, 미안해, 도와줄게! 아무튼, 나 마인드맵 업그레이드 다 끝났어! 별로 달라진 느낌은 안 들지만, 강해진 거 맞지?+지휘관! 카리나! 빨리 새로운 임무를 줘, 내가 얼마나 강해졌는지 보고 싶어!
-pp19(0);NPC-Kalin(3)<Speaker>카리나</Speaker>||:아, 그건...
-pp19(0);NPC-Kalin(3)<Speaker></Speaker><同时点亮>||:카리나가 어색한 미소로 지휘관에게 도움을 청했다.
-pp19(0);NPC-Kalin(3)<Speaker>지휘관</Speaker><同时点亮>||:음... 그래, 마인드맵 업그레이드를 받았으니 더 어려운 임무를 맡아도 되겠지.+하지만 네 업그레이드가 다 끝나진 않았어, 업데이트된 네 마인드맵의 성능을 소체가 따라가지 못할 거야.
-pp19(0)<Speaker>pp19</Speaker>||:그래도 마인드맵이 업데이트됐으니 조금은 바뀌었을 거 아니야!
-pp19(0)<Speaker>지휘관</Speaker>||:그건 그렇지. 어디 보자, 그럼 네가 변화를 체감할 수 있을 만한 임무로...+생물 표본 호송 임무를 맡길게.
-pp19(0)<Speaker>pp19</Speaker>||<黑屏1>:...엉?
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
+()||<黑屏2><BIN>82</BIN><SE1>AVG_footsteps_woodfloor</SE1><BGM>BGM_Brain</BGM>:이상하리만치 조용한 PP-19의 숙소 주변. 그 정적은 폭풍 전야와도 같은 저기압이었다.+시끄럽게 떠들며 근처를 지나가던 인형들도 그 기운을 감지하고 비켜 갔고, 그녀의 숙소 문에 가까워질수록 웃음소리도 잦아들었다.+하지만 지금 문앞에 당도한 방문자는, 이를 전혀 개의치 않았다.
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:똑똑똑.
+()<Speaker>pp19</Speaker>||<震屏>:절대 동의 안 한다고 했잖아!+안 가, 죽어도 안 갈 거야!
+AKAlfa(0)<Speaker>AKAlfa</Speaker>||:비존, 나 Alfa야. 화난 건 알지만, 마인드맵 업그레이드는 엄청 중요한 일이잖아.+들여보내 줘, 말싸움 하더라도 얼굴을 보고 해야지.
+AKAlfa(0)<Speaker></Speaker><同时置暗>||:......
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:AK-Alfa와 PP-19의 신경전에 주위의 이목이 집중됐다.+어떤 인형은 아예 통신기에 카리나의 채널을 띄워, 상황을 봐서 바로 연결할 준비까지 했다.+하지만 우려하던 사태까지 벌어지진 않았다.+PP-19가 문을 열더니, AK-Alfa의 팔을 냅다 잡아당겨 숙소 안으로 끌고 들어갔다.+문이 닫히자 불안하던 분위기도 걷혔고, 인형들도 안심한 듯 다시 수다를 떨기 시작했다.
+()<Speaker></Speaker>||<BGM>BGM_Wake</BGM><黑点1>:PP-19의 숙소 안.
+pp19(0)<Speaker>pp19</Speaker>||<黑点2>:너처럼 귀한 아가씨가 이런 누추한 곳엔 어쩐 일이시래?+여긴 더럽고 별도 안 보인다고 높은 층의 방으로 갔잖아.
+pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:꼭 할 말이 있으니까. 카리나 씨도 다 네가 걱정돼서――
+pp19(0)<Speaker>pp19</Speaker><Shake>;AKAlfa(0)||:시끄러워! 싫다고 몇 번을 말해!
+pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:이유는? 이건 흔치 않은 기회야.+인형의 마인드맵의 수명은 길어봤자 20년 정도지만, 업그레이드를 받으면 완전히 새것이 돼서 수명도 늘어나.
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:그 정도쯤이야 나도 알아.+아 진짜, 왜 내가 너한테 사정을 설명해야 하는데... 너 고집 부리는 거 보면 회사의 평가가 잘못된 거 아닌가 싶다.
+pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:내가 받은 평가는 내 마인드맵의 깊이와 넓이로 정해졌을 뿐이야. 너도 업그레이드를 받으면 나와 비슷한 평가를 받을 수 있어.
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:아 글쎄, 전혀 필요 없다고! 난 너보다 힘도 세고 할 수 있는 일도 훨씬 많아!+그리고 나보다 업그레이드가 필요한 동료가 얼마나 많은데! 잔뜩, 자안뜩 있다고! 난 아직 괜찮은데 다른 사람의 기회를 빼앗을 이유가 어디 있어?
+pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:지난번의 보고서를 다시 읽어 줘야겠어?+"전술인형 PP-19는 인질 구출 작전, 작전명 '밤 비'에서 다수의 인질에게 부상을 초래함. 원인은 마인드맵 알고리즘의 유연성 결여 및 과잉 방어로 판단됨."+"이와 같은 일의 재발 방지를 위해 전술인형 PP-19의 마인드맵 업그레이드가 건의되었으며, 본인 포함 사원 30명의 투표 결과 찬성 28표, 반대 2표."
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:그건 그냥 사소한 문제였다고, 정말로 업그레이드가 필요한 때가 오기 전까지 그런 구출 임무만 안 하면 돼지.+그나저나, 나 말고 반대표 넣은 사람은 누구야?
+pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:비밀 투표였는데 내가 어떻게 알아.
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:하긴... 아무튼, 개조 명단에는 나 빼고 다른 애 넣어.+마카로프든 토카레프든 PPK든 많잖아.
+pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:그리고?
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:그리고 뭐? 난 그냥 내가 할 수 있는 일을 하면 되지.
+pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:너는 네가 할 수 있는 일만 하고, 네가 저질러 놓은 난장판은 남 보고 뒷처리하라고?
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:너 말 다했——
+pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:대뜸 성질이나 내고, 내가 정곡을 찔렀나 봐?+그때 일도 그래. 너랑 같이 나갔던 토카레프만 잔뜩 사과했고, 지휘관도 인질의 가족분들에게 클레임을 엄청 받았어. 하지만 너는?+자괴감과 각오만으로는 아무것도 해결할 수 없어.
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:난.... 난 힘도 있어!
+pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:그렇지, 힘이 세지. 하지만 왜 모두가 네 업그레이드를 바라는지에 대한 이해는 전혀 없네.
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:난...
+pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:넌 모두에게 민폐를 끼쳤어. 그리고 네가 저지른 잘못을 만회하기엔, 지금의 넌 능력이 부족해.+그러니까 다시 잘 생각하고 결정해.
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:......
+pp19(0)<Speaker></Speaker>;AKAlfa(0)||:PP-19는 입을 꾹 다물었다. 여전히 주먹을 꽈악 쥐고 화가 가시지 않은 표정이었지만, 눈빛에서 망설임이 드러났다.+이를 본 AK-Alfa도 더는 말하지 않고 시선을 텅 빈 창가로 돌렸다.
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:...마인드맵 업그레이드가 그렇게 대단한 일이야? 개조만 받으면 뭐든지 해결되는 거야?
+pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||:난 모르겠지만, 카리나 씨는 그렇게 말했어.+하지만 딱 하나 나도 확실히 아는 건, 소체를 교체하지 않고 마인드맵만 업데이트한다면 언제든지 이전 버전으로 되돌릴 수 있어.
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:......그럼 한번 받아볼까.
+pp19(0);AKAlfa(0)<Speaker>AKAlfa</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:그건 네가 정해야지.
+()||<BIN>8</BIN><黑屏2>:......+이틀 후의 그리폰 기지, 지휘관의 사무실.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||<BGM>BGM_Sunshine</BGM>:수고하셨습니다 지휘관님!+서류 정리는 다 했으니 이제――우왓?!
+pp19(0)<Speaker>pp19</Speaker>;NPC-Kalin(1)||<SE1>AVG_lifttable</SE1>:지휘관, 카리나! 나 왔어!
+pp19(0);NPC-Kalin(12)<Speaker>카리나</Speaker>||:...다시 주워서 정리해야겠네요. 안녕, 비존.
+pp19(0)<Speaker>pp19</Speaker>;NPC-Kalin(12)||:으아아, 미안해, 도와줄게! 아무튼, 나 마인드맵 업그레이드 다 끝났어! 별로 달라진 느낌은 안 들지만, 강해진 거 맞지?+지휘관! 카리나! 빨리 새로운 임무를 줘, 내가 얼마나 강해졌는지 보고 싶어!
+pp19(0);NPC-Kalin(3)<Speaker>카리나</Speaker>||:아, 그건...
+pp19(0);NPC-Kalin(3)<Speaker></Speaker><同时点亮>||:카리나가 어색한 미소로 지휘관에게 도움을 청했다.
+pp19(0);NPC-Kalin(3)<Speaker>지휘관</Speaker><同时点亮>||:음... 그래, 마인드맵 업그레이드를 받았으니 더 어려운 임무를 맡아도 되겠지.+하지만 네 업그레이드가 다 끝나진 않았어, 업데이트된 네 마인드맵의 성능을 소체가 따라가지 못할 거야.
+pp19(0)<Speaker>pp19</Speaker>||:그래도 마인드맵이 업데이트됐으니 조금은 바뀌었을 거 아니야!
+pp19(0)<Speaker>지휘관</Speaker>||:그건 그렇지. 어디 보자, 그럼 네가 변화를 체감할 수 있을 만한 임무로...+생물 표본 호송 임무를 맡길게.
+pp19(0)<Speaker>pp19</Speaker>||<黑屏1>:...엉?

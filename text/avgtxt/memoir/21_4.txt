@@ -1,93 +1,93 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BGM>BGM_Boss2</BGM><BIN>270</BIN><SE1>Battlefield</SE1><Night>:대형병기 한 기가 건물 안에 처들어왔고, 아직 움직일 수 있는 민병들은 즉시 공격을 퍼부었다.+하지만 이 살인 기계는 여태까지 왔던 군용 인형 성능을 훌쩍 뛰어넘어, 그 강력한 화력으로 모든 것을 쓸어버리며, 굶주린 맹수처럼 민병들의 목숨을 무자비하게 집어삼켰다.
-()<Speaker></Speaker>||:파블로프는 파파샤를 따라서 방어 진지에 몸을 피했다.+하지만 엄폐물 사이를 이동하는 순간에 시커먼 총구가 그를 조준했다.
-PPSh41(0)<Speaker>파파샤</Speaker>||:조심해요!!!
-()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:민병들의 엄호를 받으며, 파파샤는 파블로프를 감싸 폭발을 피해 엄폐물 안으로 몸을 숨겼다.
-()<Speaker>주둔 민병</Speaker>||<SE2>Gunfight</SE2>:파블로프 씨, 이 자식 화력이 너무 강력합니다! 게다가 장갑까지 두꺼워서 총알이 전혀 안 먹힙니다!
-PPSh41(0)<Speaker>파파샤</Speaker>||:제가 해볼게요...!
-PPSh41(0)<Speaker>파파샤</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:......
-()<Speaker>대형 병기</Speaker>||<SE1>AVG_Grey_Hand_Mech</SE1>:——!
-()<Speaker>주둔 민병</Speaker>||:응? 방금 녀석의 유탄발사기가 불발한 건가...!?
-PPSh41(0)<Speaker>파파샤</Speaker>||:상대의 중화기 제어 시스템을 제압했어요... 하지만 이게 제가 할 수 있는 최선이에요...
-()<Speaker></Speaker>||<SE1>AVG_Gatling_gun</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:아무리 유탄발사기가 마비됐다 해도, 대형병기에 탑재된 자동 기관총은 여전히 매서운 화염을 뿜어댔다.
-NPC-Arla(0)<Speaker>파블로프</Speaker>||:망할 반군놈들, 저런 무기까지 꺼내다니...+지금 쓸만한 물건 없나?
-()<Speaker>주둔 민병</Speaker>||:폭, 폭탄 조금밖에 없습니다!
-NPC-Arla(0)<Speaker>파블로프</Speaker>||:폭탄뿐이라...+파파샤, 방금 우리가 이길 가능성이 있다고 했지?
-PPSh41(0)<Speaker>파파샤</Speaker>||:넷?
-NPC-Arla(0)<Speaker>파블로프</Speaker>||:어떻게 하면 되지!?
-PPSh41(0)<Speaker>파파샤</Speaker>||:그게...+폭탄을 뭉쳐 저 대형병기의 가장 취약한 부위를 폭파하는 거예요, 하지만 그러려면 누군가 폭탄을 직접 터뜨려야 하는데...
-()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1><震屏3>:콰앙!
-()<Speaker></Speaker>||<SE1>AVG_Gatling_gun</SE1>:대형병기의 소사가 방어 공사를 무너뜨려, 민병들은 후퇴해야 했다, 그리고 그 짧은 시간 안에도 수많은 사람이 쓰러졌다.
-PPSh41(0)<Speaker>파파샤</Speaker>||:<color=#A9A9A9>으으... 계속 꾸물거려선 사상자만 늘어날 뿐이야...</color>+<color=#A9A9A9>정말 다른 수가 없는 걸까...</color>
-PPSh41(0)<Speaker>파파샤</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:......+파블로프 씨, 저 병기를 스캔한 결과 중추 시스템은 복부에 있어요, 그곳을 파괴한다면...
-NPC-Arla(0)<Speaker>파블로프</Speaker>||:놈을 멈출 수 있다는 거지?
-()<Speaker></Speaker>||:공격의 빈틈 사이로 파블로프는 대형병기를 흘겨봤다.
-NPC-Arla(0)<Speaker>파블로프</Speaker>||:파파샤, 놈이 유탄을 쏘지 못하게 계속 막아주게, 나머진 우리가 처리하겠다.
-PPSh41(0)<Speaker>파파샤</Speaker>||:아, 알겠어요...!
-()<Speaker></Speaker>||:파블로프는 바로 근처의 민병에게 수신호를 보내 상황을 전달했다. 그리고 민병 중 한명이 준비된 폭탄을 꺼냈다.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:모두가 일제 사격으로 엄호하며 폭탄을 든 민병이 엄폐물 뒤에서 나왔다.
-()<Speaker></Speaker>||<震屏3><SE1>AVG_Gatling_gun</SE1>:하지만, 목표에 접근하기도 전에 기관총의 사선이 그의 몸을 관통했고, 그는 소리도 내지 못한 채 피웅덩이에 쓰러졌다.
-NPC-Arla(0)<Speaker>파블로프</Speaker>||:무슨, 무슨 저런 괴물이 다 있어!?
-PPSh41(0)<Speaker>파파샤</Speaker>||:역시 무리예요, 저런 병기는 최소 전술인형 셋이 협력해야 상대할 수 있는데, 지금으론...
-()<Speaker></Speaker>||:앞서간 사람이 쓰러지자, 바로 다음 사람이 나섰지만 결과는 똑같았다.+그리고 세 명째... 네 명째...
-NPC-Arla(0)<Speaker>파블로프</Speaker>||:제기랄! 제기랄!!!
-()<Speaker></Speaker>||<SE1>RunStep</SE1><震屏3>:전우들이 계속 쓰러지는 것을 지켜보던 파블로프는 끝내 분노를 억누르지 못하고 그도 폭탄을 집어 엄폐물에서 뛰쳐나갔다.
-PPSh41(0)<Speaker>파파샤</Speaker>||<SE1>ClothingUp</SE1>:앗... 파블로프 씨, 돌아와요!
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:파파샤가 그를 제지하려 했지만, 그때 전자 제압이 효력을 잃었다.
-()<Speaker></Speaker>||<SE1>AVG_Grey_Hand_Mech</SE1>:파블로프의 움직임을 포착한 대형병기는 그를 조준하고 발포했다.
-()<Speaker></Speaker>||<SE1>Rope</SE1>:그러나 그 순간, 파파샤가 몸을 던져 파블로프를 덮쳐 감쌌다.
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>Explode</SE1><BIN>9</BIN>:콰앙!!!
-()<Speaker></Speaker>||:거대한 폭음이 울리고, 파파샤는 세상이 요동치는 것만 느꼈다.
-()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:이윽고 강한 충격에 자신이 허공에서 바닥에 떨어진 것을 알았다.
-()||<黑屏1>:
-PPSh41(1)<Speaker>파파샤</Speaker><Shake>0.1</Shake>||<SE1>AVG_whitenoise</SE1><睁眼><BIN>270</BIN><Night>:큭... 으윽...!
-()<Speaker></Speaker>||:소체가 심각히 파손되어, 마인드맵이 착란을 일으키는 소음까지 들렸다.+노이즈와 오류 텍스트가 번쩍이는 시각을 통해, 파블로프가 파편에 다리를 다쳤고, 대형무기가 지하실로 전진하는 것이 보였다.
-PPSh41(1)<Speaker>파파샤</Speaker>||:아, 안 돼...!
-()<Speaker></Speaker>||<SE1>Select</SE1>:파파샤는 사격으로 대형무기를 막으려고 했지만, 텅 빈 탄창은 아무 소리를 내지 않았다.
-PPSh41(1)<Speaker>파파샤</Speaker>||:......+<color=#A9A9A9>여기까지...인 걸까...?</color>
-()<Speaker>파블로프의 목소리</Speaker>||<SE1>Rope</SE1><BGM>10258</BGM>:거기... 서라...!
-PPSh41(1)<Speaker>파파샤</Speaker>||:파블로프 씨!?
-()<Speaker></Speaker>||:파파샤가 고개를 돌려 보니, 파블로프가 고통을 이를 악물고 참으며 대형병기를 향해 기어가고 있었다.+그리고 그의 뒤에 있는 건 이미 가슴팍에서 떨어진 훈장이었다.
-PPSh41(1)<Speaker>파파샤</Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:과부하 직전인 파파샤의 마인드맵 회로가 다시 회전했다.+다만 이번엔 다음의 결과를 예측하지 않았고, 희생한 민병들을 떠올렸다.
-PPSh41(1)<Speaker>파파샤</Speaker>||:희생...+그 주민들을 지킬 수만 있다면 희생해도 괜찮다는 건가요?
-()<Speaker>파블로프</Speaker>||:자네가 전술인형인 건 알아, 자네가 우리와는 다르지만 내 말을 이해해주길 바라네.
-PPSh41(1)<Speaker>파파샤</Speaker>||:...이해해요, 당연히 이해해요.
-PPSh41(1)<Speaker>파파샤</Speaker>||:등뒤에 고향이 있고, 이웃들이 잔뜩 있으면... 아무리 강한 적이 상대여도, 아무리 많은 희생을 치른다해도 반드시 일어나 맞서싸울 거란 걸요...+하지만, 소중한 물건을 지키고 싶은 욕심은, 인간이든, 전술인형이든...+다 마찬가지예요!
-()<Speaker></Speaker>||<SE1>AVG_Pause</SE1><BIN>270</BIN><Night>:파파샤는 고개를 번쩍 들어 민병들이 터뜨리지 못한 폭탄을 다시 집었다.+그녀는 더 이상 우려나 망설임 따위 가지지 않았다, 흐릿한 시야에 잡히는 목표는 단 하나, 대형무기 밑바닥의 약점뿐이었다.
-PPSh41(1)<Speaker>파파샤</Speaker>||<SE1>RunStep</SE1>:<size=50>하아아아아아아아압!!!</size>
-()<Speaker></Speaker>||:모두가 지켜보는 앞에서, 파파샤는 폭탄을 끌어안고 적에게 달려갔다.
-()<Speaker></Speaker>||<BIN>183</BIN><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:퍼어어엉!!!
-()<Speaker></Speaker>||:커다란 폭음과 함께, 그녀의 몸은 빛에 삼켜졌다.
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......+......
-()<Speaker>파블로프의 목소리</Speaker>||:...파...샤...
-()<Speaker>파블로프의 목소리</Speaker>||:파파샤...!
-()<Speaker></Speaker>||:......
-()<Speaker>파파샤</Speaker>||<SE1>AVG_whitenoise</SE1>:콜록... 콜록콜록콜록...!+파, 파블로프 씨...?+적... 적은요...?
-()<Speaker>파블로프의 목소리</Speaker>||:네가 그놈을 해치웠어... 주민들도 무사해, 우리가 이겼다!
-()<Speaker>파파샤</Speaker>||:그래요... 그럼 다행이에요... 콜록콜록...
-()<Speaker>파블로프의 목소리</Speaker>||:파파샤...!+걱정 말게, 내가 지금 어떻게든 수복해줄 테니까!
-()<Speaker>파파샤</Speaker>||:됐어요... 이럼 됐어요... 파블로프 씨...
-()<Speaker>파파샤</Speaker>||:......
-()<Speaker>파블로프의 목소리</Speaker>||:파파샤...?+파파샤!!!
-()<Speaker></Speaker>||:......+......
-()<Speaker></Speaker>||:2개월 후...
-()||<黑屏1>:
-()<Speakr></Speaker>||<黑屏2><BIN>159</BIN><BGM>m_avg_hope</BGM>:봄이 다가오며, 반군의 공세는 이미 기운을 잃어 각 반군 점령지에서 반격의 호각이 울렸다.+삶의 터전에 돌아온 파블로프는 이미 폐허가 된 아파트 건물 앞에서 희생한 전사들에게 화환을 바쳤다.
-()<Speaker></Speaker>||:그의 뒤에는 무사히 구조된 주민들이 나란히 줄을 서서, 차례대로 손에 든 꽃을 무너진 건물 벽 밑에 내려놨다.
-NPC-Arla(0)<Speaker>파블로프</Speaker>||:......+힘든 날은 지나갔다, 적에겐 마땅한 대가를 치르게 할 테니, 부디 편히 잠들어라.
-()<Speaker></Speaker>||:모두 차렷해, 희생한 용사들을 위해 묵념했다.
-NPC-Arla(0)<Speaker>파블로프</Speaker>||:......
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:파블로프는 눈가를 훔치고서, 가슴팍의 두 훈장을 뗐다.
-NPC-Arla(0)<Speaker>파블로프</Speaker>||:이번 싸움은 모두의 목숨으로 바꾼 승리였다, 그 시절 우리의 조상님들처럼...+그분들도 이 도시에서 자신의 몸으로 강대한 적을 막아세워 고향을 지켰다.+아마 이후에도 이런 어려움이 닥칠 수 있겠지만, 분명 그때도 모두가 나서서 처들어오는 적들과 싸울 것이라 믿고 있네.
-()<Speaker></Speaker>||:파블로프는 한 걸음 다가서서, 훈장을 옆에 서있는 파파샤의 케이프에 달아줬다.
-NPC-Arla(0)<Speaker>파블로프</Speaker>||:자네가 우리를 위해, 모두를 위해 희생해준 것에 감사하네, 파파샤.+이 훈장을 가지고, 계속 이 신념을 이어주게.
-PPsh41MOD(0)<Speaker>파파샤</Speaker>||:...저, 정말 괜찮나요?
-NPC-Arla(0)<Speaker>파블로프</Speaker>||:자네가 없었다면 우리가 지금 이렇게 고향에 돌아올 수도 없었네.+내가 보답할 수 있는 것 중에서... 아마 이게 최선이라고 보네.
-()<Speaker></Speaker>||:파파샤는 약간 긴장하며 추모식에 같이 참석한 지휘관을 바라봤고, 지휘관은 미소 지으며 고개를 끄덕였다.
-PPsh41MOD(0)<Speaker>파파샤</Speaker>||:...알겠습니다.+감사합니다, 파블로프 씨, 이건 저에게 정말로 더없이 큰 영광이에요!+모두의 기대를 저버리지 않도록 앞으로도 계속 노력할게요!
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:모두의 박수 속에서 파파샤는 오른손을 들어 자리에 있는 모두에게 경례했다.+그리고 그녀 케이프의 두 훈장은 먹구름 사이로 새어 드리우는 햇빛을 받아 눈부시게 반짝였다.
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BGM>BGM_Boss2</BGM><BIN>270</BIN><SE1>Battlefield</SE1><Night>:대형병기 한 기가 건물 안에 처들어왔고, 아직 움직일 수 있는 민병들은 즉시 공격을 퍼부었다.+하지만 이 살인 기계는 여태까지 왔던 군용 인형 성능을 훌쩍 뛰어넘어, 그 강력한 화력으로 모든 것을 쓸어버리며, 굶주린 맹수처럼 민병들의 목숨을 무자비하게 집어삼켰다.
+()<Speaker></Speaker>||:파블로프는 파파샤를 따라서 방어 진지에 몸을 피했다.+하지만 엄폐물 사이를 이동하는 순간에 시커먼 총구가 그를 조준했다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:조심해요!!!
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:민병들의 엄호를 받으며, 파파샤는 파블로프를 감싸 폭발을 피해 엄폐물 안으로 몸을 숨겼다.
+()<Speaker>주둔 민병</Speaker>||<SE2>Gunfight</SE2>:파블로프 씨, 이 자식 화력이 너무 강력합니다! 게다가 장갑까지 두꺼워서 총알이 전혀 안 먹힙니다!
+PPSh41(0)<Speaker>파파샤</Speaker>||:제가 해볼게요...!
+PPSh41(0)<Speaker>파파샤</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:......
+()<Speaker>대형 병기</Speaker>||<SE1>AVG_Grey_Hand_Mech</SE1>:——!
+()<Speaker>주둔 민병</Speaker>||:응? 방금 녀석의 유탄발사기가 불발한 건가...!?
+PPSh41(0)<Speaker>파파샤</Speaker>||:상대의 중화기 제어 시스템을 제압했어요... 하지만 이게 제가 할 수 있는 최선이에요...
+()<Speaker></Speaker>||<SE1>AVG_Gatling_gun</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:아무리 유탄발사기가 마비됐다 해도, 대형병기에 탑재된 자동 기관총은 여전히 매서운 화염을 뿜어댔다.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:망할 반군놈들, 저런 무기까지 꺼내다니...+지금 쓸만한 물건 없나?
+()<Speaker>주둔 민병</Speaker>||:폭, 폭탄 조금밖에 없습니다!
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:폭탄뿐이라...+파파샤, 방금 우리가 이길 가능성이 있다고 했지?
+PPSh41(0)<Speaker>파파샤</Speaker>||:넷?
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:어떻게 하면 되지!?
+PPSh41(0)<Speaker>파파샤</Speaker>||:그게...+폭탄을 뭉쳐 저 대형병기의 가장 취약한 부위를 폭파하는 거예요, 하지만 그러려면 누군가 폭탄을 직접 터뜨려야 하는데...
+()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1><震屏3>:콰앙!
+()<Speaker></Speaker>||<SE1>AVG_Gatling_gun</SE1>:대형병기의 소사가 방어 공사를 무너뜨려, 민병들은 후퇴해야 했다, 그리고 그 짧은 시간 안에도 수많은 사람이 쓰러졌다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:<color=#A9A9A9>으으... 계속 꾸물거려선 사상자만 늘어날 뿐이야...</color>+<color=#A9A9A9>정말 다른 수가 없는 걸까...</color>
+PPSh41(0)<Speaker>파파샤</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:......+파블로프 씨, 저 병기를 스캔한 결과 중추 시스템은 복부에 있어요, 그곳을 파괴한다면...
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:놈을 멈출 수 있다는 거지?
+()<Speaker></Speaker>||:공격의 빈틈 사이로 파블로프는 대형병기를 흘겨봤다.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:파파샤, 놈이 유탄을 쏘지 못하게 계속 막아주게, 나머진 우리가 처리하겠다.
+PPSh41(0)<Speaker>파파샤</Speaker>||:아, 알겠어요...!
+()<Speaker></Speaker>||:파블로프는 바로 근처의 민병에게 수신호를 보내 상황을 전달했다. 그리고 민병 중 한명이 준비된 폭탄을 꺼냈다.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:모두가 일제 사격으로 엄호하며 폭탄을 든 민병이 엄폐물 뒤에서 나왔다.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Gatling_gun</SE1>:하지만, 목표에 접근하기도 전에 기관총의 사선이 그의 몸을 관통했고, 그는 소리도 내지 못한 채 피웅덩이에 쓰러졌다.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:무슨, 무슨 저런 괴물이 다 있어!?
+PPSh41(0)<Speaker>파파샤</Speaker>||:역시 무리예요, 저런 병기는 최소 전술인형 셋이 협력해야 상대할 수 있는데, 지금으론...
+()<Speaker></Speaker>||:앞서간 사람이 쓰러지자, 바로 다음 사람이 나섰지만 결과는 똑같았다.+그리고 세 명째... 네 명째...
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:제기랄! 제기랄!!!
+()<Speaker></Speaker>||<SE1>RunStep</SE1><震屏3>:전우들이 계속 쓰러지는 것을 지켜보던 파블로프는 끝내 분노를 억누르지 못하고 그도 폭탄을 집어 엄폐물에서 뛰쳐나갔다.
+PPSh41(0)<Speaker>파파샤</Speaker>||<SE1>ClothingUp</SE1>:앗... 파블로프 씨, 돌아와요!
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:파파샤가 그를 제지하려 했지만, 그때 전자 제압이 효력을 잃었다.
+()<Speaker></Speaker>||<SE1>AVG_Grey_Hand_Mech</SE1>:파블로프의 움직임을 포착한 대형병기는 그를 조준하고 발포했다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:그러나 그 순간, 파파샤가 몸을 던져 파블로프를 덮쳐 감쌌다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>Explode</SE1><BIN>9</BIN>:콰앙!!!
+()<Speaker></Speaker>||:거대한 폭음이 울리고, 파파샤는 세상이 요동치는 것만 느꼈다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:이윽고 강한 충격에 자신이 허공에서 바닥에 떨어진 것을 알았다.
+()||<黑屏1>:
+PPSh41(1)<Speaker>파파샤</Speaker><Shake>0.1</Shake>||<SE1>AVG_whitenoise</SE1><睁眼><BIN>270</BIN><Night>:큭... 으윽...!
+()<Speaker></Speaker>||:소체가 심각히 파손되어, 마인드맵이 착란을 일으키는 소음까지 들렸다.+노이즈와 오류 텍스트가 번쩍이는 시각을 통해, 파블로프가 파편에 다리를 다쳤고, 대형무기가 지하실로 전진하는 것이 보였다.
+PPSh41(1)<Speaker>파파샤</Speaker>||:아, 안 돼...!
+()<Speaker></Speaker>||<SE1>Select</SE1>:파파샤는 사격으로 대형무기를 막으려고 했지만, 텅 빈 탄창은 아무 소리를 내지 않았다.
+PPSh41(1)<Speaker>파파샤</Speaker>||:......+<color=#A9A9A9>여기까지...인 걸까...?</color>
+()<Speaker>파블로프의 목소리</Speaker>||<SE1>Rope</SE1><BGM>10258</BGM>:거기... 서라...!
+PPSh41(1)<Speaker>파파샤</Speaker>||:파블로프 씨!?
+()<Speaker></Speaker>||:파파샤가 고개를 돌려 보니, 파블로프가 고통을 이를 악물고 참으며 대형병기를 향해 기어가고 있었다.+그리고 그의 뒤에 있는 건 이미 가슴팍에서 떨어진 훈장이었다.
+PPSh41(1)<Speaker>파파샤</Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:과부하 직전인 파파샤의 마인드맵 회로가 다시 회전했다.+다만 이번엔 다음의 결과를 예측하지 않았고, 희생한 민병들을 떠올렸다.
+PPSh41(1)<Speaker>파파샤</Speaker>||:희생...+그 주민들을 지킬 수만 있다면 희생해도 괜찮다는 건가요?
+()<Speaker>파블로프</Speaker>||:자네가 전술인형인 건 알아, 자네가 우리와는 다르지만 내 말을 이해해주길 바라네.
+PPSh41(1)<Speaker>파파샤</Speaker>||:...이해해요, 당연히 이해해요.
+PPSh41(1)<Speaker>파파샤</Speaker>||:등뒤에 고향이 있고, 이웃들이 잔뜩 있으면... 아무리 강한 적이 상대여도, 아무리 많은 희생을 치른다해도 반드시 일어나 맞서싸울 거란 걸요...+하지만, 소중한 물건을 지키고 싶은 욕심은, 인간이든, 전술인형이든...+다 마찬가지예요!
+()<Speaker></Speaker>||<SE1>AVG_Pause</SE1><BIN>270</BIN><Night>:파파샤는 고개를 번쩍 들어 민병들이 터뜨리지 못한 폭탄을 다시 집었다.+그녀는 더 이상 우려나 망설임 따위 가지지 않았다, 흐릿한 시야에 잡히는 목표는 단 하나, 대형무기 밑바닥의 약점뿐이었다.
+PPSh41(1)<Speaker>파파샤</Speaker>||<SE1>RunStep</SE1>:<size=50>하아아아아아아아압!!!</size>
+()<Speaker></Speaker>||:모두가 지켜보는 앞에서, 파파샤는 폭탄을 끌어안고 적에게 달려갔다.
+()<Speaker></Speaker>||<BIN>183</BIN><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:퍼어어엉!!!
+()<Speaker></Speaker>||:커다란 폭음과 함께, 그녀의 몸은 빛에 삼켜졌다.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......+......
+()<Speaker>파블로프의 목소리</Speaker>||:...파...샤...
+()<Speaker>파블로프의 목소리</Speaker>||:파파샤...!
+()<Speaker></Speaker>||:......
+()<Speaker>파파샤</Speaker>||<SE1>AVG_whitenoise</SE1>:콜록... 콜록콜록콜록...!+파, 파블로프 씨...?+적... 적은요...?
+()<Speaker>파블로프의 목소리</Speaker>||:네가 그놈을 해치웠어... 주민들도 무사해, 우리가 이겼다!
+()<Speaker>파파샤</Speaker>||:그래요... 그럼 다행이에요... 콜록콜록...
+()<Speaker>파블로프의 목소리</Speaker>||:파파샤...!+걱정 말게, 내가 지금 어떻게든 수복해줄 테니까!
+()<Speaker>파파샤</Speaker>||:됐어요... 이럼 됐어요... 파블로프 씨...
+()<Speaker>파파샤</Speaker>||:......
+()<Speaker>파블로프의 목소리</Speaker>||:파파샤...?+파파샤!!!
+()<Speaker></Speaker>||:......+......
+()<Speaker></Speaker>||:2개월 후...
+()||<黑屏1>:
+()<Speakr></Speaker>||<黑屏2><BIN>159</BIN><BGM>m_avg_hope</BGM>:봄이 다가오며, 반군의 공세는 이미 기운을 잃어 각 반군 점령지에서 반격의 호각이 울렸다.+삶의 터전에 돌아온 파블로프는 이미 폐허가 된 아파트 건물 앞에서 희생한 전사들에게 화환을 바쳤다.
+()<Speaker></Speaker>||:그의 뒤에는 무사히 구조된 주민들이 나란히 줄을 서서, 차례대로 손에 든 꽃을 무너진 건물 벽 밑에 내려놨다.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:......+힘든 날은 지나갔다, 적에겐 마땅한 대가를 치르게 할 테니, 부디 편히 잠들어라.
+()<Speaker></Speaker>||:모두 차렷해, 희생한 용사들을 위해 묵념했다.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:파블로프는 눈가를 훔치고서, 가슴팍의 두 훈장을 뗐다.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:이번 싸움은 모두의 목숨으로 바꾼 승리였다, 그 시절 우리의 조상님들처럼...+그분들도 이 도시에서 자신의 몸으로 강대한 적을 막아세워 고향을 지켰다.+아마 이후에도 이런 어려움이 닥칠 수 있겠지만, 분명 그때도 모두가 나서서 처들어오는 적들과 싸울 것이라 믿고 있네.
+()<Speaker></Speaker>||:파블로프는 한 걸음 다가서서, 훈장을 옆에 서있는 파파샤의 케이프에 달아줬다.
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:자네가 우리를 위해, 모두를 위해 희생해준 것에 감사하네, 파파샤.+이 훈장을 가지고, 계속 이 신념을 이어주게.
+PPsh41MOD(0)<Speaker>파파샤</Speaker>||:...저, 정말 괜찮나요?
+NPC-Arla(0)<Speaker>파블로프</Speaker>||:자네가 없었다면 우리가 지금 이렇게 고향에 돌아올 수도 없었네.+내가 보답할 수 있는 것 중에서... 아마 이게 최선이라고 보네.
+()<Speaker></Speaker>||:파파샤는 약간 긴장하며 추모식에 같이 참석한 지휘관을 바라봤고, 지휘관은 미소 지으며 고개를 끄덕였다.
+PPsh41MOD(0)<Speaker>파파샤</Speaker>||:...알겠습니다.+감사합니다, 파블로프 씨, 이건 저에게 정말로 더없이 큰 영광이에요!+모두의 기대를 저버리지 않도록 앞으로도 계속 노력할게요!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:모두의 박수 속에서 파파샤는 오른손을 들어 자리에 있는 모두에게 경례했다.+그리고 그녀 케이프의 두 훈장은 먹구름 사이로 새어 드리우는 햇빛을 받아 눈부시게 반짝였다.
+()||<黑点1>:

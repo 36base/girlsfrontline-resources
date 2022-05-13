@@ -1,77 +1,77 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>222</BIN><BGM>BGM_Brain</BGM>:다시 한번 난장판이 된 베를린 공항. 지원으로 도착한 철혈 덕분에, 지휘관 일행은 무사히 패러데우스 병력을 격퇴할 수 있었다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:칫, 역시 함정이었어. 그놈들, 애초부터 안젤리아는 데려올 생각도 안 했을 거야.
-()<Speaker>지휘관</Speaker>||:......
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:너무 걱정 마, 지휘관. 안젤리아는 그리 쉽게 죽을 사람이 아니잖아.
-()<Speaker>지휘관</Speaker>||:그래... 그렇지. 우선은 닥친 상황부터 처리하자.
-()||<SE1>RunStep</SE1>:그때, 카이바르가 헐레벌떡 뛰어왔다.
-()<Speaker>지휘관</Speaker>||:카이바르? 왜 그래?
-KH2002(0)<Speaker>카이바르</Speaker>||:지... 지휘관...! 방금 엄청 나쁜 소식이...
-()<Speaker>지휘관</Speaker>||:나쁜 소식이라니?
-KH2002(0)<Speaker>카이바르</Speaker>||:어, 그게... 이걸 어떻게 설명한담...+지휘관이 직접 뉴스를 보는 게 좋겠어...
-()||:그 말을 들은 지휘관은, 왠지 모르게 떨리는 손가락으로 뉴스 사이트를 확인했다.+"특보! 신소련의 PMC 기지 다수에 미사일 폭격!"
-()<Speaker>지휘관</Speaker>||<黑屏1>:......
-()||<SE1>AVG_Explo_Close</SE1><黑屏2><BIN>183</BIN>:벼락을 맞은 것처럼, 지휘관의 눈앞이 새하얘졌다.
-()<Speaker>？？？</Speaker>||<黑屏1>:구해 주세요...
-BOSS-8(0)<Speaker>에이전트</Speaker>||<黑屏2><BIN>222</BIN>:......
-RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님...
-()<Speaker>지휘관</Speaker>||:기지는... 모두 어떻게 됐어!?
-KH2002(0)<Speaker>KH2002</Speaker>||:그게... 게시판이란 게시판은 다 뒤져봤는데, 전자 봉쇄 때문에 아무도 그리폰 기지랑 연락이 안 된대... 내부 상황도 알 길이...
-()<Speaker>지휘관</Speaker>||:당장 돌아간다! 지금 당장!+카이바르, 제일 빠른 항공편 잡아!
-KH2002(0)<Speaker>카이바르</Speaker>||:벌써 공항의 사무실에다 연락은 해놨어.+하지만 공항 활주로가 전투로 손상돼서 새 항공편 배정에 시간이 좀 걸릴 거래...
-()||<黑屏1><BGM>BGM_Empty</BGM>:다리에 힘이 풀려, 그대로 바닥에 주저앉았다.+공항은 썰렁하고 조용해졌지만, 지휘관의 마음은 산불처럼 타들어 갔다.
-()||<黑屏2><BIN>415</BIN><BGM>GF_21summer_avg_Reunion</BGM>:그리폰 기지, 지하 3층의 마인드맵 서버룸.+종횡으로 얽혀 주욱 늘어선 마인드맵 서버의 위용에, 앞에 선 헬리안이 한없이 작아보였다.
-MAC10(0)<Speaker>MAC10</Speaker>||:이렇게나 크다니... 정말 이 전부에 우리의 데이터가 담겨있다고요?
-NPC-Persica(0)<Speaker>페르시카</Speaker>||:그래, 그러니까 무리라고.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:......+그럼 방법을 좀 강구해 보세요.
-NPC-Helian(0);NPC-Persica(3)<Speaker>페르시카</Speaker>||:우리의 현재 인력만으로 실행 가능성이 가장 높은 방안은, 데이터를 통째로 압축해서 물리적으로 사이즈를 줄이고 옮기는 거야.+그럴 경우, 리스크는 두 가지야. 첫째는 압축한 데이터를 다시 압축 해제할 때 데이터에 손상이 발생할 수 있다는 거고, 둘째는 압축한 데이터를 쑤셔넣은 서버가 파괴되면 그대로 끝장이란 거지.
-NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(3)||:백업은 불가능합니까?
-NPC-Helian(0);NPC-Persica(1)<Speaker>페르시카</Speaker>||:무슨 웃기지도 않는 소릴... 어디서 그렇게 많은 메모리 디스크를 가져와?
-NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(1)||:......+그럼 그 방법대로 하죠.
-NPC-Helian(0);NPC-Persica(0)<Speaker>페르시카</Speaker>||:잘 생각해보고 내린 결정이야? 이건 그리폰의 모든 기억을 담았다고...
-NPC-Persica(3)<Speaker>페르시카</Speaker>||:인형들에게 있어... 가장 소중한 것이지.+조금이라도 잘못돼서 데이터에 손상이 가면... 인형들의 자기 인식에 심각한 오류를 불러일으킬 거야.
-MAC10(0)<Speaker>MAC10</Speaker>||:......
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:심사숙고한 바입니다. 시작하시죠.
-NPC-Persica(0)<Speaker>페르시카</Speaker>||:그, 그래도 다른 방법이 있잖아... 그냥 여길 이대로 내버려 두는 거.+그놈들이 여길 찾아내지 못할 거라고 내가 장담할게.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:놈들이 기지를 지상부터 지하까지 모조리 폭파한다면 어떡합니까?
-NPC-Persica(0)<Speaker>페르시카</Speaker>||:......
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:저 반란군 놈들의 습격 규모로 보건대, 절대 가볍게 끝날 일이 아닙니다.+오히려, 이제 겨우 시작이란 느낌마저 듭니다.
-NPC-Persica(0)<Speaker>페르시카</Speaker>||:정 그렇다면야... 알았어, 준비 작업 시작할게.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:부탁드립니다.
-NPC-Persica(0)<Speaker>페르시카</Speaker>||:어... 음... 거기 터프한 인형 아가씨, 나 좀 거들어 줘.
-MAC10(0)<Speaker>MAC10</Speaker>||:네.
-()||<SE1>AVG_tele_connect</SE1>:헬리안의 통신기가 울렸다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker><通讯框>||:<color=#00CCFF>헬리안, 지금 잔존 인형들과 함께 그리 가는 중이네. 도착하면 곧바로 마인드맵 서버를 옮길 수 있도록.</color>
-NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Kyruger(0)<通讯框>||:알겠습니다, 하지만 어디로...?
-NPC-Helian(0);NPC-Kyruger(0)<Speaker>크루거</Speaker><通讯框>||:<color=#00CCFF>정면으로는 놈들의 공세에 맞설 수 없으니, 아래로 피하는 수밖에.</color>
-NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Kyruger(0)<通讯框>||:더 아래론... 길이 없지 않습니까...
-NPC-Helian(0);NPC-Kyruger(0)<Speaker>크루거</Speaker><通讯框>||:<color=#00CCFF>달리 선택지가 없네.</color>
-NPC-Kyruger(0)<Speaker>크루거</Speaker><通讯框>||:<color=#00CCFF>걱정 말게, 헬리안. 막다른 길이어도, 우린 반드시 뚫고 지니갈 수 있어.</color>
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:...예, 알겠습니다.
-()||<SE1>AVG_tele_disconnect</SE1>:통신 종료.+저 위에서 끊임없이 이어지는 폭발에, 천장은 계속 진동했다. 헬리안은 한 서버의 표면에 묻은 먼지를 손으로 닦았다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||<黑屏1>:모두가 있는 곳이라면... 그게 어디든, 그곳이 바로 그리폰이야.
-()||<BIN>394</BIN><黑屏2><BGM>BGM_Empty</BGM><火花>:인형 숙소에서, 크루거는 생존자 인형들을 한자리에 모았다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||<BGM>10258</BGM>:그럼 마지막으로 점호하고 대열을 나누겠다. 번호!
-()||:인형들은 정렬해 번호를 불렀다.+점호가 진행될수록, 크루거의 표정도 점점 비장해져 갔다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:......+뒤의 인형, 계속 번호!
-()||:당황한 앞열의 인형들이 창백한 얼굴로 뒤를 돌아보았지만, 아무도 입을 열지 않았다.
-M1928A1(0)<Speaker>톰슨</Speaker>||:빅 보스, 남은 건 우리가 다야.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:......
-()||:긴 침묵이 흘렀다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:...알았다.+각 인원은 부상 수준에 따라 GSh-18에게 속히 수복을 받도록.+20분간 정비 후 출발한다.
-M1928A1(0)<Speaker>톰슨</Speaker>||:라저.
-WA2000(0)<Speaker>WA2000</Speaker>||:그 다음엔요? 크루거 씨, 그 다음의 작전 계획은 어떻게 돼요?
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:마인드맵 서버를 기지 최하층까지 호위하고, 거기서 지원을 기다린다.+지금까지보다 더욱 힘겨운 싸움이 될 테니, 각오 단단히 하도록.+난 말을 지어내면서 부하를 달랠 줄 모른다. 그저 사실대로 말하는 것밖에 못하지...+이건 가망이 거의 없는 싸움이다.
-()||:창백한 인형들의 얼굴에 처량함이 더해졌다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:우리는 처참한 피해를 입었고, 이것보다 더 처참한 상황이 우리를 기다리고 있을 거다.+지금 우리가 가질 수 있는 유일한 희망은, 마인드맵 서버를 무사히 밖으로 가지고 나가는 것뿐이지.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:성공한다면 이 자리의 모두와, 이미 희생한 이들까지 얼마든지 돌아올 수 있다.+허나 실패한다면, 그리폰은 세상에서 영영 사라진다.
-M14Mod(0)<Speaker>M14</Speaker><Shake>||:우리가... 영영 사라져...
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:너희들 중엔 내가 몇 년간 현역이었다는 걸 알고 있겠지. 그래서 솔직히 말한다만, 이 정도는 내가 겪은 것 중 가장 절망적이었던 전투 3위에도 들지 못한다.+예전 같았다면, 지금 너희들에게 이런 상황에선 어떻게 대응해야 하는지 교육이나 했겠지.+하지만, 난 너희가 이것보다 더 절망적이고 암울한 순간을 겪어봤음을 안다.+그때, 너희는 너희를 이끄는 지휘관과 함께 한 걸음 한 걸음, 동료와 적의 시체를 밟고 넘어서 그 구렁텅이에서 빠져나왔지 않나.
-()||:색채를 잃었던 눈동자에, 미약하게 빛이 돌아왔다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:절망을 겪고, 그걸 극복한 너희들이니, 내 더 말하지 않겠다.
-()||:정비를 마친 인형들이 하나둘씩 일어났다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:출발하기 전에 마지막으로, 질문 있나?
-()||:조용한 인형들 사이에서 가느다란 팔이 올라왔다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:토카레프.
-TT33(0)<Speaker>토카레프</Speaker>||:저희는 언제가 되어서야 더는 싸우지 않고, 아무도 피 흘리지도, 희생하지 않게 될까요...?
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||<黑点1>:......+그에 대한 대답은, 미안하군.+"전쟁의 끝은 오직 죽은 자만이 볼 수 있다."
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>222</BIN><BGM>BGM_Brain</BGM>:다시 한번 난장판이 된 베를린 공항. 지원으로 도착한 철혈 덕분에, 지휘관 일행은 무사히 패러데우스 병력을 격퇴할 수 있었다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:칫, 역시 함정이었어. 그놈들, 애초부터 안젤리아는 데려올 생각도 안 했을 거야.
+()<Speaker>지휘관</Speaker>||:......
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:너무 걱정 마, 지휘관. 안젤리아는 그리 쉽게 죽을 사람이 아니잖아.
+()<Speaker>지휘관</Speaker>||:그래... 그렇지. 우선은 닥친 상황부터 처리하자.
+()||<SE1>RunStep</SE1>:그때, 카이바르가 헐레벌떡 뛰어왔다.
+()<Speaker>지휘관</Speaker>||:카이바르? 왜 그래?
+KH2002(0)<Speaker>카이바르</Speaker>||:지... 지휘관...! 방금 엄청 나쁜 소식이...
+()<Speaker>지휘관</Speaker>||:나쁜 소식이라니?
+KH2002(0)<Speaker>카이바르</Speaker>||:어, 그게... 이걸 어떻게 설명한담...+지휘관이 직접 뉴스를 보는 게 좋겠어...
+()||:그 말을 들은 지휘관은, 왠지 모르게 떨리는 손가락으로 뉴스 사이트를 확인했다.+"특보! 신소련의 PMC 기지 다수에 미사일 폭격!"
+()<Speaker>지휘관</Speaker>||<黑屏1>:......
+()||<SE1>AVG_Explo_Close</SE1><黑屏2><BIN>183</BIN>:벼락을 맞은 것처럼, 지휘관의 눈앞이 새하얘졌다.
+()<Speaker>？？？</Speaker>||<黑屏1>:구해 주세요...
+BOSS-8(0)<Speaker>에이전트</Speaker>||<黑屏2><BIN>222</BIN>:......
+RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님...
+()<Speaker>지휘관</Speaker>||:기지는... 모두 어떻게 됐어!?
+KH2002(0)<Speaker>KH2002</Speaker>||:그게... 게시판이란 게시판은 다 뒤져봤는데, 전자 봉쇄 때문에 아무도 그리폰 기지랑 연락이 안 된대... 내부 상황도 알 길이...
+()<Speaker>지휘관</Speaker>||:당장 돌아간다! 지금 당장!+카이바르, 제일 빠른 항공편 잡아!
+KH2002(0)<Speaker>카이바르</Speaker>||:벌써 공항의 사무실에다 연락은 해놨어.+하지만 공항 활주로가 전투로 손상돼서 새 항공편 배정에 시간이 좀 걸릴 거래...
+()||<黑屏1><BGM>BGM_Empty</BGM>:다리에 힘이 풀려, 그대로 바닥에 주저앉았다.+공항은 썰렁하고 조용해졌지만, 지휘관의 마음은 산불처럼 타들어 갔다.
+()||<黑屏2><BIN>415</BIN><BGM>GF_21summer_avg_Reunion</BGM>:그리폰 기지, 지하 3층의 마인드맵 서버룸.+종횡으로 얽혀 주욱 늘어선 마인드맵 서버의 위용에, 앞에 선 헬리안이 한없이 작아보였다.
+MAC10(0)<Speaker>MAC10</Speaker>||:이렇게나 크다니... 정말 이 전부에 우리의 데이터가 담겨있다고요?
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:그래, 그러니까 무리라고.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:......+그럼 방법을 좀 강구해 보세요.
+NPC-Helian(0);NPC-Persica(3)<Speaker>페르시카</Speaker>||:우리의 현재 인력만으로 실행 가능성이 가장 높은 방안은, 데이터를 통째로 압축해서 물리적으로 사이즈를 줄이고 옮기는 거야.+그럴 경우, 리스크는 두 가지야. 첫째는 압축한 데이터를 다시 압축 해제할 때 데이터에 손상이 발생할 수 있다는 거고, 둘째는 압축한 데이터를 쑤셔넣은 서버가 파괴되면 그대로 끝장이란 거지.
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(3)||:백업은 불가능합니까?
+NPC-Helian(0);NPC-Persica(1)<Speaker>페르시카</Speaker>||:무슨 웃기지도 않는 소릴... 어디서 그렇게 많은 메모리 디스크를 가져와?
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(1)||:......+그럼 그 방법대로 하죠.
+NPC-Helian(0);NPC-Persica(0)<Speaker>페르시카</Speaker>||:잘 생각해보고 내린 결정이야? 이건 그리폰의 모든 기억을 담았다고...
+NPC-Persica(3)<Speaker>페르시카</Speaker>||:인형들에게 있어... 가장 소중한 것이지.+조금이라도 잘못돼서 데이터에 손상이 가면... 인형들의 자기 인식에 심각한 오류를 불러일으킬 거야.
+MAC10(0)<Speaker>MAC10</Speaker>||:......
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:심사숙고한 바입니다. 시작하시죠.
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:그, 그래도 다른 방법이 있잖아... 그냥 여길 이대로 내버려 두는 거.+그놈들이 여길 찾아내지 못할 거라고 내가 장담할게.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:놈들이 기지를 지상부터 지하까지 모조리 폭파한다면 어떡합니까?
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:......
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:저 반란군 놈들의 습격 규모로 보건대, 절대 가볍게 끝날 일이 아닙니다.+오히려, 이제 겨우 시작이란 느낌마저 듭니다.
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:정 그렇다면야... 알았어, 준비 작업 시작할게.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:부탁드립니다.
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:어... 음... 거기 터프한 인형 아가씨, 나 좀 거들어 줘.
+MAC10(0)<Speaker>MAC10</Speaker>||:네.
+()||<SE1>AVG_tele_connect</SE1>:헬리안의 통신기가 울렸다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker><通讯框>||:<color=#00CCFF>헬리안, 지금 잔존 인형들과 함께 그리 가는 중이네. 도착하면 곧바로 마인드맵 서버를 옮길 수 있도록.</color>
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Kyruger(0)<通讯框>||:알겠습니다, 하지만 어디로...?
+NPC-Helian(0);NPC-Kyruger(0)<Speaker>크루거</Speaker><通讯框>||:<color=#00CCFF>정면으로는 놈들의 공세에 맞설 수 없으니, 아래로 피하는 수밖에.</color>
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Kyruger(0)<通讯框>||:더 아래론... 길이 없지 않습니까...
+NPC-Helian(0);NPC-Kyruger(0)<Speaker>크루거</Speaker><通讯框>||:<color=#00CCFF>달리 선택지가 없네.</color>
+NPC-Kyruger(0)<Speaker>크루거</Speaker><通讯框>||:<color=#00CCFF>걱정 말게, 헬리안. 막다른 길이어도, 우린 반드시 뚫고 지니갈 수 있어.</color>
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:...예, 알겠습니다.
+()||<SE1>AVG_tele_disconnect</SE1>:통신 종료.+저 위에서 끊임없이 이어지는 폭발에, 천장은 계속 진동했다. 헬리안은 한 서버의 표면에 묻은 먼지를 손으로 닦았다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||<黑屏1>:모두가 있는 곳이라면... 그게 어디든, 그곳이 바로 그리폰이야.
+()||<BIN>394</BIN><黑屏2><BGM>BGM_Empty</BGM><火花>:인형 숙소에서, 크루거는 생존자 인형들을 한자리에 모았다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||<BGM>10258</BGM>:그럼 마지막으로 점호하고 대열을 나누겠다. 번호!
+()||:인형들은 정렬해 번호를 불렀다.+점호가 진행될수록, 크루거의 표정도 점점 비장해져 갔다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:......+뒤의 인형, 계속 번호!
+()||:당황한 앞열의 인형들이 창백한 얼굴로 뒤를 돌아보았지만, 아무도 입을 열지 않았다.
+M1928A1(0)<Speaker>톰슨</Speaker>||:빅 보스, 남은 건 우리가 다야.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:......
+()||:긴 침묵이 흘렀다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:...알았다.+각 인원은 부상 수준에 따라 GSh-18에게 속히 수복을 받도록.+20분간 정비 후 출발한다.
+M1928A1(0)<Speaker>톰슨</Speaker>||:라저.
+WA2000(0)<Speaker>WA2000</Speaker>||:그 다음엔요? 크루거 씨, 그 다음의 작전 계획은 어떻게 돼요?
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:마인드맵 서버를 기지 최하층까지 호위하고, 거기서 지원을 기다린다.+지금까지보다 더욱 힘겨운 싸움이 될 테니, 각오 단단히 하도록.+난 말을 지어내면서 부하를 달랠 줄 모른다. 그저 사실대로 말하는 것밖에 못하지...+이건 가망이 거의 없는 싸움이다.
+()||:창백한 인형들의 얼굴에 처량함이 더해졌다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:우리는 처참한 피해를 입었고, 이것보다 더 처참한 상황이 우리를 기다리고 있을 거다.+지금 우리가 가질 수 있는 유일한 희망은, 마인드맵 서버를 무사히 밖으로 가지고 나가는 것뿐이지.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:성공한다면 이 자리의 모두와, 이미 희생한 이들까지 얼마든지 돌아올 수 있다.+허나 실패한다면, 그리폰은 세상에서 영영 사라진다.
+M14Mod(0)<Speaker>M14</Speaker><Shake>||:우리가... 영영 사라져...
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:너희들 중엔 내가 몇 년간 현역이었다는 걸 알고 있겠지. 그래서 솔직히 말한다만, 이 정도는 내가 겪은 것 중 가장 절망적이었던 전투 3위에도 들지 못한다.+예전 같았다면, 지금 너희들에게 이런 상황에선 어떻게 대응해야 하는지 교육이나 했겠지.+하지만, 난 너희가 이것보다 더 절망적이고 암울한 순간을 겪어봤음을 안다.+그때, 너희는 너희를 이끄는 지휘관과 함께 한 걸음 한 걸음, 동료와 적의 시체를 밟고 넘어서 그 구렁텅이에서 빠져나왔지 않나.
+()||:색채를 잃었던 눈동자에, 미약하게 빛이 돌아왔다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:절망을 겪고, 그걸 극복한 너희들이니, 내 더 말하지 않겠다.
+()||:정비를 마친 인형들이 하나둘씩 일어났다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:출발하기 전에 마지막으로, 질문 있나?
+()||:조용한 인형들 사이에서 가느다란 팔이 올라왔다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:토카레프.
+TT33(0)<Speaker>토카레프</Speaker>||:저희는 언제가 되어서야 더는 싸우지 않고, 아무도 피 흘리지도, 희생하지 않게 될까요...?
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||<黑点1>:......+그에 대한 대답은, 미안하군.+"전쟁의 끝은 오직 죽은 자만이 볼 수 있다."

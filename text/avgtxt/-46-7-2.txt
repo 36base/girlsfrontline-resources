@@ -1,186 +1,186 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2> <BIN>22</BIN>:그리폰 기지의 공방.+무사히 회수된 CZ75와 NZ75, P90의 검사 결과, 소체는 멀쩡하고 마인드맵도 안정적인 상태였다.
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:흐음... 혹시 모르니 다시 정밀 검사해볼까요?
-CZ75(4)<Speaker>CZ75</Speaker>||:괜찮다니까 그러네.
-NZ75(0)<Speaker>NZ75</Speaker>||:미안, 걱정하게 해서...
-P90(4)<Speaker>P90</Speaker>||:지휘관~! 나 꿈 꾸는 거 아니지?
-()<Speaker>지휘관</Speaker>||:다들 무사하다니 다행이다. 그런데 너희들, 우로보로스가 어디로 갔는진 아니?
-CZ75(4)<Speaker>CZ75</Speaker>||:우로보로스는...
-NZ75(0)<Speaker>NZ75</Speaker>||<黑屏1>:......
-()<Speaker>CZ75</Speaker>||<黑屏2> <BIN>387</BIN><BGM>10258</BGM>:너네 뭘 하려는――?! 으아악!!
-()||<黑点1>:갑작스런 충격파로 튕겨나간 CZ75가 겨우 다시 일어서 보니, 우로보로스와 사신짱은 맹렬한 화산 분화구처럼 보일 지경이었다.+단단히 손을 맞잡은 그들 주위로 폭주하는 마력이 지면을 할퀴는 와중, 기괴한 검은 형체가 그 마력의 폭풍 속에서 한데 뭉쳐 난폭한 마물로 변해 튀어나왔다.
-CZ75(4)<Speaker>CZ75</Speaker>||<黑点2> <BIN>384</BIN><common_effect>%%code=RedScreen%%</common_effect>:우로보로스!! 대체 뭐하는 거냐고!!
-Weaver(7)<Speaker>우로보로스</Speaker>||:참견 말고... 꺼지라고!!
-()||:우로보로스는 끔찍한 몰골이었다. 사신짱의 붉은 마력이 우로보로스의 팔뚝을 핏줄처럼 타고 올랐다.+딱 봐도 확실했다. 둘의 힘의 균형이 맞지 않아, 우로보로스는 지금 사신짱의 마력을 견디지 못하고 붕괴되기 직전이었다.
-CZ75(4)<Speaker>CZ75</Speaker>||:사신짱! 멈춰!+우로보로스가 못 버틸 거야!
-()||:아니나 다를까, 사신짱은 완전히 넋이 나가 인사불성이었다.+결국 보다 못한 CZ75이 직접 폭주하는 마력의 소용돌이로 몸을 던졌다. 붉은 마력이 그녀의 다리를 타고 오르자, 활화산에서 뿜어져 나오는 용암 속을 걷는 느낌에 CZ75는 금방이라도 의식이 불타버릴 것만 같았다.
-CZ75(4)<Speaker>CZ75</Speaker>||:우로보로스...!+우리 세상의 것이 아닌 힘을 남용하다간 거꾸로 삼켜져 버릴 거야...!+두번 다시 돌아가지 못하게 돼도 상관없어?!
-Weaver(3)<Speaker>우로보로스</Speaker>||:난... 반드시... 해야 할 일이 있단 말이다...!
-()||:피처럼 검붉은 마력이 우로보로스의 어깨까지 올랐다.
-CZ75(4)<Speaker>CZ75</Speaker>||:전혀 다른 세상에 영영 갇혀도 상관없냐고?!
-Weaver(3)<Speaker>우로보로스</Speaker>||:...그래.
-NZ75(0)<Speaker>NZ75</Speaker>||:CZ! 우리가 도와주자!
-Weaver(7)<Speaker>우로보로스</Speaker>||:뭣... 빌어먹을 그리폰의 쓰레기들! 참견 말고 꺼지라고 몇 번을 말해!
-()||:결심한 CZ75가 무기를 던지고 우로보로스의 다른 손을 덥석 붙잡았다.+우로보로스가 뿌리치지 못하도록 깍지까지 끼고, 그녀의 몸에 흘러드는 마력을 분담했다.
-CZ75(4)<Speaker>CZ75</Speaker>||:지금 우리는 동료야! 한 팀이라고!
-Weaver(7)<Speaker>우로보로스</Speaker>||:이런 때까지 그딴 같잖은 소리를...!
-NZ75(0)<Speaker>NZ75</Speaker>||:그게 그리폰의 규칙이야 이 뱀대가리야! IOP제든 철혈제든 그게 무슨 상관인데!? 한 명도 빠짐없이 모두 함께 돌아가는 거야!
-P90(4)<Speaker>P90</Speaker>||:옳소 옳소!! NZ 말 잘한다~!
-()||:NZ75와 P90도 달려와, 서로의 손과 CZ75의 손을 맞잡았다.
-CZ75(4)<Speaker>CZ75</Speaker>||:연산력도 필요하다면 빌려주겠어! 그러니까 네가 해야 한다는 거 확실하게 끝마치고 와!+그런 다음 다 함께 돌아가는 거야!
-Weaver(3)<Speaker>우로보로스</Speaker>||:......
-()||<黑屏1>:끓어오르는 마력이 맞잡은 손과 손을 따라 흐름과 동시에, CZ75의 눈에 낯선 광경들이 스쳐 지나갔다.
-CZ75(4)<Speaker>CZ75</Speaker>||<黑屏2><关闭蒙版><BIN>22</BIN><BGM>BGM_Empty</BGM>:그 뒤로 어떻게 됐는지는 나도 몰라...
-()<Speaker>지휘관</Speaker>||:우로보로스가 사신짱을 도왔다고...?+왜 인형까지 영향을 받는 건지 이제 알겠군.+마력으로 마인드맵 공간을 실체화한 거야.
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:하지만 왜 이런 짓을 한 걸까요?
-CZ75(4)<Speaker>CZ75</Speaker>||:꼭 해야 하는 일이 있다더라.
-()<Speaker>지휘관</Speaker>|| <SE1>AVG_tele_connect</SE1>:에이전트, 짐작 가는 거 없어?
-BOSS-8(0)<Speaker>에이전트</Speaker><通讯框>||:<color=#00CCFF>알겠사옵니다.</color>+<color=#00CCFF>돌발행동을 저지른 우로보로스를 확보해 연행하겠사옵니다.</color>
-BOSS-8(0)<Speaker>지휘관</Speaker><通讯框>||:에이전트?
-BOSS-8(0)<Speaker>에이전트</Speaker><通讯框>||:<color=#00CCFF>그녀의 "꼭 해야 하는 일"은, 그녀의 입으로 직접 들으시옵소서.</color>
-()||<SE1>AVG_tele_disconnect</SE1><黑屏1>:에이전트가 통신을 뚝 끊었다.
-()||<黑屏2><BIN>332</BIN><BGM>GF_21winter_avg_pathfinder</BGM>:텅 빈 가상 공간.+언제나 우로보로스의 마인드맵 속을 서성이던 유령이, 트레이드 마크인 비웃는 듯한 얼굴로 우로보로스를 기다리고 있었다.
-NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:여어~♪ 오랜만이다 우롱아~?
-Weaver(3)<Speaker>우로보로스</Speaker>||:......
-NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:음...? 이상하다, 너 어딘가 좀 다른데?+아, 왜인지 알겠다. 뭐야 그 요상하게 생긴 도끼는?+딱 봐도 밸런스 안 맞게 생겼는데, 잘 휘두를 수는 있겠어?
-Weaver(3)<Speaker>우로보로스</Speaker>||:......
-()||:요르문간드가 흥미로워하며 우로보로스를 빙 한바퀴 맴돌았다.
-NPC-Jormungand(1)<Speaker>요르문간드</Speaker>||:뭐야, 노려보지만 말고 말 좀 해 봐. 또 어디서 두들겨 맞고 벙어리됐냐?
-()||:그럼에도 우로보로스는 말없이 요르문간드를 노려봤다.+그 빌어먹을 구렁이를 도와 이상적인 세상을 만든 이유는, 그리폰 기지로 돌아가기 싫어서가 아니었다.+오직 이 순간을 위해서.+요르문간드와 다시 마주하기 위해서였다.
-Weaver(3)<Speaker>우로보로스</Speaker>||:네 알 바 아니다.
-NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:헹, 기운 넘치는구만? 다행이네.+그런 눈으로 보지 마, 진짜로 걱정했다니까? 너 망가졌으면 내가 전력으로 싸워야 하나 말아야 하나, 하고 말이야.
-Weaver(5)<Speaker>우로보로스</Speaker>||:됐으니까 당장 시작하지.
-()||<黑点1>:요르문간드의 대답을 기다리지 않고, 우로보로스가 먼저 들려들었다.
-()||<黑点2>:......
-NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:야 우롱아, 여기 말인데... "가짜"냐, 아님 "진짜"냐?
-()||:잠시 후 요르문간드가 바닥에서 돌멩이를 주워 힘껏 던지면서 물었다.
-NPC-Jormungand(1)<Speaker>요르문간드</Speaker>||:가상 공간에 감각 시스템 업데이트라도 된 건가... 아님...+여기가 바로 현실 세계인가?+......+아 재미없게스리, 그러지 말고 뭐라 말 좀 해봐~
-()||:요르문간드는 낄낄대며 고개를 숙여, 자신이 깔고 앉은 우로보로스를 툭 쳤다.
-Weaver(3)<Speaker>우로보로스</Speaker>||:......
-NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:아아 미안 미안, 이렇게 압박하면 말을 못하겠지?+그래도 말이야, 내 생각엔... 이거 꿈인 거 같다.+안 그래? 우롱이가 요상한 도끼를 휘두르면서 먼저 덤벼들다니, 전혀 현실감 없어.
-()||:바닥에 깊숙이 박힌 도끼날을 보며, 우로보로스는 분함에 이를 갈았다. 자신의 부유포를 압수한 에이전트도 몇 번이고 저주했다.
-NPC-Jormungand(1)<Speaker>요르문간드</Speaker>||:게다가, 나 진작에 죽었잖아?+내 기억이 꼬인 게 아니라면 그 게임 마지막에 죽었는데.
-Weaver(3)<Speaker>우로보로스</Speaker>||:그래, 내 손으로 네 숨통을 끊었지.
-()||:요르문간드가 피식하며 힘을 더 주어, 우로보로스의 등을 더 세게 짓눌렀다.
-NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:어럽쇼~? 왜 내 기억엔 내가 엄청 봐줬던 걸로 되어 있을까나~?
-NPC-Jormungand(0);Weaver(7)<Speaker>우로보로스</Speaker>||:크윽...!
-NPC-Jormungand(0)<Speaker>요르문간드</Speaker>;Weaver(7)||:설마, 그래서 날 다시 만들어낸 거냐?+너만의 힘으로 날 이기려고? 날 이겨서, 보잘것없는 네 가치를 증명하려고?
-NPC-Jormungand(0);Weaver(3)<Speaker>우로보로스</Speaker>||:다 안다는 듯 지껄이지 마...
-NPC-Jormungand(0)<Speaker>요르문간드</Speaker>;Weaver(3)||:킥킥킥...+그때로부터 얼마나 지났는진 몰라도, 우롱이 넌 역시 하나도 안 변했구나.
-NPC-Jormungand(0);Weaver(3)<Speaker>우로보로스</Speaker>||:난 강해졌어! 예상 밖의 사고로 힘을 빼앗겼을 뿐이다!+내가 멀쩡하기만 했어도 넌 가루도 안 남았어!
-NPC-Jormungand(2)<Speaker>요르문간드</Speaker>;Weaver(3)||:......+역시, 아무것도 모른다니까.
-NPC-Jormungand(2);Weaver(3)<Speaker>우로보로스</Speaker>||:뭐...?
-NPC-Jormungand(2)<Speaker>요르문간드</Speaker>;Weaver(3)||:만약에 말이야...
-NPC-Jormungand(2)<Speaker>요르문간드</Speaker>||:만약에... 내가 널, 지금 여기서 죽이려 든다면, 어떡할 거냐?
-()||:요르문간드가 자세를 바꾸더니, 무릎으로 우로보로스를 계속 누르면서 손으로 그녀의 목을 움켜쥐었다.
-Weaver(7)<Speaker>우로보로스</Speaker>||:......
-NPC-Jormungand(2)<Speaker>요르문간드</Speaker>||:울고불며 살려 달라 빌 거냐, 아님 그냥 다음 생을 기약할 거냐?
-()||<黑屏1>:우로보로스의 시야가 점점 흐려져 갔다.
-()<Speaker>헌터</Speaker>||<黑屏2> <BIN>9</BIN>:전쟁은 그딴 장기가 아니란 말이다! 너무 단순하게 생각하지 마, 우로보로스! 머지않아 후회하게 될 거다!
-()<Speaker>엑스큐셔너</Speaker>||:그래서 우로보로스 그 자식이 제멋대로라는 거지...
-()<Speaker>아키텍트</Speaker>||:우로보로스, 너는 어때? 너는 너 자신이 좋아?
-()<Speaker>에이전트</Speaker>||:수단과 방법을 가리지 말고 살아남아 보이도록. 그것이 네가 제일 잘하는 일 아니더냐.
-()||:기억 속의 목소리도 점점 희미해져 갔다.
-()<Speaker>에이전트</Speaker>||<黑屏1>:그럼 호신용 무기라도 하나 챙겨 줘야겠구나. 그리폰의 소대가 네 옛 소굴에서 회수한 것이니라.+단 한 번만 쓸 수 있을 터이니, 잘 판단해 사용하거라.
-()||<黑屏2><BIN>332</BIN>:우로보로스가 가까스로 주머니를 뒤적여 엉망으로 구겨진 사진을 꺼내, 마지막 힘을 짜내어 요르문간드를 향해 외쳤다.
-Weaver(7)<Speaker>우로보로스</Speaker>||:꽃 피는 지옥——!!
-NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:뭣?!
-()||:하지만 아무 일도 일어나지 않았다.
-Weaver(7)<Speaker>우로보로스</Speaker>||:빌어먹을 에이전트... 또 날 속였겠다...!
-()||:기어코 울화통이 터진 우로보로스가 사진을 홱 집어던지려던 그 순간, 뒷면에 적힌 코드를 보았다.
-Weaver(3)<Speaker>우로보로스</Speaker>||:......
-NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:...뭐야? 필살기냐? 선쿨 좀 많이 길다?
-()||:요르문간드가 어이없어하며 하품을 하려던 찰나, 우로보로스가 엄청난 힘을 뿜어내 그녀를 저만치 튕겨냈다.
-NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:으하하하하! 그래, 이렇게 쉽게 당할 리가 없지!+하여간 대단한 녀석이라니까, 우롱이 너!
-()||:우로보로스의 본래 힘이 완전히 되돌아왔다.+천천히 몸을 일으켜 세운 그녀가, 땅에 박힌 CZ75의 도끼를 다시 뽑아 들었다.
-Weaver(6)<Speaker>우로보로스</Speaker>||<黑屏1>:덤벼라, 요르문간드.+끝장을 보자.
-()||<黑屏2><BIN>384</BIN><common_effect>%%code=RedScreen%%</common_effect><BGM>BGM_Empty</BGM>:진보초의 공원.
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||<BGM>GF_Jyashinchan_Story_JSC</BGM>:우롱이양 언제 돌아오는 거예요...+빠칭코도 질렸다고요...
-()||:사신짱이 손을 휙 젓자, 그녀 앞의 슬롯머신과 바닥을 온통 뒤덮었던 쇠구슬들이 순식간에 사라졌다.
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:뽑기도 이젠 시시해...
-()||:스페셜 한정판 츠치노코 피규어마저 휙 던져 버린 사신짱은, 공허한 눈빛으로 먼산을 바라보았다.
-Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:우롱이양... 뭔진 몰라도 설마 일이 잘못되진 않았겠죠?+어휴 진짜, 다른 사람이라도 있었...으면...
-()||:그 생각을 하자, 가슴에 구멍이 뚫린 기분이었다.
-()<Speaker>사신짱</Speaker>||<common_effect>%%code=CJ_rain%%</common_effect><SE1>AVG_amb_thunderrain</SE1>:......흑.+다 가버렸어요...+저만 두고...+외로워요오...
-()||:진정되었던 위장이 다시 뒤틀렸다.
-()<Speaker>사신짱</Speaker>||:혼자 있기... 싫다고요...
-()||:사신짱이 또 배를 부여잡고 바닥에 널브러졌다.
-()<Speaker>사신짱</Speaker>||:괴로워어...
-()||:그때, 그녀의 흐릿한 시야에 한 쌍의 검은 구두가 나타났다.
-()<Speaker>？？？</Speaker>||:사신짱, 왜 그러고 있어?
-()<Speaker>사신짱</Speaker>||:어...?
-()||:반신반의하며 고개를 들어보니, 더없이 익숙한 얼굴이 눈에 들어왔다.
-Yurine(6)<Speaker>유리네?</Speaker>||:사신짱, 왜 그렇게 놀란 표정이야? 내 얼굴에 뭐라도 묻었어?
-()||<黑屏1>:자애로운 미소의 "유리네"가, 사신짱에게 손을 내밀었다.
-()||<黑屏2><关闭蒙版><BIN>332</BIN><BGM>BGM_Empty</BGM>:......
-NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||<BGM>GF_21winter_avg_mahaline</BGM>:하하... 끝났구만.
-Weaver(9)<Speaker>우로보로스</Speaker>||:그래, 끝났다.
-()||:요르문간드는 만신창이면서도 히죽거리며 허리에 난 상처를 살폈다.+그리고 그것이 결정타였는지, 몸이 그 상처를 중심으로 흩어져 가기 시작했다.
-NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:그래서, 해답은 찾았냐?
-Weaver(9)<Speaker>우로보로스</Speaker>||:지긋지긋한 네놈의 얼굴을 본 그 순간 알았지.
-NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:뭐였는데...?
-()||:요르문간드가 힘없이 쓰러지는 것을 우로보로스가 받아냈다.
-Weaver(9)<Speaker>우로보로스</Speaker>||:아무래도 상관없었다.
-NPC-Jormungand(0)<Speaker>요르문간드</Speaker>;Weaver(9)||:엉?
-NPC-Jormungand(0);Weaver(9)<Speaker>우로보로스</Speaker>||:이기든 지든, 아무래도 상관없었다고.+중요한 것은 무엇을 위해서인가였다.
-NPC-Jormungand(0)<Speaker>요르문간드</Speaker>;Weaver(9)||:......
-NPC-Jormungand(0);Weaver(9)<Speaker>우로보로스</Speaker>||:네놈은 그때, 나더러 네 몫까지 살아가라 했지?+그래서 나도 네놈을 실망시키지 않았다고 증명해 보인 거다.+네놈에게 진 빚은, 이제 다 갚았다.
-NPC-Jormungand(1)<Speaker>요르문간드</Speaker>;Weaver(9)||:......
-NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:푸히힛...+그래 우롱아, 그럼 됐어...
-()||:요르문간드의 몸은 이제 거의 투명해졌다.
-Weaver(9)<Speaker>우로보로스</Speaker>||:잘 가라, 요르문간드.
-NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:그래, 나 간다.+그래도 나 까먹진 마라?
-Weaver(9)<Speaker>우로보로스</Speaker>||:......
-()||:우로보로스의 어깨에 기댄 몸의 무게가 사라졌다.
-Weaver(9)<Speaker>우로보로스</Speaker>||:...누가 네놈 따윌 잊는다고.
-()||<黑屏1>:요르문간드는 떠났다, 처음부터 온 적이 없는 것처럼.
-()||<黑屏2><BIN>34</BIN>:우로보로스는 절뚝거리며 기지에 돌아왔다.
-Weaver(3)<Speaker>우로보로스</Speaker>||:...돌아왔다.
-BOSS-8(0)<Speaker>에이전트</Speaker>;Weaver(3)||:왔느냐, 우로보로스.
-BOSS-8(0);Weaver(3)<Speaker>우로보로스</Speaker>||:이번 임무도... 완수했다...
-BOSS-8(0)<Speaker>에이전트</Speaker>;Weaver(3)||:알고 있느니라. 훌륭하게 끝마쳤더구나.
-BOSS-8(0);Weaver(3)<Speaker>우로보로스</Speaker>||:그럼 뭘 잠자코 있는 거냐... 아까 나한테...
-Weaver(3)<Speaker>우로보로스</Speaker>||:헌터한테 안마시킨다고...
-BOSS-8(0)<Speaker>에이전트</Speaker>||:호오... 헌터.
-()||:에이전트가 옅은 미소를 지으며 손뼉을 쳤다.+그러자 헌터가 다가와 우로보로스를 의자에 앉혔다.
-BOSS-3(0)<Speaker>헌터</Speaker>||:힘조절은 이 정도면 되겠습니까?
-BOSS-3(0);Weaver(3)<Speaker>우로보로스</Speaker>||:......형편없어.
-BOSS-3(0)<Speaker>헌터</Speaker>;Weaver(3)||:쓰읍...+그럼 이 정돈 어떠신지?
-BOSS-3(0);Weaver(3)<Speaker>우로보로스</Speaker>||:......좀 낫군.
-BOSS-8(0)<Speaker>에이전트</Speaker>;Weaver(3)||:또 뭘 해 준다 했었지?
-BOSS-8(0);Weaver(3)<Speaker>우로보로스</Speaker>||:엑스큐셔너... 와서 인디언 춤 추라고 해...
-BOSS-8(0)<Speaker>에이전트</Speaker>;Weaver(3)||:풉... 지금 준비 중이니라.
-BOSS-8(0);Weaver(3)<Speaker>우로보로스</Speaker>||:그럼... 기다리는 김에...
-Weaver(3)<Speaker>우로보로스</Speaker>||:나한테 주겠다던 포상부터 내놔...
-BOSS-8(0)<Speaker>에이전트</Speaker>||:그러도록 하지.
-()||:에이전트가 우로보로스의 맞은편에 앉아, 새로 깔끔하게 인쇄된 사진을 탁상에 두었다.
-BOSS-8(0)<Speaker>에이전트</Speaker>||:이것이, 네게 주는 포상이니라.
-Weaver(3)<Speaker>우로보로스</Speaker>||:너...+너 설마...!
-()||:사진 속의 우로보로스는, 저마다 웃는 다른 철혈 인형들 사이에서 혼자 짜증 가득한 얼굴로 붕 떠 있었다.
-BOSS-8(0)<Speaker>에이전트</Speaker>||:어서 돌아오너라, 우로보로스.
-Weaver(3)<Speaker>우로보로스</Speaker>||:네놈은 정말......
-()||<BGM>BGM_Empty</BGM>:만신창이였던 우로보로스는 마침내 의식을 잃고 엎어졌다.
-BOSS-8(0)<Speaker>에이전트</Speaker>||:......+뭘 멍하니 있느냐? 어서 회수하거라.+소체가 이토록 망가졌으니 그냥 조각내서 공방으로 들고 가도 되겠구나.
-BOSS-3(0)<Speaker>헌터</Speaker>||:이 자식... 뭘 잘났다고 내 안마 실력에 토를 달아?
-BOSS-3(0)<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1>:헌터가 성질을 내며 탁상 위에 엎어진 우로보로스의 뒤통수를 후려쳤다.
-BOSS-2(0)<Speaker>엑스큐셔너</Speaker>||:내 춤 보고 싶으면 술부터 가져오라고!
-BOSS-2(0)<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1>:엑스큐셔너도 우로보로스의 뒤통수를 후려쳤다.
-BOSS-8(0)<Speaker>에이전트</Speaker>||:그만하면 됐으니 정리하고 돌아가자꾸나.
-BOSS-2(0)<Speaker>엑스큐셔너</Speaker>||:이 녀석, 이렇게 망가졌는데도 무기를 안 놓네? 하여간 독종이야.+어... 그런데 에이전트, 이 녀석이 갑자기 깨어나서 날 도끼로 찍기라도 하면 어떡하지? 그리폰에서 산재 처리해 주나? 휴가도 줘?
-()||:흥미로운 눈빛으로 도끼를 단단히 붙잡은 우로보로스를 보던 에이전트가 엑스큐셔너에게 눈총을 주었다.
-BOSS-8(0)<Speaker>에이전트</Speaker>||<黑屏1>:그리 된다면 네 운을 탓하거라.
-()||<黑屏2><BIN>384</BIN><common_effect>%%code=RedScreen%%</common_effect><BGM>GF_Jyashinchan_Story_Jinbouchou</BGM>:같은 시각, 공원의 다른 곳.
-K5(0)<Speaker>K5</Speaker>||:정말 안 도와줘도 돼?
-BOSS-8(0)<Speaker>에이전트</Speaker><通讯框>||:<color=#00CCFF>필요없사옵니다. 우로보로스를 확보했으니, 곧 기지로 회수하겠사옵니다.</color>+<color=#00CCFF>귀측은 명받은 목표를 수색하십시오.</color>
-()||<SE1>AVG_tele_disconnect</SE1>:에이전트가 통신을 종료했다.
-Yurine(0)<Speaker>유리네</Speaker>||:자기 문제는 자기가 알아서 해결하란 거네.+걔네가 알아서 하게 냅둬.
-K5(0)<Speaker>K5</Speaker>||:가서 도와주고는 싶지만, 철혈끼리의 문제에 끼어들기는 역시 좀 껄끄럽네...+에이 별일 없겠지 뭐!
-Minosu(0)<Speaker>미노스</Speaker>||:우리도 얼른 사신짱을 찾아내자!
-Medusa(0)<Speaker>메두사</Speaker>||:앗, 저기!
-()||:메두사가 가리킨 방향에, 붉은 마력의 소용돌이 속에 우뚝 서 있으면서도 전혀 침식되지 않은, 처음 보는 건물이 보였다.
-Yurine(0)<Speaker>유리네</Speaker>||:마력이 뻗치지 않는 곳...+저기가 결계의 약점일지도. 내가 가서 볼 테니까 너희는 여기서 마물들을 막아 줘.
-Minosu(0)<Speaker>미노스</Speaker>||:유리네라도 혼자선 위험하지! 나도 같이――
-Yurine(0)<Speaker>유리네</Speaker>||:난 괜찮으니까, 미노스는 메두사랑 같이 그리폰에서 온 친구들을 지켜 줘.
-()||:그리고 유리네는 순식간에 모습을 감췄다.
-Medusa(0)<Speaker>메두사</Speaker>||:유리네!
-K5(0)<Speaker>K5</Speaker>||<黑点1>:자기 문제는 자기가 알아서...라.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2> <BIN>22</BIN>:그리폰 기지의 공방.+무사히 회수된 CZ75와 NZ75, P90의 검사 결과, 소체는 멀쩡하고 마인드맵도 안정적인 상태였다.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:흐음... 혹시 모르니 다시 정밀 검사해볼까요?
+CZ75(4)<Speaker>CZ75</Speaker>||:괜찮다니까 그러네.
+NZ75(0)<Speaker>NZ75</Speaker>||:미안, 걱정하게 해서...
+P90(4)<Speaker>P90</Speaker>||:지휘관~! 나 꿈 꾸는 거 아니지?
+()<Speaker>지휘관</Speaker>||:다들 무사하다니 다행이다. 그런데 너희들, 우로보로스가 어디로 갔는진 아니?
+CZ75(4)<Speaker>CZ75</Speaker>||:우로보로스는...
+NZ75(0)<Speaker>NZ75</Speaker>||<黑屏1>:......
+()<Speaker>CZ75</Speaker>||<黑屏2> <BIN>387</BIN><BGM>10258</BGM>:너네 뭘 하려는――?! 으아악!!
+()||<黑点1>:갑작스런 충격파로 튕겨나간 CZ75가 겨우 다시 일어서 보니, 우로보로스와 사신짱은 맹렬한 화산 분화구처럼 보일 지경이었다.+단단히 손을 맞잡은 그들 주위로 폭주하는 마력이 지면을 할퀴는 와중, 기괴한 검은 형체가 그 마력의 폭풍 속에서 한데 뭉쳐 난폭한 마물로 변해 튀어나왔다.
+CZ75(4)<Speaker>CZ75</Speaker>||<黑点2> <BIN>384</BIN><common_effect>%%code=RedScreen%%</common_effect>:우로보로스!! 대체 뭐하는 거냐고!!
+Weaver(7)<Speaker>우로보로스</Speaker>||:참견 말고... 꺼지라고!!
+()||:우로보로스는 끔찍한 몰골이었다. 사신짱의 붉은 마력이 우로보로스의 팔뚝을 핏줄처럼 타고 올랐다.+딱 봐도 확실했다. 둘의 힘의 균형이 맞지 않아, 우로보로스는 지금 사신짱의 마력을 견디지 못하고 붕괴되기 직전이었다.
+CZ75(4)<Speaker>CZ75</Speaker>||:사신짱! 멈춰!+우로보로스가 못 버틸 거야!
+()||:아니나 다를까, 사신짱은 완전히 넋이 나가 인사불성이었다.+결국 보다 못한 CZ75이 직접 폭주하는 마력의 소용돌이로 몸을 던졌다. 붉은 마력이 그녀의 다리를 타고 오르자, 활화산에서 뿜어져 나오는 용암 속을 걷는 느낌에 CZ75는 금방이라도 의식이 불타버릴 것만 같았다.
+CZ75(4)<Speaker>CZ75</Speaker>||:우로보로스...!+우리 세상의 것이 아닌 힘을 남용하다간 거꾸로 삼켜져 버릴 거야...!+두번 다시 돌아가지 못하게 돼도 상관없어?!
+Weaver(3)<Speaker>우로보로스</Speaker>||:난... 반드시... 해야 할 일이 있단 말이다...!
+()||:피처럼 검붉은 마력이 우로보로스의 어깨까지 올랐다.
+CZ75(4)<Speaker>CZ75</Speaker>||:전혀 다른 세상에 영영 갇혀도 상관없냐고?!
+Weaver(3)<Speaker>우로보로스</Speaker>||:...그래.
+NZ75(0)<Speaker>NZ75</Speaker>||:CZ! 우리가 도와주자!
+Weaver(7)<Speaker>우로보로스</Speaker>||:뭣... 빌어먹을 그리폰의 쓰레기들! 참견 말고 꺼지라고 몇 번을 말해!
+()||:결심한 CZ75가 무기를 던지고 우로보로스의 다른 손을 덥석 붙잡았다.+우로보로스가 뿌리치지 못하도록 깍지까지 끼고, 그녀의 몸에 흘러드는 마력을 분담했다.
+CZ75(4)<Speaker>CZ75</Speaker>||:지금 우리는 동료야! 한 팀이라고!
+Weaver(7)<Speaker>우로보로스</Speaker>||:이런 때까지 그딴 같잖은 소리를...!
+NZ75(0)<Speaker>NZ75</Speaker>||:그게 그리폰의 규칙이야 이 뱀대가리야! IOP제든 철혈제든 그게 무슨 상관인데!? 한 명도 빠짐없이 모두 함께 돌아가는 거야!
+P90(4)<Speaker>P90</Speaker>||:옳소 옳소!! NZ 말 잘한다~!
+()||:NZ75와 P90도 달려와, 서로의 손과 CZ75의 손을 맞잡았다.
+CZ75(4)<Speaker>CZ75</Speaker>||:연산력도 필요하다면 빌려주겠어! 그러니까 네가 해야 한다는 거 확실하게 끝마치고 와!+그런 다음 다 함께 돌아가는 거야!
+Weaver(3)<Speaker>우로보로스</Speaker>||:......
+()||<黑屏1>:끓어오르는 마력이 맞잡은 손과 손을 따라 흐름과 동시에, CZ75의 눈에 낯선 광경들이 스쳐 지나갔다.
+CZ75(4)<Speaker>CZ75</Speaker>||<黑屏2><关闭蒙版><BIN>22</BIN><BGM>BGM_Empty</BGM>:그 뒤로 어떻게 됐는지는 나도 몰라...
+()<Speaker>지휘관</Speaker>||:우로보로스가 사신짱을 도왔다고...?+왜 인형까지 영향을 받는 건지 이제 알겠군.+마력으로 마인드맵 공간을 실체화한 거야.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:하지만 왜 이런 짓을 한 걸까요?
+CZ75(4)<Speaker>CZ75</Speaker>||:꼭 해야 하는 일이 있다더라.
+()<Speaker>지휘관</Speaker>|| <SE1>AVG_tele_connect</SE1>:에이전트, 짐작 가는 거 없어?
+BOSS-8(0)<Speaker>에이전트</Speaker><通讯框>||:<color=#00CCFF>알겠사옵니다.</color>+<color=#00CCFF>돌발행동을 저지른 우로보로스를 확보해 연행하겠사옵니다.</color>
+BOSS-8(0)<Speaker>지휘관</Speaker><通讯框>||:에이전트?
+BOSS-8(0)<Speaker>에이전트</Speaker><通讯框>||:<color=#00CCFF>그녀의 "꼭 해야 하는 일"은, 그녀의 입으로 직접 들으시옵소서.</color>
+()||<SE1>AVG_tele_disconnect</SE1><黑屏1>:에이전트가 통신을 뚝 끊었다.
+()||<黑屏2><BIN>332</BIN><BGM>GF_21winter_avg_pathfinder</BGM>:텅 빈 가상 공간.+언제나 우로보로스의 마인드맵 속을 서성이던 유령이, 트레이드 마크인 비웃는 듯한 얼굴로 우로보로스를 기다리고 있었다.
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:여어~♪ 오랜만이다 우롱아~?
+Weaver(3)<Speaker>우로보로스</Speaker>||:......
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:음...? 이상하다, 너 어딘가 좀 다른데?+아, 왜인지 알겠다. 뭐야 그 요상하게 생긴 도끼는?+딱 봐도 밸런스 안 맞게 생겼는데, 잘 휘두를 수는 있겠어?
+Weaver(3)<Speaker>우로보로스</Speaker>||:......
+()||:요르문간드가 흥미로워하며 우로보로스를 빙 한바퀴 맴돌았다.
+NPC-Jormungand(1)<Speaker>요르문간드</Speaker>||:뭐야, 노려보지만 말고 말 좀 해 봐. 또 어디서 두들겨 맞고 벙어리됐냐?
+()||:그럼에도 우로보로스는 말없이 요르문간드를 노려봤다.+그 빌어먹을 구렁이를 도와 이상적인 세상을 만든 이유는, 그리폰 기지로 돌아가기 싫어서가 아니었다.+오직 이 순간을 위해서.+요르문간드와 다시 마주하기 위해서였다.
+Weaver(3)<Speaker>우로보로스</Speaker>||:네 알 바 아니다.
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:헹, 기운 넘치는구만? 다행이네.+그런 눈으로 보지 마, 진짜로 걱정했다니까? 너 망가졌으면 내가 전력으로 싸워야 하나 말아야 하나, 하고 말이야.
+Weaver(5)<Speaker>우로보로스</Speaker>||:됐으니까 당장 시작하지.
+()||<黑点1>:요르문간드의 대답을 기다리지 않고, 우로보로스가 먼저 들려들었다.
+()||<黑点2>:......
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:야 우롱아, 여기 말인데... "가짜"냐, 아님 "진짜"냐?
+()||:잠시 후 요르문간드가 바닥에서 돌멩이를 주워 힘껏 던지면서 물었다.
+NPC-Jormungand(1)<Speaker>요르문간드</Speaker>||:가상 공간에 감각 시스템 업데이트라도 된 건가... 아님...+여기가 바로 현실 세계인가?+......+아 재미없게스리, 그러지 말고 뭐라 말 좀 해봐~
+()||:요르문간드는 낄낄대며 고개를 숙여, 자신이 깔고 앉은 우로보로스를 툭 쳤다.
+Weaver(3)<Speaker>우로보로스</Speaker>||:......
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:아아 미안 미안, 이렇게 압박하면 말을 못하겠지?+그래도 말이야, 내 생각엔... 이거 꿈인 거 같다.+안 그래? 우롱이가 요상한 도끼를 휘두르면서 먼저 덤벼들다니, 전혀 현실감 없어.
+()||:바닥에 깊숙이 박힌 도끼날을 보며, 우로보로스는 분함에 이를 갈았다. 자신의 부유포를 압수한 에이전트도 몇 번이고 저주했다.
+NPC-Jormungand(1)<Speaker>요르문간드</Speaker>||:게다가, 나 진작에 죽었잖아?+내 기억이 꼬인 게 아니라면 그 게임 마지막에 죽었는데.
+Weaver(3)<Speaker>우로보로스</Speaker>||:그래, 내 손으로 네 숨통을 끊었지.
+()||:요르문간드가 피식하며 힘을 더 주어, 우로보로스의 등을 더 세게 짓눌렀다.
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:어럽쇼~? 왜 내 기억엔 내가 엄청 봐줬던 걸로 되어 있을까나~?
+NPC-Jormungand(0);Weaver(7)<Speaker>우로보로스</Speaker>||:크윽...!
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>;Weaver(7)||:설마, 그래서 날 다시 만들어낸 거냐?+너만의 힘으로 날 이기려고? 날 이겨서, 보잘것없는 네 가치를 증명하려고?
+NPC-Jormungand(0);Weaver(3)<Speaker>우로보로스</Speaker>||:다 안다는 듯 지껄이지 마...
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>;Weaver(3)||:킥킥킥...+그때로부터 얼마나 지났는진 몰라도, 우롱이 넌 역시 하나도 안 변했구나.
+NPC-Jormungand(0);Weaver(3)<Speaker>우로보로스</Speaker>||:난 강해졌어! 예상 밖의 사고로 힘을 빼앗겼을 뿐이다!+내가 멀쩡하기만 했어도 넌 가루도 안 남았어!
+NPC-Jormungand(2)<Speaker>요르문간드</Speaker>;Weaver(3)||:......+역시, 아무것도 모른다니까.
+NPC-Jormungand(2);Weaver(3)<Speaker>우로보로스</Speaker>||:뭐...?
+NPC-Jormungand(2)<Speaker>요르문간드</Speaker>;Weaver(3)||:만약에 말이야...
+NPC-Jormungand(2)<Speaker>요르문간드</Speaker>||:만약에... 내가 널, 지금 여기서 죽이려 든다면, 어떡할 거냐?
+()||:요르문간드가 자세를 바꾸더니, 무릎으로 우로보로스를 계속 누르면서 손으로 그녀의 목을 움켜쥐었다.
+Weaver(7)<Speaker>우로보로스</Speaker>||:......
+NPC-Jormungand(2)<Speaker>요르문간드</Speaker>||:울고불며 살려 달라 빌 거냐, 아님 그냥 다음 생을 기약할 거냐?
+()||<黑屏1>:우로보로스의 시야가 점점 흐려져 갔다.
+()<Speaker>헌터</Speaker>||<黑屏2> <BIN>9</BIN>:전쟁은 그딴 장기가 아니란 말이다! 너무 단순하게 생각하지 마, 우로보로스! 머지않아 후회하게 될 거다!
+()<Speaker>엑스큐셔너</Speaker>||:그래서 우로보로스 그 자식이 제멋대로라는 거지...
+()<Speaker>아키텍트</Speaker>||:우로보로스, 너는 어때? 너는 너 자신이 좋아?
+()<Speaker>에이전트</Speaker>||:수단과 방법을 가리지 말고 살아남아 보이도록. 그것이 네가 제일 잘하는 일 아니더냐.
+()||:기억 속의 목소리도 점점 희미해져 갔다.
+()<Speaker>에이전트</Speaker>||<黑屏1>:그럼 호신용 무기라도 하나 챙겨 줘야겠구나. 그리폰의 소대가 네 옛 소굴에서 회수한 것이니라.+단 한 번만 쓸 수 있을 터이니, 잘 판단해 사용하거라.
+()||<黑屏2><BIN>332</BIN>:우로보로스가 가까스로 주머니를 뒤적여 엉망으로 구겨진 사진을 꺼내, 마지막 힘을 짜내어 요르문간드를 향해 외쳤다.
+Weaver(7)<Speaker>우로보로스</Speaker>||:꽃 피는 지옥——!!
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:뭣?!
+()||:하지만 아무 일도 일어나지 않았다.
+Weaver(7)<Speaker>우로보로스</Speaker>||:빌어먹을 에이전트... 또 날 속였겠다...!
+()||:기어코 울화통이 터진 우로보로스가 사진을 홱 집어던지려던 그 순간, 뒷면에 적힌 코드를 보았다.
+Weaver(3)<Speaker>우로보로스</Speaker>||:......
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:...뭐야? 필살기냐? 선쿨 좀 많이 길다?
+()||:요르문간드가 어이없어하며 하품을 하려던 찰나, 우로보로스가 엄청난 힘을 뿜어내 그녀를 저만치 튕겨냈다.
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:으하하하하! 그래, 이렇게 쉽게 당할 리가 없지!+하여간 대단한 녀석이라니까, 우롱이 너!
+()||:우로보로스의 본래 힘이 완전히 되돌아왔다.+천천히 몸을 일으켜 세운 그녀가, 땅에 박힌 CZ75의 도끼를 다시 뽑아 들었다.
+Weaver(6)<Speaker>우로보로스</Speaker>||<黑屏1>:덤벼라, 요르문간드.+끝장을 보자.
+()||<黑屏2><BIN>384</BIN><common_effect>%%code=RedScreen%%</common_effect><BGM>BGM_Empty</BGM>:진보초의 공원.
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||<BGM>GF_Jyashinchan_Story_JSC</BGM>:우롱이양 언제 돌아오는 거예요...+빠칭코도 질렸다고요...
+()||:사신짱이 손을 휙 젓자, 그녀 앞의 슬롯머신과 바닥을 온통 뒤덮었던 쇠구슬들이 순식간에 사라졌다.
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:뽑기도 이젠 시시해...
+()||:스페셜 한정판 츠치노코 피규어마저 휙 던져 버린 사신짱은, 공허한 눈빛으로 먼산을 바라보았다.
+Jashinchan(8)<Speaker>사신짱</Speaker><Position>0,100</Position>||:우롱이양... 뭔진 몰라도 설마 일이 잘못되진 않았겠죠?+어휴 진짜, 다른 사람이라도 있었...으면...
+()||:그 생각을 하자, 가슴에 구멍이 뚫린 기분이었다.
+()<Speaker>사신짱</Speaker>||<common_effect>%%code=CJ_rain%%</common_effect><SE1>AVG_amb_thunderrain</SE1>:......흑.+다 가버렸어요...+저만 두고...+외로워요오...
+()||:진정되었던 위장이 다시 뒤틀렸다.
+()<Speaker>사신짱</Speaker>||:혼자 있기... 싫다고요...
+()||:사신짱이 또 배를 부여잡고 바닥에 널브러졌다.
+()<Speaker>사신짱</Speaker>||:괴로워어...
+()||:그때, 그녀의 흐릿한 시야에 한 쌍의 검은 구두가 나타났다.
+()<Speaker>？？？</Speaker>||:사신짱, 왜 그러고 있어?
+()<Speaker>사신짱</Speaker>||:어...?
+()||:반신반의하며 고개를 들어보니, 더없이 익숙한 얼굴이 눈에 들어왔다.
+Yurine(6)<Speaker>유리네?</Speaker>||:사신짱, 왜 그렇게 놀란 표정이야? 내 얼굴에 뭐라도 묻었어?
+()||<黑屏1>:자애로운 미소의 "유리네"가, 사신짱에게 손을 내밀었다.
+()||<黑屏2><关闭蒙版><BIN>332</BIN><BGM>BGM_Empty</BGM>:......
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||<BGM>GF_21winter_avg_mahaline</BGM>:하하... 끝났구만.
+Weaver(9)<Speaker>우로보로스</Speaker>||:그래, 끝났다.
+()||:요르문간드는 만신창이면서도 히죽거리며 허리에 난 상처를 살폈다.+그리고 그것이 결정타였는지, 몸이 그 상처를 중심으로 흩어져 가기 시작했다.
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:그래서, 해답은 찾았냐?
+Weaver(9)<Speaker>우로보로스</Speaker>||:지긋지긋한 네놈의 얼굴을 본 그 순간 알았지.
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:뭐였는데...?
+()||:요르문간드가 힘없이 쓰러지는 것을 우로보로스가 받아냈다.
+Weaver(9)<Speaker>우로보로스</Speaker>||:아무래도 상관없었다.
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>;Weaver(9)||:엉?
+NPC-Jormungand(0);Weaver(9)<Speaker>우로보로스</Speaker>||:이기든 지든, 아무래도 상관없었다고.+중요한 것은 무엇을 위해서인가였다.
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>;Weaver(9)||:......
+NPC-Jormungand(0);Weaver(9)<Speaker>우로보로스</Speaker>||:네놈은 그때, 나더러 네 몫까지 살아가라 했지?+그래서 나도 네놈을 실망시키지 않았다고 증명해 보인 거다.+네놈에게 진 빚은, 이제 다 갚았다.
+NPC-Jormungand(1)<Speaker>요르문간드</Speaker>;Weaver(9)||:......
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:푸히힛...+그래 우롱아, 그럼 됐어...
+()||:요르문간드의 몸은 이제 거의 투명해졌다.
+Weaver(9)<Speaker>우로보로스</Speaker>||:잘 가라, 요르문간드.
+NPC-Jormungand(0)<Speaker>요르문간드</Speaker>||:그래, 나 간다.+그래도 나 까먹진 마라?
+Weaver(9)<Speaker>우로보로스</Speaker>||:......
+()||:우로보로스의 어깨에 기댄 몸의 무게가 사라졌다.
+Weaver(9)<Speaker>우로보로스</Speaker>||:...누가 네놈 따윌 잊는다고.
+()||<黑屏1>:요르문간드는 떠났다, 처음부터 온 적이 없는 것처럼.
+()||<黑屏2><BIN>34</BIN>:우로보로스는 절뚝거리며 기지에 돌아왔다.
+Weaver(3)<Speaker>우로보로스</Speaker>||:...돌아왔다.
+BOSS-8(0)<Speaker>에이전트</Speaker>;Weaver(3)||:왔느냐, 우로보로스.
+BOSS-8(0);Weaver(3)<Speaker>우로보로스</Speaker>||:이번 임무도... 완수했다...
+BOSS-8(0)<Speaker>에이전트</Speaker>;Weaver(3)||:알고 있느니라. 훌륭하게 끝마쳤더구나.
+BOSS-8(0);Weaver(3)<Speaker>우로보로스</Speaker>||:그럼 뭘 잠자코 있는 거냐... 아까 나한테...
+Weaver(3)<Speaker>우로보로스</Speaker>||:헌터한테 안마시킨다고...
+BOSS-8(0)<Speaker>에이전트</Speaker>||:호오... 헌터.
+()||:에이전트가 옅은 미소를 지으며 손뼉을 쳤다.+그러자 헌터가 다가와 우로보로스를 의자에 앉혔다.
+BOSS-3(0)<Speaker>헌터</Speaker>||:힘조절은 이 정도면 되겠습니까?
+BOSS-3(0);Weaver(3)<Speaker>우로보로스</Speaker>||:......형편없어.
+BOSS-3(0)<Speaker>헌터</Speaker>;Weaver(3)||:쓰읍...+그럼 이 정돈 어떠신지?
+BOSS-3(0);Weaver(3)<Speaker>우로보로스</Speaker>||:......좀 낫군.
+BOSS-8(0)<Speaker>에이전트</Speaker>;Weaver(3)||:또 뭘 해 준다 했었지?
+BOSS-8(0);Weaver(3)<Speaker>우로보로스</Speaker>||:엑스큐셔너... 와서 인디언 춤 추라고 해...
+BOSS-8(0)<Speaker>에이전트</Speaker>;Weaver(3)||:풉... 지금 준비 중이니라.
+BOSS-8(0);Weaver(3)<Speaker>우로보로스</Speaker>||:그럼... 기다리는 김에...
+Weaver(3)<Speaker>우로보로스</Speaker>||:나한테 주겠다던 포상부터 내놔...
+BOSS-8(0)<Speaker>에이전트</Speaker>||:그러도록 하지.
+()||:에이전트가 우로보로스의 맞은편에 앉아, 새로 깔끔하게 인쇄된 사진을 탁상에 두었다.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:이것이, 네게 주는 포상이니라.
+Weaver(3)<Speaker>우로보로스</Speaker>||:너...+너 설마...!
+()||:사진 속의 우로보로스는, 저마다 웃는 다른 철혈 인형들 사이에서 혼자 짜증 가득한 얼굴로 붕 떠 있었다.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:어서 돌아오너라, 우로보로스.
+Weaver(3)<Speaker>우로보로스</Speaker>||:네놈은 정말......
+()||<BGM>BGM_Empty</BGM>:만신창이였던 우로보로스는 마침내 의식을 잃고 엎어졌다.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:......+뭘 멍하니 있느냐? 어서 회수하거라.+소체가 이토록 망가졌으니 그냥 조각내서 공방으로 들고 가도 되겠구나.
+BOSS-3(0)<Speaker>헌터</Speaker>||:이 자식... 뭘 잘났다고 내 안마 실력에 토를 달아?
+BOSS-3(0)<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1>:헌터가 성질을 내며 탁상 위에 엎어진 우로보로스의 뒤통수를 후려쳤다.
+BOSS-2(0)<Speaker>엑스큐셔너</Speaker>||:내 춤 보고 싶으면 술부터 가져오라고!
+BOSS-2(0)<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1>:엑스큐셔너도 우로보로스의 뒤통수를 후려쳤다.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:그만하면 됐으니 정리하고 돌아가자꾸나.
+BOSS-2(0)<Speaker>엑스큐셔너</Speaker>||:이 녀석, 이렇게 망가졌는데도 무기를 안 놓네? 하여간 독종이야.+어... 그런데 에이전트, 이 녀석이 갑자기 깨어나서 날 도끼로 찍기라도 하면 어떡하지? 그리폰에서 산재 처리해 주나? 휴가도 줘?
+()||:흥미로운 눈빛으로 도끼를 단단히 붙잡은 우로보로스를 보던 에이전트가 엑스큐셔너에게 눈총을 주었다.
+BOSS-8(0)<Speaker>에이전트</Speaker>||<黑屏1>:그리 된다면 네 운을 탓하거라.
+()||<黑屏2><BIN>384</BIN><common_effect>%%code=RedScreen%%</common_effect><BGM>GF_Jyashinchan_Story_Jinbouchou</BGM>:같은 시각, 공원의 다른 곳.
+K5(0)<Speaker>K5</Speaker>||:정말 안 도와줘도 돼?
+BOSS-8(0)<Speaker>에이전트</Speaker><通讯框>||:<color=#00CCFF>필요없사옵니다. 우로보로스를 확보했으니, 곧 기지로 회수하겠사옵니다.</color>+<color=#00CCFF>귀측은 명받은 목표를 수색하십시오.</color>
+()||<SE1>AVG_tele_disconnect</SE1>:에이전트가 통신을 종료했다.
+Yurine(0)<Speaker>유리네</Speaker>||:자기 문제는 자기가 알아서 해결하란 거네.+걔네가 알아서 하게 냅둬.
+K5(0)<Speaker>K5</Speaker>||:가서 도와주고는 싶지만, 철혈끼리의 문제에 끼어들기는 역시 좀 껄끄럽네...+에이 별일 없겠지 뭐!
+Minosu(0)<Speaker>미노스</Speaker>||:우리도 얼른 사신짱을 찾아내자!
+Medusa(0)<Speaker>메두사</Speaker>||:앗, 저기!
+()||:메두사가 가리킨 방향에, 붉은 마력의 소용돌이 속에 우뚝 서 있으면서도 전혀 침식되지 않은, 처음 보는 건물이 보였다.
+Yurine(0)<Speaker>유리네</Speaker>||:마력이 뻗치지 않는 곳...+저기가 결계의 약점일지도. 내가 가서 볼 테니까 너희는 여기서 마물들을 막아 줘.
+Minosu(0)<Speaker>미노스</Speaker>||:유리네라도 혼자선 위험하지! 나도 같이――
+Yurine(0)<Speaker>유리네</Speaker>||:난 괜찮으니까, 미노스는 메두사랑 같이 그리폰에서 온 친구들을 지켜 줘.
+()||:그리고 유리네는 순식간에 모습을 감췄다.
+Medusa(0)<Speaker>메두사</Speaker>||:유리네!
+K5(0)<Speaker>K5</Speaker>||<黑点1>:자기 문제는 자기가 알아서...라.

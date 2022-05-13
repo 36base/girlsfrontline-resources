@@ -1,83 +1,83 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
-()||<黑屏2><SE1>AVG_Water_Drip</SE1>:똑... 똑...+어두컴컴한 공장 안, 파열된 파이프에서 떨어지는 물은 바닥에 고여 웅덩이가 되었다.+싸늘한 공기는 뼛속까지 스며들어, 숨만 쉬기만 해도 가슴이 바늘에 찔리듯 아팠다.
-()<Speaker>마흐리안</Speaker>||<黑屏1>:...엘사.
-()<Speaker></Speaker>||<BIN>229</BIN><黑屏2><BGM>m_avg_labyrinth</BGM>:유일하게 빛이 들어오는 곳에, 산처럼 쌓인 시체 더미에 파묻힌 소녀가 있었다.
-()<Speaker>마흐리안</Speaker>||:엘사... 기다려, 조금만 참아...+언니가 금방 약을 만들어 줄게...
-()<Speaker></Speaker>||:천장에서 뻗어 나온 수액관들 끝의 뾰족한 바늘이, 마흐리안의 살을 파고들었다.
-()<Speaker>마흐리안</Speaker>||:윽!
-()<Speaker></Speaker>||:피가 뽑혀 나간다.+주삿바늘은 마치 거머리처럼 마흐리안의 몸에서 양분을 약탈했다.+한 발짝 나아갈수록, 천장에서 더 많은 수액관이 뻗어졌다.
-()<Speaker>마흐리안</Speaker>||:엘...사...
-()<Speaker></Speaker>||<SE1>Heartbeat</SE1>:털썩!+온몸에 박힌 바늘의 무게를 버티지 못하고, 마흐리안은 쓰러졌다.+하지만 힘을 쥐어짜내, 앞으로 기어나갔다.+조금만 더... 조금만 더 가면, 그 소녀의 어깨에 손이 닿는다.
-()<Speaker>마흐리안</Speaker>||:......!!
-()<Speaker></Speaker>||:탁한 웅덩이의 수면에 자신의 얼굴이 비쳤다.+몸에서 체액이 모조리 뽑혀 나간 마흐리안의 몰골은 흡사 미이라 같았다.
-()<Speaker>알 수 없는 목소리</Speaker>||:넌 괴물이야...+사람의 시체로 만들어진 괴물!
-()<Speaker>마흐리안</Speaker>||:아니야... 아니야...!+난 괴물이 아니야!
-NPC-Lilyan(0)<Speaker>엘사</Speaker>||:성녀... 언니...?
-NPC-Lilyan(0);NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:엘사!
-NPC-Lilyan(0);NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||:마흐리안이 고개를 번쩍 들었다. 하지만 엘사의 얼굴을 본 순간, 심장이 멈췄다.+소녀의 얼굴은 부식되어 피가 철철 흐르고, 점점 규소화되어 가는 피부가 한없이 연약한 육체를 자비없이 찢어발겼다.
-NPC-Lilyan(0)<Speaker>엘사</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:언니... 나 아파...
-NPC-Lilyan(0);NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||<黑屏1>:엘사...
-NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||<黑屏2><BIN>9</BIN><SE1>Heartbeat</SE1>:꼬르륵——+갑자기 물웅덩이에서 검게 썩은 손들이 뻗어 나와, 엘사를 깊은 심연으로 끌고 들어갔다.
-NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:안 돼!!
-NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||<BGM>BGM_Empty</BGM><震屏>:엘——
-()<Speaker></Speaker>||<BGM>BGM_Truth</BGM><BIN>202</BIN><闪屏><duration>5</duration></闪屏>:꿈에서 깨어난 마흐리안의 눈에 들어온 것은, 익숙한 그리폰 차량의 임시 지휘실이었다.
-()<Speaker>지휘관</Speaker>||:아 마흐리안, 깼구나.
-()<Speaker></Speaker>||:다른 사람들은 전술 테이블에 모여 무언가를 논의 중이었다.+지휘관은 소파에 누운 마흐리안을 보며 걱정하는 표정을 지었다.
-()<Speaker>지휘관</Speaker>||:왜 그래? 안색이 안 좋은데.
-AR15Mod(4)<Speaker>AR15</Speaker>||:안색이 안 좋기는요.+이런 때에 잘만 자니, 걱정할 거 하나도 없어요.
-AR15Mod(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:엥, 벌써 깼어? 회의 끝나고 얼굴에 낙서하려 했더니!
-AR15Mod(4)<Speaker>AR15</Speaker><Shake>||:너 또 그러려고!?
-NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:아...
-NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||:마흐리안은 눈을 비비며 심호흡했다.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:놀라게 해서 죄송해요, 전 괜찮아요.+무슨 회의 중이셨나요?
-NytoIsomer(7)<Speaker>댄들라이</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:우린 지금 네가 제공한 좌표에서 약 50m 떨어진 위치에 있어.+차에서 내려 정찰해본 결과, 해당 좌표는 오래전 폐기된 공장임을 확인했지.+본격적으로 돌입하기 전에 계획을 확실하게 짜야 해.
-NytoIsomer(7);NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:벌써 도착했다고요!?
-NPC-Machlian(5)<Speaker></Speaker><Position>0,-50</Position>||<SE1>AVG_lifttable</SE1>:마흐리안은 소파에서 허겁지겁 일어나다 그만 무릎을 티 테이블에 찧고 말았다.
-NPC-Machlian(5)<Speaker>지휘관</Speaker>||:조심해.
-NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:...네.
-NPC-Machlian(7)<Speaker></Speaker><Position>0,-50</Position>||:찧은 곳을 살살 문지르며, 마흐리안도 절뚝절뚝 전술 테이블로 다가왔다.
-AR15Mod(4)<Speaker>AR15</Speaker>||<BGM>BGM_Empty</BGM>:엄살은...
-NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||<BGM>BGM_Sneak</BGM>:이건... 지도인가요?
-NytoIsomer(7)<Speaker>댄들라이</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:맞아, 내가 스캔한 지도지. 네 기억과 차이나는 점은 없어?
-AR15Mod(4)<Speaker>AR15</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:여긴 패러데우스의 영역인데, 이 녀석한테 물어도 돼?
-NytoIsomer(7)<Speaker>댄들라이</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:확인해서 나쁠 것 없지.+그녀를 못 믿겠으면 내 지도만 보던가.
-AR15Mod(4)<Speaker>AR15</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:어느 쪽이든 짜증나네...
-NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||:마흐리안은 말없이 테이블에 펼쳐진 단면도를 확인했다.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:...제 기억과 그다지 차이가 없어요.+대단하네요... 문 앞에서 이렇게 넓은 범위를 스캔했다고요?
-NytoIsomer(7)<Speaker>댄들라이</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:이 분야에선 내가 일가견 있거든.
-NytoIsomer(7);RO635Mod(0)<Speaker>RO635</Speaker>||:그럼 지형은 충분히 파악한 것 같네요.+위험 요소는 어때?
-NytoIsomer(7)<Speaker>댄들라이</Speaker>;RO635Mod(0)||:패러데우스도, 니토의 존재도 탐지되지 않아.+저 안은 텅 비었어. 마흐리안의 말대로, 버려진 곳 같아.
-NytoIsomer(7)<Speaker>지휘관</Speaker>;RO635Mod(0)<同时置暗>||:마흐리안, 너 정말 저 공장에서 탈출한 게 맞아?
-NytoIsomer(7);NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||<BGM>BGM_Empty</BGM>:...네, 확실해요.
-NPC-Machlian(7)<Speaker></Speaker><Position>0,-50</Position>||<BGM>m_avg_labyrinth</BGM>:악몽과 현실이 겹쳐지는 것 같은 느낌에, 지도를 보던 마흐리안은 휘청이며 양팔을 탁상에 짚었다.+천천히 호흡을 가다듬으며, 구토감을 억눌렀다.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:전... 여기에서 태어나, 실험체가 되었어요.+그는 제가 부분면역체임을 알게 되자, 제 피를 원료로 혈청을 개발했어요.+물론, 그 의도는... 사람을 구하기 위해서가 아니었겠죠.+그래도 여기서 탈출할 때, 복사감염증을 치료하는 약을 어느 정도 가지고 나왔어요.
-VP1915(0)<Speaker>페로사</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:그때 어떻게 도망쳐 나왔는데?
-VP1915(0);NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:그때, 그들은 여기서 철수하는 중이었어요.+실험체, 처분할 시체, 운반할 수 있는 설비와 다른 물건들...+무슨 일이었는진 모르지만, 다들 엄청 분주했어요.+그래서 그들이 제게 관심을 가지지 않는 틈을 타... 달렸어요, 계속 달렸어요.+그러다 본 마을에 다다랐어요.
-AR15Mod(4)<Speaker>AR15</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||<BGM>BGM_Empty</BGM>:정말 쉽게도 탈출했네.+아, 그게 아니지.+그런 걸 보고 "하늘이 굽어살폈다"고 하던가?
-AR15Mod(4);RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>:넌 어려운 말 하는 거 하나도 안 어울리니까 그만해.
-AR15Mod(4)<Speaker>AR15</Speaker>;RO635Mod(0)||:아 좀!
-AR15Mod(4)<Speaker>지휘관</Speaker>;RO635Mod(0)<同时置暗>||:그렇다면, 혈청을 만드는 설비가 남아있다고 어떻게 장담하지?+그들이 철수할 때 함께 가져갔을 수도 있잖아.
-AR15Mod(4);NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:아뇨, 제 생각엔 못 가져갔을 거예요.+그 설비는 엄청 거대하고 건물과 결합된 형태여서, 왠만해선 옮길 수가 없어요.+그리고, 사실 그들도 혈청을 그다지 중요시하지 않았어서, 괜히 그런 고생을 하진 않았을 거라고 생각해요.
-NPC-Machlian(6)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:그런가... 어차피 달리 방도가 없으니, 일단은 살펴보는 수밖에.
-()<Speaker></Speaker>||:지휘관이 시선을 돌려, 두 소대장에게 고개를 끄덕였다.
-()<Speaker>지휘관</Speaker>||:페로사, 그리폰 소대는 바깥에서 주위를 경계하도록. 무슨 일 있으면 즉시 보고해.+물론 우리도 상황이 발생하면 너희에게 곧장 지원을 요청할 거야.
-VP1915(0)<Speaker>페로사</Speaker>||:알겠습니다.
-()<Speaker>지휘관</Speaker>||:AR팀과 댄들라이는 평소처럼 나와 함께 마흐리안을 데리고 건물로 진입한다.+설비를 찾으면 구역을 확보하고, 혈청을 얻는 즉시 철수한다.
-AR15Mod(5)<Speaker>AR15</Speaker>||:잠깐만요, 지휘관도 같이 가시게요?+반대합니다, 너무 위험해요.
-AR15Mod(5);RO635Mod(2)<Speaker>RO635</Speaker>||:맞습니다, 저도 지휘관님은 그리폰 소대와 함께 계시기를 건의합니다.+그 편이 유사시 저희도 행동하기 용이합니다.
-AR15Mod(5);RO635Mod(2)<Speaker>지휘관</Speaker><同时置暗>||:너희의 뜻은 잘 알겠어. 하지만...
-AR15Mod(5);RO635Mod(2)<Speaker></Speaker><同时置暗>||:지휘관이 마흐리안을 바라봤다.+그녀는 자신의 이마에 식은땀이 잔뜩 맺힌 것도 모르는 모습에, 아직도 몸을 떨며 불안감을 떨쳐내지 못하고 있었다.
-AR15Mod(5);RO635Mod(2)<Speaker>지휘관</Speaker><同时置暗>||<BGM>BGM_Empty</BGM>:...마흐리안의 상태가 걱정되니 말이지.+그리고, 댄들라이가 아래에 위협은 없다고 확인했잖아.+그러니 문제 없을 거야.
-AR15Mod(5);NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||<BGM>m_avg_tension</BGM>:로빈...+저 때문에 로빈까지 위험에 노출될 필요는...
-AR15Mod(5);NPC-Machlian(6)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:행여 적이 기습하더라도, 입구로밖에 진입할 수 없어.+그러면, 오히려 차에 있는 편이 적과 더 가까워져 버리지.+그리고 패러데우스를 상대론 댄들라이 곁보다 더 안전한 곳은 없잖아?
-NytoIsomer(7)<Speaker>댄들라이</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:그렇게 말씀하시니 부끄러워 몸 둘 바를 모르겠군요.
-AR15Mod(3)<Speaker>AR15</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:전혀 그렇게 안 보이는데.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:......
-NPC-Machlian(8)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:...고마워요, 로빈.
-()<Speaker>지휘관</Speaker>||:자 집중하고, 마지막으로 지도를 검토한다.+잠입과 철수 경로 확인해.+이번엔 댄들라이가 전체 지형도도 만들었으니, 본 마을에서의 실수를 반복하지 말자고.+속전속결로 해치운다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:네.
-VP1915(0)<Speaker>페로사</Speaker>||:알겠습니다.
-()<Speaker>지휘관</Speaker>||:45?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>우리 걱정은 안 해도 돼.</color>+<color=#00CCFF>벌써 잊었어? 우린 상황에 맞춰서 움직여.</color>
-UMP45Mod(0)<Speaker>지휘관</Speaker><通讯框>||:좋아, 그럼 모두 문제 없지?+준비 마치는 즉시 출발한다.
-RO635Mod(0)<Speaker>RO635</Speaker>||<黑屏1>:예!
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
+()||<黑屏2><SE1>AVG_Water_Drip</SE1>:똑... 똑...+어두컴컴한 공장 안, 파열된 파이프에서 떨어지는 물은 바닥에 고여 웅덩이가 되었다.+싸늘한 공기는 뼛속까지 스며들어, 숨만 쉬기만 해도 가슴이 바늘에 찔리듯 아팠다.
+()<Speaker>마흐리안</Speaker>||<黑屏1>:...엘사.
+()<Speaker></Speaker>||<BIN>229</BIN><黑屏2><BGM>m_avg_labyrinth</BGM>:유일하게 빛이 들어오는 곳에, 산처럼 쌓인 시체 더미에 파묻힌 소녀가 있었다.
+()<Speaker>마흐리안</Speaker>||:엘사... 기다려, 조금만 참아...+언니가 금방 약을 만들어 줄게...
+()<Speaker></Speaker>||:천장에서 뻗어 나온 수액관들 끝의 뾰족한 바늘이, 마흐리안의 살을 파고들었다.
+()<Speaker>마흐리안</Speaker>||:윽!
+()<Speaker></Speaker>||:피가 뽑혀 나간다.+주삿바늘은 마치 거머리처럼 마흐리안의 몸에서 양분을 약탈했다.+한 발짝 나아갈수록, 천장에서 더 많은 수액관이 뻗어졌다.
+()<Speaker>마흐리안</Speaker>||:엘...사...
+()<Speaker></Speaker>||<SE1>Heartbeat</SE1>:털썩!+온몸에 박힌 바늘의 무게를 버티지 못하고, 마흐리안은 쓰러졌다.+하지만 힘을 쥐어짜내, 앞으로 기어나갔다.+조금만 더... 조금만 더 가면, 그 소녀의 어깨에 손이 닿는다.
+()<Speaker>마흐리안</Speaker>||:......!!
+()<Speaker></Speaker>||:탁한 웅덩이의 수면에 자신의 얼굴이 비쳤다.+몸에서 체액이 모조리 뽑혀 나간 마흐리안의 몰골은 흡사 미이라 같았다.
+()<Speaker>알 수 없는 목소리</Speaker>||:넌 괴물이야...+사람의 시체로 만들어진 괴물!
+()<Speaker>마흐리안</Speaker>||:아니야... 아니야...!+난 괴물이 아니야!
+NPC-Lilyan(0)<Speaker>엘사</Speaker>||:성녀... 언니...?
+NPC-Lilyan(0);NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:엘사!
+NPC-Lilyan(0);NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||:마흐리안이 고개를 번쩍 들었다. 하지만 엘사의 얼굴을 본 순간, 심장이 멈췄다.+소녀의 얼굴은 부식되어 피가 철철 흐르고, 점점 규소화되어 가는 피부가 한없이 연약한 육체를 자비없이 찢어발겼다.
+NPC-Lilyan(0)<Speaker>엘사</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:언니... 나 아파...
+NPC-Lilyan(0);NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||<黑屏1>:엘사...
+NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||<黑屏2><BIN>9</BIN><SE1>Heartbeat</SE1>:꼬르륵——+갑자기 물웅덩이에서 검게 썩은 손들이 뻗어 나와, 엘사를 깊은 심연으로 끌고 들어갔다.
+NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:안 돼!!
+NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||<BGM>BGM_Empty</BGM><震屏>:엘——
+()<Speaker></Speaker>||<BGM>BGM_Truth</BGM><BIN>202</BIN><闪屏><duration>5</duration></闪屏>:꿈에서 깨어난 마흐리안의 눈에 들어온 것은, 익숙한 그리폰 차량의 임시 지휘실이었다.
+()<Speaker>지휘관</Speaker>||:아 마흐리안, 깼구나.
+()<Speaker></Speaker>||:다른 사람들은 전술 테이블에 모여 무언가를 논의 중이었다.+지휘관은 소파에 누운 마흐리안을 보며 걱정하는 표정을 지었다.
+()<Speaker>지휘관</Speaker>||:왜 그래? 안색이 안 좋은데.
+AR15Mod(4)<Speaker>AR15</Speaker>||:안색이 안 좋기는요.+이런 때에 잘만 자니, 걱정할 거 하나도 없어요.
+AR15Mod(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:엥, 벌써 깼어? 회의 끝나고 얼굴에 낙서하려 했더니!
+AR15Mod(4)<Speaker>AR15</Speaker><Shake>||:너 또 그러려고!?
+NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:아...
+NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||:마흐리안은 눈을 비비며 심호흡했다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:놀라게 해서 죄송해요, 전 괜찮아요.+무슨 회의 중이셨나요?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:우린 지금 네가 제공한 좌표에서 약 50m 떨어진 위치에 있어.+차에서 내려 정찰해본 결과, 해당 좌표는 오래전 폐기된 공장임을 확인했지.+본격적으로 돌입하기 전에 계획을 확실하게 짜야 해.
+NytoIsomer(7);NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:벌써 도착했다고요!?
+NPC-Machlian(5)<Speaker></Speaker><Position>0,-50</Position>||<SE1>AVG_lifttable</SE1>:마흐리안은 소파에서 허겁지겁 일어나다 그만 무릎을 티 테이블에 찧고 말았다.
+NPC-Machlian(5)<Speaker>지휘관</Speaker>||:조심해.
+NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:...네.
+NPC-Machlian(7)<Speaker></Speaker><Position>0,-50</Position>||:찧은 곳을 살살 문지르며, 마흐리안도 절뚝절뚝 전술 테이블로 다가왔다.
+AR15Mod(4)<Speaker>AR15</Speaker>||<BGM>BGM_Empty</BGM>:엄살은...
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||<BGM>BGM_Sneak</BGM>:이건... 지도인가요?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:맞아, 내가 스캔한 지도지. 네 기억과 차이나는 점은 없어?
+AR15Mod(4)<Speaker>AR15</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:여긴 패러데우스의 영역인데, 이 녀석한테 물어도 돼?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:확인해서 나쁠 것 없지.+그녀를 못 믿겠으면 내 지도만 보던가.
+AR15Mod(4)<Speaker>AR15</Speaker>;NPC-Machlian(5)<Position>0,-50</Position>||:어느 쪽이든 짜증나네...
+NPC-Machlian(6)<Speaker></Speaker><Position>0,-50</Position>||:마흐리안은 말없이 테이블에 펼쳐진 단면도를 확인했다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:...제 기억과 그다지 차이가 없어요.+대단하네요... 문 앞에서 이렇게 넓은 범위를 스캔했다고요?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:이 분야에선 내가 일가견 있거든.
+NytoIsomer(7);RO635Mod(0)<Speaker>RO635</Speaker>||:그럼 지형은 충분히 파악한 것 같네요.+위험 요소는 어때?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>;RO635Mod(0)||:패러데우스도, 니토의 존재도 탐지되지 않아.+저 안은 텅 비었어. 마흐리안의 말대로, 버려진 곳 같아.
+NytoIsomer(7)<Speaker>지휘관</Speaker>;RO635Mod(0)<同时置暗>||:마흐리안, 너 정말 저 공장에서 탈출한 게 맞아?
+NytoIsomer(7);NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||<BGM>BGM_Empty</BGM>:...네, 확실해요.
+NPC-Machlian(7)<Speaker></Speaker><Position>0,-50</Position>||<BGM>m_avg_labyrinth</BGM>:악몽과 현실이 겹쳐지는 것 같은 느낌에, 지도를 보던 마흐리안은 휘청이며 양팔을 탁상에 짚었다.+천천히 호흡을 가다듬으며, 구토감을 억눌렀다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:전... 여기에서 태어나, 실험체가 되었어요.+그는 제가 부분면역체임을 알게 되자, 제 피를 원료로 혈청을 개발했어요.+물론, 그 의도는... 사람을 구하기 위해서가 아니었겠죠.+그래도 여기서 탈출할 때, 복사감염증을 치료하는 약을 어느 정도 가지고 나왔어요.
+VP1915(0)<Speaker>페로사</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:그때 어떻게 도망쳐 나왔는데?
+VP1915(0);NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:그때, 그들은 여기서 철수하는 중이었어요.+실험체, 처분할 시체, 운반할 수 있는 설비와 다른 물건들...+무슨 일이었는진 모르지만, 다들 엄청 분주했어요.+그래서 그들이 제게 관심을 가지지 않는 틈을 타... 달렸어요, 계속 달렸어요.+그러다 본 마을에 다다랐어요.
+AR15Mod(4)<Speaker>AR15</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||<BGM>BGM_Empty</BGM>:정말 쉽게도 탈출했네.+아, 그게 아니지.+그런 걸 보고 "하늘이 굽어살폈다"고 하던가?
+AR15Mod(4);RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>BGM_Sneak</BGM>:넌 어려운 말 하는 거 하나도 안 어울리니까 그만해.
+AR15Mod(4)<Speaker>AR15</Speaker>;RO635Mod(0)||:아 좀!
+AR15Mod(4)<Speaker>지휘관</Speaker>;RO635Mod(0)<同时置暗>||:그렇다면, 혈청을 만드는 설비가 남아있다고 어떻게 장담하지?+그들이 철수할 때 함께 가져갔을 수도 있잖아.
+AR15Mod(4);NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:아뇨, 제 생각엔 못 가져갔을 거예요.+그 설비는 엄청 거대하고 건물과 결합된 형태여서, 왠만해선 옮길 수가 없어요.+그리고, 사실 그들도 혈청을 그다지 중요시하지 않았어서, 괜히 그런 고생을 하진 않았을 거라고 생각해요.
+NPC-Machlian(6)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:그런가... 어차피 달리 방도가 없으니, 일단은 살펴보는 수밖에.
+()<Speaker></Speaker>||:지휘관이 시선을 돌려, 두 소대장에게 고개를 끄덕였다.
+()<Speaker>지휘관</Speaker>||:페로사, 그리폰 소대는 바깥에서 주위를 경계하도록. 무슨 일 있으면 즉시 보고해.+물론 우리도 상황이 발생하면 너희에게 곧장 지원을 요청할 거야.
+VP1915(0)<Speaker>페로사</Speaker>||:알겠습니다.
+()<Speaker>지휘관</Speaker>||:AR팀과 댄들라이는 평소처럼 나와 함께 마흐리안을 데리고 건물로 진입한다.+설비를 찾으면 구역을 확보하고, 혈청을 얻는 즉시 철수한다.
+AR15Mod(5)<Speaker>AR15</Speaker>||:잠깐만요, 지휘관도 같이 가시게요?+반대합니다, 너무 위험해요.
+AR15Mod(5);RO635Mod(2)<Speaker>RO635</Speaker>||:맞습니다, 저도 지휘관님은 그리폰 소대와 함께 계시기를 건의합니다.+그 편이 유사시 저희도 행동하기 용이합니다.
+AR15Mod(5);RO635Mod(2)<Speaker>지휘관</Speaker><同时置暗>||:너희의 뜻은 잘 알겠어. 하지만...
+AR15Mod(5);RO635Mod(2)<Speaker></Speaker><同时置暗>||:지휘관이 마흐리안을 바라봤다.+그녀는 자신의 이마에 식은땀이 잔뜩 맺힌 것도 모르는 모습에, 아직도 몸을 떨며 불안감을 떨쳐내지 못하고 있었다.
+AR15Mod(5);RO635Mod(2)<Speaker>지휘관</Speaker><同时置暗>||<BGM>BGM_Empty</BGM>:...마흐리안의 상태가 걱정되니 말이지.+그리고, 댄들라이가 아래에 위협은 없다고 확인했잖아.+그러니 문제 없을 거야.
+AR15Mod(5);NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||<BGM>m_avg_tension</BGM>:로빈...+저 때문에 로빈까지 위험에 노출될 필요는...
+AR15Mod(5);NPC-Machlian(6)<Speaker>지휘관</Speaker><Position>0,-50</Position>||:행여 적이 기습하더라도, 입구로밖에 진입할 수 없어.+그러면, 오히려 차에 있는 편이 적과 더 가까워져 버리지.+그리고 패러데우스를 상대론 댄들라이 곁보다 더 안전한 곳은 없잖아?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:그렇게 말씀하시니 부끄러워 몸 둘 바를 모르겠군요.
+AR15Mod(3)<Speaker>AR15</Speaker>;NPC-Machlian(6)<Position>0,-50</Position>||:전혀 그렇게 안 보이는데.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:......
+NPC-Machlian(8)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:...고마워요, 로빈.
+()<Speaker>지휘관</Speaker>||:자 집중하고, 마지막으로 지도를 검토한다.+잠입과 철수 경로 확인해.+이번엔 댄들라이가 전체 지형도도 만들었으니, 본 마을에서의 실수를 반복하지 말자고.+속전속결로 해치운다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:네.
+VP1915(0)<Speaker>페로사</Speaker>||:알겠습니다.
+()<Speaker>지휘관</Speaker>||:45?
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>우리 걱정은 안 해도 돼.</color>+<color=#00CCFF>벌써 잊었어? 우린 상황에 맞춰서 움직여.</color>
+UMP45Mod(0)<Speaker>지휘관</Speaker><通讯框>||:좋아, 그럼 모두 문제 없지?+준비 마치는 즉시 출발한다.
+RO635Mod(0)<Speaker>RO635</Speaker>||<黑屏1>:예!

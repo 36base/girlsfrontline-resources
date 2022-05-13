@@ -1,85 +1,85 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<narrator><BIN>187</BIN><黑屏2><BGM>GF_21summer_avg_Demon</BGM>:독일 국경지대.+그리폰 인형들을 잔뜩 실은 이동기지차량이, 저 멀리 지평선 너머로 꺼져 가는 석양을 향해 천천히 나아가고 있었다.
-()||<黑点1>:
-NPC-Helian(0)<Speaker>헬리안</Speaker>||<黑点2><BIN>202</BIN><SE1>AVG_door_elecport</SE1>:크루거 님, 곧 독일 영토로 진입합니다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:인형들 상태는 어떻지?
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:현재 순서대로 수복을 진행 중이지만, 소체를 교체하려면 IOP의 지원이 도착해야만 가능합니다.+심리 상태는 간신히 진정되었습니다만...
-NPC-Helian(3)<Speaker>헬리안</Speaker>||:...역시, 카리나보다는 잘 못하겠군요.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그래도 최선을 다하고 있지 않나. 카리나 쪽은 절차 다 끝났나?
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:네, 무사히 다른 병원으로 이송되었습니다. 현재 매우 안정적인 상태라 합니다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그래... 그럼 이제 기다릴 뿐이군.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:지휘관은 과연 괜찮을지――
-()<Speaker></Speaker>||<SE1>AVG_HeavyVehicle_Stop</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=7</controll_shake>:끼이익!+차량이 갑자기 급정거했다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:무슨 일이지?
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:확인해보겠습니다. 잉그램, 따라오렴.
-()||<黑点1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>187</BIN><黑点2><SE1>AVG_BaseDoor_Open</SE1><BGM>GF_21winter_battle_1</BGM>:헬리안은 MAC-10과 함께 기지 차량에서 내렸다.+차량이 급정거한 이유는, 길을 가로막은 독일 국경 검문소 제복을 입은 사람들 때문이었다.
-()<Speaker>국경 검문관</Speaker>||<SE1>ClothingUp</SE1>:독일 국경 검문소입니다, 입국 허가서를 보여 주십시오.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:안녕하십니까. 허가서라면 여기 있습니다.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:헬리안은 젤린스키가 마련해 준 허가 증명서를 검문관에게 건넸다.+검문관들은 이를 살펴보며, 때때로 잠시 자리를 옮겨 어딘가로 연락해 재차 무언가를 확인하는 듯했다.+헬리안은 목소리를 낮춰 의논하는 그들의 얼굴에서 상황이 심상치 않음을 눈치챘지만, 함부로 움직일 수는 없었다.
-()<Speaker>국경 검문관</Speaker>||:죄송합니다만, 이 입국 허가서는 효력이 정지되었습니다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:그게 무슨 뜻이죠?
-()<Speaker>국경 검문관</Speaker>||:방금 헬리안투스 씨와 브레조비치 크루거 씨가 국가 안전 위해 용의자로 수배 중임을 통보받았습니다.+현 시간부로 연행할 것이니 협조해 주시기 바랍니다.
-MAC10(0)<Speaker>MAC10</Speaker>||<SE1>AVG_XXS_kick</SE1><震屏3>:그건 또 무슨 헛소리야? 손 치워!
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:잉그램!
-()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1><SE1>Select</SE1>:헬리안은 MAC-10을 제지했다.+아니나 다를까, 잉그램이 험악하게 나오자 검문소에서 대기 중이던 무장인원들이 우르르 몰려나와 총을 겨눴다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:체포에 응하겠습니다. 하지만 크루거 님은 현재 거동이 어려운 부상자이므로 조치가 필요합니다.
-()<Speaker>국경 검문관</Speaker>||:알겠습니다, 우리 측에서 배정하겠습니다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:잉그램, 가서 모두에게 전달해. 수복은 예정대로 진행하면서 침착하게 우리가 돌아오길 기다리라고.
-MAC10(0)<Speaker>MAC10</Speaker>||:헬리안 씨, 저놈들 딱 봐도 수상해요. 정말 순순히 따라가시게요?
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:다른 수가 없잖니.
-()<Speaker></Speaker>||:헬리안은 가볍게 한숨을 뱉으며, 그녀를 향하는 총구 앞에서 양손을 들었다.
-()||<黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>357</BIN><BGM>BGM_Room</BGM>:베를린의 어느 세이프하우스.
-()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_connect</SE1>:약속과 다르잖습니까.
-NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>크리스마스에 선물로 문제집 받은 애 같은 말을 하네.</color>
-()<Speaker></Speaker>||:지휘관은 절레절레 고개를 저으며, 통신에 대고 한숨을 쉬었다. 다만 온갖 일이 벌어졌다 보니, 이런 상황이 크게 당황스럽지는 않았다.
-()<Speaker>지휘관</Speaker>||:제 쪽에서 해결 방법을 찾아보겠습니다... 먼저 훈작사에게 연락해보죠.
-NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>빨리 부탁할게, 나 이렇게 많은 인형들 관리 못 해...</color>
-NPC-Persica(3)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:인형들의 수복 진척은 어느 정도입니까?
-NPC-Persica(1)<Speaker>페르시카</Speaker><通讯框>||<震屏3>:<color=#00CCFF>응? 뭐야, 지금 나 재촉하는 거야?</color>+<color=#00CCFF>난 너네한테 휴가...가 아니라 보호받으러 온 몸이거든?</color>+<color=#00CCFF>그랬는데 지금은 너희 따라 떠돌이 신세가 됐다구. 그런 나를 재촉하는 거야 지금?</color>
-()<Speaker>지휘관</Speaker>||:아뇨, 그런 뜻은 아닙니다만...+그저, 정말 지원이 시급한 상황이라...
-()<Speaker></Speaker>||:지휘관은 잠시 침묵했다.
-()<Speaker>지휘관</Speaker>||:...당장 선봉대를 파견해야 합니다.+하지만 이건 훈작사에게 허가를 받지 않은 독단입니다.
-NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>흐음... 지휘관, 지금 좀 지휘관답지 않은걸.</color>+<color=#00CCFF>지원도 없고, 자금도 없고, 인력도 없다. 그럼 이대로 안젤리아를 포기할 셈이야?</color>
-NPC-Persica(3)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:아뇨, 그래도 구해낼 겁니다.
-NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그럼 됐잖아.</color>+<color=#00CCFF>지휘관이 하고 싶은 대로 해, 뭘 그렇게 신경쓰는 게 많아?</color>+<color=#00CCFF>나도 매일 아침 일어나면 꼭 커피 한 잔 마시지만, 그런다고 매일 일하지는 않는다고.</color>
-NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>본능과 직감에 따라 행동할 줄 알아야 하는 건 군인이나 과학자나 마찬가지야.</color>
-NPC-Persica(2)<Speaker>지휘관</Speaker><同时置暗><通讯框>||:......+페르시카 씨에게 그런 설교를 들으니 기분이 묘하네요.
-NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>지휘관은 지금 그냥 괜한 걱정이 많아서 그래.</color>
-NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>아직 안젤리아가 고양이를 기르는 걸 못 봤는데, 이대로 죽어버리면 아깝지...</color>
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>...좋아, 이렇게 하자. 지능파인 애를 하나 골라서 내 발명품이랑 같이 보낼게. 그 이상은 기대 마, 싸움에 도움 될 만한 건 다 써서 하나도 안 남았어.</color>
-NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그 녀석도 참, 실종되고서도 나한테 이렇게 수고나 끼치고 말이야...</color>
-NPC-Persica(3)<Speaker>지휘관</Speaker><同时置暗><通讯框>||:감사합니다.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그나저나, 그 회의실 쓸 만해? 나도 아직 테스트는 안 해봤는데.</color>
-()<Speaker>지휘관</Speaker>||:괜찮더군요. 잠시만요, 지금 피드백 데이터를 보내드리겠습니다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:베를린 교외, 본 마을 인근.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BGM>10254</BGM><黑屏2><BIN>318</BIN><SE1>AVG_wind_grass</SE1>:잡초로 무성해진 그곳은 바싹 말라 썩어 가는 시체투성이였다.+올가는 내심 역겨워하면서, 니토들을 지휘해 수색 작업을 펼치고 있었다.
-Nyto(1)<Speaker>검은 니토</Speaker>||<SE1>ClothingUp</SE1>:올가 언니, 필요 없는 쓰레기는 전부 청소했습니다.+시체의 손상도는 일정치 않고, 혈액도 응고된 지 오래되어 채취 가능한 샘플도 매우 한정적입니다.
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:무엇이 되었든 채집 가능한 샘플은 전부 상세히 기록해.+10876의 시체는 여전히 못 찾아냈어?
-Nyto(1)<Speaker>검은 니토</Speaker>||:예. 이 일대에서 현재까지 확보한 혈액 샘플을 전부 조사해봤지만, 데이터에 부합하는 것은 아직까지 발견되지 않았습니다.+그런데... 이 정도로 손상되어도, 회수할 가치가 있습니까?
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||<SE1>AVG_tele_connect</SE1>:시설의 검사는?
-()<Speaker>하얀 니토</Speaker><通讯框>||:<color=#00CCFF>올가 언니, 이곳의 생산 라인은 전부 사용이 불가능해졌습니다. 다만, 일부 설비에서 10876의 혈액 샘플을 찾았습니다.</color>
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:그럼 됐어. 그녀의 가치는 그것뿐이야.+이 실험은 실패했지만, 일부 성과는 회수할 수 있었어.
-Nyto(1)<Speaker>검은 니토</Speaker>||<BGM>BGM_Empty</BGM>:예.
-()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><BGM>GF_22W_BGM_1</BGM>:그때였다. 다른 방향에서, 길다란 그림자가 햇빛을 따라 바닥에 드리워, 올가의 시선을 끌었다.+차가운 바람에 외투와 머리카락이 나부끼는 소녀의 형상. 태양을 등지고 있음에도, 손에 들린 총은 눈부시게 번쩍였다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>494</BIN><黑屏2>:안면 검색...
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:■기록■ UO7483726405670987, 디코딩...
-()||<黑屏1>:
-NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||<黑屏2><BIN>318</BIN>:...즉시 네메아란 언니에게 전달.+그리폰 인형 M16A1을 발견――
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:......
-()<Speaker></Speaker>||<震屏3><BGM>10106</BGM><SE1>AVG_Punch_Hit</SE1>:<size=50>쿠웅!</size>+순식간에 접근한 M16A1이, 올가의 머리를 붙잡아 바닥에 처박았다.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||<SE1>AVG_21Winter_FT_Heel</SE1>:......
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||<SE1>Stop_AVG_loop</SE1>:M16A1... 일찍이 들어본 이름이구나.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:......
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:AR팀의 M16A1이냐, 아니면 철혈공조의 M16A1이냐?
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:널 저승으로 보내 버릴 M16이지.
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:옅은 미소를 지어보이며, 네메아란은 방어 모듈을 껐다.
-()<Speaker></Speaker>||<SE1>Battlefield</SE1><SE2>Gunfight</SE2><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:그리고, 그 이상 말이 필요 없다는 듯, 전광석화처럼 총탄이 날아들고 폭발이 일어났다.
-()<Speaker></Speaker>||<BIN>9</BIN><SE1>Explode</SE1>:퍼엉!!
-()<Speaker></Speaker>||:......+............
-()<Speaker></Speaker>||:최고의 사냥꾼과 최고의 사냥감의 추격전이 시작됐다.
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<narrator><BIN>187</BIN><黑屏2><BGM>GF_21summer_avg_Demon</BGM>:독일 국경지대.+그리폰 인형들을 잔뜩 실은 이동기지차량이, 저 멀리 지평선 너머로 꺼져 가는 석양을 향해 천천히 나아가고 있었다.
+()||<黑点1>:
+NPC-Helian(0)<Speaker>헬리안</Speaker>||<黑点2><BIN>202</BIN><SE1>AVG_door_elecport</SE1>:크루거 님, 곧 독일 영토로 진입합니다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:인형들 상태는 어떻지?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:현재 순서대로 수복을 진행 중이지만, 소체를 교체하려면 IOP의 지원이 도착해야만 가능합니다.+심리 상태는 간신히 진정되었습니다만...
+NPC-Helian(3)<Speaker>헬리안</Speaker>||:...역시, 카리나보다는 잘 못하겠군요.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그래도 최선을 다하고 있지 않나. 카리나 쪽은 절차 다 끝났나?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:네, 무사히 다른 병원으로 이송되었습니다. 현재 매우 안정적인 상태라 합니다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그래... 그럼 이제 기다릴 뿐이군.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:지휘관은 과연 괜찮을지――
+()<Speaker></Speaker>||<SE1>AVG_HeavyVehicle_Stop</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=7</controll_shake>:끼이익!+차량이 갑자기 급정거했다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:무슨 일이지?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:확인해보겠습니다. 잉그램, 따라오렴.
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>187</BIN><黑点2><SE1>AVG_BaseDoor_Open</SE1><BGM>GF_21winter_battle_1</BGM>:헬리안은 MAC-10과 함께 기지 차량에서 내렸다.+차량이 급정거한 이유는, 길을 가로막은 독일 국경 검문소 제복을 입은 사람들 때문이었다.
+()<Speaker>국경 검문관</Speaker>||<SE1>ClothingUp</SE1>:독일 국경 검문소입니다, 입국 허가서를 보여 주십시오.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:안녕하십니까. 허가서라면 여기 있습니다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:헬리안은 젤린스키가 마련해 준 허가 증명서를 검문관에게 건넸다.+검문관들은 이를 살펴보며, 때때로 잠시 자리를 옮겨 어딘가로 연락해 재차 무언가를 확인하는 듯했다.+헬리안은 목소리를 낮춰 의논하는 그들의 얼굴에서 상황이 심상치 않음을 눈치챘지만, 함부로 움직일 수는 없었다.
+()<Speaker>국경 검문관</Speaker>||:죄송합니다만, 이 입국 허가서는 효력이 정지되었습니다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:그게 무슨 뜻이죠?
+()<Speaker>국경 검문관</Speaker>||:방금 헬리안투스 씨와 브레조비치 크루거 씨가 국가 안전 위해 용의자로 수배 중임을 통보받았습니다.+현 시간부로 연행할 것이니 협조해 주시기 바랍니다.
+MAC10(0)<Speaker>MAC10</Speaker>||<SE1>AVG_XXS_kick</SE1><震屏3>:그건 또 무슨 헛소리야? 손 치워!
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:잉그램!
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1><SE1>Select</SE1>:헬리안은 MAC-10을 제지했다.+아니나 다를까, 잉그램이 험악하게 나오자 검문소에서 대기 중이던 무장인원들이 우르르 몰려나와 총을 겨눴다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:체포에 응하겠습니다. 하지만 크루거 님은 현재 거동이 어려운 부상자이므로 조치가 필요합니다.
+()<Speaker>국경 검문관</Speaker>||:알겠습니다, 우리 측에서 배정하겠습니다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:잉그램, 가서 모두에게 전달해. 수복은 예정대로 진행하면서 침착하게 우리가 돌아오길 기다리라고.
+MAC10(0)<Speaker>MAC10</Speaker>||:헬리안 씨, 저놈들 딱 봐도 수상해요. 정말 순순히 따라가시게요?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:다른 수가 없잖니.
+()<Speaker></Speaker>||:헬리안은 가볍게 한숨을 뱉으며, 그녀를 향하는 총구 앞에서 양손을 들었다.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>357</BIN><BGM>BGM_Room</BGM>:베를린의 어느 세이프하우스.
+()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_connect</SE1>:약속과 다르잖습니까.
+NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>크리스마스에 선물로 문제집 받은 애 같은 말을 하네.</color>
+()<Speaker></Speaker>||:지휘관은 절레절레 고개를 저으며, 통신에 대고 한숨을 쉬었다. 다만 온갖 일이 벌어졌다 보니, 이런 상황이 크게 당황스럽지는 않았다.
+()<Speaker>지휘관</Speaker>||:제 쪽에서 해결 방법을 찾아보겠습니다... 먼저 훈작사에게 연락해보죠.
+NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>빨리 부탁할게, 나 이렇게 많은 인형들 관리 못 해...</color>
+NPC-Persica(3)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:인형들의 수복 진척은 어느 정도입니까?
+NPC-Persica(1)<Speaker>페르시카</Speaker><通讯框>||<震屏3>:<color=#00CCFF>응? 뭐야, 지금 나 재촉하는 거야?</color>+<color=#00CCFF>난 너네한테 휴가...가 아니라 보호받으러 온 몸이거든?</color>+<color=#00CCFF>그랬는데 지금은 너희 따라 떠돌이 신세가 됐다구. 그런 나를 재촉하는 거야 지금?</color>
+()<Speaker>지휘관</Speaker>||:아뇨, 그런 뜻은 아닙니다만...+그저, 정말 지원이 시급한 상황이라...
+()<Speaker></Speaker>||:지휘관은 잠시 침묵했다.
+()<Speaker>지휘관</Speaker>||:...당장 선봉대를 파견해야 합니다.+하지만 이건 훈작사에게 허가를 받지 않은 독단입니다.
+NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>흐음... 지휘관, 지금 좀 지휘관답지 않은걸.</color>+<color=#00CCFF>지원도 없고, 자금도 없고, 인력도 없다. 그럼 이대로 안젤리아를 포기할 셈이야?</color>
+NPC-Persica(3)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:아뇨, 그래도 구해낼 겁니다.
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그럼 됐잖아.</color>+<color=#00CCFF>지휘관이 하고 싶은 대로 해, 뭘 그렇게 신경쓰는 게 많아?</color>+<color=#00CCFF>나도 매일 아침 일어나면 꼭 커피 한 잔 마시지만, 그런다고 매일 일하지는 않는다고.</color>
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>본능과 직감에 따라 행동할 줄 알아야 하는 건 군인이나 과학자나 마찬가지야.</color>
+NPC-Persica(2)<Speaker>지휘관</Speaker><同时置暗><通讯框>||:......+페르시카 씨에게 그런 설교를 들으니 기분이 묘하네요.
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>지휘관은 지금 그냥 괜한 걱정이 많아서 그래.</color>
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>아직 안젤리아가 고양이를 기르는 걸 못 봤는데, 이대로 죽어버리면 아깝지...</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>...좋아, 이렇게 하자. 지능파인 애를 하나 골라서 내 발명품이랑 같이 보낼게. 그 이상은 기대 마, 싸움에 도움 될 만한 건 다 써서 하나도 안 남았어.</color>
+NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그 녀석도 참, 실종되고서도 나한테 이렇게 수고나 끼치고 말이야...</color>
+NPC-Persica(3)<Speaker>지휘관</Speaker><同时置暗><通讯框>||:감사합니다.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그나저나, 그 회의실 쓸 만해? 나도 아직 테스트는 안 해봤는데.</color>
+()<Speaker>지휘관</Speaker>||:괜찮더군요. 잠시만요, 지금 피드백 데이터를 보내드리겠습니다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:베를린 교외, 본 마을 인근.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>10254</BGM><黑屏2><BIN>318</BIN><SE1>AVG_wind_grass</SE1>:잡초로 무성해진 그곳은 바싹 말라 썩어 가는 시체투성이였다.+올가는 내심 역겨워하면서, 니토들을 지휘해 수색 작업을 펼치고 있었다.
+Nyto(1)<Speaker>검은 니토</Speaker>||<SE1>ClothingUp</SE1>:올가 언니, 필요 없는 쓰레기는 전부 청소했습니다.+시체의 손상도는 일정치 않고, 혈액도 응고된 지 오래되어 채취 가능한 샘플도 매우 한정적입니다.
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:무엇이 되었든 채집 가능한 샘플은 전부 상세히 기록해.+10876의 시체는 여전히 못 찾아냈어?
+Nyto(1)<Speaker>검은 니토</Speaker>||:예. 이 일대에서 현재까지 확보한 혈액 샘플을 전부 조사해봤지만, 데이터에 부합하는 것은 아직까지 발견되지 않았습니다.+그런데... 이 정도로 손상되어도, 회수할 가치가 있습니까?
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||<SE1>AVG_tele_connect</SE1>:시설의 검사는?
+()<Speaker>하얀 니토</Speaker><通讯框>||:<color=#00CCFF>올가 언니, 이곳의 생산 라인은 전부 사용이 불가능해졌습니다. 다만, 일부 설비에서 10876의 혈액 샘플을 찾았습니다.</color>
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||:그럼 됐어. 그녀의 가치는 그것뿐이야.+이 실험은 실패했지만, 일부 성과는 회수할 수 있었어.
+Nyto(1)<Speaker>검은 니토</Speaker>||<BGM>BGM_Empty</BGM>:예.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><BGM>GF_22W_BGM_1</BGM>:그때였다. 다른 방향에서, 길다란 그림자가 햇빛을 따라 바닥에 드리워, 올가의 시선을 끌었다.+차가운 바람에 외투와 머리카락이 나부끼는 소녀의 형상. 태양을 등지고 있음에도, 손에 들린 총은 눈부시게 번쩍였다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>494</BIN><黑屏2>:안면 검색...
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:■기록■ UO7483726405670987, 디코딩...
+()||<黑屏1>:
+NytoWhite(0)<Speaker>올가</Speaker><Position>0,50</Position>||<黑屏2><BIN>318</BIN>:...즉시 네메아란 언니에게 전달.+그리폰 인형 M16A1을 발견――
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:......
+()<Speaker></Speaker>||<震屏3><BGM>10106</BGM><SE1>AVG_Punch_Hit</SE1>:<size=50>쿠웅!</size>+순식간에 접근한 M16A1이, 올가의 머리를 붙잡아 바닥에 처박았다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||<SE1>AVG_21Winter_FT_Heel</SE1>:......
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||<SE1>Stop_AVG_loop</SE1>:M16A1... 일찍이 들어본 이름이구나.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:......
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:AR팀의 M16A1이냐, 아니면 철혈공조의 M16A1이냐?
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:널 저승으로 보내 버릴 M16이지.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:옅은 미소를 지어보이며, 네메아란은 방어 모듈을 껐다.
+()<Speaker></Speaker>||<SE1>Battlefield</SE1><SE2>Gunfight</SE2><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:그리고, 그 이상 말이 필요 없다는 듯, 전광석화처럼 총탄이 날아들고 폭발이 일어났다.
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>Explode</SE1>:퍼엉!!
+()<Speaker></Speaker>||:......+............
+()<Speaker></Speaker>||:최고의 사냥꾼과 최고의 사냥감의 추격전이 시작됐다.
+()||<黑点1>:

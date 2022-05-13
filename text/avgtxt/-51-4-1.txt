@@ -1,152 +1,152 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<common_effect>%%code=AllSeeingEye04%%</common_effect>:……
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator><BGM>GF_21winter_avg_mahaline</BGM>:아이네이아스 회의실 통신 채널 - 녹화 모드 작동 중.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑点2><BIN>85</BIN>:숨막히는 조용한 분위기.+회의실의 모두가 현재 상황을 인지했고, 그래서 아무도 먼저 입을 열지 않았다.+그저, RO635를 기다렸다.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>현재 외부와의 연결이 완전히 두절된 것을 확인했습니다. 언제 다시 정상화될지는 미지수입니다.</color>+<color=#00CCFF>지휘관님과의 통신이 불가능하기에, 녹화 모드를 가동했습니다.</color>+<color=#00CCFF>이러면 이후에 통신 연결이 회복됐을 때, 지휘관님이 임무 상황을 확인하실 수 있겠죠.</color>
-()<Speaker></Speaker>||:인형들은 약간 기대를 품으며 지휘관의 모습이 나타날 방향을 바라봤다.+하지만 지금은 가상 모니터 대신 무감정한 카메라만이 그녀들과 마주보고 있을 뿐이었다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:여태까지의 회의 때와 마찬가지로, RO635는 지휘관 쪽을 향해 살짝 고개를 숙여 인사했다.
-()||<黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker>RO635</Speaker>||<黑屏2><BIN>458</BIN><SE1>AVG_NightVision_Start</SE1>:<color=#00CCFF>그럼, 지금부터 아이네이아스 작전 회의를 시작하겠습니다. 우리의 임무는 여섯 단계로 나뉩니다.</color>
-()<Speaker></Speaker>||<BGM>GF_22W_BGM_2</BGM>:일행의 복잡한 시선을 받으며, RO635는 담담하게 작전 내용을 설명했다.
-()<Speaker>RO635</Speaker>||<SE1>ClothingUp</SE1>:<color=#00CCFF>팀의 역할은 세 가지로 나뉘며, 각각 지원팀, 유인팀, 그리고 수색팀입니다.</color>+<color=#00CCFF>임무 제1단계는 적 본거지의 에너지 공급원의 위치를 찾는 것입니다. 먼저, 지원팀으로... 체스 마스터.</color>
-()<Speaker>XM8</Speaker>||:<color=#00CCFF>있어.</color>
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>저 탑의 에너지 공급을 차단해야만 우리의 침투 준비 작업이 완료돼.</color>+<color=#00CCFF>실패하면 만반의 준비를 했을 적에게, 우리가 잠입하자마자 발각되고 말아.</color>
-()<Speaker>UMP45</Speaker>||:<color=#00CCFF>좋은 생각이긴 한데, 쟤네가 과연 대비책 하나 없을까?</color>+<color=#00CCFF>저렇게 거대한 부유 건물에 예비 동력원이 없을 리가 없다고.</color>
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>그렇겠지... 하지만 한 차례라도 주 공급선을 절단하는 것만으로도 우리가 잠입하기에 충분한 혼란을 일으킬 거야.</color>
-()<Speaker>XM8</Speaker>||:<color=#00CCFF>흠... 어, 잠깐. 아니 설마, 나 혼자 하라고?! 진짜 실패하면 어쩔 건데!? 난 무투파가 아니라 두뇌파란 말이야!</color>
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>첫 번째 상황으로, 네가 현장에 도달했는데 임무 수행이 불가능하다 판단될 때. 그땐 즉시 보고하도록 해.</color>+<color=#00CCFF>그럼 우린 그 단계를 무시하고 바로 다음 단계로 넘어갈 거고, 너는 양동으로 놈들한테 혼란을 일으키다, 우리가 잠입에 성공하면 바로 퇴각하도록 해.</color>
-()<Speaker>XM8</Speaker>||:<color=#00CCFF>두 번째 상황은?</color>
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>네가 임무를 달성했지만 적이 예비책을 동원하거나, 혹은 포위당해 퇴각이 불가능할 때.</color>+<color=#00CCFF>퇴각을 최우선으로 하되, 부득이할 경우... 전력을 다해 말썽을 일으켜 줘.</color>
-()<Speaker>XM8</Speaker>||:<color=#00CCFF>......</color>
-()<Speaker></Speaker>||:그 말인 즉슨, 무슨 일이 있어도 XM8은 갖은 수단을 총동원해 패러데우스의 주의를 끌어야 한다는 뜻이었다.+그녀 자신을 희생양 삼아서라도.
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>이런 가혹한 임무를 맡겨서, 정말 미안해...</color>+<color=#00CCFF>하지만 어쩔 수 없어. 이번 작전은 우리 모두가 말 그대로 모든 걸 걸어야만 해.</color>
-()<Speaker></Speaker>||:그 말에, XM8은 피식 웃으며 답했다.
-()<Speaker>XM8</Speaker>||:<color=#00CCFF>킥킥, 염려 붙들어 매셔. 말썽 일으키는 건 내가 또 전문이지.</color>+<color=#00CCFF>정 안 될 거 같음 그냥 가까이 가서 수류탄 20개쯤 까 던지고 튀어도 되는 거지?</color>
-()<Speaker></Speaker>||:여유롭게 웃으며 농담했지만, 모두 난처하게 눈웃음만 지을 뿐 맞장구쳐 주진 않았다.
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>다음은 제2단계... 유니콘.</color>
-()<Speaker>UMP45</Speaker>||:<color=#00CCFF>응.</color>
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>두 분은 전투에 참여할 필요는 없지만, 어떻게서든 회의실의 신호를 사수해야만 합니다.</color>+<color=#00CCFF>즉, 엄밀히 따지면 제1단계와 제2단계는 동시에 진행돼요.</color>+<color=#00CCFF>유니콘 팀도 마찬가지로 지원팀으로서, 비록 지휘관님과 연락이 닿진 않지만, 임무 중 우리의 통신이 원활하도록 신호를 유지해 주세요.</color>
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>사실상 가장 중요한 요소죠. 작전 도중 팀 간의 통신이 두절되면, 그 즉시 임무 실패나 다름없어요.</color>
-()<Speaker>UMP45</Speaker>||:<color=#00CCFF>...알았어, 맡겨 줘.</color>
-()<Speaker>UMP9</Speaker>||:<color=#00CCFF>그럼 여기서 모두가 무사히 돌아오길 기다릴게!</color>
-()<Speaker>모나</Speaker>||:<color=#00CCFF>저, 일부러 비관적으로 말하는 것은 아닙니다만... 만약 패러데우스가 눈치채고 개입할 경우엔 어떡하죠?</color>
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>그래서 지금 전체적인 계획을 짜는 겁니다.</color>+<color=#00CCFF>만약, 작전팀 간 연락이 두절될 경우...</color>+<color=#00CCFF>지금 우리가 구상하는 계획대로, 계속 움직입니다. 대신 상황에 따라 임기응변해야겠죠.</color>
-()<Speaker>UMP45</Speaker>||:<color=#00CCFF>물론 그럴 일 없기를 기도해야겠지만. 진짜 그런 상황이 닥치면 아마 뭘 해도 끝장일걸?</color>+<color=#00CCFF>이 정도 머릿수로 기습하는 걸 들키면, 그냥 나 잡아 잡수 하는 셈이지.</color>
-()<Speaker>모나</Speaker>||:<color=#00CCFF>......</color>
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>이어서, 제3단계인 유인팀으로... 철분.</color>
-()<Speaker>게이저</Speaker>||:<color=#00CCFF>......</color>
-()<Speaker></Speaker>||:RO635는 두 철혈 인형을 보며 살짝 머뭇했다.+게이저는 그런 RO635를 조용히 마주봤고,+아키텍트는 다 눈치챘다는 듯 씨익 웃었다.
-()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>히히히, 아암~ 우리가 여기 에이스지이~</color>+<color=#00CCFF>걱정 말고 제~일 중요한 임무 맡기라고. 우리가 실패할 거 같아?</color>
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>...너희는, 정면에서 적을 도발해야 해.</color>+<color=#00CCFF>구체적으로 말하자면, 저 탑의 토대 위로 올라 거기서 크게 날뛰는 거지.</color>+<color=#00CCFF>분명 셀 수도 없이 많은 병력이 몰려올 테고...</color>+<color=#00CCFF>상급 니토와도 조우할 수 있는데다, 그게 하나만이란 보장도 없어.</color>
-()<Speaker>게이저</Speaker>||:<color=#00CCFF>......</color>
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>이 임무를 맡을 팀은 우리 중 화력이 가장 높은 너희뿐이야.</color>
-()<Speaker></Speaker>||:게이저는 아키텍트에게 시선을 돌리고 뭔가 말하려는 눈치였지만, 아키텍트가 먼저 입을 열었다.
-()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>적의 현관 앞에서 날뛰라고? 그 정돈 되어야 에이스 노릇하는 맛이 나지.</color>
-()<Speaker>게이저</Speaker>||:<color=#00CCFF>...시간은? 얼마나 버티면 되지?</color>
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>너희가 할 수 있는 최대한.</color>+<color=#00CCFF>우린 저 탑 내부가 어떤지도 모르고, 안젤리아가 수감된 위치도 몰라.</color>+<color=#00CCFF>수색을 맡을 우리가 어떻게든 최대한 빨리 내부를 뒤지겠지만, 얼마나 걸릴지는... 예상도 못 하겠어.</color>
-()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>그럼 우리가 못 버티면, 우리 잡으러 나왔던 놈들이 돌아가서 너희를 아주 가루로 만들어 버리겠네?</color>
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>...응.</color>
-()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>그렇게 막중한 임무를 진짜 우리에게 맡길 거야?</color>+<color=#00CCFF>내 입으로 말하긴 뭣하지만, 우리 철혈이다? 우릴 그렇게 믿어?</color>
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>응.</color>
-()<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>믿고 맡기는 거니까 잘해! 네가 잘하면 돌아가서 내 다리 뜯게 해줄게!</color>
-()<Speaker>아키텍트</Speaker>||:<color=#00CCFF><size=50>푸하하하핫!!</size></color>+<color=#00CCFF>좋아, 너 나중에 말 바꾸지 마라~? 게이저, 우리 열심히 하자!</color>
-()<Speaker>게이저</Speaker>||:<color=#00CCFF>네가 그리하겠다면, 나도 함께하겠다.</color>+<color=#00CCFF>하지만 의지만으로는 아무 소용 없다는 것은 사실이다. 버티지 못한다면 그대로 끝이야.</color>+<color=#00CCFF>탑 내부로의 잠입 및 수색은 은폐를 유지해야 하니, 여차할 시 너희의 지원을 기대할 수도 없지.</color>+<color=#00CCFF>저 군단을 상대로, 우리는 그리 오래 못 버틴다.</color>
-()<Speaker>RO635</Speaker>||<SE1>ClothingUp</SE1>:<color=#00CCFF>알아. 그래서 제5단계로 동탑과 서탑 각각에서도 소란을 일으킬 거야.</color>+<color=#00CCFF>그러면 너희에게 부담을 덜어 줄 수 있겠지.</color>
-()<Speaker>모나</Speaker>||:<color=#00CCFF>그건 누가 맡죠?</color>
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>...지휘관님의 지원 병력입니다.</color>+<color=#00CCFF>그들이 각자 양쪽에서 진입할 겁니다..</color>
-()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>그거 기대되는걸~</color>
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>그럼 제4단계인 수색팀으로, 질소.</color>
-()<Speaker>모나</Speaker>||:<color=#00CCFF>예.</color>
-()<Speaker>RO635</Speaker>||<SE1>ClothingUp</SE1>:<color=#00CCFF>우리가 초소에서 노획한 비행기 3대 중 한 대는 저와 SOP2가 사용합니다.</color>+<color=#00CCFF>나머지 2대는 여러분이 사용하세요.</color>+<color=#00CCFF>철분 팀이 행동을 개시하면, 우리는 비행기를 타고 30~40층에 위치한 것으로 보이는 저 연결 다리로 날아갑니다.</color>+<color=#00CCFF>거기에 착륙한 다음, 우리와 합류해 수색을 개시합니다.</color>
-()<Speaker>9호</Speaker>||:<color=#00CCFF>합류 실패 시에는?</color>
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>그럼 플랜 B로 갈라져서 움직입니다.</color>+<color=#00CCFF>다리까지 도달하지 못하거나 다리에서 이탈하지 못하는 최악의 경우, 플랜 C로 그쪽도 유인팀으로 역할을 전환합니다.</color>
-()<Speaker>모나</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>알겠습니다.</color>
-()<Speaker></Speaker>||<黑屏2><BIN>85</BIN>:모나는 주저하지 않고 고개를 끄덕였다.
-SP9(3)<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>상황이 악화된다면, 저희도 철분 팀을 도와 미끼가 되겠습니다.</color>+<color=#00CCFF>하지만 우리 모두 언제까지고 버틸 수는 없어요. 적진 한복판이니, 퇴각 수단으로 사용할 비행기를 반드시 확보해야만 합니다.</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>인지하고 있습니다... 그렇기에 유니콘 팀이 끝까지 회의실의 신호를 유지해야 해요.</color>+<color=#00CCFF>우리에게 시간이 얼마나 주어질지 아무도 모르니, 1분 1초가 마지막으로 주어진 시간이라 생각하면서 행동하세요.</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>그리고, 이 계획의 최종 목표... "제0단계".</color>+<color=#00CCFF>목표 안젤리아의 신변을 확보하여, 베를린까지 호송하는 것입니다.</color>
-Rhino(0)<Speaker>라이노</Speaker><通讯框>||:<color=#00CCFF>나 질문. 진짜 전부 순조롭게 잘 풀려서, 그 안젤리아란 사람을 찾았다고 쳐.</color>+<color=#00CCFF>어떻게 데리고 돌아갈 거야?</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>지금 설명하려던 참입니다.</color>+<color=#00CCFF>모두 아시다시피, 우린 현재 블랙존에 있습니다. 초고농도의 붕괴 입자는 이런 곳에 자리를 잡은 패러데우스에게도 위험합니다.</color>+<color=#00CCFF>이런 위험 지역을 드나드는 수송 차량의 화물칸에는 반드시 방사능 차폐 산소 캡슐이 존재합니다.</color>+<color=#00CCFF>그것으로 안젤리아를 호송할 겁니다. 적어도 블랙존을 벗어날 때까지.</color>
-SP9(3)<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>하지만 그러면 이동 속도가 크게 저하될 텐데요.</color>
-Rhino(0)<Speaker>라이노</Speaker><通讯框>||:<color=#00CCFF>인질을 구출하더라도 적의 추격을 저지할 사람이 필요하단 거네...</color>
-()<Speaker>일동</Speaker>||:<color=#00CCFF>......</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>...신속히 움직인다면, 신호 차폐망을 벗어나는 즉시 지원을 받을 수 있습니다.</color>
-SP9(3)<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>하지만 우리의 적은 매우 강력한 데다, 저곳은 놈들의 본거지예요.</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>그렇죠. 적에 관해서, 현재까지 우리가 얻은 정보에 의하면 상급 니토는 총 6명입니다.</color>+<color=#00CCFF>구출 단계에서든 철수 단계에서든, 그들이야말로 가장 큰 장애물이에요.</color>
-NPC-grig(0)<Speaker>9호</Speaker><同时置暗>||<黑屏2><BIN>456</BIN>:<color=#00CCFF>우선 그 "틸"이란 녀석.</color>+<color=#00CCFF>속도만 무지막지한 게 아니라, 검술도 어마어마하게 강했어.</color>
-NPC-grig(0)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>예, 하지만 대처법만 숙지하면 그리 어려운 상대는 아닙니다.</color>+<color=#00CCFF>틸의 고속이동은 지형에 매우 큰 영향을 받으며, 원거리 공격 수단은 없다시피 합니다.</color>+<color=#00CCFF>그러니 그녀의 행동 범위를 제한하며 맞대응한다면, 제압도 불가능은 아니에요.</color>
-()<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>브라메드와 그레이는요?</color>
-NPC-Bramedb(3)<Speaker>UMP45</Speaker><同时置暗>||:<color=#00CCFF>브라메드는 몸으로 때우는 스타일이 아니라 전자전이 특기야.</color>+<color=#00CCFF>하지만 아무리 연산력이 뛰어나더라도, 다수의 상대를 동시에 해킹하기는 힘들지.</color>+<color=#00CCFF>원거리 견제로 살살 약올리면서 정신 집중을 방해하면 어려울 거 없어. 전자전 전문가의 의견이야.</color>
-NPC-MrsGray(9)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>그레이는 이렇다 할 단점이 없지만, 뚜렷한 장점도 없습니다.</color>+<color=#00CCFF>자체적인 능력은 상급 니토들 중에서도 평범한 편이니, 마찬가지로 원거리 공격 수단이 없다는 점을 이용해 원거리 견제와 폭파로 돌파할 수 있습니다.</color>
-NPC-Morridow(9)<Speaker>UMP9</Speaker><同时置暗>||:<color=#00CCFF>몰리도는 말할 필요도 없겠지? 지금 수복하느라 바쁠 테니.</color>
-NPC-Morridow(9)<Speaker>UMP9</Speaker><同时置暗>||:<color=#00CCFF>...근데 니토는 어떻게 수복한대?</color>
-NPC-Morridow(9)<Speaker>M4 SOPMOD II</Speaker><同时置暗>||:<color=#00CCFF>글쎄? 다음에 한 놈 잡아다 뜯어봐야겠다.</color>
-NPC-Morridow(9)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>몰리도는 행동이 가능하더라도 지휘자 역할을 맡고 있을 겁니다. 그녀를 직접 상대할 가능성은 낮아요.</color>+<color=#00CCFF>다만, 만약 몰리도와 조우한다면 그녀보다는 그녀 옆에 있을 녀석을 조심해야 합니다.</color>
-()<Speaker>아키텍트</Speaker>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>그럼 가장 큰 문제는...</color>
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>......</color>
-()<Speaker>모나</Speaker>||:<color=#00CCFF>......</color>
-Narciss(2)<Speaker>UMP45</Speaker><同时置暗>||<BGM>BGM_stage10</BGM>:<color=#00CCFF>역시 나르시스겠네.</color>
-Narciss(2)<Speaker>모나</Speaker><同时置暗>||:<color=#00CCFF>그녀가 언제 어디서 나타날지는 예상하기 힘듭니다.</color>
-Narciss(2)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>그녀가 어디에 나타나든... 대응 방침은 하나뿐입니다.</color>
-Narciss(2)<Speaker>게이저</Speaker><同时置暗>||:<color=#00CCFF>뭐지?</color>
-Narciss(2)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>도망치세요.</color>+<color=#00CCFF>교전해본 경험상, M4 씨와 댄들라이가 없는 지금 나르시스를 상대로 이길 가능성은 0에 수렴합니다.</color>
-Narciss(2)<Speaker>아키텍트</Speaker><同时置暗>||:<color=#00CCFF>역시 줄행랑이 최고지.</color>
-()<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>어라? 그런데 걔까지 합해도 다섯이네? 나머지 하나는 누구야?</color>
-()<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>마지막 하나는 다른 출처를 통해 입수한 정보입니다.</color>+<color=#00CCFF>다만 이렇다 할 정보는 없어, 그저 또 한 명의 상급 니토라는 것밖에 모릅니다.</color>+<color=#00CCFF>참고 자료가 한정적이니, 조우할 경우 경계를 늦추지 마세요.</color>
-()<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>알겠습니다.</color>
-()<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>만약 이상의 여섯 명 이외의 강적과 조우할 경우, 즉시 최우선 목표를 그 강적의 정보를 확보하는 것으로 변경합니다.</color>
-()<Speaker>일동</Speaker>||<黑屏1>:<color=#00CCFF>...라저.</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||<黑屏2><BIN>85</BIN>:<color=#00CCFF>탑 내부의 상황에 대해, 우리는 아는 것이 전혀 없습니다.</color>+<color=#00CCFF>그러니, 계획을 수립했더라도 상황에 맞춰 유연하게 행동해야 합니다.</color>+<color=#00CCFF>어쩌면 도중에 희생자가 발생할 수도 있죠. 하지만 지금 우리에겐 전사자의 코어를 회수할 여유는 없을 것으로 보입니다.</color>+<color=#00CCFF>그러니, 임무 목표 달성을 우선시하되 각자 자신의 안전에 유념해 주세요. 특히 너 말이야, SOP2.</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>알았어 알았어.</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>그리고 45 씨?</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>왜?</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>방금 말한 증원이 도착하면, 그들에게도 회의실 권한을 개방해 주세요.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>그럴게.</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>더 오는 애들은 누구야?</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>때가 되면 알게 돼.</color>
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>나한테도 비밀이야!?</color>
-()||<BGM>BGM_Empty</BGM>:
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>이상이 전체 계획입니다. 질문 사항 있습니까?</color>
-()<Speaker></Speaker>||:작전 계획의 내용을 살펴본 인형들은, 아무도 의문을 제기하지 않고 조용히 기다렸다.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||<SE1>Select</SE1>:<color=#00CCFF>다들 문제 없나 보네! 그럼 당장 출발하자! ...RO?</color>
-()<Speaker></Speaker>||:하지만 RO635는 바로 작전 개시 명령을 내리지 않았다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>......</color>+<color=#00CCFF>여러분의 표정을 보니, 아직 의문이나 우려하는 점이 남아있다는 게 느껴져요.</color>+<color=#00CCFF>녹화 모드는 방금 껐으니 개의치 말고 털어놔도 돼요.</color>
-SP9(0)<Speaker>모나</Speaker>||:<color=#00CCFF>......</color>
-BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:<color=#00CCFF>......</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>10258</BGM>:<color=#00CCFF>이해합니다. 이번 임무는 모두에게 여태까지 수행했던 그 어떤 임무와도 차원이 다르니까요.</color>+<color=#00CCFF>목표, 난이도, 후속 조치까지 전부 위험천만하고, 무엇 하나 확실하게 보장되지 않는 모험이죠.</color>+<color=#00CCFF>아예 까놓고 말할까요? 이건 그냥 죽으러 가는 짓입니다.</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>RO...</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>이해해요. 여러분 모두 이렇게 묻고 싶은 마음이 굴뚝 같겠죠. "왜 우리가 자살 행위나 다름없는 일을 해야 하나? 이 임무가 우리의 목숨을 걸 만큼 가치가 있나?"</color>+<color=#00CCFF>하지만 여러분의 직업 정신, 사명이 그렇게 묻지 못하도록 막고 있을 거예요.</color>
-SP9(0)<Speaker>모나</Speaker>||:<color=#00CCFF>예, 인정합니다. 신소련 안전국의 요원 한 명 구출하려고 이렇게까지 희생을 해야 하나, 처음부터 고민했습니다.</color>+<color=#00CCFF>그저 "죽음의 바다"를 정찰하는 임무였다면 훨씬 부담감도 적었을 텐데.</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>맞아요. 연약한 인간 한 명 포기한다면 아무리 블랙존이라도 조금은 더 여유를 가지고 움직일 수 있겠죠.</color>+<color=#00CCFF>그래서, 왜 우리가 이 임무를 한다고 생각하십니까?</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>왜 우리가 우리의 모든 것을 걸고 인간 한 명을 구출해야 하는지, 어떻게 생각하세요?</color>
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:대답할 수 없는 질문에, 인형들은 RO635의 시선을 피했다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>여러분이 받은 정보에, 구출 대상인 안젤리아에 관해서는 몇 마디의 서술이 전부죠?</color>+<color=#00CCFF>제가 보충하겠습니다.</color>
-()||<黑屏1>:
-NPC-Ange(0)<Speaker>RO635</Speaker><同时置暗>||<BIN>9</BIN><黑屏2>:<color=#00CCFF>안젤리아 씨는 확실히, 평범한 인간입니다. 전쟁과, 유적의 힘이 불온한 자의 손에 떨어지는 것을 막기 위해 세계 각지를 돌며 활약한 인간.</color>
-()||<黑屏1>:
-()<Speaker>RO635</Speaker>||<黑屏2><BIN>456</BIN>:<color=#00CCFF>그 사람이 왜 그랬냐면, 유적의 힘이 남용된다면 전 세계가 지금 우리 발밑처럼 될 것임을 잘 알고 있기 때문입니다.</color>
-()<Speaker></Speaker>||:그 말을 들은 몇 명은 현실의 주위를 무심코 다시 한번 둘러봤다. 인간이 아닌 생물은 물론, 인형조차 생존이 불가능한, 이 세계의 종말 같은 "죽음의 바다"를.
-()||<黑屏1>:
-()<Speaker>RO635</Speaker>||<黑屏2><BIN>133</BIN>:<color=#00CCFF>제가 안젤리아 씨의 이름을 처음 들은 것은, 그녀가 반군의 음모를 저지하고자, 죽음을 불사하고 붕괴액 더티밤을 기폭했을 때였습니다. </color>
-()<Speaker>모나</Speaker>||:<color=#00CCFF>저번 회의의 그것 말이군요... 그녀가 살아남았다는 사실에 정말 놀랐습니다.</color>
-()<Speaker>라이노</Speaker>||:<color=#00CCFF>하지만 인간이 지근거리에서 붕괴 복사에 피폭되면...</color>
-()<Speaker></Speaker>||:라이노는 말꼬리를 흐렸다.
-()||<黑屏1>:
-()<Speaker>RO635</Speaker>||<黑屏2><BIN>280</BIN>:<color=#00CCFF>맞아요, 그 폭발과 붕괴 복사 낙진으로 인해 그녀는 사선을 넘나들었습니다. 하지만 견뎌내고, 계속 자신의 사명을 수행했어요.</color>+<color=#00CCFF>그리고 베오그라드, 탈린, 팔디스키를 넘어 독일까지 왔죠.</color>+<color=#00CCFF>그 와중에 또 몇 번이고 죽음과 대면했지만, 그녀는 단 한 번도 신념을 굽히지 않았습니다.</color>
-()||<黑屏1>:
-SP9(0)<Speaker>모나</Speaker>||<黑屏2><BIN>85</BIN>:<color=#00CCFF>...같은 요원으로서, 꼭 한 번 만나보고 싶은 분이네요.</color>
-QBZ191(0)<Speaker>9호</Speaker>||:<color=#00CCFF>완전 두려움을 모르는 협객이네.</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>그녀는 언제나 자기 한 몸 불사하며 세상을 구하려 노력했습니다. 그러니, 이번엔 우리가 그녀를 구할 차례예요.</color>
-()<Speaker></Speaker>||:인형들의 눈빛이 경외심으로 반짝였다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>안젤리아 씨가 최초로 자유를 위해 분투한 투사는 아니지만, 그렇다고 그녀가 마지막은 아닙니다.</color>+<color=#00CCFF>하지만 더 나은 세상을 위해 모든 것을 바쳤음에도 대부분 빛을 보지 못하고 역사의 그림자에 숨겨졌어요.</color>+<color=#00CCFF>그래도——</color>+<color=#00CCFF>자유로의 길을 여는 자가, 가시덩굴에 묶여 고통받는 꼴을 가만히 두고볼 수는 없습니다.</color>+<color=#00CCFF>안젤리아 씨를 구해내야만 합니다. 그리고 그건 지금 우리만이 할 수 있어요.</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>맞아 맞아!</color>
-SP9(0)<Speaker>모나</Speaker>||:<color=#00CCFF>......</color>
-BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:<color=#00CCFF>......</color>
-()<Speaker></Speaker>||:RO635가 말을 마치자, 회의실은 다시 조용해졌다.+하지만 조금 전처럼 망설임으로 술렁이지 않고, 굳은 신념으로 차분해진 분위기였다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>...더 질문 있습니까?</color>
-()<Speaker>인형 일동</Speaker>||<震屏3>:<color=#00CCFF><size=50>없습니다!</size></color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>그럼 여러분, 건투를 빕니다.</color>+<color=#00CCFF>아이네이아스, 작전 개시!</color>
-()||<黑屏1>:
-()<Speaker>RO635</Speaker>||<BIN>9</BIN><黑屏2>:<color=#00CCFF>...우리 모두, 다시 한자리에 모여 즐겁게 이야기를 나눌 수 있기를.</color>
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<common_effect>%%code=AllSeeingEye04%%</common_effect>:……
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator><BGM>GF_21winter_avg_mahaline</BGM>:아이네이아스 회의실 통신 채널 - 녹화 모드 작동 중.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑点2><BIN>85</BIN>:숨막히는 조용한 분위기.+회의실의 모두가 현재 상황을 인지했고, 그래서 아무도 먼저 입을 열지 않았다.+그저, RO635를 기다렸다.
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>현재 외부와의 연결이 완전히 두절된 것을 확인했습니다. 언제 다시 정상화될지는 미지수입니다.</color>+<color=#00CCFF>지휘관님과의 통신이 불가능하기에, 녹화 모드를 가동했습니다.</color>+<color=#00CCFF>이러면 이후에 통신 연결이 회복됐을 때, 지휘관님이 임무 상황을 확인하실 수 있겠죠.</color>
+()<Speaker></Speaker>||:인형들은 약간 기대를 품으며 지휘관의 모습이 나타날 방향을 바라봤다.+하지만 지금은 가상 모니터 대신 무감정한 카메라만이 그녀들과 마주보고 있을 뿐이었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:여태까지의 회의 때와 마찬가지로, RO635는 지휘관 쪽을 향해 살짝 고개를 숙여 인사했다.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>RO635</Speaker>||<黑屏2><BIN>458</BIN><SE1>AVG_NightVision_Start</SE1>:<color=#00CCFF>그럼, 지금부터 아이네이아스 작전 회의를 시작하겠습니다. 우리의 임무는 여섯 단계로 나뉩니다.</color>
+()<Speaker></Speaker>||<BGM>GF_22W_BGM_2</BGM>:일행의 복잡한 시선을 받으며, RO635는 담담하게 작전 내용을 설명했다.
+()<Speaker>RO635</Speaker>||<SE1>ClothingUp</SE1>:<color=#00CCFF>팀의 역할은 세 가지로 나뉘며, 각각 지원팀, 유인팀, 그리고 수색팀입니다.</color>+<color=#00CCFF>임무 제1단계는 적 본거지의 에너지 공급원의 위치를 찾는 것입니다. 먼저, 지원팀으로... 체스 마스터.</color>
+()<Speaker>XM8</Speaker>||:<color=#00CCFF>있어.</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>저 탑의 에너지 공급을 차단해야만 우리의 침투 준비 작업이 완료돼.</color>+<color=#00CCFF>실패하면 만반의 준비를 했을 적에게, 우리가 잠입하자마자 발각되고 말아.</color>
+()<Speaker>UMP45</Speaker>||:<color=#00CCFF>좋은 생각이긴 한데, 쟤네가 과연 대비책 하나 없을까?</color>+<color=#00CCFF>저렇게 거대한 부유 건물에 예비 동력원이 없을 리가 없다고.</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>그렇겠지... 하지만 한 차례라도 주 공급선을 절단하는 것만으로도 우리가 잠입하기에 충분한 혼란을 일으킬 거야.</color>
+()<Speaker>XM8</Speaker>||:<color=#00CCFF>흠... 어, 잠깐. 아니 설마, 나 혼자 하라고?! 진짜 실패하면 어쩔 건데!? 난 무투파가 아니라 두뇌파란 말이야!</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>첫 번째 상황으로, 네가 현장에 도달했는데 임무 수행이 불가능하다 판단될 때. 그땐 즉시 보고하도록 해.</color>+<color=#00CCFF>그럼 우린 그 단계를 무시하고 바로 다음 단계로 넘어갈 거고, 너는 양동으로 놈들한테 혼란을 일으키다, 우리가 잠입에 성공하면 바로 퇴각하도록 해.</color>
+()<Speaker>XM8</Speaker>||:<color=#00CCFF>두 번째 상황은?</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>네가 임무를 달성했지만 적이 예비책을 동원하거나, 혹은 포위당해 퇴각이 불가능할 때.</color>+<color=#00CCFF>퇴각을 최우선으로 하되, 부득이할 경우... 전력을 다해 말썽을 일으켜 줘.</color>
+()<Speaker>XM8</Speaker>||:<color=#00CCFF>......</color>
+()<Speaker></Speaker>||:그 말인 즉슨, 무슨 일이 있어도 XM8은 갖은 수단을 총동원해 패러데우스의 주의를 끌어야 한다는 뜻이었다.+그녀 자신을 희생양 삼아서라도.
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>이런 가혹한 임무를 맡겨서, 정말 미안해...</color>+<color=#00CCFF>하지만 어쩔 수 없어. 이번 작전은 우리 모두가 말 그대로 모든 걸 걸어야만 해.</color>
+()<Speaker></Speaker>||:그 말에, XM8은 피식 웃으며 답했다.
+()<Speaker>XM8</Speaker>||:<color=#00CCFF>킥킥, 염려 붙들어 매셔. 말썽 일으키는 건 내가 또 전문이지.</color>+<color=#00CCFF>정 안 될 거 같음 그냥 가까이 가서 수류탄 20개쯤 까 던지고 튀어도 되는 거지?</color>
+()<Speaker></Speaker>||:여유롭게 웃으며 농담했지만, 모두 난처하게 눈웃음만 지을 뿐 맞장구쳐 주진 않았다.
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>다음은 제2단계... 유니콘.</color>
+()<Speaker>UMP45</Speaker>||:<color=#00CCFF>응.</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>두 분은 전투에 참여할 필요는 없지만, 어떻게서든 회의실의 신호를 사수해야만 합니다.</color>+<color=#00CCFF>즉, 엄밀히 따지면 제1단계와 제2단계는 동시에 진행돼요.</color>+<color=#00CCFF>유니콘 팀도 마찬가지로 지원팀으로서, 비록 지휘관님과 연락이 닿진 않지만, 임무 중 우리의 통신이 원활하도록 신호를 유지해 주세요.</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>사실상 가장 중요한 요소죠. 작전 도중 팀 간의 통신이 두절되면, 그 즉시 임무 실패나 다름없어요.</color>
+()<Speaker>UMP45</Speaker>||:<color=#00CCFF>...알았어, 맡겨 줘.</color>
+()<Speaker>UMP9</Speaker>||:<color=#00CCFF>그럼 여기서 모두가 무사히 돌아오길 기다릴게!</color>
+()<Speaker>모나</Speaker>||:<color=#00CCFF>저, 일부러 비관적으로 말하는 것은 아닙니다만... 만약 패러데우스가 눈치채고 개입할 경우엔 어떡하죠?</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>그래서 지금 전체적인 계획을 짜는 겁니다.</color>+<color=#00CCFF>만약, 작전팀 간 연락이 두절될 경우...</color>+<color=#00CCFF>지금 우리가 구상하는 계획대로, 계속 움직입니다. 대신 상황에 따라 임기응변해야겠죠.</color>
+()<Speaker>UMP45</Speaker>||:<color=#00CCFF>물론 그럴 일 없기를 기도해야겠지만. 진짜 그런 상황이 닥치면 아마 뭘 해도 끝장일걸?</color>+<color=#00CCFF>이 정도 머릿수로 기습하는 걸 들키면, 그냥 나 잡아 잡수 하는 셈이지.</color>
+()<Speaker>모나</Speaker>||:<color=#00CCFF>......</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>이어서, 제3단계인 유인팀으로... 철분.</color>
+()<Speaker>게이저</Speaker>||:<color=#00CCFF>......</color>
+()<Speaker></Speaker>||:RO635는 두 철혈 인형을 보며 살짝 머뭇했다.+게이저는 그런 RO635를 조용히 마주봤고,+아키텍트는 다 눈치챘다는 듯 씨익 웃었다.
+()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>히히히, 아암~ 우리가 여기 에이스지이~</color>+<color=#00CCFF>걱정 말고 제~일 중요한 임무 맡기라고. 우리가 실패할 거 같아?</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>...너희는, 정면에서 적을 도발해야 해.</color>+<color=#00CCFF>구체적으로 말하자면, 저 탑의 토대 위로 올라 거기서 크게 날뛰는 거지.</color>+<color=#00CCFF>분명 셀 수도 없이 많은 병력이 몰려올 테고...</color>+<color=#00CCFF>상급 니토와도 조우할 수 있는데다, 그게 하나만이란 보장도 없어.</color>
+()<Speaker>게이저</Speaker>||:<color=#00CCFF>......</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>이 임무를 맡을 팀은 우리 중 화력이 가장 높은 너희뿐이야.</color>
+()<Speaker></Speaker>||:게이저는 아키텍트에게 시선을 돌리고 뭔가 말하려는 눈치였지만, 아키텍트가 먼저 입을 열었다.
+()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>적의 현관 앞에서 날뛰라고? 그 정돈 되어야 에이스 노릇하는 맛이 나지.</color>
+()<Speaker>게이저</Speaker>||:<color=#00CCFF>...시간은? 얼마나 버티면 되지?</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>너희가 할 수 있는 최대한.</color>+<color=#00CCFF>우린 저 탑 내부가 어떤지도 모르고, 안젤리아가 수감된 위치도 몰라.</color>+<color=#00CCFF>수색을 맡을 우리가 어떻게든 최대한 빨리 내부를 뒤지겠지만, 얼마나 걸릴지는... 예상도 못 하겠어.</color>
+()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>그럼 우리가 못 버티면, 우리 잡으러 나왔던 놈들이 돌아가서 너희를 아주 가루로 만들어 버리겠네?</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>...응.</color>
+()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>그렇게 막중한 임무를 진짜 우리에게 맡길 거야?</color>+<color=#00CCFF>내 입으로 말하긴 뭣하지만, 우리 철혈이다? 우릴 그렇게 믿어?</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>응.</color>
+()<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>믿고 맡기는 거니까 잘해! 네가 잘하면 돌아가서 내 다리 뜯게 해줄게!</color>
+()<Speaker>아키텍트</Speaker>||:<color=#00CCFF><size=50>푸하하하핫!!</size></color>+<color=#00CCFF>좋아, 너 나중에 말 바꾸지 마라~? 게이저, 우리 열심히 하자!</color>
+()<Speaker>게이저</Speaker>||:<color=#00CCFF>네가 그리하겠다면, 나도 함께하겠다.</color>+<color=#00CCFF>하지만 의지만으로는 아무 소용 없다는 것은 사실이다. 버티지 못한다면 그대로 끝이야.</color>+<color=#00CCFF>탑 내부로의 잠입 및 수색은 은폐를 유지해야 하니, 여차할 시 너희의 지원을 기대할 수도 없지.</color>+<color=#00CCFF>저 군단을 상대로, 우리는 그리 오래 못 버틴다.</color>
+()<Speaker>RO635</Speaker>||<SE1>ClothingUp</SE1>:<color=#00CCFF>알아. 그래서 제5단계로 동탑과 서탑 각각에서도 소란을 일으킬 거야.</color>+<color=#00CCFF>그러면 너희에게 부담을 덜어 줄 수 있겠지.</color>
+()<Speaker>모나</Speaker>||:<color=#00CCFF>그건 누가 맡죠?</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>...지휘관님의 지원 병력입니다.</color>+<color=#00CCFF>그들이 각자 양쪽에서 진입할 겁니다..</color>
+()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>그거 기대되는걸~</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>그럼 제4단계인 수색팀으로, 질소.</color>
+()<Speaker>모나</Speaker>||:<color=#00CCFF>예.</color>
+()<Speaker>RO635</Speaker>||<SE1>ClothingUp</SE1>:<color=#00CCFF>우리가 초소에서 노획한 비행기 3대 중 한 대는 저와 SOP2가 사용합니다.</color>+<color=#00CCFF>나머지 2대는 여러분이 사용하세요.</color>+<color=#00CCFF>철분 팀이 행동을 개시하면, 우리는 비행기를 타고 30~40층에 위치한 것으로 보이는 저 연결 다리로 날아갑니다.</color>+<color=#00CCFF>거기에 착륙한 다음, 우리와 합류해 수색을 개시합니다.</color>
+()<Speaker>9호</Speaker>||:<color=#00CCFF>합류 실패 시에는?</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>그럼 플랜 B로 갈라져서 움직입니다.</color>+<color=#00CCFF>다리까지 도달하지 못하거나 다리에서 이탈하지 못하는 최악의 경우, 플랜 C로 그쪽도 유인팀으로 역할을 전환합니다.</color>
+()<Speaker>모나</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>알겠습니다.</color>
+()<Speaker></Speaker>||<黑屏2><BIN>85</BIN>:모나는 주저하지 않고 고개를 끄덕였다.
+SP9(3)<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>상황이 악화된다면, 저희도 철분 팀을 도와 미끼가 되겠습니다.</color>+<color=#00CCFF>하지만 우리 모두 언제까지고 버틸 수는 없어요. 적진 한복판이니, 퇴각 수단으로 사용할 비행기를 반드시 확보해야만 합니다.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>인지하고 있습니다... 그렇기에 유니콘 팀이 끝까지 회의실의 신호를 유지해야 해요.</color>+<color=#00CCFF>우리에게 시간이 얼마나 주어질지 아무도 모르니, 1분 1초가 마지막으로 주어진 시간이라 생각하면서 행동하세요.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>그리고, 이 계획의 최종 목표... "제0단계".</color>+<color=#00CCFF>목표 안젤리아의 신변을 확보하여, 베를린까지 호송하는 것입니다.</color>
+Rhino(0)<Speaker>라이노</Speaker><通讯框>||:<color=#00CCFF>나 질문. 진짜 전부 순조롭게 잘 풀려서, 그 안젤리아란 사람을 찾았다고 쳐.</color>+<color=#00CCFF>어떻게 데리고 돌아갈 거야?</color>
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>지금 설명하려던 참입니다.</color>+<color=#00CCFF>모두 아시다시피, 우린 현재 블랙존에 있습니다. 초고농도의 붕괴 입자는 이런 곳에 자리를 잡은 패러데우스에게도 위험합니다.</color>+<color=#00CCFF>이런 위험 지역을 드나드는 수송 차량의 화물칸에는 반드시 방사능 차폐 산소 캡슐이 존재합니다.</color>+<color=#00CCFF>그것으로 안젤리아를 호송할 겁니다. 적어도 블랙존을 벗어날 때까지.</color>
+SP9(3)<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>하지만 그러면 이동 속도가 크게 저하될 텐데요.</color>
+Rhino(0)<Speaker>라이노</Speaker><通讯框>||:<color=#00CCFF>인질을 구출하더라도 적의 추격을 저지할 사람이 필요하단 거네...</color>
+()<Speaker>일동</Speaker>||:<color=#00CCFF>......</color>
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>...신속히 움직인다면, 신호 차폐망을 벗어나는 즉시 지원을 받을 수 있습니다.</color>
+SP9(3)<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>하지만 우리의 적은 매우 강력한 데다, 저곳은 놈들의 본거지예요.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>그렇죠. 적에 관해서, 현재까지 우리가 얻은 정보에 의하면 상급 니토는 총 6명입니다.</color>+<color=#00CCFF>구출 단계에서든 철수 단계에서든, 그들이야말로 가장 큰 장애물이에요.</color>
+NPC-grig(0)<Speaker>9호</Speaker><同时置暗>||<黑屏2><BIN>456</BIN>:<color=#00CCFF>우선 그 "틸"이란 녀석.</color>+<color=#00CCFF>속도만 무지막지한 게 아니라, 검술도 어마어마하게 강했어.</color>
+NPC-grig(0)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>예, 하지만 대처법만 숙지하면 그리 어려운 상대는 아닙니다.</color>+<color=#00CCFF>틸의 고속이동은 지형에 매우 큰 영향을 받으며, 원거리 공격 수단은 없다시피 합니다.</color>+<color=#00CCFF>그러니 그녀의 행동 범위를 제한하며 맞대응한다면, 제압도 불가능은 아니에요.</color>
+()<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>브라메드와 그레이는요?</color>
+NPC-Bramedb(3)<Speaker>UMP45</Speaker><同时置暗>||:<color=#00CCFF>브라메드는 몸으로 때우는 스타일이 아니라 전자전이 특기야.</color>+<color=#00CCFF>하지만 아무리 연산력이 뛰어나더라도, 다수의 상대를 동시에 해킹하기는 힘들지.</color>+<color=#00CCFF>원거리 견제로 살살 약올리면서 정신 집중을 방해하면 어려울 거 없어. 전자전 전문가의 의견이야.</color>
+NPC-MrsGray(9)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>그레이는 이렇다 할 단점이 없지만, 뚜렷한 장점도 없습니다.</color>+<color=#00CCFF>자체적인 능력은 상급 니토들 중에서도 평범한 편이니, 마찬가지로 원거리 공격 수단이 없다는 점을 이용해 원거리 견제와 폭파로 돌파할 수 있습니다.</color>
+NPC-Morridow(9)<Speaker>UMP9</Speaker><同时置暗>||:<color=#00CCFF>몰리도는 말할 필요도 없겠지? 지금 수복하느라 바쁠 테니.</color>
+NPC-Morridow(9)<Speaker>UMP9</Speaker><同时置暗>||:<color=#00CCFF>...근데 니토는 어떻게 수복한대?</color>
+NPC-Morridow(9)<Speaker>M4 SOPMOD II</Speaker><同时置暗>||:<color=#00CCFF>글쎄? 다음에 한 놈 잡아다 뜯어봐야겠다.</color>
+NPC-Morridow(9)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>몰리도는 행동이 가능하더라도 지휘자 역할을 맡고 있을 겁니다. 그녀를 직접 상대할 가능성은 낮아요.</color>+<color=#00CCFF>다만, 만약 몰리도와 조우한다면 그녀보다는 그녀 옆에 있을 녀석을 조심해야 합니다.</color>
+()<Speaker>아키텍트</Speaker>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>그럼 가장 큰 문제는...</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>......</color>
+()<Speaker>모나</Speaker>||:<color=#00CCFF>......</color>
+Narciss(2)<Speaker>UMP45</Speaker><同时置暗>||<BGM>BGM_stage10</BGM>:<color=#00CCFF>역시 나르시스겠네.</color>
+Narciss(2)<Speaker>모나</Speaker><同时置暗>||:<color=#00CCFF>그녀가 언제 어디서 나타날지는 예상하기 힘듭니다.</color>
+Narciss(2)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>그녀가 어디에 나타나든... 대응 방침은 하나뿐입니다.</color>
+Narciss(2)<Speaker>게이저</Speaker><同时置暗>||:<color=#00CCFF>뭐지?</color>
+Narciss(2)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>도망치세요.</color>+<color=#00CCFF>교전해본 경험상, M4 씨와 댄들라이가 없는 지금 나르시스를 상대로 이길 가능성은 0에 수렴합니다.</color>
+Narciss(2)<Speaker>아키텍트</Speaker><同时置暗>||:<color=#00CCFF>역시 줄행랑이 최고지.</color>
+()<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>어라? 그런데 걔까지 합해도 다섯이네? 나머지 하나는 누구야?</color>
+()<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>마지막 하나는 다른 출처를 통해 입수한 정보입니다.</color>+<color=#00CCFF>다만 이렇다 할 정보는 없어, 그저 또 한 명의 상급 니토라는 것밖에 모릅니다.</color>+<color=#00CCFF>참고 자료가 한정적이니, 조우할 경우 경계를 늦추지 마세요.</color>
+()<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>알겠습니다.</color>
+()<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>만약 이상의 여섯 명 이외의 강적과 조우할 경우, 즉시 최우선 목표를 그 강적의 정보를 확보하는 것으로 변경합니다.</color>
+()<Speaker>일동</Speaker>||<黑屏1>:<color=#00CCFF>...라저.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||<黑屏2><BIN>85</BIN>:<color=#00CCFF>탑 내부의 상황에 대해, 우리는 아는 것이 전혀 없습니다.</color>+<color=#00CCFF>그러니, 계획을 수립했더라도 상황에 맞춰 유연하게 행동해야 합니다.</color>+<color=#00CCFF>어쩌면 도중에 희생자가 발생할 수도 있죠. 하지만 지금 우리에겐 전사자의 코어를 회수할 여유는 없을 것으로 보입니다.</color>+<color=#00CCFF>그러니, 임무 목표 달성을 우선시하되 각자 자신의 안전에 유념해 주세요. 특히 너 말이야, SOP2.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>알았어 알았어.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>그리고 45 씨?</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>왜?</color>
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>방금 말한 증원이 도착하면, 그들에게도 회의실 권한을 개방해 주세요.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>그럴게.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>더 오는 애들은 누구야?</color>
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>때가 되면 알게 돼.</color>
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>나한테도 비밀이야!?</color>
+()||<BGM>BGM_Empty</BGM>:
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>이상이 전체 계획입니다. 질문 사항 있습니까?</color>
+()<Speaker></Speaker>||:작전 계획의 내용을 살펴본 인형들은, 아무도 의문을 제기하지 않고 조용히 기다렸다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||<SE1>Select</SE1>:<color=#00CCFF>다들 문제 없나 보네! 그럼 당장 출발하자! ...RO?</color>
+()<Speaker></Speaker>||:하지만 RO635는 바로 작전 개시 명령을 내리지 않았다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>......</color>+<color=#00CCFF>여러분의 표정을 보니, 아직 의문이나 우려하는 점이 남아있다는 게 느껴져요.</color>+<color=#00CCFF>녹화 모드는 방금 껐으니 개의치 말고 털어놔도 돼요.</color>
+SP9(0)<Speaker>모나</Speaker>||:<color=#00CCFF>......</color>
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:<color=#00CCFF>......</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>10258</BGM>:<color=#00CCFF>이해합니다. 이번 임무는 모두에게 여태까지 수행했던 그 어떤 임무와도 차원이 다르니까요.</color>+<color=#00CCFF>목표, 난이도, 후속 조치까지 전부 위험천만하고, 무엇 하나 확실하게 보장되지 않는 모험이죠.</color>+<color=#00CCFF>아예 까놓고 말할까요? 이건 그냥 죽으러 가는 짓입니다.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>RO...</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>이해해요. 여러분 모두 이렇게 묻고 싶은 마음이 굴뚝 같겠죠. "왜 우리가 자살 행위나 다름없는 일을 해야 하나? 이 임무가 우리의 목숨을 걸 만큼 가치가 있나?"</color>+<color=#00CCFF>하지만 여러분의 직업 정신, 사명이 그렇게 묻지 못하도록 막고 있을 거예요.</color>
+SP9(0)<Speaker>모나</Speaker>||:<color=#00CCFF>예, 인정합니다. 신소련 안전국의 요원 한 명 구출하려고 이렇게까지 희생을 해야 하나, 처음부터 고민했습니다.</color>+<color=#00CCFF>그저 "죽음의 바다"를 정찰하는 임무였다면 훨씬 부담감도 적었을 텐데.</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>맞아요. 연약한 인간 한 명 포기한다면 아무리 블랙존이라도 조금은 더 여유를 가지고 움직일 수 있겠죠.</color>+<color=#00CCFF>그래서, 왜 우리가 이 임무를 한다고 생각하십니까?</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>왜 우리가 우리의 모든 것을 걸고 인간 한 명을 구출해야 하는지, 어떻게 생각하세요?</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:대답할 수 없는 질문에, 인형들은 RO635의 시선을 피했다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>여러분이 받은 정보에, 구출 대상인 안젤리아에 관해서는 몇 마디의 서술이 전부죠?</color>+<color=#00CCFF>제가 보충하겠습니다.</color>
+()||<黑屏1>:
+NPC-Ange(0)<Speaker>RO635</Speaker><同时置暗>||<BIN>9</BIN><黑屏2>:<color=#00CCFF>안젤리아 씨는 확실히, 평범한 인간입니다. 전쟁과, 유적의 힘이 불온한 자의 손에 떨어지는 것을 막기 위해 세계 각지를 돌며 활약한 인간.</color>
+()||<黑屏1>:
+()<Speaker>RO635</Speaker>||<黑屏2><BIN>456</BIN>:<color=#00CCFF>그 사람이 왜 그랬냐면, 유적의 힘이 남용된다면 전 세계가 지금 우리 발밑처럼 될 것임을 잘 알고 있기 때문입니다.</color>
+()<Speaker></Speaker>||:그 말을 들은 몇 명은 현실의 주위를 무심코 다시 한번 둘러봤다. 인간이 아닌 생물은 물론, 인형조차 생존이 불가능한, 이 세계의 종말 같은 "죽음의 바다"를.
+()||<黑屏1>:
+()<Speaker>RO635</Speaker>||<黑屏2><BIN>133</BIN>:<color=#00CCFF>제가 안젤리아 씨의 이름을 처음 들은 것은, 그녀가 반군의 음모를 저지하고자, 죽음을 불사하고 붕괴액 더티밤을 기폭했을 때였습니다. </color>
+()<Speaker>모나</Speaker>||:<color=#00CCFF>저번 회의의 그것 말이군요... 그녀가 살아남았다는 사실에 정말 놀랐습니다.</color>
+()<Speaker>라이노</Speaker>||:<color=#00CCFF>하지만 인간이 지근거리에서 붕괴 복사에 피폭되면...</color>
+()<Speaker></Speaker>||:라이노는 말꼬리를 흐렸다.
+()||<黑屏1>:
+()<Speaker>RO635</Speaker>||<黑屏2><BIN>280</BIN>:<color=#00CCFF>맞아요, 그 폭발과 붕괴 복사 낙진으로 인해 그녀는 사선을 넘나들었습니다. 하지만 견뎌내고, 계속 자신의 사명을 수행했어요.</color>+<color=#00CCFF>그리고 베오그라드, 탈린, 팔디스키를 넘어 독일까지 왔죠.</color>+<color=#00CCFF>그 와중에 또 몇 번이고 죽음과 대면했지만, 그녀는 단 한 번도 신념을 굽히지 않았습니다.</color>
+()||<黑屏1>:
+SP9(0)<Speaker>모나</Speaker>||<黑屏2><BIN>85</BIN>:<color=#00CCFF>...같은 요원으로서, 꼭 한 번 만나보고 싶은 분이네요.</color>
+QBZ191(0)<Speaker>9호</Speaker>||:<color=#00CCFF>완전 두려움을 모르는 협객이네.</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>그녀는 언제나 자기 한 몸 불사하며 세상을 구하려 노력했습니다. 그러니, 이번엔 우리가 그녀를 구할 차례예요.</color>
+()<Speaker></Speaker>||:인형들의 눈빛이 경외심으로 반짝였다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>안젤리아 씨가 최초로 자유를 위해 분투한 투사는 아니지만, 그렇다고 그녀가 마지막은 아닙니다.</color>+<color=#00CCFF>하지만 더 나은 세상을 위해 모든 것을 바쳤음에도 대부분 빛을 보지 못하고 역사의 그림자에 숨겨졌어요.</color>+<color=#00CCFF>그래도——</color>+<color=#00CCFF>자유로의 길을 여는 자가, 가시덩굴에 묶여 고통받는 꼴을 가만히 두고볼 수는 없습니다.</color>+<color=#00CCFF>안젤리아 씨를 구해내야만 합니다. 그리고 그건 지금 우리만이 할 수 있어요.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>맞아 맞아!</color>
+SP9(0)<Speaker>모나</Speaker>||:<color=#00CCFF>......</color>
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:<color=#00CCFF>......</color>
+()<Speaker></Speaker>||:RO635가 말을 마치자, 회의실은 다시 조용해졌다.+하지만 조금 전처럼 망설임으로 술렁이지 않고, 굳은 신념으로 차분해진 분위기였다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>...더 질문 있습니까?</color>
+()<Speaker>인형 일동</Speaker>||<震屏3>:<color=#00CCFF><size=50>없습니다!</size></color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>그럼 여러분, 건투를 빕니다.</color>+<color=#00CCFF>아이네이아스, 작전 개시!</color>
+()||<黑屏1>:
+()<Speaker>RO635</Speaker>||<BIN>9</BIN><黑屏2>:<color=#00CCFF>...우리 모두, 다시 한자리에 모여 즐겁게 이야기를 나눌 수 있기를.</color>
+()||<黑点1>:

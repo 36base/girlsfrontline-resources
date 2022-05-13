@@ -1,78 +1,78 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>417</BIN><narrator><黑点2>:독일, 슈타지 본부.
-()<Speaker></Speaker>||<BGM>10213</BGM><震屏3><SE1>AVG_Door_Hit</SE1>:쿵!+J가 성질을 내며 사무실 탁상 위에 쌓인 서류 더미를 내리쳤다.
-NPC-Keven(4)<Speaker>J</Speaker>||:<size=50>이걸로 18번째다! 18번째!</size>+<size=50>야 슈바벤! 진짜 그 빌어먹을 놈들 이대로 활개치게 내버려둬도 되는 거냐!? 엉?!</size>
-NPC-Keven(4);NPC-Jason(2)<Speaker>K</Speaker>||:...진정해.
-NPC-Keven(4)<Speaker>J</Speaker>;NPC-Jason(2)||:<size=50>이 자식은 진정하란 말밖에 모르나!</size>+<size=50>이번 달에 순직한 동료들 수가 지난 5년을 합친 것보다 많다고!</size>+그리고... 이게 다 누구 짓인지 알잖아...
-NPC-Jason(2)<Speaker>K</Speaker>||:입단속도 해라, 확실한 증거 없이는 함부로 말을 꺼내선 안 돼.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:K는 침착하게 어질러진 서류 더미를 가지런히 모은 후 깊게 심호흡했다.
-NPC-Jason(2)<Speaker>K</Speaker>||:후우... 우리 슈타지도 전술인형을 전격 도입하기로 한 것은 확실히 현명한 판단이지만, 인력 부족을 메꿀 정도는 아니니 더는 멋대로 움직여선 안 돼.+지금으로선 자기 분수에 맞는 일을 하는 것이 최선이야.
-NPC-Keven(4)<Speaker>J</Speaker>;NPC-Jason(2)||:아니, 그 녹음 기록으로도 부족해!?+우리가 얼마나 고생해서 얻은 증거인데!
-NPC-Keven(4);NPC-Jason(2)<Speaker>K</Speaker>||:진실도 손쉽게 가짜가 되어버리는 세상이다. 어설프게 들이밀었다 가짜라 낙인 찍혀 버리면 우리 모두 끝장이야.+그딴 것쯤 위조할 방법이 얼마나 널리고 널렸는지는 너도 알잖아.
-NPC-Keven(5)<Speaker>J</Speaker>||:......
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:K가 맞는 말만 하니, J는 반박도 못하고 주먹만 쥐며 의자에 털썩 앉았다.+그리고 탁상에 산더미처럼 쌓인 서류를 보며, 스트레스로 지끈거리는 관자놀이를 문질렀다.
-NPC-Keven(5)<Speaker>J</Speaker>||:...그래서, 넌 요즘 뭐하냐?+말해도 되는 거 있음 좀 말해 봐.
-NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:우리의 차후 임무를 위한 준비 작업 중이지.
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:어엉...? 그건 또 무슨 소리야?
-NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:케빈, 네가 보기에 "그녀"는 얼마나 있을 것 같나?
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:......여기 상관 갈아치워지는 속도로 봤을 때, 길어봤자 2년?
-NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:나 참... 정말 윗선에 대해 아무런 관심도 없구만.
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:"그 사건"이 있고 난 뒤론 슈타지는 원래부터 안 그래도 제약 많던 권한이 아주 쥐꼬리만큼까지 축소돼서 그냥 경찰한테 다른 이름만 붙은 수준이 되어버렸담마.+이런데 내가 윗선 신경쓰게 생겼냐?
-NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:너는 고생할 몸도 없으면서 머리도 나쁘다 해야 하나...+그녀는 어쩌면 "안전국"이 "안전부"가 된 이래 재임 기간이 가장 긴 사람이 될 수 있어. 내가 미래를 걸고 장담하지.
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:...너 진짜 그 여자한테 무슨 세뇌라도 당한 건 아니지?
-NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:"불꽃놀이" 사건 이후, 우린 이상하게도 아무런 징계도 받지 않았다.
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:그렇긴 한데... 솔직히 그거 우리랑은 상관 없는 일 아니야?
-NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:넌 진짜 감이 좋은 건지 나쁜 건지 알다가도 모르겠군... 슈타지는 첩보 기관이다.+그런데 "그 사건"으로 슈타지의 대모스크바 첩보 활동이 20년 전으로 후퇴한 이래, 거기서 무슨 일만 나면 여긴 바로 리더가 교체되어버렸지.
-NPC-Keven(5)<Speaker>J</Speaker>||:그거에 태클 좀 걸자면 슈타지가 20년 후퇴했어도 지금보단 나았다.
-NPC-Jason(2)<Speaker>K</Speaker>||:머리 좀 굴려 봐. 다른 때도 아니고 하필이면 통일절에 "불꽃놀이"가 터진 걸 한발 늦게 알았으니, 슈타지는 바로 징계를 먹었어야 했어.
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:하지만 그 여자는 취임한 지 얼마 되지도 않았는데다, 그 전에 여기서 비슷한 임무를 맡은 사람도 없었잖아.+비록 예전부터 내부 의견이 맞지 않을 때가 많았지만, 적어도 "눈"은 있어서 누가 뭘 하는지는 알았다고.+우리가 모르는 일을 다른 누군가가 하고 있다는 건 말이 안 돼.
-NPC-Keven(5);NPC-Jason(4)<Speaker>K</Speaker>||:생각이 조금 짧았군. 그래서 그 여자가 대단하다는 거다.+단도직입적으로 말하자면, 상층부는 진작부터 "불꽃놀이"에 대한 정황을 파악하고 있었단 뜻이지. 슈타지조차 모르는 와중에, 그녀는 그걸 알고 있었어.
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(4)||:......
-NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:게다가 지난번 지휘관과의 협력 작전도 성공적이었고, 굉장한 정보까지 입수했건만, 우린 후속 임무를 받지 못했다.
-NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:이는 즉 지휘관이 우릴 통해 그녀와 연락한 것이 아니라, 그녀가 우릴 통해 지휘관과의 협력을 얻어냈다는 뜻이지.+그녀는 "윗선"은 물론 "아랫선"과의 연락망까지 다 구축해놨어.
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:...공장에서의 실책은 나도 변명의 여지가 없다.
-NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:널 나무라는 게 아니야.
-NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:"산과 고지를 그리려면 평원을 가야 하고, 평원을 살피려면 산을 올라야 한다."+그녀는 굉장한 야심가다.
-NPC-Keven(0)<Speaker>J</Speaker>||:흐음... 네 분석은 대충 이해했어. 그런데 그게 우리랑 무슨 상관이냐고.+대체... 이제 우린 뭘 해야 하는데?
-NPC-Jason(2)<Speaker>K</Speaker>||:크흠크흠.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:K가 대뜸 헛기침을 하더니, 탁상 아래서 20인치 짐가방을 하나 꺼냈다.
-NPC-Jason(2)<Speaker>K</Speaker>||:마침 너에게 맡길 일이 하나 생겼다.+네 말대로, 우린 더 이상 동료를 잃을 수 없어. 이 사무실 월세가 아까워서라도.
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(2)||:하지만 우린 그 사람 못 건드리니까 근본적인 문제 해결이 안 된다며.
-NPC-Keven(0);NPC-Jason(3)<Speaker>K</Speaker>||:표면상으로는 해결할 수 있지.+그리고 그건 네 주특기고.
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(3)||:...뭐?
-NPC-Keven(0);NPC-Jason(3)<Speaker>K</Speaker>||:우리 쪽 사람이 더는 희생하지 않으면 돼.+네 새 동료들을 소개해 주마.
-NPC-Keven(0)<Speaker>J</Speaker>||:어...
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:J는 K가 폴더에서 꺼낸 프로필을 받아 빠르게 넘겨봤다.
-NPC-Keven(0)<Speaker>J</Speaker>||:또 인형이야?+그것도, 한 번에 4명씩이나?
-NPC-Jason(3)<Speaker>K</Speaker>||:인간 신참 잔뜩 들이는 것보다는 일처리가 빠르고 깔끔하잖아.+그리고... 아주 심각한 사달만 안 나면 희생 걱정하지 않아도 되니까.
-NPC-Keven(5)<Speaker>J</Speaker>||:......+그럼 모나는? 걔 수복도 다 끝났잖아.
-NPC-Jason(3)<Speaker>K</Speaker>||:모나는 따로 일이 있다, 너랑은 다르게 말이지.+스스로가 얼마나 믿음직한 슈타지 요원인지를 행동으로 증명해 보였거든.
-()<Speaker></Speaker>||:J는 입을 괴상한 모양으로 뻐끔거리며 반박할 말을 고민했지만, 이내 포기하고 고개를 푹 숙여 네 인형의 자료를 읽었다.
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>412</BIN><BGM>BGM_Empty</BGM>:로미 리펜슈탈 국장의 사무실.
-NPC-Romy(0)<Speaker>로미</Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_stage10</BGM>:마무리 작업의 진행 상황은?
-NPC-Romy(0);NPC-maya(2)<Speaker>？</Speaker><通讯框>||:<color=#00CCFF>"불꽃놀이" 이후 꽤 진전되었고, 점점 빨라지고 있습니다.</color>+<color=#00CCFF>현재 모스크바는 문단속이 정말 철저해졌어요. 대사관은 철통 감시에, 심지어는 택배 배달하는 우체부의 집에까지 카메라를 40개는 넘게 달았다니까요.</color>
-NPC-Romy(0)<Speaker>로미</Speaker>;NPC-maya(2)||:아직 정식 요원 송환 통보를 받진 못했다. 적어도 그곳에서의 활동이 여기까지 닿을 파급력은 없었단 것이겠지.+우리가 심어 둔 사람을 찾기보단 그들의 내부 문제 해결에 더 급급하단 뜻이기도 하고. 너도 임무 수행에 더욱 신중하도록.
-NPC-Romy(0)<Speaker>로미</Speaker>;NPC-maya(2)||:우리는 그들의 내란에 입장을 내비쳐서는 안 돼. 표면적이라곤 해도, 엄연히 국가의 입장이 그러하니까.
-NPC-Romy(0);NPC-maya(2)<Speaker>？</Speaker>||:<color=#00CCFF>뭐 어때요, 어차피 우린 "불법" 요원인데. 붙잡혀도 님이 꺼내 주실 거죠?</color>
-NPC-Romy(3)<Speaker>로미</Speaker>;NPC-maya(2)||:아무래도 넌 모스크바 감옥의 식단이 궁금한가 보구나.
-NPC-Romy(3);NPC-maya(2)<Speaker>？</Speaker>||:<color=#00CCFF>설마요. 저도 엄청 힘들다고요, 들통난 동료가 얼마나 많은데.</color>
-NPC-Romy(0)<Speaker>로미</Speaker>;NPC-maya(2)||:못 하겠으면 딴 사람한테 넘기든가.+하지만 해외 파견 보너스는 고정된 총액을 등분하는 것은 알지? 그래도 지원이 필요해?
-NPC-Romy(0);NPC-maya(0)<Speaker>？</Speaker>||:<color=#00CCFF>지금 보너스 따지게 생겼어요? 이건 이상이 걸린 일이라고요!</color>+<color=#00CCFF>님, 저는 추구하는 바가 있는 사람이에요. 해외 파견 임무는 이상과 신념이 있는 사람만 하는 거, 님이야말로 몰라요? 저 좀 믿어 주세요.</color>
-NPC-Romy(1)<Speaker>로미</Speaker>||:흥.
-NPC-maya(2)<Speaker>？</Speaker><通讯框>||:<color=#00CCFF>암튼 확실한 건, 그 "인간도 아닌 것들"은 지금 모스크바에서 철수하고 있다는 거예요.</color>
-NPC-Romy(0)<Speaker>로미</Speaker>;NPC-maya(2)||:놈들이 파기한 자료, 복구할 수 있겠어?
-NPC-Romy(0);NPC-maya(2)<Speaker>？</Speaker>||:<color=#00CCFF>어렵겠어요, 녀석들 시스템의 연산 효율은 우리 부서의 낡아 빠진 고물딱지랑은 천지 차이라서.</color>+<color=#00CCFF>솔직하게 말씀드리자면, 우리 기술팀은 민간에서라도 전문가나 고수 좀 초빙해야 한다고 생각해요.</color>
-NPC-Romy(0)<Speaker>로미</Speaker>;NPC-maya(2)||:그 무기들의 입수 기록은 찾아냈고?
-NPC-Romy(0);NPC-maya(2)<Speaker>？</Speaker>||:<color=#00CCFF>그게 좀 희한하단 말이죠... 그 무기들은 반군――일단 반군이라 부를게요, 그들의 루트를 통해 들어왔어요.</color>+<color=#00CCFF>건설부를 통해서가 아니라요.</color>
-NPC-Romy(3)<Speaker>로미</Speaker>||:...자료 정리해 줘, 최대한 자세하게.
-()||<黑屏1><SE1>AVG_tele_disconnect</SE1>:
-()<Speaker></Speaker>||<黑屏2><BIN>80</BIN><BGM>BGM_Empty</BGM>:모스크바의 어느 카페.
-()<Speaker>웨이터</Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:손님, 주문하신 커피 나왔습니다.+그리고 부탁하신 만능 플러그도 여기 있습니다.
-NPC-maya(2)<Speaker>？</Speaker><Position>0,-50</Position>||<SE1>AVG_20Winter_Book</SE1>:아아 고마워요.
-()<Speaker></Speaker>||:웨이터가 커피를 가져온 8인용 테이블에는 온갖 영수증이 한가득 널브러져 있었다.+하지만 거기에 앉은 사람은 테이블의 크기에 비해 상당히 왜소해 보이는 젊은 여성 한 명뿐이었다.
-()<Speaker>웨이터</Speaker>||:저... 손님? 이건...?
-NPC-maya(0)<Speaker>？</Speaker><Position>0,-50</Position>||:영수증 찍고 있어요.+...나 원 참, 2064년인데 경비 신청에 종이 영수증이 필요하다니.
-()<Speaker>웨이터</Speaker>||:도와드릴까요?
-NPC-maya(2)<Speaker>？</Speaker><Position>0,-50</Position>||<SE1>AVG_20Winter_Book</SE1>:아뇨 됐어요, 여기에 제 하반기 실적 평가도 걸려있어서.
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>417</BIN><narrator><黑点2>:독일, 슈타지 본부.
+()<Speaker></Speaker>||<BGM>10213</BGM><震屏3><SE1>AVG_Door_Hit</SE1>:쿵!+J가 성질을 내며 사무실 탁상 위에 쌓인 서류 더미를 내리쳤다.
+NPC-Keven(4)<Speaker>J</Speaker>||:<size=50>이걸로 18번째다! 18번째!</size>+<size=50>야 슈바벤! 진짜 그 빌어먹을 놈들 이대로 활개치게 내버려둬도 되는 거냐!? 엉?!</size>
+NPC-Keven(4);NPC-Jason(2)<Speaker>K</Speaker>||:...진정해.
+NPC-Keven(4)<Speaker>J</Speaker>;NPC-Jason(2)||:<size=50>이 자식은 진정하란 말밖에 모르나!</size>+<size=50>이번 달에 순직한 동료들 수가 지난 5년을 합친 것보다 많다고!</size>+그리고... 이게 다 누구 짓인지 알잖아...
+NPC-Jason(2)<Speaker>K</Speaker>||:입단속도 해라, 확실한 증거 없이는 함부로 말을 꺼내선 안 돼.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:K는 침착하게 어질러진 서류 더미를 가지런히 모은 후 깊게 심호흡했다.
+NPC-Jason(2)<Speaker>K</Speaker>||:후우... 우리 슈타지도 전술인형을 전격 도입하기로 한 것은 확실히 현명한 판단이지만, 인력 부족을 메꿀 정도는 아니니 더는 멋대로 움직여선 안 돼.+지금으로선 자기 분수에 맞는 일을 하는 것이 최선이야.
+NPC-Keven(4)<Speaker>J</Speaker>;NPC-Jason(2)||:아니, 그 녹음 기록으로도 부족해!?+우리가 얼마나 고생해서 얻은 증거인데!
+NPC-Keven(4);NPC-Jason(2)<Speaker>K</Speaker>||:진실도 손쉽게 가짜가 되어버리는 세상이다. 어설프게 들이밀었다 가짜라 낙인 찍혀 버리면 우리 모두 끝장이야.+그딴 것쯤 위조할 방법이 얼마나 널리고 널렸는지는 너도 알잖아.
+NPC-Keven(5)<Speaker>J</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:K가 맞는 말만 하니, J는 반박도 못하고 주먹만 쥐며 의자에 털썩 앉았다.+그리고 탁상에 산더미처럼 쌓인 서류를 보며, 스트레스로 지끈거리는 관자놀이를 문질렀다.
+NPC-Keven(5)<Speaker>J</Speaker>||:...그래서, 넌 요즘 뭐하냐?+말해도 되는 거 있음 좀 말해 봐.
+NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:우리의 차후 임무를 위한 준비 작업 중이지.
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:어엉...? 그건 또 무슨 소리야?
+NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:케빈, 네가 보기에 "그녀"는 얼마나 있을 것 같나?
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:......여기 상관 갈아치워지는 속도로 봤을 때, 길어봤자 2년?
+NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:나 참... 정말 윗선에 대해 아무런 관심도 없구만.
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:"그 사건"이 있고 난 뒤론 슈타지는 원래부터 안 그래도 제약 많던 권한이 아주 쥐꼬리만큼까지 축소돼서 그냥 경찰한테 다른 이름만 붙은 수준이 되어버렸담마.+이런데 내가 윗선 신경쓰게 생겼냐?
+NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:너는 고생할 몸도 없으면서 머리도 나쁘다 해야 하나...+그녀는 어쩌면 "안전국"이 "안전부"가 된 이래 재임 기간이 가장 긴 사람이 될 수 있어. 내가 미래를 걸고 장담하지.
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:...너 진짜 그 여자한테 무슨 세뇌라도 당한 건 아니지?
+NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:"불꽃놀이" 사건 이후, 우린 이상하게도 아무런 징계도 받지 않았다.
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:그렇긴 한데... 솔직히 그거 우리랑은 상관 없는 일 아니야?
+NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:넌 진짜 감이 좋은 건지 나쁜 건지 알다가도 모르겠군... 슈타지는 첩보 기관이다.+그런데 "그 사건"으로 슈타지의 대모스크바 첩보 활동이 20년 전으로 후퇴한 이래, 거기서 무슨 일만 나면 여긴 바로 리더가 교체되어버렸지.
+NPC-Keven(5)<Speaker>J</Speaker>||:그거에 태클 좀 걸자면 슈타지가 20년 후퇴했어도 지금보단 나았다.
+NPC-Jason(2)<Speaker>K</Speaker>||:머리 좀 굴려 봐. 다른 때도 아니고 하필이면 통일절에 "불꽃놀이"가 터진 걸 한발 늦게 알았으니, 슈타지는 바로 징계를 먹었어야 했어.
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:하지만 그 여자는 취임한 지 얼마 되지도 않았는데다, 그 전에 여기서 비슷한 임무를 맡은 사람도 없었잖아.+비록 예전부터 내부 의견이 맞지 않을 때가 많았지만, 적어도 "눈"은 있어서 누가 뭘 하는지는 알았다고.+우리가 모르는 일을 다른 누군가가 하고 있다는 건 말이 안 돼.
+NPC-Keven(5);NPC-Jason(4)<Speaker>K</Speaker>||:생각이 조금 짧았군. 그래서 그 여자가 대단하다는 거다.+단도직입적으로 말하자면, 상층부는 진작부터 "불꽃놀이"에 대한 정황을 파악하고 있었단 뜻이지. 슈타지조차 모르는 와중에, 그녀는 그걸 알고 있었어.
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(4)||:......
+NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:게다가 지난번 지휘관과의 협력 작전도 성공적이었고, 굉장한 정보까지 입수했건만, 우린 후속 임무를 받지 못했다.
+NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:이는 즉 지휘관이 우릴 통해 그녀와 연락한 것이 아니라, 그녀가 우릴 통해 지휘관과의 협력을 얻어냈다는 뜻이지.+그녀는 "윗선"은 물론 "아랫선"과의 연락망까지 다 구축해놨어.
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:...공장에서의 실책은 나도 변명의 여지가 없다.
+NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:널 나무라는 게 아니야.
+NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:"산과 고지를 그리려면 평원을 가야 하고, 평원을 살피려면 산을 올라야 한다."+그녀는 굉장한 야심가다.
+NPC-Keven(0)<Speaker>J</Speaker>||:흐음... 네 분석은 대충 이해했어. 그런데 그게 우리랑 무슨 상관이냐고.+대체... 이제 우린 뭘 해야 하는데?
+NPC-Jason(2)<Speaker>K</Speaker>||:크흠크흠.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:K가 대뜸 헛기침을 하더니, 탁상 아래서 20인치 짐가방을 하나 꺼냈다.
+NPC-Jason(2)<Speaker>K</Speaker>||:마침 너에게 맡길 일이 하나 생겼다.+네 말대로, 우린 더 이상 동료를 잃을 수 없어. 이 사무실 월세가 아까워서라도.
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(2)||:하지만 우린 그 사람 못 건드리니까 근본적인 문제 해결이 안 된다며.
+NPC-Keven(0);NPC-Jason(3)<Speaker>K</Speaker>||:표면상으로는 해결할 수 있지.+그리고 그건 네 주특기고.
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(3)||:...뭐?
+NPC-Keven(0);NPC-Jason(3)<Speaker>K</Speaker>||:우리 쪽 사람이 더는 희생하지 않으면 돼.+네 새 동료들을 소개해 주마.
+NPC-Keven(0)<Speaker>J</Speaker>||:어...
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:J는 K가 폴더에서 꺼낸 프로필을 받아 빠르게 넘겨봤다.
+NPC-Keven(0)<Speaker>J</Speaker>||:또 인형이야?+그것도, 한 번에 4명씩이나?
+NPC-Jason(3)<Speaker>K</Speaker>||:인간 신참 잔뜩 들이는 것보다는 일처리가 빠르고 깔끔하잖아.+그리고... 아주 심각한 사달만 안 나면 희생 걱정하지 않아도 되니까.
+NPC-Keven(5)<Speaker>J</Speaker>||:......+그럼 모나는? 걔 수복도 다 끝났잖아.
+NPC-Jason(3)<Speaker>K</Speaker>||:모나는 따로 일이 있다, 너랑은 다르게 말이지.+스스로가 얼마나 믿음직한 슈타지 요원인지를 행동으로 증명해 보였거든.
+()<Speaker></Speaker>||:J는 입을 괴상한 모양으로 뻐끔거리며 반박할 말을 고민했지만, 이내 포기하고 고개를 푹 숙여 네 인형의 자료를 읽었다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>412</BIN><BGM>BGM_Empty</BGM>:로미 리펜슈탈 국장의 사무실.
+NPC-Romy(0)<Speaker>로미</Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_stage10</BGM>:마무리 작업의 진행 상황은?
+NPC-Romy(0);NPC-maya(2)<Speaker>？</Speaker><通讯框>||:<color=#00CCFF>"불꽃놀이" 이후 꽤 진전되었고, 점점 빨라지고 있습니다.</color>+<color=#00CCFF>현재 모스크바는 문단속이 정말 철저해졌어요. 대사관은 철통 감시에, 심지어는 택배 배달하는 우체부의 집에까지 카메라를 40개는 넘게 달았다니까요.</color>
+NPC-Romy(0)<Speaker>로미</Speaker>;NPC-maya(2)||:아직 정식 요원 송환 통보를 받진 못했다. 적어도 그곳에서의 활동이 여기까지 닿을 파급력은 없었단 것이겠지.+우리가 심어 둔 사람을 찾기보단 그들의 내부 문제 해결에 더 급급하단 뜻이기도 하고. 너도 임무 수행에 더욱 신중하도록.
+NPC-Romy(0)<Speaker>로미</Speaker>;NPC-maya(2)||:우리는 그들의 내란에 입장을 내비쳐서는 안 돼. 표면적이라곤 해도, 엄연히 국가의 입장이 그러하니까.
+NPC-Romy(0);NPC-maya(2)<Speaker>？</Speaker>||:<color=#00CCFF>뭐 어때요, 어차피 우린 "불법" 요원인데. 붙잡혀도 님이 꺼내 주실 거죠?</color>
+NPC-Romy(3)<Speaker>로미</Speaker>;NPC-maya(2)||:아무래도 넌 모스크바 감옥의 식단이 궁금한가 보구나.
+NPC-Romy(3);NPC-maya(2)<Speaker>？</Speaker>||:<color=#00CCFF>설마요. 저도 엄청 힘들다고요, 들통난 동료가 얼마나 많은데.</color>
+NPC-Romy(0)<Speaker>로미</Speaker>;NPC-maya(2)||:못 하겠으면 딴 사람한테 넘기든가.+하지만 해외 파견 보너스는 고정된 총액을 등분하는 것은 알지? 그래도 지원이 필요해?
+NPC-Romy(0);NPC-maya(0)<Speaker>？</Speaker>||:<color=#00CCFF>지금 보너스 따지게 생겼어요? 이건 이상이 걸린 일이라고요!</color>+<color=#00CCFF>님, 저는 추구하는 바가 있는 사람이에요. 해외 파견 임무는 이상과 신념이 있는 사람만 하는 거, 님이야말로 몰라요? 저 좀 믿어 주세요.</color>
+NPC-Romy(1)<Speaker>로미</Speaker>||:흥.
+NPC-maya(2)<Speaker>？</Speaker><通讯框>||:<color=#00CCFF>암튼 확실한 건, 그 "인간도 아닌 것들"은 지금 모스크바에서 철수하고 있다는 거예요.</color>
+NPC-Romy(0)<Speaker>로미</Speaker>;NPC-maya(2)||:놈들이 파기한 자료, 복구할 수 있겠어?
+NPC-Romy(0);NPC-maya(2)<Speaker>？</Speaker>||:<color=#00CCFF>어렵겠어요, 녀석들 시스템의 연산 효율은 우리 부서의 낡아 빠진 고물딱지랑은 천지 차이라서.</color>+<color=#00CCFF>솔직하게 말씀드리자면, 우리 기술팀은 민간에서라도 전문가나 고수 좀 초빙해야 한다고 생각해요.</color>
+NPC-Romy(0)<Speaker>로미</Speaker>;NPC-maya(2)||:그 무기들의 입수 기록은 찾아냈고?
+NPC-Romy(0);NPC-maya(2)<Speaker>？</Speaker>||:<color=#00CCFF>그게 좀 희한하단 말이죠... 그 무기들은 반군――일단 반군이라 부를게요, 그들의 루트를 통해 들어왔어요.</color>+<color=#00CCFF>건설부를 통해서가 아니라요.</color>
+NPC-Romy(3)<Speaker>로미</Speaker>||:...자료 정리해 줘, 최대한 자세하게.
+()||<黑屏1><SE1>AVG_tele_disconnect</SE1>:
+()<Speaker></Speaker>||<黑屏2><BIN>80</BIN><BGM>BGM_Empty</BGM>:모스크바의 어느 카페.
+()<Speaker>웨이터</Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:손님, 주문하신 커피 나왔습니다.+그리고 부탁하신 만능 플러그도 여기 있습니다.
+NPC-maya(2)<Speaker>？</Speaker><Position>0,-50</Position>||<SE1>AVG_20Winter_Book</SE1>:아아 고마워요.
+()<Speaker></Speaker>||:웨이터가 커피를 가져온 8인용 테이블에는 온갖 영수증이 한가득 널브러져 있었다.+하지만 거기에 앉은 사람은 테이블의 크기에 비해 상당히 왜소해 보이는 젊은 여성 한 명뿐이었다.
+()<Speaker>웨이터</Speaker>||:저... 손님? 이건...?
+NPC-maya(0)<Speaker>？</Speaker><Position>0,-50</Position>||:영수증 찍고 있어요.+...나 원 참, 2064년인데 경비 신청에 종이 영수증이 필요하다니.
+()<Speaker>웨이터</Speaker>||:도와드릴까요?
+NPC-maya(2)<Speaker>？</Speaker><Position>0,-50</Position>||<SE1>AVG_20Winter_Book</SE1>:아뇨 됐어요, 여기에 제 하반기 실적 평가도 걸려있어서.
+()||<黑点1>:

@@ -1,60 +1,60 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
-()||<黑屏2><BIN>86</BIN><SE1>AVG_door_elecport</SE1>:잠깐의 침묵 후, 화물칸이 덜컥 열렸다.+그리고 그 안에서 AK-Alfa가 나와, 화물칸 문가에서 PP-19와 셜리를 내려다보았다.
-NPC-Shelley(0)<Speaker>셜리</Speaker>||<BGM>BGM_Truth</BGM>:아! 그 언니다!
-pp19(0)<Speaker>pp19</Speaker>||:이런 어린애한테 들키기나 하고, 너도 별거 아니구만.
-AKAlfa(0)<Speaker>AK Alfa</Speaker>||:그 애가 쫓아올 거라 생각은 안 했으니까... 뭐, 내 실수인 건 맞지.
-pp19(0)<Speaker>pp19</Speaker>||:그래서, 언제까지 내려다볼 거야? 목 아프니까 내려와.
-pp19(0);AKAlfa(0)<Speaker></Speaker>||:AK-Alfa가 화물칸에서 폴짝 뛰어내렸다.+셜리는 신기해하며 AK-Alfa의 옷을 만져보려 했지만, AK-Alfa가 슬쩍 몸을 피했다.
-pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:너무 가까이 오지 마, 나 무기 있어서 위험해.
-pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:그치만 언니 엄청 이쁜걸요!
-pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:이 녀석 칭찬해봤자야.+근데, 뭐하러 따라왔어? 지휘관이 시킨 거야?
-pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:응, 네 백업이자 마인드맵 업그레이드 심사위원으로.
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:그래서, 결과는 나왔어?
-pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:대화의 로직이 전보다 훨씬 유연해졌고, 사고 범위도 꽤 넓어졌네.+작전 수행 능력은 아직 자료가 없으니 평가 불가능이지만.
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:꽤 본격적이네... 그래, 이거 가지고 유치하게 성질부릴 순 없지.+지휘관은 아직도 내가 걱정되나 봐?
-pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||<BGM>BGM_Empty</BGM>:다 "밤 비" 때문이지 뭐.
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:......
-pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:언니?
-pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:...아무것도 아니야. 이 언니랑 얘기 좀 하려는데 셜리 먼저 휴게소로 돌아가 있을래?
-pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:싫어요...+언니들 지금 엄마 아빠랑 싸우려 할 때랑 똑같아요...
-pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:싸우는 거 아니야, 그냥 셜리는 들으면 안 될 말이라서 그래.
-pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:정말요?
-pp19(0)<Speaker>pp19</Speaker>||<黑点1><BGM>BGM_Room</BGM>:정말이야, 약속해. 금방 갈 테니까.
-()||<黑点2>:셜리는 망설이며 자리를 떠났다.+미소로 셜리를 보낸 PP-19는, 셜리가 건물 안으로 들어가자마자 무서운 표정으로 AK-Alfa를 홱 째려봤다.
-AKAlfa(0)<Speaker>AK Alfa</Speaker>||:쟤, 그때 임무 보고에서 봤던 부상당한 애랑 닮았어.
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:아니, 전혀. 저 애는 활발하고, 뭐든 신기해하고, 눈치도 빨라.+뭐... 나도 그 아이에 대해 아는 게 없지만.
-pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||<BGM>BGM_Empty</BGM>:나도 결과 보고서만 봤지, 그 작전에 참여하진 않았어.
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||<BGM>BGM_Truth</BGM><黑屏1>:그때 일이 그리도 궁금해? 좋아, 그럼 말해 줄게. 하긴 뭐 딱히 숨길 일도 아니니.+아주... 악랄한 테러 사건이었지.
-()<Speaker>AK Alfa</Speaker>||<黑屏2><BIN>179</BIN><火花><SE1>AVG_Rain2</SE1>:사회에 대한 보복을 명분 삼아 일어난 악질 테러 사건... +그리고 그 테러의 인질 구출 작전, 작전명 "밤 비". 사망자 1명, 부상 85명. 내가 아는 건 이게 전부야.
-()<Speaker>pp19</Speaker>||:그 당시에 넌 다른 임무 중이었지? 아무튼... 그래, 난 그 작전에 투입됐어.+지금 다시 생각해 보면, 확실히 마카로프 말대로 더 얌전한 수단을 썼어야 했는데. 섬광탄이라든가...
-()<Speaker>AK Alfa</Speaker>||:하지만 넌 인질이 감금된 위치 가까이에 수류탄을 던졌지.
-()<Speaker>pp19</Speaker>||:...그 테러범들, 보급소 안쪽으로 몰아세워지니까 인질 한 명을 죽이고 창밖으로 던져서 위협했다고.+이대로 가다간 나머지 인질들까지 죽을 거란 생각이 들어서, 더는 가만 있을 수가 없었어...+설마 폭발이 벽을 뚫다 못해 날려버릴 줄은 몰랐지! 그래도 나머지 인질들 목숨은 구했...... 그래, 지휘관이 널 보낸 것도 타당해.
-()<Speaker>AK Alfa</Speaker>||:확실히 변했구나.
-()<Speaker>pp19</Speaker>||:뭐가?
-()<Speaker>AK Alfa</Speaker>||:예전 같았으면 분명 달리 방법이 없었다, 사소한 실수였다고 변명만 늘어놨을 텐데.
-()<Speaker>pp19</Speaker>||:음... 그렇네. 아직 실감은 안 나지만, 이것도 업그레이드 덕에 변해선가?+셜리를 봤을 때부터 지휘관이 일부러 이 임무를 준 거란 생각이 들었어.+지휘관도 그때 그 애를 봤으니까.
-()<Speaker>AK Alfa</Speaker>||:그 다친 아이?
-()<Speaker>pp19</Speaker>||<黑屏1><关闭火花>:응... 인간이 다쳐서 피를 흘리는 모습은 인형이랑 다르잖아? 그런 거 처음 봐서, 충격에 그 애가 우는 걸 바라보기만 하고 어떡하질 못했어.+결국 마카로프가 달려와서 그 애를 현장 구급팀한테 데려갔고.
-AKAlfa(0)<Speaker>AK Alfa</Speaker>||<BIN>86</BIN><黑屏2>:하지만 넌 이제 달라졌잖아.
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:와, 고고한 아가씨가 위로도 할 줄 알아?
-pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:...그게 무슨 뜻이야?
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:허구한 날 하늘만 바라보고 아무한테도 말 안 거는 엘리트 인형이 너 말고 더 있겠냐.
-pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:딱히... 할 말이 없으니까.
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:어휴 진짜, 귀여운 구석이 없다니까.
-AKAlfa(0)<Speaker>AK Alfa</Speaker>||:......
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>RunStep</SE1>:AK-Alfa가 입을 다물자, 다시 정적이 감돌았다.+PP-19가 먼저 발길을 돌리려던 그때, 먼저 휴게소로 돌아갔던 셜리가 헐레벌떡 뛰어왔다.
-pp19(0)<Speaker>pp19</Speaker>||:셜리? 무슨 일이야?
-pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:언니! 아빠 구해 주세요! 시장에서... 시장에서 아빠가 강도한테 붙잡혔대요!
-pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||<BGM>BGM_Danger</BGM>:...!
-pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:애랑 트럭은 나한테 맡겨, 어서 가.
-pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||<黑屏1>:...부탁할게.
-()<Speaker></Speaker>||<BIN>187</BIN><SE1>RunStep</SE1><黑屏2>:셜리를 AK-Alfa에게 맡기고, PP-19는 전속력으로 시장으로 달려갔다.+고함과 욕설, 비명... 점점 가까워지는 소리에 PP-19도 신경을 곤두세웠다.+그리고 등에 멘 총을 풀어 손에 쥐고, 강도들을 본 순간 바로 하늘을 향해 위협 사격을 가했다.
-pp19(0)<Speaker>pp19</Speaker>||<SE2>Gunfight</SE2>:꼼짝 마――!!
-pp19(0)<Speaker>강도</Speaker><同时置暗>||:엥, 저건 또 뭐야? 우린 총 없는 줄 아냐?+총 꺼내라 얘들아!
-pp19(0)<Speaker>pp19</Speaker>||:너네들 눈치 있으면 위협할 생각 말고 얌전히 인질 풀어라!+야 거기 너! 한 발만 더 움직여 봐, 발목에 구멍 뚫어 줄 테니까!
-pp19(0)<Speaker>강도</Speaker><同时置暗>||<黑点1><SE1>AVG_weapon_reload</SE1>:인형이잖아?+아니, 무슨 인형이 말주변이 저리 좋아...?+누구네 새 장난감인가? 에이 뭐 어때, 우리 쪽수가 몇인데 너 같은 거 못 잡겠냐? 당장 해치워!
-()<Speaker></Speaker>||<BIN>187</BIN><黑点2><BGM>BGM_Empty</BGM>:......+5분 후, PP-19는 유리안을 부축하며 현장에서 빠져나왔다.
-NPC-PasserbyM(0)<Speaker>유리안</Speaker>||<BGM>BGM_Hello</BGM>:이야아, 요즘 전투 인형은 정말 대단하네!+완전무장한 놈들이었는데, 역시 돈 들이길 잘했어.
-pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:총 있음 뭐해, 훈련도 안 받은 어중이떠중이들인데.+그때에 비하면... 식은 죽 먹기지.
-pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:그때?
-pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||<黑屏1><BGM>BGM_Empty</BGM>:아, 아무것도 아니야.+잠깐... 휴게소 쪽 분위기가 심상찮은데?
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
+()||<黑屏2><BIN>86</BIN><SE1>AVG_door_elecport</SE1>:잠깐의 침묵 후, 화물칸이 덜컥 열렸다.+그리고 그 안에서 AK-Alfa가 나와, 화물칸 문가에서 PP-19와 셜리를 내려다보았다.
+NPC-Shelley(0)<Speaker>셜리</Speaker>||<BGM>BGM_Truth</BGM>:아! 그 언니다!
+pp19(0)<Speaker>pp19</Speaker>||:이런 어린애한테 들키기나 하고, 너도 별거 아니구만.
+AKAlfa(0)<Speaker>AK Alfa</Speaker>||:그 애가 쫓아올 거라 생각은 안 했으니까... 뭐, 내 실수인 건 맞지.
+pp19(0)<Speaker>pp19</Speaker>||:그래서, 언제까지 내려다볼 거야? 목 아프니까 내려와.
+pp19(0);AKAlfa(0)<Speaker></Speaker>||:AK-Alfa가 화물칸에서 폴짝 뛰어내렸다.+셜리는 신기해하며 AK-Alfa의 옷을 만져보려 했지만, AK-Alfa가 슬쩍 몸을 피했다.
+pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:너무 가까이 오지 마, 나 무기 있어서 위험해.
+pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:그치만 언니 엄청 이쁜걸요!
+pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:이 녀석 칭찬해봤자야.+근데, 뭐하러 따라왔어? 지휘관이 시킨 거야?
+pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:응, 네 백업이자 마인드맵 업그레이드 심사위원으로.
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:그래서, 결과는 나왔어?
+pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:대화의 로직이 전보다 훨씬 유연해졌고, 사고 범위도 꽤 넓어졌네.+작전 수행 능력은 아직 자료가 없으니 평가 불가능이지만.
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:꽤 본격적이네... 그래, 이거 가지고 유치하게 성질부릴 순 없지.+지휘관은 아직도 내가 걱정되나 봐?
+pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||<BGM>BGM_Empty</BGM>:다 "밤 비" 때문이지 뭐.
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:......
+pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:언니?
+pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||:...아무것도 아니야. 이 언니랑 얘기 좀 하려는데 셜리 먼저 휴게소로 돌아가 있을래?
+pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:싫어요...+언니들 지금 엄마 아빠랑 싸우려 할 때랑 똑같아요...
+pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:싸우는 거 아니야, 그냥 셜리는 들으면 안 될 말이라서 그래.
+pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:정말요?
+pp19(0)<Speaker>pp19</Speaker>||<黑点1><BGM>BGM_Room</BGM>:정말이야, 약속해. 금방 갈 테니까.
+()||<黑点2>:셜리는 망설이며 자리를 떠났다.+미소로 셜리를 보낸 PP-19는, 셜리가 건물 안으로 들어가자마자 무서운 표정으로 AK-Alfa를 홱 째려봤다.
+AKAlfa(0)<Speaker>AK Alfa</Speaker>||:쟤, 그때 임무 보고에서 봤던 부상당한 애랑 닮았어.
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:아니, 전혀. 저 애는 활발하고, 뭐든 신기해하고, 눈치도 빨라.+뭐... 나도 그 아이에 대해 아는 게 없지만.
+pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||<BGM>BGM_Empty</BGM>:나도 결과 보고서만 봤지, 그 작전에 참여하진 않았어.
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||<BGM>BGM_Truth</BGM><黑屏1>:그때 일이 그리도 궁금해? 좋아, 그럼 말해 줄게. 하긴 뭐 딱히 숨길 일도 아니니.+아주... 악랄한 테러 사건이었지.
+()<Speaker>AK Alfa</Speaker>||<黑屏2><BIN>179</BIN><火花><SE1>AVG_Rain2</SE1>:사회에 대한 보복을 명분 삼아 일어난 악질 테러 사건... +그리고 그 테러의 인질 구출 작전, 작전명 "밤 비". 사망자 1명, 부상 85명. 내가 아는 건 이게 전부야.
+()<Speaker>pp19</Speaker>||:그 당시에 넌 다른 임무 중이었지? 아무튼... 그래, 난 그 작전에 투입됐어.+지금 다시 생각해 보면, 확실히 마카로프 말대로 더 얌전한 수단을 썼어야 했는데. 섬광탄이라든가...
+()<Speaker>AK Alfa</Speaker>||:하지만 넌 인질이 감금된 위치 가까이에 수류탄을 던졌지.
+()<Speaker>pp19</Speaker>||:...그 테러범들, 보급소 안쪽으로 몰아세워지니까 인질 한 명을 죽이고 창밖으로 던져서 위협했다고.+이대로 가다간 나머지 인질들까지 죽을 거란 생각이 들어서, 더는 가만 있을 수가 없었어...+설마 폭발이 벽을 뚫다 못해 날려버릴 줄은 몰랐지! 그래도 나머지 인질들 목숨은 구했...... 그래, 지휘관이 널 보낸 것도 타당해.
+()<Speaker>AK Alfa</Speaker>||:확실히 변했구나.
+()<Speaker>pp19</Speaker>||:뭐가?
+()<Speaker>AK Alfa</Speaker>||:예전 같았으면 분명 달리 방법이 없었다, 사소한 실수였다고 변명만 늘어놨을 텐데.
+()<Speaker>pp19</Speaker>||:음... 그렇네. 아직 실감은 안 나지만, 이것도 업그레이드 덕에 변해선가?+셜리를 봤을 때부터 지휘관이 일부러 이 임무를 준 거란 생각이 들었어.+지휘관도 그때 그 애를 봤으니까.
+()<Speaker>AK Alfa</Speaker>||:그 다친 아이?
+()<Speaker>pp19</Speaker>||<黑屏1><关闭火花>:응... 인간이 다쳐서 피를 흘리는 모습은 인형이랑 다르잖아? 그런 거 처음 봐서, 충격에 그 애가 우는 걸 바라보기만 하고 어떡하질 못했어.+결국 마카로프가 달려와서 그 애를 현장 구급팀한테 데려갔고.
+AKAlfa(0)<Speaker>AK Alfa</Speaker>||<BIN>86</BIN><黑屏2>:하지만 넌 이제 달라졌잖아.
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:와, 고고한 아가씨가 위로도 할 줄 알아?
+pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:...그게 무슨 뜻이야?
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:허구한 날 하늘만 바라보고 아무한테도 말 안 거는 엘리트 인형이 너 말고 더 있겠냐.
+pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:딱히... 할 말이 없으니까.
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||:어휴 진짜, 귀여운 구석이 없다니까.
+AKAlfa(0)<Speaker>AK Alfa</Speaker>||:......
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>RunStep</SE1>:AK-Alfa가 입을 다물자, 다시 정적이 감돌았다.+PP-19가 먼저 발길을 돌리려던 그때, 먼저 휴게소로 돌아갔던 셜리가 헐레벌떡 뛰어왔다.
+pp19(0)<Speaker>pp19</Speaker>||:셜리? 무슨 일이야?
+pp19(0);NPC-Shelley(0)<Speaker>셜리</Speaker>||:언니! 아빠 구해 주세요! 시장에서... 시장에서 아빠가 강도한테 붙잡혔대요!
+pp19(0)<Speaker>pp19</Speaker>;NPC-Shelley(0)||<BGM>BGM_Danger</BGM>:...!
+pp19(0);AKAlfa(0)<Speaker>AK Alfa</Speaker>||:애랑 트럭은 나한테 맡겨, 어서 가.
+pp19(0)<Speaker>pp19</Speaker>;AKAlfa(0)||<黑屏1>:...부탁할게.
+()<Speaker></Speaker>||<BIN>187</BIN><SE1>RunStep</SE1><黑屏2>:셜리를 AK-Alfa에게 맡기고, PP-19는 전속력으로 시장으로 달려갔다.+고함과 욕설, 비명... 점점 가까워지는 소리에 PP-19도 신경을 곤두세웠다.+그리고 등에 멘 총을 풀어 손에 쥐고, 강도들을 본 순간 바로 하늘을 향해 위협 사격을 가했다.
+pp19(0)<Speaker>pp19</Speaker>||<SE2>Gunfight</SE2>:꼼짝 마――!!
+pp19(0)<Speaker>강도</Speaker><同时置暗>||:엥, 저건 또 뭐야? 우린 총 없는 줄 아냐?+총 꺼내라 얘들아!
+pp19(0)<Speaker>pp19</Speaker>||:너네들 눈치 있으면 위협할 생각 말고 얌전히 인질 풀어라!+야 거기 너! 한 발만 더 움직여 봐, 발목에 구멍 뚫어 줄 테니까!
+pp19(0)<Speaker>강도</Speaker><同时置暗>||<黑点1><SE1>AVG_weapon_reload</SE1>:인형이잖아?+아니, 무슨 인형이 말주변이 저리 좋아...?+누구네 새 장난감인가? 에이 뭐 어때, 우리 쪽수가 몇인데 너 같은 거 못 잡겠냐? 당장 해치워!
+()<Speaker></Speaker>||<BIN>187</BIN><黑点2><BGM>BGM_Empty</BGM>:......+5분 후, PP-19는 유리안을 부축하며 현장에서 빠져나왔다.
+NPC-PasserbyM(0)<Speaker>유리안</Speaker>||<BGM>BGM_Hello</BGM>:이야아, 요즘 전투 인형은 정말 대단하네!+완전무장한 놈들이었는데, 역시 돈 들이길 잘했어.
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||:총 있음 뭐해, 훈련도 안 받은 어중이떠중이들인데.+그때에 비하면... 식은 죽 먹기지.
+pp19(0);NPC-PasserbyM(0)<Speaker>유리안</Speaker>||:그때?
+pp19(0)<Speaker>pp19</Speaker>;NPC-PasserbyM(0)||<黑屏1><BGM>BGM_Empty</BGM>:아, 아무것도 아니야.+잠깐... 휴게소 쪽 분위기가 심상찮은데?

@@ -1,107 +1,107 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>89</BIN><黑屏2><BGM>BGM_Hello</BGM>:......+가구 포장 센터.+PKP는 가구 포장 임무를 지시받자마자 곧장 이곳으로 왔지만, 먼저 도착한 사람이 있었다.
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:일찍 왔군.
-SPP1(4)<Speaker>SPP1</Speaker>||:아, PKP 씨. 어... 왜 그러세요? 무슨 일 있어요?
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:아무 일도 없다.
-SPP1(4)<Speaker>SPP1</Speaker>||:그럼 왜 그렇게 거리를 둬요...?+저랑 가까이 있기 싫으세요?
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:아니, 그저 혼자 있는 편이 익숙해서니 신경 쓸 것 없다.
-SPP1(4)<Speaker>SPP1</Speaker>||:그렇군요.... 아무튼, 우리 함께 잘해 봐요!
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||<黑屏1>:그래.
-()||:두 인형은 개점에 대비해 각종 포장재를 준비했다. 도중에 SPP-1이 PKP와 몇 번 부딪칠 뻔했지만, 그때마다 PKP는 멋지게 회피했다.+그래서 멋쩍었는지, SPP-1이 딱 할 말만 하던 PKP에게 말을 걸었다.
-SPP1(4)<Speaker>SPP1</Speaker>||:저... PKP 씨는 새 옷 안 샀어요?
-PKP(0)<Speaker>PKP</Speaker>||:이미 충분히 많으니 굳이 또 살 필요는 없다.+그리고 이번에 받았던 옷 샘플 중에서도 내게 어울리는 게 없었으니, 이대로도 충분해.
-SPP1(4)<Speaker>SPP1</Speaker>||:정말 하나도 마음에 안 들었어요?+분명 군청색 옷을 한참 바라봤던 걸로 기억하는데...
-PKP(0)<Speaker>PKP</Speaker>||:색상은 괜찮았지만, 치맛자락이 너무 거추장스러웠어.
-SPP1(4)<Speaker>SPP1</Speaker>||:아... 정말 뭐든지 완벽을 추구하는군요
-PKP(0)<Speaker>PKP</Speaker>||:그래. 그리고 지금은 업무 중이니 잡담은 이쯤 하자.+비켜, 그쪽에서 물건을 꺼내야 한다.
-SPP1(4)<Speaker>SPP1</Speaker>||:아, 네...
-()||:얼마 지나지 않아, SPP-1도 자신이 오히려 PKP에게 부담감을 준다는 사실을 깨닫곤 그녀와 멀찍이 거리를 두게 되었다.+그리고 SPP-1이 커다란 수족관 속으로 숨자, 그걸 본 PKP도 나지막이 안도의 한숨을 쉬었다.
-PKP(0)<Speaker>PKP</Speaker>||:<color=#A9A9A9>이제야 마음 놓고 일할 수 있겠군.</color>+<color=#A9A9A9>4번째 고객.</color>
-()<Speaker>4번 손님</Speaker>||:저기요, 포장 교체되나요?
-PKP(0)<Speaker>PKP</Speaker>||:어떻게 해드릴까요.
-()<Speaker>4번 손님</Speaker>||:집들이 선물로 직접 보내려는데, 이 포장은 너무 거추장스러워서요.+좀 더 심플하면서도 경사스러운 느낌으로 바꿨으면 하는데요.
-PKP(0)<Speaker>PKP</Speaker>||:심플하면서도 경사스럽게.+알겠습니다.
-()||:선반에 놓인 온갖 포장재들을 확인하며 PKP는 머리를 굴렸다.
-PKP(0)<Speaker>PKP</Speaker>||:<color=#A9A9A9>거추장스럽다니 R2 금테 종이는 안 되고, 대신 PU 재질로 모서리를 감싼 뒤 금색 장식을 붙이면...</color>+<color=#A9A9A9>침착한 느낌의 적갈색을 바탕으로 완충재를 추가해서...</color>+4번 고객, 화물 수령하십시오.
-()<Speaker>4번 손님</Speaker>||:와, 훨씬 낫네요!
-PKP(0)<Speaker>PKP</Speaker>||:다음 고객.
-()<Speaker>5번 손님</Speaker>||:이걸 소포로 보내려 하는데요.
-PKP(0)<Speaker>PKP</Speaker>||:어떻게 포장하고 싶으신지?
-()<Speaker>5번 손님</Speaker>||:으음... 그 멍청, 아니 그 사람이랑 화해하려고 선물하는 건데, 딱히 아첨하는 것처럼 보이고 싶진 않거든요?+그러니 그냥 딱 봐서 럭셔리해 보이면서도 담담한 느낌이었으면 좋겠어요.
-PKP(0)<Speaker>PKP</Speaker>||:<color=#A9A9A9>담담하면서도 럭셔리하게. 그럼 차가운 색인 B-3를 메인으로...</color>+<color=#A9A9A9>모서리를 주의해서 포장하고...</color>+5번 고객, 화물 수령하십시오.
-()<Speaker>6번 손님</Speaker>||:친구에게 보낼 건데, 내용물이 뭔지 모르게 하고 싶어요!
-()<Speaker>7번 손님</Speaker>||:부모님께 드릴 선물인데, 최대한 정중하게...
-()||:......+손님이 점점 더 많아지자, PKP도 더 신속하게 요구에 알맞는 포장 방안을 연산하면서 속도를 높였다.+하지만 아무리 PKP라도 이런 고속 연산을 장시간 유지하기엔 부담이 컸다.
-PKP(0)<Speaker>PKP</Speaker>||<黑屏1>:<color=#A9A9A9>간단한 일이라 생각했더니, 인간의 요구가 이렇게 까다로울 줄이야...</color>+<color=#A9A9A9>저마다 다른 요구에 맞춰 처리하는 건 장기전만큼 힘들군.</color>
-()||<黑屏2>:그래도 PKP의 노력 덕분에, 대기 손님의 수가 많이 줄었다.+포장재 선반을 정리할 여유도 생겨, PKP는 잠시 숨을 돌렸다.+그런데, 생각해 보니 왠지 조금 이상했다.
-PKP(0)<Speaker>PKP</Speaker>||<BGM>BGM_Empty</BGM>:<color=#A9A9A9>이상해. 방금까지만 해도 분명 대기열이 상당히 길었는데, 왜 불평하는 사람이 한 명도 없었지?</color>
-()<Speaker>행인</Speaker>||:멋지다! 덤블링! 덤블링 한 번 더 해봐!
-PKP(0)<Speaker>PKP</Speaker>||:<color=#A9A9A9>덤블링?</color>
-()||<BGM>GF_Memorial</BGM>:PKP는 고개를 들어, 많이 줄어든 인파 너머를 살펴봤다.+SPP-1이 어느샌가 물로 가득 찬 수족관 속에서 헤엄치고 있었다. 유연한 몸놀림으로 물속에서 아름다운 무용을 뽐내면서 사람들의 눈길을 끌고 있었던 것이다.
-PKP(0)<Speaker>PKP</Speaker>||:<color=#A9A9A9>그래서 재촉하는 사람이 없었군... 고맙다, SPP-1.</color>+<color=#A9A9A9>녀석도 힘들 테니 나도 서둘러야겠어.</color>+150번 고객, 화물 수령하십시오.
-()<Speaker>150번 손님</Speaker>||<黑屏1>:우와... 어? 벌써 내 차례야?+와, 깔끔하네! 고마워요!
-()||<黑屏2>:......+지휘관이 가구 포장 센터에 들렀을 땐, PKP의 작업은 거의 막바지에 이른 상태였다.+지휘관을 본 PKP는 간단히 고개를 끄덕여 인사하면서 다음 화물을 포장하러 옆을 지나갔다.
-()<Speaker>지휘관</Speaker>||:오늘 임무는 어땠어?
-PKP(0)<Speaker>PKP</Speaker>||:그걸 나에게 묻는 건가? 내가 이 임무를 받은 시점에서 완벽한 성공은 이미 예정된 일이다.+172번 고객, 화물 수령하십시오.
-()<Speaker>행인</Speaker>||:이야, 이 포장 엄청 창의적이네요! 좋아 좋아.
-()<Speaker>지휘관</Speaker>||:손님들도 다들 만족스러워하는 모양이네.
-PKP(0)<Speaker>PKP</Speaker>||:물론이지.+각종 요구에도 완벽하게 대응할 수 있는 것이 엘리트 전술인형으로서의 가치다.
-()<Speaker>지휘관</Speaker>||:하하, 역시 PKP구나.+그나저나, 옷을 사지 않았다면서?
-PKP(0)<Speaker>PKP</Speaker>||:내 기준에 맞는 것이 없었다.
-()<Speaker>지휘관</Speaker>||:이참에 주문 제작 의뢰할까?
-PKP(0)<Speaker>PKP</Speaker>||:그럼 명절도 다 지난 이후에나 수령하게 될 테니 더욱 필요 없다.+그것보다, 임무 완수 후에 이 등롱을 가져가도 될까?
-()<Speaker>지휘관</Speaker>||:물론 되는데, 어디다 쓰려고?
-PKP(0)<Speaker>PKP</Speaker>||:등롱 축제 때 쓸 수 있을 것 같다.
-()<Speaker>지휘관</Speaker>||:마음대로 하렴.
-()<Speaker>손님</Speaker>||:저기, 제 물건은 다 됐나요?
-PKP(0)<Speaker>PKP</Speaker>||:지금 마무리 중이니 잠시만 기다리십시오.
-()<Speaker>지휘관</Speaker>||:혹시나 해서 와봤는데 역시나였네. 그럼 더 방해하지 않을 테니, 깔끔하게 마무리 지으렴.
-PKP(0)<Speaker>PKP</Speaker>||:걱정 마라.
-()||<BGM>BGM_Empty</BGM>:그렇게 PKP가 마지막 포장을 마친 순간이었다.+그녀의 완벽 추구를 비웃기라도 하듯, 물속에서 발버둥치는 묵직한 소리가 들렸다.+소리가 나는 쪽으로 고개를 돌리니, 수족관 속에서 SPP-1이 고통스러워하며 몸부림치고 있었다. 발목의 고리도 불안정하게 번쩍였다.
-PKP(0)<Speaker>PKP</Speaker>||<BGM>BGM_Danger</BGM>:<color=#A9A9A9>합선인가?</color>+<color=#A9A9A9>당장 구조해야 해. 튜브로 ...</color>+<color=#A9A9A9>...아니, 이것만으론 늦어.</color>
-()||:더 신중히 생각할 여유가 없어, PKP는 본능적으로 튜브를 던지면서 총을 들어 수족관의 측면을 쏘았다.+쏟아져 나온 물은 정면에 있던 지휘관에겐 한 방울도 튀지 않았다.+급선무는 해결됐지만, 바닥이 물바다가 되어 버렸다.
-PKP(0)<Speaker>PKP</Speaker>||:......
-()<Speaker>지휘관</Speaker>||:어... PKP?
-PKP(0)<Speaker>PKP</Speaker>||<黑屏1>:SPP-1의 상태부터 확인해라. 바닥의 물은 내가 어떻게든 처리하지.
-()||<黑屏2><BIN>82</BIN> <Night><BGM>BGM_Empty</BGM>:......+인형들이 그리폰 기지로 귀환했을 땐 이미 깊은 밤이었다.+오늘의 임무 보고를 마친 PKP도 드물게 피곤한 모습이었다.+그런데, 숙소로 돌아간 그녀의 방 문 앞에서 누군가가 그녀를 기다리고 있었다.
-SPP1(4)<Speaker>SPP1</Speaker>||<BGM>BGM_Moon</BGM>:아, PKP 씨!
-PKP(0)<Speaker>PKP</Speaker>||:무슨 일이지?
-SPP1(4)<Speaker>SPP1</Speaker>||:저... 이거, 사과의 뜻으로 드리는 거에요. 받아 주세요!
-PKP(0)<Speaker>PKP</Speaker>||:사과라니?
-SPP1(4)<Speaker>SPP1</Speaker>||:그러니까, 그게... 오늘...
-PKP(0)<Speaker>PKP</Speaker>||:신경 쓸 것 없다고 했을 텐데. 나보다 못하단 사실을 깨달았을 테니, 다음부턴 얌전히 기다리면 된다. 자신이 서투른 분야에서 문제를 일으키지만 않으면 돼.
-SPP1(4)<Speaker>SPP1</Speaker>||:으... 그, 그래도 이건 제가 잘하는 분야예요!+PKP 씨, 설마 평상복으로 등롱 축제에 갈 생각은 아니죠?
-PKP(0)<Speaker>PKP</Speaker>||:참가할 생각 없다.
-SPP1(4)<Speaker>SPP1</Speaker>||:거짓말, 지휘관님이랑 말하는 거 다 들었어요!+그래서 제가 잘하는 걸로 도와드리려고요. 자요, 제 선물이에요.
-()||:PKP는 고개를 숙여, SPP-1이 건넨 선물 상자를 바라봤다.
-PKP(0)<Speaker>PKP</Speaker>||:이건... 옷?+정말 내 마음에 들 거라 확신하나?
-SPP1(4)<Speaker>SPP1</Speaker>||:네!+빨리 입어 보세요!
-PKP(0)<Speaker>PKP</Speaker>||<黑屏1>:알았다.
-SPP1(4)<Speaker>SPP1</Speaker>||<黑屏2>:어때요? 마음에 들어요?
-PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:생각보단... 괜찮군.
-SPP1(4)<Speaker>SPP1</Speaker>||:그쵸~ 엄청 잘 어울려요!
-PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:네가 만든 건가?
-SPP1(4)<Speaker>SPP1</Speaker>||:아뇨, 하지만 제가 직접 개량한 디자인이에요.+치맛자락이 거추장스럽다고 했잖아요? 그래서 재단을 잘하는 인형한테 부탁해서, 짧게 자르고 꽃무늬도 넣었어요.
-PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:...너무 짧은데.
-SPP1(4)<Speaker>SPP1</Speaker>||:아... 너무 짧았나요? 그건 생각을 못했네요...
-PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position><黑屏1>:괜찮아, 이 정도도 나쁘지 않아.
-()||<黑屏2><BIN>128</BIN>:그날 밤, 등롱 축제.+지휘관은 축제 현장의 한구석에서, 예상치 못한 복장의 은발 인형을 발견했다.
-()<Speaker>지휘관</Speaker>||:PKP?
-PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:좋은 밤이다, 지휘관.
-()<Speaker>지휘관</Speaker>||:새 옷 안 샀다며?
-PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:SPP-1이 사과한다면서 준 "선물"이다.+지휘관 이외의 사람에게 받은 옷을 입는 건 처음이라, 느낌이 좀 이상하군...
-()<Speaker>지휘관</Speaker>||:아하... 정말 잘 어울려.+<color=#A9A9A9>SPP-1 녀석, 그래서 대뜸 나한테 와서 돈을 잔뜩 빌린 거였구나... 하긴, 꽤 비싼 옷이니.</color>+그럼, 다른 인형에게 선물을 받은 소감은 어때?
-PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:이상한 느낌이라 했잖아.+잘하고 못하는 것이 확실한데, 왜 서투른 분야의 일까지 거들려 한 건지 이해가 안 가는군.
-()<Speaker>지휘관</Speaker>||:해보지 않고선 정말 서투른지 아닌지 알 수 없잖아?
-PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:인형의 특기는 다 사전에 설정된다. 시도해봐야 알 수 있는 것 따윈 없어.+SPP-1은 몸집도 작고 소체의 강도도 떨어져, 누가 봐도 가구 운반, 포장 업무에 적합하지 않았다.
-()<Speaker>지휘관</Speaker>||:도전과 탐구가 그 애의 천성인 거겠지.
-PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:그걸 임무에 가져오는 것 자체가 민폐다.+그래도... 잘하는 분야는 확실히 해내더군.
-()<Speaker>지휘관</Speaker>||:걔가 방해돼서 화나진 않았고?
-PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:난 고작 그런 일로 화내지 않는다.+그딴 소소한 문제쯤, 내 선에서 처리할 수 있어.
-()<Speaker>지휘관</Speaker>||:그렇다니 다행이네.+참, 오늘 축제의 마지막 코너가 뭔진 아니?
-PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:마지막 코너? 축제 일정에 그런 게 있었나?
-()<Speaker>지휘관</Speaker>||:즉석에서 추가된 거야. 어느 인형이 업무 도중 겪었던 일에서 얻은 영감을 다듬어서 만든 수중 무용이라고 해.+제목이 뭐였더라... 아.+"푸른 연꽃".
-PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:......
-()<Speaker>지휘관</Speaker>||:같이 보러 갈까?
-()||:지휘관을 바라보며, PKP는 머리카락을 만지작거렸다.
-PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position><黑屏1>:......그래.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>89</BIN><黑屏2><BGM>BGM_Hello</BGM>:......+가구 포장 센터.+PKP는 가구 포장 임무를 지시받자마자 곧장 이곳으로 왔지만, 먼저 도착한 사람이 있었다.
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:일찍 왔군.
+SPP1(4)<Speaker>SPP1</Speaker>||:아, PKP 씨. 어... 왜 그러세요? 무슨 일 있어요?
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:아무 일도 없다.
+SPP1(4)<Speaker>SPP1</Speaker>||:그럼 왜 그렇게 거리를 둬요...?+저랑 가까이 있기 싫으세요?
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:아니, 그저 혼자 있는 편이 익숙해서니 신경 쓸 것 없다.
+SPP1(4)<Speaker>SPP1</Speaker>||:그렇군요.... 아무튼, 우리 함께 잘해 봐요!
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||<黑屏1>:그래.
+()||:두 인형은 개점에 대비해 각종 포장재를 준비했다. 도중에 SPP-1이 PKP와 몇 번 부딪칠 뻔했지만, 그때마다 PKP는 멋지게 회피했다.+그래서 멋쩍었는지, SPP-1이 딱 할 말만 하던 PKP에게 말을 걸었다.
+SPP1(4)<Speaker>SPP1</Speaker>||:저... PKP 씨는 새 옷 안 샀어요?
+PKP(0)<Speaker>PKP</Speaker>||:이미 충분히 많으니 굳이 또 살 필요는 없다.+그리고 이번에 받았던 옷 샘플 중에서도 내게 어울리는 게 없었으니, 이대로도 충분해.
+SPP1(4)<Speaker>SPP1</Speaker>||:정말 하나도 마음에 안 들었어요?+분명 군청색 옷을 한참 바라봤던 걸로 기억하는데...
+PKP(0)<Speaker>PKP</Speaker>||:색상은 괜찮았지만, 치맛자락이 너무 거추장스러웠어.
+SPP1(4)<Speaker>SPP1</Speaker>||:아... 정말 뭐든지 완벽을 추구하는군요
+PKP(0)<Speaker>PKP</Speaker>||:그래. 그리고 지금은 업무 중이니 잡담은 이쯤 하자.+비켜, 그쪽에서 물건을 꺼내야 한다.
+SPP1(4)<Speaker>SPP1</Speaker>||:아, 네...
+()||:얼마 지나지 않아, SPP-1도 자신이 오히려 PKP에게 부담감을 준다는 사실을 깨닫곤 그녀와 멀찍이 거리를 두게 되었다.+그리고 SPP-1이 커다란 수족관 속으로 숨자, 그걸 본 PKP도 나지막이 안도의 한숨을 쉬었다.
+PKP(0)<Speaker>PKP</Speaker>||:<color=#A9A9A9>이제야 마음 놓고 일할 수 있겠군.</color>+<color=#A9A9A9>4번째 고객.</color>
+()<Speaker>4번 손님</Speaker>||:저기요, 포장 교체되나요?
+PKP(0)<Speaker>PKP</Speaker>||:어떻게 해드릴까요.
+()<Speaker>4번 손님</Speaker>||:집들이 선물로 직접 보내려는데, 이 포장은 너무 거추장스러워서요.+좀 더 심플하면서도 경사스러운 느낌으로 바꿨으면 하는데요.
+PKP(0)<Speaker>PKP</Speaker>||:심플하면서도 경사스럽게.+알겠습니다.
+()||:선반에 놓인 온갖 포장재들을 확인하며 PKP는 머리를 굴렸다.
+PKP(0)<Speaker>PKP</Speaker>||:<color=#A9A9A9>거추장스럽다니 R2 금테 종이는 안 되고, 대신 PU 재질로 모서리를 감싼 뒤 금색 장식을 붙이면...</color>+<color=#A9A9A9>침착한 느낌의 적갈색을 바탕으로 완충재를 추가해서...</color>+4번 고객, 화물 수령하십시오.
+()<Speaker>4번 손님</Speaker>||:와, 훨씬 낫네요!
+PKP(0)<Speaker>PKP</Speaker>||:다음 고객.
+()<Speaker>5번 손님</Speaker>||:이걸 소포로 보내려 하는데요.
+PKP(0)<Speaker>PKP</Speaker>||:어떻게 포장하고 싶으신지?
+()<Speaker>5번 손님</Speaker>||:으음... 그 멍청, 아니 그 사람이랑 화해하려고 선물하는 건데, 딱히 아첨하는 것처럼 보이고 싶진 않거든요?+그러니 그냥 딱 봐서 럭셔리해 보이면서도 담담한 느낌이었으면 좋겠어요.
+PKP(0)<Speaker>PKP</Speaker>||:<color=#A9A9A9>담담하면서도 럭셔리하게. 그럼 차가운 색인 B-3를 메인으로...</color>+<color=#A9A9A9>모서리를 주의해서 포장하고...</color>+5번 고객, 화물 수령하십시오.
+()<Speaker>6번 손님</Speaker>||:친구에게 보낼 건데, 내용물이 뭔지 모르게 하고 싶어요!
+()<Speaker>7번 손님</Speaker>||:부모님께 드릴 선물인데, 최대한 정중하게...
+()||:......+손님이 점점 더 많아지자, PKP도 더 신속하게 요구에 알맞는 포장 방안을 연산하면서 속도를 높였다.+하지만 아무리 PKP라도 이런 고속 연산을 장시간 유지하기엔 부담이 컸다.
+PKP(0)<Speaker>PKP</Speaker>||<黑屏1>:<color=#A9A9A9>간단한 일이라 생각했더니, 인간의 요구가 이렇게 까다로울 줄이야...</color>+<color=#A9A9A9>저마다 다른 요구에 맞춰 처리하는 건 장기전만큼 힘들군.</color>
+()||<黑屏2>:그래도 PKP의 노력 덕분에, 대기 손님의 수가 많이 줄었다.+포장재 선반을 정리할 여유도 생겨, PKP는 잠시 숨을 돌렸다.+그런데, 생각해 보니 왠지 조금 이상했다.
+PKP(0)<Speaker>PKP</Speaker>||<BGM>BGM_Empty</BGM>:<color=#A9A9A9>이상해. 방금까지만 해도 분명 대기열이 상당히 길었는데, 왜 불평하는 사람이 한 명도 없었지?</color>
+()<Speaker>행인</Speaker>||:멋지다! 덤블링! 덤블링 한 번 더 해봐!
+PKP(0)<Speaker>PKP</Speaker>||:<color=#A9A9A9>덤블링?</color>
+()||<BGM>GF_Memorial</BGM>:PKP는 고개를 들어, 많이 줄어든 인파 너머를 살펴봤다.+SPP-1이 어느샌가 물로 가득 찬 수족관 속에서 헤엄치고 있었다. 유연한 몸놀림으로 물속에서 아름다운 무용을 뽐내면서 사람들의 눈길을 끌고 있었던 것이다.
+PKP(0)<Speaker>PKP</Speaker>||:<color=#A9A9A9>그래서 재촉하는 사람이 없었군... 고맙다, SPP-1.</color>+<color=#A9A9A9>녀석도 힘들 테니 나도 서둘러야겠어.</color>+150번 고객, 화물 수령하십시오.
+()<Speaker>150번 손님</Speaker>||<黑屏1>:우와... 어? 벌써 내 차례야?+와, 깔끔하네! 고마워요!
+()||<黑屏2>:......+지휘관이 가구 포장 센터에 들렀을 땐, PKP의 작업은 거의 막바지에 이른 상태였다.+지휘관을 본 PKP는 간단히 고개를 끄덕여 인사하면서 다음 화물을 포장하러 옆을 지나갔다.
+()<Speaker>지휘관</Speaker>||:오늘 임무는 어땠어?
+PKP(0)<Speaker>PKP</Speaker>||:그걸 나에게 묻는 건가? 내가 이 임무를 받은 시점에서 완벽한 성공은 이미 예정된 일이다.+172번 고객, 화물 수령하십시오.
+()<Speaker>행인</Speaker>||:이야, 이 포장 엄청 창의적이네요! 좋아 좋아.
+()<Speaker>지휘관</Speaker>||:손님들도 다들 만족스러워하는 모양이네.
+PKP(0)<Speaker>PKP</Speaker>||:물론이지.+각종 요구에도 완벽하게 대응할 수 있는 것이 엘리트 전술인형으로서의 가치다.
+()<Speaker>지휘관</Speaker>||:하하, 역시 PKP구나.+그나저나, 옷을 사지 않았다면서?
+PKP(0)<Speaker>PKP</Speaker>||:내 기준에 맞는 것이 없었다.
+()<Speaker>지휘관</Speaker>||:이참에 주문 제작 의뢰할까?
+PKP(0)<Speaker>PKP</Speaker>||:그럼 명절도 다 지난 이후에나 수령하게 될 테니 더욱 필요 없다.+그것보다, 임무 완수 후에 이 등롱을 가져가도 될까?
+()<Speaker>지휘관</Speaker>||:물론 되는데, 어디다 쓰려고?
+PKP(0)<Speaker>PKP</Speaker>||:등롱 축제 때 쓸 수 있을 것 같다.
+()<Speaker>지휘관</Speaker>||:마음대로 하렴.
+()<Speaker>손님</Speaker>||:저기, 제 물건은 다 됐나요?
+PKP(0)<Speaker>PKP</Speaker>||:지금 마무리 중이니 잠시만 기다리십시오.
+()<Speaker>지휘관</Speaker>||:혹시나 해서 와봤는데 역시나였네. 그럼 더 방해하지 않을 테니, 깔끔하게 마무리 지으렴.
+PKP(0)<Speaker>PKP</Speaker>||:걱정 마라.
+()||<BGM>BGM_Empty</BGM>:그렇게 PKP가 마지막 포장을 마친 순간이었다.+그녀의 완벽 추구를 비웃기라도 하듯, 물속에서 발버둥치는 묵직한 소리가 들렸다.+소리가 나는 쪽으로 고개를 돌리니, 수족관 속에서 SPP-1이 고통스러워하며 몸부림치고 있었다. 발목의 고리도 불안정하게 번쩍였다.
+PKP(0)<Speaker>PKP</Speaker>||<BGM>BGM_Danger</BGM>:<color=#A9A9A9>합선인가?</color>+<color=#A9A9A9>당장 구조해야 해. 튜브로 ...</color>+<color=#A9A9A9>...아니, 이것만으론 늦어.</color>
+()||:더 신중히 생각할 여유가 없어, PKP는 본능적으로 튜브를 던지면서 총을 들어 수족관의 측면을 쏘았다.+쏟아져 나온 물은 정면에 있던 지휘관에겐 한 방울도 튀지 않았다.+급선무는 해결됐지만, 바닥이 물바다가 되어 버렸다.
+PKP(0)<Speaker>PKP</Speaker>||:......
+()<Speaker>지휘관</Speaker>||:어... PKP?
+PKP(0)<Speaker>PKP</Speaker>||<黑屏1>:SPP-1의 상태부터 확인해라. 바닥의 물은 내가 어떻게든 처리하지.
+()||<黑屏2><BIN>82</BIN> <Night><BGM>BGM_Empty</BGM>:......+인형들이 그리폰 기지로 귀환했을 땐 이미 깊은 밤이었다.+오늘의 임무 보고를 마친 PKP도 드물게 피곤한 모습이었다.+그런데, 숙소로 돌아간 그녀의 방 문 앞에서 누군가가 그녀를 기다리고 있었다.
+SPP1(4)<Speaker>SPP1</Speaker>||<BGM>BGM_Moon</BGM>:아, PKP 씨!
+PKP(0)<Speaker>PKP</Speaker>||:무슨 일이지?
+SPP1(4)<Speaker>SPP1</Speaker>||:저... 이거, 사과의 뜻으로 드리는 거에요. 받아 주세요!
+PKP(0)<Speaker>PKP</Speaker>||:사과라니?
+SPP1(4)<Speaker>SPP1</Speaker>||:그러니까, 그게... 오늘...
+PKP(0)<Speaker>PKP</Speaker>||:신경 쓸 것 없다고 했을 텐데. 나보다 못하단 사실을 깨달았을 테니, 다음부턴 얌전히 기다리면 된다. 자신이 서투른 분야에서 문제를 일으키지만 않으면 돼.
+SPP1(4)<Speaker>SPP1</Speaker>||:으... 그, 그래도 이건 제가 잘하는 분야예요!+PKP 씨, 설마 평상복으로 등롱 축제에 갈 생각은 아니죠?
+PKP(0)<Speaker>PKP</Speaker>||:참가할 생각 없다.
+SPP1(4)<Speaker>SPP1</Speaker>||:거짓말, 지휘관님이랑 말하는 거 다 들었어요!+그래서 제가 잘하는 걸로 도와드리려고요. 자요, 제 선물이에요.
+()||:PKP는 고개를 숙여, SPP-1이 건넨 선물 상자를 바라봤다.
+PKP(0)<Speaker>PKP</Speaker>||:이건... 옷?+정말 내 마음에 들 거라 확신하나?
+SPP1(4)<Speaker>SPP1</Speaker>||:네!+빨리 입어 보세요!
+PKP(0)<Speaker>PKP</Speaker>||<黑屏1>:알았다.
+SPP1(4)<Speaker>SPP1</Speaker>||<黑屏2>:어때요? 마음에 들어요?
+PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:생각보단... 괜찮군.
+SPP1(4)<Speaker>SPP1</Speaker>||:그쵸~ 엄청 잘 어울려요!
+PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:네가 만든 건가?
+SPP1(4)<Speaker>SPP1</Speaker>||:아뇨, 하지만 제가 직접 개량한 디자인이에요.+치맛자락이 거추장스럽다고 했잖아요? 그래서 재단을 잘하는 인형한테 부탁해서, 짧게 자르고 꽃무늬도 넣었어요.
+PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:...너무 짧은데.
+SPP1(4)<Speaker>SPP1</Speaker>||:아... 너무 짧았나요? 그건 생각을 못했네요...
+PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position><黑屏1>:괜찮아, 이 정도도 나쁘지 않아.
+()||<黑屏2><BIN>128</BIN>:그날 밤, 등롱 축제.+지휘관은 축제 현장의 한구석에서, 예상치 못한 복장의 은발 인형을 발견했다.
+()<Speaker>지휘관</Speaker>||:PKP?
+PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:좋은 밤이다, 지휘관.
+()<Speaker>지휘관</Speaker>||:새 옷 안 샀다며?
+PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:SPP-1이 사과한다면서 준 "선물"이다.+지휘관 이외의 사람에게 받은 옷을 입는 건 처음이라, 느낌이 좀 이상하군...
+()<Speaker>지휘관</Speaker>||:아하... 정말 잘 어울려.+<color=#A9A9A9>SPP-1 녀석, 그래서 대뜸 나한테 와서 돈을 잔뜩 빌린 거였구나... 하긴, 꽤 비싼 옷이니.</color>+그럼, 다른 인형에게 선물을 받은 소감은 어때?
+PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:이상한 느낌이라 했잖아.+잘하고 못하는 것이 확실한데, 왜 서투른 분야의 일까지 거들려 한 건지 이해가 안 가는군.
+()<Speaker>지휘관</Speaker>||:해보지 않고선 정말 서투른지 아닌지 알 수 없잖아?
+PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:인형의 특기는 다 사전에 설정된다. 시도해봐야 알 수 있는 것 따윈 없어.+SPP-1은 몸집도 작고 소체의 강도도 떨어져, 누가 봐도 가구 운반, 포장 업무에 적합하지 않았다.
+()<Speaker>지휘관</Speaker>||:도전과 탐구가 그 애의 천성인 거겠지.
+PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:그걸 임무에 가져오는 것 자체가 민폐다.+그래도... 잘하는 분야는 확실히 해내더군.
+()<Speaker>지휘관</Speaker>||:걔가 방해돼서 화나진 않았고?
+PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:난 고작 그런 일로 화내지 않는다.+그딴 소소한 문제쯤, 내 선에서 처리할 수 있어.
+()<Speaker>지휘관</Speaker>||:그렇다니 다행이네.+참, 오늘 축제의 마지막 코너가 뭔진 아니?
+PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:마지막 코너? 축제 일정에 그런 게 있었나?
+()<Speaker>지휘관</Speaker>||:즉석에서 추가된 거야. 어느 인형이 업무 도중 겪었던 일에서 얻은 영감을 다듬어서 만든 수중 무용이라고 해.+제목이 뭐였더라... 아.+"푸른 연꽃".
+PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position>:......
+()<Speaker>지휘관</Speaker>||:같이 보러 갈까?
+()||:지휘관을 바라보며, PKP는 머리카락을 만지작거렸다.
+PKP(8)<Speaker>PKP</Speaker>||<Position>0,100</Position><黑屏1>:......그래.
