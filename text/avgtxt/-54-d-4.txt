@@ -1,0 +1,103 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>529</BIN><SE1>AVG_Station_Bell</SE1><BGM>BGM_Moon</BGM>:모스크바 벨로루스키역, 대륙간 열차 "미래호".+루카스는 닥터 루고사를 부축하며 일등석 객차에 올라탔다.
+NPC-TD_Boy(0)<Speaker>루카스</Speaker>||<SE1>AVG_BaseDoor_Close</SE1>:선생님, 아직 의료봉사가 끝나지 않았는데 먼저 베를린에 돌아가도 괜찮을까요?+갈라테아 그룹에서 합의를 어긴 걸 알면 아마 비난이 쏟아질 텐데...
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:우리 귀여운 루카스, 네가 어떻게든 얼버무려 줄 거지?
+NPC-TD_Boy(1)<Speaker>루카스</Speaker>||:...알았어요, 선생님. 방법을 생각해 볼게요.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:닥터 루고사는 루카스의 머리카락을 문지르다 깊은 한숨을 내쉬었다.
+NPC-TD_Boy(0)<Speaker>루카스</Speaker>||:왜 한숨을 쉬세요?
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:그 난민들이 떠올라서... 그들은 결국엔 치료받을 기회를 얻지 못했으니...
+NPC-TD_Boy(0)<Speaker>루카스</Speaker>||:선생님...
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:가끔은 나도 모르게 생각한단다, 만약 내가 끝까지 초심을 유지했다면 지금은 모든 게 다르지 않았을까 하고 말이다.
+()<Speaker></Speaker>||:닥터 루고사는 옆의 꼬마 조수가 진심으로 걱정하는 눈빛을 느끼고 허탈한 웃음을 지었다.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:하하, 내가 또 헛소리를 하는구만...
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:뚜벅뚜벅—— 절도있는 걸음 소리와 함께 한 여성이 좌석 옆에 나타났다.+좌석표를 확인하고서 여성은 닥터 루고사의 맞은편에 앚았다.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||<SE1>Stop_AVG_loop</SE1>:반갑습니다, 류드밀라라고 합니다.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:유진 루고사라 하오. 닥터 루고사라 불러주시게.
+()<Speaker></Speaker>||:서로 인사를 나누고 열차 안은 다시 조용해졌다.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:루카스는 담요를 꺼내 의사의 몸에 덮어주었다. 따듯함에 감싸여 의사는 깊은 잠에 빠졌다...
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<回忆><黑屏2><BIN>325</BIN><边框>2</边框>:......+조용한 실험실 안.+닥터 루고사는 말없이 실험 준비를 하고 있고, 루카스가 곁에 다가왔다.
+NPC-TD_Boy(1)<Speaker>루카스</Speaker>||<边框>2</边框>:선생님, 오늘의 실험대상이 도착했습니다.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||<边框>2</边框>:응, 먼저 한 번씩 확인하자.
+NPC-TD_Boy(1)<Speaker>루카스</Speaker>||<边框>2</边框>:네.
+()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_BaseDoor_Open</SE1><BGM>BGM_Truth</BGM>:루카스는 문을 열고 키가 작은 여자아이들을 들여왔다.
+NPC-TD_Boy(1)<Speaker>루카스</Speaker>||<边框>2</边框><SE1>AVG_20Winter_Book</SE1>:안토니나, 나이 10살, 신장 120cm, 체중 30kg.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||<边框>2</边框>:통과, 뒤쪽으로 데려가.
+NPC-TD_Boy(1)<Speaker>루카스</Speaker>||<边框>2</边框>:네.
+NPC-TD_Boy(0)<Speaker>루카스</Speaker>||<SE1>AVG_20Winter_Book</SE1><边框>2</边框>:다음... 로시타, 나이 11살, 신장...
+()<Speaker></Speaker>||<边框>2</边框>:루카스가 검사를 멈추고 의사 쪽으로 고개를 돌렸다.
+NPC-TD_Boy(0)<Speaker>루카스</Speaker>||<边框>2</边框>:루고사 선생님, 이 여자아이는 정보와 달라요, 눈에 문제가 있습니다.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||<边框>2</边框>:......
+()<Speaker></Speaker>||<边框>2</边框>:의사는 여자아이 앞에 다가갔다, 소녀의 맑은 두 눈은 초점 없이 앞만을 바라보며 의사의 움직임에 전혀 반응하지 않았다.+실명한 아이였다. 의사는 그녀가 가여웠다.+세상의 아름다움을 보지도 못한 채 지옥에 들어선 그 아이가.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||<边框>2</边框>:...됐다, 또 왔다갔다하면 고생이니까, 다른 장기가 멀쩡하면 들여보내렴.
+NPC-TD_Boy(0)<Speaker>루카스</Speaker>||<边框>2</边框>:네.
+()||<黑点1><边框>2</边框>:
+()<Speaker></Speaker>||<黑点2><边框>2</边框>:반 시간 후.
+NPC-TD_Boy(1)<Speaker>루카스</Speaker>||<边框>2</边框>:선생님, 실험대상 확인을 전부 마쳤습니다.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||<边框>2</边框>:그래, 그럼 나는 실험 기록을 시작할 테니까, 밖에서 기다리렴.
+NPC-TD_Boy(1)<Speaker>루카스</Speaker>||<边框>2</边框>:저도 도와드릴 수 있어요.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||<边框>2</边框>:아니야, 나가 있으렴.
+NPC-TD_Boy(0)<Speaker>루카스</Speaker>||<边框>2</边框>:...네, 선생님.
+()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_door_elecport</SE1>:루카스는 어깨를 떨구고서 실험실에서 나갔다.+닥터 루고사는 언제나, 루카스가 실험 과정에 함께하는 것을 한사코 거부했다.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||<边框>2</边框>:기록 개시, 금일 실험대상 프로필 업로드 완료. 이어서...
+()<Speaker></Speaker>||<边框>2</边框>:닥터 루고사는 방 안에 곤히 잠들어 있는 아이들을 보며 가볍게 한숨을 쉬었다.
+()||<黑屏1><边框>2</边框>:
+()<Speaker>닥터 루고사</Speaker>||<BIN>9</BIN><黑屏2><边框>2</边框>:실험 개시.
+()<Speaker></Speaker>||<边框>2</边框>:......
+()||<黑屏1><边框>2</边框>:
+()<Speaker></Speaker>||<边框>2</边框><黑点2><BIN>325</BIN>:몇 시간 후.
+()<Speaker></Speaker>||<边框>2</边框><SE1>ClothingUp</SE1>:닥터 루고사는 실험용 가운과 장갑을 벗고 몸에 남아있는 핏자국을 씻어냈다.
+NPC-TD_Boy(0)<Speaker>루카스</Speaker>||<边框>2</边框>:선생님, 청소부가 실험 폐자재를 가지고 갔습니다.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||<边框>2</边框>:그래.
+NPC-TD_Boy(0)<Speaker>루카스</Speaker>||<边框>2</边框>:근데 아직 숨이 붙어있는 폐자재가 있다고 해서 선생님이 처리해 달래요.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||<边框>2</边框>:......+알았다.
+()<Speaker></Speaker>||<边框>2</边框><SE1>ClothingUp</SE1>:닥터 루고사는 혈흔이 낭자한 장갑을 다시 쓰고 실험대상을 방치한 방에 들어갔다.+그 실명한 여자아이였다. 그녀는 방구석에 잔뜩 웅크려 몸을 떨고 있었다.
+NPC-TD_Boy(0)<Speaker>루카스</Speaker>||<边框>2</边框>:선생님, 제가 할까요?
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||<边框>2</边框>:......
+()<Speaker></Speaker>||<边框>2</边框>:닥터 루고사는 여자아이의 공허한 두 눈을 마주보고 한참을 침묵하다가 루카스에게 고개를 돌렸다.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||<边框>2</边框>:수면제 두 알 먹이렴.
+NPC-TD_Boy(0)<Speaker>루카스</Speaker>||<边框>2</边框>:확실한가요, 선생님? 수면제 두 알은 치사량에 미달...
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||<边框>2</边框>:알고 있어, 그냥 내 말대로 하면 돼.
+NPC-TD_Boy(0)<Speaker>루카스</Speaker>||<边框>2</边框>:네.
+()<Speaker></Speaker>||<边框>2</边框>:여자아이를 마지막으로 한 번 쳐다보고서 닥터 루고사는 실험실을 나갔다.
+()||<黑屏1><边框>2</边框>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM><关闭蒙版>:......+닥터 루고사는 그것이 그 여자아이를 보는 마지막이라 생각했다.+그런데 이 열차에서 그는 그 맑은 눈을 가진 여자아이를 다시 만났다.+이번엔 이 아이를 구할 수 있을지도 모른다...+닥터 루고사는 그 생각을 멈출 수가 없었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><SE1>ClothingUp</SE1><BIN>529</BIN>:혈청 용액이 천천히 주사기에서 빠져나가고, 로시타의 안색은 눈에 띄게 안정되었다.+어수선한 객차 안에서 의사는 로시타의 곁에 쪼그려 앉아 그 아이를 넋을 놓고 바라보았다...
+()<Speaker>승객1</Speaker>||<BGM>GF_22W_BGM_2</BGM>:의사 선생, 아직 혈청 남아있죠!?
+()<Speaker>승객2</Speaker>||:남아있는 거 다 꺼내봐요!
+()<Speaker>승객3</Speaker>||:우리도 혈청이 필요하다고요! 빨리 내놔요!
+()<Speaker></Speaker>||:원초적인 탐욕과 생존욕구가 지켜보던 승객들 사이에 퍼져나갔다——
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:더는 없소, 이게 마지막 남은 하나요.
+()<Speaker>승객1</Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>:<size=50>거짓말 마!</size>
+()<Speaker>승객2</Speaker>||:<size=50>빨리 내놓으라고! 빨리!</size>
+NPC-TD_Boy(0)<Speaker>루카스</Speaker>||:진정들 하세요, 방금 그게 정말 딱 하나 있던 거예요...
+()<Speaker></Speaker>||:루카스가 나서서 말려보려 했지만, 이미 승객들은 의사를 단단히 에워쌌다.
+()<Speaker>승객3</Speaker>||:이 영감탱이가! 그렇게 고집을 부린다면 우리도 이렇게 나올 수밖에!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>520</BIN><SE1>AVG_20Winter_Knife_Whoosh</SE1>:쉭하는 소리와 함께, 앞장 선 남자 승객이 비수를 꺼내 굶주린 늑대처럼 서서히 다가왔다.+이윽고 다른 승객들도 각자 무기를 들고서 의사에게 모여들었다...
+()<Speaker>루카스</Speaker>||:선생님!
+()<Speaker>닥터 루고사</Speaker>||<BGM>BGM_Empty</BGM><震屏3>:<size=50>칼 내려놓으시오!</size>
+()<Speaker></Speaker>||<BGM>10258</BGM>:욕심으로 얼굴이 일그러진 승객들을 보며, 그는 그날 루카스가 쓰러진 모습이 또다시 떠올랐다...+하지만 실패에 대한 걱정이 피어오르는 순간 닥터 루고사는 바로 그것을 찍어눌렀다.+그는 더이상 자신에겐 물러설 곳이 없음을 알고 있었다. 아무리 무섭고 두려워도 마지막 희망을 지켜내야 했다.+닥터 루고사는 이를 악물고 뒷걸음질치던 발을 멈췄다...
+()<Speaker>닥터 루고사</Speaker>||:다시는 내게서 무언가를 빼앗아가게 두지 않겠소!
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:닥터 루고사는 양팔을 활짝 벌려 루카스와 로시타 앞을 막아섰다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<震屏3><BIN>529</BIN><SE1>AVG_Door_Hit</SE1>:콰앙——!+칼끝이 닥터 루고사의 살갗을 찌르기 직전, 객차 문이 기세 좋게 열렸다.
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:거대한 그림자가 무지막지한 기세로 빽빽한 포위망에 달려들어 순식간에 길을 뚫었다.
+NPC-TD_Worker(2)<Speaker>폴</Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:비켜! 다 저리 비켜!
+()<Speaker></Speaker>||:폴이 스패너를 마구 휘두르며 닥터 루고사의 안전지대를 확보했다.
+NPC-TD_Worker(2)<Speaker>폴</Speaker>||:로시타는... 무사합니까?
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:혈청을 주사해서 증상은 이미 안정되었소.
+NPC-TD_Worker(0)<Speaker>폴</Speaker>||:다행이다...+정말 고맙습니다.
+()<Speaker></Speaker>||:닥터 루고사는 로시타 곁으로 돌아가 상태를 살폈다. 그녀의 호흡은 평온했다. 혈청이 효과가 있었던 모양이다.
+NPC-TD_Boy(0)<Speaker>루카스</Speaker>||:선생님, 어디 다치셨어요?
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:......+괜찮아, 난 괜찮단다.
+NPC-TD_Boy(0)<Speaker>루카스</Speaker>||:그런데 왜... 울고 계세요?
+()<Speaker></Speaker>||:닥터 루고사는 멍하니 자신의 뺨을 만져 보았다. 장갑 너머로 차갑고 촉촉한 감촉이 느껴졌다.+루카스가 세상을 떠나고서 그는 아주 오래도록 눈물을 흘렸던 적이 없었다.
+NPC-TD_Boy(0)<Speaker>루카스</Speaker>||:선생님?
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:내가... 작은 생명을 구했어.
+()<Speaker></Speaker>||:루카스는 눈을 깜빡이며 의사가 설명해주길 기다리는 듯했다.+하지만 닥터 루고사는 같은 말을 계속 중얼거렸다.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:내가 작은 생명을 구했어...+......+처음부터 나는... 그저 생명을 구한다는 느낌 자체를 좋아했던 거야...
+()||<黑点1>:

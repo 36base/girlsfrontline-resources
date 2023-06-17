@@ -1,63 +1,63 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>GF_Memorial</BGM>:얼마 후, M950A는 미끼역을 자청했던 요정들과 짧은 통신을 나눴다.+그리고 썬더를 임시 거점의 수복 캡슐에 안치했다.
-Thunder50(0)<Speaker>썬더</Speaker>||<黑屏2>:950... 갈 거야?
-Thunder50(0);M950A(8)<Speaker>M950A</Speaker>||:응. 그 돌격대는 우리의 예상보다 훨씬 빠르게 전진하고 있어.+지휘관을 구출하려면 우선 놈들부터 해치워야 해.
-Thunder50(0)<Speaker>썬더</Speaker>;M950A(8)||:너 혼자서?
-Thunder50(0);M950A(8)<Speaker>M950A</Speaker>||:응.
-Thunder50(0)<Speaker>썬더</Speaker>;M950A(8)||:......
-Thunder50(0);M950A(8)<Speaker>M950A</Speaker>||:안 말려?
-Thunder50(0)<Speaker>썬더</Speaker>;M950A(8)||:안 말려. 그게 지금 네가 가장 하고 싶은 일이잖아.+...무사히 돌아와야 해.
-Thunder50(0);M950A(8)<Speaker>M950A</Speaker>||:알았어.
-Thunder50(0)<Speaker>썬더</Speaker>;M950A(8)||:......
-Thunder50(0);M950A(8)<Speaker>M950A</Speaker>||:왜, 왜 그렇게 빤히 쳐다봐...?
-Thunder50(0)<Speaker>썬더</Speaker>;M950A(8)||:새 옷... 멋져.
-Thunder50(0);M950A(8)<Speaker>M950A</Speaker>||:어?+고, 고마워...
-Thunder50(0);M950A(8)<Speaker></Speaker>||:M950A는 얼굴을 붉히며 썬더에게서 시선을 돌렸다.
-M950A(8)<Speaker>M950A</Speaker>||:그럼, 이만 출발할게.
-Thunder50(0)<Speaker>썬더</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:힘내.
-()<Speaker></Speaker>||<BIN>99</BIN><黑屏2><BGM>10256</BGM>:......+얼마 지나지 않아, M950A는 그 돌격대를 발견했다.
-M950A(8)<Speaker>M950A</Speaker>||:<color=#A9A9A9>준비 완료, 작전 개시.</color>
-()<Speaker></Speaker>||:M950A는 일부러 도중의 참호 안에 보급한 흔적을 남기고, 그곳에서 20m가량 앞에 쌓인 동료들의 잔해 더미 속에 숨었다.+그리고 군의 돌격대가 M950A의 시야에 들어왔다.
-()<Speaker>M950A</Speaker>||:<color=#A9A9A9>적 부대... 인간 병사와 군용 인형의 혼합편성.</color>+<color=#A9A9A9>인간 4명, 인형 6기.</color>
-NPC-Soldier(0)<Speaker>돌격대장</Speaker>||:잔해들인가... 만일을 위해 확인 사살해라.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타탕! 타타탕!+날아드는 총탄의 충격을 견디며, M950A는 돌격대를 계속해서 관찰했다.
-NPC-Yegor(3)<Speaker>돌격대원</Speaker>||:보고. 정찰병이 그리폰 인형의 보급 장비를 발견했습니다. 얼마 안 된 흔적 같습니다.
-NPC-Soldier(0)<Speaker>돌격대장</Speaker>;NPC-Yegor(3)||:인형은 우리와 종대로 배치, 경계하면서 정찰해라.
-NPC-Yegor(3)<Speaker>돌격대원</Speaker>||:예.
-()<Speaker></Speaker>||:M950A는 돌격대의 대열의 꽁무니에 살금살금 접근했다.
-M950A(8)<Speaker></Speaker>||:그리고 노획한 EMP 수류탄을 꺼내, 최후열의 군용 인형들에게 던졌다.
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:삐이이익!+두 군용 인형들의 기능 정지 경보음에, 돌격대는 그제서야 상황을 깨달았다.
-NPC-Soldier(0)<Speaker>돌격대장</Speaker>||:아까 그 인형이다!
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타탕!+네 인간 병사들은 군용 인형을 방패 삼으면서, 사격하며 M950A를 향해 전진했다.
-M950A(8)<Speaker>M950A</Speaker>||<黑点1>:<color=#A9A9A9>걸려들었다.</color>
-()<Speaker></Speaker>||<黑点2><BIN>167</BIN>:M950A는 곧장 참호 속으로 뛰어들었고, 돌격대도 어쩔 수 없이 그 비좁은 땅굴로 들어갔다.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타탕!
-M950A(8)<Speaker></Speaker>||<SE1>RunStep</SE1>:피격당하진 않았지만, 날아드는 총탄이 벽에 박히면서 튀는 파편들이 M950A를 때렸다.
-M950A(8)<Speaker>M950A</Speaker>||:<color=#A9A9A9>하나, 둘... 인간은 세 명뿐인가. 일단 인형은 다 들어왔네.</color>
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:군용 인형과 인간 병사들은 쉴 새 없이 M950A에게 총알 세례를 퍼부었다.
-M950A(8)<Speaker></Speaker>||<SE1>RunStep</SE1>:하지만 M950A는 딱히 반격하지 않고, 지그재그로 회피하면서 달렸다. 그녀의 목적은 단순했다. 적을 이 참호의 지하실까지 유인하는 것이었다.
-M950A(8)<Speaker>M950A</Speaker><Shake>||:큭...!
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타탕!+돌격대가 재차 사격하자, 이번엔 등에 3발을 맞고 말았다. 다행히 재구성된 소체가 튼튼해 큰 손상을 입지 않았지만, 피탄의 충격으로 하마터면 균형을 잃고 넘어질 뻔했다.
-M950A(9)<Speaker>M950A</Speaker>||<黑点1>:<color=#A9A9A9>여기까지 와서.. 실패할 것 같아?!</color>
-()<Speaker></Speaker>||<BIN>9</BIN><黑点2>:M950A와 군 돌격대는 참호 깊은 곳의 지하실에 거의 동시에 도착했다.+하지만 지하실은 탄약 상자 하나 없이 텅 비어 있었다.
-M950A(8)<Speaker>M950A</Speaker>||:......
-NPC-Soldier(0)<Speaker>돌격대원</Speaker>||:하, 여기에 폭발물이 있었다면 애당초 쫓아오지도 않았다고!+그리폰의 고물 인형 주제에 우리와 동귀어진이라도 할 셈이었냐?!+해치워라!
-()<Speaker></Speaker>||:군용 인형 4기가 동시에 M950A에게 달려들었고, 인간 병사들은 뒤에서 계속해서 제압 사격을 가했다.+아무리 M950A의 성능이 향상됐다지만, 군용 인형과 정면으로 붙으면 이길 수 없다. 하물며, 넷이 동시에 공격해 온다면 말할 필요도 없었다.
-M950A(8)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_weapon_reload</SE1>:그래도 M950A는 총을 뽑아 들었다. 하지만 그녀가 겨눈 것은 적이 아니었다.+지하실의 마지막 남은 버팀목이었다.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2><BGM>DJMAX_FirstKiss</BGM>:망설임 없는 M950A의 사격에 버팀목은 순식간에 부러졌다.
-NPC-Soldier(0)<Speaker>돌격대원</Speaker>||:뭐야?! 제기랄!!
-()<Speaker></Speaker>||:그리고 병사들은 그제서야 지하실의 다른 버팀목들이 미리 거의 다 부서져 있음을 눈치챘다.
-()<Speaker></Speaker>||<SE1>Explode</SE1><黑屏1>:마지막 버팀목이 부러지면서 흙과 돌덩이가 산사태처럼 쏟아졌고, M950A도, 군 병사들도 이를 피할 수 없었다.+눈 깜짝할 사이에, 지하실의 모두가 무너져 내린 콘크리트와 흙더미에 파묻혔다.
-NPC-Soldier(0)<Speaker>돌격대장</Speaker>||<黑屏2><BIN>99</BIN>:한 방 먹었군...+인형 하나에게 우리 병사 5명과 인형 6대를 잃다니...+하지만 그리폰은 이미 끝장이다. 네놈들 지휘관의 좌표는 이미 포착했다!
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:그때, 돌격대장의 탐지기가 경보음을 울렸다.
-NPC-Soldier(0)<Speaker>돌격대장</Speaker>||:쳇...!
-()<Speaker></Speaker>||:무거운 돌더미로 인해 과부하로 타들어 가는 마인드맵, 그리고 적을 향한 분노.+이 모든 것을 견디면서, M950A은 무너진 흙더미를 뚫고 뛰쳐나왔다.
-M950A(10)<Speaker>M950A</Speaker>||:그리폰은... 절대 지지 않아!
-M950A(10)<Speaker></Speaker>||<黑屏1>3</黑屏1><SE1>AVG_weapon_reload</SE1>:손으로 총을 장전하고, 입에는 마지막 남은 단검을 물고서 눈앞의 적에게 달려들었다.
-()<Speaker>M950A</Speaker>||<BIN>9</BIN><黑屏2>3</黑屏2>:어쩌면, 우리의 싸움은 영원히 끝나지 않을지도 몰라.+어쩌면, 우린 앞으로도 수많은 이별을 겪을지도 몰라.
-()<Speaker>M950A</Speaker>||<黑屏1>:하지만... 우리는 절대, 잔혹한 운명에 무릎 꿇지 않겠어.
-()<Speaker></Speaker>||<BIN>41</BIN><黑屏2>:불길이 치솟는 그리폰 열차의 잔해.
-()<Speaker>지휘관</Speaker>||:미안... 쇼크로 잠깐 실명한 모양이야.+네가 누군지 알 수 있을까?
-()<Speaker></Speaker>||:그 자리의 인형들은 서로를 마주 보곤, 함께 한 발짝 앞으로 내디뎠다.
-()<Speaker>？？？</Speaker>||<黑屏1>:당신의 휘하 인형입니다.
-()<Speaker>M950A</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>3</黑屏1>:우리의 여정의 끝은 아직 한참 멀었어. 아직도 수많은 선택의 기로와 마주해야 해.+그러니까, 난 나와 함께하는 모든 이들을, 온 힘을 다해서 지켜내겠어.+함께, 이 상처투성이인 세계를... 모두가 아름다운 추억을 가지고 살아갈 수 있는 무대로 만들겠어.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><黑屏1><BGM>GF_Memorial</BGM>:얼마 후, M950A는 미끼역을 자청했던 요정들과 짧은 통신을 나눴다.+그리고 썬더를 임시 거점의 수복 캡슐에 안치했다.
+Thunder50(0)<Speaker>썬더</Speaker>||<黑屏2>:950... 갈 거야?
+Thunder50(0);M950A(8)<Speaker>M950A</Speaker>||:응. 그 돌격대는 우리의 예상보다 훨씬 빠르게 전진하고 있어.+지휘관을 구출하려면 우선 놈들부터 해치워야 해.
+Thunder50(0)<Speaker>썬더</Speaker>;M950A(8)||:너 혼자서?
+Thunder50(0);M950A(8)<Speaker>M950A</Speaker>||:응.
+Thunder50(0)<Speaker>썬더</Speaker>;M950A(8)||:......
+Thunder50(0);M950A(8)<Speaker>M950A</Speaker>||:안 말려?
+Thunder50(0)<Speaker>썬더</Speaker>;M950A(8)||:안 말려. 그게 지금 네가 가장 하고 싶은 일이잖아.+...무사히 돌아와야 해.
+Thunder50(0);M950A(8)<Speaker>M950A</Speaker>||:알았어.
+Thunder50(0)<Speaker>썬더</Speaker>;M950A(8)||:......
+Thunder50(0);M950A(8)<Speaker>M950A</Speaker>||:왜, 왜 그렇게 빤히 쳐다봐...?
+Thunder50(0)<Speaker>썬더</Speaker>;M950A(8)||:새 옷... 멋져.
+Thunder50(0);M950A(8)<Speaker>M950A</Speaker>||:어?+고, 고마워...
+Thunder50(0);M950A(8)<Speaker></Speaker>||:M950A는 얼굴을 붉히며 썬더에게서 시선을 돌렸다.
+M950A(8)<Speaker>M950A</Speaker>||:그럼, 이만 출발할게.
+Thunder50(0)<Speaker>썬더</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:힘내.
+()<Speaker></Speaker>||<BIN>99</BIN><黑屏2><BGM>10256</BGM>:......+얼마 지나지 않아, M950A는 그 돌격대를 발견했다.
+M950A(8)<Speaker>M950A</Speaker>||:<color=#A9A9A9>준비 완료, 작전 개시.</color>
+()<Speaker></Speaker>||:M950A는 일부러 도중의 참호 안에 보급한 흔적을 남기고, 그곳에서 20m가량 앞에 쌓인 동료들의 잔해 더미 속에 숨었다.+그리고 군의 돌격대가 M950A의 시야에 들어왔다.
+()<Speaker>M950A</Speaker>||:<color=#A9A9A9>적 부대... 인간 병사와 군용 인형의 혼합편성.</color>+<color=#A9A9A9>인간 4명, 인형 6기.</color>
+NPC-Soldier(0)<Speaker>돌격대장</Speaker>||:잔해들인가... 만일을 위해 확인 사살해라.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타탕! 타타탕!+날아드는 총탄의 충격을 견디며, M950A는 돌격대를 계속해서 관찰했다.
+NPC-Yegor(3)<Speaker>돌격대원</Speaker>||:보고. 정찰병이 그리폰 인형의 보급 장비를 발견했습니다. 얼마 안 된 흔적 같습니다.
+NPC-Soldier(0)<Speaker>돌격대장</Speaker>;NPC-Yegor(3)||:인형은 우리와 종대로 배치, 경계하면서 정찰해라.
+NPC-Yegor(3)<Speaker>돌격대원</Speaker>||:예.
+()<Speaker></Speaker>||:M950A는 돌격대의 대열의 꽁무니에 살금살금 접근했다.
+M950A(8)<Speaker></Speaker>||:그리고 노획한 EMP 수류탄을 꺼내, 최후열의 군용 인형들에게 던졌다.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:삐이이익!+두 군용 인형들의 기능 정지 경보음에, 돌격대는 그제서야 상황을 깨달았다.
+NPC-Soldier(0)<Speaker>돌격대장</Speaker>||:아까 그 인형이다!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타탕!+네 인간 병사들은 군용 인형을 방패 삼으면서, 사격하며 M950A를 향해 전진했다.
+M950A(8)<Speaker>M950A</Speaker>||<黑点1>:<color=#A9A9A9>걸려들었다.</color>
+()<Speaker></Speaker>||<黑点2><BIN>167</BIN>:M950A는 곧장 참호 속으로 뛰어들었고, 돌격대도 어쩔 수 없이 그 비좁은 땅굴로 들어갔다.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타탕!
+M950A(8)<Speaker></Speaker>||<SE1>RunStep</SE1>:피격당하진 않았지만, 날아드는 총탄이 벽에 박히면서 튀는 파편들이 M950A를 때렸다.
+M950A(8)<Speaker>M950A</Speaker>||:<color=#A9A9A9>하나, 둘... 인간은 세 명뿐인가. 일단 인형은 다 들어왔네.</color>
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:군용 인형과 인간 병사들은 쉴 새 없이 M950A에게 총알 세례를 퍼부었다.
+M950A(8)<Speaker></Speaker>||<SE1>RunStep</SE1>:하지만 M950A는 딱히 반격하지 않고, 지그재그로 회피하면서 달렸다. 그녀의 목적은 단순했다. 적을 이 참호의 지하실까지 유인하는 것이었다.
+M950A(8)<Speaker>M950A</Speaker><Shake>||:큭...!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타탕!+돌격대가 재차 사격하자, 이번엔 등에 3발을 맞고 말았다. 다행히 재구성된 소체가 튼튼해 큰 손상을 입지 않았지만, 피탄의 충격으로 하마터면 균형을 잃고 넘어질 뻔했다.
+M950A(9)<Speaker>M950A</Speaker>||<黑点1>:<color=#A9A9A9>여기까지 와서.. 실패할 것 같아?!</color>
+()<Speaker></Speaker>||<BIN>9</BIN><黑点2>:M950A와 군 돌격대는 참호 깊은 곳의 지하실에 거의 동시에 도착했다.+하지만 지하실은 탄약 상자 하나 없이 텅 비어 있었다.
+M950A(8)<Speaker>M950A</Speaker>||:......
+NPC-Soldier(0)<Speaker>돌격대원</Speaker>||:하, 여기에 폭발물이 있었다면 애당초 쫓아오지도 않았다고!+그리폰의 고물 인형 주제에 우리와 동귀어진이라도 할 셈이었냐?!+해치워라!
+()<Speaker></Speaker>||:군용 인형 4기가 동시에 M950A에게 달려들었고, 인간 병사들은 뒤에서 계속해서 제압 사격을 가했다.+아무리 M950A의 성능이 향상됐다지만, 군용 인형과 정면으로 붙으면 이길 수 없다. 하물며, 넷이 동시에 공격해 온다면 말할 필요도 없었다.
+M950A(8)<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_weapon_reload</SE1>:그래도 M950A는 총을 뽑아 들었다. 하지만 그녀가 겨눈 것은 적이 아니었다.+지하실의 마지막 남은 버팀목이었다.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2><BGM>DJMAX_FirstKiss</BGM>:망설임 없는 M950A의 사격에 버팀목은 순식간에 부러졌다.
+NPC-Soldier(0)<Speaker>돌격대원</Speaker>||:뭐야?! 제기랄!!
+()<Speaker></Speaker>||:그리고 병사들은 그제서야 지하실의 다른 버팀목들이 미리 거의 다 부서져 있음을 눈치챘다.
+()<Speaker></Speaker>||<SE1>Explode</SE1><黑屏1>:마지막 버팀목이 부러지면서 흙과 돌덩이가 산사태처럼 쏟아졌고, M950A도, 군 병사들도 이를 피할 수 없었다.+눈 깜짝할 사이에, 지하실의 모두가 무너져 내린 콘크리트와 흙더미에 파묻혔다.
+NPC-Soldier(0)<Speaker>돌격대장</Speaker>||<黑屏2><BIN>99</BIN>:한 방 먹었군...+인형 하나에게 우리 병사 5명과 인형 6대를 잃다니...+하지만 그리폰은 이미 끝장이다. 네놈들 지휘관의 좌표는 이미 포착했다!
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:그때, 돌격대장의 탐지기가 경보음을 울렸다.
+NPC-Soldier(0)<Speaker>돌격대장</Speaker>||:쳇...!
+()<Speaker></Speaker>||:무거운 돌더미로 인해 과부하로 타들어 가는 마인드맵, 그리고 적을 향한 분노.+이 모든 것을 견디면서, M950A은 무너진 흙더미를 뚫고 뛰쳐나왔다.
+M950A(10)<Speaker>M950A</Speaker>||:그리폰은... 절대 지지 않아!
+M950A(10)<Speaker></Speaker>||<黑屏1>3</黑屏1><SE1>AVG_weapon_reload</SE1>:손으로 총을 장전하고, 입에는 마지막 남은 단검을 물고서 눈앞의 적에게 달려들었다.
+()<Speaker>M950A</Speaker>||<BIN>9</BIN><黑屏2>3</黑屏2>:어쩌면, 우리의 싸움은 영원히 끝나지 않을지도 몰라.+어쩌면, 우린 앞으로도 수많은 이별을 겪을지도 몰라.
+()<Speaker>M950A</Speaker>||<黑屏1>:하지만... 우리는 절대, 잔혹한 운명에 무릎 꿇지 않겠어.
+()<Speaker></Speaker>||<BIN>41</BIN><黑屏2>:불길이 치솟는 그리폰 열차의 잔해.
+()<Speaker>지휘관</Speaker>||:미안... 쇼크로 잠깐 실명한 모양이야.+네가 누군지 알 수 있을까?
+()<Speaker></Speaker>||:그 자리의 인형들은 서로를 마주 보곤, 함께 한 발짝 앞으로 내디뎠다.
+()<Speaker>？？？</Speaker>||<黑屏1>:당신의 휘하 인형입니다.
+()<Speaker>M950A</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>3</黑屏1>:우리의 여정의 끝은 아직 한참 멀었어. 아직도 수많은 선택의 기로와 마주해야 해.+그러니까, 난 나와 함께하는 모든 이들을, 온 힘을 다해서 지켜내겠어.+함께, 이 상처투성이인 세계를... 모두가 아름다운 추억을 가지고 살아갈 수 있는 무대로 만들겠어.

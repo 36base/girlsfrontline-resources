@@ -1,0 +1,71 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>모스크바 방송</Speaker>||<黑屏2><BIN>343</BIN><BGM>BGM_Room</BGM>:<color=#00CCFF>최신 소식입니다.</color>+<color=#00CCFF>레드존 통과 중 연락이 두절됐던 대륙간 열차 EN440-13M "미래호"가 소-독 국경, 독일 경내에서 탈선된 채로 발견되었습니다. 당국은 정보를 입수한 즉시 현장으로 구조대를 파견했습니다.</color>+<color=#00CCFF>대변인의 발표에 따르면 열차의 일반석 차량에서 폭력 조직 간의 무력 충돌이 발생하였으며, 열차의 탈선과 관계가 있을 수 있다 밝혔습니다.</color>+<color=#00CCFF>교통 관제는 현재 시각으로부터 2시간 후 해제되오니, 주의하시기 바랍니다.</color>
+()<Speaker>모스크바 방송</Speaker>||:<color=#00CCFF>사고 현장에서 촬영된 영상 자료를 바탕으로, 전문가들은 사상자의 수가 300명을 웃도는 이번 사건이 지난 20년의 시베리아 생명선 철도 운행 역사상 최악의 인명 사고로 기록될 것이라 예측하고 있습니다.</color>+<color=#00CCFF>잠시 후, 저희 취재 기자가 구조 작업 현장에서 보도해드리겠습니다.</color>
+()||<黑屏1>:
+NPC-Shadowless(3)<Speaker>섀도리스</Speaker>||<BIN>336</BIN><黑屏2>:<color=#00CCFF>시청자 여러분 안녕하십니까, 보도 기자 섀도리스입니다.</color>+<color=#00CCFF>긴급 속보를 전해드리겠습니다.</color>
+NPC-Shadowless(3)<Speaker>섀도리스</Speaker>||:<color=#00CCFF>현지 시각으로 어젯밤 조난됐던 EN440-13M 대륙간 열차 "미래호"가 포즈난 경찰의 도움으로 위험 구역을 벗어났습니다.</color>+<color=#00CCFF>구조대의 증언에 의하면, 현장에 대량의 소련군 장비가 버려져 있어 사건 원인과 관련성을 의심받고 있습니다.</color>+<color=#00CCFF>더불어 철도 관련 부서들의 분석 결과 철로도 손상이 심각하여, 모스크바-파리 노선의 복구 시기는 현재 불명입니다.</color>
+()||<黑屏1>:
+()<Speaker>영국 방송 채널</Speaker>||<黑屏2><BIN>350</BIN>:<color=#00CCFF>속보입니다. 조금 전 보도드린 시베리아 생명선 바르샤바-포즈난 남쪽 구간에서 발생한 폭발 사건에 관련해, 현지 경찰의 조사 결과 테러리스트의 습격으로 확인되었습니다.</color>+<color=#00CCFF>해당 구간의 철로가 심각하게 파손되었으나, 현재까지 해당 사건 관련으로 성명을 낸 극단 세력은 없습니다.</color>+<color=#00CCFF>당국에서 파견되어 생존자들을 보호한 구조대는 아직 복귀하지 않았다고 합니다. 후속 소식이 들어오는 대로 계속해서 전해드리겠습니다. 감사합니다.</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>197</BIN><黑屏2><BGM>m_avg_hope</BGM><narrator>:대륙간 열차 "미래호", 엉망진창인 차량 밖.
+()<Speaker></Speaker>||:프로메테우스가 행운의 여신에게 빌린 빛처럼, 여명이 길었던 밤을 마침내 몰아냈다.+솟아오르는 태양이 하늘의 반을 붉게 물들이고, 질퍽하던 땅이 다시 말라 갔다.+한밤중 내렸던 가을비도 그 흔적이 사라져 갔다.+남은 것은 횃불이 재가 된 여운뿐이었다.+미약하지만, 희망으로 가득한 여운.
+56-1typeMod(0)<Speaker>56-1식</Speaker><Position>0,150</Position>||:현장 청소 끝났어!
+MLEMK1Mod(0)<Speaker>리엔필드</Speaker><Position>0,70</Position>||:난 카라비너에게 시간을 확인하겠다.+넌 모두가 질서 있게 차에 탑승하도록 인솔해라.
+56-1typeMod(0)<Speaker>56-1식</Speaker><Position>0,150</Position>||:알았어~
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2>:......
+56-1typeMod(0)<Speaker>56-1식</Speaker><Position>0,150</Position>||:인당 담요 한 장, 식수 한 병, 밀크 초콜릿 두 개, 파운드케이크 하납니다!+여기서 수령한 다음 탑승하세요!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:로시타를 부축하는 폴은 자신이 받은 초콜릿을 그녀에게 주었다.
+NPC-SickGirl(0)<Speaker>로시타</Speaker>||:난 괜찮아.+루카스가 밤새 날 돌봐줬으니까...+더 필요한 사람한테 나눠 주자.
+()<Speaker></Speaker>||:폴은 고개를 끄덕이고 달리 필요한 사람이 있나 뒤를 돌아보았다.+하지만 그리폰의 인형들을 제외하면, 그들 곁에는 아무도 없었다.
+NPC-TD_Worker(0)<Speaker>폴</Speaker>||:......
+()<Speaker></Speaker>||:결국 폴은 묵받았던 음식을 묵묵히 56-1식의 구호 물품 상자에 도로 넣었다.
+56-1typeMod(0)<Speaker>56-1식</Speaker><Position>0,150</Position>||:.....
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:56-1식은 한숨을 쉬고 폴의 어깨를 토닥였다.
+56-1typeMod(0)<Speaker>56-1식</Speaker><Position>0,150</Position>||:긴 밤도 이겨냈잖아, 이제 베를린까지 가기만 하면 돼.
+NPC-TD_Worker(0)<Speaker>폴</Speaker>||:...감사합니다.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:폴은 로시타를 데리고 "엘모 호"에 올랐다.+한편, Kar98k의 소대도 승무원 수잔나와 함께 귀환했다.
+98KMod(0)<Speaker>Kar98K</Speaker>||<SE1>Stop_AVG_loop</SE1>:회수 임무 완료했습니다.+물품은 승무원 수잔나가 대조했으니 승객분들이 직접 찾아가도록 하세요.+알아보기 힘든 것은 수잔나의 리스트로 대조하기 바랍니다.
+56-1typeMod(0)<Speaker>56-1식</Speaker><Position>0,150</Position>||:알겠어!
+98KMod(0)<Speaker>Kar98K</Speaker>||:인원수와 남는 물자를 확인하고, 마지막으로 정보 확인하세요.+5분 후 출발합니다.
+56-1typeMod(0)<Speaker>56-1식</Speaker><Position>0,150</Position>||:알았어.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:56-1식이 데저트 이글에게 손짓했다.
+56-1typeMod(0)<Speaker>56-1식</Speaker><Position>0,150</Position>||:가서 차 안 좀 한 번 더 확인해 줄래?+확인 끝나는 대로 출발할 거야.
+DesertEagle(0)<Speaker>데저트 이글</Speaker>||:알겠어요.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:멀지 않은 곳에서 이 모든 것을 지켜보던 루카스는 허리를 숙여 무언가를 찾는 중인 닥터 루고사의 손을 당겼다.
+NPC-TD_Boy(1)<Speaker>루카스</Speaker>||:선생님... 이제 가야 돼요.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:닥터 루고사는 다시 허리를 펴고 안경을 고쳐 썼다.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:......+그래.
+()<Speaker></Speaker>||:그리고, 루카스와 손을 잡고 함께 "엘모 호"로 향했다.
+()||<黑点1><SE1>AVG_door_elecport</SE1>:
+()<Speaker></Speaker>||<黑点2><BIN>85</BIN><BGM>BGM_Empty</BGM><narrator>:"엘모 호" 내부.
+MLEMK1Mod(0)<Speaker>리엔필드</Speaker><Position>0,70</Position>||<SE1>AVG_20Winter_Book</SE1>:의사 선생님, 신원확인표에 이름을 적어 주시기 바랍니다.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:정말 수고가 많소.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:마커펜으로 자신의 이름을 적던 중, 그의 눈에 옆의 커다란 상자가 들어왔다.
+()<Speaker></Speaker>||:총기와 탱크의 잔해, 찌그러진 짐가방들 사이에, 더러워진 손목시계가 보였다.+모래 속에 반쯤 묻힌 황금처럼.
+MLEMK1Mod(0)<Speaker>리엔필드</Speaker><Position>0,70</Position>||:선생님?
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:...저 손목시계, 작고한 지인의 물건이오. 확인해 봐도 되겠소?
+MLEMK1Mod(0)<Speaker>리엔필드</Speaker><Position>0,70</Position>||:물론입니다, 주인이 사망하였다면 그분 대신 리스트에 수령 확인해 주시기 바랍니다.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:...정말, 수고가 많구려.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:닥터 루고사는 거듭 감사를 표하며 그 손목시계를 집었다.+그리고, 안경닦이로 조심스레 닦았다.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||<BGM>GF_2022_Summer_ED</BGM>:"고통은 너무나도 끈질겨, 참을성 있게 나아가는 달팽이와 같고."+"기쁨은 너무나도 짧아, 가을의 들판을 달리는 토끼의 꼬리와 같구나."
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:[세로변형 END]
+()||<黑屏1>:
+()||<名单2>2022Summer_Credit</名单2>:
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||:............
+()||<黑屏1><SE1>AVG_21Winter_Subway</SE1>:
+()<Speaker></Speaker>||<黑屏2><BIN>167</BIN><BGM>BGM_Empty</BGM>:새벽, 독일의 베를린 철도역.
+()<Speaker></Speaker>||<SE1>AVG_AMB_Street</SE1><SE1>AVG_20Winter_Doorbell</SE1><SE1>AVG_BaseDoor_Open</SE1>:한 열차가 승강장에 들어섰고, 문이 열리자 바쁜 승객들이 밀물처럼 우르르 쏟아졌다.+또 한 명의 타레우스는 사람들 사이를 걸으며, 자신의 귓등을 툭 건드렸다.
+NPC-Tareus(0)<Speaker>타레우스</Speaker>||<SE1>AVG_tele_connect</SE1>:...임무 완료.+목표 "대공", 저지되었습니다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>아주 잘했다. 이제 복귀하려무나.</color>
+NPC-Tareus(0)<Speaker>타레우스</Speaker>||:예.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삐익.+통신 종료.
+()<Speaker></Speaker>||:타레우스는 고개를 들어 별하늘을 바라봤다. 때마침 별똥별 하나가 떨어졌다.+그리고 시선을 다시 앞으로 내리곤, 인파들을 따라 역을 나섰다.
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||:[To Be Continued...]
+()||<黑点1>:

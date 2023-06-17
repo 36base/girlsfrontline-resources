@@ -1,0 +1,25 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator>:"2번 상자". 참여 인형 - MG36, LWMMG, M500, M1897, 루이스.+데이터 로딩 중...+실험 목적... 실험 내용...+실험 원리... 변수 나열...+............+그 녀석의 직감 따위 절대 안 믿어.+확률이야말로 인형의 진리라고.
+()||<黑屏1>:
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<黑屏2><BIN>607</BIN>:요구하신 대로 다섯 인형을 지정 장소에 배치했습니다.+이 대조군엔 어떤 기대를 하고 계세요?
+NPC-Persica(4)<Speaker>페르시카</Speaker>||:베르누이의 실험에 플러스 마르코프의 과정.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:알겠습니다, "2번 상자"는 공백 대조군으로 설정할게요.
+()||<黑屏1>:
+m500(0)<Speaker>M500</Speaker>||<BIN>73</BIN><黑屏2><BGM>m_avg_casual</BGM>:민수용 인형 다섯에, 문제도 없고 설명도 없고 요구 사항도 없고...+마치 버려진 군견 같다는 생각이 드네.
+Lewis(0)<Speaker>루이스</Speaker>||:재미 없으니까 훈련사의 사고방식으로 비유하지 말아 줄래?+난 그보다 페르시카 씨의 실험에 나오는 적이 어떤 외모일지 궁금해!
+m500(0)<Speaker>M500</Speaker>||:...팔 8개 달린 로봇?
+Lewis(0)<Speaker>루이스</Speaker>||:눈 3쌍 달린 미소녀 엘프일 수도 있지.
+LWMMG(0)<Speaker>LWMMG</Speaker>||:...아마 AR팀이 조우했던 적일 거야.
+Lewis(0)<Speaker>루이스</Speaker>||:하아? 왜 네 추측은 그렇게 수수하면서 근거 있어 보이는 건데? 혹시 몰래 답안지라도 봤어?
+MG36(0)<Speaker>MG36</Speaker>||:확실히 근거 있네요, 방금 밖에서 기다릴 때 옆 훈련장에서 AR팀이 테스트 같은 걸 받고 있었어요.
+LWMMG(0)<Speaker>LWMMG</Speaker>||:모범생이 돌아오면 모두에게 시험 문제를 뿌리는 법이니까.
+m500(0)<Speaker>M500</Speaker>||:그럼 저 반대쪽 훈련장의 인형은?
+MG36(0)<Speaker>MG36</Speaker>||:우리와 똑같은 그리폰 인형이었어요.
+Lewis(0)<Speaker>루이스</Speaker>||:아아, 그거 누군지 알아! 우리랑 똑같다니 너무 높게 쳐 주는 말이지만!+100점 만점에 AR팀이 90점이라면, 우린 60점대고 저쪽 RF팀은 30점대야!
+LWMMG(0)<Speaker>LWMMG</Speaker>||:땡.
+Lewis(0)<Speaker>루이스</Speaker>||:<size=50>하아?</size>
+LWMMG(0)<Speaker>LWMMG</Speaker>||:1학년 기말고사라면, AR팀은 100점, 우리는 60점, RF팀은 30점...+하지만 수능 시험일 경우 AR팀은 여전히 100점, 우리와 RF팀은 둘 다 20점이야.
+Lewis(0)<Speaker>루이스</Speaker>||:...뭐라고?
+MG36(0)<Speaker>MG36</Speaker>||:그러니까, 탑클래스는 언제나 탑이지만 문제아의 하한선은 오락가락한다는 뜻이에요.+우린 엄청 노력해야 겨우 평균이란 거죠.
+m500(0)<Speaker>M500</Speaker>||<SE1>Select</SE1>:그럼 뭘 꾸물거려! 빨리 시작하자고!
+()||<黑点1>:

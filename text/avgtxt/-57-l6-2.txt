@@ -1,0 +1,59 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>587</BIN><BGM>BGM_Saga_AVG_Day</BGM>:사가에 끌려온 후로 계속 콘서트나 홍보 일정 때문에 숨을 돌릴 틈이 없었다.+모처럼 한가한 오후 시간이 생겨, 당신은 푹신푹신한 소파에 뒤통수를 파묻었다.
+()<Speaker>지휘관</Speaker>||:여기에 카리나가 끓여준 차 한 잔 있으면 끝내줄 텐데, 기지의 애들은 괜찮은지 모르겠고...
+()||<SE1>AVG_footsteps_cave</SE1>:이제 막 신경이 풀어지던 차에, 다다다다 발걸음 소리가 들렸다.
+()||<SE1>Stop_AVG_loop</SE1><SE2>ClothingUp</SE2>:릴리가 소파 뒤에서 고개를 내밀어 당신의 눈앞에다 하얀 카드를 흔들어 보였다.
+NPC-Lily(0)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:지휘관, 누가 릴리 보고 이걸 지휘관한테 주래.
+NPC-Lily(0)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||:응?
+()||<SE1>ClothingUp</SE1>:당신이 카드를 잡고 보니, 위에는 글씨 한 줄밖에 안 적혀 있었다.\n"너의 정체를 알고 있다, 여기에 와라."+그 아래엔 간략한 지도가 그려져 있었다, 저택 근처의 어느 숲 같았다.
+()<Speaker>지휘관</Speaker>||:누가 이걸 줬어?+<color=#A9A9A9>(설마 "그레이 트리"나 "나이트 카페"인가? 드디어 나를 떠올린 건가...?)</color>
+NPC-Lily(9)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:마스크를 쓰고 있어서 못 알아 봤어.
+NPC-Lily(9)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||:<color=#A9A9A9>(마스크... 혹시 닌자인가? 뭐, 가 보면 알겠지.)</color>+고마워, 릴리. 갔다와 볼게!
+NPC-Lily(1)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:응...
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()||<黑点2><BIN>580</BIN>:신중을 기해서, 당신은 지정 위치에 도착해서 바로 모습을 드러내지 않고, 구석에 숨어서 조용히 관찰했다.
+()||<SE1>AVG_wind_grass</SE1>:근처엔 아무도 없고 벌레의 울음소리만 약간 들렸다. 하지만 그 수수께끼의 인물이 언제 나타날진 몰랐다.
+()<Speaker>？？？？</Speaker>||<SE1>Stop_AVG_loop</SE1>:지...
+()<Speaker>지휘관</Speaker>||<震屏3>:누구냐!?
+()||<SE1>ClothingUp</SE1>:예상치 못한 목소리가 등뒤에서 들려, 당신은 고개를 재빨리 돌리면서 그 인물의 팔을 붙잡았다.
+()||<BGM>GF_20HW_Scene_BPM82_loop</BGM>:그런데... 팔의 위치가 좀 낮아서 한 번은 허탕을 치고 두 번 만에 잡았다.
+NPC-Lily(1)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:지휘관...
+()||<SE1>Rope</SE1>:등뒤에 있던 건 릴리였다. 당신은 황급히 손을 놓았다.
+()<Speaker>지휘관</Speaker>||:릴리, 계속 따라왔던 거야?+방금 너무 세게 잡았나? 미안해...
+()||<SE1>ClothingUp</SE1>:릴리는 고개를 저었고 눈동자를 반짝였다.
+NPC-Lily(9)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:방금 엄청 멋졌어! 과연 특수요원이구나!
+NPC-Lily(9)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||:특수요원?
+NPC-Lily(0)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:아닌 척 안 해도 돼, 여긴 한적하니까 아무도 우리 말을 못 들어.
+()||:여기까지 들으니 당신은 슬슬 눈치를 챘다.
+()<Speaker>지휘관</Speaker>||:나한테 여기에 오라고 한 사람이... 릴리였어?
+NPC-Lily(0)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:응, 저택의 다른 사람한테 안 들키게 이 방법을 생각했지!
+NPC-Lily(1)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:히히, 첩보 영화의 한 장면 같지 않아?
+()||<SE1>ClothingUp</SE1>:릴리가 우쭐대면서 검지와 엄지로 총모양을 만들었다.
+()<Speaker>지휘관</Speaker>||:아까부터 특수요원이니 첩보물이니 하는데... 대체 무슨 말이야?
+NPC-Lily(1)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:릴리 다 들었어, 지휘관이 자주 "기지"나 "정보"라던가, 이런저런 나라나 지명을 중얼거리는 거... 릴리가 예전에 찍은 첩보물의 주인공이랑 완전 똑같애!
+()||:릴리가 세운 손가락으로 당신을 가리켰다, 마치 추리물의 주인공처럼.
+NPC-Lily(0)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<BGM>BGM_Empty</BGM>:지휘관의 정체는~ 특수요원! 릴리 말 맞지?
+NPC-Lily(0)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||:어... 비슷한 물건이지...?
+NPC-Lily(1)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:그럼 프랑슈슈의 프로듀서가 된 것도 특수요원의 임무인 거야?
+NPC-Lily(1)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<BGM>GF_Memorial</BGM>:임무가 끝나면 돌아가는 거고? 그... 카리나란 사람을 만나러?
+()||:릴리는 고개를 갸우뚱거리며 떠보듯이 물었다.
+()<Speaker>지휘관</Speaker>||:억, 내 입이 왜 그렇게 가벼워졌나...+그래, 카리나나 많은 애들이 기지에서 기다리고 있어.
+()||:그때가 되면 프랑슈슈와 헤어져야만 하겠지...+그후에도 릴리와 함께 TV를 보고, 치킨을 먹고, 장터를 구경해줄 사람이 있을까?
+NPC-Lily(8)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:흠...+릴리도 기지에 데려갈 수 있어? 릴리도 요원이 돼서 지휘관이랑 세계 여기저기를 탐험하고 싶은데...
+NPC-Lily(8)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||:어?!<c>좋다.<c>안 된다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:음... 괜찮을지도? 릴리의 연기 경험이 도움이 될 일이 있을지도 몰라.
+()||<分支>1</分支>:그렇게 해도 되는 건지는 모르지만...
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:미안, 릴리... 이건 네가 생각하는 것보다 훨씬 위험한 일이야. 그건 허락해줄 수 없어.
+()||:그런데 릴리는 풉 하고 웃음을 터뜨렸다.
+NPC-Lily(2)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:릴리는 그냥 정의의 친구를 해보고 싶어서 해본 말이야...
+NPC-Lily(0)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:릴리의 직업은 아이돌인걸, 그리고 릴리도 프랑슈슈의 모두와 함께 지내는 게 좋아~+그래도 지휘관이 내 말을 진지하게 고민해줘서 정말 기뻐~
+NPC-Lily(0)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||:사실 릴리가 그렇게 말할 때 나도 막상은 기뻤어.+<color=#A9A9A9>(떠나면 아마 다신 연락할 수 없을 테니까...)</color>
+()||<SE1>ClothingUp</SE1>:릴리가 당신 어깨에 붙은 낙엽을 훅 불었다. 그 눈빛은 당신의 생각을 읽은 듯했다.
+NPC-Lily(0)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:영화에서 요원한테 가장 치명적인 건 흔적을 남기는 거라 했어...
+NPC-Lily(1)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:걱정하지 마, 다시 만나지 못하게 된다 해도 릴리는 지휘관이 항상 무사하길 기도할 테니까.
+NPC-Lily(2)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:돌아가서도 잘 살아야 돼!
+()||<SE1>ClothingUp</SE1>:당신은 정중하게 고개를 끄덕였다.
+()<Speaker>지휘관</Speaker>||:그럴게.
+NPC-Lily(0)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:아, 만약에 죽어도 릴리가 코타로한테 부탁해서 좀비로 되살려 줄 테니까 안심해!
+NPC-Lily(0)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||<SE1>AVG_Awkward</SE1>:......
+NPC-Lily(0)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||<黑点1>:마음만 고맙게 받을게.

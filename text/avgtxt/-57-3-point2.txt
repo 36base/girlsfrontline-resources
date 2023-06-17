@@ -1,0 +1,36 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>597</BIN><BGM>GF_21winter_avg_nightbar</BGM>:당신이 치킨집에 도착했을 땐 이미 인파로 북새통이었다.
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:그 인파를 헤치고, 간신히 한 열성팬의 머리를 옆으로 치운 뒤에야 저 멀리로 HK21의 모습이 보였다.
+HK21(4)<Speaker>HK21</Speaker><Position>0,-150</Position><Scale>1.15</Scale>||<震屏3><SE1>ClothingUp</SE1>:<size=50>언니야!</size>
+()<Speaker>카페 팬</Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=9</controll_shake><SE1>AVG_Crowd</SE1>:<size=60>야옹이, 청소기, 회색 염색약!</size>
+()<Speaker>지휘관</Speaker>||:HK21!
+()<Speaker></Speaker>||:당신의 외침은 팬들의 구호와 비명을 뚫기엔 역부족이었다.+그래서 HK21의 시선을 끌기 위해, 당신은 필사적으로 사람들을 헤치고 행렬 앞으로 나아갔다.
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:하지만 팬들의 행렬은 똬리 튼 뱀처럼 늘어져서, 누군가를 앞지르더라도 계속해서 사람들이 새치기해 좀처럼 접근이 불가능했다.+결국 당신이 성난 눈으로 새치기하는 앞사람에게 따지려 할 때, 익숙한 뒷모습이 시야에 들어왔다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<震屏3><SE1>ClothingUp</SE1>:<size=50>야옹이, 청소기, 회색 염색약!</size>
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:응원 구호를 외치는 열성팬 소녀는 지나가는 척하며 슬쩍 줄에 끼어드는 데 성공했다.
+()<Speaker>지휘관</Speaker>||:......
+NPC-Ninja(2)<Speaker>배달부</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<震屏3><SE1>ClothingUp</SE1>:<size=50>야옹이, 청소기, 회색 염색약!</size>
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:또 익숙한 누군가도 새치기에 성공했다.+모두가 이토록 매너 없는 꼴을 본 당신은 결국...+그냥 줄이 알아서 줄어들기를 기다리기로 했다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><SE1>AVG_Stiff</SE1>:그리고 얼마나 지났을까. 슬슬 다리에 감각이 없어졌을 즈음, 드디어 당신의 차례가 왔다.+바로 앞의 배달부는 감격에 겨운 목소리로 HK21의 손을 덥석 붙잡았다.
+NPC-Ninja(2)<Speaker>배달부</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:<size=50>여신님! 제 유일한 여신님입니다!</size>+<size=50>정말 좋아합니다, 여기에 사인해 주세요!</size>
+HK21(4)<Speaker>HK21</Speaker><Position>0,-150</Position><Scale>1.15</Scale>||:응원해 주셔서 감사합니다!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:HK21은 완벽한 아이돌 스마일을 유지하며 배달부의 티셔츠에 능숙한 손놀림으로 사인했다.+배달부는 황홀한 얼굴로 떠났다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:당신은 바로 한 걸음 내밀어 HK21의 앞에 섰다.
+HK21(4)<Speaker>HK21</Speaker><Position>0,-150</Position><Scale>1.15</Scale>||:안녕하――
+HK21(4)<Speaker>지휘관</Speaker><Position>0,-150</Position><Scale>1.15</Scale><同时置暗>||:HK21, 나야!
+HK21(4)<Speaker>HK21</Speaker><Position>0,-150</Position><Scale>1.15</Scale>||:네? 누구신데요?
+HK21(4)<Speaker>지휘관</Speaker><Position>0,-150</Position><Scale>1.15</Scale><同时置暗>||:네 지휘관!
+HK21(4)<Speaker>HK21</Speaker><Position>0,-150</Position><Scale>1.15</Scale>||:아 네, 지휘관님. 악수하고 싶으신가요? 아님 사인이랑 촬영?
+HK21(4)<Speaker>지휘관</Speaker><Position>0,-150</Position><Scale>1.15</Scale><同时置暗>||:<size=50>얼른 구해줘! 빨리 그리폰 기지로 돌아가자!</size>
+HK21(4)<Speaker>HK21</Speaker><Position>0,-150</Position><Scale>1.15</Scale>||:어...
+()<Speaker></Speaker>||:당황한 표정도 잠시, HK21은 금방 다시 완벽한 아이돌 스마일을 띄웠다.
+HK21(4)<Speaker>HK21</Speaker><Position>0,-150</Position><Scale>1.15</Scale>||:아아 알겠다, 상황극이군요?
+()<Speaker>지휘관</Speaker>||:엉?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:HK21은 당신의 곁에 찰싹 붙어 휴대폰을 꺼내, 우스꽝스럽게 기겁하는 표정을 짓곤 촬영 버튼을 눌렀다.
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Camera</SE1>:찰칵!
+HK21(4)<Speaker>HK21</Speaker><Position>0,-150</Position><Scale>1.15</Scale>||:찍었어요~ 나중에 제 응원 홈피에다 올려 드릴게요~
+()<Speaker>지휘관</Speaker>||:잠깐, 뭐? 아니 나 모르겠어?! HK――우왁!
+HK21(4)<Speaker>HK21</Speaker><Position>0,-150</Position><Scale>1.15</Scale>||:다음 분~
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:붙잡고 더 설명하려 했지만, 당신 뒤로 여전히 지렁이처럼 늘어진 팬들의 행렬에게 옆구리를 찔려 강제로 밀려나고 말았다.+HK21의 모습은 점점 멀어졌고, 당신은 그걸 그저 바라볼 수밖에 없었다.
+()||<黑点1>:

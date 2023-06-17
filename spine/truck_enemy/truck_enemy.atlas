@@ -1,0 +1,27 @@
+
+truck_enemy.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+car
+  rotate: false
+  xy: 478, 155
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+main
+  rotate: false
+  xy: 2, 24
+  size: 474, 202
+  orig: 474, 202
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1

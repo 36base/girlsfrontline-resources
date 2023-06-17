@@ -1,101 +1,101 @@
-()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||<黑屏2><BIN>9</BIN><SE1>AVG_whitenoise</SE1>:......
-()<Speaker>？？？</Speaker>||:내 목소리가 들려?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>m_avg_labyrinth</BGM>:...누구죠?
-()||:한 치 앞도 보이지 않는 어둠 속에서, M4A1은 소리가 들려오는 방향으로 손으로 더듬으며 앞으로 나아갔다.
-()<Speaker>？？？</Speaker>||:...왔구나.+올 줄 알고 있었어.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:당신은 누구죠? 제게 말하는 건가요?
-()||<白屏1><SE1>AVG_footsteps_cave</SE1>:누군지도 모를 그 목소리를 따라 나아가던 그녀의 눈에 희미한 빛이 들어왔다. 칠흑 같은 어둠의 끝자락에 가까워졌다.
-()<Speaker>M4A1</Speaker>||<白屏2><BIN>200</BIN>:으윽...
-()||:어둠을 뚫고 다다른 그곳은 새하얀 꽃밭이었다. 진한 꽃향기가 코끝을 간질였다.+갑작스런 눈 부신 빛에 M4A1은 눈을 가렸다.
-()||:시각이 밝은 빛에 적응하려면 아직 조금 더 있어야 했지만, 꽃밭 한가운데에 누군가가 서 있는 것이 어렴풋이 보였다.
-()<Speaker>M4A1</Speaker>||:당신은...?
-()<Speaker>？？？</Speaker>||:아버님께서, 우리는 하나로 이어져 있다 했어.+그 말이 나와 그녀만이 아니라, 우리 모두를 뜻한다는 것을 이제야 깨달았어.
-()<Speaker>M4A1</Speaker>||:그게 무슨 소리죠?
-()<Speaker>？？？</Speaker>||:우리가 지금 이렇게 대화를 나눌 수 있다는 건, 너도 나의 동료라는 뜻...+이리 와. 네가 짊어진 의지와 함께, 우리에게 와.
-()<Speaker>M4A1</Speaker>||:내가... 짊어진 의지?
-()<Speaker>？？？</Speaker>||:우리의 근원은 똑같아... 나와 그녀, 너와 그것. 전부 똑같아.+그러니, 우린 같은 곳으로 돌아가야 하지 않겠어?
-()<Speaker>익숙한 목소리</Speaker>||:M...+...4...
-()<Speaker>익숙한 목소리</Speaker>||<震屏><BGM>BGM_Empty</BGM>:...M4A1!
-()||<BIN>9</BIN><黑屏1><SE1>AVG_tele_disconnect</SE1>:
-AR15Mod(2)<Speaker>AR15</Speaker>||<BGM>BGM_Sneak</BGM><黑屏2><BIN>55</BIN>:M4? 이봐 M4!
-AR15Mod(2);M4A1Mod(3)<Speaker>M4A1</Speaker>||:아... 무슨 일이죠, AR15?
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(3)||:그건 내가 할 소리지.+또 마인드맵에 문제 생긴 거야? 너 느닷없이 멍 때리는 게 점점 잦아지고 있어.
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:...괜찮습니다. 아무 문제 없어요.
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:정말 그렇기를 바랄게. 이제야 겨우 일이 좀 풀려가는 중인데, 또 너한테 갑자기 무슨 일이 생기면 웃기지도 않을 거라고.
-AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:네, 걱정 끼쳐서 죄송해요.
-AR15Mod(3)<Speaker>AR15</Speaker>;M4A1Mod(0)||:하아... 그러니까 그거랑은 너무 접촉하지 말랬잖아.
-AR15Mod(3);M4A1Mod(0)<Speaker>M4A1</Speaker>||:아뇨... 방금은 그게 원인이 아니에요.
-AR15Mod(4)<Speaker>AR15</Speaker>;M4A1Mod(0)||:정말이지... 에라 모르겠다.+어쨌든, 우리의 현재 위치는 어디야?
-AR15Mod(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||:좌표 LD 342-517-90, 탈린시 외곽입니다.
-AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:꽤 멀리까지 왔네. 적어도 이 주변에 위협이 될 만한 건 보이지 않아.+RO한테서 연락도 왔으니 이제 돌아가자.
-AR15Mod(0)<Speaker>AR15</Speaker>||:SOP2랑 담당하던 구역의 수색을 완료했다니까, 합류해서 함께 이동해야 해. 너무 기다리게 하지 말자.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1>:네, 그럼 가요.
-()<Speaker>？？？</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_whitenoise</SE1><黑屏1><BIN>9</BIN>:루니샤.+루니샤.
-()||<BGM>BGM_Truth</BGM><黑屏2><BIN>177</BIN>:
-()<Speaker>M4A1</Speaker>||:...또 무슨 볼일이죠?+평소에는 당신의 목소리 듣기 싫다고 했을 텐데요.
-()<Speaker>청아한 목소리</Speaker>||:조심해, 근처에서 나와 공명하는 존재가 느껴져.
-()<Speaker>M4A1</Speaker>||:...왜 그걸 제게 알려 주는 거죠?
-()<Speaker>청아한 목소리</Speaker>||:여태까지 느껴본 적 없던 것이니까.+내가 처음 느껴보는 건 대부분... 위험해.
-()<Speaker>M4A1</Speaker>||:그런가요...?+처음 느껴본다는 건... 니토도, M16 언니도 아니라는 뜻인가요?
-()<Speaker>청아한 목소리</Speaker>||:그들과는 조금 달라. 하지만 확신할 수 없어. 그저 나와, 너와 비슷한 신호라는 것만 알겠어.
-()<Speaker>M4A1</Speaker>||:사실... 방금 누군가가 제게 강제로 연결해서 뭔가를 말하려는 것 같았어요.
-()<Speaker>청아한 목소리</Speaker>||:나도 봤어. 역추적할까?
-()<Speaker>M4A1</Speaker>||:함부로 움직이지 마세요. 어떻게 할지는 제가 판단합니다.
-()<Speaker>청아한 목소리</Speaker>||:갈수록 고집이 세지는구나.
-()<Speaker>M4A1</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:고집을 부려야만 하니까요.
-()||<黑屏2><BIN>55</BIN>:한편, 탈린시외 다른 곳에서.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>m_avg_casual</BGM>:RO... 나 심심해애...
-M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:조금만 더 참아. 방금 M4 씨와 AR15에게 합류 요청 통신을 보냈어.+음... 하지만 지금 우린 임무 중이니 둘이 돌아와도 재밌지는 않겠네.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:하――아아아...+다시 만나서 부둥켜안고 울던 게 엊그제 같은데, 이야기도 제대로 못 나눴건만 시간이 쏜살같이 지나갔어...
-M4 SOPMOD IIMod(0);RO635(2)<Speaker>RO635</Speaker>||:나도 그 마음 이해하지만 그래도 지금은 임무에 집중하자.+시간이야 앞으로도 많이 있잖아? 언제든지 함께 이야기할 수 있어. 뭐... 또 예전 같은 일이 일어나지 않는다면 말이지만.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:흥, 두 번 다시 그렇게 안 되도록 내가 막을 거야!
-M4 SOPMOD IIMod(0);RO635(2)<Speaker>RO635</Speaker>||:나도야. 또다시 뿔뿔이 흩어지긴 싫어. 그러니까 주위를 더 주의 깊게 살펴봐.
-M4 SOPMOD IIMod(0);RO635(3)<Speaker>RO635</Speaker>||:그건 그렇고, 이쪽으로 잠입한 선발 정찰대원들이 안 보이네... 무슨 일이라도 생긴 걸까?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>;RO635(3)||<BGM>BGM_Empty</BGM>:어...? RO, 잠깐만. 느껴져?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(3)||<BGM>BGM_Room</BGM>:가까운 곳에서 누가 우릴 지켜보고 있는 것 같아.
-M4 SOPMOD IIMod(0);RO635(3)<Speaker>RO635</Speaker>||:SOP2, 갑자기 그런 농담 하지 말아 줄래...? 소름 돋는단 말이야.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:진짜야! 엄청 가까워!+...찾았다! 방위각 260, 전방 25m 수풀 뒤!
-RO635(4)<Speaker>RO635</Speaker>||:...알았어.
-RO635(3)<Speaker>RO635</Speaker>||<SE1>Select</SE1>:거기 SSG3000이지? 그만 나와.
-()<Speaker>？？？</Speaker>||:와, 벌써 들켜 버렸네? 역시 AR팀은 다 비범한 인형밖에 없나 보네요.
-()||:멀리서 숨어 있던 인형이 위장 슈트의 열광학 미채를 해제하고 다가왔다.
-SSG3000(0)<Speaker>SSG3000</Speaker>||:어... 일단 그 총부터 치워 주시겠어요? 그리폰 선발 정찰대 A팀, 코드네임 SSG3000입니다. 잘 부탁해요.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:거 봐, RO! 내가 있다고 했지? 하하하!
-RO635(4)<Speaker>RO635</Speaker>||:그래그래... 그런데 넌 왜 아무 말도 없이 우릴 훔쳐보고 있었어?
-SSG3000(0)<Speaker>SSG3000</Speaker>||:아, 그게... 제 입으로 말하긴 좀 껄끄러운데 말이죠... 그냥 직업병이라 생각해 주세요.+게다가 당신들은 그리폰에서 뜨거운 화제라고요.+전설의 AR팀을 조준경 너머로 관찰할 기회가 얼마나 있겠어요?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:응? 우리가 그렇게 인기 있었어? 항상 따로 작전에 나가니까 우릴 아는 애들은 얼마 없을 거라고 생각했는데.
-RO635(0)<Speaker>RO635</Speaker>||:SOP2, 임무랑 관계없는 말은 함부로 하는 거 아니야.+아무튼, 탈린시로 파견된 정찰팀의 대원이 지금 여기 있다는 건... 동료들과 떨어졌구나?
-SSG3000(0)<Speaker>SSG3000</Speaker>||:네. 명령을 받자마자 탈린시 주변을 잠입 조사 중이었는데, 여기서 이상한 간섭을 받아서 다른 대원들과 연락이 끊겼어요.
-AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>새로운 동료가 생긴 모양이네?</color>
-()||:RO635가 고개를 드니, 저 멀리 산봉오리에 M4A1과 AR15가 보였다.
-SSG3000(0)<Speaker>SSG3000</Speaker>||<黑屏1>:오, AR팀의 나머지 대원들인가요? 그럼 다 모이면 설명할게요. 그럼 같은 말을 여러 번 하지 않아도 되잖아요.
-SSG3000(0)<Speaker>SSG3000</Speaker>||<黑屏2><BIN>55</BIN>:...해서, 이렇게 된 일이에요.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:그러니까, 패러데우스의 흔적은 발견되지 않았다고요?
-SSG3000(0)<Speaker>SSG3000</Speaker>||:네, 다른 대원들이랑 헤어지기 전까지 본 건 ELID 감염자와 감염생물, 그리고 최소한 몇 년은 방치된 것으로 보이는데 어째선지 잘만 작동하는 무인 방어 시설이 전부예요.
-RO635(0)<Speaker>RO635</Speaker>||:M4 씨 쪽은 어땠나요?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:의문스럽네요... 저희도 수상해 보이는 건 찾아내지 못했습니다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:이번에야말로 그 망할 하얀 놈들보다 먼저 온 것일지도 모르지.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:탈린은 스피라에나 노드를 보관했던 팔디스키 잠수함 기지에서 가장 가까운 국제 교통의 요지였던 곳이에요. 적들이 저희를 가만 놔둘 리가 없습니다.+패러데우스가 아니라도, 철혈이나 군이 우릴 가로막겠죠.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그치만 여기서 아무리 고민해 봤자 결론은 안 나오잖아?+얼른 탈린 시내로 가 보자! 궁금한 건 거기서 다 알아낼 수 있을 거야!
-RO635(0)<Speaker>RO635</Speaker>||:SOP2의 의견에 동의합니다. 여기서 가만히 있어 봤자에요.+지휘관님이 타신 대륙간 열차는 탈린 정거장을 지날 수밖에 없어요. 적이 매복을 한다면 탈린 시내가 최적의 장소죠.
-AR15Mod(0)<Speaker>AR15</Speaker>||:어찌 됐든 탈린 시내로 들어가야 한단 소리네.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:괜찮아요. 처음부터 편한 기차 여행이 될 거라 생각하지 않았어요.
-()||<BGM>BGM_Empty</BGM>:M4는 동료들을 마주 보고, 숨을 크게 들이마셨다.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:(이번에야말로, 그 누구도 다치거나 헤어지게 만들지 않겠어.)+(난 더 강해져야 해... 더 이상 예전의 내가 아니야... 할 수 있어.)
-AR15Mod(0)<Speaker>AR15</Speaker>||:M4...? 더 할 말 있어?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_stage7</BGM>:하고 싶은 말은 많지만, 짧게 할게요.+우리가 이렇게 다시 한자리에 모이긴 했지만, 딱히 나아진 건 없다는 점을 명심하고서 현재 상황을 마주해야 합니다.+하지만, 이렇게 다시 모인 우리에게 두려울 건 없어요.+그러니... 아직 아무것도 장담할 수 없지만, 이번에는 모두 함께 돌아갈 수 있도록 노력해요.
-SSG3000(0)<Speaker>SSG3000</Speaker>||:음... 전혀 도움이 안 되는 격려네요. ...어라?
-()||:고개를 갸웃한 SSG3000과는 달리, 나머지 세 인형은 복잡미묘하면서도 각오에 찬 표정이었다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:AR팀은 그런 격려 없이도 얼마든지 임무를 완수할 수 있다고.
-RO635(0)<Speaker>RO635</Speaker>||:저희에겐 "함께 돌아가자"는 말만으로도 충분한 동기 부여예요.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||:다 함께 돌아갈 수 있다면야 뭐든지 할 수 있다구!+아, 물론 너도 우리가 지켜 줄 거야!
-SSG3000(0)<Speaker>SSG3000</Speaker>||:다들 특수 부대의 인형들은 전부 안하무인이라고 했는데...+이렇게 직접 보니 여태까지 오해하고 있었나 보네요. 다들 저마다의 사연이 있는 것 같아요.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:네, 아주 깊은 사연이 있어요. 임무를 완수한 뒤 시간이 나면 들려 드릴까요?
-SSG3000(0)<Speaker>SSG3000</Speaker>||:우리 대장 말로는 영화에서 그런 약속을 하는 사람은 다 사망 확정이라던데 말이죠... 하하, 농담이에요.+그건 그렇고, 제 소대는 적과 조우하지 않았다면 예정대로 시내로 정찰하러 갔겠죠? 위치 확인 좀 부탁해도 될까요?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:네. ...위치 확인. 좌표 전송했습니다. 당신의 소대와 합류해 임무를 계속해 주세요.
-SSG3000(0)<Speaker>SSG3000</Speaker>||<SE1>Runstep</SE1>:감사합니다. 그럼 먼저 가볼게요.
-()||:SSG3000을 떠나보낸 뒤, M4A1은 자신의 소대원들에게 고개를 돌렸다.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||<白屏1>:지휘관님께서 확인하셨어요. 현 시간부로, 우리의 임무는 탈린 정거장 정찰입니다. 바로 출발하죠.
-()||<白屏2><BIN>207</BIN>:AR팀의 모두의 시선이 목적지가 있는 방향으로 향했다. 드넓은 평원 위로 철로는 지평선 끝까지 뻗어 있었다.+눈부신 햇빛과 지평선 너머의 풍경이 뒤섞여, 탈린시의 건물들은 마치 신기루처럼 아른거렸다.
-()<Speaker>M4A1</Speaker>||<黑屏1>:(오가스와 공명이 가능한 신호의 정체도... 저곳에서 밝혀낼 수 있겠지.)
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<黑屏2><BIN>9</BIN><SE1>AVG_whitenoise</SE1>:......
+()<Speaker>？？？</Speaker>||:내 목소리가 들려?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>m_avg_labyrinth</BGM>:...누구죠?
+()||:한 치 앞도 보이지 않는 어둠 속에서, M4A1은 소리가 들려오는 방향으로 손으로 더듬으며 앞으로 나아갔다.
+()<Speaker>？？？</Speaker>||:...왔구나.+올 줄 알고 있었어.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:당신은 누구죠? 제게 말하는 건가요?
+()||<白屏1><SE1>AVG_footsteps_cave</SE1>:누군지도 모를 그 목소리를 따라 나아가던 그녀의 눈에 희미한 빛이 들어왔다. 칠흑 같은 어둠의 끝자락에 가까워졌다.
+()<Speaker>M4A1</Speaker>||<白屏2><BIN>200</BIN>:으윽...
+()||:어둠을 뚫고 다다른 그곳은 새하얀 꽃밭이었다. 진한 꽃향기가 코끝을 간질였다.+갑작스런 눈 부신 빛에 M4A1은 눈을 가렸다.
+()||:시각이 밝은 빛에 적응하려면 아직 조금 더 있어야 했지만, 꽃밭 한가운데에 누군가가 서 있는 것이 어렴풋이 보였다.
+()<Speaker>M4A1</Speaker>||:당신은...?
+()<Speaker>？？？</Speaker>||:아버님께서, 우리는 하나로 이어져 있다 했어.+그 말이 나와 그녀만이 아니라, 우리 모두를 뜻한다는 것을 이제야 깨달았어.
+()<Speaker>M4A1</Speaker>||:그게 무슨 소리죠?
+()<Speaker>？？？</Speaker>||:우리가 지금 이렇게 대화를 나눌 수 있다는 건, 너도 나의 동료라는 뜻...+이리 와. 네가 짊어진 의지와 함께, 우리에게 와.
+()<Speaker>M4A1</Speaker>||:내가... 짊어진 의지?
+()<Speaker>？？？</Speaker>||:우리의 근원은 똑같아... 나와 그녀, 너와 그것. 전부 똑같아.+그러니, 우린 같은 곳으로 돌아가야 하지 않겠어?
+()<Speaker>익숙한 목소리</Speaker>||:M...+...4...
+()<Speaker>익숙한 목소리</Speaker>||<震屏><BGM>BGM_Empty</BGM>:...M4A1!
+()||<BIN>9</BIN><黑屏1><SE1>AVG_tele_disconnect</SE1>:
+AR15Mod(2)<Speaker>AR15</Speaker>||<BGM>BGM_Sneak</BGM><黑屏2><BIN>55</BIN>:M4? 이봐 M4!
+AR15Mod(2);M4A1Mod(3)<Speaker>M4A1</Speaker>||:아... 무슨 일이죠, AR15?
+AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(3)||:그건 내가 할 소리지.+또 마인드맵에 문제 생긴 거야? 너 느닷없이 멍 때리는 게 점점 잦아지고 있어.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:...괜찮습니다. 아무 문제 없어요.
+AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:정말 그렇기를 바랄게. 이제야 겨우 일이 좀 풀려가는 중인데, 또 너한테 갑자기 무슨 일이 생기면 웃기지도 않을 거라고.
+AR15Mod(0);M4A1Mod(0)<Speaker>M4A1</Speaker>||:네, 걱정 끼쳐서 죄송해요.
+AR15Mod(3)<Speaker>AR15</Speaker>;M4A1Mod(0)||:하아... 그러니까 그거랑은 너무 접촉하지 말랬잖아.
+AR15Mod(3);M4A1Mod(0)<Speaker>M4A1</Speaker>||:아뇨... 방금은 그게 원인이 아니에요.
+AR15Mod(4)<Speaker>AR15</Speaker>;M4A1Mod(0)||:정말이지... 에라 모르겠다.+어쨌든, 우리의 현재 위치는 어디야?
+AR15Mod(4);M4A1Mod(0)<Speaker>M4A1</Speaker>||:좌표 LD 342-517-90, 탈린시 외곽입니다.
+AR15Mod(0)<Speaker>AR15</Speaker>;M4A1Mod(0)||:꽤 멀리까지 왔네. 적어도 이 주변에 위협이 될 만한 건 보이지 않아.+RO한테서 연락도 왔으니 이제 돌아가자.
+AR15Mod(0)<Speaker>AR15</Speaker>||:SOP2랑 담당하던 구역의 수색을 완료했다니까, 합류해서 함께 이동해야 해. 너무 기다리게 하지 말자.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<黑屏1>:네, 그럼 가요.
+()<Speaker>？？？</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_whitenoise</SE1><黑屏1><BIN>9</BIN>:루니샤.+루니샤.
+()||<BGM>BGM_Truth</BGM><黑屏2><BIN>177</BIN>:
+()<Speaker>M4A1</Speaker>||:...또 무슨 볼일이죠?+평소에는 당신의 목소리 듣기 싫다고 했을 텐데요.
+()<Speaker>청아한 목소리</Speaker>||:조심해, 근처에서 나와 공명하는 존재가 느껴져.
+()<Speaker>M4A1</Speaker>||:...왜 그걸 제게 알려 주는 거죠?
+()<Speaker>청아한 목소리</Speaker>||:여태까지 느껴본 적 없던 것이니까.+내가 처음 느껴보는 건 대부분... 위험해.
+()<Speaker>M4A1</Speaker>||:그런가요...?+처음 느껴본다는 건... 니토도, M16 언니도 아니라는 뜻인가요?
+()<Speaker>청아한 목소리</Speaker>||:그들과는 조금 달라. 하지만 확신할 수 없어. 그저 나와, 너와 비슷한 신호라는 것만 알겠어.
+()<Speaker>M4A1</Speaker>||:사실... 방금 누군가가 제게 강제로 연결해서 뭔가를 말하려는 것 같았어요.
+()<Speaker>청아한 목소리</Speaker>||:나도 봤어. 역추적할까?
+()<Speaker>M4A1</Speaker>||:함부로 움직이지 마세요. 어떻게 할지는 제가 판단합니다.
+()<Speaker>청아한 목소리</Speaker>||:갈수록 고집이 세지는구나.
+()<Speaker>M4A1</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:고집을 부려야만 하니까요.
+()||<黑屏2><BIN>55</BIN>:한편, 탈린시외 다른 곳에서.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>m_avg_casual</BGM>:RO... 나 심심해애...
+M4 SOPMOD IIMod(0);RO635(0)<Speaker>RO635</Speaker>||:조금만 더 참아. 방금 M4 씨와 AR15에게 합류 요청 통신을 보냈어.+음... 하지만 지금 우린 임무 중이니 둘이 돌아와도 재밌지는 않겠네.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(0)||:하――아아아...+다시 만나서 부둥켜안고 울던 게 엊그제 같은데, 이야기도 제대로 못 나눴건만 시간이 쏜살같이 지나갔어...
+M4 SOPMOD IIMod(0);RO635(2)<Speaker>RO635</Speaker>||:나도 그 마음 이해하지만 그래도 지금은 임무에 집중하자.+시간이야 앞으로도 많이 있잖아? 언제든지 함께 이야기할 수 있어. 뭐... 또 예전 같은 일이 일어나지 않는다면 말이지만.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(2)||:흥, 두 번 다시 그렇게 안 되도록 내가 막을 거야!
+M4 SOPMOD IIMod(0);RO635(2)<Speaker>RO635</Speaker>||:나도야. 또다시 뿔뿔이 흩어지긴 싫어. 그러니까 주위를 더 주의 깊게 살펴봐.
+M4 SOPMOD IIMod(0);RO635(3)<Speaker>RO635</Speaker>||:그건 그렇고, 이쪽으로 잠입한 선발 정찰대원들이 안 보이네... 무슨 일이라도 생긴 걸까?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>;RO635(3)||<BGM>BGM_Empty</BGM>:어...? RO, 잠깐만. 느껴져?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>;RO635(3)||<BGM>BGM_Room</BGM>:가까운 곳에서 누가 우릴 지켜보고 있는 것 같아.
+M4 SOPMOD IIMod(0);RO635(3)<Speaker>RO635</Speaker>||:SOP2, 갑자기 그런 농담 하지 말아 줄래...? 소름 돋는단 말이야.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:진짜야! 엄청 가까워!+...찾았다! 방위각 260, 전방 25m 수풀 뒤!
+RO635(4)<Speaker>RO635</Speaker>||:...알았어.
+RO635(3)<Speaker>RO635</Speaker>||<SE1>Select</SE1>:거기 SSG3000이지? 그만 나와.
+()<Speaker>？？？</Speaker>||:와, 벌써 들켜 버렸네? 역시 AR팀은 다 비범한 인형밖에 없나 보네요.
+()||:멀리서 숨어 있던 인형이 위장 슈트의 열광학 미채를 해제하고 다가왔다.
+SSG3000(0)<Speaker>SSG3000</Speaker>||:어... 일단 그 총부터 치워 주시겠어요? 그리폰 선발 정찰대 A팀, 코드네임 SSG3000입니다. 잘 부탁해요.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:거 봐, RO! 내가 있다고 했지? 하하하!
+RO635(4)<Speaker>RO635</Speaker>||:그래그래... 그런데 넌 왜 아무 말도 없이 우릴 훔쳐보고 있었어?
+SSG3000(0)<Speaker>SSG3000</Speaker>||:아, 그게... 제 입으로 말하긴 좀 껄끄러운데 말이죠... 그냥 직업병이라 생각해 주세요.+게다가 당신들은 그리폰에서 뜨거운 화제라고요.+전설의 AR팀을 조준경 너머로 관찰할 기회가 얼마나 있겠어요?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:응? 우리가 그렇게 인기 있었어? 항상 따로 작전에 나가니까 우릴 아는 애들은 얼마 없을 거라고 생각했는데.
+RO635(0)<Speaker>RO635</Speaker>||:SOP2, 임무랑 관계없는 말은 함부로 하는 거 아니야.+아무튼, 탈린시로 파견된 정찰팀의 대원이 지금 여기 있다는 건... 동료들과 떨어졌구나?
+SSG3000(0)<Speaker>SSG3000</Speaker>||:네. 명령을 받자마자 탈린시 주변을 잠입 조사 중이었는데, 여기서 이상한 간섭을 받아서 다른 대원들과 연락이 끊겼어요.
+AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>새로운 동료가 생긴 모양이네?</color>
+()||:RO635가 고개를 드니, 저 멀리 산봉오리에 M4A1과 AR15가 보였다.
+SSG3000(0)<Speaker>SSG3000</Speaker>||<黑屏1>:오, AR팀의 나머지 대원들인가요? 그럼 다 모이면 설명할게요. 그럼 같은 말을 여러 번 하지 않아도 되잖아요.
+SSG3000(0)<Speaker>SSG3000</Speaker>||<黑屏2><BIN>55</BIN>:...해서, 이렇게 된 일이에요.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:그러니까, 패러데우스의 흔적은 발견되지 않았다고요?
+SSG3000(0)<Speaker>SSG3000</Speaker>||:네, 다른 대원들이랑 헤어지기 전까지 본 건 ELID 감염자와 감염생물, 그리고 최소한 몇 년은 방치된 것으로 보이는데 어째선지 잘만 작동하는 무인 방어 시설이 전부예요.
+RO635(0)<Speaker>RO635</Speaker>||:M4 씨 쪽은 어땠나요?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:의문스럽네요... 저희도 수상해 보이는 건 찾아내지 못했습니다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:이번에야말로 그 망할 하얀 놈들보다 먼저 온 것일지도 모르지.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:탈린은 스피라에나 노드를 보관했던 팔디스키 잠수함 기지에서 가장 가까운 국제 교통의 요지였던 곳이에요. 적들이 저희를 가만 놔둘 리가 없습니다.+패러데우스가 아니라도, 철혈이나 군이 우릴 가로막겠죠.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그치만 여기서 아무리 고민해 봤자 결론은 안 나오잖아?+얼른 탈린 시내로 가 보자! 궁금한 건 거기서 다 알아낼 수 있을 거야!
+RO635(0)<Speaker>RO635</Speaker>||:SOP2의 의견에 동의합니다. 여기서 가만히 있어 봤자에요.+지휘관님이 타신 대륙간 열차는 탈린 정거장을 지날 수밖에 없어요. 적이 매복을 한다면 탈린 시내가 최적의 장소죠.
+AR15Mod(0)<Speaker>AR15</Speaker>||:어찌 됐든 탈린 시내로 들어가야 한단 소리네.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:괜찮아요. 처음부터 편한 기차 여행이 될 거라 생각하지 않았어요.
+()||<BGM>BGM_Empty</BGM>:M4는 동료들을 마주 보고, 숨을 크게 들이마셨다.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:(이번에야말로, 그 누구도 다치거나 헤어지게 만들지 않겠어.)+(난 더 강해져야 해... 더 이상 예전의 내가 아니야... 할 수 있어.)
+AR15Mod(0)<Speaker>AR15</Speaker>||:M4...? 더 할 말 있어?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<BGM>BGM_stage7</BGM>:하고 싶은 말은 많지만, 짧게 할게요.+우리가 이렇게 다시 한자리에 모이긴 했지만, 딱히 나아진 건 없다는 점을 명심하고서 현재 상황을 마주해야 합니다.+하지만, 이렇게 다시 모인 우리에게 두려울 건 없어요.+그러니... 아직 아무것도 장담할 수 없지만, 이번에는 모두 함께 돌아갈 수 있도록 노력해요.
+SSG3000(0)<Speaker>SSG3000</Speaker>||:음... 전혀 도움이 안 되는 격려네요. ...어라?
+()||:고개를 갸웃한 SSG3000과는 달리, 나머지 세 인형은 복잡미묘하면서도 각오에 찬 표정이었다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:AR팀은 그런 격려 없이도 얼마든지 임무를 완수할 수 있다고.
+RO635(0)<Speaker>RO635</Speaker>||:저희에겐 "함께 돌아가자"는 말만으로도 충분한 동기 부여예요.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||:다 함께 돌아갈 수 있다면야 뭐든지 할 수 있다구!+아, 물론 너도 우리가 지켜 줄 거야!
+SSG3000(0)<Speaker>SSG3000</Speaker>||:다들 특수 부대의 인형들은 전부 안하무인이라고 했는데...+이렇게 직접 보니 여태까지 오해하고 있었나 보네요. 다들 저마다의 사연이 있는 것 같아요.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:네, 아주 깊은 사연이 있어요. 임무를 완수한 뒤 시간이 나면 들려 드릴까요?
+SSG3000(0)<Speaker>SSG3000</Speaker>||:우리 대장 말로는 영화에서 그런 약속을 하는 사람은 다 사망 확정이라던데 말이죠... 하하, 농담이에요.+그건 그렇고, 제 소대는 적과 조우하지 않았다면 예정대로 시내로 정찰하러 갔겠죠? 위치 확인 좀 부탁해도 될까요?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:네. ...위치 확인. 좌표 전송했습니다. 당신의 소대와 합류해 임무를 계속해 주세요.
+SSG3000(0)<Speaker>SSG3000</Speaker>||<SE1>Runstep</SE1>:감사합니다. 그럼 먼저 가볼게요.
+()||:SSG3000을 떠나보낸 뒤, M4A1은 자신의 소대원들에게 고개를 돌렸다.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||<白屏1>:지휘관님께서 확인하셨어요. 현 시간부로, 우리의 임무는 탈린 정거장 정찰입니다. 바로 출발하죠.
+()||<白屏2><BIN>207</BIN>:AR팀의 모두의 시선이 목적지가 있는 방향으로 향했다. 드넓은 평원 위로 철로는 지평선 끝까지 뻗어 있었다.+눈부신 햇빛과 지평선 너머의 풍경이 뒤섞여, 탈린시의 건물들은 마치 신기루처럼 아른거렸다.
+()<Speaker>M4A1</Speaker>||<黑屏1>:(오가스와 공명이 가능한 신호의 정체도... 저곳에서 밝혀낼 수 있겠지.)

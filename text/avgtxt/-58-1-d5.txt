@@ -1,0 +1,125 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>240</BIN><BGM>GF_21summer_avg_Demon</BGM>:베를린 노이템펠호프 구역.+"윌리엄"의 옛 거처.
+()||:......
+()||:안젤리아는 더는 대답이 없는 통신기를 쥐고 말이 없었다.
+AK12(3)<Position>0,50</Position><Speaker>AK12</Speaker>||:안젤리아...
+()||:눈을 감고 침묵하기를 1분.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:...기존 계획대로 움직인다. 우선 여기서 이탈하자.+몰리도, 그레이... 한꺼번에 청산해 주겠어.
+()||:마침내 눈을 뜬 안젤리아가 천천히 입을 열었다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:이럴 때 충동적이 되면 지휘관의 희생까지 헛되이 하는 꼴밖에 안 돼.
+AK12(3)<Position>0,50</Position><Speaker>AK12</Speaker>||:...알았어.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:가볍게 몸을 풀고, 안젤리아는 리벨리온과 함께 양옥의 문 앞까지 돌아왔다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<SE1>Stop_AVG_loop</SE1>:Q, RPK, AN-94한테 연락해.+다음 단계로――
+()<Speaker></Speaker>||:안젤리아의 손이 정문 손잡이에 닿으려던... 그때.
+AK12(3)<Position>0,50</Position><Shake>0.1</Shake><Speaker>AK12</Speaker>||<BGM>BGM_Empty</BGM>:안젤리아!!!
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><BGM>GF_21summer_avg_SecretAgent</BGM>:AK-12가 갑자기 소리지르면서 몸을 날려 안젤리아를 감쌌다.
+()||<SE1>Explode</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:콰앙!!!+유탄 한 발이 그레이가 토막냈던 문을 넘어 벽을 뚫고 날아가, 양옥 깊숙이에서 폭발했다.
+()||:낡은 벽들은 소용돌이처럼 안에서부터 무너지기 시작했다.
+()||<SE1>AVG_lifttable</SE1>:쿠웅!+AK-12의 엄호를 받으며 일어난 안젤리아에게 보인 것은 양옥을 단단히 봉쇄한 슈타지 부대였다.+그리고 그들을 이끄는, 손에 Q의 203 유탄발사기를 든 소년. 그가 방금 그 폭발의 원흉이었다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:유탄발사기...?+야, Q! 이거 설명해! Q!
+AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:...통신 연결이 안 돼.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:젠장, K 불러!+이게 뭔 상황인지 물어봐!
+()||<黑屏1>:......
+()<Speaker></Speaker>||<黑屏2><BIN>239</BIN>:정원에 서 있는 소년은 유탄발사기를 내리곤, 길게 한숨을 뱉으며 한 손을 들었다.
+()||<SE2>Gunfight</SE2>:타타타타타탕!!!
+()<Speaker></Speaker>||:그가 수신호를 내리기 무섭게 주위의 슈타지 요원들이 양옥을 향해 무차별 사격을 가했다.+소년은 20초 넘게 손을 들어, 요원들이 4번 교체하고 양옥을 걸레짝으로 만든 것을 확인한 뒤에야 주먹을 쥐었다.
+()<Speaker>슈타지 요원</Speaker>||:클리어. 로비에 목표 반응 없음.
+NPC-Light(1)<Speaker>？？？</Speaker>||:B팀?
+()<Speaker>슈타지 요원</Speaker>||:<color=#00CCFF>클리어. 목표의 도주 정황 발견되지 않음.</color>
+()||<SE1>AVG_footsteps_cave</SE1>:소년은 고개를 끄덕였지만 철수하지 않았다. 오히려 유탄발사기를 다시 들고, 부하 요원들과 함께 유리와 나무 파편들을 밟으며 건물 안으로 돌입했다.
+()||<黑屏1><SE1>Stop_AVG_loop</SE1>:
+NPC-Light(0)<Speaker>？？？</Speaker>||<黑屏2><BIN>240</BIN><Night>:.......
+()||:엄폐물이라 할 만한 건 거의 없어진 로비는 성한 곳 하나 없어, 사람이 숨을 만한 곳은 이제 손에 꼽았다.+소년은 눈을 가늘게 뜨고, 계단 옆에 쓰러진 책장을 무기로 겨눴다.+부하 요원들도 그 의중을 읽고 산개해, 천천히 포위망을 좁혔다.
+NPC-Light(0)<Speaker>？？？</Speaker>||:......
+()||:어린 나이에 부하들을 거느리는 소년 요원답게, 그는 수신호로 부대가 반격당할 위험이 있는 거리까지 접근하기 전에 제지했다.+대신 한손으로 허리춤에서 수류탄을 하나 꺼내, 입으로 안전핀을 뽑고 쓰러진 책장 너머로 휙 던졌다.
+()||<SE1>AVG_The_Division_Grenade</SE1>:헌데 아무런 기척도 없었다.
+()||:당황한 눈빛으로, 그는 수류탄의 폭발보다 빨리 고개를 돌리며 총구를 머리 위로 들었다.
+AK12(3)<Position>0,50</Position><Speaker>AK12</Speaker>||:——!
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Grenade_Explosion</SE1><SE2>Gunfight</SE2>:콰아앙!!
+()||:수류탄의 폭발을 개막의 축포 삼는마냥 방아쇠가 당겨졌고, 유탄은 샹들리에에 매달려 총을 겨누고 있던 AK-12에게 곧장 날아들었다.
+()||<SE1>AVG_Broken_Glass</SE1>:유탄에 샹들리에가 화려하게 유리 조각을 흩뿌리며 떨어졌고, 은발의 전술인형도 함께 추락했다.+아래의 슈타지 요원들은 신속히 산개하고 재정비하려 했지만...
+()||<SE1>AVG_bigglassbreak</SE1><SE2>Gunfight</SE2>:탕 탕 탕!+그와 동시에 먼지와 자갈 속에 숨어있던 안젤리아가 섬광처럼 몸을 일으켜 총격을 가했다.
+NPC-Light(1)<Speaker>？？？</Speaker>||:침착해!
+()||:소년은 낮은 목소리로 명령하며 빠르게 AK-12와의 거리를 벌렸다.+문제는 안젤리아의 총탄이 요원 한 명의 목을 뚫고, 다른 한 명의 전술 고글을 부수고, 한 명의 방탄복을 뚫고 늑골을 부러뜨리는 상황이었다.+안젤리아를 제압하지 않으면 더 많은 요원들이 당할 것은 불 보듯 뻔했다.
+()<Speaker></Speaker>||<SE1>AVG_Gatling_gun</SE1>:하지만 안젤리아의 예상이 빗나갔다.+소년의 수신호로, 슈타지 요원들은 일사분란하게 안젤리아가 아닌 AK-12에게 총구를 집중하고 방아쇠를 당겼다.
+AK12(3)<Position>0,50</Position><Speaker>AK12</Speaker><Shake>||:크으윽!!!
+()||:아무리 AK-12라도, 이렇게 많은 총알 세례를 버틸 순 없었다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:AK12!
+()||:예상을 너무나도 크게 벗어났지만, 안젤리아는 침착하게 마땅한 판단을 내렸다.
+NPC-Light(0)<Speaker>？？？</Speaker>||:——!?
+()||<SE1>RunStep</SE1>:부하를 지원하길 포기하고, 우두머리에게 달려드는 것이었다.
+()<Speaker>슈타지 요원</Speaker>||:앗!
+NPC-Light(1)<Speaker>？？？</Speaker>||:——계속 놈을 제압해! 빈틈을 주지 마!
+()<Speaker></Speaker>||<SE1>AVG_Punch</SE1>:뻐억!+안젤리아의 무쇠 의수가 가속도까지 붙은 어마어마한 힘으로 소년의 손에서 무기를 멀리 날려버렸다.
+()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:스윽!+소년은 허둥대지 않고 허리에서 비수를 뽑아 휘둘러, 안젤리아의 옆구리를 베어냈다.+하지만 피가 철철 흐름에도 안젤리아는 움찔조차 하지 않았고, 소년은 그대로 의수의 위력에 밀려 잠시나마 열세에 처했다.
+AK12(3)<Position>0,50</Position><Speaker>AK12</Speaker>||:안젤리아!
+()||:집중 사격을 당하던 AK-12가 안젤리아의 위기를 눈치채, 이를 악물고 바닥에 주먹을 꽂아 나무 장판을 뜯어 가까운 요원 한 명에게 던졌다.
+AK12(3)<Position>0,50</Position><Speaker>AK12</Speaker>||<SE1>AVG_Door_Hit</SE1>:이런 난폭한 방식은 내 스타일이 아닌데――+AK-15!
+()||:......
+AK15(1)<Speaker></Speaker>||<黑屏2><SE1>AVG_lifttable</SE1><震屏3>:퍼엉!+온 몸이 시커멓게 그슬린 AK-15가 뒤에서 벽을 뚫고 나타나, 길을 가로막는 요원을 걷어찼다.
+()||<SE1>AVG_Broken_Glass</SE1>:AK-12에게 정신이 팔려 있던 그 요원은 충격을 느낄 새도 없이 창밖으로 날아가버렸다.
+()||:이 이어지는 돌발 상황 때문에 AK-12에게 쏟아지던 제압 사격이 아주 잠깐 멈칫했고, 그것으로 충분했다.+AK-12가 만신창이인 몸으로 빈틈이 보이기가 무섭게 용수철처럼 튀어나가, 요원들에게 달려들어 그중 한 명의 목을 단숨에 꺾어버렸다.
+()||:그 잠깐 사이에 전황이 뒤집혀, 우위를 점하던 슈타지는 단 5초만에 정리됐다.+하지만...
+AK12(3)<Position>0,50</Position><Shake>0.1</Shake><Speaker>AK12</Speaker>||:......!
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:케흑...
+NPC-Light(1)<Speaker>？？？</Speaker>||:헉... 헉...
+()||<SE1>Select</SE1>:그 5초 사이에 안젤리아는 바닥에 쓰러졌고, 승자는 두 발로 우뚝 서서 권총으로 그녀의 미간을 겨누고 있었다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:K가... 너더러 내 수발을 이딴 식으로 들랬냐...?+요원 U...
+NPC-Light(1)<Speaker>요원 U</Speaker>||:실례했습니다, 확실히 자기소개를 안 했군요...+보다시피... 저는 슈타지 요원입니다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:그딴 자기소갠 나 죽고 나서 해도 되는데...
+AK12(3)<Position>0,50</Position><Speaker>AK12</Speaker>||:안젤리아! K한테 통신 연결 됐어!
+NPC-Jason(2)<通讯框><Speaker>K</Speaker>||:<color=#00CCFF>...무척 유감이지만, 너는 선을 넘었다.</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;NPC-Jason(2)<通讯框>||:선은 얼어죽을... 내가 여태까지 손잡은 게 슈타지가 아니라 다른 데였냐?
+NPC-Ange(19);NPC-Jason(2)<通讯框><Speaker>K</Speaker>||:<color=#00CCFF>줄을 잘못 섰다고 해야겠지. 패러데우스의 내통자가 바로 Q와 그 배후의 인물이다.</color>+<color=#00CCFF>그리고 그녀는 위험한 무기의 밀수에도 관여했지.</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;NPC-Jason(2)<通讯框>||:너네 집안 싸움이 나랑 무슨 상관이냐고!
+NPC-Ange(19);NPC-Jason(2)<通讯框><Speaker>K</Speaker>||:<color=#00CCFF>그래, 상관 없지. 하지만 윗선의 명령이다. Q와 관련된 모든 걸 말살해야만 해.</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;NPC-Jason(2)||:......
+NPC-Jason(2)<通讯框><Speaker>K</Speaker>||:<color=#00CCFF>남길 말은 있나?</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:니 XX.
+NPC-Jason(2)<通讯框><Speaker>K</Speaker>||:<color=#00CCFF>알았다.</color>
+()||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
+NPC-Light(0)<Speaker>요원 U</Speaker>||:저도 유감입니다, 안젤리아 씨. 전 당신 같은 올곧은 사람이 되고 싶었어요.+하지만 서로 반대되는 입장에 서서... 어쩔 수 없습니다.+그러니... 언젠가, 새로운 세상에서 봅시다.
+()||<SE1>AVG_rifle_finalshot_n</SE1><BGM>BGM_Empty</BGM>:타——앙!!
+()||:AK-12의 선수를 친 탄환 한 발이 요원 U의 동작을 멈췄다.+피분수가 그의 관자놀이에서 터져 나오고, 그의 동공이 풀리고, 그의 몸에서 힘이 풀려 쓰러졌다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||<BGM>GF_21winter_battle_3</BGM>:뭣...?!
+()||<黑点1>:
+()||<黑点2><BIN>457</BIN>:
+()||<SE1>AVG_tele_connect</SE1>:삐빅.
+()<Speaker>안젤리아</Speaker>||:<color=#00CCFF>하아... 납득 가게 설명해라...</color>
+()<Speaker>Q</Speaker>||:휘유~ 그래도 내 덕분에 살았지?
+()<Speaker>안젤리아</Speaker>||:<color=#00CCFF>이놈이 네 유탄발사기를 들고 있던데.</color>
+()<Speaker>Q</Speaker>||:그건 봐주라, 살짝 해프닝이 있었다고.+다함께 쓰는 세이프하우스라.
+()<Speaker>안젤리아</Speaker>||:<color=#00CCFF>네가 긁어모은 탄약까지 죄다 나한테 쏟아졌다 이 XX야!</color>
+()<Speaker>Q</Speaker>||:그래도, 어... 멀쩡하진 않지만 살았지? 네가 실력 있는 협력 파트너라 난 믿고 있었다구.
+()<Speaker>안젤리아</Speaker>||:<color=#00CCFF>...다 네 탓이라고.</color>
+()<Speaker>Q</Speaker>||:결과적으로 무사했으면 됐지.
+()<Speaker>안젤리아</Speaker>||:<color=#00CCFF>시끄러, 이미 시간 잔뜩 낭비했어.</color>+<color=#00CCFF>당장 그레이랑 그 고위 니토를 추적한다.</color>
+()<Speaker>Q</Speaker>||:...네넨네.
+()||<黑点1><SE1>AVG_tele_disconnect</SE1>:......+통신 종료.
+()||<黑点2><BIN>356</BIN>:......
+NPC-maya(2)<Speaker>Q</Speaker>||:하여간 귀여운 구석이 없다니까...
+RPK16(0)<Speaker>？？？</Speaker>||:그쵸? 저도 그렇게 생각해요.
+()<Speaker>Q</Speaker>||:어——
+()||<SE1>AVG_pistol_finalshot_n</SE1><BGM>BGM_Empty</BGM>:타앙!
+()||<黑屏1>:......
+()||<黑屏2><BIN>240</BIN><Night>:......
+()||<BGM>GF_21summer_avg_Demon</BGM>:아직 남은 슈타지 요원들까지 "처리"하고, 안젤리아는 그제서야 한참이나 잊고 있던 것을 떠올렸다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:...잠깐, RPK랑 AN-94는?+이렇게 난장판을 만들었는데 왜 그림자도 안 보여?
+AK12(3)<Position>0,50</Position><Speaker>AK12</Speaker>||:......!
+()||:역시 그제서야 수상함을 눈치챈 AK-12가 바로 달려나갔다.+잠시 후, 그녀의 분노와 경악 섞인 고함이 들렸다.
+()<Speaker>AK12</Speaker>||:AN-94!!
+()||<黑点1>:
+()||<黑点2><BIN>239</BIN>:
+()||:목소리를 따라 급히 뒤쫓아가니, AN-94가 소체 기능이 정지된 채 바닥에 쓰러져 있었다.
+()||<SE1>ClothingUp</SE1>:AK-12는 그 옆에 쪼그려 앉아, AN-94의 파우치에서 꺼낸 케이블로 자신과 그녀를 연결하고 분석 중인 듯했다.
+AK12(3)<Position>0,50</Position><Speaker>AK12</Speaker>||:......
+()||:AK-12의 드물게 어두운 표정에 안젤리아도 경악했다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:대체 누가 AN-94를 아무 소리 없이 마비시킨 거지..?+그리고 RPK는?
+AK15(0)<Speaker>AK15</Speaker>||:......안 보입니다.
+AN94(4)<Position>0,50</Position><Shake>0.1</Shake><Speaker>AN94</Speaker>||<SE1>AVG_whitenoise</SE1>:——헉!!
+()||:마치 일시정지가 풀리듯, AN-94의 강제 다운됐던 마인드맵이 재가동해 의식을 되찾았다.
+AN94(2)<Position>0,50</Position><Speaker>AN94</Speaker>||:AK-12...! RPK가... RPK가...!
+()<Speaker></Speaker>||:AN-94는 말하면서도 스스로 믿을 수 없다는 표정이었다.
+AN94(2)<Position>0,50</Position><Speaker>AN94</Speaker>||:RPK가... 나를 공격했다...
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:......뭐?
+()||<黑点1>:......

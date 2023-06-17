@@ -1,0 +1,55 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>9</BIN><narrator>:점술이란, 다가올 운명을 내다보기 위한 것.+그렇다면 운명이란 무엇인가?+<color=#FFFACD>일반적으로, 사람들은 스스로 통제할 수 없는 일을 운명이라 말하지.</color>+그럼, 다가올 운명에 손쓸 수 없다면 왜 굳이 내다보려 할까?+<color=#FFFACD>그것은 어쩌면...</color>+<color=#FFFACD>궁지에 몰린 몰린 이가 기댈 곳이라곤 운명밖에 없어서일지도.</color>
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>472</BIN><Night><BGM>GF_EV9_Intermission</BGM>:이틀 전, 그리폰은 긴급 의뢰 한 건을 받았다.+어느 초등학교의 스쿨버스가 무장 강도에게 납치되어, 어린이 7명이 인질로 잡혀 수년 전 버려진 도시로 끌려가 행방불명되었다.
+Vector(0)<Speaker>Vector</Speaker>||:...이상이 우리가 아는 전부야.+지금부터 흩어져서 납치범이 숨은 은신처를 찾아야 해, 당연히 인질 보호가 최우선이고.
+PP90(0)<Speaker>PP90</Speaker>||:응! 이번엔 절대 방심 안 할게!
+R93(0)<Speaker>R93</Speaker><Position>0,-80</Position>||:그런데, 이렇게 넓은 도시에서 고작 우리만으로 어떻게 놈들의 은신처를 찾지? 룰렛에서 잭팟 터뜨릴 확률보다 낮을 거 같은데...
+Vector(0)<Speaker>Vector</Speaker>||:어쩔 수 없어, 납치범에게 발각당하면 인질이 위험해지니 최대한 소수로 움직여야 하니까.
+PP90(0)<Speaker>PP90</Speaker>||:흐음... 우리 중에 개조로 최신형 탐지 모듈을 탑재한 사람이 있으면 편할 텐데.
+()||<SE1>ClothingUp</SE1>:그 말에 K5가 입술을 깨물었다.
+K5(0)<Speaker>K5</Speaker>||:...미안해, 내가 마인드맵 업그레이드 제의를 받아들였으면 됐을 텐데.
+PP90(0)<Speaker>PP90</Speaker>;K5(0)||:응? 아, 아니야 내 말은 그게 아니라...!
+PP90(0);K5(0)<Speaker>K5</Speaker>||:하지만 나도 이유가 있어서 그랬어.
+PP90(0)<Speaker>PP90</Speaker>||:알아, 그때 점괘가 안 좋게 나왔댔잖아...
+R93(0)<Speaker>R93</Speaker><Position>0,-80</Position>||:근데 솔직히, 그런 거 신경쓸 필요 있어?+타로카드만 해도 한 장이 "똑바로"냐 "반대로"냐에 따라 길흉이 완전히 달라지잖아.+점괘가 마음에 안 들면 그냥 좀 꼼수 써도 되는 거 아니야?
+K5(0)<Speaker>K5</Speaker>||:설령 그렇게 해도 그 뒤의 운명까지 덩달하 변하지 않아. 점괘는 결국 실현이 돼.+하지만...
+()||<SE1>AVG_footsteps_cave</SE1>:K5가 당당하게 앞으로 한 걸음 내디디며 말을 이었다.
+K5(0)<Speaker>K5</Speaker>||<SE1>Stop_AVG_loop</SE1>:마인드맵 업그레이드 같은 거 안 받아도, 난 내 방식으로 인질을 찾아낼 수 있다고 자신해!
+Vector(0)<Speaker>Vector</Speaker>||:어떻게?
+K5(0)<Speaker>K5</Speaker>||:이게 우리에게 나아갈 길을 가르쳐 줄 거야.
+()||<SE1>ShuffleCards</SE1>:K5가 번쩍 들자 타로카드 여러 장이 공중에 흩날리더니, 한 장이 그녀의 손바닥에 내려앉았다.+그 카드가 창밖의 달빛을 받아 반짝이니...+변화무쌍한 "운명의 수레바퀴"가 아무도 모르는 방향으로 구르기 시작했다.
+()||<黑点1>:
+()||<黑点2><BIN>468</BIN><Night><SE1>AVG_AMB_Wind</SE1>:허름한 빌딩 사이를 날렵한 그림자가 넘나들어, 무수한 창문들에 그 모습이 비쳤다.+대담한 행동이지만, 이 무너져 가는 콘크리트 숲 사이로 부는 황소바람 덕분에 소리로는 들킬 일 없었다.
+K5(0)<Speaker>K5</Speaker>||:후우...
+()||:K5는 조용히 손의 타로카드를 꼭 쥐었다.+점괘가 가리킨 위치는 바로 이곳.+길고 좁아 사납게 불어닥치는 바람이 사납게 포효하는 이 복도를 가리켰다.
+()||<SE1>Stop_AVG_loop</SE1><SE2>AVG_tele_connect</SE2>:때마침 통신기가 울려서 이 불길한 분위기를 희석했다.
+PP90(0)<Speaker>PP90</Speaker><通讯框>||:<color=#00CCFF>Vivi, 여기는 PP-90! 3시 방향에 목표 흔적 없음 확인!</color>
+Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>확인, 나머지는?</color>
+R93(0)<Speaker>R93</Speaker><通讯框>||:<color=#00CCFF>R93, 아직 수색 중. 근데 나 지금 당첨 같은 예감이 들어.</color>
+K5(0)<Speaker>K5</Speaker>||:여기는 K5, 목표 지점에 접근 중. 아직 발견한 단서는 없어.
+Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>알았어, 주의하면서 접근해.</color>
+()||<SE1>AVG_Card_Reader</SE1>:K5가 통신을 종료하려던 그때, 시스템 알림음이 그녀를 말렸다.
+K5(0)<Speaker>K5</Speaker>||:어, 잠깐만...
+Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>뭐야?</color>
+K5(0)<Speaker>K5</Speaker>||:생명 신호 1개 감지! 심박수로 봐선 어린아이야!
+()||:전자 지도상의 노란색 점이 두근거리는 심장처럼 깜빡이고 있었다.
+PP90(0)<Speaker>PP90</Speaker><通讯框>||:<color=#00CCFF>와아, 다행이다!</color>
+Vector(0)<Speaker>Vector</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>...잠깐만. "1개"?</color>
+()||<SE1>AVG_2022Saros_timebomb</SE1>:그 동시에 어디선가 시계 같은 소리가 울려, K5는 황급히 주변을 둘러봤다.
+()||<BGM>GF_21winter_avg_betray</BGM>:Vector가 신속히 반응해 목청을 높였다.
+Vector(0)<Speaker>Vector</Speaker><通讯框>||:<color=#00CCFF>K5! 당장 건물 밖으로 탈출해! 함정이야, 폭탄이 설치됐어!</color>
+PP90(0)<Speaker>PP90</Speaker><通讯框>||:<color=#00CCFF>포포포폭탄!?</color>
+()||<震屏3><SE1>Stop_AVG_loop</SE1><SE2>Explode</SE2><火花>:그 말을 기다렸다는 듯, 건물이 굉음으로 진동했다.
+()||<SE1>AVG_lifttable</SE1>:그리고 천장과 벽, 바닥, 모든 평면과 K5의 발밑이 흔들리고 갈라지고 무너지기 시작했다.
+K5(0)<Speaker>K5</Speaker>||:하지만 이 애는 어떡하고!
+()||<SE1>RunStep</SE1>:K5는 이를 악물고, 창문 밖으로 뛰어내리는 대신 벌써 허리가 끊어진 복도를 뛰어넘고 안쪽으로 내달렸다.
+NPC-Lilyan(0)<Speaker>여자아이</Speaker>||:으아아앙!!
+()||:그리고 복도 끝에서, 겁에 질려 구석에 웅크린 채 이 세계의 종말 같은 광경을 지켜보며 엉엉 우는 여자아이를 찾아냈다.
+K5(0)<Speaker>K5</Speaker>||:내 손 잡아, 얼른!
+()||<SE1>Rope</SE1><SE2>AVG_Door_Hit</SE2>:K5가 간신히 여자아이의 팔을 붙잡은 순간, 밑바닥이 산산조각나면서 둘은 그대로 아래로 추락했다.
+()||<SE1>Rope</SE1>:그리고 K5는 여자아이를 꽉 끌어안아 단단히 감싸는 것을 마지막으로 의식을 잃었다.
+()||<黑屏1>:
+Vector(0)<Speaker>Vector</Speaker><通讯框>||<SE1>AVG_Fire_Bonfire</SE1><黑屏2><BIN>98</BIN>:<color=#00CCFF>K5! 응답해!</color>
+R93(0)<Speaker>R93</Speaker><通讯框>||:<color=#00CCFF>K5?! 괜찮은 거야!?</color>
+()||<SE1>AVG_whitenoise</SE1><黑点1>:허나 대답은 없었다.

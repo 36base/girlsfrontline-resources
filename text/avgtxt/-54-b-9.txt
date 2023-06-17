@@ -1,0 +1,109 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>527</BIN><narrator>:대륙간 열차 "미래호", 콜트 익스프레스 안.
+()||<BGM>GF_2022_Summer_AVG_4</BGM>:매기는 테이블 한쪽에 앉아 미소를 짓고 맞은 편의 실루엣을 바라봤다.+그 실루엣 앞의 테이블 위엔 스페이드K가 술잔 밑에 깔려있었다.
+ColtWalker(3)<Speaker>매기</Speaker>||:이게 "그녀"의 위치입니다.
+NPC-Tareus(2)<Speaker>스페이드K</Speaker>||:...알았어.
+ColtWalker(3)<Speaker>매기</Speaker>||:그럼 "로열 카지노" 의뢰의 보수 잔금은요? 언제 받을 수 있을까요?
+NPC-Tareus(2)<Speaker>스페이드K</Speaker>||:...그건 담당자가 따로 처리할 거야.
+()||:스페이드K는 매기의 질문에 대충 대답하고 눈앞에서 사라졌다. 왔을 때처럼 아무 기척도 없이.
+()||<黑屏1>:
+()||<黑屏2><BIN>467</BIN><narrator>:대륙간 열차 "미래호", 콜트 익스프레스 제일 끝 차량.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:이제야 왔구나...
+()||:매기가 차 안에 나타난 것을 본 캐서린이 길게 숨을 내쉬었다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:밖엔 이상한 군대가 있지, 안엔 도적떼가 날뛰지,+차는 물까지 새지...+다신 이렇게 뒤지게 힘든 의뢰 안 받을 거야!+이럴 줄 알았으면 니콜라스의 돈을 탐내지 않는 건데.
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:...지금 말해봐야 쓸데없잖아. 칭얼대지 마.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(3)||:그럼 좀 쓸데 있는 말을 해봐!+이제 우린 할 수 있는 게 없어...
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:뭔 소리래...+아직 할 일이 잔뜩이거든?
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(3)||:됐어됐어, 말하지 마... 바로 머리가 지끈거리네.+너 이번 베팅은 리스크가 너무 크지 않아?+예전처럼 갑끼리 싸움 붙여놓고 이기는 쪽에 붙을 줄 알았는데.
+NPC-Scalper(3);ColtWalker(1)<Speaker>매기</Speaker>||:...살다 보면 박쥐 포지션을 못 잡을 때도 있는 거지.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(1)||:밖에 저 장갑차들은 또 뭐야?+저 정도로 큰 싸움은 본 적이 없어...
+NPC-Scalper(3);ColtWalker(1)<Speaker>매기</Speaker>||:이제 왜 자기가 주도하는 건 말곤 천문학적 보수가 걸린 암시장 의뢰를 함부로 받지 말라는 건지 알겠지...?+난 그냥 소체를 바꾸고 편하게 말년을 보낼 돈을 벌고 싶은 거지, 저런 목숨을 막 내다버리는 놈들하고 어울리긴 싫어.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(1)||:그치만 세상이 갈수록 엉망진창인걸.+우리가 싫다고 다 피할 수 있는 게 아니잖아.
+NPC-Scalper(3);ColtWalker(1)<Speaker>매기</Speaker>||:인간이란 교훈을 전혀 배울 줄 모르지.+엉성한 무기로 1차 대전을 치르고, 잘 만든 무기로 2차 대전을 치르고, 전자동화된 무기로 3차 대전을 치르고.+...이 기세로 4차 대전도 금방 올지 누가 알아.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:...됐네요, 그딴 어느 날의 이야기 같은 건.
+()||<SE1>ClothingUp</SE1>:쉬익.+열차 안에서 캐서린의 모습이 사라졌다.
+ColtWalker(1)<Speaker>매기</Speaker>||:...과연 어느 날의 이야기일까?+뭐, 그때 가면 또 어떻게 살아날 구멍이 나오겠지. 지금 고민해서 뭐하겠어.
+()||<SE1>ClothingUp</SE1>:쉬익.+매기의 모습도 열차에서 사라졌다.+......
+()||<黑点1>:
+()||<黑点2><BIN>528</BIN><narrator>:대륙간 열차 "미래호", F09 식당차.
+()||<BGM>GF_2022_Summer_AVG_2</BGM><SE1>AVG_Amb_Rain_0</SE1>:쏴아...+빗물이 차창에 쏟아지며 침묵하는 심장을 두드렸다.+더이상 내리겠다고 조르는 사람은 없었다.+절망의 기운이 좁은 차 안에서 퍼져나갔다.
+NPC-TD_Porter(0)<Speaker>수잔나</Speaker>||:......
+()||<SE1>Stop_AVG_loop</SE1>:수잔나는 문 옆에 서 있었다. 문이 닫힐 때 그녀는 빗속에서 눈을 감지도 못하고 죽은 이들의 얼굴이 보이는 것 같았다.+열차 안의 승객들은 서로 다친 정도를 살피면서 언제 찾아올지, 과연 찾아오기는 할지도 알 수 없는 여명을 조용히 기다렸다.
+Erma(1)<Speaker>엘마</Speaker>||:...누워 있는 게 편할 거야.
+()||<SE1>ClothingUp</SE1>:엘마는 류드밀라의 오른팔을 조심스레 감쌌다.+반면 류드밀라는 부상자라는 자각이 전혀 없는지, 묵묵한 시선으로 저 멀리의 등불을 바라보기만 했다.
+Erma(1)<Speaker>엘마</Speaker>||:...앉아서 안 쉬어도 돼?
+()||:류드밀라는 결국 참을성이 다한 듯 고개를 엘마에게 돌렸다.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:내가 다친 건 팔이지 다리가 아니야.+그리고 이 정도 상처쯤 아무것도 아니야.
+Erma(1)<Speaker>엘마</Speaker>||:그치만... 원랜 내가 널 지켜줘야 했는걸.
+()||:류드밀라는 살짝 어이를 잃었다.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:?
+AR18(6)<Position>0,70</Position>;Erma(1)<Speaker>엘마</Speaker>||:내가 언니잖아.+내가 널 지켜야지, "엄마"가 날 지켜준 것처럼.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>;Erma(1)||:쓸데없는 소리.+그 사람은 네 "어머니"가 아니야, 널 지켜주지도 않아.
+AR18(6)<Position>0,70</Position>;Erma(1)<Speaker>엘마</Speaker>||:..난 안 믿어.+넌 너무 거짓말을 많이 해.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>;Erma(1)||:?
+AR18(6)<Position>0,70</Position>;Erma(1)<Speaker>엘마</Speaker>||:날 네 언니라고 생각한 게 아니면 왜 날 구한 거야?+<color=#66CDAA>괜찮아, 네가 소련 요원이란 건 아무한테도 말 안 할 거니까.</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......
+()||:류드밀라는 원래 그 상황에선 그게 누구였든 구해줬을 거라 말하려 했다.+자신이 교관으로서 셀 수 없이 그래왔던 것처럼.+하지만 정말로 흄의 작품이라서 그랬던 거라면?+...그녀의 마지막 결말 역시 광기로 가득 차 있다면, 그것은 과연 어떤 광경일까?
+Erma(1)<Speaker>엘마</Speaker>||:<color=#66CDAA>내가 서머 가든에 너를 위해 열쇠를 하나 만들었어.</color>+<color=#66CDAA>언젠가 내가 널 까먹어도, 누가 내 앞에서 류드밀라란 이름을 말하면 널 떠올릴 수 있어.</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>;Erma(1)||:...기억의 앵커 포인트?
+AR18(6)<Position>0,70</Position>;Erma(1)<Speaker>엘마</Speaker>||:<color=#66CDAA>맞아, 내 마인드맵 안에선 열쇠 모양으로 나와.</color>+<color=#66CDAA>조금 있으면 내가 널 잊어버릴 수도 있지만, 언젠가 다시 기억해 낼 테니까 걱정 마.</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>;Erma(1)||:......+흄 박사를 찾는 건 그만둬.+그 사람은 잊고 아무 직업이라도 찾아서 자유로운 인형으로 살아.
+AR18(6)<Position>0,70</Position>;Erma(1)<Speaker>엘마</Speaker>||:<color=#66CDAA>...안 돼.</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>;Erma(1)||:왜 그렇게 고집을 부리는데?
+AR18(6)<Position>0,70</Position>;Erma(1)<Speaker>엘마</Speaker>||:<color=#66CDAA>말했잖아, 나는 온전한 "내"가 되고 싶어.</color>+<color=#66CDAA>내겐 모든 기억이 소중해. 기억이 나를 만들고, 내 곁에 있어주고, 나를 다독여줘.</color>+<color=#66CDAA>내가 언제 또 나도 모르게 그 기억들을 잊어버린다면...</color>+<color=#66CDAA>그건 기억 속 사람들에게 너무 불공평해!</color>+<color=#66CDAA>그들에게 너무 미안해져...</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>;Erma(1)||:기억이 다 좋은 것만은 아니야.
+AR18(6)<Position>0,70</Position>;Erma(1)<Speaker>엘마</Speaker>||:<color=#66CDAA>그래서 뭐?</color>+<color=#66CDAA>좋은 기억도 나, 나쁜 기억도 나야.</color>+<color=#66CDAA>둘 다 있어야 온전한 내가 만들어지는 거야.</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>;Erma(1)||:...그럼 맘대로 해.
+AR18(6)<Position>0,70</Position>;Erma(1)<Speaker>엘마</Speaker>||:<color=#66CDAA>응?</color>+<color=#66CDAA>그럼 "흄 박사"에 대해서 말해줄 거야?</color>+<color=#66CDAA>그 사람 이야기 꺼낼 때 짜증 안 부릴 거고?</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>;Erma(1)||:...아니.
+Erma(1)<Speaker>엘마</Speaker>||:<color=#66CDAA>그래, 그럼 다른 얘기나 하자.</color>+<color=#66CDAA>...어떻게 저게 구조대가 아니라는 걸 알았어?</color>+<color=#66CDAA>수잔나 언니가 보낸 신호에 응답도 했잖아?</color>
+()||:류드밀라는 한숨을 뱉었다.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:너무 빨리 왔으니까.
+AR18(6)<Position>0,70</Position>;Erma(1)<Speaker>엘마</Speaker>||:<color=#66CDAA>바르샤바에서 출발해서 얼마 가지도 않았고, 그렇게 큰 소동이 있었으니 바로 신고를 받은 걸 수도 있잖아...</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>;Erma(1)||:정말 근처에 있던 구조대가 온 것이라 해도 저렇게 진형을 짜진 않아.+...저건 장갑부대의 공격진형이야.
+AR18(6)<Position>0,70</Position>;Erma(2)<Speaker>엘마</Speaker>||:<color=#66CDAA>장갑부대의... 공격진형?</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>;Erma(2)||:어느 나라의 구조대도 공격진형을 펼치지는 않아.+의사는 보자기를 들고 다녀야지, 송곳이 아니라.
+Erma(1)<Speaker>엘마</Speaker>||:<color=#66CDAA>...그렇구나.</color>
+()||<BGM>BGM_Empty</BGM>:그때 한 목소리가 갑자기 끼어들었다.
+ColtWalker(1)<Speaker>매기</Speaker>||:...우리 류드밀라 교관 나리께서 혼자 뭘 그리 중얼거리고 계시나?
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>;ColtWalker(1)||:......
+AR18(6)<Position>0,70</Position>;Erma(1)<Speaker>엘마</Speaker>||:<color=#66CDAA>...아 그렇지, 나 방금 입으로 말하고 있던 걸 깜빡했네.</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>;Erma(1)||<BGM>GF_2022_Summer_AVG_3</BGM>:......+무슨 일인데?
+ColtWalker(3)<Speaker>매기</Speaker>||:폴이라는 인형이 널 찾더라.+그런데 감염자를 데리고 있어서 차 안의 인간들이 문을 안 열려고 해.
+()||<黑点1>:
+()||<黑点2><BIN>530</BIN><narrator>:대륙간 열차 "미래호"의 F09-F10 객차간 연결구
+()||:류드밀라는 엘마와 매기를 데리고 차량 연결구로 갔다.+연결구 안의 인형들은 가운데를 비우고 양쪽으로 갈라져 있었고, 가운데엔 인형 폴이 서 있었다.+그리고 그 뒤에는 복사감염 증상이 뚜렷한 여자아이가 있었다. 두 눈을 꾹 감고 있는 것을 보아 맹인임이 확실했다.
+Erma(2)<Speaker>엘마</Speaker>||:폴 아저씨... 무슨 일인데요?
+()||:폴은 엘마에게 고개를 끄덕였다.
+NPC-TD_Worker(0)<Speaker>폴</Speaker>||:엘마.+이게 사정이 복잡해...
+()||:그는 바로 고개를 류드밀라에게 돌렸다.
+NPC-TD_Worker(0)<Speaker>폴</Speaker>||:류드밀라 교관, 통신으로만 뵈었지만 당신이 지금 여기의 지휘를 맡고 있는 것으로 기억합니다.
+()||:류드밀라는 말없이 그를 바라보았다.+여자아이와 철도 작업자 인형, 생전 처음 보는 조합이었다.
+NPC-TD_Worker(0)<Speaker>폴</Speaker>||:...로시타는 아직 늦지 않았습니다.+원래부터 얘를 데리고 베를린에 치료하러 가는 길이었습니다.+부탁합니다, 교관. 우리를 도와주십시오.
+()||:무거운 분위기에 불안한 듯, 폴이 감싸고 있던 소녀가 중얼거리듯 입을 열었다.
+NPC-SickGirl(2)<Speaker>로시타</Speaker>||:폴... 됐어, 남한테 부탁하는 건 그만하자.
+()||:로시타의 목소리는 매우 허약했다.
+NPC-TD_Worker(0)<Speaker>폴</Speaker>||:괜찮아 로시타... 열차는 살짝 고장이 난 것뿐이야.+금방 멀쩡해질 거야.
+NPC-SickGirl(1)<Speaker>로시타</Speaker>||:싸... 싸우지 말고...
+NPC-TD_Worker(0)<Speaker>폴</Speaker>||:음...? 로시타...?
+()||<SE1>ClothingUp</SE1>:로시타의 목소리가 점점 더 사그라들었다. 심상치 않음을 느낀 폴은 바로 무릎을 굽히고 로시타의 이마를 짚었다.
+NPC-TD_Worker(0)<Speaker>폴</Speaker>||:...열이 심해...+교관!
+()||<SE1>AVG_Camera_Focus</SE1>:폴이 고개를 돌렸다, 얼굴의 커다란 램프는 표정을 지을 수 없었지만, 그의 초조한 감정이 잔뜩 전해졌다.
+NPC-TD_Worker(0)<Speaker>폴</Speaker>||:...저는 시베리아 생명선 공사에 참여했습니다, 교관. 저도 여기에서 쓸모가 있을 겁니다...
+ColtWalker(3)<Speaker>매기</Speaker>||:1호 차량의 의사라면 방법이 있을지도.
+()||:계속 류드밀라를 따라온 매기가 못 참고 입을 열었다. 얼굴에는 동정심까지 엿보였다.+엘마가 이 항상 히죽거리는 사기꾼에게서 처음으로 본 다른 표정이었다.
+ColtWalker(3)<Speaker>매기</Speaker>||:그 양반이 아직 살아있는지는 모르겠지만.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......+특등석 객차의 방호력은 무시 못 할 수준이다. 아마 무사하겠지.
+()||:류드밀라는 고민하는 듯 통신을 힐끗 보았다.
+()||<SE1>ClothingUp</SE1>:그리고 엘마는 폴의 손등을 토닥였다.
+Erma(9)<Speaker>엘마</Speaker>||:안심해요, 류드밀라한테 방법이 있을 거예요.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......
+()||:매기가 피식 웃었고, 그 옅은 미소가 다시 얼굴에 돌아왔다.
+ColtWalker(1)<Speaker>매기</Speaker>||:네가 교관을 어떻게 생각하는지 참 궁금하다.+슈퍼히어로쯤 되냐?
+()||<SE1>AVG_Explo_Close</SE1><BGM>BGM_Empty</BGM>:쿠웅!+커다란 굉음이 그들의 잡담을 끊었다.
+ColtWalker(1)<Speaker>매기</Speaker>||<BGM>GF_21summer_intro_DemonVariation</BGM>:...교관 나리, 아무리 성질이 나도 그렇게 큰 소릴 낼 필요는 없잖아.
+()||<SE1>RunStep</SE1>:류드밀라는 깐족대는 매기를 무시하고 바로 권총을 들고 9호차로 돌아갔다.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:적이다!+모두 준비해!
+()||<SE1>AVG_Scene_Transfer</SE1>:처처척——!+차 안의 인형들은 곧바로 경계 태세로 전환했다.+그때, 한동안 안 보였던 그 모습이 무너진 바 카운터 옆에 나타났다.
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:여기 인형들 다 해체해!+시그너스가 이 쓰레기들을 넘기란다!
+()||<黑屏1>:

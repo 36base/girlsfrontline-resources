@@ -1,0 +1,118 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<震屏3><BIN>613</BIN><BGM>BGM_Sneak</BGM><SE1>AVG_Door_Hit</SE1>:와장창! 당신은 허둥지둥 저택 거실에 달려들어 사방을 마구 뒤졌다.
+()<Speaker>지휘관</Speaker>||:사키! 같이 좀 찾아줘!
+NPC-Saki(2)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:응!
+()<Speaker></Speaker>||:콘서트가 시작하기까지 2시간밖에 안 남은 상황. 당신은 중요한 증빙서류를 깜빡해서 사키와 바이크를 함께 타고 저택에 돌아왔다.
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:마지막으로 서류를 어디에다 뒀는지 전혀 기억이 안 나서, 거실의 가능한 장소를 마구잡이로 뒤질 수밖에 없었다.+시간이 매정하게 흘러가고, 당신의 마음도 더 초조하게 타들어갔다.
+()<Speaker>지휘관</Speaker>||:서류야, 빨리 나와라! 빨리 안 나오면 지각한다고!
+NPC-Saki(3)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:조급할 게 뭐 있어! 내가 있으니까 지각할 걱정은 말라고!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:사키는 어질러진 잡동사니에서 고개를 빼고 자신차게 가슴을 두드렸다.+초조함이 약간 사그라들었고, 다시 수색에 몰두했다.
+()<Speaker>지휘관</Speaker>||:빨리빨리빨리! 빨리 나와라!
+NPC-Saki(3)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:대체 어디에 있는 거야!?
+()<Speaker></Speaker>||<SE1>AVG_flag</SE1><SE1>AVG_lifttable</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=4</controll_shake>:우당탕탕! 정신 없이 들쑤시는 소리가 거실 온 구석에 퍼졌다.+둘의 파괴 행각이 15분째 이어진 끝에 마침내...
+NPC-Saki(0)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<SE1>ClothingUp</SE1>:<size=50>지휘관, 찾았어!</size>
+NPC-Saki(0)<Speaker>지휘관</Speaker><Position>0,-190</Position><Scale>1.4</Scale><同时置暗>||:좋았어!+바로 출발하자!
+NPC-Saki(4)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:<size=50>출발!!</size>
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>597</BIN>:10분 후.+당신은 손에 쥔 지도를 보고, 다시 눈앞의 길거리를 봤다.
+()<Speaker>지휘관</Speaker>||:사키, 이 길 좀 아닌 것 같은데...
+NPC-Saki(3)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:중얼거리지 마, 이쪽이 지름길이라고!+더 빨리 공연장에 도착할 수 있어!
+()<Speaker>지휘관</Speaker>||:어...
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:당신은 지도를 내려놓고 사키를 믿기로 했다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><SE1>Rope</SE1><BIN>593</BIN><BGM>BGM_Empty</BGM><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><SE1>AVG_Car_Skid</SE1>:얼마 후.+급브레이크에 꾸벅꾸벅 졸던 당신은 화들짝 깼다.
+()<Speaker>지휘관</Speaker>||:어어어, 어디야? 다 왔어?
+NPC-Saki(2)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:......
+NPC-Saki(2)<Speaker>지휘관</Speaker><Position>0,-190</Position><Scale>1.4</Scale><同时置暗>||:사키?
+NPC-Saki(2)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:그게... 아무래도 길을 잃은 것 같아...
+()<Speaker>지휘관</Speaker>||<BGM>Campaion-34</BGM>:<size=50>야 임마 네가 이쪽 길을 잘 안다며!</size>
+NPC-Saki(3)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<SE1>AVG_Punch_Hit</SE1><震屏3>:<size=50>뭔 소리를 질러! 가다 보니까 기억하던 거랑 달라졌다니까!</size>
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:낯선 풍경, 낯선 길거리. 당신은 지도를 샅샅이 훑어보며 지금 자신들의 위치를 알아내려 했다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:띠리리링~ 휴대폰이 울렸다.
+()<Speaker>지휘관</Speaker>||:여보세요?
+NPC-Ninja(5)<Speaker>스크립터</Speaker><通讯框>||:<color=#00CCFF>지금 뭐하고 있어?! 이제 한 시간이면 시작해야 한다고!</color>+<color=#00CCFF>프로듀서 겸 매니저면서 증빙서류 제출 안 하고 뭘 꾸물거리고 있냐고!?</color>
+NPC-Ninja(5)<Speaker>지휘관</Speaker><同时置暗>||:서류는 찾았어, 지금 가는 중인데...
+NPC-Ninja(5)<Speaker>스크립터</Speaker><通讯框>||:<color=#00CCFF>얼마나 남았는데?</color>
+()<Speaker>지휘관</Speaker>||:어...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:당신은 넋없이 썰렁한 길거리를 둘러보며 지금 위치를 설명할 수 있는 단서를 찾으려고 했다.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><通讯框>||:<color=#00CCFF>설마 길 잃었어?</color>
+NPC-Ninja(5)<Speaker>지휘관</Speaker><同时置暗>||:......
+NPC-Ninja(5)<Speaker>스크립터</Speaker><通讯框>||:<color=#00CCFF>지금, 사가에서, 길을 잃었다고!?</color>
+NPC-Ninja(5)<Speaker>지휘관</Speaker><同时置暗>||<震屏3><SE1>Rope</SE1>:<size=50>외지인인데 길 좀 잃을 수도 있지!</size>
+NPC-Ninja(5)<Speaker>스크립터</Speaker><通讯框>||:<color=#00CCFF>2호랑 같이 갔잖아?</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:당신은 길가에 쪼그려 앉아있는 사키를 힐끗 봤지만, 그녀는 고개를 홱 돌렸다.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><通讯框>||:<color=#00CCFF>......</color>+<color=#00CCFF>그래 그래, 지금 주변에 장소를 특정할 만한 물건이 있나 말해봐, 내가 찾으러 갈게.</color>
+()<Speaker>지휘관</Speaker>||:알았어, 주변에...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:당신은 주변의 얼마 없는 건물들을 세심하게 훑었다.
+()<Speaker>지휘관</Speaker>||:낙엽 지기 시작한 나무 몇 그루가 있고, 내 옆에 강물이 있고, 길 맞은편에 편의점이 하나 있어.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><通讯框>||:<color=#00CCFF>......</color>+<color=#00CCFF>사가에 그런 곳이 얼마나 있는진 알아?</color>
+NPC-Ninja(5)<Speaker>지휘관</Speaker><同时置暗>||:어어... 모르지...
+NPC-Ninja(5)<Speaker>스크립터</Speaker><通讯框>||<震屏3>:<size=50><color=#00CCFF>거기서 꼼짝 말고 기다려라!</color></size>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:성난 소리와 함께 통화가 끊어졌다.
+NPC-Saki(2)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:야, 이제 어떡해?
+NPC-Saki(2)<Speaker>지휘관</Speaker><Position>0,-190</Position><Scale>1.4</Scale><同时置暗>||:스크립터가 찾으러 오는 걸 기다려야...겠지?
+NPC-Saki(2)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:그걸 얼마나 기다려야 하는 건데...
+()<Speaker></Speaker>||<SE1>AVG_engine_speedup</SE1>:부르릉——! 바이크 몇 대의 소음이 대화를 끊었다.+한적한 교외에 폭주족 차림의 청년 열몇 명이 늘어났다. 그들은 바이크를 길가에 세우고서 치열하게 뭐라 다투고 있었다.+당신과 사키는 반사적으로 시선을 향했다...
+NPC-Saki(2)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:내가 말 좀 걸어볼게.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:사키가 자리에서 일어났다. 딱 봐도 저 다툼을 중재할 생각이었다. 여태까지의 경험을 떠올린 당신은 바로 그녀를 붙잡았다.
+()<Speaker>지휘관</Speaker>||<SE1>Rope</SE1>:안 돼, 빨리 바이크에 타! 딴데에서 기다리자!
+NPC-Saki(2)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:뭔데?
+()<Speaker>지휘관</Speaker>||:묻지 말고 그냥 가자고!
+()<Speaker></Speaker>||<SE1>Rope</SE1><SE1>AVG_Cloak_Whoosh</SE1>:당신은 바이크 뒷좌석에 올라타고, 사키를 막무가내로 끌어와 자리에서 벗어났다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>262</BIN><BGM>BGM_Empty</BGM>:...또 얼마 후.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BGM>m_wv_scenario</BGM><SE1>AVG_tele_connect</SE1>:당신은 길가에 쪼그려 앉아 폰을 귓가에 댔다.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><通讯框>||:<color=#00CCFF>그러니까... 내가 너희를 찾는 중에 자리를 옮겼다고?</color>
+NPC-Ninja(5)<Speaker>지휘관</Speaker><同时置暗>||:응...
+NPC-Ninja(5)<Speaker>스크립터</Speaker><通讯框>||:<color=#00CCFF>아따 참말로 장하다잉!?</color>+<color=#00CCFF>1호야, 네가 너네 지휘관이랑 얘기해 봐라!</color>
+NPC-Sakura(2)<Speaker>미나모토 사쿠라</Speaker><通讯框>||:<color=#00CCFF>지휘관, 저예요!</color>+<color=#00CCFF>주변에 확실한 특징 물건이 없나요? 빨리 공연장으로 돌아가야 해요!</color>
+NPC-Saki(2)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:수목원 근처 같은데...
+()<Speaker>지휘관</Speaker>||:옆에 호수가 있고, 호숫가에 "낚시 금지"라 쓰인 팻말이 있어.
+NPC-Sakura(1)<Speaker>미나모토 사쿠라</Speaker><通讯框>||:<color=#00CCFF>수목원 근처, "낚시 금지" 팻말이 있는 호숫가...</color>+<color=#00CCFF>알겠어요, 금방 찾으러 갈게요!</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:사쿠라가 전화를 끊었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:당신은 사키의 곁에 앉아 서로 눈치를 보며 멍을 때렸다.
+NPC-Saki(7)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:...내가 잘못했어야.
+NPC-Saki(7)<Speaker>지휘관</Speaker><Position>0,-190</Position><Scale>1.4</Scale><同时置暗>||:응?
+NPC-Saki(7)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:괜히 잔머리 굴려서 지름길을 타지 말았어야 했다!
+NPC-Saki(7)<Speaker>지휘관</Speaker><Position>0,-190</Position><Scale>1.4</Scale><同时置暗>||:그렇게 말하지 마, 서둘러 공연장에 돌아가려고 그런 거였잖아.+그리고 네 덕분에 일찍 증빙 서류를 찾을 수 있었고.
+NPC-Saki(4)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:에헤, 그건 그렇제!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:어색한 분위기가 살짝 누그러졌다. 당신은 사키와 담소를 나누며 증빙 서류를 담은 백을 꺼냈다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_Zipper</SE1>:찌익... 지퍼를 열어보니 안은 텅 비어 있었다.
+()<Speaker>지휘관</Speaker>||<SE1>AVG_Awkward</SE1>:......
+NPC-Saki(3)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:......
+()<Speaker></Speaker>||<BGM>m_wv_title</BGM>:겨우 풀어졌던 분위기가 다시 살벌해졌다.
+()<Speaker></Speaker>||<SE1>AVG_Stiff</SE1>:사키가 뻣뻣하게 고개를 당신에게 돌리고, 떨리는 입술을 열어 뭐라고 말하려던 때——
+()<Speaker></Speaker>||<SE1>AVG_brake</SE1>:끼이익!!! 깔끔한 급정거 소리가 바로 옆에 울렸다.
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<SE1>AVG_20Winter_Door_Open</SE1>:지휘관! 사키! 겨우 찾았어야!
+()<Speaker></Speaker>||:사쿠라가 기뻐하며 차에서 뛰어내려 달려왔다.
+NPC-MizunoAi(3)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||:정말이지, 서류 몇 장 때문에 이게 무슨 고생이야.
+NPC-Junko(1)<Speaker>콘노 준코</Speaker><Position>60,-230</Position><Scale>1.27</Scale>||:찾았으면 됐죠, 빨리 출발해요.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:<size=50>뭘 멍하니 있어! 빨리 타!</size>+<size=50>이제 공연 시작까지 15분 밖에 안 남았다니까!</size>
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Horn_Car</SE1><震屏3>:쿵쿵! 스크립터가 성질내며 차 문을 두드렸다.
+()<Speaker>지휘관</Speaker>||:......
+NPC-Saki(7)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:......
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:왜 그러시나요? 두 분 안색이 안 좋아보여요?
+NPC-Lily(8)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:혹시 배탈 났어?
+NPC-Sakura(1)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:지휘관?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:당신은 떨리는 손으로 백을 들어 당신의 가슴 속처럼 공허한 속을 모두에게 보여줬다.
+NPC-Junko(0)<Speaker>콘노 준코</Speaker><Position>60,-230</Position><Scale>1.27</Scale>||:무슨 뜻이죠?
+NPC-MizunoAi(3)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||:그거 내가 기억하기론 그거 지휘관이 증빙 서류를 담고 다니던 백인데...
+NPC-Sakura(2)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale><Shake>0.1</Shake>||<BGM>BGM_Empty</BGM><SE1>AVG_Wonder</SE1><BGM>BGM_Empty</BGM>:<size=50>으에!?</size>
+()<Speaker>스크립터</Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><SE1>AVG_Thunder_Dry</SE1>:<size=50>뜨아아아아아아악——!!!</size>
+()<Speaker></Speaker>||:잔잔한 호숫가에 스크립터의 비명이 울려퍼졌다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<震屏3><BIN>596</BIN><SE1>AVG_Pause</SE1><BGM>BGM_Saga_AVG_Dusk</BGM>:결국 너무 지각한 탓에, 공연장에 도착했을 땐 이미 관중들이 다 떠나고 없었다.+공연 주최 측은 분노하며 프랑슈슈를 블랙리스트에 넣었다.+당신과 프랑슈슈는 공연장에서 떠나 저택에 돌아갈 수밖에 없었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>606</BIN><黑屏2>:저택 거실에서, 프랑슈슈는 원래 무대 위에서 했어야 할 공연을 마쳤다.+당신은 유일한 관중으로서, 거실 소파에 앉아 이들이 정성껏 준비한 공연을 끝까지 감상했다.+확실히, 공연 수준상 아쉬운 부분이 꽤 있었지만, 프랑슈슈는 틀림없이 눈부시게 빛났다.+프랑슈슈는 전심전력을 다해 환한 미소를 유지했지만, 당신은 홀로 눈물에 젖었다.+만약... 처음부터...+당신은 속으로 이런 생각을 금치 못했다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>9</BIN><BGM>BGM_Empty</BGM>:......+갑자기 전기가 나간 것처럼 눈앞이 깜깜해졌다.
+()<Speaker>지휘관</Speaker>||:정전인가?
+()<Speaker></Speaker>||:아무도 대답해주지 않았다.
+()<Speaker></Speaker>||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:파도가 배의 밑바닥에 부서지는 소리.+그리고 바닷가 특유의 짭조름한 공기에 섞인, 어렴풋한 꽃향기.
+()<Speaker>지휘관</Speaker>||:뭐야?
+()<Speaker>？？？</Speaker>||:운명의 바퀴가 다시 움직인다.+아직 후회를 만회할 기회가 있을지도 모르지.
+()<Speaker>지휘관</Speaker>||:무슨 소리야?
+()<Speaker>？？？</Speaker>||:이미 시작된 모든 것은 지금도 멈추지 않는다.
+()<Speaker></Speaker>||:파도가 부서지고, 수면을 가르는 소리. 이 배는 지금 바다 위를 빠르게 달리고 있었다.+어리둥절한 와중 새로운 기회가 다가오고 있음을 무의식적으로 느꼈다.
+()||<黑点1>:

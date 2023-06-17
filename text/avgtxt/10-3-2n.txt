@@ -1,76 +1,76 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>7</BIN><Night><黑屏2><BGM>10256</BGM>:...StG44가 전달받은 좌표에 도착했다.
-STG44Mod(0)<Speaker>StG44</Speaker>||:어휴, 겨우 도착했네...
-()||:멀리서 묵직한 총성이 한 번 터지더니, 곧바로 다른 총성이 연달아 3번 울려 퍼졌다.
-STG44Mod(0)<Speaker>StG44</Speaker>||<SE1>AVG_rifle_finalshot_3h</SE1>:총소리에서 조급함이 느껴져...
-STG44Mod(0)<Speaker>StG44</Speaker>||<SE1>AVG_tele_connect</SE1><黑屏1>:카라비너 씨, 지금 상황 어떤가요?+카라비너 씨? 들리나요?
-()||<黑屏2><BIN>2</BIN><Night>:...몇 분 전.
-98k(0)<Speaker>Kar98k</Speaker>||:쳇... 생각보다 까다롭네.+분명 명중했는데. 아무래도 더 접근해야겠어.
-98k(0);BOSS-7(0)<Speaker>게이저</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>날 상대로 겨우 너 하나만 보내다니, 나도 엄청 얕보였나 보군.</color>
-98k(0)<Speaker>Kar98k</Speaker>;BOSS-7(0)<通讯框>||:강제 통신?
-98k(0);BOSS-7(0)<Speaker>게이저</Speaker><通讯框>||:<color=#00CCFF>오호라, 접근하는 건가. 다른 쓰레기들처럼 도망치지 않고, 오히려 내게 다가오고 있구나.</color>
-98k(0)<Speaker>Kar98k</Speaker>;BOSS-7(0)<通讯框>||:그렇게 저와 이야기를 나누고 싶나요? 그럼 강제 통신 같은 무례한 짓은 삼가시죠.
-98k(0);BOSS-7(0)<Speaker>게이저</Speaker><通讯框>||:<color=#00CCFF>훗, 동료들이 다 도망친 상황에서도 나와 싸우려 하다니.</color>+<color=#00CCFF>그 점만큼은 경의를 표하지.</color>
-98k(0)<Speaker>Kar98k</Speaker>;BOSS-7(0)<通讯框>||:그야... 당신을 상대하는 건 저 혼자서도 충분하니까요.
-98k(0);BOSS-7(0)<Speaker>게이저</Speaker><通讯框>||:<color=#00CCFF>그렇게 입을 놀리는 것도 지금뿐이다.</color>
-98k(0)<Speaker>Kar98k</Speaker>;BOSS-7(0)<通讯框>||:그렇게 자신만만하면, 지금 당장 제게 달려와 보시죠?
-98k(0);BOSS-7(0)<Speaker>게이저</Speaker><通讯框>||:<color=#00CCFF>그럴 수도 있겠지만...</color>+<color=#00CCFF>나는 너에게 기회를 주려고 한다.</color>
-98k(0)<Speaker>Kar98k</Speaker>;BOSS-7(0)<通讯框>||:말은 잘하시네요. 매복이 무서운 거겠죠.
-98k(0)<Speaker>Kar98k</Speaker>||:우리가 이미 매복하고 당신이 오길 기다리고 있다면 어떻게 하시겠어요?
-()||<黑屏1><SE1>AVG_rifle_finalshot_h</SE1>:탕!
-BOSS-7(0)<Speaker></Speaker>||<BIN>1</BIN><Night><黑屏2>:게이저의 측면에서 총알 한 발이 날아왔지만, 게이저는 손쉽게 튕겨냈다.
-98k(0)<Speaker>Kar98k</Speaker><通讯框>;BOSS-7(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>벌써 제 지원군이 온 모양이네요.</color>
-98k(0)<通讯框>;BOSS-7(0)<Speaker>게이저</Speaker>||:흥... 허세 부리긴.
-BOSS-7(0)<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1>:탕!+또 다른 방향에서 총알이 날아왔다.
-BOSS-7(0)<Speaker>게이저</Speaker>||:더미를 흩어놨군. 그래봤자 허튼 짓거리다.
-()||<SE1>AVG_rifle_finalshot_3h</SE1>:탕! 탕! 탕!+두 총알이 각각 다른 방향에서 거의 동시에 날아오자, 게이저는 뒤로 펄쩍 뛰었다.+그러기가 무섭게, 세 번째 총알이 방금 게이저가 있던 자리를 지나갔다.
-BOSS-7(0)<Speaker>게이저</Speaker>||:역시 그리폰의 더미 인형은 예측 능력이 떨어지는군. 겨우 그 정도로 날 위협할 셈이냐?
-98k(0)<Speaker>Kar98k</Speaker><通讯框>;BOSS-7(0)||:<color=#00CCFF>......</color>
-98k(0)<通讯框>;BOSS-7(0)<Speaker>게이저</Speaker>||:왜 말이 없지?
-BOSS-7(0)<Speaker>게이저</Speaker>||<黑屏1>:<color=#A9A9A9>다른 꿍꿍이가 있는 건가...</color>
-98k(0)<Speaker>Kar98k</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:<color=#A9A9A9>이 방법이 통하는 것 같아. 이 틈을 타서...</color>
-BOSS-7(0)<Speaker></Speaker>||<黑屏2><BIN>7</BIN><Night><SE1>AVG_rifle_finalshot_h</SE1>:탕! 잇따른 총성과 날아드는 총알을 피하며, 게이저는 사격이 오는 방향을 관찰했다.
-BOSS-7(0)<Speaker></Speaker>||:또다시 한 발의 총성이 멀리서 들려왔지만, 이번엔 게이저는 피하지 않고 제자리에 가만히 멈췄다.+총알은 게이저의 어깨를 스쳐 날아가 땅에 박혔다. 그리고 게이저는 생채기가 난 어깨를 흘겨보곤, 고개를 들었다.
-BOSS-7(0)<Speaker>게이저</Speaker>||<黑屏1>:...그렇군.
-()<Speaker>게이저</Speaker>||<BIN>9</BIN><黑屏2>:승부는 정해졌다.
-98k(0)<Speaker>Kar98k</Speaker>||:<color=#A9A9A9>뭐라고?</color>
-()<Speaker></Speaker>||:게이저는 천천히 무기를 들더니...
-()<Speaker></Speaker>||<黑屏1><SE2>Gunfight</SE2><BGM>BGM_Empty</BGM>:단숨에 네 방향을 향해 사격을 가했다.
-()||<BIN>1</BIN><Night><黑屏2>:그리고 각각의 엄폐물에 숨어 있던 Kar98k의 더미들은 반응도 채 하지 못하고 파괴됐다.
-BOSS-7(0)<Speaker>게이저</Speaker>||:흥, 시시한 수작이군.+더미로 날 견제하는 동시에 내게 접근해, 그 구닥다리 무기로 내 코어를 꿰뚫을 셈이었지?
-98k(0)<Speaker>Kar98k</Speaker>||:쳇...
-BOSS-7(0)<Speaker>게이저</Speaker>||:그리고 너는... 지금 내 앞의 나무 밑에 있지. 뒤에 숨어봤자 널 나무째로 날려 버릴 수 있다.
-()||:게이저가 무기로 가리킨 그곳에는 기습을 도모하던 Kar98k가 있었다.
-98k(0)<Speaker>Kar98k</Speaker>||:<color=#A9A9A9>당했구나.</color>
-BOSS-7(0)<Speaker>게이저</Speaker>||:이제 아무 말도 안 나오나 보군?
-BOSS-7(0)<Speaker>게이저</Speaker>||<黑屏1>:그럼, 내가 무슨 기회를 주려는지 들을 마음이 생겼나?
-()||<BIN>7</BIN><Night><黑屏2>:한편...
-MP41(0)<Speaker>MP41</Speaker>||<BGM>BGM_NightOPS</BGM>:당신도 카라비너 선배를 도와서 게이저를 상대해야 하는 거 아니에요?
-MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:저건 내 실력으로 상대할 수 있는 적이 아니야.+그리고 지금 내 임무는 너희를 데리고 이탈하는 거고.
-MP41(0)<Speaker>MP41</Speaker>||:하지만 지금 우리의 머릿수로 녀석을 포위하면...
-()||<SE2>Gunfight</SE2>:게이저의 묵직한 총성이 멀리서 들려왔고, 그 소리에 모두가 그 방향으로 고개를 돌렸다.
-STG44Mod(0)<Speaker>StG44</Speaker>||:방금 그 광선은...+카라비너 씨 더미의 신호가 사라졌어.
-MP41(0)<Speaker>MP41</Speaker>;STG44Mod(0)||:어느 더미요?
-MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:...전부.
-MP41(0)<Speaker>MP41</Speaker>;STG44Mod(0)||:엑... 카, 카라비너 선배는 엘리트잖아요? 어떻게 더미가 순식간에...
-MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:이제 우리 같은 평범한 인형은 철혈의 고급 유닛에겐 상대도 안 된다는 걸 알겠지?+철혈 보스 유닛은 하나같이 아주 위험해. 카라비너 씨도 각오를 다지고서 지휘관님께 이 임무를 신청한 거라고!+애당초, 이 기지에서 철혈 보스를 정면으로 상대할 수 있는 인형은 없단 말이야...+아까도 녀석을 겨우 카라비너 씨의 유효 사거리 안으로 유인하나 했는데!
-MP41(0)<Speaker>MP41</Speaker>||:<color=#A9A9A9>그, 그럼 전부 내 탓...?</color>
-MP41(0)<Speaker>MP41</Speaker><Shake>||:으으... 그럴 리가...
-g43(0)<Speaker>G43</Speaker>||:그, 그럼 이제 어떡해?
-98k(0)<Speaker>Kar98k</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>||:<color=#00CCFF>StG44 씨, 들리나요?</color>
-98k(0)<通讯框>;STG44Mod(0)<Speaker>StG44</Speaker>||:카라비너 씨! 괜찮으세요!? 지금 상황은요?!
-98k(0)<Speaker>Kar98k</Speaker><通讯框>;STG44Mod(0)||:<color=#00CCFF>마지막 수단도 실패했어요. 제 위치도 게이저에게 발각됐고요.</color>
-98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>아무래도 이번 임무는...</color>
-MP41(1)<Speaker>MP41</Speaker>||:죄송해요 선배... 다 제 잘못이에요...
-98k(0)<Speaker>Kar98k</Speaker><通讯框>;MP41(1)||:<color=#00CCFF>자책할 것 없어요, MP41.</color>+<color=#00CCFF>애당초 성공률이 낮은 임무였으니까요.</color>+<color=#00CCFF>지금 당신은 StG44와 함께 여길 이탈하는 것이 급선무예요.</color>
-98k(0)<通讯框>;MP41(1)<Speaker>MP41</Speaker>||:......
-MP41(1)<Speaker>MP41</Speaker>||:......
-g43(0)<Speaker>G43</Speaker>||:MP41? 왜 그래?
-MP41(1)<Speaker>MP41</Speaker>||:아니야... 난 아직...!
-MP41(1)<Speaker>MP41</Speaker>||<震屏><BGM>BGM_Empty</BGM>:이대로 떠날 수는 없어!
-STG44Mod(0)<Speaker>StG44</Speaker>||:그게 무슨 소리야! 지금 상황 파악이 안 돼?!
-MP41(1)<Speaker>MP41</Speaker>||:카라비너 선배, 제가 말했죠? 선배를 도와 그 철혈 보스를 해치우겠다고!+제 실수를 만회하기 위해서라도, 오늘 공적을 세우기 위해서라도...!+한 가지 방법이 떠올랐으니까, 절 믿어 주세요!
-98k(0)<Speaker>Kar98k</Speaker><通讯框>||<BGM>BGM_War</BGM>:<color=#00CCFF>......</color>+<color=#00CCFF>말해 보세요.</color>
-STG44Mod(0)<Speaker>StG44</Speaker>||:카라비너 씨!
-98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>StG, 저도 이대로 당하기는 싫답니다. 그리고 만약 승리할 가능성이 있다면...</color>
-MP41(0)<Speaker>MP41</Speaker>||<黑屏1>:아무리 실낱같은 희망이라도 붙잡아야죠! 그렇죠, 선배?
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>7</BIN><Night><黑屏2><BGM>10256</BGM>:...StG44가 전달받은 좌표에 도착했다.
+STG44Mod(0)<Speaker>StG44</Speaker>||:어휴, 겨우 도착했네...
+()||:멀리서 묵직한 총성이 한 번 터지더니, 곧바로 다른 총성이 연달아 3번 울려 퍼졌다.
+STG44Mod(0)<Speaker>StG44</Speaker>||<SE1>AVG_rifle_finalshot_3h</SE1>:총소리에서 조급함이 느껴져...
+STG44Mod(0)<Speaker>StG44</Speaker>||<SE1>AVG_tele_connect</SE1><黑屏1>:카라비너 씨, 지금 상황 어떤가요?+카라비너 씨? 들리나요?
+()||<黑屏2><BIN>2</BIN><Night>:...몇 분 전.
+98k(0)<Speaker>Kar98k</Speaker>||:쳇... 생각보다 까다롭네.+분명 명중했는데. 아무래도 더 접근해야겠어.
+98k(0);BOSS-7(0)<Speaker>게이저</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>날 상대로 겨우 너 하나만 보내다니, 나도 엄청 얕보였나 보군.</color>
+98k(0)<Speaker>Kar98k</Speaker>;BOSS-7(0)<通讯框>||:강제 통신?
+98k(0);BOSS-7(0)<Speaker>게이저</Speaker><通讯框>||:<color=#00CCFF>오호라, 접근하는 건가. 다른 쓰레기들처럼 도망치지 않고, 오히려 내게 다가오고 있구나.</color>
+98k(0)<Speaker>Kar98k</Speaker>;BOSS-7(0)<通讯框>||:그렇게 저와 이야기를 나누고 싶나요? 그럼 강제 통신 같은 무례한 짓은 삼가시죠.
+98k(0);BOSS-7(0)<Speaker>게이저</Speaker><通讯框>||:<color=#00CCFF>훗, 동료들이 다 도망친 상황에서도 나와 싸우려 하다니.</color>+<color=#00CCFF>그 점만큼은 경의를 표하지.</color>
+98k(0)<Speaker>Kar98k</Speaker>;BOSS-7(0)<通讯框>||:그야... 당신을 상대하는 건 저 혼자서도 충분하니까요.
+98k(0);BOSS-7(0)<Speaker>게이저</Speaker><通讯框>||:<color=#00CCFF>그렇게 입을 놀리는 것도 지금뿐이다.</color>
+98k(0)<Speaker>Kar98k</Speaker>;BOSS-7(0)<通讯框>||:그렇게 자신만만하면, 지금 당장 제게 달려와 보시죠?
+98k(0);BOSS-7(0)<Speaker>게이저</Speaker><通讯框>||:<color=#00CCFF>그럴 수도 있겠지만...</color>+<color=#00CCFF>나는 너에게 기회를 주려고 한다.</color>
+98k(0)<Speaker>Kar98k</Speaker>;BOSS-7(0)<通讯框>||:말은 잘하시네요. 매복이 무서운 거겠죠.
+98k(0)<Speaker>Kar98k</Speaker>||:우리가 이미 매복하고 당신이 오길 기다리고 있다면 어떻게 하시겠어요?
+()||<黑屏1><SE1>AVG_rifle_finalshot_h</SE1>:탕!
+BOSS-7(0)<Speaker></Speaker>||<BIN>1</BIN><Night><黑屏2>:게이저의 측면에서 총알 한 발이 날아왔지만, 게이저는 손쉽게 튕겨냈다.
+98k(0)<Speaker>Kar98k</Speaker><通讯框>;BOSS-7(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>벌써 제 지원군이 온 모양이네요.</color>
+98k(0)<通讯框>;BOSS-7(0)<Speaker>게이저</Speaker>||:흥... 허세 부리긴.
+BOSS-7(0)<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1>:탕!+또 다른 방향에서 총알이 날아왔다.
+BOSS-7(0)<Speaker>게이저</Speaker>||:더미를 흩어놨군. 그래봤자 허튼 짓거리다.
+()||<SE1>AVG_rifle_finalshot_3h</SE1>:탕! 탕! 탕!+두 총알이 각각 다른 방향에서 거의 동시에 날아오자, 게이저는 뒤로 펄쩍 뛰었다.+그러기가 무섭게, 세 번째 총알이 방금 게이저가 있던 자리를 지나갔다.
+BOSS-7(0)<Speaker>게이저</Speaker>||:역시 그리폰의 더미 인형은 예측 능력이 떨어지는군. 겨우 그 정도로 날 위협할 셈이냐?
+98k(0)<Speaker>Kar98k</Speaker><通讯框>;BOSS-7(0)||:<color=#00CCFF>......</color>
+98k(0)<通讯框>;BOSS-7(0)<Speaker>게이저</Speaker>||:왜 말이 없지?
+BOSS-7(0)<Speaker>게이저</Speaker>||<黑屏1>:<color=#A9A9A9>다른 꿍꿍이가 있는 건가...</color>
+98k(0)<Speaker>Kar98k</Speaker>||<BIN>9</BIN><黑屏2><黑屏1>:<color=#A9A9A9>이 방법이 통하는 것 같아. 이 틈을 타서...</color>
+BOSS-7(0)<Speaker></Speaker>||<黑屏2><BIN>7</BIN><Night><SE1>AVG_rifle_finalshot_h</SE1>:탕! 잇따른 총성과 날아드는 총알을 피하며, 게이저는 사격이 오는 방향을 관찰했다.
+BOSS-7(0)<Speaker></Speaker>||:또다시 한 발의 총성이 멀리서 들려왔지만, 이번엔 게이저는 피하지 않고 제자리에 가만히 멈췄다.+총알은 게이저의 어깨를 스쳐 날아가 땅에 박혔다. 그리고 게이저는 생채기가 난 어깨를 흘겨보곤, 고개를 들었다.
+BOSS-7(0)<Speaker>게이저</Speaker>||<黑屏1>:...그렇군.
+()<Speaker>게이저</Speaker>||<BIN>9</BIN><黑屏2>:승부는 정해졌다.
+98k(0)<Speaker>Kar98k</Speaker>||:<color=#A9A9A9>뭐라고?</color>
+()<Speaker></Speaker>||:게이저는 천천히 무기를 들더니...
+()<Speaker></Speaker>||<黑屏1><SE2>Gunfight</SE2><BGM>BGM_Empty</BGM>:단숨에 네 방향을 향해 사격을 가했다.
+()||<BIN>1</BIN><Night><黑屏2>:그리고 각각의 엄폐물에 숨어 있던 Kar98k의 더미들은 반응도 채 하지 못하고 파괴됐다.
+BOSS-7(0)<Speaker>게이저</Speaker>||:흥, 시시한 수작이군.+더미로 날 견제하는 동시에 내게 접근해, 그 구닥다리 무기로 내 코어를 꿰뚫을 셈이었지?
+98k(0)<Speaker>Kar98k</Speaker>||:쳇...
+BOSS-7(0)<Speaker>게이저</Speaker>||:그리고 너는... 지금 내 앞의 나무 밑에 있지. 뒤에 숨어봤자 널 나무째로 날려 버릴 수 있다.
+()||:게이저가 무기로 가리킨 그곳에는 기습을 도모하던 Kar98k가 있었다.
+98k(0)<Speaker>Kar98k</Speaker>||:<color=#A9A9A9>당했구나.</color>
+BOSS-7(0)<Speaker>게이저</Speaker>||:이제 아무 말도 안 나오나 보군?
+BOSS-7(0)<Speaker>게이저</Speaker>||<黑屏1>:그럼, 내가 무슨 기회를 주려는지 들을 마음이 생겼나?
+()||<BIN>7</BIN><Night><黑屏2>:한편...
+MP41(0)<Speaker>MP41</Speaker>||<BGM>BGM_NightOPS</BGM>:당신도 카라비너 선배를 도와서 게이저를 상대해야 하는 거 아니에요?
+MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:저건 내 실력으로 상대할 수 있는 적이 아니야.+그리고 지금 내 임무는 너희를 데리고 이탈하는 거고.
+MP41(0)<Speaker>MP41</Speaker>||:하지만 지금 우리의 머릿수로 녀석을 포위하면...
+()||<SE2>Gunfight</SE2>:게이저의 묵직한 총성이 멀리서 들려왔고, 그 소리에 모두가 그 방향으로 고개를 돌렸다.
+STG44Mod(0)<Speaker>StG44</Speaker>||:방금 그 광선은...+카라비너 씨 더미의 신호가 사라졌어.
+MP41(0)<Speaker>MP41</Speaker>;STG44Mod(0)||:어느 더미요?
+MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:...전부.
+MP41(0)<Speaker>MP41</Speaker>;STG44Mod(0)||:엑... 카, 카라비너 선배는 엘리트잖아요? 어떻게 더미가 순식간에...
+MP41(0);STG44Mod(0)<Speaker>StG44</Speaker>||:이제 우리 같은 평범한 인형은 철혈의 고급 유닛에겐 상대도 안 된다는 걸 알겠지?+철혈 보스 유닛은 하나같이 아주 위험해. 카라비너 씨도 각오를 다지고서 지휘관님께 이 임무를 신청한 거라고!+애당초, 이 기지에서 철혈 보스를 정면으로 상대할 수 있는 인형은 없단 말이야...+아까도 녀석을 겨우 카라비너 씨의 유효 사거리 안으로 유인하나 했는데!
+MP41(0)<Speaker>MP41</Speaker>||:<color=#A9A9A9>그, 그럼 전부 내 탓...?</color>
+MP41(0)<Speaker>MP41</Speaker><Shake>||:으으... 그럴 리가...
+g43(0)<Speaker>G43</Speaker>||:그, 그럼 이제 어떡해?
+98k(0)<Speaker>Kar98k</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>||:<color=#00CCFF>StG44 씨, 들리나요?</color>
+98k(0)<通讯框>;STG44Mod(0)<Speaker>StG44</Speaker>||:카라비너 씨! 괜찮으세요!? 지금 상황은요?!
+98k(0)<Speaker>Kar98k</Speaker><通讯框>;STG44Mod(0)||:<color=#00CCFF>마지막 수단도 실패했어요. 제 위치도 게이저에게 발각됐고요.</color>
+98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>아무래도 이번 임무는...</color>
+MP41(1)<Speaker>MP41</Speaker>||:죄송해요 선배... 다 제 잘못이에요...
+98k(0)<Speaker>Kar98k</Speaker><通讯框>;MP41(1)||:<color=#00CCFF>자책할 것 없어요, MP41.</color>+<color=#00CCFF>애당초 성공률이 낮은 임무였으니까요.</color>+<color=#00CCFF>지금 당신은 StG44와 함께 여길 이탈하는 것이 급선무예요.</color>
+98k(0)<通讯框>;MP41(1)<Speaker>MP41</Speaker>||:......
+MP41(1)<Speaker>MP41</Speaker>||:......
+g43(0)<Speaker>G43</Speaker>||:MP41? 왜 그래?
+MP41(1)<Speaker>MP41</Speaker>||:아니야... 난 아직...!
+MP41(1)<Speaker>MP41</Speaker>||<震屏><BGM>BGM_Empty</BGM>:이대로 떠날 수는 없어!
+STG44Mod(0)<Speaker>StG44</Speaker>||:그게 무슨 소리야! 지금 상황 파악이 안 돼?!
+MP41(1)<Speaker>MP41</Speaker>||:카라비너 선배, 제가 말했죠? 선배를 도와 그 철혈 보스를 해치우겠다고!+제 실수를 만회하기 위해서라도, 오늘 공적을 세우기 위해서라도...!+한 가지 방법이 떠올랐으니까, 절 믿어 주세요!
+98k(0)<Speaker>Kar98k</Speaker><通讯框>||<BGM>BGM_War</BGM>:<color=#00CCFF>......</color>+<color=#00CCFF>말해 보세요.</color>
+STG44Mod(0)<Speaker>StG44</Speaker>||:카라비너 씨!
+98k(0)<Speaker>Kar98k</Speaker><通讯框>||:<color=#00CCFF>StG, 저도 이대로 당하기는 싫답니다. 그리고 만약 승리할 가능성이 있다면...</color>
+MP41(0)<Speaker>MP41</Speaker>||<黑屏1>:아무리 실낱같은 희망이라도 붙잡아야죠! 그렇죠, 선배?

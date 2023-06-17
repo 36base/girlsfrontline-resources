@@ -1,319 +1,319 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>167</BIN><Night><SE1>AVG_21Winter_Subway</SE1>:12월 25일 오후 8시, 기지 인근의 정거장.
-()<Speaker>방송</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>크리스마스 특별 이벤트가 30분 후 종료됩니다. 이벤트 참가자는 보유한 성탄 코인을 미리 스캔하여 최종 집계에 협조해 주십시오.</color>+<color=#00CCFF>30분 후, 성탄 코인의 집계를 마치면 카페에서 최종 우승자를 발표할 예정입니다. 참가자는 전원 참석해 주시기 바랍니다.</color>
-()<Speaker></Speaker>||<BGM>GF_21winter_avg_mahaline</BGM>:반복 재생되는 방송을 들으며, 인형들은 들뜬 마음으로 카페로 향했다.+그리고 여전히 인파가 오가는 정거장에서, TMP는 발을 동동 구르며 K2와 통신이 연결되길 기다렸다.
-TMP(2)<Speaker>TMP</Speaker>||<SE1>AVG_tele_disconnect</SE1>:으으... 얼른 받아요 대장...
-()<Speaker></Speaker>||:기다리면서, TMP는 통신 기록을 열어봤다.+M950A, 썬더, K2, AEK-999, M950A...+방송처럼 이쪽도 반복되는 통신 연결 실패 기록뿐이었다.
-TMP(2)<Speaker>TMP</Speaker>||:모두... 어디 간 거예요오...
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:TMP가 제풀에 지쳐 계단에 앉았을 때, 드디어 통신기가 연결음을 냈다.
-TMP(2)<Speaker>TMP</Speaker>||:대장!
-TMP(2);K2(0)<Speaker>K2</Speaker><通讯框>||:<color=#00CCFF>TMP? 미안해, 내가 좀 바빴거든.</color>
-TMP(2)<Speaker>TMP</Speaker>;K2(0)||:오늘 밤도 바빠요...?
-TMP(2);K2(0)<Speaker>K2</Speaker>||:<color=#00CCFF>응, 바빠. 헤헤...</color>
-TMP(2)<Speaker>TMP</Speaker>||:그, 그치만 오늘은 크리스마스 이벤트가――
-()<Speaker></Speaker>||<SE1>AVG_brake</SE1><震屏3>:날카로운 급정거 소리가 TMP의 말을 끊었다.
-K2(0)<Speaker>K2</Speaker><通讯框>||:<color=#00CCFF>아 진짜 운전 똑바로 안 해!?</color>+<color=#00CCFF>TMP, 일단 끊을게. 나중에 얘기하자.</color>
-TMP(2)<Speaker>TMP</Speaker>||:네에...
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:TMP는 통신기를 쥔 손을 축 늘어뜨리고, 쌀쌀한 겨울 바람을 맞으며 통화 내용을 되새김질했다.
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>81</BIN><关闭蒙版>:같은 시각, 벌써부터 시끌벅적해진 카페 앞.+안이 이미 몰려든 사람들로 가득 차서, 수오미와 RFB는 문 앞에 서 있어야 했다.+수오미는 TMP가 떠난 방향에서 고개를 돌려, 다시 RFB에게 물었다.
-KP31(2)<Speaker>수오미</Speaker>||:정말 같이 안 가봐도 될까요? 엄청 속상한 눈치던데.
-RFB(2)<Speaker>RFB</Speaker>||:괜찮아. 잠시 혼자 있게 해 주자.
-KP31(2)<Speaker>수오미</Speaker>||:......
-()<Speaker></Speaker>||:둘은 입을 다물었고, RFB는 게임기를 꺼내 편한 자세로 게임을 하기 시작했다.
-KP31(2)<Speaker>수오미</Speaker>||:RFB?
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:RFB는 독특한 디자인의 이어폰을 쓰고 있어, 수오미의 말이 들리지 않는 듯했다.
-KP31(10)<Speaker>수오미</Speaker>||:......+RFB, 사실 당신에게 할 얘기가 많아요.
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:RFB는 그저 능숙하게 게임기의 버튼을 두들겼다.
-KP31(9)<Speaker>수오미</Speaker>||:제일 먼저...+그때 같이 파티를 맺어 주고, 딜러 역할도 양보해 줘서 고마워요.+당신과 함께 게임해서 정말 즐거웠어요.
-()<Speaker></Speaker>||:상대가 전혀 듣지 못해도 마음속에 담아 뒀던 말을 하고 나니, 수오미는 해방감이 드는 동시에 서운한 마음도 들었다.
-()||<黑点1>:
-()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1><黑点2><BIN>97</BIN><Night>:같은 시각, 카페 근처의 복도.+M21과 M14는 카페에 사람이 바글바글한 것을 보곤 그냥 숙소로 돌아가 생중계를 보기로 결정했다.
-M14(2)<Speaker>M14</Speaker>||:우와아... 오늘 밤 지인짜 요란하다. 우리도 지휘관님이랑 카페에서 얘기하고 싶었는데.+하지만 저래서는 지휘관님 곁에는커녕 카페 안으로 들어가지도 못하겠어.+역시 다음 기회에 말해야겠다. 괜찮지, M21?
-M14(2);M21(5)<Speaker>M21</Speaker>||:어... 응, 그래...
-M14(2)<Speaker>M14</Speaker>;M21(5)||:M21, 정말 괜찮은 거 맞아? 요 며칠 내내 제정신이 아닌 거 같아.
-M14(2);M21(2)<Speaker>M21</Speaker>||:...아니, 아무것도 아니야.
-M14(2)<Speaker>M14</Speaker>;M21(2)||:...진짜 무슨 일 있으면 꼭 우리한테 말해야 한다?
-M21(5)<Speaker>M21</Speaker>||:응.
-()<Speaker></Speaker>||:M21이 망설이다 걸음을 멈췄다.
-M21(5)<Speaker>M21</Speaker>||:저... M14? 그게――
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리고 고개를 들어 말을 이으려던 그때, M14가 대뜸 M21의 입을 틀어막았다.
-M21(5)<Speaker>M21</Speaker><Shake>0.1</Shake>||:으읍!?
-M14(2)<Speaker>M14</Speaker>||:쉬잇...! 저기 봐봐!+헬리안 씨야, 엄청 취한 헬리안 씨!
-M14(2)<Speaker>M14</Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=5</controll_shake><SE1>AVG_Cloak_Whoosh</SE1>:앗, 계단에서 미끄러졌어!
-()<Speaker></Speaker>||<SE1>RunStep</SE1>:M14이 구경하다 말고 계단으로 쏜살같이 달려갔다.
-M21(5)<Speaker>M21</Speaker>||:어, 야! 어휴 참...
-()<Speaker></Speaker>||:이젠 아예 자포자기한 듯 힘없이 외치며, 쓴웃음을 짓는 M21도 M14의 뒤를 따랐다.
-M21(5)<Speaker>M21</Speaker>||:<color=#A9A9A9>하하... 이거 아무래도 평생 못 말하겠네...</color>
-()||<黑点1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑点2><BIN>18</BIN><BGM>BGM_Brain</BGM><Night>:마찬가지로 같은 시각, 기지의 어느 복도.+음산한 분위기의 어두운 복도에서, 한 그림자가 또 다른 그림자를 기습해 잡아 눌렀다.
-hkcaws(5)<Speaker>CAWS</Speaker>||:오랜만이다.
-Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:윽... 응, 오랜만이야.+그런데 이렇게 격하게 인사할 필요는 없지 않아?
-()<Speaker></Speaker>||<SE1>Rope</SE1>:Px4 스톰은 자신을 꽁꽁 묶은 선물 포장 끈을 살펴봤다. 기억이 맞다면, 자신이 CAWS를 포박했던 바로 그 끈이었다.
-hkcaws(5)<Speaker>CAWS</Speaker>||:이렇게 안 하면 얌전히 말을 듣지도 않을 테니까.
-hkcaws(5);Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:아무래도, 이제부터 내가 듣기 싫어할 말을 할 셈인가 보네.
-hkcaws(5)<Speaker>CAWS</Speaker>;Px4Storm(2)||:그 성탄 코인들이 어디 갔는지부터 말해.+네가 점수 집계하러 가져가지 않았다는 거 아니까 헛소리할 생각 마.
-hkcaws(5);Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:그래, 집계하러 가지 않았지. 하지만 너한테 얘기해 줄 생각은 없는데.
-hkcaws(5)<Speaker>CAWS</Speaker>;Px4Storm(2)||:뭐, 어차피 알아냈으니까 됐어.
-hkcaws(5);Px4Storm(6)<Speaker>Px4 스톰</Speaker>||:......
-hkcaws(5)<Speaker>CAWS</Speaker>;Px4Storm(6)||:코인뿐만 아니라, 한 달 전의 그 임무에서 무슨 일이 있었는지도.
-hkcaws(5);Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:뭐야, 다 알아냈어...?
-hkcaws(5)<Speaker>CAWS</Speaker>;Px4Storm(2)||:모두에게 있는 그대로 말해 주겠어.
-Px4Storm(5)<Speaker>Px4 스톰</Speaker>||:지금 협박하는 거야?
-()<Speaker></Speaker>||:어둠 속에서 차갑게 식은 공기가 일렁였다.
-()||<黑点1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑点2><BIN>7</BIN><Night><BGM>BGM_Sneak</BGM>:같은 시각, 기지의 근처.+100식과 FP-6는 지휘관의 지시를 받아 불꽃놀이 발사 장소를 확인하러 왔다.
-FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>||<SE1>ClothingUp</SE1>:OK, 체크 리스트 다 채웠다. 어휴 힘들다...+발사기는 네가 갖고 있지?
-FP6(2)<Position>0,180</Position>;Type100(4)<Speaker>100식</Speaker>||:네! 발사기도 아무 이상 없어요!
-FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>;Type100(4)||:그래, 지휘관한테 연락해서 언제 쏘아 올릴지 확인하기만 하면 되겠다.
-FP6(2)<Position>0,180</Position>;Type100(4)<Speaker>100식</Speaker>||:혹시 모르니까 위에 가서 다시 점검할까요?
-FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>||:나쁠 거 없지.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:100식은 발사기가 손에 있는 걸 다시 확인하고, 힘차게 다시 지붕 위로 올랐다.+여기에 설치된 폭죽은 이미 몇 번이고 확인했음에도, 영 마음이 놓이질 않았다.+어쩌면 이것이 그녀가 FP-6와 2인 1조로 수행하는 마지막 임무일지도 모른단 걱정 때문이었다.
-Type100(4)<Speaker>100식</Speaker>||:위치, 청사진과 일치. 수정된 흔적 없음.+설치된 폭죽도 눈에 젖지 않고 건조함. 기능에 이상 없음. 응!+FP-6! 확인 끝났――
-()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><震屏3>:100식이 몸을 돌리다, 미끄럼 방지 조치를 안 한 신발로 처마의 얼음을 밟고 말았다.
-Type100(4)<Speaker>100식</Speaker><Shake>0.1</Shake>||:꺄악!
-FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>||:<size=50>100식!</size>
-()<Speaker></Speaker>||:미끄러져 넘어진 100식은 그대로 지붕에서 떨어졌다.
-Type100(4)<Speaker>100식</Speaker>||<SE1>AVG_flag</SE1>:살려 주세요!
-()<Speaker>FP6</Speaker>||<SE1>RunStep</SE1>:괜찮아! 네 밑에 있어!
-()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=5</controll_shake>:쿠웅!!+세상이 뒤집히는 충격과 함께, 100식의 눈에는 하늘에서 펑펑 내리는 눈밖에 보이지 않았다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>81</BIN><关闭蒙版><BGM>m_19christmas_avg</BGM><SE1>AVG_AMB_Restaurant</SE1>:12월 25일 오후 8시, 시끌벅적한 카페.+카페에 모인 인형들은 모두 30분 후 발표될 이벤트 집계 결과를 기다리느라 마음이 조마조마했다.
-PDW(2)<Speaker>허니뱃저</Speaker>||:베이트, 코인 좀 어떻게 더 훔쳐와 봐! 집계 곧 끝난단 말이야!
-Ameli(2)<Speaker>아멜리</Speaker>||:저어... 제 성탄 코인은 이미 다른 사람한테 줬는데, 대신 단추는 안 될까요...?
-Lewis(4)<Speaker>루이스</Speaker>||:아아, 예쁜 애들이 한자리에 너무 많아! 나 이제 승부는 아무래도 좋아~
-()<Speaker></Speaker>||:흥분의 도가니인 인형들에 반해, 피곤함이 역력한 지휘관은 한시라도 빨리 이벤트가 끝나기를 바랐다.
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:지휘관님, 요 며칠간 어떠셨어요~? 보람찬 나날을 보내셨나 본데요~?
-NPC-Kalin(1)<Speaker>지휘관</Speaker><同时置暗>||:누구누구 씨 덕에 매일 영화 같은 추격씬을 찍었지...
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:헤헤헤, 그만큼 인형들이 지휘관님께 고마워한단 뜻 아니겠어요! 다 모두의 마음이라고요.
-NPC-Kalin(0)<Speaker>지휘관</Speaker><同时置暗>||:......+<size=25>카리나, 이번 이벤트 정말 아무 탈없이 끝날까?</size>
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:물론이죠! 제가 기획한 이벤트가 실패한 적 있어요?
-()<Speaker>지휘관</Speaker><同时置暗>||:.....<c>강한 긍정<c>격한 부정
-()<Speaker>지휘관</Speaker><同时置暗>||<分支>1</分支>:하긴, 너한테 맡기면 언제나 안심이긴 해.
-NPC-Kalin(2)<Speaker>카리나</Speaker>||<分支>1</分支>:우와... 지휘관님, 그렇게나 저를 믿어 주셨어요?+지난번 크리스마스 때의 청구서 건, 아직도 마음에 두고 계시진 않나 했는데...
-NPC-Kalin(2)<Speaker>지휘관</Speaker><同时置暗>||<分支>1</分支>:...지나간 일은 그냥 지나가게 두자.
-NPC-Kalin(1)<Speaker>카리나</Speaker>||<分支>1</分支>:헤헤헤... 감사합니다 지휘관님, 언제나 저를 믿어 주셔서요.
-()<Speaker></Speaker>||<分支>1</分支>:카리나가 주머니에서 자신의 성탄 코인을 꺼내 내밀었다.
-NPC-Kalin(1)<Speaker>카리나</Speaker>||<分支>1</分支>:이미 잔뜩 받으셨겠지만, 제 것도 드릴게요.
-NPC-Kalin(1)<Speaker>지휘관</Speaker><同时置暗>||<分支>1</分支>:마음이 담긴 코인이니, 각자 다 의미가 있는 거야.
-NPC-Kalin(0)<Speaker>카리나</Speaker>||<分支>1</分支>:그쵸! 다 특별한 의미가 있는 거예요!
-()<Speaker>지휘관</Speaker><同时置暗>||<分支>2</分支>:저번 크리스마스 땐 기지가 폭격 맞은 꼴이었지...?
-NPC-Kalin(3)<Speaker>카리나</Speaker>||<分支>2</分支>:윽... 그 청구서 때문에 아직도 삐지셨어요?
-NPC-Kalin(3)<Speaker>지휘관</Speaker><同时置暗>||<分支>2</分支>:아니 나무라는 게 아니라... 그냥, 이번엔 좀 더 조심하라고.
-NPC-Kalin(3)<Speaker>카리나</Speaker>||<分支>2</分支>:그 일에서 교훈을 얻었다고요. 폭발하기 쉬운 디너게이트도 전부 반입 금지시켰어요!
-NPC-Kalin(3)<Speaker>지휘관</Speaker><同时置暗>||<分支>2</分支>:그렇다니 다행이네. 올해는 이벤트가 무사히 끝나길 바라자.
-NPC-Kalin(1)<Speaker>카리나</Speaker>||<分支>2</分支>:절대 실망시키지 않을 테니까 두고보세요~
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:시간을 확인하고, 카리나가 방송을 켰다.
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:<color=#00CCFF>그리폰의 사원 여러분, 모두 모여 주세요! 올해의 크리스마스 이벤트, 다음 코너가 곧 시작――</color>
-()<Speaker></Speaker>||<SE1>AVG_Firework</SE1>:피유우웅—— 퍼엉——!+카리나가 신호를 내리기도 전에 창밖의 하늘에 폭죽이 솟아올랐다.
-NPC-Kalin(2)<Speaker>카리나</Speaker>||:어라라? 에이 뭐 됐나!
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:크흠, 시작되기에 앞서 깜짝 코너! 크리스마스 기념 불꽃놀이입니다!+집계 결과 발표를 기다리는 동안 저 아름다운 불꽃놀이를 감상하세요!
-()<Speaker></Speaker>||:화려한 불꽃놀이에, 인형들은 창가에 모여들었다.
-()<Speaker>지휘관</Speaker>||:뭐야, 저거 우리가 신호 주면 쏘는 거 아니었어?
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:지시를 오해한 거 아닐까요?
-NPC-Kalin(4)<Speaker>지휘관</Speaker><同时置暗>||<SE1>AVG_tele_disconnect</SE1>:어째 통신 연결도 안 되는데?
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:어... 폭죽요정한테 확인하러 가보라 할게요!
-()||<黑点1><SE1>Stop_AVG_loop</SE1>:
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑点2><BIN>7</BIN><Night>:같은 시각, 기지의 근처.
-()<Speaker></Speaker>||<BGM>GF_EV9_Story</BGM>:굴뚝 옆에 쪼그려 앉은 100식은 속상함과 자책감에 무릎을 꽉 껴안았다.
-Type100(8)<Speaker>100식</Speaker>||<SE1>ClothingUp</SE1>:미안해요...
-FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>||:네 탓 아니라니까 그러네.
-()<Speaker></Speaker>||:100식과 부딪힌 FP-6은 굴뚝의 구멍에 단단히 끼어버렸다.+엎친 데 덮친 격으로, 둘의 통신기가 전부 고장나고 폭죽 발사기도 어디로 갔는지 찾을 수가 없었다.
-FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>||:적어도 폭죽은 쏘아 올렸잖아.
-FP6(2)<Position>0,180</Position>;Type100(8)<Speaker>100식</Speaker>||:하, 하지만 지휘관님께 시간도 확인하지 않고...
-FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>;Type100(8)||:돌아가서 제대로 보고하면 되지.
-FP6(2)<Position>0,180</Position>;Type100(8)<Speaker>100식</Speaker>||:미안해요... 계속 폐만 끼치고...
-FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>;Type100(8)||:너야말로 내가 여기 끼어버려서 너까지 파티 못 가고 있잖아.+게다가 이 며칠 내내 네가 얼마나 날 도와줬는데.
-FP6(2)<Position>0,180</Position>;Type100(8)<Speaker>100식</Speaker>||:......+저...
-Type100(8)<Speaker>100식</Speaker>||:......+실은... 제가 Px4 씨를 놓아줬어요...
-FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>||:......
-()<Speaker></Speaker>||:100식은 여태까지 숨겼던 일을 전부 FP-6에게 털어놨다.+솔직하게 자백하면 조금이라도 자잭감이 사라질 것 같았지만, 하고 나니 오히려 얼어붙은 공기가 더욱 어깨를 짓누르는 기분이었다.
-Type100(8)<Speaker>100식</Speaker>||:미안해요... 제가 좀 더 착실했으면 점수를 1점 더 받았을 텐데...+그랬으면 FP-6가 이벤트에서 우승했을지도 모르는데...
-FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>;Type100(8)||:코인은 내 알 바 아니야. 애초부터 Px4 그 녀석이 이딴 수작을 잘 부리는 건 알고 있었어.+다만 너까지 구슬려 버릴 줄은 몰랐는걸. 하여간 약아빠진 놈이라니까...
-FP6(2)<Position>0,180</Position>;Type100(8)<Speaker>100식</Speaker>||:아직 그 우정 나무 아래에 성탄 코인이 있을지도 몰라요, 바로 저기 있으니까...!
-FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>;Type100(8)||:됐대도?
-Type100(8)<Speaker>100식</Speaker>||:아뇨, 제 잘못을 만회하게 해 주세요!
-()<Speaker></Speaker>||<SE1>RunStep</SE1>:FP-6의 만류에도 100식은 지붕에서 뛰어내려, 우정 나무로 달려갔다.+그리고 푹신한 흙을 파헤쳐, 자신이 성탄 코인을 담았던 빨간 양말을 찾아냈다.
-Type100(4)<Speaker>100식</Speaker>||:FP-6! 이것 봐요!
-()<Speaker></Speaker>||<SE1>AVG_21Winter_Medicine_Bottle</SE1>:100식이 들떠 FP-6에게 보이려고 양말을 쭉 들어올렸지만, 양말이 이상하게 무거운 것을 느꼈다.
-Type100(5)<Speaker>100식</Speaker><Shake>0.1</Shake><Position>0,150</Position>||:<size=50>돌이 됐잖아?!</size>
-FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>||:......
-Type100(8)<Speaker>100식</Speaker>||:죄송해요...
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:100식은 고개를 떨군 채로 FP-6의 곁으로 돌아왔다.
-Type100(8)<Speaker>100식</Speaker>||<BGM>GF_Memorial</BGM>:정말 바보예요... Px4 씨의 새빨간 거짓말을 믿고...+무슨 벌이든 달게 받을게요...
-FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>||:......+무슨 벌이든 달게 받겠다? 그럼 손 내밀어.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:100식은 벌벌 떨며 손바닥을 내밀고, 떨어질 처벌을 기다렸다.+하지만 그녀의 손바닥에 떨어진 것은, 동그랗고 차가운 동전이었다.+FP-6의 성탄 코인이었다.
-FP6(6)<Speaker>FP6</Speaker><Position>0,180</Position>||:받아, 며칠간 열심히 날 도운 벌금이야.
-Type100(8)<Speaker>100식</Speaker>||:네...?
-FP6(6)<Speaker>FP6</Speaker><Position>0,180</Position>||:코인 모으기는 애초부터 신경도 안 썼어, 그냥 임무라서 적당히 했을 뿐이지.+오히려, 네가 모든 신고를 전심전력으로 처리해서 나한테 동기부여가 됐을 정도라고.+100식, 넌 정말 훌륭한 파트너야. 성탄 코인 쟁탈전을 포기하면서까지 질서유지반이 되어 줘서 정말 고마워.
-Type100(8)<Speaker>100식</Speaker>||:저... 저야말로 고맙... 고맙... 흑...
-()<Speaker></Speaker>||:100식이 닭똥 같은 눈물을 뚝뚝 흘렸다.+그리고 코인 대신 돌멩이가 든 양말을 내려놓고, 주머니에서 한참을 꼬옥 쥐고 있던 메모리 카드를 꺼냈다.
-Type100(4)<Speaker>100식</Speaker>||:...FP-6, 같이 노래 들을래요...?
-FP6(6)<Speaker>FP6</Speaker><Position>0,180</Position>||:좋지.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BGM>BGM_Empty</BGM>:100식은 눈물을 훔치며 이어폰의 한쪽을 FP-6에게 주고, 음량을 최대로 올렸다.
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>18</BIN><Night>:같은 시각, 기지의 어느 복도.
-()<Speaker></Speaker>||<SE1>AVG_Firework</SE1>:피유웅—— 펑——!+폭죽이 하나 더 터지면서, 찬란한 불꽃으로 밤하늘을 수놓았다.+그리고 폭죽이 타고 남은 재가, CAWS의 눈앞에 떨어졌다.
-hkcaws(2)<Speaker>CAWS</Speaker>||<BGM>BGM_Brain</BGM>:그 성탄 코인들, 팔아버렸지?
-()<Speaker></Speaker>||:Px4 스톰을 제압한 CAWS가, 그녀를 내려다보며 말했다.
-Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:제법이네, 거기까지 알아내다니.
-hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(2)||:설마 그리폰 인형의 물품을 전문적으로 매입하는 괴짜가 있을 줄은 상상도 못했어.+가격을 들었을 땐 나도 흠칫했다니까.
-hkcaws(2);Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:미안하지만 그 장사는 단념하는 게 좋아, 이 주변은 내가 꽉 쥐고 있거든.
-hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(2)||:그 상당한 액수의 돈은 어디다 쓰셨을까?
-hkcaws(2);Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:입막음 비용을 원하는 거라면, 유감스럽게도 다 써버렸는데.
-hkcaws(2)<Speaker>CAWS</Speaker>||:너 같은 구두쇠가 그렇게 많은 돈을 단숨에 써버렸을 리가 없지. 하지만...
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BGM>BGM_Empty</BGM>:CAWS가 쪼그려 앉아, Px4 스톰의 귓가에 녹음 파일을 재생했다.
-hkcaws(2)<Speaker>CAWS</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>"Px4 스톰 누나요? 자주 보러 와 줘요, 올 때마다 선물도 가져오고요!"</color>+<color=#00CCFF>"Px4 언니가 제일 좋아요!"</color>+<color=#00CCFF>"Px4 언니가 오면 항상 이야기를 들려주는데, 매일 보고 싶어요..."</color>
-Px4Storm(6)<Speaker>Px4 스톰</Speaker>||:너...!
-hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(6)||<BGM>m_19christmas_avg</BGM>:착각 마, 널 미행해서 기지에서 가까운 고아원에 들렀을 뿐이니까.+고아원의 인간 어린이들한테 줄 선물을 사느라 돈을 쓰다니, 웃긴다 정말.+내가 직접 목격하지 않았다면 무슨 말도 안 되는 3류 소설인가 했겠지.+툭하면 다른 애들더러 순진하다 놀려 먹는 녀석한테, 이렇게나 순수한 면모가 있었다니 말이야.
-hkcaws(2);Px4Storm(5)<Speaker>Px4 스톰</Speaker>||:......
-hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(5)||:취지가 무엇인지까지는 안 물을게.
-hkcaws(2);Px4Storm(5)<Speaker>Px4 스톰</Speaker>||:...고마워.
-hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(5)||:대신 나머지는 스스로 얘기해 봐.
-hkcaws(2);Px4Storm(6)<Speaker>Px4 스톰</Speaker>||:뭘 더 말하라고?+한 달 전의 임무에서, 내가 눈사태로 파묻힌 너희를 파내느라 고생한 건 벌써 알아냈다며.
-hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(6)||:응. 그런데 왜 모두한테 안 말했어?
-hkcaws(2);Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:말해서 뭐해, 그리폰의 사칙대로 처리하면 됐어.+내가 틈만 나면 부차적인 수입을 챙기려 하긴 해도, 이 직장을 잃을 생각은 없거든.
-hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(2)||:......
-hkcaws(2);Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:알았으면 이제 그만 풀어 줄래?
-hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(2)||:너라면 10분도 안 걸릴 거야.
-Px4Storm(6)<Speaker>Px4 스톰</Speaker>||:어?
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:CAWS가 차가운 동전 한 닢을 Px4 스톰의 주머니에 집어넣었다.
-hkcaws(6)<Speaker>CAWS</Speaker>||:메리 크리스마스.
-()<Speaker></Speaker>||:CAWS의 이름이 새겨진 성탄 코인이었다.
-Px4Storm(6)<Speaker>Px4 스톰</Speaker>||:......
-()<Speaker></Speaker>||:Px4 스톰은 바닥에 엎어진 채로, CAWS의 뒷모습이 어둠 속으로 사라지는 것을 지켜봤다.
-()<Speaker>Px4 스톰</Speaker>||:하하... 메리 크리스마스.
-()||<黑点1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑点2><BIN>82</BIN><Night><BGM>GF_Memorial</BGM>:같은 시각, 그리폰 숙소.
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:M14와 M21은 잔뜩 취해 곯아떨어진 헬리안을 방에 데려다 눕힌 뒤 숙소로 돌아왔다.
-M14(2)<Speaker>M14</Speaker>||:헬리안 씨, 무슨 일이길래 그렇게 술을 잔뜩 마셨을까?+계속 미팅이니 터지라니 하던데...
-M21(2)<Speaker>M21</Speaker>||:속상한 일이라도 있었나 보지 뭐...
-M14(2)<Speaker>M14</Speaker>||:헬리안 씨도 고생이 많구나... 술 깨고 기분 좀 나아지면 좋겠다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:M14는 자신의 침상 옆으로 돌아가 서랍을 뒤졌다.+그걸 바라보던 M21은 다시 한번 용기를 내어 그녀의 뒤로 다가갔다.
-M21(5)<Speaker>M21</Speaker>||:M14... 만약에, 그냥 만약에 말이야...+네 성탄 코인, 아직 너한테 있다면 말이야...+<size=25>나한테 줄 생각 있어...?</size>
-M14(2)<Speaker>M14</Speaker>;M21(5)||:으음... 역시 싫어.
-M14(2);M21(5)<Speaker>M21</Speaker>||:에... 왜...?
-M14(2)<Speaker>M14</Speaker>;M21(5)||:더 좋은 선물을 준비했거든.
-M21(5)<Speaker>M21</Speaker>||<BGM>BGM_Empty</BGM>:내가 이렇게――아?
-()<Speaker></Speaker>||:M14가 서랍에서 정성껏 포장된 선물을 꺼냈다.
-M14(2)<Speaker>M14</Speaker>||<BGM>m_19christmas_avg</BGM>:우리는 말이야, 성탄 코인은 그냥 동전이니까 아무한테나 줘도 된다 생각했어.+하지만 이 선물은 우리가 신경써서 고른, 오직 M21한테만 주고 싶은 선물이야!
-M21(5)<Speaker>M21</Speaker>||:흐읍... 고마워 M14!!
-()<Speaker></Speaker>||:M21은 M14를 와락 껴안았다.
-M14(4)<Speaker>M14</Speaker>||:그런데, 그렇게 성탄 코인이 갖고 싶었어? M21한테 그거 엄청 뜻깊은 물건이었어?
-M14(4);M21(5)<Speaker>M21</Speaker>||:훌쩍... 응...
-M14(2)<Speaker>M14</Speaker>;M21(5)||:음... 그럼, 우리한테 M21의 성탄 코인 주면 안 돼?
-M21(2)<Speaker>M21</Speaker>||:물론이――
-()<Speaker></Speaker>||:감정에 북받쳐 외친 그 순간, M21은 자신의 성탄 코인이 어디로 갔는지 생각났다.
-M21(5)<Speaker>M21</Speaker>||:...잠깐 화장실 좀 갔다올게.
-M14(4)<Speaker>M14</Speaker>||:엥? 왜 또――
-()<Speaker></Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1>:쌩쌩 부는 차가운 바람을 뚫고, M21은 주머니에서 물건이란 물건을 죄다 던졌던 창가로 내달렸다.
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>81</BIN><关闭蒙版>:같은 시각, 카페의 문 앞.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:RFB가 머쓱해하며 귀에서 이어폰을 뺐다.
-RFB(6)<Speaker>RFB</Speaker>||:저기, 수오미? 나 아직 게임기 볼륨 안 올렸는데...
-KP31(2)<Speaker>수오미</Speaker>;RFB(6)||:......
-KP31(2);RFB(2)<Speaker>RFB</Speaker>||:헤헷, 그래도 고마워!+나도 어~엄청 즐거웠어!
-KP31(2)<Speaker>수오미</Speaker>;RFB(2)||:.....
-KP31(2);RFB(2)<Speaker>RFB</Speaker>||:저번 게임 모임에서 너랑 같이 놀 때도 엄청 재밌었고!
-KP31(2)<Speaker>수오미</Speaker>;RFB(2)||:...고마워요.
-RFB(2)<Speaker>RFB</Speaker>||:아이쿠... 이거 분위기상 내 성탄 코인을 너한테 줘야겠네?
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:RFB가 이마를 툭 치며 자신의 성탄 코인을 꺼내 수오미에게 건넸다.+수오미는 폭발하는 마음을 억누르며, 최대한 태연한 표정으로 성탄 코인을 받았다.
-KP31(2)<Speaker>수오미</Speaker>||:그럼 저도 보답으로 드릴게요.
-()<Speaker></Speaker>||:수오미의 성탄 코인도, RFB의 손바닥에 놓였다.
-KP31(2)<Speaker>수오미</Speaker>||<controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=10</controll_shake>:<color=#A9A9A9><size=50>소원 성취다아아아!!</size></color>+<color=#A9A9A9>생애 최고의 크리스마스야...</color>+성탄 코인 잘 받을게요.
-()<Speaker></Speaker>||:마음속으론 하늘을 뚫을 기세로 소리치면서, 수오미는 겉으로는 담담하게 말했다.
-RFB(2)<Speaker>RFB</Speaker>||:<color=#A9A9A9>아싸, 수오미의 성탄 코인 GET! 이거 오락실에서 쓸 수 있으려나?</color>+나도 잘 받을게.
-()<Speaker></Speaker>||:두 인형은 손 안의 성탄 코인을 바라보며, 서로 헤실헤실 웃었다.
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>167</BIN><Night>:또 같은 시각, 기지 인근의 정거장.+TMP는 그만 자리에서 일어나, 카페로 돌아가기로 했다.+그런데, 몇 걸음 걷다 문뜩 깨달았다.
-TMP(2)<Speaker>TMP</Speaker>||:어...? 생각해 보니까 방금 대장의 통신 화면, 좀 많이 뚜렷했지...?+거기 통신망 드디어 개선했나...? 하지만 대장한테서 시공한단 말은 못 들었는데...
-()<Speaker>？？？</Speaker>||<SE1>AVG_21Winter_Subway</SE1>:TMP――!!
-()<Speaker></Speaker>||:오늘의 마지막 열차와 함께, 누군가가 TMP를 부르는 소리가 들려왔다.
-TMP(2)<Speaker>TMP</Speaker>||:에...?
-K2(0)<Speaker>K2</Speaker>||:T——!
-AEK999(0)<Speaker>AEK999</Speaker>||:M——!
-M950A(8)<Speaker>M950A</Speaker>||:P——!
-Thunder50(0)<Speaker>썬더</Speaker>||:야호――
-TMP(2)<Speaker>TMP</Speaker><Shake>0.1</Shake>||:모두... 모두 왔어요...? 우와아아!!
-()<Speaker></Speaker>||<SE1>RunStep</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:TMP도 기쁨에 크게 소리지르면서, 오랫동안 기다렸던 품으로 달려갔다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>81</BIN><SE1>AVG_AMB_Restaurant</SE1>:12월 25일 밤 8시 30분, 카페.
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:자아~ 접수 종료! 지금부터 결과를 집계하겠습니다!
-NPC-Kalin(1)<Speaker>지휘관</Speaker><同时置暗>||:그래서 누가 우승이야?
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:그건 저도 아직 몰라요. 모두가 각자 자신이 가진 성탄 코인을 제출했고, 지금 지휘실의 컴퓨터가 집계 중이에요.+끝나는 대로 바로 알 수 있어요!
-NPC-Kalin(0)<Speaker>지휘관</Speaker><同时置暗>||:만약 컴퓨터가 갑자기 다운된다든지 하면 어떡해? 데이터 몽땅 날아가는 거 아니야?
-NPC-Kalin(3)<Speaker>카리나</Speaker>||:염려 붙들어 매시라! 페르시카 씨가 이 신형 컴퓨터는 절대 그럴 일 없다고 장담하셨답니다!
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:자아 시간이 거의 다 됐습니다! 여러분, 긴장되시나요~?+카운트다운, 시작합니다! 모두 손을 들어 주세요!
-()<Speaker></Speaker>||:카페의 프로젝터 스크린도 카운트다운을 띄웠고, 인형들의 눈동자와 함께 반짝였다.
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:5——
-()<Speaker>환호</Speaker>||:4—— 3——+2——
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:자아, 이번 크리스마스 이벤트의 최종 우승자느으으은!!
-()<Speaker></Speaker>||<SE1>AVG_BaseDoor_Close</SE1>:스크린 화면에 인형들의 이름과 사진이 슬롯머신처럼 고속으로 돌아갔다.+환호와 열기는 정점에 달했고, 카리나가 검지를 세워 카운트다운의 마지막을 예고했다.
-()<Speaker></Speaker>||:"1!"+스크린이 멈추는 그 순간――
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><震屏3><SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:좀 아니다 싶을 정도의 굉음이 카페를 뒤흔들었다.
-()<Speaker></Speaker>||<SE1>AVG_21Winter_Open_Light</SE1><BIN>81</BIN><Night>:카페의 등불들이 흔들리며 깜빡였고, 프로젝터 스크린도 툭 꺼졌다.
-NPC-Kalin(2)<Speaker>카리나</Speaker>||:뭐야, 뭐야!? 누가 여기서 폭죽이라도 터뜨렸나?!
-NPC-Kalin(2)<Speaker>지휘관</Speaker><同时置暗>||:어... 카리나? 화면 꺼졌는데?
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:엑......
-NPC-Kalin(4)<Speaker>지휘관</Speaker><同时置暗>||:...이거 설마 그 컴퓨터도 꺼진 건 아니겠지?
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:페르시카 씨한테 연락해볼게요!
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:카리나가 구석으로 간 지 몇 초도 안 돼, 참담한 사실을 가지고 돌아왔다.
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:지휘관니임...
-NPC-Kalin(4)<Speaker>지휘관</Speaker><同时置暗>||<BGM>m_wv_scenario</BGM>:...말해. 준비됐어.
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:지휘실에서 누가 폭죽을 터뜨려서... 컴퓨터가...!
-()<Speaker>지휘관</Speaker><同时置暗>||:......
-()<Speaker></Speaker>||:아직 영문을 모르는 인형들이 술렁이면서, 즐거운 크리스마스 분위기가 박살나기 일보직전이었다.
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:어떡하죠 지휘관님?!
-NPC-Kalin(4)<Speaker>지휘관</Speaker><同时置暗>||:쓰읍... 사고 현장은 요정들한테 처리 맡기고, 이벤트는 일단 어떻게든 마무리해보자.+여기까지 왔는데, 마지막도 즐겁게 끝내야지.
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:마지막까지 즐겁게... 알겠습니다!
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:패닉에 빠졌던 카리나가 다시 정신을 차리고 방송을 재개했다.
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:<color=#00CCFF>미안해요 여러분! 집계 도중 문제가 발생해 지금 긴급 수리 중이에요!</color>
-()<Speaker>인형들</Speaker>||:에에... 뭐야 그게!+흥 다 깨지네!
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:<color=#00CCFF>아이, 기다려 보시라고요~ 오늘 최고의 하이라이트는 잠시 미루게 됐지만...</color>
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:<color=#00CCFF>하지만! 아직 두 번째 궁금증은 풀리지 않았죠?</color>
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:카리나가 홱 고개를 돌리자, 지휘관은 급격하게 불길한 예감이 들었다.
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:<color=#00CCFF>맞아요, 여러분이 이벤트의 시작부터 궁금해했던——!</color>
-NPC-Kalin(1)<Speaker>카리나</Speaker>||<BGM>m_19christmas_battle</BGM>:<color=#00CCFF>지휘관님의 성탄 코인은 누구에게 갔는가!</color>
-()<Speaker>지휘관</Speaker>||:내 저럴 줄 알았다...
-()<Speaker></Speaker>||<SE1>RunStep</SE1>:대충 짐작했던 지휘관은 그 전에 빠져나가려 했지만, 역시 또 한발 늦고 말았다.
-Mk23(0)<Speaker>Mk23</Speaker>||:달링, 선택의 시간이야!+나, 달링이 날 선택해 줄 거라 믿으니까아...
-()||<黑点1>:
-()<Speaker>KAC PDW</Speaker>||<BIN>444</BIN><Night><黑点2><震屏3><SE1>AVG_Punch</SE1>:꿈 깨시지? 허니의 성탄 코인은 처음부터 내 것이라 정해졌다구!
-()<Speaker>Mk23</Speaker>||:웃기지 마!
-()<Speaker>KAC PDW</Speaker>||:그치, 허니~?
-()<Speaker>지휘관</Speaker>||:어어...
-()<Speaker>Mk23</Speaker>||<controll_shake>%%type_id=2%%duration=5%%delay=0.1%%range=10</controll_shake><SE1>Rope</SE1>:달리잉... 내 마음, 저버릴 거야?
-()<Speaker>KAC PDW</Speaker>||<SE1>Rope</SE1>:성탄 코인과 함께 내 것이 되어 줘, 허~니~♪
-()||<黑点1>:
-M1911Mod(0)<Speaker>M1911</Speaker>||<黑点2><BIN>81</BIN><Night><SE1>ClothingUp</SE1>:달링 발견! 얼른 성탄 코인 내놓으세요!
-M9(0)<Speaker>M9</Speaker><Shake>0.1</Shake>||<SE1>AVG_Punch</SE1>:퇴물은 저리 꺼지는 거야! 지휘관은 성탄 코인은 내가 받아가는 거야!
-DSR50(0)<Speaker>DSR50</Speaker><Shake>0.1</Shake>||<SE1>AVG_Punch</SE1>:지휘관... 우리 잠깐 단둘이 있을까?
-Saiga12(0)<Speaker>Saiga-12</Speaker><Shake>0.1</Shake>||<SE1>AVG_Punch</SE1>:지휘관님! 제 독점 여름 수영복 특집 앨범이랑 교환하실래요!?
-()<Speaker>지휘관</Speaker>||:......
-()<Speaker></Speaker>||:점점 좁혀져 오는 포위망에, 지휘관은 기겁했다.
-()<Speaker>지휘관</Speaker>||:<size=50>사람 살려!!!</size>
-()<Speaker></Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1><SE1>GF_Halloween_Wind_loop</SE1>:그리고 처절한 비명을 지르며, 지휘관은 눈 내리는 추운 밤으로 뛰쳐나갔다.
-()<Speaker></Speaker>||:물론, 지휘관은 언제 어디서든 혼자가 아니다.
-()<Speaker>인형들</Speaker>||<SE1>AVG_Crowd_Run</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=10</controll_shake>:<size=50>지휘관/Darling/Honey/사육사/메리/보스/지휘관님... 거기 서!!!</size>
-()||<黑点1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM><SE1>Stop_AVG_loop</SE1><CGDelay>3</CGDelay>:한푼차이 - END.............................................?
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>7</BIN><Night><BGM>m_19christmas_theme</BGM>:12월 25일, 크리스마스.+폭죽요정은 현장의 폭죽 배치를 막 끝마친 참이었다.
-NPC_HanabiYousei(2)<Speaker>폭죽요정</Speaker><Position>0,340</Position><Shake>0.1</Shake>||:후아! 힘들다!
-()<Speaker></Speaker>||<SE1>AVG_coin_put</SE1>:땡! 데구르르...+그런데 그때, 빈 술병이 비탈길을 타고 굴러내려왔다.
-NPC_HanabiYousei(2)<Speaker>폭죽요정</Speaker><Position>0,340</Position><Shake>||:엥? 누구예요! 이런 데서 술 마시면 위험하다고요!+그리고 술병을 아무 데나 버리면 어떡해요!
-()<Speaker>？？？</Speaker>||:왜 내가... 왜애애... 왜 미팅 자리에서...+<size=50>데스 메탈을 틀고 난리냐고!!!</size>
-()<Speaker></Speaker>||:폭죽요정이 씩씩대며 술병을 줍기가 무섭게, 검은 그림자가 휘청이며 다가왔다.
-NPC_HanabiYousei(2)<Speaker>폭죽요정</Speaker><Position>0,340</Position>||:헤... 헬리안 씨...?
-NPC-Helian(4)<Speaker>헬리안</Speaker>||:미팅! 직장! 다 터져버려!
-NPC-Helian(4)<Speaker>헬리안</Speaker>||<震屏3>:<size=50>크리스마스! 축제! 다 터져버려!</size>
-NPC_HanabiYousei(2)<Speaker>폭죽요정</Speaker><Position>0,340</Position>||:어... 괜찮으세요 헬리안 씨? 엄청 취하셨네요?
-NPC-Helian(4)<Speaker>헬리안</Speaker>||:흐헤... 으헤헤.. 나 마랴... 소원 있거드은...?
-NPC_HanabiYousei(2)<Speaker>폭죽요정</Speaker><Position>0,340</Position>||:<color=#A9A9A9>소원...! Px4 씨가 크리스마스엔 다른 사람의 소원을 들어주라고 했어!</color>+무슨 소원인데요?
-NPC-Helian(4)<Speaker>헬리안</Speaker>||<震屏>:<size=50>나 망신당하게 한 저기! 펑 펑 날려버려! 깔깔깔깔!!</size>
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:헬리안이 빈 술병으로 기지의 지휘실이 있는 방향을 가리켰다.
-NPC_HanabiYousei(2)<Speaker>폭죽요정</Speaker><Position>0,340</Position>||:........네?+<color=#A9A9A9>이거 들어줘도 괜찮으려나...?</color>+<color=#A9A9A9>그런데 하긴, 인간의 소원은 원래부터 좀 이상한 게 많았지...</color>+아, 알았어요, 저 힘낼게요!
-()<Speaker></Speaker>||<SE1>Rope</SE1>:폭죽요정은 손 안의 발사기를 꼬옥 쥐고, 헬리안의 소원을 이루어 주겠다 다짐했다.
-()||<黑屏1>:한푼차이 - END!
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>167</BIN><Night><SE1>AVG_21Winter_Subway</SE1>:12월 25일 오후 8시, 기지 인근의 정거장.
+()<Speaker>방송</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>크리스마스 특별 이벤트가 30분 후 종료됩니다. 이벤트 참가자는 보유한 성탄 코인을 미리 스캔하여 최종 집계에 협조해 주십시오.</color>+<color=#00CCFF>30분 후, 성탄 코인의 집계를 마치면 카페에서 최종 우승자를 발표할 예정입니다. 참가자는 전원 참석해 주시기 바랍니다.</color>
+()<Speaker></Speaker>||<BGM>GF_21winter_avg_mahaline</BGM>:반복 재생되는 방송을 들으며, 인형들은 들뜬 마음으로 카페로 향했다.+그리고 여전히 인파가 오가는 정거장에서, TMP는 발을 동동 구르며 K2와 통신이 연결되길 기다렸다.
+TMP(2)<Speaker>TMP</Speaker>||<SE1>AVG_tele_disconnect</SE1>:으으... 얼른 받아요 대장...
+()<Speaker></Speaker>||:기다리면서, TMP는 통신 기록을 열어봤다.+M950A, 썬더, K2, AEK-999, M950A...+방송처럼 이쪽도 반복되는 통신 연결 실패 기록뿐이었다.
+TMP(2)<Speaker>TMP</Speaker>||:모두... 어디 간 거예요오...
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:TMP가 제풀에 지쳐 계단에 앉았을 때, 드디어 통신기가 연결음을 냈다.
+TMP(2)<Speaker>TMP</Speaker>||:대장!
+TMP(2);K2(0)<Speaker>K2</Speaker><通讯框>||:<color=#00CCFF>TMP? 미안해, 내가 좀 바빴거든.</color>
+TMP(2)<Speaker>TMP</Speaker>;K2(0)||:오늘 밤도 바빠요...?
+TMP(2);K2(0)<Speaker>K2</Speaker>||:<color=#00CCFF>응, 바빠. 헤헤...</color>
+TMP(2)<Speaker>TMP</Speaker>||:그, 그치만 오늘은 크리스마스 이벤트가――
+()<Speaker></Speaker>||<SE1>AVG_brake</SE1><震屏3>:날카로운 급정거 소리가 TMP의 말을 끊었다.
+K2(0)<Speaker>K2</Speaker><通讯框>||:<color=#00CCFF>아 진짜 운전 똑바로 안 해!?</color>+<color=#00CCFF>TMP, 일단 끊을게. 나중에 얘기하자.</color>
+TMP(2)<Speaker>TMP</Speaker>||:네에...
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:TMP는 통신기를 쥔 손을 축 늘어뜨리고, 쌀쌀한 겨울 바람을 맞으며 통화 내용을 되새김질했다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>81</BIN><关闭蒙版>:같은 시각, 벌써부터 시끌벅적해진 카페 앞.+안이 이미 몰려든 사람들로 가득 차서, 수오미와 RFB는 문 앞에 서 있어야 했다.+수오미는 TMP가 떠난 방향에서 고개를 돌려, 다시 RFB에게 물었다.
+KP31(2)<Speaker>수오미</Speaker>||:정말 같이 안 가봐도 될까요? 엄청 속상한 눈치던데.
+RFB(2)<Speaker>RFB</Speaker>||:괜찮아. 잠시 혼자 있게 해 주자.
+KP31(2)<Speaker>수오미</Speaker>||:......
+()<Speaker></Speaker>||:둘은 입을 다물었고, RFB는 게임기를 꺼내 편한 자세로 게임을 하기 시작했다.
+KP31(2)<Speaker>수오미</Speaker>||:RFB?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:RFB는 독특한 디자인의 이어폰을 쓰고 있어, 수오미의 말이 들리지 않는 듯했다.
+KP31(10)<Speaker>수오미</Speaker>||:......+RFB, 사실 당신에게 할 얘기가 많아요.
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:RFB는 그저 능숙하게 게임기의 버튼을 두들겼다.
+KP31(9)<Speaker>수오미</Speaker>||:제일 먼저...+그때 같이 파티를 맺어 주고, 딜러 역할도 양보해 줘서 고마워요.+당신과 함께 게임해서 정말 즐거웠어요.
+()<Speaker></Speaker>||:상대가 전혀 듣지 못해도 마음속에 담아 뒀던 말을 하고 나니, 수오미는 해방감이 드는 동시에 서운한 마음도 들었다.
+()||<黑点1>:
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1><黑点2><BIN>97</BIN><Night>:같은 시각, 카페 근처의 복도.+M21과 M14는 카페에 사람이 바글바글한 것을 보곤 그냥 숙소로 돌아가 생중계를 보기로 결정했다.
+M14(2)<Speaker>M14</Speaker>||:우와아... 오늘 밤 지인짜 요란하다. 우리도 지휘관님이랑 카페에서 얘기하고 싶었는데.+하지만 저래서는 지휘관님 곁에는커녕 카페 안으로 들어가지도 못하겠어.+역시 다음 기회에 말해야겠다. 괜찮지, M21?
+M14(2);M21(5)<Speaker>M21</Speaker>||:어... 응, 그래...
+M14(2)<Speaker>M14</Speaker>;M21(5)||:M21, 정말 괜찮은 거 맞아? 요 며칠 내내 제정신이 아닌 거 같아.
+M14(2);M21(2)<Speaker>M21</Speaker>||:...아니, 아무것도 아니야.
+M14(2)<Speaker>M14</Speaker>;M21(2)||:...진짜 무슨 일 있으면 꼭 우리한테 말해야 한다?
+M21(5)<Speaker>M21</Speaker>||:응.
+()<Speaker></Speaker>||:M21이 망설이다 걸음을 멈췄다.
+M21(5)<Speaker>M21</Speaker>||:저... M14? 그게――
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리고 고개를 들어 말을 이으려던 그때, M14가 대뜸 M21의 입을 틀어막았다.
+M21(5)<Speaker>M21</Speaker><Shake>0.1</Shake>||:으읍!?
+M14(2)<Speaker>M14</Speaker>||:쉬잇...! 저기 봐봐!+헬리안 씨야, 엄청 취한 헬리안 씨!
+M14(2)<Speaker>M14</Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=5</controll_shake><SE1>AVG_Cloak_Whoosh</SE1>:앗, 계단에서 미끄러졌어!
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:M14이 구경하다 말고 계단으로 쏜살같이 달려갔다.
+M21(5)<Speaker>M21</Speaker>||:어, 야! 어휴 참...
+()<Speaker></Speaker>||:이젠 아예 자포자기한 듯 힘없이 외치며, 쓴웃음을 짓는 M21도 M14의 뒤를 따랐다.
+M21(5)<Speaker>M21</Speaker>||:<color=#A9A9A9>하하... 이거 아무래도 평생 못 말하겠네...</color>
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑点2><BIN>18</BIN><BGM>BGM_Brain</BGM><Night>:마찬가지로 같은 시각, 기지의 어느 복도.+음산한 분위기의 어두운 복도에서, 한 그림자가 또 다른 그림자를 기습해 잡아 눌렀다.
+hkcaws(5)<Speaker>CAWS</Speaker>||:오랜만이다.
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:윽... 응, 오랜만이야.+그런데 이렇게 격하게 인사할 필요는 없지 않아?
+()<Speaker></Speaker>||<SE1>Rope</SE1>:Px4 스톰은 자신을 꽁꽁 묶은 선물 포장 끈을 살펴봤다. 기억이 맞다면, 자신이 CAWS를 포박했던 바로 그 끈이었다.
+hkcaws(5)<Speaker>CAWS</Speaker>||:이렇게 안 하면 얌전히 말을 듣지도 않을 테니까.
+hkcaws(5);Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:아무래도, 이제부터 내가 듣기 싫어할 말을 할 셈인가 보네.
+hkcaws(5)<Speaker>CAWS</Speaker>;Px4Storm(2)||:그 성탄 코인들이 어디 갔는지부터 말해.+네가 점수 집계하러 가져가지 않았다는 거 아니까 헛소리할 생각 마.
+hkcaws(5);Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:그래, 집계하러 가지 않았지. 하지만 너한테 얘기해 줄 생각은 없는데.
+hkcaws(5)<Speaker>CAWS</Speaker>;Px4Storm(2)||:뭐, 어차피 알아냈으니까 됐어.
+hkcaws(5);Px4Storm(6)<Speaker>Px4 스톰</Speaker>||:......
+hkcaws(5)<Speaker>CAWS</Speaker>;Px4Storm(6)||:코인뿐만 아니라, 한 달 전의 그 임무에서 무슨 일이 있었는지도.
+hkcaws(5);Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:뭐야, 다 알아냈어...?
+hkcaws(5)<Speaker>CAWS</Speaker>;Px4Storm(2)||:모두에게 있는 그대로 말해 주겠어.
+Px4Storm(5)<Speaker>Px4 스톰</Speaker>||:지금 협박하는 거야?
+()<Speaker></Speaker>||:어둠 속에서 차갑게 식은 공기가 일렁였다.
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑点2><BIN>7</BIN><Night><BGM>BGM_Sneak</BGM>:같은 시각, 기지의 근처.+100식과 FP-6는 지휘관의 지시를 받아 불꽃놀이 발사 장소를 확인하러 왔다.
+FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>||<SE1>ClothingUp</SE1>:OK, 체크 리스트 다 채웠다. 어휴 힘들다...+발사기는 네가 갖고 있지?
+FP6(2)<Position>0,180</Position>;Type100(4)<Speaker>100식</Speaker>||:네! 발사기도 아무 이상 없어요!
+FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>;Type100(4)||:그래, 지휘관한테 연락해서 언제 쏘아 올릴지 확인하기만 하면 되겠다.
+FP6(2)<Position>0,180</Position>;Type100(4)<Speaker>100식</Speaker>||:혹시 모르니까 위에 가서 다시 점검할까요?
+FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>||:나쁠 거 없지.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:100식은 발사기가 손에 있는 걸 다시 확인하고, 힘차게 다시 지붕 위로 올랐다.+여기에 설치된 폭죽은 이미 몇 번이고 확인했음에도, 영 마음이 놓이질 않았다.+어쩌면 이것이 그녀가 FP-6와 2인 1조로 수행하는 마지막 임무일지도 모른단 걱정 때문이었다.
+Type100(4)<Speaker>100식</Speaker>||:위치, 청사진과 일치. 수정된 흔적 없음.+설치된 폭죽도 눈에 젖지 않고 건조함. 기능에 이상 없음. 응!+FP-6! 확인 끝났――
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><震屏3>:100식이 몸을 돌리다, 미끄럼 방지 조치를 안 한 신발로 처마의 얼음을 밟고 말았다.
+Type100(4)<Speaker>100식</Speaker><Shake>0.1</Shake>||:꺄악!
+FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>||:<size=50>100식!</size>
+()<Speaker></Speaker>||:미끄러져 넘어진 100식은 그대로 지붕에서 떨어졌다.
+Type100(4)<Speaker>100식</Speaker>||<SE1>AVG_flag</SE1>:살려 주세요!
+()<Speaker>FP6</Speaker>||<SE1>RunStep</SE1>:괜찮아! 네 밑에 있어!
+()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=5</controll_shake>:쿠웅!!+세상이 뒤집히는 충격과 함께, 100식의 눈에는 하늘에서 펑펑 내리는 눈밖에 보이지 않았다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>81</BIN><关闭蒙版><BGM>m_19christmas_avg</BGM><SE1>AVG_AMB_Restaurant</SE1>:12월 25일 오후 8시, 시끌벅적한 카페.+카페에 모인 인형들은 모두 30분 후 발표될 이벤트 집계 결과를 기다리느라 마음이 조마조마했다.
+PDW(2)<Speaker>허니뱃저</Speaker>||:베이트, 코인 좀 어떻게 더 훔쳐와 봐! 집계 곧 끝난단 말이야!
+Ameli(2)<Speaker>아멜리</Speaker>||:저어... 제 성탄 코인은 이미 다른 사람한테 줬는데, 대신 단추는 안 될까요...?
+Lewis(4)<Speaker>루이스</Speaker>||:아아, 예쁜 애들이 한자리에 너무 많아! 나 이제 승부는 아무래도 좋아~
+()<Speaker></Speaker>||:흥분의 도가니인 인형들에 반해, 피곤함이 역력한 지휘관은 한시라도 빨리 이벤트가 끝나기를 바랐다.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:지휘관님, 요 며칠간 어떠셨어요~? 보람찬 나날을 보내셨나 본데요~?
+NPC-Kalin(1)<Speaker>지휘관</Speaker><同时置暗>||:누구누구 씨 덕에 매일 영화 같은 추격씬을 찍었지...
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:헤헤헤, 그만큼 인형들이 지휘관님께 고마워한단 뜻 아니겠어요! 다 모두의 마음이라고요.
+NPC-Kalin(0)<Speaker>지휘관</Speaker><同时置暗>||:......+<size=25>카리나, 이번 이벤트 정말 아무 탈없이 끝날까?</size>
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:물론이죠! 제가 기획한 이벤트가 실패한 적 있어요?
+()<Speaker>지휘관</Speaker><同时置暗>||:.....<c>강한 긍정<c>격한 부정
+()<Speaker>지휘관</Speaker><同时置暗>||<分支>1</分支>:하긴, 너한테 맡기면 언제나 안심이긴 해.
+NPC-Kalin(2)<Speaker>카리나</Speaker>||<分支>1</分支>:우와... 지휘관님, 그렇게나 저를 믿어 주셨어요?+지난번 크리스마스 때의 청구서 건, 아직도 마음에 두고 계시진 않나 했는데...
+NPC-Kalin(2)<Speaker>지휘관</Speaker><同时置暗>||<分支>1</分支>:...지나간 일은 그냥 지나가게 두자.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||<分支>1</分支>:헤헤헤... 감사합니다 지휘관님, 언제나 저를 믿어 주셔서요.
+()<Speaker></Speaker>||<分支>1</分支>:카리나가 주머니에서 자신의 성탄 코인을 꺼내 내밀었다.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||<分支>1</分支>:이미 잔뜩 받으셨겠지만, 제 것도 드릴게요.
+NPC-Kalin(1)<Speaker>지휘관</Speaker><同时置暗>||<分支>1</分支>:마음이 담긴 코인이니, 각자 다 의미가 있는 거야.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||<分支>1</分支>:그쵸! 다 특별한 의미가 있는 거예요!
+()<Speaker>지휘관</Speaker><同时置暗>||<分支>2</分支>:저번 크리스마스 땐 기지가 폭격 맞은 꼴이었지...?
+NPC-Kalin(3)<Speaker>카리나</Speaker>||<分支>2</分支>:윽... 그 청구서 때문에 아직도 삐지셨어요?
+NPC-Kalin(3)<Speaker>지휘관</Speaker><同时置暗>||<分支>2</分支>:아니 나무라는 게 아니라... 그냥, 이번엔 좀 더 조심하라고.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||<分支>2</分支>:그 일에서 교훈을 얻었다고요. 폭발하기 쉬운 디너게이트도 전부 반입 금지시켰어요!
+NPC-Kalin(3)<Speaker>지휘관</Speaker><同时置暗>||<分支>2</分支>:그렇다니 다행이네. 올해는 이벤트가 무사히 끝나길 바라자.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||<分支>2</分支>:절대 실망시키지 않을 테니까 두고보세요~
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:시간을 확인하고, 카리나가 방송을 켰다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:<color=#00CCFF>그리폰의 사원 여러분, 모두 모여 주세요! 올해의 크리스마스 이벤트, 다음 코너가 곧 시작――</color>
+()<Speaker></Speaker>||<SE1>AVG_Firework</SE1>:피유우웅—— 퍼엉——!+카리나가 신호를 내리기도 전에 창밖의 하늘에 폭죽이 솟아올랐다.
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:어라라? 에이 뭐 됐나!
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:크흠, 시작되기에 앞서 깜짝 코너! 크리스마스 기념 불꽃놀이입니다!+집계 결과 발표를 기다리는 동안 저 아름다운 불꽃놀이를 감상하세요!
+()<Speaker></Speaker>||:화려한 불꽃놀이에, 인형들은 창가에 모여들었다.
+()<Speaker>지휘관</Speaker>||:뭐야, 저거 우리가 신호 주면 쏘는 거 아니었어?
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:지시를 오해한 거 아닐까요?
+NPC-Kalin(4)<Speaker>지휘관</Speaker><同时置暗>||<SE1>AVG_tele_disconnect</SE1>:어째 통신 연결도 안 되는데?
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:어... 폭죽요정한테 확인하러 가보라 할게요!
+()||<黑点1><SE1>Stop_AVG_loop</SE1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑点2><BIN>7</BIN><Night>:같은 시각, 기지의 근처.
+()<Speaker></Speaker>||<BGM>GF_EV9_Story</BGM>:굴뚝 옆에 쪼그려 앉은 100식은 속상함과 자책감에 무릎을 꽉 껴안았다.
+Type100(8)<Speaker>100식</Speaker>||<SE1>ClothingUp</SE1>:미안해요...
+FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>||:네 탓 아니라니까 그러네.
+()<Speaker></Speaker>||:100식과 부딪힌 FP-6은 굴뚝의 구멍에 단단히 끼어버렸다.+엎친 데 덮친 격으로, 둘의 통신기가 전부 고장나고 폭죽 발사기도 어디로 갔는지 찾을 수가 없었다.
+FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>||:적어도 폭죽은 쏘아 올렸잖아.
+FP6(2)<Position>0,180</Position>;Type100(8)<Speaker>100식</Speaker>||:하, 하지만 지휘관님께 시간도 확인하지 않고...
+FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>;Type100(8)||:돌아가서 제대로 보고하면 되지.
+FP6(2)<Position>0,180</Position>;Type100(8)<Speaker>100식</Speaker>||:미안해요... 계속 폐만 끼치고...
+FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>;Type100(8)||:너야말로 내가 여기 끼어버려서 너까지 파티 못 가고 있잖아.+게다가 이 며칠 내내 네가 얼마나 날 도와줬는데.
+FP6(2)<Position>0,180</Position>;Type100(8)<Speaker>100식</Speaker>||:......+저...
+Type100(8)<Speaker>100식</Speaker>||:......+실은... 제가 Px4 씨를 놓아줬어요...
+FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>||:......
+()<Speaker></Speaker>||:100식은 여태까지 숨겼던 일을 전부 FP-6에게 털어놨다.+솔직하게 자백하면 조금이라도 자잭감이 사라질 것 같았지만, 하고 나니 오히려 얼어붙은 공기가 더욱 어깨를 짓누르는 기분이었다.
+Type100(8)<Speaker>100식</Speaker>||:미안해요... 제가 좀 더 착실했으면 점수를 1점 더 받았을 텐데...+그랬으면 FP-6가 이벤트에서 우승했을지도 모르는데...
+FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>;Type100(8)||:코인은 내 알 바 아니야. 애초부터 Px4 그 녀석이 이딴 수작을 잘 부리는 건 알고 있었어.+다만 너까지 구슬려 버릴 줄은 몰랐는걸. 하여간 약아빠진 놈이라니까...
+FP6(2)<Position>0,180</Position>;Type100(8)<Speaker>100식</Speaker>||:아직 그 우정 나무 아래에 성탄 코인이 있을지도 몰라요, 바로 저기 있으니까...!
+FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>;Type100(8)||:됐대도?
+Type100(8)<Speaker>100식</Speaker>||:아뇨, 제 잘못을 만회하게 해 주세요!
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:FP-6의 만류에도 100식은 지붕에서 뛰어내려, 우정 나무로 달려갔다.+그리고 푹신한 흙을 파헤쳐, 자신이 성탄 코인을 담았던 빨간 양말을 찾아냈다.
+Type100(4)<Speaker>100식</Speaker>||:FP-6! 이것 봐요!
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Medicine_Bottle</SE1>:100식이 들떠 FP-6에게 보이려고 양말을 쭉 들어올렸지만, 양말이 이상하게 무거운 것을 느꼈다.
+Type100(5)<Speaker>100식</Speaker><Shake>0.1</Shake><Position>0,150</Position>||:<size=50>돌이 됐잖아?!</size>
+FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>||:......
+Type100(8)<Speaker>100식</Speaker>||:죄송해요...
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:100식은 고개를 떨군 채로 FP-6의 곁으로 돌아왔다.
+Type100(8)<Speaker>100식</Speaker>||<BGM>GF_Memorial</BGM>:정말 바보예요... Px4 씨의 새빨간 거짓말을 믿고...+무슨 벌이든 달게 받을게요...
+FP6(2)<Speaker>FP6</Speaker><Position>0,180</Position>||:......+무슨 벌이든 달게 받겠다? 그럼 손 내밀어.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:100식은 벌벌 떨며 손바닥을 내밀고, 떨어질 처벌을 기다렸다.+하지만 그녀의 손바닥에 떨어진 것은, 동그랗고 차가운 동전이었다.+FP-6의 성탄 코인이었다.
+FP6(6)<Speaker>FP6</Speaker><Position>0,180</Position>||:받아, 며칠간 열심히 날 도운 벌금이야.
+Type100(8)<Speaker>100식</Speaker>||:네...?
+FP6(6)<Speaker>FP6</Speaker><Position>0,180</Position>||:코인 모으기는 애초부터 신경도 안 썼어, 그냥 임무라서 적당히 했을 뿐이지.+오히려, 네가 모든 신고를 전심전력으로 처리해서 나한테 동기부여가 됐을 정도라고.+100식, 넌 정말 훌륭한 파트너야. 성탄 코인 쟁탈전을 포기하면서까지 질서유지반이 되어 줘서 정말 고마워.
+Type100(8)<Speaker>100식</Speaker>||:저... 저야말로 고맙... 고맙... 흑...
+()<Speaker></Speaker>||:100식이 닭똥 같은 눈물을 뚝뚝 흘렸다.+그리고 코인 대신 돌멩이가 든 양말을 내려놓고, 주머니에서 한참을 꼬옥 쥐고 있던 메모리 카드를 꺼냈다.
+Type100(4)<Speaker>100식</Speaker>||:...FP-6, 같이 노래 들을래요...?
+FP6(6)<Speaker>FP6</Speaker><Position>0,180</Position>||:좋지.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BGM>BGM_Empty</BGM>:100식은 눈물을 훔치며 이어폰의 한쪽을 FP-6에게 주고, 음량을 최대로 올렸다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>18</BIN><Night>:같은 시각, 기지의 어느 복도.
+()<Speaker></Speaker>||<SE1>AVG_Firework</SE1>:피유웅—— 펑——!+폭죽이 하나 더 터지면서, 찬란한 불꽃으로 밤하늘을 수놓았다.+그리고 폭죽이 타고 남은 재가, CAWS의 눈앞에 떨어졌다.
+hkcaws(2)<Speaker>CAWS</Speaker>||<BGM>BGM_Brain</BGM>:그 성탄 코인들, 팔아버렸지?
+()<Speaker></Speaker>||:Px4 스톰을 제압한 CAWS가, 그녀를 내려다보며 말했다.
+Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:제법이네, 거기까지 알아내다니.
+hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(2)||:설마 그리폰 인형의 물품을 전문적으로 매입하는 괴짜가 있을 줄은 상상도 못했어.+가격을 들었을 땐 나도 흠칫했다니까.
+hkcaws(2);Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:미안하지만 그 장사는 단념하는 게 좋아, 이 주변은 내가 꽉 쥐고 있거든.
+hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(2)||:그 상당한 액수의 돈은 어디다 쓰셨을까?
+hkcaws(2);Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:입막음 비용을 원하는 거라면, 유감스럽게도 다 써버렸는데.
+hkcaws(2)<Speaker>CAWS</Speaker>||:너 같은 구두쇠가 그렇게 많은 돈을 단숨에 써버렸을 리가 없지. 하지만...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BGM>BGM_Empty</BGM>:CAWS가 쪼그려 앉아, Px4 스톰의 귓가에 녹음 파일을 재생했다.
+hkcaws(2)<Speaker>CAWS</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>"Px4 스톰 누나요? 자주 보러 와 줘요, 올 때마다 선물도 가져오고요!"</color>+<color=#00CCFF>"Px4 언니가 제일 좋아요!"</color>+<color=#00CCFF>"Px4 언니가 오면 항상 이야기를 들려주는데, 매일 보고 싶어요..."</color>
+Px4Storm(6)<Speaker>Px4 스톰</Speaker>||:너...!
+hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(6)||<BGM>m_19christmas_avg</BGM>:착각 마, 널 미행해서 기지에서 가까운 고아원에 들렀을 뿐이니까.+고아원의 인간 어린이들한테 줄 선물을 사느라 돈을 쓰다니, 웃긴다 정말.+내가 직접 목격하지 않았다면 무슨 말도 안 되는 3류 소설인가 했겠지.+툭하면 다른 애들더러 순진하다 놀려 먹는 녀석한테, 이렇게나 순수한 면모가 있었다니 말이야.
+hkcaws(2);Px4Storm(5)<Speaker>Px4 스톰</Speaker>||:......
+hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(5)||:취지가 무엇인지까지는 안 물을게.
+hkcaws(2);Px4Storm(5)<Speaker>Px4 스톰</Speaker>||:...고마워.
+hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(5)||:대신 나머지는 스스로 얘기해 봐.
+hkcaws(2);Px4Storm(6)<Speaker>Px4 스톰</Speaker>||:뭘 더 말하라고?+한 달 전의 임무에서, 내가 눈사태로 파묻힌 너희를 파내느라 고생한 건 벌써 알아냈다며.
+hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(6)||:응. 그런데 왜 모두한테 안 말했어?
+hkcaws(2);Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:말해서 뭐해, 그리폰의 사칙대로 처리하면 됐어.+내가 틈만 나면 부차적인 수입을 챙기려 하긴 해도, 이 직장을 잃을 생각은 없거든.
+hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(2)||:......
+hkcaws(2);Px4Storm(2)<Speaker>Px4 스톰</Speaker>||:알았으면 이제 그만 풀어 줄래?
+hkcaws(2)<Speaker>CAWS</Speaker>;Px4Storm(2)||:너라면 10분도 안 걸릴 거야.
+Px4Storm(6)<Speaker>Px4 스톰</Speaker>||:어?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:CAWS가 차가운 동전 한 닢을 Px4 스톰의 주머니에 집어넣었다.
+hkcaws(6)<Speaker>CAWS</Speaker>||:메리 크리스마스.
+()<Speaker></Speaker>||:CAWS의 이름이 새겨진 성탄 코인이었다.
+Px4Storm(6)<Speaker>Px4 스톰</Speaker>||:......
+()<Speaker></Speaker>||:Px4 스톰은 바닥에 엎어진 채로, CAWS의 뒷모습이 어둠 속으로 사라지는 것을 지켜봤다.
+()<Speaker>Px4 스톰</Speaker>||:하하... 메리 크리스마스.
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑点2><BIN>82</BIN><Night><BGM>GF_Memorial</BGM>:같은 시각, 그리폰 숙소.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:M14와 M21은 잔뜩 취해 곯아떨어진 헬리안을 방에 데려다 눕힌 뒤 숙소로 돌아왔다.
+M14(2)<Speaker>M14</Speaker>||:헬리안 씨, 무슨 일이길래 그렇게 술을 잔뜩 마셨을까?+계속 미팅이니 터지라니 하던데...
+M21(2)<Speaker>M21</Speaker>||:속상한 일이라도 있었나 보지 뭐...
+M14(2)<Speaker>M14</Speaker>||:헬리안 씨도 고생이 많구나... 술 깨고 기분 좀 나아지면 좋겠다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:M14는 자신의 침상 옆으로 돌아가 서랍을 뒤졌다.+그걸 바라보던 M21은 다시 한번 용기를 내어 그녀의 뒤로 다가갔다.
+M21(5)<Speaker>M21</Speaker>||:M14... 만약에, 그냥 만약에 말이야...+네 성탄 코인, 아직 너한테 있다면 말이야...+<size=25>나한테 줄 생각 있어...?</size>
+M14(2)<Speaker>M14</Speaker>;M21(5)||:으음... 역시 싫어.
+M14(2);M21(5)<Speaker>M21</Speaker>||:에... 왜...?
+M14(2)<Speaker>M14</Speaker>;M21(5)||:더 좋은 선물을 준비했거든.
+M21(5)<Speaker>M21</Speaker>||<BGM>BGM_Empty</BGM>:내가 이렇게――아?
+()<Speaker></Speaker>||:M14가 서랍에서 정성껏 포장된 선물을 꺼냈다.
+M14(2)<Speaker>M14</Speaker>||<BGM>m_19christmas_avg</BGM>:우리는 말이야, 성탄 코인은 그냥 동전이니까 아무한테나 줘도 된다 생각했어.+하지만 이 선물은 우리가 신경써서 고른, 오직 M21한테만 주고 싶은 선물이야!
+M21(5)<Speaker>M21</Speaker>||:흐읍... 고마워 M14!!
+()<Speaker></Speaker>||:M21은 M14를 와락 껴안았다.
+M14(4)<Speaker>M14</Speaker>||:그런데, 그렇게 성탄 코인이 갖고 싶었어? M21한테 그거 엄청 뜻깊은 물건이었어?
+M14(4);M21(5)<Speaker>M21</Speaker>||:훌쩍... 응...
+M14(2)<Speaker>M14</Speaker>;M21(5)||:음... 그럼, 우리한테 M21의 성탄 코인 주면 안 돼?
+M21(2)<Speaker>M21</Speaker>||:물론이――
+()<Speaker></Speaker>||:감정에 북받쳐 외친 그 순간, M21은 자신의 성탄 코인이 어디로 갔는지 생각났다.
+M21(5)<Speaker>M21</Speaker>||:...잠깐 화장실 좀 갔다올게.
+M14(4)<Speaker>M14</Speaker>||:엥? 왜 또――
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1>:쌩쌩 부는 차가운 바람을 뚫고, M21은 주머니에서 물건이란 물건을 죄다 던졌던 창가로 내달렸다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>81</BIN><关闭蒙版>:같은 시각, 카페의 문 앞.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:RFB가 머쓱해하며 귀에서 이어폰을 뺐다.
+RFB(6)<Speaker>RFB</Speaker>||:저기, 수오미? 나 아직 게임기 볼륨 안 올렸는데...
+KP31(2)<Speaker>수오미</Speaker>;RFB(6)||:......
+KP31(2);RFB(2)<Speaker>RFB</Speaker>||:헤헷, 그래도 고마워!+나도 어~엄청 즐거웠어!
+KP31(2)<Speaker>수오미</Speaker>;RFB(2)||:.....
+KP31(2);RFB(2)<Speaker>RFB</Speaker>||:저번 게임 모임에서 너랑 같이 놀 때도 엄청 재밌었고!
+KP31(2)<Speaker>수오미</Speaker>;RFB(2)||:...고마워요.
+RFB(2)<Speaker>RFB</Speaker>||:아이쿠... 이거 분위기상 내 성탄 코인을 너한테 줘야겠네?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:RFB가 이마를 툭 치며 자신의 성탄 코인을 꺼내 수오미에게 건넸다.+수오미는 폭발하는 마음을 억누르며, 최대한 태연한 표정으로 성탄 코인을 받았다.
+KP31(2)<Speaker>수오미</Speaker>||:그럼 저도 보답으로 드릴게요.
+()<Speaker></Speaker>||:수오미의 성탄 코인도, RFB의 손바닥에 놓였다.
+KP31(2)<Speaker>수오미</Speaker>||<controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=10</controll_shake>:<color=#A9A9A9><size=50>소원 성취다아아아!!</size></color>+<color=#A9A9A9>생애 최고의 크리스마스야...</color>+성탄 코인 잘 받을게요.
+()<Speaker></Speaker>||:마음속으론 하늘을 뚫을 기세로 소리치면서, 수오미는 겉으로는 담담하게 말했다.
+RFB(2)<Speaker>RFB</Speaker>||:<color=#A9A9A9>아싸, 수오미의 성탄 코인 GET! 이거 오락실에서 쓸 수 있으려나?</color>+나도 잘 받을게.
+()<Speaker></Speaker>||:두 인형은 손 안의 성탄 코인을 바라보며, 서로 헤실헤실 웃었다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>167</BIN><Night>:또 같은 시각, 기지 인근의 정거장.+TMP는 그만 자리에서 일어나, 카페로 돌아가기로 했다.+그런데, 몇 걸음 걷다 문뜩 깨달았다.
+TMP(2)<Speaker>TMP</Speaker>||:어...? 생각해 보니까 방금 대장의 통신 화면, 좀 많이 뚜렷했지...?+거기 통신망 드디어 개선했나...? 하지만 대장한테서 시공한단 말은 못 들었는데...
+()<Speaker>？？？</Speaker>||<SE1>AVG_21Winter_Subway</SE1>:TMP――!!
+()<Speaker></Speaker>||:오늘의 마지막 열차와 함께, 누군가가 TMP를 부르는 소리가 들려왔다.
+TMP(2)<Speaker>TMP</Speaker>||:에...?
+K2(0)<Speaker>K2</Speaker>||:T——!
+AEK999(0)<Speaker>AEK999</Speaker>||:M——!
+M950A(8)<Speaker>M950A</Speaker>||:P——!
+Thunder50(0)<Speaker>썬더</Speaker>||:야호――
+TMP(2)<Speaker>TMP</Speaker><Shake>0.1</Shake>||:모두... 모두 왔어요...? 우와아아!!
+()<Speaker></Speaker>||<SE1>RunStep</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:TMP도 기쁨에 크게 소리지르면서, 오랫동안 기다렸던 품으로 달려갔다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>81</BIN><SE1>AVG_AMB_Restaurant</SE1>:12월 25일 밤 8시 30분, 카페.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:자아~ 접수 종료! 지금부터 결과를 집계하겠습니다!
+NPC-Kalin(1)<Speaker>지휘관</Speaker><同时置暗>||:그래서 누가 우승이야?
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:그건 저도 아직 몰라요. 모두가 각자 자신이 가진 성탄 코인을 제출했고, 지금 지휘실의 컴퓨터가 집계 중이에요.+끝나는 대로 바로 알 수 있어요!
+NPC-Kalin(0)<Speaker>지휘관</Speaker><同时置暗>||:만약 컴퓨터가 갑자기 다운된다든지 하면 어떡해? 데이터 몽땅 날아가는 거 아니야?
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:염려 붙들어 매시라! 페르시카 씨가 이 신형 컴퓨터는 절대 그럴 일 없다고 장담하셨답니다!
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:자아 시간이 거의 다 됐습니다! 여러분, 긴장되시나요~?+카운트다운, 시작합니다! 모두 손을 들어 주세요!
+()<Speaker></Speaker>||:카페의 프로젝터 스크린도 카운트다운을 띄웠고, 인형들의 눈동자와 함께 반짝였다.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:5——
+()<Speaker>환호</Speaker>||:4—— 3——+2——
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:자아, 이번 크리스마스 이벤트의 최종 우승자느으으은!!
+()<Speaker></Speaker>||<SE1>AVG_BaseDoor_Close</SE1>:스크린 화면에 인형들의 이름과 사진이 슬롯머신처럼 고속으로 돌아갔다.+환호와 열기는 정점에 달했고, 카리나가 검지를 세워 카운트다운의 마지막을 예고했다.
+()<Speaker></Speaker>||:"1!"+스크린이 멈추는 그 순간――
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><震屏3><SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:좀 아니다 싶을 정도의 굉음이 카페를 뒤흔들었다.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Open_Light</SE1><BIN>81</BIN><Night>:카페의 등불들이 흔들리며 깜빡였고, 프로젝터 스크린도 툭 꺼졌다.
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:뭐야, 뭐야!? 누가 여기서 폭죽이라도 터뜨렸나?!
+NPC-Kalin(2)<Speaker>지휘관</Speaker><同时置暗>||:어... 카리나? 화면 꺼졌는데?
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:엑......
+NPC-Kalin(4)<Speaker>지휘관</Speaker><同时置暗>||:...이거 설마 그 컴퓨터도 꺼진 건 아니겠지?
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:페르시카 씨한테 연락해볼게요!
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:카리나가 구석으로 간 지 몇 초도 안 돼, 참담한 사실을 가지고 돌아왔다.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:지휘관니임...
+NPC-Kalin(4)<Speaker>지휘관</Speaker><同时置暗>||<BGM>m_wv_scenario</BGM>:...말해. 준비됐어.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:지휘실에서 누가 폭죽을 터뜨려서... 컴퓨터가...!
+()<Speaker>지휘관</Speaker><同时置暗>||:......
+()<Speaker></Speaker>||:아직 영문을 모르는 인형들이 술렁이면서, 즐거운 크리스마스 분위기가 박살나기 일보직전이었다.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:어떡하죠 지휘관님?!
+NPC-Kalin(4)<Speaker>지휘관</Speaker><同时置暗>||:쓰읍... 사고 현장은 요정들한테 처리 맡기고, 이벤트는 일단 어떻게든 마무리해보자.+여기까지 왔는데, 마지막도 즐겁게 끝내야지.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:마지막까지 즐겁게... 알겠습니다!
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:패닉에 빠졌던 카리나가 다시 정신을 차리고 방송을 재개했다.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:<color=#00CCFF>미안해요 여러분! 집계 도중 문제가 발생해 지금 긴급 수리 중이에요!</color>
+()<Speaker>인형들</Speaker>||:에에... 뭐야 그게!+흥 다 깨지네!
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:<color=#00CCFF>아이, 기다려 보시라고요~ 오늘 최고의 하이라이트는 잠시 미루게 됐지만...</color>
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:<color=#00CCFF>하지만! 아직 두 번째 궁금증은 풀리지 않았죠?</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:카리나가 홱 고개를 돌리자, 지휘관은 급격하게 불길한 예감이 들었다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:<color=#00CCFF>맞아요, 여러분이 이벤트의 시작부터 궁금해했던——!</color>
+NPC-Kalin(1)<Speaker>카리나</Speaker>||<BGM>m_19christmas_battle</BGM>:<color=#00CCFF>지휘관님의 성탄 코인은 누구에게 갔는가!</color>
+()<Speaker>지휘관</Speaker>||:내 저럴 줄 알았다...
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:대충 짐작했던 지휘관은 그 전에 빠져나가려 했지만, 역시 또 한발 늦고 말았다.
+Mk23(0)<Speaker>Mk23</Speaker>||:달링, 선택의 시간이야!+나, 달링이 날 선택해 줄 거라 믿으니까아...
+()||<黑点1>:
+()<Speaker>KAC PDW</Speaker>||<BIN>444</BIN><Night><黑点2><震屏3><SE1>AVG_Punch</SE1>:꿈 깨시지? 허니의 성탄 코인은 처음부터 내 것이라 정해졌다구!
+()<Speaker>Mk23</Speaker>||:웃기지 마!
+()<Speaker>KAC PDW</Speaker>||:그치, 허니~?
+()<Speaker>지휘관</Speaker>||:어어...
+()<Speaker>Mk23</Speaker>||<controll_shake>%%type_id=2%%duration=5%%delay=0.1%%range=10</controll_shake><SE1>Rope</SE1>:달리잉... 내 마음, 저버릴 거야?
+()<Speaker>KAC PDW</Speaker>||<SE1>Rope</SE1>:성탄 코인과 함께 내 것이 되어 줘, 허~니~♪
+()||<黑点1>:
+M1911Mod(0)<Speaker>M1911</Speaker>||<黑点2><BIN>81</BIN><Night><SE1>ClothingUp</SE1>:달링 발견! 얼른 성탄 코인 내놓으세요!
+M9(0)<Speaker>M9</Speaker><Shake>0.1</Shake>||<SE1>AVG_Punch</SE1>:퇴물은 저리 꺼지는 거야! 지휘관은 성탄 코인은 내가 받아가는 거야!
+DSR50(0)<Speaker>DSR50</Speaker><Shake>0.1</Shake>||<SE1>AVG_Punch</SE1>:지휘관... 우리 잠깐 단둘이 있을까?
+Saiga12(0)<Speaker>Saiga-12</Speaker><Shake>0.1</Shake>||<SE1>AVG_Punch</SE1>:지휘관님! 제 독점 여름 수영복 특집 앨범이랑 교환하실래요!?
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:점점 좁혀져 오는 포위망에, 지휘관은 기겁했다.
+()<Speaker>지휘관</Speaker>||:<size=50>사람 살려!!!</size>
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1><SE1>GF_Halloween_Wind_loop</SE1>:그리고 처절한 비명을 지르며, 지휘관은 눈 내리는 추운 밤으로 뛰쳐나갔다.
+()<Speaker></Speaker>||:물론, 지휘관은 언제 어디서든 혼자가 아니다.
+()<Speaker>인형들</Speaker>||<SE1>AVG_Crowd_Run</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=10</controll_shake>:<size=50>지휘관/Darling/Honey/사육사/메리/보스/지휘관님... 거기 서!!!</size>
+()||<黑点1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM><SE1>Stop_AVG_loop</SE1><CGDelay>3</CGDelay>:한푼차이 - END.............................................?
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>7</BIN><Night><BGM>m_19christmas_theme</BGM>:12월 25일, 크리스마스.+폭죽요정은 현장의 폭죽 배치를 막 끝마친 참이었다.
+NPC_HanabiYousei(2)<Speaker>폭죽요정</Speaker><Position>0,340</Position><Shake>0.1</Shake>||:후아! 힘들다!
+()<Speaker></Speaker>||<SE1>AVG_coin_put</SE1>:땡! 데구르르...+그런데 그때, 빈 술병이 비탈길을 타고 굴러내려왔다.
+NPC_HanabiYousei(2)<Speaker>폭죽요정</Speaker><Position>0,340</Position><Shake>||:엥? 누구예요! 이런 데서 술 마시면 위험하다고요!+그리고 술병을 아무 데나 버리면 어떡해요!
+()<Speaker>？？？</Speaker>||:왜 내가... 왜애애... 왜 미팅 자리에서...+<size=50>데스 메탈을 틀고 난리냐고!!!</size>
+()<Speaker></Speaker>||:폭죽요정이 씩씩대며 술병을 줍기가 무섭게, 검은 그림자가 휘청이며 다가왔다.
+NPC_HanabiYousei(2)<Speaker>폭죽요정</Speaker><Position>0,340</Position>||:헤... 헬리안 씨...?
+NPC-Helian(4)<Speaker>헬리안</Speaker>||:미팅! 직장! 다 터져버려!
+NPC-Helian(4)<Speaker>헬리안</Speaker>||<震屏3>:<size=50>크리스마스! 축제! 다 터져버려!</size>
+NPC_HanabiYousei(2)<Speaker>폭죽요정</Speaker><Position>0,340</Position>||:어... 괜찮으세요 헬리안 씨? 엄청 취하셨네요?
+NPC-Helian(4)<Speaker>헬리안</Speaker>||:흐헤... 으헤헤.. 나 마랴... 소원 있거드은...?
+NPC_HanabiYousei(2)<Speaker>폭죽요정</Speaker><Position>0,340</Position>||:<color=#A9A9A9>소원...! Px4 씨가 크리스마스엔 다른 사람의 소원을 들어주라고 했어!</color>+무슨 소원인데요?
+NPC-Helian(4)<Speaker>헬리안</Speaker>||<震屏>:<size=50>나 망신당하게 한 저기! 펑 펑 날려버려! 깔깔깔깔!!</size>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:헬리안이 빈 술병으로 기지의 지휘실이 있는 방향을 가리켰다.
+NPC_HanabiYousei(2)<Speaker>폭죽요정</Speaker><Position>0,340</Position>||:........네?+<color=#A9A9A9>이거 들어줘도 괜찮으려나...?</color>+<color=#A9A9A9>그런데 하긴, 인간의 소원은 원래부터 좀 이상한 게 많았지...</color>+아, 알았어요, 저 힘낼게요!
+()<Speaker></Speaker>||<SE1>Rope</SE1>:폭죽요정은 손 안의 발사기를 꼬옥 쥐고, 헬리안의 소원을 이루어 주겠다 다짐했다.
+()||<黑屏1>:한푼차이 - END!

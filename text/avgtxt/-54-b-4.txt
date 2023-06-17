@@ -1,0 +1,139 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>356</BIN><narrator>:모스크바의 세이프하우스.
+()||<BGM>GF_2022_Summer_AVG_1</BGM>:시멘트 용해액을 몇 통이나 쓰고서야, 매기는 간신히 캐서린을 드럼통에서 꺼낼 수 있었다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:으윽... 피부가 까칠까칠해...
+NPC-Scalper(3);ColtWalker(1)<Speaker>매기</Speaker>||:팔다리 멀쩡하게 나왔으니까 됐지.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(1)||:야 이 구두쇠야, 용해액 좀 더 좋은 걸로 사면 어디 덧나냐?
+NPC-Scalper(3);ColtWalker(1)<Speaker>매기</Speaker>||:에에, 네가 보낸 돈으로 산 건데, 돈 아끼면 더 좋아할 줄 알았지.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(1)||:아 맞다, 내 돈! 당장 돌려줘!
+NPC-Scalper(3);ColtWalker(1)<Speaker>매기</Speaker>||:헤에, 송금 메시지는 그렇게 감동적으로 써 놓더니...+"잘 있어, 매기..."
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:닥쳐 임마! 그땐 진짜 뒤지는 줄 알았다고!!!
+()||<SE1>AVG_va_addingredient</SE1>:캐서린은 소리를 버럭 지르며 매기를 몇 번 때리고는, 바닥에 앉아 자신에게 잔뜩 기름칠을 했다.
+()||<SE1>AVG_File_Put</SE1>:그리고 흡족하게 소파에 드러누웠다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||<BGM>BGM_Empty</BGM>:그래서, 그 의뢰란 게 어떤 거야?
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||<BGM>GF_21summer_avg_SecretAgent</BGM>:......+아직 몰라.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(3)||:모르면서 그걸 받았어?
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:아무튼 쉬운 일은 아니겠지.+의뢰를 받은 것만으로도 우릴 그 강도 패거리한테서 구해 줄 정도니까.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(3)||:...의뢰인이 마냥 우리를 편하게 두진 않을 거야. 바로 목숨 값을 독촉하러 올 거라고.
+NPC-Scalper(3);ColtWalker(1)<Speaker>매기</Speaker>||:걱정 마, 여태까지 우리가 노아의 방주를 놓친 적이 있었냐? 이번에도 똑같을 거야.
+NPC-Scalper(0)<Speaker>캐서린</Speaker>;ColtWalker(1)||:그래.+그럼 언제부터 일 시작해?
+NPC-Scalper(0);ColtWalker(3)<Speaker>매기</Speaker>||:지금.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(3)||:아... 그럼 뭐부터 하는데?
+ColtWalker(3)<Speaker>매기</Speaker>||:내일이면 알게 될 거야, 지금 저쪽한테 받은 건 "로열 카지노"란 의뢰명하고 익명 통신밖에 없어.
+()||<SE1>AVG_tele_connect</SE1>:삐이——+매기는 발신자 추적이 불가능한 그 통신을 다시 재생했다.
+()<Speaker>серый</Speaker><通讯框>||:<color=#00CCFF>너의 면접은 내일 9시에 잡았다. 좌표는 다음과 같다.</color>
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:확실히 추적이 전혀 안 되네...
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:이런 상대는 정말 오랜만이야...
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(3)||:보르 브 자코녜를 바로 순한 양으로 만드는 걸 보면 절대 만만한 인물이 아니겠지...+이거 완전 산 넘어 산이구만.
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:아니지, 이건 늑대 피하다 호랑이 등에 올라탄 거야.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(3)||:그래도 단서가 아예 없는 건 아니네. серый, 이 낱말은 러시아어로 회색이란 뜻이야.
+ColtWalker(3)<Speaker>매기</Speaker>||:회색...+이 낱말에 다른 뜻이 숨어있을 것 같아. 천천히 껍질을 까봐야겠지.+옛날 시절이 떠오르네, 뭐 그 시절 손님들 중에 이만큼 진상은 없었지만.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>272</BIN><narrator>:며칠 후, 브레멘의 플로라 연구소.
+()||<BGM>BGM_Brain</BGM><SE1>AVG_footsteps_cave</SE1>:약속한 면접 시간에 맞춰 매기는 시가지 중심부에 있는 빌딩에 도착했다. 그리고 접수처 아가씨의 안내를 받아 대기 홀에 앉았다.
+()||<SE1>Stop_AVG_loop</SE1>:접수처 직원은 곧 돌아가고, 호화롭게 꾸며진 대기 홀에 매기 혼자만 남았다.+매기는 몇몇 팻말에서 "갈라테아"라는 단어를 발견했지만, 검색해 봐도 아무것도 나오지 않았다.
+()<Speaker>？？？</Speaker>||:매기 씨 맞으세요?
+()||<SE1>AVG_20Winter_Door_Open</SE1>:문 하나가 열리고, 하얀 제복을 입은 여성이 매기에게 손짓했다.
+NPC-Leone(0)<Speaker>？？？</Speaker>||:이쪽이요.
+()||<黑点1>:
+()||<黑点2><BIN>412</BIN>||<SE1>AVG_footsteps_cave</SE1>:하얀 옷의 여성을 따라서 매기는 사무실에 들어와 푹신푹신한 소파 위에 앉았다.
+()||<SE1>Stop_AVG_loop</SE1>:매기가 자세를 바로잡기도 전에, 여성은 무덤덤하게 절차를 시작했다.
+NPC-Leone(0)<Speaker>？？？</Speaker>||:그럼 면접 시작할게요.
+NPC-Leone(0);ColtWalker(3)<Speaker>매기</Speaker>||:그래.
+NPC-Leone(0)<Speaker>？？？</Speaker>;ColtWalker(3)||:이름.
+NPC-Leone(0);ColtWalker(3)<Speaker>매기</Speaker>||:매기 폰지.
+NPC-Leone(0)<Speaker>？？？</Speaker>;ColtWalker(3)||:직업.
+NPC-Leone(0);ColtWalker(3)<Speaker>매기</Speaker>||:음... 사회공학자.
+NPC-Leone(0)<Speaker>？？？</Speaker>||:......
+()||<SE1>AVG_21Winter_Click_Keyboard</SE1>:상대방은 무덤덤하게 매기의 정보를 키보드로 입력했다.
+ColtWalker(3)<Speaker>매기</Speaker>||:이제 댁 차례야.
+NPC-Leone(0)<Speaker>의뢰인</Speaker>;ColtWalker(3)||:전 "로열 카지노" 의뢰인이에요.+저번에 통신으로 연락했죠? 이제 제 시험을 통과해야 의뢰를 받을 수 있어요.
+NPC-Leone(0);ColtWalker(3)<Speaker>매기</Speaker>||:좋아, 그럼 시작하자고.
+NPC-Leone(0)<Speaker>의뢰인</Speaker>;ColtWalker(3)||:이미 시작했어요.+매기 씨, 당신이 가장 자신있는 방식으로 제가 스스로 의뢰를 당신에게 맡기도록 만들어 보세요.
+NPC-Leone(0);ColtWalker(1)<Speaker>매기</Speaker>||:어? 무슨 수를 써도 상관없어?
+NPC-Leone(0)<Speaker>의뢰인</Speaker>;ColtWalker(1)||:물론이죠.
+NPC-Leone(0);ColtWalker(3)<Speaker>매기</Speaker>||:시작하기 전에 하나 확실히 해 줘——+의뢰를 내게 맡길지 여부를 정하는 건 의뢰인뿐인 거, 맞지?
+NPC-Leone(0)<Speaker>의뢰인</Speaker>;ColtWalker(3)||:네.
+NPC-Leone(0);ColtWalker(3)<Speaker>매기</Speaker>||:그럼 이 시험은 애초에 통과가 불가능해.
+NPC-Leone(0)<Speaker>의뢰인</Speaker>;ColtWalker(3)||:......+어째서죠?
+NPC-Leone(0);ColtWalker(3)<Speaker>매기</Speaker>||:댁은 의뢰인이 아니니까.
+NPC-Leone(0)<Speaker>의뢰인</Speaker>;ColtWalker(3)||:저를 도발해서 의뢰를 맡기게 할 심산인가요?+실례가 지나치군요.
+NPC-Leone(0);ColtWalker(1)<Speaker>매기</Speaker>||:댁을 무시할 생각은 전혀 없어, 리오니 씨.
+NPC-Leone(0)<Speaker>의뢰인</Speaker>;ColtWalker(1)||:......
+NPC-Leone(0);ColtWalker(1)<Speaker>매기</Speaker>||:댁의 성문을 살짝 분석해서 외모와 대조하면 진짜 신분을 알아내는 건 식은 죽 먹기지.+댁이 작년에 발표한 연구소 연말보고서는 참 훌륭했어.+그런데 말이지, 좀 실례일지도 모르지만 댁이 그 수수께끼의 의뢰인이라기엔 약간 부족해 보여.+어제 그 대단하신 의뢰인은 꽤나 큰 골칫거리를 뚝딱 해결해 줬거든.
+NPC-Leone(0)<Speaker>의뢰인</Speaker>;ColtWalker(1)||:헛?
+NPC-Leone(0);ColtWalker(1)<Speaker>매기</Speaker>||:명찰을 급하게 가리는 걸 보니까 내가 그걸 훔쳐봤다고 생각하나 보지?+그런 건 기술 수준이 너무 낮잖아, 당신네 회사 스타일에 안 맞아.
+NPC-Leone(0)<Speaker>의뢰인</Speaker>||:......+좋아요.
+()||<SE1>ClothingUp</SE1>:한번 놀랐다가 정신을 차린 리오니는 의자 등받이에 기대고 다시 침착한 얼굴을 되찾았다.
+ColtWalker(1)<Speaker>매기</Speaker>||:그럼——
+()||<SE1>AVG_Applause</SE1>:짝짝짝——
+()||<BGM>BGM_Empty</BGM><Night>:손뼉 소리가 울리더니, 방 안의 전기가 잠시 나갔다.+매기의 눈이 어둠에 적응했을 때 리오니의 모습은 이미 사라졌다.+그 대신 어둠 속에 홀로그램이 나타났다.
+NPC-MrsGray(0)<Speaker>серый</Speaker><通讯框>||<BGM>GF_22W_BGM_1</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>처음 만나는군, 매기 양.</color>
+NPC-MrsGray(0)<通讯框>;ColtWalker(1)<Speaker>매기</Speaker>||:그쪽이 그 "회색" 씨?
+NPC-MrsGray(0)<Speaker>серый</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>나한테도 똑같은 수단을 써보지 그래?</color>+<color=#00CCFF>내 성문을 살짝 분석하고 외모와 대조해서?</color>
+NPC-MrsGray(0)<通讯框>;ColtWalker(3)<Speaker>매기</Speaker>||:아뇨.+그래봤자 당신에겐 안 먹히겠죠.+아니면, 그렇게 해서 찾아낸 "그레이" 가 당신의 정체가 아닐 수도 있고.
+NPC-MrsGray(0)<Speaker>серый</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>자기 분수를 안다는 점은 마음에 들어, 매기 폰지 씨.</color>+<color=#00CCFF>아니면, 매기 폰지 씨의 조수 인형이라 불러야 할까?</color>
+ColtWalker(3)<Speaker>매기</Speaker>||:......
+()||<SE1>ClothingUp</SE1>:매기가 소파를 툭툭 두드리던 손가락이 굳었다.
+NPC-MrsGray(0)<Speaker>серый</Speaker><通讯框>||:<color=#00CCFF>걱정 말렴, 그런 배경도 네 경쟁력이니까.</color>+<color=#00CCFF>나는 원래 인형의 사기 솜씨에 회의적이었지만, 네가 폭스 시스터후드 소속 인형인 걸 알고 기대를 걸게 됐어.</color>
+NPC-MrsGray(0)<通讯框>;ColtWalker(3)<Speaker>매기</Speaker>||:아직도 폭스 시스터후드를 기억하는 사람이 있다니.
+NPC-MrsGray(0)<Speaker>серый</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>현대 인류는 잊어선 안 될 것들을 너무 많이 잊어버렸지.</color>+<color=#00CCFF>폭스 시스터후드는 3차대전 이후 몰락했다고 들었지만...</color>+<color=#00CCFF>설마 그 조직의 일원을 여기서 만날 줄이야.</color>
+NPC-MrsGray(0)<通讯框>;ColtWalker(3)<Speaker>매기</Speaker>||:어쩐지 시원시원하게 캐서린을 구해주더라니.
+NPC-MrsGray(0)<Speaker>серый</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>가치 있는 인물한텐 항상 흔쾌히 베풀어 주지.</color>
+NPC-MrsGray(0)<通讯框>;ColtWalker(3)<Speaker>매기</Speaker>||:폭스 시스터후드의 배경 말고는요?+뭘 보고 저희의 가치를 평가한 거죠?
+NPC-MrsGray(0)<Speaker>серый</Speaker><通讯框>||:<color=#00CCFF>총명한 사람과 대화하면 수고가 준다니까.</color>
+()||<SE1>AVG_footsteps_cave</SE1>:"회색" 부인은 천천히 일어나 카메라 앞을 벗어나더니, 조금 뒤 커피 한 잔을 들고 돌아왔다.
+NPC-MrsGray(0)<Speaker>серый</Speaker><通讯框>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>네가 주도한 데킬라 사업, 아니지, 까놓고 데킬라 사기극이라고 불러도 될까?</color>
+NPC-MrsGray(0)<通讯框>;ColtWalker(3)<Speaker>매기</Speaker>||:......
+NPC-MrsGray(0)<Speaker>серый</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>그것 때문에 보르 브 자코녜가 너희를 잡아 죽이려고 쫓아다닌 거겠지.</color>
+ColtWalker(1)<Speaker>매기</Speaker>||:아차, 들통나 버렸네.
+()||<SE1>AVG_File_Put</SE1>:헛웃음을 치고, 매기는 억지로 아무렇지 않다는 양 소파 등받이에 기대 다리를 꼬았다.
+NPC-MrsGray(0)<Speaker>серый</Speaker><通讯框>||:<color=#00CCFF>그 사기극을 짜맞춘 발상에는 나도 한 수 배웠지.</color>+<color=#00CCFF>폰지 사기는 아주 오래된 수법이지만, 매기 양은 그걸 이 시대에 되살려냈어.</color>
+NPC-MrsGray(0)<通讯框>;ColtWalker(1)<Speaker>매기</Speaker>||:과찬이시네요, 그건 이미 볼장 다 본 아이템입니다. 그쪽이 흥미 있으시다면야 그런 컨셉으로 따로——
+NPC-MrsGray(0)<Speaker>серый</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>아니.</color>+<color=#00CCFF>난 바로 그 사업을 원해.</color>
+ColtWalker(4)<Speaker>매기</Speaker>||:...자세히 설명해 주실 수 있을까요?
+()||<SE1>ClothingUp</SE1>:대화의 흐름이 또다시 매기의 예측을 벗어나자, 그녀는 저절로 앉은 자세를 반듯하게 고쳤다.
+NPC-MrsGray(0)<Speaker>серый</Speaker><通讯框>||:<color=#00CCFF>"빈번히 일어나는 전쟁의 배후에 숨은 유명 과학자가, 유적 기술로 더티밤을 개발한다."</color>+<color=#00CCFF>데킬라 사업이 사기인 이유는 이 테마에 진실인 부분이 하나도 없기 때문이지.</color>
+NPC-MrsGray(0)<通讯框>;ColtWalker(3)<Speaker>매기</Speaker>||:......
+NPC-MrsGray(0)<Speaker>серый</Speaker><通讯框>||:<color=#00CCFF>하지만 내가 그걸 진실로 만들 수 있어.</color>
+()||:매기는 잠깐 머리를 굴렸다. 이 사기극을 진짜로 만들기 위해 써야 할 자원과 자금을 어림잡는 것만으로도 등골이 오싹해졌다.
+ColtWalker(3)<Speaker>매기</Speaker>||:고작 페이퍼컴퍼니 하나에 실체를 부여하겠다고 그 큰 돈을 투자한다고요?
+NPC-MrsGray(0)<Speaker>серый</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>그건 시작에 불과해.</color>+<color=#00CCFF>데킬라 제조 회사는 더 이상 없어. 오로지 갈라테아의 계열사만 남게 될 거야.</color>
+NPC-MrsGray(0)<通讯框>;ColtWalker(3)<Speaker>매기</Speaker>||:갈라테아...+즉 당신은 데킬라 사업의 투자자 명단에 눈독을 들인 거군요.
+NPC-MrsGray(0)<Speaker>серый</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>이건 의뢰의 첫 단계일 뿐이야.</color>
+ColtWalker(3)<Speaker>매기</Speaker>||:......+그래, 이제부터가 의뢰의 중요 포인트라 이거죠?
+()||<BGM>BGM_Empty</BGM>:"회색" 부인이 히죽 웃었다.
+()||<SE1>AVG_Shield_Startup</SE1>:휴면 상태이던 스크린이 매기 앞에서 켜졌다.
+()||<BGM>GF_22W_BGM_2</BGM>:스크린 위로 유라시아 대륙의 전체 지도가 나타났다. 국경선만 그려진 지도 위에 ELID 오염 농도가 표시돼 있었다.+빨강, 노랑, 초록색이 지도를 뒤덮었고, 군데군데 검은 반점이 찍혀 있었다.
+NPC-MrsGray(0)<Speaker>серый</Speaker><通讯框>||:<color=#00CCFF>이 세계는 2030년대 이전만 해도 끈끈하게 이어져 있었지.</color>
+NPC-MrsGray(0)<通讯框>;ColtWalker(3)<Speaker>매기</Speaker>||:그렇죠, 그러다 북란도 사태로 모든 것이 변했고요.
+NPC-MrsGray(0)<Speaker>серый</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>그 후 인류는 두 파벌로 나뉘었어. 세상을 다시 하나로 잇고 싶은 자들과, 이대로 분리된 채 있고 싶은 자들.</color>
+NPC-MrsGray(0)<通讯框>;ColtWalker(3)<Speaker>매기</Speaker>||:인간은 논쟁을 벌이길 좋아하죠, 논쟁이 생기면 입장이란 게 생기니까.
+NPC-MrsGray(0)<Speaker>серый</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>잘 말했어. 하지만 자기 입장을 표명하는 것은 힘을 가진 자의 특권이야.</color>+<color=#00CCFF>나를 포함한 대부분의 사람은 그저 최대한의 이익을 추구할 뿐이지.</color>
+ColtWalker(3)<Speaker>매기</Speaker>||<黑屏1>:아주 영리한 장사꾼이시군요.
+()||<SE1>AVG_NightVision_Start</SE1><黑屏2><BIN>536</BIN>:반짝이는 점 하나가 대륙 한쪽 끝에서 반대쪽 끝까지 구불구불한 곡선을 그리며 가로질렀다.+중간의 오염지대를 전혀 아랑곳하지 않고서.
+()<Speaker>серый</Speaker>||:<color=#00CCFF>지금 엄청나게 거대한 이익이 눈앞에 있어.</color>+<color=#00CCFF>시베리아 생명선이 재가동되고 있지. 그쪽 관련으로 대리인이 하나 필요해.</color>
+()<Speaker>매기</Speaker>||:그러니까... 대륙간 열차가 다시 달린다고요?
+()<Speaker>серый</Speaker>||:<color=#00CCFF>맞아, 오염지대를 넘어서 유라시아 대륙을 가로질러 소련과 독일을 하나로 잇는 대륙간 열차지.</color>
+()<Speaker>매기</Speaker>||:...거참 위대한 기적이네요.+그런 초대형 프로젝트를 가지고 제게 무슨 일을 시키려고요?
+()<Speaker>серый</Speaker><通讯框>||:<color=#00CCFF>또 다른 기적이지.</color>
+()||:"회색" 부인이 섬뜩한 미소를 지었다.
+()<Speaker>серый</Speaker>||:<color=#00CCFF>대륙간 열차에 견줄 수 있는 기적, 인형에게 있어서의 기적.</color>
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>356</BIN><narrator>:그날 밤, 브레멘의 세이프하우스.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||<BGM>GF_21winter_avg_mahaline</BGM>:매기?
+()||:매기는 문에 기댄 채 주저앉아 대답이 없었다.
+ColtWalker(3)<Speaker>매기</Speaker>||:......
+()||:그러다, 한참 지나서야 겨우 고개를 들어 캐서린을 바라보았다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:너 표정이 엄청 무거운걸.
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:이번 건은 진짜 미쳤어.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(3)||:......+하지만 우리가 거부할 권리는 없는 거지?
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:이미 휘말려 버렸어.+이제 와서 빠져나갈 길은 없어.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:......
+()||:캐서린은 매기 곁으로 걸어와 그녀처럼 문 앞 바닥에 앉았다.
+ColtWalker(3)<Speaker>매기</Speaker>||:이번 일이 끝나고 살아남는다면, 어디 조용한 곳을 찾아서 한동안 숨어 살자.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(3)||:...그래.+근데 얼마나 걸리는데?
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:빠르면 몇 달, 늦으면 몇 년 걸리겠지.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:얼마나 걸리든, 우린 분명 살아남을 거야.
+()||:차가운 바닥에 앉은 캐서린과 매기는 서로에게 기댔다.+이렇게 말없이 곁에 있어주는 것이, 오래전부터 두 사람이 서로를 위로하는 방식이었다.+어두컴컴한 지하실에서부터, 처량한 신통방통 유령의 집을 지나서 지금에 이르기까지.+그리고 앞으로도 쭉.
+()||<黑点1>:

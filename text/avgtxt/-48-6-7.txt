@@ -1,282 +1,282 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑点2><BIN>336</BIN><SE1>AVG_20_Winter_TVnews_Start</SE1>:[ 긴급 속보를 전해드립니다 ]
-()<Speaker>섀도리스</Speaker>||<common_effect>%%code=NPC_TV_6%%</common_effect>:시청자 여러분 안녕하십니까, DRF의 섀도리스입니다. 방금 들어온 국제 속보부터 먼저 전해드리겠습니다.
-()<Speaker>섀도리스</Speaker>||:어젯밤, 신소련에서 대규모 무력 충돌이 발생했습니다. 신소련 내 다수의 PMC가 정체불명의 세력에게 습격받아, 상당수가 심각한 피해를 입었다고 합니다.+전자 봉쇄로 인해 자세한 정보는 입수가 불가능해, 현재 추가적인 조사를 기다리는 중입니다.+이어서, 국내 시사 뉴스입니다.
-()<Speaker>섀도리스</Speaker>||<BIN>343</BIN>:근일, 갈라테아 그룹 산하의 제약 공장 다수에 내려진 운영 정지로 인한 여파가 새로운 국면을 맞이했습니다.
-()<Speaker>섀도리스</Speaker>||:독일위생보건위원회와 식약청, 갈라테아 그룹의 협력사의 관계자 다수가 검거되었다는 소식입니다. 밝혀진 혐의는 실험 결과 날조, 분석 보고 위조 등이 있습니다.+전 갈라테아 직원 C 씨는 사내 고위직이 횡령과 주가 조작 등의 부정부패에 연루되었다 폭로했으며, 현재 경찰을 비롯한 관련 부서들이 이를 입건하여 다각도에서 수사하고 있습니다.
-()<Speaker>섀도리스</Speaker>||<BIN>353</BIN>:한편, 그레이 생명과학연구 센터의 신임 책임자 한나 교수가 전날 밤 스스로 목숨을 끊은 채 발견되었습니다. 전임 책임자 그레이 교수는 아직도 행방이 묘연한 정황입니다.+아, 취재진이 연구 센터에 도착했다고 합니다. 현장 특파원에게 연결합니다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<关闭蒙版>%%</关闭蒙版><黑屏2><BIN>84</BIN>:......
-()<Speaker>현장 기자</Speaker>||:네, 지금 저희는 현장에 나와 있는 시민을 인터뷰하고 있습니다.+안녕하세요, DRF입니다. 최근 들어 소란이 끊이질 않는 갈라테아 제약 공장 가동 정지 사건에 대해서 알고 계십니까?
-()<Speaker>시민A</Speaker>||:알다마다요. 전부터 광고 잔뜩 뿌리면서 구세주 행세하더니만, 이게 뭐예요? 믿던 사람들 싹 다 배신하고, 진지하게 연구하던 다른 데까지 탄압받게 생겼잖아요.
-()<Speaker>현장 기자</Speaker>||:...네, 인터뷰에 응해 주셔 감사합니다.+이쪽 분, 갈라테아 제약 공장 가동 정지 사건에 대해 한 말씀해 주시겠습니까?
-()<Speaker>시민B</Speaker>||:망했어, 망했어요... 내가 주식 투자한 거 싹 다 날라갔다고요...+으하하하, 누가 이런 식으로 쫄딱 망할 거라 생각이나 했겠냐고요! 하하하하――
-()<Speaker>현장 기자</Speaker>||:어... 다소 흥분하신 거 같으니 다음 분을 모셔보죠. 제약 공장 가동 정지 사건에 대해 한 말씀해 주시겠습니까?
-()<Speaker>시민C</Speaker>||:하여간 돈 많아서 잘난 놈 하나도 없어! 겉으론 순진하고 선량한 척이나 하고, 다 더러운 사기꾼이야!+우리 목숨 가지고 장난치냐? 엉? 콱 다 죽어버려야 돼!+그리고 그레이 너! 보고 있으면 잘 들어! 내가 그렇게 믿었는데, 돈을 먹고 튀어!? 지옥 끝까지라도 쫓아갈 거야, 알아들었어!! 야!!
-()<Speaker>현장 기자</Speaker>||:어, 앗, 죄송합니다! 현장 상황이 다소 혼란하여 이만 인터뷰를 마치겠――
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:격분한 시민들에게 이리저리 떠밀리며 당황한 기자가 황급히 방송국과의 통신을 끊었다.
-()||<黑屏1>:
-()<Speaker>섀도리스</Speaker>||<黑屏2><BIN>343</BIN><common_effect>%%code=NPC_TV_7%%</common_effect>:...현장 특파원의 노고에 감사드립니다.
-()<Speaker>섀도리스</Speaker>||<BIN>336</BIN>:이상으로, 오늘의 특보를 마치겠습니다. DRF, 섀도리스입니다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><关闭蒙版>%%</关闭蒙版><BIN>9</BIN><SE1>AVG_tele_disconnect</SE1>:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<BGM>GF_EV9_Intermission</BGM><黑屏2><SE1>AVG_Walk</SE1><BIN>323</BIN>:패러데우스의 기지. 바쁘게 동분서주하던 검은 니토들이, 들려온 익숙한 소리에 일제히 걸음을 멈추었다.+그레이가 돌아온 것이었다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:다 나가.
-Nyto(0)<Speaker>니토</Speaker>||:그레이 님...?
-NPC-MrsGray(3)<Speaker>그레이</Speaker>||:두 번 말하게 하지 마라.
-()<Speaker></Speaker>||:느닷없는 위협에 화들짝 놀라 품의 서류 더미를 바닥에 쏟은 검은 니토들은, 상관의 사나운 눈빛에 허둥지둥 방에서 빠져나갔다.+별 상관 없는 서류를 밟으며, 그레이는 천천히 의자에 걸어가 앉아 신경질적으로 관자놀이를 문질렀다.
-NPC-grig(1)<Speaker>틸</Speaker>||:......
-()<Speaker></Speaker>||:틸도 소리 없이 그녀의 뒤에서 나타났다.
-NPC-grig(0)<Speaker>틸</Speaker>||:...그녀를 데려왔구나.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:유일한 희소식이지.
-()<Speaker></Speaker>||:잔뜩 곤두섰던 신경을 조금 풀면서, 그레이는 한숨을 푹 쉬었다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:스승님은 아버님께 돌려보냈어... 회복할 시간이 필요해.+하지만 시간은 많지 않아. 한시라도 빨리 그녀가 돌아와 일을 재개해야 할 텐데...
-NPC-grig(1)<Speaker>틸</Speaker>||:어쩌면 당분간 휴식을 취하는 편이, 그녀에게도 좋을지 모른다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:틸은 그레이를 바라보며 그녀의 어깨에 손을 얹었다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:틸, 몰리도는 대체할 수 없어.
-NPC-grig(2)<Speaker>틸</Speaker>||<SE1>ClothingUp</SE1>:내겐 네가 대체할 수 없는 존재다.
-NPC-MrsGray(3)<Speaker>그레이</Speaker>||:틸...
-NPC-grig(1)<Speaker>틸</Speaker>||:...아버님께선 뭐라 하셨지?
-()<Speaker></Speaker>||:그레이의 기분이 더 나빠지기 전에, 틸이 화제를 전환했다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:아무 말씀도 없으셨어... 다만, 기분이 아주 안좋으시다는 것만은 확실해.+스승님이라면 이럴 때 어떡하면 좋을지 아실 텐데...
-()<Speaker></Speaker>||:갈라테아 그룹은 여태까지와는 차원이 다른 타격을 입었다.+그녀가 지금까지 "빌려" 쓰던 신분의 입지마저 흔들렸다.
-NPC-MrsGray(3)<Speaker>그레이</Speaker>||:어쩌면... 내 지금 신분을 포기할 수밖에 없을지도 모르겠구나.
-()<Speaker></Speaker>||:그레이는 의자의 팔걸이를 잡으면서 조금 분한 목소리를 냈다.
-()<Speaker>브라메드</Speaker>||:"어쩌면"이 아니야, 닥터 그레이.+지금 바로 방 빼야 해.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:......!
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:그때, 건방진 브라메드의 목소리가 문 밖에서 들려왔다. 그녀는 문을 활짝 열더니, 사뿐사뿐 안으로 들어왔다.
-NPC-grig(0)<Speaker>틸</Speaker>||:...브라메드.
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:안녕 틸~ 안색 좋아 보이니 다행이야.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:네 일은 어쩌고 여기 왔지?+설마, 스승님이 돌아와서 긴장한 거냐?
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:내가 왜? 몰리도가 무슨 잘못을 저질렀든 나랑은 상관없는데.+그리고... 아버님께서 내게 새로운 임무를 주셨거든.+아무래도 그녀가 현장에 복귀하려면 시간이 많이 걸리겠어~
-NPC-MrsGray(3)<Speaker>그레이</Speaker>||:뭐라고...?
-()<Speaker></Speaker>||:냉랭한 눈빛으로 브라메드를 노려보던 그레이가 언성을 높였다.+그 광경에, 브라메드는 실로 유쾌함을 금할 수 없었다.
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:아버님이, 직접, 내게 내려 주신 명령이지.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:브라메드는 거침없이 그레이의 맞은편에 앉아, 소파를 퉁퉁 두드리며 자만했다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:...아버님은 늘 현명한 판단을 내리시지.+그 소련놈들 손에서 온갖 고문을 당했으니, 스승님에게 긴 휴식이 필요한 건 당연해.+하지만 그렇다고 수확이 없었던 것도 아니지. 나르시스를 쓰러뜨린 존재와 접촉했으니까.+스승님이 회복하면, 아버님은 다시 그녀를 중용하실 거다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:그리고 스승님이 나르시스와 함께 돌아왔을 때, 네 그 시건방진 모습을 보면 무어라 할까?
-NPC-Bramedb(4)<Speaker>브라메드</Speaker>||:......
-()<Speaker></Speaker>||:그 말에, 득의양양하던 브라메드도 아주 조금 얌전해졌다.
-NPC-Bramedb(4)<Speaker>브라메드</Speaker>||:돌아오면 그때 다시 말해 주렴.+그때까진, 네 귀여운 동생이랑, 저기 저 불량품들이랑 쓰레기 다 챙겨서...+방 빼.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:……
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:다행인 줄 알아, 자상하신 아버님께서 자비를 베풀어 너희에게 다시 한번 기회를 주셨으니까.+또 실패하면... 나도 너희를 더는 변호해 줄 수 없어.
-NPC-MrsGray(4)<Speaker>그레이</Speaker>||:......
-()<Speaker></Speaker>||:브라메드를 노려보던 그레이는 차가운 억지 미소를 지으며 천천히 자리에서 일어섰다.
-NPC-MrsGray(4)<Speaker>그레이</Speaker>||:당부해줘서 정말 고맙구나, 브라메드.
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:천만에... 닥터 그레이.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>417</BIN><BGM>BGM_Empty</BGM>:슈타지 본부, 국장 사무실.
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1><BGM>GF_EV9_Story</BGM>:사무실 문 밖에서 인기척이 나자, 소파에서 계속 안절부절하던 J가 벌떡 일어났다.+하지만 문을 열고 들어온 사람을 보자마자 바로 김이 빠졌다.
-NPC-Keven(0)<Speaker>J</Speaker>||:...왜 너냐?
-NPC-Jason(2)<Speaker>K</Speaker>||:뭔데, 나면 안 되냐?+그러는 너는 무슨 바람이 들었길래 이렇게 일찍 와서 기다리고 있었지?
-NPC-Keven(0)<Speaker>J</Speaker>||:나 30분이나 기다렸거든? 나 참, 맨날 나한테 시간 엄수하라면서 정작 너는 꼭 아슬아슬하게 오는데?
-NPC-Jason(2)<Speaker>K</Speaker>||:네가 정신 차렸으면 된 거지 뭘.+하지만 너무 일찍 와서 기다리는 것도 매너가 아니라는 걸 명심해라.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:K는 어깨를 으쓱하고는 서류가방을 옆구리에 끼고 J의 옆에 앉았다.
-NPC-Jason(2)<Speaker>K</Speaker>||:가만 못 있겠나 보군?
-NPC-Keven(0)<Speaker>J</Speaker>||:흥분돼서 손에서 땀이 다 난다 야.+다시 제대로 된 임무를 맡을 수 있다 생각하니까, 자꾸 웃음이 나와.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:K는 주머니에서 담배 한 개비를 꺼내 물었다가, 여기가 상관의 사무실인 걸 떠올리고는 아쉬운 눈치로 도로 집어넣았다.
-NPC-Jason(2)<Speaker>K</Speaker>||:번아웃이라도 되진 않았을까 했더니만.+쓸데없는 걱정이었군.
-NPC-Keven(0)<Speaker>J</Speaker>||:모나가 아직도 수복실에 누워있잖냐. 걔가 마인드맵의 마지막 기억이 내가 자살하려는 꼴이었는데.+기운 안 내면 걔가 돌아와서 내 머리통 깨버릴 거다 아마.
-NPC-Jason(3)<Speaker>K</Speaker>||:하하하, 그건 그렇군.
-()<Speaker></Speaker>||:K가 안도하며 웃다 목소리를 낮췄다.
-NPC-Jason(3)<Speaker>K</Speaker>||:...다 너 혼자 짊어지려 하진 마라.
-NPC-Keven(0)<Speaker>J</Speaker>||:예이 예이.
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1><SE1>AVG_Walk</SE1>:또다시 문이 열려, 두 사람의 대화를 끊었다. 로미 국장이었다.+그녀는 뚜벅뚜벅 걸어 들어오며, 둘에게는 눈총도 주지 않고 자료 더미를 탁상에 쿵 내려놓기만 했다.
-NPC-Romy(0)<Speaker>로미</Speaker>||:됐으니까 앉아.
-()<Speaker></Speaker>||:뒤에도 눈이 달렸는지, 막 일어나려던 둘을 고개도 안 돌리고 제지했다.
-NPC-Keven(0)<Speaker>J</Speaker>||:...이번 임무는 뭡니까?
-NPC-Romy(0)<Speaker>로미</Speaker>||:아주 중요한 임무지.+하지만 난 따로 용무가 있어, 이번 임무의 책임자로...
-()<Speaker></Speaker>||:K가 반사적으로 허리를 쫙 폈다.
-NPC-Romy(0)<Speaker>로미</Speaker>||:...특별 고문을 초청해 지휘를 부탁했다.
-NPC-Keven(0)<Speaker>J</Speaker>||:특별 고문이요?
-NPC-Romy(0)<Speaker>로미</Speaker>||:그 사람의 지휘를 얌전히 따르고, 날 귀찮게 하지 마라.+임무 내용은 고문에게 다 전달했으니, 설명은 본인에게 듣도록.+알았... 슈바벤, 표정이 그게 뭐지?
-NPC-Jason(4)<Speaker>K</Speaker>||:...암 것도 아님다.
-()<Speaker></Speaker>||:K는 눈에 띄게 시무룩한 눈치였다.
-NPC-Romy(0)<Speaker>로미</Speaker>||:그럼 나머진 알아서 해라. 슈타지의 명예에 먹칠만 하지 말도록.
-()<Speaker></Speaker>||:말을 마치고 로미는 바로 떠나려했다.
-NPC-Keven(0)<Speaker>J</Speaker>||:잠깐만요.
-NPC-Romy(0)<Speaker>로미</Speaker>||:뭐지, 케빈 요원?
-NPC-Keven(0)<Speaker>J</Speaker>||:이대로 그냥 가시는 겁니까? 그 특별 고문이란 사람 소개부터 시켜 주셔야 하지 않습니까?
-NPC-Romy(0)<Speaker>로미</Speaker>||:그럴 필요 없다.
-NPC-Keven(4)<Speaker>J</Speaker>||:그럴 필요 없다는 건 또 무슨 소립니까!?
-()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:그때, 누가 똑똑 문을 노크했다.
-NPC-Romy(0)<Speaker>로미</Speaker>||:들어와라.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:사무실의 문이 천천히 열리면서, 둘에게 아주 익숙한 얼굴이 조금 긴장한 기색으로 들어왔다.
-()<Speaker>지휘관</Speaker>||:...어, K? 오랜만이다.
-NPC-Jason(2)<Speaker>K</Speaker>||:......
-()<Speaker></Speaker>||:K는 벙찐 표정으로 그 "특별 고문"을 쳐다봤다.
-NPC-Romy(0)<Speaker>로미</Speaker>||:그러니까 소개할 필요 없다 한 거다.
-()<Speaker></Speaker>||:로미 국장은 어깨를 으쓱하기만 했다.
-()||<黑点1>:
-()<Speaker>지휘관</Speaker>||<黑点2><BIN>417</BIN>:로미 국장이 우리에게 지시한 사항은, 이 갈라테아 소유의 시설들을 전부 조사해보란 거다.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:지휘관은 로미 국장이 두고 간 서류를 집어, 빠르게 펼쳐 넘겨보였다.+서류에는 의도적으로 먹칠된 곳이 잔뜩이어서, 무언가 숨기는 게 있음이 명백했다.
-NPC-Keven(5)<Speaker>J</Speaker>||:그렇군... 그렇구나...
-()<Speaker></Speaker>||:J가 주먹을 불끈 쥐고 흥분했다.
-NPC-Keven(5)<Speaker>J</Speaker>||:드디어 놈들한테 한방 먹이러 가는구나!
-NPC-Jason(2)<Speaker>K</Speaker>||<SE1>AVG_20Winter_Book</SE1>:그거엔 나도 이견 없다만, 내용은 둘째 치고 이 두께...+처리할 곳이 상당할 것 같은데?
-()<Speaker></Speaker>||:지휘관이 펼쳐 보인 서류의 두께를 가늠하며, K는 눈살을 찌푸리고 의견을 피력했다.
-NPC-Jason(2)<Speaker>K</Speaker>||:할 거면 신속히 움직여야 한다.+이건 놈들과의 시간 싸움이야.+놈들이 우리보다 먼저 증거를 빼돌리면, 우리의 패배다.
-NPC-Jason(2)<Speaker>K</Speaker>||:그러니 가장 중요도가 높은 곳을 정해, 그곳을 중점적으로 파헤치는 게 좋겠지.
-NPC-Keven(0)<Speaker>J</Speaker>||:그야 고민할 것도 없지, 그레이 그년의 사무실은 아주 비밀투성이일 테니까.
-NPC-Jason(2)<Speaker>K</Speaker>||:괜찮은 생각이군.+지금까지 우리의 수사에 도움이 된 정보 거의 대부분이, 거기서 유출된 것이니 말이지.+게다가 그곳은 지금 폐쇄되었으니, 자료도 제자리에 남아있을 터다.
-()<Speaker>지휘관</Speaker>||<SE1>AVG_20Winter_Book</SE1>:......
-()<Speaker></Speaker>||:지휘관은 수중의 자료를 자세히 살펴보다, J와 K가 한창 토론을 벌일 때 고개를 들었다.
-()<Speaker>지휘관</Speaker>||:내 생각은 좀 달라.
-NPC-Jason(2)<Speaker>K</Speaker>||:뭐지?
-()<Speaker></Speaker>||:지휘관이 이의를 제기하리라 예상 못했는지, K가 궁금해하며 지휘관을 보았다.
-()<Speaker>지휘관</Speaker>||:베를린 교도소를 조사해봐야겠어.
-NPC-Keven(0)<Speaker>J</Speaker>||:교도소요? 그러니까 그... 저번에 댁이 한바탕 날뛰어서 잠시 폐쇄된 그 교도소 말입니까?+하지만 거기엔 딱히 남은 것도 없지 않나요? 왜 거길 조사하잔 겁니까?
-()<Speaker>지휘관</Speaker>||:어제, 잠깐이나마 안젤리아와 대화할 수 있었어.
-()<Speaker></Speaker>||:그날의 싸움을 다시 떠올리니, 지휘관이 손에 쥔 자료에 주름이 잡혔다.
-NPC-Keven(0)<Speaker>J</Speaker>||:뭐라고요...?
-()<Speaker></Speaker>||:J도 눈을 부릅 떴다.
-()<Speaker>지휘관</Speaker>||:사정이 복잡하니 요점만 말하지.+그때, 안젤리아는 패러데우스에게 협박을 받는 상황이었어.+내게 한두 마디밖에 못했지만, 힌트를 주기엔 충분했지.
-NPC-Jason(2)<Speaker>K</Speaker>||:힌트... 교도소와 관련된 힌트를?
-()<Speaker></Speaker>||:K는 즉시 지휘관의 뜻을 이해했다.
-()<Speaker>지휘관</Speaker>||:소련에서 "문신"이라 하면, 딱 한 곳밖에 없거든.
-()<Speaker></Speaker>||:지휘관은 안젤리아의 굴하지 않는 얼굴을 다시 떠올렸다.+그런 그녀가, 아무 의미도 없는 말을 했을 리 없었다.
-NPC-Jason(2)<Speaker>K</Speaker>||:...알겠다.+그럼 다른 팀들에게 갈라테아 산하 실험실을 수사하라 지시하지.+우리는 주 부대와 그 문닫은 교도소에 가서 뭐가 있는지 살펴보자고.
-()<Speaker>지휘관</Speaker>||:그래.
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:K가 고개를 끄덕이고 자리에서 일어섰지만, 지휘관의 시선은 다시 자료 속의 그레이의 사진을 향했다.
-NPC-Keven(0)<Speaker>J</Speaker>||:......
-()<Speaker>지휘관</Speaker>||:왜 그러지?
-NPC-Keven(0)<Speaker>J</Speaker>||:아뇨... 그냥, 댁이 와 줘서 정말 다행이란 생각이 들어서 말이죠.
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1><BGM>BGM_Empty</BGM>:J는 웃으며 지휘관의 어깨를 툭툭 치곤, K를 뒤따라 사무실을 나섰다.
-()<Speaker></Speaker>||:......
-()<Speaker></Speaker>||:......
-()<Speaker></Speaker>||:국장 사무실 안에는 지휘관만 남게 되었지만, 조용해지진 않았다. 얼마 안 가 바깥에서 J가 경악하며 내지르는 소리가 들려왔다.
-()<Speaker>J</Speaker>||<震屏3><SE1>AVG_lifttable</SE1>:<size=55>인형 아가씨들 이게 뭡니까 대체!! 슈타지의 무기고가 무슨 아가씨들 놀이터인 줄 알아요!?</size>
-()||<黑点1>:
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点2><BIN>417</BIN><BGM>GF_EV3_Bingocard_loop</BGM>:에이, 쪼잔하게스리! 우리 이제 동료잖아!
-NPC-Keven(4)<Speaker>J</Speaker>||:이봐요 거기 당신! 짐가방에 탄약 집어넣는 거 다 봤어요! 그거 당신 총이랑 구경도 안 맞는 거잖습니까!!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:어머, 나 말이야? 증거도 없으면서 사람을 모함하면 안 되지~
-NPC-Keven(4)<Speaker>J</Speaker>||:아오 진짜... 그래, 탄약 털어 가는 건 이해한다 칩시다. 근데 당신은 왜 여기서 칼 갈아요?!
-BOSS-2(1)<Speaker>엑스큐셔너</Speaker>||:응? 여기서 칼 갈면 안 된다는 말 있어?
-NPC-Keven(4)<Speaker>J</Speaker>||:지휘관!! 애들 간수 안 합니까!?
-()<Speaker>지휘관</Speaker>||:푸흡...
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:결국 웃음 참지 못한 지휘관은 계속 자료를 넘겨 보면서 못 들은 척 낄낄댔다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>327</BIN>:폐쇄된 베를린 교도소.
-()<Speaker></Speaker>||<BGM>GF_EV9_Intermission</BGM>:팽팽하게 쳐진 차단 테이프가 벽에 난 구멍을 막았고, 그 너머에 인기척이라곤 없었다.+폭동 사건 이후 불가피하게 폐쇄된 이곳의 수감자들은 전부 다른 교도소로 이송됐다.+거기에 일련의 사건들까지 겹쳐, 지금까지도 정부가 마땅한 대책을 내놓지 못해 방치된 상태였다.
-()<Speaker>지휘관</Speaker>||:그걸 감안한다면, 여기는 확실히 눈을 피하기 좋은 사각지대야.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:엄청 썰렁하네... 저번에 왔을 땐 시끌시끌했는데.
-RO635Mod(0)<Speaker>RO635</Speaker>||:ELID의 퍼레이드를 볼 바에야 지금처럼 조용한 게 백 배는 나아...
-NytoIsomer(3)<Speaker>댄들라이</Speaker>||:AR-15, 무슨 생각해?
-AR15Mod(4)<Speaker>AR15</Speaker>||:......
-()<Speaker></Speaker>||:AR-15가 난처해하며 시선을 피하자, 지휘관은 그녀가 지금 무슨 생각인지 알 것 같았다.
-()||<黑屏1>:
-()<Speaker>마흐리안</Speaker>||<BIN>9</BIN><黑屏2>:제가 언젠가 비명횡사하더라도, 운명이 그리 정했기 때문이라 믿기로 했어요.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>327</BIN><黑屏2>:그녀가 햇살을 받으며 걸어와, 그 촉촉한 눈망울로 바라보는 것만 같았다.+하지만 지휘관은 급히 머리를 저어 잡념을 뿌리쳤다. 지금은 눈앞의 일에 집중해야 했다.
-()<Speaker>지휘관</Speaker>||:뭣 좀 찾았어?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>중앙 제어 시스템도 저번에 봤을 때랑 똑같아. 하나도 안 변했어.</color>
-NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>이쪽 구역도 별거 없습니다, 그냥 평범한 수감자 생활관이에요.</color>
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>여기도 마찬가지다. 특별히 눈에 띄는 건 없군.</color>
-()<Speaker>지휘관</Speaker>||:계속 수색해줘.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>나 말 아직 안 끝났거든? 저번이랑 똑같다고만 했지 아무것도 못 찾았다곤 안 했어.</color>
-UMP45Mod(0)<Speaker>지휘관</Speaker>||:뭐지?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>감시 시스템은 전부 정지했고 이전의 영상 기록도 싹 다 지워졌지만, 카메라의 설치 위치는 이전 그대로야.</color>+<color=#00CCFF>카메라의 배치도 화장실에서 욕실까지 커버할 정도로 빈틈없는데...</color>+<color=#00CCFF>딱 한 곳, 한 물품 보관실엔 카메라가 없어.</color>
-UMP45Mod(0)<Speaker>지휘관</Speaker>||:어느 구역이지? 지도에 표시해 줘.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:<color=#00CCFF>벌써 했지. 위치상 J가 제일 가깝네.</color>
-NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>확인했습니다, 당장 가서 살펴봅죠.</color>
-()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_disconnect</SE1>:우리도 가보자.
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>88</BIN>:UMP45가 표시한 물품 보관실.
-NPC-Keven(0)<Speaker>J</Speaker>||:엥, 댁도 왔어요?
-()<Speaker>지휘관</Speaker>||:단서가 될 만한 건 찾았어?
-NPC-Keven(0)<Speaker>J</Speaker>||:아뇨, 제 부하들이 이 잡듯 뒤졌는데 청소도구 말곤 아무것도 없었습니다.
-()<Speaker>지휘관</Speaker>||:RO, 물건들 하나씩 다 검사해 봐.
-RO635Mod(0)<Speaker>RO635</Speaker>||:알겠습니다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 물건을 전부 빼낸 물품 보관실에 들어가, 벽과 바닥의 모든 타일을 손으로 더듬어보았다.
-NytoIsomer(3)<Speaker>댄들라이</Speaker>||:여기, 뒤가 비었습니다.
-()<Speaker>지휘관</Speaker>||:뭐?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>지휘관, 지금 거기서 뒤로 돌아봐. 응, 문 맞은편의 그 벽.</color>
-()<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1>:이쪽 맞아?
-NytoIsomer(3)<Speaker>댄들라이</Speaker>||:네, 그쪽입니다.+...지휘관님은 건드리지 마십시오.
-RO635Mod(0)<Speaker>RO635</Speaker>||:SOP2.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:나한테 맡겨!
-()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1>:SOP2가 지휘관을 비켜 세우고, 냅다 그 벽을 손바닥으로 쾅 쳤다.
-()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1><震屏3>:드르륵——
-()<Speaker>지휘관</Speaker>||:어?!
-()||<黑点1>:
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker><Shake>0.1</Shake>||<黑点2><BIN>46</BIN><SE1>ClothingUp</SE1>:우왁!?
-()<Speaker></Speaker>||:벽이 순식간에 열려, SOP2는 내지른 팔의 관성에 덤블링을 하며 벽 너머로 사라졌다.
-()<Speaker>지휘관</Speaker>||:이건...?
-RO635Mod(3)<Speaker>RO635</Speaker>||:비밀 문...! 아, SOP2!? 괜찮아?!
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>역시 뭐가 있었네. 잠깐 기다려, 우리도 거기로 갈게.</color>
-()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_connect</SE1>:J, 너희 인원도 집합시켜.
-()<Speaker>지휘관</Speaker>||:이봐, K! 이쪽에 월척이다!
-()<Speaker>지휘관</Speaker>||:다 같이 쳐들어가 보자고.
-()<Speaker></Speaker>||<SE1>AVG_door_storehouse</SE1>:드러난 엘레베이터의 버튼은, 수상한 초록빛으로 빛났다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>222</BIN>:날카로운 소음을 내며, 엘레베이터는 최하층으로 내려갔다.+그리고 문이 열리자, 넓다란 창고가 나타났다.
-()<Speaker>지휘관</Speaker>||:...안젤리아 씨.
-()<Speaker></Speaker>||:눈앞의 광경에, 지휘관은 경이로워하며 중얼거렸다.+곳곳에 버려진 화물 상자에는 갈라테아의 로고가 선명하게 그려져 있었다.
-NPC-Keven(0)<Speaker>J</Speaker>||:교도소 밑에 이런 공간이 있었다니...
-()<Speaker>지휘관</Speaker>||:갈라테아는 이제 뭐가 나와도 이상할 거 없군.+전원, 경계 유지. J와 K는 위에 연락해 여기 있는 물건들 전부 회수해.+우리는 더 안으로 들어가 보자. 경계는 RO와 45가 맡는다.+에이전트, 호위를 부탁한다.
-NPC-Keven(0)<Speaker>J</Speaker>||:하나도 안 남기고 싹 다 챙기죠.
-BOSS-8(0)<Speaker>에이전트</Speaker>||:주인님의 명을 받드나이다. 발밑에 주의하시옵소서.
-()<Speaker></Speaker>||:바닥에 쌓인 먼지 사이로 난 흔적을 따라, 지휘관은 패러데우스의 뒤를 쫓았다.+넓은 창고 안으로 난 미로 같은 통로를, 지휘관은 철혈 인형들의 호위와 함께 천천히 나아갔다.
-RO635Mod(2)<Speaker>RO635</Speaker>||:진짜 적응 안 되는 광경이야...
-AR15Mod(4)<Speaker>AR15</Speaker>||:내 말이.
-()<Speaker></Speaker>||:AR팀의 비아냥에도 아랑곳않고, 에이전트는 말없이 계속 선두를 맡았다.+그러다 갑자기 걸음을 멈췄다.
-BOSS-8(0)<Speaker>에이전트</Speaker>||:주인님, 여기 이 발자국은 아직 선명합니다.
-()<Speaker>지휘관</Speaker>||:흠?
-()<Speaker></Speaker>||:지휘관이 철혈 인형들의 호위에서 잠시 벗어나, 에이전트 곁으로 다가왔다.
-()<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1>:아무래도, 이제 막 짐을 옮기기 시작했나 보군... 놈들이 아직 여기에 있어.
-BOSS-7(0)<Speaker>게이저</Speaker>||:아키텍트도 함께 왔다면 바로 여길 폭파해버렸을 텐데.
-BOSS-5(0)<Speaker>알케미스트</Speaker>||:지휘관, 호위 범위에서 벗어나지 말아 줄래? 상대가 그 괴물들이라면 잠깐의 방심도 금물이라고.
-BOSS-1(0)<Speaker>스케어크로우</Speaker>||:아직까지는 적의 기척이 포착되지 않습니다.
-BOSS-8(0)<Speaker>에이전트</Speaker>||:다른 방향을 수색해 보시겠사옵니까?
-()<Speaker>지휘관</Speaker>||:댄들라이?
-NytoIsomer(3)<Speaker>댄들라이</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:이 창고에서 익숙한 기운이 풍기지만... 정확한 위치는 모르겠습니다.
-()<Speaker></Speaker>||:애매모호한 정보에, 지휘관은 눈살을 찌푸리며 경계했다.
-NytoIsomer(5)<Speaker>댄들라이</Speaker>||<BGM>BGM_Empty</BGM>:...잠깐.+위치를 모르겠는 것이 아니었습니다. 수시로 변하는 중입니다.+초고속이동... 너무 빠릅니다. 지휘관님! 물러나세요!
-()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1><BGM>10130</BGM>:부웅——+귀에 익은 진동음이 다시 들렸고, 지휘관이 반응했을 땐 이미 그 하얀 그림자가 코앞에 있었다.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1><震屏3>:검은 칼과 하얀 검이 부딪혀 튀긴 불똥이, 한순간 통로를 밝혔다.
-BOSS-2(1)<Speaker>엑스큐셔너</Speaker>||:치잇, 너 뭐야 인마!
-NPC-grig(0)<Speaker>틸</Speaker>||:......
-()<Speaker></Speaker>||:눈깜짝할 새에 10m 넘게 물러난 틸이, 잽싸게 나섰던 엑스큐셔너를 차가운 눈빛으로 노려봤다.
-BOSS-8(0)<Speaker>에이전트</Speaker>||:엑스큐셔너, 괜찮느냐?
-BOSS-2(1)<Speaker>엑스큐셔너</Speaker>||:아니.
-()<Speaker></Speaker>||:틸의 검을 받아낸 엑스큐셔너의 팔은 파르르 떨리고 있었다.
-BOSS-2(1)<Speaker>엑스큐셔너</Speaker>||:저놈이랑 칼 몇 번 더 맞대면 인공근육 교체비로 통장 거덜나겠어.
-()<Speaker>지휘관</Speaker>||:......
-()<Speaker></Speaker>||:지휘관도 틸을 노려보았다.+그녀가 여기 나타났다는 것은, 즉...
-NPC-grig(0)<Speaker>틸</Speaker>||:......!
-()<Speaker></Speaker>||:틸이 고개를 살짝 들더니, 잔상을 남기며 허공으로 사라졌다.
-()<Speaker>지휘관</Speaker>||:놈이 도망친다! 쫓아라!
-()<Speaker>철혈 일동</Speaker>||:예!
-()||<黑点1>:
-()<Speaker></Speaker>||<BIN>222</BIN><黑点2>:......
-BOSS-8(0)<Speaker>에이전트</Speaker>||:발자국은 여기서 끊겼사옵니다.
-()<Speaker>지휘관</Speaker>||:이 주변에 숨을 만한 공간은 안 보이는데...
-()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_connect</SE1>:목표를 놓쳤다. 45, 눈에 띄는 거 없어?
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>아니, 아무것도. 화물 몇 개 찾아낸 건 J랑 K한테 넘겼어.</color>+<color=#00CCFF>우리도 지금 지휘관한테 가는 중이야.</color>
-UMP45Mod(0)<Speaker>지휘관</Speaker>||:알았다, 오면서 흔적은 없나 주의해.
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:지휘관을 통신을 종료하고 태블릿의 화면을 껐다.+매끄러운 액정 표면에 비치는 것은 지휘관의 얼굴과... 하얀 그림자.
-()<Speaker>지휘관</Speaker>||:뒤다!
-()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1>:부웅——+챙! 챙!+금속이 맞부딪치는 경쾌한 소리가 두 번 일었다. 이번엔 엑스큐셔너와 알케미스트가 동시에 반응해 틸의 검을 받아낸 것이었다.
-BOSS-2(1)<Speaker>엑스큐셔너</Speaker>||:하핫, 기다렸다!
-BOSS-5(0)<Speaker>알케미스트</Speaker>||:지나치게 예리한 칼인걸... 바람 가르는 소리가 너무 커.+눈치를 안 챌래야 안 챌 수가 없어.
-NPC-grig(0)<Speaker>틸</Speaker>||:......
-()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1>:틸은 패러데우스가 남긴 실험 설비 위에 서, 칼을 가볍게 털어 다시 진동음을 냈다.
-NPC-grig(0)<Speaker>틸</Speaker>||:더 이상 오지 마라.+돌아가라.
-()<Speaker>지휘관</Speaker>||:우리가 안으로 들어가는 게 그렇게 걱정되나? 저 안에 뭐가 있길래 그러지?
-NPC-grig(0)<Speaker>틸</Speaker>||:......
-BOSS-3(0)<Speaker>헌터</Speaker>||:...휠체어다.
-BOSS-3(0)<Speaker>지휘관</Speaker>||:뭐가 있다고?
-BOSS-3(0)<Speaker>헌터</Speaker>||:문앞에 휠체어가 있는 것 같다.+스케어크로우?
-BOSS-1(0)<Speaker>스케어크로우</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:드론, 위치했습니다. ...호오.+수갑과 족쇄에, 아직 닦지 못한 신선한 혈흔까지.+누군가를 포박하기 위한 휠체어가 분명하군요.
-()<Speaker>지휘관</Speaker>||:안젤리아... 안젤리아 씨다!+안젤리아 씨! 거기 있습니까!!
-NytoIsomer(3)<Speaker>댄들라이</Speaker>||:매우 두꺼운 문입니다. 뒤에 사람이 있더라도 듣지 못할 겁니다.
-()<Speaker>지휘관</Speaker>||:안젤리아 씨!!
-()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1>:부웅——+하얀 검이 지휘관의 앞을 가로막았다.
-NPC-grig(0)<Speaker>틸</Speaker>||:......
-()<Speaker>지휘관</Speaker>||:...막을 셈이라면, 너부터 해치울 수밖에.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관 옆에서 나선 엑스큐셔너가 검은 칼을 스윽 닦았다.+다른 쪽의 알케미스트도, 틸의 얼굴을 보며 흥분했다.
-BOSS-8(0)<Speaker>에이전트</Speaker>||:주인님의 명이시다.+해치워라.
-()||<黑点1><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑点2><BIN>336</BIN><SE1>AVG_20_Winter_TVnews_Start</SE1>:[ 긴급 속보를 전해드립니다 ]
+()<Speaker>섀도리스</Speaker>||<common_effect>%%code=NPC_TV_6%%</common_effect>:시청자 여러분 안녕하십니까, DRF의 섀도리스입니다. 방금 들어온 국제 속보부터 먼저 전해드리겠습니다.
+()<Speaker>섀도리스</Speaker>||:어젯밤, 신소련에서 대규모 무력 충돌이 발생했습니다. 신소련 내 다수의 PMC가 정체불명의 세력에게 습격받아, 상당수가 심각한 피해를 입었다고 합니다.+전자 봉쇄로 인해 자세한 정보는 입수가 불가능해, 현재 추가적인 조사를 기다리는 중입니다.+이어서, 국내 시사 뉴스입니다.
+()<Speaker>섀도리스</Speaker>||<BIN>343</BIN>:근일, 갈라테아 그룹 산하의 제약 공장 다수에 내려진 운영 정지로 인한 여파가 새로운 국면을 맞이했습니다.
+()<Speaker>섀도리스</Speaker>||:독일위생보건위원회와 식약청, 갈라테아 그룹의 협력사의 관계자 다수가 검거되었다는 소식입니다. 밝혀진 혐의는 실험 결과 날조, 분석 보고 위조 등이 있습니다.+전 갈라테아 직원 C 씨는 사내 고위직이 횡령과 주가 조작 등의 부정부패에 연루되었다 폭로했으며, 현재 경찰을 비롯한 관련 부서들이 이를 입건하여 다각도에서 수사하고 있습니다.
+()<Speaker>섀도리스</Speaker>||<BIN>353</BIN>:한편, 그레이 생명과학연구 센터의 신임 책임자 한나 교수가 전날 밤 스스로 목숨을 끊은 채 발견되었습니다. 전임 책임자 그레이 교수는 아직도 행방이 묘연한 정황입니다.+아, 취재진이 연구 센터에 도착했다고 합니다. 현장 특파원에게 연결합니다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<关闭蒙版>%%</关闭蒙版><黑屏2><BIN>84</BIN>:......
+()<Speaker>현장 기자</Speaker>||:네, 지금 저희는 현장에 나와 있는 시민을 인터뷰하고 있습니다.+안녕하세요, DRF입니다. 최근 들어 소란이 끊이질 않는 갈라테아 제약 공장 가동 정지 사건에 대해서 알고 계십니까?
+()<Speaker>시민A</Speaker>||:알다마다요. 전부터 광고 잔뜩 뿌리면서 구세주 행세하더니만, 이게 뭐예요? 믿던 사람들 싹 다 배신하고, 진지하게 연구하던 다른 데까지 탄압받게 생겼잖아요.
+()<Speaker>현장 기자</Speaker>||:...네, 인터뷰에 응해 주셔 감사합니다.+이쪽 분, 갈라테아 제약 공장 가동 정지 사건에 대해 한 말씀해 주시겠습니까?
+()<Speaker>시민B</Speaker>||:망했어, 망했어요... 내가 주식 투자한 거 싹 다 날라갔다고요...+으하하하, 누가 이런 식으로 쫄딱 망할 거라 생각이나 했겠냐고요! 하하하하――
+()<Speaker>현장 기자</Speaker>||:어... 다소 흥분하신 거 같으니 다음 분을 모셔보죠. 제약 공장 가동 정지 사건에 대해 한 말씀해 주시겠습니까?
+()<Speaker>시민C</Speaker>||:하여간 돈 많아서 잘난 놈 하나도 없어! 겉으론 순진하고 선량한 척이나 하고, 다 더러운 사기꾼이야!+우리 목숨 가지고 장난치냐? 엉? 콱 다 죽어버려야 돼!+그리고 그레이 너! 보고 있으면 잘 들어! 내가 그렇게 믿었는데, 돈을 먹고 튀어!? 지옥 끝까지라도 쫓아갈 거야, 알아들었어!! 야!!
+()<Speaker>현장 기자</Speaker>||:어, 앗, 죄송합니다! 현장 상황이 다소 혼란하여 이만 인터뷰를 마치겠――
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:격분한 시민들에게 이리저리 떠밀리며 당황한 기자가 황급히 방송국과의 통신을 끊었다.
+()||<黑屏1>:
+()<Speaker>섀도리스</Speaker>||<黑屏2><BIN>343</BIN><common_effect>%%code=NPC_TV_7%%</common_effect>:...현장 특파원의 노고에 감사드립니다.
+()<Speaker>섀도리스</Speaker>||<BIN>336</BIN>:이상으로, 오늘의 특보를 마치겠습니다. DRF, 섀도리스입니다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><关闭蒙版>%%</关闭蒙版><BIN>9</BIN><SE1>AVG_tele_disconnect</SE1>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>GF_EV9_Intermission</BGM><黑屏2><SE1>AVG_Walk</SE1><BIN>323</BIN>:패러데우스의 기지. 바쁘게 동분서주하던 검은 니토들이, 들려온 익숙한 소리에 일제히 걸음을 멈추었다.+그레이가 돌아온 것이었다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:다 나가.
+Nyto(0)<Speaker>니토</Speaker>||:그레이 님...?
+NPC-MrsGray(3)<Speaker>그레이</Speaker>||:두 번 말하게 하지 마라.
+()<Speaker></Speaker>||:느닷없는 위협에 화들짝 놀라 품의 서류 더미를 바닥에 쏟은 검은 니토들은, 상관의 사나운 눈빛에 허둥지둥 방에서 빠져나갔다.+별 상관 없는 서류를 밟으며, 그레이는 천천히 의자에 걸어가 앉아 신경질적으로 관자놀이를 문질렀다.
+NPC-grig(1)<Speaker>틸</Speaker>||:......
+()<Speaker></Speaker>||:틸도 소리 없이 그녀의 뒤에서 나타났다.
+NPC-grig(0)<Speaker>틸</Speaker>||:...그녀를 데려왔구나.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:유일한 희소식이지.
+()<Speaker></Speaker>||:잔뜩 곤두섰던 신경을 조금 풀면서, 그레이는 한숨을 푹 쉬었다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:스승님은 아버님께 돌려보냈어... 회복할 시간이 필요해.+하지만 시간은 많지 않아. 한시라도 빨리 그녀가 돌아와 일을 재개해야 할 텐데...
+NPC-grig(1)<Speaker>틸</Speaker>||:어쩌면 당분간 휴식을 취하는 편이, 그녀에게도 좋을지 모른다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:틸은 그레이를 바라보며 그녀의 어깨에 손을 얹었다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:틸, 몰리도는 대체할 수 없어.
+NPC-grig(2)<Speaker>틸</Speaker>||<SE1>ClothingUp</SE1>:내겐 네가 대체할 수 없는 존재다.
+NPC-MrsGray(3)<Speaker>그레이</Speaker>||:틸...
+NPC-grig(1)<Speaker>틸</Speaker>||:...아버님께선 뭐라 하셨지?
+()<Speaker></Speaker>||:그레이의 기분이 더 나빠지기 전에, 틸이 화제를 전환했다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:아무 말씀도 없으셨어... 다만, 기분이 아주 안좋으시다는 것만은 확실해.+스승님이라면 이럴 때 어떡하면 좋을지 아실 텐데...
+()<Speaker></Speaker>||:갈라테아 그룹은 여태까지와는 차원이 다른 타격을 입었다.+그녀가 지금까지 "빌려" 쓰던 신분의 입지마저 흔들렸다.
+NPC-MrsGray(3)<Speaker>그레이</Speaker>||:어쩌면... 내 지금 신분을 포기할 수밖에 없을지도 모르겠구나.
+()<Speaker></Speaker>||:그레이는 의자의 팔걸이를 잡으면서 조금 분한 목소리를 냈다.
+()<Speaker>브라메드</Speaker>||:"어쩌면"이 아니야, 닥터 그레이.+지금 바로 방 빼야 해.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:......!
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:그때, 건방진 브라메드의 목소리가 문 밖에서 들려왔다. 그녀는 문을 활짝 열더니, 사뿐사뿐 안으로 들어왔다.
+NPC-grig(0)<Speaker>틸</Speaker>||:...브라메드.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:안녕 틸~ 안색 좋아 보이니 다행이야.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:네 일은 어쩌고 여기 왔지?+설마, 스승님이 돌아와서 긴장한 거냐?
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:내가 왜? 몰리도가 무슨 잘못을 저질렀든 나랑은 상관없는데.+그리고... 아버님께서 내게 새로운 임무를 주셨거든.+아무래도 그녀가 현장에 복귀하려면 시간이 많이 걸리겠어~
+NPC-MrsGray(3)<Speaker>그레이</Speaker>||:뭐라고...?
+()<Speaker></Speaker>||:냉랭한 눈빛으로 브라메드를 노려보던 그레이가 언성을 높였다.+그 광경에, 브라메드는 실로 유쾌함을 금할 수 없었다.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:아버님이, 직접, 내게 내려 주신 명령이지.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:브라메드는 거침없이 그레이의 맞은편에 앉아, 소파를 퉁퉁 두드리며 자만했다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:...아버님은 늘 현명한 판단을 내리시지.+그 소련놈들 손에서 온갖 고문을 당했으니, 스승님에게 긴 휴식이 필요한 건 당연해.+하지만 그렇다고 수확이 없었던 것도 아니지. 나르시스를 쓰러뜨린 존재와 접촉했으니까.+스승님이 회복하면, 아버님은 다시 그녀를 중용하실 거다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:그리고 스승님이 나르시스와 함께 돌아왔을 때, 네 그 시건방진 모습을 보면 무어라 할까?
+NPC-Bramedb(4)<Speaker>브라메드</Speaker>||:......
+()<Speaker></Speaker>||:그 말에, 득의양양하던 브라메드도 아주 조금 얌전해졌다.
+NPC-Bramedb(4)<Speaker>브라메드</Speaker>||:돌아오면 그때 다시 말해 주렴.+그때까진, 네 귀여운 동생이랑, 저기 저 불량품들이랑 쓰레기 다 챙겨서...+방 빼.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:……
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:다행인 줄 알아, 자상하신 아버님께서 자비를 베풀어 너희에게 다시 한번 기회를 주셨으니까.+또 실패하면... 나도 너희를 더는 변호해 줄 수 없어.
+NPC-MrsGray(4)<Speaker>그레이</Speaker>||:......
+()<Speaker></Speaker>||:브라메드를 노려보던 그레이는 차가운 억지 미소를 지으며 천천히 자리에서 일어섰다.
+NPC-MrsGray(4)<Speaker>그레이</Speaker>||:당부해줘서 정말 고맙구나, 브라메드.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:천만에... 닥터 그레이.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>417</BIN><BGM>BGM_Empty</BGM>:슈타지 본부, 국장 사무실.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1><BGM>GF_EV9_Story</BGM>:사무실 문 밖에서 인기척이 나자, 소파에서 계속 안절부절하던 J가 벌떡 일어났다.+하지만 문을 열고 들어온 사람을 보자마자 바로 김이 빠졌다.
+NPC-Keven(0)<Speaker>J</Speaker>||:...왜 너냐?
+NPC-Jason(2)<Speaker>K</Speaker>||:뭔데, 나면 안 되냐?+그러는 너는 무슨 바람이 들었길래 이렇게 일찍 와서 기다리고 있었지?
+NPC-Keven(0)<Speaker>J</Speaker>||:나 30분이나 기다렸거든? 나 참, 맨날 나한테 시간 엄수하라면서 정작 너는 꼭 아슬아슬하게 오는데?
+NPC-Jason(2)<Speaker>K</Speaker>||:네가 정신 차렸으면 된 거지 뭘.+하지만 너무 일찍 와서 기다리는 것도 매너가 아니라는 걸 명심해라.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:K는 어깨를 으쓱하고는 서류가방을 옆구리에 끼고 J의 옆에 앉았다.
+NPC-Jason(2)<Speaker>K</Speaker>||:가만 못 있겠나 보군?
+NPC-Keven(0)<Speaker>J</Speaker>||:흥분돼서 손에서 땀이 다 난다 야.+다시 제대로 된 임무를 맡을 수 있다 생각하니까, 자꾸 웃음이 나와.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:K는 주머니에서 담배 한 개비를 꺼내 물었다가, 여기가 상관의 사무실인 걸 떠올리고는 아쉬운 눈치로 도로 집어넣았다.
+NPC-Jason(2)<Speaker>K</Speaker>||:번아웃이라도 되진 않았을까 했더니만.+쓸데없는 걱정이었군.
+NPC-Keven(0)<Speaker>J</Speaker>||:모나가 아직도 수복실에 누워있잖냐. 걔가 마인드맵의 마지막 기억이 내가 자살하려는 꼴이었는데.+기운 안 내면 걔가 돌아와서 내 머리통 깨버릴 거다 아마.
+NPC-Jason(3)<Speaker>K</Speaker>||:하하하, 그건 그렇군.
+()<Speaker></Speaker>||:K가 안도하며 웃다 목소리를 낮췄다.
+NPC-Jason(3)<Speaker>K</Speaker>||:...다 너 혼자 짊어지려 하진 마라.
+NPC-Keven(0)<Speaker>J</Speaker>||:예이 예이.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1><SE1>AVG_Walk</SE1>:또다시 문이 열려, 두 사람의 대화를 끊었다. 로미 국장이었다.+그녀는 뚜벅뚜벅 걸어 들어오며, 둘에게는 눈총도 주지 않고 자료 더미를 탁상에 쿵 내려놓기만 했다.
+NPC-Romy(0)<Speaker>로미</Speaker>||:됐으니까 앉아.
+()<Speaker></Speaker>||:뒤에도 눈이 달렸는지, 막 일어나려던 둘을 고개도 안 돌리고 제지했다.
+NPC-Keven(0)<Speaker>J</Speaker>||:...이번 임무는 뭡니까?
+NPC-Romy(0)<Speaker>로미</Speaker>||:아주 중요한 임무지.+하지만 난 따로 용무가 있어, 이번 임무의 책임자로...
+()<Speaker></Speaker>||:K가 반사적으로 허리를 쫙 폈다.
+NPC-Romy(0)<Speaker>로미</Speaker>||:...특별 고문을 초청해 지휘를 부탁했다.
+NPC-Keven(0)<Speaker>J</Speaker>||:특별 고문이요?
+NPC-Romy(0)<Speaker>로미</Speaker>||:그 사람의 지휘를 얌전히 따르고, 날 귀찮게 하지 마라.+임무 내용은 고문에게 다 전달했으니, 설명은 본인에게 듣도록.+알았... 슈바벤, 표정이 그게 뭐지?
+NPC-Jason(4)<Speaker>K</Speaker>||:...암 것도 아님다.
+()<Speaker></Speaker>||:K는 눈에 띄게 시무룩한 눈치였다.
+NPC-Romy(0)<Speaker>로미</Speaker>||:그럼 나머진 알아서 해라. 슈타지의 명예에 먹칠만 하지 말도록.
+()<Speaker></Speaker>||:말을 마치고 로미는 바로 떠나려했다.
+NPC-Keven(0)<Speaker>J</Speaker>||:잠깐만요.
+NPC-Romy(0)<Speaker>로미</Speaker>||:뭐지, 케빈 요원?
+NPC-Keven(0)<Speaker>J</Speaker>||:이대로 그냥 가시는 겁니까? 그 특별 고문이란 사람 소개부터 시켜 주셔야 하지 않습니까?
+NPC-Romy(0)<Speaker>로미</Speaker>||:그럴 필요 없다.
+NPC-Keven(4)<Speaker>J</Speaker>||:그럴 필요 없다는 건 또 무슨 소립니까!?
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:그때, 누가 똑똑 문을 노크했다.
+NPC-Romy(0)<Speaker>로미</Speaker>||:들어와라.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:사무실의 문이 천천히 열리면서, 둘에게 아주 익숙한 얼굴이 조금 긴장한 기색으로 들어왔다.
+()<Speaker>지휘관</Speaker>||:...어, K? 오랜만이다.
+NPC-Jason(2)<Speaker>K</Speaker>||:......
+()<Speaker></Speaker>||:K는 벙찐 표정으로 그 "특별 고문"을 쳐다봤다.
+NPC-Romy(0)<Speaker>로미</Speaker>||:그러니까 소개할 필요 없다 한 거다.
+()<Speaker></Speaker>||:로미 국장은 어깨를 으쓱하기만 했다.
+()||<黑点1>:
+()<Speaker>지휘관</Speaker>||<黑点2><BIN>417</BIN>:로미 국장이 우리에게 지시한 사항은, 이 갈라테아 소유의 시설들을 전부 조사해보란 거다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:지휘관은 로미 국장이 두고 간 서류를 집어, 빠르게 펼쳐 넘겨보였다.+서류에는 의도적으로 먹칠된 곳이 잔뜩이어서, 무언가 숨기는 게 있음이 명백했다.
+NPC-Keven(5)<Speaker>J</Speaker>||:그렇군... 그렇구나...
+()<Speaker></Speaker>||:J가 주먹을 불끈 쥐고 흥분했다.
+NPC-Keven(5)<Speaker>J</Speaker>||:드디어 놈들한테 한방 먹이러 가는구나!
+NPC-Jason(2)<Speaker>K</Speaker>||<SE1>AVG_20Winter_Book</SE1>:그거엔 나도 이견 없다만, 내용은 둘째 치고 이 두께...+처리할 곳이 상당할 것 같은데?
+()<Speaker></Speaker>||:지휘관이 펼쳐 보인 서류의 두께를 가늠하며, K는 눈살을 찌푸리고 의견을 피력했다.
+NPC-Jason(2)<Speaker>K</Speaker>||:할 거면 신속히 움직여야 한다.+이건 놈들과의 시간 싸움이야.+놈들이 우리보다 먼저 증거를 빼돌리면, 우리의 패배다.
+NPC-Jason(2)<Speaker>K</Speaker>||:그러니 가장 중요도가 높은 곳을 정해, 그곳을 중점적으로 파헤치는 게 좋겠지.
+NPC-Keven(0)<Speaker>J</Speaker>||:그야 고민할 것도 없지, 그레이 그년의 사무실은 아주 비밀투성이일 테니까.
+NPC-Jason(2)<Speaker>K</Speaker>||:괜찮은 생각이군.+지금까지 우리의 수사에 도움이 된 정보 거의 대부분이, 거기서 유출된 것이니 말이지.+게다가 그곳은 지금 폐쇄되었으니, 자료도 제자리에 남아있을 터다.
+()<Speaker>지휘관</Speaker>||<SE1>AVG_20Winter_Book</SE1>:......
+()<Speaker></Speaker>||:지휘관은 수중의 자료를 자세히 살펴보다, J와 K가 한창 토론을 벌일 때 고개를 들었다.
+()<Speaker>지휘관</Speaker>||:내 생각은 좀 달라.
+NPC-Jason(2)<Speaker>K</Speaker>||:뭐지?
+()<Speaker></Speaker>||:지휘관이 이의를 제기하리라 예상 못했는지, K가 궁금해하며 지휘관을 보았다.
+()<Speaker>지휘관</Speaker>||:베를린 교도소를 조사해봐야겠어.
+NPC-Keven(0)<Speaker>J</Speaker>||:교도소요? 그러니까 그... 저번에 댁이 한바탕 날뛰어서 잠시 폐쇄된 그 교도소 말입니까?+하지만 거기엔 딱히 남은 것도 없지 않나요? 왜 거길 조사하잔 겁니까?
+()<Speaker>지휘관</Speaker>||:어제, 잠깐이나마 안젤리아와 대화할 수 있었어.
+()<Speaker></Speaker>||:그날의 싸움을 다시 떠올리니, 지휘관이 손에 쥔 자료에 주름이 잡혔다.
+NPC-Keven(0)<Speaker>J</Speaker>||:뭐라고요...?
+()<Speaker></Speaker>||:J도 눈을 부릅 떴다.
+()<Speaker>지휘관</Speaker>||:사정이 복잡하니 요점만 말하지.+그때, 안젤리아는 패러데우스에게 협박을 받는 상황이었어.+내게 한두 마디밖에 못했지만, 힌트를 주기엔 충분했지.
+NPC-Jason(2)<Speaker>K</Speaker>||:힌트... 교도소와 관련된 힌트를?
+()<Speaker></Speaker>||:K는 즉시 지휘관의 뜻을 이해했다.
+()<Speaker>지휘관</Speaker>||:소련에서 "문신"이라 하면, 딱 한 곳밖에 없거든.
+()<Speaker></Speaker>||:지휘관은 안젤리아의 굴하지 않는 얼굴을 다시 떠올렸다.+그런 그녀가, 아무 의미도 없는 말을 했을 리 없었다.
+NPC-Jason(2)<Speaker>K</Speaker>||:...알겠다.+그럼 다른 팀들에게 갈라테아 산하 실험실을 수사하라 지시하지.+우리는 주 부대와 그 문닫은 교도소에 가서 뭐가 있는지 살펴보자고.
+()<Speaker>지휘관</Speaker>||:그래.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:K가 고개를 끄덕이고 자리에서 일어섰지만, 지휘관의 시선은 다시 자료 속의 그레이의 사진을 향했다.
+NPC-Keven(0)<Speaker>J</Speaker>||:......
+()<Speaker>지휘관</Speaker>||:왜 그러지?
+NPC-Keven(0)<Speaker>J</Speaker>||:아뇨... 그냥, 댁이 와 줘서 정말 다행이란 생각이 들어서 말이죠.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1><BGM>BGM_Empty</BGM>:J는 웃으며 지휘관의 어깨를 툭툭 치곤, K를 뒤따라 사무실을 나섰다.
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||:국장 사무실 안에는 지휘관만 남게 되었지만, 조용해지진 않았다. 얼마 안 가 바깥에서 J가 경악하며 내지르는 소리가 들려왔다.
+()<Speaker>J</Speaker>||<震屏3><SE1>AVG_lifttable</SE1>:<size=55>인형 아가씨들 이게 뭡니까 대체!! 슈타지의 무기고가 무슨 아가씨들 놀이터인 줄 알아요!?</size>
+()||<黑点1>:
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点2><BIN>417</BIN><BGM>GF_EV3_Bingocard_loop</BGM>:에이, 쪼잔하게스리! 우리 이제 동료잖아!
+NPC-Keven(4)<Speaker>J</Speaker>||:이봐요 거기 당신! 짐가방에 탄약 집어넣는 거 다 봤어요! 그거 당신 총이랑 구경도 안 맞는 거잖습니까!!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:어머, 나 말이야? 증거도 없으면서 사람을 모함하면 안 되지~
+NPC-Keven(4)<Speaker>J</Speaker>||:아오 진짜... 그래, 탄약 털어 가는 건 이해한다 칩시다. 근데 당신은 왜 여기서 칼 갈아요?!
+BOSS-2(1)<Speaker>엑스큐셔너</Speaker>||:응? 여기서 칼 갈면 안 된다는 말 있어?
+NPC-Keven(4)<Speaker>J</Speaker>||:지휘관!! 애들 간수 안 합니까!?
+()<Speaker>지휘관</Speaker>||:푸흡...
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:결국 웃음 참지 못한 지휘관은 계속 자료를 넘겨 보면서 못 들은 척 낄낄댔다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>327</BIN>:폐쇄된 베를린 교도소.
+()<Speaker></Speaker>||<BGM>GF_EV9_Intermission</BGM>:팽팽하게 쳐진 차단 테이프가 벽에 난 구멍을 막았고, 그 너머에 인기척이라곤 없었다.+폭동 사건 이후 불가피하게 폐쇄된 이곳의 수감자들은 전부 다른 교도소로 이송됐다.+거기에 일련의 사건들까지 겹쳐, 지금까지도 정부가 마땅한 대책을 내놓지 못해 방치된 상태였다.
+()<Speaker>지휘관</Speaker>||:그걸 감안한다면, 여기는 확실히 눈을 피하기 좋은 사각지대야.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:엄청 썰렁하네... 저번에 왔을 땐 시끌시끌했는데.
+RO635Mod(0)<Speaker>RO635</Speaker>||:ELID의 퍼레이드를 볼 바에야 지금처럼 조용한 게 백 배는 나아...
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:AR-15, 무슨 생각해?
+AR15Mod(4)<Speaker>AR15</Speaker>||:......
+()<Speaker></Speaker>||:AR-15가 난처해하며 시선을 피하자, 지휘관은 그녀가 지금 무슨 생각인지 알 것 같았다.
+()||<黑屏1>:
+()<Speaker>마흐리안</Speaker>||<BIN>9</BIN><黑屏2>:제가 언젠가 비명횡사하더라도, 운명이 그리 정했기 때문이라 믿기로 했어요.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>327</BIN><黑屏2>:그녀가 햇살을 받으며 걸어와, 그 촉촉한 눈망울로 바라보는 것만 같았다.+하지만 지휘관은 급히 머리를 저어 잡념을 뿌리쳤다. 지금은 눈앞의 일에 집중해야 했다.
+()<Speaker>지휘관</Speaker>||:뭣 좀 찾았어?
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>중앙 제어 시스템도 저번에 봤을 때랑 똑같아. 하나도 안 변했어.</color>
+NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>이쪽 구역도 별거 없습니다, 그냥 평범한 수감자 생활관이에요.</color>
+NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>여기도 마찬가지다. 특별히 눈에 띄는 건 없군.</color>
+()<Speaker>지휘관</Speaker>||:계속 수색해줘.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>나 말 아직 안 끝났거든? 저번이랑 똑같다고만 했지 아무것도 못 찾았다곤 안 했어.</color>
+UMP45Mod(0)<Speaker>지휘관</Speaker>||:뭐지?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>감시 시스템은 전부 정지했고 이전의 영상 기록도 싹 다 지워졌지만, 카메라의 설치 위치는 이전 그대로야.</color>+<color=#00CCFF>카메라의 배치도 화장실에서 욕실까지 커버할 정도로 빈틈없는데...</color>+<color=#00CCFF>딱 한 곳, 한 물품 보관실엔 카메라가 없어.</color>
+UMP45Mod(0)<Speaker>지휘관</Speaker>||:어느 구역이지? 지도에 표시해 줘.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:<color=#00CCFF>벌써 했지. 위치상 J가 제일 가깝네.</color>
+NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>확인했습니다, 당장 가서 살펴봅죠.</color>
+()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_disconnect</SE1>:우리도 가보자.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>88</BIN>:UMP45가 표시한 물품 보관실.
+NPC-Keven(0)<Speaker>J</Speaker>||:엥, 댁도 왔어요?
+()<Speaker>지휘관</Speaker>||:단서가 될 만한 건 찾았어?
+NPC-Keven(0)<Speaker>J</Speaker>||:아뇨, 제 부하들이 이 잡듯 뒤졌는데 청소도구 말곤 아무것도 없었습니다.
+()<Speaker>지휘관</Speaker>||:RO, 물건들 하나씩 다 검사해 봐.
+RO635Mod(0)<Speaker>RO635</Speaker>||:알겠습니다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 물건을 전부 빼낸 물품 보관실에 들어가, 벽과 바닥의 모든 타일을 손으로 더듬어보았다.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:여기, 뒤가 비었습니다.
+()<Speaker>지휘관</Speaker>||:뭐?
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>지휘관, 지금 거기서 뒤로 돌아봐. 응, 문 맞은편의 그 벽.</color>
+()<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1>:이쪽 맞아?
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:네, 그쪽입니다.+...지휘관님은 건드리지 마십시오.
+RO635Mod(0)<Speaker>RO635</Speaker>||:SOP2.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:나한테 맡겨!
+()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1>:SOP2가 지휘관을 비켜 세우고, 냅다 그 벽을 손바닥으로 쾅 쳤다.
+()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1><震屏3>:드르륵——
+()<Speaker>지휘관</Speaker>||:어?!
+()||<黑点1>:
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker><Shake>0.1</Shake>||<黑点2><BIN>46</BIN><SE1>ClothingUp</SE1>:우왁!?
+()<Speaker></Speaker>||:벽이 순식간에 열려, SOP2는 내지른 팔의 관성에 덤블링을 하며 벽 너머로 사라졌다.
+()<Speaker>지휘관</Speaker>||:이건...?
+RO635Mod(3)<Speaker>RO635</Speaker>||:비밀 문...! 아, SOP2!? 괜찮아?!
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>역시 뭐가 있었네. 잠깐 기다려, 우리도 거기로 갈게.</color>
+()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_connect</SE1>:J, 너희 인원도 집합시켜.
+()<Speaker>지휘관</Speaker>||:이봐, K! 이쪽에 월척이다!
+()<Speaker>지휘관</Speaker>||:다 같이 쳐들어가 보자고.
+()<Speaker></Speaker>||<SE1>AVG_door_storehouse</SE1>:드러난 엘레베이터의 버튼은, 수상한 초록빛으로 빛났다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>222</BIN>:날카로운 소음을 내며, 엘레베이터는 최하층으로 내려갔다.+그리고 문이 열리자, 넓다란 창고가 나타났다.
+()<Speaker>지휘관</Speaker>||:...안젤리아 씨.
+()<Speaker></Speaker>||:눈앞의 광경에, 지휘관은 경이로워하며 중얼거렸다.+곳곳에 버려진 화물 상자에는 갈라테아의 로고가 선명하게 그려져 있었다.
+NPC-Keven(0)<Speaker>J</Speaker>||:교도소 밑에 이런 공간이 있었다니...
+()<Speaker>지휘관</Speaker>||:갈라테아는 이제 뭐가 나와도 이상할 거 없군.+전원, 경계 유지. J와 K는 위에 연락해 여기 있는 물건들 전부 회수해.+우리는 더 안으로 들어가 보자. 경계는 RO와 45가 맡는다.+에이전트, 호위를 부탁한다.
+NPC-Keven(0)<Speaker>J</Speaker>||:하나도 안 남기고 싹 다 챙기죠.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:주인님의 명을 받드나이다. 발밑에 주의하시옵소서.
+()<Speaker></Speaker>||:바닥에 쌓인 먼지 사이로 난 흔적을 따라, 지휘관은 패러데우스의 뒤를 쫓았다.+넓은 창고 안으로 난 미로 같은 통로를, 지휘관은 철혈 인형들의 호위와 함께 천천히 나아갔다.
+RO635Mod(2)<Speaker>RO635</Speaker>||:진짜 적응 안 되는 광경이야...
+AR15Mod(4)<Speaker>AR15</Speaker>||:내 말이.
+()<Speaker></Speaker>||:AR팀의 비아냥에도 아랑곳않고, 에이전트는 말없이 계속 선두를 맡았다.+그러다 갑자기 걸음을 멈췄다.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:주인님, 여기 이 발자국은 아직 선명합니다.
+()<Speaker>지휘관</Speaker>||:흠?
+()<Speaker></Speaker>||:지휘관이 철혈 인형들의 호위에서 잠시 벗어나, 에이전트 곁으로 다가왔다.
+()<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1>:아무래도, 이제 막 짐을 옮기기 시작했나 보군... 놈들이 아직 여기에 있어.
+BOSS-7(0)<Speaker>게이저</Speaker>||:아키텍트도 함께 왔다면 바로 여길 폭파해버렸을 텐데.
+BOSS-5(0)<Speaker>알케미스트</Speaker>||:지휘관, 호위 범위에서 벗어나지 말아 줄래? 상대가 그 괴물들이라면 잠깐의 방심도 금물이라고.
+BOSS-1(0)<Speaker>스케어크로우</Speaker>||:아직까지는 적의 기척이 포착되지 않습니다.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:다른 방향을 수색해 보시겠사옵니까?
+()<Speaker>지휘관</Speaker>||:댄들라이?
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:이 창고에서 익숙한 기운이 풍기지만... 정확한 위치는 모르겠습니다.
+()<Speaker></Speaker>||:애매모호한 정보에, 지휘관은 눈살을 찌푸리며 경계했다.
+NytoIsomer(5)<Speaker>댄들라이</Speaker>||<BGM>BGM_Empty</BGM>:...잠깐.+위치를 모르겠는 것이 아니었습니다. 수시로 변하는 중입니다.+초고속이동... 너무 빠릅니다. 지휘관님! 물러나세요!
+()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1><BGM>10130</BGM>:부웅——+귀에 익은 진동음이 다시 들렸고, 지휘관이 반응했을 땐 이미 그 하얀 그림자가 코앞에 있었다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1><震屏3>:검은 칼과 하얀 검이 부딪혀 튀긴 불똥이, 한순간 통로를 밝혔다.
+BOSS-2(1)<Speaker>엑스큐셔너</Speaker>||:치잇, 너 뭐야 인마!
+NPC-grig(0)<Speaker>틸</Speaker>||:......
+()<Speaker></Speaker>||:눈깜짝할 새에 10m 넘게 물러난 틸이, 잽싸게 나섰던 엑스큐셔너를 차가운 눈빛으로 노려봤다.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:엑스큐셔너, 괜찮느냐?
+BOSS-2(1)<Speaker>엑스큐셔너</Speaker>||:아니.
+()<Speaker></Speaker>||:틸의 검을 받아낸 엑스큐셔너의 팔은 파르르 떨리고 있었다.
+BOSS-2(1)<Speaker>엑스큐셔너</Speaker>||:저놈이랑 칼 몇 번 더 맞대면 인공근육 교체비로 통장 거덜나겠어.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:지휘관도 틸을 노려보았다.+그녀가 여기 나타났다는 것은, 즉...
+NPC-grig(0)<Speaker>틸</Speaker>||:......!
+()<Speaker></Speaker>||:틸이 고개를 살짝 들더니, 잔상을 남기며 허공으로 사라졌다.
+()<Speaker>지휘관</Speaker>||:놈이 도망친다! 쫓아라!
+()<Speaker>철혈 일동</Speaker>||:예!
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>222</BIN><黑点2>:......
+BOSS-8(0)<Speaker>에이전트</Speaker>||:발자국은 여기서 끊겼사옵니다.
+()<Speaker>지휘관</Speaker>||:이 주변에 숨을 만한 공간은 안 보이는데...
+()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_connect</SE1>:목표를 놓쳤다. 45, 눈에 띄는 거 없어?
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>아니, 아무것도. 화물 몇 개 찾아낸 건 J랑 K한테 넘겼어.</color>+<color=#00CCFF>우리도 지금 지휘관한테 가는 중이야.</color>
+UMP45Mod(0)<Speaker>지휘관</Speaker>||:알았다, 오면서 흔적은 없나 주의해.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:지휘관을 통신을 종료하고 태블릿의 화면을 껐다.+매끄러운 액정 표면에 비치는 것은 지휘관의 얼굴과... 하얀 그림자.
+()<Speaker>지휘관</Speaker>||:뒤다!
+()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1>:부웅——+챙! 챙!+금속이 맞부딪치는 경쾌한 소리가 두 번 일었다. 이번엔 엑스큐셔너와 알케미스트가 동시에 반응해 틸의 검을 받아낸 것이었다.
+BOSS-2(1)<Speaker>엑스큐셔너</Speaker>||:하핫, 기다렸다!
+BOSS-5(0)<Speaker>알케미스트</Speaker>||:지나치게 예리한 칼인걸... 바람 가르는 소리가 너무 커.+눈치를 안 챌래야 안 챌 수가 없어.
+NPC-grig(0)<Speaker>틸</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1>:틸은 패러데우스가 남긴 실험 설비 위에 서, 칼을 가볍게 털어 다시 진동음을 냈다.
+NPC-grig(0)<Speaker>틸</Speaker>||:더 이상 오지 마라.+돌아가라.
+()<Speaker>지휘관</Speaker>||:우리가 안으로 들어가는 게 그렇게 걱정되나? 저 안에 뭐가 있길래 그러지?
+NPC-grig(0)<Speaker>틸</Speaker>||:......
+BOSS-3(0)<Speaker>헌터</Speaker>||:...휠체어다.
+BOSS-3(0)<Speaker>지휘관</Speaker>||:뭐가 있다고?
+BOSS-3(0)<Speaker>헌터</Speaker>||:문앞에 휠체어가 있는 것 같다.+스케어크로우?
+BOSS-1(0)<Speaker>스케어크로우</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:드론, 위치했습니다. ...호오.+수갑과 족쇄에, 아직 닦지 못한 신선한 혈흔까지.+누군가를 포박하기 위한 휠체어가 분명하군요.
+()<Speaker>지휘관</Speaker>||:안젤리아... 안젤리아 씨다!+안젤리아 씨! 거기 있습니까!!
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:매우 두꺼운 문입니다. 뒤에 사람이 있더라도 듣지 못할 겁니다.
+()<Speaker>지휘관</Speaker>||:안젤리아 씨!!
+()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1>:부웅——+하얀 검이 지휘관의 앞을 가로막았다.
+NPC-grig(0)<Speaker>틸</Speaker>||:......
+()<Speaker>지휘관</Speaker>||:...막을 셈이라면, 너부터 해치울 수밖에.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관 옆에서 나선 엑스큐셔너가 검은 칼을 스윽 닦았다.+다른 쪽의 알케미스트도, 틸의 얼굴을 보며 흥분했다.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:주인님의 명이시다.+해치워라.
+()||<黑点1><BIN>10</BIN>:

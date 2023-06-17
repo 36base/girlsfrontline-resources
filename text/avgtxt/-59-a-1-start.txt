@@ -1,0 +1,28 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_keyboardtype_sci</SE1><narrator>:――굶주린 고양이를 우리 안에 넣고, 우리 밖에 싱싱한 생선을 둔다면...+이 고양이가 우리를 탈출해 생선을 먹는 데, 과연 시간이 얼마나 걸릴까?
+()||<黑屏1>:
+RO635-NoArmor(3)<Speaker>RO635</Speaker>||<BIN>607</BIN><黑屏2><BGM>BGM_22Swim_langrensha</BGM><SE1>ClothingUp</SE1>:......+페르시카 씨, 새벽 3시에 갑자기 한시가 시급한 일이라고 부르시길래 경찰서 일까지 내팽개치고 달려왔더니, 그런 고양이와 상자 실험을 대신 기록해 달라는 거였어요?
+NPC-Persica(5)<Speaker>페르시카</Speaker>||:인상 푸셔, 보안관 아가씨.+위대한 실험은 항상 아무도 모르는 한밤중에 몰래 행해지는 법이야. 이 실험에 참여하게 된 건 나중에 큰 자랑거리가 될――
+RO635-NoArmor(3)<Speaker>RO635</Speaker>||:그 말인즉 저더러 복잡하고 번거롭고 아마 허가도 안 받은 실험을 기록해 달라시는 거군요, 야근 특별 수당도 안 줄 거면서.
+NPC-Persica(5)<Speaker>페르시카</Speaker>||:...상황 파악됐네. 그럼 바로 시작할까?
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:페르시카는 실험 브리핑용 화면을 끄고 최근자 실험 기록 파일을 열었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator><SE1>AVG_keyboardtype_sci</SE1>:"1번 상자". 제1 실험군, 참여 인형 - M4A1, ST AR-15, M4 SOPMOD II.+데이터 로딩 중...+실험 목적... 실험 내용...+실험 원리... 변수 나열...
+()||<黑屏1>:
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BIN>607</BIN><SE1>ClothingUp</SE1><黑屏2>:...데이터 수신 완료.+아무튼, AR팀의 이 세 명을 지정 위치까지 운반하고, 이들이 깨어나면 모의전투가 시작된다는 거죠?
+NPC-Persica(5)<Speaker>페르시카</Speaker>||:같이 모의훈련도 해본 오랜 동료 사이니까 잘 알 거 아니야.+그리고, 이 실험 시작 6일 전에 제1 대조군에서 마인드맵 데이터 이상 정황을 발견해서――
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:M4A1의 실전 데이터의 보고서에 거짓이 없다면, 그녀는 자신의 지휘 모듈을 최소 380%의 성능으로 활용했습니다.+그리고 동 보고서에 AR-15와 SOP2는 화기관제 코어 및 다수의 파츠에 비정상적으로 높은 이용률을 보였고요.+자세한 원인은 불명이지만, 아마 마인드맵 데이터의 이상으로 인한 부수적인 효과겠죠.
+NPC-Persica(8)<Speaker>페르시카</Speaker>||:AR팀의 실전 데이터는 내 예상을 훨씬 뛰어넘었어.+몇 번이고 검산해도 결론은 똑같았어. 이 결과가 나올 확률은 0. 있을 수 없는 일이라고.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:그래서 직접 실증해볼 필요가 있다 판단하셨나요?
+NPC-Persica(4)<Speaker>페르시카</Speaker>||:......
+()<Speaker></Speaker>||:페르시카는 뒤로 돌아 실험실의 관찰용 창문 앞에 서서, 실험이 시작되길 기다리는 AR팀을 내려다보았다.
+NPC-Persica(8)<Speaker>페르시카</Speaker>||:"사람은 이 우주와 이 우주를 세우는 일을 자신이 영위하는 정서적 삶의 중심축으로 만드는데, 이는 개인적 체험이라는 가파른 소용돌이 속에서 발견할 수 없는 평화와 고요를 찾기 위한 것이다."
+RO635-NoArmor(2)<Speaker>RO635</Speaker>||:그렇죠, 답을 찾을 수 없을 땐 더 많은 실천과 체험이 외골수를 빠져나올 열쇠가 되는 법이니.
+NPC-Persica(8)<Speaker>페르시카</Speaker>||:"최대의 과제는 순수한 연역을 통해 자신의 우주를 세울 때 이에 필요한 보편적이고 근원적인 법칙에 도달하는 일이다."
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:그러니까, 실험의 결과를 통해 인형의 한계를 돌파할 보편적인 법칙을 찾아내고 싶으시단 건가요?
+NPC-Persica(5)<Speaker>페르시카</Speaker>||<BGM>BGM_Empty</BGM>:에이~ 코봉아, 나는 그냥 뽀꼬랑 카라스봉, 토메키치가 몽상 없이 맛있는 생선을 먹는 데 얼마나 시간이 걸릴지 보려는 거야.
+RO635-NoArmor(3)<Speaker>RO635</Speaker>||:그런 이상한 별명 붙이지 마세요, 쓸데없이 연산력만 낭비돼요.
+NPC-Persica(7)<Speaker>페르시카</Speaker>||:아쉽네, 마음에 들어할 줄 알았더니.+알았어 보안관 아가씨, 실험 바로 시작하자.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:......+측산 준비 완료. 실험도 준비 끝났습니다.
+NPC-Persica(5)<Speaker>페르시카</Speaker>||:...기록 시작. 01차 실험, 개시.
+()||<黑点1>:

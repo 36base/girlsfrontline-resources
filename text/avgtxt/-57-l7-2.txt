@@ -1,0 +1,45 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>578</BIN><BGM>BGM_Saga_AVG_Dusk</BGM>:인생이란 수많은 이별을 겪는 법. 이별을 받아들이는 법도 배워야만 한다.+그리고 과거에 피할 수 없는 수많은 이별을 겪으면서 이미 마음을 강철처럼 단련했다고, 당신은 여겨 왔다.+그런데 저번에 숲에서 릴리가 그토록 태연하게 이별을 바라본 것에, 당신은 어째선지 마음이 울적해졌다.
+()<Speaker>지휘관</Speaker>||:하아...
+()||<SE1>ClothingUp</SE1>:당신은 또 한숨을 푹 쉬면서 손가락으로 머리카락을 꼬았다.+역시 릴리한테 제대로 된 작별 인사를 하고 싶었다.+그런데 요즘 들어 릴리한테 말을 걸어도 자꾸만 연습 때문에 바쁘다며 시간을 내 주지 않았다.
+()<Speaker>지휘관</Speaker>||<黑屏1>:오늘은 어떻게든 시간을 내게 만들겠어!
+()||<黑屏2><BIN>587</BIN><SE1>AVG_20Winter_Door_Open</SE1>:당신은 맹렬한 기세로 방 문을 열어젖히며 외쳤다.
+()<Speaker>지휘관</Speaker>||:릴리! 너와 할 말이――?!
+NPC-Lily(4)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:꺄앗!
+()||<SE1>AVG_20Winter_Chains_Break</SE1>:퉁 부딪히는 소리와 함께, 10개 남짓한 별 모양 머리핀이 릴리의 품에서 쏟아져 바닥에 작은 은하수를 그렸다.
+()<Speaker>지휘관</Speaker>||:으아아 미안해! 문 뒤에 있었을 줄이야...
+NPC-Lily(1)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:으응, 괜찮아. 릴리도 지휘관 찾으러 가려던 참이었어.
+NPC-Lily(1)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||:어?+<color=#A9A9A9>역시 얘도 헤어지자니 아쉬운가 보네?</color>
+()||<SE1>AVG_Bullet_Drop</SE1>:릴리는 쪼그려서 바닥에 떨어진 머리핀을 가리켰다.
+NPC-Lily(0)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:지휘관, 어느 머리핀이 가장 마음에 들어? 하나 골라 봐.
+NPC-Lily(0)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||:<color=#A9A9A9>괜한 착각이었나.</color>
+()||:당신은 눈을 가늘게 뜨고 이 머리핀들을 찬찬히, 자세히 살펴봤다. 예리한 통찰력의 소유자니 이런 것쯤 쉬운 문제일... 터였다.
+()<Speaker>지휘관</Speaker>||:흐음...+......?+이거 다 똑같은 거 아니야?
+NPC-Lily(3)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:뭐~어?+전혀 다르거든!
+NPC-Lily(3)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||:엑... 어떻게 다른데?
+()||<SE1>ClothingUp</SE1>:릴리가 발치의 머리핀 두 개를 집어 당신의 눈앞에 들이댔다.
+NPC-Lily(6)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:이건 색이 더 차가운 톤이라 시원한 색상의 공연복이랑 조합하면 더 쿨하게 보여!+이건 광택이 제일 좋아서 무대 조명을 받으면 블링블링해서 더 귀엽게 보이고!
+NPC-Lily(6)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||:참... 심오하네.
+NPC-Lily(1)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:그치? 공연마다 릴리 엄청나게 신경써서 준비한다구.
+NPC-Lily(1)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||:그거야 물론 알지.+<color=#A9A9A9>앞으로는 너희의 공연을 못 본다는 게 정말 아쉽다.</color>
+()||:입 안이 왠지 씁쓸해졌다.
+NPC-Lily(0)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:그래서, 지휘관은 어느 게 더 마음에 들어?<c>A. 네가 좋다고 생각하는 거.<c>B. 네가 평소에 달고 다니는 거.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:그래도 다 릴리가 더 잘 알잖아, 릴리가 마음에 드는 걸로 해.
+()||<分支>1</分支>:그 대답에 릴리는 조금 난처한 듯 볼을 부풀렸다.
+NPC-Lily(9)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<分支>1</分支>:으응? 정말 릴리가 정해도 돼?+지휘관한테 줄 선물인데...
+NPC-Lily(9)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||<分支>1</分支>:어, 나한테 줄 거라고?!
+NPC-Lily(1)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<分支>1</分支>:응!+그치만 릴리가 고른다면... 역시 릴리가 지금 달고 있는 이게 제일 귀엽지?
+()||<SE1>ClothingUp</SE1><分支>2</分支>:당신은 허리를 숙여 릴리의 이마를 주시했다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:릴리가 매일 달고 다니는 이것도 꽤 예뻐 보이는데.
+NPC-Lily(2)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<分支>2</分支>:아, 지휘관도 그렇게 생각해? 릴리랑 같구나!
+NPC-Lily(0)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<分支>2</分支>:그럼 그렇게 하자, 이걸 지휘관한테 줄게.
+NPC-Lily(0)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||<分支>2</分支>:어, 나한테?!
+NPC-Lily(1)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<分支>2</分支>:응!
+()||:릴리는 바로 머리핀을 떼었고, 이를 지켜보는 당신은 아직도 얼떨떨한 기분이었다.
+()<Speaker>지휘관</Speaker>||:정말 이걸 나한테 줘도 괜찮아?
+NPC-Lily(1)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:응 응!+앞으로 지휘관이 릴리랑 같이 있을 수 없댔지만, 언제 다시 프랑슈슈의 공연을 보러 오게 될지 모르잖아?
+NPC-Lily(0)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:그럼 그때 다른 모습이더라도, 이 머리핀을 달고 있으면 관객석에 있어도 릴리가 이 제~일 반짝이는 별을 보고 찾아낼 수 있을 거야!
+NPC-Lily(0)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||:릴리...+그래, 기회가 되면 꼭 이걸 달고 만나러 올게.
+NPC-Lily(2)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:응! 그럼 이 별이 우리의 암호인 거야... 약속?
+()<Speaker></Speaker>||<common_effect>%%code=Saga_Lily_item%%</common_effect>:한손에는 반짝이는 노란 별 머리핀을 받고, 다른 한손으로는 릴리와 새끼손가락을 걸며 약속했다.
+()<Speaker>지휘관</Speaker>||<黑点1>:그래, 약속.

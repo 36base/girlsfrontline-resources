@@ -1,216 +1,216 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()<Speaker></Speaker>||<BGM>m_avg_casual</BGM><BIN>8</BIN><黑屏2>:......+지휘실.
-()||:지휘관은 막 작성된 작전 보고서를 읽고 있었다.+그리고 느닷없이 인형 한 명이 문을 박차고 안으로 뛰어 들어왔다.
-CBJMS(0)<Speaker>C-MS</Speaker>||<SE1>AVG_door_elecport</SE1>:지휘관! 우리 물총 싸움하자!
-CBJMS(0)<Speaker>지휘관</Speaker>||:안녕, C-MS. 그런데 갑자기 물총 싸움이라니?
-CBJMS(0)<Speaker>C-MS</Speaker>||:여름도 다 끝나가는데, 내 부하로서 그게 무슨 뜻인지도 모르는 거야?+지금 안 하면 올해에 물총 놀이를 할 기회를 영영 놓치고 만다고!
-CBJMS(0)<Speaker>지휘관</Speaker>||:여름이 끝나간다...+그래, 맞는 말이야.
-CBJMS(0)<Speaker>C-MS</Speaker>||:흐흥, 그치? 그럼 지금 당―
-Z62(2)<Speaker>Z-62</Speaker>||<SE1>AVG_door_elecport</SE1>:지휘관님, 들어가도 될까요?
-CBJMS(0);Z62(2)<Speaker>지휘관</Speaker>||:이미 들어와 놓고서 말하니...+그래, 무슨 일이야?
-CBJMS(0);Z62(2)<Speaker>Z-62</Speaker>||:수영복을 골라 주셨으면 하는데, 이건 어때요?
-CBJMS(0)<Speaker>C-MS</Speaker>;Z62(2)||:(이 녀석... 먼저 온 건 난데!)+(......!!!)+(뭐야 이 녀석?! 잘 보니까 몸매가 꽤...)
-CBJMS(0);SPS(2)<Speaker>세르듀코프</Speaker>||<SE1>AVG_door_elecport</SE1>:계십니까? 들어갈게요.+응? 선객이 있었군요.+지휘관님, 현장의 안전 수칙 방안을 전송 드렸습니다.
-CBJMS(0)<Speaker>C-MS</Speaker>;SPS(2)||:(또 새치기! 내가 먼저 왔는데!)+(게다가 이 녀석도 몸매가... 나, 나도 조금은... 아니 이게 아니라!)+야, 너희 둘 다 왜 수영복 차림이야?
-CBJMS(0);SPS(2)<Speaker>세르듀코프</Speaker>||:응? 카리나 씨한테 통지 못 받았어? 곧 인어 수색 작전에 나가야 하잖아.
-CBJMS(0)<Speaker>C-MS</Speaker>;SPS(2)||:아, 그거? 난 뻥인 줄 알았지.+그 녀석, 내 보너스를 호시탐탐 노리고 있으니까 말이야...
-CBJMS(0)<Speaker>지휘관</Speaker>||:카리나가 그 말을 들었다간 큰일 날 거다, 너...+Z-62, 수영복은 나중에 봐도 될까?+그리고 안전 수칙 작성 수고했어, 세르듀코프.+훑어봤는데 딱히 문제점은 없어 보였어. 자세히 읽고 난 뒤에 피드백하지.
-()||:C-MS는 두 인형을 째려보았다.
-CBJMS(0)<Speaker>지휘관</Speaker>||:그리고 C-MS, 방금 말한 물총 싸움은 아주 좋을 것 같구나. 이번 일정에 고려해 보겠어.
-CBJMS(0)<Speaker>C-MS</Speaker>||:......+응.
-CBJMS(0)<Speaker>지휘관</Speaker>||:음? 너 왜 갑자기 기운이 없어 보이는 거야?
-CBJMS(0)<Speaker>C-MS</Speaker>||:......흥.+나 먼저 갈래!
-<Speaker>지휘관</Speaker>()||<黑屏1><SE1>AVG_door_elecport</SE1>:응...?
-<Speaker>C-MS</Speaker>()||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:지휘관, 수영복 입은 애들한테 먼저 대답했어!+상관인 내가 눈앞에 있는데도!+그딴 수작을 부리다니, 비겁한 녀석들...+좋아, 그럼 나도 이제 청순한 인형인 척 그만두고, 수영복 입을 거야!+......
-<Speaker>C-MS</Speaker>()||<黑屏1>:그래도 이건 좀 많이 부끄러운데...+에이 몰라! 안 입어!
-()||<BIN>162</BIN><黑屏2>:인어 수색 작전 당일.
-CBJMS(4)<Speaker>C-MS</Speaker>||<BGM>BGM_Hello</BGM>:(에이, 결국 입고와 버렸네...)
-CBJMS(4)<Speaker>지휘관</Speaker>||:아, C-MS. 그 수영복 정말 잘 어울리는걸?+그런데 외투가 좀 커 보이는데, 적당한 사이즈로 한 벌 사 줄까?+그러는 편이 움직이기에도 편할 거 아니야.
-CBJMS(4)<Speaker>C-MS</Speaker><shake>||:시, 신경 쓰지 마!+그것보다, 감히 날 기동팀에 편성하다니.+난 지휘관의 상관인데, 저기 저 의자에 앉아서 지시나 내리고 해야 하는 거 아니야?
-Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:<size=35>저, C-MS 씨...</size>
-CBJMS(4)<Speaker>C-MS</Speaker>||:흥, 그래도 부하의 얼굴을 봐서 어울려줄게.
-()||:지휘관은 쓴웃음을 지으며 C-MS와 Z-62에게 지령을 전달했다.
-CBJMS(4)<Speaker>C-MS</Speaker>||:이건...?
-()<Speaker>지휘관</Speaker>||:너희의 임무는 다른 대원들을 보조하는 거야.+수색 작업 도중 돌발상황이 얼마든지 발생할 수 있으니, 그에 대응하는 기동팀의 역할은 아주 중요해.+만약 임무 수행 중 심각한 문제가 생기면 곧장 날 찾아오도록.
-Z62(2)<Speaker>Z-62</Speaker>||:<size=35>아, 알겠습니다...</size>
-CBJMS(4)<Speaker>C-MS</Speaker>||:좋아, 중요한 역할이라면야 내가 나설 수밖에 없지.+...잠깐, "너희"라고? 나 말고 또 누가 기동팀인데?
-CBJMS(4)<Speaker>지휘관</Speaker>||:...아까부터 네 옆에 있잖아.
-()||:C-MS는 그제서야 자기 옆에 서 있는 인형의 존재를 눈치챘다.
-CBJMS(4)<Speaker>C-MS</Speaker>||:아이 깜짝이야.
-Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:아, 안녕하세요, C-MS 씨...
-Z62(2);CBJMS(4)<Speaker>C-MS</Speaker>||:새 부하야? 처음 보는 얼굴이네.
-Z62(2);CBJMS(4)<Speaker>지휘관</Speaker>||:어... 지휘실에서 Z-62랑 만났잖아?
-Z62(2);CBJMS(4)<Speaker>C-MS</Speaker>||:그랬던가?
-Z62(2);CBJMS(4)<Speaker>지휘관</Speaker>||:다른 사람들을 부하 취급할 거면, 적어도 얼굴은 기억해야지...
-Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:괘, 괜찮아요... 얼굴은 천천히 익혀도 돼요...+<size=35>그리고 전 원래부터 존재감이...</size>
-<Speaker>지휘관</Speaker>()||:다 각자의 능력에 맞춰 편성됐으니까 자신감을 가지렴.
-CBJMS(4)<Speaker>지휘관</Speaker>||:C-MS는 Z-62와 함께 이곳저곳을 둘러봐 봐. 어디 도움이 필요한 곳은 없는지 말이야.+자 그럼, 임무 수고해.
-CBJMS(4)<Speaker>C-MS</Speaker>||:쳇, 날 부하처럼 부려먹다니 정말 위아래가 없다니까.+나중에 어깨 주물러 줘야 해!
-Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:저기... 지휘관님 벌써 떠나셨는데요...
-Z62(2);CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏1>:뭐야?!
-CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏2>:흐음... 지휘관이 우리더러 다른 녀석들을 도우라고는 했지만, 다들 딱히 도움이 필요해 보이지도 않는데?+그냥 우리끼리 물총 싸움하는 게 어때, 새 부하?
-Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:......+"몇 년 후, 아우렐리아노 대령은 사형 집행대 앞에 서서..."
-Z62(2);CBJMS(4)<Speaker>C-MS</Speaker>||:야, 너 뭐해?
-()||:뭔가를 읽으면서 중얼대는 Z-62에게 호기심이 발동한 C-MS는 그대로 그녀에게 얼굴을 들이밀었다.
-Z62(2);CBJMS(4)<Speaker>C-MS</Speaker>||:오~ 넌 소설을 소리 내면서 읽는 습관이 있구나?
-Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:아뇨, 책을 항상 끝까지 읽지 못해서 틈이 날 때마다...+아앗!
-()||:Z-62는 아차 하며 책을 덮었다.
-Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:C, C-MS 씨... 무, 무슨 일이세요...?
-CBJMS(4)<Speaker>C-MS</Speaker>||:너, 지금 농땡이 부리는 거야?
-Z62(2)<Speaker>Z-62</Speaker>||:아아아아뇨!+그, 그냥... 빨리 다 읽고 싶어서...
-CBJMS(4)<Speaker>C-MS</Speaker>;Z62(2)||:그러면 안 되지이~ 중요한 임무 중인데 네가 이렇게 딴짓을 했다는 걸 지휘관이 알았다간...
-CBJMS(4);Z62(2)<Speaker>Z-62</Speaker>||:에엣...!?
-CBJMS(4)<Speaker>C-MS</Speaker>;Z62(2)||:지휘관한테 들키긴 싫지?+그럼 내가 시키는 대로 해.
-CBJMS(4);Z62(2)<Speaker>Z-62</Speaker>||:하지만...
-CBJMS(4)<Speaker>C-MS</Speaker>||:대답은?
-Z62(2)<Speaker>Z-62</Speaker>||:A, aye aye Ma'am!
-CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏1>:<color=#A9A9A9>(헤헤, 아주 쉽게 심부름꾼을 손에 넣었네.)</color>
-()||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:......
-()||<黑屏1>:...1시간 후.
-()||<BIN>162</BIN><黑屏2>:Z-62은 C-MS에게 돌아가려던 참이었다.
-CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||<BGM>m_avg_casual</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>상황 보고~</color>
-Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||:박하 맛은 다 팔렸어요...
-Z62(2);CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||:<color=#00CCFF>그, 그럴 수가!</color>+<color=#00CCFF>그럼 지금 이게 마지막이란 거야?</color>
-Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||:벌써 실컷 먹었잖아요... 그걸로 20개째인데...+가게 주인도 이제 제 얼굴을 기억할 거예요...
-Z62(2);CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||:<color=#00CCFF>그럼 할 수 없지 뭐.</color>+<color=#00CCFF>잠깐 쉬고 다음 임무 준비해.</color>
-Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||:저기... 한 가지 물어봐도 될까요...?+지금 제게 시키는 일... 정말 인어 수색 작전에 도움이 되는 일이에요?
-Z62(2);CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||:<color=#00CCFF>물론이지, 아이스크림 심부름은 네 수색 능력을 시험해 본 거야.</color>+<color=#00CCFF>이제... 본격적인 인어 수색 작전을 시작하자고.</color>
-Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||:아, 그리고... 조금 전에 일은...
-Z62(2);CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||:<color=#00CCFF>무슨 일?</color>
-Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||:그러니까... 제가... 딴짓했던 일 말인데요...
-Z62(2);CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||:<color=#00CCFF>너 딴짓했어?</color>
-Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||:벌써 잊었어요...?
-Z62(2);CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||:<color=#00CCFF>뭐래. 알아듣게 좀 말해.</color>+<color=#00CCFF>아무튼, 계속 잘하고 있어. 넌 분명 우수한 부하가 될 수 있을 거야.</color>+<color=#00CCFF>어디 보자, 다음 임무는... 현지에서 수박을 사 와.</color>
-Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||<黑屏1>:아, 알겠습니다!+<color=#A9A9A9>(날 이렇게 중용해 준 사람은 처음이야... 힘내자!)</color>
-CBJMS(4)<Speaker>C-MS</Speaker><BIN>9</BIN>||<黑屏2>:(근데 쟤 이름이 뭐였더라...?)+(하음... 모르겠다, 졸린데 좀 자야지.)
-()||:......
-()||<黑屏1>:얼마 후, 꾸벅꾸벅 조는 C-MS에게 Z-62이 통신 연결을 했다.
-Z62(2)<Speaker>Z-62</Speaker><通讯框>||<黑屏2><BIN>162</BIN><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>저... 수박을 샀어요.</color>+<color=#00CCFF>또 할 일은 없나요?</color>
-CBJMS(4)<Speaker>C-MS</Speaker>||:쿠울...
-Z62(2)<Speaker>Z-62</Speaker><通讯框>||:<color=#00CCFF>C-MS 씨?</color>
-CBJMS(4)<Speaker>C-MS</Speaker>||:수박은... 음냐... 찬 게 맛있어... 쿠울...
-Z62(2)<Speaker>Z-62</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>네? 차, 찬 수박이요? 알겠어요... 저기, C-MS 씨, 지금 어디 계세요...?</color>+<color=#00CCFF>여보세요...? C-MS 씨...?</color>
-<Speaker>C-MS</Speaker>()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2>:쿠울...
-()||<黑屏1>:......
-<Speaker>지휘관</Speaker>()||<BIN>162</BIN><黑屏2>:어휴 내가 못 살아...
-CBJMS(4)<Speaker>C-MS</Speaker><眨眼>||:......+우웅... 5분만 더어...
-CBJMS(4)<Speaker>C-MS</Speaker>||<BGM>BGM_Moon</BGM>:...지휘관?
-CBJMS(4)<Speaker>C-MS</Speaker>||<震屏>:지, 지지지지지휘관!? 여긴 왜 왔어?!
-CBJMS(4)<Speaker>지휘관</Speaker>||:이제 일어났니?+우수한 C-MS가 임무도 내팽개치고 쿨쿨 곯아떨어져 있을 줄은 예상치 못했는걸?
-CBJMS(4)<Speaker>C-MS</Speaker>||:아... 아니야!+해도 해도 너무 지루하잖아!
-CBJMS(4)<Speaker>지휘관</Speaker>||:오기 전에 물총 싸움을 하자고 한 게 누구였더라? 아무튼, 임무 다 끝나면 모두랑 같이 놀아도 돼.
-CBJMS(4)<Speaker>C-MS</Speaker>||:흥, 말 안 해 줘도 그럴 셈이었거든?
-()||:삐삐삐.+지휘관의 통신 단말기에 신호가 왔다.
-CBJMS(4)<Speaker>지휘관</Speaker>||:지금 다른 팀에게서 지원 요청 신호가 들어왔어.+네가 대신 가 보렴.
-CBJMS(4)<Speaker>C-MS</Speaker>||:싫어. 물총 놀이할 거야.
-CBJMS(4)<Speaker>지휘관</Speaker>||:끝나면 실컷 놀게 해 줄 테니까...+아차, Z-62도 잊지 말고 함께 데려가.
-CBJMS(4)<Speaker>C-MS</Speaker>||:(부하 주제에 나한테 명령이라니... 이 임무를 완벽하게 수행해서 코를 아주 납작하게―)
-CBJMS(4)<Speaker>지휘관</Speaker>||:C-MS?
-CBJMS(4)<Speaker>C-MS</Speaker>||:아, 알았어!+금방 갈게!
-CBJMS(4)<Speaker>지휘관</Speaker>||:원래대로라면 나도 함께 가야겠지만, 지금 다른 곳에서도 일이 생겨서 말이지.+나중에 다시 보러 올게.
-CBJMS(4)<Speaker>C-MS</Speaker>||:흥, 오면 어깨 주물러 주라고...+......?+또 언제 가 버린 거야!?+아 몰라! 다른 녀석들이나 보러 가야지.
-CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:...근데, Z-62이 누구였더라?
-4type(3)<Speaker>4식</Speaker>||<黑屏2>:끝났다... 다 끝났어...+나의 원고가... 아아...
-CBJMS(4)<Speaker>C-MS</Speaker>;4type(3)||:야, 신호 보낸 거 너지?
-CBJMS(4);4type(3)<Speaker>4식</Speaker>||:오오, 구원의 손길이구나!+C-MS! 내 말을 들어 주시오...
-()||:그리고 4식은 10분 내내 무슨 일이 있었는지 설명했다.
-CBJMS(4)<Speaker>C-MS</Speaker>;4type(3)||:그래서, 원고가 다 젖었다고? 거참 재수 없네.
-CBJMS(4);4type(3)<Speaker>4식</Speaker>||:이제 어찌하면 좋을지...
-CBJMS(4)<Speaker>C-MS</Speaker>||<BGM>m_avg_casual</BGM>:(물총을 꺼내 들며) 그래, 어쩌면 좋을까.
-4type(3)<Speaker>4식</Speaker>||:왜, 왜 그러시오? 갑자기 총을 꺼내다니, 내가 무슨 잘못이라도 저질렀소?
-CBJMS(4)<Speaker>C-MS</Speaker>;4type(3)||:들어 보니까 다 네가 그리던 만화가 어쩌고 하는 것뿐이잖아. 그 말인즉슨... 인어를 찾는 임무는 전혀 하지 않았단 뜻이지?
-CBJMS(4);4type(3)<Speaker>4식</Speaker>||:어? 그건 그렇지만——
-CBJMS(4)<Speaker>C-MS</Speaker>||:삐뚤어졌구나, 4식.+널 교정시키는 게... 내 의무야.
-()||<SE1>AVG_pistol_finalshot_n</SE1>:타앙!+총소리가 울려 퍼졌고, 4식은 물웅덩이에 쓰러졌다.+C-MS는 쪼그려 앉아 4식의 얼굴을 찰싹찰싹 때려 보았지만, 반응은 없었다.
-CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏1>:와우, 정말 인형이 기절할 정도구나.+MDR이 추천한 총성 발생기, 효과 괜찮은데?
-Lewis(2)<Speaker>루이스</Speaker>||<黑屏2>:이 선크림 어때?
-CBJMS(4)<Speaker>C-MS</Speaker>;Lewis(2)||:효과 좋네.+그런데, 겨우 선크림 발라 달라고 날 부른 거야?
-CBJMS(4);Lewis(2)<Speaker>루이스</Speaker>||:응. 사실은 지휘관에게 부탁할 생각이었어.+직접 바르기 어려운 곳이 많잖아?
-CBJMS(4)<Speaker>C-MS</Speaker>;Lewis(2)||:지휘관에게 이런 일을 시킬 생각이었다니... 임무는?
-CBJMS(4);Lewis(2)<Speaker>루이스</Speaker>||:외모는 인형의 소중한 자산이라고.+인어를 찾는 건 조금 늦어져도 괜찮잖아.
-CBJMS(4)<Speaker></Speaker>||<SE1>AVG_pistol_finalshot_n</SE1>:타앙.+또 한 번 총성이 터졌고, 루이스도 물웅덩이 위에 엎어졌다. C-MS는 만족스럽게 총구를 훅 불었다.
-CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏1>:역시, 루이스도 타락했군.+자아, 다음은 누구냐!
-SPS(2)<Speaker>세르듀코프</Speaker>||<黑屏2>:힘내 88식! 지휘관이 곧 올 거야!
-Type88(5)<Speaker>88식</Speaker>||:으으...
-CBJMS(4)<Speaker>C-MS</Speaker>||:지휘관은 안 와.
-SPS(2)<Speaker>세르듀코프</Speaker>||<震屏>:뭣——
-()||:타앙... 하는 총성이 이번엔 터지지 않았다.+가느다란 물줄기만이 세르듀코프의 얼굴에 뿌려졌을 뿐이었다.
-CBJMS(4)<Speaker>C-MS</Speaker>||:어, 어라? 배터리가 다 됐나?
-CBJMS(4);SPS(2)<Speaker>세르듀코프</Speaker>||:C-MS... 여기저기서 사고 치고 있다는 녀석이 너였구나?
-CBJMS(4)<Speaker>C-MS</Speaker>;SPS(2)||:아, 아니야, 난 그냥 장난...이 아니라, 도와주려고.
-CBJMS(4);SPS(2)<Speaker>세르듀코프</Speaker>||:오호라, 장난~?+사카모토 씨! 붙잡아!
-CBJMS(4)<Speaker>C-MS</Speaker>;SPS(2)||:사카... 뭐? 그게 누구―
-CBJMS(4)<Speaker>C-MS</Speaker>||<震屏>:으악!? 이게 뭐야! 아야! 아야야!
-()||:어디선가 날아온 까마귀 한 마리가 C-MS의 얼굴을 덮쳤다.
-SPS(2)<Speaker>세르듀코프</Speaker>||:역시 내 파트너야.
-CBJMS(4)<Speaker>C-MS</Speaker>;SPS(2)||:으아앙! 내가 잘못했어! 그만해!
-CBJMS(4);SPS(2)<Speaker>세르듀코프</Speaker>||:안 돼, 같이 모두에게 사과하러 가 줘야겠어.
-CBJMS(4)<Speaker>C-MS</Speaker>||:으으으...+...흥, 지금이다!
-()||:C-MS는 먹다 남은 아이스크림 막대를 던져 까마귀의 주의를 돌렸다.
-SPS(2)<Speaker>세르듀코프</Speaker>||:어? 야!
-CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏1>:잘 있어라!
-4type(2)<Speaker>4식</Speaker><通讯框>||<BIN>9</BIN><黑屏2>:<color=#00CCFF>서쪽엔 없소이다.</color>
-Lewis(2)<Speaker>루이스</Speaker><通讯框>||:<color=#00CCFF>동쪽에도 없는 것 같아.</color>
-SPS(2)<Speaker>세르듀코프</Speaker>||<黑屏1>:그렇다면 내 근처에서 숨어 있는 거겠지.+두고 봐... 반드시 찾아내고 말 테니까.
-()||<BIN>163</BIN><黑屏2>:바닷가의 어느 오두막.
-CBJMS(4)<Speaker>C-MS</Speaker>||:휴우... 겨우 숨을 곳을 찾았네.+어쩌다 일이 이렇게 된 거지?+난 모두의 버르장머리를 고치려 했을 뿐인데...
-()||:그때, 발소리와 함께 누군가가 다가왔다.
-CBJMS(4)<Speaker>C-MS</Speaker>||:누구야!?
-Z62(2)<Speaker>Z-62</Speaker>||:저예요, C-MS 씨.
-CBJMS(4)<Speaker>C-MS</Speaker>;Z62(2)||:너는...?+...모르겠네. 네가 누구든 상관없으니까 밖에 세르듀코프 녀석들이 갔나 좀 봐줘.
-Z62(2)<Speaker></Speaker>||:Z-62는 땅이 꺼져라 한숨을 쉬었다.
-Z62(2)<Speaker>Z-62</Speaker>||:하아아... 좋아요.+대신 물총을 빌려주세요.
-CBJMS(4)<Speaker>C-MS</Speaker>||:응? 이건 왜?
-Z62(2)<Speaker>Z-62</Speaker>||:그게 당신의 "범행 도구"잖아요?+그걸로 세르듀코프 씨를 다른 곳으로 유인할게요.
-()||:Z-62는 안경을 고쳐 쓰며 제안했다.
-CBJMS(4)<Speaker>C-MS</Speaker>||:오호, 좋은 생각이야.+자. 하지만 총성 발생기의 배터리가 다 돼서 지금은 그냥 물총이야.
-()||:Z-62는 물총을 받아 들고는 잠시 고민하더니, 돌연 입꼬리가 살짝 올라갔다.
-Z62(2)<Speaker>Z-62</Speaker>||:그렇다는 건... 제가 이걸로 당신을 쏴도 아무도 모른다는 소리네요.
-CBJMS(4)<Speaker>C-MS</Speaker>||:그렇지.+.......응?+지금 뭐라고...?
-Z62(2)<Speaker>Z-62</Speaker>||:제 이름을 잘 기억하세요! 저는 Z-62!+부하를 온종일 바닷가에 내버려 둔 채로 잊어버린 상관이 어디 있어요!?+C-MS 씨 바보멍청이해삼말미잘!
-()||:치익 치익 치익! Z-62의 연속 물총 사격은 전부 C-MS의 미간 정중앙에 명중했다.
-CBJMS(4)<Speaker>C-MS</Speaker>||:어푸풉! 사, 살려줘!
-()||:C-MS는 헐레벌떡 오두막에서 뛰쳐나왔지만, 밖에서 기다리고 있던 것은...
-SPS(2)<Speaker>세르듀코프</Speaker>||:잡았다!
-CBJMS(4)<Speaker>C-MS</Speaker>||<SE1>AVG_Punch</SE1><BGM>BGM_Empty</BGM>:으윽...!
-()||<黑屏1>:C-MS는 목덜미를 붙들려 제압당했다.
-()<Speaker>지휘관</Speaker>||<黑屏2><BGM>GF_Memorial</BGM>:이 녀석, 허튼짓 하지 말고 평소처럼 모두를 도와줬으면 얼마나 좋아?
-CBJMS(5)<Speaker>C-MS</Speaker>||:다들 자기들끼리 신나게 노는 것 같더만! 그리고 몸매도 부럽고!
-CBJMS(5)<Speaker>지휘관</Speaker>||:너 말이야...
-SPS(2)<Speaker>세르듀코프</Speaker>||:지휘관님, 얘는 신경 쓰지 말고 여기서 반성이나 하고 있으라 해요.
-4type(2)<Speaker>4식</Speaker>;SPS(2)||:소녀도 세르듀코프에게 동의하옵니다.+아, 수박이 몇 조각 안 남았사옵니다.
-CBJMS(5)<Speaker>지휘관</Speaker>||:알았어, 더 썰어 줄게.
-4type(2)<Speaker>4식</Speaker>||:이것 참 면목이 없사옵니다. 소녀가 인간만큼 손재주가 좋았다면 지휘관 나리에게 수고를 끼칠 일도 없었을 터인데.
-()<Speaker>지휘관</Speaker>||:괜찮아, 애초에 모두 편하게 쉬라고 온 거니까.+그리고 넌 네 임무도 있잖아.
-CBJMS(5)<Speaker>지휘관</Speaker>||:C-MS, 반성하고 있어?+얌전히 있으면 너도 수박 줄게.
-CBJMS(5)<Speaker>C-MS</Speaker>||:흥!
-()||:지휘관 일행이 떠나고 잠시 뒤, Z-62가 슬쩍 수박 두 조각을 C-MS에게 가져왔다.
-Z62(2)<Speaker>Z-62</Speaker>||:C-MS 씨...
-CBJMS(5)<Speaker>C-MS</Speaker>||:뭐.
-Z62(2)<Speaker>Z-62</Speaker>||:수박 좀 가져왔는데, 먹을래요?
-()||:C-MS는 고개를 끄덕이며 수박을 받았다.
-Z62(2)<Speaker>Z-62</Speaker>||:C-MS 씨, 화났어요?
-CBJMS(5)<Speaker>C-MS</Speaker>||:...내가 왜 화를 내?
-()||:그 대답을 들은 Z-62은 배시시 웃었다.
-Z62(2)<Speaker>Z-62</Speaker>||:그렇군요...+사실, 전 당신이 저를 기억해 주길 바라서 그랬던 거예요....+잠깐이긴 했지만, 당신의 부하니까요.
-CBJMS(5)<Speaker>C-MS</Speaker>||:퉤, 퉷퉷.
-()||:C-MS가 수박씨를 뱉었다.
-CBJMS(5)<Speaker>C-MS</Speaker>||:이 수박, 씨가 참 많네.+그래도 무지 맛있어. 고마워.
-Z62(2)<Speaker>Z-62</Speaker>||:그런데...+전혀 신경쓰지 않았군요... 괜한 걱정이었네요.+오늘 함께 임무를 수행해서 즐거웠어요.+그게... 누가 제게 그렇게 많은 일을 시킨 적이 없었거든요...+아, 다 드셨어요? 몇 조각 더 가져올게요.
-CBJMS(5)<Speaker>C-MS</Speaker>||:으응... 뭐라고?+어라, 사라졌네?
-()<Speaker>지휘관</Speaker>||:C-MS, 반성 잘하고 있어? 수박 가져왔다.+응? 뭐야, 바닥에 수박씨가 잔뜩이잖아. 누가 몰래 가져다줬니?
-CBJMS(5)<Speaker>C-MS</Speaker>||:응. 방금... 어... 그 녀석 이름이 뭐였더라?
-CBJMS(5)<Speaker>지휘관</Speaker>||:......
-Z62(2)<Speaker>Z-62</Speaker>;CBJMS(5)||:C-MS 씨... 지금 뭐라고요...?
-()||<BGM>BGM_Empty</BGM>:쨍그랑! 새빨간 수박이 담긴 새하얀 접시가, Z-62의 손에서 미끄러져 바닥에 떨어졌다.
-CBJMS(5)<Speaker>C-MS</Speaker>||:뭐... 뭔데? 내가 무슨 말실수 했어?
-()||:갑작스런 바람에, 나뭇잎들이 쏴아쏴아 불길한 소리를 냈다.
-())<Speaker>지휘관</Speaker>||:오늘 밤을 만끽하라고 말하러 왔더니만...+이거 아무래도, 굳이 말 안 해도 되겠구나.
-CBJMS(5)<Speaker>C-MS</Speaker>||:어, 야, 총은 갑자기 왜 꺼내?
-Z62(2)<Speaker>Z-62</Speaker>;CBJMS(5)||:"야"가 아니라, Z-62... Z-62...! Z-62라고요!
-Z62(2);CBJMS(5)<Speaker>C-MS</Speaker>||:지, 지휘관! 도와줘! 저 녀석 표정이 무서워!
-Z62(2)<Speaker>Z-62</Speaker>||:제 이름은 Z! 6! 2란 말이에요!+대체 몇 번을 말해야 기억할 거예요오오오오오!!!
-CBJMS(5)<Speaker>C-MS</Speaker>||<BGM>BGM_Empty</BGM><黑点1>:으아아아아! 미안해, 정말 미안해애애애!!!
-()||<BGM>BGM_Moon</BGM><黑点2>:맑은 달빛 아래, 하얀 백사장은 C-MS와 Z-62가 뛰노는 소리로 시끄러워졌다.+훗날 추억으로 되새길 수 있을 그 광경을, 지휘관은 느긋하게 지켜보았다.
-()<Speaker>지휘관</Speaker>||:모두 항상 이런 식으로 즐겁게 지낼 수 있으면 좋겠네. 이런 날이... 다시 올지는 알 수 없지만.
-()||<黑屏1>:지휘관은 마음속으로 다짐했다.+스스로도 알 수 없었다. 오늘같이 즐거운 늦여름날을, 또 언제 즐길 수 있을지.+어쩌면... 두 번 다시 오지 않을지도 모르니까.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<BGM>m_avg_casual</BGM><BIN>8</BIN><黑屏2>:......+지휘실.
+()||:지휘관은 막 작성된 작전 보고서를 읽고 있었다.+그리고 느닷없이 인형 한 명이 문을 박차고 안으로 뛰어 들어왔다.
+CBJMS(0)<Speaker>C-MS</Speaker>||<SE1>AVG_door_elecport</SE1>:지휘관! 우리 물총 싸움하자!
+CBJMS(0)<Speaker>지휘관</Speaker>||:안녕, C-MS. 그런데 갑자기 물총 싸움이라니?
+CBJMS(0)<Speaker>C-MS</Speaker>||:여름도 다 끝나가는데, 내 부하로서 그게 무슨 뜻인지도 모르는 거야?+지금 안 하면 올해에 물총 놀이를 할 기회를 영영 놓치고 만다고!
+CBJMS(0)<Speaker>지휘관</Speaker>||:여름이 끝나간다...+그래, 맞는 말이야.
+CBJMS(0)<Speaker>C-MS</Speaker>||:흐흥, 그치? 그럼 지금 당―
+Z62(2)<Speaker>Z-62</Speaker>||<SE1>AVG_door_elecport</SE1>:지휘관님, 들어가도 될까요?
+CBJMS(0);Z62(2)<Speaker>지휘관</Speaker>||:이미 들어와 놓고서 말하니...+그래, 무슨 일이야?
+CBJMS(0);Z62(2)<Speaker>Z-62</Speaker>||:수영복을 골라 주셨으면 하는데, 이건 어때요?
+CBJMS(0)<Speaker>C-MS</Speaker>;Z62(2)||:(이 녀석... 먼저 온 건 난데!)+(......!!!)+(뭐야 이 녀석?! 잘 보니까 몸매가 꽤...)
+CBJMS(0);SPS(2)<Speaker>세르듀코프</Speaker>||<SE1>AVG_door_elecport</SE1>:계십니까? 들어갈게요.+응? 선객이 있었군요.+지휘관님, 현장의 안전 수칙 방안을 전송 드렸습니다.
+CBJMS(0)<Speaker>C-MS</Speaker>;SPS(2)||:(또 새치기! 내가 먼저 왔는데!)+(게다가 이 녀석도 몸매가... 나, 나도 조금은... 아니 이게 아니라!)+야, 너희 둘 다 왜 수영복 차림이야?
+CBJMS(0);SPS(2)<Speaker>세르듀코프</Speaker>||:응? 카리나 씨한테 통지 못 받았어? 곧 인어 수색 작전에 나가야 하잖아.
+CBJMS(0)<Speaker>C-MS</Speaker>;SPS(2)||:아, 그거? 난 뻥인 줄 알았지.+그 녀석, 내 보너스를 호시탐탐 노리고 있으니까 말이야...
+CBJMS(0)<Speaker>지휘관</Speaker>||:카리나가 그 말을 들었다간 큰일 날 거다, 너...+Z-62, 수영복은 나중에 봐도 될까?+그리고 안전 수칙 작성 수고했어, 세르듀코프.+훑어봤는데 딱히 문제점은 없어 보였어. 자세히 읽고 난 뒤에 피드백하지.
+()||:C-MS는 두 인형을 째려보았다.
+CBJMS(0)<Speaker>지휘관</Speaker>||:그리고 C-MS, 방금 말한 물총 싸움은 아주 좋을 것 같구나. 이번 일정에 고려해 보겠어.
+CBJMS(0)<Speaker>C-MS</Speaker>||:......+응.
+CBJMS(0)<Speaker>지휘관</Speaker>||:음? 너 왜 갑자기 기운이 없어 보이는 거야?
+CBJMS(0)<Speaker>C-MS</Speaker>||:......흥.+나 먼저 갈래!
+<Speaker>지휘관</Speaker>()||<黑屏1><SE1>AVG_door_elecport</SE1>:응...?
+<Speaker>C-MS</Speaker>()||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:지휘관, 수영복 입은 애들한테 먼저 대답했어!+상관인 내가 눈앞에 있는데도!+그딴 수작을 부리다니, 비겁한 녀석들...+좋아, 그럼 나도 이제 청순한 인형인 척 그만두고, 수영복 입을 거야!+......
+<Speaker>C-MS</Speaker>()||<黑屏1>:그래도 이건 좀 많이 부끄러운데...+에이 몰라! 안 입어!
+()||<BIN>162</BIN><黑屏2>:인어 수색 작전 당일.
+CBJMS(4)<Speaker>C-MS</Speaker>||<BGM>BGM_Hello</BGM>:(에이, 결국 입고와 버렸네...)
+CBJMS(4)<Speaker>지휘관</Speaker>||:아, C-MS. 그 수영복 정말 잘 어울리는걸?+그런데 외투가 좀 커 보이는데, 적당한 사이즈로 한 벌 사 줄까?+그러는 편이 움직이기에도 편할 거 아니야.
+CBJMS(4)<Speaker>C-MS</Speaker><shake>||:시, 신경 쓰지 마!+그것보다, 감히 날 기동팀에 편성하다니.+난 지휘관의 상관인데, 저기 저 의자에 앉아서 지시나 내리고 해야 하는 거 아니야?
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:<size=35>저, C-MS 씨...</size>
+CBJMS(4)<Speaker>C-MS</Speaker>||:흥, 그래도 부하의 얼굴을 봐서 어울려줄게.
+()||:지휘관은 쓴웃음을 지으며 C-MS와 Z-62에게 지령을 전달했다.
+CBJMS(4)<Speaker>C-MS</Speaker>||:이건...?
+()<Speaker>지휘관</Speaker>||:너희의 임무는 다른 대원들을 보조하는 거야.+수색 작업 도중 돌발상황이 얼마든지 발생할 수 있으니, 그에 대응하는 기동팀의 역할은 아주 중요해.+만약 임무 수행 중 심각한 문제가 생기면 곧장 날 찾아오도록.
+Z62(2)<Speaker>Z-62</Speaker>||:<size=35>아, 알겠습니다...</size>
+CBJMS(4)<Speaker>C-MS</Speaker>||:좋아, 중요한 역할이라면야 내가 나설 수밖에 없지.+...잠깐, "너희"라고? 나 말고 또 누가 기동팀인데?
+CBJMS(4)<Speaker>지휘관</Speaker>||:...아까부터 네 옆에 있잖아.
+()||:C-MS는 그제서야 자기 옆에 서 있는 인형의 존재를 눈치챘다.
+CBJMS(4)<Speaker>C-MS</Speaker>||:아이 깜짝이야.
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:아, 안녕하세요, C-MS 씨...
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker>||:새 부하야? 처음 보는 얼굴이네.
+Z62(2);CBJMS(4)<Speaker>지휘관</Speaker>||:어... 지휘실에서 Z-62랑 만났잖아?
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker>||:그랬던가?
+Z62(2);CBJMS(4)<Speaker>지휘관</Speaker>||:다른 사람들을 부하 취급할 거면, 적어도 얼굴은 기억해야지...
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:괘, 괜찮아요... 얼굴은 천천히 익혀도 돼요...+<size=35>그리고 전 원래부터 존재감이...</size>
+<Speaker>지휘관</Speaker>()||:다 각자의 능력에 맞춰 편성됐으니까 자신감을 가지렴.
+CBJMS(4)<Speaker>지휘관</Speaker>||:C-MS는 Z-62와 함께 이곳저곳을 둘러봐 봐. 어디 도움이 필요한 곳은 없는지 말이야.+자 그럼, 임무 수고해.
+CBJMS(4)<Speaker>C-MS</Speaker>||:쳇, 날 부하처럼 부려먹다니 정말 위아래가 없다니까.+나중에 어깨 주물러 줘야 해!
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:저기... 지휘관님 벌써 떠나셨는데요...
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏1>:뭐야?!
+CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏2>:흐음... 지휘관이 우리더러 다른 녀석들을 도우라고는 했지만, 다들 딱히 도움이 필요해 보이지도 않는데?+그냥 우리끼리 물총 싸움하는 게 어때, 새 부하?
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:......+"몇 년 후, 아우렐리아노 대령은 사형 집행대 앞에 서서..."
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker>||:야, 너 뭐해?
+()||:뭔가를 읽으면서 중얼대는 Z-62에게 호기심이 발동한 C-MS는 그대로 그녀에게 얼굴을 들이밀었다.
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker>||:오~ 넌 소설을 소리 내면서 읽는 습관이 있구나?
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:아뇨, 책을 항상 끝까지 읽지 못해서 틈이 날 때마다...+아앗!
+()||:Z-62는 아차 하며 책을 덮었다.
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)||:C, C-MS 씨... 무, 무슨 일이세요...?
+CBJMS(4)<Speaker>C-MS</Speaker>||:너, 지금 농땡이 부리는 거야?
+Z62(2)<Speaker>Z-62</Speaker>||:아아아아뇨!+그, 그냥... 빨리 다 읽고 싶어서...
+CBJMS(4)<Speaker>C-MS</Speaker>;Z62(2)||:그러면 안 되지이~ 중요한 임무 중인데 네가 이렇게 딴짓을 했다는 걸 지휘관이 알았다간...
+CBJMS(4);Z62(2)<Speaker>Z-62</Speaker>||:에엣...!?
+CBJMS(4)<Speaker>C-MS</Speaker>;Z62(2)||:지휘관한테 들키긴 싫지?+그럼 내가 시키는 대로 해.
+CBJMS(4);Z62(2)<Speaker>Z-62</Speaker>||:하지만...
+CBJMS(4)<Speaker>C-MS</Speaker>||:대답은?
+Z62(2)<Speaker>Z-62</Speaker>||:A, aye aye Ma'am!
+CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏1>:<color=#A9A9A9>(헤헤, 아주 쉽게 심부름꾼을 손에 넣었네.)</color>
+()||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:......
+()||<黑屏1>:...1시간 후.
+()||<BIN>162</BIN><黑屏2>:Z-62은 C-MS에게 돌아가려던 참이었다.
+CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||<BGM>m_avg_casual</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>상황 보고~</color>
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||:박하 맛은 다 팔렸어요...
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||:<color=#00CCFF>그, 그럴 수가!</color>+<color=#00CCFF>그럼 지금 이게 마지막이란 거야?</color>
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||:벌써 실컷 먹었잖아요... 그걸로 20개째인데...+가게 주인도 이제 제 얼굴을 기억할 거예요...
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||:<color=#00CCFF>그럼 할 수 없지 뭐.</color>+<color=#00CCFF>잠깐 쉬고 다음 임무 준비해.</color>
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||:저기... 한 가지 물어봐도 될까요...?+지금 제게 시키는 일... 정말 인어 수색 작전에 도움이 되는 일이에요?
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||:<color=#00CCFF>물론이지, 아이스크림 심부름은 네 수색 능력을 시험해 본 거야.</color>+<color=#00CCFF>이제... 본격적인 인어 수색 작전을 시작하자고.</color>
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||:아, 그리고... 조금 전에 일은...
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||:<color=#00CCFF>무슨 일?</color>
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||:그러니까... 제가... 딴짓했던 일 말인데요...
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||:<color=#00CCFF>너 딴짓했어?</color>
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||:벌써 잊었어요...?
+Z62(2);CBJMS(4)<Speaker>C-MS</Speaker><通讯框>||:<color=#00CCFF>뭐래. 알아듣게 좀 말해.</color>+<color=#00CCFF>아무튼, 계속 잘하고 있어. 넌 분명 우수한 부하가 될 수 있을 거야.</color>+<color=#00CCFF>어디 보자, 다음 임무는... 현지에서 수박을 사 와.</color>
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(4)<通讯框>||<黑屏1>:아, 알겠습니다!+<color=#A9A9A9>(날 이렇게 중용해 준 사람은 처음이야... 힘내자!)</color>
+CBJMS(4)<Speaker>C-MS</Speaker><BIN>9</BIN>||<黑屏2>:(근데 쟤 이름이 뭐였더라...?)+(하음... 모르겠다, 졸린데 좀 자야지.)
+()||:......
+()||<黑屏1>:얼마 후, 꾸벅꾸벅 조는 C-MS에게 Z-62이 통신 연결을 했다.
+Z62(2)<Speaker>Z-62</Speaker><通讯框>||<黑屏2><BIN>162</BIN><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>저... 수박을 샀어요.</color>+<color=#00CCFF>또 할 일은 없나요?</color>
+CBJMS(4)<Speaker>C-MS</Speaker>||:쿠울...
+Z62(2)<Speaker>Z-62</Speaker><通讯框>||:<color=#00CCFF>C-MS 씨?</color>
+CBJMS(4)<Speaker>C-MS</Speaker>||:수박은... 음냐... 찬 게 맛있어... 쿠울...
+Z62(2)<Speaker>Z-62</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>네? 차, 찬 수박이요? 알겠어요... 저기, C-MS 씨, 지금 어디 계세요...?</color>+<color=#00CCFF>여보세요...? C-MS 씨...?</color>
+<Speaker>C-MS</Speaker>()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2>:쿠울...
+()||<黑屏1>:......
+<Speaker>지휘관</Speaker>()||<BIN>162</BIN><黑屏2>:어휴 내가 못 살아...
+CBJMS(4)<Speaker>C-MS</Speaker><眨眼>||:......+우웅... 5분만 더어...
+CBJMS(4)<Speaker>C-MS</Speaker>||<BGM>BGM_Moon</BGM>:...지휘관?
+CBJMS(4)<Speaker>C-MS</Speaker>||<震屏>:지, 지지지지지휘관!? 여긴 왜 왔어?!
+CBJMS(4)<Speaker>지휘관</Speaker>||:이제 일어났니?+우수한 C-MS가 임무도 내팽개치고 쿨쿨 곯아떨어져 있을 줄은 예상치 못했는걸?
+CBJMS(4)<Speaker>C-MS</Speaker>||:아... 아니야!+해도 해도 너무 지루하잖아!
+CBJMS(4)<Speaker>지휘관</Speaker>||:오기 전에 물총 싸움을 하자고 한 게 누구였더라? 아무튼, 임무 다 끝나면 모두랑 같이 놀아도 돼.
+CBJMS(4)<Speaker>C-MS</Speaker>||:흥, 말 안 해 줘도 그럴 셈이었거든?
+()||:삐삐삐.+지휘관의 통신 단말기에 신호가 왔다.
+CBJMS(4)<Speaker>지휘관</Speaker>||:지금 다른 팀에게서 지원 요청 신호가 들어왔어.+네가 대신 가 보렴.
+CBJMS(4)<Speaker>C-MS</Speaker>||:싫어. 물총 놀이할 거야.
+CBJMS(4)<Speaker>지휘관</Speaker>||:끝나면 실컷 놀게 해 줄 테니까...+아차, Z-62도 잊지 말고 함께 데려가.
+CBJMS(4)<Speaker>C-MS</Speaker>||:(부하 주제에 나한테 명령이라니... 이 임무를 완벽하게 수행해서 코를 아주 납작하게―)
+CBJMS(4)<Speaker>지휘관</Speaker>||:C-MS?
+CBJMS(4)<Speaker>C-MS</Speaker>||:아, 알았어!+금방 갈게!
+CBJMS(4)<Speaker>지휘관</Speaker>||:원래대로라면 나도 함께 가야겠지만, 지금 다른 곳에서도 일이 생겨서 말이지.+나중에 다시 보러 올게.
+CBJMS(4)<Speaker>C-MS</Speaker>||:흥, 오면 어깨 주물러 주라고...+......?+또 언제 가 버린 거야!?+아 몰라! 다른 녀석들이나 보러 가야지.
+CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:...근데, Z-62이 누구였더라?
+4type(3)<Speaker>4식</Speaker>||<黑屏2>:끝났다... 다 끝났어...+나의 원고가... 아아...
+CBJMS(4)<Speaker>C-MS</Speaker>;4type(3)||:야, 신호 보낸 거 너지?
+CBJMS(4);4type(3)<Speaker>4식</Speaker>||:오오, 구원의 손길이구나!+C-MS! 내 말을 들어 주시오...
+()||:그리고 4식은 10분 내내 무슨 일이 있었는지 설명했다.
+CBJMS(4)<Speaker>C-MS</Speaker>;4type(3)||:그래서, 원고가 다 젖었다고? 거참 재수 없네.
+CBJMS(4);4type(3)<Speaker>4식</Speaker>||:이제 어찌하면 좋을지...
+CBJMS(4)<Speaker>C-MS</Speaker>||<BGM>m_avg_casual</BGM>:(물총을 꺼내 들며) 그래, 어쩌면 좋을까.
+4type(3)<Speaker>4식</Speaker>||:왜, 왜 그러시오? 갑자기 총을 꺼내다니, 내가 무슨 잘못이라도 저질렀소?
+CBJMS(4)<Speaker>C-MS</Speaker>;4type(3)||:들어 보니까 다 네가 그리던 만화가 어쩌고 하는 것뿐이잖아. 그 말인즉슨... 인어를 찾는 임무는 전혀 하지 않았단 뜻이지?
+CBJMS(4);4type(3)<Speaker>4식</Speaker>||:어? 그건 그렇지만——
+CBJMS(4)<Speaker>C-MS</Speaker>||:삐뚤어졌구나, 4식.+널 교정시키는 게... 내 의무야.
+()||<SE1>AVG_pistol_finalshot_n</SE1>:타앙!+총소리가 울려 퍼졌고, 4식은 물웅덩이에 쓰러졌다.+C-MS는 쪼그려 앉아 4식의 얼굴을 찰싹찰싹 때려 보았지만, 반응은 없었다.
+CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏1>:와우, 정말 인형이 기절할 정도구나.+MDR이 추천한 총성 발생기, 효과 괜찮은데?
+Lewis(2)<Speaker>루이스</Speaker>||<黑屏2>:이 선크림 어때?
+CBJMS(4)<Speaker>C-MS</Speaker>;Lewis(2)||:효과 좋네.+그런데, 겨우 선크림 발라 달라고 날 부른 거야?
+CBJMS(4);Lewis(2)<Speaker>루이스</Speaker>||:응. 사실은 지휘관에게 부탁할 생각이었어.+직접 바르기 어려운 곳이 많잖아?
+CBJMS(4)<Speaker>C-MS</Speaker>;Lewis(2)||:지휘관에게 이런 일을 시킬 생각이었다니... 임무는?
+CBJMS(4);Lewis(2)<Speaker>루이스</Speaker>||:외모는 인형의 소중한 자산이라고.+인어를 찾는 건 조금 늦어져도 괜찮잖아.
+CBJMS(4)<Speaker></Speaker>||<SE1>AVG_pistol_finalshot_n</SE1>:타앙.+또 한 번 총성이 터졌고, 루이스도 물웅덩이 위에 엎어졌다. C-MS는 만족스럽게 총구를 훅 불었다.
+CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏1>:역시, 루이스도 타락했군.+자아, 다음은 누구냐!
+SPS(2)<Speaker>세르듀코프</Speaker>||<黑屏2>:힘내 88식! 지휘관이 곧 올 거야!
+Type88(5)<Speaker>88식</Speaker>||:으으...
+CBJMS(4)<Speaker>C-MS</Speaker>||:지휘관은 안 와.
+SPS(2)<Speaker>세르듀코프</Speaker>||<震屏>:뭣——
+()||:타앙... 하는 총성이 이번엔 터지지 않았다.+가느다란 물줄기만이 세르듀코프의 얼굴에 뿌려졌을 뿐이었다.
+CBJMS(4)<Speaker>C-MS</Speaker>||:어, 어라? 배터리가 다 됐나?
+CBJMS(4);SPS(2)<Speaker>세르듀코프</Speaker>||:C-MS... 여기저기서 사고 치고 있다는 녀석이 너였구나?
+CBJMS(4)<Speaker>C-MS</Speaker>;SPS(2)||:아, 아니야, 난 그냥 장난...이 아니라, 도와주려고.
+CBJMS(4);SPS(2)<Speaker>세르듀코프</Speaker>||:오호라, 장난~?+사카모토 씨! 붙잡아!
+CBJMS(4)<Speaker>C-MS</Speaker>;SPS(2)||:사카... 뭐? 그게 누구―
+CBJMS(4)<Speaker>C-MS</Speaker>||<震屏>:으악!? 이게 뭐야! 아야! 아야야!
+()||:어디선가 날아온 까마귀 한 마리가 C-MS의 얼굴을 덮쳤다.
+SPS(2)<Speaker>세르듀코프</Speaker>||:역시 내 파트너야.
+CBJMS(4)<Speaker>C-MS</Speaker>;SPS(2)||:으아앙! 내가 잘못했어! 그만해!
+CBJMS(4);SPS(2)<Speaker>세르듀코프</Speaker>||:안 돼, 같이 모두에게 사과하러 가 줘야겠어.
+CBJMS(4)<Speaker>C-MS</Speaker>||:으으으...+...흥, 지금이다!
+()||:C-MS는 먹다 남은 아이스크림 막대를 던져 까마귀의 주의를 돌렸다.
+SPS(2)<Speaker>세르듀코프</Speaker>||:어? 야!
+CBJMS(4)<Speaker>C-MS</Speaker>||<黑屏1>:잘 있어라!
+4type(2)<Speaker>4식</Speaker><通讯框>||<BIN>9</BIN><黑屏2>:<color=#00CCFF>서쪽엔 없소이다.</color>
+Lewis(2)<Speaker>루이스</Speaker><通讯框>||:<color=#00CCFF>동쪽에도 없는 것 같아.</color>
+SPS(2)<Speaker>세르듀코프</Speaker>||<黑屏1>:그렇다면 내 근처에서 숨어 있는 거겠지.+두고 봐... 반드시 찾아내고 말 테니까.
+()||<BIN>163</BIN><黑屏2>:바닷가의 어느 오두막.
+CBJMS(4)<Speaker>C-MS</Speaker>||:휴우... 겨우 숨을 곳을 찾았네.+어쩌다 일이 이렇게 된 거지?+난 모두의 버르장머리를 고치려 했을 뿐인데...
+()||:그때, 발소리와 함께 누군가가 다가왔다.
+CBJMS(4)<Speaker>C-MS</Speaker>||:누구야!?
+Z62(2)<Speaker>Z-62</Speaker>||:저예요, C-MS 씨.
+CBJMS(4)<Speaker>C-MS</Speaker>;Z62(2)||:너는...?+...모르겠네. 네가 누구든 상관없으니까 밖에 세르듀코프 녀석들이 갔나 좀 봐줘.
+Z62(2)<Speaker></Speaker>||:Z-62는 땅이 꺼져라 한숨을 쉬었다.
+Z62(2)<Speaker>Z-62</Speaker>||:하아아... 좋아요.+대신 물총을 빌려주세요.
+CBJMS(4)<Speaker>C-MS</Speaker>||:응? 이건 왜?
+Z62(2)<Speaker>Z-62</Speaker>||:그게 당신의 "범행 도구"잖아요?+그걸로 세르듀코프 씨를 다른 곳으로 유인할게요.
+()||:Z-62는 안경을 고쳐 쓰며 제안했다.
+CBJMS(4)<Speaker>C-MS</Speaker>||:오호, 좋은 생각이야.+자. 하지만 총성 발생기의 배터리가 다 돼서 지금은 그냥 물총이야.
+()||:Z-62는 물총을 받아 들고는 잠시 고민하더니, 돌연 입꼬리가 살짝 올라갔다.
+Z62(2)<Speaker>Z-62</Speaker>||:그렇다는 건... 제가 이걸로 당신을 쏴도 아무도 모른다는 소리네요.
+CBJMS(4)<Speaker>C-MS</Speaker>||:그렇지.+.......응?+지금 뭐라고...?
+Z62(2)<Speaker>Z-62</Speaker>||:제 이름을 잘 기억하세요! 저는 Z-62!+부하를 온종일 바닷가에 내버려 둔 채로 잊어버린 상관이 어디 있어요!?+C-MS 씨 바보멍청이해삼말미잘!
+()||:치익 치익 치익! Z-62의 연속 물총 사격은 전부 C-MS의 미간 정중앙에 명중했다.
+CBJMS(4)<Speaker>C-MS</Speaker>||:어푸풉! 사, 살려줘!
+()||:C-MS는 헐레벌떡 오두막에서 뛰쳐나왔지만, 밖에서 기다리고 있던 것은...
+SPS(2)<Speaker>세르듀코프</Speaker>||:잡았다!
+CBJMS(4)<Speaker>C-MS</Speaker>||<SE1>AVG_Punch</SE1><BGM>BGM_Empty</BGM>:으윽...!
+()||<黑屏1>:C-MS는 목덜미를 붙들려 제압당했다.
+()<Speaker>지휘관</Speaker>||<黑屏2><BGM>GF_Memorial</BGM>:이 녀석, 허튼짓 하지 말고 평소처럼 모두를 도와줬으면 얼마나 좋아?
+CBJMS(5)<Speaker>C-MS</Speaker>||:다들 자기들끼리 신나게 노는 것 같더만! 그리고 몸매도 부럽고!
+CBJMS(5)<Speaker>지휘관</Speaker>||:너 말이야...
+SPS(2)<Speaker>세르듀코프</Speaker>||:지휘관님, 얘는 신경 쓰지 말고 여기서 반성이나 하고 있으라 해요.
+4type(2)<Speaker>4식</Speaker>;SPS(2)||:소녀도 세르듀코프에게 동의하옵니다.+아, 수박이 몇 조각 안 남았사옵니다.
+CBJMS(5)<Speaker>지휘관</Speaker>||:알았어, 더 썰어 줄게.
+4type(2)<Speaker>4식</Speaker>||:이것 참 면목이 없사옵니다. 소녀가 인간만큼 손재주가 좋았다면 지휘관 나리에게 수고를 끼칠 일도 없었을 터인데.
+()<Speaker>지휘관</Speaker>||:괜찮아, 애초에 모두 편하게 쉬라고 온 거니까.+그리고 넌 네 임무도 있잖아.
+CBJMS(5)<Speaker>지휘관</Speaker>||:C-MS, 반성하고 있어?+얌전히 있으면 너도 수박 줄게.
+CBJMS(5)<Speaker>C-MS</Speaker>||:흥!
+()||:지휘관 일행이 떠나고 잠시 뒤, Z-62가 슬쩍 수박 두 조각을 C-MS에게 가져왔다.
+Z62(2)<Speaker>Z-62</Speaker>||:C-MS 씨...
+CBJMS(5)<Speaker>C-MS</Speaker>||:뭐.
+Z62(2)<Speaker>Z-62</Speaker>||:수박 좀 가져왔는데, 먹을래요?
+()||:C-MS는 고개를 끄덕이며 수박을 받았다.
+Z62(2)<Speaker>Z-62</Speaker>||:C-MS 씨, 화났어요?
+CBJMS(5)<Speaker>C-MS</Speaker>||:...내가 왜 화를 내?
+()||:그 대답을 들은 Z-62은 배시시 웃었다.
+Z62(2)<Speaker>Z-62</Speaker>||:그렇군요...+사실, 전 당신이 저를 기억해 주길 바라서 그랬던 거예요....+잠깐이긴 했지만, 당신의 부하니까요.
+CBJMS(5)<Speaker>C-MS</Speaker>||:퉤, 퉷퉷.
+()||:C-MS가 수박씨를 뱉었다.
+CBJMS(5)<Speaker>C-MS</Speaker>||:이 수박, 씨가 참 많네.+그래도 무지 맛있어. 고마워.
+Z62(2)<Speaker>Z-62</Speaker>||:그런데...+전혀 신경쓰지 않았군요... 괜한 걱정이었네요.+오늘 함께 임무를 수행해서 즐거웠어요.+그게... 누가 제게 그렇게 많은 일을 시킨 적이 없었거든요...+아, 다 드셨어요? 몇 조각 더 가져올게요.
+CBJMS(5)<Speaker>C-MS</Speaker>||:으응... 뭐라고?+어라, 사라졌네?
+()<Speaker>지휘관</Speaker>||:C-MS, 반성 잘하고 있어? 수박 가져왔다.+응? 뭐야, 바닥에 수박씨가 잔뜩이잖아. 누가 몰래 가져다줬니?
+CBJMS(5)<Speaker>C-MS</Speaker>||:응. 방금... 어... 그 녀석 이름이 뭐였더라?
+CBJMS(5)<Speaker>지휘관</Speaker>||:......
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(5)||:C-MS 씨... 지금 뭐라고요...?
+()||<BGM>BGM_Empty</BGM>:쨍그랑! 새빨간 수박이 담긴 새하얀 접시가, Z-62의 손에서 미끄러져 바닥에 떨어졌다.
+CBJMS(5)<Speaker>C-MS</Speaker>||:뭐... 뭔데? 내가 무슨 말실수 했어?
+()||:갑작스런 바람에, 나뭇잎들이 쏴아쏴아 불길한 소리를 냈다.
+())<Speaker>지휘관</Speaker>||:오늘 밤을 만끽하라고 말하러 왔더니만...+이거 아무래도, 굳이 말 안 해도 되겠구나.
+CBJMS(5)<Speaker>C-MS</Speaker>||:어, 야, 총은 갑자기 왜 꺼내?
+Z62(2)<Speaker>Z-62</Speaker>;CBJMS(5)||:"야"가 아니라, Z-62... Z-62...! Z-62라고요!
+Z62(2);CBJMS(5)<Speaker>C-MS</Speaker>||:지, 지휘관! 도와줘! 저 녀석 표정이 무서워!
+Z62(2)<Speaker>Z-62</Speaker>||:제 이름은 Z! 6! 2란 말이에요!+대체 몇 번을 말해야 기억할 거예요오오오오오!!!
+CBJMS(5)<Speaker>C-MS</Speaker>||<BGM>BGM_Empty</BGM><黑点1>:으아아아아! 미안해, 정말 미안해애애애!!!
+()||<BGM>BGM_Moon</BGM><黑点2>:맑은 달빛 아래, 하얀 백사장은 C-MS와 Z-62가 뛰노는 소리로 시끄러워졌다.+훗날 추억으로 되새길 수 있을 그 광경을, 지휘관은 느긋하게 지켜보았다.
+()<Speaker>지휘관</Speaker>||:모두 항상 이런 식으로 즐겁게 지낼 수 있으면 좋겠네. 이런 날이... 다시 올지는 알 수 없지만.
+()||<黑屏1>:지휘관은 마음속으로 다짐했다.+스스로도 알 수 없었다. 오늘같이 즐거운 늦여름날을, 또 언제 즐길 수 있을지.+어쩌면... 두 번 다시 오지 않을지도 모르니까.

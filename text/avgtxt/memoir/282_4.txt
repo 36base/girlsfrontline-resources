@@ -1,0 +1,98 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>22</BIN><BGM>GF_Swim_Marnie</BGM>:며칠 후, 그리폰 정비실.
+APSMod(0)<Position>0,35</Position><Shake>0.1</Shake><Speaker>스테츠킨</Speaker>||<震屏3><SE1>AVG_Thunder_Dry</SE1>:뭐, 뭐야 이게?!+내 의뢰비... 내 출장비... 뭐야, 다 어디 갔어?!!
+()||:스테츠킨이 막 출력된 수복 비용을 보고 경악했다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:미안해 스테츠킨, 그치만 마인드맵 다운처럼 까다로운 고장은 원래부터 비용이 많이 든단 말이야...+그리고, 온전히 네 탓이니 어쩔 수 없는 일 아니겠어?
+NPC-Kalin(0)<同时置暗><Speaker>스테츠킨</Speaker>||:웃기지 마, 이건 산재라고 산재!!+그런데 어떻게 수복비를 내 수당에서 떼어 가냐고!
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:함께 갔던 DP-12랑 VSK-94는 아무 문제 없었잖아.+그리고 임무 보고서에도 무력 충돌 같은 거 전혀 없다 했고...+그러니까 이건 산재로 못 쳐 줘, 사비로 처리할 수밖에.
+()<Speaker>스테츠킨</Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><黑点1>:<size=50>이런 게 어딨어어어어엉!!!</size>
+DP12MOD(0)<Position>0,60</Position><Speaker>？？？</Speaker>||<黑点2><BIN>97</BIN>:......
+DP12MOD(0)<Position>0,60</Position><Speaker></Speaker>||:스테츠킨과 카리나가 옥신각신하는 와중, 우아한 그림자가 정비실의 문을 뒤로했다.
+DP12MOD(0)<Position>0,60</Position><同时置暗><Speaker></Speaker>||<SE1>AVG_Walk</SE1>:둘의 대화를 잠시 살핀 DP-12가, 옅은 미소를 띠고서 조용히 떠나는 모습이었다.
+()||<SE1>Stop_AVG_loop</SE1>:하지만 그런 그녀도 눈치채지 못한 한구석.+예리한 한 쌍의 눈동자가 그녀를 조용히 주시하고 있었다.
+VSK(0)<Position>0,-40</Position><Speaker>VSK-94</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:......
+()||<黑点2><BIN>313</BIN><BGM>GF_21summer_avg_Demon</BGM>:번화가의 어느 술집.
+()||<SE1>AVG_Chimes</SE1><SE1>AVG_20Winter_Door_Open</SE1>:문가의 방울 소리가 손님을 맞이했다.
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>||:......+DP-12 양, 사람을 불러 놓고 정작 자신이 지각하는 것은 상대에게 매우 실례되는 일인데.
+DP12MOD(0)<Position>0,60</Position><Speaker>DP-12</Speaker>||:후훗... 오래 기다리게 해서 정말 미안해요.
+()||<SE1>AVG_va_addingredient</SE1>:DP-12는 사뿐사뿐 다가가, 가녀린 손으로 트로이에게 술을 따라 주곤 우아하게 자리에 앉았다.+새로운 소체로 바꾼 DP-12는 아예 전혀 다른 사람처럼 보여, 조금이나마 남아 있던 "예전"의 분위기마저 지워졌다.
+DP12MOD(0)<Position>0,60</Position><Speaker>DP-12</Speaker>||:다만, 이제 우리의 연극도 막을 내려야겠네요... 안 그래요, 트로이 도련님?
+NPC-Troy(1)<Position>0,-40</Position><Speaker>트로이</Speaker>||:흥, 네가 먼저 제안했으면서.+직장 동료에게 "장난"이라... 네 속내는 여전히 예측불가로군, 헬렌.
+DP12MOD(0)<Position>0,60</Position><Speaker>DP-12</Speaker>||:장난이라뇨~ 그냥 사소한 농담일 뿐인걸요.+이번 고비를 넘기도록 도와주셔서 정말 고마워요.
+()||:트로이는 상대의 천연덕스러운 말에 질렸다는 듯 콧방귀를 뀌었다.
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>||:그 직장 동료가 먼저 들이대지 않았다면 평생 그리폰에 숨어있을 셈이었나?+10년만에 다시 연락한 이유가 어쩔 수 없어서였다고는 하지 말아 줘.
+()||<SE1>AVG_20Winter_Drink_Tea</SE1>:미소는 여전한 DP-12는 마치 새로운 소체로는 어떤 느낌인지 시험해보기라도 하는 듯, 차갑고 단단한 술잔을 가볍게 쥐었다.
+DP12MOD(0)<Position>0,60</Position><Speaker>DP-12</Speaker>||:폼잡고 "아니오"라 대답해드리고 싶지만...+이번엔 확실히 그 애들에게 몰린 상황이었어요.+연기에 어울려 주셔서 진심으로 감사드려요, 도련님.+그리고, 이렇게 다시 뵙게 돼서 정말 기뻐요.
+()||<SE1>AVG_20Winter_Cheers</SE1>:가볍게 부딪히는 술잔의 경쾌한 소리와 함께, 기억 속 묵은 때를 말끔히 지웠다.+차가운 액체는 비단처럼 목을 쓰다듬으며 따뜻한 뱃속으로 흘러들어갔다.
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>||:...나도 네가 다시 보러 와 줘서 정말 기뻐.+옛날 일에 대해선...+...정말 미안해.
+DP12MOD(0)<Position>0,60</Position><Speaker>DP-12</Speaker>||:어머나...+진심으로 사과하시는 건가요, 아님 단순한 겉치레인가요?
+()||:맞은편에 앉은 사람의 복잡한 눈길을 피해, DP-12는 고개를 숙이고 무의식적으로 손끝으로 테이블의 나뭇결을 훑었다.
+()||<黑屏1>:꾸불꾸불한 과거의 기억들은, 나무의 나이테처럼 지워지지 않는 흔적이었다.
+()||<黑屏2><Night><BIN>534</BIN><narrator><BGM>GF_21winter_avg_mahaline</BGM>:10년 전, 루카스 저택의 정원.
+()||<边框>2</边框><SE1>AVG_wind_grass</SE1>:자정이 가까워진 시각.+몰아치는 찬바람에 정원의 관목들이 울부짖는 한밤중.
+NPC-Troy(2)<Position>0,30</Position><Speaker>트로이</Speaker>||<边框>2</边框>:......
+()||<边框>2</边框>:얇은 옷 한 벌만 입은 트로이는 추위에 이를 떨면서도 고집스럽게 울타리를 붙잡고 밖으로 고개를 내밀고 있었다.
+NPC-DP12-Helen(2)<Position>0,-40</Position><Speaker>헬렌</Speaker>||<边框>2</边框>:......+도련님, 그만 돌아가요. 이러다 감기 걸리시겠어요.
+NPC-Troy(2)<Position>0,30</Position><Speaker>트로이</Speaker>||<边框>2</边框>:지금... 지금 몇 시야...?+오늘 같이 생일 파티 해 준다고 약속했단 말야...+꼭... 꼭 온댔는데...
+NPC-DP12-Helen(2)<Position>0,-40</Position><Speaker>헬렌</Speaker>||<边框>2</边框>:...23시 59분입니다.
+NPC-Troy(2)<Position>0,30</Position><Speaker>트로이</Speaker>||<边框>2</边框>:아직 1분 남았어... 1분...
+()||<边框>2</边框>:허나 그 1분도 1초처럼 순식간에 흘렀다.
+()||<边框>2</边框><SE1>AVG_wind_grass</SE1>:휘이잉!+더 거센 바람이 들판으로부터 불어와, 헬렌의 치맛자락을 어지럽히고 트로이의 머리카락을 나부꼈다.
+()||<边框>2</边框><白屏2>:그때, 자동차 전조등의 밝은 빛이 저 언덕 끝자락에서 나타났다.+이에 트로이는 흥분하며 울타리에 매달려, 그 빛을 뚫어져라 바라봤다.
+NPC-Troy(4)<Position>0,30</Position><Speaker>트로이</Speaker>||<边框>2</边框>:와, 왔다! 케이크 준비됐어?! 촛불은!?
+()||<边框>2</边框><SE1>AVG_20Winter_Horn_Car</SE1>:자동차의 엔진음이 점점 가까워지자, 트로이는 다급하게 헬렌의 옷을 잡아당겼다.
+NPC-DP12-Helen(0)<Position>0,-40</Position><Speaker>헬렌</Speaker>||<边框>2</边框>:네, 다 준비됐습니다.+아버님 어머님만 오시면 돼요, 소원은 함께 빌어야죠.
+()||<边框>2</边框>:깜깜하던 정원이 불똥 튀기는 생일 케이크의 촛불로 환해졌다.+생일의 주인공은 행여 부모님이 오기 전에 촛불이 꺼질까 봐, 손으로 촛불을 감쌌다.+어린 손바닥은 뜨거운 촛불로 따스하게 밝아졌다.
+()||<边框>2</边框><SE1>AVG_Moto_Run</SE1>:멀리서 다가오는 자동차는 속력을 줄이지 않았다.+1초라도 더 빨리, 트로이에게 다가오려는 것처럼.
+()||<边框>2</边框>:5초... 4초...
+()||<边框>2</边框><SE1>AVG_engine_speedup</SE1>:새하얀 자동차는 멈추지 않았다.+바람처럼 정원의 철문을 스치고 지나갔다.
+()||<边框>2</边框>:자동차가 지나치면서 일으킨 돌풍에 촛불이 꺼졌다.+피어오르는 하얀 연기는 저 끝없는 어둠 속으로 흩어졌다.
+()||<SE1>AVG_Bell</SE1><边框>2</边框>:그리고 멀리 교회의 종소리가 울려 퍼지며, 하루의 종말을 선고했다.
+NPC-Troy(2)<Position>0,30</Position><Speaker>트로이</Speaker>||<边框>2</边框>:......+날짜, 지났네.
+NPC-DP12-Helen(2)<Position>0,-40</Position><Speaker>헬렌</Speaker>||<边框>2</边框>:............
+()||<边框>2</边框><SE1>ClothingUp</SE1><黑屏1>:트로이는 무심한 척 울타리에서 손을 놓았다.+그리고 조용한 헬렌의 눈길을 받으며, 한 걸음 한 걸음 저택으로 발을 옮겼다.
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>||<BIN>313</BIN><黑屏2><关闭蒙版>:......+어릴 적 나는, 네가 내 삶을 망쳤다 여겼어.+너만 없어지면 원만한 생활이 돌아오리라고, 순진해 빠진 착각에 눈이 멀었지.
+DP12MOD(0)<Position>0,60</Position><Speaker>DP-12</Speaker>||<黑屏1>:......
+()||<黑屏2><边框>2</边框><BIN>240</BIN><回忆>:굳게 닫힌 방.+안에서는 어린 아이가 훌쩍이는 소리가 멤돌았다.
+NPC-DP12-Helen(2)<Position>0,-40</Position><Speaker>헬렌</Speaker>||<边框>2</边框>:...도련님, 제가 도와드릴 일 있을까요?
+NPC-Troy(2)<Position>0,30</Position><Speaker>트로이</Speaker>||<边框>2</边框>:저리 꺼져!
+NPC-DP12-Helen(2)<Position>0,-40</Position><Speaker>헬렌</Speaker>||<边框>2</边框>:......+제가 무얼 잘못해서 화나셨는지 말씀해 주세요.
+()||<边框>2</边框>:고개를 든 트로이는 억지로 웃는 얼굴로, 헬렌에게 그의 평생 가장 증오와 독기로 가득 찬 눈빛을 쏘았다.+그 눈빛은 송곳처럼 헬렌의 가슴을 찔러, 깊은 구멍을 남겼다.
+NPC-DP12-Helen(1)<Position>0,-40</Position><Speaker>헬렌</Speaker>||<边框>2</边框>:............
+NPC-Troy(2)<Position>0,30</Position><Speaker>트로이</Speaker>||<边框>2</边框><SE1>Rope</SE1>:다... 너 때문이야.+너 때문에... 로봇 때문에 엄마 아빠가 날 버린 거야...
+NPC-DP12-Helen(1)<Position>0,-40</Position><Speaker>헬렌</Speaker>||<边框>2</边框>:............
+()||<边框>2</边框>:그의 눈동자는 실의와 억울함이 모인 바다가 되었다.+그리고 그 한가운데서 모든 걸 집어삼키는 폭풍이 파도를 일으켜, 그의 마지막 양심까지 갉아먹고 말았다.
+NPC-Troy(2)<Position>0,30</Position><Speaker>트로이</Speaker>||<边框>2</边框>:그러니까... 속죄하는 셈 치고, 내가 시키는 대로 해.
+()||<边框>2</边框>:트로이의 웃는 얼굴은 울분과 증오로 뒤틀렸다.
+NPC-Troy(4)<Position>0,30</Position><Speaker>트로이</Speaker>||<边框>2</边框><黑屏1>:명령이야, 헬렌.+날 납치해.+나를 납치해.
+()||<黑屏2><BIN>313</BIN><关闭蒙版>:......
+NPC-Troy(1)<Position>0,-40</Position><Speaker>트로이</Speaker>||:...그들이 널 죽이지 않아 천만다행이었지.
+DP12MOD(0)<Position>0,60</Position><Speaker>DP-12</Speaker>||:어린애의 심술궃은 장난은 벌써 잊은 지 오랜걸요.
+DP12MOD(0)<Position>0,60</Position><同时置暗><Speaker></Speaker>||:DP-12는 눈을 가늘게 뜨고 미소지었다.
+DP12MOD(0)<Position>0,60</Position><Speaker>DP-12</Speaker>||:부모님 곁으로 돌아가신 뒤엔... 잘 지내셨나요?
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>||:아무렴, 납치 사건 후론 한동안은 천국 같았지.+하지만 결국 그것도 오래가지 않았어.+그들은 또 나를 로봇에게 맡기고 가버렸지... 인간을 해친다는 생각은 죽어도 못할 깡통들한테.
+DP12MOD(0)<Position>0,60</Position><Speaker>DP-12</Speaker>||:그래서 구속받지 않는 "헬렌"이 그리우신가요?
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>||:그리 말한다면...+그리폰에서 나와 내 곁에 와 줄 건가?
+()||<BGM>BGM_Empty</BGM><SE1>AVG_20Winter_Drink_Tea</SE1>:뜨거운 눈빛에, DP-12는 피식 웃으며 손가락을 입술에 가져다 댔다.
+DP12MOD(0)<Position>0,60</Position><Speaker>DP-12</Speaker>||<BGM>2022_white_valentine_BGM2</BGM>:죄송해요, 재미있는 농담을 들은 걸로 할게요.
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>||:......
+DP12MOD(0)<Position>0,60</Position><Speaker>DP-12</Speaker>||:도련님은 "헬렌"이 위험하고 독단적인 인형이라 그 누구도 자신의 의지 위에 눌러앉도록 둘 리 없다고 하셨죠.+하지만요, 트로이 도련님...+길들일 수 없는 영혼이 영원히 떠돌기만 하지는 않는답니다. 그저, 충성을 바칠 상대를 만나지 못했을 뿐인 거죠.+물론 도련님 곁으로 돌아간다면 다른 인형들은 꿈도 꾸지 못할 대우를 받을 수도 있겠지만...+하지만, 당신과 지휘관님은 결국 다른 사람이에요.
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>||:......+꽤나 상처받는 말이군.
+()||:트로이는 시무룩한 얼굴로 유리잔을 잔잔히 흔들었다.+그리고 다른 손바닥을 쥐었다 폈다하기를 몇 번.
+()||<SE1>ClothingUp</SE1>:그러다 갑자기 고개를 들어, 맑고 끈적한 액체를 단숨에 들이켰다.
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>||:그때 가문에 함께 고용될 뻔했던 인형... 이름이 "드셰브니"였던가. 너와 사이가 좋았던 걸로 기억하는데...+지금도 함께인가? 어떻게 지내지?
+DP12MOD(0)<Position>0,60</Position><Speaker>DP-12</Speaker>||:위험한 탈옥수가 된 저는 그동안 세간의 이목을 피하느라 인간관계를 여럿 끊어야만 했어요.+당신이 말씀하신 "그 아이"도 포함해서요.+도련님이라면 이해하시겠죠?
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>||:......하아.
+()||<SE1>AVG_File_Put</SE1>:트로이가 한숨을 푹 쉬고 자리에서 일어나더니, 품에서 명함 한 장을 꺼내 테이블에 놓았다.
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>||:더는 "헬렌"의 현상수배는 없을 거다.+마음 바뀌면 언제라도 연락해.
+()||:......
+()||<SE1>AVG_20Winter_Door_Close</SE1><SE1>AVG_Chimes</SE1>:낡은 문이 쿵 닫히며 울리는 맑은 방울소리가 술집을 나서는 손님을 배웅했다.
+DP12MOD(0)<Position>0,60</Position><Speaker>DP-12</Speaker>||:......+거기, 계속 숨어서 지켜보던 경관 아가씨.+여전히 저를 고발할 셈이신가요?
+()||<SE1>AVG_footsteps_woodfloor</SE1>:그 말에 VSK-94가 으슥한 구석에서 모습을 드러내, 등불이 비추는 곳으로 나왔다.+그녀가 주시하는 DP-12의 맑은 회색 눈동자는 다정하고, 얼굴의 미소는 평온했다.
+VSK(0)<Position>0,-40</Position><Speaker>VSK-94</Speaker>||<SE1>Stop_AVG_loop</SE1>:...아니.+수사는 끝났어.
+DP12MOD(0)<Position>0,60</Position><Speaker>DP-12</Speaker>||:어머? 그럼 결론을 들어봐도 될까요?
+VSK(0)<Position>0,-40</Position><Speaker>VSK-94</Speaker>||:그리폰&크루거 안전계약사의 전술인형 DP-12...+당신은 트로이 루카스를 납치해 지명수배된 인형 "헬렌"이 아니야.+아주 오래 전부터 아니었어.
+()||<SE1>ClothingUp</SE1>:대답을 들은 DP-12는 조용히 자리에서 일어나, VSK-94를 살며시 껴안았다.
+DP12MOD(0)<Position>0,60</Position><Speaker>DP-12</Speaker>||:네, 저는 DP-12예요...+...가요.+집에 돌아가요.
+()||:......
+()||<黑点1>:

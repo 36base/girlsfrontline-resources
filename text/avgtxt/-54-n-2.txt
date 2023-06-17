@@ -1,0 +1,62 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>139</BIN><BGM>GF_Swim_Marnie</BGM>:...10개월 전, 어느 자선 행사.+화려한 연회복을 입은 사람들이 테이블 사이를 오고가며 서로 잔을 부딪치고 담소를 나누었다.+그 안에 녹아든 니콜라스는 그야말로 물 만난 물고기였다.
+()<Speaker>사회자</Speaker>||:...이 자리를 찾아주신 여러분께 대단히 감사드립니다. 지금부터 자선 경매 코너를 시작하겠습니다!
+()||<SE1>AVG_applause_indoor</SE1>:우레 같은 박수가 터졌다. 니콜라스도 대충 분위기에 맞춰 박수를 치면서, 사람들 중에서 노릴만한 목표를 찾고 있었다.
+()<Speaker>사회자</Speaker>||<SE1>Stop_AVG_loop</SE1>:첫번째 경매품은 타치라 미술관에서 제공한 아르히프 쿠인지의 명화 [드네프르의 달밤]입니다.+큐레이터 매기 씨는 이 명화를 이렇게 소개했습니다——+여백의 미를 살린 화폭 안에, 푸른 밤하늘 아래 강물이 달빛을 받아 은은하게 푸른색으로 반짝이고, 보름달 주위의 구름도 차분한 푸른색으로, 적절한 유백이 공간의 고요함을 강조하여...
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:......
+()||:사회자가 입에 침이 마르도록 설명을 이어가는 중, 니콜라스의 샴페인 잔은 한참 동안 줄지 않고 그대로였다.+오랜 시간 고민하던 니콜라스는, 이윽고 굳어 있던 표정을 서서히 풀며 그 밑에 감춰둔 음흉한 미소를 드러냈다.
+NPC-NervousMan(1)<Speaker>니콜라스</Speaker>||<黑屏1>:조직에서 나와서 들은 최고의 소식이군.
+()||<黑屏2><Night><BIN>97</BIN><SE1>AVG_20Winter_People_Discussion_Loop</SE1>:...연회장 바깥 사람들이 북적이는 복도.+타치라 미술관의 큐레이터 매기는 명화에 흥미를 가진 빈객과 열띤 대화를 나누고 있었다.
+()||<SE1>Stop_AVG_loop</SE1>:니콜라스는 손에 든 샴페인 잔을 흔들며, 우연히 만난 척 매기 곁에 다가갔다.
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:[드네프르의 달밤], 소문이 끊긴 지 오래였던 이 명화를 여기서 보게 되다니 정말로 기쁘군요.
+ColtWalker(1)<Speaker>매기</Speaker>||:예, 저희 타치라 미술관도 방방곡곡 수소문을 한 끝에 고생해서 겨우 찾아낸 거랍니다.+잠깐, 그쪽 성함이...?
+ColtWalker(1);NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||<BGM>BGM_Empty</BGM>:니콜라스 바실리예비치라고 합니다, 니콜라스라고 부르시면 됩니다.
+ColtWalker(2)<Speaker>매기</Speaker>;NPC-NervousMan(0)||:반가워요, 니콜라스 씨. 지금 안에서 그 그림의 경매가 진행 중이니까, 흥미가 있으시면 놓치지 마세요.
+ColtWalker(2);NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||<BGM>BGM_stage11</BGM>:저 그림에 확실히 흥미가 많지만, 아쉽게도 경매에 참여할 생각은 없습니다.+저건 위조품이니까요.
+ColtWalker(4)<Speaker>매기</Speaker>;NPC-NervousMan(0)||:......
+ColtWalker(4);NPC-NervousMan(0)<同时置暗><Speaker></Speaker>||:매기 주변의 분위기가 순식간에 굳어버렸다. 하지만 매기는 계속 여유로운 미소를 유지했다.
+ColtWalker(2)<Speaker>매기</Speaker>;NPC-NervousMan(0)||:어머나, 농담이 심하시군요. 이 작품은 전문가의 심층 감정을 거쳤습니다. 절대 위조품일 리가 없어요.
+ColtWalker(2);NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:하지만 저도 제 말을 증명할 확실한 증거가 있습니다.
+ColtWalker(2)<Speaker>매기</Speaker>||:하하, 잠깐 실례하겠습니다, 여러분. 니콜라스 씨, 그 증거를 보여주실 수 있을까요?
+()||<黑屏1>:매기는 여유를 부리며 니콜라스에게 자리를 옮기자는 눈치를 주었고, 니콜라스도 더 입을 열지 않고 함께 이동했다.
+()||<黑屏2><BIN>18</BIN><Night>:...연회장 건물 밖.+다른 사람이 없음을 확인하고 매기가 걸음을 멈췄다.
+ColtWalker(1)<Speaker>매기</Speaker>||:니콜라스 씨, 누구의 초대를 받아 참석한 것인지는 몰라도, 그런 오해를 부르는 말씀은 삼가 주시기 바랍니다.+저희 타치라 미술관은 위조품을 일절 취급하지 않습니다.
+NPC-NervousMan(1)<Speaker>니콜라스</Speaker>||:아하, 그러십니까?
+()||:니콜라스는 하찮다는 듯이 웃었다.
+NPC-NervousMan(1)<Speaker>니콜라스</Speaker>||:저 그림의 진품을 본 적이 있습니다. 옛날 저희 아버지의 서재에 걸려 있었죠. 나중에 저희 영감님이 질렸다면서 해외의 한 수집가에게 파셨습니다.+제가 알기론 아직도 그 수집가의 응접실에 걸려 있을 겁니다.
+ColtWalker(3)<Speaker>매기</Speaker>||:......+그랬군요.
+()||:매기는 한동안 입을 다물었다가, 다시 우호적인 미소를 지었다.
+ColtWalker(1)<Speaker>매기</Speaker>||:설마 전문가의 전면적인 검증을 거쳤는데도 이런 실수가 발생하다니...
+ColtWalker(1);NPC-NervousMan(1)<Speaker>니콜라스</Speaker>||:전문가가 뒷돈을 엄청 먹었나 보죠.
+ColtWalker(1)<Speaker>매기</Speaker>;NPC-NervousMan(1)||:......+니콜라스 씨의 혜안에 감사를 표해야겠군요, 니콜라스 씨 아니었으면 저까지 속아넘어갈 뻔했어요.
+ColtWalker(1);NPC-NervousMan(1)<Speaker>니콜라스</Speaker>||:그래서요?
+ColtWalker(2)<Speaker>매기</Speaker>;NPC-NervousMan(1)||:전문가들은 이 그림이 진품과 완전히 똑같다고 했으니, 위조품이라도 사서 손해 볼 건 없겠죠.+이렇게 합시다, 니콜라스 씨. 저 그림의 낙찰가의 2할을 드리겠습니다, 감정 비용이라 치고요.
+NPC-NervousMan(1)<Speaker>니콜라스</Speaker>||:2할?
+()||:니콜라스는 미소 지으며 고개를 저었다.+매기는 웃음기를 잃지 않으면서도 어금니를 깨물었다.
+ColtWalker(2)<Speaker>매기</Speaker>||:...하긴, 고작 2할로 니콜라스 씨에 대한 감사를 전할 순 없겠죠.+5할, 더는 안 돼요. 저희 미술관도 마진을 내야 하지 않겠습니까.
+NPC-NervousMan(1)<Speaker>니콜라스</Speaker>||:아니 아니 아니.
+NPC-NervousMan(1)<同时置暗><Speaker></Speaker>||:니콜라스는 여전히 고개를 저었다.
+NPC-NervousMan(1)<Speaker>니콜라스</Speaker>||:실례입니다만, 당신은 시야가 너무 좁군요, 매기 씨.
+ColtWalker(2)<Speaker>매기</Speaker>||:그럼 니콜라스 씨의 고명한 의견을 들려주시죠.
+NPC-NervousMan(1)<Speaker>니콜라스</Speaker>||:이후 타치라 미술관의 모든 그림 작품을 제가 감정해 드릴 수 있습니다. 그리고 인간 사회의 규칙에 관한 것도 제가 처리하지요.+저희 아버지의 인맥으로 타치라 미술관의 진실성을 보장해 드리겠습니다.+그 보수로 작품 판매액의 5할만 받도록 하지요.
+()||:니콜라스가 벽에 기대 담배에 불을 붙였다.+피어오르는 연기 속에서 매기가 미소를 지었다.
+ColtWalker(2)<Speaker>매기</Speaker>||<黑屏1>:......+그럼 상부상조하며 잘해 봅시다, 니콜라스 씨.
+()||<黑屏2><BIN>9</BIN><黑屏1>:매기는 설마 이것이 그녀가 인생에서 가장 후회하는 선택이 될 줄은 아직 꿈에도 몰랐다.
+()||<关闭蒙版><黑屏2><BIN>356</BIN><BGM>BGM_Empty</BGM>:...8개월 후, 어느 세이프하우스.
+()||<BGM>BGM_Truth</BGM>:매기와 캐서린은 힘없이 바닥에 주저앉아 있고, 옆에서 큄비가 짜증을 내며 장부를 두들겼다.
+NPC-Quimby(0)<Position>0,300</Position><Speaker>큄비</Speaker>||:마스터! 그 자식 대체 뭐예요!?+하는 일마다 말아먹으면서 뭐가 잘났다고 수익 절반을 꼬박꼬박 떼가요!?
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;NPC-Quimby(0)<Position>0,300</Position>||:...어쩌겠냐, 녀석한테 약점이 잡혀 있는데.
+NPC-Quimby(0)<Position>0,300</Position><Speaker>큄비</Speaker>||:그냥 확 떼어내면 안 돼요?
+ColtWalker(3)<Speaker>매기</Speaker>||:내가 안 해봤겠냐? 아주 찰거머리가 따로 없다니까...
+()||<SE1>AVG_Cloak_Whoosh</SE1>:그러다 매기가 갑자기 벌떡 일어났다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:뭐야, 매기?
+ColtWalker(1)<Speaker>매기</Speaker>||:중대한 포인트를 깨달았어.
+NPC-Quimby(0)<Position>0,300</Position><Speaker>큄비</Speaker>||:뭔데요?
+ColtWalker(1)<Speaker>매기</Speaker>||:그 자식 지금은 한량 짓이나 하고 있지만, 부유한 집안을 빽으로 두고 있단 말이야...
+ColtWalker(1);NPC-Scalper(3)<Speaker>캐서린</Speaker>||:그래서?
+ColtWalker(1);NPC-Scalper(3)<同时置暗><Speaker></Speaker>||:매기는 위험한 웃음소리를 냈다.
+ColtWalker(2)<Speaker>매기</Speaker>;NPC-Scalper(3)||:연못의 물고기를 싹 다 잡아버리면 돈 버는 건 잠시뿐이야. 장기적인 수익을 창출하려면 지속가능한 계획이 필요해.
+ColtWalker(2);NPC-Scalper(0)<Speaker>캐서린</Speaker>||:너 설마...
+ColtWalker(2)<Speaker>매기</Speaker>||:어쩌면 이건 상류사회의 문턱을 넘을 기회일 수도 있어...
+()||:오래도록 울적했던 세이프하우스 안에 다시 활기찬 웃음소리가 퍼졌다.
+()||<黑屏1>:

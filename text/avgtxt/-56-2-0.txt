@@ -1,0 +1,231 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>9</BIN>:............
+()||<黑屏1>:베를린, 그리폰 임시 기지.
+()||<SE1>AVG_door_elecport</SE1><黑屏2><BIN>564</BIN>:부웅――
+()||<BGM>BGM_Brain</BGM>:전자 스크린만이 빛을 발하던 어두운 방의 문이 활짝 열려, 밖에서부터 환한 빛이 쏟아져 들어왔다.
+()||<SE1>AVG_footsteps_cave</SE1>:그 후광을 받으며 안으로 들어선 페르시카는 문 옆에 서 있던 AR-15와 가장 먼저 눈을 마주쳤다.
+NPC-Persica(0)<Speaker>페르시카</Speaker>||<SE1>Stop_AVG_loop</SE1>:...설탕 3배로 부탁해.
+NPC-Persica(0)<Speaker>지휘관</Speaker><同时置暗>||:페르시카 씨, 정말 괜찮으신 거 맞습니까? 진찰 안 받으셔도 되겠어요?+엘리아나가 힘조절은 했겠지만 한참을 기절하셨는데...
+NPC-Persica(1)<Speaker>페르시카</Speaker>||:너야말로 머리에 문제 없는지나 보라고... 2주 연속으로 눈 붙일 새도 없이 작업해서 간만에 좀 푹 잤더니 왜 자꾸 기절했네 마네 하는 건데.
+NPC-Persica(1)<Speaker>지휘관</Speaker><同时置暗>||:그때 엘리아나 보러 오라고 하셨잖습니까, 정말 기절당한 게 아닌 거 맞아요?+AR-15도 얼굴이 새파래져서 의료팀 부르려고 난리였는데.
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:그 침대 얼마나 안 썼으면 먼지가 그렇게 잔뜩 쌓여있어? 왜 눈 떠 보니 침대 위인가 했다.+아무튼 내 실험실은 왜 또 폭격당한 것처럼 엉망이야? 너네 짓이야?
+NPC-Persica(0)<Speaker>지휘관</Speaker><同时置暗>||:아니 바닥에 커피까지 엎질러진 채로 널브러져 계셨던데 어떻게 그게 그냥 엎어져 잔 겁니까... 진짜 후두부 맞고 기절한 게 아니라고요?
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:아 진짜 실험실에 발 디딜 틈도 없어서 아래층 가서 좀 누웠다니까!+어휴 그만그만. SCAR-L... 아, 지가 엘리아나랬나? 걔 이야기나 계속하자. 걔, 마인드맵에 문제가 좀 있어.
+AR15Mod(0)<Speaker>AR15</Speaker>||:네? 무슨 문제요?!+지휘관이 벌써 녀석한테 임무 주고 보냈는데요!?
+()||:내심 예상했던 바인지, 지휘관은 힘없이 한숨을 푹 쉬기만 했다.
+()<Speaker>지휘관</Speaker>||:어떤 문제인가요? 심각한 수준입니까?+눈 뜨자마자 날뛰면서 인질극까지 벌인 걸로 봐서는 멀쩡한 것 같지만 말이죠.
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:에휴, 너네 수준으로 알아챘으면 내가 여기 있지도 않았지.+뭐어 별로 심각한 건 아니야, 그냥 마인드맵에 삭제 불가능한 프로그램이 하나 심어져 있는데, 대충 바이러스 비슷한 거라 생각하면 돼.
+AR15Mod(5)<Speaker>AR15</Speaker>||:바이러스라니 충분히 심각한 문제잖아요! 중요한 비밀 임무까지 맡겼다고요!
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:아 글쎄 괜찮대도? 그 프로그램은 지정된 환경이 완벽하게 갖춰져야만 실행되는 거야. 원래 군에서 구르던 애니까 아마 보안을 위해 심은 기반 명령이겠지.+하지만 전쟁은 끝난 지 오래에 설계자도 이젠 찾을 수 없으니 딱히 큰 영향 없을걸?
+NPC-Persica(0)<Speaker>지휘관</Speaker><同时置暗>||:...어떤 "바이러스"인가요?
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:그건 아직 잘 몰라서 알아봐야 해, 전쟁통이라 괜찮을 법한 건 죄다 해보던 시대라서 말이지... 그래도 걔를 상시 관찰하는 정도로 커버할 수 있을 거야.
+NPC-Persica(0)<Speaker>지휘관</Speaker><同时置暗>||:그런 수준이라면 큰 문제는 없겠지만... 그래도 임무 수행에 말썽이 일어나지 않으리란 보장은 없군요.
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:그런 눈으로 보지 마, 급하다고 확인도 제대로 안 하고 임무 보내놓고선 왜 나한테 클레임이야?+AR-15, 커피 멀었어? 나 당분 없인 머리 안 돌아가.
+AR15Mod(0)<Speaker>AR15</Speaker>||:윽... 바로 가요!
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>167</BIN><SE1>AVG_AMB_Street</SE1>:베를린의 중앙 철도역, 인산인해를 이루는 검표소 앞.+예정 출발 시각으로부터 벌써 30분이나 지났건만 열차는 그림자도 보이질 않아, 셰릴은 초조해하며 연거푸 시간을 확인하는 중이었다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<SE1>Stop_AVG_loop</SE1>:왜 코빼기도 안 보이는 거야... 야, 내가 직원한테 물어보고 올 테니까 여기서 짐 보고 있어.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||<BGM>GF_Swim_Marnie</BGM>:잠깐!+...잠깐만.
+()||<SE1>Rope</SE1>:짐을 한아름 안은 채 계단에 앉아 있던 시모가 갑자기 팔을 붙잡자, 셰릴은 그 이유를 대강 파악했다.
+NPC-Cheryl(2)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:너 설마 보조 배터리 8개 벌써 다 써버린 건 아니지...?
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:응, 여기.
+()||<SE1>ClothingUp</SE1>:사모가 짐가방 하나를 셰릴에게 돌려줬다.
+NPC-Cheryl(2)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:아니 다 썼다고 왜 나한테 주는데!?+넌 진짜 어휴... 적당한 사람만 찾았어도 넌 집에다 처박아 두고 왔어! 어떻게 일주일 내내 알아봤는데 아무도 없냐고...
+()||<SE1>AVG_File_Put</SE1>:사모가 비실대며 머리를 기대니, 셰릴은 또 눈알을 굴렸다.
+()||<SE1>AVG_footsteps_cave</SE1>:싫은 티 팍팍 내며 한손으로 사모를 부축하던 셰릴이 문득 무언가 떠올라, 주위를 두리번거리다 눈을 반짝이며 어딘가로 시선을 고정했다.
+NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<SE1>Stop_AVG_loop</SE1>:야, 저기 가서 앉아!
+()||<SE1>ClothingUp</SE1>:셰릴은 인파를 헤치며 사모를 자판기 옆으로 끌고 가 앉혔다.
+()||<SE1>AVG_Button_Click</SE1>:그리곤 아무도 신경쓰지 않는 틈을 타, 자판기의 플러그를 뽑고 사모의 케이블을 꽂았다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:후아아... 진정된다아...
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:하아아아...
+()||<SE1>Rope</SE1><BGM>BGM_Empty</BGM>:긴 한숨이 절로 나왔지만 지금으로선 셰릴도 어쩔 수 없었다. 사모의 뒤로 짐들을 쌓아 케이블을 숨긴 그녀는 툭 내뱉듯 쏘아붙였다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:여기서 얌전히 기다리고 있어, 가서 지금 대체 뭐가 어떻게 돌아가는 건지 알아보고 올 테니까.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:글쎄... 역무원들 지금 너 상대할 시간 없을걸.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:그걸 네가 어떻게 알아?
+()||<BGM>GF_21summer_avg_SecretAgent</BGM><SE1>ClothingUp</SE1>:사모가 졸린 눈으로 역의 천장에 걸린 스크린을 가리켰다.+방금까지만 해도 멀쩡히 돌아가던 열차 도착 예정 카운트다운이 붉은색의 "운행 정지"로 바뀌어 있었다.
+()||<SE1>AVG_Team_Running</SE1>:개찰구 근처의 역무원들도 어디론가 급하게 향하며 무전기에 대고 조용히 대화하는 모습이었다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<SE1>Stop_AVG_loop</SE1>:어...? 뭐야, 저게 무슨 일――
+()||:그 물음에 답하듯, 역 전체에 안내 방송이 흘렀다.
+()<Speaker>역내 방송</Speaker><通讯框>||<SE1>AVG_20Winter_Doorbell</SE1>:<color=#00CCFF>승객 여러분 안녕하십니까. 갑작스런 시설의 고장으로 인해 베를린 중앙 철도역은 현시간부로 임시 교통 관제에 들어가, 모든 열차의 운행이 긴급 중단됐습니다. 운행 정상화 시간은 별도 통지해 드리겠습니다.</color>+<color=#00CCFF>승차권의 환불을 희망하시는 손님께서는 1번부터 4번 유인창구에서 가능하오니, 승차권을 가지고 문의해 주십시오. 이용에 불편을 드려 대단히 죄송합니다, 승객 여러분의 협조와 양해에 감사드립니다.</color>
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<震屏>:뭣... 내가... 내가 밤을 새면서 짐을 쌌더니만!+뭐어 여행권 환불하게 됐으니 상관없지만... 왜 하필이면 짐덩이들 끌고 여기까지 와서 방송하는 거냐고오오! 좀 진작에 말하면 어디 덧나냐!
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:그리 단순한 일이 아닐 거야.
+()||<SE1>ClothingUp</SE1>:갑자기 벌떡 일어선 사모는 웬일인지 표정까지 진지했다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:평범한 시설 고장이라면 신호까지 차단할 필요는 없지.+여기, 네트워크가 단절됐어.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:...그러니까 신호 안 잡힌다고?+그냥 사람이 너무 많아서 와이파이 느려진 게 아니...라...?
+()||<SE1>AVG_21Winter_Error</SE1>:셰릴이 혹시나 싶어 휴대폰을 마구 두드려 봤지만 아니나 다를까, 인터넷 연결이 되질 않았다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:뭐야 이거...? 진짜야? 왜 기차역이 전파를 차단해?
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:쟤네가 그런 짓을 왜 해.+전파 송신탑이나 교통 허브가 마비된다면, 보통 그건 그런 데를 노리는 테러범 짓이지.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:...테러?
+()||:셰릴의 눈이 가늘어졌다.
+NPC-Cheryl(3)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:너 의외로 상상력 좀 되는구나? 소설에 쓸 소재 생각해내는 데 딱이겠어! 잘됐다, 표 환불한 다음에 우리 얘기 좀 하자!
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:아앗——
+()||<SE1>AVG_footsteps_cave</SE1>:셰릴이 다시 사모를 끌고 기세 좋게 표를 환불해 주는 창구를 찾아 나섰지만, 넓은 역사에 사람들로 북적이니 금세 방향을 잃고 말았다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<SE1>Stop_AVG_loop</SE1>:어... 환불 창구가 어디였더라? 분명 이 근처였는데...
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:찾아내도 지금은 줄 엄청 길 테니까 그냥 나중에 다시 오면 안 돼?+...엄청 불길한 예감이 드는데.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:그냥 사람이 드글드글할 뿐인데 불길하긴 뭐가 불길해?
+()||:입으론 그리 말하면서도, 셰릴도 내심 정말 무슨 일이 벌어지지 않을까 가슴을 졸였다.
+()||<SE1>AVG_Crowd</SE1>:앞뒤로 각양각색의 낯선 사람들이 지나가는 광경은 마치 거센 물길이 몰아치는 강의 한가운데에 고립된 것만 같았다.+"그나마 이 녀석이라도 곁에 있어서 다행이다"라고, 셰릴은 속으로 중얼거렸다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||<SE1>Stop_AVG_loop</SE1>:...셰릴.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:왜 또?
+()||<BGM>BGM_Empty</BGM>:무언가를 본 사모가 우뚝 멈춰 섰다. 셰릴은 눈앞의 인파에 시야가 가려져 사모가 본 것이 보이지 않았다.+대신, 소리를 들었다. 기억 속 저 깊은 곳에서 끄집어져 나온, 아주 익숙한 소리를.
+()||<BGM>GF_21summer_avg_Demon</BGM><SE1>AVG_20Winter_People_Panic</SE1><SE2>AVG_Gatling_gun</SE2>:――――
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<SE1>Stop_AVG_loop</SE1>:......!
+()||:그 순간, 머릿속이 새하얘졌다.
+()||<黑屏1>:
+()||<黑屏2><BIN>393</BIN><回忆>:일상. 모두가 기대어 살아가는 일상이란 익숙한 환경, 익숙한 사람, 익숙한 일들로 이루어진다. 그런 일상을 깨부수는 것은 생소함의 침입이다.+한 번 생소함이 침입하고 나면, 그 원인을 제거하더라도 깨지기 이전의 일상은 다시는 돌아오지 않는다.+셰릴이 매일 지나던 학교 복도에 무장한 괴한들이 나타났을 때처럼.
+()<Speaker>셰릴</Speaker>||:......
+()||:아직 어린아이였던 셰릴은 멍하니 제자리에 서서, 조금도 움직이지 못했다. 다른 아이들처럼 비명을 지르지도 못했다.
+()||<SE1>AVG_footsteps_woodfloor</SE1>:그저, 총을 든 생소한 사람들이 익숙했던 복도에 쳐들어와, 익숙했던 학우들과 선생님을 쏴 죽이곤 그녀에게 다가오는 것을 지켜보기밖에 못했다.
+()||<黑屏1><SE1>Stop_AVG_loop</SE1>:
+()||<黑屏2><BIN>9</BIN><SE1>AVG_rifle_finalshot_h</SE1>:그리고 그녀의 세상은 어둠에 잠겼다.
+()||<黑屏1><关闭蒙版><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>167</BIN><BGM>GF_2022_Summer_Battle_1</BGM>:과거의 먹구름에서 간신히 빠져나왔을 때, 셰릴은 짐가방 위에 눕혀진 자신을 발견했다.
+()||<SE1>RunStep</SE1>:사모는 그런 그녀를 짐가방째로 밀며 패닉에 빠진 사람들 사이를 빠져나가는 중이었다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:지금... 어디 가는 거야?
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:숨을 데 찾으러. 역사 출입구는 교통이 정체돼서 안 돼, 목숨을 부지하려면 저거 해결될 때까지 숨어있어야 해.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:............
+()||<SE1>Explode</SE1>:콰앙!!
+()||<SE1>AVG_Crowd_Run</SE1>:폭음에 셰릴이 화들짝 놀라 뒤를 돌아봤을 때 보인 것은, 점점 상황을 파악하기 시작한 사람들이 겁에 질려 성난 욕설과 찢어지는 비명을 지르며 앞다퉈 출입구로 몰려드는 광경이었다.+익숙한 광경과 익숙한 무력감에, 셰릴은 이를 악물고 간신히 고개를 돌렸다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||<SE1>Stop_AVG_loop</SE1>:이쪽!
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:잠깐, 여긴――꺄악!
+()||<SE1>AVG_20Winter_Door_Open</SE1>:셰릴이 더 따지기 전에, 사모는 그녀를 여자 화장실 안으로 쑤셔넣었다.
+()||<黑屏1>:
+()||<黑屏2><BIN>167</BIN>:베를린 중앙 철도역, 관계자용 통로.
+()||<SE1>AVG_AMB_Street</SE1>:아수라장이 된 철도역 안팎으로 사람들이 급류처럼 쏟아져 나오는 통에, 몇 안 되는 출입구는 완전히 접근 불가였다.
+()||<SE1>AVG_footsteps_cave</SE1>:그 와중, 엘리아나는 팀을 이끌고 봉쇄 구역에 발을 디뎠다.
+()<Speaker>경찰</Speaker>||<SE1>Stop_AVG_loop</SE1>:정지!
+()||:통제 중이던 경찰이 멀리서 이 완전무장한 "무리"를 발견하곤 한걸음에 달려와 엘리아나의 앞을 가로막았다.
+()<Speaker>경찰</Speaker>||:현재 중앙 철도역은 비상 경계 상태라서 관계자 외 출입 금지다.+너희는 누구지? 통행증 있나?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......
+()||<SE1>ClothingUp</SE1>:엘리아나는 대답 대신 품에서 통행증을 꺼내 들이밀었다.+하지만 그걸 힐끗 훑어본 경찰은 전혀 태도를 누그러뜨리지 않았다.
+()<Speaker>경찰</Speaker>||:이건 우리 시스템에서 발급한 게 아니다.
+NPC-SCR(2)<Speaker>SCR</Speaker>||:뭐예요? 이건――
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......
+()||<SE1>ClothingUp</SE1>:엘리아나가 먼저 SCR을 툭 쳐서 제지하고, 고개를 반대로 돌렸다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:M26, 슈타지 특수 채널로 연결.
+()<Speaker>경찰</Speaker>||:...지금 이게 뭐하잔 거지?
+()||:경찰은 그들의 태도가 무척 불쾌한 듯 눈살을 찌푸렸다.
+()<Speaker>경찰</Speaker>||:인형들이군. 말을 못 알아듣는 거냐? 공무 집행 방해로 체포하기 전에 썩 꺼져!
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:...해결.
+()<Speaker>경찰</Speaker>||:당장 물러나지 않으면 무력을――
+()||<SE1>AVG_tele_connect</SE1>:삐빅.+M26이 입을 연 거의 동시에, 경찰이 허리춤에 찬 무전기가 소리를 냈다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:받아.
+()<Speaker>경찰</Speaker>||:............
+()||<SE1>ClothingUp</SE1>:경찰은 전혀 표정 변화가 없는 엘리아나를 의심스런 눈초리로 흘기면서 무전기에 응답했다. 액정 스크린에 표기된 번호는 이 지역의 담당 경감이었다.
+()<Speaker>경감</Speaker>||:<color=#00CCFF>상층부에서 긴급 통지다, 통행증 No. 425093을 소지한 부대를 들여보내라.</color>
+()<Speaker>경찰</Speaker>||:...예.
+()<Speaker>경감</Speaker>||:<color=#00CCFF>그들의 요구에도 협조하도록.</color>+<color=#00CCFF>그리고 앞으로 뒷자리 090에서 150의 통행증은 전부 통행 허가하고 협조하라, 이상.</color>
+()<Speaker>경찰</Speaker>||:...알겠습니다.
+()||:경찰은 눈을 질끈 감았다. 그리고 다시 떴을 때, 그의 태도는 전혀 달랐다.
+()<Speaker>경찰</Speaker>||<BGM>BGM_Empty</BGM>:관계자용 통로로 진입하십시오, 이쪽입니다.
+()||<SE1>AVG_footsteps_cave</SE1><BGM>10106</BGM>:엘리아나는 여전히 무뚝뚝한 얼굴로 가볍게 고개를 끄덕이고, 대원들과 함께 경찰의 안내에 따라 역사 안으로 들어갔다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<SE1>Stop_AVG_loop</SE1>:현재 상황 보고.
+NPC-SCAR-L(0)<Speaker>경찰</Speaker><同时置暗>||:약 10분 전, 다수의 철도역에서 역무원이 폭발물로 의심되는 물건을 발견했다는 보고가 접수되어 즉시 베를린의 모든 철도역을 봉쇄했습니다.+현재 대테러 부대와 폭발물 처리반이 오는 중입니다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:그게 우리다.+현시간부로 모든 위험물품 검사 권한을 우리에게 이관해.+주목. 중앙 철도역의 지도를 공유했으니, 지금부터 각자 임무를 내리겠다.+M26, 너는 B2층 주차장과 지상의 승객 이용 공간을 수색해.+M249는 베를린에서 출발하는 모든 차량을 점검.+컨텐더, 너는 베를린에 도착한 모든 차량.+SCR, 넌 나와 함께 화물 차량과 물류 창고를 수색한다.
+NPC-SCAR-L(0)<Speaker>경찰</Speaker><同时置暗>||:잠깐만요, 제3자의 화물 검사엔 특수 수사 영장이 필요합니다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:검사용 장비가 있어 가방을 열어보진 않을 거다.+의심되는 것은 통째로 가져가고 필요한 절차는 후속 처리하겠어.+그러니 경찰은 용의자 색출 및 몸수색에 집중하기 바란다.
+NPC-SCAR-L(0)<Speaker>경찰</Speaker><同时置暗>||:...알겠습니다, 그럼 대신 여기에 서명해 주겠습니까? 다른 부서에 설명해야 해서 말입니다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:우리의 통행증을 두고 가겠다. 그게 서명보다 확실하겠지.
+NPC-SCAR-L(0)<Speaker>경찰</Speaker><同时置暗>||:예, 그럼 수고하십시오.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>420</BIN>:그때, 중앙홀에서의 소란이 모두의 주의를 끌었다.
+()||<SE1>AVG_footsteps_cave</SE1>:벌써 잊혀진 듯한 화장실 안. 셰릴이 초조하게 발을 구르며 배낭에 걸린 곰돌이 액세서리를 마구 주물러대서, 불쌍한 곰돌이는 점점 얼굴이 찌그러져 가는 중이었다.
+()||<SE1>Stop_AVG_loop</SE1><BGM>GF_Swim_Marnie</BGM>:사모는 슬그머니 문에 걸린 팻말을 "청소 중"으로 뒤집은 뒤 셰릴의 상태를 관찰했다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:<color=#A9A9A9>이 인간 아가씨는 평소 집구석에만 틀어박혀 사니까 잔뜩 겁에 질렸겠지.</color>+<color=#A9A9A9>울거나 하면 귀찮아지는데... 그런 상황 경험해본 적이 없으니.</color>+<color=#A9A9A9>그럼... 그 방법을 쓰는 수밖에.</color>
+()||:때마침 셰릴도 동동 구르던 발을 멈추곤 사모를 등진 채 무어라 낮게 중얼거리기 시작했다.
+()||<SE1>AVG_footsteps_cave</SE1>:사모는 천천히 그녀에게 다가가, 어깨에 손을 살며시 얹고는 최대한 부드러운 목소리로 속삭였다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||<SE1>Stop_AVG_loop</SE1>:걱정 마, 내가 반드시 안전하게 지켜줄게..
+NPC-Cheryl(3)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:......헤헤.+에헤헤헤헤...!
+()||:셰릴은 예상 밖의 얼빠진 웃음소리를 내더니 고개를 홱 돌렸다. 그 소름끼치는 미소에 오히려 사모가 화들짝 놀랄 지경이었다.
+()||<SE1>ClothingUp</SE1>:그리고 반사적으로 손을 떼려는 사모를 역으로 셰릴이 덥석 붙잡았다.
+NPC-Cheryl(3)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:이건 하늘이 내린 기회야! 내게 행운이 찾아왔어!
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:엑... 행운?
+NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:지금 철도역에 무슨 일이 생긴 거라고 생각해? 네 상상력을 다시 발휘해 봐.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:......강도?
+()||:사모는 눈살을 찌푸렸다.
+NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:아니 역 한복판에서 강도는 무슨 강도야, 누가 누구한테 강도짓을 하는데?
+NPC-SCAR-H(2)<Speaker>사모</Speaker>;NPC-Cheryl(1)<Position>0,-100</Position>||:어......
+NPC-SCAR-H(2);NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:대체 어떤 강도가 통신망도 차단하고 열차 탑승장도 봉쇄하고 베를린의 모든 열차 운행을 멈추겠어?+나한테 물어봐봐, 얼른!
+NPC-SCAR-H(2)<Speaker>사모</Speaker>;NPC-Cheryl(1)<Position>0,-100</Position>||:어어... 뭔데?
+NPC-SCAR-H(2);NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:이런 거 아닐까?! 어느 범죄 집단이 열차를 타고 국경을 넘으려는 계획이 타기도 전에 들통나 버려서, 일부러 혼란을 일으키고 승객들 사이에 숨어서 빠져나가려는 거라든가! 그 왜 있잖아, 리X X슨 나오는 영화처럼!
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:그렇다기엔 경찰의 반응이 너무 과격한데...에...
+()||:사모는 말을 아끼고 싶었지만, 셰릴의 반짝이는 두 눈이 뿜는 빛이 워낙에 강렬해 당황스러워 우물쭈물했다.
+NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:그럼 이런 건? 이 역에 ELID 반응이 포착된 거야! ELID 감염자가 섞여 들어왔다던가, 아니면 생화학 테러라던가...
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:...경보기 조용한데?
+()||<SE1>ClothingUp</SE1>:사모가 천장에 설치된 붕괴 복사 경보기를 가리켰다. 그 말대로, 지금은 아무 이상 없었다.
+NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:그래, 모든 가능성이 배제됐지. 그렇다면 정답은 단 하나!
+NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<SE1>AVG_Punch_Hit</SE1>:그건 바로――!
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:......+일단 내려와서 물 마시고 진정할래?
+()||:사모는 흥분할대로 흥분해 아예 세면대 위로 올라 추리를 늘어놓는 셰릴을 그저 하염없이 바라봤다.
+NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:끊지 마 지금 영감이 샘솟는단 말이야! 분명 창작의 신이 날 가엾이 여기셔서 내게 선물을 내려 주신 거야! 이곳을 내 신작의 무대로 만들어 준 거라고!+아무튼 남은 가능성은 단 하나! 이 철도역에 폭탄이 설치됐고, 범죄 집단은 역 안에 갇힌 승객들을 인질로 삼은 거지! 그래, 우리도 말이야!
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:......
+()||<SE1>AVG_File_Put</SE1>:셰릴은 전혀 위로할 필요가 없었다.+오히려 자신이 위로받고 싶어진 사모는 그대로 자리에 쪼그려앉았다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||<BGM>BGM_Empty</BGM>:기운 넘쳐 보이네... 그래도 바깥 상황이 정리되면 빨리 떠나야――
+()||<SE1>AVG_2022Saros_timebomb</SE1>:삐이...+불현듯 알람 시계의 타이머 같은 소리가 들렸다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:...잠깐만, 방금 들었어?
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:<color=#A9A9A9>설마...</color>
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:내 이야기에 너무 어울리는 효과음인데...?
+()||<BGM>GF_21summer_avg_Crisis</BGM>:삑... 삑... 삑...+첫 알림음을 시작으로, 그 소리는 규칙적으로 들려왔다.+빠르지도 느리지도 않은 아주 침착한 속도로, 불길하게 반복됐다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:......
+()||:어쩜 저리도 끝내주는 직감을 가졌을까. 사모는 이젠 아예 울고 싶어졌다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:시한 폭탄이야.
+()||<SE2>ClothingUp</SE2>:소리가 나는 세면대의 아래를 보니, 구석에 정말로 시한 폭탄이 붙어 있었다.+남은 시간은 앞으로... 21초.+사모는 이를 확인하자마자 바로 자신이 셰릴을 업고 얼마나 빨리, 얼마나 멀리 달릴 수 있을지 계산했다.+바깥의 인파를 고려하면 폭발의 영향권에서 벗어나긴 어렵지만, 적어도 경상에 그칠 수는 있을 것 같았다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:도망쳐야 해!
+()||<SE1>AVG_XXS_kick</SE1>:사모가 방금 셰릴이 있던 위치로 몸을 날렸지만, 허탕이었다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:엑, 셰릴?
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:......
+()||<SE2>AVG_Creep</SE2>:셰릴은 어느샌가 세면대 밑으로 내려와 사모처럼 아래를 보고 있었다.
+NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:역시 내 추리는 틀리지 않았어! 드디어 이 날이 왔다!
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||<SE2>Stop_AVG_loop</SE2>:무슨 소리야!? 시간 없――뭐해 지금?!
+()||<SE2>ClothingUp</SE2>:셰릴이 갑자기 무거운 짐가방을 벌컥 열더니 속을 뒤지기 시작했다.+그 사이에 시간은 무자비하게 4초가 흘렀다.
+()||<SE2>RunStep</SE2>:잔량 경고가 뜬 배터리에 신경 쓸 겨를이 없어진 사모가 당장 셰릴을 끌고 나가려 했지만, 그 전에 셰릴이먼저 꺼낸 튼튼한 상자에 부딪히고 말았다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:윽... 뭐, 뭐야 그건?
+()||<SE2>ClothingUp</SE2>:상자를 열고 셰릴이 안에서 꺼낸 것은...
+NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:질! 소! 냉! 동! 총~!
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:뭣...+그런 게 왜 있어?! 여행인데 짐가방에다...
+NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:드디어 이걸 쓸 때가 온 거야.
+()||<SE1>AVG_Spanner</SE1>:셰릴은 신기할 정도로 침착하게 질소냉동총의 노즐을 폭탄의 틈새에 쑤셔넣고 방아쇠를 당겨 내부로 액체 질소를 주입했다.+능숙한 자세와 침착한 뒷모습. 사모의 기억 속 단편과 겹쳐 보였다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:그거... 누구한테 배웠어...? <color=#A9A9A9>엄청 능숙하잖아? 그리고 이 자세, 눈에 익은데...</color>
+()||<SE1>Stop_AVG_loop</SE1>:셰릴의 "처치"에, 빠르게 흐르던 타이머가 순식간에 얼어붙었다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:............
+()||:다만 셰릴은 어째선지 기뻐하는 표정이 아니었다. 오히려, 왠지 모르게 허무해하는 얼굴이었다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:...멍하니 있을 시간 없어 셰릴, 빨리 가자.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:......응.
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()||<黑点2><BIN>167</BIN><SE1>AVG_Crowd</SE1>:사모가 셰릴을 감싸고 화장실 밖으로 나서자, 그 순간 온 세상의 소음이 한꺼번에 그들에게 쏟아졌다.+겁에 질린 사람들은 마치 총이 겨눠진 듯 한 방향으로 몰려가고 있었다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<SE1>Stop_AVG_loop</SE1>:저쪽이 출구인가 봐!
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:인파에서 좀 떨어지는 게 좋겠어, 넌 밟혔다간 큰일 나.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:알아, 하지만——
+()||<SE1>Explode</SE1><震屏3>:퍼엉!!+승강장 쪽에서 폭발이 일어났다. 어느 정도 거리는 있었지만, 셰릴을 펄쩍 뛰게 만들기엔 충분했다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<BGM>GF_21winter_battle_1</BGM>:폭탄이 더 있나 봐!
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:그렇겠지.
+()||<SE1>AVG_20Winter_People_Panic</SE1>:폭발로 인한 충격과 굉음에 놀란 사람들이 한층 더 소리 높여 비명을 지르고, 몸부림을 쳤다.+저수지에 쏟아진 먹물처럼, 공포가 저절로 사방으로 퍼져나가는 것이었다.+그리고 혼탁해진 물은 이내 요동치고, 험악한 파도로 변했다.
+()<Speaker>승객들</Speaker>||:도망쳐! 저 안에 폭탄이 있어!!
+()<Speaker>승객들</Speaker>||:빨리 내보내 줘! 안에 사람이 죽었다고! 살려줘!!
+()<Speaker>보안요원</Speaker>||:미, 밀지 마십시오! 침착하게 지시에 따라 질서 있게 대피하십시오!
+()||:엎어지면 코 닿을 곳에서까지 폭발이 일어나니, 사람들은 앞의 통로가 무너진 돌더미로 막힌 것도 모른 채 그저 출구를 향해 몰려들 뿐이었다.+보안요원들에 더해 파견된 경찰들까지 이들을 소산시키려 했지만, 파도처럼 몰려드는 인파를 막기엔 턱없이 역부족이었다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||<SE1>Stop_AVG_loop</SE1>:멍때리지 마, 우리도 빨리 빠져나가야 해.
+()||<SE1>ClothingUp</SE1>:양팔에 짐가방 4개를 든 사모가 힘겹게 인파를 헤치며 다른 출구로 통하는 길을 찾았다.+그런데 셰릴은 화장실 문 앞에서 우두커니, 저 요동치는 인파를 바라보았다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:우리... 이대로 그냥 갈 수는 없어.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:지금 무슨 헛소리를——
+()||:그때, 저 인파 속에서 누군가 외쳤다. "여기도 폭탄이 있다! 곧 터진다!"
+()||<SE1>AVG_Crowd_Run</SE1>:사람의 파도는 그 말에 끓는 물처럼 솟구쳤고, 아무도 저지 못할 기세로 사방으로 다시 퍼쳤다.+그 파도 속에서 적지 않은 이들이 바닥에 쓰러졌고, 다시 일어나지 못하는 것이 똑똑히 보였다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:젠장, 이쪽으로 온다!
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:다른 데로 피하자!
+()||<SE1>AVG_XXS_kick</SE1>:하지만 인파는 순식간에 들이닥쳐, 셰릴은 미처 피하지 못하고 거구의 남성과 정면으로 부딪혔다.+균형까지 잃었지만, 다행히 그대로 인파 바깥으로 튕겨나가 밟히는 것은 면했다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:괜찮아?
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:괜찮아...
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:부축해 줄 테니까 얼른 일어나, 저쪽으로 가자.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:...폭탄이 고작 한두 개 설치됐을 리가 없어. 저 사람들 따라가도 덩달아 죽을 뿐이야.+통로도 막혀서 폭발물 처리반이 제때 도착할 수 없을 테고, 경찰도 뾰족한 수 없을 테고...+아무래도... 이 이야기의 주인공은 내가 아닌가 봐...
+()||<SE1>AVG_File_Put</SE1>:바닥에 주저앉은 채 삐끗한 발목을 문지르며, 셰릴은 상심한 듯 툴툴댔다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:...그거 내놔.
+()||<SE1>ClothingUp</SE1>:사모가 불쑥 손을 내밀었다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:뭘?
+NPC-SCAR-H(2)<Speaker>사모</Speaker>;NPC-Cheryl(0)<Position>0,-100</Position>||:질소냉동총.+터지기 전에 얼리면 처리반 올 때까지 시간 벌 수 있겠지? 그럼 우리 모두 구조받을 수 있어.
+NPC-SCAR-H(2);NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:일리 있는 말이네, 하지만 너 이거 쓸 줄이나 알아? 그냥 내가――
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:네가 쓰는 거 봐서 이젠 알아. 그리고 지금 그 상태로 어떻게 막 달려? 내가 하는 게 나아.
+()||<SE1>ClothingUp</SE1>:사모는 건네받은 질소냉동총을 자연스레 고쳐쥐었다. 마치 원래부터 그녀가 쓰던 물건인 것처럼.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:그럼 난...
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:일단 너부터 안전한 곳으로 옮겨야겠다. 연락 유지해야 하니까 휴대폰 간수 잘 하고, 배터리 바닥나기 전에는 돌아올게.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:알았어... 그럼, 조심해.
+()||<黑点1><BGM>BGM_Empty</BGM>:

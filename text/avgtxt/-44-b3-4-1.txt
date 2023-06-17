@@ -1,86 +1,86 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Wake</BGM><SE1>AVG_engine_speedup</SE1>:......+베를린 교도소로 향하는 차량 안.+지휘관은 엘사의 시신에 하얀 천을 덮어 주었다.+마흐리안처럼 오열할 정도는 아니었지만, 이토록 어린아이까지 재난에 휘말리다니... 가슴 속에 치밀어 오르는 분노가 좀처럼 가라앉질 않았다.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:로빈, 미안해요...+하지만 엘사만큼은... 이 아이만큼은 제 손으로 묻어 주고 싶어요...
-()<Speaker>지휘관</Speaker>||:괜찮아.
-()<Speaker></Speaker>||:천에 덮인 시신을 바라보는 마흐리안은 양손을 꼬옥 쥐었다.+지혈하기 위해 감긴 붕대가, 아주 조금 더 붉어졌다.
-()<Speaker>지휘관</Speaker>||:이번 임무엔 따라오지 않아도 돼.+다른 곳보다 상황이 훨씬 복잡할지 몰라.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:저는 현실에서 눈을 돌린 대가를 받았어요, 로빈.
-()<Speaker></Speaker>||:마흐리안은 천천히 고개를 저으며 말했다.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:너무... 무거워요.
-NPC-Machlian(6)<Speaker>지휘관</Speaker>||:......
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:본 마을에서 생활하면서, 제가 정말 인간인 것처럼 느껴졌어요.+하지만 결국 현실은... 이 모든 게 사기극이었단 것을 가르쳐 줬어요.+이젠 제가 했던 일들이 정말 의미가 있었는지도 의심스러워요...
-NPC-Machlian(6)<Speaker>지휘관</Speaker>||:이리야가 널 속인 것이 사실일지도 모르지만, 네가 해온 일은 결코 무의미하지 않아.+엘사도... 그 아이는 널 믿었어. 마지막 순간까지, "성녀 언니"를 굳게 믿었잖아.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:네, 저를 믿었죠.+그래서 어떻게 됐나요?
-()<Speaker></Speaker>||:마흐리안은 억지 미소와 함께 고개를 들었다.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:전, 아무것도 못했어요...
-()<Speaker></Speaker>||:지휘관도 입을 다물고 고개를 흔들었다.+너무 많은 참상을 겪은 탓인지, 본 마을을 보고서도 자신은 이성을 유지할 수 있었다.+하지만 마흐리안은 아니었다.+자신은 벌써 무뎌져 버린 것은 아닐까... 하는 생각이 들었다.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
-()<Speaker></Speaker>||:지휘관을 바라보던 마흐리안의 표정이 다소 변했다.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:로빈... 부분면역체였군요.
-NPC-Machlian(5)<Speaker>지휘관</Speaker>||:...음?
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:당신도 저처럼 부분면역체예요.+그래서 마을에서, 그렇게 가까이서 붕괴 입자를 흡입했는데도 영향이 미미한 거예요.
-NPC-Machlian(5)<Speaker>지휘관</Speaker>||:어... 이야기를 하자면 좀 긴데...
-NPC-Machlian(8)<Speaker>마흐리안</Speaker>||:...역시, 로빈은 패러데우스가 아니었군요.
-()<Speaker></Speaker>||:옅은 미소를 짓는 마흐리안에게, 이번에도 지휘관은 뭐라 대답해야 할지 생각나지 않았다.+때마침 페로사가 다가와, 그 어색한 분위기를 깼다.
-VP1915(0)<Speaker>페로사</Speaker>||:곧 교도소에 도착합니다.+격리벽 때와 같은 상황이 발생하진 않으리라 봅니다만... 그래도 주의하는 것이 좋겠죠.+훈작사님께 연락하시겠습니까?
-VP1915(0)<Speaker>지휘관</Speaker>||:응, 나도 지금 상황을 보고할 필요가 있다고 생각해.
-VP1915(0)<Speaker>페로사</Speaker>||:알겠습니다.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:통신 연결.
-NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>반갑네, 지휘관.</color>+<color=#00CCFF>이 시간에 연락하다니.</color>+<color=#00CCFF>좋은 소식이 있나 보군.</color>
-NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||<BGM>BGM_Room</BGM>:마냥 좋은 소식은 아닙니다.+저희는 지금까지 세 곳의 조사를 완료했습니다.+그리고 각 장소에서, 정말로 패러데우스의 앞잡이와 그들이 매설한 폭발물을 발견했습니다.+마흐리안의 기억은 신빙성이 매우 높습니다.
-()<Speaker></Speaker>||:지휘관이 마흐리안을 흘깃 보며 잠시 뜸을 들였다.
-()<Speaker>지휘관</Speaker>||:...일단 그들을 저지하는 데 성공했지만, 본 마을에서 참사가 일어나는 것을 막지 못했습니다.+현장의 처리를 독일 정부에게 맡겼습니다만, 인명 사상이 매우 심각해...
-NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>어찌 됐든, 그녀의 기억 파편들은 거짓이 아니란 것이 입증됐군.</color>+<color=#00CCFF>윌리엄에 관련된 정보도 그녀에게서 더 얻을 수 있겠지...</color>+<color=#00CCFF>알았네, 그럼 그녀를 내게 보내게.</color>
-NPC-Machlian(7)<Speaker>마흐리안</Speaker>||:......!!
-()<Speaker></Speaker>||:마흐리안은 그 말을 듣곤 식겁하며 강하게 고개를 저었다.
-()<Speaker>지휘관</Speaker>||:...죄송합니다 그리폰 씨, 아직은 안 될 것 같습니다.+현재 제 임무가 중요한 시기여서, 아직 마흐리안의 보조가 더 필요합니다.+모든 테러 시도를 저지한 다음에 마흐리안의 기억 파편 연구를 계속하는 것이 바람직하다 생각합니다.
-NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>...자네의 판단이 그렇다면야.</color>+<color=#00CCFF>그밖에 다른 사항은 있나?</color>
-NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:현재 조사를 위해 베를린 교도소로 이동 중입니다, 그리폰 씨께서 통행 권한을 발부해 주셨으면 합니다.
-NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>물론이지, 페로사에게 처리를 맡기겠네.</color>+<color=#00CCFF>계속 분발하게, 지휘관. 난 자네를 높이 사고 있네.</color>
-NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:감사합니다.
-NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>아 그렇지, 나도 자네에게 말할 것이 있다는 걸 깜빡할 뻔했군.</color>
-NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:그게 무엇입니까?
-NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>안젤리아의 행동이 다소 충동적이 되어 가고 있네.</color>+<color=#00CCFF>내가 말해봤자 귀담아 듣지 않을 게 뻔하니, 자네가 대신 충고해 주었으면 해.</color>+<color=#00CCFF>내게 있어 자네들은 잃을 수 없는 중요한 인재들이니, 서로 잘 협력하길 바라네.</color>
-NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:알겠습니다.
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:...고마워요, 로빈.
-()<Speaker>지휘관</Speaker>||:천만에.
-()<Speaker></Speaker>||:지휘관이 잡념을 뿌리치고 내비게이션을 바라보니, 교도소에 거의 다 왔다.
-()<Speaker>지휘관</Speaker>||:이번에는 별일 없길 바라지...
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>158</BIN><SE1>AVG_21Winter_Open_Light</SE1>:베를린 교도소.+주 상황실.
-()<Speaker>교도소장</Speaker>||:아니 그러니까, 이러시면 곤란하다니까요?+이렇게 갑자기 수색한답시고 많은 인형들을 들여보내라니요.+농담이 지나치지 않습니까?
-()<Speaker>지휘관</Speaker>||:장난하는 게 아닙니다, 교도소 내부에 테러리스트가 폭탄을 설치했을 가능성이 높다는 첩보를 입수했습니다.+정 의심스러우시다면, 저희 인원들과 함께 수색하셔도 됩니다.
-()<Speaker>교도소장</Speaker>||:그런 이상한 소릴 하니까 못 믿겠다는 겁니다.
-()<Speaker>지휘관</Speaker>||:당신이 믿든 말든 상관없습니다, 어차피 윗선의 허가는 이미 받았으니까요.+저희가 여기서 사고를 치더라도, 당신에게 책임이 돌아가지 않습니다.+하지만 만약 저희의 첩보가 사실이고, 당신 때문에 골든타임을 놓친다면... 그 책임을 감당할 수 있겠습니까?
-()<Speaker>교도소장</Speaker>||:어...
-()<Speaker></Speaker>||:교도소장은 고민에 빠졌다. 하지만 아무리 뭐라 한들, 저 영장의 효력이 확실한 이상 어쩔 수 없었다.
-()<Speaker>교도소장</Speaker>||:...알았어요, 협조하겠습니다.+그래도 미리 말하지만, 이건 시간 낭비일 뿐이에요.
-()<Speaker>지휘관</Speaker>||:협조에 감사드립니다.
-()<Speaker></Speaker>||:아주 잠깐이나마 말로 해결되지 않을 거 같다 생각하던 지휘관은 안도의 한숨을 쉬었다.+아무리 그래도, 교도소는 도시 한복판에 위치해 있다. 아무리 패러데우스라도, 대놓고 이곳을 습격하진 않을 터였다.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:......+소장님, 한 가지 여쭤도 되겠습니까?+최근 교도소에서 수상한 정황은 없었습니까?
-()<Speaker>교도소장</Speaker>||:수상한 정황? 흐음...
-()<Speaker></Speaker>||:교도소장은 팔짱을 끼고 잠시 기억을 더듬었다.
-()<Speaker>교도소장</Speaker>||:...아니, 얼마 전에 새로 입소자가 들어온 것 외엔 평소처럼 아무 일 없이 평화로웠지.+아가씨도 알다시피, 요즘은 살아서 감옥에 들어오는 범죄자는 드물거든.
-()<Speaker>지휘관</Speaker>||:댄들라이, 신경쓰이는 점 있어?
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:방금 교도소의 시스템을 확인해봤습니다만...+자동 보안 시설이 전부 정지했더군요.+수복이 불가능할 정도로 철저히 파괴됐습니다.
-()<Speaker>교도소장</Speaker>||:뭐어야아? 어딜 멋대로 확인――
-()<Speaker>교도소장</Speaker>||:...아니 잠깐, 보안 시설이 파괴됐다니? 그런 말은 못 들었는데!?
-()<Speaker>지휘관</Speaker>||<BGM>BGM_Empty</BGM>:...큰일이다.
-()<Speaker></Speaker>||<SE1>RunStep</SE1>:다다다다——
-()<Speaker>교도관</Speaker>||<SE1>AVG_Door_Hit</SE1>:소장님! 비, 비상사태입니다!
-()<Speaker>교도소장</Speaker>||:무슨 일이야?!
-()<Speaker>교도관</Speaker>||:죄수들이... 죄수들이 폭동을 일으켰습니다!
-()<Speaker>교도소장</Speaker>||<BGM>BGM_Danger</BGM>:——!
-()<Speaker></Speaker>||:교도소장의 눈이 급격히 휘둥그레지더니, 그대로 벌러덩 뒤로 넘어졌다.
-AR15Mod(4)<Speaker>AR15</Speaker>||:쳇...+왜 가는 곳마다 이 난리야 대체!
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:지휘관님, 마흐리안과 여기 계십시오. 이번에는 현장이 매우 혼란하니 안전이 최우선입니다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:죄수들만으론 이런 일은 불가능해, 분명히 패러데우스가 죄수로 위장해 숨어든 걸 거야.
-()<Speaker>지휘관</Speaker>||:45, 댄들라이랑 같이 감시실로 가서 상황을 확인해!+죄수들 속에 잠복한 패러데우스도 식별하고!
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>알았어.</color>
-()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_disconnect</SE1>:페로사, 너는 교도관들을 도와 폭동을 진압해――
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰앙!
-()<Speaker>교도관</Speaker>||:놈들한테 폭탄까지 있습니다!
-()<Speaker>지휘관</Speaker>||:――저 폭탄들도 해체하고!+죄수들의 탈옥만은 반드시 막아!
-VP1915(0)<Speaker>페로사</Speaker>||:알겠습니다!
-()||<黑点1><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Wake</BGM><SE1>AVG_engine_speedup</SE1>:......+베를린 교도소로 향하는 차량 안.+지휘관은 엘사의 시신에 하얀 천을 덮어 주었다.+마흐리안처럼 오열할 정도는 아니었지만, 이토록 어린아이까지 재난에 휘말리다니... 가슴 속에 치밀어 오르는 분노가 좀처럼 가라앉질 않았다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:로빈, 미안해요...+하지만 엘사만큼은... 이 아이만큼은 제 손으로 묻어 주고 싶어요...
+()<Speaker>지휘관</Speaker>||:괜찮아.
+()<Speaker></Speaker>||:천에 덮인 시신을 바라보는 마흐리안은 양손을 꼬옥 쥐었다.+지혈하기 위해 감긴 붕대가, 아주 조금 더 붉어졌다.
+()<Speaker>지휘관</Speaker>||:이번 임무엔 따라오지 않아도 돼.+다른 곳보다 상황이 훨씬 복잡할지 몰라.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:저는 현실에서 눈을 돌린 대가를 받았어요, 로빈.
+()<Speaker></Speaker>||:마흐리안은 천천히 고개를 저으며 말했다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:너무... 무거워요.
+NPC-Machlian(6)<Speaker>지휘관</Speaker>||:......
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:본 마을에서 생활하면서, 제가 정말 인간인 것처럼 느껴졌어요.+하지만 결국 현실은... 이 모든 게 사기극이었단 것을 가르쳐 줬어요.+이젠 제가 했던 일들이 정말 의미가 있었는지도 의심스러워요...
+NPC-Machlian(6)<Speaker>지휘관</Speaker>||:이리야가 널 속인 것이 사실일지도 모르지만, 네가 해온 일은 결코 무의미하지 않아.+엘사도... 그 아이는 널 믿었어. 마지막 순간까지, "성녀 언니"를 굳게 믿었잖아.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:네, 저를 믿었죠.+그래서 어떻게 됐나요?
+()<Speaker></Speaker>||:마흐리안은 억지 미소와 함께 고개를 들었다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:전, 아무것도 못했어요...
+()<Speaker></Speaker>||:지휘관도 입을 다물고 고개를 흔들었다.+너무 많은 참상을 겪은 탓인지, 본 마을을 보고서도 자신은 이성을 유지할 수 있었다.+하지만 마흐리안은 아니었다.+자신은 벌써 무뎌져 버린 것은 아닐까... 하는 생각이 들었다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
+()<Speaker></Speaker>||:지휘관을 바라보던 마흐리안의 표정이 다소 변했다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:로빈... 부분면역체였군요.
+NPC-Machlian(5)<Speaker>지휘관</Speaker>||:...음?
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:당신도 저처럼 부분면역체예요.+그래서 마을에서, 그렇게 가까이서 붕괴 입자를 흡입했는데도 영향이 미미한 거예요.
+NPC-Machlian(5)<Speaker>지휘관</Speaker>||:어... 이야기를 하자면 좀 긴데...
+NPC-Machlian(8)<Speaker>마흐리안</Speaker>||:...역시, 로빈은 패러데우스가 아니었군요.
+()<Speaker></Speaker>||:옅은 미소를 짓는 마흐리안에게, 이번에도 지휘관은 뭐라 대답해야 할지 생각나지 않았다.+때마침 페로사가 다가와, 그 어색한 분위기를 깼다.
+VP1915(0)<Speaker>페로사</Speaker>||:곧 교도소에 도착합니다.+격리벽 때와 같은 상황이 발생하진 않으리라 봅니다만... 그래도 주의하는 것이 좋겠죠.+훈작사님께 연락하시겠습니까?
+VP1915(0)<Speaker>지휘관</Speaker>||:응, 나도 지금 상황을 보고할 필요가 있다고 생각해.
+VP1915(0)<Speaker>페로사</Speaker>||:알겠습니다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:통신 연결.
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>반갑네, 지휘관.</color>+<color=#00CCFF>이 시간에 연락하다니.</color>+<color=#00CCFF>좋은 소식이 있나 보군.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||<BGM>BGM_Room</BGM>:마냥 좋은 소식은 아닙니다.+저희는 지금까지 세 곳의 조사를 완료했습니다.+그리고 각 장소에서, 정말로 패러데우스의 앞잡이와 그들이 매설한 폭발물을 발견했습니다.+마흐리안의 기억은 신빙성이 매우 높습니다.
+()<Speaker></Speaker>||:지휘관이 마흐리안을 흘깃 보며 잠시 뜸을 들였다.
+()<Speaker>지휘관</Speaker>||:...일단 그들을 저지하는 데 성공했지만, 본 마을에서 참사가 일어나는 것을 막지 못했습니다.+현장의 처리를 독일 정부에게 맡겼습니다만, 인명 사상이 매우 심각해...
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>어찌 됐든, 그녀의 기억 파편들은 거짓이 아니란 것이 입증됐군.</color>+<color=#00CCFF>윌리엄에 관련된 정보도 그녀에게서 더 얻을 수 있겠지...</color>+<color=#00CCFF>알았네, 그럼 그녀를 내게 보내게.</color>
+NPC-Machlian(7)<Speaker>마흐리안</Speaker>||:......!!
+()<Speaker></Speaker>||:마흐리안은 그 말을 듣곤 식겁하며 강하게 고개를 저었다.
+()<Speaker>지휘관</Speaker>||:...죄송합니다 그리폰 씨, 아직은 안 될 것 같습니다.+현재 제 임무가 중요한 시기여서, 아직 마흐리안의 보조가 더 필요합니다.+모든 테러 시도를 저지한 다음에 마흐리안의 기억 파편 연구를 계속하는 것이 바람직하다 생각합니다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>...자네의 판단이 그렇다면야.</color>+<color=#00CCFF>그밖에 다른 사항은 있나?</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:현재 조사를 위해 베를린 교도소로 이동 중입니다, 그리폰 씨께서 통행 권한을 발부해 주셨으면 합니다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>물론이지, 페로사에게 처리를 맡기겠네.</color>+<color=#00CCFF>계속 분발하게, 지휘관. 난 자네를 높이 사고 있네.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:감사합니다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>아 그렇지, 나도 자네에게 말할 것이 있다는 걸 깜빡할 뻔했군.</color>
+NPC-Griffin(1)<Speaker>지휘관</Speaker><通讯框>||:그게 무엇입니까?
+NPC-Griffin(1)<Speaker>그리폰</Speaker><通讯框>||:<color=#00CCFF>안젤리아의 행동이 다소 충동적이 되어 가고 있네.</color>+<color=#00CCFF>내가 말해봤자 귀담아 듣지 않을 게 뻔하니, 자네가 대신 충고해 주었으면 해.</color>+<color=#00CCFF>내게 있어 자네들은 잃을 수 없는 중요한 인재들이니, 서로 잘 협력하길 바라네.</color>
+NPC-Griffin(0)<Speaker>지휘관</Speaker><通讯框>||:알겠습니다.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:...고마워요, 로빈.
+()<Speaker>지휘관</Speaker>||:천만에.
+()<Speaker></Speaker>||:지휘관이 잡념을 뿌리치고 내비게이션을 바라보니, 교도소에 거의 다 왔다.
+()<Speaker>지휘관</Speaker>||:이번에는 별일 없길 바라지...
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>158</BIN><SE1>AVG_21Winter_Open_Light</SE1>:베를린 교도소.+주 상황실.
+()<Speaker>교도소장</Speaker>||:아니 그러니까, 이러시면 곤란하다니까요?+이렇게 갑자기 수색한답시고 많은 인형들을 들여보내라니요.+농담이 지나치지 않습니까?
+()<Speaker>지휘관</Speaker>||:장난하는 게 아닙니다, 교도소 내부에 테러리스트가 폭탄을 설치했을 가능성이 높다는 첩보를 입수했습니다.+정 의심스러우시다면, 저희 인원들과 함께 수색하셔도 됩니다.
+()<Speaker>교도소장</Speaker>||:그런 이상한 소릴 하니까 못 믿겠다는 겁니다.
+()<Speaker>지휘관</Speaker>||:당신이 믿든 말든 상관없습니다, 어차피 윗선의 허가는 이미 받았으니까요.+저희가 여기서 사고를 치더라도, 당신에게 책임이 돌아가지 않습니다.+하지만 만약 저희의 첩보가 사실이고, 당신 때문에 골든타임을 놓친다면... 그 책임을 감당할 수 있겠습니까?
+()<Speaker>교도소장</Speaker>||:어...
+()<Speaker></Speaker>||:교도소장은 고민에 빠졌다. 하지만 아무리 뭐라 한들, 저 영장의 효력이 확실한 이상 어쩔 수 없었다.
+()<Speaker>교도소장</Speaker>||:...알았어요, 협조하겠습니다.+그래도 미리 말하지만, 이건 시간 낭비일 뿐이에요.
+()<Speaker>지휘관</Speaker>||:협조에 감사드립니다.
+()<Speaker></Speaker>||:아주 잠깐이나마 말로 해결되지 않을 거 같다 생각하던 지휘관은 안도의 한숨을 쉬었다.+아무리 그래도, 교도소는 도시 한복판에 위치해 있다. 아무리 패러데우스라도, 대놓고 이곳을 습격하진 않을 터였다.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:......+소장님, 한 가지 여쭤도 되겠습니까?+최근 교도소에서 수상한 정황은 없었습니까?
+()<Speaker>교도소장</Speaker>||:수상한 정황? 흐음...
+()<Speaker></Speaker>||:교도소장은 팔짱을 끼고 잠시 기억을 더듬었다.
+()<Speaker>교도소장</Speaker>||:...아니, 얼마 전에 새로 입소자가 들어온 것 외엔 평소처럼 아무 일 없이 평화로웠지.+아가씨도 알다시피, 요즘은 살아서 감옥에 들어오는 범죄자는 드물거든.
+()<Speaker>지휘관</Speaker>||:댄들라이, 신경쓰이는 점 있어?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:방금 교도소의 시스템을 확인해봤습니다만...+자동 보안 시설이 전부 정지했더군요.+수복이 불가능할 정도로 철저히 파괴됐습니다.
+()<Speaker>교도소장</Speaker>||:뭐어야아? 어딜 멋대로 확인――
+()<Speaker>교도소장</Speaker>||:...아니 잠깐, 보안 시설이 파괴됐다니? 그런 말은 못 들었는데!?
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Empty</BGM>:...큰일이다.
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:다다다다——
+()<Speaker>교도관</Speaker>||<SE1>AVG_Door_Hit</SE1>:소장님! 비, 비상사태입니다!
+()<Speaker>교도소장</Speaker>||:무슨 일이야?!
+()<Speaker>교도관</Speaker>||:죄수들이... 죄수들이 폭동을 일으켰습니다!
+()<Speaker>교도소장</Speaker>||<BGM>BGM_Danger</BGM>:——!
+()<Speaker></Speaker>||:교도소장의 눈이 급격히 휘둥그레지더니, 그대로 벌러덩 뒤로 넘어졌다.
+AR15Mod(4)<Speaker>AR15</Speaker>||:쳇...+왜 가는 곳마다 이 난리야 대체!
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:지휘관님, 마흐리안과 여기 계십시오. 이번에는 현장이 매우 혼란하니 안전이 최우선입니다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:죄수들만으론 이런 일은 불가능해, 분명히 패러데우스가 죄수로 위장해 숨어든 걸 거야.
+()<Speaker>지휘관</Speaker>||:45, 댄들라이랑 같이 감시실로 가서 상황을 확인해!+죄수들 속에 잠복한 패러데우스도 식별하고!
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>알았어.</color>
+()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_disconnect</SE1>:페로사, 너는 교도관들을 도와 폭동을 진압해――
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰앙!
+()<Speaker>교도관</Speaker>||:놈들한테 폭탄까지 있습니다!
+()<Speaker>지휘관</Speaker>||:――저 폭탄들도 해체하고!+죄수들의 탈옥만은 반드시 막아!
+VP1915(0)<Speaker>페로사</Speaker>||:알겠습니다!
+()||<黑点1><BIN>10</BIN>:

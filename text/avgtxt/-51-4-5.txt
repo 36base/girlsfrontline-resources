@@ -1,139 +1,139 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>456</BIN><黑屏2><BGM>10220</BGM>:"죽음의 바다" 어딘가.
-RO635Mod(0)<Speaker>RO635</Speaker>||:체스 마스터가 임무 준비 단계를 완료했고 곧 작전을 시작합니다.+미끼팀도 작전을 개시했으니, 우리도 움직입시다.
-SP9(0)<Speaker>모나</Speaker>||:예.
-()<Speaker>XM8</Speaker>||<SE2>Gunfight</SE2><SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>R――아니 우산! 여기는 체스 마스터!</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:우산 수신. 침착해, 무슨 일이야?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:우와, 너 지금 달리는 속도 몇이야? 잔상까지 생기네!
-()<Speaker>XM8</Speaker>||:<color=#00CCFF>탑의 에너지 공급은 끊었는데 놈들의 포위망에 완전히 갇히고 말았어!</color>
-RO635Mod(4)<Speaker>RO635</Speaker>||:알았어, 바로 퇴각해.
-()<Speaker>XM8</Speaker>||:<color=#00CCFF>완전히 갇혔다니까? 늦었어.</color>+<color=#00CCFF>놈들이 내가 점찍어 뒀던 퇴각 경로를 죄다 틀어막아서... 탈출은 무리야.</color>
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:큰일이다! 도와주러 갈까!?
-()<Speaker>XM8</Speaker>||:<color=#00CCFF>됐어! 내가 알아서 할게!</color>
-()<Speaker>XM8</Speaker>||<震屏3>:<color=#00CCFF><size=50>그러니까 말 좀 끊지 마! 급하게 보고할 거 있다고!</size></color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:말해.
-()<Speaker>XM8</Speaker>||:<color=#00CCFF>내 말 잘 들어. 내가 맡은 임무는 사실상 실패했어.</color>+<color=#00CCFF>예상대로 저 탑엔 예비 전원이 있었고, 어림잡아 한 시간 정도는 유지될 거야.</color>
-RO635Mod(3)<Speaker>RO635</Speaker>||:그러니까, 네가 그곳을 통째로 날려버려도 저 탑은 한 시간은 계속 가동할 수 있다고...?
-()<Speaker>XM8</Speaker>||:<color=#00CCFF>물론 그럴 수도 없지만 말이지. 내가 쓴 폭탄은 위력이 한정적이라, 내가 입힌 피해는 금방 수복할 거야.</color>
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:어, 어떡하지 RO...?
-SP9(0)<Speaker>모나</Speaker>||:더 서둘러야 합니다! 우리가 예상한 것보다 시간이 급박해요!
-RO635Mod(0)<Speaker>RO635</Speaker>||:...네. 수색팀, 즉시 출발합니다.+체스 마스터, 너는――
-()<Speaker>XM8</Speaker>||:<color=#00CCFF>파괴 공작 계속할게.</color>+<color=#00CCFF>적어도 놈들이 바로 전원을 복구하진 못하게 방해할 테니까, 뭐 대충 한 시간은 넘게 버티겠지.</color>
-RO635Mod(3)<Speaker>RO635</Speaker>||:......
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:웃기지 마, 혼자서 어떻게 버텨!
-()<Speaker>XM8</Speaker>||:<color=#00CCFF>날 뭘로 보는 거야? 걱정 마, 그리 쉽게는 안 죽어!</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:...알았어.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:<size=50>RO!</size>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:XM8은 그 말을 마지막으로 입을 다물었다.+통신 너머로 들리는 소리만으로도, 지금 상당히 고전 중임이 확실했다.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:어떡해...
-SP9(0)<Speaker>모나</Speaker>||:...체스 마스터가 한 시간을 버티더라도, 우리가 저 두 탑을 수색하기엔 부족합니다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:...XM8은 맡은 임무를 완수했습니다.+이젠 우리가 움직일 차례예요.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:하지만 우린 내부 상황이 어떤지 전혀 모르잖아. 어느 탑으로 가야 해?
-RO635Mod(0)<Speaker>RO635</Speaker>||:찍어야지.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:뭐어!? 내가 그런 말 하면 항상 화내더니만!
-SP9(0)<Speaker>모나</Speaker>||:다른 수가 없으니까요.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:정말 찍을 수밖에 없어...?
-RO635Mod(0)<Speaker>RO635</Speaker>||:응. 승부에는 운도 중요한 요소야.
-Rhino(0)<Speaker>라이노</Speaker>||:조금 긴장된다...
-QBZ191(0)<Speaker>9호</Speaker>||:그럼 빨리 정하도록 해.
-SP9(0)<Speaker>모나</Speaker>||:......
-()<Speaker></Speaker>||:기다리는 인형들은 극한의 긴장감에 마인드맵이 멎을 것만 같았다.+RO635는 지도 위에 우뚝 솟은 쌍둥이 탑을 뚫어져라 바라보면서, 초조해하면서도 생각에 잠겼다.+그리고 가늠하기를 수 차례 반복한 끝에, 마침내 그녀의 손가락이 지도 위에 놓였다.
-()||<黑屏1>:
-()<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM><SE1>ClothingUp</SE1><BIN>9</BIN><黑屏2>:여기로 가요.
-()||<黑屏1>:
-()<Speaker></Speaker>||<SE1>AVG_Jet_Passby</SE1><BIN>446</BIN><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:철분 팀과 체스 마스터가 일으킨 혼란을 틈 타, 우산 팀은 노획한 비행기를 타고 아베르누스 내부로 진입했다.
-RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>10194</BGM><SE1>AVG_tele_connect</SE1>:우산, 침투 위치에 도착. 철분 팀, 상황 보고해.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:지금 들리는 소리만으로도 엄청 난장판이겠는데?
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:잠깐의 침묵이 흐르고, 아이네이아스 회의실 채널에 철분 팀 대신 UMP9의 초조한 외침이 울려 퍼졌다.
-()<Speaker>UMP9</Speaker>||:<color=#00CCFF>큰일이야! 철분 팀 위치에 나르시스가 나타났어!</color>
-RO635Mod(4)<Speaker>RO635</Speaker>||:뭐?! 철분! 즉시 퇴각해!+그놈하고는 승산이 없어!
-()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>솔직히 그러고는 싶은데, 우리가 도망치면――</color>
-()<Speaker></Speaker>||<SE1>Explode</SE1>:콰앙!+폭발이 아키텍트의 말을 끊었다.
-()<Speaker>UMP45</Speaker>||:<color=#00CCFF>우산! 질소! 얼마나 더 걸려?</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:...우산은 착륙했어.
-()<Speaker>모나</Speaker>||:<color=#00CCFF>질소 팀, 아직 비행 중입니다!</color>+<color=#00CCFF>최소 2분은 더 소요됩니다!</color>
-()<Speaker>UMP9</Speaker>||:<color=#00CCFF>2분!?</color>+<color=#00CCFF>그때 그리폰 소대 전원이 목숨을 걸고서도 5분밖에 못 버텼어!</color>
-()<Speaker>아키텍트</Speaker>||<SE1>Explode</SE1>:<color=#00CCFF><size=50>뭠마?!</size></color>
-()<Speaker>아키텍트</Speaker>||<SE1>Explode</SE1>:<color=#00CCFF><size=50>야——그게 무슨——와앗!?</size></color>
-()<Speaker>아키텍트</Speaker>||<SE1>Explode</SE1>:<color=#00CCFF><size=50>——개소리야!!</size></color>
-()<Speaker>게이저</Speaker>||:<color=#00CCFF>아키텍트!</color>
-()<Speaker></Speaker>||<SE1>Explode</SE1>:콰아앙!!!
-RO635Mod(4)<Speaker>RO635</Speaker>||:철분?!
-()<Speaker>아키텍트</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>콜록콜록... 아직 안 죽었어...</color>
-()<Speaker></Speaker>||:하지만 아키텍트의 목소리는 드물게 다급했다.
-()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>...2분 더 필요하다고?</color>
-()<Speaker>모나</Speaker>||:<color=#00CCFF>...이제 약 1분 30초입니다.</color>
-()<Speaker>UMP9</Speaker>||:<color=#8B0000>그냥 포기하는 게 어때? 지금이라도 도망치면 목숨은 부지할지도 모르는데.</color>
-()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>쓸데없이 걱정 말랬지! 우리가 퇴각하면 저 괴물딱지가 너희 작살내러 갈 거 아니야!</color>+<color=#00CCFF>저것들 묶어 두는 임무를 괜히 우리 같은 엘리트가 맡은 줄 알아!?</color>+<color=#00CCFF>2분? 문제없어...</color>+<color=#00CCFF><size=50>10분 넘게도 얼마든지 버텨 주마아아!!</size></color>
-RO635Mod(3)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:철분...
-()<Speaker>UMP9</Speaker>||<BGM>GF_22W_BGM_1</BGM>:<color=#8B0000>정말 눈물나게 감동적인 사명감이네에...</color>
-()<Speaker></Speaker>||<SE1>Explode</SE1>:콰아앙!!!+아키텍트의 장담을 비웃듯 또 다시 지근거리서 폭발이 일어났고, 그 특유의 욕설을 내뱉는 아키텍트의 목소리가 사라졌다.
-()<Speaker>UMP9</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#8B0000>하지만 불쌍하게 됐어~</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:...9 씨?
-()<Speaker>UMP45</Speaker>||:<color=#00CCFF>야단 났네...</color>
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:치지직...
-()<Speaker>UMP45</Speaker>||:<color=#00CCFF>RO! 9 권한 해제하고 로그아웃시켜!</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:뭣... 갑자기 그게 무슨――
-()<Speaker>UMP45</Speaker>||:<color=#00CCFF><size=50>당장!</size></color>
-()<Speaker>UMP9</Speaker>||:<color=#8B0000>어머, 벌써 눈치챘어? 너 솜씨 좋구나, 아까워라아...</color>
-()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_tele_disconnect</SE1>:[시스템 알림]+[강제 로그아웃 - UMP9]
-()||<黑屏1>:
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<BIN>469</BIN><黑点2><SE1>ClothingUp</SE1>:<size=50>9!!</size>
-()<Speaker></Speaker>||:UMP45가 현실로 눈을 돌려, 황급히 UMP9을 찾았다.
-()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_XXS_kick</SE1>:선 채로 경련을 일으키던 그녀는 RO635가 강제로 로그아웃시키는 순간 그자리에 털썩 쓰러졌다.
-UMP9Mod(2)<Speaker>UMP9</Speaker><Position>0,-50</Position><Shake>0.1</Shake>||:어... 언니... 나...
-()<Speaker></Speaker>||:UMP9이 눈에 띄게 고통스러운 표정을 지었다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_tele_connect</SE1>:...9이 해킹당했어.+계획이 전부 탄로났다고.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:동생을 품에 안은 UMP45는 눈을 부릅뜨고, 저멀리 어딘가에 있을 적에게 살의를 드러냈다.
-()<Speaker>모나</Speaker>||:<color=#00CCFF>그럼... 우리의 작전은 잠입이 아니게 된 겁니까?</color>
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>아뇨, 아직은 만회할 기회는 있어요.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:이해하기 쉽게 설명해, 안 그럼 나 화낼 거야.
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>45 씨, 제가 아직 남겨 두라 했던 두 자리의 인원은 아직 들키지 않았어요.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:...그들이 정말 쓸모가 있을까?
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>확신합니다.</color>
-()<Speaker></Speaker>||:RO635의 대답은 단호했다.
-()||<黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>446</BIN><BGM>10254</BGM>:아베르누스, 동탑 입구.
-NPC-Bramedb(4)<Speaker>브라메드</Speaker>||<SE1>AVG_tele_disconnect</SE1>:......
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:뭘 하고 있지?
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:그야 물론 네 뒷수습이지.+나한테 감사하렴.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...너와 말싸움할 기분 아니란다.
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:그러시겠지이~+솔직히 말하자면, 나 이럴 필요 없다? 내가 몰고 온 벌레들도 아닌걸.+너도 알겠지만, 여기가 세워진 이래 여태까지 누군가에게 발견된 적이 없잖아...+축하해 그레이, 네가 최초가 되었어.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:......
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:과연 이 실책까지 네 "스승님"이 커버해 주시려나 몰라~+아버님도 뭐라 하실지 정말 궁금해... 그치?
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:평소보다 말이 많구나, 브라메드.+뻔한 전개의 소설에서 너 같은 등장인물은 숱하게 봤는데...+솔직히, 현실에도 정말 그런 사람이 있을 줄은 몰랐어.
-NPC-Bramedb(4)<Speaker>브라메드</Speaker>||:......+그래, 그 잘난 입으로 지금이라도 실컷 떠들어.+그럴 기회도 이제 얼마 없으니.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐이.
-NytoWhite(0)<Speaker>애슐리</Speaker><通讯框>||:<color=#00CCFF>브라메드 언니, 애슐리입니다.</color>+<color=#00CCFF>네메아란 언니가 언니의 성과를 받아 보셨습니다.</color>
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:그래~ 그런데 저쪽 반응이 빨라서 아쉬워, 더 많이 캐낼 수 있었는데.
-NytoWhite(0)<Speaker>애슐리</Speaker><通讯框>||:<color=#00CCFF>하지만, "이미 충분하니 필요 없다"고 하셨습니다.</color>+<color=#00CCFF>언니들께도 네메아란 언니의 최신 정보를 전달하겠습니다.</color>
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><SE1>AVG_tele_connect</SE1><BIN>9</BIN>:삐이...
-()<Speaker></Speaker>||:정보 전송 중...
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:기록 - PACC20641005100051......+목표명 확인.
-()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>495</BIN>:아키텍트.
-()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>496</BIN>:게이저.
-()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>498</BIN>:RO635.
-()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>497</BIN>:M4 SOPMOD II.
-()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>499</BIN>:UMP45.
-()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>500</BIN>:UMP9.
-()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>501</BIN>:모나.
-()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>502</BIN>:라이노.
-()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>503</BIN>:QBZ-191.
-()<Speaker></Speaker>||:눈 깜짝할 사이에, 모든 침입자들의 상세한 자료가 둘의 컨셔스 파노라마에 흘러들어 왔다.+모든 인물의 행동 패턴과 약점까지 표기된 자료. 아까 XM8의 것을 봤을 때보다도 충격적이었다.+이것이 빈틈없는 "벌침" 시스템의 저력.+똑같이 인간 사회 속에 숨어 정보를 모았던 그레이마저 등골이 서늘해지는 경외심이 들었다.
-()||<黑屏1>:
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||<黑屏2><BIN>446</BIN>:우와... 정말 무시무시하네.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:아키텍트와 게이저... 지금 플랫폼에 나타난 놈들인가?+UMP45와 UMP9은 원거리 지원을 담당 중이니, 이 정도면 나르시스만으로도 충분해,
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:슈타지 녀석들은 바로 "심판의 다리"로 오를 셈인가 본데.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...그럼 바로 이동할까?
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:마음대로 해, 독 안에 든 생쥐한텐 별로 관심——
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰앙!
-()<Speaker></Speaker>||<火花>:굉음이 브라메드의 말을 잘랐다.+두 니토는 거의 동시에 굉음이 난 방향으로 고개를 홱 돌렸다.
-NPC-Bramedb(4)<Speaker>브라메드</Speaker>||:RO635려나?
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:벌써 여기까지 왔을 리 없어...
-()<Speaker></Speaker>||:그레이의 눈이 가늘어졌다.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...아무래도, 네 일처리가 좀 허술했나 보구나.
-NPC-Bramedb(4)<Speaker>브라메드</Speaker>||:......
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:브라메드의 눈초리를 무시하면서, 그레이는 손짓하며 주위의 병사들을 집결시켰다.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:전투 준비. 침입자를 섬멸하라.
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>456</BIN><黑屏2><BGM>10220</BGM>:"죽음의 바다" 어딘가.
+RO635Mod(0)<Speaker>RO635</Speaker>||:체스 마스터가 임무 준비 단계를 완료했고 곧 작전을 시작합니다.+미끼팀도 작전을 개시했으니, 우리도 움직입시다.
+SP9(0)<Speaker>모나</Speaker>||:예.
+()<Speaker>XM8</Speaker>||<SE2>Gunfight</SE2><SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>R――아니 우산! 여기는 체스 마스터!</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:우산 수신. 침착해, 무슨 일이야?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:우와, 너 지금 달리는 속도 몇이야? 잔상까지 생기네!
+()<Speaker>XM8</Speaker>||:<color=#00CCFF>탑의 에너지 공급은 끊었는데 놈들의 포위망에 완전히 갇히고 말았어!</color>
+RO635Mod(4)<Speaker>RO635</Speaker>||:알았어, 바로 퇴각해.
+()<Speaker>XM8</Speaker>||:<color=#00CCFF>완전히 갇혔다니까? 늦었어.</color>+<color=#00CCFF>놈들이 내가 점찍어 뒀던 퇴각 경로를 죄다 틀어막아서... 탈출은 무리야.</color>
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:큰일이다! 도와주러 갈까!?
+()<Speaker>XM8</Speaker>||:<color=#00CCFF>됐어! 내가 알아서 할게!</color>
+()<Speaker>XM8</Speaker>||<震屏3>:<color=#00CCFF><size=50>그러니까 말 좀 끊지 마! 급하게 보고할 거 있다고!</size></color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:말해.
+()<Speaker>XM8</Speaker>||:<color=#00CCFF>내 말 잘 들어. 내가 맡은 임무는 사실상 실패했어.</color>+<color=#00CCFF>예상대로 저 탑엔 예비 전원이 있었고, 어림잡아 한 시간 정도는 유지될 거야.</color>
+RO635Mod(3)<Speaker>RO635</Speaker>||:그러니까, 네가 그곳을 통째로 날려버려도 저 탑은 한 시간은 계속 가동할 수 있다고...?
+()<Speaker>XM8</Speaker>||:<color=#00CCFF>물론 그럴 수도 없지만 말이지. 내가 쓴 폭탄은 위력이 한정적이라, 내가 입힌 피해는 금방 수복할 거야.</color>
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:어, 어떡하지 RO...?
+SP9(0)<Speaker>모나</Speaker>||:더 서둘러야 합니다! 우리가 예상한 것보다 시간이 급박해요!
+RO635Mod(0)<Speaker>RO635</Speaker>||:...네. 수색팀, 즉시 출발합니다.+체스 마스터, 너는――
+()<Speaker>XM8</Speaker>||:<color=#00CCFF>파괴 공작 계속할게.</color>+<color=#00CCFF>적어도 놈들이 바로 전원을 복구하진 못하게 방해할 테니까, 뭐 대충 한 시간은 넘게 버티겠지.</color>
+RO635Mod(3)<Speaker>RO635</Speaker>||:......
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:웃기지 마, 혼자서 어떻게 버텨!
+()<Speaker>XM8</Speaker>||:<color=#00CCFF>날 뭘로 보는 거야? 걱정 마, 그리 쉽게는 안 죽어!</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:...알았어.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:<size=50>RO!</size>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:XM8은 그 말을 마지막으로 입을 다물었다.+통신 너머로 들리는 소리만으로도, 지금 상당히 고전 중임이 확실했다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:어떡해...
+SP9(0)<Speaker>모나</Speaker>||:...체스 마스터가 한 시간을 버티더라도, 우리가 저 두 탑을 수색하기엔 부족합니다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:...XM8은 맡은 임무를 완수했습니다.+이젠 우리가 움직일 차례예요.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:하지만 우린 내부 상황이 어떤지 전혀 모르잖아. 어느 탑으로 가야 해?
+RO635Mod(0)<Speaker>RO635</Speaker>||:찍어야지.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:뭐어!? 내가 그런 말 하면 항상 화내더니만!
+SP9(0)<Speaker>모나</Speaker>||:다른 수가 없으니까요.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:정말 찍을 수밖에 없어...?
+RO635Mod(0)<Speaker>RO635</Speaker>||:응. 승부에는 운도 중요한 요소야.
+Rhino(0)<Speaker>라이노</Speaker>||:조금 긴장된다...
+QBZ191(0)<Speaker>9호</Speaker>||:그럼 빨리 정하도록 해.
+SP9(0)<Speaker>모나</Speaker>||:......
+()<Speaker></Speaker>||:기다리는 인형들은 극한의 긴장감에 마인드맵이 멎을 것만 같았다.+RO635는 지도 위에 우뚝 솟은 쌍둥이 탑을 뚫어져라 바라보면서, 초조해하면서도 생각에 잠겼다.+그리고 가늠하기를 수 차례 반복한 끝에, 마침내 그녀의 손가락이 지도 위에 놓였다.
+()||<黑屏1>:
+()<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM><SE1>ClothingUp</SE1><BIN>9</BIN><黑屏2>:여기로 가요.
+()||<黑屏1>:
+()<Speaker></Speaker>||<SE1>AVG_Jet_Passby</SE1><BIN>446</BIN><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:철분 팀과 체스 마스터가 일으킨 혼란을 틈 타, 우산 팀은 노획한 비행기를 타고 아베르누스 내부로 진입했다.
+RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>10194</BGM><SE1>AVG_tele_connect</SE1>:우산, 침투 위치에 도착. 철분 팀, 상황 보고해.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:지금 들리는 소리만으로도 엄청 난장판이겠는데?
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:잠깐의 침묵이 흐르고, 아이네이아스 회의실 채널에 철분 팀 대신 UMP9의 초조한 외침이 울려 퍼졌다.
+()<Speaker>UMP9</Speaker>||:<color=#00CCFF>큰일이야! 철분 팀 위치에 나르시스가 나타났어!</color>
+RO635Mod(4)<Speaker>RO635</Speaker>||:뭐?! 철분! 즉시 퇴각해!+그놈하고는 승산이 없어!
+()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>솔직히 그러고는 싶은데, 우리가 도망치면――</color>
+()<Speaker></Speaker>||<SE1>Explode</SE1>:콰앙!+폭발이 아키텍트의 말을 끊었다.
+()<Speaker>UMP45</Speaker>||:<color=#00CCFF>우산! 질소! 얼마나 더 걸려?</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:...우산은 착륙했어.
+()<Speaker>모나</Speaker>||:<color=#00CCFF>질소 팀, 아직 비행 중입니다!</color>+<color=#00CCFF>최소 2분은 더 소요됩니다!</color>
+()<Speaker>UMP9</Speaker>||:<color=#00CCFF>2분!?</color>+<color=#00CCFF>그때 그리폰 소대 전원이 목숨을 걸고서도 5분밖에 못 버텼어!</color>
+()<Speaker>아키텍트</Speaker>||<SE1>Explode</SE1>:<color=#00CCFF><size=50>뭠마?!</size></color>
+()<Speaker>아키텍트</Speaker>||<SE1>Explode</SE1>:<color=#00CCFF><size=50>야——그게 무슨——와앗!?</size></color>
+()<Speaker>아키텍트</Speaker>||<SE1>Explode</SE1>:<color=#00CCFF><size=50>——개소리야!!</size></color>
+()<Speaker>게이저</Speaker>||:<color=#00CCFF>아키텍트!</color>
+()<Speaker></Speaker>||<SE1>Explode</SE1>:콰아앙!!!
+RO635Mod(4)<Speaker>RO635</Speaker>||:철분?!
+()<Speaker>아키텍트</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>콜록콜록... 아직 안 죽었어...</color>
+()<Speaker></Speaker>||:하지만 아키텍트의 목소리는 드물게 다급했다.
+()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>...2분 더 필요하다고?</color>
+()<Speaker>모나</Speaker>||:<color=#00CCFF>...이제 약 1분 30초입니다.</color>
+()<Speaker>UMP9</Speaker>||:<color=#8B0000>그냥 포기하는 게 어때? 지금이라도 도망치면 목숨은 부지할지도 모르는데.</color>
+()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>쓸데없이 걱정 말랬지! 우리가 퇴각하면 저 괴물딱지가 너희 작살내러 갈 거 아니야!</color>+<color=#00CCFF>저것들 묶어 두는 임무를 괜히 우리 같은 엘리트가 맡은 줄 알아!?</color>+<color=#00CCFF>2분? 문제없어...</color>+<color=#00CCFF><size=50>10분 넘게도 얼마든지 버텨 주마아아!!</size></color>
+RO635Mod(3)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:철분...
+()<Speaker>UMP9</Speaker>||<BGM>GF_22W_BGM_1</BGM>:<color=#8B0000>정말 눈물나게 감동적인 사명감이네에...</color>
+()<Speaker></Speaker>||<SE1>Explode</SE1>:콰아앙!!!+아키텍트의 장담을 비웃듯 또 다시 지근거리서 폭발이 일어났고, 그 특유의 욕설을 내뱉는 아키텍트의 목소리가 사라졌다.
+()<Speaker>UMP9</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#8B0000>하지만 불쌍하게 됐어~</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:...9 씨?
+()<Speaker>UMP45</Speaker>||:<color=#00CCFF>야단 났네...</color>
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:치지직...
+()<Speaker>UMP45</Speaker>||:<color=#00CCFF>RO! 9 권한 해제하고 로그아웃시켜!</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:뭣... 갑자기 그게 무슨――
+()<Speaker>UMP45</Speaker>||:<color=#00CCFF><size=50>당장!</size></color>
+()<Speaker>UMP9</Speaker>||:<color=#8B0000>어머, 벌써 눈치챘어? 너 솜씨 좋구나, 아까워라아...</color>
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_tele_disconnect</SE1>:[시스템 알림]+[강제 로그아웃 - UMP9]
+()||<黑屏1>:
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<BIN>469</BIN><黑点2><SE1>ClothingUp</SE1>:<size=50>9!!</size>
+()<Speaker></Speaker>||:UMP45가 현실로 눈을 돌려, 황급히 UMP9을 찾았다.
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_XXS_kick</SE1>:선 채로 경련을 일으키던 그녀는 RO635가 강제로 로그아웃시키는 순간 그자리에 털썩 쓰러졌다.
+UMP9Mod(2)<Speaker>UMP9</Speaker><Position>0,-50</Position><Shake>0.1</Shake>||:어... 언니... 나...
+()<Speaker></Speaker>||:UMP9이 눈에 띄게 고통스러운 표정을 지었다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_tele_connect</SE1>:...9이 해킹당했어.+계획이 전부 탄로났다고.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:동생을 품에 안은 UMP45는 눈을 부릅뜨고, 저멀리 어딘가에 있을 적에게 살의를 드러냈다.
+()<Speaker>모나</Speaker>||:<color=#00CCFF>그럼... 우리의 작전은 잠입이 아니게 된 겁니까?</color>
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>아뇨, 아직은 만회할 기회는 있어요.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:이해하기 쉽게 설명해, 안 그럼 나 화낼 거야.
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>45 씨, 제가 아직 남겨 두라 했던 두 자리의 인원은 아직 들키지 않았어요.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...그들이 정말 쓸모가 있을까?
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>확신합니다.</color>
+()<Speaker></Speaker>||:RO635의 대답은 단호했다.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>446</BIN><BGM>10254</BGM>:아베르누스, 동탑 입구.
+NPC-Bramedb(4)<Speaker>브라메드</Speaker>||<SE1>AVG_tele_disconnect</SE1>:......
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:뭘 하고 있지?
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:그야 물론 네 뒷수습이지.+나한테 감사하렴.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...너와 말싸움할 기분 아니란다.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:그러시겠지이~+솔직히 말하자면, 나 이럴 필요 없다? 내가 몰고 온 벌레들도 아닌걸.+너도 알겠지만, 여기가 세워진 이래 여태까지 누군가에게 발견된 적이 없잖아...+축하해 그레이, 네가 최초가 되었어.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:......
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:과연 이 실책까지 네 "스승님"이 커버해 주시려나 몰라~+아버님도 뭐라 하실지 정말 궁금해... 그치?
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:평소보다 말이 많구나, 브라메드.+뻔한 전개의 소설에서 너 같은 등장인물은 숱하게 봤는데...+솔직히, 현실에도 정말 그런 사람이 있을 줄은 몰랐어.
+NPC-Bramedb(4)<Speaker>브라메드</Speaker>||:......+그래, 그 잘난 입으로 지금이라도 실컷 떠들어.+그럴 기회도 이제 얼마 없으니.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐이.
+NytoWhite(0)<Speaker>애슐리</Speaker><通讯框>||:<color=#00CCFF>브라메드 언니, 애슐리입니다.</color>+<color=#00CCFF>네메아란 언니가 언니의 성과를 받아 보셨습니다.</color>
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:그래~ 그런데 저쪽 반응이 빨라서 아쉬워, 더 많이 캐낼 수 있었는데.
+NytoWhite(0)<Speaker>애슐리</Speaker><通讯框>||:<color=#00CCFF>하지만, "이미 충분하니 필요 없다"고 하셨습니다.</color>+<color=#00CCFF>언니들께도 네메아란 언니의 최신 정보를 전달하겠습니다.</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><SE1>AVG_tele_connect</SE1><BIN>9</BIN>:삐이...
+()<Speaker></Speaker>||:정보 전송 중...
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:기록 - PACC20641005100051......+목표명 확인.
+()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>495</BIN>:아키텍트.
+()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>496</BIN>:게이저.
+()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>498</BIN>:RO635.
+()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>497</BIN>:M4 SOPMOD II.
+()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>499</BIN>:UMP45.
+()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>500</BIN>:UMP9.
+()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>501</BIN>:모나.
+()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>502</BIN>:라이노.
+()<Speaker></Speaker>||<SE1>AVG_PPT_Switch</SE1><BIN>503</BIN>:QBZ-191.
+()<Speaker></Speaker>||:눈 깜짝할 사이에, 모든 침입자들의 상세한 자료가 둘의 컨셔스 파노라마에 흘러들어 왔다.+모든 인물의 행동 패턴과 약점까지 표기된 자료. 아까 XM8의 것을 봤을 때보다도 충격적이었다.+이것이 빈틈없는 "벌침" 시스템의 저력.+똑같이 인간 사회 속에 숨어 정보를 모았던 그레이마저 등골이 서늘해지는 경외심이 들었다.
+()||<黑屏1>:
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||<黑屏2><BIN>446</BIN>:우와... 정말 무시무시하네.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:아키텍트와 게이저... 지금 플랫폼에 나타난 놈들인가?+UMP45와 UMP9은 원거리 지원을 담당 중이니, 이 정도면 나르시스만으로도 충분해,
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:슈타지 녀석들은 바로 "심판의 다리"로 오를 셈인가 본데.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...그럼 바로 이동할까?
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:마음대로 해, 독 안에 든 생쥐한텐 별로 관심——
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰앙!
+()<Speaker></Speaker>||<火花>:굉음이 브라메드의 말을 잘랐다.+두 니토는 거의 동시에 굉음이 난 방향으로 고개를 홱 돌렸다.
+NPC-Bramedb(4)<Speaker>브라메드</Speaker>||:RO635려나?
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:벌써 여기까지 왔을 리 없어...
+()<Speaker></Speaker>||:그레이의 눈이 가늘어졌다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...아무래도, 네 일처리가 좀 허술했나 보구나.
+NPC-Bramedb(4)<Speaker>브라메드</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:브라메드의 눈초리를 무시하면서, 그레이는 손짓하며 주위의 병사들을 집결시켰다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:전투 준비. 침입자를 섬멸하라.
+()||<黑点1>:

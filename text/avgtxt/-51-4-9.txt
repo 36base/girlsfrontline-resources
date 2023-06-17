@@ -1,205 +1,205 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<震屏3><BIN>449</BIN><BGM>10144</BGM><SE2>Gunfight</SE2>:타타탕!!
-()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:펄럭――
-Rhino(0)<Speaker>라이노</Speaker>||:목표 고도 재상승!+뭐야 저게! 저런 걸로 어떻게 날아다니는 건데!
-SP9(0)<Speaker>모나</Speaker>||:9호! 제압 사격!
-()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:긴 치마자락 같은 날개를 펄럭이며, 네메아란은 공중을 날아다녔다.+그 움직임은 너무나도 날렵해, 세 인형들의 총구는 그녀를 따라가기에도 벅찼다.
-()<Speaker></Speaker>||<SE1>AVG_magic_circle_start</SE1>:그리고 펄럭이는 날개에서, 별가루처럼 반짝이는 빛이 흩뿌려졌다.
-Rhino(0)<Speaker>라이노</Speaker><Shake>0.1</Shake>||<SE1>AVG_whitenoise</SE1>:으윽...?! 아아악!!
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:라이노가 갑자기 괴로워하며 머리를 부여잡았다.
-SP9(0)<Speaker>모나</Speaker>||:2호?!
-QBZ191(0)<Speaker>9호</Speaker>||<SE1>RunStep</SE1>:젠장, 전자 교란이야! 1호는 2호 데리고 거리를 벌려!+난 계속 제압 사격할게!
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:모나도 총을 들어, 활공하는 네메아란을 향해 함께 제압 사격을 퍼부었다.+흩날리는 초소형 재머들이 그녀의 마인드맵을 계속 자극했지만, 지금의 그녀는 그때처럼 연약하지 않았다.
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:쾅!!
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰앙!!!
-Rhino(0)<Speaker>라이노</Speaker><Shake>0.1</Shake>||:으아——!!
-QBZ191(0)<Speaker>9호</Speaker>||:정보 수정! 폭발물도 섞였어!
-SP9(0)<Speaker>모나</Speaker>||:——!
-()<Speaker></Speaker>||<SE1>RunStep</SE1>:교량 위는 엄폐물이나 장애물이 없어, 하늘을 종횡무진으로 누비는 네메아란에게 그들은 떡하니 보이는 과녁이나 다름없었다.
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:모나는 연막탄을 던지고 몸을 굴려 라이노의 곁으로 가, 자신의 몸으로 그녀를 감쌌다.
-Rhino(0)<Speaker>라이노</Speaker>||:미안해...+나... 방해만 되고...
-SP9(0)<Speaker>모나</Speaker>||:진정해요 라이노, 당신 잘못이 아니에요.+적의 교란에 집중해서 대항하세요. 당신이라면 할 수 있어요.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:9호가 자신의 예비용 신호 증폭기를 라이노에게 던져 주었다.
-QBZ191(0)<Speaker>9호</Speaker>||:그거 갖고 있어! 전자 교란을 중화해 주니까, 일단 네 감지 능력부터 안정시켜!
-Rhino(0)<Speaker>라이노</Speaker>||:으으... 토끼귀까지 줘서 고마워, 9호...
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:......
-QBZ191(0)<Speaker>9호</Speaker>||:——주의! 적이 착지합니다!
-()<Speaker></Speaker>||<SE2>Gunfight</SE2><震屏3>:타타탕!+9호는 계속해서 총탄을 퍼부었다.
-SP9(0)<Speaker>모나</Speaker>||:9호! 멈춰요!+저건 미끼예요, 총알 낭비 마세요!
-()<Speaker></Speaker>||<SE1>AVG_magic_circle_start</SE1>:쉬익!+그녀가 또 방아쇠를 당기는 순간, 네메아란의 모습이 점멸하더니 그대로 감쪽같이 사라졌다.
-Rhino(0)<Speaker>라이노</Speaker>||:저, 저건 또 뭐야...?!
-QBZ191(0)<Speaker>9호</Speaker>||:...광학위장.
-()<Speaker></Speaker>||:9호는 믿기지 않는단 표정이었다.
-SP9(0)<Speaker>모나</Speaker>||<SE1>RunStep</SE1>:또 옵니다! 회피!
-()<Speaker></Speaker>||:모습을 감췄던 네메아란은 다시 공중에 나타났다.
-()<Speaker></Speaker>||<SE1>AVG_magic_circle_start</SE1>:무표정인 그녀의 움직임을 따라, 이번엔 금속 같은 광택으로 반짝이는 가는 깃털이 흩뿌려졌다.
-SP9(0)<Speaker>모나</Speaker>||:칫!
-()<Speaker></Speaker>||:이번엔 무엇일까? 전자 교란? 폭발물? 아니면 전기 충격?
-()<Speaker></Speaker>||<SE1>Select</SE1>:등 뒤로 라이노를 지키며, 모나는 입술을 깨물고 다시 무기를 들었다.
-()<Speaker></Speaker>||<震屏3><SE2>Gunfight</SE2>:타타탕!!!
-QBZ191(2)<Speaker>9호</Speaker>||:1호! 이건 지원이 필요해!
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:9호도 이를 악물고 총을 갈겼지만, 하늘에서 이리저리 춤추는 저것을 도저히 쫓을 수가 없었다.
-SP9(0)<Speaker>모나</Speaker>||:성급하면 안 됩니다!
-()<Speaker></Speaker>||:하지만 공중을 자유로이 활공하는 저 니토를 보는 모나의 심정은 점점 암울해졌다.+비행 능력뿐만 아니라, 아주 잠깐이어도 광학위장으로 모습을 감출 수 있는 니토.+게다가 그녀의 활공과 함께 흩뿌려지는 초소형 병기는 기능이 정말 다양했다. 지금까지만 해도 전자 교란에, 전기 충격, 그리고 폭발까지 가능했다.
-Rhino(0)<Speaker>라이노</Speaker>||:모나, 이래선 우리 돌파 못해!
-QBZ191(2)<Speaker>9호</Speaker>||:이거 완전 불판에서 소금간 쳐지는 스테이크 신세네!
-()<Speaker></Speaker>||:모나의 마인드맵이 빠르게 회전했다.+지금 그들의 공격은 저 니토의 털끝 하나 건드리지 못했다. 저 상대에게 일방적으로 놀아나고 있을 뿐이었다.+그런데... 위화감이 들었다.
-SP9(0)<Speaker>모나</Speaker>||:......
-()<Speaker></Speaker>||:이미 5분이나 지났건만, 저 니토는 왜 그들을 끝장내지 않는 것일까?+혹시... 죽일 생각이 없는 것이 아니라, 죽일 수 없기 때문이 아닐까?
-SP9(0)<Speaker>모나</Speaker>||<SE1>AVG_tele_connect</SE1>:...여기는 질소, 우산 응답 바랍니다!
-SP9(0)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>우산 수신!</color>
-SP9(0)<Speaker>모나</Speaker>||:사전 정보에 언급된 신원 미상의 상급 니토와 교전 중입니다!+우리는 상대에게 전혀 손쓸 수가 없지만, 상대도 치명적인 피해는 주지 않고 있습니다.+추측컨데... 상대에겐 살상력을 지닌 공격 수단이 없는 것 같습니다.
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰앙!!+저 아래에서 일어나는 폭음은 이토록 높은 곳까지도 생생하게 들려왔다.
-SP9(0)<Speaker>모나</Speaker>||:...그러니, 철분 팀과 합류하는 것은 어떻게 생각합니까?+우리가 합류하면 시간을 더 벌 수 있을 겁니다.
-SP9(0)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>잠시만요!</color>+<color=#00CCFF>질소 팀의 정보대로라면, 그녀의 주요 능력이 교란 및 서포트란 것이죠?</color>+<color=#00CCFF>그렇다면... 하나로는 어떻게 버틸 수 있겠지만, 그녀와 나르시스가 합세하면... 일어날 시너지는 예측할 수 없습니다.</color>
-SP9(0)<Speaker>모나</Speaker>||:......!
-SP9(0)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>지금은 그 둘을 따로 상대하는 것이 오히려 우리에게 유리해요.</color>+<color=#00CCFF>우리가 가질 수 있는 우위는 동시다발적인 방해 공작밖에 없습니다. 이를 통해 버텨야만 해요.</color>+<color=#00CCFF>물리적 방해와 전자 간섭을 동시 수행 가능한 니토가 나르시스와 합류한다면...</color>+<color=#00CCFF>2개 중대를 동원해도 무리일 겁니다.</color>
-SP9(0)<Speaker>모나</Speaker>||:...그렇네요.+순식간에 쓸려나가겠죠.
-SP9(0)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>그러니, 질소 팀의 철분 팀과의 합류를 반대합니다.</color>+<color=#00CCFF>그놈이 그 다리에서 절대 벗어나지 못하게 하세요.</color>
-SP9(0)<Speaker>모나</Speaker>||:알겠습니다.
-NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:......
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:모나는 고개를 돌려, 내리깔며 얕보는 네메아란의 시선에 맞섰다.
-SP9(0)<Speaker>모나</Speaker>||:...저 니토의 발을 묶어야 합니다.
-()<Speaker></Speaker>||<SE1>AVG_magic_circle_start</SE1>:작고 가는 깃털들이 함박눈처럼 쏟아져, 질소 팀의 주위에서 폭발했다.
-QBZ191(2)<Speaker>9호</Speaker>||<SE2>Gunfight</SE2>:<size=50>이젠 아주 양념까지 바르네!</size>
-Rhino(0)<Speaker>라이노</Speaker>||:수색 작업을 전부 우산 팀한테 맡겨도 돼...?
-SP9(0)<Speaker>모나</Speaker>||:...지금 우리가 할 수 있는 일은 이것뿐입니다.
-()<Speaker></Speaker>||<SE1>Select</SE1>:모나는 총을 고쳐 쥐고, 마음을 굳혔다.
-()||<黑屏1>:
-()<Speaker>모나</Speaker>||<BIN>9</BIN><黑屏2>:RO 씨를 믿어요.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM>:......+아이네이아스 작전 상황.+제1단계 - 100%.+제2단계 - 진도 100%.+제3단계 - 진도 40%.+제4단계 - 진도 20%.+제5단계 - 계획 수정, 플랜 C로 진행 중.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>469</BIN><黑屏2><BGM>10194</BGM>:아베르누스의 초소 안.
-()<Speaker>시스템</Speaker>||<SE1>AVG_tele_disconnect</SE1>:질소 팀 - 오프라인.
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>...질소 팀의 신호가 사라졌습니다.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:지금 신호 증폭 중이야.+전자 간섭이 엄청 심한 구역에 들어갔어.
-UMP9Mod(2)<Speaker>UMP9</Speaker><Position>0,-50</Position>||<SE1>ClothingUp</SE1>:언니...
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:넌 가만히 쉬고 있어.
-()<Speaker></Speaker>||:가상 설비들이 울어대는 통에, 허약해진 UMP9이 힘겹게 몸을 일으켰다. 그녀 옆의 UMP45는 초조해하면서도 정신을 집중해 회의실의 네트워크를 안정화시키는 중이었다.
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:부웅....
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:아니 진짜 여기에 들인 돈이 얼만데...+고작 이 정도 부담도 못 견뎌?
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:부우웅...
-()<Speaker></Speaker>||:UMP45의 불평에 항의하듯, 노이즈는 오히려 점점 커졌다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:......
-()<Speaker></Speaker>||:UMP45의 손이 멈췄다. 눈치챈 것이다. 설비가 노이즈를 내는 원인은, 신호 문제가 아님을.
-UMP9Mod(4)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:...언니!
-()<Speaker></Speaker>||:UMP9도 이를 깨닫고 없는 힘을 짜내 소리쳤다.+외부로부터 들려오는 소음이었다.
-()<Speaker>RO635</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...45 씨?</color>
-()<Speaker></Speaker>||:UMP45가 신중하게 몸을 엄폐하면서 소음의 근원을 확인했다.
-()<Speaker></Speaker>||<SE1>AVG_Jet_Passby</SE1>:부우웅...+패러데우스의 비행기 몇 대가 저공비행하며 두 인형들이 있는 곳 바로 위를 맴돌았다.+설상가상으로, 저멀리서 병력이 가득 실린 것으로 보이는 수송 차량도 달려오고 있었다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_tele_connect</SE1>:...우리 위치가 발각됐어.
-UMP45Mod(0)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>네...?!</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:얼마나 더 걸릴 거 같아?
-UMP45Mod(0)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>그리 오래는 아닙니다.</color>+<color=#00CCFF>지원군이 곧 도착해요. 우리가 동탑을 수색하는 동안, 그들은 서탑을 돌파할 겁니다.</color>+<color=#00CCFF>얼마 안 걸릴 거예요.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:하아...
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:RO635의 뜻을 이해한 UMP45는 고개를 들어, 바로 앞의 UMP9을 바라봤다. 그녀는 지금 허약해진 상태임에도 무기를 들었다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:알았어, 열심히 버텨 볼게.+하지만... 운이 다하면 얼마 안 가 우리 둘 다 여기서 당하고 말아. 무슨 소린지 알지?
-()<Speaker>RO635</Speaker>||:<color=#00CCFF>...예.</color>
-()||<黑屏1>:
-NytoWhite(0)<Speaker>하얀 니토</Speaker><Position>0,50</Position>||<SE1>AVG_keyboardtype_sci</SE1><BIN>9</BIN><黑屏2>:——목표를 포착.+침입자 UMP45, UMP9, 확인.
-UMP9Mod(4)<Speaker>UMP9</Speaker><Position>0,-50</Position><Shake>0.1</Shake>||:언니! 왔어!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:...칫!
-()<Speaker></Speaker>||<SE1>Explode</SE1><BIN>9</BIN><BGM>BGM_Empty</BGM>:퍼엉!
-()||<黑屏1>:
-()<Speaker>RO635</Speaker>||<黑屏2><BIN>9</BIN><边框>2</边框><回忆><BGM>10254</BGM>:<color=#00CCFF>우린 동탑을 수색할 테니, 서탑을 부탁해.</color>
-()<Speaker>???</Speaker>||<边框>2</边框>:알았어.
-()<Speaker>RO635</Speaker>||<边框>2</边框>:<color=#00CCFF>그쪽에 아마 우리가 포착 못한 상급 니토가 있을 거야.</color>
-()<Speaker>???</Speaker>||<边框>2</边框><SE1>ClothingUp</SE1>:브라메드 말이지?
-()<Speaker></Speaker>||<边框>2</边框>:M16A1이 낮은 소리로 대답하며, 하찮다는 듯 비웃었다.
-M16A1BOSS(3)<Speaker>M16A1</Speaker>||<边框>2</边框>:하, 날 전자전으로 해치우려는 놈을 만날 줄은 몰랐다니까.
-()<Speaker>RO635</Speaker>||<边框>2</边框><黑屏1>:<color=#00CCFF>이젠 기댈 곳이 없어... 이게 우리의 마지막 기회야.</color>+<color=#00CCFF>그러니까... 부탁할게. 철분도, 유니콘도, 질소도, 모두 오래 못 버텨.</color>
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1><黑屏2><BIN>461</BIN><关闭蒙版>:쥐 죽은 듯 조용한 나선 계단 위로 익숙한 모습이 눈에 들어오자, M16A1은 옆의 동료를 흘깃했다.
-Beak(0)<Speaker>비크</Speaker>||:...뭐?+어우, 여기 뭐 이리 징그럽대...? 소름 돋아 주름지겠다 아주.
-Beak(0);M16A1BOSS(2)<Speaker>M16A1</Speaker>||:그럼 더 서두르기나 해.+빨리 끝내야 일찍 돌아갈 거 아니야.
-Beak(0)<Speaker>비크</Speaker>;M16A1BOSS(2)||:아 좀 더 자세하게 설명하라고.
-M16A1BOSS(2)<Speaker>M16A1</Speaker>||:흠... 그럼 이렇게 할까.+시간이 부족하니 흩어져서 행동하자.+넌 여기와 이 일대를 조사해.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:비크의 반응은 신경도 안 쓰면서, M16A1은 지도를 꺼내 표시된 구역을 비크에게 가리켰다.
-Beak(0)<Speaker>비크</Speaker>||:...너 설마 내가 그놈한테 조종당할까 봐 걱정해?
-M16A1BOSS(5)<Speaker>M16A1</Speaker>||:처리할 상대가 둘이 되어버리면 꽤 귀찮긴 하겠네.
-Beak(0)<Speaker>비크</Speaker>||:잘났어 정말.
-()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:M16A1은 씨익 웃곤 비크를 두고 떠났다.+비크는 입을 삐죽 내밀며 짜증을 내면서도, 얌전히 M16A1이 떠나는 모습을 지켜봤다.
-()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:잠시 후, M16A1의 뒷모습은 탑이 드리우는 시꺼먼 어둠 속에 녹아들었다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2><SE1>AVG_Card_Reader</SE1>:아이네이아스 작전팀 출석 확인 - 블랙박스.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑点2><BIN>461</BIN><BGM>GF_22W_BGM_3</BGM>:아베르누스 서탑의 입구.
-()<Speaker></Speaker>||<震屏3><SE1>AVG_rifle_finalshot_h</SE1>:타앙!
-()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_XXS_kick</SE1>:깔끔한 총성과 함께, 또 한 명의 검은 니토가 금속판 바닥에 쓰러졌다.
-()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1><SE1>AVG_Bullet_Drop</SE1>:딸그락.
-()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><SE1>RunStep</SE1>:바닥에 떨어져 구르는 탄피를 뒤로하고, M16A1은 니토의 시체를 밟고 넘어 계속해서 나선 계단을 올랐다.+한시가 급한 임무인 만큼, 걸음도 바빴다.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:......
-()<Speaker></Speaker>||<SE1>AVG_ElecSpace</SE1>:삐이――+서탑 안에 발을 들이는 순간, 그녀가 지나쳤던 길모퉁이의 벽에서 소름돋는 경보가 울렸다.
-()<Speaker></Speaker>||:그리고 꼬리에 꼬리를 물고 서탑 전체에 한꺼번에 울려 퍼지는 경보음은 M16A1의 머리를 지끈거리게 만들이게 충분했다.
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1><Night>:퍼엉!!
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:이딴 배경 음악 질색인데...
-()<Speaker></Speaker>||:총알로 경보 장치를 모조리 쏘아 부수자, 통로는 조명까지 어두워졌다.+오직 중앙의 실험실 내부만 환하게 빛났다.
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:파지직...!+그런 그녀를 비웃기라도 하듯, 실험실의 등불이 깜빡이더니 전자 교란이 홍수처럼 밀려들었다.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:......
-()<Speaker></Speaker>||:M16A1은 제자리에 섰다.+소리 없는 전투는 이미 시작된 것이었다.
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:지직...
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:...쯧.
-()<Speaker></Speaker>||:짧게 겨루고 바로 파악했다. 상대는 전자전에 매우 능통하다.+하지만 이런 원거리 전자 교란은 압도적인 우위를 점하지 않으면 잘해봤자 성가신 방해에 지나지 않는다.
-()<Speaker></Speaker>||<SE1>Select</SE1><SE1>AVG_footsteps_woodfloor</SE1>:M16A1은 총을 들어, 천천히 앞으로 나아갔다.+M16A1에게도 브라메드에 관한 정보는 많지 않았다.
-()<Speaker></Speaker>||:단 무슨 일이 있어도, 적 전자전 전문가를 방치한 채로 움직일 순 없었다.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||<SE1>Stop_AVG_loop</SE1>:......
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:지직...+그녀가 가진 정보에 따르면, 브라메드는 전자전에 매우 능통하나 전투 능력은 전무한 것으로 보였다.+적어도 슈타지와 지휘관이 교전했을 때 압도적인 무력을 보이지도 않았고, 이전의 버려진 공장에서 마주쳤을 때도 그녀의 실력을 가늠할 수 있었다.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:<color=#A9A9A9>...그런 녀석이 혼자 움직이진 않을 터란 말이지.</color>+<color=#A9A9A9>그런데, 지금까지 조우한 병력은 싱거울 정도로 적었어.</color>
-()<Speaker></Speaker>||<黑屏1>:그녀는 어떤 적도 두려워하지 않지만, 그렇다고 얕보지는 않았다.+브라메드는 멍청이가 아니다. 그녀가 그토록 무방비해 보이는 것은, 분명 비장의 수를 숨기고 있음이 분명했다.
-()<Speaker></Speaker>||<SE1>AVG_Water_Drip</SE1><BGM>BGM_Empty</BGM><黑屏2><BIN>229</BIN><关闭蒙版>:똑... 똑...+실험실 안에서 물방울이 바닥에 떨어지는 소리가 또렷하게 들려왔다.+M16A1은 신경을 바짝 곤두세우고, 언제 어디서 닥쳐올지 모르는 브라메드의 공격에 대비했다.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:<color=#A9A9A9>자아, 어디냐...</color>
-()<Speaker></Speaker>||:......+막 그렇게 생각했을 때, 전혀 예상치 못한 상황에 그녀는 그자리에 굳어버렸다.
-()<Speaker></Speaker>||<BGM>10244</BGM>:길다란 통로 너머, 실험실 안의 문이 활짝 열렸다.
-()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:그리고 그 안에서 하얀 그림자가 모습을 드러냈다. 아무 거리낌 없이, 어떤 호위 병력도 없이.+대놓고 홀로 M16A1 앞에 나타난 것도 모자라, 겁도 없이 그녀에게 곧장 다가왔다.
-()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:천천히 실험실을 걸어 나온 하얀 그림자는 빛을 등진 채로 M16A1의 시야에 들어왔다.
-M16A1BOSS(2)<Speaker>M16A1</Speaker>||:......
-()<Speaker></Speaker>||:M16A1은 방아쇠에 걸린 손가락을 까딱였다.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:말도 안 돼... 어째서 네가...?
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:두 발을 바닥에 딛고, 드레스 같은 천옷을 입은 여성이, 웃는 듯 아닌 듯 미묘한 표정으로 M16A1을 마주봤다.
-RPK16_Nyto(0)<Speaker>RPK16</Speaker><Position>0,-50</Position><GradientShow>3</GradientShow>||:있을 수 없는 일은 있을 수 없다고들 하죠.
-()<Speaker></Speaker>||:RPK-16이었다.+M16A1을 마주보며 미소짓는 그녀는, 마치 오랜 친구를 만난 것마냥 담담했다.+홀로 실험실 한가운데에서, 그녀의 기관총을 손에 쥐고, 실크처럼 희고 길다란 치마를 바닥에 끄는 그녀의 뒤로는 아직도 안에 약물이 잔뜩 흐르는 실험용 캡슐이 보였다.
-RPK16_Nyto(0)<Speaker>RPK16</Speaker><Position>0,-50</Position>||:더 이상 올라가지 말아요, M16. 여기에 남아 있으세요.
-RPK16_Nyto(0)<Position>0,-50</Position>;M16A1BOSS(4)<Speaker>M16A1</Speaker>||:너한텐 볼일 없어.
-RPK16_Nyto(0)<Speaker>RPK16</Speaker><Position>0,-50</Position>;M16A1BOSS(4)||:저는 당신을 기다렸답니다.
-M16A1BOSS(3)<Speaker>M16A1</Speaker>||:그거 미안하게 됐네.
-()<Speaker></Speaker>||<SE1>Explode</SE1><BGM>BGM_Empty</BGM>:펑!
-()<Speaker></Speaker>||<BGM>10235</BGM>:수류탄으로 가로막는 문짝을 부수고, M16A1은 장애물을 전부 걷어차면서 실험실 안으로 쳐들어갔다.
-RPK16_Nyto(0)<Speaker>RPK16</Speaker><Position>0,-50</Position>||:그들은 침입자 중 한 명만 남기고, 나머진 모조리 죽일 거예요.+당신이 계속 여기에 있으면 경쟁률만 높아진다고요?
-M16A1BOSS(2)<Speaker>M16A1</Speaker>||:나랑은 관계 없어.+그리고 친한 척 하지 마, 우리 처음 보는 사이일 텐데?
-RPK16_Nyto(0)<Speaker>RPK16</Speaker><Position>0,-50</Position>||:아뇨... 당신은 모르겠지만, 저는 당신을 아주 많이 봤답니다.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:......
-()<Speaker></Speaker>||:M16A1은 RPK-16을 보며 침묵에 빠졌다.+만약 패러데우스가 M4A1을 찾아내면... 이렇게 하려는 속셈일까?
-RPK16_Nyto(0)<Speaker>RPK16</Speaker><Position>0,-50</Position>||:어머?
-()<Speaker></Speaker>||<SE1>AVG_Gatling_gun</SE1>:M16A1이 방아쇠를 당겨, 실험실 안의 수많은 시약병들과 실험 설비를 모조리 박살냈다.
-()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_Cloak_Whoosh</SE1><SE2>Gunfight</SE2>:RPK-16도 가볍게 몸을 굴려 금속제 실험대를 엄폐물 삼으면서 기관총으로 반격했다.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:——!
-()<Speaker></Speaker>||:M16A1의 작전 능력은 전술인형 중에서도 단연 으뜸이었다.+소체의 성능이 리벨리온에 비해 떨어질지언정, 풍부한 작전 경험으로 그 차이를 충분히 메꿀 수 있었다.
-RPK16_Nyto(0)<Speaker>RPK16</Speaker><Position>0,-50</Position>||:와아... 싸우는 요령이 정말 굉장하네요.
-()<Speaker></Speaker>||<SE1>AVG_bigglassbreak</SE1><震屏3>:퍼엉!!+비좁은 실험실은 두 인형의 싸움을 견뎌낼 수 없었다.+
-()<Speaker></Speaker>||:서로에게 긴박한 상황이었다.+M16A1은 RPK-16와 이렇게 실랑이를 벌일 시간이 없었지만, 그녀를 넘지 않고서는 그 뒤의 문으로 갈 수가 없었다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:쉬익!
-()<Speaker></Speaker>||<SE1>Select</SE1>:철컥!
-()<Speaker></Speaker>||:서로의 상황을 파악한 둘은 거의 동시에 움직였다.
-()<Speaker></Speaker>||<SE1>AVG_ElecSpace</SE1>:삐이이——!!
-()<Speaker></Speaker>||<SE1>AVG_door_storehouse</SE1><controll_shake>%%type_id=2%%duration=5%%delay=0.1%%range=8</controll_shake>:그때, 요란한 경보음과 함께 위층으로 통하는 계단의 입구에 두꺼운 차단문이 내려왔다.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:——!
-()<Speaker></Speaker>||:차단문이 내려오는 속도는 느려 M16A1이 통과할 시간은 충분했다.+하지만 RPK-16을 무시하고 지나치려던 순간, M16A1은 소련의 병사가 몰던 "아레스"를 상대할 때보다 더 엄청난 압박감을 느꼈다.+지금 RPK-16에게 등을 보이는 짓은 너무 위험했다.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:......
-RPK16_Nyto(0)<Speaker>RPK16</Speaker><Position>0,-50</Position>||:......
-()<Speaker></Speaker>||:그 철벽이 문을 완전히 막아버리자, 넓지 않은 공간이 다시 침묵에 잠겼다.+M16A1은 고개를 틀어, 얼굴에 그 미소가 여전한 RPK-16을 차갑게 노려봤다. 그제서야 M16A1은 RPK-16의 몸이 뭔가에 제한을 받는 것 같음을 눈치챘다.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:...시간 낭비 마라.
-RPK16_Nyto(0)<Speaker>RPK16</Speaker><Position>0,-50</Position>||:시간 가는 줄도 모를 거예요.
-()<Speaker></Speaker>||:그것이 둘이 맞붙기 전의 마지막 대화였다.+RPK-16의 몸은 길다란 케이블에 고정되어 움직임이 제한되었고, M16A1은 그녀에게서 15m도 안 되는 위치에 있었다.+멀리서 총격전을 벌이든 근접전으로 몰아가든, M16A1이 압도적으로 유리한 상황이었다.
-()<Speaker></Speaker>||<震屏3><SE1>AVG_rifle_finalshot_h</SE1>:타앙!
-()<Speaker></Speaker>||:그리고 그녀의 선택은 아주 찰나에 변했다.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:<color=#A9A9A9>...포스실드.</color>
-()<Speaker></Speaker>||<SE1>AVG_Bullte_Ricochet</SE1>:M16A1이 발사한 총탄은 형체 없는 장애물에 속력을 잃고 떨어졌다.
-()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><SE1>AVG_The_Division_Machine_Gun_Tower_Shooting</SE1>:반면, RPK-16은 아무렇지도 않게 기관총을 들어 M16A1을 향해 소사했다.
-()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:아무리 그녀라도, 빗발치는 총탄을 피하며 질주해 엄폐물 뒤로 몸을 숨겨야만 했다.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:<color=#A9A9A9>......</color>
-()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1>:이것이 "홈그라운드"일까?+층마다 다수의 방어 시스템이 설치되어 있고, RPK-16은 그것을 자유롭게 사용할 수 있다.+멀리 갈 것 없이, 저 포스실드만으로도 전투가 매우 힘겨워진다.+이렇게 성가신 싸움은, 그녀에게도 참 오랜만이었다.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:<color=#A9A9A9>...근접할 수밖에.</color>
-()<Speaker></Speaker>||:근거리라면 상대를 빠르게 제압할 자신이 있었다.+문제는 어떻게 접근하느냐였다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:아이네이아스 작전 상황.+제1단계 - 진도 100%.+제2단계 - 1...이상 발생. 상황 불명.+제3단계 - 진도 6...이상 발생.+제4단계 - 진도 40%.+제5단계 - 이상 발생.
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<震屏3><BIN>449</BIN><BGM>10144</BGM><SE2>Gunfight</SE2>:타타탕!!
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:펄럭――
+Rhino(0)<Speaker>라이노</Speaker>||:목표 고도 재상승!+뭐야 저게! 저런 걸로 어떻게 날아다니는 건데!
+SP9(0)<Speaker>모나</Speaker>||:9호! 제압 사격!
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:긴 치마자락 같은 날개를 펄럭이며, 네메아란은 공중을 날아다녔다.+그 움직임은 너무나도 날렵해, 세 인형들의 총구는 그녀를 따라가기에도 벅찼다.
+()<Speaker></Speaker>||<SE1>AVG_magic_circle_start</SE1>:그리고 펄럭이는 날개에서, 별가루처럼 반짝이는 빛이 흩뿌려졌다.
+Rhino(0)<Speaker>라이노</Speaker><Shake>0.1</Shake>||<SE1>AVG_whitenoise</SE1>:으윽...?! 아아악!!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:라이노가 갑자기 괴로워하며 머리를 부여잡았다.
+SP9(0)<Speaker>모나</Speaker>||:2호?!
+QBZ191(0)<Speaker>9호</Speaker>||<SE1>RunStep</SE1>:젠장, 전자 교란이야! 1호는 2호 데리고 거리를 벌려!+난 계속 제압 사격할게!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:모나도 총을 들어, 활공하는 네메아란을 향해 함께 제압 사격을 퍼부었다.+흩날리는 초소형 재머들이 그녀의 마인드맵을 계속 자극했지만, 지금의 그녀는 그때처럼 연약하지 않았다.
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:쾅!!
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰앙!!!
+Rhino(0)<Speaker>라이노</Speaker><Shake>0.1</Shake>||:으아——!!
+QBZ191(0)<Speaker>9호</Speaker>||:정보 수정! 폭발물도 섞였어!
+SP9(0)<Speaker>모나</Speaker>||:——!
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:교량 위는 엄폐물이나 장애물이 없어, 하늘을 종횡무진으로 누비는 네메아란에게 그들은 떡하니 보이는 과녁이나 다름없었다.
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:모나는 연막탄을 던지고 몸을 굴려 라이노의 곁으로 가, 자신의 몸으로 그녀를 감쌌다.
+Rhino(0)<Speaker>라이노</Speaker>||:미안해...+나... 방해만 되고...
+SP9(0)<Speaker>모나</Speaker>||:진정해요 라이노, 당신 잘못이 아니에요.+적의 교란에 집중해서 대항하세요. 당신이라면 할 수 있어요.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:9호가 자신의 예비용 신호 증폭기를 라이노에게 던져 주었다.
+QBZ191(0)<Speaker>9호</Speaker>||:그거 갖고 있어! 전자 교란을 중화해 주니까, 일단 네 감지 능력부터 안정시켜!
+Rhino(0)<Speaker>라이노</Speaker>||:으으... 토끼귀까지 줘서 고마워, 9호...
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:......
+QBZ191(0)<Speaker>9호</Speaker>||:——주의! 적이 착지합니다!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2><震屏3>:타타탕!+9호는 계속해서 총탄을 퍼부었다.
+SP9(0)<Speaker>모나</Speaker>||:9호! 멈춰요!+저건 미끼예요, 총알 낭비 마세요!
+()<Speaker></Speaker>||<SE1>AVG_magic_circle_start</SE1>:쉬익!+그녀가 또 방아쇠를 당기는 순간, 네메아란의 모습이 점멸하더니 그대로 감쪽같이 사라졌다.
+Rhino(0)<Speaker>라이노</Speaker>||:저, 저건 또 뭐야...?!
+QBZ191(0)<Speaker>9호</Speaker>||:...광학위장.
+()<Speaker></Speaker>||:9호는 믿기지 않는단 표정이었다.
+SP9(0)<Speaker>모나</Speaker>||<SE1>RunStep</SE1>:또 옵니다! 회피!
+()<Speaker></Speaker>||:모습을 감췄던 네메아란은 다시 공중에 나타났다.
+()<Speaker></Speaker>||<SE1>AVG_magic_circle_start</SE1>:무표정인 그녀의 움직임을 따라, 이번엔 금속 같은 광택으로 반짝이는 가는 깃털이 흩뿌려졌다.
+SP9(0)<Speaker>모나</Speaker>||:칫!
+()<Speaker></Speaker>||:이번엔 무엇일까? 전자 교란? 폭발물? 아니면 전기 충격?
+()<Speaker></Speaker>||<SE1>Select</SE1>:등 뒤로 라이노를 지키며, 모나는 입술을 깨물고 다시 무기를 들었다.
+()<Speaker></Speaker>||<震屏3><SE2>Gunfight</SE2>:타타탕!!!
+QBZ191(2)<Speaker>9호</Speaker>||:1호! 이건 지원이 필요해!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:9호도 이를 악물고 총을 갈겼지만, 하늘에서 이리저리 춤추는 저것을 도저히 쫓을 수가 없었다.
+SP9(0)<Speaker>모나</Speaker>||:성급하면 안 됩니다!
+()<Speaker></Speaker>||:하지만 공중을 자유로이 활공하는 저 니토를 보는 모나의 심정은 점점 암울해졌다.+비행 능력뿐만 아니라, 아주 잠깐이어도 광학위장으로 모습을 감출 수 있는 니토.+게다가 그녀의 활공과 함께 흩뿌려지는 초소형 병기는 기능이 정말 다양했다. 지금까지만 해도 전자 교란에, 전기 충격, 그리고 폭발까지 가능했다.
+Rhino(0)<Speaker>라이노</Speaker>||:모나, 이래선 우리 돌파 못해!
+QBZ191(2)<Speaker>9호</Speaker>||:이거 완전 불판에서 소금간 쳐지는 스테이크 신세네!
+()<Speaker></Speaker>||:모나의 마인드맵이 빠르게 회전했다.+지금 그들의 공격은 저 니토의 털끝 하나 건드리지 못했다. 저 상대에게 일방적으로 놀아나고 있을 뿐이었다.+그런데... 위화감이 들었다.
+SP9(0)<Speaker>모나</Speaker>||:......
+()<Speaker></Speaker>||:이미 5분이나 지났건만, 저 니토는 왜 그들을 끝장내지 않는 것일까?+혹시... 죽일 생각이 없는 것이 아니라, 죽일 수 없기 때문이 아닐까?
+SP9(0)<Speaker>모나</Speaker>||<SE1>AVG_tele_connect</SE1>:...여기는 질소, 우산 응답 바랍니다!
+SP9(0)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>우산 수신!</color>
+SP9(0)<Speaker>모나</Speaker>||:사전 정보에 언급된 신원 미상의 상급 니토와 교전 중입니다!+우리는 상대에게 전혀 손쓸 수가 없지만, 상대도 치명적인 피해는 주지 않고 있습니다.+추측컨데... 상대에겐 살상력을 지닌 공격 수단이 없는 것 같습니다.
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰앙!!+저 아래에서 일어나는 폭음은 이토록 높은 곳까지도 생생하게 들려왔다.
+SP9(0)<Speaker>모나</Speaker>||:...그러니, 철분 팀과 합류하는 것은 어떻게 생각합니까?+우리가 합류하면 시간을 더 벌 수 있을 겁니다.
+SP9(0)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>잠시만요!</color>+<color=#00CCFF>질소 팀의 정보대로라면, 그녀의 주요 능력이 교란 및 서포트란 것이죠?</color>+<color=#00CCFF>그렇다면... 하나로는 어떻게 버틸 수 있겠지만, 그녀와 나르시스가 합세하면... 일어날 시너지는 예측할 수 없습니다.</color>
+SP9(0)<Speaker>모나</Speaker>||:......!
+SP9(0)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>지금은 그 둘을 따로 상대하는 것이 오히려 우리에게 유리해요.</color>+<color=#00CCFF>우리가 가질 수 있는 우위는 동시다발적인 방해 공작밖에 없습니다. 이를 통해 버텨야만 해요.</color>+<color=#00CCFF>물리적 방해와 전자 간섭을 동시 수행 가능한 니토가 나르시스와 합류한다면...</color>+<color=#00CCFF>2개 중대를 동원해도 무리일 겁니다.</color>
+SP9(0)<Speaker>모나</Speaker>||:...그렇네요.+순식간에 쓸려나가겠죠.
+SP9(0)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>그러니, 질소 팀의 철분 팀과의 합류를 반대합니다.</color>+<color=#00CCFF>그놈이 그 다리에서 절대 벗어나지 못하게 하세요.</color>
+SP9(0)<Speaker>모나</Speaker>||:알겠습니다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:모나는 고개를 돌려, 내리깔며 얕보는 네메아란의 시선에 맞섰다.
+SP9(0)<Speaker>모나</Speaker>||:...저 니토의 발을 묶어야 합니다.
+()<Speaker></Speaker>||<SE1>AVG_magic_circle_start</SE1>:작고 가는 깃털들이 함박눈처럼 쏟아져, 질소 팀의 주위에서 폭발했다.
+QBZ191(2)<Speaker>9호</Speaker>||<SE2>Gunfight</SE2>:<size=50>이젠 아주 양념까지 바르네!</size>
+Rhino(0)<Speaker>라이노</Speaker>||:수색 작업을 전부 우산 팀한테 맡겨도 돼...?
+SP9(0)<Speaker>모나</Speaker>||:...지금 우리가 할 수 있는 일은 이것뿐입니다.
+()<Speaker></Speaker>||<SE1>Select</SE1>:모나는 총을 고쳐 쥐고, 마음을 굳혔다.
+()||<黑屏1>:
+()<Speaker>모나</Speaker>||<BIN>9</BIN><黑屏2>:RO 씨를 믿어요.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM>:......+아이네이아스 작전 상황.+제1단계 - 100%.+제2단계 - 진도 100%.+제3단계 - 진도 40%.+제4단계 - 진도 20%.+제5단계 - 계획 수정, 플랜 C로 진행 중.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>469</BIN><黑屏2><BGM>10194</BGM>:아베르누스의 초소 안.
+()<Speaker>시스템</Speaker>||<SE1>AVG_tele_disconnect</SE1>:질소 팀 - 오프라인.
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>...질소 팀의 신호가 사라졌습니다.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:지금 신호 증폭 중이야.+전자 간섭이 엄청 심한 구역에 들어갔어.
+UMP9Mod(2)<Speaker>UMP9</Speaker><Position>0,-50</Position>||<SE1>ClothingUp</SE1>:언니...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:넌 가만히 쉬고 있어.
+()<Speaker></Speaker>||:가상 설비들이 울어대는 통에, 허약해진 UMP9이 힘겹게 몸을 일으켰다. 그녀 옆의 UMP45는 초조해하면서도 정신을 집중해 회의실의 네트워크를 안정화시키는 중이었다.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:부웅....
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:아니 진짜 여기에 들인 돈이 얼만데...+고작 이 정도 부담도 못 견뎌?
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:부우웅...
+()<Speaker></Speaker>||:UMP45의 불평에 항의하듯, 노이즈는 오히려 점점 커졌다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:......
+()<Speaker></Speaker>||:UMP45의 손이 멈췄다. 눈치챈 것이다. 설비가 노이즈를 내는 원인은, 신호 문제가 아님을.
+UMP9Mod(4)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:...언니!
+()<Speaker></Speaker>||:UMP9도 이를 깨닫고 없는 힘을 짜내 소리쳤다.+외부로부터 들려오는 소음이었다.
+()<Speaker>RO635</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...45 씨?</color>
+()<Speaker></Speaker>||:UMP45가 신중하게 몸을 엄폐하면서 소음의 근원을 확인했다.
+()<Speaker></Speaker>||<SE1>AVG_Jet_Passby</SE1>:부우웅...+패러데우스의 비행기 몇 대가 저공비행하며 두 인형들이 있는 곳 바로 위를 맴돌았다.+설상가상으로, 저멀리서 병력이 가득 실린 것으로 보이는 수송 차량도 달려오고 있었다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_tele_connect</SE1>:...우리 위치가 발각됐어.
+UMP45Mod(0)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>네...?!</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:얼마나 더 걸릴 거 같아?
+UMP45Mod(0)<Speaker>RO635</Speaker><同时置暗>||:<color=#00CCFF>그리 오래는 아닙니다.</color>+<color=#00CCFF>지원군이 곧 도착해요. 우리가 동탑을 수색하는 동안, 그들은 서탑을 돌파할 겁니다.</color>+<color=#00CCFF>얼마 안 걸릴 거예요.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:하아...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:RO635의 뜻을 이해한 UMP45는 고개를 들어, 바로 앞의 UMP9을 바라봤다. 그녀는 지금 허약해진 상태임에도 무기를 들었다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:알았어, 열심히 버텨 볼게.+하지만... 운이 다하면 얼마 안 가 우리 둘 다 여기서 당하고 말아. 무슨 소린지 알지?
+()<Speaker>RO635</Speaker>||:<color=#00CCFF>...예.</color>
+()||<黑屏1>:
+NytoWhite(0)<Speaker>하얀 니토</Speaker><Position>0,50</Position>||<SE1>AVG_keyboardtype_sci</SE1><BIN>9</BIN><黑屏2>:——목표를 포착.+침입자 UMP45, UMP9, 확인.
+UMP9Mod(4)<Speaker>UMP9</Speaker><Position>0,-50</Position><Shake>0.1</Shake>||:언니! 왔어!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...칫!
+()<Speaker></Speaker>||<SE1>Explode</SE1><BIN>9</BIN><BGM>BGM_Empty</BGM>:퍼엉!
+()||<黑屏1>:
+()<Speaker>RO635</Speaker>||<黑屏2><BIN>9</BIN><边框>2</边框><回忆><BGM>10254</BGM>:<color=#00CCFF>우린 동탑을 수색할 테니, 서탑을 부탁해.</color>
+()<Speaker>???</Speaker>||<边框>2</边框>:알았어.
+()<Speaker>RO635</Speaker>||<边框>2</边框>:<color=#00CCFF>그쪽에 아마 우리가 포착 못한 상급 니토가 있을 거야.</color>
+()<Speaker>???</Speaker>||<边框>2</边框><SE1>ClothingUp</SE1>:브라메드 말이지?
+()<Speaker></Speaker>||<边框>2</边框>:M16A1이 낮은 소리로 대답하며, 하찮다는 듯 비웃었다.
+M16A1BOSS(3)<Speaker>M16A1</Speaker>||<边框>2</边框>:하, 날 전자전으로 해치우려는 놈을 만날 줄은 몰랐다니까.
+()<Speaker>RO635</Speaker>||<边框>2</边框><黑屏1>:<color=#00CCFF>이젠 기댈 곳이 없어... 이게 우리의 마지막 기회야.</color>+<color=#00CCFF>그러니까... 부탁할게. 철분도, 유니콘도, 질소도, 모두 오래 못 버텨.</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><黑屏2><BIN>461</BIN><关闭蒙版>:쥐 죽은 듯 조용한 나선 계단 위로 익숙한 모습이 눈에 들어오자, M16A1은 옆의 동료를 흘깃했다.
+Beak(0)<Speaker>비크</Speaker>||:...뭐?+어우, 여기 뭐 이리 징그럽대...? 소름 돋아 주름지겠다 아주.
+Beak(0);M16A1BOSS(2)<Speaker>M16A1</Speaker>||:그럼 더 서두르기나 해.+빨리 끝내야 일찍 돌아갈 거 아니야.
+Beak(0)<Speaker>비크</Speaker>;M16A1BOSS(2)||:아 좀 더 자세하게 설명하라고.
+M16A1BOSS(2)<Speaker>M16A1</Speaker>||:흠... 그럼 이렇게 할까.+시간이 부족하니 흩어져서 행동하자.+넌 여기와 이 일대를 조사해.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:비크의 반응은 신경도 안 쓰면서, M16A1은 지도를 꺼내 표시된 구역을 비크에게 가리켰다.
+Beak(0)<Speaker>비크</Speaker>||:...너 설마 내가 그놈한테 조종당할까 봐 걱정해?
+M16A1BOSS(5)<Speaker>M16A1</Speaker>||:처리할 상대가 둘이 되어버리면 꽤 귀찮긴 하겠네.
+Beak(0)<Speaker>비크</Speaker>||:잘났어 정말.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:M16A1은 씨익 웃곤 비크를 두고 떠났다.+비크는 입을 삐죽 내밀며 짜증을 내면서도, 얌전히 M16A1이 떠나는 모습을 지켜봤다.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:잠시 후, M16A1의 뒷모습은 탑이 드리우는 시꺼먼 어둠 속에 녹아들었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2><SE1>AVG_Card_Reader</SE1>:아이네이아스 작전팀 출석 확인 - 블랙박스.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑点2><BIN>461</BIN><BGM>GF_22W_BGM_3</BGM>:아베르누스 서탑의 입구.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_rifle_finalshot_h</SE1>:타앙!
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_XXS_kick</SE1>:깔끔한 총성과 함께, 또 한 명의 검은 니토가 금속판 바닥에 쓰러졌다.
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1><SE1>AVG_Bullet_Drop</SE1>:딸그락.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><SE1>RunStep</SE1>:바닥에 떨어져 구르는 탄피를 뒤로하고, M16A1은 니토의 시체를 밟고 넘어 계속해서 나선 계단을 올랐다.+한시가 급한 임무인 만큼, 걸음도 바빴다.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_ElecSpace</SE1>:삐이――+서탑 안에 발을 들이는 순간, 그녀가 지나쳤던 길모퉁이의 벽에서 소름돋는 경보가 울렸다.
+()<Speaker></Speaker>||:그리고 꼬리에 꼬리를 물고 서탑 전체에 한꺼번에 울려 퍼지는 경보음은 M16A1의 머리를 지끈거리게 만들이게 충분했다.
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1><Night>:퍼엉!!
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:이딴 배경 음악 질색인데...
+()<Speaker></Speaker>||:총알로 경보 장치를 모조리 쏘아 부수자, 통로는 조명까지 어두워졌다.+오직 중앙의 실험실 내부만 환하게 빛났다.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:파지직...!+그런 그녀를 비웃기라도 하듯, 실험실의 등불이 깜빡이더니 전자 교란이 홍수처럼 밀려들었다.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:......
+()<Speaker></Speaker>||:M16A1은 제자리에 섰다.+소리 없는 전투는 이미 시작된 것이었다.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:지직...
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:...쯧.
+()<Speaker></Speaker>||:짧게 겨루고 바로 파악했다. 상대는 전자전에 매우 능통하다.+하지만 이런 원거리 전자 교란은 압도적인 우위를 점하지 않으면 잘해봤자 성가신 방해에 지나지 않는다.
+()<Speaker></Speaker>||<SE1>Select</SE1><SE1>AVG_footsteps_woodfloor</SE1>:M16A1은 총을 들어, 천천히 앞으로 나아갔다.+M16A1에게도 브라메드에 관한 정보는 많지 않았다.
+()<Speaker></Speaker>||:단 무슨 일이 있어도, 적 전자전 전문가를 방치한 채로 움직일 순 없었다.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||<SE1>Stop_AVG_loop</SE1>:......
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:지직...+그녀가 가진 정보에 따르면, 브라메드는 전자전에 매우 능통하나 전투 능력은 전무한 것으로 보였다.+적어도 슈타지와 지휘관이 교전했을 때 압도적인 무력을 보이지도 않았고, 이전의 버려진 공장에서 마주쳤을 때도 그녀의 실력을 가늠할 수 있었다.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:<color=#A9A9A9>...그런 녀석이 혼자 움직이진 않을 터란 말이지.</color>+<color=#A9A9A9>그런데, 지금까지 조우한 병력은 싱거울 정도로 적었어.</color>
+()<Speaker></Speaker>||<黑屏1>:그녀는 어떤 적도 두려워하지 않지만, 그렇다고 얕보지는 않았다.+브라메드는 멍청이가 아니다. 그녀가 그토록 무방비해 보이는 것은, 분명 비장의 수를 숨기고 있음이 분명했다.
+()<Speaker></Speaker>||<SE1>AVG_Water_Drip</SE1><BGM>BGM_Empty</BGM><黑屏2><BIN>229</BIN><关闭蒙版>:똑... 똑...+실험실 안에서 물방울이 바닥에 떨어지는 소리가 또렷하게 들려왔다.+M16A1은 신경을 바짝 곤두세우고, 언제 어디서 닥쳐올지 모르는 브라메드의 공격에 대비했다.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:<color=#A9A9A9>자아, 어디냐...</color>
+()<Speaker></Speaker>||:......+막 그렇게 생각했을 때, 전혀 예상치 못한 상황에 그녀는 그자리에 굳어버렸다.
+()<Speaker></Speaker>||<BGM>10244</BGM>:길다란 통로 너머, 실험실 안의 문이 활짝 열렸다.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:그리고 그 안에서 하얀 그림자가 모습을 드러냈다. 아무 거리낌 없이, 어떤 호위 병력도 없이.+대놓고 홀로 M16A1 앞에 나타난 것도 모자라, 겁도 없이 그녀에게 곧장 다가왔다.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:천천히 실험실을 걸어 나온 하얀 그림자는 빛을 등진 채로 M16A1의 시야에 들어왔다.
+M16A1BOSS(2)<Speaker>M16A1</Speaker>||:......
+()<Speaker></Speaker>||:M16A1은 방아쇠에 걸린 손가락을 까딱였다.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:말도 안 돼... 어째서 네가...?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:두 발을 바닥에 딛고, 드레스 같은 천옷을 입은 여성이, 웃는 듯 아닌 듯 미묘한 표정으로 M16A1을 마주봤다.
+RPK16_Nyto(0)<Speaker>RPK16</Speaker><Position>0,-50</Position><GradientShow>3</GradientShow>||:있을 수 없는 일은 있을 수 없다고들 하죠.
+()<Speaker></Speaker>||:RPK-16이었다.+M16A1을 마주보며 미소짓는 그녀는, 마치 오랜 친구를 만난 것마냥 담담했다.+홀로 실험실 한가운데에서, 그녀의 기관총을 손에 쥐고, 실크처럼 희고 길다란 치마를 바닥에 끄는 그녀의 뒤로는 아직도 안에 약물이 잔뜩 흐르는 실험용 캡슐이 보였다.
+RPK16_Nyto(0)<Speaker>RPK16</Speaker><Position>0,-50</Position>||:더 이상 올라가지 말아요, M16. 여기에 남아 있으세요.
+RPK16_Nyto(0)<Position>0,-50</Position>;M16A1BOSS(4)<Speaker>M16A1</Speaker>||:너한텐 볼일 없어.
+RPK16_Nyto(0)<Speaker>RPK16</Speaker><Position>0,-50</Position>;M16A1BOSS(4)||:저는 당신을 기다렸답니다.
+M16A1BOSS(3)<Speaker>M16A1</Speaker>||:그거 미안하게 됐네.
+()<Speaker></Speaker>||<SE1>Explode</SE1><BGM>BGM_Empty</BGM>:펑!
+()<Speaker></Speaker>||<BGM>10235</BGM>:수류탄으로 가로막는 문짝을 부수고, M16A1은 장애물을 전부 걷어차면서 실험실 안으로 쳐들어갔다.
+RPK16_Nyto(0)<Speaker>RPK16</Speaker><Position>0,-50</Position>||:그들은 침입자 중 한 명만 남기고, 나머진 모조리 죽일 거예요.+당신이 계속 여기에 있으면 경쟁률만 높아진다고요?
+M16A1BOSS(2)<Speaker>M16A1</Speaker>||:나랑은 관계 없어.+그리고 친한 척 하지 마, 우리 처음 보는 사이일 텐데?
+RPK16_Nyto(0)<Speaker>RPK16</Speaker><Position>0,-50</Position>||:아뇨... 당신은 모르겠지만, 저는 당신을 아주 많이 봤답니다.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:......
+()<Speaker></Speaker>||:M16A1은 RPK-16을 보며 침묵에 빠졌다.+만약 패러데우스가 M4A1을 찾아내면... 이렇게 하려는 속셈일까?
+RPK16_Nyto(0)<Speaker>RPK16</Speaker><Position>0,-50</Position>||:어머?
+()<Speaker></Speaker>||<SE1>AVG_Gatling_gun</SE1>:M16A1이 방아쇠를 당겨, 실험실 안의 수많은 시약병들과 실험 설비를 모조리 박살냈다.
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_Cloak_Whoosh</SE1><SE2>Gunfight</SE2>:RPK-16도 가볍게 몸을 굴려 금속제 실험대를 엄폐물 삼으면서 기관총으로 반격했다.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:——!
+()<Speaker></Speaker>||:M16A1의 작전 능력은 전술인형 중에서도 단연 으뜸이었다.+소체의 성능이 리벨리온에 비해 떨어질지언정, 풍부한 작전 경험으로 그 차이를 충분히 메꿀 수 있었다.
+RPK16_Nyto(0)<Speaker>RPK16</Speaker><Position>0,-50</Position>||:와아... 싸우는 요령이 정말 굉장하네요.
+()<Speaker></Speaker>||<SE1>AVG_bigglassbreak</SE1><震屏3>:퍼엉!!+비좁은 실험실은 두 인형의 싸움을 견뎌낼 수 없었다.+
+()<Speaker></Speaker>||:서로에게 긴박한 상황이었다.+M16A1은 RPK-16와 이렇게 실랑이를 벌일 시간이 없었지만, 그녀를 넘지 않고서는 그 뒤의 문으로 갈 수가 없었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:쉬익!
+()<Speaker></Speaker>||<SE1>Select</SE1>:철컥!
+()<Speaker></Speaker>||:서로의 상황을 파악한 둘은 거의 동시에 움직였다.
+()<Speaker></Speaker>||<SE1>AVG_ElecSpace</SE1>:삐이이——!!
+()<Speaker></Speaker>||<SE1>AVG_door_storehouse</SE1><controll_shake>%%type_id=2%%duration=5%%delay=0.1%%range=8</controll_shake>:그때, 요란한 경보음과 함께 위층으로 통하는 계단의 입구에 두꺼운 차단문이 내려왔다.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:——!
+()<Speaker></Speaker>||:차단문이 내려오는 속도는 느려 M16A1이 통과할 시간은 충분했다.+하지만 RPK-16을 무시하고 지나치려던 순간, M16A1은 소련의 병사가 몰던 "아레스"를 상대할 때보다 더 엄청난 압박감을 느꼈다.+지금 RPK-16에게 등을 보이는 짓은 너무 위험했다.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:......
+RPK16_Nyto(0)<Speaker>RPK16</Speaker><Position>0,-50</Position>||:......
+()<Speaker></Speaker>||:그 철벽이 문을 완전히 막아버리자, 넓지 않은 공간이 다시 침묵에 잠겼다.+M16A1은 고개를 틀어, 얼굴에 그 미소가 여전한 RPK-16을 차갑게 노려봤다. 그제서야 M16A1은 RPK-16의 몸이 뭔가에 제한을 받는 것 같음을 눈치챘다.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:...시간 낭비 마라.
+RPK16_Nyto(0)<Speaker>RPK16</Speaker><Position>0,-50</Position>||:시간 가는 줄도 모를 거예요.
+()<Speaker></Speaker>||:그것이 둘이 맞붙기 전의 마지막 대화였다.+RPK-16의 몸은 길다란 케이블에 고정되어 움직임이 제한되었고, M16A1은 그녀에게서 15m도 안 되는 위치에 있었다.+멀리서 총격전을 벌이든 근접전으로 몰아가든, M16A1이 압도적으로 유리한 상황이었다.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_rifle_finalshot_h</SE1>:타앙!
+()<Speaker></Speaker>||:그리고 그녀의 선택은 아주 찰나에 변했다.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:<color=#A9A9A9>...포스실드.</color>
+()<Speaker></Speaker>||<SE1>AVG_Bullte_Ricochet</SE1>:M16A1이 발사한 총탄은 형체 없는 장애물에 속력을 잃고 떨어졌다.
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><SE1>AVG_The_Division_Machine_Gun_Tower_Shooting</SE1>:반면, RPK-16은 아무렇지도 않게 기관총을 들어 M16A1을 향해 소사했다.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:아무리 그녀라도, 빗발치는 총탄을 피하며 질주해 엄폐물 뒤로 몸을 숨겨야만 했다.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:<color=#A9A9A9>......</color>
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1>:이것이 "홈그라운드"일까?+층마다 다수의 방어 시스템이 설치되어 있고, RPK-16은 그것을 자유롭게 사용할 수 있다.+멀리 갈 것 없이, 저 포스실드만으로도 전투가 매우 힘겨워진다.+이렇게 성가신 싸움은, 그녀에게도 참 오랜만이었다.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:<color=#A9A9A9>...근접할 수밖에.</color>
+()<Speaker></Speaker>||:근거리라면 상대를 빠르게 제압할 자신이 있었다.+문제는 어떻게 접근하느냐였다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:아이네이아스 작전 상황.+제1단계 - 진도 100%.+제2단계 - 1...이상 발생. 상황 불명.+제3단계 - 진도 6...이상 발생.+제4단계 - 진도 40%.+제5단계 - 이상 발생.
+()||<黑点1>:

@@ -1,0 +1,143 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>1</BIN><common_effect>%%code=CJ_rain%%</common_effect><BGM>10220</BGM><Night><SE1>AVG_Team_Running</SE1><SE1>AVG_Amb_Rain_0</SE1>:척, 척, 척...+군부대의 규칙적인 발소리가 대지에 처박힌 강철의 뱀을 빈틈없이 에워쌌다.
+NPC-Soldier(0)<Speaker>병사</Speaker>||:대위님, 그들이 옵니다.
+()<Speaker></Speaker>||:쏴아아...
+()<Speaker></Speaker>||:비가 쏟아지는 숲속에서 장갑차를 밟고 높이 서 있는 남성은 눈을 찡그렸다.+지금 그의 수하들이 서치라이트로 비추는 열차에서 10명 가까이 넘는 생존자들이 뛰어내렸다.+하지만 그는 이번엔 사살 명령을 내리지 않았다.
+NPC-Soldier(0)<Speaker>병사</Speaker>||<SE1>Select</SE1>:멈춰라!
+()<Speaker></Speaker>||:도적들이 유효 사거리 내로 들어오자, 경계 중이던 병사가 그들을 멈춰세웠다.
+NPC-NervousMan(3)<Speaker>니콜라스</Speaker>||:비켜, 너한테 볼일 없어.
+()<Speaker></Speaker>||:물에 빠진 생쥐 꼴임에도, 니콜라스는 몸에 힘을 잔뜩 주고 당당하게 나왔다.
+()<Speaker></Speaker>||<SE1>AVG_Wheelchair</SE1>:그나마 멀쩡한 휠체어를 타고 온 류바 할멈은 다니엘의 손을 툭툭 쳐, 천천히 앞으로 나왔다.
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:이븐 대위를 보러 왔다.
+()<Speaker></Speaker>||:할멈은 고개를 위로 들어, 초병의 어깨 너머 장갑차 위에 서 있는 남자를 향했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:이름을 불린 그는 손을 내저어 도적단을 지나가도록 하라 신호하고 장갑차에서 내려왔다.
+()<Speaker>이븐 대위</Speaker>||:마지막으로 만났던 게 몇 달 전이던가요, 류바 할멈?
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:그때 우리가 무려 트레일러 4대에 탄약을 아주 가득가득 실어서 보내 줬더니...+이런 식으로 얼굴을 다시 볼 줄은 몰랐어.
+()<Speaker>이븐 대위</Speaker>||:아아 그랬죠, 참 즐거운 거래였습니다.+오늘의 거래도, 저를 실망시키지 않으시리라 믿습니다.
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:...니콜라스.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:할멈의 부름에, 니콜라스는 콧방귀를 뀌며 피로 얼룩진 짐가방을 가져와 이븐 대위 옆의 병사에게 건넸다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Car_Open</SE1>:병사는 건네받은 짐가방을 잠시 검사한 후 가방을 열었다.+그 안에 든 것은 인형의 코어들이었다. 어떤 건 아직 멀쩡한가 하면, 어떤 건 이미 심하게 파손돼 있었다.
+()<Speaker>이븐 대위</Speaker>||:......+여러분을 여기서 데리고 나가 주겠다 약속했죠.
+()<Speaker></Speaker>||:이븐 대위는 류바 할멈을, 그리고 살아남은 나머지 도적들을 주욱 훑어봤다.
+()<Speaker>이븐 대위</Speaker>||:그런데...+자리가 부족해서 말입니다.
+NPC-NervousMan(3)<Speaker>니콜라스</Speaker>||<SE1>Select</SE1>:이게 지금 누구 앞이라고 입을 그 따위로 놀려!?
+()<Speaker></Speaker>||:니콜라스가 대뜸 이븐 대위 앞으로 불쑥 끼어들어, 권총으로 그를 가리켰다.
+()<Speaker></Speaker>||<SE1>Select</SE1>:그러자 도적단들도 총을 빼 들었고, 이븐 대위 뒤의 병사들도 빠르게 총을 뽑아 도적들을 조준했다.
+NPC-NervousMan(3)<Speaker>니콜라스</Speaker>||:우리는 사탄을 따른다!
+()<Speaker></Speaker>||:고개를 치켜드는 니콜라스의 얼굴에서 아직도 묻어있던 피가 천천히 빗물에 씻겨 내리니, 없던 위압감이 생겨났다.
+NPC-NervousMan(2)<Speaker>니콜라스</Speaker>||:두려움 따위 없지!
+()<Speaker></Speaker>||:참고 있던 류바 할멈도 결국 폭발했다.
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1><SE1>ClothingUp</SE1>:그녀도 니콜라스처럼, 휠체어에서 일어나 손의 총 두 자루로 이븐 대위를 겨눴다.
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:이번에, 우리는 여느때처럼 "사냥"을 했을 뿐이야.+우리의 불꽃은 아직도 모스크바에서 활활 타오르고 있다...+카터가 소련을 손에 넣고 싶다면, 우리를 버리지 못해.
+()<Speaker>이븐 대위</Speaker>||:지당한 말씀입니다.
+()<Speaker></Speaker>||<SE1>AVG_Applause</SE1><BGM>BGM_Empty</BGM>:이븐 대위가 손뼉을 쳤다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:처척.
+()<Speaker></Speaker>||<BGM>10227</BGM>:그 손뼉에 맞춰, 니콜라스 뒤에 있던 도적들 중 절반이 총구를 돌렸다.+그중엔 전혀 예상치 못한 자도 있었다.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:애초에 네가 우리랑 같은 물에서 노는 게 말이 안 됐어.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_rifle_finalshot_n</SE1><SE1>AVG_Bullet_Hit_Body</SE1>:타앙——!
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:<size=50>니콜라스!!</size>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:류바 할멈의 외침에 니콜라스가 뒤를 돌아본 광경은 그로선 믿기지 않았다.+다니엘의 총구가 자신에게 향했고, 그 총구에선 연기가 피어오르고 있었다.+비 내리는 이 기이한 밤, 그는 아니꼽지만 적어도 믿을 수는 있다 여겼던 동료에게 당했다.
+NPC-NervousMan(2)<Speaker>니콜라스</Speaker><Shake>0.1</Shake>||:다니엘... 너...
+()<Speaker></Speaker>||<SE1>AVG_Water_Drip</SE1>:검붉은 얼룩은 그의 가슴에서 상체 전체로 번져 갔다.
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake><SE1>AVG_XXS_kick</SE1>:그리고, 니콜라스는 이해하지 못한 얼굴 그대로 바닥에 쓰러졌다.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_rifle_finalshot_n</SE1><SE1>AVG_Bullet_Hit_Body</SE1>:부릅뜬 니콜라스의 눈을 마주보며, 다니엘은 망설이지 않고 쓰러진 그의 가슴팍에 또 한 번 방아쇠를 당겼다.
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:......!!!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=5</controll_shake>:탕! 타탕! 타앙!!
+()<Speaker></Speaker>||:그리고 그 한 발은 신호탄이 되어, 치열한 총격전의 재개를 알렸다.
+()<Speaker></Speaker>||<SE1>AVG_Supershorty</SE1><震屏3>:류바 할멈은 목청이 터져라 포효하며 총을 난사했다.+그녀의 산탄총이 불꽃을 뿜음과 동시에, "배신자"들이 한 번에 서너 명씩 털썩 쓰러졌다.
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1><SE1>AVG_Bullet_Hit_Body</SE1><震屏3>:타앙!+그 소리로 류바 할멈은 자신이 맞았음을 느꼈다. 다만 그것은 "배신자들"에게서 날아온 것이 아니었다.+담담한 표정으로 총구를 그녀에게 겨눈 이븐 대위였다.
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker><Shake>0.1</Shake>||<SE1>Rope</SE1>:푸흑... 켁...
+()<Speaker></Speaker>||<震屏3><SE1>AVG_XXS_kick</SE1>:총격으로 인한 충격과 고통으로, 류바 할멈은 다리를 가누지 못하고 진흙탕 위에 무릎꿇었다.
+()<Speaker>니콜라스</Speaker>||:하알...머엄...
+()<Speaker></Speaker>||:진흙탕 위로 쓰러진 니콜라스의 주위로 빗물과 핏물 섞인 웅덩이가 고였고, 그의 눈도 점점 빛을 잃어 갔다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:류바 할멈은 차가워진 니콜라스의 몸을 끌어안고, 고개를 들어 터벅터벅 다가오는 다니엘을 바라봤다.
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:...어쩐지, 네놈이 왜 이번에 꼭 같이 가겠다 고집을 부리나 했다.
+()<Speaker></Speaker>||:자신에게 충성을 바쳤던 부하들을, 그녀는 독기 어린 눈빛으로 저주했다.
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:조직의 법을 어기는 건 날 배신한 것보다 중죄야.+다니엘, 이제 네가 모스크바에 설 자리는 없다.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:내가, 조직의 법을 어겨?+아니지, 아니야 할멈. 그건 바로 할멈이야.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>518</BIN><SE1>Select</SE1>:다니엘은 류바 할멈의 코앞까지 다가와, 총구를 그녀의 이마에 댔다.
+()<Speaker>다니엘</Speaker>||:할멈이 제일 잘 알 거 아니야, "친인척을 끊어내라".+난 규칙에 따라 하나뿐인 내 혈육, 하나뿐인 내 여동생을 내 손으로 죽여야 했어.+그런데 할멈은 뭔데? 우리 보르 브 자코녜의 수장씩이나 되는 사람이 아들을 두고, 심지어는 대놓고 옆에 끼고 다녀?+이 "애물단지 니콜라스"를 말이야.
+()<Speaker>다니엘</Speaker>||:당신이야말로 조직의 배신자야.
+()<Speaker></Speaker>||:총탄에 폐를 관통당한 니콜라스는 이제 소리도 내지 못했다. 급속도로 약해져 가는 호흡에 맞춰 입에서는 피가 새어나왔다.+류바 할멈은 반박하지 못했다. 그저, 그녀는 다시 고개를 숙여 니콜라스를 바라볼 뿐이었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:분노와 증오로 일그러졌던 얼굴은, 점차 온화한 미소로 누그러졌다.
+()<Speaker>류바 할멈</Speaker>||:...약점을 가진다는 게 이렇게나 무서운 일이구나.
+()<Speaker></Speaker>||:니콜라스를 내려다보면서, 할멈은 중얼거렸다.+그리고――
+()<Speaker>다니엘</Speaker>||<SE1>Rope</SE1>:——!
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_rifle_finalshot_h</SE1><震屏3><BIN>9</BIN>:타앙!
+()<Speaker></Speaker>||:류바 할멈이 다니엘의 총구를 덥석 낚아채자, 그는 반사적으로 방아쇠를 당겨버렸다.
+()||<黑屏1>:
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||<黑屏2><BIN>1</BIN><Night>:...미친 할망구.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_XXS_kick</SE1>:류바 할멈은 니콜라스의 곁에 쓰러졌다.+무거운 한숨을 끝으로, 깊은 밤 영원히 숨을 거뒀다.
+()<Speaker></Speaker>||<SE1>AVG_Punch</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:이븐 대위는 다가와 그 화려한 스카프 위로 류바 할멈의 시신을 걷어찼고, 피와 흙탕물로 더럽혀진 스카프가 주인과 함께 탁한 진흙탕 속으로 가라앉았다.
+()<Speaker>이븐 대위</Speaker>||:신소련에 바친 그대의 공헌에 감사하마.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>528</BIN><BGM>10213</BGM><黑屏2><narrator><关闭蒙版>:대륙간 열차 "미래호", F09호 식당차.
+()<Speaker></Speaker>||:그 모든 광경이, 창가 밖을 보던 모든 이들의 눈에 똑똑히 새겨졌다.+한동안 아무도 숨소리조차 내지 못했다. 특히 매기와 캐서린은 더더욱.+몇 분 전까지만 해도 목숨을 걸고 저들에게 대항했는데, 지금 저들이 허망하게 목숨을 잃는 꼴을 똑똑히 보았다.
+ColtWalker(3)<Speaker>매기</Speaker>||:......
+()<Speaker></Speaker>||:쓴웃음을 지은 매기는 통신기의 그 남자가 마지막으로 남긴 메시지를 보며 고개를 저었다.+그런 와중, 점점 거세지는 빗줄기가 서리 낀 칼날처럼 수잔나의 머리에 쏟아졌다.+희망과 절망이 몇 번이고 교차하는 상황에, 수잔나는 눈을 질끈 감았다.+어쩌면 이건 다 꿈일지도 모른다, 눈을 뜨면 휴면에서 깨어난 자신을 보게 될지도 모른다 생각하면서.
+()<Speaker></Speaker>||:절망감이 다시 한번 퍼지자, 적지 않은 생존자들이 창문 앞에 멍하니 서 있기만 했다. 창밖의 저들의 말로가, 곧 자신들에게 닥칠 미래임이 뻔했으니까.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:...시간이 없다, 서둘러 1호 차량으로 이동한다.
+()<Speaker></Speaker>||:류드밀라의 목소리는 감정이 실리지 않았지만, 모두를 정신차리게 하기엔 충분했다.+그랬다, 아직은 끝이 아니었다. 아직 절망하고 포기하기엔 일렀다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:움직이기 시작한 생존자들의 행렬을 인도하던 류드밀라는 문득 계속해서 자신의 팔을 잡아당기던 힘이 사라진 것을 깨달았다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:고개를 돌리니, 엘마가 창가에 서서 멍하니 밖을 바라보고 있었다.+마찬가지로 도적단의 최후를 목격했을 그녀의 눈은 어째선지 혼이 빠져나간 듯 공허했다.+류드밀라가 아무리 불러도 대답하지 않을 정도로.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>534</BIN><黑屏2><narrator><BGM>BGM_Empty</BGM><SE1>AVG_House</SE1><SE1>AVG_Piano_Ambience</SE1>:"서머 가든".
+()<Speaker></Speaker>||<BGM>GF_2022_Summer_AVG_2</BGM>:따뜻한 오후. 햇빛이 발코니 밖의 해바라기를 넘어 거실로 들어와, 나무 바닥에 길쭉하게 기지개를 켰다.+그녀는 시선을 앞의 쟁반으로 돌렸다. 커피 한 잔이 놓인 쟁반에.
+()<Speaker></Speaker>||<SE1>AVG_wind_grass</SE1>:부드러운 바람은 아치를 드리운 기다란 관목 아래로 지나고 있었다.+그 아치 끝에서는 새하얀 대리석 조각상이 어렴풋이 보였다.+마치, 여신의 모습 같은...
+Erma(1)<Speaker>엘마</Speaker>||:...살짝 보고 올까.+저게 누구인지...
+()<Speaker></Speaker>||:그녀는 걸음을 떼어, 느릿느릿 아치를 통과했다.
+()<Speaker></Speaker>||:그리고 아치의 끝에 가까워져, 대리석 여신상의 얼굴이 또렷해지려던 그 순간...
+()<Speaker></Speaker>||<SE1>AVG_ElecSpace</SE1>:경보음과 함께 누군가의 목소리가 들려왔다.
+()<Speaker>？？</Speaker>||:<color=#00CCFF>엘마, 내 커피 아직이니?</color>
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:그 목소리에 엘마는 잠시 망설이다, 쟁반을 바닥에 내려놓곤 조각상을 향해 달렸다.
+Erma(1)<Speaker>엘마</Speaker>||:잠깐 밖에 나갔다 올게요!
+()<Speaker>？？</Speaker>||:<color=#00CCFF>엘마, 어서 돌아오렴.</color>+<color=#00CCFF>내가 여기서 기다리고 있잖니.</color>
+Erma(1)<Speaker>엘마</Speaker>||:난...
+()<Speaker></Speaker>||:엘마가 아치의 끝까지 달려나가자, 그곳엔 커다란 현관문이 길을 가로막고 있었다.+현관문은 전기 철조망과 쇠사슬로 칭칭 감겨 있었다.+한편, 그 조각상은 바깥의 꽃밭과 햇살과 함께 엘마의 세상에서 문 너머로 사라졌다.
+()<Speaker>？？</Speaker>||:<color=#00CCFF>엘마, 왜 말을 안 듣니?</color>
+()<Speaker></Speaker>||:뒤에서 발소리가 났다.
+()<Speaker></Speaker>||:엘마는 고개를 돌릴 수밖에 없었다.
+()<Speaker></Speaker>||<SE1>AVG_pistol_finalshot_n</SE1><BIN>9</BIN>:타앙!
+()<Speaker></Speaker>||:총알이 이마에 박혔다.
+()<Speaker>？？</Speaker>||:<color=#00CCFF>처음부터 다시 해야겠구나, 엘마.</color>
+()<Speaker>엘마</Speaker>||:......
+()<Speaker>？？</Speaker>||:<color=#00CCFF>다 잊고, 처음부터 다시 하자꾸나.</color>
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>534</BIN><SE1>AVG_House</SE1>:신비로운 정원에서, 엘마는 다시 눈을 떴다.
+()<Speaker>？？</Speaker>||:<color=#00CCFF>깨어났니? 엘마.</color>
+Erma(0)<Speaker>엘마</Speaker>||:...네.+저는 누구죠?
+()<Speaker>？？</Speaker>||:<color=#00CCFF>너는 나의 걸작, 하나뿐인 내 "딸"이란다.</color>
+()||<黑屏1>:
+()<Speaker>？？</Speaker>||<BIN>249</BIN><黑屏2>:<color=#00CCFF>왜 도망가니?</color>+<color=#00CCFF>여기가 영원한 너의 집인데.</color>
+Erma(1)<Speaker>엘마</Speaker>||:아니요...+저는 "황새"를 되찾을 거예요.
+()<Speaker>？？</Speaker>||:<color=#00CCFF>황새?</color>
+Erma(1)<Speaker>엘마</Speaker>||:......
+()<Speaker>？？</Speaker>||:<color=#00CCFF>"앵커 포인트"... 황새가 네 앵커 포인트 중 하나였구나...</color>+<color=#00CCFF>하하, 하하하하하하... 해냈어, 내가 드디어 해냈어...</color>+<color=#00CCFF>잘됐구나, 엘마.</color>
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:엘마는 자리를 박차고 내달렸다.+길은 끝없이 계속 이어졌다.+하지만 엘마는 지칠 줄 몰랐다.+예전, 자신이 몰래 새겨뒀던 낱말 "황새"를 되찾으려 했다.
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_pistol_finalshot_n</SE1>:타앙!
+()<Speaker>？？</Speaker>||:<color=#00CCFF>좋아, 그럼 테스트를 해볼까. 또 이 앵커 포인트를 다시 찾을 수 있을지 보겠어.</color>+<color=#00CCFF>어떤 모습을 보여 줄지 정말 기대되는구나, 엘마.</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>534</BIN><narrator>:"서머 가든".
+()<Speaker></Speaker>||:따뜻한 오후. 햇빛이 발코니 밖의 해바라기를 넘어 거실로 들어와, 나무 바닥에 길쭉하게 기지개를 켰다.+그녀는 시선을 앞의 쟁반으로 돌렸다. 커피 한 잔이 놓인 쟁반에.
+Erma(3)<Speaker>엘마</Speaker>||:......
+()<Speaker></Speaker>||:입이 떨어지지 않았다. 그저 눈물만이 소리없이 뺨을 타고 흘러내렸다.
+()<Speaker>？？？？</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>——일어나.</color>
+()<Speaker></Speaker>||:엘마는 그 목소리를 무시하고 곧장 걸음을 떼, 영원히 끝에 다다르지 못할 것 같은 관목의 아치 밑을 천천히 걸어갔다.+또 다시 철조망과 쇠사슬로 뒤엉킨 문에 가로막힐 때까지.
+()<Speaker>？？</Speaker>||:<color=#00CCFF>엘마, 왜 말을 안 듣니?</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>Stop_AVG_loop</SE1>:그녀는 천천히 눈을 감고, 총성을 기다렸다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_pistol_finalshot_n</SE1>:타앙!
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><黑屏1>:누군가 그녀를 잡아당겼다.+총알은 빗나갔다.+엘마는 천천히 눈을 떴다.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||<BIN>534</BIN><睁眼><黑点1>:일어나. 이런 데서 헤매지 마.+이 기억들은 널 미치게 만들 거다.
+()<Speaker></Speaker>||<黑点2><BIN>9</BIN><SE1>AVG_bigglassbreak</SE1>:콰아아——+"서머 가든"이 산산조각이 나고, 모래처럼 천장부터 쏟아져 내렸다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>528</BIN>:눈앞의 광경은 다시 탈선하여 망가진 열차 안으로 돌아왔다.+누군가가 그녀의 팔을 단단히 붙잡고 끌고 있었고, 엘마는 망연자실하게 앞만 바라보았다.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:...일어났나?
+()<Speaker></Speaker>||:그 부름에, 멍하던 엘마의 정신이 조금 돌아왔다.
+Erma(1)<Speaker>엘마</Speaker>||:......응.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:서둘러라.
+Erma(0)<Speaker>엘마</Speaker>||:응.
+()||<黑点1>:

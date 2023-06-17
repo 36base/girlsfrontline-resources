@@ -1,88 +1,88 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>222</BIN>:기지 내부.
-RO635(2)<Speaker>RO635</Speaker>||<BGM>BGM_Victory</BGM>:지휘관님, 적 섬멸 완료했습니다.
-RO635(2)<Speaker>지휘관</Speaker>||:수고했어. 아군 손실은 어떻지?
-RO635(2)<Speaker>RO635</Speaker>||:적은 진형도 갖추지 않고 무작정 돌격했습니다.+조금 애를 먹었지만, 큰 피해 없이 섬멸했습니다.
-RO635(2);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:헤헤헤, 식은 죽 먹기였어! 근데 이런 상황에서 공격하다니 목숨 아까운 줄도 모르는 녀석들이네.
-AR15Mod(0)<Speaker>AR15</Speaker>;M4 SOPMOD IIMod(0)||:어쩌면... 죽으려고 돌격했는지도 모르지.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:응? 살기 싫었다고?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:어떨 땐 사는 게 죽기보다 괴로울 때도 있거든.
-RO635(2)<Speaker>RO635</Speaker>;UMP45Mod(0)||:404 여러분도 무사했군요.
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:물론이지.+그런데 45, 방금 그 발언은 마음에서 우러나온 말 같다?
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:어머, AR팀이 마침 일손이 부족한 모양인데 내가 대신 인사 변동 신청 넣어 줄까?
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:꿈도 꾸지 마.
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:히히. 그나저나 우리 나머지 멤버들은?
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:노느라 정신없어.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:그래?
-Nytochild01(1)<Speaker>안나</Speaker>||:왠진 몰라도 이 인형의 볼을 꼬집으니까 스트레스가 풀리는 느낌이야. 역시 이 소대 인형들은 다 이상해.
-Nytochild01(1);G11(3)<Speaker>G11</Speaker>||:으에에에에... 꼬집지―― 아 몰라, 마음대로 해... 얘한테 꼬집히니까 어째 기분이 좋네...
-UMP9Mod(0)<Speaker>UMP9</Speaker>;G11(3)||:아하핫, G11은 전술인형 그만둬도 취직 걱정 없겠네~
-G11(0)<Speaker>G11</Speaker>||:으음... 얼굴 마사지 같아. 이제 다른 일 더 없지? 나 한숨 잘래...
-()<Speaker></Speaker>||:기나긴 싸움이 드디어 끝났고, 모두 긴장을 풀고서 웃고 떠들었다. 어떤 인형은 아예 동료들과 함께 춤을 추기 시작했다.+하지만 지휘관은 지금의 심정을 말로 표현할 수가 없어, 그저 묵묵히 지켜볼 뿐이었다.
-지휘관()<Speaker>지휘관</Speaker>||:댄들라이.
-NytoIsomer(3)<Speaker>댄들라이</Speaker>||:여깄습니다.
-NytoIsomer(3)<Speaker>지휘관</Speaker>||:M4 쪽은... 모두 살아있는 거지?
-NytoIsomer(3)<Speaker>댄들라이</Speaker>||:네, 그들도 분명 어딘가에서 저희와 똑같은 걱정을 하고 있겠죠.
-NytoIsomer(3)<Speaker>지휘관</Speaker>||:희생된 인형들의 백업은?
-NytoIsomer(3)<Speaker>댄들라이</Speaker>||:한 명도 빠짐없이 제게 저장되어 있습니다.
-NytoIsomer(3)<Speaker>지휘관</Speaker>||:......+정말 다행이다.
-NytoIsomer(3)<Speaker>댄들라이</Speaker>||:네, 정말 다행입니다.
-NytoIsomer(3)<Speaker>지휘관</Speaker>||:왜 우릴 끝까지 도왔지?
-NytoIsomer(3)<Speaker>댄들라이</Speaker>||:글쎄요? 아마 루니샤에게 너무 영향받은 탓이겠죠.
-NytoIsomer(3)<Speaker>지휘관</Speaker>||:그렇군... M4는 정말 특이한 인형이야.
-()<Speaker></Speaker>||:탄환에 구멍난 기지의 벽 밖으로, 햇빛이 새어 들어왔다.+지휘관이 다시 임시 지휘소로 돌아왔을 때, 카리나와 K는 물자를 회수하고 있었다.
-NPC-Kalin(9)<Speaker>카리나</Speaker>||:아, 지휘관님! 다녀오셨어요!
-NPC-Kalin(9)<Speaker>지휘관</Speaker>||:무사해서 다행이야. 무슨 얘기하고 있었어?
-NPC-Kalin(9)<Speaker>카리나</Speaker>||:그게, 마지막에 군이 왜 그렇게 무모하게 공격했는지를 얘기했어요. 분명 살아남을 기회가 있었는데.
-NPC-Jason(1)<Speaker>K</Speaker>||:그들은 군인이다. 받은 명령에 따르는 것이 그들의 사명이지. 그게 아무리 무모해도 말이야.
-NPC-Jason(1)<Speaker>지휘관</Speaker>||:명령이라...+명령이라면, 함부로 목숨을 버려도 된다는 소리냐?
-NPC-Jason(1)<Speaker>K</Speaker>||:이제 깨달았나?+우리가 무너뜨리려는 것이 바로 이렇게 사람을 죽으라고 보내는 체제다.+우리의 노력은 다 새로운 세계를 만들기 위해서다. 어떤 대가를 치르든 상관없어.
-NPC-Jason(1)<Speaker>지휘관</Speaker>||:흠... 아주 조금은 널 인정해주지. 아주 조금이지만.
-NPC-Jason(1)<Speaker>K</Speaker>||:거참 눈물 나게 감격스럽군.+안젤리아는?
-NPC-Jason(1)<Speaker>지휘관</Speaker>||:방금 연락했는데, 알아서 올라오겠다고 했어.
-NPC-Jason(1)<Speaker>K</Speaker>||:그래... 그녀라면야 어떻게든 살아남겠지. 그래서 우리도 그녀를 어찌 못하는 거겠지만.
-()||:K는 404 소대 곁의 안나에게 시선을 돌렸다.
-NPC-Jason(1)<Speaker>K</Speaker>||:저 아이들이 안젤리아가 말한 증거인가?
-NPC-Jason(1)<Speaker>지휘관</Speaker>||:아무래도, 우리가 여기 오기 전에 많은 일이 있었던 모양이야.
-NPC-Jason(1)<Speaker>K</Speaker>||:돌아가면 지금보다 더 힘든 일이 기다리고 있을 거다.
-NPC-Jason(1)<Speaker>지휘관</Speaker>||:안 그래도 물어보려던 참인데, 우린 이제 어떻게 돌아가지?
-NPC-Jason(1)<Speaker>K</Speaker>||:언제 물어보나 했다.
-()<Speaker></Speaker>||:K는 방금 썼던 통신기를 들어, 전용 채널로 연결했다.
-NPC-Jason(1)<Speaker>K</Speaker>||:받아, 하벨의 연락이다.
-()<Speaker></Speaker>||:K가 통신기를 던졌고, 지휘관은 그걸 받으면서 큰 한숨을 내쉬었다.+이제 정말로 끝날 시간이다. 판돈을 쓸어 담는 사람은 모든 일이 끝난 다음에야 등장하는 법이다.+지휘관이 통신기를 귀에 대니, 그 익숙하고 차분한 목소리가 들렸다.
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:축하하네 지휘관!+그 기지에서 용케도 살아남았구먼. 자네는 또 한 번 우리 모두의 예상을 뛰어넘었네.
-NPC-Havel(0)<Speaker>지휘관</Speaker>||:칭찬 감사합니다. 여러분의 예상을 뛰어넘기 위해 정말 처절하게 굴렀습니다.
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:자네들 모두 살아남았으니 다행 아닌가? 자네를 살리기 위해 우리도 큰 대가를 치렀다는 점을 명심하게.
-NPC-Havel(0)<Speaker>지휘관</Speaker>||:아까 그 공습 말입니까?
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:그래, 결국 안전국이 직접 나서야 했어. 바로 자네들을 위해서 말일세.
-NPC-Havel(0)<Speaker>지휘관</Speaker>||:안젤리아가 발견한 아이들을 위해서겠죠.
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:그것도 이유 중 하나지.+이렇게 갑자기 나서게 돼서 다른 문제가 발생하겠지만, 상관없네. 이미 꽤 많은 반동분자를 체포했으니 말이야. 항상 모든 일이 다 잘 풀릴 수는 없지 않은가.
-NPC-Havel(0)<Speaker>지휘관</Speaker>||:제발 이 모든 게 헛수고가 아니었길 빕니다.
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:빔펠이 밖에서 대기 중일세. 그들이 기지를 접수할 테니, 자네들은 마중 간 헬기로 돌아와서 휴가나 실컷 즐기게나. 자네가 받아 마땅한 포상이네.
-NPC-Havel(0)<Speaker>지휘관</Speaker>||:서비스도 참 친절하네요.
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:하하하, 나도 이번에 전혀 예상치 못했던 결과를 잔뜩 얻어서 기분이 좋거든.+그 이성질체는 물론, 안젤리아가 발견한 유년체들에, 방금 일어난 유적 현상까지 관측했으니 말이야.
-NPC-Havel(0)<Speaker>지휘관</Speaker>||:유적 현상이라고요?
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:그래. 우리가 관측한 바로는...+페르시카가 애지중지하던 그 인형과 스타피쉬 내에 있던 모든 철혈들이, 한순간에 분해되어 증발했다네.
-NPC-Havel(0)<Speaker>지휘관</Speaker>||:네?!
-NPC-Havel(0)<Speaker>하벨</Speaker>||:아아, 너무 놀랄 것 없어. 나도 뭐가 뭔지 정확히는 모르지만, 우리 전문가들이 말하길 그들은 단지 다른 어딘가로 전송된 거라고 하더군.+"역붕괴"라고 들어봤나?
-NPC-Havel(0)<Speaker>지휘관</Speaker>||:지금 특별 강의할 생각은 아니시죠?
-NPC-Havel(0)<Speaker>하벨</Speaker>||:몰라도 상관 없으니까 됐어.+아무튼 이론상으로만 존재하던 현상이 실제로 일어났다는 말일세.+자네가 돌아오면 같이 천천히 이야기를 나눠봐야겠네. 아, 물론 페르시카도 함께 말이야.+그 아가씨도 걱정 말게나, 아주 안전한 곳에 있으니까. 그리고 그녀가 아는 것도 전부 얘기해 줬네.+모든 것이 명확히 한 곳을 가리키고 있어. 우리의 종착점도 이제 머지않았다 보네.
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:지휘관은 통신을 마쳤고, 기지 밖에서는 헬기의 로터 소리가 들려왔다.+인형들과 함께 밖으로 나오니, 사방이 폭발한 잔해와 타버린 시체로 가득했다.+저 멀리 장갑열차는 두 토막이 났고, 하늘에는 초록색 신호탄 두 발이 포물선을 그리고 있었다.
-()<Speaker></Speaker>||:빔펠의 병사들은 그리폰의 존재를 전혀 아랑곳하지 않으면서 곧장 기지로 진입했다.
-NPC-Jason(1)<Speaker>K</Speaker>||:그럼 여기서 헤어지지.
-NPC-Jason(1)<Speaker>지휘관</Speaker>||:따로 챙길 건 없고?
-NPC-Jason(1)<Speaker>K</Speaker>||:모든 물건은 네가 가져간다, 그게 내가 받은 명령이야. 그 아이들을 하벨에게 잘 전달하도록.+그리고, 영 내키진 않지만 난 안젤리아를 찾으러 가야 해.+그녀를 감시하는 게 내 임무인데, 감시 대상을 놓쳤다간 큰일나지.
-NPC-Jason(1)<Speaker>지휘관</Speaker>||:알았다... 그럼 행운을 빌지.
-NPC-Jason(1)<Speaker>K</Speaker>||:걱정 마라, 금방 또 볼 테니.
-()<Speaker></Speaker>||<黑屏1>:K는 빔펠 부대를 따라갔고, 지휘관은 인형들과 함께 헬기의 착륙 지점으로 이동했다.
-()<Speaker></Speaker>||<黑屏2><BIN>2</BIN>:헬리콥터가 평탄한 곳에 착륙하자, 안에서 아주 익숙한 사람이 내렸다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:지휘관, 오랜만입니다. 작전 수고했습니다.
-NPC-Kalin(9)<Speaker>카리나</Speaker>;NPC-Helian(0)||:헬리안 씨...? 헬리안 씨!!
-NPC-Kalin(9);NPC-Helian(0)<Speaker>헬리안</Speaker>||:카리나도 수고 많았어.+자, 돌아갑시다. 크루거 님께서 기다리고 계십니다.
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM>:......
-()<Speaker>？？</Speaker>||:하하하... 정말 내 눈으로 보게 될 줄이야! 지금까지의 노력은 역시 헛수고가 아니었어!
-()<Speaker>？？</Speaker>||:"역붕괴", 정말 실존하는 현상이었다니! 게다가 유적과의 공명도 가능하단 게 증명됐어!+살짝 예정에 어긋나게 되긴 했지만... 후후후... 그 불쌍한 멍청이들은 결국 실패했지만, 뭐 어때! 보험을 다중으로 들어둬서 전부 계획대로 착착 진행되고 있는데!
-()<Speaker>？？</Speaker>||:세상은 앞으로 갈수록 더 재밌어질 거야. 조금만 더 기다리렴 루니샤, 널 죽게 만든 빌어먹을 놈들에게 곧 마땅한 벌을 내릴 수 있을 테니까! 그리고 그때 다시 내 곁으로 돌아와, 함께 새로운 세상을 감상하자!
-()<Speaker>？？</Speaker>||:이제 머지않았어... 머지않았다고!
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>222</BIN>:기지 내부.
+RO635(2)<Speaker>RO635</Speaker>||<BGM>BGM_Victory</BGM>:지휘관님, 적 섬멸 완료했습니다.
+RO635(2)<Speaker>지휘관</Speaker>||:수고했어. 아군 손실은 어떻지?
+RO635(2)<Speaker>RO635</Speaker>||:적은 진형도 갖추지 않고 무작정 돌격했습니다.+조금 애를 먹었지만, 큰 피해 없이 섬멸했습니다.
+RO635(2);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:헤헤헤, 식은 죽 먹기였어! 근데 이런 상황에서 공격하다니 목숨 아까운 줄도 모르는 녀석들이네.
+AR15Mod(0)<Speaker>AR15</Speaker>;M4 SOPMOD IIMod(0)||:어쩌면... 죽으려고 돌격했는지도 모르지.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:응? 살기 싫었다고?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:어떨 땐 사는 게 죽기보다 괴로울 때도 있거든.
+RO635(2)<Speaker>RO635</Speaker>;UMP45Mod(0)||:404 여러분도 무사했군요.
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:물론이지.+그런데 45, 방금 그 발언은 마음에서 우러나온 말 같다?
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:어머, AR팀이 마침 일손이 부족한 모양인데 내가 대신 인사 변동 신청 넣어 줄까?
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:꿈도 꾸지 마.
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:히히. 그나저나 우리 나머지 멤버들은?
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:노느라 정신없어.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그래?
+Nytochild01(1)<Speaker>안나</Speaker>||:왠진 몰라도 이 인형의 볼을 꼬집으니까 스트레스가 풀리는 느낌이야. 역시 이 소대 인형들은 다 이상해.
+Nytochild01(1);G11(3)<Speaker>G11</Speaker>||:으에에에에... 꼬집지―― 아 몰라, 마음대로 해... 얘한테 꼬집히니까 어째 기분이 좋네...
+UMP9Mod(0)<Speaker>UMP9</Speaker>;G11(3)||:아하핫, G11은 전술인형 그만둬도 취직 걱정 없겠네~
+G11(0)<Speaker>G11</Speaker>||:으음... 얼굴 마사지 같아. 이제 다른 일 더 없지? 나 한숨 잘래...
+()<Speaker></Speaker>||:기나긴 싸움이 드디어 끝났고, 모두 긴장을 풀고서 웃고 떠들었다. 어떤 인형은 아예 동료들과 함께 춤을 추기 시작했다.+하지만 지휘관은 지금의 심정을 말로 표현할 수가 없어, 그저 묵묵히 지켜볼 뿐이었다.
+지휘관()<Speaker>지휘관</Speaker>||:댄들라이.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:여깄습니다.
+NytoIsomer(3)<Speaker>지휘관</Speaker>||:M4 쪽은... 모두 살아있는 거지?
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:네, 그들도 분명 어딘가에서 저희와 똑같은 걱정을 하고 있겠죠.
+NytoIsomer(3)<Speaker>지휘관</Speaker>||:희생된 인형들의 백업은?
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:한 명도 빠짐없이 제게 저장되어 있습니다.
+NytoIsomer(3)<Speaker>지휘관</Speaker>||:......+정말 다행이다.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:네, 정말 다행입니다.
+NytoIsomer(3)<Speaker>지휘관</Speaker>||:왜 우릴 끝까지 도왔지?
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:글쎄요? 아마 루니샤에게 너무 영향받은 탓이겠죠.
+NytoIsomer(3)<Speaker>지휘관</Speaker>||:그렇군... M4는 정말 특이한 인형이야.
+()<Speaker></Speaker>||:탄환에 구멍난 기지의 벽 밖으로, 햇빛이 새어 들어왔다.+지휘관이 다시 임시 지휘소로 돌아왔을 때, 카리나와 K는 물자를 회수하고 있었다.
+NPC-Kalin(9)<Speaker>카리나</Speaker>||:아, 지휘관님! 다녀오셨어요!
+NPC-Kalin(9)<Speaker>지휘관</Speaker>||:무사해서 다행이야. 무슨 얘기하고 있었어?
+NPC-Kalin(9)<Speaker>카리나</Speaker>||:그게, 마지막에 군이 왜 그렇게 무모하게 공격했는지를 얘기했어요. 분명 살아남을 기회가 있었는데.
+NPC-Jason(1)<Speaker>K</Speaker>||:그들은 군인이다. 받은 명령에 따르는 것이 그들의 사명이지. 그게 아무리 무모해도 말이야.
+NPC-Jason(1)<Speaker>지휘관</Speaker>||:명령이라...+명령이라면, 함부로 목숨을 버려도 된다는 소리냐?
+NPC-Jason(1)<Speaker>K</Speaker>||:이제 깨달았나?+우리가 무너뜨리려는 것이 바로 이렇게 사람을 죽으라고 보내는 체제다.+우리의 노력은 다 새로운 세계를 만들기 위해서다. 어떤 대가를 치르든 상관없어.
+NPC-Jason(1)<Speaker>지휘관</Speaker>||:흠... 아주 조금은 널 인정해주지. 아주 조금이지만.
+NPC-Jason(1)<Speaker>K</Speaker>||:거참 눈물 나게 감격스럽군.+안젤리아는?
+NPC-Jason(1)<Speaker>지휘관</Speaker>||:방금 연락했는데, 알아서 올라오겠다고 했어.
+NPC-Jason(1)<Speaker>K</Speaker>||:그래... 그녀라면야 어떻게든 살아남겠지. 그래서 우리도 그녀를 어찌 못하는 거겠지만.
+()||:K는 404 소대 곁의 안나에게 시선을 돌렸다.
+NPC-Jason(1)<Speaker>K</Speaker>||:저 아이들이 안젤리아가 말한 증거인가?
+NPC-Jason(1)<Speaker>지휘관</Speaker>||:아무래도, 우리가 여기 오기 전에 많은 일이 있었던 모양이야.
+NPC-Jason(1)<Speaker>K</Speaker>||:돌아가면 지금보다 더 힘든 일이 기다리고 있을 거다.
+NPC-Jason(1)<Speaker>지휘관</Speaker>||:안 그래도 물어보려던 참인데, 우린 이제 어떻게 돌아가지?
+NPC-Jason(1)<Speaker>K</Speaker>||:언제 물어보나 했다.
+()<Speaker></Speaker>||:K는 방금 썼던 통신기를 들어, 전용 채널로 연결했다.
+NPC-Jason(1)<Speaker>K</Speaker>||:받아, 하벨의 연락이다.
+()<Speaker></Speaker>||:K가 통신기를 던졌고, 지휘관은 그걸 받으면서 큰 한숨을 내쉬었다.+이제 정말로 끝날 시간이다. 판돈을 쓸어 담는 사람은 모든 일이 끝난 다음에야 등장하는 법이다.+지휘관이 통신기를 귀에 대니, 그 익숙하고 차분한 목소리가 들렸다.
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:축하하네 지휘관!+그 기지에서 용케도 살아남았구먼. 자네는 또 한 번 우리 모두의 예상을 뛰어넘었네.
+NPC-Havel(0)<Speaker>지휘관</Speaker>||:칭찬 감사합니다. 여러분의 예상을 뛰어넘기 위해 정말 처절하게 굴렀습니다.
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:자네들 모두 살아남았으니 다행 아닌가? 자네를 살리기 위해 우리도 큰 대가를 치렀다는 점을 명심하게.
+NPC-Havel(0)<Speaker>지휘관</Speaker>||:아까 그 공습 말입니까?
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:그래, 결국 안전국이 직접 나서야 했어. 바로 자네들을 위해서 말일세.
+NPC-Havel(0)<Speaker>지휘관</Speaker>||:안젤리아가 발견한 아이들을 위해서겠죠.
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:그것도 이유 중 하나지.+이렇게 갑자기 나서게 돼서 다른 문제가 발생하겠지만, 상관없네. 이미 꽤 많은 반동분자를 체포했으니 말이야. 항상 모든 일이 다 잘 풀릴 수는 없지 않은가.
+NPC-Havel(0)<Speaker>지휘관</Speaker>||:제발 이 모든 게 헛수고가 아니었길 빕니다.
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:빔펠이 밖에서 대기 중일세. 그들이 기지를 접수할 테니, 자네들은 마중 간 헬기로 돌아와서 휴가나 실컷 즐기게나. 자네가 받아 마땅한 포상이네.
+NPC-Havel(0)<Speaker>지휘관</Speaker>||:서비스도 참 친절하네요.
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:하하하, 나도 이번에 전혀 예상치 못했던 결과를 잔뜩 얻어서 기분이 좋거든.+그 이성질체는 물론, 안젤리아가 발견한 유년체들에, 방금 일어난 유적 현상까지 관측했으니 말이야.
+NPC-Havel(0)<Speaker>지휘관</Speaker>||:유적 현상이라고요?
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:그래. 우리가 관측한 바로는...+페르시카가 애지중지하던 그 인형과 스타피쉬 내에 있던 모든 철혈들이, 한순간에 분해되어 증발했다네.
+NPC-Havel(0)<Speaker>지휘관</Speaker>||:네?!
+NPC-Havel(0)<Speaker>하벨</Speaker>||:아아, 너무 놀랄 것 없어. 나도 뭐가 뭔지 정확히는 모르지만, 우리 전문가들이 말하길 그들은 단지 다른 어딘가로 전송된 거라고 하더군.+"역붕괴"라고 들어봤나?
+NPC-Havel(0)<Speaker>지휘관</Speaker>||:지금 특별 강의할 생각은 아니시죠?
+NPC-Havel(0)<Speaker>하벨</Speaker>||:몰라도 상관 없으니까 됐어.+아무튼 이론상으로만 존재하던 현상이 실제로 일어났다는 말일세.+자네가 돌아오면 같이 천천히 이야기를 나눠봐야겠네. 아, 물론 페르시카도 함께 말이야.+그 아가씨도 걱정 말게나, 아주 안전한 곳에 있으니까. 그리고 그녀가 아는 것도 전부 얘기해 줬네.+모든 것이 명확히 한 곳을 가리키고 있어. 우리의 종착점도 이제 머지않았다 보네.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:지휘관은 통신을 마쳤고, 기지 밖에서는 헬기의 로터 소리가 들려왔다.+인형들과 함께 밖으로 나오니, 사방이 폭발한 잔해와 타버린 시체로 가득했다.+저 멀리 장갑열차는 두 토막이 났고, 하늘에는 초록색 신호탄 두 발이 포물선을 그리고 있었다.
+()<Speaker></Speaker>||:빔펠의 병사들은 그리폰의 존재를 전혀 아랑곳하지 않으면서 곧장 기지로 진입했다.
+NPC-Jason(1)<Speaker>K</Speaker>||:그럼 여기서 헤어지지.
+NPC-Jason(1)<Speaker>지휘관</Speaker>||:따로 챙길 건 없고?
+NPC-Jason(1)<Speaker>K</Speaker>||:모든 물건은 네가 가져간다, 그게 내가 받은 명령이야. 그 아이들을 하벨에게 잘 전달하도록.+그리고, 영 내키진 않지만 난 안젤리아를 찾으러 가야 해.+그녀를 감시하는 게 내 임무인데, 감시 대상을 놓쳤다간 큰일나지.
+NPC-Jason(1)<Speaker>지휘관</Speaker>||:알았다... 그럼 행운을 빌지.
+NPC-Jason(1)<Speaker>K</Speaker>||:걱정 마라, 금방 또 볼 테니.
+()<Speaker></Speaker>||<黑屏1>:K는 빔펠 부대를 따라갔고, 지휘관은 인형들과 함께 헬기의 착륙 지점으로 이동했다.
+()<Speaker></Speaker>||<黑屏2><BIN>2</BIN>:헬리콥터가 평탄한 곳에 착륙하자, 안에서 아주 익숙한 사람이 내렸다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:지휘관, 오랜만입니다. 작전 수고했습니다.
+NPC-Kalin(9)<Speaker>카리나</Speaker>;NPC-Helian(0)||:헬리안 씨...? 헬리안 씨!!
+NPC-Kalin(9);NPC-Helian(0)<Speaker>헬리안</Speaker>||:카리나도 수고 많았어.+자, 돌아갑시다. 크루거 님께서 기다리고 계십니다.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM>:......
+()<Speaker>？？</Speaker>||:하하하... 정말 내 눈으로 보게 될 줄이야! 지금까지의 노력은 역시 헛수고가 아니었어!
+()<Speaker>？？</Speaker>||:"역붕괴", 정말 실존하는 현상이었다니! 게다가 유적과의 공명도 가능하단 게 증명됐어!+살짝 예정에 어긋나게 되긴 했지만... 후후후... 그 불쌍한 멍청이들은 결국 실패했지만, 뭐 어때! 보험을 다중으로 들어둬서 전부 계획대로 착착 진행되고 있는데!
+()<Speaker>？？</Speaker>||:세상은 앞으로 갈수록 더 재밌어질 거야. 조금만 더 기다리렴 루니샤, 널 죽게 만든 빌어먹을 놈들에게 곧 마땅한 벌을 내릴 수 있을 테니까! 그리고 그때 다시 내 곁으로 돌아와, 함께 새로운 세상을 감상하자!
+()<Speaker>？？</Speaker>||:이제 머지않았어... 머지않았다고!
+()||<黑屏1>:

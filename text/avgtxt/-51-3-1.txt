@@ -1,184 +1,184 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<common_effect>%%code=AllSeeingEye03%%</common_effect>:.....
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator>:패러데우스의 어느 버려진 기지.
-()||<黑屏1>:
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><BIN>229</BIN><BGM>10082</BGM><黑屏2>:짧은 대화 후 통신기를 내려놓는 그레이는 안색이 어두웠다.
-NPC-grig(1)<Speaker>틸</Speaker>||:...그레이.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그레이가 통신을 마친 것을 확인한 틸이 조심조심 그녀 곁에 다가갔다.+몰리도도 구석에 웅크리고 있었지만, 만신창이임에도 그 두 눈만은 여전히 기세등등했다.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...괜찮아.+스승님, 몸 상태는 어떻습니까?
-NPC-MrsGray(9);NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:응급처치해서 많이 괜찮아졌어.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>;NPC-Morridow(11)<Position>0,140</Position>||:시내의 기지에서 그런 대접을 받을 줄은...
-NPC-MrsGray(9);NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:...실패자에겐 따질 자격이 없지.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...아버님께서 브라메드에게 그곳을 청소하라 명했습니다.+그리고 네메아란도 그녀에게 RPK-16을 감시하며 아베르누스로 복귀하라 했습니다.+하지만... 스승님과 저희에 대해서는 일언반구도 없었습니다.
-NPC-grig(1)<Speaker>틸</Speaker>||:그럼 우리도 복귀해야 하지 않을까?
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:......
-()<Speaker></Speaker>||:그레이는 미간을 좁히며 잠시 고민했다.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:지금 돌아가면 오명을 씻을 기회가 없어지고 말아.+그리고, "그자"가 프랑크푸르트로 이동했다는 정보를 입수했어.
-NPC-grig(1)<Speaker>틸</Speaker>||:안젤리아가 아직 우리 손에 있는데, "그자"가 과연 포기할까?
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:아버님이 눈독들이신 인물이니 우리가 참견할 권리는 없어.
-NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||<SE1>ClothingUp</SE1>:...우리도 바로 복귀해야 해.
-()<Speaker></Speaker>||:몰리도가 갑자기 고개를 들면서 말했다.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:스승님...?
-NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:우린 너무 많은 잘못을 저질렀어. 그리고 아버님은 실수만큼 잘못도 싫어하셔.+지금 우린 뭐라도 하지 않으면 쓸모없는 버림패처럼 버려지고 말 거야.
-()<Speaker></Speaker>||:몰리도는 가볍게 말을 이었다.
-NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:...반드시, 내가 아버님과 직접 대면해야만 전환점이 생길 거야.+안 그럼 우리 모두 여기서 죽어.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...알겠습니다.
-NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:틸, 나 좀 부축해 줘.
-NPC-grig(1)<Speaker>틸</Speaker>||:...알았다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:몰리도는 틸의 부축을 받으며 일어나 앞으로 걸어갔다.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:하지만 이해할 수 없습니다.
-NPC-MrsGray(9);NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:그레이, 여기서 기다리기만 했다간 정말 버려진다고.+네메아란은 이미 돌아갔어.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>;NPC-Morridow(11)<Position>0,140</Position>||:"불꽃놀이"가 쏘아 올려진 것으로 그녀의 임무는 완수되었습니다.+그러니 지금 같은 때에 복귀한 것은 지극히 정상 아닌가요?
-NPC-MrsGray(9);NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:틀렸어. 아베르누스에서 그녀한테 새로운 계획을 맡기려는 거야.+우리에게 최악의 상황은 일을 실패하는 게 아니야. 이대로 아버님의 핵심 계획에 들러리조차 되지 못하면, 우리는 완전히 가치를 상실하게 돼.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...알겠습니다.
-()||<黑屏1>:
-()<Speaker>몰리도</Speaker><Position>0,140</Position>||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2>:내가 아베르누스에 돌아가기만 하면... 우리 모두, 아버님의 신뢰를 되찾을 수 있어.+내가 장담할게.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BGM>GF_22W_BGM_2</BGM><黑屏2><BIN>357</BIN><SE1>AVG_tele_connect</SE1>:베를린, 공항에서 가까운 임시 세이프하우스.+지휘관이 아이네이아스 회의실에 접속했다.+...신분 인증 통과. 암호를 입력하십시오.
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Baggage_bomb_Activation</SE1>:...암호 확인. 접속합니다.+아이네이아스 작전회의실에 접속하셨습니다.
-()<Speaker>지휘관</Speaker>||:목표의 동향에 변화는 없나?
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>마침 잘 오셨습니다 지휘관님, 몰리도가 움직이기 시작했습니다..</color>
-RO635Mod(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:좋았어, 현재 상황 동기화하자.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>네.</color>+<color=#00CCFF>우산팀 2인, 현재 목표 감시 중.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>유니콘팀 2인, 우산팀 보조 중~</color>
-SP9(0)<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>질소팀 3인 보고, 현재 목표 지점으로 이동 중입니다.</color>
-BOSS-7(0)<Speaker>게이저</Speaker><通讯框>||:<color=#00CCFF>철분 2인, 현재 제자리서 지시를 대기 중.</color>
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>구역의 오프라인 지도, 패러데우스 관련 정보, 안전 연락 채널 전부 공유했습니다.</color>+<color=#00CCFF>탄약 보급도 전원 출발 전에 마쳤습니다.</color>+<color=#00CCFF>아이네이아스 작전 인원 총 12명 중 현재 9명이 집결했습니다.</color>
-()<Speaker>지휘관</Speaker>||:목표가 이동을 시작했으니, 모두 집결할 때까지 기다리진 못하겠군. 후속 인원은 RO에게 전달하겠다.+전원, 이번 작전의 핵심을 숙지하도록.
-()<Speaker>지휘관</Speaker>||:"빠르고, 은밀하게". 지금 우리는 불시에 적의 심장을 찌를 비수다.
-()<Speaker>지휘관</Speaker>||<SE1>AVG_21Winter_Click_Keyboard</SE1>:그리고, 행동 개시에 앞서 작전 목표를 재확인하겠다.+작전명 "아이네이아스"는 잠입 작전으로, 임무는 2개다.+하나, 안젤리아의 구출. 돌발 상황 발생 즉시 연락하도록.+둘, "죽음의 바다" 지역에 존재하는 적 거점과 병력 상황 파악.
-()<Speaker>지휘관</Speaker>||:내가 자리를 비우더라도 댄들라이가 계속 이 회의실에 연결을 유지할 거다.+내가 필요할 경우 바로 지원하겠어.
-()<Speaker>지휘관</Speaker>||:다만, 난 이번에 전선에 나서지 않아. 알고 있지, RO?
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>네, 지휘관님.</color>
-RO635Mod(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:이번 작전의 대장은 너야. 현장에서 네가 판단하고 결정해.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>감사합니다, 그 신뢰에 부응하겠습니다.</color>+<color=#00CCFF>그밖에 당부할 사항은 없으십니까?</color>
-RO635Mod(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:그래. 저번에 말한 지원으로, 페르시카 씨가 "체스 마스터"를 보냈다.+너희가 찾아내는 지점들의 좌표를 전부 이곳으로 업로드하면, 그걸 바탕으로 체스 마스터가 목표 지점을 추측해낼 거야.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>알겠습니다. 체스 마스터와도 속히 합류하겠습니다.</color>
-()<Speaker>지휘관</Speaker>||:그래. 더 질문 있는 사람?
-()<Speaker></Speaker>||:잠깐의 침묵 후, 지휘관이 다시 입을 열었다.
-()<Speaker>지휘관</Speaker>||:...그럼 건투를 빈다. 아이네이아스, 작전 개시.
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:인형들은 바로 통신 침묵 상태로 돌입했다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2><SE1>AVG_tele_connect</SE1>:UMP45가 통신기를 놓자마자 작은 소리가 들렸다. 지휘관이 비밀 채널로 연락한 것이었다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:또 뭘 시키려고 그러셔?+추가 비용 붙는 건 알지?
-UMP45Mod(0)<Speaker>지휘관</Speaker><同时置暗>||:<color=#00CCFF>달라는 대로 줄 테니 걱정 안 해도 돼.</color>+<color=#00CCFF>이번 임무는 각기 다른 출신의 인형들이 임시로 혼합 편성돼서 호흡을 맞추는 작전이야. RO의 실력이야 당연히 믿지만, 보좌할 사람이 필요해.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:도와줄 테니 걱정 안 해도 돼.+물론 나랑 9이 안전한 선에서.
-UMP45Mod(0)<Speaker>지휘관</Speaker><同时置暗>||<BGM>BGM_Truth</BGM>:<color=#00CCFF>UMP45, 부탁해. 이번에 네 모든 걸 걸고 RO를 보조해 줘.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:......
-UMP45Mod(0)<Speaker>지휘관</Speaker><同时置暗>||:<color=#00CCFF>이번 임무는 전례 없는 위험도야. 너희 모두가 전력으로 임하더라도 목표를 전부 달성하리란 보장이 없어.</color>+<color=#00CCFF>팀의 모두가 모든 걸 걸고 한마음 한뜻으로 뭉쳐야 비로소 희망이 생길 거야.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:하아... 지휘관은 진짜 메뉴판에 없는 서비스 주문하는 거 너무 좋아한다.
-UMP45Mod(0)<Speaker>지휘관</Speaker><同时置暗>||:<color=#00CCFF>요구가 아니라 부탁이야.</color>+<color=#00CCFF>내 체면 봐줄 필요 없어. 과한 부탁이라는 거 알아.</color>+<color=#00CCFF>그래도 네가 목숨을 걸어서라도 RO를 도와주길 부탁할게.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:지휘관의 부탁이라...
-()<Speaker></Speaker>||:UMP45가 고개를 살짝 숙이고, 홀로 생각에 잠겼다.+그리고 한참 뒤에야, 그녀는 다시 고개를 들고 대답했다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:그러지 뭐♪+대신, 나중에 청구서 보고 딴소리하기 없기다~?
-()<Speaker>지휘관</Speaker>||:<color=#00CCFF>물론이지. 아무리 오래 걸려도 기다릴게.</color>
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_tele_disconnect</SE1>:평소대로 속내를 알 수 없는 미소를 보이고, UMP45도 회의실에서 나갔다.
-()<Speaker>지휘관</Speaker>||:<color=#00CCFF>...꼭 살아 돌아와서 청구서를 보내야 한다, 45.</color>
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>468</BIN><BGM>10213</BGM>:베를린 시외, 인적이 끊긴 레드존의 변두리.
-()<Speaker></Speaker>||<SE1>AVG_Camera_Focus</SE1>:금방이라도 무너질 것 같은 건물 아래서, RO635가 탐지기에 표시되는 좌표를 주의깊게 살펴보고 있었다.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:RO... 나 심심해애... 아직도 움직이면 안 돼?
-RO635Mod(0)<Speaker>RO635</Speaker>||:안 돼. 조금만 더 참아.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:옆에서 함께 관측 중인 UMP45도 거들었다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:10분 전부터 목표는 거의 제자리걸음이야.+추적기가 제거됐을 가능성도 고려해보는 게 어때?
-UMP9Mod(6)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:그래, 어쩌면 추적기를 떼어내서 로봇 개 같은 거에다 달아놨을지도 모르잖아.
-RO635Mod(0)<Speaker>RO635</Speaker>||:그럴 가능성은 낮습니다. 그 추적기는 목표가 의식이 없을 때 체내에 심어 둔 거니까요.+전신을 검사하지 않는 한, 그리 쉽게는 못 찾아내요.+지금 그들처럼 정밀 검사가 불가능한 상황에선 더더욱.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:맞아 맞아! 내가 직접 넣었다구!
-()<Speaker></Speaker>||:네 인형들의 눈길이 탐지기의 화면에 모였지만, 목표의 위치를 나타내는 작은 점은 좀처럼 움직일 생각이 없어 보였다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:목표와 거리를 더 좁히는 건?
-RO635Mod(2)<Speaker>RO635</Speaker>||:...고려해볼게요.
-()<Speaker></Speaker>||:목표의 궤적과 주위의 지형을 대조하면서, RO635가 머리를 굴리던 그때였다.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<SE1>ClothingUp</SE1>:어어, RO! 목표가 갑자기 엄청 빨리 움직이는데?
-RO635Mod(3)<Speaker>RO635</Speaker>||:뭐?!
-()<Speaker></Speaker>||<SE1>AVG_ElecSpace</SE1>:모두가 지켜보는 가운데, 그 작은 점이 갑자기 레드존 깊숙이를 향해 고속으로 직진했다.
-RO635Mod(4)<Speaker>RO635</Speaker>||:추적합니다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:알았어.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:옷깃이 스치는 소리를 내며, 네 인형들의 모습은 폐허 너머로 사라졌다.
-()||<黑点1>:
-()<Speaker></Speaker>||<BIN>469</BIN><黑点2><BGM>BGM_Empty</BGM>:베를린 시외, 레드존.+미행이 없음을 수 차례 확인한 뒤에야, 유령 같은 세 그림자들이 오랜 세월 동안 방문자 하나 없었던 폐허에 모습을 드러냈다.
-NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||<BGM>10106</BGM>:꼬리는 다 떼어냈어?+이럴 때 귀찮은 일 생기면 좋을 거 없어.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:안심하십시오, 확신합니다.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:그러니 잠깐 여기서 쉬는 게 어떻겠습니까, 스승님? 지금 스승님은 몸 상태가...
-NPC-grig(1)<Speaker>틸</Speaker>||:......
-()<Speaker></Speaker>||:그레이가 몰리도를 부축하며 잠시 쉬려는 것을 본 틸은 이를 가만히 지켜보다 등을 돌렸다.
-NPC-grig(1)<Speaker>틸</Speaker>||:난 저쪽에서 경계하겠다.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:우린 레드존 안으로 들어왔어요, 이제 아베르누스까지 얼마 안 걸립니다.
-NPC-MrsGray(9);NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:...난 괜찮으니까 빨리 움직이자.+늦게 가서 뭘 놓치지나 않을까 걱정이야.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>;NPC-Morridow(11)<Position>0,140</Position>||:하지만 부상이 아직...
-NPC-MrsGray(9);NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:이 정도쯤이야 아무것도 아니라니까...? 내 몸이 살덩이라고 얕보지는 말아 줘, 그레이.+오히려, 이깟 상처보단 그 교활한 생쥐 자식들이 내가 의식이 없을 때 내 몸에다 무슨 짓을 했을지가 신경쓰여.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>;NPC-Morridow(11)<Position>0,140</Position>||:...저라면 최소한 나노 추적기라도 주입했을 겁니다.+하지만 설령 그렇더라도, 레드존에서는 어떠한 전자 설비도 정확성이 급감하고 맙니다.
-NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:그렇기를 바라야지...+아니면, 누가 불행해질지는 불 보듯 뻔하니...
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:몰리도는 입술에 침을 바르면서, 초조한 마음으로 다시 일어섰다.
-NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:가자. 꾸물거릴 시간 없어.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...예.
-NPC-grig(1)<Speaker>틸</Speaker>||:......
-()<Speaker></Speaker>||:두 사람이 움직이자, 틸도 다시 조용히 그레이의 곁으로 돌아왔다.
-NPC-grig(1)<Speaker>틸</Speaker>||:이 앞으로도 추적자를 따돌리는 것을 우선시하나?
-NPC-grig(1);NPC-MrsGray(9)<Speaker>그레이</Speaker>||:그래. 여기까지 쫓아왔으리라 생각되진 않지만, 혹시 모르니 더 우회해야겠어.+도중에 니토를 남겨 추적자의 발을 묶으면 우리가 아베르누스까지 갈 시간은 충분히 벌 수 있을 거야.
-NPC-grig(1)<Speaker>틸</Speaker>;NPC-MrsGray(9)||:알았다.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:길은 내가 살필 테니, 넌 스승님을 챙기렴.
-()<Speaker></Speaker>||:그들의 모습은 다시 유령처럼 폐허 사이로 사라졌다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>480</BIN>:베를린 시외, 레드존의 어딘가.
-()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:목표가 레드존으로 진입하자, 탐지기에 표기되는 신호원은 사방팔방으로 마구 튀었다.+그래서 RO635는 감에 의지해 목표를 뒤쫓았다. 여기까지 와서 절대 놓쳐서는 안 됐다.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:우이씨, 이거 우리 놀리는 거야 뭐야!
-UMP9Mod(2)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:동감이야...
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:RO, 성급해서 아무 소용 없으니까 잠깐 멈춰서 분석해보자.
-RO635Mod(2)<Speaker>RO635</Speaker>||:그러죠... 자꾸 먼길을 빙빙 도는 것 같은 기분이 들어요.
-()<Speaker></Speaker>||:RO635가 걸음을 멈추고, UMP45와 함께 탐지기의 계기판 위에서 춤추는 신호원이 흩뿌리는 데이터를 분석했다.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:레드존의 신호 교란 되게 짜증나네... 조금만 떨어지면 너희 신호까지 구분 못하게 되는 거 아니야?
-UMP9Mod(2)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:아, 그럴 수도 있겠다. 이따 철분이랑 합류하려다 오인 사격이라도 나면 큰일인데!
-RO635Mod(0)<Speaker>RO635</Speaker>||:걱정 마세요, 암구호도 미리 정했으니까요.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:역시 RO야!+우리도 주위에 뭐 단서가 될 만한 거 없나 찾아보자!
-UMP9Mod(0)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:오케이!
-()<Speaker></Speaker>||:다만 UMP9는 UMP45의 눈치를 보았고, 너무 멀리 가진 말라는 눈빛을 받은 뒤에야 움직였다.+그리고, 자리에는 RO635와 UMP45만 남게 되었다.
-RO635Mod(2)<Speaker>RO635</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:45 씨? 지금 표기되는 궤적들을 다시 분석해봤지만 데이터에는 오류가 없다고 생각해요.+그저 신호가 자꾸 끊겨서 일부가 기록되지 않았을 뿐인 것 같아요.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:응, 연산하면 기록이 누락된 부분을 추측할 수도 있겠네.+그럼 이제 어떡할래? 철분이랑 합류하길 기다릴까, 아님 계속 추적할까?
-RO635Mod(0)<Speaker>RO635</Speaker>||:잠시만요.
-RO635Mod(0)<Speaker>RO635</Speaker>||<SE1>AVG_tele_connect</SE1>:철분, 여기는 우산. 약속 지점 도착까지 얼마나 더 걸리지?
-()<Speaker>게이저</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>철분 수신. 10분 내로 도착한다.</color>
-()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>10분은 무슨, 바로 저기 있구만!</color>+<color=#00CCFF>RO의 뒤통수가 보인다구우~ 달려라 달려!</color>
-RO635Mod(3)<Speaker>RO635</Speaker>||:뭐...? 하지만 너희의 신호는 전혀 감지가 안 되는데?
-()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>아니, 다 왔다니까 글쎄!</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:아키텍트의 목소리는 그대로 끊어졌다.
-RO635Mod(2)<Speaker>RO635</Speaker>||:...이상하네.+신호 교란 탓일까요? 지금 주위를 몇 번이나 스캔 중인데 아무것도 안 잡혀요.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:나도야.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_tele_connect</SE1>:9, 혹시 철분 녀석들 보여?
-UMP9Mod(4)<Speaker>UMP9</Speaker>||:아니. 지금 왔대?
-RO635Mod(0)<Speaker>RO635</Speaker>||:......
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:앗, 저기 보인다!
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>ClothingUp</SE1><BGM>BGM_Empty</BGM>:그 말을 들은 RO635와 UMP45는 SOP2가 서 있는 언덕에 올랐다.+SOP2의 말대로, 언덕 아래의 안개 속에서 하얀 머리의 실루엣이 다가오는 것이 보였다.
-()||<黑屏1><BGM>BGM_Sneak</BGM>:
-()<Speaker></Speaker>||<BIN>472</BIN><SE1>AVG_Team_Running</SE1><黑点2>:레드존의 어딘가.+아키텍트는 게이저를 끌고 저 앞의 안개 너머로 보이는 검은 머리 소녀를 향해 달려갔다.
-BOSS-9(0)<Speaker>아키텍트</Speaker>||:<size=50>RO~ 철분 도착했어~!</size>+여기 신호 진짜 구리더라 야, 내비게이션 때문에 자꾸 엉뚱한 데로 갔다니까!
-BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:――아키텍트!
-()<Speaker></Speaker>||<SE1>Rope</SE1>:그런데, 게이저가 황급히 아키텍트를 잡아 세웠다.
-BOSS-9(0)<Speaker>아키텍트</Speaker><Shake>0.1</Shake>||:뭔데?
-BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:......
-()<Speaker></Speaker>||:게이저는 창백해진 안색으로 안개 속의 실루엣을 노려봤다.
-BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:...다시 잘 봐라, 저게 누군지.
-BOSS-9(0)<Speaker>아키텍트</Speaker>||:응?
-()<Speaker></Speaker>||:아키텍트는 한쪽 눈을 치켜뜨며 그 실루엣을 다시 확인했다.+레드존의 자욱한 안개는 마치 원혼처럼 꿈틀대며 계속해서 그 모습이 변화했다.+그래서, 아키텍트의 눈에는 그 짙은 안개 너머로 상대의 검은 단발만 보일 뿐이었다.
-()<Speaker></Speaker>||:......단발?
-BOSS-9(0)<Speaker>아키텍트</Speaker><Shake>0.1</Shake>||:<size=25>흐엑...?!</size>
-BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:<size=25>아직 우릴 눈치채지 못한 것 같다. 우회하자.</size>
-BOSS-9(0)<Speaker>아키텍트</Speaker>||:<size=25>응...</size>
-BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:<size=25>RO635, 여기는 철분. 적과 조우했다.</size>
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>Rope</SE1>:두 인형들이 급히 통신하며 우회할 길을 찾는 모습 뒤로, 안개 속에서 한참을 요지부동이던 흑발의 소녀가 천천히 고개를 돌렸다.+그 얼굴은 음산한 미소가 띄워져 있었다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>480</BIN><SE1>AVG_Walk</SE1><BGM>10051</BGM>:베를린 시외의 레드존 어딘가.+거리가 좁혀지면서, 백발의 실루엣이 뚜렷해졌다.
-NPC-MrsGray(9)<Speaker>그레이</Speaker><GradientShow>1</GradientShow>||<SE1>Stop_AVG_loop</SE1><BGM>10106</BGM>:어딜 가도 역겨운 벌레가 꼬이는구나.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:목표 확인! 그레이다!
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:그토록 죽고 싶다면, 소원대로 해 주마.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<震屏3>:<size=50>그레이――!!!</size>
-()<Speaker></Speaker>||:드디어 적과 맞닥뜨리자, SOP2는 바로 붉은 안광을 번뜩였다.+반면 RO635는 아주 침착하게 지휘를 개시했다.
-RO635Mod(4)<Speaker>RO635</Speaker>||<SE1>Select</SE1>:45 씨와 9 씨는 원거리 지원 사격.+저는 SOP2와 함께 근거리에서 견제합니다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:라저!
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<SE1>AVG_Gatling_gun</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:네 수법 이제 다 알아아아!!!
-()<Speaker></Speaker>||:SOP2가 사납게 포효하며 달려드는데도 그레이가 살짝 고개를 돌려 뒤에다 무어라 말하는 것을, RO635는 놓치지 않았다.+저 뒤에 그녀의 동료가 있음이 분명했고, 몰리도일 가능성이 높았다.
-RO635Mod(4)<Speaker>RO635</Speaker>||<SE1>RunStep</SE1>:SOP2, 신중하게 행동해. 언제라도 이탈할 수 있도록.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:걱정 마셔!
-()<Speaker></Speaker>||<SE1>AVG_Grey_Hand_Mech</SE1>:다시 정면을 바라보는 그레이는 좌우 양쪽으로 달려드는 인형들을 보며, 여유로운 미소와 함께 무장을 전개했다.
-NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...가소롭기는.
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<common_effect>%%code=AllSeeingEye03%%</common_effect>:.....
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator>:패러데우스의 어느 버려진 기지.
+()||<黑屏1>:
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><BIN>229</BIN><BGM>10082</BGM><黑屏2>:짧은 대화 후 통신기를 내려놓는 그레이는 안색이 어두웠다.
+NPC-grig(1)<Speaker>틸</Speaker>||:...그레이.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그레이가 통신을 마친 것을 확인한 틸이 조심조심 그녀 곁에 다가갔다.+몰리도도 구석에 웅크리고 있었지만, 만신창이임에도 그 두 눈만은 여전히 기세등등했다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...괜찮아.+스승님, 몸 상태는 어떻습니까?
+NPC-MrsGray(9);NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:응급처치해서 많이 괜찮아졌어.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>;NPC-Morridow(11)<Position>0,140</Position>||:시내의 기지에서 그런 대접을 받을 줄은...
+NPC-MrsGray(9);NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:...실패자에겐 따질 자격이 없지.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...아버님께서 브라메드에게 그곳을 청소하라 명했습니다.+그리고 네메아란도 그녀에게 RPK-16을 감시하며 아베르누스로 복귀하라 했습니다.+하지만... 스승님과 저희에 대해서는 일언반구도 없었습니다.
+NPC-grig(1)<Speaker>틸</Speaker>||:그럼 우리도 복귀해야 하지 않을까?
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:......
+()<Speaker></Speaker>||:그레이는 미간을 좁히며 잠시 고민했다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:지금 돌아가면 오명을 씻을 기회가 없어지고 말아.+그리고, "그자"가 프랑크푸르트로 이동했다는 정보를 입수했어.
+NPC-grig(1)<Speaker>틸</Speaker>||:안젤리아가 아직 우리 손에 있는데, "그자"가 과연 포기할까?
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:아버님이 눈독들이신 인물이니 우리가 참견할 권리는 없어.
+NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||<SE1>ClothingUp</SE1>:...우리도 바로 복귀해야 해.
+()<Speaker></Speaker>||:몰리도가 갑자기 고개를 들면서 말했다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:스승님...?
+NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:우린 너무 많은 잘못을 저질렀어. 그리고 아버님은 실수만큼 잘못도 싫어하셔.+지금 우린 뭐라도 하지 않으면 쓸모없는 버림패처럼 버려지고 말 거야.
+()<Speaker></Speaker>||:몰리도는 가볍게 말을 이었다.
+NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:...반드시, 내가 아버님과 직접 대면해야만 전환점이 생길 거야.+안 그럼 우리 모두 여기서 죽어.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...알겠습니다.
+NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:틸, 나 좀 부축해 줘.
+NPC-grig(1)<Speaker>틸</Speaker>||:...알았다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:몰리도는 틸의 부축을 받으며 일어나 앞으로 걸어갔다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:하지만 이해할 수 없습니다.
+NPC-MrsGray(9);NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:그레이, 여기서 기다리기만 했다간 정말 버려진다고.+네메아란은 이미 돌아갔어.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>;NPC-Morridow(11)<Position>0,140</Position>||:"불꽃놀이"가 쏘아 올려진 것으로 그녀의 임무는 완수되었습니다.+그러니 지금 같은 때에 복귀한 것은 지극히 정상 아닌가요?
+NPC-MrsGray(9);NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:틀렸어. 아베르누스에서 그녀한테 새로운 계획을 맡기려는 거야.+우리에게 최악의 상황은 일을 실패하는 게 아니야. 이대로 아버님의 핵심 계획에 들러리조차 되지 못하면, 우리는 완전히 가치를 상실하게 돼.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...알겠습니다.
+()||<黑屏1>:
+()<Speaker>몰리도</Speaker><Position>0,140</Position>||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2>:내가 아베르누스에 돌아가기만 하면... 우리 모두, 아버님의 신뢰를 되찾을 수 있어.+내가 장담할게.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>GF_22W_BGM_2</BGM><黑屏2><BIN>357</BIN><SE1>AVG_tele_connect</SE1>:베를린, 공항에서 가까운 임시 세이프하우스.+지휘관이 아이네이아스 회의실에 접속했다.+...신분 인증 통과. 암호를 입력하십시오.
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Baggage_bomb_Activation</SE1>:...암호 확인. 접속합니다.+아이네이아스 작전회의실에 접속하셨습니다.
+()<Speaker>지휘관</Speaker>||:목표의 동향에 변화는 없나?
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>마침 잘 오셨습니다 지휘관님, 몰리도가 움직이기 시작했습니다..</color>
+RO635Mod(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:좋았어, 현재 상황 동기화하자.
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>네.</color>+<color=#00CCFF>우산팀 2인, 현재 목표 감시 중.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>유니콘팀 2인, 우산팀 보조 중~</color>
+SP9(0)<Speaker>모나</Speaker><通讯框>||:<color=#00CCFF>질소팀 3인 보고, 현재 목표 지점으로 이동 중입니다.</color>
+BOSS-7(0)<Speaker>게이저</Speaker><通讯框>||:<color=#00CCFF>철분 2인, 현재 제자리서 지시를 대기 중.</color>
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>구역의 오프라인 지도, 패러데우스 관련 정보, 안전 연락 채널 전부 공유했습니다.</color>+<color=#00CCFF>탄약 보급도 전원 출발 전에 마쳤습니다.</color>+<color=#00CCFF>아이네이아스 작전 인원 총 12명 중 현재 9명이 집결했습니다.</color>
+()<Speaker>지휘관</Speaker>||:목표가 이동을 시작했으니, 모두 집결할 때까지 기다리진 못하겠군. 후속 인원은 RO에게 전달하겠다.+전원, 이번 작전의 핵심을 숙지하도록.
+()<Speaker>지휘관</Speaker>||:"빠르고, 은밀하게". 지금 우리는 불시에 적의 심장을 찌를 비수다.
+()<Speaker>지휘관</Speaker>||<SE1>AVG_21Winter_Click_Keyboard</SE1>:그리고, 행동 개시에 앞서 작전 목표를 재확인하겠다.+작전명 "아이네이아스"는 잠입 작전으로, 임무는 2개다.+하나, 안젤리아의 구출. 돌발 상황 발생 즉시 연락하도록.+둘, "죽음의 바다" 지역에 존재하는 적 거점과 병력 상황 파악.
+()<Speaker>지휘관</Speaker>||:내가 자리를 비우더라도 댄들라이가 계속 이 회의실에 연결을 유지할 거다.+내가 필요할 경우 바로 지원하겠어.
+()<Speaker>지휘관</Speaker>||:다만, 난 이번에 전선에 나서지 않아. 알고 있지, RO?
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>네, 지휘관님.</color>
+RO635Mod(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:이번 작전의 대장은 너야. 현장에서 네가 판단하고 결정해.
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>감사합니다, 그 신뢰에 부응하겠습니다.</color>+<color=#00CCFF>그밖에 당부할 사항은 없으십니까?</color>
+RO635Mod(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:그래. 저번에 말한 지원으로, 페르시카 씨가 "체스 마스터"를 보냈다.+너희가 찾아내는 지점들의 좌표를 전부 이곳으로 업로드하면, 그걸 바탕으로 체스 마스터가 목표 지점을 추측해낼 거야.
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>알겠습니다. 체스 마스터와도 속히 합류하겠습니다.</color>
+()<Speaker>지휘관</Speaker>||:그래. 더 질문 있는 사람?
+()<Speaker></Speaker>||:잠깐의 침묵 후, 지휘관이 다시 입을 열었다.
+()<Speaker>지휘관</Speaker>||:...그럼 건투를 빈다. 아이네이아스, 작전 개시.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:인형들은 바로 통신 침묵 상태로 돌입했다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2><SE1>AVG_tele_connect</SE1>:UMP45가 통신기를 놓자마자 작은 소리가 들렸다. 지휘관이 비밀 채널로 연락한 것이었다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:또 뭘 시키려고 그러셔?+추가 비용 붙는 건 알지?
+UMP45Mod(0)<Speaker>지휘관</Speaker><同时置暗>||:<color=#00CCFF>달라는 대로 줄 테니 걱정 안 해도 돼.</color>+<color=#00CCFF>이번 임무는 각기 다른 출신의 인형들이 임시로 혼합 편성돼서 호흡을 맞추는 작전이야. RO의 실력이야 당연히 믿지만, 보좌할 사람이 필요해.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:도와줄 테니 걱정 안 해도 돼.+물론 나랑 9이 안전한 선에서.
+UMP45Mod(0)<Speaker>지휘관</Speaker><同时置暗>||<BGM>BGM_Truth</BGM>:<color=#00CCFF>UMP45, 부탁해. 이번에 네 모든 걸 걸고 RO를 보조해 줘.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:......
+UMP45Mod(0)<Speaker>지휘관</Speaker><同时置暗>||:<color=#00CCFF>이번 임무는 전례 없는 위험도야. 너희 모두가 전력으로 임하더라도 목표를 전부 달성하리란 보장이 없어.</color>+<color=#00CCFF>팀의 모두가 모든 걸 걸고 한마음 한뜻으로 뭉쳐야 비로소 희망이 생길 거야.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:하아... 지휘관은 진짜 메뉴판에 없는 서비스 주문하는 거 너무 좋아한다.
+UMP45Mod(0)<Speaker>지휘관</Speaker><同时置暗>||:<color=#00CCFF>요구가 아니라 부탁이야.</color>+<color=#00CCFF>내 체면 봐줄 필요 없어. 과한 부탁이라는 거 알아.</color>+<color=#00CCFF>그래도 네가 목숨을 걸어서라도 RO를 도와주길 부탁할게.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:지휘관의 부탁이라...
+()<Speaker></Speaker>||:UMP45가 고개를 살짝 숙이고, 홀로 생각에 잠겼다.+그리고 한참 뒤에야, 그녀는 다시 고개를 들고 대답했다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그러지 뭐♪+대신, 나중에 청구서 보고 딴소리하기 없기다~?
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>물론이지. 아무리 오래 걸려도 기다릴게.</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_tele_disconnect</SE1>:평소대로 속내를 알 수 없는 미소를 보이고, UMP45도 회의실에서 나갔다.
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>...꼭 살아 돌아와서 청구서를 보내야 한다, 45.</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>468</BIN><BGM>10213</BGM>:베를린 시외, 인적이 끊긴 레드존의 변두리.
+()<Speaker></Speaker>||<SE1>AVG_Camera_Focus</SE1>:금방이라도 무너질 것 같은 건물 아래서, RO635가 탐지기에 표시되는 좌표를 주의깊게 살펴보고 있었다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:RO... 나 심심해애... 아직도 움직이면 안 돼?
+RO635Mod(0)<Speaker>RO635</Speaker>||:안 돼. 조금만 더 참아.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:옆에서 함께 관측 중인 UMP45도 거들었다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:10분 전부터 목표는 거의 제자리걸음이야.+추적기가 제거됐을 가능성도 고려해보는 게 어때?
+UMP9Mod(6)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:그래, 어쩌면 추적기를 떼어내서 로봇 개 같은 거에다 달아놨을지도 모르잖아.
+RO635Mod(0)<Speaker>RO635</Speaker>||:그럴 가능성은 낮습니다. 그 추적기는 목표가 의식이 없을 때 체내에 심어 둔 거니까요.+전신을 검사하지 않는 한, 그리 쉽게는 못 찾아내요.+지금 그들처럼 정밀 검사가 불가능한 상황에선 더더욱.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:맞아 맞아! 내가 직접 넣었다구!
+()<Speaker></Speaker>||:네 인형들의 눈길이 탐지기의 화면에 모였지만, 목표의 위치를 나타내는 작은 점은 좀처럼 움직일 생각이 없어 보였다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:목표와 거리를 더 좁히는 건?
+RO635Mod(2)<Speaker>RO635</Speaker>||:...고려해볼게요.
+()<Speaker></Speaker>||:목표의 궤적과 주위의 지형을 대조하면서, RO635가 머리를 굴리던 그때였다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<SE1>ClothingUp</SE1>:어어, RO! 목표가 갑자기 엄청 빨리 움직이는데?
+RO635Mod(3)<Speaker>RO635</Speaker>||:뭐?!
+()<Speaker></Speaker>||<SE1>AVG_ElecSpace</SE1>:모두가 지켜보는 가운데, 그 작은 점이 갑자기 레드존 깊숙이를 향해 고속으로 직진했다.
+RO635Mod(4)<Speaker>RO635</Speaker>||:추적합니다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:알았어.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:옷깃이 스치는 소리를 내며, 네 인형들의 모습은 폐허 너머로 사라졌다.
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>469</BIN><黑点2><BGM>BGM_Empty</BGM>:베를린 시외, 레드존.+미행이 없음을 수 차례 확인한 뒤에야, 유령 같은 세 그림자들이 오랜 세월 동안 방문자 하나 없었던 폐허에 모습을 드러냈다.
+NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||<BGM>10106</BGM>:꼬리는 다 떼어냈어?+이럴 때 귀찮은 일 생기면 좋을 거 없어.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:안심하십시오, 확신합니다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:그러니 잠깐 여기서 쉬는 게 어떻겠습니까, 스승님? 지금 스승님은 몸 상태가...
+NPC-grig(1)<Speaker>틸</Speaker>||:......
+()<Speaker></Speaker>||:그레이가 몰리도를 부축하며 잠시 쉬려는 것을 본 틸은 이를 가만히 지켜보다 등을 돌렸다.
+NPC-grig(1)<Speaker>틸</Speaker>||:난 저쪽에서 경계하겠다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:우린 레드존 안으로 들어왔어요, 이제 아베르누스까지 얼마 안 걸립니다.
+NPC-MrsGray(9);NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:...난 괜찮으니까 빨리 움직이자.+늦게 가서 뭘 놓치지나 않을까 걱정이야.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>;NPC-Morridow(11)<Position>0,140</Position>||:하지만 부상이 아직...
+NPC-MrsGray(9);NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:이 정도쯤이야 아무것도 아니라니까...? 내 몸이 살덩이라고 얕보지는 말아 줘, 그레이.+오히려, 이깟 상처보단 그 교활한 생쥐 자식들이 내가 의식이 없을 때 내 몸에다 무슨 짓을 했을지가 신경쓰여.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>;NPC-Morridow(11)<Position>0,140</Position>||:...저라면 최소한 나노 추적기라도 주입했을 겁니다.+하지만 설령 그렇더라도, 레드존에서는 어떠한 전자 설비도 정확성이 급감하고 맙니다.
+NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:그렇기를 바라야지...+아니면, 누가 불행해질지는 불 보듯 뻔하니...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:몰리도는 입술에 침을 바르면서, 초조한 마음으로 다시 일어섰다.
+NPC-Morridow(11)<Speaker>몰리도</Speaker><Position>0,140</Position>||:가자. 꾸물거릴 시간 없어.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...예.
+NPC-grig(1)<Speaker>틸</Speaker>||:......
+()<Speaker></Speaker>||:두 사람이 움직이자, 틸도 다시 조용히 그레이의 곁으로 돌아왔다.
+NPC-grig(1)<Speaker>틸</Speaker>||:이 앞으로도 추적자를 따돌리는 것을 우선시하나?
+NPC-grig(1);NPC-MrsGray(9)<Speaker>그레이</Speaker>||:그래. 여기까지 쫓아왔으리라 생각되진 않지만, 혹시 모르니 더 우회해야겠어.+도중에 니토를 남겨 추적자의 발을 묶으면 우리가 아베르누스까지 갈 시간은 충분히 벌 수 있을 거야.
+NPC-grig(1)<Speaker>틸</Speaker>;NPC-MrsGray(9)||:알았다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:길은 내가 살필 테니, 넌 스승님을 챙기렴.
+()<Speaker></Speaker>||:그들의 모습은 다시 유령처럼 폐허 사이로 사라졌다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>480</BIN>:베를린 시외, 레드존의 어딘가.
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:목표가 레드존으로 진입하자, 탐지기에 표기되는 신호원은 사방팔방으로 마구 튀었다.+그래서 RO635는 감에 의지해 목표를 뒤쫓았다. 여기까지 와서 절대 놓쳐서는 안 됐다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:우이씨, 이거 우리 놀리는 거야 뭐야!
+UMP9Mod(2)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:동감이야...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:RO, 성급해서 아무 소용 없으니까 잠깐 멈춰서 분석해보자.
+RO635Mod(2)<Speaker>RO635</Speaker>||:그러죠... 자꾸 먼길을 빙빙 도는 것 같은 기분이 들어요.
+()<Speaker></Speaker>||:RO635가 걸음을 멈추고, UMP45와 함께 탐지기의 계기판 위에서 춤추는 신호원이 흩뿌리는 데이터를 분석했다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:레드존의 신호 교란 되게 짜증나네... 조금만 떨어지면 너희 신호까지 구분 못하게 되는 거 아니야?
+UMP9Mod(2)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:아, 그럴 수도 있겠다. 이따 철분이랑 합류하려다 오인 사격이라도 나면 큰일인데!
+RO635Mod(0)<Speaker>RO635</Speaker>||:걱정 마세요, 암구호도 미리 정했으니까요.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:역시 RO야!+우리도 주위에 뭐 단서가 될 만한 거 없나 찾아보자!
+UMP9Mod(0)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:오케이!
+()<Speaker></Speaker>||:다만 UMP9는 UMP45의 눈치를 보았고, 너무 멀리 가진 말라는 눈빛을 받은 뒤에야 움직였다.+그리고, 자리에는 RO635와 UMP45만 남게 되었다.
+RO635Mod(2)<Speaker>RO635</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:45 씨? 지금 표기되는 궤적들을 다시 분석해봤지만 데이터에는 오류가 없다고 생각해요.+그저 신호가 자꾸 끊겨서 일부가 기록되지 않았을 뿐인 것 같아요.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:응, 연산하면 기록이 누락된 부분을 추측할 수도 있겠네.+그럼 이제 어떡할래? 철분이랑 합류하길 기다릴까, 아님 계속 추적할까?
+RO635Mod(0)<Speaker>RO635</Speaker>||:잠시만요.
+RO635Mod(0)<Speaker>RO635</Speaker>||<SE1>AVG_tele_connect</SE1>:철분, 여기는 우산. 약속 지점 도착까지 얼마나 더 걸리지?
+()<Speaker>게이저</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>철분 수신. 10분 내로 도착한다.</color>
+()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>10분은 무슨, 바로 저기 있구만!</color>+<color=#00CCFF>RO의 뒤통수가 보인다구우~ 달려라 달려!</color>
+RO635Mod(3)<Speaker>RO635</Speaker>||:뭐...? 하지만 너희의 신호는 전혀 감지가 안 되는데?
+()<Speaker>아키텍트</Speaker>||:<color=#00CCFF>아니, 다 왔다니까 글쎄!</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:아키텍트의 목소리는 그대로 끊어졌다.
+RO635Mod(2)<Speaker>RO635</Speaker>||:...이상하네.+신호 교란 탓일까요? 지금 주위를 몇 번이나 스캔 중인데 아무것도 안 잡혀요.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:나도야.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_tele_connect</SE1>:9, 혹시 철분 녀석들 보여?
+UMP9Mod(4)<Speaker>UMP9</Speaker>||:아니. 지금 왔대?
+RO635Mod(0)<Speaker>RO635</Speaker>||:......
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:앗, 저기 보인다!
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>ClothingUp</SE1><BGM>BGM_Empty</BGM>:그 말을 들은 RO635와 UMP45는 SOP2가 서 있는 언덕에 올랐다.+SOP2의 말대로, 언덕 아래의 안개 속에서 하얀 머리의 실루엣이 다가오는 것이 보였다.
+()||<黑屏1><BGM>BGM_Sneak</BGM>:
+()<Speaker></Speaker>||<BIN>472</BIN><SE1>AVG_Team_Running</SE1><黑点2>:레드존의 어딘가.+아키텍트는 게이저를 끌고 저 앞의 안개 너머로 보이는 검은 머리 소녀를 향해 달려갔다.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:<size=50>RO~ 철분 도착했어~!</size>+여기 신호 진짜 구리더라 야, 내비게이션 때문에 자꾸 엉뚱한 데로 갔다니까!
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:――아키텍트!
+()<Speaker></Speaker>||<SE1>Rope</SE1>:그런데, 게이저가 황급히 아키텍트를 잡아 세웠다.
+BOSS-9(0)<Speaker>아키텍트</Speaker><Shake>0.1</Shake>||:뭔데?
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:......
+()<Speaker></Speaker>||:게이저는 창백해진 안색으로 안개 속의 실루엣을 노려봤다.
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:...다시 잘 봐라, 저게 누군지.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:응?
+()<Speaker></Speaker>||:아키텍트는 한쪽 눈을 치켜뜨며 그 실루엣을 다시 확인했다.+레드존의 자욱한 안개는 마치 원혼처럼 꿈틀대며 계속해서 그 모습이 변화했다.+그래서, 아키텍트의 눈에는 그 짙은 안개 너머로 상대의 검은 단발만 보일 뿐이었다.
+()<Speaker></Speaker>||:......단발?
+BOSS-9(0)<Speaker>아키텍트</Speaker><Shake>0.1</Shake>||:<size=25>흐엑...?!</size>
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:<size=25>아직 우릴 눈치채지 못한 것 같다. 우회하자.</size>
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:<size=25>응...</size>
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:<size=25>RO635, 여기는 철분. 적과 조우했다.</size>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>Rope</SE1>:두 인형들이 급히 통신하며 우회할 길을 찾는 모습 뒤로, 안개 속에서 한참을 요지부동이던 흑발의 소녀가 천천히 고개를 돌렸다.+그 얼굴은 음산한 미소가 띄워져 있었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>480</BIN><SE1>AVG_Walk</SE1><BGM>10051</BGM>:베를린 시외의 레드존 어딘가.+거리가 좁혀지면서, 백발의 실루엣이 뚜렷해졌다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker><GradientShow>1</GradientShow>||<SE1>Stop_AVG_loop</SE1><BGM>10106</BGM>:어딜 가도 역겨운 벌레가 꼬이는구나.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:목표 확인! 그레이다!
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:그토록 죽고 싶다면, 소원대로 해 주마.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<震屏3>:<size=50>그레이――!!!</size>
+()<Speaker></Speaker>||:드디어 적과 맞닥뜨리자, SOP2는 바로 붉은 안광을 번뜩였다.+반면 RO635는 아주 침착하게 지휘를 개시했다.
+RO635Mod(4)<Speaker>RO635</Speaker>||<SE1>Select</SE1>:45 씨와 9 씨는 원거리 지원 사격.+저는 SOP2와 함께 근거리에서 견제합니다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:라저!
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<SE1>AVG_Gatling_gun</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:네 수법 이제 다 알아아아!!!
+()<Speaker></Speaker>||:SOP2가 사납게 포효하며 달려드는데도 그레이가 살짝 고개를 돌려 뒤에다 무어라 말하는 것을, RO635는 놓치지 않았다.+저 뒤에 그녀의 동료가 있음이 분명했고, 몰리도일 가능성이 높았다.
+RO635Mod(4)<Speaker>RO635</Speaker>||<SE1>RunStep</SE1>:SOP2, 신중하게 행동해. 언제라도 이탈할 수 있도록.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:걱정 마셔!
+()<Speaker></Speaker>||<SE1>AVG_Grey_Hand_Mech</SE1>:다시 정면을 바라보는 그레이는 좌우 양쪽으로 달려드는 인형들을 보며, 여유로운 미소와 함께 무장을 전개했다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:...가소롭기는.
+()||<黑点1>:

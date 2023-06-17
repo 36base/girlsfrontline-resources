@@ -1,0 +1,107 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>356</BIN><narrator>:심야, 모스크바, 술집 "진"에서 세 블록 떨어진 세이프하우스.
+()||<SE1>AVG_whitenoise</SE1>:지지직——
+()<Speaker>시스템</Speaker>||<BGM>GF_2022_Summer_Battle_1</BGM>:경고, 마인드맵 코어 온도가 정상 범위를 초과했습니다, 즉시 다음 기능을 종료하고 가까운 정비소에서 검사를 받으십시오.
+ColtWalker(3)<Speaker>매기</Speaker>||:...나 같은 인형을 정비소가 받아주겠냐.
+()||<SE1>AVG_Geiger_Counter</SE1>:벽에 기대서 간신히 버티고 선 매기는 발열이 가장 심각한 모듈 몇 개를 수동으로 껐다.
+()||<SE1>Stop_AVG_loop</SE1>:그녀의 소체 성능으로 이렇게 많은 고출력 모듈을 동시 가동하는 건 역시 무리가 있었다.
+ColtWalker(3)<Speaker>매기</Speaker>||:캐서린...
+()<Speaker>캐서린</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...사랑하는 고객님, 현재 통화 상대는 열심히 돈 버느라 전화를 받을 수 없습니다.</color>
+ColtWalker(3)<Speaker>매기</Speaker>||:큄비.
+NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>...마스터, 큄비입니다.</color>
+NPC-Quimby(0)<通讯框>;ColtWalker(3)<Speaker>매기</Speaker>||:캐서린의 좌표를 알겠어?
+NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>위치 특정 실패, 마지막 통신 때의 위치만 조회 가능해요...</color>
+ColtWalker(3)<Speaker>매기</Speaker>||:...걔도 도적들한테 잡혔나 보네.
+()||<SE1>AVG_Punch</SE1>:매기는 분을 이기지 못하고 팔로 벽을 쾅 쳤다.
+NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>||:<color=#00CCFF>마스터!?</color>
+NPC-Quimby(0)<通讯框>;ColtWalker(3)<Speaker>매기</Speaker>||:내가 어떻게 이런 초보적인 실수를 했지!?+니콜라스의 뒷조사가 너무 허술했어... 보르 브 자코녜... 그런 사람이 도적단이라니...
+NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>마스터... 그럼 이제 어떡하죠?</color>
+ColtWalker(3)<Speaker>매기</Speaker>||:캐서린이 아직 도적놈들 손 안에 있어...+그 자식들 손에 걸리면 살아남기 어려워.+서둘러야 해... 최대한 빨리...
+()||<SE1>Rope</SE1>:매기의 손톱이 살갗을 파고들었다.
+ColtWalker(3)<Speaker>매기</Speaker>||:...할 수 없지.+한번 걸어보는 수밖에.
+NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>||:<color=#00CCFF>어떻게 하시게요?</color>
+()||<SE1>AVG_tele_connect</SE1>:매기는 다른 누구에게 통신을 걸었다.
+ColtWalker(3)<Speaker>매기</Speaker>||:...야, 저번에 말한 그 익명 의뢰, 받을게.
+ColtWalker(3)<Speaker>？？</Speaker><同时置暗>||:<color=#00CCFF>매기? 그 의뢰를 받은 인형들 전부 소식이 끊겼다고 저번에 말했잖아, 너처럼 목숨 아끼는 녀석이 발 디딜 곳이 아닌 것 같은데...</color>
+ColtWalker(3)<Speaker>매기</Speaker>||:아, 확실히 내가 목숨을 엄청 아끼지.+지금 내가 목숨이 아까워서 이러는 거야.+내가 그 의뢰를 받을 능력이 있기만을 빌어야지.
+ColtWalker(3)<Speaker>？？</Speaker><同时置暗>||:<color=#00CCFF>...좋아, 나야 그냥 중개인이라 소개비만 받는 거니까.</color>
+ColtWalker(3)<Speaker>매기</Speaker>||:그쪽에 요구조건 하나만 제시해 줘.
+ColtWalker(3)<Speaker>？？</Speaker><同时置暗>||:<color=#00CCFF>의뢰를 받기도 전에 조건을 걸다니, 진짜 목숨이 아까운 거야, 안 아까운 거야?</color>
+ColtWalker(3)<Speaker>매기</Speaker>||:신변 보호를 요청하겠어.
+ColtWalker(3)<Speaker>？？</Speaker><同时置暗>||:<color=#00CCFF>...더 급한 사정이 생겼나 보군. 알았어, 그렇게 전해 줄게.</color>+<color=#00CCFF>행운을 빌어, 매기.</color>
+ColtWalker(3)<Speaker>매기</Speaker>||:난 언제나 내 운과 도박 실력을 믿지.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>70</BIN><narrator>:심야 모스크바, 보르 브 자코녜의 한 거점.
+()||<BGM>GF_21winter_avg_pathfinder</BGM>:한편 같은 시간.+캐서린은 시멘트를 채운 드럼통에 어깨까지 묻히고 신호도 완전히 차단되어, 매기에게 연락도 못 하고 갇혀 있었다.
+()||<SE1>AVG_Water_Drip</SE1>:그녀는 썰렁한 지하실에서 혼자 한숨만 푹푹 쉬었다. 시커먼 천장 한구석에 습기가 뭉쳐 물방울이 떨어졌다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:......+왠지 익숙한 기분이 들더라니, 내가 출고돼서 처음 눈을 뜬 곳하고 엄청 비슷하네.
+()||<SE1>AVG_21Winter_Ink_Drop_Single</SE1>:물 한 방울이 캐서린의 이마에 떨어졌다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:설마 이게 내 마인드맵에 기록될 마지막 장면은 아니겠지... 내 인생 완전 수미상관법 그 자체잖아?
+()||:캐서린은 억지로 쓴웃음을 짜냈다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:매기는 무사히 도망쳤음 좋겠네, 그럼 나도 희망은 있어.+백업을 80개나 했는데 헛고생이 아니길 바라야지.
+()||<SE1>AVG_20Winter_Bar_Cheering_V2</SE1><震屏3>:위에서 뭔가 박장대소하는 소리가 터지더니, 부실한 천장이 흔들려 먼지가 떨어졌다.+캐서린도 덩달아 부들부들 떨었다. 아까 저들에게 두들겨 맞을 때도 똑같은 웃음소리가 났었다.
+NPC-Scalper(2)<Speaker>캐서린</Speaker>||<SE1>Stop_AVG_loop</SE1>:......+매기... 나 이제 널 못 볼지도...
+()||:캐서린은 점점 비관의 늪에 빠졌다. 매기가 가진 돈을 몽땅 바쳐도 입막음이나 안 당하면 다행이겠지.+상대는 보르 브 자코녜다. 가진 무기만 해도 그녀들 둘을 수백 번 박살내고도 남는다.
+NPC-Scalper(2)<Speaker>캐서린</Speaker>||:아직 못 해본 일들이 잔뜩인데...+이번 거래만 끝나면 엄청 오래 찜해둔 전자 고양이를 드디어 살 생각이었단 말이야...
+()||<SE1>AVG_20Winter_Prison_Door</SE1>:끼이익... 지하실의 문이 열렸다.+뒤이어 묵직한 발걸음 소리가 들렸다. 아마도 건장한 성인 남성이다.+캐서린의 가슴이 벌렁거렸다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:<color=#A9A9A9>매기가 붙잡혔나...? 아니면 매기가 도망쳐서 나한테서 걔 행방을 캐내려고...?</color>
+()<Speaker>도적단</Speaker>||:......
+()||:흉악한 얼굴에 온몸이 문신투성이인 거한이 캐서린 앞으로 다가왔다. 말없이 서 있는 것만으로도 엄청난 위압감이 느껴졌다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:...나... 난 굴복 안 할 거거든...
+()<Speaker>도적단</Speaker>||:......
+()||:긴장이 심해질수록 캐서린은 오히려 건방진 말을 뱉었다.+어떨 땐 말 자체가 버팀목이 되기도 하니까.
+NPC-Scalper(0)<Speaker>캐서린</Speaker>||:...이 빌어먹을 좀도둑 놈들아!+머릿수 좀 많으니까 세상 무서울 게 없지?+공평하게 일대일로 맞짱 뜰 깡도 없는 것들이!
+()||:도적은 허리를 숙여 문신과 흉터로 둘러싸인 작은 눈으로 캐서린을 노려보았다. 그녀의 마인드맵은 공포에 질려 다운 직전이었다.
+()||<SE1>Rope</SE1>:번쩍. 도적이 캐서린을 묻은 드럼통을 어깨에 둘러메더니 계단으로 향했다.
+NPC-Scalper(2)<Speaker>캐서린</Speaker>||:<color=#A9A9A9>망했다망했다망했다...</color>+<color=#A9A9A9>뒤진다뒤진다뒤진다뒤진다뒤진다뒤진다뒤진다...</color>
+()||:공포가 시체 위를 맴도는 까마귀 떼처럼 캐서린을 둘러쌌다. 캐서린은 벌써부터 자신이 바다에 던져져 어두컴컴한 저 바다 깊은 곳으로 가라앉는 풍경이 눈앞에 어른거렸다...
+()||<SE1>AVG_footsteps_cave</SE1>:뚜벅, 뚜벅, 묵직한 발걸음은 계단을 타고 올랐다.
+()||<黑点1><SE1>Stop_AVG_loop</SE1>:
+()||<黑点2><BIN>18</BIN><SE1>AVG_20Winter_Door_Open</SE1>:끼익... 문이 열리고 로비 안의 불빛이 캐서린의 눈을 찔렀다.
+()||<SE1>AVG_20Winter_Chains_Break</SE1>:여남은 명의 도적들이 짜증 가득한 얼굴로 그녀를 바라보며 손에 든 무기를 툭툭 쳤다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:<color=#A9A9A9>아니... 무슨 인형 하나 담그는 데 열 명 넘게 투입을 해!?</color>+<color=#A9A9A9>이럼 발악할 기회조차...</color>
+()||:환한 로비 밖이 보였지만, 캐서린의 눈밑은 칠흑같이 어두웠다.+그녀는 알고 있었다. 곧 자신이 수장되리라는 것을...
+()||<BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:삐익. 지하실에서 나오자 캐서린의 통신 신호도 돌아왔다.
+()||<BGM>m_avg_hope</BGM>:매기가 남긴 메시지가 있었다.
+ColtWalker(1)<Speaker>매기</Speaker><通讯框>||:<color=#00CCFF>기다리고 있어, 방법을 찾을 테니까...</color>
+NPC-Scalper(2)<Speaker>캐서린</Speaker>||:<color=#A9A9A9>다행이다... 매기는 빠져나갔구나...</color>+<color=#A9A9A9>여기 오면 안 돼... 여긴 위험해...</color>
+()||:캐서린은 눈물을 글썽이며 매기와의 추억을 떠올렸다.+어차피 마지막이니 뭐라도 해 주고 싶었다.+캐서린은 여태까지 입금만 하고 아까워서 써보지도 못했던 개인 금고를 열어, 그동안 고생해서 모은 숫자를 바라봤다.
+NPC-Scalper(2)<Speaker>캐서린</Speaker>||:<color=#A9A9A9>넌 잘 살아야 해...</color>+<color=#A9A9A9>나의 몫까지 함께...</color>
+()||<SE1>AVG_Card_Reader</SE1>:금고의 잔액이 0이 되니 오히려 홀가분한 기분이었다.+몽둥이를 든 도적이 코앞까지 오자, 캐서린은 눈을 질끈 감았다.
+()||<SE1>AVG_footsteps_cave</SE1>:그녀를 둘러멘 도적은 걸음을 멈추지 않고 다른 도적들을 지나쳐 날씨 화창한 문 밖으로 향했다.
+()||<黑点1><SE1>Stop_AVG_loop</SE1>:
+()||<黑点2><BIN>86</BIN><SE1>AVG_Door_Hit</SE1>:쿵! 콰당!+쓰레기를 버리듯이, 도적이 캐서린을 문 밖으로 집어던졌다.
+NPC-Scalper(2)<Speaker>캐서린</Speaker>||:꺄아아악——!
+()||:드럼통 속에 갇힌 캐서린은 데구르르 도로 중앙으로 굴러갔다.
+()<Speaker>도적단</Speaker>||:.....
+()||<SE1>AVG_20Winter_Door_Close</SE1>:쾅! 한편 도적은 문을 굳게 닫았다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:...엉?
+()||:통 안에서 꼼짝 못하는 캐서린은 기사회생하고서도 어안이 벙벙했다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:뭐야...+나...+산 거야?
+()||<BGM>BGM_Empty</BGM><SE1>AVG_20Winter_Horn_Car</SE1>:빵빵! 자동차 경적 소리가 들렸다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:아차! 나 지금 도로 한가운데지!+우... 움직일 수가 없어! 인형 살려!
+()||<SE1>AVG_Car_Skid</SE1>:끼익. 자동차 한 대가 드럼통 앞에 멈췄다.
+()||<SE1>AVG_footsteps_cave</SE1>:차 문이 열리고, 가느다란 두 다리가 차에서 내려 캐서린에게 다가왔다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:오, 오지 마!
+()||:시멘트에 단단히 갇힌 캐서린은 고개를 들어 다가오는 게 누군지 볼 수조차 없었다.
+()<Speaker>？？</Speaker>||Stop_AVG_loop</SE1>:캐서린, 나야.
+NPC-Scalper(2)<Speaker>캐서린</Speaker>||<BGM>GF_2022_Summer_AVG_1</BGM><SE1>:윽... 으흑... 매기이이!!
+()||:친절한 목소리가 온몸에 스며들었다. 마치 성모 마리아의 자장가처럼.
+ColtWalker(2)<Speaker>매기</Speaker>||:수고했어, 이제 집에 가자.
+NPC-Scalper(2)<Speaker>캐서린</Speaker>||:네가 해결한 거야? 어떻게?
+ColtWalker(1)<Speaker>매기</Speaker>||:......+차에서 얘기해.
+()||<SE1>AVG_File_Put</SE1>:매기는 힘겹게 캐서린이 든 드럼통을 차에 실었다.
+()||<黑屏1>:
+()||<黑屏2><BIN>532</BIN><narrator>:2년 후, 바르샤바 전철역.
+()||<SE1>AVG_tele_connect</SE1>:사람들 사이에 뒤섞인 매기가 미소를 지은 채 통신을 걸었다.
+ColtWalker(1)<Speaker>매기</Speaker>||:캐서린, 계획 수정이다.
+NPC-Scalper(0)<Speaker>캐서린</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>응?</color>
+NPC-Scalper(0)<通讯框>;ColtWalker(1)<Speaker>매기</Speaker>||:좀 일찍 탑승해야 해, 지금 바로 각자 위치에서 대기한다.
+NPC-Scalper(0)<Speaker>캐서린</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>...알았어, 큄비는?</color>
+NPC-Scalper(0)<通讯框>;ColtWalker(1)<Speaker>매기</Speaker>||:우리 억만 재산을 지킬 사람도 있어야지.
+NPC-Scalper(3)<Speaker>캐서린</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>나도 한 재산 지키는데!</color>
+NPC-Scalper(3)<通讯框>;ColtWalker(1)<Speaker>매기</Speaker>||:억만 재산엔 절대적으로 믿을 수 있는 집사를 붙여야 하지 않겠어?
+NPC-Scalper(3)<Speaker>캐서린</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>......</color>+<color=#00CCFF>매기, 이번 건만 해치우면 우리 은퇴해도 되는 거야?</color>
+ColtWalker(1)<Speaker>매기</Speaker>||:인형이 무슨 얼어죽을 은퇴야? 끝없는 윤회만 있을 뿐이지.
+()||<SE1>AVG_tele_disconnect</SE1>:캐서린은 통신을 끊었다.+매기는 모자챙을 눌러쓰고 인파 속에 녹아들었다.+기다란 대륙간 열차가 승강장에 멈추어 이야기의 막이 오르는 것을 기다리고 있었다.
+()||<黑点1>:

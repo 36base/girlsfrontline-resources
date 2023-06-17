@@ -1,0 +1,139 @@
+
+npc-doctor.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm1
+  rotate: false
+  xy: 225, 49
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: true
+  xy: 42, 2
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 68, 2
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: true
+  xy: 103, 20
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: true
+  xy: 66, 22
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: true
+  xy: 195, 2
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: false
+  xy: 195, 25
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 219, 27
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: true
+  xy: 136, 19
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: false
+  xy: 225, 73
+  size: 27, 35
+  orig: 27, 35
+  offset: 0, 0
+  index: -1
+Walkingstick
+  rotate: true
+  xy: 168, 52
+  size: 11, 54
+  orig: 11, 54
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 168, 65
+  size: 55, 61
+  orig: 55, 61
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: false
+  xy: 169, 19
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+handkerchief
+  rotate: true
+  xy: 87, 2
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 49
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+head2
+  rotate: false
+  xy: 85, 49
+  size: 81, 77
+  orig: 81, 77
+  offset: 0, 0
+  index: -1
+loosecoat1
+  rotate: true
+  xy: 2, 7
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+loosecoat2
+  rotate: true
+  xy: 225, 110
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 27
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1

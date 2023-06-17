@@ -1,0 +1,53 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>356</BIN><黑屏2><BGM>BGM_Brain</BGM>:일주일 후, 보르 브 자코녜의 임시 거점.
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:글레프는 옆에 있는 총기 탄약의 점검을 마치고, 일어서서 테이블 중앙에 올려져 있는 술집 건물 모형을 주시했다.
+NPC_girill(2)<Speaker>글레프</Speaker>||:지시사항은 다 전달했어? 다들 자신의 임무를 명심하고 있지?
+NPC-Elijah(0)<Speaker>발레리야</Speaker>||:그래, 이미 여러번 확인했어.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:발레리야는 어두운 문가에서 천천히 다가와 차가운 두 손으로 남편의 넥타이를 고쳐 매주었다.
+NPC-Elijah(0)<Speaker>발레리야</Speaker>||:당신이 시킨 대로 기관단총에 전부 소음기를 달았어. 신발도 다 부드러운 재질로 신겼으니까, 나무 바닥에서도 아무 소리 안 날 거야.
+NPC_girill(2)<Speaker>글레프</Speaker>||:도끼는 가져왔어?
+()<Speaker></Speaker>||:발레리야가 문 옆의 소파를 가리켰다. 초승달 같은 하얀 빛이 구멍난 검은 가죽 위에 누워서 서슬 퍼런 기운을 내뿜었다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:글레프는 미소 짓고 도끼를 들어 날을 한번 훑고선 등 뒤에 둘러멨다.
+NPC_girill(2)<Speaker>글레프</Speaker>||:손모가지 써는 덴 이것보다 안성맞춤인 게 없지.+"수석 금융가"도 분명 선물에 만족할 거야... 안 그래, 우리 사랑스런 바네사?
+NPC-Elijah(0)<Speaker>발레리야</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:글레프는 호탕하게 웃으며 문을 열었다. 문 밖에는 미리 지시를 받은 부하들이 대기하고 있었다.
+NPC_girill(2)<Speaker>글레프</Speaker>||:오늘 밤은 적의 피로 목을 축이자!+<size=50>출발한다!</size>
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>168</BIN><黑屏2><BGM>GF_21winter_avg_nightbar</BGM>:한 겨울, 시가지엔 아직 밤의 기운이 가시지 않고 있었다. 길가의 "루뱐카"란 이름의 작은 술집도 그중 일부였다.+하지만 이 평범해 보이는 술집을 신소련의 정계 인사들이 자주 찾는다는 것을 아는 사람은 드물었다.+그곳은 그들이 마음 놓고 업무로 쌓인 피로를 푸는 천국이자, 오늘 글레프의 사냥터였다.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1><SE1>AVG_footsteps_cave</SE1>:동이 틀 무렵, 검은 옷의 행인 두 명이 루뱐카 술집 문 앞에서 걸음을 멈췄다.
+()<Speaker>경비원</Speaker>||<SE1>Stop_AVG_loop</SE1>:신분증을——
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=6</controll_shake><SE1>AVG_gun_silencer</SE1><SE1>AVG_Bullet_Drop</SE1>:탕!
+()<Speaker></Speaker>||<BGM>GF_21winter_battle_3</BGM><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=6</controll_shake><SE1>AVG_gun_silencer</SE1><SE1>AVG_Bullet_Drop</SE1>:탕!+말이 떨어지기도 전에 두 경비원은 한 치의 오차도 없이 쓰러졌다.
+()<Speaker></Speaker>||<震屏3><BIN>313</BIN><SE1>AVG_Door_Hit</SE1>:검은 옷들이 루뱐카의 정문을 박차고 들어왔다.
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_The_Division_Machine_Gun_Tower_Shooting</SE1>:타타타타탕——!+마치 사전에 연습이라도 한 듯이, 검은 옷은 주저없이 바 카운터 쪽에 총알을 퍼부었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>313</BIN><黑点2><SE1>AVG_Team_Running</SE1>:얼마 후, 술집의 세 곳 문에서 동시에 쳐들어온 여섯 명은 1층 중앙에 다시 모였다.
+NPC-Elijah(0)<Speaker>발레리야</Speaker>||:밖의 경비원은 전부 다 죽였어. 1층은 정리 끝났지만, 목표는 못 찾았어.
+NPC_girill(2)<Speaker>글레프</Speaker>||:좋아, 너희는 여길 잘 정리하고 있어, 2층은 나한테 맡기고.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:글레프는 흉악하게 웃으며 발레리야의 어깨를 가볍게 토닥이고, 바닥에 떨어져 깨진 샹들리에를 넘어 피 묻은 황금색 그림을 밟고 계단으로 올라갔다.
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑点2>:루뱐카 술집의 어느 방.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>97</BIN><Night>:미약하고 흔들리는 촛불 밑에 한 유력 정치인이 팔베개를 한 채 소파 위에 드러누워 있었다. 살며시 올라간 입꼬리만 봐도 달콤한 꿈을 꾸고 있는 것을 알 수 있었다.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:퍽 하는 소리와 함께, 누군가 그를 바닥에 걷어차, 반쯤 벗겨진 뒤통수를 바닥에 찧었다.
+()<Speaker>정치인</Speaker>||:아흐... 씨X 누구야...!?
+()<Speaker></Speaker>||:정치인은 머리를 문지르며 소파를 짚고 어기적어기적 일어나, 술냄새가 진동하는 트림을 연이어 해대며 비몽사몽 중이었다.
+()<Speaker></Speaker>||<SE1>Select</SE1>:글레프가 씨익 웃으며 품에서 권총을 꺼냈다.+차가운 쇳덩이가 이마에 닿고, 강중유의 냄새와 총알이 장전되는 소리를 인식하고서야 정치인은 정신을 차렸다.
+()<Speaker>정치인</Speaker>||:너너, 너 뭐야!? 내가 누군진 알아!?
+()<Speaker></Speaker>||:글레프는 의미심장하게 웃었다. 한 나라를 주무르는 높으신 분이 자신 같은 일개 KGB 요원을 기억은 할까?+이 사람뿐만 아니라 평생 굶을 걱정 없는 소위 "금수저"들 중에 자신 같은 잡것의 생사를 신경 써줄 사람은 과연 있기나 할까?
+()<Speaker>정치인</Speaker>||:도, 돈이라면 말해! 얼마든지 줄 테니까! 내 목숨을 걸고 약속...
+NPC_girill(2)<Speaker>글레프</Speaker>||:필요 없습니다, 아저씨. 저는 그냥 "수석 금융가" 어르신 대신 안부 전해드리러 왔습니다.+안녕히 주무시라고.
+()<Speaker></Speaker>||<SE1>AVG_gun_silencer</SE1><controll_shake>%%type_id=2%%duration=0.5%%delay=0.1%%range=8</controll_shake><SE1>AVG_Bullet_Drop</SE1>:탕!+총성이 울리고 정치인은 피웅덩이 한가운데 쓰러졌다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:글레프는 만족하며 총을 내리고 정치인의 오른손을 들었다. 기억 속 모습 그대로, 그의 오른손 약지에는 신분과 지위를 상징하는 루비 반지가 끼어있었다.
+()<Speaker></Speaker>||:글레프는 히죽 웃으며 등 뒤의 도끼를 뽑았고...
+()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1><BIN>9</BIN><BGM>BGM_Empty</BGM>:은빛이 어둠 속에서 번뜩하더니 반지가 손가락에서 빠져나와 나무 장판 위에서 두 바퀴 구르고선 글레프의 발치에 멈췄다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>313</BIN><关闭蒙版><黑屏2><SE1>AVG_footsteps_woodfloor</SE1>:글레프가 1층에 돌아왔을 때 발레리야와 다른 네명은 이미 가솔린을 술집 구석구석에 뿌려놓은 상태였다.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:발레리야는 글레프에게 눈빛으로 질문을 던졌다. 글레프는 득의양양한 미소를 지었다.
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>168</BIN><黑点2>:시가지에서 멀리 떨어진 곳에 사이렌 소리가 들려왔다.+일행은 거리로 나가 사전에 준비한 검정색 밴의 시동을 걸었다.
+()<Speaker></Speaker>||:떠나기 전에 글레프는 고개를 숙이고 담배에 불을 붙였다.+그리고는 연기를 마시고 뱉으면서 루뱐카 술집을 마지막으로 훑어본 후, 쓰레기를 버리듯 담배 꽁초를 깨진 유리창 안에 던졌다.
+()<Speaker></Speaker>||<震屏3><火花><SE1>AVG_20Winter_Burnfire_Loop</SE1><SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:퍼엉!+활활 타오르는 불꽃을 배경으로, 검정색 밴은 뒤도 돌아보지 않고 빠르게 시가지를 벗어났다...
+()||<黑点1>:

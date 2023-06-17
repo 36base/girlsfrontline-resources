@@ -1,133 +1,133 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<SE2>Gunfight</SE2><BIN>485</BIN><震屏3><SE1>AVG_Cloak_Whoosh</SE1><BGM>GF_21summer_intro_DemonVariation</BGM><黑点2>:빗발치는 총탄, 중화기의 폭발, 근거리 기습... 틸은 단신으로 온갖 공격에 능숙하게 대항했다.
-()<Speaker></Speaker>||<SE1>AVG_Bullte_Ricochet</SE1><SE1>AVG_20Winter_Knife_Whoosh</SE1>:손에 쥔 검은 마치 몸의 일부인 듯, 유연하게 대기를 가르며 공격과 방어를 행했다. 그야말로 경지에 이른 검술이었다.+하지만, 장도 하나로 쉴 새 없이 쏟아지는 공격을 모조리 막아내기란 불가능에 가까웠다.
-()<Speaker></Speaker>||<SE1>Explode</SE1><BIN>9</BIN><黑屏2>:그리고 총성에 뒤이어 날아든 포격이 지근거리에서 틸을 덮쳤다.
-()<Speaker></Speaker>||<SE1>AVG_tinnitus_0</SE1>:자갈과 모래가 사방으로 튀며 세상이 뒤집어졌고, 틸은 언덕 아래로 굴러떨어졌다.+마치 호수 깊숙이 빠진 듯, 찢어지는 굉음은 희미하게 들리고 시야에는 검은 얼룩이 꼈다.
-NPC-grig(3)<Speaker>틸</Speaker><Shake>0.1</Shake>||:......?!
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:틸은 이를 아랑곳않으면서 다시 칼을 잡고 일어나려 했지만, 어째선지 칼이 잡히질 않았다.+이상해하며 고개를 돌려 본 뒤에야, 칼을 쥐던 손이 없어진 것을 알아챘다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:하지만 망설일 틈은 없었다. 틸은 곧장 다른 손으로 칼을 잡고, 몸을 일으켜 세웠다.
-NPC-grig(3)<Speaker>틸</Speaker>||:그레이...
-()<Speaker></Speaker>||:오래된 전구처럼 점멸하는 시야에, 그녀를 향해 점점 다가오는 흐릿한 형체들이 들어왔다.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:맹렬한 총성은 미약한 바람 소리 같았고, 다리에는 족쇄가 채워진 것 같았다.+그럼에도 그녀는 일어나 검을 단단하게 고쳐 쥐었다.
-NPC-grig(3)<Speaker>틸</Speaker>||:다시...+다시 보자 약속했어...+아베르누스에서, 반드시...
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:칼날에 비치는 그녀의 눈빛은, 여전히 날카롭게 번뜩였다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>485</BIN><BGM>BGM_Empty</BGM>:블랙존의 다른 위치.+질소와 철분 팀의 이동 경로를 따라, 나머지 작전팀도 "죽음의 바다"로 진입했다.+모나가 제공한 정보 덕분에, 팀원들은 "죽음의 바다"의 상식에서 벗어난 특성에 금방 적응할 수 있었고, 계획대로 목표의 추적을 개시했다.
-RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>GF_22W_BGM_2</BGM><SE1>AVG_tele_connect</SE1>:질소, 철분, 우리도 "죽음의 바다"로 진입했습니다.
-()<Speaker>모나</Speaker>||<SE2>Gunfight</SE2>:<color=#00CCFF>질소 수신. 현재 우리는 틸과 교전 중입니다만 몰리도와 그레이는 보이지 않습니다. 상황이 정리되는 대로 다시 연락하겠습니다.</color>
-()<Speaker></Speaker>||:회의실을 거치지 않아도, RO635는 저멀리서 치열한 전투로 인한 소음을 들었다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:틸이... 알겠습니다.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<SE1>AVG_tele_disconnect</SE1>:RO, 이쪽엔 아무 흔적도 없는데 어떻게 쫓지?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:몰리도의 추적기 신호도 유효 범위를 진작에 이탈했어.
-RO635Mod(0)<Speaker>RO635</Speaker>||:지금 질소와 철분 팀이 틸과 교전 중이야. 분명 시간을 끌기 위해 일부러 나타난 거겠지...+아무래도 목표를 뒤쫓을 단서를 또 놓쳐버린 거 같은데...
-()<Speaker></Speaker>||:또 다시 단서가 끊기자, RO635는 고민에 빠졌다.
-XM8MOD(0)<Speaker>XM8</Speaker>||:대장, 아까 내가 오라고 했던 버려진 초소 기억하지?
-XM8MOD(0);RO635Mod(0)<Speaker>RO635</Speaker>||:응, 패러데우스의 흔적이 상당히 많았어.
-XM8MOD(0)<Speaker>XM8</Speaker>;RO635Mod(0)||:내가 너희 기다리면서 좀 조사했거든?+보니까, 그 초소에 남은 데이터베이스 찌꺼기에 통신 채널의 흔적이 있더라고. 분명 다른 데에도 초소가 있는 게 분명해.
-XM8MOD(0);RO635Mod(3)<Speaker>RO635</Speaker>||:초소를 여럿 지었다면, 분명 제일 중요한 건물을 중심으로 배치했을 거야... 다른 초소들은 어디 있는지 알아낼 수는 없을까?
-XM8MOD(0)<Speaker>XM8</Speaker>||:무슨 초소든 정기적으로 본부에 연락해야 하는 법인데, 신호를 송수신하는 설비도 있겠지.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:그럼 초소가 발송하는 신호를 포착할 수만 있다면...
-RO635Mod(0)<Speaker>RO635</Speaker>||:은밀성을 유지하면서 목표 지점까지 접근할 수 있겠다.+45 씨, 신호 탐지 가능한가요?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:지금 하는 중이야.
-()<Speaker></Speaker>||:UMP45와 UMP9은 곧장 초소의 단서를 찾기 시작했다.+XM8도 지금까지 알아낸 정보를 바탕으로 다른 초소들의 위치를 추측해 보았다.
-()<Speaker></Speaker>||<SE1>AVG_Geiger_Counter</SE1>:하지만 차원이 다른 붕괴 복사 농도로 각종 장치들이 작동에 심각한 영향을 받는 통에, RO635는 도저히 잠시도 가만 있을 수가 없었다.
-RO635Mod(2)<Speaker>RO635</Speaker>||:으... 붕괴 복사 농도가 높아도 너무 높아...
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:덕분에 우리만이 아니라 적에게도 걸림돌이지. 놈들이 쓸 수 있는 설비는 엄청 제한적일 거야.
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Baggage_bomb_Activation</SE1>:그때, UMP45의 손 옆의 설비에서 소리가 났다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:찾아냈나요?
-UMP9Mod(6)<Speaker>UMP9</Speaker>||:대충 방향만.+너무 멀어선지 복사의 영향 때문인지, 신호가 아주 약해.
-RO635Mod(0)<Speaker>RO635</Speaker>||:일단 그쪽을 수색해보죠.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:주변 지형 대충 정찰했으니까 내가 앞장설게!
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><SE1>AVG_Team_Running</SE1>:녹색 안개는 시야를 가리고, 바닥의 울퉁불퉁하고 이질적인 지형은 자꾸만 발을 걸어 넘어뜨리려 했다.+게다가 블랙존으로 진입한 이후로 지면의 진흙마저 단단한 돌덩이가 되어버려, 걸음에 부담을 가중했다.+복잡한 지형과 붕괴 입자의 방해로 인해 인형들의 행군은 레드존에서보다도 더뎌졌다.
-UMP9Mod(2)<Speaker>UMP9</Speaker>||:왜 이러지...? 한참을 걸은 거 같은데 얼마 못 움직였네!?
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:뭐어? 우리 계속 일직선으로 엄청 오래 걷지 않았어?
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:계속 고개를 숙이고 추리하던 XM8이, 갑자기 고개를 홱 들었다.
-XM8MOD(0)<Speaker>XM8</Speaker>||:이 체스 마스터의 직감상, 우리 거의 다 왔어.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:맞아, 한참 멀리 있었으면 애초에 신호도 안 잡혔을 거야.
-UMP9Mod(2)<Speaker>UMP9</Speaker>||:그럼 대체 어디 있지...
-RO635Mod(0)<Speaker>RO635</Speaker>||:......
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:쿠르릉...
-()<Speaker></Speaker>||:그때 들려온 부자연스러운 소음에, 인형들은 잽싸게 여기저기의 바위 뒤로 몸을 숨기고 조심스레 너머를 엿보았다.
-RO635Mod(0)<Speaker>RO635</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>단거리 통신 채널 오픈.</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>엑, 도청당하지 않을까?</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>괜찮아, 지금 RO가 전개한 통신 채널은 가청 범위가 엄청 좁아서 놈들한텐 닿지도 않아.</color>
-UMP9Mod(4)<Speaker>UMP9</Speaker>||:<color=#00CCFF>방금 그거 무슨 소리야? 엄청 무거운 게 땅을 막 뭉개면서 가는 소리 같았는데...</color>
-XM8MOD(0)<Speaker>XM8</Speaker>||:<color=#00CCFF>전조등이다!</color>
-()<Speaker></Speaker>||<SE1>AVG_Moto_Run</SE1>:어두운 좁은 길 위에 두 등불이 어둠을 뚫었다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>패러데우스의 수송 차량... 우리가 제대로 짚었어.</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>가서 저거 뺏을까? 그럼 안 걸어다녀도 되는데.</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>안 돼. 지금 적에게 발각되면 큰일나.</color>
-()<Speaker></Speaker>||:잡아먹을 듯 주시하는 다섯 명의 시선을 받는지도 모르는 그 등불은, 천천히 "죽음의 바다"을 나가는 방향으로 사라졌다.
-XM8MOD(0)<Speaker>XM8</Speaker>||<SE1>ClothingUp</SE1>:<color=#00CCFF>대장, 저쪽!</color>
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>486</BIN>:XM8이 흥분해 떨리는 손가락으로 수송 차량을 발견했던 곳을 가리켰다.+어둠과 안개 너머로 흐릿하게, 시꺼먼 암석 위에 우뚝 선 회색 건물이 보인 것이었다.
-XM8MOD(0)<Speaker>XM8</Speaker>||:<color=#00CCFF>...아마 초소일 거야.</color>
-RO635Mod(5)<Speaker>RO635</Speaker>||:<color=#00CCFF>찾았다...!</color>
-()<Speaker></Speaker>||:RO635도 흥분되는 마음을 다잡으며 침착하게 답했다.
-UMP9Mod(3)<Speaker>UMP9</Speaker>||:<color=#00CCFF>정말이다...</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>이제 어떡해?</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>계획대로 해야지. 최대한 적의 주의를 끌지 않고 은밀하게 저 초소를 점령해야 해.</color>+<color=#00CCFF>SOP2, 같이 선봉을 맡자. 45 씨와 9 씨는 우리 뒤를 맡아 주세요.</color>+<color=#00CCFF>XM8은 후방 경계. 증원이 올지도 모르니 적의 동향을 살피도록 해.</color>
-()<Speaker>소대 일동</Speaker>||:<color=#00CCFF>라저!</color>
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_Team_Running</SE1>:단순히 밤하늘 때문만이 아닌 어둠에 몸을 숨기고, 5명의 인형들은 초소로 접근했다.
-()||<黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑点2><震屏3><BIN>485</BIN><BGM>10230</BGM><SE1>Explode</SE1><SE1>AVG_Gunfire</SE1>:콰아앙!!+아키텍트와 게이저의 지원 포격에 이미 제압됐던 패러데우스는 바로 진형이 무너져 버렸고, 모나와 라이노의 팀워크에 픽픽 쓰러져 나갔다.
-NPC-grig(3)<Speaker>틸</Speaker><Shake>0.1</Shake>||:<size=50>...크윽!</size>
-()<Speaker></Speaker>||:그리고 울퉁불퉁한 지형에 불리한 틸은 아키텍트의 무차별 포격 세례 때문에 속도가 더욱 크게 떨어졌다.+이동 범위가 제한되자, 안개도 더는 그녀를 숨겨 주지 못했다.
-QBZ191(0)<Speaker>9호</Speaker>||<SE1>Select</SE1>:지금이다!
-()<Speaker></Speaker>||<SE1>AVG_Gatling_gun</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:그리고 틸이 빈틈을 보인 순간, 계속 주시하던 9호가 기회를 놓치지 않고 그녀를 향해 탄창의 탄환을 모조리 쏟아부었다.
-NPC-grig(3)<Speaker>틸</Speaker><Shake>0.1</Shake>||:——!?
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1><SE1>AVG_Bullte_Ricochet</SE1>:피하기엔 너무 늦어, 틸은 칼을 들어 날아드는 총탄을 막아냈다.+하지만 그 와중에 보인 것이 그녀를 절망에 빠뜨렸다.
-BOSS-9(0)<Speaker>아키텍트</Speaker>||<SE1>AVG_weapon_reload</SE1>:야호~+에이전트한테 들었는데, 너 이런 거에 좋아 죽는다며?
-NPC-grig(3)<Speaker>틸</Speaker>||:......!!
-()<Speaker></Speaker>||:아주 찰나의 망설임 때문에, 아키텍트가 발사한 로켓에 정통으로 맞고 말았다.
-()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:콰앙!!!
-SP9(3)<Speaker>모나</Speaker>||:라이노!
-Rhino(0)<Speaker>라이노</Speaker>||:OK!
-()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><SE1>AVG_Grey_Hand_Mech</SE1>:라이노가 모나와 함께 바로 달려들어, 힘을 합쳐 틸을 제압하고 다른 한 팔도 무력화했다.
-()<Speaker></Speaker>||<SE1>Select</SE1>:결착이 나자, 9호는 경계는 풀지 않으면서 무기를 내렸다.
-()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:게이저와 한껏 우쭐해진 아키텍트도 무기를 등에 메고 모나 일행과 다시 합류했다.
-NPC-grig(3)<Speaker>틸</Speaker>||<SE1>AVG_whitenoise</SE1>:......
-()<Speaker></Speaker>||:절망해서일까, 아님 다른 이유에서일까. 라이노에겐 틸의 금빛 눈동자가 마치 녹슬어버린 도금판처럼 빛을 잃은 것처럼 보였다.+다만 틸은 의연한 표정으로 다시 고개를 들었다.
-NPC-grig(3)<Speaker>틸</Speaker>||:나는 사명을 다했다.+네놈들이 내게서 얻을 것은 없어.
-Rhino(0)<Speaker>라이노</Speaker>||:...이런 정신 나간 녀석.
-()<Speaker></Speaker>||<SE1>AVG_Camera_Focus</SE1>:라이노는 혀를 차며 총을 들었다.
-Rhino(0)<Speaker>라이노</Speaker>||:죽기 직전인데도 입은 살았구나.
-BOSS-9(0)<Speaker>아키텍트</Speaker>||:엥, 여기서 죽이려고? 안 잡아가?
-BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:먼저 사지부터 자른다 하지 않았던가?
-BOSS-9(0)<Speaker>아키텍트</Speaker>||<SE1>ClothingUp</SE1>:오, 그건 내가 또 전문이지!
-Rhino(0)<Speaker>라이노</Speaker>||:뭐? 잠깐, 설마 네 무기로 할 셈은――
-SP9(3)<Speaker>모나</Speaker>||:<size=50>――모두 회피하세요!</size>
-Rhino(0)<Speaker>라이노</Speaker><Shake>0.1</Shake>||:――?!!
-()<Speaker></Speaker>||:일행이 틸의 처분을 놓고 논의하던 그때, 가장 먼저 낌새를 느낀 모나가 소리쳤다.
-()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1><BGM>BGM_Empty</BGM>:쉬이익――
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:거의 동시에, 예리한 칼날들이 바람을 가르며 날아와 인형들 주변의 암석들을 토막냈다.+그리고 뒤이어...
-()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:<size=50>콰아아앙!!</size>+부유하는 칼날들이 뿜어낸 포격에, 토막난 암석 조각들은 폭발하여 엄청난 살상력을 지닌 파편으로 변해 사방으로 튀었다.
-QBZ191(0)<Speaker>9호</Speaker>||<SE1>RunStep</SE1>:엎드려!
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:<size=50>쾅!!!</size>
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:<size=50>콰앙!!!!</size>
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:<size=50>콰아앙!!!!!</size>
-()<Speaker>???</Speaker>||<震屏3><SE1>AVG_Jet_Passby</SE1><BGM>10227</BGM>:<size=50>캬하하하하핫!!</size>+<size=50>어디야? 어딨어! 감히 우리 언니 쫓아다닌 버러지들!!</size>
-()<Speaker>???</Speaker>||:<size=50>잘도 여기까지 따라온 쓰레기들 어딨냐고!!!</size>
-()<Speaker></Speaker>||:하늘에서 광소하는 목소리가 들려왔다. 그 익숙한 목소리에, 틸은 눈을 부릅뜨며 반사적으로 고개를 들었다.
-NPC-grig(3)<Speaker>틸</Speaker>||:이 목소리...+나르시스...!
-()<Speaker></Speaker>||:그리고 하얀 그림자가 하늘에서 떨어졌다.
-()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:콰앙!!
-()||<黑点1>:
-()<Speaker></Speaker>||<火花><黑点2>:조종사를 잃은 하얀 비행기는 목 잘린 파리처럼 추락해, 자갈 더미에 꽂히며 굉음과 강렬한 폭발, 불길을 일으켰다.+그리고 묵직한 소리를 내며 착지한 왜소한 소녀는, 어째선지 주위의 공기마저 얼어붙는 듯한 분위기를 자아냈다.
-Narciss(1)<Speaker>나르시스</Speaker>||:어라? 왜 너만... 어... 그러니까... 너 이름이 뭐였더라?+아 몰라, 그레이의 똘마니. 우리 언니 어딨어?
-NPC-grig(3)<Speaker>틸</Speaker>||:그레이가... 데려갔다...
-Narciss(2)<Speaker>나르시스</Speaker>||:<size=50>뭐어라고오오!?</size>+<size=50>제기랄! 그 자식 나한테 말도 안 하고 잘도――</size>
-NPC-grig(3)<Speaker>틸</Speaker>||:......
-Narciss(1)<Speaker>나르시스</Speaker>||:...잠깐, 그럼 너 혼자 남아서 저것들이랑 싸운 거야?+저딴 쓰레기들 상대로 그 꼴이라고? 진짜 약해 빠졌네 이 폐급 녀석...
-QBZ191(2)<Speaker>9호</Speaker>||<SE1>Select</SE1>:뭐야 저건 또... 지금 우리 무시하는――
-SP9(3)<Speaker>모나</Speaker><Shake>0.1</Shake>||<SE1>RunStep</SE1><SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:9호!
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:부웅!+나르시스가 눈길도 돌리지 않고 부유검을 휘둘렀다.
-()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1><震屏3>:그러자 모나가 9호를 밀쳐낸 그 자리의 바위가, 말끔한 절단면을 따라 바닥으로 미끄러져 박살났다.
-Narciss(1)<Speaker>나르시스</Speaker>||:쓰레기가... 누가 나 말하는 중에 입 열래!?
-NPC-grig(3)<Speaker>틸</Speaker>||:나르시스...
-Narciss(1)<Speaker>나르시스</Speaker>||:폐급도 닥쳐.+뭐, 그래도 널 구했으니 언니가 칭찬해 주겠지?+이 쓰레기들 처리하면 언니가 더 칭찬해 줄 테고...+칭찬이 두 배... 헤헤, 아주 좋아...
-Narciss(2)<Speaker>나르시스</Speaker>||<震屏3>:그러니까, 너네 다 얌전히 <size=50>죽어!!!</size>
-()<Speaker></Speaker>||<SE1>Explode</SE1><BIN>9</BIN>:콰앙!!
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<SE2>Gunfight</SE2><BIN>485</BIN><震屏3><SE1>AVG_Cloak_Whoosh</SE1><BGM>GF_21summer_intro_DemonVariation</BGM><黑点2>:빗발치는 총탄, 중화기의 폭발, 근거리 기습... 틸은 단신으로 온갖 공격에 능숙하게 대항했다.
+()<Speaker></Speaker>||<SE1>AVG_Bullte_Ricochet</SE1><SE1>AVG_20Winter_Knife_Whoosh</SE1>:손에 쥔 검은 마치 몸의 일부인 듯, 유연하게 대기를 가르며 공격과 방어를 행했다. 그야말로 경지에 이른 검술이었다.+하지만, 장도 하나로 쉴 새 없이 쏟아지는 공격을 모조리 막아내기란 불가능에 가까웠다.
+()<Speaker></Speaker>||<SE1>Explode</SE1><BIN>9</BIN><黑屏2>:그리고 총성에 뒤이어 날아든 포격이 지근거리에서 틸을 덮쳤다.
+()<Speaker></Speaker>||<SE1>AVG_tinnitus_0</SE1>:자갈과 모래가 사방으로 튀며 세상이 뒤집어졌고, 틸은 언덕 아래로 굴러떨어졌다.+마치 호수 깊숙이 빠진 듯, 찢어지는 굉음은 희미하게 들리고 시야에는 검은 얼룩이 꼈다.
+NPC-grig(3)<Speaker>틸</Speaker><Shake>0.1</Shake>||:......?!
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:틸은 이를 아랑곳않으면서 다시 칼을 잡고 일어나려 했지만, 어째선지 칼이 잡히질 않았다.+이상해하며 고개를 돌려 본 뒤에야, 칼을 쥐던 손이 없어진 것을 알아챘다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:하지만 망설일 틈은 없었다. 틸은 곧장 다른 손으로 칼을 잡고, 몸을 일으켜 세웠다.
+NPC-grig(3)<Speaker>틸</Speaker>||:그레이...
+()<Speaker></Speaker>||:오래된 전구처럼 점멸하는 시야에, 그녀를 향해 점점 다가오는 흐릿한 형체들이 들어왔다.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:맹렬한 총성은 미약한 바람 소리 같았고, 다리에는 족쇄가 채워진 것 같았다.+그럼에도 그녀는 일어나 검을 단단하게 고쳐 쥐었다.
+NPC-grig(3)<Speaker>틸</Speaker>||:다시...+다시 보자 약속했어...+아베르누스에서, 반드시...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:칼날에 비치는 그녀의 눈빛은, 여전히 날카롭게 번뜩였다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>485</BIN><BGM>BGM_Empty</BGM>:블랙존의 다른 위치.+질소와 철분 팀의 이동 경로를 따라, 나머지 작전팀도 "죽음의 바다"로 진입했다.+모나가 제공한 정보 덕분에, 팀원들은 "죽음의 바다"의 상식에서 벗어난 특성에 금방 적응할 수 있었고, 계획대로 목표의 추적을 개시했다.
+RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>GF_22W_BGM_2</BGM><SE1>AVG_tele_connect</SE1>:질소, 철분, 우리도 "죽음의 바다"로 진입했습니다.
+()<Speaker>모나</Speaker>||<SE2>Gunfight</SE2>:<color=#00CCFF>질소 수신. 현재 우리는 틸과 교전 중입니다만 몰리도와 그레이는 보이지 않습니다. 상황이 정리되는 대로 다시 연락하겠습니다.</color>
+()<Speaker></Speaker>||:회의실을 거치지 않아도, RO635는 저멀리서 치열한 전투로 인한 소음을 들었다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:틸이... 알겠습니다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<SE1>AVG_tele_disconnect</SE1>:RO, 이쪽엔 아무 흔적도 없는데 어떻게 쫓지?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:몰리도의 추적기 신호도 유효 범위를 진작에 이탈했어.
+RO635Mod(0)<Speaker>RO635</Speaker>||:지금 질소와 철분 팀이 틸과 교전 중이야. 분명 시간을 끌기 위해 일부러 나타난 거겠지...+아무래도 목표를 뒤쫓을 단서를 또 놓쳐버린 거 같은데...
+()<Speaker></Speaker>||:또 다시 단서가 끊기자, RO635는 고민에 빠졌다.
+XM8MOD(0)<Speaker>XM8</Speaker>||:대장, 아까 내가 오라고 했던 버려진 초소 기억하지?
+XM8MOD(0);RO635Mod(0)<Speaker>RO635</Speaker>||:응, 패러데우스의 흔적이 상당히 많았어.
+XM8MOD(0)<Speaker>XM8</Speaker>;RO635Mod(0)||:내가 너희 기다리면서 좀 조사했거든?+보니까, 그 초소에 남은 데이터베이스 찌꺼기에 통신 채널의 흔적이 있더라고. 분명 다른 데에도 초소가 있는 게 분명해.
+XM8MOD(0);RO635Mod(3)<Speaker>RO635</Speaker>||:초소를 여럿 지었다면, 분명 제일 중요한 건물을 중심으로 배치했을 거야... 다른 초소들은 어디 있는지 알아낼 수는 없을까?
+XM8MOD(0)<Speaker>XM8</Speaker>||:무슨 초소든 정기적으로 본부에 연락해야 하는 법인데, 신호를 송수신하는 설비도 있겠지.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그럼 초소가 발송하는 신호를 포착할 수만 있다면...
+RO635Mod(0)<Speaker>RO635</Speaker>||:은밀성을 유지하면서 목표 지점까지 접근할 수 있겠다.+45 씨, 신호 탐지 가능한가요?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:지금 하는 중이야.
+()<Speaker></Speaker>||:UMP45와 UMP9은 곧장 초소의 단서를 찾기 시작했다.+XM8도 지금까지 알아낸 정보를 바탕으로 다른 초소들의 위치를 추측해 보았다.
+()<Speaker></Speaker>||<SE1>AVG_Geiger_Counter</SE1>:하지만 차원이 다른 붕괴 복사 농도로 각종 장치들이 작동에 심각한 영향을 받는 통에, RO635는 도저히 잠시도 가만 있을 수가 없었다.
+RO635Mod(2)<Speaker>RO635</Speaker>||:으... 붕괴 복사 농도가 높아도 너무 높아...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:덕분에 우리만이 아니라 적에게도 걸림돌이지. 놈들이 쓸 수 있는 설비는 엄청 제한적일 거야.
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Baggage_bomb_Activation</SE1>:그때, UMP45의 손 옆의 설비에서 소리가 났다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:찾아냈나요?
+UMP9Mod(6)<Speaker>UMP9</Speaker>||:대충 방향만.+너무 멀어선지 복사의 영향 때문인지, 신호가 아주 약해.
+RO635Mod(0)<Speaker>RO635</Speaker>||:일단 그쪽을 수색해보죠.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:주변 지형 대충 정찰했으니까 내가 앞장설게!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><SE1>AVG_Team_Running</SE1>:녹색 안개는 시야를 가리고, 바닥의 울퉁불퉁하고 이질적인 지형은 자꾸만 발을 걸어 넘어뜨리려 했다.+게다가 블랙존으로 진입한 이후로 지면의 진흙마저 단단한 돌덩이가 되어버려, 걸음에 부담을 가중했다.+복잡한 지형과 붕괴 입자의 방해로 인해 인형들의 행군은 레드존에서보다도 더뎌졌다.
+UMP9Mod(2)<Speaker>UMP9</Speaker>||:왜 이러지...? 한참을 걸은 거 같은데 얼마 못 움직였네!?
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:뭐어? 우리 계속 일직선으로 엄청 오래 걷지 않았어?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:계속 고개를 숙이고 추리하던 XM8이, 갑자기 고개를 홱 들었다.
+XM8MOD(0)<Speaker>XM8</Speaker>||:이 체스 마스터의 직감상, 우리 거의 다 왔어.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:맞아, 한참 멀리 있었으면 애초에 신호도 안 잡혔을 거야.
+UMP9Mod(2)<Speaker>UMP9</Speaker>||:그럼 대체 어디 있지...
+RO635Mod(0)<Speaker>RO635</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:쿠르릉...
+()<Speaker></Speaker>||:그때 들려온 부자연스러운 소음에, 인형들은 잽싸게 여기저기의 바위 뒤로 몸을 숨기고 조심스레 너머를 엿보았다.
+RO635Mod(0)<Speaker>RO635</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>단거리 통신 채널 오픈.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>엑, 도청당하지 않을까?</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>괜찮아, 지금 RO가 전개한 통신 채널은 가청 범위가 엄청 좁아서 놈들한텐 닿지도 않아.</color>
+UMP9Mod(4)<Speaker>UMP9</Speaker>||:<color=#00CCFF>방금 그거 무슨 소리야? 엄청 무거운 게 땅을 막 뭉개면서 가는 소리 같았는데...</color>
+XM8MOD(0)<Speaker>XM8</Speaker>||:<color=#00CCFF>전조등이다!</color>
+()<Speaker></Speaker>||<SE1>AVG_Moto_Run</SE1>:어두운 좁은 길 위에 두 등불이 어둠을 뚫었다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>패러데우스의 수송 차량... 우리가 제대로 짚었어.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>가서 저거 뺏을까? 그럼 안 걸어다녀도 되는데.</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>안 돼. 지금 적에게 발각되면 큰일나.</color>
+()<Speaker></Speaker>||:잡아먹을 듯 주시하는 다섯 명의 시선을 받는지도 모르는 그 등불은, 천천히 "죽음의 바다"을 나가는 방향으로 사라졌다.
+XM8MOD(0)<Speaker>XM8</Speaker>||<SE1>ClothingUp</SE1>:<color=#00CCFF>대장, 저쪽!</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>486</BIN>:XM8이 흥분해 떨리는 손가락으로 수송 차량을 발견했던 곳을 가리켰다.+어둠과 안개 너머로 흐릿하게, 시꺼먼 암석 위에 우뚝 선 회색 건물이 보인 것이었다.
+XM8MOD(0)<Speaker>XM8</Speaker>||:<color=#00CCFF>...아마 초소일 거야.</color>
+RO635Mod(5)<Speaker>RO635</Speaker>||:<color=#00CCFF>찾았다...!</color>
+()<Speaker></Speaker>||:RO635도 흥분되는 마음을 다잡으며 침착하게 답했다.
+UMP9Mod(3)<Speaker>UMP9</Speaker>||:<color=#00CCFF>정말이다...</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:<color=#00CCFF>이제 어떡해?</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:<color=#00CCFF>계획대로 해야지. 최대한 적의 주의를 끌지 않고 은밀하게 저 초소를 점령해야 해.</color>+<color=#00CCFF>SOP2, 같이 선봉을 맡자. 45 씨와 9 씨는 우리 뒤를 맡아 주세요.</color>+<color=#00CCFF>XM8은 후방 경계. 증원이 올지도 모르니 적의 동향을 살피도록 해.</color>
+()<Speaker>소대 일동</Speaker>||:<color=#00CCFF>라저!</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_Team_Running</SE1>:단순히 밤하늘 때문만이 아닌 어둠에 몸을 숨기고, 5명의 인형들은 초소로 접근했다.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑点2><震屏3><BIN>485</BIN><BGM>10230</BGM><SE1>Explode</SE1><SE1>AVG_Gunfire</SE1>:콰아앙!!+아키텍트와 게이저의 지원 포격에 이미 제압됐던 패러데우스는 바로 진형이 무너져 버렸고, 모나와 라이노의 팀워크에 픽픽 쓰러져 나갔다.
+NPC-grig(3)<Speaker>틸</Speaker><Shake>0.1</Shake>||:<size=50>...크윽!</size>
+()<Speaker></Speaker>||:그리고 울퉁불퉁한 지형에 불리한 틸은 아키텍트의 무차별 포격 세례 때문에 속도가 더욱 크게 떨어졌다.+이동 범위가 제한되자, 안개도 더는 그녀를 숨겨 주지 못했다.
+QBZ191(0)<Speaker>9호</Speaker>||<SE1>Select</SE1>:지금이다!
+()<Speaker></Speaker>||<SE1>AVG_Gatling_gun</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:그리고 틸이 빈틈을 보인 순간, 계속 주시하던 9호가 기회를 놓치지 않고 그녀를 향해 탄창의 탄환을 모조리 쏟아부었다.
+NPC-grig(3)<Speaker>틸</Speaker><Shake>0.1</Shake>||:——!?
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1><SE1>AVG_Bullte_Ricochet</SE1>:피하기엔 너무 늦어, 틸은 칼을 들어 날아드는 총탄을 막아냈다.+하지만 그 와중에 보인 것이 그녀를 절망에 빠뜨렸다.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||<SE1>AVG_weapon_reload</SE1>:야호~+에이전트한테 들었는데, 너 이런 거에 좋아 죽는다며?
+NPC-grig(3)<Speaker>틸</Speaker>||:......!!
+()<Speaker></Speaker>||:아주 찰나의 망설임 때문에, 아키텍트가 발사한 로켓에 정통으로 맞고 말았다.
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:콰앙!!!
+SP9(3)<Speaker>모나</Speaker>||:라이노!
+Rhino(0)<Speaker>라이노</Speaker>||:OK!
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><SE1>AVG_Grey_Hand_Mech</SE1>:라이노가 모나와 함께 바로 달려들어, 힘을 합쳐 틸을 제압하고 다른 한 팔도 무력화했다.
+()<Speaker></Speaker>||<SE1>Select</SE1>:결착이 나자, 9호는 경계는 풀지 않으면서 무기를 내렸다.
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:게이저와 한껏 우쭐해진 아키텍트도 무기를 등에 메고 모나 일행과 다시 합류했다.
+NPC-grig(3)<Speaker>틸</Speaker>||<SE1>AVG_whitenoise</SE1>:......
+()<Speaker></Speaker>||:절망해서일까, 아님 다른 이유에서일까. 라이노에겐 틸의 금빛 눈동자가 마치 녹슬어버린 도금판처럼 빛을 잃은 것처럼 보였다.+다만 틸은 의연한 표정으로 다시 고개를 들었다.
+NPC-grig(3)<Speaker>틸</Speaker>||:나는 사명을 다했다.+네놈들이 내게서 얻을 것은 없어.
+Rhino(0)<Speaker>라이노</Speaker>||:...이런 정신 나간 녀석.
+()<Speaker></Speaker>||<SE1>AVG_Camera_Focus</SE1>:라이노는 혀를 차며 총을 들었다.
+Rhino(0)<Speaker>라이노</Speaker>||:죽기 직전인데도 입은 살았구나.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:엥, 여기서 죽이려고? 안 잡아가?
+BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:먼저 사지부터 자른다 하지 않았던가?
+BOSS-9(0)<Speaker>아키텍트</Speaker>||<SE1>ClothingUp</SE1>:오, 그건 내가 또 전문이지!
+Rhino(0)<Speaker>라이노</Speaker>||:뭐? 잠깐, 설마 네 무기로 할 셈은――
+SP9(3)<Speaker>모나</Speaker>||:<size=50>――모두 회피하세요!</size>
+Rhino(0)<Speaker>라이노</Speaker><Shake>0.1</Shake>||:――?!!
+()<Speaker></Speaker>||:일행이 틸의 처분을 놓고 논의하던 그때, 가장 먼저 낌새를 느낀 모나가 소리쳤다.
+()<Speaker></Speaker>||<SE1>AVG_Sword_Scope</SE1><BGM>BGM_Empty</BGM>:쉬이익――
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:거의 동시에, 예리한 칼날들이 바람을 가르며 날아와 인형들 주변의 암석들을 토막냈다.+그리고 뒤이어...
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:<size=50>콰아아앙!!</size>+부유하는 칼날들이 뿜어낸 포격에, 토막난 암석 조각들은 폭발하여 엄청난 살상력을 지닌 파편으로 변해 사방으로 튀었다.
+QBZ191(0)<Speaker>9호</Speaker>||<SE1>RunStep</SE1>:엎드려!
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:<size=50>쾅!!!</size>
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:<size=50>콰앙!!!!</size>
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:<size=50>콰아앙!!!!!</size>
+()<Speaker>???</Speaker>||<震屏3><SE1>AVG_Jet_Passby</SE1><BGM>10227</BGM>:<size=50>캬하하하하핫!!</size>+<size=50>어디야? 어딨어! 감히 우리 언니 쫓아다닌 버러지들!!</size>
+()<Speaker>???</Speaker>||:<size=50>잘도 여기까지 따라온 쓰레기들 어딨냐고!!!</size>
+()<Speaker></Speaker>||:하늘에서 광소하는 목소리가 들려왔다. 그 익숙한 목소리에, 틸은 눈을 부릅뜨며 반사적으로 고개를 들었다.
+NPC-grig(3)<Speaker>틸</Speaker>||:이 목소리...+나르시스...!
+()<Speaker></Speaker>||:그리고 하얀 그림자가 하늘에서 떨어졌다.
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:콰앙!!
+()||<黑点1>:
+()<Speaker></Speaker>||<火花><黑点2>:조종사를 잃은 하얀 비행기는 목 잘린 파리처럼 추락해, 자갈 더미에 꽂히며 굉음과 강렬한 폭발, 불길을 일으켰다.+그리고 묵직한 소리를 내며 착지한 왜소한 소녀는, 어째선지 주위의 공기마저 얼어붙는 듯한 분위기를 자아냈다.
+Narciss(1)<Speaker>나르시스</Speaker>||:어라? 왜 너만... 어... 그러니까... 너 이름이 뭐였더라?+아 몰라, 그레이의 똘마니. 우리 언니 어딨어?
+NPC-grig(3)<Speaker>틸</Speaker>||:그레이가... 데려갔다...
+Narciss(2)<Speaker>나르시스</Speaker>||:<size=50>뭐어라고오오!?</size>+<size=50>제기랄! 그 자식 나한테 말도 안 하고 잘도――</size>
+NPC-grig(3)<Speaker>틸</Speaker>||:......
+Narciss(1)<Speaker>나르시스</Speaker>||:...잠깐, 그럼 너 혼자 남아서 저것들이랑 싸운 거야?+저딴 쓰레기들 상대로 그 꼴이라고? 진짜 약해 빠졌네 이 폐급 녀석...
+QBZ191(2)<Speaker>9호</Speaker>||<SE1>Select</SE1>:뭐야 저건 또... 지금 우리 무시하는――
+SP9(3)<Speaker>모나</Speaker><Shake>0.1</Shake>||<SE1>RunStep</SE1><SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:9호!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:부웅!+나르시스가 눈길도 돌리지 않고 부유검을 휘둘렀다.
+()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1><震屏3>:그러자 모나가 9호를 밀쳐낸 그 자리의 바위가, 말끔한 절단면을 따라 바닥으로 미끄러져 박살났다.
+Narciss(1)<Speaker>나르시스</Speaker>||:쓰레기가... 누가 나 말하는 중에 입 열래!?
+NPC-grig(3)<Speaker>틸</Speaker>||:나르시스...
+Narciss(1)<Speaker>나르시스</Speaker>||:폐급도 닥쳐.+뭐, 그래도 널 구했으니 언니가 칭찬해 주겠지?+이 쓰레기들 처리하면 언니가 더 칭찬해 줄 테고...+칭찬이 두 배... 헤헤, 아주 좋아...
+Narciss(2)<Speaker>나르시스</Speaker>||<震屏3>:그러니까, 너네 다 얌전히 <size=50>죽어!!!</size>
+()<Speaker></Speaker>||<SE1>Explode</SE1><BIN>9</BIN>:콰앙!!
+()||<黑点1>:

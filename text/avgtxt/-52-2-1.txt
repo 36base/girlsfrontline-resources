@@ -1,0 +1,106 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>515</BIN><BGM>2022_white_valentine_BGM1</BGM>:KAC-PDW의 점포는 어째선지 웅성거리는 인파에 둘러싸여 있었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그때, PPD-40이 대뜸 세상 억울 표정으로 인파를 가르고 어디론가 향했다.+지휘관이 왔음을 발견한 것이었다.
+PPD40(4)<Speaker>PPD-40</Speaker>||:지휘관! KAC가 당첨 안 뽑히게 수작 부려 놓곤 그냥 재수가 없어서 못 뽑았을 뿐이래!+여기 있는 애들 다 사기당한 피해쟈야!+저 같잖은 사기 행각을 폭로할 사람은 지휘관밖에 없어!
+()<Speaker>지휘관</Speaker>||:뭐어? 보는 눈이 이렇게 많은데 어떻게 사기를...
+PPD40(4)<Speaker>PPD-40</Speaker>||:KAC이 여간 교활해야지! 얼른 와 봐!
+KAC(4)<Speaker>KAC-PDW</Speaker><Position>0,135</Position>||<震屏3><SE1>RunStep</SE1>:<size=50>우와아—— 드디어 왔구나 허니——!!</size>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:KAC-PDW도 지휘관을 발견하자마자 쏜살같이 테이블 앞으로 달려 나와 지휘관에게 안겨들었다.+그러자, 웅성이던 인파가 순식간에 조용해졌다.+지휘관은 열 명이 넘는 시선이 자신에게 고정된 것을 느꼈다...
+()<Speaker>지휘관</Speaker>||:...우선 설명부터 해 주겠어?
+PPD40(4)<Speaker>PPD-40</Speaker>||:저 제비뽑기 통! 무슨 수작이 가해진 게 분명해! 아무리 뽑아도 꽝만 나온다고!
+PPD40(4);KAC(4)<Speaker>KAC-PDW</Speaker><Position>0,135</Position>||:에――이, 네 운이 나쁜 걸 내 탓하면 안 되지.
+PPD40(4)<Speaker>PPD-40</Speaker>;KAC(4)<Position>0,135</Position>||:웃기지 마, 어떻게 100연속 뽑기가 전부 꽝일 수가 있어!? 이건 확률적으로도 말이 안 돼!
+PPD40(4);KAC(4)<Speaker>KAC-PDW</Speaker><Position>0,135</Position>||:운 없으면 다 그런 거지 뭐, 죽 먹어도 체한다는 말 못 들어봤어?+아직 시도 횟수가 모자란 거면 어쩔래? 아님 행운 보존의 법칙인가 뭔가라던가. 자아 허니, 얼른 뽑아 봐!
+PPD40(4)<Speaker>PPD-40</Speaker>||:그래 지휘관, 어서 뽑아!
+()<Speaker>지휘관</Speaker>||:아, 알았어. 이거 그냥 흔들면 되지?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 제비뽑기 통을 들어 자세히 살펴봤다.+통은 평범한 원통형에, 뚜껑 쪽에 작고 동그란 구멍이 하나 뚫려만 있을 뿐 바닥도 측면도 튼튼한 금속이었다.
+KAC(4)<Speaker>KAC-PDW</Speaker><Position>0,135</Position>||:히히... 룰은 간단해 허니. 속에 든 제비는 총 20개 중 하나만 당첨이고 나머진 다 꽝이야.+당첨이면 상으로 [선량함의 증표] 100장, 꽝이면 나한테 [늑대들의 명패] 5장을 내야 해.
+()<Speaker>지휘관</Speaker>||:그냥 확률 문제 같은걸... 스무 번 안에 당첨을 뽑기만 하면 본전이잖아?
+G41(2)<Speaker>G41</Speaker><Position>0,150</Position>||:주인니임... 저도 처음엔 그렇게 생각했는데요오...
+()<Speaker>지휘관</Speaker>||:그래, 그래...
+()<Speaker></Speaker>||:지휘관은 훌쩍이는 G41을 쓰다듬어 주곤 제비뽑기 통을 고쳐 잡고 서투르게 앞뒤로 흔들었다.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Medicine_Bottle</SE1>:찰랑찰랑——
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Medicine_Bottle</SE1>:찰랑찰랑찰랑——
+()<Speaker></Speaker>||<SE1>AVG_Button_Click</SE1>:——툭!+이윽고 제비 하나가 테이블 위에 떨어졌다.+테이블을 에워싼 구경꾼들은 결과를 보려고 앞다퉈 고개를 들이밀었다.
+PPD40(4)<Speaker>PPD-40</Speaker><Shake>0.1</Shake>||:당첨...이라고...?!+말도 안 돼!
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Medicine_Bottle</SE1>:PPD-40이 경악하며 지휘관의 손에서 통을 낚아채 다시 흔들어 보았지만...+그녀의 뽑기 결과는 "꽝"이었다.
+G41(2)<Speaker>G41</Speaker><Position>0,150</Position>||:후에엥... 역시 우린 운이 나쁜가 봐요...
+()<Speaker></Speaker>||:어안이 벙벙해진 구경꾼들은 다시 시끄러워졌다.
+KAC(4)<Speaker>KAC-PDW</Speaker><Position>0,135</Position>||:어머나~ 허니는 역시 행운의 여신한테 가호라도 받았나 봐!+자아 이거 받아, 당첨 경품인 [선량함의 증표] 100장이야!
+()<Speaker></Speaker>||:의심과 질투 어린 눈총을 배경으로, 지휘관은 KAC-PDW에게서 두툼한 카드 뭉치를 받았다.
+KAC(4)<Speaker>KAC-PDW</Speaker><Position>0,135</Position>||:운수 좋은 날이니까 이따 나한테 꼬옥 투표해 줘야 해~ 알았지 허니~?
+KAC(4)<Speaker>지휘관</Speaker><Position>0,135</Position><同时置暗>||:아... 응, 알았어.
+KAC(4)<Speaker>KAC-PDW</Speaker><Position>0,135</Position>||:아싸! 허니 최~고!+허니 곁에 있으면 나도 평생 행운이 따라다니겠지?+줄창 꽝만 뽑아댄 저 운 지지리도 없는 루~저들처럼이 아니라!
+()<Speaker></Speaker>||:지휘관을 제외한 자리의 모두가 이를 갈며 KAC-PDW를 노려보던... 그때였다.
+()<Speaker>？？？</Speaker>||<SE1>AVG_footsteps_cave</SE1><BGM>BGM_Empty</BGM>:좋은 밤입니다, 주인님.
+()<Speaker></Speaker>||<BGM>GF_Cafe</BGM>:구경꾼들 사이로 길이 열리더니, G36이 쟁반을 들고 나타났다.
+G36(8)<Speaker>G36</Speaker>||<SE1>Stop_AVG_loop</SE1>:즐기시는 와중 실례하겠습니다.+여러분, 여러분을 위해 주방에서 음료를 준비해 왔습니다. 마음껏 드세요.
+()<Speaker></Speaker>||:일촉즉발이던 분위기가 G36의 난입 덕분에 조금이나마 누그러졌다.+으르렁대던 모두는 잠시 머뭇대다, 이내 줄을 서서 차례대로 G36의 쟁반에서 음료수를 집었다.
+G41(2)<Speaker>G41</Speaker><Position>0,150</Position>||:아, 위쪽 쟁반 비었다! 제가 G36 언니 대신 내려놓을게요!
+G36(18)<Speaker>G36</Speaker>||:고마워요 G41.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:G41는 쇠붙이 쟁반을 테이블에 툭 놓았다.
+()<Speaker></Speaker>||:덜그럭.
+()<Speaker>일동</Speaker>||:? ? ?
+()<Speaker></Speaker>||:데구르르르...
+()<Speaker></Speaker>||:모두의 앞에서, 테이블 위에 놓인 제비뽑기 통이 돌연 구르기 시작했다.+점점 속도가 붙은 통은...
+()<Speaker></Speaker>||<SE1>AVG_21Winter_OperatingDisc_Drop</SE1><BGM>BGM_Empty</BGM><震屏3>:――터엉!
+G41(2)<Speaker>G41</Speaker><Position>0,150</Position>||:우와! 통이 쟁반에 달라붙었다!
+()<Speaker></Speaker>||:쟁반과 철썩 달라붙은 통에 모두의 시선이 집중됨과 동시에 기이한 침묵이 내려앉았다.
+G36(8)<Speaker>G36</Speaker>||:죄송합니다, 주방에 유리 쟁반이 부족해서 알루미늄 합금 쟁반으로 가져왔습니다.+...만, 아무래도 아닌가 보군요.
+PPD40(2)<Speaker>PPD-40</Speaker>||:하... 하하하...
+PPD40(2)<Speaker>PPD-40</Speaker>||<BGM>GF_20HW_Battle1_BPM102_Loop</BGM><震屏3>:<size=60>아하하하하!!!</size>
+()<Speaker></Speaker>||:PPD-40이 갑자기 박장대소했다.
+PPD40(2)<Speaker>PPD-40</Speaker>||:정말 잘 와 줬어 G36! 네 덕분에 수수께끼가 풀렸어!
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>:PPD-40 의기양양하게 제비뽑기 통을 덥석 집더니, 그대로 뚜껑을 뜯어버렸다.
+KAC(3)<Speaker>KAC-PDW</Speaker><Position>0,135</Position>||:어? 야!! 남의 물건에 함부로 손대면――
+PPD40(2)<Speaker>PPD-40</Speaker>||:포기하시지 KAC! 이게 네가 속임수를 썼다는 증거다!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:통 속의 제비 20개가 전부 테이블 위에 놓아졌다.+그리고 통의 바닥도 뜯어 살펴보던 PPD-40는 천천히 고개를 끄덕였다.+그리고 씨익 웃더니, 통의 바닥을 천천히, 아주 천천히 제비에 갖다대자...
+()<Speaker></Speaker>||<SE1>AVG_21Winter_OperatingDisc_Drop</SE1>:타악!
+()<Speaker></Speaker>||:당첨 제비가 벌떡 일어나, 그대로 통의 바닥에 달라붙었다.
+()<Speaker>일동</Speaker>||<controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake><SE1>AVG_Thunder_Dry</SE1>:<size=50>??!!</size>
+G41(2)<Speaker>G41</Speaker><Position>0,150</Position>||:우와아 신기하다! 이건 무슨 마술이에요?
+PPD40(2)<Speaker>PPD-40</Speaker>||:설명해 줄게 G41, 너랑 내가 마흔 번 넘게 시도해도 당첨 제비가 안 나왔잖아?+이게 바로 그 비밀이야!+이 제비뽑기 통의 바닥과 당첨 제비의 끝부분엔 자성이 있었어!+그래서 우리가 뽑을 때, 이 당첨 제비는 자성 때문에 바닥에 붙어서 절대 나오지 않은 거야!+그것도 모르고 우린 계속 꽝만 뽑아대며 KAC에게 카드만 바친 꼴이 됐지!+우릴 속였어 이 빌어먹을 사기꾼!
+()<Speaker>지휘관</Speaker>||:그럼... 난 왜 당첨을 뽑은 거지?
+PPD40(2)<Speaker>PPD-40</Speaker>||:그거야——
+PPD40(4)<Speaker>PPD-40</Speaker><Shake>0.1</Shake>||<SE1>AVG_Cloak_Whoosh</SE1>:――?!
+()<Speaker></Speaker>||:보라색 돌풍을 일으키며, KAC-PDW는 그대로 수풀로 숨는 작은 짐승처럼 인파 속으로 뛰어들었다.
+G41(2)<Speaker>G41</Speaker><Position>0,150</Position>||:......아!+<size=50>잡아라――!!!</size>
+KAC(3)<Speaker>KAC-PDW</Speaker><Shake>0.1</Shake><Position>0,135</Position>||<SE1>Rope</SE1>:힉...!+꺄아아악!!!+<size=50>이거 놔!! 놓으라고 이 재수없는 것들아아아!!!</size>
+()<Speaker></Speaker>||:하지만 포위망을 뚫지 못하고 G41과 성난 피해자들에게 붙잡혀 꽁꽁 묶여버렸다.+PPD-40은 고고하고 냉혹한 미소로 G36의 쟁반을 가지고 KAC-PDW에게 성큼성큼 다가갔다.
+PPD40(3)<Speaker>PPD-40</Speaker>||:지휘관, 왜 지휘관만 당첨을 뽑았는지에 해답은 바로 이거야.
+()<Speaker></Speaker>||<SE1>AVG_Punch</SE1><震屏3>:<size=50>터엉!</size>
+KAC(3)<Speaker>KAC-PDW</Speaker><Position>0,135</Position><Shake>0.1</Shake>||:<size=50>끼야아아악——!!!</size>
+()<Speaker></Speaker>||:살짝 던져진 금속 쟁반이 KAC-PDW의 오른손을 맹렬한 기세로 들이받아, 보던 지휘관마저 움찔했다.
+PPD40(3)<Speaker>PPD-40</Speaker>||:통에 별다른 장치는 없으니, 바닥의 자성을 조절할 순 없겠지. 그렇다면, 당첨 제비가 나오게 할 방법은...+바로 바닥보다 자성이 강한 물건을 두는 거야.+그걸 제비뽑기 통에 가까이 가져다대면 당첨 제비가 바닥에서 떨어지고, 잘하면 밖으로 튀어나오기까지 하겠지.+그리고 그 신비한 물건은 이 녀석의 오른손 장갑 속에 들어있었어.+그렇지, KAC?
+KAC(3)<Speaker>KAC-PDW</Speaker><Position>0,135</Position>||:무... 무슨 소릴 하는 건지 모르겠는데!
+PPD40(3)<Speaker>PPD-40</Speaker>||:지휘관, 사기 행각이 입증됐으니 마땅한 처벌을 내려야겠지?
+()<Speaker>일동</Speaker>||:<size=50>맞아!</size>
+()<Speaker>지휘관</Speaker>||:음... 너희는 어떻게 하고 싶은지 말해 보렴.
+PPD40(4)<Speaker>PPD-40</Speaker>||:우선 KAC는 사기쳐서 챙긴 카드 전부 원주인에게 돌려주고 정중히 사죄해야 해!+그리고 이는 엄연한 규정 위반이니 KAC의 점주 자격을 취소하고 점포도 닫기를 요구하겠어!
+()<Speaker></Speaker>||:매섭게 따지려 드는 일동의 기세에 지휘관도 적잖이 당황했다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_tableware</SE1>:그때, 식기가 부딪히는 경쾌한 소리가 테이블 옆에서 울렸다.+G36이 유리 접시를 정리하면서 낸 소리였다.
+G36(8)<Speaker>G36</Speaker>||<BGM>m_wv_title</BGM>:오늘 밤은 축제의 시간... 주인님께선 모두가 즐겁게 놀기를 바라십니다. 우리가 이번에 이렇게 휴가를 나온 이유도 그것이죠.+물론 KAC의 사기 행각은 처벌을 받아야 마땅합니다만...
+G36(8)<Speaker>G36</Speaker>||:이미 테마가 정해진 점포를 변경하기엔 어려우니, 취소 대신 오늘 밤 여러분이 마시는 음료값은 전부 KAC이 내는 걸로 합시다.+모두 마음껏 드세요, 오늘 밤은 KAC이 쏘는 거니까.+...이 정도면 충분히 징계가 되겠죠. 어떠신가요, 주인님?
+PPD40(4)<Speaker>PPD-40</Speaker>||:어...
+G41(2)<Speaker>G41</Speaker><Position>0,150</Position>||:진짜 그래도 돼요 주인님...?
+()<Speaker></Speaker>||:G41이 눈을 반짝이며 군침을 꿀꺽 삼켰다.+대답을 기다리는 일동의 마음도 G41의 꼬리처럼 살랑살랑 흔들릴 터였다.
+()<Speaker>지휘관</Speaker>||:그래, 그러자. 모두가 즐거운 밤이 되길 바라고 여기 온 거잖아.+그런데 이러면 G36과 주방의 애들이 꽤나 수고해야 될 텐데?
+G36(18)<Speaker>G36</Speaker>||:모두를 위한 일이니 영광일 따름입니다.
+G41(2)<Speaker>G41</Speaker><Position>0,150</Position>||:<size=50>만세――!!</size>+G36 언니, 저 망고 슬러시 주세요!
+()<Speaker>구경꾼 인형A</Speaker>||:전 포도 주스! 얼음 넣어서요!
+()<Speaker>구경꾼 인형B</Speaker>||:오오오...! 고마워 G36!+<size=50>그럼 난 수박 주스 10잔!!!</size>
+()<Speaker></Speaker>||:......
+PPD40(4)<Speaker>PPD-40</Speaker>||:크으윽... 어? 야! 왜 다들...!+아 진짜! 나 버리고 가기야!?
+()<Speaker></Speaker>||<SE1>AVG_Crowd_Run</SE1>:PPD-40과 모두가 시끌벅적하게 자리를 옮기는 뒷모습을 보며, 지휘관은 어깨를 으쓱하기만 했다.
+KAC(3)<Speaker>KAC-PDW</Speaker><Position>0,135</Position><Shake>0.1</Shake>||<SE1>Rope</SE1>:허니이... 왜 나 안 구해 줘!?
+()<Speaker></Speaker>||:꽁꽁 묶인 채로 남겨진 KAC-PDW는 울상이면서도 볼은 빵빵하게 부풀리고 지휘관에게 앙탈을 부리기 시작했다.+이에 지휘관은 가볍게 한숨을 내뱉곤, KAC-PDW를 풀어 주며 침착하고 진지한 투로 그녀를 타일렀다.
+()<Speaker>지휘관</Speaker>||:어깨를 맞대고 동고동락하는 동료들이잖니, 이번엔 너무 지나쳤어.
+KAC(3)<Speaker>KAC-PDW</Speaker><Position>0,135</Position>||:그치만... 그치만 난 허니만 있으면 되는걸!+게다가 지금 저것들 쥐꼬리만한 내 월급까지...!
+KAC(3)<Speaker>지휘관</Speaker><Position>0,135</Position><同时置暗>||:...내가 조금 대신 내 줄 테니까.
+KAC(4)<Speaker>KAC-PDW</Speaker><Position>0,135</Position>||:으아앙 역시 허니밖에 없어어――
+()<Speaker></Speaker>||:KAC-PDW가 지휘관에게 와락 안겨 얼굴을 파묻는가 싶더니, 얼굴을 번쩍 들었다.
+KAC(4)<Speaker>KAC-PDW</Speaker><Position>0,135</Position>||:――근데 있잖아~+그것보단 그냥 나한테 몇 표 주면 좋겠는데♡
+()<Speaker>지휘관</Speaker>||:<color=#A9A9A9>으이구 태세 전환 봐라!</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관의 손을 꼬옥 붙잡고, KAC-PDW는 폴짝폴짝 뛰며 다시 점포로 돌아왔다.
+KAC(4)<Speaker>KAC-PDW</Speaker><Position>0,135</Position>||:이히히~ KAC-PDW의 "지정 함정" 코너 재오픈! 어서 와 허~니!
+()||<黑点1>:

@@ -1,0 +1,54 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>577</BIN><BGM>BGM_Saga_AVG_Dusk</BGM><Night>:
+()||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:...바닷가의 밤풍경과 낮은 완전히 다르다.+낮의 바다는 평온하며, 깨끗한 파도가 물가에 부딪히며 부서진다.+하지만 밤의 바다는 고약하여, 모래를 잔뜩 머금은 탁한 파도가 해안에 덮치며 그 성질을 발등에 부딪친다.
+()<Speaker>지휘관</Speaker>||:......
+()||:당신은 홀로 바닷가를 걸으며, 이마를 스치는 바닷바람을 만끽했다.+이렇게 조용할 때, 평소 바쁜 일로 묻혀있던 종종 고민들이 수면 위로 떠오른다.
+()<Speaker>지휘관</Speaker>||:저건...
+()||:쨍쨍쨍... 샤미센의 소리가 파도가 부서지는 소리에 섞여 희미하게 들렸다. 소리 나는 쪽을 바라보니, 아리따운 모습이 홀로 바닷가에 서있었다.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale><GradientShow>2</GradientShow>||:......♪
+()<Speaker>지휘관</Speaker>||:......
+()||:당신은 조용히 다가가 그녀가 흥얼거리는 곡조를 들었다, 그건 난생 들어 본 적 없는 곡이었다.
+NPC-Yugiri(1)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<SE1>Stop_AVG_loop</SE1>:...지휘관님?
+NPC-Yugiri(1)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:그냥 나와서 바람 쐬던 중이었어, 혹시 연주에 방해됐어?
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:아니요.
+()||:유우기리는 다정하게 웃으며 바치를 놓았다.
+()<Speaker>지휘관</Speaker>||:네가 부른 적 없는 노래던데.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:제 고향의 가락이랍니다, 사가에선 흔히 듣지 못하겠죠...
+NPC-Yugiri(4)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:너 사가 태생이 아닌 거야?
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:아니요, 원래는 에도에서 살다가, 한 나리를 따라 사가에 온 것이랍니다.
+NPC-Yugiri(4)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:나와 같은 이방인이었구나.
+NPC-Yugiri(3)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:비록 여기서 나고 자라진 않았지만, 사가는 제게 특별한 느낌을 주어요.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:마치 운명으로 이곳에 묶인 것처럼, 이곳을 떠나지를 못하고, 떠날 생각도 들지 않아요.
+NPC-Yugiri(4)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:그래...
+()||:당신은 그 상냥한 눈빛에서 시선을 돌려 시커먼 해수면을 바라봤다.+그리폰 기지의 모습이 저 검은 장막에 어렴풋이 떠오르는 듯했다.
+NPC-Yugiri(2)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:지휘관님은 지금... 집이 그리우신 건가요?
+NPC-Yugiri(2)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:아마도.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:지휘관님의 댁은 어디인지요?
+()||:당신은 씁쓸하게 웃었다. 지금 집이 어디에 있는지, 어떻게 돌아갈지도 모르는 상황이었다.
+()<Speaker>지휘관</Speaker>||:아주 머나먼 곳에.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:머나먼 곳이라...+그럼 돌아간 뒤에 무엇을 할지 생각하신 적은 있으신지요?<c>A. 부관을 꼭 껴안는다.<c>B. 기지 안을 50바퀴 뛰어다닌다.<c>C. 인형들을 데리고 퇴직해 연예소속사를 세운다.
+()||:유우기리는 듣자 가볍게 웃었다.
+NPC-Yugiri(3)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:그럼 바람이 이루어지길 빌어드릴게요.
+NPC-Yugiri(3)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:이루고 말 거야.
+NPC-Yugiri(3)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:네!
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:아참, 지휘관님. 지휘관님이 댁에 돌아가고 나면 어떻게 연락을 하나요?
+NPC-Yugiri(4)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:내 그쪽에선 단말기로 서로에게 연락해.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:"단말기"요?
+NPC-Yugiri(0)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:대충 도마처럼 평평한 물건에, 그걸로 아주 많은 일을 할 수 있어, 전화나, 배달 주문이나, 쇼핑이나...
+NPC-Yugiri(1)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:아, 잠시만요. 점점 어려워지네요.
+NPC-Yugiri(1)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:미안, 유우기리한텐 너무 앞서나간 물건이겠다.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:현대 과학 기술은 발전이 참 빨라서요...
+()||:유우기리가 나지막이 한숨을 쉬었다. 당신은 유우기리가 익숙할 법한 연락방식을 생각하다 한 가지 방법을 제시했다.
+()<Speaker>지휘관</Speaker>||:내게 편지를 쓰는 건 어때?
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:흠... 그렇게 머나먼 곳이라면 편지가 도착하기까지도 엄청 시간이 걸리겠지요?
+NPC-Yugiri(0)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:...응, 그렇지.
+()||:유우기리는 뺨을 손으로 받치고 고민하다, 눈빛을 반짝였다.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:한 가지 떠올랐어요. 둘이서 쉽게 할 수 있고, 오차가 없는 방법을요.
+NPC-Yugiri(4)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:어떤 방법인데?
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:앞으로 해마다의 이날에 함께 바닷가에서 산책하는 것이에요.+혼자 나와서 바닷가를 거닐며 상대방을 생각하는 것이에요.
+NPC-Yugiri(3)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:그러면 시간과 장소의 제한을 넘어서 서로의 곁에 있을 수 있어요.
+()||:유우기리가 기대하는 눈빛을 당신에게 향했다, 눈망울 깊은 곳의 반짝임은 마치 블랙벨벳 위의 다이아몬드 같았다.
+()<Speaker>지휘관</Speaker>||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:좋지.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:그럼 약속이에요.
+()||:유우기리는 당신의 팔을 부드럽게 끼고서 바닷물에 잠긴 물목으로 함께 걸어갔다.+푹신푹신한 모래 위에 남긴 발자국은 금세 바닷물에 지워지겠지만, 영원히 존재한다는 것을 당신은 알고 있었다.+영원히, 당신의 기억 속에, 둘만의 것인 이 날에 존재할 것이라.
+()||<黑点1>:

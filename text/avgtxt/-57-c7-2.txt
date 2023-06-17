@@ -1,0 +1,51 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>577</BIN><黑屏2><SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1><BGM>BGM_Saga_AVG_Dusk</BGM>:부드러운 파도가 당신을 반기듯이 다가와서 자제하듯이 물러가며, 고운 모래만이 발가락 사이를 간지럽히며 친근함의 흔적을 남겼다.+간지러우면서도 따끔한 느낌, 참을만하지만 무시할 수 없는 느낌... 바로 지금 당신의 심정과도 같았다.
+()<Speaker>지휘관</Speaker>||<SE1>Stop_AVG_loop</SE1>:이건... 내게 주는 거니?
+()<Speaker></Speaker>||<common_effect>%%code=Saga_Junko_item%%</common_effect>:준코의 여린 손바닥 위에 놓인 것은 오사키 인형.+그녀는 이걸 조심스레 당신에게 내밀었다.
+NPC-Junko(0)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||<关闭蒙版>:좀 더 일찍 드렸어야 했는데...+색칠할 때 자꾸 집중이 안 돼서 조금 오래 걸렸어요.
+NPC-Junko(0)<Position>60,-230</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||:준코도 집중력 떨어질 때가 있구나...?
+NPC-Junko(0)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||:따, 딴 생각이 들면 한동안 집중이 안 된다고요.
+NPC-Junko(0)<Position>60,-230</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||:그게 뭔지 말해 줄 수 있을까?
+NPC-Junko(0)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||:만약에... 만약에, 저도 지휘관님처럼 원래 살던 시대로 돌아갈 수 있다면...+저는 돌아가서 원래의 저로 있어야 할까요, 아니면 계속 프랑슈슈와 함께 있는 게 좋을까요...?
+()||:......<c>A. 프랑슈슈에 남는다.<c>B. 원래 시대로 돌아간다.
+()||<分支>1</分支>:준코를 바라보던 당신은 그녀가 정말로 고민하는 것이 무엇인지 눈치챘다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:그야 당연히 프랑슈슈에 남아야지.
+NPC-Junko(0)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||<分支>1</分支>:왜죠?
+NPC-Junko(0)<Position>60,-230</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||<分支>1</分支>:엄청 좋아하잖아? 프랑슈슈.
+NPC-Junko(0)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||<分支>1</分支>:......
+NPC-Junko(0)<Position>60,-230</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||<分支>1</分支>:과거에 혼자서 빛나던 네가 쇼와 시대의 달이었다면...+지금의 너는 프랑슈슈와 함께 반짝이는 뭇별이야.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:혼자였을 땐 인정이든 질의든 전부 혼자서 감당해야 했지?+무척 외로웠을 테고.
+NPC-Junko(0)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||<分支>1</分支>:......네.+전 여기서 그때보다 더 소중한 것을 찾았어요.
+NPC-Junko(0)<Position>60,-230</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||<分支>1</分支>:역시 나한테 물은 건 네 마음을 확인하고 싶어서였나 봐?
+NPC-Junko(1)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||<分支>1</分支>:그렇기도 하고, 아니기도 해요.+그러면 지휘관님은 왜 여기 남고 싶지 않으려는 건가요?
+NPC-Junko(1)<Position>60,-230</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||<分支>1</分支>:나는... 아직 거기에 내버려둘 수 없는 사람들이 있어서.
+NPC-Junko(0)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||<分支>1</分支>:그렇군요.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:여기 있는 게 즐겁지 않다면 돌아가는 게 옳겠지.
+NPC-Junko(3)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||<分支>2</分支>:......
+NPC-Junko(3)<Position>60,-230</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||<分支>2</分支>:내가 여기서 눈을 떴을 때, 가장 먼저 겁이 났던 건 낯선 시대에 와서가 아니었어.+내 원래 시대의, 나 없이 남겨진 이들은 어떻게 될까. 그게 제일 먼저 생각나서 무서웠어.
+NPC-Junko(0)<Position>60,-230</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||<分支>2</分支>:만약 모두 함께 이곳에 왔다면...+아마 그다지 돌아가고 싶은 생각이 들지 않았을 거야.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:익숙하진 언어와 풍습, 신분보단 내 곁에 있는 사람들이 더 신경쓰이잖아?+그래서 모두와 함께 올 수 있었다면, 내게 있어선 어찌 보면 그들에게 평화로운 세상을 만들겠단 약속을 이루게 된 거거든.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:그러니까, 과거로 돌아가는 것과 프랑슈슈의 모두를 저울 양쪽에 올릴 정도라면, 그냥 돌아가는 게 옳아.
+NPC-Junko(3)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||<分支>2</分支>:.....
+NPC-Junko(3)<Position>60,-230</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||<分支>2</分支>:네가 모두를 볼 때, 자꾸만 혼자서라도 돌아가고 싶다는 생각이 든다면...
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:그렇게 매일 혼자서 후회하며 살아갈 바에야, 자신을 위해 이기적인 선택을 하는 편이 나아.
+NPC-Junko(5)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||<分支>2</分支>:...그런 게 아니에요.
+NPC-Junko(5)<Position>60,-230</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||<分支>2</分支>:응?
+NPC-Junko(5)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||<分支>2</分支>:프랑슈슈의 모두는 이제 저에게 무엇보다 소중해요.+정말 제가 모두를 싫어한다면, 그냥 다시 죽으면 될 뿐이에요. 좀비인걸요.+하지만 그러지 않아요.
+NPC-Junko(0)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||<分支>2</分支>:영원히 과거에 머무는 게 아니라, 모두와 함께 미래를 쟁취하고 싶어요.
+NPC-Junko(1)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||<分支>2</分支>:고마워요 지휘관님, 덕분에 선택지 하나를 지울 수 있었어요.
+()<Speaker>콘노 준코</Speaker>||<分支>2</分支>:제겐... 처음부터 이 길뿐이었던 거였어요.
+()<Speaker>지휘관</Speaker>||:핫 핫 하, 축하한다 과거로부터의 여행자. 새로운 배를 타고 다시 항해할 수 있게 됐구나.
+NPC-Junko(1)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||:풉... 미래에서 온 여행자님도 당신의 배로 돌아갈 수 있기를 기도할게요.
+NPC-Junko(1)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||:이 오사키 인형을 선물로 드릴 수 있어서 정말 기뻐요.
+NPC-Junko(1)<Position>60,-230</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||:아 맞다, 왜 하필 이 인형이야?
+NPC-Junko(1)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||:지휘관님이랑 닮았죠?
+NPC-Junko(1)<Position>60,-230</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||:엑... 너한테 난 이런 이미지였어?
+NPC-Junko(1)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||:귀엽죠?
+()<Speaker>지휘관</Speaker>||:귀, 귀엽...?+그래... 네 취향이 그렇다면야 감사히 받을게.
+NPC-Junko(1)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||:이걸로, 앞으론 색칠할 때 항상 즐거운 기분이 들 거 같네요.
+NPC-Junko(1)<Position>60,-230</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||:어?
+NPC-Junko(1)<Position>60,-230</Position><Scale>1.27</Scale><Speaker>콘노 준코</Speaker>||:똑같이 다른 세상에서 온 여행자에게 직접 인형을 만들어 줬으니까요.+이건 우리가 함께했다는 증거예요.
+NPC-Junko(1)<Position>60,-230</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||:그렇네, 우리는 길동무였어.+앞으로 무슨 일이 생기더라도 변하지 않을 사실이야.
+()||:당신은 호언장담하듯 말했다.+노을 아래서 기타를 치던 소녀와, 당신은 몇 번이고 재회하게 되리라고.+오후에 사무실에서 숨을 돌릴 때라던가, 깊은 밤 홀로 잔을 비울 때라던가...
+()||<黑点1>:

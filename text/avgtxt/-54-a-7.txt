@@ -1,0 +1,130 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>4</BIN><黑屏2><回忆><边框>2</边框><narrator>:신소련, 체르코프 특구에서 진행됐던 어느 특별 작전.
+()<Speaker></Speaker>||<边框>2</边框><SE2>Gunfight</SE2><SE1>Battlefield</SE1>:타탕!+펑!
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position>||<边框>2</边框>:............
+()<Speaker></Speaker>||<边框>2</边框>:"Я" 교관은 눈썹을 움찔거리며 스크린을 주시했다.+저들이 바로 소문으로만 듣던 그 "울프팩" 팀이었다.+질서정연하고 신속한 움직임엔 한점의 군더더기도 없었다.
+()<Speaker></Speaker>||<边框>2</边框>:그들이 참전한 지 겨우 십여 분만에, 레이더에 닿지 않는 공백 구역에 포진해 있던 적들이 손쉽게 격파당했다.+그야말로...
+()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_Cloak_Whoosh</SE1>:예고도 없이 누군가 지휘 텐트의 출입구 커튼을 들어올리자, Я" 교관은 반사적으로 탁상의 권총을 집었다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||<边框>2</边框><BGM>GF_EV9_Intermission</BGM>:......
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position>||<边框>2</边框>:...안젤리아 대위.
+()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_footsteps_woodfloor</SE1>:안젤리아와, 그녀의 뒤를 따라 인형들이 텐트로 들어왔다.
+()<Speaker></Speaker>||<边框>2</边框><SE1>Stop_AVG_loop</SE1>:중상을 입은 Я" 분대원들을 부축하며 들어온 두 명의 은빛 인형들이, 텐트의 빈자리에 그들을 눕혔다.
+PP2000(1)<Speaker>PP-2000</Speaker>||<边框>2</边框>:죄송합니다, 교관님...
+RPD(1)<Speaker>RPD</Speaker><Shake>0.1</Shake>||<边框>2</边框><SE1>ClothingUp</SE1>:으으...
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||<边框>2</边框>:본부에 연락해서 헬기 한 대 불러.+부상자 회수하고 현장 인계할 인원――
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position>||<边框>2</边框>:......
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||<边框>2</边框>:...하고 싶은 말이 있는 눈치인데?
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position>;NPC-Ange(0)||<边框>2</边框>:알고 싶습니다, 제 지휘에 어디가 부족했습니까?
+AR18(6)<Position>0,70</Position>;NPC-Ange(0)<Speaker>안젤리아</Speaker>||<边框>2</边框>:모르겠어?
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position>;NPC-Ange(0)||<边框>2</边框>:...가르침을 구하고 싶습니다.
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position>;NPC-Ange(0)||<边框>2</边框>:저는 훈련받은 것을 준수하며 지휘했습니다.+지휘 교범의 내용상으로도 제가 내린 철수 명령은 결과적으로 올바르지 않았습니까?
+AR18(6)<Position>0,70</Position>;NPC-Ange(0)<Speaker>안젤리아</Speaker>||<边框>2</边框>:왜 네 부하들이 제안한 포위망 돌파를 기각했지?
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position>;NPC-Ange(0)||<边框>2</边框>:...리스크가 너무 컸습니다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||<边框>2</边框>:바로 그게 네가 부족한 점이야.+매뉴얼에만 의존한 판단.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><边框>2</边框>:중상이긴 해도 상태가 그리 심각하지 않음을 확인하곤 안젤리아는 고개를 끄덕했다.+그리고 출입구 밖으로 나서려다 잠시 멈춰서더니, "Я" 교관을 뒤돌아보았다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||<边框>2</边框>:진정한 "지휘관"이란 다 전선에서 구르면서 단련되는 거다.+전술 교재는 과거의 경험이 정리된 것에 불과해.
+()<Speaker></Speaker>||<边框>2</边框>:안젤리아는 만신창이인 세 인형들을 눈짓했다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||<边框>2</边框>:계속 그러다간 동료만 죽어날 거야.
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position>||<边框>2</边框>:......
+()<Speaker></Speaker>||<SE1>Rope</SE1><边框>2</边框>:"Я" 교관은 안젤리아의 뒷모습을 보며 주먹을 움켜쥐었다.+반박하려던 말은 목구멍에 걸려, 끝내 한 글자도 입밖으로 내지 못했다.
+()||<黑屏1><边框>2</边框>:
+()<Speaker></Speaker>||<边框>2</边框><BIN>9</BIN><黑屏2><SE1>AVG_Helicopter</SE1><SE1>AVG_20Winter_Prison_Door</SE1>:.......
+()||<黑屏1><边框>2</边框>:
+()<Speaker></Speaker>||<边框>2</边框><BIN>4</BIN><黑屏2>:투두두두두...+군용 수송 헬리콥터가 천천히 이륙해, "Я" 분대의 부상자들을 싣고 떠났다.+회수 포인트에 우두커니 서서 멀어져 가는 헬리콥터를 지켜보는 "Я" 교관은 말이 없었다.
+()<Speaker>？？？</Speaker>||<边框>2</边框>:너무 마음에 두지 마.
+()<Speaker></Speaker>||<边框>2</边框>:옆에서 누가 툭 위로의 말을 건넸다.
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position>||<边框>2</边框>:...AK-12.
+AR18(6)<Position>0,70</Position>;AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||<边框>2</边框>:우리 집 보스가 인간한테도 인형한테도 바라는 기준이 너무 높은 탓에 좀 많이 직설적이거든, 너무 괘념친 말아 줘.
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position>;AK12(0)<Position>0,50</Position>||<边框>2</边框>:...대위의 말이 맞다.+"예상치 못했다"는 핑계는 부하들이나 쓸 수 있지.+내가 그런 핑계를 대선 안 됐어. 지휘자로서 실격이다.
+AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||<边框>2</边框>:그냥 현장 경험 많이 쌓다 보면 능숙해질 거야. 인형이니까 얼마든지 기회가 있잖아?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><边框>2</边框>:새하얀 인형은 방긋 웃으며 "Я" 교관의 어깨를 툭툭 쳤다.
+AK12(4)<Speaker>AK12</Speaker><Position>0,50</Position>||<边框>2</边框>:인연이 닿으면 또 보자, 협력 즐거웠어.
+()<Speaker></Speaker>||<边框>2</边框>:말을 마친 AK-12는 발길을 옮겼다.+남겨진 "Я" 교관은, 제자리에서 홀로 중얼댔다.
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position>||<边框>2</边框>:현장 경험...
+()||<黑屏1><边框>2</边框>:
+()<Speaker></Speaker>||<BIN>9</BIN><边框>2</边框><黑屏2>:......
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||<边框>2</边框>:언젠가, 나는 현장에... 전선에 나설 것이다...
+()<Speaker></Speaker>||<边框>2</边框>:......
+()||<黑屏1><关闭蒙版>:
+()<Speaker></Speaker>||<BIN>420</BIN><黑屏2><BGM>BGM_Empty</BGM>:화장실 안에 잠시 침묵이 흘렀다.
+Erma(1)<Speaker>엘마</Speaker>||:그럼... 좋아요, 당신 말대로 할게요.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:그래.
+()<Speaker></Speaker>||:다시 한번 시선을 교환한 두 인형은 서로 고개를 끄덕였다.
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:엘마는 곧장 류드밀라의 지시에 따라 위로 기어올랐다.+깔끔한 움직임 덕분에, 비좁던 공간은 금세 류드밀라와 바깥의 소음만 남게 되었다.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:...옛날 일이 떠올랐어, 교관.+예전에, 네가 나한테 이렇게 물었지. "류드밀라, 넌 왜 그렇게 전선에 집착해?"
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:넌 잊었을지 몰라도, 난 아직도 똑똑히 기억해.+진정한 "지휘관"이란, 전선에서 단련된다...
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:명심해 두고 있었다. 잊지 않고, 항상.+그리고 지금... 나는 지금 전선에 서 있어.
+()<Speaker></Speaker>||:엘마가 무사히 떠난 것을 확인한 류드밀라는 숨을 깊이 들이마셨다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:그리고, 당당하게 화장실 문을 열고 밖으로 나왔다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>528</BIN><BGM>10254</BGM><SE1>AVG_20Winter_Door_Close</SE1>:나오자마자 그녀가 마주친 것은 눈에 익은 거한이었다.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||<SE1>Select</SE1>:......엉?
+()<Speaker></Speaker>||:일등석 객차에서 보았던 바로 그자였다.+지금 그가 손에 쥔 총은 M500 산탄총. 총구는 반사적으로 류드밀라의 얼굴을 향해 돌려져 있었다.+대뜸 나타난 류드밀라를 본 그의 눈은 뚱그네졌다 이내 가늘어졌다.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:너... 일등석에 탔던 퇴역 교관이군.+설마, 전술인형이었냐?
+()<Speaker></Speaker>||<SE1>Rope</SE1>:다니엘은 경계하며 총을 더욱 꽉 쥐었다.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:너 하나뿐이냐? 동료 없어?
+AR18(3)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:...그런 것 같군.
+()<Speaker></Speaker>||:질문하는 것처럼 보여도, 이 자는 진작부터 주위를 살피는 중이었다.+그리고 그 과정에서 류드밀라와 거리를 유지하며, 총구를 한순간도 돌리지 않았다.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:무기가 있겠지? 잔머리 굴리지 말고 이리 내.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:자신의 손이 상대의 시야에서 벗어나지 않도록 하면서, 류드밀라는 홀스터의 권총을 꺼내 다니엘에게 손잡이가 향하도록 내밀었다.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:바닥에 버리고 이쪽으로 차.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:...그러지.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Phone_Crash</SE1>:툭.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:바닥을 미끄러져 온 권총을, 다니엘은 1초도 걸리지 않고 잽싸게 집어 다시 총을 류드밀라에게 겨누었다.
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:그리곤 집은 권총을 허리춤에 꽂고선, 류드밀라에게 손을 들라 경고하곤 조심스레 접근해 몸을 수색했다.+아주 신중하게 몸수색을 한 뒤에야 그는 겨우 안심할 수 있었다.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:여기서 나가서 식당차로 간다, 네가 앞장서.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:류드밀라는 천천히 식당차의 문을 열었다.+식당차는 도적들에게 완전히 장악된 상태였다.+한쪽에는 인간 인질들이 총구 앞에 무릎 꿇은 채 손을 번쩍 들어 무력함을 호소하고 있었다. 다행히, 사상자는 없는 듯했다.
+()<Speaker></Speaker>||:도적단의 머릿수는 류드밀라가 파악한 것과 맞아떨어졌다. 지켜보는 도적들은 총 6명, 그중 2명이 총으로 무장했다.
+()<Speaker></Speaker>||:다른 쪽에는... 통신 모듈과 행동 모듈이 무력화된 인형 승객들로, 군용 인형들이 지켜보고 있었다.+수는 총 4기. 전부 오래전에 퇴역했을 법한 구형 모델로, 폐기 처분되었어야 할 것들을 누가 빼돌려 판 모양이었다.+절차상 화기관제 코어도 적출됐을 터였지만, 류드밀라는 4기 모두 무장하고 있어 최악의 상황도 상정하기로 했다.
+()<Speaker></Speaker>||:다시 시선을 앞으로 돌린 류드밀라의 눈엔 노부인이 들어왔다.+일등석 객차에서 보았던, 휠체어를 탄 노부인. 지금 그녀는 다른 도적들의 호위를 받으며 가장 눈에 띄는 자리에 앉아 있었다.+이를 확인한 류드밀라의 눈이 가늘어졌다.+저자가 "류바 할멈"이 분명했다.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||<SE1>Stop_AVG_loop</SE1>:허튼 생각 마라, 교관 나으리.+우린 그냥 재테크 상품을 좀 사려는 것뿐이니까, 그러니까 얌전히 협조 좀 해라.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:류드밀라는 다니엘에게 결박된 인형들이 있는 창가 쪽으로 떠밀려, 강제로 자리에 앉혀졌다.
+()<Speaker></Speaker>||:그런데 고개를 슬쩍 기울여 반대편을 보니, 거기에 있는 청년은 매우 난감해하는 표정에 그의 동료들만큼 들떠 보이지도 않았다.
+()<Speaker></Speaker>||:덩치에 어울리지 않게 조심스러운 다니엘의 모습을 본 니콜라스는 코웃음을 쳤다.
+NPC-NervousMan(1)<Speaker>니콜라스</Speaker>||:여자 한 명 밀고 가는데 뭘 그리 조심하냐?+1분 걸릴 일을 10분으로 늘리네.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:친절하게 설명해 주는데, 이년은 전술인형이야.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||<SE1>AVG_20Winter_Chains_Break</SE1>:알았으면 수갑이나 채워, 할멈한테 보고해야 하니까.
+NPC-NervousMan(1)<Speaker>니콜라스</Speaker>||:...네가 나한테 명령할 위치냐?
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:...그럼 니콜라스 씨, 저 대신 수갑 좀 채워 주시겠습니까?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:니콜라스는 짜증내며 수갑을 건네받았다.+다니엘이 옆을 휙 지나쳐 류바 할멈에게 가는 모습을 지켜보는 니콜라스는 말 그대로 똥 씹은 표정이었다.
+NPC-NervousMan(1)<Speaker>니콜라스</Speaker>||:감히 나한테 그딴 식으로 말해...?+날 무슨 인형 보듯...
+()<Speaker></Speaker>||:부아가 치민 니콜라스는 애꿎은 류드밀라에게 화풀이했다.
+NPC-NervousMan(3)<Speaker>니콜라스</Speaker>||:칫... 전술인형도 뭐 별거 아니네.+몸에 인공 피부도 제대로 안 덮고――
+AR18(4)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......
+()<Speaker></Speaker>||:류드밀라가 매섭게 노려보자, 니콜라스는 더욱 성질을 냈다.
+NPC-NervousMan(3)<Speaker>니콜라스</Speaker>||<SE1>AVG_XXS_kick</SE1><震屏3>:——너 꼼짝 마라!?
+()<Speaker></Speaker>||<SE1>AVG_Camera_Focus</SE1>:니콜라스는 류드밀라의 손을 난폭하게 낚아채 수갑을 채우고 잠그려 했다.
+AR18(3)<Speaker>류드밀라</Speaker><Position>0,70</Position>||<BGM>BGM_Empty</BGM>:방금 그자 말대로 빨리 했어야지.
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:......!?
+()<Speaker></Speaker>||<BGM>10256</BGM></BGM><SE1>AVG_Punch_Hit</SE1><震屏3>:<size=50>쿠웅!</size>
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker><Shake>0.1</Shake>||:뭣――크헉?!
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:......!
+()<Speaker></Speaker>||:눈 깜짝할 사이에 벌어진 일이었다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:뻐억!
+()<Speaker></Speaker>||:류드밀라가 기습적으로 손을 치켜들어 니콜라스의 턱을 강타했고, 손목에 채워진 수갑이 그의 턱 살갗을 찢었다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:그리고 그가 고통에 찬 비명을 지를 새도 없이, 류드밀라는 수갑의 사슬로 그의 목을 단단히 조였다.
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker><Shake>0.1</Shake>||:끅... 악...
+()<Speaker></Speaker>||:어찌나 세게 조였는지, 니콜라스의 목에 혈관이 그물무늬로 솟아올랐다.+얼굴은 순식간에 벌겋게 부어올랐고, 눈동자도 충혈되었다.
+()<Speaker></Speaker>||<SE1>Select</SE1>:도적들은 재빨리 총을 들었지만 아무도 방아쇠를 당기지 않았다. 류드밀라가 니콜라스의 뒤에 완전히 몸을 숨겼기 때문이었다.+이 소란에 류바 할멈의 표정은 구겨질대로 구겨졌다.+서로가 노려보는 잠깐의 대치 후, 류바 할멈이 사악한 낮은 목소리로 먼저 입을 열었다.
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:그놈 놔라.
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker><Shake>0.1</Shake>||<SE1>Rope</SE1>:쏘직... 쏘지 마악...
+()<Speaker></Speaker>||:니콜라스는 벌겋게 부은 얼굴로 힘겹게 애원했다.
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:......
+()<Speaker></Speaker>||:당장에라도 잡아먹을 듯한 독기 어린 눈으로, 류바 할멈은 니콜라스를 방패 삼아 천천히 뒤로 물러나는 류드밀라를 노려봤다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리곤 검지로 살며시, 오른눈을 훑어 있지도 않은 눈물을 훔쳤다.
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:...그냥 쏴.
+()<Speaker></Speaker>||:류바 할멈의 목소리는 니콜라스의 울부짖음에 완전히 묻힐 정도로 작았지만...
+()<Speaker></Speaker>||<震屏3><SE2>Gunfight</SE2>:타타타탕!!!
+()<Speaker></Speaker>||<SE1>AVG_Bullet_Hit_Body</SE1>:투투투투!!+그 자리의 모든 도적들이 명령이 떨어지기가 무섭게 방아쇠를 당겼다.
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker><Shake>0.1</Shake>||:<size=50>으아아아악!!!</size>
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Metal_Break</SE1>:방아쇠들이 당겨짐과 동시에, 류드밀라는 수갑을 풀면서 니콜라스를 힘껏 밀어냈다.
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=8</controll_shake><SE1>AVG_Gatling_gun</SE1>:타타타탕――!+쏟아지는 총탄들이 선반과 벽, 천장을 두들기고 니콜라스는 바닥을 몇 바퀴나 굴렀지만, 놀랍게도 단 한 발도 그에게 닿지 않았다.
+()<Speaker></Speaker>||<震屏3><SE1>RunStep</SE1><SE1>AVG_Cloak_Whoosh</SE1>:그리고 당연히, 류드밀라도 가만있지 않았다. 그녀는 곧장 바 카운터가 위치한 쪽 방향의 객차로 달려갔다.
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:<size=50>저년 잡아!!!</size>
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:류바 할멈은 달리는 류드밀라의 뒤를 눈으로 좇으면서, 이를 갈며 고함쳤다.
+()<Speaker></Speaker>||:......
+()||<黑点1>:

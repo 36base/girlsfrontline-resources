@@ -1,0 +1,137 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>9</BIN><SE1>AVG_20Winter_Chains_Break</SE1>:......+왠지 모르게 어눌한 목소리가 어둠을 뚫고 살며시 내게 다가왔다.
+()<Speaker>폴?</Speaker>||:그래, 폴이야.
+NPC-SickGirl(0)<Speaker>나</Speaker>||:폴...
+NPC-SickGirl(0)<同时置暗><Speaker></Speaker>||:나는 손에 잡힌 물건을 만져봤다. 따뜻하고 부드러운 손이 아니라, 차가운 쇳덩이였다.+인간이 죽어 몸에서 온기가 사라졌을 때보다도 차가운 쇳덩이였다.
+NPC-SickGirl(0)<Speaker>나</Speaker>||<BGM>GF_21winter_avg_mahaline</BGM>:...다행이다, 무사했구나.+그럼 우린 이제 어디로 가야 해?
+NPC-SickGirl(0)<同时置暗><Speaker>폴?</Speaker>||:어... 우선, 네 안색이 아주 안 좋아 보여. 아무래도 충전...이 아니라 충분한 영양을 섭취해야...+그래, 뭣 좀 먹어야겠네. 뭣 좀 먹어야...
+NPC-SickGirl(0)<Speaker>나</Speaker>||:응... 그러고 보니 나 배고파졌어...
+NPC-SickGirl(0)<同时置暗><Speaker>폴?</Speaker>||:그럼 여기서 기다려, 내가 가서 먹을걸 찾아 올게.
+()||:그의 목소리는 어눌하고 투박했지만, 상냥하고, 조심스럽고, 무척 안심이 됐다.
+()||<SE1>ClothingUp</SE1>:나는 그가 떠나기 전 정리해 준 구석에 얌전히 앉아 그를 기다렸다. +몸을 조금 뒤척이니 골판지가 부스럭대는 소리가 났다. 내게 작은 성이라도 지어 준 걸까?
+()<Speaker>폴?</Speaker>||:연약한 장미꽃...+유리 덮개로 보호해야 ...
+NPC-SickGirl(0)<Speaker>나</Speaker>||:......
+()||<黑屏1>:그의 낮게 중얼거리는 목소리가 점차 멀어졌다.+어둠 속이지만 포근하게 앉아있으니, 옛날 항상 내게 안식처가 되어 줬던 옷장이 떠올랐다.
+()||<黑屏2><BIN>466</BIN><回忆>:......+브레멘, 버얼 고아원.
+()||<震屏3><SE1>AVG_21Winter_Phone_Crash</SE1>:쾅!+딱딱한 물건이 내 등에 맞고 바닥에 떨어져 큰 소리가 났다.+뒤에서 애들 몇 명이 악마처럼 웃는 소리가 났지만, 나는 뒤돌아볼 수도, 소리낼 수도 없었다. 그저 아직 기억하는 길을 따라 벽을 짚으며, 안전한 내 기지로 달리기만 했다.
+()<Speaker>에스텔</Speaker>||<SE1>RunStep</SE1>:당장 나와, 장님아!
+()<Speaker>리나</Speaker>||<SE1>RunStep</SE1>:그래 얼른 나와, 내가 눈 고쳐 줄게! 깔깔깔――
+()||<SE1>Rope</SE1>:좁은 옷장. 여긴 나만 아는 곳이다.+창고 오른쪽 구석에 있는데, 앞에 잡동사니가 잔뜩 쌓여 있어서 모르는 사람은 여길 찾기 아주 어렵다.
+()<Speaker>리나</Speaker>||:빨랑 나와! 너 진짜 가만 안 둔다!?
+()<Speaker>에스텔</Speaker>||:됐어 리나, 보나마나 지금 어디 구석에 숨어서 오줌 지렸을 거야.+문 앞에 숨자, 걔 나오면 놀래키게.
+NPC-SickGirl(2)<Speaker>나</Speaker>||:......
+()||<SE1>AVG_Door_Hit</SE1>:그 애들은 깔깔대며 창고에서 나갔다. 하지만 정말 문 앞에서 매복하고 있는지, 흥미를 잃고 떠났는지는 알 수 없었다.
+()||<黑屏1><SE1>Rope</SE1>:그래서 난 계속 옷장 안에 웅크린 채, 시간이 많이 지나길 기다렸다.
+()||<黑屏2><BIN>9</BIN><SE1>ClothingUp</SE1><关闭蒙版>:......+부스럭부스럭.+누가 상자를 들어올렸다. 폐지를 모으는 사람일까?+나는 잔뜩 웅크렸다.
+()<Speaker>폴?</Speaker>||:먹을 걸 가져왔어. 네가 먹을 수 있는 건진 잘 모르겠지만...
+()||<SE1>ClothingUp</SE1>:내 코앞에서 군침 도는 향기가 났고, 나는 생각할 겨를도 없이 그걸 덥석 잡아 우적우적 씹어먹었다.+문득 생각해 보니, 마지막으로 음식다운 음식을 먹은 게 사흘 전이었던 것 같다. 그때 길가에서 운 좋게 차갑지만 상한 냄새가 나지 않는 빵을 주워 먹었으니까.
+()<Speaker>폴?</Speaker>||:천천히 먹어, 아무도 안 뺏어가.
+NPC-SickGirl(0)<Speaker>나</Speaker>||:응... 고마워...
+NPC-SickGirl(0)<同时置暗><Speaker></Speaker>||<SE1>AVG_20Winter_Chains_Break</SE1>:녹슨 부품이 삐걱이는 소리가 났다.+그리고 그가 내 옆에 앉은 것이 느껴졌다. 약간 거리를 두긴 했지만.
+NPC-SickGirl(0)<Speaker>나</Speaker>||:넌... 안 먹어?
+NPC-SickGirl(0)<同时置暗><Speaker>폴?</Speaker>||:나는―― 나는 방금 먹고 왔어.
+()||<黑屏1><SE1>Rope</SE1>:따뜻하고 맛있는 음식으로 배를 채우니, 무척이나 안심되고 행복해 눈물이 났다.+나는 지금까지 손길조차 느껴본 적 없는 내 부모님이 왜 나를 이런 세상에 버렸는지 셀 수도 없이 원망했다.+하지만 따뜻한 음식만이, 울분을 잠시 내려놓고 내가 아직 살아있음을 진심으로 감사하게 했다.
+()||<黑屏2><BIN>466</BIN><回忆>:브레멘, 버얼 고아원.
+()||:옷장에서 얼마나 숨어있었을까, 난 꾸벅꾸벅 졸다 잠들었다.
+()||<SE1>AVG_doorknock_wood</SE1>:똑똑.+부드러운 노크 소리가 나를 깨웠다.
+()<Speaker>？？？</Speaker>||:역시 여기 있었구나.
+()||<SE1>ClothingUp</SE1>:따뜻한 손이 내 손을 잡고선 자신의 얼굴에 가져다댔다. 익숙한 감촉...
+NPC-SickGirl(0)<Speaker>나</Speaker>||:...로시타.
+NPC-SickGirl(0)<同时置暗><Speaker></Speaker>||<SE1>Rope</SE1>:뭐라 말하기도 전에 내 품에 빵이 놓였다.+고아원에서 주는 저녁밥인데, 로시타는 항상 내게 그걸 다 줬다. 이 손바닥의 다정하고 상냥한 체온과 함께.
+NPC-SickGirl(0)<同时置暗><Speaker>로시타</Speaker>||:오늘 하루 종일 아무것도 안 먹었지? 엄청 배고팠겠다.
+NPC-SickGirl(0)<Speaker>나</Speaker>||:고마워!
+()||<SE1>ClothingUp</SE1>:몇 입만에 그 빵을 다 먹어치운 내 옆으로 로시타도 들어왔다.+나처럼 작은 몸을 통해 안심되는 체온이 느껴졌다.
+()<Speaker>로시타</Speaker>||:어휴 참, 너도 너 스스로 이름 좀 지어 봐. 항상 번호로 부를 때마다 느낌 이상하다구.+특히 이렇게 너 찾아다닐 때 말이야.
+NPC-SickGirl(1)<Speaker>나</Speaker>||:......+난 상관없는데.
+()<Speaker>로시타</Speaker>||:...그래.
+()||:다른 애들 말로는, 이름이란 부모가 지어 주어야 하는 거라고 한다. 이름을 받지 못했다면, 스스로 이름을 지어도 그건 자신의 진짜 이름이 아니라는 말도 들었다.
+()<Speaker>로시타</Speaker>||:아 맞다, 나 좋은 일 있다~
+NPC-SickGirl(0)<Speaker>나</Speaker>||:뭔데?
+NPC-SickGirl(0)<同时置暗><Speaker>로시타</Speaker>||:원장 선생님이 있지~ 나도 드림박스에 들어갈 수 있게 됐대!
+NPC-SickGirl(0)<同时置暗><Speaker></Speaker>||:로시타의 따뜻한 입김이 내 귓가에 닿았지만, 내 심정은 철렁 내려앉았다.
+NPC-SickGirl(2)<Speaker>나</Speaker><Shake>0.1</Shake>||:뭐...?! 아, 안 돼!
+NPC-SickGirl(2)<同时置暗><Speaker>로시타</Speaker>||:어, 왜? 여기 애들 모두 드림박스에 들어가고 싶어하잖아.+드림박스에 들어가면 소원이 이루어진다고 원장 선생님이 말했어!
+NPC-SickGirl(2)<Speaker>나</Speaker>||:안 돼, 그거 엄청 무시무시한 거야...!
+NPC-SickGirl(2)<同时置暗><Speaker>로시타</Speaker>||:왜 그렇게 말해? 들어가본 적도 없으면서.
+NPC-SickGirl(2)<Speaker>나</Speaker>||:......전에 말했잖아.+어쩌다 원장 선생님이 하는 얘기를 들었다고.+그, 그리고... 드림박스에 들어간 애들... 엄청 불쌍하게 울었어...
+NPC-SickGirl(2)<同时置暗><Speaker>로시타</Speaker>||:......+네가 잘못 들었겠지.
+()||<SE1>AVG_Cloak_Whoosh</SE1><BGM>BGM_Empty</BGM>:얼마 후, 로시타는 먼저 옷장에서 나와서 내 손을 잡고 나오게 해 주었다.
+()<Speaker>로시타</Speaker>||:드림박스로 나쁜 얘기 하지 마, 알았지?+내가 이 날을 얼마나 기다렸는지 너도 알잖아.
+NPC-SickGirl(2)<Speaker>나</Speaker>||:그치만...
+NPC-SickGirl(2)<同时置暗><Speaker>로시타</Speaker>||:계속 그럼 나 화 낸다!
+()||<黑屏1>:나는 하는 수 없이 입을 다물고, 얌전히 로시타를 따라 방으로 돌아갔다.
+()||<黑屏2><关闭蒙版><BIN>9</BIN><BGM>BGM_Wake</BGM>:......+나는 "폴"이 가져와 준 음식을 전부 먹고, 배가 불러 벽에 기댔다.
+NPC-SickGirl(0)<Speaker>나</Speaker>||:...너는 어디서 왔어?
+NPC-SickGirl(0)<同时置暗><Speaker>폴?</Speaker>||:어... 무슨 말인지 모르겠는데.
+NPC-SickGirl(0)<Speaker>나</Speaker>||:괜찮아... 네가 폴이 아니란 거 알아.+그 사람이 나한테 먹을걸 가져와 줄 리 없거든.
+()||<SE1>AVG_20Winter_Chains_Break</SE1>:그가 있는 쪽으로 손을 뻗어봤지만, 만져지는 것이라곤 말랑한 부분 없이 온통 단단한 쇳덩이였다.+나는 상상력을 총동원해 그의 모습을 머릿속에 간신히 그려냈다.
+NPC-TD_Worker(1)<Speaker>폴?</Speaker>||:난...+난 시베리아의 황무지에서 왔어.
+NPC-TD_Worker(1);NPC-SickGirl(0)<Speaker>나</Speaker>||:거기가 어디야?
+NPC-TD_Worker(1)<Speaker>폴?</Speaker>;NPC-SickGirl(0)||:바르샤바에서 엄청 멀리 떨어진 곳. 난 거기서 대륙간 열차를 타고 바르샤바로 왔어.
+NPC-TD_Worker(1);NPC-SickGirl(0)<Speaker>나</Speaker>||:대륙간 열차...?
+NPC-TD_Worker(1)<Speaker>폴?</Speaker>;NPC-SickGirl(0)||:강철 괴물 같은 거야. 열차가 길게 이어져서, 용처럼...
+NPC-TD_Worker(1);NPC-SickGirl(0)<Speaker>나</Speaker>||:우와아... 그건 어떻게 움직이는데?
+NPC-TD_Worker(1)<Speaker>폴?</Speaker>;NPC-SickGirl(0)||:철로 위를 엄청 빠르게 달――+......
+NPC-TD_Worker(1);NPC-SickGirl(0)<Speaker>나</Speaker>||:...왜 그래?
+NPC-TD_Worker(1)<Speaker>폴?</Speaker>;NPC-SickGirl(0)||:나와 내 동료들은 몇 년 동안 시베리아의 황무지에서 계속 철로를 수리했어.+그래서 열차를 탔을 땐 엄청 복잡한 기분이었어.
+NPC-TD_Worker(1);NPC-SickGirl(0)<Speaker>나</Speaker>||:대단하다... 엄청 위대한 일을 했구나.
+NPC-TD_Worker(1)<Speaker>폴?</Speaker>;NPC-SickGirl(0)||:위대한 일... 위대한 일이라...+그럼 너는? 너는 어디에서 왔어?
+NPC-TD_Worker(1);NPC-SickGirl(0)<Speaker>나</Speaker>||:나는 브레멘의 버얼 고아원에서 왔어. 거기로 돌아갈 방법을 찾고 있어.
+NPC-TD_Worker(1)<Speaker>폴?</Speaker>;NPC-SickGirl(0)||:고아원... 왜 거기로 돌아가려 해?
+NPC-SickGirl(0)<Speaker>나</Speaker>||:내 소중한 친구가 거기서 기다리고 있거든. 가서 걔한테 사과해야 해.
+()||<SE1>ClothingUp</SE1>:나는 내 몸을 더듬어 주머니 속을 뒤졌다. 로시타에게 부탁해 안쪽에 기워 둔 주소가 적힌 쪽지가 손끝에 닿자, 조금 안심이 되었다.
+NPC-TD_Worker(1)<Speaker>폴?</Speaker>||:어떤 애인지 말해줄 수 있어?
+NPC-SickGirl(0)<Speaker>나</Speaker>||<黑屏1>:물론이지!
+()||<黑屏2><BIN>466</BIN><回忆>:브레멘, 버얼 고아원.+로시타가 드림박스에 들어가는 날은 금방 찾아왔다. 나는 무거운 마음으로, 마지막으로 같이 옷장에서 얘기하자고 로시타를 불렀다.
+()||<SE1>AVG_Cloak_Whoosh</SE1>:로시타는 약속한 시간에 왔다. 걔의 가벼운 발소리가 옷장 앞에서 멈췄고, 곧이어 옷장의 문을 열고 머리를 들이미는 소리가 났다.
+()<Speaker>로시타</Speaker>||:...어라? 없네?
+NPC-SickGirl(1)<Speaker>나</Speaker>||:......!
+()||<SE1>AVG_20Winter_Door_Close</SE1>:나는 이를 악물고 로시타를 옷장 안으로 밀어넣고, 미리 준비한 빗자루로 문을 걸어 잠갔다.
+()<Speaker>로시타</Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1>:뭐야?! 이게 무슨 짓이야!?
+NPC-SickGirl(2)<Speaker>나</Speaker>||:미안해... 미안해...!
+()||<SE1>AVG_Door_Hit</SE1><震屏3>:로시타는 엄청 큰 소리로 울었고, 약한 주먹으로 옷장 문을 계속 두들겼다.+나는 창고 밖으로 나와 문을 닫았고, 그러자 로시타의 울음소리도 작아졌다.+저녁 식사 때쯤이면 원장 선생님이 찾아내겠지.
+NPC-SickGirl(2)<Speaker>나</Speaker>||:미안해 로시타, 정말 미안해...
+()||<SE1>AVG_Cloak_Whoosh</SE1><黑屏1>:나는 손을 뻗어 앞을 더듬으며, 로시타의 방의 드림박스에 들어갔다.+그리고 다시 정신이 들었을 때, 나는 내가 어디 있는 건지 알 수 없었다.
+()||<BGM>BGM_Empty</BGM><黑屏2><BIN>463</BIN>:다만 차가운 목소리가 귓가를 때렸다.
+()<Speaker>실험실 조수</Speaker>||:다음... 로시타, 나이 11살, 신장...
+()||<SE1>Heartbeat</SE1>:차가운 기계가 내 살에 닿자, 심장이 뛰는 게 느껴질 정도로 긴장됐다.
+()<Speaker>실험실 조수</Speaker>||:루고사 선생님, 이 여자아이는 정보와 달라요, 눈에 문제가 있습니다.
+()<Speaker>의사</Speaker>||:...됐다, 또 왔다갔다하면 고생이니까, 다른 장기가 멀쩡하면 들여보내렴.
+()||<白屏1>:들여보낸다니... 어디로?+저 사람은 의사 선생님일까? 그럼 내 눈을 고쳐 주는 걸까?+차갑고 딱딱한 판 위에 눕혀진 나는 온갖 상상을 했다.
+()||<关闭蒙版><白屏2><BIN>183</BIN><SE1>AVG_tinnitus_0</SE1>:그 다음 기억은 엉망진창이다.+그들이 나에게 한 짓을 이해할 수 없었다. 그저, 끝없이 괴롭기만 했다.+끝없는 어둠의 바다 속에서, 바늘이 무수한 빛줄기처럼 반짝이며 커지고, 커지고, 커지고...
+()||<黑屏1><SE1>AVG_tinnitus_0</SE1>:고통의 소용돌이가 내 몸을 휘감고, 의식이 몇 번이나 벗겨져 나갔다가 깨워지고, 또 벗겨져 나가고... 피가 철철 흐르는 상처를 계속 벌려, 울음소리가 끊이지 않는 심연에 빠지는 것처럼...+나는 필사적으로 몸부림치고 소리질렀다. 모든 단어가 의미를 잃고, 그날 로시타의 원망 섞인 울음소리가 귓가에 되울릴 때까지.
+()||<黑屏2><BIN>507</BIN><回忆><SE1>AVG_Amb_Rain_0</SE1><SE1>AVG_BaseDoor_Close</SE1><BGM>m_avg_labyrinth</BGM>:내가 주변의 상황을 인식할 수 있을 정도로 다시 정신이 들었을 땐, 시간이 얼마나 흘렀는지 알 수 없었다.+다만 주위가 전과 다르다는 것은 확실했다. 귓가에 들리는 기계가 돌아가는 소리가 달랐고, 무언가가 썩는 냄새가 코를 찔렀으니까.
+()<Speaker>？？</Speaker>||:야, 너 살아있지?
+NPC-SickGirl(0)<Speaker>나</Speaker>||<SE1>Rope</SE1>:......여긴... 어디...? 너는 누구야...?
+NPC-SickGirl(0)<同时置暗><Speaker>폴</Speaker>||:여긴 놈들 쓰레기장이고, 내 이름은 "폴"이다. 여기 담당자지.
+NPC-SickGirl(0)<Speaker>나</Speaker>||:쓰레기장...
+NPC-SickGirl(0)<同时置暗><Speaker>폴</Speaker>||:너처럼 실험에 실패한 폐기물은 다 여기다 버려.+내가 마침 조수가 필요했는데, 넌 아직 숨이 붙어 있길래 꺼내 준 거다.
+NPC-SickGirl(0)<Speaker>나</Speaker>||:......
+NPC-SickGirl(0)<同时置暗><Speaker>폴</Speaker>||:뭘 멍하니 있어? 얼른 와서 시체 옮기는 거나 거들어.
+()||<SE1>AVG_footsteps_woodfloor</SE1>:폴은 나를 무시하고 걸어갔다. 나는 그의 발소리를 따라 쫓아야만 했다.
+()||<SE1>Stop_AVG_loop</SE1><SE1>AVG_lifttable</SE1>:하지만 바닥이 울퉁불퉁해서 자꾸 발이 걸려 넘어졌다.+그리고 폴도 눈치챘다.
+()<Speaker>폴</Speaker>||:너 설마... 안 보이냐?
+NPC-SickGirl(2)<Speaker>나</Speaker>||:......
+NPC-SickGirl(2)<同时置暗><Speaker>폴</Speaker>||:아 XX 안 죽은 거 겨우 찾았다 싶었더니 써먹지도 못하는 거였네...
+()||<SE1>Rope</SE1>:그는 성질을 내며 날 질질 끌고 가, 자동차의 트렁크 같은 곳으로 날 던져 넣었다.
+()||<黑屏1><SE1>AVG_20Winter_Door_Car_Close</SE1><震屏3>:쿵!+그리고 트렁크가 닫혔다.
+()||<黑屏2>:더는 숨이 쉬어지지 않을 때쯤 마침내 트렁크가 다시 열렸고, 나는 곧바로 게걸스럽게 신선한 공기를 들이마셨다.
+()<Speaker>폴</Speaker>||:이거다, 가져가.
+NPC-SickGirl(0)<Speaker>나</Speaker>||<Shake>0.1</Shake>:......?
+()||<SE1>Rope</SE1>:무엇이 어떻게 돌아가는지도 깨닫지 못한 채, 나는 몇 쌍의 손에 붙들려 난폭하게 차에서 끌어내려졌다.
+()||<SE1>RunStep</SE1>:난 본능적으로 무서워졌다. 필사적으로 몸부림치고, 바람이 부는 쪽으로 내달렸다.
+()||<SE2>Gunfight</SE2>:탕 탕 탕——
+()||<黑屏1>:뒤에서 총소리가 났고, 폴의 비명도 들렸다. 하지만 뒤돌아볼 순 없었다. 난 그저 계속 무엇이 있을지 모르는 앞을 향해 달리기만 했다.
+()||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN><关闭蒙版>:그리고, "폴"을 만났다.+그는 나를 괴롭히지 않고, 먹을 것까지 가져와 주었다.
+NPC-SickGirl(0)<Speaker>나</Speaker>||<BGM>GF_21winter_avg_mahaline</BGM>:...엄청 긴 이야기야. 한숨 자고 나면 얘기해 줄게.
+NPC-TD_Worker(1)<Speaker>폴?</Speaker>||:그래.
+NPC-TD_Worker(1)<同时置暗><Speaker></Speaker>||:오늘은 너무 힘들었는지 머리가 어지럽고 몸이 둥실둥실해져서, 당장에라도 풍선으로 변해 하늘 높이 날아갈 것만 같았다.
+NPC-TD_Worker(1)<Speaker>폴?</Speaker>||:괜찮아?
+NPC-TD_Worker(1);NPC-SickGirl(1)<Speaker>나</Speaker>||:응... 그냥... 피곤해서...
+NPC-TD_Worker(1)<Speaker>폴?</Speaker>;NPC-SickGirl(1)||:네 몸의 이 자국들은 뭐야? 병에 걸린 것 같은데...+아 미안, 너는 눈이 안 보이지...
+NPC-SickGirl(1)<Speaker>나</Speaker>||:괜찮아... 조금만 잘게...
+()||<SE1>Rope</SE1>:몸을 천천히 웅크리고, 폴의 다리에 기대서, 나는 깊은 꿈속에 빠지려 했다.+다만 잠이 들기 직전, 아직 폴에게 말하지 않은 게 생각났다.
+NPC-SickGirl(1)<Speaker>나</Speaker>||:...난 "로시타"야.+내 진짜 이름은 아니지만, 이것 말고는 아는 이름이 없어.
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||:그럼 나도 "폴"이야.+이름은 아무래도 상관없으니까.+너는 너고, 나는 나야.
+()||:재미있는 대답에 난 피식 웃고, 꿈속에 빠졌다.
+()||<黑点1>:

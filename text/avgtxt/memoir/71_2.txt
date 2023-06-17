@@ -1,100 +1,100 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>73</BIN><黑屏2><BGM>GF_EV9_Story</BGM>:전선대기조의 일과 훈련 시간.+평소처럼, 네게브는 소대의 예비역들의 훈련을 지도했다.+한편, 갈릴은 과녁판을 멍하니 바라보며 방아쇠를 당기지 않았다.
-AR(0)<Speaker>갈릴</Speaker>||:<color=#A9A9A9>역시 네게브한테도 말을 해야겠지?</color>+<color=#A9A9A9>아무 말도 없이 갔다간 분명 화낼 게 뻔하니...</color>
-()||:갈릴은 곁눈질로 네게브를 지켜봤다.+네게브는 신입 인형의 총기 파지법을 교정해 주고...+다른 신입 인형과 대화를 나눈 뒤...+마침내 갈릴이 있는 쪽으로 다가왔다.+때가 되자, 갈릴은 숨을 깊게 들이마셨다.
-NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position>||:응? 뭐야, 너 아직도 안 끝났어?
-NEGEV(0)<Position>0,100</Position>;AR(0)<Speaker>갈릴</Speaker>||:네게브, 따로 할 말이 있어.
-NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position>;AR(0)||:우리 사이에도 그렇게 뜸을 들일 일이라니, 뭔데?
-NEGEV(0)<Position>0,100</Position>;AR(0)<Speaker>갈릴</Speaker>||:아하하... 그게, 어떻게 입을 열어야 할지 모르겠네...
-NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position;AR(0)>||:됐으니까 얼른 말해.
-NEGEV(0)<Position>0,100</Position>;AR(0)<Speaker>갈릴</Speaker>||:......+나, 전선대기조에서 나가서 다른 부서를 찾아보고 싶어.
-NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position>;AR(0)||:...이유는?
-NEGEV(0)<Position>0,100</Position>;AR(0)<Speaker>갈릴</Speaker>||:내게 가장 어울리는 자리를 찾고 싶어서.
-NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position>;AR(0)||:그러니까...
-NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position>||:지금 일이 안 맞다는 생각이 들어서, 다른 데서 새로운 가능성을 찾고 싶다?
-AR(0)<Speaker>갈릴</Speaker>||:...응.
-()||:잠깐에 불과했지만, 갈릴에겐 네게브의 침묵이 한세월처럼 느껴졌다.
-AR(0)<Speaker>갈릴</Speaker>||:<color=#A9A9A9>이거 된통 한소리 듣겠는데...</color>
-NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position>||:...알았어. 신청서 제출해, 수리해 줄 테니까.
-AR(0)<Speaker>갈릴</Speaker>||:어?+<color=#A9A9A9>그냥 넘어간다고?</color>
-()||:네게브는 더 이상 말하지 않고, 그대로 다른 인형에게 발길을 돌렸다.
-()||<SE1>AVG_footsteps_cave</SE1>:뚜벅, 뚜벅...
-()||<SE1>Stop_AVG_loop</SE1><黑屏1>:하지만 네게브의 힘찬 발걸음이, 갈릴에겐 자신을 질타하는 것처럼 느껴졌다.
-()||<黑屏2><BIN>97</BIN><BGM>BGM_Empty</BGM>:다른 부서의 정보센터로 가는 길.+자신의 이력서를 든 갈릴은 마치 비바람 속의 갈대와 같은 심정이었다.
-AR(0)<Speaker>갈릴</Speaker>||<BGM>m_avg_hope</BGM>:후우... 가장 어려운 첫걸음은 내디뎠어.+이젠 어느 문턱을 넘느냐가 관건이겠지.
-()||:온갖 부서들의 명패를 보면서, 갈릴은 이력서를 꼬옥 안은 채 고민했다.
-AR(0)<Speaker>갈릴</Speaker>||:어디로 갈까...+솔직히 끌리는 데가 없는데... 확 그냥 다 찔러 봐?
-AR(0);HS2000(0)<Speaker>HS2000</Speaker>||:갈릴 씨?
-AR(0)<Speaker>갈릴</Speaker>;HS2000(0)||:아, 안녕 호식아.
-AR(0);HS2000(0)<Speaker>HS2000</Speaker>||:호식이 아니라니까요... 그런데 손에 들고 계신 그거, 다른 부서로 이적하시려고요?
-AR(0)<Speaker>갈릴</Speaker>;HS2000(0)||:응, 다른 가능성을 찾아보려고.
-AR(0);HS2000(0)<Speaker>HS2000</Speaker>||:그래서 우지 씨가 요즘 기운이 없으셨군요...
-AR(0)<Speaker>갈릴</Speaker>;HS2000(0)||:아하하...
-AR(0);HS2000(0)<Speaker>HS2000</Speaker>||:아무튼, 그냥 마침 보이시길래 인사드렸어요.
-HS2000(0)<Speaker>HS2000</Speaker>||:그런데 제가 알기론 지금은 다른 부서들 모두 한창 바쁠 시기라서, 이적하기 좋은 때는 아닐 것 같아요.
-AR(0)<Speaker>갈릴</Speaker>||:그런가... 고마워, 전체적으로 적당히 한번 둘러봐야겠네.
-HS2000(0)<Speaker>HS2000</Speaker>||:네. 그럼 행운을 빌어요, 갈릴 씨.
-()||:HS2000은 잠깐 머뭇대다 자리를 떠났다.
-AR(0)<Speaker>갈릴</Speaker>||:가는 날이 장날이라더니...+내가 어디로 갈지보단 어디에서 날 받아 줄지가 문제겠는걸...+...그래도, 이대로 가만있을 수는 없지.
-()||<黑点1>:갈릴은 한숨을 내쉬고, 가장 가까운 전략대기조로 향했다.
-()||<黑点2>:딩동——+전략대기조 정보센터의 초인종이 울렸다.
-AR(0)<Speaker>갈릴</Speaker>||:안녕~! 잠깐 시간 될까?
-Welrod(0)<Speaker>웰로드 MkⅡ</Speaker>||<SE1>AVG_door_elecport</SE1>:어서 와라, 갈릴. 무슨 일이지?
-AR(0)<Speaker>갈릴</Speaker>||:웰로드... 나, 전략대기조에 들어가고 싶어.+여기 내 이력서야.
-Welrod(0)<Speaker>웰로드 MkⅡ</Speaker>||:으음...? 무슨 일 있었나?+그대는 전선대기조의 네게브 소대 소속이잖은가.
-AR(0)<Speaker>갈릴</Speaker>||:그렇지.+일 있는 건 아니고, 그냥... 나한테 더 어울리는 곳을 찾고 싶어서 나왔어.
-Welrod(0)<Speaker>웰로드 MkⅡ</Speaker>||:흠... 사정은 알겠다. 하지만 유감이군, 지금 전략대기조는 만원이라서 말이지.+새 대원을 받을 자리가 없다.
-AR(0)<Speaker>갈릴</Speaker>||:아하...
-()||:웰로드의 어깨 너머로, 바쁘게 움직이는 인형들이 갈릴의 눈에 들어왔다.
-AR(0)<Speaker>갈릴</Speaker>||:그럼 다른 데를 알아봐야겠네, 실례했어.
-Welrod(0)<Speaker>웰로드 MkⅡ</Speaker>||:미안하다. 그대의 길에 행운이 있기를 빌지.
-()||<SE1>AVG_door_elecport</SE1><黑屏1>:갈릴의 등뒤로 자동문이 닫히면서, 전략대기조의 신선한 세상도 멀어졌다.
-()||<黑屏2><BIN>6</BIN>:변방조사단의 정보센터.
-()||<SE1>AVG_doorknock_wood</SE1>:똑똑똑... 갈릴이 낡은 목제 문짝을 노크했다.
-AR(0)<Speaker>갈릴</Speaker>||:어... 안녕? 갈릴이라고 해.
-SL8(0)<Speaker>SL8</Speaker>||<SE1>AVG_Door_Open_Close</SE1>:여어, 반가워. 무슨 일이야?
-AR(0)<Speaker>갈릴</Speaker>||:NTW-20 있어?
-SL8(2)<Speaker>SL8</Speaker>||:타이밍이 나쁘네, 방금 대규모 출동이 있었거든.+NTW도 같이 가서, 지금은 우리만 남아서 집을 지키는 중이지.
-AR(0)<Speaker>갈릴</Speaker>||:그렇구나...+그럼 변방조사단에 이적 신청하려면 또 누구한테 말하면 돼?
-SL8(2)<Speaker>SL8</Speaker>||:없지, 신청 수리 권한은 NTW한테밖에 없거든.
-AR(0)<Speaker>갈릴</Speaker>||:그럼 별수 없네. 실례했어.
-SL8(0)<Speaker>SL8</Speaker>||:실례라니 천만에. 수고해.
-()||<SE1>AVG_Door_Open_Close</SE1><黑屏1>:갈릴의 등뒤로 묵직한 판자문이 닫히면서, 미약한 온기도 사라졌다.
-()||<黑屏2><BIN>269</BIN>:...일반지원팀의 활동 장소.
-AR(0)<Speaker>갈릴</Speaker>||:......
-G3Mod(0)<Speaker>G3</Speaker>||:......
-AR(0)<Speaker>갈릴</Speaker>||:안녕 G3, 여기 혹시 인형 일자리 있어?
-G3Mod(0)<Speaker>G3</Speaker>||:죄송해요, 보시다시피 여긴 요정만 받아서...
-AR(0)<Speaker>갈릴</Speaker>||<黑屏1>:역시 그렇지, 미안...
-()||<黑屏2><BIN>22</BIN>:통합회수팀의 전용 공방.
-BOSS-1(0)<Speaker>스케어크로우</Speaker>||:......
-AR(0)<Speaker>갈릴</Speaker>||:......
-BOSS-11(0)<Speaker>드리머</Speaker>||:......
-AR(0)<Speaker>갈릴</Speaker>||:......
-BossJustice(0)<Speaker>저지</Speaker>||:......
-AR(0)<Speaker>갈릴</Speaker>||:......+실례했슴다!
-()||<黑屏1>:방에 한가득인 철혈 인형들과 10분가량 눈싸움을 한 갈릴은 결국 버티지 못하고 도망쳤다.
-()||<黑屏2><BIN>80</BIN><BGM>BGM_Empty</BGM>:종합근무팀의 부속 카페.
-AR(0)<Speaker>갈릴</Speaker>||<BGM>GF_Cafe</BGM>:...그렇게 된 일이야.
-M1903(10)<Speaker>스프링필드</Speaker>||:당신의 생각은 잘 알았어요. 그런데 정말 여기서 일하시겠어요?+전장에 나갈 일은 적을지 몰라도, 기지에서의 후방 지원 업무는 당신이 생각하는 것보다 훨씬 힘들어요.
-AR(0)<Speaker>갈릴</Speaker>||:그 정도야 당연히 알지.
-M1903(10)<Speaker>스프링필드</Speaker>||:그래도 꼭 하고 싶으세요?
-AR(0)<Speaker>갈릴</Speaker>||:응. 기회를 줘, 스프링필드.
-()||:결의에 찬 갈릴의 눈빛에, 스프링필드는 한숨을 내쉬며 대답했다.
-M1903(10)<Speaker>스프링필드</Speaker>||:알겠어요. 다른 팀의 담당자와 토의해 일과를 배정해 드릴 테니, 오늘은 돌아가서 통지를 기다려 주세요.
-AR(0)<Speaker>갈릴</Speaker>||<黑屏1>:응! 정말 고마워!
-()||<BIN>82</BIN><黑屏2><Night><BGM>BGM_Empty</BGM>:자신의 새 출발을 기념하고자, 갈릴은 특별히 저녁을 소대의 동료들이 좋아하는 음식으로 잔뜩 차렸다.+그리고 그녀가 음식을 접시에 옮겨 담던 도중이었다.
-AR(0)<Speaker>갈릴</Speaker>||<BGM>BGM_Hello</BGM>:룰루랄라...♪+...아니 근데, 어디서 뭐하길래 벌써 시간이 이렇게 됐는데도 안 와?+오늘 뭐 또 하는 일이 있던가?
-()||<SE1>AVG_tele_connect</SE1>:창밖의 하늘이 점점 어두워지는 것을 본 갈릴은 우지에게 통신을 보냈다.
-AR(0)<Speaker>갈릴</Speaker>||:우지, 뭐해? 왜 아직도 안 돌아와?
-AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker><通讯框>||:<color=#00CCFF>아차차, 말하는 걸 깜빡했다!</color>
-AR(0);TAR21(0)<Speaker>TAR-21</Speaker><通讯框>||:<color=#00CCFF>우지도 참... 갈릴? 죄송해요, 긴급 임무로 저녁 전까지 출발하라 해서 준비하느라 바빠 연락을 못했어요.</color>
-AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker><通讯框>||:<color=#00CCFF>지금 준비 다 하고 가는 중이야!</color>
-AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)<通讯框>||:아... 그랬구나...
-AR(0);TAR21(0)<Speaker>TAR-21</Speaker><通讯框>||:<color=#00CCFF>네게브가 갈릴은 다른 부서로 갔으니 이번 임무에서 빠질 거라고 해서...</color>
-AR(0)<Speaker>갈릴</Speaker>;TAR21(0)<通讯框>||:괜찮아 괜찮아. 그럼 언제 돌아와?
-AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker><通讯框>||:<color=#00CCFF>며칠 걸릴 거야, 임무 끝나면 연락 줄게!</color>
-AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)<通讯框>||:...알았어, 모두 조심해.
-AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker><通讯框>||:<color=#00CCFF>응 응~ 우왓, 끊어야겠다, 네게브가 작전 회의한다고 모이래.</color>
-MicroUZIMod(0)<Speaker>마이크로 우지</Speaker><通讯框>||:<color=#00CCFF>그럼 나중에 봐!</color>
-()||<SE1>AVG_tele_disconnect</SE1><黑屏1>:통신이 급하게 끊어졌다.+갈릴은 손에 든 수저를 내려놓고, 식탁에 한가득 차린 음식을 멍하니 바라봤다.+해는 이미 저물어, 창밖의 하늘은 완전히 어두워진 뒤였다.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>73</BIN><黑屏2><BGM>GF_EV9_Story</BGM>:전선대기조의 일과 훈련 시간.+평소처럼, 네게브는 소대의 예비역들의 훈련을 지도했다.+한편, 갈릴은 과녁판을 멍하니 바라보며 방아쇠를 당기지 않았다.
+AR(0)<Speaker>갈릴</Speaker>||:<color=#A9A9A9>역시 네게브한테도 말을 해야겠지?</color>+<color=#A9A9A9>아무 말도 없이 갔다간 분명 화낼 게 뻔하니...</color>
+()||:갈릴은 곁눈질로 네게브를 지켜봤다.+네게브는 신입 인형의 총기 파지법을 교정해 주고...+다른 신입 인형과 대화를 나눈 뒤...+마침내 갈릴이 있는 쪽으로 다가왔다.+때가 되자, 갈릴은 숨을 깊게 들이마셨다.
+NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position>||:응? 뭐야, 너 아직도 안 끝났어?
+NEGEV(0)<Position>0,100</Position>;AR(0)<Speaker>갈릴</Speaker>||:네게브, 따로 할 말이 있어.
+NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position>;AR(0)||:우리 사이에도 그렇게 뜸을 들일 일이라니, 뭔데?
+NEGEV(0)<Position>0,100</Position>;AR(0)<Speaker>갈릴</Speaker>||:아하하... 그게, 어떻게 입을 열어야 할지 모르겠네...
+NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position;AR(0)>||:됐으니까 얼른 말해.
+NEGEV(0)<Position>0,100</Position>;AR(0)<Speaker>갈릴</Speaker>||:......+나, 전선대기조에서 나가서 다른 부서를 찾아보고 싶어.
+NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position>;AR(0)||:...이유는?
+NEGEV(0)<Position>0,100</Position>;AR(0)<Speaker>갈릴</Speaker>||:내게 가장 어울리는 자리를 찾고 싶어서.
+NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position>;AR(0)||:그러니까...
+NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position>||:지금 일이 안 맞다는 생각이 들어서, 다른 데서 새로운 가능성을 찾고 싶다?
+AR(0)<Speaker>갈릴</Speaker>||:...응.
+()||:잠깐에 불과했지만, 갈릴에겐 네게브의 침묵이 한세월처럼 느껴졌다.
+AR(0)<Speaker>갈릴</Speaker>||:<color=#A9A9A9>이거 된통 한소리 듣겠는데...</color>
+NEGEV(0)<Speaker>네게브</Speaker><Position>0,100</Position>||:...알았어. 신청서 제출해, 수리해 줄 테니까.
+AR(0)<Speaker>갈릴</Speaker>||:어?+<color=#A9A9A9>그냥 넘어간다고?</color>
+()||:네게브는 더 이상 말하지 않고, 그대로 다른 인형에게 발길을 돌렸다.
+()||<SE1>AVG_footsteps_cave</SE1>:뚜벅, 뚜벅...
+()||<SE1>Stop_AVG_loop</SE1><黑屏1>:하지만 네게브의 힘찬 발걸음이, 갈릴에겐 자신을 질타하는 것처럼 느껴졌다.
+()||<黑屏2><BIN>97</BIN><BGM>BGM_Empty</BGM>:다른 부서의 정보센터로 가는 길.+자신의 이력서를 든 갈릴은 마치 비바람 속의 갈대와 같은 심정이었다.
+AR(0)<Speaker>갈릴</Speaker>||<BGM>m_avg_hope</BGM>:후우... 가장 어려운 첫걸음은 내디뎠어.+이젠 어느 문턱을 넘느냐가 관건이겠지.
+()||:온갖 부서들의 명패를 보면서, 갈릴은 이력서를 꼬옥 안은 채 고민했다.
+AR(0)<Speaker>갈릴</Speaker>||:어디로 갈까...+솔직히 끌리는 데가 없는데... 확 그냥 다 찔러 봐?
+AR(0);HS2000(0)<Speaker>HS2000</Speaker>||:갈릴 씨?
+AR(0)<Speaker>갈릴</Speaker>;HS2000(0)||:아, 안녕 호식아.
+AR(0);HS2000(0)<Speaker>HS2000</Speaker>||:호식이 아니라니까요... 그런데 손에 들고 계신 그거, 다른 부서로 이적하시려고요?
+AR(0)<Speaker>갈릴</Speaker>;HS2000(0)||:응, 다른 가능성을 찾아보려고.
+AR(0);HS2000(0)<Speaker>HS2000</Speaker>||:그래서 우지 씨가 요즘 기운이 없으셨군요...
+AR(0)<Speaker>갈릴</Speaker>;HS2000(0)||:아하하...
+AR(0);HS2000(0)<Speaker>HS2000</Speaker>||:아무튼, 그냥 마침 보이시길래 인사드렸어요.
+HS2000(0)<Speaker>HS2000</Speaker>||:그런데 제가 알기론 지금은 다른 부서들 모두 한창 바쁠 시기라서, 이적하기 좋은 때는 아닐 것 같아요.
+AR(0)<Speaker>갈릴</Speaker>||:그런가... 고마워, 전체적으로 적당히 한번 둘러봐야겠네.
+HS2000(0)<Speaker>HS2000</Speaker>||:네. 그럼 행운을 빌어요, 갈릴 씨.
+()||:HS2000은 잠깐 머뭇대다 자리를 떠났다.
+AR(0)<Speaker>갈릴</Speaker>||:가는 날이 장날이라더니...+내가 어디로 갈지보단 어디에서 날 받아 줄지가 문제겠는걸...+...그래도, 이대로 가만있을 수는 없지.
+()||<黑点1>:갈릴은 한숨을 내쉬고, 가장 가까운 전략대기조로 향했다.
+()||<黑点2>:딩동——+전략대기조 정보센터의 초인종이 울렸다.
+AR(0)<Speaker>갈릴</Speaker>||:안녕~! 잠깐 시간 될까?
+Welrod(0)<Speaker>웰로드 MkⅡ</Speaker>||<SE1>AVG_door_elecport</SE1>:어서 와라, 갈릴. 무슨 일이지?
+AR(0)<Speaker>갈릴</Speaker>||:웰로드... 나, 전략대기조에 들어가고 싶어.+여기 내 이력서야.
+Welrod(0)<Speaker>웰로드 MkⅡ</Speaker>||:으음...? 무슨 일 있었나?+그대는 전선대기조의 네게브 소대 소속이잖은가.
+AR(0)<Speaker>갈릴</Speaker>||:그렇지.+일 있는 건 아니고, 그냥... 나한테 더 어울리는 곳을 찾고 싶어서 나왔어.
+Welrod(0)<Speaker>웰로드 MkⅡ</Speaker>||:흠... 사정은 알겠다. 하지만 유감이군, 지금 전략대기조는 만원이라서 말이지.+새 대원을 받을 자리가 없다.
+AR(0)<Speaker>갈릴</Speaker>||:아하...
+()||:웰로드의 어깨 너머로, 바쁘게 움직이는 인형들이 갈릴의 눈에 들어왔다.
+AR(0)<Speaker>갈릴</Speaker>||:그럼 다른 데를 알아봐야겠네, 실례했어.
+Welrod(0)<Speaker>웰로드 MkⅡ</Speaker>||:미안하다. 그대의 길에 행운이 있기를 빌지.
+()||<SE1>AVG_door_elecport</SE1><黑屏1>:갈릴의 등뒤로 자동문이 닫히면서, 전략대기조의 신선한 세상도 멀어졌다.
+()||<黑屏2><BIN>6</BIN>:변방조사단의 정보센터.
+()||<SE1>AVG_doorknock_wood</SE1>:똑똑똑... 갈릴이 낡은 목제 문짝을 노크했다.
+AR(0)<Speaker>갈릴</Speaker>||:어... 안녕? 갈릴이라고 해.
+SL8(0)<Speaker>SL8</Speaker>||<SE1>AVG_Door_Open_Close</SE1>:여어, 반가워. 무슨 일이야?
+AR(0)<Speaker>갈릴</Speaker>||:NTW-20 있어?
+SL8(2)<Speaker>SL8</Speaker>||:타이밍이 나쁘네, 방금 대규모 출동이 있었거든.+NTW도 같이 가서, 지금은 우리만 남아서 집을 지키는 중이지.
+AR(0)<Speaker>갈릴</Speaker>||:그렇구나...+그럼 변방조사단에 이적 신청하려면 또 누구한테 말하면 돼?
+SL8(2)<Speaker>SL8</Speaker>||:없지, 신청 수리 권한은 NTW한테밖에 없거든.
+AR(0)<Speaker>갈릴</Speaker>||:그럼 별수 없네. 실례했어.
+SL8(0)<Speaker>SL8</Speaker>||:실례라니 천만에. 수고해.
+()||<SE1>AVG_Door_Open_Close</SE1><黑屏1>:갈릴의 등뒤로 묵직한 판자문이 닫히면서, 미약한 온기도 사라졌다.
+()||<黑屏2><BIN>269</BIN>:...일반지원팀의 활동 장소.
+AR(0)<Speaker>갈릴</Speaker>||:......
+G3Mod(0)<Speaker>G3</Speaker>||:......
+AR(0)<Speaker>갈릴</Speaker>||:안녕 G3, 여기 혹시 인형 일자리 있어?
+G3Mod(0)<Speaker>G3</Speaker>||:죄송해요, 보시다시피 여긴 요정만 받아서...
+AR(0)<Speaker>갈릴</Speaker>||<黑屏1>:역시 그렇지, 미안...
+()||<黑屏2><BIN>22</BIN>:통합회수팀의 전용 공방.
+BOSS-1(0)<Speaker>스케어크로우</Speaker>||:......
+AR(0)<Speaker>갈릴</Speaker>||:......
+BOSS-11(0)<Speaker>드리머</Speaker>||:......
+AR(0)<Speaker>갈릴</Speaker>||:......
+BossJustice(0)<Speaker>저지</Speaker>||:......
+AR(0)<Speaker>갈릴</Speaker>||:......+실례했슴다!
+()||<黑屏1>:방에 한가득인 철혈 인형들과 10분가량 눈싸움을 한 갈릴은 결국 버티지 못하고 도망쳤다.
+()||<黑屏2><BIN>80</BIN><BGM>BGM_Empty</BGM>:종합근무팀의 부속 카페.
+AR(0)<Speaker>갈릴</Speaker>||<BGM>GF_Cafe</BGM>:...그렇게 된 일이야.
+M1903(10)<Speaker>스프링필드</Speaker>||:당신의 생각은 잘 알았어요. 그런데 정말 여기서 일하시겠어요?+전장에 나갈 일은 적을지 몰라도, 기지에서의 후방 지원 업무는 당신이 생각하는 것보다 훨씬 힘들어요.
+AR(0)<Speaker>갈릴</Speaker>||:그 정도야 당연히 알지.
+M1903(10)<Speaker>스프링필드</Speaker>||:그래도 꼭 하고 싶으세요?
+AR(0)<Speaker>갈릴</Speaker>||:응. 기회를 줘, 스프링필드.
+()||:결의에 찬 갈릴의 눈빛에, 스프링필드는 한숨을 내쉬며 대답했다.
+M1903(10)<Speaker>스프링필드</Speaker>||:알겠어요. 다른 팀의 담당자와 토의해 일과를 배정해 드릴 테니, 오늘은 돌아가서 통지를 기다려 주세요.
+AR(0)<Speaker>갈릴</Speaker>||<黑屏1>:응! 정말 고마워!
+()||<BIN>82</BIN><黑屏2><Night><BGM>BGM_Empty</BGM>:자신의 새 출발을 기념하고자, 갈릴은 특별히 저녁을 소대의 동료들이 좋아하는 음식으로 잔뜩 차렸다.+그리고 그녀가 음식을 접시에 옮겨 담던 도중이었다.
+AR(0)<Speaker>갈릴</Speaker>||<BGM>BGM_Hello</BGM>:룰루랄라...♪+...아니 근데, 어디서 뭐하길래 벌써 시간이 이렇게 됐는데도 안 와?+오늘 뭐 또 하는 일이 있던가?
+()||<SE1>AVG_tele_connect</SE1>:창밖의 하늘이 점점 어두워지는 것을 본 갈릴은 우지에게 통신을 보냈다.
+AR(0)<Speaker>갈릴</Speaker>||:우지, 뭐해? 왜 아직도 안 돌아와?
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker><通讯框>||:<color=#00CCFF>아차차, 말하는 걸 깜빡했다!</color>
+AR(0);TAR21(0)<Speaker>TAR-21</Speaker><通讯框>||:<color=#00CCFF>우지도 참... 갈릴? 죄송해요, 긴급 임무로 저녁 전까지 출발하라 해서 준비하느라 바빠 연락을 못했어요.</color>
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker><通讯框>||:<color=#00CCFF>지금 준비 다 하고 가는 중이야!</color>
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)<通讯框>||:아... 그랬구나...
+AR(0);TAR21(0)<Speaker>TAR-21</Speaker><通讯框>||:<color=#00CCFF>네게브가 갈릴은 다른 부서로 갔으니 이번 임무에서 빠질 거라고 해서...</color>
+AR(0)<Speaker>갈릴</Speaker>;TAR21(0)<通讯框>||:괜찮아 괜찮아. 그럼 언제 돌아와?
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker><通讯框>||:<color=#00CCFF>며칠 걸릴 거야, 임무 끝나면 연락 줄게!</color>
+AR(0)<Speaker>갈릴</Speaker>;MicroUZIMod(0)<通讯框>||:...알았어, 모두 조심해.
+AR(0);MicroUZIMod(0)<Speaker>마이크로 우지</Speaker><通讯框>||:<color=#00CCFF>응 응~ 우왓, 끊어야겠다, 네게브가 작전 회의한다고 모이래.</color>
+MicroUZIMod(0)<Speaker>마이크로 우지</Speaker><通讯框>||:<color=#00CCFF>그럼 나중에 봐!</color>
+()||<SE1>AVG_tele_disconnect</SE1><黑屏1>:통신이 급하게 끊어졌다.+갈릴은 손에 든 수저를 내려놓고, 식탁에 한가득 차린 음식을 멍하니 바라봤다.+해는 이미 저물어, 창밖의 하늘은 완전히 어두워진 뒤였다.

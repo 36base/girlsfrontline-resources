@@ -1,0 +1,139 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<SE1>AVG_amb_thunderrain</SE1><common_effect>%%code=CJ_rain%%</common_effect><黑屏2><BIN>485</BIN><BGM>BGM_stage9</BGM>:"죽음의 바다" 외곽.
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=6</controll_shake><SE1>AVG_engine_speedup</SE1><SE1>AVG_Robots_Floor</SE1>:엘모 호에서 발진한 지프 차 몇 대가 곧장 아베르누스를 향해 나아갔다.
+PMMod(0)<Speaker>마카로프</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여기는 팔레트 소대, 퍼즐 소대 응답하라.</color>
+VHS(0)<Speaker>VHS</Speaker>||:여기는 퍼즐 소대.
+PMMod(0)<Speaker>마카로프</Speaker><通讯框>||:<color=#00CCFF>팔레트 소대는 60초 후 적의 우측에서 화력을 유도하겠다.</color>
+VHS(0)<Speaker>VHS</Speaker>||:퍼즐 소대 수신. 너네 게 끝나면 우리가 좌측에서 화력 유도할게.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신을 마친 조수석의 VHS가 운전석으로 고개를 돌렸다.
+VHS(0)<Speaker>VHS</Speaker>||:AUG PARA, 적한테 좀 더 접근해. 이쯤에서 유도하기엔 좌표 오차가 너무 커.
+AUGPARA(0)<Speaker>AUG PARA</Speaker>||:그치만 너무 가까이서 보면 불쌍할 거 같은데요...
+PM1910(0)<Speaker>PM1910</Speaker>||:<size=50>적이 불쌍하기는 개뿔이! 난 당장에라도 뛰어내려서 신나게 붙고 싶다고!</size>
+()<Speaker></Speaker>||<SE1>AVG_Explo_Distance</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=5</controll_shake>:이에 호응하듯 적의 우측 방향에서 포성이 잇따라 들려오기 시작했다.
+PM1910(0)<Speaker>PM1910</Speaker>||<SE1>AVG_weapon_reload</SE1>:<size=50>핫하! 시작이다!!</size>
+GeneralLiu(0)<Speaker>류 소총</Speaker>||:대장, 적이 잔뜩 뭉쳐서 우리가 있는 방향으로 도망치고 있어요!
+VHS(0)<Speaker>VHS</Speaker>||:알았어.
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:VHS 침착하게 화력 요청 채널에 연결해 적의 현재 좌표와 범위를 입력했다.
+()||<黑点1><关闭蒙版>:
+()<Speaker></Speaker>||<common_effect>%%code=CJ_rain%%</common_effect><黑点2><BIN>483</BIN><SE1>Explode</SE1><震屏3><SE2>Alarm</SE2>:아베르누스 서탑, 탑 외부 플랫폼 구역.
+()<Speaker></Speaker>||:전초기지 일대를 거의 평지로 만들어버리는 기습 포격에 순찰 중이던 니토들이 혼비백산했다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:<size=50>경계 경보! 전원 경계 경보!</size>+<size=50>정기 순찰을 중단하고 전투 준비하라!</size>
+Nyto(1)<Speaker>검은 니토</Speaker>||<SE1>RunStep</SE1>:또 습격입니까!?
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:나르시스 언니가 곧 오셔, 어차피 저번처럼 헛된 발악이야!+멍하니 있지 말고 창고로 가서 무장을 가져와!
+Nyto(1)<Speaker>검은 니토</Speaker>||:네!
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Explo_Close</SE1>:포탄 또 한 발이 플랫폼의 끝자락을 스치고 날아들어, 순식간에 니토 몇 명이 폭발에 휩쓸렸다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:<size=50>얼른 움직여! 무장 보급해!</size>
+Nyto(1)<Speaker>검은 니토</Speaker><Shake>0.1</Shake>||:윽... 네...
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Chains_Break</SE1>:끼익... 끼익...+포성이 아닌 날카로운 불협화음에 두 니토들이 멈칫했다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:이건... 무슨 소리지?
+()<Speaker>？？？</Speaker>||<BGM>BGM_Empty</BGM>:너의 장례식 전주다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:서걱, 예리한 금속이 살을 베는 소리.
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=5</controll_shake><SE1>AVG_Cut_Watermelon</SE1>:토막 나 쓰러진 니토들 뒤로 새하얀 장발의 인형이 모습을 드러냈다.
+BOSS-5(0)<Speaker>알케미스트</Speaker>||<BGM>BGM_Reverse</BGM>:깜찍한 애송이들이구나, 어디 그 속도 똑같이 깜찍한지 한번 볼까?
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:플랫폼에 적 출현! 나르시스 언니께 보고해!
+Nyto(1)<Speaker>검은 니토</Speaker>||:막아라!
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=4</controll_shake>:검은 니토들 몇 명이 몰려와, 나르시스가 올 때까지 시간을 벌기 위해 알케미스트를 포위하려 했다.
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:콰아앙!!+하지만 그러기도 전에 한 발의 정확한 포격이 그들을 잿더미로 만들었다.
+BOSS-6(0)<Speaker>디스트로이어</Speaker>||:너 진짜 그 징그러운 대사 어떻게 안 돼?
+BOSS-5(0)<Speaker>알케미스트</Speaker>||:오랜 파트너 사인데 아직도 안 익숙해졌다면 네 탓 아닐까?
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:퍼엉!
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:이어지는 연쇄 폭발.+디스트로이어가 입구 쪽에 매설한 폭탄을 터뜨려, 후퇴하려던 니토들의 퇴로를 차단하는 것이었다.
+BOSS-6(0)<Speaker>디스트로이어</Speaker>||<SE1>AVG_tele_connect</SE1>:드리머, 그 바보 쓰레기 녀석들 어딨는지 찾았어?
+BOSS-6(0);BOSS-11(0)<Speaker>드리머</Speaker><通讯框>||:<color=#00CCFF>너희 2시 방향의 창고칸에서 신호가 잡혀. 뭐어 말이 창고지 그냥 쓰레기장 같아 보이지만.</color>
+BOSS-6(0)<Speaker>디스트로이어</Speaker>||:하하핫 둘한테 딱이네!
+BOSS-5(0)<Speaker>알케미스트</Speaker>||:내가 회수하러 가지. 디스트로이어, 엄호.
+BOSS-6(0)<Speaker>디스트로이어</Speaker>||:히힛, 마음껏 뛰시라고!
+()<Speaker></Speaker>||<SE1>RunStep</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=4</controll_shake><SE1>Explode</SE1>:디스트로이어의 화력 엄호를 받으며, 알케미스트는 "둘"의 신호가 잡히는 창고로 달려갔다.
+()||<黑屏1><关闭蒙版>:
+()<Speaker></Speaker>||<BIN>72</BIN><黑屏2><SE1>Stop_AVG_loop</SE1><回忆><BGM>BGM_Empty</BGM><边框>2</边框>:무로메츠 회의실.+UMP45가 아이네이아스 회의실의 데이터를 옮기는 작업이 막 끝났다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<边框>2</边框><BGM>GF_EV9_Story</BGM>:그리고 이건 철분팀이 나르시스와 교전하면서 남긴 거야.
+BossJustice(0)<Speaker>저지</Speaker>||<边框>2</边框>:......+재생해라.
+BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||<边框>2</边框><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>쟤는 무슨 판넬 수가 무한이야?! 어떻게 안 되겠어!?</color>
+BOSS-7(0)<Speaker>게이저</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>집중하고, 내가 신호를 주면 바로 놈을 쏴라.</color>
+BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>쏴봤자야, 내 포탄을 폭죽처럼 받던데?</color>
+BOSS-7(0)<Speaker>게이저</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>하라는 대로 해!</color>
+()<Speaker></Speaker>||<SE1>Explode</SE1><边框>2</边框>:그리고 갖가지 소음으로 요란한 가운데, 유탄 한 발이 날아가 목표에 명중하는 소리가 들렸다.
+BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>우옷? 어떻게 된 거야? 칼을 날리려다 말고 허둥대다 맞았네?</color>
+BOSS-7(0)<Speaker>게이저</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>놈이 칼을 멀리 날리려 할 때 정신을 집중하는 걸 파악했다. 그 타이밍을 노려 화력을 집중하면 시간을 좀 더 벌 수 있어.</color>
+BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>조오아쓰! 계속 해보자구!</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><边框>2</边框>:UMP45가 녹음 파일을 중간에 껐다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<边框>2</边框>:아쉽게도 이후에 적의 증원으로 포위망을 뚫지 못했어.+그래도 꽤 가치 있는 기록이지?
+BossJustice(0)<Speaker>저지</Speaker>||<边框>2</边框>:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><边框>2</边框>:저지는 철분팀의 나머지 자료를 말없이 바라봤다.
+BossJustice(0)<Speaker>저지</Speaker>||<边框>2</边框>:...Fe56C팀은 이 전략을 시도하지. D팀은 기존 계획대로 탑 옥상에서부터 서탑을 점령, 화력 포인트 제거와 후속 증원 차단에 주력해라.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<边框>2</边框>:찬성한다.
+BossJustice(0)<Speaker>저지</Speaker>||<边框>2</边框>:......
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<边框>2</边框>:할 말 더 있나 보네?
+BossJustice(0)<Speaker>저지</Speaker>||<边框>2</边框>:...그 녀석들.+철혈의 이름에 먹칠하지 않고 끝까지 명예롭게 싸웠지?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<边框>2</边框>:응, 둘이서 끝까지 싸웠어.
+BossJustice(0)<Speaker>저지</Speaker>||:그러면 됐다.
+()||<黑屏1><关闭蒙版>:
+()<Speaker></Speaker>||<黑屏2><SE1>AVG_amb_thunderrain</SE1><BIN>482</BIN><common_effect>%%code=CJ_rain%%</common_effect>:아베르누스 서탑, 탑 외부 플랫폼 구역.
+()<Speaker></Speaker>||<SE1>AVG_Explo_Close</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=5</controll_shake>:계속되는 폭발에 플랫폼이 진동했다.
+BOSS-4(0)<Speaker>인트루더</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>아아, 본부? D팀입니다.</color>
+BossJustice(0)<Speaker>저지</Speaker>||:상황 보고.
+BOSS-4(0)<Speaker>인트루더</Speaker><通讯框>||:<color=#00CCFF>서탑 옥상에 무사 착륙했지만 아직까지 적과 조우하지 않았습니다.</color>+<color=#00CCFF>정보대로 여긴 수비가 매우 취약하군요.</color>
+BossJustice(0)<Speaker>저지</Speaker>||:기존 계획대로 움직여라.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:저지가 통신을 종료하며 고개를 돌렸다.
+BossJustice(0)<Speaker>저지</Speaker>||:화력 투사를 높여라, D팀을 엄호한다.
+BOSS-6(0)<Speaker>디스트로이어</Speaker>||<SE1>AVG_weapon_reload</SE1>:좋았어! 하하하 받아라 받아아!!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:척척 맞는 호흡으로 사방에 파괴 공작을 벌이는 디스트로이어와 알케미스트에게서 시선을 떼고, 저지는 옆에서 한가한 모습인 드리머에게 눈을 돌렸다.
+BossJustice(0)<Speaker>저지</Speaker>||:드리머, 심상찮은 적 신호 하나가 고속 접근 중이다. 그 나르시스란 놈이겠지.+고지로 이동해 매복해라.
+BOSS-11(0)<Speaker>드리머</Speaker>||:으~응.
+BossJustice(0)<Speaker>저지</Speaker>||:에이전트의 당부를 잊지 마라, 아키텍트와 게이저를 회수한다.+그리고——
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:기지개를 켠 드리머는 섬뜩하게 웃으며 말을 이어받았다.
+BOSS-11(0)<Speaker>드리머</Speaker>||<BGM>BGM_Empty</BGM>:피에는 피로 갚아 줘야지.
+()||<黑屏1>:
+()<Speaker></Speaker>||<关闭蒙版><BIN>9</BIN>:......
+()||<黑点1>:
+()<Speaker></Speaker>||<common_effect>%%code=CJ_rain%%</common_effect><BIN>483</BIN><黑点2><BGM>GF_22W_BGM_4</BGM>:아베르누스 서탑의 외부 플랫폼 구역.
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:펑——!
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=5</controll_shake><SE1>AVG_lifttable</SE1>:디스트로이어가 폭파했던 입구가 내부에서부터 또 폭발해, 굉음과 함께 잔해를 사방으로 흩뿌렸다.+때마침 근처였던 알케미스트도 이 폭발의 폭풍에 밀려나, 창고에서 조금 멀어졌다.
+Narciss(1)<Speaker>나르시스</Speaker><Position>0,-100</Position>||:또 왔다길래 어떤 놈들인가 했더니... 여전하네.+기습해서 문 터뜨리고 나랑 가까이서 붙으려 하고...+같은 쓰레기라 멍청한 것도 똑같나 봐!?
+BOSS-6(0)<Speaker>디스트로이어</Speaker>||:넌 또 뭐야? 아아 네가 그 나르시스란 놈이구나!
+Narciss(1)<Speaker>나르시스</Speaker><Position>0,-100</Position>||:그래, 내가 나르시스야! 버러지가 잘도 아네!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:부유검 몇 자루가 날아들었지만, 디스트로이어는 이를 가볍게 피했다.+그리고 이와 동시에——
+()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1><震屏3>:섬광과 함께 나르시스의 등 뒤에서 알케미스트가 나타나, 그대로 참격을 먹였다.
+Narciss(0)<Speaker>나르시스</Speaker><Position>0,-100</Position>||:크윽?! 버러지가 치사하게...!
+BOSS-5(0)<Speaker>알케미스트</Speaker>||:싸움에서 이길 수 있다면 조금 비겁해져도 된단다, 애송아.
+BOSS-6(0)<Speaker>디스트로이어</Speaker>||<SE1>AVG_weapon_reload</SE1>:이거나 먹어라!
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:나르시스는 순식간에 거리를 좁힌 디스트로이어의 근접 포격을 맞고 날아가 벽에 내팽개쳐졌다.
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=5</controll_shake><SE1>AVG_Cloak_Whoosh</SE1>:하지만 큰 타격은 없었는지, 곧바로 펄쩍 뛰어 높은 곳으로 올라 철혈과 거리를 벌렸다.
+Narciss(1)<Speaker>나르시스</Speaker><Position>0,-100</Position>||:흥... 조합이 저번의 그 두 쓰레기랑 똑같네.+이딴 짝꿍 놀이, 내 칼 앞에선 아무것도 아니야!
+BOSS-5(0)<Speaker>알케미스트</Speaker>||:......
+BOSS-6(0)<Speaker>디스트로이어</Speaker>||:우왓, 필살기 오나!?
+()<Speaker></Speaker>||<SE1>AVG_Grey_Hand_Mech</SE1>:나르시스의 주위로 더 많은 부유검이 나타나 정렬해, 그 끝을 철혈들에 향했다.
+BOSS-5(0)<Speaker>알케미스트</Speaker>||:녀석의 부유검... 수가 아이네이아스가 제공한 정보보단 적어 보이는군.
+BOSS-6(0)<Speaker>디스트로이어</Speaker>||:저 정도쯤이야!
+Narciss(2)<Speaker>나르시스</Speaker><Position>0,-100</Position>||:죽어!!
+()<Speaker></Speaker>||<SE1>AVG_NightVision_Start</SE1><SE1>AVG_Explo_Close</SE1><震屏3>:냉혹하고 잔인한, 급소를 노린 핀포인트 레이저 사격.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Phone_Crash</SE1>:나르시스가 머리에 쓴 가면이 박살났다.+피하는 것이 아주 조금만 더 느렸다면 그녀의 머리까지 꿰뚫렸을지도 모른다.
+BOSS-11(0)<Speaker>드리머</Speaker>||:어머나, 빗나갔네.
+Narciss(2)<Speaker>나르시스</Speaker><Position>0,-100</Position>||:윽!? 버러지가 왜 하나 더 있어?!
+BOSS-6(0)<Speaker>디스트로이어</Speaker>||:드리머! 지원해!
+()<Speaker></Speaker>||<SE1>AVG_Explo_Close</SE1><SE1>AVG_NightVision_Start</SE1><震屏3>:광선은 다시 번쩍여 한 줄의 니토들을 말 그대로 지워버렸다.
+BOSS-5(0)<Speaker>알케미스트</Speaker>||:상큼한데, 마음에 들어.
+BOSS-11(0)<Speaker>드리머</Speaker>||<SE1>ClothingUp</SE1>:호평 고마워~
+()<Speaker></Speaker>||:드리머까지 가세하자, 플랫폼 위의 니토들은 순식간에 "청소"되었다.
+Narciss(2)<Speaker>나르시스</Speaker><Position>0,-100</Position>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:이이...! 비겁한 쓰레기들! 죽여버릴 거야! 다 죽여버리겠어!
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake><SE1>AVG_NightVision_Start</SE1><SE1>AVG_XXS_kick</SE1>:펑!
+()<Speaker></Speaker>||:광선 한 줄기가 이번엔 팔을 스쳤다.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:가까스로 몸을 비틀어 피한 나르시스는 멀리서 저격하는 드리머를 노려봤다.
+Narciss(2)<Speaker>나르시스</Speaker><Position>0,-100</Position>||:또 너야!? 다 쓰레기 주제에!!
+BOSS-11(0)<Speaker>드리머</Speaker>||:쓰레기 맞아, 나도 쟤네 그렇게 부르거든.+하지만 말이야아...
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:드리머가 광선포를 높이 들었다.
+BOSS-11(0)<Speaker>드리머</Speaker>||:그렇게 불러도 되는 건 나뿐이야.
+Narciss(0)<Speaker>나르시스</Speaker><Position>0,-100</Position>||<BGM>BGM_Empty</BGM>:......
+()<Speaker></Speaker>||<BGM>10244</BGM>:나르시스가 궁지에 몰려서 표정이 일그러지나 싶더니, 마치 두려움과 희열이 동시에 얼굴에 드러나려 해 오류가 난듯 기괴하게 뒤틀렸다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:그리고 배를 부여잡고 소름끼치는 웃음을 터뜨렸다.
+Narciss(2)<Speaker>나르시스</Speaker><Position>0,-100</Position><Shake>0.1</Shake>||:푸하하하하하!!!+쓰레기를 쓰레기라 부르는 게 뭐 어때서!
+Narciss(2)<Speaker>나르시스</Speaker><Position>0,-100</Position>||:왜 안 되는데? <size=50>왜 안 되는데?! 내가 완벽한 자가 아니라서야!?</size>
+()<Speaker></Speaker>||<SE1>AVG_Grey_Hand_Mech</SE1>:나르시스는 부유검을 전부 꺼내고는 비명에 가까운 괴성을 지르며 이리저리 난동을 부리듯 고속 이동했다.
+Narciss(2)<Speaker>나르시스</Speaker><Position>0,-100</Position><Shake>0.1</Shake>||:<size=50>이렇게 열심히 싸우는데! 이렇게 잘 싸우는데!</size>+<size=50>왜 날 무시해!? 왜 날 괴롭혀!!</size>+<size=50>나는 쓰레기가 아니야!! 쓰레기인 운명이 아니야!!!</size>
+BOSS-6(0)<Speaker>디스트로이어</Speaker>||:어... 쟤 갑자기 왜 저래?
+BOSS-5(0)<Speaker>알케미스트</Speaker>||:――!
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_20Winter_Knife_Whoosh</SE1>:채앵!+전조도 없이 디스트로이어에게 날아든 부유검 몇 자루를 알케미스트가 타이밍 좋게 막아냈다.
+BOSS-11(0)<Speaker>드리머</Speaker>||:발광해서라도 시간을 끌려는 모양이야.
+BOSS-6(0)<Speaker>디스트로이어</Speaker>||:흐응, 그럼 이제 어떡해?
+BOSS-11(0)<Speaker>드리머</Speaker>||:어떡하긴, 피에는 피가 뭔지 보여 줘야지?
+()||<黑点1>:

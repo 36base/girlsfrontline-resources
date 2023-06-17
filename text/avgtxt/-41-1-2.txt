@@ -1,161 +1,161 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>169</BIN><黑屏2><BGM>BGM_Sneak</BGM>:독일, 브레멘 교외.
-()<Speaker></Speaker>||:브레멘은 동독의 정화구역 내에 위치한 중요 도시 중 하나다.+3차 대전 이래 브레멘은 다문화라는 지역적 특색을 유지하면서 끊임없이 발전하는 동시에, 독일 정부가 추진한 난민 수용 정책으로 도시에 대량의 난민이 유입됐다.+시 정부는 난민 정책에 따랐으나, 얼마 안 가 인구수 폭증으로 인한 자원 및 공간 부족에 시달렸다. 결국 "자리"를 얻지 못한 사람들은 시 외곽에 형성된 난민촌에서 힘겹게 살아갈 수밖에 없었다.+한 가지 명백한 사실은, 시 정부는 오염지대 난민들의 삶에 대한 갈망을 과소평가했다는 것이다. 지금에 이르러서도 갈 곳 잃은 사람들이 생계 도모를 위해 브레멘으로 몰려들고 있었다.
-()<Speaker></Speaker>||:관문 앞에는 사람들이 개미떼처럼 바글바글했다.+난민촌에 텐트 자리를 얻기만 해도 엄청난 행운인 현재, 모두가 브레멘의 비호를 받을 수는 없다.+난민이 아니더라도, 일반적인 경로로 브레멘에 입경하려면 엄격한 심사를 받아야만 했다.+정부가 허가한 통행증이 없다면, 격리 벨트를 통과하더라도 격리벽 너머엔 발도 들일 수 없다.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:......
-NPC-AngeStreet(0);NPC-PasserbyM(0)<Speaker>난민</Speaker>||:어이쿠, 부딪혀서 죄송합니다.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-PasserbyM(0)||:괜찮습니다, 먼저 가시죠.
-NPC-AngeStreet(0);NPC-PasserbyM(0)<Speaker>난민</Speaker>||:괘, 괜찮습니까?
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:네.+사람을 기다리는 중이라서.
-()<Speaker></Speaker>||:안젤리아의 목소리는 평소보다 다소 상냥했다.
-()<Speaker></Speaker>||:후덥지근한 날씨 속에서, 안젤리아는 심사 관문 앞에서 벌써 15분째 계속 뒷사람에게 자리를 양보하고 있었다.+그녀는 후줄근한 옷차림에 흉측한 흉터를 감추려고 팔다리를 꽁꽁 싸맨, 누가 봐도 처량한 노숙자 같은 모습이었다.+이 한여름에 어찌 보면 눈에 띄는 모습이었지만, 다행히 그녀와 비슷한 차림인 사람이 아주 많았다.+이 시대의 사람들은, 갖가지 이유로 타인에게 자신의 몸을 드러내지 않으려 하기 때문이었다.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:(......두 명이 다인가.)
-()<Speaker></Speaker>||:심사를 받는 행렬은 느리지만 막힘없이 나아갔다.+모두가 나란히 줄을 서진 않았지만, 적어도 규정에 따라 질서 있게 진행됐다. 이곳의 관리원들이 얼마나 숙련되었는지를 짐작할 수 있었다.+그런데, 그중에서 그녀처럼 한가해 보이는 자들이 눈에 띄었다.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:(무기는 없는 모양인데... 날 얕보는 건가?)+(아니면 숨기기 어려운 물건인가?)
-()<Speaker></Speaker>||:안젤리아는 옆의 난간을 가볍게 툭 쳤다. 맑은 쇳소리는 북적거리는 인파의 소리에 묻혔고, 그녀의 행동을 눈치챈 사람도 없었다.+하지만 안젤리아에게 주목당한 두 사람은 그녀의 암호 같은 움직임에 긴장했고, 애써 관심 없는 척하던 그들의 시선이 아주 잠깐이나마 동시에 그녀에게 집중됐다.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||<BGM>BGM_Empty</BGM>:안녕.
-()<Speaker></Speaker>||:안젤리아와 시선이 마주치자, 그 두 사람은 뜨끔하며 시선을 홱 돌렸다.+상대의 의심을 막는 건 미행의 기초로, 가능하면 상대와 시선이 마주치는 것을 피해야 한다. 하지만 안젤리아는 그 조건 반사를 노렸다.
-()<Speaker></Speaker>||<BGM>BGM_Danger</BGM>:상대가 시선을 돌리는 그 순간, 안젤리아는 후드를 눌러쓰고 잽싸게 인파 속으로 숨어들었다.+상대의 시선에서 아주 잠깐 벗어났지만, 노련한 특수요원에겐 그 정도면 충분한 시간이었다.
-요원A()<Speaker>요원A</Speaker>||:제기랄!
-()<Speaker></Speaker>||:심각한 실수를 저질렀음을 깨달은 그들은 허겁지겁 안젤리아를 뒤쫓았다.+하지만 엄청난 수의 인파를 헤쳐나가기란 여간 힘든 일이 아니다.+잘 훈련받은 요원에게도 이는 쉬운 일이 아니었다.
-요원A()<Speaker>요원A</Speaker>||:녀석을 놓쳤다!
-요원B()<Speaker>요원B</Speaker>||:흩어져서 찾아!+절대 안에 들어가게 해선 안 돼!
-()<Speaker></Speaker>||:관문 앞의 경비병들은 이쪽의 사소한 소동을 눈치채지 못했다.+이는 안젤리아에게도, 저 불청객들에게도 좋은 일이었다. 쓸데없이 일을 크기 벌려선 안 되니 말이다.+모종의 합의라도 본 듯, 그들은 서로 신경을 곤두세우면서도 최대한 저자세를 유지했다.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:(그렇다는 건...)+("내부인"이 아니란 건가?)
-()<Speaker></Speaker>||:생각해 보면 당연했다. 저들이 독일 정부나 브레멘의 사람이었다면, 이렇게 밖에서 기회를 노릴 이유가 없었다.+한편, 안젤리아는 지금 누가 봐도 무모한 짓을 하고 있었다.+전 세계가 자신을 노려보고 있는 걸 뻔히 알면서, 난민들이 인산인해를 이루는 위험한 곳에 홀로 있다고?
-요원A()<Speaker>요원A</Speaker>||:이 자식, 대체 어디로 도망친――+으윽!?
-()<Speaker></Speaker>||:요원 하나가 사람들을 밀치며 모습을 감춘 미행 대상을 찾던 도중, 힘 있는 팔 한 쌍이 순식간의 그의 목을 조였다.+아무런 기척도, 한 치의 살의도 느끼지 못하고 상대에게 붙잡히고 말았다.
-요원A()<Speaker>요원A</Speaker>||<SE1>Rope</SE1>:윽! 으으윽!
-()<Speaker></Speaker>||:그는 목이 졸려 큰 소리도 내지 못하고 얼굴이 토마토처럼 시뻘게졌고, 몇 초 지나지 않아 의식을 잃었다.
-난민 어린이()<Speaker>난민 어린이</Speaker>||:...??
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:...쉿.
-()<Speaker></Speaker>||:때마침 이를 목격한 어린아이에게, 안젤리아는 미소를 지으며 조용히 모른 척해 달라는 제스처를 취했다.+그 아이는 곧장 어머니에게 뛰어갔다. 그 와중 몇 번이고 안젤리아를 돌아보았지만, 이를 알 길이 없는 어머니는 똑바로 따라오라 재촉할 뿐이었다.
-()<Speaker></Speaker>||:아무도 이곳의 소동을 눈치채지 못한 듯했다. 아니, 설령 보았더라도 가던 길을 멈추지 않을 것이다.+그들과는 일말의 관계도 없는 일이니까.
-()<Speaker></Speaker>||:다른 요원이 동료가 대답하지 않는다는 걸 알아챘을 때, 안젤리아는 이미 다시 인파 속으로 사라진 뒤였다.
-요원B()<Speaker>요원B</Speaker>||:슈나이더!+빌어먹을... 이 미꾸라지 같은 년이!
-()<Speaker></Speaker>||:그는 불길한 예감이 들었다. 내면 깊숙한 곳에서부터 솟아나는, 형용하기 어려운 소름끼치는 느낌이.+분명 사냥꾼은 자신들일 터였는데, 몇 분만에 입장이 뒤집혀 버렸다.+그에게는 상상하기 힘든 일이었다.
-요원B()<Speaker>요원B</Speaker>||:호위도 없이 온 멍청이인 줄 알았더니, 이런 수작을 부릴 줄이야...+젠장! 완전히 얕보였잖아!
-()<Speaker></Speaker>||:하지만 그렇게 욕을 해봤자 당면한 문제가 해결되진 않는다. 지금은 저 인파 속에서 그 빌어먹을 여자를 끄집어내는 것이 급선무였다.+저 난민들이 방해되는 건 그 여자도 마찬가지일 터였다.
-()<Speaker></Speaker>||:"나도 수라장을 겪을 만큼 겪어본 정예 요원이다. 거리만 좁힌다면, 저딴 여자 한 명쯤 손쉽게 제압할 수 있다."+그는 그렇게 생각했다.
-요원B()<Speaker>요원B</Speaker>||:으억!
-()<Speaker></Speaker>||:퍽!+겨우 인파를 뚫고 발견한 안젤리아의 뒷모습을 쫓아 길모퉁이를 돈 순간이었다.+묵직한 주먹이 연약한 콧등에 명중했다.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:한심하군. 경계심이 뭐 이따위로 부족해? 미행 대상이 반격하리라곤 생각도 안 했어?
-NPC-AngeStreet(0)<Speaker>요원B</Speaker>||:이 XX!
-()<Speaker></Speaker>||:남자는 악에 받쳐 주먹을 휘둘렀지만, 안젤리아는 가볍게 피했다.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:너흰 누구지? 누가 보냈어?
-NPC-AngeStreet(0)<Speaker>요원B</Speaker>||:닥치고 죽어 XXX아!
-()<Speaker></Speaker>||:안젤리아는 상대의 폭언에 응수하지 않고, 오히려 그 순간을 노려 날렵한 뒤돌려차기로 남자의 얼굴을 가격했다.+선글라스는 박살나며 날아갔고, 그도 머리를 강타한 충격에 비명도 못 지르고 나가떨어졌다.
-()<Speaker></Speaker>||:안젤리아는 자세를 바로잡고, 상대가 기절해 일어나지 못하는 것을 확인한 후에야 한숨을 놓았다.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:후우... 이 두 명이 다인가? 너무 싱거운데.
-요원C()<Speaker>요원C</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_weapon_reload</SE1>:손 들어.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:내가 놓친 게 있나... 하려던 참이었는데 말이지.
-()<Speaker></Speaker>||:안젤리아가 일어서려던 순간, 권총을 든 세 번째 요원이 뒤에서 나타났다.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:총은 안 쓸 줄 알았더니?
-요원C()<Speaker>요원C</Speaker>||:우리가 널 얕봤으니 말이지.+얌전히 따라오는 편이 네게도 좋을 거다.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:그래?+너야말로, 그냥 얌전히 떠나는 편이 좋을걸?
-()<Speaker></Speaker>||:안젤리아는 물러서지 않고 응수했다.
-요원C()<Speaker>요원C</Speaker>||:헛소리.
-？？？()<Speaker>？？？</Speaker>||:헛소린지 아닌지는, 정신 차리면 알겠지.
-요원C()<Speaker>요원C</Speaker>||:무――
-()<Speaker></Speaker>||:뻐억!
-()<Speaker></Speaker>||:안젤리아의 주먹질보다 훨씬 더 묵직한 무언가가 남자의 목덜미를 후려쳤다. 뼈가 부러지는 소리도 들린 듯했다.+방아쇠를 당길 새도 없이, 세 번째 남자도 바닥에 쓰러졌다.
-()<Speaker></Speaker>||:기척도 없이 다가와 그녀를 구해 준 동료에게, 안젤리아는 딱히 반가워하는 기색도 없었다.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:안 죽었지?
-NPC-AngeStreet(0);AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:힘조절은 했다.
-NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||<BGM>m_avg_casual</BGM>:흐음... 환자분의 척추는 아니라는데요?+어머, 아쉬워라. 아직 숨이 붙어있네요.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;RPK16(7)<Position>0,-70</Position>||:셋 다 저 뒷골목에 갖다 버려.
-NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:저희가 제때 도착하지 못했다면 어쩔 셈이셨나요?+붙어서 따라오지 말라 하시다니... 지금 당신이 몇 분만 혼자여도 얼마나 위험해지는지 알고는 계시죠?
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;RPK16(7)<Position>0,-70</Position>||:내가 직접 상대하는 편이 이놈들한테도 나을 거 아니야. 방금처럼 불구는 안 될 테니.
-NPC-AngeStreet(0);AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:안젤리아는 브레멘에 진입하기 전, 감시를 제거하기 위해 일부러 위험을 무릅쓰고 그들을 유인한 거다.+우리가 곁에 있었다면 쉽게 걸려들지 않았겠지.
-NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:그렇다고 이렇게 쉽게 걸려든 것도 참 한심하지만 말이에요.+독일의 수준은 겨우 이 정도인가요?
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;RPK16(7)<Position>0,-70</Position>||:정부에서 보낸 건 아닌 것 같고, 패러데우스의 끄나풀이라기에도 너무 허접해.+미행이랍시고 한 짓이 흔해 빠진 수작이었던 걸 보면, 보나마나 현지 세력 중 하나겠지.+다만 붙인 머릿수가 적은 걸로 봐선, 우리의 위장이 꽤 효과적인 모양이야.
-NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:그래서 두 조로 나눈 건가요?
-AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>;RPK16(7)<Position>0,-70</Position>||:하지만 인원 편성이 조금 이상하지 않나...?
-AN94(11)<Position>0,-70</Position>;RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:어머, "안티아" 언니는 제가 파트너라서 불만이세요?
-AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:노, 놀리지 마라, "레나테".
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:너희 둘이 자매로 보이게끔 위장하기 쉬웠으니까.+명심해. 여긴 독일이고, 우린 놀러 온 게 아니야.+이번 임무는 최대한 은밀하게 진행해야 해.
-NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:일리 있네요, 그 둘은 평범하게 입어도 눈에 띄니까요.+그나저나, 저희한테 이상한 가명을 지어 준 것도 그래서인가요?
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;RPK16(7)<Position>0,-70</Position>||:이상해?+난 어울린다고 생각하는데.
-NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:AN-94는 "축복받은 자", 저는 "되살아난 자"라.+참 이해하기 쉬운 작명법이네요.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;RPK16(7)<Position>0,-70</Position>||:안에 들어가서도 서로 그 이름으로 부르는 거 잊지 마.
-NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:저희보다 더 친자매 같은 두 사람은 안 기다려도 되나요?
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:걔넨 알아서 들어올 예정이니까 신경 안 써도 돼.
-()<Speaker></Speaker>||:눈엣가시였던 추적자들을 제거하고 합류한 세 사람은 다시 검문 행렬에 끼어들어, 그대로 브레멘의 위성 도시로 진입했다.+높이 솟은 격리벽 가까이, 척 봐도 대충 지어진 건물들이 빼곡히 들어서 있었다. 이곳의 거주민들은 때때로 고개를 들어, 도시를 가로질러 브레멘으로 날아가는 비행기의 그림자를 구경하는 것이 몇 안되는 낙이었다.
-()||<黑屏1>:
-AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||<黑屏2><BIN>168</BIN>:이제 통과했다.+접선책은 어디 있지?
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AN94(11)<Position>0,-70</Position>||:먼저 "루치아"와 "에르빈"과 합류부터 해야지.+브레멘 경내로 들어왔으니 당분간은 안전해.
-NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:AK-12와 AK-15 말이죠? 이름이 아직도 영 익숙하지 않네요.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;RPK16(7)<Position>0,-70</Position>||:금방 익숙해질 거야.
-NPC-AngeStreet(0);AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:동독은 처음이다.+이런 곳일 줄은 상상도 못했다.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AN94(11)<Position>0,-70</Position>||:신선한 광경인가 봐?+내 눈에는 여기나 우리나라나 그게 그거로 보이는데.
-NPC-AngeStreet(0);AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:음... 나도 그리 큰 차이는 느껴지지 않는다.+그 관문 앞의 난민들은, 브레멘의 관할구역에 들어온다 해도 대부분 이런 위성 도시에서 살아야겠지.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AN94(11)<Position>0,-70</Position>||:이 정도만으로도 그들이 꿈꾸던 안락한 삶이야.+옐로우존에서 붕괴 복사에 노출된 채 벌벌 떠는 것보다야 백번 낫지.+세상 어딜 가나 똑같아.
-NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:학식 교류도 좋지만, 그러면 주위의 눈길을 끌지 않을까요?+그보다, 여기까지 왔는데도 그 둘은 코빼기도 안 보이네요.+집합 장소가 어딘지 확실하게 가르쳐 주셨나요?
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;RPK16(7)<Position>0,-70</Position>||:아니. 아직 안 와서 안 보이는 거야.
-NPC-AngeStreet(0);AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:아직 안 왔다고...? 위치도 안 알려줬는데 우리 먼저 들어와도 괜찮은 건가?+안젤리아의 서류 없이 인형 둘이서 격리 벨트를 통과하기는 불가능에 가깝다.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AN94(11)<Position>0,-70</Position>||:괜찮으니까 걱정 마, 안티아.+슬슬 때가 됐어.
-AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:무슨 때?
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>207</BIN><SE1>AVG_wind_grass</SE1>:안젤리아는 시계를 확인했다.+지금 그들은 넓은 공터에 서 있었다.+격리 벨트와 위성 도시 사이의 미개발 지역이었다.
-RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||<BIN>207</BIN>:참 한적한 곳이네요. 하지만 딱히 길이라고 할만한 것도 안 보여요.+아, 알았다. 땅굴을 팠군요?
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;RPK16(7)<Position>0,-70</Position>||:땡.
-NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:그렇다면...... 아하, 그런 거였어요?
-()<Speaker></Speaker>||:RPK-16은 뭔가 떠오른 듯 손뼉을 쳤다.
-RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:그래서 조를 이렇게 나눴군요.
-AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:그, 그게 무슨 뜻이지?
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:왔다.
-()<Speaker></Speaker>||:안젤리아가 고개를 들어 하늘을 응시했다.+그리고 까만 점 하나가 저 하늘 끝에서 나타났다.+ 점은 가까워지면서 점점 비행기의 형체가 되더니, 이내 어마어마한 크기의 수송 항공기가 되었다.+항공기는 착륙할 기세로 날아왔고, 고도도 낮아져 랜딩 기어가 눈에 보일 정도였다.
-()<Speaker></Speaker>||:안젤리아는 말없이 계속 그 항공기를 바라봤다.+그리고 항공기의 꼬리에서 무언가가 휙 던져지더니, 그대로 낙하했다. 대략 차량만한 크기의 컨테이너였다.
-()<Speaker></Speaker>||:엄청난 속도로 자유 낙하한 컨테이너는 안젤리아 일행에게서 얼마 안 되는 위치에 굉음을 내며 떨어졌다.+그 충격으로 잡초투성이던 땅에 크레이터가 생길 지경이었다.
-안젤리아()<Speaker>안젤리아</Speaker>||:도착했어.
-AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:...응?!
-()<Speaker></Speaker>||<SE1>AVG_door_storehouse</SE1>:안젤리아는 아무렇지도 않게 다가가, 컨테이너에 달린 핸들을 돌렸다.+그러자 컨테이너의 측면이 열렸고, 안에서 은빛을 내는 두 형체가 굴러 나왔다.
-AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:A... 아니 루치아, 괜찮나?!
-AK12(2)<Speaker>AK12</Speaker><Position>0,85</Position>;AN94(11)<Position>0,-70</Position>||:으으... 목 부러지는 줄 알았어...
-AK12(2)<Position>0,85</Position>;NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:발신기로부터 오차 약 4.75m. 의뢰한 항공대, 솜씨가 대단한걸.
-AK12(2)<Position>0,85</Position>;RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:풉... 푸하하하...!+푸흐흡... 죄, 죄송해요... 너무 웃겨서...+설마 이렇게 올 줄은...+휴우... 그래도 하란다고 그대로 따르다니, 정말 충실한 부하들이네요.
-AK15(0)<Speaker>AK15</Speaker>;RPK16(7)<Position>0,-70</Position>||:...이게 훨씬 효율적이니까.
-AK12(2)<Speaker>AK12</Speaker><Position>0,85</Position>;RPK16(7)<Position>0,-70</Position>||:컨테이너 속에서 몇 시간을 죽치고 있어야 했던 건 괜찮은데...+최소한 낙하산이라도 달아 줬어야 하는 거 아니야?
-AK12(2)<Position>0,85</Position>;NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:누구한테 사진이라도 찍히면 큰일나. 그리고, 애초에 네가 제안했잖아.+"나랑 AK-15는 위장 잠입은 도저히 무리지."+"도보로 국경을 넘느니, 차라리 비행기를 타는 게 좋을걸?"+나중에 딴소리 할까 봐 녹음도 해뒀지.
-AK12(2)<Speaker>AK12</Speaker><Position>0,85</Position>;NPC-AngeStreet(0)||:아니 그래도 착륙 방식이...
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:결과만 좋으면 장땡이지 뭘.+무기랑 통신 설비는 멀쩡하지?
-AK15(0)<Speaker>AK15</Speaker>||:출발 전에 전부 충격 흡수 상자에 수납해 둬서 손상은 없을 테지만, 나중에 다시 한번 확인하겠습니다.
-RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:그런데, 아무리 컨테이너에 숨었다지만 비행기로도 밀항은 어렵지 않나요?+우리한테 이렇게 편리한 수단을 제공해 주다니, 대체 어떤 분이시길래.+이제 다 모였으니 알려 주세요.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:굳이 다시 소개할 필요가 있나?
-RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:흐음...? 제 기억에 그 정도로 대단한 인물은 없는데요.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>169</BIN><黑屏2>:......+격리벽 안쪽.
-RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:흐음...? 제 기억에 그 정도로 대단한 인물은 없는데요.
-NPC-Jason(2)<Speaker>K</Speaker>||:나 참.+오자마자 무시당하다니 이거 서러워서 살겠나.
-()<Speaker></Speaker>||:안젤리아 일행을 마중 나온 건, 팔디스키에서의 사투 이후 첩보 임무를 마치고 조국으로 귀환한 K였다.+안젤리아가 사용한 동독 정부의 인증을 받은 통행 허가 서류도, 다 K가 마련해 준 것이었다.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:헛소린 딴 데 가서 하셔.+준비는 어떻게 됐어?
-NPC-AngeStreet(0);NPC-Jason(2)<Speaker>K</Speaker>||:은신처도, 너희의 위장용 신분증도 진작에 다 마련했다.+그런데, 정말 너처럼 남한테 그토록 당당하게 도움을 요구하는 사람은 살다살다 처음 보는군.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(2)||:지금 이 세상에 날 "도와주고" 싶어서 안달 난 사람들이 여기서 상트페테르부르크까지 줄을 섰거든.+그리고, 나한테 빚이 있잖아?
-NPC-AngeStreet(0);NPC-Jason(2)<Speaker>K</Speaker>||:귀찮기는, 난 우리가 그래도 파트너라 생각했는데 말이지.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(2)||:그건 다 옛날 얘기고.+그리고, 동독은 우리의 행동에 과도하게 간섭하지 않겠다고 약속했을 텐데.+그럼 네가 잔소리할 것도 없지.
-NPC-AngeStreet(0);NPC-Jason(2)<Speaker>K</Speaker>||:알아. 하지만 나도 내 할일을 해야지.+개인적으로 널 돕는 걸 개의치는 않는다만, 여긴 독일이고 난 네 안전 책임자다.+그러니 상황을 파악할 의무와 권리가 있어.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(2)||:흥, 굳이 말 안 해 줘도 대충 짐작했으면서.+애당초 무슨 거창한 기밀 임무 같은 걸로 여기 온 것도 아니잖아.
-NPC-AngeStreet(0);NPC-Jason(2)<Speaker>K</Speaker>||:패러데우스의 조사. 서로 일치하는 목적이지.+이쪽에선 이미 조사한 게 있으니, 우리와의 협력이 최선책이지 않나?
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(2)||:난 파트너 따위 필요 없어. 그리고, 네가 만약 윌리엄의 앞잡이면 어떡해?
-NPC-Jason(2)<Speaker>K</Speaker>||:그럼 넌 진작에 잠수함 기지에서 죽었지.+됐으니까 보자마자 시비 거는 건 그만하고, 새 친구를 소개해 줄 테니 따라와.
-()<Speaker></Speaker>||:K의 안내를 받으며, 안젤리아 일행은 격리벽을 빠져나와 브레멘 시내로 들어왔다.+그들 앞의 도로에는 검은 리무진이 정차 중이었다. 아무래도 한참을 기다린 것 같았다.+그리고 차 옆의 용모가 수려한 여성이, K를 보자마자 힘차게 손을 흔들었다.
-NPC-Morridow(0)<Speaker>？？？</Speaker>||:아! 이쪽이요 이쪽!
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:새 친구라는 게 저 사람이야?
-NPC-Jason(2)<Speaker>K</Speaker>||:저분한테까지 괜한 소리 말도록.
-NPC-Morridow(0)<Speaker>？？？</Speaker>||:오랜만이에요, 케인 씨.+정말 수고 많으셨어요.
-NPC-Jason(2)<Speaker>K</Speaker>;NPC-Morridow(0)||:아닙니다, 다 제 업무인걸요.+소개드리죠, 이쪽이 안젤리아입니다.
-NPC-Morridow(0)<Speaker>？？？</Speaker>||:오! 안녕하세요 안젤리아 씨! 사탕 드실래요?
-()<Speaker></Speaker>||:그녀는 반가워하며 핸드백에서 사탕을 꺼내 안젤리아에게 건넸다.+안젤리아는 묵묵히 사탕을 받았지만, 입에 넣지는 않았다.
-NPC-Morridow(0)<Speaker>몰리도</Speaker>||:울릭 주석님의 비서, 몰리도 포거트입니다.+몰리도라 불러 주세요.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Morridow(0)||:울릭...?+베오그라드를 방문했던 그 길다 울릭?
-NPC-AngeStreet(0);NPC-Jason(2)<Speaker>K</Speaker>||:그래, 그분이다.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(2)||:그 사람은 또 이 일이랑 무슨 관계야?
-NPC-AngeStreet(0);NPC-Jason(2)<Speaker>K</Speaker>||:간단히 말하자면, 네가 이렇게 브레멘에 들어올 수 있었던 것도 다 그분 덕이다.+은신처로 가기 전에 주석님을 뵙도록.+그분이 사전에 요청하셨다.
-NPC-AngeStreet(0);NPC-Morridow(0)<Speaker>몰리도</Speaker>||:그렇게 됐어요. 자 안젤리아 씨, 어서 타세요.+긴장하실 것 없어요, 그냥 평범하게 만나자는 거니까요!
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Morridow(0)||:......+다는 못 탈 거 같은데.
-NPC-AngeStreet(0);NPC-Morridow(0)<Speaker>몰리도</Speaker>||:네, 인형분들은 우선 K 씨와 함께 은신처로 가 주시면 돼요.+주석님께선 안젤리아 씨와 단둘이서 이야기하고 싶다 하셨거든요.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Morridow(0)||:그러죠.+레나테, 에르빈이랑 안티아 데리고 먼저 가 있어.+루치아, 타.
-NPC-AngeStreet(0);NPC-Morridow(0)<Speaker>몰리도</Speaker>||:네? 주석님께선――
-AK12(4)<Speaker>AK12</Speaker><Position>0,85</Position>;NPC-Morridow(0)||:그렇게 됐으니 사이좋게 지내요, 몰리도 씨.
-AK12(4)<Position>0,85</Position>;NPC-Morridow(0)<Speaker>몰리도</Speaker>||:아... 알겠습니다.+그럼 두 분, 함께 가시죠.
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>169</BIN><黑屏2><BGM>BGM_Sneak</BGM>:독일, 브레멘 교외.
+()<Speaker></Speaker>||:브레멘은 동독의 정화구역 내에 위치한 중요 도시 중 하나다.+3차 대전 이래 브레멘은 다문화라는 지역적 특색을 유지하면서 끊임없이 발전하는 동시에, 독일 정부가 추진한 난민 수용 정책으로 도시에 대량의 난민이 유입됐다.+시 정부는 난민 정책에 따랐으나, 얼마 안 가 인구수 폭증으로 인한 자원 및 공간 부족에 시달렸다. 결국 "자리"를 얻지 못한 사람들은 시 외곽에 형성된 난민촌에서 힘겹게 살아갈 수밖에 없었다.+한 가지 명백한 사실은, 시 정부는 오염지대 난민들의 삶에 대한 갈망을 과소평가했다는 것이다. 지금에 이르러서도 갈 곳 잃은 사람들이 생계 도모를 위해 브레멘으로 몰려들고 있었다.
+()<Speaker></Speaker>||:관문 앞에는 사람들이 개미떼처럼 바글바글했다.+난민촌에 텐트 자리를 얻기만 해도 엄청난 행운인 현재, 모두가 브레멘의 비호를 받을 수는 없다.+난민이 아니더라도, 일반적인 경로로 브레멘에 입경하려면 엄격한 심사를 받아야만 했다.+정부가 허가한 통행증이 없다면, 격리 벨트를 통과하더라도 격리벽 너머엔 발도 들일 수 없다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:......
+NPC-AngeStreet(0);NPC-PasserbyM(0)<Speaker>난민</Speaker>||:어이쿠, 부딪혀서 죄송합니다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-PasserbyM(0)||:괜찮습니다, 먼저 가시죠.
+NPC-AngeStreet(0);NPC-PasserbyM(0)<Speaker>난민</Speaker>||:괘, 괜찮습니까?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:네.+사람을 기다리는 중이라서.
+()<Speaker></Speaker>||:안젤리아의 목소리는 평소보다 다소 상냥했다.
+()<Speaker></Speaker>||:후덥지근한 날씨 속에서, 안젤리아는 심사 관문 앞에서 벌써 15분째 계속 뒷사람에게 자리를 양보하고 있었다.+그녀는 후줄근한 옷차림에 흉측한 흉터를 감추려고 팔다리를 꽁꽁 싸맨, 누가 봐도 처량한 노숙자 같은 모습이었다.+이 한여름에 어찌 보면 눈에 띄는 모습이었지만, 다행히 그녀와 비슷한 차림인 사람이 아주 많았다.+이 시대의 사람들은, 갖가지 이유로 타인에게 자신의 몸을 드러내지 않으려 하기 때문이었다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:(......두 명이 다인가.)
+()<Speaker></Speaker>||:심사를 받는 행렬은 느리지만 막힘없이 나아갔다.+모두가 나란히 줄을 서진 않았지만, 적어도 규정에 따라 질서 있게 진행됐다. 이곳의 관리원들이 얼마나 숙련되었는지를 짐작할 수 있었다.+그런데, 그중에서 그녀처럼 한가해 보이는 자들이 눈에 띄었다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:(무기는 없는 모양인데... 날 얕보는 건가?)+(아니면 숨기기 어려운 물건인가?)
+()<Speaker></Speaker>||:안젤리아는 옆의 난간을 가볍게 툭 쳤다. 맑은 쇳소리는 북적거리는 인파의 소리에 묻혔고, 그녀의 행동을 눈치챈 사람도 없었다.+하지만 안젤리아에게 주목당한 두 사람은 그녀의 암호 같은 움직임에 긴장했고, 애써 관심 없는 척하던 그들의 시선이 아주 잠깐이나마 동시에 그녀에게 집중됐다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||<BGM>BGM_Empty</BGM>:안녕.
+()<Speaker></Speaker>||:안젤리아와 시선이 마주치자, 그 두 사람은 뜨끔하며 시선을 홱 돌렸다.+상대의 의심을 막는 건 미행의 기초로, 가능하면 상대와 시선이 마주치는 것을 피해야 한다. 하지만 안젤리아는 그 조건 반사를 노렸다.
+()<Speaker></Speaker>||<BGM>BGM_Danger</BGM>:상대가 시선을 돌리는 그 순간, 안젤리아는 후드를 눌러쓰고 잽싸게 인파 속으로 숨어들었다.+상대의 시선에서 아주 잠깐 벗어났지만, 노련한 특수요원에겐 그 정도면 충분한 시간이었다.
+요원A()<Speaker>요원A</Speaker>||:제기랄!
+()<Speaker></Speaker>||:심각한 실수를 저질렀음을 깨달은 그들은 허겁지겁 안젤리아를 뒤쫓았다.+하지만 엄청난 수의 인파를 헤쳐나가기란 여간 힘든 일이 아니다.+잘 훈련받은 요원에게도 이는 쉬운 일이 아니었다.
+요원A()<Speaker>요원A</Speaker>||:녀석을 놓쳤다!
+요원B()<Speaker>요원B</Speaker>||:흩어져서 찾아!+절대 안에 들어가게 해선 안 돼!
+()<Speaker></Speaker>||:관문 앞의 경비병들은 이쪽의 사소한 소동을 눈치채지 못했다.+이는 안젤리아에게도, 저 불청객들에게도 좋은 일이었다. 쓸데없이 일을 크기 벌려선 안 되니 말이다.+모종의 합의라도 본 듯, 그들은 서로 신경을 곤두세우면서도 최대한 저자세를 유지했다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:(그렇다는 건...)+("내부인"이 아니란 건가?)
+()<Speaker></Speaker>||:생각해 보면 당연했다. 저들이 독일 정부나 브레멘의 사람이었다면, 이렇게 밖에서 기회를 노릴 이유가 없었다.+한편, 안젤리아는 지금 누가 봐도 무모한 짓을 하고 있었다.+전 세계가 자신을 노려보고 있는 걸 뻔히 알면서, 난민들이 인산인해를 이루는 위험한 곳에 홀로 있다고?
+요원A()<Speaker>요원A</Speaker>||:이 자식, 대체 어디로 도망친――+으윽!?
+()<Speaker></Speaker>||:요원 하나가 사람들을 밀치며 모습을 감춘 미행 대상을 찾던 도중, 힘 있는 팔 한 쌍이 순식간의 그의 목을 조였다.+아무런 기척도, 한 치의 살의도 느끼지 못하고 상대에게 붙잡히고 말았다.
+요원A()<Speaker>요원A</Speaker>||<SE1>Rope</SE1>:윽! 으으윽!
+()<Speaker></Speaker>||:그는 목이 졸려 큰 소리도 내지 못하고 얼굴이 토마토처럼 시뻘게졌고, 몇 초 지나지 않아 의식을 잃었다.
+난민 어린이()<Speaker>난민 어린이</Speaker>||:...??
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:...쉿.
+()<Speaker></Speaker>||:때마침 이를 목격한 어린아이에게, 안젤리아는 미소를 지으며 조용히 모른 척해 달라는 제스처를 취했다.+그 아이는 곧장 어머니에게 뛰어갔다. 그 와중 몇 번이고 안젤리아를 돌아보았지만, 이를 알 길이 없는 어머니는 똑바로 따라오라 재촉할 뿐이었다.
+()<Speaker></Speaker>||:아무도 이곳의 소동을 눈치채지 못한 듯했다. 아니, 설령 보았더라도 가던 길을 멈추지 않을 것이다.+그들과는 일말의 관계도 없는 일이니까.
+()<Speaker></Speaker>||:다른 요원이 동료가 대답하지 않는다는 걸 알아챘을 때, 안젤리아는 이미 다시 인파 속으로 사라진 뒤였다.
+요원B()<Speaker>요원B</Speaker>||:슈나이더!+빌어먹을... 이 미꾸라지 같은 년이!
+()<Speaker></Speaker>||:그는 불길한 예감이 들었다. 내면 깊숙한 곳에서부터 솟아나는, 형용하기 어려운 소름끼치는 느낌이.+분명 사냥꾼은 자신들일 터였는데, 몇 분만에 입장이 뒤집혀 버렸다.+그에게는 상상하기 힘든 일이었다.
+요원B()<Speaker>요원B</Speaker>||:호위도 없이 온 멍청이인 줄 알았더니, 이런 수작을 부릴 줄이야...+젠장! 완전히 얕보였잖아!
+()<Speaker></Speaker>||:하지만 그렇게 욕을 해봤자 당면한 문제가 해결되진 않는다. 지금은 저 인파 속에서 그 빌어먹을 여자를 끄집어내는 것이 급선무였다.+저 난민들이 방해되는 건 그 여자도 마찬가지일 터였다.
+()<Speaker></Speaker>||:"나도 수라장을 겪을 만큼 겪어본 정예 요원이다. 거리만 좁힌다면, 저딴 여자 한 명쯤 손쉽게 제압할 수 있다."+그는 그렇게 생각했다.
+요원B()<Speaker>요원B</Speaker>||:으억!
+()<Speaker></Speaker>||:퍽!+겨우 인파를 뚫고 발견한 안젤리아의 뒷모습을 쫓아 길모퉁이를 돈 순간이었다.+묵직한 주먹이 연약한 콧등에 명중했다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:한심하군. 경계심이 뭐 이따위로 부족해? 미행 대상이 반격하리라곤 생각도 안 했어?
+NPC-AngeStreet(0)<Speaker>요원B</Speaker>||:이 XX!
+()<Speaker></Speaker>||:남자는 악에 받쳐 주먹을 휘둘렀지만, 안젤리아는 가볍게 피했다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:너흰 누구지? 누가 보냈어?
+NPC-AngeStreet(0)<Speaker>요원B</Speaker>||:닥치고 죽어 XXX아!
+()<Speaker></Speaker>||:안젤리아는 상대의 폭언에 응수하지 않고, 오히려 그 순간을 노려 날렵한 뒤돌려차기로 남자의 얼굴을 가격했다.+선글라스는 박살나며 날아갔고, 그도 머리를 강타한 충격에 비명도 못 지르고 나가떨어졌다.
+()<Speaker></Speaker>||:안젤리아는 자세를 바로잡고, 상대가 기절해 일어나지 못하는 것을 확인한 후에야 한숨을 놓았다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:후우... 이 두 명이 다인가? 너무 싱거운데.
+요원C()<Speaker>요원C</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_weapon_reload</SE1>:손 들어.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:내가 놓친 게 있나... 하려던 참이었는데 말이지.
+()<Speaker></Speaker>||:안젤리아가 일어서려던 순간, 권총을 든 세 번째 요원이 뒤에서 나타났다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:총은 안 쓸 줄 알았더니?
+요원C()<Speaker>요원C</Speaker>||:우리가 널 얕봤으니 말이지.+얌전히 따라오는 편이 네게도 좋을 거다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:그래?+너야말로, 그냥 얌전히 떠나는 편이 좋을걸?
+()<Speaker></Speaker>||:안젤리아는 물러서지 않고 응수했다.
+요원C()<Speaker>요원C</Speaker>||:헛소리.
+？？？()<Speaker>？？？</Speaker>||:헛소린지 아닌지는, 정신 차리면 알겠지.
+요원C()<Speaker>요원C</Speaker>||:무――
+()<Speaker></Speaker>||:뻐억!
+()<Speaker></Speaker>||:안젤리아의 주먹질보다 훨씬 더 묵직한 무언가가 남자의 목덜미를 후려쳤다. 뼈가 부러지는 소리도 들린 듯했다.+방아쇠를 당길 새도 없이, 세 번째 남자도 바닥에 쓰러졌다.
+()<Speaker></Speaker>||:기척도 없이 다가와 그녀를 구해 준 동료에게, 안젤리아는 딱히 반가워하는 기색도 없었다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:안 죽었지?
+NPC-AngeStreet(0);AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:힘조절은 했다.
+NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||<BGM>m_avg_casual</BGM>:흐음... 환자분의 척추는 아니라는데요?+어머, 아쉬워라. 아직 숨이 붙어있네요.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;RPK16(7)<Position>0,-70</Position>||:셋 다 저 뒷골목에 갖다 버려.
+NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:저희가 제때 도착하지 못했다면 어쩔 셈이셨나요?+붙어서 따라오지 말라 하시다니... 지금 당신이 몇 분만 혼자여도 얼마나 위험해지는지 알고는 계시죠?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;RPK16(7)<Position>0,-70</Position>||:내가 직접 상대하는 편이 이놈들한테도 나을 거 아니야. 방금처럼 불구는 안 될 테니.
+NPC-AngeStreet(0);AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:안젤리아는 브레멘에 진입하기 전, 감시를 제거하기 위해 일부러 위험을 무릅쓰고 그들을 유인한 거다.+우리가 곁에 있었다면 쉽게 걸려들지 않았겠지.
+NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:그렇다고 이렇게 쉽게 걸려든 것도 참 한심하지만 말이에요.+독일의 수준은 겨우 이 정도인가요?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;RPK16(7)<Position>0,-70</Position>||:정부에서 보낸 건 아닌 것 같고, 패러데우스의 끄나풀이라기에도 너무 허접해.+미행이랍시고 한 짓이 흔해 빠진 수작이었던 걸 보면, 보나마나 현지 세력 중 하나겠지.+다만 붙인 머릿수가 적은 걸로 봐선, 우리의 위장이 꽤 효과적인 모양이야.
+NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:그래서 두 조로 나눈 건가요?
+AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>;RPK16(7)<Position>0,-70</Position>||:하지만 인원 편성이 조금 이상하지 않나...?
+AN94(11)<Position>0,-70</Position>;RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:어머, "안티아" 언니는 제가 파트너라서 불만이세요?
+AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:노, 놀리지 마라, "레나테".
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:너희 둘이 자매로 보이게끔 위장하기 쉬웠으니까.+명심해. 여긴 독일이고, 우린 놀러 온 게 아니야.+이번 임무는 최대한 은밀하게 진행해야 해.
+NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:일리 있네요, 그 둘은 평범하게 입어도 눈에 띄니까요.+그나저나, 저희한테 이상한 가명을 지어 준 것도 그래서인가요?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;RPK16(7)<Position>0,-70</Position>||:이상해?+난 어울린다고 생각하는데.
+NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:AN-94는 "축복받은 자", 저는 "되살아난 자"라.+참 이해하기 쉬운 작명법이네요.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;RPK16(7)<Position>0,-70</Position>||:안에 들어가서도 서로 그 이름으로 부르는 거 잊지 마.
+NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:저희보다 더 친자매 같은 두 사람은 안 기다려도 되나요?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:걔넨 알아서 들어올 예정이니까 신경 안 써도 돼.
+()<Speaker></Speaker>||:눈엣가시였던 추적자들을 제거하고 합류한 세 사람은 다시 검문 행렬에 끼어들어, 그대로 브레멘의 위성 도시로 진입했다.+높이 솟은 격리벽 가까이, 척 봐도 대충 지어진 건물들이 빼곡히 들어서 있었다. 이곳의 거주민들은 때때로 고개를 들어, 도시를 가로질러 브레멘으로 날아가는 비행기의 그림자를 구경하는 것이 몇 안되는 낙이었다.
+()||<黑屏1>:
+AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||<黑屏2><BIN>168</BIN>:이제 통과했다.+접선책은 어디 있지?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AN94(11)<Position>0,-70</Position>||:먼저 "루치아"와 "에르빈"과 합류부터 해야지.+브레멘 경내로 들어왔으니 당분간은 안전해.
+NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:AK-12와 AK-15 말이죠? 이름이 아직도 영 익숙하지 않네요.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;RPK16(7)<Position>0,-70</Position>||:금방 익숙해질 거야.
+NPC-AngeStreet(0);AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:동독은 처음이다.+이런 곳일 줄은 상상도 못했다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AN94(11)<Position>0,-70</Position>||:신선한 광경인가 봐?+내 눈에는 여기나 우리나라나 그게 그거로 보이는데.
+NPC-AngeStreet(0);AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:음... 나도 그리 큰 차이는 느껴지지 않는다.+그 관문 앞의 난민들은, 브레멘의 관할구역에 들어온다 해도 대부분 이런 위성 도시에서 살아야겠지.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AN94(11)<Position>0,-70</Position>||:이 정도만으로도 그들이 꿈꾸던 안락한 삶이야.+옐로우존에서 붕괴 복사에 노출된 채 벌벌 떠는 것보다야 백번 낫지.+세상 어딜 가나 똑같아.
+NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:학식 교류도 좋지만, 그러면 주위의 눈길을 끌지 않을까요?+그보다, 여기까지 왔는데도 그 둘은 코빼기도 안 보이네요.+집합 장소가 어딘지 확실하게 가르쳐 주셨나요?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;RPK16(7)<Position>0,-70</Position>||:아니. 아직 안 와서 안 보이는 거야.
+NPC-AngeStreet(0);AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:아직 안 왔다고...? 위치도 안 알려줬는데 우리 먼저 들어와도 괜찮은 건가?+안젤리아의 서류 없이 인형 둘이서 격리 벨트를 통과하기는 불가능에 가깝다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AN94(11)<Position>0,-70</Position>||:괜찮으니까 걱정 마, 안티아.+슬슬 때가 됐어.
+AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:무슨 때?
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>207</BIN><SE1>AVG_wind_grass</SE1>:안젤리아는 시계를 확인했다.+지금 그들은 넓은 공터에 서 있었다.+격리 벨트와 위성 도시 사이의 미개발 지역이었다.
+RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||<BIN>207</BIN>:참 한적한 곳이네요. 하지만 딱히 길이라고 할만한 것도 안 보여요.+아, 알았다. 땅굴을 팠군요?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;RPK16(7)<Position>0,-70</Position>||:땡.
+NPC-AngeStreet(0);RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:그렇다면...... 아하, 그런 거였어요?
+()<Speaker></Speaker>||:RPK-16은 뭔가 떠오른 듯 손뼉을 쳤다.
+RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:그래서 조를 이렇게 나눴군요.
+AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:그, 그게 무슨 뜻이지?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:왔다.
+()<Speaker></Speaker>||:안젤리아가 고개를 들어 하늘을 응시했다.+그리고 까만 점 하나가 저 하늘 끝에서 나타났다.+ 점은 가까워지면서 점점 비행기의 형체가 되더니, 이내 어마어마한 크기의 수송 항공기가 되었다.+항공기는 착륙할 기세로 날아왔고, 고도도 낮아져 랜딩 기어가 눈에 보일 정도였다.
+()<Speaker></Speaker>||:안젤리아는 말없이 계속 그 항공기를 바라봤다.+그리고 항공기의 꼬리에서 무언가가 휙 던져지더니, 그대로 낙하했다. 대략 차량만한 크기의 컨테이너였다.
+()<Speaker></Speaker>||:엄청난 속도로 자유 낙하한 컨테이너는 안젤리아 일행에게서 얼마 안 되는 위치에 굉음을 내며 떨어졌다.+그 충격으로 잡초투성이던 땅에 크레이터가 생길 지경이었다.
+안젤리아()<Speaker>안젤리아</Speaker>||:도착했어.
+AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:...응?!
+()<Speaker></Speaker>||<SE1>AVG_door_storehouse</SE1>:안젤리아는 아무렇지도 않게 다가가, 컨테이너에 달린 핸들을 돌렸다.+그러자 컨테이너의 측면이 열렸고, 안에서 은빛을 내는 두 형체가 굴러 나왔다.
+AN94(11)<Speaker>AN94</Speaker><Position>0,-70</Position>||:A... 아니 루치아, 괜찮나?!
+AK12(2)<Speaker>AK12</Speaker><Position>0,85</Position>;AN94(11)<Position>0,-70</Position>||:으으... 목 부러지는 줄 알았어...
+AK12(2)<Position>0,85</Position>;NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:발신기로부터 오차 약 4.75m. 의뢰한 항공대, 솜씨가 대단한걸.
+AK12(2)<Position>0,85</Position>;RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:풉... 푸하하하...!+푸흐흡... 죄, 죄송해요... 너무 웃겨서...+설마 이렇게 올 줄은...+휴우... 그래도 하란다고 그대로 따르다니, 정말 충실한 부하들이네요.
+AK15(0)<Speaker>AK15</Speaker>;RPK16(7)<Position>0,-70</Position>||:...이게 훨씬 효율적이니까.
+AK12(2)<Speaker>AK12</Speaker><Position>0,85</Position>;RPK16(7)<Position>0,-70</Position>||:컨테이너 속에서 몇 시간을 죽치고 있어야 했던 건 괜찮은데...+최소한 낙하산이라도 달아 줬어야 하는 거 아니야?
+AK12(2)<Position>0,85</Position>;NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:누구한테 사진이라도 찍히면 큰일나. 그리고, 애초에 네가 제안했잖아.+"나랑 AK-15는 위장 잠입은 도저히 무리지."+"도보로 국경을 넘느니, 차라리 비행기를 타는 게 좋을걸?"+나중에 딴소리 할까 봐 녹음도 해뒀지.
+AK12(2)<Speaker>AK12</Speaker><Position>0,85</Position>;NPC-AngeStreet(0)||:아니 그래도 착륙 방식이...
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:결과만 좋으면 장땡이지 뭘.+무기랑 통신 설비는 멀쩡하지?
+AK15(0)<Speaker>AK15</Speaker>||:출발 전에 전부 충격 흡수 상자에 수납해 둬서 손상은 없을 테지만, 나중에 다시 한번 확인하겠습니다.
+RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:그런데, 아무리 컨테이너에 숨었다지만 비행기로도 밀항은 어렵지 않나요?+우리한테 이렇게 편리한 수단을 제공해 주다니, 대체 어떤 분이시길래.+이제 다 모였으니 알려 주세요.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:굳이 다시 소개할 필요가 있나?
+RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:흐음...? 제 기억에 그 정도로 대단한 인물은 없는데요.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>169</BIN><黑屏2>:......+격리벽 안쪽.
+RPK16(7)<Speaker>RPK16</Speaker><Position>0,-70</Position>||:흐음...? 제 기억에 그 정도로 대단한 인물은 없는데요.
+NPC-Jason(2)<Speaker>K</Speaker>||:나 참.+오자마자 무시당하다니 이거 서러워서 살겠나.
+()<Speaker></Speaker>||:안젤리아 일행을 마중 나온 건, 팔디스키에서의 사투 이후 첩보 임무를 마치고 조국으로 귀환한 K였다.+안젤리아가 사용한 동독 정부의 인증을 받은 통행 허가 서류도, 다 K가 마련해 준 것이었다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:헛소린 딴 데 가서 하셔.+준비는 어떻게 됐어?
+NPC-AngeStreet(0);NPC-Jason(2)<Speaker>K</Speaker>||:은신처도, 너희의 위장용 신분증도 진작에 다 마련했다.+그런데, 정말 너처럼 남한테 그토록 당당하게 도움을 요구하는 사람은 살다살다 처음 보는군.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(2)||:지금 이 세상에 날 "도와주고" 싶어서 안달 난 사람들이 여기서 상트페테르부르크까지 줄을 섰거든.+그리고, 나한테 빚이 있잖아?
+NPC-AngeStreet(0);NPC-Jason(2)<Speaker>K</Speaker>||:귀찮기는, 난 우리가 그래도 파트너라 생각했는데 말이지.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(2)||:그건 다 옛날 얘기고.+그리고, 동독은 우리의 행동에 과도하게 간섭하지 않겠다고 약속했을 텐데.+그럼 네가 잔소리할 것도 없지.
+NPC-AngeStreet(0);NPC-Jason(2)<Speaker>K</Speaker>||:알아. 하지만 나도 내 할일을 해야지.+개인적으로 널 돕는 걸 개의치는 않는다만, 여긴 독일이고 난 네 안전 책임자다.+그러니 상황을 파악할 의무와 권리가 있어.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(2)||:흥, 굳이 말 안 해 줘도 대충 짐작했으면서.+애당초 무슨 거창한 기밀 임무 같은 걸로 여기 온 것도 아니잖아.
+NPC-AngeStreet(0);NPC-Jason(2)<Speaker>K</Speaker>||:패러데우스의 조사. 서로 일치하는 목적이지.+이쪽에선 이미 조사한 게 있으니, 우리와의 협력이 최선책이지 않나?
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(2)||:난 파트너 따위 필요 없어. 그리고, 네가 만약 윌리엄의 앞잡이면 어떡해?
+NPC-Jason(2)<Speaker>K</Speaker>||:그럼 넌 진작에 잠수함 기지에서 죽었지.+됐으니까 보자마자 시비 거는 건 그만하고, 새 친구를 소개해 줄 테니 따라와.
+()<Speaker></Speaker>||:K의 안내를 받으며, 안젤리아 일행은 격리벽을 빠져나와 브레멘 시내로 들어왔다.+그들 앞의 도로에는 검은 리무진이 정차 중이었다. 아무래도 한참을 기다린 것 같았다.+그리고 차 옆의 용모가 수려한 여성이, K를 보자마자 힘차게 손을 흔들었다.
+NPC-Morridow(0)<Speaker>？？？</Speaker>||:아! 이쪽이요 이쪽!
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:새 친구라는 게 저 사람이야?
+NPC-Jason(2)<Speaker>K</Speaker>||:저분한테까지 괜한 소리 말도록.
+NPC-Morridow(0)<Speaker>？？？</Speaker>||:오랜만이에요, 케인 씨.+정말 수고 많으셨어요.
+NPC-Jason(2)<Speaker>K</Speaker>;NPC-Morridow(0)||:아닙니다, 다 제 업무인걸요.+소개드리죠, 이쪽이 안젤리아입니다.
+NPC-Morridow(0)<Speaker>？？？</Speaker>||:오! 안녕하세요 안젤리아 씨! 사탕 드실래요?
+()<Speaker></Speaker>||:그녀는 반가워하며 핸드백에서 사탕을 꺼내 안젤리아에게 건넸다.+안젤리아는 묵묵히 사탕을 받았지만, 입에 넣지는 않았다.
+NPC-Morridow(0)<Speaker>몰리도</Speaker>||:울릭 주석님의 비서, 몰리도 포거트입니다.+몰리도라 불러 주세요.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Morridow(0)||:울릭...?+베오그라드를 방문했던 그 길다 울릭?
+NPC-AngeStreet(0);NPC-Jason(2)<Speaker>K</Speaker>||:그래, 그분이다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(2)||:그 사람은 또 이 일이랑 무슨 관계야?
+NPC-AngeStreet(0);NPC-Jason(2)<Speaker>K</Speaker>||:간단히 말하자면, 네가 이렇게 브레멘에 들어올 수 있었던 것도 다 그분 덕이다.+은신처로 가기 전에 주석님을 뵙도록.+그분이 사전에 요청하셨다.
+NPC-AngeStreet(0);NPC-Morridow(0)<Speaker>몰리도</Speaker>||:그렇게 됐어요. 자 안젤리아 씨, 어서 타세요.+긴장하실 것 없어요, 그냥 평범하게 만나자는 거니까요!
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Morridow(0)||:......+다는 못 탈 거 같은데.
+NPC-AngeStreet(0);NPC-Morridow(0)<Speaker>몰리도</Speaker>||:네, 인형분들은 우선 K 씨와 함께 은신처로 가 주시면 돼요.+주석님께선 안젤리아 씨와 단둘이서 이야기하고 싶다 하셨거든요.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Morridow(0)||:그러죠.+레나테, 에르빈이랑 안티아 데리고 먼저 가 있어.+루치아, 타.
+NPC-AngeStreet(0);NPC-Morridow(0)<Speaker>몰리도</Speaker>||:네? 주석님께선――
+AK12(4)<Speaker>AK12</Speaker><Position>0,85</Position>;NPC-Morridow(0)||:그렇게 됐으니 사이좋게 지내요, 몰리도 씨.
+AK12(4)<Position>0,85</Position>;NPC-Morridow(0)<Speaker>몰리도</Speaker>||:아... 알겠습니다.+그럼 두 분, 함께 가시죠.
+()||<黑屏1>:

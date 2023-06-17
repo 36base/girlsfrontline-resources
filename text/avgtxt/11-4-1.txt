@@ -1,23 +1,23 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||<BGM>BGM_Empty</BGM><黑屏2><BIN>168</BIN>:19시 30분, 베오그라드 광장 옆의 골목길.
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Room</BGM>:...+저... 이건...
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:심상치 않아... 안 좋은 예감이 들어...
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:의식을 잃은 거야?
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:그것뿐이 아니야...+마인드맵이 융해됐어, 원격으로 명령을 받은 거야, 빨리 끌고 와!
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:가고 있어! 하지만... 어째서 갑자기 마인드맵이 녹아버린 거지...?
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:저 메이드가 우리가 찾는 사람의 인형이 맞다면, 지금 뭔가 매우 나쁜 일이 일어난 거야!+SOP2, 주위를 경계해, 지금 바로 녀석 마인드맵에 들어갈 테니까!
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:마인드맵이 녹아버린 상태에서 뭘 어쩌게!?
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:데이터가 완전히 파괴되기 전에, 융해 명령을 중단할 수 있을지도 몰라. 넌 여기서 날 보호해!
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:알았어, 서둘러! 지금 여기서 너무 오래 있었어, 아까 그 녀석들의 동료가 쫓아오면...+...RO?
-()||<BGM>BGM_Empty</BGM><白屏1>:RO635의 의식은 이미 메이드의 마인드맵 속에 들어갔다.
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM><BIN>157</BIN><白屏2>:...+여기가... 그 메이드의 마인드맵이 만들어 낸 공간인가?
-NPC-Maid(0)<Speaker>메이드 인형의 마인드</Speaker>||:안녕하세요, 인형 아가씨.+방문 예약을 하셨습니까?
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:메이드 씨, 잘 들어, 넌 지금...
-()||<SE2>MachineGunBurst</SE2><闪屏><duration>5</duration></闪屏>:탕!
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BGM>BGM_stage4</BGM>:...!
-NPC-Maid(0)<Speaker>메이드 인형의 마인드</Speaker>||:예약이 없는 자는 적으로 간주하여 즉시 배제하겠습니다.
-RO635-NoArmor(5)<Speaker>RO635</Speaker>||:이봐! 지금 무슨 일이 일어났는지 모르는 거야? 이 소체는 죽었어!
-NPC-Maid(0)<Speaker>메이드 인형의 마인드</Speaker>||:저희의 직책은 주인님의 비밀을 지키는 것입니다.+죽는다 하여도, 상대가 누구라 하여도, 임무를 완수해야 합니다!
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||<白屏1>:기다려봐!
-RO635-NoArmor(4)<Speaker>RO635</Speaker>||<白屏2><黑屏1><BIN>72</BIN>:뭔 주동 방어 장치가 이렇게 많아!?+그 정보원, 이 민간용 인형에게 불법 물품을 대체 얼마나 쑤셔 넣은 거야? 이 정도의 개조는 최소 십몇 년의 징역감이야...+할 수 없지, 널 한 번 더 죽여야겠어...+아니, 이 숫자로 봐서, 수십번은 더 죽여야 해!+미안하지만, 나도 내 임무를 완수하기 위해 널 몇 번이든 죽여주겠어!
-()||<黑点2><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BGM>BGM_Empty</BGM><黑屏2><BIN>168</BIN>:19시 30분, 베오그라드 광장 옆의 골목길.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Room</BGM>:...+저... 이건...
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:심상치 않아... 안 좋은 예감이 들어...
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:의식을 잃은 거야?
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:그것뿐이 아니야...+마인드맵이 융해됐어, 원격으로 명령을 받은 거야, 빨리 끌고 와!
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:가고 있어! 하지만... 어째서 갑자기 마인드맵이 녹아버린 거지...?
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:저 메이드가 우리가 찾는 사람의 인형이 맞다면, 지금 뭔가 매우 나쁜 일이 일어난 거야!+SOP2, 주위를 경계해, 지금 바로 녀석 마인드맵에 들어갈 테니까!
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:마인드맵이 녹아버린 상태에서 뭘 어쩌게!?
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:데이터가 완전히 파괴되기 전에, 융해 명령을 중단할 수 있을지도 몰라. 넌 여기서 날 보호해!
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:알았어, 서둘러! 지금 여기서 너무 오래 있었어, 아까 그 녀석들의 동료가 쫓아오면...+...RO?
+()||<BGM>BGM_Empty</BGM><白屏1>:RO635의 의식은 이미 메이드의 마인드맵 속에 들어갔다.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM><BIN>157</BIN><白屏2>:...+여기가... 그 메이드의 마인드맵이 만들어 낸 공간인가?
+NPC-Maid(0)<Speaker>메이드 인형의 마인드</Speaker>||:안녕하세요, 인형 아가씨.+방문 예약을 하셨습니까?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:메이드 씨, 잘 들어, 넌 지금...
+()||<SE2>MachineGunBurst</SE2><闪屏><duration>5</duration></闪屏>:탕!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BGM>BGM_stage4</BGM>:...!
+NPC-Maid(0)<Speaker>메이드 인형의 마인드</Speaker>||:예약이 없는 자는 적으로 간주하여 즉시 배제하겠습니다.
+RO635-NoArmor(5)<Speaker>RO635</Speaker>||:이봐! 지금 무슨 일이 일어났는지 모르는 거야? 이 소체는 죽었어!
+NPC-Maid(0)<Speaker>메이드 인형의 마인드</Speaker>||:저희의 직책은 주인님의 비밀을 지키는 것입니다.+죽는다 하여도, 상대가 누구라 하여도, 임무를 완수해야 합니다!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<白屏1>:기다려봐!
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||<白屏2><黑屏1><BIN>72</BIN>:뭔 주동 방어 장치가 이렇게 많아!?+그 정보원, 이 민간용 인형에게 불법 물품을 대체 얼마나 쑤셔 넣은 거야? 이 정도의 개조는 최소 십몇 년의 징역감이야...+할 수 없지, 널 한 번 더 죽여야겠어...+아니, 이 숫자로 봐서, 수십번은 더 죽여야 해!+미안하지만, 나도 내 임무를 완수하기 위해 널 몇 번이든 죽여주겠어!
+()||<黑点2><BIN>10</BIN>:

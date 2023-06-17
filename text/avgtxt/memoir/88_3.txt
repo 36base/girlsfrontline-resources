@@ -1,2 +1,96 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||:<color=#FFFF00>마인드맵 기록 분석 중...</color>+<color=#FFFF00>분석 완료 예상 시각... 5월 20일 16시 00분</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>|||<BIN>99</BIN><黑屏2><SE1>AVG_Helicopter_BG</SE1><BGM>BGM_Sneak</BGM>:변방 오염지대의 어딘가. 황야 위에 수송기가 크게 흔들리며 착륙했다.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:이곳에서 망원경으로 저 울퉁불퉁한 지평선을 관찰하면, 저 멀리서 꿈틀대는 검은 형체들이 수도 없이 많은 것을 바로 알 수 있다. 전부 ELID 감염체, 이번 소탕 작전의 목표였다.
+97typeSMod(0)<Speaker>97식 산탄총</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>MG3! 우리가 나설 차례야!</color>+<color=#00CCFF>놈들을 제압하고 좌측으로 돌파한 다음 낮은 곳으로 몰아넣어야 해!</color>
+97typeSMod(0);NPC-Maid(0)<Speaker>MG3</Speaker>||:알았어! 이동하니까 엄호 부탁해!
+97typeSMod(0)<Speaker>97식 산탄총</Speaker><通讯框>;NPC-Maid(0)||:<color=#00CCFF>그나저나, 그 소체로 임무 나왔어?</color>+<color=#00CCFF>아무리 잘 적응했어도 좀 위험하지 않아?</color>
+NPC-Maid(0)<Speaker>MG3</Speaker>||:헤헷! 예전 거랑 성능차는 좀 있어도 내 실력이 어디 가겠어? 걱정 마셔!
+()<Speaker></Speaker>||:훨씬 가벼운 소체로 갈아탄 MG3는 전장 위를 마음껏 내달리며 전혀 다른 기동성을 아낌없이 과시했다.+그리고 97식 산탄총의 엄호를 받아, 쏜살같이 ELID 무리를 헤치고 목표 감제고지에 도달했다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||:지정 위치에 도착! 화력 투사 준비―― 사격 개시!
+()<Speaker></Speaker>||<SE1>AVG_Gatling_gun</SE1>:MG3의 기관총이 불을 뿜었고, 소나기 같은 철갑탄 세례에 전방의 ELID들이 낙엽처럼 쓸려나갔다.
+97typeSMod(0)<Speaker>97식 산탄총</Speaker><通讯框>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>잘한다 잘한다~!</color>+<color=#00CCFF>시원시원하게 쏘는 거 보면 부러워 죽겠어 하여간!</color>
+97typeSMod(0);NPC-Maid(0)<Speaker>MG3</Speaker>||:지금의 나는 예전처럼 굼벵이가 아니라고!+호크 너도 마음것 밀어붙여! 얼마든지 따라잡아 줄 테니까!
+97typeSMod(0)<Speaker>97식 산탄총</Speaker><通讯框>||:<color=#00CCFF>짜시~익, 말했겠다?</color>+<color=#00CCFF>그럼 나도 실력 좀 발휘해 보실까!</color>
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:경쟁심에 의욕이 샘솟는 97식 산탄총이 당차게 돌격했고, MG3는 바로 그 뒤를 이었다. 그리고 얼마 안 가 두 인형은 진형의 선두를 달렸다.
+97typeSMod(0)<Speaker>97식 산탄총</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>하하, 어떠냐! 못 따라잡겠으면 늦기 전에 말해!</color>
+97typeSMod(0);NPC-Maid(0)<Speaker>MG3</Speaker>||:아직 워밍업도 안 됐거든!
+97typeSMod(0)<Speaker>97식 산탄총</Speaker><通讯框>;NPC-Maid(0)||:<color=#00CCFF>아, 주의해! 곧 적 밀집 지점에 진입한다!</color>
+NPC-Maid(0)<Speaker>MG3</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:OK!
+()<Speaker></Speaker>||<黑点2><BIN>480</BIN><SE1>AVG_Geiger_Counter</SE1><BGM>BGM_stage1</BGM>:두 인형은 의기양양하게 오염지대 더욱 깊숙한 곳으로 뛰어들었다.+이전에 재난이 발생했던 중심지에 가까워질수록 복사 농도가 급상승하고, 도시의 폐허도 지형이 점점 복잡해져 험준한 장애물이 되어 갔다.
+97typeSMod(0)<Speaker>97식 산탄총</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>전방의 장애물 제거 부탁해!</color>
+NPC-Maid(0)<Speaker>MG3</Speaker>||:나한테 맡겨!
+97typeSMod(0)<Speaker>97식 산탄총</Speaker><通讯框>||:<color=#00CCFF>MG3! 적이 우회 접근한다!</color>
+NPC-Maid(0)<Speaker>MG3</Speaker>||:간다 간다!
+97typeSMod(0)<Speaker>97식 산탄총</Speaker><通讯框>||:<color=#00CCFF>MG3!</color>
+NPC-Maid(0)<Speaker>MG3</Speaker>||:알았다니까!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:............+몰려오는 ELID 무리의 공세를 몇 차례고 연달아 물리친 MG3는 갑자기 피로해져 옆의 엄폐물에 몸을 기댔다.+얼굴이 화끈거렸고, 몸도 어째선지 속에서부터 불덩이처럼 타오르는 것 같았다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||:후우... 후우... 무슨... 어, 코어 온도 왜 이래?!+방열 모듈... 정상. 냉각액도 충분하고...+이상하네... 이제 겨우 10km 좀 넘게밖에 안 뛰었는데 어떻게 된 거지?+다른 꼬맹이들도 계속 달리면 이렇게 열이 나나?
+()<Speaker></Speaker>||:대체 왜 이렇게 몸이 과열됐는지 영문을 몰라, MG3는 불덩이처럼 뜨거운 가슴을 문지르며 머리를 긁적였다.
+97typeSMod(0)<Speaker>97식 산탄총</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>MG3, 뭐해? 빨리 와서 도와줘!</color>
+NPC-Maid(0)<Speaker>MG3</Speaker>||:아, 알았어! 금방 가!
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:하지만 그녀는 동료의 부름에 일말의 주저도 없이 다시 무기를 들고 움직였다.
+97typeSMod(0)<Speaker>97식 산탄총</Speaker><通讯框>||<SE1>AVG_weapon_reload</SE1>:<color=#00CCFF>재장전 중이야, 엄호해 줘!</color>
+NPC-Maid(0)<Speaker>MG3</Speaker>||:오케이!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2><BGM>BGM_Empty</BGM>:97식 산탄총을 지원하기 위해, MG3는 다시 방아쇠를 당긴 채 포효하는 기관총의 반동을 몸으로 받아냈다.+그런데 갑자기 날카로운 시스템 경보음이 귓가를 때리더니, 시야에 새빨간 글씨가 나타났다.
+()<Speaker>시스템</Speaker>||<SE1>AVG_ElecSpace</SE1>:<color=#FF0000>[경고 - 소체 과열. 15초 후 동력 시스템이 강제 셧다운됩니다.]</color>
+NPC-Maid(0)<Speaker>MG3</Speaker>||<BGM>GF_21winter_battle_3</BGM>:어, 엑?! 시스템 다운이라고? 여기서!? 무슨 소리야!+시퀀스 무시! 시퀀스 강제 중지!
+()<Speaker>시스템</Speaker>||:<color=#FF0000>[경고 - 셧다운 시퀀스를 중지할 수 없습니다. 12초 후 동력 시스템이――</color>
+NPC-Maid(0)<Speaker>MG3</Speaker>||:젠자아아아앙!!
+()<Speaker></Speaker>||<SE1>AVG_Gatling_gun</SE1>:초초해진 MG3가 화망을 넓혀, 소체가 작동을 정지하기 전에 최대한 많은 적을 쓸어버리려 했다.
+97typeSMod(0)<Speaker>97식 산탄총</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>응? MG3 너 괜찮아? 나야 좋긴 한데 이거 화력 낭비 아니야?</color>
+NPC-Maid(0)<Speaker>MG3</Speaker>||:괜찮으니까 넌 좀 물러서!
+NPC-Maid(0);97typeSMod(0)<Speaker>97식 산탄총</Speaker><通讯框>||:<color=#00CCFF>왜, 안 되겠어?</color>
+NPC-Maid(0)<Speaker>MG3</Speaker>;97typeSMod(0)||:안 되긴 무슨! 네가 무슨 펭귄 걸음마처럼 느리니까 그렇지!
+97typeSMod(0)<Speaker>97식 산탄총</Speaker><通讯框>||:<color=#00CCFF>하하! 뒤에서 거북이 걸음인 게 누군데!</color>
+()<Speaker>시스템</Speaker>||:<color=#FF0000>강제 셧다운까지 6초...</color>
+NPC-Maid(0)<Speaker>MG3</Speaker>||:......+호크! 잔말 말고 돌아와! 당장!
+97typeSMod(0)<Speaker>97식 산탄총</Speaker><通讯框>||:<color=#00CCFF>뭐야, 무슨 일인데 그래?</color>
+()<Speaker>시스템</Speaker>||:<color=#FF0000>강제 셧다운까지 3초...</color>
+NPC-Maid(0)<Speaker>MG3</Speaker>||:나――
+()<Speaker></Speaker>||<SE1>AVG_ElecSpace</SE1>:시스템 경고음과 함께, MG3의 소체가 정지했다.+그리고 손에 힘이 풀려 기관총이 바닥에 떨어지기가 무섭게, 제압 사격으로 저지당하던 ELID들이 그 틈을 놓치지 않고 몰려들었다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||:젠장... 움직여, 움직이라고!
+()<Speaker></Speaker>||:MG3는 당황하며 억지로 소체를 재가동해, 코앞까지 다가온 ELID들에게 탄통을 휘둘렀다.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:하지만 이번에도 그러기가 무섭게, 양팔에서 스파크가 튀며 소체가 부하를 못 견디고 셧다운되었다.+결국 손가락 하나 못 움직이는 그녀는 순식간에 ELID 무리에게 덮쳐지고 말았다.
+97typeSMod(0)<Speaker>97식 산탄총</Speaker>||:――MG3?!
+()<Speaker></Speaker>||:때마침 돌아온 97식 산탄총은 이 황당한 광경에 입이 떡 벌어졌다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||:호크...! 난 됐으니까 도망쳐...!
+97typeSMod(0)<Speaker>97식 산탄총</Speaker>||:하여간 힘들어도 억지 부리기나 하면서... 그렇게 망가질 때까지 말을 안 해야겠냐고 이 밥통아!
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1><BGM>BGM_Empty</BGM>:97식 산탄총은 곧장 MG3를 구하러 뛰어들었다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||:오지 말라니까...!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>99</BIN><回忆><BGM>GF_EV9_Intermission</BGM>:......
+()<Speaker></Speaker>||<回忆><SE1>AVG_Gunfire</SE1>:떨어지는 포탄에 땅이 뒤집히고, 흙더미가 비처럼 쏟아졌다.+적군의 맹렬한 화력 투사에 엄호를 맡았던 부대원들이 차례차례 쓰러졌지만, 곁의 동료들은 이를 아랑곳않고 오로지 MG3를 구하기 위해 참호를 파는 데 집중했다.
+MG3(1)<Speaker>MG3</Speaker>||<回忆><SE1>Stop_AVG_loop</SE1>:제발 부탁이니까 나 두고 그냥 가라고!
+()<Speaker></Speaker>||<回忆>:MG3이 절규하며 앞의 동료를 밀쳤지만, 그 동료는 도로 벌떡 일어나더니 MG3에게 따귀를 날렸다.
+()<Speaker>부대원</Speaker>||<回忆><SE1>AVG_Punch</SE1>:닥쳐! 이럴 기운 있음 너도 얼른 파!
+MG3(1)<Speaker>MG3</Speaker>||<回忆>:대체 왜...
+()<Speaker>부대원</Speaker>||<回忆>:거의 다 됐어!
+()<Speaker></Speaker>||<回忆>:도구가 없어서 단단한 흙벽을 맨손으로 파내야만 하는 동료들을 보던 MG3는 문득, 이대로 가다간 모두 이 비좁고 지저분한 참호 속에 파묻히리란 생각이 들었다.
+()<Speaker></Speaker>||<回忆><SE1>AVG_21Winter_Phone_Crash</SE1>:그리고 그런 생각이 들자, 그녀는 이를 악물곤 자신의 한쪽 팔을 잡고는 그대로 뜯어내 버렸다.
+()<Speaker>부대원</Speaker>||<回忆>:무슨 짓이야?!
+MG3(1)<Speaker>MG3</Speaker>||<回忆>:이러면... 끼인 면적이 작아지잖아...!
+()<Speaker>부대원</Speaker>||<回忆>:.....
+()<Speaker></Speaker>||<回忆><黑屏1>:눈이 휘둥그레진 동료들을 애써 무시하며, MG3는 이번엔 비수를 뽑아 가슴의 방탄 실리콘을 찔렀다.
+97typeSMod(0)<Speaker>97식 산탄총</Speaker>||<黑屏2><BIN>480</BIN><关闭蒙版>:MG3! 정신 차려!
+NPC-Maid(0)<Speaker>MG3</Speaker>||:......
+()<Speaker></Speaker>||:간신히 주마등에서 벗어난 MG3는, 지금 97식 산탄총이 여전히 꼼짝도 못하는 그녀를 ELID 무리 속에서 구해내어 질질 끌면서 달리고 있음을 깨달았다.
+97typeSMod(0)<Speaker>97식 산탄총</Speaker>||:이런 데서 나사 빠지지 말고 정신 똑바로 차리라고!
+NPC-Maid(0)<Speaker>MG3</Speaker>||:나...
+()<Speaker></Speaker>||:축 늘어진 소체를 필사적으로 재가동하려던 그때, MG3는 소체가 끔찍하게 찢겨진 것을 눈치챘다.
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:마치...
+MG3(1)<Speaker>MG3</Speaker>||<黑屏2><BIN>99</BIN><回忆><BGM>GF_21winter_avg_mahaline</BGM>:됐어...+이제 아무 데도 끼일 일 없어...
+()<Speaker></Speaker>||<回忆>:MG3는 소체를 감싸던 방어력 증강 모듈까지 뜯어내고서야 좁은 모퉁이를 빠져나올 수 있었다.+너덜너덜해진 소체가 되어 탈진한 그녀는 그대로 진흙탕 위에 쓰러져, 동료들이 있는 쪽으로 기어갔다.
+MG3(1)<Speaker>MG3</Speaker>||<回忆>:봐봐...+나... 이렇게 가벼워진 거 처음이야... 이제 어떤 장애물에도 끼이지 않을 거라고...
+()<Speaker></Speaker>||<回忆>:하지만 동료들은 마찬가지로 진흙탕에 널브러진 채, 아무도 MG3의 "새로운" 모습을 보고 대답해 주지 않았다.
+MG3(1)<Speaker>MG3</Speaker>||<回忆>:얘들아... 말 좀 해봐...
+()<Speaker></Speaker>||<回忆><SE1>ClothingUp</SE1>:간신히 가장 가까운 곳에 엎어져 있던 동료의 몸을 뒤집어 봤지만, 그녀는 이미 머리가 절반이 사라진 뒤였다.
+MG3(1)<Speaker>MG3</Speaker>||<回忆><黑屏1>:눈 좀 떠봐... 날 보란 말이야...+이젠 너희 발목 안 잡아...+다시는... 안 잡을게... 제발...
+()<Speaker></Speaker>||<黑屏2><BIN>480</BIN><关闭蒙版><SE1>AVG_rifle_finalshot_3h</SE1>:97식 산탄총은 MG3를 붙잡은 손을 놓지 않으면서, 이따금씩 멈춰서 덤벼드는 ELID를 총으로 날려버렸다.
+97typeSMod(0)<Speaker>97식 산탄총</Speaker>||:거 되게 끈질기네...!
+()<Speaker></Speaker>||:잔탄이 바닥나 재장전하던 그때, ELID 한 마리가 시야의 사각지대에서 덮쳐 와 97식 산탄총의 팔을 물어뜯었다.
+()<Speaker></Speaker>||<SE1>AVG_Punch</SE1>:물리자마자 개머리판으로 머리를 날려버려 무리 속으로 끌려가는 것은 면했지만, 그녀의 팔뚝은 뜯겨져 대롱거렸다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||:......
+()<Speaker></Speaker>||:이에 대응 사격을 관뒀는지, 97식 산탄총은 총을 메고 남은 한팔로 다시 MG3을 끌고 가까운 엄폐물로 내달렸다.+걸레짝이 된 자신의 소체와, 뜯겨 나간 97식 산탄총의 팔. MG3는 더 이상 자괴감을 억누를 수가 없었다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||:미안해...
+()<Speaker></Speaker>||:MG3은 그저, 흙먼지를 일으키며 몰려오는 ELID 무리를 멍하니 바라보며 읊조렸다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||<黑屏1>:미안해... 미안해...

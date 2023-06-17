@@ -1,2 +1,163 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||:<color=#FFFF00>마인드맵 기록 분석 중...</color>+<color=#FFFF00>분석 완료 예상 시각... 5월 20일 16시 00분</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>472</BIN><BGM>GF_21summer_avg_Demon</BGM>:옐로우존 끝자락의 버려진 도시 구역.+버려진 시가지의 건물들은, 붕괴 오염도가 상승함에 따라 점점 원래의 모습을 잃어 가고 있었다.+하늘을 향해 우뚝 솟았던 고층 빌딩들이 맥없이 무너져 콘크리트 벽의 단면과 철근을 드러내고 있는 것이, 마치 피골이 상접해 땅바닥에 널브러진 채로도 송곳니를 드러내는 맹견 같았다.+그리고 그 을씨년스런 풍경은 익숙해진 지 오래라는 듯, PPK는 그 사이를 유유히 빠져나가며 임무 목표인 좌표로 향하고 있었다.
+PPKMod(0)<Speaker>PPK</Speaker>||:그래서, 오늘도 그렇게 온몸에서 술냄새 풀풀 풍기는 이유가 어젯밤 몰래 기지 밖으로 나가서 술 마신 게 아니라...+순찰 도중 실연당하고 길도 잃은 여자애가 들러붙길래, 취객의 안전을 고려해 도시를 가로질러 집까지 데려다줘서라고?
+Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>너희도 알다시피, 인간은 실연당하면 상당히 질척거리거든.</color>
+MP443_MOD(0)<Speaker>MP443</Speaker><通讯框>||:<color=#00CCFF>난 역시 모르겠어, 그게 그렇게 괴로운 일이야?</color>
+PPKMod(0)<Speaker>PPK</Speaker>;MP443_MOD(0)<通讯框>||:그게 의외로 정상이야, 인형과 인간은 신체 구조부터가 본질적으로 다른걸.
+PPKMod(0);MP443_MOD(0)<Speaker>MP443</Speaker><通讯框>||:<color=#00CCFF>어... 뜯어볼 수 있고 없고의 차이 말이야?</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:그런 얄팍한 물리적인 측면 말고...
+()||:PPK의 얼굴에 살짝 황홀해하는 듯한 미소가 스쳤다.
+PPKMod(0)<Speaker>PPK</Speaker>||:우리 인형은 기억이 전부 마인드맵에 저장되고, 필요할 때나 뒤져볼 수 있지? 그게 우리가 기억을 하는 방식이야.+하지만 인간은 기억이 언제, 어디서 다시 떠오를지 스스로 정하지 못해.+특히 소중한 사람을 잃은 기억이 상기될 때면, 대뇌 양측의 배쪽 피개부와 배쪽 선조체, 배상회 등의 구역이 활성화돼...+...바로 인간에게 갈망과 중독을 일으키는 구역이지.
+MP443_MOD(0)<Speaker>MP443</Speaker><通讯框>||:<color=#00CCFF>어... 잠깐만, 인체 해부학 자료 좀 보고...</color>
+Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>쉽게 말하자면, 인간은 무언가를 잃으면 중독이라도 된 것마냥 그걸 계속 상기한단 거다.</color>
+MP443_MOD(0)<Speaker>MP443</Speaker><通讯框>||:<color=#00CCFF>뭐야 그거 완전 마조히스트인데?!</color>
+PPKMod(0)<Speaker>PPK</Speaker>;MP443_MOD(0)<通讯框>||:맞아, 마조히스트처럼 끝없이 되새겨... 그 아픔이 두뇌를 영구적으로 변질시킬 때까지.+그런 기억이 상기되지 않도록 언제라도 지우거나 봉인할 수 있는 인형이랑은 다르게 말이야.
+PPKMod(0);MP443_MOD(0)<Speaker>MP443</Speaker><通讯框>||:<color=#00CCFF>그 말 하니 생각났는데, 암시장에 인형의 기억을 수정하는 "시술"을 제공하는 데가 있단 소문을 들은 거 같단 말이지...?</color>
+MP443_MOD(0)<Speaker>MP443</Speaker><通讯框>||:<color=#00CCFF>근데, 그게 진짜라면 부작용은 없어? 인형은 상실의 고통에서 마음대로 벗어날 수 있단 소리야?</color>
+()||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:그때, 무심한 시스템 알림음이 대화의 흐름을 끊었다.
+Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>아가씨들, 잡담은 그만. 진도 보고할 시간이야.</color>+<color=#00CCFF>각자 임무 진척은 어떻지? 뭐 새로 발견한 것 있어?</color>
+PPKMod(0)<Speaker>PPK</Speaker>||<BGM>GF_EV9_Story</BGM>:여전해, 아직까진 인기척도 느껴지지 않아.+이렇게 자극 없이 오래 있다간 잠들어 버리겠어.
+MP443_MOD(0)<Speaker>MP443</Speaker><通讯框>||:<color=#00CCFF>나도 마찬가지야, 딱히 새로 발견한 거 없어.</color>
+Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>그것 참 이상하군... 화기 관제 코어도 없는 보모 인형이, 어린 여자아이를 데리고, 무장한 폭도들이 날뛰는 아수라장 속을 빠져나갔다? 과연 얼마나 멀리 갔을까?</color>+<color=#00CCFF>게다가 이 근방까지 오면 오염도가 급상승하니, 설령 멀리 갔더라도 그 보모 인형의 소체가 멀쩡할지나 의문이군.</color>
+MP443_MOD(0)<Speaker>MP443</Speaker><通讯框>||:<color=#00CCFF>브리핑 자료에 첨부된 매개변수로 추측컨대, 정상 작동 중이어도 엄청 가까이 접근해야만 신호가 포착될 거야.</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:그래도 빵 부스러기도 없이 여자애를 찾기보단, 먼저 그 보모 인형의 신호를 탐지하는 게 더 쉽겠지.
+PPKMod(0);Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>문제는 오염도가 높으니 전파 방해도 심해. 지금 너희 둘의 통신도 꽤나 지직거리는 거 알아?</color>+<color=#00CCFF>그러니 서두르자고, 어린 인간은 이런 환경에서 더더욱 오래 못 버텨. 보모 인형은 분명 동행 중일 터니, 신호 탐지를 게을리하지 마라.</color>
+PPKMod(0);MP443_MOD(0)<Speaker>MP443</Speaker><通讯框>||:<color=#00CCFF>알았어!</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:네~에.
+Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>그리고 PPK, 넌 막 개조받은 참이니 과격하게 나가지 말고 유사시엔 즉시 우리한테 알리도록.</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:...후훗♪
+()||<SE1>AVG_tele_disconnect</SE1>:삐익――+통신을 마친 PPK의 얼굴엔 그녀 특유의 미소가 번졌다.
+PPKMod(0)<Speaker>PPK</Speaker>||:과격하게 굴지 말라... 내 기준엔 "과격하게"랑 "아주 과격하게"밖에 없는데~
+()||:그래도 임무는 임무인지라, PPK는 코웃음을 치긴 했어도 계속해서 인간 여자아이의 신체적 특징에 부합하는 생명체 반응을 탐지하는 동시에, 새 정황에 맞춰 인형 신호 탐지 기능도 기동했다.+하지만 여전히 주변에선 목표로 의심되는 것조차 포착되지 않았다.
+PPKMod(0)<Speaker>PPK</Speaker>||:흐음... 나는 보모 인형이다... 난민들이 폭동을 일으킨 와중, 고용주의 따님을 데리고 여기로 도망친 보모 인형이다...+이렇게 오염이 심한 곳에서, 인간 어린이와 안전하게 숨을 만한 곳을 찾아야 한다...
+()||:PPK가 있는 이곳은 버려진 도시의 폐허고, 시선을 향하는 어디나 성한 것이 없었다.+이곳의 붕괴 오염도는 인간이 즉사할 수준은 아니지만 장시간 노출된다면 건장한 성인도 목숨을 장담할 수 없다. 그런 곳에, 발육도 덜 된 인간 어린이라니.
+PPKMod(0)<Speaker>PPK</Speaker>||:...그러니, 붕괴 복사에 조금이라도 덜 노출되도록 밀폐된 공간이 있는 곳을 찾아야겠지.
+()||:PPK는 즉각 주위에 아직 그나마 멀쩡하고 밀폐된 공간이 있을 만한 건물을 검색했고, 곧바로 한 작은 진료소의 좌표가 그녀의 주의를 끌었다.
+PPKMod(0)<Speaker>PPK</Speaker>||:당첨~♪ 애를 안전한 곳에 뒀다면, 그 다음은 구조 요청이겠지.+그러려면 그 주변에서 신호가 잘 잡히는 곳을 찾아야 할 테고.
+()||<黑屏1>:확신에 찬 미소와 함께, PPK는 눈독 들인 좌표를 향해 조용히 걸어갔다.
+()||<黑屏2><BIN>468</BIN><SE1>AVG_wind_grass</SE1>:잠시 후, 잔해 더미를 헤치고 나온 PPK의 눈에 들어온 풍경은 여전히 별다를 바 없었다.+똑같이 을씨년스럽고, 인기척이라곤 없는 도시의 폐허.+하지만 사전에 계획된 경로를 이탈한 것이었기에, 즉시 동료들의 통신이 쏟아졌다.
+Python(0)<Speaker>파이슨</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>PPK, 왜 경로를 변경했지?</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:사알짝 좋은 아이디어가 떠올라서.
+Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>또 뭘 할 셈인진 몰라도 파격적인 짓은 하지 마라.</color>
+MP443_MOD(0)<Speaker>MP443</Speaker><通讯框>||:<color=#00CCFF>하하핫! 파격적이지 않으면 PPK가 아니지만!</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:걱정 마, 그냥... 괜찮은 단서를 찾아냈을 뿐이니까.
+()||<SE1>AVG_whitenoise</SE1>:칙——치직——+타이밍 좋게, 식별 불가능한 신호가 포착됐다.
+()||<SE1>Stop_AVG_loop</SE1>:모델명도 알아볼 수 없을 정도로 잡음이 심하지만, 그것은 분명히 인형의 신호였다.
+PPKMod(0)<Speaker>PPK</Speaker>||:이따 얘기해, 신호 하나 포착했어.
+Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>...알았다, 진전이 생기면 제때 보고하도록.</color>
+()||:무한한 인내심을 발휘하여, 얇디얇은 나비의 날개를 살며시 집듯, PPK는 아주 차분한 마음으로 이 불안정한 신호와 통신을 시도했다.
+PPKMod(0)<Speaker>PPK</Speaker>||:여보세요, 여기는 G&K 안전계약사에서 파견된 PPK입니다. 들리시나요~?
+PPKMod(0)<Speaker>？？</Speaker><同时置暗>||:<color=#00CCFF>......</color>
+PPKMod(0)<Speaker>에리카</Speaker><同时置暗>||:<color=#00CCFF>에리카... 여기 에리카예요...</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:네에, 에리카 님. 저희는 인간 어린이와 보모 인형 구조 의뢰를 받고 출동했습니다.+당신이 바로 그 보모 인형이죠? 모델명을 대조할 수――
+PPKMod(0)<Speaker>에리카</Speaker><同时置暗>||:<color=#00CCFF>구해 주세요...</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:안심하세요. 지금 구해드리러 왔으니, 이쪽의 지시에――
+PPKMod(0)<Speaker>에리카</Speaker><同时置暗>||:<color=#00CCFF>누구라도 좋으니 제발 구해 주세요...</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:...여보세요?
+()||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM><回忆>:딸깍, 스위치가 눌려진 듯,+사진에 클래식 필터가 적용된 것처럼, 눈앞의 풍경이 갑자기 누렇게 색이 바래졌다.
+PPKMod(0)<Speaker>PPK</Speaker>||:뭐지? 바이러스 신호였나? 파이슨? 그라치~
+()||<SE1>Heartbeat</SE1>:PPK가 내심 실망하며 동료를 불렀지만, 어째선지 목소리가 귓가의 모기처럼 아주 작게 들렸다.
+PPKMod(0)<Speaker>PPK</Speaker>||:......어?
+()||<黑屏1>:그리고, PPK는 다른 세상으로 던져졌다.+돌연 밀려온 뜨겁고 끈적한 열기가 그녀의 살갗에 들러붙어, 목이 마르고 속이 타들어 가는 것만 같았다...
+()||<黑屏2><BIN>9</BIN><BGM>GF_21winter_avg_mahaline</BGM>:............+알 수 없는 공간 속.+머리 위론 칠흑같은 어둠, 발 밑으론 서글픈 듯 빛을 발하는 깨진 기억 파편들이었다.
+PPKMod(0)<Speaker>PPK</Speaker>||:......+무슨 신종 대인형 랜섬웨어인가?
+()||:으직.+그때, 뒤에서 파편이 밟혀 깨지는 소리가 났다.
+()<Speaker>？？</Speaker>||:<color=#7B68EE>......</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:응?
+()||:PPK가 뒤를 돌아보니, 그곳엔 짙은 음영에 가려진 소녀가 맨발로 깨진 기억 파편들을 밟으며 다가오고 있었다.
+PPKMod(0)<Speaker>PPK</Speaker>||:누구야?
+PPKMod(0)<Speaker>？？</Speaker><同时置暗>||:<color=#7B68EE>저는 다짐했어요.</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:목소리로 봐선 방금 나랑 통신한 앤데...+어떻게 내 의식을 여기로 끌고 왔니?
+PPKMod(0)<Speaker>에리카</Speaker><同时置暗>||:<color=#7B68EE>저는 모든 걸 잊겠어요. 그래야만 그렇게 될 수 있으니까.</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:무슨 소리야? 네 꼬마 주인님은 어디 있어?
+PPKMod(0)<Speaker>에리카</Speaker><同时置暗>||:<color=#7B68EE>새롭게 다시 태어나기 전에, 마지막으로 사나야의 이야기를 들려드릴게요.</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:......+무슨 임무든, 총알보단 소통에 들어가는 예산이 더 많다니까...
+PPKMod(0)<Speaker>에리카</Speaker><同时置暗>||:<color=#7B68EE>아리따운 킬러 사나야의 과거를 아는 사람은 아무도 없었습니다.</color>+<color=#7B68EE>하지만 매끄럽게 찰랑이는 장발과 별하늘처럼 반짝이는 그윽한 눈동자 때문에, 어딜 가든 사람들의 눈길을 끌었답니다.</color>+<color=#7B68EE>게다가, 킬러면서 부귀영화에는 전혀 관심이 없고, 오로지 스릴 넘치는 모험을 추구하는 터프걸이었어요...</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:21세기에 그런 이야기는 유행 한참 지났어.
+PPKMod(0)<Speaker>에리카</Speaker><同时置暗>||:<color=#7B68EE>악덕 재벌이 무릎 꿇고 청혼해도 차갑게 비웃으며 거들떠보지 않았고...</color>+<color=#7B68EE>극악무도한 범죄자가 눈앞에서 칼을 휘둘러도 콧방귀를 뀌는 그 사이에 상대의 목을 베어버렸습니다.</color>+<color=#7B68EE>설령 붙잡혀서 가혹한 고문을 받더라도, 사나야는 그저 웃으며 "더 해 봐! 좀 더 아프게 해 보라니까!"라며 도발했답니다.</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:누구야아, 이렇게 사람 가두고 쓰레기 같은 이야기나 듣게 하는 고문을 생각한 게...+빨강? 파인애플, 사과... 세이프 워드가 뭘까나...
+PPKMod(0)<Speaker>에리카</Speaker><同时置暗>||:<color=#7B68EE>아무것도 두렵지 않은 용감한 사나야는, 아무리 험난한 길이어도 결코 물러서는 법이 없었습니다.</color>+<color=#7B68EE>설령...</color>+<color=#7B68EE>설령......</color>
+()||:소녀의 얼굴은 보이지 않았지만, 울먹이는 소리는 똑똑히 들렸다.
+PPKMod(0)<Speaker>PPK</Speaker>||:저질이야... 이야기 계속 못 하겠으면 무리 말고 어서 네 좌표나 불러 줘.
+PPKMod(0)<Speaker>에리카</Speaker><同时置暗>||:<color=#7B68EE>사나야의 이야기는... 대체 어떻게 끝맺어야 하죠...?</color>
+()||:TV의 음량을 확 높인 것처럼, 에리카가 울음을 터뜨렸다.
+PPKMod(0)<Speaker>PPK</Speaker>||:아이... 안 어울려 줬다고 벌칙으로 소음 공격이니?+이야기 코너보다 더 엉망――?
+()<Speaker>에리카</Speaker>||<BGM>BGM_Empty</BGM>:<color=#7B68EE>으아아아!</color>
+()||<SE1>AVG_Broken_Glass</SE1><黑屏1>:목놓아 울던 에리카가 돌연 가냘픈 주먹을 들더니, PPK에게 내질렀다.
+()||<黑屏2><BIN>469</BIN><关闭蒙版>:바닥에 가득했던 기억 파편들이 감쪽같이 사라졌다. 다시 황량한 옐로우존의 폐허로 돌아온 것이었다.+다만, PPK는 폐허의 밑바닥에 누워 있었다. 방금까지 서 있던 게 거짓이라는 것처럼.
+()||<SE1>AVG_whitenoise</SE1>:칙——치직——
+PPKMod(0)<Speaker>PPK</Speaker>||:뭐야 이게...
+PPKMod(0)<Speaker>에리카</Speaker><同时置暗>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>누구 없나요... 제발 구해 주세요...</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:...네 기억을 보여 준 거니? 대체 어떻게――
+PPKMod(0)<Speaker>에리카</Speaker><同时置暗>||:<color=#00CCFF>부탁이에요... 이 아이를 구해 주세요...</color>
+()||<SE1>AVG_tele_disconnect</SE1>:삐이익 소리와 함께, 신호가 사라졌다.
+PPKMod(0)<Speaker>PPK</Speaker>||:앗, 기다려!
+()||:에리카의 신호는 불씨가 꺼지듯 PPK의 탐지 범위에서 자취를 감췄다. 남은 것이라곤, 그녀의 머릿속에 순간적으로 스쳐 지나간 깜빡임뿐이었다.
+Python(0)<Speaker>파이슨</Speaker><通讯框>||<BGM>GF_EV9_Story</BGM><震屏>:<color=#00CCFF>PPK!</color>
+MP443_MOD(0)<Speaker>MP443</Speaker><通讯框>||:<color=#00CCFF>빨리 응답해 이 아가씨야!</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:...여기는 PPK.
+()||:조금 망연한 목소리로, PPK는 몸에 묻은 흙먼지를 털어내며 일어났다.
+Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>대체 뭐하잔 거냐! 갑자기 실종 놀이하지 마!</color>
+MP443_MOD(0)<Speaker>MP443</Speaker><通讯框>||:<color=#00CCFF>왜 아무 말도 안 하는 거야? 그 찾았다는 단서는 어떻게 됐어?</color>
+()||:PPK는 쏟아지는 통신에 아랑곳않고 백신 프로그램을 실행했지만, 바이러스 감염은커녕 네트워크 침입 흔적조차 없었다.
+PPKMod(0)<Speaker>PPK</Speaker>||:하아... 그게 바이러스가 아니라니.+방금 보모 인형으로 의심되는 개체와 잠깐 통신했는데, 이상한 걸 보여 주다가 신호가 툭 끊어졌어.
+PPKMod(0);MP443_MOD(0)<Speaker>MP443</Speaker><通讯框>||:<color=#00CCFF>어... 통신이 됐다면 목표가 여기 어디에 있긴 하단 소리네?</color>
+PPKMod(0);Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>잠깐. 이상한 걸 보여 줬다니, 뭘 봤지?</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:내 의식만 웬 어두컴컴한 방으로 끌고 가서는, 뭐랄까... 그 애의 기억 같은 걸 보여줬어.
+MP443_MOD(0)<Speaker>MP443</Speaker><通讯框>||:<color=#00CCFF>에엥...? 보모 인형이 그런 짓도 가능해?</color>
+Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>그런 기술은 들어본 적도 없다만.</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:나야말로 영문을 모르겠다니까...
+()||:그때, 조용해야 할 터인 바깥에서 무언가 부스럭대는 소리가 들려왔다.
+Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>이 일에 대해서는 나중에 토론하고, 지금은 거길 벗어나도록.</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:왜?
+Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>ELID 감염자 몇 명이 네 위치로 접근 중이다. 수가 적은 걸 봐선 인근을 떠돌던 개체들이겠지.</color>+<color=#00CCFF>은엄폐에 주의하면서 목표의 구조를 우선시해.</color>
+PPKMod(0)<Speaker>PPK</Speaker>||<黑屏1><SE1>AVG_tele_disconnect</SE1>:후훗, ELID 몇 마리 따돌리는 것쯤이야.
+()||<黑屏2><BIN>476</BIN><SE1>ClothingUp</SE1>:건물 폐허 밖으로 빠져나온 PPK는, 권총을 홀스터에 수납하고 다가오는 감염자의 숫자와 위치를 살폈다.
+PPKMod(0)<Speaker>PPK</Speaker>||:뭐어야, 겨우 셋이었어?+그래도 이런 데서 탄을 낭비할 필요는 없지. 운 좋은 줄――
+PPKMod(0)<Speaker>？？？</Speaker><同时置暗>||<BGM>BGM_Empty</BGM>:<color=#F08080>핫 핫 하! 이몸께서 너희를 고통에서 해방시켜 주마!</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:――하?
+()||:어린 아이의 외침이 난데없이 PPK의 마인드맵 속으로부터 터져 나와, 그녀의 물 흐르듯 유려하던 동작을 멈칫하게 만들었다.
+PPKMod(0)<Speaker>PPK</Speaker>||:뭐야, 너 누구야? 어떻게 내 마인드맵 안에서 말해?
+PPKMod(0)<Speaker>？？？</Speaker><同时置暗>||:<color=#F08080>핫 핫 하!</color>
+PPKMod(0)<Speaker>사나야</Speaker><同时置暗>||:<color=#F08080>이몸이 바로 사나야다! 어때, 놀라서 간 떨어지는 줄 알았지? 핫 핫 하!</color>
+PPKMod(0)<Speaker>PPK</Speaker>||<BGM>BGM_Sneak</BGM>:......?+잠깐, 사나야는 아까 에리카란 인형이 말하던 이야기의...
+PPKMod(0)<Speaker>사나야</Speaker><同时置暗>||:<color=#F08080>전원, 총을 들고 이몸을 따르라! 돌격이다 돌격!</color>+<color=#F08080>굉장한 킬러인 이몸은 절대 전장에서 도망치지 않아!</color>+<color=#F08080>이몸은 그야말로 발키리! 눈에 들어온 적은 하나도 놓치지 않고 쓰러뜨린다!</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:착한 아이는 얌전히 있어야지? 어떻게 들어왔는진 몰라도 이건 내 몸이야, 난데없이 명령할 자격 없――
+PPKMod(0)<Speaker>사나야</Speaker><同时置暗>||:<color=#F08080>쳐라아앗!</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:......+돌아가면 마인드맵 검사부터 받아봐야겠네.
+()||:PPK는 한탄하며 절레절레 고개를 저으면서, 배회하는 감염자들에게서 계속 거리를 벌렸다.
+()<Speaker>사나야</Speaker>||:<color=#F08080>안 돼! 사나야는 전장에서 절대 도망치지 않는다니까!</color>
+()||:그런데 어린 목소리의 주인이 화내기가 무섭게, PPK는 자신의 마인드맵 코어가 갑자기 뜨거워지는 것이 느껴졌다.
+PPKMod(0)<Speaker>PPK</Speaker>||:...자꾸 그러면 더 안 할 건데에~
+()||<SE1>AVG_Fire_Bonfire</SE1>:건방진 미소로 대꾸했지만, 코어의 온도가 비정상적으로 치솟아 천하의 PPK도 당황할 수밖에 없었다.
+()||<SE1>AVG_Punch_Hit</SE1>:결국 치솟는 열에 PPK는 제자리에 무릎을 꿇고, 이내 쓰러졌다.
+()<Speaker>사나야</Speaker>||:<color=#F08080>사나야는 전장에서 절대 안 도망친다고!</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:재미있네에...
+()||<SE1>Stop_AVG_loop</SE1>:PPK는 바닥에 엎어져 괴롭게 숨을 내뱉으면서도, 그 미소만큼은 여전했다.+그녀는 감염자들이 있는 쪽으로 기어가면서, 타협하듯 용서를 비는 척했다.
+PPKMod(0)<Speaker>PPK</Speaker>||:그래 그래, 네 말대로 할게... 놈들을 남김없이 해치우면 되는 거지...?
+PPKMod(0)<Speaker>사나야</Speaker><同时置暗>||:<color=#F08080>그래! 용감무쌍한 사나야는 앞길을 가로막는 게 누구든 전부 통쾌하게 무찔러 버려!</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:그렇구나아...
+()||:PPK의 미소가 한층 더 날카로워지더니, 감염자들에게 다가가는 척하다 다시 물러나기 시작했다.
+()<Speaker>사나야</Speaker>||:<color=#F08080>안! 돼!</color>+<color=#F08080>사나야는 전장에서 절대 안 도망친다고!</color>
+()||<SE1>AVG_20Winter_Burnfire_Loop</SE1>:폭발하는 화산의 용암처럼, 코어에서 뿜어져 나오는 열기가 온몸에 퍼졌다.+PPK는 하마터면 시스템이 다운될 뻔했고, 이젠 포복 이동할 힘조차 없어 태양 아래 펼쳐진 젖은 돗자리처럼 널브러졌다.
+PPKMod(0)<Speaker>PPK</Speaker>||<SE1>Stop_AVG_loop</SE1>:너어... 대체 뭐야...
+Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>PPK, 또 뭐하자는 거지? 왜 감염자 근처에서 밍기적대?</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:나... 못 움직이겠어... 이 빌어먹을 사나야...
+MP443_MOD(0)<Speaker>MP443</Speaker><通讯框>||:<color=#00CCFF>아니 왜 못 움직여? 사나야는 누구고?</color>
+()||:가슴속에서부터 부글부글 끓는 듯한 느낌을 억누르면서, PPK는 조금씩 숨을 가다듬었다.
+()||<SE1>Select</SE1>:그리고 허리춤에서 권총을 뽑아, 장전하고 안전장치를 풀었다.
+PPKMod(0)<Speaker>PPK</Speaker>||:미안... 설명은 나중에 할게...+...지금은 벌칙 타임이야.
+()||<黑点1>:결국 PPK는 살기를 내뿜으며 방금까지 눈길도 안 주던 ELID 감염자들을 향해 걸어갔고, 거리가 가까워질수록 PPK의 마인드맵 코어의 열기도 사그라들었다.
+()||<黑点2><BGM>BGM_Empty</BGM>:...10분 후.
+()<Speaker>지휘관</Speaker>||<BGM>10213</BGM>:<color=#00CCFF>...그러니까, 그 보모 인형과 연락이 닿았지만 대뜸 기억을 보여 줘서, 그녀가 "아리따운 킬러 사나야"라는 이야기를 하는 걸 억지로 들어야 했다.</color>+<color=#00CCFF>그리고 이상한 공간에서 벗어나고 나니, 그 사나야가 네 마인드맵에 들어와서 시키는 대로 하지 않으면 마인드맵을 과부하시킨다?</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:응, 미친 소리 같지만 전부 사실이야.
+MP443_MOD(0)<Speaker>MP443</Speaker><通讯框>||:<color=#00CCFF>어이가 가출을 넘어 승천하겠네...</color>
+Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>네가 지금 농담인지 진담인지 정말 모르겠다...</color>
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>그 현상이 보모 인형과 통신한 이후부터 발생했댔지? 그 통신 연결이 원인 아닐까?</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:벌써 몇 번이고 바이러스 검사고 뭐고 다 해봤지만 아무 이상 없어.
+PPKMod(0)<Speaker>지휘관</Speaker><同时置暗>||:<color=#00CCFF>확실히 이상하네... 네가 말한 "사나야"라는 인물에 부합하는 기록은 인터넷 검색으로도 안 나와.</color>+<color=#00CCFF>잠시 임무를 중단하고 안전한 위치에서 정밀 검사를 해보는 건 어때?</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:중단할 필요까진 없어, 문제 조사랑 임무 둘 다 병행 가능해.+한참을 수색해서 겨우 찾아낸 단서인걸...+그리고, 보모 인형도 목소리로 보건대 상황이 무척 심각해.
+PPKMod(0)<Speaker>지휘관</Speaker><同时置暗>||:<color=#00CCFF>......</color>+<color=#00CCFF>알았다, 네 판단에 맡길게. 이쪽에선 응급처치용으로 쓸 만한 건 없는지 찾아볼 테니 조금만 참아.</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:고마워 지휘관~
+()||:지휘관에게 간략한 소체 피드백을 제출한 후, PPK는 임무 인터페이스로 돌아왔다.+그리고, 브리핑받았던 정보 화면에 띄워진 임무 목표의 선명한 사진을 뚫어져라 바라봤다.+카메라를 바라보며 쑥스럽게 미소짓는, 여자아이의 사진.
+PPKMod(0)<Speaker>PPK</Speaker>||<黑屏1>:그래... 언제까지 숨바꼭질할 수 있나 어디 한번 보자고.

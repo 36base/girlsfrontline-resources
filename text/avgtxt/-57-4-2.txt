@@ -1,0 +1,127 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><SE1>AVG_wind_grass</SE1><BIN>592</BIN><Night><BGM>BGM_Truth</BGM>:한밤중의 고요한 수목원.+습하고 무거운 밤공기 속에서, 당신은 홀로 은근히 축축한 벤치에 앉아 맞은편 나무의 잎사귀가 가로등 빛에 반짝이는 것을 멍하니 바라봤다.+한낮에 선명한 흰색으로 반사되던 빛이 밤인 지금은 안개처럼 몽롱한 것이, 마치 눈가에 맺힌 눈물 같았다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:한동안 그렇게 멍하니 있던 당신은 마침내 힘없이 한숨을 내뱉고는 혼신의 힘을 다해 짰던 "지옥 훈련 계획"을 꺼내, 오늘의 시간표를 가득 채웠던 트레이닝 내용에 각주를 달았다.
+()<Speaker>지휘관</Speaker>||<SE1>AVG_Creep</SE1>:훈련 계획 1일차. 트레이닝 자체가 고강도였거니와 프랑슈슈가 자발적으로 난이도를 높인 탓에 멤버들 모두가 감당 가능한 범주를 심각하게 초과해 버렸다.+사쿠라는 목이 쉬었고, 아이와 준코는 컨디션 하락, 릴리와 타에는 아예 탈진, 유우기리도 괜찮은 척하지만 힘들어하는 기색이 역력했다.
+()<Speaker></Speaker>||<SE1>AVG_File_Put</SE1>:오후의 일과를 멍하니 되짚어 보던 중, 손에서 훈련 계획서가 바닥에 툭 떨어졌다.+그리폰에서 작전 계획을 수립할 때도 이렇게까지 심각한 사고는 벌어진 적 없었건만.+게다가 이게 최악의 상황이 아니란 사실이 더욱 끔찍했다.
+()<Speaker>지휘관</Speaker>||:......+설마, 내 재능은 전술적으로만 유용하고 아이돌 프로듀싱엔 전혀 안 맞는 건가?+어휴, 기지에 연락만이라도 된다면 좋을 텐데... 최소한 무대에 서본 경험 있는 애들한테 조언을 구할 수 있을 테니...
+()<Speaker>？？？</Speaker>||<SE1>AVG_Ninja</SE1>:어떤 이는 눈앞에 있으면서도 하늘 너머고.+어떤 이는 하늘 너머에 있으면서도 바로 눈앞이니.
+()<Speaker>지휘관</Speaker>||:...닌자냐.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=6</controll_shake>:나지막한 목소리가 바스락대는 나뭇잎 사이로 내려왔다.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:어느 세계에서도 너는 눈앞의 인연을 소중히 하지 않는군.
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:프랑슈슈랑 직접 마주보고 소통해서 서로의 생각을 확인하란 소리야?+아주 일리 있는 말이네, 어제오늘 특히나 그리폰 생각이 많이 나니...
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:아니다.+내 말은――
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<BGM>BGM_Empty</BGM>:이 전문가에게 전화 안 하고 뭐했냔 뜻이다!
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||<SE1>Rope</SE1><BGM>m_wv_title</BGM>:또다 싶어 자리를 뜨려 했지만, 이번에도 닌자가 당신의 무릎을 단단히 누르는 통에 실패했다.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:땅바닥의 이건, 네가 구상한 트레이닝 계획인가?
+()<Speaker>지휘관</Speaker>||:맞아, 효과는 영 엉망이었지만.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:당신이 떨어뜨린 계획서를 주워서 찬찬히 읽은 닌자의 그 잔잔한 호수 같던 눈동자가... 순식간에 화산 분화구로 돌변했다.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><SE1>AVG_Thunder_Dry</SE1>:<size=50>뭐어야아 이게에에에!!!</size>
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:어우 깜짝야... 프랑슈슈의 긴급 특별 트레이닝 계획인데.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:<size=50>트레이니잉~? 뭔 놈의 트레이닝이 이따구야!? 좀비를 다시 죽일 셈이냐!!</size>
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:어... 좀비라면 한두 번쯤은 죽어도 괜찮지 않을까?
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:괜찮기는 개뿔이!+아무리 프랑슈슈라 해도 이딴 초고강도 훈련은 못 버틴다!!
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<SE1>AVG_File_Put</SE1><震屏3>:<size=50>로봇이라도 되지 않는 이상은!!</size>
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:아하... 어쩐지, 이 위화감이 대체 뭔가 했더니 내 지시 따르는 애들은 인형이었지...
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:뭘 혼자 헛소리하는 거야? 그리고, 여기에 단 각주는 또 뭐야?!
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:아, 그거? 오늘 상황 정리한 거.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:......
+()<Speaker></Speaker>||:닌자의 눈 속 화산에서 뿜어져 나오던 용암은 끝내 팍 식은 화산재가 되어버렸다.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:끔찍하다... 내가 살면서 본 것 중 최고로 끔찍해...
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<震屏3>:<size=50>3만 명짜리 공연장에 500명밖에 안 온 것보다 끔찍하다고!!!</size>
+()<Speaker>지휘관</Speaker>||:...사실, 더 끔찍한 게 있어.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:양심이 찔려, 당신은 그 말을 하면서 시선을 돌렸다.
+()<Speaker>지휘관</Speaker>||:공연 주최 측에서 전화가 왔는데, 사흘 후 있을 공연을 카리나 엔터테인먼트의 다른 그룹에게 양보하라더라...+"그레이 트리", 너도 들어봤지? 내가 알아본 바로는 나이트 카페보다 실력이 뛰어난 그룹이라던데...
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:......
+()<Speaker>지휘관</Speaker>||:...닌자?
+()<Speaker>닌자</Speaker>||<震屏3><SE1>AVG_XXS_kick</SE1>:......
+()<Speaker></Speaker>||:제자리에 풀썩 주저앉은 닌자는 어째선지 반응이 없었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......
+()||<黑点1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑点2><BIN>589</BIN><SE1>AVG_Door_Open_Close</SE1><关闭蒙版>:약 1시간 후, 당신은 레슨 스튜디오에 있던 프랑슈슈를 억지로 끌고 나와 함께 저택으로 돌아왔다.
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:지휘관, 왜 갑자기 이런 데 오자 한 거예요?
+NPC-MizunoAi(6)<Speaker>미즈노 아이</Speaker><Position>60,-190</Position><Scale>1.27</Scale>||:저녁 식사라면 로비에서 해도 되지 않아?
+NPC-Tae(8)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||<SE1>AVG_Bite</SE1>:우물우물우물우물... (뭔가 씹는 중.)
+()<Speaker>지휘관</Speaker>||:너희에게 할 아주 중요한 말이 있어서.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:당신은 칠판 옆에 서서, 프랑슈슈와 진지한 시선을 주고받았다.+이곳은 당신이 눈을 뜨고 프랑슈슈와 처음 만났던 바로 그곳. 특별한 의미가 있기에 모두를 여기에 모았다.
+NPC-Lily(10)<Speaker>호시카와 릴리</Speaker><Position>70,-160</Position><Scale>1.24</Scale>||:설마... 릴리랑 모두 두고 떠나려고...?
+()<Speaker>지휘관</Speaker>||:그럴 리가. 약속했잖아.+아니, 약속이 없더라도 이제 난 너희와 끝까지 함께할 거야.
+NPC-Yugiri(8)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.9</Scale>||:지휘관님...
+NPC-Saki(11)<Speaker>니카이도 사키</Speaker><Position>0,-150</Position><Scale>1.34</Scale>||:다, 닭살 돋게 한밤중에 뭔 소리여!
+NPC-Junko(7)<Speaker>콘노 준코</Speaker><Position>60,-90</Position><Scale>1.27</Scale>||:그래서, 저희에게 하실 말씀이 뭔가요?
+()<Speaker>지휘관</Speaker>||:후우......
+()<Speaker></Speaker>||:지금부터 하는 말은 한 마디 한 마디 전부 중요하기에, 당신은 심호흡으로 마음을 가다듬었다.
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Saga_AVG_Dusk</BGM><SE1>ClothingUp</SE1>:――미안하다.
+NPC-Sakura(8)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:엑?! 와, 와 갑자기 사과하는데요!?
+()<Speaker>지휘관</Speaker>||:내가 트레이닝 계획을 너무 생각 없이 짜고 말았어.+아이돌이란 어떻게 성장해 나가는지를 고려하지 않고 오로지 효율만 생각한 탓이야.+계획 구상 때 너희의 의견도 물어보지 않고, 나 혼자서 판단한 탓이야.+오늘 너희가 스케줄을 소화하느라 그 지경으로 지친 걸 보고서야 깨달아서, 정말 미안해.
+NPC-MizunoAi(8)<Speaker>미즈노 아이</Speaker><Position>60,-190</Position><Scale>1.27</Scale>||:...지휘관, 지휘관만의 잘못이 아니야.+나도... 초조함과 걱정에 사로잡혀서, 지휘관의 계획에 한술 더 뜨는 짓을...
+NPC-Junko(9)<Speaker>콘노 준코</Speaker><Position>60,-90</Position><Scale>1.27</Scale>||:저희 모두 마찬가지예요.격차를 느끼고 패닉에 빠져서, 좀비처럼 아무 생각 없이 마구 트레이닝을 해버렸어요... 좀비지만.
+NPC-Yugiri(6)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.9</Scale>||:오늘 일은 누구 한 명만의 잘못으로 인한 것이 아니에요, 우리 모두가 범인이죠. 아무도 나무랄 수 없어요.
+NPC-Lily(11)<Speaker>호시카와 릴리</Speaker><Position>70,-160</Position><Scale>1.24</Scale>||:응응! 우리는 일심동체!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:프랑슈슈 모두가 의자에서 일어나 당신에게 모여들었다.
+NPC-Sakura(8)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:지휘관, 긍께 사과하지 말어야...
+NPC-Saki(11)<Speaker>니카이도 사키</Speaker><Position>0,-150</Position><Scale>1.34</Scale>||:그딴 거 말 안 해도 다 알어.
+()<Speaker>지휘관</Speaker>||:그래도 꼭 말하고 싶었어. 오늘 내가 여태까지 너희와 속마음까지 터놓고 교류한 적이 없다는 걸 깨달았거든.+서로가 어떤 생각인진 진작에 알았는데 말이지...
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:모두가 잠시 말을 잇지 못하던 중, 당신이 모두의 손을 한데 모았다.
+()<Speaker>지휘관</Speaker>||:그리고, 우린 앞으로 더 험난한 도전과 마주해야 하니까.
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:알아요... 사흘 뒤의 공연 섭외가 취소된 거.
+NPC-MizunoAi(7)<Speaker>미즈노 아이</Speaker><Position>60,-190</Position><Scale>1.27</Scale>||:그래서 다른 곳을 알아보는 중이야.
+NPC-Junko(7)<Speaker>콘노 준코</Speaker><Position>60,-90</Position><Scale>1.27</Scale>||:갑작스러운 변경이라 규모가 작은 장소밖에 못 찾았지만요.
+NPC-Saki(9)<Speaker>니카이도 사키</Speaker><Position>0,-150</Position><Scale>1.34</Scale>||:으쨌든 라이브 콘서트는 할 거다! 프랑슈슈는 어디서든 프랑슈슈라고!
+()<Speaker></Speaker>||:필사적으로 아무렇지도 않아 하면서 당신을 위로까지 하는 프랑슈슈에게, 당신은 회심의 미소를 지어 보였다.
+()<Speaker>지휘관</Speaker>||:누가 나한테 이렇게 말했어, 아이돌은 자신에게 어울리는 무대에 올라야 마땅하다고.+그러니까, 사흘 뒤 프랑슈슈의 라이브 공연 장소는 여기 말곤 없다! 알았나!?
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:당신이 손에 쥔 공연 포스터를 높이 들었다. 원래대로라면 프랑슈슈가 있어야 할 자리지만...
+NPC-Sakura(8)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:하, 하지만 거긴 그레이 트리가 공연하기로 예정이 바뀌었잖어...
+NPC-MizunoAi(7)<Speaker>미즈노 아이</Speaker><Position>60,-190</Position><Scale>1.27</Scale>||:분하지만 어떡해, 그레이 트리는 업계에서도 유명한 실력파 데스메탈 그룹인걸.
+()<Speaker>지휘관</Speaker>||:그래서 어쩌라고! 너희의 롹 스피릿은 벌써 다 잊어먹은 거냐!!
+NPC-Junko(10)<Speaker>콘노 준코</Speaker><Position>60,-90</Position><Scale>1.27</Scale>||:우리의... 록 스피릿...?
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_Button_Click</SE1>:당신이 스피커의 버튼을 누르자, 강렬한 음악이 터져 나와 지하실을 진동시켰다.
+()<Speaker>지휘관</Speaker>||<BGM>BGM_21Christmas_DeathMetal</BGM><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=8</controll_shake>:<size=50>우리가 누구냐? 프랑슈슈다!</size>+<size=50>사흘 뒤, 우리는 되찾으리라!</size>
+NPC-Saki(10)<Speaker>니카이도 사키</Speaker><Position>0,-150</Position><Scale>1.34</Scale><Shake>0.1</Shake>||<SE1>AVG_Cloak_Whoosh</SE1>:<size=50>그래애 기합이다 기합! 프랑슈슈는! 당한 빚은 반드시 갚는다!</size>
+NPC-Saki(10)<Speaker>지휘관</Speaker><Position>0,-150</Position><Scale>1.34</Scale><同时置暗>||:<size=50>누가 감히 우리의 무대를 뺏는다면!</size>
+NPC-Saki(10)<Speaker>니카이도 사키</Speaker><Position>0,-150</Position><Scale>1.34</Scale>||:<size=50>마이크를 치켜들고 다시 차지한다!</size>
+NPC-Saki(10)<Speaker>지휘관 & 사키</Speaker><Position>0,-150</Position><Scale>1.34</Scale><Shake>0.1</Shake>||<controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=8</controll_shake>:<size=50>네버! 기브업! 뚜 잇! 나우!</size>
+()<Speaker></Speaker>||<SE1>AVG_Button_Click</SE1><BGM>BGM_Empty</BGM>:――딸깍.+아이가 스피커를 끄며 제지했다.
+NPC-MizunoAi(7)<Speaker>미즈노 아이</Speaker><Position>60,-190</Position><Scale>1.27</Scale>||:둘 다 진정해, 기합이야 마음껏 넣어도 되지만 현실을 무시하면 안 되잖아.
+NPC-Yugiri(7)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.9</Scale>||:비이성적이고 광적이기만 한 구호는 자욱한 안갯길에서 길만 잃을 뿐이와요.
+NPC-Lily(13)<Speaker>호시카와 릴리</Speaker><Position>70,-160</Position><Scale>1.24</Scale>||:릴리도 그런 무대에서 공연하고 싶지만, 역시...
+()<Speaker>지휘관</Speaker>||:걱정 마, 방법은 진작에 생각해 뒀으니까.
+NPC-Junko(10)<Speaker>콘노 준코</Speaker><Position>60,-90</Position><Scale>1.27</Scale>||:방법이요?
+()<Speaker></Speaker>||:회심의 미소에는 다 이유가 있었으니, 당신은 다시 씨익 웃으며 닌자가 마련해 준 것을 꺼냈다.
+()||<黑点1><SE1>ClothingUp</SE1>:
+()<Speaker></Speaker>||<黑屏2><BIN>592</BIN><Night><BGM>Campaion-34</BGM><回忆>:2시간 전, 수목원.
+()<Speaker></Speaker>||:계속 흔든 끝에, 정신이 가출했던 닌자가 헛구역질을 하며 의식을 되찾았다.
+()<Speaker>지휘관</Speaker>||:괜찮아?
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale><Shake>0.1</Shake>||:우웩...
+()<Speaker>지휘관</Speaker>||:정신 차렸구나, 깜짝 놀랐네.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:닌자는 말없이 일어나서 허공을 주시하며 한참 동안 입을 열지 않았다.
+()<Speaker>지휘관</Speaker>||:뭐야... 왜 그래?
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:방법을 강구 중이다.
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:설마 그럴까 싶지만... 닌자라고 그레이 트리를 암살할 셈은 아니겠지?
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:여기가 뭐라 생각하는 거냐, [닌자의 신조]?
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:닌자가 눈살을 찌푸리며 품에서 포스터 한 장을 꺼냈다.
+()<Speaker>지휘관</Speaker>||:이건...?
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:역시 이 수밖에 없겠군... 그레이 트리를 꺾고 그 자리를 탈환한다.
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:......
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:......
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:차라리 암살이 낫겠다...+어차피 그레이 트리 얘네도 다 인형이니까 소체 제어 권한만 어떻게든 확보하면 잠시 행동을 정지시킬 수 있――
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:헛소리 집어쳐어어! 프랑슈슈는! 정정당당히 이겨야 한다아앗!!
+()<Speaker>지휘관</Speaker>||:아니 아무리 그래도...
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:너는 본 적 없어서 모르겠지. 프랑슈슈의 데스메탈 실력은 그레이 트리에 절대 뒤지지 않아.+게다가 무대는 바로 여기 사가. 사가 관객들 마음 깊숙이에 잠든 록 스피릿을 깨운다면 반드시 이길 수 있다!
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:흠... 그럼 그걸 어떻게 하는데?
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:그건 너와 프랑슈슈가 생각할 문제다.
+()||<黑屏1>:
+NPC-Sakura(8)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<黑屏2><BIN>589</BIN><关闭蒙版>:......+제가 이해한 게 맞다면... 그러니까...+우리더러 그레이 트리한티 도전하라고? 이겨서 공연 무대 탈환이고?
+()<Speaker>지휘관</Speaker>||:그래.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:옆에서 잠자코 지켜보던 유우기리가 손으로 살며시 당신의 이마를 짚었다.
+NPC-Yugiri(6)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.9</Scale>||:열은 없는 것 같은데...
+NPC-Junko(10)<Speaker>콘노 준코</Speaker><Position>60,-90</Position><Scale>1.27</Scale>||:몸이 안 좋아서 제정신이 아닐 수도 있어요, 일단 한숨 푹 주무시고 난 다음 이야기를...
+NPC-MizunoAi(6)<Speaker>미즈노 아이</Speaker><Position>60,-190</Position><Scale>1.27</Scale>||:그건 억지야, 지휘관.
+()<Speaker>지휘관</Speaker>||:우리에겐 필승의 비법이 있대도?
+NPC-Lily(11)<Speaker>호시카와 릴리</Speaker><Position>70,-160</Position><Scale>1.24</Scale>||:필승의 비법? 뭔데? 릴리한테도 있어?
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_Button_Click</SE1>:딸깍.
+()<Speaker></Speaker>||<BGM>BGM_21Christmas_DeathMetal</BGM>:당신은 냅다 스피커를 다시 켰다.
+()<Speaker>지휘관</Speaker>||:스피릿! 오픈 더 사가의 롹 스피릿!!
+()<Speaker>지휘관</Speaker>||<controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:<size=50>로큰롤 네버 다이!! 너희도 네버 다이!! 너희가 바로 롹이다아앗!!!</size>
+()||<黑点1>:

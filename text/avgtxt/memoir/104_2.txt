@@ -1,77 +1,77 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>97</BIN>:한밤중의 그리폰 숙소.+중앙 홀로 향하는 세 인형들은 정성들여 화장한 데 더해, 59식은 커다란 케이크를 실은 카트도 밀었다.
-PSG1(0)<Speaker>PSG-1</Speaker>||<BGM>BGM_Dorm</BGM>:빨리요, 시간 거의 다 됐어요. 어쩌면 벌써 파티장에 사람 꽉 찼을지도 몰라요.
-PSG1(0);59type(0)<Speaker>59식</Speaker>||:아 걱정 붙들어 매셔~ 서프라이즈란 원래 좀 늦어야 제맛이라구!+헤헤헤, G36C가 깜짝 놀란 표정은 어떨지 기대되는구나~!
-MG3(0)<Speaker>MG3</Speaker>;59type(0)||:얼레, 왜 이렇게 조용하지? 뭔가 좀 이상한데...
-59type(0)<Speaker>59식</Speaker>||:오옷, 설마 G36C가 역으로 우리에게 서프라이즈를 기획한 건가!?+...아뿔싸.+특제 케이크 주문했단 말이 새어 나갔나 봐!
-PSG1(0)<Speaker>PSG-1</Speaker>||<黑屏1>:진짜 뭔가 좀 이상한데요... 일단 들어가 보죠.
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>139</BIN><SE1>AVG_20Winter_Door_Open</SE1>:홀의 문을 연 세 인형은 그자리에 굳어버렸다.
-59type(0)<Speaker>59식</Speaker>||:에엥...
-PSG1(0)<Speaker>PSG-1</Speaker>||:축하 파티는...?
-MG3(0)<Speaker>MG3</Speaker>||:...뭐야, 벌써 끝났어? 시간 잘못 봤나?
-()<Speaker></Speaker>||:파티가 열린다던 중앙 홀은 텅 비어 있었고, 무거운 표정의 G36과 카리나만이 그녀들을 맞이했다.
-NPC-Kalin(7)<Speaker>카리나</Speaker>||:얘들아, 진정하고 들어줘.
-G36Mod(0)<Speaker>G36</Speaker>;NPC-Kalin(7)||:제가 설명하겠습니다.
-G36Mod(0);PSG1(0)<Speaker>PSG-1</Speaker>||:그러니까... G36C는 오지 않는다고요?
-G36Mod(0)<Speaker>G36</Speaker>;PSG1(0)||:네... 현재 상태가 좋지 않아, 휴식을 취해야 합니다.+더불어, 여러분께 설명드릴 것이...
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><边框>2</边框>:그리폰 숙소.
-G36C(0)<Speaker>G36C</Speaker>||<BGM>BGM_Wake</BGM><边框>2</边框>:......
-G36C(0);G36Mod(0)<Speaker>G36</Speaker>||<边框>2</边框>:...제대의 전열로서의 고민이니?+전열로서, 대다수의 상황에서 넌 그저 화력을 받아내기만 하면 되지만...+그것만으론 네 가치를 충분히 증명할 수 없단 생각이라도 들었어?
-G36C(0)<Speaker>G36C</Speaker>;G36Mod(0)||<边框>2</边框>:......
-G36C(0);G36Mod(0)<Speaker>G36</Speaker>||<边框>2</边框>:너 또 그러면 언니 속상해.+노력하는 건 좋지만 무리하면 안 된다고 말했잖니.
-G36C(0)<Speaker>G36C</Speaker>;G36Mod(0)||<边框>2</边框>:......
-G36C(0);G36Mod(0)<Speaker>G36</Speaker>||<边框>2</边框>:G36C...
-G36C(0)<Speaker></Speaker>;G36Mod(0)||<边框>2</边框>:G36이 동생의 손을 잡아, 자신의 뺨에 가져다 댔다.+G36C는 그런 언니의 눈동자에 비치는 자신의 모습을 슬픈 표정으로 바라보다, 눈을 감으며 고개를 저었다.
-G36C(0);G36Mod(0)<Speaker>G36</Speaker>;G36C(0)||<边框>2</边框>:아니라니, 그럼 뭔데? 말 좀 해보렴, 응? 말해 주지 않으면 언니가 어떻게 알아, 혹시 발성 모듈이 고장난 거니?
-G36C(0)<Speaker></Speaker>||<边框>2</边框>:그때, G36의 손에 들린 태블릿 PC가 은은히 빛을 발하면서 화면에 문자를 띄웠다.+"제가 선택한 거예요."
-G36Mod(0)<Speaker>G36</Speaker>||<边框>2</边框>:이건...+G36C, 지금 이걸로 대화하잔 거야?
-G36C(0)<Speaker></Speaker>;G36Mod(0)||<边框>2</边框>:언니에게서 눈을 떼지 않던 G36C는 뭔가 꼭 하고 싶은 말이 있는 것 같아 보였지만, 그걸 입밖으로 내지 못하고, 그저 힘겹게 문자로 표현하려 했다.+이를 본 G36이 동생의 손을 꽉 움켜쥐었다.
-G36Mod(0)<Speaker>G36</Speaker>||<边框>2</边框>:이게 무슨 뜻이야? 네가 선택한 거라니, 뭘 선택했는데?+G36C, 어서 말해! 대체 무엇이 널 지금 이렇게 만들었어!?+...안 되겠네, 당장 카리나 씨한테 가자. 검진을 부탁해야겠어.
-()||<黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>73</BIN><BGM>BGM_Truth</BGM><回忆>:기술자 구출 작전 개시 24시간 전...+그리폰 훈련장.
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:또 실패야? 얼마 안 남았는데 아까워라...+모두 수고가 많아, 잠깐 휴식하자.+G36C, 아직 괜찮니?+어? 너, 다리가...
-G36C(1)<Speaker></Speaker><Position>0,100</Position>||:숨을 헐떡이던 G36C가 바들바들 떨리던 다리가 풀려 그대로 주저앉았다. 모의 훈련장에 구현된 이 실물 비율의 시설은 목표까지의 마지막 30m가 난공불락이어서, 작전 계획을 구상하는 모두의 애를 먹이고 있었다.
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:아, 제2차 데이터 스트림 분석 완료됐다. 어디 어디... 엑, 이 열상 감지 자동 기관포탑, 수가 기존의 예상을 아득히 넘었잖아...?!+기술자가 아까 보낸 시설 구조도도 다시 검토해봐야겠는데...
-G36C(1)<Speaker>G36C</Speaker><Position>0,100</Position>||:후우... 역시 결론은 똑같나요?
-NPC-Kalin(7)<Speaker>카리나</Speaker>||:아무리 머리를 굴려봐도, 여기를 통과해야만 해. 하지만 너만으로는...
-MG3(1)<Speaker>MG3</Speaker>||:이렇게 그물보다 촘촘한 화망을 어떻게 돌파해? 인질 구출 자체가 어불성설이야 이거.
-MG3(1);NPC-Kalin(7)<Speaker>카리나</Speaker>||:중상 확률 80%에, 최악의 경우엔 인질에게 도달하기도 전에...
-MG3(1)<Speaker>MG3</Speaker>;NPC-Kalin(7)||:해킹이든 뭐든 어떻게 저 자동 터렛들 무력화 못 시켜?
-MG3(1);NPC-Kalin(4)<Speaker>카리나</Speaker>||:진작에 시도해봤지... 폐쇄 회로라서 뚫으려면 시간이 너무 오래 걸려.+진짜 한다 해도 아주 구식의 특제 하드웨어가 필요한데, 그걸 구해올 시간도 당연히 없고...
-MG3(1)<Speaker>MG3</Speaker>;NPC-Kalin(4)||:이거 답이 없구만...+G36C도 더는 좀 무리지?
-MG3(1);G36C(1)<Speaker></Speaker><Position>0,100</Position>||:아뇨... 아직 괜찮아요... 더 할 수 있어요! 다시 해볼게요!
-MG3(1);NPC-Kalin(3)<Speaker>카리나</Speaker>||:진정해 G36C, 어려운데 마음만 앞선다고 일이 해결되진 않아.+으으... 도저히 안 되겠으면 추가 인원을 소집해야 하는데, 그것도 시간이 필요하니...
-MG3(1)<Speaker>MG3</Speaker>;NPC-Kalin(3)||:아니, 그럴 것까진 없어. 내 말 좀 들어봐.+뭐어... 정신 나갔다 할 게 뻔해서 안 말하려 했지만, 아무래도 결국엔 누군가가 해야 할 일이었네.
-MG3(1);NPC-Kalin(2)<Speaker>카리나</Speaker>||:뭔데?
-MG3(1)<Speaker>MG3</Speaker>;NPC-Kalin(2)||:우리는 원래부터 전열에서 화력 받아내는 역할은 못 맡지만 말이야...+만약 우리가 G36C 대신 아주 잠깐이라도 저것들의 화력을 유도한다면, 어떻게 승산이 보이지 않을까?
-MG3(1);G36C(1)<Speaker>G36C</Speaker><Position>0,100</Position>||:네에?! 안 돼요, 전 동의 못해요!+전열에서 모두를 지키는 게 제 역할인데, 어떻게 그럴 수 있어요!?+게다가, 그렇게 하면 여러분이...!
-MG3(1)<Speaker>MG3</Speaker>;G36C(1)<Position>0,100</Position>||:워워, 진정해. 하지만 지금은 이게 최선책이야, 인질을 구해낼 가능성이 가장 높은 건 바로 너라고.+우리가 엄폐물 역할을 하면, 최소한 너만이라도 C 루트를 돌파하게 할 수 있을지도 몰라.+무모한 도박이지만, 그게 내 스타일인걸 어쩌겠어! 하하핫!
-MG3(1);G36C(1)<Speaker>G36C</Speaker><Position>0,100</Position>||:MG3 씨... PSG 씨는...
-PSG1(0)<Speaker>PSG-1</Speaker>;G36C(1)<Position>0,100</Position>||:솔직히 말하자면, 현재 상황에선 이게 가장 합리적인 선택이에요.+카리나 씨도 이번 임무에서는 적극적으로 임기응변해야 한다고 했잖아요. 59식 생각은 어때요?
-PSG1(0);59type(0)<Speaker>59식</Speaker>||:말벌집을 들쑤시는 건데 어쩔 수 없지 뭐~
-PSG1(0);G36C(1)<Speaker>G36C</Speaker><Position>0,100</Position>||:......
-PSG1(0);NPC-Kalin(3)<Speaker>카리나</Speaker>||:너희 같은 애들과 함께라니, G36C도 복이 많구나.+그럼, G36C?
-G36C(1)<Speaker>G36C</Speaker><Position>0,100</Position>;NPC-Kalin(3)||:여태껏 모두에게 도움받기만 했는데, 결국 이번에도...+역시... 다 제가 모자란 탓이겠죠...
-PSG1(0)<Speaker>PSG-1</Speaker>;NPC-Kalin(3)||:G36C, 이건 모두가 작전을 위해 구상해낸 최선책이에요.+모두가 벌어 준 시간을 살려 임무를 완수한다면, 자책할 것 없어요.+방금 MG3도 말했듯 인질 구출 성공 확률은 당신이 가장 높으니까요.
-G36C(1)<Speaker>G36C</Speaker><Position>0,100</Position>;MG3(1)||:으... 하아...+알겠습니다... 힘내볼게요.
-G36C(1)<Position>0,100</Position>;NPC-Kalin(0)<Speaker>카리나</Speaker>||:의견이 모였으면 그 방법대로 하자.+...보호장구는 최대한으로 챙기도록 해.+그럼 오늘은 이쯤하고 쉬도록 하자, 다들 수고했어.
-G36C(1)<Position>0,100</Position>;MG3(1)<Speaker>MG3</Speaker>||:으쌰! 힘내자, G36C!
-PSG1(0)<Speaker>PSG-1</Speaker>;MG3(1)||:우리 모두 당신을 믿어요.
-PSG1(0);59type(0)<Speaker>59식</Speaker>||:부탁한다구!
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>97</BIN><BGM>BGM_Empty</BGM><关闭蒙版>:정비실로 가는 길에서, 동생의 손을 잡고 이끄는 G36은 의구심이 들었다.
-G36Mod(0)<Speaker>G36</Speaker>||:이상해... 저번 임무도 잘 완수했고, 카리나 씨도 너희에게 포상까지 신청했는데...+너도 부상이 경미했고...+대체... 뭐가 널 그렇게 만든 거니...?
-()<Speaker></Speaker>||:그녀의 의구심이 틀리지 않았다는 듯, 태블릿의 화면은 점점 이해할 수 없는 깨진 글자로 변해 갔다...
-G36C(0)<Speaker>G36C</Speaker>||:<color=#A9A9A9>난 외톨이가 아니야... 작전 끝나고 모두에게 선물도 보냈는데...</color>+<color=#A9A9A9>무식하다고? 그렇게 해서 모두를 지켜냈는걸!</color>+<color=#A9A9A9>아니, 네 존재 자체를 부정하진 않아. 전부... 내 선택으로 인한 결과니까. 다 내가 감당해야만 해.</color>+<color=#A9A9A9>충고하는데, 마인드맵 바깥의 나는 네가 지배할지 몰라도 내 생각까지 좌지우지할 수 있다 생각한다면 큰 오산이야.</color>+<color=#A9A9A9>하지만, 이 힘으로 모두를 지킬 수 있다면... 이 힘이 그토록 값지다면, 받아들이겠어.</color>
-()<Speaker></Speaker>||:G36이 눈앞에서 손을 흔들어 보아도, 동생은 아무런 반응이 없었다. 마치, 그 흐릿한 눈동자 너머에서 누군가와 실랑이라도 벌이는 것처럼.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>22</BIN>:그리폰 공방.
-NPC-Kalin(2)<Speaker>카리나</Speaker>||<BGM>BGM_Brain</BGM>:네? 자체 파기라니 그게 무슨 말씀이세요?+그럼 이 소포는 누가 보낸 건데요?
-NPC-Kalin(2);NPC-Soldier(0)<Speaker>그린존 보안 인원</Speaker><通讯框>||:<color=#00CCFF>인근 황무지에서 402번의 소체를 발견했습니다.</color>+<color=#00CCFF>자체 파기로 마인드맵이 포맷됐습니다만, 아무래도 따로 백업본을 남긴 것 같습니다.</color>
-NPC-Kalin(4)<Speaker>카리나</Speaker>;NPC-Soldier(0)<通讯框>||:소체에 마인드맵 포맷이라니, 그 기술자도 인형이었어요? 어쩐지...+으음... 그래서 이 소포는 그 402번 기술자가 보낸 거라고요?
-NPC-Kalin(4);NPC-Soldier(0)<Speaker>그린존 보안 인원</Speaker><通讯框>||:<color=#00CCFF>예, 기록 확인 결과 그는 소포를 그리폰의 전술인형 G36C에게 전달하려 했습니다.</color>+<color=#00CCFF>더불어, 보안 규정에 따라 이에 관한 귀사의 모든 조치를 전부 당국에 보고할 의무가 있습니다.</color>
-NPC-Kalin(4)<Speaker>카리나</Speaker>;NPC-Soldier(0)<通讯框>||:G36C에게요?
-NPC-Kalin(4);NPC-Soldier(0)<Speaker>그린존 보안 인원</Speaker><通讯框>||:<color=#00CCFF>예, 구출 작전에 참여했던 그 전술인형이 맞습니다.</color>
-NPC-Kalin(4)<Speaker>카리나</Speaker>;NPC-Soldier(0)<通讯框>||:알겠습니다, 상황 전달받았습니다.+우선 이 백업으로 추정되는 것부터 검사해봐야겠군요. 수고하셨습니다.
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>97</BIN>:한밤중의 그리폰 숙소.+중앙 홀로 향하는 세 인형들은 정성들여 화장한 데 더해, 59식은 커다란 케이크를 실은 카트도 밀었다.
+PSG1(0)<Speaker>PSG-1</Speaker>||<BGM>BGM_Dorm</BGM>:빨리요, 시간 거의 다 됐어요. 어쩌면 벌써 파티장에 사람 꽉 찼을지도 몰라요.
+PSG1(0);59type(0)<Speaker>59식</Speaker>||:아 걱정 붙들어 매셔~ 서프라이즈란 원래 좀 늦어야 제맛이라구!+헤헤헤, G36C가 깜짝 놀란 표정은 어떨지 기대되는구나~!
+MG3(0)<Speaker>MG3</Speaker>;59type(0)||:얼레, 왜 이렇게 조용하지? 뭔가 좀 이상한데...
+59type(0)<Speaker>59식</Speaker>||:오옷, 설마 G36C가 역으로 우리에게 서프라이즈를 기획한 건가!?+...아뿔싸.+특제 케이크 주문했단 말이 새어 나갔나 봐!
+PSG1(0)<Speaker>PSG-1</Speaker>||<黑屏1>:진짜 뭔가 좀 이상한데요... 일단 들어가 보죠.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>139</BIN><SE1>AVG_20Winter_Door_Open</SE1>:홀의 문을 연 세 인형은 그자리에 굳어버렸다.
+59type(0)<Speaker>59식</Speaker>||:에엥...
+PSG1(0)<Speaker>PSG-1</Speaker>||:축하 파티는...?
+MG3(0)<Speaker>MG3</Speaker>||:...뭐야, 벌써 끝났어? 시간 잘못 봤나?
+()<Speaker></Speaker>||:파티가 열린다던 중앙 홀은 텅 비어 있었고, 무거운 표정의 G36과 카리나만이 그녀들을 맞이했다.
+NPC-Kalin(7)<Speaker>카리나</Speaker>||:얘들아, 진정하고 들어줘.
+G36Mod(0)<Speaker>G36</Speaker>;NPC-Kalin(7)||:제가 설명하겠습니다.
+G36Mod(0);PSG1(0)<Speaker>PSG-1</Speaker>||:그러니까... G36C는 오지 않는다고요?
+G36Mod(0)<Speaker>G36</Speaker>;PSG1(0)||:네... 현재 상태가 좋지 않아, 휴식을 취해야 합니다.+더불어, 여러분께 설명드릴 것이...
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><边框>2</边框>:그리폰 숙소.
+G36C(0)<Speaker>G36C</Speaker>||<BGM>BGM_Wake</BGM><边框>2</边框>:......
+G36C(0);G36Mod(0)<Speaker>G36</Speaker>||<边框>2</边框>:...제대의 전열로서의 고민이니?+전열로서, 대다수의 상황에서 넌 그저 화력을 받아내기만 하면 되지만...+그것만으론 네 가치를 충분히 증명할 수 없단 생각이라도 들었어?
+G36C(0)<Speaker>G36C</Speaker>;G36Mod(0)||<边框>2</边框>:......
+G36C(0);G36Mod(0)<Speaker>G36</Speaker>||<边框>2</边框>:너 또 그러면 언니 속상해.+노력하는 건 좋지만 무리하면 안 된다고 말했잖니.
+G36C(0)<Speaker>G36C</Speaker>;G36Mod(0)||<边框>2</边框>:......
+G36C(0);G36Mod(0)<Speaker>G36</Speaker>||<边框>2</边框>:G36C...
+G36C(0)<Speaker></Speaker>;G36Mod(0)||<边框>2</边框>:G36이 동생의 손을 잡아, 자신의 뺨에 가져다 댔다.+G36C는 그런 언니의 눈동자에 비치는 자신의 모습을 슬픈 표정으로 바라보다, 눈을 감으며 고개를 저었다.
+G36C(0);G36Mod(0)<Speaker>G36</Speaker>;G36C(0)||<边框>2</边框>:아니라니, 그럼 뭔데? 말 좀 해보렴, 응? 말해 주지 않으면 언니가 어떻게 알아, 혹시 발성 모듈이 고장난 거니?
+G36C(0)<Speaker></Speaker>||<边框>2</边框>:그때, G36의 손에 들린 태블릿 PC가 은은히 빛을 발하면서 화면에 문자를 띄웠다.+"제가 선택한 거예요."
+G36Mod(0)<Speaker>G36</Speaker>||<边框>2</边框>:이건...+G36C, 지금 이걸로 대화하잔 거야?
+G36C(0)<Speaker></Speaker>;G36Mod(0)||<边框>2</边框>:언니에게서 눈을 떼지 않던 G36C는 뭔가 꼭 하고 싶은 말이 있는 것 같아 보였지만, 그걸 입밖으로 내지 못하고, 그저 힘겹게 문자로 표현하려 했다.+이를 본 G36이 동생의 손을 꽉 움켜쥐었다.
+G36Mod(0)<Speaker>G36</Speaker>||<边框>2</边框>:이게 무슨 뜻이야? 네가 선택한 거라니, 뭘 선택했는데?+G36C, 어서 말해! 대체 무엇이 널 지금 이렇게 만들었어!?+...안 되겠네, 당장 카리나 씨한테 가자. 검진을 부탁해야겠어.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>73</BIN><BGM>BGM_Truth</BGM><回忆>:기술자 구출 작전 개시 24시간 전...+그리폰 훈련장.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:또 실패야? 얼마 안 남았는데 아까워라...+모두 수고가 많아, 잠깐 휴식하자.+G36C, 아직 괜찮니?+어? 너, 다리가...
+G36C(1)<Speaker></Speaker><Position>0,100</Position>||:숨을 헐떡이던 G36C가 바들바들 떨리던 다리가 풀려 그대로 주저앉았다. 모의 훈련장에 구현된 이 실물 비율의 시설은 목표까지의 마지막 30m가 난공불락이어서, 작전 계획을 구상하는 모두의 애를 먹이고 있었다.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:아, 제2차 데이터 스트림 분석 완료됐다. 어디 어디... 엑, 이 열상 감지 자동 기관포탑, 수가 기존의 예상을 아득히 넘었잖아...?!+기술자가 아까 보낸 시설 구조도도 다시 검토해봐야겠는데...
+G36C(1)<Speaker>G36C</Speaker><Position>0,100</Position>||:후우... 역시 결론은 똑같나요?
+NPC-Kalin(7)<Speaker>카리나</Speaker>||:아무리 머리를 굴려봐도, 여기를 통과해야만 해. 하지만 너만으로는...
+MG3(1)<Speaker>MG3</Speaker>||:이렇게 그물보다 촘촘한 화망을 어떻게 돌파해? 인질 구출 자체가 어불성설이야 이거.
+MG3(1);NPC-Kalin(7)<Speaker>카리나</Speaker>||:중상 확률 80%에, 최악의 경우엔 인질에게 도달하기도 전에...
+MG3(1)<Speaker>MG3</Speaker>;NPC-Kalin(7)||:해킹이든 뭐든 어떻게 저 자동 터렛들 무력화 못 시켜?
+MG3(1);NPC-Kalin(4)<Speaker>카리나</Speaker>||:진작에 시도해봤지... 폐쇄 회로라서 뚫으려면 시간이 너무 오래 걸려.+진짜 한다 해도 아주 구식의 특제 하드웨어가 필요한데, 그걸 구해올 시간도 당연히 없고...
+MG3(1)<Speaker>MG3</Speaker>;NPC-Kalin(4)||:이거 답이 없구만...+G36C도 더는 좀 무리지?
+MG3(1);G36C(1)<Speaker></Speaker><Position>0,100</Position>||:아뇨... 아직 괜찮아요... 더 할 수 있어요! 다시 해볼게요!
+MG3(1);NPC-Kalin(3)<Speaker>카리나</Speaker>||:진정해 G36C, 어려운데 마음만 앞선다고 일이 해결되진 않아.+으으... 도저히 안 되겠으면 추가 인원을 소집해야 하는데, 그것도 시간이 필요하니...
+MG3(1)<Speaker>MG3</Speaker>;NPC-Kalin(3)||:아니, 그럴 것까진 없어. 내 말 좀 들어봐.+뭐어... 정신 나갔다 할 게 뻔해서 안 말하려 했지만, 아무래도 결국엔 누군가가 해야 할 일이었네.
+MG3(1);NPC-Kalin(2)<Speaker>카리나</Speaker>||:뭔데?
+MG3(1)<Speaker>MG3</Speaker>;NPC-Kalin(2)||:우리는 원래부터 전열에서 화력 받아내는 역할은 못 맡지만 말이야...+만약 우리가 G36C 대신 아주 잠깐이라도 저것들의 화력을 유도한다면, 어떻게 승산이 보이지 않을까?
+MG3(1);G36C(1)<Speaker>G36C</Speaker><Position>0,100</Position>||:네에?! 안 돼요, 전 동의 못해요!+전열에서 모두를 지키는 게 제 역할인데, 어떻게 그럴 수 있어요!?+게다가, 그렇게 하면 여러분이...!
+MG3(1)<Speaker>MG3</Speaker>;G36C(1)<Position>0,100</Position>||:워워, 진정해. 하지만 지금은 이게 최선책이야, 인질을 구해낼 가능성이 가장 높은 건 바로 너라고.+우리가 엄폐물 역할을 하면, 최소한 너만이라도 C 루트를 돌파하게 할 수 있을지도 몰라.+무모한 도박이지만, 그게 내 스타일인걸 어쩌겠어! 하하핫!
+MG3(1);G36C(1)<Speaker>G36C</Speaker><Position>0,100</Position>||:MG3 씨... PSG 씨는...
+PSG1(0)<Speaker>PSG-1</Speaker>;G36C(1)<Position>0,100</Position>||:솔직히 말하자면, 현재 상황에선 이게 가장 합리적인 선택이에요.+카리나 씨도 이번 임무에서는 적극적으로 임기응변해야 한다고 했잖아요. 59식 생각은 어때요?
+PSG1(0);59type(0)<Speaker>59식</Speaker>||:말벌집을 들쑤시는 건데 어쩔 수 없지 뭐~
+PSG1(0);G36C(1)<Speaker>G36C</Speaker><Position>0,100</Position>||:......
+PSG1(0);NPC-Kalin(3)<Speaker>카리나</Speaker>||:너희 같은 애들과 함께라니, G36C도 복이 많구나.+그럼, G36C?
+G36C(1)<Speaker>G36C</Speaker><Position>0,100</Position>;NPC-Kalin(3)||:여태껏 모두에게 도움받기만 했는데, 결국 이번에도...+역시... 다 제가 모자란 탓이겠죠...
+PSG1(0)<Speaker>PSG-1</Speaker>;NPC-Kalin(3)||:G36C, 이건 모두가 작전을 위해 구상해낸 최선책이에요.+모두가 벌어 준 시간을 살려 임무를 완수한다면, 자책할 것 없어요.+방금 MG3도 말했듯 인질 구출 성공 확률은 당신이 가장 높으니까요.
+G36C(1)<Speaker>G36C</Speaker><Position>0,100</Position>;MG3(1)||:으... 하아...+알겠습니다... 힘내볼게요.
+G36C(1)<Position>0,100</Position>;NPC-Kalin(0)<Speaker>카리나</Speaker>||:의견이 모였으면 그 방법대로 하자.+...보호장구는 최대한으로 챙기도록 해.+그럼 오늘은 이쯤하고 쉬도록 하자, 다들 수고했어.
+G36C(1)<Position>0,100</Position>;MG3(1)<Speaker>MG3</Speaker>||:으쌰! 힘내자, G36C!
+PSG1(0)<Speaker>PSG-1</Speaker>;MG3(1)||:우리 모두 당신을 믿어요.
+PSG1(0);59type(0)<Speaker>59식</Speaker>||:부탁한다구!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>97</BIN><BGM>BGM_Empty</BGM><关闭蒙版>:정비실로 가는 길에서, 동생의 손을 잡고 이끄는 G36은 의구심이 들었다.
+G36Mod(0)<Speaker>G36</Speaker>||:이상해... 저번 임무도 잘 완수했고, 카리나 씨도 너희에게 포상까지 신청했는데...+너도 부상이 경미했고...+대체... 뭐가 널 그렇게 만든 거니...?
+()<Speaker></Speaker>||:그녀의 의구심이 틀리지 않았다는 듯, 태블릿의 화면은 점점 이해할 수 없는 깨진 글자로 변해 갔다...
+G36C(0)<Speaker>G36C</Speaker>||:<color=#A9A9A9>난 외톨이가 아니야... 작전 끝나고 모두에게 선물도 보냈는데...</color>+<color=#A9A9A9>무식하다고? 그렇게 해서 모두를 지켜냈는걸!</color>+<color=#A9A9A9>아니, 네 존재 자체를 부정하진 않아. 전부... 내 선택으로 인한 결과니까. 다 내가 감당해야만 해.</color>+<color=#A9A9A9>충고하는데, 마인드맵 바깥의 나는 네가 지배할지 몰라도 내 생각까지 좌지우지할 수 있다 생각한다면 큰 오산이야.</color>+<color=#A9A9A9>하지만, 이 힘으로 모두를 지킬 수 있다면... 이 힘이 그토록 값지다면, 받아들이겠어.</color>
+()<Speaker></Speaker>||:G36이 눈앞에서 손을 흔들어 보아도, 동생은 아무런 반응이 없었다. 마치, 그 흐릿한 눈동자 너머에서 누군가와 실랑이라도 벌이는 것처럼.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>22</BIN>:그리폰 공방.
+NPC-Kalin(2)<Speaker>카리나</Speaker>||<BGM>BGM_Brain</BGM>:네? 자체 파기라니 그게 무슨 말씀이세요?+그럼 이 소포는 누가 보낸 건데요?
+NPC-Kalin(2);NPC-Soldier(0)<Speaker>그린존 보안 인원</Speaker><通讯框>||:<color=#00CCFF>인근 황무지에서 402번의 소체를 발견했습니다.</color>+<color=#00CCFF>자체 파기로 마인드맵이 포맷됐습니다만, 아무래도 따로 백업본을 남긴 것 같습니다.</color>
+NPC-Kalin(4)<Speaker>카리나</Speaker>;NPC-Soldier(0)<通讯框>||:소체에 마인드맵 포맷이라니, 그 기술자도 인형이었어요? 어쩐지...+으음... 그래서 이 소포는 그 402번 기술자가 보낸 거라고요?
+NPC-Kalin(4);NPC-Soldier(0)<Speaker>그린존 보안 인원</Speaker><通讯框>||:<color=#00CCFF>예, 기록 확인 결과 그는 소포를 그리폰의 전술인형 G36C에게 전달하려 했습니다.</color>+<color=#00CCFF>더불어, 보안 규정에 따라 이에 관한 귀사의 모든 조치를 전부 당국에 보고할 의무가 있습니다.</color>
+NPC-Kalin(4)<Speaker>카리나</Speaker>;NPC-Soldier(0)<通讯框>||:G36C에게요?
+NPC-Kalin(4);NPC-Soldier(0)<Speaker>그린존 보안 인원</Speaker><通讯框>||:<color=#00CCFF>예, 구출 작전에 참여했던 그 전술인형이 맞습니다.</color>
+NPC-Kalin(4)<Speaker>카리나</Speaker>;NPC-Soldier(0)<通讯框>||:알겠습니다, 상황 전달받았습니다.+우선 이 백업으로 추정되는 것부터 검사해봐야겠군요. 수고하셨습니다.
+()||<黑屏1>:

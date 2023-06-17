@@ -1,98 +1,98 @@
-()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>202</BIN>:
-()||<BGM>BGM_Room</BGM>:...12시간 전.
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:지휘관님, IOP로부터 연락이...
-()<Speaker>지휘관</Speaker>||:드디어 왔군. 암호화 채널로 연결해 줘.
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:네, 잠시만요.
-()||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:...삐익.
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||<BGM>BGM_Pervaded</BGM>:<color=#00CCFF>아이고, 존경하는 우리 지휘관. 참 오랜만이로구먼.</color>
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>베오그라드 관광은 즐거웠나?</color><c>결국 재난을 막지 못했습니다. 죄송합니다.<c>빈말로라도 "즐거웠다"고는 못 하겠군요.
-NPC-Havel(0)<Speaker>지휘관</Speaker><通讯框>||<分支>1</分支>:결국 재난을 막지 못했습니다. 죄송합니다.
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>너무 자책할 것 없네. 그런 일은 앞으로도 잔뜩 겪게 될 테니... 미리 마음의 준비나 해두게.</color>
-NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||<分支>1</分支>:...말은 참 쉽군요.
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>정신 건강도 챙겨야지. 아니면 이 미쳐 버린 세계에서 오래 못 버틸 게야.</color>
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>게다가 이건 하루이틀 새에 끝날 일도 아니니, 장기전 준비도 단단히 해야 할 걸세.</color>
-NPC-Havel(0)<Speaker>지휘관</Speaker><通讯框>||<分支>2</分支>:빈말로라도 "즐거웠다"고는 못 하겠군요.
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>어허, 왜 그러시나? 시민 대부분 제때 대피할 수 있었고, 격리벽의 구멍도 더 큰 피해 없이 메웠어. 이제 오염 정화 작업도 진행되고 있다지 않나.</color>
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>자네는 피해를 최소화하는 데 성공했네. 그것만으로도 자랑스러워해도 될 일이야.</color>
-NPC-Havel(0)<Speaker>지휘관</Speaker><通讯框>||<分支>2</分支>:베오그라드에서 벌어진 참상과 희생자들을... 그런 한두 마디로 넘어갈 수는 없습니다.+전 그 일을 공로라 생각하지 않습니다.
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>그래 그래... 요즘 같은 시대에, 자네처럼 뜨거운 마음을 가진 이들은 보기 드물지. 하지만 어쩌겠나, 비정하게 들려도 이게 현실인걸. </color>
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>...이거야 원, 너무 무심하게 말한 것 같구먼. 이 늙은이를 용서해 주게나.</color>
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>젊었을 적부터 봐 온 것이 너무 많아서, 옛날옛적에 감성이 메말라 버렸지 뭔가.</color>
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>어쨌든 안부 인사는 이쯤 하지. 자네나 나나 바쁜 사람이니.</color>
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>흐음... 어디서부터 시작할까... 먼저 안전국의 반응부터 말해 주는 게 좋겠군.</color>
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>간단히 말하자면, 안전국은 자네의 활약에 매우 만족하고 있네. 시국이 시국이라 축하 연회만 없는 수준이지.</color>
-NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:정말입니까...? 민간인 피해는 물론 붕괴 오염까지 막지 못한 것 때문에 바로 처형당할 줄 알았습니다만.
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>정말로 책임을 추궁할 작정이었다면, 자네 목이 달아나기 전에 정보분석관을 비롯한 간부 수십 명이 먼저 처형됐을걸세.</color>
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>유능한 자네를 지금 당장 문책할 바에야, 차라리 영웅으로 떠받들고 있는 편이 낫다는 판단이겠지.</color>
-NPC-Havel(0)<Speaker>지휘관</Speaker><通讯框>||:로쉬친 대사마저 희생됐는데 말입니까?
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>역시 안타까운 일이네만, 임무 수행 과정에서 발생한 부수적인 손실에 불과해. 전 세계의 눈이 그 허연 테러 집단에 향했고 무엇보다 울릭 주석이 무사했으니, 자네는 안전국이 내린 임무를 원만하게 완수한 셈이지.</color>
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>결과적으로, 모든 게 원하는 방향으로 흘러가는 중일세.</color>
-NPC-Havel(0)<Speaker>지휘관</Speaker><通讯框>||:그 부수적인 손실도 피할 수 있었습니다.+안전국이 처음부터 저희에게 정보를 공유하고, 제 말에 조금이라도 귀를 기울였다면――
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>워워, 그쯤 하게, 지휘관.</color>
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>안전국에게 의견이 있는 건 자네만이 아닐세. 나는 물론이고, 그들의 방식에 불만이 있는 자들은 잔뜩 있어.</color>
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>하지만 직접 상대해봤으니 잘 알겠지? 아무리 불평해 봤자 아무 소용 없네. 나한테 하소연이나 하는 건 더더욱 소용없고.</color>
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>내가 자네의 하소연을 들어서 뭘 어찌하겠나? 국장 나으리한테 고스란히 전달해 주기를 바라나?</color>
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>게다가... 자네도 따로 심산이 있잖나.</color>
-NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:...무슨 말씀인지 모르겠군요.
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>안 속네, 이 사람아. 안젤리아와 따로 뭔가를 꾸미고 있지?</color>
-NPC-Havel(0)<Speaker>지휘관</Speaker><通讯框>||:하벨 씨가 하신 것 중 가장 재밌는 농담이군요.+당신이 제공한 정보를 따라 베오그라드의 안팎을 동분서주했지만, 안젤리아와 마주치기는커녕 종적조차 찾지 못했습니다. 그런데 제가 안젤리아와 무슨 일을 꾸민단 말입니까?
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>지휘관... 내가 비록 인형 지휘하는 실력은 자네보다 못하더라도, 분석 능력과 눈썰미라면 자네는 한참 멀었다네.</color>
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>의도적으로 안젤리아에 관해서는 언급하기를 꺼리는데, 당시의 작전 기록을 보니... 안젤리아의 리벨리온 소대와의 연계가 빈틈이 없더구먼.</color>
-NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:그건 페르시카 씨가 개발한 마인드맵 덕분이겠죠.+그때 워낙에 혼란한 상황이었기에, 전투 중 대부분의 판단은 지휘 모듈을 지닌 인형에게 일임했습니다. 아시다시피, 전 그때 성당에서 적과 대치 중이라 꼼짝할 수가 없었습니다.
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>그래, 마침 말 잘했네. 그럼 안젤리아의 휘하에 있던 그 "지휘 모듈을 지닌 인형"이 그리폰으로 복귀했을 때, 그녀의 행방을 물어보기는 했나? 내가 의뢰한 임무는 분명 안젤리아를 찾는 것이었을 텐데, 설마 잊어버리진 않았겠지?</color>
-NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:쳇...
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>하하하, 누구나 히든카드 하나 정도는 쥐고 싶어 하는 법이지. 자네도, 나도, 안전국도 예외가 없지.</color>
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>비밀이 한두 가지 있는 건 나쁜 일이 아닐세. 다만, 전략전술에 문외한인 나도 눈치챌 수 있는 속셈을 그 독종 젤린스키가 과연 모르고 넘어갔겠나?</color>
-NPC-Havel(0)<Speaker>지휘관</Speaker><通讯框>||:그렇게 말씀하시니, 제가 뭐라 변명해도 아무 소용이 없겠군요. 하지만 정말 저는 모르는 일입니다.
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>허어, 입이 참 무겁구먼. 안젤리아가 스피라에나 노드의 탈취를 시도하는 반역 행위까지 저질렀는데 말이야... 역시 내가 눈여겨 둔 인물이로군.</color>
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>안심하게나, 자네가 얌전히 노드의 코어를 내놨기 때문에 안전국은 아직 그리폰의 충성심을 의심하지 않고 있으니까.</color>
-NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:그래서, 이렇게 거대한 대가를 치르면서까지 스피라에나 노드를 확보하려 한 의도는 대체 무엇입니까?
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>그들도 자네와 비슷한 의문을 품고 있다네. 의문을 품는 대상이 군일 뿐이지.</color>
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>안전국은 자네가 회수한 코어의 분석을 끝마쳤고, 군의 심중을 대강 파악했어... 곧 각지의 보관 기지로 요원들을 파견할 테고, 군의 음모는 저지되겠지.</color>
-NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:...그걸로 끝인가요? 그렇게 간단하게 말입니까?
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>그래, 그렇게 간단하게 끝일세. 그 후의 일은 나와 자네, 그리고 그리폰과는 전혀 상관없는 일이 되겠지...</color>
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>적어도 안전국은 그렇게 판단 중이네.</color>
-NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:이제 "하지만"이 나올 차례군요.
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>하하하! 정답이야! 하지만! 우리의 임무는 아직 끝나지 않았다네. 지금부터 자네는 에스토니아의 팔디스키 잠수함 기지로 이동해 줘야겠어.</color>
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>내가 얻은 정보에 의하면, 그 기지 인근에서 패러데우스의 움직임이 포착됐고, 군부대도 지금 그곳으로 향하는 중일세.</color>
-NPC-Havel(0)<Speaker>지휘관</Speaker><通讯框>||:...방금 스피라에나 노드를 확보하려는 군의 음모는 안전국이 저지할 거라 하지 않으셨습니까?
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>그래, 그건 사실일세.</color>
-NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:그럼 왜 그리폰을 대륙 절반을 지나야 있는 곳으로 파견하는 겁니까?
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>거기엔 노드가 없기 때문이지.</color>
-NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:그게 무슨...?
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||<BGM>BGM_Reverse</BGM><黑屏1>:<color=#00CCFF>우선 하나 물어봄세. "리코리스"란 사람에 대해 들어본 적 있나?</color>
-NPC-Lyco(0)<Speaker>지휘관</Speaker>||<黑屏2><BIN>54</BIN>:철혈공조의 수석 기술자 말씀입니까? 페르시카 씨에게서 받은 자료에서 본 적이 있습니다.
-NPC-Lyco(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>그래, 바로 그 사람. 철혈의 엘더 브레인... 즉, "엘리사"를 설계한 장본인이지. 이 정도야 자네도 이미 알고 있겠지?</color>
-NPC-Lyco(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>잘 알려지지 않은 사실을 말해 주자면, 리코가 엘리사를 제작할 때 참고한 것이 바로 팔디스키 잠수함 기지에 보관됐던 A-51-241번 스피라에나 노드라네.</color>
-()<Speaker>지휘관</Speaker><通讯框>||:그렇다면 엘리사는...
-BOSS-12(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>아, 물론 완전히 베낀 건 아니네. 리코 그 친구가 역설계하면서 자신의 발상도 많이 집어넣었거든. 나도 깜짝 놀랐을 정도로 정교했어.</color>
-BOSS-12(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>하지만 기본 프레임까지 뜯어고치진 않았어. 쉽게 말하자면, 그 스피라에나 노드는 엘리사의 청사진이라 할 수 있지.</color>
-BOSS-12(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>안전국도 처음엔 그저 수많은 노드 중에서 평범한 하나라 생각했다네. 내가 여태까지 나비 사건이 그저 평범한 사고였다 생각한 것처럼 말일세.</color>
-BOSS-12(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>하지만, 지금까지의 수많은 일들... 철혈, 군, 그리고 패러데우스까지... 전부 한 데 놓고 보니, 그들의 관계는 결코 어쩌다 얽힌 평행선이 아니라는 느낌이 들었네.</color>
-()<Speaker>하벨</Speaker>||:<color=#00CCFF>분명 팔디스키 기지가 모든 것의 시작점이 틀림없어.</color>
-()<Speaker>하벨</Speaker>||<黑屏1>:<color=#00CCFF>그러니 증거가 인멸되기 전에 그 기지를 확보해 줬으면 하네. 겸사겸사 그 비밀 친구도 도와주고 말이야.</color>
-()<Speaker>지휘관</Speaker><通讯框>||<黑屏2><BIN>202</BIN>:하벨 씨... 전...
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>간단한 일이 아니지. 나도 아네. 팔디스키에서 멀지 않은 탈린시는 오래전 폐허가 된 레드존이니까 말이야. 충분히 위험한 일이지.</color>
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>그리고... 나비 사건의 진상에 가까워질수록, 불구덩이로 발을 내딛는 거나 마찬가지지.</color>
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>자넨 지금까지 운수가 참 좋았어. 그렇기에 나도 여태까지 자네를 두둔해 주었네만, 언제까지고 행운의 여신에게 축복을 받을 수는 없는 노릇 아니겠나?</color>
-NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:하벨 씨의 호의는 정말 감사하고 있습니다. 하지만 제 능력으론――
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>이런이런, 자넨 아직 자신을 모르고 있구먼.</color>
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>자네가 그렇게 오지랖 넓고 타인을 위해 목숨도 마다하는 사람이 아니었다면 여기까지 오지도 못했을걸세.</color>
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>그 아가씨... 아, 페르시카 말일세. 그 아가씨도 자네가 팔디스키로 향한다는 걸 알아내곤 온갖 무리한 요구를 하러 올 게야.</color>
-NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>가끔은 거절하는 법도 배우도록 하게, 지휘관... 행운이 바닥나 버리기 전에 말일세.</color>
-NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:...제가 지금 이 일을 거절한다면 어떻게 하시겠습니까?
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>하하하, 배우는 것도 빠르단 걸 깜빡했구먼! 그래, 그래서 이번엔... 의뢰가 아니라 부탁을 하는 거라네.</color>
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>몸 조심하게나, 지휘관. 다음에 볼 때도 그렇게 팔팔한 모습이길 바라네.</color>
-()||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_tele_disconnect</SE1>:통신 종료.
-()||<黑屏2><BIN>202</BIN><BGM>BGM_stage1</BGM>:...현재.
-()<Speaker>카리나</Speaker>||:지휘관님, 주무시나요~?
-()<Speaker>지휘관</Speaker>||:들어오렴.
-NPC-Kalin(3)<Speaker>카리나</Speaker>||<SE1>AVG_door_elecport</SE1>:아직도 어제 하벨 씨와 나눈 이야기를 생각하고 계세요?
-NPC-Kalin(3)<Speaker>지휘관</Speaker>||:하아... 빈틈없이 대비했다고 생각했는데, 역시 한참 멀었더라.
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:그래도... 엄청 오래 이야기하셨잖아요. 분석할 만한 정보가 좀 있지 않을까요?
-NPC-Kalin(1)<Speaker>지휘관</Speaker>||:말한 건 많았지만... 다 우리에게 알려 주려 했던 정보들뿐이야. 그리고 항상 몇 수 앞을 읽고 있지.+그리폰과 같은 편이라 다행이라고 해야 할까... 적어도 지금은 그래.
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:으... 나중의 일은 나중에 생각해요. 지금은 눈앞에 닥친 일에 집중하자고요.+대륙간 열차는 약 10분 후 탈린시 교외에 도착할 예정이에요. 선발 정찰대로부터 정찰 보고도 들어왔어요.+지휘관님의 예상대로, 탈린시는 교통의 요지로서 팔디스키 잠수함 기지로 통하는 유일한 경로인데, 붕괴 오염으로 파괴된 후 버려진 지 오래예요. 그 때문에 진입로가 완전히 봉쇄된 상태고요.+따로 경로 수색을 맡은 AR팀도 먼저 격리벽의 봉쇄부터 해제하지 않으면 열차의 전진이 불가능하다고 보고했습니다. 지금 다들 지휘관님의 다음 지시를 기다리고 있어요.
-NPC-Kalin(0)<Speaker>지휘관</Speaker>||:벌써 도착했어? 한숨 더 잘 수 있을 줄 알았더니만...
-NPC-Kalin(3)<Speaker>카리나</Speaker>||:아이참, 특등석 열차 여행 즐기시라고 지휘 설비를 대륙간 열차에 실은 게 아니라고요.+각 제대, 준비 완료됐습니다. 열차가 멈추면 바로 작전 개시할 수 있어요.
-NPC-Kalin(3)<Speaker>지휘관</Speaker>||<黑屏1>:아무래도... 베오그라드 때보다도 빠듯한 여행이 될 것 같군.
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>202</BIN>:
+()||<BGM>BGM_Room</BGM>:...12시간 전.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:지휘관님, IOP로부터 연락이...
+()<Speaker>지휘관</Speaker>||:드디어 왔군. 암호화 채널로 연결해 줘.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:네, 잠시만요.
+()||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:...삐익.
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||<BGM>BGM_Pervaded</BGM>:<color=#00CCFF>아이고, 존경하는 우리 지휘관. 참 오랜만이로구먼.</color>
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>베오그라드 관광은 즐거웠나?</color><c>결국 재난을 막지 못했습니다. 죄송합니다.<c>빈말로라도 "즐거웠다"고는 못 하겠군요.
+NPC-Havel(0)<Speaker>지휘관</Speaker><通讯框>||<分支>1</分支>:결국 재난을 막지 못했습니다. 죄송합니다.
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>너무 자책할 것 없네. 그런 일은 앞으로도 잔뜩 겪게 될 테니... 미리 마음의 준비나 해두게.</color>
+NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||<分支>1</分支>:...말은 참 쉽군요.
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>정신 건강도 챙겨야지. 아니면 이 미쳐 버린 세계에서 오래 못 버틸 게야.</color>
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>게다가 이건 하루이틀 새에 끝날 일도 아니니, 장기전 준비도 단단히 해야 할 걸세.</color>
+NPC-Havel(0)<Speaker>지휘관</Speaker><通讯框>||<分支>2</分支>:빈말로라도 "즐거웠다"고는 못 하겠군요.
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>어허, 왜 그러시나? 시민 대부분 제때 대피할 수 있었고, 격리벽의 구멍도 더 큰 피해 없이 메웠어. 이제 오염 정화 작업도 진행되고 있다지 않나.</color>
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>자네는 피해를 최소화하는 데 성공했네. 그것만으로도 자랑스러워해도 될 일이야.</color>
+NPC-Havel(0)<Speaker>지휘관</Speaker><通讯框>||<分支>2</分支>:베오그라드에서 벌어진 참상과 희생자들을... 그런 한두 마디로 넘어갈 수는 없습니다.+전 그 일을 공로라 생각하지 않습니다.
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>그래 그래... 요즘 같은 시대에, 자네처럼 뜨거운 마음을 가진 이들은 보기 드물지. 하지만 어쩌겠나, 비정하게 들려도 이게 현실인걸. </color>
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>...이거야 원, 너무 무심하게 말한 것 같구먼. 이 늙은이를 용서해 주게나.</color>
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>젊었을 적부터 봐 온 것이 너무 많아서, 옛날옛적에 감성이 메말라 버렸지 뭔가.</color>
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>어쨌든 안부 인사는 이쯤 하지. 자네나 나나 바쁜 사람이니.</color>
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>흐음... 어디서부터 시작할까... 먼저 안전국의 반응부터 말해 주는 게 좋겠군.</color>
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>간단히 말하자면, 안전국은 자네의 활약에 매우 만족하고 있네. 시국이 시국이라 축하 연회만 없는 수준이지.</color>
+NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:정말입니까...? 민간인 피해는 물론 붕괴 오염까지 막지 못한 것 때문에 바로 처형당할 줄 알았습니다만.
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>정말로 책임을 추궁할 작정이었다면, 자네 목이 달아나기 전에 정보분석관을 비롯한 간부 수십 명이 먼저 처형됐을걸세.</color>
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>유능한 자네를 지금 당장 문책할 바에야, 차라리 영웅으로 떠받들고 있는 편이 낫다는 판단이겠지.</color>
+NPC-Havel(0)<Speaker>지휘관</Speaker><通讯框>||:로쉬친 대사마저 희생됐는데 말입니까?
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>역시 안타까운 일이네만, 임무 수행 과정에서 발생한 부수적인 손실에 불과해. 전 세계의 눈이 그 허연 테러 집단에 향했고 무엇보다 울릭 주석이 무사했으니, 자네는 안전국이 내린 임무를 원만하게 완수한 셈이지.</color>
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>결과적으로, 모든 게 원하는 방향으로 흘러가는 중일세.</color>
+NPC-Havel(0)<Speaker>지휘관</Speaker><通讯框>||:그 부수적인 손실도 피할 수 있었습니다.+안전국이 처음부터 저희에게 정보를 공유하고, 제 말에 조금이라도 귀를 기울였다면――
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>워워, 그쯤 하게, 지휘관.</color>
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>안전국에게 의견이 있는 건 자네만이 아닐세. 나는 물론이고, 그들의 방식에 불만이 있는 자들은 잔뜩 있어.</color>
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>하지만 직접 상대해봤으니 잘 알겠지? 아무리 불평해 봤자 아무 소용 없네. 나한테 하소연이나 하는 건 더더욱 소용없고.</color>
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>내가 자네의 하소연을 들어서 뭘 어찌하겠나? 국장 나으리한테 고스란히 전달해 주기를 바라나?</color>
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>게다가... 자네도 따로 심산이 있잖나.</color>
+NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:...무슨 말씀인지 모르겠군요.
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>안 속네, 이 사람아. 안젤리아와 따로 뭔가를 꾸미고 있지?</color>
+NPC-Havel(0)<Speaker>지휘관</Speaker><通讯框>||:하벨 씨가 하신 것 중 가장 재밌는 농담이군요.+당신이 제공한 정보를 따라 베오그라드의 안팎을 동분서주했지만, 안젤리아와 마주치기는커녕 종적조차 찾지 못했습니다. 그런데 제가 안젤리아와 무슨 일을 꾸민단 말입니까?
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>지휘관... 내가 비록 인형 지휘하는 실력은 자네보다 못하더라도, 분석 능력과 눈썰미라면 자네는 한참 멀었다네.</color>
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>의도적으로 안젤리아에 관해서는 언급하기를 꺼리는데, 당시의 작전 기록을 보니... 안젤리아의 리벨리온 소대와의 연계가 빈틈이 없더구먼.</color>
+NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:그건 페르시카 씨가 개발한 마인드맵 덕분이겠죠.+그때 워낙에 혼란한 상황이었기에, 전투 중 대부분의 판단은 지휘 모듈을 지닌 인형에게 일임했습니다. 아시다시피, 전 그때 성당에서 적과 대치 중이라 꼼짝할 수가 없었습니다.
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>그래, 마침 말 잘했네. 그럼 안젤리아의 휘하에 있던 그 "지휘 모듈을 지닌 인형"이 그리폰으로 복귀했을 때, 그녀의 행방을 물어보기는 했나? 내가 의뢰한 임무는 분명 안젤리아를 찾는 것이었을 텐데, 설마 잊어버리진 않았겠지?</color>
+NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:쳇...
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>하하하, 누구나 히든카드 하나 정도는 쥐고 싶어 하는 법이지. 자네도, 나도, 안전국도 예외가 없지.</color>
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>비밀이 한두 가지 있는 건 나쁜 일이 아닐세. 다만, 전략전술에 문외한인 나도 눈치챌 수 있는 속셈을 그 독종 젤린스키가 과연 모르고 넘어갔겠나?</color>
+NPC-Havel(0)<Speaker>지휘관</Speaker><通讯框>||:그렇게 말씀하시니, 제가 뭐라 변명해도 아무 소용이 없겠군요. 하지만 정말 저는 모르는 일입니다.
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>허어, 입이 참 무겁구먼. 안젤리아가 스피라에나 노드의 탈취를 시도하는 반역 행위까지 저질렀는데 말이야... 역시 내가 눈여겨 둔 인물이로군.</color>
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>안심하게나, 자네가 얌전히 노드의 코어를 내놨기 때문에 안전국은 아직 그리폰의 충성심을 의심하지 않고 있으니까.</color>
+NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:그래서, 이렇게 거대한 대가를 치르면서까지 스피라에나 노드를 확보하려 한 의도는 대체 무엇입니까?
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>그들도 자네와 비슷한 의문을 품고 있다네. 의문을 품는 대상이 군일 뿐이지.</color>
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>안전국은 자네가 회수한 코어의 분석을 끝마쳤고, 군의 심중을 대강 파악했어... 곧 각지의 보관 기지로 요원들을 파견할 테고, 군의 음모는 저지되겠지.</color>
+NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:...그걸로 끝인가요? 그렇게 간단하게 말입니까?
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>그래, 그렇게 간단하게 끝일세. 그 후의 일은 나와 자네, 그리고 그리폰과는 전혀 상관없는 일이 되겠지...</color>
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>적어도 안전국은 그렇게 판단 중이네.</color>
+NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:이제 "하지만"이 나올 차례군요.
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>하하하! 정답이야! 하지만! 우리의 임무는 아직 끝나지 않았다네. 지금부터 자네는 에스토니아의 팔디스키 잠수함 기지로 이동해 줘야겠어.</color>
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>내가 얻은 정보에 의하면, 그 기지 인근에서 패러데우스의 움직임이 포착됐고, 군부대도 지금 그곳으로 향하는 중일세.</color>
+NPC-Havel(0)<Speaker>지휘관</Speaker><通讯框>||:...방금 스피라에나 노드를 확보하려는 군의 음모는 안전국이 저지할 거라 하지 않으셨습니까?
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>그래, 그건 사실일세.</color>
+NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:그럼 왜 그리폰을 대륙 절반을 지나야 있는 곳으로 파견하는 겁니까?
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>거기엔 노드가 없기 때문이지.</color>
+NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:그게 무슨...?
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||<BGM>BGM_Reverse</BGM><黑屏1>:<color=#00CCFF>우선 하나 물어봄세. "리코리스"란 사람에 대해 들어본 적 있나?</color>
+NPC-Lyco(0)<Speaker>지휘관</Speaker>||<黑屏2><BIN>54</BIN>:철혈공조의 수석 기술자 말씀입니까? 페르시카 씨에게서 받은 자료에서 본 적이 있습니다.
+NPC-Lyco(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>그래, 바로 그 사람. 철혈의 엘더 브레인... 즉, "엘리사"를 설계한 장본인이지. 이 정도야 자네도 이미 알고 있겠지?</color>
+NPC-Lyco(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>잘 알려지지 않은 사실을 말해 주자면, 리코가 엘리사를 제작할 때 참고한 것이 바로 팔디스키 잠수함 기지에 보관됐던 A-51-241번 스피라에나 노드라네.</color>
+()<Speaker>지휘관</Speaker><通讯框>||:그렇다면 엘리사는...
+BOSS-12(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>아, 물론 완전히 베낀 건 아니네. 리코 그 친구가 역설계하면서 자신의 발상도 많이 집어넣었거든. 나도 깜짝 놀랐을 정도로 정교했어.</color>
+BOSS-12(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>하지만 기본 프레임까지 뜯어고치진 않았어. 쉽게 말하자면, 그 스피라에나 노드는 엘리사의 청사진이라 할 수 있지.</color>
+BOSS-12(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>안전국도 처음엔 그저 수많은 노드 중에서 평범한 하나라 생각했다네. 내가 여태까지 나비 사건이 그저 평범한 사고였다 생각한 것처럼 말일세.</color>
+BOSS-12(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>하지만, 지금까지의 수많은 일들... 철혈, 군, 그리고 패러데우스까지... 전부 한 데 놓고 보니, 그들의 관계는 결코 어쩌다 얽힌 평행선이 아니라는 느낌이 들었네.</color>
+()<Speaker>하벨</Speaker>||:<color=#00CCFF>분명 팔디스키 기지가 모든 것의 시작점이 틀림없어.</color>
+()<Speaker>하벨</Speaker>||<黑屏1>:<color=#00CCFF>그러니 증거가 인멸되기 전에 그 기지를 확보해 줬으면 하네. 겸사겸사 그 비밀 친구도 도와주고 말이야.</color>
+()<Speaker>지휘관</Speaker><通讯框>||<黑屏2><BIN>202</BIN>:하벨 씨... 전...
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>간단한 일이 아니지. 나도 아네. 팔디스키에서 멀지 않은 탈린시는 오래전 폐허가 된 레드존이니까 말이야. 충분히 위험한 일이지.</color>
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>그리고... 나비 사건의 진상에 가까워질수록, 불구덩이로 발을 내딛는 거나 마찬가지지.</color>
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>자넨 지금까지 운수가 참 좋았어. 그렇기에 나도 여태까지 자네를 두둔해 주었네만, 언제까지고 행운의 여신에게 축복을 받을 수는 없는 노릇 아니겠나?</color>
+NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:하벨 씨의 호의는 정말 감사하고 있습니다. 하지만 제 능력으론――
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>이런이런, 자넨 아직 자신을 모르고 있구먼.</color>
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>자네가 그렇게 오지랖 넓고 타인을 위해 목숨도 마다하는 사람이 아니었다면 여기까지 오지도 못했을걸세.</color>
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>그 아가씨... 아, 페르시카 말일세. 그 아가씨도 자네가 팔디스키로 향한다는 걸 알아내곤 온갖 무리한 요구를 하러 올 게야.</color>
+NPC-Havel(1)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>가끔은 거절하는 법도 배우도록 하게, 지휘관... 행운이 바닥나 버리기 전에 말일세.</color>
+NPC-Havel(1)<Speaker>지휘관</Speaker><通讯框>||:...제가 지금 이 일을 거절한다면 어떻게 하시겠습니까?
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>하하하, 배우는 것도 빠르단 걸 깜빡했구먼! 그래, 그래서 이번엔... 의뢰가 아니라 부탁을 하는 거라네.</color>
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||:<color=#00CCFF>몸 조심하게나, 지휘관. 다음에 볼 때도 그렇게 팔팔한 모습이길 바라네.</color>
+()||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_tele_disconnect</SE1>:통신 종료.
+()||<黑屏2><BIN>202</BIN><BGM>BGM_stage1</BGM>:...현재.
+()<Speaker>카리나</Speaker>||:지휘관님, 주무시나요~?
+()<Speaker>지휘관</Speaker>||:들어오렴.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||<SE1>AVG_door_elecport</SE1>:아직도 어제 하벨 씨와 나눈 이야기를 생각하고 계세요?
+NPC-Kalin(3)<Speaker>지휘관</Speaker>||:하아... 빈틈없이 대비했다고 생각했는데, 역시 한참 멀었더라.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:그래도... 엄청 오래 이야기하셨잖아요. 분석할 만한 정보가 좀 있지 않을까요?
+NPC-Kalin(1)<Speaker>지휘관</Speaker>||:말한 건 많았지만... 다 우리에게 알려 주려 했던 정보들뿐이야. 그리고 항상 몇 수 앞을 읽고 있지.+그리폰과 같은 편이라 다행이라고 해야 할까... 적어도 지금은 그래.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:으... 나중의 일은 나중에 생각해요. 지금은 눈앞에 닥친 일에 집중하자고요.+대륙간 열차는 약 10분 후 탈린시 교외에 도착할 예정이에요. 선발 정찰대로부터 정찰 보고도 들어왔어요.+지휘관님의 예상대로, 탈린시는 교통의 요지로서 팔디스키 잠수함 기지로 통하는 유일한 경로인데, 붕괴 오염으로 파괴된 후 버려진 지 오래예요. 그 때문에 진입로가 완전히 봉쇄된 상태고요.+따로 경로 수색을 맡은 AR팀도 먼저 격리벽의 봉쇄부터 해제하지 않으면 열차의 전진이 불가능하다고 보고했습니다. 지금 다들 지휘관님의 다음 지시를 기다리고 있어요.
+NPC-Kalin(0)<Speaker>지휘관</Speaker>||:벌써 도착했어? 한숨 더 잘 수 있을 줄 알았더니만...
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:아이참, 특등석 열차 여행 즐기시라고 지휘 설비를 대륙간 열차에 실은 게 아니라고요.+각 제대, 준비 완료됐습니다. 열차가 멈추면 바로 작전 개시할 수 있어요.
+NPC-Kalin(3)<Speaker>지휘관</Speaker>||<黑屏1>:아무래도... 베오그라드 때보다도 빠듯한 여행이 될 것 같군.

@@ -1,0 +1,10 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>597</BIN><narrator><BGM>BGM_Saga_AVG_Dusk</BGM>:오늘 웬일로 사쿠라가 연습장에 보이지 않았다, 분명 가장 열심히 연습하는 멤버라고 생각했는데.
+()||<SE1>AVG_Awkward</SE1><黑点1>:그런데 편의점의 유리창 너머로 사쿠라가 가게 안에서 멍때리고 있는 것이 보였다.
+NPC-Sakura(1)<Speaker></Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<黑点2><BIN>380</BIN>:당신이 불러서 정신을 차린 사쿠라는, 자신이 아무리 노력해도 결과는 만족스럽지 않아서, 차라리 다른 멤버들이 더 많은 연습 시간을 가질 수 있게 자신이 자금 조달 일을 떠맡는 게 낫지 않을까 고뇌 중이었다고 말했다.
+NPC-Sakura(1)<Speaker></Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:당신은 사쿠라만이 할 수 있는 일이 있다고 말했지만, 사쿠라는 그저 위로로 받아들였다.
+()||:이때, 편의점에 한 단골 손님이 와서 클레임을 넣겠다 했다.
+()||<SE1>RunStep</SE1>:당신이 가슴을 졸이며 물어보니, 그 단골 손님은 오늘 사쿠라가 얼굴을 찌푸리고 있길래 점장이 그녀를 꾸짖은 줄 알고 클레임을 넣으려고 한 것이었다.
+NPC-Sakura(2)<Speaker></Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:단골 손님은 매일 사쿠라의 정겨운 아침 인사를 듣고 하루의 기운을 충전한다며 사쿠라에게 고마움을 전했고, 아이돌 활동도 잘 되길 기원한다며 응원해줬다.
+NPC-Sakura(2)<Speaker></Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:당신은 이것이 바로 사쿠라만이 할 수 있는 일이라 말했다. 매일 아침 인사를 하는 것처럼 꾸준히 노력하다 보면 언젠가 보답받을 날이 올 것이라고.
+NPC-Sakura(0)<Speaker></Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<黑点1>:사쿠라는 무척 감동받고 점차 기운을 차렸다.

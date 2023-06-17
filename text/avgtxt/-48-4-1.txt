@@ -1,149 +1,149 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator>:패러데우스의 기지.
-()||<黑屏1>:
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||<BGM>GF_EV9_Story</BGM><黑屏2><BIN>323</BIN>:......
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:그레이는 한숨을 푹 쉬면서, 보고서를 탁상에 내려놓았다.
-NPC-MrsGray(3)<Speaker>그레이</Speaker>||:스승님이 두 번씩이나 패배하다니.
-NPC-grig(1)<Speaker>틸</Speaker>||:......
-()<Speaker></Speaker>||:틸은 그레이의 곁에서 조용히 서 있는 것이, 몰리도의 실패가 전혀 충격적이지 않은 모양이었다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:...무슨 생각인지 안단다, 귀염둥이 내 동생아.+하지만 이 실패는 패러데우스의 실패지, 나나 스승님 개인의 문제가 아니야.
-NPC-grig(1)<Speaker>틸</Speaker>||:...난 그저 네가 더 많은 걸 얻길 바란다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:그렇다니 고맙구나.
-()<Speaker></Speaker>||:그레이의 표정이 많이 부드러워졌다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:참을 줄 알아야 해, 틸.+무엇보다 우선인 건, 바로 아버님의 위업. 패러데우스의 미래를 위한 일을 절대 실패해선 안 된다는 거야.
-NPC-grig(1)<Speaker>틸</Speaker>||:...응.
-()<Speaker></Speaker>||:틸은 얌전히 고개를 끄덕이며 자세를 조금 낮췄다.
-NPC-grig(1)<Speaker>틸</Speaker>||:무기를 놈들에게 빼앗겼으니, 더욱 주도권을 잡기 어려워젔다.
-()<Speaker></Speaker>||:그레이는 고민 가득한 눈빛으로 끄덕이며 손가락으로 탁상을 두드렸다.
-NPC-MrsGray(1)<Speaker>그레이</Speaker>||:그래도... 우린 아직 비장의 수가 있잖니.+검사 결과는 어떻지?
-NPC-grig(1)<Speaker>틸</Speaker>||:소체를 분해해 검사한 결과 이상이 없었기에 다시 조립했다.+다만 마인드맵은 여전히 분석하지 못해, 안전을 위해 계속 독방에 감금하는 것이 좋다고 본다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:그렇게 샘내지 마렴.+그녀의 진심을 읽어내지 못한다면, 다시 한번 증명하라고 시키면 되는 일이야.
-NPC-grig(1)<Speaker>틸</Speaker>||:......+알았다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><BGM>BGM_Empty</BGM>:J의 집.
-()<Speaker>섀도리스</Speaker>||:<color=#00CCFF>――음 소식입니다. 갈라테아 그룹과 계약했던 한 납품업자가, 오늘 새벽 자택에서 숨진 채 발견되어 경찰이 수사에 나섰습니다. 사인은 총상으로――</color>
-NPC-Keven(5)<Speaker>J</Speaker>||:...칫.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:J가 짜증내며 텔레비전을 끄고 머리를 북북 긁었다.+저 빨간 두 눈동자가 똥그랗게 자신을 지켜보고 있으니, 뭘 해도 속이 타들어가기만 했다.
-NPC-Keven(5)<Speaker>J</Speaker>||:야! 너 언제까지 여기 있을 셈이야!?
-()<Speaker></Speaker>||<BGM>m_avg_casual</BGM>:결국 한계에 다다른 J가, 여태까지 의자에 앉아 자신을 뚫어져라 바라보던 그 인형에게 버럭 소리질렀다.
-SP9(0)<Speaker>모나</Speaker>||:국장님께서 당신의 일거수일투족을 감시하라 명령하셨습니다.+제 마인드맵이 수복된 지 아직 24시간도 지나지 않았으니, 일종의 재활 운동이라 보면 됩니다. J 요원의 양해를 바랍니다.
-NPC-Keven(4)<Speaker>J</Speaker>||:그렇다고 내 집까지 쳐들어와야 했냐!+너까지 먹일 밥 없어!
-SP9(0)<Speaker>모나</Speaker>||:제게 식사란 "불쾌한 골짜기 프로토콜"에 포함된 부가 기능에 지나지 않습니다.+음식을 섭취하지 않아도 제 기능엔 아무 영향 없으니 신경쓰지 마세요.
-NPC-Keven(5)<Speaker>J</Speaker>||:......
-()<Speaker></Speaker>||:정신이 나가버릴 듯 오만가지 표정을 다 짓던 J는 결국 포기했다.+그리고 소파를 박차고 일어났다.
-SP9(0)<Speaker>모나</Speaker>||:J 요원, 어디 갑니까?
-NPC-Keven(5)<Speaker>J</Speaker>||:화장실! 왜, 따라오게?
-SP9(0)<Speaker>모나</Speaker>||:알겠습니다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:모나가 덩달아 자리에서 일어나며 고개를 끄덕였다.
-NPC-Keven(4)<Speaker>J</Speaker>||:진짜 들어오려고?!
-SP9(0)<Speaker>모나</Speaker>||:문 앞에서 기다리겠습니다.
-NPC-Keven(5)<Speaker>J</Speaker>||:......
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:인상을 팍팍 구긴 J는 "경호"를 받으며 화장실로 들어가, 모나의 눈앞에서 문을 쾅 닫았다.
-()<Speaker></Speaker>||:모나는 눈 하나 깜짝 않고 주위를 둘러보다 찾은 작은 의자를 가져와 화장실 앞에 앉았다.
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>9</BIN>:......
-NPC-Keven(5)<Speaker>J</Speaker>||:저 녀석 머리가 덜 고쳐진 게 분명해...
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:계속 툴툴거리며, J는 변기의 뚜껑을 닫고 앉아 옷 속에 숨겨 뒀던 통신기를 꺼냈다.
-NPC-Keven(0)<Speaker>J</Speaker>||:흥, 이대로 끝이라 생각하면 큰 오산이지.
-()<Speaker></Speaker>||:그리폰의 지휘관이, 그 무기들이 옮겨지는 것을 막아냈다는 소식을 들었다.
-NPC-Keven(5)<Speaker>J</Speaker>||:그 여자... 이걸로 일을 대충 마무리할 생각이겠지?+십중팔구 이 일에 정계의 거물급 인사가 연루되어 있으니까 그렇게 덮으려고 애를 쓰는 거겠지. 하지만 그렇다고 내가 이대로 관둘 거 같아?
-()<Speaker></Speaker>||:무엇을 어찌 할지 결심한 J는 통신기로 자신이 아주 잘 기억하는 번호를 눌렀다.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삑.+통신 연결.
-NPC-Nele(2)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>J 씨?</color>
-()<Speaker></Speaker>||:그의 수중의 마지막 카드였다.+어떻게든 넬레를 통해, 갈라테아에 대해 더 많은 정보를 얻어내야 한다.
-NPC-Nele(0)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>마침 잘됐네요, 안 그래도 연락하려던 참인데.</color>
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(0)||:음? 무슨 일입니까?
-NPC-Keven(0);NPC-Nele(3)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>그 "움루스"란 사람, 당신이 죽였어요?</color>
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(3)||:...당연히 아니죠. 다만 그가 죽을 때 현장에는 있었습니다.
-NPC-Keven(0);NPC-Nele(0)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>...J 씨, 당신은 슈타지 요원이고, 당신에 대한 인상은 처음부터 꽝이었으니까 굳이 그런 거 안 숨겨도 돼요.</color>
-NPC-Keven(4)<Speaker>J</Speaker>||:아니 이 여자가 진짜, 제가 한 거 아니라니까요!!
-()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:똑똑똑.
-()<Speaker>모나</Speaker>||:J요원, 무슨 일입니까?
-NPC-Keven(4)<Speaker>J</Speaker>||:볼일이지 무슨 일이긴! 볼일 보는데 혼잣말하는 게 그렇게 신경 쓰여?
-()<Speaker>모나</Speaker>||:...알겠습니다.
-NPC-Nele(2)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>지금 누구랑 데이트 중이에요? 그럼 이따가 다시 연락할게요.</color>
-NPC-Keven(0)<Speaker>J</Speaker>||:아니, 기달, 기다려요!
-()<Speaker></Speaker>||:J가 목소리를 낮췄다.
-NPC-Keven(5)<Speaker>J</Speaker>||:넬레 씨한테 부탁할 아주 중요한 일이 생겨서 말입니다.+좀 더 자세히 조사를――
-NPC-Keven(5);NPC-Nele(0)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>벌써 했어요.</color>
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(0)||:어... 뭘 조사해 달라고 말 안 했는데요?
-NPC-Keven(0);NPC-Nele(0)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>그 "움루스"란 사람에 관해서, 더 많이 알아냈다고요..</color>
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(0)||:...네?
-NPC-Keven(0);NPC-Nele(1)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>더 높은 권한을 가진 사람의 카드를 좀 "빌려서" 다시 자료를 찾아봤어요.</color>+<color=#00CCFF>데이터베이스에 운송 목적지는 안 나왔지만, 그래도 무슨 좌표가 있었어요. 무슨 공장 같은데, 중요해 보이니까 한번 조사해보세요.</color>
-NPC-Keven(0)<Speaker>J</Speaker>||:와우... 벌써 요령이 생겼나 봅니다?
-()<Speaker></Speaker>||:J는 흥분에 목소리가 높아질 뻔했다.
-NPC-Nele(1)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>이둔에 관해서도 어떻게든 더 알아내볼게요.</color>+<color=#00CCFF>그리고... 저기요, 그... 그때, 당신의 충고를 무시해서 미안해요.</color>
-()<Speaker></Speaker>||:넬레의 목소리가 평소와 좀 달랐다.
-NPC-Keven(0)<Speaker>J</Speaker>||:하하, 당신이 그렇게 말하니 좀 어색하네요.
-NPC-Keven(0);NPC-Nele(1)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>......</color>
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(1)||:...무슨 일 있었습니까?
-NPC-Keven(5);NPC-Nele(1)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>...일이 마무리되면 시간 내서 얘기해 줄게요.</color>
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(1)||:우물쭈물하다니 넬레 씨 답지 않은데요.
-NPC-Nele(3)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>......</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:말이 없던 통신기 너머의 넬레가 먼저 전화를 끊었다.
-NPC-Keven(0)<Speaker>J</Speaker>||:......오늘은 진짜 여자하고 원수지는 날인가 봐.+아아아 몰라, 정보를 얻었으니 일하고 봐야지.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>356</BIN><黑屏2><BGM>BGM_Empty</BGM>:......+베를린 교외 어딘가의 세이프하우스.
-KH2002(0)<Speaker>카이바르</Speaker>||<BGM>10213</BGM>:그 무기들은 훈작사에게 처리해 달라 하면 되지?
-()<Speaker>지휘관</Speaker>||:응, 부탁할게.
-()<Speaker></Speaker>||:카이바르가 씩씩하게 경례한 뒤 달려나갔다.+다만, 세이프하우스 안은 여전히 거북한 분위기가 감돌고 있었다. RO635를 필두로, 모두가 초조한 마음으로 침대 주위에 모여 아직도 깨어날 기미가 보이지 않는 M4A1를 지켜보았다.
-M16A1BOSS(2)<Speaker>M16A1</Speaker>||:다들 뭘 그렇게 긴장하냐?
-()<Speaker></Speaker>||:단 한 명, M16A1만 구석에 느긋하게 앉아있었다.
-AR15Mod(4)<Speaker>AR15</Speaker>||:...M4가 깨어나질 않잖아, 너야말로 왜 그래?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:언니! M4 언제 깨어나?
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:...정말 걔가 M4라 생각해?
-AR15Mod(5)<Speaker>AR15</Speaker>||:그게 무슨...
-()<Speaker></Speaker>||:M16A1이 탁상 위의 건빵 봉지를 뜯어 으적으적 씹어먹으면서 AR-15의 의문에 답했다.
-M16A1BOSS(3)<Speaker>M16A1</Speaker>||:너희가 M4를 걱정하고, 그리워하는 마음은 다 알아. 하지만 그렇다고 감정에 판단력을 흐리지 마.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:갠 M4가 아니야.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:어? 아, M16 언니는 아직 모르겠구나!+겉보기엔 니토긴 한데 내용물은 M4 맞아!
-M16A1BOSS(2)<Speaker>M16A1</Speaker>||:아니, 아니야... 최소한 우리가 찾는 "M4A1"은 아니지.+걘 M4이면서도 M4가 아니야.
-()<Speaker>지휘관</Speaker>||:그게 무슨 뜻이지?
-M16A1BOSS(2)<Speaker>M16A1</Speaker>||:문자 그대로의 뜻이야.
-AR15Mod(5)<Speaker>AR15</Speaker>||:그건 또 어떻게 아는데?
-M16A1BOSS(2)<Speaker>M16A1</Speaker>||:나도 M4를 찾아다녔거든. 너희가 상상하는 것보다 훨씬 오래. 그래서 이 정도쯤은 가볍게 분간할 수 있어. 지금 설명하긴 좀 번거롭지만.+그것보다, 지금 신경써야 할 건 저 여자를 어떻게 처리해야 할지 아닌가?
-()<Speaker>지휘관</Speaker>||:중요도는 둘 다 동등해.+몰리도는 내가 처리하겠어. 이젠 그녀에게서 정보를 얻어내야 할 필요성도 없고, 더는 기대도 안 하니.+M4는... 네 생각이 어떻든, 그녀는 우리의 일원, AR팀의 멤버야.
-M16A1BOSS(2)<Speaker>M16A1</Speaker>||:하하하... 지휘관은 진짜 하나도 안 변했구나.
-M16A1BOSS(2)<Speaker>지휘관</Speaker>||:그런데 M16, 정말 다시 합류하지 않을 거니?+여기 있는 우리 모두 널 기다렸어.+네가 돌아오면 기지의 모두도 환영해 줄 거야.
-M16A1BOSS(2)<Speaker>M16A1</Speaker>||:미안하지만 아직 안 내켜하는 사람이 한 명 있어서.
-()<Speaker>지휘관</Speaker>||:누구?
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:나.
-()<Speaker>지휘관</Speaker>||:......
-()<Speaker></Speaker>||:기지개를 켜듯 다리를 쭉 펴며 일어난 M16A1이 손에 묻은 건빵 부스러기를 툭툭 털어냈다.
-M16A1BOSS(5)<Speaker>M16A1</Speaker>||:또 바로 시무룩해지긴. 말했잖아, 당장 돌아갈 순 없지만, 당분간은 네 지시에 따르면서 행동하겠다.
-()<Speaker>지휘관</Speaker>||:당분간은 무슨 뜻이야?
-M16A1BOSS(5)<Speaker>M16A1</Speaker>||:...나도 결국엔 다시 떠나야 하거든.
-()<Speaker>지휘관</Speaker>||:......
-M16A1BOSS(5)<Speaker>M16A1</Speaker>||:이번에 이렇게 베를린에 온 건, 따로 "임무"가 있어서야.+그러니까, 추가 지시가 내려오기 전까진 지휘관과 함께할게.+반대로 내 임무 쪽에 진전이 생긴다든지 하면 바로 떠나야 하지만.
-()<Speaker>지휘관</Speaker>||:...그렇구나.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐삐삐.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:눈물 나는 대화 중에 끼어들어서 미안한데, 긴급 상황이야.
-UMP45Mod(0)<Speaker>지휘관</Speaker>||:무슨 일이지?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:J 요원이 정보를 보냈어.
-UMP45Mod(0)<Speaker>지휘관</Speaker>||:J가? 무슨 정보인데?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:보니까 좌표더라.
-UMP45Mod(0)<Speaker>지휘관</Speaker>||:위치는 파악했어?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:베를린 교외의 공장이었어. 기밀이라서 정보에 검열 쫙쫙 그이고 관계자 외 출입 금지인 타입.
-UMP45Mod(0)<Speaker>지휘관</Speaker>||:...또 패러데우스의 소굴인가 보군.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:J 요원도 거기가 엄청 중요한 곳 같다고 했어.+그런데 이번에 아예 정직 처분받아서 움직이기 더 어려워졌다는데, 뭘 어떡했는진 몰라도 거기서 만나자고 하더라.
-UMP45Mod(0)<Speaker>지휘관</Speaker>||:그렇군...
-()<Speaker>지휘관</Speaker>||:좋았어, 그럼 당장 움직이자. 우리가 할 일은 아직 끝나지 않았어.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>85</BIN><黑屏2><SE1>AVG_keyboardtype_sci</SE1>:어느 기지의 총지휘실. 카터는 사무 의자에 앉아 통신 채널을 테스트했다.
-NPC-Yegor(3)<Speaker>부관</Speaker>||:장군님...
-()<Speaker></Speaker>||:현재 상황과는 전혀 다르게 극도로 차분한 카터를 보며, 옆에 있던 부관이 참지 못하고 입을 열었다.
-NPC-Yegor(3)<Speaker>부관</Speaker>||:정말 하실 겁니까?
-NPC-Carter(1)<Speaker>카터</Speaker>||:두렵나, 부관?
-NPC-Yegor(3)<Speaker>부관</Speaker>||:물론 아닙니다. 하지만 왜 이래야만 하는지 이해를 못하겠습니다. 정말 그들과 손을 잡으실 겁니까?
-NPC-Carter(1)<Speaker>카터</Speaker>||:......
-()<Speaker></Speaker>||:통신 채널에 이상이 없음을 확인 카터는 이제 등받이에 몸을 기대고 깍지손을 꼈다.
-NPC-Carter(1)<Speaker>카터</Speaker>||:협력이란, 서로를 신뢰하고 돕고 도우는 것을 전제로 하지.+필요하다면, 누구나 아군이 될 수 있지.+조국의 위상을 되찾기 위해서, 이것도 필수불가결한 희생이다.
-NPC-Yegor(3)<Speaker>부관</Speaker>||:...예.
-NPC-Carter(1)<Speaker>카터</Speaker>||:"애국자"들은 준비됐나?
-()<Speaker>부하</Speaker>||:준비 완료되었다고 보고받았습니다.
-NPC-Carter(1)<Speaker>카터</Speaker>||:좋아.
-()<Speaker></Speaker>||:눈을 가늘게 뜨며, 그는 사무 탁상 위의 명단을 내려다봤다.
-NPC-Carter(1)<Speaker>카터</Speaker>||:우리의 친구는... 아주 위험한 정치가야. 합당한 가격만 제시한다면 어떤 물건이든 구해다 주지.+...하지만, 그런 그도 우리와 공통점이 있다네.
-NPC-Carter(1)<Speaker>카터</Speaker>||:자신의 조국을 사랑한다는 것.
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator>:패러데우스의 기지.
+()||<黑屏1>:
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||<BGM>GF_EV9_Story</BGM><黑屏2><BIN>323</BIN>:......
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:그레이는 한숨을 푹 쉬면서, 보고서를 탁상에 내려놓았다.
+NPC-MrsGray(3)<Speaker>그레이</Speaker>||:스승님이 두 번씩이나 패배하다니.
+NPC-grig(1)<Speaker>틸</Speaker>||:......
+()<Speaker></Speaker>||:틸은 그레이의 곁에서 조용히 서 있는 것이, 몰리도의 실패가 전혀 충격적이지 않은 모양이었다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:...무슨 생각인지 안단다, 귀염둥이 내 동생아.+하지만 이 실패는 패러데우스의 실패지, 나나 스승님 개인의 문제가 아니야.
+NPC-grig(1)<Speaker>틸</Speaker>||:...난 그저 네가 더 많은 걸 얻길 바란다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:그렇다니 고맙구나.
+()<Speaker></Speaker>||:그레이의 표정이 많이 부드러워졌다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:참을 줄 알아야 해, 틸.+무엇보다 우선인 건, 바로 아버님의 위업. 패러데우스의 미래를 위한 일을 절대 실패해선 안 된다는 거야.
+NPC-grig(1)<Speaker>틸</Speaker>||:...응.
+()<Speaker></Speaker>||:틸은 얌전히 고개를 끄덕이며 자세를 조금 낮췄다.
+NPC-grig(1)<Speaker>틸</Speaker>||:무기를 놈들에게 빼앗겼으니, 더욱 주도권을 잡기 어려워젔다.
+()<Speaker></Speaker>||:그레이는 고민 가득한 눈빛으로 끄덕이며 손가락으로 탁상을 두드렸다.
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:그래도... 우린 아직 비장의 수가 있잖니.+검사 결과는 어떻지?
+NPC-grig(1)<Speaker>틸</Speaker>||:소체를 분해해 검사한 결과 이상이 없었기에 다시 조립했다.+다만 마인드맵은 여전히 분석하지 못해, 안전을 위해 계속 독방에 감금하는 것이 좋다고 본다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:그렇게 샘내지 마렴.+그녀의 진심을 읽어내지 못한다면, 다시 한번 증명하라고 시키면 되는 일이야.
+NPC-grig(1)<Speaker>틸</Speaker>||:......+알았다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><BGM>BGM_Empty</BGM>:J의 집.
+()<Speaker>섀도리스</Speaker>||:<color=#00CCFF>――음 소식입니다. 갈라테아 그룹과 계약했던 한 납품업자가, 오늘 새벽 자택에서 숨진 채 발견되어 경찰이 수사에 나섰습니다. 사인은 총상으로――</color>
+NPC-Keven(5)<Speaker>J</Speaker>||:...칫.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:J가 짜증내며 텔레비전을 끄고 머리를 북북 긁었다.+저 빨간 두 눈동자가 똥그랗게 자신을 지켜보고 있으니, 뭘 해도 속이 타들어가기만 했다.
+NPC-Keven(5)<Speaker>J</Speaker>||:야! 너 언제까지 여기 있을 셈이야!?
+()<Speaker></Speaker>||<BGM>m_avg_casual</BGM>:결국 한계에 다다른 J가, 여태까지 의자에 앉아 자신을 뚫어져라 바라보던 그 인형에게 버럭 소리질렀다.
+SP9(0)<Speaker>모나</Speaker>||:국장님께서 당신의 일거수일투족을 감시하라 명령하셨습니다.+제 마인드맵이 수복된 지 아직 24시간도 지나지 않았으니, 일종의 재활 운동이라 보면 됩니다. J 요원의 양해를 바랍니다.
+NPC-Keven(4)<Speaker>J</Speaker>||:그렇다고 내 집까지 쳐들어와야 했냐!+너까지 먹일 밥 없어!
+SP9(0)<Speaker>모나</Speaker>||:제게 식사란 "불쾌한 골짜기 프로토콜"에 포함된 부가 기능에 지나지 않습니다.+음식을 섭취하지 않아도 제 기능엔 아무 영향 없으니 신경쓰지 마세요.
+NPC-Keven(5)<Speaker>J</Speaker>||:......
+()<Speaker></Speaker>||:정신이 나가버릴 듯 오만가지 표정을 다 짓던 J는 결국 포기했다.+그리고 소파를 박차고 일어났다.
+SP9(0)<Speaker>모나</Speaker>||:J 요원, 어디 갑니까?
+NPC-Keven(5)<Speaker>J</Speaker>||:화장실! 왜, 따라오게?
+SP9(0)<Speaker>모나</Speaker>||:알겠습니다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:모나가 덩달아 자리에서 일어나며 고개를 끄덕였다.
+NPC-Keven(4)<Speaker>J</Speaker>||:진짜 들어오려고?!
+SP9(0)<Speaker>모나</Speaker>||:문 앞에서 기다리겠습니다.
+NPC-Keven(5)<Speaker>J</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:인상을 팍팍 구긴 J는 "경호"를 받으며 화장실로 들어가, 모나의 눈앞에서 문을 쾅 닫았다.
+()<Speaker></Speaker>||:모나는 눈 하나 깜짝 않고 주위를 둘러보다 찾은 작은 의자를 가져와 화장실 앞에 앉았다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>9</BIN>:......
+NPC-Keven(5)<Speaker>J</Speaker>||:저 녀석 머리가 덜 고쳐진 게 분명해...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:계속 툴툴거리며, J는 변기의 뚜껑을 닫고 앉아 옷 속에 숨겨 뒀던 통신기를 꺼냈다.
+NPC-Keven(0)<Speaker>J</Speaker>||:흥, 이대로 끝이라 생각하면 큰 오산이지.
+()<Speaker></Speaker>||:그리폰의 지휘관이, 그 무기들이 옮겨지는 것을 막아냈다는 소식을 들었다.
+NPC-Keven(5)<Speaker>J</Speaker>||:그 여자... 이걸로 일을 대충 마무리할 생각이겠지?+십중팔구 이 일에 정계의 거물급 인사가 연루되어 있으니까 그렇게 덮으려고 애를 쓰는 거겠지. 하지만 그렇다고 내가 이대로 관둘 거 같아?
+()<Speaker></Speaker>||:무엇을 어찌 할지 결심한 J는 통신기로 자신이 아주 잘 기억하는 번호를 눌렀다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삑.+통신 연결.
+NPC-Nele(2)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>J 씨?</color>
+()<Speaker></Speaker>||:그의 수중의 마지막 카드였다.+어떻게든 넬레를 통해, 갈라테아에 대해 더 많은 정보를 얻어내야 한다.
+NPC-Nele(0)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>마침 잘됐네요, 안 그래도 연락하려던 참인데.</color>
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(0)||:음? 무슨 일입니까?
+NPC-Keven(0);NPC-Nele(3)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>그 "움루스"란 사람, 당신이 죽였어요?</color>
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(3)||:...당연히 아니죠. 다만 그가 죽을 때 현장에는 있었습니다.
+NPC-Keven(0);NPC-Nele(0)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>...J 씨, 당신은 슈타지 요원이고, 당신에 대한 인상은 처음부터 꽝이었으니까 굳이 그런 거 안 숨겨도 돼요.</color>
+NPC-Keven(4)<Speaker>J</Speaker>||:아니 이 여자가 진짜, 제가 한 거 아니라니까요!!
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:똑똑똑.
+()<Speaker>모나</Speaker>||:J요원, 무슨 일입니까?
+NPC-Keven(4)<Speaker>J</Speaker>||:볼일이지 무슨 일이긴! 볼일 보는데 혼잣말하는 게 그렇게 신경 쓰여?
+()<Speaker>모나</Speaker>||:...알겠습니다.
+NPC-Nele(2)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>지금 누구랑 데이트 중이에요? 그럼 이따가 다시 연락할게요.</color>
+NPC-Keven(0)<Speaker>J</Speaker>||:아니, 기달, 기다려요!
+()<Speaker></Speaker>||:J가 목소리를 낮췄다.
+NPC-Keven(5)<Speaker>J</Speaker>||:넬레 씨한테 부탁할 아주 중요한 일이 생겨서 말입니다.+좀 더 자세히 조사를――
+NPC-Keven(5);NPC-Nele(0)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>벌써 했어요.</color>
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(0)||:어... 뭘 조사해 달라고 말 안 했는데요?
+NPC-Keven(0);NPC-Nele(0)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>그 "움루스"란 사람에 관해서, 더 많이 알아냈다고요..</color>
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(0)||:...네?
+NPC-Keven(0);NPC-Nele(1)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>더 높은 권한을 가진 사람의 카드를 좀 "빌려서" 다시 자료를 찾아봤어요.</color>+<color=#00CCFF>데이터베이스에 운송 목적지는 안 나왔지만, 그래도 무슨 좌표가 있었어요. 무슨 공장 같은데, 중요해 보이니까 한번 조사해보세요.</color>
+NPC-Keven(0)<Speaker>J</Speaker>||:와우... 벌써 요령이 생겼나 봅니다?
+()<Speaker></Speaker>||:J는 흥분에 목소리가 높아질 뻔했다.
+NPC-Nele(1)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>이둔에 관해서도 어떻게든 더 알아내볼게요.</color>+<color=#00CCFF>그리고... 저기요, 그... 그때, 당신의 충고를 무시해서 미안해요.</color>
+()<Speaker></Speaker>||:넬레의 목소리가 평소와 좀 달랐다.
+NPC-Keven(0)<Speaker>J</Speaker>||:하하, 당신이 그렇게 말하니 좀 어색하네요.
+NPC-Keven(0);NPC-Nele(1)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>......</color>
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(1)||:...무슨 일 있었습니까?
+NPC-Keven(5);NPC-Nele(1)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>...일이 마무리되면 시간 내서 얘기해 줄게요.</color>
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(1)||:우물쭈물하다니 넬레 씨 답지 않은데요.
+NPC-Nele(3)<Speaker>넬레</Speaker><通讯框>||:<color=#00CCFF>......</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:말이 없던 통신기 너머의 넬레가 먼저 전화를 끊었다.
+NPC-Keven(0)<Speaker>J</Speaker>||:......오늘은 진짜 여자하고 원수지는 날인가 봐.+아아아 몰라, 정보를 얻었으니 일하고 봐야지.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>356</BIN><黑屏2><BGM>BGM_Empty</BGM>:......+베를린 교외 어딘가의 세이프하우스.
+KH2002(0)<Speaker>카이바르</Speaker>||<BGM>10213</BGM>:그 무기들은 훈작사에게 처리해 달라 하면 되지?
+()<Speaker>지휘관</Speaker>||:응, 부탁할게.
+()<Speaker></Speaker>||:카이바르가 씩씩하게 경례한 뒤 달려나갔다.+다만, 세이프하우스 안은 여전히 거북한 분위기가 감돌고 있었다. RO635를 필두로, 모두가 초조한 마음으로 침대 주위에 모여 아직도 깨어날 기미가 보이지 않는 M4A1를 지켜보았다.
+M16A1BOSS(2)<Speaker>M16A1</Speaker>||:다들 뭘 그렇게 긴장하냐?
+()<Speaker></Speaker>||:단 한 명, M16A1만 구석에 느긋하게 앉아있었다.
+AR15Mod(4)<Speaker>AR15</Speaker>||:...M4가 깨어나질 않잖아, 너야말로 왜 그래?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:언니! M4 언제 깨어나?
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:...정말 걔가 M4라 생각해?
+AR15Mod(5)<Speaker>AR15</Speaker>||:그게 무슨...
+()<Speaker></Speaker>||:M16A1이 탁상 위의 건빵 봉지를 뜯어 으적으적 씹어먹으면서 AR-15의 의문에 답했다.
+M16A1BOSS(3)<Speaker>M16A1</Speaker>||:너희가 M4를 걱정하고, 그리워하는 마음은 다 알아. 하지만 그렇다고 감정에 판단력을 흐리지 마.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:갠 M4가 아니야.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:어? 아, M16 언니는 아직 모르겠구나!+겉보기엔 니토긴 한데 내용물은 M4 맞아!
+M16A1BOSS(2)<Speaker>M16A1</Speaker>||:아니, 아니야... 최소한 우리가 찾는 "M4A1"은 아니지.+걘 M4이면서도 M4가 아니야.
+()<Speaker>지휘관</Speaker>||:그게 무슨 뜻이지?
+M16A1BOSS(2)<Speaker>M16A1</Speaker>||:문자 그대로의 뜻이야.
+AR15Mod(5)<Speaker>AR15</Speaker>||:그건 또 어떻게 아는데?
+M16A1BOSS(2)<Speaker>M16A1</Speaker>||:나도 M4를 찾아다녔거든. 너희가 상상하는 것보다 훨씬 오래. 그래서 이 정도쯤은 가볍게 분간할 수 있어. 지금 설명하긴 좀 번거롭지만.+그것보다, 지금 신경써야 할 건 저 여자를 어떻게 처리해야 할지 아닌가?
+()<Speaker>지휘관</Speaker>||:중요도는 둘 다 동등해.+몰리도는 내가 처리하겠어. 이젠 그녀에게서 정보를 얻어내야 할 필요성도 없고, 더는 기대도 안 하니.+M4는... 네 생각이 어떻든, 그녀는 우리의 일원, AR팀의 멤버야.
+M16A1BOSS(2)<Speaker>M16A1</Speaker>||:하하하... 지휘관은 진짜 하나도 안 변했구나.
+M16A1BOSS(2)<Speaker>지휘관</Speaker>||:그런데 M16, 정말 다시 합류하지 않을 거니?+여기 있는 우리 모두 널 기다렸어.+네가 돌아오면 기지의 모두도 환영해 줄 거야.
+M16A1BOSS(2)<Speaker>M16A1</Speaker>||:미안하지만 아직 안 내켜하는 사람이 한 명 있어서.
+()<Speaker>지휘관</Speaker>||:누구?
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:나.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:기지개를 켜듯 다리를 쭉 펴며 일어난 M16A1이 손에 묻은 건빵 부스러기를 툭툭 털어냈다.
+M16A1BOSS(5)<Speaker>M16A1</Speaker>||:또 바로 시무룩해지긴. 말했잖아, 당장 돌아갈 순 없지만, 당분간은 네 지시에 따르면서 행동하겠다.
+()<Speaker>지휘관</Speaker>||:당분간은 무슨 뜻이야?
+M16A1BOSS(5)<Speaker>M16A1</Speaker>||:...나도 결국엔 다시 떠나야 하거든.
+()<Speaker>지휘관</Speaker>||:......
+M16A1BOSS(5)<Speaker>M16A1</Speaker>||:이번에 이렇게 베를린에 온 건, 따로 "임무"가 있어서야.+그러니까, 추가 지시가 내려오기 전까진 지휘관과 함께할게.+반대로 내 임무 쪽에 진전이 생긴다든지 하면 바로 떠나야 하지만.
+()<Speaker>지휘관</Speaker>||:...그렇구나.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐삐삐.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:눈물 나는 대화 중에 끼어들어서 미안한데, 긴급 상황이야.
+UMP45Mod(0)<Speaker>지휘관</Speaker>||:무슨 일이지?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:J 요원이 정보를 보냈어.
+UMP45Mod(0)<Speaker>지휘관</Speaker>||:J가? 무슨 정보인데?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:보니까 좌표더라.
+UMP45Mod(0)<Speaker>지휘관</Speaker>||:위치는 파악했어?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:베를린 교외의 공장이었어. 기밀이라서 정보에 검열 쫙쫙 그이고 관계자 외 출입 금지인 타입.
+UMP45Mod(0)<Speaker>지휘관</Speaker>||:...또 패러데우스의 소굴인가 보군.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:J 요원도 거기가 엄청 중요한 곳 같다고 했어.+그런데 이번에 아예 정직 처분받아서 움직이기 더 어려워졌다는데, 뭘 어떡했는진 몰라도 거기서 만나자고 하더라.
+UMP45Mod(0)<Speaker>지휘관</Speaker>||:그렇군...
+()<Speaker>지휘관</Speaker>||:좋았어, 그럼 당장 움직이자. 우리가 할 일은 아직 끝나지 않았어.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>85</BIN><黑屏2><SE1>AVG_keyboardtype_sci</SE1>:어느 기지의 총지휘실. 카터는 사무 의자에 앉아 통신 채널을 테스트했다.
+NPC-Yegor(3)<Speaker>부관</Speaker>||:장군님...
+()<Speaker></Speaker>||:현재 상황과는 전혀 다르게 극도로 차분한 카터를 보며, 옆에 있던 부관이 참지 못하고 입을 열었다.
+NPC-Yegor(3)<Speaker>부관</Speaker>||:정말 하실 겁니까?
+NPC-Carter(1)<Speaker>카터</Speaker>||:두렵나, 부관?
+NPC-Yegor(3)<Speaker>부관</Speaker>||:물론 아닙니다. 하지만 왜 이래야만 하는지 이해를 못하겠습니다. 정말 그들과 손을 잡으실 겁니까?
+NPC-Carter(1)<Speaker>카터</Speaker>||:......
+()<Speaker></Speaker>||:통신 채널에 이상이 없음을 확인 카터는 이제 등받이에 몸을 기대고 깍지손을 꼈다.
+NPC-Carter(1)<Speaker>카터</Speaker>||:협력이란, 서로를 신뢰하고 돕고 도우는 것을 전제로 하지.+필요하다면, 누구나 아군이 될 수 있지.+조국의 위상을 되찾기 위해서, 이것도 필수불가결한 희생이다.
+NPC-Yegor(3)<Speaker>부관</Speaker>||:...예.
+NPC-Carter(1)<Speaker>카터</Speaker>||:"애국자"들은 준비됐나?
+()<Speaker>부하</Speaker>||:준비 완료되었다고 보고받았습니다.
+NPC-Carter(1)<Speaker>카터</Speaker>||:좋아.
+()<Speaker></Speaker>||:눈을 가늘게 뜨며, 그는 사무 탁상 위의 명단을 내려다봤다.
+NPC-Carter(1)<Speaker>카터</Speaker>||:우리의 친구는... 아주 위험한 정치가야. 합당한 가격만 제시한다면 어떤 물건이든 구해다 주지.+...하지만, 그런 그도 우리와 공통점이 있다네.
+NPC-Carter(1)<Speaker>카터</Speaker>||:자신의 조국을 사랑한다는 것.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:

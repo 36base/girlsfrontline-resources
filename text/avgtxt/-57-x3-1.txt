@@ -1,0 +1,14 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>582</BIN><narrator>:나이트 카페와 같은 무대에 서는 일에 사키는 흥분을 주체하지 못하고 동이 트기도 전에 저택을 나섰다.
+()||<BGM>BGM_Saga_AVG_Day</BGM><narrator>:당신이 아침 식사를 마치고 상황을 살피러 치킨집에 오니 점장은 사키가 아직도 알바 자리에 나오지 않았다고 얘기했다.
+()||<SE1>AVG_Moto_Run</SE1><narrator>:그 말에 당신이 식겁하고 어떻게 해야 할지 망설이던 그때, 사키가 상태가 엉망진창인 바이크를 끌고 치킨집 앞에 도착했다.
+NPC-Saki(1)<Position>0,-190</Position><Scale>1.4</Scale><Speaker></Speaker>||:알고보니 사키는 흥분에 미쳐 너무 일찍 나갔다가 그냥 드라이빙으로 흥분을 해소하려 했었는데...
+NPC-Saki(4)<Position>0,-190</Position><Scale>1.4</Scale><Speaker></Speaker>||<SE1>AVG_Wonder</SE1>:갑자기 도로에 야생동물이 나타나 급하게 피하려다 그대로 넘어진 것이었다.
+NPC-Saki(4)<Position>0,-190</Position><Scale>1.4</Scale><同时置暗><Speaker></Speaker>||:점장은 사키를 걱정하며 오늘은 쉬어도 된다고 말했지만, 사키는 절대 결근은 없다면서 단지 당신에게 한 가지 부탁이 있다고 말했다.
+NPC-Saki(7)<Position>0,-190</Position><Scale>1.4</Scale><Speaker></Speaker>||:사키가 알바 시간에 늦은 이유는 전복할 때 완장을 잃어버렸고, 한참을 찾았지만 찾아내지 못해 먼저 출근하러 온 것이었다.
+()||<黑点1><narrator>:그 완장의 중요성을 아는 당신은 바로 대신 찾아주겠다 승낙하고 사키의 사고 장소에 갔다...
+()||<BIN>9</BIN><黑点2><narrator>:하지만 오후가 돼서도 찾아내질 못했다.
+()||<黑点1>:......
+NPC-Saki(0)<Position>0,-190</Position><Scale>1.4</Scale><Speaker></Speaker>||<黑点2><BIN>582</BIN>:결국 당신은 풀이 죽은 채 치킨집에 돌아와 사키한테 어떻게 사과할지 고민하던 중, 요상하게 살갑게 구는 사키의 대접을 받았다.
+NPC-Saki(4)<Position>0,-190</Position><Scale>1.4</Scale><Speaker></Speaker>||<SE1>AVG_Awkward</SE1>:이상한 낌새를 느낀 당신은 추궁으로 사키가 그 완장을 어제 작업복에 단 채로 치킨집 휴식실에 깜빡했다는 것을 알게 됐다.
+()||<黑点1>:

@@ -1,0 +1,70 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>168</BIN><BGM>BGM_Wake</BGM>:바르샤바 교외.+로시타는 잠들었다. 조그마한 머리를 폴의 다리에 기대고서 깊은 잠에 빠졌다.+폴은 사실 조금 당황스러웠다. 하지만 당장은 꼼짝도 못하니, 그저 가만히 있기로 했다.+이런 쪽으론 지식이 없는 폴이 봐도 로시타의 몸은 영양실조가 심각해 보였다. 비쩍 마르고 가늘어서, 자신이 살짝 움직이기만 해도 바람에 날아가도 이상하지 않을 것 같았다.
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||:이 자국들은 대체 뭘까?+다른 인간한테선 본 적 없는데...
+()||:로시타의 팔에 난 이상한 자국들을 뚫어져라 쳐다보는 폴은 불길한 예감이 들었다.
+()||<SE1>AVG_whitenoise</SE1>:그래서 자신에게 내장된 간단한 검색 엔진을 켜, 자국의 특징을 검색했다.+답은 의외로 몇 초만에 얻었다.
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||:광역성 저복사 감염증, 통칭 ELID.
+()||<黑屏1>:폴은 시베리아 황무지에서 일할 적 인간 감독들에게서 들은 말이 떠올랐다.
+()<Speaker>인간 감독</Speaker>||<黑屏2><BIN>9</BIN><回忆>:내가 여기서 왜 내려? 여긴 너네 같은 쇳덩어리나 멀쩡하게 돌아다닐 수 있다고. 인간은 나가면 바로 ELID가 돼!
+()<Speaker>인간 감독</Speaker>||<黑屏1>:그렇게 되면 집에 돌아가긴커녕 열차 도로 타지도 못해!
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||<关闭蒙版><黑屏2><BIN>168</BIN>:......+아무래도 인간에게 이건 감염성이 엄청나고 매우 위험한 질병 같다.
+NPC-TD_Worker(1)<同时置暗><Speaker></Speaker>||:이런 몸으로 새근새근 잠든 로시타를 보는 폴은 마음이 아팠다. 유리 덮개가 벗겨져 잎이 벌레에 먹힌 가여운 장미가 떠올랐다.+로시타에게 무언가 해 주고 싶어졌다.+마침내 "장미"의 존재를 느끼게 해 준, 처음이자 마지막일지도 모를 인간이니까.
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||:"갈라테아 그룹이 ELID 치료용 신약 '이둔'을 개발했다. 파격적으로 저렴한 가격에 효과는 몇 배나..."+"갈라테아 그룹 산하 신약 개발 실험실이 봉쇄당하다..."
+NPC-TD_Worker(1)<同时置暗><Speaker></Speaker>||:ELID 환자와 관련된 기사들이 그의 눈 속에서 빠르게 지나갔고, 하나 하나 읽을 때마다 그의 마음은 롤러코스터처럼 오르락내리락했다.
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||:베를린에 간다면 병을 고칠 희망을 찾을지 모른다.+인간은 몸이 손상되면 어떻게 고치지? 인간 전용 오일이 있는 걸까?+이 이둔이 병을 치료할 희망인 걸까?
+()||:폴은 마인드맵에 자신의 생각을 기록해 두며, 로시타를 베를린으로 데려가 병을 고친 다음 브레멘에 있다는 버얼 고아원을 찾기로 결정했다.
+NPC-SickGirl(1)<Speaker>로시타</Speaker>||:폴...
+NPC-SickGirl(2)<Speaker>로시타</Speaker>||:나... 집에 돌아가는 꿈 꿨어...
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||:응, 내가 널 집에 데려다 줄게.
+()||<SE1>ClothingUp</SE1>:로시타는 잠에서 덜 깨 눈을 비비며 천천히 몸을 일으켰다.
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||:베를린으로 간 다음, 거기서 브레멘으로 가자.
+NPC-SickGirl(2)<Speaker>로시타</Speaker>||:하지만 난 돈이 없는걸...
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||:괜찮아. 나한테 모아둔 돈이 조금 있어.
+()||:폴은 634호가 준, 돌멩이가 가득한 주머니를 바라봤다.+바르샤바로 오면서 알게 된 사실로, 이것은 "사르디스 골드"라는 이름의 금괴 조각이었다. 듣기로는 인간 사회의 통용 화폐 중 하나라고 한다.+이 만큼으로 로시타를 브레멘으로 데려가기에 충분할지는 알 수 없었지만, 폴은 일단 해보기로 마음먹었다.
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||:내가 열차에서 브로커를 만났는데, 그녀에게 어떡하면 표를 살 수 있을지 물어볼게.
+NPC-SickGirl(0)<Speaker>로시타</Speaker>||<黑屏1>:응! 폴 말대로 할게.
+()||<黑屏2><BIN>356</BIN><BGM>BGM_Empty</BGM><SE1>AVG_20Winter_Chains_Break</SE1>:몇 시간 후, 폴은 임시 거처로 삼은 버려진 오두막에 무거운 마음으로 돌아왔다.+그의 발소리를 들은 로시타는 소리가 난 방향으로 고개를 돌려 그를 반겼다.
+NPC-SickGirl(0)<Speaker>로시타</Speaker>||:어서 와 폴.
+NPC-TD_Worker(1)<Speaker>폴</Speaker>;NPC-SickGirl(0)||:......
+NPC-SickGirl(0)<Speaker>로시타</Speaker>||:...무슨 일 있었어?
+()||:어린아이 키만 한 커다란 짐가방을 끌고 온 폴은 한참 동안 말이 없었다.+로시타에게, 그녀는 병에 걸려서 열차에 탈 수 없으니 이 짐가방에 숨어서 타야 한다고, 어떻게 잘 설명할 수 있을까?+폴은 로시타의 초점은 없어도 맑은 눈동자를 보다가, 결국 거짓말을 하기로 했다.
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||<BGM>GF_21winter_avg_mahaline</BGM>:미안해 로시타, 내가 가진 돈으로는 탑승권을 한 장밖에 구할 수 없었어. 많이 힘들겠지만, 이 짐가방에 숨어서...
+NPC-SickGirl(0)<Speaker>로시타</Speaker>||:괜찮아, 집에 갈 수만 있다면 힘들어도 괜찮아!
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||:...응, 그럼 크기가 맞나 재 보자.
+()||<SE1>AVG_Zipper</SE1><SE1>ClothingUp</SE1>:폴은 구해 온 짐가방을 열어, 바닥에 놓고 조심조심 로시타를 안아 속에 넣어보았다.+폴이 확인차 짐가방을 닫을 때, 로시타가 키득키득 웃는 소리가 들렸다.
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||:왜 그래?
+NPC-TD_Worker(1);NPC-SickGirl(0)<Speaker>로시타</Speaker>||:고아원에 있을 때가 생각났어. 그때도 이런 곳에 숨어서 걔가 날 찾아오길 기다렸거든...
+NPC-TD_Worker(1)<Speaker>폴</Speaker>；NPC-SickGirl(0)||:......
+NPC-TD_Worker(1);NPC-SickGirl(0)<Speaker>로시타</Speaker>||:폴, 나 이야기 들려 줘. 폴이 책 읽는 소리 많이 들었어.+폴이 읽는 책의 이야기를 들려 줘.
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||:알았어.
+()||<SE1>AVG_20Winter_Chains_Break</SE1>:폴은 짐가방 옆에 앉았고, 로시타는 짐가방 속에 편하게 웅크렸다.
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||<SE1>AVG_20Winter_Book</SE1>:옛날옛적에, 다른 별에 사는 어린 왕자가 있었어. 어린 왕자가 사는 별은 엄청 작았는데, 우리가 사는 지구보다 훨씬 작았지.+그 별에 사는 건 어린 왕자랑 장미꽃 한 송이뿐이었어.
+NPC-TD_Worker(1);NPC-SickGirl(0)<Speaker>로시타</Speaker>||:장미꽃?
+NPC-TD_Worker(1)<Speaker>폴</Speaker>；NPC-SickGirl(0)||:그래. 장미꽃은 이상한 녀석이야, 연약하고 가녀려서 유리 덮개가 지켜 줘야만 살 수 있었어.+게다가 자기 몸을 지키려고 온몸에 가시를 키웠는데, 제일 친한 어린 왕자까지 자꾸 찔렀어.+결국 어린 왕자는 참지 못하고 그 별을 떠나서, 다른 세상을 보러 가기로 했어.
+NPC-TD_Worker(1);NPC-SickGirl(2)<Speaker>로시타</Speaker>||:...일부러 그런 건 아닐 텐데.
+NPC-TD_Worker(1)<Speaker>폴</Speaker>；NPC-SickGirl(2)||:나도 그렇게 생각해.+어린 왕자는 별을 떠나 다양한 일을 겪고 나서야 깨달았어. 연약한 장미는 단지 그를 꼭 껴안고 싶어했다는 걸.+하지만 살아남기 위해 온몸에 키운 가시를 자신도 어쩌지 못해서 상대를 다치게 한 거였어.
+NPC-TD_Worker(1);NPC-SickGirl(0)<Speaker>로시타</Speaker>||:그래서? 어린 왕자랑 장미꽃은 화해했어?
+NPC-TD_Worker(1)<Speaker>폴</Speaker>；NPC-SickGirl(0)||:그후로, 어린 왕자는 밤하늘을 올려다볼 때면 모든 별이 장미꽃처럼 보였대.+하나뿐인 그의 장미꽃처럼.
+NPC-SickGirl(1)<Speaker>로시타</Speaker>||:......
+()||<SE1>AVG_Cloak_Whoosh</SE1>:로시타가 잠든 것을 본 폴은 그녀에게 담요를 덮어 주었다.
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||:어떤 사람이 나한테, 이 세상은 이미 연약한 장미는 살아남을 수 없게 됐다고 했어.+하지만 난 널 찾아냈어. 넌 아직 너무 어려서, 스스로를 지킬 가시조차 키우지 못했을 뿐이야.
+NPC-TD_Worker(1)<同时置暗><Speaker>로시타</Speaker>||:......
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||:네가 쑥쑥 자라나는 모습을 보고 싶어. 하지만 가시는 안 키워도 돼. 그럼 상대를 다치게 할 걱정 없이 사랑하는 사람을 껴안을 수 있을 테니까.+그때가 되면, 난 회수처리장에서 폐기 처분을 받을 때 분명 밤하늘에서 장미를 잔뜩 볼 수 있겠지.
+()||<黑屏1>:폴은 곤히 잠든 로시타의 얼굴을 보며, 밤하늘에 장미꽃이 한가득 피어난 광경을 상상했다.
+()||<黑屏2><BGM>BGM_Empty</BGM><BIN>531</BIN><Night>:며칠 후, 대륙간 열차 "미래호"의 일반석 차량.
+()||<SE1>AVG_Train_Crash</SE1><震屏3>:콰아앙!!!+엄청난 충격에 짐가방이 선반에서 굴러떨어졌고, 가방이 활짝 열려 로시타가 튕겨져 나왔다.
+NPC-TD_Worker(2)<Speaker>폴</Speaker><Shake>0.1</Shake>||:<size=50>로시타!!</size>
+NPC-SickGirl(2)<Speaker>로시타</Speaker>||:폴...!
+()||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_lifttable</SE1><BGM>BGM_Sad</BGM>:뒤집히며 구르는 열차칸 속에서, 폴은 다급하게 로시타를 붙잡으려 했다.+그녀가 또 다시 유리 덮개에서 튕겨져 나와, 이 위험천만한 세상을 뒹굴게 둘 수 없었다.
+()||<SE1>AVG_20Winter_Chains_Break</SE1><SE1>RunStep</SE1>:열차가 다시 잠잠해지자마자, 폴은 곧장 로시타에게 달려갔다.
+NPC-SickGirl(2)<Speaker>로시타</Speaker>||:폴... 난 괜찮아...
+()<Speaker>인형A</Speaker>||:세상에, 저것 봐! 감염자가 있었어!
+()<Speaker>인형B</Speaker>||:어쩐지 왜 정화 장치가 계속 경보를 울리나 했다... 얼른 쫓아내야――
+NPC-TD_Worker(2)<Speaker>폴</Speaker><Shake>0.1</Shake>||:<size=50>건들지 마!</size>
+()||<SE1>AVG_20Winter_Knife_Whoosh</SE1><震屏3>:부웅! 부웅!+어째선지 모를 용기가 마음 속에서 활활 타올라, 폴은 스패너를 마구 휘둘렀다.
+()<Speaker>인형C</Speaker>||:저거 미친 거 아니야?!
+NPC-TD_Worker(2)<Speaker>폴</Speaker><Shake>0.1</Shake>||:<size=50>아무도 이 아이를 건들 생각 마!</size>
+()||<SE1>AVG_20Winter_Knife_Whoosh</SE1><震屏3><黑屏1>:언제나 침착하고 상냥하던 폴이, 모여드는 인간과 인형들에게 고함을 질러댔다. 그가 쥐고 휘두르는 스패너는 지금 이 순간 만큼은 철로를 수리하던 도구가 아니라 악귀를 토벌하는 보검이 되었다.
+()||<黑屏2><BIN>9</BIN>:"다른 장미는 대신할 수 없는 완벽한 장미꽃 한 송이."+"그녀가 없었다면, 나는 희망이 무엇인지 영원히 알지 못했을 것이다."
+()||:그가 지켜내려는 것은 그가 찾아낸 천사, 다신 없을 한 송이 장미꽃이었다.+그는 로시타를 위해 맞서 싸웠다.
+()||<黑屏1>:

@@ -1,176 +1,176 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>229</BIN><Night><BGM>BGM_Danger</BGM><SE1>RunStep</SE1><黑屏2><SE2>Gunfight</SE2>:점점 멀어지는 총격음을 뒤로하고, 지휘관과 댄들라이는 AR팀의 경호를 받으며 미로 같은 공장의 출구를 향해 나아갔다.
-()<Speaker>지휘관</Speaker>||:......
-RO635Mod(2)<Speaker>RO635</Speaker>||:...지휘관님.
-()<Speaker>지휘관</Speaker>||:미안하다 RO, 나 때문에 시간을 너무 지체했어.
-RO635Mod(0)<Speaker>RO635</Speaker>||:아뇨, 그래야 지휘관님다우신데요.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:이 주변의 지형은 변동이 너무 심합니다, 위로 향하는 길이 보이지 않네요.
-()<Speaker>지휘관</Speaker>||:제기랄, 이대로 길을 못 찾으면 그리폰 소대의 희생이 무의미해져...
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:아예 그냥 천장을 펑~ 하고 박살내면 안 돼?
-AR15Mod(4)<Speaker>AR15</Speaker>||:당연히 안 되지 이 바보야! 저 위에 뭐가 있는지 누가 알아?!+그리고 위의 지반이 무너져서 길이 막히기라도 하면 어쩌려고!
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:그리고 지금 우리에겐 이렇게 단단한 벽을 파괴할 정도의 폭발물도 없어.
-()<Speaker>지휘관</Speaker>||:아무튼 움직이자, 꾸물거리다간 추격해 오는 놈들에게 따라잡혀서... 전멸하고 말 거야.
-()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:지휘관이 분을 이기지 못하고 복도의 벽을 주먹으로 쳤다.
-()<Speaker>지휘관</Speaker>||:제기랄!
-()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1><BGM>BGM_Empty</BGM>:......똑똑똑.+그에 대답하기라도 하듯, 벽 너머에서 가볍게 두드리는 소리가 들려왔다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:——누구냐!
-()<Speaker>？？？</Speaker>||:...AR-15 씨? 로빈? 거기 로빈이에요?!+제 목소리가 들리세요!?
-()<Speaker>지휘관</Speaker>||:......
-RO635Mod(3)<Speaker>RO635</Speaker>||:마흐리안?
-AR15Mod(4)<Speaker>AR15</Speaker>||<SE1>AVG_weapon_reload</SE1><BGM>BGM_Room</BGM>:치잇.
-()<Speaker></Speaker>||:AR-15는 곧장 노리쇠를 당겼다.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:AR-15, 기다려.
-AR15Mod(5)<Speaker>AR15</Speaker>||:기다리긴 뭘 기다려! 넌 아직도 저년을 믿어?+내 장담하는데, 페로사도 저년한테 속았단 말이야!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:응? 네가 그걸 어떻게 알아?
-AR15Mod(5)<Speaker>AR15</Speaker>||:그냥 알아, 증거도 있어!
-()<Speaker>지휘관</Speaker>||:증거...? 무슨 증――
-()<Speaker>마흐리안</Speaker>||<SE1>AVG_doorknock_wood</SE1>:로빈! 로빈!
-()<Speaker></Speaker>||:다급하게 벽을 두드리는 마흐리안의 목소리가 지휘관의 사고를 정지시켰다.+지휘관은 잠시 침묵하다, 벽을 두드리고 대답했다.
-()<Speaker>지휘관</Speaker>||<SE1>AVG_doorknock_wood</SE1>:마흐리안, 지금 어디 있지?
-()<Speaker>마흐리안</Speaker>||:내부 통로에 있어요!+제 목소리를 따라 오세요!
-RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님...?
-()<Speaker>지휘관</Speaker>||:RO, 가서 살펴봐.
-RO635Mod(0)<Speaker>RO635</Speaker>||:네.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:RO635가 고개를 끄덕이고, 마흐리안의 목소리가 나는 방향을 따라 벽에 붙은 채로 천천히 움직였다.
-()<Speaker>마흐리안</Speaker>||:네... 여기에요.+이쪽 벽에 비밀문이 있어요. 스위치가 있을 텐데, 그걸 15초 정도 누르면 열릴 거예요.+출구는 이쪽이니, 문을 열고 오세요. 제가 출구로 안내해드릴게요.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:보이면 바로 기절시킬까?
-()<Speaker>지휘관</Speaker>||:함부로 움직이지 마.+나도 생각이 있어. 먼저 뭐라 하는지부터 들어보자.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Prison_Door</SE1>:벽면을 더듬던 RO635가 비밀문의 스위치를 찾았고, 잠시 지그시 누르자 정말 눈앞의 벽이 스르륵 열렸다.+RO635가 경계하며 먼저 들어가 살피니, 텅 빈 비밀 통로 안에 실험용기 몇 개를 품에 안은 마흐리안이 홀로 벽에 기대고 있었다.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:로빈...!
-()<Speaker></Speaker>||:그녀는 매우 허약해 보였다. 힘없이 축 처진 팔은 더는 피가 나질 않았지만 그 출혈이 얼마나 심각했는지 한눈에 알 수 있었다.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:...혈청입니다.
-()<Speaker></Speaker>||:그녀 품에 들린 물건을 보고, 댄들라이가 지휘관에게 속삭였다.
-()<Speaker>지휘관</Speaker>||:마흐리안, 여기까지 어떻게 왔지?
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:여긴... 제 기억과 많이 달라지지 않았어요... 채혈 기계에 이상한 장치가 생겼지만요...+제가 기억하는 길에 숨어, 저들의 눈을 피해서...+하지만 여러분을 찾지 못해서, 계속 위로 달렸어요... 그러다 여기에...
-AR15Mod(5)<Speaker>AR15</Speaker>||:우리가 그딴 소릴 믿을 거 같아? 말을 지어내도 좀 더 성의 있게 하지?
-NPC-Machlian(7)<Speaker>마흐리안</Speaker>||:거짓말이 아니에요, 부탁해요... 로빈...
-()<Speaker></Speaker>||:마흐리안은 도움을 요청하는 눈으로 지휘관을 바라봤다.+그녀는 말하면서도 숨을 거칠게 몰아쉬는 것이, 허약한 모습이 연기 같지는 않았다. 오히려, 벽에라도 기대지 않으면 바로 쓰러질 것만 같았다.
-AR15Mod(4)<Speaker>AR15</Speaker>||:너무 설득력 없단 생각 안 들어?
-RO635Mod(0)<Speaker>RO635</Speaker>||:우린 당신 때문에 곤경에 처했습니다. 그리폰 소대는 지금 생사도 알 수 없죠.+타당한 이유 없이는 당신을 더는 신뢰할 수 없습니다.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:지휘관이 너한테 얼마나 잘해 줬는데!+혼자 슬쩍 어디로 사라지더니, 이렇게 뻔뻔하게 돌아와?!
-()<Speaker>지휘관</Speaker>||:......
-AR15Mod(5)<Speaker>AR15</Speaker>||:지휘관!
-()<Speaker>지휘관</Speaker>||:댄들라이... 네 의견은?
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:만약 루니샤가 여기 있었다면, 분명 그녀를 믿었을 겁니다.
-AR15Mod(8)<Speaker>AR15</Speaker>||:뭐어? 여기서 M4 얘기가 왜 나와!
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:내가 틀렸어?
-AR15Mod(5)<Speaker>AR15</Speaker>||:윽... 아무튼 난 반대야!
-()<Speaker>지휘관</Speaker>||:난...
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:로빈...+저를 믿겠다고 하셨잖아요...+저도... 당신을 믿고, 여러분을 돕겠다고 했어요...
-()<Speaker>지휘관</Speaker>||<BGM>BGM_Empty</BGM>:......<c>믿는다.<c>믿지 않는다.
-()<Speaker>지휘관</Speaker>||<分支>2</分支>:......AR-15.
-()<Speaker></Speaker>||<BGM>BGM_Wake</BGM><分支>2</分支>:지휘관의 싸늘한 눈초리의 의미를 깨달은 마흐리안의 눈동자에서, 빛이 사라졌다.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||<分支>2</分支>:로빈...
-()<Speaker>지휘관</Speaker>||<分支>2</分支>:너를 믿었어, 마흐리안.+그리고 호되게 대가를 치렀지.
-()<Speaker></Speaker>||<分支>2</分支>:마흐리안은 고개를 떨궜다.
-AR15Mod(5)<Speaker>AR15</Speaker>||<分支>2</分支><SE1>AVG_weapon_reload</SE1>:불쌍한 척 말고 얌전히 있어!
-()<Speaker></Speaker>||<分支>2</分支>:AR-15이 사납게 총구를 들이댔지만, 그러지 않아도 마흐리안에겐 저항할 힘이, 의욕이 없었다.
-()<Speaker></Speaker>||<分支>2</分支><SE1>ClothingUp</SE1>:천천히 다가온 AR-15가 다소 난폭하게 그녀의 품에서 혈청을 빼앗아 RO635에게 맡겼다.
-AR15Mod(5)<Speaker>AR15</Speaker>||<分支>2</分支>:잠깐 들고 있어 봐.
-()<Speaker></Speaker>||<分支>2</分支>:그러고선, 파우치에서 자외선 램프를 꺼내 들었다.
-()<Speaker>지휘관</Speaker>||<分支>2</分支>:그게 뭐야?
-AR15Mod(0)<Speaker>AR15</Speaker>||<分支>2</分支>:페로사에게 협력받은 "고전 전술"입니다.+페로사가 이년한테 자외선에만 반응하는 형광 가루를 묻혔다니, 그게 그들과 만났다는 확실한 증거예요.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||<分支>2</分支>:아하.
-()<Speaker></Speaker>||<分支>2</分支>:AR-15는 기운을 잃은 마흐리안을 보면서, 확신으로 의기양양한 얼굴로 자외선 램프를 켰다.
-AR15Mod(0)<Speaker>AR15</Speaker>||<分支>2</分支>:자, 이걸 보고도 어떻게 변명하나——?
-()<Speaker></Speaker>||<分支>2</分支>:하지만, 자외선이 비쳐진 곳엔 아무것도 없었다.
-AR15Mod(8)<Speaker>AR15</Speaker>||<分支>2</分支>:......어?
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||<分支>2</分支>:왜 그래?
-AR15Mod(8)<Speaker>AR15</Speaker>||<分支>2</分支>:자, 잠깐만.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1><分支>2</分支>:당황한 AR-15가 마흐리안을 잡아당겨 다른 어깨도 비춰봤지만, 역시 아무것도 빛을 발하지 않았다.+지휘관은 결국 인내심을 잃었는지, AR-15에게 그만하라 손짓했다.
-()<Speaker>지휘관</Speaker>||<分支>2</分支>:시간 없어, 가자. 그녀는 여기 두고 간다.
-AR15Mod(4)<Speaker>AR15</Speaker>||<分支>2</分支>:이게 어떻게 된...
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||<分支>2</分支>:...로빈.
-NPC-Machlian(6)<Speaker>지휘관</Speaker><同时置暗>||<分支>2</分支>:또 무슨 말을 하려고.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||<分支>2</分支>:이 길 끝에, 갈림길이 있어요...+거기서 왼쪽으로 가면... 최상층으로 돌아갈 수 있어요.
-NPC-Machlian(6)<Speaker>지휘관</Speaker><同时置暗>||<分支>2</分支>:...내가 왜 네 말을 믿어야 하지?
-()<Speaker></Speaker>||<分支>2</分支>:마흐리안은 애처롭게 웃어 보였다.
-NPC-Machlian(8)<Speaker>마흐리안</Speaker>||<分支>2</分支>:당신을... 돕겠다고 약속했으니까요.
-()<Speaker>지휘관</Speaker>||<分支>2</分支>:......
-()<Speaker></Speaker>||<分支>2</分支>:지휘관은 대답 없이 뒤돌아 손짓했다.
-()<Speaker>지휘관</Speaker>||<分支>2</分支>:가자.
-AR15Mod(5)<Speaker>AR15</Speaker>||<分支>2</分支>:지휘관, 잠시만요!
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||<分支>2</分支>:이런 때에 오히려 네가 꾸물거리다니.+정말 널 어떻게 다뤄야 할지 모르겠어.
-AR15Mod(5)<Speaker>AR15</Speaker>||<分支>2</分支>:아니, 그게 아니라!+지금 앞뒤가 안 맞는단 말이야!
-AR15Mod(5)<Speaker>지휘관</Speaker><同时置暗>||<分支>2</分支>:앞뒤가 안 맞다니, 뭐가? 저 여자에게 속아서, 우린 위기에 빠졌어!+그게 아니면 뭔데?!
-AR15Mod(5)<Speaker>AR15</Speaker>||<分支>2</分支>:하지만――
-()<Speaker></Speaker>||<分支>2</分支><SE1>AVG_whitenoise</SE1>:지휘관이 분노에 찬 고함을 지르던 찰나, 머리 위의 등불이 갑자기 깜빡였다.+좁고 긴 비밀 통로의 원래부터 음산하던 공기가, 점점 싸늘해졌다.
-()<Speaker></Speaker>||<分支>2</分支><SE1>AVG_Walk</SE1>:또각... 또각...+심연 같은 복도 저편의 어둠 속으로부터.+여인의 구두굽이 바닥을 두드리며 소름끼치는 소리를 냈다.
-()<Speaker>지휘관</Speaker>||<分支>2</分支>:...저게 무슨 소리지?
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||<分支>2</分支>:지휘관님!
-()<Speaker>지휘관</Speaker>||<分支>2</分支>:아닛!?
-()<Speaker></Speaker>||<分支>2</分支><SE1>ClothingUp</SE1>:지휘관이 고개를 돌린 그 순간, 그늘에서 서늘한 칼날이 솟아났다.
-NPC-Machlian(7)<Speaker>마흐리안</Speaker>||<分支>2</分支><SE1>RunStep</SE1>:——로빈! 안 돼!!
-()<Speaker></Speaker>||<分支>2</分支><BGM>BGM_Empty</BGM><BIN>9</BIN><SE1>AVG_Cut_Watermelon</SE1>:——!
-()<Speaker>지휘관</Speaker>||<分支>1</分支><BGM>BGM_Room</BGM>:난... 아직 널 믿어.+출구는 어느 쪽이지?
-AR15Mod(8)<Speaker>AR15</Speaker>||<分支>1</分支>:지휘관?!
-()<Speaker></Speaker>||<分支>1</分支>:AR-15이 놀란 토끼처럼 휘둥그레진 눈으로 지휘관을 돌아봤다.+마흐리안은 안도의 한숨을 쉬며 가까스로 몸을 지탱했다.+지휘관이 그녀를 부축하려 했지만, AR-15가 모두의 앞을 가로막았다.
-AR15Mod(5)<Speaker>AR15</Speaker>||<分支>1</分支>:지휘관! 이년이 진짜 우릴 속였다니까요!?
-()<Speaker>지휘관</Speaker>||<分支>1</分支>:AR-15, 방금 증거가 있다고 했지?+정 그렇다면, 그 증거를 보여 줘 봐.
-AR15Mod(5)<Speaker>AR15</Speaker>||<分支>1</分支>:흥... 좋아요, 당장 증명해 보이죠!
-()<Speaker></Speaker>||<分支>1</分支><SE1>ClothingUp</SE1>:AR-15가 파우치에서 자외선 램프를 꺼내 들었다.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:어, 그게 뭐야?
-AR15Mod(5)<Speaker>AR15</Speaker>||<分支>1</分支>:눈 똑똑히 뜨고 잘 보세요!
-()<Speaker></Speaker>||<分支>1</分支>:AR-15이 램프를 마흐리안에게 들이대고 스위치를 켰다.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||<分支>1</分支>:으음...!
-AR15Mod(8)<Speaker>AR15</Speaker>||<分支>1</分支>:......어어?
-()<Speaker></Speaker>||<分支>1</分支>:당황한 AR-15는 램프를 아예 마흐리안의 어깨에 파묻을 기세였다.+하지만 자외선으로 아무리, 양쪽 다 비춰 봐도, 마흐리안의 어깨는 깨끗했다.
-()<Speaker>지휘관</Speaker>||<分支>1</分支>:AR-15...?
-AR15Mod(8)<Speaker>AR15</Speaker>||<分支>1</分支>:이... 이럴 리가 없는데?!
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||<分支>1</分支>:지금 네 꼴은 루니샤도 비웃었을 거야.
-AR15Mod(5)<Speaker>AR15</Speaker>||<分支>1</分支>:넌 좀 닥쳐 봐!+이럴 리가 없어... 분명 페로사가 어깨에 가루를 묻혔다고...!
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||<分支>1</分支>:시간 낭비하지 말자. SOP2, 네가 대신 부축해 줘.+마흐리안, 어서 출구로 안내해.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:자, 손!
-NPC-Machlian(8)<Speaker>마흐리안</Speaker>||<分支>1</分支>:네...!
-()<Speaker></Speaker>||<分支>1</分支>:AR-15이 혼란에서 헤어나오질 못하는 동안, 다른 인원들은 모두 다시 이동할 준비를 마쳤다.+혈청을 전부 RO635에게 맡긴 마흐리안은 SOP2의 어깨에 기댄 채로 선두에 섰다.
-()||<黑点1><分支>1</分支>:
-()<Speaker></Speaker>||<黑点2><BIN>324</BIN><分支>1</分支>:SOP2의 부축을 받는 마흐리안이 안내하니, 지휘관 일행은 전진하는 속도가 훨씬 빨라졌다.+그리고 직접 말한 것처럼, 마흐리안은 이곳의 지리를 낱낱이 파악하고 있었다.
-()<Speaker>지휘관</Speaker>||<分支>1</分支>:......
-()<Speaker></Speaker>||<分支>1</分支>:지휘관이 고개를 들었다.+어느샌가 지휘관도 길을 알 수 있는 곳까지 오게 되었다.+혼자 뾰로통한 AR-15은 여전히 납득 가지 않는다는 눈빛이었지만, 자외선 램프가 그녀에게 익숙한 흔적을 밝혔다.+이렇게까지 된 이상, AR-15도 일행이 곧 출구에 도착한다는 것을 인정할 수밖에 없었다.
-()<Speaker>지휘관</Speaker>||<分支>1</分支>:...어때, 댄들라이?
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||<分支>1</分支>:아직 교란 범위를 벗어나진 못했습니다.+하지만 여기서 나가기만 하면, 패러데우스가 아무리 많이 몰려와도 문제없습니다.
-()<Speaker></Speaker>||<分支>1</分支>:탈출이 눈앞이었다.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||<分支>1</分支><BGM>BGM_Empty</BGM><SE1>ClothingUp</SE1>:......
-()<Speaker>지휘관</Speaker>||<分支>1</分支>:마흐리안?
-NPC-Machlian(8)<Speaker>마흐리안</Speaker>||<分支>1</分支>:...고마워요, 로빈.
-NPC-Machlian(8)<Speaker>지휘관</Speaker><同时置暗>||<分支>1</分支>:고맙다니, 뭐가?
-NPC-Machlian(8)<Speaker>마흐리안</Speaker>||<分支>1</分支><BGM>GF_Memorial</BGM>:저를 믿어 줘서요.
-NPC-Machlian(8)<Speaker>지휘관</Speaker><同时置暗>||<分支>1</分支>:약속했잖아.
-NPC-Machlian(8)<Speaker>마흐리안</Speaker>||<分支>1</分支>:네, 약속했죠... 당신에게 혈청을 드리겠다고.
-NPC-Machlian(8)<Speaker>지휘관</Speaker><同时置暗>||<分支>1</分支>:그건 이미 지켰어.
-NPC-Machlian(8)<Speaker>마흐리안</Speaker>||<分支>1</分支>:당신을 돕겠다고, 출구로 안내하겠다고.
-NPC-Machlian(8)<Speaker>지휘관</Speaker><同时置暗>||<分支>1</分支>:덕분에 지금 이렇게 나가는 중이지.
-()<Speaker></Speaker>||<分支>1</分支>:마흐리안은 힘겨워하면서도 웃다가, 갑자기 어디서 기운이 났는지 조금 흥분하며 낮게나마 폴짝 뛰었다.
-NPC-Machlian(8)<Speaker>마흐리안</Speaker>||<分支>1</分支>:저길 보세요!+거의 다 왔어요!
-()<Speaker></Speaker>||<分支>1</分支>:마흐리안이 가리킨 전방에, 햇빛으로 환한 입구가 마치 어두운 밤의 등대처럼 모두를 안내하고 있었다.+마흐리안은 양팔을 벌리고 뒤로 돌며, 평범한 소녀처럼 기쁨을 숨김없이 표현했다.
-()<Speaker>지휘관</Speaker>||<分支>1</分支>:하하...
-()<Speaker></Speaker>||<分支>1</分支>:그 빛을 보자, 지휘관도 마음을 놓으며 미소로 마흐리안에게 화답했다.+조금만 더 가면, 그들의 임무는――
-()<Speaker></Speaker>||<分支>1</分支><SE1>AVG_Walk</SE1><BGM>BGM_Empty</BGM>:——
-AR15Mod(5)<Speaker>AR15</Speaker>||<分支>1</分支>:——!
-()<Speaker></Speaker>||<分支>1</分支><SE1>ClothingUp</SE1>:익숙한 소리가, 돌연 통로 끝에서 들려왔다.+AR-15도, 무심결에 자외선 램프를 높이 들었다.+그리고 아주 잠깐, 지휘관은 호흡을 잊었다.
-()<Speaker>지휘관</Speaker>||<分支>1</分支>:——마흐리안!!!
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||<分支>1</分支>:로...
-()<Speaker></Speaker>||<分支>1</分支>:마흐리안은 순간적으로 무슨 일이 일어났는지 알아채지 못했다.+그토록 그녀를 괴롭혀 왔던, 악몽 같은 발소리가 그녀 바로 뒤에 나타난 것이었다.
-()<Speaker></Speaker>||<分支>1</分支><BIN>9</BIN><SE1>AVG_Cut_Watermelon</SE1>:——!
-()||<黑屏1>:
-()<Speaker>"마흐리안"</Speaker>||<BIN>363</BIN><黑屏2>:잡았다, 사랑스런 우리 언니.
-()<Speaker>마흐리안</Speaker>||<BGM>GF_21winter_avg_mahaline</BGM>:아......
-()<Speaker></Speaker>||<SE1>Rope</SE1>:흡사 거미 같은 기계팔이 마흐리안의 양옆에서 뻗어나와 팔을 붙잡았고, 예리한 칼날이 그녀의 가슴을 꿰뚫었다.+그리고 그녀와 감쪽같이 똑같은 얼굴이 나타나, 점점 힘을 잃어가는 그녀의 뺨에 얼굴을 맞댔다.+그 섬뜩한 미소는, 지휘관이 아는 마흐리안이 지을 수 있는 표정이 절대 아니었다.
-()<Speaker>마흐리안</Speaker>||:......
-()<Speaker>"마흐리안"</Speaker>||:이렇게 꼭 안으니, 우리 사이의 거리도 좀 더 가까워진 것 같지 않아요?
-()<Speaker>마흐리안</Speaker>||<BIN>362</BIN>:수천 번... 수만 번을 껴안아도...
-()<Speaker>"마흐리안"</Speaker>||:응?
-()<Speaker>마흐리안</Speaker>||:우리, 사이는... 한 뼘도 가까워지지 않아...
-()<Speaker>"마흐리안"</Speaker>||:우리 착한 언니, 여전히 고집이 세다니까요. 죽기 직전인데도 전혀 저와 친해지려 하질 않고.+뭐, 괜찮아요. 안심하고 먼저 가세요.+언니의 친구들도 하나씩 하나씩, 곁으로 보내 줄 테니까.
-()<Speaker>마흐리안</Speaker>||<BIN>361</BIN>:......
-()<Speaker></Speaker>||:마흐리안이 지휘관을 바라봤다.
-()<Speaker>마흐리안</Speaker>||:로... 빈...
-()<Speaker></Speaker>||:마흐리안의 몸이 움찔거렸고, 눈에서는 눈물 한 줄기가 흘러내렸다.
-()<Speaker>마흐리안</Speaker>||:출구는...바로...+저 앞...이에요...
-()<Speaker>"마흐리안"</Speaker>||:불쌍해라.
-()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1><震屏3>:거대한 의수가 빠르게 수축했다.+마흐리안의 마지막 한마디는, 목에 걸려 소리가 되지 못했다.+그저 희미하게, 입모양을 읽는 수밖에 없었다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:"고마웠어요, 로빈."
-()<Speaker>지휘관</Speaker>||:<Size=60>몰 리 도 ! ! !</Size>
-()<Speaker></Speaker>||:마흐리안이 쓰러지면서 드러난 몰리도의 어깨에서, 형광 가루가 눈부시게 빛났다.
-()||<黑点1><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>229</BIN><Night><BGM>BGM_Danger</BGM><SE1>RunStep</SE1><黑屏2><SE2>Gunfight</SE2>:점점 멀어지는 총격음을 뒤로하고, 지휘관과 댄들라이는 AR팀의 경호를 받으며 미로 같은 공장의 출구를 향해 나아갔다.
+()<Speaker>지휘관</Speaker>||:......
+RO635Mod(2)<Speaker>RO635</Speaker>||:...지휘관님.
+()<Speaker>지휘관</Speaker>||:미안하다 RO, 나 때문에 시간을 너무 지체했어.
+RO635Mod(0)<Speaker>RO635</Speaker>||:아뇨, 그래야 지휘관님다우신데요.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:이 주변의 지형은 변동이 너무 심합니다, 위로 향하는 길이 보이지 않네요.
+()<Speaker>지휘관</Speaker>||:제기랄, 이대로 길을 못 찾으면 그리폰 소대의 희생이 무의미해져...
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:아예 그냥 천장을 펑~ 하고 박살내면 안 돼?
+AR15Mod(4)<Speaker>AR15</Speaker>||:당연히 안 되지 이 바보야! 저 위에 뭐가 있는지 누가 알아?!+그리고 위의 지반이 무너져서 길이 막히기라도 하면 어쩌려고!
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:그리고 지금 우리에겐 이렇게 단단한 벽을 파괴할 정도의 폭발물도 없어.
+()<Speaker>지휘관</Speaker>||:아무튼 움직이자, 꾸물거리다간 추격해 오는 놈들에게 따라잡혀서... 전멸하고 말 거야.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:지휘관이 분을 이기지 못하고 복도의 벽을 주먹으로 쳤다.
+()<Speaker>지휘관</Speaker>||:제기랄!
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1><BGM>BGM_Empty</BGM>:......똑똑똑.+그에 대답하기라도 하듯, 벽 너머에서 가볍게 두드리는 소리가 들려왔다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:——누구냐!
+()<Speaker>？？？</Speaker>||:...AR-15 씨? 로빈? 거기 로빈이에요?!+제 목소리가 들리세요!?
+()<Speaker>지휘관</Speaker>||:......
+RO635Mod(3)<Speaker>RO635</Speaker>||:마흐리안?
+AR15Mod(4)<Speaker>AR15</Speaker>||<SE1>AVG_weapon_reload</SE1><BGM>BGM_Room</BGM>:치잇.
+()<Speaker></Speaker>||:AR-15는 곧장 노리쇠를 당겼다.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:AR-15, 기다려.
+AR15Mod(5)<Speaker>AR15</Speaker>||:기다리긴 뭘 기다려! 넌 아직도 저년을 믿어?+내 장담하는데, 페로사도 저년한테 속았단 말이야!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:응? 네가 그걸 어떻게 알아?
+AR15Mod(5)<Speaker>AR15</Speaker>||:그냥 알아, 증거도 있어!
+()<Speaker>지휘관</Speaker>||:증거...? 무슨 증――
+()<Speaker>마흐리안</Speaker>||<SE1>AVG_doorknock_wood</SE1>:로빈! 로빈!
+()<Speaker></Speaker>||:다급하게 벽을 두드리는 마흐리안의 목소리가 지휘관의 사고를 정지시켰다.+지휘관은 잠시 침묵하다, 벽을 두드리고 대답했다.
+()<Speaker>지휘관</Speaker>||<SE1>AVG_doorknock_wood</SE1>:마흐리안, 지금 어디 있지?
+()<Speaker>마흐리안</Speaker>||:내부 통로에 있어요!+제 목소리를 따라 오세요!
+RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님...?
+()<Speaker>지휘관</Speaker>||:RO, 가서 살펴봐.
+RO635Mod(0)<Speaker>RO635</Speaker>||:네.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:RO635가 고개를 끄덕이고, 마흐리안의 목소리가 나는 방향을 따라 벽에 붙은 채로 천천히 움직였다.
+()<Speaker>마흐리안</Speaker>||:네... 여기에요.+이쪽 벽에 비밀문이 있어요. 스위치가 있을 텐데, 그걸 15초 정도 누르면 열릴 거예요.+출구는 이쪽이니, 문을 열고 오세요. 제가 출구로 안내해드릴게요.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:보이면 바로 기절시킬까?
+()<Speaker>지휘관</Speaker>||:함부로 움직이지 마.+나도 생각이 있어. 먼저 뭐라 하는지부터 들어보자.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Prison_Door</SE1>:벽면을 더듬던 RO635가 비밀문의 스위치를 찾았고, 잠시 지그시 누르자 정말 눈앞의 벽이 스르륵 열렸다.+RO635가 경계하며 먼저 들어가 살피니, 텅 빈 비밀 통로 안에 실험용기 몇 개를 품에 안은 마흐리안이 홀로 벽에 기대고 있었다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:로빈...!
+()<Speaker></Speaker>||:그녀는 매우 허약해 보였다. 힘없이 축 처진 팔은 더는 피가 나질 않았지만 그 출혈이 얼마나 심각했는지 한눈에 알 수 있었다.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:...혈청입니다.
+()<Speaker></Speaker>||:그녀 품에 들린 물건을 보고, 댄들라이가 지휘관에게 속삭였다.
+()<Speaker>지휘관</Speaker>||:마흐리안, 여기까지 어떻게 왔지?
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:여긴... 제 기억과 많이 달라지지 않았어요... 채혈 기계에 이상한 장치가 생겼지만요...+제가 기억하는 길에 숨어, 저들의 눈을 피해서...+하지만 여러분을 찾지 못해서, 계속 위로 달렸어요... 그러다 여기에...
+AR15Mod(5)<Speaker>AR15</Speaker>||:우리가 그딴 소릴 믿을 거 같아? 말을 지어내도 좀 더 성의 있게 하지?
+NPC-Machlian(7)<Speaker>마흐리안</Speaker>||:거짓말이 아니에요, 부탁해요... 로빈...
+()<Speaker></Speaker>||:마흐리안은 도움을 요청하는 눈으로 지휘관을 바라봤다.+그녀는 말하면서도 숨을 거칠게 몰아쉬는 것이, 허약한 모습이 연기 같지는 않았다. 오히려, 벽에라도 기대지 않으면 바로 쓰러질 것만 같았다.
+AR15Mod(4)<Speaker>AR15</Speaker>||:너무 설득력 없단 생각 안 들어?
+RO635Mod(0)<Speaker>RO635</Speaker>||:우린 당신 때문에 곤경에 처했습니다. 그리폰 소대는 지금 생사도 알 수 없죠.+타당한 이유 없이는 당신을 더는 신뢰할 수 없습니다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:지휘관이 너한테 얼마나 잘해 줬는데!+혼자 슬쩍 어디로 사라지더니, 이렇게 뻔뻔하게 돌아와?!
+()<Speaker>지휘관</Speaker>||:......
+AR15Mod(5)<Speaker>AR15</Speaker>||:지휘관!
+()<Speaker>지휘관</Speaker>||:댄들라이... 네 의견은?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:만약 루니샤가 여기 있었다면, 분명 그녀를 믿었을 겁니다.
+AR15Mod(8)<Speaker>AR15</Speaker>||:뭐어? 여기서 M4 얘기가 왜 나와!
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:내가 틀렸어?
+AR15Mod(5)<Speaker>AR15</Speaker>||:윽... 아무튼 난 반대야!
+()<Speaker>지휘관</Speaker>||:난...
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:로빈...+저를 믿겠다고 하셨잖아요...+저도... 당신을 믿고, 여러분을 돕겠다고 했어요...
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Empty</BGM>:......<c>믿는다.<c>믿지 않는다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:......AR-15.
+()<Speaker></Speaker>||<BGM>BGM_Wake</BGM><分支>2</分支>:지휘관의 싸늘한 눈초리의 의미를 깨달은 마흐리안의 눈동자에서, 빛이 사라졌다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||<分支>2</分支>:로빈...
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:너를 믿었어, 마흐리안.+그리고 호되게 대가를 치렀지.
+()<Speaker></Speaker>||<分支>2</分支>:마흐리안은 고개를 떨궜다.
+AR15Mod(5)<Speaker>AR15</Speaker>||<分支>2</分支><SE1>AVG_weapon_reload</SE1>:불쌍한 척 말고 얌전히 있어!
+()<Speaker></Speaker>||<分支>2</分支>:AR-15이 사납게 총구를 들이댔지만, 그러지 않아도 마흐리안에겐 저항할 힘이, 의욕이 없었다.
+()<Speaker></Speaker>||<分支>2</分支><SE1>ClothingUp</SE1>:천천히 다가온 AR-15가 다소 난폭하게 그녀의 품에서 혈청을 빼앗아 RO635에게 맡겼다.
+AR15Mod(5)<Speaker>AR15</Speaker>||<分支>2</分支>:잠깐 들고 있어 봐.
+()<Speaker></Speaker>||<分支>2</分支>:그러고선, 파우치에서 자외선 램프를 꺼내 들었다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:그게 뭐야?
+AR15Mod(0)<Speaker>AR15</Speaker>||<分支>2</分支>:페로사에게 협력받은 "고전 전술"입니다.+페로사가 이년한테 자외선에만 반응하는 형광 가루를 묻혔다니, 그게 그들과 만났다는 확실한 증거예요.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||<分支>2</分支>:아하.
+()<Speaker></Speaker>||<分支>2</分支>:AR-15는 기운을 잃은 마흐리안을 보면서, 확신으로 의기양양한 얼굴로 자외선 램프를 켰다.
+AR15Mod(0)<Speaker>AR15</Speaker>||<分支>2</分支>:자, 이걸 보고도 어떻게 변명하나——?
+()<Speaker></Speaker>||<分支>2</分支>:하지만, 자외선이 비쳐진 곳엔 아무것도 없었다.
+AR15Mod(8)<Speaker>AR15</Speaker>||<分支>2</分支>:......어?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||<分支>2</分支>:왜 그래?
+AR15Mod(8)<Speaker>AR15</Speaker>||<分支>2</分支>:자, 잠깐만.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><分支>2</分支>:당황한 AR-15가 마흐리안을 잡아당겨 다른 어깨도 비춰봤지만, 역시 아무것도 빛을 발하지 않았다.+지휘관은 결국 인내심을 잃었는지, AR-15에게 그만하라 손짓했다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:시간 없어, 가자. 그녀는 여기 두고 간다.
+AR15Mod(4)<Speaker>AR15</Speaker>||<分支>2</分支>:이게 어떻게 된...
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||<分支>2</分支>:...로빈.
+NPC-Machlian(6)<Speaker>지휘관</Speaker><同时置暗>||<分支>2</分支>:또 무슨 말을 하려고.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||<分支>2</分支>:이 길 끝에, 갈림길이 있어요...+거기서 왼쪽으로 가면... 최상층으로 돌아갈 수 있어요.
+NPC-Machlian(6)<Speaker>지휘관</Speaker><同时置暗>||<分支>2</分支>:...내가 왜 네 말을 믿어야 하지?
+()<Speaker></Speaker>||<分支>2</分支>:마흐리안은 애처롭게 웃어 보였다.
+NPC-Machlian(8)<Speaker>마흐리안</Speaker>||<分支>2</分支>:당신을... 돕겠다고 약속했으니까요.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:......
+()<Speaker></Speaker>||<分支>2</分支>:지휘관은 대답 없이 뒤돌아 손짓했다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:가자.
+AR15Mod(5)<Speaker>AR15</Speaker>||<分支>2</分支>:지휘관, 잠시만요!
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||<分支>2</分支>:이런 때에 오히려 네가 꾸물거리다니.+정말 널 어떻게 다뤄야 할지 모르겠어.
+AR15Mod(5)<Speaker>AR15</Speaker>||<分支>2</分支>:아니, 그게 아니라!+지금 앞뒤가 안 맞는단 말이야!
+AR15Mod(5)<Speaker>지휘관</Speaker><同时置暗>||<分支>2</分支>:앞뒤가 안 맞다니, 뭐가? 저 여자에게 속아서, 우린 위기에 빠졌어!+그게 아니면 뭔데?!
+AR15Mod(5)<Speaker>AR15</Speaker>||<分支>2</分支>:하지만――
+()<Speaker></Speaker>||<分支>2</分支><SE1>AVG_whitenoise</SE1>:지휘관이 분노에 찬 고함을 지르던 찰나, 머리 위의 등불이 갑자기 깜빡였다.+좁고 긴 비밀 통로의 원래부터 음산하던 공기가, 점점 싸늘해졌다.
+()<Speaker></Speaker>||<分支>2</分支><SE1>AVG_Walk</SE1>:또각... 또각...+심연 같은 복도 저편의 어둠 속으로부터.+여인의 구두굽이 바닥을 두드리며 소름끼치는 소리를 냈다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:...저게 무슨 소리지?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||<分支>2</分支>:지휘관님!
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:아닛!?
+()<Speaker></Speaker>||<分支>2</分支><SE1>ClothingUp</SE1>:지휘관이 고개를 돌린 그 순간, 그늘에서 서늘한 칼날이 솟아났다.
+NPC-Machlian(7)<Speaker>마흐리안</Speaker>||<分支>2</分支><SE1>RunStep</SE1>:——로빈! 안 돼!!
+()<Speaker></Speaker>||<分支>2</分支><BGM>BGM_Empty</BGM><BIN>9</BIN><SE1>AVG_Cut_Watermelon</SE1>:——!
+()<Speaker>지휘관</Speaker>||<分支>1</分支><BGM>BGM_Room</BGM>:난... 아직 널 믿어.+출구는 어느 쪽이지?
+AR15Mod(8)<Speaker>AR15</Speaker>||<分支>1</分支>:지휘관?!
+()<Speaker></Speaker>||<分支>1</分支>:AR-15이 놀란 토끼처럼 휘둥그레진 눈으로 지휘관을 돌아봤다.+마흐리안은 안도의 한숨을 쉬며 가까스로 몸을 지탱했다.+지휘관이 그녀를 부축하려 했지만, AR-15가 모두의 앞을 가로막았다.
+AR15Mod(5)<Speaker>AR15</Speaker>||<分支>1</分支>:지휘관! 이년이 진짜 우릴 속였다니까요!?
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:AR-15, 방금 증거가 있다고 했지?+정 그렇다면, 그 증거를 보여 줘 봐.
+AR15Mod(5)<Speaker>AR15</Speaker>||<分支>1</分支>:흥... 좋아요, 당장 증명해 보이죠!
+()<Speaker></Speaker>||<分支>1</分支><SE1>ClothingUp</SE1>:AR-15가 파우치에서 자외선 램프를 꺼내 들었다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:어, 그게 뭐야?
+AR15Mod(5)<Speaker>AR15</Speaker>||<分支>1</分支>:눈 똑똑히 뜨고 잘 보세요!
+()<Speaker></Speaker>||<分支>1</分支>:AR-15이 램프를 마흐리안에게 들이대고 스위치를 켰다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||<分支>1</分支>:으음...!
+AR15Mod(8)<Speaker>AR15</Speaker>||<分支>1</分支>:......어어?
+()<Speaker></Speaker>||<分支>1</分支>:당황한 AR-15는 램프를 아예 마흐리안의 어깨에 파묻을 기세였다.+하지만 자외선으로 아무리, 양쪽 다 비춰 봐도, 마흐리안의 어깨는 깨끗했다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:AR-15...?
+AR15Mod(8)<Speaker>AR15</Speaker>||<分支>1</分支>:이... 이럴 리가 없는데?!
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||<分支>1</分支>:지금 네 꼴은 루니샤도 비웃었을 거야.
+AR15Mod(5)<Speaker>AR15</Speaker>||<分支>1</分支>:넌 좀 닥쳐 봐!+이럴 리가 없어... 분명 페로사가 어깨에 가루를 묻혔다고...!
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||<分支>1</分支>:시간 낭비하지 말자. SOP2, 네가 대신 부축해 줘.+마흐리안, 어서 출구로 안내해.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<分支>1</分支>:자, 손!
+NPC-Machlian(8)<Speaker>마흐리안</Speaker>||<分支>1</分支>:네...!
+()<Speaker></Speaker>||<分支>1</分支>:AR-15이 혼란에서 헤어나오질 못하는 동안, 다른 인원들은 모두 다시 이동할 준비를 마쳤다.+혈청을 전부 RO635에게 맡긴 마흐리안은 SOP2의 어깨에 기댄 채로 선두에 섰다.
+()||<黑点1><分支>1</分支>:
+()<Speaker></Speaker>||<黑点2><BIN>324</BIN><分支>1</分支>:SOP2의 부축을 받는 마흐리안이 안내하니, 지휘관 일행은 전진하는 속도가 훨씬 빨라졌다.+그리고 직접 말한 것처럼, 마흐리안은 이곳의 지리를 낱낱이 파악하고 있었다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:......
+()<Speaker></Speaker>||<分支>1</分支>:지휘관이 고개를 들었다.+어느샌가 지휘관도 길을 알 수 있는 곳까지 오게 되었다.+혼자 뾰로통한 AR-15은 여전히 납득 가지 않는다는 눈빛이었지만, 자외선 램프가 그녀에게 익숙한 흔적을 밝혔다.+이렇게까지 된 이상, AR-15도 일행이 곧 출구에 도착한다는 것을 인정할 수밖에 없었다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:...어때, 댄들라이?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||<分支>1</分支>:아직 교란 범위를 벗어나진 못했습니다.+하지만 여기서 나가기만 하면, 패러데우스가 아무리 많이 몰려와도 문제없습니다.
+()<Speaker></Speaker>||<分支>1</分支>:탈출이 눈앞이었다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||<分支>1</分支><BGM>BGM_Empty</BGM><SE1>ClothingUp</SE1>:......
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:마흐리안?
+NPC-Machlian(8)<Speaker>마흐리안</Speaker>||<分支>1</分支>:...고마워요, 로빈.
+NPC-Machlian(8)<Speaker>지휘관</Speaker><同时置暗>||<分支>1</分支>:고맙다니, 뭐가?
+NPC-Machlian(8)<Speaker>마흐리안</Speaker>||<分支>1</分支><BGM>GF_Memorial</BGM>:저를 믿어 줘서요.
+NPC-Machlian(8)<Speaker>지휘관</Speaker><同时置暗>||<分支>1</分支>:약속했잖아.
+NPC-Machlian(8)<Speaker>마흐리안</Speaker>||<分支>1</分支>:네, 약속했죠... 당신에게 혈청을 드리겠다고.
+NPC-Machlian(8)<Speaker>지휘관</Speaker><同时置暗>||<分支>1</分支>:그건 이미 지켰어.
+NPC-Machlian(8)<Speaker>마흐리안</Speaker>||<分支>1</分支>:당신을 돕겠다고, 출구로 안내하겠다고.
+NPC-Machlian(8)<Speaker>지휘관</Speaker><同时置暗>||<分支>1</分支>:덕분에 지금 이렇게 나가는 중이지.
+()<Speaker></Speaker>||<分支>1</分支>:마흐리안은 힘겨워하면서도 웃다가, 갑자기 어디서 기운이 났는지 조금 흥분하며 낮게나마 폴짝 뛰었다.
+NPC-Machlian(8)<Speaker>마흐리안</Speaker>||<分支>1</分支>:저길 보세요!+거의 다 왔어요!
+()<Speaker></Speaker>||<分支>1</分支>:마흐리안이 가리킨 전방에, 햇빛으로 환한 입구가 마치 어두운 밤의 등대처럼 모두를 안내하고 있었다.+마흐리안은 양팔을 벌리고 뒤로 돌며, 평범한 소녀처럼 기쁨을 숨김없이 표현했다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:하하...
+()<Speaker></Speaker>||<分支>1</分支>:그 빛을 보자, 지휘관도 마음을 놓으며 미소로 마흐리안에게 화답했다.+조금만 더 가면, 그들의 임무는――
+()<Speaker></Speaker>||<分支>1</分支><SE1>AVG_Walk</SE1><BGM>BGM_Empty</BGM>:——
+AR15Mod(5)<Speaker>AR15</Speaker>||<分支>1</分支>:——!
+()<Speaker></Speaker>||<分支>1</分支><SE1>ClothingUp</SE1>:익숙한 소리가, 돌연 통로 끝에서 들려왔다.+AR-15도, 무심결에 자외선 램프를 높이 들었다.+그리고 아주 잠깐, 지휘관은 호흡을 잊었다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:——마흐리안!!!
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||<分支>1</分支>:로...
+()<Speaker></Speaker>||<分支>1</分支>:마흐리안은 순간적으로 무슨 일이 일어났는지 알아채지 못했다.+그토록 그녀를 괴롭혀 왔던, 악몽 같은 발소리가 그녀 바로 뒤에 나타난 것이었다.
+()<Speaker></Speaker>||<分支>1</分支><BIN>9</BIN><SE1>AVG_Cut_Watermelon</SE1>:——!
+()||<黑屏1>:
+()<Speaker>"마흐리안"</Speaker>||<BIN>363</BIN><黑屏2>:잡았다, 사랑스런 우리 언니.
+()<Speaker>마흐리안</Speaker>||<BGM>GF_21winter_avg_mahaline</BGM>:아......
+()<Speaker></Speaker>||<SE1>Rope</SE1>:흡사 거미 같은 기계팔이 마흐리안의 양옆에서 뻗어나와 팔을 붙잡았고, 예리한 칼날이 그녀의 가슴을 꿰뚫었다.+그리고 그녀와 감쪽같이 똑같은 얼굴이 나타나, 점점 힘을 잃어가는 그녀의 뺨에 얼굴을 맞댔다.+그 섬뜩한 미소는, 지휘관이 아는 마흐리안이 지을 수 있는 표정이 절대 아니었다.
+()<Speaker>마흐리안</Speaker>||:......
+()<Speaker>"마흐리안"</Speaker>||:이렇게 꼭 안으니, 우리 사이의 거리도 좀 더 가까워진 것 같지 않아요?
+()<Speaker>마흐리안</Speaker>||<BIN>362</BIN>:수천 번... 수만 번을 껴안아도...
+()<Speaker>"마흐리안"</Speaker>||:응?
+()<Speaker>마흐리안</Speaker>||:우리, 사이는... 한 뼘도 가까워지지 않아...
+()<Speaker>"마흐리안"</Speaker>||:우리 착한 언니, 여전히 고집이 세다니까요. 죽기 직전인데도 전혀 저와 친해지려 하질 않고.+뭐, 괜찮아요. 안심하고 먼저 가세요.+언니의 친구들도 하나씩 하나씩, 곁으로 보내 줄 테니까.
+()<Speaker>마흐리안</Speaker>||<BIN>361</BIN>:......
+()<Speaker></Speaker>||:마흐리안이 지휘관을 바라봤다.
+()<Speaker>마흐리안</Speaker>||:로... 빈...
+()<Speaker></Speaker>||:마흐리안의 몸이 움찔거렸고, 눈에서는 눈물 한 줄기가 흘러내렸다.
+()<Speaker>마흐리안</Speaker>||:출구는...바로...+저 앞...이에요...
+()<Speaker>"마흐리안"</Speaker>||:불쌍해라.
+()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1><震屏3>:거대한 의수가 빠르게 수축했다.+마흐리안의 마지막 한마디는, 목에 걸려 소리가 되지 못했다.+그저 희미하게, 입모양을 읽는 수밖에 없었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:"고마웠어요, 로빈."
+()<Speaker>지휘관</Speaker>||:<Size=60>몰 리 도 ! ! !</Size>
+()<Speaker></Speaker>||:마흐리안이 쓰러지면서 드러난 몰리도의 어깨에서, 형광 가루가 눈부시게 빛났다.
+()||<黑点1><BIN>10</BIN>:

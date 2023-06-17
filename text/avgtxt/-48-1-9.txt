@@ -1,154 +1,154 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>413</BIN><BGM>BGM_Room</BGM>:독일 베를린의 시가지.+가동 정지 처분된 갈라테아 제약 공장 앞.
-SP9(0)<Speaker>모나</Speaker>||:합계 6명, 인계합니다.
-()<Speaker>경찰</Speaker>||:네... 두 분 모두 수고 많으셨습니다.+설마 진짜로 저 난민들 중에 공장 안으로 쳐들어가는 사람이 나올 줄이야... 저희밖에 없었으면 어떻게 됐을지 모르겠습니다.
-SP9(0)<Speaker>모나</Speaker>||:응당 저희가 해야 하는 일이었으니, 감사의 말은 필요 없습니다.
-NPC-Keven(0)<Speaker>J</Speaker>||:이 작자들, 소란을 틈타서 위험 물품 보관실에 들어갔습니다.+혹시 모르니까 우린 안을 다시 살펴볼게요.
-()<Speaker>경찰</Speaker>||:알겠습니다... 정말이지, 무슨 일이라도 생겼으면 저희가 책임질 판이었네요.
-SP9(0)<Speaker>모나</Speaker>||:그럼 계속해서 현장 질서 관리를 부탁드립니다.
-()<Speaker>경찰</Speaker>||:아 네, 알겠습니다!+수고하십시오!
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>18</BIN><Night><SE1>ClothingUp</SE1>:J가 앞장서 차단선을 넘고 폐쇄되어 전력도 끊긴 공장 안으로 들어섰다.
-NPC-Keven(0)<Speaker>J</Speaker>||:저 사람들, 진짜 안으로 쳐들어올 줄이야...
-NPC-Keven(0);SP9(0)<Speaker>모나</Speaker>||:자료에 따르면 이번이 처음 있는 일도 아닌 것 같습니다.
-NPC-Keven(0)<Speaker>J</Speaker>;SP9(0)||:시위대와 경찰의 충돌이라든가 폭력 사태라든가는 흔한 일이지만, 무단 침입은 차원이 다르지.+오늘은 그나마 폐쇄된 약 공장이었으니 망정이지, 당장 내일 시청에 우르르 쳐들어갈지 누가 알아?
-NPC-Keven(0);SP9(0)<Speaker>모나</Speaker>||:그렇군요.
-NPC-Keven(5)<Speaker>J</Speaker>;SP9(0)||:...이보세요 책임자 인형 아가씨, 반응이 왜 그래?
-NPC-Keven(5);SP9(0)<Speaker>모나</Speaker>||:의견을 귀담아 듣는 것도 합리적이라 생각합니다만... J 요원, 혹시 임무와 무관한 감정을 품고 저와 소통하는 겁니까?
-NPC-Keven(5)<Speaker>J</Speaker>||:말을 말아야지...
-()<Speaker></Speaker>||:아직은 해가 중천에 뜬 대낮이었기에, 햇빛이 전등 하나 안 켜진 공장의 내부를 밝혔다.
-SP9(0)<Speaker>모나</Speaker>||:......
-()<Speaker></Speaker>||:그때, 모나가 갑자기 걸음을 멈췄다.
-NPC-Keven(0)<Speaker>J</Speaker>||:뭐야?
-SP9(0)<Speaker>모나</Speaker>||:J 요원 말대로, 누가 있습니다.
-NPC-Keven(5)<Speaker>J</Speaker>||:......!
-SP9(0)<Speaker>모나</Speaker>||:저쪽입니다.
-()<Speaker></Speaker>||:둘은 기척이 난 방향으로 조용히 접근했다.+J가 눈치를 주자, 모나는 바로 그 뜻을 이해하곤 수신호로 답하면서 벽에 붙어 다른 방향으로 우회했다.
-NPC-Keven(0)<Speaker>J</Speaker>||<SE1>Select</SE1>:지금 거기 있는 불법 침입자! 너흰 이미 포위됐다! 즉시 무장을 버리고 투항해라!+재차 경고한다! 즉시 투항해라!
-()<Speaker>？？？</Speaker>||:히익!? 자, 잠깐만요! 전 나쁜 사람 아니에요!+쏘지 마세요!
-NPC-Keven(0)<Speaker>J</Speaker>||:......
-()<Speaker></Speaker>||:예상과는 다른, 젊은 여성의 목소리였다.
-()<Speaker>？？？</Speaker>||<SE1>AVG_bigglassbreak</SE1>:꺄악!! 살살! 살살 해요!
-SP9(0)<Speaker>모나</Speaker>||:목표 제압 완료. 무기 미소지를 확인해 경보를 해제합니다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그 말에 J도 총을 내렸다. 유리창이 깨져 난장판이 된 실험실 한구석에, 모나에게 제압된 여성이 바닥에 엎어져 있었다.
-NPC-Nele(6)<Speaker>？？？</Speaker><Shake>0.1</Shake>||:놔 주세요! 저, 저는 여기의 직원이에요!
-NPC-Keven(0)<Speaker>J</Speaker>||:직원이요?
-()<Speaker></Speaker>||:모나는 꺾었던 팔을 놓았지만, 경계를 풀지는 않았다.
-SP9(0)<Speaker>모나</Speaker>||:무기도 없고, 훈련도 받지 않은 일반인으로 보입니다.
-()<Speaker></Speaker>||:억울하단 표정으로 꺾였던 팔을 문지르며 바닥에 앉은 그 여성은, 확실히 난민도, 테러리스트도 아닌 것처럼 보였다.+J는 그녀의 사원증에 시선이 향했다.
-NPC-Keven(5)<Speaker>J</Speaker>||:코넬리아 슈펠?
-NPC-Keven(5);NPC-Nele(5)<Speaker>넬레</Speaker>||:..."넬레"라 불러 주세요.
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(5)||:좋습니다, 넬레 씨.+왜 여기 들어왔는지 설명해 주실까요?
-NPC-Keven(5);NPC-Nele(6)<Speaker>넬레</Speaker>||:여긴 제가 일하는 실험실이에요! 제 직장이라고요!
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(6)||:아, 그래요? 하지만 정부가 운영 정지 처분을 내렸는데요. 정문 앞의 차단선 못 봤습니까?+여기 직원이더라도 명실상부한 불법 무단 침입입니다. 현행범으로 체포해도 할말 없어요.
-NPC-Nele(5)<Speaker>넬레</Speaker>||:윽...
-NPC-Keven(0)<Speaker>J</Speaker>||:끌고 가.
-()<Speaker></Speaker>||:모나가 고개를 끄덕이자, 넬레가 당혹해하면서 손사래 쳤다.
-NPC-Nele(6)<Speaker>넬레</Speaker>||:자자자잠깐만요! 저, 저는 그냥 개인 물품을 가지러 온 거예요!
-NPC-Keven(5)<Speaker>J</Speaker>||:그게 뭡니까?
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:넬레는 눈에 띄게 긴장한 모습으로 바닥에 떨어뜨린 상자를 열어 보였다.+그 안에 든 것은 두툼한 자료 뭉치와, 크기가 제각각인 약병들이었다.
-NPC-Nele(5)<Speaker>넬레</Speaker>||:이... 이건 제 연구 성과예요!+어떻게든 작업을 계속하고 싶어서...
-()<Speaker></Speaker>||:모나가 확인차 상자 속을 뒤져봤다.
-SP9(0)<Speaker>모나</Speaker>||:맞습니다, 실험 데이터와 그 샘플들입니다.
-()<Speaker></Speaker>||:모나가 뒤적이던 약병들을 본 순간, J의 동공이 수축했다.
-NPC-Keven(5)<Speaker>J</Speaker>||:이게... 다 뭡니까?
-NPC-Nele(6)<Speaker>넬레</Speaker>||:그... 그러니까, 제 연구 성과...
-NPC-Keven(5)<Speaker>J</Speaker>||:댁 직업이...?
-NPC-Nele(6)<Speaker>넬레</Speaker>||:...약품 연구원이요.
-()<Speaker></Speaker>||:놀란 가슴을 간신히 진정시키고, 무심한 척 약병 하나를 집어든 J는 위에 그려진 작은 로고를 가리키며 물었다.
-NPC-Keven(5)<Speaker>J</Speaker>||:이건 무슨 표시죠?
-NPC-Nele(6)<Speaker>넬레</Speaker>||:그레이 생물과학 연구 센터의 로고예요, 여긴 부속 실험실이고요.
-NPC-Keven(5)<Speaker>J</Speaker>||:그레이 생물과학 연구 센터...
-SP9(0)<Speaker>모나</Speaker>||:거기가 어쨌습니까?
-NPC-Keven(0)<Speaker>J</Speaker>||:...아니, 그냥.
-()<Speaker></Speaker>||:J가 고개를 젓더니, 평소의 그 얼굴로 되돌아왔다. 그리곤 한 걸음 물러나, 넬레에게 나가는 길을 열어 주었다.
-NPC-Keven(0)<Speaker>J</Speaker>||:기왕 이렇게 된 거, 넬레 씨가 안전하게 귀가할 수 있도록 호위해드리죠.+밖엔 아직도 시위대가 난리를 부리고 있는데, 가녀린 숙녀분이 혼자 나갔다가 위험해지면 큰일이잖아요?
-NPC-Nele(6)<Speaker>넬레</Speaker>||:아, 감사합... 네? 호위한다고요?
-()<Speaker></Speaker>||:모나도 "지금 이 사람이 뭔 소린가" 하는 표정으로 J를 홱 돌아봤다.
-NPC-Keven(0)<Speaker>J</Speaker>||:수작 부리려는 거 아니니까 걱정 마세요.
-NPC-Nele(7)<Speaker>넬레</Speaker>||:아뇨, 필요없어요.
-NPC-Keven(0)<Speaker>J</Speaker>||:싫다고 해도 할 겁니다.+자꾸 그렇게 거절하신다면야 어쩔 수 없죠 뭐, 상층부에 보고하는 수밖에.
-NPC-Nele(5)<Speaker>넬레</Speaker>||:......
-()<Speaker></Speaker>||:넬레는 도끼눈으로 J를 쏘아보다, 결국 체념한 듯 그가 내어 준 방향으로 걸어갔다.
-SP9(0)<Speaker>모나</Speaker>||:...무슨 생각입니까?
-NPC-Keven(0)<Speaker>J</Speaker>||:갈라테아가 하는 짓이 아무래도 수상하단 생각, 안 들어? 정부가 폐쇄한 시설에 직원을 보내 물건을 빼돌리려 하다니 말이야.+받은 일도 해치웠으니, 다음 임무 받을 때까지 잠깐 딴짓한다고 문제될 거 없잖아.+왜, "국장님"한테 고자질하려고?
-SP9(0)<Speaker>모나</Speaker>||:그럴 생각 없습니다.
-NPC-Keven(0)<Speaker>J</Speaker>||:그럼 따라오기나 해.
-SP9(0)<Speaker>모나</Speaker>||:......
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>86</BIN><BGM>m_avg_casual</BGM>:......+사람들의 눈에 띄지 않도록, 세 명은 좁은 길을 따라 걸었다.+J와 모나 사이에 민간인인 넬레가 서 있으니, 키가 한 뼘은 더 작아 보였다.
-NPC-Nele(5)<Speaker>넬레</Speaker>||:당신들, 어디까지 따라올 셈이에요?
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(5)||:당신이 안전한 게 확인될 때까지죠.
-NPC-Keven(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:전 지금도 안전한데요!
-NPC-Keven(0)<Speaker>J</Speaker>||:그건 저희가 판단합니다.
-SP9(0)<Speaker>모나</Speaker>||:......
-NPC-Keven(0)<Speaker>J</Speaker>||:그나저나, 당신 꽤 젊어 보이는데, 실험실 인턴입니까?
-NPC-Keven(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:조수거든요? 정직원이에요, 정, 직, 원.+선생님의 "이둔" 연구에 참여하는 걸 꿈에 그리는 사람이 얼마나 많은데요!
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(7)||:그럼 설마, 그 병에 든 게 이둔의 시제품인가요?
-NPC-Keven(0);NPC-Nele(5)<Speaker>넬레</Speaker>||:......네. 정부가 일을 좀 더 효율적으로 처리했다면 진작에 출시돼서 많은 사람들을 살렸을지도 몰라요.
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(5)||:호오? 자신만만하십니다, 연구원 아가씨?
-NPC-Keven(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:그럼요! 우리의 실험은 아주 성공적이었다고요!
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(7)||:하지만 듣자하니, "닥터 그레이"는 위법성 연구 혐의로 도주했다는데요.
-NPC-Keven(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:웃기지도 않는 소리 말아요, 연구 센터는 아직도 멀쩡하게 돌아가고 있어요! 각 부서도 업무를 배정해 맡은 바를 다하고 있다고요!+제가 공장에 간 것도 다 저번 실험 데이터를 정리해서 제출하기 위해서예요.
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(7)||:아, 그래요? 그래서 지금 그 "그레이 선생님"은 어디 계신답니까?
-NPC-Keven(0);NPC-Nele(6)<Speaker>넬레</Speaker>||:그건... 잠깐만요, 선생님한테 무슨 폐를 끼치려고 자꾸 꼬치꼬치 캐물어요?
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(6)||:그 사람한테 폐가 될 건 제가 아니라고 봅니다만.
-NPC-Keven(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:으... 하긴, 선생님 나오라면서 쳐들어온 폭도들이 한둘이 아니었죠... 사무실도 몇 번이나 리폼했는지 몰라요.+하지만 선생님 성격은 제가 잘 알아요, 그딴 놈들한테 겁먹으실 분이 절대 아니에요.+의약품 연구에 몸담은 이상, 저희 모두 각오하고 모든 부조리에 맞서 싸울 거예요!
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(7)||:풉!
-NPC-Keven(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:지금 저 놀리는 거예요?
-NPC-Keven(0)<Speaker>J</Speaker>||:아뇨, 비웃은 겁니다.
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>86</BIN>:넬레가 발길을 멈춘 곳은 어느 아파트였다.
-NPC-Nele(7)<Speaker>넬레</Speaker>||:설마 침실까지 따라올 생각은 아니죠?
-NPC-Keven(0)<Speaker>J</Speaker>||:......
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:대답 대신, J는 수첩을 꺼내 자신의 연락처를 적고 종이를 찢어 건네주었다.
-NPC-Keven(0)<Speaker>J</Speaker>||:무슨 일 생기면 언제든지 연락 주세요.
-()<Speaker></Speaker>||:하지만 넬레는 물끄러미 바라보기만 할 뿐, 쪽지를 받으려 하지 않았다.
-NPC-Nele(7)<Speaker>넬레</Speaker>||:저희는 잘못한 거 없어요. 무슨 음모론을――
-NPC-Keven(0)<Speaker>J</Speaker>||:그냥 커피나 한잔 하자 불러도 되니까요. 커피 잘 하는 집을 하나 알거든요.
-NPC-Nele(7)<Speaker>넬레</Speaker>||:.....
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:넬레는 눈알을 굴리면서 쪽지를 낚아챘다.
-NPC-Nele(7)<Speaker>넬레</Speaker>||:괜한 기대 말아요.
-()<Speaker></Speaker>||:넬레가 휘휘 손을 젓자, J는 피식하며 모나와 함께 거리 반대편으로 사라졌다.
-()<Speaker></Speaker>||:그리고 두 사람이 시야에서 완전히 사라진 것을 확인하자, 넬레는 휴대폰을 꺼내 어딘가로 전화를 걸었다.
-()<Speaker>？？？</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>——넬레!!</color>+<color=#00CCFF>너 지금 어딨어!?</color>
-NPC-Nele(7)<Speaker>넬레</Speaker>||:어우 귀청이야, 소리지르지 마!+지금 그러니까, 어... 아마노 홈 앞에 있어.+빨리 데리러 와 줘!
-()<Speaker>？？？</Speaker>||:<color=#00CCFF>바로 갈 테니까 꼼짝 말고 거기 있어!</color>
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>86</BIN>:......
-()<Speaker></Speaker>||<SE1>AVG_engine_speedup</SE1>:부르릉――+그 말대로, 얼마 안 가 차 한 대가 넬레가 있는 곳을 향해 맹렬한 속도로 달려왔다.
-()<Speaker>？？？</Speaker>||:넬레――!!
-()<Speaker></Speaker>||<SE1>AVG_Car_Skid</SE1>:끼이익!!+날카로운 급정거 소리를 내며 멈춰 선 차에서 한 사람이 차문을 박차고 나왔다.
-NPC-Nele(4)<Speaker>넬레</Speaker>||:미아!!
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||<SE1>AVG_20Winter_Door_Car_Open</SE1>:무슨 일로 이런 데까지 왔어?!
-NPC-Nele(5)<Speaker>넬레</Speaker>||:어... 설명하자면 좀 복잡한데...+아무튼, 짜증나는 사람 따돌리느라 그랬어.
-NPC-Nele(4)<Speaker>넬레</Speaker>||:그보다, 미아! 나 가지고 나왔어! 이거!
-()<Speaker></Speaker>||:넬레는 차에서 내린 인형에게 손에 든 물건을 흔들어 보이면서 장난스레 혀를 내밀었다.
-APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:저, 정말로 거길 들어갔다 왔어?! 거기 정부가 폐쇄했잖아!
-APC556(5)<Position>0,120</Position>;NPC-Nele(4)<Speaker>넬레</Speaker>||:"하면 된다"는 말씀!
-APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(4)||:하아... 그래 그래, 무사하면 됐지 뭐. 얼른 돌아가자.
-NPC-Nele(4)<Speaker>넬레</Speaker>||:응!
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Car_Open</SE1>:넬레는 냉큼 조수석에 탔다.
-NPC-Nele(4)<Speaker>넬레</Speaker>||<SE1>AVG_20Winter_Door_Car_Close</SE1>:집으로~!
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:...응.
-()<Speaker></Speaker>||<SE1>AVG_engine_speedup</SE1>:미아는 고개를 끄덕이고 다시 차의 시동을 걸었다.
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>86</BIN><BGM>BGM_Empty</BGM>:......
-NPC-Keven(0)<Speaker>J</Speaker>||:......
-NPC-Keven(0);SP9(0)<Speaker>모나</Speaker>||:명백한 공무 집행 방해죄인데, 왜 바로 체포하지 않았죠?
-NPC-Keven(0)<Speaker>J</Speaker>;SP9(0)||:대장은 넌데 왜 나한테 물어?
-NPC-Keven(0);SP9(0)<Speaker>모나</Speaker>||:당신이 그녀를 추적하자 했잖아요.+저는 허락하지 않았습니다.
-NPC-Keven(0)<Speaker>J</Speaker>;SP9(0)||:하지만 이렇게 따라왔잖아?
-SP9(0)<Speaker>모나</Speaker>||:당신 정말——
-()<Speaker></Speaker>||:인형인 모나도 결국 J 때문에 인내심이 바닥날 것만 같았다.
-SP9(0)<Speaker>모나</Speaker>||:됐어요... 돌아가요.
-NPC-Keven(0)<Speaker>J</Speaker>||:......
-()<Speaker></Speaker>||:그렇게 둘이 나란히 걷던 도중, J가 갑자기 발을 멈췄다.
-SP9(0)<Speaker>모나</Speaker>||:또 무슨 일이죠?
-NPC-Keven(0)<Speaker>J</Speaker>||:먼저 가 봐, 잠깐 들러야 할 데가 생각났어.
-SP9(0)<Speaker>모나</Speaker>||:또 무단으로 행동할 셈인가요?
-NPC-Keven(0)<Speaker>J</Speaker>||:그냥 개인적인 일입니다요, 이 아가씨야.
-SP9(0)<Speaker>모나</Speaker>||:...그러길 바랍니다.
-()<Speaker></Speaker>||:모나는 의심스러운 눈초리를 거두지 않았지만, 순순히 J의 "요청"을 들어주었다.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:그리고 이번엔 J가, 모나가 길을 따라 사라진 것을 확인한 다음 주머니에서 K에게 받은 쪽지를 꺼냈다.
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>413</BIN><BGM>BGM_Room</BGM>:독일 베를린의 시가지.+가동 정지 처분된 갈라테아 제약 공장 앞.
+SP9(0)<Speaker>모나</Speaker>||:합계 6명, 인계합니다.
+()<Speaker>경찰</Speaker>||:네... 두 분 모두 수고 많으셨습니다.+설마 진짜로 저 난민들 중에 공장 안으로 쳐들어가는 사람이 나올 줄이야... 저희밖에 없었으면 어떻게 됐을지 모르겠습니다.
+SP9(0)<Speaker>모나</Speaker>||:응당 저희가 해야 하는 일이었으니, 감사의 말은 필요 없습니다.
+NPC-Keven(0)<Speaker>J</Speaker>||:이 작자들, 소란을 틈타서 위험 물품 보관실에 들어갔습니다.+혹시 모르니까 우린 안을 다시 살펴볼게요.
+()<Speaker>경찰</Speaker>||:알겠습니다... 정말이지, 무슨 일이라도 생겼으면 저희가 책임질 판이었네요.
+SP9(0)<Speaker>모나</Speaker>||:그럼 계속해서 현장 질서 관리를 부탁드립니다.
+()<Speaker>경찰</Speaker>||:아 네, 알겠습니다!+수고하십시오!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>18</BIN><Night><SE1>ClothingUp</SE1>:J가 앞장서 차단선을 넘고 폐쇄되어 전력도 끊긴 공장 안으로 들어섰다.
+NPC-Keven(0)<Speaker>J</Speaker>||:저 사람들, 진짜 안으로 쳐들어올 줄이야...
+NPC-Keven(0);SP9(0)<Speaker>모나</Speaker>||:자료에 따르면 이번이 처음 있는 일도 아닌 것 같습니다.
+NPC-Keven(0)<Speaker>J</Speaker>;SP9(0)||:시위대와 경찰의 충돌이라든가 폭력 사태라든가는 흔한 일이지만, 무단 침입은 차원이 다르지.+오늘은 그나마 폐쇄된 약 공장이었으니 망정이지, 당장 내일 시청에 우르르 쳐들어갈지 누가 알아?
+NPC-Keven(0);SP9(0)<Speaker>모나</Speaker>||:그렇군요.
+NPC-Keven(5)<Speaker>J</Speaker>;SP9(0)||:...이보세요 책임자 인형 아가씨, 반응이 왜 그래?
+NPC-Keven(5);SP9(0)<Speaker>모나</Speaker>||:의견을 귀담아 듣는 것도 합리적이라 생각합니다만... J 요원, 혹시 임무와 무관한 감정을 품고 저와 소통하는 겁니까?
+NPC-Keven(5)<Speaker>J</Speaker>||:말을 말아야지...
+()<Speaker></Speaker>||:아직은 해가 중천에 뜬 대낮이었기에, 햇빛이 전등 하나 안 켜진 공장의 내부를 밝혔다.
+SP9(0)<Speaker>모나</Speaker>||:......
+()<Speaker></Speaker>||:그때, 모나가 갑자기 걸음을 멈췄다.
+NPC-Keven(0)<Speaker>J</Speaker>||:뭐야?
+SP9(0)<Speaker>모나</Speaker>||:J 요원 말대로, 누가 있습니다.
+NPC-Keven(5)<Speaker>J</Speaker>||:......!
+SP9(0)<Speaker>모나</Speaker>||:저쪽입니다.
+()<Speaker></Speaker>||:둘은 기척이 난 방향으로 조용히 접근했다.+J가 눈치를 주자, 모나는 바로 그 뜻을 이해하곤 수신호로 답하면서 벽에 붙어 다른 방향으로 우회했다.
+NPC-Keven(0)<Speaker>J</Speaker>||<SE1>Select</SE1>:지금 거기 있는 불법 침입자! 너흰 이미 포위됐다! 즉시 무장을 버리고 투항해라!+재차 경고한다! 즉시 투항해라!
+()<Speaker>？？？</Speaker>||:히익!? 자, 잠깐만요! 전 나쁜 사람 아니에요!+쏘지 마세요!
+NPC-Keven(0)<Speaker>J</Speaker>||:......
+()<Speaker></Speaker>||:예상과는 다른, 젊은 여성의 목소리였다.
+()<Speaker>？？？</Speaker>||<SE1>AVG_bigglassbreak</SE1>:꺄악!! 살살! 살살 해요!
+SP9(0)<Speaker>모나</Speaker>||:목표 제압 완료. 무기 미소지를 확인해 경보를 해제합니다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그 말에 J도 총을 내렸다. 유리창이 깨져 난장판이 된 실험실 한구석에, 모나에게 제압된 여성이 바닥에 엎어져 있었다.
+NPC-Nele(6)<Speaker>？？？</Speaker><Shake>0.1</Shake>||:놔 주세요! 저, 저는 여기의 직원이에요!
+NPC-Keven(0)<Speaker>J</Speaker>||:직원이요?
+()<Speaker></Speaker>||:모나는 꺾었던 팔을 놓았지만, 경계를 풀지는 않았다.
+SP9(0)<Speaker>모나</Speaker>||:무기도 없고, 훈련도 받지 않은 일반인으로 보입니다.
+()<Speaker></Speaker>||:억울하단 표정으로 꺾였던 팔을 문지르며 바닥에 앉은 그 여성은, 확실히 난민도, 테러리스트도 아닌 것처럼 보였다.+J는 그녀의 사원증에 시선이 향했다.
+NPC-Keven(5)<Speaker>J</Speaker>||:코넬리아 슈펠?
+NPC-Keven(5);NPC-Nele(5)<Speaker>넬레</Speaker>||:..."넬레"라 불러 주세요.
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(5)||:좋습니다, 넬레 씨.+왜 여기 들어왔는지 설명해 주실까요?
+NPC-Keven(5);NPC-Nele(6)<Speaker>넬레</Speaker>||:여긴 제가 일하는 실험실이에요! 제 직장이라고요!
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Nele(6)||:아, 그래요? 하지만 정부가 운영 정지 처분을 내렸는데요. 정문 앞의 차단선 못 봤습니까?+여기 직원이더라도 명실상부한 불법 무단 침입입니다. 현행범으로 체포해도 할말 없어요.
+NPC-Nele(5)<Speaker>넬레</Speaker>||:윽...
+NPC-Keven(0)<Speaker>J</Speaker>||:끌고 가.
+()<Speaker></Speaker>||:모나가 고개를 끄덕이자, 넬레가 당혹해하면서 손사래 쳤다.
+NPC-Nele(6)<Speaker>넬레</Speaker>||:자자자잠깐만요! 저, 저는 그냥 개인 물품을 가지러 온 거예요!
+NPC-Keven(5)<Speaker>J</Speaker>||:그게 뭡니까?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:넬레는 눈에 띄게 긴장한 모습으로 바닥에 떨어뜨린 상자를 열어 보였다.+그 안에 든 것은 두툼한 자료 뭉치와, 크기가 제각각인 약병들이었다.
+NPC-Nele(5)<Speaker>넬레</Speaker>||:이... 이건 제 연구 성과예요!+어떻게든 작업을 계속하고 싶어서...
+()<Speaker></Speaker>||:모나가 확인차 상자 속을 뒤져봤다.
+SP9(0)<Speaker>모나</Speaker>||:맞습니다, 실험 데이터와 그 샘플들입니다.
+()<Speaker></Speaker>||:모나가 뒤적이던 약병들을 본 순간, J의 동공이 수축했다.
+NPC-Keven(5)<Speaker>J</Speaker>||:이게... 다 뭡니까?
+NPC-Nele(6)<Speaker>넬레</Speaker>||:그... 그러니까, 제 연구 성과...
+NPC-Keven(5)<Speaker>J</Speaker>||:댁 직업이...?
+NPC-Nele(6)<Speaker>넬레</Speaker>||:...약품 연구원이요.
+()<Speaker></Speaker>||:놀란 가슴을 간신히 진정시키고, 무심한 척 약병 하나를 집어든 J는 위에 그려진 작은 로고를 가리키며 물었다.
+NPC-Keven(5)<Speaker>J</Speaker>||:이건 무슨 표시죠?
+NPC-Nele(6)<Speaker>넬레</Speaker>||:그레이 생물과학 연구 센터의 로고예요, 여긴 부속 실험실이고요.
+NPC-Keven(5)<Speaker>J</Speaker>||:그레이 생물과학 연구 센터...
+SP9(0)<Speaker>모나</Speaker>||:거기가 어쨌습니까?
+NPC-Keven(0)<Speaker>J</Speaker>||:...아니, 그냥.
+()<Speaker></Speaker>||:J가 고개를 젓더니, 평소의 그 얼굴로 되돌아왔다. 그리곤 한 걸음 물러나, 넬레에게 나가는 길을 열어 주었다.
+NPC-Keven(0)<Speaker>J</Speaker>||:기왕 이렇게 된 거, 넬레 씨가 안전하게 귀가할 수 있도록 호위해드리죠.+밖엔 아직도 시위대가 난리를 부리고 있는데, 가녀린 숙녀분이 혼자 나갔다가 위험해지면 큰일이잖아요?
+NPC-Nele(6)<Speaker>넬레</Speaker>||:아, 감사합... 네? 호위한다고요?
+()<Speaker></Speaker>||:모나도 "지금 이 사람이 뭔 소린가" 하는 표정으로 J를 홱 돌아봤다.
+NPC-Keven(0)<Speaker>J</Speaker>||:수작 부리려는 거 아니니까 걱정 마세요.
+NPC-Nele(7)<Speaker>넬레</Speaker>||:아뇨, 필요없어요.
+NPC-Keven(0)<Speaker>J</Speaker>||:싫다고 해도 할 겁니다.+자꾸 그렇게 거절하신다면야 어쩔 수 없죠 뭐, 상층부에 보고하는 수밖에.
+NPC-Nele(5)<Speaker>넬레</Speaker>||:......
+()<Speaker></Speaker>||:넬레는 도끼눈으로 J를 쏘아보다, 결국 체념한 듯 그가 내어 준 방향으로 걸어갔다.
+SP9(0)<Speaker>모나</Speaker>||:...무슨 생각입니까?
+NPC-Keven(0)<Speaker>J</Speaker>||:갈라테아가 하는 짓이 아무래도 수상하단 생각, 안 들어? 정부가 폐쇄한 시설에 직원을 보내 물건을 빼돌리려 하다니 말이야.+받은 일도 해치웠으니, 다음 임무 받을 때까지 잠깐 딴짓한다고 문제될 거 없잖아.+왜, "국장님"한테 고자질하려고?
+SP9(0)<Speaker>모나</Speaker>||:그럴 생각 없습니다.
+NPC-Keven(0)<Speaker>J</Speaker>||:그럼 따라오기나 해.
+SP9(0)<Speaker>모나</Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>86</BIN><BGM>m_avg_casual</BGM>:......+사람들의 눈에 띄지 않도록, 세 명은 좁은 길을 따라 걸었다.+J와 모나 사이에 민간인인 넬레가 서 있으니, 키가 한 뼘은 더 작아 보였다.
+NPC-Nele(5)<Speaker>넬레</Speaker>||:당신들, 어디까지 따라올 셈이에요?
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(5)||:당신이 안전한 게 확인될 때까지죠.
+NPC-Keven(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:전 지금도 안전한데요!
+NPC-Keven(0)<Speaker>J</Speaker>||:그건 저희가 판단합니다.
+SP9(0)<Speaker>모나</Speaker>||:......
+NPC-Keven(0)<Speaker>J</Speaker>||:그나저나, 당신 꽤 젊어 보이는데, 실험실 인턴입니까?
+NPC-Keven(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:조수거든요? 정직원이에요, 정, 직, 원.+선생님의 "이둔" 연구에 참여하는 걸 꿈에 그리는 사람이 얼마나 많은데요!
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(7)||:그럼 설마, 그 병에 든 게 이둔의 시제품인가요?
+NPC-Keven(0);NPC-Nele(5)<Speaker>넬레</Speaker>||:......네. 정부가 일을 좀 더 효율적으로 처리했다면 진작에 출시돼서 많은 사람들을 살렸을지도 몰라요.
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(5)||:호오? 자신만만하십니다, 연구원 아가씨?
+NPC-Keven(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:그럼요! 우리의 실험은 아주 성공적이었다고요!
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(7)||:하지만 듣자하니, "닥터 그레이"는 위법성 연구 혐의로 도주했다는데요.
+NPC-Keven(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:웃기지도 않는 소리 말아요, 연구 센터는 아직도 멀쩡하게 돌아가고 있어요! 각 부서도 업무를 배정해 맡은 바를 다하고 있다고요!+제가 공장에 간 것도 다 저번 실험 데이터를 정리해서 제출하기 위해서예요.
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(7)||:아, 그래요? 그래서 지금 그 "그레이 선생님"은 어디 계신답니까?
+NPC-Keven(0);NPC-Nele(6)<Speaker>넬레</Speaker>||:그건... 잠깐만요, 선생님한테 무슨 폐를 끼치려고 자꾸 꼬치꼬치 캐물어요?
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(6)||:그 사람한테 폐가 될 건 제가 아니라고 봅니다만.
+NPC-Keven(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:으... 하긴, 선생님 나오라면서 쳐들어온 폭도들이 한둘이 아니었죠... 사무실도 몇 번이나 리폼했는지 몰라요.+하지만 선생님 성격은 제가 잘 알아요, 그딴 놈들한테 겁먹으실 분이 절대 아니에요.+의약품 연구에 몸담은 이상, 저희 모두 각오하고 모든 부조리에 맞서 싸울 거예요!
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Nele(7)||:풉!
+NPC-Keven(0);NPC-Nele(7)<Speaker>넬레</Speaker>||:지금 저 놀리는 거예요?
+NPC-Keven(0)<Speaker>J</Speaker>||:아뇨, 비웃은 겁니다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>86</BIN>:넬레가 발길을 멈춘 곳은 어느 아파트였다.
+NPC-Nele(7)<Speaker>넬레</Speaker>||:설마 침실까지 따라올 생각은 아니죠?
+NPC-Keven(0)<Speaker>J</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:대답 대신, J는 수첩을 꺼내 자신의 연락처를 적고 종이를 찢어 건네주었다.
+NPC-Keven(0)<Speaker>J</Speaker>||:무슨 일 생기면 언제든지 연락 주세요.
+()<Speaker></Speaker>||:하지만 넬레는 물끄러미 바라보기만 할 뿐, 쪽지를 받으려 하지 않았다.
+NPC-Nele(7)<Speaker>넬레</Speaker>||:저희는 잘못한 거 없어요. 무슨 음모론을――
+NPC-Keven(0)<Speaker>J</Speaker>||:그냥 커피나 한잔 하자 불러도 되니까요. 커피 잘 하는 집을 하나 알거든요.
+NPC-Nele(7)<Speaker>넬레</Speaker>||:.....
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:넬레는 눈알을 굴리면서 쪽지를 낚아챘다.
+NPC-Nele(7)<Speaker>넬레</Speaker>||:괜한 기대 말아요.
+()<Speaker></Speaker>||:넬레가 휘휘 손을 젓자, J는 피식하며 모나와 함께 거리 반대편으로 사라졌다.
+()<Speaker></Speaker>||:그리고 두 사람이 시야에서 완전히 사라진 것을 확인하자, 넬레는 휴대폰을 꺼내 어딘가로 전화를 걸었다.
+()<Speaker>？？？</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>——넬레!!</color>+<color=#00CCFF>너 지금 어딨어!?</color>
+NPC-Nele(7)<Speaker>넬레</Speaker>||:어우 귀청이야, 소리지르지 마!+지금 그러니까, 어... 아마노 홈 앞에 있어.+빨리 데리러 와 줘!
+()<Speaker>？？？</Speaker>||:<color=#00CCFF>바로 갈 테니까 꼼짝 말고 거기 있어!</color>
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>86</BIN>:......
+()<Speaker></Speaker>||<SE1>AVG_engine_speedup</SE1>:부르릉――+그 말대로, 얼마 안 가 차 한 대가 넬레가 있는 곳을 향해 맹렬한 속도로 달려왔다.
+()<Speaker>？？？</Speaker>||:넬레――!!
+()<Speaker></Speaker>||<SE1>AVG_Car_Skid</SE1>:끼이익!!+날카로운 급정거 소리를 내며 멈춰 선 차에서 한 사람이 차문을 박차고 나왔다.
+NPC-Nele(4)<Speaker>넬레</Speaker>||:미아!!
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||<SE1>AVG_20Winter_Door_Car_Open</SE1>:무슨 일로 이런 데까지 왔어?!
+NPC-Nele(5)<Speaker>넬레</Speaker>||:어... 설명하자면 좀 복잡한데...+아무튼, 짜증나는 사람 따돌리느라 그랬어.
+NPC-Nele(4)<Speaker>넬레</Speaker>||:그보다, 미아! 나 가지고 나왔어! 이거!
+()<Speaker></Speaker>||:넬레는 차에서 내린 인형에게 손에 든 물건을 흔들어 보이면서 장난스레 혀를 내밀었다.
+APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:저, 정말로 거길 들어갔다 왔어?! 거기 정부가 폐쇄했잖아!
+APC556(5)<Position>0,120</Position>;NPC-Nele(4)<Speaker>넬레</Speaker>||:"하면 된다"는 말씀!
+APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>;NPC-Nele(4)||:하아... 그래 그래, 무사하면 됐지 뭐. 얼른 돌아가자.
+NPC-Nele(4)<Speaker>넬레</Speaker>||:응!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Car_Open</SE1>:넬레는 냉큼 조수석에 탔다.
+NPC-Nele(4)<Speaker>넬레</Speaker>||<SE1>AVG_20Winter_Door_Car_Close</SE1>:집으로~!
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:...응.
+()<Speaker></Speaker>||<SE1>AVG_engine_speedup</SE1>:미아는 고개를 끄덕이고 다시 차의 시동을 걸었다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>86</BIN><BGM>BGM_Empty</BGM>:......
+NPC-Keven(0)<Speaker>J</Speaker>||:......
+NPC-Keven(0);SP9(0)<Speaker>모나</Speaker>||:명백한 공무 집행 방해죄인데, 왜 바로 체포하지 않았죠?
+NPC-Keven(0)<Speaker>J</Speaker>;SP9(0)||:대장은 넌데 왜 나한테 물어?
+NPC-Keven(0);SP9(0)<Speaker>모나</Speaker>||:당신이 그녀를 추적하자 했잖아요.+저는 허락하지 않았습니다.
+NPC-Keven(0)<Speaker>J</Speaker>;SP9(0)||:하지만 이렇게 따라왔잖아?
+SP9(0)<Speaker>모나</Speaker>||:당신 정말——
+()<Speaker></Speaker>||:인형인 모나도 결국 J 때문에 인내심이 바닥날 것만 같았다.
+SP9(0)<Speaker>모나</Speaker>||:됐어요... 돌아가요.
+NPC-Keven(0)<Speaker>J</Speaker>||:......
+()<Speaker></Speaker>||:그렇게 둘이 나란히 걷던 도중, J가 갑자기 발을 멈췄다.
+SP9(0)<Speaker>모나</Speaker>||:또 무슨 일이죠?
+NPC-Keven(0)<Speaker>J</Speaker>||:먼저 가 봐, 잠깐 들러야 할 데가 생각났어.
+SP9(0)<Speaker>모나</Speaker>||:또 무단으로 행동할 셈인가요?
+NPC-Keven(0)<Speaker>J</Speaker>||:그냥 개인적인 일입니다요, 이 아가씨야.
+SP9(0)<Speaker>모나</Speaker>||:...그러길 바랍니다.
+()<Speaker></Speaker>||:모나는 의심스러운 눈초리를 거두지 않았지만, 순순히 J의 "요청"을 들어주었다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:그리고 이번엔 J가, 모나가 길을 따라 사라진 것을 확인한 다음 주머니에서 K에게 받은 쪽지를 꺼냈다.
+()||<黑屏1>:

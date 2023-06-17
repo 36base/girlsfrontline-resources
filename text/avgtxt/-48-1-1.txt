@@ -1,84 +1,84 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><narrator>:2주 전.
-()<Speaker></Speaker>||<common_effect>%%code=DoomsdayClock02%%wait=1%%</common_effect>:......
-()||<黑屏1>:
-()<Speaker>？？？</Speaker>||<黑屏2><SE1>AVG_Water_Drip</SE1><SE1>AVG_Walk</SE1><BGM>BGM_Room</BGM>:......
-NPC-MrsGray(3)<Speaker>그레이</Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><SE1>ClothingUp</SE1><BIN>324</BIN>:익숙한 건물의 입구 앞에서, 그레이는 주머니에서 막대사탕을 꺼내 물며 거무튀튀한 액체에 잠긴 폐허를 바라봤다.
-NPC-MrsGray(3)<Speaker>그레이</Speaker>||:냄새 한번 지독하군.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:붕괴액입니다... 벌써 이렇게나 침식되다니...
-()<Speaker></Speaker>||<SE1>AVG_Walk</SE1>:전전긍긍하며 뒤따라오는 하얀 니토와 함께, 그레이는 폐허 안으로 발을 디뎠다.+뾰족한 하이힐이 난잡하게 깨진 벽돌 조각을 밟자 튀어오른 흙탕물이, 그녀의 바지 자락을 아슬아슬하게 빗겨 나갔다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:아무리 나르시스 님이라도, 이건... 지나칩니다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:......
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:몇 걸음 안 가, 발밑에서 잘근거리던 벽돌 조각과는 색다른 소리가 들렸다.+나르시스의 부유검... 정확히는 부서진 부유검의 조각이었다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:이건... 나르시스 님의 칼날?+아버님의 최고 걸작이 어떻게 이리...
-()<Speaker></Speaker>||<SE1>AVG_fall_into_water</SE1>:부글부글....
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:!
-()<Speaker></Speaker>||:그레이의 입꼬리가 슬쩍 올라가면서, 이 사이에 물려 있던 사탕이 으직 깨졌다.
-()<Speaker></Speaker>||<SE1>AVG_splash_water</SE1><震屏3>:하얀 니토가 칼날 조각을 집는 그 순간, 그녀 앞의 구정물이 끓어오르는 듯 거품이 일었다.+그리고 시꺼멓고 가느다란 형체가 솟구치면서 오물을 흩뿌려, 하얀 니토의 눈을 가렸다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker><Shake>0.1</Shake>||<SE1>AVG_Punch_Hit</SE1>:커헉!?
-()<Speaker></Speaker>||<SE1>Rope</SE1>:하얀 니토의 목을, 반토막 난 팔이 움켜쥐었다. 지독한 악취의 점액질의 오물 속에서 뻗어나온 그 팔뚝은 틀림없는 나르시스의 것이었다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:나르시스를 찢어버릴 정도의 힘이라...
-()<Speaker></Speaker>||:목이 졸려 몸부림치는 니토에게는 눈길도 주지 않고, 그레이는 매우 흥미로워하는 눈빛으로 주위를 둘러보았다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker><Shake>0.1</Shake>||<SE1>Rope</SE1>:큭... 카학......
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:결국 신음이 거의 멎어 갈 지경이 되어서야, 그레이는 하얀 니토를 나르시스의 손아귀에서 풀어 주었다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:허억! 콜록콜록...
-()<Speaker>나르시스</Speaker>||<SE1>AVG_Slime_Movement</SE1>:――어... 죽여버리겠어...+쓰레기들... 망할 쓰레기들...
-()<Speaker></Speaker>||:인사불성임에도 계속해서 욕을 내뱉는 나르시스가 수면에 떠올랐다. 얼굴은 부서지고, 몸뚱이는 상반신 일부만 남은 처참한 몰골이었다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:나, 나르시스 님...!
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:가엾기도 하지.
-()<Speaker>나르시스</Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:죽어... 다 죽어...
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:대적할 자 없는 나르시스 님이 어떻게 이렇게...+손상도, 약 80%... 즉시 회수해 수복해야 합니다.+그, 그런데...
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:몰리도 님은 어디에...? 적의 시체도 파악되지 않습니다...
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:스승님은 여기에 없다.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐빅.+때마침 하얀 니토의 통신음이 울렸다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:......
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:그레이 님, 그들이 움직였습니다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:......
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:그 애는 네가 데려가고, 애들한테는 현장 말끔하게 청소하라 해.+나머진 모조리 폭파해 버려.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:네.
-()<Speaker>나르시스</Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:다... 죽여버릴 거야...
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Truth</BGM><BIN>239</BIN><Night>:......+국가안전국의 차단선이 양옥 주위를 철저하게 둘러싸, 베를린의 경찰들마저 현장에 접근조차 할 수 없었다.+그저 이따금씩 경비 담당 요원들이, 할일 없는 기자들이나 혹시 모를 불법 침임자를 경계하는 것이 보일 뿐이었다.
-()||<黑屏1>:
-NPC-Keven(4)<Speaker>J</Speaker>||<SE1>AVG_tele_connect</SE1>:하아아... 진짜 이해가 안 되네. 이 안건, 쭉 내가 담당이었잖아.+근데 너 또 왜 이런 타이밍에 나타나선 냅다 지휘권부터 뺏냐? 엉? 그리고 왜 내가 조사하면 안 되는데? 지금 나 따돌리냐?+얌마, 케인. 너 머리에 문제라도 생겼어? 말 좀 해 보라니까?
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>...일단 진정부터 해라, J.</color>
-()<Speaker></Speaker>||:통신기 너머의 K는 단어 선택에 신중하려는 듯 뜸을 들였다.
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>우선 너도 알다시피, 이번 일에 대해선 우리 안전국 내부에서부터 의견이 갈리는 중이다.</color>+<color=#00CCFF>담당인 너야 패러데우스가 라이트와 안젤리아를 습격했다 믿어 의심치 않겠지만, 보고만 받던 우리 입장에서 볼 땐 그렇지 않아.</color>+<color=#00CCFF>현장에 남은 것이라곤 우리 요원들의 시신과 신소련 인형의 잔해밖에 없었어. 패러데우스는 흔적은커녕 정말 놈들이 정말 습격했는지 의심해도 이상하지 않을 정도다.</color>
-NPC-Keven(4)<Speaker>J</Speaker>;NPC-Jason(2)||:그래서 지금 너도 저놈들 말을 믿는단 거냐?+뭐? "안젤리아가 요원들을 기습, 살해하고 도주했다"?+헛소리 집어치우라고 해 제기랄!
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>내가 믿고 안 믿고의 문제가 아니라니까!</color>
-()<Speaker></Speaker>||:감정적으로 항변하는 J에게 K도 절로 언성을 높였다.
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>그저 소련인이라서 안젤리아를 아니꼽게 보던 자들은 진작부터 있었어!</color>+<color=#00CCFF>하루아침에 갑자기 튀어나온 게 아니란 걸 너도 알 거 아니야!</color>+<color=#00CCFF>그리고 아직 조사 중이다! 아무도 확답을 내리지 않았으니까 진정하고 결론 나올 때까지 기다려!</color>
-NPC-Keven(4)<Speaker>J</Speaker>;NPC-Jason(2)||:그러니까 조사 내가 하겠다니까!? 오늘이면 끝이라고!+내일 동터서 테이프 치우고 현장 인계하면 그땐 정말 아무것도 못 해!
-NPC-Keven(4);NPC-Jason(4)<Speaker>K</Speaker>||:<color=#00CCFF>안 된다고 몇 번을 말해!</color>
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(4)||:쓰으읍...... 왜.
-NPC-Keven(5);NPC-Jason(4)<Speaker>K</Speaker>||:<color=#00CCFF>...이 일은 더는 중요치 않게 되었다.</color>+<color=#00CCFF>일의 복잡함이 우리가 감당할 수 있는 수준을 넘어섰다고. 무슨 말인지 알겠어?</color>+<color=#00CCFF>안젤리아를 찾는 데 시간과 인력을 투자하기보다, 지금 눈앞에 닥친 문제를 해결해야 해.</color>
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(4)||:그러니까... 안젤리아도 포기하고, 젊은 나이에 희생한 녀석들에 대해서도 일언반구도 않겠다?
-NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:<color=#00CCFF>신임 국장의 의사다.</color>
-NPC-Keven(5)<Speaker>J</Speaker>||:하, 새로 부임했다고 아주 기세가 등등하시구만.
-()<Speaker></Speaker>||:J는 거침없이 말을 내뱉었다.
-NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>너 걱정해서 하는 소리니까 잠자코 듣기나 해.</color>+<color=#00CCFF>지금은 민감한 시기니, 멍청한 짓은 하지도 말고 생각도――</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:더는 못 듣겠는지, J가 통신을 뚝 끊어버렸다.
-()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1><震屏3>:그리고 통신기를 쥔 손으로 핸들을 쾅 내리쳤다.
-NPC-Keven(5)<Speaker>J</Speaker>||:바보 짓 하지 말라고?+너나 바보 같은 소리 마셔...
-NPC-Keven(4)<Speaker>J</Speaker>||:이걸... 이걸 어떻게 그냥 넘어가...+젠장... 오늘 반드시 들어가고 만다. 막을 수 있음 막아보라 해.
-()<Speaker></Speaker>||:경찰 신고 소식을 받자마자 출동한 슈타지였지만, 이번 사건을 완전히 덮을 수는 없었다.+다행히도 세간에 공개되선 안 될 단서는 전부 확보했고, 여론의 시선도 전부 희생자들에게 집중되어 정부에게 비난과 질의의 화살이 돌려졌다.+그중 가장 격하게 반응했던 것은 바로 유명 아나운서 겸 기자 섀도리스였다.
-NPC-Keven(5)<Speaker>J</Speaker>||:섀도...
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:J가 몸을 뒤로 젖혀 머리를 운전석 머리 받침에 부딪히는 모습에, 따라왔던 부하 요원은 걱정을 감추지 못했다.
-()<Speaker>슈타지 요원</Speaker>||:형님... 정말 하실 겁니까?
-NPC-Keven(5)<Speaker>J</Speaker>||:......내가 지금 농담하는 거 같냐.
-()<Speaker>슈타지 요원</Speaker>||:아뇨, 하지만 전혀 형님답지 않아서 말입니다.+슈타지 요원이 슈타지가 봉쇄한 건물에 잠입한다니... 누가 봐도 이상하지 않습니까.+게다가 들켰다간 진술서 쓰는 걸로 안 끝날 겁니다!
-NPC-Keven(5)<Speaker>J</Speaker>||:하, 내가 너보다 규정을 모를까 봐?
-NPC-Keven(5)<Speaker>J</Speaker>||:아침이 되면 저 안의 물건들은 죄다 부수고 들어내고 치워서 머리카락 한 올도 안 남을 거야.+그렇게 되면 나중 가서 진실을 파헤치려 해도 신한테 기도나 하는 수밖에 없어!
-()<Speaker>슈타지 요원</Speaker>||:......
-()<Speaker></Speaker>||:J가 숨을 크게 들이마셨다. 양옥에서의 사건 직후 전임 국장은 바로 경질된 한편, 최근 들어 독일의 국내 정세도 긴장감이 팽팽하게 조성되어 갈수록 골치 아픈 일이 많아지는 형국이었다.+J도 솔직히 예전 같았으면 당장에라도 이 베를린이라는 불구덩이에서 빠져나가려 했을 것이다. 하지만 이번엔...
-()<Speaker>슈타지 요원</Speaker>||:그냥 나중에 관련 증거물 열람 신청하면 안 됩니까?
-NPC-Keven(5)<Speaker>J</Speaker>||:......+슈타지의 방식은 내가 잘 알아...+처음부터 안 끼워 준 사람은 영원히 안 끼워 줘.
-NPC-Keven(5)<Speaker>J</Speaker>||:너도 괜히 불똥 튀고 싶지 않은 거 아니까, 그냥 망만 봐 줘. 나 혼자 들어갈 거야.
-()<Speaker>슈타지 요원</Speaker>||:...알겠습니다.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Car_Open</SE1>:J는 고개를 끄덕이고, 헌팅캡으로 얼굴을 가리고서 차에서 내렸다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_20Winter_Door_Car_Close</SE1>:라이트의 죽음이, 이렇게 흐지부지되는 것은 절대 두고볼 수 없었다.
-()||<黑点1><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><narrator>:2주 전.
+()<Speaker></Speaker>||<common_effect>%%code=DoomsdayClock02%%wait=1%%</common_effect>:......
+()||<黑屏1>:
+()<Speaker>？？？</Speaker>||<黑屏2><SE1>AVG_Water_Drip</SE1><SE1>AVG_Walk</SE1><BGM>BGM_Room</BGM>:......
+NPC-MrsGray(3)<Speaker>그레이</Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><SE1>ClothingUp</SE1><BIN>324</BIN>:익숙한 건물의 입구 앞에서, 그레이는 주머니에서 막대사탕을 꺼내 물며 거무튀튀한 액체에 잠긴 폐허를 바라봤다.
+NPC-MrsGray(3)<Speaker>그레이</Speaker>||:냄새 한번 지독하군.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:붕괴액입니다... 벌써 이렇게나 침식되다니...
+()<Speaker></Speaker>||<SE1>AVG_Walk</SE1>:전전긍긍하며 뒤따라오는 하얀 니토와 함께, 그레이는 폐허 안으로 발을 디뎠다.+뾰족한 하이힐이 난잡하게 깨진 벽돌 조각을 밟자 튀어오른 흙탕물이, 그녀의 바지 자락을 아슬아슬하게 빗겨 나갔다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:아무리 나르시스 님이라도, 이건... 지나칩니다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:몇 걸음 안 가, 발밑에서 잘근거리던 벽돌 조각과는 색다른 소리가 들렸다.+나르시스의 부유검... 정확히는 부서진 부유검의 조각이었다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:이건... 나르시스 님의 칼날?+아버님의 최고 걸작이 어떻게 이리...
+()<Speaker></Speaker>||<SE1>AVG_fall_into_water</SE1>:부글부글....
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:!
+()<Speaker></Speaker>||:그레이의 입꼬리가 슬쩍 올라가면서, 이 사이에 물려 있던 사탕이 으직 깨졌다.
+()<Speaker></Speaker>||<SE1>AVG_splash_water</SE1><震屏3>:하얀 니토가 칼날 조각을 집는 그 순간, 그녀 앞의 구정물이 끓어오르는 듯 거품이 일었다.+그리고 시꺼멓고 가느다란 형체가 솟구치면서 오물을 흩뿌려, 하얀 니토의 눈을 가렸다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker><Shake>0.1</Shake>||<SE1>AVG_Punch_Hit</SE1>:커헉!?
+()<Speaker></Speaker>||<SE1>Rope</SE1>:하얀 니토의 목을, 반토막 난 팔이 움켜쥐었다. 지독한 악취의 점액질의 오물 속에서 뻗어나온 그 팔뚝은 틀림없는 나르시스의 것이었다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:나르시스를 찢어버릴 정도의 힘이라...
+()<Speaker></Speaker>||:목이 졸려 몸부림치는 니토에게는 눈길도 주지 않고, 그레이는 매우 흥미로워하는 눈빛으로 주위를 둘러보았다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker><Shake>0.1</Shake>||<SE1>Rope</SE1>:큭... 카학......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:결국 신음이 거의 멎어 갈 지경이 되어서야, 그레이는 하얀 니토를 나르시스의 손아귀에서 풀어 주었다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:허억! 콜록콜록...
+()<Speaker>나르시스</Speaker>||<SE1>AVG_Slime_Movement</SE1>:――어... 죽여버리겠어...+쓰레기들... 망할 쓰레기들...
+()<Speaker></Speaker>||:인사불성임에도 계속해서 욕을 내뱉는 나르시스가 수면에 떠올랐다. 얼굴은 부서지고, 몸뚱이는 상반신 일부만 남은 처참한 몰골이었다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:나, 나르시스 님...!
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:가엾기도 하지.
+()<Speaker>나르시스</Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:죽어... 다 죽어...
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:대적할 자 없는 나르시스 님이 어떻게 이렇게...+손상도, 약 80%... 즉시 회수해 수복해야 합니다.+그, 그런데...
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:몰리도 님은 어디에...? 적의 시체도 파악되지 않습니다...
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:스승님은 여기에 없다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐빅.+때마침 하얀 니토의 통신음이 울렸다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:......
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:그레이 님, 그들이 움직였습니다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:......
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:그 애는 네가 데려가고, 애들한테는 현장 말끔하게 청소하라 해.+나머진 모조리 폭파해 버려.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:네.
+()<Speaker>나르시스</Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:다... 죽여버릴 거야...
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Truth</BGM><BIN>239</BIN><Night>:......+국가안전국의 차단선이 양옥 주위를 철저하게 둘러싸, 베를린의 경찰들마저 현장에 접근조차 할 수 없었다.+그저 이따금씩 경비 담당 요원들이, 할일 없는 기자들이나 혹시 모를 불법 침임자를 경계하는 것이 보일 뿐이었다.
+()||<黑屏1>:
+NPC-Keven(4)<Speaker>J</Speaker>||<SE1>AVG_tele_connect</SE1>:하아아... 진짜 이해가 안 되네. 이 안건, 쭉 내가 담당이었잖아.+근데 너 또 왜 이런 타이밍에 나타나선 냅다 지휘권부터 뺏냐? 엉? 그리고 왜 내가 조사하면 안 되는데? 지금 나 따돌리냐?+얌마, 케인. 너 머리에 문제라도 생겼어? 말 좀 해 보라니까?
+NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>...일단 진정부터 해라, J.</color>
+()<Speaker></Speaker>||:통신기 너머의 K는 단어 선택에 신중하려는 듯 뜸을 들였다.
+NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>우선 너도 알다시피, 이번 일에 대해선 우리 안전국 내부에서부터 의견이 갈리는 중이다.</color>+<color=#00CCFF>담당인 너야 패러데우스가 라이트와 안젤리아를 습격했다 믿어 의심치 않겠지만, 보고만 받던 우리 입장에서 볼 땐 그렇지 않아.</color>+<color=#00CCFF>현장에 남은 것이라곤 우리 요원들의 시신과 신소련 인형의 잔해밖에 없었어. 패러데우스는 흔적은커녕 정말 놈들이 정말 습격했는지 의심해도 이상하지 않을 정도다.</color>
+NPC-Keven(4)<Speaker>J</Speaker>;NPC-Jason(2)||:그래서 지금 너도 저놈들 말을 믿는단 거냐?+뭐? "안젤리아가 요원들을 기습, 살해하고 도주했다"?+헛소리 집어치우라고 해 제기랄!
+NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>내가 믿고 안 믿고의 문제가 아니라니까!</color>
+()<Speaker></Speaker>||:감정적으로 항변하는 J에게 K도 절로 언성을 높였다.
+NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>그저 소련인이라서 안젤리아를 아니꼽게 보던 자들은 진작부터 있었어!</color>+<color=#00CCFF>하루아침에 갑자기 튀어나온 게 아니란 걸 너도 알 거 아니야!</color>+<color=#00CCFF>그리고 아직 조사 중이다! 아무도 확답을 내리지 않았으니까 진정하고 결론 나올 때까지 기다려!</color>
+NPC-Keven(4)<Speaker>J</Speaker>;NPC-Jason(2)||:그러니까 조사 내가 하겠다니까!? 오늘이면 끝이라고!+내일 동터서 테이프 치우고 현장 인계하면 그땐 정말 아무것도 못 해!
+NPC-Keven(4);NPC-Jason(4)<Speaker>K</Speaker>||:<color=#00CCFF>안 된다고 몇 번을 말해!</color>
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(4)||:쓰으읍...... 왜.
+NPC-Keven(5);NPC-Jason(4)<Speaker>K</Speaker>||:<color=#00CCFF>...이 일은 더는 중요치 않게 되었다.</color>+<color=#00CCFF>일의 복잡함이 우리가 감당할 수 있는 수준을 넘어섰다고. 무슨 말인지 알겠어?</color>+<color=#00CCFF>안젤리아를 찾는 데 시간과 인력을 투자하기보다, 지금 눈앞에 닥친 문제를 해결해야 해.</color>
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(4)||:그러니까... 안젤리아도 포기하고, 젊은 나이에 희생한 녀석들에 대해서도 일언반구도 않겠다?
+NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:<color=#00CCFF>신임 국장의 의사다.</color>
+NPC-Keven(5)<Speaker>J</Speaker>||:하, 새로 부임했다고 아주 기세가 등등하시구만.
+()<Speaker></Speaker>||:J는 거침없이 말을 내뱉었다.
+NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>너 걱정해서 하는 소리니까 잠자코 듣기나 해.</color>+<color=#00CCFF>지금은 민감한 시기니, 멍청한 짓은 하지도 말고 생각도――</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:더는 못 듣겠는지, J가 통신을 뚝 끊어버렸다.
+()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1><震屏3>:그리고 통신기를 쥔 손으로 핸들을 쾅 내리쳤다.
+NPC-Keven(5)<Speaker>J</Speaker>||:바보 짓 하지 말라고?+너나 바보 같은 소리 마셔...
+NPC-Keven(4)<Speaker>J</Speaker>||:이걸... 이걸 어떻게 그냥 넘어가...+젠장... 오늘 반드시 들어가고 만다. 막을 수 있음 막아보라 해.
+()<Speaker></Speaker>||:경찰 신고 소식을 받자마자 출동한 슈타지였지만, 이번 사건을 완전히 덮을 수는 없었다.+다행히도 세간에 공개되선 안 될 단서는 전부 확보했고, 여론의 시선도 전부 희생자들에게 집중되어 정부에게 비난과 질의의 화살이 돌려졌다.+그중 가장 격하게 반응했던 것은 바로 유명 아나운서 겸 기자 섀도리스였다.
+NPC-Keven(5)<Speaker>J</Speaker>||:섀도...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:J가 몸을 뒤로 젖혀 머리를 운전석 머리 받침에 부딪히는 모습에, 따라왔던 부하 요원은 걱정을 감추지 못했다.
+()<Speaker>슈타지 요원</Speaker>||:형님... 정말 하실 겁니까?
+NPC-Keven(5)<Speaker>J</Speaker>||:......내가 지금 농담하는 거 같냐.
+()<Speaker>슈타지 요원</Speaker>||:아뇨, 하지만 전혀 형님답지 않아서 말입니다.+슈타지 요원이 슈타지가 봉쇄한 건물에 잠입한다니... 누가 봐도 이상하지 않습니까.+게다가 들켰다간 진술서 쓰는 걸로 안 끝날 겁니다!
+NPC-Keven(5)<Speaker>J</Speaker>||:하, 내가 너보다 규정을 모를까 봐?
+NPC-Keven(5)<Speaker>J</Speaker>||:아침이 되면 저 안의 물건들은 죄다 부수고 들어내고 치워서 머리카락 한 올도 안 남을 거야.+그렇게 되면 나중 가서 진실을 파헤치려 해도 신한테 기도나 하는 수밖에 없어!
+()<Speaker>슈타지 요원</Speaker>||:......
+()<Speaker></Speaker>||:J가 숨을 크게 들이마셨다. 양옥에서의 사건 직후 전임 국장은 바로 경질된 한편, 최근 들어 독일의 국내 정세도 긴장감이 팽팽하게 조성되어 갈수록 골치 아픈 일이 많아지는 형국이었다.+J도 솔직히 예전 같았으면 당장에라도 이 베를린이라는 불구덩이에서 빠져나가려 했을 것이다. 하지만 이번엔...
+()<Speaker>슈타지 요원</Speaker>||:그냥 나중에 관련 증거물 열람 신청하면 안 됩니까?
+NPC-Keven(5)<Speaker>J</Speaker>||:......+슈타지의 방식은 내가 잘 알아...+처음부터 안 끼워 준 사람은 영원히 안 끼워 줘.
+NPC-Keven(5)<Speaker>J</Speaker>||:너도 괜히 불똥 튀고 싶지 않은 거 아니까, 그냥 망만 봐 줘. 나 혼자 들어갈 거야.
+()<Speaker>슈타지 요원</Speaker>||:...알겠습니다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Car_Open</SE1>:J는 고개를 끄덕이고, 헌팅캡으로 얼굴을 가리고서 차에서 내렸다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_20Winter_Door_Car_Close</SE1>:라이트의 죽음이, 이렇게 흐지부지되는 것은 절대 두고볼 수 없었다.
+()||<黑点1><BIN>10</BIN>:

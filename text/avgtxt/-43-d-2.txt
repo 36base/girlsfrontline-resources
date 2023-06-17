@@ -1,206 +1,206 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>288</BIN><BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM><SE1>GF_Halloween_Wind_loop</SE1>:00시 12분. 머리 위에 뜬 "공복" 표시가 사라진 Vector는 천천히 자리에서 일어났다. 그녀의 귓가엔 오직 차가운 바람의 소리만이 들렸다.
-Vector(0)<Speaker>Vector</Speaker>||:.....+P...
-Vector(0);NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>요원님?</color>
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)<通讯框>||<SE1>Stop_AVG_loop</SE1>:...너구나.
-Vector(0);NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>동료를 잃어 매우 유감입니다.</color>
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)<通讯框>||:PP-90...
-Vector(0);NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>조금 전, 스프링필드 팀이 요원님 근처를 지나갔습니다.</color>
-Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1))<通讯框>||:그들도 다크존으로 향했구나.
-Vector(0);NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>네.</color>
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>지금쯤, 아직 생존한 팀이라면 모두 다크존으로 이동하고 있겠죠.</color>
-Vector(0)<Speaker>Vector</Speaker>||<黑屏1>:...알았어. 그럼 우선 터미널에서 R93 조와 합류해야겠네.
-()||<黑屏2><BIN>55</BIN><Night><BGM>BGM_Empty</BGM>:고층 빌딩으로 둘러싸인 브라이언트 파크.
-M870P(0)<Speaker>M870</Speaker>||<BGM>GF_xDivision_Scene1</BGM>:후우... 후우...+이 겁만 잔뜩인 생쥐놈들, 스킬 포인트를 전부 도주에 찍었냐!?
-VSK(0)<Speaker>VSK94</Speaker>||:헥... 헥...
-()||:화가 아주 단단히 난 M870은 그대로 옆에 있던 민간인의 멱살을 잡았다.
-M870P(0)<Speaker>M870</Speaker>||:야! 여기서 도둑놈처럼 생긴 인형놈들 지나가는 거 못 봤냐?!
-()<Speaker>행인1</Speaker>||:......
-()<Speaker>행인2</Speaker>||:......
-()||:하지만 행인들은 M870의 말에 반응하긴커녕, 표정 하나 변하지 않았다.
-M870P(0)<Speaker>M870</Speaker>||:얌마, 눈을 동그랗게 뜨고 이 누님이 안 보이냐고! 야!
-()<Speaker>행인1</Speaker>||:......
-M870P(0)<Speaker>M870</Speaker>||:어쭈, 지금 나한테 시비 거는 거야?
-VSK(0)<Speaker>VSK94</Speaker>||:그만해 M870, 이 NPC들이랑은 상호작용이 불가능해.
-()||:M870은 화풀이 삼아 두 행인들의 몸에 벌금 딱지를 잔뜩 붙였다.
-M870P(0)<Speaker>M870</Speaker>||:P7, ART556, 너넨 저쪽을 정찰해. 놈들이 남긴 흔적은 없나 찾아봐.
-()||:......
-M870P(0)<Speaker>M870</Speaker>||:P7? ART556?
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:아직도 못 따라왔어...
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:이래서 키가 평균 미만인 애들이랑은 같이 일하기 싫다고!+꼭 중요한 때에 안 보여서, 찾으러 가면 맨홀에 빠졌거나 이상한 데에 끼었던가 한단 말이야...
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:둘을 찾으러 가야 해.
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:뭔 맨날 유치원 앞을 지키는 아줌마 같은 소릴 하냐?+걱정일랑 마셔, 걔네는 어린애가 아니니까 자기 앞가림 정돈 할 줄 알아.
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:누, 누가 매일 유치원 앞에 있었다고...!+그리고 방금 둘에게 통신해봤는데, 연락이 닿질 않아. 신호가 차단당했어.
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:아 글쎄 조급해하지 말라니까? 좀만 더 있으면 납치범이 몸값 요구하려고 전화할 테니까 냅둬.
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:......
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:아이, 분위기 전환 겸 농담으로 한 소린데 정색하지 마.+어쩌면 먼저 다크존으로 들어갔을 수도 있지. 아까부터 계속 시스템 알림 뜨잖아?+누가 다크존으로 진입했다고 말이야.
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:그럼 상황이 더 심각하지 않아?+그 애들만으로는 다크존에서 버티지 못할 거야.
-M870P(0);NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>맞습니다, 그 두 요원만으론 다크존에서 살아남기 힘듭니다.</color>
-M870P(0)<Speaker>M870</Speaker>;NPC-Dima(1)<通讯框>||:으익, 야! 대뜸 통신창 띄우지 마! 놀라서 자빠질 뻔했네!
-M870P(0);NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>어... 죄송합니다, 요원님.</color>
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>아무튼, 이후의 임무 수행을 위해서도 즉시 두 요원님을 수색하는 것을 건의합니다.</color>
-M870P(0)<Speaker>M870</Speaker>||:알았으니까, 그만 끊어.
-VSK(0)<Speaker>VSK94</Speaker>||:빨리 다크존으로 가자.
-M870P(0)<Speaker>M870</Speaker>||:어휴... 알았어, 알았다고. 다크존으로 가면 될 거 아니야.
-()||<黑点1>:VSK-94의 눈빛을 보곤 어물쩡 넘어갈 수 없음을 깨달은 M870은, 하는 수 없이 그녀에게 동의했다.
-()||<黑点2>:그리고 때마침 다크존으로 이동 중이던 Vector가 브라이언트 파크에 도달했다.+쥐 죽은 듯 조용한 공원에서, 두 인형이 각자의 물품을 정리하는 것도 보였다.
-Vector(0)<Speaker>Vector</Speaker>||:저건... 우리 전술인형들?+그리폰에 저렇게 조용한 녀석이 있었나?
-()||:Vector는 표정을 가다듬고 두 인형에게 다가갔다.
-VSK(0)<Speaker>VSK94</Speaker>||:그리고 건의할 사항이 있어.
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:뭔데?
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:체포 대상은 상의해서 정하자.
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:웃기지 마, 결정권은 당연히 대장인 나한테 있어. 뭔데? 내 자리 뺏을 셈이야?
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:아니, 그런 뜻이 아니었어.
-VSK(0)<Speaker>VSK94</Speaker>||:그저 네가 꽤 자주 충동적으로 행동한단 생각이 들어서.
-M870P(0)<Speaker>M870</Speaker>||:충동... 너 말 다 했냐?
-()||:M870과 VSK-94가 느닷없이 언쟁을 벌이는 통에, Vector는 다가가기가 망설여졌다.
-Vector(0)<Speaker>Vector</Speaker>||:......+몇 마디 안 들었는데도 마인드맵이 다운될 거 같아.+역시 그만두자, 나처럼 재수없는 인형은 모르는 사람한테 괜히 말 걸지 말자.
-()||:Vector는 슬쩍 방향을 틀어, M870과 VSK-94를 우회하려 했다.
-VSK(0)<Speaker>VSK94</Speaker>||:대드는 게 아니야.+처음에 AK-47 선배들을 음주운전 혐의로 검거하려 한 건 나도 이견 없어.
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:계속 말해 봐.
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:하지만 스프링필드 팀은 그저 물자를 모으는 중이었고, 수사에도 협조적이었잖아?+그런데 네가 무작정 위협하는 바람에 그들을 도망치게 만들었어.
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:그야 도둑이 제 발 저려서 도망친 거지!
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:그리고, 그때 소통하지 않아서 P7과 ART556이 우리와 흩어지게 됐어.+안 그래도 머릿수가 부족한데, 이래서는 업무 속행이 불가능해.
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:시끄럽네 진짜, 왜 갑자기 설교야?
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:설교가 아니라, 불필요한 손실을 줄이자는 말이야.
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:넌 신참이고 대장은 나야!+신병이랍시고 내가 언제까지고 봐줄 거 같아?+로마에선 로마법을 따르고, 이 M870의 땅에선 내 법대로 행동해.+계속 이 누님을 따라오고 싶다면, 얌전히 내가 시키는 대로 하란 말이야!
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:......+그러니까, 앞으로도 계속 그런 식으로 "정의 행사"를 하겠다고?
-VSK(0)<Speaker>VSK94</Speaker>||:아무래도, 서로 정의에 대한 이해가 전혀 다른 거 같네.
-()||:그때, M870을 향해 어디선가 돌멩이가 날아들었다. 다행히 빨리 발견하고 피해 다치지는 않았다.
-M870P(0)<Speaker>M870</Speaker>||:뭐야, 누구야? 감히 누가 겁도 없이 경찰한테 상해를 입히려 들어!?+야, 거기 있는 인형! 너냐?!+거기 하얀 머리! 너 말이야, 너! 꼼짝 마! 움직이면 쏜다!
-()||:Vector는 반사적으로 멈춰섰다.
-Vector(0)<Speaker>Vector</Speaker>||:<color=#A9A9A9>그냥 도망칠까?</color>
-()||:Vector가 어떡할지 망설이는 사이에, M870은 VSK-94를 끌고 순식간에 달려왔다.
-M870P(0)<Speaker>M870</Speaker>||:용의자, 닉네임을 밝혀라!
-Vector(0)<Speaker>Vector</Speaker>||:..."전술인형Vector".
-M870P(0)<Speaker>M870</Speaker>||:엑... 농담이지? 시대가 어느 땐데 닉네임을 본명으로 짓는 녀석이 있어?+나강 할매도 서핑(그러니까 웹서핑)할 때 요상한 닉네임을 짓는데...
-Vector(0)<Speaker>Vector</Speaker>||:내 닉네임 가지고 뭐라는 건 상관없는데, 그 괄호는 뭐야?
-VSK(0)<Speaker>VSK94</Speaker>||:신경쓰지 마, 원래부터 막말하기 좋아하는 녀석이라서.
-M870P(0)<Speaker>M870</Speaker>||:뭐 임마? 옆에서 목소리 낮춘다고 못 들을 거 같냐!?
-Vector(0)<Speaker>Vector</Speaker>||:저기, 난 지금 길이 급한데...
-()||:머리가 지끈거리기 시작한 Vector는 한시라도 빨리 현장에서 벗어나려 했다.
-M870P(0)<Speaker>M870</Speaker>||:어딜 가시려고!
-()||:하지만 M870이 잽싸게 Vector의 앞을 가로막았다.
-M870P(0)<Speaker>M870</Speaker>||:너, 어째 수상하다?
-Vector(0)<Speaker>Vector</Speaker>||:......
-VSK(0)<Speaker>VSK94</Speaker>||:또 뭘 어쩌려고.
-M870P(4)<Speaker>M870</Speaker>||:야 신참, 너 방금 내가 생사람 잡는다고 뭐라 했지?+그렇다면 보여 주지, 내가 얼마나 논리적으로 범죄자를 검거하는지를 말이야...
-()||:M870은 눈을 가늘게 뜨고, Vector를 위아래로 찬찬히, 그리고 유심히 훑어보았다.
-M870P(4)<Speaker>M870</Speaker>||:용의자, 질문에 대답해라!
-M870P(4);Vector(0)<Speaker>Vector</Speaker>||:......+용의자는 나를 말하는 거야?
-M870P(4)<Speaker>M870</Speaker>;Vector(0)||:그래 너, 바로 너! "전술인형Vector"!+너는 방금 내가 신참과 상황을 토의하던 틈을 노려서, 몰래 공무원을 습격하고 도주하려던 거 맞나?!
-M870P(4);Vector(0)<Speaker>Vector</Speaker>||:자의식 과잉이네. 난 그냥 지나가던 길이었어.
-M870P(4)<Speaker>M870</Speaker>;Vector(0)||:그걸 누가 믿어!+좋은 말로 할 때 얼른 불어, 무슨 음모를 꾸미고 있지?
-M870P(4);Vector(0)<Speaker>Vector</Speaker>||:......
-M870P(4);VSK(0)<Speaker>VSK94</Speaker>||:심문을 그렇게 직설적으로 해도 되는 거야?!
-M870P(4)<Speaker>M870</Speaker>;VSK(0)||:신참은 빠져, 내가 지금 모범적인 범인 검거 절차를 시범하고 있잖아!
-M870P(4);Vector(0)<Speaker>Vector</Speaker>||:난 지휘관에게 이 서바이벌 매치에서 우승하라는 임무를 받아 수행 중이야.
-M870P(4)<Speaker>M870</Speaker>;Vector(0)||:그걸 어떻게 증——
-M870P(4);Vector(0)<Speaker>Vector</Speaker>||:꼭 증명이 필요하다면 지금 여기서 널 사살하고 현실로 돌려보내 줄 테니, 가서 지휘관에게 직접 물어봐.
-M870P(4)<Speaker>M870</Speaker>;Vector(0)||:오호라, 공무원 폭행 미수도 모자라 재차 공무원을 폭행하시겠다?
-M870P(4);Vector(0)<Speaker>Vector</Speaker>||:네가 말하는 그 공무원 폭행이란 게 마인드맵에서 널 죽이는 시뮬레이션을 연산하는 걸 말한다면... 맞아, 이미 공무원 폭행죄를 수백 번은 저질렀어.
-M870P(4)<Speaker>M870</Speaker>;Vector(0)||:......+흥, 말솜씨가 제법이네.+근데 잠깐, 지휘관이 너 하나만 보냈어?
-M870P(4);Vector(0)<Speaker>Vector</Speaker>||:세... 두 명 더 있지만, 잠시 따로 행동 중이야.+그래서, 다른 질문은 없어, 경관 나으리?
-M870P(4)<Speaker>M870</Speaker>;Vector(0)||:왜 따로 행동 중인데.
-M870P(4);Vector(0)<Speaker>Vector</Speaker>||:아마 내가 재수없어서겠지.
-M870P(0)<Speaker>M870</Speaker>;Vector(0)||:푸하핫! 너처럼 자격지심 있는 녀석은 마음에 든다니까!
-M870P(4)<Speaker>M870</Speaker>||:<size=25>끄응... 그래도 재수없다고 체포할 수는 없는 노릇인데...</size>
-VSK(0)<Speaker>VSK94</Speaker>||:......
-M870P(4)<Speaker>M870</Speaker>||:크흠... 지, 지금 어디로 가는 중인데?
-Vector(0)<Speaker>Vector</Speaker>||:다크존.
-M870P(4)<Speaker>M870</Speaker>||:......
-()||:M870의 심문은 난항에 빠지고 말았다.+그럼에도 그녀는 눈살을 찌푸린 채, 조금이라도 혐의를 씌울 거리를 찾아내려고 Vector를 집중해서 살펴봤지만...
-Vector(0)<Speaker>Vector</Speaker>||:그만 가도 되지?
-VSK(0)<Speaker>VSK94</Speaker>||:급한데 방해해서 미안해, 이만 가도 좋아.
-()||:그 말에 M870이 눈을 동그랗게 치켜뜨고 VSK-94에게 고개를 돌리니, "신참"의 얼굴에는 경멸과 아니꼬움이 여실히 드러나 있었다.+이를 당장 만회하지 않으면 이 녀석까지 잃고 만다는 예감이, M870의 마인드맵을 스쳤다.
-M870P(0)<Speaker>M870</Speaker>||:스톱!
-()||:M870이 다시 Vector를 불러세웠다.
-Vector(0)<Speaker>Vector</Speaker>||:......+어느 쪽인지 확실하게 하지?+싸우고 싶으면 얼른 덤벼, 1 대 1이든 2 대 1이든 얼마든지 받아 줄 테니까.
-M870P(0)<Speaker>M870</Speaker>||:흥! 네가 아무리 오리발 내빌어 봤자, 내 예리한 눈을 속일 수는 없지!+너의 혐의는 밝혀졌다, 전술인형Vector!
-Vector(0)<Speaker>Vector</Speaker>||:응?
-()||:힐끔 바라본 VSK-94의 눈에는 당혹스러움과 의혹이 비쳤다.+M870은 상황을 타개할 첫 단추가 끼워졌음을 느꼈다.
-M870P(0)<Speaker>M870</Speaker>||:더 이상 설명따윈 필요 없지, 내 머릿속에 이미 답이 떠올랐으니까.+"불가능한 것을 제외하고 남은 것이 아무리 믿을 수 없는 것일지라도, 그것이 바로 진실!"
-Vector(0)<Speaker>Vector</Speaker>||:......
-M870P(0)<Speaker>M870</Speaker>||:그리고 "진실은 단 하나!"
-Vector(0)<Speaker>Vector</Speaker>||:너 스킬 선쿨 왜 이리 길어?
-M870P(0)<Speaker>M870</Speaker>||<BGM>BGM_Empty</BGM>:너의 혐의는——!!+바로 바로——!!
-M870P(0)<Speaker>M870</Speaker>||<震屏>:<size=50>불법 총기 소지죄다!!!</size>
-Vector(0)<Speaker>Vector</Speaker>||:......
-VSK(0)<Speaker>VSK94</Speaker>||:......
-()||:차갑던 공기가 순식간에 더욱 얼어붙었다.
-VSK(0)<Speaker>VSK94</Speaker>||<BGM>m_avg_casual</BGM>:......하?+<size=50>불법 총기 소지!? 마인드맵이 탄산에 절여서 피클이라도 됐어?!!</size>
-M870P(0)<Speaker>M870</Speaker>||:뭐, 뭐야, 왜 나한테 화내는데? 너 지금 누구 편이야?
-VSK(0)<Speaker>VSK94</Speaker>||:더는 못 참아.
-()||:진절머리가 난 VSK-94 바로 배낭을 매고 떠나려 했다.
-M870P(0)<Speaker>M870</Speaker>||:어, 야! 어디 가려고!
-VSK(0)<Speaker>VSK94</Speaker>||:ART556과 P7을 구하러.
-Vector(0)<Speaker>Vector</Speaker>||:난 가도 되지?
-M870P(0)<Speaker>M870</Speaker>||:가긴 누구 맘대로 가?!
-Vector(0)<Speaker>Vector</Speaker>||:어?
-VSK(0)<Speaker>VSK94</Speaker>||:헛소리 그만해, 네가 날 막을 수는 있어?
-M870P(0)<Speaker>M870</Speaker>||:흥, 그럼 어디 한번 해보시지!+내 허락도 없이 갈 수 있나 해보라고!
-Vector(0)<Speaker>Vector</Speaker>||:...나한테 하는 말이 아니었구나.+그럼 난 이만――
-()||:하지만 M870이 자신의 배낭을 냅다 Vector의 품에 던졌다.
-M870P(0)<Speaker>M870</Speaker>||:결투다 짜샤, 일루 와.+진 사람은 이긴 사람한테 무조건 복종하기, 불만 없지?
-VSK(0)<Speaker>VSK94</Speaker>||:지고서 울면서 빌지나 마.
-()||:VSK-94도 배낭을 벗어, Vector에게 건넸다.
-Vector(0)<Speaker>Vector</Speaker>||:......+내가 재수없다는 건 알지만 굳이 이럴 필요까지는――
-()||<SE1>AVG_rifle_finalshot_n</SE1><BGM>BGM_Empty</BGM>:M870이 선수를 쳐, VSK-94에게 방아쇠를 당겼다.+하지만 그것도 이미 예상했던 VSK-94는 공원의 벤치를 밟아 뛰어올라, 멋지게 공격을 피했다.+그리고 흐트러짐 없이 착지한 VSK-94는 공원 깊숙이로 뛰어 들어갔다.
-M870P(0)<Speaker>M870</Speaker>||<BGM>GF_xDivision_Battle1</BGM>:거리를 벌려서 날 저격하려고? 어림도 없지!
-()||<黑点1>:M870이 바로 VSK-94의 뒤를 쫓았다.+혼자 남겨진 Vector는 땅이 꺼져라 한숨을 푹 쉬곤, 무거운 가방들과 함께 벤치에 앉았다.
-()||<黑点2><BIN>1</BIN><Night>:총소리에 놀란 새들이 모조리 도망가, 숲은 고요함만이 감돌았다.+VSK-94는 이미 몸을 숨겨 보이지 않았고, 낙엽으로 가득한 오솔길에도 그녀의 흔적은 없었다.+자신에게 압도적으로 불리한 상황임을 잘 아는 M870은 속도를 늦춰, 신경을 곤두세우고 VSK-94의 종적을 찾았다.
-M870P(0)<Speaker>M870</Speaker>||:......
-()||<SE1>AVG_wind_grass</SE1>:바람에 나뭇가지가 흔들리면서 낙엽 몇 장이 떨어졌다.+M870은 화들짝 놀라, 소리가 난 방향으로 몸을 돌렸다.
-M870P(0)<Speaker>M870</Speaker>||:...깜짝이야.
-()||:그리고 그녀가 경계를 늦춘 바로 그때, 바로 옆의 나무 위에서 살기가 뿜어져 나왔다.
-()||<SE1>AVG_rifle_finalshot_3h</SE1>:M870은 황급히 방패를 들어 방어하는 동시에 위를 향해 발포했다.+기습에 실패한 VSK-94는 이번에도 멋지게 피하면서 사라졌다.+깜짝 놀라 가슴이 벌렁거렸지만, M870은 억지로 허세를 부렸다.
-M870P(0)<Speaker>M870</Speaker>||:급소만 딱 골라서 조준하고, 신참 주제에 아주 인정사정 안 봐주네? 하지만 아직 멀었어!+은혜를 원수로 갚다니 말이야, 이 누님이 그 꽐라들한테서 널 꺼내――
-()||<SE1>AVG_rifle_finalshot_h</SE1>:또 다시 위에서 급소를 노린 공격이 날아들었다.+M870은 아슬아슬하게 피해 직격은 면했지만, 그 한 방에 HP가 절반이나 날아갔다.+더는 입방정을 떨 여유가 없어진 M870은 그대로 몸을 굴려, 나무 기둥 뒤에 숨어 대책을 궁리했다.
-M870P(0)<Speaker>M870</Speaker>||:<color=#A9A9A9>이대로는 분명 내가 지고 말아...</color>+<color=#A9A9A9>이 대치 상태를 어떻게든 돌파해서, 녀석이 가까이서 모습을 드러낼 때 공격해야겠어.</color>+<color=#A9A9A9>자존심 상하지만, 우선 엄살 부리면서 녀석의 적개심을 누그러뜨리고, 말을 들어주겠다고 항복하는 척을 할까. 꼬맹이들 얘기면 충분하려나?</color>
-()||:심호흡한 후, M870은 아파 죽겠다는 듯이 비명을 지르고 몸을 부딪히면서 나무를 흔들었다. 역시, VSK-94는 바로 이쪽으로 총을 쏘지 않았다.
-M870P(0)<Speaker>M870</Speaker>||:<color=#A9A9A9>후후, 작전 1단계 성공.</color>
-()||:그리고 상대가 볼 수 있도록 총을 멀리 던지면서, 마음에도 없는 목숨 구걸을 시작했다.
-M870P(0)<Speaker>M870</Speaker>||:으아앙, 너무 아파! VSK, 쏘지 마!+나 안 싸울래! 방금 봤지? 총도 버렸어!
-()||:M870은 일부러 VSK-94에게 보이도록 손을 내밀었다.+이번에도 총탄은 날아들지 않았다.
-M870P(0)<Speaker>M870</Speaker>||:<color=#A9A9A9>히히히, 저 녀석의 사고 패턴은 이미 완전히 파악했다고!</color>+<color=#A9A9A9>그럼 이제——</color>
-()||:M870이 나무 뒤에서 조심스레 내밀자...+길고 시커먼 총구가 그녀의 이마에 닿았다.
-VSK(0)<Speaker>VSK94</Speaker>||:체크메이트.
-()||:VSK-94는 M870이 던졌던 총을 꾹 밟은 채, 싸늘한 눈빛으로 그녀를 내려다보고 있었다.
-M870P(0)<Speaker>M870</Speaker>||:엑?! 아니 어떻게...!?
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:아직도 저항하려고? 그럼――
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:자자자자잠깐!! 말로 하자, 말로!+그래 그래, 내가 그 꼬맹이들을 내버려둬서 화난 거지?+알았어, 같이 걔네를 찾으러 가자, OK?
-M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:......
-M870P(0)<Speaker>M870</Speaker>;VSK(0)||:네가 그랬잖아, 걔네 둘만 다크존으로 들어가면 위험하다고.
-M870P(0)<Speaker>M870</Speaker>||:그럼, 너 혼자 남으면 더 승산이 없지 않아? 우리 둘이 힘을 합친다면――
-VSK(0)<Speaker>VSK94</Speaker>||:그 말, 진심이야?
-()||:M870의 이마를 찌르던 총구에 힘이 살짝 풀렸다.
-M870P(0)<Speaker>M870</Speaker>||:진심이고 말고!+어서 가자, 걔네가 이미 다크존으로 들어갔다면 얼른 찾아내야지!+여기서 계속 쓸데없이 시간만 낭비하다간, 우리 귀염둥이들이――
-()<Speaker>시스템</Speaker>||:X 순경No.7이(가) NPC에게 사망했습니다. X+X 순경No.556이(가) NPC에게 사망했습니다. X
-M870P(0)<Speaker>M870</Speaker>||:......
-VSK(0)<Speaker>VSK94</Speaker>||:......
-()||:점점 힘이 들어가는 VSK-94의 총구에 M870은 이마가 꿰뚫릴 것만 같았다.
-M870P(0)<Speaker>M870</Speaker>||:이, 일단 진정해 봐...+그러니까... 그 귀염둥이들 말고 다른 애들을 찾으면...
-VSK(0)<Speaker>VSK94</Speaker>||:하하하...
-()||:보기 드물게 당황한 M870의 얼굴이 비치는 VSK-94의 눈빛이, 활활 타올랐다.
-M870P(4)<Speaker>M870</Speaker>||:......+저, 정말 안 되면 내가 네 귀염둥이 되어 줄 테니까... 으응...?
-VSK(0)<Speaker>VSK94</Speaker>||<SE1>AVG_weapon_reload</SE1>:......
-()||:M870의 계획이 실패했음은 불 보듯 뻔했지만, 이대로 포기할 그녀가 아니었다.+M870은 자신이 가진 모든 연기력을 쥐어짜내, 순진무구한 강아지 같은 눈빛으로 VSK-94를 바라보면서, 슬그머니 그녀 발 밑의 총으로 손을 뻗었다.
-VSK(0)<Speaker>VSK94</Speaker>||:속셈 다 보여.
-()||:VSK-94는 M870의 산탄총을 멀리 차 버렸다.+하지만 설마 M870이 그걸 노리고 수류탄을 던질 줄은 예상치 못했다.
-M870P(0)<Speaker>M870</Speaker>||:케헷♪ 이 누님을 얕보지 말라고!
-VSK(0)<Speaker>VSK94</Speaker>||:......
-()||:수류탄을 던지고 M870은 재빠르게 몸을 뒤로 굴려 자리에서 벗어나려 했다.+그리고 피할 수 없음을 직감한 VSK-94는, 공중에 떠오른 수류탄을 낚아채더니 그대로 M870에게 몸을 던져 덮쳤다.
-M870P(0)<Speaker>M870</Speaker>||:으엑!? 무무무무슨 짓이야?! 꺄아아아악!!!
-()||<SE1>Explode</SE1>:퍼엉――!!+폭발에 새들이 다시 놀라 날아올랐고, 공원 정문 앞의 벤치에서 꾸벅꾸벅 졸던 Vector까지 깨웠다.
-()<Speaker>시스템</Speaker>||:X 뉴욕경찰청장이(가) 유괴범아님믿어주셈을(를) 처치했습니다. X+X 뉴욕경찰청장이(가) 수류탄에 휩쓸려 사망했습니다. X
-Vector(0)<Speaker>Vector</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:흠큼... 뭐지?
-()||<黑屏2><BIN>295</BIN><BGM>BGM_Hello</BGM>:카리나의 중계가 한창인 지휘실.
-()<Speaker>인형A</Speaker>||:으아악 내 도오오온!!!
-()<Speaker>인형B</Speaker>||:VSK――!! 너만은 믿었는데――!!
-()<Speaker>인형C</Speaker>||:아하하하하하! 나, 나 웃겨 죽을 거 같아!
-()<Speaker>인형D</Speaker>||:힘내라 힘내라 Vivi~! 잘한다 잘한다 Vivi~!
-()||<BIN>294</BIN>:희비가 교차하는 인형들의 함성을 배경으로, 카리나는 끝을 모르고 치솟는 숫자를 보며 흡족하게 웃었다.
-()<Speaker>카리나</Speaker>||:으흐흐흐... M870도 겁먹을 때가 다 있네요!
-()<Speaker>지휘관</Speaker>||:이거 경기가 점점 재밌어지네.
-()<Speaker>카리나</Speaker>||:자 자 자, 여러분! 이미 벌어진 일을 어떡하겠어요? 시합이 어떻게 진행될지에 집중해요, 아직 팀이 많이 남았잖아요!+이미 잃은 돈 때문에 울 바에야, 다음에 대박날 기회를 노리세요!+자아, 어서 투표하세요! 이번 베팅으로 인생 대역전의 찬~스!
-()||<黑屏1>:눈에 달러 마크를 띄운 카리나를 보며, 지휘관은 무의식적으로 지갑을 움켜쥐었다.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>288</BIN><BGM>GF_The_Division_Ola_Strandh_Dark Zone</BGM><SE1>GF_Halloween_Wind_loop</SE1>:00시 12분. 머리 위에 뜬 "공복" 표시가 사라진 Vector는 천천히 자리에서 일어났다. 그녀의 귓가엔 오직 차가운 바람의 소리만이 들렸다.
+Vector(0)<Speaker>Vector</Speaker>||:.....+P...
+Vector(0);NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>요원님?</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)<通讯框>||<SE1>Stop_AVG_loop</SE1>:...너구나.
+Vector(0);NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>동료를 잃어 매우 유감입니다.</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1)<通讯框>||:PP-90...
+Vector(0);NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>조금 전, 스프링필드 팀이 요원님 근처를 지나갔습니다.</color>
+Vector(0)<Speaker>Vector</Speaker>;NPC-Dima(1))<通讯框>||:그들도 다크존으로 향했구나.
+Vector(0);NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>네.</color>
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>지금쯤, 아직 생존한 팀이라면 모두 다크존으로 이동하고 있겠죠.</color>
+Vector(0)<Speaker>Vector</Speaker>||<黑屏1>:...알았어. 그럼 우선 터미널에서 R93 조와 합류해야겠네.
+()||<黑屏2><BIN>55</BIN><Night><BGM>BGM_Empty</BGM>:고층 빌딩으로 둘러싸인 브라이언트 파크.
+M870P(0)<Speaker>M870</Speaker>||<BGM>GF_xDivision_Scene1</BGM>:후우... 후우...+이 겁만 잔뜩인 생쥐놈들, 스킬 포인트를 전부 도주에 찍었냐!?
+VSK(0)<Speaker>VSK94</Speaker>||:헥... 헥...
+()||:화가 아주 단단히 난 M870은 그대로 옆에 있던 민간인의 멱살을 잡았다.
+M870P(0)<Speaker>M870</Speaker>||:야! 여기서 도둑놈처럼 생긴 인형놈들 지나가는 거 못 봤냐?!
+()<Speaker>행인1</Speaker>||:......
+()<Speaker>행인2</Speaker>||:......
+()||:하지만 행인들은 M870의 말에 반응하긴커녕, 표정 하나 변하지 않았다.
+M870P(0)<Speaker>M870</Speaker>||:얌마, 눈을 동그랗게 뜨고 이 누님이 안 보이냐고! 야!
+()<Speaker>행인1</Speaker>||:......
+M870P(0)<Speaker>M870</Speaker>||:어쭈, 지금 나한테 시비 거는 거야?
+VSK(0)<Speaker>VSK94</Speaker>||:그만해 M870, 이 NPC들이랑은 상호작용이 불가능해.
+()||:M870은 화풀이 삼아 두 행인들의 몸에 벌금 딱지를 잔뜩 붙였다.
+M870P(0)<Speaker>M870</Speaker>||:P7, ART556, 너넨 저쪽을 정찰해. 놈들이 남긴 흔적은 없나 찾아봐.
+()||:......
+M870P(0)<Speaker>M870</Speaker>||:P7? ART556?
+M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:아직도 못 따라왔어...
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:이래서 키가 평균 미만인 애들이랑은 같이 일하기 싫다고!+꼭 중요한 때에 안 보여서, 찾으러 가면 맨홀에 빠졌거나 이상한 데에 끼었던가 한단 말이야...
+M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:둘을 찾으러 가야 해.
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:뭔 맨날 유치원 앞을 지키는 아줌마 같은 소릴 하냐?+걱정일랑 마셔, 걔네는 어린애가 아니니까 자기 앞가림 정돈 할 줄 알아.
+M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:누, 누가 매일 유치원 앞에 있었다고...!+그리고 방금 둘에게 통신해봤는데, 연락이 닿질 않아. 신호가 차단당했어.
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:아 글쎄 조급해하지 말라니까? 좀만 더 있으면 납치범이 몸값 요구하려고 전화할 테니까 냅둬.
+M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:......
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:아이, 분위기 전환 겸 농담으로 한 소린데 정색하지 마.+어쩌면 먼저 다크존으로 들어갔을 수도 있지. 아까부터 계속 시스템 알림 뜨잖아?+누가 다크존으로 진입했다고 말이야.
+M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:그럼 상황이 더 심각하지 않아?+그 애들만으로는 다크존에서 버티지 못할 거야.
+M870P(0);NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>맞습니다, 그 두 요원만으론 다크존에서 살아남기 힘듭니다.</color>
+M870P(0)<Speaker>M870</Speaker>;NPC-Dima(1)<通讯框>||:으익, 야! 대뜸 통신창 띄우지 마! 놀라서 자빠질 뻔했네!
+M870P(0);NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>어... 죄송합니다, 요원님.</color>
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>아무튼, 이후의 임무 수행을 위해서도 즉시 두 요원님을 수색하는 것을 건의합니다.</color>
+M870P(0)<Speaker>M870</Speaker>||:알았으니까, 그만 끊어.
+VSK(0)<Speaker>VSK94</Speaker>||:빨리 다크존으로 가자.
+M870P(0)<Speaker>M870</Speaker>||:어휴... 알았어, 알았다고. 다크존으로 가면 될 거 아니야.
+()||<黑点1>:VSK-94의 눈빛을 보곤 어물쩡 넘어갈 수 없음을 깨달은 M870은, 하는 수 없이 그녀에게 동의했다.
+()||<黑点2>:그리고 때마침 다크존으로 이동 중이던 Vector가 브라이언트 파크에 도달했다.+쥐 죽은 듯 조용한 공원에서, 두 인형이 각자의 물품을 정리하는 것도 보였다.
+Vector(0)<Speaker>Vector</Speaker>||:저건... 우리 전술인형들?+그리폰에 저렇게 조용한 녀석이 있었나?
+()||:Vector는 표정을 가다듬고 두 인형에게 다가갔다.
+VSK(0)<Speaker>VSK94</Speaker>||:그리고 건의할 사항이 있어.
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:뭔데?
+M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:체포 대상은 상의해서 정하자.
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:웃기지 마, 결정권은 당연히 대장인 나한테 있어. 뭔데? 내 자리 뺏을 셈이야?
+M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:아니, 그런 뜻이 아니었어.
+VSK(0)<Speaker>VSK94</Speaker>||:그저 네가 꽤 자주 충동적으로 행동한단 생각이 들어서.
+M870P(0)<Speaker>M870</Speaker>||:충동... 너 말 다 했냐?
+()||:M870과 VSK-94가 느닷없이 언쟁을 벌이는 통에, Vector는 다가가기가 망설여졌다.
+Vector(0)<Speaker>Vector</Speaker>||:......+몇 마디 안 들었는데도 마인드맵이 다운될 거 같아.+역시 그만두자, 나처럼 재수없는 인형은 모르는 사람한테 괜히 말 걸지 말자.
+()||:Vector는 슬쩍 방향을 틀어, M870과 VSK-94를 우회하려 했다.
+VSK(0)<Speaker>VSK94</Speaker>||:대드는 게 아니야.+처음에 AK-47 선배들을 음주운전 혐의로 검거하려 한 건 나도 이견 없어.
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:계속 말해 봐.
+M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:하지만 스프링필드 팀은 그저 물자를 모으는 중이었고, 수사에도 협조적이었잖아?+그런데 네가 무작정 위협하는 바람에 그들을 도망치게 만들었어.
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:그야 도둑이 제 발 저려서 도망친 거지!
+M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:그리고, 그때 소통하지 않아서 P7과 ART556이 우리와 흩어지게 됐어.+안 그래도 머릿수가 부족한데, 이래서는 업무 속행이 불가능해.
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:시끄럽네 진짜, 왜 갑자기 설교야?
+M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:설교가 아니라, 불필요한 손실을 줄이자는 말이야.
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:넌 신참이고 대장은 나야!+신병이랍시고 내가 언제까지고 봐줄 거 같아?+로마에선 로마법을 따르고, 이 M870의 땅에선 내 법대로 행동해.+계속 이 누님을 따라오고 싶다면, 얌전히 내가 시키는 대로 하란 말이야!
+M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:......+그러니까, 앞으로도 계속 그런 식으로 "정의 행사"를 하겠다고?
+VSK(0)<Speaker>VSK94</Speaker>||:아무래도, 서로 정의에 대한 이해가 전혀 다른 거 같네.
+()||:그때, M870을 향해 어디선가 돌멩이가 날아들었다. 다행히 빨리 발견하고 피해 다치지는 않았다.
+M870P(0)<Speaker>M870</Speaker>||:뭐야, 누구야? 감히 누가 겁도 없이 경찰한테 상해를 입히려 들어!?+야, 거기 있는 인형! 너냐?!+거기 하얀 머리! 너 말이야, 너! 꼼짝 마! 움직이면 쏜다!
+()||:Vector는 반사적으로 멈춰섰다.
+Vector(0)<Speaker>Vector</Speaker>||:<color=#A9A9A9>그냥 도망칠까?</color>
+()||:Vector가 어떡할지 망설이는 사이에, M870은 VSK-94를 끌고 순식간에 달려왔다.
+M870P(0)<Speaker>M870</Speaker>||:용의자, 닉네임을 밝혀라!
+Vector(0)<Speaker>Vector</Speaker>||:..."전술인형Vector".
+M870P(0)<Speaker>M870</Speaker>||:엑... 농담이지? 시대가 어느 땐데 닉네임을 본명으로 짓는 녀석이 있어?+나강 할매도 서핑(그러니까 웹서핑)할 때 요상한 닉네임을 짓는데...
+Vector(0)<Speaker>Vector</Speaker>||:내 닉네임 가지고 뭐라는 건 상관없는데, 그 괄호는 뭐야?
+VSK(0)<Speaker>VSK94</Speaker>||:신경쓰지 마, 원래부터 막말하기 좋아하는 녀석이라서.
+M870P(0)<Speaker>M870</Speaker>||:뭐 임마? 옆에서 목소리 낮춘다고 못 들을 거 같냐!?
+Vector(0)<Speaker>Vector</Speaker>||:저기, 난 지금 길이 급한데...
+()||:머리가 지끈거리기 시작한 Vector는 한시라도 빨리 현장에서 벗어나려 했다.
+M870P(0)<Speaker>M870</Speaker>||:어딜 가시려고!
+()||:하지만 M870이 잽싸게 Vector의 앞을 가로막았다.
+M870P(0)<Speaker>M870</Speaker>||:너, 어째 수상하다?
+Vector(0)<Speaker>Vector</Speaker>||:......
+VSK(0)<Speaker>VSK94</Speaker>||:또 뭘 어쩌려고.
+M870P(4)<Speaker>M870</Speaker>||:야 신참, 너 방금 내가 생사람 잡는다고 뭐라 했지?+그렇다면 보여 주지, 내가 얼마나 논리적으로 범죄자를 검거하는지를 말이야...
+()||:M870은 눈을 가늘게 뜨고, Vector를 위아래로 찬찬히, 그리고 유심히 훑어보았다.
+M870P(4)<Speaker>M870</Speaker>||:용의자, 질문에 대답해라!
+M870P(4);Vector(0)<Speaker>Vector</Speaker>||:......+용의자는 나를 말하는 거야?
+M870P(4)<Speaker>M870</Speaker>;Vector(0)||:그래 너, 바로 너! "전술인형Vector"!+너는 방금 내가 신참과 상황을 토의하던 틈을 노려서, 몰래 공무원을 습격하고 도주하려던 거 맞나?!
+M870P(4);Vector(0)<Speaker>Vector</Speaker>||:자의식 과잉이네. 난 그냥 지나가던 길이었어.
+M870P(4)<Speaker>M870</Speaker>;Vector(0)||:그걸 누가 믿어!+좋은 말로 할 때 얼른 불어, 무슨 음모를 꾸미고 있지?
+M870P(4);Vector(0)<Speaker>Vector</Speaker>||:......
+M870P(4);VSK(0)<Speaker>VSK94</Speaker>||:심문을 그렇게 직설적으로 해도 되는 거야?!
+M870P(4)<Speaker>M870</Speaker>;VSK(0)||:신참은 빠져, 내가 지금 모범적인 범인 검거 절차를 시범하고 있잖아!
+M870P(4);Vector(0)<Speaker>Vector</Speaker>||:난 지휘관에게 이 서바이벌 매치에서 우승하라는 임무를 받아 수행 중이야.
+M870P(4)<Speaker>M870</Speaker>;Vector(0)||:그걸 어떻게 증——
+M870P(4);Vector(0)<Speaker>Vector</Speaker>||:꼭 증명이 필요하다면 지금 여기서 널 사살하고 현실로 돌려보내 줄 테니, 가서 지휘관에게 직접 물어봐.
+M870P(4)<Speaker>M870</Speaker>;Vector(0)||:오호라, 공무원 폭행 미수도 모자라 재차 공무원을 폭행하시겠다?
+M870P(4);Vector(0)<Speaker>Vector</Speaker>||:네가 말하는 그 공무원 폭행이란 게 마인드맵에서 널 죽이는 시뮬레이션을 연산하는 걸 말한다면... 맞아, 이미 공무원 폭행죄를 수백 번은 저질렀어.
+M870P(4)<Speaker>M870</Speaker>;Vector(0)||:......+흥, 말솜씨가 제법이네.+근데 잠깐, 지휘관이 너 하나만 보냈어?
+M870P(4);Vector(0)<Speaker>Vector</Speaker>||:세... 두 명 더 있지만, 잠시 따로 행동 중이야.+그래서, 다른 질문은 없어, 경관 나으리?
+M870P(4)<Speaker>M870</Speaker>;Vector(0)||:왜 따로 행동 중인데.
+M870P(4);Vector(0)<Speaker>Vector</Speaker>||:아마 내가 재수없어서겠지.
+M870P(0)<Speaker>M870</Speaker>;Vector(0)||:푸하핫! 너처럼 자격지심 있는 녀석은 마음에 든다니까!
+M870P(4)<Speaker>M870</Speaker>||:<size=25>끄응... 그래도 재수없다고 체포할 수는 없는 노릇인데...</size>
+VSK(0)<Speaker>VSK94</Speaker>||:......
+M870P(4)<Speaker>M870</Speaker>||:크흠... 지, 지금 어디로 가는 중인데?
+Vector(0)<Speaker>Vector</Speaker>||:다크존.
+M870P(4)<Speaker>M870</Speaker>||:......
+()||:M870의 심문은 난항에 빠지고 말았다.+그럼에도 그녀는 눈살을 찌푸린 채, 조금이라도 혐의를 씌울 거리를 찾아내려고 Vector를 집중해서 살펴봤지만...
+Vector(0)<Speaker>Vector</Speaker>||:그만 가도 되지?
+VSK(0)<Speaker>VSK94</Speaker>||:급한데 방해해서 미안해, 이만 가도 좋아.
+()||:그 말에 M870이 눈을 동그랗게 치켜뜨고 VSK-94에게 고개를 돌리니, "신참"의 얼굴에는 경멸과 아니꼬움이 여실히 드러나 있었다.+이를 당장 만회하지 않으면 이 녀석까지 잃고 만다는 예감이, M870의 마인드맵을 스쳤다.
+M870P(0)<Speaker>M870</Speaker>||:스톱!
+()||:M870이 다시 Vector를 불러세웠다.
+Vector(0)<Speaker>Vector</Speaker>||:......+어느 쪽인지 확실하게 하지?+싸우고 싶으면 얼른 덤벼, 1 대 1이든 2 대 1이든 얼마든지 받아 줄 테니까.
+M870P(0)<Speaker>M870</Speaker>||:흥! 네가 아무리 오리발 내빌어 봤자, 내 예리한 눈을 속일 수는 없지!+너의 혐의는 밝혀졌다, 전술인형Vector!
+Vector(0)<Speaker>Vector</Speaker>||:응?
+()||:힐끔 바라본 VSK-94의 눈에는 당혹스러움과 의혹이 비쳤다.+M870은 상황을 타개할 첫 단추가 끼워졌음을 느꼈다.
+M870P(0)<Speaker>M870</Speaker>||:더 이상 설명따윈 필요 없지, 내 머릿속에 이미 답이 떠올랐으니까.+"불가능한 것을 제외하고 남은 것이 아무리 믿을 수 없는 것일지라도, 그것이 바로 진실!"
+Vector(0)<Speaker>Vector</Speaker>||:......
+M870P(0)<Speaker>M870</Speaker>||:그리고 "진실은 단 하나!"
+Vector(0)<Speaker>Vector</Speaker>||:너 스킬 선쿨 왜 이리 길어?
+M870P(0)<Speaker>M870</Speaker>||<BGM>BGM_Empty</BGM>:너의 혐의는——!!+바로 바로——!!
+M870P(0)<Speaker>M870</Speaker>||<震屏>:<size=50>불법 총기 소지죄다!!!</size>
+Vector(0)<Speaker>Vector</Speaker>||:......
+VSK(0)<Speaker>VSK94</Speaker>||:......
+()||:차갑던 공기가 순식간에 더욱 얼어붙었다.
+VSK(0)<Speaker>VSK94</Speaker>||<BGM>m_avg_casual</BGM>:......하?+<size=50>불법 총기 소지!? 마인드맵이 탄산에 절여서 피클이라도 됐어?!!</size>
+M870P(0)<Speaker>M870</Speaker>||:뭐, 뭐야, 왜 나한테 화내는데? 너 지금 누구 편이야?
+VSK(0)<Speaker>VSK94</Speaker>||:더는 못 참아.
+()||:진절머리가 난 VSK-94 바로 배낭을 매고 떠나려 했다.
+M870P(0)<Speaker>M870</Speaker>||:어, 야! 어디 가려고!
+VSK(0)<Speaker>VSK94</Speaker>||:ART556과 P7을 구하러.
+Vector(0)<Speaker>Vector</Speaker>||:난 가도 되지?
+M870P(0)<Speaker>M870</Speaker>||:가긴 누구 맘대로 가?!
+Vector(0)<Speaker>Vector</Speaker>||:어?
+VSK(0)<Speaker>VSK94</Speaker>||:헛소리 그만해, 네가 날 막을 수는 있어?
+M870P(0)<Speaker>M870</Speaker>||:흥, 그럼 어디 한번 해보시지!+내 허락도 없이 갈 수 있나 해보라고!
+Vector(0)<Speaker>Vector</Speaker>||:...나한테 하는 말이 아니었구나.+그럼 난 이만――
+()||:하지만 M870이 자신의 배낭을 냅다 Vector의 품에 던졌다.
+M870P(0)<Speaker>M870</Speaker>||:결투다 짜샤, 일루 와.+진 사람은 이긴 사람한테 무조건 복종하기, 불만 없지?
+VSK(0)<Speaker>VSK94</Speaker>||:지고서 울면서 빌지나 마.
+()||:VSK-94도 배낭을 벗어, Vector에게 건넸다.
+Vector(0)<Speaker>Vector</Speaker>||:......+내가 재수없다는 건 알지만 굳이 이럴 필요까지는――
+()||<SE1>AVG_rifle_finalshot_n</SE1><BGM>BGM_Empty</BGM>:M870이 선수를 쳐, VSK-94에게 방아쇠를 당겼다.+하지만 그것도 이미 예상했던 VSK-94는 공원의 벤치를 밟아 뛰어올라, 멋지게 공격을 피했다.+그리고 흐트러짐 없이 착지한 VSK-94는 공원 깊숙이로 뛰어 들어갔다.
+M870P(0)<Speaker>M870</Speaker>||<BGM>GF_xDivision_Battle1</BGM>:거리를 벌려서 날 저격하려고? 어림도 없지!
+()||<黑点1>:M870이 바로 VSK-94의 뒤를 쫓았다.+혼자 남겨진 Vector는 땅이 꺼져라 한숨을 푹 쉬곤, 무거운 가방들과 함께 벤치에 앉았다.
+()||<黑点2><BIN>1</BIN><Night>:총소리에 놀란 새들이 모조리 도망가, 숲은 고요함만이 감돌았다.+VSK-94는 이미 몸을 숨겨 보이지 않았고, 낙엽으로 가득한 오솔길에도 그녀의 흔적은 없었다.+자신에게 압도적으로 불리한 상황임을 잘 아는 M870은 속도를 늦춰, 신경을 곤두세우고 VSK-94의 종적을 찾았다.
+M870P(0)<Speaker>M870</Speaker>||:......
+()||<SE1>AVG_wind_grass</SE1>:바람에 나뭇가지가 흔들리면서 낙엽 몇 장이 떨어졌다.+M870은 화들짝 놀라, 소리가 난 방향으로 몸을 돌렸다.
+M870P(0)<Speaker>M870</Speaker>||:...깜짝이야.
+()||:그리고 그녀가 경계를 늦춘 바로 그때, 바로 옆의 나무 위에서 살기가 뿜어져 나왔다.
+()||<SE1>AVG_rifle_finalshot_3h</SE1>:M870은 황급히 방패를 들어 방어하는 동시에 위를 향해 발포했다.+기습에 실패한 VSK-94는 이번에도 멋지게 피하면서 사라졌다.+깜짝 놀라 가슴이 벌렁거렸지만, M870은 억지로 허세를 부렸다.
+M870P(0)<Speaker>M870</Speaker>||:급소만 딱 골라서 조준하고, 신참 주제에 아주 인정사정 안 봐주네? 하지만 아직 멀었어!+은혜를 원수로 갚다니 말이야, 이 누님이 그 꽐라들한테서 널 꺼내――
+()||<SE1>AVG_rifle_finalshot_h</SE1>:또 다시 위에서 급소를 노린 공격이 날아들었다.+M870은 아슬아슬하게 피해 직격은 면했지만, 그 한 방에 HP가 절반이나 날아갔다.+더는 입방정을 떨 여유가 없어진 M870은 그대로 몸을 굴려, 나무 기둥 뒤에 숨어 대책을 궁리했다.
+M870P(0)<Speaker>M870</Speaker>||:<color=#A9A9A9>이대로는 분명 내가 지고 말아...</color>+<color=#A9A9A9>이 대치 상태를 어떻게든 돌파해서, 녀석이 가까이서 모습을 드러낼 때 공격해야겠어.</color>+<color=#A9A9A9>자존심 상하지만, 우선 엄살 부리면서 녀석의 적개심을 누그러뜨리고, 말을 들어주겠다고 항복하는 척을 할까. 꼬맹이들 얘기면 충분하려나?</color>
+()||:심호흡한 후, M870은 아파 죽겠다는 듯이 비명을 지르고 몸을 부딪히면서 나무를 흔들었다. 역시, VSK-94는 바로 이쪽으로 총을 쏘지 않았다.
+M870P(0)<Speaker>M870</Speaker>||:<color=#A9A9A9>후후, 작전 1단계 성공.</color>
+()||:그리고 상대가 볼 수 있도록 총을 멀리 던지면서, 마음에도 없는 목숨 구걸을 시작했다.
+M870P(0)<Speaker>M870</Speaker>||:으아앙, 너무 아파! VSK, 쏘지 마!+나 안 싸울래! 방금 봤지? 총도 버렸어!
+()||:M870은 일부러 VSK-94에게 보이도록 손을 내밀었다.+이번에도 총탄은 날아들지 않았다.
+M870P(0)<Speaker>M870</Speaker>||:<color=#A9A9A9>히히히, 저 녀석의 사고 패턴은 이미 완전히 파악했다고!</color>+<color=#A9A9A9>그럼 이제——</color>
+()||:M870이 나무 뒤에서 조심스레 내밀자...+길고 시커먼 총구가 그녀의 이마에 닿았다.
+VSK(0)<Speaker>VSK94</Speaker>||:체크메이트.
+()||:VSK-94는 M870이 던졌던 총을 꾹 밟은 채, 싸늘한 눈빛으로 그녀를 내려다보고 있었다.
+M870P(0)<Speaker>M870</Speaker>||:엑?! 아니 어떻게...!?
+M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:아직도 저항하려고? 그럼――
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:자자자자잠깐!! 말로 하자, 말로!+그래 그래, 내가 그 꼬맹이들을 내버려둬서 화난 거지?+알았어, 같이 걔네를 찾으러 가자, OK?
+M870P(0);VSK(0)<Speaker>VSK94</Speaker>||:......
+M870P(0)<Speaker>M870</Speaker>;VSK(0)||:네가 그랬잖아, 걔네 둘만 다크존으로 들어가면 위험하다고.
+M870P(0)<Speaker>M870</Speaker>||:그럼, 너 혼자 남으면 더 승산이 없지 않아? 우리 둘이 힘을 합친다면――
+VSK(0)<Speaker>VSK94</Speaker>||:그 말, 진심이야?
+()||:M870의 이마를 찌르던 총구에 힘이 살짝 풀렸다.
+M870P(0)<Speaker>M870</Speaker>||:진심이고 말고!+어서 가자, 걔네가 이미 다크존으로 들어갔다면 얼른 찾아내야지!+여기서 계속 쓸데없이 시간만 낭비하다간, 우리 귀염둥이들이――
+()<Speaker>시스템</Speaker>||:X 순경No.7이(가) NPC에게 사망했습니다. X+X 순경No.556이(가) NPC에게 사망했습니다. X
+M870P(0)<Speaker>M870</Speaker>||:......
+VSK(0)<Speaker>VSK94</Speaker>||:......
+()||:점점 힘이 들어가는 VSK-94의 총구에 M870은 이마가 꿰뚫릴 것만 같았다.
+M870P(0)<Speaker>M870</Speaker>||:이, 일단 진정해 봐...+그러니까... 그 귀염둥이들 말고 다른 애들을 찾으면...
+VSK(0)<Speaker>VSK94</Speaker>||:하하하...
+()||:보기 드물게 당황한 M870의 얼굴이 비치는 VSK-94의 눈빛이, 활활 타올랐다.
+M870P(4)<Speaker>M870</Speaker>||:......+저, 정말 안 되면 내가 네 귀염둥이 되어 줄 테니까... 으응...?
+VSK(0)<Speaker>VSK94</Speaker>||<SE1>AVG_weapon_reload</SE1>:......
+()||:M870의 계획이 실패했음은 불 보듯 뻔했지만, 이대로 포기할 그녀가 아니었다.+M870은 자신이 가진 모든 연기력을 쥐어짜내, 순진무구한 강아지 같은 눈빛으로 VSK-94를 바라보면서, 슬그머니 그녀 발 밑의 총으로 손을 뻗었다.
+VSK(0)<Speaker>VSK94</Speaker>||:속셈 다 보여.
+()||:VSK-94는 M870의 산탄총을 멀리 차 버렸다.+하지만 설마 M870이 그걸 노리고 수류탄을 던질 줄은 예상치 못했다.
+M870P(0)<Speaker>M870</Speaker>||:케헷♪ 이 누님을 얕보지 말라고!
+VSK(0)<Speaker>VSK94</Speaker>||:......
+()||:수류탄을 던지고 M870은 재빠르게 몸을 뒤로 굴려 자리에서 벗어나려 했다.+그리고 피할 수 없음을 직감한 VSK-94는, 공중에 떠오른 수류탄을 낚아채더니 그대로 M870에게 몸을 던져 덮쳤다.
+M870P(0)<Speaker>M870</Speaker>||:으엑!? 무무무무슨 짓이야?! 꺄아아아악!!!
+()||<SE1>Explode</SE1>:퍼엉――!!+폭발에 새들이 다시 놀라 날아올랐고, 공원 정문 앞의 벤치에서 꾸벅꾸벅 졸던 Vector까지 깨웠다.
+()<Speaker>시스템</Speaker>||:X 뉴욕경찰청장이(가) 유괴범아님믿어주셈을(를) 처치했습니다. X+X 뉴욕경찰청장이(가) 수류탄에 휩쓸려 사망했습니다. X
+Vector(0)<Speaker>Vector</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:흠큼... 뭐지?
+()||<黑屏2><BIN>295</BIN><BGM>BGM_Hello</BGM>:카리나의 중계가 한창인 지휘실.
+()<Speaker>인형A</Speaker>||:으아악 내 도오오온!!!
+()<Speaker>인형B</Speaker>||:VSK――!! 너만은 믿었는데――!!
+()<Speaker>인형C</Speaker>||:아하하하하하! 나, 나 웃겨 죽을 거 같아!
+()<Speaker>인형D</Speaker>||:힘내라 힘내라 Vivi~! 잘한다 잘한다 Vivi~!
+()||<BIN>294</BIN>:희비가 교차하는 인형들의 함성을 배경으로, 카리나는 끝을 모르고 치솟는 숫자를 보며 흡족하게 웃었다.
+()<Speaker>카리나</Speaker>||:으흐흐흐... M870도 겁먹을 때가 다 있네요!
+()<Speaker>지휘관</Speaker>||:이거 경기가 점점 재밌어지네.
+()<Speaker>카리나</Speaker>||:자 자 자, 여러분! 이미 벌어진 일을 어떡하겠어요? 시합이 어떻게 진행될지에 집중해요, 아직 팀이 많이 남았잖아요!+이미 잃은 돈 때문에 울 바에야, 다음에 대박날 기회를 노리세요!+자아, 어서 투표하세요! 이번 베팅으로 인생 대역전의 찬~스!
+()||<黑屏1>:눈에 달러 마크를 띄운 카리나를 보며, 지휘관은 무의식적으로 지갑을 움켜쥐었다.

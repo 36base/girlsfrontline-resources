@@ -1,0 +1,52 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+NPC-MorridowNew(1)<Speaker>몰리도</Speaker><通讯框>||<BIN>72</BIN><黑屏2><SE1>AVG_tele_connect</SE1><BGM>10220</BGM>:<color=#00CCFF>틸과 브라메드의 신호가 사라졌어.</color>+<color=#00CCFF>그리고 놈들이 지휘 센터까지 침입해서 신호를 끊어버렸어. 상정 시간까지 못 버틸 것 같아.</color>
+NPC-MorridowNew(1);NytoWhite(0)<Speaker>애슐리</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>옥상에 비행기 배치 마쳤습니다, 철수 준비되었습니다.</color>
+NPC-MorridowNew(1);NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>아버님께서 새로운 지시를 내리셨다.</color>+<color=#00CCFF>니모겐을 생포하거라.</color>
+NPC-MorridowNew(1);NytoWhite(0)<Speaker>애슐리</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>시간이 부족하지 않을까요...?</color>
+NPC-MorridowNew(1);NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position><通讯框>||:<color=#00CCFF>사나가 있잖니.</color>+<color=#00CCFF>그리고 70층의 물건도.</color>
+NPC-MorridowNew(1)<Speaker>몰리도</Speaker><通讯框>;NPC-Nemhran(0)||:<color=#00CCFF>그걸 누가 가서 키는데?</color>
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position><通讯框>||<黑屏1>:<color=#00CCFF>내가.</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>417</BIN>:썰렁해진 벌침 제어 센터. 네메아란은 혼자 스크린 앞에 서 있었다.
+()<Speaker></Speaker>||:커다란 메인 스크린에는 여전히 데이터스트림이 흘렀고, 다른 감시 화면에 보이는 민들레팀은 지금 44층의 니토들을 돌파하고 45층으로 올라가는 중이었다.+니토들은 하나둘씩 총탄에 쓰러져, 동탑의 방어선이 조금씩 갉아먹혀 가는 광경.+하지만 네메아란의 시선은 오직 댄들라이를 주시했다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||<黑屏1>:돌아왔구나, 루니샤.
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:복음중추의 빛이 깜빡였다.+......+..........
+()<Speaker></Speaker>||<黑屏2><BGM>10220</BGM><BIN>446</BIN>:동탑 44층.+여태 수비 태세던 니토들이 갑자기 방어를 포기하고 일제이 민들레팀에게 달려들기 시작했다.
+G11Mod(0)<Speaker>G11</Speaker>||:근데 말야, 저것들 갈수록 많아지는 거 같지 않아? 내 착각 아니지?+으에엑 왜 이제 막 달려들어!? 표정까지 다 똑같아서 징그러! 무슨 체스말이야?!
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:타앙!+AR-15도 방아쇠를 당기며 움직였다.
+AR15Mod(5)<Speaker>AR15</Speaker>||:빨리 올라가! 여기서 길을 막혀선 안 돼!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:HK416도 연발 사격으로 니토 둘을 쓰러뜨렸지만,+곧바로 10명이 넘는 니토들이 빈자리를 채웠다.
+HK416Mod(0)<Speaker>HK416</Speaker>||:저놈들, 한 곳만 바라보고 달려드네...+야 댄들라이, 너 무슨 니토 유인 장치라도 돼?
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:그런 말을 하다니 너무해, 난 그저 가련하고 연약한 AI일 뿐인데. 어서 나를 잘 지켜 줘.
+AR15Mod(5)<Speaker>AR15</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:농담할 상황 아니니까 당장 올라오기나 해!
+()<Speaker></Speaker>||<BGM>BGM_23S_Winter_Night</BGM><黑屏2><BIN>569</BIN>:아베르누스, 의식의 호수.
+NPC-Ange(34)<Speaker>안나</Speaker><Position>0,-50</Position>||<common_effect>%%code=AVG_qipao%%</common_effect>:넌 내가 찾는 사람이 아니야.
+NPC-Ange(34)<同时置暗><Position>0,-50</Position><Speaker>엘리아나</Speaker>||:하지만 너는 내가 찾는 사람일 거야.
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:......+왜?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<关闭蒙版>:우린 앞으로 어깨를 맞대고 싸울 전우가 될 테니까.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:...내가?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:그래. 그러니 널 데리고 돌아갈 거야.
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:......+난 너 모르는데.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......+지금 몇 년도인지 알아?
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:2047년이잖아.
+NPC-Ange(33)<Position>0,-50</Position><同时置暗><Speaker>엘리아나</Speaker>||:......+기다린다는 사람, 누구야?
+NPC-Ange(34)<Position>0,-50</Position><Speaker>안나</Speaker>||:내 선생님. 내가 답을 찾았다고 말해 주려고.
+NPC-Ange(34)<Position>0,-50</Position>;NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:무슨 답?
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>;NPC-SCAR-L(0)||:선생님이 전에 나한테, "삶이 결국 덧없을 운명이라면, 몸부림에 무슨 의미가 있을까?"라고 물었어.
+NPC-Ange(33)<Position>0,-50</Position>;NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:그 대답은?
+NPC-Ange(35)<Speaker>안나</Speaker><Position>0,-50</Position>||:나는 내 평생을 다해 그 질문에 답할 거야.
+NPC-Ange(35)<Position>0,-50</Position><同时置暗><Speaker>엘리아나</Speaker>||:...너는 해냈어.
+()||<SE1>ClothingUp</SE1>:엘리아나는 안나에게 다가가 손을 잡았다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:내가 왜 여기 있는지는 몰라.+네가 왜 여기 있는지도 모르고.+하지만, 내가 너와 함께 돌아갈 길을 찾을게.
+()<Speaker></Speaker>||<黑屏2><BGM>10220</BGM><BIN>417</BIN>:아베르누스 동탑, 패러데우스 지휘 중추.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:나쁜 소식이랑 좋은 소식이 있는데, 어느 것부터 들을래?
+AR15Mod(0)<Speaker>AR15</Speaker>;NytoIsomer(3)||:...나쁜 소식부터.
+AR15Mod(0);NytoIsomer(3)<Speaker>댄들라이</Speaker>||:너무해, 벌로 좋은 소식부터 들어.+엘리아나를 찾았어, 그녀가 이끌린 것도 봤고.
+AR15Mod(0)<Speaker>AR15</Speaker>;NytoIsomer(3)||:그럼 나쁜 소식은?
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:걔가 내 목소리를 듣지 못해.+알고 보니까, 이게――
+()<Speaker></Speaker>||:댄들라이가 그 특이한 장치를 가리키며 말을 이었다.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:탑 전체를 연결하고 있어.+탑 자체가 모든 니토를 조종하고, 그곳을 통해 통제하던 거야.+그런데, 어째선지... 그곳이 엘리아나를 데려갈 수 있어.
+AR15Mod(0)<Speaker>AR15</Speaker>;NytoIsomer(3)||:지휘관한테 보고하자.
+AR15Mod(0);NytoIsomer(3)<Speaker>댄들라이</Speaker>||:역시, 어쩐지 걔는 기반 시스템이 이상하더라니.+내가 아는 게 맞다면, 당시 유적기구는 둘로 쪼개졌지?+어쩌면... 정말 관계가 있는 걸지도.+지금 우리가 할 수 있는 건 이걸 꺼버리는 것뿐이지만.
+UMP45Mod(0)<Speaker>UMP45</Speaker>;NytoIsomer(3)||:참고로 서광팀은 70층에서 좌표 탐지 오류가 일어났어.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:응, 거기로 가자.
+()||<黑屏1>:

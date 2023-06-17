@@ -1,0 +1,42 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>578</BIN>:밤의 장막이 드리우고. 당신은 사쿠라와 함께 저택에 돌아왔다.
+()||<BGM>Campaion-34</BGM><SE1>AVG_footsteps_woodfloor</SE1>:그녀는 속을 알 수 없이 웃으면서, 평소와 다른 강경한 태도를 보이며 당신을 욕조 앞으로 끌고 갔다.
+()||<SE1>Stop_AVG_loop</SE1>:당신은 욕조를 바라봤다... 그 위엔 검고 길고 납작한 물건이 몇 가닥 걸려있었다.
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:어때요 어때요? 대단하죠?
+NPC-Sakura(0)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:......+너 이거... 미역이라도 기르니?
+NPC-Sakura(2)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:미... 미역이요?
+()||:사쿠라는 벙찐 눈으로 살짝 보고 얼굴이 새빨개졌다.
+NPC-Sakura(3)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:지휘관 바보 바보 바보! 이건 필름이잖아요!
+()||<SE1>AVG_footsteps_woodfloor</SE1>:당신은 좀 더 가까이 가서 그 검은 가닥을 만져봤다, 그 위에 뭔가 그림 같은 게 희미하게 보였다.
+()<Speaker>지휘관</Speaker>||<SE1>Stop_AVG_loop</SE1>:아... 네가 찍은 거야?
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:네! 모두와 같이 있을 때의 모습을 기록하고 싶어서요.+그래서 몰래 카메라를 빌려왔죠.
+()||<SE1>ClothingUp</SE1>:당신은 사쿠라가 건넨 필름 한 줄을 받아 길게 펼쳐보았다. 욕실의 형광등을 통해 위의 많은 얼굴이 찍혀 있는 게 보였다.
+()<Speaker>지휘관</Speaker>||:...잠깐만, 이건 내가 저택에서 처음 깨어나서 너희를 보고 기겁하는 모습 아니야?
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:네 네, 엄청 귀엽죠?
+NPC-Sakura(0)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:귀엽다니... 내가 세상에 귀엽다는 말을 들어보네...+이건 노래 연습장이네, 너랑 릴리가 화음을 맞추던 때.+아하하, 이건 로메로랑 타에가 오징어를 두고 싸우던 때네. 어, 그레이 트리도 있잖아...
+()||:당신은 추억 한 장 한 장을 보면서, 가슴 속에 무언가가 부풀어 올랐다.
+()<Speaker>지휘관</Speaker>||:사쿠라, 이건 나한테 주는 거야?+정말... 감동이다! 무척 마음에 들어, 진심으로!
+NPC-Sakura(5)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:예?
+NPC-Sakura(4)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:...아닌데요.
+NPC-Sakura(4)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||<BGM>BGM_Empty</BGM>:엉?+근데 내 사진이 잔뜩이잖아!+이건 내가 너희를 트레이닝에 끌고 가던 모습이고, 이건 우리 함께 밥 먹을 때고...+근데 나한테 주는 물건이 아니었어?
+NPC-Sakura(1)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<BGM>BGM_Saga_AVG_Dusk</BGM>:이건 우리끼리 추억으로 남길 물건인데요...
+NPC-Sakura(1)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:......
+NPC-Sakura(1)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:지휘관은 우리 콘서트가 성공할 거라 믿나요?
+NPC-Sakura(1)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:당연하지! 너희를 엄청 믿고 있다고.
+NPC-Sakura(1)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:저도 그래요. 믿기 힘들지만, 연습할 때마다 전보다 확신이 들어요.+우리 공연은 분명 성공할 거라고.+지휘관이 분명 원래 세계로 돌아갈 수 있을 거라 확신하는 만큼요.
+NPC-Sakura(1)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:...응, 그치.
+NPC-Sakura(1)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:그래서 뭔가 함께 남겨야 한다고 생각했어요.+그럼 언제 우리가 헤어져도 증명이 될 물건이 생기니까요.
+NPC-Sakura(1)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:무슨 증명?
+NPC-Sakura(1)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:우리와 함께 이 성대한 공연을 이루어낸 누군가가 있었음을.+프랑슈슈의 배후에 다른 세계에서 온 지휘관이 있었음을.
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:만약 지휘관이 다시 사가에 왔는데 저희를 못 찾을 때도,+이 사진들을 다른 사람들한테 보여주면서 자신이 프랑슈슈의 매니저라고 말할 수 있을 테잖아요.
+NPC-Sakura(0)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:<color=#A9A9A9>(우리가 함께 지낸 모든 날을 전부 간직하고 있었구나. 그런데 나는 이 며칠을 그저 단순한 여행으로 생각하고...)</color>
+()||:자괴감이 든 당신은 이를 해소하기 위해 뭐라도 해야겠다 생각했다.<c>A. 사쿠라가 좋아하는 음식이 뭔지 묻는다.<c>B. 욕조에 물을 채운다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:너... 좋아하는 음식 있니? 치킨 아니면 오징어?
+NPC-Sakura(4)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<分支>1</分支>:...한밤 중에 야식은 살찌기 쉬워요.
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<分支>1</分支>:아, 그치만 좀비니까 괜찮겠죠?
+()||<SE1>AVG_Spanner</SE1><分支>2</分支>:당신은 욕조의 수도꼭지를 틀었다.+하지만 물이 한 방울도 나오지 않았다.+이에 당신은 더 난감해졌다.
+NPC-Sakura(2)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<分支>2</分支>:아, 필름을 말리느라 여기 큰 밸브를 잠갔어요.
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:아차, 깜빡할 뻔했다. 사실 사진 고르는 걸 도와달라고 불렀어요.+어느 사진이 잘 나왔는지 골라 현상해서 다 같이 보게요.
+NPC-Sakura(0)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:다 현상하면 안 돼?
+NPC-Sakura(2)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:엣, 이거 열 줄이 넘는데요...?+우린 지금 돈 한 푼도 아껴야 하는 상황 아닌가요?
+NPC-Sakura(2)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||<黑点1>:다 뽑아, 다 현상해! 내가 식비를 다 때려박아서도 다 현상한다!

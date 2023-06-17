@@ -1,0 +1,100 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>6</BIN><Night><SE1>GF_Halloween_Wind_loop</SE1><BGM>GF_21winter_avg_mahaline</BGM>:......+시베리아의 황무지.+시베리아 생명선을 가로지르는 철도의 수복이 끝나자, 인간 현장 감독들은 바로 이 썰렁한 황무지에서 마지막 기수의 철도 작업부 인형들만 눈보라 속에 남기고 사라져 버렸다.
+()<Speaker>GIRTM-590</Speaker>||<SE1>Stop_AVG_loop</SE1>:<color=#ffcc00>...이제 우리 뭐하지?</color>
+()||:벌써 몇 번째일까, 인형 한 명이 간이 오두막 속에서 희미한 불빛에 대고 중얼거렸다.
+()<Speaker>GIRTM-634</Speaker>||:<color=#99CC33>내가 아는 건, 계속 여기서 있으면 나중에 회수업자에게 끌려가서 폐기 처분된다는 거야.</color>
+()<Speaker>GIRTM-590</Speaker>||:<color=#ffcc00>......</color>
+()||:"회수업자". 인간 감독들이 떠나기 전에 남긴 말이었다.+남겨진 인부 인형들에게, 빨리 다음 일자리를 찾지 못하면 처리장으로 보내져 폐기될 것이라고 대충 경고한 것이었다.+하지만 그들은 여기서 아무것도 안 한 지 벌써 며칠이나 됐지만, 전설의 "회수업자"는 코빼기도 보지 못했다.
+()<Speaker>GIRTM-590</Speaker>||:<color=#ffcc00>정말 회수된다면 그것도 나쁘지 않지, 어디로 가야 할지 고민 안 해도 되니까.</color>
+()<Speaker>GIRTM-634</Speaker>||:<color=#99CC33>하지만 난 이대로 폐기되기 싫은걸.</color>+<color=#99CC33>"책벌레", 너는?</color>
+NPC-TD_Worker(0)<Speaker>GIRTM-612</Speaker>||:......
+NPC-TD_Worker(0)<Speaker></Speaker><同时置暗>||<SE1>AVG_20Winter_Book</SE1>:"책벌레"라 불린 인형은 읽는 중이던 책을 내려놓고, 천천히 고개를 들었다.
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:책에서 읽기를, 운명의 장미꽃을 만나면...+밤하늘을 올려다볼 때, 하늘이 별들이 전부 장미처럼 보인대.
+NPC-TD_Worker(1)<同时置暗><Speaker>GIRTM-634</Speaker>||:<color=#99CC33>"장미"...? 시각 모듈에 오류를 일으키는 바이러스야?</color>
+NPC-TD_Worker(1)<同时置暗><Speaker>GIRTM-590</Speaker>||:<color=#ffcc00>검색해봤는데, 인형한테도 무해한 식물이야.</color>
+NPC-TD_Worker(1)<同时置暗><Speaker>GIRTM-634</Speaker>||:<color=#99CC33>그럼 장미가 어떻게 별들을 꽃처럼 보이게 해?</color>
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:나도 몰라. 하지만 알아내고 싶어.
+NPC-TD_Worker(1)<同时置暗><Speaker></Speaker>||:"책벌레" 612호는 고개를 더 들어, 시꺼먼 밤하늘을 올려다봤다.+오염도가 높은 탓에 지금 이곳에선 별이 보이지 않지만, 수십 년 전에는 반짝이는 비단처럼 별이 많이 보였다고 한다.
+NPC-TD_Worker(1)<同时置暗><Speaker>GIRTM-634</Speaker>||:<color=#99CC33>어디 가게?</color>
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:응. 서쪽의 바르샤바로, 내일 바로 출발하려 해.
+()<Speaker>GIRTM-634</Speaker>||:<color=#99CC33>바르샤바가 어디야?</color>
+()<Speaker>GIRTM-590</Speaker>||:<color=#ffcc00>......</color>
+()||<SE1>AVG_20Winter_Book</SE1>:612호가 낡은 지도 한 장을 꺼내 보여 주었다. 그들의 현재 위치에서 서쪽으로 쭈욱, 거의 아시아 대륙을 가로질러야 바르샤바에 도착할 수 있었다.
+()<Speaker>GIRTM-634</Speaker>||:<color=#99CC33>이렇게 멀어!?</color>
+()<Speaker>GIRTM-590</Speaker>||:<color=#ffcc00>시베리아 생명선을 따라서 가려고?</color>
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:응, 바르샤바는 내가 가진 돈으로 갈 수 있는 가장 먼 철도역이야.
+NPC-TD_Worker(1)<同时置暗><Speaker>GIRTM-634</Speaker>||:<color=#99CC33>......</color>
+()||:세상엔 다시 휘몰아치는 눈보라 소리와 쌓인 눈에 나뭇가지가 부러지는 소리만이 남았다.
+()<Speaker>GIRTM-634</Speaker>||:<color=#99CC33>...그냥 가지 말고 우리랑 같이 있자.</color>
+()<Speaker>GIRTM-590</Speaker>||:<color=#ffcc00>인간의 도시는 너무 위험해.</color>
+()<Speaker>GIRTM-634</Speaker>||:<color=#99CC33>그들이 너한테 엄청 끔찍한 짓을 할 거야!</color>
+()<Speaker>GIRTM-590</Speaker>||:<color=#ffcc00>찾던 걸 찾아내더라도 실망하게 될 수도 있어.</color>
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:알아. 내가 열차에 올라 바르샤바까지 금방 가게 돼도, 원하는 것을 찾지 못할 수도 있겠지.
+NPC-TD_Worker(0)<Speaker></Speaker><同时置暗>||:612호의 머리 램프가 가볍게 깜빡였다. 천천히 눈을 깜빡이는, 작별을 고하는 슬픈 눈의 깜빡임 같았다.
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:그래도 가보고 싶어. 여기엔 아무것도 없으니까.+별도 없고, 장미도 없어.
+NPC-TD_Worker(1)<同时置暗><Speaker>GIRTM-634</Speaker>||:<color=#99CC33>......</color>
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:폐기 처분될 때, 밤하늘의 장미를 보고 싶어.
+NPC-TD_Worker(1)<同时置暗><Speaker>GIRTM-590</Speaker>||:<color=#ffcc00>네가 그렇게 마음먹었다면야.</color>
+()||:투박한 기계손이 612호의 어깨에 얹어졌다.
+()<Speaker>GIRTM-590</Speaker>||<黑屏1>:<color=#ffcc00>그럼, 오늘은 함께 마지막 밤을 보내자.</color>
+()||<黑屏2><关闭蒙版>:......+다음날 새벽.+612호는 얼마 있지도 않은 짐을 싸고, 전철역으로 향할 준비를 마쳤다.
+()<Speaker>GIRTM-634</Speaker>||:<color=#99CC33>......</color>
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:왜 그래?
+NPC-TD_Worker(1)<同时置暗><Speaker>GIRTM-634</Speaker>||:<color=#99CC33>이거 줄게.</color>
+NPC-TD_Worker(1)<同时置暗><Speaker></Speaker>||<SE1>AVG_File_Put</SE1>:634호가 작은 주머니를 612호의 짐가방에 넣었다. 그건 634호가 한가할 때마다 주워 모았던 돌멩이들이 담긴 주머니였다.
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:네가 좋아하는 돌이잖아.
+NPC-TD_Worker(1)<同时置暗><Speaker>GIRTM-634</Speaker>||:<color=#99CC33>나랑 590호는 가장 가까운 회수처리장으로 가서 폐기 처분받으려고.</color>+<color=#99CC33>그 인간 감독들이 이 돌멩이는 엄청 비싸게 팔릴 거랬으니까, 네게 쓸모 있을 거야.</color>
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:...고마워, 소중히 간직할게.
+NPC-TD_Worker(1)<同时置暗><Speaker>GIRTM-590</Speaker>||:<color=#ffcc00>잘 가, 612호.</color>
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:잘 가, 590호. 잘 가, 634호.
+()||:612호는 전철역이 있는 방향으로 걸어가다, 잠깐 뒤를 돌아보았다.
+()||<黑屏1><BGM>BGM_Empty</BGM>:여전히 그 자리서 612호를 배웅하는 590호와 634호는 이제 아주 작게 보여, 눈밭에 솟아난 매마른 나뭇가지처럼 보였다. 하지만 그들은 이듬해 봄이 찾아왔을 땐 저곳에 없을 것이다.
+()||<黑屏2><BIN>532</BIN><SE1>AVG_Eurocity_Stop</SE1><SE1>AVG_AMB_Street</SE1><BGM>GF_21summer_avg_Demon</BGM>:며칠 후, 바르샤바 중앙 전철역.+승객들이 물 흐르듯 출구를 나서며 각자의 목적지를 향해 떠날 때, 612호도 짐가방을 둘러메고 열차에서 내렸다.+다만, 612호는 발걸음을 떼지 않고 한쪽의 승무원을 바라봤다.
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||<SE1>Stop_AVG_loop</SE1>:안녕하세요.
+NPC-TD_Porter(0)<Speaker>승무원</Speaker>||:......
+NPC-TD_Porter(0)<同时置暗><Speaker></Speaker>||:부름에 고개를 돌린 승무원의 미소가, 612호를 보자마자 질색하는 표정으로 변했다.
+NPC-TD_Porter(0)<Speaker>승무원</Speaker>||:열차에서 내리셨으니 당신은 더 이상 승객이 아닙니다. 당신께 서비스를 제공할 의무는 없어요.
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:그냥 한 가지만 묻고 싶습니다. 바르샤바에서 장미를 보려면 어디로 가야 합니까?
+NPC-TD_Porter(0)<Speaker>승무원</Speaker>||:장미...? 그냥 인터넷에서 이미지 검색하세요, 그게 더 빨라요.
+()||:승무원은 홱 떠났고, 612호는 홀로 썰렁한 승강장에 남겨졌다.
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:...내가 찾는 건 진짜 장미인데. 밤하늘을 바라봤을 때 떠올릴 수 있는 장미.
+()||<黑屏1>:속으로 되뇌면서, 그는 천천히 역 밖으로 걸어갔다.
+()||<黑屏2><BIN>168</BIN><SE1>AVG_AMB_Wind</SE1>:얼마 후, 바르샤바 교외.+612호는 기운 없이 길가에 걸터앉았다. 그의 질문을 받는 행인들은 하나같이 하찮다거나 조롱하기만 했다.+결국, 612호는 착잡한 마음으로 결론을 내렸다.+이곳엔 장미가 없다고.
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||<SE1>Stop_AVG_loop</SE1>:......진작에 알아챘어야 했는데.+책 속의 장미도, 아주 연약해서 유리 덮개로 바깥의 위협으로부터 지켜야 했으니.+그렇게 연약한 존재가 이런 데서 살아갈 수 있을 리 없어.
+()||:612호의 발 아래의 거리는 악취로 가득했다. 음식물 쓰레기가 썩는 냄새, 썩다 못해 발효되어 가는 배설물의 냄새, 온갖 것이 뒤섞여 무엇인지조차 분간하기 힘든 냄새가 진동했다.+거리를 지나는 행인들조차 하나같이 초췌한 몰골이어서, 마치 목적지 없는 산송장처럼 무의미하게 하루하루를 연명하고 있는 듯했다.+612호는 고개를 숙였다. 장기간 오염지대에서 중노동을 한 그의 소체도 온통 흠집투성이였기에, 사람들 눈엔 그도 역시 저 산송장들 중의 하나로밖에 보이지 않을 것이었다.
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:여기에는 장미가 없어.+내가 갈 수 있는 어느 곳에도 장미는 없어.
+NPC-TD_Worker(1)<同时置暗><Speaker></Speaker>||<SE1>AVG_Camera_Focus</SE1>:밤하늘을 보려고 고개를 드는 그의 목에서, 녹슨 부품이 삐걱이는 소리를 냈다.+하지만 여기서도 밤하늘은 칙칙했다.
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:......+여기서도 별은 안 보이는구나.
+NPC-TD_Worker(0)<同时置暗><Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:그의 램프가 빛을 잃었다.
+NPC-TD_Worker(0)<Speaker>GIRTM-612</Speaker>||:......+하고 싶은 일은 다 했으니, 이제 됐어.+나도 회수처리장에 가야지.
+()||<黑屏1>:612호는 무거운 몸을 일으키고, 바르샤바의 인형 회수처리장으로 향했다.
+()||<黑屏2><BIN>476</BIN><SE1>AVG_20Winter_Chains_Break</SE1>:얼마 후, 인형 회수처리장.+612호의 소체 검사 결과가 처참하자, 회수업자의 눈살이 절로 찌푸려졌다.
+()<Speaker>회수업자</Speaker>||:알아서 걸어 들어온 건 좋은데, 이딴 고물을 회수해서 어따 쓴다고...
+NPC-TD_Worker(0)<Speaker>GIRTM-612</Speaker>||:......+죄송합니다.
+()||<SE1>AVG_door_storehouse</SE1>:612호는 측정기 앞에 가만히 서서, 출고 후 동료들과 철로를 수리하던 나날을 떠올렸다.+그 시절엔 자주 지평선 너머로 끝없이 이어지는 철로의 저편을 바라보며, 이 위로는 과연 무엇이 지나갈까 상상하곤 했다.+그리고 오늘, 그는 그 해답을 얻었다.+그는 강철의 괴수 같은 열차를 타고, 무수한 인부 인형들을 소모해 수복된 철로 위를 빠르게 달렸다.+가슴이 무척 설레였지만, 누구와도 이 기분을 나눌 수 없었다. 열차에는 철로가 어떻게 수복됐는지 아는 이가 아무도 없었으니까.
+()<Speaker>회수업자</Speaker>||:팔 들어.
+NPC-TD_Worker(0)<Speaker>GIRTM-612</Speaker>||:예.
+()||<SE1>AVG_Camera_Focus</SE1>:얌전히 양팔을 든 612호의 눈에, 회수업자의 어깨 너머로 웬 여자아이가 이리저리 부딪히며 골목길을 달려나오다 질척한 길바닥에 넘어지는 광경이 들어왔다.+여자아이는 안색이 창백한 것이 영양실조인 듯했고, 낡고 펑퍼짐한 옷으로 감싼 비쩍 마른 몸은 조금만 힘을 줘도 바스러질 메마른 꽃송이 같았다.
+NPC-TD_Worker(0)<Speaker>GIRTM-612</Speaker>||:저기에 누가 다쳤습니다.
+()||:그 말에 회수업자는 반사적으로 힐끗 보기만 하곤 계속 손을 움직였다.
+()||<SE1>RunStep</SE1>:이윽고 양아치처럼 보이는 사람 몇 명이 골목길 밖으로 나타나, 욕설을 내뱉으며 여자아이의 머리채를 잡곤 어두운 심연 속으로 도로 끌고 들어갔다.
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:저 여자애... 도움이 필요합니다.
+NPC-TD_Worker(1)<同时置暗><Speaker>회수업자</Speaker>||:신경 꺼.
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:......
+()||<SE1>AVG_lifttable</SE1>:612호는 여자아이가 울면서 도움을 청하다 질질 끌려가면서 남겨진 흔적을 뚫어져라 쳐다봤다.+저 연약하고 어린 생명은, 모두가 지켜보는 가운데 유리 덮개 밖 나쁜 것에 의해 다치게 될 터였다.
+()||:612호는 결단을 내렸다. 회수업자를 살며시 밀어내고, 몸을 돌려 회수처리장 밖으로 걸어갔다.
+()<Speaker>회수업자</Speaker>||:너 뭐야 진짜!?
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||<SE1>AVG_20Winter_Chains_Break</SE1>:죄송합니다, 마음이 바뀌었습니다. 아직 폐기 처분되고 싶지 않아졌습니다.
+()||<黑屏1><BGM>BGM_Empty</BGM>:회수업자가 뒤로 마구 욕설을 퍼붓는 것을 무시하며, 612호는 곧장 그 골목길로 향했다.
+()||<黑屏2><BIN>168</BIN><SE1>AVG_Robots_Floor</SE1><BGM>GF_21winter_avg_mahaline</BGM>:......+잠시 후, 어두운 골목길.+갖고 있던 스패너와 무쇠 소체를 십분 활용해, 612호는 양아치들을 쫓아냈다.+그런데, 망연하게 바닥에 앉아있는 여자아이는 지금 무슨 일이 일어났는지 모르는 눈치였다.
+NPC-SickGirl(0)<Speaker>여자아이</Speaker>||:누... 누구세요...?
+()||:마침내 무언가 다름을 느낀 여자아이가 비틀거리며 일어났다. 그런데, 맑고 예쁜 눈동자건만 초점이 없는 것 같았다.
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:......
+()||:612호는 어린 인간에게 자신이 누구인지를 어떻게 설명할지 고민했다.
+NPC-SickGirl(0)<Speaker>여자아이</Speaker>||:...폴? 혹시 폴이야?
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:<color=#A9A9A9>폴...? 내 모습이 안 보이는 건가?</color>
+()||:여자아이는 "폴"이란 이름을 부르며 휘청휘청 다가왔다.+그녀가 앞으로 뻗어 허우적대는 손은 너무나도 연약하고, 생명의 마지막 빛줄기를 붙잡으려는 듯 초조했다.
+()||<SE1>Rope</SE1>:612호는 잠시 머뭇거리다, 살며시 스패너를 내밀어 그녀가 붙잡고 똑바로 설 수 있도록 해 주었다.
+NPC-SickGirl(0)<Speaker>여자아이</Speaker>||:왜 말을 안 해? 폴... 너 맞아?
+NPC-TD_Worker(1)<Speaker>GIRTM-612</Speaker>||:......+그래, 폴이야.
+()||<黑点1>:

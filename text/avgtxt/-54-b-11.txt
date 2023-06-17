@@ -1,0 +1,69 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>197</BIN><Night><BGM>10082</BGM><common_effect>%%code=CJ_rain%%</common_effect><SE1>AVG_Amb_Rain_0</SE1>:망가진 열차, 망가진 기갑병기, 망가진 날씨.+그 모든 것이 하나로 뒤섞여 잠 못 드는 심야의 풍경을 그려냈다.
+()||<SE1>AVG_Door_Hit</SE1>:쿠웅!+밀수해온 군용 기갑병기가 바닥에 쓰러졌다.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:...계속합니까?
+()||:니콜라스마저 드물게 다니엘에게 딴지를 걸지 않고 휠체어 위의 류바 할멈에게 시선을 향했다.+처음에 열차에 오른 도적들 중 지금 남은 건 고작 1할 수준. 아직 두 발로 서 있는 자들은 류바 할멈 옆에 뭉쳐 다음 지시를 기다렸다.
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:됐다...
+()||:류바 할멈은 모두를 보고서 한숨만 내쉬었다.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:철수해.
+()||<SE1>AVG_Team_Running</SE1>:명령이 떨어지자 이미 녹초가 된 도적들은 헐레벌떡 열차에서 뛰어내렸다.+열차에 오를 때는 그야말로 위풍당당했지만, 퇴각하는 꼴은 볼썽사납기 짝이 없었다.
+()||<SE1>AVG_Amb_Rain_0</SE1>:쉬지 않고 쏟아지는 빗물에 초연과 먼지, 그리고 핏물이 뒤섞여 땅으로 흘러내렸다...+모두의 발걸음은 몹시 무거웠다...
+()||<黑屏1><SE1>Stop_AVG_loop</SE1>:
+()||<黑屏2><BIN>530</BIN><narrator><关闭蒙版>:대륙간 열차 "미래호", F09 식당차 부근.
+()||:9호 차량의 상황도 딱히 나은 편은 아니었다.+도적들의 걸음소리가 점점 멀어지는 것을 들으며, 수잔나의 마음을 짓누르던 공황이 간신히 조금이나마 풀렸다.
+NPC-TD_Porter(0)<Speaker>수잔나</Speaker>||:...휴우.+정말 가버렸어!
+()||:모습은 엉망이어도, 이 차량은 류드밀라의 지휘 아래 기본적인 질서를 유지하고 있었다.+인간들은 비교적 튼튼한 곳에 숨고, 인형들은 너덜너덜해진 차량 문 근처에 모였다.+긴장이 풀린 수잔나와 달리, 매기는 드물게도 진지한 표정이었다.
+ColtWalker(3)<Speaker>매기</Speaker>||:...희한해, 평소의 놈들 스타일과 달라.
+Erma(0)<Speaker>엘마</Speaker>||:그만큼 류드밀라의 전술이 훌륭했다는 거 아냐?
+()||<SE1>Select</SE1>:엄폐물에 몸을 숨긴 류드밀라도 미간을 찡그린 채, 잠시 망설이다 장전 손잡이를 당겼다.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:덤벼들 때도 물러날 때도 움직임이 너무 이상했어.+아직 방심할 때가 아니야.
+NPC-TD_Worker(0)<Speaker>폴</Speaker>||:...지금 작전능력이 남아있는 인형은 열 명뿐입니다.+체온이 떨어지고 있는 인간 승객들도 있고...
+()||<SE1>AVG_footsteps_woodfloor</SE1>:스스로 나서서 검사 작업을 맡은 폴이 차량의 상황을 전부 확인하고서 로시타를 안고 류드밀라 근처에 돌아왔다.
+NPC-TD_Worker(0)<Speaker>폴</Speaker>||<SE1>Stop_AVG_loop</SE1>:추가적인 보급이 없다면... 누군가 쓰러질까봐 걱정입니다.+로시타의 열도 점점 심해지고 있고...
+NPC-TD_Porter(0)<Speaker>수잔나</Speaker>||:...응급 키트는 이미 다 썼어요. 게다가 여기의 음식과 물은 거의 다 충격으로 부서지고 빗물에 젖어서 못 쓰게 됐고...
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>;NPC-TD_Porter(0)||:1호 차량으로 간다.
+AR18(6)<Position>0,70</Position>;NPC-TD_Porter(0)<Speaker>수잔나</Speaker>||:예?
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>;NPC-TD_Porter(0)||:방금 루카스에게서 연락이 왔다.+특등석 객차는 충격이 경미해서 비상 전원, 물 그리고 식량 모두 버티기에 충분할 거다.
+AR18(6)<Speaker>승객A</Speaker><Position>0,70</Position><同时置暗>||:엣, 저, 정말이야!?
+AR18(6)<Speaker>승객B</Speaker><Position>0,70</Position><同时置暗>||:...그럼 뭐 하고 있어, 빨리 가자고!
+AR18(6)<Speaker>승객C</Speaker><Position>0,70</Position><同时置暗>||:하느님 감사합니다, 저희를 보우하사 살아날 길로 인도하시는군요...
+()||<SE1>AVG_Crowd_Run</SE1>:류드밀라의 말이 떨어지기도 전에 구석에 숨어있던 승객들은 앞을 다투며 자리에서 일어났고, 차 안은 바로 요란해졌다.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:남은 인원수와 물자를 확인하고 신속하게 이동한다.
+()||:수잔나는 몸을 지탱해 세우면서 얼굴에 기운을 다시 불어넣었다.+여전히 굳어있는 미소는 이 상황에선 약간 우스꽝스럽고 섬뜩하게 보였지만,+그래도 그녀는 승무원으로서의 직업 정신을 유지했다.
+NPC-TD_Porter(0)<Speaker>수잔나</Speaker>||:제게 맡겨주세요.
+()||:당장이라도 샴페인을 터뜨릴 기세인 승객들을 보면서, 캐서린은 바닥에 앉아 눈앞의 매기에게 빈정댔다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:...정말 그렇게 순조로울까?
+()||<SE1>ClothingUp</SE1>:매기는 어깨를 으쓱했다. 시선을 창문에 고정시키고서.
+ColtWalker(3)<Speaker>매기</Speaker>||:너마저도 낌새를 느꼈는데 어떻겠냐?
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:......
+()||:캐서린도 매기의 시선을 따라 창밖을 바라보았다. 뿔뿔이 흩어진 그림자들이 저 멀리 숲으로 걸어가는 것이 보였다.+그 정체불명의 차량 부대가 있는 곳이었다. 승객들 때와 달리, 도적들은 아무런 방해 없이 그리로 건너갔다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:...저것들이랑 같은 편이네.
+ColtWalker(3)<Speaker>매기</Speaker>||:...그렇네.
+()||:매기는 턱을 괴고 생각하다 쓴웃음을 터뜨렸다.
+ColtWalker(3)<Speaker>매기</Speaker>||:이때 위스키 한 모금 마셔 주면 딱인데.
+()||<SE1>ClothingUp</SE1>:캐서린이 스리슬쩍 몸 뒤에서 약간 금이 가고 반쯤 남은 술병을 꺼냈다.+매기는 병을 받아들고 라벨을 보았다——
+ColtWalker(4)<Speaker>매기</Speaker>||:스카치위스키잖아! 언제 숨겨둔 거야?
+NPC-Scalper(0)<Speaker>캐서린</Speaker>;ColtWalker(4)||:강도들이 날 묶을 때 카운터에서 슬쩍했지.
+NPC-Scalper(0);ColtWalker(1)<Speaker>매기</Speaker>||:...손재주도 좋아요.
+NPC-Scalper(0)<Speaker>캐서린</Speaker>||:이 정도쯤이야! 원래 나 죽기 직전에 마시려고 꼬불쳐둔 건데,+네가 불쌍해서 주는 거야.
+()||:매기는 어물쩍 보다가 위스키를 돌려줬다.
+ColtWalker(1)<Speaker>매기</Speaker>||:아직은 남겨둬, 아직 안 끝났으니까.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:......
+()||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:삐이——+메시지가 들어왔다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||<BGM>GF_21summer_avg_SecretAgent</BGM>:누구야?
+ColtWalker(3)<Speaker>매기</Speaker>||:니콜라스.
+()||:매기는 통신기를 내려다보곤 눈살이 저절로 찌푸려졌다.
+()<Speaker>니콜라스</Speaker>||:<color=#00CCFF>"못된 놈이 오래 산다더라. 너나 나나 착한 놈은 아니라서 다행이야."</color>
+()||<SE1>AVG_tele_connect</SE1>:삐삑——+또 메시지가 들어왔다.
+()<Speaker>니콜라스</Speaker>||:<color=#00CCFF>"난 간다, 포즈난에서 봐."</color>
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:아무래도 줄을 잘못 탔네.+설마 저 자식이 꿀 빠는 라인일 줄 누가 알았겠어...
+()||:매기는 말없이 통신기를 집어넣었다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:하아, 그 자식은 결국 방주에 기어올라갔네.+우리만 바보같이 고생하고 바보같이 버려지고...+이게 몇 년째야? 우린 왜 맨날 이 모양이냐고...+고생길은 이제 질렸다고오!
+()||<SE1>ClothingUp</SE1>:누군가의 손이 캐서린의 어깨를 툭툭 쳤다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:...나 지금 우울하니까 건들지 마, 내가 탄 배가 가라앉고 있다고.
+NPC-TD_Worker(0)<Speaker>폴</Speaker>;NPC-Scalper(3)||:...캐서린 양, 다른 분들은 다 준비됐습니다.+안 가십니까?
+NPC-TD_Worker(0);NPC-Scalper(3)<Speaker>캐서린</Speaker>||:......+가야지, 당연히 가야지!
+ColtWalker(4)<Speaker>매기</Speaker>||<SE1>AVG_Scene_Transfer</SE1><BGM>BGM_Empty</BGM>:잠깐...
+()||:계속 창밖을 바라보던 매기가 눈을 부릅떴다.
+ColtWalker(4)<Speaker>매기</Speaker>||:다들 저기 좀 봐!
+()||<黑点1>:

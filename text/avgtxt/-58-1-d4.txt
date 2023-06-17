@@ -1,0 +1,146 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>240</BIN>:베를린 노이템펠호프 구역.+"윌리엄"의 옛 거처.
+()||<SE1>AVG_Sword_Scope</SE1><BGM>Campaion-58-3</BGM>:쉬익!
+()||<SE1>AVG_lifttable</SE1>:예리한 칼날이 바람을 가르는 소리. 무거운 나무 문짝이 주변의 벽과 함께 토막났다.+토막난 조각들은 바닥에 후두둑 떨어지며 먼지구름을 일으켰고, 그동안 단절됐던 두 공간이 훤히 이어졌다.+그리고 회색 그림자는 빛을 등지고 문 앞에 나타났다.
+NPC-MrsGray(9)<Speaker>？？？？</Speaker>||:...찾았다.+안젤리아.
+()||<SE1>AVG_pistol_finalshot_n</SE1>:타앙!+대꾸 대신 급소를 노리는 치명적인 탄환이었다.+이 지나치게 뜨거운 환영에 흥미가 없는 듯, 기다란 검은 그림자가 회색의 여성의 뒤에서 뻗어나왔다.+이어서 쇠붙이끼리 부딪히는 경쾌한 금속음으로, 그것의 정체가 드러났다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:쯧... 징그러운 자식.
+NPC-MrsGray(9)<Speaker>？？？？</Speaker>||<SE1>AVG_Grey_Hand_Mech</SE1>:어머나, 소련인은 다 입에 걸레를 물고 다니나요?+교양 있는 사무직인 사람으로서 실망이군요.
+()||:회색의 여성을 보호하는 것은 살랑살랑 흔들리는 그녀의 "꼬리"였고, 그 끝에 달린 칼날은 저 문짝을 토막낸 원흉이 틀림없었다.+게다가, 철갑탄에도 저 꼬리는 흠집 하나 나지 않았다.+그야말로 여자의 모습을 한 괴물이었다.
+()||<SE1>AVG_Team_Running</SE1>:그리고 그녀의 양옆으로 모습을 드러낸 것은 완전무장한 하얀 병사들.+일말의 주저도 없이, 안젤리아는 곧장 뒤돌아 도주했다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<SE1>RunStep</SE1>:AK-12, AK-15, 여긴 맡긴다!
+AK15(0)<Speaker>AK15</Speaker>||:예.
+()||:낮게 대답하며, AK-15가 거대한 몸으로 안젤리아와 저 회색의 여자 사이를 가로막았다. 시뻘건 눈동자로, 흔들리는 꼬리를 노려보면서.
+()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:쉬익!+사냥하는 뱀처럼, 꼬리는 예고도 없이 인간의 육안으로는 포착할 수 없는 속도로 칼날을 휘둘렀다.
+()||<SE1>AVG_lifttable</SE1>:쿠웅!+두 동강난 궤짝이 반작용으로 높이 치솟았다 중력에 이끌려 바닥에 떨어져 산산조각 났다.
+NPC-MrsGray(9)<Speaker>？？？？</Speaker>||:호오...?
+()||:회색 머리의 여인은 턱을 약간 숙이며 감탄했다.
+NPC-MrsGray(9)<Speaker>？？？？</Speaker>||:제법이구나.
+AK15(0)<Speaker>AK15</Speaker>||:......
+()||:AK-15는 오른팔에서 어깨의 연결 부위, 방탄 조끼까지 주욱 베인 상처가 생겼고, 소체의 인공 피부도 벌어져 그 아래로 매혹적인 금속광택이 드러났다.+회색 여인은 빨랐지만, 상대는 더 빨랐다.
+()||<黑点1>:
+()||<黑点2><BIN>46</BIN>:......
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:Q, 상대 신분.
+NPC-Ange(19);NPC-maya(0)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>어디 보자... "미스 그레이", 갈라테아 그룹의 대변인이자 아주 유명한 과학자야.</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;NPC-maya(0)||:신상 정보.
+NPC-Ange(19);NPC-maya(0)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>......없어, 벌침 시스템에 그녀에 대한 정보가 없어.</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;NPC-maya(0)||:이 따위면서 슈타지의 첩보력이 다시 전성기로 돌아왔다고?
+NPC-Ange(19);NPC-maya(0)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>어쩌면... 내 권한이 모자란 걸지도.</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;NPC-maya(0)||:너네 목적은 패러데우스가 아니지?+그냥 그걸 완전하게 소유하고 싶을 뿐이지?
+NPC-Ange(19);NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>이래서 똑똑한 사람이랑 협력하긴 피곤하다니까...</color>+<color=#00CCFF>그래도 좋은 소식은, 그래도 우리의 과정은 일치한단 거야.</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:칫.
+()<Speaker>패러데우스 병사</Speaker>||<BGM>BGM_Empty</BGM>:목표... 발견.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:......
+()||<SE1>AVG_Broken_Glass</SE1>:쾅!
+()||<SE1>AVG_Cut_Watermelon</SE1>:속까지 먼지로 가득한 수납함의 유리를 의수로 깨고, 소방용 도끼를 꺼내들어 좁은 복도를 가로막은 스트렐치의 머리를 내리쳤다.+하지만 스트렐치 하나가 맥없이 쓰러지기가 무섭게 똑같은 병사 두 명이 더 나타났다.
+()||<SE2>Gunfight</SE2>:타탕!
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:제기랄.
+()||<SE1>Explode</SE1>:퍼엉!
+()||:안젤리아가 엄폐물에 숨자마자 서쪽 방향에서 폭음이 들려왔다.+AK-15는 신소련 최강의 전술인형이라고, 쇼는 말했다.+안젤리아는 쇼를 믿었다.+그리고 무엇보다, AK-12를 믿었다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<BGM>GF_21winter_battle_1</BGM>:그럼...
+()||<SE1>Select</SE1>:안젤리아는 재빨리 탄창을 권총에 결합하며 중얼거렸다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:남은 건 내가 알아서 살아남는 것뿐이네.
+()||:......
+()||<黑点1>:
+()||<黑点2><BIN>240</BIN><SE2>Gunfight</SE2>:타타탕!!!
+()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:쉬익!
+AK15(2)<Speaker>AK15</Speaker>||:——!
+()||:거리를 벌리면서 화력으로 제압을 시도하던 AK-15가 돌연 코앞에서 번뜩인 칼날에 몸을 뺐다.+본능적인 경보가 울려, 미련 없이 손의 무기를 버리고 연속 백덤블링으로 거리를 더 크게 벌렸다.
+()||<SE1>AVG_Door_Hit</SE1>:투둑.
+()||:두 토막 난 AK-15 소총이 바닥에 떨어졌고, 시야의 사각지대에서 날아왔던 회색 섬광도 그레이 곁으로 돌아갔다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:아버님께서 소련의 기술에 집착하시던 이유를 좀 알 것 같구나.+하지만 이런 비좁은 공간에선 나와 거리를 벌리지 못할 거야.
+()||:그녀의 양손 중지와 약지 사이가 갈라져, 흉측한 칼날이 뻗어나왔다. 그 길이는 어림잡아도 얼굴의 2배였다.
+()||<SE1>AVG_pistol_finalshot_n</SE1><SE1>AVG_File_Put</SE1>:탕! 챙!
+()||:AK-15도 섬광처럼 MP443 권총으로 상대의 안면을 공격했지만, 총알은 저 전갈 꼬리를 도저히 돌파할 수가 없었다.
+AK15(2)<Speaker>AK15</Speaker>||:......
+()||:권총을 홀스터에 집어넣고, AK-15는 묵묵히 허리춤의 대검을 뽑았다.+이를 흥미롭게 지켜보며, 그레이는 동시에 등뒤도 힐끗 보았다.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:......
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:론도가 삼중주로 변하는 것이려나?
+()||<SE1>AVG_tele_connect</SE1>:삐이.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:<color=#00CCFF>이 놈, 신체 능력이 웬만한 군용 인형 뺨치는 수준이야. 그래도 권총탄으로도 피해는 줄 수 있지만 문제는 저 꼬리란 말이지...</color>+<color=#00CCFF>재질이 뭔지 당장 분석은 못 하겠는데 아무튼 엄청 튼튼하고 예리해, 저 양손의 칼날도 마찬가지고.</color>+<color=#00CCFF>저것부터 처리하지 않으면 못 잡을 텐데... 느긋하게 관찰한 덕분에 약점 어딘지 알았으니까 너무 걱정은 마.</color>
+AK15(0)<Speaker>AK15</Speaker>||:<color=#00CCFF>...그래.</color>
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:<color=#00CCFF>어라, 내가 구경만 해서 투덜댈 줄 알았더니?</color>
+AK15(2)<Speaker>AK15</Speaker>||:<color=#00CCFF>내 눈은 움직임만 간파하지만, 네 눈은 약점을 간파하니까.</color>+<color=#00CCFF>나는 내 동료를 믿는다.</color>
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:<color=#00CCFF>걔 덕에 진짜 많이 변했구나 너...</color>+<color=#00CCFF>...오, 약점 하나 더.</color>
+()||:AK-12도 칼날을 눕히며, 붉게 타오르는 눈동자로 그레이를 응시했다.
+AK12(3)<Position>0,50</Position><Speaker>AK12</Speaker>||:<color=#00CCFF>저 꼬리는 동시에 두 방향을 못 노려.</color>
+()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:쉬익!
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:——!
+()||<SE1>AVG_Cloak_Whoosh</SE1>:슉——!
+()||<SE1>RunStep</SE1>:앞뒤, 좌우.+두 하얀 그림자는 동시에 그레이에게 돌진했고, AK-15의 발돋움은 순간적으로 소닉붐까지 일으켰다.+2~3m 거리가 겨우 몇 cm가 되는 것은 눈 깜짝할 새였다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:흥!
+()||<SE1>AVG_Tinnitus</SE1>:쨍!
+()||:칼날들이 서로 부딪혀 불꽃이 튀었다.+그레이는 꼬리로 AK-12를 막고, 손으로는 AK-15를 저지했다.+허나 이것이 오판이었음을 바로 깨달았다.
+AK15(2)<Speaker>AK15</Speaker>||:하아압...!
+()||<SE1>AVG_Sword_Scope</SE1>:그녀의 팔은 AK-15와 힘겨루기를 하기엔 한참 역부족이었다.+AK-15는 그레이의 눈동자를 노려보며, 손날에 막힌 대검을 괴력으로 누르며 점점 그녀의 얼굴에 다가왔다.
+NPC-MrsGray(9)<Speaker>그레이</Speaker>||:이... 광견이...!
+()||:모욕당한 것처럼, 그레이는 분노했다.
+()||<SE1>AVG_lifttable</SE1>:거대한 꼬리를 휘둘러 AK-12를 튕겨내고, 눈앞의 AK-15를 꿰뚫으려 했다.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:이얍!
+()<Speaker>그레이</Speaker>||:――?!
+()||<SE1>Rope</SE1>:그런데 어째선지 꼬리가 무거워져 그레이가 곁눈질하니, 튕겨나간 줄 알았던 AK-12가 두 다리로 꼬리에 단단히 달라붙어 있었다. 그리고...
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:역시, 칼날이랑 꼬리는 일체형이 아니었네? 연결 부위가 많이 취약해.
+()||:꼬리 끝의 "독침"을 붙잡고, AK-12는 연결 부위에 수류탄을 끼우고 안전핀을 뽑았다.
+()||<SE1>AVG_Door_Hit</SE1>:쿵!
+()||<震屏3>:그리곤 높이 치켜들어 올려진 꼬리 끝에서 다리를 풀고 착지했다.
+()<Speaker>그레이</Speaker>||:이——
+()||<SE1>Explode</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:퍼엉!
+()||:꼬리 끝에서 일어난 폭발이 대기를 뒤흔들었다.
+AK15(2)<Speaker>AK15</Speaker>||:...손도 마찬가지.
+()||<SE1>AVG_Sword_Scope</SE1>:하지만 그것으로 끝이 아니었다.+대치 중이던 AK-15가 갑자기 한손을 놓더니, 빈틈을 노려 그레이의 갈라진 팔에서 뻗어나온 칼자루를 덥석 붙들었다.
+NPC-MrsGray(7)<Speaker>그레이</Speaker><Shake>||:――?!
+()||<SE1>AVG_Door_Hit</SE1>:AK-15의 양팔이 비틀리고, 두 발로 디딘 자리의 목재 장판이 무지막지한 압력을 버티지 못하고 으스러졌다.+하지만 무시무시한 예감이 그레이를 엄습했다. 이 인형은 지금――
+()||<SE1>AVG_Punch_Hit</SE1>:우드득!
+NPC-MrsGray(7)<Speaker>그레이</Speaker>||:끅, 크아아악!!
+()||<SE1>AVG_Explo_Close</SE1>:푸른 스파크가 AK-15의 얼굴에 시꺼먼 흉터를 남겼다.+그레이의 한쪽 팔의 칼날이, 억지로 뽑히면서.
+AK15(2)<Speaker>AK15</Speaker>||:AK-12!
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:나이스!
+()||:AK-15는 뜯어낸 칼날을 그레이 뒤의 AK-12에게 패스했다.+AK-12는 이를 깔끔하게 받아낸 다음, 날을 돌려 잡아――
+()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:서걱!
+()||:위로 휘둘러진 날은 수류탄이 폭발했던 자리를 정확히 베었고, 전갈의 독침은 공중에서 회전하다 바닥에 떨어졌다.+다친 꼬리가 다시 AK-12를 쳐냈지만, 예리함을 잃어 공격이랄 것도 아니게 되었다.
+AK15(2)<Speaker>AK15</Speaker>||:......
+()||:AK-15도 그레이가 분노에 눈이 먼 사이에 다시 거리를 벌렸다.
+AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:아야야... 과연 누더기 괴물이야, 징그럽게도 끈질기네.+대체 어떻게 된 구조래?
+()||:또 다시 대각선으로 포위하는 구도.+AK-12는 여유만만한 태도로 "독침"과 한쪽 "집게"를 잃은 전갈을 보며 떨어뜨렸던 총을 주웠다.
+AK15(2)<Speaker>AK15</Speaker>||:꼬리는 내가 유인하겠다. 중거리에서 화력 투사해라.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:이럴 줄 알고 탄창을 넉넉하게 10개나 남겨 뒀지~
+()||:두 인형은 이젠 통신조차 않고 대놓고 떠들었다.+꼬리로 AK-12의 사격을 막는다면 저 맹수를 한 손만으로 상대해야 하고...+꼬리로 맹수를 상대하자니 총알 세례에 그대로 노출될 터였다.
+()||:그레이는 자신이 궁지에 몰렸음을 실감했다.
+AK12(3)<Position>0,50</Position><Speaker>AK12</Speaker>||<BGM>BGM_Empty</BGM>:——어!?
+()||:하지만 바로 그때.+AK-12가 돌연 미소를 거두고 식겁하며 허리를 푹 숙였다.
+()||<SE1>AVG_Sword_Scope</SE1>:부웅!
+()||:한 자루의 장검이 그녀의 머리 위를 스쳤고, 벽에 수 m 길이의 베인 자국이 생겼다.
+AK12(3)<Position>0,50</Position><Speaker>AK12</Speaker>||:...쳇.
+()||:하마터면 팔디스키에서처럼 또 하반신을 잃을 뻔한 통에 AK-12는 상대를 제대로 포착하지 못했고, 상대가 그레이의 곁에 도달하는 것을 막지 못했다.
+NPC-grig(0)<Speaker>？？</Speaker>||:그레이...
+()||:하얀 기계 부위가 돋보이는 여성은 처참한 그레이의 모습을 보자 차가운 눈동자에서 분노가 일렁였다.+하지만 이를 냉철하게 억눌렀다.
+NPC-grig(0)<Speaker>？？</Speaker>||:...몰리도 언니가 성공했다.
+NPC-MrsGray(7)<Speaker>그레이</Speaker>||:...물러나자, 틸.
+NPC-grig(0)<Speaker>틸</Speaker>||:......
+()||<SE1>AVG_Door_Hit</SE1>:분노와 한이 서린 눈빛으로 두 인형들을 경계하며, 틸은 그레이를 안고 검으로 한쪽 벽을 베어 길을 열었다.
+AK15(4)<Speaker>AK15</Speaker>||:——!
+AK12(3)<Position>0,50</Position><Speaker>AK12</Speaker>||<BGM>BGM_Empty</BGM>:멈춰, 쫓지 마.
+()||:바로 뒤쫓으려던 AK-15를 AK-12가 제지했다.+그리고 통신으로 엄폐물 뒤에 숨어 있던 안젤리아를 호출했다.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:작전 성공.
+NPC-Ange(19)<通讯框><Speaker>안젤리아</Speaker>||:<color=#00CCFF>좋아, 이제 잠깐 기다리자고.</color>+<color=#00CCFF>저 토끼들이 자기네 이상한 나라로 돌아갈 때까지.</color>
+()||<BGM>GF_21summer_avg_Demon</BGM>:눈치 없는 불청객들이 전부 사라지고 나서야, 안젤리아는 이 양옥을 천천히 살펴볼 수 있게 되었다.
+()||<SE1>AVG_20Winter_Door_Open</SE1><黑点1>:끼이익...
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<黑点2><BIN>470</BIN>:콜록... 먼지 쌓인 거 봐라...
+()||:안젤리아는 허공에 손을 휘휘 저으며 주위를 살폈다.+방 안의 가구로 보아 이곳은 서재인 듯했다. 다만 필시 웅장했을 터인 과거의 모습은 전부 두껍게 쌓인 먼지 아래 묻힌지 오래였다.+그럼에도 마호가니 책상 뒤로 화려하게 장식된 벽에는 모두의 눈길을 끄는 기이한 형상의 잎갈나무 그림이 그려져 있었다.+그 "나무"는 가지 끝마다 인물 사진과, 그 사진의 주인공 것으로 보이는 이름도 적혀 있었다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:이건...+가계도인가?
+()||<SE1>AVG_footsteps_woodfloor</SE1>:안젤리아는 눈살을 찌푸리며 안으로 들어와, 그 화려한 "나무"를 올려다보았다.
+()||<SE1>Stop_AVG_loop</SE1>:이 가문의 가계도는 안젤리아도 놀라움을 금치 못할 정도로 방대했다.+하지만 이 가계도가 그녀의 궁금증 이상으로 주의를 끈 이유는 바로 나무의 꼭대기 때문이었다. 가장 최신의 후손이 있어야 할 그곳은 어째선지 흉측하게 불태워져서 얼굴도, 이름도 알아볼 수 없었다.+그래도 희미하게나마 분간 가능한 점은, 이 가문이 남자도 머리를 기르지 않는 이상 저 사진 중 하나는 여자아이였다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<BGM>BGM_Empty</BGM>:루니샤...
+()||<SE1>AVG_tele_connect</SE1>:지지직.+안젤리아의 통신기가 불길하게 울렸다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<BGM>BGM_23S_War_Sacrifice</BGM>:지휘관?
+NPC-Ange(19)<同时置暗><Speaker>지휘관</Speaker>||:<color=#00CCFF>안젤리아 씨...</color>+<color=#00CCFF>죄송하지만... 부탁드릴 일이 생겼습니다...</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:...너 왜 불곰 열 마리한테 두들겨 맞은 목소리야?
+NPC-Ange(19)<同时置暗><Speaker>지휘관</Speaker>||:<color=#00CCFF>비슷하네요...</color>+<color=#00CCFF>기습당했습니다... 몰리도에게...</color>
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:뭣... 지금 어디야?!
+NPC-Ange(22)<同时置暗><Speaker>지휘관</Speaker>||:<color=#00CCFF>댄들라이가 잡혀갔습니다...</color>+<color=#00CCFF>그녀가 절대 패러데우스의 손에 넘어가서는 안 돼요...</color>+<color=#00CCFF>그러니... 부탁드립니다...</color>
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:됐고 지금 어디냐고!+어떻게든 버티고 있어! 포기하지 마, 내가 지금――
+NPC-Ange(22)<同时置暗><Speaker>지휘관</Speaker>||:<color=#00CCFF>시간 내서... 저 대신 카리나도 보러 가 주세요...</color>
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:팔자 좋게 유언이나 남길 때냐!+...지휘관? 야!
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>믿습니다... 우리는, 진정한 전우라고...</color>
+()||<SE1>AVG_tele_disconnect</SE1>:툭.+통신이 끊어졌다.
+()||<黑点1>:......

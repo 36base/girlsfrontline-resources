@@ -1,0 +1,79 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BGM>GF_EV9_Story</BGM><BIN>529</BIN><黑屏2><SE1>AVG_door_elecport</SE1><narrator>:대륙간 열차 "미래호", F02호 객차.
+()<Speaker></Speaker>||<SE1>AVG_Wheelchair</SE1>:수잔나는 지금 일등칸에서 카트를 밀고 있었다.+식당차까지 갈 시간이 없거나, 혹은 그곳까지 가기 귀찮아하는 승객들에게 각종 음식과 음료를 제공하기 위해서였다.
+NPC-TD_Porter(1)<Speaker>수잔나</Speaker>||:류드밀라 교관님, 더 필요한 것 있으신가요? 샌드위치와 스테이크는 바로 준비해드릴 수 있습니다. 곁들일 와인이나 홍차도 어떠신가요?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:하지만 류드밀라는 손목시계를 보더니, 주문이 아니라 자리에서 일어났다.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:F09호차는 무슨 차지?
+NPC-TD_Porter(1)<Speaker>수잔나</Speaker>||:F09호차는 식당차로, 바 서비스도 함께 제공하고 있습니다.+다만 지금 거기는 곧 데킬라 파티가 열릴 예정이어서, 초청장이 없으시다면 출입이 다소 불편하실 수도 있습니다.+그래서 이렇게 손님들께 따로 식사를 준비해 드리고 있습니다.+만약 더 원하시는 것이 있으시다면 제게 말씀해 주십시오, 금방 준비해드리겠습니다.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:...아니, 괜찮아.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:류드밀라는 무덤덤한 어조로 수잔나의 서비스를 거절하고, 곧장 9호차를 향해 걸어갔다. 그런 그녀의 뒷모습을 보던 수잔나는 문득 깨달았다.
+NPC-TD_Porter(0)<Speaker>수잔나</Speaker>||:<color=#A9A9A9>아하.</color>+<color=#A9A9A9>저 사람도 "콜트 익스프레스"에 가려는 거였구나.</color>+<color=#A9A9A9>매기가 이번엔 월척을 잡았네? 일등석의 손님이라니, 과연 얼마나 통 크게 지를려나...</color>
+()<Speaker></Speaker>||:"장사"가 끝난 뒤에 나눠 받을 수익을 상상하자니, 수잔나는 절로 입꼬리가 귀에 걸렸다.+하지만 그것도 잠깐, 수잔나는 들뜬 마음을 억누르고 다시 부드러운 업무용 미소를 띄운 채 다음 객실로 걸어갔다.
+NPC-TD_Porter(1)<Speaker>수잔나</Speaker>||<SE1>ClothingUp</SE1>:발레리야 부인, 주문하신 노블 와인입니다.
+()||<黑点1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>528</BIN><SE1>AVG_door_elecport</SE1><黑点2><narrator>:대륙간 열차 "미래호", F09호 식당차.
+()<Speaker></Speaker>||<SE1>AVG_Jukebox</SE1>:식당차 안으로 들어선 류드밀라는 차가운 눈초리로 주위를 한 바퀴 슥 훑어봤다.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......
+()<Speaker></Speaker>||:그리고 약 2초 가량 머뭇대다 구석의 빈 테이블에 앉았다.
+()<Speaker></Speaker>||:이 테이블은 바 카운터에 가까워서, 음악 소리가 많이 시끄럽기에 보통은 꺼려지는 자리였다.+대신 장점이 있었으니, 이곳에 앉으면 식당차 전체가 한눈에 들어왔다..
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:차분하게 다시 손목시계를 본 류드밀라는 속으로 시간을 쟀다.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:...5초.
+()<Speaker></Speaker>||:류드밀라는 카운터 앞에 앉아 있는 인형을 바라봤다.+그녀의 시선을 눈치챈 듯, 상대도 고개를 돌려 류드밀라를 응시했다.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:4초.+3초.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Cheers</SE1>:술잔이 부딪히는 경쾌한 소리와 함께 그 인형은 손에 쥔 유리잔을 높이 들었고, 연황색 위스키가 잔 안에서 찰랑이며 등불의 빛을 반사했다.+반짝반짝, 눈부시게.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:2초.
+ColtWalker(1)<Speaker>？？</Speaker>||:오늘 밤 데킬라는 내가 쏘지.
+()<Speaker></Speaker>||:활짝 웃는 저 여인은 류드밀라에게 말하는 듯했다.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||<SE1>Stop_AVG_loop</SE1>:1초.
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_Power_Down</SE1>:쿠웅.
+()<Speaker>방송</Speaker>||<SE1>AVG_20Winter_Doorbell</SE1>:<color=#00CCFF>손님 여러분, 미래호에서 안내 말씀 드립니다. 지금 열차가 터널에 진입했습니다.</color>+<color=#00CCFF>열차는 정상 운행 중이오나, 위험할 수 있으니 차량간 이동을 삼가하여 주십시오.</color>+<color=#00CCFF>다시 한번 안내 말――니다. 손님 여러―― 지――금――</color>
+()<Speaker>방송</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>미――ㄹ――ㅐ......ㅎ.............</color>
+()<Speaker></Speaker>||:객차가 통째로 블랙홀에 집어삼켜진 듯 주위의 불빛이 한순간에 꺼졌고, 안내 방송도 노이즈가 끼고 늘어지며 점점 뒤틀렸다.
+()<Speaker></Speaker>||<SE1>AVG_Eurocity</SE1>:하지만 열차는 여전히 터널 속을 헤치며 질주하고 있었다.+마치, 이 식당칸 차량만 다른 무언가로 변해버린 것 같았다.
+()<Speaker></Speaker>||<common_effect>%%code=AVG_chuxian_yan%%</common_effect>:그리고, 안개. 하얀 안개가 류드밀라의 좌석 밑에서도 천천히 피어오르기 시작했고, 이내 식당차 안에 자욱하게 퍼졌다.+창밖까지 껌껌한 와중, 피어오른 하얀 안개는 뭔지 모를 잔혹동요 같은 노래까지 동반했다.
+()<Speaker></Speaker>||<BGM>GF_2022_Summer_AVG_4</BGM><BIN>9</BIN><黑屏2><narrator>:머리 위엔 천국 대신 지옥이 보여요+크리스탈 잔에 가득 찬 데킬라 위로+영혼의 본래 모습이 떠오르네요+폭스는 데킬라를 집었어요+심장과 폐가 불붙은 것처럼 타들어가요+거짓말과 욕망이 한데 모여 뒤섞이고+악마는 천사의 가면을 쓰고 미소짓지요+반짝이는 액체가 혈관을 씻어내려요+여기 데킬라 두 잔 주세요+한 잔은 사탄을 위하여, 한 잔은 나를 위하여
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:노래를 부르는 목소리가 점점 쉬어 가고, 안개도 점차 흩어져 갔다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><黑屏2><BIN>527</BIN></BIN>:돌연, 작지만 밝은 불빛 하나가 어둠을 밝혔다.+언제 류드밀라가 앉은 테이블에 놓인지 모를 오일 램프였다.+그 작은 불빛은 잠시 일렁이더니, 이내 주위의 좁은 공간을 환히 밝혔다.
+AR18(5)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:............
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:...그렇군.+여기가 바로 "콜트 익스프레스", 증기 기관차처럼 구성된 레벨 2 플랫폼인가.
+()<Speaker></Speaker>||:미래호는 금세 터널 밖으로 빠져나왔고, 아무 일도 없었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:여전히 미래호 식당차의 자리에 앉아 있는 류드밀라는 데킬라 잔을 들었다. 주위의 풍경은 터널로 들어가기 전과 전혀 다를 바 없었다.
+()<Speaker></Speaker>||:다만, 그녀의 주의는 가상 공간을 달리는 오래된 증기 기관차, "콜트 익스프레스"의 안에 쏠렸다. 그리고 지금 그곳의 그녀 앞에는 얼굴을 알아볼 수 없는 인형이 앉아 있었다.
+Erma(8)<Speaker>？？？</Speaker>||<SE1>ClothingUp</SE1>:여기가 "콜트 익스프레스"인가요?
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>;Erma(8)||:......+<color=#A9A9A9>이런 질문을 하는 인형이라면, 호스트는 아니군.</color>
+AR18(2);Erma(8)<Speaker>？？？</Speaker>||:저기요, 매너상 대꾸 정돈 해야 하지 않아요?
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>;Erma(8)||:그래.
+AR18(2);Erma(8)<Speaker>？？？</Speaker>||:............+호스트면 좀 반겨 줘야 하는 거 아니에요?
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>;Erma(8)||:우선 내가 호스트인지부터 물어본 다음에 질문을 해야지. 그리고, 호스트라고 다 매너 있지는 않아.
+AR18(2);Erma(8)<Speaker>？？？</Speaker>||:...어째서요?
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>;Erma(8)||:......같은 말을 반복하게 하지 마.
+AR18(2);Erma(8)<Speaker>？？？</Speaker>||:그럼 제대로 설명을 해 줘야죠.+소통이란 상대방을 이해시키기 위해서지, 자기 기분만 좋게 하려는 게 아니잖아요.+그런 식으로 말하면 장사 망치기 십상이에요.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>;Erma(8)||:............
+Erma(8)<Speaker>？？？</Speaker>||:제가 화 안 내서 다행으로 여겨야 할 거예요.
+()<Speaker></Speaker>||:류드밀라가 숨을 크게 들이마셨다.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:너야말로.
+()<Speaker></Speaker>||<SE1>AVG_Chimes</SE1>:딸랑.+대화도 분위기도 점점 험악해져 가려던 그때, 맑은 방울 소리가 들렸다.
+ColtWalker(5)<Speaker>？？？</Speaker>||:안녕하십니까, 손님들.
+()<Speaker></Speaker>||:또 한 명의 인형이 홀연히 그림자 속에서 나타나 말을 걸자, 류드밀라는 미간을 좁혔다.
+AR18(5)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:손님들?
+ColtWalker(5)<Speaker>？？？</Speaker>||:오래 기다리시도록 만들어 죄송하오나, 먼저 자기소개부터 하죠.+"콜트 익스프레스"의 호스트입니다. 손님께선 저를... "하트Q"라 부르시면 됩니다.
+AR18(5)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:..."하트Q".
+ColtWalker(5)<Speaker>하트Q</Speaker>||:그렇습니다, 손님.
+()<Speaker></Speaker>||<SE1>AVG_va_addingredient</SE1>:하트Q는 씨익 웃으며 손가락을 튕기곤, 뒤로 돌아 선반에서 데킬라를 한 병 꺼내더니 물어보지도 않고 석 잔을 따랐다.
+ColtWalker(5)<Speaker>하트Q</Speaker>||:두 분 모두, "콜트 익스프레스"에 대해 어느 정도는 알고 오셨겠죠?+여기는 세상 어느 곳보다 안전하고, 또 신용성 있는 거래의 장입니다.+여기서 원하시는 것이라면 무엇이든 구입하실 수 있습니다. 물론 제게 미리 신청만 하신다면 가지고 계신 걸 파실 수도 있습니다.
+()<Speaker></Speaker>||:하트Q가 잠깐 뜸을 들이고 말을 이었다.
+ColtWalker(5)<Speaker>하트Q</Speaker>||:――다만 그 전에, 손님들의 탑승권을 확인하겠습니다.+필수 절차이니 협조해 주시길. 저는 규칙이라면 엄격하게 준수하는 장사꾼이거든요.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:몇 초 정도 침묵한 류드밀라는 주머니에서 초청장을 꺼내 들었다.+그리고 그 초청장이 목제 테이블에 놓인 그 순간, 순식간에 트럼프 카드로 변했다.+스페이드의 A 카드로.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:맞은편의 누군지 모를 인형도 자신의 초청장을 꺼냈고, 테이블에 놓이자 그건 클럽의 3으로 변했다.
+ColtWalker(5)<Speaker>하트Q</Speaker>||:............
+()<Speaker></Speaker>||:하트Q는 눈을 가늘게 뜨고 두 사람의 카드를 뚫어져라 바라보며 입을 다물었다.+그냥 카드 같아 보이건만, 무언가를 면밀히 검사하는 듯이.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:다만 그것도 아주 잠깐이었고, 하트Q는 빵긋 웃으며 공손히 두 손을 모았다.
+ColtWalker(5)<Speaker>하트Q</Speaker>||:네! 승차권 확인했습니다.+그럼 숙녀분들... 거래를 시작하실까요?
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......
+()<Speaker></Speaker>||:류드밀라가 목소리를 내려던 찰나, 맞은편의 인형이 먼저 입을 열었다.
+Erma(8)<Speaker>？？？</Speaker>||:네, 전 괜찮아요.
+ColtWalker(5)<Speaker>하트Q</Speaker>||:좋습니다. 그럼 손님 여러분, 다시 한번――+"콜트 익스프레스"에 오르신 것을 진심으로 환영합니다.
+()<Speaker></Speaker>||:......
+()||<黑点1>:

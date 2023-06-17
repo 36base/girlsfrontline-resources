@@ -1,0 +1,149 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><回忆>:2050년 X월 X일, 제67사령부.+센트럴 막스 텔레그래프, 조지 J 존슨의 기록.
+()<Speaker>조지 J 존슨</Speaker>||<SE1>AVG_Button_Click</SE1>:마이크 테스트, 마이크 테스트...+............+2050년 11월 13일, 현재 시각 오후 6시.+내 이름은 조지 J 존슨이며, 제67군부 제3군검찰청에서 이 기록을 남긴다.
+()<Speaker>조지 J 존슨</Speaker>||:5분 전, 전국의 주목을 받았던 "검은 숲 작전" 재판이 막을 내렸다.+...결과는 예상대로다.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:부스럭.
+()<Speaker>조지 J 존슨</Speaker>||:나는 이 결과가 잘못됐다 생각한다.+사건의 실상은 분명 절대 그렇지 않을 것이다.+"CSD-119A"에 대한 조사 및 판결은 공정하지 않았다.
+()<Speaker>조지 J 존슨</Speaker>||:내 이름은 조지 J 존슨. 내 정신과 신체가 온전한바, 나의 의지로 이 기록을 남긴다.+나는 진실이 밝혀질 때까지 조사를 계속할 것이다.+이상, 기록 끝.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>80</BIN><黑屏2><关闭蒙版><SE1>AVG_door_elecport</SE1>:2064년, S09 구역 그리폰 기지의 카페.
+()<Speaker></Speaker>||<BGM>m_avg_casual</BGM>:오늘도 카페는 북적이는지, 멀리서 오는 길인 카리나에게도 떠들썩한 목소리가 다 들렸다.+다만 오늘따라 유난히 흥분한 웅성거림이라는 것이 평소와는 다른 점이었다.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:어... 다들 좋은...
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:......점심?
+MDR(0)<Speaker>MDR</Speaker>||<controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:<size=50>아아아아아아아아――</size>
+Delisle(0)<Speaker>드 라일</Speaker>||<controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:<size=50>시끄러워어어!!</size>
+MDR(0)<Speaker>MDR</Speaker>||:――아아 왜 이 엄청난 일을 밝혀낸 게 내가 아니냐고오오...
+RFB(0)<Speaker>RFB</Speaker>||:풉, 애초에 기자도 아니면서 뭐래.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:으음...?
+()<Speaker></Speaker>||:대체 무슨 일일까?
+()<Speaker></Speaker>||:카리나는 카페 안을 한 바퀴 둘러보고는 빠르게 카운터 앞에 앉았다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:스프링필드!
+M1903Cafe(0)<Position>0,150</Position><Speaker>스프링필드</Speaker>||:어서 오세요 카리나 씨~+오늘은 커피로 하시겠어요, 홍차로 하시겠어요? 오늘은 특별히 로열 밀크티도 된답니다.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:엥, 스프링필드까지 신났어? 대체 무슨 일이길래 그래? 아 특별이라니까 밀크티로 할게.
+M1903Cafe(0)<Position>0,150</Position><Speaker>스프링필드</Speaker>||:어머, 뉴스 아직 안 보셨나 봐요?
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:카리나에게 갓 우린 따끈한 밀크티를 내오는 스프링필드도 보기 드물게 싱글벙글 웃는 얼굴이었다.
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:뉴스?
+M1903Cafe(0)<Position>0,150</Position><Speaker>스프링필드</Speaker>||:흐음... 생각해 보니 카리나 씨는 잘 모를 수도 있겠네요.+저희 인형들한텐 세기의 빅 뉴스지만요.
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:또 뜸 들인다! 궁금하니까 얼른 말해 줘!
+M1903Cafe(0)<Position>0,150</Position><Speaker>스프링필드</Speaker>||:카리나 씨...+"검은 숲 작전", 들어보신 적 있나요?
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:검은 숲...? 그게 뭐야?
+M1903Cafe(0)<Position>0,150</Position><Speaker>스프링필드</Speaker>||:아마 역사 교과서에도 실렸을 거예요.+공식적으로 알려진, 인형의 이상 행동으로 인한 최초의 실패 사례로요.+3차 대전 도중 일어났던 사건이라 상당히 파장이 컸답니다.
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:아아... 그렇게 말하니까 생각났다.
+()<Speaker></Speaker>||:카리나는 눈살을 살짝 찌푸렸다.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:크루거 씨한테 들은 적 있어.+3차 세계대전 중후반기쯤부터 각국이 전술인형을 전선에 대거 투입하기 시작했는데...+어느 사건이 있은 후로는 "인격 모방도"가 높은 인형은 사용이 제한되었다고.
+M1903Cafe(0)<Position>0,150</Position><Speaker>스프링필드</Speaker>||:맞아요, 지금이야 이렇게 마음껏 얘기할 수 있지만...+그때만 해도 저희 인형들에겐 언급 자체가 금기시되던 사건이었어요.
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:그렇구나... 응?"그때"? 스프링필드 너 출고된 지 그렇게 오래됐어?
+M1903Cafe(0)<Position>0,150</Position><Speaker>스프링필드</Speaker>||:군대에서 인형이 상관의 명령을 무시해 부대 전체가 희생된 대형 사건이었으니까요.+전술인형에 대한 신뢰도가 크게 하락한 것도 당연해요.
+()<Speaker></Speaker>||:스프링필드는 카리나의 물음을 은근슬쩍 무시하고 말을 계속했다.
+M1903Cafe(0)<Position>0,150</Position><Speaker>스프링필드</Speaker>||<BGM>BGM_Empty</BGM>:그런데, 그렇게 오래 전의 일이...+갑자기 판결이 뒤집혔다지 뭐예요?
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:우와 스프링필드 그렇게 웃으니까 되게 무섭다아... 아무튼, 갑자기 뒤집혔다고? 왜?
+MLEMK1(0)<Speaker>리엔필드</Speaker>||<BGM>BGM_Brain</BGM>:............
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:...어, 리엔필드?
+()<Speaker></Speaker>||:그제서야 카리나도 카운터 한구석에서 홀로 앉은, 묘한 저기압을 퍼뜨리는 인형을 눈치챘다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:리엔필드는 주위의 들뜬 분위기와는 동떨어진 아주 음울한 표정으로, 손의 녹슨 훈장을 만지작거리고 있었다.
+MLEMK1(0)<Speaker>리엔필드</Speaker>||:............
+()<Speaker></Speaker>||:카운터 위에 내버려둔 채인 찻잔에선 여전히 가득인 홍차가 주위의 요란한 소리와 진동에 잔잔한 물결을 일으키고 있었다.+하지만 리엔필드는 시선을 손 안의 작은 훈장에 고정한 채, 엄지손가락으로 그걸 매만지기만 할 뿐이었다.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:......?
+()<Speaker></Speaker>||:카리나는 스프링필드에게 입만 움직여 "무슨 일이야?"라고 물었다.+이에 스프링필드는 귀띔 대신 쓴웃음을 지으며 고개를 젓곤, 리엔필드에게 다가갔다.
+()<Speaker></Speaker>||<SE1>AVG_tableware</SE1>:딸그락.+스프링필드는 다정하게 리엔필드 앞의 차를 따뜻한 새것으로 바꿔 주었다.
+M1903Cafe(0)<Position>0,150</Position><Speaker>스프링필드</Speaker>||:오늘은 차가 입맛에 안 맞나요?
+MLEMK1(0)<Speaker>리엔필드</Speaker>||<SE1>Rope</SE1>:...아니, 그런 건 아니야.
+()<Speaker></Speaker>||:리엔필드는 훈장을 움켜쥐며 고개를 저었다.+이에 스프링필드도 못 이기겠다는 듯 멋쩍게 웃으며 카리나에게 눈빛을 보냈다.+하지만 눈치 빠른 카리나도 이번만큼은 여전히 어리둥절해하기만 했다.+결국 스프링필드는 하는 수 없이 천천히 입을 열었다.
+M1903Cafe(0)<Position>0,150</Position><Speaker>스프링필드</Speaker>||:마인드맵 업그레이드, 마음은 정했어요?
+()<Speaker></Speaker>||:그 말에 카리나도 간신히 기억해냈다.
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:아!+ 맞아맞아 리엔필드 너 개조 거부했다며?+왜? 무슨 일 있어? 고민이라도 있는 거야?
+MLEMK1(0)<Speaker>리엔필드</Speaker>||:아니오... 거부하지 않았습니다.+그저 조금 더 생각할 시간을 달라 했습니다.
+M1903Cafe(0)<Position>0,150</Position><Speaker>스프링필드</Speaker>||:이거하고 관계 있는 생각인가요?
+()<Speaker></Speaker>||:스프링필드가 손가락 대신 시선으로 리엔필드의 움켜쥔 손을 가리키며 물었다.
+MLEMK1(0)<Speaker>리엔필드</Speaker>||:............
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:리엔필드는 말없이 손을 폈다. 손 안에서 빛나는 훈장은 굉장한 인력이라도 지닌 듯, 그녀의 시선을 깊숙이 끌어들였다.+그녀의 의식이 그날, "한 프랑크 빌라"에 처음 발을 디뎠던 오후로 돌아갈 만큼 깊숙이.+그 당시만 해도, 리엔필드는 그곳에서의 모든 일이 이후로도 계속된 그녀의 오랜 삶에서 그리폰 다음으로 중요한 시간이 되리라곤 상상도 하지 못했다.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>269</BIN><黑屏2><BGM>m_19christmas_battle</BGM><SE1>Rope</SE1><回忆>:2051년 X월 X일, 이스트 오브 잉글랜드 어딘가의 한 프랑크 빌라.+마을의 모두가 밭일로 바쁜 계절이 되면, 할일 없는 어린 소년 소녀들은 항상 이곳으로 모였다.+그들은 대다수의 시간을 함께 우르르 몰려다니면서, 도로변이든 밭 한가운데든 아무데서나 불쑥 나타나 무한한 활력과 장난기로 젊음이란 존재감을 모두에게 과시하곤 했다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:다만, 오늘은 조금 달랐다.
+()<Speaker>홀쭉한 소년</Speaker>||:...왔어?
+()<Speaker>성급한 소년</Speaker>||:어... 왔다 왔다, 한 방 먹여 주자고!
+()<Speaker>기민한 소녀</Speaker>||:쉬이잇!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>18</BIN><SE1>AVG_footsteps_woodfloor</SE1>:뚜벅, 뚜벅, 뚜벅...+조용한 복도 위를 키 큰 그림자가 걸었다.+그늘 속의 소곤거림은 모르는 듯, 그 그림자는 천천히 복도 끝의 방으로 향하고 있었다.+그리고, 그 그림자가 바닥에 아주 작게 "X"자가 그려진 곳을 밟는 순간――
+()<Speaker>기민한 소녀</Speaker>||<SE1>Stop_AVG_loop</SE1>:바, 받아라아아아!
+()<Speaker></Speaker>||<SE1>AVG_splash_water</SE1>:철썩!+모퉁이에서 갑자기 튀어나온 소녀가 그 그림자를 향해 양동이에 한가득인 물을 뿌렸다.
+()<Speaker>기민한 소녀</Speaker>||:너, 너 같은 거 필요 없어! 당장 꺼......?+어라?
+()<Speaker></Speaker>||:그런데 복도만 물바다가 됐을 뿐 확실하게 노렸을 터인 그림자가 안 보이자, 소녀는 제자리서 어리둥절해했다.
+()<Speaker>？？？</Speaker>||:복도에 청소 목적 외로 물을 뿌리면 안 됩니다.
+()<Speaker>기민한 소녀</Speaker>||:히익!?
+()<Speaker></Speaker>||:낯선 목소리가 바로 뒤에서 들리고서야 소녀는 어떻게 된 일인지를 인지했다.+그리고 곧장 도망치려 했지만, 채 반응하기도 전에 팔을 단단히 붙잡히고 말았다.
+()<Speaker>홀쭉한 소년</Speaker>||:셀레나를 놔 이 자식아아아아!!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:투두두두두두――
+()<Speaker>？？？</Speaker>||:......!
+()<Speaker></Speaker>||:그들 옆으로 활짝 열린 창 밖에 한패인 소년이 나타났다.+소년은 손에 든 기관단총으로 키 큰 그림자를 향해 마구잡이로 난사했다.
+()<Speaker>？？？</Speaker>||:...물총?
+()<Speaker></Speaker>||:그림자는 가볍게 소리를 내곤 붙잡은 소녀를 당겨 옆구리에 꼈다.+그리고――
+()<Speaker>홀쭉한 소년</Speaker>||:엥, 으에에엑?!
+()<Speaker></Speaker>||:그리고 벌어진 광경에, 소년은 놀라 물총의 방아쇠를 당기는 것마저 잊어버렸다.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:소년이 쏜 물방울 탄환은 하나도 목표에 맞지 않았다. 그림자는 몸에 용수철이라도 달린 듯 높이 튀어올라, 천장과 벽을 연달아 박차 눈 깜짝할 사이에 창문을 넘어 소년의 코앞에 착지했다.
+()<Speaker>？？？</Speaker>||<SE1>ClothingUp</SE1>:허가 없이 발포 금지.
+()<Speaker>홀쭉한 소년</Speaker>||:어...? 아, 이거 그냥 물총――+아앗 내 총!
+()<Speaker></Speaker>||<SE1>Select</SE1>:모습을 드러낸 늘씬한 여성의 상당히 "군사적"인 말투에, 홀쭉한 소년은 놀라 허둥지둥 총구를 다시 들었지만 곧바로 무기를 압수당했다.
+()<Speaker>성급한 소년</Speaker>||<SE1>RunStep</SE1>:이야압——!!
+()<Speaker></Speaker>||:다시 한번 그와 동시에, 여태까지 나무 뒤에 숨어 기회를 노리던 덩치 큰 소년이 불쑥 튀어나와 막대기를 휘둘렀다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>:뚜두둑!
+()<Speaker>？？？</Speaker>||:조니 학생, 방과 후에 남으세요.+실제로 부상을 입힐 수 있었던 행위이니 부모님과의 상담을 고려해야겠습니다.
+()<Speaker></Speaker>||:여전히 무슨 일이 벌어졌는지 파악 못한 "조니"는 제자리에 굳어버렸다. 그도 그럴 것이, 이번에도 눈 깜짝할 새에 그가 휘두른 나무 막대기가 세 동강이 났다.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_OperatingDisc_Drop</SE1>:키 큰 여성은 그제서야 불쾌함을 드러내며 압수한 물총을 순식간에 부품으로 분해했다.
+()<Speaker>？？？</Speaker>||:끝났으면 모두, 교실로 돌아가세요.
+()<Speaker>성급한 소년</Speaker>||:어... 어어...
+()<Speaker></Speaker>||:세 아이들은 뭐라 말하고 싶어도 여성의 위압감에 찍소리도 내지 못했다.+대신 그들의 이상한 시선을 눈치챈 여성은 고개를 기울여, 수상하게 살짝 열린 교실 문을 바라봤다.
+()<Speaker>？？？</Speaker>||:......
+()<Speaker></Speaker>||:여성은 절레절레 고개를 젓곤 가볍게 창문을 넘어, 다시 복도로 돌아왔다.+그리고 눈이 휘둥그레진 아이들의 주목을 받으며, 교실의 문을 열었다.
+()<Speaker></Speaker>||:끼이익...
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:툭!+문이 열리자 위에서 분필 가루 범벅인 칠판 지우개가 떨어졌지만, 여성은 눈으로 쫓기도 힘든 속도로 칠판 지우개를 쳐냈다.
+NPC-Charlie(3)<Speaker>？？</Speaker>||<SE1>ClothingUp</SE1>:우왁!?
+()<Speaker></Speaker>||:칠판 지우개는 정확히 교실의 책상에 앉아있던 소년을 향해 날아들었고, 소년은 기겁하며 황급히 엎드려 간신히 이를 피했다.
+NPC-Charlie(2)<Speaker>？？</Speaker>||:무슨 짓이야 위험하게!
+()<Speaker>？？？</Speaker>||:찰리 도련님.
+()<Speaker></Speaker>||:늘씬한 여성이 천천히 입을 열었다.
+MLEMK1(4)<Speaker>？？？</Speaker><Position>0,90</Position>||:저는 이번에 새로 고용된 가정교사입니다.
+NPC-Charlie(0)<Speaker>찰리</Speaker>||:알아, 그러니까 이렇게 성대하게 환영식 해 주고 있잖아.+어휴 깜짝 놀랐네, 여태까지의 밥통들이랑은 확실히 다르구만?
+MLEMK1(4)<Speaker>？？？</Speaker><Position>0,90</Position>||:......
+()<Speaker>홀쭉한 소년</Speaker>||:찰리!
+()<Speaker></Speaker>||:두 사람의 뒤로, 세 아이가 나란히 문틈 사이로 고개를 내밀었다.
+()<Speaker>성급한 소년</Speaker>||:너 괜찮아!?
+()<Speaker>기민한 소녀</Speaker>||:어, 엄청났어...+예전 선생님들이랑 엄청 달라...
+NPC-Charlie(0)<Speaker>찰리</Speaker>||:그래? 난 모르겠는데.
+()<Speaker></Speaker>||:찰리는 도발하든 눈앞의 늘씬한 여성을 쳐다봤다.
+NPC-Charlie(0)<Speaker>찰리</Speaker>||:재주는 좀 있나 본데, 우린 교사 같은 거 필요 없어.+울 아버지가 교사를 몇 명이나 바꿨는지 알아? 벌써 17명이야.+그중 아무도 보름을 못 넘겼다고. 네가 그 사람들보다 대단하면 얼마나 대단하겠냐?
+MLEMK1(4)<Speaker>？？？</Speaker><Position>0,90</Position>||:왜 이런 짓을 하는 겁니까?
+NPC-Charlie(2)<Speaker>찰리</Speaker>||:너랑 무슨 상관인데.
+()<Speaker></Speaker>||:찰리는 짜증내며 손을 휘휘 저었다.
+NPC-Charlie(0)<Speaker>찰리</Speaker>||:어디서 왔어? 옥스포드? 캠브릿지?+아버지가 얼마나 준대? 이렇게 귀찮은 일을 진짜 할 거야?
+MLEMK1(4)<Speaker>？？？</Speaker><Position>0,90</Position>||<BGM>BGM_Empty</BGM>:실은――
+NPC-Powell(0)<Speaker>루시우스</Speaker>||:실은 말이다, 리엔필드 씨는 한 푼도 받지 않는단다.
+NPC-Charlie(0)<Speaker>찰리</Speaker>||:...아버지.
+()<Speaker></Speaker>||<BGM>m_avg_labyrinth</BGM>:중후한 목소리와 함께, 그 주인공이 세 아이들 뒤에서 모습을 드러냈다.
+NPC-Powell(0)<Speaker>루시우스</Speaker>||:조니, 셀레나, 조던.+찰리의 위험한 장난에 자꾸 어울려 주지 말랬잖니. 어서 자리로 가서 앉으렴.+그럼 소개하마, 이 분은 전술인형 리엔필드 씨다.+새로 너희의 선생님이 될 분이시지.
+MLEMK1(4)<Speaker>리엔필드</Speaker><Position>0,90</Position>||:그렇습니다.
+NPC-Charlie(3)<Speaker>찰리</Speaker>||:......!
+()<Speaker></Speaker>||:그 말에 찰리가 눈을 부릅뜨고, 책상 밑으로 주먹을 불끈 움켜쥐었다.
+NPC-Powell(0)<Speaker>루시우스</Speaker>||:영광스런 왕립 제6용기병연대 소속이었지.+모두 선생님 말씀 잘 듣고 사이좋게 지내길 바라마.
+()<Speaker></Speaker>||:찰리의 반응과는 정반대로, 루시우스의 말을 들은 다른 아이들은 동경과 흥분으로 눈을 반짝였다.
+()<Speaker>성급한 소년</Speaker>||:전술인형! 군인이다!
+()<Speaker>홀쭉한 소년</Speaker>||:그 군대 들어봤어요!+저, 정말 용기병이에요?!
+()<Speaker>기민한 소녀</Speaker>||:우와아~!
+MLEMK1(4)<Speaker>리엔필드</Speaker><Position>0,90</Position>||:...그건 나중에 이야기하죠.+지금은 수업을 시작하기 전에 복도부터 깨끗이 정리하세요.
+()<Speaker>세 사람</Speaker>||:네, 선생님!
+NPC-Charlie(2)<Speaker>찰리</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:앞다퉈 교실 밖 복도로 달려나가는 친구들을 가늘어진 눈으로 보던 찰리가 갑자기 리엔필드에게 휙 시선을 돌렸다.+여전히 책상 아래로 주먹을 꽉 움켜쥔 채, 분에 겨워 팔만 부들부들 떨면서.+그가 갑자기 이런 태도를 보이고, 목소리도 어두워진 것은 리엔필드와 루시우스만 알아챘다.
+NPC-Charlie(2)<Speaker>찰리</Speaker>||:전술인형이라고...?
+()<Speaker></Speaker>||:찰리의 목소리는 그 어린 나이에게선 기대하기 어려운 분노와 증오로 미세하게 떨렸다.+리엔필드는 그저 당혹스럽기만 했다.+찰리가 갑자기 왜 저렇게 격정적인 반응을 보이는지, 그녀로서는 알 길이 없었다.
+NPC-Powell(0)<Speaker>루시우스</Speaker>||:...크흠.+그럼 잘 부탁드리겠습니다.+리엔필드 선생님.
+()<Speaker></Speaker>||:분위기가 더 험악해지기 전에, 루시우스가 가볍게 헛기침하고 고개를 저어 찰리에게 주의를 주었다.
+MLEMK1(4)<Speaker>리엔필드</Speaker><Position>0,90</Position>||:...네.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:찰리의 매서운 눈빛을 피하지 않고 마주보며, 리엔필드도 가볍게 고개를 끄덕였다.
+MLEMK1(4)<Speaker>리엔필드</Speaker><Position>0,90</Position>||:맡겨 주십시오.
+()<Speaker></Speaker>||:......
+()||<黑点1>:

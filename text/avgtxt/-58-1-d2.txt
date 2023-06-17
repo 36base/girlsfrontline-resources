@@ -1,0 +1,162 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>318</BIN><BGM>10381</BGM><黑屏2>:베를린의 어느 고속도로.
+()<Speaker></Speaker>||:도로변의 햇빛에 반짝이는 참나무들이 나뭇가지로 보이도록, 명품 SUV 한 대가 시속 120km로 질주했다.+으리으리한 차량과 이에 손색없는 경치건만, 딱 한 가지가 분위기를 완전히 깨고 있었다.+바로 "물" 나쁜 나이트 클럽에서나 틀 법한 음악이었다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:...딴 거 틀어.+이딴 노래 들으면서 어떻게 자냐?
+NPC-maya(2)<Speaker>요원 Q</Speaker>||:맞아, 졸음 운전 방지용이야.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:삐삑.
+()<Speaker></Speaker>||:통신기가 울렸다.
+AK12(2)<Speaker>AK12</Speaker><Position>0,50</Position><通讯框>||<BGM>BGM_Sneak</BGM>:<color=#00CCFF>미안해, 몰리도를 놓쳤어.</color>
+AK12(2)<Position>0,50</Position><通讯框>;NPC-Ange(19)<Speaker>안젤리아</Speaker>||:비행기에서?
+AK12(2)<Speaker>AK12</Speaker><Position>0,50</Position><通讯框>;NPC-Ange(19)||:<color=#00CCFF>응...</color>+<color=#00CCFF>400피트 상공인데도 번지점프하듯 뛰어내리더라. 슈타지가 밑의 강을 반나절이나 뒤졌는데도 아무것도 못 찾았대.</color>
+AK12(2)<Position>0,50</Position><通讯框>;NPC-Ange(21)<Speaker>안젤리아</Speaker>||:K는 뭐래?
+AK12(2)<Speaker>AK12</Speaker><Position>0,50</Position><通讯框>;NPC-Ange(21)||:<color=#00CCFF>그게... 독일 정부의 일이라고 선 긋더라고.</color>
+AK12(2)<Position>0,50</Position><通讯框>;NPC-Ange(19)<Speaker>안젤리아</Speaker>||:...그러고 끝?
+AK12(2)<Speaker>AK12</Speaker><Position>0,50</Position><通讯框>;NPC-Ange(19)||:<color=#00CCFF>응.</color>
+AK12(2)<Position>0,50</Position><通讯框>;NPC-Ange(19)<Speaker>안젤리아</Speaker>||:알았다. 너희는 알아서 베를린으로 와, 장소는 AN-94가 보내 줄 거야.
+AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position><通讯框>;NPC-Ange(19)||:<color=#00CCFF>안 그래도 벌써 운전 중이야.</color>+<color=#00CCFF>아 참, RPK가 할 말 있대.</color>
+RPK16(0)<Speaker>RPK16</Speaker><通讯框>;NPC-Ange(19)||:<color=#00CCFF>내부 통신망으로 메시지를 받았답니다~</color>+<color=#00CCFF>제 방화벽을 완벽하게 우회해서, 수신하고 나서야 눈치챘다니까요.</color>+<color=#00CCFF>역추적해보려 했지만... 말 안 해도 알겠죠? 흔적조차 안 남겼어요.</color>
+RPK16(0)<通讯框>;NPC-Ange(19)<Speaker>안젤리아</Speaker>||:내용은?
+RPK16(0)<Speaker>RPK16</Speaker><通讯框>;NPC-Ange(19)||:<color=#00CCFF>우선, 제목은 그냥 ID예요.</color>
+RPK16(0)<Speaker>RPK16</Speaker><通讯框>||:<color=#00CCFF>"요한복음.8.12".</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:"나는 세상의 빛이니 나를 따르는 자는 어둠에 다니지 아니하고 생명의 빛을 얻으리라."+요한복음 8장 12절.
+NPC-Ange(21)<Speaker>안젤리아</Speaker>||:...겉멋만 잔뜩 든 놈이군.
+AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>진짜 징그럽네. 괜한 질문일지도 모르지만, 짐작 가는 사람 있어?</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:내가 이렇게 폼이나 잡는 사람을 알 거 같아?
+RPK16(0)<Speaker>RPK16</Speaker><通讯框>||:<color=#00CCFF>메시지 내용도 그냥 인사치레예요.</color>+<color=#00CCFF>"경애하는 안나 빅토로브나 최 양."</color>+<color=#00CCFF>"저의 참견에 미리 사과드리며, 브레멘에서 일어났던 모든 일과, 슈타지의 내부 경쟁과 그로 인한 그릇된 결정에 대해 유감을 표하는 바입니다."</color>+<color=#00CCFF>"패러데우스에 관해 필히, 그리고 긴히 상담할 일이 있사오니, 오늘 오후까지 만나러 와 주시기를 요청합니다."</color>+<color=#00CCFF>마지막은 주소고요. 확인해보니 구시가지의 술집이라네요?</color>+<color=#00CCFF>"미네르바의 부엉이"래요.</color>
+RPK16(0)<通讯框>;NPC-Ange(19)<Speaker>안젤리아</Speaker>||:...내가 세상에서 가장 싫어하는 부류 셋이 뭔지 알아?
+RPK16(5)<Speaker>RPK16</Speaker><通讯框>;NPC-Ange(19)||:<color=#00CCFF>AK-12랑 저 같은 사람이요?</color>
+RPK16(5)<通讯框>;NPC-Ange(19)<Speaker>안젤리아</Speaker>||:쓸데없이 의지박약한 놈이랑 같잖게 허세 부리는 놈.
+RPK16(0)<Speaker>RPK16</Speaker><通讯框>;NPC-Ange(19)||:<color=#00CCFF>또 하나는요?</color>
+RPK16(0)<通讯框>;NPC-Ange(19)<Speaker>안젤리아</Speaker>||:윌리엄.
+AK12(4)<Speaker>AK12</Speaker><Position>0,50</Position><通讯框>;NPC-Ange(19)||:<color=#00CCFF>갈 거야?</color>
+AK12(4)<Position>0,50</Position><通讯框>;NPC-Ange(19)<Speaker>안젤리아</Speaker>||:안 가.+예전 같았다면 조금 흥미가 있었겠지만... 지금?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:너무 늦었어, 지금은 사람 만나러 갈 시간 없다고.+그건 무시하고, 그 양옥에서 합류하자.
+RPK16(0)<Speaker>RPK16</Speaker><通讯框>||:<color=#00CCFF>너무 성급하게 행동하는 것 아닐까요?</color>
+AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>냅둬, 안젤리아가 한 번 결심하면 나도 못 꺾는다고.</color>
+AK12(4)<Speaker>AK12</Speaker><Position>0,50</Position><通讯框>||:<color=#00CCFF>얌전히 하라는 대로 하는 수밖에.</color>
+RPK16(0)<Speaker>RPK16</Speaker><通讯框>||:<color=#00CCFF>...선배님도 그리 말하신다면야.</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:안젤리아는 통신을 종료하고 조수석에서 백미러로 뒷자석의 AN-94와 AK-15에게 눈짓했다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:둘한테 좌표 공유해.
+AN94(0)<Speaker>AN94</Speaker><Position>0,50</Position>||:알았다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Horn_Car</SE1>:빵빵!+갑자기 뒷차가 경적을 울려대, 안젤리아는 인상을 팍 찌푸렸다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:뭐야 저건?
+NPC-maya(0)<Speaker>요원 Q</Speaker>||:아아, 시속 제한 구간 지났네.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:응?
+()<Speaker></Speaker>||:Q가 핸들을 틀어 차를 1차선 밖으로 옮겼다.
+NPC-maya(2)<Speaker>요원 Q</Speaker>||:이 고속도로는 시속 제한 130인데 여기 중간쯤부터 속도 제한이 없는 구간이 있거든.
+()<Speaker></Speaker>||<SE1>AVG_engine_speedup</SE1>:나오기가 무섭게, 뒷차가 묵직한 엔진음으로 포효하며 왼편으로 스쳐 지나갔다.+그리고 눈 깜짝할 사이에 시야 저편으로 사라져 버렸다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:...이걸 양보해?
+NPC-maya(0)<Speaker>요원 Q</Speaker>||:이봐 이봐, 지금 우리는 평범한 민간 차량인 척을 해야 한대도?
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:에라이... 차 세워, 내가 "교과서 같은 위장"이 뭔지 보여주지.
+()<Speaker></Speaker>||<SE1>AVG_brake</SE1>:Q는 얼굴을 찡그리며 차를 갓길에 세운 다음 조수석으로 자리를 옮겼다.
+NPC-maya(0)<Speaker>요원 Q</Speaker>||:혹시나 해서 말하는데, 이거 우리 보스 차다?
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:늦기 전에 더 있음 얼른 말해.
+NPC-maya(0)<Speaker>요원 Q</Speaker>||:나 오늘 아침 든든하게 먹어서 차 안에다 토하기 싫<size=50>으어어허억——!?</size>
+()<Speaker></Speaker>||<SE1>AVG_engine_speedup</SE1>:마저 당부하기도 전에, 검은 SUV는 로켓처럼 가속해 시속 200km에 가까운 속도로 질주했다.
+()<Speaker></Speaker>||<黑屏1>:......
+()||<黑屏2><BIN>9</BIN><黑屏1><BGM>GF_21winter_avg_mahaline</BGM>:......
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Terrorist_Attack</SE1><BIN>183</BIN><SE1>AVG_21Winter_Open_Light</SE1><common_effect>%%code=AVG_ink2%%</common_effect><BIN>9</BIN>:이 세상에 지옥이란 존재하지 않는다.+육체는 흙으로 돌아가고, 영혼은 공허로 사라진다.+생명이란 이토록 나약하다. 총탄과 화재, 심지어는 아주 잠깐의 불행만으로도 잃을 수 있다.
+()||<黑屏1>:
+()<Speaker>안젤리아</Speaker>||<黑屏2><BIN>9</BIN>:......+이젠 무섭지도 않아.
+()<Speaker></Speaker>||:뇌리에 파고드는 회상 속을 걷던 안젤리아는 어느 재난의 한복판에 섰다.+폭탄이 든 상자 뒤에 웅크려 벌벌 떠는 소녀는 기도 말곤 할 수 있는 것이 없었다.+그 소녀를 바라보는 안젤리아의 주위는, 고막이 찢어질 듯한 소음이 터져 나오는 아비규환이었다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:야.+일어나.+일어나라고, 임마.
+NPC-Ange(36)<Speaker></Speaker>||:그러자 소녀는 고개를 들어, 안젤리아를 마주보았다.+눈물이 그렁그렁한 그 소녀의 눈동자 속 깊은 어둠은, 그야말로 소용돌이였다.+그리고 그 소용돌이에, 안젤리아의 의식은 끝없는 심연으로 빨려들어갔다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:......
+()||<黑屏1>:
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<睁眼><BIN>276</BIN><BGM>GF_EV9_Story</BGM>:......
+()<Speaker></Speaker>||:안젤리아는 어질어질 침대에서 일어나, 관자놀이를 문지르며 머릿속을 휘젓는 것들을 쫓아냈다.
+AK12(2)<Speaker>AK12</Speaker><Position>0,50</Position>||:......
+()<Speaker></Speaker>||:왜 AK-12가 또 자신의 방에 있는지도 묻기 귀찮았다.
+NPC-Ange(21)<Speaker>안젤리아</Speaker>||:차나 한 잔 줘.
+AK12(2)<Speaker>AK12</Speaker><Position>0,50</Position>||:...괜찮아?
+()<Speaker></Speaker>||:잠기운이 좀 가시고 나니, 안젤리아는 AK-12의 표정이 사뭇 진지한 것을 깨달았다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:왜, 어디 이상해?
+NPC-Ange(19);AK12(2)<Speaker>AK12</Speaker><Position>0,50</Position>||:그건 아니지만, 계속 잠꼬대하길래.+악몽이라도 꾸는 것 같았어. 평소의 너랑 하나도 안 어울리더라.+그래서 좀 징그러웠어.
+NPC-Ange(20)<Speaker>안젤리아</Speaker>;AK12(2)<Position>0,50</Position>||:아, 맞아...+일 다 끝나고 안전국으로 복귀했더니 젤린스키가 진수성찬 차리고 환영하는 꿈이었지.+요리가 죄다 오리고기더라고.
+NPC-Ange(20);AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:오리고기 싫어해?
+NPC-Ange(21)<Speaker>안젤리아</Speaker>||:차라리 흙을 먹고 말지.
+()<Speaker></Speaker>||:안젤리아는 침대에 똑바로 앉아, 손으로 목덜미를 받치고 고개를 꺾었다.
+()||<SE1>AVG_va_addingredient</SE1>:AK-12는 눈치껏 더 묻지 않고, 대충 차를 진하게 우려내 테이블에 두었다.
+AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:그리폰의 지휘관이 베를린에 도착했어.+2시간 전에 메시지도 보냈고.
+NPC-Ange(21)<Speaker>안젤리아</Speaker>;AK12(0)<Position>0,50</Position>||:......+훈작사가 부른 거겠지.
+NPC-Ange(21);AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:뻔할 뻔자지.+네가 장단 안 맞춰 주니까 잘 맞춰 주는 사람 따로 부른 게 아니겠어.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;AK12(0)<Position>0,50</Position>||:AK-12, 넌 훈작사가 신용할 만한 사람이라 생각해?
+NPC-Ange(19);AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:그건 내 입으로 말하기 어렵겠어.+어쨌든 G&K의 실질적인 지배자잖아? 이 시국에 우리 보스 못 믿겠어요~는 줄 갈아타려는 사람이나 할 거야.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;AK12(0)<Position>0,50</Position>||:난 그 양반 예전부터 마음에 안 들었어.+도저히 못 어울려 주겠더라고.
+AK12(4)<Speaker>AK12</Speaker><Position>0,50</Position>||:그럼 Q랑은 짝짜꿍이 맞고?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||:안젤리아는 같잖아 하며 콧방귀를 뀌었다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:그 여자는 절반밖에 못 믿지.
+NPC-Ange(19);AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:지휘관 만나러 갈래?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;AK12(0)<Position>0,50</Position>||:아니, 됐어. 나랑 훈작사 사이에 꼈다면 괜히 그쪽 일만 힘들어질 거야.
+NPC-Ange(19);AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:그럼 읽씹이네, 매정해라.
+NPC-Ange(21)<Speaker>안젤리아</Speaker>;AK12(0)<Position>0,50</Position>||:......+네가 몰리도와 교전했던 정보 공유하고, 마음은 고맙지만 이번엔 따로 움직일 수밖에 없다고 전해.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:그리고... 아무도 믿지 말라고도.+특히 훈작사.
+AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:......+알았어.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;AK12(0)<Position>0,50</Position>||:Q는?
+NPC-Ange(19);AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:계속 이쪽 슈타지랑 연락 중이야.+아참참, K 그쪽한테도 메시지 왔어. 코드네임 U라는 요원을 보냈으니 베를린에서 필요한 거 있으면 걔한테 말하래.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;AK12(0)<Position>0,50</Position>||:감시역이 바꿘 거야?
+NPC-Ange(19);AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:몰라, 답장 안 해서.+근데 저쪽도 마찬가지로 슈타지니까 여길 찾아내는 건 시간 문제일 거야... 만약에 Q랑 U랑 싸우면 누구 편 들까?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;AK12(0)<Position>0,50</Position>||:우린 그냥 갈 길 가면 돼, 지들끼리 싸워서 이긴 쪽이 알아서 따라오게 냅둬.
+NPC-Ange(19);AK12(4)<Speaker>AK12</Speaker><Position>0,50</Position>||:후훗, 이래야 우리 안젤리아지.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:난 여기에 윌리엄을 조사하러 왔어.+다른 건 전부 아무래도 상관없어.
+()<Speaker></Speaker>||<黑屏1><SE1>AVG_Door_Open</SE1><BGM>BGM_Empty</BGM>:안젤리아는 옷걸이에서 아무 코트나 집어 두르고 방의 문을 열었다.
+()<Speaker></Speaker>||<黑屏2><BIN>356</BIN><BGM>BGM_Sneak</BGM>:세이프하우스 안에는 나란히 늘어선 열 명 남짓한 슈타지 요원들과, 바닥에 각종 탄약과 구급상자, 그리고 몇 상자나 되는 무기가 준비되어 있었다.+이렇다 보니 한 켠의 유탄발사기 두 자루는 그냥 덤처럼 느껴졌다.
+NPC-Ange(20)<Speaker>안젤리아</Speaker>||:...잘도 이만큼 구해 왔네.
+NPC-maya(2)<Speaker>요원 Q</Speaker>||:잘 잤어? 아무거나 골라.
+()<Speaker></Speaker>||:Q는 이어폰을 쓰고 누군가와 통신 중이었고, 입을 멈추지 않으면서 안젤리아에게 슬쩍 눈치를 보냈다.
+NPC-maya(0)<Speaker>요원 Q</Speaker>||:네 네, 두 부대 정도는 더 증원해 주셔야겠어요.
+NPC-maya(0)<Speaker>요원 Q</Speaker>||:아 물론 지금도 충분하죠. 하지만 그래도 만일이란 게 있잖아요?+그리고, 우리 인형들은 언제 오나요? 우린 쇳덩이가 아니라 핏덩이라 약하단 말예요.+에이 엄살 부린다뇨. 제 말은, 언제든지 백업 가능한 기계보단 하나밖에 없는 인간 부하들 목숨이 더 소중하단 뜻이죠.
+NPC-maya(0)<Speaker>요원 Q</Speaker>||:네네... 알았어요, 그럼 당장은 그렇게 할게요.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:이어폰을 벗은 Q는 M4A1 카빈을 들고 203 유탄발사기 앞에 선 안젤리아를 제지했다.
+NPC-maya(2)<Speaker>요원 Q</Speaker>||:그건 예비용이야, 그리고 나한테 남겨 줬으면 해.
+NPC-maya(2);NPC-Ange(19)<Speaker>안젤리아</Speaker>||:쯧...+그 낡은 집을 아예 철거해버리기라도 하려고?
+NPC-maya(2)<Speaker>요원 Q</Speaker>;NPC-Ange(19)||:400피트 맨몸 스카이다이빙을 하고도 멀쩡한 괴물 상대로는 가볍게 인사하는 수준이지.
+NPC-maya(2);NPC-Ange(19)<Speaker>안젤리아</Speaker>||:이렇게 스케일 크게 노는 특수요원은 내가 살다살다 처음 본다.
+NPC-maya(2)<Speaker>요원 Q</Speaker>;NPC-Ange(19)||:통 큰 슈타지는 기본 전략도 크다고.
+NPC-maya(2);NPC-Ange(19)<Speaker>안젤리아</Speaker>||:언제 움직여?
+NPC-maya(2)<Speaker>요원 Q</Speaker>;NPC-Ange(19)||:60분 뒤.
+NPC-maya(2);NPC-Ange(19)<Speaker>안젤리아</Speaker>||:내가 양옥을 조사할 시간으로 겨우 60분만 주겠다고?
+NPC-maya(0)<Speaker>요원 Q</Speaker>;NPC-Ange(19)||:그런 셈이지.+다만 우리가 정한 게 아니야.
+NPC-maya(2)<Speaker>요원 Q</Speaker>||:우리가 노리는 월척이 여기로 오기까지 60분밖에 안 남은 거야.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:그게 누군데?
+NPC-maya(2)<Speaker>요원 Q</Speaker>||:패러데우스의 중요인물.
+NPC-Ange(20)<Speaker>안젤리아</Speaker>||:쳇... 그럼 얼른 미끼를 던져야겠네.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:안젤리아는 총을 내려놓았고, 리벨리온 대원들은 바로 따라갔다.
+NPC-maya(0)<Speaker>요원 Q</Speaker>||:어? 무기 안 가져가?
+AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:여깄잖아, 4개나.
+()<Speaker></Speaker>||<黑屏1>:......
+()<Speaker></Speaker>||<黑屏2><BIN>239</BIN>:베를린 노이템펠호프 구역.+"윌리엄"의 옛 거처.
+AK12(2)<Speaker>AK12</Speaker><Position>0,50</Position>||<BGM>10220</BGM>:마당에 잡초가 무성한 게 베트남 생각나네.
+AN94(5)<Speaker>AN94</Speaker><Position>0,50</Position>||:가본 적 있었나?
+AK15(0)<Speaker>AK15</Speaker>||:비유다, AN-94.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Gate_Close</SE1>:조금 녹슨 철문을 연 안젤리아의 찌푸린 눈이 바닥에 떨어진 쇠사슬로 향했다.
+AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:...선객이 있었네.+이 절단면... 오래되지 않았어.
+RPK16(3)<Speaker>RPK16</Speaker>||:그렇다니 더더욱 수상해요, 안젤리아.+여기선 신중하게 움직이도록 해요. 저랑 AN-94가 먼저 돌입해 정찰하는 건 어떨까요?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||:RPK-16의 충고를 무시하고, 안젤리아는 앞장서서 이 낯선 마당에 발을 디뎠다.
+AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:뭐, 이미 여기까지 왔으니.
+()<Speaker></Speaker>||:앞장서는 안젤리아는 고개를 들어 이 양옥을 바라봤다.+아주 오래 전부터 아무도 살지 않는 것이 확실해 보였다.+안젤리아 일행은 그대로 정원사가 마지막으로 손질한 게 아마 십수 년 전일 터인 마당을 가로질렀다.+이따금씩 날아가는 벌을 빼면, 이곳에 살아있는 동물은 거의 보이지 않았다.
+AN94(0)<Speaker>AN94</Speaker><Position>0,50</Position>||:...너무 조용하다.
+AK15(0)<Speaker>AK15</Speaker><Position>0,50</Position>||:내부에서 열원은 감지되지 않습니다.
+()<Speaker></Speaker>||:쥐 죽은 듯한 고요함이 안젤리아의 신경을 쿡쿡 찔렀다. 그녀의 직감이 경고하는 것이었다.+하지만 방향은 틀림없었다.+이곳에 분명, 그녀가 찾는 것이 있다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:RPK, AN-94, 문 지켜.
+RPK16(4)<Speaker>RPK16</Speaker>||:...네.
+()<Speaker></Speaker>||:약간 의미심장하게 고개를 끄덕이고, RPK-16은 주위에 감시 장비를 설치하기 시작했다.
+()<Speaker></Speaker>||<震屏3><黑屏2><SE1>AVG_Door_Hit</SE1><BIN>240</BIN>:쿵!
+()<Speaker></Speaker>||:AK-15가 힘껏 밀어 양옥의 문을 열어젖혔다.+먼지를 잔뜩 토해내며 흔들리는 두 문짝은 언제라도 경첩이 부러져 쓰러질 것처럼 위태로웠다.+안젤리아는 태연하게 권총을 홀스터에 집어넣고 천천히 안으로 들어섰다.+어두운 양옥 안에선 세 명의 발소리가 메아리치는 것을 제외하면 어떤 소리도 들리지 않았다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:...AK-12.
+AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:지금 연결했어.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:바꿔.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삑.+통신 연결.
+NPC-maya(2)<Speaker>요원 Q</Speaker><通讯框>||:<color=#00CCFF>낚시에서 가장 중요한 건 인내심이야.</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:아주 토실토실한 월척이길 바라지.
+NPC-maya(2)<Speaker>요원 Q</Speaker><通讯框>||:<color=#00CCFF>물론.</color>+<color=#00CCFF>멀찍이서 지켜보고 있으니까 너무 걱정은 마.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+통신 종료.
+AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:뭐래?
+NPC-Ange(21)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||:안젤리아는 대답하지 않고 뒤로 돌아, 방금 AK-15가 열었던 문으로 다시 향했다.+아주 잠깐 어리둥절해 했지만, AK-12와 AK-15는 동시에 반응했다.
+AK15(0)<Speaker>AK15</Speaker>||:열원 다수 접근 중.+패러데우스입니다.
+()||<黑屏1>:

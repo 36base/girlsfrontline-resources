@@ -1,145 +1,145 @@
-()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>202</BIN>:
-()||<BGM>BGM_Sneak</BGM>:...탈린시 교외.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>2시간 전부터 탈린 시내로부터 불명의 신호가 끊임없이 M4A1과 연결을 시도하고 있어. 그 외의 이상 징후는 보이지 않아.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>그리고 다른 그리폰 인형들도 전자전 공격을 받지 않았어. 계속해서 방화벽을 지원할게.</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>이상, 정기 보고 끝. 이제 우리도 AR팀을 뒤따라 탈린시로 진입할 거야.</color>
-지휘관()||:그래... 알았다. 통신은 유지하도록.
-()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_disconnect</SE1>:음?
-NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:지휘관님, 지금 시간 되시나요?
-NPC-Kalin(0)<Speaker>지휘관</Speaker><通讯框>||:막 보고를 받은 참이야. 선발 정찰대에게서 온 통신인가? 그건 최우선 사항이니까 허락 요청할 필요 없이 바로 연결하도록 해.
-NPC-Kalin(3)<Speaker>카리나</Speaker><通讯框>||:아뇨, 그게... 16Lab에서 온 통신이에요. 페르시카 씨가...
-NPC-Kalin(3)<Speaker>지휘관</Speaker><通讯框>||:(하벨 씨의 말대로군...)+...연결해 줘.
-()||<BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:삐익.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||<BGM>BGM_Room</BGM>:<color=#00CCFF>아... 지휘관... 오랜만이야.</color>
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그게, 어... 할 말은 엄청 많은데, 정작 입을 열려니...</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:마지막으로 연락했던 게 벌써 몇 개월 전이군요. 연락해 주셔서 기쁩니다.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>와아... 아직도 몇 개월밖에 안 됐어? 1년도 안 지났는데 엄청 옛날 일 같네...</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:네, 저에게나 페르시카 씨에게나... 지난 수 개월간은 참 고비였죠.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>지휘관, 이렇게 연락한 건... 다름이 아니라...</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:M4 때문이겠죠?
-NPC-Persica(1)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>아...</color>
-NPC-Persica(1)<Speaker>지휘관</Speaker><通讯框>||:그것 외에 페르시카 씨가 직접 연락한 적은 없으니까요.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>...그럼, 바로 본론으로 들어갈게.</color>
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>지금까지, 난 나비 사건의 진상을 쫓았어. 이번에 지휘관이 향하는 곳은... 리코와도, 그 사건과도 관계가 깊은 곳이야.</color>
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>하지만 그때 그 군사 작전 이후로, 난 줄곧 감시당하는 상태고... AR팀의 애들과도 연락이 끊겨 버렸어...</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:그날 이후로도 많은 일이 있었죠.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>하하... 베오그라드 관련 뉴스 봤어. 아무래도 난 한참 뒤처진 모양이네.</color>
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그래서, 그 애들은 어때?</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:현재 임무 수행 중입니다.+마침 M4에게 연락해서 탈린 정찰 임무의 진행 상황을 확인하려던 참인데, 연결해드릴까요?
-NPC-Persica(1)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>자, 잠깐만... 아직...</color>
-NPC-Persica(1)<Speaker>지휘관</Speaker><通讯框>||:...솔직히, 저도 그 아이를 잘 상대하지 못합니다. 자꾸 저를 피하는 것 같거든요.+아직 전투에 돌입하기까지는 시간이 있으니, 친근한 사람과 잠깐이라도 대화를 나누는 게 M4의 심리 안정에도 도움이 될까 싶습니다만.
-NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>역시... 사양할게.</color>
-NPC-Persica(3)<Speaker>지휘관</Speaker><通讯框>||:그럼 제가 질문해도 될까요, 페르시카 씨? M4를 돕고 싶어 하시면서 왜 직접 마주하기를 꺼리는 겁니까?
-NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그건... 말하기 어려운데.</color>
-NPC-Persica(3)<Speaker>지휘관</Speaker><通讯框>||:제게 의뢰하고 싶은 것이 있거나 도움을 청하려 하신다면, 그 전에 이유를 알려주시기 바랍니다.
-NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>PMC는... 그냥 용병처럼 돈 받고 일하면 되지 않아...? 수당은 잔뜩 챙겨줄 테니까...</color>
-NPC-Persica(3)<Speaker>지휘관</Speaker><通讯框>||:예전이라면 군말 않고 그랬을 겁니다.+하지만 지금은 그리폰을 위해 일하는 모두의 안전을 고려해야 합니다. 당신이 소중한 작품을 지키고 싶은 것처럼, 저도 제 소중한 부하들을 지키고 싶습니다.+페르시카 씨, 돈으로 신뢰를 살 수 있다 생각하십니까?
-()||<BGM>BGM_Empty</BGM>:내 질문에, 페르시카는 한참동안 입을 다물었다.+그리고 고개를 점점 숙였다.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||<BGM>BGM_Wake2</BGM>:<color=#00CCFF>난, M4에게... 그 아이에게... 너무 많은 빚을 졌어.</color>
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>M4는 내게 있어 특별한 존재야. 내 모든 힘을 다해서... 지키고 싶었어. 그래서 AR팀을 만들었지...</color>
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>내가 바라던 완벽한 작품을 완성하기 위해, 그 아이에게... 과도한 짐을 짊어지게 했어. 그리고 그 아이가 내 곁을 떠나고 난 다음에야... 내가 무슨 짓을 저질렀는지 깨달았지.</color>
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>내 사리사욕을 위해 그 아이를 상처입혔고, 소중한 친구들이 사라지게 만들었어.</color>
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그 잔혹하고 살의로 가득 찬 세계로 돌아가도록 내버려 뒀고... 그 때문에 내 절친한 친구마저 심하게 다치게 했어...</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:페르시카 씨, 새는 언젠가 둥지를 떠나기 마련입니다.+M4는 계속 성장하고 있어요. 우리 모두 그 아이의 활약을 지켜봤잖습니까. 자신의 자식을 믿으세요.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>아니, 그런 뜻이 아니라... 그래도... 응, 맞는 말이야.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:그리고 궁금한 것이 한 가지 더 있습니다. 제가 탈린에 온 건 어떻게 아셨죠? 정보 유출 경로를 방치할 수는 없습니다.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>사실... 얼마 전까지 난 지휘관과 AR팀의 행방을 찾으려 했어. 성과는 전혀 없었지만.</color>
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그런데... 베오그라드 사건이 일어난 후에, 매스컴에서 전술인형들이 활동한 흔적을 찾아냈어. 그걸 분석해서... 지휘관도, 그리폰도 무사하다고 확신했고.</color>
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그리고 하벨 씨가 이 일련의 사건들을 주시하길래... 그분의 개인 계좌 지출 내용을 살짝 조사해 봤지.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:아하... 이거, 하벨 씨를 입막음하는 것 말고는 정보 유출을 막을 수 없겠는걸요?+알겠습니다. 궁금증도 풀렸으니 다시 본론으로 돌아가죠. 제게 어떤 부탁을 하고 싶으신가요?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>원래는... AR팀을 16Lab이나 전선에서 멀리 떨어진 안전지대로 보내 달라고 할 셈이었는데...</color>
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>지휘관의 말을 들으니, 하마터면 또 잘못된 결정을 내릴 뻔한 거 같아...</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:이미 작전이 시작된 상황입니다. 이런 때에 함부로 명령이나 제대의 위치를 바꿨다간 불필요한 혼란을 야기할 뿐입니다.+아무리 페르시카 씨의 부탁이라도 그건 수락할 수 없습니다.+그리고... M4는 지금 무언가를 찾고 있는 것 같습니다. 명령한다 해도 전선을 이탈하지 않을 겁니다.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>그건 그렇네... 미안해, 내가 너무 억지를 부리려 했어.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||<BGM>10065</BGM>:하지만, 합리적인 범위 내라면... 카리나, 지휘 시스템의 관측을 페르시카 씨에게도 허가할 수 있어?
-NPC-Kalin(2)<Speaker>카리나</Speaker><通讯框>||:<color=#00CCFF>네? 가능하긴 한데, 작전 상황을 외부인과 공유해도 괜찮나요?</color>
-NPC-Kalin(2)<Speaker>지휘관</Speaker><通讯框>||:우리가 통신에 이용하는 드론도 전부 페르시카 씨가 설계한 것들이야. 지금까지 16Lab과 함께 그리폰을 지원해 주었으니, 외부인은 아닌 셈이지.+게다가 이번 작전은 우리가 여태까지 대면한 적 없는 위협을 상대해야 할 거야. 페르시카 씨의 지혜가 도움이 된다면 마다할 이유가 없어.
-NPC-Kalin(3)<Speaker>카리나</Speaker><通讯框>||:<color=#00CCFF>알겠습니다, 지휘관님의 판단을 믿을게요.</color>
-NPC-Kalin(3)<Speaker>카리나</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>페르시카 씨, 관측 권한을 부여했어요. 이제 저희의 전황 감시 채널에 동기화하실 수 있어요.</color>
-NPC-Kalin(3)<Speaker>지휘관</Speaker><通讯框>||:만약 의심스러운 정황이나 잠재적인 위험 요소를 발견하면 즉시 말씀해 주십시오.+하지만 최종 판단은 제가 내립니다. 괜찮으시겠죠?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>고마워, 지휘관. 나중에 꼭 보답할게.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:그럼... 커피 한잔 대접해 주실 수 있겠습니까?
-NPC-Persica(1)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>응...?</color>
-NPC-Persica(1)<Speaker>지휘관</Speaker><通讯框>||:처음 뵈었을 때, 제게 커피 한잔 주겠다 하셨잖습니까.
-NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>아, 맞다... 이사까지 해서 까맣게 잊고 있었어.</color>
-NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>내 커피엔 설탕이 엄청 들어가는데, 괜찮겠어...?</color><c>그거 기대되는군요.<c>전 블랙커피를 선호하는데, 아쉽군요.
-NPC-Persica(2)<Speaker>지휘관</Speaker><通讯框>||<分支>1</分支>:그거 기대되는군요.
-NPC-Persica(1)<Speaker>페르시카</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>오... 지휘관도 단것 좋아해? 이거 새로운 발견인걸. 우리 서로 잘 맞겠어.</color>
-NPC-Persica(2)<Speaker>지휘관</Speaker><通讯框>||<分支>2</分支>:전 블랙커피를 선호하는데, 아쉽군요.
-NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>손님이라면 호스트의 규칙을 따라야지... 하지만 지휘관이니까, 특별히 예외로 해줄 수도 있어...</color>
-NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>그럼 약속한 거다...? 이번 일이 마무리되면, 내 연구실로 초대할게.</color>
-()||<BGM>BGM_Empty</BGM><黑屏2><BIN>197</BIN>:
-()||<SE1>MachineGunBurst</SE1>:탈린시, 대륙간 열차 정거장의 외곽.
-()||<BGM>BGM_Boss2</BGM><SE2>Gunfight</SE2>:정적을 깨는 한 발의 총성이 울려 퍼졌고, 탄환의 비가 그 뒤를 따랐다.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:휴우! 방금은 아슬아슬했네! RO는 괜찮아?
-RO635(4)<Speaker>RO635</Speaker>||<SE1>Gunfight</SE1>:난 멀쩡해. 제길... 패러데우스는 안 보이지만, 여기 완전 자동 포탑투성이잖아!
-AR15Mod(0)<Speaker>AR15</Speaker>||:우리의 임무는 대륙간 열차가 무사히 팔디스키 기지까지 이동할 경로를 확보하는 건데.+저걸 내버려 뒀다간 열차는 도시를 통과하긴커녕 진입도 못 해... 적어도 철로 주변의 자동 포탑들만은 반드시 제거해야 해.
-RO635(0)<Speaker>RO635</Speaker>||:하지만 저 포탑들, 개중엔 보호막까지 달려 있어서 파괴하기 어려워.
-RO635(5)<Speaker>RO635</Speaker>||:이렇게 제압 사격 당하고 있다간 장애물 제거는커녕 우리까지 여기서 무사히 못 빠져나가! 중장비 부대의 화력 지원이 필요해!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:하지만 중장비 부대는 지휘관 쪽에 있는걸? 여기까지 오려면 시간이 걸릴 텐데.+아, RO 너 전자전 할 수 있잖아! 저것들 제어 시스템 해킹해서 통제권 뺏을 수는 없어?
-RO635(5)<Speaker>RO635</Speaker>||:말이야 쉽지... 저 포탑들, 워낙에 구식이라 자율 모드로 전환하면 바로 회선을 폐쇄해 버려.+시스템에 침투하려면 직접 제어 패널까지 가든지 인트라넷에 접속해야 한다고!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:으에... 그렇게 귀찮아?
-RO635(0)<Speaker>RO635</Speaker>||:어쩌겠어, 구시대의 구닥다리 시스템은 오히려 더 골치가 아픈걸...
-AR15Mod(0)<Speaker>AR15</Speaker>||:그래도 시도해 볼 만해. 우리가 포탑의 주의를 끄는 사이에, RO가 사각지대를 따라 이동해서 시스템을 무력화시키는 거야.+어때, M4? 괜찮은 계획이라 생각해?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:(침입할 수 있나요? 그럼 당신에게 맡기겠습니다.)
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:...그럴 필요 없어요.
-AR15Mod(2)<Speaker>AR15</Speaker>||:뭐? 하지만 이대론――
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:모두, 무기 상태 확인하고 준비하세요. 오래는 못 버텨도, 제가 제어 시스템을 해킹해 마비시키겠습니다.+그 틈을 타서 단숨에 정거장으로 돌진하는 겁니다. 아시겠죠?
-RO635(3)<Speaker>RO635</Speaker>||:그런 일을 어떻게...
-AR15Mod(0)<Speaker>AR15</Speaker>||<SE1>AVG_weapon_reload</SE1>:쉿. RO, M4를 믿어. 모두 준비하고 신호 대기.
-M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE2>AVG_tele_disconnect</SE2>:준비... 3, 2, 1... 지금이에요!
-()||:귀가 먹먹해질 정도로 거리를 뒤덮던 포화 소리가 뚝 멈췄다.
-()||:AR15가 돌멩이를 하나 던져 보았지만, 전혀 반응이 없었다. M4A1이 말한 대로 포탑들이 멈춘 것을 확인한 AR15는 앞장서서 달려 나갔다.
-AR15Mod(0)<Speaker>AR15</Speaker>||<黑点1><SE2>Runstep</SE2>:움직여! 정거장 내부로 돌진!
-()||<BIN>197</BIN><黑点2><SE1>Runstep</SE1><BGM>BGM_Empty</BGM>:아무런 방해도 받지 않고, 인형들은 단숨에 탈린 정거장 안으로 진입할 수 있었다.
-RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Room</BGM>:믿을 수가 없어...! 그렇게 많은 자동 포탑들이 모조리...
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:굉장해! 총을 쏴도 반격도 안 하더라!
-RO635(0)<Speaker>RO635</Speaker>||:저렇게 많은 포탑을 동시에 마비시키다니, 대체 어떻게 한 거예요 M4 씨?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:...마인드맵을 업그레이드하면서, 신형 모듈도 설치했습니다. 특히 전자전 방면으로 크게 강화됐어요.+AR팀의 대장으로서... 언제나 소대원들을 위험에 빠뜨릴 수는 없잖아요.
-AR15Mod(0)<Speaker>AR15</Speaker>||:잘했어, M4. 마인드맵에 크게 부담 가진 않았어?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:네... 걱정해 줘서 고마워요. 잠깐 쉬겠습니다. 숨 좀 돌리고, 머리도 식혀야겠어요.
-AR15Mod(0)<Speaker>AR15</Speaker>||:그것에 너무 의존하지 마.
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:네...
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:둘이서 소곤소곤 무슨 얘기 해?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:아... 아무것도 아니에요. 그것보다 RO, 조금 도와주시겠어요?+방금 포탑을 해킹할 때, 정거장 지하에서 데이터 교류가 활발한 네트워크 노드를 감지했습니다. 아마 그게 자율 방어 시스템의 중심핵일 거예요.+그걸 찾아내면, 탈린시 방위 시설의 메인 프레임에 접속할 수 있을 겁니다.
-RO635(0)<Speaker>RO635</Speaker>||:노드라... 당장 찾아볼게요.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:나도 같이 갈게! 물건 찾는 건 내 주특기라고!
-()||<黑屏2><BIN>46</BIN><Night>:
-RO635(0)<Speaker>RO635</Speaker>||<SE1>AVG_footsteps_cave</SE1>:으음... 노드... 컴퓨터나 단말기처럼 생긴 거 없나...
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:컴퓨터라면, 안내소의 저것 말이야?
-RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:아, 정거장의 대륙간 철로 제어 콘솔이다. 이거면 될 거야.
-RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:근데 있잖아, 아까 M4 무지 대단했지? 전자전으로 그런 일까지 할 수 있을 줄은 몰랐어! RO도 좀 보고 배워 봐!
-RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||<BGM>BGM_Empty</BGM>:<size=30>...그건 전자전이 아니었어.</size>
-RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Brain</BGM>:응? 그게 무슨 소리야?
-RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:기계 두세 대 정도를 동시에 해킹해서 조종하는 전자전이라면 나도 이해해.
-RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:하지만 아까처럼 수십 대나 되는 자동 포탑을 동시에 무력화시킨 건, 마치...+게다가 물리 접촉도 아니고, 지나 네트워크도 안 통하는 인트라넷에 침입한 거야. 아무리 생각해 봐도 이해가 되질 않아.
-RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그럼... M4가 거짓말을 했단 거야? 왜?
-RO635(3)<Speaker>RO635</Speaker>||:어쩌면... 거짓말이 아닐 수도 있지. 아마 M4 씨도 스스로 어떻게 해냈는지 제대로 설명하지 못할 거야. 아무튼, 복잡한 건 일이 다 끝난 후에 생각하자.+어디 보자, 이 녀석의 스위치는... 이건가?
-()||<黑屏1><SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:딸깍. 위이이이이잉...
-()|||<黑屏2><BIN>46</BIN>:정거장의 모든 조명에 불이 들어왔다. 몇 년은 족히 멈춰 있던 에어컨도 다시 작동하기 시작해, 수북이 쌓여 있던 먼지를 뱉어냈다.
-()||:고요했던 정거장의 지하는 이내 기계가 내는 소음으로 시끄러워졌다.
-RO635(3)<Speaker>RO635</Speaker>||<BGM>BGM_Room</BGM>:어, 이거 전력 공급 시스템도 멀쩡하네? 다행이다.+연결 개시, 검색... 대륙간 철로 방위 시스템... 찾았다. M4 씨, 들리세요?
-RO635(3);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>수신 감도 양호. 정거장의 로비에 조명이 들어왔는데, RO가 한 건가요?</color>
-RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:네. 도시의 방위 시설만이 아니라 모든 시설에 전력이 공급되고 있는 것 같아요. 설비도 너무 멀쩡한 게... 뭐랄까... 수십 년 동안 방치된 오염지대의 것이라기엔 믿기 어려울 정도로 멀쩡하게 작동하고 있어요.+마치... 도시가 버려진 이후에도 누군가가 계속 기반 시설을 관리해 온 것처럼요.
-RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>그렇군요... 격리벽의 제어 권한은 찾을 수 있나요?</color>
-RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:아뇨... 격리벽 관련 권한은 여기선 확인할 수 없습니다. 도시 외부 격리 시스템을 내부의 방위 시스템이랑 같이 둘 리는 없잖아요?
-RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>그건 그렇네요. 그럼, 철로 주변의 무인 방어 시설을 정지할 수는 있나요?</color>
-RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:여기서 제어 가능한 자동 포탑은 극히 일부입니다. 상당수의 방어 시설들이 여전히 오프라인 상태로 전력을 소모하고 있어요.+아무래도 활성화된 직후 중앙 통제 네트워크와의 연결을 끊고 자율 모드로 전환된 거 같습니다.
-RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>전원을 끌 수가 없다면... RO, 어디서 전력을 공급받고 있는지 검색해 주세요.</color>
-RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:찾아볼게요... 아, 대부분이 탈린 교외에 위치한 발전소네요. 어떻게 하려고요?
-RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>직접 정지할 수 없다면, 외부로부터의 전력 공급을 끊어버리겠습니다.</color>
-RO635(4)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:하지만 그렇게 해도 포탑은 예비 배터리가 탑재되어 있어서 곧바로 정지하진 않을 텐데요...+그대로 전력이 소진될 때까지 기다리는 편이 가장 안전하겠지만, 얼마나 걸릴지 알 수 없어요.
-RO635(4);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>전력 공급이 끊기게 되면, 소모가 큰 보호막은 함부로 전개할 수 없어요.</color>
-RO635(4);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>그것만으로도 대폭 약화되는 셈이니, 우리가 직접 파괴할 수 있을 겁니다.</color>
-RO635(3)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:아하, 좋은 방법이네요.+그런데... 여기서 발전소까지 거리가 꽤 되네요. 그리고 지도를 보아하니 가는 길에도 대량의 방어 시설들이 산재되어 있어서...
-M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>걱정 마세요, 지휘관님께서 가장 든든한 지원군을 준비해 두셨으니까요.</color>
-()||<BGM>BGM_Empty</BGM><黑屏2><BIN>55</BIN>:
-()||<BGM>BGM_Reverse</BGM>:...탈린시 교외.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:응?+얘들아, 추가 임무가 내려왔어. 목표는 탈린 발전소의 파괴. 좌표 전송했으니까 확인해.
-G11(2)<Speaker>G11</Speaker>||:뭐어...? 이제 막 앉아서 좀 쉬나 했는데...
-HK416Mod(0)<Speaker>HK416</Speaker>||:여기서 죽치고 있으면서 녀석들이 전멸하는 걸 구경할 셈인 줄 알았더니?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:저들이 알아서 해결할 수 있는 일에 우리가 굳이 불필요한 위험을 무릅쓰고 나설 이유는 없어. 우리는 그저 보험일 뿐이야.+9, 폭약은 준비됐어?
-UMP9Mod(0)<Speaker>UMP9</Speaker>||:응, 방금 열차에서 수송 드론이 출발했대. 5분 뒤면 폭약을 포함한 보급상자를 투하해 줄 거야.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:완벽해. 발전소로 이동하는 도중 분명 방어 시설들의 저항을 받을 거야. 어떻게 해야 하는지는 말 안 해도 다들 알지?+추가 수당이 붙는 거니까, 기운 내서 열심히 하자고.
-()||<黑屏1>:
+()||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>202</BIN>:
+()||<BGM>BGM_Sneak</BGM>:...탈린시 교외.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>2시간 전부터 탈린 시내로부터 불명의 신호가 끊임없이 M4A1과 연결을 시도하고 있어. 그 외의 이상 징후는 보이지 않아.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>그리고 다른 그리폰 인형들도 전자전 공격을 받지 않았어. 계속해서 방화벽을 지원할게.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>이상, 정기 보고 끝. 이제 우리도 AR팀을 뒤따라 탈린시로 진입할 거야.</color>
+지휘관()||:그래... 알았다. 통신은 유지하도록.
+()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_disconnect</SE1>:음?
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:지휘관님, 지금 시간 되시나요?
+NPC-Kalin(0)<Speaker>지휘관</Speaker><通讯框>||:막 보고를 받은 참이야. 선발 정찰대에게서 온 통신인가? 그건 최우선 사항이니까 허락 요청할 필요 없이 바로 연결하도록 해.
+NPC-Kalin(3)<Speaker>카리나</Speaker><通讯框>||:아뇨, 그게... 16Lab에서 온 통신이에요. 페르시카 씨가...
+NPC-Kalin(3)<Speaker>지휘관</Speaker><通讯框>||:(하벨 씨의 말대로군...)+...연결해 줘.
+()||<BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:삐익.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||<BGM>BGM_Room</BGM>:<color=#00CCFF>아... 지휘관... 오랜만이야.</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그게, 어... 할 말은 엄청 많은데, 정작 입을 열려니...</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:마지막으로 연락했던 게 벌써 몇 개월 전이군요. 연락해 주셔서 기쁩니다.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>와아... 아직도 몇 개월밖에 안 됐어? 1년도 안 지났는데 엄청 옛날 일 같네...</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:네, 저에게나 페르시카 씨에게나... 지난 수 개월간은 참 고비였죠.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>지휘관, 이렇게 연락한 건... 다름이 아니라...</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:M4 때문이겠죠?
+NPC-Persica(1)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>아...</color>
+NPC-Persica(1)<Speaker>지휘관</Speaker><通讯框>||:그것 외에 페르시카 씨가 직접 연락한 적은 없으니까요.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>...그럼, 바로 본론으로 들어갈게.</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>지금까지, 난 나비 사건의 진상을 쫓았어. 이번에 지휘관이 향하는 곳은... 리코와도, 그 사건과도 관계가 깊은 곳이야.</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>하지만 그때 그 군사 작전 이후로, 난 줄곧 감시당하는 상태고... AR팀의 애들과도 연락이 끊겨 버렸어...</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:그날 이후로도 많은 일이 있었죠.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>하하... 베오그라드 관련 뉴스 봤어. 아무래도 난 한참 뒤처진 모양이네.</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그래서, 그 애들은 어때?</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:현재 임무 수행 중입니다.+마침 M4에게 연락해서 탈린 정찰 임무의 진행 상황을 확인하려던 참인데, 연결해드릴까요?
+NPC-Persica(1)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>자, 잠깐만... 아직...</color>
+NPC-Persica(1)<Speaker>지휘관</Speaker><通讯框>||:...솔직히, 저도 그 아이를 잘 상대하지 못합니다. 자꾸 저를 피하는 것 같거든요.+아직 전투에 돌입하기까지는 시간이 있으니, 친근한 사람과 잠깐이라도 대화를 나누는 게 M4의 심리 안정에도 도움이 될까 싶습니다만.
+NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>역시... 사양할게.</color>
+NPC-Persica(3)<Speaker>지휘관</Speaker><通讯框>||:그럼 제가 질문해도 될까요, 페르시카 씨? M4를 돕고 싶어 하시면서 왜 직접 마주하기를 꺼리는 겁니까?
+NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그건... 말하기 어려운데.</color>
+NPC-Persica(3)<Speaker>지휘관</Speaker><通讯框>||:제게 의뢰하고 싶은 것이 있거나 도움을 청하려 하신다면, 그 전에 이유를 알려주시기 바랍니다.
+NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>PMC는... 그냥 용병처럼 돈 받고 일하면 되지 않아...? 수당은 잔뜩 챙겨줄 테니까...</color>
+NPC-Persica(3)<Speaker>지휘관</Speaker><通讯框>||:예전이라면 군말 않고 그랬을 겁니다.+하지만 지금은 그리폰을 위해 일하는 모두의 안전을 고려해야 합니다. 당신이 소중한 작품을 지키고 싶은 것처럼, 저도 제 소중한 부하들을 지키고 싶습니다.+페르시카 씨, 돈으로 신뢰를 살 수 있다 생각하십니까?
+()||<BGM>BGM_Empty</BGM>:내 질문에, 페르시카는 한참동안 입을 다물었다.+그리고 고개를 점점 숙였다.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||<BGM>BGM_Wake2</BGM>:<color=#00CCFF>난, M4에게... 그 아이에게... 너무 많은 빚을 졌어.</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>M4는 내게 있어 특별한 존재야. 내 모든 힘을 다해서... 지키고 싶었어. 그래서 AR팀을 만들었지...</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>내가 바라던 완벽한 작품을 완성하기 위해, 그 아이에게... 과도한 짐을 짊어지게 했어. 그리고 그 아이가 내 곁을 떠나고 난 다음에야... 내가 무슨 짓을 저질렀는지 깨달았지.</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>내 사리사욕을 위해 그 아이를 상처입혔고, 소중한 친구들이 사라지게 만들었어.</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그 잔혹하고 살의로 가득 찬 세계로 돌아가도록 내버려 뒀고... 그 때문에 내 절친한 친구마저 심하게 다치게 했어...</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:페르시카 씨, 새는 언젠가 둥지를 떠나기 마련입니다.+M4는 계속 성장하고 있어요. 우리 모두 그 아이의 활약을 지켜봤잖습니까. 자신의 자식을 믿으세요.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>아니, 그런 뜻이 아니라... 그래도... 응, 맞는 말이야.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:그리고 궁금한 것이 한 가지 더 있습니다. 제가 탈린에 온 건 어떻게 아셨죠? 정보 유출 경로를 방치할 수는 없습니다.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>사실... 얼마 전까지 난 지휘관과 AR팀의 행방을 찾으려 했어. 성과는 전혀 없었지만.</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그런데... 베오그라드 사건이 일어난 후에, 매스컴에서 전술인형들이 활동한 흔적을 찾아냈어. 그걸 분석해서... 지휘관도, 그리폰도 무사하다고 확신했고.</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그리고 하벨 씨가 이 일련의 사건들을 주시하길래... 그분의 개인 계좌 지출 내용을 살짝 조사해 봤지.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:아하... 이거, 하벨 씨를 입막음하는 것 말고는 정보 유출을 막을 수 없겠는걸요?+알겠습니다. 궁금증도 풀렸으니 다시 본론으로 돌아가죠. 제게 어떤 부탁을 하고 싶으신가요?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>원래는... AR팀을 16Lab이나 전선에서 멀리 떨어진 안전지대로 보내 달라고 할 셈이었는데...</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>지휘관의 말을 들으니, 하마터면 또 잘못된 결정을 내릴 뻔한 거 같아...</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:이미 작전이 시작된 상황입니다. 이런 때에 함부로 명령이나 제대의 위치를 바꿨다간 불필요한 혼란을 야기할 뿐입니다.+아무리 페르시카 씨의 부탁이라도 그건 수락할 수 없습니다.+그리고... M4는 지금 무언가를 찾고 있는 것 같습니다. 명령한다 해도 전선을 이탈하지 않을 겁니다.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>그건 그렇네... 미안해, 내가 너무 억지를 부리려 했어.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||<BGM>10065</BGM>:하지만, 합리적인 범위 내라면... 카리나, 지휘 시스템의 관측을 페르시카 씨에게도 허가할 수 있어?
+NPC-Kalin(2)<Speaker>카리나</Speaker><通讯框>||:<color=#00CCFF>네? 가능하긴 한데, 작전 상황을 외부인과 공유해도 괜찮나요?</color>
+NPC-Kalin(2)<Speaker>지휘관</Speaker><通讯框>||:우리가 통신에 이용하는 드론도 전부 페르시카 씨가 설계한 것들이야. 지금까지 16Lab과 함께 그리폰을 지원해 주었으니, 외부인은 아닌 셈이지.+게다가 이번 작전은 우리가 여태까지 대면한 적 없는 위협을 상대해야 할 거야. 페르시카 씨의 지혜가 도움이 된다면 마다할 이유가 없어.
+NPC-Kalin(3)<Speaker>카리나</Speaker><通讯框>||:<color=#00CCFF>알겠습니다, 지휘관님의 판단을 믿을게요.</color>
+NPC-Kalin(3)<Speaker>카리나</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>페르시카 씨, 관측 권한을 부여했어요. 이제 저희의 전황 감시 채널에 동기화하실 수 있어요.</color>
+NPC-Kalin(3)<Speaker>지휘관</Speaker><通讯框>||:만약 의심스러운 정황이나 잠재적인 위험 요소를 발견하면 즉시 말씀해 주십시오.+하지만 최종 판단은 제가 내립니다. 괜찮으시겠죠?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>고마워, 지휘관. 나중에 꼭 보답할게.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框>||:그럼... 커피 한잔 대접해 주실 수 있겠습니까?
+NPC-Persica(1)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>응...?</color>
+NPC-Persica(1)<Speaker>지휘관</Speaker><通讯框>||:처음 뵈었을 때, 제게 커피 한잔 주겠다 하셨잖습니까.
+NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>아, 맞다... 이사까지 해서 까맣게 잊고 있었어.</color>
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>내 커피엔 설탕이 엄청 들어가는데, 괜찮겠어...?</color><c>그거 기대되는군요.<c>전 블랙커피를 선호하는데, 아쉽군요.
+NPC-Persica(2)<Speaker>지휘관</Speaker><通讯框>||<分支>1</分支>:그거 기대되는군요.
+NPC-Persica(1)<Speaker>페르시카</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>오... 지휘관도 단것 좋아해? 이거 새로운 발견인걸. 우리 서로 잘 맞겠어.</color>
+NPC-Persica(2)<Speaker>지휘관</Speaker><通讯框>||<分支>2</分支>:전 블랙커피를 선호하는데, 아쉽군요.
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>손님이라면 호스트의 규칙을 따라야지... 하지만 지휘관이니까, 특별히 예외로 해줄 수도 있어...</color>
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>그럼 약속한 거다...? 이번 일이 마무리되면, 내 연구실로 초대할게.</color>
+()||<BGM>BGM_Empty</BGM><黑屏2><BIN>197</BIN>:
+()||<SE1>MachineGunBurst</SE1>:탈린시, 대륙간 열차 정거장의 외곽.
+()||<BGM>BGM_Boss2</BGM><SE2>Gunfight</SE2>:정적을 깨는 한 발의 총성이 울려 퍼졌고, 탄환의 비가 그 뒤를 따랐다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:휴우! 방금은 아슬아슬했네! RO는 괜찮아?
+RO635(4)<Speaker>RO635</Speaker>||<SE1>Gunfight</SE1>:난 멀쩡해. 제길... 패러데우스는 안 보이지만, 여기 완전 자동 포탑투성이잖아!
+AR15Mod(0)<Speaker>AR15</Speaker>||:우리의 임무는 대륙간 열차가 무사히 팔디스키 기지까지 이동할 경로를 확보하는 건데.+저걸 내버려 뒀다간 열차는 도시를 통과하긴커녕 진입도 못 해... 적어도 철로 주변의 자동 포탑들만은 반드시 제거해야 해.
+RO635(0)<Speaker>RO635</Speaker>||:하지만 저 포탑들, 개중엔 보호막까지 달려 있어서 파괴하기 어려워.
+RO635(5)<Speaker>RO635</Speaker>||:이렇게 제압 사격 당하고 있다간 장애물 제거는커녕 우리까지 여기서 무사히 못 빠져나가! 중장비 부대의 화력 지원이 필요해!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:하지만 중장비 부대는 지휘관 쪽에 있는걸? 여기까지 오려면 시간이 걸릴 텐데.+아, RO 너 전자전 할 수 있잖아! 저것들 제어 시스템 해킹해서 통제권 뺏을 수는 없어?
+RO635(5)<Speaker>RO635</Speaker>||:말이야 쉽지... 저 포탑들, 워낙에 구식이라 자율 모드로 전환하면 바로 회선을 폐쇄해 버려.+시스템에 침투하려면 직접 제어 패널까지 가든지 인트라넷에 접속해야 한다고!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:으에... 그렇게 귀찮아?
+RO635(0)<Speaker>RO635</Speaker>||:어쩌겠어, 구시대의 구닥다리 시스템은 오히려 더 골치가 아픈걸...
+AR15Mod(0)<Speaker>AR15</Speaker>||:그래도 시도해 볼 만해. 우리가 포탑의 주의를 끄는 사이에, RO가 사각지대를 따라 이동해서 시스템을 무력화시키는 거야.+어때, M4? 괜찮은 계획이라 생각해?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:(침입할 수 있나요? 그럼 당신에게 맡기겠습니다.)
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...그럴 필요 없어요.
+AR15Mod(2)<Speaker>AR15</Speaker>||:뭐? 하지만 이대론――
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:모두, 무기 상태 확인하고 준비하세요. 오래는 못 버텨도, 제가 제어 시스템을 해킹해 마비시키겠습니다.+그 틈을 타서 단숨에 정거장으로 돌진하는 겁니다. 아시겠죠?
+RO635(3)<Speaker>RO635</Speaker>||:그런 일을 어떻게...
+AR15Mod(0)<Speaker>AR15</Speaker>||<SE1>AVG_weapon_reload</SE1>:쉿. RO, M4를 믿어. 모두 준비하고 신호 대기.
+M4A1Mod(4)<Speaker>M4A1</Speaker>||<SE2>AVG_tele_disconnect</SE2>:준비... 3, 2, 1... 지금이에요!
+()||:귀가 먹먹해질 정도로 거리를 뒤덮던 포화 소리가 뚝 멈췄다.
+()||:AR15가 돌멩이를 하나 던져 보았지만, 전혀 반응이 없었다. M4A1이 말한 대로 포탑들이 멈춘 것을 확인한 AR15는 앞장서서 달려 나갔다.
+AR15Mod(0)<Speaker>AR15</Speaker>||<黑点1><SE2>Runstep</SE2>:움직여! 정거장 내부로 돌진!
+()||<BIN>197</BIN><黑点2><SE1>Runstep</SE1><BGM>BGM_Empty</BGM>:아무런 방해도 받지 않고, 인형들은 단숨에 탈린 정거장 안으로 진입할 수 있었다.
+RO635(0)<Speaker>RO635</Speaker>||<BGM>BGM_Room</BGM>:믿을 수가 없어...! 그렇게 많은 자동 포탑들이 모조리...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:굉장해! 총을 쏴도 반격도 안 하더라!
+RO635(0)<Speaker>RO635</Speaker>||:저렇게 많은 포탑을 동시에 마비시키다니, 대체 어떻게 한 거예요 M4 씨?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:...마인드맵을 업그레이드하면서, 신형 모듈도 설치했습니다. 특히 전자전 방면으로 크게 강화됐어요.+AR팀의 대장으로서... 언제나 소대원들을 위험에 빠뜨릴 수는 없잖아요.
+AR15Mod(0)<Speaker>AR15</Speaker>||:잘했어, M4. 마인드맵에 크게 부담 가진 않았어?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:네... 걱정해 줘서 고마워요. 잠깐 쉬겠습니다. 숨 좀 돌리고, 머리도 식혀야겠어요.
+AR15Mod(0)<Speaker>AR15</Speaker>||:그것에 너무 의존하지 마.
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:네...
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:둘이서 소곤소곤 무슨 얘기 해?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:아... 아무것도 아니에요. 그것보다 RO, 조금 도와주시겠어요?+방금 포탑을 해킹할 때, 정거장 지하에서 데이터 교류가 활발한 네트워크 노드를 감지했습니다. 아마 그게 자율 방어 시스템의 중심핵일 거예요.+그걸 찾아내면, 탈린시 방위 시설의 메인 프레임에 접속할 수 있을 겁니다.
+RO635(0)<Speaker>RO635</Speaker>||:노드라... 당장 찾아볼게요.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:나도 같이 갈게! 물건 찾는 건 내 주특기라고!
+()||<黑屏2><BIN>46</BIN><Night>:
+RO635(0)<Speaker>RO635</Speaker>||<SE1>AVG_footsteps_cave</SE1>:으음... 노드... 컴퓨터나 단말기처럼 생긴 거 없나...
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:컴퓨터라면, 안내소의 저것 말이야?
+RO635(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:아, 정거장의 대륙간 철로 제어 콘솔이다. 이거면 될 거야.
+RO635(0);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:근데 있잖아, 아까 M4 무지 대단했지? 전자전으로 그런 일까지 할 수 있을 줄은 몰랐어! RO도 좀 보고 배워 봐!
+RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||<BGM>BGM_Empty</BGM>:<size=30>...그건 전자전이 아니었어.</size>
+RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Brain</BGM>:응? 그게 무슨 소리야?
+RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:기계 두세 대 정도를 동시에 해킹해서 조종하는 전자전이라면 나도 이해해.
+RO635(4)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod(0)||:하지만 아까처럼 수십 대나 되는 자동 포탑을 동시에 무력화시킨 건, 마치...+게다가 물리 접촉도 아니고, 지나 네트워크도 안 통하는 인트라넷에 침입한 거야. 아무리 생각해 봐도 이해가 되질 않아.
+RO635(4);M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그럼... M4가 거짓말을 했단 거야? 왜?
+RO635(3)<Speaker>RO635</Speaker>||:어쩌면... 거짓말이 아닐 수도 있지. 아마 M4 씨도 스스로 어떻게 해냈는지 제대로 설명하지 못할 거야. 아무튼, 복잡한 건 일이 다 끝난 후에 생각하자.+어디 보자, 이 녀석의 스위치는... 이건가?
+()||<黑屏1><SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:딸깍. 위이이이이잉...
+()|||<黑屏2><BIN>46</BIN>:정거장의 모든 조명에 불이 들어왔다. 몇 년은 족히 멈춰 있던 에어컨도 다시 작동하기 시작해, 수북이 쌓여 있던 먼지를 뱉어냈다.
+()||:고요했던 정거장의 지하는 이내 기계가 내는 소음으로 시끄러워졌다.
+RO635(3)<Speaker>RO635</Speaker>||<BGM>BGM_Room</BGM>:어, 이거 전력 공급 시스템도 멀쩡하네? 다행이다.+연결 개시, 검색... 대륙간 철로 방위 시스템... 찾았다. M4 씨, 들리세요?
+RO635(3);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>수신 감도 양호. 정거장의 로비에 조명이 들어왔는데, RO가 한 건가요?</color>
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:네. 도시의 방위 시설만이 아니라 모든 시설에 전력이 공급되고 있는 것 같아요. 설비도 너무 멀쩡한 게... 뭐랄까... 수십 년 동안 방치된 오염지대의 것이라기엔 믿기 어려울 정도로 멀쩡하게 작동하고 있어요.+마치... 도시가 버려진 이후에도 누군가가 계속 기반 시설을 관리해 온 것처럼요.
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>그렇군요... 격리벽의 제어 권한은 찾을 수 있나요?</color>
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:아뇨... 격리벽 관련 권한은 여기선 확인할 수 없습니다. 도시 외부 격리 시스템을 내부의 방위 시스템이랑 같이 둘 리는 없잖아요?
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>그건 그렇네요. 그럼, 철로 주변의 무인 방어 시설을 정지할 수는 있나요?</color>
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:여기서 제어 가능한 자동 포탑은 극히 일부입니다. 상당수의 방어 시설들이 여전히 오프라인 상태로 전력을 소모하고 있어요.+아무래도 활성화된 직후 중앙 통제 네트워크와의 연결을 끊고 자율 모드로 전환된 거 같습니다.
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>전원을 끌 수가 없다면... RO, 어디서 전력을 공급받고 있는지 검색해 주세요.</color>
+RO635(0)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:찾아볼게요... 아, 대부분이 탈린 교외에 위치한 발전소네요. 어떻게 하려고요?
+RO635(0);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>직접 정지할 수 없다면, 외부로부터의 전력 공급을 끊어버리겠습니다.</color>
+RO635(4)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:하지만 그렇게 해도 포탑은 예비 배터리가 탑재되어 있어서 곧바로 정지하진 않을 텐데요...+그대로 전력이 소진될 때까지 기다리는 편이 가장 안전하겠지만, 얼마나 걸릴지 알 수 없어요.
+RO635(4);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>전력 공급이 끊기게 되면, 소모가 큰 보호막은 함부로 전개할 수 없어요.</color>
+RO635(4);M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>그것만으로도 대폭 약화되는 셈이니, 우리가 직접 파괴할 수 있을 겁니다.</color>
+RO635(3)<Speaker>RO635</Speaker>;M4A1Mod(0)<通讯框>||:아하, 좋은 방법이네요.+그런데... 여기서 발전소까지 거리가 꽤 되네요. 그리고 지도를 보아하니 가는 길에도 대량의 방어 시설들이 산재되어 있어서...
+M4A1Mod(0)<Speaker>M4A1</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>걱정 마세요, 지휘관님께서 가장 든든한 지원군을 준비해 두셨으니까요.</color>
+()||<BGM>BGM_Empty</BGM><黑屏2><BIN>55</BIN>:
+()||<BGM>BGM_Reverse</BGM>:...탈린시 교외.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:응?+얘들아, 추가 임무가 내려왔어. 목표는 탈린 발전소의 파괴. 좌표 전송했으니까 확인해.
+G11(2)<Speaker>G11</Speaker>||:뭐어...? 이제 막 앉아서 좀 쉬나 했는데...
+HK416Mod(0)<Speaker>HK416</Speaker>||:여기서 죽치고 있으면서 녀석들이 전멸하는 걸 구경할 셈인 줄 알았더니?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:저들이 알아서 해결할 수 있는 일에 우리가 굳이 불필요한 위험을 무릅쓰고 나설 이유는 없어. 우리는 그저 보험일 뿐이야.+9, 폭약은 준비됐어?
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:응, 방금 열차에서 수송 드론이 출발했대. 5분 뒤면 폭약을 포함한 보급상자를 투하해 줄 거야.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:완벽해. 발전소로 이동하는 도중 분명 방어 시설들의 저항을 받을 거야. 어떻게 해야 하는지는 말 안 해도 다들 알지?+추가 수당이 붙는 거니까, 기운 내서 열심히 하자고.
+()||<黑屏1>:

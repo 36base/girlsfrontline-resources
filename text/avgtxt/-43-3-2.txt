@@ -1,64 +1,64 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<SE2>Gunfight</SE2><黑屏1><BGM>GF_xDivision_Scene2</BGM>:......
-()<Speaker></Speaker>||<黑屏2><BIN>167</BIN><Night>:Vector는 지하철역 안을 전속력으로 달리며, 충격 수류탄 2개로 마지막 남은 변절 요원을 마비시키고 탄창의 모든 총알을 퍼부었다.+총성의 메아리가 잦아들자, 방독면을 쓰고 거칠게 숨을 내쉬던 마지막 변절 요원은 마침내 바닥에 고꾸라졌다.
-Vector(0)<Speaker>Vector</Speaker>||:후우...
-K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>정말 잘했어, Vivi!</color>+<color=#00CCFF>우리한테 기다리라고만 안 했어도 당장 도와주러 갔을 텐데!</color>
-K5(0)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:손실을 이 이상 늘릴 수 없다 했잖아. 그리고 이 정도쯤은 나 혼자서 해결할 수 있어.
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>요원님, 지하철역 밖으로 이어지는 통로가 열렸습니다.</color>
-NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:......+디마, 우리의 목적지인 다크존은 온통 이런 적들뿐이야?
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>그들은... 절대 포기하지 않을 겁니다.</color>
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||:<color=#00CCFF>뭐야, 저것들보다 더 무서운 적이라도 있어?</color>
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>어... 그러니까, 이를 어떻게 설명해야 할지...</color>+<color=#00CCFF>맨해튼에 예상치 못한 이변이 발생했습니다. 전략국토부마저도 어찌할 도리가 없는... 막강한 위협이.</color>
-NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:시작하기 전에 게임 매뉴얼에서 더 강력한 적이 있단 문구를 봤어.+그렇다면 더욱 서둘러 합류해야겠네.
-K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>어떤 녀석이든 우리가 함께라면 아무 문제 없지!</color>+<color=#00CCFF>아무튼 빨리 와 Vivi, 나 기다리다 목 빠지겠어!</color>
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>요원님, 제가 제어실 컴퓨터를 원격 해킹해 경로상의 자동병기를 일부 무력화시켰습니다.</color>
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>적들이 눈치채지 못한 지금 바로 이탈하시기 바랍니다.</color>
-Vector(0)<Speaker>Vector</Speaker>||:알았어...
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>159</BIN><Night>:비상 통로를 타고 지면으로 나온 Vector의 눈에 들어온 것은, 무너진 고가도로의 폐허였다.+그리고 비탈진 지형 너머로, 하단 조명이 비추는 그랜드 센트럴 터미널 꼭대기의 시계가 희미하게 모습을 드러내고 있었다.
-Vector(0)<Speaker>Vector</Speaker>||:여기가, 그랜드 센트럴 터미널...
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>맨해튼 교통의 허브. 적어도 과거엔 그랬던 곳이죠.</color>+<color=#00CCFF>하아... 모든 일이 너무나도 순식간에 일어나서...</color>
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||:<color=#00CCFF>내 착각일지도 모르겠는데, 이 NPC 녀석 이상하게 감수성이 풍부한데?</color>
-K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>인간과 인형의 감수성도 마냥 똑같진 않으니까. 물론 쟤도 AI지만.</color>
-K5(0)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:시간이 된다면, 이 사람도 도와주고 싶어.
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||:<color=#00CCFF>V, Vivi?</color>
-K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>너 게임에 과몰입하는 타입은 아니지?</color>
-Vector(0)<Speaker>Vector</Speaker>||:그냥 이 사람의 기분을 잘 알 것 같아서...+어... 이상한가?
-K5(0)<Speaker>K5</Speaker><通讯框>||:<color=#00CCFF>그냥 공감하는 정도라면, 이 게임의 미션을 클리어하면 엔딩도 나올 거야.</color>+<color=#00CCFF>디마가 엔딩에서 어떻게 될진 몰라도, 우리가 골에 도착하는 게 걔를 돕는 일일걸?</color>
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>||:<color=#00CCFF>오오, 그렇게 들으니까 사명감이 생긴다.</color>
-K5(0)<Speaker>K5</Speaker><通讯框>||:<color=#00CCFF>그것도 나쁘지 않지. 이 매치에서 이기는 김에 맨해튼도 구하자고.</color>
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>여러분...</color>+<color=#00CCFF>정말 감사드립니다, 오랜 시간을 기다린 끝에 드디어 여러분 같은 정상적인 팀을 만나게 됐어요!</color>
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>||:<color=#00CCFF>풋, 얘 진짜 호들갑 떤다.</color>+<color=#00CCFF>그런데 왜 예감이 안 좋을까?</color>
-()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1><BGM>BGM_Empty</BGM>:경고. 높은 위험도의 적이 접근 중.
-K5(0)<Speaker>K5</Speaker><通讯框>||<SE1>AVG_The_Division_ISAC_Off</SE1>:<color=#00CCFF>야! 너 진짜 귀신이라도 씌었어?</color>
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>||:<color=#00CCFF>미안... 그냥 입 다물게...</color>
-Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_tele_disconnect</SE1>:뭔가 이상해.
-()<Speaker></Speaker>||:매번 무덤덤하던 ISAC의 알림이 이번에는 놀란 듯한 어조처럼 들려, Vector도 사뭇 다른 위기감을 느꼈다.+그리고 Vector가 엄폐물 뒤로 숨기가 무섭게, 터미널 쪽에서 여태까지 몸집이 우람하던 적들과는 다른 적이 나타났다.+자신과 비슷한 키에, 게임의 다른 NPC들과는 전혀 다른 이목구비를 한 적이었다.
-Vector(0)<Speaker>Vector</Speaker>||:저건... 인형?
-HK416(6)<Speaker>？？？</Speaker>||<BGM>GF_xDivision_Scene3</BGM>:......
-Vector(0)<Speaker>Vector</Speaker>||:하지만 한 번도 본 적 없는 얼굴인데.
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>요원님, 매우 위험한 적이 나타났습니다! 각별히 주의하세요!</color>
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>||:<color=#00CCFF>엑, 얼마나 위험하길래?</color>
-K5(0)<Speaker>K5</Speaker><通讯框>||:<color=#00CCFF>엄청 큰 돈이 걸린 게임이니 뭐가 나타나도 이상하진 않겠지.</color>+<color=#00CCFF>그런데 저 녀석, 옷차림이랑 인상이 좀 위화감이 드는데?</color>
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>아니 아니, 그게 중요한 게 아닙니다!</color>+<color=#00CCFF>저 놈의 전투력은 지금까지의 적과는 차원이 달라요! 신중에 신중을 기해 대응해야 합니다!</color>+<color=#00CCFF>아, 물론... 아예 해치울 수 있다면 좋겠지만...</color>
-NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:내가 저 녀석을 해치우길 원하는 말투인걸.
-NPC-Dima(2)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>아오 이걸 어떻게 설명해야 하지...</color>
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>아, 잠깐만요! 지금 그쪽으로 더 많은 적이 나타났어요!</color>
-()<Speaker></Speaker>||:왠지 디마가 황급히 말을 돌리는 것 같았지만, 확실히 저 상대의 주위로 더 많은 AI 적들이 나타났다.+저렇게 부대를 이루고 오는 적을 보자, Vector도 상당한 위화감이 느껴졌다.
-HK416(6)<Speaker>？？？</Speaker>||:녀석은 분명 이 근처에 있어. 사각지대에 주의하면서 전진.
-HK416(6)<Speaker>？？？</Speaker>||:그 생쥐 녀석이 언제까지 숨어있을 수 있는지, 어디 한번 보자고.
-Vector(0)<Speaker>Vector</Speaker>||:저건... LMB?+LMB는 플레이어에게 적대적인데, 왜 저 인형과 함께...
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||:<color=#00CCFF>그거 정말 이상하네, 좋은 징조가 아니야.</color>
-K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>길조든 흉조든 더는 못 참아! Vivi, 거기서 꼼짝 말고 기다려! 지금 도와주러 갈게!</color>
-K5(0)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:난 괜찮으니까 너흰 거기 가만히 있어.
-K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>저렇게 많은데 어떻게 너 혼자 괜찮아!</color>
-Vector(0)<Speaker>Vector</Speaker>||:어차피 너희와 합류하려면 저 앞을 지나야 해. 가로막는 장애물은 제거할 수밖에.
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>저기, 요원님? 여기선 동료들의 조언을 따르는 게 옳다고 봅니다. 진심으로요.</color>+<color=#00CCFF>역시 팀을 이뤄 저 녀석을 상대하는 것이...</color>
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:......
-K5(0)<Speaker>K5</Speaker><通讯框>||:<color=#00CCFF>우왓?! R93! 적습이야!</color>
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>||:<color=#00CCFF>이런... Vivi, 우리 쪽도 습격당했어!</color>
-NPC-Dima(3)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>뭣?! 그 녀석들이잖아... 제길, 왜 하필 이런 때에!</color>
-Vector(0)<Speaker>Vector</Speaker>||:모두, 생존을 우선으로! 무리한 싸움은 반드시 피해!
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:거의 동시에, 적의 "하수인"이 숨어있던 Vector를 발견하고 고함을 지르며 공격했다.+그리고 그 소리를 들은 다른 적들도 Vector를 포위하려고 움직이기 시작했다.
-Vector(0)<Speaker>Vector</Speaker>||:같은 타이밍에 공격이라니... 적이 사전에 계획한 건가.+드디어 진짜 강적을 만난 모양이네.
-()||<黑点1><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<SE2>Gunfight</SE2><黑屏1><BGM>GF_xDivision_Scene2</BGM>:......
+()<Speaker></Speaker>||<黑屏2><BIN>167</BIN><Night>:Vector는 지하철역 안을 전속력으로 달리며, 충격 수류탄 2개로 마지막 남은 변절 요원을 마비시키고 탄창의 모든 총알을 퍼부었다.+총성의 메아리가 잦아들자, 방독면을 쓰고 거칠게 숨을 내쉬던 마지막 변절 요원은 마침내 바닥에 고꾸라졌다.
+Vector(0)<Speaker>Vector</Speaker>||:후우...
+K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>정말 잘했어, Vivi!</color>+<color=#00CCFF>우리한테 기다리라고만 안 했어도 당장 도와주러 갔을 텐데!</color>
+K5(0)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:손실을 이 이상 늘릴 수 없다 했잖아. 그리고 이 정도쯤은 나 혼자서 해결할 수 있어.
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>요원님, 지하철역 밖으로 이어지는 통로가 열렸습니다.</color>
+NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:......+디마, 우리의 목적지인 다크존은 온통 이런 적들뿐이야?
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>그들은... 절대 포기하지 않을 겁니다.</color>
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||:<color=#00CCFF>뭐야, 저것들보다 더 무서운 적이라도 있어?</color>
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>어... 그러니까, 이를 어떻게 설명해야 할지...</color>+<color=#00CCFF>맨해튼에 예상치 못한 이변이 발생했습니다. 전략국토부마저도 어찌할 도리가 없는... 막강한 위협이.</color>
+NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:시작하기 전에 게임 매뉴얼에서 더 강력한 적이 있단 문구를 봤어.+그렇다면 더욱 서둘러 합류해야겠네.
+K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>어떤 녀석이든 우리가 함께라면 아무 문제 없지!</color>+<color=#00CCFF>아무튼 빨리 와 Vivi, 나 기다리다 목 빠지겠어!</color>
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>요원님, 제가 제어실 컴퓨터를 원격 해킹해 경로상의 자동병기를 일부 무력화시켰습니다.</color>
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>적들이 눈치채지 못한 지금 바로 이탈하시기 바랍니다.</color>
+Vector(0)<Speaker>Vector</Speaker>||:알았어...
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>159</BIN><Night>:비상 통로를 타고 지면으로 나온 Vector의 눈에 들어온 것은, 무너진 고가도로의 폐허였다.+그리고 비탈진 지형 너머로, 하단 조명이 비추는 그랜드 센트럴 터미널 꼭대기의 시계가 희미하게 모습을 드러내고 있었다.
+Vector(0)<Speaker>Vector</Speaker>||:여기가, 그랜드 센트럴 터미널...
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>맨해튼 교통의 허브. 적어도 과거엔 그랬던 곳이죠.</color>+<color=#00CCFF>하아... 모든 일이 너무나도 순식간에 일어나서...</color>
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||:<color=#00CCFF>내 착각일지도 모르겠는데, 이 NPC 녀석 이상하게 감수성이 풍부한데?</color>
+K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>인간과 인형의 감수성도 마냥 똑같진 않으니까. 물론 쟤도 AI지만.</color>
+K5(0)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:시간이 된다면, 이 사람도 도와주고 싶어.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||:<color=#00CCFF>V, Vivi?</color>
+K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>너 게임에 과몰입하는 타입은 아니지?</color>
+Vector(0)<Speaker>Vector</Speaker>||:그냥 이 사람의 기분을 잘 알 것 같아서...+어... 이상한가?
+K5(0)<Speaker>K5</Speaker><通讯框>||:<color=#00CCFF>그냥 공감하는 정도라면, 이 게임의 미션을 클리어하면 엔딩도 나올 거야.</color>+<color=#00CCFF>디마가 엔딩에서 어떻게 될진 몰라도, 우리가 골에 도착하는 게 걔를 돕는 일일걸?</color>
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>||:<color=#00CCFF>오오, 그렇게 들으니까 사명감이 생긴다.</color>
+K5(0)<Speaker>K5</Speaker><通讯框>||:<color=#00CCFF>그것도 나쁘지 않지. 이 매치에서 이기는 김에 맨해튼도 구하자고.</color>
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>여러분...</color>+<color=#00CCFF>정말 감사드립니다, 오랜 시간을 기다린 끝에 드디어 여러분 같은 정상적인 팀을 만나게 됐어요!</color>
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>||:<color=#00CCFF>풋, 얘 진짜 호들갑 떤다.</color>+<color=#00CCFF>그런데 왜 예감이 안 좋을까?</color>
+()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1><BGM>BGM_Empty</BGM>:경고. 높은 위험도의 적이 접근 중.
+K5(0)<Speaker>K5</Speaker><通讯框>||<SE1>AVG_The_Division_ISAC_Off</SE1>:<color=#00CCFF>야! 너 진짜 귀신이라도 씌었어?</color>
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>||:<color=#00CCFF>미안... 그냥 입 다물게...</color>
+Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_tele_disconnect</SE1>:뭔가 이상해.
+()<Speaker></Speaker>||:매번 무덤덤하던 ISAC의 알림이 이번에는 놀란 듯한 어조처럼 들려, Vector도 사뭇 다른 위기감을 느꼈다.+그리고 Vector가 엄폐물 뒤로 숨기가 무섭게, 터미널 쪽에서 여태까지 몸집이 우람하던 적들과는 다른 적이 나타났다.+자신과 비슷한 키에, 게임의 다른 NPC들과는 전혀 다른 이목구비를 한 적이었다.
+Vector(0)<Speaker>Vector</Speaker>||:저건... 인형?
+HK416(6)<Speaker>？？？</Speaker>||<BGM>GF_xDivision_Scene3</BGM>:......
+Vector(0)<Speaker>Vector</Speaker>||:하지만 한 번도 본 적 없는 얼굴인데.
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>요원님, 매우 위험한 적이 나타났습니다! 각별히 주의하세요!</color>
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>||:<color=#00CCFF>엑, 얼마나 위험하길래?</color>
+K5(0)<Speaker>K5</Speaker><通讯框>||:<color=#00CCFF>엄청 큰 돈이 걸린 게임이니 뭐가 나타나도 이상하진 않겠지.</color>+<color=#00CCFF>그런데 저 녀석, 옷차림이랑 인상이 좀 위화감이 드는데?</color>
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>아니 아니, 그게 중요한 게 아닙니다!</color>+<color=#00CCFF>저 놈의 전투력은 지금까지의 적과는 차원이 달라요! 신중에 신중을 기해 대응해야 합니다!</color>+<color=#00CCFF>아, 물론... 아예 해치울 수 있다면 좋겠지만...</color>
+NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:내가 저 녀석을 해치우길 원하는 말투인걸.
+NPC-Dima(2)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>아오 이걸 어떻게 설명해야 하지...</color>
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>아, 잠깐만요! 지금 그쪽으로 더 많은 적이 나타났어요!</color>
+()<Speaker></Speaker>||:왠지 디마가 황급히 말을 돌리는 것 같았지만, 확실히 저 상대의 주위로 더 많은 AI 적들이 나타났다.+저렇게 부대를 이루고 오는 적을 보자, Vector도 상당한 위화감이 느껴졌다.
+HK416(6)<Speaker>？？？</Speaker>||:녀석은 분명 이 근처에 있어. 사각지대에 주의하면서 전진.
+HK416(6)<Speaker>？？？</Speaker>||:그 생쥐 녀석이 언제까지 숨어있을 수 있는지, 어디 한번 보자고.
+Vector(0)<Speaker>Vector</Speaker>||:저건... LMB?+LMB는 플레이어에게 적대적인데, 왜 저 인형과 함께...
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||:<color=#00CCFF>그거 정말 이상하네, 좋은 징조가 아니야.</color>
+K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>길조든 흉조든 더는 못 참아! Vivi, 거기서 꼼짝 말고 기다려! 지금 도와주러 갈게!</color>
+K5(0)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:난 괜찮으니까 너흰 거기 가만히 있어.
+K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>저렇게 많은데 어떻게 너 혼자 괜찮아!</color>
+Vector(0)<Speaker>Vector</Speaker>||:어차피 너희와 합류하려면 저 앞을 지나야 해. 가로막는 장애물은 제거할 수밖에.
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>저기, 요원님? 여기선 동료들의 조언을 따르는 게 옳다고 봅니다. 진심으로요.</color>+<color=#00CCFF>역시 팀을 이뤄 저 녀석을 상대하는 것이...</color>
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:......
+K5(0)<Speaker>K5</Speaker><通讯框>||:<color=#00CCFF>우왓?! R93! 적습이야!</color>
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>||:<color=#00CCFF>이런... Vivi, 우리 쪽도 습격당했어!</color>
+NPC-Dima(3)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>뭣?! 그 녀석들이잖아... 제길, 왜 하필 이런 때에!</color>
+Vector(0)<Speaker>Vector</Speaker>||:모두, 생존을 우선으로! 무리한 싸움은 반드시 피해!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:거의 동시에, 적의 "하수인"이 숨어있던 Vector를 발견하고 고함을 지르며 공격했다.+그리고 그 소리를 들은 다른 적들도 Vector를 포위하려고 움직이기 시작했다.
+Vector(0)<Speaker>Vector</Speaker>||:같은 타이밍에 공격이라니... 적이 사전에 계획한 건가.+드디어 진짜 강적을 만난 모양이네.
+()||<黑点1><BIN>10</BIN>:

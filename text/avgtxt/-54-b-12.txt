@@ -1,0 +1,100 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BGM>m_avg_labyrinth</BGM>:칠흑 같은 어둠.+시각, 청각, 촉각이 모두 사라졌다.+눈 앞엔 오로지 끝없는 어둠이 매기를 단단히 죄어왔다.+익숙하고도 기이한 고요함이었다.+매기는 자조하듯이 웃었다.
+ColtWalker(1)<Speaker>매기</Speaker>||:...매너하고는. 친구하고 얘기 나누던 중인데 이딴 식으로 끊으면 안 되는 거 아닙니까.
+()||:자신의 목소리조차 들리지 않았지만, 매기는 아랑곳하지 않고 어둠 속에서 목소리를 냈다.
+()<Speaker>타레우스</Speaker>||:...넌 우릴 배신했어.
+()||<SE1>Heartbeat</SE1>:그 목소리는 청각 시스템을 통해 매기의 귀에 들어온 것이 아니라, 그녀의 심장을 두드리는 것처럼 들렸다.
+ColtWalker(1)<Speaker>매기</Speaker>||<SE1>Stop_AVG_loop</SE1>:이봐요이봐요, 그건 억울하네요.+제 기억이 맞다면 우리 거래는 이미 다 끝났잖아요. 그 소련 요원을 찾아내 드리지 않았습니까?
+()<Speaker>타레우스</Speaker>||:그럴듯하게 꾸며내 봐야 소용없어.+그자의 위치를 말해.
+()||<SE1>Rope</SE1>:상대의 노여움이 또렷하게 느껴졌다, 매기의 의식은 마치 누군가의 손 안에 잡혀 주물러지는 듯했다.+마인드맵에 격통이 흘렀지만, 매기는 여전히 거래할 때의 영업용 미소를 유지했다.
+ColtWalker(1)<Speaker>매기</Speaker>||:그건 별도 요금을 내셔야죠.+요금만 내신다면야 서비스를 제공해드릴 수 있죠.
+()<Speaker>타레우스</Speaker>||:내놔.
+()||:타레우스는 잠깐 망설였고, 매기는 몸의 구속이 살짝 느슨해진 것을 느꼈다.
+ColtWalker(1)<Speaker>매기</Speaker>||:콜록, 바로 여기에 있습니다~
+()||<SE1>AVG_The_Division_Burning_Stick</SE1>:하얀 빛 알갱이가 매기의 손에서 떠올랐다.+그 알갱이는 천천히 타레우스에게 다가가며, 자기를 만지라고 유혹하는 것처럼 반짝거렸다.+타레우스가 손을 내밀어 그 알갱이에 닿으려 할 때, 가벼운 웃음소리가 새어나왔다.
+ColtWalker(1)<Speaker>매기</Speaker>||<SE1>Stop_AVG_loop</SE1><BGM>BGM_Empty</BGM><SE2>AVG_Scene_Transfer</SE2>:신통방통 유령의 집에 어서 오십쇼~
+()||<黑屏1><BGM>GF_22W_BGM_1</BGM><common_effect>%%code=AVG_chuxian_yan%%</common_effect>:
+()||<黑屏2><BIN>9</BIN><narrator>:머리 위엔 천국 대신 지옥이 보여요+크리스탈 잔에 가득 찬 데킬라 위로+영혼의 본래 모습이 떠오르네요+반짝이는 액체가 혈관을 씻어내려요+쾌락을 내려놓고, 슬픔을 내려놓고+광기를 내려놓고, 침묵을 내려놓고
+()||<黑屏1>:
+()||<黑屏2><BIN>282</BIN>:
+()<Speaker>매기</Speaker>||:이곳을 배회하는 망령들이여, 내 마음의 소리를 듣고, 나의 부름에 응답하라...
+()||<SE1>AVG_Chimes</SE1>:딸랑...+맑은 방울 소리가 울리면서 불꽃이 춤을 추었다.+타레우스는 극장 중앙에 앉아 있고, 눈앞의 무대 위에선 뮤지컬이 공연 중이었다.+아리따운 성악가가 감정을 가득 담아 매혹적인 가사를 한 소절씩 불렀다——
+NPC-Passadou(0)<Speaker>슬픈 성악가</Speaker>||:"잠결에 그가 내게 노래하고"+"꿈속에서 내 곁으로 다가오네"+"나를 부르고, 내 이름을 말하는 그 목소리"+"내가 또 꿈을 꾸는 걸까?"+"이제 난 알았어"+"오페라의 유령은 있다네"+"내 마음속에"
+()||<SE1>AVG_Fire_Bonfire</SE1>:성악가는 감정 넘치는 눈으로 타레우스를 바라보았다. 불꽃이 그녀의 치맛자락을 핥으며 뱀처럼 극장을 서서히 휘감았다.
+NPC-Passadou(0)<Speaker>슬픈 성악가</Speaker>||<SE1>Stop_AVG_loop</SE1>:"나와 다시 한번 노래해 주오"+"우리의 기묘한 듀엣을"+"그대를 향한 나의 힘은"+"점점 강해져 가고"
+NPC-Tareus(3)<Speaker>타레우스</Speaker>||:...닥쳐.
+()||<SE1>AVG_Shield_Startup</SE1>:손바닥 위로 부유탄이 뭉쳐져, 눈부신 별처럼 빛나며 내쏘아졌다. 감수성을 모르는 병사가 유채화를 찢어버리듯이.
+()||<SE1>AVG_The_Division_Flare_Gun</SE1>:빛의 탄환은 성악가의 아름다운 얼굴을 찢어발겼다.+마치 불꽃에 삼켜지는 유채화처럼 성악가의 얼굴이 점점 녹아내렸다.
+ColtWalker(1)<Speaker>매기</Speaker>||:손님께 드리는 블러디 메리입니다. 맛있게 즐겨주십쇼.
+()||:신선한 붉은 빛이 감도는 술잔이 그녀의 손에 생겨나더니 그대로 바닥에 떨어졌다.+하늘까지 치솟은 불의 빛깔은 피처럼 붉은색이 됐고, 무대 위의 매기는 어느새 모습을 감추었다.
+()||<SE1>AVG_21Winter_Ink_Drop_Single</SE1>:뚝——
+()||:타레우스가 냉소를 지었다.
+NPC-Tareus(3)<Speaker>타레우스</Speaker>||:...어리석어.
+()||<SE1>AVG_Grey_Hand_Mech</SE1>:부유포 하나가 또다시 손에서 떠올라 그대로 앞에 있는 핏빛 극장에 들이박았다.
+()||<SE1>AVG_The_Division_Flare_Gun</SE1>:콰앙!
+()||<黑屏1>:
+()||<黑屏2><BIN>9</BIN><SE1>AVG_Broken_Glass</SE1>:극장은 모자이크처럼 산산조각났고, 그 조각들이 바닥이 안 보이는 레벨 2 플랫폼에 온통 떠다녔다.+눈앞이 온통 핏빛이었다.
+()||<SE1>ClothingUp</SE1>:피가 타레우스의 얼굴을 타고 흘러내렸다. 그녀는 얼굴의 피를 훔쳐 한 입 핥아보았다.
+NPC-Tareus(3)<Speaker>타레우스</Speaker>||:피의 맛은 전혀 재현하지 않았네.+매기, 넌 정말 시대에 뒤떨어졌어.
+()<Speaker>매기</Speaker>||:아, 그런가요?
+()||<SE1>AVG_Chimes</SE1>:딸랑...+다시 맑은 방울 소리가 울렸다.
+()||<黑屏1><common_effect>%%code=AVG_chuxian_yan%%</common_effect>:
+()||<黑屏2><BIN>9</BIN><narrator>:폭스는 데킬라를 집었어요+심장과 폐가 불붙은 것처럼 타들어가요+거짓말과 욕망이 한데 모여 뒤섞이고+악마는 천사의 가면을 쓰고 미소짓지요
+()||<黑屏1>:
+()||<黑屏2><BIN>139</BIN><SE1>AVG_20Winter_Bar_Cheering_V2</SE1>:타레우스의 눈 앞엔 다시 새로운 빛깔들이 나타났다. 이번엔 호화로운 카지노 안이었다.+가지각색의 얼굴들이 옆을 지나갔다. 진한 향수 냄새, 매캐한 시가 냄새, 그리고 카지노 특유의 향기...+시끌벅적한 한가운데서 그녀는 손 안에 트럼프 카드를 쥐고 있었다.
+()||<SE1>DealCards</SE1>:카드를 뒤집어 무늬를 보았다.+스페이드K.
+NPC-Tareus(3)<Speaker>타레우스</Speaker>||:...매기, 난 지금 인내심이 바닥나기 직전이야.
+()||<SE1>ClothingUp</SE1>:그녀는 자리에서 일어섰다.
+NPC-Maid(0)<Speaker>웨이터</Speaker>||:타레우스 씨, 아직 이번 판은 안 끝났습니다만?
+NPC-Tareus(3)<Speaker>타레우스</Speaker>||:저리 꺼져!
+()||<SE1>AVG_Shield_Startup</SE1>:콰직콰직——+타레우스가 손을 뻗자 카지노 안의 의자들이 한 곳에 모였다...
+NPC-Oldartist(0)<Speaker>딜러</Speaker>||:타레우스 씨... 어느 쪽에 베팅하시겠습니까?
+()||<SE1>AVG_Door_Hit</SE1>:콰앙——!+타레우스가 의자들을 조종해 미소짓는 딜러에게 포탄처럼 발사했다.
+NPC-PasserbyF(0)<Speaker>웨이터</Speaker>||:타레우스 씨, 주사위는 이미 던져졌습니다...
+()||<SE1>AVG_Broken_Glass</SE1>:촤악——!+웨이터의 얼굴이 갈기갈기 찢어졌다.
+NPC-Bodyguard2(0)<Speaker>경비원</Speaker>||:타레우스 씨, 도박에 진 사람은 여기서 평생 나갈 수 없습니다.
+()||<SE1>AVG_XXS_kick</SE1>:퍼엉——!
+()||<SE1>AVG_XXS_kick</SE1>:쿵, 쿵, 쿵...+타레우스는 온몸에서 살기를 뿜으며 뒤도 안 돌아보고 구석에 숨어있는 소녀에게 다가갔다.
+NPC_baolan(4)<Speaker>소녀</Speaker>||:타레우스 씨, 여기 엄청 재밌는 스파클링 와인이 있어요. 이름이 '알리마마와 40인의 술꾼'이래요.+한 입 맛보실래요?
+NPC-Tareus(3)<Speaker>타레우스</Speaker>||:매기, 넌 니토의 개조를 뭐라고 생각하지?
+NPC_baolan(4)<Speaker>매기</Speaker>||:악마의 선물.
+NPC-Tareus(3)<Speaker>타레우스</Speaker>||:아니, 저승사자야.
+()||<SE1>AVG_Creep</SE1>:매기는 몸을 굴려 두꺼운 카지노 테이블 밑에 숨어, 테이블을 엄폐물로 삼으며 정문 쪽으로 포복 전진했다.
+()||<SE1>AVG_lifttable</SE1>:콰콰쾅——!+무거운 물건들이 우박처럼 테이블에 쏟아졌다.
+()||<SE1>AVG_21Winter_Medicine_Bottle</SE1>:매기가 주사위를 한 움큼 던지자, 그 순간 모든 빛깔이 타레우스의 눈앞에서 빠르게 멀어져가며 모든 물체의 형체가 무너져내렸다...
+()||<SE1>AVG_Chimes</SE1>:딸랑...+또 다시 맑은 방울 소리가 울렸다.
+()||<黑屏1><common_effect>%%code=AVG_chuxian_yan%%</common_effect>:
+()||<黑屏2><BIN>9</BIN><narrator>:여기 데킬라 두 잔 주세요+한 잔은 사탄을 위하여, 한 잔은 나를 위하여
+()||<黑屏1>:
+()||<睁眼><BIN>321</BIN>:어둠 속에서 타레우스가 천천히 눈을 떴다.+구역질을 일으키는 고약한 냄새가 코를 찔러 반사적으로 눈살이 찌푸려졌다.
+()||<SE1>AVG_Water_Drip</SE1>:똑... 똑...+미세한 물방울 소리 속에 타레우스 눈앞의 풍경이 점점 선명해졌다.
+NPC-Tareus(3)<Speaker>타레우스</Speaker>||<SE1>Stop_AVG_loop</SE1>:...내가 널 너무 오냐오냐 해줬구나.
+()||:그곳은 한 버려진 공장이었다.+패러데우스의 공장.+모든 니토의 가장 깊은 곳에 숨겨진 처음의 기억.+돌아가는 컨베이어 벨트 위에, 썩어가며 끔찍한 냄새를 풍기는 시체들이 잔뜩 놓여 있는...+니토의 원재료 생산소였다.
+NPC-Tareus(3)<Speaker>타레우스</Speaker>||:매기... 이번엔 시체 더미에 숨을 생각이야?
+()||<SE1>AVG_Jet_Speedup</SE1>:컨베이어 벨트 위... 시체 더미 속에서 커다란 위저 보드가 두둥실 떠올랐다.+이어서 허공에 포인터가 나타났다.
+()||<SE1>AVG_Creep</SE1>:슥, 슥, 슥.+포인터가 말판 위에서 천천히 움직였다——+YES / NO+포인터가 두 대답 사이를 번갈아 가리켰다.+"미스 이브."
+()||<BGM>BGM_Empty</BGM><SE1>AVG_Breathing</SE1>:그 순간 타레우스의 숨소리가 거칠어졌다.
+NPC-Tareus(3)<Speaker>타레우스</Speaker>||:...매기, 해냈구나.
+()||<SE1>AVG_Shield_Startup</SE1>:지지지직...
+()||<SE1>AVG_Robots_Floor</SE1>:쿠웅——!
+NPC-Tareus(4)<Speaker>타레우스</Speaker>||<BGM>GF_22W_SFX_chant</BGM>:타레우스의... 나의 진정한 모습을 보게 된 걸 축하해.
+()||<SE1>AVG_Grey_Hand_Mech</SE1>:이번 부유포는 하나둘씩 나타난 것이 아니라 아예 타레우스의 뒤에 포탄의 벽을 세웠다.
+()||<SE1>AVG_The_Division_Flare_Gun</SE1>:펑!
+()||<SE1>AVG_The_Division_Flare_Gun</SE1>:퍼엉!!
+()||<SE1>AVG_The_Division_Flare_Gun</SE1>:퍼어엉!!!
+()||:컨베이어 벨트 위의 시체들이 서서히 녹아내려 하나의 인형이 되었다.
+ColtWalker(1)<Speaker>매기</Speaker>||:......+지금이라도 항복해도 될까?
+NPC-Tareus(4)<Speaker>타레우스</Speaker>||:...될 것 같아?
+ColtWalker(1)<Speaker>매기</Speaker>||:...난 이제 낼 카드가 없어. 류드밀라가 어디 있는진 정말로 몰라.+걔가 신호를 완전히 죽여버렸어.
+NPC-Tareus(4)<Speaker>타레우스</Speaker>||:그걸 내가 믿을 거라 생각해?
+ColtWalker(1)<Speaker>매기</Speaker>||:...정말이야, 황금보다도 진실한 말이야.
+()||:타레우스는 더 이상 기다려 주지 않았다. 공장이 통째로 일그러졌다.
+()||<SE1>AVG_The_Division_Flare_Gun</SE1><BGM>BGM_Empty</BGM>:허공에 떠오른 부유탄들이 모두 매기에게 날아들었다.
+ColtWalker(1)<Speaker>매기</Speaker>||:...이번 건 진짜 목숨을 건 장사구만.
+()||:매기는 눈을 감았다.
+()||<SE1>AVG_Rifle</SE1><BGM>GF_2022_Summer_AVG_3</BGM>:타앙!+침착한 총소리.
+()||<SE1>AVG_Bullte_Ricochet</SE1>:총탄은 타레우스의 기계팔에 명중했지만 그대로 튕겨나가 바닥에 떨어졌다.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:아직 포기할 때가 아니다.
+ColtWalker(4)<Speaker>매기</Speaker>||:댁이 여긴 왜 왔어?
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:전투력 5짜리한테 어떻게 일을 끝까지 맡기겠나.
+()||<黑屏1>:

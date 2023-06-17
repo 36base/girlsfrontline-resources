@@ -1,98 +1,98 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>389</BIN><BGM>10065</BGM>:그리폰 기지 인근... 앞장 서 달려간 유리네 일행은 순식간에 ELID 무리에게 포위되었다.
-()<Speaker>메두사</Speaker>||:어떡하지, 좀비가 이렇게나 많이...
-()<Speaker>미노스</Speaker>||:걱정 마 메두사! 나랑 유리네가 있잖아!
-()<Speaker>유리네</Speaker>||:너흰 나서지 않아도 돼.
-()<Speaker>유리네</Speaker>||<SE1>VO_Yurine_LOWMOOD_JP</SE1>:이 좀비들은... 히히히... 전부 나한테 맡겨... 히히히...
-()<Speaker>미노스</Speaker>||:어... 정말 혼자서 괜찮겠어?
-()<Speaker>유리네</Speaker>||<黑屏1>:미노스는 메두사를 잘 지켜.+간다――+현세를 떠도는 길잃은 망령들이여...+어둠으로 돌아가라아아아...!
-()||<黑屏2><BIN>8</BIN><BGM>BGM_Empty</BGM>:반면, 기지 창가에 웅크린 채로 구경만 하며 감히 나서지 못하는 이들도 있었다.
-K5(0)<Speaker>K5</Speaker>||:저게 유리네의 실력이라고?+저기 지휘관, 쟤 인간 맞지? 인형보다 더 무시무시한데?
-BOSS-8(0)<Speaker>에이전트</Speaker>||:저런 터무니없는 실력을 지니고서 "지극히 평범한 여대생"을 자칭하다니. 비밀이 많은 모양이옵니다.
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:지휘관님... 저 사람... 혼자서 ELID 무리를...!
-()<Speaker>지휘관</Speaker>||:그래, 나도 똑똑히 봤어.
-()||<BGM>m_avg_casual</BGM>:이미 유리네의 전투 데이터를 전부 기록으로 남긴 지휘관도, 떨리는 손으로 전술지휘 태블릿을 꽉 쥐었다.+"경이로움". 이것 외에 형용할 단어가 떠오르지 않았다.
-()<Speaker>지휘관</Speaker>||:<color=#A9A9A9>처음 본다는 ELID를 상대로 이 정도 전적... 말 그대로 "비현실적"이야. 엄청난 인재로군.</color>+<color=#A9A9A9>어떤 식으로든 그리폰에 협력해 준다면 정말 든든할 텐데...</color>
-Minosu(0)<Speaker>미노스</Speaker>||:지휘관! 위험한 건 다 유리네가 해결했으니까 이 기지 견학시켜 줘!
-()<Speaker>지휘관</Speaker>||:얼마든지 시켜 줄 순 있는데, 저... 유리네를 혼자 놔둬도 되는 거니?
-Medusa(2)<Speaker>메두사</Speaker>||:신나서 날뛰는 중이라 지금 가까이 가면 위험해...
-()||:지휘관의 머릿속에, 유리네가 단신으로 ELID 무리에 뛰어들던 모습이 다시 떠올랐다.
-()<Speaker>지휘관</Speaker>||:에이전트, 여기서 유리네를 지켜보도록. 나는 얘네한테 기지 견학을 시켜 줘야겠어.+유리네가 진정되면 즉시 연락 줘.
-BOSS-8(0)<Speaker>에이전트</Speaker>||:명을 받드나이다.
-Minosu(0)<Speaker>미노스</Speaker>||:아싸~!
-Pekora(0)<Speaker>페코라</Speaker>||:페, 페코라는 악마의 소굴을 구경할 마음 없어요!
-Minosu(0)<Speaker>미노스</Speaker>||:에이, 같이 가자~ 여기까지 왔는데 마음껏 구경 안 하면 아깝지!
-()||:미노스는 한손에는 메두사의 손을, 다른 한손으로는 페코라를 집어 들고 싱글벙글해하며 지휘관의 뒤를 따랐다.+에이전트는 의자를 하나 가져와, 여전히 자신만의 세상에 빠져 있는 유리네와 적당히 거리를 두고 앉았다.
-Yurine(3)<Speaker>유리네</Speaker>||<黑屏1><BGM>BGM_Empty</BGM><SE1>VO_Yurine_LOWMOOD_JP</SE1>:좀비... 킥킥킥...+찢고 죽인......+으윽...+배가...
-Yurine(0)<Speaker>유리네</Speaker>||<黑屏2><BIN>385</BIN><边框>2</边框><common_effect>%%code=CJ_rain%%</common_effect><BGM>GF_Jyashinchan_Story_JSC</BGM>:여긴... 진보초?+나, 돌아온 건가?
-()||<边框>2</边框><SE1>AVG_wind_grass</SE1>:아무도 유리네의 의문에 대답하지 않았다.+평소였다면 한창 북적일 시간인 거리엔 문자 그대로 아무도 없었고, 바람에 하얀 비닐 봉지 하나가 유리네의 앞을 굴러갈 뿐이었다.
-Yurine(0)<Speaker>유리네</Speaker>||<边框>2</边框><黑点1>:......+사신짱...
-()||<边框>2</边框><关闭蒙版><黑点2><BIN>380</BIN>:유리네가 쥐죽은듯 조용해진 뽑기 가게에 들어서 보니, 바닥에 뜯은 캡슐 껍데기가 잔뜩 버려져 있었다.+하지만 그 광경에 있어야 할, 바닥에 엎드려 자신이 뽑은 전리품을 감상하는 뱀꼬리 소녀의 모습은 없었다.
-Yurine(0)<Speaker>유리네</Speaker>||<边框>2</边框><黑点1>:츠치노코가...+납작하게 뭉개져 있어...
-()||<common_effect>%%code=CJ_rain%%</common_effect><黑点2><BIN>385</BIN><边框>2</边框>:빠칭코, 카레라이스 전문점, 생딸기 주스 바...+사신짱이 자주 가던 곳을 전부 들러보았지만, 그녀는 어디에도 없었다.
-Yurine(0)<Speaker>유리네</Speaker>||<边框>2</边框>:사신짱, 대체 어딜 간 거지?
-()||<边框>2</边框>:익숙한 거리 한복판에서 유리네가 걸음을 멈췄다.
-Yurine(0)<Speaker>유리네</Speaker>||<边框>2</边框><黑点1>:집에 갔으려나.
-()||<边框>2</边框><关闭蒙版><黑点2><BIN>9</BIN>:집의 전등은 어찌된 영문인지 켜지질 않았고, 창밖의 빛도 전혀 안으로 스며들질 않았다.
-()||<边框>2</边框><SE1>VO_Jashinchan_LOWMOOD_JP</SE1>:그 어둠 속에서 들려오는 흐느끼는 소리.+장롱 속에서 나는 것 같았다.+유리네는 눈앞의 장롱을 천천히 열어 보았다.
-Yurine(4)<Speaker>유리네</Speaker>||<边框>2</边框>:사신짱...?
-Jashinchan(6)<Position>0,100</Position><Speaker>사신짱</Speaker>||<边框>2</边框>:흑흑흑......
-()||<边框>2</边框>:사신짱이 몸을 웅크린 채 장롱 속에 숨어있었다.+베베 꼬인 꼬리를 보아하니, 또 신경성 위염이 도진 것이 틀림없었다.
-Yurine(0)<Speaker>유리네</Speaker>||<边框>2</边框>:사신짱, 괜찮아?
-Jashinchan(6)<Position>0,100</Position><Speaker>사신짱</Speaker>||<边框>2</边框>:유리네...
-Yurine(5)<Speaker>유리네</Speaker>||<边框>2</边框>:나 여깄어.
-Jashinchan(6)<Position>0,100</Position><Speaker>사신짱</Speaker>||<边框>2</边框>:메두사...+미노스...
-Yurine(4)<Speaker>유리네</Speaker>||<边框>2</边框>:...내가 안 보이나?
-Jashinchan(6)<Position>0,100</Position><Speaker>사신짱</Speaker>||<边框>2</边框>:대체 어디 간 거예요...
-()||<边框>2</边框>:사신짱은 몸을 감아서 눈물이 바닥에 떨어지지 않게 했다.
-Yurine(0)<Speaker>유리네</Speaker>||<边框>2</边框>:사신짱, 나 여기 있다니까.
-Jashinchan(6)<Position>0,100</Position><Speaker>사신짱</Speaker>||<边框>2</边框>:어디 간 거예요오...
-()||<边框>2</边框>:돌연, 사신짱이 눈앞에서 사라졌다.
-Yurine(4)<Speaker>유리네</Speaker>||<边框>2</边框><白屏1>:사신짱?
-Yurine(0)<Speaker>유리네</Speaker>||<睁眼><BIN>8</BIN><BGM>BGM_Empty</BGM>:윽...
-()||:유리네가 배를 만지며 정신을 차렸다. 방금까지 속을 찌르는 듯한 아픔은 이미 가라앉았다.
-Yurine(0)<Speaker>유리네</Speaker>||:여긴...
-BOSS-8(0)<Speaker>에이전트</Speaker>||:그리폰 기지이옵니다. 귀하께선 몰려든 ELID... 좀비를 전부 해치우고 나서도 폭주 중이었지요.+하지만 귀하의 일행분들께서 놔두면 알아서 진정한다기에, 기다리고 있었사옵니다.
-Yurine(0)<Speaker>유리네</Speaker>||:그럼 걔네들은?
-BOSS-8(0)<Speaker>에이전트</Speaker>||<黑点1>:기지를 견학 중이옵니다. 주인님께 연락드려야 하니, 잠시만 기다려 주시옵소서.
-()||<黑点2><BIN>89</BIN><BGM>GF_Jyashinchan_Story_Jinbouchou</BGM>:그 시각, 그리폰 식당의 창고.
-Medusa(0)<Speaker>메두사</Speaker>||:자, 이 팔찌를 차면 나랑 눈이 마주쳐도 석화되지 않을 거야!
-()<Speaker>지휘관</Speaker>||:고마워, 메두사.
-Minosu(0)<Speaker>미노스</Speaker>||:우와아~! 여기 식자재 종류별로 엄청 다양하다!
-Medusa(0)<Speaker>메두사</Speaker>||:사신짱이 함께였으면 엄청 맛있는 요리를 해 줬을 텐데...
-Minosu(0)<Speaker>미노스</Speaker>||:메두사도 참... 사신짱이 이번에 얼마나 심한 짓을 했는데! 지금은 내버려둬!
-Medusa(0)<Speaker>메두사</Speaker>||:그래도...
-Pekora(0)<Speaker>페코라</Speaker>||:<color=#A9A9A9>이 악마들은 페코라를 탈진시켜 죽일 작정인가요...? 한참을 걸었는데 아직도 안 끝났다니...</color>+<color=#A9A9A9>저들이 멈추면 페코라는 쉴 곳을 찾아야겠어요...</color>
-Minosu(0)<Speaker>미노스</Speaker>||:그 녀석, 지금쯤 신나서 날뛰고 있을 게 분명해!
-K5(0)<Speaker>K5</Speaker>||:아까부터 계속 사신짱 얘기를 하는데, 어떤 사람이야?
-Minosu(0)<Speaker>미노스</Speaker>||:아주 저질이지! 자기보다 약한 애 괴롭히기 좋아하고 맨날 사고나 치고 다니는 녀석이야.
-Medusa(0)<Speaker>메두사</Speaker>||:그렇지 않아! 사신짱은 표현이 서툴 뿐이지, 친절하고 착한 애야!
-K5(0)<Speaker>K5</Speaker>||:대답이 완전 반대네...+사이 안 좋은가 봐?
-Minosu(0)<Speaker>미노스</Speaker>||:아니? 우리 모두 어릴 적부터 같이 지냈어. 대충 몇천 년 됐나?
-Medusa(4)<Speaker>메두사</Speaker>||:모두 내 소중한 친구들이야!
-K5(0)<Speaker>K5</Speaker>||:며, 몇천 년씩이나!? 절대 사이가 나쁠 리가 없겠네...+아아~ 알겠다! 평소엔 얼굴 보면 티격태격 싸우다 막상 안 보이면 보고 싶은, 그런 사이구나!
-()||<SE1>AVG_tele_connect</SE1>:그때, 지휘관의 통신기가 울렸다.
-()<Speaker>지휘관</Speaker>||:에이전트?
-BOSS-8(0)<Speaker>에이전트</Speaker><通讯框>||:<color=#00CCFF>주인님, 유리네 님께서 정신을 차렸사옵니다.</color>
-()<Speaker>지휘관</Speaker>||<黑点1>:알았다, 금방 갈게.
-Minosu(0)<Speaker>미노스</Speaker>||<黑点2><BIN>8</BIN>:어? 벌써 돌아가려고?
-Yurine(0)<Speaker>유리네</Speaker>||:사신짱이 좀 걱정돼서.
-Medusa(0)<Speaker>메두사</Speaker>||:나도...
-Yurine(0)<Speaker>유리네</Speaker>||:지휘관도, 인형들이 걱정되죠?
-()<Speaker>지휘관</Speaker>||:그렇지... 한시라도 빨리 녀석들을 무사히 데려오고 싶어.+물론, 너희도 언제든지 다시 그리폰에 놀러오렴.
-Yurine(5)<Speaker>유리네</Speaker>||:고마워요, 지휘관.
-()||<BGM>BGM_Empty</BGM>:유리네는 지휘관에게 싱긋 미소를 짓고 마법진을 준비했다.+아주 능숙하게 마법진을 그리고, 주문을 외우니...+지휘실 한가운데에 "문"이 나타났다.+그런데, 문틈에서 불길한 진홍색의 빛이 새어나왔다.
-Yurine(3)<Speaker>유리네</Speaker>||<BGM>10065</BGM>:......
-Medusa(3)<Speaker>메두사</Speaker>||:어...? 이게 어떻게 된 거지...?
-Minosu(2)<Speaker>미노스</Speaker>||:뭐야, 여기 진보초 맞아?!
-()<Speaker>지휘관</Speaker>||:왜 그래?
-Yurine(3)<Speaker>유리네</Speaker>||:강력한 마물들의 기운... 진보초에 마물들이 득실거리는 것처럼 느껴져.
-Medusa(3)<Speaker>메두사</Speaker>||:말도 안 돼! 그럼 사신짱은...?!
-Minosu(2)<Speaker>미노스</Speaker>||:어떻게 됐을 리가 없지. 너무 걱정 마.
-Yurine(0)<Speaker>유리네</Speaker>||:지휘관, 예상 밖의 상황이지만 걱정할 것 없어요. 우리가 가서 당신의 인형들을 돌려보낼게요.
-()<Speaker>지휘관</Speaker>||:너희만으로 괜찮겠어?
-K5(0)<Speaker>K5</Speaker>||:지휘관! 나도 가서 도울게!+걔네가 진보초로 보내진 건 내 잘못도 있으니까!
-BOSS-8(0)<Speaker>에이전트</Speaker>||:우로보로스는 다루기 성가시니, 저도 함께하겠사옵니다.
-()<Speaker>지휘관</Speaker>||:알았다, 그럼 나도 부대를 긴급 편성해서 지원하겠어.
-Yurine(5)<Speaker>유리네</Speaker>||:정말 고마워요, 지휘관.
-()||<黑点1>:그리고 유리네는 앞장 서 이세계로 통하는 문을 넘었다.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>389</BIN><BGM>10065</BGM>:그리폰 기지 인근... 앞장 서 달려간 유리네 일행은 순식간에 ELID 무리에게 포위되었다.
+()<Speaker>메두사</Speaker>||:어떡하지, 좀비가 이렇게나 많이...
+()<Speaker>미노스</Speaker>||:걱정 마 메두사! 나랑 유리네가 있잖아!
+()<Speaker>유리네</Speaker>||:너흰 나서지 않아도 돼.
+()<Speaker>유리네</Speaker>||<SE1>VO_Yurine_LOWMOOD_JP</SE1>:이 좀비들은... 히히히... 전부 나한테 맡겨... 히히히...
+()<Speaker>미노스</Speaker>||:어... 정말 혼자서 괜찮겠어?
+()<Speaker>유리네</Speaker>||<黑屏1>:미노스는 메두사를 잘 지켜.+간다――+현세를 떠도는 길잃은 망령들이여...+어둠으로 돌아가라아아아...!
+()||<黑屏2><BIN>8</BIN><BGM>BGM_Empty</BGM>:반면, 기지 창가에 웅크린 채로 구경만 하며 감히 나서지 못하는 이들도 있었다.
+K5(0)<Speaker>K5</Speaker>||:저게 유리네의 실력이라고?+저기 지휘관, 쟤 인간 맞지? 인형보다 더 무시무시한데?
+BOSS-8(0)<Speaker>에이전트</Speaker>||:저런 터무니없는 실력을 지니고서 "지극히 평범한 여대생"을 자칭하다니. 비밀이 많은 모양이옵니다.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:지휘관님... 저 사람... 혼자서 ELID 무리를...!
+()<Speaker>지휘관</Speaker>||:그래, 나도 똑똑히 봤어.
+()||<BGM>m_avg_casual</BGM>:이미 유리네의 전투 데이터를 전부 기록으로 남긴 지휘관도, 떨리는 손으로 전술지휘 태블릿을 꽉 쥐었다.+"경이로움". 이것 외에 형용할 단어가 떠오르지 않았다.
+()<Speaker>지휘관</Speaker>||:<color=#A9A9A9>처음 본다는 ELID를 상대로 이 정도 전적... 말 그대로 "비현실적"이야. 엄청난 인재로군.</color>+<color=#A9A9A9>어떤 식으로든 그리폰에 협력해 준다면 정말 든든할 텐데...</color>
+Minosu(0)<Speaker>미노스</Speaker>||:지휘관! 위험한 건 다 유리네가 해결했으니까 이 기지 견학시켜 줘!
+()<Speaker>지휘관</Speaker>||:얼마든지 시켜 줄 순 있는데, 저... 유리네를 혼자 놔둬도 되는 거니?
+Medusa(2)<Speaker>메두사</Speaker>||:신나서 날뛰는 중이라 지금 가까이 가면 위험해...
+()||:지휘관의 머릿속에, 유리네가 단신으로 ELID 무리에 뛰어들던 모습이 다시 떠올랐다.
+()<Speaker>지휘관</Speaker>||:에이전트, 여기서 유리네를 지켜보도록. 나는 얘네한테 기지 견학을 시켜 줘야겠어.+유리네가 진정되면 즉시 연락 줘.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:명을 받드나이다.
+Minosu(0)<Speaker>미노스</Speaker>||:아싸~!
+Pekora(0)<Speaker>페코라</Speaker>||:페, 페코라는 악마의 소굴을 구경할 마음 없어요!
+Minosu(0)<Speaker>미노스</Speaker>||:에이, 같이 가자~ 여기까지 왔는데 마음껏 구경 안 하면 아깝지!
+()||:미노스는 한손에는 메두사의 손을, 다른 한손으로는 페코라를 집어 들고 싱글벙글해하며 지휘관의 뒤를 따랐다.+에이전트는 의자를 하나 가져와, 여전히 자신만의 세상에 빠져 있는 유리네와 적당히 거리를 두고 앉았다.
+Yurine(3)<Speaker>유리네</Speaker>||<黑屏1><BGM>BGM_Empty</BGM><SE1>VO_Yurine_LOWMOOD_JP</SE1>:좀비... 킥킥킥...+찢고 죽인......+으윽...+배가...
+Yurine(0)<Speaker>유리네</Speaker>||<黑屏2><BIN>385</BIN><边框>2</边框><common_effect>%%code=CJ_rain%%</common_effect><BGM>GF_Jyashinchan_Story_JSC</BGM>:여긴... 진보초?+나, 돌아온 건가?
+()||<边框>2</边框><SE1>AVG_wind_grass</SE1>:아무도 유리네의 의문에 대답하지 않았다.+평소였다면 한창 북적일 시간인 거리엔 문자 그대로 아무도 없었고, 바람에 하얀 비닐 봉지 하나가 유리네의 앞을 굴러갈 뿐이었다.
+Yurine(0)<Speaker>유리네</Speaker>||<边框>2</边框><黑点1>:......+사신짱...
+()||<边框>2</边框><关闭蒙版><黑点2><BIN>380</BIN>:유리네가 쥐죽은듯 조용해진 뽑기 가게에 들어서 보니, 바닥에 뜯은 캡슐 껍데기가 잔뜩 버려져 있었다.+하지만 그 광경에 있어야 할, 바닥에 엎드려 자신이 뽑은 전리품을 감상하는 뱀꼬리 소녀의 모습은 없었다.
+Yurine(0)<Speaker>유리네</Speaker>||<边框>2</边框><黑点1>:츠치노코가...+납작하게 뭉개져 있어...
+()||<common_effect>%%code=CJ_rain%%</common_effect><黑点2><BIN>385</BIN><边框>2</边框>:빠칭코, 카레라이스 전문점, 생딸기 주스 바...+사신짱이 자주 가던 곳을 전부 들러보았지만, 그녀는 어디에도 없었다.
+Yurine(0)<Speaker>유리네</Speaker>||<边框>2</边框>:사신짱, 대체 어딜 간 거지?
+()||<边框>2</边框>:익숙한 거리 한복판에서 유리네가 걸음을 멈췄다.
+Yurine(0)<Speaker>유리네</Speaker>||<边框>2</边框><黑点1>:집에 갔으려나.
+()||<边框>2</边框><关闭蒙版><黑点2><BIN>9</BIN>:집의 전등은 어찌된 영문인지 켜지질 않았고, 창밖의 빛도 전혀 안으로 스며들질 않았다.
+()||<边框>2</边框><SE1>VO_Jashinchan_LOWMOOD_JP</SE1>:그 어둠 속에서 들려오는 흐느끼는 소리.+장롱 속에서 나는 것 같았다.+유리네는 눈앞의 장롱을 천천히 열어 보았다.
+Yurine(4)<Speaker>유리네</Speaker>||<边框>2</边框>:사신짱...?
+Jashinchan(6)<Position>0,100</Position><Speaker>사신짱</Speaker>||<边框>2</边框>:흑흑흑......
+()||<边框>2</边框>:사신짱이 몸을 웅크린 채 장롱 속에 숨어있었다.+베베 꼬인 꼬리를 보아하니, 또 신경성 위염이 도진 것이 틀림없었다.
+Yurine(0)<Speaker>유리네</Speaker>||<边框>2</边框>:사신짱, 괜찮아?
+Jashinchan(6)<Position>0,100</Position><Speaker>사신짱</Speaker>||<边框>2</边框>:유리네...
+Yurine(5)<Speaker>유리네</Speaker>||<边框>2</边框>:나 여깄어.
+Jashinchan(6)<Position>0,100</Position><Speaker>사신짱</Speaker>||<边框>2</边框>:메두사...+미노스...
+Yurine(4)<Speaker>유리네</Speaker>||<边框>2</边框>:...내가 안 보이나?
+Jashinchan(6)<Position>0,100</Position><Speaker>사신짱</Speaker>||<边框>2</边框>:대체 어디 간 거예요...
+()||<边框>2</边框>:사신짱은 몸을 감아서 눈물이 바닥에 떨어지지 않게 했다.
+Yurine(0)<Speaker>유리네</Speaker>||<边框>2</边框>:사신짱, 나 여기 있다니까.
+Jashinchan(6)<Position>0,100</Position><Speaker>사신짱</Speaker>||<边框>2</边框>:어디 간 거예요오...
+()||<边框>2</边框>:돌연, 사신짱이 눈앞에서 사라졌다.
+Yurine(4)<Speaker>유리네</Speaker>||<边框>2</边框><白屏1>:사신짱?
+Yurine(0)<Speaker>유리네</Speaker>||<睁眼><BIN>8</BIN><BGM>BGM_Empty</BGM>:윽...
+()||:유리네가 배를 만지며 정신을 차렸다. 방금까지 속을 찌르는 듯한 아픔은 이미 가라앉았다.
+Yurine(0)<Speaker>유리네</Speaker>||:여긴...
+BOSS-8(0)<Speaker>에이전트</Speaker>||:그리폰 기지이옵니다. 귀하께선 몰려든 ELID... 좀비를 전부 해치우고 나서도 폭주 중이었지요.+하지만 귀하의 일행분들께서 놔두면 알아서 진정한다기에, 기다리고 있었사옵니다.
+Yurine(0)<Speaker>유리네</Speaker>||:그럼 걔네들은?
+BOSS-8(0)<Speaker>에이전트</Speaker>||<黑点1>:기지를 견학 중이옵니다. 주인님께 연락드려야 하니, 잠시만 기다려 주시옵소서.
+()||<黑点2><BIN>89</BIN><BGM>GF_Jyashinchan_Story_Jinbouchou</BGM>:그 시각, 그리폰 식당의 창고.
+Medusa(0)<Speaker>메두사</Speaker>||:자, 이 팔찌를 차면 나랑 눈이 마주쳐도 석화되지 않을 거야!
+()<Speaker>지휘관</Speaker>||:고마워, 메두사.
+Minosu(0)<Speaker>미노스</Speaker>||:우와아~! 여기 식자재 종류별로 엄청 다양하다!
+Medusa(0)<Speaker>메두사</Speaker>||:사신짱이 함께였으면 엄청 맛있는 요리를 해 줬을 텐데...
+Minosu(0)<Speaker>미노스</Speaker>||:메두사도 참... 사신짱이 이번에 얼마나 심한 짓을 했는데! 지금은 내버려둬!
+Medusa(0)<Speaker>메두사</Speaker>||:그래도...
+Pekora(0)<Speaker>페코라</Speaker>||:<color=#A9A9A9>이 악마들은 페코라를 탈진시켜 죽일 작정인가요...? 한참을 걸었는데 아직도 안 끝났다니...</color>+<color=#A9A9A9>저들이 멈추면 페코라는 쉴 곳을 찾아야겠어요...</color>
+Minosu(0)<Speaker>미노스</Speaker>||:그 녀석, 지금쯤 신나서 날뛰고 있을 게 분명해!
+K5(0)<Speaker>K5</Speaker>||:아까부터 계속 사신짱 얘기를 하는데, 어떤 사람이야?
+Minosu(0)<Speaker>미노스</Speaker>||:아주 저질이지! 자기보다 약한 애 괴롭히기 좋아하고 맨날 사고나 치고 다니는 녀석이야.
+Medusa(0)<Speaker>메두사</Speaker>||:그렇지 않아! 사신짱은 표현이 서툴 뿐이지, 친절하고 착한 애야!
+K5(0)<Speaker>K5</Speaker>||:대답이 완전 반대네...+사이 안 좋은가 봐?
+Minosu(0)<Speaker>미노스</Speaker>||:아니? 우리 모두 어릴 적부터 같이 지냈어. 대충 몇천 년 됐나?
+Medusa(4)<Speaker>메두사</Speaker>||:모두 내 소중한 친구들이야!
+K5(0)<Speaker>K5</Speaker>||:며, 몇천 년씩이나!? 절대 사이가 나쁠 리가 없겠네...+아아~ 알겠다! 평소엔 얼굴 보면 티격태격 싸우다 막상 안 보이면 보고 싶은, 그런 사이구나!
+()||<SE1>AVG_tele_connect</SE1>:그때, 지휘관의 통신기가 울렸다.
+()<Speaker>지휘관</Speaker>||:에이전트?
+BOSS-8(0)<Speaker>에이전트</Speaker><通讯框>||:<color=#00CCFF>주인님, 유리네 님께서 정신을 차렸사옵니다.</color>
+()<Speaker>지휘관</Speaker>||<黑点1>:알았다, 금방 갈게.
+Minosu(0)<Speaker>미노스</Speaker>||<黑点2><BIN>8</BIN>:어? 벌써 돌아가려고?
+Yurine(0)<Speaker>유리네</Speaker>||:사신짱이 좀 걱정돼서.
+Medusa(0)<Speaker>메두사</Speaker>||:나도...
+Yurine(0)<Speaker>유리네</Speaker>||:지휘관도, 인형들이 걱정되죠?
+()<Speaker>지휘관</Speaker>||:그렇지... 한시라도 빨리 녀석들을 무사히 데려오고 싶어.+물론, 너희도 언제든지 다시 그리폰에 놀러오렴.
+Yurine(5)<Speaker>유리네</Speaker>||:고마워요, 지휘관.
+()||<BGM>BGM_Empty</BGM>:유리네는 지휘관에게 싱긋 미소를 짓고 마법진을 준비했다.+아주 능숙하게 마법진을 그리고, 주문을 외우니...+지휘실 한가운데에 "문"이 나타났다.+그런데, 문틈에서 불길한 진홍색의 빛이 새어나왔다.
+Yurine(3)<Speaker>유리네</Speaker>||<BGM>10065</BGM>:......
+Medusa(3)<Speaker>메두사</Speaker>||:어...? 이게 어떻게 된 거지...?
+Minosu(2)<Speaker>미노스</Speaker>||:뭐야, 여기 진보초 맞아?!
+()<Speaker>지휘관</Speaker>||:왜 그래?
+Yurine(3)<Speaker>유리네</Speaker>||:강력한 마물들의 기운... 진보초에 마물들이 득실거리는 것처럼 느껴져.
+Medusa(3)<Speaker>메두사</Speaker>||:말도 안 돼! 그럼 사신짱은...?!
+Minosu(2)<Speaker>미노스</Speaker>||:어떻게 됐을 리가 없지. 너무 걱정 마.
+Yurine(0)<Speaker>유리네</Speaker>||:지휘관, 예상 밖의 상황이지만 걱정할 것 없어요. 우리가 가서 당신의 인형들을 돌려보낼게요.
+()<Speaker>지휘관</Speaker>||:너희만으로 괜찮겠어?
+K5(0)<Speaker>K5</Speaker>||:지휘관! 나도 가서 도울게!+걔네가 진보초로 보내진 건 내 잘못도 있으니까!
+BOSS-8(0)<Speaker>에이전트</Speaker>||:우로보로스는 다루기 성가시니, 저도 함께하겠사옵니다.
+()<Speaker>지휘관</Speaker>||:알았다, 그럼 나도 부대를 긴급 편성해서 지원하겠어.
+Yurine(5)<Speaker>유리네</Speaker>||:정말 고마워요, 지휘관.
+()||<黑点1>:그리고 유리네는 앞장 서 이세계로 통하는 문을 넘었다.

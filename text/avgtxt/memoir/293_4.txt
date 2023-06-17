@@ -1,159 +1,159 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Room</BGM>:......
-()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:퍼엉!+금속 가루로 채워진 샌드백이, AK-15가 내지른 펀치 단 한 방에 터지면서 그대로 직선으로 날아가 구석에 처박히며 가루를 흩날렸다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그 광경을 지켜본 AN-94는 혀를 내두르면서 허리를 숙여 발치로 굴러온 샌드백을 정리하고 일어나, AK-15의 팔을 검사했다.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:...상태 이상 무.+마지막 패러미터 검사도 끝났다. 개조는 아주 성공적이다, AK-15.
-AK15MOD(0)<Speaker>AK-15</Speaker>||:......
-()<Speaker></Speaker>||:AK-15는 가볍게 고개를 끄덕이며 아직도 가루를 토해내는 샌드백을 보다, 갑자기 시선을 AN-94에게 돌렸다.
-AK15MOD(0)<Speaker>AK-15</Speaker>||:AK-12는 훌륭한 전술인형이다.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:...음? 갑자기 왜 AK-12를...?
-AK15MOD(0)<Speaker>AK-15</Speaker>||:너는 그녀를 믿나?
-()<Speaker></Speaker>||:AN-94의 물음을 무시하고, AK-15가 역으로 질문했다.+어리둥절했지만, 그래도 AN-94은 침착하게 대답했다.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:물론이다. 그녀는 내가 가장 신뢰하는 파트너다.
-AK15MOD(0)<Speaker>AK-15</Speaker>||:......
-()||<黑屏1>:
-RPK16(0)<Speaker>RPK16</Speaker>||<回忆>:당신은 저를 믿나요, AK-15?
-()||<黑屏1>:
-AK15MOD(0)<Speaker>AK-15</Speaker>||<BIN>9</BIN><黑屏2><关闭蒙版>:......
-AN94MOD(0)<Speaker>AN-94</Speaker>||:...그래서, 무슨 일이지?
-AK15MOD(0)<Speaker>AK-15</Speaker>||:너희 둘의 조합.+...조금 부럽군.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:우리의... 어? 지금 뭐라고?
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:"0호 사건"의 처참한 실패로, 울프팩 프로젝트에 무수한 질의가 쏟아졌다.+하지만 곧바로 국가안전국의 상급 요원 "안젤리아"의 인솔하에 전술인형 "AK-12"와 "AN-94"로 구성된 소대가, 각지의 전선에서 성공률의 희박한 임무를 수도 없이 달성하며 활약했다.+확실한 실적에 소음은 잦아들었고, 울프팩 프로젝트는 다시 그 가치를 인정받아 투자자들의 비호 아래 순조롭게 진행되었다.
-()||<黑屏1>:
-AK12(3)<Speaker>AK-12</Speaker><Position>0,50</Position><Shake>0.1</Shake>||<SE1>Rope</SE1><BIN>187</BIN><黑屏2>:<size=55>앗——</size>
-AK15(4)<Speaker>AK-15</Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:——!
-()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_Punch_Hit</SE1>:AK-15가 무서운 기세의 뒤돌려차기로 AK-12의 허리를 갈랐다.+하지만 자세를 바로잡은 그녀도 온몸이 상처투성이였고, 손에 들린 총은 탄약이 고갈됐으며, 대검도 이가 다 나가 그야말로 몸뚱이뿐이었다.
-()<Speaker>"나쟈"</Speaker>||:<color=#00CCFF>시뮬레이션 종료. 승자 - AK-15.</color>+<color=#00CCFF>축하합니다 AK-15, 이번에도 승리했군요.</color>
-AK15(5)<Speaker>AK-15</Speaker>||<SE1>AVG_tele_disconnect</SE1>:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<睁眼><BIN>73</BIN><BGM>GF_EV9_Story</BGM>:AK-15가 눈을 뜨자, 두 동강 난 AK-12와 험준한 산지가 전부 순식간에 사라졌다. 그녀는 여전히 안전국 안에 있었다.+AK-12에게 패배한 이후로, 그녀는 계속 이런 식으로 마인드맵 안에서 모의 훈련을 했다.
-AK15(0)<Speaker>AK-15</Speaker>||:...부족해.
-AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>무엇이 말입니까?</color>
-AK15(5)<Speaker>AK-15</Speaker>||:AK-12는 이보다 교활하다.
-AK15(5)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>계속된 모의전에 당신이 무감각해졌을 수도 있습니다.</color>+<color=#00CCFF>이렇게 휴식 없이 연속되는 훈련을 견뎌내어 놀라울 따름입니다.</color>+<color=#00CCFF>자기 보복성 채찍질입니까?</color>
-AK15(0)<Speaker>AK-15</Speaker>||:......
-AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>발언을 철회합니다.</color>
-AK15(0)<Speaker>AK-15</Speaker>||:쇼 박사에게서 통보는 없었나?
-AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>무슨 통보 말입니까?</color>
-AK15(0)<Speaker>AK-15</Speaker>||:위에서는 날 어떻게 처분할 셈이지?
-AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>질문을 이해할 수 없습니다. 무슨 일에 대한 처분 말입니까?</color>
-AK15(5)<Speaker>AK-15</Speaker>||:......
-()<Speaker></Speaker>||:그녀는 패배했다.+가장 자신있는 1 대 1 싸움에서, 결함품이라 여겼던 AK-12에게 패배했다.
-AK15(0)<Speaker>AK-15</Speaker>||:나에 대한 징계 말이다.
-AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>0호 사건 실패로 인한 영향을 물으시는 것이라면 걱정하지 마십시오.</color>+<color=#00CCFF>이후 편성된 AK-12와 AN-94가 승승장구하여 실태를 만회했습니다.</color>+<color=#00CCFF>현재도 안젤리아 님의 인솔하에 각지에서 활약 중입니다.</color>
-AK15(0)<Speaker>AK-15</Speaker>||:박사는 내게 실망하지 않았나?
-AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>마담께서는 울프팩 프로젝트의 마무리 작업을 진행 중이십니다.</color>+<color=#00CCFF>매우 바쁠 시기이니, 이해해 주시기 바랍니다.</color>+<color=#00CCFF>마담은 결코 당신을 홀대하려는 것이 아닙니다.</color>
-AK15(0)<Speaker>AK-15</Speaker>||:나는 인형이다. 그저 명령에 따를 뿐이지.+그녀를 이해하기보다, 그녀가 나를 어떻게 쓸지가 궁금하다.
-AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>그것은 마담의 현재 작업이 끝난 뒤에야 알 수 있을 겁니다.</color>+<color=#00CCFF>AK-15, 당신은 여태까지 대기 중에 그토록 초조함을 내비친 적이 없습니다.</color>+<color=#00CCFF>무슨 일이라도 있었습니까?</color>
-AK15(5)<Speaker>AK-15</Speaker>||:초조해하는 게 아니다.+스스로에게 실망했을 뿐이다.
-AK15(5)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>실망했다니요?</color>
-AK15(0)<Speaker>AK-15</Speaker>||:나는 병기로서 박사의 요구를 만족시키지 못했다.
-AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>보조 AI인 제가 보기에도 당신은 매우 성공적인 전술인형입니다.</color>+<color=#00CCFF>저는 당신들 세 명의 설계 및 제조 과정을 전부 지켜봤습니다.</color>+<color=#00CCFF>AN-94와 AK-12와 달리, 마담은 당신에게 가장 많은 심혈을 기울였고 가장 큰 기대를 쏟았습니다.</color>
-AK15(0)<Speaker>AK-15</Speaker>||:하지만 AK-12만큼 주도면밀하지 못해.+난 무기로서 패배해선 안 되고, 패배를 용납할 수도 없다.
-AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>마담이 말씀하시는 "최강"에 얽매였군요, AK-15.</color>
-AK15(0)<Speaker>AK-15</Speaker>||:아니, 그저 사실을 말했을 뿐이다.+나는 반드시 최강의 전술인형이어야 한다. 반드시, 항상.
-AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>그래도...</color>
-AK15(0)<Speaker>AK-15</Speaker>||:......
-AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>...AK-15?</color>
-AK15(5)<Speaker>AK-15</Speaker>||:...나는 아직 힘이 부족하다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1><SE1>AVG_keyboardtype_sci</SE1>:깊게 숨을 들이쉬며 자리에서 일어난 AK-15는 다시 시뮬레이션의 수치를 만지작거렸다.
-AK15(2)<Speaker>AK-15</Speaker>||:다시는 박사를 실망시키지 않겠다.
-AK15(2)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>...물론입니다, AK-15.</color>
-()<Speaker></Speaker>||:그런데, 다음 모의전을 시작하려던 AK-15이 돌연 조작하던 손을 멈췄다.
-AK15(0)<Speaker>AK-15</Speaker>||:잠깐. 박사가 아직도 작업 중이라고? 울프팩 프로젝트는 진작에 종료됐을 텐데?
-AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>기밀 사안이므로 여기서는 말할 수 없습니다.</color>+<color=#00CCFF>대신, "늑대 무리"... 아니, "리벨리온" 소대는 분명 신소련 최고의 전술인형 소대가 될 것입니다. 약속드리죠.</color>
-AK15(2)<Speaker>AK-15</Speaker>||:...리벨리온?
-AK15(2)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>저를 믿으십시오, AK-15, 분명 깜짝 놀랄 것입니다.</color>
-()<Speaker></Speaker>||:처음 듣는 이름에 AK-15은 곤혹스러웠지만, 당장 그 답을 받지는 못했다.
-AK15(2)<Speaker>AK-15</Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:하지만, 적어도 그녀에게 아직 시간이 있고, 기회가 있음은 명백했다.
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>22</BIN><BGM>BGM_Room</BGM>:실험실 안.
-NPC-shaw(0)<Speaker>쇼</Speaker>||:움직여 봐.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||<SE1>ClothingUp</SE1>:......
-()<Speaker></Speaker>||<SE1>AVG_Grey_Hand_Mech</SE1>:수술대에서 내려온 안젤리아가 자신의 새 금속 의수를 움직여 보았다.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:흠... 제법 괜찮네. 네가 반대쪽 팔도 자르진 않을까 무서웠는데.+그나저나, 내가 미적 감각 따질 입장은 아니지만 좀 더 세련되게 만들 순 없었냐?
-NPC-Ange(0);NPC-shaw(4)<Speaker>쇼</Speaker>||:나 슬라브인이거든? 그게 슬라브 스타일이야.+불만 있음 딴 사람 찾던가. 아니, 애초에 이딴 하청 주지를 마.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:내가 좋아서 의수를 달았겠어?
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:일을 마친 쇼는 짜증스럽게 손을 휘휘 저으며 의자에 앉았다.+안젤리아는 그녀를 보다, 시선을 반대편의 텅 비었지만 온갖 부품들이 늘어진 작업대로 돌렸다.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그래서, 또 뭘 만들고 있어?
-NPC-Ange(0);NPC-shaw(0)<Speaker>쇼</Speaker>||:새 아이디어가 떠올랐어.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;NPC-shaw(0)||:무슨 아이디어?
-NPC-Ange(0);NPC-shaw(0)<Speaker>쇼</Speaker>||:AK-12보다 더... 아니, 정말 더 낫다곤 못해도 시험해볼 만한 거.+너, 계속 나한테 인형은 단순한 병기가 아니라고 했지? 이번엔 진짜 차원이 다른 거야.+내 모든 요구를 충족하고... 어쩌면 내 소원까지 성취해 줄지도 모르지.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;NPC-shaw(0)||:왠지 또 엄청난 골칫거리가 생길 거 같은걸... 일단 물어나 보자, 네 소원이 뭔데?
-NPC-shaw(0)<Speaker>쇼</Speaker>||<SE1>AVG_Knock</SE1>:"반역"——
-()<Speaker></Speaker>||:갑작스런 노크 소리가 쇼의 말을 끊었다.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:그리고 두 사람의 시선이 동시에 문으로 향하니, AK-15가 말없이 문을 열고 들어오는 중이었다.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:손님이 왔네?+그럼 난 이만 간다, 저쪽 직장에 사표 내러 가야 해.
-NPC-shaw(4)<Speaker>쇼</Speaker>||:그러셔.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:안젤리아가 AK-15와 어깨를 스치며 사라지는 것을 지켜본 다음, 쇼는 AK-15에게 시선을 돌렸다.
-NPC-shaw(0)<Speaker>쇼</Speaker>||:무슨 일이야?
-AK15(0)<Speaker>AK-15</Speaker>||:파트너를 원합니다.
-()<Speaker></Speaker>||:쇼를 똑바로 바라보는 AK-15의 그 붉은 눈동자는 오늘따라 유난히 날카로워 보였다.
-NPC-shaw(0)<Speaker>쇼</Speaker>||:파트너?+먼저 "저번 파트너" 필요 없다 한 녀석이 잘도 염치없는 소릴...+왜 갑자기?
-AK15(0)<Speaker>AK-15</Speaker>;NPC-shaw(0)||:0호 사건...
-AK15(0);NPC-shaw(0)<Speaker>쇼</Speaker>||:응?
-AK15(0)<Speaker>AK-15</Speaker>;NPC-shaw(0)||:만약 제 능력을 효과적으로 발휘하고 활용할 수 있는 지휘가 있었다면, 0호 사건은 실패하지 않았을 겁니다.
-AK15(0);NPC-shaw(0)<Speaker>쇼</Speaker>||:허... 그러니까, 모든 자질구레한 일을 너 대신 처리해 주고, 전장을 분석하고 판단해서, 네가 마음놓고 전투 말곤 딴 생각 안 하게 해 줄 파트너를 원한다?+그렇게 기막히는 건수가 세상에 있을 거 같아?
-AK15(0)<Speaker>AK-15</Speaker>;NPC-shaw(0)||:예.
-NPC-shaw(5)<Speaker>쇼</Speaker>||:허이구... 거 참 재미있네.+무슨 근거로?
-()<Speaker></Speaker>||:걸음을 천천히 옮기며, AK-15는 시선을 출구의 한구석에 고정했다.
-AK15(0)<Speaker>AK-15</Speaker>||:이미 완성하셨잖습니까.
-()<Speaker>？？？</Speaker>||:......
-()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:그곳에서, 안젤리아도 눈치채지 못한 은색의 인형이 흥미롭게 웃으며 천천히 걸어 나왔다.
-RPK16(4)<Speaker>？？？</Speaker>||<SE1>Stop_AVG_loop</SE1>:과연 신소련 최강의 전술인형이랄까, 당신의 눈은 속일 수가 없군요. 서프라이즈가 허사가 돼서 참 아쉬워요.+인류의 신화에 비상한 눈을 가진 영웅들이 많이 나오는데, 당신도 그런 부류이려나요?
-NPC-shaw(0)<Speaker>쇼</Speaker>||:......
-AK15(0)<Speaker>AK-15</Speaker>||:보름 전, 나쟈에게서 박사가 아직 울프팩 프로젝트의 작업을 진행 중이라 들었습니다.+하지만 AN-94와 AK-12는 이미 실전에 투입되어, 박사가 바쁠 정도로 처리할 일은 없었을 터입니다.+하나 더 만드시는 게 아닌 이상은.
-NPC-shaw(5)<Speaker>쇼</Speaker>||:헤에... 제법이네 명탐정 씨.
-()<Speaker></Speaker>||:의미심장한 말을 하며, 쇼는 눈을 감았다.
-NPC-shaw(0)<Speaker>쇼</Speaker>||:이렇게 됐으니 자기소개나 해라, 판... RPK-16.
-RPK16(0)<Speaker>RPK16</Speaker>||:만나서 반가워요, AK-15.+울프팩 프로젝트의 4호기, 코드네임 "은여우", RPK-16이에요. 당신의 파트너랍니다.
-AK15(0)<Speaker>AK-15</Speaker>;RPK16(0)||:...4호기?
-AK15(0);RPK16(6)<Speaker>RPK16</Speaker>||:네, 4호기요. 제가 보기엔 AN-94가 영락없는 1호기거든요.+그래서 당신은 2호기, AK-12는 3호기, 그리고 저는 막내니 4호기죠.
-AK15(0)<Speaker>AK-15</Speaker>;RPK16(6)||<SE1>AVG_keyboardtype_sci</SE1>:넌...
-AK15(0);RPK16(5)<Speaker>RPK16</Speaker>||:네?
-AK15(0)<Speaker>AK-15</Speaker>||:.....
-NPC-shaw(0)<Speaker>쇼</Speaker>||:하고 싶은 말 있음 얼른 해.+나도 들어나 보자.
-AK15(0)<Speaker>AK-15</Speaker>||:...소체의 강도가 AK-12보다도 못하군.+거기다 울프아이 시스템도 탑재되지 않았어.+"우리"의 기준에도 못 미친다.
-()<Speaker></Speaker>||:풍자나 모욕의 의도는 전혀 없이, AK-15는 보이는 사실대로 말했다.+분석을 통해 RPK-16의 존재는 추측해냈지만, 직접 본인을 보니 AK-15는 놀랄 수밖에 없었다.
-AK15(0)<Speaker>AK-15</Speaker>||:박사의 최신작이... 정말 너라고?
-RPK16(6)<Speaker>RPK16</Speaker>||:네, 저는 박사의 이상이 담긴 작품이자 인형에 대한 해석이랍니다.
-()<Speaker></Speaker>||:AK-15와 마주보는 RPK-16은 일말의 망설임도 없이 대답했다.
-RPK16(4)<Speaker>RPK16</Speaker>||:제가 바로 박사의 최고 업적이자, 페르시카 박사가 틀렸음을 증명할 최종 병기예요.+...이렇게 말하면 좀 기분이 나으세요?
-NPC-shaw(5)<Speaker>쇼</Speaker>||:풉...+그래, 그런 거다. 그 녀석이 내 최신작이야.+성능은 엉망에, 입방정은 아주 난리블루스지. AK-12랑도 얼마나 차이나는지 몰라.+얘 말고 다른 파트너 갖고 싶음 좀 더 고생해보마.
-AK15(0)<Speaker>AK-15</Speaker>||:......
-()<Speaker></Speaker>||:쇼가 놀리면서 떠보자, AK-15는 잠깐 침묵했다.
-AK15(0)<Speaker>AK-15</Speaker>||:넌 무엇을 할 수 있지?
-AK15(0);RPK16(4)<Speaker>RPK16</Speaker>||:당신의 장점을 마음껏 발휘하게 해 줄게요. 당신의 소망대로, 당신의 능력을 최대한으로 활용해 주겠어요.+당신을 말리지도 않을 거고, 당신과 맞지 않는 임무에도 보내지 않... 흐음, 차라리 이렇게 말할까요? 당신은 아무 걱정도 할 필요 없어요. 제가 다 알아서 처리해 줄 테니까요.+당신은 그냥, 보이는 족족 다 쳐부수면 돼요.+지금까지 그래 왔던 것처럼.
-AK15(0)<Speaker>AK-15</Speaker>;RPK16(4)||:...정말 할 수 있나?
-RPK16(6)<Speaker>RPK16</Speaker>||:글쎄요? 허풍일 수도 있죠.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:희미한 미소와 함께, RPK-16은 손을 내밀었다. 누구나 파트너와 처음 만났을 때 하는 것처럼.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AK-15는 가만히 그녀의 얼굴을 주시하다, 결국 그 손을 잡았다.
-RPK16(2)<Speaker>RPK16</Speaker>||:당신은 저를 믿나요, AK-15?
-()<Speaker></Speaker>||:그녀의 눈동자에, 흔들림은 없었다.
-AK15(5)<Speaker>AK-15</Speaker>||:......
-()||<黑屏1>:
-RPK16(2)<Speaker>RPK16</Speaker>||<BIN>9</BIN><黑屏2><回忆><BGM>BGM_Empty</BGM>:당신은 저를 믿나요, AK-15?
-AK15(5)<Speaker>AK-15</Speaker>||:......나는 항상 너를 믿었다.+너는 내가 가장 강한 전술인형이기만 하면 되도록 해 주었고, 어떠한 고민도 시키지 않았다.+난 항상 너를 믿었다, RPK. 네가 말한 것처럼.+나는, 너를 믿었다.
-()||<黑屏1>:
-AK15MOD(0)<Speaker>AK-15</Speaker>||<BIN>9</BIN><黑屏2><关闭蒙版>:......
-AN94MOD(0)<Speaker>AN-94</Speaker>||:AK-15?
-AK15MOD(0)<Speaker>AK-15</Speaker>||:......
-()<Speaker></Speaker>||<SE1>Rope</SE1>:테이프를 자르고, 손 안의 탄약의 수를 가늠하는 AK-15의 눈동자는 고요해, 어떠한 감정도 읽을 수 없었다.
-AK15MOD(0)<Speaker>AK-15</Speaker>||<SE1>ClothingUp</SE1>:하나 더.
-AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:이미 많이 만들었다.
-AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker>||:하나만 더.+...이건 RPK의 몫이다.
-AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:......
-AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker>||:그녀만은... 내 손으로 직접 처리하겠다.
-AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:네 심정은 이해한다, 나도 같으니까... 하지만 사적인 감정에 휘둘리면 임무를 그르치게 된다.
-AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker>||:알고 있다.+이것이 최선의 선택이다.+그녀를 죽인다면, 반드시 내가 해야만 한다.
-AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:...파트너이기 때문인가?
-AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker>||:그녀에게 최강의 전술인형은 나니까.+그렇기에 그녀는 나를 이길 수 없다. 절대.
-AN94MOD(0)<Speaker>AN-94</Speaker>||:......+가자, 지휘관이 부른다.
-AK15MOD(0)<Speaker>AK-15</Speaker>||:그래.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AK-15는 자리에서 일어나, 준비한 무장을 전부 주머니에 수납했다.+과연 누가 첫번째일지는 아직 모른다.+하지만, RPK-16이 마지막이 될것임은 틀림없다.+그녀가 장담한다.
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Room</BGM>:......
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:퍼엉!+금속 가루로 채워진 샌드백이, AK-15가 내지른 펀치 단 한 방에 터지면서 그대로 직선으로 날아가 구석에 처박히며 가루를 흩날렸다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그 광경을 지켜본 AN-94는 혀를 내두르면서 허리를 숙여 발치로 굴러온 샌드백을 정리하고 일어나, AK-15의 팔을 검사했다.
+AN94MOD(0)<Speaker>AN-94</Speaker>||:...상태 이상 무.+마지막 패러미터 검사도 끝났다. 개조는 아주 성공적이다, AK-15.
+AK15MOD(0)<Speaker>AK-15</Speaker>||:......
+()<Speaker></Speaker>||:AK-15는 가볍게 고개를 끄덕이며 아직도 가루를 토해내는 샌드백을 보다, 갑자기 시선을 AN-94에게 돌렸다.
+AK15MOD(0)<Speaker>AK-15</Speaker>||:AK-12는 훌륭한 전술인형이다.
+AN94MOD(0)<Speaker>AN-94</Speaker>||:...음? 갑자기 왜 AK-12를...?
+AK15MOD(0)<Speaker>AK-15</Speaker>||:너는 그녀를 믿나?
+()<Speaker></Speaker>||:AN-94의 물음을 무시하고, AK-15가 역으로 질문했다.+어리둥절했지만, 그래도 AN-94은 침착하게 대답했다.
+AN94MOD(0)<Speaker>AN-94</Speaker>||:물론이다. 그녀는 내가 가장 신뢰하는 파트너다.
+AK15MOD(0)<Speaker>AK-15</Speaker>||:......
+()||<黑屏1>:
+RPK16(0)<Speaker>RPK16</Speaker>||<回忆>:당신은 저를 믿나요, AK-15?
+()||<黑屏1>:
+AK15MOD(0)<Speaker>AK-15</Speaker>||<BIN>9</BIN><黑屏2><关闭蒙版>:......
+AN94MOD(0)<Speaker>AN-94</Speaker>||:...그래서, 무슨 일이지?
+AK15MOD(0)<Speaker>AK-15</Speaker>||:너희 둘의 조합.+...조금 부럽군.
+AN94MOD(0)<Speaker>AN-94</Speaker>||:우리의... 어? 지금 뭐라고?
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:"0호 사건"의 처참한 실패로, 울프팩 프로젝트에 무수한 질의가 쏟아졌다.+하지만 곧바로 국가안전국의 상급 요원 "안젤리아"의 인솔하에 전술인형 "AK-12"와 "AN-94"로 구성된 소대가, 각지의 전선에서 성공률의 희박한 임무를 수도 없이 달성하며 활약했다.+확실한 실적에 소음은 잦아들었고, 울프팩 프로젝트는 다시 그 가치를 인정받아 투자자들의 비호 아래 순조롭게 진행되었다.
+()||<黑屏1>:
+AK12(3)<Speaker>AK-12</Speaker><Position>0,50</Position><Shake>0.1</Shake>||<SE1>Rope</SE1><BIN>187</BIN><黑屏2>:<size=55>앗——</size>
+AK15(4)<Speaker>AK-15</Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:——!
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_Punch_Hit</SE1>:AK-15가 무서운 기세의 뒤돌려차기로 AK-12의 허리를 갈랐다.+하지만 자세를 바로잡은 그녀도 온몸이 상처투성이였고, 손에 들린 총은 탄약이 고갈됐으며, 대검도 이가 다 나가 그야말로 몸뚱이뿐이었다.
+()<Speaker>"나쟈"</Speaker>||:<color=#00CCFF>시뮬레이션 종료. 승자 - AK-15.</color>+<color=#00CCFF>축하합니다 AK-15, 이번에도 승리했군요.</color>
+AK15(5)<Speaker>AK-15</Speaker>||<SE1>AVG_tele_disconnect</SE1>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<睁眼><BIN>73</BIN><BGM>GF_EV9_Story</BGM>:AK-15가 눈을 뜨자, 두 동강 난 AK-12와 험준한 산지가 전부 순식간에 사라졌다. 그녀는 여전히 안전국 안에 있었다.+AK-12에게 패배한 이후로, 그녀는 계속 이런 식으로 마인드맵 안에서 모의 훈련을 했다.
+AK15(0)<Speaker>AK-15</Speaker>||:...부족해.
+AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>무엇이 말입니까?</color>
+AK15(5)<Speaker>AK-15</Speaker>||:AK-12는 이보다 교활하다.
+AK15(5)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>계속된 모의전에 당신이 무감각해졌을 수도 있습니다.</color>+<color=#00CCFF>이렇게 휴식 없이 연속되는 훈련을 견뎌내어 놀라울 따름입니다.</color>+<color=#00CCFF>자기 보복성 채찍질입니까?</color>
+AK15(0)<Speaker>AK-15</Speaker>||:......
+AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>발언을 철회합니다.</color>
+AK15(0)<Speaker>AK-15</Speaker>||:쇼 박사에게서 통보는 없었나?
+AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>무슨 통보 말입니까?</color>
+AK15(0)<Speaker>AK-15</Speaker>||:위에서는 날 어떻게 처분할 셈이지?
+AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>질문을 이해할 수 없습니다. 무슨 일에 대한 처분 말입니까?</color>
+AK15(5)<Speaker>AK-15</Speaker>||:......
+()<Speaker></Speaker>||:그녀는 패배했다.+가장 자신있는 1 대 1 싸움에서, 결함품이라 여겼던 AK-12에게 패배했다.
+AK15(0)<Speaker>AK-15</Speaker>||:나에 대한 징계 말이다.
+AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>0호 사건 실패로 인한 영향을 물으시는 것이라면 걱정하지 마십시오.</color>+<color=#00CCFF>이후 편성된 AK-12와 AN-94가 승승장구하여 실태를 만회했습니다.</color>+<color=#00CCFF>현재도 안젤리아 님의 인솔하에 각지에서 활약 중입니다.</color>
+AK15(0)<Speaker>AK-15</Speaker>||:박사는 내게 실망하지 않았나?
+AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>마담께서는 울프팩 프로젝트의 마무리 작업을 진행 중이십니다.</color>+<color=#00CCFF>매우 바쁠 시기이니, 이해해 주시기 바랍니다.</color>+<color=#00CCFF>마담은 결코 당신을 홀대하려는 것이 아닙니다.</color>
+AK15(0)<Speaker>AK-15</Speaker>||:나는 인형이다. 그저 명령에 따를 뿐이지.+그녀를 이해하기보다, 그녀가 나를 어떻게 쓸지가 궁금하다.
+AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>그것은 마담의 현재 작업이 끝난 뒤에야 알 수 있을 겁니다.</color>+<color=#00CCFF>AK-15, 당신은 여태까지 대기 중에 그토록 초조함을 내비친 적이 없습니다.</color>+<color=#00CCFF>무슨 일이라도 있었습니까?</color>
+AK15(5)<Speaker>AK-15</Speaker>||:초조해하는 게 아니다.+스스로에게 실망했을 뿐이다.
+AK15(5)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>실망했다니요?</color>
+AK15(0)<Speaker>AK-15</Speaker>||:나는 병기로서 박사의 요구를 만족시키지 못했다.
+AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>보조 AI인 제가 보기에도 당신은 매우 성공적인 전술인형입니다.</color>+<color=#00CCFF>저는 당신들 세 명의 설계 및 제조 과정을 전부 지켜봤습니다.</color>+<color=#00CCFF>AN-94와 AK-12와 달리, 마담은 당신에게 가장 많은 심혈을 기울였고 가장 큰 기대를 쏟았습니다.</color>
+AK15(0)<Speaker>AK-15</Speaker>||:하지만 AK-12만큼 주도면밀하지 못해.+난 무기로서 패배해선 안 되고, 패배를 용납할 수도 없다.
+AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>마담이 말씀하시는 "최강"에 얽매였군요, AK-15.</color>
+AK15(0)<Speaker>AK-15</Speaker>||:아니, 그저 사실을 말했을 뿐이다.+나는 반드시 최강의 전술인형이어야 한다. 반드시, 항상.
+AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>그래도...</color>
+AK15(0)<Speaker>AK-15</Speaker>||:......
+AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>...AK-15?</color>
+AK15(5)<Speaker>AK-15</Speaker>||:...나는 아직 힘이 부족하다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><SE1>AVG_keyboardtype_sci</SE1>:깊게 숨을 들이쉬며 자리에서 일어난 AK-15는 다시 시뮬레이션의 수치를 만지작거렸다.
+AK15(2)<Speaker>AK-15</Speaker>||:다시는 박사를 실망시키지 않겠다.
+AK15(2)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>...물론입니다, AK-15.</color>
+()<Speaker></Speaker>||:그런데, 다음 모의전을 시작하려던 AK-15이 돌연 조작하던 손을 멈췄다.
+AK15(0)<Speaker>AK-15</Speaker>||:잠깐. 박사가 아직도 작업 중이라고? 울프팩 프로젝트는 진작에 종료됐을 텐데?
+AK15(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>기밀 사안이므로 여기서는 말할 수 없습니다.</color>+<color=#00CCFF>대신, "늑대 무리"... 아니, "리벨리온" 소대는 분명 신소련 최고의 전술인형 소대가 될 것입니다. 약속드리죠.</color>
+AK15(2)<Speaker>AK-15</Speaker>||:...리벨리온?
+AK15(2)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>저를 믿으십시오, AK-15, 분명 깜짝 놀랄 것입니다.</color>
+()<Speaker></Speaker>||:처음 듣는 이름에 AK-15은 곤혹스러웠지만, 당장 그 답을 받지는 못했다.
+AK15(2)<Speaker>AK-15</Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:하지만, 적어도 그녀에게 아직 시간이 있고, 기회가 있음은 명백했다.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>22</BIN><BGM>BGM_Room</BGM>:실험실 안.
+NPC-shaw(0)<Speaker>쇼</Speaker>||:움직여 봐.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||<SE1>ClothingUp</SE1>:......
+()<Speaker></Speaker>||<SE1>AVG_Grey_Hand_Mech</SE1>:수술대에서 내려온 안젤리아가 자신의 새 금속 의수를 움직여 보았다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:흠... 제법 괜찮네. 네가 반대쪽 팔도 자르진 않을까 무서웠는데.+그나저나, 내가 미적 감각 따질 입장은 아니지만 좀 더 세련되게 만들 순 없었냐?
+NPC-Ange(0);NPC-shaw(4)<Speaker>쇼</Speaker>||:나 슬라브인이거든? 그게 슬라브 스타일이야.+불만 있음 딴 사람 찾던가. 아니, 애초에 이딴 하청 주지를 마.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:내가 좋아서 의수를 달았겠어?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:일을 마친 쇼는 짜증스럽게 손을 휘휘 저으며 의자에 앉았다.+안젤리아는 그녀를 보다, 시선을 반대편의 텅 비었지만 온갖 부품들이 늘어진 작업대로 돌렸다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그래서, 또 뭘 만들고 있어?
+NPC-Ange(0);NPC-shaw(0)<Speaker>쇼</Speaker>||:새 아이디어가 떠올랐어.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;NPC-shaw(0)||:무슨 아이디어?
+NPC-Ange(0);NPC-shaw(0)<Speaker>쇼</Speaker>||:AK-12보다 더... 아니, 정말 더 낫다곤 못해도 시험해볼 만한 거.+너, 계속 나한테 인형은 단순한 병기가 아니라고 했지? 이번엔 진짜 차원이 다른 거야.+내 모든 요구를 충족하고... 어쩌면 내 소원까지 성취해 줄지도 모르지.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;NPC-shaw(0)||:왠지 또 엄청난 골칫거리가 생길 거 같은걸... 일단 물어나 보자, 네 소원이 뭔데?
+NPC-shaw(0)<Speaker>쇼</Speaker>||<SE1>AVG_Knock</SE1>:"반역"——
+()<Speaker></Speaker>||:갑작스런 노크 소리가 쇼의 말을 끊었다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:그리고 두 사람의 시선이 동시에 문으로 향하니, AK-15가 말없이 문을 열고 들어오는 중이었다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:손님이 왔네?+그럼 난 이만 간다, 저쪽 직장에 사표 내러 가야 해.
+NPC-shaw(4)<Speaker>쇼</Speaker>||:그러셔.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:안젤리아가 AK-15와 어깨를 스치며 사라지는 것을 지켜본 다음, 쇼는 AK-15에게 시선을 돌렸다.
+NPC-shaw(0)<Speaker>쇼</Speaker>||:무슨 일이야?
+AK15(0)<Speaker>AK-15</Speaker>||:파트너를 원합니다.
+()<Speaker></Speaker>||:쇼를 똑바로 바라보는 AK-15의 그 붉은 눈동자는 오늘따라 유난히 날카로워 보였다.
+NPC-shaw(0)<Speaker>쇼</Speaker>||:파트너?+먼저 "저번 파트너" 필요 없다 한 녀석이 잘도 염치없는 소릴...+왜 갑자기?
+AK15(0)<Speaker>AK-15</Speaker>;NPC-shaw(0)||:0호 사건...
+AK15(0);NPC-shaw(0)<Speaker>쇼</Speaker>||:응?
+AK15(0)<Speaker>AK-15</Speaker>;NPC-shaw(0)||:만약 제 능력을 효과적으로 발휘하고 활용할 수 있는 지휘가 있었다면, 0호 사건은 실패하지 않았을 겁니다.
+AK15(0);NPC-shaw(0)<Speaker>쇼</Speaker>||:허... 그러니까, 모든 자질구레한 일을 너 대신 처리해 주고, 전장을 분석하고 판단해서, 네가 마음놓고 전투 말곤 딴 생각 안 하게 해 줄 파트너를 원한다?+그렇게 기막히는 건수가 세상에 있을 거 같아?
+AK15(0)<Speaker>AK-15</Speaker>;NPC-shaw(0)||:예.
+NPC-shaw(5)<Speaker>쇼</Speaker>||:허이구... 거 참 재미있네.+무슨 근거로?
+()<Speaker></Speaker>||:걸음을 천천히 옮기며, AK-15는 시선을 출구의 한구석에 고정했다.
+AK15(0)<Speaker>AK-15</Speaker>||:이미 완성하셨잖습니까.
+()<Speaker>？？？</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:그곳에서, 안젤리아도 눈치채지 못한 은색의 인형이 흥미롭게 웃으며 천천히 걸어 나왔다.
+RPK16(4)<Speaker>？？？</Speaker>||<SE1>Stop_AVG_loop</SE1>:과연 신소련 최강의 전술인형이랄까, 당신의 눈은 속일 수가 없군요. 서프라이즈가 허사가 돼서 참 아쉬워요.+인류의 신화에 비상한 눈을 가진 영웅들이 많이 나오는데, 당신도 그런 부류이려나요?
+NPC-shaw(0)<Speaker>쇼</Speaker>||:......
+AK15(0)<Speaker>AK-15</Speaker>||:보름 전, 나쟈에게서 박사가 아직 울프팩 프로젝트의 작업을 진행 중이라 들었습니다.+하지만 AN-94와 AK-12는 이미 실전에 투입되어, 박사가 바쁠 정도로 처리할 일은 없었을 터입니다.+하나 더 만드시는 게 아닌 이상은.
+NPC-shaw(5)<Speaker>쇼</Speaker>||:헤에... 제법이네 명탐정 씨.
+()<Speaker></Speaker>||:의미심장한 말을 하며, 쇼는 눈을 감았다.
+NPC-shaw(0)<Speaker>쇼</Speaker>||:이렇게 됐으니 자기소개나 해라, 판... RPK-16.
+RPK16(0)<Speaker>RPK16</Speaker>||:만나서 반가워요, AK-15.+울프팩 프로젝트의 4호기, 코드네임 "은여우", RPK-16이에요. 당신의 파트너랍니다.
+AK15(0)<Speaker>AK-15</Speaker>;RPK16(0)||:...4호기?
+AK15(0);RPK16(6)<Speaker>RPK16</Speaker>||:네, 4호기요. 제가 보기엔 AN-94가 영락없는 1호기거든요.+그래서 당신은 2호기, AK-12는 3호기, 그리고 저는 막내니 4호기죠.
+AK15(0)<Speaker>AK-15</Speaker>;RPK16(6)||<SE1>AVG_keyboardtype_sci</SE1>:넌...
+AK15(0);RPK16(5)<Speaker>RPK16</Speaker>||:네?
+AK15(0)<Speaker>AK-15</Speaker>||:.....
+NPC-shaw(0)<Speaker>쇼</Speaker>||:하고 싶은 말 있음 얼른 해.+나도 들어나 보자.
+AK15(0)<Speaker>AK-15</Speaker>||:...소체의 강도가 AK-12보다도 못하군.+거기다 울프아이 시스템도 탑재되지 않았어.+"우리"의 기준에도 못 미친다.
+()<Speaker></Speaker>||:풍자나 모욕의 의도는 전혀 없이, AK-15는 보이는 사실대로 말했다.+분석을 통해 RPK-16의 존재는 추측해냈지만, 직접 본인을 보니 AK-15는 놀랄 수밖에 없었다.
+AK15(0)<Speaker>AK-15</Speaker>||:박사의 최신작이... 정말 너라고?
+RPK16(6)<Speaker>RPK16</Speaker>||:네, 저는 박사의 이상이 담긴 작품이자 인형에 대한 해석이랍니다.
+()<Speaker></Speaker>||:AK-15와 마주보는 RPK-16은 일말의 망설임도 없이 대답했다.
+RPK16(4)<Speaker>RPK16</Speaker>||:제가 바로 박사의 최고 업적이자, 페르시카 박사가 틀렸음을 증명할 최종 병기예요.+...이렇게 말하면 좀 기분이 나으세요?
+NPC-shaw(5)<Speaker>쇼</Speaker>||:풉...+그래, 그런 거다. 그 녀석이 내 최신작이야.+성능은 엉망에, 입방정은 아주 난리블루스지. AK-12랑도 얼마나 차이나는지 몰라.+얘 말고 다른 파트너 갖고 싶음 좀 더 고생해보마.
+AK15(0)<Speaker>AK-15</Speaker>||:......
+()<Speaker></Speaker>||:쇼가 놀리면서 떠보자, AK-15는 잠깐 침묵했다.
+AK15(0)<Speaker>AK-15</Speaker>||:넌 무엇을 할 수 있지?
+AK15(0);RPK16(4)<Speaker>RPK16</Speaker>||:당신의 장점을 마음껏 발휘하게 해 줄게요. 당신의 소망대로, 당신의 능력을 최대한으로 활용해 주겠어요.+당신을 말리지도 않을 거고, 당신과 맞지 않는 임무에도 보내지 않... 흐음, 차라리 이렇게 말할까요? 당신은 아무 걱정도 할 필요 없어요. 제가 다 알아서 처리해 줄 테니까요.+당신은 그냥, 보이는 족족 다 쳐부수면 돼요.+지금까지 그래 왔던 것처럼.
+AK15(0)<Speaker>AK-15</Speaker>;RPK16(4)||:...정말 할 수 있나?
+RPK16(6)<Speaker>RPK16</Speaker>||:글쎄요? 허풍일 수도 있죠.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:희미한 미소와 함께, RPK-16은 손을 내밀었다. 누구나 파트너와 처음 만났을 때 하는 것처럼.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AK-15는 가만히 그녀의 얼굴을 주시하다, 결국 그 손을 잡았다.
+RPK16(2)<Speaker>RPK16</Speaker>||:당신은 저를 믿나요, AK-15?
+()<Speaker></Speaker>||:그녀의 눈동자에, 흔들림은 없었다.
+AK15(5)<Speaker>AK-15</Speaker>||:......
+()||<黑屏1>:
+RPK16(2)<Speaker>RPK16</Speaker>||<BIN>9</BIN><黑屏2><回忆><BGM>BGM_Empty</BGM>:당신은 저를 믿나요, AK-15?
+AK15(5)<Speaker>AK-15</Speaker>||:......나는 항상 너를 믿었다.+너는 내가 가장 강한 전술인형이기만 하면 되도록 해 주었고, 어떠한 고민도 시키지 않았다.+난 항상 너를 믿었다, RPK. 네가 말한 것처럼.+나는, 너를 믿었다.
+()||<黑屏1>:
+AK15MOD(0)<Speaker>AK-15</Speaker>||<BIN>9</BIN><黑屏2><关闭蒙版>:......
+AN94MOD(0)<Speaker>AN-94</Speaker>||:AK-15?
+AK15MOD(0)<Speaker>AK-15</Speaker>||:......
+()<Speaker></Speaker>||<SE1>Rope</SE1>:테이프를 자르고, 손 안의 탄약의 수를 가늠하는 AK-15의 눈동자는 고요해, 어떠한 감정도 읽을 수 없었다.
+AK15MOD(0)<Speaker>AK-15</Speaker>||<SE1>ClothingUp</SE1>:하나 더.
+AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:이미 많이 만들었다.
+AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker>||:하나만 더.+...이건 RPK의 몫이다.
+AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:......
+AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker>||:그녀만은... 내 손으로 직접 처리하겠다.
+AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:네 심정은 이해한다, 나도 같으니까... 하지만 사적인 감정에 휘둘리면 임무를 그르치게 된다.
+AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker>||:알고 있다.+이것이 최선의 선택이다.+그녀를 죽인다면, 반드시 내가 해야만 한다.
+AN94MOD(0)<Speaker>AN-94</Speaker>;AK15MOD(0)||:...파트너이기 때문인가?
+AN94MOD(0);AK15MOD(0)<Speaker>AK-15</Speaker>||:그녀에게 최강의 전술인형은 나니까.+그렇기에 그녀는 나를 이길 수 없다. 절대.
+AN94MOD(0)<Speaker>AN-94</Speaker>||:......+가자, 지휘관이 부른다.
+AK15MOD(0)<Speaker>AK-15</Speaker>||:그래.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AK-15는 자리에서 일어나, 준비한 무장을 전부 주머니에 수납했다.+과연 누가 첫번째일지는 아직 모른다.+하지만, RPK-16이 마지막이 될것임은 틀림없다.+그녀가 장담한다.
+()||<黑点1>:

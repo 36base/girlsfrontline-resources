@@ -1,132 +1,132 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>97</BIN><BGM>BGM_Hello</BGM>:가구 전시회장 바깥.
-M1895MG(0)<Speaker>M1895MG</Speaker><通讯框>||:<color=#00CCFF>정말 죄송해요, MG34 씨...</color>
-MG34(0)<Speaker>MG34</Speaker>||:뭘 사과하고 그래? 네 잘못도 아닌걸.+그리고 가구 전시회 홍보쯤이야, 나 혼자서도 충분해.+안심하고 치킨 광고 촬영 열심히 하고 와.
-M1895MG(0)<Speaker>M1895MG</Speaker><通讯框>||:<color=#00CCFF>네... 그래도 혹시 제가 도울 일 있으면...</color>+<color=#00CCFF>꼭 제게 말해 주세요...</color>
-()||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
-MG42(0)<Speaker>MG42</Speaker><通讯框>||:<color=#00CCFF>언니, 정말 괜찮겠어여?</color>+<color=#00CCFF>출발 전까지만 해도 그냥 단순한 새해 맞이용 의복 구매 임무였는데...</color>+<color=#00CCFF>와서 보니까 내용은 완전히 바뀌고, 같이 간 동료는 다른 곳으로 차출되고...</color>
-MG34(0)<Speaker>MG34</Speaker>||:급변하는 상황에 맞춰 유연하게 대처하는 것도 전술인형으로서의 기본 소양이야.+게다가 가구 전시회를 홍보해서 손님을 끌어들이는 게 전부인데, 뭐가 어렵겠어?+나 혼자서도 문제 없을 거야.
-MG42(0)<Speaker>MG42</Speaker><通讯框>||:<color=#00CCFF>전 그런 일 해본 적이 없어서 잘 모르겠어여.</color>+<color=#00CCFF>갑자기 익숙치 않은 임무로 언니가 힘들까 봐 걱정돼여.</color>+<color=#00CCFF>그래도 언니가 괜찮다니, 분명 다 잘 될 거에여!</color>
-MG34(0)<Speaker>MG34</Speaker>||:그래, 이 언니만 믿어.+넌 좋은 소식만 기다리면 돼.
-MG42(0)<Speaker>MG42</Speaker><通讯框>||:<color=#00CCFF>네! 그럼 저도 군수지원 임무에 전념할게여!</color>
-()||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
-MG34(0)<Speaker>MG34</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:자아... 그럼 나도 이제 옷 갈아입고 시작해야지.
-()||<黑屏2><BIN>86</BIN><BGM>m_avg_casual</BGM>:사람으로 북적이는 거리.
-MG34(2)<Speaker>MG34</Speaker>||<黑点1>:<color=#A9A9A9>그러고 보니, 나 혼자서 인간과 직접 접촉하는 임무는 처음이네...</color>+<color=#A9A9A9>그래도 별문제 없겠지? 그냥 전시회를 홍보하는 거니까...</color>+<color=#A9A9A9>괜히 시비 붙지만 않으면 괜찮을 거야.</color>+<color=#A9A9A9>임무 방침은... 일단 인형에게 가구는 컨디션 향상을 위한 도구인데...</color>+<color=#A9A9A9>인간에게는...?</color>
-NPC-Kalin(1)<Speaker>카리나</Speaker>||<回忆><黑点2><BIN>18</BIN><黑点1>:그리폰&크루거 안전계약사에서 새로 입고한 가구입니다! 우수한 품질에 저렴한 가격!+100만? 아니죠~ 10만? 아~니죠! 첫 주 한정 특가가 무려 39,800 크레딧!+단돈 39,800 크레딧으로 이 가구를 저~언부 가져가실 수 있어요!
-NPC-Kalin(5)<Speaker>카리나</Speaker>||<黑点2><BIN>89</BIN>:세상에, 시장가 50만인 상품을 대체 누가 이렇게까지 가격을 깎은 거죠?
-NPC-Kalin(2)<Speaker>카리나</Speaker>||<黑点1>:가게 망하라고 이러는 걸까요? 책임자 당장 나오세요!
-NPC-Kalin(7)<Speaker>카리나</Speaker>||<黑点2><BIN>139</BIN><黑点1>:천연 티크목 100%로 제작된 이 수제 책상 좀 보세요! 튼튼한 건 물론이고, 표면에 은은하게 감도는 이 광택! 그리고 천연 목재의 향기까지~+과연 경매에서 천문학적인 가격으로 낙찰된 물건이라니까요!
-MG34(2)<Speaker>MG34</Speaker>||<关闭蒙版><BIN>86</BIN><黑点2>:<color=#A9A9A9>오... 알았다, 아무튼 숫자를 강조해서 가구 자체의 가치로 눈길을 끄는 거구나.</color>+<color=#A9A9A9>구제척으로 어떻게 할지는 아직 모르겠지만, 방침은 정해졌으니 일단 제1단계 실시!</color>+<color=#A9A9A9>목표 지점으로 이동!</color>
-()||<黑点1>:MG34는 허리를 꼿꼿이 펴고, 웅성대는 인파 속으로 돌입했다.
-MG34(2)<Speaker>MG34</Speaker>||<BIN>166</BIN><黑点2>:<color=#A9A9A9>과연 대도시의 중심가... 행인의 밀도도, 교류 속도도 홍보하기에 최고야.</color>+<color=#A9A9A9>여기저기 돌아다니면서 홍보하는 방법도 있겠지만, 역시 한 곳에서 자리 잡고 하는 편이 더 좋겠지?</color>+<color=#A9A9A9>카리나 씨가 사전에 노점 자리를 맡아 둬서 다행이야.</color>
-()||:행렬을 따라가면서, MG34는 금세 일렬로 죽 늘어진 홍보용 노점가에 도착했다. 젊은 인간 여성 몇 명이 지나가는 행인들에게 열정적으로 영업을 하고 있었다.
-()<Speaker>판매원A</Speaker>||:<color=#FF69B4>안녕하세요, 혹시 신선한 장미와 촉촉한 갯벌, 그리고 상큼한 알로에의 향기를 함께 맡아보신 적 있으신가요?</color>+<color=#FF69B4>저희 회사의 신제품 향수를 한번――</color>
-()<Speaker>판매원B</Speaker>||:<color=#7B68EE>마지막으로 직접 펜으로 글을 쓴 적이 언제였는지 기억나시나요?</color>+<color=#7B68EE>생활은 갈수록 편해져 가지만, 전자제품에 의존하기만 해서는 안 된답니다. 저희――</color>
-()<Speaker>판매원C</Speaker>||:언니, 운명을 믿으시나여...?
-MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>엑... 경쟁이 저렇게 치열해? 카리나 씨가 명당자리를 확보했댔는데, 저래서는 생각보다 쉽지 않겠어.</color>+<color=#A9A9A9>우선 저 포위망부터 뚫고 들어가야만 해. 모두 내가 전시회장으로 손님들을 보내기만을 기다리고 있을 거야...</color>+죄송합니다, 실례할게요. 여기 제 자리예요.
-()||:그 말에 판매원들의 시선이 MG34에게 집중됐다. 적대심과 경쟁심을 한 몸에 받으며, MG34는 잔뜩 긴장한 채로 자신의 노점을 준비했다.
-()<Speaker>판매원A</Speaker>||:<color=#FF69B4>저기 언니, 뭘 홍보하러 왔어?</color>
-MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>인간이 먼저 말을 걸어왔어! 예의 바른 태도로 대응...</color>+안녕하세요, 저는 가구 전시회를 홍보하러 왔어요. 3차 대전 이전부터 전해져 온 고급 가구들인데...
-()<Speaker>판매원B</Speaker>||:<color=#7B68EE>와아, 이런 데에 고급 가구를 홍보하러 왔다고?</color>
-MG34(2)<Speaker>MG34</Speaker>||:아, 고급이지만 비싸진 않아요. 다 합리적인 가격으로...
-()<Speaker>판매원A</Speaker>||:<color=#FF69B4>합리적인 가격? 그 합리적이란 기준은 뭔데?</color>+<color=#FF69B4>동전 한 닢 없는 사람에겐 책 한 권 사는 것조차 사치인걸.</color>+<color=#FF69B4>반대로 부자들에겐 자동차를 사고파는 것도 일이 아니잖아.</color>
-MG34(2)<Speaker>MG34</Speaker>||:그건... 저...
-NPC-PasserbyF(0)<Speaker>판매원C</Speaker>||:당신네들, 또 신참 괴롭히기에여?+다들 파는 것도 다르면서 뭘 그렇게 경쟁하고 있어여.
-MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>휴우... 살았다...</color>
-()<Speaker>판매원B</Speaker>||:<color=#7B68EE>하여간 남 걱정은 잘해요. 같은 시간, 같은 장소에서 노점 하나가 끌어들일 수 있는 사람의 수는 한계가 있다고.</color>+<color=#7B68EE>노점이 늘어날수록 우리의 홍보 성공률도 떨어져.</color>+<color=#7B68EE>아무리 저마다 파는 물건이 다르다 해도, 엄연한 경쟁 관계야!</color>
-()<Speaker>판매원A</Speaker>||:<color=#FF69B4>내 말이!</color>+<color=#FF69B4>그러니까, 시간 낭비 그만하고 다시 제 할일이나 하자고.</color>
-MG34(2)<Speaker>MG34</Speaker>||:저... 어쩌면 서로 협력하는 편이 더 효율이 좋지 않을까요?
-NPC-PasserbyF(0)<Speaker>판매원C</Speaker>||:저 녀석들 겨우 신경 껐는데 다시 시비 걸지 마여.+언니는 언니의 가구 전시회 홍보 힘내세여.
-MG34(2)<Speaker>MG34</Speaker>||:네... 고마워요, 예쁜 아가씨.
-NPC-PasserbyF(0)<Speaker>판매원C</Speaker>||:헤헤헤, 천만에여. 저는 새이라고 해여.
-MG34(2)<Speaker>MG34</Speaker>||:엑, 4, 42?!
-NPC-PasserbyF(0)<Speaker>새이</Speaker>||:언니는 이름이 뭐에여?
-MG34(2)<Speaker>MG34</Speaker>||:어, 음, 저, 저는 34...
-NPC-PasserbyF(0)<Speaker>새이</Speaker>||:산삼...? 재밌는 이름이네여.+저기 저 인상 더러운 애들은 "헤인"이랑 "리히"라 해여.
-()<Speaker>헤인</Speaker>||:<color=#FF69B4>모르는 사람한테 쓸데없이 함부로 이름 가르쳐 주지 마.</color>
-()<Speaker>리히</Speaker>||:<color=#7B68EE>내 말이.</color>
-NPC-PasserbyF(0)<Speaker>새이</Speaker>||:네에 네에, 됐으니까 다들 할일이나 하자고여.
-MG34(2)<Speaker>MG34</Speaker>||:네!+<color=#A9A9A9>나도 지지 않을 거야...</color>
-()||:인간과 직접 접촉한 적이 많지 않은 MG34는, 인간 여성이 부지런히 일하는 모습을 보고 있자니 기묘한 생각이 들었다.
-MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>내부 구조는 물론 생활 방식까지, 인형과 인간은 정말 많이 다르구나...</color>+<color=#A9A9A9>그런데... 왜 동료들과 함께 일하는 듯한 기분이지? 외모가 비슷해서 그런가?</color>+<color=#A9A9A9>아아, 잡다한 생각은 나중에 하자. 지금은 임무가 있잖아!</color>+안녕하세요, 현재 3차 대전 이전부터 전해져 온 고급 가구 전시회가 진행 중입니다!+품질도 우수하고 정교한 공예품이어서 하나같이 비쌌지만, 전부 아주 저렴한 가격으로 판매하고 있어요!
-MG34(2)<Speaker>MG34</Speaker>||:안녕하세요, 고급 가구를 매우 알뜰한 가격에 판매하고 있습니다!+세상에 둘도 없는 작품이니 하나쯤은 꼭 장만하시는 걸 추천드려요!
-MG34(2)<Speaker>MG34</Speaker>||:안녕하세요, 혹시 고급 가구에 흥미 있으신가요?
-()<Speaker>행인A</Speaker>||:가구 전시회?
-()<Speaker>행인B</Speaker>||:3차 대전 이전의 고급품이라는데?
-()<Speaker>행인C</Speaker>||:오, 쟤 치파오 차림이 예쁘네...
-()<Speaker>헤인</Speaker>||:<color=#FF69B4>아아아, 손님들이 전부 저쪽으로 몰리잖아!</color>
-()<Speaker>리히</Speaker>||:<color=#7B68EE>저거 반칙 아니야!? 몸매에 자신 있다고 망측하게 입기나 하고 말이야!</color>
-NPC-PasserbyF(0)<Speaker>새이</Speaker>||:웃기고 있네여...
-()||:얼마 안 가, MG34의 노점은 수많은 행인들에게 둘러싸였다.
-MG34(2)<Speaker>MG34</Speaker>||:가, 감사합니다, 밀치지 마세요!+전시회에 관한 자세한 설명은 여기 이 QR코드를 스캔하면 확인하실 수 있어요!+그, 그리고 저는 상품이 아니에요...
-()||<BGM>BGM_Empty</BGM>:고객 탈환을 위해, 헤인과 리히도 MG34의 포위망에 끼어들었다.
-()<Speaker>헤인</Speaker>||<BGM>m_avg_tension</BGM>:<color=#FF69B4>시시한 가구 말고 향수는 어떠신가요?!</color>+<color=#FF69B4>우아한 장미향을 시작으로 바닷가의 짭짜름한――</color>
-()<Speaker>행인D</Speaker>||:으아악! 어디서 남의 얼굴에 대뜸 향수를 뿌려대!?
-()<Speaker>리히</Speaker>||:<color=#7B68EE>너무 빨라진 현대 생활에 지친단 느낌은 안 드시나요!? 조금 더 느긋한 과거로 돌아가고 싶진 않으신가요?!</color>+<color=#7B68EE>손으로 직접 편지를 쓰는 게 얼마나 낭만적인지――</color>
-()<Speaker>행인E</Speaker>||:우와악! 펜으로 내 눈 찌를 뻔했잖아!
-MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>뭐지? 내 고객을 뺏어갈 셈인가?</color>+<color=#A9A9A9>그렇겐 안 돼! 아무리 상대가 인간이라도, 절대 양보할 수 없어!</color>+<color=#A9A9A9>그래...! 숫자로 눈길을 끄는 거였지!</color>+여기서 깜짝 이벤트! 저희 가구 전시회에서 사용 가능한 특별 할인 쿠폰을 준비했습니다!+수량이 한정되어 있어, 선착순으로 드립니다!
-()<Speaker>행인A</Speaker>||:할인 쿠폰! 내 거다!
-()<Speaker>행인B</Speaker>||:비켜 비켜! 어디서 새치기야!
-()<Speaker>헤인</Speaker>||:<color=#FF69B4>치잇... 신제품 향수의 미니 사이즈 샘플을 무료로 드려요!</color>
-()<Speaker>행인C</Speaker>||:오! 그거 저 주세요!
-()<Speaker>행인D</Speaker>||:방금 내 얼굴에 뿌린 거 봐줄 테니까 나도 하나 줘!
-()<Speaker>리히</Speaker>||:<color=#7B68EE>저것들이 진짜...</color>+<color=#7B68EE>제길, 그럼 나도 비장의 수다!</color>+<color=#7B68EE>우편 대필 예약 서비스를 오늘만 무료로 제공합니다! 글자 수도 주제도 무제한이에요!</color>
-()<Speaker>행인A</Speaker>||:엑, 오늘 무슨 날인가?
-()<Speaker>행인B</Speaker>||:공짜라는데 일단 예약이나 하고 보자!
-MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>질 줄 알고?!</color>+가구 전시회 5, 50% 할인 쿠폰이요!
-()<Speaker>헤인</Speaker>||:<color=#FF69B4>추첨을 통해 시, 신제품 향수를 무료로 증정합니다!</color>
-()<Speaker>리히</Speaker>||:<color=#7B68EE>우편 대필 서비스 1년 회원권을 무료로 드려요!</color>
-()<Speaker>행인들</Speaker>||:오오오!!
-()||:온갖 파격적인 제안에, 강물 같던 행인들의 행렬이 순식간에 해일로 바뀌었다.
-MG34(2)<Speaker>MG34</Speaker>||<震屏>:미, 밀치지 말아 주세요!+꺄아아——!!
-()||<黑屏1><BGM>BGM_Empty</BGM>:와글와글 몰려드는 인파에 휩쓸려, 사방에서 짓누르고 밀치는 통에 MG34는 숨이 막힐 지경이었다.
-MG34(2)<Speaker>MG34</Speaker>||<黑屏2><BIN>9</BIN>:<color=#A9A9A9>과한 판촉 전략이 역효과를 부른 건가?</color>+<color=#A9A9A9>설마 이대로 실패하는 건 아니겠지...?</color>+<color=#A9A9A9>42...</color>+<color=#A9A9A9>실패하게 되면 기지에서 무슨 면목으로 너를 보지...</color>
-()||<黑屏1>:세차게 고개를 젓고, MG34는 짓밟히지 않게 조심하면서 인파 밖으로 빠져나오려 애썼다.+그때, 여린 손이 그녀를 붙잡고 사람들의 소용돌이 속에서 꺼내 주었다.
-MG34(2)<Speaker>MG34</Speaker>||<BGM>GF_Memorial</BGM><黑屏2><BIN>86</BIN>:허억... 허억...+42... 아, 아니, 새이 씨? 고마워요...
-NPC-PasserbyF(0)<Speaker>새이</Speaker>||:별말씀을여.
-()||:혼란을 틈타 고정된 노점이 없는 홍보업자들까지 끼어들어, 광란에 빠진 시장을 가로챘다.+녹초가 된 MG34는 그걸 신경 쓸 겨를이 없었고, 그 옆의 노점에는 마찬가지로 엉망인 꼴의 헤인과 리히가 늘어져 있었다.
-MG34(2)<Speaker>MG34</Speaker>||:......
-()<Speaker>헤인</Speaker>||:<color=#FF69B4>제길, 겨우 잡은 고객마저 저 길거리 놈들에게 뺏겨 버렸어...</color>
-()<Speaker>리히</Speaker>||:<color=#7B68EE>오늘 실적도 꽝인가...</color>
-MG34(2)<Speaker>MG34</Speaker>||:역시... 역시 서로 협력하면 윈-윈 아닌가요?+왜 다들 이 지경이 되도록...
-()<Speaker>헤인</Speaker>||:<color=#FF69B4>손님을 독차지한 게 누군데!</color>+<color=#FF69B4>그리고, 넌 왜 그렇게 손님을 쉽게 모아?</color>+<color=#FF69B4>홍보 멘트도 완전 아마추어던데...</color>
-MG34(2)<Speaker>MG34</Speaker>||:저도 당신들처럼 열심히 일해서 마땅한 보답을 받은 거겠죠!
-()<Speaker>리히</Speaker>||:<color=#7B68EE>어...? 가까이서 보니까 너, 피부에 모공이 없잖아?</color>+<color=#7B68EE>이목구비도 완전히 대칭에, 비율도 말도 안 될 정도로 좋고...</color>
-MG34(2)<Speaker>MG34</Speaker>||:......
-()<Speaker>헤인</Speaker>||:<color=#FF69B4>너 설마...</color>+<color=#FF69B4>인형이었어?</color>
-MG34(2)<Speaker>MG34</Speaker>||:제가 노력하는데 인형이든 인간이든 무슨 상관이죠?+인형은 노동에 대한 보상을 받아선 안 되나요?
-()<Speaker>리히</Speaker>||:<color=#7B68EE>......</color>
-()<Speaker>헤인</Speaker>||:<color=#FF69B4>여기선 인형 안 받아. 좋게 말할 때 얼른 꺼져.</color>
-MG34(2)<Speaker>MG34</Speaker>||:전...
-NPC-PasserbyF(0)<Speaker>새이</Speaker>||:저기여 당신들, 지금 남의 대기열에 끼어들어서 훼방을 놓은 것도 모자라서 이 언니가 말도 못할 정도로 겁까지 주는 거에여?+인형이면 어떻고 인간이면 어떤데여? 다 장사하면서 실적 쌓으려고 나온 거 아니에여?+그리고 이 언니도 제대로 수속 절차를 밟고서 장사하는 거잖아여. 의심 가면 직접 확인해 보던가여.+자 산삼 언니, 얼른 노점을 다시 정리해여.
-MG34(2)<Speaker>MG34</Speaker>||<黑点1>:네...
-NPC-PasserbyF(0)<Speaker>새이</Speaker>||<黑点2>:괜찮아여 언니, 인형인지 인간인지는 일하는 데 아무 상관 없어여.
-MG34(2)<Speaker>MG34</Speaker>||:고마워요, 또 도움받았네요...
-NPC-PasserbyF(0)<Speaker>새이</Speaker>||:에이 뭘여, 언니를 보고 있자니 왠지 제 친언니가 생각나서 더 챙겨 주고 싶어지는 거 같아여.
-MG34(2)<Speaker>MG34</Speaker>||:당신도... 제 동생이랑 많이 닮았어요.
-NPC-PasserbyF(0)<Speaker>새이</Speaker>||:우와, 인형도 자매가 있나여?+언니의 동생은 어떤 사람이에여?
-MG34(2)<Speaker>MG34</Speaker>||:음... 장난기 많은 응석꾸러기예요.
-NPC-PasserbyF(0)<Speaker>새이</Speaker>||:헤헤헤, 제 언니도 자주 저보고 그렇다던데.+인간과 인형인데, 우리 되게 많이 닮았네여.
-()<Speaker>헤인</Speaker>||:<color=#FF69B4>......</color>+<color=#FF69B4>크흠. 어... 저기, 네 텐트 내가 다시 세워 놨어.</color>+<color=#FF69B4>아까는, 그... 미안해. 짜증나서 마음에도 없는 심한 소리가 나왔어.</color>
-()<Speaker>리히</Speaker>||:<color=#7B68EE>나도 미안... 아까는 정신이 없어서...</color>+<color=#7B68EE>다 일일 목표치 달성하려고 마음이 급하잖아, 이해하지?</color>
-MG34(2)<Speaker>MG34</Speaker>||<黑点1>:......
-JS9mm(2)<Speaker>JS9</Speaker>||<黑点2><BIN>9</BIN><边框>2</边框>:접객 업무는 당신께 맡길게요.
-MG42(0)<Speaker>MG42</Speaker>||<边框>2</边框>:그래도 언니가 괜찮다니, 분명 다 잘 될 거에여!
-NPC-PasserbyF(0)<Speaker>새이</Speaker>||<边框>2</边框><黑点1>:인간과 인형인데, 우리 되게 많이 닮았네여.
-MG34(2)<Speaker>MG34</Speaker>||<黑点2><BIN>166</BIN>:<color=#A9A9A9>인간과 인형은 서로 알게 모르게 경쟁하는 관계가 되었다지만...</color>+<color=#A9A9A9>생각보다 닮은 점이 많구나...</color>+이해해요... 받은 임무를 완수해서, 동료들의 기대에 부응하려고 노력하는 거잖아요.+그러니까, 우리 모두 힘을 합쳐요.
-()<Speaker>헤인</Speaker>||:<color=#FF69B4>엑?</color>
-()<Speaker>리히</Speaker>||:<color=#7B68EE>뭐라고?</color>
-MG34(2)<Speaker>MG34</Speaker>||:저는 지금까지, 제 소대와 함께 일해 왔어요. 각자 역할을 분담해서요.+그러니, 우리도 각자의 상품을 하나의 세트로 만들어서 홍보하는 게 어때요?+그럼 우리 넷이서 같은 목표를 두고 노력하는 거잖아요.+우리가 힘을 합치면, 손님이 어느 노점을 방문해도 모두의 상품을 소개할 수 있을 거예요.
-()<Speaker>헤인</Speaker>||:<color=#FF69B4>그거 꽤 좋은 생각인데...?</color>
-()<Speaker>리히</Speaker>||:<color=#7B68EE>오늘 피크타임도 얼마 안 남았어.</color>+<color=#7B68EE>할 거면 당장 해보자고!</color>
-NPC-PasserbyF(0)<Speaker>새이</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:좋아여! 바로 시작해여!
-()||<黑屏2><BGM>m_avg_casual</BGM>:그렇게 모두가 힘을 합쳐, 좁은 길목에 모여 있던 작은 노점 4개가 하나의 커다란 노점으로 탈바꿈했다.+주변에는 은은한 향기가 퍼졌고, 탁상 위에는 펜과 타로카드도 놓여, 방문객들이 MG34가 회장에서 가져온 고급 벤치에 앉아 무료로 점을 보거나 수필 엽서를 받을 수 있었다.
-()<Speaker>헤인</Speaker>||:<color=#FF69B4>안녕하세요~ 현재 무료 서비스 이벤트가 진행 중입니다! 시간 되신다면 신제품 향수를 한번――</color>
-()<Speaker>리히</Speaker>||:<color=#7B68EE>어서 오세요~! 무료로 점을 봐드립니다~ 사은품으로 수필 엽서도 받아 가세요!</color>
-()||:행인들 사이에서 홍보하던 MG34가 고개를 돌려, 노점의 상태를 살폈다. 지금까지 수백 번을 했던, 임무 도중 대원들의 상황을 파악하듯이.
-MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>모두 열심히 하는구나! 인간이지만 어째선지 다들 내 소대원들 같단 느낌이 드네...</color>+<color=#A9A9A9>좋았어, 나도 힘내야지!</color>+안녕하세요! 혹시 저희 행사에...
-()||<SE1>AVG_tele_connect</SE1>:얼마 후, 통신기가 소리를 냈다.
-JS9mm(2)<Speaker>JS9</Speaker><通讯框>||:<color=#00CCFF>MG34 씨, JS 9입니다. 수고하셨어요, 회장 방문객 수가 목표치를 달성했습니다. 이제 복귀하셔도 돼요.</color>
-MG34(2)<Speaker>MG34</Speaker>||:...네, 바로 복귀하겠습니다.
-()||<SE1>AVG_tele_disconnect</SE1><黑屏1>:통신을 종료하고, MG34는 시끌벅적한 연합 노점을 바라보았다. 세 인간 소녀들 모두 계속해서 몰려드는 손님들을 상대하느라 정신이 없었다. 그녀들의 오늘 실적은 걱정 없을 것이다.+MG34는 멀리서 손을 흔들었다.+무언가를 느낀 새이가 번뜩 고개를 들었지만...+손님들 너머로, 그 인형은 보이지 않았다.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>97</BIN><BGM>BGM_Hello</BGM>:가구 전시회장 바깥.
+M1895MG(0)<Speaker>M1895MG</Speaker><通讯框>||:<color=#00CCFF>정말 죄송해요, MG34 씨...</color>
+MG34(0)<Speaker>MG34</Speaker>||:뭘 사과하고 그래? 네 잘못도 아닌걸.+그리고 가구 전시회 홍보쯤이야, 나 혼자서도 충분해.+안심하고 치킨 광고 촬영 열심히 하고 와.
+M1895MG(0)<Speaker>M1895MG</Speaker><通讯框>||:<color=#00CCFF>네... 그래도 혹시 제가 도울 일 있으면...</color>+<color=#00CCFF>꼭 제게 말해 주세요...</color>
+()||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
+MG42(0)<Speaker>MG42</Speaker><通讯框>||:<color=#00CCFF>언니, 정말 괜찮겠어여?</color>+<color=#00CCFF>출발 전까지만 해도 그냥 단순한 새해 맞이용 의복 구매 임무였는데...</color>+<color=#00CCFF>와서 보니까 내용은 완전히 바뀌고, 같이 간 동료는 다른 곳으로 차출되고...</color>
+MG34(0)<Speaker>MG34</Speaker>||:급변하는 상황에 맞춰 유연하게 대처하는 것도 전술인형으로서의 기본 소양이야.+게다가 가구 전시회를 홍보해서 손님을 끌어들이는 게 전부인데, 뭐가 어렵겠어?+나 혼자서도 문제 없을 거야.
+MG42(0)<Speaker>MG42</Speaker><通讯框>||:<color=#00CCFF>전 그런 일 해본 적이 없어서 잘 모르겠어여.</color>+<color=#00CCFF>갑자기 익숙치 않은 임무로 언니가 힘들까 봐 걱정돼여.</color>+<color=#00CCFF>그래도 언니가 괜찮다니, 분명 다 잘 될 거에여!</color>
+MG34(0)<Speaker>MG34</Speaker>||:그래, 이 언니만 믿어.+넌 좋은 소식만 기다리면 돼.
+MG42(0)<Speaker>MG42</Speaker><通讯框>||:<color=#00CCFF>네! 그럼 저도 군수지원 임무에 전념할게여!</color>
+()||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
+MG34(0)<Speaker>MG34</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:자아... 그럼 나도 이제 옷 갈아입고 시작해야지.
+()||<黑屏2><BIN>86</BIN><BGM>m_avg_casual</BGM>:사람으로 북적이는 거리.
+MG34(2)<Speaker>MG34</Speaker>||<黑点1>:<color=#A9A9A9>그러고 보니, 나 혼자서 인간과 직접 접촉하는 임무는 처음이네...</color>+<color=#A9A9A9>그래도 별문제 없겠지? 그냥 전시회를 홍보하는 거니까...</color>+<color=#A9A9A9>괜히 시비 붙지만 않으면 괜찮을 거야.</color>+<color=#A9A9A9>임무 방침은... 일단 인형에게 가구는 컨디션 향상을 위한 도구인데...</color>+<color=#A9A9A9>인간에게는...?</color>
+NPC-Kalin(1)<Speaker>카리나</Speaker>||<回忆><黑点2><BIN>18</BIN><黑点1>:그리폰&크루거 안전계약사에서 새로 입고한 가구입니다! 우수한 품질에 저렴한 가격!+100만? 아니죠~ 10만? 아~니죠! 첫 주 한정 특가가 무려 39,800 크레딧!+단돈 39,800 크레딧으로 이 가구를 저~언부 가져가실 수 있어요!
+NPC-Kalin(5)<Speaker>카리나</Speaker>||<黑点2><BIN>89</BIN>:세상에, 시장가 50만인 상품을 대체 누가 이렇게까지 가격을 깎은 거죠?
+NPC-Kalin(2)<Speaker>카리나</Speaker>||<黑点1>:가게 망하라고 이러는 걸까요? 책임자 당장 나오세요!
+NPC-Kalin(7)<Speaker>카리나</Speaker>||<黑点2><BIN>139</BIN><黑点1>:천연 티크목 100%로 제작된 이 수제 책상 좀 보세요! 튼튼한 건 물론이고, 표면에 은은하게 감도는 이 광택! 그리고 천연 목재의 향기까지~+과연 경매에서 천문학적인 가격으로 낙찰된 물건이라니까요!
+MG34(2)<Speaker>MG34</Speaker>||<关闭蒙版><BIN>86</BIN><黑点2>:<color=#A9A9A9>오... 알았다, 아무튼 숫자를 강조해서 가구 자체의 가치로 눈길을 끄는 거구나.</color>+<color=#A9A9A9>구제척으로 어떻게 할지는 아직 모르겠지만, 방침은 정해졌으니 일단 제1단계 실시!</color>+<color=#A9A9A9>목표 지점으로 이동!</color>
+()||<黑点1>:MG34는 허리를 꼿꼿이 펴고, 웅성대는 인파 속으로 돌입했다.
+MG34(2)<Speaker>MG34</Speaker>||<BIN>166</BIN><黑点2>:<color=#A9A9A9>과연 대도시의 중심가... 행인의 밀도도, 교류 속도도 홍보하기에 최고야.</color>+<color=#A9A9A9>여기저기 돌아다니면서 홍보하는 방법도 있겠지만, 역시 한 곳에서 자리 잡고 하는 편이 더 좋겠지?</color>+<color=#A9A9A9>카리나 씨가 사전에 노점 자리를 맡아 둬서 다행이야.</color>
+()||:행렬을 따라가면서, MG34는 금세 일렬로 죽 늘어진 홍보용 노점가에 도착했다. 젊은 인간 여성 몇 명이 지나가는 행인들에게 열정적으로 영업을 하고 있었다.
+()<Speaker>판매원A</Speaker>||:<color=#FF69B4>안녕하세요, 혹시 신선한 장미와 촉촉한 갯벌, 그리고 상큼한 알로에의 향기를 함께 맡아보신 적 있으신가요?</color>+<color=#FF69B4>저희 회사의 신제품 향수를 한번――</color>
+()<Speaker>판매원B</Speaker>||:<color=#7B68EE>마지막으로 직접 펜으로 글을 쓴 적이 언제였는지 기억나시나요?</color>+<color=#7B68EE>생활은 갈수록 편해져 가지만, 전자제품에 의존하기만 해서는 안 된답니다. 저희――</color>
+()<Speaker>판매원C</Speaker>||:언니, 운명을 믿으시나여...?
+MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>엑... 경쟁이 저렇게 치열해? 카리나 씨가 명당자리를 확보했댔는데, 저래서는 생각보다 쉽지 않겠어.</color>+<color=#A9A9A9>우선 저 포위망부터 뚫고 들어가야만 해. 모두 내가 전시회장으로 손님들을 보내기만을 기다리고 있을 거야...</color>+죄송합니다, 실례할게요. 여기 제 자리예요.
+()||:그 말에 판매원들의 시선이 MG34에게 집중됐다. 적대심과 경쟁심을 한 몸에 받으며, MG34는 잔뜩 긴장한 채로 자신의 노점을 준비했다.
+()<Speaker>판매원A</Speaker>||:<color=#FF69B4>저기 언니, 뭘 홍보하러 왔어?</color>
+MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>인간이 먼저 말을 걸어왔어! 예의 바른 태도로 대응...</color>+안녕하세요, 저는 가구 전시회를 홍보하러 왔어요. 3차 대전 이전부터 전해져 온 고급 가구들인데...
+()<Speaker>판매원B</Speaker>||:<color=#7B68EE>와아, 이런 데에 고급 가구를 홍보하러 왔다고?</color>
+MG34(2)<Speaker>MG34</Speaker>||:아, 고급이지만 비싸진 않아요. 다 합리적인 가격으로...
+()<Speaker>판매원A</Speaker>||:<color=#FF69B4>합리적인 가격? 그 합리적이란 기준은 뭔데?</color>+<color=#FF69B4>동전 한 닢 없는 사람에겐 책 한 권 사는 것조차 사치인걸.</color>+<color=#FF69B4>반대로 부자들에겐 자동차를 사고파는 것도 일이 아니잖아.</color>
+MG34(2)<Speaker>MG34</Speaker>||:그건... 저...
+NPC-PasserbyF(0)<Speaker>판매원C</Speaker>||:당신네들, 또 신참 괴롭히기에여?+다들 파는 것도 다르면서 뭘 그렇게 경쟁하고 있어여.
+MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>휴우... 살았다...</color>
+()<Speaker>판매원B</Speaker>||:<color=#7B68EE>하여간 남 걱정은 잘해요. 같은 시간, 같은 장소에서 노점 하나가 끌어들일 수 있는 사람의 수는 한계가 있다고.</color>+<color=#7B68EE>노점이 늘어날수록 우리의 홍보 성공률도 떨어져.</color>+<color=#7B68EE>아무리 저마다 파는 물건이 다르다 해도, 엄연한 경쟁 관계야!</color>
+()<Speaker>판매원A</Speaker>||:<color=#FF69B4>내 말이!</color>+<color=#FF69B4>그러니까, 시간 낭비 그만하고 다시 제 할일이나 하자고.</color>
+MG34(2)<Speaker>MG34</Speaker>||:저... 어쩌면 서로 협력하는 편이 더 효율이 좋지 않을까요?
+NPC-PasserbyF(0)<Speaker>판매원C</Speaker>||:저 녀석들 겨우 신경 껐는데 다시 시비 걸지 마여.+언니는 언니의 가구 전시회 홍보 힘내세여.
+MG34(2)<Speaker>MG34</Speaker>||:네... 고마워요, 예쁜 아가씨.
+NPC-PasserbyF(0)<Speaker>판매원C</Speaker>||:헤헤헤, 천만에여. 저는 새이라고 해여.
+MG34(2)<Speaker>MG34</Speaker>||:엑, 4, 42?!
+NPC-PasserbyF(0)<Speaker>새이</Speaker>||:언니는 이름이 뭐에여?
+MG34(2)<Speaker>MG34</Speaker>||:어, 음, 저, 저는 34...
+NPC-PasserbyF(0)<Speaker>새이</Speaker>||:산삼...? 재밌는 이름이네여.+저기 저 인상 더러운 애들은 "헤인"이랑 "리히"라 해여.
+()<Speaker>헤인</Speaker>||:<color=#FF69B4>모르는 사람한테 쓸데없이 함부로 이름 가르쳐 주지 마.</color>
+()<Speaker>리히</Speaker>||:<color=#7B68EE>내 말이.</color>
+NPC-PasserbyF(0)<Speaker>새이</Speaker>||:네에 네에, 됐으니까 다들 할일이나 하자고여.
+MG34(2)<Speaker>MG34</Speaker>||:네!+<color=#A9A9A9>나도 지지 않을 거야...</color>
+()||:인간과 직접 접촉한 적이 많지 않은 MG34는, 인간 여성이 부지런히 일하는 모습을 보고 있자니 기묘한 생각이 들었다.
+MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>내부 구조는 물론 생활 방식까지, 인형과 인간은 정말 많이 다르구나...</color>+<color=#A9A9A9>그런데... 왜 동료들과 함께 일하는 듯한 기분이지? 외모가 비슷해서 그런가?</color>+<color=#A9A9A9>아아, 잡다한 생각은 나중에 하자. 지금은 임무가 있잖아!</color>+안녕하세요, 현재 3차 대전 이전부터 전해져 온 고급 가구 전시회가 진행 중입니다!+품질도 우수하고 정교한 공예품이어서 하나같이 비쌌지만, 전부 아주 저렴한 가격으로 판매하고 있어요!
+MG34(2)<Speaker>MG34</Speaker>||:안녕하세요, 고급 가구를 매우 알뜰한 가격에 판매하고 있습니다!+세상에 둘도 없는 작품이니 하나쯤은 꼭 장만하시는 걸 추천드려요!
+MG34(2)<Speaker>MG34</Speaker>||:안녕하세요, 혹시 고급 가구에 흥미 있으신가요?
+()<Speaker>행인A</Speaker>||:가구 전시회?
+()<Speaker>행인B</Speaker>||:3차 대전 이전의 고급품이라는데?
+()<Speaker>행인C</Speaker>||:오, 쟤 치파오 차림이 예쁘네...
+()<Speaker>헤인</Speaker>||:<color=#FF69B4>아아아, 손님들이 전부 저쪽으로 몰리잖아!</color>
+()<Speaker>리히</Speaker>||:<color=#7B68EE>저거 반칙 아니야!? 몸매에 자신 있다고 망측하게 입기나 하고 말이야!</color>
+NPC-PasserbyF(0)<Speaker>새이</Speaker>||:웃기고 있네여...
+()||:얼마 안 가, MG34의 노점은 수많은 행인들에게 둘러싸였다.
+MG34(2)<Speaker>MG34</Speaker>||:가, 감사합니다, 밀치지 마세요!+전시회에 관한 자세한 설명은 여기 이 QR코드를 스캔하면 확인하실 수 있어요!+그, 그리고 저는 상품이 아니에요...
+()||<BGM>BGM_Empty</BGM>:고객 탈환을 위해, 헤인과 리히도 MG34의 포위망에 끼어들었다.
+()<Speaker>헤인</Speaker>||<BGM>m_avg_tension</BGM>:<color=#FF69B4>시시한 가구 말고 향수는 어떠신가요?!</color>+<color=#FF69B4>우아한 장미향을 시작으로 바닷가의 짭짜름한――</color>
+()<Speaker>행인D</Speaker>||:으아악! 어디서 남의 얼굴에 대뜸 향수를 뿌려대!?
+()<Speaker>리히</Speaker>||:<color=#7B68EE>너무 빨라진 현대 생활에 지친단 느낌은 안 드시나요!? 조금 더 느긋한 과거로 돌아가고 싶진 않으신가요?!</color>+<color=#7B68EE>손으로 직접 편지를 쓰는 게 얼마나 낭만적인지――</color>
+()<Speaker>행인E</Speaker>||:우와악! 펜으로 내 눈 찌를 뻔했잖아!
+MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>뭐지? 내 고객을 뺏어갈 셈인가?</color>+<color=#A9A9A9>그렇겐 안 돼! 아무리 상대가 인간이라도, 절대 양보할 수 없어!</color>+<color=#A9A9A9>그래...! 숫자로 눈길을 끄는 거였지!</color>+여기서 깜짝 이벤트! 저희 가구 전시회에서 사용 가능한 특별 할인 쿠폰을 준비했습니다!+수량이 한정되어 있어, 선착순으로 드립니다!
+()<Speaker>행인A</Speaker>||:할인 쿠폰! 내 거다!
+()<Speaker>행인B</Speaker>||:비켜 비켜! 어디서 새치기야!
+()<Speaker>헤인</Speaker>||:<color=#FF69B4>치잇... 신제품 향수의 미니 사이즈 샘플을 무료로 드려요!</color>
+()<Speaker>행인C</Speaker>||:오! 그거 저 주세요!
+()<Speaker>행인D</Speaker>||:방금 내 얼굴에 뿌린 거 봐줄 테니까 나도 하나 줘!
+()<Speaker>리히</Speaker>||:<color=#7B68EE>저것들이 진짜...</color>+<color=#7B68EE>제길, 그럼 나도 비장의 수다!</color>+<color=#7B68EE>우편 대필 예약 서비스를 오늘만 무료로 제공합니다! 글자 수도 주제도 무제한이에요!</color>
+()<Speaker>행인A</Speaker>||:엑, 오늘 무슨 날인가?
+()<Speaker>행인B</Speaker>||:공짜라는데 일단 예약이나 하고 보자!
+MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>질 줄 알고?!</color>+가구 전시회 5, 50% 할인 쿠폰이요!
+()<Speaker>헤인</Speaker>||:<color=#FF69B4>추첨을 통해 시, 신제품 향수를 무료로 증정합니다!</color>
+()<Speaker>리히</Speaker>||:<color=#7B68EE>우편 대필 서비스 1년 회원권을 무료로 드려요!</color>
+()<Speaker>행인들</Speaker>||:오오오!!
+()||:온갖 파격적인 제안에, 강물 같던 행인들의 행렬이 순식간에 해일로 바뀌었다.
+MG34(2)<Speaker>MG34</Speaker>||<震屏>:미, 밀치지 말아 주세요!+꺄아아——!!
+()||<黑屏1><BGM>BGM_Empty</BGM>:와글와글 몰려드는 인파에 휩쓸려, 사방에서 짓누르고 밀치는 통에 MG34는 숨이 막힐 지경이었다.
+MG34(2)<Speaker>MG34</Speaker>||<黑屏2><BIN>9</BIN>:<color=#A9A9A9>과한 판촉 전략이 역효과를 부른 건가?</color>+<color=#A9A9A9>설마 이대로 실패하는 건 아니겠지...?</color>+<color=#A9A9A9>42...</color>+<color=#A9A9A9>실패하게 되면 기지에서 무슨 면목으로 너를 보지...</color>
+()||<黑屏1>:세차게 고개를 젓고, MG34는 짓밟히지 않게 조심하면서 인파 밖으로 빠져나오려 애썼다.+그때, 여린 손이 그녀를 붙잡고 사람들의 소용돌이 속에서 꺼내 주었다.
+MG34(2)<Speaker>MG34</Speaker>||<BGM>GF_Memorial</BGM><黑屏2><BIN>86</BIN>:허억... 허억...+42... 아, 아니, 새이 씨? 고마워요...
+NPC-PasserbyF(0)<Speaker>새이</Speaker>||:별말씀을여.
+()||:혼란을 틈타 고정된 노점이 없는 홍보업자들까지 끼어들어, 광란에 빠진 시장을 가로챘다.+녹초가 된 MG34는 그걸 신경 쓸 겨를이 없었고, 그 옆의 노점에는 마찬가지로 엉망인 꼴의 헤인과 리히가 늘어져 있었다.
+MG34(2)<Speaker>MG34</Speaker>||:......
+()<Speaker>헤인</Speaker>||:<color=#FF69B4>제길, 겨우 잡은 고객마저 저 길거리 놈들에게 뺏겨 버렸어...</color>
+()<Speaker>리히</Speaker>||:<color=#7B68EE>오늘 실적도 꽝인가...</color>
+MG34(2)<Speaker>MG34</Speaker>||:역시... 역시 서로 협력하면 윈-윈 아닌가요?+왜 다들 이 지경이 되도록...
+()<Speaker>헤인</Speaker>||:<color=#FF69B4>손님을 독차지한 게 누군데!</color>+<color=#FF69B4>그리고, 넌 왜 그렇게 손님을 쉽게 모아?</color>+<color=#FF69B4>홍보 멘트도 완전 아마추어던데...</color>
+MG34(2)<Speaker>MG34</Speaker>||:저도 당신들처럼 열심히 일해서 마땅한 보답을 받은 거겠죠!
+()<Speaker>리히</Speaker>||:<color=#7B68EE>어...? 가까이서 보니까 너, 피부에 모공이 없잖아?</color>+<color=#7B68EE>이목구비도 완전히 대칭에, 비율도 말도 안 될 정도로 좋고...</color>
+MG34(2)<Speaker>MG34</Speaker>||:......
+()<Speaker>헤인</Speaker>||:<color=#FF69B4>너 설마...</color>+<color=#FF69B4>인형이었어?</color>
+MG34(2)<Speaker>MG34</Speaker>||:제가 노력하는데 인형이든 인간이든 무슨 상관이죠?+인형은 노동에 대한 보상을 받아선 안 되나요?
+()<Speaker>리히</Speaker>||:<color=#7B68EE>......</color>
+()<Speaker>헤인</Speaker>||:<color=#FF69B4>여기선 인형 안 받아. 좋게 말할 때 얼른 꺼져.</color>
+MG34(2)<Speaker>MG34</Speaker>||:전...
+NPC-PasserbyF(0)<Speaker>새이</Speaker>||:저기여 당신들, 지금 남의 대기열에 끼어들어서 훼방을 놓은 것도 모자라서 이 언니가 말도 못할 정도로 겁까지 주는 거에여?+인형이면 어떻고 인간이면 어떤데여? 다 장사하면서 실적 쌓으려고 나온 거 아니에여?+그리고 이 언니도 제대로 수속 절차를 밟고서 장사하는 거잖아여. 의심 가면 직접 확인해 보던가여.+자 산삼 언니, 얼른 노점을 다시 정리해여.
+MG34(2)<Speaker>MG34</Speaker>||<黑点1>:네...
+NPC-PasserbyF(0)<Speaker>새이</Speaker>||<黑点2>:괜찮아여 언니, 인형인지 인간인지는 일하는 데 아무 상관 없어여.
+MG34(2)<Speaker>MG34</Speaker>||:고마워요, 또 도움받았네요...
+NPC-PasserbyF(0)<Speaker>새이</Speaker>||:에이 뭘여, 언니를 보고 있자니 왠지 제 친언니가 생각나서 더 챙겨 주고 싶어지는 거 같아여.
+MG34(2)<Speaker>MG34</Speaker>||:당신도... 제 동생이랑 많이 닮았어요.
+NPC-PasserbyF(0)<Speaker>새이</Speaker>||:우와, 인형도 자매가 있나여?+언니의 동생은 어떤 사람이에여?
+MG34(2)<Speaker>MG34</Speaker>||:음... 장난기 많은 응석꾸러기예요.
+NPC-PasserbyF(0)<Speaker>새이</Speaker>||:헤헤헤, 제 언니도 자주 저보고 그렇다던데.+인간과 인형인데, 우리 되게 많이 닮았네여.
+()<Speaker>헤인</Speaker>||:<color=#FF69B4>......</color>+<color=#FF69B4>크흠. 어... 저기, 네 텐트 내가 다시 세워 놨어.</color>+<color=#FF69B4>아까는, 그... 미안해. 짜증나서 마음에도 없는 심한 소리가 나왔어.</color>
+()<Speaker>리히</Speaker>||:<color=#7B68EE>나도 미안... 아까는 정신이 없어서...</color>+<color=#7B68EE>다 일일 목표치 달성하려고 마음이 급하잖아, 이해하지?</color>
+MG34(2)<Speaker>MG34</Speaker>||<黑点1>:......
+JS9mm(2)<Speaker>JS9</Speaker>||<黑点2><BIN>9</BIN><边框>2</边框>:접객 업무는 당신께 맡길게요.
+MG42(0)<Speaker>MG42</Speaker>||<边框>2</边框>:그래도 언니가 괜찮다니, 분명 다 잘 될 거에여!
+NPC-PasserbyF(0)<Speaker>새이</Speaker>||<边框>2</边框><黑点1>:인간과 인형인데, 우리 되게 많이 닮았네여.
+MG34(2)<Speaker>MG34</Speaker>||<黑点2><BIN>166</BIN>:<color=#A9A9A9>인간과 인형은 서로 알게 모르게 경쟁하는 관계가 되었다지만...</color>+<color=#A9A9A9>생각보다 닮은 점이 많구나...</color>+이해해요... 받은 임무를 완수해서, 동료들의 기대에 부응하려고 노력하는 거잖아요.+그러니까, 우리 모두 힘을 합쳐요.
+()<Speaker>헤인</Speaker>||:<color=#FF69B4>엑?</color>
+()<Speaker>리히</Speaker>||:<color=#7B68EE>뭐라고?</color>
+MG34(2)<Speaker>MG34</Speaker>||:저는 지금까지, 제 소대와 함께 일해 왔어요. 각자 역할을 분담해서요.+그러니, 우리도 각자의 상품을 하나의 세트로 만들어서 홍보하는 게 어때요?+그럼 우리 넷이서 같은 목표를 두고 노력하는 거잖아요.+우리가 힘을 합치면, 손님이 어느 노점을 방문해도 모두의 상품을 소개할 수 있을 거예요.
+()<Speaker>헤인</Speaker>||:<color=#FF69B4>그거 꽤 좋은 생각인데...?</color>
+()<Speaker>리히</Speaker>||:<color=#7B68EE>오늘 피크타임도 얼마 안 남았어.</color>+<color=#7B68EE>할 거면 당장 해보자고!</color>
+NPC-PasserbyF(0)<Speaker>새이</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:좋아여! 바로 시작해여!
+()||<黑屏2><BGM>m_avg_casual</BGM>:그렇게 모두가 힘을 합쳐, 좁은 길목에 모여 있던 작은 노점 4개가 하나의 커다란 노점으로 탈바꿈했다.+주변에는 은은한 향기가 퍼졌고, 탁상 위에는 펜과 타로카드도 놓여, 방문객들이 MG34가 회장에서 가져온 고급 벤치에 앉아 무료로 점을 보거나 수필 엽서를 받을 수 있었다.
+()<Speaker>헤인</Speaker>||:<color=#FF69B4>안녕하세요~ 현재 무료 서비스 이벤트가 진행 중입니다! 시간 되신다면 신제품 향수를 한번――</color>
+()<Speaker>리히</Speaker>||:<color=#7B68EE>어서 오세요~! 무료로 점을 봐드립니다~ 사은품으로 수필 엽서도 받아 가세요!</color>
+()||:행인들 사이에서 홍보하던 MG34가 고개를 돌려, 노점의 상태를 살폈다. 지금까지 수백 번을 했던, 임무 도중 대원들의 상황을 파악하듯이.
+MG34(2)<Speaker>MG34</Speaker>||:<color=#A9A9A9>모두 열심히 하는구나! 인간이지만 어째선지 다들 내 소대원들 같단 느낌이 드네...</color>+<color=#A9A9A9>좋았어, 나도 힘내야지!</color>+안녕하세요! 혹시 저희 행사에...
+()||<SE1>AVG_tele_connect</SE1>:얼마 후, 통신기가 소리를 냈다.
+JS9mm(2)<Speaker>JS9</Speaker><通讯框>||:<color=#00CCFF>MG34 씨, JS 9입니다. 수고하셨어요, 회장 방문객 수가 목표치를 달성했습니다. 이제 복귀하셔도 돼요.</color>
+MG34(2)<Speaker>MG34</Speaker>||:...네, 바로 복귀하겠습니다.
+()||<SE1>AVG_tele_disconnect</SE1><黑屏1>:통신을 종료하고, MG34는 시끌벅적한 연합 노점을 바라보았다. 세 인간 소녀들 모두 계속해서 몰려드는 손님들을 상대하느라 정신이 없었다. 그녀들의 오늘 실적은 걱정 없을 것이다.+MG34는 멀리서 손을 흔들었다.+무언가를 느낀 새이가 번뜩 고개를 들었지만...+손님들 너머로, 그 인형은 보이지 않았다.

@@ -1,25 +1,25 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_NightOPS</BGM><BIN>167</BIN>:3시간 후. 태양은 지평선 너머로 완전히 사라졌다.+군 주둔지 바깥, 겉보기엔 멀쩡한 하수도 맨홀의 아래.
-AN94(0)<Speaker>AN94</Speaker>||:<color=#00CCFF>AR15, 지정 위치에 도착했다.</color>
-AN94(0);AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>왜 이렇게 늦었어?</color>
-AN94(0)<Speaker>AN94</Speaker>;AR15Mod(0)||:<color=#00CCFF>어쩌면... 아니, 그저 미행당하지 않도록 길을 돌아서 왔다.</color>
-AN94(0);AR15Mod(0)<Speaker>AR15</Speaker>||:<color=#00CCFF>뭐?</color>+<color=#00CCFF>...아니다, 네가 왔으면 됐지.</color>+<color=#00CCFF>여기서 3시간 동안 관찰했지만, 안의 신호원과 군 모두 별다른 움직임이 없어.</color>
-AN94(0)<Speaker>AN94</Speaker>;AR15Mod(0)||:<color=#00CCFF>이곳은 그저 예비용 유닛일 수도 있다. 이곳의 시스템을 해킹해 전자 정찰이 가능하면 좋겠지만...</color>+<color=#00CCFF>미안하다. AK12가 있었다면, 더 나았을지도 모른다.</color>
-AN94(0);AR15Mod(0)<Speaker>AR15</Speaker>||:<color=#00CCFF>그런 식으로 말하지 말라니까.</color>+<color=#00CCFF>음... 완전히 어두워지면 다시 들어갔다 올 테니까, 넌 그 자리서 출입 인원을 감시하고 있어.</color>
-AN94(2)<Speaker>AN94</Speaker>;AR15Mod(0)||<BGM>BGM_Empty</BGM>:<color=#00CCFF>알았다.</color>+<color=#00CCFF>잠깐만...!</color>
-AN94(2);AR15Mod(2)<Speaker>AR15</Speaker>||<BGM>BGM_Danger</BGM>:<color=#00CCFF>응? 뭔데?</color>
-AN94(4)<Speaker>AN94</Speaker>;AR15Mod(2)||:<color=#00CCFF>뭔가 이상한 느낌이 든다...</color>
-AN94(4);AR15Mod(2)<Speaker>AR15</Speaker>||:<color=#00CCFF>이상한 느낌? 스캔해 볼게... 지프차 한 대가 시동을 걸고 있네. 하지만 하얀 세력의 신호는 잡히지 않는데?</color>
-AN94(2)<Speaker>AN94</Speaker><Shake>;AR15Mod(2)||<SE1>RunStep</SE1>:<color=#00CCFF>아니... 아무리 봐도 저 차가 수상하다. 당장 쫓아가야 한다!</color>
-AR15Mod(5)<Speaker>AR15</Speaker>||<黑屏1>:<color=#00CCFF>잠깐만, 먼저 안젤리아한테 의견을 물어봐야 하지 않아?</color>+<color=#00CCFF>94?! AN94! 아니, 멋대로 뛰쳐나갔잖아!</color>
-()<Speaker></Speaker>||<BIN>9</BIN><黑点2><SE1>RunStep</SE1><黑屏1>:AR15는 할 수 없이 엄폐물에서 나와, AN94의 뒤를 쫓았다.
-AR15Mod(5)<Speaker>AR15</Speaker>||<BIN>168</BIN><黑点2>:이게 진짜!+<color=#00CCFF>안젤리아, 들려?</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>;AR15Mod(5)<通讯框>||:<color=#00CCFF>들려. 무슨 일이길래 암호화도 안 하고 연락한 거야?</color>
-NPC-AngeStreet(0);AR15Mod(5)<Speaker>AR15</Speaker>||:<color=#00CCFF>AN94가 멋대로 군의 지프차를 쫓아가고 있어! 그리고 난 데이터 블랙 에이리어 만들 줄 모르고!</color>+<color=#00CCFF>AN94의 상태가 좀 이상해! 사고 치지 못하게 일단 전력으로 쫓고 있어!</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AR15Mod(5)||:<color=#00CCFF>드디어 월척의 꼬리를 잡았나 보네.</color>
-NPC-AngeStreet(0);AR15Mod(5)<Speaker>AR15</Speaker>||:<color=#00CCFF>월척이라고?</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AR15Mod(5)||:<color=#00CCFF>94의 직감은 언제나 정확해. 그 차에 분명 중요한 단서가 있는 거야.</color>+<color=#00CCFF>저렇게 서둘러 쫓는 걸 보면, 그 차는 아마 "노드"가 있는 곳으로 가고 있을 거야.</color>
-NPC-AngeStreet(0);AR15Mod(5)<Speaker>AR15</Speaker>||:<color=#00CCFF>그래도 그렇지, 갑자기 뛰쳐나갈 필요는... 아무튼, AN94를 따라잡은 뒤에 같이 추적할게.</color>+<color=#00CCFF>정말로 "노드"를 발견하면, 즉시 파괴하는 거 맞아?</color>+<color=#00CCFF>그게 대체 뭐길래?</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AR15Mod(5)||:<color=#00CCFF>뭔지 네가 알 필요는 없어. "노드"로 의심되는 물건을 발견하면, 내 명령에 따라 즉시 파괴해.</color>
-NPC-AngeStreet(0);AR15Mod(5)<Speaker>AR15</Speaker>||:<color=#00CCFF>...알았어.</color>+<color=#00CCFF>지금 이 채널은 위험하니까, AN94를 따라잡은 뒤에 다시 연락할게.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AR15Mod(5)||:<color=#00CCFF>그래.</color>+<color=#00CCFF>다음 통신을 기다리지, AR15.</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_NightOPS</BGM><BIN>167</BIN>:3시간 후. 태양은 지평선 너머로 완전히 사라졌다.+군 주둔지 바깥, 겉보기엔 멀쩡한 하수도 맨홀의 아래.
+AN94(0)<Speaker>AN94</Speaker>||:<color=#00CCFF>AR15, 지정 위치에 도착했다.</color>
+AN94(0);AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>왜 이렇게 늦었어?</color>
+AN94(0)<Speaker>AN94</Speaker>;AR15Mod(0)||:<color=#00CCFF>어쩌면... 아니, 그저 미행당하지 않도록 길을 돌아서 왔다.</color>
+AN94(0);AR15Mod(0)<Speaker>AR15</Speaker>||:<color=#00CCFF>뭐?</color>+<color=#00CCFF>...아니다, 네가 왔으면 됐지.</color>+<color=#00CCFF>여기서 3시간 동안 관찰했지만, 안의 신호원과 군 모두 별다른 움직임이 없어.</color>
+AN94(0)<Speaker>AN94</Speaker>;AR15Mod(0)||:<color=#00CCFF>이곳은 그저 예비용 유닛일 수도 있다. 이곳의 시스템을 해킹해 전자 정찰이 가능하면 좋겠지만...</color>+<color=#00CCFF>미안하다. AK12가 있었다면, 더 나았을지도 모른다.</color>
+AN94(0);AR15Mod(0)<Speaker>AR15</Speaker>||:<color=#00CCFF>그런 식으로 말하지 말라니까.</color>+<color=#00CCFF>음... 완전히 어두워지면 다시 들어갔다 올 테니까, 넌 그 자리서 출입 인원을 감시하고 있어.</color>
+AN94(2)<Speaker>AN94</Speaker>;AR15Mod(0)||<BGM>BGM_Empty</BGM>:<color=#00CCFF>알았다.</color>+<color=#00CCFF>잠깐만...!</color>
+AN94(2);AR15Mod(2)<Speaker>AR15</Speaker>||<BGM>BGM_Danger</BGM>:<color=#00CCFF>응? 뭔데?</color>
+AN94(4)<Speaker>AN94</Speaker>;AR15Mod(2)||:<color=#00CCFF>뭔가 이상한 느낌이 든다...</color>
+AN94(4);AR15Mod(2)<Speaker>AR15</Speaker>||:<color=#00CCFF>이상한 느낌? 스캔해 볼게... 지프차 한 대가 시동을 걸고 있네. 하지만 하얀 세력의 신호는 잡히지 않는데?</color>
+AN94(2)<Speaker>AN94</Speaker><Shake>;AR15Mod(2)||<SE1>RunStep</SE1>:<color=#00CCFF>아니... 아무리 봐도 저 차가 수상하다. 당장 쫓아가야 한다!</color>
+AR15Mod(5)<Speaker>AR15</Speaker>||<黑屏1>:<color=#00CCFF>잠깐만, 먼저 안젤리아한테 의견을 물어봐야 하지 않아?</color>+<color=#00CCFF>94?! AN94! 아니, 멋대로 뛰쳐나갔잖아!</color>
+()<Speaker></Speaker>||<BIN>9</BIN><黑点2><SE1>RunStep</SE1><黑屏1>:AR15는 할 수 없이 엄폐물에서 나와, AN94의 뒤를 쫓았다.
+AR15Mod(5)<Speaker>AR15</Speaker>||<BIN>168</BIN><黑点2>:이게 진짜!+<color=#00CCFF>안젤리아, 들려?</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>;AR15Mod(5)<通讯框>||:<color=#00CCFF>들려. 무슨 일이길래 암호화도 안 하고 연락한 거야?</color>
+NPC-AngeStreet(0);AR15Mod(5)<Speaker>AR15</Speaker>||:<color=#00CCFF>AN94가 멋대로 군의 지프차를 쫓아가고 있어! 그리고 난 데이터 블랙 에이리어 만들 줄 모르고!</color>+<color=#00CCFF>AN94의 상태가 좀 이상해! 사고 치지 못하게 일단 전력으로 쫓고 있어!</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AR15Mod(5)||:<color=#00CCFF>드디어 월척의 꼬리를 잡았나 보네.</color>
+NPC-AngeStreet(0);AR15Mod(5)<Speaker>AR15</Speaker>||:<color=#00CCFF>월척이라고?</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AR15Mod(5)||:<color=#00CCFF>94의 직감은 언제나 정확해. 그 차에 분명 중요한 단서가 있는 거야.</color>+<color=#00CCFF>저렇게 서둘러 쫓는 걸 보면, 그 차는 아마 "노드"가 있는 곳으로 가고 있을 거야.</color>
+NPC-AngeStreet(0);AR15Mod(5)<Speaker>AR15</Speaker>||:<color=#00CCFF>그래도 그렇지, 갑자기 뛰쳐나갈 필요는... 아무튼, AN94를 따라잡은 뒤에 같이 추적할게.</color>+<color=#00CCFF>정말로 "노드"를 발견하면, 즉시 파괴하는 거 맞아?</color>+<color=#00CCFF>그게 대체 뭐길래?</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AR15Mod(5)||:<color=#00CCFF>뭔지 네가 알 필요는 없어. "노드"로 의심되는 물건을 발견하면, 내 명령에 따라 즉시 파괴해.</color>
+NPC-AngeStreet(0);AR15Mod(5)<Speaker>AR15</Speaker>||:<color=#00CCFF>...알았어.</color>+<color=#00CCFF>지금 이 채널은 위험하니까, AN94를 따라잡은 뒤에 다시 연락할게.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AR15Mod(5)||:<color=#00CCFF>그래.</color>+<color=#00CCFF>다음 통신을 기다리지, AR15.</color>

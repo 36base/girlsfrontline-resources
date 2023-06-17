@@ -1,66 +1,66 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>72</BIN><黑屏2><SE1>AVG_tele_connect</SE1><BGM>10051</BGM>:아이네이아스 작전팀 출석 확인 - 질소.
-Rhino(2)<Speaker>???</Speaker>||:별 신기한 데를 다 보네... 왜 회의실을 네트워크 공간에다 만들었어?+그냥 직접 통신하는 게 더 빠르지 않아?
-QBZ191(6)<Speaker>???</Speaker>||:모르겠지? 이게 바로 프로의 준비성이란 거야.
-Rhino(2)<Speaker>???</Speaker>||:왠지 대충 둘러대는 거 같은데...
-SP9(2)<Speaker>모나</Speaker><GradientShow>1</GradientShow>||:반갑습니다 여러분, 작전팀 "질소" 지금 도착했습니다. 저는 담당자 모나입니다.
-Rhino(0)<Speaker>라이노</Speaker><GradientShow>1</GradientShow>||:슈타지의 신입 요원 인형, 라이노야.
-QBZ191(4)<Speaker>9호</Speaker><GradientShow>1</GradientShow>||:용병 인형, 코드네임 "9호". 이번에 슈타지의 의뢰를 받아 너희의 임무에 참여하게 됐어.
-RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:이 자리에 모인 모두의 간략한 프로필은 전부 공유했습니다.+그럼 작전 회의를 시작할까요. 우선 여러분께 이번 "아이네이아스 작전"의 임무 목표를 설명해드리겠습니다.
-SP9(0)<Speaker>모나</Speaker>||:잠시만요. 맞은편에 아직 빈 자리가 꽤 있는데, 안 기다려도 되나요?
-RO635Mod(0)<Speaker>RO635</Speaker>||:괜찮습니다, 그들은 적절한 시기에 합류할 겁니다.
-SP9(0)<Speaker>모나</Speaker>||:그렇다면야...
-RO635Mod(0)<Speaker>RO635</Speaker>||:그럼, 시작합니다.
-()||<黑屏1>:
-NPC-AngeDamage(0)<Speaker>RO635</Speaker><同时置暗>||<BGM>10118</BGM><黑屏2><BIN>85</BIN><SE1>AVG_keyboardtype_sci</SE1>:작전명 "아이네이아스"의 목표는 납치된 신소련 요원 안젤리아의 구출 및 "죽음의 바다"에 위치한 것으로 추정되는 패러데우스의 본거지 조사입니다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:현재까지 확인된 정보는... 모나 씨, 부탁해요.
-SP9(0)<Speaker>모나</Speaker>||:예. 지금부터 설명할 정보는 전부 슈타지가 제공하는 것입니다.
-()||<黑屏1>:
-()<Speaker>모나</Speaker>||<黑屏2><BIN>474</BIN><边框>2</边框><黑屏1>:하나. 지난번 귀하 측과 슈타지의 분전 덕분에, 패러데우스의 베를린 내 거점은 사실상 전부 소탕되었습니다.
-()<Speaker>모나</Speaker>||<黑屏2><边框>2</边框><BIN>480</BIN><黑屏1>:그런데 며칠 간의 관찰 결과, 그 블랙존으로의 유입량이 비정상적으로 상승하였습니다.+비록 패러데우스나 갈라테아 그룹과의 직접적인 연관성은 발견하지 못했으나, 최근의 붕괴 오염 수치 증감폭으로 보건대 그들의 본거지가 "죽음의 바다"에 위치했음이 의심됩니다.+때문에, 우리는 해당 지역을 조사할 필요가 있습니다.
-NPC-Bramedb(3)<Speaker>모나</Speaker><同时置暗>||<黑屏2><BIN>450</BIN><BIN>9</BIN>:둘. 저는 패러데우스의 상급 니토 "브라메드"와 직접 조우하고 전투했습니다.+그 당시의 피드백 데이터를 보존하였으며, 잠시 후 공유할 예정이니 참고 바랍니다.
-()||<黑屏1>:
-()<Speaker>모나</Speaker>||<黑屏2><BIN>511</BIN>:셋. 질소팀 중 슈타지 소속 전술인형 2명, 저와 라이노는 현재 슈타지가 제공 가능한 전력 중 가장 작전 능력이 높은 엘리트 요원입니다.+더불어 9호도 용병 인형 중 제법 이름을 날리는 엘리트죠. 저희 모두, 여러분의 이번 작전을 전력으로 돕겠습니다.
-()||<黑屏1>:
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BIN>72</BIN><黑屏2>:오오... 어라? 우리 블랙존에 간다고?+그럼 연락 수단이 먹통이 되잖아?
-RO635Mod(0)<Speaker>RO635</Speaker>||:그래서 이 회의실을 만든 거야. UMP45 씨가 있는 한 우리는 마인드맵 플랫폼을 통해서 소통할 수 있어.
-SP9(2)<Speaker>모나</Speaker>||:아하... 철저히 준비하셨군요.
-RO635Mod(0)<Speaker>RO635</Speaker>||:모두의 우려대로, 블랙존 내부는 매우 위험하므로 인형이라도 신중하게 행동해야 합니다.+그런 만큼, 언제든지 "죽음의 바다"로 돌입할 수 있도록 철저히 준비해야 합니다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑点2><Night><BIN>276</BIN><BGM>BGM_Empty</BGM>:소련-독일 국경 어딘가의 세이프하우스.
-()<Speaker></Speaker>||<BGM>10082</BGM>:살을 에는 칼바람이 목제 오두막의 창문을 두드리며 소름 끼치는 소리를 냈다.
-NPC-Dupieux(1)<Speaker>뒤피외</Speaker><Shake>0.1</Shake>||:후우... 후우...
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:뒤피외는 벽난로 앞에 쭈그려 앉아 성냥에 불을 붙이려 했지만, 손이 추위로 덜덜 떨리는 통에 자꾸만 부러뜨렸다.
-NPC-Dupieux(1)<Speaker>뒤피외</Speaker><Shake>0.1</Shake>||:제기랄... 제기랄...
-()<Speaker></Speaker>||:저체온증으로 죽지 않으려면, 당장 불을 피워야만 했다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><SE1>AVG_Fire_Bonfire</SE1>:후욱...+마침내 작은 불씨가 벽난로 안에 던져졌고, 마른 장작들이 그 뒤를 이었다. 불을 뿜어내기 시작한 벽난로은 곧바로 오두막 안에 온기를 퍼뜨렸다.
-NPC-Dupieux(1)<Speaker>뒤피외</Speaker>||:휴우...
-()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:쿵.
-NPC-Dupieux(1)<Speaker>뒤피외</Speaker><Shake>0.1</Shake>||<SE1>Select</SE1>:——!
-()<Speaker></Speaker>||:뒤피외가 이제 겨우 한시름 놓으려는 그 순간, 오두막의 문이 갑자기 부자연스러운 소리를 냈다.
-()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_3h</SE1><震屏3><BGM>BGM_Empty</BGM>:뒤피외는 전광석화처럼, 조건반사적으로 몸을 틀어 문을 향해 총을 쐈다.
-()<Speaker></Speaker>||:덜컹대는 나무 문짝에 난 선명한 바람구멍 3개로 햇빛이 새어 들어와, 방 안을 떠다니는 먼지가 보였다.
-NPC-Dupieux(1)<Speaker>뒤피외</Speaker>||:헉... 헉...
-()<Speaker></Speaker>||<BGM>10065</BGM>:심장이 쥐여 잡힌 듯한 기분이었다.+안전국의 추격자인가? 어떻게 이렇게 빨리 왔지?+정말 안전국의 추격자라면, 여기도 이제 위험하다. 움직여야 한다. 당장 이곳을 벗어나야만 한다.
-()<Speaker>???</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>"북극곰"?</color>
-NPC-Dupieux(1)<Speaker>뒤피외</Speaker><Shake>0.1</Shake>||:——!
-()<Speaker></Speaker>||<SE1>AVG_21Winter_Phone_Crash</SE1>:언제 켜졌는지 모를 통신기에서 낭랑한 여성의 목소리가 나오자 뒤피외는 화들짝 놀라 통신기를 내팽개쳤고, 던져진 통신기는 바닥을 굴러 오두막 한가운데에 멈췄다.
-NPC-Dupieux(1)<Speaker>뒤피외</Speaker>||:....저, 전도자인가?+아니... 넌 누구냐?
-()||<黑屏1>:
-()<Speaker>Q</Speaker>||<黑屏2><BIN>457</BIN>:만나서 반가워, "북극곰".+난 슈타지의 Q야.
-()<Speaker>뒤피외</Speaker>||:<color=#00CCFF>슈타지...? 슈타지가 여긴 무슨 일이지?</color>+<color=#00CCFF>설마 전도자가 보냈나?</color>
-()<Speaker>Q</Speaker>||:미안하지만 "전도자"에 관해서는 나중에 듣도록 할게.+소련인들도 엄청 궁금해할 테니까.
-()<Speaker>뒤피외</Speaker>||:<color=#00CCFF>......!!!</color>
-()<Speaker></Speaker>||:뒤피외는 얼굴이 새파랗게 질렸다.
-()<Speaker>뒤피외</Speaker>||:<color=#00CCFF>네... 네놈들...!</color>
-()<Speaker>Q</Speaker>||:안심해, 사적인 원한은 없으니까.
-()<Speaker></Speaker>||<震屏3><SE1>AVG_Rifle</SE1><BGM>BGM_Empty</BGM>:타아앙!!
-()||<黑点1>:
-()<Speaker></Speaker>||<SE1>AVG_Bullet_Hit_Body</SE1><BIN>9</BIN>:총성이 산골짜기에서 메아리쳤고, 발사된 탄환은 수풀과 눈보라, 썩어 가는 나무 문짝을 뚫고, 식겁하며 줄행랑치려던 뒤피외에게 꽂혔다.
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:파지지지직...+피탄되자마자, 장정 한 명을 충분히 기절시키고도 남을 전류가 뒤피외의 몸에 흘렀다.+근육, 관절, 신경까지, 눈 깜짝할 사이에 감전된 그는 제압용 탄환에 의식을 빼앗겨 눈앞이 캄캄해졌다.
-()||<黑屏1>:
-()<Speaker>Q</Speaker>||<黑屏2><BIN>457</BIN><SE1>AVG_weapon_reload</SE1><SE1>AVG_Bullet_Drop</SE1>:휴우... 필사적으로 도망쳐 줘서 정말 고마워.+소련인이 나보다 먼저 널 찾아냈으면 죄다 헛수고가 될 뻔했어.
-()<Speaker></Speaker>||:저격 스코프를 통해, Q는 오두막 안의 뒤피외가 새파랗게 질려 경악하는 표정으로, 다만 찍 소리도 못 내며 쓰러지는 것을 지켜봤다.
-()<Speaker>Q</Speaker>||:캬~ 이거 월척이네!+자아 그럼 어디, 곧 온다는 "전도자"는 어떻게 생겨 먹은 사람인지 볼까나?
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>72</BIN><黑屏2><SE1>AVG_tele_connect</SE1><BGM>10051</BGM>:아이네이아스 작전팀 출석 확인 - 질소.
+Rhino(2)<Speaker>???</Speaker>||:별 신기한 데를 다 보네... 왜 회의실을 네트워크 공간에다 만들었어?+그냥 직접 통신하는 게 더 빠르지 않아?
+QBZ191(6)<Speaker>???</Speaker>||:모르겠지? 이게 바로 프로의 준비성이란 거야.
+Rhino(2)<Speaker>???</Speaker>||:왠지 대충 둘러대는 거 같은데...
+SP9(2)<Speaker>모나</Speaker><GradientShow>1</GradientShow>||:반갑습니다 여러분, 작전팀 "질소" 지금 도착했습니다. 저는 담당자 모나입니다.
+Rhino(0)<Speaker>라이노</Speaker><GradientShow>1</GradientShow>||:슈타지의 신입 요원 인형, 라이노야.
+QBZ191(4)<Speaker>9호</Speaker><GradientShow>1</GradientShow>||:용병 인형, 코드네임 "9호". 이번에 슈타지의 의뢰를 받아 너희의 임무에 참여하게 됐어.
+RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>BGM_Empty</BGM>:이 자리에 모인 모두의 간략한 프로필은 전부 공유했습니다.+그럼 작전 회의를 시작할까요. 우선 여러분께 이번 "아이네이아스 작전"의 임무 목표를 설명해드리겠습니다.
+SP9(0)<Speaker>모나</Speaker>||:잠시만요. 맞은편에 아직 빈 자리가 꽤 있는데, 안 기다려도 되나요?
+RO635Mod(0)<Speaker>RO635</Speaker>||:괜찮습니다, 그들은 적절한 시기에 합류할 겁니다.
+SP9(0)<Speaker>모나</Speaker>||:그렇다면야...
+RO635Mod(0)<Speaker>RO635</Speaker>||:그럼, 시작합니다.
+()||<黑屏1>:
+NPC-AngeDamage(0)<Speaker>RO635</Speaker><同时置暗>||<BGM>10118</BGM><黑屏2><BIN>85</BIN><SE1>AVG_keyboardtype_sci</SE1>:작전명 "아이네이아스"의 목표는 납치된 신소련 요원 안젤리아의 구출 및 "죽음의 바다"에 위치한 것으로 추정되는 패러데우스의 본거지 조사입니다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:현재까지 확인된 정보는... 모나 씨, 부탁해요.
+SP9(0)<Speaker>모나</Speaker>||:예. 지금부터 설명할 정보는 전부 슈타지가 제공하는 것입니다.
+()||<黑屏1>:
+()<Speaker>모나</Speaker>||<黑屏2><BIN>474</BIN><边框>2</边框><黑屏1>:하나. 지난번 귀하 측과 슈타지의 분전 덕분에, 패러데우스의 베를린 내 거점은 사실상 전부 소탕되었습니다.
+()<Speaker>모나</Speaker>||<黑屏2><边框>2</边框><BIN>480</BIN><黑屏1>:그런데 며칠 간의 관찰 결과, 그 블랙존으로의 유입량이 비정상적으로 상승하였습니다.+비록 패러데우스나 갈라테아 그룹과의 직접적인 연관성은 발견하지 못했으나, 최근의 붕괴 오염 수치 증감폭으로 보건대 그들의 본거지가 "죽음의 바다"에 위치했음이 의심됩니다.+때문에, 우리는 해당 지역을 조사할 필요가 있습니다.
+NPC-Bramedb(3)<Speaker>모나</Speaker><同时置暗>||<黑屏2><BIN>450</BIN><BIN>9</BIN>:둘. 저는 패러데우스의 상급 니토 "브라메드"와 직접 조우하고 전투했습니다.+그 당시의 피드백 데이터를 보존하였으며, 잠시 후 공유할 예정이니 참고 바랍니다.
+()||<黑屏1>:
+()<Speaker>모나</Speaker>||<黑屏2><BIN>511</BIN>:셋. 질소팀 중 슈타지 소속 전술인형 2명, 저와 라이노는 현재 슈타지가 제공 가능한 전력 중 가장 작전 능력이 높은 엘리트 요원입니다.+더불어 9호도 용병 인형 중 제법 이름을 날리는 엘리트죠. 저희 모두, 여러분의 이번 작전을 전력으로 돕겠습니다.
+()||<黑屏1>:
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<BIN>72</BIN><黑屏2>:오오... 어라? 우리 블랙존에 간다고?+그럼 연락 수단이 먹통이 되잖아?
+RO635Mod(0)<Speaker>RO635</Speaker>||:그래서 이 회의실을 만든 거야. UMP45 씨가 있는 한 우리는 마인드맵 플랫폼을 통해서 소통할 수 있어.
+SP9(2)<Speaker>모나</Speaker>||:아하... 철저히 준비하셨군요.
+RO635Mod(0)<Speaker>RO635</Speaker>||:모두의 우려대로, 블랙존 내부는 매우 위험하므로 인형이라도 신중하게 행동해야 합니다.+그런 만큼, 언제든지 "죽음의 바다"로 돌입할 수 있도록 철저히 준비해야 합니다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑点2><Night><BIN>276</BIN><BGM>BGM_Empty</BGM>:소련-독일 국경 어딘가의 세이프하우스.
+()<Speaker></Speaker>||<BGM>10082</BGM>:살을 에는 칼바람이 목제 오두막의 창문을 두드리며 소름 끼치는 소리를 냈다.
+NPC-Dupieux(1)<Speaker>뒤피외</Speaker><Shake>0.1</Shake>||:후우... 후우...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:뒤피외는 벽난로 앞에 쭈그려 앉아 성냥에 불을 붙이려 했지만, 손이 추위로 덜덜 떨리는 통에 자꾸만 부러뜨렸다.
+NPC-Dupieux(1)<Speaker>뒤피외</Speaker><Shake>0.1</Shake>||:제기랄... 제기랄...
+()<Speaker></Speaker>||:저체온증으로 죽지 않으려면, 당장 불을 피워야만 했다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><SE1>AVG_Fire_Bonfire</SE1>:후욱...+마침내 작은 불씨가 벽난로 안에 던져졌고, 마른 장작들이 그 뒤를 이었다. 불을 뿜어내기 시작한 벽난로은 곧바로 오두막 안에 온기를 퍼뜨렸다.
+NPC-Dupieux(1)<Speaker>뒤피외</Speaker>||:휴우...
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:쿵.
+NPC-Dupieux(1)<Speaker>뒤피외</Speaker><Shake>0.1</Shake>||<SE1>Select</SE1>:——!
+()<Speaker></Speaker>||:뒤피외가 이제 겨우 한시름 놓으려는 그 순간, 오두막의 문이 갑자기 부자연스러운 소리를 냈다.
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_3h</SE1><震屏3><BGM>BGM_Empty</BGM>:뒤피외는 전광석화처럼, 조건반사적으로 몸을 틀어 문을 향해 총을 쐈다.
+()<Speaker></Speaker>||:덜컹대는 나무 문짝에 난 선명한 바람구멍 3개로 햇빛이 새어 들어와, 방 안을 떠다니는 먼지가 보였다.
+NPC-Dupieux(1)<Speaker>뒤피외</Speaker>||:헉... 헉...
+()<Speaker></Speaker>||<BGM>10065</BGM>:심장이 쥐여 잡힌 듯한 기분이었다.+안전국의 추격자인가? 어떻게 이렇게 빨리 왔지?+정말 안전국의 추격자라면, 여기도 이제 위험하다. 움직여야 한다. 당장 이곳을 벗어나야만 한다.
+()<Speaker>???</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>"북극곰"?</color>
+NPC-Dupieux(1)<Speaker>뒤피외</Speaker><Shake>0.1</Shake>||:——!
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Phone_Crash</SE1>:언제 켜졌는지 모를 통신기에서 낭랑한 여성의 목소리가 나오자 뒤피외는 화들짝 놀라 통신기를 내팽개쳤고, 던져진 통신기는 바닥을 굴러 오두막 한가운데에 멈췄다.
+NPC-Dupieux(1)<Speaker>뒤피외</Speaker>||:....저, 전도자인가?+아니... 넌 누구냐?
+()||<黑屏1>:
+()<Speaker>Q</Speaker>||<黑屏2><BIN>457</BIN>:만나서 반가워, "북극곰".+난 슈타지의 Q야.
+()<Speaker>뒤피외</Speaker>||:<color=#00CCFF>슈타지...? 슈타지가 여긴 무슨 일이지?</color>+<color=#00CCFF>설마 전도자가 보냈나?</color>
+()<Speaker>Q</Speaker>||:미안하지만 "전도자"에 관해서는 나중에 듣도록 할게.+소련인들도 엄청 궁금해할 테니까.
+()<Speaker>뒤피외</Speaker>||:<color=#00CCFF>......!!!</color>
+()<Speaker></Speaker>||:뒤피외는 얼굴이 새파랗게 질렸다.
+()<Speaker>뒤피외</Speaker>||:<color=#00CCFF>네... 네놈들...!</color>
+()<Speaker>Q</Speaker>||:안심해, 사적인 원한은 없으니까.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Rifle</SE1><BGM>BGM_Empty</BGM>:타아앙!!
+()||<黑点1>:
+()<Speaker></Speaker>||<SE1>AVG_Bullet_Hit_Body</SE1><BIN>9</BIN>:총성이 산골짜기에서 메아리쳤고, 발사된 탄환은 수풀과 눈보라, 썩어 가는 나무 문짝을 뚫고, 식겁하며 줄행랑치려던 뒤피외에게 꽂혔다.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:파지지지직...+피탄되자마자, 장정 한 명을 충분히 기절시키고도 남을 전류가 뒤피외의 몸에 흘렀다.+근육, 관절, 신경까지, 눈 깜짝할 사이에 감전된 그는 제압용 탄환에 의식을 빼앗겨 눈앞이 캄캄해졌다.
+()||<黑屏1>:
+()<Speaker>Q</Speaker>||<黑屏2><BIN>457</BIN><SE1>AVG_weapon_reload</SE1><SE1>AVG_Bullet_Drop</SE1>:휴우... 필사적으로 도망쳐 줘서 정말 고마워.+소련인이 나보다 먼저 널 찾아냈으면 죄다 헛수고가 될 뻔했어.
+()<Speaker></Speaker>||:저격 스코프를 통해, Q는 오두막 안의 뒤피외가 새파랗게 질려 경악하는 표정으로, 다만 찍 소리도 못 내며 쓰러지는 것을 지켜봤다.
+()<Speaker>Q</Speaker>||:캬~ 이거 월척이네!+자아 그럼 어디, 곧 온다는 "전도자"는 어떻게 생겨 먹은 사람인지 볼까나?
+()||<黑点1>:

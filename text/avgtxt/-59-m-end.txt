@@ -1,0 +1,63 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BGM>GF_EV9_Story</BGM><黑屏2><BIN>607</BIN>:페르시카 씨, 실험 끝났습니다. 분석 결과 보고서와 원본 데이터 전부 여기다 둘게요.
+NPC-Persica(7)<Speaker>페르시카</Speaker>||:............모르겠어.+여전히 모르겠어.+그 녀석이랑 그 인턴은 대체 뭘 어떻게 했길래 인형들의 마인드맵에 이상이 발생한 거지?+왜 인형들이 갑자기 강해진 거야? 대체 인간이 인형에게 어떤 영향을 줬길래?
+RO635-NoArmor(3)<Speaker>RO635</Speaker>||:복잡한 문제는 머리 쥐어뜯는다고 해결되지 않으니까 일단 식사부터 하세요.
+NPC-Persica(7)<Speaker>페르시카</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><震屏3>:드르륵!+페르시카가 의자를 밀치며 벌떡 일어섰다.
+NPC-Persica(8)<Speaker>페르시카</Speaker>||:프로필 번호 206■15■■42■■의 데이터 뽑아 와.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;NPC-Persica(8)||:어... 그 프로필은 조회 요청이 통과돼야 하는데요. 지금 요청 제출할까요?
+RO635-NoArmor(0);NPC-Persica(8)<Speaker>페르시카</Speaker>||:그거 통과되려면 한세월이야, 바탕화면에서 바로가기 프로그램으로 해킹해.
+RO635-NoArmor(3)<Speaker>RO635</Speaker>;NPC-Persica(8)||:또 말도 안 되는... 절차를 따르지 않고 기밀 파일을 무단으로 조회하는 일은――
+RO635-NoArmor(3);NPC-Persica(8)<Speaker>페르시카</Speaker>||:아참참, 그 인턴도 단단히 붙잡아 놔야겠다. 걔한테 협력을 구할 문제랑 실험이 아직 산더미야!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:알겠습니다.+......
+NPC-Persica(6)<Speaker>페르시카</Speaker>||:빨리빨리 해, 내가 말한 프로필은?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:......+페르시카 씨, 아무래도 그 프로필 뽑을 필요 없을 거 같은데요.
+RO635-NoArmor(0);NPC-Persica(6)<Speaker>페르시카</Speaker>||:뭐...?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;NPC-Persica(6)||:그 프로필의 주인공이 곧 여기에 도착합니다.
+RO635-NoArmor(0);NPC-Persica(6)<Speaker>페르시카</Speaker>||<BGM>BGM_Empty</BGM>:......헉.+M16 지금 어딨어? 빨리 불러서 문 막으라 해!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;NPC-Persica(6)||:M16이라면 약 15분 전에 인근 술집에 들어갔어요.
+NPC-Persica(6)<Speaker>페르시카</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=10</controll_shake>:콰앙!+나름 튼튼한 실험실의 문이 주먹 한 방에 박살났다.+그 너머로 새어 들어오는 한 줄기의 햇빛이 실험실에 약간의 자연감을 가져다주니, 이보다 아이러니할 순 없었다.
+NPC-Ange(9)<Speaker>안젤리아</Speaker><Position>0,-70</Position>||<SE1>AVG_footsteps_woodfloor</SE1>:오랜만이다, 페르시카.+어휴, 네 실험실은 왜 언제 봐도 돼지우리냐?
+NPC-Persica(6)<Speaker>페르시카</Speaker><Shake>0.1</Shake>||<BGM>m_wv_title</BGM>:<size=50>무슨 짓이야!!</size>+그 문짝 특수 재질이라고! 네 월급으로 몇 개월치인지 알기나 해!?
+NPC-Ange(9)<Speaker>안젤리아</Speaker><Position>0,-70</Position>||<SE1>Stop_AVG_loop</SE1>:아까 한 방으론 문짝만 박살냈지만, 다음 한 방으론 뭐가 박살날지 모른다.
+NPC-Persica(6)<Speaker>페르시카</Speaker>||:어쩌려고, 내가 만들어 준 의수로 내 실험실 모조리 박살내게?!+그 빌어먹을 손버릇 안 고치면 다신 의수 교체 안 해 줄 거야!
+NPC-Ange(9)<Speaker>안젤리아</Speaker><Position>0,-70</Position>||:그래서, 내 부하들은?
+()<Speaker></Speaker>||:안젤리아의 웃음기 없는 미소에 맞서, 페르시카는 애써 태연한 척했다.+하지만 옆에서 구경 중인 RO635가 봐도 페르시카의 허세는 방금 한주먹에 박살난 문짝처럼 위태로웠다.+그래서, 그녀는 인형으로서 이성적인 판단에 근거한 행동을 취했다.
+NPC-Persica(6)<Speaker>페르시카</Speaker>||:내 연구용 인형들이 뭐가 네 부하야!+635번 조수, 당장 이 손님 내보내!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<SE1>AVG_Card_Reader</SE1>:<color=#FFFF00>시스템 업그레이드 중, 전원을 끄지 마십시오...</color>
+NPC-Persica(6)<Speaker>페르시카</Speaker><Shake>0.1</Shake>||<SE1>Rope</SE1>:<size=50>야!!</size>+RO 너, 너 무슨 죽은 척이야! 내 권한도 없이 어, 시스템 업그레이드는 개뿔이!
+NPC-Ange(9)<Speaker>안젤리아</Speaker><Position>0,-70</Position>||:얼레, 왜 그렇게 당황해?+녀석들한테 무슨 일이라도 있어?
+NPC-Persica(6)<Speaker>페르시카</Speaker>||:다, 당황하긴 누가? 그냥 실험 몇 번 했을 뿐이거든?+그리고 사람 찾는 걸 왜 나한테 물어?+네 주정뱅이 팀원을 찾는다면 술집에 가서 찾아!
+NPC-Ange(9)<Speaker>안젤리아</Speaker><Position>0,-70</Position>||:실험이라...+네 실험실이 양지로 나온 지 몇 년 되지도 않으면서 꼭 그렇게 스리슬쩍 해야겠냐?
+NPC-Persica(6)<Speaker>페르시카</Speaker>||:시끄러! 네가 과학을 알아!?
+NPC-Ange(9)<Speaker>안젤리아</Speaker><Position>0,-70</Position>||:딴 건 몰라도 물리는 좀 알지.
+()<Speaker></Speaker>||:안젤리아의 시선은 테이블에 위태롭게 쌓인 커피잔들에게 향했고...
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Broken_Glass</SE1><SE1>AVG_Punch_Hit</SE1>:커피잔들은 주먹 한 방에 문자 그대로 가루가 되었다.
+NPC-Persica(6)<Speaker>페르시카</Speaker>||:............
+NPC-Ange(9)<Speaker>안젤리아</Speaker><Position>0,-70</Position>;NPC-Persica(6)||:네 실험실 밖을 나서기 전의 AR팀은 네 작품이었지.+하지만 이젠 내 부하야. 내 동의도 없이 함부로 내 부하들을 건드리는 건 용서 못해.+너도 포함해서, 페르시카.
+NPC-Ange(9)<Position>0,-70</Position>;NPC-Persica(7)<Speaker>페르시카</Speaker>||:...흥.+내가 미리 말한다고 허락 안 해 줄 거면서.
+NPC-Ange(9)<Speaker>안젤리아</Speaker><Position>0,-70</Position>;NPC-Persica(7)||:당연하지.
+NPC-Ange(9)<Position>0,-70</Position>;NPC-Persica(6)<Speaker>페르시카</Speaker>||:<size=50>거 봐!</size>
+NPC-Ange(9)<Speaker>안젤리아</Speaker><Position>0,-70</Position>;NPC-Persica(6)||:하지만 너의 부탁이라면 고려는 해주지.
+NPC-Persica(7)<Speaker>페르시카</Speaker>||:......
+NPC-Ange(9)<Speaker>안젤리아</Speaker><Position>0,-70</Position>||:그래도 이번은 그냥 넘어가 줄 수 없어.
+NPC-Ange(9)<Position>0,-70</Position>;NPC-Persica(7)<Speaker>페르시카</Speaker>||:그래 알았어, 문 박살낸 거 안 물어내도 되고, 다음에 의수 교체할 때 마취 제대로 해 줄게. 됐지?
+NPC-Ange(9)<Speaker>안젤리아</Speaker><Position>0,-70</Position>;NPC-Persica(7)||:겨우?
+NPC-Ange(9)<Position>0,-70</Position>;NPC-Persica(7)<Speaker>페르시카</Speaker>||:엄청 양보해 줬잖아, 뭘 더...
+NPC-Ange(9)<Speaker>안젤리아</Speaker><Position>0,-70</Position>;NPC-Persica(7)||:너 마지막으로 밥 먹은 게 언제야?
+NPC-Persica(7)<Speaker>페르시카</Speaker>||:뭣...
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:27시간 전이요.
+NPC-Persica(6)<Speaker>페르시카</Speaker>||:RO 너――
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<SE1>AVG_Card_Reader</SE1>:<color=#FFFF00>업그레이드를 마치기 위해 다시 시작합니다...</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그 말을 들은 안젤리아가 불길하게 팔뚝을 까닥였다.
+NPC-Ange(9)<Speaker>안젤리아</Speaker><Position>0,-70</Position>||:대충 8시간 뒤에 현관에서 보자.
+NPC-Persica(6)<Speaker>페르시카</Speaker>||:...응? 잠깐, 왜 8시간 뒤―― 컥!!
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_Punch_Hit</SE1><震屏3>:순식간에 성큼 다가온 안젤리아가 촙으로 페르시카의 머리를 강타한 것이었다.+그 한 방에, 페르시카는 풀썩 쓰러졌다.
+NPC-Persica(7)<Speaker>페르시카</Speaker><Shake>0.1</Shake>||:의수... 의수 교체 안 해... 씨이.. 딴 사람 찾......
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><震屏3>:이윽고 그녀의 의식은 완전히 끊어졌다.
+()<Speaker></Speaker>||:RO635는 여전히 요지부동이었다.+그저 바닥에 엎어진 페르시카에게 힐끗 동정 어린 눈빛을 보내고, 손을 흔들며 멀어지는 안젤리아의 뒷모습을 바라볼 뿐이었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:다시 찾아온 고요함. RO635는 페르시카의 바이탈 사인을 간단히 측정하고는 그녀의 침낭 위의 랜턴을 최소 밝기로 낮춘 다음, 실험 자료가 방치된 컴퓨터 앞으로 다가갔다.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<SE1>AVG_Button_Click</SE1>:..."문제상자"의 세 실험이 끝났습니다.+이후 제가 실험 자료를 정리한 파일과 실험 도중 수집한 유효 데이터를 업로드하겠습니다.+그리고...+페르시카 씨는 안젤리아 씨가 AR팀에게 긍정적인 영향을 주었음을 인정했습니다.+이것으로, 실험 종료를 선언합니다. 기록 완료.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:간결한 녹음 기록을 마치고, RO635는 마무리 작업을 시작했다.
+()||<黑点1>:

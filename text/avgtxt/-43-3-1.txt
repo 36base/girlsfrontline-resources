@@ -1,116 +1,116 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Sad</BGM>:......
-()<Speaker></Speaker>||:다크존으로 진입하기에 앞서, Vector 팀은 두 조로 나뉘었다.+Vector와 PP-90은 눈보라를 헤치며 물자 확보와 전황 파악에 힘썼고, R93과 K5는 다크존 주변을 탐색했다.+하지만 Vector 조는 탄약과 무기만 발견했을 뿐, 마찬가지로 중요한 식량과 물을 도무지 찾을 수가 없었다.+추위와 허기에 시달리는 두 인형에겐 1초가 한세월처럼 느껴졌고, 결국 PP-90이 한계를 넘은 허기로 탈락하고 말았다...
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>289</BIN>:하지만 동료가 남긴 통조림으로 Vector는 살아남았고, 그녀의 결의도 확고해졌다.<下雪></下雪>
-Vector()<Speaker>Vector</Speaker>||:남과 협력하든 비겁한 수든, 이 시합에서 반드시 이기겠어... PP-90, 너를 위해서.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:......<火焰销毁></火焰销毁>
-()<Speaker></Speaker>||<BGM>GF_xDivision_Scene3</BGM>:......
-HK416(6)<Speaker>？？？</Speaker>||:요원 Vector... 아니, "헬파이어".+그게 너의 진짜 이름이야.
-Vector(6)<Speaker>헬파이어</Speaker>;HK416(6)||:네가 그걸 어떻게 아는 거지?
-HK416(6)<Speaker>터스크</Speaker>||:내 이름은 "터스크". 너도 나도, 이 모든 것을 초래한 그 사람에게서 비롯됐지.
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>......</color>
-Vector(6)<Speaker>헬파이어</Speaker>||:디마?
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>내 네이밍 센스가 엉망이라 미안해, "Vector"...</color>+<color=#00CCFF>...뭐, 아무렴 어때. 너도 이제 "416"처럼 완전히 변해버렸는데.</color>
-()<Speaker>시스템</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:경고. 식별 코드가 잠겼습니다.
-HK416(6)<Speaker>터스크</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:아직도 포기 안 할 셈인가요?
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>난 아직 젊다고! 이딴 가상현실에서 평생 머물까 보냐!</color>
-NPC-Dima(1)<通讯框>;Vector(6)<Speaker>헬파이어</Speaker>||:나쁜 제안은 아니야. 우리 모두 힘을 합쳐, 이 도시를 정화할 수 있어.
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(6)||:<color=#00CCFF>그래서 넌 "클리너"가 됐냐... 솔직히 어울리긴 하네.</color>+<color=#00CCFF>아무튼, 이 게임은 반드시 끝날 거야! 나는 무리여도 저 인형들이라면 분명 해낼 수 있어!</color>
-NPC-Dima(1)<通讯框>;HK416(6)<Speaker>터스크</Speaker>||:인형...?+HK416과 Vector 말이죠?
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;HK416(6)||:<color=#00CCFF>그, 그래. 그게 어쨌는데?</color>
-NPC-Dima(1)<通讯框>;Vector(6)<Speaker>헬파이어</Speaker>||:그럼, 그들을 정화하면 너도 단념하겠군.
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(6)||:<color=#00CCFF>응!?</color>
-NPC-Dima(1)<通讯框>;HK416(6)<Speaker>터스크</Speaker>||:놈들을 영원히 지워버리겠어요.
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>아... 안 돼!</color>
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>298</BIN><BGM>BGM_Empty</BGM>:......
-ISAC()<Speaker>ISAC</Speaker>||:경고, 체온 저하.
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:아, 눈 그쳤다.
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||<BGM>GF_xDivision_Scene2</BGM>:Vivi 쪽에 무슨 일이 생긴 걸까?
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:무슨 일이든 PP-90이 탈락해서 충격이 클 거야.
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:게임이라 진짜 죽은 것도 아닌데... Vivi는 너무 진지하다니까.+하긴, 그래도 굶어죽는 건 역시 너무 비참하지.
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:우린 먹을 건 물론 무기랑 탄약도 너무 많아서 다 못 쓰는 지경인데...+Vivi한테 주면 좋아할까?
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:푸훗!
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:뭐야, 왜 웃어?
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:아니, 우리 둘의 조합이 참 기묘하단 생각이 들어서.
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:기묘하다고...?+생각해 보니 그러네, 여태까지 너만 황금색 장비를 얻고, 난 식량 아니면 식량뿐이니.+가끔은 운이 양극화될 때도 있지만, 이렇게까지 극단적으로 차이나는 경우는 나도 처음이야.
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:인형의 운세를 일률적으로 논할 순 없어. 나야 점을 좋아하지만, 내가 운이 나빠서가 아니야.+그리고, 왠지 모르게 너와 함께면 내 운이 좋아지는 듯한 느낌이거든.
-Vector(0)<Speaker>Vector</Speaker><通讯框>;R93(0)<Position>0,-100</Position>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>K5, 그쪽 상황은 어떻지?</color>
-Vector(0)<通讯框>;R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:아, Vivi다.
-Vector(0)<通讯框>;K5(0)<Speaker>K5</Speaker>||:모든 게 순탄해.+그나저나 방금 시스템 알림을 봤는데...+PP-90이 굶어 죽었단 게 정말이야?
-Vector(0)<Speaker>Vector</Speaker><通讯框>;K5(0)||:<color=#00CCFF>...응.</color>+<color=#00CCFF>나한테 마지막 식량을 양보하고, 자기는...</color>
-Vector(0)<通讯框>;R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:지, 지나간 일은 어쩔 수 없지 뭐! 대장도 기운내, PP-90의 죽음을 헛되이 할 순 없잖아!
-Vector(0)<通讯框>;K5(0)<Speaker>K5</Speaker>||:<color=#A9A9A9>왜 너까지 몰입하고 그래?</color>
-Vector(0)<通讯框>;R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:<color=#A9A9A9>쉬이잇... 이래야 Vivi의 기분이 나아질 거 아니야.</color>
-Vector(0)<Speaker>Vector</Speaker><通讯框>;R93(0)<Position>0,-100</Position>||:<color=#00CCFF>모두 잘 들어. 우린 PP-90을 잃었어. 이 이상의 전투 외 손실은 피해야 해.</color>
-Vector(0)<通讯框>;K5(0)<Speaker>K5</Speaker>||:걱정 마, 우리 수확은 대박났으니까!
-Vector(0)<Speaker>Vector</Speaker><通讯框>;K5(0)||:<color=#00CCFF>얼마나?</color>
-Vector(0)<通讯框>;R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:장비랑 물자 모두 인벤토리가 모자랄 정도로.+PP-90을 잃은 건 유감이지만, 이만큼이라면 우린 다크존에서도 무쌍을 찍을 거야!
-Vector(0)<Speaker>Vector</Speaker><通讯框>;R93(0)<Position>0,-100</Position>||:<color=#00CCFF>......</color>+<color=#00CCFF>이제 시간이 넉넉하지 않아. 그랜드 센트럴 터미널 근처의 은신처에서 합류한 다음, 다크존으로 돌입하자.</color>
-Vector(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:알았어, 잠깐 지도 좀 볼게...+음... 넌 거기까지 얼마나 걸릴 거 같아?
-Vector(0)<Speaker>Vector</Speaker><通讯框>;R93(0)<Position>0,-100</Position>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>난 ...하철역... 지나... 하......, 디마가 적이 ...고 하니 시간... 걸릴...</color>
-R93(0)<Speaker>R93</Speaker>||<SE1>AVG_tele_disconnect</SE1>:음? Vivi? 내 말 들려?
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:신호에 문제가 생겼나 봐. 드디어 운이 다한 거 같은데?
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:우리 같은 팀이거든? 내 불행은 네 불행도 된다고.
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:난 신경 안 써. 행운이란 원래 어느 날 갑자기 찾아왔다 소리없이 사라지고, 신경쓸수록 빠져나가는 물건이거든.+계속 신경쓸 바에야, 차라리 딴 데다 정신을 집중하는 게 훨씬 낫지.
-K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:네가 그런 말을 할 줄은 몰랐네...
-K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:흐흥~ 너를 위해 특별히 지어낸 말이니까. 어때, 마음에 들었어?
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:에이 뭐야, 칭찬 좀 해 주려 했더니만. 됐으니까 얼른 가자.
-()<Speaker></Speaker>||:두 인형은 재난이 일어난 후 공사가 멈춘 길거리를 수다를 떨며 걸어갔다.+그리고 공사장의 어느 비계 위에서, 세 그림자가 그들을 주시했다.
-HK416Mod(0)<Speaker>HK416</Speaker>||:직접 나서길래 괜찮은 계획이라도 있는 줄 알았더니만, 여기 와서도 또 구경밖에 안 해?
-HK416Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:그럼 어떡하고 싶은데?
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP9Mod(0)||:저 둘이 말하는 거 들었지?
-HK416Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:응. 그 황금색 장비라는 거, 뺏으러 가게?
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP9Mod(0)||:파밍을 꽤 잘한 거 같으니, 녀석들 것을 뺏으면 다크존에서 활동하기 훨씬 수월할 거야.+하지만 여기서 저격했다간 지나가던 다른 플레이어가 주울 수도 있으니 좀 더 접근해서 기습하는 게 낫겠어.
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:좋네, 그럼 그 임무는 너와 9에게 맡길게.
-HK416Mod(0);UMP9Mod(3)<Speaker>UMP9</Speaker>||:헤헤, 맡겨 줘 언니!
-HK416Mod(0)<Speaker>HK416</Speaker>||:......
-HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:왜 그래, 저 둘 상대하는데도 내 지휘가 필요해?
-HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:아니, 대신 망이나 봐 달라고. 그 정도도 못하진 않겠지?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:그래 그래, 너희의 무대를 즐기고 있을게.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:......
-HK416()<Speaker>HK416</Speaker>||:움직이자.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:......
-ISAC()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:적 반응 소멸.
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>네, 이게 마지막 적일 겁니다.</color>
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>167</BIN><BGM>GF_xDivision_Scene3</BGM>:격전 끝에, Vector는 주위의 적을 섬멸했다.
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>당신이 뛰어난 실력의 소유자라서 정말 다행입니다, 요원님. 여러모로...</color>
-NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:갑자기 목소리가 기운 없어졌네.
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>방금 이쪽에서 여러 일이 생겼는지라... 하아...</color>+<color=#00CCFF>아무튼, 당신의 활약을 보니 아직 희망이 있음을 깨달았습니다.</color>
-NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:방금 전에 통신을 교란한 건 이 녀석들이야?
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>아뇨, 통신 교란의 원인은 사실――</color>+<color=#00CCFF>...아니, 이건 말로 설명하자면 길어지니 우선 통신이 복구됐는지부터 보세요. 당신의 동료분들이 무사한지 확인하는 게 좋을 겁니다.</color>
-Vector(0)<Speaker>Vector</Speaker>||:알았어.
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>앗, Vivi!</color>+<color=#00CCFF>겨우 다시 연결됐네. 신호가 드문드문 끊기니까 여간 번거로운 게 아니라니까.</color>
-R93(0)<Position>0,-100</Position>;Vector(0)<Speaker>Vector</Speaker>||:지금 그쪽 상황은?
-K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>널 찾으러 가는 중인데, 마침 다크존의 입구도 찾았어.</color>+<color=#00CCFF>이쪽은 아직 안전한 편이야, 어느 팀이었는지 모를 애들 둘이 죽고 남긴 폭탄이 잔뜩 있길래 겸사겸사 주웠고.</color>+<color=#00CCFF>아예 여길 합류 지점으로 삼아도 될 거 같은데, 너 지금 어디 있어? 여기까지 오는 데 얼마나 걸릴 것 같아?</color>
-K5(0);Vector(0)<Speaker>Vector</Speaker>||:난 지금 그랜드 센트럴 터미널 지하철역에 있어. 지도상으론 이쪽을 통하는 게 다크존에 더 가깝지만...
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>밖에서 휘몰아치는 눈보라를 피해 들어온 적들이 도사리고 있으니, 여길 통과하는 것은 결코 쉽지 않을 겁니다.</color>
-Vector(0)<Speaker>Vector</Speaker>||:그렇겠지. 그럼 신중하게... 응?
-()<Speaker></Speaker>||<SE1>Explode</SE1><BIN>167</BIN><Night><BGM>BGM_Empty</BGM><震屏3>:Vector가 생각을 바꿔 우회하려던 그때, 지하철 플랫폼의 양 철도에서 연달아 폭발이 일어났다.+폭음과 진동이 천장을 무너뜨렸고, 떨어지는 잔해는 굉음과 먼지를 일으켰다. 하지만 위험을 감지한 Vector는 떨어지는 콘크리트를 어렵지 않게 피해냈다.
-K5(0)<Speaker>K5</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Vivi!?</color>+<color=#00CCFF>방금 뭐가 터지는 소리를 들었는데, 괜찮아?</color>
-K5(0)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:...응, 괜찮아.+하지만 역의 조명이 완전히 나갔어. 잠깐 주위를 살펴볼게.
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||:<color=#00CCFF>...어때?</color>
-R93(0)<Position>0,-100</Position><通讯框>;Vector(0)<Speaker>Vector</Speaker>||:입구가 무너진 콘크리트로 완전히 막혔어.+갇히진 않았지만... 적의 소굴로 향할 수밖에 없게 됐어.
-K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>솔직히, 처음부터 팀을 나누지 않았다면 Vivi가 이렇게 고생할 일도 없었을 거란 생각이 들어.</color>
-K5(0)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:이곳의 적은 다 별볼일 없으니까 걱정 안 해도 돼.
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>저... 요원님? 알려드려야 할 것이 있습니다만...</color>+<color=#00CCFF>까다로운 적이 나타났습니다.</color>
-Vector(0)<Speaker>Vector</Speaker>||:까다로운 적?
-()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1><BGM>GF_xDivision_Scene3</BGM>:디마가 설명할 틈도 없이, 눈부신 손전등의 빛이 저 너머에서 어둠 속을 훑었다.+Vector는 반사적으로 무너진 콘크리트 더미 사이로 숨었다. 잠시 후, 괴이한 기운을 내뿜으며 주위를 살피는 무장인원들의 모습이 잔해의 틈새로 보였다.
-Vector(0)<Speaker>Vector</Speaker>||:전략국토부 요원이잖아...?
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>요원"이었던" 자들입니다. 손목시계가 빨갛게 빛나는 것 보이시나요? 그게 차이점입니다.</color>+<color=#00CCFF>여태까지 요원님이 조우했던 적들보다 훨씬 더 상대하기 힘들 겁니다.</color>
-NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:변절했다고? 왜?
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>그건...</color>+<color=#00CCFF>저희는 혼란에 빠진 뉴욕을 구하기 위해, 맨해튼에 갖은 노력을 들여 무고한 생명을 하나라도 더 지키려 했습니다.</color>+<color=#00CCFF>하지만 어떤 이들은 저희의 방식이 소 잃고 외양간 고치기밖에 안 된다며, 질서를 위해서라면 과격한 수단이라도 동원해야 한다며 들고있어났죠.</color>+<color=#00CCFF>그들은 진정한 위협은 이 재난이 아닌, 뉴욕을 이 지경으로 만든 악의라 주장하고 있습니다.</color>
-NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:그러니까, 의견 차이로 틀어졌다고?
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>내부 분열이 더 맞을 겁니다.</color>+<color=#00CCFF>그런데 설마 일이 그렇게 될 줄은...</color>
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF><size=30>그것도 두 번씩이나! 어휴 진짜, 내가 잘 통제할 수 있을 줄 알았는데!</size></color>
-NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:두 번씩이나라니, 그게 무슨 뜻이야?
-NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>크흠! 그건 중요하지 않습니다.</color>+<color=#00CCFF>당신이 저 배신자들과는 다르다는 것을 믿기에 이런 얘기를 해드린 겁니다. 저희는 올바른 길을 향해 발을 내디뎠으니, 누군가는 끝까지 나아가야 합니다.</color>
-K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>뭐야, 여태 게임 시나리오 소개한 거였어?</color>
-R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||:<color=#00CCFF>우리 현실에 견줄 만한 이야기네.</color>
-K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>게임 스토리는 아무래도 좋으니까 더는 시간 낭비 말자.</color>+<color=#00CCFF>그렇지, Vivi?</color>
-Vector(0)<Speaker>Vector</Speaker>||:벌써 움직이고 있어.
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Sad</BGM>:......
+()<Speaker></Speaker>||:다크존으로 진입하기에 앞서, Vector 팀은 두 조로 나뉘었다.+Vector와 PP-90은 눈보라를 헤치며 물자 확보와 전황 파악에 힘썼고, R93과 K5는 다크존 주변을 탐색했다.+하지만 Vector 조는 탄약과 무기만 발견했을 뿐, 마찬가지로 중요한 식량과 물을 도무지 찾을 수가 없었다.+추위와 허기에 시달리는 두 인형에겐 1초가 한세월처럼 느껴졌고, 결국 PP-90이 한계를 넘은 허기로 탈락하고 말았다...
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>289</BIN>:하지만 동료가 남긴 통조림으로 Vector는 살아남았고, 그녀의 결의도 확고해졌다.<下雪></下雪>
+Vector()<Speaker>Vector</Speaker>||:남과 협력하든 비겁한 수든, 이 시합에서 반드시 이기겠어... PP-90, 너를 위해서.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:......<火焰销毁></火焰销毁>
+()<Speaker></Speaker>||<BGM>GF_xDivision_Scene3</BGM>:......
+HK416(6)<Speaker>？？？</Speaker>||:요원 Vector... 아니, "헬파이어".+그게 너의 진짜 이름이야.
+Vector(6)<Speaker>헬파이어</Speaker>;HK416(6)||:네가 그걸 어떻게 아는 거지?
+HK416(6)<Speaker>터스크</Speaker>||:내 이름은 "터스크". 너도 나도, 이 모든 것을 초래한 그 사람에게서 비롯됐지.
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>......</color>
+Vector(6)<Speaker>헬파이어</Speaker>||:디마?
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>내 네이밍 센스가 엉망이라 미안해, "Vector"...</color>+<color=#00CCFF>...뭐, 아무렴 어때. 너도 이제 "416"처럼 완전히 변해버렸는데.</color>
+()<Speaker>시스템</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:경고. 식별 코드가 잠겼습니다.
+HK416(6)<Speaker>터스크</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:아직도 포기 안 할 셈인가요?
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>난 아직 젊다고! 이딴 가상현실에서 평생 머물까 보냐!</color>
+NPC-Dima(1)<通讯框>;Vector(6)<Speaker>헬파이어</Speaker>||:나쁜 제안은 아니야. 우리 모두 힘을 합쳐, 이 도시를 정화할 수 있어.
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(6)||:<color=#00CCFF>그래서 넌 "클리너"가 됐냐... 솔직히 어울리긴 하네.</color>+<color=#00CCFF>아무튼, 이 게임은 반드시 끝날 거야! 나는 무리여도 저 인형들이라면 분명 해낼 수 있어!</color>
+NPC-Dima(1)<通讯框>;HK416(6)<Speaker>터스크</Speaker>||:인형...?+HK416과 Vector 말이죠?
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;HK416(6)||:<color=#00CCFF>그, 그래. 그게 어쨌는데?</color>
+NPC-Dima(1)<通讯框>;Vector(6)<Speaker>헬파이어</Speaker>||:그럼, 그들을 정화하면 너도 단념하겠군.
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(6)||:<color=#00CCFF>응!?</color>
+NPC-Dima(1)<通讯框>;HK416(6)<Speaker>터스크</Speaker>||:놈들을 영원히 지워버리겠어요.
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>아... 안 돼!</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>298</BIN><BGM>BGM_Empty</BGM>:......
+ISAC()<Speaker>ISAC</Speaker>||:경고, 체온 저하.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:아, 눈 그쳤다.
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||<BGM>GF_xDivision_Scene2</BGM>:Vivi 쪽에 무슨 일이 생긴 걸까?
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:무슨 일이든 PP-90이 탈락해서 충격이 클 거야.
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:게임이라 진짜 죽은 것도 아닌데... Vivi는 너무 진지하다니까.+하긴, 그래도 굶어죽는 건 역시 너무 비참하지.
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:우린 먹을 건 물론 무기랑 탄약도 너무 많아서 다 못 쓰는 지경인데...+Vivi한테 주면 좋아할까?
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:푸훗!
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:뭐야, 왜 웃어?
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:아니, 우리 둘의 조합이 참 기묘하단 생각이 들어서.
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:기묘하다고...?+생각해 보니 그러네, 여태까지 너만 황금색 장비를 얻고, 난 식량 아니면 식량뿐이니.+가끔은 운이 양극화될 때도 있지만, 이렇게까지 극단적으로 차이나는 경우는 나도 처음이야.
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:인형의 운세를 일률적으로 논할 순 없어. 나야 점을 좋아하지만, 내가 운이 나빠서가 아니야.+그리고, 왠지 모르게 너와 함께면 내 운이 좋아지는 듯한 느낌이거든.
+Vector(0)<Speaker>Vector</Speaker><通讯框>;R93(0)<Position>0,-100</Position>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>K5, 그쪽 상황은 어떻지?</color>
+Vector(0)<通讯框>;R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:아, Vivi다.
+Vector(0)<通讯框>;K5(0)<Speaker>K5</Speaker>||:모든 게 순탄해.+그나저나 방금 시스템 알림을 봤는데...+PP-90이 굶어 죽었단 게 정말이야?
+Vector(0)<Speaker>Vector</Speaker><通讯框>;K5(0)||:<color=#00CCFF>...응.</color>+<color=#00CCFF>나한테 마지막 식량을 양보하고, 자기는...</color>
+Vector(0)<通讯框>;R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:지, 지나간 일은 어쩔 수 없지 뭐! 대장도 기운내, PP-90의 죽음을 헛되이 할 순 없잖아!
+Vector(0)<通讯框>;K5(0)<Speaker>K5</Speaker>||:<color=#A9A9A9>왜 너까지 몰입하고 그래?</color>
+Vector(0)<通讯框>;R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:<color=#A9A9A9>쉬이잇... 이래야 Vivi의 기분이 나아질 거 아니야.</color>
+Vector(0)<Speaker>Vector</Speaker><通讯框>;R93(0)<Position>0,-100</Position>||:<color=#00CCFF>모두 잘 들어. 우린 PP-90을 잃었어. 이 이상의 전투 외 손실은 피해야 해.</color>
+Vector(0)<通讯框>;K5(0)<Speaker>K5</Speaker>||:걱정 마, 우리 수확은 대박났으니까!
+Vector(0)<Speaker>Vector</Speaker><通讯框>;K5(0)||:<color=#00CCFF>얼마나?</color>
+Vector(0)<通讯框>;R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:장비랑 물자 모두 인벤토리가 모자랄 정도로.+PP-90을 잃은 건 유감이지만, 이만큼이라면 우린 다크존에서도 무쌍을 찍을 거야!
+Vector(0)<Speaker>Vector</Speaker><通讯框>;R93(0)<Position>0,-100</Position>||:<color=#00CCFF>......</color>+<color=#00CCFF>이제 시간이 넉넉하지 않아. 그랜드 센트럴 터미널 근처의 은신처에서 합류한 다음, 다크존으로 돌입하자.</color>
+Vector(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:알았어, 잠깐 지도 좀 볼게...+음... 넌 거기까지 얼마나 걸릴 거 같아?
+Vector(0)<Speaker>Vector</Speaker><通讯框>;R93(0)<Position>0,-100</Position>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>난 ...하철역... 지나... 하......, 디마가 적이 ...고 하니 시간... 걸릴...</color>
+R93(0)<Speaker>R93</Speaker>||<SE1>AVG_tele_disconnect</SE1>:음? Vivi? 내 말 들려?
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:신호에 문제가 생겼나 봐. 드디어 운이 다한 거 같은데?
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:우리 같은 팀이거든? 내 불행은 네 불행도 된다고.
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:난 신경 안 써. 행운이란 원래 어느 날 갑자기 찾아왔다 소리없이 사라지고, 신경쓸수록 빠져나가는 물건이거든.+계속 신경쓸 바에야, 차라리 딴 데다 정신을 집중하는 게 훨씬 낫지.
+K5(0);R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:네가 그런 말을 할 줄은 몰랐네...
+K5(0)<Speaker>K5</Speaker>;R93(0)<Position>0,-100</Position>||:흐흥~ 너를 위해 특별히 지어낸 말이니까. 어때, 마음에 들었어?
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position>||:에이 뭐야, 칭찬 좀 해 주려 했더니만. 됐으니까 얼른 가자.
+()<Speaker></Speaker>||:두 인형은 재난이 일어난 후 공사가 멈춘 길거리를 수다를 떨며 걸어갔다.+그리고 공사장의 어느 비계 위에서, 세 그림자가 그들을 주시했다.
+HK416Mod(0)<Speaker>HK416</Speaker>||:직접 나서길래 괜찮은 계획이라도 있는 줄 알았더니만, 여기 와서도 또 구경밖에 안 해?
+HK416Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:그럼 어떡하고 싶은데?
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP9Mod(0)||:저 둘이 말하는 거 들었지?
+HK416Mod(0);UMP9Mod(0)<Speaker>UMP9</Speaker>||:응. 그 황금색 장비라는 거, 뺏으러 가게?
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP9Mod(0)||:파밍을 꽤 잘한 거 같으니, 녀석들 것을 뺏으면 다크존에서 활동하기 훨씬 수월할 거야.+하지만 여기서 저격했다간 지나가던 다른 플레이어가 주울 수도 있으니 좀 더 접근해서 기습하는 게 낫겠어.
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:좋네, 그럼 그 임무는 너와 9에게 맡길게.
+HK416Mod(0);UMP9Mod(3)<Speaker>UMP9</Speaker>||:헤헤, 맡겨 줘 언니!
+HK416Mod(0)<Speaker>HK416</Speaker>||:......
+HK416Mod(0);UMP45Mod(0)<Speaker>UMP45</Speaker>||:왜 그래, 저 둘 상대하는데도 내 지휘가 필요해?
+HK416Mod(0)<Speaker>HK416</Speaker>;UMP45Mod(0)||:아니, 대신 망이나 봐 달라고. 그 정도도 못하진 않겠지?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그래 그래, 너희의 무대를 즐기고 있을게.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:......
+HK416()<Speaker>HK416</Speaker>||:움직이자.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:......
+ISAC()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:적 반응 소멸.
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>네, 이게 마지막 적일 겁니다.</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>167</BIN><BGM>GF_xDivision_Scene3</BGM>:격전 끝에, Vector는 주위의 적을 섬멸했다.
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>||:<color=#00CCFF>당신이 뛰어난 실력의 소유자라서 정말 다행입니다, 요원님. 여러모로...</color>
+NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:갑자기 목소리가 기운 없어졌네.
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>방금 이쪽에서 여러 일이 생겼는지라... 하아...</color>+<color=#00CCFF>아무튼, 당신의 활약을 보니 아직 희망이 있음을 깨달았습니다.</color>
+NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:방금 전에 통신을 교란한 건 이 녀석들이야?
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>아뇨, 통신 교란의 원인은 사실――</color>+<color=#00CCFF>...아니, 이건 말로 설명하자면 길어지니 우선 통신이 복구됐는지부터 보세요. 당신의 동료분들이 무사한지 확인하는 게 좋을 겁니다.</color>
+Vector(0)<Speaker>Vector</Speaker>||:알았어.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>앗, Vivi!</color>+<color=#00CCFF>겨우 다시 연결됐네. 신호가 드문드문 끊기니까 여간 번거로운 게 아니라니까.</color>
+R93(0)<Position>0,-100</Position>;Vector(0)<Speaker>Vector</Speaker>||:지금 그쪽 상황은?
+K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>널 찾으러 가는 중인데, 마침 다크존의 입구도 찾았어.</color>+<color=#00CCFF>이쪽은 아직 안전한 편이야, 어느 팀이었는지 모를 애들 둘이 죽고 남긴 폭탄이 잔뜩 있길래 겸사겸사 주웠고.</color>+<color=#00CCFF>아예 여길 합류 지점으로 삼아도 될 거 같은데, 너 지금 어디 있어? 여기까지 오는 데 얼마나 걸릴 것 같아?</color>
+K5(0);Vector(0)<Speaker>Vector</Speaker>||:난 지금 그랜드 센트럴 터미널 지하철역에 있어. 지도상으론 이쪽을 통하는 게 다크존에 더 가깝지만...
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>밖에서 휘몰아치는 눈보라를 피해 들어온 적들이 도사리고 있으니, 여길 통과하는 것은 결코 쉽지 않을 겁니다.</color>
+Vector(0)<Speaker>Vector</Speaker>||:그렇겠지. 그럼 신중하게... 응?
+()<Speaker></Speaker>||<SE1>Explode</SE1><BIN>167</BIN><Night><BGM>BGM_Empty</BGM><震屏3>:Vector가 생각을 바꿔 우회하려던 그때, 지하철 플랫폼의 양 철도에서 연달아 폭발이 일어났다.+폭음과 진동이 천장을 무너뜨렸고, 떨어지는 잔해는 굉음과 먼지를 일으켰다. 하지만 위험을 감지한 Vector는 떨어지는 콘크리트를 어렵지 않게 피해냈다.
+K5(0)<Speaker>K5</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>Vivi!?</color>+<color=#00CCFF>방금 뭐가 터지는 소리를 들었는데, 괜찮아?</color>
+K5(0)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:...응, 괜찮아.+하지만 역의 조명이 완전히 나갔어. 잠깐 주위를 살펴볼게.
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||:<color=#00CCFF>...어때?</color>
+R93(0)<Position>0,-100</Position><通讯框>;Vector(0)<Speaker>Vector</Speaker>||:입구가 무너진 콘크리트로 완전히 막혔어.+갇히진 않았지만... 적의 소굴로 향할 수밖에 없게 됐어.
+K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>솔직히, 처음부터 팀을 나누지 않았다면 Vivi가 이렇게 고생할 일도 없었을 거란 생각이 들어.</color>
+K5(0)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:이곳의 적은 다 별볼일 없으니까 걱정 안 해도 돼.
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>저... 요원님? 알려드려야 할 것이 있습니다만...</color>+<color=#00CCFF>까다로운 적이 나타났습니다.</color>
+Vector(0)<Speaker>Vector</Speaker>||:까다로운 적?
+()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1><BGM>GF_xDivision_Scene3</BGM>:디마가 설명할 틈도 없이, 눈부신 손전등의 빛이 저 너머에서 어둠 속을 훑었다.+Vector는 반사적으로 무너진 콘크리트 더미 사이로 숨었다. 잠시 후, 괴이한 기운을 내뿜으며 주위를 살피는 무장인원들의 모습이 잔해의 틈새로 보였다.
+Vector(0)<Speaker>Vector</Speaker>||:전략국토부 요원이잖아...?
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>요원"이었던" 자들입니다. 손목시계가 빨갛게 빛나는 것 보이시나요? 그게 차이점입니다.</color>+<color=#00CCFF>여태까지 요원님이 조우했던 적들보다 훨씬 더 상대하기 힘들 겁니다.</color>
+NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:변절했다고? 왜?
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>그건...</color>+<color=#00CCFF>저희는 혼란에 빠진 뉴욕을 구하기 위해, 맨해튼에 갖은 노력을 들여 무고한 생명을 하나라도 더 지키려 했습니다.</color>+<color=#00CCFF>하지만 어떤 이들은 저희의 방식이 소 잃고 외양간 고치기밖에 안 된다며, 질서를 위해서라면 과격한 수단이라도 동원해야 한다며 들고있어났죠.</color>+<color=#00CCFF>그들은 진정한 위협은 이 재난이 아닌, 뉴욕을 이 지경으로 만든 악의라 주장하고 있습니다.</color>
+NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:그러니까, 의견 차이로 틀어졌다고?
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>내부 분열이 더 맞을 겁니다.</color>+<color=#00CCFF>그런데 설마 일이 그렇게 될 줄은...</color>
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF><size=30>그것도 두 번씩이나! 어휴 진짜, 내가 잘 통제할 수 있을 줄 알았는데!</size></color>
+NPC-Dima(1)<通讯框>;Vector(0)<Speaker>Vector</Speaker>||:두 번씩이나라니, 그게 무슨 뜻이야?
+NPC-Dima(1)<Speaker>디마</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>크흠! 그건 중요하지 않습니다.</color>+<color=#00CCFF>당신이 저 배신자들과는 다르다는 것을 믿기에 이런 얘기를 해드린 겁니다. 저희는 올바른 길을 향해 발을 내디뎠으니, 누군가는 끝까지 나아가야 합니다.</color>
+K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>뭐야, 여태 게임 시나리오 소개한 거였어?</color>
+R93(0)<Speaker>R93</Speaker><Position>0,-100</Position><通讯框>;Vector(0)||:<color=#00CCFF>우리 현실에 견줄 만한 이야기네.</color>
+K5(0)<Speaker>K5</Speaker><通讯框>;Vector(0)||:<color=#00CCFF>게임 스토리는 아무래도 좋으니까 더는 시간 낭비 말자.</color>+<color=#00CCFF>그렇지, Vivi?</color>
+Vector(0)<Speaker>Vector</Speaker>||:벌써 움직이고 있어.
+()||<黑点1>:

@@ -1,188 +1,188 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker>죄수</Speaker>||<SE1>AVG_Crowd</SE1><BIN>328</BIN><BGM>BGM_Danger</BGM><黑屏2>:우오오오오오오!!!
-()<Speaker>M4 SOPMOD II</Speaker>||:완전 좀비 영화 같다!
-()<Speaker>AR15</Speaker>||:저 사람들, 상태가 좀 이상해.+무슨 약물을 흡입한 모양인데, 흥분제는 아닌 거 같아.
-()<Speaker>RO635</Speaker>||<SE1>AVG_tele_connect</SE1>:페로사, 폭발물은 어떻게 됐어?
-VP1915(0)<Speaker>페로사</Speaker><通讯框>||:<color=#00CCFF>전부 해체 완료!</color>+<color=#00CCFF>하지만 벌써 몇 개가 기폭돼서 벽에 구멍을 뚫었어!</color>+<color=#00CCFF>죄수들도 지금 모조리 그쪽으로 몰려가는 중이고!</color>
-Fedorov(0)<Speaker>표도로프</Speaker><通讯框>||:<color=#00CCFF>안 되겠어... 교도소 인력의 손실이 너무 커!</color>+<color=#00CCFF>우리만으론 더는 대처 못해!</color>
-Savage99(0)<Speaker>새비지</Speaker><通讯框>||:<color=#00CCFF>죄수들을 더는 막을 수가 없어요!</color>+<color=#00CCFF>이대론 거리로 탈출하고 말아요!</color>
-()<Speaker>RO635</Speaker>||:죄수 저지는 그만 포기해! 우리가 감당할 수 있는 숫자가 아니야!+목표 변경, 민간인의 안전을 확보해!
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:......
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>327</BIN><SE2>Gunfight</SE2>:타타탕!
-()<Speaker></Speaker>||<SE1>Select</SE1>:UMP45가 교도소 안의 마지막 패러데우스를 사살한 뒤 탄창을 교체했다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:이걸로 마지막이야.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:하지만 방금 도망친 녀석이 있는데?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:도주하는 놈까지 추격하란 명령은 없었으니까.+그리고, 네가 요구해서 어렵사리 몇 명 생포했으니까 더는 무리시키지 마.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:그래, 친절에 감사할게.+하지만, 이들은 별로 쓸모가 없겠는걸...
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:댄들라이가 404 소대에게 제압된 패러데우스를 바라봤다.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:이들의 기억은 마흐리안보다 훨씬 엉망이야.+쓸 만한 정보가 아예 없어.
-HK416Mod(0)<Speaker>HK416</Speaker>||:그나저나...+상황실에 두 사람만 놔둬도 괜찮은 거야?
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:지금 같은 상황엔 상황실이 가장 안전해.+그리고 정말 마흐리안이 여태까지 연기한 거라면, 지금이 바로 절호의 기회겠지.
-HK416Mod(0)<Speaker>HK416</Speaker>||:너... 지금 지휘관을 미끼로 쓴 거야?
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:그럴 리가. 지휘관의 판단을 믿고 마흐리안을 신용했을 뿐이지.
-HK416Mod(0)<Speaker>HK416</Speaker>||:45!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:알았어 알았어, 가면 되잖아.+왜 그리 성급해? 중요한 장면이라도 놓칠까 그래?
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>158</BIN><BGM>BGM_Empty</BGM>:상황실.
-()<Speaker>지휘관</Speaker>||:......
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
-()<Speaker></Speaker>||:지휘관과 마흐리안은 서로 떨어져 앉았다.+단둘이서 있는 건 이번이 처음인데다, 상황도 영 적절치 않았다.+특히나 본 마을에서 빠져나오면서 그런 대화를 했으니, 마흐리안을 어떤 얼굴로 봐야 할지도 지휘관에겐 난제였다.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:...여기가, 마지막 장소죠?
-()<Speaker></Speaker>||:어색한 정적을 깨고, 마흐리안이 먼저 입을 열었다.
-NPC-Machlian(5)<Speaker>지휘관</Speaker>||:그렇지.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||<BGM>BGM_Room</BGM>:여기의 상황이 정리되면...+제가, 당신에게, 그...
-()<Speaker></Speaker>||:마흐리안의 어깨가 살짝 떨렸다. 그 "장소"를 말하려는 것을, 본능적인 두려움이 막는 모양이었다.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:제가, 당신에게, 그... 그...
-()<Speaker>지휘관</Speaker>||:무리해서 말할 필요 없어.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:...그 약을 만들 수 있는 곳으로 안내해드릴게요.
-()<Speaker></Speaker>||:마흐리안은 가쁜 숨을 다시 가다듬었다.+이성이 무너졌을 때 내뱉다시피 한 말이었지만, 그녀는 자신의 약속을 잊지 않았다.
-()<Speaker>지휘관</Speaker>||:고마워.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:저는 포로인걸요, 감사해하실 것 없어요.
-()<Speaker>지휘관</Speaker>||:......
-()<Speaker></Speaker>||:그 말에 언짢아진 지휘관이 고개를 돌려 그녀를 바라봤다.
-()<Speaker>지휘관</Speaker>||:알려 달라 요구한 건 나지만, 결정을 내린 건 마흐리안 너야.+우리가 하는 일은 네 목적과 같아.+우리는 네 약으로 더 많은 이들을 돕고 싶고, 넌 우릴 인정하고 도움을 주기로 약속한 거지.+그게 지금 네가 하고 있는 일이야.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:......+제가 했던 일들은... 전부 결과가 좋지 않았어요.
-NPC-Machlian(6)<Speaker>지휘관</Speaker>||:아니, 넌 항상 좋은 결과를 만들었어.+패러데우스가 저지른 일 때문에 네가 죄책감 가질 필요 없어.+이번에 네가 내린 결정 덕분에, 엘사와 같은 비극이 되풀이되지 않도록 막을 수 있을 거야.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:......
-()<Speaker></Speaker>||:바깥의 소란은 여전히 잦아들지 않아, 최전선이 아니라도 현재 상황이 낙관적이지 않음을 가늠할 수 있었다.+혼절한 교도소장도, 여전히 깨어날 기미가 보이지 않았다.+결국 지휘관은 숨을 깊게 들이쉬고, 무릎을 탁 치며 자리에서 일어났다.
-()<Speaker>지휘관</Speaker>||:마흐리안.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:네?
-NPC-Machlian(5)<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1>:가자.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:어디로요...?
-NPC-Machlian(5)<Speaker>지휘관</Speaker>||:바깥이 처음보다 많이 조용해졌으니, 사태가 거의 통제된 상황이겠지.+지금 가서 AR팀이나 404와 합류하는 편이 더 안전할 거야.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:알겠어요.
-()<Speaker></Speaker>||:마흐리안도 고개를 끄덕이고 의자에서 일어섰다.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
-()<Speaker>지휘관</Speaker>||:...마흐리안?
-()<Speaker></Speaker>||:하지만 마흐리안은 제자리에 굳었다.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:로빈, 무슨 소리 안 들려요?
-NPC-Machlian(5)<Speaker>지휘관</Speaker>||:소리라니, 무슨――
-()<Speaker></Speaker>||:그녀의 말에 지휘관도 귀를 기울였다.
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_21Winter_FT_Heel</SE1>:또각...+또각... 또각...+높은 구두가 바닥을 두드리는 것 같은 경쾌한 소리가, 문 너머에서 들려왔다.
-()<Speaker>지휘관</Speaker>||:...발소리?+여자인가?
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||<BGM>BGM_Truth</BGM>:인형 아가씨들은 아닌 것 같아요.+그리고, 저...
-()<Speaker></Speaker>||<SE1>Rope</SE1>:마흐리안이 주먹을 꽉 움켜쥐어, 가느다란 손가락이 하얘졌다.+그녀가 고개를 들더니, 불안해하며 지휘관의 옷자락을 붙잡았다.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:저... 기억에서, 이런 걸음 소리를 들었어요...
-()<Speaker>지휘관</Speaker>||:...그리고? 어떻게 됐는데?
-()<Speaker></Speaker>||:심상찮은 기운을 느낀 지휘관이 권총을 뽑아 장전하면서 마흐리안에게 물었다.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:역시... 역시, 저는 운명을 바꿀 수 없어요...+아무리 저항해도, 아무것도 할 수 없어요...+로빈, 전... 여기서 죽을 거예요.
-()<Speaker>지휘관</Speaker>||:......
-()<Speaker></Speaker>||:또각.+다가오던 발소리가 끊겼다. 아무래도, 문앞에 멈춰선 모양이었다.
-()<Speaker>지휘관</Speaker>||:괜찮아, 괜찮을 거야.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 마흐리안을 안심시키며 미소를 지어 보였고, 권총을 들고서 조심조심 벽에 몸을 붙였다.
-()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:그리고 언제든지 방아쇠를 당길 수 있도록 자세를 잡고, 문틈으로 살짝 바깥을 내다보았다.
-()||<黑屏1>:
-()<Speaker>ELID</Speaker>||<黑屏2><BIN>9</BIN>:그어어어...
-()<Speaker>지휘관</Speaker>||:쯧.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>158</BIN>:감염자였다.+옷차림으로 보아, 교도소에서 근무하던 사람인 것 같았다.+방금 들은 발소리는 저 사람의 구두굽이 낸 소리였다. 적어도, 아직은 "저것"이 원래 여성이었음을 알아볼 수 있었다.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:로빈...
-()<Speaker>지휘관</Speaker>||:쉬잇.
-()<Speaker></Speaker>||:지휘관이 마흐리안의 얼굴을 살피니, 그녀는 걱정과 불안감으로 또 눈물을 흘릴 것만 같았다.+지휘관은 심호흠을 하고서, 문고리를 잡았다.
-()<Speaker>지휘관</Speaker>||:괜찮아, 아직은 아니야.
-()||<黑屏1>:
-()<Speaker>지휘관</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:적어도 지금은 아니야. 네가 본 어떤 미래에서도, 내 모습은 없었잖아.+지금 나도 여기있으니, 네가 본 것과는 전혀 달라.
-()<Speaker></Speaker>||<震屏3><BGM>10118</BGM><SE1>AVG_Door_Hit</SE1><BIN>327</BIN>:쿵!
-()<Speaker>ELID</Speaker>||:크오오!
-()<Speaker></Speaker>||:지휘관은 문을 확 열고, ELID가 반응하기 전에 머리를 겨눴다.
-()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:탕!
-()<Speaker></Speaker>||:ELID의 머리에서 피가 터졌고, 총탄이 두개골과 부딪히는 소리가 났다.
-()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:탕!
-()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:탕!
-()<Speaker></Speaker>||:지휘관은 반격할 틈을 주지 않고 2발 더 연사했고, ELID의 썩어가는 몸뚱이는 바닥에 쓰러졌다.
-()<Speaker>지휘관</Speaker>||:해치웠다!
-()<Speaker></Speaker>||<SE1>RunStep</SE1>:그리고 이어서, 다급한 발소리가 복도 끝에서 들려왔다.
-NPC-Machlian(7)<Speaker>마흐리안</Speaker>||:...로빈!
-()<Speaker>지휘관</Speaker>||:아직 가만 있어!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE2>Gunfight</SE2><震屏3>:——!
-()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:그리고 복도 끝에서 UMP45가 몸을 굴리며 나타나, 총구를 지휘관이 있는 방향으로 향했다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:...뭐야, 벌써 죽은 줄 알았더니만.
-()<Speaker></Speaker>||:상대가 자신의 고용주임을 확인한 UMP45는 바로 총을 내렸다.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:지휘관님, 무사하십니까?
-()<Speaker></Speaker>||:느린 걸음으로 나타난 댄들라이도, 지휘관에게 안부를 묻는 동시에 시선이 마흐리안에게 향했다.
-()<Speaker>지휘관</Speaker>||:그래, 괜찮아.
-()<Speaker></Speaker>||:404가 온 것을 본 지휘관은 겨우 한숨 돌렸다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:지휘관도 나름 훈련받은 몸이란 걸 깜빡했네.
-()<Speaker>지휘관</Speaker>||:나중에 시간 나면 한번 겨뤄볼까?+이래 봬도 꽤 자신 있는데.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:비용만 지불한다면야 얼마든지.+물론 입원비도 자기 부담이야.
-()<Speaker>지휘관</Speaker>||:그럼 관둬야겠다.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
-()<Speaker></Speaker>||:마흐리안이 방에서 나와, 바닥에 쓰러진 ELID를 내려다보았다.
-NPC-Machlian(8)<Speaker>마흐리안</Speaker>||:...해냈군요, 로빈.+우리, 살아남았어요.
-NPC-Machlian(8)<Speaker>지휘관</Speaker>||:별로 대단한 일도 아니지.+말했잖아, 다 사소한 일이라고.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
-()<Speaker></Speaker>||:마흐리안이 생각에 잠긴 사이, 지휘관은 댄들라이에게 고개를 돌렸다.
-()<Speaker>지휘관</Speaker>||:댄들라이, 교도소의 상황은?
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:잠복 중이던 패러데우스는 모두 제거했습니다만, 폭동은 통제에 실패했습니다.+AR팀과 그리폰 소대는 교도관들을 보호하는 게 최선이었죠.+그리고, 이미 붕괴복사 가스가 살포됐으니... 죄수들이 거리로 탈출하도록 놔둘 수밖에 없었습니다.+나머지는 베를린 정부가 골머리 썩일 일입니다.
-()<Speaker>지휘관</Speaker>||<SE1>AVG_Punch_Hit</SE1>:젠장...!
-()<Speaker></Speaker>||:지휘관은 주먹으로 벽을 세게 쳤다.+이래서는 성공이라 할 수 없다. 게다가, 또 붕괴 입자라고? 대체 패러데우스는 붕괴입자를 얼마나 가진 거지?+마흐리안이 말한 치료제의 가치와 중요성은, 어쩌면 생각보다 훨씬 클지도 몰랐다.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:그때, 통신기가 울렸다.
-RPK16(0)<Speaker>RPK16</Speaker><通讯框>||:<color=#00CCFF>여보세요, 지휘관님? 지금 시간 되시나요?</color>+<color=#00CCFF>우리 보스가 이야기 좀 하자 하시는데요.</color>
-RPK16(0)<Speaker>지휘관</Speaker><通讯框>||:RPK-16? 안젤리아 씨가 찾는다고?+난 지금...
-NPC-Ange(7)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>지휘관.</color>
-NPC-Ange(7)<Speaker>지휘관</Speaker><通讯框>||:안젤리아 씨?
-NPC-Ange(7)<Speaker>안젤리아</Speaker><通讯框>||<BGM>BGM_Brain</BGM>:<color=#00CCFF>안녕, 지휘관... 그쪽 상황은 어때?</color>
-()<Speaker></Speaker>||:이 질문, 지휘관은 바닥의 시체를 보면서 쓴웃음을 지을 수밖에 없었다.
-()<Speaker>지휘관</Speaker>||:그럭저럭 잘 되어 가고 있습니다. 마침 일에 진전이 생긴 참입니다.+그쪽은 어떻습니까?
-NPC-Ange(7)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>...뭐어, 나도 그럭저럭.</color>+<color=#00CCFF>갑작스럽게 미안하지만, 부탁할 게 있어.</color>
-NPC-Ange(7)<Speaker>지휘관</Speaker><通讯框>||:제 눈치 보실 필요 없습니다, 말씀하시죠.
-NPC-Ange(7)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>몰리도... 그러니까, 그 니토 말이야. 아직 네 쪽에 있지?</color>
-NPC-Ange(7)<Speaker>지휘관</Speaker><通讯框>||:마흐리안 말입니까?
-()<Speaker></Speaker>||:지휘관은 등뒤에 서있는 마흐리안을 힐끗 봤다.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:......
-()<Speaker>지휘관</Speaker>||:네, 아직 있습니다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>뭐라도 좀 알아냈어?</color>
-NPC-Ange(7)<Speaker>지휘관</Speaker><通讯框>||:예? 저번에 공유해드리지 않았나요?
-NPC-Ange(7)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>...그 후로, 새로 알아낸 건?</color>
-NPC-Ange(7)<Speaker>지휘관</Speaker><通讯框>||:딱히 이렇다 할 만한 것은 없어서, 급히 알려드리지 않아도 된다 판단했습니다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>진도가 너무 느리잖아.</color>+<color=#00CCFF>내가 경고했지, 몰리도는 아주 교활하다고.</color>+<color=#00CCFF>딱 봐도 녀석이 일부러 시간을 질질 끌고 있단 걸 모르겠어?</color>
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
-()<Speaker></Speaker>||:마흐리안은 뭔가 말하고 싶은 눈치였지만, 나를 보더니 고개를 저었다.+나도 잠시 머뭇했다.
-()<Speaker>지휘관</Speaker>||:네, 몰리도에 관해서는 저도 대강이나마 짐작하고 있습니다.+하지만 이 사람은 몰리도가 아닌 마흐리안입니다. 별개의 인물이에요.
-NPC-Ange(6)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>...그거, 진심이야? 정말로 그렇게 생각해?</color>
-NPC-Ange(6)<Speaker>지휘관</Speaker><通讯框>||:네, 당신이 말하는 사람이 아니라 확신합니다.
-()<Speaker></Speaker>||:지휘관은 마흐리안의 얼굴을 보며 단호히 대답했다.
-NPC-Ange(6)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>됐어... 녀석 이름이 뭐든 내 알 바 아니야.</color>+<color=#00CCFF>묻고 싶은 게 있으니까, 나한테 보내.</color>
-NPC-Ange(6)<Speaker>지휘관</Speaker><通讯框>||:물어볼 것이 있으시다고요?+하지만 그녀가 아는 건 제가 공유해드린 게 전부입니다만.
-NPC-Ange(4)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>웃기지 마, 분명 뭔가 더 숨기는 게 있을 거라고!</color>+<color=#00CCFF>제기랄, 지금 너한테 잔소리할 시간 없어!</color>+<color=#00CCFF>어떡할래? 날 믿을 거야, 그년을 믿을 거야!?</color>
-NPC-Ange(4)<Speaker>지휘관</Speaker><通讯框>||:안젤리아 씨, 진정하세요.+당신의 요청을 거절한단 말이 아닙니다. 단지, 지금 바로는 어렵습니다.+그녀에게서 복사감염증 치료제에 관한 정보를 얻어서, 조사에 착수한 상황입니다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>복사감염증 치료제라고...?</color>
-NPC-Ange(7)<Speaker>지휘관</Speaker><通讯框>||:복사감염증 치료에 관한 연구 자료와, 그 약품의 샘플이 있다고 합니다.+만약 그걸 찾아낸다면 수많은 사람들을 도울 수 있습니다.
-NPC-Ange(6)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>그리고 넌 그딴 소릴 믿고?</color>
-NPC-Ange(6)<Speaker>지휘관</Speaker><通讯框>||:저도 확신이 들진 않지만, 해볼 만한 가치는 있습니다. 정말 그런 약이 존재한다면――
-NPC-Ange(6)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>너네 부관 아가씨도 살 수 있겠네?</color>
-()<Speaker>지휘관</Speaker>||:......!
-()<Speaker></Speaker>||:그 말에 지휘관은 울컥했다.
-()<Speaker>지휘관</Speaker>||:아닙니다! 카리나 때문만이 아니라――
-NPC-Ange(6)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>됐어! 나하곤 상관 없는 일이야.</color>+<color=#00CCFF>그년을 여기로 보낼 수 있어, 없어?</color>
-NPC-Ange(6)<Speaker>지휘관</Speaker><通讯框>||:...지금은 안 됩니다.
-NPC-Ange(6)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>......</color>
-NPC-Ange(6)<Speaker>지휘관</Speaker><通讯框>||:안젤리아 씨...
-NPC-Ange(4)<Speaker>안젤리아</Speaker><通讯框>||<SE1>AVG_Door_Hit</SE1>:<color=#00CCFF>정신 똑바로 차리라고 이 멍청아!!</color>+<color=#00CCFF>내가 몇 번을 말해야 돼!? 몰리도가 가장 잘하는 게 변장과 사기라고!!</color>+<color=#00CCFF>그런데도 녀석 말을 곧이곧대로 믿어?!</color>+<color=#00CCFF>내가 한 말은 잊었어? 머리에 구멍 났냐!?</color>
-NPC-Ange(4)<Speaker>지휘관</Speaker><通讯框>||:아니요, 그녀는 몰리도가 아닙니다!+...혹시, 상황이 많이 어려우십니까?+진정하시고 천천히 얘기합시다. 이쪽 일을 처리하는 대로 만나서 이야기하도록 해요.+궁금한 게 있으시다면 그때 다 물어보면 됩니다!
-NPC-Ange(4)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>하! 그래, 마흐리안이랬나? 넌 그년이 하는 말 다 믿는다 이거지!?</color>+<color=#00CCFF>카리나의 목숨이 베를린의 수만 명보다 더 중요하고?</color>+<color=#00CCFF>귀신한테 홀리기라도 했어!? 어?!</color>
-NPC-Ange(4)<Speaker>지휘관</Speaker><通讯框>||:아닙니다!
-NPC-Ange(6)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>......</color>
-NPC-Ange(6)<Speaker>지휘관</Speaker><通讯框>||:...마흐리안은 훈작사가 제게 맡긴 일입니다. 저도 제 판단이 있습니다, 안젤리아 씨.
-NPC-Ange(6)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>이젠 그 양반을 꺼내서 날 누르시겠다?</color>
-NPC-Ange(6)<Speaker>지휘관</Speaker><通讯框>||:그런 뜻이 아니라――
-NPC-Ange(4)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>그래... 그래, 알았어.</color>+<color=#00CCFF>알아서 마음대로 해 봐!</color>
-NPC-Ange(4)<Speaker>지휘관</Speaker><通讯框>||:...죄송합니다, 하지만 안젤리아 씨는 지금 침착하셔야 합니다.+나중에 다시 얘기하죠. 이쪽 일이 끝나는대로 연락드리겠습니다.
-()<Speaker></Speaker>||:통신 종료.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:...저쪽 상황이 엄청 안 좋아보이는걸.
-UMP45Mod(0)<Speaker>지휘관</Speaker>||:훈작사의 지금 안젤리아가 많이 초조해한단 말이 사실인가 봐.
-NytoIsomer(7)<Speaker>댄들라이</Speaker>||:저쪽에 문제가 생겼을 가능성도 충분히 있습니다.+갑자기 이렇게 강경하게 요구하는 것으로 보아, 현재 궁지에 몰린 상황이 아닐까요?
-()<Speaker>지휘관</Speaker>||:안젤리아를 과소평가하면 안 돼.+...이쪽 일이 끝나면, 직접 만나 이야기해봐야겠어.
-()<Speaker></Speaker>||:지휘관은 고개를 돌려 마흐리안을 바라봤다. 마침, 그녀도 할 말이 있는 듯했다.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:로빈.+몰리도에 대해서 말인데요...
-NPC-Machlian(5)<Speaker>지휘관</Speaker>||:네가 몰리도와 동일인물이 아니라 확신해.
-NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:...하지만 그분의 말도 옳아요.+몰리도는 아주 교활하고 간사해요.+변장해서 당신 곁에 숨어들어, 때를 노릴지도 모르죠.+그녀라면, 정말로 그렇게 할 수 있어요.
-NPC-Machlian(6)<Speaker>지휘관</Speaker>||:...난 널 믿어.+넌 그저 무고한 이들을 돕고 싶어하는 평범한 사람이야.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
-()<Speaker></Speaker>||:마흐리안을 양손을 모으고, 무언가 다짐했다.
-NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:저도... 저도 당신을 믿어요, 로빈.+좌표를 가르쳐 드릴게요.
-()<Speaker>지휘관</Speaker>||:좌표...?
-()<Speaker></Speaker>||:마흐리안의 얼굴을 본 지휘관은 그 말이 무슨 뜻인지 바로 알아챘다.
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>죄수</Speaker>||<SE1>AVG_Crowd</SE1><BIN>328</BIN><BGM>BGM_Danger</BGM><黑屏2>:우오오오오오오!!!
+()<Speaker>M4 SOPMOD II</Speaker>||:완전 좀비 영화 같다!
+()<Speaker>AR15</Speaker>||:저 사람들, 상태가 좀 이상해.+무슨 약물을 흡입한 모양인데, 흥분제는 아닌 거 같아.
+()<Speaker>RO635</Speaker>||<SE1>AVG_tele_connect</SE1>:페로사, 폭발물은 어떻게 됐어?
+VP1915(0)<Speaker>페로사</Speaker><通讯框>||:<color=#00CCFF>전부 해체 완료!</color>+<color=#00CCFF>하지만 벌써 몇 개가 기폭돼서 벽에 구멍을 뚫었어!</color>+<color=#00CCFF>죄수들도 지금 모조리 그쪽으로 몰려가는 중이고!</color>
+Fedorov(0)<Speaker>표도로프</Speaker><通讯框>||:<color=#00CCFF>안 되겠어... 교도소 인력의 손실이 너무 커!</color>+<color=#00CCFF>우리만으론 더는 대처 못해!</color>
+Savage99(0)<Speaker>새비지</Speaker><通讯框>||:<color=#00CCFF>죄수들을 더는 막을 수가 없어요!</color>+<color=#00CCFF>이대론 거리로 탈출하고 말아요!</color>
+()<Speaker>RO635</Speaker>||:죄수 저지는 그만 포기해! 우리가 감당할 수 있는 숫자가 아니야!+목표 변경, 민간인의 안전을 확보해!
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>327</BIN><SE2>Gunfight</SE2>:타타탕!
+()<Speaker></Speaker>||<SE1>Select</SE1>:UMP45가 교도소 안의 마지막 패러데우스를 사살한 뒤 탄창을 교체했다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:이걸로 마지막이야.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:하지만 방금 도망친 녀석이 있는데?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:도주하는 놈까지 추격하란 명령은 없었으니까.+그리고, 네가 요구해서 어렵사리 몇 명 생포했으니까 더는 무리시키지 마.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:그래, 친절에 감사할게.+하지만, 이들은 별로 쓸모가 없겠는걸...
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:댄들라이가 404 소대에게 제압된 패러데우스를 바라봤다.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:이들의 기억은 마흐리안보다 훨씬 엉망이야.+쓸 만한 정보가 아예 없어.
+HK416Mod(0)<Speaker>HK416</Speaker>||:그나저나...+상황실에 두 사람만 놔둬도 괜찮은 거야?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:지금 같은 상황엔 상황실이 가장 안전해.+그리고 정말 마흐리안이 여태까지 연기한 거라면, 지금이 바로 절호의 기회겠지.
+HK416Mod(0)<Speaker>HK416</Speaker>||:너... 지금 지휘관을 미끼로 쓴 거야?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:그럴 리가. 지휘관의 판단을 믿고 마흐리안을 신용했을 뿐이지.
+HK416Mod(0)<Speaker>HK416</Speaker>||:45!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:알았어 알았어, 가면 되잖아.+왜 그리 성급해? 중요한 장면이라도 놓칠까 그래?
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>158</BIN><BGM>BGM_Empty</BGM>:상황실.
+()<Speaker>지휘관</Speaker>||:......
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
+()<Speaker></Speaker>||:지휘관과 마흐리안은 서로 떨어져 앉았다.+단둘이서 있는 건 이번이 처음인데다, 상황도 영 적절치 않았다.+특히나 본 마을에서 빠져나오면서 그런 대화를 했으니, 마흐리안을 어떤 얼굴로 봐야 할지도 지휘관에겐 난제였다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:...여기가, 마지막 장소죠?
+()<Speaker></Speaker>||:어색한 정적을 깨고, 마흐리안이 먼저 입을 열었다.
+NPC-Machlian(5)<Speaker>지휘관</Speaker>||:그렇지.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||<BGM>BGM_Room</BGM>:여기의 상황이 정리되면...+제가, 당신에게, 그...
+()<Speaker></Speaker>||:마흐리안의 어깨가 살짝 떨렸다. 그 "장소"를 말하려는 것을, 본능적인 두려움이 막는 모양이었다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:제가, 당신에게, 그... 그...
+()<Speaker>지휘관</Speaker>||:무리해서 말할 필요 없어.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:...그 약을 만들 수 있는 곳으로 안내해드릴게요.
+()<Speaker></Speaker>||:마흐리안은 가쁜 숨을 다시 가다듬었다.+이성이 무너졌을 때 내뱉다시피 한 말이었지만, 그녀는 자신의 약속을 잊지 않았다.
+()<Speaker>지휘관</Speaker>||:고마워.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:저는 포로인걸요, 감사해하실 것 없어요.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:그 말에 언짢아진 지휘관이 고개를 돌려 그녀를 바라봤다.
+()<Speaker>지휘관</Speaker>||:알려 달라 요구한 건 나지만, 결정을 내린 건 마흐리안 너야.+우리가 하는 일은 네 목적과 같아.+우리는 네 약으로 더 많은 이들을 돕고 싶고, 넌 우릴 인정하고 도움을 주기로 약속한 거지.+그게 지금 네가 하고 있는 일이야.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:......+제가 했던 일들은... 전부 결과가 좋지 않았어요.
+NPC-Machlian(6)<Speaker>지휘관</Speaker>||:아니, 넌 항상 좋은 결과를 만들었어.+패러데우스가 저지른 일 때문에 네가 죄책감 가질 필요 없어.+이번에 네가 내린 결정 덕분에, 엘사와 같은 비극이 되풀이되지 않도록 막을 수 있을 거야.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:......
+()<Speaker></Speaker>||:바깥의 소란은 여전히 잦아들지 않아, 최전선이 아니라도 현재 상황이 낙관적이지 않음을 가늠할 수 있었다.+혼절한 교도소장도, 여전히 깨어날 기미가 보이지 않았다.+결국 지휘관은 숨을 깊게 들이쉬고, 무릎을 탁 치며 자리에서 일어났다.
+()<Speaker>지휘관</Speaker>||:마흐리안.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:네?
+NPC-Machlian(5)<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1>:가자.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:어디로요...?
+NPC-Machlian(5)<Speaker>지휘관</Speaker>||:바깥이 처음보다 많이 조용해졌으니, 사태가 거의 통제된 상황이겠지.+지금 가서 AR팀이나 404와 합류하는 편이 더 안전할 거야.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:알겠어요.
+()<Speaker></Speaker>||:마흐리안도 고개를 끄덕이고 의자에서 일어섰다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
+()<Speaker>지휘관</Speaker>||:...마흐리안?
+()<Speaker></Speaker>||:하지만 마흐리안은 제자리에 굳었다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:로빈, 무슨 소리 안 들려요?
+NPC-Machlian(5)<Speaker>지휘관</Speaker>||:소리라니, 무슨――
+()<Speaker></Speaker>||:그녀의 말에 지휘관도 귀를 기울였다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_21Winter_FT_Heel</SE1>:또각...+또각... 또각...+높은 구두가 바닥을 두드리는 것 같은 경쾌한 소리가, 문 너머에서 들려왔다.
+()<Speaker>지휘관</Speaker>||:...발소리?+여자인가?
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||<BGM>BGM_Truth</BGM>:인형 아가씨들은 아닌 것 같아요.+그리고, 저...
+()<Speaker></Speaker>||<SE1>Rope</SE1>:마흐리안이 주먹을 꽉 움켜쥐어, 가느다란 손가락이 하얘졌다.+그녀가 고개를 들더니, 불안해하며 지휘관의 옷자락을 붙잡았다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:저... 기억에서, 이런 걸음 소리를 들었어요...
+()<Speaker>지휘관</Speaker>||:...그리고? 어떻게 됐는데?
+()<Speaker></Speaker>||:심상찮은 기운을 느낀 지휘관이 권총을 뽑아 장전하면서 마흐리안에게 물었다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:역시... 역시, 저는 운명을 바꿀 수 없어요...+아무리 저항해도, 아무것도 할 수 없어요...+로빈, 전... 여기서 죽을 거예요.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:또각.+다가오던 발소리가 끊겼다. 아무래도, 문앞에 멈춰선 모양이었다.
+()<Speaker>지휘관</Speaker>||:괜찮아, 괜찮을 거야.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 마흐리안을 안심시키며 미소를 지어 보였고, 권총을 들고서 조심조심 벽에 몸을 붙였다.
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:그리고 언제든지 방아쇠를 당길 수 있도록 자세를 잡고, 문틈으로 살짝 바깥을 내다보았다.
+()||<黑屏1>:
+()<Speaker>ELID</Speaker>||<黑屏2><BIN>9</BIN>:그어어어...
+()<Speaker>지휘관</Speaker>||:쯧.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>158</BIN>:감염자였다.+옷차림으로 보아, 교도소에서 근무하던 사람인 것 같았다.+방금 들은 발소리는 저 사람의 구두굽이 낸 소리였다. 적어도, 아직은 "저것"이 원래 여성이었음을 알아볼 수 있었다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:로빈...
+()<Speaker>지휘관</Speaker>||:쉬잇.
+()<Speaker></Speaker>||:지휘관이 마흐리안의 얼굴을 살피니, 그녀는 걱정과 불안감으로 또 눈물을 흘릴 것만 같았다.+지휘관은 심호흠을 하고서, 문고리를 잡았다.
+()<Speaker>지휘관</Speaker>||:괜찮아, 아직은 아니야.
+()||<黑屏1>:
+()<Speaker>지휘관</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:적어도 지금은 아니야. 네가 본 어떤 미래에서도, 내 모습은 없었잖아.+지금 나도 여기있으니, 네가 본 것과는 전혀 달라.
+()<Speaker></Speaker>||<震屏3><BGM>10118</BGM><SE1>AVG_Door_Hit</SE1><BIN>327</BIN>:쿵!
+()<Speaker>ELID</Speaker>||:크오오!
+()<Speaker></Speaker>||:지휘관은 문을 확 열고, ELID가 반응하기 전에 머리를 겨눴다.
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:탕!
+()<Speaker></Speaker>||:ELID의 머리에서 피가 터졌고, 총탄이 두개골과 부딪히는 소리가 났다.
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:탕!
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:탕!
+()<Speaker></Speaker>||:지휘관은 반격할 틈을 주지 않고 2발 더 연사했고, ELID의 썩어가는 몸뚱이는 바닥에 쓰러졌다.
+()<Speaker>지휘관</Speaker>||:해치웠다!
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:그리고 이어서, 다급한 발소리가 복도 끝에서 들려왔다.
+NPC-Machlian(7)<Speaker>마흐리안</Speaker>||:...로빈!
+()<Speaker>지휘관</Speaker>||:아직 가만 있어!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE2>Gunfight</SE2><震屏3>:——!
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:그리고 복도 끝에서 UMP45가 몸을 굴리며 나타나, 총구를 지휘관이 있는 방향으로 향했다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...뭐야, 벌써 죽은 줄 알았더니만.
+()<Speaker></Speaker>||:상대가 자신의 고용주임을 확인한 UMP45는 바로 총을 내렸다.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:지휘관님, 무사하십니까?
+()<Speaker></Speaker>||:느린 걸음으로 나타난 댄들라이도, 지휘관에게 안부를 묻는 동시에 시선이 마흐리안에게 향했다.
+()<Speaker>지휘관</Speaker>||:그래, 괜찮아.
+()<Speaker></Speaker>||:404가 온 것을 본 지휘관은 겨우 한숨 돌렸다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:지휘관도 나름 훈련받은 몸이란 걸 깜빡했네.
+()<Speaker>지휘관</Speaker>||:나중에 시간 나면 한번 겨뤄볼까?+이래 봬도 꽤 자신 있는데.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:비용만 지불한다면야 얼마든지.+물론 입원비도 자기 부담이야.
+()<Speaker>지휘관</Speaker>||:그럼 관둬야겠다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
+()<Speaker></Speaker>||:마흐리안이 방에서 나와, 바닥에 쓰러진 ELID를 내려다보았다.
+NPC-Machlian(8)<Speaker>마흐리안</Speaker>||:...해냈군요, 로빈.+우리, 살아남았어요.
+NPC-Machlian(8)<Speaker>지휘관</Speaker>||:별로 대단한 일도 아니지.+말했잖아, 다 사소한 일이라고.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
+()<Speaker></Speaker>||:마흐리안이 생각에 잠긴 사이, 지휘관은 댄들라이에게 고개를 돌렸다.
+()<Speaker>지휘관</Speaker>||:댄들라이, 교도소의 상황은?
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:잠복 중이던 패러데우스는 모두 제거했습니다만, 폭동은 통제에 실패했습니다.+AR팀과 그리폰 소대는 교도관들을 보호하는 게 최선이었죠.+그리고, 이미 붕괴복사 가스가 살포됐으니... 죄수들이 거리로 탈출하도록 놔둘 수밖에 없었습니다.+나머지는 베를린 정부가 골머리 썩일 일입니다.
+()<Speaker>지휘관</Speaker>||<SE1>AVG_Punch_Hit</SE1>:젠장...!
+()<Speaker></Speaker>||:지휘관은 주먹으로 벽을 세게 쳤다.+이래서는 성공이라 할 수 없다. 게다가, 또 붕괴 입자라고? 대체 패러데우스는 붕괴입자를 얼마나 가진 거지?+마흐리안이 말한 치료제의 가치와 중요성은, 어쩌면 생각보다 훨씬 클지도 몰랐다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:그때, 통신기가 울렸다.
+RPK16(0)<Speaker>RPK16</Speaker><通讯框>||:<color=#00CCFF>여보세요, 지휘관님? 지금 시간 되시나요?</color>+<color=#00CCFF>우리 보스가 이야기 좀 하자 하시는데요.</color>
+RPK16(0)<Speaker>지휘관</Speaker><通讯框>||:RPK-16? 안젤리아 씨가 찾는다고?+난 지금...
+NPC-Ange(7)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>지휘관.</color>
+NPC-Ange(7)<Speaker>지휘관</Speaker><通讯框>||:안젤리아 씨?
+NPC-Ange(7)<Speaker>안젤리아</Speaker><通讯框>||<BGM>BGM_Brain</BGM>:<color=#00CCFF>안녕, 지휘관... 그쪽 상황은 어때?</color>
+()<Speaker></Speaker>||:이 질문, 지휘관은 바닥의 시체를 보면서 쓴웃음을 지을 수밖에 없었다.
+()<Speaker>지휘관</Speaker>||:그럭저럭 잘 되어 가고 있습니다. 마침 일에 진전이 생긴 참입니다.+그쪽은 어떻습니까?
+NPC-Ange(7)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>...뭐어, 나도 그럭저럭.</color>+<color=#00CCFF>갑작스럽게 미안하지만, 부탁할 게 있어.</color>
+NPC-Ange(7)<Speaker>지휘관</Speaker><通讯框>||:제 눈치 보실 필요 없습니다, 말씀하시죠.
+NPC-Ange(7)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>몰리도... 그러니까, 그 니토 말이야. 아직 네 쪽에 있지?</color>
+NPC-Ange(7)<Speaker>지휘관</Speaker><通讯框>||:마흐리안 말입니까?
+()<Speaker></Speaker>||:지휘관은 등뒤에 서있는 마흐리안을 힐끗 봤다.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:......
+()<Speaker>지휘관</Speaker>||:네, 아직 있습니다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>뭐라도 좀 알아냈어?</color>
+NPC-Ange(7)<Speaker>지휘관</Speaker><通讯框>||:예? 저번에 공유해드리지 않았나요?
+NPC-Ange(7)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>...그 후로, 새로 알아낸 건?</color>
+NPC-Ange(7)<Speaker>지휘관</Speaker><通讯框>||:딱히 이렇다 할 만한 것은 없어서, 급히 알려드리지 않아도 된다 판단했습니다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>진도가 너무 느리잖아.</color>+<color=#00CCFF>내가 경고했지, 몰리도는 아주 교활하다고.</color>+<color=#00CCFF>딱 봐도 녀석이 일부러 시간을 질질 끌고 있단 걸 모르겠어?</color>
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
+()<Speaker></Speaker>||:마흐리안은 뭔가 말하고 싶은 눈치였지만, 나를 보더니 고개를 저었다.+나도 잠시 머뭇했다.
+()<Speaker>지휘관</Speaker>||:네, 몰리도에 관해서는 저도 대강이나마 짐작하고 있습니다.+하지만 이 사람은 몰리도가 아닌 마흐리안입니다. 별개의 인물이에요.
+NPC-Ange(6)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>...그거, 진심이야? 정말로 그렇게 생각해?</color>
+NPC-Ange(6)<Speaker>지휘관</Speaker><通讯框>||:네, 당신이 말하는 사람이 아니라 확신합니다.
+()<Speaker></Speaker>||:지휘관은 마흐리안의 얼굴을 보며 단호히 대답했다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>됐어... 녀석 이름이 뭐든 내 알 바 아니야.</color>+<color=#00CCFF>묻고 싶은 게 있으니까, 나한테 보내.</color>
+NPC-Ange(6)<Speaker>지휘관</Speaker><通讯框>||:물어볼 것이 있으시다고요?+하지만 그녀가 아는 건 제가 공유해드린 게 전부입니다만.
+NPC-Ange(4)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>웃기지 마, 분명 뭔가 더 숨기는 게 있을 거라고!</color>+<color=#00CCFF>제기랄, 지금 너한테 잔소리할 시간 없어!</color>+<color=#00CCFF>어떡할래? 날 믿을 거야, 그년을 믿을 거야!?</color>
+NPC-Ange(4)<Speaker>지휘관</Speaker><通讯框>||:안젤리아 씨, 진정하세요.+당신의 요청을 거절한단 말이 아닙니다. 단지, 지금 바로는 어렵습니다.+그녀에게서 복사감염증 치료제에 관한 정보를 얻어서, 조사에 착수한 상황입니다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>복사감염증 치료제라고...?</color>
+NPC-Ange(7)<Speaker>지휘관</Speaker><通讯框>||:복사감염증 치료에 관한 연구 자료와, 그 약품의 샘플이 있다고 합니다.+만약 그걸 찾아낸다면 수많은 사람들을 도울 수 있습니다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>그리고 넌 그딴 소릴 믿고?</color>
+NPC-Ange(6)<Speaker>지휘관</Speaker><通讯框>||:저도 확신이 들진 않지만, 해볼 만한 가치는 있습니다. 정말 그런 약이 존재한다면――
+NPC-Ange(6)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>너네 부관 아가씨도 살 수 있겠네?</color>
+()<Speaker>지휘관</Speaker>||:......!
+()<Speaker></Speaker>||:그 말에 지휘관은 울컥했다.
+()<Speaker>지휘관</Speaker>||:아닙니다! 카리나 때문만이 아니라――
+NPC-Ange(6)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>됐어! 나하곤 상관 없는 일이야.</color>+<color=#00CCFF>그년을 여기로 보낼 수 있어, 없어?</color>
+NPC-Ange(6)<Speaker>지휘관</Speaker><通讯框>||:...지금은 안 됩니다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>......</color>
+NPC-Ange(6)<Speaker>지휘관</Speaker><通讯框>||:안젤리아 씨...
+NPC-Ange(4)<Speaker>안젤리아</Speaker><通讯框>||<SE1>AVG_Door_Hit</SE1>:<color=#00CCFF>정신 똑바로 차리라고 이 멍청아!!</color>+<color=#00CCFF>내가 몇 번을 말해야 돼!? 몰리도가 가장 잘하는 게 변장과 사기라고!!</color>+<color=#00CCFF>그런데도 녀석 말을 곧이곧대로 믿어?!</color>+<color=#00CCFF>내가 한 말은 잊었어? 머리에 구멍 났냐!?</color>
+NPC-Ange(4)<Speaker>지휘관</Speaker><通讯框>||:아니오, 그녀는 몰리도가 아닙니다!+...혹시, 상황이 많이 어려우십니까?+진정하시고 천천히 얘기합시다. 이쪽 일을 처리하는 대로 만나서 이야기하도록 해요.+궁금한 게 있으시다면 그때 다 물어보면 됩니다!
+NPC-Ange(4)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>하! 그래, 마흐리안이랬나? 넌 그년이 하는 말 다 믿는다 이거지!?</color>+<color=#00CCFF>카리나의 목숨이 베를린의 수만 명보다 더 중요하고?</color>+<color=#00CCFF>귀신한테 홀리기라도 했어!? 어?!</color>
+NPC-Ange(4)<Speaker>지휘관</Speaker><通讯框>||:아닙니다!
+NPC-Ange(6)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>......</color>
+NPC-Ange(6)<Speaker>지휘관</Speaker><通讯框>||:...마흐리안은 훈작사가 제게 맡긴 일입니다. 저도 제 판단이 있습니다, 안젤리아 씨.
+NPC-Ange(6)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>이젠 그 양반을 꺼내서 날 누르시겠다?</color>
+NPC-Ange(6)<Speaker>지휘관</Speaker><通讯框>||:그런 뜻이 아니라――
+NPC-Ange(4)<Speaker>안젤리아</Speaker><通讯框>||:<color=#00CCFF>그래... 그래, 알았어.</color>+<color=#00CCFF>알아서 마음대로 해 봐!</color>
+NPC-Ange(4)<Speaker>지휘관</Speaker><通讯框>||:...죄송합니다, 하지만 안젤리아 씨는 지금 침착하셔야 합니다.+나중에 다시 얘기하죠. 이쪽 일이 끝나는대로 연락드리겠습니다.
+()<Speaker></Speaker>||:통신 종료.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...저쪽 상황이 엄청 안 좋아보이는걸.
+UMP45Mod(0)<Speaker>지휘관</Speaker>||:훈작사의 지금 안젤리아가 많이 초조해한단 말이 사실인가 봐.
+NytoIsomer(7)<Speaker>댄들라이</Speaker>||:저쪽에 문제가 생겼을 가능성도 충분히 있습니다.+갑자기 이렇게 강경하게 요구하는 것으로 보아, 현재 궁지에 몰린 상황이 아닐까요?
+()<Speaker>지휘관</Speaker>||:안젤리아를 과소평가하면 안 돼.+...이쪽 일이 끝나면, 직접 만나 이야기해봐야겠어.
+()<Speaker></Speaker>||:지휘관은 고개를 돌려 마흐리안을 바라봤다. 마침, 그녀도 할 말이 있는 듯했다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:로빈.+몰리도에 대해서 말데요...
+NPC-Machlian(5)<Speaker>지휘관</Speaker>||:네가 몰리도와 동일인물이 아니라 확신해.
+NPC-Machlian(6)<Speaker>마흐리안</Speaker>||:...하지만 그분의 말도 옳아요.+몰리도는 아주 교활하고 간사해요.+변장해서 당신 곁에 숨어들어, 때를 노릴지도 모르죠.+그녀라면, 정말로 그렇게 할 수 있어요.
+NPC-Machlian(6)<Speaker>지휘관</Speaker>||:...난 널 믿어.+넌 그저 무고한 이들을 돕고 싶어하는 평범한 사람이야.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:......
+()<Speaker></Speaker>||:마흐리안을 양손을 모으고, 무언가 다짐했다.
+NPC-Machlian(5)<Speaker>마흐리안</Speaker>||:저도... 저도 당신을 믿어요, 로빈.+좌표를 가르쳐 드릴게요.
+()<Speaker>지휘관</Speaker>||:좌표...?
+()<Speaker></Speaker>||:마흐리안의 얼굴을 본 지휘관은 그 말이 무슨 뜻인지 바로 알아챘다.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:

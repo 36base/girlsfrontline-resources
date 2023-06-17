@@ -1,0 +1,49 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>9</BIN><narrator><黑屏2><SE1>AVG_21Winter_Click_Keyboard</SE1><BGM>BGM_22Swim_langrensha</BGM>:"3번 상자". 참여 인형 - PA-15, QBU-88, 팔콘, 스테츠킨, wz.29.+데이터 로딩 중...+실험 목적... 실험 내용...+실험 원리... 변수 나열...
+()<Speaker></Speaker>||<narrator>:지휘 방안 로딩 중...
+NPC-Persica(4)<Speaker>페르시카</Speaker>||<SE1>ClothingUp</SE1>:잠깐 스톱.
+()||<黑屏1>:
+()||<BIN>607</BIN><黑屏2>:페르시카가 기록을 진행 중인 조수를 대뜸 불러 멈췄다.
+NPC-Persica(4)<Speaker>페르시카</Speaker>||:이 그룹엔 새 변수를 넣을 거야.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:추가 변수요...? 이제 와서 여기다 또 뭘 넣으시려고요?
+NPC-Persica(5)<Speaker>페르시카</Speaker>||:조급해할 거 없어, 금방 올 테니까.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:......?
+()||<黑屏1>:............
+()||<回忆><黑点2><BIN>388</BIN><BGM>BGM_Empty</BGM><SE1>AVG_Door_Open_Close</SE1><SE1>AVG_Walk</SE1>:그리폰 기지.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||<SE1>Stop_AVG_loop</SE1><BGM>m_avg_casual</BGM>:이것으로 기지의 안내를 마치겠습니다.+여러분은 오늘부터 수습 전술지휘관으로서 이곳에서 일하게 됩니다.+즉, 지금 어깨를 나란히하고 있는 동기들은 앞으로 생사고락을 함께할 전우란 뜻입니다. 물론 이 수습 기간을 거쳐 합격하게 된다면 말이죠.
+NPC-Helian(0)<同时置暗><Speaker>수습생들</Speaker>||:예!
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:마지막으로, 이 자리에서 당부하고자 하는 바가 있습니다.+숙소에서 이상한 문구가 적힌 카드를 발견한다면, 그 즉시 폐기하세요. 보면 바로 알 수 있을 것입니다.+그 카드에 무어라 적혀 있든 무시하십시오.
+()||:그 당부에 수습생들이 술렁댔다.+신입에겐 모든 것이 신기한 법. 하지 말라면 오히려 더 하고 싶어지기 마련이었다.
+()<Speaker>수습생A</Speaker>||:질문 있습니다, 그것이 규정 위반 사항이기 때문입니까?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:아니오, 규정 위반은 아닙니다만... 피하는 것이 여러분의 신상에 이롭다고만 하겠습니다.+오늘은 여기까지, 해산!
+()||<黑屏1>:......
+()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><SE1>AVG_Door_Open_Close</SE1>:헬리안이 떠나자 웅성거리던 수습생들의 무리도 뿔뿔이 흩어져, 각자의 숙소로 들어갔다.
+()<Speaker>？？？</Speaker>||:......?
+()||:그중 당신은 방에 들어서자마자 발밑에서 수상한 카드를 발견했다.
+()<Speaker>？？？</Speaker>||<SE1>AVG_20Winter_Book</SE1>:이건...
+()||<黑屏1>:......+......
+()||<黑屏2><BIN>553</BIN>:I.O.P. 본사, 건물 16층의 9번 실험실.+분명 햇빛이 쨍쨍한 대낮이건만, 이 층은 온통 차광 유리로 가려져 한밤중처럼 깜깜했다.+그래도 이 문에 걸린 "Dr. 페르시카리아" 라고 뚜렷하게 각인이 새겨진 명패만큼은 확실히 보였다.
+()||<SE1>AVG_Knock</SE1>:똑똑똑!
+()<Speaker>페르시카</Speaker>||<震屏3>:<size=60>누구야——!!</size>
+()||:실험실 안쪽으로부터 터져 나온 고함에 당신은 깜짝 놀랐지만, 카드에 적힌 주소가 이곳임을 재차 확인하곤 용기를 내어 입을 열었다.
+()<Speaker>？？？</Speaker>||:실례합니다, 실험 참가자 모집 중 맞나요?
+()<Speaker>페르시카</Speaker>||:어, 광고 보고 온 거였어?!+자, 잠깐만! 지금 갈게!
+()||<SE1>AVG_lifttable</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:그리고 문이 열리기까지, 무언가가 떨어지고 쓰러지고 깨지는 소리가 약 2분 내내 계속됐다.
+()<Speaker>페르시카</Speaker>||<黑屏1>:그그금방 가니까! 가지 말고 기다려! 기다리라고!
+RO635-NoArmor(3)<Speaker>RO635</Speaker>||<关闭蒙版><黑屏2><BIN>607</BIN>:맙소사...+설마 정말로 그 카드에 속아서 오는 사람이 있다니...
+NPC-Persica(5)<Speaker>페르시카</Speaker>||:속이다니 말이 심하네!+어떻게 봐도 정당하고 합법적인 구인 공고잖아!
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:참가자님, 성함을 말씀해 주시겠습니까?
+()<Speaker>？？？</Speaker>||:저는...<c>전술지휘과 2060학번, 41호 훈련생입니다.<c>이번에 그리폰의 수습 전술지휘관으로 입사했습니다.<c>이름은... 익명으로 가능할까요? 몰래 빠져나온 거라서.
+NPC-Persica(4)<Speaker>페르시카</Speaker>||:이름은 관심 없으니까 그냥 인턴이라 적어.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<SE1>ClothingUp</SE1>:이 실험실의 실험 참가자용 매뉴얼입니다, 자세히 읽어 주세요.
+()<Speaker>인턴</Speaker>||:아, 알겠습니다.+저는 지금부터 뭘 하면 되나요?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:단순합니다, 마찬가지로 저희의 실험에 참여 중인 전술인형 소대를 지휘하시면 돼요.
+RO635-NoArmor(0)<同时置暗><Speaker>인턴</Speaker>||:그... 좀 더 자세히 설명을...
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:지금 업로드한 지휘 방침에 따라, 먼저 이렇게, 다음은 이렇게, 그리고 이렇게 해서 소대를 목표 지점까지 도달하도록 하면 됩니다. 이해하셨습니까?
+()||<SE1>ClothingUp</SE1>:RO635가 손가락으로 지휘 태블릿 위로 이리저리 휙휙 선을 그으며 설명하는 통에 인턴은 눈이 다 어지러웠다.
+()<Speaker>인턴</Speaker>||:......
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:다른 질문 있으십니까?
+RO635-NoArmor(0)<同时置暗><Speaker>인턴</Speaker>||:저어... 조수 아가씨? 죄송하지만 여기에 표시되는 수치상 피아의 전력차가 엄청난데 반해 전략에는 딱히 특별한 점이 없어서, 이 계획대로 진행하면...
+RO635-NoArmor(0)<同时置暗><Speaker>인턴</Speaker>||<BGM>BGM_Empty</BGM>:직설적으로 말하긴 좀 그렇지만, 이건 이들한테 그냥 죽으라 하는 거 아닙니까?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:그건 피실험자가 고려할 사항이 아닙니다. 당신은 그저 요구 사항을 준수하면서 진행하시면 돼요.+다른 질문 없으시다면 바로 시작하겠습니다.
+()||<黑点1>:

@@ -1,31 +1,31 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>181</BIN><黑屏2><BGM>BGM_Brain</BGM>:무명 열사 기념비.
-()<Speaker></Speaker>||:무너진 격리벽과 정화탑, 그리고 물밀듯 들어오는 감염자들을 바라보며, 안젤리아는 주먹을 굳게 쥐었다.+분노가 치밀어 올랐지만, 이를 어떻게 표출해야 할지 몰랐다.
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:정화탑이 파괴됐어...+격리벽에 주둔 중이던 방위군의 일부가 반란을 일으켜서, 격리벽을 파괴했어.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>본론만 말해.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:네가 다 계산했다며! 안전국이 침투한 적을 모조리 제거할 거라고 했잖아! 그런데 제대로 해낸 게 있기는 해?!
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>아무리 안전국이라도 배신자를 전부 색출해낼 수는 없다. 실수는 누구든 하는 법이야.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:젠장... 감염생물의 수가 점점 늘어나고 있어. 인력도 부족한 상황인데 곧 폭풍우까지 들이닥칠 거야. 시간이 없어, 당장 격리벽으로 인력을 파견해.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>안 돼.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:왜 안 되는데!?+긴급 사태가 발생하면 지원을 보내겠다고 했잖아!+ELID를 저격할 인원 몇 명 보내는게 뭐가 그리 어렵다고!?
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>특수요원 부대가 거의 전멸했다. 지금 그쪽으로 보낼 사람이 없어.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:전멸... 했다고?+어떻게 된 거야? 그럼 예비 부대는?
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>예비 부대는 없어. 국장이 보낸 건 이게 전부야.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:......+이렇게 중요한 회담의 호위 임무를, 어떻게 그렇게 소홀히 할 수가 있어?+그럼 내 소대를 복귀시킨 후, 회담장으로 이동하겠어.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>그럴 필요 없어. 너는 정찰 임무를 계속해.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:하지만 로쉬친 대사가...
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>로쉬친 대사도 이미 사망했다.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:......
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>그들의 희생을 헛되이 하지 말고, 임무를 계속해.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:희생을 헛되이 하지 말라...+갑자기 엄청난 의심이 드는데... 맞는지 확인해 주겠어?
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>겨우 몇 초만에 생긴 의심인가?</color>+<color=#00CCFF>그렇다면 나도 네게 해명할 것이 없——</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:네 목소리에서, 놀란 기색이 전혀 느껴지지 않아.+네가 아무리 침착해도, 인간이라면 이런 상황에서는 조금이라도 동요하는 법이야...+그래서 내가 의심하는 거지...
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>......</color>+<color=#00CCFF>지나친 생각이야. 안전국의 요원으로서 임무를 수행해라. 그게 네 유일한 가치니까.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:흥, 난 내가 진작에 반역한 줄 알았는데.
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>그래서 넌 내가 필요하지.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:정말 나한테 네가 필요할까?
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>파장을 조금 일으킨 것 가지고, 네가 대단해진 줄 아는 모양이지?</color>+<color=#00CCFF>넌 당연히 내가 필요해. 네가 진심으로 목적을 이루고 싶다면 말이야.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:......
-NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>네가 예전에 무엇으로서 무슨 일을 했는지는 전혀 관심 없어. 내겐 다 무의미해.</color>+<color=#00CCFF>지금 네 충성심을 판단할 수 있는 것도, 너를 지켜줄 수 있는 것도 오직 나밖에 없다.</color>+<color=#00CCFF>이 점을 명심해. 그럼 쓸데없는 말은 그만 하고, 임무를 계속해라.</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:......
-()<Speaker></Speaker>||<黑屏1>:안젤리아는 통신을 끊고, 말 없이 산밑을 바라보았다.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>181</BIN><黑屏2><BGM>BGM_Brain</BGM>:무명 열사 기념비.
+()<Speaker></Speaker>||:무너진 격리벽과 정화탑, 그리고 물밀듯 들어오는 감염자들을 바라보며, 안젤리아는 주먹을 굳게 쥐었다.+분노가 치밀어 올랐지만, 이를 어떻게 표출해야 할지 몰랐다.
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:정화탑이 파괴됐어...+격리벽에 주둔 중이던 방위군의 일부가 반란을 일으켜서, 격리벽을 파괴했어.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>본론만 말해.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:네가 다 계산했다며! 안전국이 침투한 적을 모조리 제거할 거라고 했잖아! 그런데 제대로 해낸 게 있기는 해?!
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>아무리 안전국이라도 배신자를 전부 색출해낼 수는 없다. 실수는 누구든 하는 법이야.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:젠장... 감염생물의 수가 점점 늘어나고 있어. 인력도 부족한 상황인데 곧 폭풍우까지 들이닥칠 거야. 시간이 없어, 당장 격리벽으로 인력을 파견해.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>안 돼.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:왜 안 되는데!?+긴급 사태가 발생하면 지원을 보내겠다고 했잖아!+ELID를 저격할 인원 몇 명 보내는게 뭐가 그리 어렵다고!?
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>특수요원 부대가 거의 전멸했다. 지금 그쪽으로 보낼 사람이 없어.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:전멸... 했다고?+어떻게 된 거야? 그럼 예비 부대는?
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>예비 부대는 없어. 국장이 보낸 건 이게 전부야.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:......+이렇게 중요한 회담의 호위 임무를, 어떻게 그렇게 소홀히 할 수가 있어?+그럼 내 소대를 복귀시킨 후, 회담장으로 이동하겠어.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>그럴 필요 없어. 너는 정찰 임무를 계속해.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:하지만 로쉬친 대사가...
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>로쉬친 대사도 이미 사망했다.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:......
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>그들의 희생을 헛되이 하지 말고, 임무를 계속해.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:희생을 헛되이 하지 말라...+갑자기 엄청난 의심이 드는데... 맞는지 확인해 주겠어?
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>겨우 몇 초만에 생긴 의심인가?</color>+<color=#00CCFF>그렇다면 나도 네게 해명할 것이 없——</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:네 목소리에서, 놀란 기색이 전혀 느껴지지 않아.+네가 아무리 침착해도, 인간이라면 이런 상황에서는 조금이라도 동요하는 법이야...+그래서 내가 의심하는 거지...
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>......</color>+<color=#00CCFF>지나친 생각이야. 안전국의 요원으로서 임무를 수행해라. 그게 네 유일한 가치니까.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:흥, 난 내가 진작에 반역한 줄 알았는데.
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>그래서 넌 내가 필요하지.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:정말 나한테 네가 필요할까?
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>파장을 조금 일으킨 것 가지고, 네가 대단해진 줄 아는 모양이지?</color>+<color=#00CCFF>넌 당연히 내가 필요해. 네가 진심으로 목적을 이루고 싶다면 말이야.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;NPC-Jason(0)||:......
+NPC-AngeStreet(0);NPC-Jason(0)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>네가 예전에 무엇으로서 무슨 일을 했는지는 전혀 관심 없어. 내겐 다 무의미해.</color>+<color=#00CCFF>지금 네 충성심을 판단할 수 있는 것도, 너를 지켜줄 수 있는 것도 오직 나밖에 없다.</color>+<color=#00CCFF>이 점을 명심해. 그럼 쓸데없는 말은 그만 하고, 임무를 계속해라.</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||<黑屏1>:안젤리아는 통신을 끊고, 말 없이 산밑을 바라보았다.

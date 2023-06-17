@@ -1,0 +1,35 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>581</BIN><黑屏2><SE1>AVG_Door_Open_Close</SE1>:당신은 아침 일찍 안무 연습장에 도착했다.+프랑슈슈의 레슨 시간까지 아직 30분이나 있어, 이 틈에 연습실을 청소하기로 했다.
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:그리고 빗자루질을 너무 열성적으로 해서 하마터면 뜻밖의 방문객의 발소리도 못 들을 뻔했다.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:빗자루질하던 손은 멈췄지만, 바로 방문객을 돌아보진 않았다.
+()<Speaker>？？？</Speaker>||:여기가 프랑슈슈가 자주 이용하는 안무 연습장이라고?
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:허스키한 목소리는 당신의 대답을 기다리지 않고 멋대로 안으로 들어왔다.
+()<Speaker>？？？</Speaker>||:바닥은 거칠고, 음향 설비는 싸구려에, 에어컨은 고장...+안무 연습이 되기나 할까 싶을 정도로 열악하구만.+설마 프랑슈슈가 이런 곳에서 안무 연습을 했다니...
+()<Speaker>지휘관</Speaker>||:장소가 어디든, 발하는 빛은 흐려지지 않는 법이지.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:천천히 고개를 돌려 확인한 방문객은 은색 단발에 시크한 얼굴이었다.
+()<Speaker>지휘관</Speaker>||<BGM>BGM_22Swim_langrensha</BGM>:...MG5.
+MG5(6)<Speaker>MG5?</Speaker><Position>0,-300</Position><Scale>1.6</Scale>||:반갑다, 프랑슈슈의 프로듀서...가 아니라, 지휘관으로 불린댔지?
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:그리폰 인형이 당신을 알아볼 거란 기대는 이미 접은지 오래였지만, 역시 조금 서운했다.
+()<Speaker>지휘관</Speaker>||:여긴 무슨 볼일이야?
+MG5(6)<Speaker>MG5?</Speaker><Position>0,-300</Position><Scale>1.6</Scale>||:그레이 트리를 꺾은 녀석들이 어떤 데서 실력을 갈고닦았나 보러 왔지.
+()<Speaker>지휘관</Speaker>||:보다시피 그냥 평범한 연습장일 뿐이야.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:MG5는 그녀답게 양해도 안 구하고 당신이 트레이닝 자료와 기록을 쌓아 둔 구석으로 걸어가, 가장 최근의 기록장을 펼쳐봤다.
+MG5(6)<Speaker>MG5?</Speaker><Position>0,-300</Position><Scale>1.6</Scale>||<SE1>AVG_20Winter_Book</SE1>:흠...
+MG5(6)<Speaker>지휘관</Speaker><Position>0,-300</Position><Scale>1.6</Scale><同时置暗>||:그냥 평소 트레이닝을 적은 물건이야...
+MG5(6)<Speaker>MG5?</Speaker><Position>0,-300</Position><Scale>1.6</Scale>||<SE1>AVG_20Winter_Book</SE1>:......
+()<Speaker>지휘관</Speaker>||:............
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:당신이 매일 작성했던 내용들이 펄럭펄럭 MG5의 손끝을 스쳤다.+그리고 그녀의 표정에 아무런 변화가 없어, 당신은 무슨 말을 해야 할지 혼란스러웠다.+잠시 후 기록장을 끝까지 훑어본 MG5는 천천히 당신에게 고개를 돌렸다.
+MG5(6)<Speaker>MG5?</Speaker><Position>0,-300</Position><Scale>1.6</Scale>||:솔직하게 평가를 내리자면, 기록 방식부터가 형편없군.
+MG5(6)<Speaker>지휘관</Speaker><Position>0,-300</Position><Scale>1.6</Scale><同时置暗>||:나도 알아...
+MG5(6)<Speaker>MG5?</Speaker><Position>0,-300</Position><Scale>1.6</Scale>||:하지만 심금을 울리는 무언가가 있어.
+MG5(6)<Speaker>지휘관</Speaker><Position>0,-300</Position><Scale>1.6</Scale><同时置暗>||:...응?
+MG5(6)<Speaker>MG5?</Speaker><Position>0,-300</Position><Scale>1.6</Scale>||:누군가에게 몸동작과 표정 하나하나까지 세세하게 주시받고 매일의 심정까지 기록될 수 있다는 건...+흔치 않은 행복이거든.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_File_Put</SE1>:MG5는 기록장을 내려놓고 평소의 모습으로 돌아왔다.
+MG5(6)<Speaker>MG5?</Speaker><Position>0,-300</Position><Scale>1.6</Scale>||:갑작스레 들이닥쳤는데도 용인해 줘서 고맙다. 배운 것이 많아, 프랑슈슈에 대해서도 더 잘 알게 됐고.+그럼 이만.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:MG5는 그대로 당신의 어깨를 스치며 조용히 연습장을 떠났다.+그녀가 왔다는 흔적은 전혀 남기지 않은 채.+당신은 조금 씁쓸한 입가를 씰룩이며, 끝내 하지 못한 말을 삼켰다.
+()||<黑屏1>:
+()<Speaker>지휘관</Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2>:<color=#A9A9A9>(...기지에서도 너희를 항상 이렇게 지켜봐 왔는걸.)</color>
+()||<黑点1>:

@@ -1,63 +1,63 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><BGM>BGM_Hello</BGM><回忆>:......+사흘 전, 그리폰 숙소.
-()<Speaker></Speaker>||:MDR은 홀로 침대 위에 엎어져, 휴대폰을 두들기고 있었다.
-MDR(0)<Speaker>MDR</Speaker><Shake>0.1</Shake><Position>0,100</Position>||<BIN>82</BIN>:에... 에...
-MDR(0)<Speaker>MDR</Speaker><Shake>0.1</Shake><Position>0,100</Position>||:<Size=80>푸헹취!</Size>
-MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>||:훌쩍... 우이씨, 뭐야 갑자기. 생리 반응 모듈 꺼놔야겠다.+아, 느닷없이 재채기가 나온다는 건 누가 내 얘기를 한단 뜻이랬나?+혹시 지휘관이? 아하하핫, 그거 대박이네!
-MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:MDR~ 여기 있었구나. 저번에 내가 빌려준 선글라스 돌려줘.
-MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:......
-MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:뭐야, 그 실망과 혐오로 가득한 표정은.
-MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:뉘신가 했더니 너여서... 그런데 무슨 일이라고?
-MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:내 선글라스 돌려달라고. 다리에 행운의 문양을 새긴 거.
-MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:내가 그런 걸 빌렸었나... 잠깐만, 찾아볼게.+그런데 그건 왜 이제 와서 찾아?
-MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:내일 작전하러 무인도로 가잖아?+지휘관님이 수영복 있으면 챙겨 오라 하셨거든.
-MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:아~ 그 갈라... 뭐시기...? 아무튼, 그불게에 올라온 그 섬 말이지? 알아 알아.
-MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:별로 부러워하는 눈치가 아니네?
-MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:난 그런 섬보단 "행운을 부르는 보물"에 관한 전설이 더 흥미롭걸랑.
-MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:<Size=32>그거 진위 여부가 어쩌네 하면서 10페이지 가까이 키배를 떴지...</Size>
-MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:행운을 부르는 보물?
-MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:아하... 너라면 꽤 관심 있겠네. 소문에 의하면...+그 섬 어딘가에 묻혀 있는 그 보물은, 찾아내는 사람의 운명을 고쳐 써서 평생 행운이 따르게 해 준다더라!
-MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker><Shake>0.1</Shake>||:내, 내 운이 그 정도로 나쁘진 않잖아?!+그래도, 행운의 보물이라... 조금 찾아볼 만할지도?
-MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:아, 선글라스 찾았다. 방금 뭐랬어?
-MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:그 행운의 보물이란 거, 섬의 어디에 있대?
-MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:내가 알면 그게 전설이게?+위성 사진 봐봐, 섬은 온통 숲으로 뒤덮였다고. 보물이니까 대충 깊은 숲속 어딘가에 숨겨져 있지 않겠어?
-MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:정말 숲속에 있을까?+만약 운이 나빠서 찾아내지 못하면 어쩌지...
-MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:뭐, "섬의 보물"이라니까 적어도 바닷속에 있지는 않겠지.+자, 네 선글라스. 어쩌면 그 행운의 문양이 널 이끌어 줄지도?
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><关闭蒙版><SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1><BIN>162</BIN>:
-()<Speaker></Speaker>||:......+사흘 후, 섬의 정반대편.
-()<Speaker></Speaker>||<BIN>162</BIN>:R93은 선글라스를 꺼내 머리에 썼다.
-R93(2)<Speaker>R93</Speaker>||:좋았어... 선글라스야, 내게 행운을 가져다줘!
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:응? 뭐라고?
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:아무것도 아니야~+준비는 다 됐어?
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:준비는 섬에 도착했을 때부터 됐지!+행운을 부르는 보물이라~ 정말 찾아낸다면 지휘관님의... 아니, 어쩌면 그리폰 최고의 인기 스타가 될 수 있을 거야!+나도 데려와 줘서 정말 고마워, R93!
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:<Size=32>관심 있어 한 사람이 얘뿐이었다고는 절대 말 못해...</Size>
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:그런데, 정말 지휘관님한테 보고하지 않아도 돼?+따지고 보면 무단 행동이잖아. 들켰다간...
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:어... 저번에 소문만 믿고 행동했다 좀 안 좋은 일을 겪었거든...+그래서, 이번엔 확실한 단서를 찾은 다음 지휘관님께 연락할 거야!
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:아, 낚싯바늘에 수영복이 벗겨져서 한참을 숨어 있었다는 그거?
-R93(2)<Speaker>R93</Speaker><Shake>0.1</Shake>;P38(2)<Position>0,100</Position>||:뭣... 어, 어떻게 알았어?!
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:그불게에서 비치 발리볼 시합을 주제로 잠깐 시끄러웠던 적이 있는데, 거기서 평소에도 불펍 소총 찬양으로 게시판을 도배하는 녀석이 그 이야기를 했어.+네 그 선글라스 사진도 첨부해서.
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:누구 짓인지 대충 알겠네...
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:그게 진짜였구나?
-R93(2)<Speaker>R93</Speaker>||:예, 예전 일은 됐으니까 얼른 보물이나 찾으러 가자!
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><SE1>AVG_amb_wilderness</SE1><BIN>1</BIN>:...5분 후.
-R93(2)<Speaker>R93</Speaker>||:으으... 무슨 숲이 이렇게 우거졌어...+수십 년이나 방치됐다지만, 이래서는 완전히 원시우림이잖아...
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:게다가 으스스해...
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:음... 확실히 좀 으스스하네. 인간들은 이런 어두운 밀림을 공포물의 무대로 삼길 좋아하더라.+무심코 숲에 발을 디딘 사람 앞에, 갑자기 유령이 나타나서...
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position><Shake>0.1</Shake>||:뭐뭐뭐뭐야, 왜갑자기괴담얘기해?
-R93(2)<Speaker>R93</Speaker>||:응? 아니, 그냥 생각나서 말해본 건데... 왜 그래?
-R93(2)<Speaker>R93</Speaker>||:
-()<Speaker></Speaker><Position>0,100</Position>||:R93가 뒤를 돌아보니, P38은 얼굴이 새파랗게 질려 있었다.
-R93(2)<Speaker>R93</Speaker>||:P38, 너... 유령이 무섭구나?
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:아...+아~하하하!+에이, 그럴 리가! 우린 전술인형이라고!+게다가, 과학적으로 유령이 존재할 리도 없잖아? 그치? 그치?!
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:흐음~?
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:아, 아무튼 빨리 보물을 찾고 여기서 나가자!
-P38(2)<Speaker>P38</Speaker>||:
-()<Speaker></Speaker><Position>0,100</Position>||:P38은 숨을 깊게 들이마신 뒤 씩씩하게 앞장서 나아갔다. 하지만 R93은 장난기가 발동해...
-R93(2)<Speaker>R93</Speaker>||:쿡.
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position><Shake>0.1</Shake>||:<Size=60>꺄아아아아악!!!</Size>
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:
-()<Speaker></Speaker><Position>0,100</Position>||:비명에 놀란 새들이 하늘로 날아올랐고, R93의 손가락에 등을 찔린 P38은 마인드맵이 폭주하기라도 한 듯 전속력으로 내달려, 깊은 숲속으로 사라져 버렸다.
-R93(2)<Speaker>R93</Speaker>||:겁먹은 거 맞네 뭘.+하아... 운이 따라서 빨리 보물을 찾아내면 좋겠다.
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><BGM>BGM_Hello</BGM><回忆>:......+사흘 전, 그리폰 숙소.
+()<Speaker></Speaker>||:MDR은 홀로 침대 위에 엎어져, 휴대폰을 두들기고 있었다.
+MDR(0)<Speaker>MDR</Speaker><Shake>0.1</Shake><Position>0,100</Position>||<BIN>82</BIN>:에... 에...
+MDR(0)<Speaker>MDR</Speaker><Shake>0.1</Shake><Position>0,100</Position>||:<Size=80>푸헹취!</Size>
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>||:훌쩍... 우이씨, 뭐야 갑자기. 생리 반응 모듈 꺼놔야겠다.+아, 느닷없이 재채기가 나온다는 건 누가 내 얘기를 한단 뜻이랬나?+혹시 지휘관이? 아하하핫, 그거 대박이네!
+MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:MDR~ 여기 있었구나. 저번에 내가 빌려준 선글라스 돌려줘.
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:......
+MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:뭐야, 그 실망과 혐오로 가득한 표정은.
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:뉘신가 했더니 너여서... 그런데 무슨 일이라고?
+MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:내 선글라스 돌려달라고. 다리에 행운의 문양을 새긴 거.
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:내가 그런 걸 빌렸었나... 잠깐만, 찾아볼게.+그런데 그건 왜 이제 와서 찾아?
+MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:내일 작전하러 무인도로 가잖아?+지휘관님이 수영복 있으면 챙겨 오라 하셨거든.
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:아~ 그 갈라... 뭐시기...? 아무튼, 그불게에 올라온 그 섬 말이지? 알아 알아.
+MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:별로 부러워하는 눈치가 아니네?
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:난 그런 섬보단 "행운을 부르는 보물"에 관한 전설이 더 흥미롭걸랑.
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:<Size=32>그거 진위 여부가 어쩌네 하면서 10페이지 가까이 키배를 떴지...</Size>
+MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:행운을 부르는 보물?
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:아하... 너라면 꽤 관심 있겠네. 소문에 의하면...+그 섬 어딘가에 묻혀 있는 그 보물은, 찾아내는 사람의 운명을 고쳐 써서 평생 행운이 따르게 해 준다더라!
+MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker><Shake>0.1</Shake>||:내, 내 운이 그 정도로 나쁘진 않잖아?!+그래도, 행운의 보물이라... 조금 찾아볼 만할지도?
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:아, 선글라스 찾았다. 방금 뭐랬어?
+MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:그 행운의 보물이란 거, 섬의 어디에 있대?
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:내가 알면 그게 전설이게?+위성 사진 봐봐, 섬은 온통 숲으로 뒤덮였다고. 보물이니까 대충 깊은 숲속 어딘가에 숨겨져 있지 않겠어?
+MDR(0)<Position>0,100</Position>;R93(0)<Speaker>R93</Speaker>||:정말 숲속에 있을까?+만약 운이 나빠서 찾아내지 못하면 어쩌지...
+MDR(0)<Speaker>MDR</Speaker><Position>0,100</Position>;R93(0)||:뭐, "섬의 보물"이라니까 적어도 바닷속에 있지는 않겠지.+자, 네 선글라스. 어쩌면 그 행운의 문양이 널 이끌어 줄지도?
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><关闭蒙版><SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1><BIN>162</BIN>:
+()<Speaker></Speaker>||:......+사흘 후, 섬의 정반대편.
+()<Speaker></Speaker>||<BIN>162</BIN>:R93은 선글라스를 꺼내 머리에 썼다.
+R93(2)<Speaker>R93</Speaker>||:좋았어... 선글라스야, 내게 행운을 가져다줘!
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:응? 뭐라고?
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:아무것도 아니야~+준비는 다 됐어?
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:준비는 섬에 도착했을 때부터 됐지!+행운을 부르는 보물이라~ 정말 찾아낸다면 지휘관님의... 아니, 어쩌면 그리폰 최고의 인기 스타가 될 수 있을 거야!+나도 데려와 줘서 정말 고마워, R93!
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:<Size=32>관심 있어 한 사람이 얘뿐이었다고는 절대 말 못해...</Size>
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:그런데, 정말 지휘관님한테 보고하지 않아도 돼?+따지고 보면 무단 행동이잖아. 들켰다간...
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:어... 저번에 소문만 믿고 행동했다 좀 안 좋은 일을 겪었거든...+그래서, 이번엔 확실한 단서를 찾은 다음 지휘관님께 연락할 거야!
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:아, 낚싯바늘에 수영복이 벗겨져서 한참을 숨어 있었다는 그거?
+R93(2)<Speaker>R93</Speaker><Shake>0.1</Shake>;P38(2)<Position>0,100</Position>||:뭣... 어, 어떻게 알았어?!
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:그불게에서 비치 발리볼 시합을 주제로 잠깐 시끄러웠던 적이 있는데, 거기서 평소에도 불펍 소총 찬양으로 게시판을 도배하는 녀석이 그 이야기를 했어.+네 그 선글라스 사진도 첨부해서.
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:누구 짓인지 대충 알겠네...
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:그게 진짜였구나?
+R93(2)<Speaker>R93</Speaker>||:예, 예전 일은 됐으니까 얼른 보물이나 찾으러 가자!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><SE1>AVG_amb_wilderness</SE1><BIN>1</BIN>:...5분 후.
+R93(2)<Speaker>R93</Speaker>||:으으... 무슨 숲이 이렇게 우거졌어...+수십 년이나 방치됐다지만, 이래서는 완전히 원시우림이잖아...
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:게다가 으스스해...
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:음... 확실히 좀 으스스하네. 인간들은 이런 어두운 밀림을 공포물의 무대로 삼길 좋아하더라.+무심코 숲에 발을 디딘 사람 앞에, 갑자기 유령이 나타나서...
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position><Shake>0.1</Shake>||:뭐뭐뭐뭐야, 왜갑자기괴담얘기해?
+R93(2)<Speaker>R93</Speaker>||:응? 아니, 그냥 생각나서 말해본 건데... 왜 그래?
+R93(2)<Speaker>R93</Speaker>||:
+()<Speaker></Speaker><Position>0,100</Position>||:R93가 뒤를 돌아보니, P38은 얼굴이 새파랗게 질려 있었다.
+R93(2)<Speaker>R93</Speaker>||:P38, 너... 유령이 무섭구나?
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:아...+아~하하하!+에이, 그럴 리가! 우린 전술인형이라고!+게다가, 과학적으로 유령이 존재할 리도 없잖아? 그치? 그치?!
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:흐음~?
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:아, 아무튼 빨리 보물을 찾고 여기서 나가자!
+P38(2)<Speaker>P38</Speaker>||:
+()<Speaker></Speaker><Position>0,100</Position>||:P38은 숨을 깊게 들이마신 뒤 씩씩하게 앞장서 나아갔다. 하지만 R93은 장난기가 발동해...
+R93(2)<Speaker>R93</Speaker>||:쿡.
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position><Shake>0.1</Shake>||:<Size=60>꺄아아아아악!!!</Size>
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:
+()<Speaker></Speaker><Position>0,100</Position>||:비명에 놀란 새들이 하늘로 날아올랐고, R93의 손가락에 등을 찔린 P38은 마인드맵이 폭주하기라도 한 듯 전속력으로 내달려, 깊은 숲속으로 사라져 버렸다.
+R93(2)<Speaker>R93</Speaker>||:겁먹은 거 맞네 뭘.+하아... 운이 따라서 빨리 보물을 찾아내면 좋겠다.
+()||<黑屏1>:

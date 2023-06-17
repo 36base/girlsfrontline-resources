@@ -1,0 +1,84 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>매기</Speaker>||<黑屏2><BIN>9</BIN><BGM>m_avg_labyrinth</BGM>:죽는 건, 이런 느낌이구나...
+()<Speaker>？？</Speaker>||:죽는 건, 이런 느낌이구나...
+Erma(7)<Speaker>엘마</Speaker>||:누구?+누구야?
+()||:목소리 주인의 얼굴이 서서히 떠올랐다, 점점 쇠약해져 가는 얼굴이었다.+——"엄마".
+()<Speaker>■□·흄</Speaker>||:미안하구나, 넌 이제 자유란다.
+()||<黑屏1>:쓸쓸한 표정이 눈에 새겨졌다...+그건 "서머 가든"에서 계속 흐릿하게만 보였던 뒷모습이었다.
+()||<黑屏2><Night><narrator><SE1>AVG_AMB_Wind</SE1><BIN>534</BIN>:서머 가든.
+()||:바람이 북쪽의 네바 강을 지나고, 백조떼가 푸드덕 엘마의 눈앞에 날아들었다.+서머 가든이 처음으로 보여주는 으스스한 풍경이었다.
+()<Speaker>■□·흄</Speaker>||<SE1>Stop_AVG_loop</SE1>:미안하구나, 넌 이제 자유란다.
+Erma(4)<Speaker>엘마</Speaker>||:<color=#66CDAA>......</color>
+()||:엘마는 그 이름을 말했다.
+()<Speaker>엘마</Speaker>||:<color=#66CDAA>아서 흄.</color>
+()||:눈 앞의 흄 박사는 서서히 사라졌다...
+()||<SE1>AVG_File_Put</SE1>:한 자루 열쇠가 엘마의 손 안에 떨어졌다.
+()||:그녀는 알고 있다... 이것이 바로 서머 가든 현관의 열쇠...+전기 철조망과 쇠사슬이 가득 감긴 현관문...+관목길 끝의 있는 현관문...+엘마와 그 대리석 조각상 사이를 가로막은 현관문의 열쇠다.
+()||<SE1>AVG_20Winter_Gate_Close</SE1><黑屏1>:철컥——+자물쇠가 바로 벗겨졌다.
+()||<关闭蒙版><黑屏2><BIN>479</BIN><回忆>:눈 내리는 어느 날, 깊은 밤——
+NPC-Tareus(0)<Speaker>타레우스</Speaker>||:흄 박사, 너의 연구가 필요해.
+()<Speaker>엘마</Speaker>||:<color=#66CDAA>그 여자다!</color>+<color=#66CDAA>나는 녀석을 본 적이 있었어!</color>
+()<Speaker>흄</Speaker>||:그럼 그쪽은 뭘 줄 수 있지?
+NPC-Tareus(0)<Speaker>타레우스</Speaker>||:...■□■□■□■□■□■□...
+()<Speaker>엘마</Speaker>||:<color=#66CDAA>여긴... "엄마"의 실험실.</color>+<color=#66CDAA>저 녀석은 뭐라고 말하는 거야?</color>+<color=#66CDAA>여긴... 내 기억이 맞나?</color>
+()<Speaker>흄</Speaker>||:알았다.+이리로 가져올 테니 기다려라.
+()||<SE1>AVG_20Winter_Door_Open</SE1>:흄 박사는 빠른 걸음으로 작업실로 걸어가 문을 밀어...
+()||<SE1>AVG_Door_Hit</SE1><震屏3>:꽝——
+()<Speaker>엘마</Speaker>||:<color=#66CDAA>저건 그때의 나...</color>
+Erma(2)<Speaker>엘마</Speaker>||:아얏!
+Erma(2)<Speaker>흄</Speaker><同时置暗>||:...문틈으로 엿보지 말라고 몇 번을 말했니.+봐라, 코 아프지?
+()||<SE1>AVG_20Winter_Door_Close</SE1><黑屏1>:흄은 돌아서서 문을 살며시 닫으며, 실험실에 앉아 있는 여자에게 살짝 고개 숙여 미안함을 표했다.
+()<Speaker>흄</Speaker>||<黑屏2><BIN>412</BIN><Night><BGM>BGM_Empty</BGM>:<size=25>빨리 짐 싸렴.</size>
+Erma(2)<Speaker>엘마</Speaker>||<BGM>GF_22W_BGM_1</BGM>:...엄마, 멀리 나가는 거야?
+Erma(2)<Speaker>흄</Speaker><同时置暗>||:그래.
+()||:5분 후...+흄 박사는 엘마의 손을 끌고서 문을 열었다, 하지만 실험실의 문이 아니었다.
+()||<SE1>AVG_20Winter_Gate_Close</SE1>:작업실의 작업 테이블을 옆으로 치우니 지하실 계단이 나타났다.
+()<Speaker>흄</Speaker>||<黑屏1>:가자.
+()<Speaker>흄</Speaker>||<关闭蒙版><黑屏2><BIN>168</BIN><黑屏1>:이 정도면 서머 가든에서 3km쯤은 떨어졌겠지.
+()||<黑屏2><BIN>516</BIN><SE1>ClothingUp</SE1>:그는 엘마의 머리를 쓰다듬었다.
+()<Speaker>흄</Speaker>||:정말 기쁘구나, 내 삶에 처음으로 그리고 마지막으로 너를 창조해내서.+너는 공예품이 아니야. 예술품이란다.
+()<Speaker>엘마</Speaker>||:<color=#66CDAA>...무슨 차이가 있죠?</color>
+()<Speaker>흄</Speaker>||:공예품은 제작하는 거란다. 내가 무엇을 만드는지 알고 있고 최고의 품질로 만들어지지.+하지만 예술품은 창작하는 거야. 무엇이 만들어질지 알 수가 없으니 끝없이 상상해야만 해.+지금 너는 내게 증명해 보였지, 너는 인간을 완전히 모방한 기억 방식을 갖고 있어.+내가 아무리 지워도 너는 기억을 잃지 않아.+대응하는 앵커 포인트를 찾아내는 한.+항상 하던 놀이를 계속 하자꾸나...
+()||<SE1>Select</SE1>:흄은 엘마에게 총 한 자루를 건넸다.
+()<Speaker>흄</Speaker>||:너의 이름은 이 총의 이름이기도 하단다.
+()<Speaker>엘마</Speaker>||:...Erma EMP.
+()<Speaker>흄</Speaker>||:뒤로 가렴, 좀 더.+50m... 아니, 100m는 떨어져.
+()||<SE1>ClothingUp</SE1>:엘마는 얌전히 고개를 끄덕였다.
+()<Speaker>엘마</Speaker>||<黑点2><BIN>9</BIN><黑点1>:<color=#66CDAA>......</color>
+()<Speaker>흄</Speaker>||<黑点2><BIN>168</BIN>:좋아... 이번엔 다르게 놀아보자.+이번엔 네가, 나를 향해 쏘렴.
+Erma(0)<Speaker>엘마</Speaker>||:네.
+()||:엘마는 정말로 놀이를 하는 기분이었다.
+()||<SE1>Rope</SE1>:그녀는 그 총을 들어, "엄마"가 자신에게 했던 것처럼...
+()||<黑屏2><BIN>517</BIN><SE1>AVG_pistol_finalshot_n</SE1><BGM>BGM_Empty</BGM>:타앙——+정확한 한 발로 그의 가슴팍을 맞췄다.
+()<Speaker>흄</Speaker>||<SE1>AVG_Bullet_Hit_Body</SE1>:큭...
+()<Speaker>엘마</Speaker>||:<color=#66CDAA>...어째서...</color>
+()||:대량의 피가 흄의 몸에서 스며나왔다.
+()<Speaker>흄</Speaker>||:미안하구나... 넌 이제 자유란다, 엘마.
+()||<SE1>Explode</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><白屏2>:콰아앙————!+그는 마치 거대한 폭죽처럼 어둡고 습한 골목길에서 활짝 피었다.
+()||<SE1>Heartbeat</SE1><黑点1>:혈액과 잿가루가 엘마의 얼굴에 튀었다.+지저분한 지면은 붉게 물들었다.+엘마는 혼자서 바닥에 주저앉아, 크게 뜬 눈으로 흐린 하늘을 우두커니 바라봤다...
+()<Speaker>엘마</Speaker>||<黑点2><BIN>9</BIN>:<color=#66CDAA>...모르겠어...</color>
+()||<SE1>AVG_tele_connect</SE1>:삐삐——+서머 가든에서 암호화된 데이터가 밖으로 전송되고 있었다.
+()<Speaker>엘마</Speaker>||:<color=#66CDAA>대체... 어떻게 된 건지...</color>
+()||<黑屏1><SE1>AVG_whitenoise</SE1><BGM>BGM_Empty</BGM>:엘마는 손을 뻗어 그 채널을 해킹했다——
+()||<黑屏2><BIN>72</BIN>:......
+NPC-Tareus(0)<Speaker>타레우스</Speaker>||:...그가 도망갔습니다.
+NPC-MrsGray(0)<通讯框><Speaker>그레이</Speaker>;NPC-Tareus(0)||:<color=#00CCFF>살려두지 마.</color>
+NPC-MrsGray(0)<通讯框>;NPC-Tareus(0)<Speaker>타레우스</Speaker>||:네. 이미 몸에 시한폭탄을 설치해 뒀습니다.+절대 제거할 수 없는 걸로요.
+NPC-MrsGray(0)<通讯框><Speaker>그레이</Speaker>;NPC-Tareus(0)||:<color=#00CCFF>깨끗히 청소하렴.</color>
+NPC-Tareus(0)<Speaker>타레우스</Speaker>||<黑屏1>:알겠습니다.
+()||<黑屏2><BIN>463</BIN><BGM>GF_2022_Summer_AVG_2</BGM><关闭蒙版>:......+말로 표현할 수가 없는 기분.+너무 무겁고, 너무 어두웠다.+흐르는 눈물을 통해서만 그것을 몸에서 빼낼 수 있었다.
+Erma(6)<Speaker>엘마</Speaker>||:...또 혼자가 됐어...
+()||:엘마의 앞엔 순수한 어둠만 남았다.+류드밀라, 매기, 캐서린, 폴... 한 장 한 장의 얼굴이 어둠 속에서 나타났다가 사라졌다...+공허함과 외로움이 무겁게 가라앉았다.
+()||:눈물 방울이 소리 없이 어둠 속으로 떨어졌다.
+()<Speaker>엘마</Speaker>||:난 항상 외톨이야...
+()||:......
+()<Speaker>？？？</Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:인형 아가씨, 일어나십시오.
+()<Speaker>？？</Speaker>||:마인드맵 상태는 안정적이에요. 소체 파손이 있지만 치명적이진 않고.
+()<Speaker>？？？</Speaker>||:마인드맵에 접속해서 강제로 레벨 2 플랫폼에서 꺼내야 할까?
+()<Speaker>？？</Speaker>||<黑屏1>:...응? 잠깐만, 얘는 마인드맵이 왜...
+()||<睁眼><BIN>535</BIN><SE2>Gunfight</SE2><SE1>AVG_amb_wilderness</SE1>:타타탕——+멀리서 드문드문 들려오는 총성이, 싸움의 마무리를 선언하는 듯했다.
+()<Speaker>리엔필드</Speaker>||:반갑습니다, 인형 아가씨. 저는 그리폰 안전계약사 소속 리엔필드입니다.+현재 대륙간 열차 구조 지원 임무 중입니다. 몸은 괜찮으십니까?
+()<Speaker>Kar98k</Speaker>||:걸을 순 있나요?+안심하세요, 이제 안전해요.
+()<Speaker>리엔필드</Speaker>||:상태가 많이 안 좋아, 점검이 필요하겠어.
+()<Speaker>Kar98k</Speaker>||:네, 그쪽에 맡길게요.
+()||<黑屏1>:

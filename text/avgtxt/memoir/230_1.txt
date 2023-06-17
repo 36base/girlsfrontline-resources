@@ -1,2 +1,116 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||:<color=#FFFF00>마인드맵 기록 분석 중...</color>+<color=#FFFF00>분석 완료 예상 시각... 5월 20일 16시 00분</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>8</BIN><SE1>AVG_door_elecport</SE1><BGM>m_wv_title</BGM>:어느 날, 그리폰 지휘실.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||<SE1>AVG_20Winter_Book</SE1>:안녕히 주무셨어요, 지휘관님! 이번 마인드맵 업그레이드 최신 대상자 명단이에요, 확인해 주세요.
+NPC-Kalin(1)<Speaker>지휘관</Speaker><同时置暗>||:응, 고마워.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:히히히...+마인드맵 업그레이드 신청 받기 시작한 후로, 신청 수리를 기다리는 인형들이 사무실에서 위병소까지 줄을 설 정도로 인기 만점인 거 있죠!+주어지는 TO가 항상 쥐꼬리만해서 원성이 자자하긴 하지만요...
+NPC-Kalin(0)<Speaker>지휘관</Speaker><同时置暗>||:어쩔 수 없잖아, 실험실의 자원이 한정적인데. 인내심 가지고 기다리라 할 수밖에.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:저번에 크루거 씨한테 설비 좀 증설해 달라 했더니 그날부터 저를 피하시더라고요...
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:에헤헤~ 지휘관니~임? 지휘관님도 제법 저축하지 않으셨나요~? 이번 기회에 그리폰의 미래를 위해 수복 캡슐 몇 대 구입하는 건 어떠세요~?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:카리나의 푸른 눈동자가 금전에 홀린 이들 특유의 금빛으로 반짝이자, 지휘관은 반사적으로 주머니 속의 지갑을 단단히 움켜쥐면서 화제를 돌렸다.
+()<Speaker>지휘관</Speaker>||:이번 업그레이드 명단 좀 볼까!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:지휘관은 명단에 이름을 올린 인형들의 사원 번호를 확인하면서 카리나의 별처럼 반짝이는 눈빛을 피했다.+그러던 중, 이름 하나가 지휘관의 눈길을 끌었다.
+()<Speaker>지휘관</Speaker>||:...OBR?+이상하다, 얘 지난번에 업그레이드 받지 않았어? 왜 또 명단에 올라와 있지?
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:네? 그럴 리가요, 이번에 처음으로 명단에――+...어라?+정말로 저번 기수 명단에 있네요? 어어, 저저번 것에도... 저저저번 것에도?!+뭐야 이거, 알박기인가?!
+NPC-Kalin(2)<Speaker>지휘관</Speaker><同时置暗>||:OBR한테 연락은 해봤니?
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:어... 아뇨, 보통은 통보받으면 인형들이 알아서 업그레이드를 받거든요.+그런데 얘처럼 이렇게 질질 끄는 건 심각한 케이스네요.+당장 조사하겠습니다!
+()||<BGM>BGM_Empty</BGM><黑点1>:
+()<Speaker></Speaker>||<黑点2><SE1>AVG_tele_connect</SE1>:30분 후, 지휘 콘솔의 모니터에 카리나의 통신 요청이 다급하게 반짝였다.
+NPC-Kalin(8)<Speaker>카리나</Speaker><通讯框>||<BGM>BGM_Sneak</BGM>:<color=#00CCFF><size=50>지휘관님 큰일이에요! OBR이 실종됐어요!</size></color>
+NPC-Kalin(8)<Speaker>지휘관</Speaker><同时置暗>||:뭐? 그럴 리가.
+NPC-Kalin(4)<Speaker>카리나</Speaker><通讯框>||:<color=#00CCFF>진짜예요!</color>+<color=#00CCFF>실험실 담당자가 하늘에 맹세코 OBR이 연락해온 적도 없고 OBR을 본 적도 없대요!</color>+<color=#00CCFF>다른 인형들한테도 전부 물어봤는데 아무도 걔를 못 봤대요!</color>+<color=#00CCFF>지금도 OBR한테 통신을 보내고 있는데 전혀 대답이 없어요!</color>+<color=#00CCFF>으으... 어떡하죠? 설마 임무 나갔다 인형매매범한테 납치당한 거 아닐까요?!</color>
+NPC-Kalin(4)<Speaker>지휘관</Speaker><同时置暗>||:진정하고 내 권한으로 데이터베이스랑 기지 감시 기록 확인해 봐. OBR이 밖으로 나갔다면 분명 출입 기록이 남았을 거야.
+NPC-Kalin(4)<Speaker>카리나</Speaker><通讯框>||:<color=#00CCFF>넵!</color>+<color=#00CCFF>OBR아 제발 놀래키지 말아 줘...</color>
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><SE1>RunStep</SE1><SE1>AVG_BaseDoor_Open</SE1>:10분 후, 카리나가 요란하게 지휘실로 들이닥쳤다.
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:지휘관님! 단서 찾았어요!+그저께 원정 임무로 외출한 기록이 있더라고요! 그리고 평소에도 항상 일찍 나갔다 늦게 돌아와서 대부분의 인형들이랑도 못 마주친 거였어요. 어쩐지 왜 아무도 못 봤을까 했더니만...+휴우... 진짜 간 떨어지는 줄 알았다니까요! 정말 실종된 거였으면 제가 어떻게 책임을 져야 했을지...!
+NPC-Kalin(8)<Speaker>지휘관</Speaker><同时置暗>||:아무튼 실종이 아니라서 다행이다.+그런데, 혼자 쏘다니는 건 그렇다 쳐도 그게 개조를 안 받을 이유는 아닌데... 이번엔 꼭 받으라 연락을 해야겠다.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:하지만 자꾸 남들 몰래 돌아다니는데, 연락을 안 받으려 하면 어떡하죠?
+NPC-Kalin(4)<Speaker>지휘관</Speaker><同时置暗>||<BGM>BGM_Empty</BGM>:OBR의 다음 원정 임무는 언제야? 그때를 노려보자.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:유감스럽게도, 원정 임무는 고정된 일정이 없어요.+표준 절차상 인형이 직접 신청해서 일을 받는 형식――!
+()<Speaker></Speaker>||<BGM>BGM_stage2</BGM>:카리나가 갑자기 입을 다물더니 눈을 번쩍였다.+그리곤 그 푸른 눈동자가 몇 차례 이리저리 구르더니, 입꼬리가 씨익 올라갔다.
+()<Speaker>지휘관</Speaker>||:...카리나?
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:히히히... 지휘관님, OBR을 붙잡을 방법이 떠올랐어요!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2>:2분 후.+지휘관은 턱을 괸 채 어이없는 표정으로 화면에 흐르는 그리폰 통신 채널을 바라봤다.+본디 차분한 색조였던 인터페이스가, 눈이 아플 정도로 형형색색인 광고 메시지로 도배된 그 광경을.
+()<Speaker>광고</Speaker>||<震屏3>:<color=#FF0000><size=50>【그리폰】☎카리나의 특급 정보!☎ 전례 없는 대★박 ☞원정 임무☜ 긴 급 모 집 !</size></color>+<color=#FF0000><size=50>【그리폰】$초고수당&보너스$ 각종★서프라이즈★ 즉 시 지 급 ! ★</size></color>+<color=#FF0000><size=50>【그리폰】☎카리나의 특급 정보!☎ 전례 없는――</size></color>
+()<Speaker>지휘관</Speaker>||:허위 정보 유포는 규정 위반 아니니?
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:아이잉~ 지금 지휘관님을 도와 OBR을 낚으려는 거잖아요오~
+NPC-Kalin(3)<Speaker>지휘관</Speaker><同时置暗>||:이딴 미끼에 잘도 물고기가 낚이겠다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:그건 두고봐야 알죠! 지금 바로 카운트다운!
+NPC-Kalin(0)<Speaker>지휘관</Speaker><同时置暗>||:???
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:3——+......+2——+......
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:——삐삐삐삐삐!
+()<Speaker></Speaker>||:통신음이 울린 순간 지휘관은 깜짝 놀라 의자째로 뒤집어질 뻔했다.+화면에 OBR의 프로필 아이콘이 격하게 반짝이는 것이었다.+카리나는 씨익 웃으며 혀를 내밀곤, 입을 싹 닦고 통신을 연결했다.
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position><通讯框>||:<color=#00CCFF>카리나 씨 카리나 씨 카리나 씨 지금 계시죠!?</color>
+OBR(0)<Position>0,190</Position>;NPC-Kalin(1)<Speaker>카리나</Speaker>||:안녕 OBR~ 무슨 일이니?
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position><通讯框>;NPC-Kalin(1)||:<color=#00CCFF>방금 게시된 원정 임무 마감됐나요?! 그, 그거 저 하고 싶어요!</color>
+OBR(0)<Position>0,190</Position>;NPC-Kalin(1)<Speaker>카리나</Speaker>||:응, 아직 열렸어~ 게다가 OBR이 제일 먼저 연락한 사람이야!
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position><通讯框>;NPC-Kalin(1)||:<color=#00CCFF>아싸아~! 드디어 안 뺏겼다!</color>+<color=#00CCFF>임무 세부 내용 보내 주세요!</color>
+OBR(0)<Position>0,190</Position><通讯框>;NPC-Kalin(0)<Speaker>카리나</Speaker>||:이 원정 임무는 좀 복잡해서 전용 도구를 지참해야 하거든?+지금 지휘실에 받으러 와 줄래?
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position><通讯框>;NPC-Kalin(0)||:<color=#00CCFF>어, 지금 당장요? 죄송하지만 지금은 좀 바빠서...</color>
+OBR(0)<Position>0,190</Position><通讯框>;NPC-Kalin(3)<Speaker>카리나</Speaker>||:그래? 그렇구나아... 급한 의뢰라 그럼 다른 인형한테 맡길――
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position><通讯框>||:<color=#00CCFF>아아아안 돼요! 저 그 보너스――가 아니라 원정 임무 의뢰 꼭 받을 거예요!</color>+<color=#00CCFF>저어... 내일 새벽 3시에 수령하러 가면 안 될까요?</color>+<color=#00CCFF>제발 부탁할게요 카리나 씨이~~~</color>
+()<Speaker></Speaker>||:새벽 3시?+시간을 가늠한 지휘관과 카리나는 아연실색했다.+다만, OBR을 붙잡기엔 이 방법밖에 없을 것 같았다.+지휘관은 하는 수 없이 고개를 끄덕였고, 카리나도 한숨을 푹 쉬며 답했다.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:알았어. 그럼 내일 새벽 3시에 지휘실로 와. 1초라도 지각하면 국물도 없어!
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>8</BIN><Night><BGM>m_avg_casual</BGM>:다음날 새벽. 또 바쁜 하루를 보낸 그리폰 기지는 잔잔한 밤하늘에 감싸여 잠에 들었다.+다만 어두컴컴한 지휘실 안에는 가여운 두 인간이 한 인형을 기다리고 있었다.+지각 말라 했건만, 시간은 어느덧 오전 3시 32분. 문 뒤에 숨어 있던 카리나는 아주 비몽사몽한 상태였다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:보다 못한 지휘관이 커피 한 잔을 권했지만, 카리나는 손을 저으며 하염없이 천장을 바라봤다.
+NPC-Kalin(12)<Speaker>카리나</Speaker>||:지휘관님... 살려 주세요... 얘 왤케 안 와... 간만에 일찍 잘 수 있었는데... 저 빨리 자고 싶어요...
+NPC-Kalin(12)<Speaker>지휘관</Speaker><同时置暗>||:기운내 카리나... 오늘 OBR 붙잡으면 내일 내가 말해서 야근 수당 3배로 늘려 줄게.
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:야근 수당이... 3배?! 그거 엄청 나올 텐데요!?
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:우와아... 저 지금 행복해서 기절할 거 같아요!+지휘관님! 뭐든 말씀만 하세요! 졸음이 싹 달아나서 얼마든지 버틸 수 있어요!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Metal_Break</SE1><BGM>BGM_Empty</BGM>:덜그럭... 덜그럭...+그때, 복도 끝에서 이상한 소리가 들려와 두 사람의 대화를 끊었다.+인형이 걸어오는 소리임은 분명한데, 무척 느린 데다 발도 질질 끄는 것 같고 관절축의 비정상적인 마찰음과 부품끼리 부딪히는 소리도 들려왔다.+그리고 잠시 후, 드디어 그 발소리가 지휘실의 문 앞에서 멈췄다.
+()<Speaker>？？？</Speaker>||<SE1>AVG_Knock</SE1>:카리나 씨, 계신가요?
+()<Speaker></Speaker>||:방문자가 조심스레 문을 두드렸다.+지휘관과 카리나는 눈빛을 교환하며 숨을 죽였다.
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:<size=35>OBR이에요!</size>
+()<Speaker></Speaker>||<SE1>AVG_BaseDoor_Open</SE1>:그리고, 지휘실의 문이 활짝 열렸다.
+()<Speaker>지휘관</Speaker>||<BGM>m_wv_battle</BGM><震屏3>:<size=50>——카리나!</size>
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><SE1>AVG_BaseDoor_Close</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:상대가 채 반응하기 전에, 카리나가 껑충 뛰어올라 툭 치면 팔다리가 부러질 것만 같은 인형을 끌어안아 붙잡곤 문을 쾅 닫았다.
+()<Speaker></Speaker>||<关闭蒙版><SE1>AVG_21Winter_Open_Light</SE1>:팟!
+()<Speaker></Speaker>||:조명이 껌껌했던 방을 밝혔고, 바닥에 넘어진 OBR은 놀란 토끼 눈으로 고개를 들어 무시무시한 표정인 두 사람을 바라봤다.
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:<size=50>잡았다 요녀석!</size>+나랑 지휘관님이 널 얼마나 찾은 줄 알아!?
+()<Speaker>지휘관</Speaker>||:그래! 하루 종일 찾았어!
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:말해! 왜 아직도 마인드맵 업그레이드 안 받았어!
+()<Speaker>지휘관</Speaker>||:말해!
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position>||:네!? 네?! 원정 임무에 필요한 도구 주신다고 부른 거 아니었어요?!
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:꿈 깨셔! 업그레이드 마치기 전엔 아무 임무도 받을 생각 마!
+()<Speaker>지휘관</Speaker>||:그래! 내일 당장 실험실 가서 개조 다 받고 와!
+()<Speaker></Speaker>||:OBR은 한참을 어리둥절해하며 지휘관과 카리나를 번갈아 보다, 마침내 자신이 속았음을 깨달았다.+그리곤 부끄러움에 얼굴이 새빨개졌다가, 갑자기 급속도로 창백해지더니 난처한 기색을 보였다.
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position>||<SE1>ClothingUp</SE1>:죄, 죄송합니다 지휘관님!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Metal_Break</SE1>:OBR이 벌떡 일어나더니, 허리를 90도로 숙이면서 사과했다.
+()<Speaker></Speaker>||:그 큰 움직임에, 그녀의 소체에서 금속 부품이 엉키고 부딪혀 딸랑딸랑 소리가 났다.+이에 지휘관과 카리나는 모두 놀라 눈살이 저절로 찌푸려졌다.
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position>||:죄송해요, 하지만 업그레이드는 받을 수 없어요!
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:왜?
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position>||:마, 말 못해요!
+()<Speaker>지휘관</Speaker>||:무슨 어려운 사정이라도 있니? 내가――
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:지휘관님! 말하실 필요 없어요! 저랑 벌써 상의했잖아요, 이번에도 OBR이 업그레이드를 안 받겠다 하면 특별 조치를 취하겠다고!
+()<Speaker>지휘관</Speaker>||:응? 내가 언――
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:카리나가 눈을 부릅 뜨며 눈치를 줬다.
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position>||:트, 특별 조치라뇨!?
+()<Speaker></Speaker>||<SE1>Rope</SE1><BGM>BGM_Empty</BGM>:지휘관은 그 의중을 읽고, 안면 근육에 잔뜩 힘을 주어 근엄한 표정을 지으면서 전전긍긍하는 OBR에게 고개를 돌렸다.
+()<Speaker>지휘관</Speaker>||:――음, 카리나 말대로다.+OBR, 네 소체는 노화가 너무 심각해서 작전은 물론 일상 생활에까지 영향을 끼치고 있어. 이대로 계속 마인드맵 업그레이드를 받지 않겠다면, 널 퇴역시킬 수밖에 없다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:막노동판에다 던져버릴 거야!
+()<Speaker></Speaker>||<SE1>AVG_Thunder_Dry</SE1>:OBR이 몸을 덜덜 떨기 시작했다.+아무래도 지나친 충격에 마인드맵까지 잠깐 과부하된 모양이었다.
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position><Shake>0.1</Shake>||<SE1>AVG_20Winter_Metal_Break</SE1>:네엣...?! 그, 그럼 그냥 폐기한다는 말이잖아요! 저, 저저저... 어떻게... 안 돼요... 저...+지, 지휘관님! 버리, 버리지 말아 주세요오! 으아앙――
+()<Speaker></Speaker>||:OBR은 눈물 콧물 다 쏟아내며 지휘관의 다리를 부둥켜안고 울었다.+여우 같은 카리나는 지휘관에게 엄지를 척 세우며, 작전 성공을 선언했다.
+()<Speaker>지휘관</Speaker>||<BGM>GF_Memorial</BGM>:OBR, 일단 울음 뚝. 사정이 있다면 천천히 말을 해보렴. 도울 수 있다면 도와줄게.
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position>||:흐으응... 죄송해요 지휘관님... 실은요... 저... 계속 빚 갚으라고 독촉당해서, 피하느라아...+어째선지 아무리 열심히 일해도 빚이 자꾸 늘어나요...+갚으려고 다른 애들한테 돈을 빌리기까지 했는데도 전혀 빚이 줄어들질 않아서... 그들과 마주치면 빌린 돈 갚으라고 따질까 봐 무서워서... 매일 기지 밖에서 있었어요...+이미 빚이 산더미인데 개조받으면 소체 정비 비용도 오를 텐데... 이젠 돈 빌릴 사람도 없고 갚을 능력도 없어서...+흐으응... 어떡해요 지휘관님... 버리지 말아 주세요, 저 혼자 어떻게 살아가야 할지 모르겠어요...
+()<Speaker></Speaker>||:OBR의 눈물젖은 호소에 카리나는 눈시울이 뜨거워졌다.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:흑... OBR이 이렇게 고생하고 있었다니...!+마인드맵 업그레이드로 소체도 신형으로 바꾸면 정비 비용이 제법 오르긴 하죠. 다른 애들한텐 별거 아닐지도 모르겠지만, OBR에겐 그야말로 재난이었구나...!
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position>||:카리나 씨이이... 저 도저히 감당 못해요오...
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:하아... 그리폰의 충직한 사원이 빚으로 이런 안습한 처지라니...+지휘관님, 이를 어떻――
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:으엑?!
+()<Speaker></Speaker>||:카리나가 고개를 돌려 본 지휘관의 눈가엔 이미 눈물이 잔뜩이었다.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:지, 지휘관님...?
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position>||:지휘관님... 우, 울지 마세요...
+OBR(0)<Speaker>지휘관</Speaker><Position>0,190</Position><同时置暗>||:미안하다, OBR... 크흑... 내가 일에만 열중하느라 너희를 챙기지 못한 탓이야!+이건 내 과실이기도 하니, 내가 도와주겠어! 날 믿으렴 OBR, 너를 반드시 채무의 고통에서 해방시켜 줄게!
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position>||:지휘관님...
+()<Speaker>지휘관</Speaker>||:카리나!
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:넵!
+NPC-Kalin(1)<Speaker>지휘관</Speaker><同时置暗>||:해 뜨는 즉시 OBR을 실험실로 데리고 가서 업그레이드시켜 줘. 개발 센터에다 OBR의 개조 비용과 이후의 모든 정비 비용도 내가 지불하겠다 하고.+그리고 다른 인형들에게 빌린 돈과 아직 갚지 못한 빚까지 내가 전부 해결해 주마!
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:엑... 지휘관님? 그거 진심이세요...?
+()<Speaker>지휘관</Speaker>||:당연히 진심이지! 내 소중한 부하가 처참한 꼴인데 어떻게 가만 있어?!+OBR, 앞으로도 힘든 일 생기면 언제든지 내게 말하렴!
+OBR(0)<Speaker>OBR</Speaker><Position>0,190</Position>||:흐윽... 감사합니다, 감사합니다 지휘관님...
+()||<黑屏1>:

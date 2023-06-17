@@ -1,72 +1,72 @@
-()||<BIN>99</BIN><BGM>BGM_Brain</BGM><黑屏2>:......
-NPC-Yegor(2)<Speaker>예고르</Speaker>||:아직까지도 저항 중인가? 상황을 보고해라.
-NPC-Yegor(2)<Speaker>병사</Speaker>||:네! 그리폰의 테러리스트는 저희의 방어선을 뚫지 못하고 있으며, 포획 목표는 이미 궁지에 몰았습니다.+이제 곧 포획 성공합니다.
-NPC-Yegor(2)<Speaker>예고르</Speaker>||:좋다, 방심하지 말고 계속 진격해라.
-NPC-Yegor(2)<Speaker>병사</Speaker>||<黑点1>:네!
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||<BIN>98</BIN><黑点2>:M4! 현장 상황을 보고해!
-AR15Mod(2)<Speaker>AR15</Speaker>||:이제서야 왔냐...!
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:45의 부상이 심각하고, 다른 인형들의 탄약도 거의 바닥났습니다.
-UMP45(1)<Speaker>UMP45</Speaker>||:미안… 안젤리아...
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:내가 무리를 시킨 탓이야… UMP9, 404소대를 데리고 그리폰의 위치까지 철수할 수 있겠어?
-UMP9(2)<Speaker>UMP9</Speaker>||:아마 가능할 거야!
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그럼 부탁하지. 철혈 쪽의 상황은 어때?
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:엘더브레인은 이미 포위당했고, 철혈의 수비도 몇 분 버티지 못할 겁니다...+지휘관의 부대는 계속 전진 가능한가요?
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:힘들어, 상대의 화력이 거세서, 그리폰도 전투 능력이 바닥날 지경이야...
-M4A1Mod(0)<Speaker>M4A1</Speaker>||:그럼 이제 어떻게 하면 좋을까요?
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그리폰에게 마지막으로 한 번 더 화력 유인을 부탁하고, 리벨리온은 나와 엘더브레인의 위치로 돌격을…
-AK12(2)<Speaker>AK12</Speaker>||<黑点1>:안젤리아, 방해해서 미안한데, 에이전트의 신호가 사라졌어!
-병사()<Speaker>병사</Speaker>||<BIN>99</BIN><黑点2>:대위님! 철혈의 최후 수비를 돌파하여, 엘더브레인 포획에 성공하였습니다!
-NPC-Yegor(2)<Speaker>예고르</Speaker>||:좋다, 즉시 포박하여 집결지로 이동한다.
-NPC-Yegor(2)<Speaker>예고르</Speaker>||:장군, 엘더브레인 포획 완료, 현재 정거장으로 이동 중.
-NPC-Yegor(2);NPC-Carter(0)<Speaker>카터</Speaker><通讯框>||:좋아, 즉시 집결지로 이동하게나.
-NPC-Yegor(2)<Speaker>예고르</Speaker>;NPC-Carter(0)||:그리폰과 안전국의 잔여 부대는 어떻게 하겠습니까?
-NPC-Yegor(2);NPC-Carter(0)<Speaker>카터</Speaker>||:전부 섬멸해라, 한 명도 빠짐없이.
-NPC-Yegor(2)<Speaker>예고르</Speaker>;NPC-Carter(0)||:알겠습니다.
-NPC-Yegor(2)<Speaker>예고르</Speaker>||:여기는 예고르, 엘더브레인은 자율 부대가 정거장으로 운송한다, 장갑 부대는 내 지휘에 따라 나머지 테러리스트를 섬멸한다.
-NPC-Yegor(2)<Speaker>병사</Speaker>||<黑点1>:네!
-AK12(2)<Speaker>AK12</Speaker>||<BIN>98</BIN><黑点2>:안젤리아! 군의 탱크가 늘어났어요!+지금 머리를 돌려 우리 쪽으로 오고 있어요!
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:칫! 이미 엘더브레인이 예고르 손에 잡힌 건가!+최악의 상황이 돼버렸어...!+.........+최종수단......+결국은 최종수단을 써야 할 때가... 온 건가......
-NPC-Ange(0)<Speaker>NPC-Ange</Speaker>||<BIN>134</BIN>:
-M4A1Mod(0)<Speaker>M4A1Mod</Speaker>||<BIN>98</BIN><BGM>BGM_Empty</BGM>:
-M4A1Mod(0)<Speaker>M4A1Mod</Speaker>||<BIN>134</BIN>:
-M4A1Mod(4)<Speaker>M4A1Mod</Speaker>||<BIN>98</BIN>:
-M4A1Mod(4)<Speaker>M4A1Mod</Speaker>||<BIN>134</BIN>:
-M4A1Mod(4)<Speaker>M4A1Mod</Speaker>||<BIN>98</BIN>:
-M4A1Mod(4)<Speaker>M4A1Mod</Speaker>||<BIN>134</BIN>:
-M4A1Mod(4)<Speaker>M4A1Mod</Speaker>||<BIN>9</BIN><黑屏1>5</黑屏1>:
-M4A1()<Speaker>M4A1</Speaker>||<BIN>134</BIN><黑屏2><BGM>BGM_stage10</BGM>:...윽!
-미지의 소리()<Speaker>미지의 소리</Speaker>||:기억해? 처음 살인할 때의 느낌?+그 두려움, 불안함, 하지만 복수의 쾌감에.+넌 그만둘 수가 없었지.
-M4A1()<Speaker>M4A1</Speaker>||:...
-미지의 소리()<Speaker>미지의 소리</Speaker>||:넌 그들을 하나둘씩 죽였어, 마치 개미를 하나둘 쥐어 죽이듯이.+인형이 되어서도 똑같은 짓을 할 수 있을까?
-M4A1()<Speaker>M4A1</Speaker>||:닥쳐! 꺼져!+지금 내가 하지 못할 짓 따윈 없어!
-미지의 소리()<Speaker>미지의 소리</Speaker>||:지금 이곳의 인형과 인간들을 희생한다 해도?
-M4A1()<Speaker>M4A1</Speaker>||:...
-M4A1()<Speaker>M4A1</Speaker>||<震屏><黑屏1>:닥쳐! 닥치라고!!
-M4A1Mod(4)<Speaker></Speaker>||<BIN>98</BIN><黑屏2>:M4는 기폭스위치를 내려보았다.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:M4! 지금 터뜨려!
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:안젤리아 씨...
-AK12(2)<Speaker>AK12</Speaker>||:...설마 지금 여기서 그걸...?!
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:여유가 없다고!
-AK12(2)<Speaker>AK12</Speaker>||:지금 이 거리에서 살아남을 수 있다고 생각해?
-NPC-Ange(0)<Speaker></Speaker>||:안젤리아는 AK12를 바라보았다.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:괜찮아, 너희는 임무를 계속할 수 있어.
-AK12(2)<Speaker>AK12</Speaker>||:당신은 괜찮다 치더라도, 그리폰의 지휘관을 생각해 봐!+아직도 군과 싸우고 있단 말이야!
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그럴 여유 없어! M4! 터뜨려!
-M4A1Mod(4)<Speaker>M4A1</Speaker>||:제길! 기폭합니다!
-()||<震屏><SE1>Explode</SE1><黑屏1>:
-()||<BIN>9</BIN><黑屏2>:M4는 스위치를 눌렀다.+귀청이 날아갈 듯한 폭음이 저 멀리에서 전해져오고, 강렬한 충격파가 뒤를 이었다.
-안젤리아()<Speaker>안젤리아</Speaker>||:엎드려! 모두 엎드려!
-M4A1()<Speaker>M4A1</Speaker>||:15! 절 붙잡아요! 날아가지 않게!
-AR15()<Speaker>AR15</Speaker>||<黑屏1>:말 안해도 꽉 잡고 있어!
-()||<BIN>124</BIN><黑屏2>:...
-()<Speaker>안젤리아</Speaker>||:적 상황 알 수 있을까...?
-()<Speaker>AK12</Speaker>||:신호가 엉망이야, 신호 탐지는 불가능해.
-()<Speaker>AN94</Speaker>||:육안 관측...+붕괴액 설치 포인트 500m 범위 내 일체 증발, 잔존 적 병력 없음.
-()<Speaker>안젤리아</Speaker>||:분명 그쪽도 엉망이 됐을 터… 지금 이 때에── 콜록...!
-()<Speaker>M4A1</Speaker>||<BIN>125</BIN>:피? 안젤리아 씨!
-()<Speaker>안젤리아</Speaker>||:별거 아냐, 살짝 피폭당했을...... 뿐이니까...+콜록! 콜록!+뭘 봐 인마! ...얼른 움직이지 않고!
-()<Speaker>AK12</Speaker>||:그럼 안젤리아는?
-()<Speaker>안젤리아</Speaker>||:날 신경 써서 어쩌려고?! 엘더브레인을 쫓아! 임무를 완수해! M4!
-()<Speaker>M4A1</Speaker>||:알겠습니다!
-()<Speaker>안젤리아</Speaker>||:리벨리온 소대를 이끌고...+반드시… 반드시 엘더브레인을 데려와!
-()<Speaker>M4A1</Speaker>||<BIN>126</BIN><黑屏1>:...네! 모두 따라오세요!
+()||<BIN>99</BIN><BGM>BGM_Brain</BGM><黑屏2>:......
+NPC-Yegor(2)<Speaker>예고르</Speaker>||:아직까지도 저항 중인가? 상황을 보고해라.
+NPC-Yegor(2)<Speaker>병사</Speaker>||:네! 그리폰의 테러리스트는 저희의 방어선을 뚫지 못하고 있으며, 포획 목표는 이미 궁지에 몰았습니다.+이제 곧 포획 성공합니다.
+NPC-Yegor(2)<Speaker>예고르</Speaker>||:좋다, 방심하지 말고 계속 진격해라.
+NPC-Yegor(2)<Speaker>병사</Speaker>||<黑点1>:네!
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||<BIN>98</BIN><黑点2>:M4! 현장 상황을 보고해!
+AR15Mod(2)<Speaker>AR15</Speaker>||:이제서야 왔냐...!
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:45의 부상이 심각하고, 다른 인형들의 탄약도 거의 바닥났습니다.
+UMP45(1)<Speaker>UMP45</Speaker>||:미안… 안젤리아...
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:내가 무리를 시킨 탓이야… UMP9, 404소대를 데리고 그리폰의 위치까지 철수할 수 있겠어?
+UMP9(2)<Speaker>UMP9</Speaker>||:아마 가능할 거야!
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그럼 부탁하지. 철혈 쪽의 상황은 어때?
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:엘더브레인은 이미 포위당했고, 철혈의 수비도 몇 분 버티지 못할 겁니다...+지휘관의 부대는 계속 전진 가능한가요?
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:힘들어, 상대의 화력이 거세서, 그리폰도 전투 능력이 바닥날 지경이야...
+M4A1Mod(0)<Speaker>M4A1</Speaker>||:그럼 이제 어떻게 하면 좋을까요?
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그리폰에게 마지막으로 한 번 더 화력 유인을 부탁하고, 리벨리온은 나와 엘더브레인의 위치로 돌격을…
+AK12(2)<Speaker>AK12</Speaker>||<黑点1>:안젤리아, 방해해서 미안한데, 에이전트의 신호가 사라졌어!
+병사()<Speaker>병사</Speaker>||<BIN>99</BIN><黑点2>:대위님! 철혈의 최후 수비를 돌파하여, 엘더브레인 포획에 성공하였습니다!
+NPC-Yegor(2)<Speaker>예고르</Speaker>||:좋다, 즉시 포박하여 집결지로 이동한다.
+NPC-Yegor(2)<Speaker>예고르</Speaker>||:장군, 엘더브레인 포획 완료, 현재 정거장으로 이동 중.
+NPC-Yegor(2);NPC-Carter(0)<Speaker>카터</Speaker><通讯框>||:좋아, 즉시 집결지로 이동하게나.
+NPC-Yegor(2)<Speaker>예고르</Speaker>;NPC-Carter(0)||:그리폰과 안전국의 잔여 부대는 어떻게 하겠습니까?
+NPC-Yegor(2);NPC-Carter(0)<Speaker>카터</Speaker>||:전부 섬멸해라, 한 명도 빠짐없이.
+NPC-Yegor(2)<Speaker>예고르</Speaker>;NPC-Carter(0)||:알겠습니다.
+NPC-Yegor(2)<Speaker>예고르</Speaker>||:여기는 예고르, 엘더브레인은 자율 부대가 정거장으로 운송한다, 장갑 부대는 내 지휘에 따라 나머지 테러리스트를 섬멸한다.
+NPC-Yegor(2)<Speaker>병사</Speaker>||<黑点1>:네!
+AK12(2)<Speaker>AK12</Speaker>||<BIN>98</BIN><黑点2>:안젤리아! 군의 탱크가 늘어났어요!+지금 머리를 돌려 우리 쪽으로 오고 있어요!
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:칫! 이미 엘더브레인이 예고르 손에 잡힌 건가!+최악의 상황이 돼버렸어...!+.........+최종수단......+결국은 최종수단을 써야 할 때가... 온 건가......
+NPC-Ange(0)<Speaker>NPC-Ange</Speaker>||<BIN>134</BIN>:
+M4A1Mod(0)<Speaker>M4A1Mod</Speaker>||<BIN>98</BIN><BGM>BGM_Empty</BGM>:
+M4A1Mod(0)<Speaker>M4A1Mod</Speaker>||<BIN>134</BIN>:
+M4A1Mod(4)<Speaker>M4A1Mod</Speaker>||<BIN>98</BIN>:
+M4A1Mod(4)<Speaker>M4A1Mod</Speaker>||<BIN>134</BIN>:
+M4A1Mod(4)<Speaker>M4A1Mod</Speaker>||<BIN>98</BIN>:
+M4A1Mod(4)<Speaker>M4A1Mod</Speaker>||<BIN>134</BIN>:
+M4A1Mod(4)<Speaker>M4A1Mod</Speaker>||<BIN>9</BIN><黑屏1>5</黑屏1>:
+M4A1()<Speaker>M4A1</Speaker>||<BIN>134</BIN><黑屏2><BGM>BGM_stage10</BGM>:...윽!
+미지의 소리()<Speaker>미지의 소리</Speaker>||:기억해? 처음 살인할 때의 느낌?+그 두려움, 불안함, 하지만 복수의 쾌감에.+넌 그만둘 수가 없었지.
+M4A1()<Speaker>M4A1</Speaker>||:...
+미지의 소리()<Speaker>미지의 소리</Speaker>||:넌 그들을 하나둘씩 죽였어, 마치 개미를 하나둘 쥐어 죽이듯이.+인형이 되어서도 똑같은 짓을 할 수 있을까?
+M4A1()<Speaker>M4A1</Speaker>||:닥쳐! 꺼져!+지금 내가 하지 못할 짓 따윈 없어!
+미지의 소리()<Speaker>미지의 소리</Speaker>||:지금 이곳의 인형과 인간들을 희생한다 해도?
+M4A1()<Speaker>M4A1</Speaker>||:...
+M4A1()<Speaker>M4A1</Speaker>||<震屏><黑屏1>:닥쳐! 닥치라고!!
+M4A1Mod(4)<Speaker></Speaker>||<BIN>98</BIN><黑屏2>:M4는 기폭스위치를 내려보았다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:M4! 지금 터뜨려!
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:안젤리아 씨...
+AK12(2)<Speaker>AK12</Speaker>||:...설마 지금 여기서 그걸...?!
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:여유가 없다고!
+AK12(2)<Speaker>AK12</Speaker>||:지금 이 거리에서 살아남을 수 있다고 생각해?
+NPC-Ange(0)<Speaker></Speaker>||:안젤리아는 AK12를 바라보았다.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:괜찮아, 너희는 임무를 계속할 수 있어.
+AK12(2)<Speaker>AK12</Speaker>||:당신은 괜찮다 치더라도, 그리폰의 지휘관을 생각해 봐!+아직도 군과 싸우고 있단 말이야!
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그럴 여유 없어! M4! 터뜨려!
+M4A1Mod(4)<Speaker>M4A1</Speaker>||:제길! 기폭합니다!
+()||<震屏><SE1>Explode</SE1><黑屏1>:
+()||<BIN>9</BIN><黑屏2>:M4는 스위치를 눌렀다.+귀청이 날아갈 듯한 폭음이 저 멀리에서 전해져오고, 강렬한 충격파가 뒤를 이었다.
+안젤리아()<Speaker>안젤리아</Speaker>||:엎드려! 모두 엎드려!
+M4A1()<Speaker>M4A1</Speaker>||:15! 절 붙잡아요! 날아가지 않게!
+AR15()<Speaker>AR15</Speaker>||<黑屏1>:말 안해도 꽉 잡고 있어!
+()||<BIN>124</BIN><黑屏2>:...
+()<Speaker>안젤리아</Speaker>||:적 상황 알 수 있을까...?
+()<Speaker>AK12</Speaker>||:신호가 엉망이야, 신호 탐지는 불가능해.
+()<Speaker>AN94</Speaker>||:육안 관측...+붕괴액 설치 포인트 500m 범위 내 일체 증발, 잔존 적 병력 없음.
+()<Speaker>안젤리아</Speaker>||:분명 그쪽도 엉망이 됐을 터… 지금 이 때에── 콜록...!
+()<Speaker>M4A1</Speaker>||<BIN>125</BIN>:피? 안젤리아 씨!
+()<Speaker>안젤리아</Speaker>||:별거 아냐, 살짝 피폭당했을...... 뿐이니까...+콜록! 콜록!+뭘 봐 인마! ...얼른 움직이지 않고!
+()<Speaker>AK12</Speaker>||:그럼 안젤리아는?
+()<Speaker>안젤리아</Speaker>||:날 신경 써서 어쩌려고?! 엘더브레인을 쫓아! 임무를 완수해! M4!
+()<Speaker>M4A1</Speaker>||:알겠습니다!
+()<Speaker>안젤리아</Speaker>||:리벨리온 소대를 이끌고...+반드시… 반드시 엘더브레인을 데려와!
+()<Speaker>M4A1</Speaker>||<BIN>126</BIN><黑屏1>:...네! 모두 따라오세요!

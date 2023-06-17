@@ -1,0 +1,88 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BGM>BGM_Saga_Song_2</BGM><黑点2><BIN>600</BIN><SE1>AVG_Rromantic</SE1><common_effect>%%code=CJ_piaodai%%</common_effect>:――둥 둥 둥!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:마지막 박자와 함께 깔끔한 안무가 동시에 끝났다.
+()<Speaker>관중</Speaker>||<SE1>AVG_20Winter_Bar_Cheering_V2</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:<size=50>와아아아아아――!!!</size>
+()<Speaker></Speaker>||:프랑슈슈 모두가 각자의 파트를 정확하게, 그리고 평소보다 훨씬 더 훌륭하게 해냈다.+고막이 터질 것만 같았지만 당신의 심장 고동 때문인지 관객들의 우레와 같은 호응 때문인지는 아무래도 좋았다.
+()<Speaker>미나모토 사쿠라</Speaker>||:모두――! 고마워요――!
+()<Speaker>관중</Speaker>||<震屏3>:<size=50>앵콜!! 앵콜!! 앵콜!!</size>
+()<Speaker></Speaker>||:사쿠라의 감사 인사가 관객들의 앵콜 요청에 묻혀버렸다.+이에 얼굴의 땀을 훔치던 프랑슈슈는 반짝이는 눈빛을 교환했다.+백스테이지서 OK 신호가 떨어지자, 사쿠라가 정중하게 고개를 끄덕였다.
+()<Speaker>미나모토 사쿠라</Speaker>||:고마워요, 여러분! 마지막 앵콜로, 저희의 오리지널 곡입니다!
+()<Speaker>니카이도 사키</Speaker>||<震屏3>:<size=50>앞으로도 잘 부탁한다아아!!!</size>
+()<Speaker>관중</Speaker>||<BGM>BGM_Empty</BGM><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:<size=50>꺄아아 프랑슈슈 앵콜 파티――!!!</size>
+()<Speaker></Speaker>||<BGM>BGM_Saga_AVG_Live_Good</BGM>:완벽한 공연엔 완벽한 마무리가 필요한 법. 프랑슈슈가 바로 새로훈 대형을 잡았다.+하지만 오늘 당신의 역할은 끝났다.+그러니, 이제 백스테이지로 돌아가 모두와 함께 축하할 준비를 할 차례였다.
+()||<黑点1>:
+()<Speaker>지휘관</Speaker>||<黑点2><BIN>595</BIN><关闭蒙版>:죄송합니다, 좀 지나갈게요!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:관객들이 앵콜 공연을 즐기는 것을 방해하지 않도록, 당신은 최대한 몸을 숙이고 출구로 향했다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale><Shake>0.1</Shake>||<SE1>AVG_flag</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:<size=50>꺄아아아프랑슈슈우우우우!!!</size>
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:은발의 가면 소녀가 한쪽 좌석에서 미친듯이 헤드뱅잉을 해서, 엄청난 각도로 흔드는 머리에 보는 사람이 그녀의 목뼈가 걱정될 정도였다.+일단은 아는 얼굴이니 당신은 잠깐 망설였지만, 이내 단념하고 다시 출구로 향했다.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale><Shake>0.1</Shake>||<SE1>AVG_flag</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:<size=50>끼야아아프랑슈슈우우우우!!!</size>
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:길을 가로막은 열성팬은 그냥 치워버렸다.
+()||<黑点1><SE1>AVG_20Winter_Door_Open</SE1>:
+()<Speaker></Speaker>||<黑点2><BIN>553</BIN><Night><BGM>BGM_Empty</BGM><SE1>AVG_20Winter_Door_Close</SE1>:백스테이지의 복도로 오니, 프랑슈슈의 노래는 음량이 절반쯤 막혀 비교적 조용했다.+스태프들마저 창가에 기대어 공연을 구경하니 마치 전 세계가 프랑슈슈를 응원하는 것 같아 뿌듯했지만, 당신은 축하 준비를 해야 하기에 조용히 지나쳤다.+그런데 창문을 넘어 점점 길어져 가는 밤의 장막 사이로, 익숙한 여성이 VVVIP 대기실의 문 옆에서 당신을 기다리고 있었다.
+NPC-Kalin(1)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<BGM>m_19christmas_theme</BGM>:축하해요 지휘관 씨, 프랑슈슈의 공연이 대성공이네요.
+NPC-Kalin(1)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||:콜라보레이션 제의하러 오셨습니까?+오늘은 좀 많이 피곤하니 내일 얘기하죠.
+NPC-Kalin(3)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:아뇨, 전 그냥... 축하드리러 왔을 뿐이에요.
+()<Speaker>지휘관</Speaker>||:예, 정말 고맙습니다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:당신은 예의 있게 옆으로 길을 내어 주었다.+하지만 그녀는 움직이지 않고 호기심 어린 눈을 깜빡였다.
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:초면엔 제 손을 붙잡고 그리폰으로 돌려보내 달라 빌었던 사람이...+지금은 왜 이렇게 쌀쌀맞으실까?
+NPC-Kalin(0)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||:그건 당신이 제가 아는 카리나가 아님을 깨달아섭니다.
+NPC-Kalin(2)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:아하...?
+NPC-Kalin(2)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||:그래도 진심으로 감사는 드립니다, 그레이 트리의 멤버를 팬으로 위장시켜서 프랑슈슈를 도와줬잖습니까.
+NPC-Kalin(3)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:네? 그건 무슨 뜻인지 모르겠는데요.
+NPC-Kalin(3)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||:G11, 그레이 트리의 미스테리한 키보더 말입니다.+어떡해야 프랑슈슈가 그레이 트리를 꺾을 수 있을지 고민하던 때에 그녀가 와서 도와줬습니다.
+NPC-Kalin(2)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:G11이 그런 짓을 했다고요?!
+()<Speaker>지휘관</Speaker>||:......?+뭐어 아무튼, 전 이만 들어가보겠습니다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:당신은 문을 열어, 카리나를 내버려두고 VVIP 룸 안으로 들어가려던... 그때였다.
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:잠시만요. 지휘관 씨, 당신이 말한 그 그리폰 말인데요...
+NPC-Kalin(0)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||:뭐죠?
+NPC-Kalin(1)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<BGM>BGM_Empty</BGM>:"당신이 아는 카리나"는... 당신이 돌아오길 기다리고 있겠죠?
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:복잡한 심경에 고개를 돌려 "카리나"에게 대답하려 했지만, 그녀는 이미 떠나고 없었다.
+()||<黑点1><SE1>AVG_20Winter_Door_Close</SE1>:
+()<Speaker></Speaker>||<黑点2><BIN>470</BIN><关闭蒙版><BGM>BGM_Saga_AVG_Dusk</BGM>:조용한 VVVIP 대기실 안.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:당신이 벽에 걸린 프랑슈슈의 장식품을 어루만지니, 함께 벽을 장식할 때의 웃음소리가 아직도 귓가를 맴도는 것 같았다.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:무대 중계 스크린을 통해, 프랑슈슈가 이미 무대에서 내려온 것이 보였다.+완벽한 공연이 완벽하게 마무리된 모양이었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그걸 본 당신은 뿌듯한 마음으로 소파에 누워, 이 찰나의 한가함을 만끽했다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:그리고 타이밍 좋게 휴대폰이 문자 메시지 착신음을 냈다.
+()<Speaker>미나모토 사쿠라</Speaker>||:<color=#00CCFF>지휘관, 바로 갈게요!</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:당신은 싱긋 웃으며 샴페인을 꺼내려다 잠깐 망설이고, 우선 커피부터 한 잔 마시기로 했다.+샴페인은 프랑슈슈와 함께 축배를 들 때를 위해 남겨 두어야 하니까.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:마지막 남았던 긴장도 푼 당신은 조용히 눈을 감고, 완벽한 순간이 도래하기를 기다렸다.+검은 액체를 입가에 가져다 대면서.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:씁쓸한 인스턴트 커피의 맛을 음미하니, 당신 주위의 세상도 새까매진 것 같았다.
+()<Speaker></Speaker>||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1><BGM>BGM_Empty</BGM>:파도가 배의 밑바닥에 부서지는 소리.+그리고 바닷가 특유의 짭조름한 공기에 섞인, 어렴풋한 꽃향기.
+()<Speaker>지휘관</Speaker>||:......뭐야?+뭐가 어떻게 된 거야?!
+()<Speaker></Speaker>||:위화감에 눈을 번쩍 떴지만 주위는 여전히 온통 깜깜했다.
+()<Speaker>？？？</Speaker>||:너의 노력으로 저 아이들은 완벽한 성과를 거두었다.+허나 운명의 바퀴는 다시 돈다.
+()<Speaker>지휘관</Speaker>||:뭐야, 너 누구야? 그게 무슨 소리야?
+()<Speaker>？？？</Speaker>||:삶이란 한 그루의 나무. 시간은 비처럼 나무 위로부터 흘러내려, 모든 나뭇가지를 적시지.+나뭇가지마다 어떤 열매가 맺힐지, 너도 알고 싶지 않나?
+()<Speaker>지휘관</Speaker>||:말을 좀 알아듣게 해!
+()<Speaker>？？？</Speaker>||:이미 시작된 모든 것은 지금도 멈추지 않는다.
+()<Speaker></Speaker>||:파도가 부서지고, 수면을 가르는 소리. 이 배는 지금 바다 위를 빠르게 달리고 있었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1><睁眼><BIN>82</BIN>:눈이 뜨였다.+지금 당신은 포근한 담요를 덮은 채 바닥에 누워있었다.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||<BGM>BGM_Hello</BGM>:어휴, 드디어 일어나셨네요.
+()<Speaker>지휘관</Speaker>||:뭐지...
+()<Speaker></Speaker>||:머릿속이 새하얬다. 엄청 긴 꿈을 꾼 것 같은데, 내용이 전혀 기억나질 않았다.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:침대서 굴러떨어지셨더라고요, 제가 일찍 발견해서 다행이지...
+NPC-Kalin(4)<Speaker>지휘관</Speaker><同时置暗>||:나는...
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:어디 편찮은 곳은 없으세요?
+NPC-Kalin(4)<Speaker>지휘관</Speaker><同时置暗>||:음... 늦잠 잔 모양이네... 그리고 엄청 긴 꿈을 꾼 것 같은데...
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:오, 무슨 꿈이었는데요?
+NPC-Kalin(2)<Speaker>지휘관</Speaker><同时置暗>||:꿈 속에... 네가 있었던가?+아니, 너면서 네가 아닌 듯한...
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:대, 대체 무슨 소릴 하시는 거예요, 정말이지...
+()<Speaker></Speaker>||:카리나는 투덜대며 당신에게 컵을 내밀었다.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||<SE1>AVG_21Winter_Medicine_Bottle</SE1>:자요, 약 드세요.
+()<Speaker>지휘관</Speaker>||:어, 어어...
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:좀 더 푹 쉬세요, 오늘 회의는 제가 대신 참석할 테니까요.
+NPC-Kalin(0)<Speaker>지휘관</Speaker><同时置暗>||:...고마워.
+NPC-Kalin(8)<Speaker>카리나</Speaker>||<震屏3>:그리고... <size=50>또 몰래 게임하기만 해봐요!</size>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:방의 쓰레기를 치워 준 카리나는 나가기 전, 모니터 화면을 가리키며 버럭 경고했다.
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:문이 닫힌 뒤, 당신은 멍하니 그 모니터를 바라봤다. 화면은 여전히 그 선택지 앞에 머물러 있었다.+유치하고 우스꽝스러운 선택지를 다시 보니 피식 웃음이 났다.
+()<Speaker></Speaker>||:<color=#FFFF00>[다음 중 당신이 좋아하는 아이돌은 무엇입니까?]</color><c>A 상냥하고 활기 넘치는 메이드 아이돌<c>B 심장까지 휘어잡는 도도한 인형 아이돌<c>C 노래도, 랩도, 농구도 잘하는 올라운더 좀비 아이돌
+()<Speaker></Speaker>||:당신은 그냥 아무 선택지나 고르고선 일어나 방 정리를 시작했다.+커서가 당신의 결정을 무시하고, 스스로 C로 향하는 것도 모른 채.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>9</BIN><SE1>AVG_Card_Reader</SE1>:딸깍.+운명의 바퀴가 다시 움직이기 시작했다.
+()||<黑点1>:

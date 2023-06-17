@@ -1,0 +1,121 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BGM>GF_22W_BGM_2</BGM><黑屏2><narrator><BIN>446</BIN>:아베르누스 동탑 내부.+아이네이아스 작전, 제0단계.+목표 - 안나 빅토로브나 최.+아이네이아스 작전, 현재 상황을 저장 중...+제0단계 - 진도 99%.
+()<Speaker></Speaker>||:아베르누스의 숨막히도록 역겨운 비린내가 RO635의 무너지기 직전인 마인드맵을 압박했다.+그럼에도 아직 이성의 끈을 놓지 않은 이유는, 아직 목표인 안젤리아를 찾아내지 못했기 때문이었다.+지금 그녀는 "콜레다"라는 이름의 검은 니토를 위협해, 안젤리아가 수감된 실험실로 향하고 있었다.
+RO635Mod(3)<Speaker>RO635</Speaker>||:콜레다... 넌 대체 누구야?
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:보다시피야. 검은 니토, 콜레다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:......
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:그렇게 그녀를 보고 싶다면 데려다 줄게.+하지만 보면 바로 알게 될 거야.+그녀는 너와 함께 여길 떠날 수 없어.
+()<Speaker></Speaker>||:아이네이아스 작전팀의 거의 모두와 통신이 두절된 상황에서, RO635는 지금 마지막 희망이나 마찬가지였다.+그러니 절대 여기서 포기할 수 없었다.
+RO635Mod(4)<Speaker>RO635</Speaker>||:웃기지 마, 무슨 일이 있어도 데려가겠어.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>657</BIN><黑屏2><SE1>AVG_footsteps_cave</SE1>:말은 그렇게 하면서도, 콜레다는 금속 발굽으로 바닥을 두드리며 저항 없이 앞장섰다.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:게다가 이곳은 아주 은밀한 통로인지, 여기까지 오면서 다른 패러데우스 병사가 하나도 보이지 않았다.
+()||<黑点1><SE1>AVG_keyboardtype_sci</SE1><SE1>AVG_BaseDoor_Open</SE1>:
+()<Speaker></Speaker>||<BIN>510</BIN><黑点2>:콜레다가 능숙한 손놀림으로 패널을 두드리자 자동문이 열렸고, 그 너머로 드러난 실험실 깊은 곳에 새하얀 유리방이 보였다.
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||<SE1>ClothingUp</SE1>:저 안에 안젤리아가 있어.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:콜레다가 가리킨 방향을 보니 과연, 하얀 방 중앙에 한 여성이 누워 있었다. 호흡에 따라 가슴이 기복했지만, 매우 미약했다.+방 문의 붉은 패널과, 그 위의 액정 화면에 버젓이 적힌 "피험자 - 안젤리아".+아무래도 온 몸에 꽂혀, 이 순간에도 온갖 색의 정체불명인 액체를 주입 중인 도관들 덕분에 그녀는 허약하게나마 목숨을 부지하고 있는 것처럼 보였다.
+RO635Mod(3)<Speaker>RO635</Speaker>||:......
+RO635Mod(4)<Speaker>RO635</Speaker>||<SE1>RunStep</SE1><震屏3>:안젤리아!
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:RO635가 한걸음에 달려가 문을 열려고 패널을 해독하려 했지만, 이 잠금장치는 전원이 끊어진 것마냥 아무런 반응이 없었다.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch</SE1>:초조함에 하얀 유리벽을 쾅쾅 두드리며 안젤리아를 불러 보았지만...+당연하게도 아무런 소용이 없었다.
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:말했잖아, 데려갈 수 없다고.
+RO635Mod(4)<Speaker>RO635</Speaker>||:제기랄! 대체 무슨 짓을 한 거야!
+RO635Mod(4)<Speaker>RO635</Speaker>||<SE1>AVG_Punch</SE1><震屏3>:이 빌어먹을 방... <size=50>말해! 이거 어떻게 열어!</size>
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:소용없어.+이 방은 "순백의 형벌"을 위한 방. 새하얀 인테리어로 수감자의 감각을 마비시키고 정신을 무너뜨리지.+내벽도 아주 단단해. 백번 양보해서 네가 억지로 부수더라도, 안젤리아의 안전은 보장할 수 없어.
+RO635Mod(0)<Speaker>RO635</Speaker>||:......
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:그리고 이 자물쇠의 암호는 너만으로는 해독 못해. 열거법으로 섣불리 건드렸다간 완전히 잠겨버리고 말 거야.
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:이 방의 통풍구도, 직경 5cm가량에 동탑의 여과 장치로 직통이지.
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:네가 떠올릴 만한 방법은 내가 이미 다 시도해봤어.
+RO635Mod(4)<Speaker>RO635</Speaker>||:그럼... 넌 한가하게 뭘 기다리고 있는데...!
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:몰라.+그녀의 심박수가 0이 되는 순간이라던가?
+RO635Mod(4)<Speaker>RO635</Speaker>||:그렇게 되면...?
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:그럼 진정한 복수를 시작할 수 있게 되지.+약점 잡힐 걱정 없는 복수.
+RO635Mod(4)<Speaker>RO635</Speaker>||:...그건 동의 못해. 지휘관님도 동의하지 않을 거야!
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:지휘관이 너만 보내진 않았지?+그런데 너만 여기 도달했다는 건, 같은 리더로서 다른 이들이 지금 어떤 상황인지 짐작할 수 있어.+그만 돌아가. 잘하면 한두 명 정도는 구할 수 있을지도 몰라.
+RO635Mod(0)<Speaker>RO635</Speaker>||:......
+()||<黑屏1>:
+()<Speaker>UMP45</Speaker>||<黑屏2><BIN>9</BIN>:...실망시키지 마.
+()<Speaker>아키텍트</Speaker>||:야...! 우리 약속 지켰다? 끝까지 버텼어!
+()<Speaker>SOP2</Speaker>||:응! 난 RO 믿어! <size=50>약속할게――!!!</size>
+()||<黑屏1>:
+RO635Mod(0)<Speaker>RO635</Speaker>||<黑屏2><BIN>510</BIN>:...안 돼.
+RO635Mod(4)<Speaker>RO635</Speaker>||:난 모두의 의지를 짊어지고 여기까지 왔어. 이대로 포기할 수 없어.+이거, 페르시카 씨가 안젤리아 씨에게 전하라 한 "철완"이야. 이게 있으면 저쪽에서 안젤리아 씨의 위치를 특정할 수 있어.+안젤리아 씨가 의식을 되찾으면 구출할 기회를 만들어낼 수도 있다고.
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:...정말 순진하고 고집 세구나.
+RO635Mod(4)<Speaker>RO635</Speaker>||:...마지막까진 모르는 법이지.
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:마침 궁금한 게 하나 있어.
+RO635Mod(3)<Speaker>RO635</Speaker>||:뭔데?
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:2061년, 안젤리아는 왜 너희가 아니라 우리를 선택했을까?
+RO635Mod(0)<Speaker>RO635</Speaker>||:......
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:그녀가 지옥의 문 앞에 선다면, 우리는 기꺼이 그녀와 함께 뛰어내리겠지.+하지만 너희는 벼랑 끝에 매달려, 그녀를 붙잡고 절대 놓지 않을 거지?
+RO635Mod(0)<Speaker>RO635</Speaker>||:....당연하지.
+()<Speaker></Speaker>||:널따란 실험실에 잠시 침묵이 흘렀다.
+()||<黑屏1>:
+()<Speaker>콜레다</Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN>:......좋아, 그럼 어디 한번 해보자.
+()||<黑屏1>:
+()<Speaker>아베르누스 헬라</Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_2023Slow_Heart_Monitor1</SE1>:시간 교정 준비——
+()<Speaker>아베르누스 헬라</Speaker>||:출혈량 총 1,000cc. 바이탈 사인 정상...+20.01 주신경망 접속 수술 완료.+지금부터 번호 02.12 수술을 시작한다.
+()<Speaker>아베르누스 헬라</Speaker>||<SE1>ClothingUp</SE1>:메스.+1호 조수, 반대쪽으로 당기는 거 주의해.
+()<Speaker></Speaker>||:......+뚫을 수도, 넘을 수도 없는 어둠.
+()<Speaker></Speaker>||<SE1>Select</SE1>:그런데, 난데없이 어둠의 한가운데서 금속광택을 뽐내는 총구가 솟아나더니...
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:불꽃을 뿜으며 총알 한 발이 튀어나와, 이쪽을 향해 날아들었다. 기억 속의 얼굴들을 한 장 한장 깨뜨리며, 적막한 어둠마저 깨뜨리며.
+()||<黑屏1><SE1>AVG_2023Slow_Fall_into_water_v2</SE1>:
+NPC-Ange(8)<Speaker>안젤리아</Speaker>||<黑屏2><BIN>569</BIN>:......여기는... 어디지?
+()<Speaker></Speaker>||<BGM>GF_2022_Summer_AVG_2</BGM>:호수 아래에서, 눈앞에 윤곽만 간신히 보이는 그림자가 아른거렸다.
+NPC-Ange(8)<Speaker>안젤리아</Speaker>||:너... 누구야?
+NPC-MrsGray(6)<Speaker>？？</Speaker>||:......
+()<Speaker></Speaker>||:간신히 윤곽만 보였지만, 보자마자 누군가가 떠올랐다.
+NPC-Ange(8)<Speaker>안젤리아</Speaker>||:...그레이?+그레이냐?
+NPC-Ange(8);NPC-MrsGray(6)<Speaker>？？</Speaker>||:......+저를 아시나요?
+NPC-Ange(8)<Speaker>안젤리아</Speaker>;NPC-MrsGray(6)||:이상하다... 왜 얼굴이 잘 안 보이지...
+NPC-Ange(8);NPC-MrsGray(6)<Speaker>？？</Speaker>||:저도예요.+저기... 저와 아는 사이인가요?
+NPC-Ange(8)<Speaker>안젤리아</Speaker>;NPC-MrsGray(6)||:우린 적이야.
+NPC-MrsGray(6)<Speaker>？？</Speaker>||:...그렇군요. 그래도 기뻐요.+저를 알아보는 사람이 나타나서.+저의 이름을 불러 주어서.
+NPC-Ange(8)<Speaker>안젤리아</Speaker>||:여긴 어디지?
+NPC-MrsGray(6)<Speaker>그레이</Speaker>||<SE1>ClothingUp</SE1>:"의식의 호수"예요.
+()<Speaker></Speaker>||:안젤리아는 이 얼굴이 잘 안 보이는 그레이를 경계했다.+어쨌든 "그레이"거니와, 어째선지 자신이 아는 그녀의 인상과 많이 달랐으니까.
+NPC-Ange(8)<Speaker>안젤리아</Speaker>||:너... 갈라테아의 그레이 맞지?
+NPC-MrsGray(6)<Speaker>그레이</Speaker>||:......+그건 모르겠네요.
+NPC-Ange(8)<Speaker>안젤리아</Speaker>||:무슨 뜻이야?
+NPC-MrsGray(6)<Speaker>그레이</Speaker>||:저는 인간이 아니에요.+당신도 인간이 아니고요.+우리는 그저, 한 토막 기억에 불과할 뿐이에요.+어느 인간의 어느 한 순간에 지나지 않아요.
+NPC-MrsGray(6)<Speaker>그레이</Speaker>||:그래서 제가 그녀인지를 묻는다면...+모른다고 답할 수밖에 없어요.+당신이 말하는 "그녀"가 언제의 "저"인지도 모르고...+제가 과연 당신이 말하는 "그녀"의 일부인지도 몰라요.+추출된 저의 기억은 2051년까지만이니까.
+NPC-Ange(8)<Speaker>안젤리아</Speaker>||:......+네 말은...+내가... 죽었다고?
+NPC-MrsGray(6)<Speaker>그레이</Speaker>||:보통 "성배" 수술을 받은 망자의 기억파편만이 의식의 호수에 도달하죠.
+NPC-Ange(8)<Speaker>안젤리아</Speaker>||:넌 아니야?
+NPC-MrsGray(6)<Speaker>그레이</Speaker>||:저는...... 이 수술의 고안자예요.
+NPC-Ange(8)<Speaker>안젤리아</Speaker>||:......너였군.+모든 것의 원흉이 바로 너였어.
+NPC-MrsGray(6)<Speaker>그레이</Speaker>||:...아마도요.
+NPC-Ange(8)<Speaker>안젤리아</Speaker>||<SE1>Rope</SE1>:부정도 안 하네?
+NPC-MrsGray(6)<Speaker>그레이</Speaker>||:......+제르튀르너가 아편에서 모르핀을 추출한 것도 진통제로 쓰기 위함이었잖아요. 그것이 판도라의 상자를 연 것임을, 그땐 누가 알았을까요?
+NPC-MrsGray(6)<Speaker>그레이</Speaker>||:기술이란 자주 이렇게, 의도와 실제 활용이 전혀 다를 때가 많아요.
+NPC-Ange(8)<Speaker>안젤리아</Speaker>||:그럼 넌 이 수술을 무슨 목적으로 고안했는데?
+NPC-MrsGray(6)<Speaker>그레이</Speaker>||:......어느 여자아이의 목숨을 구하기 위해서.
+NPC-Ange(8)<Speaker>안젤리아</Speaker>||:걔 이름이 뭔데.
+NPC-MrsGray(6)<Speaker>그레이</Speaker>||:사나.
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=3</controll_shake><SE1>AVG_splash_water</SE1><common_effect>%%code=AVG_qipao%%</common_effect>:부글... 부글...+돌연 저 위의 수면에서 파동이 일어났다. 소용돌이처럼 무언가 거대한 힘이 호수를 두들기는 것이었고, 바닥에서도 그것이 느껴졌다.
+()||<黑屏1>:
+NPC-MrsGray(6)<Speaker>그레이</Speaker>||<关闭蒙版><黑屏2><SE1>ClothingUp</SE1>:이쪽으로 오세요.
+NPC-Ange(8)<Speaker>안젤리아</Speaker>||<SE1>Heartbeat</SE1>:뭔가... 뭔가가... 나를 부르는 것 같아...
+NPC-MrsGray(6)<Speaker>그레이</Speaker>||:어쩌면 당신의 의식이 완전히 분리되지 않아서, 아직 생물학적으로 사망하지 않은 걸지도 모르겠네요.
+NPC-Ange(8)<Speaker>안젤리아</Speaker>||:...그럼 돌아갈 수 있어?+난 돌아가야 할 이유가 있어.
+NPC-MrsGray(6)<Speaker>그레이</Speaker>||:저기, 보이시나요?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:사방으로 고개를 돌렸지만, 여전히 끝이 보이지 않는 호숫물밖에 보이지 않았다.
+NPC-MrsGray(6)<Speaker>그레이</Speaker>||:위.
+NPC-Ange(8)<Speaker>안젤리아</Speaker>||:저건...
+()||<白屏1>:
+()<Speaker></Speaker>||<白屏2><BIN>462</BIN><common_effect>%%code=CJ_WC_piaofu%%</common_effect>:마찬가지로 끝은 안 보이지만, 무지갯빛으로 빛나는 천장.+아니, 빛의 스펙트럼을 내뿜는 다이아몬드 다리?+어느 쪽이든, 햇빛이 굴절되어 어지러울 정도로 아름다운 거대한 무지개였다.
+()<Speaker>그레이</Speaker>||:아름답죠?+저건 광학 위상 간섭 현상이에요.+우리의 머리 위엔 거대한 빙산이 깔려 있죠.
+()<Speaker>그레이</Speaker>||<BGM>BGM_Empty</BGM>:돌아가려면, 저걸 뚫고 나가야 해요.
+()<Speaker>안젤리아</Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>510</BIN><关闭蒙版><黑屏2><BGM>GF_22W_BGM_2</BGM>:아베르누스 동탑, 수술층 감시실.
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:안젤리아를 데리고 나가고 싶다면, 지금부터 내가 하는 말을 오차 없이 그대로 따라서 실행해.
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:열몇 시간 전, 안젤리아는 수술을 받았어.+그리고 여기로 실려와 저 상태로 여태까지 깨어나지 않았고, 도중에 응급조치까지 몇 번 받은 뒤에야 겨우 여기에 스태프가 소집됐어.+놈들은 아마 저 기구들로 안젤리아의 상태를 모니터링하고 있겠지. 우리가 안젤리아를 데려가려 하면, 분명 경보를 울려서 말썽을 일으킬 거야.
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:하지만 무작정 모니터링을 끊어버리면 산소 공급에 영향이 가서 안젤리아의 목숨이 위험해질 수 있어.
+RO635Mod(0)<Speaker>RO635</Speaker>||:그럼 이 감시 장치들을 우회해야겠군.
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:맞아. 지금 전자 지도를 네게 전송했어.+지금 우리가 있는 곳은 아베르누스의 수술층이야. 중앙상황실까지 얼마 안 걸리는 위치지.+내가 관찰한 바로는, 여긴 인력 부족으로 방어가 취약한 편이야. 출입하는 이는 거의 의무, 혹은 연구직이지.
+RO635Mod(0)<Speaker>RO635</Speaker>||:어쩐지 오면서 아무런 방해도 없더라니.
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:그래도 최대한 은밀하게 움직이도록 해. 소란 때문에 안젤리아를 다른 곳으로 옮기거나 한다면 말짱 도루묵이 되어버리니까.
+RO635Mod(0)<Speaker>RO635</Speaker>||:...주의할게.
+NPC-Koleda(0)<Speaker>콜레다</Speaker>||:어서 가. 난 여기서 기다릴게.
+()||<黑点1>:

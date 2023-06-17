@@ -1,0 +1,101 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>533</BIN><黑屏2><Night><narrator>:대륙간 열차 "미래호", F01호 객차.
+()<Speaker></Speaker>||:정화 시스템은 여전히 부웅 소리를 내며 끊임없이 돌아갔다.+특등석 객차 안의 사람들은 곤히 잠들었고, 방금 막 젤리를 다 먹은 로시타만 깨어있었다.
+()<Speaker></Speaker>||<SE1>AVG_BaseDoor_Open</SE1>:갑자기 문이 열렸다.+그녀는 눈이 안 보이기에 더 똑똑히 들었다.
+()<Speaker>승객A</Speaker>||:누구야?+누가 문 열었어?
+()<Speaker>승객B</Speaker>||:쳐들어온 거야?
+()<Speaker></Speaker>||<关闭蒙版><SE1>AVG_21Winter_Open_Light</SE1>:팟.
+()<Speaker>승객A</Speaker>||:<size=50>누군가 들어왔어!!!</size>
+()<Speaker>승객B</Speaker>||:총을 들고 있잖아!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:어둠 속에서 후드를 뒤집어쓴 인형이 서서히 모습을 드러냈다.
+Erma(4)<Speaker>엘마</Speaker>||<BGM>GF_EV9_Intermission</BGM>:...한 사람만 해치우면 돼요.+그러면 우리 다 살아남을 수 있어요.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:...자넨 그때의 그 인형인가? 엘마라고 했던가?
+()<Speaker></Speaker>||<SE1>Select</SE1>:엘마가 총을 들었다.
+Erma(4)<Speaker>엘마</Speaker>||:...모두, 당장 자리에서 일어나세요.
+()<Speaker></Speaker>||:손에 총을 들고 있으니 아무도 거역할 수가 없었다.+1호 차량 안의 승객들이 일제히 일어나는 순간,+구석에 누워있는 한 명이 유난히 눈에 띄였다.
+()<Speaker>？？？？</Speaker>||:......+후우...
+()<Speaker></Speaker>||:은발 소녀가 나른하게 구석 자리에 앉아, 이마를 벽에 기댄 채 고른 숨을 쉬고 있었다.
+Erma(4)<Speaker>엘마</Speaker>||:......
+()<Speaker></Speaker>||<SE1>Rope</SE1>:엘마는 총을 단단히 쥐고 은발 소녀 앞으로 다가갔다.+온 신경을 연산에 집중하고 있는지, 소녀는 엘마가 다가와도 전혀 반응이 없었다.
+Erma(4)<Speaker>엘마</Speaker>||:......
+()||<黑屏1>:
+ColtWalker(1)<Speaker>매기</Speaker>||<黑屏2><SE1>ClothingUp</SE1><回忆><BIN>527</BIN><边框>2</边框>:여기 총알 몇 발이 남아있어, 녀석의 머리에 대고 쏴.+지근거리라면 총을 아무리 못 쏴도 할 수 있어.
+Erma(2)<Speaker>엘마</Speaker>||<边框>2</边框>:...이거 대체 언제 적 총이야?
+ColtWalker(3)<Speaker>매기</Speaker>||<边框>2</边框>:콜트 워커, 내가 사람을 처음 죽일 때 쓴 총이야.
+Erma(1)<Speaker>엘마</Speaker>||<边框>2</边框>:......
+()||<黑屏1><边框>2</边框>:
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||<回忆><黑屏2><BIN>420</BIN><边框>2</边框>:......+너 화기관제 코어는 달고 있어?
+()<Speaker></Speaker>||<边框>2</边框>:엘마는 몇 초간 침묵했다.
+Erma(1)<Speaker>엘마</Speaker>||<边框>2</边框>:그건 모르겠어요.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||<边框>2</边框>:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><边框>2</边框>:류드밀라는 장갑을 벗어 엘마의 손을 잡았다.
+()||<黑屏1><边框>2</边框>:
+()<Speaker>？？</Speaker>||<黑屏2><BIN>249</BIN><回忆><边框>2</边框>:너의 이름은 이 총의 이름이기도 하단다.
+Erma(0)<Speaker>엘마</Speaker>||<边框>2</边框>:...Erma EMP.+엘마.
+()||<黑屏1><边框>2</边框>:
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><黑屏2><BIN>533</BIN><关闭蒙版>:엘마는 총구를 들어 타레우스의 이마에 댔다.
+Erma(4)<Speaker>엘마</Speaker>||:끝내자, 전부 다 끝내자.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:엘마가 손가락을 방아쇠에 걸었다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><SE1>AVG_rifle_finalshot_n</SE1>:타앙——
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BGM>GF_21summer_avg_Demon</BGM><BIN>527</BIN><SE1>AVG_Chimes</SE1><narrator>:콜트 익스프레스
+()<Speaker></Speaker>||:매기는 자리에 기댄 채 억지로 힘을 짜내 엘마에게 미소를 지어 보였다.
+ColtWalker(1)<Speaker>매기</Speaker>||:끝났냐?
+Erma(0)<Speaker>엘마</Speaker>||:끝났어.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:엘마가 매기 옆에 다가갔다.
+Erma(0)<Speaker>엘마</Speaker>||<SE1>Stop_AVG_loop</SE1>:...좀 어때?
+ColtWalker(1)<Speaker>매기</Speaker>||:뭐랄까... 의뢰 한 10건 정도 완빵으로 처리한 느낌?+그것도 캐서린이 휴가 중일 때...
+Erma(1)<Speaker>엘마</Speaker>||:......
+ColtWalker(3)<Speaker>매기</Speaker>||:곧 죽을 사람처럼 보지 말라고.+난 인형이야, 아직 살 날 많이 남았어.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:엘마는 고개를 들어 매기의 초록색 눈동자를 지긋이 보았다.
+Erma(1)<Speaker>엘마</Speaker>||:매기, 우리... 친구라고 봐도 될까?
+ColtWalker(3)<Speaker>매기</Speaker>||:친구? 사기꾼한텐 친구 같은 거 필요 없어.
+Erma(1)<Speaker>엘마</Speaker>||:......+그럼 캐서린은?
+ColtWalker(1)<Speaker>매기</Speaker>||:하.
+()<Speaker></Speaker>||:매기는 웃음과 함께 한숨을 쉬며, 눈시울을 굽혔다.
+ColtWalker(1)<Speaker>매기</Speaker>||:걔는 떼질 못하는 혹덩어리지.+하나만 해도 무거우니까 더 붙일 생각 없어.
+Erma(2)<Speaker>엘마</Speaker>||:...마인드맵 백업할래?+내 친구가 되면 백업해줄게.
+ColtWalker(1)<Speaker>매기</Speaker>||:...엘마 아가씨, 뭐 잘못 드셨나? 뭐가 좋다고 사기꾼 나부랭이하고 친구를 해?
+Erma(1)<Speaker>엘마</Speaker>||:그러면 오늘을 교활하고 돈 밝히는 친구랑 열차에서 대모험을 펼친 날로 기억할 수 있으니까.+사기꾼한테 속아서 열차에 탔더니 다른 사기꾼한테도 놀아난 날이 아니라.
+ColtWalker(2)<Speaker>매기</Speaker>||:하하하하...+류드밀라는 죽었다 깨도 모르겠지, 자기가 사기꾼 취급을 당했다는 걸...
+()<Speaker></Speaker>||:매기는 억지스런 웃음 소리를 냈다.
+Erma(1)<Speaker>엘마</Speaker>||:...그럼 난 갈게.
+ColtWalker(1)<Speaker>매기</Speaker>||:내가 그렇게 쉬운 여자 같아?
+Erma(0)<Speaker>엘마</Speaker>||:아니야?
+ColtWalker(3)<Speaker>매기</Speaker>||:쉬운 여자 맞아.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>521</BIN><黑屏2><BGM>BGM_Empty</BGM><SE1>ClothingUp</SE1>:엘마의 손바닥에 한 송이 푸른 꽃이 나타났다.+방탕하게 타오르는 불꽃 같은 푸른 꽃.
+()<Speaker>엘마</Speaker>||<BGM>GF_2022_Summer_AVG_2</BGM>:여기에 마인드맵을 백업해.
+()<Speaker>매기</Speaker>||:참제비꽃이야? 고마워라.
+()<Speaker>엘마</Speaker>||:내가 서머 가든에 심은 꽃이야.
+()<Speaker>매기</Speaker>||:그래, 그럼 답례로 나도 너한테 선물 하나 줄게.+0367 1-7671765 6 356712356712356010603+기억했어?
+()<Speaker>엘마</Speaker>||:이게 뭔데?
+()<Speaker>매기</Speaker>||:니콜라스의 유산.
+()<Speaker>엘마</Speaker>||:무슨 뜻이야?
+()<Speaker>매기</Speaker>||:나중에 시간 나면 공동묘지에 녀석의 비석이라도 세워 줘.+제일 싼 거면 돼, 나머지는 너 다 가져.
+()<Speaker>엘마</Speaker>||:...너답지 않은데.
+()<Speaker>매기</Speaker>||:이번 여행길엔 여태까지 안 하던 짓을 참 많이도 했네.+애석하게도 기억해줄 사람은 아무도 없겠지... 날 포함해서.
+()||<黑屏1>:
+()<Speaker>매기</Speaker>||<BIN>522</BIN><黑屏2>:죽는 건, 이런 느낌이구나...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그녀의 몸에서 힘이 풀려, 벽에 기댄 채 스르르 미끄러져 내렸다. 엘마는 그녀의 어깨를 가볍게 받쳤다. 참지 못한 눈물이 흘러내렸다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:점점 무너져가는 콜트 익스프레스에서 엘마는 매기를 꼭 껴안았다.
+()<Speaker>엘마</Speaker>||:...내가 기억할게.+참제비꽃 열쇠의 주인을.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_Power_Down</SE1>:......+추락한다.+바다 밑바닥,+세상의 가장 깊은 곳까지.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:눈앞의 어둠 너머로, 엘마는 저 멀리 형체가 거의 다 흩어진 콜트 익스프레스로 손을 뻗었다.
+Erma(3)<Speaker>엘마</Speaker>||:......
+()<Speaker></Speaker>||:매기가 품에 기대어 있던 감각이 아직 팔에 남아있었다.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:매기의 마인드맵이 정지하면서 엘마도 콜트 익스프레스에서 벗어났다. 그녀는 그저 멀리서 열차가 스러져가고, 좌석에 기대어 있던 매기가 천천히 바닥에 내려앉는 것을 지켜볼 수밖에 없었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>197</BIN><BGM>BGM_Empty</BGM>:...미래호에서 3km 떨어진 곳.
+()<Speaker></Speaker>||<SE1>AVG_Rocket_Gun_Truck</SE1>:거대한 "엘모 호"가 옅은 안개를 헤치고 목표를 향해 나아갔다.
+98KMod(0)<Speaker>Kar98K</Speaker>||:지휘관, 신호가 돌아왔습니다. 저흰 목표 지점에 도착했어요. 작전에 따라 엘모 호에서 내려 미래호의 정차 위치까지 도보로 이동하겠습니다.
+()<Speaker>지휘관</Speaker>||:알았다, 안전에 주의해.
+MLEMK1Mod(0)<Speaker>리엔필드</Speaker><Position>0,70</Position>||:구역 내에 활동 중인 목표가 있습니다, 경계를 유지하겠습니다.
+()<Speaker>지휘관</Speaker>||:인간을 구조하고 부상 입은 인형에게 지원을 제공하는 것을 우선시해.+공격 조우 시 즉시 반격할 것. 내 허가를 거칠 필요 없어.
+98KMod(0)<Speaker>Kar98K</Speaker>||:Ja!
+MLEMK1Mod(0)<Speaker>리엔필드</Speaker><Position>0,70</Position>||:Yes, sir!
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:"엘모 호"는 천천히 길가에 멈췄고, 한 소대가 기지 차량에서 내려서 철도를 따라 질서 있게 전진했다.+그들의 전방에는 쓰러진 강철 괴수 같은 대륙간 열차의 윤곽이 보이기 시작했다.
+()||<黑点1>:

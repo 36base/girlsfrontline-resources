@@ -1,0 +1,237 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>82</BIN><黑屏2><BGM>BGM_Hello</BGM>:평소와 별다를 바 없는 하루, 지휘관의 숙소.+지휘관은 마치 하룻밤을 꼬박 지새운 것마냥 피로에 찌든 얼굴로 소파에 앉아, 카리나의 확인 작업이 끝나기를 기다리는 중이었다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:후우... 우선 급한 건 다 됐네요.+아참, 저번에 인수인계받으신 일들은 체크하셨나요?
+()<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1>:억, 어... 커흠커흠...
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:으휴 그럴 줄 알았어요!
+NPC-Kalin(3)<Speaker>지휘관</Speaker><同时置暗>||:미안해 카리나, 얼마 전부터 불면증이 심해서 도통 집중이 안 돼...
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:뭐어 지휘관님 고생하시는 건 알지만요... 그럼 제가 대신 처리해 드릴게요.+...정말이지, 가끔씩 누가 지휘관인지 헷갈릴 지경이라니까요.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:입으론 투덜대면서도, 카리나는 탁상 위에 잔뜩인 서류 더미를 전부 안아 들었다.。
+()<Speaker>지휘관</Speaker>||:하하하, 그럼 똑 부러진 카리나 님이 지휘관 하고 제가 대신 부관 일 할까요?
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:싫거든요~+지휘관님 있으셔 봤자 돈 버는 데 방해만 되거든요~
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:카리나는 삐죽 혀를 내밀며 문손잡이에 손을 얹었다.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:그럼 가 볼게요, 푹 쉬세요.
+NPC-Kalin(3)<Speaker>지휘관</Speaker><同时置暗>||:응, 고마워.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:얼른 불면증 나으시고 기운 내세요.+처리해야 할 일이 아직도 산더미라고요.
+()<Speaker>지휘관</Speaker>||:응... 콜록콜록...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 몸을 이불로 둘둘 말고, 문을 닫는 카리나에게 손을 흔들어 인사했다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:문이 철컥 소리를 내며 닫혔다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그러자 지휘관의 얼굴에 생기가 돌아오더니 손을 뻗어――
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:돌연 문이 다시 열리더니 카리나가 빼꼼 머리를 내밀었다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:아참참 깜빡했네요, G11이 보내 준 불면증 치료법은 효과 있어요?
+()<Speaker>지휘관</Speaker>||:(끄덕끄덕)
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:여전히 이불 속에 웅크린 채인 지휘관은 퀭한 얼굴로 고개를 끄덕였다.
+()<Speaker>지휘관</Speaker>||:음... 효과가 있는 거 같아...
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:다행이네요, 빨리 나으세요~
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Close</SE1>:눈부신 미소를 마지막으로, 카리나는 다시 문을 닫고 떠났다.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake><BGM>BGM_Empty</BGM>:그리고 그녀의 발소리가 멀어져 완전히 들리지 않게 된 후에야, 지휘관은 이불 속에서 기어나와 게임기 앞에 앉았다.
+()<Speaker></Speaker>||<SE1>AVG_NightVision_Start</SE1>:새까만 모니터는 그저 휴면 모드일 뿐이었고, 컨트롤러를 움직이자 화면이 다시 빛나며 심플한 게임 화면이 지휘관의 얼굴을 밝혔다.
+()<Speaker>지휘관</Speaker>||:G11 이 치사한 녀석, 이렇게 재미있는 게임을 이제야 빌려주다니...+덕분에 밤새도록 놀았잖아...
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_button</SE1>:점점 더 짙어지는 눈가의 다크서클에도 아랑곳않고, 지휘관은 오늘도 스타트 버튼을 눌렀다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>70</BIN><BGM>BGM_Empty</BGM>:얼마 전, 데레의 정비실.
+()<Speaker></Speaker>||<SE1>AVG_Button_Click</SE1>:G11이 재생 버튼을 누르자 스피커에서 쇼팽의 야상곡이 잔잔하게 흘러나왔고, 마치 희미한 달빛이 몸을 휘감는 듯한 음악에 눈꺼풀이 절로 감겨졌다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리고 눈을 감고 음악을 감상하던 G11은 깨달음에 눈을 번쩍 떴다.
+G11Mod(0)<Speaker>G11</Speaker><Shake>0.1</Shake>||<SE1>AVG_Wonder</SE1><震屏3>:<size=50>아!</size>
+NPC-Deele(0)<Speaker>데레</Speaker><Shake>0.1</Shake>||<SE1>AVG_21Winter_Phone_Crash</SE1>:<size=50>우왁!?</size>
+HK416Mod(0)<Speaker>HK416</Speaker>||<BGM>m_avg_casual</BGM><SE1>Rope</SE1>:아아악! G11 너 또 뭐해! 데레가 내 발등에 스패너 떨어뜨렸잖아!
+G11Mod(0)<Speaker>G11</Speaker>||:아무래도... 내가 카세트를 잘못 준 거 같아.
+HK416Mod(0)<Speaker>HK416</Speaker>||:카세트? 무슨 카세트?
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:어, 설마 그거...?
+UMP45Mod(0)<Speaker>UMP45</Speaker><Position>0,0</Position><Scale>1.07</Scale>||:아아, G11이 어제 불면증으로 고생하는 지휘관한테 준 그거 말이지?
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:그럼 뭘 잘못 보냈어?
+G11Mod(0)<Speaker>G11</Speaker>||:으으음...... 모르겠어.
+HK416Mod(0)<Speaker>HK416</Speaker>||:어떡하지? 이 녀석 잡동사니 상자는 뭐가 나와도 이상하지 않은데.
+()<Speaker></Speaker>||<SE1>AVG_Button_Click</SE1><SE1>ClothingUp</SE1>:UMP45이 재생 중이던 카세트를 꺼내 새하얀 라벨을 확인하곤 눈이 가늘어졌다.
+UMP45Mod(0)<Speaker>UMP45</Speaker><Position>0,0</Position><Scale>1.07</Scale>||:설마... "그거"일까?
+UMP9Mod(0)<Speaker>UMP9</Speaker>||:어떡하지 언니? 카리나한테 연락해서 상황 설명할까?
+HK416Mod(0)<Speaker>HK416</Speaker>||:쪽팔리게 우리가 실수했다 자수하자고?
+G11Mod(0)<Speaker>G11</Speaker>||:힝...
+UMP45Mod(0)<Speaker>UMP45</Speaker><Position>0,0</Position><Scale>1.07</Scale>||:하지만 이미 24시간이나 지났는데도 아무 말이 없다는 건...
+UMP9Mod(2)<Speaker>UMP9</Speaker>||:지휘관이 아직 눈치를 못 챈 걸까?
+HK416Mod(0)<Speaker>HK416</Speaker>||:아니면, 이미 발견했지만...
+UMP45Mod(0)<Speaker>UMP45</Speaker><Position>0,0</Position><Scale>1.07</Scale>||:...마음에 들었거나.
+UMP9Mod(2)<Speaker>UMP9</Speaker>||:그, 그래도...+말은 해 주는 게 좋을 거 같은데...
+UMP45Mod(0)<Speaker>UMP45</Speaker><Position>0,0</Position><Scale>1.07</Scale>||<SE1>ClothingUp</SE1>:매일같이 격무에 시달리잖아, 가끔은 릴랙스하는 것도 좋겠지.+즐기는 중이라면 괜히 방해하지 말자구.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신기를 든 UMP9를 말리는 UMP45는 위험한 눈빛을 반짝이며 싱긋 웃었다.
+()||<黑屏1>:
+()<Speaker>지휘관</Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>82</BIN>:......?+이게 뭐지?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 어리둥절해하며 컨트롤러를 내려놓고, 화면에 나타난 기묘한 대화창을 뚫어져라 바라봤다.
+()<Speaker></Speaker>||:<color=#FFFF00>[최고 난이도 클리어를 축하합니다!]</color>+<color=#FFFF00>[이제, 당신만의 새로운 세계를 만들어 보세요!]</color>+<color=#FFFF00>[다음 중 당신이 좋아하는 아이돌은 무엇입니까?]</color>
+()<Speaker>지휘관</Speaker>||:흐음... 설정을 하나 선택하고 새 스테이지를 랜덤 생성하는 건가?<c>A 상냥하고 활기 넘치는 메이드 아이돌<c>B 심장까지 휘어잡는 도도한 인형 아이돌<c>C 노래도, 랩도, 농구도 잘하는 올라운더 좀비 아이돌
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:복잡하게 고민할 거 없이 그냥 무난한 걸로 할까...+좋았어, 이거다.
+()<Speaker></Speaker>||<分支>2</分支><SE1>AVG_2022Saros_button</SE1>:지휘관이 마음에 드는 걸 선택하고 확인 버튼을 눌렀지만, 어째선지 커서는 죽기라도 한 것처럼 꿈쩍도 않았다.
+()<Speaker></Speaker>||<分支>2</分支>:오히려, 점점 당황하는 지휘관의 조작에도 불구하고 고집스럽게 가장 아래, 선택지 C로 내려갔다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支><SE1>ClothingUp</SE1>:어... 어어?! 아, 안 돼! 멈춰! 정지하――
+()<Speaker></Speaker>||<分支>2</分支><SE1>AVG_Card_Reader</SE1>:커서가 멋대로 C를 선택하는 경쾌한 효과음은, 마치 지휘관을 비웃는 것 같았다.
+()<Speaker>지휘관</Speaker>||<分支>3</分支>:헤헤, 이런 기묘한 게 딱 내 취향이지.+어려운 도전일수록 성취감도 높다고!
+()<Speaker></Speaker>||<SE1>AVG_Card_Reader</SE1><分支>3</分支>:지휘관은 과감하게 선택지 C를 선택했다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:복잡하게 고민할 거 없이 그냥 무난한 걸로 할까...+좋았어, 이거다.
+()<Speaker></Speaker>||<分支>1</分支><SE1>AVG_2022Saros_button</SE1>:지휘관이 마음에 드는 걸 선택하고 확인 버튼을 눌렀지만, 어째선지 커서는 죽기라도 한 것처럼 꿈쩍도 않았다.
+()<Speaker></Speaker>||<分支>1</分支>:오히려, 점점 당황하는 지휘관의 조작에도 불구하고 고집스럽게 가장 아래, 선택지 C로 내려갔다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支><SE1>ClothingUp</SE1>:어... 어어?! 아, 안 돼! 멈춰! 정지하――
+()<Speaker></Speaker>||<分支>1</分支><SE1>AVG_Card_Reader</SE1>:커서가 멋대로 C를 선택하는 경쾌한 효과음은, 마치 지휘관을 비웃는 것 같았다.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:그러자 인터페이스가 휴지 조각처럼 구겨지며 화면에서 사라졌고...+로딩 화면을 멍하니 바라보는 지휘관도 의식이 휴지 조각처럼 구겨져서 휴지통에 버려지는 듯한 기분이 들었다.
+()<Speaker>지휘관</Speaker>||:역시... 철야는 해롭구나...
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>ClothingUp</SE1>:무거운 졸음이 덮쳐와, 지휘관은 그대로 몸의 통제를 잃었다.
+()<Speaker></Speaker>||:............
+()<Speaker></Speaker>||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:파도가 배의 밑바닥에 부서지는 소리.+그리고 바닷가 특유의 짭조름한 공기에 섞인, 어렴풋한 꽃향기.+그 향기는 세련된 종이 봉투 속의 초대장처럼, 당신을 꿈 같은 연회로 끌어들였다.
+()<Speaker>지휘관</Speaker>||:여긴... 어디지...?
+()<Speaker>？？？</Speaker>||:"사가"다.
+()<Speaker>지휘관</Speaker>||:사가...? 들어본 적 없는 지명인데...
+()<Speaker>？？？</Speaker>||:시간이 없다. 전부 벌써 시작됐다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:파도가 부서지는 소리는 점점 선명하고 날카로워졌고, 그럴수록 배도 점점 더 격하게 흔들렸다.
+()<Speaker>지휘관</Speaker>||:뭐가 시작됐단... 넌 누구지?
+()<Speaker>？？？</Speaker>||:내가 바로 사가, 사가가 바로 나다.
+()<Speaker></Speaker>||:파도가 부서지고, 수면을 가르는 소리. 이 배는 지금 바다 위를 빠르게 달리고 있었다.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:이윽고 파도 소리가 멀어지고, 배에서 시멘트 바닥으로 내던져진 기분이 들었다.
+()<Speaker></Speaker>||:게다가 짭조름한 바다 내음 대신 퀴퀴한 곰팡이 냄새와 먼지가 코를 찌르니, 당신은 천천히 눈을 떠보았다.
+()||<黑屏1>:
+()<Speaker>붉은 머리 소녀</Speaker>||<CGDelay>1</CGDelay><SE1>ClothingUp</SE1><SE1>Heartbeat</SE1><睁眼><BIN>618</BIN>:<color=#FF0000>아, 코노히토 메오 사메테아린스.</color>
+()<Speaker>분홍 머리 소녀</Speaker>||:<color=#FF0000>요캇타, 다이죠부?</color>
+()<Speaker>은색 머리 소녀</Speaker>||:<color=#FF0000>엣토... 샤베레마스카?</color>
+()<Speaker></Speaker>||:기괴하게 푸르스름한 안색과, 몸에 꿰맨 흔적이 선명한 소녀들.+눈앞의 이 소녀들은 당신을 둘러싼 채 당신의 대답을 기다리는 것 같았다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:하지만 당신에겐 이를 관찰할 겨를도 없었다. 경악에 눈이 번쩍 떠졌고, 공포에 입을 벌려 비명을 질렀다.
+()<Speaker>지휘관</Speaker>||<震屏3><BGM>BGM_Danger</BGM>:<size=50>으아아아아아악!!</size>+<size=50>ELID다아아아!!!</size>
+()||<黑点1><SE1>AVG_Cloak_Whoosh</SE1>:
+()<Speaker></Speaker>||<BIN>589</BIN><黑点2><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:몇 년간의 훈련이 몸에 밴 당신은 바로 몸을 옆으로 굴리고 권총이 있을 허리춤으로 손을 뻗었다.+하지만 아무것도 없었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그래도 침착하게, 이번엔 발목으로 손을 뻗어 비수를 뽑으려 했다.+하지만 아무것도 없었다.
+NPC-Saki(11)<Speaker>？？？</Speaker><Position>0,-150</Position><Scale>1.34</Scale>||:<color=#FF0000>뭐여, 팝핑 댄스라도 추냐?</color>
+()<Speaker></Speaker>||:어째선지 마이크 스탠드를 어깨에 걸친 주황색 ELID가 도끼눈을 뜨고 다가오자, 맨몸에 맨손인 당신은 뒷걸음질칠 수밖에 없었다.
+()<Speaker>지휘관</Speaker>||:<size=50>카리나?! 얘들아아아!! 다들 어딨어!!</size>
+()<Speaker>지휘관</Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:<size=60>으아아 사람 살려――!!</size>
+NPC-Sakura(8)<Speaker>？？？</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:<color=#FF0000>지, 진정해 주셔요! 코타로 씨가 미리 상황을 설명해 드린 줄 알았는디...</color>
+NPC-Yugiri(6)<Speaker>？？？</Speaker><Position>120,-150</Position><Scale>1.9</Scale>||:<color=#FF0000>무서워 마시와요, 우린 당신을 해치지 않는답니다.</color>
+NPC-Lily(11)<Speaker>？？？</Speaker><Position>70,-160</Position><Scale>1.24</Scale>||:<color=#FF0000>릴리는 착한 아이야...</color>
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Empty</BGM>:헉... 헉... 어? 저... 정말이야...?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그 "말"에 당신의 경계심이 아주 조금 누그러졌고, 식은땀을 닦으려고 상의의 가슴 주머니에 있을 손수건을 꺼냈다.+그런데 손수건 대신 길쭉한 무언가가 나왔다. 냄새로 봐선... 마른 오징어?
+NPC-Tae(8)<Speaker>？？？</Speaker><Position>0,-400</Position><Scale>1.5</Scale><Shake>0.1</Shake>||<SE1>AVG_Stiff</SE1><SE1>AVG_Pause</SE1><震屏3>:<color=#FF0000>으어... 어아아――!!</color>
+()<Speaker></Speaker>||<BGM>m_wv_battle</BGM><SE1>AVG_Cloak_Whoosh</SE1>:그걸 본 ELID 하나가 난데없이 달려들자 당신은 다시 심장이 멎을 것처럼 패닉에 빠졌고, 본능적으로 비명을 지르며 이 어두컴컴한 지하실을 뛰쳐나갔다.
+()<Speaker>지휘관</Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><SE1>RunStep</SE1>:<size=50>끼야아아아아아악!!!</size>
+()<Speaker></Speaker>||:아무리 말이 통하더라도 "ELID"들이 괴성을 지르며 쫓아오니 별수 있으랴. 당신은 빛이 보이는 쪽을 향해 내달렸다.
+()||<黑点1>:
+()<Speaker></Speaker>||<Night><黑点2><BIN>578</BIN>:물론 여기가 어딘지도 모르는 당신은 지하실 밖으로 나와 되는대로 달리다 보니 2층까지 올라왔다.+ELID들의 소리가 들리지 않는 걸 보니, 어찌저찌 따돌리는 데는 성공한 모양이었다.+숨 돌릴 틈을 얻은 당신은 거친 숨을 몰아쉬며, 상황을 파악하고 대책을 강구했다.
+()<Speaker>지휘관</Speaker>||:후우... 여긴 어딘가의 저택인가? 낡을대로 낡았는걸...+난 분명 내 방에서 게임을 하고 있었는데, 왜 눈을 떠 보니 이런 곳에 있는 거지?+그리고, 어떻게 ELID가 제정신으로 말을 하지? 게다가 그 영문 모를 소린...+......+...알겠다.
+()<Speaker></Speaker>||:밤을 새면서 게임을 하다 그대로 곯아떨어졌고, 비몽사몽 중에 영문 모를 나레이션을 들었다.+이 사실들을 종합해서 내린 결론은...
+()<Speaker>지휘관</Speaker>||:아잇 젠장 꿈이었구나!+잠들어 버리기 직전에 화면에 무슨 "좀비 아이돌" 같은 게 나와서 이런 꿈을 꾸는 거야!
+()<Speaker></Speaker>||:진실을 깨달은 당신은 마침내 안도의 긴 한숨을 내쉬었다. 꿈이라면 결국 깨어나면 될 일이니까.
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:그때, 계단 밑에서부터 발소리가 울렸다. 놈들이 쫓아온 것이었다.+하지만 당신의 마음은 이미 잔잔한 수면처럼 평온해졌고, 심지어는 미소까지 지어졌다.
+NPC-MizunoAi(7)<Speaker>？？？</Speaker><Position>60,-190</Position><Scale>1.3</Scale>||:<color=#FF0000>도망치지만 말고 우리 말부터 들어주세요!</color>
+NPC-Sakura(8)<Speaker>？？？</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:<color=#FF0000>저, 정말로 나쁜 짓 안 혀요!</color>
+()<Speaker>지휘관</Speaker>||:아아 괜찮아 괜찮아, 다 이해했어.
+()<Speaker></Speaker>||:몰려든 ELID들에게, 당신은 태연하게 대답했다.
+()<Speaker></Speaker>||<SE1>RunStep</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:그리곤 곧장 벽을 향해 내달려 온몸으로 들이받았다.
+()<Speaker></Speaker>||<关闭蒙版><BIN>9</BIN><SE1>AVG_lifttable</SE1><BGM>BGM_Empty</BGM>:하지만 예상처럼 꿈에서 깨어나지는 못했다. 대신, 그대로 썩어 문드러진 벽을 뚫고 허공에 던져졌다.
+()<Speaker>지휘관</Speaker>||:――엉!?
+()<Speaker></Speaker>||:이 순간, 당신은 세상의 진리 중 하나를 다시금 실감했다.
+()<Speaker></Speaker>||<CGDelay>1</CGDelay>:어떤 "세상"이든, 뉴턴의 만유인력은 당신을 항상 바닥으로 끌어당긴다는 것을.
+()||<黑屏1>:
+()<Speaker>붉은 머리 소녀</Speaker>||<睁眼><BIN>618</BIN><SE1>Heartbeat</SE1>:아, 이분 눈을 떴사와요.
+()<Speaker>분홍 머리 소녀</Speaker>||:다행이다, 괜찮아요?
+()<Speaker>은색 머리 소녀</Speaker>||:저어... 말할 수 있겠어요...?
+()<Speaker></Speaker>||:기괴하게 푸르스름한 안색과, 몸에 꿰맨 흔적이 선명한 소녀들.+눈앞의 이 소녀들은 당신을 둘러싼 채 당신의 대답을 기다리는 것 같았다.
+()<Speaker>지휘관</Speaker>||:어라... 게임이 재시작됐――?!
+()<Speaker></Speaker>||<SE1>Rope</SE1>:몸을 일으키려 했지만 몸이 꽁꽁 묶여서 제대로 움직일 수조차 없었다.
+()||<黑点1>:
+()<Speaker>지휘관</Speaker>||<BIN>589</BIN><黑点2><BGM>Campaion-34</BGM>:뭐야, 날 묶어놓고 뭘 하려는 거야!?
+()<Speaker>지휘관</Speaker>||<SE1>AVG_flag</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:내 부하들이 날 찾고 있을 거라고! 안 좋은 꼴 보기 싫으면 당장 풀어!
+()<Speaker></Speaker>||:당신은 전력으로 몸부림치며 지하실을 무너뜨릴 기세로 소리를 빽빽 질러댔다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:하지만 당신을 둘러싼 이 소녀들은 눈 하나 꿈쩍도 하지 않던 차, 붉은 머리의 소녀가 친절하게 물 한 잔을 가져왔다.
+NPC-Yugiri(6)<Speaker>？？？</Speaker><Position>120,-150</Position><Scale>1.9</Scale>||:목청 터져라 소리 질러대서 목 마르시죠? 물 한 잔 드시고 진정하시와요.
+NPC-Yugiri(6)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.9</Scale><同时置暗>||:그, 그게 뭔 줄 알고! 내가 순순히 마실 것 같아?!
+NPC-Yugiri(6)<Speaker>？？？</Speaker><Position>120,-150</Position><Scale>1.9</Scale>||:그렇다면 그만 소리지르시는 게 어떨런지? 허언이 아니라, 정말 우리 말곤 들을 사람 아무도 없답니다.
+()<Speaker>지휘관</Speaker>||:큭...
+NPC-Sakura(10)<Speaker>？？？</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:아까 2층에서 추락하셨는데 어디 다친 덴 없나요? ...라고 물어도 멀쩡하신 것 같네요.
+NPC-Lily(13)<Speaker>？？？</Speaker><Position>70,-160</Position><Scale>1.24</Scale>||:맞아, 점프할 때 포즈가 액션 영화 같아서 엄청 멋졌어! 게다가 하나도 안 다친 것 같고, 혹시 너도 좀비야?
+()<Speaker>지휘관</Speaker>||:아니 사람을 무슨... 응? 좀비? 설마 너희 ELID가 아니야?
+NPC-MizunoAi(8)<Speaker>？？？</Speaker><Position>60,-190</Position><Scale>1.3</Scale>||:아무래도 정말 코타로가 아무 설명도 안 해 준 모양이네.+딱 보면 알겠죠? 우린 모두 죽었다 되살아난 좀비예요.+다만 이건 아무래도 상관없고, 중요한 건 당신이 오늘부터 7일간의 트레이닝 스케줄과 매니저 일을 맡아야 한다는 거예요.
+()<Speaker>지휘관</Speaker>||:그 코타로는 또 누구... 뭣, 잠깐, 나한테 뭘 시킨다고?
+NPC-Saki(11)<Speaker>？？？</Speaker><Position>0,-150</Position><Scale>1.34</Scale><Shake>0.1</Shake>||<SE1>Rope</SE1>:뭔 질문이 그리 많암마? 진짜 아는 거 하나도 없냐?
+()<Speaker></Speaker>||:도끼눈의 금발 소녀가 대뜸 당신의 멱살을 잡곤 코앞으로 끌어당겨 노려보았다.+이렇게 가까이에서 보니 확실히, 이 소녀의 얼굴이 분장이 아님을 알 수 있었다.
+()<Speaker>지휘관</Speaker>||:<color=#A9A9A9>(분장도 특수 효과도 아닌데다, 이 냄새... 정말로 만화에서나 보던 좀비인가.)</color>
+NPC-Junko(7)<Speaker>？？？</Speaker><Position>60,-90</Position><Scale>1.27</Scale>||:아무튼, 당신이 코타로 씨가 초빙한 전문가 맞죠?
+()<Speaker>지휘관</Speaker>||:...어떤 전문가 말하는 건데?
+NPC-MizunoAi(6)<Speaker>？？？</Speaker><Position>60,-190</Position><Scale>1.3</Scale>||:......
+NPC-Sakura(8)<Speaker>？？？</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:엑... 여 우야꼬?!
+()<Speaker></Speaker>||:청색 머리의 소녀가 한숨을 푹 쉬었다.
+NPC-MizunoAi(7)<Speaker>？？？</Speaker><Position>60,-190</Position><Scale>1.3</Scale>||:아무래도 지금 "무엇"과 "왜"를 모르는 것 같은데, 지금 그걸 처음부터 찬찬히 설명해 줄 시간 없어.+그러니까 어떡하면 되는지만 설명해 줄게.
+()<Speaker>지휘관</Speaker>||:아니 아니 그――으억!?
+()||<黑点1><SE1>Rope</SE1>:
+()<Speaker></Speaker>||<黑点2><BGM>BGM_Empty</BGM><BIN>619</BIN><SE1>ClothingUp</SE1>:당신이 반론을 제기하기도 전에, 청색 머리의 소녀는 당신의 고개를 꺾어 지도를 보게 했다.
+()<Speaker>청색 머리 소녀</Speaker>||<BGM>BGM_22Swim_langrensha</BGM>:훌륭한 아이돌 그룹으로 거듭나기 위해선 다섯 가지 요소가 전부 맞춰져야 해.+보컬, 댄스, 자금, 활력, 그리고 영감.
+()<Speaker>분홍 머리 소녀</Speaker>||:당신은 이제부터 곳곳을 돌아다니면서 저희의 각종 능력을 단련시켜주셔야 해요.+보컬 트레이닝은 노래 연습장, 댄스는 안무 연습장, 자금은 편의점 같은 데서 알바라도 하고, 활력은 치킨집에서 회복하고, 영감은 목욕탕처럼 쉴 수 있는 데서 떠올릴 수 있을 거예요.
+()<Speaker>지휘관</Speaker>||:어... 다 기억 못 하니까 다시 천천히 좀...
+()<Speaker>금발 소녀</Speaker>||:<size=50>시꺼! 입 다물고 들어!</size>+앞으로 정확히 일주일 뒤이 음청 중요한 콘서트가 있단 말이여!+그니까 이 일주일 동안, 시간 자알 쪼개서 우덜 트레이닝 스케줄 짜고 틈날 때마다 알바 같은 걸로 돈 벌으라고! 알았냐!
+()<Speaker>지휘관</Speaker>||:......+그냥 빡세게 7일 철야로 하면 안 돼?
+()<Speaker>분홍 머리 소녀</Speaker>||:안 돼요! 저희가 좀비라곤 해도 정신력에 한계가 없는 건 아니라, 트레이닝이나 아르바이트는 오전과 오후에만 가능해요.+그래서 하루에 활동은 2번만 계획할 수 있으니 신중하게 고려하시고 일정을――
+()<Speaker>지휘관</Speaker>||:일정 얘기하기 전에 질문 하나.
+()<Speaker>금발 소녀</Speaker>||:뭐꼬.
+()<Speaker>지휘관</Speaker>||:그래서 너희가 대체 누군데? 누구를 어디로 보낼지 어떻게 정해?
+()||<黑点1><SE1>AVG_20Winter_Book</SE1>:
+()<Speaker>청색 머리 소녀</Speaker>||<BIN>620</BIN><黑点2>:그것도 당신이 고민할 필요 없어. 그냥 매일 달성할 목표만 정하고 해당 장소에 가기만 하면 돼.+각 장소에서 우리를 만나 트레이닝이나 아르바이트를 도우면 해당되는 스테이터스가 알아서 오를 거야.
+()||<黑点1><SE1>AVG_20Winter_Book</SE1>:
+()<Speaker>분홍 머리 소녀</Speaker>||<黑点2><BIN>621</BIN>:함께 지내면서 천천히 우리에 대해서 알아가게 될 거예요...+괜찮다면 저희와 사이좋은 친구가 되길 바라요.
+()<Speaker>지휘관</Speaker>||:거 참 하루하루가 충실한 나날이 되겠네. 그래서, 너희들은 대체 누구냐고.
+()||<黑屏1>:
+NPC-Sakura(9)<Speaker>？？？</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<黑屏2><BIN>589</BIN><BGM>BGM_Empty</BGM>:아... 그러고 보니 우리 자기소개도 안 했네요...
+NPC-Sakura(9)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<BGM>BGM_Saga_AVG_Day</BGM>:저는 프랑슈슈 1호, 미나모토 사쿠라!
+NPC-Saki(9)<Speaker>니카이도 사키</Speaker><Position>0,-150</Position><Scale>1.34</Scale>||<SE1>ClothingUp</SE1><震屏3>:<size=50>2호, 니카이도 사키. 프랑슈슈의 리더다. 잘 부탁한다!</size>
+NPC-MizunoAi(6)<Speaker>미즈노 아이</Speaker><Position>60,-190</Position><Scale>1.3</Scale>||:3호, 미즈노 아이야.
+NPC-Junko(8)<Speaker>콘노 준코</Speaker><Position>60,-90</Position><Scale>1.27</Scale>||:콘노 준코, 4호예요.
+NPC-Yugiri(6)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.9</Scale>||:5호 유우기리, 앞으로 잘 부탁드리와요.
+NPC-Lily(10)<Speaker>호시카와 릴리</Speaker><Position>70,-160</Position><Scale>1.24</Scale>||<SE1>AVG_Rromantic</SE1>:릴리는 호시카와 릴리! 6호야~
+NPC-Tae(8)<Speaker>？？？</Speaker><Position>0,-290</Position><Scale>1.3</Scale><Shake>0.1</Shake>||<SE1>AVG_Stiff</SE1>:어우... 오에에... (뭐라는지 알 수 없다.)
+NPC-Sakura(9)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:아하하... 이쪽은 0호, 야마다 타에예요.+한 번 더 소개해 드릴까요?
+()<Speaker>지휘관</Speaker>||:아니, 7명쯤이야 바로 기억하지.
+NPC-MizunoAi(6)<Speaker>미즈노 아이</Speaker><Position>60,-190</Position><Scale>1.3</Scale>||:아무튼, 이걸로 우리 상황은 대충 알았지?+이제 어떡할래?
+()<Speaker>지휘관</Speaker>||:......<c>A 이런 상황쯤이야, 식은 죽 먹기지.<c>B 일단 들은 걸 내 부관과 공유해야...
+()<Speaker>지휘관</Speaker>||<分支>2</分支><SE1>ClothingUp</SE1>:잠시만, 지금 들은 걸 취합해서 내 부관한테 정리를――+......없지 참.+내가 다 하는 수밖에...
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:상황은 대충 이해했어. 내가 원래 하던 일보다 훨씬 간단한걸?+이런 스케줄 관리뿐이라면야, 식은 죽 먹기지.
+NPC-Sakura(9)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:마지막으로 다시 한 번 요약해서 설명 드릴게요. 지금 저희는 공연일 전까지 댄스와 보컬 실력을 최대한으로 끌어올리기 위한 강화 트레이닝을 해야 해요.+거기에 경비가 아슬아슬하다는 점도 문제예요. 저희도 각자 아르바이트로 충당하고 있지만, 프로듀서도 시간 나실 때 편의점 같은 곳에서 자금을 충당해 주세요.+피곤하실 땐 대중목욕탕에서 쉬시면서 영감을 얻는다든지, 치킨집에서 활력을 회복하시면 돼요.
+NPC-Yugiri(6)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.9</Scale>||:당신 같은 전문가에겐 손쉬운 일이겠죠?
+NPC-Lily(11)<Speaker>호시카와 릴리</Speaker><Position>70,-160</Position><Scale>1.24</Scale>||:빨리 트레이닝 시작하자 프로듀서!
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:낯선 환경과 낯선 이들인데도 약간이나마 느껴지는 익숙함.+"원래"의 일상에서도, 수많은 소녀들이 당신 주위에 모여 기대하는 눈빛으로 당신의 지시를 기다렸기 때문일까?+그래서인지 눈앞의 이 낯선 소녀들의 얼굴이 아직도 기억에 선명한 익숙한 얼굴들과 겹쳐 보이기까지 하니, 절로 미소가 지어졌다.
+()<Speaker>지휘관</Speaker>||:알았다. 그럼 한 가지 부탁할게.
+NPC-Sakura(9)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:말씀하세요.
+()<Speaker>지휘관</Speaker>||:프로듀서니 전문가니 날 그런 식으로 부르지 마. 원래 있던 세상...이 아니라 업계에서는 다들 나를 지휘관이라 부른다!
+NPC-Sakura(9)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:네, 지휘관님!
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:당신은 바닥에서 일어나 잔뜩 구겨지고 지저분해진 옷을 정리하고, 이 "좀비 아이돌"들을 주욱 둘러보았다.+전쟁, 인형, 패러데우스... 전부 당신에게서 백일몽처럼 사라졌다.+대신 이 아이돌과 평화, 영광이 당신의 삶이 되는 걸까?
+()<Speaker>지휘관</Speaker>||:......<c>A 현실을 받아들이고 새로운 삶을 시작한다.<c>B 포기하지 않고 돌아갈 방법을 강구한다.
+()||<黑点1><分支>2</分支>:
+()<Speaker>지휘관</Speaker>||<BIN>9</BIN><黑点2><分支>2</分支><SE1>AVG_Spanner</SE1><BGM>BGM_Empty</BGM>:<color=#A9A9A9>(웃기지 마! 내가 순순히 설득될 거 같아!?)</color>+<color=#A9A9A9>(호구도 그딴 말엔 안 넘어가겠다! 아이돌 코치 같은 일을 내가 할까 보냐!)</color>+<color=#A9A9A9>(내가 직접 트레이닝을 지도해? 알바까지 뛰어서 활동비를 책임지라고? 웃기고 있네!)</color>+<color=#A9A9A9>(무슨 수를 써서라도 그리폰으로 돌아가고 말겠어! 의식주 걱정 없고 일처리도 도와주는 부관이 있는 내 원래 직장으로!)</color>
+()||<黑屏1><分支>2</分支>:
+()<Speaker></Speaker>||<BIN>578</BIN><Night><黑点2><SE1>AVG_Door_Open</SE1><分支>2</分支><BGM>GF_20HW_Scene_BPM82_loop</BGM>:그래서 당신은 밤이 깊어 고요해진 틈을 타 살금살금 방에서 나와, 곧장 현관으로 달렸다.+최대한 조용히, 최대한 빨리. 이제 곧 자유라 생각하니 불면증도 날아갈 듯했다.
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1><分支>2</分支>:한 발짝 한 발짝, 이제 현관까지 얼마――
+()<Speaker>？？？</Speaker>||<SE1>ClothingUp</SE1><分支>2</分支>:멍.
+()<Speaker></Speaker>||<分支>2</分支>:그때, 어린 강아지의 울음소리가 발을 멈춰 세웠다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:엥, 웬 강아지가...+저리 가, 쉭쉭.
+NPC-Romero(0)<Speaker>？？？</Speaker><Position>0,240</Position><Scale>1.25</Scale><GradientShow>1</GradientShow>||<分支>2</分支><SE1>ClothingUp</SE1>:멍멍멍!
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:쉬이잇...! 조용히 해, 녀석들 깰라...!
+()<Speaker></Speaker>||<分支>2</分支>:생각도 못한 변수의 등장에, 당신은 당황하며 그 강아지를 쫓아내려 했다.+하지만 강아지는 당신을 무서워하긴커녕 오히려 점점 다가왔고, 그제서야 그 모습이 선명하게 드러났다.
+()<Speaker></Speaker>||<分支>2</分支><SE1>AVG_Dismember</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><BGM>BGM_Empty</BGM>:좀비 소녀들처럼 푸르스름한 살갗에 꿰맨 자국... 그리고 무엇보다, 강아지는 경악하는 당신의 눈빛을 받으며 순식간에 덩치가 불어났다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:이 세계엔 개 좀비도 있는 건가... 아니 근데 잠깐잠깐잠깐 왜 커져?!
+NPC-Romero(1)<Speaker>？？？</Speaker><Position>0,240</Position><Scale>0.95</Scale><Shake>0.1</Shake>||<分支>2</分支><SE1>AVG_Cloak_Whoosh</SE1><震屏3>:<size=50>컹! 컹컹! 크와앙!!</size>
+()<Speaker></Speaker>||<分支>2</分支>:덩치가 몇 배나 불어난 강아지, 아니 맹견은 그대로 당신에게 달려들었다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><SE1>RunStep</SE1>:<size=50>으아아아아아악!!</size>
+NPC-Junko(10)<Speaker>콘노 준코</Speaker><Position>60,-90</Position><Scale>1.27</Scale>||<分支>2</分支><BGM>BGM_Empty</BGM><关闭蒙版><SE1>AVG_Button_Click</SE1><SE1>AVG_20Winter_Door_Open</SE1>:로메로, 앉아.
+NPC-Romero(0)<Speaker>로메로</Speaker><Position>0,240</Position><Scale>1.25</Scale>||<分支>2</分支>:멍.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:허억... 허억... 허억...
+NPC-MizunoAi(7)<Speaker>미즈노 아이</Speaker><Position>60,-190</Position><Scale>1.3</Scale>||<分支>2</分支><BGM>Campaion-34</BGM>:거 봐, 내가 뭐랬어? 우리 자는 틈에 도망치려 할 거라 했지?
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<分支>2</分支>:저희 두고 가지 말아 주셔요...
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:그, 그냥 주변 돌아보면서 산책하려던 거였어!
+NPC-Saki(11)<Speaker>니카이도 사키</Speaker><Position>0,-150</Position><Scale>1.34</Scale>||<分支>2</分支>:하, 어차피 튀려 해도 헛수고거덩?
+NPC-Yugiri(8)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.9</Scale>||<分支>2</分支>:사가는... 마력이 깃든 곳이랍니다. 때가 되기 전까진 벗어나기 힘드실 거시와요.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:......
+NPC-Tae(8)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||<分支>2</分支>:구워어어... (졸려 죽겠다는 표정이다.)
+()<Speaker></Speaker>||<分支>2</分支>:맥이 풀린 당신은 잠깐 눈 돌리니 원래 몸집으로 돌아온 로메로와, 각기 다른 표정인 좀비 소녀들을 바라봤다.+아무래도, 당분간은 꼼짝없이 이들이 원하는 대로 해야 할 것 같았다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:<color=#A9A9A9>(희망을 버리지 말자... 이보다 더한 일도 숱하게 겪어봤잖아?)</color>+<color=#A9A9A9>(침착하게, 유연하게 대응하자. 분명 카리나와 모두가 나를 찾고 있을 테니까.)</color>
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:그래... 완전히 이해했어. 그럼 모두 잘 자고, 아침에 보자.
+()<Speaker></Speaker>||<分支>2</分支><SE1>ClothingUp</SE1>:당신은 인사를 하고 얌전히 방으로 돌아갔다.
+()||<黑屏1><分支>2</分支><SE1>AVG_Door_Open_Close</SE1>:
+()<Speaker></Speaker>||<分支>2</分支><BIN>9</BIN><黑屏2>:새롭고 색다른 하루가 곧 시작되려 했다.
+()||<黑屏1><分支>1</分支>:
+()<Speaker></Speaker>||<黑屏2><分支>1</分支><Night><BGM>BGM_Empty</BGM><BIN>587</BIN>:잠시 후, 당신은 당신에게 제공된 방의 침대에 드러누웠다. 짧은 시간에 정말 많은 일이 벌어진 탓인지 머리는 복잡하고 마음은 불안했다.+그러던 그때, 어딘가에서 가볍게 흥얼거리는 노랫소리가 들려왔다.+잔잔하고 부드러운 목소리는 잔뜩 곤두섰던 당신의 신경을 따스한 봄날의 동산 위를 스치는 산들바람처럼 어루만졌다.
+()||<黑屏1><分支>1</分支>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><分支>1</分支>:그 상냥함에 눈이 저절로 감겼고, 불면증에 시달리고 처음으로 달콤한 꿈을 꾸었다.
+()||<黑点1>:

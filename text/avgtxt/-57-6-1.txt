@@ -1,0 +1,80 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>599</BIN><BGM>BGM_Saga_AVG_Day</BGM>:방송국의 한 촬영 스튜디오.+어젯밤 프랑슈슈의 콘서트 컨셉이 정해진 뒤, 당신은 이를 홍보해 프랑슈슈의 반짝임을 더 많은 이들에게 전하자고 마음먹었다.+지금 이곳에 앉아 긴장된 가슴을 진정시키고 있는 것은 그 때문이었다.+잠시 후 당신은 준비를 마쳤고, 프랑슈슈도 똑같이 각오가 됐으리라 믿었다.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:준비됐으면 시작하도록.
+()<Speaker>지휘관</Speaker>||:............
+()<Speaker></Speaker>||:프랑슈슈가 당신에게 맡긴 운명의 무게가 느껴졌다.+타인의 운명을 짊어진 건 이번이 처음은 아니지만, 이번엔 느낌이 사뭇 달랐다. 이번에 당신에게 맡겨진 것은 소녀들의 꿈, 어쩌면 목숨보다도 더 소중한 꿈이었으니까.+그리고 당신은 이제 그들의 꿈을 위해 싸워야 한다.
+()<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1>:준비됐어.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:좋아, 그럼 스타아――트!
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐이――+촬영 시작을 알리는 소리와 함께 당신은 고개를 들어, 자신감 있게 카메라 렌즈를 바라보며 최대한 성실하고 친절한 미소를 지었다.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:――하지 말고 잠깐 스톱!
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:엉?
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:...뭐라 말할 건지 간단하게 설명 좀 해봐.<c>A. 눈물 없인 들을 수 없는 감동 설화<c>B. 절제되고 이성적인 프레젠테이션<c>C. 친근하고 유머러스하게
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:어... 전문적인 노선을 타려고. 프랑슈슈의 실력을 확실하게 어필해야 시청자들이 라이브 콘서트 표도 예매할 마음이 들겠지.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>2</分支>:그럼 어디 몇 마디 해봐.
+()<Speaker>지휘관</Speaker>||<分支>2</分支><BGM>BGM_Empty</BGM>:...프랑슈슈. 저희는 누가 보기엔 그저 흔한 아이돌 그룹 중 하나에 불과할지도 모르죠.
+()<Speaker></Speaker>||<分支>2</分支><BGM>GF_Swim_Marnie</BGM>:당신이 목소리를 한껏 낮게 깔고 소개를 시작했다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:허나 소화 가능한 장르는 로큰롤부터 힙합, 랩, 재즈 R&B에 레게까지, 저희는 못 하는 것이 없습니다.+저희의 멤버, 프랑슈슈 3호는 천부적인 댄스 재능의 소유자로, 아무리 어려운 춤동작이라도 한 번 보면 바로 따라할 수 있습니다.+그리고 창의력 넘치는 4호는 24시간만에 자작곡을 50개나 창작 가능하며, 0호는 무려 3단 고음을 넘는 7단 고음을――
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>2</分支><BGM>BGM_Empty</BGM><SE1>ClothingUp</SE1>:스톱.
+()<Speaker></Speaker>||<分支>2</分支>:스크립터가 무표정으로 말을 끊었다.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>2</分支>:무슨 투명 드래곤이냐?! 프랑슈슈 얘기 맞아!?
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||<分支>2</分支>:하지만 엄청 대단해 보이는 건 사실이잖아?+내가 시청자라면 궁금해서라도 바로 표 살 거 같은데.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale><Shake>0.1</Shake>||<SE1>AVG_Into_stone</SE1><分支>2</分支>:......
+()<Speaker></Speaker>||<分支>2</分支>:착각일까, 스크립터의 관자놀이에 핏줄이 불거진 것처럼 보였다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:보는 이들을 감동의 도가니로 빠뜨리는 노선을 타려고, 프랑슈슈가 여태까지 얼마나 많은 시련과 고비를 뛰어넘어 여기까지 왔는지를 중점으로.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>1</分支>:그럼 어디 몇 마디 해봐.
+()<Speaker>지휘관</Speaker>||<分支>1</分支><BGM>BGM_Empty</BGM>:프랑슈슈는... 크흠...
+()<Speaker></Speaker>||<分支>1</分支><BGM>BGM_Sad</BGM>:그룹명만 말했을 뿐인데 바로 목이 메였다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:프랑슈슈는... 처음엔 출연료도 없는 길거리 라이브로도 아무도 거들떠보지 않는 무명 그룹이었습니다.+끼니를 굶는 건 일상에 잠도 제대로 못 자고, 무대에서 무시당하더라도 반박조차 제대로 못 했죠...+하지만 갖은 수모와 조롱에도 굴하지 않고, 저희는 꿈을 포기하지 않았습니다!+저희의 꿈, 그건 바로 사가를――
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>1</分支><BGM>BGM_Empty</BGM><SE1>ClothingUp</SE1>:스톱.
+()<Speaker></Speaker>||<分支>1</分支>:스크립터가 무표정으로 말을 끊었다.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>1</分支>:무슨 인간극장 스페셜이냐?! 그리고 그거 프랑슈슈 얘기 맞아!?
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||<分支>1</分支>:적당히 부풀려서 보기 좋게 포장하는 건 연예계의 공공연한 비밀 아니야?
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale><Shake>0.1</Shake>||<SE1>AVG_Into_stone</SE1><分支>1</分支>:......
+()<Speaker></Speaker>||<分支>1</分支>:착각일까, 스크립터의 관자놀이에 핏줄이 불거진 것처럼 보였다.
+()<Speaker>지휘관</Speaker>||<分支>3</分支>:청중에게 다가가는 친근한 노선을 탈까 해. 유머감 있는 이야기로 하여금 듣는 이들과의 거리를 좁히고 호감도를 높여 콘서트에도 관심을 가지도록.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>3</分支>:그럼 어디 몇 마디 해봐.
+()<Speaker>지휘관</Speaker>||<分支>3</分支><BGM>BGM_Empty</BGM>:흠흠... 프랑슈슈는 말이죠, 모두 일반인들 중에서 선발한 아이들입니다.
+()<Speaker></Speaker>||<分支>3</分支><BGM>GF_2022_Summer_AVG_1</BGM>:당신은 자상한 미소를 띄우며 최대한 부드럽고 밝은 목소리로 소개를 시작했다.
+()<Speaker>지휘관</Speaker>||<分支>3</分支>:무대 위에선 눈부시게 반짝반짝 빛나지만, 일상에선 여러분과 별다를 바 없는 평범한 소녀들이에요.+덤벙대며 머리를 집에 두고 온다던가, 아기처럼 다른 사람 머리를 물어버린다던가...+하지만 그들이 공연복을 입고 무대에 오르는 순간――
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>3</分支><BGM>BGM_Empty</BGM><SE1>ClothingUp</SE1>:스톱.
+()<Speaker></Speaker>||<分支>3</分支>:스크립터가 무표정으로 말을 끊었다.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>3</分支>:넌 네가 아주 유머러스한 사람이라고 생각하는 편이냐?
+()<Speaker>지휘관</Speaker>||<分支>3</分支><SE1>ClothingUp</SE1>:응.
+()<Speaker></Speaker>||<分支>3</分支>:당신은 자신감 넘치는 눈빛으로 고개를 끄덕였다.
+()<Speaker>지휘관</Speaker>||<分支>3</分支>:이렇게 이야기를 풀면 시청자들이 프랑슈슈에게 거리감을 느끼지 않고, 마치 친가에 귀향하듯 라이브 콘서트를 보러 올 거라 생각하는데.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale><Shake>0.1</Shake>||<SE1>AVG_Into_stone</SE1><分支>3</分支>:......
+()<Speaker></Speaker>||<分支>3</分支>:착각일까, 스크립터의 관자놀이에 핏줄이 불거진 것처럼 보였다.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:그러냐, 알았다. 넌 가서 머리나 더 다듬어라. 소개문은 내가 작성해 줄 테니.
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:그럴게, 수고하게 만들어서 미안한걸.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:...잠깐. 왠지 낚인 기분이 드는데.
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:그럼 내가 더 머리를 굴려 볼――
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:아냐아냐아냐 넌 그냥 나가서 기다려!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:스크립터가 괴로워하며 펜을 드는 모습을 보며, 당신은 의미심장한 미소와 함께 촬영실 밖으로 나왔다.
+()||<黑点1><SE1>AVG_20Winter_Door_Close</SE1>:
+()<Speaker></Speaker>||<黑点2><BIN>470</BIN>:그리고 향한 곳은 당신에게 제공된 VVVIP 대기실이었다.+그런데, 문을 열자마자 매우 익숙한 인물이 창가에 기댄 채 당신을 기다리고 있었다.
+NPC-Kalin(1)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale><GradientShow>3</GradientShow>||<BGM>BGM_Room</BGM>:오랜만이에요, 지휘관 씨. 설며 프랑슈슈가 겨우 며칠만에 이 정도로 성장할 줄은 몰랐어요.
+NPC-Kalin(1)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||:어이쿠 카리나 엔터테인먼트의 CEO 아니십니까? 여긴 어쩐 일이신지?
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:초면엔 반말하시더니~? 그렇게 거리 두지 마세요~
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:금빛으로 눈동자를 반짝이며, 카리나가 냉큼 테이블에 앉자고 권했다.
+NPC-Kalin(1)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:서로에게 윈-윈인 장사 얘기나 해볼까 해서요~
+()<Speaker>지휘관</Speaker>||:죄송하지만 제가 지금 매우 바쁜지라. 다음에 하도록 하죠.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:당신이 먼저 일어나 문으로 "모시려" 했지만, 카리나가 당신의 팔을 덥석 붙잡았다.
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:그때 당신이 말했던 그리폰이란 데, 엄청 흥미로웠어요!
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<BGM>BGM_Empty</BGM>:그래서 관련 자료를 좀 찾아봤는데... 이런 것뿐이더라고요?
+NPC-Kalin(1)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<BGM>BGM_Home</BGM>:"서브컬처 전략 RPG 모바일 게임 [소녀전선]! AI 로봇 자율인형을 매개로 한 갈등과 자아를 가진 로봇의 고뇌 등, 철학적 고민을 담은 이야기!"+"총이 좋아? 소녀가 좋아? 여러 유명 일러스트레이터들이 그린 수백 명의 미소녀 대집결! 그리폰의 지휘관이 되어 인형들과 함께 아포칼립스 세계를 헤쳐 나가라!"
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-360</Position><Scale>1.6</Scale>||<SE1>AVG_Rromantic</SE1>:"지휘관님! 명령을 내려 주세요!"
+NPC-Kalin(0)<Speaker>지휘관</Speaker><Position>0,-360</Position><Scale>1.6</Scale><同时置暗>||<BGM>BGM_Empty</BGM>:......
+NPC-Kalin(1)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<SE1>ClothingUp</SE1>:그러니까, 여기 나오는 그리폰의 지휘관님이시란 거죠?+인형을 수백 명이나 부하로 뒀다는데, 이 애들 전부 아이돌로 프로듀싱하면... 아님 아예 아이돌 베이스캠프를 차리거나! 하면 대박날 거예요!
+NPC-Kalin(1)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||:......
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:괜찮은 생각 아닌가요? 왜 대답 없으세요?+괜찮으시다면 구경 좀 시켜 주세요, 그 부관직도 맡아볼 만하면 해볼 테니――
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Saga_AVG_Dusk</BGM><BIN>9</BIN><黑屏2>:머릿속에 지난 며칠 동안의 기억이 스쳐 지나갔다. 프랑슈슈와 함께 울고 웃었던 일들, 그리폰 인형들과 재회했지만 곤혹스럽고 실망스럽기만 했던 일들...+그리고 마지막으로 떠오른 것은, 어젯밤 공연이 끝나고 눈물이 그렁그렁한 채로 웃는 프랑슈슈였다.+소녀들이 당신을 감싸 부둥켜안고, 지금까지 응원해 준 당신에게 진심으로 감사하던 그 모습이.
+()||<黑屏1>:
+()<Speaker>지휘관</Speaker>||<BIN>470</BIN><黑屏2>:...그리폰의 지휘관?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:어깨를 짓누르는 운명에 당당히 저항하듯, 당신은 씨익 웃으며 자리에서 일어났다.
+()<Speaker>지휘관</Speaker>||:지금의 나는 프랑슈슈의 지휘관이다!
+NPC-Kalin(2)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:네...?
+()<Speaker>지휘관</Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:프랑슈슈 홍보로 바빠서 촬영 스튜디오로 돌아가야 하니, 그럼 이만.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>553</BIN><SE1>AVG_20Winter_Door_Close</SE1>:카리나에게 작별을 고하고, 당신은 촬영 스튜디오로 발을 옮겼다.+당신이 아는 카리나가 아니란 것쯤이야 당연히 알지만, 그래도 과거를 떨쳐낸 것 같은 시원섭섭한 기분이 들었다.+그리고 깨달았다. 당신은 지금 이 순간, 비로소 아무 거리낌 없이 프랑슈슈와 함께 서게 되었음을.+기쁨도 슬픔도 함께하는, 운명공동체.
+()||<黑点1>:

@@ -1,2 +1,107 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||:<color=#FFFF00>마인드맵 기록 분석 중...</color>+<color=#FFFF00>분석 완료 예상 시각... 5월 20일 16시 00분</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BGM>BGM_Hello</BGM><黑屏2><BIN>8</BIN>:5일 후, 그리폰 지휘실.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:지휘관님~ OBR의 18번째 대출 명세입니다, 확인하세요!
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><震屏3>:쿠웅!+카리나가 싱글벙글 웃으며 추가로 인쇄한 명세서를 이미 테이블 위에 산더미인 명세서들 위에 올려 지휘관을 완전히 가려버렸다.+지휘관은 떨리는 손으로 종합 명세서를 집어 확인했고... 거기에 적힌 천문학적인 금액에 넋을 잃었다.
+OBRMOD(2)<Speaker>OBR</Speaker>||:괘, 괜찮으세요...?
+OBRMOD(2)<Speaker>지휘관</Speaker><同时置暗>||:아... 음... 머리가 좀 아프네...
+OBRMOD(2)<Speaker>OBR</Speaker>||:아, 편찮으신 건가요? 제가 숙소까지 모실까요? 지금 제 소체면――
+()<Speaker>지휘관</Speaker>||:아니 아니 물리적인 두통 말고...
+()<Speaker></Speaker>||:지휘관은 말꼬리를 흐리며 땅이 꺼져라 한숨을 쉬었다.
+()<Speaker>지휘관</Speaker>||:OBR? 대체 뭘 하길래 빚이 이렇게 많이 쌓였니? 네 평소 생활로 봐서는 돈을 별로 안 쓸 거 같은데...
+()<Speaker></Speaker>||:OBR은 곤혹스러워하는 미소로 머리를 긁적였다.
+OBRMOD(2)<Speaker>OBR</Speaker>||:아하하, 글쎄요오... 분명 물건을 살 때도 최대한 아껴 쓰는데, 나중에 보면 누가 와서 저한테 돈을 갚으라 해서...+우으으... 정말 죄송해요, 고생하시게 만들어서 정말 죄송해요!
+()<Speaker></Speaker>||:지휘관은 겉으론 괜찮다며 손을 내저었지만, 속은 뒤집혔다.+이렇게 계속 OBR의 빚을 대신 갚아 주다간 통장이 거덜날 것이 분명했다.+어떻게든, 무슨 수를 써서든 그녀가 스스로 금전 관리를 잘 하도록 배우게 해야만 했다.
+()<Speaker>지휘관</Speaker>||:...카리나.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:넵!
+()<Speaker>지휘관</Speaker>||:금전 관리에 경험 많은 인형들 선발해서 OBR한테 붙여 줘, 보고 배울 수 있게.+가능하면 함께 숙식하면서 단기간 내에 재테크 실력 쭉쭉 오르게!
+OBRMOD(2)<Speaker>OBR</Speaker>||:죄송해요, 제가 모자라서... 화나셨어요?
+()<Speaker>지휘관</Speaker>||:그건 아니야. 하지만 네가 다른 애들을 보고 배워서 네 소비 습관의 어디가 문제인지를 깨달았으면 좋겠구나.+네가 잘 배우고 나면, 너 혼자서도 다시는 빚 걱정 없는 생활을 할 수 있을 거야!
+OBRMOD(2)<Speaker>OBR</Speaker>||:저... 정말로 가능할까요?
+OBRMOD(2)<Speaker>지휘관</Speaker><同时置暗>||:물론이지!
+OBRMOD(0)<Speaker>OBR</Speaker>||:우으으... 지휘관님 말씀이시니, 최선을 다하겠습니다!
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:저도 명을 받들겠습니다~ "OBR 재테크 각성 작전", 맡겨만 주세요!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>97</BIN><BGM>BGM_Empty</BGM>:......이틀 후.+따스한 햇빛이 유리창 너머 그리폰 기지의 복도를 비췄다.+오가는 인형들은 모처럼 찾아온 조용함을 즐겼다.+비명이 들리기 전까진.
+()<Speaker>지휘관의 목소리</Speaker>||<BGM>m_avg_tension</BGM><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><SE1>AVG_Pause</SE1>:<size=50>카리나아아아아!!!</size>
+()<Speaker></Speaker>||:방송이었다면 스피커가 찢어졌을 비명이 지휘실에서 터져 나왔다.+화들짝 놀란 인형들은 우르르 몰려들어, 살짝 열린 문틈으로 대체 무슨 일인지 조심스레 엿보았다.
+()||<黑点1>:
+()<Speaker>지휘관</Speaker>||<黑点2><BIN>8</BIN>:일 십 백 천 만 십만...+<size=50>OH MY GOD——!!!</size>+어떻게 이 영수증이 여태까지의 명세서를 합친 것보다 많을 수가 있어?!
+()<Speaker>지휘관</Speaker>||:<size=50>설명 좀 해 봐 카리나!!!</size>
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:지휘관이 터무니없는 숫자의 영수증을 카리나의 눈앞에 대고 마구 흔들었다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:분부하신 대로, OBR의 재테크 각성 작전에 지출된 건데요? 뭐가 문제인가요?
+()<Speaker>지휘관</Speaker>||:통장을 거덜내는 재테크가 어딨어?!+OBR한테 붙여 준 인형들이 대체 누구길래?!
+()<Speaker></Speaker>||:카리나가 음흉한 눈빛으로 이죽이며 답했다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:류랑 PPD, ADS요.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그 답에 지휘관은 현기증이 나 의자에 쓰러졌다.
+()<Speaker>지휘관</Speaker>||:뭐어어...?+그리폰에서 소문난 사치 부리기 좋아하는 애들을...?!
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:네, 지휘관님이 바라신 대조군이 이런 거 아니었나요?+걔네를 한데 모아 비교하면 누가 진정한 지름신인지 알 수 있잖아요!+비교 대상이 생기면 OBR이 돈을 너무 많이 쓴다고 불평할 일이 없어지죠~
+()<Speaker>지휘관</Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:<size=50>그게 아니지!!!</size>
+()<Speaker></Speaker>||:지휘관이 또 비명을 질렀다.
+()<Speaker>지휘관</Speaker>||:녀석들 지금 어딨어?! 계획은 종료다! 당장 종료해!
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:늦었어요, 이미 럭셔리 바다 여행으로 휴가를 보냈거든요. 거기서 돌아와면 결과를 알 수 있을 거에요!+뭐어... 그동안 지휘관님은 고생 좀 하시겠지만♪
+()<Speaker>지휘관</Speaker>||:......+Holy XXXX...
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:OBR... 제발 돈 좀 아껴 쓰렴...
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>2</BIN><黑屏2><SE1>AVG_Jet_Passby</SE1><BGM>event_summer_Title</BGM>:왕래가 드문 열대 바다의 섬.+비행기도 몇 대 없는 공항의 출구에 모여앉아, 인형들은 예약한 호텔의 차량이 마중하러 오기를 기다리며 수다를 떨었다.
+ADS(4)<Speaker>ADS</Speaker><Position>0,200</Position>||:설마 지휘관이 우리를 바다로 여행을 보내 주다니...!+출고되고부터 여태까지 마음껏 물놀이를 한 적 없었어!
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:흥, 겨우 그걸로 만족이야?+그리폰의 정직원으로서 회사 경비로 여행은 당연한 일이라고. 이 정돈 오히려 너무 싱거워.
+GeneralLiu(0)<Speaker>류 소총</Speaker>||:하지만 이번 여행의 주인공은 OBR 씨잖아요.+OBR 씨가 즐거우면 돼요.
+OBRMOD(0)<Speaker>OBR</Speaker>||:아뇨 아뇨, 저는 여러분을 보고 배우는 입장인걸요! 잘 부탁드립니다!
+ADS(4)<Speaker>ADS</Speaker><Position>0,200</Position>||:참, 카리나 씨가 이번 여행은 OBR한테 맡겼으니 금전 관리랑 소비 습관을 관찰해서 지적하라 특별해 당부했지.+노는 것도 좋지만, 임무는 잊지 않도록 명심하자.
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:명심할 게 뭐 있어, 얘가 어떻게 돈을 낭비하나 보기만 하면 되는데.
+OBRMOD(2)<Speaker>OBR</Speaker>||:......
+ADS(4)<Speaker>ADS</Speaker><Position>0,200</Position>||:PPD도 참! 겁먹지 마 OBR, 넌 머리부터 발끝까지 간단한 차림이잖아? 우리랑 비교하면, 음... 네가 제일 검소할 거야!+어쩌면 지휘관은 오히려 우리가 널 보고 절약하는 법을 배우라고 하는 걸지도 몰라!
+GeneralLiu(0)<Speaker>류 소총</Speaker>||:오오... ADS 씨의 말도 일리가 있네요!
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:즉, 진의는 따로 있었단 건가... 흥, 지휘관도 교활하다니까! 어쩐지 출발하기 전부터 예감이 영 좋지 않더라니...
+OBRMOD(0)<Speaker>OBR</Speaker>||:네? 아, 아뇨, 그건 아닐걸요...+지휘관님이 제게 올바른 소비 습관을 들이라고 하셨는데...
+ADS(4)<Speaker>ADS</Speaker><Position>0,200</Position>||:지휘관이 너만 신경쓴 게 아닐 거 같아. 어쩌면 우리 모두에게 소비 습관을 되돌아볼 필요가 있을지도?
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:난 됐어, 내 씀씀이가 얼마나 올바르고 합리적인데. 정 배우고 싶다면 내가 노하우를 전수해 줄게.
+GeneralLiu(0)<Speaker>류 소총</Speaker>||:솔직히, 저도 제 돈 씀씀이에 문제는 없다고 생각해요...
+OBRMOD(0)<Speaker>OBR</Speaker>||:저어...+혹시 괜찮으시면 장부를 봐도 될까요? 합리적인 장부란 어떻게 생겼는지 보고 싶어요.
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:물론이지.
+()<Speaker></Speaker>||<SE1>AVG_coin_put</SE1>:PPD-40이 당당하게 자신의 장부를 들이밀었고, 거기엔 거액의 지출 기록이 어지럽게 적혀 있었다.
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:다른 건 다 차치하고, 내가 고른 옷들은 전부 우수한 옷감에 꼼꼼한 마감으로 아주~ 아주 오래 입을 수 있어.+장식품도 당연히 때깔 고운 일등급만 취급하지. 저열한 플라스틱제는 입에도 올리기 싫어.
+()<Speaker></Speaker>||:PPD-40은 모두가 꿀 먹은 벙어리가 된 꼴을 보곤 어깨를 으쓱했다.
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:그래 그래, 총액으로 보면 지출이 조금 많――
+GeneralLiu(0)<Speaker>류 소총</Speaker>||:PPD 씨 의외로 검소하셨군요!
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position><Shake>0.1</Shake>||:...뭐?
+GeneralLiu(0)<Speaker>류 소총</Speaker>||:아, 무시하는 게 아니에요!+그게 그러니까, 제가 어쩌면... PPD 씨보다 쬐금 더 많이 쓸지도 모르겠네요.
+()<Speaker></Speaker>||<SE1>AVG_coin_put</SE1>:류 소총이 수줍어하며 단말기를 꺼내자, 일행은 궁금증에 곧장 모여들었다.
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:지난 5주간의 지출 기록...+1만... 24만... 82만... 101만... 55만...+......!
+()<Speaker></Speaker>||:PPD-40의 눈꺼풀이 움찔했다.
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:아니 이건 살짝인 수준이 아니잖아! 야 류, 너 대체 평소에 뭘 사고 다니길래 이래?!
+GeneralLiu(0)<Speaker>류 소총</Speaker>||:어... 여러분과 똑같은 것들요? 보세요, 제가 산 것들 다 일상용품인데...
+ADS(0)<Speaker>ADS</Speaker><Position>0,200</Position>||:죄다 제일 비싼 브랜드인데?
+GeneralLiu(2)<Speaker>류 소총</Speaker>||:아... 제가 숫자 개념이 부족하다는 소릴 자주 들어서요... 그래선가...?
+ADS(0)<Speaker>ADS</Speaker><Position>0,200</Position>||:알겠다. 항상 제일 비싼 것만 고르니까, 쇼핑 사이트가 한몫 단단히 챙기자고 알고리즘으로 너한테 비싼 것만 추천한 거야.+몇십 년 전부터 욕만 잔뜩 들어먹은 알고리즘이 아직도 쓰이다니, 꼴불견이네!
+GeneralLiu(3)<Speaker>류 소총</Speaker>||:아하, 그런 거였군요!
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:류의 지출은 거품 가득이라 정상으로 봐줄 수 없어.+ADS, 설마 너도 이런 건 아니겠지?
+ADS(0)<Speaker>ADS</Speaker><Position>0,200</Position>||:날 뭘로 보고... 난 이성적으고 현명한 판단으로 돈을 쓰거든?
+()<Speaker></Speaker>||<SE1>AVG_coin_put</SE1>:ADS가 자신있게 단말기를 꺼내자, 모두가 눈을 부릅 뜨고 지출 기록을 확인했다.
+ADS(4)<Speaker>ADS</Speaker><Position>0,200</Position>||:간단히 설명하자면, 난 생활비도 최대한 절약해서 집을 사기 위한 저축과 해파리 사육에만 투자한다고.+해변이 보이는 별장을 사려면 돈이 엄청 필요하고, 정기적으로 전문업체를 불러서 유지보수할 돈도 필요하지.+그리고 해파리는 사료 외에도 전문적인 사육 설비와 수질 정화 시설이 필요하니까...+이것저것 합쳐서, 내 매주 평균 지출은——
+()<Speaker></Speaker>||:입이 떡 벌어지는 숫자가 인형들의 눈동자에 비쳤다.
+GeneralLiu(0)<Speaker>류 소총</Speaker>||:괴... 굉장해요!
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:확실히 근거 있게 놀라운 숫자네.
+()<Speaker></Speaker>||:ADS는 겸손을 떨며 모두를 둘러보았다.+그리고, OBR이 내내 조용하던 것을 깨달았다.
+ADS(4)<Speaker>ADS</Speaker><Position>0,200</Position>||:OBR? 이제 네 장부를 공개할 차례 아닐까?
+OBRMOD(0)<Speaker>OBR</Speaker>||:네?! 제, 제 장부는 그냥 안 보시는 편이이...
+()<Speaker></Speaker>||:OBR의 얼굴이 빨갛게 달아올랐다.
+ADS(4)<Speaker>ADS</Speaker><Position>0,200</Position>||:걱정 마 걱정 마, 그냥 수다 떠는 건데 뭐! 대강의 숫자만 말해도 돼!
+GeneralLiu(0)<Speaker>류 소총</Speaker>||:맞아요, 그냥 대충 말해요!
+OBRMOD(2)<Speaker>OBR</Speaker>||:그...
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:우리 모두 장부 보여 줬잖아, 너만 숨기면 안 되지!
+()<Speaker></Speaker>||:일행의 친절하면서도 사나운 눈빛에, OBR은 터질 듯이 더욱 새빨개졌다.
+OBRMOD(2)<Speaker>OBR</Speaker>||:알았어요, 그럼 말할게요...
+GeneralLiu(0)<Speaker>류 소총</Speaker>||:네 네!
+OBRMOD(0)<Speaker>OBR</Speaker>||:그게... 지금까지 제 매주 지출은...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:OBR은 살며시 오른손을 쫙 펴 보였다.
+ADS(4)<Speaker>ADS</Speaker><Position>0,200</Position>||:5천?
+()<Speaker></Speaker>||:절레절레...
+GeneralLiu(0)<Speaker>류 소총</Speaker>||:5만?
+()<Speaker></Speaker>||:절레절레...
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:설마 5백이려고.
+OBRMOD(0)<Speaker>OBR</Speaker>||:그게...
+OBRMOD(0)<Speaker>OBR</Speaker>||:......5백만이요.
+()<Speaker></Speaker>||:<size=50>???!!!</size>+자리의 모두가 뒤통수를 얻어맞은 듯 충격을 먹었다.
+()||<黑屏1>:

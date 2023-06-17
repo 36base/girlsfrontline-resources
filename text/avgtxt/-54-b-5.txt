@@ -1,0 +1,102 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>272</BIN><narrator>:다음날 베를린, 그레이 생명과학 연구소.
+()||<BGM>BGM_Room</BGM><SE1>AVG_footsteps_cave</SE1>:매기와 캐서린은 제시간에 맞춰 초청장을 가지고 연구소에 들어왔다.+새하얀 대리석 바닥과 새하얀 벽에 밝은 빛이 반사되어 약간 눈부신 광택이 퍼졌다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||<SE1>Stop_AVG_loop</SE1>:완전 인간 냄새로 가득한 고급 연구소네.+우리하곤 평생 연이 없을 곳인데...
+ColtWalker(3)<Speaker>매기</Speaker>||:...굳이 여기에 맞추려 할 필요 없어, 우리가 일할 곳은 여기가 아니니까.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:그래? 여기서 오랫동안 있어야 하는 줄 알았는데?
+ColtWalker(3)<Speaker>매기</Speaker>||:인형은 인형이 있을 자리에 있어야지.
+()||<SE1>AVG_footsteps_cave</SE1>:연구소의 접수 데스크엔 아무도 없었다. 두 인형은 서로 마주보고는 그냥 데스크를 지나쳐 들어갔다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||<SE1>Stop_AVG_loop</SE1>:"이둔"... 뒤에 있는 저건 뭐야?
+ColtWalker(3)<Speaker>매기</Speaker>||:여긴 복사감염증의 치료제를 개발하는 구역이겠지.
+NPC-Nele(4)<Speaker>？？？</Speaker>||:거기 두 분은...?
+()||<SE1>AVG_Walk</SE1>:제복 차림의 여성이 의문을 띤 얼굴로 매기와 캐서린에게 다가와, 조심스런 눈초리로 둘을 살펴보았다.
+()||<SE1>Stop_AVG_loop</SE1>:매기가 초청장을 꺼내 보였다.
+NPC-Nele(4)<Speaker>？？？</Speaker>||:아, 선생님의 손님이군요. 반가워요, 전 넬레라고 해요.
+NPC-Nele(4)<Speaker>넬레</Speaker>||:데스크가 또 비어 있나 보죠?+그럼 매기 씨, 선생님 사무실로 안내해 드릴 테니 따라오세요.+옆의 분은 밖에서 기다려 주시고요.
+ColtWalker(3)<Speaker>매기</Speaker>||:부탁하죠.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:넬레 씨의 선생님이란 분은...?
+NPC-Nele(4)<Speaker>넬레</Speaker>||:예? 초청장에 적혀 있지 않나요?
+()||<SE1>ClothingUp</SE1>:넬레는 안경 코받침을 밀고, 초청장의 서명을 가리켰다.
+NPC-Nele(4)<Speaker>넬레</Speaker>||:"серый", 저희 스승님 성함이 바로 "그레이"예요.
+()||:매기는 의미심장하게 웃었다.
+()||<黑点1>:
+()||<黑点2><BIN>470</BIN><SE1>AVG_20Winter_Drink_Tea</SE1>||:그레이는 사무 탁상 뒤에 앉아 향긋한 커피를 즐기고 있었다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:또 만났네, 매기 양.
+NPC-MrsGray(0);ColtWalker(1)<Speaker>매기</Speaker>||:그러네요, "회색" 씨.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>;ColtWalker(1)||:베를린 날씨는 좀 적응이 되나?
+NPC-MrsGray(0);ColtWalker(1)<Speaker>매기</Speaker>||:뭐 싫어도 적응해야겠죠.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>;ColtWalker(1)||:뭐라도 마실래?
+NPC-MrsGray(0);ColtWalker(1)<Speaker>매기</Speaker>||:전 위스키나 데킬라가 좋습니다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:아쉽지만 여긴 사무실이라서 말이지, 모두 정신 바짝 차리고 일할 수 있도록 차나 커피 같은 카페인 듬뿍 든 것들밖에 없어.
+()||:매기는 히죽 웃었다.
+ColtWalker(1)<Speaker>매기</Speaker>||:그레이 씨는 무슨 술을 좋아하시는지요?
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:드라이 마티니, 젓지 말고 흔들어서.
+()||<SE1>ClothingUp</SE1>:매기는 고개를 끄덕이더니, 우아하게 허리 숙여 인사를 하고 손바닥을 내밀었다.+그 위엔 작은 동전 하나가 놓여 있었고, 그레이는 자연스레 동전을 집었다.
+()||<common_effect>%%code=AVG_chuxian_yan%%</common_effect>:현실과 허상 사이, 불빛이 안개로 변했다.
+()||<黑点1>:
+()||<黑点2><BIN>527</BIN><SE1>AVG_Eurocity</SE1>:철컹철컹... 철컹철컹...
+()||<BGM>GF_2022_Summer_AVG_4</BGM>:열차가 힘차게 달리는 소리가 울렸다.
+()||<SE1>Stop_AVG_loop</SE1>:그레이는 레트로풍 객차 안에 앉아 눈썹을 살짝 씰룩거렸다.
+()||<SE1>AVG_va_addingredient</SE1>:매기는 이미 노련하게 움직이고 있었다. 얼마 안 지나서 키 큰 와인잔에 맑은 액체가 담겼다.
+()||<SE1>AVG_21Winter_Ink_Drop_Single</SE1>:그리고 탱탱한 올리브 열매 한 알이 잔 안에 떨어졌다.
+ColtWalker(1)<Speaker>매기</Speaker>||:드시죠, 손님께 드리는 마티니입니다.
+()||<SE1>ClothingUp</SE1>:그레이는 입꼬리를 살짝 올리고, 눈 앞의 술잔을 들어 입술에 대고 살짝 맛을 보았다.
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:딱 좋군.
+()||<SE1>AVG_20Winter_Drink_Tea</SE1>:그러고선 그레이는 단숨에 잔을 비웠다.+마티니가 최고의 상태일 때 한 방울도 남김없이 마시는 것이 바텐더에 대한 최고의 예우다.
+ColtWalker(1)<Speaker>매기</Speaker>||:그레이 씨의 칭찬에 대단히 감사드립니다.
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:이 인사 선물, 무척 마음에 들어.
+()||<SE1>ClothingUp</SE1>:진한 술에 그레이의 뺨이 약간 발그레해졌다. 그녀는 술잔을 내려놓고 다시 매기를 바라보았다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:이것도 폭스 시스터후드의 유산인가?
+NPC-MrsGray(0);ColtWalker(3)<Speaker>매기</Speaker>||:예, 지금까지 멀쩡하게 간직하느라 애 좀 먹었죠.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>;ColtWalker(3)||:하지만 좀 낡았어. 네 재머처럼 말야.+동전에다 재머를 숨겨놓다니, 너무 고전적이라 이젠 잘 쓰이지도 않는 수법이야.
+NPC-MrsGray(0);ColtWalker(1)<Speaker>매기</Speaker>||:확실히 시대에 뒤처지긴 했죠, 하지만 시스템을 업그레이드하는 데엔 엄청난 자금과 설비가 필요하니까요.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>;ColtWalker(1)||:자금과 설비를 달라고 돌려서 말하는 걸까?
+NPC-MrsGray(0);ColtWalker(1)<Speaker>매기</Speaker>||:우훗.+사업을 하려면 기본적인 투자는 있어야 하지 않겠습니까.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>;ColtWalker(1)||:내가 저번에도 가치있는 인물에겐 흔쾌히 베풀어준다고 했지.+마티니 한 잔 더 줘보렴.
+ColtWalker(1)<Speaker>매기</Speaker>||:문제 없죠.
+()||<SE1>AVG_va_addingredient</SE1>:잠시 후 매기가 드라이 마티니를 한 잔 더 따랐다.
+ColtWalker(1)<Speaker>매기</Speaker>||:드시죠.
+()||:그레이의 입꼬리가 더욱 올라갔다. 그녀는 술잔을 향해 손을 뻗었지만, 그 손은 술잔 옆을 지나쳐 더욱 앞을 향했다——
+()||<BGM>BGM_Empty</BGM><SE1>ClothingUp</SE1>:가늘고 고운 손가락이 매기의 머릿결을 살며시 건드렸다.
+ColtWalker(4)<Speaker>매기</Speaker>||<BGM>GF_22W_BGM_3</BGM>:......
+()||:매기는 반사적으로 피하려 했지만, 약 1초간 고민하고 나서 부동자세를 유지했다.
+NPC-MrsGray(2)<Speaker>그레이</Speaker>||:겁먹은 거니?
+NPC-MrsGray(2);ColtWalker(3)<Speaker>매기</Speaker>||:...시종이 어찌 감히 하느님 앞에서 눈을 똑바로 뜨겠습니까.
+NPC-MrsGray(4)<Speaker>그레이</Speaker>;ColtWalker(3)||:폭스 시스터후드의 인형들은 다 너처럼 혀를 잘 놀리니?
+NPC-MrsGray(4);ColtWalker(3)<Speaker>매기</Speaker>||:사회공학자로서의 기본 소양이죠.
+NPC-MrsGray(1)<Speaker>그레이</Speaker>;ColtWalker(3)||:긴장 마렴, 그냥 소체를 좀 보는 거니까.+그런데 네 소체는 완전 난장판이구나. 요즘 민수용 인형은 어쩌다 개조 수준이 이 지경이 됐니?
+NPC-MrsGray(4);ColtWalker(3)<Speaker>매기</Speaker>||:그래서 당신의 지원이 필요하다는 거죠.
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:그렇겠구나.
+()||:그레이는 손을 펴서 매기의 심장 위치에 갖다댔다.
+()||<SE1>Rope</SE1>:그리고 조금씩, 조금씩 힘을 주어 손바닥 전체가 매기의 흉곽 안으로 쑥 들어갔다.
+NPC-MrsGray(4)<Speaker>그레이</Speaker>||:마인드맵 공간도 청소를 해야겠고.
+ColtWalker(3)<Speaker>매기</Speaker>||:......+진찰 고마워요.
+()||:통각이 또렷하게 느껴졌다. 매기는 그레이가 이미 그녀의 마인드맵을 통제하고 있는 것을 눈치챘다.
+()||<黑屏1>:
+()||<黑屏2><BIN>527</BIN>:다시 정신이 들었을 때, 푹신푹신한 좌석과 창 밖의 풍경은 여전했다.+하지만 맞은 편의 그레이는 사라져 있었다.
+ColtWalker(3)<Speaker>매기</Speaker>||:......
+()||<SE1>AVG_whitenoise</SE1>:지직... 열차 창문에 생기 없는 얼굴이 비쳤다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:객차 안에 가만히 있어라, 개조가 끝날 때까지.
+NytoWhite(0);ColtWalker(3)<Speaker>매기</Speaker>||:적어도 내 마인드맵에 무슨 짓을 할 셈인지는 알려주는 게 도리 아니야?
+NytoWhite(0)<Speaker>하얀 니토</Speaker>;ColtWalker(3)||:......+너의 노후한 시스템을 업그레이드할 거다. 네게 일시적으로 정보 시스템의 포트를 개방했다.
+NytoWhite(0);ColtWalker(3)<Speaker>매기</Speaker>||:...정보 시스템?
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:빈틈없이 파고드는 "벌침".+마지막으로 반복한다. 객차 안에서 나오지 말고 기다려라, 한 발짝만 기어나오면 폐품으로 만들어 주지.
+()||:소녀의 얼굴이 창문에서 사라졌다.
+()||<SE1>AVG_va_addingredient</SE1>:매기는 손을 뻗어 레모네이드를 호출했지만, 엄습해오는 초조와 불안을 도저히 다스릴 수가 없었다.
+ColtWalker(3)<Speaker>매기</Speaker>||:잠깐...
+()||<SE1>AVG_20Winter_Door_Open</SE1>:그녀는 벌떡 일어나 객차 문을 열었다. 복도 밖엔 역시나 심상치 않은 변화가 일어나 있었다.
+()||<黑点1>:
+()||<黑点2><BIN>240</BIN>:기다란 객실 통로는 어디론가 사라지고, 어둡고 넓은 로비가 대신 펼쳐져 있었다.
+ColtWalker(4)<Speaker>매기</Speaker>||:......
+()||<SE1>AVG_footsteps_woodfloor</SE1>:하얀 옷의 소녀 몇 명이 촛불을 들고서 그 안을 서성이고 있었다. 마치 죽은 자의 침대로 향하는 창백한 유령처럼.
+()||<SE1>AVG_Creep</SE1><SE2>AVG_20Winter_Book</SE2>:테이블 위의 위저 보드가 멋대로 움직이며, 공중엔 트럼프 카드가 마구 흩날렸다.
+ColtWalker(3)<Speaker>매기</Speaker>||<SE1>Stop_AVG_loop</SE1>:...이런 식의 개조구나.
+()||<黑点1>:
+()||<黑点2><BIN>467</BIN>:광원이 거의 없는 지하실, 텅 빈 방 안쪽 구석에 소녀 한 명이 홀로 서 있었다.
+()||<SE1>ShuffleCards</SE1>:촤르륵——+날갯짓하는 나비처럼 트럼프 카드가 그녀의 손에서 펄럭였다.
+()<Speaker>？？？</Speaker>||:연습 시작.
+ColtWalker(3)<Speaker>매기</Speaker>||:......
+()||<SE1>DealCards</SE1>:슉—— 슉——+카드가 정확하게 날아가 표시된 지점에 착지했다.
+()||:매기는 그 소리를 귀 기울여 자세히 들었다. 저 하얀 소녀들은 아직 이 지하실을 눈치채지 못했다.+매기는 살짝 안심이 되어 미소를 지었다.
+ColtWalker(1)<Speaker>매기</Speaker>||:그레이 씨, 아직 나를 잘 모르는구만...+나는 말이지... 얌전히 죽어 주는 녀석이 아니라고!
+()||<黑点1>:

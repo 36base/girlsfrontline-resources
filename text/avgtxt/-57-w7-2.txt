@@ -1,0 +1,82 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>576</BIN><BGM>BGM_Saga_AVG_Dusk</BGM>:
+()||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:어렴풋이 들리는 현악기 소리에 이끌려, 당신은 여기까지 왔다.+난간에 기댄 것은 유우기리. 저 멀리 지는 석양이 빨갛게 물들이는 바다를 바라보며, 순에 쥔 바치로 가볍게 현을 튕겼다.+그런 그녀의 모습에선 슬픔이 엿보였다.
+()<Speaker>지휘관</Speaker>||:...유우기리?
+NPC-Yugiri(2)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:예, 지휘관님.
+()||:가볍게 대답하면서도 이쪽으로 고개를 돌리지 않았다.+그녀 손의 샤미센은 여전히 구슬피 울었고, 저 석양마저 그 소리에 흔들리는 듯했다.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:저는 배를 타고 사가에 당도했답니다, 정확히 어느 방향으로부터인지는 기억이 안 나지만요. 어쩌면 저쪽에서 왔을지도 모를 일이죠.
+()||:유우기리가 손을 들어 바다 저편을 가리켰다.
+()<Speaker>지휘관</Speaker>||:고향이 그리운 거야? 괜찮다면 같이 가볼 수도 있는데.
+()||:하지만 유우기리는 고개를 저었다.
+NPC-Yugiri(2)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:고향이란 건,//n다가가면 따가운//n장미꽃이라.
+NPC-Yugiri(2)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:즉, 고향에 대한 복잡한 감정이란 거구나.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:돌아간다 해도 제가 기억하는 모습은 아닐 테니, 계속 추억 속에 묻어 두는 게 좋겠죠.
+NPC-Yugiri(0)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:......
+NPC-Yugiri(2)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:그저 상기했을 뿐이랍니다, 지휘관님도 언젠가 저희를 떠나 원래 세계로 돌아갈 것이란 사실을.
+NPC-Yugiri(2)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:나 말이야?
+()||:빗속의 버드나무처럼 쓸쓸한 유우기리의 뒷모습을 보며, 당신은 자신의 진심을 토로했다.<c>A. 남아있고 싶다.<c>B. 떠날 수밖에 없다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:사실... 나도 사가에 남아서, 모두와 계속 함께하고 싶다고는 생각했어...
+()||<分支>1</分支>:그 말에 유우기리의 어깨가 움찔하고, 놀란 얼굴로 고개를 돌렸다. 눈망울의 눈물은 복잡한 심정을 대변하는 듯했다.+그녀는 당신에게 다가와, 손을 뻗더니...
+()||<分支>1</分支><SE1>AVG_Yugiri_slap</SE1>:찰싹!+당신은 얼얼한 뺨을 감싼 채 순간 말을 잃었다. 정말 아프게 맞은 건 아니지만, 상처받기엔 충분한 아픔이었다.
+NPC-Yugiri(1)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>1</分支>:그럼 그리폰은 어쩌시고요!?+제게 말씀하셨던 당신의 이상은요!? 세계를... 세계를 새로 쓸 칼날이 되겠다 하셨잖사와요!
+NPC-Yugiri(2)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>1</分支>:그 말은 다 무엇이었나요... 당신의 맹세는 아무것도 아니었나요!?
+NPC-Yugiri(2)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||<分支>1</分支>:......
+()||<分支>1</分支>:당신보다 속상해하는 유우기리를 보며, 당신은 그날 밤 바닷가에서의 일을 떠올렸다. 그녀가 부드럽게 당신의 손을 잡고, 당신의 바람을 응원하겠다 약속했던 그날을.+설령 당신이 떠나게 될지여도, 그녀는 진심으로 당신이 소망을 이루길 바란 것이다.+당신의 포기야말로 그녀에게 큰 상처를 입히는 꼴이었다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:유우기리, 미안해. 난 그저...
+NPC-Yugiri(2)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>1</分支>:다시는 그런 나약한 말 하지 마시와요.
+NPC-Yugiri(2)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||<分支>1</分支>:약속할게.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:유우기리... 난 언젠가 사가를 떠나겠지만, 이곳에서 너희와 함께했던 나날을 절대 잊지 않을 거야.
+()||<分支>2</分支>:빗물에 젖은 한 송이 꽃 같은 미소를 띄우고, 유우기리는 천천히 당신을 돌아봤다.+그녀는 당신에게 다가와, 손을 뻗더니...+부드러운 두 손으로 당신의 손을 꼬옥 쥐었다.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>2</分支>:알고 있사와요, 당신은 이곳에 속하지 않는다는 것을. 더 넓은 세상으로 나아가, 포부를 이루셔야죠.
+NPC-Yugiri(4)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||<分支>2</分支>:그래도 역시 떠난다고 생각하기만 해도 벌써 여기가 그리워지는걸...
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>2</分支>:속상해 마시와요. 설령 다시 만날 수 없다 하여도, 소중한 기억은 모두의 곁에 남으니까요.
+NPC-Yugiri(3)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>2</分支>:당신을 위해, 당신의 무운을 기도하겠사와요.
+()||<分支>2</分支>:유우기리의 눈동자는 여전히 슬픈 안개로 흐렸지만, 부드러운 미소는 여전한 채로 말을 전했다.+당신은 그녀의 마음을 이해했다. 그녀는 지금 진심으로 당신이 더 나은 세상을 만들기를, 당신이 그리는 그림이 공허한 꿈이 아닌 아름다운 현실이 되길 바라고 있었다.+설령, 당신이 멀리 떠나 함께가 아니게 될지라도.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:응, 나도 언제 어디서나 너희를 응원할게.
+()||:유우기리가 벤치에 앉자, 당신도 그 옆자리에 앉았다.+샤미센을 품에 안은 그녀는 잠시 입을 열지 않았다.+그런데, 당신은 지금 연주한 샤미센이 평소와는 다른 것임을 눈치챘다. 보다 낡고, 모양도 투박했다.
+()<Speaker>지휘관</Speaker>||:어라, 샤미센 바꿨어?
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:이건, 제가 샤미센을 배우기 시작할 때 쓰던 것이와요.
+()||:그녀는 가느다란 손가락으로 현을 가볍게 훑었다.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:초심자가 쓰는 연습용이라, 목재도 가죽도 품질이 그다지 뛰어나진 않죠.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:허나 저의 가장 칙칙하고 무미건조하던 나날을 함께해 준 것이기에, 소중히 간직했답니다.+가끔씩 꺼내 먼지를 닦고 기름칠만 하고, 잘 연주하진 않았지만요.
+NPC-Yugiri(4)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:어쩐지, 그건 본 적이 없더라. 그런데 그걸 왜 오늘은...?
+()||<common_effect>%%code=Saga_Yuugiri_item%%</common_effect>:유우기리가 그것을 당신에게 건넸다.
+()||<关闭蒙版>:당신은 조심스레 받아서, 약간 촉촉한 몸통을 만져봤다.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:한번 켜보시겠사와요, 지휘관님?
+NPC-Yugiri(4)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:...좋지.
+()||:유우기리는 친절히 바치를 쥐는 법을 가르쳐 주었다. 엄지로 앞끝을 받치고, 나머지 손가락으로 쥐면서, 새끼손가락으로는 균형을 유지하게끔.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:이렇게 쥔 다음, 팔의 각도는 이렇게 유지하시고, 손목을 돌리면서, 엄지에 힘을 주고 바치를 현과 평행을 이루면서 치시와요.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:손가락과 샤미센의 몸통 사이에 손가락 마디 하나 정도의 거리를 유지하는 것에 주의하시고요.
+NPC-Yugiri(0)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:으음...
+()||:당신은 유우기리의 지도를 받아 어색하게 몇 음 튕겨보았다.
+NPC-Yugiri(3)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:긴장 마시와요, 그리폰에서 싸우는 게 아니라 그냥 악기를 연주하는 것뿐이랍니다.
+NPC-Yugiri(3)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:네가 연주하는 걸 보면 엄청 쉬워 보이던데 이렇게 직접 해보니 많이 어렵네...
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:초심자이시니까요, 저도 통달하는 데 매우 오래 걸렸답니다.
+NPC-Yugiri(4)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:네가 자주 연주하던 곡 이름이 뭐였지? 방금도 그거였던 거 같은데.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:[해질녘의 이슬] 말인가요?
+()||:유우기리가 악보를 꺼내 시범을 보였다.+당신이 눈을 부릅뜨고 그녀의 연주를 지켜봐도 딱히 어려운 주법 같은 건 없어 보였지만, 다시 직접 켜보니 뒤엉킨 실타래처럼 손이 꼬였다.
+NPC-Yugiri(3)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:조급해 마시고, 천천히.
+()||:유우기리는 피식 웃는 입을 소매로 가리곤 당신을 샤미센과의 씨름에서 풀어주었다.
+()<Speaker>지휘관</Speaker>||:역시 네 연주가 듣기 좋네.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:......
+()||:유우기리는 미소만 띄운 채, 말없이 샤미센을 보관함에 넣고서 당신의 곁에 놓았다.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:괜찮으시다면, 이 샤미센의 소리가 항상 지휘관님의 곁에 있기를 바라요.
+NPC-Yugiri(4)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:......
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:오늘, 지휘관님께 기념 선물을 드리고자 했는데...
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:아무리 찾아봐도 마음에 드는 것이 없던 와중, 이것이 눈에 띄었답니다.
+()||:유우기리는 샤미센의 보관함 위를 부드럽게 어루만졌다.
+NPC-Yugiri(2)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:저의 초심이자, 저의 첫 꿈이 담긴 것. 오래 시간 항상 제 곁을 지켜 주었죠.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:묵묵히, 제게 시작을 잊지 말라 일깨워 주었사와요.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:이걸 당신께 드리고 싶어요.
+NPC-Yugiri(4)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:이렇게 소중한 걸...?
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:지휘관님도 직접 말씀하신바, 스스로의 초심과 맹세를 잊지 않길 바라는 마음이랍니다.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:당신이 꿈꾸는 세상이 언젠가 도래하기를 기원할게요.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:그리고 당신이 이 샤미센을 켤 때면, 언제나 저를 떠올리실 수 있겠죠...
+NPC-Yugiri(4)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:......
+()||:당신은 주먹을 꽉 움켜쥐었다. 하지만 아무리 단단히 움켜쥐더라도, 손바닥 틈 사이로 흘러내리는 것이 있는 법.
+()<Speaker>지휘관</Speaker>||:물건을 보며 사람을 추억하기보단 직접 얼굴을 마주보는 게 좋아.+방법을 찾아볼게. 이곳에 돌아오거나, 아니면 너희가 내게 올 수 있는 방법을 찾아볼게.
+NPC-Yugiri(3)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:예, 기대할게요.
+()||:유우기리가 나지막이 대답하며, 복도로 뻗어 나온 나뭇가지를 집었다.+잎사귀에 이슬이 송골송골 맺힌 그것은 그녀가 자주 연주하는 곡처럼, 쓸쓸하고 가련한 기운을 풍겼다.
+()||<narrator>:이슬의 세상,//n이슬 세상이지만//n그렇다지만...
+()||:당신은 조용히 그녀의 손을 잡았다.+그렇다지만, 그렇다지만.
+()||<黑点1>:

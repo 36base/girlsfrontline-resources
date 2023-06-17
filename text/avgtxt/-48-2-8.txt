@@ -1,179 +1,179 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>229</BIN><BGM>GF_21summer_battle_3</BGM>:버려진 패러데우스 공장의 심층.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:마지막 이성질체가 쓰러졌고, 그 뒤로 완전히 똑같이 생긴 문 세 짝이 나타났다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:어느 거야?
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:...몰라.
-AR15Mod(4)<Speaker>AR15</Speaker>||<SE1>AVG_pistol_finalshot_n</SE1>:......
-()<Speaker></Speaker>||:총알 한 발이 몰리도의 어깨를 스쳤다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:다음엔 찰과상으로 안 끝나.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:여긴 원래 문이 두 짝뿐이었단 말이야. 오른쪽 문이 "이아손의 상자"를 보관하는 창고로 이어지는 문이었어.+그래도 이런 세 짝 짜리 문을 처음 보는 건 아니야... 이런 건 문을 전부 동시에 열어야만 열리더라.
-RO635Mod(0)<Speaker>RO635</Speaker>||:여기서 "이아손의 상자"를 찾아내는 데 얼마나 걸리지?
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:창고로 가는 구조까지 변하지 않았다면... 대충 십몇 분?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<SE1>AVG_tele_connect</SE1>:이제 어떡할까, 지휘관?
-()<Speaker>지휘관</Speaker>||:<color=#00CCFF>시간이 촉박하니, M4는 현재 위치서 몰리도를 감시하고, 너희 셋이 문을 하나씩 맡는 게 좋겠어. 절대 긴장을 늦추지 말고, 유사시 곧장 연락해.</color>
-()||<黑点1>:
-()<Speaker></Speaker>||<BIN>323</BIN><黑点2>:감시 모니터를 보던 그레이의 입꼬리가 드디어 올라갔다.
-NPC-MrsGray(4)<Speaker>그레이</Speaker>||:우린 어느 쪽으로 가는 게 좋겠니, 판도라?
-()<Speaker></Speaker>||:옆의 하얀 니토는 감히 끼어들 수 없었다. 그레이의 질문도 그녀가 감히 대답할 수 있는 것이 아니었다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:네 옛 동료들과 비교하면, 저들의 수준은 어떻지?
-RPK16(0)<Speaker>RPK16</Speaker>||:리벨리온은 신소련에서 가장 우수한 전술인형 소대예요.+성능만 따지고 본다면, 저들 중 아무도 우리를 이길 수 없죠.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:그런데?
-RPK16(0)<Speaker>RPK16</Speaker>||:그런데, AR팀은 상식을 벗어난 특별한 인형들이에요. 특히 M4A1은 그중에서도 유별나죠.+그 공장에서의 일은... 저도 이해가 안 간다니까요. 정말 동화 같은 이야기죠... 당신의 감상은 어땠나요?
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:동화라... 터무니없어.
-RPK16(4)<Speaker>RPK16</Speaker>||:터무니없는 일들이 세상을 아름답게 만드는 법이랍니다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:그렇다면, 관건은 니모겐이란 건가? 조금은 기대가 되는걸.
-()||<黑点1>:
-()<Speaker></Speaker>||<BIN>229</BIN><黑点2><SE1>AVG_Water_Drip</SE1>:천장에서 한 방울 한 방울 떨어지는 물방울 소리와 케케묵은 곰팡이 냄새가 그 자리의 모든 이들을 불쾌하게 했다.+하지만 그보다도 불쾌한 것은, 언제까지일지 모르는 기다림의 시간이었다. 마치 면발처럼 늘어지는 시간 감각이, 일분일초를 지겹기 짝이없게 만들었다.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:또 단둘이 됐네~+정말 보고 싶었다구... 그런데, "지금의 너"는 뭐라 불러야 해?
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:그냥 부르던 대로 부르세요.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:니모겐? 알았어, 그게 좋다면야.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:......
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:왜 안 따라가?+너 빼면 우릴 이길 수 있는 애가 없는데.
-NPC-Morridow(8)<Position>0,90</Position>;NytoIsomer(10)<Speaker>M4A1</Speaker>||:AR팀은 평범한 인형들이 아니에요.
-NPC-Morridow(8)<Speaker>몰리도</Speaker>;NytoIsomer(10)||:그래그래, 내가 봐도 특별한 인형들이긴 해.+하지만 나르시스 앞에선 도마 위의 생선 꼴이었지.
-NPC-Morridow(8)<Position>0,90</Position>;NytoIsomer(10)<Speaker>M4A1</Speaker>||:당신이 자랑하는 그 아이도 제 앞에선 별볼일 없었죠.
-NPC-Morridow(8)<Speaker>몰리도</Speaker>;NytoIsomer(10)||:우리한텐 걔만 있는 게 아닌데? 뛰어난 "작품"이 잔뜩이라고.+동등할 필요도 없지. 나르시스의 8할 정도의 힘만 있어도 네 동료들은 뼈도 못 추릴 거야.
-NytoIsomer(11)<Speaker>M4A1</Speaker>||:그럼 제가 당신에게 했던 것처럼 하면 되는 일입니다.
-()<Speaker></Speaker>||<SE1>Rope</SE1>:M4A1은 몰리도의 손을 뻗어 몰리도의 어깨를 눌러 꿇어앉혔고, 즉시 통신을 연결했다.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||<SE1>AVG_tele_connect</SE1>:AR-15?
-AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>M4? 무슨 일이야?</color>
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:이상 없나요?
-AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>그 맛 간 이성질체들 말곤 별거 없어. 다만 찾아낸 게 있는데, 본 마을에서 봤던 거랑 비슷한데 구조가 더 복잡해.</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:M4A1과 AR-15의 통신에 RO635가 끼어들었다.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>M4 씨, AR-15, SOP2, 모두 이상 없나요?</color>
-AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>AR-15, 확인.</color>
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:여기는 M4A1. 이상 없습니다.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>젠장... SOP2와 연락이 안 돼요, 지휘관님과도 연결이...</color>
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:......
-AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>M4, 몰리...를 조심......</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신이 부자연스럽게 끊겼다.
-()<Speaker></Speaker>||<SE1>Rope</SE1>:불안감이 M4A1을 엄습했고, 그녀의 손은 이미 몰리도의 목을 움켜쥐고 있었다.
-NytoIsomer(11)<Speaker>M4A1</Speaker>||:이제 잘 알 테지만, 당신을 처리하는 건 일도 아니에요.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:흐흐... 잘 알지... 아주 잘 알지...+너도 그렇잖아? 니모겐.
-NytoIsomer(11)<Speaker>M4A1</Speaker>||:......
-()<Speaker></Speaker>||:도발하는 몰리도를 물끄러미 바라보던 M4A1의 눈에서 불안감이 순식간에 사라졌다.
-NytoIsomer(13)<Speaker>M4A1</Speaker>||:...그렇군요, 무슨 일인지 알겠어요.+당신의 동료도, 당신과 같은 결말을 맞게 될 겁니다.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......!
-()||<黑点1>:
-()<Speaker></Speaker>||<BIN>324</BIN><黑点2><BGM>BGM_Empty</BGM>:......
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:어라... 막다른 길이네?
-()<Speaker></Speaker>||:이어지던 길이 끝나자, SOP2는 갸우뚱하며 야시 모드를 기동해 주위를 자세히 살펴봤다.+얼마 지나지 않아, 통로 끝자락의 벽 구석에서 은은한 빛을 발하는 구체들이 나란히 놓인 것을 발견했다.+이번 임무의 목표, "이아손의 상자"들이었다.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:아싸~ 목표 발견! 지휘관! 목표물 찾았어!+RO! AR-15! 그쪽 안 찾아도 돼! 내가 찾았어!
-()<Speaker></Speaker>||:SOP2는 폴짝폴짝 이아손의 상자에 다가가 확인하며 통신 연결을 하려 했다.
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:...하지만, 통신 채널에서 아무 소리도 들리지 않았다.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:어... 지휘관? RO~ AR-15~?+뭐야, 왜 다 안 받아?
-()<Speaker></Speaker>||:SOP2가 툴툴대며 목표물에 다가갔다.+그리고 그녀의 손이, 은은하게 빛나는 "이아손의 상자"에 닿는... 그때였다.
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:뒤를 본 바나나가 펄쩍 뛰며 다급하게 소리를 냈다.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:응? 왜 그래 바나나, 벌써 RO 보고 싶어?
-()<Speaker></Speaker>||:고개를 돌린 SOP2는 그제서야 뒤의 문이 어느샌가 닫힌 것을 깨달았다.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:본능적인 위기감이 번개처럼 뇌리를 스치자마자 SOP2는 그자리를 박차고 뒤로 펄쩍 뛰었지만, 벽에서 발사된 거대한 작살의 사선 밖으로 피할 순 없었다.
-()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1>:SOP2는 날아든 작살을 팔로 막아냈지만, 톱니 같은 날의 작살은 그대로 그녀의 팔을 꿰뚫고 단단히 고정됐다.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<BGM>GF_21summer_avg_Crisis</BGM>:크아아악!! 이 꼼수밖에 못 쓰는 비겁한 놈들아아아!!+당장 튀어나와!!!
-()<Speaker></Speaker>||:잔뜩 열받은 SOP2가 씩씩대며 작살을 물어 부러뜨리려 했다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:헛된 발버둥이니 포기해라. 덫에 걸린 사냥감은 사냥꾼에서 도망치지 못해.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:뭐어? 푸하하하하핫!!
-()<Speaker></Speaker>||:작살이 몹시 견고한 재질이어서 부러지지 않자, SOP2는 곧장 단념하고 팔을 억지로 뽑아내듯 빼냈다.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:날 사냥감 취급하는 놈은 네가 처음이야....+으히히힛! 덤벼, 실력을 보여보라구!
-()<Speaker></Speaker>||:하얀 니토의 손짓에, 어둠 속에 숨어있던 복병들이 모습을 드러냈다.+빈틈없는 함정에 빠졌음에도, SOP2는 긴장하기는커녕 오히려 한 마리 짐승처럼 이를 드러내며 웃었다.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:많이도 모였네... 뜯어내는 맛 있는 부품도 엄청 많겠어!+참, 시작하기 전에 부탁 좀 하나 하자... 비명은 최대한 크게 지르라고! 아하하하하핫!!!
-()<Speaker></Speaker>||:밀려드는 하얀 물결에, 검붉은 인형은 몸을 던졌다. 벽 안에 더 많은 작살들이 도사리고 있다는 것을 모르는 채.
-()||<黑点1>:
-()<Speaker></Speaker>||<BIN>229</BIN><黑点2>:단단히 붙잡혀 죄어지는 목 때문에 숨쉬기도 힘겨웠지만, 몰리도는 쉴 새 없이 떠들었다.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:너... 초조하지...?+네 동료들이... 네 손에서 벗어나니까... 걱정되지...?
-()<Speaker></Speaker>||<SE1>Rope</SE1>:M4A1은 손에 조금 더 힘을 줬다.
-NytoIsomer(11)<Speaker>M4A1</Speaker>||:AR팀은 실전을 통해 배우고 성장해요.+이런 상황은 이미 상정한 바예요.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:자기기만은 그쯤 하지...?+네... 네가 또 기적을 일으킬 수 있을까...?+내가 보기에, 넌... 지금 체력 부족인 거 같은데...
-NytoIsomer(11)<Speaker>M4A1</Speaker>||:해볼테면 어디 해보던가요.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:저엉말 자신만만하구나... 마음에 들어...+그 성격... 나랑 많이 비슷해...+너 그냥 나랑 같이 갈래...? 아버님께서 널 보면 분명 엄청 좋아하실 거야...
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:그렇겠죠, 왜 당신에게 저를 잡아오라 시켰겠어요.
-()<Speaker></Speaker>||:그 말이 몰리도의 정곡을 찔렀다.+몰리도의 얼굴에서 웃음기가 완전히 사라졌고, M4A1에게서 시선을 돌리지 않았지만 남은 힘을 쥐어짜 미약하게나마 발버둥쳤다.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:내 기능... 되돌려 놔... 그럼... 통신을 복구해 줄게...
-NytoIsomer(11)<Speaker>M4A1</Speaker>||:그럴 필요는 없어요. 이곳의 시스템을 제어하는 종합 서버가 어딘지나 말해요.+제가 직접 할 테니까.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:하하... 그것도... 좋지...
-()||<黑点1>:
-()<Speaker></Speaker>||<BIN>324</BIN><黑点2><SE1>AVG_20Winter_Knife_Whoosh</SE1>:예리한 칼날이 아슬아슬하게 SOP2의 뺨을 스쳤지만, 그것은 빗맞은 것이 아니었다.+소리 없는 멸시, 내지는 조롱이었다.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:겨우 이것밖에 안 돼!? 앙?!
-()<Speaker></Speaker>||:작살들에 꿰뚫려 SOP2는 제대로 움직이기도 힘들었지만, 얼굴에 특유의 흉악한 미소는 여전한 채로 눈앞의 하얀 니토를 사납게 노려봤다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:너의 그 맹목적인 모습에 새로운 경험을 했다. 하지만 다 헛수고다.+얌전히 잠들어라, 너의 동료들처럼.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:이 땅딸보가 계속 헛소리 지껄여 봐, 그 입 확 찢어버릴 거야!
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:네 목숨의 끝자락이니, 자비를 베풀어 네 동료가 구슬피 우는 소리를 들려주마.
-()<Speaker></Speaker>||:자신의 통신기를 꺼내 SOP2의 귓가에 대는 하얀 니토는, 보기 드물게 씨익 웃었다.
-()<Speaker>RO635</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...SOP2?! SOP2!</color>+<color=#00CCFF>너 ...금 어디...... 도와...</color>
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:RO! 너 어딨어! 괜찮아!?
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:하얀 니토가 무심하게 통신기를 껐다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:동료가 죽음 앞에서 무너지는 소리보다 가슴 아픈 것이 또 어디 있――
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<震屏3><BGM>BGM_Empty</BGM>:크아앙!!!
-()<Speaker></Speaker>||<SE1>AVG_21Winter_Phone_Crash</SE1>:SOP2가 하얀 니토의 팔목을 콱 물어뜯어, 통신기가 바닥에 떨어졌다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:이 미친개가...!
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<BGM>10203</BGM>:너네 다 죽었어어어!!!
-()<Speaker></Speaker>||:그것이 방아쇠였을까, SOP2가 박힌 작살들에 소체가 뜯겨 나가는 것도 아랑곳않고 난폭하게 몸부림치기 시작했다.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:M4가 돌아왔다고... 이제 M16 언니만 돌아오면 되는데!!!+내 가족한테 손대게 둘 거 같아아아!!!
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:뭐, 뭘 멍하니 보고 있어?! 어서 죽여!
-()<Speaker></Speaker>||:SOP2가 속박에서 채 벗어나기도 전에, 하얀 물결이 다시 그녀를 덮쳤다.
-()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1>:차가운 낫, 창, 검... 몸이 찔릴 때마다, SOP2는 고통스웠다. 하지만 포기하지 않았다.+SOP2는 포효를 내지르며 가까스로 뽑아낸 팔로 가까이 있던 패러데우스의 병사 몇 기를 말 그대로 찢어버렸다.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:크아아아아아아――!!!
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:죽여! 빨리 죽이라고!
-()<Speaker></Speaker>||:이 세상의 것이 아닌 듯한 포효에, 패러데우스의 졸개들은 한 순간 주춤했다.
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:그 틈을 놓치지 않고, 여태까지 SOP2의 뒤에 숨어있던 바나나가 용기를 내 높은 곳까지 올라 신호 수집기를 겸하는 메가폰을 높이 들었다.
-RO635Mod(4)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>SOP2!!!</color>
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<震屏3>:RO――!!!
-()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1>:이를 악문 SOP2가, 마지막 작살에서 몸을 빼냈다.
-()<Speaker></Speaker>||:그리고 쓰러지듯 바닥에 닿는 순간, 자신의 무기를 다시 집었다.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<SE1>Select</SE1>:유탄이나 먹어!
-()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:발사한 유탄이 코앞에서 폭발했고, SOP2는 충격파를 한몸에 받아 바닥을 나뒹굴었다.
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:그럼에도 그녀는 방아쇠를 놓지 않았고, 그대로 "본능"에 몸을 맡겼다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>324</BIN><BGM>BGM_Empty</BGM>:...잠시 후, 그녀가 정신을 차렸을 땐 사방이 온통 하얀 잔해 천지였다.+다리에 힘이 풀린 SOP2는 그대로 바닥에 엎어졌다.+간단히 자가 진단한 결과, 소체의 운동 능력은 80% 저하... 그럼에도 불구하고, 그녀는 방 한구석의 아직 멀쩡한 "이아손의 상자"를 향해 기어갔다.
-RO635Mod(4)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>SOP2!!!</color>
-M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||:뭐야아... 청각 모듈 망가지겠다...
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>다행이다, 드디어 연결됐네... 너 괜찮아? 조금 전까지 엄청 시끄러웠는데...</color>
-M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||:당연히 별거 아니지... 참, 나 목표물 찾았어...
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>알았어, 당장 네 위치로 갈게.</color>+<color=#00CCFF>신호가 차단된 도중에 혹시 패러데우스 병력과 조우하진 않았어?</color>
-M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||:헤헤헤... 몇 놈 만났지... 다 해치웠어...
-()<Speaker></Speaker>||:느릿느릿 기어간 끝에, 이아손의 상자에 손이 닿은 SOP2는 그 구체를 꼬옥 끌어안았다.
-RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>SOP2, 너 정말 괜찮은 거 맞아? 목소리가...</color>
-M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||:괜찮대두... RO 보고 싶으니까 얼른 와...
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:SOP2는 이아손의 상자를 안고서, 벽을 지지대 삼아 간신히 일어섰다.+처참하게 망가진 두 다리로는 걷는 것조차 불가능했기에, 그녀는 벽에 몸을 비비다시피하며 한발씩 출구로 몸을 옮겼다.
-()<Speaker></Speaker>||<SE1>RunStep</SE1>:통로 저 끝에서, 익숙한 RO635의 다급한 발소리가 들려왔다.
-()||<黑点1>:
-()<Speaker></Speaker>||<BIN>229</BIN><黑点2><BGM>BGM_Brain</BGM>:자신을 내려다보는 M4A1의 그 흔들림 없는 눈빛에, 몰리도는 주저했다.+아직... 때가 아닌 걸까?
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:지친 행인아... 장미를 보았느냐...+울타리가 보이는 곳 전부 우리 고향이어라...
-()<Speaker></Speaker>||:몰리도가 대뜸 분위기와 전혀 어울리지 않는 노래를 부르더니, 눈을 가늘게 떴다.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:...너도 이 노래 들어봤지?
-NytoIsomer(10)<Speaker>M4A1</Speaker>||<SE1>AVG_tele_connect</SE1>:통신이 복구됐습니다. 문앞에서 합류해요.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:그 다음엔?
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:...여길 폭파할 거예요, 그 약 공장처럼.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아하... 예상했던 그대로네...
-()||<黑点1>:
-()<Speaker></Speaker>||<BIN>1</BIN><黑点2>:눈에 띄지 않는 구석의 전자문이 소리없이 열렸고, 한쪽에서 대기하던 하얀 니토가 문에서 걸어 나오는 여성에게 조심스레 질문했다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:어, 어디에...?
-NPC-MrsGray(3)<Speaker>그레이</Speaker>||:작전 취소다. 스승님께서 철수하라 하셨다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:그럼, 저... 저희는 어떡하면 됩니까...?
-NPC-MrsGray(3)<Speaker>그레이</Speaker>||:돌아가서 대기하렴.+어차피 너희가 할 일은 전혀 줄지 않을 테니.
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>414</BIN><SE1>AVG_splash_water</SE1><震屏3>:양동이에 한가득인 찬물이, 바닥에 쓰러져 온몸이 피투성이인 몰리도에게 철썩하고 들이부어졌다.
-()<Speaker></Speaker>||<BGM>BGM_Room</BGM><SE1>AVG_Door_Open_Close</SE1>:때마침 무거운 발소리가 천천히 다가오더니, 문을 열고 지휘관이 들어와 피곤한 몸을 의자에 앉혔다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:...SOP2는 좀 어때요?
-()<Speaker>지휘관</Speaker>||:45가 검사했어. 다행히도 여기에 수복에 쓸 만한 부품이 있지만, 당분간 평소처럼 날뛸 순 없대.
-()<Speaker></Speaker>||<SE1>AVG_splash_water</SE1>:AR-15는 뒤돌아 물을 한 양동이 더 뿌렸다. 피와 물이 뒤섞인 웅덩이 위에 널브러진 몰리도는, 여전히 미약하게나마 미소를 짓고 있었다.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:로빈... 당신은 이런 식으로 남에게 보답하나요...?
-AR15Mod(5)<Speaker>AR15</Speaker>||:이년이 아직도 그렇게 불러!? 어서 말해, 거기서 무슨 짓을 한 거야!!
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......난... 아무 짓도 안 했어...
-AR15Mod(5)<Speaker>AR15</Speaker>||:웃기지 마! 그럼 그때 왜 신호가 차단됐는데!+그리고, 통제실에서 노래는 왜 불렀어? 누구한테 지시를 내린 거야!
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:하하하... 내가 아직도 패러데우스한테 지시를 내릴 수 있다면... 너희는 거기서 살아 나오지도 못했어...+생각을 좀 해보라구... 버려진 공장이, 내가 알던 모습이 아니게 됐는데... 신호 차단이 될 줄 내가 어떻게 알았겠어...?
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:우웁... 케헥... 콜록콜록...
-()<Speaker></Speaker>||:그녀의 토혈이 마치 피어나는 장미처럼 번졌다.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:원하는 걸 드렸잖아요...?+로빈, 전 당신을 믿었는데... 당신은 절 안 믿어 주네요...+"언니"가 로빈에게 약을 줬을 때처럼...+그때, 언니를 믿었나요... 안 믿었나요...?
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:지친 행인아... 장미를 보았느냐...+울타리가 보이는 곳 전부 우리 고향이어라...
-()<Speaker></Speaker>||:고문에 시달린 탓인지 몰리도의 목청이 갈라졌지만, 그럼에도 그녀는 공장에서 불렀던 노래를 다시 불렀다.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:...이 노래, 뭐라고 생각해요...? 로빈... 이건 그냥... 아직 인간이었을 적, 저와 언니의... 고향의 동요예요... 로빈도... 들어봤을 텐데...+의미 따위 없어요... 그저... 본능일 뿐...+그 공장의 매복은... 로빈만 노린 게 아니에요... 저까지 노렸죠... 콜록콜록...
-()<Speaker>지휘관</Speaker>||:그 공장에서 확보한 "이아손의 상자"는 규모도, 종류도 전에 봤던 것을 아득히 뛰어넘었어. 그런데, 대부분이 아직 반쯤 조립되다 만 듯한 형태더군.+완성된 이아손의 상자는 대체 어떤 물건이지?
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:콜록콜록콜록... 당신이 봤던 그대로... 당신이 생각하는 그 모습 그대로예요...
-NPC-Morridow(8)<Speaker>지휘관</Speaker>||:단순히 소형 생화학 무기를 업그레이드한 대형 생화학 무기라도 된단 뜻이야?+베를린에서의 일련의 소란은 그저 전주에 불과했어.+패러데우스가 노리는 건 대체 뭐지?
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:쿨럭... 글쎄요... 저는 그저... 수많은 꼭두각시들 중에서도 좀 나은 것일 뿐이라고요...+로빈... 정말 실망이에요...
-()<Speaker>지휘관</Speaker>||:......
-()<Speaker></Speaker>||:그리고 그녀는 여전한 태도로 그 동요를 다시 부르시 시작했다.+일그러진 얼굴과, 과장된 미소와는 전혀 어울리지 않는 동요를.
-AR15Mod(5)<Speaker>AR15</Speaker>||:작작 해!
-()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1><BGM>BGM_Empty</BGM><震屏3>:몰리도는 머리를 바닥에 세게 처박고 그대로 기절했다.+하지만 입술은 여전히 미소를 짓고 있었다. 마흐리안과 매우 흡사한 그 얼굴엔, 지금 그녀를 형용하기엔 결코 적절하지 않은 "편안함"이 엿보였다.
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>229</BIN><BGM>GF_21summer_battle_3</BGM>:버려진 패러데우스 공장의 심층.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:마지막 이성질체가 쓰러졌고, 그 뒤로 완전히 똑같이 생긴 문 세 짝이 나타났다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:어느 거야?
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:...몰라.
+AR15Mod(4)<Speaker>AR15</Speaker>||<SE1>AVG_pistol_finalshot_n</SE1>:......
+()<Speaker></Speaker>||:총알 한 발이 몰리도의 어깨를 스쳤다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:다음엔 찰과상으로 안 끝나.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:여긴 원래 문이 두 짝뿐이었단 말이야. 오른쪽 문이 "이아손의 상자"를 보관하는 창고로 이어지는 문이었어.+그래도 이런 세 짝 짜리 문을 처음 보는 건 아니야... 이런 건 문을 전부 동시에 열어야만 열리더라.
+RO635Mod(0)<Speaker>RO635</Speaker>||:여기서 "이아손의 상자"를 찾아내는 데 얼마나 걸리지?
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:창고로 가는 구조까지 변하지 않았다면... 대충 십몇 분?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<SE1>AVG_tele_connect</SE1>:이제 어떡할까, 지휘관?
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>시간이 촉박하니, M4는 현재 위치서 몰리도를 감시하고, 너희 셋이 문을 하나씩 맡는 게 좋겠어. 절대 긴장을 늦추지 말고, 유사시 곧장 연락해.</color>
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>323</BIN><黑点2>:감시 모니터를 보던 그레이의 입꼬리가 드디어 올라갔다.
+NPC-MrsGray(4)<Speaker>그레이</Speaker>||:우린 어느 쪽으로 가는 게 좋겠니, 판도라?
+()<Speaker></Speaker>||:옆의 하얀 니토는 감히 끼어들 수 없었다. 그레이의 질문도 그녀가 감히 대답할 수 있는 것이 아니었다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:네 옛 동료들과 비교하면, 저들의 수준은 어떻지?
+RPK16(0)<Speaker>RPK16</Speaker>||:리벨리온은 신소련에서 가장 우수한 전술인형 소대예요.+성능만 따지고 본다면, 저들 중 아무도 우리를 이길 수 없죠.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:그런데?
+RPK16(0)<Speaker>RPK16</Speaker>||:그런데, AR팀은 상식을 벗어난 특별한 인형들이에요. 특히 M4A1은 그중에서도 유별나죠.+그 공장에서의 일은... 저도 이해가 안 간다니까요. 정말 동화 같은 이야기죠... 당신의 감상은 어땠나요?
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:동화라... 터무니없어.
+RPK16(4)<Speaker>RPK16</Speaker>||:터무니없는 일들이 세상을 아름답게 만드는 법이랍니다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:그렇다면, 관건은 니모겐이란 건가? 조금은 기대가 되는걸.
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>229</BIN><黑点2><SE1>AVG_Water_Drip</SE1>:천장에서 한 방울 한 방울 떨어지는 물방울 소리와 케케묵은 곰팡이 냄새가 그 자리의 모든 이들을 불쾌하게 했다.+하지만 그보다도 불쾌한 것은, 언제까지일지 모르는 기다림의 시간이었다. 마치 면발처럼 늘어지는 시간 감각이, 일분일초를 지겹기 짝이없게 만들었다.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:또 단둘이 됐네~+정말 보고 싶었다구... 그런데, "지금의 너"는 뭐라 불러야 해?
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:그냥 부르던 대로 부르세요.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:니모겐? 알았어, 그게 좋다면야.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:......
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:왜 안 따라가?+너 빼면 우릴 이길 수 있는 애가 없는데.
+NPC-Morridow(8)<Position>0,90</Position>;NytoIsomer(10)<Speaker>M4A1</Speaker>||:AR팀은 평범한 인형들이 아니에요.
+NPC-Morridow(8)<Speaker>몰리도</Speaker>;NytoIsomer(10)||:그래그래, 내가 봐도 특별한 인형들이긴 해.+하지만 나르시스 앞에선 도마 위의 생선 꼴이었지.
+NPC-Morridow(8)<Position>0,90</Position>;NytoIsomer(10)<Speaker>M4A1</Speaker>||:당신이 자랑하는 그 아이도 제 앞에선 별볼일 없었죠.
+NPC-Morridow(8)<Speaker>몰리도</Speaker>;NytoIsomer(10)||:우리한텐 걔만 있는 게 아닌데? 뛰어난 "작품"이 잔뜩이라고.+동등할 필요도 없지. 나르시스의 8할 정도의 힘만 있어도 네 동료들은 뼈도 못 추릴 거야.
+NytoIsomer(11)<Speaker>M4A1</Speaker>||:그럼 제가 당신에게 했던 것처럼 하면 되는 일입니다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:M4A1은 몰리도의 손을 뻗어 몰리도의 어깨를 눌러 꿇어앉혔고, 즉시 통신을 연결했다.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||<SE1>AVG_tele_connect</SE1>:AR-15?
+AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>M4? 무슨 일이야?</color>
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:이상 없나요?
+AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>그 맛 간 이성질체들 말곤 별거 없어. 다만 찾아낸 게 있는데, 본 마을에서 봤던 거랑 비슷한데 구조가 더 복잡해.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:M4A1과 AR-15의 통신에 RO635가 끼어들었다.
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>M4 씨, AR-15, SOP2, 모두 이상 없나요?</color>
+AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>AR-15, 확인.</color>
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:여기는 M4A1. 이상 없습니다.
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>젠장... SOP2와 연락이 안 돼요, 지휘관님과도 연결이...</color>
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:......
+AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>M4, 몰리...를 조심......</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신이 부자연스럽게 끊겼다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:불안감이 M4A1을 엄습했고, 그녀의 손은 이미 몰리도의 목을 움켜쥐고 있었다.
+NytoIsomer(11)<Speaker>M4A1</Speaker>||:이제 잘 알 테지만, 당신을 처리하는 건 일도 아니에요.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:흐흐... 잘 알지... 아주 잘 알지...+너도 그렇잖아? 니모겐.
+NytoIsomer(11)<Speaker>M4A1</Speaker>||:......
+()<Speaker></Speaker>||:도발하는 몰리도를 물끄러미 바라보던 M4A1의 눈에서 불안감이 순식간에 사라졌다.
+NytoIsomer(13)<Speaker>M4A1</Speaker>||:...그렇군요, 무슨 일인지 알겠어요.+당신의 동료도, 당신과 같은 결말을 맞게 될 겁니다.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......!
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>324</BIN><黑点2><BGM>BGM_Empty</BGM>:......
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:어라... 막다른 길이네?
+()<Speaker></Speaker>||:이어지던 길이 끝나자, SOP2는 갸우뚱하며 야시 모드를 기동해 주위를 자세히 살펴봤다.+얼마 지나지 않아, 통로 끝자락의 벽 구석에서 은은한 빛을 발하는 구체들이 나란히 놓인 것을 발견했다.+이번 임무의 목표, "이아손의 상자"들이었다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:아싸~ 목표 발견! 지휘관! 목표물 찾았어!+RO! AR-15! 그쪽 안 찾아도 돼! 내가 찾았어!
+()<Speaker></Speaker>||:SOP2는 폴짝폴짝 이아손의 상자에 다가가 확인하며 통신 연결을 하려 했다.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:...하지만, 통신 채널에서 아무 소리도 들리지 않았다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:어... 지휘관? RO~ AR-15~?+뭐야, 왜 다 안 받아?
+()<Speaker></Speaker>||:SOP2가 툴툴대며 목표물에 다가갔다.+그리고 그녀의 손이, 은은하게 빛나는 "이아손의 상자"에 닿는... 그때였다.
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:뒤를 본 바나나가 펄쩍 뛰며 다급하게 소리를 냈다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:응? 왜 그래 바나나, 벌써 RO 보고 싶어?
+()<Speaker></Speaker>||:고개를 돌린 SOP2는 그제서야 뒤의 문이 어느샌가 닫힌 것을 깨달았다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:본능적인 위기감이 번개처럼 뇌리를 스치자마자 SOP2는 그자리를 박차고 뒤로 펄쩍 뛰었지만, 벽에서 발사된 거대한 작살의 사선 밖으로 피할 순 없었다.
+()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1>:SOP2는 날아든 작살을 팔로 막아냈지만, 톱니 같은 날의 작살은 그대로 그녀의 팔을 꿰뚫고 단단히 고정됐다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<BGM>GF_21summer_avg_Crisis</BGM>:크아아악!! 이 꼼수밖에 못 쓰는 비겁한 놈들아아아!!+당장 튀어나와!!!
+()<Speaker></Speaker>||:잔뜩 열받은 SOP2가 씩씩대며 작살을 물어 부러뜨리려 했다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:헛된 발버둥이니 포기해라. 덫에 걸린 사냥감은 사냥꾼에서 도망치지 못해.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:뭐어? 푸하하하하핫!!
+()<Speaker></Speaker>||:작살이 몹시 견고한 재질이어서 부러지지 않자, SOP2는 곧장 단념하고 팔을 억지로 뽑아내듯 빼냈다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:날 사냥감 취급하는 놈은 네가 처음이야....+으히히힛! 덤벼, 실력을 보여보라구!
+()<Speaker></Speaker>||:하얀 니토의 손짓에, 어둠 속에 숨어있던 복병들이 모습을 드러냈다.+빈틈없는 함정에 빠졌음에도, SOP2는 긴장하기는커녕 오히려 한 마리 짐승처럼 이를 드러내며 웃었다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:많이도 모였네... 뜯어내는 맛 있는 부품도 엄청 많겠어!+참, 시작하기 전에 부탁 좀 하나 하자... 비명은 최대한 크게 지르라고! 아하하하하핫!!!
+()<Speaker></Speaker>||:밀려드는 하얀 물결에, 검붉은 인형은 몸을 던졌다. 벽 안에 더 많은 작살들이 도사리고 있다는 것을 모르는 채.
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>229</BIN><黑点2>:단단히 붙잡혀 죄어지는 목 때문에 숨쉬기도 힘겨웠지만, 몰리도는 쉴 새 없이 떠들었다.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:너... 초조하지...?+네 동료들이... 네 손에서 벗어나니까... 걱정되지...?
+()<Speaker></Speaker>||<SE1>Rope</SE1>:M4A1은 손에 조금 더 힘을 줬다.
+NytoIsomer(11)<Speaker>M4A1</Speaker>||:AR팀은 실전을 통해 배우고 성장해요.+이런 상황은 이미 상정한 바예요.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:자기기만은 그쯤 하지...?+네... 네가 또 기적을 일으킬 수 있을까...?+내가 보기에, 넌... 지금 체력 부족인 거 같은데...
+NytoIsomer(11)<Speaker>M4A1</Speaker>||:해볼테면 어디 해보던가요.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:저엉말 자신만만하구나... 마음에 들어...+그 성격... 나랑 많이 비슷해...+너 그냥 나랑 같이 갈래...? 아버님께서 널 보면 분명 엄청 좋아하실 거야...
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:그렇겠죠, 왜 당신에게 저를 잡아오라 시켰겠어요.
+()<Speaker></Speaker>||:그 말이 몰리도의 정곡을 찔렀다.+몰리도의 얼굴에서 웃음기가 완전히 사라졌고, M4A1에게서 시선을 돌리지 않았지만 남은 힘을 쥐어짜 미약하게나마 발버둥쳤다.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:내 기능... 되돌려 놔... 그럼... 통신을 복구해 줄게...
+NytoIsomer(11)<Speaker>M4A1</Speaker>||:그럴 필요는 없어요. 이곳의 시스템을 제어하는 종합 서버가 어딘지나 말해요.+제가 직접 할 테니까.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:하하... 그것도... 좋지...
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>324</BIN><黑点2><SE1>AVG_20Winter_Knife_Whoosh</SE1>:예리한 칼날이 아슬아슬하게 SOP2의 뺨을 스쳤지만, 그것은 빗맞은 것이 아니었다.+소리 없는 멸시, 내지는 조롱이었다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:겨우 이것밖에 안 돼!? 앙?!
+()<Speaker></Speaker>||:작살들에 꿰뚫려 SOP2는 제대로 움직이기도 힘들었지만, 얼굴에 특유의 흉악한 미소는 여전한 채로 눈앞의 하얀 니토를 사납게 노려봤다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:너의 그 맹목적인 모습에 새로운 경험을 했다. 하지만 다 헛수고다.+얌전히 잠들어라, 너의 동료들처럼.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:이 땅딸보가 계속 헛소리 지껄여 봐, 그 입 확 찢어버릴 거야!
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:네 목숨의 끝자락이니, 자비를 베풀어 네 동료가 구슬피 우는 소리를 들려주마.
+()<Speaker></Speaker>||:자신의 통신기를 꺼내 SOP2의 귓가에 대는 하얀 니토는, 보기 드물게 씨익 웃었다.
+()<Speaker>RO635</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...SOP2?! SOP2!</color>+<color=#00CCFF>너 ...금 어디...... 도와...</color>
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:RO! 너 어딨어! 괜찮아!?
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:하얀 니토가 무심하게 통신기를 껐다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:동료가 죽음 앞에서 무너지는 소리보다 가슴 아픈 것이 또 어디 있――
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<震屏3><BGM>BGM_Empty</BGM>:크아앙!!!
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Phone_Crash</SE1>:SOP2가 하얀 니토의 팔목을 콱 물어뜯어, 통신기가 바닥에 떨어졌다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:이 미친개가...!
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<BGM>10203</BGM>:너네 다 죽었어어어!!!
+()<Speaker></Speaker>||:그것이 방아쇠였을까, SOP2가 박힌 작살들에 소체가 뜯겨 나가는 것도 아랑곳않고 난폭하게 몸부림치기 시작했다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:M4가 돌아왔다고... 이제 M16 언니만 돌아오면 되는데!!!+내 가족한테 손대게 둘 거 같아아아!!!
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:뭐, 뭘 멍하니 보고 있어?! 어서 죽여!
+()<Speaker></Speaker>||:SOP2가 속박에서 채 벗어나기도 전에, 하얀 물결이 다시 그녀를 덮쳤다.
+()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1>:차가운 낫, 창, 검... 몸이 찔릴 때마다, SOP2는 고통스웠다. 하지만 포기하지 않았다.+SOP2는 포효를 내지르며 가까스로 뽑아낸 팔로 가까이 있던 패러데우스의 병사 몇 기를 말 그대로 찢어버렸다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:크아아아아아아――!!!
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:죽여! 빨리 죽이라고!
+()<Speaker></Speaker>||:이 세상의 것이 아닌 듯한 포효에, 패러데우스의 졸개들은 한 순간 주춤했다.
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:그 틈을 놓치지 않고, 여태까지 SOP2의 뒤에 숨어있던 바나나가 용기를 내 높은 곳까지 올라 신호 수집기를 겸하는 메가폰을 높이 들었다.
+RO635Mod(4)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>SOP2!!!</color>
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<震屏3>:RO――!!!
+()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1>:이를 악문 SOP2가, 마지막 작살에서 몸을 빼냈다.
+()<Speaker></Speaker>||:그리고 쓰러지듯 바닥에 닿는 순간, 자신의 무기를 다시 집었다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||<SE1>Select</SE1>:유탄이나 먹어!
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:발사한 유탄이 코앞에서 폭발했고, SOP2는 충격파를 한몸에 받아 바닥을 나뒹굴었다.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:그럼에도 그녀는 방아쇠를 놓지 않았고, 그대로 "본능"에 몸을 맡겼다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>324</BIN><BGM>BGM_Empty</BGM>:...잠시 후, 그녀가 정신을 차렸을 땐 사방이 온통 하얀 잔해 천지였다.+다리에 힘이 풀린 SOP2는 그대로 바닥에 엎어졌다.+간단히 자가 진단한 결과, 소체의 운동 능력은 80% 저하... 그럼에도 불구하고, 그녀는 방 한구석의 아직 멀쩡한 "이아손의 상자"를 향해 기어갔다.
+RO635Mod(4)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>SOP2!!!</color>
+M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||:뭐야아... 청각 모듈 망가지겠다...
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>다행이다, 드디어 연결됐네... 너 괜찮아? 조금 전까지 엄청 시끄러웠는데...</color>
+M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||:당연히 별거 아니지... 참, 나 목표물 찾았어...
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>알았어, 당장 네 위치로 갈게.</color>+<color=#00CCFF>신호가 차단된 도중에 혹시 패러데우스 병력과 조우하진 않았어?</color>
+M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||:헤헤헤... 몇 놈 만났지... 다 해치웠어...
+()<Speaker></Speaker>||:느릿느릿 기어간 끝에, 이아손의 상자에 손이 닿은 SOP2는 그 구체를 꼬옥 끌어안았다.
+RO635Mod(0)<Speaker>RO635</Speaker><通讯框>||:<color=#00CCFF>SOP2, 너 정말 괜찮은 거 맞아? 목소리가...</color>
+M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||:괜찮대두... RO 보고 싶으니까 얼른 와...
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:SOP2는 이아손의 상자를 안고서, 벽을 지지대 삼아 간신히 일어섰다.+처참하게 망가진 두 다리로는 걷는 것조차 불가능했기에, 그녀는 벽에 몸을 비비다시피하며 한발씩 출구로 몸을 옮겼다.
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:통로 저 끝에서, 익숙한 RO635의 다급한 발소리가 들려왔다.
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>229</BIN><黑点2><BGM>BGM_Brain</BGM>:자신을 내려다보는 M4A1의 그 흔들림 없는 눈빛에, 몰리도는 주저했다.+아직... 때가 아닌 걸까?
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:지친 행인아... 장미를 보았느냐...+울타리가 보이는 곳 전부 우리 고향이어라...
+()<Speaker></Speaker>||:몰리도가 대뜸 분위기와 전혀 어울리지 않는 노래를 부르더니, 눈을 가늘게 떴다.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:...너도 이 노래 들어봤지?
+NytoIsomer(10)<Speaker>M4A1</Speaker>||<SE1>AVG_tele_connect</SE1>:통신이 복구됐습니다. 문앞에서 합류해요.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:그 다음엔?
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:...여길 폭파할 거예요, 그 약 공장처럼.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아하... 예상했던 그대로네...
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>1</BIN><黑点2>:눈에 띄지 않는 구석의 전자문이 소리없이 열렸고, 한쪽에서 대기하던 하얀 니토가 문에서 걸어 나오는 여성에게 조심스레 질문했다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:어, 어디에...?
+NPC-MrsGray(3)<Speaker>그레이</Speaker>||:작전 취소다. 스승님께서 철수하라 하셨다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:그럼, 저... 저희는 어떡하면 됩니까...?
+NPC-MrsGray(3)<Speaker>그레이</Speaker>||:돌아가서 대기하렴.+어차피 너희가 할 일은 전혀 줄지 않을 테니.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>414</BIN><SE1>AVG_splash_water</SE1><震屏3>:양동이에 한가득인 찬물이, 바닥에 쓰러져 온몸이 피투성이인 몰리도에게 철썩하고 들이부어졌다.
+()<Speaker></Speaker>||<BGM>BGM_Room</BGM><SE1>AVG_Door_Open_Close</SE1>:때마침 무거운 발소리가 천천히 다가오더니, 문을 열고 지휘관이 들어와 피곤한 몸을 의자에 앉혔다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:...SOP2는 좀 어때요?
+()<Speaker>지휘관</Speaker>||:45가 검사했어. 다행히도 여기에 수복에 쓸 만한 부품이 있지만, 당분간 평소처럼 날뛸 순 없대.
+()<Speaker></Speaker>||<SE1>AVG_splash_water</SE1>:AR-15는 뒤돌아 물을 한 양동이 더 뿌렸다. 피와 물이 뒤섞인 웅덩이 위에 널브러진 몰리도는, 여전히 미약하게나마 미소를 짓고 있었다.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:로빈... 당신은 이런 식으로 남에게 보답하나요...?
+AR15Mod(5)<Speaker>AR15</Speaker>||:이년이 아직도 그렇게 불러!? 어서 말해, 거기서 무슨 짓을 한 거야!!
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......난... 아무 짓도 안 했어...
+AR15Mod(5)<Speaker>AR15</Speaker>||:웃기지 마! 그럼 그때 왜 신호가 차단됐는데!+그리고, 통제실에서 노래는 왜 불렀어? 누구한테 지시를 내린 거야!
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:하하하... 내가 아직도 패러데우스한테 지시를 내릴 수 있다면... 너희는 거기서 살아 나오지도 못했어...+생각을 좀 해보라구... 버려진 공장이, 내가 알던 모습이 아니게 됐는데... 신호 차단이 될 줄 내가 어떻게 알았겠어...?
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:우웁... 케헥... 콜록콜록...
+()<Speaker></Speaker>||:그녀의 토혈이 마치 피어나는 장미처럼 번졌다.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:원하는 걸 드렸잖아요...?+로빈, 전 당신을 믿었는데... 당신은 절 안 믿어 주네요...+"언니"가 로빈에게 약을 줬을 때처럼...+그때, 언니를 믿었나요... 안 믿었나요...?
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:지친 행인아... 장미를 보았느냐...+울타리가 보이는 곳 전부 우리 고향이어라...
+()<Speaker></Speaker>||:고문에 시달린 탓인지 몰리도의 목청이 갈라졌지만, 그럼에도 그녀는 공장에서 불렀던 노래를 다시 불렀다.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:...이 노래, 뭐라고 생각해요...? 로빈... 이건 그냥... 아직 인간이었을 적, 저와 언니의... 고향의 동요예요... 로빈도... 들어봤을 텐데...+의미 따위 없어요... 그저... 본능일 뿐...+그 공장의 매복은... 로빈만 노린 게 아니에요... 저까지 노렸죠... 콜록콜록...
+()<Speaker>지휘관</Speaker>||:그 공장에서 확보한 "이아손의 상자"는 규모도, 종류도 전에 봤던 것을 아득히 뛰어넘었어. 그런데, 대부분이 아직 반쯤 조립되다 만 듯한 형태더군.+완성된 이아손의 상자는 대체 어떤 물건이지?
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:콜록콜록콜록... 당신이 봤던 그대로... 당신이 생각하는 그 모습 그대로예요...
+NPC-Morridow(8)<Speaker>지휘관</Speaker>||:단순히 소형 생화학 무기를 업그레이드한 대형 생화학 무기라도 된단 뜻이야?+베를린에서의 일련의 소란은 그저 전주에 불과했어.+패러데우스가 노리는 건 대체 뭐지?
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:쿨럭... 글쎄요... 저는 그저... 수많은 꼭두각시들 중에서도 좀 나은 것일 뿐이라고요...+로빈... 정말 실망이에요...
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:그리고 그녀는 여전한 태도로 그 동요를 다시 부르시 시작했다.+일그러진 얼굴과, 과장된 미소와는 전혀 어울리지 않는 동요를.
+AR15Mod(5)<Speaker>AR15</Speaker>||:작작 해!
+()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1><BGM>BGM_Empty</BGM><震屏3>:몰리도는 머리를 바닥에 세게 처박고 그대로 기절했다.+하지만 입술은 여전히 미소를 짓고 있었다. 마흐리안과 매우 흡사한 그 얼굴엔, 지금 그녀를 형용하기엔 결코 적절하지 않은 "편안함"이 엿보였다.
+()||<黑屏1>:

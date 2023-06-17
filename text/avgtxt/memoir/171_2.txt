@@ -1,111 +1,111 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator>:1개월 전.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>168</BIN><BGM>BGM_Room</BGM>:사람들로 북적이고 떠들썩한 길거리도 리베롤에겐 매력이 없었다.+하지만, 가장 효과적인 홍보는 가장 단순한 법.+터벅터벅 길을 걷던 리베롤의 눈앞에 누군가가 전단지를 들이밀었다.
-()<Speaker>점원</Speaker>||<SE1>AVG_20Winter_Book</SE1>:안녕하세요, 최신식 감성 변화 요법을 도입한 인형 심리 치료 클리닉입니다. 지금까지와는 전혀 다른 색다른 삶을 체험해 보고 싶지 않으신가요?
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:아뇨... 됐어요...
-()<Speaker>점원</Speaker>||:아가씨는 몸이 많이 불편해 보이는군요. 건강한 몸으로 힘차게 뛰어다니는 상상을 해보신 적은 없나요? 저희 클리닉의 심리 치료 서비스라면 가능합니다.
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:아뇨... 제 몸은 원래부터 이래서 익숙해졌어요...
-()<Speaker>점원</Speaker>||:인형도 마음이 중요하답니다.+우울함은 인형에게도 병의 원인이 되죠. 어쩌면 아가씨는 몸은 아무 문제 없지만 마음이 병든 거라, 기운을 차리면 멀쩡해질지도 몰라요.
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:...호의는 감사하지만, 그래도 사양할게요.+제 몸은 하루이틀의 일로 이런 상태인 게 아니에요...
-()<Speaker>점원</Speaker>||:그 말씀을 들으니 더더욱 그냥 보내면 안 되겠네요. 저희가 도입한 최신식 심리 치료법은 부작용도 극히 적으면서 효과는 매우 뛰어나답니다.+지금 특별 행사로 스탠다드 코스 이용 시 90% 할인해드립니다! 이건 사실상 거저로 제공해 드리는 건데, 정말 관심 없으신가요?
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:병원이나 클리닉은 많이 가봤어요...
-()<Speaker>점원</Speaker>||:저희 클리닉은 숱한 "인형 병원"과는 차원이 다릅니다, 새로운 패러다임을 가져올 최신식 심리 치료법을 도입했다니까요?+많이 가봤다 하셨으니, 저희 클리닉도 한번 들려서 안 될 것도 없지 않을까요? 밑져야 본전인 셈 치시고 말입니다. 어쩌면 저희 클리닉에서 효과를 보실 수도 있지 않겠어요?
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||<BGM>BGM_Empty</BGM>:......
-()<Speaker>점원</Speaker>||:가격도 아주 합리적에, 한 번 해보시면 분명 마음에 드시리라 장담합니다.
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:그렇게까지 말한다면... 좋아요, 비싸지도 않은 것 같고...
-()||<黑屏1>:
-NPC-Maid(0)<Speaker>상담원 0003호</Speaker><通讯框>||<黑屏2><BIN>72</BIN>:<color=#00CCFF>환영합니다 고객님, 탄식교 상담원 0003호입니다. 스탠다드 코스를 이용해 주셔서 감사합니다.</color>+<color=#00CCFF>1에서 99까지의 숫자 중 하나를 골라 주십시오.</color>
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:랜덤인가요?
-NPC-Maid(0)<Speaker>상담원 0003호</Speaker><通讯框>||:<color=#00CCFF>그렇습니다. 스탠다드 코스는 저희 탄식교가 보유한 최고의 소체들 중 하나를 무작위로 제공해드립니다. 고객님의 행운의 숫자를 골라 보십시오.</color>
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:그럼... 제일 마지막이요.
-NPC-Maid(0)<Speaker>상담원 0003호</Speaker><通讯框>||:<color=#00CCFF>알겠습니다, 99번 소체의 권한을 개방하겠습니다.</color>+<color=#00CCFF>이용 시간은 24시간이며, 잔여 시간이 20분 미만이 될 시 알림 연락을 드리니 주의해 주십시오.</color>
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:네.
-()||<黑屏1>:
-NPC-Maid(0)<Speaker>상담원 0003호</Speaker><通讯框>||<黑屏2><BIN>9</BIN>:<color=#00CCFF>그럼, 부디 즐거운 시간 되십시오.</color>
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:대여 소체 연결 중...+......
-()||<黑屏1>:
-NPC_Dragoon(0)<Speaker>리베롤</Speaker>||<黑屏2><BIN>89</BIN><SE1>AVG_Grey_Hand_Mech</SE1>:............어?+팔이... 기네?+다리도 엄청 튼튼한 것 같아...
-NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:이게... 지금 나의 소체?+으음... 적합성에 문제가 좀 있고 반응 지연도도 꽤 있지만... 하지만...
-NPC_Dragoon(0)<Speaker>리베롤</Speaker><Shake>0.1</Shake>||<SE1>ClothingUp</SE1>:이 느낌은... 한 번도 느껴본 적 없는데... 이게 건강하고 힘찬 기분인 걸까...?+한번... 한번 돌아다녀 봐야지...
-()<Speaker></Speaker>||:새로운 소체를 대여받은 리베롤은, 평소라면 얼씬도 하지 않을 곳으로 발길을 향했다.
-()||<黑屏1>:
-()<Speaker>번지점프 점원</Speaker>||<黑点2><BIN>187</BIN><BGM>GF_20HW_Scene_BPM82_loop</BGM>:이제 뛰셔도 됩니다.
-NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:저기... 이거 정말 500m예요?
-()<Speaker>번지점프 점원</Speaker>||:500m는 절벽의 높이고, 로프의 길이는 50m입니다. 아가씨는 인형이니 쉬울 거예요.
-NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:5... 50m도 높은데...
-()<Speaker>번지점프 점원</Speaker>||:보기엔 무서워도 순식간이에요. 그냥 눈 딱 감고, 아무 생각 말고, 몸을 맡기면 됩니다.
-NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:눈까지 감아야 하나요...?
-()<Speaker>번지점프 점원</Speaker>||:안 무서우면 떠도 상관없죠.
-NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:...역시 감을래요.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>Heartbeat</SE1>:심호흡.+다시 한번 심호흡.
-()<Speaker></Speaker>||:눈을 꾹 감고, 앞으로 힘껏 뛰며 바닥에서 발을 떼었다.
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>GF_Halloween_Wind_loop</SE1>:세찬 바람이 귓가를 스쳤다.+처음으로 느껴보는 몸에서 무게가 사라지는 기분.+하늘과 땅 사이의 깃털처럼 펄럭펄럭...+바람을 타고 어디로든 갈 수 있을 것만 같은 기분이었다.
-()<Speaker></Speaker>||<SE1>Rope</SE1><SE1>Stop_AVG_loop</SE1>:하지만 그것도 잠시, 로프가 몸을 잡아당기면서 그 느낌이 사라졌다.
-NPC_Dragoon(0)<Speaker>리베롤</Speaker>||<BIN>187</BIN>:사, 사장님! 저 한 번 더 할래요!+1... 100m! 이번엔 100m로요!
-()<Speaker>번지점프 점원</Speaker>||<BGM>GF_Room_Rocktheme</BGM>:마음에 들었나 봐요? 알겠습니다.
-()||<黑点1>:
-NPC_Dragoon(0)<Speaker>리베롤</Speaker>||<黑点2><controll_shake>%%type_id=2%%duration=1%%delay=0.5%%range=5</controll_shake><SE1>AVG_Car_Skid</SE1><BIN>3</BIN>:한 바퀴 추가요!
-()<Speaker>경주장 직원</Speaker>||:죄송합니다, 영업 시간 끝났어요.
-()||<黑点1>:
-()<Speaker>잠수부</Speaker>||<黑点2><SE1>AVG_splash_water</SE1><BIN>162</BIN>:그 이상 하강하면 안 됩니다, 안전 범위 밖이에요.
-NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:아... 네...
-()||<黑点1>:
-()<Speaker>시스템 알림</Speaker>||<震屏3><黑点2><BIN>99</BIN><SE2>Gunfight</SE2><SE1>Battlefield</SE1>:<color=#00CCFF>전투 종료. 누적 처치 수 - 18,888. 계속하시겠습니까?</color>
-NPC_Dragoon(0)<Speaker>리베롤</Speaker>||<SE1>Select</SE1>:계속해요! 다음 난이도로 도전할래요!
-NPC-Maid(0)<Speaker>상담원 0003호</Speaker><通讯框>||:<color=#00CCFF>안녕하십니까 고객님, 즐거운 시간 보내셨습니까? 잔여 이용 시간이 20분 남았습니다. 이용 중이신 소체를 지정 위치로 옮겨, 고객님의 원래 소체로 복귀할 준비를 해 주십시오.</color>
-NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:아... 알았어요...
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator><BGM>BGM_Empty</BGM>:다음날.
-()||<黑屏1>:
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||<黑屏2><BIN>80</BIN><SE1>AVG_20Winter_Drink_Tea</SE1><BGM>GF_20HW_Scene_BPM82_loop</BGM>:어제는 정말... 꿈만 같았어... 그렇게, 그렇게 많은 일을 단숨에 해본 적 없었는데!+그게 정말 나였다니, 믿겨지지 않아... 분명 나인데 전혀 다른 느낌이었어...
-()<Speaker>점원</Speaker>||:고객님, 지난번 저희 클리닉의 서비스에 만족하셨나요?
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:엄청요!+저번의 그 소체를 다시 쓰고 싶은데, 어떻게 하면 돼요?
-()<Speaker>점원</Speaker>||:저희 클리닉의 스페셜 코스는 고객님의 취향과 요구에 맞춤 서비스를 제공해드리고 있습니다.+게다가 전속 상담원의 서비스도 받으실 수 있죠.
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:그, 그럼 그걸로 한 번 더 해볼래요.
-()<Speaker>점원</Speaker>||:알겠습니다!
-()||<黑屏1>:
-NPC_Dragoon(0)<Speaker>리베롤</Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_Grey_Hand_Mech</SE1>:후우... 돌아왔다.
-()<Speaker></Speaker>||:......
-()<Speaker></Speaker>||:......
-NPC-Maid(0)<Speaker>상담원 0003호</Speaker><通讯框>||:<color=#00CCFF>안녕하십니까 고객님, 즐거운 시간 보내셨습니까? 잔여 이용 시간이 20분 남았습니다. 이용 중이신 소체를 지정 위치로 옮겨, 고객님의 원래 소체로 복귀할 준비를 해 주십시오.</color>
-()<Speaker></Speaker>||:......
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:코스 1회 더 추가할게요!
-()<Speaker>점원</Speaker>||:네.
-NPC_Dragoon(0)<Speaker>리베롤</Speaker>||<SE1>AVG_Grey_Hand_Mech</SE1>:이 모습... 정말 좋다.
-()<Speaker></Speaker>||:......
-()<Speaker></Speaker>||:......
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:다신 병으로 아프기 싫어.
-Ribeyrolles(0);NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:그냥... 이러면 되잖아.
-Ribeyrolles(0)<Speaker>리베롤</Speaker>;NPC_Dragoon(0)||:모두의 걸림돌이 되는 것도 싫고...
-Ribeyrolles(0);NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:계속 이 소체를 쓴다면, 분명 버림받지도 않을 거야...
-Ribeyrolles(0)<Speaker>리베롤</Speaker>;NPC_Dragoon(0)||:이런 내 모습을 보고 있으면...
-Ribeyrolles(0);NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:역시... 이런 내가 더 마음에 들어.
-Ribeyrolles(0)<Speaker>리베롤</Speaker>;NPC_Dragoon(0)||:빨리 그 소체로 돌아가고 싶다... 얼마나 들던 상관없어... 돈은 모으면 돼...
-NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:응... 여기가 내가 있을 곳이야...
-()<Speaker></Speaker>||:......+............
-NPC-Maid(0)<Speaker>상담원 0003호</Speaker><通讯框>||:<color=#00CCFF>안녕하십니까 고객님, 즐거운 시간 보내셨습니까? 잔여 이용 시간이 20분 남았습니다. 이용 중이신 소체를 지정 위치로 옮겨, 고객님의 원래 소체로 복귀할 준비를 해 주십시오.</color>
-NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:연장할게요.
-NPC-Maid(0)<Speaker>상담원 0003호</Speaker><通讯框>||:<color=#00CCFF>죄송합니다 고객님, 잔액이 부족합니다.</color>
-NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:아... 알았어요, 그럼 다음에 할게요.
-()||<黑屏1>:
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||<黑屏2><BIN>72</BIN>:하아... 다시 돌아가야 한다니...
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:소체 연결 중...
-()<Speaker>시스템 알림</Speaker>||<SE1>AVG_21Winter_Error</SE1><BGM>BGM_Empty</BGM>:<color=#00CCFF>일치하는 소체 정보가 없습니다. 다시 시도해 주십시오.</color>
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||<BGM>GF_EV9_Story</BGM>:응...? 신호가 나쁜가?
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:......
-()<Speaker></Speaker>||:............
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:........................
-()<Speaker>시스템 알림</Speaker>||<SE1>AVG_21Winter_Error</SE1>:<color=#00CCFF>죄송합니다 고객님, 접속자가 많아 서비스에 차질이 빚어지고 있습니다. 잠시 후 다시 시도해 주십시오.</color>
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:에에...? 사, 상담원 연결!
-()<Speaker>시스템 알림</Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>통신이 불안정하거나 끊어졌습니다. 잠시 후 다시 시도해 주십시오.</color>
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:어... 어떻게 된 거지...?!
-()<Speaker>시스템 알림</Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>통신이 불안정하거나 끊어졋습니다. 잠시 후 다시 시도해 주십시오.</color>
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:......+.......
-()<Speaker>시스템 알림</Speaker>||<SE1>AVG_21Winter_Error</SE1>:<color=#00CCFF>죄송합니다 고객님, 접속자가 많아 서비스에 차질이 빚어지고 있습니다. 잠시 후 다시 시도해 주십시오.</color>
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:이게 뭐야... 나 못 돌아가는 거야...?+어떡해... 어떡해야 하지...
-()||<黑屏1>:
-NPC-Maid(0)<Speaker>상담원 0003호</Speaker>||<黑屏2><BIN>80</BIN><SE1>AVG_tele_connect</SE1>:새로 얻은 소체의 처리가 완료됐습니다. 지금 창고로 운반하는 중입니다.
-()<Speaker>점원</Speaker>||:좋았어, 계속해서 "영업"하자고.+흐음... 귀여운 소체니까 좋아하는 "손님"도 많겠어.
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator>:1개월 전.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>168</BIN><BGM>BGM_Room</BGM>:사람들로 북적이고 떠들썩한 길거리도 리베롤에겐 매력이 없었다.+하지만, 가장 효과적인 홍보는 가장 단순한 법.+터벅터벅 길을 걷던 리베롤의 눈앞에 누군가가 전단지를 들이밀었다.
+()<Speaker>점원</Speaker>||<SE1>AVG_20Winter_Book</SE1>:안녕하세요, 최신식 감성 변화 요법을 도입한 인형 심리 치료 클리닉입니다. 지금까지와는 전혀 다른 색다른 삶을 체험해 보고 싶지 않으신가요?
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:아뇨... 됐어요...
+()<Speaker>점원</Speaker>||:아가씨는 몸이 많이 불편해 보이는군요. 건강한 몸으로 힘차게 뛰어다니는 상상을 해보신 적은 없나요? 저희 클리닉의 심리 치료 서비스라면 가능합니다.
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:아뇨... 제 몸은 원래부터 이래서 익숙해졌어요...
+()<Speaker>점원</Speaker>||:인형도 마음이 중요하답니다.+우울함은 인형에게도 병의 원인이 되죠. 어쩌면 아가씨는 몸은 아무 문제 없지만 마음이 병든 거라, 기운을 차리면 멀쩡해질지도 몰라요.
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:...호의는 감사하지만, 그래도 사양할게요.+제 몸은 하루이틀의 일로 이런 상태인 게 아니에요...
+()<Speaker>점원</Speaker>||:그 말씀을 들으니 더더욱 그냥 보내면 안 되겠네요. 저희가 도입한 최신식 심리 치료법은 부작용도 극히 적으면서 효과는 매우 뛰어나답니다.+지금 특별 행사로 스탠다드 코스 이용 시 90% 할인해드립니다! 이건 사실상 거저로 제공해 드리는 건데, 정말 관심 없으신가요?
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:병원이나 클리닉은 많이 가봤어요...
+()<Speaker>점원</Speaker>||:저희 클리닉은 숱한 "인형 병원"과는 차원이 다릅니다, 새로운 패러다임을 가져올 최신식 심리 치료법을 도입했다니까요?+많이 가봤다 하셨으니, 저희 클리닉도 한번 들려서 안 될 것도 없지 않을까요? 밑져야 본전인 셈 치시고 말입니다. 어쩌면 저희 클리닉에서 효과를 보실 수도 있지 않겠어요?
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||<BGM>BGM_Empty</BGM>:......
+()<Speaker>점원</Speaker>||:가격도 아주 합리적에, 한 번 해보시면 분명 마음에 드시리라 장담합니다.
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:그렇게까지 말한다면... 좋아요, 비싸지도 않은 것 같고...
+()||<黑屏1>:
+NPC-Maid(0)<Speaker>상담원 0003호</Speaker><通讯框>||<黑屏2><BIN>72</BIN>:<color=#00CCFF>환영합니다 고객님, 탄식교 상담원 0003호입니다. 스탠다드 코스를 이용해 주셔서 감사합니다.</color>+<color=#00CCFF>1에서 99까지의 숫자 중 하나를 골라 주십시오.</color>
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:랜덤인가요?
+NPC-Maid(0)<Speaker>상담원 0003호</Speaker><通讯框>||:<color=#00CCFF>그렇습니다. 스탠다드 코스는 저희 탄식교가 보유한 최고의 소체들 중 하나를 무작위로 제공해드립니다. 고객님의 행운의 숫자를 골라 보십시오.</color>
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:그럼... 제일 마지막이요.
+NPC-Maid(0)<Speaker>상담원 0003호</Speaker><通讯框>||:<color=#00CCFF>알겠습니다, 99번 소체의 권한을 개방하겠습니다.</color>+<color=#00CCFF>이용 시간은 24시간이며, 잔여 시간이 20분 미만이 될 시 알림 연락을 드리니 주의해 주십시오.</color>
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:네.
+()||<黑屏1>:
+NPC-Maid(0)<Speaker>상담원 0003호</Speaker><通讯框>||<黑屏2><BIN>9</BIN>:<color=#00CCFF>그럼, 부디 즐거운 시간 되십시오.</color>
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:대여 소체 연결 중...+......
+()||<黑屏1>:
+NPC_Dragoon(0)<Speaker>리베롤</Speaker>||<黑屏2><BIN>89</BIN><SE1>AVG_Grey_Hand_Mech</SE1>:............어?+팔이... 기네?+다리도 엄청 튼튼한 것 같아...
+NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:이게... 지금 나의 소체?+으음... 적합성에 문제가 좀 있고 반응 지연도도 꽤 있지만... 하지만...
+NPC_Dragoon(0)<Speaker>리베롤</Speaker><Shake>0.1</Shake>||<SE1>ClothingUp</SE1>:이 느낌은... 한 번도 느껴본 적 없는데... 이게 건강하고 힘찬 기분인 걸까...?+한번... 한번 돌아다녀 봐야지...
+()<Speaker></Speaker>||:새로운 소체를 대여받은 리베롤은, 평소라면 얼씬도 하지 않을 곳으로 발길을 향했다.
+()||<黑屏1>:
+()<Speaker>번지점프 점원</Speaker>||<黑点2><BIN>187</BIN><BGM>GF_20HW_Scene_BPM82_loop</BGM>:이제 뛰셔도 됩니다.
+NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:저기... 이거 정말 500m예요?
+()<Speaker>번지점프 점원</Speaker>||:500m는 절벽의 높이고, 로프의 길이는 50m입니다. 아가씨는 인형이니 쉬울 거예요.
+NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:5... 50m도 높은데...
+()<Speaker>번지점프 점원</Speaker>||:보기엔 무서워도 순식간이에요. 그냥 눈 딱 감고, 아무 생각 말고, 몸을 맡기면 됩니다.
+NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:눈까지 감아야 하나요...?
+()<Speaker>번지점프 점원</Speaker>||:안 무서우면 떠도 상관없죠.
+NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:...역시 감을래요.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>Heartbeat</SE1>:심호흡.+다시 한번 심호흡.
+()<Speaker></Speaker>||:눈을 꾹 감고, 앞으로 힘껏 뛰며 바닥에서 발을 떼었다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>GF_Halloween_Wind_loop</SE1>:세찬 바람이 귓가를 스쳤다.+처음으로 느껴보는 몸에서 무게가 사라지는 기분.+하늘과 땅 사이의 깃털처럼 펄럭펄럭...+바람을 타고 어디로든 갈 수 있을 것만 같은 기분이었다.
+()<Speaker></Speaker>||<SE1>Rope</SE1><SE1>Stop_AVG_loop</SE1>:하지만 그것도 잠시, 로프가 몸을 잡아당기면서 그 느낌이 사라졌다.
+NPC_Dragoon(0)<Speaker>리베롤</Speaker>||<BIN>187</BIN>:사, 사장님! 저 한 번 더 할래요!+1... 100m! 이번엔 100m로요!
+()<Speaker>번지점프 점원</Speaker>||<BGM>GF_Room_Rocktheme</BGM>:마음에 들었나 봐요? 알겠습니다.
+()||<黑点1>:
+NPC_Dragoon(0)<Speaker>리베롤</Speaker>||<黑点2><controll_shake>%%type_id=2%%duration=1%%delay=0.5%%range=5</controll_shake><SE1>AVG_Car_Skid</SE1><BIN>3</BIN>:한 바퀴 추가요!
+()<Speaker>경주장 직원</Speaker>||:죄송합니다, 영업 시간 끝났어요.
+()||<黑点1>:
+()<Speaker>잠수부</Speaker>||<黑点2><SE1>AVG_splash_water</SE1><BIN>162</BIN>:그 이상 하강하면 안 됩니다, 안전 범위 밖이에요.
+NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:아... 네...
+()||<黑点1>:
+()<Speaker>시스템 알림</Speaker>||<震屏3><黑点2><BIN>99</BIN><SE2>Gunfight</SE2><SE1>Battlefield</SE1>:<color=#00CCFF>전투 종료. 누적 처치 수 - 18,888. 계속하시겠습니까?</color>
+NPC_Dragoon(0)<Speaker>리베롤</Speaker>||<SE1>Select</SE1>:계속해요! 다음 난이도로 도전할래요!
+NPC-Maid(0)<Speaker>상담원 0003호</Speaker><通讯框>||:<color=#00CCFF>안녕하십니까 고객님, 즐거운 시간 보내셨습니까? 잔여 이용 시간이 20분 남았습니다. 이용 중이신 소체를 지정 위치로 옮겨, 고객님의 원래 소체로 복귀할 준비를 해 주십시오.</color>
+NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:아... 알았어요...
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator><BGM>BGM_Empty</BGM>:다음날.
+()||<黑屏1>:
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||<黑屏2><BIN>80</BIN><SE1>AVG_20Winter_Drink_Tea</SE1><BGM>GF_20HW_Scene_BPM82_loop</BGM>:어제는 정말... 꿈만 같았어... 그렇게, 그렇게 많은 일을 단숨에 해본 적 없었는데!+그게 정말 나였다니, 믿겨지지 않아... 분명 나인데 전혀 다른 느낌이었어...
+()<Speaker>점원</Speaker>||:고객님, 지난번 저희 클리닉의 서비스에 만족하셨나요?
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:엄청요!+저번의 그 소체를 다시 쓰고 싶은데, 어떻게 하면 돼요?
+()<Speaker>점원</Speaker>||:저희 클리닉의 스페셜 코스는 고객님의 취향과 요구에 맞춤 서비스를 제공해드리고 있습니다.+게다가 전속 상담원의 서비스도 받으실 수 있죠.
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:그, 그럼 그걸로 한 번 더 해볼래요.
+()<Speaker>점원</Speaker>||:알겠습니다!
+()||<黑屏1>:
+NPC_Dragoon(0)<Speaker>리베롤</Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_Grey_Hand_Mech</SE1>:후우... 돌아왔다.
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||:......
+NPC-Maid(0)<Speaker>상담원 0003호</Speaker><通讯框>||:<color=#00CCFF>안녕하십니까 고객님, 즐거운 시간 보내셨습니까? 잔여 이용 시간이 20분 남았습니다. 이용 중이신 소체를 지정 위치로 옮겨, 고객님의 원래 소체로 복귀할 준비를 해 주십시오.</color>
+()<Speaker></Speaker>||:......
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:코스 1회 더 추가할게요!
+()<Speaker>점원</Speaker>||:네.
+NPC_Dragoon(0)<Speaker>리베롤</Speaker>||<SE1>AVG_Grey_Hand_Mech</SE1>:이 모습... 정말 좋다.
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||:......
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:다신 병으로 아프기 싫어.
+Ribeyrolles(0);NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:그냥... 이러면 되잖아.
+Ribeyrolles(0)<Speaker>리베롤</Speaker>;NPC_Dragoon(0)||:모두의 걸림돌이 되는 것도 싫고...
+Ribeyrolles(0);NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:계속 이 소체를 쓴다면, 분명 버림받지도 않을 거야...
+Ribeyrolles(0)<Speaker>리베롤</Speaker>;NPC_Dragoon(0)||:이런 내 모습을 보고 있으면...
+Ribeyrolles(0);NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:역시... 이런 내가 더 마음에 들어.
+Ribeyrolles(0)<Speaker>리베롤</Speaker>;NPC_Dragoon(0)||:빨리 그 소체로 돌아가고 싶다... 얼마나 들던 상관없어... 돈은 모으면 돼...
+NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:응... 여기가 내가 있을 곳이야...
+()<Speaker></Speaker>||:......+............
+NPC-Maid(0)<Speaker>상담원 0003호</Speaker><通讯框>||:<color=#00CCFF>안녕하십니까 고객님, 즐거운 시간 보내셨습니까? 잔여 이용 시간이 20분 남았습니다. 이용 중이신 소체를 지정 위치로 옮겨, 고객님의 원래 소체로 복귀할 준비를 해 주십시오.</color>
+NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:연장할게요.
+NPC-Maid(0)<Speaker>상담원 0003호</Speaker><通讯框>||:<color=#00CCFF>죄송합니다 고객님, 잔액이 부족합니다.</color>
+NPC_Dragoon(0)<Speaker>리베롤</Speaker>||:아... 알았어요, 그럼 다음에 할게요.
+()||<黑屏1>:
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||<黑屏2><BIN>72</BIN>:하아... 다시 돌아가야 한다니...
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:소체 연결 중...
+()<Speaker>시스템 알림</Speaker>||<SE1>AVG_21Winter_Error</SE1><BGM>BGM_Empty</BGM>:<color=#00CCFF>일치하는 소체 정보가 없습니다. 다시 시도해 주십시오.</color>
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||<BGM>GF_EV9_Story</BGM>:응...? 신호가 나쁜가?
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:......
+()<Speaker></Speaker>||:............
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:........................
+()<Speaker>시스템 알림</Speaker>||<SE1>AVG_21Winter_Error</SE1>:<color=#00CCFF>죄송합니다 고객님, 접속자가 많아 서비스에 차질이 빚어지고 있습니다. 잠시 후 다시 시도해 주십시오.</color>
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:에에...? 사, 상담원 연결!
+()<Speaker>시스템 알림</Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>통신이 불안정하거나 끊어졌습니다. 잠시 후 다시 시도해 주십시오.</color>
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:어... 어떻게 된 거지...?!
+()<Speaker>시스템 알림</Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>통신이 불안정하거나 끊어졋습니다. 잠시 후 다시 시도해 주십시오.</color>
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:......+.......
+()<Speaker>시스템 알림</Speaker>||<SE1>AVG_21Winter_Error</SE1>:<color=#00CCFF>죄송합니다 고객님, 접속자가 많아 서비스에 차질이 빚어지고 있습니다. 잠시 후 다시 시도해 주십시오.</color>
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:이게 뭐야... 나 못 돌아가는 거야...?+어떡해... 어떡해야 하지...
+()||<黑屏1>:
+NPC-Maid(0)<Speaker>상담원 0003호</Speaker>||<黑屏2><BIN>80</BIN><SE1>AVG_tele_connect</SE1>:새로 얻은 소체의 처리가 완료됐습니다. 지금 창고로 운반하는 중입니다.
+()<Speaker>점원</Speaker>||:좋았어, 계속해서 "영업"하자고.+흐음... 귀여운 소체니까 좋아하는 "손님"도 많겠어.
+()||<黑屏1>:

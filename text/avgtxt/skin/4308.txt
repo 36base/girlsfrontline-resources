@@ -1,122 +1,122 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><SE1>Heartbeat</SE1>:깜깜해서 아무것도 보이지 않는 가운데, FNC는 식은땀을 흘리며 바싹 벽에 붙은 채로 입을 틀어막고 꼼짝도 하지 않았다.+자신의 마인드맵이 고속 운전하는 소리가 들리는 것만 같았고, 가슴의 코어가 위이잉 돌아가는 소리도 도무지 주체할 수가 없었다.
-FNFNC(0)<Speaker>FNC</Speaker>||:<color=#A9A9A9>조용히... 조용히 해...</color>+<color=#A9A9A9>절대 들키면 안 돼...</color>
-FNFNC(0)<Speaker>？？？？</Speaker>||:여깄는 거 알아. 빨리 나와.
-FNFNC(0)<Speaker>FNC</Speaker>||:<color=#A9A9A9>안 보여... 안 보여... 여기 있음 안 보여... 얼른 가...!</color>
-FNFNC(0)<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:텅 빈 방에 발소리가 울리는 가운데, 선반의 물건을 들었다 놨다 하는 소리도 들렸다.+방을 서성이며, 어딘가에 숨은 FNC를 찾는 소리였다.
-FNFNC(0)<Speaker>？？？？</Speaker>||<SE1>Heartbeat</SE1>:기어코 안 나오겠다 이거지?+방의 전력까지 끊어버리고... 그래도 소용 없어.+이미 들켰는걸.
-FNFNC(0)<Speaker>FNC</Speaker>||:<color=#A9A9A9>가만 있으면 못 찾을 거야... 그, 그치만... 더는 못 버티겠어...</color>
-FNFNC(0)<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:한 발짝... 두 발짝... 세 발짝... 발자국은 점점 FNC가 숨은 곳으로 다가왔다. 그리고...
-FNFNC(0)<Speaker>？？？？</Speaker>||:찾, 았, 다.
-FNFNC(0)<Speaker>FNC</Speaker>||:와아아아아아아악!!!
-FNFNC(0)<Speaker>？？？？</Speaker>||<黑屏1><SE1>AVG_lifttable</SE1>:뭐야, 잠깐――으악!!
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>8</BIN>:다른 한편.
-APS(0)<Speaker>스테츠킨</Speaker>||<BGM>m_avg_casual</BGM>:음...? 방금 무슨 소리 안 들렸어? 수납 선반이 넘어지는 소리 같았는데.+역시 가 보는 게 어때? 꽤 재밌는 광경일 거 같은데.
-APS(0)<Speaker>지휘관</Speaker>||:확실히 걱정되는걸. 가 보자.
-()<Speaker>마카로프의 목소리</Speaker>||:"재밌는 광경"을 놓치게 해서 미안하지만, 스테츠킨...+내 선에서 통제 가능한 상황이야. 지휘관은 안 와도 돼.
-()<Speaker>지휘관</Speaker>||<黑点1>:그래? 그럼 맡길게, 마카로프.
-()<Speaker></Speaker>||<黑点2><BIN>8</BIN>:잠시 후, 다소 흐트러진 모습의 마카로프가 축 늘어진 FNC를 질질 끌면서 지휘실로 돌아왔다.
-FNFNC(0)<Speaker>FNC</Speaker>||:우에엥... 지휘관님, 혼내지 말아 주세요... 다 말할게요...
-FNFNC(0);APS(0)<Speaker>스테츠킨</Speaker>||:우와, 마카로프가 사적 제재를 할 줄은 몰랐는걸?+정말 너무했다~ 입막음 비용 내면 이 일은 비밀로 해 줄게.
-FNFNC(0);PM(0)<Speaker>마카로프</Speaker>||:인형에게도 인간의 법률이 적용됐다면, 진작에 널 모욕죄로 고소해서 정신적 피해로 배상금 뜯어냈을 줄 알아.
-FNFNC(0);PM(0)<Speaker>지휘관</Speaker>||:무슨 일이 있었던 거야?
-FNFNC(0);PM(0)<Speaker>마카로프</Speaker>||:...그냥 사고였어. 벌써 다 정리했으니까 걱정 마.+FNC도 다친 덴 없으니까 바로 심문 시작하자고.
-FNFNC(0)<Speaker>FNC</Speaker>;PM(0)||:말할게요... 다 말할게요!+파티의 그 일은, 제가... 제가 한 거예요...+제가, 훌쩍... 제가 M950A를 부추겨서, 지휘관님한테 술을 먹이게 했어요...
-FNFNC(0);M950A(0)<Speaker>M950A</Speaker>||:오호라, 그때 나한테 한 말이 지휘관을 취하게 만들려고 부추기는 거였다고?
-FNFNC(0)<Speaker>FNC</Speaker>;M950A(0)||:미안해... 잘못했어... 하, 하지만... 훌쩍... 나 진짜 지휘관님 방에 아주 잠깐밖에 안 있었다구!+초콜릿... 초콜릿만 두고 나왔는데... 우으...
-FNFNC(0);M950A(0)<Speaker>M950A</Speaker>||:아, 침대의 그 초콜릿은 네가 둔 거였구나.
-FNFNC(0)<Speaker>FNC</Speaker>;M950A(0)||:우으으... 네가 노래 들으라면서 날 붙잡았단 말이야... 그리고 Zas도 날 봐서... 계획이 들통날까 봐 초콜릿만 두고 바로 나왔다구...
-FNFNC(0);M950A(0)<Speaker>M950A</Speaker>||:어... 그건 전혀 기억에 없는데...
-FNFNC(0);PM(0)<Speaker>마카로프</Speaker>||:이것도 너야?
-FNFNC(0);APS(0)<Speaker>스테츠킨</Speaker>||:오오!
-FNFNC(0);APS(0)<Speaker>지휘관</Speaker>||:잠깐 기다려 봐. FNC, 너 지금 우리가 뭘 묻는지 제대로 아는 거 맞니?+그게 정말 너였다고?
-FNFNC(0)<Speaker>FNC</Speaker>;APS(0)||:어... 저 맞는데요...?+마카로프도 그래서 저 잡아온 거 아니에요?
-FNFNC(0);APS(0)<Speaker>스테츠킨</Speaker>||:자백했으니 사건 종결이지? 이제 지휘관이랑 FNC의 결혼식을 준비하면 되겠네?+여기 인형도 한두 명이 아니니, 축의금만 따져도 어마어마하겠다. 지휘관 대박 났네~
-FNFNC(0);APS(0)<Speaker>지휘관</Speaker>||:아니 넌 좀... FNC, 지금 네가 말한 일을 설명해 봐. 내 방에서 정확히 뭘 했다는 거야?
-FNFNC(0)<Speaker>FNC</Speaker>;APS(0)||<黑屏1>:네...? 초콜릿 때문 아니에요?
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>83</BIN>:며칠 전, 창고.
-ZastavaM21(0)<Speaker>ZasM21</Speaker>||<SE1>AVG_amb_wilderness</SE1>:왜 데이터베이스가 업데이트됐는데 신상 매니큐어 목록이 줄었지...+디자이너가 요즘 아이디어가 고갈됐나? 검색 키워드를 바꿔서... 응? 통신 요청?
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker><通讯框>||<BGM>BGM_Room</BGM>:<color=#00CCFF>저기 Zas, 창고 뒤에서 이상한 게 움직여. 무서운데 잠깐 와 줄 순 없어?</color>
-ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:이상한 움직임? 뭘 말하는 거야, 벌레야 적이야?
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||:<color=#00CCFF>나도 몰라, 빨리 구해 줘! 무서워서 꼼짝도 못하겠어!</color>
-ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:...금방 갈게.
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||<黑点1>:<color=#00CCFF>부탁해, Zas!</color>
-()<Speaker></Speaker>||<黑点2><BIN>83</BIN>:그런데 Zas가 막 창고를 나서자마자, 또다시 FNC에게서 통신이 들어왔다.
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker><通讯框>||:<color=#00CCFF>아, 사라졌다! 고마워, Zas!</color>
-ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:뭐?
-ZastavaM21(0)<Speaker></Speaker>||:통신이 툭 끊어졌다.
-ZastavaM21(0)<Speaker>ZasM21</Speaker>||:대체 뭐지...
-ZastavaM21(0)<Speaker></Speaker>||:Zas는 중얼거리며 다시 창고 문 앞으로 돌아와 앉았지만, 모종의 위화감이 그녀의 머리를 맴돌았다.
-ZastavaM21(0)<Speaker>ZasM21</Speaker>||<黑屏1>:<color=#A9A9A9>......역시 이상해.</color>+<color=#A9A9A9>FNC도 말하는 투가 겁먹었다기보단 나를 문에서 떨어뜨리려 하는 것 같았어.</color>+<color=#A9A9A9>정말 그렇다면, 녀석의 목적은... 설마...</color>
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>88</BIN>:같은 시각, 창고 안.
-FNFNC(0)<Speaker>FNC</Speaker>||<BGM>BGM_Brain</BGM>:히히히, Zas도 잘 속네. 엘리트 인형도 별거 아니라니까.+최근에 입고된 초콜릿은 어딨을까요~+이 번호도 아니고... 킁킁... 아, 진한 초콜릿 향기! 여기다!
-FNFNC(0)<Speaker></Speaker>||:FNC는 발꿈치를 들어, 선반의 상자 속에서 초콜릿을 한 움큼 꺼냈다.
-FNFNC(0)<Speaker>FNC</Speaker>||:우와, 새로운 맛이 잔뜩! 맛있겠다아... 음, 지금 먹어야지!+들키지만 않으면 되니까, 나머진 파우치에 넣어서 몰래――
-FNFNC(0)<Speaker></Speaker>||<BIN>89</BIN>:그때, 창고의 문이 활짝 열렸다.
-FNFNC(0)<Speaker>FNC</Speaker>||<SE1>Heartbeat</SE1>:?!
-ZastavaM21(0)<Speaker>ZasM21</Speaker>||:FNC, 숨지 말고 나와. 너 여기 있지?
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||:............
-ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:...초콜릿 냄새. 역시.+초콜릿을 노리고 한 짓이라는 걸 진작에 눈치챘어야 했는데.
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||:......
-ZastavaM21(0)<Speaker></Speaker>;FNFNC(0)||<SE1>AVG_weapon_reload</SE1>:Zas는 주위를 두리번대며, 천천히 FNC가 숨은 컨테이너 옆까지 다가왔다.+말만으론 안 되겠다 싶었는지, Zas는 총까지 장전했다.
-ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:정말 안 나올래? 절도를 저질렀으면서 지시에 불응한다면, 너를...
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||<SE1>Heartbeat</SE1>:<color=#A9A9A9>흥, 지휘관님한테 끌려가도 안 혼나지롱! 애교 부리면 되지롱! 바보도 아니고, 절대 안 나갈――</color>
-ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:M870이랑 FP-6한테 인계할 거야.
-ZastavaM21(0);FNFNC(0)<Speaker></Speaker><Shake>||:그 이름들을 들은 FNC는 자리를 박차고 벌떡 일어섰다.+포장지를 뜯은 초콜릿들도 치마에서 흘러내려, 바닥에 후두둑 떨어졌다.
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||:잘못했어잘못했어도둑질한거인정할테니까제발지휘관님한테데려가줘어어!!
-ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:깜짝이야... 이렇게 많이 꺼냈어?
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||:다 맛있어 보이니까, 다 맛보고 싶어서...+다 하나씩만 뜯어서 한 입씩만 먹었어...
-ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:너, 이게 한두 번도 아니잖아. 항상 잡혀서 혼나면서 왜 매번 이래?
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||:그, 그치만 초콜릿이 좋은걸... 부탁이야 Zas, 그 두 녀석한테만은 제발! 고문받을 거야!
-ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:흐응... 지휘관님께 여쭤보고.+카리나 씨, 계십니까? Zas M21입니다. FNC가 또 창고에서 배급용 초콜릿을 훔쳐 먹었는데, 지휘관님께...+...아, 싫으시다고요? 알겠습니다, 그럼 규정대로 처리하겠습니다.
-ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||<黑屏1>:싫어...? 지휘관님이... 날 보기 싫다고...?
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>8</BIN>:FNC가 진술을 마쳤다.
-()<Speaker>지휘관</Speaker>||<BGM>m_avg_casual</BGM>:그것뿐이야?
-FNFNC(0)<Speaker>FNC</Speaker>||:지휘관님이 절 보기 싫다 하셔서... 평소에는 적어도 한두 마디로라도 꾸짖으셨는데... 완전히 실망해서 신경 끄기로 하신 줄 알아서...+이대로 그리폰에서 쫓겨나는 건 아닌가 해서! 그래서... 지휘관님한테 어떻게든 사과드려야겠다 싶어서...
-FNFNC(0)<Speaker>지휘관</Speaker>||:초콜릿 훔쳐 먹은 걸로 쫓아내진 않지만 말이지... 그래서, 뭘 했니?
-FNFNC(0)<Speaker>FNC</Speaker>||:그게... 무서워서...+M950A한테, 우수한 인형은 주량도 뛰어나야 하는데, 지휘관의 주량도 못 이기면 어떻게 엘리트 인형이라 하겠냐고 했어요...
-FNFNC(0);PM(0)<Speaker>마카로프</Speaker>||:아하, 어쩐지 M950A가 평소 걔답지 않게 지휘관이랑 같이 술을 엄청 마시더라니.
-FNFNC(0)<Speaker>FNC</Speaker>;PM(0)||:도, 도무지 지휘관님 방에 들어갈 엄두가 안 나서...+지휘관님이 깨어 있어서 절 보자마자 호통치면, 사과할 용기도 안 날 거 같아서... 죄송해요 지휘관님...
-FNFNC(0)<Speaker>지휘관</Speaker>;PM(0)||:괜찮아, 괜찮아.+네가 했다는 일이 그거였구나.
-FNFNC(0)<Speaker>FNC</Speaker>;PM(0)||:그, 그리고 Zas가 절 눈치챘어요!+그때 제가 먹었던 초콜릿들 전부 압수당했지만, 사실 하나 숨겨둔 거 있었어요...+그걸 지휘관님께 돌려드리면, 제가 진심으로 뉘우치고 있다고 증명할 수 있을 거 같아서...+그래서 파티가 끝나기 전에 몰래 지휘관님 방에 가서 초콜릿 두고 나왔어요.
-FNFNC(0);APS(0)<Speaker>스테츠킨</Speaker>||:거 봐, Zas가 봤다던 프릴 달린 치마가 역시 얘였잖아.+눈썰미 하난 정말 예리하다니까.
-FNFNC(0);PM(0)<Speaker>마카로프</Speaker>||:우리도 Zas한테 붙잡혀서 고생 좀 했지.
-FNFNC(0);APS(0)<Speaker>스테츠킨</Speaker>||:흥, 두고봐, 그 빚은 꼭 갚아 줄 테니까.+그나저나 FNC, 네가 이렇게 잘못을 인정하고 진심으로 뉘우치는 건 정~말 장한데, 우리의 관심은 그게 아니야.
-FNFNC(0)<Speaker>FNC</Speaker>;APS(0)||:어... 아니라고?+너희가 지휘관님 방에 들어갔던 인형을 찾는다고 들었는데?
-FNFNC(0);PM(0)<Speaker>마카로프</Speaker>||:그건 맞지만, 다른 증거로 봐도 우리가 찾는 인물은 절대 네가 아니거든.+확실히, 어젯밤 꽤 많은 사람들이 지휘관의 방을 방문했지. 하지만 밤 11시 30분에 감시 시스템의 점검이 끝나고, 스테츠킨이 감시 영상에서 이걸 찾았어.
-FNFNC(0);PM(0)<Speaker></Speaker>||:마카로프에게 사진을 한 장 꺼냈다. 화질이 썩 좋지 않은 감시 영상의 캡처였다.+사진 속에는, 빈틈없이 가려진 커튼 너머로 가녀린 몸에 긴 머리를 한 여성의 그림자가 비쳤다.
-FNFNC(0)<Speaker>FNC</Speaker>;PM(0)||:응...? 누구야? 처음 보는데.
-FNFNC(0);PM(0)<Speaker>마카로프</Speaker>||:지휘관의 방에서 비슷하게 생긴 사람도 못 봤어?
-FNFNC(0)<Speaker>FNC</Speaker>;PM(0)||:아니, 못 봤어. 내가 들어갔을 땐 아무도 없었어.
-FNFNC(0);PM(0)<Speaker>마카로프</Speaker>||:좋아, 협조 고마워. 이제 이 일은 너와 관계 없어.
-FNFNC(0)<Speaker>FNC</Speaker>||:어... 저기, 지휘관님?
-FNFNC(0)<Speaker>지휘관</Speaker>||:수고했어, FN――
-FNFNC(0)<Speaker>FNC</Speaker>||:안 돼요!!
-FNFNC(0)<Speaker>지휘관</Speaker>||:엉?!
-FNFNC(0)<Speaker>FNC</Speaker>||:짜르지 말아 주세요! 앞으로는 초콜릿 조금만 먹고 더 열심히 일할게요!+초콜릿 하루에 받는 만큼만 먹고, 모자라다고 창고 가서 훔쳐 먹지도 않을게요!+주방 가서 G36한테 초콜릿 아이스크림 더 달라고 떼쓰지도 않고, 89식한테 초콜릿 나눠 달라고도 안 하고, 카페 가서 스프링필드한테 핫초코 달라는 것도 줄일게요!
-FNFNC(0)<Speaker>지휘관</Speaker>||:......
-FNFNC(0);PM(0)<Speaker>마카로프</Speaker>||:......
-FNFNC(0);APS(0)<Speaker>스테츠킨</Speaker>||:완전 상습범이었네? 그게 다 얼마야...
-FNFNC(0)<Speaker>FNC</Speaker>;APS(0)||:정말... 죄송해요...
-FNFNC(0)<Speaker>지휘관</Speaker>;APS(0)||:하하... FNC, 나 화 안 났어. 그날은 내가 정말 바빠서 널 볼 틈도 없었던 것뿐이야.
-FNFNC(0)<Speaker>FNC</Speaker>||:제가 싫어져서가 아니라요...?
-FNFNC(0)<Speaker>지휘관</Speaker>||:아니야. 하지만 훔쳐 먹는 건 그만두렴, 창고의 배급용 물자는 다 사전에 계산해서 배정되는 거라고.+설령 네가 너한테 배급될 몫에만 손대더라도, 그럼 작전 중에 배급할 게 줄어들잖니. 임무에 치명적이 될 수도 있어.
-FNFNC(0)<Speaker>FNC</Speaker>||:네에... 그래도 지휘관님이 저 싫어하지 않아서 다행이에요!
-FNFNC(0)<Speaker>지휘관</Speaker>||:내가 왜 널 싫어하겠어.
-FNFNC(0)<Speaker>FNC</Speaker>||:헤헤, 지휘관님 정말 좋아해요! 나중에 깜짝 선물 드릴 테니까 기대하세요!
-()<Speaker></Speaker>||<黑屏1>:금세 다시 얼굴이 환해진 FNC는 폴짝폴짝 뛰면서 지휘실을 나섰다.+반면 나는 땅이 꺼져라 한숨을 쉬고, 계속해서 마카로프와 스테츠킨을 필두로 한 인형들의 추궁에 맞서야 했다.
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>97</BIN>:며칠 후의 저녁, 몸도 마음도 지친 나는 쵤영회 현장에서 막 벗어난 참이었다.+일은 무사히 종결됐지만, 카라비너는 자리를 떠날 때 무척 화난 듯한 기색이었다.+어떡해야 그녀의 화를 풀 수 있을까? 날 피하지 않는다면, 직접 만나서 얘기하는 편이――
-()<Speaker>？？？</Speaker>||<震屏>:서프라이즈!
-()<Speaker>지휘관</Speaker>||<BGM>BGM_Hello</BGM>:우왓!?
-FNFNC(4)<Speaker>FNC</Speaker>||:헤헤헤, 지휘관님! 무슨 생각하시길래 그렇게 멍하니 계세요?
-FNFNC(4)<Speaker>지휘관</Speaker>||:아... FNC구나. 별일 아니야.+그런데 그 옷차림... 넌 오늘 이벤트 참가 명단에 없었을 텐데?
-FNFNC(4)<Speaker>FNC</Speaker>||:히히, 깜짝 선물 드린다고 했잖아요!+카노가 남은 드레스 많으니까 입어보랬어요!
-FNFNC(4)<Speaker>지휘관</Speaker>||:아, 그런 거였어? 정말 예쁘다, 아주 잘 어울려.
-FNFNC(4)<Speaker>FNC</Speaker>||:그래요? 다행이다! 그런데, 웨딩드레스를 입으면 결혼한다는 뜻이죠?
-FNFNC(4)<Speaker>지휘관</Speaker>||:뭐, 그런 셈이지. FNC도 누구랑 결혼하고 싶니?
-FNFNC(4)<Speaker>FNC</Speaker>||:네! 저는요, 지휘관이랑 결혼하고 싶어요! 서약 말고 진짜 결혼이요!+제가 세상에서 제일~ 좋아하는 지휘관님의 신부가 돼서 평생 함께하고, 먹을 거도 전공도 나누고, 초콜릿도 지휘관님 먼저 드릴 거예요!+지휘관님, 저랑 결혼해 주실래요?
-FNFNC(4)<Speaker>지휘관</Speaker>||:어... 그건...+그, 그것보다 궁금한 게 하나 있는데.
-FNFNC(4)<Speaker>FNC</Speaker>||:뭔데요?
-FNFNC(4)<Speaker>지휘관</Speaker>||:초콜릿도 나 먼저 먹게 해 준댔는데, 네 손의 그 케익...+이미 한입 맛본 거 아니니?
-FNFNC(4)<Speaker>FNC</Speaker>||:아.+어, 이건, 그게, 저도 모르게...+케이크가 무지 맛있어 보여서... 죄송해요! 다음에 다시 말할게요!
-FNFNC(4)<Speaker></Speaker>||<黑屏1>:FNC는 허둥지둥 치마자락을 들고 도망치는 모습을 보니, 웃음을 참을 수가 없었다.+이렇게 끝...이라면 다행일 텐데.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><SE1>Heartbeat</SE1>:깜깜해서 아무것도 보이지 않는 가운데, FNC는 식은땀을 흘리며 바싹 벽에 붙은 채로 입을 틀어막고 꼼짝도 하지 않았다.+자신의 마인드맵이 고속 운전하는 소리가 들리는 것만 같았고, 가슴의 코어가 위이잉 돌아가는 소리도 도무지 주체할 수가 없었다.
+FNFNC(0)<Speaker>FNC</Speaker>||:<color=#A9A9A9>조용히... 조용히 해...</color>+<color=#A9A9A9>절대 들키면 안 돼...</color>
+FNFNC(0)<Speaker>？？？？</Speaker>||:여깄는 거 알아. 빨리 나와.
+FNFNC(0)<Speaker>FNC</Speaker>||:<color=#A9A9A9>안 보여... 안 보여... 여기 있음 안 보여... 얼른 가...!</color>
+FNFNC(0)<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:텅 빈 방에 발소리가 울리는 가운데, 선반의 물건을 들었다 놨다 하는 소리도 들렸다.+방을 서성이며, 어딘가에 숨은 FNC를 찾는 소리였다.
+FNFNC(0)<Speaker>？？？？</Speaker>||<SE1>Heartbeat</SE1>:기어코 안 나오겠다 이거지?+방의 전력까지 끊어버리고... 그래도 소용 없어.+이미 들켰는걸.
+FNFNC(0)<Speaker>FNC</Speaker>||:<color=#A9A9A9>가만 있으면 못 찾을 거야... 그, 그치만... 더는 못 버티겠어...</color>
+FNFNC(0)<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:한 발짝... 두 발짝... 세 발짝... 발자국은 점점 FNC가 숨은 곳으로 다가왔다. 그리고...
+FNFNC(0)<Speaker>？？？？</Speaker>||:찾, 았, 다.
+FNFNC(0)<Speaker>FNC</Speaker>||:와아아아아아아악!!!
+FNFNC(0)<Speaker>？？？？</Speaker>||<黑屏1><SE1>AVG_lifttable</SE1>:뭐야, 잠깐――으악!!
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>8</BIN>:다른 한편.
+APS(0)<Speaker>스테츠킨</Speaker>||<BGM>m_avg_casual</BGM>:음...? 방금 무슨 소리 안 들렸어? 수납 선반이 넘어지는 소리 같았는데.+역시 가 보는 게 어때? 꽤 재밌는 광경일 거 같은데.
+APS(0)<Speaker>지휘관</Speaker>||:확실히 걱정되는걸. 가 보자.
+()<Speaker>마카로프의 목소리</Speaker>||:"재밌는 광경"을 놓치게 해서 미안하지만, 스테츠킨...+내 선에서 통제 가능한 상황이야. 지휘관은 안 와도 돼.
+()<Speaker>지휘관</Speaker>||<黑点1>:그래? 그럼 맡길게, 마카로프.
+()<Speaker></Speaker>||<黑点2><BIN>8</BIN>:잠시 후, 다소 흐트러진 모습의 마카로프가 축 늘어진 FNC를 질질 끌면서 지휘실로 돌아왔다.
+FNFNC(0)<Speaker>FNC</Speaker>||:우에엥... 지휘관님, 혼내지 말아 주세요... 다 말할게요...
+FNFNC(0);APS(0)<Speaker>스테츠킨</Speaker>||:우와, 마카로프가 사적 제재를 할 줄은 몰랐는걸?+정말 너무했다~ 입막음 비용 내면 이 일은 비밀로 해 줄게.
+FNFNC(0);PM(0)<Speaker>마카로프</Speaker>||:인형에게도 인간의 법률이 적용됐다면, 진작에 널 모욕죄로 고소해서 정신적 피해로 배상금 뜯어냈을 줄 알아.
+FNFNC(0);PM(0)<Speaker>지휘관</Speaker>||:무슨 일이 있었던 거야?
+FNFNC(0);PM(0)<Speaker>마카로프</Speaker>||:...그냥 사고였어. 벌써 다 정리했으니까 걱정 마.+FNC도 다친 덴 없으니까 바로 심문 시작하자고.
+FNFNC(0)<Speaker>FNC</Speaker>;PM(0)||:말할게요... 다 말할게요!+파티의 그 일은, 제가... 제가 한 거예요...+제가, 훌쩍... 제가 M950A를 부추겨서, 지휘관님한테 술을 먹이게 했어요...
+FNFNC(0);M950A(0)<Speaker>M950A</Speaker>||:오호라, 그때 나한테 한 말이 지휘관을 취하게 만들려고 부추기는 거였다고?
+FNFNC(0)<Speaker>FNC</Speaker>;M950A(0)||:미안해... 잘못했어... 하, 하지만... 훌쩍... 나 진짜 지휘관님 방에 아주 잠깐밖에 안 있었다구!+초콜릿... 초콜릿만 두고 나왔는데... 우으...
+FNFNC(0);M950A(0)<Speaker>M950A</Speaker>||:아, 침대의 그 초콜릿은 네가 둔 거였구나.
+FNFNC(0)<Speaker>FNC</Speaker>;M950A(0)||:우으으... 네가 노래 들으라면서 날 붙잡았단 말이야... 그리고 Zas도 날 봐서... 계획이 들통날까 봐 초콜릿만 두고 바로 나왔다구...
+FNFNC(0);M950A(0)<Speaker>M950A</Speaker>||:어... 그건 전혀 기억에 없는데...
+FNFNC(0);PM(0)<Speaker>마카로프</Speaker>||:이것도 너야?
+FNFNC(0);APS(0)<Speaker>스테츠킨</Speaker>||:오오!
+FNFNC(0);APS(0)<Speaker>지휘관</Speaker>||:잠깐 기다려 봐. FNC, 너 지금 우리가 뭘 묻는지 제대로 아는 거 맞니?+그게 정말 너였다고?
+FNFNC(0)<Speaker>FNC</Speaker>;APS(0)||:어... 저 맞는데요...?+마카로프도 그래서 저 잡아온 거 아니에요?
+FNFNC(0);APS(0)<Speaker>스테츠킨</Speaker>||:자백했으니 사건 종결이지? 이제 지휘관이랑 FNC의 결혼식을 준비하면 되겠네?+여기 인형도 한두 명이 아니니, 축의금만 따져도 어마어마하겠다. 지휘관 대박 났네~
+FNFNC(0);APS(0)<Speaker>지휘관</Speaker>||:아니 넌 좀... FNC, 지금 네가 말한 일을 설명해 봐. 내 방에서 정확히 뭘 했다는 거야?
+FNFNC(0)<Speaker>FNC</Speaker>;APS(0)||<黑屏1>:네...? 초콜릿 때문 아니에요?
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>83</BIN>:며칠 전, 창고.
+ZastavaM21(0)<Speaker>ZasM21</Speaker>||<SE1>AVG_amb_wilderness</SE1>:왜 데이터베이스가 업데이트됐는데 신상 매니큐어 목록이 줄었지...+디자이너가 요즘 아이디어가 고갈됐나? 검색 키워드를 바꿔서... 응? 통신 요청?
+ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker><通讯框>||<BGM>BGM_Room</BGM>:<color=#00CCFF>저기 Zas, 창고 뒤에서 이상한 게 움직여. 무서운데 잠깐 와 줄 순 없어?</color>
+ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:이상한 움직임? 뭘 말하는 거야, 벌레야 적이야?
+ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||:<color=#00CCFF>나도 몰라, 빨리 구해 줘! 무서워서 꼼짝도 못하겠어!</color>
+ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:...금방 갈게.
+ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||<黑点1>:<color=#00CCFF>부탁해, Zas!</color>
+()<Speaker></Speaker>||<黑点2><BIN>83</BIN>:그런데 Zas가 막 창고를 나서자마자, 또다시 FNC에게서 통신이 들어왔다.
+ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker><通讯框>||:<color=#00CCFF>아, 사라졌다! 고마워, Zas!</color>
+ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:뭐?
+ZastavaM21(0)<Speaker></Speaker>||:통신이 툭 끊어졌다.
+ZastavaM21(0)<Speaker>ZasM21</Speaker>||:대체 뭐지...
+ZastavaM21(0)<Speaker></Speaker>||:Zas는 중얼거리며 다시 창고 문 앞으로 돌아와 앉았지만, 모종의 위화감이 그녀의 머리를 맴돌았다.
+ZastavaM21(0)<Speaker>ZasM21</Speaker>||<黑屏1>:<color=#A9A9A9>......역시 이상해.</color>+<color=#A9A9A9>FNC도 말하는 투가 겁먹었다기보단 나를 문에서 떨어뜨리려 하는 것 같았어.</color>+<color=#A9A9A9>정말 그렇다면, 녀석의 목적은... 설마...</color>
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>88</BIN>:같은 시각, 창고 안.
+FNFNC(0)<Speaker>FNC</Speaker>||<BGM>BGM_Brain</BGM>:히히히, Zas도 잘 속네. 엘리트 인형도 별거 아니라니까.+최근에 입고된 초콜릿은 어딨을까요~+이 번호도 아니고... 킁킁... 아, 진한 초콜릿 향기! 여기다!
+FNFNC(0)<Speaker></Speaker>||:FNC는 발꿈치를 들어, 선반의 상자 속에서 초콜릿을 한 움큼 꺼냈다.
+FNFNC(0)<Speaker>FNC</Speaker>||:우와, 새로운 맛이 잔뜩! 맛있겠다아... 음, 지금 먹어야지!+들키지만 않으면 되니까, 나머진 파우치에 넣어서 몰래――
+FNFNC(0)<Speaker></Speaker>||<BIN>89</BIN>:그때, 창고의 문이 활짝 열렸다.
+FNFNC(0)<Speaker>FNC</Speaker>||<SE1>Heartbeat</SE1>:?!
+ZastavaM21(0)<Speaker>ZasM21</Speaker>||:FNC, 숨지 말고 나와. 너 여기 있지?
+ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||:............
+ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:...초콜릿 냄새. 역시.+초콜릿을 노리고 한 짓이라는 걸 진작에 눈치챘어야 했는데.
+ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||:......
+ZastavaM21(0)<Speaker></Speaker>;FNFNC(0)||<SE1>AVG_weapon_reload</SE1>:Zas는 주위를 두리번대며, 천천히 FNC가 숨은 컨테이너 옆까지 다가왔다.+말만으론 안 되겠다 싶었는지, Zas는 총까지 장전했다.
+ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:정말 안 나올래? 절도를 저질렀으면서 지시에 불응한다면, 너를...
+ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||<SE1>Heartbeat</SE1>:<color=#A9A9A9>흥, 지휘관님한테 끌려가도 안 혼나지롱! 애교 부리면 되지롱! 바보도 아니고, 절대 안 나갈――</color>
+ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:M870이랑 FP-6한테 인계할 거야.
+ZastavaM21(0);FNFNC(0)<Speaker></Speaker><Shake>||:그 이름들을 들은 FNC는 자리를 박차고 벌떡 일어섰다.+포장지를 뜯은 초콜릿들도 치마에서 흘러내려, 바닥에 후두둑 떨어졌다.
+ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||:잘못했어잘못했어도둑질한거인정할테니까제발지휘관님한테데려가줘어어!!
+ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:깜짝이야... 이렇게 많이 꺼냈어?
+ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||:다 맛있어 보이니까, 다 맛보고 싶어서...+다 하나씩만 뜯어서 한 입씩만 먹었어...
+ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:너, 이게 한두 번도 아니잖아. 항상 잡혀서 혼나면서 왜 매번 이래?
+ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||:그, 그치만 초콜릿이 좋은걸... 부탁이야 Zas, 그 두 녀석한테만은 제발! 고문받을 거야!
+ZastavaM21(0)<Speaker>ZasM21</Speaker>;FNFNC(0)||:흐응... 지휘관님께 여쭤보고.+카리나 씨, 계십니까? Zas M21입니다. FNC가 또 창고에서 배급용 초콜릿을 훔쳐 먹었는데, 지휘관님께...+...아, 싫으시다고요? 알겠습니다, 그럼 규정대로 처리하겠습니다.
+ZastavaM21(0);FNFNC(0)<Speaker>FNC</Speaker>||<黑屏1>:싫어...? 지휘관님이... 날 보기 싫다고...?
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>8</BIN>:FNC가 진술을 마쳤다.
+()<Speaker>지휘관</Speaker>||<BGM>m_avg_casual</BGM>:그것뿐이야?
+FNFNC(0)<Speaker>FNC</Speaker>||:지휘관님이 절 보기 싫다 하셔서... 평소에는 적어도 한두 마디로라도 꾸짖으셨는데... 완전히 실망해서 신경 끄기로 하신 줄 알아서...+이대로 그리폰에서 쫓겨나는 건 아닌가 해서! 그래서... 지휘관님한테 어떻게든 사과드려야겠다 싶어서...
+FNFNC(0)<Speaker>지휘관</Speaker>||:초콜릿 훔쳐 먹은 걸로 쫓아내진 않지만 말이지... 그래서, 뭘 했니?
+FNFNC(0)<Speaker>FNC</Speaker>||:그게... 무서워서...+M950A한테, 우수한 인형은 주량도 뛰어나야 하는데, 지휘관의 주량도 못 이기면 어떻게 엘리트 인형이라 하겠냐고 했어요...
+FNFNC(0);PM(0)<Speaker>마카로프</Speaker>||:아하, 어쩐지 M950A가 평소 걔답지 않게 지휘관이랑 같이 술을 엄청 마시더라니.
+FNFNC(0)<Speaker>FNC</Speaker>;PM(0)||:도, 도무지 지휘관님 방에 들어갈 엄두가 안 나서...+지휘관님이 깨어 있어서 절 보자마자 호통치면, 사과할 용기도 안 날 거 같아서... 죄송해요 지휘관님...
+FNFNC(0)<Speaker>지휘관</Speaker>;PM(0)||:괜찮아, 괜찮아.+네가 했다는 일이 그거였구나.
+FNFNC(0)<Speaker>FNC</Speaker>;PM(0)||:그, 그리고 Zas가 절 눈치챘어요!+그때 제가 먹었던 초콜릿들 전부 압수당했지만, 사실 하나 숨겨둔 거 있었어요...+그걸 지휘관님께 돌려드리면, 제가 진심으로 뉘우치고 있다고 증명할 수 있을 거 같아서...+그래서 파티가 끝나기 전에 몰래 지휘관님 방에 가서 초콜릿 두고 나왔어요.
+FNFNC(0);APS(0)<Speaker>스테츠킨</Speaker>||:거 봐, Zas가 봤다던 프릴 달린 치마가 역시 얘였잖아.+눈썰미 하난 정말 예리하다니까.
+FNFNC(0);PM(0)<Speaker>마카로프</Speaker>||:우리도 Zas한테 붙잡혀서 고생 좀 했지.
+FNFNC(0);APS(0)<Speaker>스테츠킨</Speaker>||:흥, 두고봐, 그 빚은 꼭 갚아 줄 테니까.+그나저나 FNC, 네가 이렇게 잘못을 인정하고 진심으로 뉘우치는 건 정~말 장한데, 우리의 관심은 그게 아니야.
+FNFNC(0)<Speaker>FNC</Speaker>;APS(0)||:어... 아니라고?+너희가 지휘관님 방에 들어갔던 인형을 찾는다고 들었는데?
+FNFNC(0);PM(0)<Speaker>마카로프</Speaker>||:그건 맞지만, 다른 증거로 봐도 우리가 찾는 인물은 절대 네가 아니거든.+확실히, 어젯밤 꽤 많은 사람들이 지휘관의 방을 방문했지. 하지만 밤 11시 30분에 감시 시스템의 점검이 끝나고, 스테츠킨이 감시 영상에서 이걸 찾았어.
+FNFNC(0);PM(0)<Speaker></Speaker>||:마카로프에게 사진을 한 장 꺼냈다. 화질이 썩 좋지 않은 감시 영상의 캡처였다.+사진 속에는, 빈틈없이 가려진 커튼 너머로 가녀린 몸에 긴 머리를 한 여성의 그림자가 비쳤다.
+FNFNC(0)<Speaker>FNC</Speaker>;PM(0)||:응...? 누구야? 처음 보는데.
+FNFNC(0);PM(0)<Speaker>마카로프</Speaker>||:지휘관의 방에서 비슷하게 생긴 사람도 못 봤어?
+FNFNC(0)<Speaker>FNC</Speaker>;PM(0)||:아니, 못 봤어. 내가 들어갔을 땐 아무도 없었어.
+FNFNC(0);PM(0)<Speaker>마카로프</Speaker>||:좋아, 협조 고마워. 이제 이 일은 너와 관계 없어.
+FNFNC(0)<Speaker>FNC</Speaker>||:어... 저기, 지휘관님?
+FNFNC(0)<Speaker>지휘관</Speaker>||:수고했어, FN――
+FNFNC(0)<Speaker>FNC</Speaker>||:안 돼요!!
+FNFNC(0)<Speaker>지휘관</Speaker>||:엉?!
+FNFNC(0)<Speaker>FNC</Speaker>||:짜르지 말아 주세요! 앞으로는 초콜릿 조금만 먹고 더 열심히 일할게요!+초콜릿 하루에 받는 만큼만 먹고, 모자라다고 창고 가서 훔쳐 먹지도 않을게요!+주방 가서 G36한테 초콜릿 아이스크림 더 달라고 떼쓰지도 않고, 89식한테 초콜릿 나눠 달라고도 안 하고, 카페 가서 스프링필드한테 핫초코 달라는 것도 줄일게요!
+FNFNC(0)<Speaker>지휘관</Speaker>||:......
+FNFNC(0);PM(0)<Speaker>마카로프</Speaker>||:......
+FNFNC(0);APS(0)<Speaker>스테츠킨</Speaker>||:완전 상습범이었네? 그게 다 얼마야...
+FNFNC(0)<Speaker>FNC</Speaker>;APS(0)||:정말... 죄송해요...
+FNFNC(0)<Speaker>지휘관</Speaker>;APS(0)||:하하... FNC, 나 화 안 났어. 그날은 내가 정말 바빠서 널 볼 틈도 없었던 것뿐이야.
+FNFNC(0)<Speaker>FNC</Speaker>||:제가 싫어져서가 아니라요...?
+FNFNC(0)<Speaker>지휘관</Speaker>||:아니야. 하지만 훔쳐 먹는 건 그만두렴, 창고의 배급용 물자는 다 사전에 계산해서 배정되는 거라고.+설령 네가 너한테 배급될 몫에만 손대더라도, 그럼 작전 중에 배급할 게 줄어들잖니. 임무에 치명적이 될 수도 있어.
+FNFNC(0)<Speaker>FNC</Speaker>||:네에... 그래도 지휘관님이 저 싫어하지 않아서 다행이에요!
+FNFNC(0)<Speaker>지휘관</Speaker>||:내가 왜 널 싫어하겠어.
+FNFNC(0)<Speaker>FNC</Speaker>||:헤헤, 지휘관님 정말 좋아해요! 나중에 깜짝 선물 드릴 테니까 기대하세요!
+()<Speaker></Speaker>||<黑屏1>:금세 다시 얼굴이 환해진 FNC는 폴짝폴짝 뛰면서 지휘실을 나섰다.+반면 나는 땅이 꺼져라 한숨을 쉬고, 계속해서 마카로프와 스테츠킨을 필두로 한 인형들의 추궁에 맞서야 했다.
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>97</BIN>:며칠 후의 저녁, 몸도 마음도 지친 나는 쵤영회 현장에서 막 벗어난 참이었다.+일은 무사히 종결됐지만, 카라비너는 자리를 떠날 때 무척 화난 듯한 기색이었다.+어떡해야 그녀의 화를 풀 수 있을까? 날 피하지 않는다면, 직접 만나서 얘기하는 편이――
+()<Speaker>？？？</Speaker>||<震屏>:서프라이즈!
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Hello</BGM>:우왓!?
+FNFNC(4)<Speaker>FNC</Speaker>||:헤헤헤, 지휘관님! 무슨 생각하시길래 그렇게 멍하니 계세요?
+FNFNC(4)<Speaker>지휘관</Speaker>||:아... FNC구나. 별일 아니야.+그런데 그 옷차림... 넌 오늘 이벤트 참가 명단에 없었을 텐데?
+FNFNC(4)<Speaker>FNC</Speaker>||:히히, 깜짝 선물 드린다고 했잖아요!+카노가 남은 드레스 많으니까 입어보랬어요!
+FNFNC(4)<Speaker>지휘관</Speaker>||:아, 그런 거였어? 정말 예쁘다, 아주 잘 어울려.
+FNFNC(4)<Speaker>FNC</Speaker>||:그래요? 다행이다! 그런데, 웨딩드레스를 입으면 결혼한다는 뜻이죠?
+FNFNC(4)<Speaker>지휘관</Speaker>||:뭐, 그런 셈이지. FNC도 누구랑 결혼하고 싶니?
+FNFNC(4)<Speaker>FNC</Speaker>||:네! 저는요, 지휘관이랑 결혼하고 싶어요! 서약 말고 진짜 결혼이요!+제가 세상에서 제일~ 좋아하는 지휘관님의 신부가 돼서 평생 함께하고, 먹을 거도 전공도 나누고, 초콜릿도 지휘관님 먼저 드릴 거예요!+지휘관님, 저랑 결혼해 주실래요?
+FNFNC(4)<Speaker>지휘관</Speaker>||:어... 그건...+그, 그것보다 궁금한 게 하나 있는데.
+FNFNC(4)<Speaker>FNC</Speaker>||:뭔데요?
+FNFNC(4)<Speaker>지휘관</Speaker>||:초콜릿도 나 먼저 먹게 해 준댔는데, 네 손의 그 케익...+이미 한입 맛본 거 아니니?
+FNFNC(4)<Speaker>FNC</Speaker>||:아.+어, 이건, 그게, 저도 모르게...+케이크가 무지 맛있어 보여서... 죄송해요! 다음에 다시 말할게요!
+FNFNC(4)<Speaker></Speaker>||<黑屏1>:FNC는 허둥지둥 치마자락을 들고 도망치는 모습을 보니, 웃음을 참을 수가 없었다.+이렇게 끝...이라면 다행일 텐데.

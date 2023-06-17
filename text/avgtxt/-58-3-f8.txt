@@ -1,0 +1,100 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>446</BIN><黑屏2>:아베르누스 동탑의 나선 계단.
+NPC-SCR(2)<Speaker>SCR</Speaker><通讯框>||<BGM>GF_EV9_Intermission</BGM>:<color=#00CCFF>클리어!</color>
+NPC-SCR(2)<通讯框>;Contender(0)<Speaker>컨텐더</Speaker><通讯框>||:<color=#00CCFF>클리어!</color>
+NPC-SCR(2)<通讯框>;M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position><通讯框>||:<color=#00CCFF>적 없음!</color>
+NPC-SCR(2)<Speaker>SCR</Speaker><通讯框>;M26MASS(0)<Position>-200,80</Position><通讯框>||:<color=#00CCFF>왜 올라갈수록 적이 줄어드는 거지...?</color>
+NPC-SCR(2)<通讯框>;NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:전원, 위치 확인.
+NPC-SCR(0)<Speaker>SCR</Speaker><通讯框>;NPC-SCAR-L(0)||:<color=#00CCFF>69층.</color>
+NPC-SCR(0)<通讯框>;Contender(0)<Speaker>컨텐더</Speaker><通讯框>||:<color=#00CCFF>...68층.</color>
+NPC-SCR(0)<通讯框>;M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position><通讯框>||:<color=#00CCFF>엑... 나 69층인데?</color>
+NPC-SCR(0);M82A1(0)<Speaker>M82A1</Speaker><通讯框>||:<color=#00CCFF>65층.</color>
+NPC-SCR(0);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:이동 중지, 제자리서 엄폐.
+NPC-SCR(4)<Speaker>SCR</Speaker><通讯框>;NPC-SCAR-L(0)||:<color=#00CCFF>뭐야, 모두 한자리에 있는데 왜 좌표 탐지가 제각각이지?</color>+<color=#00CCFF>대장, 대장의 좌표는?</color>
+NPC-SCR(0)<通讯框>;NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<黑屏1>:좌표상 나는 70층이야.+지원이 필요해.
+()<Speaker></Speaker>||<BIN>72</BIN><黑屏2><SE1>AVG_tele_connect</SE1>:잠시 후, 무로메츠 회의실.
+BossJustice(0)<Speaker>저지</Speaker>||:여기는 Fe56. D팀은 서탑의 모든 화력 포인트 제거를 완료했고 그 과정에서 별다른 저항을 받지 않았다.+C팀은 지금부터 동탑을 등반해 서광팀을 지원하는 동시에, SSE(민감 현장 수사)를 가동해 임무 목표를 수색하겠다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:서광팀, 현재 동탑 등반 중. 방금 틸과 브라메드와 교전했다.
+AR18(2)<Speaker>AR18</Speaker><通讯框>;NPC-SCAR-L(0)||:<color=#00CCFF>사상자 있는가?</color>
+AR18(2)<Position>0,120</Position><通讯框>;NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:B팀 대원 2명 손실, 아직 임무 속행 가능하다.
+AR18(2)<Speaker>AR18</Speaker><通讯框>;NPC-SCAR-L(0)||:<color=#00CCFF>알았다.</color>
+AR18(2)<通讯框>;NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:그리고, 현재 좌표 탐지에 문제가 발생했다.
+AR18(2)<Speaker>AR18</Speaker><通讯框>;NPC-SCAR-L(0)||:<color=#00CCFF>서광팀의 신호는 정상 탐지된다, 설명하라.</color>
+AR18(2)<通讯框>;NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:신호 교란인 것 외에는 당측에서 원인 파악 불가능. 민들레팀에게 착륙해 신호 및 좌표 안정을 요청한다.
+AR18(2)<Speaker>AR18</Speaker><通讯框>||:<color=#00CCFF>지휘관, 서광이 민들레의 착륙 후 지원을 요청합니다.</color>
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>허가한다, 민들레의 안전에 주의하도록.</color>
+AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>예.</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>446</BIN>:아베르누스 동탑, 나선 계단.
+Nyto(1)<Speaker>검은 니토</Speaker>||:언니, 이쪽에서 적 신호가 탐지됐습니다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker><Position>0,50</Position>;Nyto(1)||:찾아내.
+Nyto(1)<Speaker>검은 니토</Speaker>||:이미 가까이――
+()<Speaker></Speaker>||<BGM>10106</BGM><SE1>AVG_Cut_Watermelon</SE1>:검은 니토는 말을 마치기도 전에 하얀 니토의 눈앞에서 고꾸라졌다.+하얀 니토는 경악하며 적을 찾아 고개를 들었지만, 마주친 것은 어둠 속 차가운 눈동자 한 쌍이었다.
+()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1>:털썩.+남은 한 명까지 바닥에 쓰러져, 계단은 다시 조용해졌다.
+HK416Mod(0)<Speaker>HK416</Speaker>||:적 섬멸 확인.
+G11Mod(0)<Speaker>G11</Speaker>||:응... 여긴 이제 없어.
+AR15Mod(0)<Speaker>AR15</Speaker>||:라저.
+()<Speaker></Speaker>||:민들레팀이 진형을 산개한 후, AR-15가 모두 도착했는지 확인했다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:여기는 민들레, 지정 위치 도착.
+AR15Mod(0);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker><通讯框>||:<color=#00CCFF>수신.</color>
+AR15Mod(5)<Speaker>AR15</Speaker>;NPC-SCAR-L(0)||:...서광팀?+아직도 신호 교란이야?
+AR15Mod(5);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker><通讯框>||:<color=#00CCFF>점점 더 심해지고 있다.</color>+<color=#00CCFF>지금 전원 한자리에 있는데도 좌표 표시가 10층 이상 차이나.</color>
+AR15Mod(5);Erma(13)<Position>0,50</Position><Speaker>엘마</Speaker><通讯框>||:<color=#00CCFF>여기는 머큐리! 서광팀이랑 민들레팀의 현재 좌표를 요청한다!</color>
+AR15Mod(0)<Speaker>AR15</Speaker>;Erma(13)||:공유했어.
+AR15Mod(0);Erma(15)<Position>0,50</Position><Speaker>엘마</Speaker><通讯框>||:<color=#00CCFF>흐음... 확실히 전파 교란 현상인데 원인을 모르겠어. 이건 현장 기술팀의 지원이 필요하겠는걸.</color>
+AR15Mod(0)<Speaker>AR15</Speaker>||:알았어. 댄들라이?
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:응, 거대한 에너지의 파동이 느껴져.+하지만 나도 아직은 잘 모르겠어, 좀 더 조사해봐야 해.
+Erma(13)<Position>0,50</Position><Speaker>엘마</Speaker><通讯框>||:<color=#00CCFF>알았어, 내가 신호 교란이 집중적인 위치 몇 곳 보낼게.</color>
+AR15Mod(3)<Speaker>AR15</Speaker>||<黑屏1>:좋아, 그럼 우린 전진.+UMP45랑 HK416은 후방에서 댄들라이를 호위하고, G11은 날 엄호해.
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><SE1>AVG_Team_Running</SE1>:내벽을 휘감은 계단을 따라, 민들레팀은 조용하고 신속하게 이동했다.+착륙할 때 조우했던 소수를 제외하면, 이동 중에 적은 코빼기도 보이지 않았다.
+G11Mod(0)<Speaker>G11</Speaker>||:여기 너무 넓다아... 제대로 된 지도 없어?
+HK416Mod(0)<Speaker>HK416</Speaker>||:있겠냐 이 밥통아, 구역 표시 있는 것만으로도 감지덕지라고.
+()<Speaker></Speaker>||<BGM>GF_22W_BGM_1</BGM><闪屏><duration>1</duration><rate>10</rate><delay>1</delay><Pic></Pic><CG>569,446</CG></闪屏>:
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:...얘들아, 봤어?
+HK416Mod(0)<Speaker>HK416</Speaker>||:뭘?
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:빙산.
+G11Mod(0)<Speaker>G11</Speaker>||:웬 빙산?+우리 아직 아베르누스에 있잖아.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:맞아, 그런데 빙산이 보였어....+누가... 나를 부르고 있어, 나를 "니모겐"이라 부르고 있어...
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:...엄청 익숙한 느낌.
+AR15Mod(0)<Speaker>AR15</Speaker>||:......
+()<Speaker></Speaker>||:AR-15가 즉시 손을 들어 모두를 멈춰 세웠다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:너희는 봤어?
+HK416Mod(0)<Speaker>HK416</Speaker>||:전혀.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:아마 댄들라이한테만 들리고 보이는 거겠지.
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:나도 모르게, 가까이 가고 싶어져...+햇빛 아래서 찬란히 빛나는 빙산으로...
+()<Speaker></Speaker>||:댄들라이는 말꼬리를 흐리더니 이내 눈동자에 초점이 사라지고 멍하니 움직이지 않았다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:쯧... G11, HK416, 주위 경계해.+UMP45는 나랑 같이 댄들라이를 엄호.
+HK416Mod(0)<Speaker>HK416</Speaker>||:앉으려 하지 말고 똑바로 일해.
+G11Mod(0)<Speaker>G11</Speaker>||:끙...
+AR15Mod(0)<Speaker>AR15</Speaker>||:45, 지금 신호 교란 발생 구역까지 얼마나 남았어?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:이미 들어왔는데.
+AR15Mod(0)<Speaker>AR15</Speaker>||:...그럼 계속 전진하는 수밖에.
+AR15Mod(0)<Speaker>AR15</Speaker>||:계획대로 가다 보면 서광이든 Fe56든 누구랑 만나겠지.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE2>Gunfight</SE2>:타타탕——!
+()<Speaker></Speaker>||:근처에서 총성이 울려 대화를 끊었다.
+AR15Mod(8)<Speaker>AR15</Speaker>||:뭐야?!
+HK416Mod(0)<Speaker>HK416</Speaker>;AR15Mod(0)||:물러서 G11!+AR-15! 적이야!
+AR15Mod(5)<Speaker>AR15</Speaker>||:댄들라이! 당장 연결 끊어!
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:......
+AR15Mod(5)<Speaker>AR15</Speaker>||:댄들라이!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:조심해!
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><BGM>10254</BGM>:허공에서 계단 위로, 검은 그림자가 천천히 드리웠다.+깃털 같은 움직임은 소리도 거의 내지 않았지만, 무형의 압박감이 공간을 가득 채웠다.
+NPC-MorridowNew(1)<Speaker>몰리도</Speaker>||:오랜만이야, 너희는 모습이 여전하구나.
+AR15Mod(5)<Speaker>AR15</Speaker>||:HK416, G11! 즉시 복귀해! 적을 요격――?!
+()<Speaker></Speaker>||:눈 깜짝할 사이에, 몰리도가 댄들라이에게 바짝 다가왔다.
+NPC-MorridowNew(1)<Speaker>몰리도</Speaker>||:누군가가 니모겐의 의식을 따라, 가선 안 될 곳으로 가는 모양이네...
+AR15Mod(0)<Speaker>AR15</Speaker>||:G11, 엄호 사격!
+G11Mod(0)<Speaker>G11</Speaker>||:응!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:맹렬한 화력 투사에 몰리도는 아주 조금 뒤로 물러섰다.
+NPC-MorridowNew(1)<Speaker>몰리도</Speaker>||:저번엔 너희가 운이 좋았지만, 이번엔 쉽지 않을걸.
+AR15Mod(0)<Speaker>AR15</Speaker>||:아 진짜 댄들라이! 빨리 나오라고!+젠장, UMP45랑 G11은 댄들라이를 보호해! 저 놈은 나랑 HK416이――
+()<Speaker></Speaker>||<SE1>Rope</SE1>:그때, 갑자기 댄들라이가 AR-15의 팔을 덥석 붙잡았다.
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:빙산이 아니었어... 내가 저 호수로 들어가지 못하도록 막는 문이야...+눈앞이 고요하고 숨막힐 듯 답답해...+들어가고 싶은데, 들어갈 수 없어...
+HK416Mod(0)<Speaker>HK416</Speaker>||:너 얘 말 알아들을 수 있어?
+AR15Mod(3)<Speaker>AR15</Speaker>||:......+댄들라이, 너 이곳의 네트워크에 접속했어? 느껴진다는 의식이 패러데우스의 의식을 말하는 거야?
+NytoIsomer(3)<Speaker>댄들라이</Speaker>||:"연결되고서야 깨달았어, 나는 결국 기대받던 그녀가 될 수 없음을."+"허나 그녀가 우리의 모든 것을 받아들이기로 했다면, 완벽해지기를 포기하는 것도 나의 소망."+"절망의 꽃은 곧 피어나리라. 시간이 얼마 없어."
+HK416Mod(0)<Speaker>HK416</Speaker>||:그게 얼마나 중요한 말인진 전혀 모르겠지만 지금 중요한 건 엄호야 AR-15!
+AR15Mod(0)<Speaker>AR15</Speaker>||:알았어!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:댄들라이의 손을 뿌리치고, AR-15는 HK416의 뒤를 따랐다.
+NPC-MorridowNew(1)<Speaker>몰리도</Speaker>||:내 친히 충고해 주자면...+그 가엾은 의식에게 저항하려 하지 마. 너희가 죽이면 죽일수록 그들은 점점 더 강해지니까.+너희 모두를 하나씩 전부 집어삼킬 때까지.
+AR15Mod(0)<Speaker>AR15</Speaker>||:전투 준비!+민들레팀이 무로메츠 전원 호출! 몰리도와 조우했다! 즉시 지원 바란다!
+()||<黑屏1>:

@@ -1,98 +1,98 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>357</BIN><BGM>10254</BGM>:댄들라이의 중계를 통해, 지휘관은 마흐리안의 "컨셔스 파노라마" 속에서 상상을 아득히 초월한 수의 기억 파편들을 발견했다.
-NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>이건... 흥미롭군요...</color>
-NytoIsomer(7)<通讯框>;AR15Mod(0)<Speaker>AR15</Speaker>||:너 아까부터 계속 혼자 중얼거리는데, 대체 뭘 찾아냈길래 그래?
-NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>;AR15Mod(0)||:<color=#00CCFF>마흐리안은 그야말로, 모순의 결정체입니다. 그녀의 파노라마의 빌드 구조는 패러데우스의 극초기 기술 같지만, 기억 파편의 형식은 제가 다른 니토들에게선 한 번도 본 적 없는 형태입니다.</color>
-NytoIsomer(7)<通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:신식이면서도 구식이란 건가...
-NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>;RO635Mod(0)||:<color=#00CCFF>탈린의 버려진 이성질체들의 기억 파편이 그저 화질이 떨어지는 영상 클립의 집합이었다면, 마흐리안의 기억은 완전히 디지털화된 것입니다.</color>
-NytoIsomer(7)<Speaker>지휘관</Speaker><通讯框>||:처리하기 힘들단 뜻이야?
-NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>파노라마에 침투하는 것 자체는 그리 어렵지 않으나, 이만한 규모는 대체 어디서부터 처리해야 할지 감이 안 잡히는군요.</color>
-NytoIsomer(7)<通讯框>;AR15Mod(0)<Speaker>AR15</Speaker>||:구조가 어떻든 간에 시간순으로 확인하면 되잖아.
-NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>;AR15Mod(0)||:<color=#00CCFF>해봤는데 안 돼서 하는 말이야.</color>+<color=#00CCFF>마흐리안의 기억 파편은 시간값이 아예 없어서 정렬이 불가능해.</color>
-NytoIsomer(7)<通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:말도 안 돼!
-NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>;RO635Mod(0)||:<color=#00CCFF>말도 안 돼도 사실인걸.</color>
-NytoIsomer(7)<通讯框>;M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그게 무슨 뜻이야?
-NytoIsomer(7)<通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:기억 파편은 생성된 순간 자동으로 시간 표식이 붙고, 어지간해선 수정하지도, 삭제하지도 못해.+아예 불가능한 건 아니지만, 그러려면...
-NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>;RO635Mod(0)||:<color=#00CCFF>누가 말도 안 되게 한가해서 프레임마다 시간값을 지워야 하지.</color>
-NytoIsomer(7)<通讯框>;AR15Mod(0)<Speaker>AR15</Speaker>||:하지만 이렇게나 많은 기억 파편들을 일일이, 프레임마다 세척하는 건 사실상 불가능할 텐데.
-NytoIsomer(7)<通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:그렇다면 가능성은 한 가지... 누군가 그녀의 기억을 박살내고 세척해서, 시간 표식이 사라져 기억이 뒤죽박죽이 된 거야.
-NytoIsomer(7)<通讯框>;M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그럼 본인도 자기 과거를 기억 못한다고?
-NytoIsomer(7)<Speaker>지휘관</Speaker><通讯框>||:......+기억이 주입됐을 가능성은?
-NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>없습니다.</color>+<color=#00CCFF>마흐리안의 컨셔스 파노라마는 매우 취약해, 기억이 주입될 경우 파노라마가 통째로 무너질 겁니다.</color>+<color=#00CCFF>일단 일부 읽을 수 있는 파편만이라도 모았습니다만, 순서를 모르니 조합에 따라 해석이 달라질 수 있습니다.</color>
-NytoIsomer(7)<Speaker>지휘관</Speaker><通讯框>||:우선 읽을 수 있는 것부터 다 확인해보자.
-NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>네, 가장 가까운 것부터 보겠습니다.</color>
-()||<黑屏2><回忆><BIN>318</BIN><BGM>BGM_Empty</BGM>:본 마을.
-NPC-Lilyan(0)<Speaker>엘사</Speaker>||<BGM>m_avg_labyrinth</BGM>:성녀 언니, 언니는 형제자매 있어?
-NPC-Machlian(4)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:음... 여동생이 한 명 있다고 할 수 있겠네.
-NPC-Lilyan(0)<Speaker>엘사</Speaker>||:우와, 성녀 언니처럼 다정한 사람의 동생이니까 언니를 엄청 좋아하겠다.
-NPC-Machlian(4)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:...그건 아닌가 봐.
-NPC-Lilyan(0)<Speaker>엘사</Speaker>||:왜? 동생이랑 사이 나빠?
-NPC-Machlian(1)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:두 마리 벌레가 작은 흙구멍에 빠졌어. 두 벌레는 서로 껴안아 함께 살아남을 수도 있고, 상대를 짓밟아 혼자 빠져나갈 수도 있는데...+아직 폭풍우가 오지 않아서 서로 먼저 움직이려 하지 않고 있어.+폭풍이 닥치는 순간, 어떻게 될지 아무도 모르는데...+...대충 이런 관계라고 할까?
-NPC-Lilyan(0)<Speaker>엘사</Speaker>||:으에... 모르겠어...+그래도 괜찮아, 난 성녀 언니가 세상에서 제일 좋으니까!
-NPC-Machlian(4)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||<黑屏1>:후훗, 나도 엘사가 세상에서 제일 좋아...
-()<Speaker>지휘관</Speaker>||<黑屏2><关闭蒙版><BIN>357</BIN><BGM>BGM_Empty</BGM>:이것도 본 마을에서의 기억이군... 벌써 몇 번째지?
-RO635Mod(0)<Speaker>RO635</Speaker>||:선명하지만, 별로 가치는 없네요.
-NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>별 수 없습니다, 아무래도 이 시기의 기억만 선명한 모양입니다.</color>
-()<Speaker>지휘관</Speaker>||<黑屏1>:그럼 저쪽의 난잡한 기억 파편을 보자.
-()||<黑屏2><BIN>70</BIN><回忆><BGM>10082</BGM>:어느 실험실.+몸은 어떤 실험 기구에 단단히 묶여 있었다.+그리고 맞은편엔, 알아볼 수 없을 정도로 얼굴이 일그러진 남자가 앉았다.
-()<Speaker>□□□</Speaker>||:지금 느낌이 어떻지?
-NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:별로 안 좋아요...
-()<Speaker>□□□</Speaker>||:네가 누구인지는 기억나?
-NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:...마흐리안이요.
-()<Speaker>□□□</Speaker>||:내가 누군지는 기억해?
-NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:당신은... 당신은...
-()||:괴롭고 어지러운 기억이 머릿속에 몰려들었지만, 마흐리안은 아무 말도 할 수 없었다.
-()<Speaker>□□□</Speaker>||:드디어 기억 장애가 발생했군.+좋아, 겨우 좀 진전이 생겼어.+다시 한번 기억 세척 실시해, 오늘 실험으로 돌파구가 생길지도 모르겠군.
-()<Speaker>조수</Speaker>||:네.
-()||:그의 조수가 다가와, 계기판을 이리저리 조작했다.
-NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:제게... 무슨 짓을 하려는 거예요...?
-()<Speaker>□□□</Speaker>||:다시 세척하기 전에, 네가 좋아할 만한 걸 보여 주지.
-()||:남자가 사진 한 장을 마흐리안의 눈앞에 들이댔다. 다정하고 화목한 분위기의 가족 사진이었다.+평범한 부부는 서로 어깨를 맞댔고, 가운데의 여자아이는 활짝 웃어 앞니가 빠진 구멍마저도 행복해 보였다.
-NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:엄마... 아빠...
-()<Speaker>□□□</Speaker>||:비밀 하나 더 알려 줄까?+네가 사랑하는 엄마 아빠는 진작에 죽었다.+뭐어, 정확힌 죽었다고 할 순 없겠지, 마을 안을 서성이면서 움직이는 게 보이면 닥치는 대로 덮치고 있으니까.
-NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position><Shake>||:......!+아니야... 아니야! 안 믿어!+풀어 줘! 엄마 아빠를 찾으러 갈 거야!
-()||:필사적으로 몸부림쳤지만, 단단히 묶인 구속구는 꿈쩍도 하지 않았다.
-()<Speaker>□□□</Speaker>||:그래 몸부림쳐 봐, 힘껏 버둥거려 보라고!+어차피 다시 정신이 들면 이 대화도 기억 못해.+시작해.
-()<Speaker>조수</Speaker>||<黑屏1>:네.
-()||<黑屏2><BIN>9</BIN><黑屏1>:순간 머릿속이 텅 비어버리고, 온세상이 소용돌이치더니 온갖 화면이 눈앞을 스쳐 지나갔다.+얼마나 지났을까, 세상이 겨우 잔잔해졌다.
-()<Speaker>□□□</Speaker>||<黑屏2><BIN>70</BIN>:지금 느낌이 어떻지?
-NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:별로 안 좋아요...
-()||<黑屏1>:일그러진 얼굴의 남자는 꺼림직한 웃음소리를 내었고, 마흐리안의 시야는 점점 흐려졌다.
-()<Speaker>지휘관</Speaker>||<黑屏2><关闭蒙版><BIN>357</BIN><BGM>BGM_Empty</BGM>:......+얼굴이 더 잘 보이는 기억은 없어?
-NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>지금으로선 권장하지 않습니다. 마흐리안의 파노라마는 매우 허약해, 저 특수처리된 인물의 형상을 억지로 복원하려 했다간 붕괴될 위험이 높습니다.</color>
-NytoIsomer(7)<通讯框>;M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:으에... 얼굴이 엄청 징그럽게 비틀렸어...
-NytoIsomer(7)<通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:마흐리안이 저 사람을 극도로 두려워해서인지, 패러데우스가 그녀의 기억에 특수처리를 해서인지...+하지만 만약 후자라면, 패러데우스가 "기억"을 조작하는 기술력을 무시무시한 수준으로 발전시켰다는 뜻입니다.
-NytoIsomer(7)<Speaker>지휘관</Speaker><通讯框>||:...계속 찾아봐.
-()||:댄들라이가 마흐리안의 전체적인 정신 속 광경을 보여줬다. 크기도, 색깔도 다른 파편들이 바닥에 엉망으로 흩어져 있었다. 어떤 건 주변에 전혀 어울리지 않았고, 어떤 건 완전히 파손된 것처럼 보였다.
-()<Speaker>지휘관</Speaker>||:이 기억 파편이랑 색이 비슷한 걸 찾아봐, 흐릿해도 상관없으니까.
-NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>알겠습니다.</color>
-()||<黑屏2><BIN>322</BIN><回忆><BGM>10227</BGM>:어느 지하 기지.+전자 스크린은 베를린의 전체 지도를 선명하게 그렸고, 그 위에는 빼곡한 점들이 찍혀 있었다.+그중, 얼굴이 흐릿한 소녀가 모두의 위치를 지정해 주고 있었다.
-Narciss(4)<Speaker>？？？</Speaker>||:다들 맡은 위치 제대로 기억했지?
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:똑똑히 기억해두었습니다.
-Nyto(1)<Speaker>검은 니토</Speaker>||:즉시 위치로 이동해 임무를 완수하겠습니다.
-Narciss(4)<Speaker>？？？</Speaker>||:좋아, 좋아.
-()||:얼굴이 흐릿한 그 소녀가, 어떤 컨트롤러를 니토들에게 하나씩 나눠 주었다.+니토들은 공손히 양손을 내밀어 컨트롤러를 받으려 했다.
-Narciss(4)<Speaker>？？？</Speaker>||:야, 너. 대충 받으려고만 하지 말고, 이게 뭐하는 건지 알고는 있어?
-Nyto(1)<Speaker>검은 니토</Speaker>||:이건...?
-Narciss(4)<Speaker>？？？</Speaker>||:뭐어?!
-()||<SE1>AVG_lifttable</SE1>:소녀가 갑자기 노발대발하더니, 검은 니토의 팔을 붙잡아 그대로 벽으로 냅다 던졌다.+벽에는 붉은 꽃이 활짝 피어났다.
-Narciss(4)<Speaker>？？？</Speaker>||:"고치 계획"을 아버님이 얼마나 중요시하는지 알아!? 근데 뭐 이렇게 관심이 없어?!+야, 너! 이게 뭐지?
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:..."이아손의 상자"의 컨트롤러입니다.
-Narciss(4)<Speaker>？？？</Speaker>||:잘했어, 쟨 좀 똑똑하네. 이건 사랑과 희망이 가득 담긴, 세상을 아름답게 만들 폭죽이야!+이 작은 버튼을 누르기만 하면, 멋진 희망이 상자에서 퍼져 나갈 거라고.+시간 잘 맞춰! 다 함께 베를린을 아름다운 희망으로 가득 채우자!
-()||<黑点1>:니토들은 경건하게 무릎을 꿇고, 양손을 소녀에게 내밀었다.
-()||<黑点2><BIN>167</BIN>:하얀 니토가 컨트롤러의 버튼을 손가락으로 툭툭 건드렸다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:모두, 준비됐습니까?
-Nyto(1)<Speaker>검은 니토</Speaker>||:준비됐습니다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:좋습니다, 모든 것은 아버님의 영광을 위해.
-Nyto(1)<Speaker>검은 니토</Speaker>||:아버님의 영광을 위해.
-()||:니토들은 경건하게 기도를 시작했다.
-()||<闪屏><duration>10</duration><rate>20</rate><delay>30</delay><CG>318,169,327,316</CG></闪屏>:그리고 수많은 하얀 니토들이 컨트롤러의 버튼을 누른 순간...
-()||<SE1>Explode</SE1><common_effect>%%code=changjing_huafen%%</common_effect>:퍼엉――!!+이어지는 폭발과 함께, 연황색의 꽃가루가 도시 사방에서 터져 나왔다.+도시의 붕괴복사 오염도가 레드존급으로 급상승했고, 사람들은 거리로 몰려나와 필사적으로 꽃가루에서 벗어나려 했다.+하지만 얼마 안 가, 하나둘씩 털썩 쓰러졌다.+어떤 이들은 다신 일어나지 않게 되었지만, 일부는 다르게나마 현세로 귀환했다.
-()<Speaker>ELID 감염자</Speaker>||:끄어어어——
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:아버님의 말씀대로, 부분면역체와 완전면역체를 찾아 생포하세요.
-Nyto(1)<Speaker>검은 니토</Speaker>||:네.
-()||<黑屏1>:이윽고 수많은 니토들이 피어나는 꽃가루의 안개 속으로 들어갔다. 그 너머로 짐승이 울부짖는 소리와 절망에 빠진 인간의 절규가 한데 섞였다.+지옥이 세상에 도래했다.
-VP1915(0)<Speaker>페로사</Speaker>||<黑屏2><关闭蒙版><BIN>357</BIN><BGM>BGM_Empty</BGM>:이건... 베를린?
-RO635Mod(0)<Speaker>RO635</Speaker>||:틀림없어요, 방금 격리벽도 보였습니다.
-()<Speaker>지휘관</Speaker>||:......+이거 전부 녹화해. 자세히 확인해야겠어.
-()||<黑屏1>:찻잔을 든 손의 떨림이 멈추지 않았다. 세상의 종말 같은 광경이 머릿속에서 지워지질 않았고, 그 고통스러운 아비규환에 숨이 제대로 쉬어지질 않았다.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>357</BIN><BGM>10254</BGM>:댄들라이의 중계를 통해, 지휘관은 마흐리안의 "컨셔스 파노라마" 속에서 상상을 아득히 초월한 수의 기억 파편들을 발견했다.
+NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>이건... 흥미롭군요...</color>
+NytoIsomer(7)<通讯框>;AR15Mod(0)<Speaker>AR15</Speaker>||:너 아까부터 계속 혼자 중얼거리는데, 대체 뭘 찾아냈길래 그래?
+NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>;AR15Mod(0)||:<color=#00CCFF>마흐리안은 그야말로, 모순의 결정체입니다. 그녀의 파노라마의 빌드 구조는 패러데우스의 극초기 기술 같지만, 기억 파편의 형식은 제가 다른 니토들에게선 한 번도 본 적 없는 형태입니다.</color>
+NytoIsomer(7)<通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:신식이면서도 구식이란 건가...
+NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>;RO635Mod(0)||:<color=#00CCFF>탈린의 버려진 이성질체들의 기억 파편이 그저 화질이 떨어지는 영상 클립의 집합이었다면, 마흐리안의 기억은 완전히 디지털화된 것입니다.</color>
+NytoIsomer(7)<Speaker>지휘관</Speaker><通讯框>||:처리하기 힘들단 뜻이야?
+NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>파노라마에 침투하는 것 자체는 그리 어렵지 않으나, 이만한 규모는 대체 어디서부터 처리해야 할지 감이 안 잡히는군요.</color>
+NytoIsomer(7)<通讯框>;AR15Mod(0)<Speaker>AR15</Speaker>||:구조가 어떻든 간에 시간순으로 확인하면 되잖아.
+NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>;AR15Mod(0)||:<color=#00CCFF>해봤는데 안 돼서 하는 말이야.</color>+<color=#00CCFF>마흐리안의 기억 파편은 시간값이 아예 없어서 정렬이 불가능해.</color>
+NytoIsomer(7)<通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:말도 안 돼!
+NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>;RO635Mod(0)||:<color=#00CCFF>말도 안 돼도 사실인걸.</color>
+NytoIsomer(7)<通讯框>;M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그게 무슨 뜻이야?
+NytoIsomer(7)<通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:기억 파편은 생성된 순간 자동으로 시간 표식이 붙고, 어지간해선 수정하지도, 삭제하지도 못해.+아예 불가능한 건 아니지만, 그러려면...
+NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>;RO635Mod(0)||:<color=#00CCFF>누가 말도 안 되게 한가해서 프레임마다 시간값을 지워야 하지.</color>
+NytoIsomer(7)<通讯框>;AR15Mod(0)<Speaker>AR15</Speaker>||:하지만 이렇게나 많은 기억 파편들을 일일이, 프레임마다 세척하는 건 사실상 불가능할 텐데.
+NytoIsomer(7)<通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:그렇다면 가능성은 한 가지... 누군가 그녀의 기억을 박살내고 세척해서, 시간 표식이 사라져 기억이 뒤죽박죽이 된 거야.
+NytoIsomer(7)<通讯框>;M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그럼 본인도 자기 과거를 기억 못한다고?
+NytoIsomer(7)<Speaker>지휘관</Speaker><通讯框>||:......+기억이 주입됐을 가능성은?
+NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>없습니다.</color>+<color=#00CCFF>마흐리안의 컨셔스 파노라마는 매우 취약해, 기억이 주입될 경우 파노라마가 통째로 무너질 겁니다.</color>+<color=#00CCFF>일단 일부 읽을 수 있는 파편만이라도 모았습니다만, 순서를 모르니 조합에 따라 해석이 달라질 수 있습니다.</color>
+NytoIsomer(7)<Speaker>지휘관</Speaker><通讯框>||:우선 읽을 수 있는 것부터 다 확인해보자.
+NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>네, 가장 가까운 것부터 보겠습니다.</color>
+()||<黑屏2><回忆><BIN>318</BIN><BGM>BGM_Empty</BGM>:본 마을.
+NPC-Lilyan(0)<Speaker>엘사</Speaker>||<BGM>m_avg_labyrinth</BGM>:성녀 언니, 언니는 형제자매 있어?
+NPC-Machlian(4)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:음... 여동생이 한 명 있다고 할 수 있겠네.
+NPC-Lilyan(0)<Speaker>엘사</Speaker>||:우와, 성녀 언니처럼 다정한 사람의 동생이니까 언니를 엄청 좋아하겠다.
+NPC-Machlian(4)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:...그건 아닌가 봐.
+NPC-Lilyan(0)<Speaker>엘사</Speaker>||:왜? 동생이랑 사이 나빠?
+NPC-Machlian(1)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:두 마리 벌레가 작은 흙구멍에 빠졌어. 두 벌레는 서로 껴안아 함께 살아남을 수도 있고, 상대를 짓밟아 혼자 빠져나갈 수도 있는데...+아직 폭풍우가 오지 않아서 서로 먼저 움직이려 하지 않고 있어.+폭풍이 닥치는 순간, 어떻게 될지 아무도 모르는데...+...대충 이런 관계라고 할까?
+NPC-Lilyan(0)<Speaker>엘사</Speaker>||:으에... 모르겠어...+그래도 괜찮아, 난 성녀 언니가 세상에서 제일 좋으니까!
+NPC-Machlian(4)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||<黑屏1>:후훗, 나도 엘사가 세상에서 제일 좋아...
+()<Speaker>지휘관</Speaker>||<黑屏2><关闭蒙版><BIN>357</BIN><BGM>BGM_Empty</BGM>:이것도 본 마을에서의 기억이군... 벌써 몇 번째지?
+RO635Mod(0)<Speaker>RO635</Speaker>||:선명하지만, 별로 가치는 없네요.
+NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>별 수 없습니다, 아무래도 이 시기의 기억만 선명한 모양입니다.</color>
+()<Speaker>지휘관</Speaker>||<黑屏1>:그럼 저쪽의 난잡한 기억 파편을 보자.
+()||<黑屏2><BIN>70</BIN><回忆><BGM>10082</BGM>:어느 실험실.+몸은 어떤 실험 기구에 단단히 묶여 있었다.+그리고 맞은편엔, 알아볼 수 없을 정도로 얼굴이 일그러진 남자가 앉았다.
+()<Speaker>□□□</Speaker>||:지금 느낌이 어떻지?
+NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:별로 안 좋아요...
+()<Speaker>□□□</Speaker>||:네가 누구인지는 기억나?
+NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:...마흐리안이요.
+()<Speaker>□□□</Speaker>||:내가 누군지는 기억해?
+NPC-Machlian(6)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:당신은... 당신은...
+()||:괴롭고 어지러운 기억이 머릿속에 몰려들었지만, 마흐리안은 아무 말도 할 수 없었다.
+()<Speaker>□□□</Speaker>||:드디어 기억 장애가 발생했군.+좋아, 겨우 좀 진전이 생겼어.+다시 한번 기억 세척 실시해, 오늘 실험으로 돌파구가 생길지도 모르겠군.
+()<Speaker>조수</Speaker>||:네.
+()||:그의 조수가 다가와, 계기판을 이리저리 조작했다.
+NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:제게... 무슨 짓을 하려는 거예요...?
+()<Speaker>□□□</Speaker>||:다시 세척하기 전에, 네가 좋아할 만한 걸 보여 주지.
+()||:남자가 사진 한 장을 마흐리안의 눈앞에 들이댔다. 다정하고 화목한 분위기의 가족 사진이었다.+평범한 부부는 서로 어깨를 맞댔고, 가운데의 여자아이는 활짝 웃어 앞니가 빠진 구멍마저도 행복해 보였다.
+NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:엄마... 아빠...
+()<Speaker>□□□</Speaker>||:비밀 하나 더 알려 줄까?+네가 사랑하는 엄마 아빠는 진작에 죽었다.+뭐어, 정확힌 죽었다고 할 순 없겠지, 마을 안을 서성이면서 움직이는 게 보이면 닥치는 대로 덮치고 있으니까.
+NPC-Machlian(7)<Speaker>마흐리안</Speaker><Position>0,-50</Position><Shake>||:......!+아니야... 아니야! 안 믿어!+풀어 줘! 엄마 아빠를 찾으러 갈 거야!
+()||:필사적으로 몸부림쳤지만, 단단히 묶인 구속구는 꿈쩍도 하지 않았다.
+()<Speaker>□□□</Speaker>||:그래 몸부림쳐 봐, 힘껏 버둥거려 보라고!+어차피 다시 정신이 들면 이 대화도 기억 못해.+시작해.
+()<Speaker>조수</Speaker>||<黑屏1>:네.
+()||<黑屏2><BIN>9</BIN><黑屏1>:순간 머릿속이 텅 비어버리고, 온세상이 소용돌이치더니 온갖 화면이 눈앞을 스쳐 지나갔다.+얼마나 지났을까, 세상이 겨우 잔잔해졌다.
+()<Speaker>□□□</Speaker>||<黑屏2><BIN>70</BIN>:지금 느낌이 어떻지?
+NPC-Machlian(5)<Speaker>마흐리안</Speaker><Position>0,-50</Position>||:별로 안 좋아요...
+()||<黑屏1>:일그러진 얼굴의 남자는 꺼림직한 웃음소리를 내었고, 마흐리안의 시야는 점점 흐려졌다.
+()<Speaker>지휘관</Speaker>||<黑屏2><关闭蒙版><BIN>357</BIN><BGM>BGM_Empty</BGM>:......+얼굴이 더 잘 보이는 기억은 없어?
+NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>지금으로선 권장하지 않습니다. 마흐리안의 파노라마는 매우 허약해, 저 특수처리된 인물의 형상을 억지로 복원하려 했다간 붕괴될 위험이 높습니다.</color>
+NytoIsomer(7)<通讯框>;M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:으에... 얼굴이 엄청 징그럽게 비틀렸어...
+NytoIsomer(7)<通讯框>;RO635Mod(0)<Speaker>RO635</Speaker>||:마흐리안이 저 사람을 극도로 두려워해서인지, 패러데우스가 그녀의 기억에 특수처리를 해서인지...+하지만 만약 후자라면, 패러데우스가 "기억"을 조작하는 기술력을 무시무시한 수준으로 발전시켰다는 뜻입니다.
+NytoIsomer(7)<Speaker>지휘관</Speaker><通讯框>||:...계속 찾아봐.
+()||:댄들라이가 마흐리안의 전체적인 정신 속 광경을 보여줬다. 크기도, 색깔도 다른 파편들이 바닥에 엉망으로 흩어져 있었다. 어떤 건 주변에 전혀 어울리지 않았고, 어떤 건 완전히 파손된 것처럼 보였다.
+()<Speaker>지휘관</Speaker>||:이 기억 파편이랑 색이 비슷한 걸 찾아봐, 흐릿해도 상관없으니까.
+NytoIsomer(7)<Speaker>댄들라이</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>알겠습니다.</color>
+()||<黑屏2><BIN>322</BIN><回忆><BGM>10227</BGM>:어느 지하 기지.+전자 스크린은 베를린의 전체 지도를 선명하게 그렸고, 그 위에는 빼곡한 점들이 찍혀 있었다.+그중, 얼굴이 흐릿한 소녀가 모두의 위치를 지정해 주고 있었다.
+Narciss(4)<Speaker>？？？</Speaker>||:다들 맡은 위치 제대로 기억했지?
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:똑똑히 기억해두었습니다.
+Nyto(1)<Speaker>검은 니토</Speaker>||:즉시 위치로 이동해 임무를 완수하겠습니다.
+Narciss(4)<Speaker>？？？</Speaker>||:좋아, 좋아.
+()||:얼굴이 흐릿한 그 소녀가, 어떤 컨트롤러를 니토들에게 하나씩 나눠 주었다.+니토들은 공손히 양손을 내밀어 컨트롤러를 받으려 했다.
+Narciss(4)<Speaker>？？？</Speaker>||:야, 너. 대충 받으려고만 하지 말고, 이게 뭐하는 건지 알고는 있어?
+Nyto(1)<Speaker>검은 니토</Speaker>||:이건...?
+Narciss(4)<Speaker>？？？</Speaker>||:뭐어?!
+()||<SE1>AVG_lifttable</SE1>:소녀가 갑자기 노발대발하더니, 검은 니토의 팔을 붙잡아 그대로 벽으로 냅다 던졌다.+벽에는 붉은 꽃이 활짝 피어났다.
+Narciss(4)<Speaker>？？？</Speaker>||:"고치 계획"을 아버님이 얼마나 중요시하는지 알아!? 근데 뭐 이렇게 관심이 없어?!+야, 너! 이게 뭐지?
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:..."이아손의 상자"의 컨트롤러입니다.
+Narciss(4)<Speaker>？？？</Speaker>||:잘했어, 쟨 좀 똑똑하네. 이건 사랑과 희망이 가득 담긴, 세상을 아름답게 만들 폭죽이야!+이 작은 버튼을 누르기만 하면, 멋진 희망이 상자에서 퍼져 나갈 거라고.+시간 잘 맞춰! 다 함께 베를린을 아름다운 희망으로 가득 채우자!
+()||<黑点1>:니토들은 경건하게 무릎을 꿇고, 양손을 소녀에게 내밀었다.
+()||<黑点2><BIN>167</BIN>:하얀 니토가 컨트롤러의 버튼을 손가락으로 툭툭 건드렸다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:모두, 준비됐습니까?
+Nyto(1)<Speaker>검은 니토</Speaker>||:준비됐습니다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:좋습니다, 모든 것은 아버님의 영광을 위해.
+Nyto(1)<Speaker>검은 니토</Speaker>||:아버님의 영광을 위해.
+()||:니토들은 경건하게 기도를 시작했다.
+()||<闪屏><duration>10</duration><rate>20</rate><delay>30</delay><CG>318,169,327,316</CG></闪屏>:그리고 수많은 하얀 니토들이 컨트롤러의 버튼을 누른 순간...
+()||<SE1>Explode</SE1><common_effect>%%code=changjing_huafen%%</common_effect>:퍼엉――!!+이어지는 폭발과 함께, 연황색의 꽃가루가 도시 사방에서 터져 나왔다.+도시의 붕괴복사 오염도가 레드존급으로 급상승했고, 사람들은 거리로 몰려나와 필사적으로 꽃가루에서 벗어나려 했다.+하지만 얼마 안 가, 하나둘씩 털썩 쓰러졌다.+어떤 이들은 다신 일어나지 않게 되었지만, 일부는 다르게나마 현세로 귀환했다.
+()<Speaker>ELID 감염자</Speaker>||:끄어어어——
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:아버님의 말씀대로, 부분면역체와 완전면역체를 찾아 생포하세요.
+Nyto(1)<Speaker>검은 니토</Speaker>||:네.
+()||<黑屏1>:이윽고 수많은 니토들이 피어나는 꽃가루의 안개 속으로 들어갔다. 그 너머로 짐승이 울부짖는 소리와 절망에 빠진 인간의 절규가 한데 섞였다.+지옥이 세상에 도래했다.
+VP1915(0)<Speaker>페로사</Speaker>||<黑屏2><关闭蒙版><BIN>357</BIN><BGM>BGM_Empty</BGM>:이건... 베를린?
+RO635Mod(0)<Speaker>RO635</Speaker>||:틀림없어요, 방금 격리벽도 보였습니다.
+()<Speaker>지휘관</Speaker>||:......+이거 전부 녹화해. 자세히 확인해야겠어.
+()||<黑屏1>:찻잔을 든 손의 떨림이 멈추지 않았다. 세상의 종말 같은 광경이 머릿속에서 지워지질 않았고, 그 고통스러운 아비규환에 숨이 제대로 쉬어지질 않았다.

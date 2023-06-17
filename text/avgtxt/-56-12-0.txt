@@ -1,0 +1,86 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>548</BIN><黑屏2><BGM>m_wv_title</BGM><Night>:베를린의 주택지, 일련의 소동으로 아수라장이 된 셰릴의 집.
+()<Speaker></Speaker>||<震屏3><SE1>ClothingUp</SE1>:컨텐더가 원형을 알아볼 수 없을 정도로 걸레짝이 된 잔해 더미 속에서 인간 소녀를 쑤욱 끄집어냈다.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position><Shake>0.1</Shake>||<SE1>AVG_flag</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=8</controll_shake>:<size=50>이거 놔! 당장 안 놔!?</size>
+()<Speaker></Speaker>||:셰릴이 안간힘을 쓰며 발버둥쳤지만, 인형 앞의 인간 소녀는 코끼리 앞의 개미나 마찬가지였다.
+Contender(0)<Speaker>컨텐더</Speaker>||:진정하십시오 아가씨, 그러다 다치십니다.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position><Shake>0.1</Shake>||<SE1>Stop_AVG_loop</SE1>:너네! 이거 주거지 무단 침입이야!
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:어어, 그게 그러니까...+우린 대장의 이산가족 상봉을 도와주려고 따라온 거거든?+너랑 얘기를 좀 하고 싶대서 고생고생해서 올라왔어.+너 맞지? 엘리아나의 동생이란 사람이.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<震屏>:<size=50>누가 그딴 녀석 동생이야!!</size>
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:우와 성격 고약한 게 완전 붕어빵이다.+대장 동생 씨, 집을 난장판으로 만들어서 정말 미안하지만 그래도 네 언니 말이라도 좀 들어――
+()<Speaker></Speaker>||<SE1>AVG_Button_Click</SE1><关闭蒙版>:M249가 대뜸 집 안의 전등을 전부 켰다.
+M60(0)<Speaker>M60</Speaker><Position>0,-50</Position>||:...대장 어딨어?
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:어라, 방금까지 우리랑 같이 청소 로봇들 상대하지 않았어?
+Contender(0)<Speaker>컨텐더</Speaker>||:SCR도 사라졌다!
+()<Speaker></Speaker>||<震屏3><SE1>AVG_XXS_kick</SE1>:인형들이 어리둥절해하는 사이, 셰릴이 컨텐더의 손아귀에서 빠져나와 냅다 현관문을 틀어막았다.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:포기하시지! 경찰한테 신고했으니까 콩밥 먹을 준비나 하셔!
+Contender(0)<Speaker>컨텐더</Speaker>||:그런데 문은 왜 막으시는...?
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:몰라서 물어? 너희 못 나가게 하려는 거지!
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:저기, 미안하지만 우린 그냥 먼저 튀어 나간 우리 대장 쫓아 왔을 뿐이거든?+잡으려면 걔를 잡으러 가는 게...
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:어쨌든 한패구만 뭐! 할 말은 경찰서 가서 마저 해!
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:에이 가족끼리 그러지 말구우~
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<震屏>:<size=50>그딴 놈이랑 가족 아니라니까!!</size>
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:......아니야? 엘리아나의 동생 아니라고?
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:우웨에엑 죽어도 동생 안 해!+자기 동생들 모조리 죽인 놈이 무슨 얼어죽을 언니야!
+Contender(0)<Speaker>컨텐더</Speaker>||:......
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:......?
+M60(0)<Speaker>M60</Speaker><Position>0,-50</Position>||:......!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>9</BIN>:............
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑点2><BIN>357</BIN><BGM>BGM_Empty</BGM><SE1>AVG_door_elecport</SE1>:그리폰 임시 기지의 지휘실.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:헬리안이 계획서 뭉치를 지휘관에게 건넸다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:내일의 스케줄입니다만, 확인은 내일 하시고 오늘은 이만 쉬시죠.
+()<Speaker>지휘관</Speaker>||:예... 그래야겠습니다, 헬리안 씨도 오늘은 일찍――?
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:지휘관이 태블릿을 끄고, 관자놀이를 문지르며 허리를 펴던 그때였다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:통신기가 불길하게 다급한 수신음을 내었다.
+()<Speaker>보안관</Speaker>||:<color=#00CCFF>늦은 밤 실례합니다, 주식회사 "그리폰 피자" 맞습니까?</color>
+()<Speaker>지휘관</Speaker>||:어... 네.
+()<Speaker>보안관</Speaker>||:<color=#00CCFF>귀사 소속의 인형들이 주거지 불법 침입 및 재물손괴죄로 경찰에 체포되었습니다. 연락을 받으신 지금부터 6시간 내로 베를린 경찰서로 출두하시어 관련 수속을 밟으시기 바랍니다. 출두하지 않으실 경우의 결과에 경찰서는 일절의 책임을 지지 않습니다.</color>
+()<Speaker>지휘관</Speaker>||<震屏3>:............<size=50>네에?!?!!</size>
+()||<黑点1>:
+()<Speaker></Speaker>||<Night><黑点2><BGM>m_avg_casual</BGM><BIN>84</BIN><SE1>AVG_Alarm_Distance</SE1>:얼마 후, 베를린 경찰서 앞.
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:수속을 끝마친 지휘관과 헬리안이 뒷목을 부여잡고 경찰서 밖으로 나올 때까지, 인형들은 새빨개진 얼굴로 길가에 쪼르르 서서 기다렸다.
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:지, 지휘관! 우리 진짜 감쪽같이 속아버렸어! 우리 팀 대장 꼭 좀 믿을 만한 사람으로 바꿔 줘!
+Contender(0)<Speaker>컨텐더</Speaker>||:저희를 따돌리려는 뻔한 함정이었는데... 면목 없습니다... 하지만 이런 자를 어떻게 그리폰에 둘 수가 있죠?
+()<Speaker></Speaker>||:사실상 공개 망신을 당한 인형들은 곧장 지휘관에게 달려와 앞다퉈 엘리아나를 고발했다.
+()<Speaker>지휘관</Speaker>||:돌아간 뒤에 얘기하자, 이 일은 내가 처리할 테니까...
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:지휘관, 솔직히 저도 같은 의견입니다. 아무리 뛰어난 경력의 중요 인물이라도 그녀를 이렇게 내버려둬선 안 됩니다.
+()<Speaker></Speaker>||:헬리안도 엘리아나의 행동에 상당히 실망한 기색이 역력했다.
+()<Speaker>지휘관</Speaker>||:...엘리아나가 제게 털어놓은 바 대로라면, 그녀는 지금 과거와 결별하고자 하려는 겁니다.+저는 그녀에게 그럴 기회를 주겠다 약속했습니다. 그래야만 안심하고 나아갈 미래를 바라볼 수 있으니까요.+그러니, 그녀의 해명을 들은 뒤에 판단해도 늦지 않습니다.
+()<Speaker></Speaker>||:지휘관은 한숨을 푹 쉬었다.
+()<Speaker>지휘관</Speaker>||:다만... 지금은 그녀가 어디 있는지부터 파악해야겠군요.
+()||<黑点1>:
+()<Speaker></Speaker>||<Night><BIN>86</BIN><黑点2><BGM>BGM_Empty</BGM>:그 시각, 베를린 어딘가의 도로변.
+()<Speaker></Speaker>||<BGM>GF_EV9_Story</BGM>:그곳에서 아주 오랫동안 정차 중인 검은 자동차 안에서, 길 건너편의 상황을 계속 감시하던 남자가 마침내 학수고대하던 연락을 받았다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐이.+통신 연결.
+NPC-Keven(0)<Speaker>J</Speaker>||:제발 좋은 소식이라고 해, 지금 차 기름 바닥나기 직전이니까!
+NPC-Keven(0);NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>그래, 찾았다.</color>+<color=#00CCFF>조금 전 들어온 경찰의 신고 기록에 의심 목표가 확인됐다. 특징도 부합해.</color>
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:엥, 경찰한테서?
+NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>아직 통화 도중이니까 정보가 들어오는 대로 공유하지.</color>+<color=#00CCFF>그래도 대략적인 현재 위치는 특정했어.</color>
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:어딘데?
+NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>네가 가장 가까운 위치여서 차의 내비게이션에 전송했다.</color>+<color=#00CCFF>그 인형 찾아내기 얼마나 어려운지 다시 한번 설명할 필욘 없겠지?</color>
+NPC-Keven(5)<Speaker>J</Speaker>||:알아, 안다고. 바로 출발할게.
+NPC-Jason(2)<Speaker>K</Speaker><通讯框>||:<color=#00CCFF>젠장... 지금 국장님까지 나서려 한다.</color>+<color=#00CCFF>우리가 먼저 그 인형을 찾아내야 해, 서둘러!</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+통신 종료.
+()<Speaker></Speaker>||:J가 어깨를 풀며 내비게이션을 확인하니 과연, 좌표는 그의 현재 위치에서 꽤 가까웠다.
+()<Speaker></Speaker>||<SE1>AVG_engine_speedup</SE1>:더는 밍기적댈 이유가 없었다. J는 곧장 액셀을 끝까지 밟아, 전속력으로 차를 몰았다.
+()||<黑点1>:
+()<Speaker></Speaker>||<关闭蒙版><黑点2><BGM>BGM_Empty</BGM><BIN>548</BIN><SE1>AVG_20Winter_Door_Close</SE1>:경찰이 인형들을 모두 끌고 나가니 요란했던 "무대"도 고요해져, 바닥엔 그 혼란했던 흔적만 남았다.
+()<Speaker></Speaker>||<BGM>2022_white_valentine_BGM2</BGM><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=4</controll_shake><SE1>ClothingUp</SE1>:셰릴은 긴장이 풀렸는지, 긴 한숨을 내뱉으며 소파에 벌러덩 드러누웠다.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:겨우 쫓아냈네...... 아!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:누웠던 셰릴이 벌떡 일어나 창가로 달려가 아래를 내려다봤다.+거리에는 소란에 구경하러 나온 사람들과 떠나는 경찰차만 보일 뿐, 그 익숙한 모습은 보이지 않았다.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:무사히 도망쳤겠지...?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:셰릴이 다시 한숨을 쉬며 습관적으로 주머니에 손을 뻗었다. 그런데, 만져져야 할 것이 없었다.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:어, 뭐야? 분명 여기에...+맞다, 사모가 탄피를 가져갔지!
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:내가 여태까지 소중하게 간직한 유라 언니의 기념품을...!
+()<Speaker></Speaker>||:보물처럼 아끼던 부적이 보이질 않자, 셰릴은 발을 동동 구르며 이미 아수라장인 집을 샅샅이 뒤졌다.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:아, 어쩌면 침실에다 뒀을지도!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:그 생각이 들자 그나마 밖보단 멀쩡한 침실로 들이닥친 셰릴은 침대의 머리맡에 놓인 사진을 보곤 내심 안도하는 한숨을 쉬었다.
+()||<黑点1>:
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1><黑点2><BIN>544</BIN>:꾸깃꾸깃 주름지고 테두리가 다 헤진 사진은 원래 주인이 자주 주머니에 넣었다 꺼냈다 한 흔적이 선명했다.+아주 오래전의 이 단체 사진에서 모습을 정확히 알아볼 수 있는 것은 단 3명뿐이고, 원주인인 사모의 말에 의하면 "더는 기밀일 가치도 없는 것"이었다.
+()<Speaker>셰릴</Speaker>||:......+여기에, 유라 언니가 있을까...
+()<Speaker></Speaker>||:사진을 집어 든 셰릴이 사진 속의 얼굴 하나 하나를 조심스레 어루만졌다.+뒷면에는 마커펜으로 휘갈겨 쓴 글씨가 있었다.+"앞으론 탄피처럼 더러운 거 말고 이걸 부적으로 삼아."
+()<Speaker>셰릴</Speaker>||:사모... 꼭 살아서 돌아와야 해... 돌아와서 이 사진의 누가 유라 언니인지 알려 줘... 안 그럼... 두고봐아아...! 지옥 끝까지 쫓아갈 테니까...!
+()<Speaker></Speaker>||:험한 말을 내뱉는 소녀의 눈에 그렁그렁 맺힌 눈물은, 뺨을 타고 카펫으로 떨어져 바닥에 스며들었다.
+()||<黑点1>:

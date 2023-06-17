@@ -1,0 +1,132 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑点2><BIN>602</BIN><BGM>BGM_Saga_AVG_Live_Good</BGM>:――둥, 둥, 쿠웅!+절로 기운이 솟아나는 리듬이 마지막까지 이어졌다.+그리고 프랑슈슈는 박자에 정확히 맞춰 멋지게 마무리 포즈를 취했다.
+()<Speaker>지휘관</Speaker>||:멋지다! 잘한다!
+()<Speaker></Speaker>||:주위가 온통 관객이다 보니 당신이 못 참고 응원해도 금방 다른 환호와 박수 소리에 묻혔지만, 상관없었다.
+()<Speaker>관중</Speaker>||<SE1>AVG_20Winter_Bar_Cheering_V2</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:<size=50>와아아아아! 프랑슈슈!!!</size>
+()<Speaker>미나모토 사쿠라</Speaker>||:고마워요, 여러분!
+()<Speaker></Speaker>||:여기서 게스트 공연으로 나이트 카페가 출연하고, 그 동안 프랑슈슈는 잠시 휴식을 가질 예정이었다.
+()||<黑点1>:
+()<Speaker>MC</Speaker>||<黑点2><BIN>595</BIN>:네에, 프랑슈슈의 정말 눈부신 무대 감사합니다! 그럼 잠시 쉬었다 갈까요? 놀라운 게스트의 놀라운 깜짝 우정 출연! 나이트 카페입니다!
+()<Speaker>카페 팬</Speaker>||<震屏3><SE1>AVG_Crowd</SE1>:<size=50>와아아 나이트 카페――!!</size>
+()<Speaker></Speaker>||:프랑슈슈가 아니라 나이트 카페를 보러 온 관객들이 바로 소리 높여 환호했고, 일부는 아예 따로 응원 패널을 꺼내거나 "응원춤"까지 추기 시작했다. 이는 프랑슈슈 팬들의 불만을 사기에 충분했다.
+()<Speaker>관중</Speaker>||:뭔 짓이야! 이건 프랑슈슈의 콘서트라고!
+()<Speaker>카페 팬</Speaker>||:알 바 아니거든!? 난 우리 여신님들 보러 왔다고!
+()<Speaker></Speaker>||:예민한 당신의 신경이 관객석의 분위기 변화를 빠르게 포착했다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><白屏2><SE1>AVG_21Winter_Open_Light</SE1>:직접 나서 뭐라도 해야 할까 고민하기도 잠시. 무대의 조명이 다시 켜졌다.
+()<Speaker></Speaker>||<BGM>BGM_21Christmas_DeathMetal</BGM>:그리고 나이트 카페가 등장했다.
+HK21(4)<Speaker>HK21</Speaker><Position>0,-150</Position><Scale>1.15</Scale><Shake>0.1</Shake>||<SE1>ClothingUp</SE1>:언니야——!
+HK21(4)<Speaker>카페 팬</Speaker><Position>0,-150</Position><Scale>1.15</Scale><同时置暗>||<震屏3>:<size=50>야옹이, 청소기, 회색 염색약!</size>
+JS-127(4)<Speaker>JS-05</Speaker><Position>0,-250</Position><Scale>1.38</Scale>||<SE1>ClothingUp</SE1>:앞머리 앵글!
+JS-127(4)<Speaker>카페 팬</Speaker><Position>0,-250</Position><Scale>1.38</Scale><同时置暗>||<震屏3>:<size=50>새싹, 가십, 헤어핀!</size>
+PM06(2)<Speaker>PM06</Speaker><Position>0,-150</Position><Scale>1.48</Scale>||<SE1>ClothingUp</SE1>:새빨갛게!
+PM06(2)<Speaker>카페 팬</Speaker><Position>0,-150</Position><Scale>1.48</Scale><同时置暗>||<震屏3>:<size=50>와인, 빨간불, 적색 경보!</size>
+HK21(4)<Speaker>HK21</Speaker><Position>0,-150</Position><Scale>1.15</Scale>||:그래! 우리가 바로 불조심! 취급 주의 커피 용액! 나이트 카페!
+()<Speaker>카페 팬</Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><SE1>AVG_Crowd</SE1>:<size=50>꺄아아아아——!</size>
+()<Speaker>관중</Speaker>||:반응 뭐야? 누가 보면 나이트 카페가 메인인 줄 알겠다!
+()<Speaker>카페 팬</Speaker>||:입 다물고 보라고 그냥!
+()<Speaker>관중</Speaker>||<SE1>Rope</SE1>:<size=50>누가 누구 보고 입 다물라고!?</size>
+()<Speaker></Speaker>||:두 팬덤의 분위기가 삽시간에 험악해져, 당장에라도 패싸움이 벌어질 판이었다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:그때, 당신의 휴대폰이 울렸다. 사쿠라의 연락이었다.
+()<Speaker>지휘관</Speaker>||:여보세요? 사쿠라?
+NPC-Sakura(14)<Speaker>미나모토 사쿠라</Speaker><通讯框>||:<color=#00CCFF>지휘관! 방금 나이트 카페의 매니저 씨가 찾아와쓰요!</color>+<color=#00CCFF>관객들 분위기 무진장 위험하니께 프랑슈슈랑 나이트 카페가 즉석 콜라보레이션으로 진정시키는 게 어떠냐고...</color>
+NPC-Sakura(14)<Speaker>지휘관</Speaker><同时置暗>||:아이디어 자체는 괜찮은데, 호흡 맞춰본 적도 없는데 갑자기 함께 무대에서 공연하기엔 리스크가 너무 큰데...+너희가 나이트 카페랑 스타일이 비슷하긴 해도 완벽히 파악하고 있는 것도 아니잖니.
+NPC-Sakura(14)<Speaker>미나모토 사쿠라</Speaker>||:<color=#00CCFF>그게요오... 실은, 나이트 카페한테 지고서 준코랑 아이가 분석을 음청 해쓰요...</color>+<color=#00CCFF>지휘관한테 말 안 하고 인기곡 안무도 연습해 보고...</color>
+NPC-Sakura(14)<Speaker>지휘관</Speaker><同时置暗>||:그러니까...+리허설 같은 거 안 해도 나이트 카페한테 맞춰서 공연할 수 있다고?
+NPC-Sakura(14)<Speaker>미나모토 사쿠라</Speaker>||:<color=#00CCFF>네, 진짜 자신 있어요.</color>
+NPC-Sakura(14)<Speaker>지휘관</Speaker><同时置暗>||:잠깐 생각해 볼게.
+NPC-Sakura(14)<Speaker>미나모토 사쿠라</Speaker>||:<color=#00CCFF>카리나 씨한테 뭐라 대답할까요?</color>
+()<Speaker></Speaker>||:음......<c>승낙한다.<c>거절한다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支><BGM>BGM_Empty</BGM>:전화 바꿔 줘, 내가 직접 거절할게.
+NPC-Sakura(15)<Speaker>미나모토 사쿠라</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>엣, 그치만...</color>+<color=#00CCFF>네, 지금 바꿔드릴게요.</color>
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>여보세요, 카리나예요.</color>
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:즉석 콜라보레이션 제의는 들었습니다만, 죄송합니다. 그건 아무래도――
+()<Speaker></Speaker>||<分支>2</分支><震屏3><SE1>AVG_Punch_Hit</SE1><SE1>Rope</SE1>:발끝에서 엄청난 격통이 엄습했다. 언제 나타났는지 모를 스크립터가 성난 얼굴로 당신의 발을 냅다 밟은 것이었다.
+()<Speaker></Speaker>||<分支>2</分支><SE1>ClothingUp</SE1><BGM>Campaion-34</BGM>:아무래도 통화를 엿들은 모양인 그는 당신을 사납게 노려보며, 협력을 승낙하라 위협했다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:쓰으으읍...! 뭐하는 거야?! 발 저리 치워!
+NPC-Kalin(2)<Speaker>카리나</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>예에?</color>
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>2</分支>:<size=25>빨리 동의해! 프랑슈슈와 나이트 카페가 콜라보 공연하겠다고!</size>
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:안 된――
+()<Speaker></Speaker>||<分支>2</分支><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=5</controll_shake><SE1>Rope</SE1>:발가락에 가해지는 압력이 강해졌다.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>2</分支>:<size=25>동의하라고!</size>
+NPC-Kalin(4)<Speaker>카리나</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>여보세요? 지휘관 씨? 들리세요?</color>
+NPC-Kalin(4)<Speaker>지휘관</Speaker><同时置暗>||<分支>2</分支><震屏3><SE1>Rope</SE1>:꾸으으으예에! 콜라보 공연합시다! 그렇게 합시다!
+NPC-Kalin(3)<Speaker>카리나</Speaker>||<分支>2</分支>:<color=#00CCFF>어머, 솔직히 거절하실 줄 알았는데.</color>
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:됐지!?
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>2</分支>:진작에 그랬어야지.
+()<Speaker></Speaker>||<分支>2</分支><SE1>ClothingUp</SE1>:스크립터는 그제서야 발을 치우고, 흡족하는 얼굴로 관객들 사이로 모습을 감췄다.
+NPC-Kalin(1)<Speaker>카리나</Speaker><通讯框>||<分支>2</分支>:<color=#00CCFF>신뢰와 협력에 감사드려요, 제가 잘 어레인지할게요.</color>
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:괜찮겠어. 당장 너희 팬들이랑 나이트 카페 팬들이 패싸움이라도 벌일 기세니.+너희가 사이좋게 무대에서 공연한다면 저 살벌한 분위기를 단번에 무마시킬 수 있을 거야.
+NPC-Sakura(14)<Speaker>미나모토 사쿠라</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>네! 카리나 씨가 전화 바꿔 달라시니 바꿀게요!</color>
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:응.
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<分支>1</分支>:<color=#00CCFF>여보세요, 카리나예요.</color>
+NPC-Kalin(0)<Speaker>지휘관</Speaker><同时置暗>||<分支>1</分支>:즉석 콜라보레이션 제의 들었습니다, 좋은 아이디어네요. 그렇게 하죠.
+NPC-Kalin(2)<Speaker>카리나</Speaker>||<分支>1</分支>:<color=#00CCFF>어머, 솔직히 거절하실 줄 알았는데. 그렇게 저를 믿어도 되는 건가요? 제가 악의적으로 공연을 훼방 놓을 거란 의심은 안 하세요?</color>
+NPC-Kalin(2)<Speaker>지휘관</Speaker><同时置暗>||<分支>1</分支>:...돈은 밝혀도 그렇게 야비한 사람이 아니니까.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||<分支>1</分支>:<color=#00CCFF>...현명한 판단이네요.</color>
+NPC-Kalin(0)<Speaker>지휘관</Speaker><同时置暗>||<分支>1</分支>:카리나 씨, 이번 콘서트는 프랑슈슈에게 있어 더없이 중요한 공연이에요. 콜라보 공연의 연출은 기획 경험이 더 많은 당신에게 맡기겠습니다.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||<分支>1</分支>:<color=#00CCFF>네, 신뢰와 협력에 감사드려요. 제가 잘 어레인지할게요.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:주사위는 던져졌다.+그리고 과연, 무대로 눈을 돌리니 벌써 나이트 카페가 공연을 도중에 멈추고 스태프와 목소리를 낮춰 대화 중이었다.
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑点2>:잠시 후.
+()||<黑点1>:
+HK21(4)<Speaker>HK21</Speaker><Position>0,-150</Position><Scale>1.15</Scale>||<黑点2><BIN>595</BIN><BGM>BGM_Empty</BGM>:갑자기 멈춰서 미안! 갑작스럽지만 조금 색다른 공연으로 바꾸기로 했어!
+PM06(2)<Speaker>PM06</Speaker><Position>0,-150</Position><Scale>1.48</Scale>||:다들 깜짝 놀랄 준비 단단히 하라고!
+JS-127(4)<Speaker>JS-05</Speaker><Position>0,-250</Position><Scale>1.38</Scale>||:특별 서비스 들어갑니다~!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>9</BIN><BGM>BGM_Saga_Song_1</BGM>:나이트 카페가 대형을 갖추고 반주와 함께 다시 공연을 시작했다.
+()<Speaker></Speaker>||:확실히, 아직 풋풋함이 느껴지는 프랑슈슈에 비해 나이트 카페의 무대는 훨씬 안정적이었고, 관객들의 호응도 더 활발했다.
+()<Speaker></Speaker>||:조금 뒤 대형을 바꾸는 타이밍이 되자, 조명도 무대 한가운데로 모여 노래하는 멤버들을 환히 비췄다.
+()<Speaker>카페 팬</Speaker>||<SE1>AVG_Crowd</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:<size=50>나이트 카페——!!</size>
+()<Speaker></Speaker>||:스포트라이트 아래서, HK21이 먼저 마이크를 관객석으로 향했다.
+HK21(4)<Speaker>HK21</Speaker><Position>0,-150</Position><Scale>1.15</Scale>||:언니야!
+()<Speaker>카페 팬</Speaker>||:야옹이——
+NPC-Sakura(14)<Speaker>미나모토 사쿠라</Speaker><Position>0,-250</Position><Scale>1.69</Scale>||<SE1>ClothingUp</SE1>:——청소기, 회색 염색약!
+()<Speaker></Speaker>||:돌연 사쿠라가 무대 뒤의 어둠에서 달려나와, HK21의 곁에 섰다.
+()<Speaker>관중</Speaker>||:어? 1호다! 프랑슈슈가 무대에 난입했어!
+PM06(2)<Speaker>PM06</Speaker><Position>0,-150</Position><Scale>1.48</Scale>||:앞머리 앵글!
+NPC-MizunoAi(9)<Speaker>미즈노 아이</Speaker><Position>60,-180</Position><Scale>1.47</Scale>||<SE1>ClothingUp</SE1>:새싹, 가십, 헤어핀!
+()<Speaker></Speaker>||:이어서 아이도 모습을 드러냈다.
+JS-127(4)<Speaker>JS-05</Speaker><Position>0,-250</Position><Scale>1.38</Scale>||:새빨갛게!
+NPC-Junko(15)<Speaker>콘노 준코</Speaker><Position>60,-290</Position><Scale>1.55</Scale>||<SE1>ClothingUp</SE1>:와인, 빨간불, 적색 경보!
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Open_Light</SE1><BIN>595</BIN>:무대의 조명이 다시 전부 켜졌고, 프랑슈슈와 나이트 카페는 다시 한번 같은 무대에 서게 되었다.
+()<Speaker>관중</Speaker>||<SE1>AVG_20Winter_Bar_Cheering_V2</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=8</controll_shake>:<size=50>우오오 프랑슈슈!! 나이트 카페——!!</size>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:관객들의 환호성이 무대를 뒤흔들자, 사쿠라와 HK21은 서로 마주보며, 웃으며, 손을 잡고 한 걸음 앞으로 나섰다.
+()||<白屏1>:
+()<Speaker>HK21</Speaker>||<白屏2><BIN>579</BIN><SE1>AVG_Rromantic</SE1><common_effect>%%code=CJ_piaodai%%</common_effect>:모두 안녀——엉!! 우리는 나이트 카페!!
+()<Speaker>미나모토 사쿠라</Speaker>||:우리는 프랑슈슈!! 사가! 안녕하십니까——!!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:눈부신 조명을 받으며, 두 그룹의 소녀들은 일심동체처럼 하나의 대형을 이루었다.+리허설 한번 없었고 미리 합조차도 맞추지 않았건만, 서로의 포용력과 무대를 사랑하는 마음이 이들을 하나로 뭉치게 했다.
+()<Speaker>HK21</Speaker>||:♪I can feel my senses fading+♪Falling deep into the shadow of death
+()<Speaker>미나모토 사쿠라</Speaker>||:♪I know my countdown starts right now+♪No more cries living in fear or lies
+()<Speaker></Speaker>||:사쿠라와 HK21이 무대 전방으로 나왔다.+조명이 둘의 머릿결 한 올까지 환히 비췄고, 무수한 형광봉들이 얼굴의 미소를 눈부시게 빛냈다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:둘은 함께 관객석을 향해 손을 뻗었다. 모두를 초대하듯이, 지금 이 반짝이는 마음을 모두에게 나눠 주듯이.
+()<Speaker>관중</Speaker>||<震屏3><SE1>AVG_20Winter_Bar_Cheering_V2</SE1>:<size=50>프랑슈슈! 나이트 카페!</size>
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>595</BIN>:무대 위의 우상들에게 홀린 관객들 모두가 이 콜라보레이션 무대에 집중해, 방금 전까지의 험악한 분위기는 다 허상이었던 것처럼 사라졌다.+덕분에 당신도 가슴을 쓸어내리며 이 흔치 않은 공연을 감상했다.
+()<Speaker>지휘관</Speaker>||:♪What was I fighting for+♪Who am I fighting for
+()<Speaker></Speaker>||:당신의 목으로부터 절로 코러스가 나왔다.+당신은 이 노래를 알고 있다.+왜냐하면, 이 노래는...
+()||<黑屏1>:
+()<Speaker></Speaker>||<关闭蒙版><黑屏2><BIN>9</BIN>:♪I want to fight for more+♪So tell me how this ends
+()<Speaker>지휘관</Speaker>||:...기지에서 자주 틀던 노래였지.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:홀로 중얼거리던 그때, 갑자기 어둠이 닥쳤다.
+()<Speaker></Speaker>||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:파도가 배의 밑바닥에 부서지는 소리.+그리고 바닷가 특유의 짭조름한 공기에 섞인, 어렴풋한 꽃향기.
+()<Speaker>？？？</Speaker>||:그 아이들과 이세계의 손님들이 제법 괜찮은 결말을 이루어 냈구나.
+()<Speaker>지휘관</Speaker>||:누구야? 모습을 드러내!
+()<Speaker>？？？</Speaker>||:허나 운명의 바퀴는 다시 움직인다.
+()<Speaker>지휘관</Speaker>||:부탁이니까 알아듣게 좀 설명하라고...
+()<Speaker>？？？</Speaker>||:이미 시작된 모든 것은 지금도 멈추지 않는다.
+()<Speaker></Speaker>||:파도가 부서지고, 수면을 가르는 소리. 이 배는 지금 바다 위를 빠르게 달리고 있었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<睁眼><SE1>Stop_AVG_loop</SE1><BIN>8</BIN>:눈이 뜨였다.+지금 당신은 지휘실의 탁상 위에 엎어진 채로, 몸에는 두꺼운 코트를 덮은 것 같았다.
+()<Speaker>방송</Speaker>||:<color=#FFFF00>♪Will I live to see morning light</color>+<color=#FFFF00>♪Fear is filled in every breath</color>
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:당신은 망연한 표정으로 노래가 흐르는 스피커를 껐다.
+()<Speaker>지휘관</Speaker>||:뭐지...?
+()<Speaker></Speaker>||:머릿속이 새하얬다. 엄청 긴 꿈을 꾼 것 같은데, 꿈의 내용이 전혀 기억나지 않았다.
+()<Speaker>지휘관</Speaker>||:카리나?+......아.+나 대신 회의 나간 모양이구나.
+()<Speaker></Speaker>||:왠지 모를 졸음이 다시 엄습해오자, 당신은 조금 더 눈을 붙이기로 했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리고 따뜻한 탁상에 다시 엎드리고 눈을 감았다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Saga_Song_1</BGM><SE1>AVG_2022Saros_button</SE1><黑屏2><BIN>9</BIN>:당신이 잠든 순간, 스피커가 제멋대로 다시 켜졌다.
+()<Speaker>방송</Speaker>||:<color=#FFFF00>♪I'm not gonna die here!</color>+<color=#FFFF00>♪That's what I'm fighting for!</color>
+()<Speaker></Speaker>||:운명의 바퀴가 다시 움직이기 시작했다.
+()||<黑点1>:

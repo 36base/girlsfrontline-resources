@@ -1,0 +1,130 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator><BGM>m_avg_hope</BGM>:"이것은 기적이나 다름없다."+"3세기에 걸쳐 완성된, 유라시아 대륙을 가로질러 약 1만km를 잇는 초대형 프로젝트. 시베리아 횡단 철도는 결코 자연의 은총이 아닌, 인류가 빚어낸 피와 땀과 지혜의 결정체였다."+"이 철도는 전쟁과 오염, 고통과 탄식에 만신창이가 되어 버려지는 듯했다."
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>536</BIN><黑屏2>:"허나 인류는 포기하지 않았다. 붉은 깃발로 이 토지에 다시 불을 지펴, 새로운 활력을 불어넣었다."+"시베리아 생명선에 다시금 우뚝 선 대동맥 위에서, 미래호가 기적을 울린다!"+"그리고 이 기적을 목격하는 것은 바로 당신! 새로 쓰이는 역사의 위대한 산증인이 될 기회를 놓치지 마시라!"
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>532</BIN><SE1>AVG_Station_Bell</SE1><BGM>BGM_Empty</BGM><narrator>:신소련, 바르샤바 중앙 전철역.
+()<Speaker></Speaker>||<BGM>GF_EV9_Story</BGM>:세월이 엿보이는 괘종시계의 종소리가 썰렁한 승강장에 울려퍼지며 안내 방송이 시작됐다.
+()<Speaker>방송</Speaker>||<SE1>AVG_20Winter_Doorbell</SE1>:<color=#00CCFF>각 부서 주의, 각 부서 주의.</color>+<color=#00CCFF>모스크바발 베를린행, EN440-13M 열차가 6번 승강장으로 진입합니다.</color>+<color=#00CCFF>열차 맞이 준비 바랍니다.</color>+<color=#00CCFF>승객 여러분 안녕하십니까, 오래 기다리셨습니다.</color>+<color=#00CCFF>지금, 베를린으로 향하는 EN440-13M "미래호" 열차가 우리 역에 들어오고 있습니다.</color>
+()<Speaker></Speaker>||<SE1>AVG_Eurocity_Stop</SE1>:쿠우웅...+친절한 여성의 안내에 맞춰, 움직이는 성채가 승강장을 따라 미끄러져 끄트머리에 멈춰섰다.
+()<Speaker></Speaker>||<SE1>AVG_BaseDoor_Open</SE1>:치이익...+열차가 완전히 멈추자, 탑승문이 금속음을 내며 열리기가 무섭게 진지한 표정에 제복 차림인 철도 경찰들이 내렸고, 그 뒤를 한 승무원 인형이 따랐다.+여정을 마친 승객을 배웅하듯, 승무원 인형은 탑승문 앞에 서서 질서 있게 나란히 늘어선 철도 경찰들에게 친절한 미소를 지어보였다.
+NPC-TD_Porter(1)<Speaker>승무원 수잔나</Speaker>||:여기까지 수고 많으셨습니다. 다음 근무표는 독일 행정부의 철경에게 전달하겠습니다.
+()<Speaker>철경팀 대장</Speaker>||:마음대로 해, 어차피 볼 사람도 없으니.+난 벌꿀주나 마시러 가려는데, 너희는?
+()<Speaker>철경A</Speaker>||:저도 가겠습니다.
+()<Speaker>철경B</Speaker>||:전 안 되겠습니다, 바로 다음 열차 타고 모스크바로 돌아가야 해요.+아들놈 생일에 같이 있어 주겠다고 저번 달에 약속해서, 늦기라도 하면 큰일나요.
+()<Speaker>철경팀 대장</Speaker>||:빠듯하겠네. 얼른 가고, 다들 고생했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:철도 경찰 팀의 대장은 손짓으로 부하들을 해산시켰다.+그리고 뒤돌아, 승무원 인형을 스치며 지나가듯 당부했다.
+()<Speaker>철경팀 대장</Speaker>||:포즈난에서 그 독일인들이 타기 전에 일 터지지 않도록 조심해라, 수잔나.+요즘 들어 국경이 도통 조용한 날이 없어.
+NPC-TD_Porter(1)<Speaker>수잔나</Speaker>||:알겠습니다.
+()<Speaker></Speaker>||:"수잔나"라는 이름의 승무원 인형은 가볍게 고개를 끄덕이곤 발길을 돌리는 철도 경찰을 눈으로 배웅했다. 하지만 일이 끝난 그와는 달리, 그녀의 일은 이제 겨우 시작이었다.
+()<Speaker></Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>529</BIN><黑屏2><SE1>AVG_door_elecport</SE1><narrator>:대륙간 열차 "미래호", F02호 객차.
+()<Speaker></Speaker>||<BGM>GF_21winter_avg_nightbar</BGM>:고급스런 커피향으로 가득한 멋들어진 일등칸 객차에서, 한껏 차려입은 승객들은 각자 자신의 좌석에서 자신의 일에 신경쓰고 있었다.+서로 대화도 거의 않고 눈치껏 거리를 두어서 차분한 분위기였지만, 그렇다고 승무원의 업무가 편해지는 일은 없다. 어떨 때는 과묵한 승객이 승무원에게 더욱 성가신 존재가 되기도 한다.
+NPC-TD_Porter(1)<Speaker>수잔나</Speaker>||:안녕하세요. 모스크바에서 베를린으로 향하는 최고의 선택, 미래호 열차에 오르신 것을 진심으로 환영합니다.+이 현대화된 고속 대륙간 열차에서 편안한 여행 되시도록, 최선을 다하겠습니다.+저는 이번 여정에서 손님을 성심껏 모실 승무원 수잔나라고 합니다. 혹시 제가 도와드릴 것이 있으신가요?+...손님?
+()<Speaker></Speaker>||:복장을 더욱 단정히 한 수잔나는 공손히 몸을 낮춰, 일등칸의 통로 한가운데에서 휠체어에 탄 채 길을 틀어막고 있는 노부인에게 대화를 시도 중이었다.
+NPC-OldLady_t(0)<Speaker>？？？</Speaker><Position>0,180</Position>||<SE1>AVG_20Winter_Book</SE1>:............
+()<Speaker></Speaker>||:하지만 이 노부인은 대답은커녕 수잔나에게 눈길조차 주지 않았다.+물론, 수잔나도 이 노부인이 대답할 마음이 들기까지 마냥 기다릴 수도, 그냥 가만히 놔둘 수도 없었다.+지금 이 순간에도 틈을 비집고 어떻게든 옆으로 지나가는 승객들이 있는 만큼, 이 한 사람을 위해 다른 승객들의 불편함과 혹시 모를 컴플레인을 용납할 수는 없었다.
+NPC-TD_Porter(1)<Speaker>수잔나</Speaker>||:손님, 성함이... 아, 발레리야 부인이시군요. 제가 부인을 A18번 좌석으로 모셔도 되겠습――
+NPC-OldLady(0)<Speaker>？？？</Speaker><Position>0,180</Position>||:저리 꺼져!
+()<Speaker></Speaker>||:이 "발레리야 부인"에게 다시 대화를 시도한 그때, 뒤에서 듣기만 해도 불한당 같은 고함이 들려왔다.
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:마치 길을 막고 있는 것이 그녀라는 듯, 우람한 몸집의 남성은 수잔나를 옆으로 홱 밀치곤 주변 사람들의 시선을 한몸에 받으며 노부인에게 다가갔다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리고 수잔나가 무어라 입을 열기도 전에, 그 남자는 예상밖으로 공손히 허리를 숙이더니 노부인의 손을 들어 경건한 의식을 치르듯 그녀의 손등에 입을 맞췄다.+여태까지 꿈쩍도 않던 노부인은 그제서야 자상한 얼굴로 남성에게 고개를 돌렸다.
+NPC-OldLady(0)<Speaker>발레리야 부인</Speaker><Position>0,180</Position>||:수고했다, 다니엘.+나 좀 밀어 주련? 다른 손님들이 난처해하는구나.
+NPC-Bodyguard1(0)<Speaker>우람한 남성</Speaker>||:그럴 리가요, 부인을 위해 몇 초라도 더 할애하는 게 저들에게도 영광이죠.
+()<Speaker></Speaker>||<SE1>AVG_Wheelchair</SE1>:거한이 발레리야 부인의 휠체어를 부드럽게 밀어 A18번 좌석으로 옮긴 것을 본 뒤에야 수잔나는 한시름 놓을 수 있었다.+다만, 숨 돌릴 틈은 없었다. 자세를 바로잡고 뒤로 돌자마자 또 다른 사람이 있었으니까.+게다가 거의 부딪힐 뻔했기에, 수잔나는 황급히 사과했다.+그리고 허둥지둥 이 승객의 정보를 확인했다.
+NPC-TD_Porter(1)<Speaker>수잔나</Speaker>||<SE1>AVG_20Winter_Book</SE1>:기다리시게 해 정말 죄송합니다, 류드밀라 교관님.
+AR18_NPC_t(0)<Speaker>류드밀라</Speaker><Position>0,70</Position>||<SE1>AVG_20Winter_Book</SE1>:...괜찮아.
+NPC-TD_Porter(1)<Speaker>수잔나</Speaker>||:금방 오늘의 메뉴를 가져다 드리겠습니다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:"류드밀라"라는 이름의 여성은 손목시계를 보곤 고개를 살짝 끄덕이며 수잔나가 비킨 통로를 따라 자신의 좌석으로 향했다.+그런 그녀의 뒷모습을 보며, 수잔나는 한숨을 푹 쉬고 속으로 투덜댔다.
+NPC-TD_Porter(0)<Speaker>수잔나</Speaker>||:<color=#A9A9A9>같은 인형인데 누군 일등석에 앉고, 누군 와인이나 따라야 하고.</color>+<color=#A9A9A9>인형도 다 팔자가 따로 있다니까...</color>
+()<Speaker></Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2>:잠시 후, 일등칸 객차의 준비실. 수잔나는 승객들에게 제공할 와인을 준비하는 중이었다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:그때, 눈치 없는 통신이 들어왔다.
+ColtWalker(2)<Speaker>？？</Speaker><通讯框>||:<color=#00CCFF>우리 귀여운 수잔나아~ 네 둘도 없는 베스트 프렌드 매기야.</color>+<color=#00CCFF>좀 이따 9호차에 갈 일 있으니까 나 대신 단거리 표 좀 끊어 줄래? 포즈난 가는 걸로.</color>
+ColtWalker(2)<通讯框>;NPC-TD_Porter(1)<Speaker>수잔나</Speaker>||:매기 폰지...? 너 진작에 죽은 줄 알았더니?
+ColtWalker(2)<Speaker>매기</Speaker><通讯框>;NPC-TD_Porter(1)||<BGM>GF_2022_Summer_AVG_1</BGM>:<color=#00CCFF>걱정 꽉 붙들어 매셔~ 못된 놈이 오래 산다고, 난 아직은 죽고 싶어도 못 죽걸랑.</color>
+ColtWalker(2)<通讯框>;NPC-TD_Porter(0)<Speaker>수잔나</Speaker>||:9호차... 식당차잖아? 또 "장사"하려고?+이번엔 몇 명이나 호구 잡을 셈이니?
+ColtWalker(2)<Speaker>매기</Speaker><通讯框>;NPC-TD_Porter(0)||:<color=#00CCFF>아잉~ 그러지 말구. 이번 건의 3할 줄게, 어때?</color>
+ColtWalker(2)<通讯框>;NPC-TD_Porter(0)<Speaker>수잔나</Speaker>||:엣휴... 그러셔, 사르디스 골드를 봐서라도 참아야지.+...그 전자 신용카드 쓰면 돼?
+ColtWalker(1)<Speaker>매기</Speaker><通讯框>||:<color=#00CCFF>응, 전에 썼던 그거 그대로 써. 그리고 이따 누구랑 같이 2호차 가서 사람 좀 만나려 하는데, 그때 나 봐도 검표하지 말아 줘~</color>
+()<Speaker></Speaker>||:수잔나는 인상을 팍 쓰고 끙끙대다... 마음을 먹었다.
+NPC-TD_Porter(0)<Speaker>수잔나</Speaker>||:...알았어.+나 곧 준비실에서 저녁 식사 준비할 거야.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+통신 종료.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>529</BIN><BGM>BGM_Empty</BGM>:일등석 객차 안.+발레리야 부인을 좌석으로 모시고 온 남성은 정성껏 부인의 좌석 주위를 정리한 다음, 옆에 서서 소리 낮춰 속삭였다.
+NPC-Bodyguard1(0)<Speaker>우람한 남성</Speaker>||<BGM>GF_EV9_Intermission</BGM>:화물은 안전하게 뒀습니다.
+NPC-OldLady(0)<Speaker>발레리야 부인</Speaker><Position>0,180</Position>||:그래... 잘 했다.+다니엘 네가 있어서 정말 다행이야.+그런데, 다른 녀석들은?+니콜라스... 그 애는 어딨어?
+()<Speaker></Speaker>||:노부인의 질문에, 남성은 당혹스러움을 감추지 못했다.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:니콜라스는... 열차에 탔습니다.+다만 지금은 9호차에 있습니다, 거기에도 자리를 하나 잡아서...
+NPC-OldLady(0)<Speaker>발레리야 부인</Speaker><Position>0,180</Position>||:걔 혼자서?
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:......네.
+NPC-OldLady(0)<Speaker>발레리야 부인</Speaker><Position>0,180</Position>||:...흥.+버릇을 못 고치는군.
+()<Speaker></Speaker>||:온화하던 노부인의 표정이 순식간에 싸늘해지자, 옆에서 눈치를 보던 다니엘은 덩치에 어울리지 않게 오한에 떨었다.
+NPC-OldLady(0)<Speaker>발레리야 부인</Speaker><Position>0,180</Position>||:불러 와.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:...예.
+()<Speaker></Speaker>||:행여 화풀이라도 당할까 봐 무서운 듯, 다니엘은 허리를 꾸벅 숙이곤 냉큼 자리를 벗어났다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>529</BIN>:저마다의 사연을 가진 승객들 덕분에, 열차 안은 진작에 평소와 같은 분위기를 되찾은 뒤였다.+때문에 객차를 빠른 걸음으로 가르지르는 두 사람을 아무도 신경쓰지 않았다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:젊은 남성은 능숙하고 자연스러운 동작으로 발레리야 부인의 맞은편 좌석에 앉았다. 그리고 그를 따라온 여성은 고개를 숙이고 옆에 서, 적어도 겉보기엔 순종적인 태도를 취했다.
+NPC-NervousMan(1)<Speaker>니콜라스</Speaker>||:정말 송구하기 그지없습니다 부인, 곧장 인사를 드리러 와야 했는데.+약간의 일이 생겨서 늦어지고 말았습니다... 부디 괘념치 마시길.+부인의 심기를 거스를 생각은 눈곱만큼도 없습니다.
+()<Speaker></Speaker>||:노부인은 눈을 가늘게 뜨고 노려보긴 해도 별다른 말은 없었다.+반면, 니콜라스 옆의 여성은 아예 보이지도 않는다는 듯 눈길조차 주지 않았다.
+NPC-OldLady(0)<Speaker>발레리야 부인</Speaker><Position>0,180</Position>||:니콜라스... 널 혼낼 셈은 아니란다.
+()<Speaker></Speaker>||:가벼운 말투였지만, 니콜라스는 신경을 곤두세우고 입을 열었다.
+NPC-NervousMan(1)<Speaker>니콜라스</Speaker>||:무, 물론 맡은 일을 게을리할 셈도 아닙니다.+제 고객 타레우스 양이 대신 감사의 뜻을 전해 달라 전했습니다.
+()<Speaker></Speaker>||:니콜라스가 급히 함께 온 여성에게 눈치를 주자, 여성은 손에 들고 있던 상자를 공손히 탁상에 내려놓았다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Car_Open</SE1>:그러자 니콜라스는 히죽 웃으며 상자를 열어, 속에 든 것을 보여 주었다.+막 피기 시작한 한 송이의 꽃이었다.
+NPC-OldLady(0)<Speaker>발레리야 부인</Speaker><Position>0,180</Position>||:...그래, 알았다.
+()<Speaker></Speaker>||:"허가"가 떨어지자, 니콜라스는 매우 조심스럽게 말을 이었다.
+NPC-NervousMan(1)<Speaker>니콜라스</Speaker>||:그리고... 이번에 매기는 타레우스 양의 심부름을 맡았습니다.+그래서 내쫓기는 좀 어렵겠습니다.
+NPC-OldLady(0)<Speaker>발레리야 부인</Speaker><Position>0,180</Position>||:네가 내쫓기 싫은 거겠지.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:발레리야 부인은 태연하게 뚜껑을 다시 덮곤 상자를 숨겼다.
+NPC-OldLady(0)<Speaker>발레리야 부인</Speaker><Position>0,180</Position>||:10분 주마.+눈에 띄기만 해도 기분이 심히 언짢아지는 년이 있거든.
+ColtWalker(3)<Speaker>매기</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:여전히 니콜라스의 곁에 서 있는 매기는 말없이 모자의 챙을 눌렀다.+발레리야 부인의 눈길은 아직도 그녀에게 단 한 번도 가지 않았다.
+NPC-NervousMan(1)<Speaker>니콜라스</Speaker>||:...알겠습니다.
+NPC-OldLady(0)<Speaker>발레리야 부인</Speaker><Position>0,180</Position>||:이만 가 봐, 쉬어야겠어.
+()<Speaker></Speaker>||:그 말을 듣자마자, 니콜라스는 매기의 손을 잡고 자리에서 일어났다.
+()<Speaker></Speaker>||<SE1>AVG_BaseDoor_Open</SE1>:그가 자리를 박차고 노부인의 시야에서 사라지기까지 걸린 시간은 상자를 꺼내 보인 시간보다 짧았다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑点2><BIN>530</BIN><BGM>BGM_Empty</BGM><SE1>AVG_BaseDoor_Close</SE1>:일등칸 객차의 문 밖에서, 니콜라스는 주머니에서 담뱃갑을 꺼내 한 개비를 뽑곤 곁의 매기에게 불을 붙여 달라 내밀었다.
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||<BGM>GF_EV9_Story</BGM>:나 참... 대체 저 할멈 심기는 왜 건드렸어?
+ColtWalker(2)<Speaker>매기</Speaker>;NPC-NervousMan(0)||:응? 내가 심기 건드린 건 너 아니었나?
+ColtWalker(2);NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:내가 뒤끝이 좀 많이 없는 편인 거야, 이 망할 자식아.+이 열차는 우리의 비즈니스야, 도전은 좋아하지만 일이 통제에서 벗어나는 건 사양이라고.
+ColtWalker(1)<Speaker>매기</Speaker>;NPC-NervousMan(0)||:뭐 어때, 서로한테 영향 가는 것도 아닌데. 넌 네 장사를 하고, 난 내 장사를 하고. 그럼 됐지.+그리고, 우리가 처음 손잡는 것도 아니잖아?
+ColtWalker(1);NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:돈만 낼름 먹고 튀던 네 뒷모습이 아직도 눈에 선하거든?
+ColtWalker(2)<Speaker>매기</Speaker>;NPC-NervousMan(0)||:어우 이런 짐승~
+ColtWalker(2);NPC-NervousMan(1)<Speaker>니콜라스</Speaker>||:내가 말을 말아야지 진짜...+...하지만 마음에 들어. 그래서 널 봐주는 거야.+아무튼 포즈난에 도착하면 너도 같이 내려.
+ColtWalker(1)<Speaker>매기</Speaker>;NPC-NervousMan(1)||:미리 좀 말해 주지 그랬어, 너한테 표 구해 달라 했음 훨씬 편했을 텐데.+이런 열차는 나 같은 인형이 표 구하기 얼마나 힘든 줄 알아?
+ColtWalker(1);NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:네가 여태까지 나한테 사기 친 금액의 하루 이자만으로도 특등실 객차 하나 통째로 전세낼 수 있는 건 알고?
+ColtWalker(2)<Speaker>매기</Speaker>||:사기라니~ 우리 사이에――
+()<Speaker></Speaker>||<SE1>AVG_ElecSpace</SE1><BGM>BGM_Empty</BGM>:삐익!! 삐익!! 삐익!! 삐익!!+경보—— 경보——
+ColtWalker(3)<Speaker>매기</Speaker>||<BGM>BGM_Room</BGM>:엥...? 수잔나, 뭔 일 터졌어?
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:수잔나는 또 누구야?
+ColtWalker(3)<Speaker>매기</Speaker>||:쟤.
+()<Speaker></Speaker>||<SE1>AVG_BaseDoor_Open</SE1>:매기의 대답과 함께, 승무원 인형이 준비실에서 양은 쟁반을 들고 나왔다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:수잔나는 매우 언짢은 표정으로 매기에게 눈을 흘기곤, 니콜라스에게는 사무적인 미소를 지으며 쟁반을 건넸다.
+NPC-TD_Porter(1)<Speaker>수잔나</Speaker>||:니콜라스 씨, 받으세요. 발레리야 부인의 식사입니다.
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:아, 어... 승무원이네?
+NPC-TD_Porter(1)<Speaker>수잔나</Speaker>||:네, 이 열차의 승무원 인형 수잔나라 합니다.+도움이 필요하시다면 언제든지 말씀하십시오.
+ColtWalker(1)<Speaker>매기</Speaker>||:이 먹음직스런 식사를 네가 가져가서 바친다면, 그 할망구도 기분이 좀 풀어지지 않을까?
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:...그럴싸하군.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:고개를 끄덕인 니콜라스는 매기를 힐끗 보고선 쟁반을 건네받았다.+그러자 매기는 니콜라스 몰래 안도의 한숨을 내쉬었고, 그 꼴을 본 수잔나는 눈을 굴렸다.
+ColtWalker(2)<Speaker>매기</Speaker>||:머리 좋은데~? 역시 내 베스트 프렌드야!
+()<Speaker></Speaker>||:매기가 엄지를 척 세웠지만, 수잔나는 또다시 눈을 굴릴 뿐이었다.
+NPC-TD_Porter(0)<Speaker>수잔나</Speaker>||:헛소리는 됐고, 네가 말한 식당차에다 자리 하나 만들어놨어.+내 몫 잊기만 해 봐, 가만 안 둬.
+ColtWalker(2)<Speaker>매기</Speaker>||:당연하지~ 내가 언제 너 섭섭하게 한 적 있어? 없잖아!+근데... 저 일반석 쪽 경보 냅둬도 돼? 저기서 여기까지 거의 열 칸 넘게 떨어져 있는데도 엄청 크게 들리는데.
+NPC-TD_Porter(0)<Speaker>수잔나</Speaker>||:레드존 들어가면 그냥 울리니까 내버려둬도 돼.+그리고 어차피 일반석 승객은 다 거지 아니면 인형인걸, 죽지만 않으면 되지.
+ColtWalker(1)<Speaker>매기</Speaker>||:이야아 잔인하네~ 아무리 그래도 같은 인형인데, 동족한텐 잘 좀 해 줘야 하는 거 아니야?
+NPC-TD_Porter(0)<Speaker>수잔나</Speaker>||:...내가 너 때문에 없는 닭살도 돋겠다.+다른 사람도 아니고 네가 그런 말을 해?+웃기지도 않아 진짜.
+ColtWalker(2)<Speaker>매기</Speaker>||:역시 수잔나야, 가차없다니까♪
+()<Speaker></Speaker>||:매기는 교활하게 웃으며 윙크를 날렸다.
+()<Speaker></Speaker>||:......
+()||<黑点1>:

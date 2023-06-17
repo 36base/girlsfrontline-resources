@@ -1,90 +1,90 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||<黑屏2><BIN>81</BIN><BGM>m_avg_casual</BGM>:......+조금 늦은 시각, 인형 카페.
-GepardM1(6)<Speaker>게파드 M1</Speaker>||:......+이거, 자리 엄청 차지하네.
-GepardM1(6);M1903(2)<Speaker>스프링필드</Speaker>||:그러게 말이에요, 지휘관님과 루이스 씨가 설마 이렇게 큰 삼나무를 구해 오실 줄은 몰랐어요.
-GepardM1(6)<Speaker>게파드 M1</Speaker>;M1903(2)||:이렇게까지 해야 할 필요 있어? 바닥도 온통 흙투성이가 됐잖아.+지저분해.
-GepardM1(6);M1903(2)<Speaker>스프링필드</Speaker>||:모양새도 너무 엉망이라 잔가지를 좀 더 정리해야겠어요. 후우... 청소하는 것도 고생이겠네요.+그래도, 꾸미고 나면 분명 멋진 크리스마스 트리가 되겠죠?
-GepardM1(6)<Speaker>게파드 M1</Speaker>;M1903(2)||:그런 건 진짜 나무가 아니어도 만들 수 있잖아.
-GepardM1(6);M1903(2)<Speaker>스프링필드</Speaker>||:맞는 말이지만... 그러면 좀 시시하지 않나요?+그나저나, 게파드 씨 오늘 아침부터 여기 계셨죠?+아무것도 안 하시던 것 같은데, 지루하진 않으세요?
-GepardM1(6)<Speaker>게파드 M1</Speaker>;M1903(2)||:크리스마스를 끼고 모처럼 만에 즐기는 휴가니까, 느긋하게 지내고 싶어.+그리고 스프링필드가 타 주는 커피가 입맛에 맞거든.
-GepardM1(6);M1903(2)<Speaker>스프링필드</Speaker>||:후훗, 칭찬 고마워요. 한 잔 더 드릴까요?
-GepardM1(6)<Speaker>게파드 M1</Speaker>;M1903(2)||:응, 부탁해...
-GepardM1(6);M1903(2)<Speaker>스프링필드</Speaker>||:네. 으음... 청소 끝내면 선물 구입 상황도 확인해야 하고, 오늘은 할 일이 산더미네요.+게파드 씨는 계속 여기 계실 건가요?
-GepardM1(6)<Speaker>게파드 M1</Speaker>;M1903(2)||:응... 별일 없으면 쭉 있을 거야.+혼자 있는 것도 나쁘지 않아.
-GepardM1(6);M1903(2)<Speaker>스프링필드</Speaker>||:알았어요, 그럼 제가 없는 동안 가게를 봐주시겠어요?
-GepardM1(6)<Speaker>게파드 M1</Speaker>||<黑点1>:응...
-NPC-Kalin(0)<Speaker>카리나</Speaker>||<黑点2>:스프링필드!+어라... 스프링필드 없어?
-GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(0)||:카리나... 스프링필드라면 일 있어서 방금 나갔어. 엇갈렸나 보네.
-GepardM1(6);NPC-Kalin(3)<Speaker>카리나</Speaker>||:그래? 골치 아프게 됐네...
-GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(3)||:카리나도 바쁜 모양이네... 무슨 일이야?
-GepardM1(6);NPC-Kalin(0)<Speaker>카리나</Speaker>||:나도 크리스마스 파티 준비 작업을 돕고 있거든. 지휘관님은 루이스한테 끌려가서 잔뜩 고생하셔서 드러누워 버리셨고.+그래서 내가 잠시 준비 작업 총괄을 맡게 됐어.
-GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(0)||:그렇구나... 그래서, 스프링필드한테 무슨 볼일이야?
-NPC-Kalin(3)<Speaker>카리나</Speaker>||:저거 때문이야.
-()||:카리나는 손에 든 서류로 카페 중앙에 세워진 삼나무를 가리켰다.
-NPC-Kalin(3)<Speaker>카리나</Speaker>||:루이스랑 지휘관님이 엄청 고생해서 가져온 나무야.+뭐, 힘쓰는 작업은 당연히 루이스가 다 했지만 말이지.
-GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(3)||:응... 안 그래도 스프링필드랑 저거 얘기를 했어.+그래서? 자리 차지하는 것도 모자라 다른 말썽까지 생긴 거야?
-GepardM1(6);NPC-Kalin(5)<Speaker>카리나</Speaker>||:말이 왠지 저 나무에 불만이 많다는 듯이 들리네... 아무튼, 딱히 말썽이라 할 정도는 아니야.
-GepardM1(6);NPC-Kalin(3)<Speaker>카리나</Speaker>||:하지만 봐 봐, 크리스마스 트리로 쓰기엔 나뭇가지가 좀 지나치게 넓잖아? 게다가 위에는 아직도 흙이랑 눈이 꽤 묻어 있고.+제대로 청소하고 가지치기하지 않으면 트리로 쓸 수 없어.
-GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(3)||:그래서 카리나가 손보러 온 거야?
-GepardM1(6);NPC-Kalin(5)<Speaker>카리나</Speaker>||:하하하, 나한테 그런 솜씨가 있다면 그랬겠지. 유감스럽지만, 내 실력으론 밤새 작업해도 다 못 끝낼걸?
-GepardM1(6);NPC-Kalin(3)<Speaker>카리나</Speaker>||:게다가 지금은 다른 일도 산더미라서 일손이 너무 부족한 상태라서 말이지...+그래서 스프링필드한테 일손을 더 불러 달라 할 셈이었는데, 아무래도 그쪽도 여유가 없는 모양이네.
-GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(3)||:그렇구나... 그래도 역시 모르겠어. 그렇게까지 고생할 이유가 어디 있어?
-GepardM1(6);NPC-Kalin(2)<Speaker>카리나</Speaker>||:응? 고생이라니?
-GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(2)||:모처럼의 휴일이잖아. 왜 다들 사서 고생하는 건지...+트리쯤이야, 스티로폼이나 플라스틱으로도 만들 수 있잖아?+그리고, 애초에 연말 휴일에 파티를 열겠다고 바쁘게 준비 작업을 하는 게... 이해가 안 돼.
-GepardM1(6);NPC-Kalin(0)<Speaker>카리나</Speaker>||:아... 그런 거?+그러니까 왜 휴일을 굳이 힘들게 보내는지 이해하기 어렵다는 거지?
-GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(0)||:뭐... 대충 그런 거지.+물론 크리스마스 파티는 즐겁지만, 스프링필드랑 카리나가 쉴 틈도 없이 고생하는 모습을 보니...+많이 걱정돼.
-GepardM1(6);NPC-Kalin(1)<Speaker>카리나</Speaker>||:헤헤, 게파드는 정말 상냥하구나. 그래도 괜찮으니까 걱정 마.
-GepardM1(6);NPC-Kalin(0)<Speaker>카리나</Speaker>||:그러고 보니...+게파드는 오늘 아침부터 스프링필드랑 같이 있었지?
-GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(0)||:응... 오늘 내내 카페에 있었어.+하지만 스프링필드가 하루 종일 일하느라 바빠서 말은 제대로 못 했어.
-GepardM1(6);NPC-Kalin(0)<Speaker>카리나</Speaker>||:게파드가 보기에 스프링필드가 고생하는 것 같았니?
-GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(0)||:엄청. 평일에도 그 정도는 아닐 텐데...+보고 있자니, 뭐랄까... 스프링필드는 왠지 휴일이 없는 것 같아서 불쌍했어.
-GepardM1(6);NPC-Kalin(0)<Speaker>카리나</Speaker>||:그럼, 스프링필드의 기분은 어때 보였어?
-GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(0)||:......+...괜찮았어.+오히려... 즐기고 있는 것 같았어.
-GepardM1(6);NPC-Kalin(0)<Speaker>카리나</Speaker>||:바로 그거야. 휴일을 즐기는 방식은 사람마다 다를 수 있어. 하지만 공통점이라면, 자신이 즐겁게 보내는 거지.+게파드처럼 느긋하게 휴일을 만끽하는 것도 좋은 방식이지만, 스프링필드는 모두가 즐겁게 크리스마스를 보내도록 하는 게 자신에게 있어 즐거운 일일 거야.
-GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(0)||:모두가 크리스마스를 즐겁게 보내도록...
-GepardM1(6);NPC-Kalin(0)<Speaker>카리나</Speaker>||:네가 늘어지는 게 잘못됐다는 말이 아니야. 말했듯이, 그저 휴일을 즐기는 방식이 다를 뿐인 거지.
-GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(0)||:듣고 보니, 왠지...+카리나랑 스프링필드는 모두가 쉬는 걸 자신이 쉬는 걸로 보는 것 같네.
-GepardM1(6);NPC-Kalin(0)<Speaker>카리나</Speaker>||:에이, 그 정도는 아니지.+그리고 나는 휴일근무수당을 받으니까 좋아서 하는 거야.
-GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(0)||:뭐야, 거창하게 말해놓곤 결국 특근이네.
-GepardM1(6);NPC-Kalin(1)<Speaker>카리나</Speaker>||:딩동댕!
-GepardM1(6);NPC-Kalin(4)<Speaker>카리나</Speaker>||:아차, 수다를 너무 오래 떨었네. 이만 가볼게.+아직 못 끝낸 일이 잔뜩이라서... 나무를 손볼 사람이 정 없으면 일단은 내버려 둬야겠어.
-GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(4)||:그냥 이대로 장식하면 안 돼?
-GepardM1(6);NPC-Kalin(4)<Speaker>카리나</Speaker>||:엉망진창이라 이대로 장식하면 보기 엄청 나쁠걸?+정말 안 되면, 게파드 말대로 인공 나무라도 써야 할지도 모르겠네.+에이, 그건 지휘관님이 깨시면 상의해야지.
-GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(4)||:......
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:그럼 또 봐. 온 김에 스프링필드한테 스페셜 라떼 한 잔 주문하려 했는데 아깝다...
-()||:카리나는 온몸으로 "바쁘다 바빠"를 외치며 카페를 떠났다.
-GepardM1(6)<Speaker>게파드 M1</Speaker>||:...정말 바빠 보이네.
-GepardM1(6)<Speaker></Speaker>||:게파드는 머그컵을 입에 댔다. 뜨거웠던 커피는 적당히 따뜻하게 식어 있었다.
-GepardM1(6)<Speaker>게파드 M1</Speaker>||<黑点1>:...다리에 얼굴 비비지 마, 고양아.+알았어, 알았어...+모처럼의 휴일에... 모처럼의 크리스마스니까...
-()<Speaker>지휘관</Speaker>||<BGM>BGM_Empty</BGM><BGM>BGM_Hello</BGM><黑点2><震屏3>:그럼 바로 깨웠어야지!
-NPC-Kalin(5)<Speaker>카리나</Speaker>||:에에, 그럼 제 잘못이란 말이에요?
-NPC-Kalin(3)<Speaker>카리나</Speaker>||:지휘관님이 괜히 무리해서 녹초가 되어 가지고 쓰러지신 거잖아요. 앞으로 그런 일은 그냥 잘하는 사람한테 맡기시라고요.
-()<Speaker>지휘관</Speaker>||:나무를 베고 옮기는 일은 다 루이스가 했다니까... 난 그냥 좀 피곤해서 눈 좀 잠깐 붙인 건데...+그래서, 가지치기할 사람은 아직도 못 찾았어?
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:못 찾았어요.+그 후에 스프링필드를 찾긴 했는데, LWMMG랑 함께 식자재를 점검 중이어서 다른 인형을 찾으러 갈 시간이 없었어요.
-()<Speaker>지휘관</Speaker>||:하는 수 없지... 가자 카리나, 우리가 직접 가지치기할 수밖에 없어!
-NPC-Kalin(5)<Speaker>카리나</Speaker>||:네에에?! 그런 일은 잘하는 사람한테 맡기라니까요!
-()<Speaker>지휘관</Speaker>||:어쩔 수 없잖아, 루이스가 고생해서 가져온 나무인데 낭비할 수도 없고...+아, 안녕 게파드.
-GepardM1(6)<Speaker>게파드 M1</Speaker>||:안녕 지휘관... 이제 깼어?
-()<Speaker>지휘관</Speaker>||:응... 맙소사, 점심까지 잤어? 저녁 파티까지 앞으로...+그런데, 게파드는 미리 와서 파티 기다리고 있었니?
-GepardM1(6)<Speaker>게파드 M1</Speaker>||:아니, 딱히 기대도 안 했어...+그냥 아침부터 여기서 있었어.+고양이랑 커피가 있고, 조용하니까.
-()<Speaker>지휘관</Speaker>||:그래... 듣기만 해도 느긋한 하루였구나.+과연 게파드야, 휴일을 보내는 방법을 잘 안다니까.
-GepardM1(6)<Speaker>게파드 M1</Speaker>||:어... 이게 잘 쉬는 거야?
-NPC-Kalin(2)<Speaker>카리나</Speaker>||:지휘관님!
-()<Speaker>지휘관</Speaker>||:뭐, 뭔데?
-NPC-Kalin(2)<Speaker>카리나</Speaker>||:뭐냐뇨, 저거 보시면 알잖아요!
-()<Speaker>지휘관</Speaker>||:저거라니 뭐... 응?
-()||:카페 중앙에 세워진 삼나무는 말끔했다. 우거진 잔가지도 깔끔하게 정리됐고, 곳곳에 묻은 진흙과 죽은 나무껍질도 깨끗하게 청소되어 있었다.+그야말로, 장식과 선물로 꾸며지기만을 기다리는 완벽한 크리스마스 트리의 모습이었다.
-()<Speaker>지휘관</Speaker>||:가지치기할 사람 못 찾았다며?
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:확실히 맡길 사람을 찾지 못했는데...
-()<Speaker>지휘관</Speaker>||:그럼 이게 어떻게 된 일이야? 괜히 헐레벌떡 뛰어왔네... 설마 요정들이 했나?
-NPC-Kalin(2)<Speaker>카리나</Speaker>||<BGM>BGM_Empty</BGM>:그렇게 물으셔도...
-GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(2)||<BGM>BGM_Moon</BGM>:......
-GepardM1(6);NPC-Kalin(4)<Speaker>카리나</Speaker>||:<color=#A9A9A9>어라? 게파드의 손톱 사이에 흙이...</color>
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:<color=#A9A9A9>아하...!</color>+와아, 정말 신기한 일도 다 있네요!
-()<Speaker>지휘관</Speaker>||:카리나, 너 방금 뭔가 깨달은 표정이었는데? 뭐야, 어서 말해.
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:몰라요.+산타클로스라도 왔다 갔나 보죠.
-()<Speaker>지휘관</Speaker>||:시치미 떼지 말라니까?
-GepardM1(6)<Speaker>게파드 M1</Speaker>||:......+...시끄러워.
-()<Speaker></Speaker>||:게파드는 다가온 고양이를 쓰다듬으면서 나지막이 푸념했다.
-GepardM1(6)<Speaker>게파드 M1</Speaker>||<黑屏1>:그래도...
-GepardM1(6)<Speaker>게파드 M1</Speaker>||<黑屏2><黑屏1><BIN>9</BIN>:확실히... 즐거웠어.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<黑屏2><BIN>81</BIN><BGM>m_avg_casual</BGM>:......+조금 늦은 시각, 인형 카페.
+GepardM1(6)<Speaker>게파드 M1</Speaker>||:......+이거, 자리 엄청 차지하네.
+GepardM1(6);M1903(2)<Speaker>스프링필드</Speaker>||:그러게 말이에요, 지휘관님과 루이스 씨가 설마 이렇게 큰 삼나무를 구해 오실 줄은 몰랐어요.
+GepardM1(6)<Speaker>게파드 M1</Speaker>;M1903(2)||:이렇게까지 해야 할 필요 있어? 바닥도 온통 흙투성이가 됐잖아.+지저분해.
+GepardM1(6);M1903(2)<Speaker>스프링필드</Speaker>||:모양새도 너무 엉망이라 잔가지를 좀 더 정리해야겠어요. 후우... 청소하는 것도 고생이겠네요.+그래도, 꾸미고 나면 분명 멋진 크리스마스 트리가 되겠죠?
+GepardM1(6)<Speaker>게파드 M1</Speaker>;M1903(2)||:그런 건 진짜 나무가 아니어도 만들 수 있잖아.
+GepardM1(6);M1903(2)<Speaker>스프링필드</Speaker>||:맞는 말이지만... 그러면 좀 시시하지 않나요?+그나저나, 게파드 씨 오늘 아침부터 여기 계셨죠?+아무것도 안 하시던 것 같은데, 지루하진 않으세요?
+GepardM1(6)<Speaker>게파드 M1</Speaker>;M1903(2)||:크리스마스를 끼고 모처럼 만에 즐기는 휴가니까, 느긋하게 지내고 싶어.+그리고 스프링필드가 타 주는 커피가 입맛에 맞거든.
+GepardM1(6);M1903(2)<Speaker>스프링필드</Speaker>||:후훗, 칭찬 고마워요. 한 잔 더 드릴까요?
+GepardM1(6)<Speaker>게파드 M1</Speaker>;M1903(2)||:응, 부탁해...
+GepardM1(6);M1903(2)<Speaker>스프링필드</Speaker>||:네. 으음... 청소 끝내면 선물 구입 상황도 확인해야 하고, 오늘은 할 일이 산더미네요.+게파드 씨는 계속 여기 계실 건가요?
+GepardM1(6)<Speaker>게파드 M1</Speaker>;M1903(2)||:응... 별일 없으면 쭉 있을 거야.+혼자 있는 것도 나쁘지 않아.
+GepardM1(6);M1903(2)<Speaker>스프링필드</Speaker>||:알았어요, 그럼 제가 없는 동안 가게를 봐주시겠어요?
+GepardM1(6)<Speaker>게파드 M1</Speaker>||<黑点1>:응...
+NPC-Kalin(0)<Speaker>카리나</Speaker>||<黑点2>:스프링필드!+어라... 스프링필드 없어?
+GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(0)||:카리나... 스프링필드라면 일 있어서 방금 나갔어. 엇갈렸나 보네.
+GepardM1(6);NPC-Kalin(3)<Speaker>카리나</Speaker>||:그래? 골치 아프게 됐네...
+GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(3)||:카리나도 바쁜 모양이네... 무슨 일이야?
+GepardM1(6);NPC-Kalin(0)<Speaker>카리나</Speaker>||:나도 크리스마스 파티 준비 작업을 돕고 있거든. 지휘관님은 루이스한테 끌려가서 잔뜩 고생하셔서 드러누워 버리셨고.+그래서 내가 잠시 준비 작업 총괄을 맡게 됐어.
+GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(0)||:그렇구나... 그래서, 스프링필드한테 무슨 볼일이야?
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:저거 때문이야.
+()||:카리나는 손에 든 서류로 카페 중앙에 세워진 삼나무를 가리켰다.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:루이스랑 지휘관님이 엄청 고생해서 가져온 나무야.+뭐, 힘쓰는 작업은 당연히 루이스가 다 했지만 말이지.
+GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(3)||:응... 안 그래도 스프링필드랑 저거 얘기를 했어.+그래서? 자리 차지하는 것도 모자라 다른 말썽까지 생긴 거야?
+GepardM1(6);NPC-Kalin(5)<Speaker>카리나</Speaker>||:말이 왠지 저 나무에 불만이 많다는 듯이 들리네... 아무튼, 딱히 말썽이라 할 정도는 아니야.
+GepardM1(6);NPC-Kalin(3)<Speaker>카리나</Speaker>||:하지만 봐 봐, 크리스마스 트리로 쓰기엔 나뭇가지가 좀 지나치게 넓잖아? 게다가 위에는 아직도 흙이랑 눈이 꽤 묻어 있고.+제대로 청소하고 가지치기하지 않으면 트리로 쓸 수 없어.
+GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(3)||:그래서 카리나가 손보러 온 거야?
+GepardM1(6);NPC-Kalin(5)<Speaker>카리나</Speaker>||:하하하, 나한테 그런 솜씨가 있다면 그랬겠지. 유감스럽지만, 내 실력으론 밤새 작업해도 다 못 끝낼걸?
+GepardM1(6);NPC-Kalin(3)<Speaker>카리나</Speaker>||:게다가 지금은 다른 일도 산더미라서 일손이 너무 부족한 상태라서 말이지...+그래서 스프링필드한테 일손을 더 불러 달라 할 셈이었는데, 아무래도 그쪽도 여유가 없는 모양이네.
+GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(3)||:그렇구나... 그래도 역시 모르겠어. 그렇게까지 고생할 이유가 어디 있어?
+GepardM1(6);NPC-Kalin(2)<Speaker>카리나</Speaker>||:응? 고생이라니?
+GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(2)||:모처럼의 휴일이잖아. 왜 다들 사서 고생하는 건지...+트리쯤이야, 스티로폼이나 플라스틱으로도 만들 수 있잖아?+그리고, 애초에 연말 휴일에 파티를 열겠다고 바쁘게 준비 작업을 하는 게... 이해가 안 돼.
+GepardM1(6);NPC-Kalin(0)<Speaker>카리나</Speaker>||:아... 그런 거?+그러니까 왜 휴일을 굳이 힘들게 보내는지 이해하기 어렵다는 거지?
+GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(0)||:뭐... 대충 그런 거지.+물론 크리스마스 파티는 즐겁지만, 스프링필드랑 카리나가 쉴 틈도 없이 고생하는 모습을 보니...+많이 걱정돼.
+GepardM1(6);NPC-Kalin(1)<Speaker>카리나</Speaker>||:헤헤, 게파드는 정말 상냥하구나. 그래도 괜찮으니까 걱정 마.
+GepardM1(6);NPC-Kalin(0)<Speaker>카리나</Speaker>||:그러고 보니...+게파드는 오늘 아침부터 스프링필드랑 같이 있었지?
+GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(0)||:응... 오늘 내내 카페에 있었어.+하지만 스프링필드가 하루 종일 일하느라 바빠서 말은 제대로 못 했어.
+GepardM1(6);NPC-Kalin(0)<Speaker>카리나</Speaker>||:게파드가 보기에 스프링필드가 고생하는 것 같았니?
+GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(0)||:엄청. 평일에도 그 정도는 아닐 텐데...+보고 있자니, 뭐랄까... 스프링필드는 왠지 휴일이 없는 것 같아서 불쌍했어.
+GepardM1(6);NPC-Kalin(0)<Speaker>카리나</Speaker>||:그럼, 스프링필드의 기분은 어때 보였어?
+GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(0)||:......+...괜찮았어.+오히려... 즐기고 있는 것 같았어.
+GepardM1(6);NPC-Kalin(0)<Speaker>카리나</Speaker>||:바로 그거야. 휴일을 즐기는 방식은 사람마다 다를 수 있어. 하지만 공통점이라면, 자신이 즐겁게 보내는 거지.+게파드처럼 느긋하게 휴일을 만끽하는 것도 좋은 방식이지만, 스프링필드는 모두가 즐겁게 크리스마스를 보내도록 하는 게 자신에게 있어 즐거운 일일 거야.
+GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(0)||:모두가 크리스마스를 즐겁게 보내도록...
+GepardM1(6);NPC-Kalin(0)<Speaker>카리나</Speaker>||:네가 늘어지는 게 잘못됐다는 말이 아니야. 말했듯이, 그저 휴일을 즐기는 방식이 다를 뿐인 거지.
+GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(0)||:듣고 보니, 왠지...+카리나랑 스프링필드는 모두가 쉬는 걸 자신이 쉬는 걸로 보는 것 같네.
+GepardM1(6);NPC-Kalin(0)<Speaker>카리나</Speaker>||:에이, 그 정도는 아니지.+그리고 나는 휴일근무수당을 받으니까 좋아서 하는 거야.
+GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(0)||:뭐야, 거창하게 말해놓곤 결국 특근이네.
+GepardM1(6);NPC-Kalin(1)<Speaker>카리나</Speaker>||:딩동댕!
+GepardM1(6);NPC-Kalin(4)<Speaker>카리나</Speaker>||:아차, 수다를 너무 오래 떨었네. 이만 가볼게.+아직 못 끝낸 일이 잔뜩이라서... 나무를 손볼 사람이 정 없으면 일단은 내버려 둬야겠어.
+GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(4)||:그냥 이대로 장식하면 안 돼?
+GepardM1(6);NPC-Kalin(4)<Speaker>카리나</Speaker>||:엉망진창이라 이대로 장식하면 보기 엄청 나쁠걸?+정말 안 되면, 게파드 말대로 인공 나무라도 써야 할지도 모르겠네.+에이, 그건 지휘관님이 깨시면 상의해야지.
+GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(4)||:......
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:그럼 또 봐. 온 김에 스프링필드한테 스페셜 라떼 한 잔 주문하려 했는데 아깝다...
+()||:카리나는 온몸으로 "바쁘다 바빠"를 외치며 카페를 떠났다.
+GepardM1(6)<Speaker>게파드 M1</Speaker>||:...정말 바빠 보이네.
+GepardM1(6)<Speaker></Speaker>||:게파드는 머그컵을 입에 댔다. 뜨거웠던 커피는 적당히 따뜻하게 식어 있었다.
+GepardM1(6)<Speaker>게파드 M1</Speaker>||<黑点1>:...다리에 얼굴 비비지 마, 고양아.+알았어, 알았어...+모처럼의 휴일에... 모처럼의 크리스마스니까...
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Empty</BGM><BGM>BGM_Hello</BGM><黑点2><震屏3>:그럼 바로 깨웠어야지!
+NPC-Kalin(5)<Speaker>카리나</Speaker>||:에에, 그럼 제 잘못이란 말이에요?
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:지휘관님이 괜히 무리해서 녹초가 되어 가지고 쓰러지신 거잖아요. 앞으로 그런 일은 그냥 잘하는 사람한테 맡기시라고요.
+()<Speaker>지휘관</Speaker>||:나무를 베고 옮기는 일은 다 루이스가 했다니까... 난 그냥 좀 피곤해서 눈 좀 잠깐 붙인 건데...+그래서, 가지치기할 사람은 아직도 못 찾았어?
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:못 찾았어요.+그 후에 스프링필드를 찾긴 했는데, LWMMG랑 함께 식자재를 점검 중이어서 다른 인형을 찾으러 갈 시간이 없었어요.
+()<Speaker>지휘관</Speaker>||:하는 수 없지... 가자 카리나, 우리가 직접 가지치기할 수밖에 없어!
+NPC-Kalin(5)<Speaker>카리나</Speaker>||:네에에?! 그런 일은 잘하는 사람한테 맡기라니까요!
+()<Speaker>지휘관</Speaker>||:어쩔 수 없잖아, 루이스가 고생해서 가져온 나무인데 낭비할 수도 없고...+아, 안녕 게파드.
+GepardM1(6)<Speaker>게파드 M1</Speaker>||:안녕 지휘관... 이제 깼어?
+()<Speaker>지휘관</Speaker>||:응... 맙소사, 점심까지 잤어? 저녁 파티까지 앞으로...+그런데, 게파드는 미리 와서 파티 기다리고 있었니?
+GepardM1(6)<Speaker>게파드 M1</Speaker>||:아니, 딱히 기대도 안 했어...+그냥 아침부터 여기서 있었어.+고양이랑 커피가 있고, 조용하니까.
+()<Speaker>지휘관</Speaker>||:그래... 듣기만 해도 느긋한 하루였구나.+과연 게파드야, 휴일을 보내는 방법을 잘 안다니까.
+GepardM1(6)<Speaker>게파드 M1</Speaker>||:어... 이게 잘 쉬는 거야?
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:지휘관님!
+()<Speaker>지휘관</Speaker>||:뭐, 뭔데?
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:뭐냐뇨, 저거 보시면 알잖아요!
+()<Speaker>지휘관</Speaker>||:저거라니 뭐... 응?
+()||:카페 중앙에 세워진 삼나무는 말끔했다. 우거진 잔가지도 깔끔하게 정리됐고, 곳곳에 묻은 진흙과 죽은 나무껍질도 깨끗하게 청소되어 있었다.+그야말로, 장식과 선물로 꾸며지기만을 기다리는 완벽한 크리스마스 트리의 모습이었다.
+()<Speaker>지휘관</Speaker>||:가지치기할 사람 못 찾았다며?
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:확실히 맡길 사람을 찾지 못했는데...
+()<Speaker>지휘관</Speaker>||:그럼 이게 어떻게 된 일이야? 괜히 헐레벌떡 뛰어왔네... 설마 요정들이 했나?
+NPC-Kalin(2)<Speaker>카리나</Speaker>||<BGM>BGM_Empty</BGM>:그렇게 물으셔도...
+GepardM1(6)<Speaker>게파드 M1</Speaker>;NPC-Kalin(2)||<BGM>BGM_Moon</BGM>:......
+GepardM1(6);NPC-Kalin(4)<Speaker>카리나</Speaker>||:<color=#A9A9A9>어라? 게파드의 손톱 사이에 흙이...</color>
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:<color=#A9A9A9>아하...!</color>+와아, 정말 신기한 일도 다 있네요!
+()<Speaker>지휘관</Speaker>||:카리나, 너 방금 뭔가 깨달은 표정이었는데? 뭐야, 어서 말해.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:몰라요.+산타클로스라도 왔다 갔나 보죠.
+()<Speaker>지휘관</Speaker>||:시치미 떼지 말라니까?
+GepardM1(6)<Speaker>게파드 M1</Speaker>||:......+...시끄러워.
+()<Speaker></Speaker>||:게파드는 다가온 고양이를 쓰다듬으면서 나지막이 푸념했다.
+GepardM1(6)<Speaker>게파드 M1</Speaker>||<黑屏1>:그래도...
+GepardM1(6)<Speaker>게파드 M1</Speaker>||<黑屏2><黑屏1><BIN>9</BIN>:확실히... 즐거웠어.

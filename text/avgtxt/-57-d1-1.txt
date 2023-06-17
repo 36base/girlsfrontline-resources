@@ -1,0 +1,8 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>597</BIN><narrator><黑屏1><BGM>BGM_Saga_AVG_Day</BGM>:금방 이세계에 오게 된 당신은 호기심으로 가득했다, 이곳의 편의점은 어떤 이상한 물건을 파는지 궁금해 가장 먼저 편의점을 들러보기로 했다.
+()||<narrator><BIN>380</BIN><黑屏2>:하지만 아쉽게도 편의점에서 파는 물건은 당신의 원래 세상하고 별 차이가 없었다. 흥미가 식어버린 당신은 떠나려다 야마다 타에와 마주쳤다.
+NPC-Tae(0)<Speaker></Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:그녀는 자신 의사를 제대로 표현할 언어 능력이 없는 듯하며, 오징어채 한 봉지를 집고서 바로 나가려 했다.
+NPC-Tae(6)<Position>0,-290</Position><Scale>1.3</Scale>;NPC-Ninja(1)<Speaker></Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置亮>||:편의점 점원이 그녀를 막아세우는 것을 보고, 당신은 금방 여기에 왔으니 양호한 인적 관계를 유지해야 한다 생각해 이를 악물고 오징어채를 사줬다.+그러나 타에는 전혀 고마워하는 눈치도 안 보이고 오징어를 다 먹어치우고선 그대로 떠났다.
+NPC-Ninja(1)<Speaker></Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<黑屏1>:살짝 삐진 당신이지만, 편의점 점원이 대신 타에를 변호해줘 그녀가 좀 엉뚱한 면이 있는 착한 아가씨라 생각하게 됐다.
+()||<narrator><黑屏2><BIN>597</BIN>:그래서 당신은 타에를 따라잡아, 더 많은 인내심을 발휘해 그녀와 친해지려고 손을 내밀었다. 허나 이에 대한 타에의 대답은——
+NPC-Tae(1)<Speaker></Speaker><Position>0,-290</Position><Scale>1.3</Scale>||<黑点1><SE1>AVG_Bite</SE1>:덥석 깨물기였다.

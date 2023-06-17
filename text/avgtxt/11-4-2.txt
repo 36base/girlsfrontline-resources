@@ -1,44 +1,44 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||<BGM>BGM_Empty</BGM><黑屏2><BIN>72</BIN><SE2>Gunfight</SE2>:타탕!+RO635의 전자 제대가 상대방의 마인드맵을 완전히 점령했다.
-메이드 인형의 마인드()||:임무를... 집행...+이상 사태를... 배... 제.. 합...
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:드디어 멈췄나, 인형의 마인드맵을 완전히 제어하는 건 역시 꽤 힘드네...+아무튼 융해 명령은 중단되었어... 단서가 될 자료가 남아있기를 바라야지.
-메이드 인형의 마인드()||:트... 트리거....
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:트리거?
-메이드 인형의 마인드()||:트리거 프로그램 발동...+최종 명령을 실행합니다.
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:무슨 명령이라고?+앗! 잠깐만!
-메이드 인형의 마인드()||<BGM>BGM_Danger</BGM>:자체파기 개시... 모든 접속 포트를 폐쇄합니다... 카운트 다운 시작합니다.+10초.
-RO635-NoArmor(4)<Speaker>RO635</Speaker>||:이런! 내부에도 트리거 식의 파기 프로그램을 설치했구나!+젠장, 날 여기에 가둬서 동귀어진할 생각인가! 난 너의 적이 아니라니까!
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>RO! 아직이야?</color>
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:조금만 기다려!+마인드맵이 완전히 융해되기 전에 단서를 찾아야 해!+빨리, 빨리 나와라!
-메이드 인형의 마인드()||:7초.
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:통신 기록은 없나... 너무 신중한 거 아니야...? 임시 음성 메모리는... 반년의 기록밖에 없어...
-메이드 인형의 마인드()||:5초.
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:이 파일 중 어딘가에 있어, 좋아... 얼마 안 남았어!
-메이드 인형의 마인드()||:3초.
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>RO！</color>
-메이드 인형의 마인드()||:1초.
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||:시각 정보 하나밖에 못 보겠어...+어느 거지... 어느 게 진짜 주소지!+대체 어느 게...
-메이드 인형의 마인드()||:융해 개시.
-()||<BIN>9</BIN><BGM>BGM_Empty</BGM><白屏2>0,0.5</白屏2>:철컥!
-()||:...
-RO635()||<黑屏1>:...+여... 여긴 어디지...
-()||<睁眼><BIN>168</BIN>:메이드 인형이 과부하로 타버리는 소리와 함께, RO가 눈을 떴다.
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Brain</BGM>:RO, 나야 나! 정신 차려.
-RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:너... 무슨 짓이야! 거의 다 찾았는데!
-RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:응? 난 아무것도 안 했는데?+너야말로 안에서 무슨 일 있었어? 저 메이드 물리적으로도 자체파기를 했고...
-RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:하마터면 안에 갇힐 뻔했어...+마지막 순간에 쫓겨난 건가... 나는 네가 강제로 연결을 끊은 줄...
-RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:응?! 정말이야?+넌 괜찮아?
-RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:괜찮아... 연결이 끊어졌으니 안전해...
-RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:그래... 무사하면 다행이야...+그래서, 정보는 찾았어?
-RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:나도 잘 모르겠어... 연결이 끊어질 때까지 찾지를 못했어...
-RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:그... 그럼 어떡해... 여기서 단서가 끊어진 거야...?+내가 다시 한번 볼게, 정보를 얼마나 복사해냈어?
-RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:검색한 건 다 백업해놨어...+하지만 다 자세히 살펴봤고, 네가 따로 뭘 발견할 수 있을 건 같지 않아...
-RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:어라?! 이거... 그 정보원이잖아?
-RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:어?!
-RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:메이드가 아침에 집을 나설 때의 시각 정보야, 간판도 선명하게 찍혔어.+봐봐, 잘 찾았잖아!
-RO635-NoArmor(2)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:어... 음... 하지만... 이 파일은 본 적이 없었는데...+뭐 어때, 어쩌면 내가 마지막 순간에 우연히 잡은 거겠지... 우리도 운이 참 좋나 보다.
-()||:RO635와 SOP2는 서로 마주보고, 웃었다.
-RO635-NoArmor(2);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:운이 좋을지 나쁠지는, 우리가 그 하얀 녀석들보다 먼저 정보원을 찾은 다음에 봐야지.
-RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:아! 이 메이드의 마인드맵이 융해됐다는 건, 아마 그 정보원이 붙잡혀서 정보를 인멸하기 위한 것일 수도 있어...
-RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:그럼 늦은 거야...?
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||<黑屏1>:아직 포기하긴 일러, 여기까지 온 이상, 이 주소에 한번 가보자고.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BGM>BGM_Empty</BGM><黑屏2><BIN>72</BIN><SE2>Gunfight</SE2>:타탕!+RO635의 전자 제대가 상대방의 마인드맵을 완전히 점령했다.
+메이드 인형의 마인드()||:임무를... 집행...+이상 사태를... 배... 제.. 합...
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:드디어 멈췄나, 인형의 마인드맵을 완전히 제어하는 건 역시 꽤 힘드네...+아무튼 융해 명령은 중단되었어... 단서가 될 자료가 남아있기를 바라야지.
+메이드 인형의 마인드()||:트... 트리거....
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:트리거?
+메이드 인형의 마인드()||:트리거 프로그램 발동...+최종 명령을 실행합니다.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:무슨 명령이라고?+앗! 잠깐만!
+메이드 인형의 마인드()||<BGM>BGM_Danger</BGM>:자체파기 개시... 모든 접속 포트를 폐쇄합니다... 카운트 다운 시작합니다.+10초.
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||:이런! 내부에도 트리거 식의 파기 프로그램을 설치했구나!+젠장, 날 여기에 가둬서 동귀어진할 생각인가! 난 너의 적이 아니라니까!
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>RO! 아직이야?</color>
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:조금만 기다려!+마인드맵이 완전히 융해되기 전에 단서를 찾아야 해!+빨리, 빨리 나와라!
+메이드 인형의 마인드()||:7초.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:통신 기록은 없나... 너무 신중한 거 아니야...? 임시 음성 메모리는... 반년의 기록밖에 없어...
+메이드 인형의 마인드()||:5초.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:이 파일 중 어딘가에 있어, 좋아... 얼마 안 남았어!
+메이드 인형의 마인드()||:3초.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><通讯框>||:<color=#00CCFF>RO！</color>
+메이드 인형의 마인드()||:1초.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||:시각 정보 하나밖에 못 보겠어...+어느 거지... 어느 게 진짜 주소지!+대체 어느 게...
+메이드 인형의 마인드()||:융해 개시.
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><白屏2>0,0.5</白屏2>:철컥!
+()||:...
+RO635()||<黑屏1>:...+여... 여긴 어디지...
+()||<睁眼><BIN>168</BIN>:메이드 인형이 과부하로 타버리는 소리와 함께, RO가 눈을 떴다.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Brain</BGM>:RO, 나야 나! 정신 차려.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:너... 무슨 짓이야! 거의 다 찾았는데!
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:응? 난 아무것도 안 했는데?+너야말로 안에서 무슨 일 있었어? 저 메이드 물리적으로도 자체파기를 했고...
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:하마터면 안에 갇힐 뻔했어...+마지막 순간에 쫓겨난 건가... 나는 네가 강제로 연결을 끊은 줄...
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:응?! 정말이야?+넌 괜찮아?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:괜찮아... 연결이 끊어졌으니 안전해...
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:그래... 무사하면 다행이야...+그래서, 정보는 찾았어?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:나도 잘 모르겠어... 연결이 끊어질 때까지 찾지를 못했어...
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:그... 그럼 어떡해... 여기서 단서가 끊어진 거야...?+내가 다시 한번 볼게, 정보를 얼마나 복사해냈어?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:검색한 건 다 백업해놨어...+하지만 다 자세히 살펴봤고, 네가 따로 뭘 발견할 수 있을 건 같지 않아...
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:어라?! 이거... 그 정보원이잖아?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:어?!
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:메이드가 아침에 집을 나설 때의 시각 정보야, 간판도 선명하게 찍혔어.+봐봐, 잘 찾았잖아!
+RO635-NoArmor(2)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:어... 음... 하지만... 이 파일은 본 적이 없었는데...+뭐 어때, 어쩌면 내가 마지막 순간에 우연히 잡은 거겠지... 우리도 운이 참 좋나 보다.
+()||:RO635와 SOP2는 서로 마주보고, 웃었다.
+RO635-NoArmor(2);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:운이 좋을지 나쁠지는, 우리가 그 하얀 녀석들보다 먼저 정보원을 찾은 다음에 봐야지.
+RO635-NoArmor(0)<Speaker>RO635</Speaker>;M4 SOPMOD IIMod-Noarmor(0)||:아! 이 메이드의 마인드맵이 융해됐다는 건, 아마 그 정보원이 붙잡혀서 정보를 인멸하기 위한 것일 수도 있어...
+RO635-NoArmor(0);M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||:그럼 늦은 거야...?
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<黑屏1>:아직 포기하긴 일러, 여기까지 온 이상, 이 주소에 한번 가보자고.

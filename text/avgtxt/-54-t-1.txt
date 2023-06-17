@@ -1,0 +1,79 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>9</BIN><narrator>:……
+()||<narrator><SE1>AVG_keyboardtype_sci</SE1>:■기록■ AS/02647634/91/8734 디코딩...
+()||<narrator><SE1>AVG_keyboardtype_sci</SE1>:■기록■ AS/02647634/91/8735 디코딩...
+()||<narrator><SE1>AVG_keyboardtype_sci</SE1>:■기록■ AS/02647634/91/8736 디코딩...
+()||<narrator><SE1>AVG_keyboardtype_sci</SE1>:■기록■ AS/02647634/91/8737 디코딩 완료.
+()||<黑屏1><SE1>Stop_AVG_loop</SE1>:
+()||<睁眼><BIN>532</BIN>:......+타레우스가 눈을 떴다.
+NPC-Tareus(1)<Speaker>타레우스</Speaker>||<BGM>GF_21summer_avg_Demon</BGM>:......
+NPC-Bramedb(0)<Speaker>브라메드</Speaker><通讯框>;NPC-Tareus(1)||:<color=#00CCFF>질문 있니?</color>
+NPC-Bramedb(0)<通讯框>;NPC-Tareus(1)<Speaker>타레우스</Speaker>||:없습니다, 브라메드 언니.
+NPC-Bramedb(0)<Speaker>브라메드</Speaker><通讯框>;NPC-Tareus(1)||:<color=#00CCFF>파리 한 마리도 독일로 들여보내는 안 돼.</color>+<color=#00CCFF>반드시 저지해, 알겠어?</color>
+NPC-Bramedb(0)<通讯框>;NPC-Tareus(1)<Speaker>타레우스</Speaker>||:네. 모든 노선에 감시가 붙었습니다.+저는 "생명선"을 끝까지 감시하겠습니다.
+NPC-Bramedb(0)<Speaker>브라메드</Speaker><通讯框>||:<color=#00CCFF>실패는 물론이고, 아주 작은 실수도 하지 마렴.</color>+<color=#00CCFF>무능하던 누구누구 씨가 왜 그 꼴이 됐는지는... 너도 알지?</color>
+()||:무심결에 움찔할 정도로 소름돋는 경고였다.
+NPC-Tareus(1)<Speaker>타레우스</Speaker>||:...무슨 일이 있어도 저지하겠습니다.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>532</BIN><narrator>:오후 6시 45분, 바르샤바 중앙 철도역.
+()||<BGM>BGM_stage10</BGM><SE1>AVG_footsteps_cave</SE1>:하늘이 노을로 붉게 물드는 가운데, 승강장의 사람들은 서로 말없이 어깨를 스쳐 지나가며 자신의 좌석이 있는 열차칸으로 향했다.
+()||<SE1>Stop_AVG_loop</SE1><SE2>AVG_whitenoise</SE2>:지금 승강장에 들리는 목소리라곤 반복 재생되는 안내 방송뿐이었다.
+()<Speaker>방송</Speaker>||:<color=#00CCFF>안내 말씀 드립니다. EN440-13M 대륙간 열차를 탑승하시는 승객분들께서는 서둘러 탑승해 주시기 바랍니다.</color>+<color=#00CCFF>EN440-13M 대륙간 열차는 잠시 후, 오후 6시 50분 정시 출발 예정입니다.</color>
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:......
+()||:승강장의 기둥 뒤에 서 있는 남자는 짜증 가득한 눈으로 연거푸 손목시계를 보며 주위를 둘러봤다. 5분 뒤면 열차가 출발하는데, "그 녀석"이 코빼기도 안 보이니 당연하다면 당연한 초조함이었지만.
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:이 여자는 어디서 뭘 하고 있길래 안 와...
+()||:남자의 시선은 역 반대편의 기둥 뒤에 기댄, 카우보이 모자를 쓴 여자에게 향했다.+세상 느긋하게 콧노래를 흥얼거렸지만, 그녀도 역시 승강장에 설치된 시계를 힐끔거리고 있었다.
+()||<SE1>AVG_footsteps_woodfloor</SE1>:그리고 타레우스는 그녀에게 다가갔다.
+ColtWalker(1)<Speaker>매기</Speaker>||<SE1>Stop_AVG_loop</SE1>:드디어 납셨구만.
+NPC-Tareus(1)<Speaker>타레우스</Speaker>||:이거, 발레리야 부인한테 선물할 꽃.
+()||:타레우스는 품에서 꽃이 든 상자를 꺼내 매기에게 건넸다.
+()||<SE1>ClothingUp</SE1>:매기는 꽃다발을 훑어보다, 그 부드러운 꽃들 사이에 끼워진 한 장의 카드를 발견하곤 가느다란 손가락으로 잽싸게 꺼냈다.+그 카드에는 타레우스가 매기에게 전달하는 목표의 정보였다.
+()||<narrator>:기밀 작전.+호위 임무.+소련 요원.+인형 실행자.
+ColtWalker(3)<Speaker>매기</Speaker>||:......+기쁘게 전해드립죠.
+()||<SE1>AVG_footsteps_woodfloor</SE1>:매기가 정보를 접수한 것을 확인한 뒤, 타레우스는 그냥 남인 척 매기를 지나쳐 식당차로 향했다.
+()||<黑屏1><SE1>Stop_AVG_loop</SE1>:
+()||<黑屏2><BIN>528</BIN><narrator>:대륙간 열차 "미래호", F09호 식당차.
+()||<SE1>ClothingUp</SE1>:차량 내의 승객들을 주욱 관찰하고 의심스런 대상이 없음을 확인한 다음, 타레우스는 창가의 자리에 앉았다.+그리고 조금 흐트러진 은빛 머릿결을 정리하고 창밖을 보며, 매기의 동향을 지켜보려던... 그때였다.
+()||<SE1>AVG_Chimes</SE1>:작은 방울 소리가 들렸다.+마침 옆을 지나가는 여자아이의 가방에 달린 방울에서 난 소리였다.
+NPC-Sanaya(1)<Speaker>여자아이</Speaker>||:엄마 나 배고파아...
+NPC-Sanaya(1)<Speaker>부인</Speaker><同时置暗>||:우리 딸 착하지? 열차 출발하면 맛있는 거 사 줄게.
+NPC-Sanaya(0)<Speaker>여자아이</Speaker>||:그치마안 나 지금 먹고 싶다구우~
+()||<SE1>AVG_Chimes</SE1>:여자아이는 방방 뛰며 엄마의 팔을 잡고 흔들어댔고, 그 아이가 맨 가방의 방울도 함께 흔들리며 경쾌하게 딸랑딸랑 소리를 냈다.
+NPC-Tareus(0)<Speaker>타레우스</Speaker>||:......
+()||:어느샌가, 타레우스의 시선은 저 여자아이의 파란 가방의 지퍼에 달린 방울에 꽂혀 있었다.+나비 리본으로 장식됐을 뿐인, 매우 평범한 은방울이었다.+그런데, 타레우스의 눈 속에서 흔들리는 은방울은 저 파란색 책가방이 아니라, 분홍색 크로스백에 걸린 것이었다.
+()||<SE1>AVG_Chimes</SE1>:딸랑딸랑——
+()<Speaker>？？？</Speaker>||:수업 끝났다! 빨리 집에 가자!
+()||<SE1>AVG_21Winter_Error</SE1>:Error!!!
+()||<SE1>AVG_whitenoise</SE1>:강력한 전류가 신경을 타고 퍼져, 타레우스의 머릿속에 떠오른 화면이 끊어지고 눈앞이 시커멓게 변했다.+파란 책가방을 맨 여자아이는 자리에 앉았고, 방울을 바라보던 타레우스의 시선은 허공에 멈춰 있었다.+그렇게 몇 초 허비한 뒤에야, 그녀는 다시 정신을 차리고 창밖으로 고개를 돌렸다.
+()||<黑屏1>:
+()||<黑屏2><BIN>528</BIN><narrator>:대륙간 열차 "미래호", F09호 식당차.
+()||<SE1>AVG_Eurocity</SE1>:긴 안내 방송을 끝으로 대륙간 열차가 출발해, 창밖의 바르샤바 전철역을 뒤로 밀어냈다.+타레우스는 조용히 스쳐 지나가는 풍경을 바라봤다.+긴 여행이 시작됐다. 이제 그녀는 그저, 어리석은 사냥감이 제발로 그물 안으로 뛰어들기만을 기다리면 되었다.
+()||<黑屏1><SE1>Stop_AVG_loop</SE1>:
+()||<黑屏2><BIN>527</BIN>:"콜트 익스프레스".+홀로 객차 안에 앉은 타레우스의 앞엔 연황색의 술이 한 잔 놓여 있었다.
+()||<SE1>ClothingUp</SE1>:하지만 그녀는 흥미 없다는 듯 술잔을 밀어내고, 대신 잔 밑의 리스트를 집었다. "콜트 익스프레스"에 탑승한 모든 인형들의 프로필이었다.+대부분은 이미 선이 그어져, 의심할 구석도, 가치도 없음이 표기된 상태였다.+나머지 프로필 몇 개에는 매기가 남긴 간략한 비고가 적혀 있었다.
+()||<narrator>:폴 마몬토프.+엘마 흄.+류드밀라 파블리첸코.
+NPC-Tareus(1)<Speaker>타레우스</Speaker>||:...프로필 대조 완료.
+()||<SE1>AVG_File_Put</SE1>:리스트를 내려놓고, 타레우스는 창밖으로 빠르게 지나가는 초원을 바라보며 조용히 스노우볼 칵테일을 마셨다.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>528</BIN><narrator>:대륙간 열차 "미래호", F09호 식당차.
+()||<BGM>GF_2022_Summer_Battle_1</BGM><SE1>AVG_tele_connect</SE1>:삐빅.+타레우스에게 메시지가 도착했다.
+()||<narrator>:"오후 7시 10분, 칼리닌그라드 상공에서 군용 헬리콥터 1기 격추."
+NPC-Tareus(1)<Speaker>타레우스</Speaker>||:<color=#A9A9A9>......</color>+<color=#A9A9A9>선택지가 하나 줄었다.</color>
+()||<黑屏1>:
+()||<黑屏2><BIN>528</BIN><narrator>:오후 7시 30분, 대륙간 열차 "미래호"의 F09호 식당차.
+()||<SE1>AVG_tele_connect</SE1>:타레우스에게 새 메시지가 도착했다.
+()||<narrator>:"아군 부대가 군용 헬리콥터 추락 지점에 도착. 수색 결과 수송 능력을 상실했음을 확인."
+NPC-Tareus(1)<Speaker>타레우스</Speaker>||:<color=#A9A9A9>틀린 선택지 하나, 제거.</color>
+NPC-Tareus(1);ColtWalker(1)<Speaker>매기</Speaker><通讯框>||:<color=#00CCFF>타레우스 양~ 의심 목표가 출현했어요.</color>+<color=#00CCFF>정확한 위치는 신호를 좀 더 확인해보고――</color>
+NPC-Tareus(1)<Speaker>타레우스</Speaker>||:...!+<color=#A9A9A9>덫이 움직였다.</color>
+()||<黑屏1>:
+NPC-Tareus(1)<Speaker>타레우스</Speaker>||<黑屏2><BIN>528</BIN>:......
+()||<SE1>AVG_20Winter_People_Panic</SE1>:주위 사람들이 전부 겁에 질려 비명을 질러댔지만, 도적들이 총구를 들이대니 아무도 제자리에서 움직이지는 않았다.+그리고 사람들 사이에 녹아든 타레우스는, 차분한 시선으로 승객들을 약탈하는 도적들 사이로 여전히 잠들어 있는 매기를 바라봤다.
+NPC-Tareus(1)<Speaker>타레우스</Speaker>||:<color=#A9A9A9>...버러지. 거슬려.</color>
+()||<SE1>AVG_tele_connect</SE1>:삐빅.+그녀는 자신의 전용 통신 채널을 켰다.
+()<Speaker>이븐 대위</Speaker>||:<color=#00CCFF>지시 대기 중.</color>
+NPC-Tareus(1)<Speaker>타레우스</Speaker>||:의심 목표 출현했어, 준비하고 있어.
+NPC-Tareus(1)<Speaker>이븐 대위</Speaker><同时置暗>||:<color=#00CCFF>...알았다.</color>+<color=#00CCFF>계속 대기하겠다.</color>
+()<Speaker>？？？？</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_Scene_Transfer</SE1>:방금 그자 말대로 빨리 했어야지.
+()||:그때, 한 목소리가 타레우스의 주의를 끌었다.
+()||<黑点1>:

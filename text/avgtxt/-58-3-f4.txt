@@ -1,0 +1,92 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑点2><BIN>448</BIN><BGM>GF_22W_BGM_3</BGM>:아베르누스 서탑, 외부 플랫폼 구역.
+()||:서탑 입구에서 니토들이 차례대로 걸어나와, 초연으로 자욱한 플랫폼을 가로질러, 아직도 타들어가는 더는 무엇인지도 모를 파편을 넘어, 동탑으로 향했다.+플랫폼의 한 켠에는 아키텍트와 게이저가 쓰러져 있었다. 팔다리도 잘리고, 두 눈은 빛을 잃은 채로.+그리고 나르시스는 이 잔해를 내려다보며 오만방자하게 웃었다.
+Narciss(2)<Position>0,-100</Position><Speaker>나르시스</Speaker>||:뭐해, 일어나! 일어나라고 그리폰의 똥개들아! 더 놀자니까!
+()||<SE1>AVG_Door_Hit</SE1>:걷어차인 게이저는 그대로 날아가 시꺼멓게 타버린 비행기의 잔해에 부딪혀 먼지구름을 일으켰다.
+Narciss(2)<Position>0,-100</Position><Speaker>나르시스</Speaker>||:왜 안 움직여! 이렇게 약골이었어?+이 쓸모없는 쓰레기들!
+()||<SE1>AVG_Cut_Watermelon</SE1>:떠오른 부유검이 수술칼처럼 아키텍트의 잔해에 떨어져, 아직 남은 생체모방형 피부가 조각조각 벗겨지고 금속 골격과 부품을 드러냈다.
+Narciss(2)<Position>0,-100</Position><Speaker>나르시스</Speaker>||:캬하하하핫! 어디 더 건방 떨어봐! 더 저항해 보라고!
+()||<SE1>AVG_Tinnitus</SE1>:아무런 반응도 없건만, 나르시스는 점점 더 흥분해 부유검을 세차게 마구 휘두르며 난자했다.
+()||<SE1>AVG_21Winter_Phone_Crash</SE1>:그러다 어색한 쇠붙이의 마찰음이 났다. 부유검 한 자루가 어딘가에 낀 모양이었다.
+Narciss(1)<Position>0,-100</Position><Speaker>나르시스</Speaker>||:――엉?
+()||:아키텍트의 잔해는 이미 원형을 알아볼 수 없게 되었지만, 유난히 견고하게 만들어진 생체모방형 골격 때문인지 부유검 한 자루가 척추 틈새에 끼어, 나르시스가 아무리 신호를 보내도 꿈쩍도 않았다.
+Narciss(2)<Position>0,-100</Position><Speaker>나르시스</Speaker>||:이이 빌어먹을 쓰레기가아아!!+캬아아아아악!!!
+Narciss(2)<Position>0,-100</Position><同时置暗><Speaker></Speaker>||:그녀는 분노로 발광하며 플랫폼의 구석에 웅크려 있던 니토들에게 고개를 돌렸다.
+Narciss(2)<Position>0,-100</Position><Speaker>나르시스</Speaker>||:너어어! 와서 이거 뽑아아!
+Nyto(1)<Speaker>검은 니토</Speaker>||:아... 네!
+()||:지명당한 검은 니토는 벌벌 떨면서 다가와, 아키텍트의 척추에 박힌 채 진동하는 부유검을 잡았다.+하지만 온 힘을 쥐어짜내서 당겨 봐도 뽑혀지질 않았다.
+Nyto(1)<Speaker>검은 니토</Speaker>||:죄송, 죄송합니다, 나르시스 언니, 뽑히지――
+Narciss(1)<Position>0,-100</Position><Speaker>나르시스</Speaker>||:너도 쓰레기야!
+()||<SE1>AVG_Cut_Watermelon</SE1>:나르시스가 버럭 화를 내자, 부유검들이 회오리처럼 돌풍을 일으키며 플랫폼을 휩쓸어 장비와 잔해가 날아가고 미처 반응하지 못한 니토들 몇 명이 산 채로 토막 났다.+제때 반응한 이들은 바닥에 바짝 엎드려 벌벌 떨었고, 서탑 입구의 니토들은 밖으로 나가야 할지 주저했다.
+()||<SE1>AVG_tinnitus_0</SE1>:그러던 그때, 바람을 가르던 부유검들이 허공에서 정지했다.
+Narciss(1)<Position>0,-100</Position><Speaker>나르시스</Speaker>||:뭐야?! 또 뭔데!!
+()||:허공에 멈춘 부유검들은 나르시스가 더 길길이 날뛰어도 꿈쩍도 하질 않았다.
+()||<SE1>AVG_21Winter_Phone_Crash</SE1>:그리고 찰나의 순간, 항상 위풍을 떨치던 부유검 몇 자루가 나르시스의 휘둥그레진 눈앞에서 가루처럼 바스라져 바닥에 떨어졌다.
+Narciss(0)<Position>0,-100</Position><Speaker>나르시스</Speaker>||:......!
+()||<SE1>ClothingUp</SE1><SE1>AVG_Walk</SE1>:동탑 밖의 니토들이 일제히 길을 열었다.+그리고 그 사이로 우아한 자태가 엉망이 된 플랫폼 위를 밟았다.
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||<SE1>Stop_AVG_loop</SE1>:나르시스, 쓰레기를 늘리지 말거라.
+Narciss(1)<Position>0,-100</Position><Speaker>나르시스</Speaker>||:흥... 실컷 놀게 해 주면 어디 덧나?
+()||:아수라장인 플랫폼을 스윽 훑어본 네메아란은 위압적인 침묵으로 답헀다.+눈에 뵈는 게 없던 나르시스도, 이 때만큼은 어린애처럼 입을 삐죽이며 아직도 몇 자루서 피가 뚝뚝 떨어지는 부유검을 모아 뒤로 숨겼다.
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:네게 새 임무를 내리마.
+NPC-Nemhran(0)<Position>0,30</Position>;Narciss(1)<Position>0,-100</Position><Speaker>나르시스</Speaker>||:뭔데, 숨어있는 그리폰 버러지들 잡는 거?
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>;Narciss(1)<Position>0,-100</Position>||:아니.+지금부터 너는 이 플랫폼 위를 한시도 벗어나지 않으며 지켜야 한다.
+NPC-Nemhran(0)<Position>0,30</Position>;Narciss(1)<Position>0,-100</Position><Speaker>나르시스</Speaker>||:뭐어? 재미없어!
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>;Narciss(1)<Position>0,-100</Position>||:아버님의 뜻이다.+하지만 걱정 마려무나, 금방 또 손님들이 찾아올 테니. 그때 실컷 놀거라.
+NPC-Nemhran(0)<Position>0,30</Position>;Narciss(1)<Position>0,-100</Position><Speaker>나르시스</Speaker>||:오...! 얼마나 와?!
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>;Narciss(1)<Position>0,-100</Position>||:그건 모르지. 한 명일 수도 있고, 한 무리일 수도 있고.
+NPC-Nemhran(0)<Position>0,30</Position>;Narciss(2)<Position>0,-100</Position><Speaker>나르시스</Speaker>||:얼마나 오든 소용없어! 내가 다 죽여버릴 거야!
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>;Narciss(2)<Position>0,-100</Position>||:그래, 마음껏 즐기렴. 생쥐도 죽기 직전이 가장 재미있으니.+그리고 그들이 발악하는 시간을 늘릴지 말지도 다 네게 달렸단다.
+Narciss(0)<Position>0,-100</Position><Speaker>나르시스</Speaker>||:좋아아!!!+여길 잘 지키면 아버님이 칭찬해 준대?!
+()||:나르시스가 눈을 반짝이며 물었지만...+네메아란은 여느 때처럼 무미건조했다.
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:일이 끝나면 알게 될 거다.
+()||:이와 동시에, 플랫폼 위의 모든 니토들에게 컨셔스 파노라마로 새로운 지시가 내려졌다.
+()<Speaker>네메아란</Speaker>||:<color=#00CCFF>모두 동탑 로비에서 대기해라.</color>
+()||:그러자 모두 손에 있던 걸 내려놓고 동탑 안으로 우르르 들어갔다.
+Narciss(0)<Position>0,-100</Position><Speaker>나르시스</Speaker>||:어? 뭐야, 다 어디 가?
+()||:대답이 없자 나르시스가 고개를 돌리니, 네메아란마저 이미 서탑 입구에 가 있었다.
+Narciss(0)<Position>0,-100</Position><Speaker>나르시스</Speaker>||:나... 혼자인가...
+()||<黑屏1>:
+()||<黑屏2><BIN>417</BIN>:......+서탑 35층, 중앙통제실.
+NytoWhite(0)<通讯框><Speaker>12층 통제실</Speaker>||:<color=#00CCFF>애슐리 언니, 12층 에너지 공급선 연결했습니다.</color>
+()||:......
+NytoWhite(0)<通讯框><Speaker>14층 통제실</Speaker>||:<color=#00CCFF>애슐리 언니, 14층 공급선 아직 조정 중입니다. 약 3분 후 연결 예상합니다.</color>
+()||:......
+()||:34개 각 층이 에너지 공급선 연결 진도를 보고했지만, 19층만 조용했다.
+NytoWhite(0)<Speaker>애슐리</Speaker>||:19층?
+NytoWhite(0)<同时置暗><Speaker>19층 통제실</Speaker>||:<color=#00CCFF>애슐리 언니... 그들이 곧 무르익습니다, 지금 에너지 공급을 변경하면 안 됩니다.</color>+<color=#00CCFF>이번에 수치가 굉장한 개체가 셋이나 나왔어요! 8시간만 기다리면——</color>
+NytoWhite(0)<Speaker>애슐리</Speaker>||:......+그냥... 명령대로 해...
+()<Speaker>19층 통제실</Speaker>||:<color=#00CCFF>제발——</color>
+()||<SE1>AVG_Cut_Watermelon</SE1>:통신 너머로 액체가 튀는 소리가 나더니, 잠시 후 비슷한 목소리가 사근사근하게 답했다.
+NytoWhite(0)<通讯框><Speaker>19층 통제실</Speaker>||:<color=#00CCFF>애슐리 언니, 19층 에너지 공급선 조정하겠습니다. 8분 소요 예상합니다.</color>
+()||:......
+NytoWhite(0)<Speaker>애슐리</Speaker>||:알았다. 연결 후 이 층의 모든 인원은 동탑 로비에서 대기한다.
+()||<SE1>AVG_Walk</SE1>:때마침 네메아란이 중앙통제실로 들어왔고, 애슐리는 바로 자리에서 일어섰다.
+()||<SE1>Stop_AVG_loop</SE1>:모니터에는 서탑의 입체 구조도에 34개의 에너지 공급선을 나타내는 굵다란 선들이 구불구불 각 층을 통과해 35층으로 이어진 것이 비쳤다.
+NytoWhite(0)<Speaker>애슐리</Speaker>||:네메아란 언니, 서탑의 모든 생산 라인의 에너지 공급을 35층으로 돌렸습니다.+선로도 이미 개방되어, 요구 충전량 도달까지 120분 예상됩니다.
+()||:내메아란은 말없이 고개를 끄덕였다.+그리고 별다른 반응이 없자, 애슐리는 조심스레 눈치를 보며 살며시 입을 열었다.
+NytoWhite(0)<Speaker>애슐리</Speaker>||:다만... 34개의 에너지 공급선을 동시에 연결한다면 서탑 전체의 생산 라인에 과부하가 우려됩니다. 이후 정비하기가...
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:최단 시간은 얼마나 걸리지?
+()||:질의를 불허하는 차가운 목소리에, 애슐리는 목소리를 낮췄다.
+NytoWhite(0)<Speaker>애슐리</Speaker>||:최대 부하로 가동한다면... 30분 예상됩니다, 허나 그리 할 경우 생산 라인 전체가 완전히 망가질――
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:그리 해라.
+()||<SE1>AVG_21Winter_Click_Keyboard</SE1>:애슐리는 정신을 바짝 차리고, 바로 제어판에 다가가 버튼 몇 개를 눌렀다.
+()||<SE1>AVG_Shield_Startup</SE1>:그러자 화면 속 충전 진행도가 빠르게 상승했고, 에너지 파이프는 더욱 환하게 빛났다. 이윽고 서탑 35층은 마치 항성처럼 반짝였고, 과부하로 인한 진동음이 중앙통제실에까지 들릴 정도였다.
+()||:그렇게 시간은 조금씩 흘렀다.
+()<Speaker>시스템</Speaker>||<SE1>AVG_21Winter_Error</SE1>:<color=#FFFF00>경보. 7번 선로에 이상 발생.</color>
+()||<SE1>AVG_20Winter_Open_Light</SE1>:7층의 에너지 파이프가 어두워졌다.
+()<Speaker>시스템</Speaker>||<SE1>AVG_21Winter_Error</SE1>:<color=#FFFF00>경보. 16번 선로에 이상 발생.</color>
+()||<SE1>AVG_20Winter_Open_Light</SE1>:16층의 에너지 파이프도 어두워졌다.
+()<Speaker>시스템</Speaker>||<SE1>AVG_21Winter_Error</SE1>:<color=#FFFF00>경보――</color>
+()||<SE1>AVG_Button_Click</SE1>:애슐리는 경보기를 그냥 꺼버렸다.+네메아란은 차가운 시선으로 계속해서 불이 꺼지는 서탑의 파이프를 바라봤다.
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:틸, 서탑으로 오거라.
+NPC-grig(0)<通讯框><Speaker>틸</Speaker>||:<color=#00CCFF>예.</color>
+()||<SE1>AVG_tele_connect</SE1>:삐이...+네메아란이 통신을 받았다.
+NPC-William(0)<通讯框><Speaker>윌리엄?</Speaker>||:<color=#00CCFF>두 시간 더 연장해.</color>
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>;NPC-William(0)<通讯框>||:알겠습니다.
+NPC-Nemhran(0)<Position>0,30</Position>;NPC-William(0)<通讯框><Speaker>윌리엄?</Speaker>||:<color=#00CCFF>그리고... "지옥의 문지기"의 가동을 허락한다.</color>
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:...예.
+()||<SE1>AVG_tele_disconnect</SE1>:삐익.+통신 종료.
+()||:네메아란이 숨을 깊게 들이마셨다.
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:30분 후, "지옥의 문지기"를 가동하거라.
+NytoWhite(0)<Speaker>애슐리</Speaker>||:네.
+()||<黑屏1>:......

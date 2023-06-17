@@ -1,128 +1,128 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>313</BIN><黑屏2><BGM>BGM_Room</BGM>:주점 "미네르바의 부엉이".
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:딸랑딸랑.+낡은 괘종시계가 초인종 소리에 공명해 흔들렸다.
-NPC-Bodyguard2(0)<Speaker>경비원</Speaker>||:들어가십시오. 저희는 밖에 지키고 있겠습니다.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:부탁해요.
-()<Speaker></Speaker>||:경호원들의 배웅을 받으며, 길다 울릭은 낡은 술집으로 발을 내디뎠다.+넓다면 넓고 좁다면 좁은 이 술집에는 술의 알코올 냄새와 은은한 꽃향기가 만연했다.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:당신이 베를린에서 사업을 한다고는 들었지만... 술집일 줄은 생각도 못했군요.+당신의 이미지와는 좀 어울리지 않네요.
-()<Speaker></Speaker>||:홀의 중앙에 문을 등지고 앉은 남자가 있었다. 소리가 들리자 기품 있는 움직임으로 진한 향의 홍차를 내려놓곤, 고개를 돌려 울릭에게 미소를 지어 보였다.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:저는 그런 케케묵은 영국인이 아닙니다.+오히려, 이런 곳의 분위기를 좋아하죠.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:울릭은 훈작사가 내어 준 의자에 조용히 앉아, 부드러운 눈빛으로 그를 주시했다.
-NPC-Griffin(0)<Speaker>그리폰</Speaker>||:바쁘신 와중에 시간을 내어 주시어 감사드립니다, 울릭 여사.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:저야말로요. 시간이 많지 않으니 바로 본론으로 들어가도 되겠죠?+현상황에서, 당신의 방식은 너무 급진적이지 않을까요? 소련에서도 이에 대한 의견이 많다는 건 모르시지 않으리라 믿습니다.
-()<Speaker></Speaker>||:고풍스런 도자기 찻잔에 든 액체는 이물질도 없고 탁하지도 않은 맑은 차였다.+하지만, 울릭은 잔을 들지 않았다.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:저에게 이유 없는 행위는 없습니다. 그리고, 전부 명확한 목적이 있죠.+목표를 달성하려면 신뢰가 필요합니다.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:훈작사, 우리는 이미 충분한 신뢰를 보냈습니다.+하지만... 아직도 마땅한 보답을 받지 못했어요.+그 실종된 소련 요원은 당신의 명령을 받았다고 들었습니다만.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:...안젤리아 요원이 저의 명령에 불복했다는 것은 명백한 사실입니다. 명령을 따랐다면, 결코 지금 같은 처지가 되지 않았을 테지요.+그래도 안심하십시오, 울릭 여사. 저도 결코 이를 좌시하지 않을 것입니다.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:그러길 바라요.
-()<Speaker></Speaker>||:약간이나마 감정이 새어나온 것을 의식한 울릭은 눈을 감아 마음을 다스린 뒤, 앞에 놓인 찻잔을 들었다.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:...죄송해요, 제가 조금 흥분했습니다.+이 정도의 일로 당신에 대한 지지를 철회하진 않을 겁니다. 그래도 이 위업의 성패를 가르는 마지막 단계에 관련된 일이니, 우리의 우려를 이해해 주시길 바라요.
-NPC-Griffin(0)<Speaker>그리폰</Speaker>||:여부가 있겠습니까.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:그리고, 당신께 이래라저래라하는 건 아닙니다만... 적어도 슈바인슈타이거 장군에 관해서는 지금 뭘 하고 계시는 건지 꼭 알고 싶습니다.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:그 질문에 대답하기 전에, 조금 의외로군요. 여사라면 장군보단 오버슈타인 장관과 접촉한 일을 더 개의하실 것이라 생각했습니다만.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:오버슈타인은 독일 정치권의 핵심 구성원이자, 예전부터 배후에서 갈라테아 그룹을 지지하던 자입니다.+당신이 그와 접촉한 것은 이상할 것 없죠. 그는 우리의 위업을 위해 반드시 넘어야 하는 장애물이니까요.+하지만... 슈바인슈타이거 장군이 그리 중요한가요?
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:중요할 수도 있고, 중요치 않을 수도 있습니다.+그래서 한번 두드려보는 것이지요.+그의 의중은 주목할 만합니다.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:그저 그의 생각이 무엇인지 알아내려고 이렇게까지 했다고요?
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:그가 어째서 그쪽에 서기로 했는지가 궁금했습니다.
-()<Speaker></Speaker>||:그리폰은 빈 잔을 탁상에 내려놓고 숙연한 표정을 지었다.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:아니, 반드시 알아야 합니다. 알지 못하면, 우리가 아무리 힘을 모아도 우리의 상대를 이길 수 없습니다.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:...어째서죠?
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:우린 아직도 상대의 정체가 무엇인지 제대로 알지도 못하기 때문이죠.+아주 불확실하고 위험한 변수라 생각되지 않으십니까?
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:그 인물... 오버슈타인 장관이 아니란 말인가요?
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:저도 처음엔 그리 생각했습니다... 솔직히, 지금도 그가 아닐까 의심스럽습니다.+하지만 아직 의문점은 있죠. 제가 해석할 수 없는 의문점이. 그게 언젠가는 우리의 약점이 될지도 모를 일입니다.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:물론 리스크가 크다는 것은 압니다.+허나, 최후에 이 모든 것이 값어치를 하리라 저는 믿습니다.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:...놀랐어요, 훈작사. 당신이 그토록 멀리 바라보고 계실 줄은 몰랐습니다.+그렇죠... 적은 숨었는데 우리는 드러난 상황은, 아주 불안해요.+하지만 아무리 그렇다 하더라도, 당신의 수단 방법은 상식을 넘었다고 봅니다.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:정반대입니다, 울릭 여사.+저는 지금조차도 제 방식이 보수적이라 생각합니다.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:네?
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:믿기 힘드시겠지만, 시간은 사실상 이제 우리의 편이 아닙니다.
-()<Speaker></Speaker>||:그리폰은 잠깐 뜸을 들이고, 미세하게 고개를 저으며 말을 이었다.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:우리의 거의 모든 행동이, 그의 손바닥 안이었습니다. 앞으로 계속 우물쭈물하다간 결국 그가 짜 놓은 그물에 걸릴 뿐이겠죠.+판을 어지럽히고, 그것도 부족하다면 판을 뒤엎어서라도 그의 예측을 뛰어넘고 새로운 돌파구를 찾아야 합니다.+그러니, 현재로선 많이 부족합니다.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:그래도 중도파가 동요하기 전에 일을 끝내야만 해요.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:성공하지 못한다면, 이판사판이죠.
-NPC-Ambassador(0)<Speaker>울릭</Speaker>||:...알겠습니다.+당신이 맡기신 일을 처리해드리죠.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:진심으로 감사드리는 바입니다.
-()<Speaker></Speaker>||:울릭이 시계를 보곤 시간이 됐음을 눈짓했다.+그리고 단순 회견이었던 것처럼 자리에서 일어나, 작별을 고했다.
-()||<黑点1>:
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||<黑点2><BIN>313</BIN>:일어나거라.
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:잠시 후, 훈작사도 일어나 뒤를 향해 말했다.+그러자 그곳에 있던 인형이 눈을 떴다.
-KH2002(0)<Speaker>？？？</Speaker>||:KH2002, 명령 대기 중.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:자료와 물품은 전달했다. 그들을 찾아 연락시켜라.
-KH2002(0)<Speaker>？？？</Speaker>||:알겠습니다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>356</BIN><黑屏2><BGM>BGM_Empty</BGM>:베를린 교외의 오두막.
-()<Speaker></Speaker>||<BGM>BGM_Brain</BGM>:은신처 안에 모인 AR팀에게, UMP45가 한 정보 코드를 전송해 주었다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:이건 몰리도가 M4에게 처리당하기 전에 우리가 가로채는 데 성공한 정보 코드야.+나랑 M4가 연구해보긴 했는데, 몰리도가 이거 말고 보낸 게 있는지 여부도, 이게 무엇을 의미하는지도 아직 파악하지 못했어.
-()<Speaker>지휘관</Speaker>||:그래도 잘했어.
-AR15Mod(0)<Speaker>AR15</Speaker>||:몰리도가 뭐라고 했나요?
-AR15Mod(0)<Speaker>지휘관</Speaker>||:어느 시설의 위치를 말했어. "이아손의 상자"의 개발, 생산에 관계됐다고 해.+그리고... 통일절이 오기 전에 모든 문제를 해결하는 게 좋다고도 하더군.
-AR15Mod(0)<Speaker>AR15</Speaker>||:통일절?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:독일 최대의 국경일이지.+해마다 주최 도시를 선정해서, 아주 성대하게 축제를 열어. 모조리 날려버리는 계획을 실행하기엔 안성맞춤이야.
-AR15Mod(0)<Speaker>AR15</Speaker>||:그런 축제가 벌어지는 와중에 움직이려면 엄청 많은 인력이 필요해요.+지원 없이는 우린 아무것도 못할 거에요.
-()<Speaker>지휘관</Speaker>||:그래... 하지만, 그렇다고 아무것도 하지 않으면 수많은 사람들의 목숨이 위험해져.
-()<Speaker></Speaker>||:지휘관은 잠깐 머뭇했다.
-()<Speaker>지휘관</Speaker>||:...그래, 실질적으론 우리의 임무는 진작에 종결됐어.
-()<Speaker></Speaker>||:지휘관은 쉰 목청을 가다듬고 한데 모인 인형들을 바라봤다.
-()<Speaker>지휘관</Speaker>||:우리가 훈작사와 다시 연락이 닿을 때까지, 몰리도가 우리 손 안에 있으리란 보장은 없어.+우리도 그녀를 언제까지고 붙잡아둘 이유가 없고.
-()<Speaker>지휘관</Speaker>||:우리는 일개 PMC에 불과해. 명령 없이는 움직일 수 없지.+명령 없이는... 죽은 자의 원한을 풀어 줄 수조차도 없어.
-()<Speaker>지휘관</Speaker>||:그리폰 소대는 물론이고, 마흐리안, 그리고 생사불명인 안젤리아 씨까지.+이 원한을, 난 절대 내려놓지 않을 거야.
-()<Speaker></Speaker>||:지휘관은 무척 담담한 어조였다. 마치 자신과는 아무 상관도 없는 일을 설명하는 투였다.+하지만, 베를린에 온 직후부터 수많은 고비와 갈등, 싸움, 절망까지 겪었음에도, 신념만큼은 단 한 번도 꺾이지 않았다.
-()<Speaker>지휘관</Speaker>||:우리의 동료가 아직 여기에 있으니까. 그들을 위해서도, 가만 있기만 할 순 없어.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:와아, 훌륭한 연설이야 지휘관♪
-()<Speaker>지휘관</Speaker>||:45, 기지에 연락해서 헬리안 씨에게 지원이 필요하다 전해 줘.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:우릴 지원할 여유가 있기는 할까?
-()<Speaker>지휘관</Speaker>||:적어도 물어는 봐야지.+당장으로선 훈작사와 연락이 닿지 않는 상황이지만, 중요한 단서를 얻었는데 무시할 순 없어.+어쩌면 "그 인물"에게 한 걸음 더 다가갈 기회일지도 몰라.
-()<Speaker>지휘관</Speaker>||:그리고...
-()<Speaker></Speaker>||:지휘관이 다시 잠깐 뜸을 들였다.
-()<Speaker>지휘관</Speaker>||:...연락은 안 되지만, 안젤리아 씨는 분명 살아있을 거야.+우리가 움직인다면, 분명 아주 조금이라도 그녀에게 도움이 될 거라고 생각해.
-RO635Mod(2)<Speaker>RO635</Speaker>||:지휘관님...
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:그럼 바로 움직이죠.
-RO635Mod(0)<Speaker>RO635</Speaker>||:네, 지휘관님이 어떤 판단을 내리시더라도 저흰 믿고 따르겠습니다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:하지만 몰리도가 우리에게 사로잡혔단 걸 패러데우스도 알고 있는 이상 가만 있지 않을걸?+그년도 능력상 여태까지 겨우 이 정보 코드 한 줄만 보냈을 리가 없다고.
-()<Speaker></Speaker>||:AR-15가 UMP45의 어깨를 토닥이며 한숨을 내쉬었다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:지휘관, 몰리도가 제공한 위치에 가 보는 건 동의해요. 단, 조건이 있어요.+지휘관은 들어가지 마세요.
-NytoIsomer(13)<Speaker>M4A1</Speaker>||:저희가 몰리도와 함께 들어가겠습니다. 제가 있으니 걱정 마세요.
-RO635Mod(0)<Speaker>RO635</Speaker>||:또 지휘관님이 목숨이 위태로운 모험을 하시는 것엔 결사반대예요.
-()<Speaker>지휘관</Speaker>||:그래 알았어, 공장에 들어가진 않을게. 하지만 그렇다고 여기 남아있을 수도 없잖아.+404 소대와 함께 공장 입구에 대기할게, 그럼 됐지?
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>1</BIN><黑屏2>:몰리도에게 제공받은 위치의 패러데우스 기지.
-()<Speaker></Speaker>||:문 앞에 기기괴괴하게 자란 무성한 잡초를 헤치자 드러난 통로는 저 안쪽으로부터 코를 찌르는 쇠비린내가 풍겨왔다.+문자 그대로, 아주 오랫동안 방치된 것 같았다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:그 공장이랑 다를 바 없어보이는데.
-NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:왜, 우리 아웃테리어 스타일에 불만 있어?+알았어 알았어, 피드백을 수렴해서 다음엔 개선하도록 할게~
-AR15Mod(0)<Speaker>AR15</Speaker>||:흥, 아직도 네가 돌아갈 수 있을 거 같아?
-NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:누가 알아? 로빈이 나더러 그만 가도 좋다고 할지.+그쵸, 로빈~?
-()<Speaker></Speaker>||:AR-15는 아주 진절머리가 난다는 표정으로 몰리도의 등을 개머리판으로 쿡 밀었다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:앞장서.
-AR15Mod(0);NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:그럼 이거 풀어 줘.
-AR15Mod(0)<Speaker>AR15</Speaker>;NPC-Morridow(12)<Position>0,90</Position>||:말이 되는 소리를 해라? 움직여.
-AR15Mod(0);NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:로빈~ 살려 주세요~
-AR15Mod(0)<Speaker>AR15</Speaker>;NPC-Morridow(12)<Position>0,90</Position>||:이게 진짜... 넌 "이아손의 상자"를 찾아내서 우리한테 건네주면 그만이야.+도중에 아주 조금이라도 이상한 낌새가 나기라도 해 봐... 매복이 있다든지, 이아손의 상자가 가짜든지 하면...
-NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:그러니까 날 풀어 달라고.+보다시피 여긴 오래전 버려진 공장이고, 저 안엔 위험한 폐기물투성이야.+그래, 너희가 전에 봤던 "이아손의 상자"의 초기형도 있고 말이지.+꽁꽁 묶인 채로는 갈 수 없는 곳이 너무 많아서, 난 그냥 짐덩어리밖에 안 돼~
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:AR-15, 풀어 줘도 돼요.
-()<Speaker>지휘관</Speaker>||:M4가 조치했으니까 괜찮을 거야.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AR-15는 하는 수 없이 몰리도의 구속을 풀었다.
-()<Speaker>지휘관</Speaker>||:그래도 만약이란 게 있으니, 몰리도의 거동에 주의하렴.
-RO635Mod(0)<Speaker>RO635</Speaker>||:물론이죠. 그리고 M4 씨도 함께잖아요.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:네.
-()<Speaker>지휘관</Speaker>||:조심해.
-()<Speaker></Speaker>||:몰리도를 앞장 세우고서, AR팀은 다시 한번 폐공장의 시꺼먼 입 속으로 사라졌다.
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>229</BIN><BGM>BGM_Empty</BGM>:버려진 패러데우스 기지의 어느 통로.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<BGM>GF_21summer_battle_3</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여기는 UMP45. AR팀~? 잘 들려~?</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:통신 감도 양호.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>지난번 같은 상황이 또 발생하지 않도록, 이번엔 전원에게 위치 추적기와 내부 통신 장치를 달았어.</color>+<color=#00CCFF>만약 통신이 두절된다면 그 즉시 사전에 정한 경로로 움직여. 알았지?</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:확인했습니다.
-()<Speaker>지휘관</Speaker>||:<color=#00CCFF>그럼 작전 수고하고, 정기 연락 기다릴게.</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신을 종료하자마자, 잘만 걷던 몰리도가 갑자기 힘이 빠진 듯 벽을 짚었다. 이를 본 AR-15는 냉큼 총구로 몰리도의 머리를 찔렀다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:일어서, 아무것도 만지지 마.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:후우... 너도 몇십 시간 고문당해 봐, 나처럼 허약해지지.
-AR15Mod(0)<Speaker>AR15</Speaker>||:니토 주제에 인간 흉내내지 말지?
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:나도 원래는 인간이었거든? 다치기도 하고, 피로해지기도 하고...
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그 실랑이를 중재하듯, M4A1이 몰리도를 부축했다.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:가요.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아아~ 역시 지금 나한텐 니모겐밖에 없구나~
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>229</BIN>:공장의 다른 어딘가.
-()<Speaker></Speaker>||:하얀 니토들은 감히 소리를 낼 엄두도 못하고, 그저 가만히 서 있었다. 감시 카메라에 연결된 모니터가 몰리도의 모습을 또렷하게 비췄지만, 그레이의 명령 없이는 아무도 손가락 하나 움직일 생각도 하지 않았다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:그들이 곧 투기한 폐기물에 도달합니다.
-NPC-MrsGray(4)<Speaker>그레이</Speaker>||:에피타이저가 손님들 입맛에 맞는다면 좋겠구나.
-()||<黑点1><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>313</BIN><黑屏2><BGM>BGM_Room</BGM>:주점 "미네르바의 부엉이".
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:딸랑딸랑.+낡은 괘종시계가 초인종 소리에 공명해 흔들렸다.
+NPC-Bodyguard2(0)<Speaker>경비원</Speaker>||:들어가십시오. 저희는 밖에 지키고 있겠습니다.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:부탁해요.
+()<Speaker></Speaker>||:경호원들의 배웅을 받으며, 길다 울릭은 낡은 술집으로 발을 내디뎠다.+넓다면 넓고 좁다면 좁은 이 술집에는 술의 알코올 냄새와 은은한 꽃향기가 만연했다.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:당신이 베를린에서 사업을 한다고는 들었지만... 술집일 줄은 생각도 못했군요.+당신의 이미지와는 좀 어울리지 않네요.
+()<Speaker></Speaker>||:홀의 중앙에 문을 등지고 앉은 남자가 있었다. 소리가 들리자 기품 있는 움직임으로 진한 향의 홍차를 내려놓곤, 고개를 돌려 울릭에게 미소를 지어 보였다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:저는 그런 케케묵은 영국인이 아닙니다.+오히려, 이런 곳의 분위기를 좋아하죠.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:울릭은 훈작사가 내어 준 의자에 조용히 앉아, 부드러운 눈빛으로 그를 주시했다.
+NPC-Griffin(0)<Speaker>그리폰</Speaker>||:바쁘신 와중에 시간을 내어 주시어 감사드립니다, 울릭 여사.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:저야말로요. 시간이 많지 않으니 바로 본론으로 들어가도 되겠죠?+현상황에서, 당신의 방식은 너무 급진적이지 않을까요? 소련에서도 이에 대한 의견이 많다는 건 모르시지 않으리라 믿습니다.
+()<Speaker></Speaker>||:고풍스런 도자기 찻잔에 든 액체는 이물질도 없고 탁하지도 않은 맑은 차였다.+하지만, 울릭은 잔을 들지 않았다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:저에게 이유 없는 행위는 없습니다. 그리고, 전부 명확한 목적이 있죠.+목표를 달성하려면 신뢰가 필요합니다.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:훈작사, 우리는 이미 충분한 신뢰를 보냈습니다.+하지만... 아직도 마땅한 보답을 받지 못했어요.+그 실종된 소련 요원은 당신의 명령을 받았다고 들었습니다만.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:...안젤리아 요원이 저의 명령에 불복했다는 것은 명백한 사실입니다. 명령을 따랐다면, 결코 지금 같은 처지가 되지 않았을 테지요.+그래도 안심하십시오, 울릭 여사. 저도 결코 이를 좌시하지 않을 것입니다.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:그러길 바라요.
+()<Speaker></Speaker>||:약간이나마 감정이 새어나온 것을 의식한 울릭은 눈을 감아 마음을 다스린 뒤, 앞에 놓인 찻잔을 들었다.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:...죄송해요, 제가 조금 흥분했습니다.+이 정도의 일로 당신에 대한 지지를 철회하진 않을 겁니다. 그래도 이 위업의 성패를 가르는 마지막 단계에 관련된 일이니, 우리의 우려를 이해해 주시길 바라요.
+NPC-Griffin(0)<Speaker>그리폰</Speaker>||:여부가 있겠습니까.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:그리고, 당신께 이래라저래라하는 건 아닙니다만... 적어도 슈바인슈타이거 장군에 관해서는 지금 뭘 하고 계시는 건지 꼭 알고 싶습니다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:그 질문에 대답하기 전에, 조금 의외로군요. 여사라면 장군보단 오버슈타인 장관과 접촉한 일을 더 개의하실 것이라 생각했습니다만.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:오버슈타인은 독일 정치권의 핵심 구성원이자, 예전부터 배후에서 갈라테아 그룹을 지지하던 자입니다.+당신이 그와 접촉한 것은 이상할 것 없죠. 그는 우리의 위업을 위해 반드시 넘어야 하는 장애물이니까요.+하지만... 슈바인슈타이거 장군이 그리 중요한가요?
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:중요할 수도 있고, 중요치 않을 수도 있습니다.+그래서 한번 두드려보는 것이지요.+그의 의중은 주목할 만합니다.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:그저 그의 생각이 무엇인지 알아내려고 이렇게까지 했다고요?
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:그가 어째서 그쪽에 서기로 했는지가 궁금했습니다.
+()<Speaker></Speaker>||:그리폰은 빈 잔을 탁상에 내려놓고 숙연한 표정을 지었다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:아니, 반드시 알아야 합니다. 알지 못하면, 우리가 아무리 힘을 모아도 우리의 상대를 이길 수 없습니다.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:...어째서죠?
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:우린 아직도 상대의 정체가 무엇인지 제대로 알지도 못하기 때문이죠.+아주 불확실하고 위험한 변수라 생각되지 않으십니까?
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:그 인물... 오버슈타인 장관이 아니란 말인가요?
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:저도 처음엔 그리 생각했습니다... 솔직히, 지금도 그가 아닐까 의심스럽습니다.+하지만 아직 의문점은 있죠. 제가 해석할 수 없는 의문점이. 그게 언젠가는 우리의 약점이 될지도 모를 일입니다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:물론 리스크가 크다는 것은 압니다.+허나, 최후에 이 모든 것이 값어치를 하리라 저는 믿습니다.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:...놀랐어요, 훈작사. 당신이 그토록 멀리 바라보고 계실 줄은 몰랐습니다.+그렇죠... 적은 숨었는데 우리는 드러난 상황은, 아주 불안해요.+하지만 아무리 그렇다 하더라도, 당신의 수단 방법은 상식을 넘었다고 봅니다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:정반대입니다, 울릭 여사.+저는 지금조차도 제 방식이 보수적이라 생각합니다.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:네?
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:믿기 힘드시겠지만, 시간은 사실상 이제 우리의 편이 아닙니다.
+()<Speaker></Speaker>||:그리폰은 잠깐 뜸을 들이고, 미세하게 고개를 저으며 말을 이었다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:우리의 거의 모든 행동이, 그의 손바닥 안이었습니다. 앞으로 계속 우물쭈물하다간 결국 그가 짜 놓은 그물에 걸릴 뿐이겠죠.+판을 어지럽히고, 그것도 부족하다면 판을 뒤엎어서라도 그의 예측을 뛰어넘고 새로운 돌파구를 찾아야 합니다.+그러니, 현재로선 많이 부족합니다.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:그래도 중도파가 동요하기 전에 일을 끝내야만 해요.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:성공하지 못한다면, 이판사판이죠.
+NPC-Ambassador(0)<Speaker>울릭</Speaker>||:...알겠습니다.+당신이 맡기신 일을 처리해드리죠.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:진심으로 감사드리는 바입니다.
+()<Speaker></Speaker>||:울릭이 시계를 보곤 시간이 됐음을 눈짓했다.+그리고 단순 회견이었던 것처럼 자리에서 일어나, 작별을 고했다.
+()||<黑点1>:
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||<黑点2><BIN>313</BIN>:일어나거라.
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:잠시 후, 훈작사도 일어나 뒤를 향해 말했다.+그러자 그곳에 있던 인형이 눈을 떴다.
+KH2002(0)<Speaker>？？？</Speaker>||:KH2002, 명령 대기 중.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:자료와 물품은 전달했다. 그들을 찾아 연락시켜라.
+KH2002(0)<Speaker>？？？</Speaker>||:알겠습니다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>356</BIN><黑屏2><BGM>BGM_Empty</BGM>:베를린 교외의 오두막.
+()<Speaker></Speaker>||<BGM>BGM_Brain</BGM>:은신처 안에 모인 AR팀에게, UMP45가 한 정보 코드를 전송해 주었다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:이건 몰리도가 M4에게 처리당하기 전에 우리가 가로채는 데 성공한 정보 코드야.+나랑 M4가 연구해보긴 했는데, 몰리도가 이거 말고 보낸 게 있는지 여부도, 이게 무엇을 의미하는지도 아직 파악하지 못했어.
+()<Speaker>지휘관</Speaker>||:그래도 잘했어.
+AR15Mod(0)<Speaker>AR15</Speaker>||:몰리도가 뭐라고 했나요?
+AR15Mod(0)<Speaker>지휘관</Speaker>||:어느 시설의 위치를 말했어. "이아손의 상자"의 개발, 생산에 관계됐다고 해.+그리고... 통일절이 오기 전에 모든 문제를 해결하는 게 좋다고도 하더군.
+AR15Mod(0)<Speaker>AR15</Speaker>||:통일절?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:독일 최대의 국경일이지.+해마다 주최 도시를 선정해서, 아주 성대하게 축제를 열어. 모조리 날려버리는 계획을 실행하기엔 안성맞춤이야.
+AR15Mod(0)<Speaker>AR15</Speaker>||:그런 축제가 벌어지는 와중에 움직이려면 엄청 많은 인력이 필요해요.+지원 없이는 우린 아무것도 못할 거에요.
+()<Speaker>지휘관</Speaker>||:그래... 하지만, 그렇다고 아무것도 하지 않으면 수많은 사람들의 목숨이 위험해져.
+()<Speaker></Speaker>||:지휘관은 잠깐 머뭇했다.
+()<Speaker>지휘관</Speaker>||:...그래, 실질적으론 우리의 임무는 진작에 종결됐어.
+()<Speaker></Speaker>||:지휘관은 쉰 목청을 가다듬고 한데 모인 인형들을 바라봤다.
+()<Speaker>지휘관</Speaker>||:우리가 훈작사와 다시 연락이 닿을 때까지, 몰리도가 우리 손 안에 있으리란 보장은 없어.+우리도 그녀를 언제까지고 붙잡아둘 이유가 없고.
+()<Speaker>지휘관</Speaker>||:우리는 일개 PMC에 불과해. 명령 없이는 움직일 수 없지.+명령 없이는... 죽은 자의 원한을 풀어 줄 수조차도 없어.
+()<Speaker>지휘관</Speaker>||:그리폰 소대는 물론이고, 마흐리안, 그리고 생사불명인 안젤리아 씨까지.+이 원한을, 난 절대 내려놓지 않을 거야.
+()<Speaker></Speaker>||:지휘관은 무척 담담한 어조였다. 마치 자신과는 아무 상관도 없는 일을 설명하는 투였다.+하지만, 베를린에 온 직후부터 수많은 고비와 갈등, 싸움, 절망까지 겪었음에도, 신념만큼은 단 한 번도 꺾이지 않았다.
+()<Speaker>지휘관</Speaker>||:우리의 동료가 아직 여기에 있으니까. 그들을 위해서도, 가만 있기만 할 순 없어.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:와아, 훌륭한 연설이야 지휘관♪
+()<Speaker>지휘관</Speaker>||:45, 기지에 연락해서 헬리안 씨에게 지원이 필요하다 전해 줘.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:우릴 지원할 여유가 있기는 할까?
+()<Speaker>지휘관</Speaker>||:적어도 물어는 봐야지.+당장으로선 훈작사와 연락이 닿지 않는 상황이지만, 중요한 단서를 얻었는데 무시할 순 없어.+어쩌면 "그 인물"에게 한 걸음 더 다가갈 기회일지도 몰라.
+()<Speaker>지휘관</Speaker>||:그리고...
+()<Speaker></Speaker>||:지휘관이 다시 잠깐 뜸을 들였다.
+()<Speaker>지휘관</Speaker>||:...연락은 안 되지만, 안젤리아 씨는 분명 살아있을 거야.+우리가 움직인다면, 분명 아주 조금이라도 그녀에게 도움이 될 거라고 생각해.
+RO635Mod(2)<Speaker>RO635</Speaker>||:지휘관님...
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:그럼 바로 움직이죠.
+RO635Mod(0)<Speaker>RO635</Speaker>||:네, 지휘관님이 어떤 판단을 내리시더라도 저흰 믿고 따르겠습니다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:하지만 몰리도가 우리에게 사로잡혔단 걸 패러데우스도 알고 있는 이상 가만 있지 않을걸?+그년도 능력상 여태까지 겨우 이 정보 코드 한 줄만 보냈을 리가 없다고.
+()<Speaker></Speaker>||:AR-15가 UMP45의 어깨를 토닥이며 한숨을 내쉬었다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:지휘관, 몰리도가 제공한 위치에 가 보는 건 동의해요. 단, 조건이 있어요.+지휘관은 들어가지 마세요.
+NytoIsomer(13)<Speaker>M4A1</Speaker>||:저희가 몰리도와 함께 들어가겠습니다. 제가 있으니 걱정 마세요.
+RO635Mod(0)<Speaker>RO635</Speaker>||:또 지휘관님이 목숨이 위태로운 모험을 하시는 것엔 결사반대예요.
+()<Speaker>지휘관</Speaker>||:그래 알았어, 공장에 들어가진 않을게. 하지만 그렇다고 여기 남아있을 수도 없잖아.+404 소대와 함께 공장 입구에 대기할게, 그럼 됐지?
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>1</BIN><黑屏2>:몰리도에게 제공받은 위치의 패러데우스 기지.
+()<Speaker></Speaker>||:문 앞에 기기괴괴하게 자란 무성한 잡초를 헤치자 드러난 통로는 저 안쪽으로부터 코를 찌르는 쇠비린내가 풍겨왔다.+문자 그대로, 아주 오랫동안 방치된 것 같았다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:그 공장이랑 다를 바 없어보이는데.
+NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:왜, 우리 아웃테리어 스타일에 불만 있어?+알았어 알았어, 피드백을 수렴해서 다음엔 개선하도록 할게~
+AR15Mod(0)<Speaker>AR15</Speaker>||:흥, 아직도 네가 돌아갈 수 있을 거 같아?
+NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:누가 알아? 로빈이 나더러 그만 가도 좋다고 할지.+그쵸, 로빈~?
+()<Speaker></Speaker>||:AR-15는 아주 진절머리가 난다는 표정으로 몰리도의 등을 개머리판으로 쿡 밀었다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:앞장서.
+AR15Mod(0);NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:그럼 이거 풀어 줘.
+AR15Mod(0)<Speaker>AR15</Speaker>;NPC-Morridow(12)<Position>0,90</Position>||:말이 되는 소리를 해라? 움직여.
+AR15Mod(0);NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:로빈~ 살려 주세요~
+AR15Mod(0)<Speaker>AR15</Speaker>;NPC-Morridow(12)<Position>0,90</Position>||:이게 진짜... 넌 "이아손의 상자"를 찾아내서 우리한테 건네주면 그만이야.+도중에 아주 조금이라도 이상한 낌새가 나기라도 해 봐... 매복이 있다든지, 이아손의 상자가 가짜든지 하면...
+NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:그러니까 날 풀어 달라고.+보다시피 여긴 오래전 버려진 공장이고, 저 안엔 위험한 폐기물투성이야.+그래, 너희가 전에 봤던 "이아손의 상자"의 초기형도 있고 말이지.+꽁꽁 묶인 채로는 갈 수 없는 곳이 너무 많아서, 난 그냥 짐덩어리밖에 안 돼~
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:AR-15, 풀어 줘도 돼요.
+()<Speaker>지휘관</Speaker>||:M4가 조치했으니까 괜찮을 거야.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AR-15는 하는 수 없이 몰리도의 구속을 풀었다.
+()<Speaker>지휘관</Speaker>||:그래도 만약이란 게 있으니, 몰리도의 거동에 주의하렴.
+RO635Mod(0)<Speaker>RO635</Speaker>||:물론이죠. 그리고 M4 씨도 함께잖아요.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:네.
+()<Speaker>지휘관</Speaker>||:조심해.
+()<Speaker></Speaker>||:몰리도를 앞장 세우고서, AR팀은 다시 한번 폐공장의 시꺼먼 입 속으로 사라졌다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>229</BIN><BGM>BGM_Empty</BGM>:버려진 패러데우스 기지의 어느 통로.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<BGM>GF_21summer_battle_3</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여기는 UMP45. AR팀~? 잘 들려~?</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:통신 감도 양호.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>지난번 같은 상황이 또 발생하지 않도록, 이번엔 전원에게 위치 추적기와 내부 통신 장치를 달았어.</color>+<color=#00CCFF>만약 통신이 두절된다면 그 즉시 사전에 정한 경로로 움직여. 알았지?</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:확인했습니다.
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>그럼 작전 수고하고, 정기 연락 기다릴게.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신을 종료하자마자, 잘만 걷던 몰리도가 갑자기 힘이 빠진 듯 벽을 짚었다. 이를 본 AR-15는 냉큼 총구로 몰리도의 머리를 찔렀다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:일어서, 아무것도 만지지 마.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:후우... 너도 몇십 시간 고문당해 봐, 나처럼 허약해지지.
+AR15Mod(0)<Speaker>AR15</Speaker>||:니토 주제에 인간 흉내내지 말지?
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:나도 원래는 인간이었거든? 다치기도 하고, 피로해지기도 하고...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그 실랑이를 중재하듯, M4A1이 몰리도를 부축했다.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:가요.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아아~ 역시 지금 나한텐 니모겐밖에 없구나~
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>229</BIN>:공장의 다른 어딘가.
+()<Speaker></Speaker>||:하얀 니토들은 감히 소리를 낼 엄두도 못하고, 그저 가만히 서 있었다. 감시 카메라에 연결된 모니터가 몰리도의 모습을 또렷하게 비췄지만, 그레이의 명령 없이는 아무도 손가락 하나 움직일 생각도 하지 않았다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:그들이 곧 투기한 폐기물에 도달합니다.
+NPC-MrsGray(4)<Speaker>그레이</Speaker>||:에피타이저가 손님들 입맛에 맞는다면 좋겠구나.
+()||<黑点1><BIN>10</BIN>:

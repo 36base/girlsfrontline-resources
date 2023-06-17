@@ -1,68 +1,68 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker>인형</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Truth</BGM>:게파드!! 어서 도망쳐!!
-()<Speaker>게파드 M1</Speaker>||:자, 잠깐――
-()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:동료의 외침이 귓가에서 채 멀어지기도 전에, 포탄이 게파드 M1의 코앞에 떨어져 폭발했다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<睁眼><BIN>99</BIN><SE1>Heartbeat</SE1>:필사적이었던 동료의 얼굴은, 순식간에 불길에 집어삼켜졌다.
-GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position>||:아아... 아아아......!!
-()<Speaker></Speaker>||:목이 멨다. 총을 끌어안은 채로 얼어붙었다.+그녀는 전술인형이었다. 두려움을 느껴도 태연할 수 있어야 했다.+하지만 지금 이 순간, 그녀는 몸이 얼어붙었다.
-()<Speaker>？？？</Speaker>||<SE1>RunStep</SE1>:피해!!
-()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:또 한 발의 포탄이 게파드 M1을 향해 정확히 날아들었다. 그녀도 산산조각 난 동료의 뒤를 따를 뻔했지만, 엄폐물 뒤에서 튀어나온 그림자가 그녀를 참호 안으로 끌어당겼다.
-MLEMK1(0)<Speaker>리엔필드</Speaker><Position>0,50</Position>||:멍하니 뭐하고 있어!? 에러라도 난 거냐!
-GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position>||:아니... 나, 난 괜찮... 리엔필드?
-()<Speaker></Speaker>||:흙투성이인 리엔필드의 얼굴을 본 게파드 M1은 넋을 잃었다.+엘리트 중의 엘리트인 그녀가, 이렇게 엉망진창인 모습은 여태껏 본 적이 없었다.
-GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position>||:너... 너, 너 왜 여기 있어...?!
-MLEMK1(0)<Speaker>리엔필드</Speaker><Position>0,50</Position>||:스프링필드와 다른 생존자들과 함께 퇴각하던 중 적의 추격이 붙어 흩어져버렸다.+너희가 담당하던 17번 방어선의 상황은 어떻지?
-GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position>||:......나 혼자야.+후퇴할 때 놈들의 소대 하나한테 들켜서 포격을 받았어.+그래서...
-()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:콰앙!!!
-GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position><Shake>0.1</Shake>||:히익...!
-MLEMK1(0)<Speaker>리엔필드</Speaker><Position>0,50</Position>||:상황은 파악했다. 당장 총을 들어라, 병사.+퇴각한다.
-GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position>||:뭐... 뭐...? 퇴각해?
-()<Speaker></Speaker>||:게파드 M1은 어안이 벙벙한 얼굴로 리엔필드를 바라봤다.
-GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position>||:우리... 우리... 살아남을 수 있어...?
-MLEMK1(0)<Speaker>리엔필드</Speaker><Position>0,50</Position>||:...그건 장담 못하겠군. 하지만 적어도 아직은 살아있지.+"벽"까지 갈 수만 있다면, 지휘관과 합류할 수도 있을 거다.
-()<Speaker></Speaker>||:겁에 질린 게파드 M1을 격려하려는 듯, 리엔필드는 표정을 풀고 살짝 미소를 지었다.
-()||<黑屏1>:
-MLEMK1(0)<Speaker>리엔필드</Speaker><Position>0,50</Position>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:걱정 마라, 내가 널 지켜 줄 테니.
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>80</BIN><BGM>GF_Cafe</BGM>:그리폰 기지, 카페.
-M1903(10)<Speaker>스프링필드</Speaker>||:게파드 씨?
-GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:헉?! 아... 왜 그――
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Cheers</SE1>:한적한 카페에서 멍때리던 게파드 M1이, 스프링필드의 부름에 정신을 차리곤 움찔하다 앞의 커피잔을 엎질렀다.
-GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position><Shake>0.1</Shake>||:으아아 미안해!
-M1903(10)<Speaker>스프링필드</Speaker>||:괜찮아요, 제가 치울게요.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:스프링필드는 쓴웃음을 지으며 고개를 젓곤, 진작에 예상했다는 듯 허리춤에서 행주를 꺼내 매끄러운 테이블을 능숙하게 닦았다.+일을 만들어 미안한 게파드 M1은 의자를 뒤로 빼 스프링필드에게 자리르 비켜 주었다.
-M1903(10)<Speaker>스프링필드</Speaker>||:이런 일이야 카페에서는 자주 있는 일이에요. 너무 신경쓰지 말아요 게파드 씨.
-()<Speaker></Speaker>||<SE1>AVG_21Winter_Wash_Hands</SE1>:더러워진 행주를 싱크대에서 씻으면서, 스프링필드는 게파드 M1에게 싱긋 웃어보였다.
-M1903(10)<Speaker>스프링필드</Speaker>||:하지만, 아무리 저라도 무슨 일이든 가볍게 넘어가 주진 않는답니다?
-GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:으으... 미안해...
-M1903(10)<Speaker>스프링필드</Speaker>||:보아하니, 아직도 이유를 생각해내지 못했군요?
-()<Speaker></Speaker>||:스프링필드는 손에 쥔 편지 봉투를 깨끗이 닦은 테이블에 내려놓고 게파드 M1에게 밀었다.
-M1903(10)<Speaker>스프링필드</Speaker>||:그렇다면 이 퇴역 신청서는 받을 수 없어요.
-GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:......
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:그녀답지 않은 아주 진지한 목소리였지만, 스프링필드는 게파드 M1에게 다시 따끈한 커피 한 잔을 내어 주었다.+잔을 쥔 손으로 전해지는 따뜻함이, 게파드 M1를 조금이나마 안심시켰다.
-GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:...미안해. 하필이면 이런 때에 제멋대로라는 건 나도 알아.
-M1903(10)<Speaker>스프링필드</Speaker>||:......
-()<Speaker></Speaker>||:울적해하는 게파드 M1의 얼굴을 바라보며, 쟁반을 옆구리에 낀 스프링필드도 계속 진지한 표정을 유지했다.
-M1903(10)<Speaker>스프링필드</Speaker>||:제멋대로 굴지 말라는 말이 아니에요, 게파드 씨.+단지, 당신이 이유를 확실히 밝히지 않으니까죠.+이건 커피나 홍차 한 잔 달라는 수준의 일이 아니에요. 당신은 지금 그리폰을 떠나겠다는 거잖아요.
-GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:...응.
-M1903(10)<Speaker>스프링필드</Speaker>||:진심이세요?
-GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:......응.
-()<Speaker></Speaker>||:게파드 M1이 고개를 들어 스프링필드의 눈을 마주봤다.
-M1903(10)<Speaker>스프링필드</Speaker>||:하지만 이유를 말 못하고 있잖아요.+당신의 상급자로서, 이유도 듣지 못하는데 이 요구를 들어줄 수 없어요.+그리고 당신의 상급자이기 이전에 전 당신과 같은 전술인형이에요.+제게 이런 걸 수리할 자격은 없어요.
-GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:그럼 누굴 찾으면 돼?
-M1903(10)<Speaker>스프링필드</Speaker>||:...지금 기지에서 이런 사안을 결정할 수 있는 사람은 헬리안 씨뿐이겠네요.
-GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:......
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:게파드 M1은 코를 훌쩍이곤, 그 편지 봉투를 코트의 안주머니에 넣었다.+자신의 새 소체에 손이 닿자 말로 하기 어려운 낯선 느낌이 잔뜩 들었다.
-M1903(10)<Speaker>스프링필드</Speaker>||:게파드 씨, 이 일은 나중에 다시 얘기해요.+지금은 따로 부탁드리고 싶은 일이 많아요. 요즘 기지에 일손이 부족한 건 아시죠?
-GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>;M1903(10)||:그야 당연하지... 뭔데?
-GepardM1(8);M1903(10)<Speaker>스프링필드</Speaker>||:마침 헬리안 씨와도 관련이 있는 일이랍니다.+저는 당신의 의견을 존중해요. 대신, 이번 일이 끝난 다음에 다시 얘기하는 걸로 부탁해도 될까요? 그 특별한 날이 지난 다음에요.
-GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>;M1903(10)||:특별한 날?
-GepardM1(8);M1903(10)<Speaker>스프링필드</Speaker>||:곧 헬리안 씨의 그리폰 입사 10주년 기념일이거든요.+깜짝 파티를 열려고 하는데, 도와줄 사람을 급히 모집 중이에요.
-GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>;M1903(10)||:10년... 헬리안 씨가 그리폰에서 10년씩이나 일했다고?
-GepardM1(8);M1903(10)<Speaker>스프링필드</Speaker>||:그렇다니까요. 기지의 모두에게 기운을 북돋아 줄 이벤트가 될 거 같은데...+어때요?
-GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:......
-()<Speaker></Speaker>||:게파드 M1은 잠시 뜸을 들이며, 커피잔을 들어 한 모금 홀짝였다.
-GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:...알았어, 도와줄게.
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>인형</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Truth</BGM>:게파드!! 어서 도망쳐!!
+()<Speaker>게파드 M1</Speaker>||:자, 잠깐――
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:동료의 외침이 귓가에서 채 멀어지기도 전에, 포탄이 게파드 M1의 코앞에 떨어져 폭발했다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<睁眼><BIN>99</BIN><SE1>Heartbeat</SE1>:필사적이었던 동료의 얼굴은, 순식간에 불길에 집어삼켜졌다.
+GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position>||:아아... 아아아......!!
+()<Speaker></Speaker>||:목이 멨다. 총을 끌어안은 채로 얼어붙었다.+그녀는 전술인형이었다. 두려움을 느껴도 태연할 수 있어야 했다.+하지만 지금 이 순간, 그녀는 몸이 얼어붙었다.
+()<Speaker>？？？</Speaker>||<SE1>RunStep</SE1>:피해!!
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:또 한 발의 포탄이 게파드 M1을 향해 정확히 날아들었다. 그녀도 산산조각 난 동료의 뒤를 따를 뻔했지만, 엄폐물 뒤에서 튀어나온 그림자가 그녀를 참호 안으로 끌어당겼다.
+MLEMK1(0)<Speaker>리엔필드</Speaker><Position>0,50</Position>||:멍하니 뭐하고 있어!? 에러라도 난 거냐!
+GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position>||:아니... 나, 난 괜찮... 리엔필드?
+()<Speaker></Speaker>||:흙투성이인 리엔필드의 얼굴을 본 게파드 M1은 넋을 잃었다.+엘리트 중의 엘리트인 그녀가, 이렇게 엉망진창인 모습은 여태껏 본 적이 없었다.
+GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position>||:너... 너, 너 왜 여기 있어...?!
+MLEMK1(0)<Speaker>리엔필드</Speaker><Position>0,50</Position>||:스프링필드와 다른 생존자들과 함께 퇴각하던 중 적의 추격이 붙어 흩어져버렸다.+너희가 담당하던 17번 방어선의 상황은 어떻지?
+GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position>||:......나 혼자야.+후퇴할 때 놈들의 소대 하나한테 들켜서 포격을 받았어.+그래서...
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:콰앙!!!
+GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position><Shake>0.1</Shake>||:히익...!
+MLEMK1(0)<Speaker>리엔필드</Speaker><Position>0,50</Position>||:상황은 파악했다. 당장 총을 들어라, 병사.+퇴각한다.
+GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position>||:뭐... 뭐...? 퇴각해?
+()<Speaker></Speaker>||:게파드 M1은 어안이 벙벙한 얼굴로 리엔필드를 바라봤다.
+GepardM1(0)<Speaker>게파드 M1</Speaker><Position>0,150</Position>||:우리... 우리... 살아남을 수 있어...?
+MLEMK1(0)<Speaker>리엔필드</Speaker><Position>0,50</Position>||:...그건 장담 못하겠군. 하지만 적어도 아직은 살아있지.+"벽"까지 갈 수만 있다면, 지휘관과 합류할 수도 있을 거다.
+()<Speaker></Speaker>||:겁에 질린 게파드 M1을 격려하려는 듯, 리엔필드는 표정을 풀고 살짝 미소를 지었다.
+()||<黑屏1>:
+MLEMK1(0)<Speaker>리엔필드</Speaker><Position>0,50</Position>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:걱정 마라, 내가 널 지켜 줄 테니.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>80</BIN><BGM>GF_Cafe</BGM>:그리폰 기지, 카페.
+M1903(10)<Speaker>스프링필드</Speaker>||:게파드 씨?
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:헉?! 아... 왜 그――
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Cheers</SE1>:한적한 카페에서 멍때리던 게파드 M1이, 스프링필드의 부름에 정신을 차리곤 움찔하다 앞의 커피잔을 엎질렀다.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position><Shake>0.1</Shake>||:으아아 미안해!
+M1903(10)<Speaker>스프링필드</Speaker>||:괜찮아요, 제가 치울게요.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:스프링필드는 쓴웃음을 지으며 고개를 젓곤, 진작에 예상했다는 듯 허리춤에서 행주를 꺼내 매끄러운 테이블을 능숙하게 닦았다.+일을 만들어 미안한 게파드 M1은 의자를 뒤로 빼 스프링필드에게 자리르 비켜 주었다.
+M1903(10)<Speaker>스프링필드</Speaker>||:이런 일이야 카페에서는 자주 있는 일이에요. 너무 신경쓰지 말아요 게파드 씨.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Wash_Hands</SE1>:더러워진 행주를 싱크대에서 씻으면서, 스프링필드는 게파드 M1에게 싱긋 웃어보였다.
+M1903(10)<Speaker>스프링필드</Speaker>||:하지만, 아무리 저라도 무슨 일이든 가볍게 넘어가 주진 않는답니다?
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:으으... 미안해...
+M1903(10)<Speaker>스프링필드</Speaker>||:보아하니, 아직도 이유를 생각해내지 못했군요?
+()<Speaker></Speaker>||:스프링필드는 손에 쥔 편지 봉투를 깨끗이 닦은 테이블에 내려놓고 게파드 M1에게 밀었다.
+M1903(10)<Speaker>스프링필드</Speaker>||:그렇다면 이 퇴역 신청서는 받을 수 없어요.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:......
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:그녀답지 않은 아주 진지한 목소리였지만, 스프링필드는 게파드 M1에게 다시 따끈한 커피 한 잔을 내어 주었다.+잔을 쥔 손으로 전해지는 따뜻함이, 게파드 M1를 조금이나마 안심시켰다.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:...미안해. 하필이면 이런 때에 제멋대로라는 건 나도 알아.
+M1903(10)<Speaker>스프링필드</Speaker>||:......
+()<Speaker></Speaker>||:울적해하는 게파드 M1의 얼굴을 바라보며, 쟁반을 옆구리에 낀 스프링필드도 계속 진지한 표정을 유지했다.
+M1903(10)<Speaker>스프링필드</Speaker>||:제멋대로 굴지 말라는 말이 아니에요, 게파드 씨.+단지, 당신이 이유를 확실히 밝히지 않으니까죠.+이건 커피나 홍차 한 잔 달라는 수준의 일이 아니에요. 당신은 지금 그리폰을 떠나겠다는 거잖아요.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:...응.
+M1903(10)<Speaker>스프링필드</Speaker>||:진심이세요?
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:......응.
+()<Speaker></Speaker>||:게파드 M1이 고개를 들어 스프링필드의 눈을 마주봤다.
+M1903(10)<Speaker>스프링필드</Speaker>||:하지만 이유를 말 못하고 있잖아요.+당신의 상급자로서, 이유도 듣지 못하는데 이 요구를 들어줄 수 없어요.+그리고 당신의 상급자이기 이전에 전 당신과 같은 전술인형이에요.+제게 이런 걸 수리할 자격은 없어요.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:그럼 누굴 찾으면 돼?
+M1903(10)<Speaker>스프링필드</Speaker>||:...지금 기지에서 이런 사안을 결정할 수 있는 사람은 헬리안 씨뿐이겠네요.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:......
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:게파드 M1은 코를 훌쩍이곤, 그 편지 봉투를 코트의 안주머니에 넣었다.+자신의 새 소체에 손이 닿자 말로 하기 어려운 낯선 느낌이 잔뜩 들었다.
+M1903(10)<Speaker>스프링필드</Speaker>||:게파드 씨, 이 일은 나중에 다시 얘기해요.+지금은 따로 부탁드리고 싶은 일이 많아요. 요즘 기지에 일손이 부족한 건 아시죠?
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>;M1903(10)||:그야 당연하지... 뭔데?
+GepardM1(8);M1903(10)<Speaker>스프링필드</Speaker>||:마침 헬리안 씨와도 관련이 있는 일이랍니다.+저는 당신의 의견을 존중해요. 대신, 이번 일이 끝난 다음에 다시 얘기하는 걸로 부탁해도 될까요? 그 특별한 날이 지난 다음에요.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>;M1903(10)||:특별한 날?
+GepardM1(8);M1903(10)<Speaker>스프링필드</Speaker>||:곧 헬리안 씨의 그리폰 입사 10주년 기념일이거든요.+깜짝 파티를 열려고 하는데, 도와줄 사람을 급히 모집 중이에요.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>;M1903(10)||:10년... 헬리안 씨가 그리폰에서 10년씩이나 일했다고?
+GepardM1(8);M1903(10)<Speaker>스프링필드</Speaker>||:그렇다니까요. 기지의 모두에게 기운을 북돋아 줄 이벤트가 될 거 같은데...+어때요?
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:......
+()<Speaker></Speaker>||:게파드 M1은 잠시 뜸을 들이며, 커피잔을 들어 한 모금 홀짝였다.
+GepardM1(8)<Speaker>게파드 M1</Speaker><Position>0,-60</Position>||:...알았어, 도와줄게.
+()||<黑屏1>:

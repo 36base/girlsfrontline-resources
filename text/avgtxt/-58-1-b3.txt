@@ -1,0 +1,221 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>98</BIN><黑屏2><SE1>Battlefield</SE1><SE2>Gunfight</SE2><BGM>Campaion-58-3</BGM>:레드존 외곽, 3소대 임시 지휘소.+눈이 닿는 곳에서는 사람이랄 만한 것은 거의 안 보였지만, 끝없이 울려 퍼지는 총성이 아직 전투가 계속되고 있음을 사방에 알렸다.+다만 갱지 안에서 파괴되어 검은 연기를 모락모락 피우는 수송 차량 3대가, 전투의 성과를 나타냈다.
+NPC-Pan(0)<Speaker>2분대장 판</Speaker><Position>0,60</Position>||:와 씨, 우리가 진짜 양키놈들을 막아낸 거야? 이런 수적 열세로?+이거야 원, 나중에 장편의 시를 써서 기록으로 남겨야겠구만!
+NPC-Ange(28)<Speaker>안나</Speaker>||:작전이란 게 그리 어렵지는 않아. 앞으로 내가 천천히 가르쳐 줄게.
+NPC-Pan(0)<Speaker>2분대장 판</Speaker><Position>0,60</Position>||:정말 대단하십니다 소대장님! 평생 따르겠습니다!
+NPC-Ange(28)<Speaker>안나</Speaker>||:각 분대, 현위치서 5분 휴식 후 재정비하고 지휘부의 지시를 기다린다.
+NPC-Pan(0)<Speaker>2분대장 판</Speaker><Position>0,60</Position>||:예!
+()<Speaker></Speaker>||:그때, 무언가가 하늘을 가로지르며 3소대의 진지로 날아들었다.
+NPC-Ange(29)<Speaker>안나</Speaker>||<SE1>AVG_Explosion</SE1><震屏3>:<size=50>엎드려!!!</size>
+()<Speaker></Speaker>||<BIN>183</BIN><SE1>AVG_Cloak_Whoosh</SE1>:안나가 가장 가까운 알렉산더를 붙잡아 넘어뜨리며 엎드리는 거의 동시에, 강력한 충격파가 진지를 휩쓸었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:온세상이 뒤집히며 깜빡였고, 초록색 결정 가루가 섞인 진흙이 비린내를 흩뿌리며 쏟아졌다.+누가 무어라 소리를 지르는 것 같기도 하고, 익숙한 모습이 눈에 보이는 것 같다가... 어둠에 잠겼다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>632</BIN><黑屏2><回忆>:어딘가의 사관 학교.+4층 복도엔 수많은 세계 유명인의 초상화가 걸려 있었다.+그중 오른쪽 끝에서 다섯 번째는 과학자, 마사 마이트너였다. "유적기술 연구에 혁신적인 성과를 올림."
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:조용해야 할 점심 시간이건만, 안나는 복도를 지나던 중 스프레이 소리를 들었다.
+NPC-Ange(23)<Speaker>안나</Speaker>||:음?
+()<Speaker>늘씬한 몸집의 남학도</Speaker>||:미국인은 우리 학교에 걸릴 자격 없다!
+()<Speaker>왜소하고 퉁퉁한 남학도</Speaker>||:양키는 소련에서 꺼져라!
+NPC-Ange(24)<Speaker>안나</Speaker>||<BGM>BGM_23S_Crossroads_Warrior</BGM>:<size=50>지금 뭐하는 거야!</size>
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><震屏3>:안나는 한걸음에 달려가 두 사람을 밀쳐냈다.+마사의 초상화는 눈에 검은 줄이 그어졌고, 머리 위엔 이미 온갖 육두문자가 쓰여진 상태였다.
+NPC-Ange(24)<Speaker>안나</Speaker>||:<size=50>이 자식들!!!</size>
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:성난 안나는 상대의 얼굴에 주먹을 꽂았다.+갑작스런 공격에 남학도들은 잠깐 당황하다, 이내 반격에 나서 셋은 한데 뒤엉켜 싸워댔다.
+()<Speaker></Speaker>||<SE1>AVG_Combat_Hits</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=5</controll_shake>:안나가 이를 악물고 주먹 몇 대를 견뎌내곤 맹공을 퍼붓는 통에 두 남학도들은 머리를 감싸기까지 하며 뒤로 물러났고, 활활 타오르는 저 두 눈을 향해 영문을 모르겠다는 듯 항의했다.
+()<Speaker>늘씬한 몸집의 남학도</Speaker>||:양키 초상화에 낙서했다고 지금 학우를 패는 거야?
+NPC-Ange(23)<Speaker>안나</Speaker>||:전장에 나설 배짱도 없어서 초상화에다 화풀이하는 겁쟁이들을 패는 거다!
+()<Speaker>늘씬한 몸집의 남학도</Speaker>||:뭐래 XX, 난 당장에라도 전선 나가서 양키 새끼들 모가지 딸 수 있거든!?
+()<Speaker></Speaker>||:언제라도 다시 뒤엉켜 주먹질할 기세였지만, 남학도가 곁눈질로 반대편에서 나타난 그림자를 보고 기겁했다.
+()<Speaker>왜소하고 퉁퉁한 남학도</Speaker>||:라, 람잔 교관님?!
+()<Speaker>늘씬한 몸집의 남학도</Speaker>||:젠장... 교관 동생이라 차암 좋겠다!
+()<Speaker>왜소하고 퉁퉁한 남학도</Speaker>||:......
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:두 남학도들은 바람처럼 복도 끝으로 사라졌다.+그리고 그 반대편 끝에서는, 교관 람잔이 조용히 호수처럼 잔잔한 눈빛으로 안나를 바라보고 있었다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>630</BIN><SE1>ClothingUp</SE1>:안나는 이를 아는지 모르는지, 아직도 성질을 부리며 피 섞인 침을 뱉고 몸에 묻은 먼지를 털었다.+우람한 체격의 교관이 천천히 걸어왔다.
+()<Speaker>안나</Speaker>||:다 봤어?
+()<Speaker>람잔</Speaker>||:넌 왜 아직도 술 취한 고릴라가 주먹 휘두르는 것처럼 싸우냐.
+()<Speaker>안나</Speaker>||:하... 실전 과목 교관님 얼굴에 먹칠을 해서 미안하게 됐네요.
+()<Speaker></Speaker>||:안나는 눈길도 안 주고 발길을 돌렸다.
+()||<黑点1><SE1>ClothingUp</SE1>:
+()<Speaker>람잔</Speaker>||<黑点2><BIN>631</BIN>:멈춰.
+()<Speaker></Speaker>||:안나는 들은 척도 안 하고 계속 발을 내디뎠다.
+()<Speaker>람잔</Speaker>||:<size=50>안나 빅토로브나 최!</size>
+()<Speaker>안나</Speaker>||:왜. 훈련생의 격투술이 엉망이라 교관님이 직접 시간 내서 지도해 주려고? 여기서?
+()<Speaker>람잔</Speaker>||:저 초상화 떼어내라, 마사 마이트너 거.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그제서야 안나가 고개를 홱 돌려 람잔을 똑바로 바라봤다.
+()<Speaker>안나</Speaker>||:네가 그러고도 인간이야!?
+()<Speaker>람잔</Speaker>||:의심할 여지 없는 소련인이지.+그러는 너는?
+()<Speaker>안나</Speaker>||:무슨 소련인, 학교 안에 쭈그려 앉아서 초상화에나 대고 잘난 척하는 소련인?
+()<Speaker>람잔</Speaker>||:저년은 유적기술을 연구하는 미국인이다. 넌 어느 나라 사람이지?
+()<Speaker>안나</Speaker>||:내가 너한테 증명할 의무는 없는데.
+()<Speaker>람잔</Speaker>||:너 자신에게 증명할 의무는 있지.+이걸 떼던가, 그걸 떼.
+()<Speaker></Speaker>||:람잔은 초상화와 안나의 학교 완장을 번갈아 가리켰다.
+()<Speaker>안나</Speaker>||:네가 무슨 권한으로!
+()<Speaker>람잔</Speaker>||:자신이 어느 편인지도 분간 못하는 반푼이를 전장에 내보낼 순 없다.
+()<Speaker>안나</Speaker>||:모르는 건 너지!
+()<Speaker>람잔</Speaker>||:뗄 거야? 안 뗄 거야?
+()<Speaker>안나</Speaker>||:그래... 그렇게 날 전장에 보내기 싫으시다 이거지?
+()<Speaker></Speaker>||:람잔은 말 대신 차가운 눈초리만 보냈다.
+()<Speaker>안나</Speaker>||:내가 너보다 출세할까 봐 무섭냐? 어!?+예전부터 그랬어! 베슬란에서도――
+()<Speaker>람잔</Speaker>||:네가 무슨 자격으로 베슬란을 들먹여!+왜 형은 죽고 너는 살아남았냐고!+왜 네가 아니라 형이 죽어야만 했――
+()<Speaker>람잔</Speaker>||:......칫...
+()<Speaker>안나</Speaker>||<SE1>AVG_Creep</SE1>:......!!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>Heartbeat</SE1>:......
+()<Speaker></Speaker>||:
+()||<黑屏1>:
+()<Speaker></Speaker>||<关闭蒙版><睁眼><BGM>BGM_Empty</BGM><SE1>AVG_Creep</SE1><BIN>98</BIN><SE1>AVG_Tinnitus</SE1>:정신이 들었을 때, 안나는 머리에 보드카 한 병이 꽂힌 듯 어지러운 가운데에도 누가 자신을 질질 끌고 가는 게 느껴졌다.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||<BGM>BGM_23S_War_Sacrifice</BGM>:<size=50>소대장님! 정신 차리십쇼!</size>
+NPC-Ange(29)<Speaker>안나</Speaker>||:너어... 계급장 뺏으려고 날 흔들어 죽일 셈이냐...
+()<Speaker></Speaker>||:부웅부웅 울리는 머리를 부여잡고 헛구역질했지만, 아무것도 올라오지 않았다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:소대장이 정신을 차리자, 알렉산더를 그녀를 놓고 "포도당"이라 적힌 링거 팩을 건넸다.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:드십시오.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:안나는 그걸 받아 포장을 뜯어 천천히 마셨다.
+()<Speaker></Speaker>||:3소대 병사들은 앉거나 누운 채로 주위에 널브러져 있었고, 의료 인형 한 명이 그들 사이에서 응급처치를 하고 있었다.
+()<Speaker></Speaker>||<SE1>AVG_Camera_Focus</SE1>:윅토르와 다른 병사 한 명은 서로 등을 기대고 앉아, 손 안의 통신 장비를 만지작거렸다.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:람잔 대위님이 도착해서 인형 부대를 지휘 중이십니다.+저 의료 인형 좀 보십쇼, 완전 미인 아닙니까? 하하하, 판이 봤으면 바로... 작업 걸었을 텐데...
+()<Speaker></Speaker>||:사나이 알렉산더가 갑자기 울컥하며 말꼬리를 흐렸다.
+NPC-Ange(30)<Speaker>안나</Speaker>||:판은...?
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:양키 새끼들, 후퇴하면서 박격포를 네 발이나 갈겼습니다.+그중 한 발이 2분대의 진지에, 판이 있던 그 자리에 떨어져서...
+NPC-Ange(29)<Speaker>안나</Speaker>||:...몇 명 죽었어?
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:...사망자 4명, 부상자 4명입니다.
+NPC-Ange(31)<Speaker>안나</Speaker>||:......
+()<Speaker></Speaker>||:누운 채 신음하는 부상자들, 총을 껴안고 앉은 채 하늘만 바라보는 병사들...+알렉산더도 머릿속이 찌잉 울리면서도 텅 빈 느낌이었다.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:허구한 날 지가 카사노바네 뭐네 허풍이나 치고, 소름 돋게 못 쓰는 시나 자랑하면서 지가 무슨 21세기의 푸시킨이라 떠들어 대던 놈이...
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:이게 다 위에서 내려온 명령이라 따라야 한다는 건 이해합니다만... 그래도... 그래도...
+()<Speaker></Speaker>||:알렉산더는 숨을 잔뜩 마시고, 떨리는 목소리를 삼키며 고개를 돌렸다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그런 그에게, 안나는 어깨를 토닥여 줄 수밖에 없었다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:네가 3소대 최고참에, 유일한 자진입대자랬던가... 왜 입대했어?
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:아무것도 안 남아서요.+가족도, 친구도, 애인도...+적어도 나라까지 버릴 순 없잖습니까...+사실 그렇게 고상한 이유도 아니고, 그냥 군대 말곤 갈 데가 없었어서 말뚝 박았습니다.
+()<Speaker></Speaker>||:아무렇지 않다는 듯, 점심이나 날씨 이야기하듯 툭 내뱉었지만, 그의 목소리는 떨리는 것을 애써 억누르는 티가 났다.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:제 얘기는 됐고... 소대장님은요?+장군 되겠다는 농담 말고 말입니다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:솔직하게 말해 줘?
+()<Speaker></Speaker>||<SE1>Rope</SE1>:안나는 포도당액의 마지막 한 모금을 마시고 말을 이었다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:난 말이다... 전쟁을 끝내고 싶어.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>;NPC-Ange(29)||:...그런 말 하는 사람은 많이 봤습니다.
+NPC-Alexander(0)<Position>0,60</Position>;NPC-Ange(29)<Speaker>안나</Speaker>||:그리고?
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>;NPC-Ange(29)||:다 죽었죠.+빌어먹을 전쟁은 보다시피고요.
+NPC-Alexander(0)<Position>0,60</Position>;NPC-Ange(29)<Speaker>안나</Speaker>||:......+뭣 좀 물어보자.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>;NPC-Ange(29)||:말씀하십쇼.
+NPC-Alexander(0)<Position>0,60</Position>;NPC-Ange(29)<Speaker>안나</Speaker>||:삶이 결국 덧없을 운명이라면, 몸부림에 무슨 의미가 있을까?
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:...제 생각엔――
+NPC-Wiktor(0)<Speaker>1분대장 윅토르</Speaker><Position>0,60</Position>||<BGM>BGM_Empty</BGM><SE1>ClothingUp</SE1>:<size=50>그 무전 신호 또 포착했습니다!</size>
+()<Speaker></Speaker>||<BGM>BGM_23SF_zonghe_1</BGM>:윅토르가 알렉산더의 말을 끊었다.
+NPC-Wiktor(0)<Speaker>1분대장 윅토르</Speaker><Position>0,60</Position>||:레인저 놈들 이 주변에 있는 게 틀림없어요, 이거 레드존으로 진입한 거 아닙니까?
+()<Speaker></Speaker>||:달랑 한 대 남은 소형 통신기를 품에 안은 윅토르는 흥분해서 안나를 바라봤다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:안나는 눈빛으로 알렉산더에게 설명을 요구했다.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:암호 해독 못한다면서?
+NPC-Wiktor(0)<Speaker>1분대장 윅토르</Speaker><Position>0,60</Position>||:우리 설비론 안 돼도 저 인형들은 되겠죠!+전술인형한텐 온갖 기능이 달렸다잖습니까, 전투는 물론이고 컴퓨터처럼 쓸 수 있다고요. 부대한테 잘 말해서 한두 대 빌릴 수 있지 않을까요?
+NPC-Ange(29)<Speaker>안나</Speaker>||:저쪽은 정예 부대야, 우리가 뭔 수로 손을 벌려?
+NPC-Wiktor(0)<Speaker>1분대장 윅토르</Speaker><Position>0,60</Position>||:그치만 저쪽 대위는 소대장님의――
+NPC-Wiktor(0)<Speaker>1분대장 윅토르</Speaker><Position>0,60</Position><Shake>0.1</Shake>||<SE1>AVG_Punch</SE1>:<size=50>꾸와악!</size>
+()<Speaker></Speaker>||:알렉산더의 로우킥을 정통으로 얻어맞은 윅토르는 한 팔로는 통신기를, 다른 손으로는 정강이를 부여잡고 깽깽이발로 방방 뛰었다.
+NPC-Ange(31)<Speaker>안나</Speaker>||:어우 현기증 나...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:안나는 바위에 기대고 눈을 감았다.+알렉산더도 어깨를 으쓱하자, 윅토르는 인상을 구긴 채 절뚝이며 원래 자리로 돌아갔다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><SE1>AVG_wind_grass</SE1>:불어오는 후덥지근 바람은 여전히 끈적해, 땀과 흙탕물에 절은 방호복은 홀딱 젖은 우비처럼 살갗에 들러붙었다.+안나는 더 말하지 않고, 그저 눈을 감은 채 손가락으로 무릎을 툭툭 두드렸다.+알렉산더도 입을 다물었지만, 결국 참지 못했다.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:...두 분, 싸웠습니까?
+NPC-Ange(31)<Speaker>안나</Speaker>||:쓸데없는 거 묻지 마라...
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:가족끼리 싸우는 건 좋은 일입니다.+마티나가 아직 살아있었으면, 맨날 저한테 투정 부려도 다 받아 줬을 겁니다.
+NPC-Ange(28)<Speaker>안나</Speaker>||:만약이라...+너 말하는 게 진짜 가족이 전부라고 설교하는 할망구 같다.
+()<Speaker></Speaker>||:알렉산더가 대꾸하려던 그때 윅토르가 똥 씹은 표정으로 다시 걸어왔고, 그 소리에 안나도 눈을 떴다.
+NPC-Wiktor(0)<Speaker>1분대장 윅토르</Speaker><Position>0,60</Position>||:소대장님, 대위님께 말해봤는데, 저는 무시하고, 소대장님이 직접 오랍니다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:아놔!
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:제가 대신 갈까요?
+NPC-Ange(29)<Speaker>안나</Speaker>||:욕을 사서 먹게?
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:인형을 빌릴 수만 있다면 얼마든지요.+공적은 길바닥에 굴러다니지 않는다셨잖습니까.
+NPC-Wiktor(0)<Speaker>1분대장 윅토르</Speaker><Position>0,60</Position>||:어떡할까요...?
+()<Speaker></Speaker>||<SE1>Heartbeat</SE1><BGM>BGM_Empty</BGM>:안나가 무거운 표정으로 일어섰다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:너흰 여기서 기다려, 나 혼자 갔다 온다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>469</BIN><BGM>GF_2022_Summer_Battle_3</BGM>:잠시 후, 임시 지휘소.+안나가 도착했을 때, 람잔은 차가운 표정으로 한 인형에게 무어라 말하는 중이었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:안나는 무덤덤한 표정으로 다가가, 형식적으로 경례를 했다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:대위.
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||:――그리고 KS-23와 함께 레드존 입구 쪽으로 가서 인근 지형을 스캔하도록.+생명 반응 포착 시 자체적으로 피아식별 후 발포를 허가한다.+아군 통신 채널과 두절될 시 오프라인으로 데이터를 저장하고, 즉시 집결 장소로 복귀해 정보를 공유해.
+SVT38(0)<Speaker>SVT-38</Speaker>||:예, 지휘관.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:명령을 하달받은 전술인형은 그대로 나가려 했다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:잠깐.
+SVT38(0)<Speaker>SVT-38</Speaker>||:소위님?
+NPC-Ange(29)<Speaker>안나</Speaker>||:대위――
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||:최 소위, 저지 임무 협력에 감사한다. 후속 정찰 임무는 전술인형 부대가 이어서 완수하겠다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:레드존 외부 지형은 3소대가 이미 정찰 및 스캔을 완료했습니다.+데이터 공유 가능합니다만, 조건이 있습니다.
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||:인형을 빌려 적의 암호 통신을 해독하겠단 거지?+안나, 적 정찰 임무의 최우선 사항이 무엇이지?
+NPC-Ange(29)<Speaker>안나</Speaker>||:기도비닉 유지――+아오 씨 이젠 교관도 아닌데 그딴 말투 하지 마.
+()<Speaker></Speaker>||:안나는 반사적으로 대답하다 성질을 내며 비아냥댔다.
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||:적의 암호를 해독하다 아군의 위치가 노출될 가능성은 생각 안 했어?
+NPC-Ange(29)<Speaker>안나</Speaker>||:아무것도 안 하다 중요한 정보를 놓쳐서 전략에 차질이 빚어지는 것보단 낫겠지.
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||:나가.
+NPC-Ange(29)<Speaker>안나</Speaker>||:얼씨구 바로 쫒아내시겠다? 그래 내가 더러워서――
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||:너 말고!+너, 나가.
+()<Speaker></Speaker>||:SVT-38가 잠깐 얼을 탔다가 바로 뒤돌아 나갔다.
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||:안나, 우리의 임무는 미군의 증원을 저지하는 거야. 그리고 임무는 완수했어.
+NPC-Ange(29)<Speaker>안나</Speaker>;NPC-Pamzan(4)||:"사형수"는 냅두게? 그놈은 바로 저기, "죽음의 바다"에 있어. 레인저가 언제 놈을 잡아갈지 모른다고.
+NPC-Ange(29);NPC-Pamzan(4)<Speaker>람잔</Speaker>||:그건 본대의 임무지, 우리가 신경쓸 게 아니야.
+NPC-Ange(29)<Speaker>안나</Speaker>;NPC-Pamzan(4)||:왜 내빼는데, 나랑 내 3소대가 네 공적 뺏어갈까 겁나?
+NPC-Ange(29);NPC-Pamzan(4)<Speaker>람잔</Speaker>||:공적을 통장에 든 현금으로 친다면 너한테 10년을 줘도 내 이자도 못 모을 거다.+잘 들어, 임무 외에는 건들지 마. 괜히 건드렸다간 전황 자체에 영향을 줄 수 있어.
+NPC-Ange(29)<Speaker>안나</Speaker>;NPC-Pamzan(4)||<SE1>Rope</SE1>:뭐? 내가 잘못 들었나? 나더러 소극적으로 대응하라고? <size=50>네가?</size>
+NPC-Ange(29);NPC-Pamzan(4)<Speaker>람잔</Speaker>||:불필요한 행동은 사상자를 늘릴 뿐이야. 지금 네 3소대에 몇 명 남았지?
+NPC-Ange(29)<Speaker>안나</Speaker>||:필요한 행동을 안 해도 돌이킬 수 없는 손실이 생긴단 건 모르고? 대위, 이 점에 관해서는 내가 너보다 발언권 높아.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:그 말을 들은 람잔의 눈빛은 한층 더 얼어붙었다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:잠깐의 대치 후, 람잔이 먼저 눈을 감고 미간을 문질렀다. 인상을 쓰는 그의 눈두덩이엔 다크서클이 진하게 두드러졌다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:내가 지금 뭘 하고 있는지는 알아.+하지만 외줄타기든 순탄한 길이든 가시밭 길이든, 난 기어서라도 나아가야만 해.
+NPC-Ange(29)<Speaker>안나</Speaker>||:그날 이후로 난 물러설 곳이 없어졌다고.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>72</BIN><BGM>Campaion-58-3</BGM>:......
+()<Speaker>？？</Speaker>||:<color=#00CCFF>교수님 오래 못 기다리신다, 더 빨리 움직여.</color>
+()<Speaker>？？？</Speaker>||:<color=#00CCFF>9번대 차량 2대, 적재 완료. 곧 복귀하겠다.</color>
+()<Speaker>？？？</Speaker>||:<color=#00CCFF>6번대는 계속 수색 중, 아직까지 재료 발견 못함.</color>
+()<Speaker>？？？？</Speaker>||:<color=#00CCFF>7번대, 현재 복귀 중.</color>
+()<Speaker>？？</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>일 지체시키면 당장 네가 재료실행이라는 거 명심해라.</color>+<color=#00CCFF>무조건 11시 22분 전에 도착해 재료 초기 선별과 재적을 완료하고, 11시 30분 정각에 전원 철수한다.</color>
+()<Speaker>？？？</Speaker>||:<color=#00CCFF>라저.</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>469</BIN>:임시 지휘소.
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:연산력을 집중하는 두 인형들의 눈동자 속으로 데이터의 홍수가 흘렀다.+그리고 이를 통해 적의 통신을 감청하는 데 성공한 안나와 람잔은 각자 머리를 굴렸다.
+NPC-Wiktor(0)<Speaker>1분대장 윅토르</Speaker><Position>0,60</Position>||:저거 뭐라는 거야...?
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:묻지 마, 나도 영어는 단어 몇 개밖에 몰라.
+NPC-Ange(29)<Speaker>안나</Speaker>||:조용.
+()<Speaker></Speaker>||:람잔은 미간을 찌푸리고 수시로 지도를 훑었다.
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||:어딘가의 정규군일까, 고용된 용병일까...
+NPC-Ange(29)<Speaker>안나</Speaker>||:"교수"? "재료"란 건 또 뭐지?
+()<Speaker></Speaker>||:안나와 람잔은 잠깐 시선을 교환하고 감청을 계속했다.
+()<Speaker>？？？</Speaker>||:<color=#00CCFF>그나저나, 미국은 아주 불붙은 화약통 아니었어? 내전 터지기 직전이던데 여기까지 쳐들어올 여유도 다 있네.</color>
+()<Speaker>？？？？</Speaker>||:<color=#00CCFF>하하하, 덕분에 레인저까지 보내서 우리가 이렇게 횡재한 거 아니겠어!</color>+<color=#00CCFF>재료를 이렇게 잔뜩 보내면 우리야 고맙게 받아먹어야지.</color>
+()<Speaker>？？？</Speaker>||:<color=#00CCFF>그래도 레인저 놈들 때문에 적군이 잔뜩 몰려오지만 않았어도 이렇게 이사하느라 고생할 일 없었다고...</color>
+()<Speaker>안나&람잔</Speaker>||:교수가 "사형수"다!
+()<Speaker></Speaker>||:동시에 결론에 도달해 외친 두 사람은 바로 서로에게서 시선을 치웠다.
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||:크흠... "사형수"는 레인저의 체포 작전을 빠져나갔단 건가?
+NPC-Ange(28)<Speaker>안나</Speaker>||:이거 월척이네.
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||:백상아리지. 하지만 우린 지금 병력이 부족해.+KS-23, 데이터 블랙존에서 이탈해.
+KS23(0)<Speaker>KS-23</Speaker>||:예.
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:【연결을 끊는 중...】
+KS23(0)<Speaker>KS-23</Speaker>||<SE1>AVG_21Winter_Error</SE1>:...? 지휘관, 연결이 끊기지 않습니다.
+()<Speaker>？？？？</Speaker>||:<color=#00CCFF>그래도 저것들은 한참 멀리 있잖아. 놈들이 여기까지 왔을 때면 우린 사라진 지 오래야.</color>
+()<Speaker>？？</Speaker>||<SE1>AVG_Pause</SE1><BGM>BGM_Empty</BGM>:<color=#00CCFF>그래서 엿듣는 거 재밌냐, 버러지들아?</color>
+KS23(0)<Speaker>KS-23</Speaker>||<BGM>GF_21winter_avg_betray</BGM>:상대가 역추적해옵니다!
+NPC-Ange(29)<Speaker>안나</Speaker>||:!!!
+NPC-Pamzan(6)<Speaker>람잔</Speaker>||:<size=50>강제 리부트!</size>
+()<Speaker></Speaker>||<SE1>AVG_Power_Down</SE1>:인형의 눈동자에서 빛이 틱 꺼지며 소체가 강제 리부트되었다.
+SVT38(0)<Speaker>SVT-38</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:지휘관, 레드존에서 미확인 비행물체가 포착됐습니다.
+()<Speaker>초병</Speaker>||:<size=50>저게 뭐지!?</size>
+()<Speaker></Speaker>||:초록색 안개 너머에서 청백색 불덩이가 한 쌍 한 쌍, 마치 고개를 드는 안광처럼 피어올랐다.
+()<Speaker></Speaker>||<SE1>AVG_Jet_Passby</SE1>:미확인 비행물체는 후미의 분사염으로 밝은 궤적을 그리며, 안개와 바람을 가르며 빠른 속도로 날아왔다.
+NPC-Pamzan(6)<Speaker>람잔</Speaker>||:제기랄, 비상 사태! 즉시 퇴각하라!
+NPC-Ange(29)<Speaker>안나</Speaker>||<震屏3>:이쪽으로 오고 있잖아...! <size=50>모두 엄폐해!</size>
+()<Speaker></Speaker>||:쏜살같이 날아온 비행체들은 저공비행으로 굉음과 함께 탄막의 비를 쏟아냈다.
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>Explode</SE1>:콰아앙!+그리고 폭음과 화염, 매연이 치솟았다.
+NPC-Ange(29)<Speaker>안나</Speaker><Shake>0.1</Shake>||:람잔!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>41</BIN><火花><SE1>AVG_20Winter_Burnfire_Loop</SE1>:비행체는 눈 깜짝할 사이에 스쳐 지나갔고, 안나는 바로 몸을 일으켜 기억하는 방향으로 뛰었다.+땅을 딛고 서 있는 병사는 아무도 없었다. 가까스로 생존한 이들도 곁의 전우를 살피려 했지만, 곁의 누군가를 아주 조금만 건드려도 비명이 터져 나왔다.+그런 광경에, 한순간 과거가 뇌리를 스쳤다.
+()<Speaker></Speaker>||:총성, 비명, 울음소리, 죽어가는 신음...+패닉에 빠진 사람들, 안전 케이스 뒤에 숨어 몸을 떠는 소녀, 눈물 가득한 두 눈...
+NPC-Ange(30)<Speaker>안나</Speaker><Shake>0.1</Shake>||<SE1>ClothingUp</SE1>:......!!
+()<Speaker></Speaker>||:누군가 팔을 덥석 붙잡아, 안나는 화들짝 놀라며 고개를 돌렸다.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:<size=50>소대장님!</size>
+()<Speaker></Speaker>||:얼굴 절반에 화상을 입고 꼴도 말이 아닌 알렉산더였다.
+NPC-Pamzan(6)<Speaker>람잔</Speaker><size=50></size>||:쿨럭쿨럭... 안나? 안나!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:진흙 더미에서 기어나온 람잔도 불똥으로 방호복에 구멍이 여럿 난 상태였다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:그런데도 람잔은 허겁지겁 달려와 안나의 어깨를 붙들고 이리저리 뭘 확인하는 듯하다, 흠칫하며 손을 떼고 시선을 돌렸다.
+NPC-Pamzan(6)<Speaker>람잔</Speaker>||<SE1>AVG_tele_connect</SE1>:인형 소대, 내 위치로 집결해! 돌파 준비한다!
+()<Speaker></Speaker>||:먼지 구름이 점차 걷혀 갔다.
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:그 시야의 끝에서, 완전무장한 병사들이 무리를 지어 이쪽으로 다가오는 것이 보였다.
+NPC-Ange(29)<Speaker>안나</Speaker>||<SE1>AVG_weapon_reload</SE1>:<size=50>3소대! 아직 움직일 수 있으면 따라와! 포위를 돌파한다!</size>
+()||<黑点1>:

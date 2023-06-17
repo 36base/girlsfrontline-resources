@@ -1,0 +1,55 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>420</BIN><narrator>:대륙간 열차 "미래호" F09 식당차의 화장실.
+()<Speaker>？？</Speaker>||<BGM>GF_EV9_Intermission</BGM>:<color=#00CCFF>이보쇼 거기 두 손님들.</color>+<color=#00CCFF>지금 무진장 급하니까 바로 질문할게.</color>+<color=#00CCFF>두 사람 중에 누가 잠복 수사 중인 특수요원이야?</color>+<color=#00CCFF>...설마 둘 다야?</color>
+AR18(4)<Position>0,70</Position><Speaker>류드밀라</Speaker>||:......
+()||<SE1>AVG_whitenoise</SE1>:류드밀라는 대답 없이 차단장치를 켜서 화장실을 권외 구역으로 만들었다.
+Erma(2)<Speaker>엘마</Speaker>||:......+특수요원? 전 요원이 아닌데...+혹시 당신인가요?
+AR18(2)<Position>0,70</Position><Speaker>류드밀라</Speaker>;Erma(2)||:......
+AR18(2);Erma(2)<同时置暗><Speaker></Speaker>||:류드밀라는 엘마의 질문을 무시했다.
+AR18(2)<Position>0,70</Position><Speaker>류드밀라</Speaker>;Erma(2)||:단순히 기억을 잃은 거라면 생존에 지장은 없어.+다음 역에 도착하면 바로 내리고 다신 이 열차에 타지 마.+특히 "콜트 익스프레스", 그 암시장은 네가 생각하는 만큼 단순하지 않아. 너의 출신을 생각하면 그들이 너를 태워준 건 따로 노리는 게 있어서야.
+AR18(2)<Position>0,70</Position>;Erma(1)<Speaker>엘마</Speaker>||:...엄청 지장이 있어요.+저는 한두 번 기억을 잃은 게 아니에요, 전 계속 기억을 잃고 있어요.+정비사도 제 문제를 해결하지 못해요. 온전한 저로서 살려면 반드시 기억 문제를 해결해야 돼요.
+AR18(2)<Position>0,70</Position><Speaker>류드밀라</Speaker>;Erma(1)||:온전한 자신이라고?+확실히 흄이 할만한 짓거리군.
+AR18(2)<Position>0,70</Position>;Erma(2)<Speaker>엘마</Speaker>||:"엄마"를 알아요?!
+AR18(2)<Position>0,70</Position>;Erma(2)<同时置暗><Speaker></Speaker>||<SE1>Rope</SE1>:류드밀라는 권총을 엘마에게서 치우고 그녀의 팔을 다시 끼워 주었다.
+AR18(2)<Position>0,70</Position><Speaker>류드밀라</Speaker>;Erma(2)||:앞으로 흄 박사에 관한 이야기는 다른 누구에게도 꺼내지 마, 단 한 글자도.+안 그러면 네가 다음에 만나는 사람은 나만큼 상냥하지 않을 테니까.
+AR18(2)<Position>0,70</Position>;Erma(2)<Speaker>엘마</Speaker>||:그래서 당신이 소련의 요원인 건 맞아요?+지금 제가 하는 말을 믿어주는 거예요?
+AR18(2)<Position>0,70</Position><Speaker>류드밀라</Speaker>||:...오해가 있나 본데, 난 애초에 너를 믿어줄 필요가 없어.
+()||<SE1>Select</SE1>:류드밀라는 코트에서 권총을 꺼내 탄창을 끼웠다.
+AR18(2)<Position>0,70</Position><Speaker>류드밀라</Speaker>||:난 지금 더 급한 일이 있어.+너는 어디에 잘 숨어있도록 해.
+Erma(1)<Speaker>엘마</Speaker>||:......
+()||:엘마는 입술을 깨물고 잠깐 고민했다.
+Erma(2)<Speaker>엘마</Speaker>||:당신 말대로 숨어 있을게요, 그럼 그쪽은 어떻게 할 건데요?
+AR18(2)<Position>0,70</Position><Speaker>류드밀라</Speaker>;Erma(2)||:난 내 좌석칸으로 돌아갈 거다.
+AR18(2)<Position>0,70</Position>;Erma(2)<Speaker>엘마</Speaker>||:나가서 저 사람들 사이로 지나가겠다고요?
+AR18(2)<Position>0,70</Position><Speaker>류드밀라</Speaker>;Erma(2)||:그래.
+AR18(2)<Position>0,70</Position>;Erma(1)<Speaker>엘마</Speaker>||:안 돼요, 너무 위험해요!
+AR18(2)<Position>0,70</Position><Speaker>류드밀라</Speaker>;Erma(1)||:...날 걱정할 필욘 없어.
+AR18(2)<Position>0,70</Position>;Erma(1)<Speaker>엘마</Speaker>||:필요 있어요!+당신이 죽으면 흄 박사에 대해서 누구한테 물어봐요?+딴 사람한테 묻지 말라고 하면 당신한테 물을 수밖에 없잖아요.+어느 칸인데요? 저도 같이 갈 거예요!
+AR18(2)<Position>0,70</Position><Speaker>류드밀라</Speaker>||:......+너 화기관제 코어는 달고 있어?
+()||:엘마는 몇 초간 침묵했다.
+Erma(1)<Speaker>엘마</Speaker>||:그건 모르겠어요.
+AR18(2)<Position>0,70</Position><Speaker>류드밀라</Speaker>||:......
+()||<SE1>ClothingUp</SE1><黑屏1>:류드밀라는 장갑을 벗어 엘마의 손을 잡았다.
+()||<黑屏2><BIN>534</BIN><BGM>BGM_Empty</BGM><SE1>AVG_whitenoise</SE1>:.....+엘마가 정신을 차렸을 때는 다시 자신의 마인드맵 공간에 돌아와 있었다.
+Erma(2)<Shake>0.1</Shake><Speaker>엘마</Speaker>||:언제 여기에...
+()||:"서머 가든" 안에 원래 없던 문이 늘어났다.
+Erma(1)<Speaker>엘마</Speaker>||:......
+()||<SE1>AVG_footsteps_cave</SE1>:엘마는 그 처음 보는 문에 다가갔다.
+()||<SE1>Stop_AVG_loop</SE1>:일일이 기억해둔 게 아니었다면 이런 눈에 안 띄는 문은 눈치채지 못했을 것이다.
+()||<SE1>AVG_20Winter_Door_Open</SE1><黑屏1>:엘마는 차가운 금속 문고리에 손을 얹고, 용기를 내어 돌렸다...
+()||<黑屏2><BIN>168</BIN><BGM>10254</BGM>:......+지저분한 길거리.+엘마가 암시장에 갈 때 지나간 거리와 비슷하지만 다른 곳이었다.+길가의 표지판들은 흐릿하게 보여 무슨 글씨가 쓰여 있는지 알아볼 수가 없었다.
+()<Speaker>엘마</Speaker>||:여긴 어디지?
+()||<SE1>Rope</SE1>:좁은 길거리의 서 있는 엘마의 오른손에 따듯하고 부드러운 감촉이 느껴졌다.+누군가 자신의 손을 쥐고 있었다, 손바닥으로 상대방의 심장이 가쁘게 뛰고 있는 것을 느낄 수 있었다.
+Erma(2)<Speaker>엘마</Speaker>||:왜 그래요?
+Erma(2)<同时置暗><Speaker>？？</Speaker>||:몸이 좀 허약해서 그래...
+()||:방금 전까지 격하게 움직인 듯, 상대는 숨을 몰아쉬며 이마에 맺힌 구슬땀을 연신 훔쳤다.
+()||<SE1>AVG_Team_Running</SE1>:타다닷——+내달리는 발소리. 대략 7, 8명은 되는 소리가 엘마가 있는 쪽으로 달려왔다.
+()<Speaker>？？</Speaker>||:쉿——
+Erma(2)<Speaker>엘마</Speaker>||:우린 왜 도망쳐요?
+()||<SE1>RunStep</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:따듯한 손이 자신을 끌고 다시 달렸다.
+()||:비좁은 골목길을 지나서, 성난 고함 소리를 피하면서도, 엘마는 끝까지 상대의 손을 꼭 쥐었다. 어떤 장애물이 앞을 가로막아도...+한순간, 이렇게 계속 달리고 싶다는 마음마저 들었다.
+()<Speaker>？？</Speaker>||:엘마, 이걸 가지고 있어.
+()||<SE1>AVG_File_Put</SE1>:상대는 자신을 길모퉁이에 숨겼다. 따듯한 손 대신, 차가운 쇳덩어리가 쥐어졌다.
+Erma(2)<Speaker>엘마</Speaker>||:이건 뭐예요?
+()<Speaker>？？</Speaker>||:네가 예전에 가지고 있던 능력이란다...+모듈 인스톨——+화기관제 코어 제한 해제.
+()||<黑屏1>:

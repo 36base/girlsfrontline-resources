@@ -1,0 +1,83 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>528</BIN><narrator>:대륙간 열차 "미래호" F09 식당차.
+()||<白屏1><BGM>GF_2022_Summer_AVG_3</BGM>:......+식당차 안의 인형들은 겉으론 조용해 보였지만, 그들의 의식은 다른 플랫폼에서 난리를 치고 있었다...
+()||<白屏2><BIN>249</BIN><SE1>AVG_tele_connect</SE1>:...엘마가 구축한 통신 채널 안.
+()<Speaker>인형A</Speaker>||:<color=#00CCFF>뭐? 강도하고 싸운다고!? 미쳤어!?</color>+<color=#00CCFF>우린 그냥 평범한 민수용 인형이란 말이야.</color>
+()<Speaker>인형B</Speaker>||:<color=#00CCFF>나, 난 못해, 저 사람들이 얼마나 무서운지 넌 모른다고!</color>+<color=#00CCFF>게다가 난 무기도 없고...</color>
+()<Speaker>인형C</Speaker>||:<color=#00CCFF>그리고 우린 지금 멀쩡하잖아...</color>+<color=#00CCFF>그냥 얌전히 있으면 건드리지 않을 텐데...</color>+<color=#00CCFF>밥솥한테 성질부리는 사람 없잖아?</color>
+NPC-TD_Worker(1)<通讯框><Speaker>폴</Speaker>||:<color=#00CCFF>위치 9호차.</color>+<color=#00CCFF>도적 열둘, 간수 인형 셋.</color>+<color=#00CCFF>소체 기능 이상 무.</color>
+()<Speaker>인형A</Speaker>||:<color=#00CCFF>너, 너 진짜 싸우게...?</color>
+NPC-TD_Worker(1)<通讯框><Speaker>폴</Speaker>||:<color=#00CCFF>나는 예전에 시베리아 생명선 프로젝트에서 일했다. 바로 이 미래호가 달리는 노선이지.</color>+<color=#00CCFF>이 열차의 사양과 구조 모두 잘 알고 있다.</color>+<color=#00CCFF>날 재가동시켜 주면 너희와 함께할 수 있다.</color>
+()<Speaker>인형D</Speaker>||:<color=#00CCFF>...저기 잠깐, 나도 구해줘!</color>+<color=#00CCFF>나, 나는 서커스단에서 공연하는 인형이라 소체가 엄청 유연해.</color>+<color=#00CCFF>그리고 잘 생각해보니 인간을 상대하는 것쯤 그렇게 무섭지도 않을 거야!</color>
+()||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>삐삑.</color>
+()||:<color=#00CCFF>채널이 묵음 모드가 되었습니다.</color>
+AR18(2)<通讯框><Speaker>류드밀라</Speaker>||:<color=#00CCFF>쓸데없는 잡담에 시간 낭비하지 마라.</color>+<color=#00CCFF>먼저 각자 위치한 차량의 상황을 말해. 양식은 방금 폴 씨가 한 보고를 참고하면 된다.</color>+<color=#00CCFF>이제부터 여기는 내가 지휘한다.</color>
+()||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>삐삑.</color>
+()||:<color=#00CCFF>묵음 모드가 해제되었습니다.</color>
+()<Speaker>인형A </Speaker>||:<color=#00CCFF>위치 12호차.</color>+<color=#00CCFF>도적 셋, 간수인형 없음.</color>+<color=#00CCFF>소체 일부 파손.</color>
+()<Speaker>인형B </Speaker>||:<color=#00CCFF>위치 18호 식당차.</color>+<color=#00CCFF>도적 다섯, 간수인형 하나.</color>+<color=#00CCFF>소체 기능 이상 무.</color>
+()||:......
+()||<黑点1><BGM>BGM_Empty</BGM>:......
+()||<黑点2><BIN>528</BIN><BGM>GF_EV9_Story</BGM>:캐서린은 의외로 말을 아끼며 통신을 듣고 있었다.+그녀에겐 거의 침묵이라 할 정도였다.
+ColtWalker(4)<通讯框><Speaker>매기</Speaker>||:<color=#00CCFF>너 괜찮냐?</color>
+ColtWalker(4)<通讯框>;NPC-Scalper(0)<Speaker>캐서린</Speaker>||:<color=#00CCFF>난 신경쓰지 말고 네 몸 빠져나갈 생각이나 해.</color>+<color=#00CCFF>무엇보다 임무가 우선이잖아.</color>
+ColtWalker(3)<通讯框><Speaker>매기</Speaker>;NPC-Scalper(0)||:<color=#00CCFF>방금 한 발 엄청 아팠지?</color>+<color=#00CCFF>...근데 뭐랄까, 임무 수행할 때면 자꾸 널 버리고 가게 되는 것 같단 말야.</color>
+ColtWalker(3)<通讯框>;NPC-Scalper(0)<Speaker>캐서린</Speaker>||:<color=#00CCFF>...뭐 괜찮아, 백업은 아직 여든 개나 있는걸. 끝나고 나 회수해 주기만 하면 돼.</color>+<color=#00CCFF>한두 번도 아니잖아.</color>
+ColtWalker(1)<通讯框><Speaker>매기</Speaker>;NPC-Scalper(0)||:<color=#00CCFF>......</color>+<color=#00CCFF>근데 말야, 내가 널 두고 갈 때 기분이 어땠어? 많이 속상해?</color>
+ColtWalker(1)<通讯框>;NPC-Scalper(0)<Speaker>캐서린</Speaker>||:<color=#00CCFF>...어차피 기억이 없는걸, 언제나 새로운 체험이지.</color>
+ColtWalker(1)<通讯框><Speaker>매기</Speaker>;NPC-Scalper(0)||:<color=#00CCFF>그렇다는 건 역시 속상하단 거네.</color>
+ColtWalker(1)<通讯框>;NPC-Scalper(3)<Speaker>캐서린</Speaker>||:<color=#00CCFF>너 귀신이라도 씌였냐? 오늘따라 왜 이렇게 말이 많아?</color>
+ColtWalker(1)<通讯框><Speaker>매기</Speaker>;NPC-Scalper(3)||:<color=#00CCFF>아니, 그냥 한가해서 아무 말이나 하는 거야.</color>
+ColtWalker(1);NPC-Scalper(3)<Speaker>캐서린</Speaker>||:<color=#00CCFF>뭘 감상에 젖고 난리야! 우린 인형이지 인간이 아니잖아.</color>+<color=#00CCFF>괴로우면 그 부분의 기억을 지워버리면 되지. 게다가 우린 살아남는 것만도 벅찬데 그딴 고민 해 봐야 어따 쓰게?</color>
+ColtWalker(1)<通讯框><Speaker>매기</Speaker>||:<color=#00CCFF>아니, 감상에 젖었다기보단 그냥...</color>
+ColtWalker(4)<通讯框><Speaker>매기</Speaker>||:<color=#00CCFF>..누구야?</color>
+()||<SE1>AVG_whitenoise</SE1>:말하던 중, 매기는 뭔가 낌새를 느끼고 캐서린과 평화롭게 대화하던 목소리를 낮췄다.
+Erma(0)<通讯框><Speaker>엘마</Speaker>||:<color=#00CCFF>크흠... 저 그게, 일부러 엿들은 건 아니고요...</color>
+Erma(0)<通讯框>;NPC-Scalper(3)<Speaker>캐서린</Speaker>||:<color=#00CCFF>...죄다 엿들어 놓고 이제와서 오리발이냐!?</color>
+Erma(1)<通讯框><Speaker>엘마</Speaker>;NPC-Scalper(3)||:<color=#00CCFF>...그냥 이쪽에 데이터 파동이 감지되길래 큰일이라도 났나 했죠.</color>+<color=#00CCFF>실례했습니다. 하시던 거 마저 하세요.</color>
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:<color=#00CCFF>올 땐 마음대로지만 나갈 때는 아니다 임마?</color>
+ColtWalker(1)<通讯框><Speaker>매기</Speaker>;NPC-Scalper(3)||:<color=#00CCFF>해킹까지 꽤 하잖아 너.</color>+<color=#00CCFF>캐서린 너 진짜 보는 눈이 있다, 나한테 줄 소체로 저런 걸 고르다니 말야.</color>
+ColtWalker(1)<通讯框>;NPC-Scalper(3)<Speaker>캐서린</Speaker>||:<color=#00CCFF>야.</color>
+ColtWalker(2)<通讯框><Speaker>매기</Speaker>||:<color=#00CCFF>아무튼 이제 알겠지, 우린 널 공짜로 여기 태워준 게 아니야.</color>
+Erma(0)<通讯框><Speaker>엘마</Speaker>||:<color=#00CCFF>...이제 알겠어요.</color>+<color=#00CCFF>왜 돈을 요구 안 하고 소체를 담보로 걸라고 했는지.</color>+<color=#00CCFF>그럼 제가 콜트 익스프레스에서 배상으로 딴 골드 2온스는 그 전에 줄 건가요?</color>
+()||<SE1>AVG_tele_disconnect</SE1><黑点1>:캐서린은 가차없이 통신을 끊었다.
+()||<黑点2><BIN>530</BIN><narrator>:대륙간 열차 "미래호"의 F01-F02 객차간 연결구
+()||:아직 공기 중엔 옅은 피냄새가 떠다니고, 무거운 분위기도 개일 기미가 없었다.
+()||<SE1>AVG_20Winter_Gate_Close</SE1>:철컥.+경쾌한 소리가 울리자, 모두의 시선이 문 앞에 서서 콘솔을 만지던 인형에게 향했다.
+ColtWalker(1)<Speaker>매기</Speaker>||:유후~♪
+()||<SE1>AVG_Cloak_Whoosh</SE1>:매기가 뒤돌아서 모두의 시선을 한몸에 받으며 화려하게 인사했다.
+ColtWalker(1)<Speaker>매기</Speaker>||:친애하는 승객 여러분 안녕하십니까.+승객님께서 예약하신 F, 0, 1호 특등실이 현재 준비를 마쳤습니다.+즐거운 여행 되십시오~
+Erma(0)<Speaker>엘마</Speaker>||:...매기 승무원 언니, 시즌 한정 세트 하나 주세요.
+ColtWalker(2)<Speaker>매기</Speaker>||:그건 추가 요금이 붙는답니다~
+()||<SE1>AVG_footsteps_woodfloor</SE1>:류드밀라는 두 인형의 만담을 무시하고 바로 문을 넘어 객차 안의 상황을 대략 검사했다.
+()||<SE1>Stop_AVG_loop</SE1>:어째서인지, 이 안엔 사람이 하나도 없었다.+수많은 위험이 겹친 이 상황에서 이 의문점은 류드밀라의 머리에 잠시 암운을 드리웠다.+그녀는 뒤돌아 나와서 모두에게 고개를 끄덕였다.
+AR18(6)<Position>0,70</Position><Speaker>류드밀라</Speaker>||:이 정도 방어 수준이면 중화력 공격이라도 없는 이상 포즈난까지 버틸 수 있을 겁니다.
+NPC-Doctor(0)<Speaker>루고사</Speaker>||:그럼 먼저 들어가겠소... 여기부턴 그대들의 무대요.
+AR18(6)<Position>0,70</Position><Speaker>류드밀라</Speaker>||:...예.
+()||<SE1>AVG_Crowd_Run</SE1>:승객들은 어수선하게 특등실에 몰려들었고, 루고사만 남아 문 앞에서 인형들에게 마지막 대화를 나눴다.+루고사는 류드밀라를 향해 허리를 숙여 정중하게 인사했다.
+NPC-Doctor(0)<Speaker>루고사</Speaker>||<SE1>ClothingUp</SE1>:그럼 부탁하오.
+AR18(6)<Position>0,70</Position><Speaker>류드밀라</Speaker>||:......
+()||<SE1>AVG_BaseDoor_Close</SE1><BGM>BGM_Empty</BGM>:아무 말 없이 류드밀라는 특등석 객차의 문을 닫았다.+순식간에 차량 연결구엔 인형 셋만 남았다.
+ColtWalker(1)<Speaker>매기</Speaker>||<BGM>GF_2022_Summer_AVG_3</BGM>:...이제와서 얘기하는 건 그렇지만.+정말 우리 세 명만으로 괜찮은 거야?
+AR18(6)<Position>0,70</Position><Speaker>류드밀라</Speaker>||:꼭 빠지고 싶다면야...+여긴 나 혼자서도 충분하다.
+ColtWalker(1)<Speaker>매기</Speaker>||:정말로? 네가 말한 거다.
+Erma(0)<Speaker>엘마</Speaker>||:......
+Erma(0)<同时置暗><Speaker></Speaker>||<SE1>ClothingUp</SE1>:엘마는 고개 들어 매기를 슬쩍 보았다.
+Erma(0)<Speaker>엘마</Speaker>||:아까 통신망을 재구축할 때 당신의 마인드맵 안을 한 번 훑었어요.
+ColtWalker(3)<Speaker>매기</Speaker>||:......+엘마 어린이, 그런 짓을 하면 엄청 실례예요.
+()||:하지만 엘마는 전혀 부끄러워하지 않고 오히려 당당하게 나왔다.
+Erma(0)<Speaker>엘마</Speaker>||:류드밀라한테 협조하지 않으면...+당신의 "콜트 익스프레스"를 박살내버릴 거예요.
+AR18(6)<Position>0,70</Position><Speaker>류드밀라</Speaker>||:......
+ColtWalker(3)<Speaker>매기</Speaker>||:.......
+ColtWalker(3)<同时置暗><Speaker></Speaker>||:매기의 입꼬리가 씰룩거렸다.
+ColtWalker(1)<Speaker>매기</Speaker>||<SE1>Rope</SE1>:...캐서린, 너 정말 사람 잘 고른다.
+()||:셋은 잠깐 말이 없었다.
+()||<SE1>AVG_tele_connect</SE1>:류드밀라의 개인 통신 채널에 암호화된 통신 요청이 들어왔다.
+ColtWalker(1)<Speaker>매기</Speaker>||:<color=#00CCFF>이봐, 교관 나리.</color>+<color=#00CCFF>자신의 신분과 임무를 잊은 건 아니겠지?</color>
+AR18(6)<Position>0,70</Position><Speaker>류드밀라</Speaker>;ColtWalker(1)||:<color=#00CCFF>....덤으로 여기서 널 처리하는 것쯤 어렵지 않아.</color>
+AR18(6)<Position>0,70</Position>;ColtWalker(1)<Speaker>매기</Speaker>||:<color=#00CCFF>에이 그러지 말구우~ 아까도 내가 말했잖아? 가격만 적당하면 우리도 얼마든지 거래할 수 있다고.</color>
+AR18(6)<Position>0,70</Position><Speaker>류드밀라</Speaker>;ColtWalker(1)||:<color=#00CCFF>장사꾼이 아니라 사기꾼이면서 무슨 거래.</color>
+AR18(6)<Position>0,70</Position>;ColtWalker(1)<Speaker>매기</Speaker>||:<color=#00CCFF>그거야 견해의 차이지. 사기도 일종의 거래다? 반대로, 거래도 일종의 사기라 할 수 있어.</color>+<color=#00CCFF>다들 머리를 굴려서 어떻게든 시장 가격보다 훨씬 낮은 가격으로 원하는 걸 얻으려 하잖아, 안 그래? 그럼 뭔 차인데.</color>
+AR18(6)<Position>0,70</Position><Speaker>류드밀라</Speaker>;ColtWalker(1)||:<color=#00CCFF>그럴 듯한 궤변이군.</color>
+ColtWalker(1)<Speaker>매기</Speaker>||:<color=#00CCFF>그래~서...</color>+<color=#00CCFF>교관 나리는 나랑 거래할 마음이 있으신가?</color>
+()||<黑屏1>:

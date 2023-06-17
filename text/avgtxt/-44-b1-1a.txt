@@ -1,35 +1,35 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
-()<Speaker>M200</Speaker>||<BGM>m_avg_casual</BGM><黑屏2><BIN>197</BIN>:지금부터 "대 패러데우스 모의 전투"에 앞서 브리핑을 시작하겠습니다.+실수와 실력의 기복으로 인한 논쟁을 피하기 위해, 이번엔 적의 데이터만 소개하겠습니다.
-()<Speaker>M200</Speaker>||:패러데우스의 유닛은 대부분 왜곡방벽을 지녀, 화력소대의 지원이 필수불가결합니다.+언제 어느 부대에게 지원을 요청하고 어떻게 그들을 보호할지를 터득하는 것이 우리의 가장 첫 과제입니다.
-()<Speaker>VHS</Speaker>||:중장비 부대랑 협력이라...+나한테 맡겨, G3하고 이 문제에 관해서 얘기해볼게.
-NPC-Doppelsoldner(0)<Speaker>M200</Speaker>||:이 중장갑 유닛은 "도펠죌트너"라 합니다. 주로 단독으로 순찰하는 등의 행동 양상을 보이지만, 높은 빈도로 광범위 포격을 가하는 위험한 적입니다.+이런 사실상 회피가 불가능한 유탄 공격은 우리에게 매우 치명적이니, 화력소대가 방벽을 제거하면 집중 공격으로 신속히 처치해야 합니다.+하지만 그렇게 해도 손실이 발생할 수 있으므로, 실전에서 이러한 부류의 적과 조우했을 때 어떻게 피해를 최소화할지 방안을 생각해 둬야 합니다.
-NPC-Doppelsoldner(0)<Speaker>AUG PARA</Speaker>||:우와아... 이렇게 신성하고 멋지게 생긴 로봇이 적이라고요?
-NPC-Doppelsoldner(0)<Speaker>류 소총</Speaker>||:엄청 아깝네요...
-NPC-Doppelsoldner(0)<Speaker>M200</Speaker>||:어... 새하얀 모습이 매력적이긴 하죠.+하지만 신성하고 멋지게 보이는 게 적이고, 사납고 인정사정 없어 보이는 게 아군인 상황은 앞으로도 자주 발생할 겁니다.
-NPC-Uhlan(0)<Speaker>M200</Speaker>||:다음은 적의 전차형 유닛 "울란"입니다.+속도는 느린 편이나 저 거대한 덩치를 살린 돌진 공격은 아군의 포스실드로도 막아낼 수 없습니다. 그러니 이들이 돌진하려 할 때의 전조를 사전에 미리 파악하고, 각별히 주의해야 합니다.+물론, 튼튼한 미끼를 설치해 화력을 유도한다면 우리는 격파에만 집중할 수 있겠죠.+..."울란"이 다른 적과 함께 나타나지 않는다는 전제가 있어야 하지만요.
-NPC-Uhlan(0)<Speaker>VHS</Speaker>||:느리지만 강력하다?+돌진하기 전의 준비 동작을 유심히 봐둬야겠는걸.
-NPC-Uhlan(0)<Speaker>류 소총</Speaker>||:딱 봐도 저희보다 훨~씬 크네요!
-NPC-Uhlan(0)<Speaker>AUG PARA</Speaker>||:그리폰에서 일하는 것도 참 고생이라니까요.
-NPC-Rodelero(0)<Speaker>M200</Speaker><Position>0,+70</Position>||:다음, 보병 유닛 "스트렐치"와 기동 강습 유닛 "로델렐로"는 이번 모의전에서 자주 조우하게 될 유형의 적입니다. "울란"이나 "도펠죌트너"에 비해 상대하기도, 처치하기도 쉽죠.
-NPC-Strelet(0)<Speaker>M200</Speaker>||:하지만 보통 무리를 지어 출현하기 때문에 수적 우위를 가지며, 이들이 혼합 편성된 부대는 각 유닛의 단점을 보완하기 때문에 상대하기가 어려워집니다.+하지만 제가 듣기론 톰슨 씨의 부대는 패러데우스의 혼합 편성 부대와 처음 만났을 때 단숨에 해치웠고, 팔레트 소대 분들도 손쉽게 훈련을 통과했다고 해요. 정말 대단하네요.
-()<Speaker>AUG PARA</Speaker>||:그래요, 과연 전술인형이에요.
-()<Speaker>VHS</Speaker>||:우리도 문제없을 거야.
-()<Speaker>류 소총</Speaker>||:네!
-()<Speaker>M200</Speaker>||<黑屏2><BIN>9</BIN>:이러한 일반 유닛 외에, 패러데우스도 엘리트 유닛이 존재합니다.
-Nyto(1)<Speaker>M200</Speaker>||:검은 니토.
-NytoWhite(0)<Speaker>M200</Speaker>||:하얀 니토.
-NPC-Nimogen(0)<Speaker>M200</Speaker>||:니모겐.
-NPC-Mercurows(0)<Speaker>M200</Speaker>||<黑屏1>:그리고 머큐로스.
-AUGPARA(0)<Speaker>AUG PARA</Speaker>||<BIN>73</BIN><黑屏2>:보기만 해선 그냥 옷차림이 이상한 여자애 같네요...
-GeneralLiu(0)<Speaker>류 소총</Speaker>;AUGPARA(0)||:그러게요, 저런 애들이 흉악한 적의 엘리트 유닛이라니.
-AUGPARA(0)<Speaker>AUG PARA</Speaker>||:저 애들도 철혈처럼 통합회수 못 하나요?!+저 애들이랑 같이 일해보고 싶어요!
-AUGPARA(0)<Speaker>댄들라이의 목소리</Speaker>||:아직 패러데우스의 유닛을 회수할 방법은 찾지 못했어. 그래도, 언젠가는 그 순진한 소원이 이뤄질지도 모르지.
-VHS(0)<Speaker>VHS</Speaker>||:크흠... M200, 브리핑 계속해 줘.
-M200(0)<Speaker>M200</Speaker>||:아, 네.+전부 뭉뚱그려 "니토"라 불리는 이들은 대부분 높은 전투 능력은 물론 움직임도 빨라 회피 능력이 상당합니다.+게다가 극도로 위험한 전자 침투 공격까지 가능해 교란 능력도 뛰어납니다.+앞서 소개한 적들보단, 이들이 우리에게 있어 가장 큰 위협이라 할 수 있죠. 침투당하는 순간 소체의 제어권을 잃고 마니까요...
-VHS(0)<Speaker>VHS</Speaker>||:다 됐지? 그럼 질문 있는 사람?
-GeneralLiu(0)<Speaker>류 소총</Speaker>||:으음... 없어요!
-AUGPARA(0)<Speaker>AUG PARA</Speaker>||:문제 없어요~!
-()<Speaker></Speaker>||<SE1>RunStep</SE1>:그때, 은발의 인형이 헐레벌떡 뛰어왔다.
-SL8(0)<Speaker>SL8</Speaker>||:미안미안, 지각해 버렸네!+브리핑 어디까지 했어?
-SL8(0);VHS(0)<Speaker>VHS</Speaker>||:......+벌써 다 끝났어.+전원, 모의전 준비.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
+()<Speaker>M200</Speaker>||<BGM>m_avg_casual</BGM><黑屏2><BIN>197</BIN>:지금부터 "대 패러데우스 모의 전투"에 앞서 브리핑을 시작하겠습니다.+실수와 실력의 기복으로 인한 논쟁을 피하기 위해, 이번엔 적의 데이터만 소개하겠습니다.
+()<Speaker>M200</Speaker>||:패러데우스의 유닛은 대부분 왜곡방벽을 지녀, 화력소대의 지원이 필수불가결합니다.+언제 어느 부대에게 지원을 요청하고 어떻게 그들을 보호할지를 터득하는 것이 우리의 가장 첫 과제입니다.
+()<Speaker>VHS</Speaker>||:중장비 부대랑 협력이라...+나한테 맡겨, G3하고 이 문제에 관해서 얘기해볼게.
+NPC-Doppelsoldner(0)<Speaker>M200</Speaker>||:이 중장갑 유닛은 "도펠죌트너"라 합니다. 주로 단독으로 순찰하는 등의 행동 양상을 보이지만, 높은 빈도로 광범위 포격을 가하는 위험한 적입니다.+이런 사실상 회피가 불가능한 유탄 공격은 우리에게 매우 치명적이니, 화력소대가 방벽을 제거하면 집중 공격으로 신속히 처치해야 합니다.+하지만 그렇게 해도 손실이 발생할 수 있으므로, 실전에서 이러한 부류의 적과 조우했을 때 어떻게 피해를 최소화할지 방안을 생각해 둬야 합니다.
+NPC-Doppelsoldner(0)<Speaker>AUG PARA</Speaker>||:우와아... 이렇게 신성하고 멋지게 생긴 로봇이 적이라고요?
+NPC-Doppelsoldner(0)<Speaker>류 소총</Speaker>||:엄청 아깝네요...
+NPC-Doppelsoldner(0)<Speaker>M200</Speaker>||:어... 새하얀 모습이 매력적이긴 하죠.+하지만 신성하고 멋지게 보이는 게 적이고, 사납고 인정사정 없어 보이는 게 아군인 상황은 앞으로도 자주 발생할 겁니다.
+NPC-Uhlan(0)<Speaker>M200</Speaker>||:다음은 적의 전차형 유닛 "울란"입니다.+속도는 느린 편이나 저 거대한 덩치를 살린 돌진 공격은 아군의 포스실드로도 막아낼 수 없습니다. 그러니 이들이 돌진하려 할 때의 전조를 사전에 미리 파악하고, 각별히 주의해야 합니다.+물론, 튼튼한 미끼를 설치해 화력을 유도한다면 우리는 격파에만 집중할 수 있겠죠.+..."울란"이 다른 적과 함께 나타나지 않는다는 전제가 있어야 하지만요.
+NPC-Uhlan(0)<Speaker>VHS</Speaker>||:느리지만 강력하다?+돌진하기 전의 준비 동작을 유심히 봐둬야겠는걸.
+NPC-Uhlan(0)<Speaker>류 소총</Speaker>||:딱 봐도 저희보다 훨~씬 크네요!
+NPC-Uhlan(0)<Speaker>AUG PARA</Speaker>||:그리폰에서 일하는 것도 참 고생이라니까요.
+NPC-Rodelero(0)<Speaker>M200</Speaker><Position>0,+70</Position>||:다음, 보병 유닛 "스트렐치"와 기동 강습 유닛 "로델렐로"는 이번 모의전에서 자주 조우하게 될 유형의 적입니다. "울란"이나 "도펠죌트너"에 비해 상대하기도, 처치하기도 쉽죠.
+NPC-Strelet(0)<Speaker>M200</Speaker>||:하지만 보통 무리를 지어 출현하기 때문에 수적 우위를 가지며, 이들이 혼합 편성된 부대는 각 유닛의 단점을 보완하기 때문에 상대하기가 어려워집니다.+하지만 제가 듣기론 톰슨 씨의 부대는 패러데우스의 혼합 편성 부대와 처음 만났을 때 단숨에 해치웠고, 팔레트 소대 분들도 손쉽게 훈련을 통과했다고 해요. 정말 대단하네요.
+()<Speaker>AUG PARA</Speaker>||:그래요, 과연 전술인형이에요.
+()<Speaker>VHS</Speaker>||:우리도 문제없을 거야.
+()<Speaker>류 소총</Speaker>||:네!
+()<Speaker>M200</Speaker>||<黑屏2><BIN>9</BIN>:이러한 일반 유닛 외에, 패러데우스도 엘리트 유닛이 존재합니다.
+Nyto(1)<Speaker>M200</Speaker>||:검은 니토.
+NytoWhite(0)<Speaker>M200</Speaker>||:하얀 니토.
+NPC-Nimogen(0)<Speaker>M200</Speaker>||:니모겐.
+NPC-Mercurows(0)<Speaker>M200</Speaker>||<黑屏1>:그리고 머큐로스.
+AUGPARA(0)<Speaker>AUG PARA</Speaker>||<BIN>73</BIN><黑屏2>:보기만 해선 그냥 옷차림이 이상한 여자애 같네요...
+GeneralLiu(0)<Speaker>류 소총</Speaker>;AUGPARA(0)||:그러게요, 저런 애들이 흉악한 적의 엘리트 유닛이라니.
+AUGPARA(0)<Speaker>AUG PARA</Speaker>||:저 애들도 철혈처럼 통합회수 못 하나요?!+저 애들이랑 같이 일해보고 싶어요!
+AUGPARA(0)<Speaker>댄들라이의 목소리</Speaker>||:아직 패러데우스의 유닛을 회수할 방법은 찾지 못했어. 그래도, 언젠가는 그 순진한 소원이 이뤄질지도 모르지.
+VHS(0)<Speaker>VHS</Speaker>||:크흠... M200, 브리핑 계속해 줘.
+M200(0)<Speaker>M200</Speaker>||:아, 네.+전부 뭉뚱그려 "니토"라 불리는 이들은 대부분 높은 전투 능력은 물론 움직임도 빨라 회피 능력이 상당합니다.+게다가 극도로 위험한 전자 침투 공격까지 가능해 교란 능력도 뛰어납니다.+앞서 소개한 적들보단, 이들이 우리에게 있어 가장 큰 위협이라 할 수 있죠. 침투당하는 순간 소체의 제어권을 잃고 마니까요...
+VHS(0)<Speaker>VHS</Speaker>||:다 됐지? 그럼 질문 있는 사람?
+GeneralLiu(0)<Speaker>류 소총</Speaker>||:으음... 없어요!
+AUGPARA(0)<Speaker>AUG PARA</Speaker>||:문제 없어요~!
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:그때, 은발의 인형이 헐레벌떡 뛰어왔다.
+SL8(0)<Speaker>SL8</Speaker>||:미안미안, 지각해 버렸네!+브리핑 어디까지 했어?
+SL8(0);VHS(0)<Speaker>VHS</Speaker>||:......+벌써 다 끝났어.+전원, 모의전 준비.
 SL8(3)<Speaker>SL8</Speaker>||<黑屏1>:......아.

@@ -1,0 +1,69 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>356</BIN><narrator>:모스크바, 암시장의 한 은밀한 작은 방.
+()||<BGM>GF_Swim_Marnie</BGM>:캐서린은 나른하게 소파 위에 드러누워, 큄비에게 물건 정리를 시키며 마인드맵 백업을 준비했다.
+NPC-Scalper(0)<Speaker>캐서린</Speaker>||:...대충 이거면 되겠지.
+NPC-Scalper(0);NPC-Quimby(0)<Position>0,300</Position><Speaker>큄비</Speaker>||:힘들다 힘들어! 예전에 콜트 익스프레스 탈 땐 이렇게 바리바리 싸들고 간 적 없었잖아!
+NPC-Scalper(0)<Speaker>캐서린</Speaker>;NPC-Quimby(0)<Position>0,300</Position>||:네가 뭘 안다고, 이번엔 중요한 임무가 걸려 있단 말이야.
+NPC-Scalper(0);NPC-Quimby(0)<Position>0,300</Position><Speaker>큄비</Speaker>||:그렇게 바쁜 와중에 손님 예약을 더 잡아? 그럴 시간은 있고?
+NPC-Scalper(0)<Speaker>캐서린</Speaker>;NPC-Quimby(0)<Position>0,300</Position>||:같은 시간에 돈을 따블로 벌 수 있으니까. 게다가——
+NPC-Scalper(0);NPC-Quimby(0)<Position>0,300</Position><同时置暗><Speaker></Speaker>||:캐서린이 욕심 가득한 웃음을 지었다.
+NPC-Scalper(0)<Speaker>캐서린</Speaker>||:내가 좀 보니까, 그 녀석 소체가 꽤 좋더라...
+()||<SE1>AVG_Knock</SE1>:똑, 똑똑, 똑.+약속한 노크 방식이었다.
+NPC-Quimby(0)<Position>0,300</Position><Speaker>큄비</Speaker>||:자, 손님 왔어.
+NPC-Scalper(0)<Speaker>캐서린</Speaker>||:좋아. 큄비, 플랜 B로 간다.
+()||<SE1>AVG_BaseDoor_Close</SE1>:캐서린은 벽에 붙어 버튼을 눌렀다. 그러자 벽면이 천천히 180도 회전하여 캐서린을 반대편 방으로 데려갔다.+캐서린이 사라진 후 큄비가 문을 열었다.
+NPC-Quimby(0)<Position>0,300</Position><Speaker>큄비</Speaker>||<SE1>AVG_Door_Open_Close</SE1>:어서 오세요 (*^▽^*) 소중한 고객님!+저는 데킬라 미니바의 큄비라고 합니다. 품질 좋고 믿을 수 있는 거래를 약속드리겠습니다!
+NPC-Quimby(0)<Position>0,300</Position>;Erma(6)<Speaker>엘마</Speaker>||:...계약한 대로 콜트 익스프레스 표 한 장 주세요.
+NPC-Quimby(0)<Position>0,300</Position><Speaker>큄비</Speaker>;Erma(6)||:알겠습니다, 고객님. 여기에 정보를 작성해주세요.
+Erma(6)<Speaker>엘마</Speaker>||:......
+()||<SE1>AVG_20Winter_Drink_Tea</SE1>:엘마는 상대가 차를 내오는 틈을 타 이 그리 넓지 않은 방을 살펴보았다.+넓이는 대략 20제곱미터쯤, 구석에 온갖 잡동사니가 쌓여 있어 안 그래도 빠듯한 공간을 더 비좁게 만들었다.+잡동사니 중에는 흔히 볼 수 있는 인형의 교체 부품들, 주로 냉각 장치가 보였고, 암호화된 거래 기록 파일들도 있었다.
+Erma(4)<Speaker>엘마</Speaker>||:<color=#A9A9A9>암시장을 운영하는 데 이렇게 높은 연산력이 필요한가? 냉각장치가 저렇게 많으면 난 300년은 쓸 수 있겠어...</color>
+NPC-Quimby(0)<Position>0,300</Position><Speaker>큄비</Speaker>||:자, 고객님! (*^▽^*) 차 한 잔 어떠신가요?+서명 다 하셨으면 확인할게요, 여기 주문하신 탑승권입니다.
+()||<SE1>AVG_File_Put</SE1>:큄비는 꽁꽁 포장된 우편 봉투를 꺼내 엘마에게 넘겼다.
+NPC-Quimby(0)<Position>0,300</Position><Speaker>큄비</Speaker>||:이제 잔금을 지불해 주세요.
+Erma(6)<Speaker>엘마</Speaker>||:......
+()||<SE1>AVG_20Winter_Book</SE1>:엘마는 봉투를 뜯어 탑승권의 내역을 확인했다.
+Erma(5)<Speaker>엘마</Speaker>||:잔금은... 제가 이 표로 콜트 익스프레스에 정말 탈 수 있는지 확인하고 나서 지불하겠어요.
+NPC-Quimby(0)<Position>0,300</Position><Speaker>큄비</Speaker>||:그건 안 돼요, 고객님...
+()||<SE1>ClothingUp</SE1>:엘마는 탑승권을 봉투에 도로 넣고 탁상에 내려놓았다.
+Erma(6)<Speaker>엘마</Speaker>||:안 된다면 다른 곳을 알아보겠어요.+표 파는 곳이 여기만 있는 게 아니니까....
+()||<SE1>AVG_doorknock_wood</SE1><BGM>BGM_Empty</BGM>:쿵쿵쿵——+큄비는 캐서린이 벽을 두드려 보낸 신호를 받고 미소를 유지한 채 말을 이었다.
+NPC-Quimby(0)<Position>0,300</Position><Speaker>큄비</Speaker>||:소중한 고객님, 이에 관해선 저희 부점장이 답변 드리겠습니다.
+()||<SE1>AVG_BaseDoor_Close</SE1><BGM>GF_EV9_Story</BGM>:큄비가 벽의 스위치를 누르자, 말끔한 벽면이 180도 뒤집히더니 엘마 앞에 새로운 인물이 등장했다.
+Erma(7)<Speaker>엘마</Speaker>||:...어?!
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:캐서린이야.
+()||:차가운 표정의 여자가 의자에서 일어나 엘마를 위아래로 훑어봤다.
+Erma(6)<Speaker>엘마</Speaker>||:안녕하세요...
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;Erma(6)||:먼저 이거 하나는 말해둘게.+콜트 익스프레스의 표는 여기서만 팔아.
+NPC-Scalper(3);Erma(6)<Speaker>엘마</Speaker>||:......
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;Erma(6)||:다음, 콜트 익스프레스 표는 단품이야. 미래호 탑승권은 별도로 구매해야 해.+세트로 팔아달라고 했었지? 문맹이 아니라면 홈페이지 한번 찾아봐. 미래호 탑승권 구하기가 얼마나 힘든지.
+NPC-Scalper(3);Erma(6)<Speaker>엘마</Speaker>||:......
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;Erma(6)||:마지막으로, 우린 외상을 일절 안 받아.
+NPC-Scalper(3);Erma(6)<同时置暗><Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:캐서린은 쌀쌀맞게 설명을 잔뜩 늘어놓고, 다시 푹신푹신한 소파에 앉았다.
+NPC-Scalper(3);Erma(4)<Speaker>엘마</Speaker>||:몇 가지 물어볼게요...
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;Erma(4)||:말해.
+NPC-Scalper(3);Erma(4)<Speaker>엘마</Speaker>||:왜 콜트 익스프레스를 타는 데 표가 두 장 필요하죠?
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:아주 수준 낮은 질문이네... 큄비.
+NPC-Quimby(0)<Position>0,300</Position><Speaker>큄비</Speaker>||:설명 드릴게요, 고객님~+콜트 익스프레스는 열차의 이름이 아닌 인형에게만 개방하는 암시장의 이름입니다.+하지만 이 시장은 대륙간 열차 "미래호"에서만 열리기 때문에 먼저 "미래호"에 타셔야만 콜트 익스프레스에 들어가실 수 있어요.
+Erma(6)<Speaker>엘마</Speaker>||:알겠어요...+질문 더 있어요.
+()||<SE1>AVG_File_Put</SE1>:엘마는 우편 봉투를 툭 두드렸다.
+Erma(4)<Speaker>엘마</Speaker>||:여기 안에 있는 건 열차표가 아니잖아요.+이건 재머 장치예요.+재머를 열차표로 위장해서 대체 뭘 파는 거죠?
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:......
+NPC-Scalper(3)<同时置暗><Speaker></Speaker>||:캐서린의 눈이 가늘어졌다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:똑똑한 손님은 질색이야.+하지만 지가 똑똑한 줄 아는 손님은 더 밥맛이지.
+Erma(4)<Speaker>엘마</Speaker>||:제 질문에 대답할 생각이 없나 보네요.
+()||<SE1>AVG_Cloak_Whoosh</SE1>:캐서린은 소파에서 일어나 탁상의 봉투를 다시 집었다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:콜트 익스프레스에 탄 다음에 돈을 마저 내도 좋아. 대신 나도 조건이 있어.+잔금은 1.5배로 받겠어.+그리고 내가 직접 널 데리고 열차에 타도록 하지.
+Erma(5)<Speaker>엘마</Speaker>||:...좋아요.
+()||<SE1>ClothingUp</SE1>:캐서린은 봉투를 엘마에게 건넸다. 엘마는 바로 그곳을 떠났다.
+()||<SE1>AVG_20Winter_Door_Close</SE1><BGM>BGM_Empty</BGM>:덜컥.+방 안엔 다시 큄비와 캐서린만 남았다.
+NPC-Quimby(0)<Position>0,300</Position><Speaker>큄비</Speaker>||<BGM>GF_Swim_Marnie</BGM>:캐서린 부점장, 언제부터 그렇게 냉철 컨셉을 잡았대?
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;NPC-Quimby(0)<Position>0,300</Position>||:고객마다 대처법이 다른 거지.+방금 걔는 딱 보면 햇병아리야, 아무것도 모르는 녀석. 그런 타입은 권위적인 자세로 대응해야 돼.
+NPC-Scalper(3);NPC-Quimby(0)<Position>0,300</Position><Speaker>큄비</Speaker>||:그럴싸하네.
+NPC-Scalper(0)<Speaker>캐서린</Speaker>||:걔 소체 말이야, 매기한테 어울릴까?
+()||:큄비는 머릿속으로 상상해 보았다.
+Erma(5)<Speaker>매기</Speaker>||<边框>2</边框>:우리 가게는 외상 안 받아.
+NPC-Quimby(0)<Position>0,300</Position><Speaker>큄비</Speaker>||:반전미는 확실하겠다.
+NPC-Scalper(0)<Speaker>캐서린</Speaker>||:매기의 소체는 이미 한계야. 사실 이번 건을 무사히 마칠 수 있을지도 조마조마해.+그리고 난 항상 녀석을 올려다봐야 하니까 목 관절이 심하게 마모됐다고.+쬐끄만한 소체로 바꾸면 언제 뻗어도 업고 가기 쉬울 거고 말이야.
+()||:캐서린의 음흉한 웃음소리와 함께, 완벽한 미래의 구상이 제멋대로 펼쳐졌다...
+()||<黑屏1>:

@@ -1,0 +1,73 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>599</BIN><BGM>m_wv_scenario</BGM>:심야, 당신은 방송국 끝자락에 있는 라디오 방송 PD룸 안에 앉아서 당신에겐 꽤나 신기한 풍경에 흥분했다.
+()||:한편 당신의 맞은편에는 이미 이곳에 익숙해진 사키가 두 다리를 탁상에 걸친 채, 헤드폰을 쓰고서 가끔씩 의자를 돌리면서 편한 모습을 보였다.
+NPC-Ninja(5)<Position>0,-420</Position><Scale>1.6</Scale><Speaker>스태프</Speaker>||:참 죄송합니다, 갑자기 일을 대신 맡기게 되어서.+저희 PD가 갑자기 몸살이 났다길래요, 최근 너무 힘들었나 봐요.
+NPC-Ninja(5)<Position>0,-420</Position><Scale>1.6</Scale><同时置暗><Speaker>지휘관</Speaker>||:괜찮습니다. 저도 꽤 흥미가 있거든요.+제가 알던 사람도 리디오 방송을 해서 기본적인 과정은 저도 좀 압니다.
+NPC-Ninja(5)<Position>0,-420</Position><Scale>1.6</Scale><Speaker>스태프</Speaker>||:시간이 거의 됐으니까, 준비되면 시작해도 됩니다.
+()<Speaker>지휘관</Speaker>||:네.
+()||:당신은 고개를 끄덕이고 마이크를 통해 사키에게 지시를 내렸다.
+()<Speaker>지휘관</Speaker>||:2호, 방송 준비해.+음악이 끝나면 멘트 시작해.
+NPC-Saki(3)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||:내가 한두번 해보는 줄 알어!?
+()||<SE1>ClothingUp</SE1>:지시를 받자마자 사키는 탁상에서 발을 내리고, 소매를 다듬으며 준비태세를 잡았다.
+()||:삐이이——+짧은 전자음이 지나고, 허스키한 남성 보이스가 잔잔한 인트로를 불렀다.+그 목소리가 서서히 사라진 다음, 사키의 활력 가득한 목소리가 대신했다.
+NPC-Saki(0)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||:요! 사가의 있는 친구들, 오늘 밤은 잘 지냈나?+오늘의 "사가가 사가로 있기 위해서"를 청취해줘서 정말 고마워, 나는 프랑슈슈 2호다.+우리의 사가를 구하기 위해, 오늘도 기합 잔뜩 넣으라고!
+()||:당신은 PD룸에 앉아, 시원시원하게 방송을 진행하는 사키를 미소지으며 바라봤다.+묻지 않아도 그녀가 이 프로그램 진행을 얼마나 즐거워하는지 알 수 있었다.
+()<Speaker>지휘관</Speaker>||<黑点1>:...정신 집중하렴, 바로 사연이 들어왔다. 첫 번째 사연은 사가에서 온...
+()||<黑点2>:......+라디오 방송은 당신 생각보다 어려우면서도, 생각보다 쉬웠다.+어려운 건 집중력과 임기응변 능력을 요구해서였고, 쉬운 건 당신이 할 일이 별로 없었기 때문이었다.
+NPC-Saki(3)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||:하앙? 곧 고등학교 졸업하는데, 가업을 이을지 대학에 갈지 중에 어느 게 편할 것 같냐고?+웃기지 마라, 짜샤! 그딴 사치스러운 고민을 할 시간에 너 자신이 무엇을 하고 싶은지나 생각해봐!
+NPC-Saki(5)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||:귀 쫑긋 세우고 잘 들어! 쉬운 쪽으로 도피하고 싶은 생각이라면 내가 말하는데, 이 세상에 쉬운 길이란 없어!
+NPC-Saki(3)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||:부모님 말씀 가지고 핑계대지도 마! 네 인생은 네 거라고!
+()<Speaker>지휘관</Speaker>||:......
+()||:사키의 진행 스타일은 카리나와 그야말로 양극이었지만, 이것도 나름대로 신선한 느낌이었다.+시원시원하고 솔직한 성격은 청중에게 더 친근하게 다가왔다.
+()<Speaker>지휘관</Speaker>||:...좋아, 시간 됐으니까, 다음 사연 준비해.+이쪽도 사가에서 온 청취자로, 닉네임은...
+()<Speaker>청취자</Speaker>||<BGM>BGM_Empty</BGM>:너 말야아아~+<size=50>너 좀 건방지지 않니야아~?</size>
+()||<BGM>BGM_22Swim_langrensha</BGM>:소개하던 도중 헤드폰에 알코올 냄새가 진한 목소리가 끼어들어 눈살이 찌푸려졌다.+당신은 스태프를 힐끗 봤지만, 그는 고개를 저으며 계속 진행하라 지시했다.
+NPC-Saki(5)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||:...오, 이 청취자분은 좀 화끈한걸?+혹시 술에 취하신 거면 일찍 돌아가서 주무시죠, 아저씨?
+()||:...사키의 대응은 제법 적절한 편이었지만, 그녀의 입가가 씰룩거리는 게 눈에 보였다.
+()<Speaker>청취자</Speaker>||:뭔 사가를 구하니 뫄니, 웃기고 있니에~+<size=50>푸란슈슉 데뷔한 쥐 을마놔 지놨으어? 이미 한물 갔따니까!</size>+<size=50>맨날 사가를 구하자 구하즈아만 입에 달고오... 니들이 제대로 해낸 게 므으가 있냐?</size>
+NPC-Saki(3)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||:너 지금 뭐라고 했냐——!?
+()||<SE1>AVG_Wonder</SE1>:역시나 다를까, 상대방의 이어진 도발에 사키는 끝내 참지 못하고 테이블을 쾅 내리쳤다. 하지만 통화 반대편의 소리는 오히려 더 건방져졌다.
+()<Speaker>청취자</Speaker>||:당장 바께 그룹 발톱 때보다 모타면서 뭘 구한다고 하냐아?+그 머냐 머냐, 파산 직전인 회사를 되살린 아이돌 그룹이라고, 무슨 카페였나 하던데...+<size=50>니들은 고 정도 할 수 있냐!?</size>
+NPC-Saki(3)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:<size=50>너 당장 이름 대라, 어디 사는지 찾아내서 확——</size>
+()||<SE1>AVG_21Winter_Error</SE1>:삐이——+주민들에게 익숙한 음악이 사키와 청중 사이의 말싸움을 끊고 재생됐다.+사키는 여전히 방송실에서 발광하지만, 그녀의 목소리는 아무도 들을 수 없게 됐다.+당신은 한숨을 푹 내쉬며, 마이크를 툭툭 두드렸다.
+()<Speaker>지휘관</Speaker>||:...진정해, 2분간 휴식하자.
+()||:당신의 말을 듣자, 사키도 당신이 방송을 끊은 것을 눈치채고서 당신을 매섭게 째려봤지만, 그래도 입을 다물었다.
+NPC-Ninja(5)<Position>0,-420</Position><Scale>1.6</Scale><Speaker>스태프</Speaker>||:...방금 청취율이 확 올라가던데요.
+NPC-Ninja(5)<Position>0,-420</Position><Scale>1.6</Scale><同时置暗><Speaker>지휘관</Speaker>||:방송사고로 이슈가 되는 건 독이 될 뿐입니다.+...2호든 방송국이든 이미지 관리가 중요하지 않겠습니까?
+NPC-Ninja(5)<Position>0,-420</Position><Scale>1.6</Scale><Speaker>스태프</Speaker>||:아, 그렇죠. 잘하셨습니다... 잠시 쉰 다음에 계속 진행하죠.
+()<Speaker>지휘관</Speaker>||:...네.
+()||<黑点1>:당신은 고개를 들어 유리창 맞은 편을 봤다.+사키는 인상을 잔뜩 쓴 얼굴로, 방금까지 밝고 유쾌한 분위기는 싹 사라져 있었다.+......
+()||<黑点2><BIN>575</BIN>:방송이 끝나고, 당신은 뒤편 출구에서 잔뜩 삐진 얼굴의 사키를 마중했다.+사키는 당신을 보자마자 바로 혀를 찼다.
+NPC-Saki(3)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||:칫, 할 말 있거든 얼른 혀.+먼저 말하지만, 난 내가 말 잘못했다고 전혀 생각 안 해!
+NPC-Saki(3)<Position>0,-190</Position><Scale>1.4</Scale><同时置暗><Speaker>지휘관</Speaker>||:......+...아니, 널 꾸짖으려고 기다린 게 아니야.
+NPC-Saki(3)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||:아앙? 그럼 뭔데?
+NPC-Saki(3)<Position>0,-190</Position><Scale>1.4</Scale><同时置暗><Speaker>지휘관</Speaker>||:확실히 네가 좀 과격하게 반응한 건 맞아.+하지만 그게 잘못한 거라 생각하진 않아.+그런 말을 듣고도 화를 안 내는 사람은 세상에 없으니까.+단지 때와 장소가 안 좋았던 거지.
+NPC-Saki(3)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||:칫, 그 자식이 먼저 시비를 건 거잖아.+누군지 한 번 잡히기만 해봐라...
+()<Speaker>지휘관</Speaker>||:그 일은 이제 됐고.+드라이빙 좀 할까? 괜찮으면 이번엔 내가 운전할게.+나도 바이크 제법 잘 탄다고, 저번에 네가 나한테 닭고기 사준 값이라 치고.
+NPC-Saki(2)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||<BGM>BGM_Empty</BGM>:......
+()||<SE1>ClothingUp</SE1>:사키가 눈살을 찌푸리고 얼굴을 들이댔다. 아직 화가 덜 풀린 채로 뭔가 미묘한 표정을 지으면서, 턱을 손으로 받치고 당신을 위아래로 훑어봤다.
+()<Speaker>지휘관</Speaker>||:왜, 왜 그래?
+NPC-Saki(5)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||<BGM>GF_Swim_Marnie</BGM>:너 말야...+...혹시 내가 그딴 인간한테 상처 입었을까 봐, 여기 남아서 날 위로해줄 생각인 건 아니겠지?
+NPC-Saki(5)<Position>0,-190</Position><Scale>1.4</Scale><同时置暗><Speaker>지휘관</Speaker>||:......+...아니야.
+NPC-Saki(4)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||:바~보, 얼굴에 뻔히 다 쓰여있네, 유치원생들도 시치미 떼는 걸 다 알겠다.
+()||:당신은 잠깐 거울을 볼지 아님 대화를 계속할지 고민했다.
+NPC-Saki(1)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||:그딴 놈은 데뷔할 때부터 잔뜩 봤다고.+아이돌 하면서 매일 몇 번이나 시비 걸리는지 알아?+날 너무 무시하지 마.
+NPC-Saki(1)<Position>0,-190</Position><Scale>1.4</Scale><同时置暗><Speaker>지휘관</Speaker>||:매일 그렇게 시비 걸리는 건 본인의 문제도 있지 않을까...
+NPC-Saki(5)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||:시끄럽네.
+()||:사키는 당신의 옆을 지나치고, 오른손 검지에 바이크 열쇠를 걸고 빙빙 돌렸다.
+NPC-Saki(5)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||:네가 내 파트너를 타려면 20년은 이르다고.
+NPC-Saki(2)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||:얌전히 뒷좌석에 앉으라.
+()<Speaker>지휘관</Speaker>||:으엥?
+NPC-Saki(1)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||:뭘 멍때리고 있어 임마.
+()||:고개를 돌린 사키의 얼굴에 그늘은 전부 사라졌고, 처음 방송실에 앉아 있을 때의 미소가 걸려있었다.
+NPC-Saki(0)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||:드라이빙하자면서?+꼬봉이 원하는데 이 누님께서 들어줘야지.
+NPC-Saki(0)<Position>0,-190</Position><Scale>1.4</Scale><同时置暗><Speaker>지휘관</Speaker>||:꼬봉... 내가 꼬봉이야?
+NPC-Saki(0)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||:잔말말고 따라와, 오늘 내가 진정한 사가 스피드를 보여주겄어!
+()<Speaker>지휘관</Speaker>||:저기... 지금 무르기 해도 괜찮을까?
+()||<SE1>AVG_Cloak_Whoosh</SE1>:사키는 당신의 말을 무시하고, 당신의 옷깃을 질질 끌고 주차장으로 갔다.+꼴사납게 끌려가면서도 당신은 딱히 저항하지도 않았다.
+()<Speaker>지휘관</Speaker>||:...얘 나름의 인정 방식이라고 봐야지.
+NPC-Saki(1)<Position>0,-190</Position><Scale>1.4</Scale><Speaker>니카이도 사키</Speaker>||:엉? 방금 뭐랬냐?
+()<Speaker>지휘관</Speaker>||<SE1>AVG_Moto_Start</SE1>:아니, 아무 말도 안 했어...
+()||:...그날, 당신은 처음으로 알게됐다.
+()||<SE1>AVG_Moto_Run</SE1>:오토바이 뒷좌석도 멀미가 날 수 있다는 것을.
+()||<黑点1>:

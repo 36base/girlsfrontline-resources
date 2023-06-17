@@ -1,23 +1,23 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>202</BIN><BGM>BGM_Danger</BGM>:그리폰 임시 지휘실.
-RO635(0)<Speaker>RO635</Speaker>||:지휘관님, 적의 장갑 열차가 아직도 추격해 오고 있습니다!
-AR15Mod(0)<Speaker>AR15</Speaker>||:진짜 끈질기게도 쫓아오네... 어떻게 뿌리칠 순 없어?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:이게 최대 속력이야! 그리고 이거나 저거나 같은 기종이라서 속도로는 절대 못 따돌려!
-()||<SE1>Explode</SE1><震屏>:포성이 울리고, 차체는 다시 격하게 흔들렸다.+열차 안의 모두는 즉시 뭐든 손이 닿는 대로 붙잡아 간신히 균형을 유지했다.
-UMP9Mod(3)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>45 언니! 진짜 보호막이 깨지겠어!</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:우리는 대포 뒀다 뭐해?! 반격하자고!
-HK416Mod(0)<Speaker>HK416</Speaker>||:그렇게 쉬우면 진작에 했지!+저쪽은 보호막도 멀쩡한데 우린 포문의 수도 부족해. 정면으로 맞붙어선 승산이 없어.
-()<Speaker>지휘관</Speaker>||:...UMP45, 이 열차 기종의 보호막 발생기의 위치를 알 수 있겠어?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:그야 물론이지.+뭔가 좋은 수라도 떠올랐나 봐?
-()<Speaker>지휘관</Speaker>||<黑屏1>:해볼 만한 작전이지...
-()||<黑屏2><BGM>BGM_Empty</BGM><BIN>208</BIN><Night>:장갑 열차의 상부.
-()||<BGM>BGM_Reverse</BGM>:그리폰이 탈취한 열차가 서서히 감속했다.+그리고 AR팀은 열차 위에서 엄폐하고서, 군의 열차가 가까워지기를 기다렸다.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:설마 지휘관이 우리한테 이런 일을 시킬 줄이야. 깜짝 놀랐어.
-RO635(0)<Speaker>RO635</Speaker>||:지휘관님의 이런 작전 덕분에, 우린 지금까지 수많은 고비를 넘겼어. 이번에도 다 잘 될 거야.
-AR15Mod(0)<Speaker>AR15</Speaker>||:지휘관의 판단이니 확실하겠지.+그리고 딱히 복잡한 작전도 아니잖아. 열차의 허리 부분에 있는 보호막 발생기들을 파괴하고, 나머진 우리 열차포에 맡기면 되는 거니까.
-DesertEagle(0)<Speaker>데저트 이글</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>저희 소대도 위치했습니다. 작전이 시작되면 여러분이 돌격할 수 있도록 전력으로 엄호하겠어요.</color>+<color=#00CCFF>여러분의 멋진 연출을 기대할게요.</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:맡겨만 달라구!+아 참, 우리 이거 얼른 해치워야겠다. M4 마중 나가야지!
-RO635(2)<Speaker>RO635</Speaker>||:물론이지, M4 씨를 두고 갈 수는 없잖아.
-AR15Mod(0)<Speaker>AR15</Speaker>||:적 열차가 작전 반경 내로 접근. 가자!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:알았어, 출발!
-()||<黑点2>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>202</BIN><BGM>BGM_Danger</BGM>:그리폰 임시 지휘실.
+RO635(0)<Speaker>RO635</Speaker>||:지휘관님, 적의 장갑 열차가 아직도 추격해 오고 있습니다!
+AR15Mod(0)<Speaker>AR15</Speaker>||:진짜 끈질기게도 쫓아오네... 어떻게 뿌리칠 순 없어?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:이게 최대 속력이야! 그리고 이거나 저거나 같은 기종이라서 속도로는 절대 못 따돌려!
+()||<SE1>Explode</SE1><震屏>:포성이 울리고, 차체는 다시 격하게 흔들렸다.+열차 안의 모두는 즉시 뭐든 손이 닿는 대로 붙잡아 간신히 균형을 유지했다.
+UMP9Mod(3)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>45 언니! 진짜 보호막이 깨지겠어!</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:우리는 대포 뒀다 뭐해?! 반격하자고!
+HK416Mod(0)<Speaker>HK416</Speaker>||:그렇게 쉬우면 진작에 했지!+저쪽은 보호막도 멀쩡한데 우린 포문의 수도 부족해. 정면으로 맞붙어선 승산이 없어.
+()<Speaker>지휘관</Speaker>||:...UMP45, 이 열차 기종의 보호막 발생기의 위치를 알 수 있겠어?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그야 물론이지.+뭔가 좋은 수라도 떠올랐나 봐?
+()<Speaker>지휘관</Speaker>||<黑屏1>:해볼 만한 작전이지...
+()||<黑屏2><BGM>BGM_Empty</BGM><BIN>208</BIN><Night>:장갑 열차의 상부.
+()||<BGM>BGM_Reverse</BGM>:그리폰이 탈취한 열차가 서서히 감속했다.+그리고 AR팀은 열차 위에서 엄폐하고서, 군의 열차가 가까워지기를 기다렸다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:설마 지휘관이 우리한테 이런 일을 시킬 줄이야. 깜짝 놀랐어.
+RO635(0)<Speaker>RO635</Speaker>||:지휘관님의 이런 작전 덕분에, 우린 지금까지 수많은 고비를 넘겼어. 이번에도 다 잘 될 거야.
+AR15Mod(0)<Speaker>AR15</Speaker>||:지휘관의 판단이니 확실하겠지.+그리고 딱히 복잡한 작전도 아니잖아. 열차의 허리 부분에 있는 보호막 발생기들을 파괴하고, 나머진 우리 열차포에 맡기면 되는 거니까.
+DesertEagle(0)<Speaker>데저트 이글</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>저희 소대도 위치했습니다. 작전이 시작되면 여러분이 돌격할 수 있도록 전력으로 엄호하겠어요.</color>+<color=#00CCFF>여러분의 멋진 연출을 기대할게요.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:맡겨만 달라구!+아 참, 우리 이거 얼른 해치워야겠다. M4 마중 나가야지!
+RO635(2)<Speaker>RO635</Speaker>||:물론이지, M4 씨를 두고 갈 수는 없잖아.
+AR15Mod(0)<Speaker>AR15</Speaker>||:적 열차가 작전 반경 내로 접근. 가자!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||<黑点1>:알았어, 출발!
+()||<黑点2>:

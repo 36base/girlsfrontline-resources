@@ -1,0 +1,113 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><narrator>:이건 그야말로 기적이었다.+사가의 역사에 영원히 새겨질 기적...
+()<Speaker></Speaker>||<narrator>:<size=55>프랑슈슈의 라이브 콘서트!</size>
+()<Speaker>관중</Speaker>||<SE1>AVG_20Winter_Bar_Cheering_V2</SE1>:<size=50>와아아아아——!!!</size>
+()<Speaker></Speaker>||<BIN>600</BIN><SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1><BGM>BGM_Saga_AVG_Live_Good</BGM><白屏2><common_effect>%%code=CJ_piaodai%%</common_effect>:반짝이는 색지 조각들이 공중에서 펑 터져 나와, 감탄하는 관객들 위로 팔랑팔랑 쏟아져 내렸다.+마무리 포즈를 끝낸 프랑슈슈도 고개를 들었고, 그들의 반짝이는 눈동자에도 형형색색의 색지 조각들이 비쳤다.
+()<Speaker>미나모토 사쿠라</Speaker>||:감사합니다 여러분! 우리느은~!
+()<Speaker>니카이도 사키</Speaker>||<震屏3><SE1>ClothingUp</SE1>:<size=50>프으!! 라앙!! 슈유! 슈——!!!</size>
+()<Speaker>관중</Speaker>||<controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=8</controll_shake><SE1>AVG_Crowd</SE1><SE1>AVG_applause_indoor</SE1>:<size=50>프랑!! 슈슈!! 프랑!! 슈슈!!</size>
+()<Speaker>관중</Speaker>||<SE1>AVG_applause_indoor</SE1>:<size=50>앵콜!! 앵콜!! 앵콜!!</size>
+()<Speaker></Speaker>||:노래가 끝났어도 관객들은 공연에 푹 빠져 헤어나오지 못했다.+그 관객의 파도 사이에서, 당신은 물결치는 손들 사이로 사쿠라를 바라봤다.+때마침 사쿠라도 당신을 본 것 같았다.
+()<Speaker></Speaker>||:그녀는 당신의 시선에 부응하듯 똘망똘망한 눈망울에 고인 눈물을 뿌리치며 고개를 끄덕이고, 다시 마이크를 높이 들었다.
+()<Speaker>미나모토 사쿠라</Speaker>||<SE1>Stop_AVG_loop</SE1>:오늘 밤, 마지막 노래는 모두 다 함께――!!
+()<Speaker>니카이도 사키</Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><震屏3>:<size=50>날려버린다아아아아!!!</size>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><关闭蒙版><SE1>AVG_21Winter_Open_Light</SE1>:그 외침과 함께 돌연 공연장의 조명이 전부 꺼져, 1초 전까지만 해도 눈부시게 반짝이던 세상이 어둠에 잠겼다.
+()<Speaker>관중</Speaker>||:무슨 일이야? 프랑슈슈는?!
+()<Speaker></Speaker>||:관객들이 술렁거렸지만, 다 아는 당신은 그저 씨익 웃기만 하던... 그때.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:형광봉의 빛으로 길을 더듬으며, 가면의 은발 소녀가 당신에게 다가왔다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale><Shake>0.1</Shake>||:저기, 지금 뭔 일이야?+클라이맥스에 이렇게 사라지는 게 어딨어! 뭐야, 사고야?
+NPC-Fans(0)<Speaker>지휘관</Speaker><Position>0,-250</Position><Scale>1.7</Scale><同时置暗>||:사고 아니야, 그리고 금방 알게 돼.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:오... 특별 기획?
+()<Speaker>지휘관</Speaker>||:응, 사소한 특별 기획.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:그때, 지면이 미세하게 진동했다. 무언가 거대한 것이 날갯짓하며 날아오른 것만 같았다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:저건...!
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:그리고 대형 스크린의 거대한 빛이 어둠을 밝혔다.+화면에 나타난 것은...
+()||<白屏1><BGM>BGM_Saga_Song_2</BGM>:
+()<Speaker></Speaker>||<common_effect>%%code=CJ_piaodai%%</common_effect><白屏2><BIN>603</BIN><SE1>AVG_Rromantic</SE1>:열기구를 타고 하늘로 날아오른 프랑슈슈였다.
+()<Speaker>관중</Speaker>||:어이어이 진짜냐고 젠장, 열기구잖아!
+()<Speaker>미나모토 사쿠라</Speaker>||<SE1>ClothingUp</SE1>:안녕하세요――!! 마지막 곡은 열기구 위에서 전해 드립니다――!!
+()<Speaker>니카이도 사키</Speaker>||<SE1>ClothingUp</SE1>:<size=50>눈 크게 뜨고 자알 보라고!!</size>
+()<Speaker>미즈노 아이</Speaker>||:여러분, 우리가 보인다면 손의 형광봉을 흔들어 줘!
+()<Speaker></Speaker>||:고소공포증이 있는 준코는 역시 열기구 위에서의 공연이 무리였는지, 바들바들 떨었다.+하지만 정말 괜찮을까 걱정되기 시작될 쯤, 그녀가 입술을 움찔거리며 간신히 미소를 짜냈다.
+()<Speaker>콘노 준코</Speaker>||:<size=25>모, 모모모...</size>+모두...! 저, 저희의 무대를 끝까지 봐 주세요!
+()<Speaker>호시카와 릴리</Speaker>||<SE1>ClothingUp</SE1><SE1>AVG_Cheerful</SE1>:야~호~! 모두 릴리 잘 보여~!?
+()<Speaker>야마다 타에</Speaker>||<SE1>AVG_Bite</SE1>:우물우물우물... (열심히 뭘 씹는 중.)
+()<Speaker>유우기리</Speaker>||:대지에 펼쳐진 은하수라... 찬란하기 그지없군요.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>595</BIN>:프랑슈슈의 모습이 대형 스크린에 송출되고 있었지만, 공연장의 관객들은 모두가 약속이라도 한 듯 고개를 들어 눈으로 하늘 높이 뜬 알록달록한 열기구를 쫓았다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:아! 저기 있다!
+()<Speaker>지휘관</Speaker>||:그래, 하늘 위로 날아올랐어...
+()<Speaker></Speaker>||:당신도 고개를 들어 밤하늘의 별을 찾듯, 저 손이 닿지 않는 곳까지 떠오른 모습을 눈으로 쫓았다.+약속대로, 당신은 당신의 전부를 바쳐 프랑슈슈를 완벽한 아이돌 그룹으로 성장시키고 밤하늘 높이 올려 보냈다.+이제 당신에게 남은 일은 공연을 끝까지 마친 그들이 돌아오길 기다리는 것뿐이었다.+저 밤하늘에 가장 밝게 빛나는 별을 바라보며, 당신은 생각에 잠겼다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:우오오―― 오...? 어디 가? 끝까지 안 봐?
+()<Speaker>지휘관</Speaker>||:난 충분해. 그리고 가서 뒤풀이 파티 준비해야지.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:당신은 끝을 모르는 열기로 가득한 관객석에서 벗어나, 홀로 백스테이지로 향했다.
+()||<黑点1><关闭蒙版>:
+()<Speaker></Speaker>||<黑点2><BIN>553</BIN><Night><SE1>AVG_Door_Open_Close</SE1><BGM>BGM_Empty</BGM>:그런데, 고요한 백스테이지의 복도에 누가 벽에 기댄 채 당신을 기다리고 있었다.
+()<Speaker>지휘관</Speaker>||:......+무슨 일이신지?
+NPC-Kalin(1)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<BGM>m_19christmas_theme</BGM>:그야 물론 축하드리러 왔죠. 이건 정말 전무후무한 콘서트네요.
+()<Speaker>지휘관</Speaker>||:칭찬 감사합니다.
+()<Speaker></Speaker>||:VVVIP 룸으로 들어가려 했지만, 길을 가로막은 카리나는 비킬 생각이 없어 보였다.
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:당신은 아이돌 프로듀서로서 꽝이라 생각했는데, 이렇게나 완벽하게 해낼 줄은 정말 예상 못했어요.
+()<Speaker>지휘관</Speaker>||:......
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:그리폰에서 지휘관 일을 했다셨는데, 그럼 지휘관으로서도 굉장한 분이셨겠네요?
+()<Speaker>지휘관</Speaker>||:......<c>A. (끄덕.)<c>B. (절레절레.)<c>C. (침묵.)
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:그럼... 그리폰에서의 일은 다 마치셨나요?+여기 사가에서 하신 것처럼, 깔끔하고 완벽하게 마치셨나요?
+NPC-Kalin(0)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||:...아직입니다.
+NPC-Kalin(2)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:헤에... 당신도 해결 못하는 일이 있나 봐요?
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:카리나의 옆으로 돌아 문고리를 잡으려 했지만, 카리나가 손을 얹어 제지했다.
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:지휘관 씨, 만약 당신에게 선택의 기회가 주어진다면...+계속 프랑슈슈의 지휘관으로 있으실 건가요, 아님 그리폰의 지휘관으로 돌아가실 건가요?
+()<Speaker>지휘관</Speaker>||:......<c>A 프랑슈슈의 지휘관으로 남는다.<c>B 그리폰의 지휘관으로 돌아간다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:원래 세계로 돌아가서, 그리폰의 지휘관을 계속할 겁니다.
+NPC-Kalin(2)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>2</分支>:그곳에서의 일이 위험하고, 힘들고, 푸대접밖에 못 받더라도요?
+NPC-Kalin(2)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||<分支>2</分支>:저를 믿고 따르는 이들을 그대로 놔둘 순 없죠. 모두에게 평화를 약속했거든요.
+NPC-Kalin(3)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>2</分支>:그럼 프랑슈슈는요? 놔두고 가시게요?
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:저 아이들은... 저 없이도 잘할 겁니다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:사가에 남아서, 계속 프랑슈슈의 지휘관으로서 있을 겁니다.
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>1</分支>:여기서의 일이 더 편하고 대접도 좋아서인가요?
+NPC-Kalin(0)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||<分支>1</分支>:평화로운 시대니까요, 아무리 운이 따르지 않더라도 목숨까지 걱정할 일은 없죠.
+NPC-Kalin(2)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>1</分支>:그럼, 그리폰 기지에 있는 당신의 인형들은요? 이대로 버리실 건가요?
+NPC-Kalin(2)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||<分支>1</分支>:......그건...
+NPC-Kalin(1)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:...진지하게 고민하시긴. 그냥 한번 물어본 거예요.
+NPC-Kalin(1)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||:......
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:그리고, 우리한텐 보통 그런 형편 좋은 선택의 기회가 주어지지 않잖아요. 그쵸?
+NPC-Kalin(0)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||:이만 지나가도 되겠습니까?
+NPC-Kalin(1)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:네.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:카리나는 싱긋 웃으며 길을 비켜 주었다.
+NPC-Kalin(1)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:또 만나요, 지휘관 씨.
+NPC-Kalin(1)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||:또 봅시다.
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:다음에는 어느 시공에서 만나게 되려나요~
+()||<黑点1><SE1>AVG_20Winter_Door_Open</SE1>:
+()<Speaker></Speaker>||<关闭蒙版><SE1>AVG_20Winter_Door_Close</SE1><BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2>:당신이 문고리를 당기니, 방은 불이 안 켜져 있어 온통 깜깜했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그래서 벽을 더듬었지만, 어째선지 스위치를 찾을 수가 없었다.
+()<Speaker>지휘관</Speaker>||:......?
+()<Speaker></Speaker>||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:파도가 배의 밑바닥에 부서지는 소리.+그리고 바닷가 특유의 짭조름한 공기에 섞인, 어렴풋한 꽃향기.
+()<Speaker>지휘관</Speaker>||:또야?!
+()<Speaker></Speaker>||<SE1>AVG_Applause</SE1>:짝짝짝... 뒤에서 경의를 표하는 박수 소리가 들렸다.
+()<Speaker>？？？</Speaker>||:저 아이들에게 흠잡을 곳 없는 완벽한 결말은 선사했구나.
+()<Speaker>지휘관</Speaker>||:프랑슈슈 말인가...
+()<Speaker>？？？</Speaker>||:너는 궤적을 바꿨다. 운명은 이제 네가 개척한 길을 따라 계속 나아가겠지.
+()<Speaker>지휘관</Speaker>||:아 말 좀 알아듣게 하라고! 앞으로 어떻게 되는지나 말해!
+()<Speaker>？？？</Speaker>||:네 운명은 네 손에 달렸다.
+()<Speaker>지휘관</Speaker>||:뭣...
+()<Speaker></Speaker>||:파도가 부서지고, 수면을 가르는 소리. 이 배는 지금 바다 위를 빠르게 달리고 있었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>613</BIN><SE1>Stop_AVG_loop</SE1><睁眼>:......
+3()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:부스스 눈이 뜨였다. 저택의 거실에 앉은 채로 잠들었던 모양이다.+저택 안엔 당신뿐인 것 같았고, 창밖의 화창한 햇살이 이 허름한 저택의 썰렁함을 부각시켰다.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:달력으로 보아선 그 콘서트의 다음날이었다.+프랑슈슈의 평소 스케줄대로라면 지금은 각자 아르바이트나 연습 중일 터였다.
+()<Speaker>지휘관</Speaker>||:그럼, 나는...
+()<Speaker></Speaker>||:당신은 테이블 위에 놓인 꽃병을 멍하니 바라봤다.+8일차. 당신은 이미 약속을 지켰다.+이제 당신이 당당히 이 저택을 나서, 그리폰으로 돌아갈 방법을 찾으러 가도 아무도 무어라 하지 않을 것이다.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:이 날이 오기를 그토록 손꼽아 기다려 왔건만, 정말 이 날이 오니 오히려 씁쓸해졌다.+프랑슈슈에게 미련이 생긴 것을 인정할 수밖에 없었다.
+()<Speaker></Speaker>||<SE1>AVG_TurnOverCard</SE1>:그때, 꽃병 밑에 쪽지가 있는 것을 발견해 천천히 펼쳐 보았다.
+()<Speaker></Speaker>||<narrator><BGM>BGM_Saga_AVG_Day</BGM>:"지휘관, 아직도 주무시길래 먼저 나가요!"+"일어나셨을 땐 아마 알바나 연습 중일 거예요."+"오늘 저녁엔 유우기리가 맛있는 요리를 만든다니까 기대하세요~"+"아 참, 우리가 아는 사람한테 그 그리폰 기지란 데를 조사해 달라 부탁했어요. 카리나 씨도 도와주신다더라고요!"+"그러니까 걱정 마시고, 그때까지 계속 우리 곁에서 이끌어 주세요!"
+()<Speaker>지휘관</Speaker>||:......하핫.
+()<Speaker></Speaker>||:말 안 해도 그들은 이미 당신의 마음을 읽은 것이었다.
+()<Speaker>지휘관</Speaker>||:모두가 이렇게 열심인데, 나만 게으름 피울 순 없지!
+()<Speaker></Speaker>||<SE1>Rope</SE1><SE1>ClothingUp</SE1>:당신은 기지개를 활짝 켜고 자리를 박차고 일어나, 두껍게 쌓인 프랑슈슈의 홍보 전단지를 한 뭉치 들고 문을 나섰다.
+()||<白屏1>:
+()<Speaker></Speaker>||<白屏2><BIN>604</BIN><SE1>AVG_Door_Open_Close</SE1>:당신을 반기는 따스한 햇빛이 너무 눈부셔 눈을 찡그리며, 반짝이는 풀밭을 스윽 훑어봤다.+정말 멋진 세상... 프랑슈슈의 반짝임을 이 세상 구석구석까지 퍼뜨릴 수 있다면, 더욱 멋진 세상이 되겠지.+당신은 그것을 다음 사명으로 삼았다.
+()<Speaker>지휘관</Speaker>||:자아 그럼, 돌아가기 전까지 힘내 볼까.
+()<Speaker></Speaker>||:저택 밖으로 발을 디디며, 당신은 새로운 하루를 시작했다.
+()||<黑点1>:

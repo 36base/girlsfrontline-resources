@@ -1,0 +1,93 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>533</BIN><Night><narrator>:대륙간 열차 "미래호", F01호 객차.
+()||<SE1>AVG_whitenoise</SE1><BGM>GF_21winter_avg_mahaline</BGM>:치이이――+다시 정상 가동 중인 공기 정화 시스템의 소리.+루카스는 지금 이 소리에 집중해야만 자신이 아직도 "미래호"에 타고 있다는 실감이 들었다.+저 소리라도 없으면, 그는 그대로 잠들었을 것이다.+동력이 간신히 재가동됐지만, 여기서 얼마나 오래 있어야 할지 아무도 몰랐기에 차량의 공기 정화 시스템을 제외한 모든 전력을 소모하는 것들의 전원을 내린 상태였다.+소름끼치는 포성이 멎었음에도, 아무도 입을 열려 하지 않았다.+비관적인 한탄이나 기운 빠지는 한숨도 없었다.+모두, 조용히 여명이 다가오기만을 기다렸다.
+NPC-TD_Worker(1)<通讯框><Speaker>폴</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>루카스.</color>+<color=#00CCFF>미안하지만, 혹시 남는 사탕 같은 거 없을까?</color>
+NPC-TD_Worker(1)<通讯框><同时置暗><Speaker></Speaker>||<SE1>ClothingUp</SE1>:반끔 감겼던 루카스의 눈이 번쩍 뜨였다. 옆에서 잠시 눈을 붙이는 중인 닥터 루고사를 슬쩍 본 그는 조금 짜증 섞인 목소리로 대답했다.
+NPC-TD_Worker(1);NPC-TD_Boy(0)<Speaker>루카스</Speaker>||:<color=#00CCFF>폴 씨, 지금 비상식량은 건빵이랑 생수밖에 없어요. 다른 건 수잔나 씨한테 물어보세요.</color>
+NPC-TD_Worker(1)<通讯框><Speaker>폴</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>그렇구나. 미안해, 내가 너무 급했어.</color>+<color=#00CCFF>다른 사람에게 물어볼게.</color>
+NPC-TD_Worker(1)<通讯框>;NPC-TD_Boy(0)<同时置暗><Speaker></Speaker>||:루카스가 귀를 기울이니, 루고사의 호흡이 느리고 규칙적인 것으로 보아 이제 깊이 잠든 모양이었다.
+NPC-TD_Worker(1)<通讯框>;NPC-TD_Boy(0)<Speaker>루카스</Speaker>||:<color=#00CCFF>...선생님은 많이 지치셨으니 깨우지 말아 주시겠어요?</color>
+NPC-TD_Worker(1)<通讯框><Speaker>폴</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>...정말 미안해.</color>
+NPC-TD_Worker(1)<通讯框>;NPC-TD_Boy(0)<Speaker>루카스</Speaker>||:<color=#00CCFF>로시타한테 많이 해 주셨잖아요. 좀 쉬게 해 주세요, 네?</color>
+NPC-TD_Worker(1)<通讯框><Speaker>폴</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>응.</color>+<color=#00CCFF>나도 의사 선생님을 귀찮게 하고 싶지 않아.</color>+<color=#00CCFF>단지, 로시타가 하루 종일 아무것도 못 먹어서... 조금 걱정돼.</color>
+NPC-TD_Worker(1)<通讯框>;NPC-TD_Boy(0)<Speaker>루카스</Speaker>||:<color=#00CCFF>저혈당은 그렇게까지 급한 일이 아니에요. 그리고 선생님이 이렇게까지 지치신 건 진짜 오랜만이고요.</color>
+NPC-TD_Worker(1)<通讯框><Speaker>폴</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>막 열이 내린 참인데 몸이 못 버티면 어떡할까 해서...</color>+<color=#00CCFF>얼마나 기다려야 할지조차 모르는 상황이니까...</color>
+NPC-TD_Worker(1)<通讯框>;NPC-TD_Boy(0)<Speaker>루카스</Speaker>||:<color=#00CCFF>......죄송해요.</color>+<color=#00CCFF>하지만 지금 당장 당분을 보충할 만한 게 있는진 정말 모르겠어요.</color>
+NPC-TD_Worker(1)<通讯框><Speaker>폴</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>알았어, 고마워. 그런데... 그... 또 부탁하고 싶은 일이 있는데...</color>
+NPC-TD_Boy(0)<Speaker>루카스</Speaker>||<黑点1>:<color=#00CCFF>......</color>+<color=#00CCFF>말하세요.</color>
+()||<黑点2><BIN>529</BIN><Night><narrator>:대륙간 열차 "미래호", F02호 객차
+()||:바닥에 앉아 있는 폴은 단어 선정을 고민했다.+입력했다 지우고를 반복한 끝에, 겨우 송신했다.
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||:<color=#00CCFF>난 "콜트 익스프레스"에서 "이둔"을 하나 샀어.</color>+<color=#00CCFF>가능하다면, 그걸 의사 선생님이 주사한 "혈청"값 대신 내고 싶어.</color>
+NPC-TD_Worker(1);NPC-TD_Boy(0)<通讯框><Speaker>루카스</Speaker>||:<color=#00CCFF>이, 이둔이요?!</color>
+NPC-TD_Worker(1)<Speaker>폴</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>미안해, 이걸로 은혜를 다 갚을 수 있다고는 생각 안 해.</color>+<color=#00CCFF>배상하겠다는 건 아니고...</color>+<color=#00CCFF>아니, 배상이 맞나?</color>+<color=#00CCFF>......</color>+<color=#00CCFF>미안, 내가 말주변이 많이 없어.</color>+<color=#00CCFF>의사 선생님께는 정말 감사해. 그래서 조금이라도 성의를 보이고 싶어. 다만 내가 지금 가진 게 암시장에서 산 그것뿐이야.</color>
+NPC-TD_Worker(1);NPC-TD_Boy(0)<通讯框><Speaker>루카스</Speaker>||:<color=#00CCFF>아니, 지금 무슨 소릴 하는 건지 알아요?</color>+<color=#00CCFF>갈라테아가 영업 정지당한 후론 시중에 풀린 이둔은 부르는 게 값이에요!</color>+<color=#00CCFF>선생님이 쓰신 혈청보다 훨씬요!</color>
+NPC-TD_Worker(1)<Speaker>폴</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>...그럼 더 잘된 일이고.</color>
+NPC-TD_Worker(1);NPC-TD_Boy(0)<通讯框><Speaker>루카스</Speaker>||:<color=#00CCFF>하지만 선생님은 아마 안 받으실 거예요. 그런 분이시니까요.</color>
+NPC-TD_Worker(1)<Speaker>폴</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>그럼 대신 네가 받아서 선생님께 드리면 안 될까?</color>+<color=#00CCFF>거래 코드를 보내 줄 테니, "큄비"에게 연락하면 받을 수 있을 거야.</color>
+NPC-TD_Worker(1);NPC-TD_Boy(0)<通讯框><Speaker>루카스</Speaker>||:<color=#00CCFF>......</color>+<color=#00CCFF>아, 생각났다. 먹을거 2호차에 아직 남았지도 몰라요.</color>+<color=#00CCFF>혹시 야시 기능 있으세요? 선생님 좌석 밑에 쇠로 된 상자가 있을 텐데, 그거 안에 로쿰이 들었어요.</color>+<color=#00CCFF>찾아서 가져오시면 제가 로시타한테 먹일게요.</color>
+NPC-TD_Worker(1)<Speaker>폴</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>......</color>
+NPC-TD_Worker(1);NPC-TD_Boy(0)<通讯框><Speaker>루카스</Speaker>||:<color=#00CCFF>...오해 마세요.</color>+<color=#00CCFF>보상이라든가 그런 생각 아니니까!</color>
+NPC-TD_Worker(1)<Speaker>폴</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>...고마워.</color>
+NPC-TD_Worker(1);NPC-TD_Boy(0)<通讯框><Speaker>루카스</Speaker>||:<color=#00CCFF>열차 탈선으로 다 뒤집어져서 상자도 쏟아졌을지 모르니까 벌써 고마워하지 마세요.</color>
+NPC-TD_Worker(1)<Speaker>폴</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>이 로쿰이란 거, 나니아 연대기에 나오는 장미 젤리 맞지?</color>
+NPC-TD_Worker(1);NPC-TD_Boy(0)<通讯框><Speaker>루카스</Speaker>||:<color=#00CCFF>어, 알아요?</color>
+NPC-TD_Worker(1)<Speaker>폴</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>응, 로시타가 엄청 좋아해.</color>
+NPC-TD_Worker(1);NPC-TD_Boy(0)<通讯框><Speaker>루카스</Speaker>||:<color=#00CCFF>루고사 선생님도요.</color>
+NPC-TD_Worker(1)<Speaker>폴</Speaker>;NPC-TD_Boy(0)||:<color=#00CCFF>그럼 찾아볼게.</color>
+NPC-TD_Worker(1);NPC-TD_Boy(0)<通讯框><Speaker>루카스</Speaker>||:<color=#00CCFF>상자가 철제니까 자석이 있으면 더 빨리 찾을 수 있을지도 몰라요.</color>
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||:<color=#00CCFF>그래... 고마워.</color>
+()||<SE1>AVG_tele_disconnect</SE1>:폴이 통신을 종료했다.
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||:매기 씨, 혹시 자석 있습니까?
+ColtWalker(1)<Speaker>매기</Speaker>;NPC-TD_Worker(1)||:없는데.+ 왜, 지금 자석 놀이라도 하고 싶어?
+ColtWalker(1);NPC-TD_Worker(1)<Speaker>폴</Speaker>||:아니오, 철제 상자를 찾으려 합니다.
+ColtWalker(1)<Speaker>매기</Speaker>;NPC-TD_Worker(1)||:망가진 열차 안에서 철제 상자를 찾다니, 네가 무슨 WALL-2냐?+하긴 뭐, 밖은 하늘에서 포탄이 빗발치니 심심풀이라도 있어야겠지.+아무튼 난 자석 없어, 수잔나의 준비실에서 보물찾기라도 해보던가.
+NPC-TD_Worker(1)<Speaker>폴</Speaker>||:알겠습니다, 직접 찾아볼게요.
+()||<SE1>AVG_20Winter_Drink_Tea</SE1><BGM>BGM_Empty</BGM>:매기는 어디선가 아직도 멀쩡한 술잔 두 개를 꺼내 왔다.+그리곤 잔을 바닥에 내려놓고, 조금 더러워진 셰이커도 꺼내 소매로 쓱쓱 닦았다.
+()||<SE1>Rope</SE1><BGM>GF_2022_Summer_AVG_2</BGM>:한편, 다른 쪽에 웅크리고 앉은 엘마는 멍한 눈빛으로 매기를 바라봤다.+지금 이 난장판 속에서 두 인형들이 앉은 자리만이 그나마 깨끗했다.
+Erma(6)<Speaker>엘마</Speaker>||:...안 속상해?
+ColtWalker(1)<Speaker>매기</Speaker>||:당연히 속상하지.+진이 이제 이 반 병밖에 안 남았는데.
+Erma(6)<Speaker>엘마</Speaker>||:내 말은... 캐서린이랑... 류드밀라 말이야...+둘의 신호가 완전히 사라졌어... 코어만이라도 회수할 수 있을지...
+ColtWalker(1)<Speaker>매기</Speaker>||:그렇게 쓸데없는 슬픔에 잠겨 있기보단 말이야...+더 의미 있는 일을 해야 하지 않을까?
+Erma(6)<Speaker>엘마</Speaker>||:...그러는 넌 지금 뭐하는데.
+()||<SE1>AVG_va_addingredient</SE1>:매기가 다 흔든 셰이커의 주둥이를 열어, 맑은 술을 두 잔에 따랐다.+그리고 조금 더러워진 올리브 알도 꺼내 잔들에 넣었다.+한 잔은 자신을 위해, 한 잔은 엘마를 위해.
+ColtWalker(1)<Speaker>매기</Speaker>||:내 삶에 가장 중요한 일 중 하나지, 술 섞기.+그래도 이런 믹스 컨셉은 처음인데 어떨지 모르겠네~ 얼른 마셔 봐.
+Erma(6)<Speaker>엘마</Speaker>||:......
+()||<SE1>Rope</SE1>:엘마는 말 대신 카디건 안으로 더욱 웅크리며 거절했다.+이에 매기는 어깨를 으쓱하곤 두 잔 모두 자신의 앞으로 당기곤 한 모금 홀짝였다.+그리곤 입가를 핥고 한숨을 내뱉었다. 아무래도 역시 먼지 묻은 올리브는 넣어선 안 됐던 모양이었다.
+ColtWalker(1)<Speaker>매기</Speaker>||:야... 우리 이따 같이 그리폰으로 가야 하잖아.+그동안 말이나 나누면서 미리 친목이나 다지자고.
+ColtWalker(1);Erma(6)<Speaker>엘마</Speaker>||:너랑은 할 얘기 없어.
+ColtWalker(1)<Speaker>매기</Speaker>;Erma(6)||:없기는, 그 어떤 주제로든 이야기꽃을 피울 수 있는 게 장사꾼의 기본 소양인데.+흐음... 아님 진실 게임이라도 해볼래?+너한테 묻고 싶은 게 있걸랑.
+ColtWalker(1);Erma(4)<Speaker>엘마</Speaker>||:...뭔데?
+ColtWalker(1)<Speaker>매기</Speaker>;Erma(4)||:왜 흄 박사를 "엄마"라 불러?+그 사람은 생물학적으로도 심리학적으로도 남성이잖아.
+ColtWalker(1);Erma(4)<Speaker>엘마</Speaker>||:......+남자는 엄마라 부르면 안 돼?
+ColtWalker(2)<Speaker>매기</Speaker>;Erma(4)||:그래 내가 졌다 졌어...+네 차례야, 나한테 묻고 싶은 거 있어?
+ColtWalker(2);Erma(7)<Speaker>엘마</Speaker>||:...왜 캐서린이 "하트K"고 네가 "하트Q"야?
+ColtWalker(1)<Speaker>매기</Speaker>;Erma(7)||:그야 걔야말로 진정한 "미스 포커"니까지.
+ColtWalker(1);Erma(7)<Speaker>엘마</Speaker>||:그게 뭔데?
+ColtWalker(1)<Speaker>매기</Speaker>;Erma(7)||:그러니까, 그 녀석 사기 수법이 나보다 훨씬 뛰어나다고.
+ColtWalker(1);Erma(6)<Speaker>엘마</Speaker>||:하나도 그렇게 안 보여.
+ColtWalker(1)<Speaker>매기</Speaker>;Erma(6)||:내가 좀 많이 야단법석 피우는 스타일이라 그런 거고.
+ColtWalker(1)<Speaker>매기</Speaker>;Erma(6)||:그나저나... 좀 이상한데?+류드밀라가 말한 구조 도착 시간이 한참 지났어.
+ColtWalker(1);Erma(6)<Speaker>엘마</Speaker>||:...좀 늦어지나 보지 뭐.
+ColtWalker(1)<Speaker>매기</Speaker>;Erma(6)||:아니, 녀석이 10분이라 했으면 10분이야, 9분 59초고 58초 그런 거 없어.
+ColtWalker(1);Erma(6)<Speaker>엘마</Speaker>||:그래도 기다리는 거 말곤 할 수 있는 게 없는걸.
+ColtWalker(1)<Speaker>매기</Speaker>;Erma(6)||:그렇다고 기다리기만 하면 있던 운도 다 날아가 버린다고.+흐음... 아, 그게 좋겠다. 그거 알아? 실은 말이지, 내 주특긴 오컬트야.
+ColtWalker(1);Erma(7)<Speaker>엘마</Speaker>||:...그럼 류드밀라의 영혼을 불러낼 수 있어?
+ColtWalker(3)<Speaker>매기</Speaker>;Erma(7)||:그건 너무 비과학적이다 야...
+ColtWalker(3);Erma(4)<Speaker>엘마</Speaker>||:오컬트하잖아.
+ColtWalker(2)<Speaker>매기</Speaker>||:으휴 사소한 건 넘어가자고. 아무튼, "신참의 운"이란 게 참 신통방통하거든...
+()||<白屏1><common_effect>%%code=AVG_chuxian_yan%%</common_effect><BGM>BGM_Empty</BGM>:파앗——
+()||<白屏2><BIN>527</BIN><SE1>ShuffleCards</SE1><BGM>m_avg_hope</BGM>:54장의 트럼프 카드가 엘마 앞의 테이블 위에 가지런히 놓였다.+맞은편에 앉은 매기는 또 술 한잔을 따르더니 느긋하게 한 모금 마셨다.
+Erma(2)<Speaker>엘마</Speaker>||:...이게 다 뭐야?
+ColtWalker(1)<Speaker>매기</Speaker>||:한 장 뽑으셔.
+()||<SE1>DealCards</SE1>:엘마는 입을 삐죽 내밀곤 가장 가까운 카드를 뽑아 뒤집었다.+스페이드의 K였다.
+()||:이를 본 매기는 한쪽 눈썹을 치켜올렸다.
+ColtWalker(3)<Speaker>매기</Speaker>||:오우... 아주 불길한걸.
+ColtWalker(3);Erma(2)<Speaker>엘마</Speaker>||:왜? 이게 무슨 뜻인데?
+ColtWalker(3)<Speaker>매기</Speaker>;Erma(2)||:열차에 누군가가 우리를 못 나가게 하려고 길을 틀어막고 있단 뜻이야.
+Erma(0)<Speaker>엘마</Speaker>||:그냥 아무거나 한 장 뽑았을 뿐인데...+그렇게 바로 단정짓는 건 오버 아니야?
+()||<SE1>AVG_File_Put</SE1>:매기는 씨익 웃으며 카드를 정리해 치웠다.
+ColtWalker(1)<Speaker>매기</Speaker>||:방금 말했잖아, 신참의 운이란 신통방통하다고.+자아 손님 여러분~ 콜트 익스프레스, 오늘의 막차가 출발합니다~!
+Erma(0)<Speaker>엘마</Speaker>||:...소체, 잘 지킬게.
+ColtWalker(1)<Speaker>매기</Speaker>||:그럴 필요 없어.+너한테 그딴 일보다 훠얼씬 막중한 임무를 맡길 거니까.
+()||:......
+()||<黑屏1>:

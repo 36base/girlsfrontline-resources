@@ -1,42 +1,42 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>159</BIN><黑屏2><BGM>m_avg_hope</BGM>:젤린스키가 파견한 지원군에 의해, 기지 밖에서 대기 중이던 반군들은 궤멸적인 타격을 입었다.+그리고 그들의 사기가 흔들리는 틈을 노리고, 크루거는 잔존 인형들을 이끌고 기지 밖으로 빠져나왔다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:탈출... 성공했습니다!
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그래...
-()||:정말 오랜만인 것 같은 하늘을 올려다보던 크루거가 그대로 뒤로 쓰러졌다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:크루거 님!
-NPC-Helian(0)<Speaker>젤린스키</Speaker><同时置暗>||:<color=#00CCFF>헬리안투스, 들리나?</color>
-NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Zielinski(0)<通讯框>||:젤린스키 국장님...? 네, 들립니다!
-NPC-Helian(0)<Speaker>젤린스키</Speaker><同时置暗>||:<color=#00CCFF>너무 늦지 않았나 보군.</color>+<color=#00CCFF>이제 안전하다.</color>
-NPC-Maid(0)<Speaker>지원군 인형</Speaker>||:헬리안 님, 크루거 님은 저희에게 맡기십시오.+마인드맵 서버는 저쪽의 차량에 싣고, 부상자 인형들은 저를 따라오십시오.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:감사합니다... 정말 감사합니다...
-()||:크루거가 간신히 눈을 떴다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:헬리안... 이제 안심하게...
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:...네.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||<黑屏1>:...그리고 지휘관에게 통신 좀 걸어 주게.
-()||<黑屏2><BIN>97</BIN>:공항 대기실에서 지휘관은 좀처럼 진정하지 못했고, 인형들은 눈치 있게 자리를 비워 주었다.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:정말 저렇게 내버려둬도 돼...?
-AR15Mod(0)<Speaker>AR15</Speaker>||:지휘관이 스스로 차분해질 때까지 기다려.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그치만 지휘관 지금 머리 다 뜯어버릴 거 같은데.
-NytoIsomer(9)<Speaker>댄들라이</Speaker>||:걱정 마, 또 자라.
-RO635Mod(2)<Speaker>RO635</Speaker>||:기지가 어떻게 됐는지조차도 알 수가 없으니...
-BOSS-8(0)<Speaker>에이전트</Speaker>||:......
-()||<SE1>AVG_tele_connect</SE1>:삐삐삐——!+통신기가 울렸다.
-()<Speaker>지휘관</Speaker>||:!!!
-()||<震屏>:발신자를 본 순간, 지휘관은 하마터면 통신기를 놓칠 뻔했다.
-()<Speaker>지휘관</Speaker>||:크루거 씨!!!+...모두 무사합니까? 기지는요!?
-NPC-Kyruger(0)<Speaker>크루거</Speaker><通讯框>||:<color=#00CCFF>진정하게, 지휘관... 그냥 거인국 사람이 밟고 지나간 모양새가 됐을 뿐이야...</color>+<color=#00CCFF>껄껄껄... 농담이고, 마인드맵 서버는 무사하네.</color>+<color=#00CCFF>헬리안이 조금 다치고, 페르시카의 실험실이 좀 엉망이 된 정도야.</color>
-NPC-Persica(1)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>이게 무슨 "좀"이에요!? 나 진짜 클레임 넣을 거야!</color>
-NPC-Persica(1)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:카리나는요? 그녀도 무사합니까?
-NPC-Kyruger(0)<Speaker>크루거</Speaker><通讯框>||:<color=#00CCFF>카리나는 이 난리가 나기 며칠 전에 전문 병원으로 이송돼 아직도 거기서 휴양 중일세... 상태도 양호하니 너무 걱정 말게나.</color>+<color=#00CCFF>자넨 어떤가? 베를린에서의 일은 잘 풀리고 있나?</color>
-NPC-Kyruger(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:하하하... 아주 순조롭게 해결해 나가는 중입니다, 패러데우스 놈들은 저희만 보면 소인국 사람들처럼 도망치기 바쁩니다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker><通讯框>||:<color=#00CCFF>그래... 자네라면 잘 해내리라 믿었네...</color>+<color=#00CCFF>이제 젤린스키의 지원군도 도착했으니, 안심하게나.</color>+<color=#00CCFF>하벨이 공수한 이동 기지 차량도 오고 있다니, 그게 오는대로 우리도 곧장 베를린으로 향하려 하네.</color>
-NPC-Kyruger(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:알겠습니다, 그럼 여기서 다시 뵙겠습니다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker><通讯框>||:<color=#00CCFF>그래, 베를린에서 다시 보세.</color>
-()||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
-()<Speaker>지휘관</Speaker>||<黑屏1>:...베를린에서 패러데우스를 모조리 쓸어버려서, 휴양지로 만들어드리겠습니다.
-()||<黑屏2><BIN>15</BIN><BGM>BGM_Empty</BGM><SE1>Rope</SE1><火花>:반군 특전사 대장은 총을 단단히 쥐고서, 자세를 다듬고 통신을 청취했다.
-()<Speaker>특전사 지휘부장</Speaker>||<BGM>BGM_NightOPS</BGM>:<color=#00CCFF>임무 완료다. 잔존병을 규합해 철수하도록.</color>
-NPC-Soldier(0)<Speaker>특전사 대장</Speaker>||:하지만 최우선 목표의 제거에는 실패했다. 정말 이대로 철수해도 되나?
-NPC-Soldier(0)<Speaker>특전사 지휘부장</Speaker><同时置暗>||:<color=#00CCFF>그렇다. 더 중요한 임무가 하달됐다.</color>
-NPC-Soldier(0)<Speaker>특전사 대장</Speaker>||:알았다.
-()<Speaker>특전사 지휘부장</Speaker>||<黑屏1>:<color=#00CCFF>모스크바 겨울의 첫 눈이, 우릴 기다린다.</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>159</BIN><黑屏2><BGM>m_avg_hope</BGM>:젤린스키가 파견한 지원군에 의해, 기지 밖에서 대기 중이던 반군들은 궤멸적인 타격을 입었다.+그리고 그들의 사기가 흔들리는 틈을 노리고, 크루거는 잔존 인형들을 이끌고 기지 밖으로 빠져나왔다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:탈출... 성공했습니다!
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그래...
+()||:정말 오랜만인 것 같은 하늘을 올려다보던 크루거가 그대로 뒤로 쓰러졌다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:크루거 님!
+NPC-Helian(0)<Speaker>젤린스키</Speaker><同时置暗>||:<color=#00CCFF>헬리안투스, 들리나?</color>
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Zielinski(0)<通讯框>||:젤린스키 국장님...? 네, 들립니다!
+NPC-Helian(0)<Speaker>젤린스키</Speaker><同时置暗>||:<color=#00CCFF>너무 늦지 않았나 보군.</color>+<color=#00CCFF>이제 안전하다.</color>
+NPC-Maid(0)<Speaker>지원군 인형</Speaker>||:헬리안 님, 크루거 님은 저희에게 맡기십시오.+마인드맵 서버는 저쪽의 차량에 싣고, 부상자 인형들은 저를 따라오십시오.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:감사합니다... 정말 감사합니다...
+()||:크루거가 간신히 눈을 떴다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:헬리안... 이제 안심하게...
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:...네.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||<黑屏1>:...그리고 지휘관에게 통신 좀 걸어 주게.
+()||<黑屏2><BIN>97</BIN>:공항 대기실에서 지휘관은 좀처럼 진정하지 못했고, 인형들은 눈치 있게 자리를 비워 주었다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:정말 저렇게 내버려둬도 돼...?
+AR15Mod(0)<Speaker>AR15</Speaker>||:지휘관이 스스로 차분해질 때까지 기다려.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:그치만 지휘관 지금 머리 다 뜯어버릴 거 같은데.
+NytoIsomer(9)<Speaker>댄들라이</Speaker>||:걱정 마, 또 자라.
+RO635Mod(2)<Speaker>RO635</Speaker>||:기지가 어떻게 됐는지조차도 알 수가 없으니...
+BOSS-8(0)<Speaker>에이전트</Speaker>||:......
+()||<SE1>AVG_tele_connect</SE1>:삐삐삐——!+통신기가 울렸다.
+()<Speaker>지휘관</Speaker>||:!!!
+()||<震屏>:발신자를 본 순간, 지휘관은 하마터면 통신기를 놓칠 뻔했다.
+()<Speaker>지휘관</Speaker>||:크루거 씨!!!+...모두 무사합니까? 기지는요!?
+NPC-Kyruger(0)<Speaker>크루거</Speaker><通讯框>||:<color=#00CCFF>진정하게, 지휘관... 그냥 거인국 사람이 밟고 지나간 모양새가 됐을 뿐이야...</color>+<color=#00CCFF>껄껄껄... 농담이고, 마인드맵 서버는 무사하네.</color>+<color=#00CCFF>헬리안이 조금 다치고, 페르시카의 실험실이 좀 엉망이 된 정도야.</color>
+NPC-Persica(1)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>이게 무슨 "좀"이에요!? 나 진짜 클레임 넣을 거야!</color>
+NPC-Persica(1)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:카리나는요? 그녀도 무사합니까?
+NPC-Kyruger(0)<Speaker>크루거</Speaker><通讯框>||:<color=#00CCFF>카리나는 이 난리가 나기 며칠 전에 전문 병원으로 이송돼 아직도 거기서 휴양 중일세... 상태도 양호하니 너무 걱정 말게나.</color>+<color=#00CCFF>자넨 어떤가? 베를린에서의 일은 잘 풀리고 있나?</color>
+NPC-Kyruger(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:하하하... 아주 순조롭게 해결해 나가는 중입니다, 패러데우스 놈들은 저희만 보면 소인국 사람들처럼 도망치기 바쁩니다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker><通讯框>||:<color=#00CCFF>그래... 자네라면 잘 해내리라 믿었네...</color>+<color=#00CCFF>이제 젤린스키의 지원군도 도착했으니, 안심하게나.</color>+<color=#00CCFF>하벨이 공수한 이동 기지 차량도 오고 있다니, 그게 오는대로 우리도 곧장 베를린으로 향하려 하네.</color>
+NPC-Kyruger(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:알겠습니다, 그럼 여기서 다시 뵙겠습니다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker><通讯框>||:<color=#00CCFF>그래, 베를린에서 다시 보세.</color>
+()||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
+()<Speaker>지휘관</Speaker>||<黑屏1>:...베를린에서 패러데우스를 모조리 쓸어버려서, 휴양지로 만들어드리겠습니다.
+()||<黑屏2><BIN>15</BIN><BGM>BGM_Empty</BGM><SE1>Rope</SE1><火花>:반군 특전사 대장은 총을 단단히 쥐고서, 자세를 다듬고 통신을 청취했다.
+()<Speaker>특전사 지휘부장</Speaker>||<BGM>BGM_NightOPS</BGM>:<color=#00CCFF>임무 완료다. 잔존병을 규합해 철수하도록.</color>
+NPC-Soldier(0)<Speaker>특전사 대장</Speaker>||:하지만 최우선 목표의 제거에는 실패했다. 정말 이대로 철수해도 되나?
+NPC-Soldier(0)<Speaker>특전사 지휘부장</Speaker><同时置暗>||:<color=#00CCFF>그렇다. 더 중요한 임무가 하달됐다.</color>
+NPC-Soldier(0)<Speaker>특전사 대장</Speaker>||:알았다.
+()<Speaker>특전사 지휘부장</Speaker>||<黑屏1>:<color=#00CCFF>모스크바 겨울의 첫 눈이, 우릴 기다린다.</color>

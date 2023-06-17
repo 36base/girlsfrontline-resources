@@ -1,0 +1,62 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>477</BIN><BGM>2022_white_valentine_BGM2</BGM>:며칠 후.+세 인형은 병상 주위에 모여, 아직도 깨어나질 않는 K5를 지켜보며 조용히 말을 주고받았다.
+R93(0)<Speaker>R93</Speaker><Position>0,-80</Position>||:얘 어쩌다 이렇게 엉망이 됐대... 실수로 납치범 은신처 한복판에 들어갔던 나보다 더 심하게 다쳤잖아.
+Vector(0)<Speaker>Vector</Speaker>||:...그런 폭발에 휘말리고도 산산조각 안 나고 빠져나온 게 기적이지.
+PP90(0)<Speaker>PP90</Speaker>||:하아... 분명히 껴안고 있던 그 애를 살리려고 무리했을 거야.
+R93(0)<Speaker>R93</Speaker><Position>0,-80</Position>||:그랬겠지, 소체가 완전히 걸레짝이 됐는데. 수복하는 데 드는 비용 생각하면 카리나가 피눈물을 흘릴걸? 차라리 새걸로 바꾸는 게 낫겠어.
+PP90(0)<Speaker>PP90</Speaker>||:그치만 얜 점괘에 죽고 살잖아, 죽어도 개조 안 받으려 할 텐데...
+Vector(0)<Speaker>Vector</Speaker>||:쉬잇.
+()||:병상의 K5가 서서히 눈을 떴다.
+()||<SE1>ClothingUp</SE1>:깨질듯이 아픈 머리를 부여잡고, 힘겹게 손을 들어 눈부신 등불을 가리고서야 주위의 동료들이 K5의 눈에 들어왔다.
+K5(0)<Speaker>K5</Speaker>||:아...! 너희 괜찮아?!
+PP90(0)<Speaker>PP90</Speaker>||:우린 다 멀쩡하니까 진정해.+나머지 인질 6명도 다 무사히 구출했고, 납치범도 전부 체포했어!+단지, 놈들한테 시간을 너무 뺏기는 바람에 널 구하러 가는 게 늦어졌어, 미안해...
+K5(0)<Speaker>K5</Speaker>||:괜찬아... 너희도 붙잡혔던 애들도 무사하다면야 그걸로 됐지... 아!+나 발견했을 때 여자애 한 명 있지 않았어!?
+Vector(0)<Speaker>Vector</Speaker>||:그 애라면 바로 옆의 인간용 병실에... 어휴.
+()||<SE1>RunStep</SE1><黑点1>:K5는 말도 다 안 듣고 곧장 맨발로 차가운 바닥을 딛고 절뚝거리면서도 냅다 문 밖으로 달렸다.
+()||<黑点2><BIN>160</BIN>:......
+()||<SE1>AVG_Door_Open</SE1>:인간용 병실의 문이 벌컥 열렸다.
+()||<SE2>AVG_ElecSpace</SE2>:그런데 안에는 아무도 없어, 의료기기의 무미건조한 백색 소음만 들렸다.
+K5(0)<Speaker>K5</Speaker>||<SE1>Stop_AVG_loop</SE1>:<color=#A9A9A9>결국... 못 구한 거야...?</color>
+()<Speaker>？？</Speaker>||<SE1>AVG_Wheelchair</SE1>:아, 언니다!
+()||<SE1>Stop_AVG_loop</SE1>:화들짝 놀라 고개를 돌리니, 휠체어에 앉았지만 표정부터가 기운이 넘치는 그 아이가 있었다.
+K5(0)<Speaker>K5</Speaker>||:아아...! 너, 너 다리는...
+NPC-Lilyan(0)<Speaker>여자아이</Speaker>||:의사 선생님이 한동안 휠체어 타야겠지만 괜찮대! 다른 상처도 금방 다 나을 거랬어!
+K5(0)<Speaker>K5</Speaker>||:다행이다... 정말 다행이야...
+NPC-Lilyan(0)<Speaker>여자아이</Speaker>||:언니가 도와준 덕분이야.+아 참, 이거! 안 망가졌더라.
+()||<SE1>ClothingUp</SE1>:여자아이가 옆의 서랍에서 타로카드 세 장을 꺼냈다.+가장 위에 놓인 건 바로 그 "매달린 사람"이었다.
+K5(0)<Speaker>K5</Speaker>||:아... 어...
+()||:무슨 표정으로 어떤 말을 해야 할지 몰랐다.+어쨌든 점술로 이 아이가 살 의지를 갖게 한 것만으로 다행이라 생각하려던 그때...
+NPC-Lilyan(0)<Speaker>여자아이</Speaker>||:있잖아, 언니...+사실 나, 학교에서 타로카드가 유행한 적 있어서 나도 보는 법 배운 적 있어.+언니, 거짓말했지? 그때 카드 뒤집는 방향도 달랐고 나중에 말해 준 뜻도 원래 뜻이랑 달랐어.
+()||:그 말에 K5는 숨이 턱 막혔다.
+K5(0)<Speaker>K5</Speaker>||:어?! 그, 그럼 왜...
+NPC-Lilyan(0)<Speaker>여자아이</Speaker>||:언니가 우리 모두 빠져나올 수 있다고 말했잖아. 그래서 믿었어.
+()||:아이는 고개를 들어, 잔해 아래 갇혔을 떄처럼 K5의 눈을 바라봤다.
+NPC-Lilyan(0)<Speaker>여자아이</Speaker>||:언니, 난 점 안 믿고, 언니가 말한 운명이 뭔지도 잘 몰라...+그래도, 언니를 믿어.
+K5(0)<Speaker>K5</Speaker>||:......
+()||:K5는 멍하니 그 말을 곱씹었다.+그때, 도망치던 길에서 자신을 지탱해 주었던 것은 정말 점괘였을까?+아니면 윤선과의 약속이었을까?
+K5(0)<Speaker>K5</Speaker>||:...날 믿어 줘서, 정말 기쁘다.
+NPC-Lilyan(0)<Speaker>여자아이</Speaker>||:언니가 막 찢어버린 거, "탑"이었지? 그래서 언니가 막 화낸 거였지?
+()||:여자아이는 장난스럽게 눈을 깜빡였다.
+NPC-Lilyan(0)<Speaker>여자아이</Speaker>||:사실 있지, 나 "탑" 그림의 떨어지는 두 사람이 우리 같다 생각했었어.+근데 언니가 날 구해줬어!
+()||<SE1>ClothingUp</SE1>:이번엔 약간의 자괴감에, K5는 고개를 떨궜다.
+K5(0)<Speaker>K5</Speaker>||:...내가 더 강했더라면 널 더 잘 지켜주고, 그렇게 오랫동안 갇히지도 않았을 텐데.
+NPC-Lilyan(0)<Speaker>여자아이</Speaker>||:언니...
+()||:K5는 천천히 고개를 들었다.
+K5(0)<Speaker>K5</Speaker>||:하지만, 이제 결심했어.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>22</BIN>:......
+()||<BGM>GF_2022_Summer_AVG_1</BGM>:K5가 마음을 바꿔 마인드맵 업그레이드를 받기로 했다는 이야기를 들은 동료들은 호기심 반 걱정 반으로 공방의 문 앞에 모였다.
+PP90(0)<Speaker>PP90</Speaker>||:우와아, 대체 무슨 일이길래 K5가 점괘를 무시했대?
+R93(0)<Speaker>R93</Speaker><Position>0,-80</Position>||:쟤 저러다 다시는 점 안 치는 거 아니야?
+Vector(0)<Speaker>Vector</Speaker>||:......+개조 받으라고 부추길 땐 언제고.
+R93(0)<Speaker>R93</Speaker><Position>0,-80</Position>||:아 맞아, 그럼 이제 어쩌지? K5가 점 안 쳐 주면 내 운만 믿고 돌아다니다간 가는 곳마다 비 올 텐데!
+PP90(0)<Speaker>PP90</Speaker>||:으으... 나도 지휘관한테 만들어 줄 디저트 안 망칠까 점 좀 봐 달라고 하고 싶은데...
+K5Mod(0)<Speaker>K5</Speaker>||:풉... 걱정 마셔, 앞으로도 얼~마든지 점괘 봐 줄 테니까.
+PP90(0)<Speaker>PP90</Speaker>||:어, K5? 와아, 새 소체 엄청 좋아 보인다!
+R93(0)<Speaker>R93</Speaker><Position>0,-80</Position>||:헤에, 제법 그럴싸한데?
+K5Mod(0)<Speaker>K5</Speaker>||:히힛... 고마워.
+Vector(0)<Speaker>Vector</Speaker>||:그래서, 무슨 바람이 들었길래 마음을 바꿨어?
+PP90(0)<Speaker>PP90</Speaker>||:아! Vivi도 역시 신경쓰였구나!
+K5Mod(0)<Speaker>K5</Speaker>||:응, 이야기하자면 긴데...
+()||:요약하자면, 운명을 엿보고 기다리기보단...
+()||<黑点1>:<color=#FFFACD>스스로 더 강해져서, 운명 앞에서 소중한 이를 지키기로 마음먹었단 말씀!</color>

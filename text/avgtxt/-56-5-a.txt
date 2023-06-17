@@ -1,0 +1,83 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>97</BIN><Night><黑屏2>:베를린, 그리폰 임시 기지.
+()||<SE1>AVG_BaseDoor_Open</SE1><BGM>GF_21winter_avg_pathfinder</BGM>:스르륵.
+()||<SE1>AVG_footsteps_cave</SE1>:깊은 밤, 엘리아나가 몸에 한기를 휘감고 돌아왔다.
+NPC-SCR(0)<Speaker>SCR</Speaker>||<SE1>Stop_AVG_loop</SE1>:아, 왔구나... 어...
+()||:그때까지 엘리아나를 기다리던 SCR이 그녀를 반겼지만, 무시당했다.
+()||<SE1>RunStep</SE1>:엘리아나에게서 뿜어져 나오는 살기를 전혀 눈치채지 못한 채, SCR은 그저 다급히 그녀의 뒤를 쫓았다.
+NPC-SCR(0)<Speaker>SCR</Speaker>||:기다려 엘리아나!+지휘관이 너한테――앗!
+()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1><震屏3>:퉁.+엘리아나가 갑자기 우뚝 멈추는 바람에, 무방비한 SCR은 그대로 엘리아나의 팔뚝에 부딪혔다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:너도 날 질책할 셈이야?
+()||:엘리아나의 목소리는 얼음장처럼 차가웠고, 그녀가 뒤를 돌아본 그제서야 SCR은 그녀의 표정을 볼 수 있었다.
+NPC-SCR(4)<Speaker>SCR</Speaker>||:아, 아니... 난, 난 화 안 났어.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:...총 들어.
+NPC-SCR(5)<Speaker>SCR</Speaker>||:어?
+()||<SE1>AVG_2022Saros_SCARL1</SE1>:엘리아나가 돌연 안전장치를 풀더니 시꺼먼 총구를 SCR의 이마에 들이댔다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:지금 널 총으로 겨누고 있잖아, 어서 총 들어!
+NPC-SCR(4)<Speaker>SCR</Speaker>||:......아니, 안 할 거야.
+()||:그 대답에 엘리아나는 흠칫했다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:...왜?
+NPC-SCR(0)<Speaker>SCR</Speaker>||:왜냐니. 넌 내 대장인걸.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:............
+NPC-SCR(0)<Speaker>SCR</Speaker>||:그리고 지휘관도 전혀 뭐라고 하지 않았어.+그저, 네가 말도 없이 이탈한 게 걱정돼서 나한테 여기서 기다려 달랬어. 네가 돌아오면 페르시카 씨의 실험실로 가보라 전해 달라고.+그거 말고... 다른 건 없어.
+()||<SE1>ClothingUp</SE1>:엘리아나는 총을 든 손을 천천히 내렸다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:...누가 총으로 겨눈다면, 너도 똑같이 맞받아쳐라. 안 그러면 무시당하기 십상이야.
+NPC-SCR(4)<Speaker>SCR</Speaker>||:......
+()||<SE1>AVG_footsteps_cave</SE1>:태도는 살짝 누그러졌지만 기세는 여전한 채로, 엘리아나는 페르시카의 실험실로 발걸음을 옮겼다.
+()||<黑点1><SE1>Stop_AVG_loop</SE1>:혼자 덩그러니 남겨진 SCR은 그렇게 한참 동안 멍하니 서 있었다.
+()||<黑点2><BIN>564</BIN>:잠시 후, 페르시카의 실험실.
+()||<SE1>AVG_footsteps_cave</SE1>:엘리아나가 짜증 가득한 얼굴로 묵묵히 실험실에 들어왔다.
+()||<SE1>Stop_AVG_loop</SE1>:그리고 아무 말 없이 그대로 수복 캡슐에 들어가려 하자, 페르시카가 불쑥 튀어나와 그녀를 가로막았다.
+NPC-Persica(0)<Speaker>페르시카</Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:동작 그만, 내 실험에 끼어들지 마.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:...당신이 저를 호출했습니다만.
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:아 그렇지 참. 너, 네 마인드맵 코어에 삭제 불가능한 프로그램이 있는 거 알지?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......
+()||:당연히 알았다. 누구보다도 잘 알고 있었다.+그렇기에 페르시카의 말은 엘리아나의 영문 모를 분노를 순식간에 꺼뜨렸다.
+()||<BGM>BGM_Empty</BGM>:과열된 머리가 눈 깜짝할 사이에 맑아진 느낌이었다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:네, 알고 있습니다. 저는 그렇게 설계되었습니다.+하지만 이게 문제를 일으킬 염려는 하실 필요 없습니다.+필요하다면 지휘관에게도 설명하겠습니다.
+NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-SCAR-L(0)||:아니 그건 내 알 바 아니니까 네 마음대로 해. 관심 없어.+내 말은 그러니까, 네 소체를 교체할 때 그게 네 마인드맵에 어떻게든 영향을 줄 거란 사실을 알아냈거든?+그래서 알고는 있으라고 불렀어. 너무 고마워하진 마.
+NPC-Persica(0);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<BGM>BGM_Scar_Shenzhizi</BGM>:네, 그것도 압니다.+오늘 작동했었습니다.
+NPC-Persica(1)<Speaker>페르시카</Speaker>||:오, 그래? 어땠어? 자세히 좀 설명해 봐.
+()||<同时置暗>:관심 없다 한 주제에, 페르시카는 아주 흥미진진한 표정으로 물었다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:소체를 교체한 것이 분명 억제 작용을 하지만, 30분을 넘지 못합니다.+그 시간을 초과하면 저는 자동으로 그 임무를 수행하게 됩니다.
+NPC-Persica(2)<Speaker>페르시카</Speaker>||:와오, 자동 실행? 십몇 년 전의 임무인데 이제 와서 수행하고 싶어도 조건이 안 되지 않아?+하여간 예나 지금이나 코드 왕창 꼬아놓고 주석 하나 안 다는 것들이 문제라니까, 내가 미리 자세히 검사해서 망정이지...+어쨌든, 소체 기능에 지장은 없었지?
+NPC-Persica(2);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:네, 확실히 문제 없었습니다. 관련 인물이나 일에 연관되지 않는 이상은.
+NPC-Persica(2)<Speaker>페르시카</Speaker>;NPC-SCAR-L(0)||:흐음... 아무튼 너도 알고 있다니 됐어.+나도 아직은 그거 삭제 못하니까, 무슨 문제 생기면 알아서 보고하도록 해.
+NPC-Persica(2);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......
+NPC-Persica(0)<Speaker>페르시카</Speaker>;NPC-SCAR-L(0)||:너한테 용무는 이걸로 끝.+따로 볼일 없으면 얼른 나가, 일하는 데 방해돼.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:참, 지휘관도 널 찾는 거 같더라.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:...알겠습니다.
+()||<黑点1>:......
+()||<黑点2><BIN>357</BIN>:그리폰 임시 기지, 지휘부.
+()||<SE1>AVG_BaseDoor_Open</SE1>:엘리아나가 지휘실에 들어왔다.
+()<Speaker>지휘관</Speaker>||:아, 왔구나.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 그녀를 반기며 자리에 앉았다.
+()<Speaker>지휘관</Speaker>||:조야 양은 그리폰의 보호를 받아들였어.+네 임무도 완료야.
+()||:그런데, 엘리아나가 한참을 기다려도 지휘관은 말을 계속하지 않았다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:...더 하실 말씀 있습니까?
+NPC-SCAR-L(0)<同时置暗><Speaker></Speaker>||:그제서야 지휘관이 천천히 입을 열었다.
+NPC-SCAR-L(0)<同时置暗><Speaker>지휘관</Speaker>||:임무 자체는 달성했다만... 다른 일이 있었지?+그거에 관해서 말할지는 네 판단에 맡길게.+강요하고 싶지도 않거니와, 억지로 말하게 만들어도 넌 둘러댈 방법이 차고 넘치잖아?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......하아.
+()||:이번엔 엘리아나가 한참을 침묵하다, 이내 푹 한숨을 내쉬었다.+감은 눈은 무언가 다짐을 한 듯했고, 다시 눈을 떴을 땐 더는 지휘관의 시선을 피하려 하지 않았다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:지휘관, "케찰코아틀 작전"에 대해 알고 계십니까?
+NPC-SCAR-L(0)<同时置暗><Speaker>지휘관</Speaker>||:응.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:그러시겠죠, 그때 지휘관은 OPS 지령으로 저를 무장 해제시키셨으니.
+NPC-SCAR-L(0)<同时置暗><Speaker>지휘관</Speaker>||:그래도 "3차 대전 도중 실패한 작전"이라고 적힌 자료뿐이야.
+NPC-SCAR-L(0)<同时置暗><Speaker></Speaker>||:엘리아나가 말을 이었다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<BGM>BGM_Empty</BGM>:네, 그 작전의 실패가 바로 제가 봉인된 이유입니다.
+NPC-SCAR-L(0)<同时置暗><Speaker>지휘관</Speaker>||:지원 요청이 늦어져, 수송기가 로켓포에 격추된 걸로 알고 있어.+조금 어처구니가 없지만... 3차 대전 시절은 워낙에 혼란스러웠으니 말이지.+아직 발굴되지 않은 기록이 산더미야.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<BGM>GF_21summer_avg_SecretAgent</BGM>:그럼 다시 자기소개하겠습니다.+저는 레인저 예하 인형 보병대 "서광" 팀 소속이었습니다.+서광 팀에 관한 모든 정보는 일반적으로 공개된 자료엔 없을 겁니다.+현재의 인형 기술도 서광 팀의 유산을 이어받지 않았고요.
+NPC-SCAR-L(0)<同时置暗><Speaker>지휘관</Speaker>||:......
+NPC-SCAR-L(0)<同时置暗><Speaker></Speaker>||:지휘관은 미간을 살짝 좁혔다.
+NPC-SCAR-L(0)<同时置暗><Speaker>지휘관</Speaker>||:여러모로 흥미가 생기는 이야기인걸.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:지금의 인형 기술은 처음과는 전혀 다른 방향으로 나아간 결과물입니다.+제가 만들어진 시대엔, 세력간 무력 충돌과 전황의 격화로 인해 인형은 성능면에서 금세 병목 구간을 맞았습니다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:하지만 국면은 기술의 발전을 얌전히 기다릴 수 없었죠.+그래서 군은 어떻게든 인형의 군사적 성능 한계를 돌파하고자, 저희 "서광"에게 극비리에 실험을 진행했습니다. 그리고 그 핵심 산물은 저를 통해 오늘날까지 남게 되었습니다.+바로, 제 기반 설정에 묶여 있는... "군번줄"입니다.
+NPC-SCAR-L(0)<同时置暗><Speaker>지휘관</Speaker>||:"군번줄"?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:네, 병사가 전사하더라도 쉽게 신원을 파악하기 위한 금속제 이름표가 맞습니다.+하지만 저희 인형 작전팀에겐 용도가 다릅니다.+마인드맵 데이터의 노획 방지, 그리고 마인드맵의 성능을 일시적으로 상향시키는 기술의 매개체입니다.
+NPC-SCAR-L(0)<同时置暗><Speaker>지휘관</Speaker>||:듣기만으론 꽤 논리적인 설계인걸.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:유감스럽게도 실험과 실전은 천지 차이죠. 당시 기술진은 인형들의... "개체차"를 전혀 고려하지 않았습니다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:어찌 되었든, 이 시스템은 "케찰코아틀 작전"의 확실한 성공을 위해 개발된 것입니다.
+()||<SE1>AVG_Scene_Transfer</SE1>:그 말을 하는 엘리아나에게서는, 뼛속까지 스며드는 한기가 느껴졌다.
+()||<BGM>BGM_Empty</BGM>:......
+()||<黑点1>:

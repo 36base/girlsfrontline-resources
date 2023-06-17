@@ -1,0 +1,104 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>613</BIN><BGM>BGM_Hello</BGM>:바쁜 오후, 저택의 거실.
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:거실의 테이블 앞에 앉은 당신은 한 손에는 김이 모락모락 나는 커피를, 어깨에는 전화기를, 그리고 다른 한 손에는 펜을 들고 통화 중요한 내용을 쉬지 않고 적었다.
+()<Speaker>지휘관</Speaker>||:예, 야외 예능 공연... 토요일...+알겠습니다, 그럼 잘 부탁드립니다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:전화를 끝내면 곧바로 다른 전화가 들어오는 상황이 점심 내내 이어졌다.+슬슬 수화기란 내려놓으면 울리는 물건인지 착각이 들 정도였다.
+()<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1>:여보세요, 프랑슈슈입니다...
+()<Speaker></Speaker>||:그래도 착실하게 전화를 받아, 중요 사항을 꼼꼼히 받아 적었다.+지금 신문사마다 프랑슈슈의 자선 콘서트를 보도하고, 프랑슈슈의 팬덤이 부지런히 갖은 인터넷 커뮤니티서 홍보 활동을 벌이는데 어찌 혼자서 쉴 수 있으랴.+당신은 뿌듯한 마음으로 뻐근한 목과 어깨를 풀면서, 오늘 밤 있을 콘서트도 생각했다.+당신과 프랑슈슈가 지금까지 들인 모든 노력이 이 공연에 반영될 터. 과연 어떤 결과가 나올지...
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:지휘관, 일도 좀 쉬면서 하세요.
+()<Speaker>지휘관</Speaker>||:난 괜찮아.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:부드러운 두 손이 당신의 어깨를 주물러 주었고, 누군가 빈 커피잔도 채워 주었다.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<SE1>AVG_20Winter_Drink_Tea</SE1>:지휘관님, 일에 너무 몰두하시네요. 이렇게 날씨가 좋은데, 밖으로 나가 햇볕을 쬐는 건 어떨런지요?
+NPC-Lily(6)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:맞아 맞아, 이따가 엄청 더 바빠질 거잖아!
+()<Speaker>지휘관</Speaker>||:응, 이것만 얼른 처리――
+NPC-Saki(3)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:<size=50>아 꾸물거리다 해 다 지겄네!</size>
+()<Speaker></Speaker>||<SE1>AVG_Camera_Focus</SE1>:쉬지 않고 울리는 전화기를 또 받으려던 그때, 사키가 전화선을 확 뽑아버렸다.+수화기를 든 채 굳어버린 당신은 그 순간 깨달았다. 누군가 당신이 일을 덜 하길 바라는 것은 이게 처음임을.
+NPC-Junko(1)<Speaker>콘노 준코</Speaker><Position>60,-230</Position><Scale>1.27</Scale>||:어서 외출해요, 날씨가 정말 좋아요!
+NPC-MizunoAi(5)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||:빨리 일어나!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:모두가 밀고 당기는 통에, 당신은 푹신푹신한 소파에서 햇빛이 쨍쨍한 바깥으로 끌려 나왔다.
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>576</BIN><黑点2><SE1>AVG_Door_Open_Close</SE1><SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:확실히 외출하기 좋은 때였다. 잔잔한 해수면 위로 물결이 반짝이고, 해안가의 바위에 파도가 부딪히는 소리는 상큼하고, 바닷가임에도 공기는 더없이 신선했다.+긴장이 풀리자 몸에 쌓인 피로가 단숨에 몰려오는 것이 느껴졌다.
+()<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1><BGM>BGM_Saga_AVG_Day</BGM>:후우...
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:정말 멋진 날이네요...
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:이대로 시간이 멈추면 좋으련만.
+()<Speaker></Speaker>||:당신도 고개를 끄덕였다.
+NPC-Saki(0)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:그렇지! 이 순간을 기념하게 뭐라도 남기자!
+NPC-Junko(1)<Speaker>콘노 준코</Speaker><Position>60,-230</Position><Scale>1.27</Scale>||:좋네요, 그걸 볼 때마다 오늘을 떠올릴 수 있겠어요.
+NPC-Sakura(1)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:그럼 뭘 하면 좋을까?
+()<Speaker>지휘관</Speaker>||:흠... <c>A. 단체 사진을 찍는다. <c>B. 벽에 손바닥 그림을 그린다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:벽에다 손바닥으로 그림을 그리자.
+NPC-Sakura(1)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<分支>2</分支>:손바닥이요?
+NPC-Saki(0)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<分支>2</分支>:오, 나 그거 알아! 손에다 물감 묻혀서 벽에 찍는 그거 말이지?
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:정답.
+NPC-Junko(0)<Speaker>콘노 준코</Speaker><Position>60,-230</Position><Scale>1.27</Scale>||<分支>2</分支>:아, 마침 얼마 전에 제가 물감을 조금 가져왔는데, 지금 객실에 있어요!
+NPC-MizunoAi(2)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||<分支>2</分支>:난 그림 잘 못 그리는데...
+NPC-Lily(8)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<分支>2</分支>:릴리도 손바닥으로는 그림 그려본 적 없어.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:퀄리티는 중요치 않아, 마음을 담으면 돼.
+NPC-Sakura(1)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<分支>2</分支>:그치만 멀 어떻게 그릴지도 모르겄는디요...
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:그러니까——
+NPC-Yugiri(3)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>2</分支>:지휘관님의 뜻을 알 것 같사와요. 모두의 손바닥을 나무에 활짝 핀 꽃처럼 찍는 것이지요?
+()<Speaker></Speaker>||<分支>2</分支><SE1>ClothingUp</SE1>:그 말에 모두가 눈앞의 하얀 벽을 바라봤다. 정신을 집중하니 왠지 모르게 정말 벽에 우뚯 솟은 나무가 나타나, 나뭇가지에 모두의 손바닥 모양인 꽃이 잔뜩 핀 듯한 광경이 그려졌다.
+()||<黑点1><分支>2</分支>:
+NPC-Saki(4)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<黑点2><分支>2</分支><SE1>AVG_Door_Open_Close</SE1>:갖고 왔다! 이거 맞제?
+NPC-Saki(4)<Speaker>지휘관</Speaker><Position>0,-190</Position><Scale>1.4</Scale><同时置暗>||<分支>2</分支>:물감 찾았어?
+NPC-Saki(0)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<分支>2</分支>:어! 근디 빨간색만 있던데?
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:켁...
+()<Speaker></Speaker>||<分支>2</分支><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=8</controll_shake><SE1>AVG_flag</SE1>:온통 새빨간 손자국인 벽을 상상하곤 생각을 바꾸려 했지만, 프랑슈슈가 이미 물감 쟁탈전을 벌이는 중이었다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支><SE1>Stop_AVG_loop</SE1>:<color=#A9A9A9>내 예술 실력으로 캐리해 보는 수밖에...</color>
+()||<黑点1><分支>2</分支>:
+()<Speaker></Speaker>||<分支>2</分支><BIN>9</BIN><黑点2><SE1>AVG_Creep</SE1>:......
+()||<黑屏1><分支>2</分支>:
+()<Speaker></Speaker>||<分支>2</分支><黑屏2><BIN>576</BIN>:몇 분 후, 당신이 그린 구불구불한 나뭇가지에 모두가 손바닥을 찍었다.
+()<Speaker></Speaker>||<分支>2</分支><SE1>AVG_Awkward</SE1>:그리고 침묵에 빠졌다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:...하지 말아야 했는데.
+NPC-Saki(4)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<分支>2</分支>:아하핫, 시뻘건 게 깨 자극적이구마!
+NPC-MizunoAi(3)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||<分支>2</分支>:그, 그러게...
+NPC-Lily(5)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<分支>2</分支>:릴리 소름 돋았어...
+()<Speaker></Speaker>||<分支>2</分支>:당신은 시뻘건 손자국들에서 물감이 주르륵 흘러내리는 벽에서 눈을 슬쩍 돌렸다.+그래도, 예상보다 엉망이긴 해도, 당신과 프랑슈슈가 함께 남긴 기념이다.+그렇게 생각하니 대충 그럴싸하게 보였다.
+NPC-Junko(2)<Speaker>콘노 준코</Speaker><Position>60,-230</Position><Scale>1.27</Scale>||<分支>2</分支>:제가 좀 다듬어 볼까요...?
+NPC-MizunoAi(5)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||<分支>2</分支>:일단 이건 공연 끝나고 돌아와서 생각하자, 빨리 물건 챙기고 출발해야 해.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>2</分支>:공연장에 가서 단단히 준비해야죠?
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<分支>2</分支>:응! 빨리 가자!
+()<Speaker></Speaker>||<分支>2</分支>:모두가 다시 정신을 바짝 차리고 함께 저택으로 돌아가, 마지막 준비 작업을 시작했다.
+NPC-Tae(6)<Speaker>야마다 타에</Speaker><Position>0,-340</Position><Scale>1.4</Scale>||<分支>2</分支><震屏3><BGM>BGM_Empty</BGM><SE1>AVG_XXS_kick</SE1>:어... <size=50>어아아! 오아오어아!</size> (뭔가 본 것 같다.)
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:왜 그래?
+()<Speaker></Speaker>||<分支>2</分支><SE1>ClothingUp</SE1>:그런데 타에가 흥분해 난간에 매달려서는 파도가 철썩이는 바닷가를 가리켰다.+모두가 그녀가 가리키는 방향을 봤지만, 그곳엔 아무것도 없었다.
+NPC-Tae(6)<Speaker>야마다 타에</Speaker><Position>0,-340</Position><Scale>1.4</Scale>||<分支>2</分支>:끄어... 아아아... (뭐라는지 모르겠음.)
+NPC-Saki(3)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<分支>2</分支>:생선이라믄 나중에 실컷 구워 줄 테니께 얼렁 가자고!
+()<Speaker></Speaker>||<分支>2</分支>:타에가 질질 끌려가면서도 바다에서 눈을 떼질 않으니, 당신도 궁금해서 잠시 지켜보았다.+하지만 역시 파도 소리만 여전할 뿐, 아무것도 없었다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:타에가 잘못 봤겠지.
+()<Speaker></Speaker>||<分支>2</分支><SE1>AVG_Door_Open_Close</SE1>:당신도 실내로 걸음을 옮겼고, 끝내 눈치채지 못했다.
+()<Speaker></Speaker>||<分支>2</分支><SE1>AVG_Creep</SE1>:모두가 떠난 뒤, 검은 양복에 선글라스를 쓴 이상한 남성이 난간 밑에서 조용히 기어 올라온 것을.
+()<Speaker></Speaker>||<分支>2</分支><SE1>Rope</SE1>:그는 남은 물감을 손에 묻히고, 벽에 그려진 나뭇가지에 자신의 손자국을 남겼다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:함께 단체 사진 찍자!
+NPC-Sakura(2)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<分支>1</分支>:그거 좋네요, 생각해 보니 지휘관이랑 같이 사진을 찍은 적이 없어요!
+NPC-MizunoAi(5)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||<分支>1</分支>:좋아, 그럼 이쪽으로 모여 봐.
+()<Speaker></Speaker>||<分支>1</分支><SE1>AVG_Creep</SE1>:아이가 자신의 휴대폰을 꺼내 카메라를 켰고, 작은 화면에 당신 곁에 모인 모두의 당황한 얼굴이 들어왔다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支><SE1>ClothingUp</SE1>:내가 들고 있을게.
+NPC-MizunoAi(5)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||<分支>1</分支>:모두 준비됐어?
+NPC-Lily(5)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale><Shake>0.1</Shake>||<分支>1</分支><SE1>ClothingUp</SE1><SE1>AVG_Heart_beat</SE1>:<size=50>잠깐만잠깐만 릴리 머리 아직 정리 안 됐어!</size>
+NPC-Yugiri(3)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>1</分支>:이미 깔끔해요~
+NPC-Sakura(2)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale><Shake>0.1</Shake>||<分支>1</分支><SE1>Rope</SE1>:나, 나는? 얼굴 너무 크게 나오진 않어야?!
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:내가 보기엔 모두 딱이야!
+NPC-Tae(1)<Speaker>야마다 타에</Speaker><Position>0,-340</Position><Scale>1.4</Scale><Shake>0.1</Shake>||<分支>1</分支><SE1>AVG_Bite</SE1>:아앙... (바로 앞의 머리를 물었다.)
+NPC-Saki(4)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<分支>1</分支>:꾸물대지 말고 자아, 치~즈!
+()<Speaker></Speaker>||<分支>1</分支><SE1>AVG_The_Division_Camera</SE1>:결국 당신까지 제대로 준비 안 된 상태에서 사키가 셔터를 눌러버렸다.
+NPC-Sakura(2)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale><Shake>0.1</Shake>||<分支>1</分支>:<size=50>아앗 나 아직 표정 못 잡았는데!</size>
+NPC-Junko(6)<Speaker>콘노 준코</Speaker><Position>60,-230</Position><Scale>1.27</Scale>||<分支>1</分支>:저도...
+NPC-Saki(4)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<分支>1</分支>:아 글쎄 괜찮다니까! 모두 들어오게 찍혔음 됐지!
+()<Speaker></Speaker>||<分支>1</分支><SE1>AVG_tele_connect</SE1>:갤러리를 확인하니, 당신을 포함한 모두가 각양각색의 표정을 지은 사진이 찍혔다.+완벽하다곤 못 하지만, 이 순간의 즐거움이 고스란히 담긴 표정들.+아주 마음에 드는 사진이었다.
+NPC-Junko(6)<Speaker>콘노 준코</Speaker><Position>60,-230</Position><Scale>1.27</Scale>||<分支>1</分支><SE1>ClothingUp</SE1>:화면이 너무 작아요, 저도 좀 보여 주세요.
+NPC-MizunoAi(5)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||<分支>1</分支>:나중에, 시간 보니까 빨리 정리하고 출발해야 해.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>1</分支>:공연장에 가서 준비할 때가 왔군요.
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<分支>1</分支>:응! 빨리 가자!
+()<Speaker></Speaker>||<分支>1</分支>:다시 정신을 바짝 차리고 다 같이 저택 안으로 들어가 마지막 준비 작업을 시작했다.
+NPC-Tae(6)<Speaker>야마다 타에</Speaker><Position>0,-340</Position><Scale>1.4</Scale>||<分支>1</分支><SE1>AVG_XXS_kick</SE1><震屏3><BGM>BGM_Empty</BGM>:어... <size=50>어아아! 오아오어아!</size> (뭔가 본 것 같다.)
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:왜 그래?
+()<Speaker></Speaker>||<分支>1</分支><SE1>ClothingUp</SE1>:그런데 타에가 흥분해 난간에 매달려서는 파도가 철썩이는 바닷가를 가리켰다.+모두가 그녀가 가리키는 방향을 봤지만, 그곳엔 아무것도 없었다.
+NPC-Tae(6)<Speaker>야마다 타에</Speaker><Position>0,-340</Position><Scale>1.4</Scale>||<分支>1</分支>:끄어... 아아아... (뭐라는지 모르겠음.)
+NPC-Saki(3)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<分支>1</分支>:생선이라믄 나중에 실컷 구워 줄 테니께 얼렁 가자고!
+()<Speaker></Speaker>||<分支>1</分支>:타에가 질질 끌려가면서도 바다에서 눈을 떼질 않으니, 당신도 궁금해서 잠시 지켜보았다.+하지만 역시 파도 소리만 여전할 뿐, 아무것도 없었다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:타에가 잘못 본 거겠지...
+()<Speaker></Speaker>||<分支>1</分支><SE1>AVG_Door_Open_Close</SE1>:당신도 실내로 걸음을 옮겼고, 끝내 눈치채지 못했다.
+NPC-Kotarou(1)<Speaker></Speaker><Position>0,-360</Position><Scale>1.5</Scale><同时置暗>||<分支>1</分支>:휴대폰으로 찍은 단체 사진 구석에, 검은 양복에 선글라스를 쓴 이상한 남성이 있는 것을.+아슬아슬하게 고개를 내민 그는 왠지 불청객 같으면서도 묵묵한 수호신 같았다.
+()||<黑点1>:

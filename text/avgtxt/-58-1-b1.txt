@@ -1,0 +1,105 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>655</BIN><narrator>:친애하는 블랙웰에게.+나도 지금이 아직 "성배"를 재가동할 시기가 아니라고 생각하지만, 달리 방도가 없어.+나도 전에는 모든 준비가 갖춰지길 기다리려 했지만... 상황이 여의치 않았지.+과거의 자신이 정말 원망스러워. 그때 내가 좀 더 둥글게 타협했더라면, 망할 유적기구 놈들이 날 그렇게 몰아넣지도 않았을 텐데.+덕분에 미국에도 못 돌아가고 말이야. 외국인이 여기 현지 병원에서 덱사메타손 주사 한 대 맞으려면 사흘이나 기다려야 해.+...어쩌면, 과거의 내가 너무 나약했기 때문일지도. 기술적으로는 이미 실행 가능했는데, 단지 내가 겁먹어서, 다시 일어서지 못한 걸지도 몰라...+이젠 결심할 수밖에 없어, 과거의 이름을 버리고 "헬라"로 바꿨어.+내 품에서 눈을 감은 사나가, 어느날 다시 일어날 수 있기를.+2051년 모스크바에서, 마이트너가.
+()||<黑屏1>:
+()<Speaker></Speaker>||<SE1>AVG_Gunfire</SE1><黑屏2><BIN>99</BIN><narrator>:2051년 봄, 제3차 세계대전 발발 7년차.+광범위한 붕괴복사 오염과 치열한 재래식 전쟁에, 세계 인구는 급감했다.+거의 대부분의 사람들이 매일같이 보는 광경은 전쟁으로 초토화된 황무지.+희망을 상징하는 "초록"이 과연 언제 이 땅에 다시 돌아올지는, 아무도 알지 못했다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>GF_EV9_Intermission</BGM><黑屏2><BIN>480</BIN>:태평양 서남측, 옐로우존의 어느 군도.
+()<Speaker></Speaker>||<SE1>AVG_wind_grass</SE1>:초록빛 결정 가루들이 습기로 끈적한 바람에 실려 흩날리다 군홧발에 짓밟혔다.+방호복을 입은 알렉산더는 축축한 진흙 위에 서서, 불안정하게 깜빡이는 통신기의 신호감도 램프를 주시하고 있었다.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:판, 레인저의 수송 차량에 움직임은?
+NPC-Alexander(0)<Position>0,60</Position>;NPC-Pan(0)<Speaker>2분대장 판</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>보자아... 제길, 가시 범위가 푸시킨의 시보다 아리송하네...</color>+<color=#00CCFF>일단 저 차량은 아직은 주차된 채로 미동도 없어.</color>
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>;NPC-Pan(0)||:잘 지켜봐, 상황 발생 즉시 보고하고.
+NPC-Alexander(0)<Position>0,60</Position>;NPC-Pan(0)<Speaker>2분대장 판</Speaker><通讯框>||:<color=#00CCFF>예이~</color>+<color=#00CCFF>아아, 얼른 이 빌어먹을 싸움을 끝내고 모스크바로 돌아가 내 뮤즈들에게 입맞춤하고 싶구나아~</color>
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:참 기특한 꿈이다 이 자식아, 소대장이 들으면 대신 군홧발에다 딥키스시켜 줄 거다.
+()<Speaker></Speaker>||:그 말에 통신 채널의 다른 관측 초소 병사들이 키득였다.
+NPC-Pan(0)<Speaker>2분대장 판</Speaker><通讯框>||:<color=#00CCFF><size=50>뭘 웃엄마!</size></color>+<color=#00CCFF>전장에 나가본 적도 없으면서 바로 소대장 딱지라니! 하여간 사관 학교 출신은 다르다니까.</color>+<color=#00CCFF>순정 총알받이인 우리하곤 천지 차이야.</color>
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>;NPC-Pan(0)||:요점이 뭔데?
+NPC-Alexander(0)<Position>0,60</Position>;NPC-Pan(0)<Speaker>2분대장 판</Speaker><通讯框>||:<color=#00CCFF>아 물론 거기 나왔다고 다 이런 대접은 아니겠지. 요컨대 근본적인 수저 차이란 거야.</color>+<color=#00CCFF>오라비가 대위라고 벌써 마빡에다 별을 다섯 개 그려 넣을 기세라고!</color>
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:물어본 내가 잘못이지... 2번 초소나 잘 지켜.+우리 소대장이 이번에 처음 부대 끌고 임무 나온 거라 깔끔하게 완수할 생각일 텐데, 네가 망치기라도 했다간――
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:판은 투덜대며 통신을 꺼버렸다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:알렉산더가 절레절레 고개를 젓는 사이에 다른 통신이 들어와, 피곤에 찌든 목소리가 그에게 보고했다.
+NPC-Wiktor(0)<Speaker>윅토르</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><SE1>AVG_whitenoise</SE1>:<color=#00CCFF>알렉산더, 여기는 1번 초소. 낌새가 포착됐다.</color>
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>;NPC-Wiktor(0)||:놈들의 증원이 도착했어? 잠깐, 소대장에게 보고는 했어?
+NPC-Alexander(0)<Position>0,60</Position>;NPC-Wiktor(0)<Speaker>윅토르</Speaker><通讯框>||:<color=#00CCFF>그 계집애한테 보고는 무슨, 내 눈에 소대장은 너뿐이라고.</color>
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>;NPC-Wiktor(0)||:...그래도 전장이니까 위계질서는 지켜라.
+NPC-Alexander(0)<Position>0,60</Position>;NPC-Wiktor(0)<Speaker>윅토르</Speaker><通讯框>||:<color=#00CCFF>쨌든 증원은 아니고, 여기 1번 초소에서 무전 신호가 아주 잠깐 감지됐어. 이건 아마도...</color>
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>;NPC-Wiktor(0)||:...레인저의 통신 채널인가.+암호 해독 가능하겠어?
+NPC-Wiktor(0)<Speaker>윅토르</Speaker><通讯框>||:<color=#00CCFF>불가능해, 복사 농도가 너무 높아서 우리보다 나이 많은 이 고물딱지들로 이렇게 신호가 잡힌 것도 기적이야.</color>
+()<Speaker></Speaker>||:알렉산더는 통신하는 와중 임시 집결 지점인 섬의 버려진 공장 건물에 도착했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그곳에서 주둔 중인 세 운전병 중 한 명이 위병소를 맡고 있었고, 알렉산더는 안으로 들어가면서 그에게 손을 흔들었다.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:그리고 너보다 젊은 설비는 죄다 수리 중이거나 쓰레기장에 있고 말이지.+불평할 시간에 1번 초소나 잘 지켜.
+NPC-Wiktor(0)<Speaker>윅토르</Speaker><通讯框>||:<color=#00CCFF>아 그냥 좀 대충대충 하자, 우린 정찰 담당이잖아. 그놈의 작전이 우리가 알 바야?</color>
+()<Speaker></Speaker>||:폐공장의 문 앞까지 다 와 통신을 끄려 할 때까지도 윅토르의 넋두리는 계속됐다.
+NPC-Wiktor(0)<Speaker>윅토르</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>내 장담하는데, 이번은 그냥 단순한 정찰 임무라서 우리가 무사한 거다. 신임 쏘가리가 지휘를 맡는 게 얼마나 위험한지 알아!?</color>+<color=#00CCFF>학원 나온 것들은 다 교과서에 나온대로 할 줄밖에 모른다니까!</color>
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:야... 됐으니까 그만해.
+()||<黑点1><SE1>AVG_door_elecport</SE1>:
+()<Speaker></Speaker>||<黑点2><BIN>222</BIN>:넓은 폐공장 건물 안에서는 신임 소대장 안나가 통신 설비가 설치된 탁자 너머로, 의자 등받이에 몸을 기대고 늘씬한 다리를 탁자 위에 올려 둔 채 태블릿을 만지작거리는 중이었다.+그리고 그 통신기에선 윅토르의 목소리가 아주 선명하게 나오고 있었다.
+NPC-Wiktor(0)<Speaker>윅토르</Speaker><通讯框>||:<color=#00CCFF>니들은 그렇게 생각 안 하냐, 엉?! 책벌레는 믿을 게 못 돼!</color>
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:소대장님, 항붕괴제 보충하러 왔습니다!
+NPC-Wiktor(0)<Speaker>윅토르</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>엥? 뭐야 왜 목소리가... 헉!</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:1번 초소가 황급히 통신을 종료했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:안나는 여전히 시선을 태블릿에서 떼지 않고, 그저 한 손 엄지로 옆의 수송 차량을 가리켰다.
+NPC-Ange(28)<Speaker>안나</Speaker>||:저 차 안에 보급상자. 알아서 꺼내.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:수송 차량 안에서 대기 중이던 운전병은 소리를 듣곤 고개를 살짝 내밀어, 알렉산더에게 엄지를 척 내보이며 눈치를 줬다.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||<BGM>GF_EV9_Story</BGM>:...다 듣고 계셨습니까?
+NPC-Ange(28)<Speaker>안나</Speaker>||:어. 지휘부에서 슬쩍한 신삥인데 수신 성능 쥑이더라.
+()||<黑点1>:
+()<Speaker></Speaker>||<SE1>AVG_Grey_Hand_Mech</SE1><BIN>9</BIN><黑点2>:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>222</BIN>:알렉산더가 항붕괴제를 보충하고 돌아왔을 때에도 안나는 여전히 태블릿의 화면을 보며 무언가 고민하는 듯한 눈치였다.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:뭐 생각하고 계십니까?
+NPC-Alexander(0)<Position>0,60</Position>;NPC-Ange(28)<Speaker>안나</Speaker>||:어, 레인저의 목적.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>;NPC-Ange(28)||:저흰 그냥 동향만 감시하면 되지 않습니까?+저희만으로는 놈들과의 정면 충돌은 자살 행위입니다.
+NPC-Alexander(0)<Position>0,60</Position>;NPC-Ange(28)<Speaker>안나</Speaker>||:그야 당연하지, 아무것도 없는 이 군도가 무슨 전략적 요충지도 아닌데.+그런데 레인저 부대는 대체 여기서 뭘 하는 걸까?+어깨 위의 그게 장식이 아니라면 머리를 굴려 봐. 공적은 길바닥에 아무렇게나 굴러다니지 않아.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>;NPC-Ange(28)||:설마 섬으로 들어가서 정찰할 생각은 아니시죠? 거긴 레드존에...
+NPC-Ange(28)<Speaker>안나</Speaker>||:복사 레벨이 인체가 견디는 한계를 넘은 곳이란 거, 알지.
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_button</SE1>:안나가 레이저 포인터로 가리킨 홀로그램 스크린에는 두 초소가 참깨 알갱이만큼 작은 스케일의 지형도가 띄워져 있었다.+그중 한 섬 구역은 온통 공백이어서, 그곳의 붕괴 복사 레벨이 높아 각종 탐측 설비가 무용지물임을 간접적으로 보여 주었다.
+NPC-Ange(28)<Speaker>안나</Speaker>||:그런데 레인저는 국경을 넘어 임무를 수행할 가치가 있다고 판단했지.+우리가 이 "임무 목표"를 잡으면, 최소 3계급 특진은 가능하지 않을까?
+()<Speaker></Speaker>||:허나 알렉산더는 공리심에 눈이 멀지 않고, 계속 안나를 주시했다.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:소대장님, 우리 3소대는 고작 2개 분대 규모에 일반인에게 총을 줘여 준 것이나 다름없는 수준입니다.
+NPC-Alexander(0)<Position>0,60</Position>;NPC-Ange(28)<Speaker>안나</Speaker>||:그래도 해볼 만은 해.+잘만 하면 성공도 불가능은 아니야.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>;NPC-Ange(28)||:...선임 소대장과는 다를 줄 알았습니다만.
+NPC-Alexander(0)<Position>0,60</Position>;NPC-Ange(28)<Speaker>안나</Speaker>||:그 부하들 목숨으로 대포 구멍 막으려던 새끼? 내가 왜 그딴 쓰레기랑 같은 짓을 하려 하겠어.+그놈이라면 너희더러 죽으러 가라 했겠지만, 난 아니야. 난 너희를 다 살려보낼 거야. 전쟁 끝날 때까지 살아남아서, 영광을 목에 걸고 고향으로 돌아가게.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:당신이 진짜 전장을 겪어봤다면 인간이 얼마나 연약하고 보잘것없는지 아실 겁니다.+전쟁의 불길 속에 떨어진 시베리아의 눈송이처럼 아무 흔적도 남지 않습니다.
+()<Speaker></Speaker>||:안나가 시선을 내리깔았다.
+NPC-Ange(28)<Speaker>안나</Speaker>||:알지... 아주 잘 알지.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그때 통신이 들어와, 안나가 벌떡 몸을 일으켜 받았다.
+NPC-Pan(0)<Speaker>2분대장 판</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>2번 초소에서 이상 정황 포착. 복사 측량기의 수치가 대폭 상승했습니다.</color>
+NPC-Ange(29)<Speaker>안나</Speaker>;NPC-Pan(0)||:얼마나? 지속 시간은? 자세한 수치로 말해.
+NPC-Ange(29);NPC-Pan(0)<Speaker>2분대장 판</Speaker><通讯框>||:<color=#00CCFF>그게... 어라, 수치가 바로 떨어졌습니다...?</color>
+NPC-Ange(29)<Speaker>안나</Speaker>;NPC-Pan(0)||:...너, 정찰 교범은 읽어봤냐?
+NPC-Ange(29);NPC-Pan(0)<Speaker>2분대장 판</Speaker><通讯框>||:<color=#00CCFF>그게 뭡니까?</color>
+NPC-Ange(29)<Speaker>안나</Speaker>;NPC-Pan(0)||:보병 기본 전술 교범은?
+NPC-Ange(29);NPC-Pan(0)<Speaker>2분대장 판</Speaker><通讯框>||:<color=#00CCFF>어...</color>
+NPC-Ange(29)<Speaker>안나</Speaker>||:주둔지로 돌아가면 내가 친히 읽어 주지.+아무튼 알았다, 방호 주의하면서 계속 관측 유지해.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+판이 억울해하며 항의하는 걸 무시하고, 안나는 통신기를 툭 껐다.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:정말 저들을 육성할 생각이십니까?
+NPC-Ange(28)<Speaker>안나</Speaker>||:아니면?
+()<Speaker></Speaker>||:안나는 티없이 맑은 눈빛으로 알렉산더와 마주봤다.
+NPC-Ange(28)<Speaker>안나</Speaker>||:눈꽃 한두 송이야 불에 다가가기도 전에 바로 녹아버리겠지. 하지만 시베리아의 눈보라라면?
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:무슨 말씀이신지 잘 모르겠습니다.
+NPC-Ange(28)<Speaker>안나</Speaker>||:마빡에다 그려놨잖아, 별 다섯 개 달 거야.
+()<Speaker></Speaker>||:그 농담에 알렉산더도 피식 웃었다가 바로 정색하며 자세를 고쳤다.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:...고민해보겠습니다.
+NPC-Ange(28)<Speaker>안나</Speaker>||:너희가 내 부하가 된 이상, 난 너희를 뛰어난 군인으로 만들어 줄 거다.+지금 고민되는 것쯤이야 정상이지. 그래도 난 시간이 모든 걸 증명할 거라 믿어.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BGM>BGM_Empty</BGM>:안나는 살짝 기대감이 담긴 미소를 지으며 주먹을 내밀었다
+()<Speaker></Speaker>||:이에 알렉산더도 더는 웃음을 참지 않았고, 똑같이 주먹을 뻗어 맞댔다.
+NPC-Alexander(0)<Speaker>알렉산더</Speaker><Position>0,60</Position>||:3소대 놈들이 다 소대장님 오라버니 같은 특전사가 되면 세계 통일까지 하려 하시겠습니다?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BGM>10213</BGM>:안나가 급격히 정색하더니 손을 내렸다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:내 오라버니는 아흐민 한 명뿐이야.+이미 고인이고.
+()<Speaker></Speaker>||:알렉산더는 항붕괴제를 나눠 주러 간다는 핑계로 자리를 떠났고, 대기 중인 운전병들은 차 안에서 찌그러진 채 조용히했다.
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_button</SE1>:다시 혼자가 된 안나는 멍하니 지형도를 바라봤다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:하지만 얼마 안 가 통신기가 다시 울렸고, 안나는 무심하게 수신 버튼을 눌렀다.
+NPC-Ange(28)<Speaker>안나</Speaker>||:여기는 근위 57사단 주P섬 부대, 보병 소대장 안나 최.
+NPC-Pamzan(4)<Speaker>？？？</Speaker><通讯框>||:<color=#00CCFF>람잔 대위다.</color>
+()<Speaker></Speaker>||:상대의 얼굴은 무덤덤한 반면, 안나는 안색이 급변했다.
+NPC-Pamzan(4)<Speaker>람잔</Speaker><通讯框>||:<color=#00CCFF>미 정규 육전 부대가 레인저와 합류하러 이동 중이란 보고다. 우리 군이 이를 저지하기 위해 부대를 파견했다.</color>+<color=#00CCFF>하지만 이미 1개 중대가 저지선을 넘은 상황이니, 귀측이 즉시 놈들을 저지해 레인저와의 합류를 막아라.</color>
+NPC-Ange(29)<Speaker>안나</Speaker>;NPC-Pamzan(4)<通讯框>||:귀측에게 당측 병력을 징발할 권한은 없다.
+NPC-Ange(29);NPC-Pamzan(4)<Speaker>람잔</Speaker><通讯框>||:<color=#00CCFF>이미 지휘부의 상급 권한을 받았다. 이곳의 초기 군사작전 지휘권은 나에게 있다.</color>
+NPC-Ange(29)<Speaker>안나</Speaker>;NPC-Pamzan(4)<通讯框>||:대위, 당측 상황을 모를 수도 있겠지만 3소대는 겨우 2개 분대에 정찰용 장비와 화력만 소지 중이다. 게다가 현재 2개 초소로 분산해 적의 동태를 살피는 중이다.
+NPC-Ange(29);NPC-Pamzan(4)<Speaker>람잔</Speaker><通讯框>||:<color=#00CCFF>내가 즉시 부대를 지원 파견할 테니 정찰 장비는 포기하고 즉시 전원 집결해 방어선을 구축하도록.</color>+<color=#00CCFF>이건 명령이다.</color>
+NPC-Ange(29)<Speaker>안나</Speaker>;NPC-Pamzan(4)<通讯框>||:그럼 이거나 대답해, 레인저는 레드존 안에서 대체 뭘 하려는 거지?+적어도 3소대가 뭘 위해 싸워야 하는진 알아야겠어!
+NPC-Ange(29);NPC-Pamzan(4)<Speaker>람잔</Speaker><通讯框>||:<color=#00CCFF>...좋아. 놈들은 한 범죄자를 체포하려 하고 있어. 콜사인 "사형수", 극비 기밀인 유적 기술을 장악한 것이 유력한 위험 인물이지.</color>+<color=#00CCFF>이외의 정보는 미상이야, 정보부가 아직도 조사 중이라.</color>+<color=#00CCFF>본대가 도착하려면 3시간은 걸려. 지금 외곽에서 적의 증원 부대를 저지할 수 있는 건 너와 나뿐이야... 알았나, 소위?</color>
+NPC-Ange(31)<Speaker>안나</Speaker>||:......
+NPC-Ange(29)<Speaker>안나</Speaker>||:명령 접수했다... "대위님".
+()||<黑点1>:

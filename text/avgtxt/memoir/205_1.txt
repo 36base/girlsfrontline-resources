@@ -1,105 +1,105 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>222</BIN><黑屏2><BGM>10213</BGM>:......
-AK47(0)<Speaker>AK-47</Speaker>||<SE1>AVG_tele_connect</SE1>:여기는 "페넥", B 구역에 이상 무.
-SKS(0)<Speaker>시모노프</Speaker><通讯框>||:<color=#00CCFF>"불스아이"도 이상 무, C 구역에서 목표 관측 못함.</color>
-AK47(0)<Speaker>AK-47</Speaker>||:티스?
-OTs12(0)<Speaker>OTs-12</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...아, 응, A 구역에도 없어.</color>
-SKS(0)<Speaker>시모노프</Speaker><通讯框>||:<color=#00CCFF>목표가 정말 공장 안에 있을까?</color>
-AK47(0)<Speaker>AK-47</Speaker>||:다른 곳은 아주 이 잡듯이 뒤졌잖아, 틀림없어.
-()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:AK-47은 무기를 단단히 고쳐쥐고서, 컨테이너 더미에 몸을 기댄 채 조심조심 전진했다.
-SKS(0)<Speaker>시모노프</Speaker><通讯框>||:<color=#00CCFF>그나저나, 이렇게 신중할 필요 있어? 상대는 겨우 한 명 아니야?</color>
-AK47(0)<Speaker>AK-47</Speaker>||<SE1>Stop_AVG_loop</SE1>:쉬잇... 바보 같은 소리 마, 불스아이.
-()<Speaker></Speaker>||:물방울이 떨어지는 소리를 제외하면, 주위는 정적이 흐를 뿐이었다.+그래서 더더욱, AK-47은 신경을 곤두세우면서 단 0.1초의 빈틈도 만들지 않으려고 주변의 사각지대를 주시했다.
-SKS(0)<Speaker>시모노프</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>어... 티스?</color>
-()<Speaker></Speaker>||:바로 그때, 약간 당혹감이 섞인 시모노프의 목소리가 정적을 깼다.
-()<Speaker></Speaker>||<SE1>Heartbeat</SE1>:쿵쿵쿵...+불길한 예감이 닥치자, AK-47은 가슴이 뛰는 것 같은 환청이 들렸다.
-SKS(0)<Speaker>시모노프</Speaker><通讯框>||:<color=#00CCFF>젠장, 티스가 대답이 없어! 지원하러 갈게!</color>
-AK47(0)<Speaker>AK-47</Speaker>||<BGM>BGM_Empty</BGM>:아니야... 젠장, 함정이다!+불스아이! 당장 거기서 이탈해!
-()<Speaker></Speaker>||<BGM>10082</BGM><SE2>Gunfight</SE2>:투타타타탕!!!+불시에 터진 총성이 통신을 대신하자, AK-47은 바로 헤드셋을 벗어 던졌다.
-AK47(0)<Speaker>AK-47</Speaker>||<SE1>RunStep</SE1>:<size=50>제기랄!</size>
-()<Speaker></Speaker>||:상대는 단 한 명. 이젠 신중하게 움직일 이유도, 시간도 없어졌다.+시모노프와 OTs-12가 녀석의 발을 묶어 두는 동안, 임무 목표를 손에 넣어야만 했다.
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:쿠웅!
-AK47(0)<Speaker>AK-47</Speaker>||:......!
-()<Speaker></Speaker>||:그러나 몇 m도 채 내달리지 못했을 때, 묵직한 소리와 함께 모든 소란이 가라앉았다.+마치 꿈에서 깨어난 것처럼, 방금까지의 기척은 완전히 사라지고 공장은 다시 고요해졌다.+AK-47에겐 사형 선고나 다름없는 정적이었다.
-AK47(0)<Speaker>AK-47</Speaker>||<SE1>AVG_tele_connect</SE1>:...불스아이? 티스?
-()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:통신기 너머로는 당연히 아무도 대답하지 않았기에, AK-47는 총의 장전 손잡이를 당겼다.
-AK47(0)<Speaker>AK-47</Speaker>||:침착하자... 아직 기회는 있――
-()<Speaker>？？？</Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:——
-()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_Punch_Hit</SE1><BGM>BGM_Empty</BGM>:쿠웅!
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑点2><BIN>97</BIN><SE1>AVG_BaseDoor_Open</SE1>:상당히 진중한 모습의 중년 남성이 복도를 지나 한 공방 앞에 도착해, 고개를 들어 문 위에 달린 카메라 렌즈를 바라봤다.
-()<Speaker>“？？”</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>권한 확인 - A급. 코드 넘버 - 00541.</color>+<color=#00CCFF>이름 - 사샤 자비스.</color>+<color=#00CCFF>내무부 부부장, 소련 당 중앙위원, "울프팩 프로젝트" 책임자 및 연락자.</color>+<color=#00CCFF>어서 오십시오, 자비스 님.</color>
-()<Speaker>자비스</Speaker>||:반갑네, "나쟈".
-()<Speaker>"나쟈"</Speaker>||:<color=#00CCFF>저도 다시 뵈어 반갑습니다.</color>
-()||<黑点1>:
-()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1><BIN>412</BIN><BGM>BGM_Room</BGM><黑点2>:문이 열리기가 무섭게 안으로부터 뿜어져 나오는 진한 담배향, 기름, 먼지가 뒤섞인 공기에 자비스는 반사적으로 눈살을 찌푸렸다.
-NPC-shaw(0)<Speaker>？？？</Speaker>||:후우...
-()<Speaker></Speaker>||:그리고 안 그래도 자욱한 담배 연기 속에서, 하얀 가운을 입은 여성이 줄기차게 탁한 연기를 내뿜고 있었다.+지난 세기의 선원도 안 피울 저질 담배지만, 머리를 깨우기 위해서라면 물불 안 가리는 그녀의 선택이었다.
-()<Speaker>자비스</Speaker>||:서맨사 박——
-NPC-shaw(0)<Speaker>？？？</Speaker>||:씁.
-()<Speaker></Speaker>||:눈두덩이가 시꺼먼 그 여성이 눈을 뜨면서 다소 거칠게 자비스의 말을 끊었다.+그러면서도, 그녀의 입가에선 여전히 기름기 섞인 담배 연기를 내뱉었다.
-NPC-shaw(0)<Speaker>？？？</Speaker>||:말판 밟았잖아요.+생각까지 방해하고.
-NPC-shaw(0)<Speaker>자비스</Speaker><同时置暗>||:말판?
-()<Speaker></Speaker>||:그 말에 자비스가 자신의 발밑을 살펴봤지만, 수치를 알 수 없는 너트와 아무렇게나 나뒹굴고 있는 스패너 말곤 아무것도 없었다.
-()<Speaker>자비스</Speaker>||:어디 말입니까?
-NPC-shaw(4)<Speaker>？？？</Speaker>||:여기요.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:여성은 짜증스럽게 자신의 관자놀이를 툭툭 가리키곤, 자비스를 노려보며 반쯤 태운 담배를 다시 물었다.
-NPC-shaw(0)<Speaker>？？？</Speaker>||:...앞으로 세 칸.
-()<Speaker></Speaker>||:자비스는 눈을 껌뻑이다 깨닫곤 여성의 요구대로 세 칸 앞의 바닥 타일을 밟았다.
-NPC-shaw(4)<Speaker>？？？</Speaker>||:우로 두 칸.
-NPC-shaw(4)<Speaker>자비스</Speaker><同时置暗>||:...음, 어떻게 됐습니까?
-NPC-shaw(0)<Speaker>？？？</Speaker>||:체크메이트.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:여인은 손에 쥔 담배를 그대로 꺾어버리더니, 손뼉을 치곤 뒤로 돌아 작업 의자 위에 앉았다.
-NPC-shaw(0)<Speaker>？？？</Speaker>||:무슨 일이에요?
-NPC-shaw(0)<Speaker>자비스</Speaker><同时置暗>||:젤린스키 님께서 축하 인사를 전하셨습니다, 서맨사 쇼 박사.+이번 테스트 결과도 매우 성공적이었습니다.
-NPC-shaw(4)<Speaker>쇼</Speaker>||:뭘 당연한 일 가지고.+그리고, 그냥 "쇼"라 부르랬잖아요. 다른 발음 들으면 머리가 아파.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:쇼 박사는 자비스가 전하는 희소식엔 영 시큰둥해하며 키보드를 툭 쳤다.
-NPC-shaw(0)<Speaker>쇼</Speaker>||:IOP가 민수용을 개조한 폐급을 상대로 이렇게 오래 걸려선 한참 멀었다고요.
-NPC-shaw(0)<Speaker>자비스</Speaker><同时置暗>||:그래도 지금 단계로선 무척이나 뛰어난 결과잖습니까.
-NPC-shaw(0)<Speaker>쇼</Speaker>||:아부는 됐으니까 빨리 본론이나 말해요.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:머리를 문지르며 자리에서 일어난 쇼 박사는 영 피곤한 기색이었다. 그리고 그때, 그녀와 키가 엇비슷한 자비스의 뒤로 목소리가 들렸다.
-AN94(0)<Speaker>AN-94</Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:...보고.
-()<Speaker>자비스</Speaker>||:오호라, 우리의 주인공 아니신가.
-()<Speaker></Speaker>||:안으로 들어온 것은 깔끔한 모습의 인형이었다. 그녀의 얼굴에는 거만함이 가득했지만, 두 사람의 앞이어서인지 자중하는 듯했다.
-AN94(0)<Speaker>AN-94</Speaker>||:안녕하십니까, 자비스 님.+안녕, 박사.
-NPC-shaw(0)<Speaker>쇼</Speaker>||:인사는 됐고, 훈련은 잘했어.+쓸 만한 데이터를 또 잔뜩 얻었다.
-AN94(0)<Speaker>AN-94</Speaker>||:과찬이다. 그저 평소대로 임했을 뿐이다.+이번 상대가 IOP에서 가장 뛰어난 전술인형들이었나?
-AN94(0)<Speaker>자비스</Speaker><同时置暗>||:가장 뛰어나다곤 못 하지만, 실적은 상당한 부대지.+특히 리더인 AK-47은 우리와도 협동 작전에 투입된 바 있고, 그때의 활약으로 대원들의 인정과 찬사를 받았네.
-AN94(0)<Speaker>AN-94</Speaker>||:그래도 저와는 너무 차이났습니다.+그 정도 수준으로 엘리트라 불리다니, 이해가 가지 않습니다.
-AN94(0)<Speaker>자비스</Speaker><同时置暗>||:하하하, 여전히 신랄하구만.+그래도 다 순조롭게 진행되고 있으니, 좋은 일이군요. 그럼 난 이만 실례하겠습니다, 쇼 박사.
-AN94(5)<Speaker>AN-94</Speaker>||:잠깐 기다려 주십시오, 자비스 님.
-AN94(5)<Speaker>자비스</Speaker><同时置暗>||:으음?
-()<Speaker></Speaker>||:떠나려던 발걸음을 멈춘 자비스는 AN-94의 말에 다소 당혹스러워하며 그녀를 보곤 시선을 쇼에게 돌렸다.
-NPC-shaw(0)<Speaker>쇼</Speaker>||:...뭐 할 말 있어?
-()<Speaker></Speaker>||:그런데 쇼도 눈썹을 아주 미묘하게 들썩이는 것이, 그녀도 예상치 못한 일인 듯했다.
-AN94(0)<Speaker>AN-94</Speaker>||:외람되오나, 저는 언제 실제 임무를 수행하게 됩니까?
-()<Speaker>자비스</Speaker>||:그건...
-()<Speaker></Speaker>||:AN-94의 질문에 자비스는 또 뜻밖이란 표정을 지었고, 직접 대답하는 대신 쇼에게 눈치를 줬다.
-NPC-shaw(4)<Speaker>쇼</Speaker>||:스케줄은 우리가 알아서 짤 거야.+로봇은 쓸데없이 궁금해하지 마.
-AN94(0)<Speaker>AN-94</Speaker>||:그래도... 미안하지만, 나도 출고된 지 꽤 되었다.
-NPC-shaw(0)<Speaker>쇼</Speaker>||:여전히 수준 미달이야.
-AN94(0)<Speaker>AN-94</Speaker>||:하지만 그리폰의 인형에 비하면 압도적이잖은가.+그런데, 그들도 안전국과 협동 임무를 수행하는 데 반해, 나는 훈련장에서 훈련만 받고 있다.+그 이유를 알고 싶다.
-NPC-shaw(0)<Speaker>쇼</Speaker>||:이유? 내 맘.+알았으면 나가, 귀찮게 굴지 말고.
-AN94(0)<Speaker>AN-94</Speaker>||:......+알았다. 계속 훈련을 받겠다. 내가 준비가 되었다고, 박사도 생각할 때까지.
-()<Speaker></Speaker>||:AN-94는 감정이 최대한 안 드러나도록 억눌렀다.+그리고 의문 제기를 불허하는 쇼의 태도에, AN-94는 할 수 없이 고개를 살짝 숙이며 방을 나섰다.
-()||<黑点1>:
-()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1><黑点2><BIN>97</BIN>:......
-AN94(0)<Speaker>AN-94</Speaker>||:하아...
-()<Speaker>"나쟈"</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>기분이 안 좋아 보이는군요, AN-94.</color>
-AN94(5)<Speaker>AN-94</Speaker>||:나쟈?+아니, 기분 나쁘진 않다. 그저 조금 속상할 뿐이지.+나는 내가 충분히 우수하다 생각하지만... 쇼 박사의 요구엔 혀를 내두를 수밖에 없다.
-AN94(5)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>오랫동안 박사님께 봉사해 온 저로서도 그분의 요구는 까다롭고 엄격하기 그지없습니다.</color>+<color=#00CCFF>하물며 당신은 그분이 처음으로 제작한 인형. 모든 면에서 차원이 다른 기대를 품고 계시겠죠.</color>
-AN94(0)<Speaker>AN-94</Speaker>||:그래, 나는 1호기니까. 그러니 모범이 되어야지.
-()<Speaker></Speaker>||:적어도 후속 모델이 출고되기 전까진 성장한 모습을 보여야 해.
-AN94(0)<Speaker>AN-94</Speaker>||:나쟈, 최근의 훈련 데이터는 어떻지?
-AN94(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>확인하겠습니다.</color>+<color=#00CCFF>"울프팩 프로젝트" 실험 기록 10032. 훈련 지점 - 3번 야전 훈련장.</color>+<color=#00CCFF>대적 상대 - 그리폰 전술인형 3인 소대, 안전국 특전사 15명.</color>+<color=#00CCFF>결과 - 전원 제압. 소요 시간 - 11분 24초.</color>
-AN94(0)<Speaker>AN-94</Speaker>||:......내가 부족한 점이 있었나?
-AN94(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>죄송하지만 저는 연구 보조 AI에 불과해 전황의 정밀 분석은 불가능합니다.</color>+<color=#00CCFF>그래도 당신에게 있어서 충분히 뛰어난 성적임은 분명합니다.</color>
-AN94(0)<Speaker>AN-94</Speaker>||:그럼 대체 어째서일까? 왜 나는 실전 임무를 받지 못하는 거지?+오늘도 내가 쓰러뜨린 그리폰의 인형들은 나보다 훨씬 약했어. 그런데도 그들은 이미 실전 경험이 많다.+대체 왜 나는 안 된다는 것이지?
-AN94(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>죄송합니다, 해당 질문에 대한 대답이 불가능합니다.</color>
-AN94(0)<Speaker>AN-94</Speaker>||:......+나야말로 미안하다, 잊어버려라. 너에게 따져봤자지.+쇼 박사의 판단에는 분명 그녀 나름대로의 이유가 있을 터다.+나는 "늑대 무리"의 첫번째. 평범한 전술인형과 같이 취급할 수 없는 것도 당연해.
-AN94(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>기운을 차리신 듯하니 다행입니다.</color>
-AN94(0)<Speaker>AN-94</Speaker>||:몇 번을 반복하든, 몇 명을 쓰러뜨리든 상관없어. 계속 훈련해, 더욱 뛰어나지겠다.
-AN94(3)<Speaker>AN-94</Speaker>||:박사의 인정을 받을 때까지, 난 절대 좌절하지 않겠어. 그러니 안심해라, 나쟈.
-()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:쇼 박사의 공방 앞에서, AN-94는 마음 속 불안감을 떨쳐내고 허공에 미소를 지었다. 그리고, 곧장 훈련장으로 향했다.
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>222</BIN><黑屏2><BGM>10213</BGM>:......
+AK47(0)<Speaker>AK-47</Speaker>||<SE1>AVG_tele_connect</SE1>:여기는 "페넥", B 구역에 이상 무.
+SKS(0)<Speaker>시모노프</Speaker><通讯框>||:<color=#00CCFF>"불스아이"도 이상 무, C 구역에서 목표 관측 못함.</color>
+AK47(0)<Speaker>AK-47</Speaker>||:티스?
+OTs12(0)<Speaker>OTs-12</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...아, 응, A 구역에도 없어.</color>
+SKS(0)<Speaker>시모노프</Speaker><通讯框>||:<color=#00CCFF>목표가 정말 공장 안에 있을까?</color>
+AK47(0)<Speaker>AK-47</Speaker>||:다른 곳은 아주 이 잡듯이 뒤졌잖아, 틀림없어.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:AK-47은 무기를 단단히 고쳐쥐고서, 컨테이너 더미에 몸을 기댄 채 조심조심 전진했다.
+SKS(0)<Speaker>시모노프</Speaker><通讯框>||:<color=#00CCFF>그나저나, 이렇게 신중할 필요 있어? 상대는 겨우 한 명 아니야?</color>
+AK47(0)<Speaker>AK-47</Speaker>||<SE1>Stop_AVG_loop</SE1>:쉬잇... 바보 같은 소리 마, 불스아이.
+()<Speaker></Speaker>||:물방울이 떨어지는 소리를 제외하면, 주위는 정적이 흐를 뿐이었다.+그래서 더더욱, AK-47은 신경을 곤두세우면서 단 0.1초의 빈틈도 만들지 않으려고 주변의 사각지대를 주시했다.
+SKS(0)<Speaker>시모노프</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>어... 티스?</color>
+()<Speaker></Speaker>||:바로 그때, 약간 당혹감이 섞인 시모노프의 목소리가 정적을 깼다.
+()<Speaker></Speaker>||<SE1>Heartbeat</SE1>:쿵쿵쿵...+불길한 예감이 닥치자, AK-47은 가슴이 뛰는 것 같은 환청이 들렸다.
+SKS(0)<Speaker>시모노프</Speaker><通讯框>||:<color=#00CCFF>젠장, 티스가 대답이 없어! 지원하러 갈게!</color>
+AK47(0)<Speaker>AK-47</Speaker>||<BGM>BGM_Empty</BGM>:아니야... 젠장, 함정이다!+불스아이! 당장 거기서 이탈해!
+()<Speaker></Speaker>||<BGM>10082</BGM><SE2>Gunfight</SE2>:투타타타탕!!!+불시에 터진 총성이 통신을 대신하자, AK-47은 바로 헤드셋을 벗어 던졌다.
+AK47(0)<Speaker>AK-47</Speaker>||<SE1>RunStep</SE1>:<size=50>제기랄!</size>
+()<Speaker></Speaker>||:상대는 단 한 명. 이젠 신중하게 움직일 이유도, 시간도 없어졌다.+시모노프와 OTs-12가 녀석의 발을 묶어 두는 동안, 임무 목표를 손에 넣어야만 했다.
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:쿠웅!
+AK47(0)<Speaker>AK-47</Speaker>||:......!
+()<Speaker></Speaker>||:그러나 몇 m도 채 내달리지 못했을 때, 묵직한 소리와 함께 모든 소란이 가라앉았다.+마치 꿈에서 깨어난 것처럼, 방금까지의 기척은 완전히 사라지고 공장은 다시 고요해졌다.+AK-47에겐 사형 선고나 다름없는 정적이었다.
+AK47(0)<Speaker>AK-47</Speaker>||<SE1>AVG_tele_connect</SE1>:...불스아이? 티스?
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:통신기 너머로는 당연히 아무도 대답하지 않았기에, AK-47는 총의 장전 손잡이를 당겼다.
+AK47(0)<Speaker>AK-47</Speaker>||:침착하자... 아직 기회는 있――
+()<Speaker>？？？</Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:——
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_Punch_Hit</SE1><BGM>BGM_Empty</BGM>:쿠웅!
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑点2><BIN>97</BIN><SE1>AVG_BaseDoor_Open</SE1>:상당히 진중한 모습의 중년 남성이 복도를 지나 한 공방 앞에 도착해, 고개를 들어 문 위에 달린 카메라 렌즈를 바라봤다.
+()<Speaker>“？？”</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>권한 확인 - A급. 코드 넘버 - 00541.</color>+<color=#00CCFF>이름 - 사샤 자비스.</color>+<color=#00CCFF>내무부 부부장, 소련 당 중앙위원, "울프팩 프로젝트" 책임자 및 연락자.</color>+<color=#00CCFF>어서 오십시오, 자비스 님.</color>
+()<Speaker>자비스</Speaker>||:반갑네, "나쟈".
+()<Speaker>"나쟈"</Speaker>||:<color=#00CCFF>저도 다시 뵈어 반갑습니다.</color>
+()||<黑点1>:
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1><BIN>412</BIN><BGM>BGM_Room</BGM><黑点2>:문이 열리기가 무섭게 안으로부터 뿜어져 나오는 진한 담배향, 기름, 먼지가 뒤섞인 공기에 자비스는 반사적으로 눈살을 찌푸렸다.
+NPC-shaw(0)<Speaker>？？？</Speaker>||:후우...
+()<Speaker></Speaker>||:그리고 안 그래도 자욱한 담배 연기 속에서, 하얀 가운을 입은 여성이 줄기차게 탁한 연기를 내뿜고 있었다.+지난 세기의 선원도 안 피울 저질 담배지만, 머리를 깨우기 위해서라면 물불 안 가리는 그녀의 선택이었다.
+()<Speaker>자비스</Speaker>||:서맨사 박——
+NPC-shaw(0)<Speaker>？？？</Speaker>||:씁.
+()<Speaker></Speaker>||:눈두덩이가 시꺼먼 그 여성이 눈을 뜨면서 다소 거칠게 자비스의 말을 끊었다.+그러면서도, 그녀의 입가에선 여전히 기름기 섞인 담배 연기를 내뱉었다.
+NPC-shaw(0)<Speaker>？？？</Speaker>||:말판 밟았잖아요.+생각까지 방해하고.
+NPC-shaw(0)<Speaker>자비스</Speaker><同时置暗>||:말판?
+()<Speaker></Speaker>||:그 말에 자비스가 자신의 발밑을 살펴봤지만, 수치를 알 수 없는 너트와 아무렇게나 나뒹굴고 있는 스패너 말곤 아무것도 없었다.
+()<Speaker>자비스</Speaker>||:어디 말입니까?
+NPC-shaw(4)<Speaker>？？？</Speaker>||:여기요.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:여성은 짜증스럽게 자신의 관자놀이를 툭툭 가리키곤, 자비스를 노려보며 반쯤 태운 담배를 다시 물었다.
+NPC-shaw(0)<Speaker>？？？</Speaker>||:...앞으로 세 칸.
+()<Speaker></Speaker>||:자비스는 눈을 껌뻑이다 깨닫곤 여성의 요구대로 세 칸 앞의 바닥 타일을 밟았다.
+NPC-shaw(4)<Speaker>？？？</Speaker>||:우로 두 칸.
+NPC-shaw(4)<Speaker>자비스</Speaker><同时置暗>||:...음, 어떻게 됐습니까?
+NPC-shaw(0)<Speaker>？？？</Speaker>||:체크메이트.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:여인은 손에 쥔 담배를 그대로 꺾어버리더니, 손뼉을 치곤 뒤로 돌아 작업 의자 위에 앉았다.
+NPC-shaw(0)<Speaker>？？？</Speaker>||:무슨 일이에요?
+NPC-shaw(0)<Speaker>자비스</Speaker><同时置暗>||:젤린스키 님께서 축하 인사를 전하셨습니다, 서맨사 쇼 박사.+이번 테스트 결과도 매우 성공적이었습니다.
+NPC-shaw(4)<Speaker>쇼</Speaker>||:뭘 당연한 일 가지고.+그리고, 그냥 "쇼"라 부르랬잖아요. 다른 발음 들으면 머리가 아파.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:쇼 박사는 자비스가 전하는 희소식엔 영 시큰둥해하며 키보드를 툭 쳤다.
+NPC-shaw(0)<Speaker>쇼</Speaker>||:IOP가 민수용을 개조한 폐급을 상대로 이렇게 오래 걸려선 한참 멀었다고요.
+NPC-shaw(0)<Speaker>자비스</Speaker><同时置暗>||:그래도 지금 단계로선 무척이나 뛰어난 결과잖습니까.
+NPC-shaw(0)<Speaker>쇼</Speaker>||:아부는 됐으니까 빨리 본론이나 말해요.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:머리를 문지르며 자리에서 일어난 쇼 박사는 영 피곤한 기색이었다. 그리고 그때, 그녀와 키가 엇비슷한 자비스의 뒤로 목소리가 들렸다.
+AN94(0)<Speaker>AN-94</Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:...보고.
+()<Speaker>자비스</Speaker>||:오호라, 우리의 주인공 아니신가.
+()<Speaker></Speaker>||:안으로 들어온 것은 깔끔한 모습의 인형이었다. 그녀의 얼굴에는 거만함이 가득했지만, 두 사람의 앞이어서인지 자중하는 듯했다.
+AN94(0)<Speaker>AN-94</Speaker>||:안녕하십니까, 자비스 님.+안녕, 박사.
+NPC-shaw(0)<Speaker>쇼</Speaker>||:인사는 됐고, 훈련은 잘했어.+쓸 만한 데이터를 또 잔뜩 얻었다.
+AN94(0)<Speaker>AN-94</Speaker>||:과찬이다. 그저 평소대로 임했을 뿐이다.+이번 상대가 IOP에서 가장 뛰어난 전술인형들이었나?
+AN94(0)<Speaker>자비스</Speaker><同时置暗>||:가장 뛰어나다곤 못 하지만, 실적은 상당한 부대지.+특히 리더인 AK-47은 우리와도 협동 작전에 투입된 바 있고, 그때의 활약으로 대원들의 인정과 찬사를 받았네.
+AN94(0)<Speaker>AN-94</Speaker>||:그래도 저와는 너무 차이났습니다.+그 정도 수준으로 엘리트라 불리다니, 이해가 가지 않습니다.
+AN94(0)<Speaker>자비스</Speaker><同时置暗>||:하하하, 여전히 신랄하구만.+그래도 다 순조롭게 진행되고 있으니, 좋은 일이군요. 그럼 난 이만 실례하겠습니다, 쇼 박사.
+AN94(5)<Speaker>AN-94</Speaker>||:잠깐 기다려 주십시오, 자비스 님.
+AN94(5)<Speaker>자비스</Speaker><同时置暗>||:으음?
+()<Speaker></Speaker>||:떠나려던 발걸음을 멈춘 자비스는 AN-94의 말에 다소 당혹스러워하며 그녀를 보곤 시선을 쇼에게 돌렸다.
+NPC-shaw(0)<Speaker>쇼</Speaker>||:...뭐 할 말 있어?
+()<Speaker></Speaker>||:그런데 쇼도 눈썹을 아주 미묘하게 들썩이는 것이, 그녀도 예상치 못한 일인 듯했다.
+AN94(0)<Speaker>AN-94</Speaker>||:외람되오나, 저는 언제 실제 임무를 수행하게 됩니까?
+()<Speaker>자비스</Speaker>||:그건...
+()<Speaker></Speaker>||:AN-94의 질문에 자비스는 또 뜻밖이란 표정을 지었고, 직접 대답하는 대신 쇼에게 눈치를 줬다.
+NPC-shaw(4)<Speaker>쇼</Speaker>||:스케줄은 우리가 알아서 짤 거야.+로봇은 쓸데없이 궁금해하지 마.
+AN94(0)<Speaker>AN-94</Speaker>||:그래도... 미안하지만, 나도 출고된 지 꽤 되었다.
+NPC-shaw(0)<Speaker>쇼</Speaker>||:여전히 수준 미달이야.
+AN94(0)<Speaker>AN-94</Speaker>||:하지만 그리폰의 인형에 비하면 압도적이잖은가.+그런데, 그들도 안전국과 협동 임무를 수행하는 데 반해, 나는 훈련장에서 훈련만 받고 있다.+그 이유를 알고 싶다.
+NPC-shaw(0)<Speaker>쇼</Speaker>||:이유? 내 맘.+알았으면 나가, 귀찮게 굴지 말고.
+AN94(0)<Speaker>AN-94</Speaker>||:......+알았다. 계속 훈련을 받겠다. 내가 준비가 되었다고, 박사도 생각할 때까지.
+()<Speaker></Speaker>||:AN-94는 감정이 최대한 안 드러나도록 억눌렀다.+그리고 의문 제기를 불허하는 쇼의 태도에, AN-94는 할 수 없이 고개를 살짝 숙이며 방을 나섰다.
+()||<黑点1>:
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1><黑点2><BIN>97</BIN>:......
+AN94(0)<Speaker>AN-94</Speaker>||:하아...
+()<Speaker>"나쟈"</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>기분이 안 좋아 보이는군요, AN-94.</color>
+AN94(5)<Speaker>AN-94</Speaker>||:나쟈?+아니, 기분 나쁘진 않다. 그저 조금 속상할 뿐이지.+나는 내가 충분히 우수하다 생각하지만... 쇼 박사의 요구엔 혀를 내두를 수밖에 없다.
+AN94(5)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>오랫동안 박사님께 봉사해 온 저로서도 그분의 요구는 까다롭고 엄격하기 그지없습니다.</color>+<color=#00CCFF>하물며 당신은 그분이 처음으로 제작한 인형. 모든 면에서 차원이 다른 기대를 품고 계시겠죠.</color>
+AN94(0)<Speaker>AN-94</Speaker>||:그래, 나는 1호기니까. 그러니 모범이 되어야지.
+()<Speaker></Speaker>||:적어도 후속 모델이 출고되기 전까진 성장한 모습을 보여야 해.
+AN94(0)<Speaker>AN-94</Speaker>||:나쟈, 최근의 훈련 데이터는 어떻지?
+AN94(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>확인하겠습니다.</color>+<color=#00CCFF>"울프팩 프로젝트" 실험 기록 10032. 훈련 지점 - 3번 야전 훈련장.</color>+<color=#00CCFF>대적 상대 - 그리폰 전술인형 3인 소대, 안전국 특전사 15명.</color>+<color=#00CCFF>결과 - 전원 제압. 소요 시간 - 11분 24초.</color>
+AN94(0)<Speaker>AN-94</Speaker>||:......내가 부족한 점이 있었나?
+AN94(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>죄송하지만 저는 연구 보조 AI에 불과해 전황의 정밀 분석은 불가능합니다.</color>+<color=#00CCFF>그래도 당신에게 있어서 충분히 뛰어난 성적임은 분명합니다.</color>
+AN94(0)<Speaker>AN-94</Speaker>||:그럼 대체 어째서일까? 왜 나는 실전 임무를 받지 못하는 거지?+오늘도 내가 쓰러뜨린 그리폰의 인형들은 나보다 훨씬 약했어. 그런데도 그들은 이미 실전 경험이 많다.+대체 왜 나는 안 된다는 것이지?
+AN94(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>죄송합니다, 해당 질문에 대한 대답이 불가능합니다.</color>
+AN94(0)<Speaker>AN-94</Speaker>||:......+나야말로 미안하다, 잊어버려라. 너에게 따져봤자지.+쇼 박사의 판단에는 분명 그녀 나름대로의 이유가 있을 터다.+나는 "늑대 무리"의 첫번째. 평범한 전술인형과 같이 취급할 수 없는 것도 당연해.
+AN94(0)<Speaker>"나쟈"</Speaker><同时置暗>||:<color=#00CCFF>기운을 차리신 듯하니 다행입니다.</color>
+AN94(0)<Speaker>AN-94</Speaker>||:몇 번을 반복하든, 몇 명을 쓰러뜨리든 상관없어. 계속 훈련해, 더욱 뛰어나지겠다.
+AN94(3)<Speaker>AN-94</Speaker>||:박사의 인정을 받을 때까지, 난 절대 좌절하지 않겠어. 그러니 안심해라, 나쟈.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:쇼 박사의 공방 앞에서, AN-94는 마음 속 불안감을 떨쳐내고 허공에 미소를 지었다. 그리고, 곧장 훈련장으로 향했다.
+()||<黑点1>:

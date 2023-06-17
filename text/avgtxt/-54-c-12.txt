@@ -1,0 +1,89 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>9</BIN>:밤의 끝이란 무엇일까?+어떤 사람은 죽음, 어떤 사람은 심연이라 말한다.+하지만 타레우스는 그리 생각하지 않는다.+왜냐면 그녀는 이미 불사를 얻었고, 기적도 보았기 때문이다.+하지만 지금은 익숙하고도 기이한 정적이 그녀를 감쌌다.
+()||<SE1>AVG_Chimes</SE1>:딸랑...+경쾌한 방울 소리가 어둠 속에서 울리고, 짙은 안개가 타레우스를 집어삼켰다.
+ColtWalker(1)<Speaker>매기</Speaker>||<SE2>AVG_Scene_Transfer</SE2><common_effect>%%code=AVG_chuxian_yan%%</common_effect><黑屏1>:신통방통 유령의 집에 어서오십쇼~
+()||<黑屏2><narrator><BGM>GF_22W_BGM_1</BGM><黑屏1>:머리 위엔 천국 대신 지옥이 보여요+크리스탈 잔에 가득 찬 데킬라 위로+영혼의 본래 모습이 떠오르네요+반짝이는 액체는 혈관을 씻어내리죠+쾌락을 내려놓고, 슬픔을 내려놓고+광기를 내려놓고, 침묵을 내려놓고
+()||<黑屏2><BIN>282</BIN><SE1>AVG_Chimes</SE1>:딸랑...+맑은 방울 소리가 들리자 타레우스는 두 눈을 떴다.
+()<Speaker>타레우스</Speaker>||:또 똑같은 짓거리. 지난 세기의 미학은 도태된 지 오래야,+너희 퇴물 인형들처럼.
+()||:하지만 아까와는 약간 달랐다. 타레우스는 이번엔 극장 관중석에 있지 않았다.+무대 위에 있었다.+그녀는 크리스틴의 멋진 드레스를 입고 검은 옷을 입은 남자의 손을 쥐고 있었다.+검은 옷의 남자는 깊은 감정을 담아 노래했다.
+NPC_girill(0)<Speaker>검은 옷의 남자</Speaker>||:"그대가 내게 등을 보이고"+"시선을 피한다 해도"+"오페라의 유령은 있다네"+"그대 마음속에..."
+()||<SE1>AVG_Shield_Startup</SE1>:타레우스는 냉소를 머금고 부유포를 꺼내려 했다.
+()||:......+하지만 꺼낼 수가 없었다...
+()||<SE1>AVG_whitenoise</SE1>:타레우스는 반복해서 자신을 다그쳤다. 침착해야 한다. 상대는 그래봐야 패러데우스에서 개조받은 쓰레기일 뿐이다.+모든 답은 그녀의 컨셔스 파노라마 안에 있다.
+()<Speaker>타레우스</Speaker>||:찾았다...
+()||:그녀는 신통방통 유령의 집의 패스워드를 찾아냈다.
+NPC-Tareus(3)<Speaker>타레우스</Speaker>||:...당신의 얼굴을 본 이들은+놀라 뒷걸음질치겠죠...
+NPC-Tareus(3)<Speaker>타레우스</Speaker>||:나는 당신의 가면이에요
+NytoWhite(0)<Speaker>타레우스</Speaker>||:나는 당신의 가면이에요
+NPC-Tareus(3)<Speaker>타레우스</Speaker>||:...닥쳐.
+Nyto(1)<Speaker>타레우스</Speaker>||:나는 당신의 가면이에요
+NPC-Tareus(3)<Shake>0.1</Shake><Speaker>타레우스</Speaker>||:...모두 닥치라고!
+NytoWhite(0)<Speaker>타레우스</Speaker>||:당신의 얼굴을 본 이들은
+Nyto(1)<Speaker>타레우스</Speaker>||:놀라 뒷걸음질치겠죠
+()<Speaker>흑&백 니토</Speaker>||:나는 당신의 가면이에요
+()||<白屏2><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_Explosion</SE1>:퍼엉——!
+NPC-Tareus(4)<Shake>0.1</Shake><Speaker>타레우스</Speaker>||<SE1>Rope</SE1>:아무도 내게 명령할 수 없어!+난 아무것도 무섭지 않아!
+()||<SE1>Explode</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:퍼엉——!
+()||<SE1>AVG_Explo_Close</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:부유포는 우박처럼 무대에 마구 내리꽂혔다.
+()||<SE1>AVG_Chimes</SE1>:딸랑...
+()||<common_effect>%%code=AVG_chuxian_yan%%</common_effect><黑屏1>:맑은 방울 소리가 다시 울렸다.
+()||<黑屏2><BIN>9</BIN><narrator><黑屏1>:폭스는 데킬라를 집었어요+심장과 폐가 불붙은 것처럼 타들어가요+거짓말과 욕망이 한데 모여 뒤섞이고+악마는 천사의 가면을 쓰고 미소짓지요
+NPC-Tareus(4)<Speaker>타레우스</Speaker>||<黑屏2><BIN>139</BIN><SE1>AVG_20Winter_Bar_Cheering_V2</SE1>:...또 이딴 걸!
+()||:커다란 웃음소리가 사방에서 들려왔다——+똑같은 장면, 똑같은 분위기.+똑같은 가지각색의 얼굴들이 옆을 지나갔다. 진한 향수 냄새, 매캐한 시가 냄새, 그리고 카지노 특유의 향기...
+NPC_baolan(4)<Speaker>손님</Speaker>||:타레우스 씨, 카드 몇 장만 주세요.+"꼭두각시 여왕" 게임 하려고요.
+NPC-Tareus(4)<Shake>0.1</Shake><Speaker>타레우스</Speaker>||<SE1>Rope</SE1>:꼭두각시고 뭐고 꺼져!!
+()||<SE1>AVG_Explosion</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:퍼엉——!
+()||<SE1>AVG_Explo_Close</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:퍼퍼펑——!
+()||<Night><SE1>AVG_Broken_Glass</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:콰직!
+()||<SE1>AVG_lifttable</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:거대한 샹들리에가 타레우스에게 떨어졌다.
+()||<SE1>AVG_Broken_Glass</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:콰아아!+타레우스의 기갑이 샹들리에 더미를 뚫었다.+그러자 샹들리에는 커다란 트럼프 카드가 되었다——+스페이드의 K로.
+()||<SE1>AVG_Chimes</SE1>:딸랑...
+()||<common_effect>%%code=AVG_chuxian_yan%%</common_effect><黑屏1>:또 다시 맑은 방울 소리가 울렸다.
+()||<黑屏2><BIN>9</BIN><narrator><黑屏1>:여기 데킬라 두 잔 주세요+한 잔은 사탄을 위하여, 한 잔은 나를 위하여
+()||<黑屏2><关闭蒙版><BIN>321</BIN>:타레우스는 이미 짜증이 치밀어올라 단 1분도 참아줄 생각이 없었다.
+()||<SE1>AVG_Explo_Close</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><黑屏1>:퍼엉——!
+()||<黑屏2><BIN>325</BIN><SE1>AVG_Scene_Transfer</SE1>:......
+()||<SE1>Explode</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><黑屏1>:퍼엉——!
+()||<黑屏2><BIN>272</BIN><SE1>AVG_Scene_Transfer</SE1>:......
+()||<SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><黑屏1>:퍼엉——!
+()||<黑屏2><BIN>229</BIN><SE1>AVG_Scene_Transfer</SE1>:......
+()||<SE1>AVG_Explo_Distance</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><黑屏1><BGM>BGM_Empty</BGM>:퍼엉——!
+()||<黑屏2><BIN>9</BIN><SE1>AVG_Scene_Transfer</SE1>:......
+()||:퍼엉——!
+NPC-Tareus(4)<Shake>0.1</Shake><Speaker>타레우스</Speaker>||<SE1>Rope</SE1>:이 쥐새끼가! 당장 튀어나와!!!
+()||<SE1>AVG_File_Put</SE1>:파앙——
+()||<黑屏1>:모든 부유검은 솜뭉치를 때리는 총알처럼, 폭발하는 소리조차 조용해졌다.
+()||<黑屏2><BIN>460</BIN>:......
+Nyto(2)<Speaker>검은 니토</Speaker>||<SE1>AVG_21Winter_Girls_Chorus</SE1>:두 태양은 각자 서로 다른 두 길을 밝히니,
+NytoWhite(1)<Speaker>하얀 니토</Speaker>||:속세로의 길과, 자애로운 아버지로의 길.
+()<Speaker>흑&백 니토</Speaker>||:신전은 마굴로 변하고, 천칭은 죄악으로 물들어 피를 채우는 제단이 되었도다.+복수의 여신은 보검으로 자신의 가슴을 갈라, 자신의 심장을 두드리며 날카롭게 외치노라.
+NPC-MrsGray(8)<Speaker>그레이</Speaker>||:우리 인생길의 한중간에서 나 올바른 길을 잃으니,+천국에서 지옥으로 이끌려 내려간다.
+NPC-Tareus(4)<Speaker>타레우스</Speaker>||:...그레이.+그레이 언니...
+NPC-MrsGray(8)<Speaker>그레이</Speaker>||:그대 태어났을 때 나는 아직 세상을 떠나지 않았으나,
+NPC-Tareus(4)<Shake>0.1</Shake><Speaker>타레우스</Speaker>||<SE1>Rope</SE1>:아니야! 너는 그레이 언니가 아니야!
+NPC-MrsGray(8)<Speaker>그레이</Speaker>||:그대 받은 고통 나의 기억에서 지워졌나니.+우리는 함께하리라. 천국도 지옥도 아닌 곳에서, 저주도 축복도 받지 아니하매. 나는 죽지도 아니하고, 살아있지도 아니하다.
+NPC-Tareus(4)<Shake>0.1</Shake><Speaker>타레우스</Speaker>||<SE1>Rope</SE1>:쓰레기가 감히 이 장면을 재생하다니...
+()||:타레우스가 처음으로 증오를 드러냈다.
+NPC-MrsGray(8)<Speaker>그레이</Speaker>||:이게 댁이 가장 무서워하는 장면이야?+타레우스 씨?
+NPC-Tareus(4)<Shake>0.1</Shake><Speaker>타레우스</Speaker>||<SE1>Rope</SE1>:이 쓰레기! 이 쓰레기!
+NPC-MrsGray(8)<Speaker>그레이</Speaker>||:지금 거울로 내가 어떤 모습인지 보고 싶네.+누가 뭘 하고 있길래 댁이 그렇게 질겁을 하는지 좀 알게...
+()||<SE1>AVG_Explo_Distance</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:퍼엉——!
+NPC-Tareus(4)<Speaker>타레우스</Speaker>||:<size=50>꺼져!!</size>
+NPC-MrsGray(8)<Speaker>매기</Speaker>||:징그러워라...
+NPC-Tareus(4)<Shake>0.1</Shake><Speaker>타레우스</Speaker>||<SE1>Rope</SE1>:......
+NPC-MrsGray(8)<Speaker>매기</Speaker>||:댁은 이런 존재였구나?+완전한 인간도 아니고, 완전한 인형도 아니고.+그 뭐냐...+잡종이잖아?
+NPC-Tareus(4)<Shake>0.1</Shake><Speaker>타레우스</Speaker>||<SE1>Rope</SE1>:......
+()||<SE1>AVG_Explo_Distance</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><黑屏1>:퍼엉——!
+()||<黑屏2><BIN>9</BIN>:타레우스는 길게 숨을 뱉었다——
+()||<黑屏1>:아직, 더 많은 비밀을 들키진 않았으니까.
+()||<黑屏2><SE1>AVG_Scene_Transfer</SE1><BIN>460</BIN>:퍼엉——!
+Nyto(2)<Speaker>검은 니토</Speaker>||<SE1>AVG_21Winter_Girls_Chorus</SE1>:두 태양은 각자 서로 다른 두 길을 밝히니,
+NytoWhite(1)<Speaker>하얀 니토</Speaker>||:속세로의 길과, 자애로운 아버지로의 길.
+()<Speaker>흑&백 니토</Speaker>||:신전은 마굴로 변하고, 천칭은 죄악으로 물들어 피를 채우는 제단이 되었도다.+복수의 여신은 보검으로 자신의 가슴을 갈라, 자신의 심장을 두드리며 날카롭게 외치노라.
+NPC-Tareus(4)<Shake>0.1</Shake><Speaker>타레우스</Speaker>||<SE1>Rope</SE1>:......
+()||<SE1>AVG_Explo_Distance</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><黑屏1>:퍼엉——!
+()||<黑屏2><BIN>9</BIN><黑屏1><SE1>Stop_AVG_loop</SE1>:파앗——
+Nyto(2)<Speaker>검은 니토</Speaker>||<黑屏2><BIN>460</BIN><SE1>AVG_Scene_Transfer</SE1><SE1>AVG_21Winter_Girls_Chorus</SE1>:두 태양은 각자 서로 다른 두 길을 밝히니,
+NPC-Tareus(4)<Shake>0.1</Shake><Speaker>타레우스</Speaker>||<SE1>Rope</SE1>:<size=50>죽여버리겠어!!!</size>
+()<Speaker>매기</Speaker>||:이봐, 설마 여태껏 몰랐던 거야? 내 마인드맵에서 아직 내가 완전히 통제 중인 부분이 조금은 남아있다고.+그래, 재머가 낡은 수단이긴 하지. 하지만 여전히 가장 잘 먹힌단 말씀.+그리고 니들이 아무리 날 뜯어고쳐도, 난 나 자신을 사랑하는걸.+그렇지, 캐서린?+안심해, 네 몫까지 전부 토해내게 할 테니까.
+()||<黑屏1>:

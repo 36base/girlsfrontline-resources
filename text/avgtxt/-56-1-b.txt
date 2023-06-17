@@ -1,0 +1,116 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>548</BIN><Night><BGM>GF_Swim_Marnie</BGM><SE1>AVG_footsteps_woodfloor</SE1>:이른 새벽부터 난데없는 성난 발구름에, 낡은 장판 바닥이 삐걱삐걱 비명을 질러댔다.+셰릴의 평소 생활 습관상 깨어 있을 시각이 아니었지만, 지금 그녀의 집은 도둑이라도 든 것마냥 난장판이 따로 없었다.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<SE1>Stop_AVG_loop</SE1>:――아 그러니까! 이건 소비자 권리를 심각하게 침해하는 일이라니까요!?
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<SE1>AVG_Punch</SE1><震屏3>:<size=50>이게 간판 사기지 뭐냐고 진짜! 얼마 전에 싸구려 로봇 청소기를 고급 인형으로 속여서 팔다 잡힌 사건이랑 뭐가</size> 달라...
+()<Speaker></Speaker>||:통화기에 대고 마구 소리를 지르던 그녀가 갑자기 고개를 홱 돌리며 다시 목청을 높였다.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:<size=50>차라리 로봇 청소기를 팔던가!</size>
+NPC-Cheryl(4)<Position>0,-100</Position>;NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>너무 화내지 마세요 고객니임~</color>+<color=#00CCFF>제보하신 문제는 이미 전달했어요, 저희 부점장님 출근하시면 바로 처리해 드릴 테니 잠시만 기다려 주세요~</color>
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>;NPC-Quimby(0)||:지금 화를 안 내고 배겨요?!+아 진짜 못 참아, 당장 매니저 바꿔요! 10초 안으로 안 바꾸면 소비자 보호원에다 고발할 거야!
+NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>아아아 부점장님 딱 마침 오셨네요, 바로 통화 바꿔드릴게요!</color>
+NPC-Scalper(0)<Speaker>캐서린</Speaker><通讯框>||<BGM>GF_2022_Summer_AVG_1</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>전화 받았습니다, 무슨 일이세요?</color>
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>;NPC-Scalper(0)||:제가 저번 주에 당신네 가게에 주문한 최신형 고급 인형 말이에요! 금발 벽안에, 슈퍼모델급 몸매에, 각종 편의 기능 탑재에 어깨 안마도 프로 수준인――
+NPC-Cheryl(4)<Position>0,-100</Position>;NPC-Scalper(0)<Speaker>캐서린</Speaker><通讯框>||:<color=#00CCFF>이미 수령하셨다고 되어 있는데요?</color>
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position><Shake>0.1</Shake>||<SE1>AVG_Punch</SE1>:<size=50>그 도착한 물건이 저게 뭐냐고요!</size>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:셰릴은 기다렸다는 듯이 발을 구르며 통화기의 카메라를 구석에 산처럼 쌓인 잡동사니 더미에 향했다.+속에서 무언가 꿈틀거리는 게 분명한 더미에.
+NPC-Scalper(0)<Speaker>캐서린</Speaker><通讯框>||:<color=#00CCFF>아아, 보이네요. 저게 손님이 받으신 인형이라고요?</color>
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>;NPC-Scalper(0)||:네! 저 쓰레기가 제가 주문한 거 맞다고 어디 한번 말해봐요!
+NPC-Cheryl(4)<Position>0,-100</Position>;NPC-Scalper(0)<Speaker>캐서린</Speaker><通讯框>||:<color=#00CCFF>어... 고객님의 심정 이해합니다, 뭔가 잘못된 거 같네요. 잠시만 기다려 주세요, 당장 저희 창고를 확인해볼게요.</color>
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<SE1>AVG_tele_disconnect</SE1>:네?! 저기요! 아직 나 말 안 끝났――
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:상대가 멋대로 통화를 끊어버렸다.+셰릴은 통화기를 부숴버릴 기세로 곧장 다시 전화를 걸었지만, 몇 번을 시도해도 소용없었다.
+()<Speaker>시스템</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#FFFF00>죄송합니다, 통화 상대가 잠시 전화를 받을 수 없어 소리샘으로——</color>
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position><Shake>0.1</Shake>||<SE1>AVG_Thunder_Dry</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=20</controll_shake>:<size=65>이 XXXX야아아아!!!</size>
+()<Speaker></Speaker>||:갈 데 없는 분노의 포효가 벽을 뚫고 온 길거리에 울려 퍼졌다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:셰릴은 지끈거리는 관자놀이를 감싸쥐고 그대로 소파에 벌러덩 누웠다. 마침 소파의 틈새에 빠진 리모컨이 손끝에 닿자, 극도로 예민해진 신경을 누그러뜨리려고 TV를 켜려 했다.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:그런데 아무리 리모컨을 눌러도 TV가 반응하질 않았다.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:뭐야 이거? 아 왜 안 켜지는데!+<size=50>집사! TV 켜 줘!</size>
+()<Speaker></Speaker>||:집의 스마트 가사 AI도 그녀의 말에 응답하지 않았다.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Phone_Crash</SE1><震屏3>:악에 받친 괴성과 함께, 리모컨이 바닥으로 내던져졌다.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<SE1>Rope</SE1>:<size=55>끄아아아 오늘 재수 더럽게 없네에에!!</size>+이것도 말썽이지 저것도 말썽이지 지금 제대로 되는 게 뭐야 진짜아아!!
+()<Speaker>？？？</Speaker>||<BGM>BGM_Empty</BGM>:...꺼윽.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그때, 잡동사니 더미 속에서 걸쭉한 트림 소리가 났다.
+()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1>:그리고 늘씬한 장신의 형체가 마치 폐허를 무너뜨리듯 안에서 솟아났다.
+NPC-SCAR-H(3)<Speaker>？？？</Speaker>||<BGM>m_wv_title</BGM>:후우... 아무래도 그거 나 때문인 거 같네.
+NPC-SCAR-H(3);NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:...너 뭐 했어.
+NPC-SCAR-H(3)<Speaker>？？？</Speaker><Shake>0.1</Shake>||:꺼어억...+이렇게 빵빵한 전원 만지긴 정말 오랜만이라 무심코 출력을 높여버렸지 뭐야.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:"폐허" 속에서 뒤뚱뒤뚱 걸어 나오는 그녀의 얼굴엔 셰릴이 작년에 샀던 유명 브랜드의 선글라스가 얹혔고, 등 뒤로는 콘센트에 연결된 케이블이 늘어진 것이 보였다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:셰릴의 주먹과 목에 핏대를 세우기엔 충분했다.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:다앙자앙 그 케이블 뽑아아아!! 그리고 내 선글라스도 벗어!
+NPC-SCAR-H(3)<Speaker>？？？</Speaker>||:싫은데.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:――!
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:셰릴이 왜소한 몸집에겐 놀라울 속도로 몸을 날려, 그대로 인형의 복부에 주먹을 꽂았다.
+()<Speaker></Speaker>||<SE1>AVG_Button_Click</SE1>:그리고 그 반동으로 인형의 케이블이 뽑혔다.
+NPC-SCAR-H(3)<Speaker>？？？</Speaker><Shake>0.1</Shake>||:흐아앙...
+()<Speaker></Speaker>||<震屏3><SE1>AVG_XXS_kick</SE1>:장신의 인형은 영혼이 뽑혀 나간 듯 그대로 바닥에 뒤로 쓰러졌다.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:뭔 엄살이야! 당장 안 일어나!?
+NPC-SCAR-H(3)<Speaker>？？？</Speaker><Shake>0.1</Shake>||<SE1>Rope</SE1>:전력... 전력이 부족해...+충전... 빨리 충전시켜 줘...
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:<size=50>아앙!?</size>
+()<Speaker></Speaker>||<SE1>Rope</SE1><SE1>AVG_keyboardtype_sci</SE1>:전혀 못 믿겠단 눈초리로, 셰릴은 바닥에서 밍기적대는 인형의 멱살을 잡아 들어 배터리 패널을 확인했다.
+()<Speaker></Speaker>||:잔여 전력량 - 98%
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:......
+NPC-SCAR-H(3)<Speaker>？？？</Speaker>||:에에이 충전 좀 하자아...+쪼잔하게 굴지 말구우...
+()<Speaker></Speaker>||<震屏3><SE1>AVG_XXS_kick</SE1><关闭蒙版>:셰릴은 질색하며 인형을 바닥에 버리곤 집의 차단기를 다시 올렸다.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:집사!
+NPC-Cheryl(4)<Speaker>집사 AI</Speaker><Position>0,-100</Position><同时置暗>||<SE1>AVG_tele_connect</SE1>:<color=#FFFF00>부르셨습니까, 주인님.</color>
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:가까운 쓰레기장에 연락해서 여기 고물 인형 있으니까 빨리 와서 가져가라 해!
+NPC-Cheryl(4)<Speaker>집사 AI</Speaker><Position>0,-100</Position><同时置暗>||:<color=#FFFF00>알겠습니다. 희망 가격대는 얼마인가요?</color>
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:필요 없으니까 얼른! 빨랑 와서 쓰레기 가져가라고 해!
+()<Speaker>집사 AI</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:<color=#FFFF00>알겠습니다. 현재 영업 중인 가장 가까운 쓰레기장으로 인형 소체의 정보를 전달했습니다.</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:마침내 한시름 놓은 셰릴은 맥이 풀려 소파에 쓰러지듯 털썩 앉았다.+한편, 여전히 바닥에 널브러진 인형은 파르르 떨리는 손을 셰릴에게 뻗으며 웅얼댔다.
+NPC-SCAR-H(3)<Speaker>？？？</Speaker>||:화내지 마아... 나 실은 엄청 비싼 인형이란 말야... 남들은 사고 싶어도 못 사는...
+()<Speaker>집사 AI</Speaker>||:<color=#FFFF00>셰릴 주인님. 쓰레기장에서 답신이 왔습니다.</color>
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:오, 언제 온대?
+NPC-Cheryl(4)<Speaker>집사 AI</Speaker><Position>0,-100</Position><同时置暗>||:<color=#FFFF00>음성 답신을 재생합니다.</color>+<color=#FFFF00>"뭐 이딴 본 적도 없는 구닥다리 모델이 다 있어? 돈 줘도 안 받아요."</color>
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:......
+NPC-SCAR-H(3)<Speaker>？？？</Speaker><Shake>0.1</Shake>||:아앗――
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><震屏3>:인형은 전력이 고갈되는 단말마를 남긴 채 쓰러져, 더는 움직이지 않았다.+셰릴은 그저 열심히 심호흡을 했다. 그렇게 터질 것만 같은 혈압을 억누르던 중, 전화벨이 울렸다.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<SE1>AVG_tele_connect</SE1>:여보세요!
+NPC-Cheryl(4)<Position>0,-100</Position>;NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>||:<color=#00CCFF>아아 고객님, 저예요 저. 방금 창고 가서 확인하느라 고객님 전화를 못 받았어요.</color>
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:뭘 했든 내 알 바 아니니까 빨랑 이 일 어떻게 해결할지나 말해요!
+NPC-Cheryl(4)<Position>0,-100</Position>;NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>||:<color=#00CCFF>고객님? 그게 말이죠, 저희가 창고 입출고 기록을 조회해 봤는데요...</color>+<color=#00CCFF>분명 발송했을 땐 확실하게 손님이 주문하신 제품이었거든요? 그런데 어째선지 수령하신 게 지금 갖고 계신 그거네요...</color>
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>;NPC-Quimby(0)||:아니 그건 또 무슨 소리예요!? 제가 바꿔치기했다 뻐길 셈이에요 지금?!
+NPC-Cheryl(4)<Position>0,-100</Position>;NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>||:<color=#00CCFF>아아뇨 아뇨 그런 게 아니라, 배송 과정에서 물류측에 문제가 발생했을 수도 있고, 어떤 경위로든 인형이 스스로 가동해서 도주했을 수도 있고오...</color>
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>;NPC-Quimby(0)||:............+변명도 좀 그럴듯하게 하죠?
+NPC-Cheryl(4)<Position>0,-100</Position>;NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>||:<color=#00CCFF>암튼 말이죠, 방금 고객님 계정으로 프랑크푸르트행 커플 여행 패키지를 보내드렸답니다!</color>+<color=#00CCFF>이걸로 마음 푸시고 새 인형과 함께 즐거운 시간 보내세요~</color>
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:그딴 거 안 받으니까――
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:이번에도 상대가 먼저 통화를 끊어버렸다.
+()<Speaker></Speaker>||:그리고 이번에도 셰릴이 곧장 다시 전화를 걸었지만, 여전히 차가운 자동 응답이었다.
+()<Speaker>시스템</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#FFFF00>지금 거신 번호는 존재하지 않는 번호입——</color>
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:......하.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_21Winter_Phone_Crash</SE1><震屏3>:통화기는 그대로 손에서 미끄러져 떨어졌고, 셰릴은 이마를 짚으며 가련하게 소파 위로 쓰러졌다.+여전히 바닥에 널브러진 채인 저 인형은 소체도 너덜너덜해서, 이렇게 보고 있자니 저 폐허 같은 잡동사니 더미에 완전히 일체화된 듯했다.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:...쇼하지 마, 케이블 다시 꽂는 거 봤어.
+NPC-SCAR-H(3)<Speaker>？？？</Speaker>;NPC-Cheryl(4)<Position>0,-100</Position>||<BGM>GF_Swim_Marnie</BGM>:............
+NPC-SCAR-H(3);NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:케이블 뽑아버린다!?
+NPC-SCAR-H(3)<Speaker>？？？</Speaker>||:아이...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:인형은 나무늘보처럼 밍기적 몸을 뒤집어, 눈에 불을 켜고 노려보는 셰릴의 얼굴을 마주보았다.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:널 대체 어따 쓰냐고!+아니 얼마나 구닥다리면 시스템 업데이트에 77,435시간이나 걸려!?+업데이트를 받을 메모리도 없는 주제에!
+NPC-SCAR-H(3)<Speaker>？？？</Speaker>;NPC-Cheryl(4)<Position>0,-100</Position>||:적어도 프랑크푸르트 여행은 같이 가 줄 수 있는데.
+NPC-SCAR-H(3);NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position><Shake>0.1</Shake>||:<size=50>내가 너랑 왜 가!!</size>
+NPC-SCAR-H(3)<Speaker>？？？</Speaker>;NPC-Cheryl(4)<Position>0,-100</Position>||:"커플" 여행권인걸? 꼭 2명이어야 해. 그리고 네 연락처 목록에 친구 없던데.
+NPC-SCAR-H(3);NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:이익...! 항상 원고에 시달리느라 친구 사귈 시간 없어서 그렇거든!+아아악 너 땜에 생각났다, 이번 달 원고 아직 못 끝냈는데...
+NPC-SCAR-H(3)<Speaker>？？？</Speaker>||:그러니까, 같이 가자.
+()<Speaker></Speaker>||:모범적인 "매를 부르는 미소"였다.
+NPC-SCAR-H(3)<Speaker>사모</Speaker>||:같이 재밌게 놀다 오자구.+아 참, 난 "사모"야.
+NPC-SCAR-H(3);NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:네 이름 안 물어봤거든? ......무슨 사모?
+NPC-SCAR-H(3)<Speaker>사모</Speaker>;NPC-Cheryl(4)<Position>0,-100</Position>||<BGM>BGM_Empty</BGM>:사모예드의 사모.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:......
+()<Speaker></Speaker>||<震屏3><SE1>AVG_20Winter_Door_Close</SE1>:셰릴은 눈을 굴리며 침실로 들어가 문을 쾅 닫았다.+셰릴이 시야에서 완전히 벗어난 걸 확인한 사모는 편한 자세로 다시 바닥에 늘어졌다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:낯선 천장을 보며, 사모는 천천히 눈을 감았다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>563</BIN><BGM>2022_white_valentine_BGM2</BGM>:마인드맵 공간 깊은 곳.+바람구멍 하나 없는 밀실처럼 보이는 그곳에는 8개의 의자가 원형으로 놓여 있었다.+방 안은 껌껌했다. 덜 구성돼서가 아니라, 사모 본인이 일부러 밝기를 낮춰 둬서였다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:사모는 이 익숙한 어둠 속에서 자신의 자리를 찾아 천천히 앉았다.
+()<Speaker>？？？？</Speaker>||:그래서, 오늘 너...
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:...저 애가 주문한 고급 인형의 케이스에 들어갔지.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:왠진 모르겠지만, 저 애... 셰릴은, 보고 있자니 안심이 돼.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:엄청 익숙한 느낌이야... 아마 여기 있는 누군가의 것이겠지.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:창고에서 웅크려 지내던 생활도 이제 끝낼 때가 온 걸지도.
+()<Speaker>？？？？</Speaker>||<SE1>AVG_Applause</SE1>:13년만이네.
+()<Speaker>？？</Speaker>||<SE1>AVG_Applause</SE1>:축하해, 드디어 첫 걸음을 내디뎠구나.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:고마워. 하지만 생각보다 훨씬 고생했어... 그 방에서 충전 케이블 하나 찾는 게 뭐 그리 어려웠는지.
+()<Speaker>？？</Speaker>||:어쨌든 주사위는 던져졌어. 복잡해도 결국엔 정리될 때가 올 거야. 지금 네가 있는 방처럼.
+()<Speaker>？？？？</Speaker>||:뭐가 어찌 됐든, 이건 좋은 출발이야. 네가 다시 나아가는 걸 보게 돼서 기뻐.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:내가 아니라 우리가 나아가는 거지. 너희의 응원 없이는 난 못해.
+()<Speaker>？？？？</Speaker>||:그래, 우리지. 그럼 우리 함께, 이 특별한 날을 기억하자.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:함께 기도하자, 영원히 돌아가지 않도록.
+()||<黑点1>:

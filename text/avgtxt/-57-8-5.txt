@@ -1,0 +1,170 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>613</BIN><BGM>BGM_Saga_AVG_Day</BGM>:저택의 거실.+어젯밤 내내 쏟아지던 폭우가 마침내 그칠 기미가 보였다.+공연이 코앞이니, 좋은 징조처럼 보였다.
+()<Speaker>지휘관</Speaker>||:모두 준비됐지!? 공연장으로 출발한다!
+NPC-Lily(0)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<SE1>AVG_Rromantic</SE1>:릴리 준비됐어!
+NPC-Saki(4)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<SE1>ClothingUp</SE1>:<size=50>프랑슈슈 출동이다아아!!!</size>
+NPC-Tae(4)<Speaker>야마다 타에</Speaker><Position>0,-340</Position><Scale>1.4</Scale><Shake>0.1</Shake>||<SE1>AVG_Cloak_Whoosh</SE1>:우오! 우오! 우오! 우오! (제자리서 빙빙 돌며 소리지르는 중.)
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:사키는 벌써 짐가방을 들고 바로 튀어나갈 기세로 스퍼트 준비 자세를 취했다.
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:다들 준비됐어요, 지휘관.
+()<Speaker>지휘관</Speaker>||:조~아써! 프랑슈슈! GO GO GO GO GO!!
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_20Winter_Door_Open</SE1>:요란한 외치면서도, 당신은 문 앞으로 가 꽤 격식 있는 포즈로 문을 열었다. 그리고 모두를 맞이한 것은 ——
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><BIN>569</BIN><黑点2><SE1>AVG_AMB_Rain</SE1>:사납게 요동치는 강이었다.
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Truth</BGM>:......엥?+우리 집 앞이 강가였던가...?
+NPC-Sakura(5)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:엑... 머여, 이거 어케 된 겨?!+우리... 집째로 강으로 떠내려온 겨!?
+NPC-Yugiri(2)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:강과는 조금 거리가 있던 걸로 기억하는데 말이죠...
+NPC-Lily(8)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:그럼 외계인한테 납치당한 거야!?
+()||<黑点1>:
+NPC-MizunoAi(1)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||<BIN>613</BIN><黑点2><SE1>Stop_AVG_loop</SE1>:이, 일단 모두 진정해!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:아이가 먼저 조심조심 문 밖으로 고개를 내밀어 주위를 살폈다.
+NPC-MizunoAi(3)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||:다행히 떠내려온 건 아니고, 홍수가 나서 이 일대가 물에 잠긴 모양이야.
+NPC-Junko(6)<Speaker>콘노 준코</Speaker><Position>60,-230</Position><Scale>1.27</Scale>||:하지만 아무리 밤새 비가 내려도 어떻게 이렇게...?!
+()<Speaker>지휘관</Speaker>||:뉴스! 뉴스 확인해 봐!
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:불안감을 느낀 당신은 황급히 텔레비전을 켰지만, 어째선지 노이즈만 나왔다.
+()<Speaker></Speaker>||<SE1>AVG_splash_water</SE1>:그리고 때마침 무언가가 지붕에서 떨어져, 물속에 풍덩 빠졌다.+순간적으로 스친 그 형태는 TV의 안테나가 분명했다.
+()<Speaker>지휘관</Speaker>||:......
+NPC-Sakura(7)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale><Shake>0.1</Shake>||:우야꼬... 우야꼬! 그라믄 우덜 콘서트 우야꼬!
+()<Speaker></Speaker>||<SE1>RunStep</SE1><SE1>AVG_tele_connect</SE1>:당신이 리모컨을 집어 던지고 전화기를 들어 공연 주최 측에게 전화를 걸어봤지만...+역시 먹통이었다.
+NPC-MizunoAi(3)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||:......+지휘관, 바깥 상황을 봐선 아마 사가 전체가 물난리일 거야.
+NPC-Junko(3)<Speaker>콘노 준코</Speaker><Position>60,-230</Position><Scale>1.27</Scale>||:그럼... 우리의 콘서트는...
+NPC-Yugiri(2)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:이 빗물에 함께 떠내려가는 것이겠죠.
+NPC-Lily(4)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale><Shake>0.1</Shake>||:싫어... 릴리는 그런 거 싫어! 우에엥...
+NPC-Sakura(1)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:울지 마 릴리...
+()<Speaker></Speaker>||:조금 전까지만 해도 뜨겁게 하늘을 찌르던 기세가 순식간에 차가운 심연 속으로 빠져버렸고, 당신은 그저 문 앞에서 무심히도 흐르는 홍수를 망연하게 쳐다보았다.
+NPC-Saki(3)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<震屏3><SE1>AVG_Punch_Hit</SE1>:<size=50>웃기지 말라고 해! 우리가 얼마나 열심히 준비한 콘서트인데!!</size>
+NPC-Sakura(7)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:그치만... 그치만 이건 우리가 어쩔 수 있는 게...
+NPC-Saki(3)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:시꺼! 내 운명은 내 거여, 내가 정한다고! 헤엄쳐서라도 공연장 가고 말겠어!
+NPC-Yugiri(1)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:미련한 고집 버리세요! 물살이 이리도 급한데...!
+NPC-MizunoAi(1)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||:진정해 이 바보야! 너만 납득 못하는 줄 알아!?
+NPC-Junko(6)<Speaker>콘노 준코</Speaker><Position>60,-230</Position><Scale>1.27</Scale>||:지휘관님도 사키를 말려봐요! 저러다 큰일나겠어요!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:제지하는 동료들을 밀치는 사키의 단호한 눈빛에 당신은 마음이 흔들렸다.<c>A. 사키에게 동조한다.<c>B. 사키를 말린다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:사키, 마음은 알지만 진정해! 홍수인 건 둘째 치고 물살이 너무 급해서 위험하다고!
+NPC-Saki(3)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<分支>2</分支><SE1>Rope</SE1>:어떻게 지휘관까지 그런 쫄보 같은 말을 해!
+NPC-MizunoAi(1)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||<分支>2</分支>:이런 때일수록 침착하게 생각해야지! 위험한 거 뻔히 알면서 무작정 부딪히고 보면 될 거 같아?
+NPC-Junko(3)<Speaker>콘노 준코</Speaker><Position>60,-230</Position><Scale>1.27</Scale>||<分支>2</分支>:맞아요, 모두 함께 방법을 생각해 봐요.
+NPC-Sakura(1)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<分支>2</分支>:사키, 진정해...
+()<Speaker></Speaker>||<分支>2</分支><SE1>ClothingUp</SE1>:모두 사키의 곁에 모였지만, 그녀는 자신의 뜻을 굽히지 않았다.
+NPC-Saki(3)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<BGM>BGM_Empty</BGM><分支>2</分支>:몰러... 아 몰러! 나 혼자서라도 갈 거여!
+NPC-Saki(0)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<分支>2</分支>:니들은 여서 내 승전보나 기다리고 있으라고!
+()||<黑点1><分支>2</分支>:
+()<Speaker></Speaker>||<分支>2</分支><黑点2><BIN>569</BIN><震屏3><SE1>AVG_fall_into_water</SE1><BGM>10394</BGM>:사키는 어디서 났는지 모를 구명조끼를 입고는 곧장 불어난 강물에 풍덩 뛰어들었다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:사키!
+()<Speaker></Speaker>||<分支>2</分支>:어쩔 수 없었다. 저 쬐끄만 덩치가 세찬 물살 사이로 사라졌다 다시 불쑥 떠오르는 것을 지켜볼 수밖에 없었다.
+NPC-Sakura(5)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale><Shake>0.1</Shake>||<分支>2</分支>:우야꼬 우야꼬 우야꼬...
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:......
+()<Speaker></Speaker>||<分支>2</分支>:손에 식은땀이 쥐였다.+그래도 과연 전직 폭주족이랄지, 사키는 꿋꿋하게 파도를 헤치고 나아갔다.+그러다 갑자기 그녀가 헤엄을 멈추더니, 고개를 돌렸다.
+()<Speaker>니카이도 사키</Speaker>||<分支>2</分支>:어푸어푸, 봤제!? 괜찮다니어푸어푸!!
+NPC-MizunoAi(1)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||<分支>2</分支>:한눈팔지 마 이 바보야!
+()<Speaker></Speaker>||<分支>2</分支>:당신도 조금이나마 안심하고 응답해 주려던... 그때.
+()<Speaker></Speaker>||<分支>2</分支><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=6</controll_shake><SE1>AVG_splash_water</SE1>:촤아아!!
+()<Speaker></Speaker>||<分支>2</分支><震屏3><SE1>AVG_Punch_Hit</SE1><BGM>BGM_Empty</BGM>:어디선가 떠내려온 커다란 통나무가 사키의 바로 뒤에서 솟아났고, 피할 새도 없이 뒤통수를 정통으로 가격당해 기절하고 말았다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支><BGM>BGM_Danger</BGM>:<size=50>사키!!</size>
+NPC-Sakura(2)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<分支>2</分支>:안 돼 사키!! 정신 차리――엑, 지휘관?!
+()<Speaker></Speaker>||<分支>2</分支><SE1>AVG_fall_into_water</SE1>:이성보다 몸이 먼저 반응해, 당신도 구명 조끼를 입고 강물로 뛰어들어 사키를 향해 헤엄쳤다.
+()<Speaker></Speaker>||<分支>2</分支>:시꺼먼 파도와 세찬 물살, 그리고 그 속에 숨은 장애물 때문에 수면 가까이 떠 있기조차 벅찼지만...
+()<Speaker></Speaker>||<分支>2</分支><震屏3>:당신은 전부 아랑곳 않고, 체력이 빠르게 소진되는 것도 무시하고, 기절해 떠내려가는 사키를 향해 필사적으로 팔다리를 휘저었다.
+()||<黑屏1><分支>2</分支>:
+()<Speaker>지휘관</Speaker>||<分支>2</分支><黑屏2><BIN>9</BIN>:사키――!?
+()<Speaker></Speaker>||<SE1>AVG_splash_water</SE1><分支>2</分支><BGM>BGM_Empty</BGM>:그리고 이를 비웃듯, 시꺼먼 파도가 당신을 덮쳤다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支><BGM>BGM_Empty</BGM>:나도 같이 간다.
+NPC-Saki(4)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<分支>1</分支><BGM>10394</BGM>:역시 지휘관이야, 내 편 들어줄 줄 알았어!
+NPC-Sakura(2)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<分支>1</分支>:엑, 지휘관도요!?
+NPC-MizunoAi(1)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||<分支>1</分支>:지휘관까지 바보가 되면 어떡해!
+()<Speaker></Speaker>||<分支>1</分支>:거실이 바로 아수라장이 됐지만, 당신은 이미 마음을 굳힌 뒤였다.
+NPC-Saki(1)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<分支>1</分支>:니들은 여서 우리의 승전보나 기다리고 있으라고!
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:오늘 밤 라이브 콘서트는 반드시 개최한다!
+NPC-Junko(6)<Speaker>콘노 준코</Speaker><Position>60,-230</Position><Scale>1.27</Scale>||<分支>1</分支>:지휘관, 진정하고 다시 생각해봐요...
+NPC-Lily(5)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<分支>1</分支>:좀비여도 너무 위험하다니까!
+()<Speaker></Speaker>||<分支>1</分支>:하지만 마주보고 뜨거운 시선을 교환하는 당신과 사키에겐 어떤 만류도 통하지 않았다.
+()<Speaker></Speaker>||<分支>1</分支><SE1>AVG_Creep</SE1>:결국 저택 안에서 구명조끼를 찾아낸 당신과 사키는 현관문 앞에 서서, 홍수로 불어나고 세찬 강물과 마주했다.
+NPC-Saki(3)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<分支>1</分支>:<size=50>가자아아아!!!</size>
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:<size=50>GO GO GO!!</size>
+()||<黑点1><分支>1</分支><SE1>AVG_fall_into_water</SE1>:
+()<Speaker></Speaker>||<分支>1</分支><黑点2><震屏3><BIN>569</BIN>:풍덩!+동시에 입수한 당신과 사키는 저 멀리 건너편에 보이는 물기슭을 향해 맹렬하게 헤엄쳤다.
+NPC-Saki(0)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<分支>1</分支>:근성 있구마! 너무 뒤처지지나 말어야!
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:걱정 붙들어 매셔, 바로 네 뒤니까!
+()<Speaker></Speaker>||<分支>1</分支>:전직 폭주족의 리더 아니랄까봐, 앞에서 세찬 물살을 가르며 당신에게 방향을 지시하는 사키는 당신에게도 꽤 늠름해 보였다.
+()<Speaker></Speaker>||<分支>1</分支><BGM>BGM_Empty</BGM>:하지만 그렇게 생각하던 찰나, 날렵하게 헤엄치던 그녀가 갑자기 부자연스럽게 멈칫했다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:뭐야, 왜 그래?
+NPC-Saki(6)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale><Shake>0.1</Shake>||<SE1>AVG_splash_water</SE1><分支>1</分支><BGM>BGM_Danger</BGM>:<size=50>끄아아아 발에 쥐 났어푸어푸!!</size>
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:뭐어!?
+()<Speaker></Speaker>||<分支>1</分支>:당신은 사력을 다해 헤엄쳤지만, 사키는 당신보다 더 빠른 속도로 강물에 휩쓸려 떠내려갔다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支><震屏3>:<size=50>사키!</size>
+()<Speaker>니카이도 사키</Speaker>||<分支>1</分支><SE1>AVG_splash_water</SE1>:어푸엎꼬르르륵...
+()<Speaker></Speaker>||<分支>1</分支>:이젠 아무 생각도 들지 않았다. 물속의 장애물도 당신의 체력도 신경쓰지 않고, 사키를 구하기 위해 미친 듯이 헤엄쳤다. 그리고...
+()<Speaker></Speaker>||<BIN>9</BIN><分支>1</分支><SE1>AVG_Punch_Hit</SE1>:쿠웅.+무언가에 부딪힌 듯, 뒤통수가 무감각해졌다.
+()<Speaker></Speaker>||<SE1>AVG_Tinnitus</SE1>:그리고 시꺼먼 어둠 속에 잠기려던 찰나, 무언가가 당신을 단단히 붙잡았다.
+()<Speaker>？？？</Speaker>||<SE1>Rope</SE1>:<size=30>지휘관!</size>
+()<Speaker></Speaker>||:물살에 모호해진 목소리가 귓가에 물결쳤다.
+()<Speaker>？？？</Speaker>||<SE1>AVG_Creep</SE1>:잡았다! 이제 당겨!
+()<Speaker></Speaker>||:누구의 목소리인지는 구분이 안 갔다. 그저, 무척이나 다급한 것만 알 수 있었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><Night><睁眼><BIN>578</BIN><SE1>Stop_AVG_loop</SE1>:......+눈이 뜨이자 보인 것은 익숙한 침실의 천장이었다.
+()<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1>:......+돌아...온 건가...?
+()<Speaker></Speaker>||<SE1>AVG_Camera_Focus</SE1>:자리에서 일어난 당신은 창가로 가 커튼을 열어젖혔다. 밖은 이미 밤이 깊어 깜깜했다.
+()<Speaker>지휘관</Speaker>||:――아뿔싸, 콘서트!
+()||<黑点1>:
+()<Speaker></Speaker>||<SE1>AVG_Door_Open</SE1><SE1>RunStep</SE1><黑点2><BIN>9</BIN>:실내화를 신는 것도 잊고 황급히 로비로 내려갔다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>588</BIN><Night><SE1>AVG_Door_Close</SE1>:로비는 불이 꺼져 있어 온통 깜깜했다.+이 적막함에 오한이 당신의 발바닥을 타고 온몸으로 퍼졌다.
+()<Speaker>지휘관</Speaker>||:사쿠라...?+아이? 준코! 사키!+유우기리! 릴리! 타에!+다들 어디 있어!+...설마, 로메로도?
+()<Speaker></Speaker>||:정적.+가슴이 조이기 시작했다.
+()<Speaker>？？？</Speaker>||:셋!
+()<Speaker>지휘관</Speaker>||:누구야?
+()<Speaker>？？</Speaker>||:둘!
+()<Speaker>지휘관</Speaker>||:사쿠라니?
+()<Speaker>？</Speaker>||:하나!
+()||<白屏1><关闭蒙版><SE1>AVG_Rromantic</SE1>:
+()<Speaker></Speaker>||<白屏2><BIN>606</BIN><BGM>BGM_Saga_AVG_Live_Good</BGM>:등불이 켜져 눈앞이 환해졌다.+그리고 당신 앞에 나타난 것은, 당신 앞에 대형을 펼치고 찬란한 미소를 보내는 프랑슈슈였다.
+()<Speaker>미나모토 사쿠라</Speaker>||:안녕하십니까아아아! 우리느~은!
+()<Speaker>니카이도 사키</Speaker>||<震屏3>:<size=50>프랑슈슈!!!</size>
+()<Speaker>미나모토 사쿠라</Speaker>||:지금부터 우리의 공연, 즐겨 주세요!
+()<Speaker>니카이도 사키</Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:<size=50>잘 부탁한다아아!!!</size>
+()<Speaker></Speaker>||:음악이 시작되는 순간, 눈물이 쏟아졌다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:소녀들은 당신의 앞에서 공연을 시작했다. 수십 번도 넘게 리허설을 도우며 본 안무였지만, 이렇게 보니 눈물이 났다.
+()<Speaker>지휘관</Speaker>||:프랑...슈슈...!
+()<Speaker></Speaker>||<SE1>Rope</SE1>:이대로 있을 수 없었다. 당신은 지금 프랑슈슈의 유일한 관객이었다.+손을 뻗어 테이블의 형광봉을 들어 마구 흔들었다. 전력을 다해 프랑슈슈를 응원했다.+눈물과 목메임을 삼키고, 그들보다 더 활짝 웃었다.
+()<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=8</controll_shake>:<size=50>프랑슈슈——!!!</size>
+()<Speaker>로메로</Speaker>||:<size=50>워우우~~!!!</size>
+()<Speaker></Speaker>||:당신의 진심이 담긴 응원이 어둡고 무거운 밤을 갈랐다.+프랑슈슈도, 비록 공연장과 기회는 잃었지만, 계속 나아갈 용기와 신념은 잃지 않았다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:당신은 눈물콧물 범벅인 얼굴로 목이 쉴 때까지 악을 쓰며, 체력이 바닥날 때까지 프랑슈슈를 응원했다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:......
+()<Speaker>지휘관</Speaker>||:...그리고 또 기절했나?
+()<Speaker></Speaker>||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:파도가 배의 밑바닥에 부서지는 소리.+그리고 바닷가 특유의 짭조름한 공기에 섞인, 어렴풋한 꽃향기.
+()<Speaker>？？？</Speaker>||:깨어났나.
+()<Speaker>지휘관</Speaker>||:이봐, 왜 내가 여기 있는 거지? 넌 누구고?
+()<Speaker>？？？</Speaker>||:저번에도 했던 질문이군.
+()<Speaker>지휘관</Speaker>||:너랑 구면이야?
+()<Speaker>？？？</Speaker>||:구면인지 초면인지는 상관없다.+운명의 바퀴는 이미 다시 움직이기 시작했으니.
+()<Speaker>지휘관</Speaker>||:아 그러니까 알아듣게 좀 말해 달라고...
+()<Speaker>？？？</Speaker>||:이미 시작된 모든 것은 지금도 멈추지 않는다.
+()<Speaker></Speaker>||:파도가 부서지고, 수면을 가르는 소리. 이 배는 지금 바다 위를 빠르게 달리고 있었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>7</BIN><睁眼><SE1>Stop_AVG_loop</SE1>:그리고 눈이 뜨였다.+그런데, 당신은 지금 얼음판 위에서 어디론가 질질 끌려가는 중이었고, 입은 옷이라곤 흠뻑 젖은 내복뿐이었다.
+()<Speaker>지휘관</Speaker>||:나... 으...
+()<Speaker>지휘관</Speaker>||<震屏3><SE1>ClothingUp</SE1><BGM>Campaion-34</BGM>:<size=50>으헷췌!</size>
+NPC-Kalin(7)<Speaker>카리나</Speaker>||:아, 지휘관님! 다행이다아아――!!
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake><SE1>AVG_XXS_kick</SE1>:추위에 뺨이 새빨개진 카리나가 당신을 와락 껴안았다.
+()<Speaker>지휘관</Speaker>||:...뭐야, 이게 어떻게 된 일이야?
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:그건 제가 알고 싶다구요!+오전 업무 마치고 지휘관님 보러 갔더니 갑자기 침실에서 우당탕 뛰쳐나오시길래...
+NPC-Kalin(4)<Speaker>지휘관</Speaker><同时置暗>||:내가?
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:무슨 급한 일이라도 생겼나 해서 쫓아왔더니 글쎄...!+지휘관님이 막 "세끼"인지 "사기"인지 뭐라 막 소리지르면서 저기 저 꽝꽝 언 호수에 냅다 뛰어들었다고요!
+()<Speaker>지휘관</Speaker>||:...내가?
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:네!! 애들 불러올 시간도 없어서 제가 나뭇가지로 겨우겨우 건져 올렸어요! 간 떨어져 죽는 줄 알았네 진짜!
+NPC-Kalin(3)<Speaker>지휘관</Speaker><同时置暗>||:아니 내가 왜 그랬대...?
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:제가 어떻게 알아요! 아무튼 다신 그런 짓 하지 말아요!
+()<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1>:미안해에에엣췌!!
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:카리나가 투덜대면서 자신의 재킷을 당신에게 덮어 줬고, 덜덜 떠는 당신을 부축해 기지 방향으로 움직였다.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:아 맞다, 지휘관님 이 태블릿 떨어뜨리셨어요. 아까부터 계속 알림음이 울리던데, 뭐예요?
+()<Speaker>지휘관</Speaker>||:태블릿을? 긴급 연락인가...
+()<Speaker></Speaker>||:태블릿을 켜자 이상한 게임 화면이 나타났다.
+()<Speaker></Speaker>||:<color=#FFFF00>[다음 중 당신이 좋아하는 아이돌은 무엇입니까?]</color><c>A 상냥하고 활기 넘치는 메이드 아이돌<c>B 심장까지 휘어잡는 도도한 인형 아이돌<c>C 노래도, 랩도, 농구도 잘하는 올라운더 좀비 아이돌
+()<Speaker>지휘관</Speaker>||:...뭐야 이거, 바이러스 먹었나?
+()<Speaker></Speaker>||:화면을 보고 도끼눈이 된 카리나의 따가운 시선을 받으며 마구잡이로 화면을 터치해봤지만 전혀 반응이 없었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:금세 짜증이 난 당신은 그냥 태블릿을 품에 안고, 카리나의 눈총을 받으며 계속 움직였다.
+()<Speaker></Speaker>||:게임 화면의 선택지 C가 제멋대로 반짝인 것도 눈치채지 못한 채.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>9</BIN><SE1>AVG_Card_Reader</SE1>:뽀그작.+발밑의 살얼음이 깨지는 소리는 운명의 바퀴가 다시 움직이는 소리와 겹쳤다.+모든 것이 처음으로 돌아갔다.
+()||<黑点1>:

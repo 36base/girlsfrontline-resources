@@ -1,0 +1,120 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑点2><BIN>595</BIN><BGM>m_wv_title</BGM>:콘서트 준비를 전부 마치고, 이제 남은 건 반 시간 후 정식 시작을 기다릴 뿐이었다.
+()<Speaker></Speaker>||<SE1>Rope</SE1><SE1>AVG_Cheerful</SE1>:당신은 새로 산 넥타이를 고쳐맸다, 다이아를 박은 넥타이 고정핀이 등불 밑에서 반짝거렸다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:척. 누군가 당신의 고급 양복 어깨에 손을 얹었다.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:겨우 찾았다. 이따 어디 신문사에서 인터뷰할 수 있는데, 미리 연습해두는 게 어때?
+()<Speaker>지휘관</Speaker>||:좋지.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><SE1>AVG_Rromantic</SE1>:당신은 바로 반듯하게 자리에 앉으면서, 무심한 듯이 보석 반지 다섯개를 낀 오른손으로 머리카락을 쓱 밀었다.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<SE1>AVG_20Winter_Book</SE1>:신문사가 자주 하는 질문을 몇 개 할 테니까 대답해 봐.+첫 번째 질문. 프랑슈슈가 어떻게 이 자리까지 오게 되었나 생각하십니까? 예를 들면——
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:알바다.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:...하아?
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:돈이 있어야 아이돌이란 이 험난한 길을 헤쳐나갈 수 있어.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:.......
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:이 호화로운 공연장, 지금 이 몸에 입은 양복과 손에 낀 반지들을 어디서 났다고 생각해?+바로 하루도 쉬지 않고 근면하게 알바로 돈을 벌었기 때문이지!
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<SE1>AVG_Awkward</SE1>:.......
+()<Speaker></Speaker>||:스크립터는 당신을 물끄러미 쳐다봤다, 당신은 이를 무언의 리스펙으로 받아들였다.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<SE1>AVG_20Winter_Book</SE1>:그러지 말고, 프랑슈슈의 실력을 어필해야지, 노래라던가——
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:안 중요해.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale><Shake>0.1</Shake>||:<size=50>어엉???</size>
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:어차피 다 돈 벌려고 아이돌 하는 거 아니겠어?
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<SE1>ClothingUp</SE1>:아니 잠깐! 지금 비뚤어진 가치관을 퍼뜨리려는 거냐!?
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||<震屏3>:<size=50>열심히 돈 버는 게 뭐가 잘못인데? 매일 매일 돈 벌 거다! 죽을 때까지! 죽어서라도!</size>
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:.......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:스크립터는 얼굴을 손바닥에 파묻었다. 당신은 그가 자신의 얄팍한 식견에 부끄러워하는 것이라 여겼다.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:그냥 이러자, 인터뷰는 좀 미루도록 하자고.+프랑슈슈가 직접 대답하는 편이 더 와닿을 테니까.
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:음... 일리가 있어.
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||<SE1>AVG_Cheerful</SE1>:단지 애써 차려입고 온 게 좀 아깝네.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:.......+따로 쓸데가 있겠지.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:스크립터는 당신에게서 눈길을 돌리고 복잡한 표정으로 자리를 떠났다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><Night><SE1>AVG_20Winter_Bar_Cheering_V2</SE1>:조명이 갑자기 어두워져 공연장에 고요한 음영을 씌웠다.
+()<Speaker></Speaker>||:관중들의 환호 속에서 프랑슈슈가 등장했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:당신은 흡족하게 좌석 등받이에 기대고 보석 반지 다섯 개씩 낀 두 손으로 깍지를 꼈다.
+()<Speaker>지휘관</Speaker>||:공연 시작이다!
+()<Speaker></Speaker>||:당신은 자신만만하게 오늘 밤이 필시 모두의 뇌리에 새겨질 공연이 될 것이라 확신했다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<关闭蒙版><黑屏2><BIN>583</BIN><BGM>BGM_Saga_AVG_Live_Bad</BGM>:하지만 공연이 시작한 지 15분 만에 보이콧의 위기에 처했다.
+()<Speaker>관중</Speaker>||<震屏3>:<size=50>대체 뭐야 이게!?</size>+음은 다 달아나지, 안무도 전혀 안 맞고, 그리고 저기 0호는 뒤에서 뭔 마이크 스탠드를 들고 휘두르고 있어!
+()<Speaker>미나모토 사쿠라</Speaker>||:죄, 죄송합니다!
+()<Speaker>관중</Speaker>||:당장 내려와! 그냥 나이트 카페랑 그레이 트리 나오라고 해!
+()<Speaker>니카이도 사키</Speaker>||:<size=50>야! 적당히 안 해!? 아직 우리 공연 안 끝났다고!</size>
+()<Speaker>야마다 타에</Speaker>||<SE1>AVG_Stiff</SE1>:크어... 크르르... (진심으로 사나운 표정을 짓고 있다.)
+()<Speaker>관중</Speaker>||:이딴 공연에 뭘 볼 게 있다고!? 그냥 때려쳐!
+()<Speaker>관중</Speaker>||<SE1>AVG_Crowd</SE1><震屏3>:<size=50>환불해! 환불! 환불!</size>
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>595</BIN><SE1>AVG_Creep</SE1>:당신은 더는 들어주지 못해, 꽉 껴입은 양복을 벗고서 자리에서 일어나, 뒤돌아 격분한 관중들을 향해 소리질렀다.
+()<Speaker>지휘관</Speaker>||<震屏3>:너넨 공연을 감상할 줄 모르냐!? 프랑슈슈가 이렇게나 노력했는데 무슨 비난을 해!?
+()<Speaker>관중</Speaker>||:노력했다니 어디가!? 노래고 춤이고 제대로 하는 게 없잖아!
+()<Speaker>지휘관</Speaker>||:모두 돈을 벌기 위해 매일 열심히 알바하는 걸 모르냐고!
+()<Speaker>관중</Speaker>||:우린 공연을 보러 왔지, 무슨 "극한알바"를 보러 온 줄 아냐!+프랑슈슈는 내려가! 나이트 카페랑 그레이 트리 나오라고 해!
+()<Speaker>지휘관</Speaker>||:.......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:당신은 고급 양복의 안주머니에서 지갑을 꺼내, 지폐 한 뭉치를 집어 공중에 뿌렸다.
+()<Speaker>지휘관</Speaker>||<SE1>AVG_20Winter_Book</SE1><震屏3>:<size=50>다 조용히 해! 닥치고 공연을 보라고!</size>
+()<Speaker>관중1</Speaker>||:이 사람 미쳤어!?
+()<Speaker>관중2</Speaker>||:뭐든지 돈으로 해결할 수 있다고 생각하는 거야!?
+()<Speaker></Speaker>||<SE1>AVG_Crowd</SE1>:관중석은 바로 혼란의 도가니가 되었다, 일부 관중은 분노하며 당신을 질타하고, 또 일부 관중은 돈을 줍느라 정신이 없었다.+이리저리 밀쳐지고 비난받는 와중에도 당신은 전혀 흔들리지 않고 돈을 더 꺼낼 생각이었다.+무대 위에서 당신을 걱정하고 있는 프랑슈슈의 모습은 눈에 들어오지 않았다.
+()||<黑点1>:
+NPC-Saki(16)<Speaker>니카이도 사키</Speaker><Position>-300,-260</Position><Scale>1.93</Scale>||<黑点2>:<size=50>다들 그만해!</size>
+NPC-Tae(6)<Speaker>야마다 타에</Speaker><Position>0,-340</Position><Scale>1.4</Scale>||:어... 아아... (지휘관...)
+NPC-Sakura(15)<Speaker>미나모토 사쿠라</Speaker><Position>0,-250</Position><Scale>1.69</Scale>||:지금 어떡하면 좋지!?
+NPC-MizunoAi(11)<Speaker>미즈노 아이</Speaker><Position>60,-180</Position><Scale>1.47</Scale>||:진정해, 무대 감독한테 연락 중이니까...
+NPC-Junko(12)<Speaker>콘노 준코</Speaker><Position>60,-290</Position><Scale>1.55</Scale>||:지휘관 저러다 맞는 거 아닐까요...
+()<Speaker></Speaker>||:타에가 배경판 앞을 초조하게 맴돌기 시작했다.
+NPC-Lily(15)<Speaker>호시카와 릴리</Speaker><Position>-40,30</Position><Scale>1.35</Scale><Shake>0.1</Shake>||:앗, 큰일이야, 누가 지휘관을 밀치고 있어!
+NPC-Yugiri(9)<Speaker>유우기리</Speaker><Position>180,-290</Position><Scale>1.8</Scale>||:참 끔찍한 말썽극이네요...
+NPC-Tae(6)<Speaker>야마다 타에</Speaker><Position>0,-340</Position><Scale>1.4</Scale><Shake>0.1</Shake>||:으... 으에엑...! (하지 마!)
+()<Speaker></Speaker>||:당신과 함께 알바를 뛰던 나날을 떠올린 타에가 몸을 주체하지 못해 배경판을 움켜잡았다.
+()<Speaker></Speaker>||<SE1>AVG_Spanner</SE1>:콰직, 콰지직...
+NPC-Sakura(15)<Speaker>미나모토 사쿠라</Speaker><Position>0,-250</Position><Scale>1.69</Scale>||:타에, 뭐 하는 거야!?
+NPC-MizunoAi(11)<Speaker>미즈노 아이</Speaker><Position>60,-180</Position><Scale>1.47</Scale>||:빨리 손 놔!
+NPC-Junko(12)<Speaker>콘노 준코</Speaker><Position>60,-180</Position><Scale>1.47</Scale>||:오징어! 누구 오징어 없어요!?
+NPC-Tae(5)<Speaker>야마다 타에</Speaker><Position>0,-340</Position><Scale>1.4</Scale><Shake>0.1</Shake>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><SE1>AVG_Stiff</SE1>:<size=50>으익... 으아아!!!</size>
+()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM><SE1>AVG_lifttable</SE1>:타에의 우렁찬 기합 소리와 함께, 배경판의 아랫부분이 뜯어졌다...
+()||<黑屏1>:
+()<Speaker>？？？</Speaker>||<震屏3><SE1>AVG_Howling</SE1><黑点2><BIN>584</BIN>:<size=50>꺄아아아아아아악——!</size>
+()<Speaker></Speaker>||<BGM>m_wv_battle</BGM>:처절한 비명이 현장의 모든 이들의 시선을 끌었다.+무너진 배경판 뒤는 바로 나이트 카페의 임시 준비실이었다.+가림판이 쓰러지고 환복 중인 모습이 수천 명 관중들 앞에 노출된 JS05와 PM06이 처절한 비명을 질렀다.
+()<Speaker>관중</Speaker>||:JS05와 PM06이다!
+()<Speaker>지휘관</Speaker>||:무슨 상황이야!?
+()<Speaker>관중</Speaker>||:야 임마! 너 일부러지!?+주의를 돌리려고 나이트 카페에게 창피를 주다니! 절대 용서 못해!
+()<Speaker>지휘관</Speaker>||:무슨 헛소리야! 그딴 짓은 생각한 적 없어!
+()<Speaker>관중</Speaker>||:더는 프랑슈슈를 못 참아준다! 지들 공연은 엉망인 주제에 나이트 카페까지 괴롭혀!?
+()<Speaker>관중</Speaker>||:<size=50>일어나라 종업원들아! 세계 최고 나이트 카페를 위하여!</size>
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><SE1>AVG_Crowd</SE1>:나이트 카페를 보러 온 관중들은 이미 분노에 이성을 잃고 겹겹의 보안을 뚫고 무대로 몰려왔다.+그리고 무대에서 가장 가까운 당신에게 그 충격이 가장 먼저 닥쳐왔다.
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_Combat_Hits</SE1>:한순간 수많은 바위에 깔리는 듯한 충격을 마지막으로 당신의 눈앞이 깜깜해졌다...
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM>:.......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2>:끝이 안 보이는 어둠.+어둠 속에서 한참을 멍하니 서 있던 당신은 겨우 이상함을 눈치챘다.
+()<Speaker>지휘관</Speaker>||:...어떻게 된 거지?
+()<Speaker></Speaker>||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:파도가 배의 밑바닥에 부서지는 소리.+그리고 바닷가 특유의 짭조름한 공기에 섞인, 어렴풋한 꽃향기.
+()<Speaker>지휘관</Speaker>||:여기는 어디야?
+()<Speaker></Speaker>||:등뒤에서 약간 익숙한 목소리가 들렸다.
+()<Speaker>？？？</Speaker>||:그 아이들의 공연을 망쳤구나.
+()<Speaker>지휘관</Speaker>||:돈 벌겠다는 게 뭐가 잘못인데!
+()<Speaker>？？？</Speaker>||:만약 처음부터 다시 시작할 수 있다면, 어떡할 거지?
+()<Speaker>지휘관</Speaker>||:돈이다! 돈은 항상 옳다!
+()<Speaker>？？？</Speaker>||:가라, 운명의 바퀴는 다시 돌기 시작했다.
+()<Speaker>지휘관</Speaker>||<SE1>AVG_splash_water</SE1>:<size=50>어딜 또 가, 그냥 돌려보내 주라고!</size>
+()<Speaker>？？？</Speaker>||:이미 시작된 모든 것은 지금도 멈추지 않는다.
+()<Speaker></Speaker>||:파도가 부서지고, 수면을 가르는 소리. 이 배는 지금 바다 위를 빠르게 달리고 있었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<睁眼><BIN>82</BIN><SE1>Stop_AVG_loop</SE1>:......
+()<Speaker></Speaker>||:당신은 눈을 떴다. 지금 당신은 차가운 바닥에 드러누워 있었다.
+()<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1>:......
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:깨어나셨군요, 지휘관님~
+()<Speaker></Speaker>||<BGM>BGM_Hello</BGM>:카리나가 당신의 옆에 쪼그려 앉아 아주 흐뭇한 미소를 짓고 있었다.
+()<Speaker>지휘관</Speaker>||:나 지금 어떻게 된 거야?
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:주무시던 것 같은데요, 방금 계속 "돈 번다! 알바 할 거다!"라고 마구 소리를 지르시더라고요...
+NPC-Kalin(1)<Speaker>카리나</Speaker>||<SE1>AVG_Cheerful</SE1>:<size=50>드디어 깨우치신 거군요!</size>
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:머릿속이 새하얬다. 엄청 긴 꿈을 꾼 것 같은데, 내용은 전혀 기억나지 않았다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:그럼 그리폰 하반년 지출 축소 정책에 관해서 얘기를 좀...
+()<Speaker>지휘관</Speaker>||:듣기만 해도 머리가 아파.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:...아무래도 제 착각이었나 보네요.+그럼 푹 쉬고 계세요.
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:카리나는 서운해하며 당신의 침실에서 나갔다.+고개를 돌리니 게임 화면은 여전히 그 선택지 앞에 머물러 있었다.
+()<Speaker></Speaker>||:<color=#FFFF00>[다음 중 당신이 좋아하는 아이돌은 무엇입니까?]</color>
+()<Speaker>지휘관</Speaker>||:이건... 대체 뭐지...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:갑자기 두통이 엄습해 주의를 흩트렸고, 두통약을 찾느라 당신은 보지 못했다.+화면 속 커서가 멋대로 결정을 내리는 것을.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><SE1>AVG_Card_Reader</SE1><BIN>9</BIN>:딸깍.+운명의 바퀴가 다시 움직이기 시작했다.
+()||<黑点1>:

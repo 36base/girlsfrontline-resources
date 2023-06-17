@@ -1,0 +1,149 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1><BIN>587</BIN><黑屏2>:또 한가한 밤이 찾아왔다.+당신은 혼자 방 안에서 이 며칠간의 노트를 정리했다. 야마다 타에의 각종 난해한 표현 방식을 기록해 봤지만, 해석하는 것은 여전히 난제였다.+마치 홀몸으로 유실된 지 오래된 언어 연구에 투입된 언어학자가 된 듯한 기분이었다.
+()<Speaker>지휘관</Speaker>||:하아...
+()||:어지러운 노트를 보면서 한숨을 참지 못했다.+일주일이 다 되도록 고생했지만 그녀의 "언어"를 이해하기는커녕, 간단한 제스처 하나 가르쳐주는 것마저 실패했다.
+()<Speaker>지휘관</Speaker>||<SE1>Stop_AVG_loop</SE1>:대체 뭐가 어렵다고 못 익히는 거지? 엄지를 위로 세우냐 아래로 내리느냐의 차이인데...
+()||:혼자 손목을 이리저리 돌려대는 당신은 대체 어디가 어려운 건지 이해할 수가 없었다.
+()||<SE1>AVG_doorknock_wood</SE1>:쿵쿵쿵! 누가 다급하게 문을 두드렸다.
+()<Speaker>미나모토 사쿠라</Speaker>||<BGM>BGM_23SF_zonghe_1</BGM>:지휘관! 지휘관! 계셔요?
+()<Speaker>지휘관</Speaker>||:무슨 일인데, 사쿠라?
+()||<SE1>AVG_20Winter_Door_Open</SE1>:문을 열자 잔뜩 초조한 얼굴의 사쿠라가 있었다.
+NPC-Sakura(2)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:타에가... 타에가 안 보여요!
+NPC-Sakura(2)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||<震屏>:뭐라고!?
+()||:그러고 보니 오후에 타에하고 헤어지고 나서 다시 보지를 못했다.+저녁 식사 시간에마저도 나타나지 않았었다.+확실히 이상한 상황이었다.
+NPC-Sakura(2)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:다른 애들한테도 물어봤는데, 아무도 타에가 어디에 갔는지 모른다 해요...
+NPC-Sakura(2)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:나가서 찾아 보자, 나도 도울게.
+()||<黑点1>:당신은 허겁지겁 코트를 입고서 모두와 함께 흩어져 타에를 찾으러 나갔다.
+()||<黑点2><BIN>597</BIN><Night>:사가의 지리를 잘 모르는 당신이니, 사쿠라가 로메로를 붙여줬다.+심야의 길거리, 오직 당신과 로메로의 그림자만이 가로등 밑을 지나갔다.
+()<Speaker>지휘관</Speaker>||:<size=50>타에!</size>
+NPC-Romero(0)<Speaker>로메로</Speaker><Position>0,240</Position><Scale>1.25</Scale>||:월월월!!
+()<Speaker>지휘관</Speaker>||:어디에 있니?
+()||:당신은 타에의 이름을 크게 외치며 오징어채 봉지를 손으로 마구 비볐다.+평소에 이러면 바로 타에가 멀리서 달려들었지만 오늘은 웬일인지 전혀 기척이 없었다.
+()<Speaker>지휘관</Speaker>||:이 근처에 없나...
+NPC-Romero(0)<Speaker>로메로</Speaker><Position>0,240</Position><Scale>1.25</Scale>||:끄웅...
+()||:로메로도 소리가 기운 없어지고, 바닥에 코를 바싹 붙여서 타에의 흔적을 찾아댔다.+썰렁한 길거리를 둘러보던 당신은 약간의 익숙함을 느꼈다.+저번에 당신이 타에에게 끌려와 함께 걸은 길이었다.
+()<Speaker>지휘관</Speaker>||<黑点1>:그 오솔길!
+()||<黑点2><BIN>1</BIN><Night><BGM>BGM_Empty</BGM><SE1>AVG_wind_grass</SE1>:하지만 타에의 안내가 없으니, 당신은 얼마 안 가 수풀이 무성한 오솔길 도중에 길을 잃었다.
+()||<BGM>BGM_NightOPS</BGM>:로메로도 걸음을 늦추고 제자리를 맴돌며 타에의 흔적을 찾으려 했다.
+()<Speaker>지휘관</Speaker>||:로메로, 여기서 타에의 냄새가 나?
+NPC-Romero(0)<Speaker>로메로</Speaker><Position>0,240</Position><Scale>1.25</Scale>||:어워웡!
+()||:로메로가 초조하게 제자리를 맴돌았다. 아무래도 타에의 냄새가 여기서 끊어진 모양이다.
+()<Speaker>지휘관</Speaker>||:타에——! 야마다 타에——!+와서 밥 먹어라——!
+NPC-Romero(0)<Speaker>로메로</Speaker><Position>0,240</Position><Scale>1.25</Scale>||:아우우——!
+()||:인기척 없는 들판에 당신과 로메로의 외침이 울려퍼졌다.+메아리까지 수면의 물결처럼 완전히 가라앉으니 정적과 한기가 쏠려왔다.+그리고 시커먼 불안감이 함께 다가왔다.
+()<Speaker>지휘관</Speaker>||:여기에 없는 건가...
+()<Speaker>？？？</Speaker>||<SE1>AVG_Into_stone</SE1>:그어... 으어...
+NPC-Romero(0)<Speaker>로메로</Speaker><Position>0,240</Position><Scale>1.25</Scale>||:어울?
+NPC-Romero(0)<Speaker>지휘관</Speaker><Position>0,240</Position><Scale>1.25</Scale><同时置暗>||:타에? 타에 맞아?
+()||:그 그르렁거리는 소리는 아주 잠깐만 들려 잘못 들은 것이 아닌지 의심이 들었다.+촤악, 덜컹덜컹...+무거운 물건을 땅에 질질 끄는 듯한 소리가 울렸다.
+NPC-Romero(0)<Speaker>로메로</Speaker><Position>0,240</Position><Scale>1.25</Scale>||:월! 그르르...
+NPC-Romero(0)<Speaker>지휘관</Speaker><Position>0,240</Position><Scale>1.25</Scale><同时置暗>||:......
+()||:당신은 본능적으로 한 걸음 물러났고, 로메로도 경계 태세를 잡았다.+비록 사가 근처엔 사나운 짐승이 없는 걸로 알고 있지만...
+()<Speaker>？？？</Speaker>||:어어... 으어어...
+()<Speaker>지휘관</Speaker>||:타, 타에?
+()||:소리가 방금보다 많이 가까워졌고, 당신의 심장이 쿵쾅쿵쾅 뛰었다.
+()||<SE1>AVG_wind_grass</SE1>:바스락, 달그락.
+()||<SE1>AVG_Slime_Movement</SE1>:수풀이 불안하게 떨리고, 무직한 물건이 끌려다니는 소리가 고막을 긁었다. 비록 이성적으로 생각하면 타에일 수밖에 없지만, 머릿속엔 각종 호러 영화의 장면이 떠올랐다...
+NPC-Romero(0)<Speaker>로메로</Speaker><Position>0,240</Position><Scale>1.25</Scale><Shake>||:끄응... 끄우으...
+NPC-Tae(0)<Speaker>？？？</Speaker><Position>0,-290</Position><Scale>1.3</Scale><GradientShow>2</GradientShow>||<BGM>BGM_Empty</BGM>:그어... 어아아...!
+NPC-Tae(0)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:타에...
+()||<BGM>10381</BGM>:목구멍까지 올라온 심장이 다시 제자리로 돌아갔다.
+NPC-Romero(0)<Speaker>로메로</Speaker><Position>0,240</Position><Scale>1.25</Scale>||:아왕왕!
+NPC-Romero(0)<Speaker>지휘관</Speaker><Position>0,240</Position><Scale>1.25</Scale><同时置暗>||:뭐하러 혼자 여기에 온 거야? 다들 널 찾느라 걱정했잖아.
+NPC-Tae(6)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:아어... 어에어에... (뭐라뭐라 설명하는 것 같다.)
+NPC-Tae(6)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:됐다...+아무튼 찾았으니 어서 돌아가자.
+NPC-Tae(4)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:으엉... (알겠댄다.)
+()||:달그락, 덜컹덜컹...+무거운 물건이 끌리는 소리가 또 들렸다.
+()<Speaker>지휘관</Speaker>||:......
+()||:당신은 타에가 뭘 끌고 왔는지 고개를 돌려봤다.+사람 양팔 정도의 지름의 시든 통나무였다.
+()<Speaker>지휘관</Speaker>||:타에, 그건 뭐하러 끌고 왔어?
+NPC-Tae(3)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:어에... 으에에... (산 아래를 가리킨다, 아마 저택을 가리키는 걸지도.)
+NPC-Tae(3)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:이걸 집에 가져가게?
+()||:타에의 행위는 언제나 당신의 예상을 초월하지만 어느 정도 그 의도를 이해할 수 있었다. 하지만 이번엔 대체 무슨 이유로 이 묵직한 나무를 끌고 왔는지 짐작할 수가 없었다.
+NPC-Tae(0)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:에... 어에에... (손으로 삼각형을 그리는 것 같다.)
+NPC-Tae(0)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:음...+혹시...
+()||<黑屏1>:오늘 낮의 일이 어렴풋이 떠올랐다.
+NPC-Lily(7)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<黑屏2><BIN>574</BIN><回忆>:...릴리가 들었는데, 크리스마스가 되면 광장에서 행사를 연대!
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:크리스마스... 그러고 보니 우리 제대로 크리스마스를 쇤 적이 없는 것 같으야.
+NPC-MizunoAi(2)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||:크리스마스를 제대로 쇤다니 어떤 식으로?
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:음... 크리스마스 트리를 꾸미고 함께 선물 상자를 열고, 한 식탁에 모여서 맛있는 걸 잔뜩 먹는 거라던가...
+NPC-Junko(1)<Speaker>콘노 준코</Speaker><Position>60,-230</Position><Scale>1.27</Scale>||:그럼 다음 크리스마스는 신경 써서 지내봐요.
+NPC-Lily(0)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:릴리 찬성!
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:그럼 미리 계획을 짜야겠네요...
+NPC-Saki(4)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:크리스마스! 좋지!
+()<Speaker>지휘관</Speaker>||:다들 나갈 거야 말 거야? 벌써부터 크리스마스 얘기라니 성급하기도 하지...
+NPC-Tae(0)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||<黑屏1>:그리... 으아으... (대충 크리스마스라고 중얼거리는 것 같았다.)
+()||<黑屏2><关闭蒙版><BIN>1</BIN>:
+()<Speaker>지휘관</Speaker>||<Night>:타에... 너 혹시 이 통나무로 크리스마스 트리를 만들 생각인 거야?
+NPC-Tae(4)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:아어어에... (열심히 뭐라고 설명하고 있다.)
+NPC-Tae(4)<Speaker>지휘관</Speaker><同时置暗><Position>0,-290</Position><Scale>1.3</Scale>||:......+여전히 전혀 알아들을 수가 없네.
+NPC-Romero(0)<Speaker>로메로</Speaker><Position>0,240</Position><Scale>1.25</Scale>||:멍!
+()||:이 며칠 동안 지내면서 확실히 안 점은, 타에의 사고 패턴은 절대 예상할 수 있는 물건이 아니란 것이었다.+그건 거꾸로 말하자면, 뻔하게 생각되는 가능성은 그대로 배제해도 된다는 뜻이다.+하지만 크리스마스 트리 말고 이 앙상한 나무를 어디에 쓰려는 걸까?
+()<Speaker>지휘관</Speaker>||:지금 고민해 봤자 소용이 없지. 가면서 생각하자고.
+NPC-Tae(6)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:으엉...? (어리둥절해한다.)
+NPC-Tae(6)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:나도 들어줄게.
+()||<黑点1>:당신은 소매를 걷고 타에와 함께 통나무를 들었다.
+()||<黑点2><BIN>605</BIN><BGM>BGM_Empty</BGM>:당신의 체력이 바닥나기 직전에 겨우 타에와 함께 시든 나무를 저택 앞마당까지 가져왔다.
+()<Speaker>지휘관</Speaker>||:헉... 힘들어 죽겠다...
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<BGM>BGM_Saga_AVG_Day</BGM>:이제야 돌아왔구나!
+NPC-Sakura(2)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:이건...
+NPC-Tae(3)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:아아! 어아아! (흥분해 하며 통나무 끝부분을 가리키고 또 사쿠라를 가리켰다.)
+NPC-Sakura(2)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:타에... 이걸 내한테 주겄단 기가?
+()<Speaker>지휘관</Speaker>||:어어? 정말로 크리스마스 트리를 만들 생각이었나...
+()||:당신은 타에의 생각을 처음으로 알아맞힌 것에 깜짝 놀랐다.+그런데 이때 타에가 사키를 끌고 와서 통나무의 중간 부분에 막 손짓했다.
+NPC-Tae(3)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:꾸르르... 부르르릉... (바이크 엔진 소리를 흉내 내는 것 같다.)
+NPC-Saki(3)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:응? 어어!
+NPC-Saki(0)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:알겄다, 내가 저번에 바이크 수평 유지 연습하려고 목판을 찾는다고 한 거 기억하고 있었구마이!
+NPC-Saki(4)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:참말 고맙다, 타에!
+()<Speaker>지휘관</Speaker>||:......
+()||:당신의 경악이 가라앉기도 전에, 타에는 또 아이, 준코, 릴리, 유우기리를 차례대로 끌고 와서 막 이래저래 손짓을 했다. 심지어 로메로한테까지 뭐라 설명했다.
+()<Speaker>지휘관</Speaker>||:타에... 알고 보니 생각이 저렇게나 확실했구나...
+()||:하지만 다른 멤버들은 그 정도의 이해력이 없어 보였다.
+NPC-Sakura(5)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:사키, 지금 뭐하는 기가! 우째 바이크 타고 내 크리스마스 트리에 들이받는 거여!
+NPC-Saki(5)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:뭐시여? 이건 타에가 내한테 밸러스빔으로 준 거랑게!
+NPC-Lily(3)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:아니거든! 릴리의 나무 별을 만들 재료거든!
+NPC-Yugiri(2)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:어머... 싸우지들 마시고 제가 비녀를 만들 몫만 떼어주시와요.
+NPC-Romero(0)<Speaker>로메로</Speaker><Position>0,240</Position><Scale>1.25</Scale>||:월월월! (이건 내 새 개집이 될 거다!)
+()<Speaker>지휘관</Speaker>||:......
+()||:치열한 난투극에 머리가 터질 것 같아서, 당신은 지켜보다 못해 나무를 두고 다투는 소녀들을 전부 끌어냈다.
+()<Speaker>지휘관</Speaker>||<controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=13</controll_shake>:<size=50>싸우지 말고 모두 조용!</size>
+NPC-Sakura(4)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:......
+NPC-Saki(5)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:흥.
+()||:살벌한 분위기가 약간은 가라앉았다. 통나무를 두고 서로 눈싸움을 하는 프랑슈슈와 로메로를 바라보며, 당신은 이 난장판을 어떻게 해결할지 고민했다.
+()<Speaker>지휘관</Speaker>||:<color=#A9A9A9>(한 사람의 생각만 들어주면 나머지가 불만을 품을 테고...)</color>+<color=#A9A9A9>(하지만 이 나무를 어떻게 써야 모두가 납득을 할까?)</color><c>목재로 저장해둔다.<c>산에 돌려준다.<c>아무것도 안 한다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:이 통나무를 장작으로 패서 저장해 두는 게 어때, 겨울에 땔감으로 삼을 수도 있고, 다른 가구로 만들어도 되고, 아님 벽이나 지붕에 구멍을 메울 때 쓸 수도 있잖아.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>1</分支>:실용적인 생각이시네요.
+NPC-Sakura(4)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<分支>1</分支>:그치만... 그라믄 내 크리스마스 트리는...
+NPC-Lily(6)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<分支>1</分支>:릴리는 싫어!
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:서로 상대를 납득시킬 수 없다면 그냥 산에 돌려 주자.
+NPC-MizunoAi(0)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||<分支>2</分支>:난 어떻든 괜찮아.
+NPC-Junko(3)<Speaker>콘노 준코</Speaker><Position>60,-230</Position><Scale>1.27</Scale>||<分支>2</分支>:그런데 누가 이 나무를 제자리에 돌려놓으러 가나요...
+NPC-Saki(5)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<分支>2</分支>:흥, 난 내 밸런스빔을 포기 안 할 거거든!
+()<Speaker>지휘관</Speaker>||<分支>3</分支>:일단 여기에 내버려두고, 모두 제대로 생각한 다음에 어떻게 할지 결정하자.
+NPC-Yugiri(2)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>3</分支>:일기예보로 오늘 밤에 비가 쏟아질 거라 하는데, 여기에 내버려두면 썩어서 못 쓰게 될 수가 있사와요.
+NPC-Sakura(7)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<分支>3</分支>:멋진 크리스마스 트리로 만들 수도 있는데...
+NPC-Romero(0)<Speaker>로메로</Speaker><Position>0,240</Position><Scale>1.25</Scale>||<分支>3</分支>:월월월월!!! (내 개집! 내 개집!)
+()||:당신의 제안도 분쟁을 해결할 수가 없었고, 또 다툼이 시작되려 했다...
+()||<SE1>AVG_Saw_Door</SE1><BGM>BGM_Empty</BGM>:부르릉! 투두두두....+살의를 내뿜는 전기톱 소리가 당신의 뒤에서 바람을 베었다.
+()<Speaker>지휘관</Speaker>||<controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=15</controll_shake>:타, 타에...?
+()||<SE1>AVG_Wonder</SE1>:당신은 풀가동 중인 전기톱을 든 타에를 보고 깜짝 놀라 반사적으로 몇 걸음 물러났다.
+NPC-Tae(5)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale><GradientShow>2</GradientShow>||:어아아... 으어... 그어어어... (자신의 계획을 설명하는 걸지도.)
+NPC-Tae(5)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:어쩌려는 건데!?
+()||<SE1>RunStep</SE1>:타에가 전기톱을 높이 들고 모두를 향해 달려들었다.
+()<Speaker>지휘관</Speaker>||<controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=18</controll_shake><黑点1>:<size=50>꺄아아아악!!!</size>
+()||<黑点2><BGM>BGM_Saga_AVG_Day</BGM>:십여 분 후, 각자 자신 몫의 목재를 받게 됐다.
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:참말 기쁘다, 당장 내일 마트에 가서 장식품을 사야겄다! 같이 갈 사람?
+NPC-Lily(0)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:릴리는 나무 별에 칠할 물감을 살래!
+NPC-Yugiri(3)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:흠... 비녀에 매달 구슬이라던가 사는 게 좋겠네요.
+NPC-Saki(4)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:아싸! 밸런스빔이 생겼다!
+NPC-Romero(0)<Speaker>로메로</Speaker><Position>0,240</Position><Scale>1.25</Scale>||:와우 와우!
+()||:모두 싱글벙글했다, 로메로도 좋아서 마당 잔디밭에 뒹굴었다.+당신만 제외하고.+당신은 톱밥 사이에 멍하니 앉아서, 또 타에의 언어를 해독하지 못한 것에 허탈함이 들었다.
+NPC-Tae(1)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:에에... 으어... (기대하는 눈치로 당신한테 뭐라 손짓하고 있다.)
+NPC-Tae(1)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:뭔데, 타에?
+()||:타에가 두꺼운 나무 조각을 주고, 위에 동그라미를 그리면서, 길쭉한 물건을 위에 놓는 시늉, 그리고 그걸 먹는 시늉을 했다...+약 1분 정도 머리를 굴리고 당신은 간을 보듯이 입을 열었다.
+()<Speaker>지휘관</Speaker>||:이 나무로 오징어채를 담는 접시로 만들어서 가지란 뜻이야?
+NPC-Tae(0)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:응... 응...! (세차게 고개를 끄떡였다.)
+NPC-Tae(0)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:...고마워, 타에.
+()||:당신은 끝자락에 타에의 이빨자국이 남아있는 나무를 받았다.+허탈했던 마음에 약간 기묘한 달착지근함이 들었다.
+()<Speaker>지휘관</Speaker>||:내가 나무 조각 하나 받고 기분 좋아할 때가 있구나...
+()||<黑屏1>:당신은 즐거워하는 이들 사이에 합류하여, 모두의 도움을 받으며 여기에서 당신에게 처음 생긴 전용 접시를 다듬었다.

@@ -1,0 +1,177 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>655</BIN><黑屏2><narrator>:친애하는 블랙웰에게.+잘 지내나? 홉킨스에서 함께 샌드위치를 먹던 시절이 참 그리운걸.+그때의 난 참 어리석고 순진했지. 시간이라면 차고 넘친다 여겼는데, 눈 떠보니 이렇게 베슬란에 와 있다니.+여긴 겨울이 빌어먹게 추운 도시야, 내 성격이 각박해질 정도로 추워. 그래, 누가 날 이리 평하는 걸 넌 상상도 못하겠지.+"각박하다"... 참 신선한 단어야.+사나의 알레르기도 갈수록 발작이 심해지고 있어... 내가 "어머니" 역할을 제대로 하지 못하고 있는 것처럼.+대충 이런 걸 보고 운명이라 하려나?
+()<Speaker></Speaker>||<narrator><BGM>BGM_23S_Winter_Night</BGM>:그런데, 좀 재밌는 일이 있었어. 한 학생을 만났는데, 음... 사나보다도 나를 닮았더라고.+머리색도 다르고 국적도 다르지만... 이 녀석은 우리랑 같은 부류의 인간이란 느낌이 들어.+기회가 되면 또 연락할게. 다시 볼 수 있기를.+2047년 베슬란에서, 마이트너가.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>650</BIN><narrator><黑屏2>:2047년 겨울. 모든 이들의 화제는 전황에 쏠려 있었다.+세상은 가는 곳곳마다 쇠와 피의 비린내로 진동했다.+베슬란의 혹한마저도 사람들의 들끓는 가슴을 식히지 못했다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>654</BIN><SE1>AVG_21Winter_Fire_Alarm</SE1><关闭蒙版>:베슬란 제1중학교.
+()<Speaker>교실 안의 남학생</Speaker>||:아니 거기서 그대로 꼴박하는 게 말이 돼?! 전선에서 지휘한다는 장군들은 다 똥별인가!?+내가 가서 지휘해도 그거보단 잘하겠다!
+()<Speaker>교실 안의 남학생</Speaker>||:어떻게 거기서 질 수가 있냐고오... 첩보전 이전에 정찰도 안 하나?+어휴 짜증나!
+()<Speaker>서 있는 여학생</Speaker>||:듣기로는 미국의 스파이가 우리 군부대에 침투해서 그랬대...
+()<Speaker></Speaker>||:신간 신문을 둘러싼 학생들은 전쟁 보도 코너를 두고 열띤 토론을 벌였다.+그중 열정적으로 갑론을박을 벌이던 여학생이 때마침 교실로 들어온 "시니아"를 보자 바로 다가갔다.
+()<Speaker>서 있는 여학생</Speaker>||:아, 시니아!+빨리 와서 이것 좀 봐, 전선 소식 새로 나왔어!
+()<Speaker></Speaker>||:시니아는 한숨을 쉬었다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:후우...+보나마나 나쁜 소식이겠지.
+NPC-Sinia(0)<Speaker>서 있는 여학생</Speaker><Position>0,-58</Position><同时置暗>||:딱 맞췄네.+...어떻게 알았어?
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:좋은 소식이면 학교에서 막 방송으로 난리쳤을 테니까.
+NPC-Sinia(0)<Speaker>서 있는 여학생</Speaker><Position>0,-58</Position><同时置暗>||:하아~ 빨리 어른이 되고 싶다아~+그럼 나도 전선 가서 도왔을 텐데!+아, 그나저나 그거 들었어? 요즘 여기저기에 사관 학교가 잔뜩 생겼대, 전술지휘 속성반도 있다더라.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:3개월이면 바로 자대 배치 받는 그런 거?+그거도 우선은 11학년부터 돼야 할걸.
+NPC-Sinia(0)<Speaker>서 있는 여학생</Speaker><Position>0,-58</Position><同时置暗>||:그건 그렇지.+근데... 어디가 전선이 될지는 아무도 모르잖아?+잘못하면 여기가 전선이 될 수도 있어.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:에이 재수없는 소리 마, 그리고 그렇게 돼도 우리가 이길 수 있어!
+()<Speaker></Speaker>||:둘은 마주보며 씨익 웃었다.
+()<Speaker>서 있는 여학생</Speaker>||:응! 우리가 이길 거야!
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:아참, 어제 숙제는 다 했어?
+()<Speaker>서 있는 여학생</Speaker>||<BGM>BGM_Empty</BGM>:............
+()<Speaker>서 있는 여학생</Speaker>||:깜빡했다!+쿠즈민 쌤 엄청 무서운데! 안나! 안나 너 숙제 다 했어? 나 좀 보여 주라!
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||<BGM>BGM_22Swim_langrensha</BGM>:......
+()<Speaker></Speaker>||:"안나"라는 이름의 여학생은 책상 위에 엎어진 채로 고개만 들어, 피곤해 죽겠단 눈으로 자신의 어깨를 잡고 막 흔드는 학우를 바라보기만 했다.
+()<Speaker>서 있는 여학생</Speaker>||:자는 척하지 말고오 안나아 숙제 보여 달라구우――
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:......
+()<Speaker></Speaker>||:안나는 대꾸조차 안 했다.+그 차가운 눈빛에는 어떤 감정도 담겨 있지 않았다.+얼굴도 누가 보면 그냥 멍때리는 걸로 오해하기 십상인 무표정이었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그런 그녀를 흔들다 지친 여학생은 설득을 포기하고 안나의 가방에 냅다 손을 집어넣었다.
+()<Speaker></Speaker>||<SE1>AVG_Slap</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:찰싹!
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:...내 물건 건들지 마!
+()<Speaker></Speaker>||:가방의 주인은 함부로 속을 뒤지는 손을 쳐냈다.
+()<Speaker>서 있는 여학생</Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=3</controll_shake>:<size=50>아야!</size>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:여학생은 냉큼 손을 뺐지만, 엉겁결에 속에서 책 한 권을 끄집어내고 말았다.
+()<Speaker></Speaker>||<SE1>AVG_File_Put</SE1>:책은 바닥에 툭 떨어졌다.+그런데, 교과서도 공책도 아니었다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:...《노변의 피크닉》?
+()<Speaker></Speaker>||:몇 년이나 버려진 폐가의 벽지가 연상될 정도로 누렇게 변색된, 아주 오래된 책이었다.+겉표지는 접착제가 거의 떨어지기 직전에 가장자리는 쭈글쭈글해서 언제라도 분해될 것처럼 보였다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:시니아는 허리를 숙여, 그 고전 SF 소설을 잔뜩 화난 얼굴의 안나에게 건넸다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:안나는 스트루가츠키 형제의 작품을 좋아해?+이 판본은 소장 가치도 있는 좋은 거네.+하지만 이렇게 가방에 막 넣고 다니면 금방 닳아버릴 거야.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:......
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:우리 집에 변색지에 좋은 약이 있는데.+내가 수선해 줄까?
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:...됐어.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:안나는 툭 쏘아붙이곤 시니아의 손에서 《노변의 피크닉》 책을 낚아채, 책에 묻은 먼지를 조심스레 닦고 도로 가방에 넣었다.+그리곤 다시 머리를 두 팔에 파묻어 취침 모드로 돌아갔다.
+()<Speaker>서 있는 여학생</Speaker>||:......?+야, 너 뭐하잔——
+()<Speaker></Speaker>||:한바탕 할 기세인 여학생을 시니아가 어깨를 토닥여 말리며 멋쩍게 웃었다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:내 거 빌려줄게, 내 책상에 있어.+안나는 전학온 지 얼마 안 돼서 아직 어색할 거야.+전학생이니까 친절하게 대해 줘야지.
+()<Speaker>서 있는 여학생</Speaker>||:...그래.+근데 너도 말이야, 어떻게 성질이란 게 없냐?+뭐어 하긴 그런 성격이니까 반장을 하는 거겠네, 나라면 절대 못해. 진심 불가능.
+()<Speaker></Speaker>||:여학생은 시니아를 동정하며 조용히 그녀의 책상으로 향했다.+한편, 시니아는 곤히 자는 듯한 안나를 보며 가볍게 숨을 마셨다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:후우...+날 무시해도 상관없지만... 숙제는 제출해야지.
+()<Speaker>안나</Speaker>||:......
+()<Speaker></Speaker>||:안나는 여전히 고개를 들지 않았다.+학생으로서 중요한 학업이니 시니아도 몇 마디 더 붙이고 싶었지만, 상대의 성질을 건드리고 싶지는 않았기에 머릿속으로 말을 다듬던... 그때.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BGM>BGM_Empty</BGM>:뒤에서 누군가가 어깨를 두드리며 그녀를 불렀다.
+NPC-Ahmin(0)<Speaker>？？？</Speaker>||:저기, 네가 7학년 1반 반장 시니아 양 맞니?
+()<Speaker></Speaker>||:시니아가 고개를 돌려보니, 웬 햇빛처럼 산뜻한 금발에 키도 훤칠한 남학생이 있었다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:아... 네에... 그쪽은...?
+NPC-Ahmin(0)<Speaker>아흐민</Speaker>||<BGM>GF_21winter_avg_mahaline</BGM>:10학년 3반, 아흐민이라고 해. 안나의 큰오빠야.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:아아, 아흐민 선배. 반가워요.+여긴 무슨 일이세요?
+()<Speaker></Speaker>||:아흐민은 미안해하는 표정으로 웃었다.
+NPC-Ahmin(0)<Speaker>아흐민</Speaker>||:하하, 안나가 숙제를 깜빡하고 집에 두고 갔길래.+어제 그렇게 열심히 해놓고선 챙기는 걸 잊었더라고.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:시니아는 아흐민이 건네는 공책을 받으며 안나를 힐끗 살폈다.+여전히 책상 위에 엎어진 그대로였다.+정확히는 그냥 자는 척이었지만.+그런 안나를 보며, 아흐민도 머쓱해서 한 마디 덧붙였다.
+NPC-Ahmin(1)<Speaker>아흐민</Speaker>||:대신 사과할게, 얘가 어제 엄청 늦게 잤거든.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:...괜찮아요.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:아흐민은 안나에게 다가가 살며시 머리를 쓰다듬었다.
+NPC-Ahmin(0)<Speaker>아흐민</Speaker>||:수업 끝나면 집에 같이 가자. 내가 마중올 테니까.+오늘 엄마가 네가 좋아하는 보르시랑 소고기배추말이 해 주신대, 식으면 맛 없을 거야.
+()<Speaker></Speaker>||:동생이 계속 듣는 척도 안 하자, 아흐민은 잠시 뜸을 들였다.
+NPC-Ahmin(0)<Speaker>아흐민</Speaker>||:...요즘 람잔이 매일 경비단에 가더라. 며칠 전에 걔가 헛소리한 건 내가 단단히 혼냈어.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:안나는 머리에서 손을 툭 쳐내고, 자세를 바꿔 다른 쪽 팔에 머리를 기댔다.
+NPC-Ahmin(1)<Speaker>아흐민</Speaker>||:그럼 집에 같이 가는 거다?
+()<Speaker></Speaker>||:잠깐 머뭇하다, 그는 시니아에게 고개를 돌리고 상냥하게 웃었다.
+NPC-Ahmin(0)<Speaker>아흐민</Speaker>||:여기 온 지 얼마 안 됐거든. 잘 좀 부탁할게.
+NPC-Ahmin(0);NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:물론이죠.
+NPC-Ahmin(0)<Speaker>아흐민</Speaker>;NPC-Sinia(0)<Position>0,-58</Position>||:...의사 표현을 잘 안 하기도 하고.
+NPC-Ahmin(0);NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:낯선 환경이니까요. 우리 반 애들은 다 착하고 활기차니까 금방 적응할 수 있을 거예요.
+NPC-Ahmin(1)<Speaker>아흐민</Speaker>||:양해해줘서 고마워.
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:아흐민을 눈으로 배웅한 뒤, 시니아는 걷은 숙제를 정리했다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:후우... 이걸로 전부네.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>276</BIN><BGM>BGM_Empty</BGM><SE1>AVG_20Winter_Door_Open</SE1>:학교 교무실.
+()<Speaker></Speaker>||:평소대로라면 문 밖에서도 쿠즈민 선생님이 수다를 떠는 소리가 들려야 하는데, 어째선지 오늘 교무실은 이상하리만치 조용했다.
+()<Speaker></Speaker>||<SE1>AVG_File_Put</SE1>:시니아가 반에서 걷은 숙제를 올려놓는 책상도, 이상하리만치 깔끔한 것이 선생님의 평소 행실과는 영 딴판이었다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:단순히 지금 교무실에 도스토옙스키 문학집을 읽고 있는 러시아어 선생님밖에 없어서는 아닌 듯했다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:안녕하세요 선생님, 혹시 쿠즈민 선생님 어디 가셨는지 아세요? 오늘 수업도 자습으로 바꾸셔서요.+이 시간엔 항상 교무실에 계시는데, 무슨 일 있나요?
+NPC-Sinia(0)<Speaker>러시아어 선생님</Speaker><Position>0,-58</Position><同时置暗>||:아... 시니아구나.+숙제는 놔두렴, 새 선생님이 오시면 볼 거야.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:새 선생님이요...? 쿠즈민 선생님은요?
+NPC-Sinia(0)<Speaker>러시아어 선생님</Speaker><Position>0,-58</Position><同时置暗>||:......하아.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:중년 여성인 러시아어 선생님은 안타까워하는 한숨을 푹 쉬며 안경을 벗어 안경 닦이로 천천히 렌즈를 닦았다.
+()<Speaker>러시아어 선생님</Speaker>||<BGM>Campaion-58-2</BGM>:...쿠즈민 선생님의 형이 순국했단다.+모두를 위한 희생으로 훈장도 수여됐대요.+그래서 쿠즈민 선생님도 형을 따라 피와 의지로 조국에 보답하겠다고 하셨단다.+무사히 돌아오시길 기도해 주렴.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:......
+()<Speaker></Speaker>||:2045년부터 이런 일은 흔했다.+허나 이렇게 가까이에서 일어나는 것은...
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:......무사히, 돌아오시길...
+NPC-Sinia(0)<Speaker>러시아어 선생님</Speaker><Position>0,-58</Position><同时置暗>||:아아 그렇지, 최근 들어서 이 근처로 이사 오는 외국인들이 점점 느는 추세거든? 그러니 너희 반에도 등하굣길 조심하라 당부해 주려무나.+경비단이 있지만 그들이 24시간 내내 순찰할 수는 없는 노릇이잖니.+늦게까지 너무 오래 밖에서 놀지 말고, 최대한 모여서 다니렴.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:...네, 반에 전달할게요.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:잠시 후, 시니아는 교무실을 뒤로했다.+문을 닫을 때, 그녀의 눈은 절로 쿠즈민 선생님의 자리로 향했다.+텅 빈 책상에 숙제 공책 한 더미만 덩그러니 놓인 그곳을.
+()<Speaker></Speaker>||:이런 시대에 이런 일은 너무나도 흔하다.+전쟁이 어디에나 있으니까.+한 사람, 한 사람씩 휘감고서, 앞으로 기어나가는 전쟁이.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_20Winter_Door_Close</SE1>:......
+()<Speaker></Speaker>||<narrator>:쿠즈민 선생님의 부고 소식이 전해진 것은 얼마 안 돼서였다.+그의 시신은 교장 선생님이 인계받아, 학교 근처의 교회에서 간단하게나마 장례식을 치르기로 했다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>136</BIN>:위대하신 성모상 아래, 조용히 잠든 관 하나.+자애로운 신부 앞에, 장례복을 입고 나란히 선 숙연한 학생들.
+()<Speaker>신부</Speaker>||:이분이 생전 좋아했던 것을 놓아도 됩니다.
+()<Speaker>검은 베일을 쓴 학생</Speaker>||:...쿠즈민 선생님은, 이 빵을 엄청 좋아하셨어요.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:크라스노셀스키 빵 한 봉지가 관 속에 살며시 놓였다.+이윽고 소금을 뿌릴 때, 손이 떨리고 몸이 떨렸다. 선생님을 마지막으로 뵌 게 일주일도 채 안 된 것 같았는데.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:......
+()<Speaker></Speaker>||:시니아는 그 학우를 부축하고, 어깨를 토닥이며 다독여 주었다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:선생님이 가장 사랑하신 것은 이 땅이었습니다.+선생님은 단지, 고향의 천국으로 돌아가시는 것일 뿐입니다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:시니아는 흑갈색의 알갱이가 가득 담긴 작은 병을 꺼내 들었다.+그리고 뚜껑을 열어, 그 흙을 관 안에 뿌렸다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:이건 저희 학교 운동장의 흙입니다.+세월이 흘러 우리가 어디로 가게 되어도, 쿠즈민 선생님은 저희가 가장 존경하는 선생님으로 남을 것입니다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Gate_Close</SE1>:신부가 관을 덮을 때, 마침내 조문객들 사이에서 통곡이 터져 나왔다.+낮게 깔린 노랫소리는 그 슬픔을 위로하는 듯했다.+셀 수도 없이 들은, 조국의 국가.+떠나보내는 전사들을 위한 최고의 순장품이었다.
+()<Speaker>키 큰 남자학생</Speaker>||:...납득 못해.
+()<Speaker>키 작은 남자학생</Speaker>||:거기의 장교가 선생님을 찾았을 땐 불타 죽으면서까지도 우리 학교 휘장을 꼭 쥐고 계셨대...
+()<Speaker>키 큰 남자학생</Speaker>||:다 그놈들 때문이야, 그놈들이... 그놈들이 우릴 팔아넘겼어.+선생님도 그래서 돌아가신 거야...
+()<Speaker>검은 베일을 쓴 학생</Speaker>||:훌쩍... 나도... 나도 납득이 안 가...+너무 갑작스러워서... 전부 너무 갑자기 일어나서...
+()<Speaker>키 큰 남자학생</Speaker>||:......복수해야 해.
+()<Speaker>키 작은 남자학생</Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>Rope</SE1>:<size=50>당연히 복수해야지!</size>
+()<Speaker>키 큰 남자학생</Speaker>||:선생님이 전선에서 용감하게 싸우다 돌아가셨는데, 어떻게 우리만 뒤에서 가만히 있어!
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:진정해. 우리는 학생이야, 지금 우리가 뭘 할 수 있다고 그래.
+()<Speaker>키 큰 남자학생</Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:<size=50>나도 알아 제기랄!!</size>
+()<Speaker>키 작은 남자학생</Speaker>||:두고봐, 우리 졸업할 때까지 어디 잘 살아남아 보라 해!
+()<Speaker>키 큰 남자학생</Speaker>||:아니! 졸업 안 해도 우리가 할 수 있는 일이 있어!
+()<Speaker>키 작은 남자학생</Speaker>||:뭐? 너 그거 설마...
+()<Speaker>키 큰 남자학생</Speaker>||:맞아, 너도 초대받았어?
+()<Speaker>키 작은 남자학생</Speaker>||:응... 근데 좀 고민된달까...
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:일단 모두 돌아가자, 오후에 수업 또 있잖아.+선생님이 항상 말씀하셨잖아, 우리가 열심히 공부해서 다 우수생으로 졸업하는 거 보는 게 제일 큰 소원이라고.
+()<Speaker>키 큰 남자학생</Speaker>||:...칫.
+()<Speaker></Speaker>||:시니아도 같이 한숨을 쉬었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>9</BIN><SE1>AVG_21Winter_Fire_Alarm</SE1>:다음날, 베슬란 제1중학교.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>654</BIN>:수업 시작을 알리는 종이 울렸지만, 학생들은 아직도 어제의 슬픔에서 헤어나오지 못해 교실 분위기는 무거웠다. 심지어는 아직도 검은 베일을 쓴 학생도 꽤 되었다.+그도 그럴 것이, 이 수업은 본디 쿠즈민 선생님의 수업이었으니까.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:그런데, 밖에서 발소리가 들렸다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:이윽고 교실로 들어온 사람에게 모두의 시선이 집중됐다.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:깡마른 몸매에 시큰둥한 표정, 흑발의 천연 곱슬머리. 캐주얼한 커버롤을 입은 이 여성은 퇴폐적인 분위기를 유감없이 풍겨댔다.
+NPC-Laplace(0)<Speaker>？？？</Speaker>||:후우... 자기소개부터 할까, 내가 너희 대리 교사다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그 여성은 교실 안을 스윽 훑어보곤, 하품을 하며 머리를 긁적였다.
+NPC-Laplace(0)<Speaker>？？？</Speaker>||:흐아암... 마사 마이트너다.
+()<Speaker></Speaker>||:돌아온 것은 침묵이었다.+그녀의 러시아어가 매우 서툴러서만이 아니었다.+그녀의 억양에서 출신지가 짐작되기 때문이었다.
+()<Speaker>검은 베일을 쓴 학생</Speaker>||<BGM>BGM_Room</BGM>:...미국인이네?+왜 하필 미국인이야?
+()<Speaker>우람한 몸집의 학생</Speaker>||:이런 때에? 정말 교사로 온 거 맞아?
+()<Speaker>검은 베일을 쓴 학생</Speaker>||:스파이 아니야?
+()<Speaker></Speaker>||:웅성거림은 이내 소란이 되었다.+도저히 무시하고 넘어갈 수 있는 수준이 아니었지만...+마사는 그냥 눈을 까뒤집었다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||<SE1>Stop_AVG_loop</SE1>:왜, 내 러시아어 실력에 불만 있냐?+근데 내가 가르치는 건 기초 물리라서 말이다, 국어가 아니라.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:학생 한 명이 손을 번쩍 들었다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:그래 너.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:성난 얼굴로 일어난 학생은 덩치가 곰처럼 우람했다.
+()<Speaker>우람한 몸집의 학생</Speaker>||:양키년이 무슨 자격으로 쿠즈민 선생님의 자릴 꿰찼냐!
+NPC-Laplace(0)<Speaker>마사</Speaker>||:좋은 질문이네.+우선 "꿰차다"란 정당하지 않은 수단으로 차지하다란 뜻이다, 여기에 쓰기 올바른 단어가 아니야.+가서 국어나 더 배우고 와.
+()<Speaker>일어난 학생</Speaker>||<SE1>Rope</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=4</controll_shake>:<size=50>이게!!!</size>
+NPC-Laplace(1)<Speaker>마사</Speaker>||:참고로 내 시범 채용 기간은 3개월이다.+클레임 걸 거면 어서 가서 해, 안 그래도 니네 학교 봉급이랑 교직원 대우가 형편없어서 벌써부터 기분 잡쳤으니까.
+()<Speaker></Speaker>||:마사는 차갑게 말을 덧붙였다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:이에 다른 비쩍 마른 체격의 학생도 벌떡 일어섰다.
+()<Speaker>마르고 키큰 남학생</Speaker>||:너가 우리한테 이래라저래라할 자격 없어! 미국으로 썩 꺼지라고!
+NPC-Laplace(1)<Speaker>마사</Speaker>||:자격? 내가 그럼 물리 수업을 내 머릿속에 든 걸로 가르치지 국적으로 가르치냐?
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1>:깡마른 학생은 책상을 쾅 내리쳤다.+그리고는 씩씩대며 교실 문을 열고 사라져 버렸다.+마사는 이번에도 그냥 눈을 흘기기만 했다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:여기 반장 누구야?
+()<Speaker></Speaker>||:학생들 일부의 시선이 시니아를 향해...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:할 수 없이 일어나야만 했다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:저 녀석 이름 적어 둬라, 무단 조퇴니까 벌점이야.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:......
+NPC-Laplace(0)<Speaker>마사</Speaker>||:다른 질문?
+()<Speaker>일어난 학생</Speaker>||:벌점 실컷 매기시든가.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><SE1>AVG_Zipper</SE1>:곰 같은 학생도 가방을 어깨에 둘러매곤 그대로 교실을 나갔다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:갈 사람 더 있냐?
+()<Speaker></Speaker>||:교실은 쥐 죽은 듯 조용했다.
+NPC-Laplace(1)<Speaker>마사</Speaker>||:니들 생각이 뭐든 여기선 내가 너희를 가르치는 입장이다.+그리고 기회는 소중히 해라, 나 정도 되는 물리 선생은 보기 힘들다고.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:시니아는 계속 선 채로 비어버린 책상들을 멍하니 바라봤다.+그러다 결심한 듯 여전히 서서 손을 들었고, 마사도 그녀에게 고개를 끄덕였다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:마사 선생님이라셨죠?+선생님은 모르실 수도 있겠지만, 쿠즈민 선생님은 저희에게 지식을 가르쳐 주시기만 한 게 아니라 마음가짐도 가르쳐 주셨습니다.+쿠즈민 선생님은 조국을 위해 싸우다 목숨을 바치셨습니다.+당신은요? 당신은 조국을 위해 싸우실 건가요?
+NPC-Laplace(1)<Speaker>마사</Speaker>||:하... 난 내 목숨이 너무너무 소중해서 말이다, 더러운 기회주의자놈들한텐 안 팔아.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:......
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Fire_Alarm</SE1><BGM>BGM_Empty</BGM>:따르르릉——+수업 종료를 알리는 종소리가 울렸다.+그와 동시에, 착신음도 들렸다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐빅.+시니아는 조심스레 휴대폰의 화면을 켜보았다.
+()||<黑屏1>:
+()<Speaker>익명 통신</Speaker>||<黑屏2><BIN>9</BIN>:<color=#00CCFF>영원의 불꽃이 곧 타오릅니다. 우리와 함께하겠습니까?</color>
+()<Speaker></Speaker>||:......
+()||<黑点1>:

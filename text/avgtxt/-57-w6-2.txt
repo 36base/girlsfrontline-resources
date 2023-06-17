@@ -1,0 +1,62 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>577</BIN><BGM>BGM_Saga_AVG_Dusk</BGM><Night>:
+()||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:쌀쌀한 밤바람이 부는 바닷가를, 당신과 유우기리는 함께 걸으며 쉬지 않고 철썩이는 파도 소리를 들었다.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:...그러니까, 지휘관님께선 그리폰 기지에서 아이돌 매니저를 하던 게 아니었다는 것이군요?
+NPC-Yugiri(0)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:맞아, 기지 안에 전직 아이돌이었던 인형도 있긴 하지만, 내가 매니저 일을 하진 않았어.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:그럼 참 대단하시네요. 고작 며칠 만에 아이돌 매니저의 일을 익히시다니요.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:그것도 흠잡을 수 없이요.
+NPC-Yugiri(4)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:그렇게 띄워주면 내가 우쭐해진다.
+()||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:밤이 어두운 덕분에 유우기리에게 지금 당신의 표정을 숨길 수 있었다.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:그럼 그리폰 기지에서 무슨 일을 하시었나요?
+NPC-Yugiri(0)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:인형 작전을 지휘하고, 기지의 일상 운영을 유지하고 또... 여러가지 임무를 처리했지.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:자세한 내용은 잘 모르겠지만, 기지 전체의 운영을 유지한다는 것만으로도 엄청 힘든 일이겠어요.
+NPC-Yugiri(4)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:매일 보람차지, 가끔은 장기간 출장도 나가야 했고.+하지만 모두 값진 일이라고 생각하고 있어, 세상을 새로 쓸 칼날로서.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:세상을 새로 쓸 칼날...
+()||:유우기리는 걸음을 멈추고 당신에게 고개를 돌렸다, 하지만 그 시선을 당신을 넘어서 저 먼 곳을 향했다.
+NPC-Yugiri(2)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:제 옛날의 한 친구도 비슷한 말을 했답니다.
+NPC-Yugiri(2)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:너의 옛적 친구도 더 좋은 세상을 만들기 위해 항상 싸웠어?
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:예, 하지만 그렇게까지 큰 그림은 없었지요.
+NPC-Yugiri(2)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:그는 단지... 사가를 다시 번영시키고 싶을 뿐이었어요.
+NPC-Yugiri(2)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:규모가 크든 작든, 세상을 바꾸려는 의지는 응원받아 마땅하지.
+()||:유우기리의 얼굴에 왠지 쓸쓸한 미소가 떠올랐다.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:지휘관님께서는, 어찌하여 세상을 새로 쓰려고 하시는가요?
+NPC-Yugiri(4)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:내가 살던 곳엔 몹시 강력하지만 아직 인류가 다룰 수 없는 힘이 있어, 유적에서 나온 물건이지.+모두가 그것을 두고 쟁탈전을 벌이고 있어, 어떤 이들은 그것을 금기시하고 완전히 매장해버리려 하고, 어떤 이들은 그 힘을 거머쥐려고 하지.+그것 때문에 온 세상에 싸움이 그치질 않아.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:그럼 당신은요?
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:지휘관님께서 그 힘을 얻게 된다면 어떻게 하실 건가요?<c>A. 그 힘을 지배한다.<c>B. 그 힘을 매장한다.<c>C. 아무것도 안 한다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:내가 얻게 된다면 그 힘을 내 뜻대로 다루고 싶어.
+NPC-Yugiri(1)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>1</分支>:그렇게 막강한 힘을... 어디에 쓰시게요?
+NPC-Yugiri(1)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||<分支>1</分支>:모든 전쟁과 싸움이 일어나지 않도록 막고, 복사감염증을 앓는 이들이 정상적인 생활을 다시 누릴 수 있도록 하겠어.+내가 사는 곳에선 사가 같은 일상생활만 해도 일종의 사치야.
+NPC-Yugiri(2)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>1</分支>:......
+()||<分支>1</分支>:유우기리가 고개를 숙이고 생각에 잠겼다.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>1</分支>:전쟁이나 싸움을 막는다는 건 결코 쉬운 일이 아니죠.
+NPC-Yugiri(0)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||<分支>1</分支>:그렇지, 예전이나 앞으로나.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>1</分支>:이미 각오를 하신 거군요.
+NPC-Yugiri(0)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||<分支>1</分支>:그래, 그리폰 기지에 발을 디딜 때의 초심처럼, 나는 세상을 새로 쓰겠어.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:그 힘은 세상에서 지워버려야 해. 너무나도 강력한 힘은 가진 이를 미치게 하고, 가지지 못한 이의 욕망을 일으켜.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>2</分支>:당신은... 그런 힘을 원하지 않으시나요?
+NPC-Yugiri(2)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>2</分支>:그 힘을 가진다면 무엇이든 이룰 수 있을지언데...
+NPC-Yugiri(2)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||<分支>2</分支>:손쉽게 얻을 수 있는 행복은 진정한 행복이 아니야.+혹은 이 세상에 진정한 행복이란 애초에 없다고도 생각해.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>2</分支>:행복은 신기루 같은 환영일 뿐이고, 오로지 추구하는 과정에서 즐거움을 느낄 수 있다는 말씀인가요?
+NPC-Yugiri(0)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||<分支>2</分支>:그래, 손에 쥐게 되면 추구할 때만큼이나 매력적이지 않게 보이고, 소중히 하지 않게 되지.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>2</分支>:설마, 지휘관님은 길을 걷는 추구자이셨군요.
+NPC-Yugiri(2)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>2</分支>:그건 결코 편한 길이 아니에요.
+NPC-Yugiri(2)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||<分支>2</分支>:내 초심은 언제나 세상을 새로 쓰는 것이야.+물론 이 목표를 이루지 못했을 때의 각오도 하고 있어.+그렇다 해도, 나는 계속 이 방향으로 쭉 나아갈 것이야. 내가 더 이상 걸음을 내디딜 수 없을 때까지.
+()<Speaker>지휘관</Speaker>||<分支>3</分支>:난 그 힘을 이용할 생각도, 매장할 생각도 없어.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>3</分支>:그저 옆에다 내버려 두겠다는 건가요?
+NPC-Yugiri(0)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||<分支>3</分支>:아무것도 하지 않아야, 그것을 탐하는 이들이 건들지를 못하지.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>3</分支>:검은 칼집에 꽂혀있을 때가 가장 위협적이다?
+NPC-Yugiri(0)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||<分支>3</分支>:바로 그런 법이지.
+NPC-Yugiri(2)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>3</分支>:하지만 그러기 위해선 그것이 타인의 손에 들어가지 않도록 지휘관이 영원한 수호자가 되어야 할 텐데요...
+NPC-Yugiri(2)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||<分支>3</分支>:그 목적을 이룰 수 있다면 그런 대가도 당연히 치러야지.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:알겠사와요.
+()||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:유우기리가 정중하게 당신의 눈을 마주봤다, 그 두 눈의 초점이 저 멀리에서 당신의 눈으로 당겨졌다.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:지휘관님의 바람을 제 전념을 다해 응원하겠사와요. 제가 해드릴 수 있는 일이 있다면 얼마든지 말씀하세요.
+NPC-Yugiri(4)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||:유우기리...+그 마음만으로도 충분해.
+NPC-Yugiri(2)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:과거에, 저는 그 친구의 바람, 사가를 다시 번영시키겠다는 바람을 응원했어요.
+NPC-Yugiri(0)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:당신께서 그 친구의 그림자가 보여요. 당신도 그 친구처럼 세상을 보다 낫게 만들고자 하는 인물이어요.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:당신의 바람이 이루어지길 바라요, 그 바람을 위해 제가 할 수 있는 일을 가능한 만큼 해드리고 싶어요.
+()||<SE1>ClothingUp</SE1>:수많은 시련과 고난을 겪어도 그녀는 한 번도 굴하지 않았다.+과거에 무릎 꿇은 적이 없으며, 앞으로도 꿇을 날이 없을 것이다.
+()<Speaker>지휘관</Speaker>||:좋아.
+()||<SE1>ClothingUp</SE1>:이에 당신은 그녀의 두 손을 맞잡았다.
+()<Speaker>지휘관</Speaker>||:세상을 새로 쓸 칼날이 되기 위하여.
+()||<黑点1>:

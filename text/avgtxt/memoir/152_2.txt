@@ -1,92 +1,92 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......
-M1897(0)<Speaker>M1897</Speaker>||:<size=60>지휘관님 미워요!</size>
-()<Speaker>지휘관</Speaker>||:앗, M1897! 잠깐만!
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>97</BIN><SE1>AVG_door_elecport</SE1><BGM>BGM_Hello</BGM>:......
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:안녕 M1897, 오늘도 외근이니... 어라?
-NPC-Kalin(2)<Speaker>카리나</Speaker>||:너 울었어?
-M1897(0)<Speaker>M1897</Speaker><Shake>0.1</Shake>;NPC-Kalin(2)||:아, 안 울었어요!
-M1897(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:지휘관님이 네 개조 일정을 전달하신댔는데, 혹시 마음이 바뀐 거야?
-M1897(0)<Speaker>M1897</Speaker>;NPC-Kalin(2)||:그게 아니라요...
-M1897(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:그럼... 청소 깨끗이 못했다고 G36한테 혼났어?
-M1897(0)<Speaker>M1897</Speaker>;NPC-Kalin(2)||:아뇨, 그러니까...+지휘관님이, 제가 청소는 잘하는데 전투에 더 집중하라면서, 또 언니랑 비교하시고...
-M1897(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:아, M1887 말이구나? 하긴, 요즘 들어 활약이 부쩍 늘었지. 사회 치안 문제도 거들고 있다면서?
-M1897(0)<Speaker>M1897</Speaker>;NPC-Kalin(0)||:네에... 하지만 언니는 언니고 저는 저인걸요!
-M1897(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:아하... 확실히, 비교당하면 속상하지.+알았어, 내가 대신 지휘관님한테 잘 따질게!
-M1897(0)<Speaker>M1897</Speaker>;NPC-Kalin(0)||:아, 그, 그건...+그래도 방금 지휘관님한테 밉다고 한 건 진심이 아니라...
-M1897(0);NPC-Kalin(1)<Speaker>카리나</Speaker>||:헤헤, M1897이 착한 아이인 건 나도 알지~+가서 쉬어, 지휘관님께 내가 잘 말해 둘게.
-M1897(0)<Speaker>M1897</Speaker>;NPC-Kalin(1)||:신경써 주셔서 고마워요...+하지만 N12 구역의 가정 서비스 센터에서 의뢰를 받아서 나가봐야 해요.
-M1897(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:그렇구나, 그럼 일 열심히 해~!
-M1897(0)<Speaker>M1897</Speaker>||:넵!
-()||<黑屏1>:
-M1897(0)<Speaker>M1897</Speaker>||<黑屏2><BIN>86</BIN>:......+......+마인드맵 업그레이드요?
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>8</BIN><回忆>:몇 분 전.
-M1897(0)<Speaker>M1897</Speaker>||:왜, 왜요?!
-M1897(0)<Speaker>지휘관</Speaker>||:왜냐니...+네게 더 강해질 자질이 있다 생각해서지.
-M1897(0)<Speaker>M1897</Speaker>||:강해지면... 더 강해지면, 청소를 더 깨끗이 잘 할 수 있게 되나요?
-M1897(0)<Speaker>지휘관</Speaker>||:소체 성능 상승도 있지만, 주로 전투 목적이야.+M1897, 인형도 향상심을 가져야지. 업그레이드를 받으면 상황 대처 능력이 훨씬 좋아질 거야.
-M1897(0)<Speaker>M1897</Speaker>||:우으...
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>86</BIN><关闭蒙版>:......
-M1897(0)<Speaker>M1897</Speaker>||:우으... 내가 청소밖에 못하는 게 싫으시단 말이잖아... 청결 좋아하는 게 뭐가 잘못인데...
-()<Speaker>단말기</Speaker>||<SE1>AVG_tele_connect</SE1>:삐빅.
-M1897(0)<Speaker>M1897</Speaker>||:앗, 벌써 시간이 이렇게 됐네!+어디 보자, 오늘 일은...
-()<Speaker>단말기</Speaker>||:<color=#00CCFF>[N12 개발구역 191호 공장, 시간 10시 10분.]</color>+<color=#00CCFF>[오물 도착. 정리는 됐으니 제때 청소하도록.]</color>
-M1897(0)<Speaker>M1897</Speaker>||:주문이 되게 간결하네.+그런데 이 시간이면 다 출근해서 일할 때 아닌가?+나 혼자서 이렇게 큰 공장을 청소하려면 시간이 엄청 걸릴 텐데...+으응, 아니야! 지휘관님께 나도 청소만으로 큰 일을 해낼 수 있단 걸 보여드려야 해!
-M1897(0)<Speaker>M1897</Speaker>||:아, 다 왔다.
-()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:똑똑똑!
-M1897(0)<Speaker>M1897</Speaker>||:......+......?+어라? 아무도 없나?
-()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:똑똑똑!
-()<Speaker></Speaker>||:......+......
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:철컥.
-M1897(0)<Speaker>M1897</Speaker>||:역시 사람 있구나!
-()||<黑屏1>:
-()||<黑屏2><BIN>221</BIN>:......
-M1897(0)<Speaker>M1897</Speaker>||:안녕하세요! 가정부 인형 M1897의 방문 청소 서비스입니다!
-M1897(0)<Speaker>이반</Speaker>||:......
-M1897(0)<Speaker>M1897</Speaker>||:<color=#A9A9A9>어라...? 왜 다들 날 이상한 눈초리로 보지? 그리고 분위기도 어째 험악한데...</color>+저, 저는 신경쓰지 말아 주세요~+이 로비만이라면 금방 청소할 수 있어요!
-M1897(0)<Speaker>이반</Speaker>||:어... 너, 이건...?
-M1897(0)<Speaker>M1897</Speaker>||:아, 이 총 말이세요?+안심하세요, 이건 애들이랑 놀아 줄 때 쓰는 장난감이에요. 빵야빵야~! 이렇게요.+그런데 여긴 공장이라 어린이는 없겠네요.+양동이는 여기다 둘 테니, 지나갈 때 조심하세요~
-()<Speaker></Speaker>||:아무도 M1897의 말에 반응하지 않았다.+하지만 M1897은 이전에도 이처럼 말수가 적은 가정에 방문한 적이 있기에, 전혀 개의치 않고 대걸레로 바닥을 닦기 시작했다.
-()<Speaker>이반</Speaker>||:......+<color=#A9A9A9>설마, 이 녀석이 청에서 부른 지원군인가?</color>+<color=#A9A9A9>하지만 분명 전술인형이랬는데...? 아니, 얘도 인형이긴 한데, 왜 난데없이 청소지?</color>
-M1897(0)<Speaker>M1897</Speaker>||<SE1>ClothingUp</SE1>:아저씨, 잠깐 발 좀 비켜 주실래요?
-M1897(0);NPC-Bodyguard2(0)<Speaker>수행 보디가드</Speaker>||:......어?+어, 어...
-M1897(0)<Speaker>M1897</Speaker>||:감사합니다~
-()<Speaker>이반</Speaker>||:<color=#A9A9A9>방심시켜서 경계를 풀고 기습하려는 건가?</color>+<color=#A9A9A9>그, 그럼 이런 경우엔 대체 어떻게 합을 맞춰야 하지?!</color>
-M1897(0)<Speaker>M1897</Speaker>||<SE1>ClothingUp</SE1>:할머니도 실례할게요~
-M1897(0);NPC-Oldartist(0)<Speaker>브라운 부인</Speaker><Shake>0.1</Shake>||:하, 할머니...? 아니 그보다, 이 계집애는 여기 뭐하러 온 거야!?
-M1897(0)<Speaker>M1897</Speaker>;NPC-Oldartist(0)||:할머니는 거동이 불편하신가 보네요.+그럼 다른 곳부터... 오?
-M1897(0)<Speaker>M1897</Speaker>||:와아~ 이거 프로토타입 TS-5000이네요!+세계에 단 두 대밖에 안 남은 희귀품이라던데!
-()<Speaker></Speaker>||:......+"희귀품"이란 말에, 입찰자들이 수군댔다.
-M1897(0)<Speaker>M1897</Speaker>||:요즘 같은 때에 이런 프로토타입은 사격 통제 시스템도 군용급 부품도 다 빠져서 고물이나 다름없지만...+그래도 관상용품으로 수집할 가치는 충분하죠!+이 공장 주인분, 센스가 좋으시네요~
-()<Speaker></Speaker>||:......+분위기가 한층 더 싸늘해졌다.
-NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:고... 고고고, 고무우울?!+이봐요, 들은 거랑 전혀 다르잖아요! 사기칠 속셈이었어요?!
-()<Speaker></Speaker>||<SE1>AVG_Crowd</SE1>:일순 싸늘했던 로비가 술렁였다.
-()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:격분하는 입찰자들의 반응에 모든 수행인들이 권총을 뽑아 들었고, 분투협회도 이에 맞대응하며 대치했다.
-M1897(0)<Speaker>M1897</Speaker>||:엑, 총? 갑자기 무슨 일이에요?
-()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>크흠... 여러분, 진정해 주십시오.</color>+<color=#00CCFF>누군가가 이 군용 인형을 독차지하려고 저희를 이간질하려는 수작일 수도 있습니다.</color>
-NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:뭐라고요? 설마 우리가 이 꼬맹이를 데려왔다고라도 할 셈이에요?
-()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>적어도 저희 측은 전혀 모르는 일입니다.</color>
-()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:......
-M1897(0)<Speaker>M1897</Speaker>||:어...?+잠깐만요, 왜 저한테 총을 겨누세요? 전 청소하러 왔어요!
-()<Speaker>이반</Speaker>||:잠시만 기다리십시오!
-()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>알렉셰이?</color>
-NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:알렉셰이? 설마... 당신 짓이에요?
-NPC-Oldartist(0)<Speaker>이반</Speaker>||:크흠흠... 그럴 리가 있겠습니까.+아무래도 그냥 번지수를 잘못 짚은 인형인 것 같습니다. 별다른 위협은 못 되겠죠.+제가 쫓아낼 테니, 아무 걱정 마십시오.
-M1897(0)<Speaker>M1897</Speaker>||:네에? 잘못 왔을 리가 없는데요, 저희 가정 서비스 센터의 주문은 언제나 정확하다고요.
-M1897(0)<Speaker>이반</Speaker>||:<color=#A9A9A9>내가 부른 지원군 맞으면 말 좀 맞춰 줘라 좀!</color>
-NPC-Bodyguard1(0)<Speaker>보디가드</Speaker>||:......
-NPC-Bodyguard2(0)<Speaker>보디가드</Speaker>||:......?
-M1897(0)<Speaker>M1897</Speaker>||:<color=#A9A9A9>어... 아무래도 평소의 서비스랑은 좀 다른 거 같네...</color>+잠시만요!+혹시 모르니까 주문 내용 다시 확인할게요!
-()<Speaker>이반</Speaker>||:<size=35>야, 그게 무슨 소리야?!</size>
-M1897(0)<Speaker>M1897</Speaker>||:걱정 마세요, 오늘 받은 주문은 이거밖에 없거든요. 흠흠!+[N12 개발구역 191호 공장, 시간 10시 10분.]+[오물 도착. 정리는 됐으니 제때 청소하도록.]+의뢰인은——
-M1897(0)<Speaker>M1897</Speaker>||<BGM>BGM_Empty</BGM>:알렉셰이...?
-()<Speaker></Speaker>||:......
-()<Speaker>이반</Speaker>||:<color=#A9A9A9>하 씨...</color>
-()<Speaker></Speaker>||:M1897은 그 한 마디가 얼마나 큰 파장을 일으켰는지 알지 못했지만, 건장한 남성 두 명이 옆의 진땀을 흘리던 "알렉셰이"에게 달려드는 것을 똑똑히 보았다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_Combat_Hits</SE1>:......
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......
+M1897(0)<Speaker>M1897</Speaker>||:<size=60>지휘관님 미워요!</size>
+()<Speaker>지휘관</Speaker>||:앗, M1897! 잠깐만!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>97</BIN><SE1>AVG_door_elecport</SE1><BGM>BGM_Hello</BGM>:......
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:안녕 M1897, 오늘도 외근이니... 어라?
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:너 울었어?
+M1897(0)<Speaker>M1897</Speaker><Shake>0.1</Shake>;NPC-Kalin(2)||:아, 안 울었어요!
+M1897(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:지휘관님이 네 개조 일정을 전달하신댔는데, 혹시 마음이 바뀐 거야?
+M1897(0)<Speaker>M1897</Speaker>;NPC-Kalin(2)||:그게 아니라요...
+M1897(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:그럼... 청소 깨끗이 못했다고 G36한테 혼났어?
+M1897(0)<Speaker>M1897</Speaker>;NPC-Kalin(2)||:아뇨, 그러니까...+지휘관님이, 제가 청소는 잘하는데 전투에 더 집중하라면서, 또 언니랑 비교하시고...
+M1897(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:아, M1887 말이구나? 하긴, 요즘 들어 활약이 부쩍 늘었지. 사회 치안 문제도 거들고 있다면서?
+M1897(0)<Speaker>M1897</Speaker>;NPC-Kalin(0)||:네에... 하지만 언니는 언니고 저는 저인걸요!
+M1897(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:아하... 확실히, 비교당하면 속상하지.+알았어, 내가 대신 지휘관님한테 잘 따질게!
+M1897(0)<Speaker>M1897</Speaker>;NPC-Kalin(0)||:아, 그, 그건...+그래도 방금 지휘관님한테 밉다고 한 건 진심이 아니라...
+M1897(0);NPC-Kalin(1)<Speaker>카리나</Speaker>||:헤헤, M1897이 착한 아이인 건 나도 알지~+가서 쉬어, 지휘관님께 내가 잘 말해 둘게.
+M1897(0)<Speaker>M1897</Speaker>;NPC-Kalin(1)||:신경써 주셔서 고마워요...+하지만 N12 구역의 가정 서비스 센터에서 의뢰를 받아서 나가봐야 해요.
+M1897(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:그렇구나, 그럼 일 열심히 해~!
+M1897(0)<Speaker>M1897</Speaker>||:넵!
+()||<黑屏1>:
+M1897(0)<Speaker>M1897</Speaker>||<黑屏2><BIN>86</BIN>:......+......+마인드맵 업그레이드요?
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>8</BIN><回忆>:몇 분 전.
+M1897(0)<Speaker>M1897</Speaker>||:왜, 왜요?!
+M1897(0)<Speaker>지휘관</Speaker>||:왜냐니...+네게 더 강해질 자질이 있다 생각해서지.
+M1897(0)<Speaker>M1897</Speaker>||:강해지면... 더 강해지면, 청소를 더 깨끗이 잘 할 수 있게 되나요?
+M1897(0)<Speaker>지휘관</Speaker>||:소체 성능 상승도 있지만, 주로 전투 목적이야.+M1897, 인형도 향상심을 가져야지. 업그레이드를 받으면 상황 대처 능력이 훨씬 좋아질 거야.
+M1897(0)<Speaker>M1897</Speaker>||:우으...
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>86</BIN><关闭蒙版>:......
+M1897(0)<Speaker>M1897</Speaker>||:우으... 내가 청소밖에 못하는 게 싫으시단 말이잖아... 청결 좋아하는 게 뭐가 잘못인데...
+()<Speaker>단말기</Speaker>||<SE1>AVG_tele_connect</SE1>:삐빅.
+M1897(0)<Speaker>M1897</Speaker>||:앗, 벌써 시간이 이렇게 됐네!+어디 보자, 오늘 일은...
+()<Speaker>단말기</Speaker>||:<color=#00CCFF>[N12 개발구역 191호 공장, 시간 10시 10분.]</color>+<color=#00CCFF>[오물 도착. 정리는 됐으니 제때 청소하도록.]</color>
+M1897(0)<Speaker>M1897</Speaker>||:주문이 되게 간결하네.+그런데 이 시간이면 다 출근해서 일할 때 아닌가?+나 혼자서 이렇게 큰 공장을 청소하려면 시간이 엄청 걸릴 텐데...+으응, 아니야! 지휘관님께 나도 청소만으로 큰 일을 해낼 수 있단 걸 보여드려야 해!
+M1897(0)<Speaker>M1897</Speaker>||:아, 다 왔다.
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:똑똑똑!
+M1897(0)<Speaker>M1897</Speaker>||:......+......?+어라? 아무도 없나?
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:똑똑똑!
+()<Speaker></Speaker>||:......+......
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:철컥.
+M1897(0)<Speaker>M1897</Speaker>||:역시 사람 있구나!
+()||<黑屏1>:
+()||<黑屏2><BIN>221</BIN>:......
+M1897(0)<Speaker>M1897</Speaker>||:안녕하세요! 가정부 인형 M1897의 방문 청소 서비스입니다!
+M1897(0)<Speaker>이반</Speaker>||:......
+M1897(0)<Speaker>M1897</Speaker>||:<color=#A9A9A9>어라...? 왜 다들 날 이상한 눈초리로 보지? 그리고 분위기도 어째 험악한데...</color>+저, 저는 신경쓰지 말아 주세요~+이 로비만이라면 금방 청소할 수 있어요!
+M1897(0)<Speaker>이반</Speaker>||:어... 너, 이건...?
+M1897(0)<Speaker>M1897</Speaker>||:아, 이 총 말이세요?+안심하세요, 이건 애들이랑 놀아 줄 때 쓰는 장난감이에요. 빵야빵야~! 이렇게요.+그런데 여긴 공장이라 어린이는 없겠네요.+양동이는 여기다 둘 테니, 지나갈 때 조심하세요~
+()<Speaker></Speaker>||:아무도 M1897의 말에 반응하지 않았다.+하지만 M1897은 이전에도 이처럼 말수가 적은 가정에 방문한 적이 있기에, 전혀 개의치 않고 대걸레로 바닥을 닦기 시작했다.
+()<Speaker>이반</Speaker>||:......+<color=#A9A9A9>설마, 이 녀석이 청에서 부른 지원군인가?</color>+<color=#A9A9A9>하지만 분명 전술인형이랬는데...? 아니, 얘도 인형이긴 한데, 왜 난데없이 청소지?</color>
+M1897(0)<Speaker>M1897</Speaker>||<SE1>ClothingUp</SE1>:아저씨, 잠깐 발 좀 비켜 주실래요?
+M1897(0);NPC-Bodyguard2(0)<Speaker>수행 보디가드</Speaker>||:......어?+어, 어...
+M1897(0)<Speaker>M1897</Speaker>||:감사합니다~
+()<Speaker>이반</Speaker>||:<color=#A9A9A9>방심시켜서 경계를 풀고 기습하려는 건가?</color>+<color=#A9A9A9>그, 그럼 이런 경우엔 대체 어떻게 합을 맞춰야 하지?!</color>
+M1897(0)<Speaker>M1897</Speaker>||<SE1>ClothingUp</SE1>:할머니도 실례할게요~
+M1897(0);NPC-Oldartist(0)<Speaker>브라운 부인</Speaker><Shake>0.1</Shake>||:하, 할머니...? 아니 그보다, 이 계집애는 여기 뭐하러 온 거야!?
+M1897(0)<Speaker>M1897</Speaker>;NPC-Oldartist(0)||:할머니는 거동이 불편하신가 보네요.+그럼 다른 곳부터... 오?
+M1897(0)<Speaker>M1897</Speaker>||:와아~ 이거 프로토타입 TS-5000이네요!+세계에 단 두 대밖에 안 남은 희귀품이라던데!
+()<Speaker></Speaker>||:......+"희귀품"이란 말에, 입찰자들이 수군댔다.
+M1897(0)<Speaker>M1897</Speaker>||:요즘 같은 때에 이런 프로토타입은 사격 통제 시스템도 군용급 부품도 다 빠져서 고물이나 다름없지만...+그래도 관상용품으로 수집할 가치는 충분하죠!+이 공장 주인분, 센스가 좋으시네요~
+()<Speaker></Speaker>||:......+분위기가 한층 더 싸늘해졌다.
+NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:고... 고고고, 고무우울?!+이봐요, 들은 거랑 전혀 다르잖아요! 사기칠 속셈이었어요?!
+()<Speaker></Speaker>||<SE1>AVG_Crowd</SE1>:일순 싸늘했던 로비가 술렁였다.
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:격분하는 입찰자들의 반응에 모든 수행인들이 권총을 뽑아 들었고, 분투협회도 이에 맞대응하며 대치했다.
+M1897(0)<Speaker>M1897</Speaker>||:엑, 총? 갑자기 무슨 일이에요?
+()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>크흠... 여러분, 진정해 주십시오.</color>+<color=#00CCFF>누군가가 이 군용 인형을 독차지하려고 저희를 이간질하려는 수작일 수도 있습니다.</color>
+NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:뭐라고요? 설마 우리가 이 꼬맹이를 데려왔다고라도 할 셈이에요?
+()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>적어도 저희 측은 전혀 모르는 일입니다.</color>
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:......
+M1897(0)<Speaker>M1897</Speaker>||:어...?+잠깐만요, 왜 저한테 총을 겨누세요? 전 청소하러 왔어요!
+()<Speaker>이반</Speaker>||:잠시만 기다리십시오!
+()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>알렉셰이?</color>
+NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:알렉셰이? 설마... 당신 짓이에요?
+NPC-Oldartist(0)<Speaker>이반</Speaker>||:크흠흠... 그럴 리가 있겠습니까.+아무래도 그냥 번지수를 잘못 짚은 인형인 것 같습니다. 별다른 위협은 못 되겠죠.+제가 쫓아낼 테니, 아무 걱정 마십시오.
+M1897(0)<Speaker>M1897</Speaker>||:네에? 잘못 왔을 리가 없는데요, 저희 가정 서비스 센터의 주문은 언제나 정확하다고요.
+M1897(0)<Speaker>이반</Speaker>||:<color=#A9A9A9>내가 부른 지원군 맞으면 말 좀 맞춰 줘라 좀!</color>
+NPC-Bodyguard1(0)<Speaker>보디가드</Speaker>||:......
+NPC-Bodyguard2(0)<Speaker>보디가드</Speaker>||:......?
+M1897(0)<Speaker>M1897</Speaker>||:<color=#A9A9A9>어... 아무래도 평소의 서비스랑은 좀 다른 거 같네...</color>+잠시만요!+혹시 모르니까 주문 내용 다시 확인할게요!
+()<Speaker>이반</Speaker>||:<size=35>야, 그게 무슨 소리야?!</size>
+M1897(0)<Speaker>M1897</Speaker>||:걱정 마세요, 오늘 받은 주문은 이거밖에 없거든요. 흠흠!+[N12 개발구역 191호 공장, 시간 10시 10분.]+[오물 도착. 정리는 됐으니 제때 청소하도록.]+의뢰인은——
+M1897(0)<Speaker>M1897</Speaker>||<BGM>BGM_Empty</BGM>:알렉셰이...?
+()<Speaker></Speaker>||:......
+()<Speaker>이반</Speaker>||:<color=#A9A9A9>하 씨...</color>
+()<Speaker></Speaker>||:M1897은 그 한 마디가 얼마나 큰 파장을 일으켰는지 알지 못했지만, 건장한 남성 두 명이 옆의 진땀을 흘리던 "알렉셰이"에게 달려드는 것을 똑똑히 보았다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_Combat_Hits</SE1>:......
+()<Speaker></Speaker>||:......
+()||<黑屏1>:

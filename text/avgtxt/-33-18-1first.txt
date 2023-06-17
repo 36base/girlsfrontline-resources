@@ -1,130 +1,130 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:탈린 정거장.
-()<Speaker></Speaker>||:카리나는 통신을 종료하고, 지휘관에게 보고했다.
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:지휘관님, 열차가 탈린 정거장에 도착했어요.
-()<Speaker></Speaker>||:지휘관은 말없이 그저 고개를 끄덕였다.
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:지휘관님, 이제... 어떻게 할까요?
-()<Speaker></Speaker>||:쾅. 지휘관은 탁상을 주먹으로 내리쳤다.
-지휘관()<Speaker>지휘관</Speaker>||:잘도 이런 짓을...
-NPC-Kalin(7)<Speaker>카리나</Speaker>||:데저트 이글의 제대만이 아니라, 각지의 다른 제대들로부터도 난민의 시신을 발견했다는 보고가 들어오고 있어요. 발견된 것만 해도 수천 구예요...
-지휘관()<Speaker>지휘관</Speaker>||:이건 계획적인 학살이야!
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:여기서 대체 무슨 일이 있었던 걸까요... 아, 페르시카 씨의 통신 요청이에요. 연결할까요?
-()<Speaker>지휘관</Speaker>||:부탁해.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>바쁜 와중에 미안해, 지휘관.</color>
-NPC-Persica(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:페르시카 씨... 혹시 AR팀의 상태를 확인하려고 연락하신 거면, 지금은 대화할 분위기가 아니에요....
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>아니, 그건 아니야... 아닌데... 지휘관이 준 권한 덕분에, AR팀이 전송한 화상과 M4의 신호 기록을 다 살펴봤어. 그래서... 지휘관의 판단에 도움이 되도록 몇 가지를 알려 줘야 할 것 같아서.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker>||:왜 이런 상황에서 말씀해 주시는거죠?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>미안해... 지휘관에게 너무 많은 걸 알려 주면... 그리폰이 더 위험해지지는 않을까 해서 망설여졌어.</color>+<color=#00CCFF>하지만... 사태가 이렇게 된 이상, 너희가 지금 상대하는 것이 무엇인지 알아야 한다고 생각해. 지휘관이라면 이 위기를 이겨낼 거라고 믿어.</color>+<color=#00CCFF>그리고... 이 학살과도 관계가 있는 거니까, 침착하게 내 이야기를 끝까지 들어 줘.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker>||:저희의 상대라는 건... 패러데우스 말씀입니까?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>패러데우스 이전의 일이야.</color>+<color=#00CCFF>"90Wish"라는 단체에 대해서 들어본 적 있어...?</color>
-NPC-Persica(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:90Wish요? 인터넷에서 서로 연구 성과를 공유하다가, 얼마 안 가 해체된 사설 단체라고만 알고 있는데요. 하지만 어느 데이터베이스에서도 관련 정보를 찾을 수가 없어요.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그 정도밖에 모르는 것도 당연해. 90Wish에 관한 모든 기록은 말소, 내지는 조작됐으니까.</color>+<color=#00CCFF>어쩌면 지휘관은 이미 눈치챘을 수도 있겠지만... 나도 예전에는 90Wish의 일원이었어.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker>||<BGM>BGM_Pervaded</BGM>:설마, 90Wish가 바로 패러데우스의 정체라고 말씀하시려는 겁니까?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>아니, 그건 아니야. 전혀 다른 별개의 조직이라고 생각해... 그리고, 90Wish는 사실 아직도 암암리에 활동 중이거든.</color>+<color=#00CCFF>내가 들어간지 얼마 안 됐을 때만 해도, 90Wish는 그저 단순한 사설 연구 단체라 생각했어. 그런데... 어느 날 거액의 투자금이 지속적으로 유입되고 있는 걸 우연히 알게 됐고, 이 조직이 생각하던 것만큼 단순하지 않음을 깨달았지.</color>
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그리고... 조직에 대해 더 깊이 조사하면서, 세상에 공표할 수 없는 온갖 불법, 비윤리적 연구에 90Wish가 손을 뻗고 있었다는 걸 알아냈어. 난 그걸 받아들일 수 없어서... 그 길로 90Wish를 떠났지...</color>
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그러니까 지휘관, 내 말 잘 들어... 지금 M4에게 강제 연결을 시도하는 신호와 탈린 시내에서 인형들에게 간섭하는 불규칙한 신호를 다 분석해 봤어.</color>+<color=#00CCFF>이 연결 신호의 주파수 알고리즘은... 90Wish가 사용하던 것과 똑같아.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker>||:그러니까, 이건 패러데우스가 아닌 90Wish의 짓이라는 말입니까?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>어... 미안, 설명이 모자랐나 보네. 그 뜻이 아니야. 더러운 일에 관여하긴 했어도, 90Wish는 그저 연구 단체에 불과했어. 단지... 뛰어난 연구 성과는 다른 이들에게 이용당하기 마련이지.</color>+<color=#00CCFF>일단 분석 결과로 알아낸 사실은 이 도시에 90Wish의 작품이 잔뜩 있다는 것뿐이야... 다만, 일부가 내가 수집한 패러데우스의 특징과 일치해.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker>||:그래서 무엇을 말하고 싶으신 것이죠?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>지휘관, 전에 패러데우스에게 납치된 적이 있다고 했지? 그럼... 지휘관은 기억을 못하더라도 아마 그 사람과도 접촉했을 거야.</color>+<color=#00CCFF>만약 90Wish와 패러데우스가 서로 관련되어 있다면, 우리의 상대는 아마... 윌리엄일 거야.</color>
-NPC-Persica(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:윌리엄이요?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>응... 윌리엄 교수. 그도 90Wish의 일원이었어. 하지만... 내가 여태까지 봤던 괴짜들보다도 훨씬 더 괴상한 사람이었지.</color>+<color=#00CCFF>그를 직접 보거나 진짜 목소리를 들어본 사람은 아무도 없어. 그리고 그가 했던 연구는 전부... 소름이 돋는 것들뿐이었어.</color>
-NPC-Persica(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:다... 위험한 연구였나요?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>예를 들자면... 그 난민의 시신 옆에서 발견한 이상한 꽃잎 있지?</color>
-NPC-Persica(0);NPC-Kalin(4)<Speaker>카리나</Speaker>||:네, 보고 받은 화상에서 봤어요.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그건, 우담화의 일종이야...</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker>||:우담화요?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그래, 붕괴 입자를 흡수하는 특이한 식물이야.</color>+<color=#00CCFF>90Wish는 붕괴 복사 정화 기술 개발을 위해 그걸 연구했지만... 결국 실패했어. 대기 중의 붕괴 입자를 흡수하지만, 꽃을 피우는 순간 그때까지 흡수했던 입자를 모조리 방출하거든.</color>+<color=#00CCFF>그래서야 어떻게 정화 도구로 쓸 수 있겠어? 하지만... 윌리엄은 그 우담화를 아주 마음에 들어 했어. 내가 떠나기 전까지도 계속 품종 개량을 하고 있었을 정도로.</color>
-NPC-Persica(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:그렇다면... 아하, 그런 거였군요!
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>깨달았구나. 그래, 이 우담화는 아마 가장 뛰어난 학살 도구 중 하나일 거야.</color>+<color=#00CCFF>패러데우스는 ELID 감염자가 많이 필요하지만, 난민이 제발로 오염지대로 들어갈 리는 없지. 하지만 이 우담화만 있으면 오염이 없어 보이는 함정을 감쪽같이 만들어낼 수 있어.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker>||:어떻게 이런 악랄한 짓을...
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>이것만이 아니야. 아까 인형들이 보낸 화상에서 억지로 조립된 개체도 봤지?</color>
-NPC-Persica(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:어... 그 반기계화된 소녀 말인가요?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>;NPC-Kalin(2)||:<color=#00CCFF>맞아, 니토와 닮은 그거... 개조를 받았지만 결국 실패한 "붕괴 친화체"가 분명해.</color>
-NPC-Persica(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:붕괴 친화체요...?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>;NPC-Kalin(2)||:<color=#00CCFF>90Wish가 주도했던 실험 중에는... 인체 조직과 유적의 입자 제어 설비의 적합도 테스트가 있었어.</color>+<color=#00CCFF>90Wish는, 유적을 만들어낸 문명의 시설은 유전 정보를 통해 사용 권한을 식별한다고 믿었지. 하지만 인체를 포함한 생체 조직은 대량의 붕괴 복사에 노출되면 규소화되어 버려.</color>+<color=#00CCFF>그런데... 90Wish는 규소화가 조금 더디게 진행되는 붕괴 친화체의 존재를 확인했어. 그래서 친화체가 완전히 변이되기 전에 유적을 활성화할 수 있기를 기대했지.</color>
-NPC-Persica(0);NPC-Kalin(4)<Speaker>카리나</Speaker>||:뭐라고요...?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>이 실험은 오직 90Wish의 슈퍼컴퓨터의 시뮬레이션으로만 진행됐어. 실제로 하기엔 너무나도 반인륜적이니까.</color>+<color=#00CCFF>물론... 300만 번에 달하는 시뮬레이션 결과는 전부 실패로 끝났지. 애당초, 유적이 그런 유치한 방식으로 작동할 리가 없었으니까...</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker>||:하지만 그 결과를 납득하지 못하는 자가 있었겠군요.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>특히 윌리엄이 그랬어. 모든 조건이 충족되지 않았기 때문에 실패한 거라면서, 시뮬레이션만으론 안 된다면서... 직접 실험하자고 주장했지. 그런 그가 이렇게 잔인한 짓을 저질렀다 해도 전혀 놀랍지 않아...</color>
-NPC-Persica(0);NPC-Kalin(4)<Speaker>카리나</Speaker>||:그럼, 저 여자애들은 그 실험에 동원되었다가 실패한 니토란 말인가요?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>엘리사는 유적을 깨울 열쇠고, 니토는 유적의 설비와 접촉하기 위한 매개체... 그리고 안젤리아는 어느 세력이 유적을 재가동시키려 한다고 했어. 그럼 모든 단서가 하나로 이어져.</color>+<color=#00CCFF>하지만... 대체 어떤 식으로 목적을 달성할 생각인지... 난 아직도 모르겠어...</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker>||:니토는 전투용으로 만들어진 것이 아니라고요?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그녀들은 윌리엄에게 있어 실패작에 불과해. 그러니... 총알받이로 삼아도 이상할 것 없겠지.</color>+<color=#00CCFF>하지만 그렇다는 건 그의 실험이 아직 성공하지 않았단 뜻이야. 아직 시도 단계에 머물러 있는 것 같아.</color>+<color=#00CCFF>북란도 사건 이후, 붕괴 복사의 영향에 완전히 면역인 개체가 출현한 적이 있어. 어쩌면... 그는 그 "완전면역체"를 만들려고 이런 짓을 벌이고 있는 게 아닐까...</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker>||:종합해 보자면, 탈린시는 윌리엄이란 작자의 실험장에 불과하고, 우리 모두를 실험용 생쥐 취급하고 있다는 거군요.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>지휘관, 나... 불길한 예감이 들어.</color>+<color=#00CCFF>군이 너희를 배신했던 것부터 시작해서, 베오그라드 사건, 그리고 지금 너희가 가 있는 탈린까지... 모든 게 정교하게 설계된 계획처럼 느껴져. 우릴 끌어들여서, 해서는 안 될 일을 하도록 유도하고 있어.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker>||:...조언해 주실 수 있겠습니까?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>미안... 아직 분석이 덜 됐어.</color>+<color=#00CCFF>하지만 그 실패작 니토는 분석할 가치가 있어. 그리고 지금 M4에게 연결을 시도하는 그 신호들... M4에게 무슨 정보를 전달하려는 것 같아.</color>+<color=#00CCFF>겉보기엔 버려진 폐허지만... 도시 전역을 아우르는 방대한 레벨 2 플랫폼 네트워크가 펼쳐져 있어. M4가 그 네트워크에 연결한다면...</color>
-NPC-Persica(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:잠깐만요. M4에게 적과 연결하라는 말씀이세요? 너무 위험하지 않을까요?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>M4는 내가 만든 아이야... 그 애의 성능이라면 그렇게 간단하게 해킹당하지 않아. M4가 해낼 수 없다면, 다른 인형은 더더욱 불가능해.</color>+<color=#00CCFF>하지만... M4는 지금 곤혹스러워하면서 망설이고 있는 것 같아. 조금 전에도... 그 연결에 응답하려다 말았어. 그 애가 무얼 쫓고 있는지는 나도 모르지만, 허락해야 한다고 생각해.</color>+<color=#00CCFF>우린 인간이잖아. 그러니 M4가 올바른 길로 나아갈 수 있도록 인도해 줘야 해.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker>||:그 말씀은 페르시카 씨가 직접 M4에게 말하시는 게 좋을 것 같군요.+이번에야말로, 직접 대화할 준비가 되셨습니까?
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>책임을... 져야지.</color>
-NPC-Persica(0)<Speaker>지휘관</Speaker>||:알겠습니다. 그럼, 일단 통신을 종료할 테니 마음의 준비를 해 주세요.+M4와 연락이 되는 대로 연결해드리겠습니다.
-NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>알았어. 나머진 부탁할게, 지휘관.</color>
-NPC-Kalin(2)<Speaker>카리나</Speaker>||<BGM>BGM_Empty</BGM><BIN>202</BIN><黑屏2><SE1>AVG_tele_disconnect</SE1>:세상에...
-NPC-Kalin(2)<Speaker>카리나</Speaker>||:페르시카 씨가 이렇게 말을 많이 하신 건 처음이에요...
-NPC-Kalin(2)<Speaker>지휘관</Speaker>||<BGM>BGM_Truth</BGM>:페르시카 씨도 많은 일을 겪었겠지... 모니터 너머로도 흥분한 게 느껴졌어.
-NPC-Kalin(2)<Speaker>카리나</Speaker>||:여태까지 평범한 연구자인 줄만 알았는데... 이렇게나 많은 걸 알고 있을 줄은 상상도 못 했어요.
-()<Speaker>지휘관</Speaker>||:하아... 정말 끔찍한 정보들이군. 하벨 씨의 설명으로 모든 수수께끼가 풀리나 싶더니만, 또 처음으로 되돌아가 버리다니.+카리나, 지금 각 제대의 상황은 어떻지?
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:AR팀은 아직 격리벽을 가동할 방법을 모색 중이라고 해요. 나머지 제대들은 모두 정거장으로 집합을 완료, 물자 보급 중이고요.+그리고... 방금 익명으로 발송된 위성 사진을 받았어요. 확인해 보니 군의 장갑 열차가 이미 이 근처까지 와 있는 상태인데, 어째선지 멈춰 서 있어요. 아무래도 이쪽도 보급을 받는 중인 것 같아요.
-NPC-Kalin(0)<Speaker>지휘관</Speaker>||:그렇다면... 아직 시간이 있군.+AR팀은 분명 벽을 열 방법을 찾아낼 거야. 그러니 각 소대의 보급이 끝나면, "실패작 니토"의 조사를 중점으로 다시 정찰을 내보내도록 해.+페르시카 씨의 말처럼, 나도 아까의 그 간섭과 강제 연결은 관계가 있다고 봐.
-NPC-Kalin(7)<Speaker>카리나</Speaker>||:하지만 제가 보기엔... 탈린시는 그저 거대한 공동묘지 같아 보여요.+정말 여기서 뭔가를 찾아낼 수 있을까요?
-NPC-Kalin(7)<Speaker>지휘관</Speaker>||:그 윌리엄이라는 작자의 속셈이 대체 무엇인지를 밝혀내야 해.+그의 목적을 알아내지 못한다면, 우린 영영 한발 늦으면서 놈에게 끌려다닐 거야.+놈의 손에 놀아나서는 안 돼. 지금 같은 상황에서는 더더욱. 그러기 위해선, 니토에 관한 단서를 최대한 많이 모아야 하겠지. 정찰팀의 임무 분담이 끝나면... AR팀과 연락하자.
-NPC-Kalin(0)<Speaker>카리나</Speaker>||<黑点1>:알겠습니다, 지금 바로 실시할게요.
-DesertEagle(0)<Speaker>데저트 이글</Speaker>||<黑点2><BIN>197</BIN>:그럼, 출발하겠습니다.
-DesertEagle(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:미안해, 돌아오자마자 또 정찰 임무에 보내고...
-DesertEagle(0)<Speaker>데저트 이글</Speaker>;NPC-Kalin(0)||:괜찮아요, 보급도 다 끝냈으니 언제든지 싸울 수 있어요. 그리고 저희도 지휘관님과 같은 생각이에요. 이대로 진실이 묻히게 놔둘 순 없어요.
-DesertEagle(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:응, 우리 모두 힘내자. 방금 드론으로 다른 난민 집합소의 위치를 확인했으니까, 이제부터 부채꼴로 정찰을 진행할 거야.
-DesertEagle(0)<Speaker>데저트 이글</Speaker>;NPC-Kalin(0)||:저희의 임무는 뭔가요?
-DesertEagle(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:지휘관님이 너희는 여기의 지형에 익숙해졌을 테니 선봉을 맡기겠다고 하셨어. 너희를 중심으로 다른 제대들이 대형을 펼쳐서 정찰 범위를 넓힐 거야. 니토와 관련된 정보를 되는대로 많이 수집하되, 전투는 가급적 피하도록 해. 아무리 사소한 단서도 놓쳐서는 안 돼, 알았지?
-DesertEagle(0)<Speaker>데저트 이글</Speaker>||:알겠습니다, 즉시 출발할게요.
-()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:데저트 이글은 고개를 끄덕인 후, 자신이 이끄는 제대와 함께 열차에서 내렸다.
-()<Speaker></Speaker>||<黑屏2><BIN>159</BIN>:...30분 후.
-ACR(0)<Speaker>ACR</Speaker>||:그런데 말이에요... 우리 모두 신병인데 왜 선봉을 맡긴 걸까요? 다른 인형 제대들도 잔뜩인데...
-DesertEagle(0)<Speaker>데저트 이글</Speaker>;ACR(0)||:툴툴거리지 마, 지휘관님이 우리의 능력을 인정해 주셨다는 뜻이니 좋은 일이잖아?
-DesertEagle(0);ACR(0)<Speaker>ACR</Speaker>||:그건 그렇지만... 잠깐만요, 전방에 기척이 있어요.
-DesertEagle(0)<Speaker>데저트 이글</Speaker>;ACR(0)||<BGM>BGM_Sneak</BGM>:저건... 패러데우스의 신형 유닛인가?
-ACR(0)<Speaker>ACR</Speaker>||:확실히 그렇게 보이지만...+전에 봤던 것들이랑은 좀 다른데요? 왜 저렇게 너덜너덜해 보이죠...? 자율 유닛일까요?
-ACR(0)<Speaker>ACR</Speaker>||:그런데 뭔가를 쫓고 있는 것 같은... 어? 저건 카리나 씨가 집중 조사하라던 니토 아니에요!? 이럴 수가, 니토를 공격하고 있어요!
-AbandonedIsomer(0)<Speaker>？？</Speaker>||:으아악!
-DesertEagle(0)<Speaker>데저트 이글</Speaker>||:저 하얀 유닛... 실험체를 사살하는 거야? 아까 받은 정보에 따르면 같은 편 아니었어?
-SSG3000(0)<Speaker>SSG3000</Speaker>||:저 니토를 도와줘야 할까요?
-ACR(0)<Speaker>ACR</Speaker>||:안 돼요, 저 니토가 적인지 아군인지도 모르잖아요! 게다가 카리나 씨도 되도록 전투를 피하라고...
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:그때, 다른 방향에서 총성이 들려왔다. 총알은 비처럼 쏟아져, 하얀 유닛을 순식간에 파괴했다.
-ACR(0)<Speaker>ACR</Speaker>||:어!? 누가 쐈어요?!
-SSG3000(0)<Speaker>SSG3000</Speaker>||:어... 난 아니야.
-DesertEagle(0)<Speaker>데저트 이글</Speaker>||:그리폰의 신호야. 아군인가? 여기는 데저트 이글, 들리면 응답 바란다.
-M1895MG(0)<Speaker>M1895CB</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여기는 1895. 누군가 했더니 여러분이었군요?</color>
-DesertEagle(0)<Speaker>데저트 이글</Speaker>;M1895MG(0)||:1895구나... 그런데 너 왜 여기 있어? 네 제대는?
-M1895MG(0)<Speaker>M1895CB</Speaker><通讯框>||:<color=#00CCFF>그게... 군장이 너무 무거워서 잠깐 숨 좀 돌리는 사이에, 동료들이 저만 두고 가 버렸어요...</color>
-ACR(0)<Speaker>ACR</Speaker>||:그리폰엔 미아 인형이 왜 이렇게 많이 생기는 걸까요...
-SSG3000(0)<Speaker>SSG3000</Speaker>||:자율 행동 모드니까 뭐... 지휘관님이 직접 지휘하시지 않는 이상은 어쩔 수 없어. 그래도 길 잃은 애들은 어차피 지휘관님이 나중에 다 회수하실 거니까 걱정 마.
-DesertEagle(0)<Speaker>데저트 이글</Speaker>||:잡담은 그만하고, 저 실험체 상태는 어때?
-ACR(0)<Speaker>ACR</Speaker>||:접근해 볼게요... 공격을 받은 후론 움직이지 않아요. 죽은 걸까요?
-M1895MG(0)<Speaker>M1895CB</Speaker><通讯框>||:<color=#00CCFF>한발 늦었나 보네요... 난민 생존자인 줄 알았는데...</color>
-DesertEagle(0)<Speaker>데저트 이글</Speaker>||<BGM>BGM_Empty</BGM>:잠깐만... 누가 통신 회선에서 말하는 것 같지 않아?
-ACR(0)<Speaker>ACR</Speaker>||<SE1>AVG_whitenoise</SE1>:저도 들려요. 그런데 통신으로 말하는 게 아닌 것 같은데요...?
-DesertEagle(0)<Speaker>데저트 이글</Speaker>||:이 느낌... 아까 안개가 꼈을 때 누가 속마음을 엿보던 것 같은 느낌하고 똑같아... 목소리가 점점 뚜렷해지고 있어...!
-()<Speaker>？？</Speaker>||<SE1>AVG_Bell</SE1>:<color=#00CCFF>구...</color>
-ACR(0)<Speaker>ACR</Speaker>||:뭐지?
-()<Speaker>？？</Speaker>||<BGM>m_avg_labyrinth</BGM>:<color=#00CCFF>구해줘... 우리를 구해줘...</color>
-DesertEagle(0)<Speaker>데저트 이글</Speaker>||:해킹인가...? 내가 전자전용 인형이 아니라서 잘은 몰라도, 이거 강제 연결로 신호 전송하는 거 맞지?
-()<Speaker>？？</Speaker>||:<color=#00CCFF>구해줘. 구해줘. 구해줘. 구해줘.</color>
-ACR(0)<Speaker>ACR</Speaker>||:하지만... 구해 달라고만 할 뿐이지, 마인드맵을 직접 공격하진 않네요.
-DesertEagle(0)<Speaker>데저트 이글</Speaker>||:확실히... 그저 도움을 청하기만 하네. 악의는 느껴지지 않아. 하지만 어떻게 구해 달라는 거지?
-SSG3000(0)<Speaker>SSG3000</Speaker>||:어... 대장...? 또 안개가 끼는데요...
-DesertEagle(0)<Speaker>데저트 이글</Speaker>||:왜 갑자기 또 안개가... 모, 몸이 안 움직여...!
-ACR(0)<Speaker>ACR</Speaker>||:저... 저도요... 대장 목소리까지 잘 안 들려요...
-()<Speaker></Speaker>||:앗 하는 사이에, 인형들의 눈에 더는 하늘의 빛이 보이지 않았다.+그리고 자욱한 안개 속에서, 특이한 옷차림의 소녀가 나타났다. 그녀는 꼼짝도 못하는 인형들을 망연자실한 눈빛으로 훑어보고는, 몸을 숙여 더 이상 움직이지 않는 시신을 안아 들었다.
-DesertEagle(0)<Speaker>데저트 이글</Speaker><Shake>||:적의... 두목...?
-NytoIsomer(0)<Speaker>맑은 목소리</Speaker>||:아니, 나는 자격 없는 자일 뿐이야. 꽃밭이 필 때, 우린 받아들여지지 못했어. 또 하나가 떠나갔지만... 적어도 남은 우리를 구해 주길 바라.
-DesertEagle(0)<Speaker>데저트 이글</Speaker>||:무... 무슨... 소리야...+이건... 좌표?
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:소녀는 더는 입을 열지 않고, 그저 안아 든 시신과 함께 다시 안개 속으로 사라졌다.+그 소녀가 멀어지자, 안개가 개고 인형들도 다시 움직일 수 있었다.
-ACR(0)<Speaker>ACR</Speaker>||<BGM>BGM_Sneak</BGM>:이... 이게 어떻게 된 거죠? 안개도 저 사람이 한 짓이었던 거예요? 저렇게 영문을 알 수 없는 적은 처음 봐요.
-ACR(0);DesertEagle(0)<Speaker>데저트 이글</Speaker>||:어쩌면... 적이 아닐지도 몰라. 지금 받은 좌표도 그렇고, 그리고 우리에게 나머지를 구해 달라니...+대체 목적이 뭐지...?
-ACR(0)<Speaker>ACR</Speaker>;DesertEagle(0)||:방금 그 사람이 대장에게 좌표를 줬다고요?
-ACR(0);DesertEagle(0)<Speaker>데저트 이글</Speaker>||:응...
-ACR(0)<Speaker>ACR</Speaker>;DesertEagle(0)||:함정 아닐까요...?
-ACR(0);DesertEagle(0)<Speaker>데저트 이글</Speaker>||:왠지 몰라도, 엄청 슬픈 느낌이었어.+역시, 받은 좌표를 조사해 봐야 할 것 같아.+거기에 지휘관님이 원하시는 게 있을 거란 예감이 들어.
-ACR(0)<Speaker>ACR</Speaker>||:알겠습니다. 이번에도 대장의 예감이 맞으면 좋겠네요.
-DesertEagle(0)<Speaker>데저트 이글</Speaker>||<黑屏1>:좌표를 공유할 테니, 출발하기 전에 지휘관님께 수집한 정보와 함께 전송해 줘. 아무래도... 상황이 더 복잡해진 것 같아. 이 정보가 지휘관님께 도움이 되면 좋으련만...
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><BGM>BGM_Room</BGM>:탈린 정거장.
+()<Speaker></Speaker>||:카리나는 통신을 종료하고, 지휘관에게 보고했다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:지휘관님, 열차가 탈린 정거장에 도착했어요.
+()<Speaker></Speaker>||:지휘관은 말없이 그저 고개를 끄덕였다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:지휘관님, 이제... 어떻게 할까요?
+()<Speaker></Speaker>||:쾅. 지휘관은 탁상을 주먹으로 내리쳤다.
+지휘관()<Speaker>지휘관</Speaker>||:잘도 이런 짓을...
+NPC-Kalin(7)<Speaker>카리나</Speaker>||:데저트 이글의 제대만이 아니라, 각지의 다른 제대들로부터도 난민의 시신을 발견했다는 보고가 들어오고 있어요. 발견된 것만 해도 수천 구예요...
+지휘관()<Speaker>지휘관</Speaker>||:이건 계획적인 학살이야!
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:여기서 대체 무슨 일이 있었던 걸까요... 아, 페르시카 씨의 통신 요청이에요. 연결할까요?
+()<Speaker>지휘관</Speaker>||:부탁해.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>바쁜 와중에 미안해, 지휘관.</color>
+NPC-Persica(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:페르시카 씨... 혹시 AR팀의 상태를 확인하려고 연락하신 거면, 지금은 대화할 분위기가 아니에요....
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>아니, 그건 아니야... 아닌데... 지휘관이 준 권한 덕분에, AR팀이 전송한 화상과 M4의 신호 기록을 다 살펴봤어. 그래서... 지휘관의 판단에 도움이 되도록 몇 가지를 알려 줘야 할 것 같아서.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker>||:왜 이런 상황에서 말씀해 주시는거죠?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>미안해... 지휘관에게 너무 많은 걸 알려 주면... 그리폰이 더 위험해지지는 않을까 해서 망설여졌어.</color>+<color=#00CCFF>하지만... 사태가 이렇게 된 이상, 너희가 지금 상대하는 것이 무엇인지 알아야 한다고 생각해. 지휘관이라면 이 위기를 이겨낼 거라고 믿어.</color>+<color=#00CCFF>그리고... 이 학살과도 관계가 있는 거니까, 침착하게 내 이야기를 끝까지 들어 줘.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker>||:저희의 상대라는 건... 패러데우스 말씀입니까?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>패러데우스 이전의 일이야.</color>+<color=#00CCFF>"90Wish"라는 단체에 대해서 들어본 적 있어...?</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:90Wish요? 인터넷에서 서로 연구 성과를 공유하다가, 얼마 안 가 해체된 사설 단체라고만 알고 있는데요. 하지만 어느 데이터베이스에서도 관련 정보를 찾을 수가 없어요.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그 정도밖에 모르는 것도 당연해. 90Wish에 관한 모든 기록은 말소, 내지는 조작됐으니까.</color>+<color=#00CCFF>어쩌면 지휘관은 이미 눈치챘을 수도 있겠지만... 나도 예전에는 90Wish의 일원이었어.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker>||<BGM>BGM_Pervaded</BGM>:설마, 90Wish가 바로 패러데우스의 정체라고 말씀하시려는 겁니까?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>아니, 그건 아니야. 전혀 다른 별개의 조직이라고 생각해... 그리고, 90Wish는 사실 아직도 암암리에 활동 중이거든.</color>+<color=#00CCFF>내가 들어간지 얼마 안 됐을 때만 해도, 90Wish는 그저 단순한 사설 연구 단체라 생각했어. 그런데... 어느 날 거액의 투자금이 지속적으로 유입되고 있는 걸 우연히 알게 됐고, 이 조직이 생각하던 것만큼 단순하지 않음을 깨달았지.</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그리고... 조직에 대해 더 깊이 조사하면서, 세상에 공표할 수 없는 온갖 불법, 비윤리적 연구에 90Wish가 손을 뻗고 있었다는 걸 알아냈어. 난 그걸 받아들일 수 없어서... 그 길로 90Wish를 떠났지...</color>
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그러니까 지휘관, 내 말 잘 들어... 지금 M4에게 강제 연결을 시도하는 신호와 탈린 시내에서 인형들에게 간섭하는 불규칙한 신호를 다 분석해 봤어.</color>+<color=#00CCFF>이 연결 신호의 주파수 알고리즘은... 90Wish가 사용하던 것과 똑같아.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker>||:그러니까, 이건 패러데우스가 아닌 90Wish의 짓이라는 말입니까?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>어... 미안, 설명이 모자랐나 보네. 그 뜻이 아니야. 더러운 일에 관여하긴 했어도, 90Wish는 그저 연구 단체에 불과했어. 단지... 뛰어난 연구 성과는 다른 이들에게 이용당하기 마련이지.</color>+<color=#00CCFF>일단 분석 결과로 알아낸 사실은 이 도시에 90Wish의 작품이 잔뜩 있다는 것뿐이야... 다만, 일부가 내가 수집한 패러데우스의 특징과 일치해.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker>||:그래서 무엇을 말하고 싶으신 것이죠?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>지휘관, 전에 패러데우스에게 납치된 적이 있다고 했지? 그럼... 지휘관은 기억을 못하더라도 아마 그 사람과도 접촉했을 거야.</color>+<color=#00CCFF>만약 90Wish와 패러데우스가 서로 관련되어 있다면, 우리의 상대는 아마... 윌리엄일 거야.</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:윌리엄이요?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>응... 윌리엄 교수. 그도 90Wish의 일원이었어. 하지만... 내가 여태까지 봤던 괴짜들보다도 훨씬 더 괴상한 사람이었지.</color>+<color=#00CCFF>그를 직접 보거나 진짜 목소리를 들어본 사람은 아무도 없어. 그리고 그가 했던 연구는 전부... 소름이 돋는 것들뿐이었어.</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:다... 위험한 연구였나요?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>예를 들자면... 그 난민의 시신 옆에서 발견한 이상한 꽃잎 있지?</color>
+NPC-Persica(0);NPC-Kalin(4)<Speaker>카리나</Speaker>||:네, 보고 받은 화상에서 봤어요.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그건, 우담화의 일종이야...</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker>||:우담화요?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그래, 붕괴 입자를 흡수하는 특이한 식물이야.</color>+<color=#00CCFF>90Wish는 붕괴 복사 정화 기술 개발을 위해 그걸 연구했지만... 결국 실패했어. 대기 중의 붕괴 입자를 흡수하지만, 꽃을 피우는 순간 그때까지 흡수했던 입자를 모조리 방출하거든.</color>+<color=#00CCFF>그래서야 어떻게 정화 도구로 쓸 수 있겠어? 하지만... 윌리엄은 그 우담화를 아주 마음에 들어 했어. 내가 떠나기 전까지도 계속 품종 개량을 하고 있었을 정도로.</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:그렇다면... 아하, 그런 거였군요!
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>깨달았구나. 그래, 이 우담화는 아마 가장 뛰어난 학살 도구 중 하나일 거야.</color>+<color=#00CCFF>패러데우스는 ELID 감염자가 많이 필요하지만, 난민이 제발로 오염지대로 들어갈 리는 없지. 하지만 이 우담화만 있으면 오염이 없어 보이는 함정을 감쪽같이 만들어낼 수 있어.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker>||:어떻게 이런 악랄한 짓을...
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>이것만이 아니야. 아까 인형들이 보낸 화상에서 억지로 조립된 개체도 봤지?</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:어... 그 반기계화된 소녀 말인가요?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>;NPC-Kalin(2)||:<color=#00CCFF>맞아, 니토와 닮은 그거... 개조를 받았지만 결국 실패한 "붕괴 친화체"가 분명해.</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:붕괴 친화체요...?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>;NPC-Kalin(2)||:<color=#00CCFF>90Wish가 주도했던 실험 중에는... 인체 조직과 유적의 입자 제어 설비의 적합도 테스트가 있었어.</color>+<color=#00CCFF>90Wish는, 유적을 만들어낸 문명의 시설은 유전 정보를 통해 사용 권한을 식별한다고 믿었지. 하지만 인체를 포함한 생체 조직은 대량의 붕괴 복사에 노출되면 규소화되어 버려.</color>+<color=#00CCFF>그런데... 90Wish는 규소화가 조금 더디게 진행되는 붕괴 친화체의 존재를 확인했어. 그래서 친화체가 완전히 변이되기 전에 유적을 활성화할 수 있기를 기대했지.</color>
+NPC-Persica(0);NPC-Kalin(4)<Speaker>카리나</Speaker>||:뭐라고요...?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>이 실험은 오직 90Wish의 슈퍼컴퓨터의 시뮬레이션으로만 진행됐어. 실제로 하기엔 너무나도 반인륜적이니까.</color>+<color=#00CCFF>물론... 300만 번에 달하는 시뮬레이션 결과는 전부 실패로 끝났지. 애당초, 유적이 그런 유치한 방식으로 작동할 리가 없었으니까...</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker>||:하지만 그 결과를 납득하지 못하는 자가 있었겠군요.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>특히 윌리엄이 그랬어. 모든 조건이 충족되지 않았기 때문에 실패한 거라면서, 시뮬레이션만으론 안 된다면서... 직접 실험하자고 주장했지. 그런 그가 이렇게 잔인한 짓을 저질렀다 해도 전혀 놀랍지 않아...</color>
+NPC-Persica(0);NPC-Kalin(4)<Speaker>카리나</Speaker>||:그럼, 저 여자애들은 그 실험에 동원되었다가 실패한 니토란 말인가요?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>엘리사는 유적을 깨울 열쇠고, 니토는 유적의 설비와 접촉하기 위한 매개체... 그리고 안젤리아는 어느 세력이 유적을 재가동시키려 한다고 했어. 그럼 모든 단서가 하나로 이어져.</color>+<color=#00CCFF>하지만... 대체 어떤 식으로 목적을 달성할 생각인지... 난 아직도 모르겠어...</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker>||:니토는 전투용으로 만들어진 것이 아니라고요?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그녀들은 윌리엄에게 있어 실패작에 불과해. 그러니... 총알받이로 삼아도 이상할 것 없겠지.</color>+<color=#00CCFF>하지만 그렇다는 건 그의 실험이 아직 성공하지 않았단 뜻이야. 아직 시도 단계에 머물러 있는 것 같아.</color>+<color=#00CCFF>북란도 사건 이후, 붕괴 복사의 영향에 완전히 면역인 개체가 출현한 적이 있어. 어쩌면... 그는 그 "완전면역체"를 만들려고 이런 짓을 벌이고 있는 게 아닐까...</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker>||:종합해 보자면, 탈린시는 윌리엄이란 작자의 실험장에 불과하고, 우리 모두를 실험용 생쥐 취급하고 있다는 거군요.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>지휘관, 나... 불길한 예감이 들어.</color>+<color=#00CCFF>군이 너희를 배신했던 것부터 시작해서, 베오그라드 사건, 그리고 지금 너희가 가 있는 탈린까지... 모든 게 정교하게 설계된 계획처럼 느껴져. 우릴 끌어들여서, 해서는 안 될 일을 하도록 유도하고 있어.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker>||:...조언해 주실 수 있겠습니까?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>미안... 아직 분석이 덜 됐어.</color>+<color=#00CCFF>하지만 그 실패작 니토는 분석할 가치가 있어. 그리고 지금 M4에게 연결을 시도하는 그 신호들... M4에게 무슨 정보를 전달하려는 것 같아.</color>+<color=#00CCFF>겉보기엔 버려진 폐허지만... 도시 전역을 아우르는 방대한 레벨 2 플랫폼 네트워크가 펼쳐져 있어. M4가 그 네트워크에 연결한다면...</color>
+NPC-Persica(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:잠깐만요. M4에게 적과 연결하라는 말씀이세요? 너무 위험하지 않을까요?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>M4는 내가 만든 아이야... 그 애의 성능이라면 그렇게 간단하게 해킹당하지 않아. M4가 해낼 수 없다면, 다른 인형은 더더욱 불가능해.</color>+<color=#00CCFF>하지만... M4는 지금 곤혹스러워하면서 망설이고 있는 것 같아. 조금 전에도... 그 연결에 응답하려다 말았어. 그 애가 무얼 쫓고 있는지는 나도 모르지만, 허락해야 한다고 생각해.</color>+<color=#00CCFF>우린 인간이잖아. 그러니 M4가 올바른 길로 나아갈 수 있도록 인도해 줘야 해.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker>||:그 말씀은 페르시카 씨가 직접 M4에게 말하시는 게 좋을 것 같군요.+이번에야말로, 직접 대화할 준비가 되셨습니까?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>책임을... 져야지.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker>||:알겠습니다. 그럼, 일단 통신을 종료할 테니 마음의 준비를 해 주세요.+M4와 연락이 되는 대로 연결해드리겠습니다.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||<黑屏1>:<color=#00CCFF>알았어. 나머진 부탁할게, 지휘관.</color>
+NPC-Kalin(2)<Speaker>카리나</Speaker>||<BGM>BGM_Empty</BGM><BIN>202</BIN><黑屏2><SE1>AVG_tele_disconnect</SE1>:세상에...
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:페르시카 씨가 이렇게 말을 많이 하신 건 처음이에요...
+NPC-Kalin(2)<Speaker>지휘관</Speaker>||<BGM>BGM_Truth</BGM>:페르시카 씨도 많은 일을 겪었겠지... 모니터 너머로도 흥분한 게 느껴졌어.
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:여태까지 평범한 연구자인 줄만 알았는데... 이렇게나 많은 걸 알고 있을 줄은 상상도 못 했어요.
+()<Speaker>지휘관</Speaker>||:하아... 정말 끔찍한 정보들이군. 하벨 씨의 설명으로 모든 수수께끼가 풀리나 싶더니만, 또 처음으로 되돌아가 버리다니.+카리나, 지금 각 제대의 상황은 어떻지?
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:AR팀은 아직 격리벽을 가동할 방법을 모색 중이라고 해요. 나머지 제대들은 모두 정거장으로 집합을 완료, 물자 보급 중이고요.+그리고... 방금 익명으로 발송된 위성 사진을 받았어요. 확인해 보니 군의 장갑 열차가 이미 이 근처까지 와 있는 상태인데, 어째선지 멈춰 서 있어요. 아무래도 이쪽도 보급을 받는 중인 것 같아요.
+NPC-Kalin(0)<Speaker>지휘관</Speaker>||:그렇다면... 아직 시간이 있군.+AR팀은 분명 벽을 열 방법을 찾아낼 거야. 그러니 각 소대의 보급이 끝나면, "실패작 니토"의 조사를 중점으로 다시 정찰을 내보내도록 해.+페르시카 씨의 말처럼, 나도 아까의 그 간섭과 강제 연결은 관계가 있다고 봐.
+NPC-Kalin(7)<Speaker>카리나</Speaker>||:하지만 제가 보기엔... 탈린시는 그저 거대한 공동묘지 같아 보여요.+정말 여기서 뭔가를 찾아낼 수 있을까요?
+NPC-Kalin(7)<Speaker>지휘관</Speaker>||:그 윌리엄이라는 작자의 속셈이 대체 무엇인지를 밝혀내야 해.+그의 목적을 알아내지 못한다면, 우린 영영 한발 늦으면서 놈에게 끌려다닐 거야.+놈의 손에 놀아나서는 안 돼. 지금 같은 상황에서는 더더욱. 그러기 위해선, 니토에 관한 단서를 최대한 많이 모아야 하겠지. 정찰팀의 임무 분담이 끝나면... AR팀과 연락하자.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||<黑点1>:알겠습니다, 지금 바로 실시할게요.
+DesertEagle(0)<Speaker>데저트 이글</Speaker>||<黑点2><BIN>197</BIN>:그럼, 출발하겠습니다.
+DesertEagle(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:미안해, 돌아오자마자 또 정찰 임무에 보내고...
+DesertEagle(0)<Speaker>데저트 이글</Speaker>;NPC-Kalin(0)||:괜찮아요, 보급도 다 끝냈으니 언제든지 싸울 수 있어요. 그리고 저희도 지휘관님과 같은 생각이에요. 이대로 진실이 묻히게 놔둘 순 없어요.
+DesertEagle(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:응, 우리 모두 힘내자. 방금 드론으로 다른 난민 집합소의 위치를 확인했으니까, 이제부터 부채꼴로 정찰을 진행할 거야.
+DesertEagle(0)<Speaker>데저트 이글</Speaker>;NPC-Kalin(0)||:저희의 임무는 뭔가요?
+DesertEagle(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:지휘관님이 너희는 여기의 지형에 익숙해졌을 테니 선봉을 맡기겠다고 하셨어. 너희를 중심으로 다른 제대들이 대형을 펼쳐서 정찰 범위를 넓힐 거야. 니토와 관련된 정보를 되는대로 많이 수집하되, 전투는 가급적 피하도록 해. 아무리 사소한 단서도 놓쳐서는 안 돼, 알았지?
+DesertEagle(0)<Speaker>데저트 이글</Speaker>||:알겠습니다, 즉시 출발할게요.
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:데저트 이글은 고개를 끄덕인 후, 자신이 이끄는 제대와 함께 열차에서 내렸다.
+()<Speaker></Speaker>||<黑屏2><BIN>159</BIN>:...30분 후.
+ACR(0)<Speaker>ACR</Speaker>||:그런데 말이에요... 우리 모두 신병인데 왜 선봉을 맡긴 걸까요? 다른 인형 제대들도 잔뜩인데...
+DesertEagle(0)<Speaker>데저트 이글</Speaker>;ACR(0)||:툴툴거리지 마, 지휘관님이 우리의 능력을 인정해 주셨다는 뜻이니 좋은 일이잖아?
+DesertEagle(0);ACR(0)<Speaker>ACR</Speaker>||:그건 그렇지만... 잠깐만요, 전방에 기척이 있어요.
+DesertEagle(0)<Speaker>데저트 이글</Speaker>;ACR(0)||<BGM>BGM_Sneak</BGM>:저건... 패러데우스의 신형 유닛인가?
+ACR(0)<Speaker>ACR</Speaker>||:확실히 그렇게 보이지만...+전에 봤던 것들이랑은 좀 다른데요? 왜 저렇게 너덜너덜해 보이죠...? 자율 유닛일까요?
+ACR(0)<Speaker>ACR</Speaker>||:그런데 뭔가를 쫓고 있는 것 같은... 어? 저건 카리나 씨가 집중 조사하라던 니토 아니에요!? 이럴 수가, 니토를 공격하고 있어요!
+AbandonedIsomer(0)<Speaker>？？</Speaker>||:으아악!
+DesertEagle(0)<Speaker>데저트 이글</Speaker>||:저 하얀 유닛... 실험체를 사살하는 거야? 아까 받은 정보에 따르면 같은 편 아니었어?
+SSG3000(0)<Speaker>SSG3000</Speaker>||:저 니토를 도와줘야 할까요?
+ACR(0)<Speaker>ACR</Speaker>||:안 돼요, 저 니토가 적인지 아군인지도 모르잖아요! 게다가 카리나 씨도 되도록 전투를 피하라고...
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:그때, 다른 방향에서 총성이 들려왔다. 총알은 비처럼 쏟아져, 하얀 유닛을 순식간에 파괴했다.
+ACR(0)<Speaker>ACR</Speaker>||:어!? 누가 쐈어요?!
+SSG3000(0)<Speaker>SSG3000</Speaker>||:어... 난 아니야.
+DesertEagle(0)<Speaker>데저트 이글</Speaker>||:그리폰의 신호야. 아군인가? 여기는 데저트 이글, 들리면 응답 바란다.
+M1895MG(0)<Speaker>M1895CB</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여기는 1895. 누군가 했더니 여러분이었군요?</color>
+DesertEagle(0)<Speaker>데저트 이글</Speaker>;M1895MG(0)||:1895구나... 그런데 너 왜 여기 있어? 네 제대는?
+M1895MG(0)<Speaker>M1895CB</Speaker><通讯框>||:<color=#00CCFF>그게... 군장이 너무 무거워서 잠깐 숨 좀 돌리는 사이에, 동료들이 저만 두고 가 버렸어요...</color>
+ACR(0)<Speaker>ACR</Speaker>||:그리폰엔 미아 인형이 왜 이렇게 많이 생기는 걸까요...
+SSG3000(0)<Speaker>SSG3000</Speaker>||:자율 행동 모드니까 뭐... 지휘관님이 직접 지휘하시지 않는 이상은 어쩔 수 없어. 그래도 길 잃은 애들은 어차피 지휘관님이 나중에 다 회수하실 거니까 걱정 마.
+DesertEagle(0)<Speaker>데저트 이글</Speaker>||:잡담은 그만하고, 저 실험체 상태는 어때?
+ACR(0)<Speaker>ACR</Speaker>||:접근해 볼게요... 공격을 받은 후론 움직이지 않아요. 죽은 걸까요?
+M1895MG(0)<Speaker>M1895CB</Speaker><通讯框>||:<color=#00CCFF>한발 늦었나 보네요... 난민 생존자인 줄 알았는데...</color>
+DesertEagle(0)<Speaker>데저트 이글</Speaker>||<BGM>BGM_Empty</BGM>:잠깐만... 누가 통신 회선에서 말하는 것 같지 않아?
+ACR(0)<Speaker>ACR</Speaker>||<SE1>AVG_whitenoise</SE1>:저도 들려요. 그런데 통신으로 말하는 게 아닌 것 같은데요...?
+DesertEagle(0)<Speaker>데저트 이글</Speaker>||:이 느낌... 아까 안개가 꼈을 때 누가 속마음을 엿보던 것 같은 느낌하고 똑같아... 목소리가 점점 뚜렷해지고 있어...!
+()<Speaker>？？</Speaker>||<SE1>AVG_Bell</SE1>:<color=#00CCFF>구...</color>
+ACR(0)<Speaker>ACR</Speaker>||:뭐지?
+()<Speaker>？？</Speaker>||<BGM>m_avg_labyrinth</BGM>:<color=#00CCFF>구해줘... 우리를 구해줘...</color>
+DesertEagle(0)<Speaker>데저트 이글</Speaker>||:해킹인가...? 내가 전자전용 인형이 아니라서 잘은 몰라도, 이거 강제 연결로 신호 전송하는 거 맞지?
+()<Speaker>？？</Speaker>||:<color=#00CCFF>구해줘. 구해줘. 구해줘. 구해줘.</color>
+ACR(0)<Speaker>ACR</Speaker>||:하지만... 구해 달라고만 할 뿐이지, 마인드맵을 직접 공격하진 않네요.
+DesertEagle(0)<Speaker>데저트 이글</Speaker>||:확실히... 그저 도움을 청하기만 하네. 악의는 느껴지지 않아. 하지만 어떻게 구해 달라는 거지?
+SSG3000(0)<Speaker>SSG3000</Speaker>||:어... 대장...? 또 안개가 끼는데요...
+DesertEagle(0)<Speaker>데저트 이글</Speaker>||:왜 갑자기 또 안개가... 모, 몸이 안 움직여...!
+ACR(0)<Speaker>ACR</Speaker>||:저... 저도요... 대장 목소리까지 잘 안 들려요...
+()<Speaker></Speaker>||:앗 하는 사이에, 인형들의 눈에 더는 하늘의 빛이 보이지 않았다.+그리고 자욱한 안개 속에서, 특이한 옷차림의 소녀가 나타났다. 그녀는 꼼짝도 못하는 인형들을 망연자실한 눈빛으로 훑어보고는, 몸을 숙여 더 이상 움직이지 않는 시신을 안아 들었다.
+DesertEagle(0)<Speaker>데저트 이글</Speaker><Shake>||:적의... 두목...?
+NytoIsomer(0)<Speaker>맑은 목소리</Speaker>||:아니, 나는 자격 없는 자일 뿐이야. 꽃밭이 필 때, 우린 받아들여지지 못했어. 또 하나가 떠나갔지만... 적어도 남은 우리를 구해 주길 바라.
+DesertEagle(0)<Speaker>데저트 이글</Speaker>||:무... 무슨... 소리야...+이건... 좌표?
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:소녀는 더는 입을 열지 않고, 그저 안아 든 시신과 함께 다시 안개 속으로 사라졌다.+그 소녀가 멀어지자, 안개가 개고 인형들도 다시 움직일 수 있었다.
+ACR(0)<Speaker>ACR</Speaker>||<BGM>BGM_Sneak</BGM>:이... 이게 어떻게 된 거죠? 안개도 저 사람이 한 짓이었던 거예요? 저렇게 영문을 알 수 없는 적은 처음 봐요.
+ACR(0);DesertEagle(0)<Speaker>데저트 이글</Speaker>||:어쩌면... 적이 아닐지도 몰라. 지금 받은 좌표도 그렇고, 그리고 우리에게 나머지를 구해 달라니...+대체 목적이 뭐지...?
+ACR(0)<Speaker>ACR</Speaker>;DesertEagle(0)||:방금 그 사람이 대장에게 좌표를 줬다고요?
+ACR(0);DesertEagle(0)<Speaker>데저트 이글</Speaker>||:응...
+ACR(0)<Speaker>ACR</Speaker>;DesertEagle(0)||:함정 아닐까요...?
+ACR(0);DesertEagle(0)<Speaker>데저트 이글</Speaker>||:왠지 몰라도, 엄청 슬픈 느낌이었어.+역시, 받은 좌표를 조사해 봐야 할 것 같아.+거기에 지휘관님이 원하시는 게 있을 거란 예감이 들어.
+ACR(0)<Speaker>ACR</Speaker>||:알겠습니다. 이번에도 대장의 예감이 맞으면 좋겠네요.
+DesertEagle(0)<Speaker>데저트 이글</Speaker>||<黑屏1>:좌표를 공유할 테니, 출발하기 전에 지휘관님께 수집한 정보와 함께 전송해 줘. 아무래도... 상황이 더 복잡해진 것 같아. 이 정보가 지휘관님께 도움이 되면 좋으련만...

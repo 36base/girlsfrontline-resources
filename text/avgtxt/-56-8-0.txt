@@ -1,0 +1,150 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>GF_21winter_battle_1</BGM><回忆><SE1>AVG_2022Saros_Gunfight</SE1><narrator>:2051년 케찰코아틀 작전 당시, "죽음의 바다".
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑点2><BIN>547</BIN>:건물과 연결된 관로의 출구.+초연이 자욱한 밖은 아직도 포화가 교차했다.
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_SCARH2</SE1><震屏3><SE1>AVG_Bullet_Drop</SE1>:이를 배경으로, 아마리스는 침착하게 견착한 총의 방아쇠를 당겼다.
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1>:고꾸라진 것은 적 병사였다.
+()<Speaker>아마리스</Speaker>||<SE1>AVG_2022Saros_SCARH3</SE1>:A12 포인트 클리어.
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker><通讯框>||:<color=#00CCFF>수신.</color>
+()<Speaker>아마리스</Speaker>||:엘리아나, 무리야. 더는 전진 못해.
+()<Speaker>아마리스</Speaker>||:...엘리아나? 이봐, 내 말 들려?
+()<Speaker></Speaker>||<SE1>AVG_Bullet_Hit_Wall</SE1><震屏3>:타앙!
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:너머에서 총탄 한 발이 날아오자 아마리스는 바로 몸을 굴렸고, 총탄은 벽을 스치고 멀리 날아갔다.
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=5</controll_shake><SE1>AVG_Gatling_gun</SE1>:하지만 이는 그저 전조였다. 이윽고 더 많은 화력이 그녀의 위치로 쏟아져, 벽과 바닥 가리지 않고 무수한 탄흔을 그렸다.
+()<Speaker></Speaker>||<SE1>AVG_Helicopter</SE1>:설상가상으로, 건물 외부에서 헬리콥터의 로터 소리까지 들렸다.
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:아마리스는 급히 위치를 변경하고, 틈새 사이로 적의 숫자를 가늠했다.
+()<Speaker>아마리스</Speaker>||:......치잇.+엘리아나, 적이 최소 6개 부대가 몰려오고 있어! 저것들 다 놈들의 정예일 거 아니야!
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>버텨라.</color>
+()<Speaker>아마리스</Speaker>||:어떻게!+GPS는 먹통이지, 탄약은 거의 다 떨어졌지, 지원은 안 오지, 아무것도 없다고! 아무것도 없이 어떻게 싸워!
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker><通讯框>||:<color=#00CCFF>이 수밖에 없어, 놈들이 합류하기 전에 돌파해 "사형수"를 붙잡아야만 해!</color>
+()<Speaker></Speaker>||:엄폐물 뒤에 겨우 몸을 숨긴 아마리스에게 그 말은 절망 그 자체였다.
+()<Speaker>아마리스</Speaker>||:무리야... 우리의 쥐똥만한 화력으로 저걸 어떻게 뚫어?!
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker><通讯框>||:<color=#00CCFF>...포기하지 마!</color>
+()<Speaker>아마리스</Speaker>||:제기랄!+위성 통신이 안 끊어졌으면 지휘관도 진작에 퇴각 명령을 내렸을 거야!
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker><通讯框>||:<color=#00CCFF>반응 속도를 7% 높이고, 유효 사격 명중률도 1.5% 상승시킨다면...</color>
+()<Speaker>아마리스</Speaker>||:네 소체 성능 2배로 올려도 무리야!
+()<Speaker>아마리스</Speaker>||<SE1>AVG_tele_connect</SE1>:유라! 나 대신 저 미치광이 좀 말려 봐!+유라! ...유라?
+()<Speaker></Speaker>||:통신기에서 대답이 없었다.
+()<Speaker>아마리스</Speaker>||:유라? 대답해 유라! 유라 언니!
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:"서광" 시스템에서 유라의 이름이 회색으로 변했다.+그리고 그것이 [말소]로 변하는 것도 똑똑히 보았다.
+()<Speaker>아마리스</Speaker>||:<size=50>엘리아나!!!</size>+너 지금 정신 어따 뒀어, 유라랑 같이 있었잖아!!
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker><通讯框>||<SE1>AVG_2022Saros_SCARL1</SE1>:<color=#00CCFF>반드시 돌파해야 해... 반드시 임무를 완수해야만 해...!</color>+<color=#00CCFF>서광 팀, 돌격한다! 절대 물러서지 마라!!</color>
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_SCARL3</SE1>:엘리아나가 총을 들고 번개처럼 돌진했다.
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker><通讯框>||:<color=#00CCFF>아마리스, 엄호!</color>+<color=#00CCFF>아마리스?</color>
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_Explosion</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:회전하는 포탄이 허공을 가로질러 돌풍을 몰고 날아들었다.
+()<Speaker></Speaker>||<SE1>AVG_tinnitus_0</SE1><BGM>BGM_Empty</BGM>:찰나의 시간이 영원처럼 느껴졌고, 이명이 맹렬하게 귓가를 때렸다.
+()||<白屏1>:
+()<Speaker></Speaker>||<BIN>183</BIN><白屏2><关闭蒙版>:엘리아나는 지금도 그 순간, 중앙 홀 바깥으로 보인 시뻘겋게 물든 하늘을 기억한다.+그리고, 눈부신 하얀 섬광도.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:......
+()<Speaker></Speaker>||:............
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>357</BIN>:베를린, 그리폰 임시 기지의 지휘실.
+()<Speaker>지휘관</Speaker>||:......+그리고 너희는 아무 지원도 없이 그 방에 접근했다고?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:네, 마지막에 저는 그 방 내부로 진입했습니다.+그리고 작전에 실패했습니다.
+()<Speaker></Speaker>||:방은 잠시 침묵에 빠졌다.
+()<Speaker>지휘관</Speaker>||:...엘리아나.
+()<Speaker></Speaker>||:엘리아나가 지휘관의 복잡한 표정을 바라봤다.
+()<Speaker>지휘관</Speaker>||:솔직하게 털어놔 줘서 정말 고맙다.+네 정보는 나에게, 그리고 우리 그리폰에게 아주 중요한 정보야.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:"사형수" 때문입니까?
+NPC-SCAR-L(0)<Speaker>지휘관</Speaker><同时置暗>||:그 "사형수"란 자가 누군지, 거기서 뭘 했는지는 모르지만...+"죽음의 바다"와, 그곳의 부유하는 건물에 대해서는... 그래, 잘 알고 있지.+그 건물은 지금은 "아베르누스"란 이름으로 불리워.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:...그렇다면 "사형수"도 여전히 살아있을 확률이 매우 높겠군요.
+NPC-SCAR-L(0)<Speaker>지휘관</Speaker><同时置暗>||:모스크바는 아마 그점을 염두에 두고 너를 우리에게 보냈을 거야.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<BGM>GF_21summer_avg_Reunion</BGM>:즉... 임무는 아직 끝나지 않았다...
+()<Speaker></Speaker>||:살짝 고개를 들고 눈을 감은 엘리나아의 얼굴은 어째선지 희비가 뒤섞인 듯한 표정이었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 그런 엘리아나에게 다가가, 어깨에 손을 얹었다.
+()<Speaker>지휘관</Speaker>||:네가 충성을 바치던 대상은 더는 존재하지 않아. 더 이상 과거에 얽매이지 않아도 돼.+계기가 어떻든, 네가 그리폰에 오게 되어 나는 정말 기뻐.+하지만 명심해야 할 점은, 너의 시대로부터 13년이나 지났지만 세상엔 여전히 어둠이 드리워 있고, 서광은 도래하지 않았다는 거야.+우리의 사명은 아직 끝나지 않았고, 네 빛도 아직 사그라들지 않았지.+새로운 세상을 위해, 우리와 함께 싸워 줄 수 있을까?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:엘리아나는 가볍게 쥔 주먹을 가슴에 얹고, 숙연한 얼굴로 답했다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:기꺼이.+그리폰을 위해, 새로운 세상을 위해... 도래할 서광을 위해, 충성을 다하겠습니다.
+NPC-SCAR-L(0)<Speaker>지휘관</Speaker><同时置暗>||<SE1>Rope</SE1>:지휘관은 엘리아나의 어깨를 토닥이며 흡족하게 고개를 끄덕였다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:...대신, 부탁드리고 싶은 것이 있습니다.
+NPC-SCAR-L(0)<Speaker>지휘관</Speaker><同时置暗>||:무엇이지?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:페르시카 연구원이 저의 상태를 말했겠죠?
+NPC-SCAR-L(0)<Speaker>지휘관</Speaker><同时置暗>||:아, 기반 설정에 있다는 프로그램 말이구나.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:네... 제가 말씀드렸던 "군번줄"...+그것이 제게 내린 마지막 명령은 "배신자 숙청"입니다.
+NPC-SCAR-L(0)<Speaker>지휘관</Speaker><同时置暗>||:배신자라니, 누구? 어디 있는데?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:염려 마십시오, 이미 찾아냈습니다. 하지만 이 일은 저의 일입니다.+그러니 이 일을 제 손으로 처리할 수 있도록 허가해 주십시오.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:지휘관은 잠시 고민했다.
+()<Speaker>지휘관</Speaker>||:네 의지가 그렇다면... 알았어, 허가할게.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>548</BIN><BGM>BGM_Empty</BGM><睁眼>:사모가 다시 눈을 떴을 때 보인 것은, 벌써 익숙해질 대로 익숙해진 천장과 방이었다.
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:......?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:셰릴은 침대 옆에 쪼그려서 젖은 수건으로 아주 성심성의껏 사모의 몸을 닦아 주고 있었다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:아, 깼어?+어때, 어디 불편한 덴 없고?
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:...꿈이네.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:사모는 다시 눈을 감았다.
+()<Speaker>셰릴</Speaker>||:...케이블 꽂아 뒀잖아, 당장 눈 떠.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>548</BIN><睁眼>:다시 눈을 감았다 떠도 여전히 익숙한 천장과 방.+하지만 매번 잡아먹을 듯이 노려보던 셰릴이 지금은 다정하기 그지없는 얼굴이니, 사모가 어리둥절한 것도 당연했다.
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:......+내가 없는 동안 무슨 일 있었어?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:세릴이 똑같이 생긴 탄피 2개를 사모의 눈앞에 들이밀었다.
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:뭐야?
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:...기억 안 나?
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:아아 그거... 적당한 데다 버리라고 안 했어?
+()<Speaker></Speaker>||:셰릴의 텐션이 확 떨어지면서 엄청 서운한 목소리로 툴툴댔다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:진짜... 진짜 기억 안 나? 나한텐 엄청 중요한 일인데...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:왠지 울먹이는 듯한 목소리를 뒤로, 셰릴은 두 손으로 눈을 가렸다.
+()||<黑屏1>:
+()<Speaker>셰릴</Speaker>||<黑屏2><BIN>9</BIN>:언니...+나... 눈이 안 보여...
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1><SE1>Heartbeat</SE1>:그 모습을 본 사모의 마인드맵 깊숙이에서 불현듯 어린애들의 울음소리가 들려왔다. 흐릿한 얼굴의 아이들이 나타나, 엄마 아빠가 보고 싶다 울며 달라붙었다.+신경이 곤두선 병사들은 울음을 그치지 않는 그들 사이를 매정하게 지나치며, 그저 대피시키기만 할 뿐 아무도 그들 중 한 명에게 관심을 가지지 않았다.+마찬가지로 눈물 콧물 범벅이지만, 어째선지 혼자서 구석을 더듬는 아이를.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Scar_Shenzhizi</BGM><回忆><BIN>469</BIN>:■■■■년 ■■월 ■■일 ■■시, ■■■에서 진행됐던 작전명 ■■■.+그날, ■■는 한 교실... 아니, 교실이었던 방에 있었다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:그녀의 손은 얼굴이 흐릿한 어린아이에게 단단히 붙들려 있고, 아이는 그녀에게서 눈을 떼려 하지 않는 듯했다.
+()<Speaker>？？？</Speaker>||:언니, 나 두고 가면 안 돼...
+()<Speaker>■■</Speaker>||:안 두고 가.+밖으로 나가려면 우리 차례가 아직 좀 멀어서 기다려야 하니까, 우선 네 이름 알려 줄래?
+()<Speaker>셰릴</Speaker>||:내 이름... 난 셰릴...
+()<Speaker>■■</Speaker>||:셰릴이라, 예쁜 이름이네~ 기억해 둘게.
+()<Speaker>셰릴</Speaker>||:근데 왜 언니는 이름 안 알려 줘...?
+()<Speaker>■■</Speaker>||:언니 이름은 남이 알면 안 되는 거라서.
+()<Speaker>셰릴</Speaker>||:왜?
+()<Speaker>■■</Speaker>||:으음... 복잡한 어른의 사정이라고나 할까, 셰릴한텐 설명하기가 좀 어렵겠는걸.
+()<Speaker>셰릴</Speaker>||:어... 그럼 있잖아, 나 눈이 나으면 어떻게 언니를 보러 가?
+()<Speaker>■■</Speaker>||:으응? 이걸 어쩌나... 그러면 말이지...
+()<Speaker></Speaker>||<SE1>AVG_Zipper</SE1>:■■가 난처해하며 자신의 몸을 더듬었다. 수류탄, 섬광탄, 대검... 어느 것도 어린아이에게 줄 만한 것이 아니었다.
+()<Speaker></Speaker>||:결국, ■■는 자신이 쏘고 바닥에 떨어진 탄피 하나를 주워 훅 불고 슥슥 먼지를 닦았다.
+()<Speaker>■■</Speaker>||<SE1>ClothingUp</SE1>:이걸 줄게.
+()<Speaker>셰릴</Speaker>||:이게 뭐야? 차가운 막대기 같아...
+()<Speaker>■■</Speaker>||:이건 내가 엄청 자주 쓰는 물건이야.
+()<Speaker>셰릴</Speaker>||:그렇구나! 알았어, 소중히 간직할게!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>548</BIN><关闭蒙版>:......
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:뭐야, 왜 또 멍때려? 진짜 기억 안 나?
+NPC-SCAR-H(1)<Speaker>사모</Speaker>;NPC-Cheryl(0)<Position>0,-100</Position>||<SE1>ClothingUp</SE1>:내가 마인드맵이 좀 혼란스러워서...
+NPC-SCAR-H(1);NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:그럼 내가 문제 몇 개 낼 테니까 맞춰 봐!
+NPC-SCAR-H(1)<Speaker>사모</Speaker>;NPC-Cheryl(1)<Position>0,-100</Position>||:...그러지 뭐.
+NPC-SCAR-H(1);NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:나를 처음 만났던 날의 날씨는?
+NPC-SCAR-H(1)<Speaker>사모</Speaker>;NPC-Cheryl(1)<Position>0,-100</Position>||:그게 아마... 맑은 날이었나?
+NPC-SCAR-H(1);NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:정답!+그럼 다음 문제, 그때 내가 입었던 옷의 색깔은?
+NPC-SCAR-H(1)<Speaker>사모</Speaker>;NPC-Cheryl(0)<Position>0,-100</Position>||:어... 좀 어두운 색이었던가?
+NPC-SCAR-H(1);NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:맞아맞아, 난 그때 복숭아색 원피스를 입고 있었어!
+NPC-SCAR-H(1)<Speaker>사모</Speaker>;NPC-Cheryl(0)<Position>0,-100</Position>||:전혀 안 어두운 색인데...
+NPC-SCAR-H(1);NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:그럼 마지막 문제, 날 만난 곳은 어디?
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:......교실.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그 대답에 셰릴이 감격에 벅차올라 떨리는 목소리로 사모의 손을 덥석 잡았다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:기억하는구나... 기억하는구나 언니!+14년 전 12월 1일에, 엄청 추워서 싸락눈 내리던 날이었어!+그때 난 베를린 시립 초등학교에서 수업 중이었는데, 갑자기 나쁜 놈들이 쳐들어와서 난장판이 되는 바람에 기절했다 깨어나니까 눈이 안 보였는데...
+NPC-SCAR-H(1)<Speaker>사모</Speaker>;NPC-Cheryl(0)<Position>0,-100</Position>||:............
+NPC-SCAR-H(1);NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:그때... 그때 언니가 날 구해줬어.
+NPC-SCAR-H(1)<Speaker>사모</Speaker>;NPC-Cheryl(0)<Position>0,-100</Position>||:............
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:언니...
+()<Speaker></Speaker>||<SE1>Rope</SE1>:셰릴이 여전히 사모의 손을 잡고서 검지를 앞으로 펴 사격 파지법을 흉내냈다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:이건 기억나? 그때 내가 자꾸 우니까 언니가 나 달래려고 이렇게 내 손 잡고 총 쏘는 법 가르쳐 줬잖아.+이렇게 내 손 잡고, 같이 방아쇠 당겨보던 감각이 아직도 내 손가락에 선명해.
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:"내"가 너한테 사격법을 가르쳐 줬다고...?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:사모는 붙잡힌 자신의 손을 뽑아 눈 앞에 펴보며 되물었다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:그동안 무슨 일이 있었는진 몰라도...+언니가 이런 꼴이 된 거 보니까... 엄청 속상하다...
+NPC-SCAR-H(1)<Speaker>사모</Speaker>;NPC-Cheryl(0)<Position>0,-100</Position>||:......
+NPC-SCAR-H(1);NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:그, 그래도 이렇게 언니랑 다시 만나게 돼서 얼마나 기쁜데! 세상에 어떻게 이런 우연이――+아니지, 세상에 우연이란 없어! 이건 분명 운명이야! 운명이 우릴 다시 이어 준 거야!
+NPC-SCAR-H(1)<Speaker>사모</Speaker>;NPC-Cheryl(0)<Position>0,-100</Position>||<BGM>BGM_Empty</BGM>:...사실, 하나 고백할 게 있어.
+NPC-SCAR-H(1);NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:응?
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||<BGM>GF_Swim_Marnie</BGM>:네가 주문한 원래 인형... 그거 아직 그 가게에 있어.+포장할 때 내가 나로 슬쩍 바꿔치기한 거야.
+NPC-Cheryl(2)<Speaker>셰릴</Speaker><Position>0,-100</Position><Shake>0.1</Shake>||:<size=50>아 XX 그럴 줄 알았어!!</size>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:순간 폭발한 셰릴이 쓰으읍 숨을 들이마셨다.+그리고 힘겹게 미소를 지어보였지만, 차라리 울상인 게 나을 정도로 밉상이었다.
+NPC-Cheryl(2)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:괘... 괜찮아 언니... 신경 안 써...+그, 그동안 언니를 보관해 준 값이라 치지 뭐...
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:그때 참 통도 크게 질렀길래, 돈 많은 호구인 줄 알았는데 말이지...
+NPC-Cheryl(2)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:쓰으읍... 진정하자 진정해애애...
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Close</SE1><BGM>BGM_Empty</BGM>:셰릴은 사모를 닦고 난 수건과 구정물을 들고 방을 나섰다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그 뒷모습을 물끄러미 보던 사모는 시선을 다시 익숙한 천장으로 향했다.
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:눈이 안 보인다던 여자애... 그건 누구의 기억이지...
+()<Speaker></Speaker>||:그리고 다시 천천히 눈을 감았다.
+()||<黑点1>:

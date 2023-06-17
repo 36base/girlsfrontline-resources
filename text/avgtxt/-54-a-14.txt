@@ -1,0 +1,65 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:......
+()<Speaker></Speaker>||:15분 전.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐이...+통신 연결.
+()<Speaker>？？？？</Speaker>||:<color=#00CCFF>"밤별", "밤별", 2차 확인이 필요하다.</color>+<color=#00CCFF>귀측의 좌표를 말해라, 이상.</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||<SE1>AVG_keyboardtype_sci</SE1>:위도 52.2495, 경도 19.0118.+좌표 발송했다, 이상.
+()<Speaker>？？？？</Speaker>||:<color=#00CCFF>좌표 받았다, 확인 완료. 15분 내로 도착 예정, 이상.</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:민간인 생존자도 있으니 이송할 준비도 하도록, 이상.
+()<Speaker>？？？？</Speaker>||:<color=#00CCFF>알았다, 이상.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+통신 종료.
+()<Speaker></Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><Night><BGM>10247</BGM><BIN>1</BIN>:폭격의 불길은 지나는 모든 것을 집어삼켜, 지저분한 땅째로 새하얗게 불태웠다.
+()<Speaker>루슬란 2세</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>"밤별", 여기는 "루슬란 2세".</color>+<color=#00CCFF>지정 타격 완료, 다음 지시 대기 중이다.</color>+<color=#00CCFF>다만 공중 시야가 없어 유도가 필요하다, 이상.</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:여기는 "밤별".+유도 드론 가동하겠다, 이상.
+()<Speaker></Speaker>||<SE1>AVG_Jet_Passby</SE1>:그 말과 함께 커다란 무인기가 류드밀라의 머리 위로 떠올랐다.+그리고, 사냥꾼의 머리 위를 맴도는 매처럼 적을 탐색했다.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||<SE1>AVG_tele_connect</SE1>:"밤별", 1차 유도. 이상.
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><SE1>Explode</SE1><SE1>AVG_Bomber_Napalm</SE1>:백린탄이 섬광과 함께 숲을 불태웠고, 치솟는 불길 아래 폭격에 직격한 탱크는 그자리서 고철이 되었다.+비는 그쳤으나 먹구름은 아직 개이지 않은 이때가 루슬란의 사냥 시간이었다.
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:콰앙!
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:...2차 유도. 이상.
+()<Speaker></Speaker>||:다만, 기갑 부대의 규모가 겨우 이 정도일 리 없었다.+분명 어딘가에 다른 포격 진지가 있을 터였지만, 현재 위치에서는 보이질 않았다.+호버링하던 류드밀라의 무인기는 저공 비행으로 쏜살같이 숲으로 날아갔다.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:1차 지정 타격 이후 벌써 90초나 지났는데...+놈들에게 다른 포격 진지가 있다면, 왜 반격하지 않지?
+()<Speaker></Speaker>||:이윽고 엄습해 온 불길함에 류드밀라의 눈꺼풀이 움찔했다.
+()<Speaker></Speaker>||<SE1>AVG_Camera_Focus</SE1>:무언가의 낌새가 느껴져 무인기의 고도도 낮췄다. 그리고――
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:3차――
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>Battlefield</SE1>:슈우우——
+()<Speaker></Speaker>||:――왔다.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=5</controll_shake>:류드밀라는 즉시 방어 태세를 취했다.
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰아앙!!!
+()<Speaker></Speaker>||<BGM>10082</BGM><SE1>AVG_lifttable</SE1>:멀리서 날아온 포탄이 열차의 머리 옆면에 정확하게 꽂혀, 그 충격과 폭발로 뒤집혔다.+튀어오르는 흙더미와 피는 한데 뒤섞여 먼지구름이 되었다.+그리고 열차 머리의 지붕에 서 있던 류드밀라는 이 충격으로 튕겨나가, 날개가 부러진 새처럼 진흙탕 위를 굴렀다.
+()<Speaker></Speaker>||<SE1>AVG_tinnitus_0</SE1>:지이이잉——
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:류드밀라는 비틀대며 몸을 일으켰다.+그녀가 몸으로 감쌌던 전술 태블릿은 망가지진 않았지만 화면에 노이즈만 남았다.+표적 지시용 유도 드론이 추락했단 뜻이었다.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1><SE1>AVG_tele_connect</SE1>:삐빅.+잡음이 심해진 통신기로 2차 선회 비행에 들어선 "루슬란 2세"의 통신이 들어왔다.
+()<Speaker>？？？？</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>"밤별", 여기는 루슬란. 유도 드론의 신호가 사라졌다.</color>+<color=#00CCFF>공격을 계속하려면 유도가 필요하다, 이상.</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:...알았다, 선회 비행 유지하라. 이상.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:그녀가 상대를 찾던 것처럼, 상대도 그녀의 무인기를 찾고 있었다.+그리고 지금, 서로가 서로의 위치를 간파했다.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:...저게 아마 마지막 중화력이겠지.
+()<Speaker></Speaker>||:지원이 아직 도착하지 않았으니, "루슬란 2세"의 화력을 최대한으로 활용해야 했다.+하지만 공중 유도가 없으니, 지상에서 직접 유도해야만 했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:자세를 바로잡고, 류드밀라는 파우치 안을 뒤져 남은 적외선 지시등을 전부 꺼내 들었다.
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:왼손, 오른손, 어깨, 이마... "루슬란"에게 또렷하게 보이게끔, 지시등을 전부 몸에 붙였다.+가까이의 보병 소대는 이미 궤멸했고, 허둥지둥 퇴각하는 잔존병만 보였다.+여기까지 와서 쓰러질 수 없었다.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||<SE1>AVG_tele_connect</SE1>:"루슬란"... "밤별"이 아군 표식으로 유도하겠다, 지금 이동한다.+범위 타격 준비하라, 이상.
+()<Speaker></Speaker>||<SE1>RunStep</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=5</controll_shake>:......
+()||<黑点1>:
+()<Speaker>파일럿</Speaker>||<黑点2><关闭蒙版><BIN>40</BIN>:............
+()<Speaker>파일럿</Speaker>||<SE1>AVG_21Winter_Click_Keyboard</SE1>:...적외선 지시등 확인, 이동 목표 확인 완료.+화력 통제 명령 확인, 타격 실시하겠다.+발사 유닛, 페룬 4발. 목표 번호 G41507.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_Explosion</SE1>:슈우웅——+<size=50>콰아앙——!!!!</size>
+()<Speaker></Speaker>||<SE1>AVG_Explo_Distance</SE1>:콰아앙!!!
+()<Speaker>파일럿</Speaker>||:...2차 타격 종료, 이동 목표 관불.+지상에서 확인바란다, 이상.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐이이......
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐이이......
+()<Speaker>파일럿</Speaker>||:...FO 신호 두절. 복귀하겠다, 이상.
+()||<黑屏1>:
+()<Speaker>파일럿</Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_Bomber_Flying</SE1>:임무 완료.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>99</BIN><Night><SE1>AVG_20Winter_Burnfire_Loop</SE1>:쿠우우...+드넓은 대지를 뒤흔들던 총성과 폭음이 멎었다.+불길에 타올랐던 숲은 이따금씩 타닥타닥 소리를 내어, 어두운 한밤중의 심심한 장식이 되었다.+오늘, 이곳, 이 순간.+마침내 모든 것이 조용해졌다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><关闭蒙版><SE1>Stop_AVG_loop</SE1>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>202</BIN><黑屏2><narrator>:포즈난 동부 레드존, "엘모 호".
+MLEMK1Mod(0)<Position>0,150</Position><Speaker>리엔필드</Speaker><Position>0,70</Position>||<SE1>AVG_keyboardtype_sci</SE1>:...목표의 방위에 편차가 있다.
+98KMod(0)<Speaker>Kar98K</Speaker>||:하지만 "밤별"의 정보는 틀림없을 텐데요.
+MLEMK1Mod(0)<Position>0,150</Position><Speaker>리엔필드</Speaker><Position>0,70</Position>||:ELT 신호는 여전해.
+98KMod(0)<Speaker>Kar98K</Speaker>||:...그렇다면 가능성은 하나군요.+ELT 신호가 위조된 거예요.
+MLEMK1Mod(0)<Position>0,150</Position><Speaker>리엔필드</Speaker>||:알았다. 지휘관에게 지도 신호에 오류가 확인됐고, 적의 교란 설비 운용이 의심된다 보고하겠다.
+()||<黑点1>:

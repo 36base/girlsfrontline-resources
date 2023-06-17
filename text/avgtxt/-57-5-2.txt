@@ -1,0 +1,232 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:망했다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>586</BIN>:그것이 당신이 심사숙고 끝에 내린 결론이었다.+망했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:야심차게 준비 중인 라이브 하우스 앞에서 당신은 넋이 나가 전화기를 쥔 손을 떨궜고, 수화기 너머에선 사쿠라가 패닉에 빠져 "우야꼬 우야꼬" 하는 소리가 계속 들렸다.
+()<Speaker>지휘관</Speaker>||:하아......
+()<Speaker></Speaker>||:오늘이 바로 프랑슈슈 최후의 날이 되는 것일까.
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:헛웃음이 나올 정도로 허탈해진 당신은 바닥에 주저앉아 시간을 다시 확인했다.+공연 시작까지, 앞으로 30분.
+()<Speaker>지휘관</Speaker>||:30분...+무슨 수를 써도 늦어...
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:그래도 혹시나 싶어, 항상 휴대하는 사가 지도를 꺼내 전략을 짜고자 머리를 최대로 굴렸다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:먼저, 편의점.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>380</BIN><BGM>Campaion-34</BGM>:타에와 사쿠라는 지금 편의점의 창고에 갇혀 버렸다.+원래대로라면 편의점 알바를 끝낸 타에를 사쿠라가 마중해 함께 공연장으로 왔어야 했다.+헌데 하늘도 무심하게...
+()||<黑点1>:
+NPC-Sakura(5)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<黑点2><BIN>9</BIN>:지휘관! 우, 우리 창고에 갇혀 뿌렀어요!
+NPC-Tae(6)<Speaker>야마다 타에</Speaker><Position>0,-340</Position><Scale>1.4</Scale>||:아아... 어어어... (상황 파악 못 하는 중.)
+NPC-Sakura(7)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:타에가 물건 나르는 걸 좀 도와주려다가 그만...+고개 잠깐 돌렸다가 창고 문이 잠겨 뿌렀어야! 타에가 들이받아도 안 열려요!+우야꼬 우야꼬 우야꼬!!
+()<Speaker></Speaker>||<SE1>AVG_engine_speedup</SE1>:사쿠라가 초조함에 막 뛰기 시작했고, 여전히 사태 파악이 안 된 타에도 덩달아 같이 뛰면서 창고 안에 초소형 허리케인이 생성됐다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>582</BIN>:니카이도 사키는 치킨집에 발이 묶인 상태였다.+원래대로라면 바이크로 그냥 지나가는 지점으로, 공연장까지 고작 10분 거리였다.+헌데 하늘도 무심하게...
+()||<黑点1>:
+NPC-Saki(3)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<黑点2><BIN>9</BIN>:아 내 탓 아니여! 왔더니 분위기 장난 아닌 걸 우짜라고!+주변 사람들이 말려도 듣질 않는다길래 부상자 나올까 극정대서 내가 껴들어서 한소리 좀 했더니...+이 자식들 나까지 끌어들였다고!
+()<Speaker></Speaker>||:하필이면 이럴 때, 험악한 분위기로 대치 중이던 두 폭주족 무리와 마주쳤다 그대로 휘말려 버린 것이었다.
+NPC-Saki(3)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:나보고 이놈들 리더랑 결판을 내라 시비 터는디 이걸 어케 참아!?
+NPC-Saki(5)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:후딱 해치우고 갈 테니께 쫌만 기다리고 있어! 끊어!
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:사키가 호쾌하게 전화를 끊어버렸다. 정말 결판을 내고 올 셈인 것 같았다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>605</BIN>:유우기리와 릴리는 저택에서 발을 동동 구르고 있었다.+원래대로라면 프랑슈슈의 공연복을 가지고 공연장으로 돌아올 예정이었다.+헌데 하늘도 무심하게...
+()||<黑点1>:
+NPC-Lily(5)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<黑点2><BIN>9</BIN><SE1>AVG_Heart_beat</SE1>:히이잉... 릴리 분명 거기다 옷 뒀다니까!+리허설하러 가기 전에 릴리가 직접 확인까지 했는데...+돌아와서 보니까 없어졌어!
+NPC-Yugiri(1)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:울지 말고 진정하시와요. 침착하게 한 번 더 찾아보도록 해요.+분명 어딘가에 공연복이 있을 거예요...
+NPC-Lily(8)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:훌쩍... 그치만 벌써 일곱 번이나 뒤져봤는데...
+()<Speaker></Speaker>||<SE1>AVG_flag</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=6</controll_shake>:공연복이 감쪽같이 사라져서, 둘이 현재 맨틀까지 파낼 기세로 찾고 있었다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>581</BIN><SE1>Stop_AVG_loop</SE1>:아이와 준코는 안무 연습장에 발이 묶인 상태였다.+원래대로라면 마지막 안무 체크를 마치고 공연장으로 올 예정이었다.+헌데 하늘도 무심하게...
+()||<黑点1>:
+NPC-MizunoAi(3)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||<黑点2><BIN>9</BIN>:지휘관! 당장 파운데이션 하나 보내 줄 순 없어?
+NPC-Junko(7)<Speaker>콘노 준코</Speaker><Position>60,-90</Position><Scale>1.27</Scale>||:죄송해요, 제 실수 때문에...
+()<Speaker></Speaker>||:준코가 언제 바닥에 쏟아졌는지 모를 클렌징 워터에 미끄러져 화장이 벗겨지고 말았다.+게다가 바깥에 사람들이 많아 함부로 나올 상황이 아니었다.
+NPC-Junko(10)<Speaker>콘노 준코</Speaker><Position>60,-90</Position><Scale>1.27</Scale>||:아이 양 먼저 가세요, 여기서 시간 낭비 말고...
+NPC-MizunoAi(1)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||:안 돼! 우린 한팀이야, 누구 한 명도 빠져서는 안 된다고!
+()<Speaker></Speaker>||:아이는 화장이 지워진 준코를 데리고 좀비임을 들키지 않으면서 행인들을 돌파에 공연장에 와야만 했다.
+()||<黑点1>:
+()<Speaker>지휘관</Speaker>||<黑屏2><BIN>586</BIN><SE1>AVG_20Winter_Book</SE1>:......
+()<Speaker></Speaker>||<SE1>Rope</SE1>:당신은 이 급성 스트레스의 파도에 머리를 쥐어뜯었다.+이번 라이브에 실패한다면 프랑슈슈는 그대로 파멸을 맞게 될 터였다.+그런데 어느 쪽도 해결하기엔 시간이 턱없이 모자랐고, 한 쪽을 해결한다 해도 그들만으로 공연을 할 순 없는 노릇이었다.
+()<Speaker>지휘관</Speaker>||:사람 살려...
+()<Speaker></Speaker>||:벌써부터 앞으로 며칠간 신문 1면에 실릴 내용이 눈앞에 아른거렸다.
+()||<黑点1>:
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Camera_Flash</SE1><黑点2><BIN>9</BIN>:"충격! 지방 아이돌 프랑슈슈, 월드 클래스 그레이 트리를 상대로 거만한 노쇼!?"+"마지막 그날 밤, 지리멸렬한 프랑슈슈는 무얼 하고 있었나?"+"프랑슈슈 3호, 4호의 농성을 목격했다는 증언......"
+()<Speaker>지휘관</Speaker>||<SE1>AVG_Wonder</SE1><震屏3><BIN>586</BIN><SE1>AVG_Punch_Hit</SE1>:아냐 아냐 아냐 이럴 순 없어!
+()<Speaker>지휘관</Speaker>||<SE1>AVG_Punch_Hit</SE1><震屏3>:방법이 있을 거야! 빨리, 뭐라도 해야 해!
+()<Speaker>지휘관</Speaker>||<SE1>AVG_Punch_Hit</SE1><震屏3>:<size=50>멀리 내다봐! 좀 더 넓게 봐!</size>
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<SE1>ClothingUp</SE1>:저기요, 거기서 뭐하십니까?
+()<Speaker></Speaker>||:당신이 벽을 연타하던 중 누가 붙잡았다.
+()<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1>:나 좀 냅둬!
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:펑크는 나중에 하시고, 그레이 트리의 인터뷰가 끝났으니까 이제 프랑슈슈 차례입니다.
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:...헉.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:왜 그러십니까? 시작 전 인터뷰 있을 거라고 미리 고지했잖습니까.
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:어... 그게, 지금 좀 사정이 생겨서...
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:선곡이 겹쳤나요? 악기에 문제 생겼습니까? 아님 멤버 중에 갑자기 배탈 난 사람이라도...?
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:다... 다 아니야...
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:그럼 설마 누가 어디 갇혀서 못 온다는 건 아니겠죠? 하하하...
+()<Speaker>지휘관</Speaker>||:............
+()<Speaker></Speaker>||:스크립터의 상큼한 웃음 소리가 점점 작아졌다.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:<size=50>아니지!?</size>
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:아니야...
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:휴, 깜짝 놀랐네.
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||<BGM>BGM_Empty</BGM>:모두, 각자, 다른 장소에, 갇혀 버렸어...
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:......
+()<Speaker></Speaker>||:당신은 리허설이 끝나고 모두에게 무슨 일이 생겼는지를 전부 스크립터에게 설명했다.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<BGM>m_wv_title</BGM>:그게 무슨 소리야?! 지금 공연 시작까지 30분도 안 남았는데 죄다 못 온다고!?
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale><Shake>0.1</Shake>||<SE1>AVG_Punch_Hit</SE1><震屏3>:<size=50>근데 닌 짐 여서 뭐하는 기가!? 빨랑 움직여야 할 꺼 아니여!!</size>
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:......어디부터 가야 하지?
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:......
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:왠진 몰라도 당신보다 스크립터가 더 안절부절 못했다. 30초가량 제자리서 뜀걸음을 하던 그는 갑자기 우뚝 멈추더니, 기록판을 당신에게 휙 던졌다.
+()<Speaker>스크립터</Speaker>||:내가 어떻게든 해보겠어! 넌 시간을 끌어라!
+()<Speaker>지휘관</Speaker>||:뭣... 못 오면 어떡하고?
+()<Speaker>스크립터</Speaker>||:프랑슈슈를 믿어라! 반드시 올 테니까!
+()<Speaker>스크립터</Speaker>||:<size=50>부탁한다! 어떻게든 1초라도 더 시간을 끌어!!</size>
+()||<黑点1>:
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1><BIN>417</BIN><黑点2>:백스테이지는 프랑슈슈의 늦장으로 혼란의 도가니였다. 당신은 용기를 내어, 이 소용돌이의 한가운데에 있는 총괄 책임자에게 다가갔다.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:여기서부터는 당신에게 달렸다. 어떡해서든 프랑슈슈가 돌아올 때까지 시간을 벌어야 한다...<c>A. 애걸복걸<c>B. 오만방자<c>C. 횡설수설<c>D. 오두방정
+()<Speaker>총괄 담당</Speaker>||<分支>2</分支>:프랑슈슈 아직 안 왔습니까?
+()<Speaker></Speaker>||<分支>2</分支>:당신을 바라보는 책임자는 눈에서 빔이라도 쏠 것만 같았다.
+()<Speaker></Speaker>||<分支>2</分支><SE1>ClothingUp</SE1>:이에 당신은 세상 하찮다는 듯 짝눈을 뜨고 팔짱을 꼈다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:뭘 재촉하십니까? 월드 클래스 록 밴드는 툭하면 지각하는 거 몰라요?+시간 약속 꼬박꼬박 지키는 건 전혀 ROCK하지 않아요.
+()<Speaker>총괄 담당</Speaker>||<分支>2</分支>:아니 이 사람이 뭔 똥폼이야!?+내가 록 콘서트 한두 번 해보는 줄 알아? 그딴 헛소리 듣도보도 못했어!
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:그럼 우리가 첫번째가 되겠다!
+()<Speaker>총괄 담당</Speaker>||<分支>2</分支><SE1>ClothingUp</SE1>:<size=50>이 사람이 보자보자 하우왁?!</size>
+()<Speaker></Speaker>||<分支>2</分支><SE1>Rope</SE1>:책임자가 성질내며 의자에서 일어나려던 것을 당신이 팍 눌러 다시 앉허벼렸다.
+()<Speaker>총괄 담당</Speaker>||<分支>2</分支>:아익, 그리고 프랑슈슈가 무슨 월드 클래스야! 고작해야 사가에서 이름 좀 알려졌을 뿐이잖아!
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:될 겁니다.
+()<Speaker>총괄 담당</Speaker>||<分支>2</分支>:뭐?
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:프랑슈슈는 가까운 미래에 세계에 이름을 떨치는 월드 클래스 아이돌 그룹이 될 겁니다!
+()<Speaker>총괄 담당</Speaker>||<分支>2</分支>:허...
+()<Speaker></Speaker>||<分支>2</分支><SE1>AVG_applause_indoor</SE1>:그때, 무대 쪽에서 뜨거운 박수 소리가 들려왔다. 그레이 트리의 공연이 거의 다 끝난 모양이었다.+화가 머리끝까지 치솟은 책임자는 당신을 거칠게 밀치곤 무대 쪽으로 향했다.
+()<Speaker>총괄 담당</Speaker>||<分支>2</分支><SE1>Stop_AVG_loop</SE1>:되고 자시고, 그레이 트리 차례 끝날 때까지 프랑슈슈 못 왔으니 공연 취소라 안내할 수밖에 없수다.
+()<Speaker>총괄 담당</Speaker>||<分支>4</分支>:프랑슈슈 아직 안 왔습니까?
+()<Speaker></Speaker>||<分支>4</分支>:당신을 바라보는 책임자는 눈에서 빔이라도 쏠 것만 같았다.
+()<Speaker></Speaker>||<分支>4</分支><SE1>ClothingUp</SE1>:이에 당신은 호들갑을 떨며 무대 아래를 가리켰다.
+()<Speaker>지휘관</Speaker>||<分支>4</分支>:그보다 지금 더 시급한 일이 있습니다!
+()<Speaker>총괄 담당</Speaker>||<分支>4</分支>:아니 공연자가 지각하는 것보다 급한 일이 뭐가 있어요?
+()<Speaker>지휘관</Speaker>||<分支>4</分支>:아까 오다 들었는데, 관객석의 누가 케첩으로 그레이 트리한테 테러를 하겠대요!
+()<Speaker>총괄 담당</Speaker>||<分支>4</分支>:그건 또 무슨 소리예요? 관객들 입장 때 휴대품 검사 철저하게 했는데.
+()<Speaker>지휘관</Speaker>||<分支>4</分支>:진짜 들은 걸 어떡해요, 그리고 만일이란 게 있잖습니까.+월드 클래스 스타인 그레이 트리한테 정말 무슨 일이라도 생겨서 소속사가 소송이라도 걸면 어떡할 거예요?
+()<Speaker>총괄 담당</Speaker>||<分支>4</分支>:......
+()<Speaker></Speaker>||<分支>4</分支><SE1>AVG_tele_connect</SE1>:책임자는 눈살을 찌푸리고 무전기를 들었다.
+()<Speaker>총괄 담당</Speaker>||<分支>4</分支>:보안팀장, 관객석에 누가 뭐 이상한 거 안 들고 있나 순찰 좀 해 봐.
+()<Speaker>보안 총괄</Speaker>||<分支>4</分支>:<color=#00CCFF>네.</color>
+()<Speaker>총괄 담당</Speaker>||<分支>4</分支><SE1>AVG_tele_disconnect</SE1>:그래서, 프랑슈슈는 언제 옵니까?
+()<Speaker>지휘관</Speaker>||<分支>4</分支>:그리고 여기 서서 저쪽을 한번 보세요, 그레이 트리의 메인 보컬 바로 위의 조명이 흔들거리죠?
+()<Speaker>총괄 담당</Speaker>||<分支>4</分支>:아아? 하나도 문제 없어 보이는구만 무슨...
+()<Speaker>지휘관</Speaker>||<分支>4</分支>:아뇨 아뇨 방금 분명 흔들렸어요, 제가 두 눈으로 똑똑히 봤다니까요?
+()<Speaker>총괄 담당</Speaker>||<分支>4</分支>:쓰읍...
+()<Speaker>총괄 담당</Speaker>||<分支>4</分支><SE1>AVG_tele_connect</SE1>:설비 담당, 캣워크 올라가서 무대 중앙 조명 확인해 봐.
+()<Speaker>무대 총괄</Speaker>||<分支>4</分支>:<color=#00CCFF>네.</color>
+()<Speaker>총괄 담당</Speaker>||<分支>4</分支><SE1>AVG_tele_disconnect</SE1>:그래서 프랑슈슈는 언제――
+()<Speaker>지휘관</Speaker>||<分支>4</分支>:그리고 또——
+()<Speaker>총괄 담당</Speaker>||<分支>4</分支><SE1>AVG_Punch</SE1><震屏3>:또 또 또 뭐!! 말 좀 그만 돌려!!
+()<Speaker></Speaker>||<分支>4</分支><SE1>AVG_applause_indoor</SE1>:그때, 무대 쪽에서 뜨거운 박수 소리가 들려왔다. 그레이 트리의 공연이 거의 다 끝난 모양이었다.
+()<Speaker>총괄 담당</Speaker>||<分支>4</分支><SE1>Stop_AVG_loop</SE1>:그레이 트리 차례 끝날 때까지 프랑슈슈 못 왔으니 공연 취소라 안내하는 걸로 아쇼.
+()<Speaker></Speaker>||<分支>4</分支><SE1>ClothingUp</SE1>:책임자는 뒤도 안 돌아보고 무대로 향했다...
+()<Speaker>총괄 담당</Speaker>||<分支>1</分支>:프랑슈슈 아직 안 왔습니까?
+()<Speaker></Speaker>||<分支>1</分支>:당신을 바라보는 책임자는 눈에서 빔이라도 쏠 것만 같았다.
+()<Speaker></Speaker>||<分支>1</分支><震屏3><SE1>AVG_XXS_kick</SE1>:이에 당신은 곧장 몸을 날려 책임자의 허벅지를 와락 껴안고는 목 놓아 울었다.
+()<Speaker>총괄 담당</Speaker>||<分支>1</分支>:뭐, 뭐하는 겁니까?!
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:<size=50>아이고 책임자니임 조금만 더! 조금만 더 시간을 주십쇼!</size>+<size=50>우리 애들은 금방 올 겁니다, 그러니 조금만!</size>
+()<Speaker>총괄 담당</Speaker>||<分支>1</分支>:그 금방이라는 게 언젠데요! 프랑슈슈 다음에 나갔어야 할 그레이 트리가 지금 시간 채우고 있는 거 안 보입니까?+길어도 5분입니다, 5분 지나서도 안 오면 일 접을 준비나 하쇼!
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:꺼이꺼이... 아이고 책임자님, 저희도 정말 힘듭니다요!+저희 같은 마이너 그룹이 살아남으려고 얼마나 많은 풍파와 모멸을 견디고 버티는지 아시잖습니까!+그런데도 우리 프랑슈슈 애들은 이를 악물고 지금까지 버티면서 작은 무대 하나라도 더 오르려고――
+()<Speaker>총괄 담당</Speaker>||<分支>1</分支>:그게 나랑 뭔 상관이야! 난 오늘 콘서트 망하는 꼴 절대 못 봐! 내 장사 망치려는 놈들은 내가 가서 모가지 다 날려버릴 거여! 알았어!?
+()<Speaker></Speaker>||<分支>1</分支>:책임자는 팍 성질내며 시계를 확인하곤 일어나 무대로 나가려 했다.
+()<Speaker>총괄 담당</Speaker>||<分支>1</分支>:시간 다 됐으니까 프랑슈슈는 공연 취소라고 안내할 거여!
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:<size=50>차라리 제 시체를 넘어가십쇼!!</size>
+()<Speaker></Speaker>||<分支>1</分支><SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:당신은 몸을 굴려 무대로 나가는 길에 대자로 드러누웠다.
+()<Speaker></Speaker>||<分支>1</分支><SE1>AVG_applause_indoor</SE1>:그때, 무대 쪽에서 뜨거운 박수 소리가 들려왔다. 그레이 트리의 공연이 거의 다 끝난 모양이었다.
+()<Speaker>총괄 담당</Speaker>||<分支>1</分支><SE1>Stop_AVG_loop</SE1>:들리지!? 그레이 트리 공연 다 끝났어! 더는 프랑슈슈를 못 기다려 줘!
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:제가! 제가 나갈게요! 제가 노래하고 춤추고 개인기도 선보이겠――
+()<Speaker>총괄 담당</Speaker>||<分支>1</分支><震屏3><SE1>AVG_Punch_Hit</SE1>:<size=50>까고 자빠졌넴마!!</size>
+()<Speaker></Speaker>||<分支>1</分支><SE1>Rope</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:당신은 필사적으로 총괄 책임자의 다리를 붙잡고 늘어졌지만, 속도만 늦출 뿐 멈추지 못했다...
+()<Speaker>지휘관</Speaker>||<分支>3</分支>:프랑슈슈 아직 안 왔습니까?
+()<Speaker></Speaker>||<分支>3</分支>:당신을 바라보는 책임자는 눈에서 빔이라도 쏠 것만 같았다.
+()<Speaker></Speaker>||<分支>3</分支><SE1>ClothingUp</SE1>:당신은 의연하게 그의 어깨를 토닥였다.
+()<Speaker>지휘관</Speaker>||<分支>3</分支>:이미 와 있습니다.
+()<Speaker>총괄 담당</Speaker>||<分支>3</分支>:왔다고? 그럼 얼른 무대 안 오르고 뭐해?
+()<Speaker>지휘관</Speaker>||<分支>3</分支>:바로 여기 있습니다.
+()<Speaker>총괄 담당</Speaker>||<分支>3</分支>:...엉?
+()<Speaker>지휘관</Speaker>||<分支>3</分支>:그들의 정신이, 사념이, 공기처럼 그 어디에나 있으니까요.
+()<Speaker>총괄 담당</Speaker>||<分支>3</分支><BGM>BGM_Empty</BGM>:......
+()<Speaker>지휘관</Speaker>||<分支>3</分支><SE1>AVG_Cheerful</SE1><震屏3>:<size=50>이것이야말로 진정한 롸아악 스피리이잇!!!</size>
+()<Speaker>총괄 담당</Speaker>||<分支>3</分支>:...야, 얘 헤까닥헀나 보다. 끌고 나가.
+()<Speaker></Speaker>||<分支>3</分支><SE1>AVG_Cloak_Whoosh</SE1>:스태프 몇 명이 달려와 당신을 끌고 나가려 했고, 당신은 당연히 완강하게 저항했다.
+()<Speaker></Speaker>||<分支>3</分支><SE1>AVG_applause_indoor</SE1>:그때, 무대 쪽에서 뜨거운 박수 소리가 들려왔다. 그레이 트리의 공연이 거의 다 끝난 모양이었다.
+()<Speaker>지휘관</Speaker>||<分支>3</分支><SE1>Stop_AVG_loop</SE1>:이거 놔!! 사실을 말한 게 뭐가 나빠!
+()<Speaker>총괄 담당</Speaker>||<分支>3</分支>:됐고, 그레이 트리 차례 끝날 때까지 프랑슈슈 못 왔으니 공연 취소라 안내하는 걸로 아쇼.
+()<Speaker></Speaker>||<分支>3</分支><SE1>ClothingUp</SE1>:책임자는 뒤도 안 돌아보고 무대로 향했다...
+()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM><SE1>AVG_21Winter_Open_Light</SE1>:투웅.+그레이 트리가 내려온 순간, 갑자기 스테이지가 완전히 어두워졌다.
+()<Speaker>총괄 담당</Speaker>||:뭐, 뭐야?
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>586</BIN><SE1>AVG_Rromantic</SE1>:조명은 몇 초 후 다시 돌아와 스테이지를 밝혔다.+프랑슈슈 전원이 준비를 마치고 오른 무대를.
+()<Speaker>총괄 담당</Speaker>||:뭣... 나 참, 컨셉 한번 괴상하게도 잡았구만?
+()<Speaker>지휘관</Speaker>||:흠흠... 실례했습니다.
+()<Speaker></Speaker>||:늦지 않았음에 안도의 한숨이 나왔지만, 그것도 잠시.+백스테이지의 스크린을 통해, 공연을 시작한 프랑슈슈를 관찰하는 당신의 눈에, 문제가 바로 포착됐다.+역시 너무 급하게 무대에 오른 탓인지, 사쿠라는 마이크 대신 메가폰을 들고 있었고, 준코는 양쪽 뺨의 피부 톤이 딱 봐도 달랐다.+아이는 공연 시작 전부터 가쁜 숨을 헐떡였고, 사키는 한쪽 손에 여전히 바이크 장갑을 낀 채였다.+그나마 릴리, 유우기리, 타에는 평소대로, 연습했던 대로와 비슷한 상태였다.
+()<Speaker>지휘관</Speaker>||:쓰읍...
+()<Speaker></Speaker>||:당신은 가슴을 졸였다.
+()||<黑点1>:
+()<Speaker></Speaker>||<SE1>Heartbeat</SE1><黑点2>:쥐 죽은 듯 조용하던 관객석으로부터 프랑슈슈에게 시선이 집중됐다.+당신으로선 상상하기도 어려운 부담감.+프랑슈슈가 지금까지 맞서 왔던 부담감이었다.
+NPC-Sakura(14)<Speaker>미나모토 사쿠라</Speaker><Position>0,-250</Position><Scale>1.69</Scale>||:안녕하세요, 프랑슈슈입니다!
+NPC-Saki(15)<Speaker>니카이도 사키</Speaker><Position>-300,-260</Position><Scale>1.93</Scale><Shake>0.1</Shake>||<SE1>AVG_Cloak_Whoosh</SE1>:<size=50>잘 부탁한다!!</size>
+()<Speaker></Speaker>||:관객석에선 호응 대신 웅성임이 들려왔다.
+()<Speaker>관중</Speaker>||<SE1>AVG_Crowd</SE1>:프랑슈슈든 프린츄츄든 됐으니까 그레이 트리나 다시오라 해! 앵콜! 앵콜!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:사쿠라가 애써 침착하며 떨리는 손으로 메가폰을 들었다.+프랑슈슈의 첫 공연, 첫 야외 라이브, 첫 다툼부터 지금까지 그녀와 함께해온 그 메가폰이었다.+그녀는 메가폰을 들어 입 가까이에 대고, 숨을 크게 들이쉬더니...+오랫동안 가슴 속에 묻어 뒀던 울분을 단숨에 토해냈다.
+NPC-Sakura(14)<Speaker>미나모토 사쿠라</Speaker><Position>0,-250</Position><Scale>1.69</Scale>||<BGM>BGM_21Christmas_DeathMetal</BGM><controll_shake>%%type_id=2%%duration=6%%delay=0.1%%range=8</controll_shake><SE1>AVG_Howling</SE1>:<size=50>으아아아아아아——!!!</size>
+()<Speaker>프랑슈슈</Speaker>||:<size=50>아아아아아아아아——!!!</size>
+()<Speaker></Speaker>||<SE1>AVG_Stiff</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=8</controll_shake>:포효가 칼바람처럼 관객들의 뺨을 마구 때렸다. 프랑슈슈의 모든 분노, 서운함, 신념이 한 덩어리로 뭉쳐, 관객들의 눈과 귀에 쑤셔 박혔다.
+()<Speaker></Speaker>||<SE1>AVG_Dismember</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=8</controll_shake>:이건 예술이 아닌, 반강제적이고 일방적인 "교감"이었다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale><Shake>0.1</Shake>||:세상에, 저게 뭐야...?+목이... 저런 각도로 꺾일 수 있던가?!
+NPC-Sakura(14)<Speaker>미나모토 사쿠라</Speaker><Position>0,-250</Position><Scale>1.69</Scale><Shake>0.1</Shake>||<SE1>RunStep</SE1>:<size=50>프랑슈슈——!!</size>
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:관객들에게 생각할 시간을 주지도 않고 사쿠라가 먼저 냅다 관객석으로 달려가 몸을 던졌다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:다이빙?! 벌써 다이빙을 해!?
+()<Speaker>프랑슈슈</Speaker>||<controll_shake>%%type_id=2%%duration=6%%delay=0.1%%range=8</controll_shake><SE1>AVG_whitenoise</SE1>:<size=50>롸아아아아아——!!!</size>
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Bar_Cheering_V2</SE1><SE1>AVG_Dismember</SE1>:정신 나간 헤드뱅잉과 말도 안 되는 포효에 휩쓸려, 관객들도 순식간에 자아를 잃고 이 광란에 합세했다.
+()<Speaker>？？？</Speaker>||:꼬꼬댁——!!
+NPC-Tae(3)<Speaker>야마다 타에</Speaker><Position>0,-340</Position><Scale>1.4</Scale>||<SE1>ClothingUp</SE1><震屏3>:<size=50>꼬꼬대애액——!!</size>
+()<Speaker></Speaker>||:이 광란의 도가니 한가운데서 우렁찬 닭 소리가 터져 나왔다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:저건... 콧코 군!?
+()<Speaker></Speaker>||<SE1>AVG_flag</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=6</controll_shake>:와이어에 매달린 콧코 군이 관객들의 머리 위를 날아 무대에 착지한 것이었다.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:그리고는 언제부터 있었는지 모를 바닥의 끊어진 전선 한 가닥을 집어, 전설의 엑스칼리버인마냥 번쩍 들어올렸다.
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_whitenoise</SE1><SE1>AVG_tele_disconnect</SE1>:그 순간 백스테이지의 모니터가 꺼졌다.
+()<Speaker>스태프</Speaker>||:뭐야, 무슨 일이야?! 왜 갑자기 전기가 나갔어!?
+()<Speaker></Speaker>||:주위의 모두가 갑작스런 정전에 당황했지만, 당신은 무슨 일인지 알기에 여유로운 미소를 지었다.+프랑슈슈의 샤이닝 모드였다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:............
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>578</BIN>:공연이 끝난 뒤, 당신은 라이브 하우스의 조용해진 복도에서 홀로 벽에 기대고 있었다.
+()<Speaker>지휘관</Speaker>||:네... 네, 네. 좋습니다, 그렇게 하죠.
+()<Speaker></Speaker>||:당신은 목소리를 한껏 낮추고 통화 상대에게 대답했다. 하루 종일 고생하고 간신히 휴식을 취하는 프랑슈슈에게 방해가 되지 않도록.
+()<Speaker>지휘관</Speaker>||:예 예, 문제 없습니다. 그럼 이만.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:전화를 끊은 당신은 길게 숨을 내쉬었다.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale><GradientShow>3</GradientShow>||<SE1>ClothingUp</SE1>:어떠냐? 모레의 공연장은 탈환했나?
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:어우 깜짝야 제발 좀 얼굴부터 들이밀지――
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:대답부터 해!
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:어, 주최 측에서 계속 프랑슈슈와 협업하자 한 건 물론이고, 신기획까지 제안했어.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:어떤 기획이지?
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:자선 콘서트다. 방송국의 공연 중계 수익 일부를 사가의 홍보 예산으로 쓰는 거지.+전통문화재 보존이나 역사문물 유지보수, 지방 특산물의 상품화, 기타등등.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:......크흡.
+()<Speaker></Speaker>||<BGM>BGM_Saga_AVG_Dusk</BGM>:닌자의 검은 복면에서 두 줄기의 젖은 자국이 번졌다.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:여태까지... 고생한 보람이 있었구나...
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:그래, 오늘 밤도 수고 많았다.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:......호오.+눈치챘나?
+()<Speaker>지휘관</Speaker>||:그걸 누가 몰라?
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:뚜벅뚜벅...+복도 반대쪽에서 발소리가 들렸다.
+()<Speaker>？？？</Speaker>||<SE1>Stop_AVG_loop</SE1>:지휘관~ 어디 있어요~
+()<Speaker>지휘관</Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:애들이 날 찾으러 온 모양이네, 마침 잘 됐으니 인사라도...+...닌자?
+()<Speaker></Speaker>||:닌자는 이미 사라지고 없었다.
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:아, 여기 계셨네요.
+()<Speaker>지휘관</Speaker>||:어어, 바람 좀 쐬러 나왔어. 하도 환호해서 머리에 산소가 부족해진 거 같아서.
+NPC-MizunoAi(5)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||:다들 지휘관만 기다리고 있어, 빨리 가자.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:다들 뒤풀이 연회를 기대하고 있답니다.
+()<Speaker>지휘관</Speaker>||:그래, 어서 가자!
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:모두와 함께 프랑슈슈의 휴게실로 발을 옮기던 그때, 사쿠라가 몇 걸음 가다 멈춘 것을 눈치챘다.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:방금 당신이 닌자와 대화하던 창가 앞에 멍하니 서서, 무언가 생각하는 것 같았다.
+()<Speaker>지휘관</Speaker>||:사쿠라?
+NPC-Sakura(2)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:아, 죄송해요. 잠깐 멍때려 뿌렀으요.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:갑자기 무슨 사색에 잠기었는지?
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:그냥... 오늘은 신기한 일이 많았구나 혀서요.+타에랑 창고에 갇혀서 우야꼬 우야꼬 하다가 보니 문이 절로 열렸더라고요...
+NPC-MizunoAi(0)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||:생각해 보니 그러네, 나랑 준코도 연습실에서 어떡하면 좋을까 고민할 때 창밖에서 파운데이션 통이 하나 휙 날아든 거 있지?+톤이 좀 달랐지만 다시 화장할 수는 있었어.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:우리도 그렇네요. 그토록 찾던 공연복이 요술처럼 문 앞에 떡하니 놓여 있었으니.+릴리가 까무러칠 뻔했지 뭐예요.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:당신은 싱긋 웃으며, 함께 밤이 깊어진 창밖을 바라봤다.
+()||<黑屏1>:
+()<Speaker>지휘관</Speaker>||<黑屏2><BIN>9</BIN>:프랑슈슈를 지켜보는 수호천사가 있는 거겠지.
+()||<黑点1>:

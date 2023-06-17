@@ -1,0 +1,10 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>597</BIN><narrator><BGM>BGM_Saga_AVG_Day</BGM>:사쿠라와 함께 아르바이트하는 것도 벌써 오늘이 마지막이었다. 당신은 무슨 말이라도 꺼내고 싶었지만 콘서트 전에 그녀의 주의력을 흩트릴까봐 겁났다.
+NPC-Sakura(0)<Speaker></Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:할말을 눌러담고 있는 당신과 달리, 사쿠라는 리허설이 순조로운 일로 텐션이 잔뜩 올라 프랑슈슈의 장미빛 미래를 상상하고 있었다.
+()||<震屏><BIN>598</BIN><SE1>AVG_engine_speedup</SE1><BGM>BGM_Empty</BGM>:그런데 사쿠라가 길가에 발을 디딘 순간, 트럭 한 대가 곧장 그녀를 향해 달려왔다.
+NPC-Sakura(2)<Speaker></Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<SE1>AVG_Stiff</SE1>:사쿠라는 놀라 몸이 굳었고, 당신이 냉큼 손을 뻗어 잡아당겼지만, 힘을 너무 준 탓에 그녀의 팔을 뽑아버렸다.
+NPC-Sakura(2)<Speaker></Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||<SE1>ClothingUp</SE1>:다행히도 당신은 반사신경을 발휘해 다른 한 팔로 사쿠라의 몸통을 끌어안아 쏜살같이 질주하는 트럭과 아슬아슬하게 스쳐지나갈 수 있었다.
+NPC-Sakura(0)<Speaker></Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<BIN>597</BIN><BGM>BGM_Saga_AVG_Dusk</BGM>:아직 어떨떨해하는 사쿠라는 가장 먼저 당신을 보고 진정하라 했다, 자신은 좀비니까 치여도 멀쩡하다고.
+NPC-Sakura(0)<Speaker></Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:그래도 당신은 마음이 쓰라렸다, 멀쩡하더라도 아픈 건 똑같을 테니. 당신은 자신이 떠나면 사쿠라가 다시 불행 체질에 혼자 마음고생하지 않을까 걱정했다.
+NPC-Sakura(0)<Speaker></Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:사쿠라는 고개를 젓고 그럴 땐 당신이 옆에서 함께 시련을 맞서고 있을 것이라 상상할 테니 더는 두렵지 않다고 말했다.
+()||<黑点1><narrator>:그 말에 당신도 마음을 놓았다. 어쩌면 당신에게도 마찬가지인 말일 테니...

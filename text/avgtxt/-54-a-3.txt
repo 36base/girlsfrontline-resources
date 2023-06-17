@@ -1,0 +1,59 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>73</BIN><黑屏2><narrator>:선진 훈련 기지, 8번 훈련장.
+()<Speaker></Speaker>||<BGM>10213</BGM>:훈련 로봇, 전 기 무력화됐습니다.
+()<Speaker></Speaker>||<SE1>Select</SE1>:시간을 들여 위협이 확실하게 소멸한 것을 확인하고 나서야, 그녀는 무기를 내리고 일어서 구석의 감시 카메라를 응시했다.
+AR18(6)<Speaker>"Я" 교관？</Speaker><Position>0,70</Position>||:이쯤 하시죠?
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><SE1>AVG_Applause</SE1><BIN>85</BIN>:짝. 짝. 짝.+그 광경에서 여태까지 잠시도 화면에서 눈을 떼지 않고 지켜보던 남자는 화면 속의 저 단호한 얼굴에 느린 경탄의 박수를 쳤다.
+()<Speaker>？？？</Speaker>||:...저 인형으로 정했다.
+NPC-Soldier(0)<Speaker>감독관</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:감독관은 난처해하며 옆의 태블릿을 들어, 화면이 비추는 인형의 상세 자료를 열람했다.
+NPC-Soldier(0)<Speaker>감독관</Speaker>||:장관님의 결정을 의심하는 것은 아니나...+"Я"에겐 몇 가지의, 어... 통제 불가능한 결함이 있습니다.
+()<Speaker>？？？</Speaker>||:......
+()<Speaker></Speaker>||:그 말에 남자는 고개를 기울여 태블릿을 보았다.
+()<Speaker></Speaker>||:<color=#00CCFF>보직 - 선진 작전 훈련부대 "Я" 분대 교관.</color>+<color=#00CCFF>평가 등급 - 없음. 해당 인원은 [위험 요소] 존재.</color>+<color=#00CCFF>비고 - 아서 흄 주도 "인류 지성 연구 프로젝트" 제180호기. 통제 불가 요소로――</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:남자가 고개를 들어 감독관을 응시하니, 그는 당황하며 말을 계속했다.
+NPC-Soldier(0)<Speaker>감독관</Speaker>||:지휘자로서는 확실히 훌륭합니다만, 이런 결함품을 전선으로 내보냈다간 어떤 일이 벌어질지 장담 못합니다.+명단 중 다른 인원을 고려하는 건 어떻겠습니까?
+()<Speaker>？？？</Speaker>||:............
+()<Speaker></Speaker>||:다시 한번 자료에 표기된 [위험 요소]를 본 남자는 고개를 저었다.
+()<Speaker>？？？</Speaker>||:아니, 나머진 다 수준 미달이다.+"이클립스"엔 그녀가 필요해.
+NPC-Soldier(0)<Speaker>감독관</Speaker>||:...알겠습니다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>22</BIN><黑屏2><BGM>BGM_Room</BGM><narrator>:신소련 안전국, 인형 정비 센터.
+()<Speaker></Speaker>||<SE1>AVG_BaseDoor_Open</SE1>:푸쉬익——
+()<Speaker></Speaker>||:옆에서 검사를 맡은 작업자가 수복 데이터의 기록을 끝마치자, 수복 캡슐의 덮개가 천천히 열렸다.
+()<Speaker>기술자</Speaker>||:소체와 마인드맵 전부 최적의 상태로 복구되었습니다, "Я" 교관.
+AR18(6)<Speaker>"Я" 교관？</Speaker><Position>0,70</Position>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:수복 캡슐에서 천천히 윗몸을 일으킨 "Я" 교관은 자신의 두 손을 살펴보다 시선이 손목시계에 고정됐다.
+AR18(6)<Speaker>"Я" 교관？</Speaker><Position>0,70</Position>||:...감사합니다.
+()<Speaker>기술자</Speaker>||:달리 문제가 없으면, 그럼 저는 이만.
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:잠시 후, 혼자임을 확인한 "Я" 교관은 의자에 앉아 손목시계의 분침을 돌렸다.
+()<Speaker></Speaker>||<SE1>AVG_Mechanical</SE1><BGM>BGM_Empty</BGM>:스르륵...+시곗바늘이 "원위치"를 향해 돌아갔다.
+AR18(6)<Speaker>"Я" 교관？</Speaker><Position>0,70</Position>||:......
+AR18(6)<Speaker>？？？？</Speaker><Position>0,70</Position><同时置暗>||<BGM>m_avg_labyrinth</BGM>:<color=#66CDAA>...임무는 끝났나?</color>
+()<Speaker></Speaker>||:시곗바늘이 리듬감 있게 돌아가는 소리를 듣던 그녀가 갑자기 허공에 대고 입을 열었다.
+AR18(6)<Speaker>"Я" 교관？</Speaker><Position>0,70</Position>||:너무 방심했잖아, 교관.
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position><同时置暗>||:<color=#66CDAA>확실히, 난이도는 예상한 바였지만 마지막의 마지막에 매복이 있으리라곤 예상치 못했다.</color>
+()<Speaker></Speaker>||:그녀는 지금 하나의 입으로 두 명의 말을 하고 있었다.
+AR18(6)<Speaker>"Я" 교관？</Speaker><Position>0,70</Position>||:어쨌든 축하해, 드디어 선발 자격을 얻었네.+교관이 아니라 사관으로서 말이야.
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position><同时置暗>||:<color=#66CDAA>임무 내용은 받았나?</color>
+AR18(6)<Speaker>"Я" 교관？</Speaker><Position>0,70</Position>||:아직. 하지만 한 가지 미리 말해 둘 게 있어.+이번 작전은 처음부터 끝까지 참여하겠어.+오늘처럼 마지막에 구원투수처럼 투입되는 게 아니라.
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position><同时置暗>||:<color=#66CDAA>잘됐군, 애초부터 그럴 셈이었으니.</color>
+AR18(6)<Speaker>"Я" 교관？</Speaker><Position>0,70</Position>||:뭐?
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position><同时置暗>||:<color=#66CDAA>이번 "이클립스" 선발 테스트에선 전투 능력만큼이나 중요한 요소가 있다.</color>+<color=#66CDAA>바로 기밀 유지 능력이야.</color>+<color=#66CDAA>네가 최종 테스트를 통과한 이유 중 하나는... 내가 얻은 전술 정보가 잘못됐다는 점이다.</color>
+AR18(6)<Speaker>"Я" 교관？</Speaker><Position>0,70</Position>||:하지만 난 그걸 몰랐고, 그래서 통과했다...+어쩐지 이번엔 좀 눈에 띄게 자신감 넘치더라니.
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position><同时置暗>||:<color=#66CDAA>그런고로, 이번 작전엔 전제조건이 있다. 모든 계획은 반드시 내가 구상한다.</color>+<color=#66CDAA>넌 임무 내용을 알 필요 없어.</color>+<color=#66CDAA>그저 철저히 내 말에 따르기만 하면 돼.</color>
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position>||:임무 내용을 모르는데 어떻게 임무를 수행하지?
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position><同时置暗>||:<color=#66CDAA>이 임무 시작 전에 네게 다른 임무를 하나 하달할 거다.</color>+<color=#66CDAA>우리가 해낸다면, 너는 임무의 내용이 뭔지 전혀 모르면서도 그 임무를 수행 중이게 되지.</color>+<color=#66CDAA>그것이 바로 진정한——</color>
+AR18(6)<Speaker>"Я" 교관？</Speaker><Position>0,70</Position>||:진정한 "철통 보안"이란 거군.+과연 교관이라니까.
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position><同时置暗>||:<color=#66CDAA>...이렇게 해야만 행여라도 실수를 저지르지 않는다.</color>
+AR18(6)<Speaker>"Я" 교관？</Speaker><Position>0,70</Position>||:임무에 참여할 수만 있다면 상관없어.
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position><同时置暗>||:<color=#66CDAA>좋다.</color>+<color=#66CDAA>그럼 마지막으로, 가명은 뭐로 할 거지?</color>
+AR18(6)<Speaker>"Я" 교관？</Speaker><Position>0,70</Position>||:류드밀라 파블리첸코.
+()<Speaker></Speaker>||<SE1>AVG_Button_Click</SE1>:――찰칵.+돌아가던 시곗바늘이 마침내 끝에 도달했다.+그녀의 얼굴도 한 가지로 돌아왔다.
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position>||:...류드밀라라.+잘 어울리는 이름이군.
+()<Speaker></Speaker>||:......
+()||<黑点1>:

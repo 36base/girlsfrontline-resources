@@ -1,2 +1,137 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||:<color=#FFFF00>마인드맵 기록 분석 중...</color>+<color=#FFFF00>분석 완료 예상 시각... 5월 20일 16시 00분</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>97</BIN><BGM>GF_EV9_Story</BGM>:잠시 후, 호텔의 리셉션 프런트.
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>:OBR이 반지 4개와 팸플릿을 프런트에 쾅 내리쳤다.+그러자 안내원은 태연하게 자리에서 일어나, 사나운 기세의 고객들을 깔보는 눈빛으로 맞이했다.
+OBRMOD(0)<Speaker>OBR</Speaker>||:<size=50>퇴실하겠어요! 그리고 환불해 주세요!</size>
+()<Speaker>종업원</Speaker>||:물론 가능합니다만, 우선 결제부터 마쳐 주십시오.
+OBRMOD(0)<Speaker>OBR</Speaker>||:우리가 이용한 서비스 전부 선불 요금에 포함됐잖아요, 뭘 또 결제해야 하는데요?
+()<Speaker>종업원</Speaker>||<SE1>AVG_21Winter_Click_Keyboard</SE1>:3인의 해수욕장 이용과 음료수, 바, 그리고 객실의 소모품...+선불하신 금액을 제외하면 66.6만 되겠습니다. 자세한 사항은 여기 명세서를 확인해 주십시오. 결제는 현금으로 하시겠습니까, 카드로 하시겠습니까?
+OBRMOD(0)<Speaker>OBR</Speaker>||:그게 무슨 소리에요, 해수욕장 1회 무료 이용권 있잖아요!
+()<Speaker>종업원</Speaker>||:해수욕장 무료 이용권은 1인용입니다. 손님의 일행 3분의 이용 요금은 직접 부담하셔야 합니다.
+OBRMOD(0)<Speaker>OBR</Speaker>||:그럼 이 음료는요! 그냥 맹물을 주고 우리의 마인드맵을 속였잖아요! 어떻게 이딴 걸로 돈을 받아요!?
+()<Speaker>종업원</Speaker>||:손님들께서 마신 것은 물이 맞습니다만, 각종 고급 음료의 맛을 즐기신 것에 더불어 서빙해 드렸으니 당연히 유료입니다.
+OBRMOD(0)<Speaker>OBR</Speaker>||:아, 아무튼 전액 환불 요구하겠어요! 여기 팸플릿에도 확실하게 적혀 있잖아요, 이것까지 딴소리하진 않겠죠?
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:안내원은 피식 웃더니 팸플릿을 뒤집어 텅 빈 공간의 한구석을 가리켰다.
+()<Speaker>종업원</Speaker>||:손님, 여기를 보시겠습니까?+"해당 조항의 최종 해석 권한은 업소측에 있으며, 언제든지 조항 변경이 이뤄질 수도 있으니 주의하십시오."+떡하니 적혀 있는데, 못 보셨나요?
+()<Speaker></Speaker>||:그야 당연했다. 새하얀 배경에, RGB값을 눈곱만큼 바꾼 듯한 색으로 문구가 인쇄되어 있어, 인형인 OBR도 눈을 크게 뜨고 집중해서야 간신히 읽을 수 있었으니까.
+OBRMOD(2)<Speaker>OBR</Speaker>||:이게 뭔...!?
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1><BGM>BGM_Empty</BGM>:OBR이 계속 따지려 했지만, 사나운 인상의 보안 요원 수십 명이 우르르 몰려나와 OBR 일행을 단단히 에워쌌다.
+ADS(0)<Speaker>ADS</Speaker><Position>0,200</Position>||<BGM>BGM_Brain</BGM>:뭐, 뭐예요?!
+GeneralLiu(2)<Speaker>류 소총</Speaker>||:히익...!
+NPC-Bodyguard1(0)<Speaker>보안 요원</Speaker>||:......
+()<Speaker>종업원</Speaker>||:죄송합니다 손님, 저희 호텔은 요금을 결제하지 않는 고객을 자체적으로 제재할 권한이 있습니다.+손님의 미납 요금 66.6만은 어떻게 지불하시겠습니까? 현금, 아니면 카드?
+OBRMOD(2)<Speaker>OBR</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:당황하며 외투 주머니를 뒤적인 OBR의 손끝에 딱딱한 신용카드가 닿았다.
+()||<黑屏1>:
+NPC-Kalin(1)<Speaker>카리나</Speaker>||<BIN>82</BIN><黑屏2><回忆><边框>2</边框>:그럼 모두, 섬에서 잘 놀다 와! 돈 문제는 지휘관님한테 맡기면 돼!
+NPC-Kalin(0)<Speaker>카리나</Speaker>||<边框>2</边框>:히히, 걱정 말래도? 이 신용카드로 얼마든지 긁어도 돼... 지휘관님도 동의하셨는걸, 절대 너희를 안 나무라실 거야!
+()||<黑屏1><边框>2</边框>:
+OBRMOD(2)<Speaker>OBR</Speaker>||<黑屏2><BIN>80</BIN><关闭蒙版>:<color=#A9A9A9>하지만 정말 괜찮을까? 지휘관님이 이 일을 아셨다간 엄청 실망하실 텐데...</color>
+()<Speaker></Speaker>||<SE1>AVG_Knock</SE1>:안내원은 손가락으로 짜증스럽게 카운터를 툭툭 두들기고 있었다.+보안 요원들도 눈빛리 갈수록 험악해지며 조금씩 발을 내디뎌, 일행을 궁지로 몰아넣었다.
+OBRMOD(2)<Speaker>OBR</Speaker>||:<color=#A9A9A9>모두를 지키기 위해선 돈을 낼 수밖에 없어...</color>+<color=#A9A9A9>우으으... 죄송해요 지휘관님! 이 돈은 꼭 갚을게요! 꼭이요!</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:마침내, OBR은 바들바들 떨리는 손으로 지휘관의 신용카드를 꺼내 들었다.
+()<Speaker></Speaker>||<SE1>AVG_Card_Reader</SE1>:――결제 완료.
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1><BGM>BGM_Empty</BGM>:그 경쾌한 소리가 로비에 울려 퍼지자마자, 보안 요원들은 순식간에 사라졌다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BGM>BGM_Room</BGM>:다만 OBR은 맥없이 고개를 떨군 채 신용카드를 도로 주머니로 넣을 뿐이었다.
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:돈 냈으니 이제 우리한테 따질 거 없지?+그럼 너네 전용 리무진 언제 와? 당장 공항 갈 거야!
+()<Speaker>종업원</Speaker>||:죄송합니다 손님, 저희 호텔의 전용 리무진은 VVIP 고객만 이용 가능합니다.
+ADS(0)<Speaker>ADS</Speaker><Position>0,200</Position>||:네? 그럼 우릴 공항에서 여기로 데려다준 차는 뭔데요?
+()<Speaker>종업원</Speaker>||:그건 저희 호텔을 처음 찾으시는 손님을 위한 1회 무료 체험 서비스입니다.+리무진 서비스가 제공되는 VVIP 멤버쉽은 저희 호텔에서 999.99만을 소비하셔야 합니다.+손님은 현재 66.6만을 소비하셨으니, 앞으로...
+OBRMOD(2)<Speaker>OBR</Speaker>||<震屏3>:<size=50>당신들한텐 더는 한 푼도 안 쓸 거니까 꿈도 꾸지 마요!</size>
+()<Speaker>일동</Speaker>||:......
+GeneralLiu(3)<Speaker>류 소총</Speaker>||:하, 하지만 우리 짐이 이렇게나 많은데요...?
+ADS(0)<Speaker>ADS</Speaker><Position>0,200</Position>||:이렇게 된 이상 그냥 지휘관한테 도와 달라 할까?
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:포기해, 아까부터 계속 섬 밖으로 통신 걸어봤는데 자꾸 중간에 두절돼. 패턴으로 봐선 누가 인위적으로 잘라먹는 건데, 뻔하지 뭐.
+ADS(0)<Speaker>ADS</Speaker><Position>0,200</Position>||:쓰읍... 그럼 택시는? 아무리 그래도 택시는 있을 거 아니야.
+OBRMOD(0)<Speaker>OBR</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:인근의 차량을 검색... 아, 있다! 여러분 이것 좀 보세요!
+()<Speaker></Speaker>||:일행이 OBR의 단말기를 확인하니, 화면에 희망찬 푸른색의 신호가 반짝이고 있었다. 그런데...
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:...음?
+OBRMOD(0)<Speaker>OBR</Speaker>||:"이 차량은 초고급 해변뷰 별장 호텔 그룹 산하의 택시입니다. 호텔 VVIP 멤버쉽 가입 고객만 이용 가능하시며, 그외에는 탑승하실 수 없습니다."+"보귀하신 VVIP 고객님의 호출을 진심으로 환영하며, 즐거운 여행이 되시길 바랍니다."+"진상 고객 사절!"
+GeneralLiu(3)<Speaker>류 소총</Speaker>||:어... 이건 그러니까...?
+ADS(0)<Speaker>ADS</Speaker><Position>0,200</Position>||:이 빌어먹을 호텔에서 대충 1000만을 써서 VVIP가 되어야만 이 택시를 부를 수 있단 소리야.
+OBRMOD(2)<Speaker>OBR</Speaker>||:이딴 게 어딨어요?!
+GeneralLiu(2)<Speaker>류 소총</Speaker>||:그럼 어쩌면 좋죠...?
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Error</SE1>:띵띵~+종업원이 느닷없이 벨을 울렸다.
+()<Speaker>종업원</Speaker>||:거기 손님들, 체류 시간에 주의해 주십시오. 손님들은 저희 호텔에서 투숙을 중단하셨기에 이제 외부인으로 간주됩니다.+본 호텔 규정으로 외부인은 호텔 내에서 15분 이상 체류 시 분당 요금을 받습니다. 현재까지 14분 체류하셨으니――
+()<Speaker></Speaker>||<SE1>AVG_Thunder_Dry</SE1>:"요금"이란 단어를 듣는 순간 OBR의 신경이 활시위처럼 팽팽해져...
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:뒤도 안 돌아보고 짐가방을 전부 들쳐메고서 호텔 로비를 쏜살같이 빠져나갔다.
+()<Speaker>일동</Speaker>||:?!!
+()||<黑点1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑点2><BIN>9</BIN><SE1>AVG_20Winter_Gate_Close</SE1>:호텔의 현관문은 일행의 뒤로 쿵 닫혔다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>m_avg_casual</BGM><黑点2><BIN>163</BIN>:그나마 저녁의 바닷바람이 불어와, 기운 빠진 인형들의 피곤한 얼굴을 포근함으로 어루만졌다.
+GeneralLiu(2)<Speaker>류 소총</Speaker>||:헥... 헥... 짐 챙기느라 너무 힘들었어요오...
+ADS(4)<Speaker>ADS</Speaker><Position>0,200</Position>||:아무튼간에 저 사기 업소에서 탈출이다! OBR, 이제 어떡할 거야?
+OBRMOD(2)<Speaker>OBR</Speaker>||:어...... 일단 공항으로 가요.
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:호텔 차량도 없고 택시도 없는데 무슨 수로?
+OBRMOD(0)<Speaker>OBR</Speaker>||:걸어서요.
+()<Speaker></Speaker>||:"걸어서."+일행은 한층 더 맥이 빠졌다.
+OBRMOD(0)<Speaker>OBR</Speaker>||:시, 심사숙고한 결과예요! 교통수단은 없지만 우리에겐 튼튼한 두 다리가 있잖아요!+게다가, 우린 전술인형이잖아요! 이 정도쯤이야 아무것도 아니라고요! 우리의 튼튼한 다리로 알뜰하게! ......안 되나요?
+GeneralLiu(2)<Speaker>류 소총</Speaker>||:으... 그치만 짐가방이...
+ADS(4)<Speaker>ADS</Speaker><Position>0,200</Position>||:에휴, 귀찮지만 여기 죽치고 있는 것보단 낫지. 저 망할 사기 업소는 꼴도 보기 싫어!
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:찬성.
+OBRMOD(0)<Speaker>OBR</Speaker>||:류 씨 짐가방은 제가 들어드릴게요!
+GeneralLiu(3)<Speaker>류 소총</Speaker>||:여러분 의견이 그러시다면야...
+OBRMOD(0)<Speaker>OBR</Speaker>||:그럼 꾸물거리지 말고, 출발!
+()<Speaker></Speaker>||:인형들은 다시 마음을 다잡고 심호흡하며 사방을 둘러봤다.
+()<Speaker></Speaker>||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:잔잔하게 철썩이는 파도와, 저 멀리서 빛을 발하는 등대가 보이는 바닷가. 한 폭의 그림 같은 풍경에 예민해졌던 인형들의 마음도 조금은 누그러졌다.
+ADS(4)<Speaker>ADS</Speaker><Position>0,200</Position>||:휴가를 망쳐서 짜증나지만... 그래도, 역시 바다는 보고만 있어도 좋다.
+GeneralLiu(0)<Speaker>류 소총</Speaker>||:네에, 바닷가를 따라 걷는 것도 좋네요.+그런데 슬슬 너무 어두워지네요. 야시장비를 어디다 뒀더라...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그 말에 일행들도 뭔가 떠오른 듯, 각자 고개를 숙여 짐가방을 뒤졌다. PPD-40만 빼고.+그녀는 콧방귀를 뀌곤, 핸드백에서 야시경을 꺼내 보였다.
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||<SE1>AVG_NightVision_Start</SE1>:흥, 이렇게 중요한 장비는 미리미리 준비를 해 둬야지. 다음엔 안 기다려 줄 거니까 알아서 해.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:야시경을 쓴 PPD-40은 양손을 허리에 짚고 느긋하게 먼 곳을 바라봤다.+수평선 너머로 물결치는 해수면에 맑고 깨끗한 달빛이 쏟아져 은빛으로 반짝이는 것이, 너무나도 아름답게 느껴졌다.+그런데, 그것이 다가 아니었다.
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||<BGM>BGM_Empty</BGM>:저건...?+얘들아, 저것 좀 봐봐!
+()<Speaker></Speaker>||<BGM>BGM_Sneak</BGM><SE1>AVG_NightVision_Start</SE1>:모두가 야시경을 통해 PPD-40이 가리킨 방향을 보니...+시선이 닿는 곳이 전부 물바다였다.+바닷물이 수평선 끝에서부터 높다란 호텔의 플랫폼 아래까지 차오른 것이었다. 차도, 인도, 길가의 풀밭까지 전부 바닷물 아래에 잠겨버렸다.+바닷바람을 맞는 한 줄의 야자수들이 섬 중앙의 고지와 바닷가의 경계선을 간신히 보여 줄 뿐이었다.
+GeneralLiu(3)<Speaker>류 소총</Speaker>||:엑!? 이게 어떻게 된 일이죠, 올 땐 안 이랬잖아요!
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:...밀물이지 뭐.
+ADS(0)<Speaker>ADS</Speaker><Position>0,200</Position>||:큰일이다... 나야 바다에 들어가도 별 문제 없지만, 너희는...
+()<Speaker></Speaker>||:ADS가 걱정스런 눈으로 동료들을 바라봤다.
+GeneralLiu(3)<Speaker>류 소총</Speaker>||:제 소체도 기본적인 방수 기능은 있지만, 해수는 부식성 때문에 무리예요...+이대로 공항까지 가면 소체가 망가질 텐데...
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:그렇다고 저 "호텔"로 돌아가자곤 하지 않겠지?
+ADS(0)<Speaker>ADS</Speaker><Position>0,200</Position>||:으에엑!?
+OBRMOD(2)<Speaker>OBR</Speaker>||:......
+GeneralLiu(2)<Speaker>류 소총</Speaker>||:그, 그냥 돈 좀 더 들여서 홀에서 하룻밤 기다렸다 물 빠지자마자 출발하는 편이 짐가방 들고 바닷물에 잠기는 것보단 낫잖아요...!
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:OBR, 네 생각은 어때?
+()<Speaker></Speaker>||:OBR은 주먹을 꾹 쥐고 입술을 깨물었다.
+()||<黑屏1>:
+()<Speaker>지휘관</Speaker>||<BIN>8</BIN><黑屏2><回忆><边框>2</边框>:네가 잘 배우고 나면, 너 혼자서도 다시는 빚 걱정 없는 생활을 할 수 있을 거야!
+OBRMOD(2)<Speaker>OBR</Speaker>||<边框>2</边框>:저... 정말로 가능할까요?
+OBRMOD(2)<Speaker>지휘관</Speaker><同时置暗>||<边框>2</边框>:물론이지!
+()||<黑屏1><边框>2</边框>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><关闭蒙版>:다정한 지휘관의 얼굴이, OBR의 마인드맵에 아직도 선명했다.+큰 기대를 품은 눈빛에, 상냥한 미소.+지휘관의 근심을 덜어 주기 위해 그토록 노력했는데도, 또 다시 함정에 빠져 바가지를 쓰고 말았다.+어떡하면 좋을까? 지금 모두가 OBR에게 기대고 있고, 지휘관도 OBR에게 기대하고 있다. 결코 여기서 포기할 수는 없었다.+분명 방법이 있을 터였다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>163</BIN><BGM>BGM_Empty</BGM>:바다...+물... 등대...?+배!+OBR이 흥분해서 눈을 반짝였다.
+OBRMOD(0)<Speaker>OBR</Speaker>||:여러분, 아직 포기하기엔 일러요!
+()<Speaker></Speaker>||:저 멀리 흔들리는 그림자에서 아이디어가 떠오른 것이었다.
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:정말 공항까지 헤엄쳐 가자고는 하지 말아 줘.
+OBRMOD(0)<Speaker>OBR</Speaker>||:아뇨, 더 좋은 방법이 있어요! 저거요!
+()<Speaker></Speaker>||:OBR이 의지를 불태우며 저쪽의 야자수들을 가리켰다.
+OBRMOD(0)<Speaker>OBR</Speaker>||<震屏3><BGM>BGM_War</BGM>:저 야자수로 뗏목을 만들어서, 물길을 따라 공항까지 가면 돼요!
+()<Speaker></Speaker>||:일행은 당연히 경악했다.
+ADS(0)<Speaker>ADS</Speaker><Position>0,200</Position>||:어... OBR 너 마인드맵 과열된 건 아니지?
+GeneralLiu(3)<Speaker>류 소총</Speaker>||:재미있긴 하겠지만, 그래도...
+PPD40(0)<Speaker>PPD-40</Speaker><Position>0,90</Position>||:어이가 없네.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:모두가 비관적임에도, OBR은 자신있게 가슴팍을 툭툭 쳤다.
+OBRMOD(0)<Speaker>OBR</Speaker>||:걱정 마세요, 뗏목 만들기라면 제가 일가견 있으니까요!+예전에 채권자를 피하다 바닷가에 몰렸을 때 간이 뗏목을 만들어서 도망친 적도 있거든요! 덕분에 이렇게 살아있는 거라고요!
+()<Speaker>인형들</Speaker>||:......
+OBRMOD(0)<Speaker>OBR</Speaker>||:제 말 좀 들어보세요, 저 사기꾼들한텐 절대 돌아가선 안 돼요. 카드를 긁을수록 지휘관님의 생활이 고달파진단 말이에요...+그러니, 이렇게 된 이상 우리가 이 문제를 해결해야 해요!+제가 이번 여행을 책임졌으니, 무슨 일이 있어도 반드시 모두가 무사히 복귀할 수 있도록 하겠어요. 저를 믿어 주세요!+자 자, 어서 가서 야자수를 베자고요! 우리가 힘을 합치면 금방 될 거예요!
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:......
+()<Speaker></Speaker>||:3일 후, 그리폰 기지.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>8</BIN><黑屏2><SE1>AVG_BaseDoor_Open</SE1>:지휘관이 지휘실 문을 여는 순간——
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1><BGM>m_wv_title</BGM>:펄럭펄럭펄럭펄럭...+프린터에서 영수증이 그 순간에도 인쇄되어 나와 지휘실의 바닥을 덮고 있었다.+카리나는 싱글벙글한 얼굴로 그 종이 카펫 위에서, 막 정리한 영수증 뭉치를 들고 굳어버린 지휘관에게 밝게 인사했다.
+()<Speaker>지휘관</Speaker>||:이게 다 뭐어야아아아?!
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:안녕히 주무셨어요, 지휘관님! 다 뭐긴요, OBR의 재테크 연수의 대금 청구서와 명세서죠~+수가 좀 많아서 아직 일부밖에 정리 못했지만요!
+NPC-Kalin(1)<Speaker></Speaker><同时置暗>||:직접 보지 않아도 "억" 소리 날 종이 뭉치들을 보면서, 지휘관은 절망감에 딸꾹질까지 했다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:아 참, 방금 수복실에서 연락이 왔는데요, 그 애들 소체가 장시간 바닷물에 노출된 탓에 부식이 심해서 전부 새걸로 교체해야 한대요.+사고 발생 당시의 영상은 아직 재구성이 안 끝났는데, 추측하길 바다에서 직접 만든 뗏목을 타다 사고로 뗏목이 풀어지는 바람에 모두 바다에 빠졌다는 것 같아요.+그 때문에 마인드맵도 상당히 큰 충격을 받아서, 회복하려면 시간이 많이 걸릴 것 같다네요오...+어쩜 이리 불행한 일이~
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:지휘관님이 여행을 보낸 직속상관이시니까 사비를 들여서라도 그 애들을 케어해 주셔야겠죠, 그쵸?
+NPC-Kalin(1)<Speaker>지휘관</Speaker><同时置暗>||:아니 잠깐만요, 카리나 씨? 이럼 나 진짜 빈털터리 되거든요?+아니 대체 무슨 일이 있었던 거야?! 이 대금... 이거 내가 여기서 뼈빠지게 일해도 갚을 수는 있어!?
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:히히히, 아마 평생 일하셔도 부족할걸요?
+()<Speaker></Speaker>||:지휘관은 절망으로 고개를 떨구었다.+그때, 문득 "뭔가 이상하다"는 느낌이 지휘관을 엄습했다.
+()<Speaker>지휘관</Speaker>||:설마... 카리나 너...!
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:네? 왜 그러세요, 지휘관님?
+NPC-Kalin(1)<Speaker>지휘관</Speaker><同时置暗>||:너... 너 일이 이렇게 될 걸 알고서...!+OBR한테 그 녀석들을 붙인 것도 다 계산해서...!
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:헤헤헤... 에이, 설마요오~
+()<Speaker></Speaker>||:천진난만하게 웃는 카리나의 푸른 눈동자는, 금빛으로 반짝였다.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:제가 어떻게 그럴 수가 있겠어요? 사랑하는 우리 지휘관니~임!
+()||<黑屏1>:

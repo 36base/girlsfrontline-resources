@@ -1,0 +1,224 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>654</BIN>:베슬란 제1중학교, 7학년 교실.
+()<Speaker></Speaker>||<BGM>Campaion-58-2</BGM>:"영원의 불" 사건으로부터 며칠 후, 교실은 학생이 좀 줄어든 것만 빼면 여느 때와 별다를 바 없었다.+이렇게, 시간이란 아무도 모르는 새에 모든 것을 무마시켜 버린다.+적어도 겉보기엔 그리 보이도록.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Fire_Alarm</SE1>:따르르릉!+수업 시작을 알리는 종소리가 울렸다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:마사 마이트너가 교실에 들어섰다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:오늘은 5장, 임계 문제의 해법을 배운다.+임계점을 찾지 못할 경우, 어떡하면 찾을 수 있는가지.
+()<Speaker>웅성거리는 학생</Speaker>||:흥... 학생을 해치면서 선생 노릇이야?
+()<Speaker>웅성거리는 학생</Speaker>||:그러게 말이야, 어떻게 뻔뻔하게 계속 수업을 한대.
+()<Speaker>웅성거리는 학생</Speaker>||:그거 들었어? 저 사람 딸은 이미 퇴학 권고 받았대.
+()<Speaker>웅성거리는 학생</Speaker>||:눈치 있으면 빨랑 좀 꺼질 것이지...
+()<Speaker>웅성거리는 학생</Speaker>||:교장 선생님은 대체 무슨 생각이길래...
+()<Speaker></Speaker>||:학생들의 눈에 "마사 마이트너"는 더는 선생님이 아니라, "분쟁을 일으키고 동포를 괴롭히는 미국인"이었다.+가차없는 수군거림은 당연히 점점 커져 갔다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:......
+()<Speaker></Speaker>||<SE1>Select</SE1>:철컥.+총을 장전하는 소리.+강단에서 마사가 갑자기 권총을 꺼내 들었다.
+()<Speaker></Speaker>||:그 순간, 교실은 음소거 버튼이라도 눌린 듯 조용해졌다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:총을 확인한 후, 마사는 총구를 시니아에게 향했다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:반장, 일어나.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:무력 앞에서는 따를 수밖에 없었다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:무섭냐?
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:......+여기는 학교고, 당신은 교사입니다.+교사가 학생을 해쳐선 안 됩니다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:하.+그럼 학생은 교사한테 총질해도 되고? 그딴 규칙은 어디서 났대?
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:......
+()<Speaker></Speaker>||:마사는 차가운 눈초리로 교실의 학생들을 스윽 훑어봤다.+그리곤 태연하게 방아쇠를 당겼다.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_pistol_finalshot_n</SE1><BGM>BGM_Empty</BGM>:탕!
+()<Speaker>학생들</Speaker>||:<size=50>꺄아아아아악!!</size>
+()<Speaker></Speaker>||<SE1>AVG_Bullet_Hit_Wall</SE1>:딱!
+()<Speaker></Speaker>||:시니아는 가슴이 철렁했지만, 어째선지 이마가 무지하게 아플 뿐 딱히 죽지도, 피를 흘리지도 않았다.+어안이 벙벙한 눈으로 고개를 숙여 보니, 그녀의 이마를 강타한 것은 작고 하얀, 석회질의 막대기였다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:이건...?
+NPC-Laplace(1)<Speaker>마사</Speaker>||<BGM>GF_22W_BGM_1</BGM>:요즘은 다 디지털 칠판이라서 아쉬워.+너넨 이거 본 적도 없지?+내가 학생 시절엔 말이다, 말 안 듣는 학생은 선생님한테 분필로 응징당했어.
+()<Speaker>학생들</Speaker>||:......
+NPC-Laplace(0)<Speaker>마사</Speaker>||:난 너네가 무슨 생각을 하든 상관 안 해.+하지만 수업 중엔 입 다물고 집중해라.
+()<Speaker></Speaker>||:돌아온 대답은 침묵이었지만, 말한대로 마사는 신경쓰지 않았다.+그저 분필을 발사하도록 개조된 권총을 든 채, 날카로운 시선으로 교실의 학생들과 맞섰다.+아무 생각도 없는 녀석, 겁먹은 녀석, 어쨌든 아니꼬운 녀석, 분에 겨워 씩씩대는 녀석...+그런데...+한 녀석은 표정이 안 보였다.
+()<Speaker></Speaker>||<SE1>AVG_pistol_finalshot_n</SE1><震屏3>:탕!+또 분필탄 한 발이 날아갔다.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position><Shake>0.1</Shake>||<SE1>AVG_Bullet_Hit_Wall</SE1>:악...?!
+()<Speaker></Speaker>||:여태까지 책상 위에 엎어진 채였던 안나의 정수리에 분필이 명중했다.+화들짝 놀란 안나는 정수리를 문지르며, 망연히 고개를 들어 두리번댔다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:넌 그냥 수업 듣기가 싫지?+교무실 가 있어라, 수업 끝나고 보자.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>276</BIN>:잠시후, 교무실.
+()<Speaker></Speaker>||:낮에는 보통 사람이 없어서인지, 교무실은 쌓인 물건으로 쓰레기장을 방불케 했다.+교과서를 비롯한 책, 각종 시험지, 교자재, 그리고 온갖 잡동사니가 곳곳에 산처럼 쌓여 있었다.+그 가운데서, 안나는 천장이나 보며 멍하니 있으려고 대충 서 있을 만한 곳을 찾았다.
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:음...+30분 정도 남았나.+이젠 서서 자는 법을 배워야 할지도...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:안나는 푸념하며 벽에 퉁 기댔다.
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1><BGM>BGM_Empty</BGM>:쿵쿵쿵...
+NPC-Ange(36)<Speaker>안나</Speaker><Position>0,-50</Position>||:...응?
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:쿵쿵쿵...+그러자 잡동사니 더미에서 소리가 났다.+무언가를 두드리는 소리 같았다.
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:...뭐지?
+()<Speaker></Speaker>||:안나는 소리가 나는 잡동사니에 다가갔다.
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:쿵쿵쿵.+다시 한번, 그리고 이번엔 정확하게 들려 자세히 보니, 잡동사니 뒤엔 "창고" 팻말이 붙은 문이 있었다.
+()<Speaker></Speaker>||<SE1>AVG_Knock</SE1>:혹시나 하는 마음에, 안나는 문에 다가가 노크를 해봤다.
+()<Speaker>？？？</Speaker>||:꺼내 주세요...
+()<Speaker></Speaker>||:사람의 목소리였다.
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:안나는 황급히 문을 막는 걸 죄다 치워버리고 문을 벌컥 열었다.
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:그러자, 안에서 어린 여자아이 한 명이 문에 기대고 있었는지 엉거주춤 넘어졌다.
+NPC-Ange(36)<Speaker>안나</Speaker><Position>0,-50</Position>||:넌...
+()<Speaker></Speaker>||:그날 마사의 품에 안겨 있던 아이. 마사의 딸이었다.
+NPC-Sana(4)<Speaker>여자아이</Speaker><Position>0,210</Position>||<BGM>m_wv_scenario</BGM>:......우애애앵――
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:말랑말랑한 몸이 안나를 꼭 껴안았다.+이걸 밀어내기엔 그렇고, 그냥 내버려 두기도 어색했다.+안나는 아이를 돌봐 본 적이 없었다, 애초에 그녀도 아직 어린애였다.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:왜... 왜 울어?
+NPC-Ange(37)<Position>0,-50</Position>;NPC-Sana(4)<Speaker>여자아이</Speaker><Position>0,210</Position>||:깜깜해서 무서웠어어――
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>;NPC-Sana(4)<Position>0,210</Position>||:그럼 네 엄마한테 가서 이르면 되지, 한 성깔 하잖아.
+NPC-Ange(33)<Position>0,-50</Position>;NPC-Sana(4)<Speaker>여자아이</Speaker><Position>0,210</Position>||:싫어어...
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>;NPC-Sana(4)<Position>0,210</Position>||:너... 이렇게 징징대니까 지나가던 나쁜 놈들도 괴롭히려 드는 거야.
+NPC-Ange(37)<Position>0,-50</Position>;NPC-Sana(4)<Speaker>여자아이</Speaker><Position>0,210</Position>||:쿨쩍... 아니야, 노란 머리 오빠랑 언니는 안 괴롭혀...
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>;NPC-Sana(4)<Position>0,210</Position>||:......+이거 놔.
+NPC-Sana(4)<Speaker>여자아이</Speaker><Position>0,210</Position>||:싫어어어...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:여자아이는 눈물과 콧물을 안나의 가슴에 막 문질러댔다.
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:......+<color=#A9A9A9>에이 몰라, 어차피 나도 평소 깔끔 안 떠는걸.</color>
+()<Speaker></Speaker>||:한참을 울고서야, 여자애는 간신히 잠잠해졌다.
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:...야.
+NPC-Ange(33)<Position>0,-50</Position>;NPC-Sana(2)<Speaker>여자아이</Speaker><Position>0,210</Position>||:나 부른 거야?
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>;NPC-Sana(2)<Position>0,210</Position>||:너 말고 누가 있어.
+NPC-Ange(33)<Position>0,-50</Position>;NPC-Sana(2)<Speaker>여자아이</Speaker><Position>0,210</Position>||:내 이름은 "사나"야.
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:어, 그래. 그래서 이 안에서 뭐하고 있었어?
+()<Speaker></Speaker>||:그 말에 사나의 눈에 또 눈물이 차올랐다.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:뚝!+또 울면 네 엄마 부르러 간다?
+NPC-Sana(4)<Speaker>사나</Speaker><Position>0,210</Position>||:히잉...
+()<Speaker></Speaker>||:어린아이 달래는 특효약에 사나는 울먹이기만 하고 필사적으로 울음을 참았다.
+NPC-Sana(1)<Speaker>사나</Speaker><Position>0,210</Position>||:엄, 엄마가, 엄마가 밖에서 놀지 말래...
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>;NPC-Sana(1)<Position>0,210</Position>||:...그럼 안 놀면 되지.
+NPC-Ange(33)<Position>0,-50</Position>;NPC-Sana(1)<Speaker>사나</Speaker><Position>0,210</Position>||:그치만 깜깜한 방에 있긴 싫어...
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>;NPC-Sana(1)<Position>0,210</Position>||:누가 가뒀어?
+NPC-Ange(33)<Position>0,-50</Position>;NPC-Sana(1)<Speaker>사나</Speaker><Position>0,210</Position>||:엄마가아...
+NPC-Ange(36)<Speaker>안나</Speaker><Position>0,-50</Position>;NPC-Sana(1)<Position>0,210</Position>||:...하?
+NPC-Ange(36)<Position>0,-50</Position>;NPC-Sana(1)<Speaker>사나</Speaker><Position>0,210</Position>||:따라다니지 말랬어...
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:......+그 여자도 그러나.
+NPC-Sana(1)<Speaker>사나</Speaker><Position>0,210</Position>||:응...?
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>;NPC-Sana(1)<Position>0,210</Position>||:우리 엄마도 그랬거든.+나 쬐끄만했을 적에, 엄마가 늦게까지 일해야 한다고 날 세탁기 안에 넣고 간 적 있어.
+NPC-Ange(33)<Position>0,-50</Position>;NPC-Sana(0)<Speaker>사나</Speaker><Position>0,210</Position>||<SE1>ClothingUp</SE1>:...풉!+우리 엄마는 안 그랬는데.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:뭘 웃어, 창고에 불도 안 켜고 갇힌 게 나은 줄 알아?
+()<Speaker></Speaker>||:사나가 입을 삐죽였다.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:야잇 울지 마!
+NPC-Ange(37)<Position>0,-50</Position>;NPC-Sana(1)<Speaker>사나</Speaker><Position>0,210</Position>||:으응...+우리 엄만 안 놀아 줘.
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>;NPC-Sana(1)<Position>0,210</Position>||:우리 엄마도 그랬지.
+NPC-Ange(33)<Position>0,-50</Position>;NPC-Sana(1)<Speaker>사나</Speaker><Position>0,210</Position>||:나랑 같이 자 준 적도 없고.
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>;NPC-Sana(1)<Position>0,210</Position>||:우리 엄마도.
+NPC-Ange(33)<Position>0,-50</Position>;NPC-Sana(1)<Speaker>사나</Speaker><Position>0,210</Position>||:우리 엄만...
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:아 됐어 됐어 누가 더 불쌍한가 내기라도 할 셈이야?+그리고 그만 껴안고 좀 떨어지라고!+너 무거워!
+NPC-Sana(1)<Speaker>사나</Speaker><Position>0,210</Position>||:응...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:사나는 눈을 비비며 두 걸음 물러섰다.
+NPC-Sana(0)<Speaker>사나</Speaker><Position>0,210</Position>||:언니, 나랑 놀아 주러 온 거야?
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:...아니.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:교무실에 온 이유를 다시 떠올리니, 안나는 심술이 나 사나의 볼을 꼬집었다.
+NPC-Ange(35)<Speaker>안나</Speaker><Position>0,-50</Position>||:다 네 엄마 때문이니까 너한테 화풀이할 거야.
+NPC-Sana(4)<Speaker>사나</Speaker><Position>0,210</Position>||:우애앵...
+()<Speaker></Speaker>||:안나는 툴툴대며 꼬집은 볼을 좀 더 주욱 늘렸다.
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:그 여자만 아니었음 아무 일도 없었을 텐데.+......
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_21Winter_Fire_Alarm</SE1>:따르르릉!+수업 종료를 알리는 종소리.+동시에 학생들이 우르르 내달리는 소리와 진동이 벽을 타고 전달됐다.+방과 후의 해방감은 어느 때든 여전했다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:교무실로 돌아온 마사는 자기 의자에 사나가 앉아 다리를 흔들고 있는 걸 보곤 눈살을 찌푸렸다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:사나? 너 어떻게 나왔어?
+NPC-Sana(3)<Speaker>사나</Speaker><Position>0,210</Position>||<SE1>ClothingUp</SE1>:흥!
+()<Speaker></Speaker>||:혹시 다치진 않았나 자세히 살폈지만 사나는 눈이 퉁퉁 부었다 가라앉은 것 외엔 멀쩡했다.+대신, 탁상에 지저분한 글씨체의 포스트잇이 마사의 눈에 띄었다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1><narrator>:"남의 집 애한테 설교할 시간에 니 딸이랑 좀 놀아 줘"
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>644</BIN>:베슬란 제1중학교 도서관.
+()<Speaker></Speaker>||<BGM>2022_white_valentine_BGM2</BGM>:다시 도서관을 찾은 안나는 이번엔 책장 쪽이 아닌 도서관 관리원이 있는 자리로 향했다.
+()<Speaker>도서관 관리원</Speaker>||:관리 규칙 제대로 읽었지?
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:응.
+NPC-Ange(33)<Speaker>도서관 관리원</Speaker><Position>0,-50</Position><同时置暗>||:벌금은... 여기. 저기 가서 카드 긁어.
+NPC-Ange(36)<Speaker>안나</Speaker><Position>0,-50</Position>||:엑... 정가의 10배잖아?
+NPC-Ange(36)<Speaker>도서관 관리원</Speaker><Position>0,-50</Position><同时置暗>||:예전 물가랑 지금 물가랑 같겠냐.+인플레이션이라고, 알아 몰라?
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:아... 어.+<color=#A9A9A9>두 달치 용돈이 허무하게 날아가는구나.</color>
+()<Speaker></Speaker>||:안나는 쓰린 속을 억누르며 카드 리더기에 다가갔다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:카드를 꺼내려던 그때, 누가 대뜸 손으로 카드 슬롯을 가렸다.+또 그 여자였다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:이거 줄 테니 원래 책 반납해.
+()<Speaker></Speaker>||:마사가 건넨 것은 새것인 《노변의 피크닉》, 낡은 것과 똑같은 1972년 출판본이었다.
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:......
+NPC-Laplace(0)<Speaker>마사</Speaker>;NPC-Ange(33)<Position>0,-50</Position>||:반납 안 하면 꼰지른다.+도서관의 책을 훔친 도둑이라고.
+NPC-Laplace(0);NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:뭐야... 왜 그러는데.
+NPC-Laplace(0)<Speaker>마사</Speaker>;NPC-Ange(33)<Position>0,-50</Position>||:내가 빚지는 거 싫어한댔지?+딸내미랑 놀아 준 수고비인 셈 쳐.
+NPC-Laplace(0);NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:...넌 뭐든지 돈으로 계산해?
+NPC-Laplace(0)<Speaker>마사</Speaker>;NPC-Ange(37)<Position>0,-50</Position>||:그게 편하거든.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:......
+NPC-Laplace(0)<Speaker>마사</Speaker>||:그래서 가져갈래, 신고당할래?
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:......칫.
+()<Speaker></Speaker>||<SE1>AVG_Zipper</SE1><SE1>AVG_Creep</SE1>:안나는 혀를 차며 책가방을 열어, 낡은 책을 꺼내고 받은 새 책을 넣었다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:......
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:이거, 내가 산 걸로 쳐.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:허.
+()<Speaker></Speaker>||:그리고 안나는 낡은 《노변의 피크닉》을 들고 도서관 관리원에게 돌아갔다.
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:가방 안에 있더라.
+NPC-Ange(33)<Speaker>도서관 관리원</Speaker><Position>0,-50</Position><同时置暗>||<BGM>BGM_Empty</BGM>:으이구... 다음부턴 주의해!
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:응.
+()<Speaker></Speaker>||:일을 해결했을 땐 이미 하교 시간이었다.+하지만 뭔가 좀 탐탁찮았다.
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||<BGM>Campaion-58-2</BGM>:<color=#A9A9A9>저 여자가 신경쓰여서가 아니야, 사나가 좀 불쌍해서야.</color>
+()<Speaker></Speaker>||:안나는 곧장 떠나지 않고 도서관의 책장 사이를 거닐었다.+여기가 모스크바였다면, 이 책장들은 전부 진작에 합금제로 교체됐을 것이다. 아무렴, 낡아서 이미 한번 무게를 못 견디고 무너진 적도 있었으니까.+하지만 베슬란은 작은 도시라서, 건물도 처음 세워졌을 때의 소재와 모습 그대로를 간직하는 곳이다.+목제 책장엔 흠집이 가득하고, 전기 절약이랍시고 책장 사이사이의 독서용 전등도 절반은 꺼진 상태였다.+그 침침한 등불을 통해, 안나는 이제는 좀 익숙해진 그 얼굴을 다시 찾았다.
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:...너 말이야, 사나랑 많이 같이 있어 줘야 한다고 생각해.+딸이잖아, 네가 어디서 갑자기 픽 죽기라도 하면 얼마나 슬프겠어.+요즘 같은 시대는 특히 언제 사람이 죽어도 이상하지 않을 때잖아.
+NPC-Laplace(0)<Speaker>마사</Speaker>||<SE1>ClothingUp</SE1>:......
+()<Speaker></Speaker>||:잠깐 뜸을 들이다 고개를 돌린 마사는 아주 같잖다는 눈으로 안나를 흘겨봤다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:사나 얘기냐, 네 얘기냐?
+NPC-Laplace(0);NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:무슨 소리야...?
+NPC-Laplace(1)<Speaker>마사</Speaker>;NPC-Ange(33)<Position>0,-50</Position>||:총은 네 아버지 유품이고, 책은 네 어머니 거지?
+NPC-Laplace(1);NPC-Ange(36)<Speaker>안나</Speaker><Position>0,-50</Position>||:......!
+NPC-Laplace(0)<Speaker>마사</Speaker>;NPC-Ange(36)<Position>0,-50</Position>||:아아 착각은 말아라, 쓸데없이 네 뒷조사라도 한 건 아니니까.+어쨌든 선생이라서 학생 인적사항은 볼 수밖에 없거든.
+NPC-Laplace(0);NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:......
+NPC-Laplace(0)<Speaker>마사</Speaker>;NPC-Ange(33)<Position>0,-50</Position>||:읽지 않는다면 갖고 있어봤자 아무 의미 없어.
+NPC-Laplace(0);NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:......
+NPC-Laplace(0)<Speaker>마사</Speaker>;NPC-Ange(33)<Position>0,-50</Position>||:총도 그래, 제대로 손질 안 하면 그냥 고철덩이다.
+NPC-Laplace(0);NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:...그냥, 이 모습 그대로 두면 된다고.
+NPC-Laplace(0)<Speaker>마사</Speaker>;NPC-Ange(33)<Position>0,-50</Position>||:세상 그 무엇도 그대로 있을 수 없어.
+NPC-Laplace(0);NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:............
+NPC-Laplace(0)<Speaker>마사</Speaker>;NPC-Ange(37)<Position>0,-50</Position>||:종이는 언젠간 색이 바래고, 총열은 녹슬기 마련이지.+너도 언제까지고 15살일 수 없어. 평생 어린애로 있을 수 있다 생각해?
+NPC-Laplace(0);NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:......그럼, 죽으면 돼.+죽으면 영원히 15살이야.
+NPC-Laplace(1)<Speaker>마사</Speaker>;NPC-Ange(37)<Position>0,-50</Position>||<BGM>BGM_Empty</BGM>:허어... 죽고 싶어 그럼?+아주 못하는 말이 없네.+아 뭐, 이런 빌어먹을 시대니까 확실히 죽고 싶어하는 사람이 꽤 있긴 하지.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:나한테 어떻게 살라 가르치려 들지 마!
+NPC-Laplace(0)<Speaker>마사</Speaker>||:나한테 엄마 노릇하는 법 가르치려 들지 마.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:그, 그건 그냥... 애가 귀찮게 구니까 어울려 준 거야.
+NPC-Laplace(0)<Speaker>마사</Speaker>;NPC-Ange(37)<Position>0,-50</Position>||<BGM>BGM_23S_Winter_Night</BGM>:내가 네 엄마였다면 나 속 터져 죽었을 거다.
+NPC-Laplace(0);NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:네가 내 엄마였음 나 화병 나서 죽었을걸.
+NPC-Laplace(0)<Speaker>마사</Speaker>;NPC-Ange(37)<Position>0,-50</Position>||:푸흡!+하여간 진짜 이상한 애네.
+NPC-Laplace(0);NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:너나 잘하세요.
+NPC-Laplace(0)<Speaker>마사</Speaker>;NPC-Ange(37)<Position>0,-50</Position>||:소중한 줄 알아라, 슬픔을 이겨낼 기운이 있는 거 자체가 사치야.
+NPC-Laplace(0);NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:다 안다는 듯이 말하지 말라고.
+NPC-Laplace(0)<Speaker>마사</Speaker>;NPC-Ange(37)<Position>0,-50</Position>||:넌 네 원래 부모님한테도 그딴 식이었냐?
+NPC-Laplace(0);NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:...제대로 대화한 적 없어.
+NPC-Laplace(0)<Speaker>마사</Speaker>;NPC-Ange(33)<Position>0,-50</Position>||:아하, 그래서 아쉽다 이거구만.
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:......
+NPC-Laplace(0)<Speaker>마사</Speaker>||:사람은 아이가 생겨서 부모 노릇하는 법을 배우지, 부모가 되는 법을 배운 뒤에 애를 가지는 게 아니야.+난 내가 과연 좋은 엄마가 될 수 있을까 고민을 해보기도 전에 이미 한 아이의 어머니가 되어 있었어.
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:……
+NPC-Laplace(0)<Speaker>마사</Speaker>||:인생엔 아쉬운 게 너무 많아서 어느 순간 죄다 무의미하게 느껴질 수는 있지.+근데 그건 말이다, 지금 네가, 너무 좁은 세상에서 살고 있기 때문이야.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:네겐 새 가족이 생겼잖냐.+그리고 아흐민 녀석은 신기할 정도로 훌륭한 녀석이고.
+NPC-Laplace(0);NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:그래봤자 "미국놈"이랑 친구가 될 확률보단 적이 될 가능성이 더 높은데.
+NPC-Laplace(0)<Speaker>마사</Speaker>;NPC-Ange(33)<Position>0,-50</Position>||:그야 그렇겠지...+그런데 넌 지금 여기서 이렇게 "적"이랑 수다를 떨고 있네.
+NPC-Laplace(0);NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||<SE1>ClothingUp</SE1>:...너, 사나 사랑해?
+NPC-Laplace(0)<Speaker>마사</Speaker>;NPC-Ange(33)<Position>0,-50</Position>||:......+그런 건 왜 물어?
+NPC-Laplace(0);NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:다들 나한테, 행복한 가정에서 살다 불행한 사고를 당해서 불쌍하다고만 해.+당사자인 난 딱히 그렇게 느낀 적 없는데.
+NPC-Laplace(0)<Speaker>마사</Speaker>;NPC-Ange(33)<Position>0,-50</Position>||:......
+NPC-Laplace(0);NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:내가 보기에, 그 사람들은 나보다 일을 더 사랑하던걸.
+NPC-Laplace(1)<Speaker>마사</Speaker>;NPC-Ange(33)<Position>0,-50</Position>||<BGM>BGM_Empty</BGM>:풉... 네가 나중에 커서 그런 인간이 될지도 모른단 뜻이네.
+NPC-Laplace(1);NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:이...!
+NPC-Laplace(1)<Speaker>마사</Speaker>;NPC-Ange(33)<Position>0,-50</Position>||:야, 내기 하나 하자.
+NPC-Laplace(1);NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:무슨 내기?
+NPC-Laplace(1)<Speaker>마사</Speaker>;NPC-Ange(33)<Position>0,-50</Position>||<BGM>BGM_23S_Winter_Night_Bayan_Version</BGM>:네가 장래에 모험가가 된다에 걸겠어.
+NPC-Laplace(1);NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:뭐...?
+NPC-Laplace(1)<Speaker>마사</Speaker>||:인류의 역사는 끝없이 오르락내리락하는 롤러코스터야.+이 롤러코스터에 탄 승객들은 끊임없이 옷을 갈아입고, 짐가방을 바꾸고, 온갖 대화를 나눠.+내가 보기엔 말이다, 그 사람들을 저마다로 구분 짓는 특별함은 바로 그 여정 중 무얼 하느냐야.+그리고 그중 오직 모험가만이 여정 자체를 즐기려 하지.
+NPC-Laplace(1);NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:...좀 쉽게 말해.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:내가 네 국어 선생이 아니라서 다행이네...
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1><黑屏2><BIN>9</BIN>:미약한 독서용 전등이 책장 앞을 비췄고, 도저히 친구라 할 수 없는 두 사람이 어깨를 맞대고 앉았다.+그 둘은 함께 딱히 베스트 셀러도, 고전문학도 아닌 책을 읽었다.
+()||<黑屏1>:
+()<Speaker>마사</Speaker>||<黑屏2><BIN>648</BIN><SE1>AVG_20Winter_Book</SE1>:"500년 후, 우리가 동서로 갈라져 벌이는 이 싸움도 결국 장미 전쟁처럼 무의미해질 텐데, 대체 우리가 누구라고 이 모든 것을 끝내려 하나?"
+()<Speaker>마사</Speaker>||<SE1>AVG_20Winter_Book</SE1>:"나는 모르겠다. 지구가 인간의 독약으로 척박해지고, 공기가 오염되고, 인류가 병들어 갈 때, 사람들은 인간된 몸에 깃든 인간된 정신으로 어떻게 자유를 소중히하고, 타인의 권리를 존중하고, 그 최고의 재능 '사랑'을 발휘할지."
+()<Speaker>마사</Speaker>||<SE1>AVG_20Winter_Book</SE1>:"나는 모르겠다. 선악을 포함한 세상의 모든 인간성이 전부 닳아 사라질 때, 사람들은 무슨 인류의 가치를 내세우려 할지."
+()<Speaker>안나</Speaker>||<BIN>648</BIN><bg_move>%%pivot_x=0.5%%pivot_y=0.5%%scale=1.3%%duration=2%%</bg_move>:......
+()<Speaker>안나</Speaker>||:장미 전쟁이 뭐야?
+()<Speaker>마사</Speaker>||:야 이... 최소한 셰익스피어 문학 정도는 읽어봐야지.
+()<Speaker>안나</Speaker>||:내 어머니는 국어 선생이었어.
+()<Speaker>마사</Speaker>||:......
+()<Speaker>안나</Speaker>||:근데 무슨 정해진 운명이라도 있는 건지, 내가 예전에 다니던 학교에서 교사 자식들은 다 우등생 못 되더라.
+()<Speaker>마사</Speaker>||:괜찮아, 네 어머니가 널 나무라진 않을 거야.
+()<Speaker>안나</Speaker>||:......?+왜?
+()<Speaker>마사</Speaker>||:국어 교사까지 할 정도면 네가 문학에 젬병인 걸 진작에 눈치챘을 테니까.
+()<Speaker>안나</Speaker>||:윽...+그럼 나 아무 재능도 없는 거야?
+()<Speaker>마사</Speaker>||:흐음... 아, 너 총 쥐는 자세는 꽤 정석적이더라.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><narrator><BIN>644</BIN>:......+사나 데리고 여길 떠나기로 했다.+그럼 앞으로 연락하기 어려워지겠네?+닉네임을 정하자.+음... 그럼 넌 "라플라스"로 해. 과학의 괴물이잖아.+헷... 그럼 넌 저승의 천사 "아바돈" 해라, 딱이네.
+()<Speaker></Speaker>||<SE1>AVG_Rain_Heavy</SE1><common_effect>%%code=NoiseVideo%%wait=1%%</common_effect>:
+()<Speaker>？？？？</Speaker>||<白屏2><SE1>Stop_AVG_loop</SE1><BIN>641</BIN><BGM>BGM_Empty</BGM>:기억을 몇 번이고 잃어도, 곁의 인물이 어떻게 바뀌어도, 너는 언제나 네 결정을 결코 바꾸는 법이 없구나.+과연 내 제자야.
+()<Speaker>？？？</Speaker>||:당신은 그녀에 대해 좀 모르는 것 같네요.
+()<Speaker>？？？？</Speaker>||:유감스럽게도, 우리가 사제지간이었던 시간은 인생에 비하면 너무나도 짧았거든.
+()||<BGM>BGM_Empty</BGM><黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>655</BIN><narrator><SE1>AVG_2023Slow_WN_Phonograph_Disc</SE1>:친애하는 마이트너에게.+그 "백만송이 장미" 가게를 다시 찾았습니다. 레코드판을 새로 입고했다 하니 나중에 몇 개 골라서 보내드릴게요.+지금은 하루하루가 엄청 바빠요. 졸업 여행으로 여러 나라를 구경하며 즐거웠던 때가 자꾸만 떠오를 정도로요.+다양한 문화와 사고방식을 지닌 사람들과 물건들을 보고, 서로 다른 생각들이 부딪히는, 정말 재미있는 나날이었는데.+요즘 들어 독일은 새로운 기술 혁신의 바람이 불 거라고 사람들이 공공연히 말하고 다녀요. 곧 실력자 한 명이 중직을 맡게 되는데, 이름 들어봤으려나요?+루돌프 폰 오버슈타인.+흥미 있으면 한번 접촉해 보세요.+2051년 베를린에서, 블랙웰이.
+()||<黑点1>:

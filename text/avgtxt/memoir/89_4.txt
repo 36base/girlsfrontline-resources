@@ -1,42 +1,42 @@
-()||<BIN>82</BIN><BGM>GF_Memorial</BGM>:그리폰 인형 숙소.
-IDW(0)<Speaker>IDW</Speaker><Delay>1</Delay>||:아, 여기 있구냥! L85A1!
-L85A1(0)<Speaker>L85A1</Speaker><Shake>1</Shake>||:어머나! 깜짝이야...+IDW, 사람을 부를 땐 소리를 좀 줄일 수 없나요?
-L85A1(0);IDW(0)<Speaker>IDW</Speaker>||:미안하다냥! 오늘 좀 흥분했다냥!+오늘 브렌이 돌아오는 날 맞냥?!!+너무 오랜만이나 그립다냥!!!
-L85A1(0)<Speaker>L85A1</Speaker>;IDW(0)||:아하하... 그 마음은 이해하지만...
-L85A1(0)<Speaker>L85A1</Speaker>||:계속 그렇게 큰소리로 말하다가 브렌이 듣기라도 하면 또...
-BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>||:시끄러워, 이 바보 고양이.
-BrenMKMod(0)<Position>0,230</Position>;IDW(0)<Speaker>IDW</Speaker>||:냥! 브, 브렌이냥?!+예전 모습과 다른 것 같다냥!+우와, 이 새 옷 멋지다냥!!
-BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>||<震屏3>:좀 조용히 하라니까!
-L85A1(0)<Speaker>L85A1</Speaker>||:브렌, 잘 돌아왔어요!+마인드맵 업그레이드는 아주 순조로웠나 보군요.
-BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>;L85A1(0)||:응, 더욱 강해진 것이 느껴져.+웰로드가 날 명단에 올려준 덕분이야.
-BrenMKMod(0)<Position>0,230</Position>;L85A1(0)<Speaker>L85A1</Speaker>||:흐윽... 돌아와 줘서 정말 다행이에요!
-BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>;L85A1(0)||:야, 잠깐, 왜 우는 거야?
-BrenMKMod(0)<Position>0,230</Position>;L85A1(0)<Speaker>L85A1</Speaker>||:죄송해요, 좀 흥분해서...
-BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>;L85A1(0)||:다과회에 초대한 거 아니었어?+울 시간 있으면, 차나 끓여줘.
-BrenMKMod(0)<Position>0,230</Position>;L85A1(0)<Speaker>L85A1</Speaker>||:정말이지... 브렌은 여전히 용서 없네요.
-BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>;L85A1(0)||:너희가 너무 게으른 거다.+... 맞다, 웰로드는 어디 있지?
-BrenMKMod(0)<Position>0,230</Position>;IDW(0)<Speaker>IDW</Speaker>||:대장은 다과회를 열 신청을 내러 갔다냥!
-BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>;IDW(0)||:저번에 지휘관의 허락을 받지 않았어?
-BrenMKMod(0)<Position>0,230</Position>;IDW(0)<Speaker>IDW</Speaker>||:그때 브렌이 빠진 때문이다냥.+그래서 대장이 브렌이 돌아올 때까지 다과회를 미루자고 했다냥!
-BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>;IDW(0)||:... 정말이지, 여전히 괜한 참견만 하는군.
-BrenMKMod(0)<Position>0,230</Position>;L85A1(0)<Speaker>L85A1</Speaker>||:이제 브렌도 돌아왔으니, 어서 다과회를 어떻게 할지 논의하죠?
-BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>;L85A1(0)||:어... 그래.+뭘 논의하지?
-BrenMKMod(0)<Position>0,230</Position>;L85A1(0)<Speaker>L85A1</Speaker>||:어디 보자...+이제 카페를 어떻게 꾸밀지만 정하면 되네요.
-IDW(0)<Speaker>IDW</Speaker>;L85A1(0)||:아아아아주 귀엽게 꾸미는 거냥! 고양이 인형으로 가득 채우는 거냥!
-IDW(0);L85A1(0)<Speaker>L85A1</Speaker>||:그건 너무 심해요, 역시 고전적인 영국 스타일이...+브렌은 어떤가요?
-BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>;L85A1(0)||:우리의 사명을 잊지 않도록 사격장처럼 꾸미지.
-BrenMKMod(0)<Position>0,230</Position>;IDW(0)<Speaker>IDW</Speaker>||:냐앙?!+아냥 아냥! 그랬다간 모두 놀라 도망칠 거다냥!
-L85A1(0)<Speaker>L85A1</Speaker>;IDW(0)||:브렌, 왠지 돌아오고 나니 점점 웰로드를 닮아가는 것 같아요...+혹시 이상한 바이러스라도 옮은 건 아니죠?!
-L85A1(0);Welrod(0)<Speaker>웰로드</Speaker>||:무슨 소리냐, 난 전자전 모듈도 없다.
-L85A1(0)<Speaker>L85A1</Speaker><Shake>1</Shake>;Welrod(0)||:어, 어머나!+웰로드... 나타나기 전엔 좀 말을 해주세요, 네?+놀랐잖아요...
-Welrod(0)<Speaker>웰로드</Speaker>||:너의 경계가 너무 느슨한 거다.+L85A1, 바닥이 이 정도로 진동하는 것조차 감지하지 못하면 적에게 기습당하기 일쑤다.
-BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>||:... 푸흡.
-IDW(0)<Speaker>IDW</Speaker>||:냥? 브렌, 웃는 거냥?!+대장! L85A1!! 브렌이 웃는 거 좀 보라냥!
-BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>||:바보 고양이가, 뭘 호들갑이야.+난 그저 너희들이 떠드는 모습이 웃겼을 뿐이야.
-Welrod(0)<Speaker>웰로드</Speaker>||:지금 우리를 조롱하는 것이냐, 브렌?+지금 우린 진지하게 계획을 토론하는 중이다!
-IDW(0)<Speaker>IDW</Speaker>||:맞다냥! 브렌도 좀 진지하게 하라냥!
-L85A1(0)<Speaker>L85A1</Speaker>||:어휴... 또 이렇게 됐네요.+이래서 언제 결론이 나올까요...
-BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>||:됐어, 다 조용히 해.+어쨌든 간에 오늘 안에 방안을 짜내서 지휘관과 다른 인형들을 실망하게 하지 말아야지.
-BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>||<黑屏1>:그리고, 하나 더 할 말이 있어.
-()||<BIN>9</BIN><黑屏1>:...+난 아직도 강해지고 싶다.+지금도 웰로드가 말한 강해지기 위한 이유를 찾고 있었다.+하지만 지금은 일단 이유라고 할 수 있는 물건을 찾은 것 같다.
-브렌()<Speaker>브렌</Speaker>||<黑屏1>:미안, 모두에게 걱정을 끼쳤어.+나 브렌, 오늘부로 정식으로 복귀한다.+앞으로도 가장 가혹한 임무를 내게 맡겨라.+나의 행동으로 나 자신의 강함을 증명해 보이지!
+()||<BIN>82</BIN><BGM>GF_Memorial</BGM>:그리폰 인형 숙소.
+IDW(0)<Speaker>IDW</Speaker><Delay>1</Delay>||:아, 여기 있구냥! L85A1!
+L85A1(0)<Speaker>L85A1</Speaker><Shake>1</Shake>||:어머나! 깜짝이야...+IDW, 사람을 부를 땐 소리를 좀 줄일 수 없나요?
+L85A1(0);IDW(0)<Speaker>IDW</Speaker>||:미안하다냥! 오늘 좀 흥분했다냥!+오늘 브렌이 돌아오는 날 맞냥?!!+너무 오랜만이나 그립다냥!!!
+L85A1(0)<Speaker>L85A1</Speaker>;IDW(0)||:아하하... 그 마음은 이해하지만...
+L85A1(0)<Speaker>L85A1</Speaker>||:계속 그렇게 큰소리로 말하다가 브렌이 듣기라도 하면 또...
+BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>||:시끄러워, 이 바보 고양이.
+BrenMKMod(0)<Position>0,230</Position>;IDW(0)<Speaker>IDW</Speaker>||:냥! 브, 브렌이냥?!+예전 모습과 다른 것 같다냥!+우와, 이 새 옷 멋지다냥!!
+BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>||<震屏3>:좀 조용히 하라니까!
+L85A1(0)<Speaker>L85A1</Speaker>||:브렌, 잘 돌아왔어요!+마인드맵 업그레이드는 아주 순조로웠나 보군요.
+BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>;L85A1(0)||:응, 더욱 강해진 것이 느껴져.+웰로드가 날 명단에 올려준 덕분이야.
+BrenMKMod(0)<Position>0,230</Position>;L85A1(0)<Speaker>L85A1</Speaker>||:흐윽... 돌아와 줘서 정말 다행이에요!
+BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>;L85A1(0)||:야, 잠깐, 왜 우는 거야?
+BrenMKMod(0)<Position>0,230</Position>;L85A1(0)<Speaker>L85A1</Speaker>||:죄송해요, 좀 흥분해서...
+BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>;L85A1(0)||:다과회에 초대한 거 아니었어?+울 시간 있으면, 차나 끓여줘.
+BrenMKMod(0)<Position>0,230</Position>;L85A1(0)<Speaker>L85A1</Speaker>||:정말이지... 브렌은 여전히 용서 없네요.
+BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>;L85A1(0)||:너희가 너무 게으른 거다.+... 맞다, 웰로드는 어디 있지?
+BrenMKMod(0)<Position>0,230</Position>;IDW(0)<Speaker>IDW</Speaker>||:대장은 다과회를 열 신청을 내러 갔다냥!
+BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>;IDW(0)||:저번에 지휘관의 허락을 받지 않았어?
+BrenMKMod(0)<Position>0,230</Position>;IDW(0)<Speaker>IDW</Speaker>||:그때 브렌이 빠진 때문이다냥.+그래서 대장이 브렌이 돌아올 때까지 다과회를 미루자고 했다냥!
+BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>;IDW(0)||:... 정말이지, 여전히 괜한 참견만 하는군.
+BrenMKMod(0)<Position>0,230</Position>;L85A1(0)<Speaker>L85A1</Speaker>||:이제 브렌도 돌아왔으니, 어서 다과회를 어떻게 할지 논의하죠?
+BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>;L85A1(0)||:어... 그래.+뭘 논의하지?
+BrenMKMod(0)<Position>0,230</Position>;L85A1(0)<Speaker>L85A1</Speaker>||:어디 보자...+이제 카페를 어떻게 꾸밀지만 정하면 되네요.
+IDW(0)<Speaker>IDW</Speaker>;L85A1(0)||:아아아아주 귀엽게 꾸미는 거냥! 고양이 인형으로 가득 채우는 거냥!
+IDW(0);L85A1(0)<Speaker>L85A1</Speaker>||:그건 너무 심해요, 역시 고전적인 영국 스타일이...+브렌은 어떤가요?
+BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>;L85A1(0)||:우리의 사명을 잊지 않도록 사격장처럼 꾸미지.
+BrenMKMod(0)<Position>0,230</Position>;IDW(0)<Speaker>IDW</Speaker>||:냐앙?!+아냥 아냥! 그랬다간 모두 놀라 도망칠 거다냥!
+L85A1(0)<Speaker>L85A1</Speaker>;IDW(0)||:브렌, 왠지 돌아오고 나니 점점 웰로드를 닮아가는 것 같아요...+혹시 이상한 바이러스라도 옮은 건 아니죠?!
+L85A1(0);Welrod(0)<Speaker>웰로드</Speaker>||:무슨 소리냐, 난 전자전 모듈도 없다.
+L85A1(0)<Speaker>L85A1</Speaker><Shake>1</Shake>;Welrod(0)||:어, 어머나!+웰로드... 나타나기 전엔 좀 말을 해주세요, 네?+놀랐잖아요...
+Welrod(0)<Speaker>웰로드</Speaker>||:너의 경계가 너무 느슨한 거다.+L85A1, 바닥이 이 정도로 진동하는 것조차 감지하지 못하면 적에게 기습당하기 일쑤다.
+BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>||:... 푸흡.
+IDW(0)<Speaker>IDW</Speaker>||:냥? 브렌, 웃는 거냥?!+대장! L85A1!! 브렌이 웃는 거 좀 보라냥!
+BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>||:바보 고양이가, 뭘 호들갑이야.+난 그저 너희들이 떠드는 모습이 웃겼을 뿐이야.
+Welrod(0)<Speaker>웰로드</Speaker>||:지금 우리를 조롱하는 것이냐, 브렌?+지금 우린 진지하게 계획을 토론하는 중이다!
+IDW(0)<Speaker>IDW</Speaker>||:맞다냥! 브렌도 좀 진지하게 하라냥!
+L85A1(0)<Speaker>L85A1</Speaker>||:어휴... 또 이렇게 됐네요.+이래서 언제 결론이 나올까요...
+BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>||:됐어, 다 조용히 해.+어쨌든 간에 오늘 안에 방안을 짜내서 지휘관과 다른 인형들을 실망하게 하지 말아야지.
+BrenMKMod(0)<Position>0,230</Position><Speaker>브렌</Speaker>||<黑屏1>:그리고, 하나 더 할 말이 있어.
+()||<BIN>9</BIN><黑屏1>:...+난 아직도 강해지고 싶다.+지금도 웰로드가 말한 강해지기 위한 이유를 찾고 있었다.+하지만 지금은 일단 이유라고 할 수 있는 물건을 찾은 것 같다.
+브렌()<Speaker>브렌</Speaker>||<黑屏1>:미안, 모두에게 걱정을 끼쳤어.+나 브렌, 오늘부로 정식으로 복귀한다.+앞으로도 가장 가혹한 임무를 내게 맡겨라.+나의 행동으로 나 자신의 강함을 증명해 보이지!

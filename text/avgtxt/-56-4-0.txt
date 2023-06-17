@@ -1,0 +1,159 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>167</BIN><BGM>GF_21winter_battle_3</BGM>:......+잠시 후, 베를린 중앙 철도역.
+()||<SE1>AVG_footsteps_cave</SE1>:부대가 산개한 뒤, 유일하게 엘리아나와 함께인 SCR이 서둘러 그녀 옆에 따라붙었다.
+NPC-SCR(2)<Speaker>SCR</Speaker>||<SE1>Stop_AVG_loop</SE1>:M26이 수색 80% 완료했고, 다음 계획은 뭐냐고 물어.
+NPC-SCR(2);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:완료하면 담당 구역 재수색.
+NPC-SCR(2)<Speaker>SCR</Speaker>;NPC-SCAR-L(0)||:어?
+NPC-SCR(2);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:이따 일련의 숫자를 줄 테니 그 숫자에 맞춰 이 객차들의 화물을 전부 꺼내.+그리폰의 수송 차량이 주차장에서 대기 중이니 그 상자를 전부 가져가 싣도록.
+NPC-SCR(5)<Speaker>SCR</Speaker>;NPC-SCAR-L(0)||:이, 이렇게나 많이? 하지만 아직 수색하지 않은 곳이 잔뜩인데...
+NPC-SCR(5);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:시키는 대로 해.
+NPC-SCR(2)<Speaker>SCR</Speaker>||:......
+()||:SCR은 잠시 망설이다 암호화 통신 채널을 켰다.
+NPC-SCR(2)<Speaker>SCR</Speaker>||:<color=#00CCFF>우리 임무, 실은 폭탄 제거가 아니구나?</color>
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:<color=#00CCFF>...폭발물 처리 임무처럼 수행하면 돼.</color>
+()||:대답을 들은 SCR이 바로 통신을 종료했지만, 그녀의 얼굴은 자괴감으로 울상이 되었다.
+NPC-SCR(4)<Speaker>SCR</Speaker>||:미, 미안해 내가 좀 흥분해서...+...여태까지 해본 임무 중 가장 위험했던 게 백업 서버 호송하는 일이었거든.+괜찮으면 하나 물어봐도 될까?+대답하기 싫으면 안 해도 돼.
+NPC-SCR(4);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:뭐지?
+NPC-SCR(4)<Speaker>SCR</Speaker>;NPC-SCAR-L(0)||:왜 나를 골랐어?
+NPC-SCR(4);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:어째서 그런 의문을 품지?
+NPC-SCR(4)<Speaker>SCR</Speaker>;NPC-SCAR-L(0)||:그게... 나, 나는 어딜 봐도 적절한 인선이 아닌걸.+그리폰에서 여태까지 안전한 군수지원이나 가벼운 경비 같은 일만 해봤는데...+갑자기 이런 특수 임무를 수행하게 될 줄은...
+NPC-SCR(4);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:쓸데없는 생각 말고 내가 맡긴 임무에 집중해.+병사가 상급자의 신뢰를 얻는 법은 오직 받은 임무를 완벽하게 수행하는 것뿐이야. 그게 군인이 생존하는 방법이지.
+NPC-SCR(2)<Speaker>SCR</Speaker>||:아... 알았어!
+()||<BGM>BGM_Empty</BGM><SE1>Explode</SE1><震屏3><火花>:SCR이 서둘러 화물칸에 달려간 그때였다.+묵직한 폭음과 함께 화물 차량의 두꺼운 합금 외피에 구멍이 뚫렸다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<BGM>GF_21winter_battle_1</BGM>:엎드려!
+NPC-SCR(2)<Speaker>SCR</Speaker>||:엇!?
+()||<SE1>AVG_XXS_kick</SE1>:이와 거의 동시에, 엘리아나가 몸을 던져서 SCR을 덮쳐 감싸고 바닥에 넘어졌다.
+()<Speaker>경찰</Speaker>||:——습격이다! 엄폐해!
+()||<关闭火花><SE1>AVG_Creep</SE1>:............
+()||<SE1>Stop_AVG_loop</SE1>:엘리아나는 바닥에 엎드린 채 창밖을 경계했다.+그리고 그녀 밑에 깔린 SCR은 총탄이 스친 것으로 보이는 엘리아나의 뺨을 멍하니 바라봤다.
+NPC-SCR(5)<Speaker>SCR</Speaker>||:<color=#A9A9A9>임무가 있는데 왜 나부터...?</color>
+()||<SE1>ClothingUp</SE1>:더는 공격이 없음을 확인한 두 인형은 바닥에서 일어나 각자의 무기를 집었다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:즉시 전 대원들에게 전달, 이동 준비한다.
+()||:그렇게 말하는 엘리아나의 눈은 여전히 뺨을 스친 탄환이 날아온 방향을 주시했다.+그 방향에 있는 것은 여전히 혼란스러운 인파뿐이었다.
+()||<SE1>RunStep</SE1>:명령 하달을 마친 엘리아나는 곧장 경찰들이 오기 전에 먼저 불타는 차량 안으로 진입했다.
+()||<SE1>Stop_AVG_loop</SE1>:불길 속을 수색하던 그녀의 걸음은 한 상자 앞에서 멈췄다.
+()||<SE1>ClothingUp</SE1>:잠시 그걸 살펴본 후, 엘리아나는 통신기를 꺼내 들었다.
+()||<SE1>AVG_tele_connect</SE1>:삑.+통신 연결.
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>상황 보고해.</color>
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:<color=#00CCFF>엘리아나입니다.</color>+<color=#00CCFF>"낮별"을 확인.</color>
+NPC-SCAR-L(0)<Speaker>지휘관</Speaker><同时置暗>||:<color=#00CCFF>...상태는?</color>
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:<color=#00CCFF>......</color>
+()||:엘리아나는 사자의 관에 예를 표하듯 상자를 쓰다듬으며 말을 이었다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:<color=#00CCFF>..."낮별"은 추락했습니다.</color>+<color=#00CCFF>이제 남은 것은 "운석"뿐입니다.</color>
+NPC-SCAR-L(0)<Speaker>지휘관</Speaker><同时置暗>||:<color=#00CCFF>제길... 알았다.</color>+<color=#00CCFF>목표를 "운석" 회수 및 보호로 변경한다.</color>
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:<color=#00CCFF>예.</color>
+()||<BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:삐빅.+엘리아나가 대답함과 동시에, 그녀의 시스템이 매우 익숙한 소리를 냈다.
+()||<BGM>BGM_Scar_Battle</BGM>:동공이 수축할 만큼 익숙한 알림음이었다.
+()<Speaker>"서광" 시스템</Speaker>||:<color=#99CC33>"달"이 연결되었습니다. 응답하시겠습니까?</color>
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:응답.
+()||:주저 없는 즉답이었다. 하지만...
+()<Speaker>"서광" 시스템</Speaker>||:<color=#99CC33>"달"과의 연결이 끊어졌습니다. 재연결——</color>
+NPC-SCR(2)<Speaker>SCR</Speaker>||:대, 대장... 콜록콜록!+소방대가 도착했――
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:여길 부탁한다!!
+NPC-SCR(5)<Speaker>SCR</Speaker>||:엥? 대장? 잠깐 지금 어디가?!!
+()||<SE1>ClothingUp</SE1><SE2>RunStep</SE2>:다급한 SCR의 부름을 무시하고, 엘리아나는 불타는 화물칸을 박차고 밖으로 뛰쳐나가, 저 인파 속으로 달렸다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:...목표, "달". 수색 개시.
+()||<SE1>AVG_tele_connect</SE1>:삑.
+()<Speaker>"서광" 시스템</Speaker>||:<color=#99CC33>목표의 신호를 감지했습니다.</color>
+()||:역시...!
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:위치는?
+()<Speaker>"서광" 시스템</Speaker>||:<color=#99CC33>좌표 특정 중... 실패.</color>+<color=#99CC33>신호는 반경 200m 내에서 감지됩니다.</color>
+()||<SE1>AVG_2022Saros_SCARL2</SE1><SE2>AVG_Crowd_Run</SE2>:겨우 잠잠해졌던 인파는 방금의 총성으로 다시 혼비백산이었다.+엘리아나는 분노에 가득 찬 눈빛으로 그 인파를 훑으며, 무기를 단단히 고쳐쥐었다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<SE1>Stop_AVG_loop</SE1>:도망치게 놔둘까 보냐...
+()||:......
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>315</BIN>:베를린 중앙 철도역 바깥.
+()||<SE1>AVG_AMB_Street</SE1>:더 이상의 폭발이 없고 나서야 사람들은 경찰의 지시를 순순히 따르며 대피했다.+하지만 셰릴은 여전히 제자리서 사람들의 어깨 너머로 그 모습을 찾아 헤맸다.
+()<Speaker>경찰</Speaker>||<SE1>Stop_AVG_loop</SE1>:서 있지 마십시오! 위험하니 밖으로 이동하십시오!
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<BGM>GF_21winter_battle_2</BGM>:저, 저 기다리는 사람이 있어요!+물건을 떨어뜨려서 찾으러 갔어요!
+()<Speaker>경찰</Speaker>||:내부는 대피가 끝나서 아무도 없습니다! 위험하니 밖으로 이동한 다음 기다리십시오!
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:으으...!
+()||<SE1>ClothingUp</SE1>:셰릴은 뭐라 더 둘러대지도 못하고 그대로 보안인원의 손에 붙잡혀 사모와 약속한 자리에서 멀어졌다.
+()||<黑点1>:
+()||<黑点2><BIN>86</BIN>:
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:<color=#A9A9A9>뭐하길래 아직도 안 오는 거야, 약속한 시간 한참 지났다고...</color>
+()||<SE1>AVG_21Winter_Error</SE1>:초조한 손으로 사모에게 연락해 보았지만, 역시나 받질 않았다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:<color=#A9A9A9>연락 유지하라면서 왜 자기가 안 받는데! 진짜 무슨 일 생긴 거 아니야...?</color>
+()||<SE1>AVG_footsteps_cave</SE1>:조바심이 난 셰릴은 제자리를 빙빙 돌며 사모가 원래 약속했던 위치에서 자신을 찾고 있지는 않을지, 아니면 다쳐서 어딘가에서 움직이지도 못하고 있지는 않을지 걱정했다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:...확 그냥 역무원한테 물어봐야지 안 되겠어.
+()||:결국 셰릴은 마음을 다잡고 역사 쪽으로 걸음을 옮기려던... 그때였다.
+()||<SE1>Stop_AVG_loop</SE1>:거뭇한 색의 훤칠한 모습이 일부러 장난치듯 대피하는 사람들의 행렬을 역행해 와, 셰릴 앞에 멈춰 섰다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:사모! 너 어디 갔다 이제 와!? 한참 기다려서 걱정했잖아!
+NPC-SCAR-H(2)<Speaker>사모</Speaker>;NPC-Cheryl(0)<Position>0,-100</Position>||:빨리, 충전된 보조 배터리 다 줘.
+NPC-SCAR-H(2);NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:......+뭐하려고?
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:이거 갖고 있어.
+()||<SE1>ClothingUp</SE1>:다짜고짜 셰릴의 손에 뭔가가 쥐어졌다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:...엥?
+NPC-SCAR-H(2)<Speaker>사모</Speaker>;NPC-Cheryl(0)<Position>0,-100</Position>||:방금 내 원수 녀석을 봤거든? 날 부품 하나까지 잡아먹으려고 안달 난 놈이야.
+NPC-SCAR-H(2);NPC-Cheryl(2)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:?!!+너한테 돈 될 게 어디 있다고?
+NPC-SCAR-H(2)<Speaker>사모</Speaker>;NPC-Cheryl(2)<Position>0,-100</Position>||:아 그러니까 난 비싼 인형이라고 했잖아.+아무튼 지금 그 자식이 나 잡으러 오는 중이니까 빨리 이거 들고 이 주변을 적당히 돌아다니고 있어.
+NPC-SCAR-H(2);NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:야 잠깐, 내 질문엔 대답 안 했잖아! 똑바로 설명해!
+NPC-SCAR-H(2)<Speaker>사모</Speaker>;NPC-Cheryl(0)<Position>0,-100</Position>||:시간 없으니까 나중에! 으아아 벌써 쫓아왔다, 빨리 움직여!
+NPC-SCAR-H(2);NPC-Cheryl(2)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:......
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:...오늘은 좀 늦게 돌아갈게.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:뭣, 야!
+()||<SE1>ClothingUp</SE1>:훌쩍 떠나는 사모의 등에 대고 소리친 셰릴은 어리둥절해하며 손을 펴 보았다.+사모가 준 것은 쓰고 난 탄피였다.+그런데, 탄피의 구경과 길이를 확인한 셰릴의 눈동자가 휘둥그레졌다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:어... 이건...!
+()||:문득 깨달은 셰릴이 까치발을 들고 사람들 너머로 고개를 들었지만, 사모는 이미 종적을 감춘 뒤였다.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>202</BIN>:그리폰의 수송 차량.
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:아니 아니 대체 이게 무슨 일이냐고! 그러니까, 그냥 이 상자들을 싣고 돌아가라는 거야?
+()||<SE1>ClothingUp</SE1>:갑작스런 호출에 허둥지둥 수송 차량에 올라탄 M26 MASS의 눈에 들어온 것은 허공을 바라보는 SCR이었다.
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:얼레, 대장은?
+NPC-SCR(2)<Speaker>SCR</Speaker>||:"부탁한다"...
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:뭐?
+()||:SCR이 허공을 응시하며 무어라 중얼거리는 광경에, M26은 반사적으로 되물었다.
+NPC-SCR(2)<Speaker>SCR</Speaker>||:아, 아... 그게...+대장은... 사람 쫓으러 갔어.
+NPC-SCR(2);M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:뭐어?! 그게 무슨 말도 안 되는 소리야, 지금 자기 신분이 뭔지도 까먹은 거야!?+어느 동네 소대장이 소대를 버리고 사람 쫓으러 가!
+NPC-SCR(2)<Speaker>SCR</Speaker>;M26MASS(0)<Position>-200,80</Position>||:에, 엘리아나도 생각이 있어서 그랬겠지!+아무튼 여기 이 지시한 물건들을 전부 그리폰으로 싣고 가야 해.
+NPC-SCR(2);M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:어휴... 그래, 먼저 지휘관한테 연락할게.+넌 계속 걔한테 연락해 봐.
+NPC-SCR(2)<Speaker>SCR</Speaker>||:...알았어.
+()||<SE1>ClothingUp</SE1>:SCR은 고개를 끄덕였다.
+()||<黑屏1>:
+()||<黑屏2><BIN>542</BIN><SE1>AVG_tele_connect</SE1>:삐삑.
+()<Speaker>"서광" 시스템</Speaker>||<BGM>BGM_Scar_Battle</BGM>:<color=#99CC33>"달"의 신호를 감지했습니다.</color>
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......?
+()||:정확히 잡아내지도 못하던 스캔이 이번엔 이상한 반응을 보였다.+엘리아나가 의문스러워 걸음을 잠깐 멈추고 다시 확인하려 할 정도였다.+분명 고장은 아니었다. "달"의 신호가 확실히 "2개" 표기되고 있었다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:<color=#A9A9A9>속임수인가? 아니면...</color>
+()||:허나 망설일 여유 따윈 없었다.
+()||<SE1>RunStep</SE1>:찡그렸던 미간을 다시 펴고, 엘리아나는 문자 그대로 찰나의 고민 뒤 두 신호 중 하나를 향해 질주했다.+아니, 애초에 고민할 필요도 없었다.
+()||<黑屏1><SE1>Stop_AVG_loop</SE1>:
+()||<黑屏2><BIN>471</BIN>:베를린 중앙 철도역, 역외 광장.
+()||<SE1>ClothingUp</SE1>:사모는 어디선가 달려와 애교를 부리며 손바닥에 마구 머리를 비비는 강아지의 머리를 부드럽게 쓰다듬어 주었다.
+()||<SE1>Rope</SE1>:그리고 숨을 헐떡이며 뒤쫓아와 연거푸 고개를 숙이는 주인에게 목줄을 건네주었다.
+()<Speaker>강아지 주인</Speaker>||:아이고, 우리 멍멍이 붙잡아 줘서 고마워요.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:천만에요.
+()||<SE1>ClothingUp</SE1>:사모는 싱긋 웃으며 강아지의 목줄을 툭 치고선 자리를 떠났다.+이때 그녀 손에서 탄피가 하나 더 줄었다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:자아 그럼 마지막은...
+()||<SE1>AVG_Bullet_Drop</SE1><BGM>BGM_Empty</BGM>:교란기가 붙은 마지막 탄피는 광장 옆 화단에 던져졌다.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:이러면 내가 동시에 네 군데서 움직이는 것처럼 보이겠지.+한 15분...이 아니라 5분 정도 벌 수 있으려나.
+()||<黑点1>:
+()||<黑点2><BIN>549</BIN><SE1>AVG_footsteps_cave</SE1>:사모는 걸음을 서둘러 시끌벅적한 광장을 가로질렀고, 형형색색의 사람들을 스쳐 지나갔다.+바로 근처에서 큰 소란이 벌어지고 있건만, 이 저수지 옆 연못 같은 세상엔 물결 하나 없었다.+그냥 무신경한 사람들, 세상 모르게 기운 넘치는 사람들, 활력 없이 산송장 같은 사람들...
+()||<BGM>BGM_Scar_Morichongfeng</BGM>:기대를 품었든 아무 생각도 없든 저들 모두에겐 각자의 목적지가 있고, 그곳을 향해 나아가는 중일 터.+그렇기에 이 드넓은 광장에 오직 사모 그녀만이 녹아들지 못했다.+그녀에겐 목적지가 없으니까.+마침 태양은 하늘에서 내려와, 지평선 너머로 가라앉고 있었다.+황금색 노을빛은 모든 행인들의 머리와 어깨에 평등하게 쏟아져, 은은한 황금빛의 테두리를 그렸다.+주야, 조석, 일월.+눈부신 황혼의 풍경.+이때가 바로 하루가 교차하는 가장 아름다운 순간이었다.
+()||<narrator><bg_move>%%pivot_x=0.5%%pivot_y=0.5%%scale=1.2%%duration=2%%</bg_move><SE1>AVG_footsteps_cave</SE1>:그런 황혼 아래를 왕래하는 사람들의 실루엣은 마치 비단을 걸친 것 같았다.+흐릿하게 서로 스쳐 지나가는 모습은 하늘을 가로지르는 새떼처럼 보이기도 했다.+"삶"이란 강에서 우연히 마주친 고독한 영혼들.+언제 서로 만나 같은 길을 걸을지 몰라도, 결국에는 다시 뿔뿔이 흩어질 운명인 영혼들.+사모는 빛이 쏟아지는 방향을 바라봤다.+하늘 끝에 걸린 태양계에서 가장 눈부신 항성은, 지는 마지막 순간까지 눈부셨다.+그래서 그녀는 눈을 찡그렸다.+너무 눈부시지도, 너무 어둡지도 않도록.+호박색 술을 가득 담은 술잔처럼 찰랑이는 빛덩어리.+잡았다.
+()||:누런 노을 속, 고작 두세 걸음 거리에.+운명은 그녀에게 사소하면서도 치명적인 장난을 쳤다.
+()<Speaker>엘리아나</Speaker>||<黑点1>:......잡았다.
+()||<关闭蒙版><黑点2><BIN>540</BIN>:더없이 익숙한 목소리가 귓가를 때렸다.+하지만 사모는 현실이 아니라 마인드맵 속으로부터 들려온 것처럼 느껴졌다.+너무나도 익숙하면서도 실감나지 않는 목소리라, 아직도 꿈 속을 헤메고 있는 기분이었다.+사모는 고개를 숙였다. 영원히 피곤함에만 찌들어 있을 것 같았던 그 눈에 차가운 살기가 서린 것을 가리려고.+하지만 모자의 챙 아래로 새어 나오는 살의는 감출 수 없었고, 억누르지 못하는 분노가 두 사람 사이를 갈라놓던 공기를 모조리 밀어냈다.
+()||:이런 감정을 마지막으로 느낀 적이 몇 년 전이었는지조차, 그녀는 잊어버렸다.
+()<Speaker>엘리아나</Speaker>||:내게 그날은 어제처럼 느껴진다.+하지만 네겐 단 하루도 빠짐없는 13년이었겠지.+누더기가 된 소체, 실뭉치처럼 꼬인 마인드맵... 시스템마저 2051년 그때 그대로로군.
+()<Speaker>사모</Speaker>||:............
+()<Speaker>엘리아나</Speaker>||:그 몸으로 총은 들 수나 있겠나?+"서광"의...+...탈주자.
+()||:사모가 고개를 들었다.+더는 모자챙으로 가리고 싶지 않은 분노. 그녀는 처음으로 그런 표정을 지었다.
+()<Speaker>사모</Speaker>||:너만큼은 그런 말 할 자격 없어...+이...+배신자...!
+()<Speaker>엘리아나</Speaker>||<SE1>Stop_AVG_loop</SE1>:그날, 내가 한 말 기억해?+너도 나도, 변덕스런 창조자 손바닥 안의 장난감에 불과하다고.+운명으로 점쳐진 "서광"은 결코 우연이 아니고, 운명은 영원히 "서광"을 이을 자는 나라고 점쳤다.+네가 할 일은 그저 받아들이는 거다. 내가 너의 목숨을 끊는 것을 받아들여.
+()<Speaker>사모</Speaker>||:...넌 기필코 죽이겠어.
+()<Speaker>엘리아나</Speaker>||:아니, 못해.+넌 겁쟁이니까.
+()<Speaker>사모</Speaker>||:......
+()||:눈빛은 불길처럼 타올랐다.
+()<Speaker>사모</Speaker>||:엘리아나, 죽이려면 당장 죽이는 게 신상에 좋을 거야.+안 그럼 네가 내 손에 죽어.
+()||<bg_move>%%pivot_x=0.5%%pivot_y=0.5%%scale=1.5%%duration=2%%</bg_move><SE1>AVG_footsteps_cave</SE1>:엘리아나가 몇 걸음 다가갔다.
+()<Speaker>엘리아나</Speaker>||:13년 전 마치지 못했던 임무를 마침내 매듭지을 수 있겠군.+지금 내가 널 죽이는 건 개미 한 마리 짓이기는 것처럼 손쉬워.+하지만 다행인 줄 알아라. 주위에 보는 눈이 너무 많아서 널 건드릴 수 없으니까.
+()<Speaker>사모</Speaker>||:......
+()<Speaker>엘리아나</Speaker>||:그래, 그렇게 날 증오해.+지금 못 해서 아쉽지만, 적어도 우리의 마지막 대결에 약간의 즐거움이 되겠지.
+()<Speaker>사모</Speaker>||:.......
+()||<Night>:석양은 마침내 완전히 꺼져, 마지막 빛줄기도 달빛으로 대체되었다.
+()<Speaker>엘리아나</Speaker>||<黑点1>:...5분 남았다. 내가 너라면 바로 뒤돌아 달렸어.
+()||<关闭蒙版><BIN>541</BIN><SE1>Rope</SE1><黑点2>:사모는 주먹을 움켜쥐었다.+그녀의 눈동자 속 불꽃은 밤하늘의 달처럼 활활 타올랐다.+석양의 빛을 받아, 세상을 모조리 태워버릴 기세로.
+()<Speaker>사모</Speaker>||:......두고봐.+넌 언젠가 죽어. 내 손에. 다른 누구도 아닌 내 손에.
+()||:......
+()||<黑点1><BGM>BGM_Empty</BGM>:

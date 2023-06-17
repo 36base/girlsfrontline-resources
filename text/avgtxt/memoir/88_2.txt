@@ -1,2 +1,55 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||:<color=#FFFF00>마인드맵 기록 분석 중...</color>+<color=#FFFF00>분석 완료 예상 시각... 5월 20일 16시 00분</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>22</BIN><BGM>m_wv_title</BGM><黑屏2>:얼마 후, 공방.
+()<Speaker></Speaker>||<SE1>AVG_NightVision_Start</SE1>:MG3가 수복 캡슐에서 서서히 정신을 차렸다.+캡슐에서 나와 거울을 보니, 이게 꿈인지 현실인지 믿기지가 않았다. 새로운 소체는 늘씬한 체형에 몸놀림도 날렵했다.+그리고 무엇보다, "짐덩이"가 사라진 해방감과 가벼움에 더할 나위 없이 기뻤다.+설명하기도 벅찬 희열에 몸을 마구 굽혔다 폈다 하는 그녀의 모습은 흥겨운 막춤이라도 추는 듯했다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:케헴!
+()<Speaker></Speaker>||:이를 조금 난감한 눈빛으로 바라보던 카리나가 헛기침으로 MG3의 무아지경을 끊었다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||:아.+미안해 카리나 씨!
+NPC-Maid(0);NPC-Kalin(1)<Speaker>카리나</Speaker>||:어때, 새 소체에 불편한 점 없어?
+NPC-Maid(0)<Speaker>MG3</Speaker>;NPC-Kalin(1)||:하나도! 이게 내가 바라 마지않던 타입이야!
+NPC-Maid(0);NPC-Kalin(0)<Speaker>카리나</Speaker>||:엄청 만족하네...+한 가지 주의할 점은, 그 소체는 그냥 메이드 인형의 것이야. 임시로 화기 관제 코어랑 출력 강화 모듈을 몇 개 달았지만 겨우 그 정도로는 기관총을 쏘기엔 부담이 클 테니까 절대 전처럼 막 나가면 안 돼, 알았지?
+NPC-Maid(0)<Speaker>MG3</Speaker>||:응!
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏1><SE1>AVG_door_elecport</SE1>:만족감에 취한 MG3는 인사 대신 카리나를 와락 껴안고는 싱글벙글 공방을 나섰다.
+()<Speaker></Speaker>||<BGM>BGM_Hello</BGM><BIN>82</BIN><黑屏2>:화창한 아침처럼 눈부신 햇살을 맞으며, 희열에 찬 MG3는 곧장 숙소로 돌아갔다.+그리고 당당히 전신 거울 앞에 서서, 새로운 자신의 모습에서 눈을 떼질 못했다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||:엄청 날씬해지고, 가벼워졌어! 게다가 이젠 고개만 숙이면 발끝이 보이네!?+우와아 진짜 너무 좋다아아!!
+()<Speaker></Speaker>||<SE1>AVG_Bullet_Hit_Wall</SE1>:기쁨과 환희에 절로 주먹을 치켜들고 발을 구르며 몸이 들썩이는 모습은 마치 스포츠 광팬 같았다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||:아차차! 이미지 체인지했는데 이러면 안 되지! 모처럼 예쁜 소체로 바꿨는데...+흐음... G36한테 숙녀의 몸가짐을 배워야 하나?+아 맞다, 그 옷들 이젠 맞을 거야!
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:지금 입고 있는 간소한 제복을 본 MG3는 방의 커다란 옷장의 문을 활짝 열었다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||<SE1>ClothingUp</SE1>:이젠 이거도 입을 수 있고, 저거도 입을 수 있어! 예뻐서 사기만 했던 옷들, 이제 몸에 딱 맞아!+매번 번거롭게 특별 사이즈 주문할 필요 없다고!
+()<Speaker></Speaker>||:옷장 속을 한참 뒤적인 MG3가 제일 마음에 들었던 셔츠를 찾아내어, 바로 입어보았다.+옷을 갈아입고 몸가짐도 단정히 하니, MG3의 눈에도 나름 깔끔해 보였다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||:어라, 언제 시간이 이렇게 지났지?+이러다 오늘 임무에 지각하겠다!
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:간신히 자아도취에서 빠져나와 헐레벌떡 방을 나서는 MG3의 뒷모습에, 숙녀가 되겠다던 다짐은 온데간데 없었다.
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑点2><BIN>89</BIN><BGM>m_avg_casual</BGM>:잠시 후, 창고.
+()<Speaker></Speaker>||:단정한 외모에 안 어울리게 괄괄한 행동거지를 보이는 모습은 당연스레 그리폰 인형들의 눈길을 끌었다.
+97typeSMod(0)<Speaker>97식 산탄총</Speaker>||:어... 너 누구야? 뭘 그리 오두방정을 떨어?
+97typeSMod(0);NPC-Maid(0)<Speaker>MG3</Speaker>||:아, 호크! 나야 나 MG3! 헤헤, 몰라보겠지?
+97typeSMod(0)<Speaker>97식 산탄총</Speaker>;NPC-Maid(0)||:MG3?! 뭐야, 신호 보니 진짜네?+너 개조 받으러 갔다며? 뭐야 그 싸제 소체는!?
+97typeSMod(0);NPC-Maid(0)<Speaker>MG3</Speaker>||:싸제라니 뭘 모르는구만!+이 매끈하고 늘씬한 바디라인을 보면 모르겠어? 완벽이란 바로 이런 거라고!
+97typeSMod(0)<Speaker>97식 산탄총</Speaker>;NPC-Maid(0)||:그 젓가락 같은 팔다리로는 기관총 들고 돌격은커녕 물자 상자 들고 뛰지도 못하겠다 야.
+NPC-Maid(0)<Speaker>MG3</Speaker>||:하!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:영 미심쩍어하는 97식 산탄총의 눈초리에, MG3는 보란 듯이 오늘 임무로 운반해야 하는 물자 컨테이너를 들쳐업고 여유로운 미소를 씨익 지어보였다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||:식은 죽 먹기네 뭐, 흥이다! 시간 없으니까 이따 봐!
+97typeSMod(0)<Speaker>97식 산탄총</Speaker>||:...무리하진 마.
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:MG3는 가벼운 발걸음으로 의기양양하게 출발했다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>1</BIN>:15분 후, 수송 경로 도중의 숲속.
+()<Speaker></Speaker>||:곧 도착 예정 시각이건만, MG3는 지금 옆의 나무에 손을 짚고서 헉헉대고 있었다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||:이래서는 제시간에 도착 못 해...
+()<Speaker></Speaker>||:카리나와 97식 산탄총의 걱정이 귓가에 들리는 듯했지만, 꿈에 그리던 새 소체를 얻은 첫날부터 일을 망칠 수는 없었다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||:그래, 이쪽에 목적지랑 직통인 지름길이 있었지...!
+()<Speaker></Speaker>||:무성한 수풀 사이로 난 길은 평소에도 몸집이 작고 날렵한 인형들이 자주 이용하는 지름길이었다.+MG3도 가보려 한 적이 있지만, 가파른 비탈길인데다 수풀이 무성해서 크고 무거운 그녀로선 감속은커녕 자꾸 나무에 부딪히기 일쑤였다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||:지금의 나라면... 할 수 있지 않을까?
+()<Speaker></Speaker>||<SE1>Rope</SE1>:도전하고 싶어 근질근질해진 그녀는 등의 물자 컨테이너를 다시 단단히 결속하고, 조금 설레이는 마음으로 수풀 깊숙이 발을 디뎠다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BGM>BGM_Empty</BGM>:그리고 시야를 가리는 잡초 더미를 밀어내자, 빽빽하게 뒤엉킨 나뭇가지 아래로 난 좁다란 길이 나타났다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||<BGM>m_avg_tension</BGM>:좋았어... 가즈아!!
+()<Speaker></Speaker>||<黑点1><SE1>AVG_Team_Running</SE1>:그래도 혹시 모르니 급소를 보호하면서, MG3는 비탈길로 몸을 날렸다.+놀랍게도, 소체는 보기보다 훨씬 민첩해서 눈 깜짝할 사이에 멋진 회피 동작을 수 차례 연속으로 구사할 수도 있었다.+그렇게 몇 번 재주를 넘고 나니 순식간에 수풀을 통과했고, 목표 지점인 물류 창고가 바로 코앞이었다.
+()<Speaker></Speaker>||<黑点2><BIN>4</BIN><SE1>ClothingUp</SE1>:완벽한 착지와 함께, MG3는 도착 예정 시각에 정확히 맞춰 임무를 완수해냈다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||:와하하핫! 정말 끝내준다아――!!
+()<Speaker></Speaker>||:원래의 소체였으면 꿈도 못 꿨을 지름길을 시원하게 통과한 기쁨에, MG3는 창고 앞의 사람들을 향해 크게 소리쳤다.
+NPC-Maid(0)<Speaker>MG3</Speaker>||:얘들아아아!! 모두 봤어!? 방금 내 몸놀림 엄청 멋있었지?!
+M99(0)<Speaker>M99</Speaker>||:어... 신호가 MG3이네요? 그거 새 소체예요? 와아, 그럼 이제 좁은 길도 문제없이 지나다닐 수 있겠네요!
+NPC-Maid(0)<Speaker>MG3</Speaker>||:그치그치~ 역시 이런 가벼운 소체가 나한테 딱이야!
+()<Speaker></Speaker>||:M99의 물개 박수를 받으며, MG3는 무거운 물자 상자를 쿵 내려놨다. 짧지만 스릴 넘쳤던 모험은 무더운 여름의 시원한 바람처럼 정말 상쾌했다.+그 여운을 아직 만끽하던 그때, 메시지 수신음이 들렸다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:<color=#FFFF00>[MG3 님, 그리폰 전략대기조입니다. 근일의 주변 형세와 작전 배치 기록에 근거해 귀하에게 다음 지시를 하달합니다.]</color>+<color=#FFFF00>[오늘부터 귀하는 다시 임무 수행 가능 전투원 명단에 편성되어, 내일 변방 구역의 소탕 작전에 투입될 예정입니다. 해당 작전에서 귀하는 화력지원 제대로 배치됩니다.]</color>+<color=#FFFF00>[이 통지를 확인하는 즉시 답장하시기 바랍니다.]</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1><黑屏1>:작전이라지만 매일 하는 훈련이나 마찬가지인 수준이었다.+하지만, 지금의 MG3에겐 색다른 느낌이었다.+새롭게 다시 태어난 그녀가 실력을 뽐낼 데뷔 무대가 될 터였으니까.

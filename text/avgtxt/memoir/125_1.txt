@@ -1,53 +1,53 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>97</BIN><BGM>BGM_Hello</BGM>:화창한 햇살이 그리폰 기지의 평범한 하루를 비췄다.+하지만 평온하지는 않았다. 바쁜 발걸음 소리가, 아주 잠깐의 고요함도 허락하지 않았다.
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:안녕 MG4~! 휴우, 겨우 찾았네!
-MG4(0)<Speaker>MG4</Speaker>;NPC-Kalin(1)||:카리나 씨... 무슨 일이신가요?
-MG4(0);NPC-Kalin(1)<Speaker>카리나</Speaker>||:별일은 아니고, 얼마 전에 새 마인드맵 업그레이드 일정이 확정됐는데 명단에 네 이름도 올랐거든.+그래서 희망 사항이나 따로 원하는 거 있으면 지휘관님께 말씀드리라고 말해 주려고.
-MG4(0)<Speaker>MG4</Speaker>;NPC-Kalin(1)||:개조... 요구 사항은 없어요.+지휘관님의 의향대로면 상관없어요.
-MG4(0);NPC-Kalin(1)<Speaker>카리나</Speaker>||:정말? 당장 대답할 필요 없으니까 천천히 생각해 봐.+정 모르겠으면 친한 사람한테 상담해 보는 게 어때? 괜찮은 조언을 얻을 수 있을지도 몰라.
-MG4(0)<Speaker>MG4</Speaker>;NPC-Kalin(1)||:친한 사람... 알겠습니다.
-MG4(0)<Speaker>MG4</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:<color=#A9A9A9>하아... 친한 사람이라. 날 싫어하는 사람이나 없으면 다행일 텐데...</color>
-()||<黑屏2><BIN>82</BIN>:숙소의 문을 열자, 휴면 중이던 AI 비서가 기동했다.
-NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:뚜뚜 온라인!+다녀오셨어요 MG4 님!
-()||:MG4는 소파에 풀썩 주저앉고, 뚜뚜를 옆으로 불렀다.
-MG4(0)<Speaker>MG4</Speaker>||:뚜뚜, 다른 애들은 어떤 인형을 좋아한다고 생각해?
-MG4(0);NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:MG4 님이 좋아하는 인형이면 다른 분들도 좋아할 거예요!
-MG4(0)<Speaker>MG4</Speaker>;NPC_Cheeringteam(0)<Position>0,150</Position>||:그럼 나도 분명 다른 애들처럼 템플릿대로 설계됐는데, 왜 다른 애들만큼 환영받지 못할까?
-MG4(0);NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:뚜뚜는 MG4 님이 제일 좋아요!
-MG4(0)<Speaker>MG4</Speaker>;NPC_Cheeringteam(0)<Position>0,150</Position>||:다른 인형과 사이좋게 지내려면 어떻게 해야 할까?
-NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:다른 분들이 먼저 MG4 님과 친구 먹으려 할 거예요!
-MG4(0)<Speaker>MG4</Speaker>||<黑屏1>:너 왠지 갈수록 멍청해지는 거 같다? 고객 센터에 연락해서 A/S 맡겨야겠어.+으으... 내가 직접 알아보는 수밖에 없나...
-()||<黑屏2><BGM>BGM_Hello</BGM><BIN>82</BIN>:"16LAB 연구원 자유게시판에 오신 것을 환영합니다. 이곳에서 인형에 관한 모든 것을 토론해 보세요."
-()<Speaker>MG4</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:검색, "인형과 사이좋게 지내기"...+하나, 둘, 셋... 100 페이지가 넘잖아? 다들 비슷한 고민을 가지고 있었구나...
-MG4(0)<Speaker>MG4</Speaker>||:요점 1, 2, 3, 4... 응응, 전부 메모해 둬야지!+주의 사항... 교제 깨알 팁 200가지...
-()<Speaker>MG4</Speaker>||:..."친구와 함께 무서운 놀이 즐기기"?+"잠시 자신의 신분을 잊고 스릴을 만끽할 수 있는 것일수록 좋다"...
-MG4(0)<Speaker>MG4</Speaker>||:참고 예시로... 롤러코스터, 귀신의 집, 바이킹... 다 괜찮아 보인다.+하... 하지만 누구한테 말을 걸면 되지...
-MG4(0)<Speaker>MG4</Speaker>||:<color=#A9A9A9>내가 먼저 초대하면 나에 대한 인상이 좋아질까?</color>+이, 일단 용기를 내서 아무한테나...
-MG4(0)||:뚜루루...
-MG4(0)<Speaker>MG4</Speaker>||<BGM>BGM_Empty</BGM>:아, M60한테 갔다. 항상 엄청 열심인데, 놀러가자 하면 시간 낭비라고 생각하진 않을까...?
-MG4(0)||:뚜루루...
-MG4(0)<Speaker>MG4</Speaker>||:왜 안 받지...? 서, 설마 날 차단한 걸까?+그... 그럴 린 없겠지? 나, 난 아무것도 안 했는데...
-MG4(0)<Speaker>MG4</Speaker>;M60(0)<Speaker>M60</Speaker><通讯框>||:<color=#00CCFF>M60은 지금 훈련 중! 용건이 있다면 메시지를 남겨 주세요!</color>
-MG4(0)<Speaker>MG4</Speaker>;M60(0)<通讯框>||:아아, 훈련 중이었구나... 별거 아니니까 됐어...
-MG4(0)||:MG4는 조용히 통신을 종료했다.
-MG4(0)<Speaker>MG4</Speaker>||:휴우... 한숨 놓이면서도 속상하네...+...다른 사람한테 연락해보자.
-MG4(0)<Speaker>MG4</Speaker>||:<color=#A9A9A9>다, 다시 무작위로 한 명!</color>
-()||:뚜루루...
-SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>MG4...? 당신이 연락하다니 처음 있는 일이군요. 설마, 긴급사태인가요? 당장 가겠습니다!</color>
-MG4(0)<Speaker>MG4</Speaker>;SIG510(0)<通讯框>||:어? 아아아 아니 그게 아니라! 그... 요즘 잘 지내나 해서!+<color=#A9A9A9>젠장! 시간 되냐고 왜 말을 못해!</color>
-MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>아... 네, 잘 지내는 편입니다. 그리폰의 전술인형으로서 모범적인 생활을 하고 있죠.</color>
-MG4(0)<Speaker>MG4</Speaker>;SIG510(0)<通讯框>||:그그그그렇다니 다행이네! 그냥 물어본 거였어! 어... 그럼, 가까운 시일 내에 무슨 예정 있어?+<color=#A9A9A9>어디 놀러갈 예정이라든가...</color>
-MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>딱히 없습니다만... 안 좋은 소식이라도 있는 건가요? 괜찮으니 속편히 말해도 돼요.</color>
-MG4(0)<Speaker>MG4</Speaker>;SIG510(0)<通讯框>||:아니아니아니 그런 건 아니고! 그, 그냥 갑자기 연락해보고 싶어져서...
-MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>정말요? 저와 당신 사이에 "그냥 연락했다"는 건 말이 안 되는데요.</color>
-MG4(0)<Speaker>MG4</Speaker>;SIG510(0)<通讯框>||:......
-MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>혹시, 지휘관님이나 다른 인형이 저에게 할 말을 대신 전해 달라 시킨 건가요?</color>
-MG4(0)<Speaker>MG4</Speaker>;SIG510(0)<通讯框>||:아니아니그건진짜아니야오해하지마정말그냥안부전화한거야!!+<color=#A9A9A9>으아아 창피해애애!!!</color>
-MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>그럼 무슨 용무인지 확실하게 말해 주세요!</color>
-MG4(0)<Speaker>MG4</Speaker>;SIG510(0)<通讯框>||:용무고 뭐고 그런 거 없다니까!+<color=#A9A9A9>어떡해어떡해어떡해 에러 날 거 같아!!!</color>
-MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>정말 괜찮은 거 맞아요? 정말 괜찮으니까 무슨 고민 있는 거라면 제가 들어드릴게요.</color>
-MG4(0)<Speaker>MG4</Speaker>;SIG510(0)<通讯框>||:어... 여보세요?! 어떻게 된 거지, 말이 잘 안 들리네에에!?
-()<Speaker>MG4</Speaker>;SIG510(0)<Speaker>MG4</Speaker><通讯框>||:신호가 갑자기 나빠졌나 봐! 이, 이만 끊을게!
-()||:뚜... 뚜... 뚜...+SIG-510 님이 통신을 요청합니다.
-MG4(0)<Speaker>MG4</Speaker>||:받지 마 받지 마 받지 마!+<color=#A9A9A9>으으으... 역시 누굴 초대하긴 너무 어려워, 그냥 혼자 가자...</color>
-()||<黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>97</BIN><BGM>BGM_Hello</BGM>:화창한 햇살이 그리폰 기지의 평범한 하루를 비췄다.+하지만 평온하지는 않았다. 바쁜 발걸음 소리가, 아주 잠깐의 고요함도 허락하지 않았다.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:안녕 MG4~! 휴우, 겨우 찾았네!
+MG4(0)<Speaker>MG4</Speaker>;NPC-Kalin(1)||:카리나 씨... 무슨 일이신가요?
+MG4(0);NPC-Kalin(1)<Speaker>카리나</Speaker>||:별일은 아니고, 얼마 전에 새 마인드맵 업그레이드 일정이 확정됐는데 명단에 네 이름도 올랐거든.+그래서 희망 사항이나 따로 원하는 거 있으면 지휘관님께 말씀드리라고 말해 주려고.
+MG4(0)<Speaker>MG4</Speaker>;NPC-Kalin(1)||:개조... 요구 사항은 없어요.+지휘관님의 의향대로면 상관없어요.
+MG4(0);NPC-Kalin(1)<Speaker>카리나</Speaker>||:정말? 당장 대답할 필요 없으니까 천천히 생각해 봐.+정 모르겠으면 친한 사람한테 상담해 보는 게 어때? 괜찮은 조언을 얻을 수 있을지도 몰라.
+MG4(0)<Speaker>MG4</Speaker>;NPC-Kalin(1)||:친한 사람... 알겠습니다.
+MG4(0)<Speaker>MG4</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:<color=#A9A9A9>하아... 친한 사람이라. 날 싫어하는 사람이나 없으면 다행일 텐데...</color>
+()||<黑屏2><BIN>82</BIN>:숙소의 문을 열자, 휴면 중이던 AI 비서가 기동했다.
+NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:뚜뚜 온라인!+다녀오셨어요 MG4 님!
+()||:MG4는 소파에 풀썩 주저앉고, 뚜뚜를 옆으로 불렀다.
+MG4(0)<Speaker>MG4</Speaker>||:뚜뚜, 다른 애들은 어떤 인형을 좋아한다고 생각해?
+MG4(0);NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:MG4 님이 좋아하는 인형이면 다른 분들도 좋아할 거예요!
+MG4(0)<Speaker>MG4</Speaker>;NPC_Cheeringteam(0)<Position>0,150</Position>||:그럼 나도 분명 다른 애들처럼 템플릿대로 설계됐는데, 왜 다른 애들만큼 환영받지 못할까?
+MG4(0);NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:뚜뚜는 MG4 님이 제일 좋아요!
+MG4(0)<Speaker>MG4</Speaker>;NPC_Cheeringteam(0)<Position>0,150</Position>||:다른 인형과 사이좋게 지내려면 어떻게 해야 할까?
+NPC_Cheeringteam(0)<Speaker>MG4의 AI 비서</Speaker><Position>0,150</Position>||:다른 분들이 먼저 MG4 님과 친구 먹으려 할 거예요!
+MG4(0)<Speaker>MG4</Speaker>||<黑屏1>:너 왠지 갈수록 멍청해지는 거 같다? 고객 센터에 연락해서 A/S 맡겨야겠어.+으으... 내가 직접 알아보는 수밖에 없나...
+()||<黑屏2><BGM>BGM_Hello</BGM><BIN>82</BIN>:"16LAB 연구원 자유게시판에 오신 것을 환영합니다. 이곳에서 인형에 관한 모든 것을 토론해 보세요."
+()<Speaker>MG4</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:검색, "인형과 사이좋게 지내기"...+하나, 둘, 셋... 100 페이지가 넘잖아? 다들 비슷한 고민을 가지고 있었구나...
+MG4(0)<Speaker>MG4</Speaker>||:요점 1, 2, 3, 4... 응응, 전부 메모해 둬야지!+주의 사항... 교제 깨알 팁 200가지...
+()<Speaker>MG4</Speaker>||:..."친구와 함께 무서운 놀이 즐기기"?+"잠시 자신의 신분을 잊고 스릴을 만끽할 수 있는 것일수록 좋다"...
+MG4(0)<Speaker>MG4</Speaker>||:참고 예시로... 롤러코스터, 귀신의 집, 바이킹... 다 괜찮아 보인다.+하... 하지만 누구한테 말을 걸면 되지...
+MG4(0)<Speaker>MG4</Speaker>||:<color=#A9A9A9>내가 먼저 초대하면 나에 대한 인상이 좋아질까?</color>+이, 일단 용기를 내서 아무한테나...
+MG4(0)||:뚜루루...
+MG4(0)<Speaker>MG4</Speaker>||<BGM>BGM_Empty</BGM>:아, M60한테 갔다. 항상 엄청 열심인데, 놀러가자 하면 시간 낭비라고 생각하진 않을까...?
+MG4(0)||:뚜루루...
+MG4(0)<Speaker>MG4</Speaker>||:왜 안 받지...? 서, 설마 날 차단한 걸까?+그... 그럴 린 없겠지? 나, 난 아무것도 안 했는데...
+MG4(0)<Speaker>MG4</Speaker>;M60(0)<Speaker>M60</Speaker><通讯框>||:<color=#00CCFF>M60은 지금 훈련 중! 용건이 있다면 메시지를 남겨 주세요!</color>
+MG4(0)<Speaker>MG4</Speaker>;M60(0)<通讯框>||:아아, 훈련 중이었구나... 별거 아니니까 됐어...
+MG4(0)||:MG4는 조용히 통신을 종료했다.
+MG4(0)<Speaker>MG4</Speaker>||:휴우... 한숨 놓이면서도 속상하네...+...다른 사람한테 연락해보자.
+MG4(0)<Speaker>MG4</Speaker>||:<color=#A9A9A9>다, 다시 무작위로 한 명!</color>
+()||:뚜루루...
+SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>MG4...? 당신이 연락하다니 처음 있는 일이군요. 설마, 긴급사태인가요? 당장 가겠습니다!</color>
+MG4(0)<Speaker>MG4</Speaker>;SIG510(0)<通讯框>||:어? 아아아 아니 그게 아니라! 그... 요즘 잘 지내나 해서!+<color=#A9A9A9>젠장! 시간 되냐고 왜 말을 못해!</color>
+MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>아... 네, 잘 지내는 편입니다. 그리폰의 전술인형으로서 모범적인 생활을 하고 있죠.</color>
+MG4(0)<Speaker>MG4</Speaker>;SIG510(0)<通讯框>||:그그그그렇다니 다행이네! 그냥 물어본 거였어! 어... 그럼, 가까운 시일 내에 무슨 예정 있어?+<color=#A9A9A9>어디 놀러갈 예정이라든가...</color>
+MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>딱히 없습니다만... 안 좋은 소식이라도 있는 건가요? 괜찮으니 속편히 말해도 돼요.</color>
+MG4(0)<Speaker>MG4</Speaker>;SIG510(0)<通讯框>||:아니아니아니 그런 건 아니고! 그, 그냥 갑자기 연락해보고 싶어져서...
+MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>정말요? 저와 당신 사이에 "그냥 연락했다"는 건 말이 안 되는데요.</color>
+MG4(0)<Speaker>MG4</Speaker>;SIG510(0)<通讯框>||:......
+MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>혹시, 지휘관님이나 다른 인형이 저에게 할 말을 대신 전해 달라 시킨 건가요?</color>
+MG4(0)<Speaker>MG4</Speaker>;SIG510(0)<通讯框>||:아니아니그건진짜아니야오해하지마정말그냥안부전화한거야!!+<color=#A9A9A9>으아아 창피해애애!!!</color>
+MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>그럼 무슨 용무인지 확실하게 말해 주세요!</color>
+MG4(0)<Speaker>MG4</Speaker>;SIG510(0)<通讯框>||:용무고 뭐고 그런 거 없다니까!+<color=#A9A9A9>어떡해어떡해어떡해 에러 날 거 같아!!!</color>
+MG4(0);SIG510(0)<Speaker>SIG-510</Speaker><通讯框>||:<color=#00CCFF>정말 괜찮은 거 맞아요? 정말 괜찮으니까 무슨 고민 있는 거라면 제가 들어드릴게요.</color>
+MG4(0)<Speaker>MG4</Speaker>;SIG510(0)<通讯框>||:어... 여보세요?! 어떻게 된 거지, 말이 잘 안 들리네에에!?
+()<Speaker>MG4</Speaker>;SIG510(0)<Speaker>MG4</Speaker><通讯框>||:신호가 갑자기 나빠졌나 봐! 이, 이만 끊을게!
+()||:뚜... 뚜... 뚜...+SIG-510 님이 통신을 요청합니다.
+MG4(0)<Speaker>MG4</Speaker>||:받지 마 받지 마 받지 마!+<color=#A9A9A9>으으으... 역시 누굴 초대하긴 너무 어려워, 그냥 혼자 가자...</color>
+()||<黑屏1><BGM>BGM_Empty</BGM>:

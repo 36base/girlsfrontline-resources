@@ -1,85 +1,85 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>385</BIN><BGM>GF_Jyashinchan_Battle_1</BGM>:진보초의 으슥한 골목길.
-Yurine(0)<Speaker>유리네</Speaker>||:너희, 누구야? 대뜸 나타나선 다짜고짜 공격하다니, 목적이 뭐야?
-Weaver(3)<Speaker>우로보로스</Speaker>||:제기랄... 제기랄...!
-NZ75(1)<Speaker>NZ75</Speaker>||:저 녀석... 사람 맞아? 어떻게 우리가 전혀 상대가 안 돼?!
-P90(1)<Speaker>P90</Speaker>||:마녀란 이토록 강한 존재로구나...
-CZ75(1)<Speaker>CZ75</Speaker>||:모두, 내 뒤로.
-()<Speaker></Speaker>||:CZ75가 동료들을 지키려고 앞으로 나섰다.
-CZ75(1)<Speaker>CZ75</Speaker>||:야, 마녀! 우리 말로 하자!
-Yurine(0)<Speaker>유리네</Speaker>||:마녀? 나 말이야?
-Weaver(3)<Speaker>우로보로스</Speaker><Shake>0.1</Shake>||<SE1>ClothingUp</SE1>:누가 지켜 달랬냐! 저리 비켜!!
-()<Speaker></Speaker>||<SE1>RunStep</SE1>:우로보로스가 CZ75를 밀쳐내고 다시 유리네에게 달려들었다.
-Weaver(7)<Speaker>우로보로스</Speaker>||<SE1>Stop_AVG_loop</SE1>:죽어라, 마녀!!
-Yurine(0)<Speaker>유리네</Speaker>||:음... 특이한 냄새. 너흰 다른 세상에서 왔구나?
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:물론, 이번에도 유리네는 우로보로스의 공격을 너무나도 손쉽게 피했다.
-Weaver(7)<Speaker>우로보로스</Speaker>||:곧 죽을 놈이 알 필요 없다!
-Yurine(0)<Speaker>유리네</Speaker>||:흐응.
-()<Speaker></Speaker>||<震屏3><SE1>AVG_Combat_Hits</SE1>:점점 더 거세지는 우로보로스의 공격에, 유리네도 결국 피하기만 하는 것을 그만두고 우로보로스를 덥썩 붙잡았다.
-Yurine(0)<Speaker>유리네</Speaker>||:어째선진 모르겠지만, 그 허약한 몸으로 달려들어선 날 어떻게든 죽일 셈인가 본데...
-Yurine(0);Weaver(7)<Speaker>우로보로스</Speaker>||:크윽... 닥쳐라!
-Yurine(0)<Speaker>유리네</Speaker>;Weaver(7)||:내가 네 동료를 해칠까 봐 걱정하는 건지, 아니면——
-Weaver(7)<Speaker>우로보로스</Speaker>||:저딴 쓰레기들과 누가 동료란 거냐!!
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:그때, 유리네의 뒤에 수상한 그림자가 드리웠다.
-Weaver(7)<Speaker>우로보로스</Speaker>||<黑点1><BGM>BGM_War</BGM>:지금이다, 구렁이!
-()<Speaker>사신짱</Speaker>||<震屏3><BIN>378</BIN><黑点2>:하아아아아압――!!+드디어 묵은 빚을 청산할 때가 왔사와요!+그동안 고향 땅을 못 밟은 원한! 내 소고기를 빼앗긴 울분! 매번 너한테 당하기만 한 치욕!+전부 이 일격에 담아서!+이걸로 끝이다! 이걸로 디 엔드다!+새 시즌 "사신짱 전선"에 네 출연은 없어!!+원망은 각본가한테나 하라고! 언젠가 네가 주연인 프리퀄이나 기대하면서 말이야!+잘 가라 유리네에에에!!!
-()<Speaker>사신짱</Speaker>||<震屏3><SE1>VO_Jashinchan_SKILL1_JP</SE1>:사신짱 드롭킥!!!
-()<Speaker>우로보로스</Speaker>||:.....
-()<Speaker>P90</Speaker>||:와아, 쟤 선쿨 진짜 길다.
-()||<黑点1>:
-Yurine(3)<Speaker>유리네</Speaker>||<BIN>385</BIN><黑点2>:역시 네 짓이었구나, 사신짱...
-()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><BGM>BGM_Empty</BGM><震屏3>:이번에도, 그리고 다 예상했단 얼굴로, 유리네는 아무렇지도 않게 사신짱의 꼬리를 받아냈다.
-Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||:흐억?! 어... 그... 오, 오늘 날씨가 참 좋네요, 유리네!
-Yurine(3)<Speaker>유리네</Speaker>||<BGM>GF_Jyashinchan_Battle_1</BGM>:그래? 그럼 전망 좋은 높은 데서 경치나 실컷 구경하다 와.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:유리네는 받아낸 꼬리를 꽉 움켜쥐더니, 그대로 사신짱을 몇바퀴 돌리고 하늘 저멀리로 내던졌다.
-()<Speaker>사신짱</Speaker>||<震屏3>:불쌍한 내 인새애애앵――!!
-Yurine(0)<Speaker>유리네</Speaker>||:아, 힘 너무 많이 줬다.
-P90(1)<Speaker>P90</Speaker>||:......
-CZ75(1)<Speaker>CZ75</Speaker>||:......
-NZ75(1)<Speaker>NZ75</Speaker>||:......
-Yurine(0)<Speaker>유리네</Speaker>||:그럼 이젠 너희 차례네.
-Weaver(3)<Speaker>우로보로스</Speaker>||:다 네놈들 탓이니 먼저 가라.
-NZ75(1)<Speaker>NZ75</Speaker>;Weaver(3)||:뭐 임마?! 우리야말로 억지로 끌려온 거거든!?
-Weaver(7)<Speaker>우로보로스</Speaker>||:닥치고 그냥 죽어라. 어차피 너넨 백업이 있지 않느냐.
-CZ75(1)<Speaker>CZ75</Speaker>||:너야말로 입 다물고 집중해, 저 녀석 모습을 봐선 아무도 그냥 보내 주지 않을 작정이야.
-P90(1)<Speaker>P90</Speaker>||:흑흑... 허니, 수복캡슐 앞에서 다시 봐요오...
-()<Speaker></Speaker>||:때마침 비추는 태양빛을 등진 유리네는, 무시무시한 미소를 띄우고 천천히 다가왔다...
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>388</BIN><黑屏2><BGM>BGM_Empty</BGM>:통합회수부서의 격리 시험장.+뜬금없는 노란색 선글라스에 K5는 한참을 고민했다.
-K5(0)<Speaker>K5</Speaker>||<BGM>BGM_Truth</BGM>:......아, 이거 P90 거구나!+응, 이렇게 강렬한 노란색 선글라스는 걔 말곤 쓰는 사람 본 적 없어.+하지만... 아까까지만 해도 이거 없었는데?
-K5(0)<Speaker>K5</Speaker>||:어휴... P90, 장난치는 거 다 아니까 얼른 나와.
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:K5가 볼멘소리로 P90을 불렀지만, 어째선지 호출 통신에도 "대상이 서비스 지역에 존재하지 않습니다."라는 메시지만 출력될 뿐이었다.
-K5(0)<Speaker>K5</Speaker>||:......+P90!!
-()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3><黑点1>:K5는 자리를 박차고 달려나갔다.
-()<Speaker></Speaker>||<BIN>18</BIN><Night><黑点2>:통합회수부서, 격리 시험장으로 이어지는 복도.+K5는 기지를 사방팔방으로 들쑤시며 P90을 찾아다녔지만, 그녀가 "CZ75와 NZ75를 데리고 결투 장소로 쓸 만한 데를 찾으러 갔다"는 말밖에 듣지 못했다.
-K5(0)<Speaker>K5</Speaker>||:어떡하지... P90을 포함해 세 명이 같이 갔다면 조건 충족까지 한 사람만 남았는데...
-BOSS-8(0)<Speaker>에이전트</Speaker>;K5(0)||:K5이지요? 실례하옵니다만, 우로보로스를 보진 못했사옵니까?+귀측이 모의훈련에서 자주 대적하는 그 검은 교복을 입은 미치광이이옵니다만.
-BOSS-8(0);K5(0)<Speaker>K5</Speaker>||:...아니, 못 봤어. 나도 지금 사람 찾는 중이니까 같이 물어봐 줄게.
-BOSS-8(0)<Speaker>에이전트</Speaker>;K5(0)||:감사드리옵니다.+단지, 그녀의 식별 신호가 격리 시험장에서 사라진 것이 마음에 걸리는군요.+그녀가 시험을 통과할 수 있도록, 특별히 격리 시험장의 일정을 전부 비워 줬는데 말이지요...
-K5(0)<Speaker>K5</Speaker>||:격리 시험장에서...?!
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2>:K5는 자신이 설마하던 추측을 에이전트에게 말해 주었다.
-BOSS-8(0)<Speaker>에이전트</Speaker>||:......+그 마법진이란 것에 대해선 전혀 이해하지 못하겠사옵니다만, 지금으로서 가장 가능성 높은 것은 우로보로스와 귀측의 전술인형 셋이 다른 어딘가로 전송되었다는 것이옵니까?
-K5(0)<Speaker>K5</Speaker>||:응...
-BOSS-8(0)<Speaker>에이전트</Speaker>||<BGM>BGM_Empty</BGM>:그렇다면 진위가 어떠하든, 우선 주인님께 보고하도록 하죠.
-()||<黑点1>:
-()<Speaker></Speaker>||<BGM>BGM_Hello</BGM><BIN>8</BIN><黑点2>:기지의 지휘실.+지휘관은 지루함과 나른함을 달래기 위해, 흥미로운 것을 찾아 하염없이 TV의 채널을 돌려댔다.
-()<Speaker>일기예보</Speaker>||<SE1>AVG_tele_connect</SE1>:오늘은 강풍을 동반한 호우 경보가 발령됐습니다.+이에 따라 다음 지역의 오염도가 상승할 것으로 예측되니, 주의하시기――
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:일기예보도 듣다 말고 휙 넘긴 지휘관의 눈에 익숙한 섬네일이 들어와 손가락이 멈췄다.
-()<Speaker>지휘관</Speaker>||:어, "사신짱 전선" 최신화 나왔네? 그런데 원래 제목이 이랬던가... 에이 뭐 어때.+그러고 보니 이번 화에 새 등장인물이 나온댔던 거 같은데...
-()<Speaker></Speaker>||:지휘관이 내심 기대하면서 "사신짱 전선"의 최신화를 재생했다.
-()||<黑点1><BGM>BGM_Empty</BGM>:
-Yurine(3)<Speaker>유리네</Speaker>||<BIN>385</BIN><黑点2><边框>2</边框><黑点2><BGM>BGM_War</BGM>:그럼 이젠 너희 차례네.
-Weaver(3)<Speaker>우로보로스</Speaker>||<边框>2</边框>:다 네놈들 탓이니 먼저 가라.
-NZ75(1)<Speaker>NZ75</Speaker>;Weaver(3)||<边框>2</边框>:뭐 임마?! 우리야말로 억지로 끌려온 거거든!?
-Weaver(7)<Speaker>우로보로스</Speaker>||<边框>2</边框>:닥치고 그냥 죽어라. 어차피 너넨 백업이 있지 않느냐.
-CZ75(1)<Speaker>CZ75</Speaker>||<边框>2</边框>:너야말로 입 다물고 집중해, 저 녀석 모습을 봐선 아무도 그냥 보내 주지 않을 작정이야.
-P90(1)<Speaker>P90</Speaker>||<边框>2</边框>:흑흑... 허니, 수복캡슐 앞에서 다시 봐요오...
-()||<黑点1><BGM>BGM_Empty</BGM>:
-()<Speaker>지휘관</Speaker>||<黑点2><BIN>8</BIN><BGM>BGM_Hello</BGM>:얼레, 이거 우리 애들이잖아?+언제 이런 단역 의뢰를 받았대?+하하, 이거 꼭 볼 이유가 생겼는걸.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 그대로 편안한 자세를 취하고 흥미진진하게 "사신짱 전선"의 최신화 시청을 시작했다.
-()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:하지만 얼마 안 가, 지휘실의 문이 벌컥 열렸다.
-BOSS-8(0)<Speaker>에이전트</Speaker>||:주인님, 속히 보고드릴 일이 발생했사옵――?!
-K5(0)<Speaker>K5</Speaker>||:지휘관, 큰일――?!
-K5(0)<Speaker>지휘관</Speaker>||:응...? 너희 둘이 동시에 무슨 일이니? 긴급 상황이야?
-()<Speaker></Speaker>||<黑屏1>:지휘관의 모니터에 보이는 화면을 본 순간, 두 인형의 얼굴이 동시에 창백해졌다.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>385</BIN><BGM>GF_Jyashinchan_Battle_1</BGM>:진보초의 으슥한 골목길.
+Yurine(0)<Speaker>유리네</Speaker>||:너희, 누구야? 대뜸 나타나선 다짜고짜 공격하다니, 목적이 뭐야?
+Weaver(3)<Speaker>우로보로스</Speaker>||:제기랄... 제기랄...!
+NZ75(1)<Speaker>NZ75</Speaker>||:저 녀석... 사람 맞아? 어떻게 우리가 전혀 상대가 안 돼?!
+P90(1)<Speaker>P90</Speaker>||:마녀란 이토록 강한 존재로구나...
+CZ75(1)<Speaker>CZ75</Speaker>||:모두, 내 뒤로.
+()<Speaker></Speaker>||:CZ75가 동료들을 지키려고 앞으로 나섰다.
+CZ75(1)<Speaker>CZ75</Speaker>||:야, 마녀! 우리 말로 하자!
+Yurine(0)<Speaker>유리네</Speaker>||:마녀? 나 말이야?
+Weaver(3)<Speaker>우로보로스</Speaker><Shake>0.1</Shake>||<SE1>ClothingUp</SE1>:누가 지켜 달랬냐! 저리 비켜!!
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:우로보로스가 CZ75를 밀쳐내고 다시 유리네에게 달려들었다.
+Weaver(7)<Speaker>우로보로스</Speaker>||<SE1>Stop_AVG_loop</SE1>:죽어라, 마녀!!
+Yurine(0)<Speaker>유리네</Speaker>||:음... 특이한 냄새. 너흰 다른 세상에서 왔구나?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:물론, 이번에도 유리네는 우로보로스의 공격을 너무나도 손쉽게 피했다.
+Weaver(7)<Speaker>우로보로스</Speaker>||:곧 죽을 놈이 알 필요 없다!
+Yurine(0)<Speaker>유리네</Speaker>||:흐응.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Combat_Hits</SE1>:점점 더 거세지는 우로보로스의 공격에, 유리네도 결국 피하기만 하는 것을 그만두고 우로보로스를 덥썩 붙잡았다.
+Yurine(0)<Speaker>유리네</Speaker>||:어째선진 모르겠지만, 그 허약한 몸으로 달려들어선 날 어떻게든 죽일 셈인가 본데...
+Yurine(0);Weaver(7)<Speaker>우로보로스</Speaker>||:크윽... 닥쳐라!
+Yurine(0)<Speaker>유리네</Speaker>;Weaver(7)||:내가 네 동료를 해칠까 봐 걱정하는 건지, 아니면——
+Weaver(7)<Speaker>우로보로스</Speaker>||:저딴 쓰레기들과 누가 동료란 거냐!!
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:그때, 유리네의 뒤에 수상한 그림자가 드리웠다.
+Weaver(7)<Speaker>우로보로스</Speaker>||<黑点1><BGM>BGM_War</BGM>:지금이다, 구렁이!
+()<Speaker>사신짱</Speaker>||<震屏3><BIN>378</BIN><黑点2>:하아아아아압――!!+드디어 묵은 빚을 청산할 때가 왔사와요!+그동안 고향 땅을 못 밟은 원한! 내 소고기를 빼앗긴 울분! 매번 너한테 당하기만 한 치욕!+전부 이 일격에 담아서!+이걸로 끝이다! 이걸로 디 엔드다!+새 시즌 "사신짱 전선"에 네 출연은 없어!!+원망은 각본가한테나 하라고! 언젠가 네가 주연인 프리퀄이나 기대하면서 말이야!+잘 가라 유리네에에에!!!
+()<Speaker>사신짱</Speaker>||<震屏3><SE1>VO_Jashinchan_SKILL1_JP</SE1>:사신짱 드롭킥!!!
+()<Speaker>우로보로스</Speaker>||:.....
+()<Speaker>P90</Speaker>||:와아, 쟤 선쿨 진짜 길다.
+()||<黑点1>:
+Yurine(3)<Speaker>유리네</Speaker>||<BIN>385</BIN><黑点2>:역시 네 짓이었구나, 사신짱...
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><BGM>BGM_Empty</BGM><震屏3>:이번에도, 그리고 다 예상했단 얼굴로, 유리네는 아무렇지도 않게 사신짱의 꼬리를 받아냈다.
+Jashinchan(5)<Speaker>사신짱</Speaker><Position>0,100</Position>||:흐억?! 어... 그... 오, 오늘 날씨가 참 좋네요, 유리네!
+Yurine(3)<Speaker>유리네</Speaker>||<BGM>GF_Jyashinchan_Battle_1</BGM>:그래? 그럼 전망 좋은 높은 데서 경치나 실컷 구경하다 와.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:유리네는 받아낸 꼬리를 꽉 움켜쥐더니, 그대로 사신짱을 몇바퀴 돌리고 하늘 저멀리로 내던졌다.
+()<Speaker>사신짱</Speaker>||<震屏3>:불쌍한 내 인새애애앵――!!
+Yurine(0)<Speaker>유리네</Speaker>||:아, 힘 너무 많이 줬다.
+P90(1)<Speaker>P90</Speaker>||:......
+CZ75(1)<Speaker>CZ75</Speaker>||:......
+NZ75(1)<Speaker>NZ75</Speaker>||:......
+Yurine(0)<Speaker>유리네</Speaker>||:그럼 이젠 너희 차례네.
+Weaver(3)<Speaker>우로보로스</Speaker>||:다 네놈들 탓이니 먼저 가라.
+NZ75(1)<Speaker>NZ75</Speaker>;Weaver(3)||:뭐 임마?! 우리야말로 억지로 끌려온 거거든!?
+Weaver(7)<Speaker>우로보로스</Speaker>||:닥치고 그냥 죽어라. 어차피 너넨 백업이 있지 않느냐.
+CZ75(1)<Speaker>CZ75</Speaker>||:너야말로 입 다물고 집중해, 저 녀석 모습을 봐선 아무도 그냥 보내 주지 않을 작정이야.
+P90(1)<Speaker>P90</Speaker>||:흑흑... 허니, 수복캡슐 앞에서 다시 봐요오...
+()<Speaker></Speaker>||:때마침 비추는 태양빛을 등진 유리네는, 무시무시한 미소를 띄우고 천천히 다가왔다...
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>388</BIN><黑屏2><BGM>BGM_Empty</BGM>:통합회수부서의 격리 시험장.+뜬금없는 노란색 선글라스에 K5는 한참을 고민했다.
+K5(0)<Speaker>K5</Speaker>||<BGM>BGM_Truth</BGM>:......아, 이거 P90 거구나!+응, 이렇게 강렬한 노란색 선글라스는 걔 말곤 쓰는 사람 본 적 없어.+하지만... 아까까지만 해도 이거 없었는데?
+K5(0)<Speaker>K5</Speaker>||:어휴... P90, 장난치는 거 다 아니까 얼른 나와.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:K5가 볼멘소리로 P90을 불렀지만, 어째선지 호출 통신에도 "대상이 서비스 지역에 존재하지 않습니다."라는 메시지만 출력될 뿐이었다.
+K5(0)<Speaker>K5</Speaker>||:......+P90!!
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3><黑点1>:K5는 자리를 박차고 달려나갔다.
+()<Speaker></Speaker>||<BIN>18</BIN><Night><黑点2>:통합회수부서, 격리 시험장으로 이어지는 복도.+K5는 기지를 사방팔방으로 들쑤시며 P90을 찾아다녔지만, 그녀가 "CZ75와 NZ75를 데리고 결투 장소로 쓸 만한 데를 찾으러 갔다"는 말밖에 듣지 못했다.
+K5(0)<Speaker>K5</Speaker>||:어떡하지... P90을 포함해 세 명이 같이 갔다면 조건 충족까지 한 사람만 남았는데...
+BOSS-8(0)<Speaker>에이전트</Speaker>;K5(0)||:K5이지요? 실례하옵니다만, 우로보로스를 보진 못했사옵니까?+귀측이 모의훈련에서 자주 대적하는 그 검은 교복을 입은 미치광이이옵니다만.
+BOSS-8(0);K5(0)<Speaker>K5</Speaker>||:...아니, 못 봤어. 나도 지금 사람 찾는 중이니까 같이 물어봐 줄게.
+BOSS-8(0)<Speaker>에이전트</Speaker>;K5(0)||:감사드리옵니다.+단지, 그녀의 식별 신호가 격리 시험장에서 사라진 것이 마음에 걸리는군요.+그녀가 시험을 통과할 수 있도록, 특별히 격리 시험장의 일정을 전부 비워 줬는데 말이지요...
+K5(0)<Speaker>K5</Speaker>||:격리 시험장에서...?!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2>:K5는 자신이 설마하던 추측을 에이전트에게 말해 주었다.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:......+그 마법진이란 것에 대해선 전혀 이해하지 못하겠사옵니다만, 지금으로서 가장 가능성 높은 것은 우로보로스와 귀측의 전술인형 셋이 다른 어딘가로 전송되었다는 것이옵니까?
+K5(0)<Speaker>K5</Speaker>||:응...
+BOSS-8(0)<Speaker>에이전트</Speaker>||<BGM>BGM_Empty</BGM>:그렇다면 진위가 어떠하든, 우선 주인님께 보고하도록 하죠.
+()||<黑点1>:
+()<Speaker></Speaker>||<BGM>BGM_Hello</BGM><BIN>8</BIN><黑点2>:기지의 지휘실.+지휘관은 지루함과 나른함을 달래기 위해, 흥미로운 것을 찾아 하염없이 TV의 채널을 돌려댔다.
+()<Speaker>일기예보</Speaker>||<SE1>AVG_tele_connect</SE1>:오늘은 강풍을 동반한 호우 경보가 발령됐습니다.+이에 따라 다음 지역의 오염도가 상승할 것으로 예측되니, 주의하시기――
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:일기예보도 듣다 말고 휙 넘긴 지휘관의 눈에 익숙한 섬네일이 들어와 손가락이 멈췄다.
+()<Speaker>지휘관</Speaker>||:어, "사신짱 전선" 최신화 나왔네? 그런데 원래 제목이 이랬던가... 에이 뭐 어때.+그러고 보니 이번 화에 새 등장인물이 나온댔던 거 같은데...
+()<Speaker></Speaker>||:지휘관이 내심 기대하면서 "사신짱 전선"의 최신화를 재생했다.
+()||<黑点1><BGM>BGM_Empty</BGM>:
+Yurine(3)<Speaker>유리네</Speaker>||<BIN>385</BIN><黑点2><边框>2</边框><黑点2><BGM>BGM_War</BGM>:그럼 이젠 너희 차례네.
+Weaver(3)<Speaker>우로보로스</Speaker>||<边框>2</边框>:다 네놈들 탓이니 먼저 가라.
+NZ75(1)<Speaker>NZ75</Speaker>;Weaver(3)||<边框>2</边框>:뭐 임마?! 우리야말로 억지로 끌려온 거거든!?
+Weaver(7)<Speaker>우로보로스</Speaker>||<边框>2</边框>:닥치고 그냥 죽어라. 어차피 너넨 백업이 있지 않느냐.
+CZ75(1)<Speaker>CZ75</Speaker>||<边框>2</边框>:너야말로 입 다물고 집중해, 저 녀석 모습을 봐선 아무도 그냥 보내 주지 않을 작정이야.
+P90(1)<Speaker>P90</Speaker>||<边框>2</边框>:흑흑... 허니, 수복캡슐 앞에서 다시 봐요오...
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()<Speaker>지휘관</Speaker>||<黑点2><BIN>8</BIN><BGM>BGM_Hello</BGM>:얼레, 이거 우리 애들이잖아?+언제 이런 단역 의뢰를 받았대?+하하, 이거 꼭 볼 이유가 생겼는걸.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 그대로 편안한 자세를 취하고 흥미진진하게 "사신짱 전선"의 최신화 시청을 시작했다.
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:하지만 얼마 안 가, 지휘실의 문이 벌컥 열렸다.
+BOSS-8(0)<Speaker>에이전트</Speaker>||:주인님, 속히 보고드릴 일이 발생했사옵――?!
+K5(0)<Speaker>K5</Speaker>||:지휘관, 큰일――?!
+K5(0)<Speaker>지휘관</Speaker>||:응...? 너희 둘이 동시에 무슨 일이니? 긴급 상황이야?
+()<Speaker></Speaker>||<黑屏1>:지휘관의 모니터에 보이는 화면을 본 순간, 두 인형의 얼굴이 동시에 창백해졌다.

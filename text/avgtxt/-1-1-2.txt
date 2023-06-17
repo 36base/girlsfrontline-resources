@@ -1,49 +1,49 @@
- ()||<BGM>BGM_NightOPS</BGM><BIN>1</BIN><Night>:잠입 성공. UMP9과 HK416이 각자 목표 지점으로 향했다.
-HK416(0)<Speaker>HK416</Speaker>||:여기는 HK416. 목표 지점에 도착. 아직 G11은 찾지 못했다.
-UMP45(2)<Speaker>UMP45</Speaker><通讯框>||:응? 레이더에는 바로 네 옆에 있다고 뜨는데?
-HK416(0)<Speaker>HK416</Speaker>||:주변엔 나무밖에 없는데. 어디에 숨은 건지...+그래, 여기 있네.+일어나, G11.
-G11()<Speaker>G11</Speaker>||:으으... 싫어어...
-HK416(0)<Speaker>HK416</Speaker>||<震屏>:빨리 일어나. 늦었단 말이야.
-G11()<Speaker>G11</Speaker>||<黑屏1>:우으... 아파... 발로 차지 마...
-G11(0)<Speaker>G11</Speaker>||<黑屏2>:어... 416, 너 왜 여기 있어...?
-HK416(0)<Speaker>HK416</Speaker>;G11(0)||:이게 잠이 덜 깼나...+엄호해줄 사람이 필요하다며.
-HK416(0);G11(0)<Speaker>G11</Speaker>||:아... 45가 네가 죽었을지도 모른대서.+그래서... 한밤중까지 숨어있다가 도망치려 했지.
-HK416(0);G11(0)<Speaker>UMP45</Speaker>||:미안, G11~♪ 416이 꼭 자기가 가야겠다고 해서 말이야. 꿀잠을 방해해 버렸네.
-HK416(0)<Speaker>HK416</Speaker>;G11(0)||:이것들이 진짜...
-HK416(0);G11(0)<Speaker>G11</Speaker>||:지, 진정해 416... 나 엄호하러 온 거 아니었어?
-HK416(0)<Speaker>HK416</Speaker>;G11(0)||:하아... 후우... 사방에 철혈이 깔렸으니, 일단 숨을 곳부터 찾는 게 좋겠어.
-HK416(0);G11(0)<Speaker>G11</Speaker>||:아, 잠깐만.+깜빡 졸아서 그런데, 녹음 기록 확인부터...
-HK416(0)<Speaker>HK416</Speaker>;G11(0)||<黑屏1>:......+60초 줄 테니까 빨리해. 0.1초라도 늦으면 널 해체해서 데려갈 거야.
- ()||<BIN>9</BIN><黑屏2>:...녹음 파일 재생 시작.
-??()<Speaker>??</Speaker>||<BGM>BGM_Empty</BGM>:...반갑군, 그리폰 여러분. S06 구역에 온 걸 환영하지.
-HK416(3)<Speaker>HK416</Speaker>||<BGM>BGM_Sneak</BGM>:야... 이게 대체 뭐야...?
-G11(2)<Speaker>G11</Speaker>||:나, 난 몰라! 안 들키게 얼마나 조심했는데!
-??()<Speaker>??</Speaker>||:이번 습격은 마음에 들었나 모르겠군.
-HK416(2)<Speaker>HK416</Speaker>||:이 목소리... 이 구역의 철혈 보스인가?
-??()<Speaker>??</Speaker>||:기나긴 밤은... 이제 막 시작되었을 뿐이다.+너희에게는... 아쉽게도, 곧 끝나 버리겠지만.
-HK416(3)<Speaker>HK416</Speaker>||<BGM>BGM_Empty</BGM>:젠장!+ G11, 엎드려!!
-()||<黑屏1><震屏><SE1>Explode</SE1>:콰앙!!!
-()||<黑屏2><BIN>3</BIN><Night>:같은 시각, S06 구역의 철혈 지휘부.
-HunterElite(0)<Speaker>헌터</Speaker>||<BGM>BGM_Boss</BGM>:우로보로스, S06 구역 F3 지점의 음성 제어 폭탄이 기폭 되었다.+포착된 영상을 통해 적은 404 소대로 확인되었다. 하지만 생사는 확인할 수가 없군.
-Weaver(0)<Speaker>우로보로스</Speaker><通讯框>;HunterElite(0)||:그럼 가까이서 확인하면 되지. 당장 척살대를 보내서 끝장을 내도록.
-Weaver(0);HunterElite(0)<Speaker>헌터</Speaker>||:정말 그렇게까지 해야 할까? 에이전트가 말했잖아, 그리폰과의 충돌은 가능한 한 피하라고.
-Weaver(0)<Speaker>우로보로스</Speaker>;HunterElite(0)||:헌터... 그렇게 고지식하게 경험에만 의존하니까 AR-15에게 짓밟힌 것이다.+잘 들어. 내 목표는, 그 피라미 몇 마리가 아니라, 놈들의 우두머리다.+404의 도망자를 척살하는 건 미끼다. 그년들의 두목을 꾀어내는 것이 진짜 목적이지.
-Weaver(0);HunterElite(0)<Speaker>헌터</Speaker>||:그들은 AR팀과는 다르다. 정말 그쪽 지휘자가 놈들을 버리지 않을 거라 확신하나?
-Weaver(0)<Speaker>우로보로스</Speaker>;HunterElite(0)||:확신한다. 저들이 404이기에 더더욱.+사람들은 위험이 닥치면 친구도 간단히 배신하지만, 이용 가치가 있는 장기 말은 쉽게 버리지 못하지.
-Weaver(0);HunterElite(0)<Speaker>헌터</Speaker>||:우로보로스...+그럼, 나는 뭐지? 왜 더 강한 다른 인형이 아니라, 폐허 속에 묻혀 있던 나를 선택한 거냐?
-Weaver(0)<Speaker>우로보로스</Speaker>;HunterElite(0)||:넌 실패를 겪어봤기 때문이다. 복수심이 너를 잔혹하게, 치욕이 너를 신중하게 만들 테지.+그리폰을 상대함에 있어 너야말로 가장 적당한 장기 말이란 거지.+자아... 나를 실망시키진 않겠지?
-Weaver(0);HunterElite(1)<Speaker>헌터</Speaker>||:......+그래, 나는 널 배신하지 않는다.
-Weaver(0);HunterElite(0)<Speaker>헌터</Speaker>||:그럼... 즉시 초소로 가마.
-Weaver(0)<Speaker>우로보로스</Speaker>;HunterElite(0)||<黑屏1>:가거라, 헌터. S06 구역의 초소를 지키면서, 눈에 보이는 모든 그리폰의 잔챙이들을 쓸어버려라!
-()||<黑屏2><BIN>1</BIN><Night><BGM>BGM_Danger</BGM><SE1>Battlefield</SE1>:10분 후, HK416과 G11.
-G11(2)<Speaker>G11</Speaker>||<SE2>Gunfight</SE2>:으아아... 416, 더 빨리 달려! 철혈이 덮쳐온다!
-HK416(3)<Speaker>HK416</Speaker>||:시끄러! 그럼 네가 날 업고 이렇게 달려 보던가!+... 젠장, 막다른 길이잖아?!+45, 마중하러 온다고 했잖아!?
-UMP45(2)<Speaker>UMP45</Speaker><通讯框>||:다 왔어. 바로 아래야!
-HK416(3)<Speaker>HK416</Speaker>;UMP45(2)||<SE1>Battlefield</SE1><SE2>Gunfight</SE2>:미쳤어?! 이 앞은 낭떠러지라고!
-HK416(3);UMP45(2)<Speaker>UMP45</Speaker>||:맞아. 계속 달려. 그리고 뛰어내려!
-HK416(2)<Speaker>HK416</Speaker>;UMP45(2)||<SE1>Gunfight</SE1>:...드디어 우릴 처분할 생각이구나, 45.
-HK416(2);UMP45(2)<Speaker>UMP45</Speaker>||:아직은 아니야. 나를 믿어.
-HK416(2);G11(2)<Speaker>G11</Speaker>||<SE1>Battlefield</SE1><SE2>Gunfight</SE2>:얼른 시키는 대로 뛰어! 나도 아래 뭐가 있는지 알아!
-HK416(2)<Speaker>HK416</Speaker>||:후우... 그래, 네 말을 믿을게, G11.+적어도 넌 나무랄 데 없는 겁쟁이니까...
-HK416(3)<Speaker>HK416</Speaker>||:좋아, 하나... 두울...
-()||<BIN>9</BIN><SE2>Gunfight</SE2><黑屏1>:...셋!+......
+ ()||<BGM>BGM_NightOPS</BGM><BIN>1</BIN><Night>:잠입 성공. UMP9과 HK416이 각자 목표 지점으로 향했다.
+HK416(0)<Speaker>HK416</Speaker>||:여기는 HK416. 목표 지점에 도착. 아직 G11은 찾지 못했다.
+UMP45(2)<Speaker>UMP45</Speaker><通讯框>||:응? 레이더에는 바로 네 옆에 있다고 뜨는데?
+HK416(0)<Speaker>HK416</Speaker>||:주변엔 나무밖에 없는데. 어디에 숨은 건지...+그래, 여기 있네.+일어나, G11.
+G11()<Speaker>G11</Speaker>||:으으... 싫어어...
+HK416(0)<Speaker>HK416</Speaker>||<震屏>:빨리 일어나. 늦었단 말이야.
+G11()<Speaker>G11</Speaker>||<黑屏1>:우으... 아파... 발로 차지 마...
+G11(0)<Speaker>G11</Speaker>||<黑屏2>:어... 416, 너 왜 여기 있어...?
+HK416(0)<Speaker>HK416</Speaker>;G11(0)||:이게 잠이 덜 깼나...+엄호해줄 사람이 필요하다며.
+HK416(0);G11(0)<Speaker>G11</Speaker>||:아... 45가 네가 죽었을지도 모른대서.+그래서... 한밤중까지 숨어있다가 도망치려 했지.
+HK416(0);G11(0)<Speaker>UMP45</Speaker>||:미안, G11~♪ 416이 꼭 자기가 가야겠다고 해서 말이야. 꿀잠을 방해해 버렸네.
+HK416(0)<Speaker>HK416</Speaker>;G11(0)||:이것들이 진짜...
+HK416(0);G11(0)<Speaker>G11</Speaker>||:지, 진정해 416... 나 엄호하러 온 거 아니었어?
+HK416(0)<Speaker>HK416</Speaker>;G11(0)||:하아... 후우... 사방에 철혈이 깔렸으니, 일단 숨을 곳부터 찾는 게 좋겠어.
+HK416(0);G11(0)<Speaker>G11</Speaker>||:아, 잠깐만.+깜빡 졸아서 그런데, 녹음 기록 확인부터...
+HK416(0)<Speaker>HK416</Speaker>;G11(0)||<黑屏1>:......+60초 줄 테니까 빨리해. 0.1초라도 늦으면 널 해체해서 데려갈 거야.
+ ()||<BIN>9</BIN><黑屏2>:...녹음 파일 재생 시작.
+??()<Speaker>??</Speaker>||<BGM>BGM_Empty</BGM>:...반갑군, 그리폰 여러분. S06 구역에 온 걸 환영하지.
+HK416(3)<Speaker>HK416</Speaker>||<BGM>BGM_Sneak</BGM>:야... 이게 대체 뭐야...?
+G11(2)<Speaker>G11</Speaker>||:나, 난 몰라! 안 들키게 얼마나 조심했는데!
+??()<Speaker>??</Speaker>||:이번 습격은 마음에 들었나 모르겠군.
+HK416(2)<Speaker>HK416</Speaker>||:이 목소리... 이 구역의 철혈 보스인가?
+??()<Speaker>??</Speaker>||:기나긴 밤은... 이제 막 시작되었을 뿐이다.+너희에게는... 아쉽게도, 곧 끝나 버리겠지만.
+HK416(3)<Speaker>HK416</Speaker>||<BGM>BGM_Empty</BGM>:젠장!+ G11, 엎드려!!
+()||<黑屏1><震屏><SE1>Explode</SE1>:콰앙!!!
+()||<黑屏2><BIN>3</BIN><Night>:같은 시각, S06 구역의 철혈 지휘부.
+HunterElite(0)<Speaker>헌터</Speaker>||<BGM>BGM_Boss</BGM>:우로보로스, S06 구역 F3 지점의 음성 제어 폭탄이 기폭 되었다.+포착된 영상을 통해 적은 404 소대로 확인되었다. 하지만 생사는 확인할 수가 없군.
+Weaver(0)<Speaker>우로보로스</Speaker><通讯框>;HunterElite(0)||:그럼 가까이서 확인하면 되지. 당장 척살대를 보내서 끝장을 내도록.
+Weaver(0);HunterElite(0)<Speaker>헌터</Speaker>||:정말 그렇게까지 해야 할까? 에이전트가 말했잖아, 그리폰과의 충돌은 가능한 한 피하라고.
+Weaver(0)<Speaker>우로보로스</Speaker>;HunterElite(0)||:헌터... 그렇게 고지식하게 경험에만 의존하니까 AR-15에게 짓밟힌 것이다.+잘 들어. 내 목표는, 그 피라미 몇 마리가 아니라, 놈들의 우두머리다.+404의 도망자를 척살하는 건 미끼다. 그년들의 두목을 꾀어내는 것이 진짜 목적이지.
+Weaver(0);HunterElite(0)<Speaker>헌터</Speaker>||:그들은 AR팀과는 다르다. 정말 그쪽 지휘자가 놈들을 버리지 않을 거라 확신하나?
+Weaver(0)<Speaker>우로보로스</Speaker>;HunterElite(0)||:확신한다. 저들이 404이기에 더더욱.+사람들은 위험이 닥치면 친구도 간단히 배신하지만, 이용 가치가 있는 장기 말은 쉽게 버리지 못하지.
+Weaver(0);HunterElite(0)<Speaker>헌터</Speaker>||:우로보로스...+그럼, 나는 뭐지? 왜 더 강한 다른 인형이 아니라, 폐허 속에 묻혀 있던 나를 선택한 거냐?
+Weaver(0)<Speaker>우로보로스</Speaker>;HunterElite(0)||:넌 실패를 겪어봤기 때문이다. 복수심이 너를 잔혹하게, 치욕이 너를 신중하게 만들 테지.+그리폰을 상대함에 있어 너야말로 가장 적당한 장기 말이란 거지.+자아... 나를 실망시키진 않겠지?
+Weaver(0);HunterElite(1)<Speaker>헌터</Speaker>||:......+그래, 나는 널 배신하지 않는다.
+Weaver(0);HunterElite(0)<Speaker>헌터</Speaker>||:그럼... 즉시 초소로 가마.
+Weaver(0)<Speaker>우로보로스</Speaker>;HunterElite(0)||<黑屏1>:가거라, 헌터. S06 구역의 초소를 지키면서, 눈에 보이는 모든 그리폰의 잔챙이들을 쓸어버려라!
+()||<黑屏2><BIN>1</BIN><Night><BGM>BGM_Danger</BGM><SE1>Battlefield</SE1>:10분 후, HK416과 G11.
+G11(2)<Speaker>G11</Speaker>||<SE2>Gunfight</SE2>:으아아... 416, 더 빨리 달려! 철혈이 덮쳐온다!
+HK416(3)<Speaker>HK416</Speaker>||:시끄러! 그럼 네가 날 업고 이렇게 달려 보던가!+... 젠장, 막다른 길이잖아?!+45, 마중하러 온다고 했잖아!?
+UMP45(2)<Speaker>UMP45</Speaker><通讯框>||:다 왔어. 바로 아래야!
+HK416(3)<Speaker>HK416</Speaker>;UMP45(2)||<SE1>Battlefield</SE1><SE2>Gunfight</SE2>:미쳤어?! 이 앞은 낭떠러지라고!
+HK416(3);UMP45(2)<Speaker>UMP45</Speaker>||:맞아. 계속 달려. 그리고 뛰어내려!
+HK416(2)<Speaker>HK416</Speaker>;UMP45(2)||<SE1>Gunfight</SE1>:...드디어 우릴 처분할 생각이구나, 45.
+HK416(2);UMP45(2)<Speaker>UMP45</Speaker>||:아직은 아니야. 나를 믿어.
+HK416(2);G11(2)<Speaker>G11</Speaker>||<SE1>Battlefield</SE1><SE2>Gunfight</SE2>:얼른 시키는 대로 뛰어! 나도 아래 뭐가 있는지 알아!
+HK416(2)<Speaker>HK416</Speaker>||:후우... 그래, 네 말을 믿을게, G11.+적어도 넌 나무랄 데 없는 겁쟁이니까...
+HK416(3)<Speaker>HK416</Speaker>||:좋아, 하나... 두울...
+()||<BIN>9</BIN><SE2>Gunfight</SE2><黑屏1>:...셋!+......

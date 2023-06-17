@@ -1,0 +1,99 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>657</BIN><BGM>GF_22W_BGM_2</BGM>:아베르누스, 안젤리아의 방 바깥.
+RO635Mod(0)<Speaker>RO635</Speaker>||<SE1>RunStep</SE1>:안젤리아 씨!
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch</SE1>:RO635가 허둥대며 달리다, 돌연 나타난 잠에서 덜 깬 듯한 모습과 부딪혔다.
+M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||:RO...!
+RO635Mod(3)<Speaker>RO635</Speaker>||:SOP2! 너...?!
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake><SE1>AVG_XXS_kick</SE1>:바로 움직이는 게 기적일 정도로 소체가 걸레짝인 SOP2였다.
+M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||:헤헤... RO 찾았~다...
+M4 SOPMOD IIMod(1);RO635Mod(2)<Speaker>RO635</Speaker>||:SOP2...+미안해, 미안해... 내가 구하러 가겠다 했는데...
+M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>;RO635Mod(2)||:에헤헤... 나도 그년한테서 어떻게 빠져나왔는지 모르겠어...+그냥, 정신 차리고 보니까 밖에 앉아 있고, AR-15가 통신으로 막 버럭버럭대더라구...
+M4 SOPMOD IIMod(1);RO635Mod(3)<Speaker>RO635</Speaker>||:AR-15가? 뭐래? 난 안젤리아 씨와 연락하느라 정신이 없어서 AR-15한테 신경을 못 썼어.
+M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>;RO635Mod(3)||:폭격기가 곧 여길 불바다로 만들 거니까, 너 찾아서 빨랑 빠져나오래.
+M4 SOPMOD IIMod(1);RO635Mod(5)<Speaker>RO635</Speaker>||:응, 그럼 얼른 안젤리아 씨도――
+M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||<SE1>ClothingUp</SE1>:...RO.
+()<Speaker></Speaker>||:SOP2가 자신을 내려놓으려는 RO635를 말렸다.
+M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||:안젤리아는... 갔어...
+M4 SOPMOD IIMod(1);RO635Mod(3)<Speaker>RO635</Speaker>||:......+그럴 리 없어, 십몇 분 전만 해도 나랑――
+M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>;RO635Mod(3)||:AR-15가... 철완의 신호가 사라졌대...
+RO635Mod(2)<Speaker>RO635</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:RO635는 SOP2를 살며시 바닥에 내려놨다.
+RO635Mod(4)<Speaker>RO635</Speaker>||:...직접 확인하고 올게.
+M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||:RO...
+()||<BGM>BGM_Empty</BGM><黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>510</BIN><BGM>BGM_23S_War_Sacrifice</BGM><SE1>RunStep</SE1><SE1>AVG_BaseDoor_Open</SE1>:RO635가 다급하게 안젤리아의 방으로 달려가 두 눈으로 직접 보았다.+비좁은 방에는 은색 장치 하나만이 바닥에 조용히 넘어져 있을 뿐이었다.+침묵이 엄습했다.
+RO635Mod(3)<Speaker>RO635</Speaker>||:안젤리아 씨...
+M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker><Shake>0.1</Shake>||:RO... 나 졸려... 좀 잘게...
+RO635Mod(3)<Speaker>RO635</Speaker>||:뭣, SOP2?!
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:바닥에 앉아 있던 SOP2는 졸린 눈으로 씨익 웃더니 그대로 풀썩 쓰러졌다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:RO635는 다시 헐레벌떡 달려가 그녀를 부축했다.
+RO635Mod(2)<Speaker>RO635</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:어쩔 수 없었지만, 그럼에도 마지막으로 안젤리아의 방을 한 번 더 뒤돌아 보았다.+그녀의 뜨거운 시선에 대답해 주는 건 바닥의 차가운 "철완"뿐이었다.
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:심호흡을 한 번 한 뒤, RO635는 SOP2를 어깨에 붙이고 밖으로 향했다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>446</BIN>:아베르누스 동탑, 옥상 부근.
+NPC-SCR(2)<Speaker>SCR</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>여기는 서광팀... 유적 시뮬레이션 구역에서, 엘리아나의 소체를 발견...</color>+<color=#00CCFF>...마인드맵이 융해됐지만 소체는 괜찮아. 회수할게.</color>
+BossJustice(0)<Speaker>저지</Speaker><通讯框>||:<color=#00CCFF>그럼, 이제 네가 작전 총지휘다.</color>
+NPC-SCR(2)<Speaker>SCR</Speaker><通讯框>||:<color=#00CCFF>응... 엘리아나의 임무를 마저 완수할게.</color>+<color=#00CCFF>전원, 아베르누스에서 철수한다.</color>+<color=#00CCFF>Fe56은 민들레를 보호하며 먼저 철수하고, 서광은 모두의 철수를 확인한 다음에 이탈할게.</color>
+NPC-SCR(2);AR15Mod(5)<Speaker>AR15</Speaker>||:잠깐 기다려, RO와 SOP2랑 아직 연락이 안 돼.
+NPC-SCR(2)<Speaker>SCR</Speaker><通讯框>;AR15Mod(5)||:<color=#00CCFF>그 둘도 철수 지시는 받은 걸로 확인돼.</color>
+NPC-SCR(2);AR15Mod(5)<Speaker>AR15</Speaker>||:내가 그들과 합류하겠어.
+NPC-SCR(2)<Speaker>SCR</Speaker><通讯框>;AR15Mod(5)||:<color=#00CCFF>기각이야. 너는 민들레팀과 함께 댄들라이를 호위해야 해.</color>
+AR15Mod(4)<Speaker>AR15</Speaker>||:......
+NPC-SCR(2)<Speaker>SCR</Speaker><通讯框>||:<color=#00CCFF>알았지? 작전팀 전원, 즉시 아베르누스에서 철수한다.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AR-15는 고개를 내밀어, 위를 올려다봤다. 저 끝없이 위로 휘감겨 오르는 복도가 순간 저승길처럼 보여, 그녀는 인상을 팍 쓰며 발을 동동 굴렀다.
+AR15Mod(5)<Speaker>AR15</Speaker>||:통신 받아 SOP2... 아까까지만 해도 연결됐잖아! 왜 또 대답이 없어?!
+HK416Mod(0)<Speaker>HK416</Speaker>||:됐으니까 꾸물대지 말고 빨리 철수하자고!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:지시는 받았대잖아? 네 가족을 믿어, 언제 어느 때든 네 앞으로 반드시 달려올 거야.
+AR15Mod(4)<Speaker>AR15</Speaker>||:......
+HK416Mod(0)<Speaker>HK416</Speaker>||:아 시간 없다고! 빨리 움직여!
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=5</controll_shake>:HK416은 UMP45를 떠밀어 앞장세우고, 움직이려 하지 않는 AR-15와 축 늘어진 G11을 질질 끌며 아베르누스 탑 바깥으로 향했다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>202</BIN><BGM>BGM_Empty</BGM>:죽음의 바다 인근, 엘모 호.
+()<Speaker></Speaker>||<BGM>11335</BGM><SE1>AVG_keyboardtype_sci</SE1>:엘마와 SCR의 중계로, 전술 지도에 무로메츠 작전팀 각 소대의 이동 궤적이 실시간으로 표시됐다.+지휘관이 주시하는 모든 반점들은 커다란 아베르누스에 대비되어 더더욱 작아 보였다.
+AR18(2)<Speaker>AR18</Speaker><Position>0,120</Position>||:지휘관, 민들레팀이 아베르누스에서 이탈해 안전지대에 도달했습니다. 20분 후 엘모 호로 복귀 예상됩니다.+Fe56팀은 5분 후 아베르누스에서 철수 예정입니다.
+()<Speaker>지휘관</Speaker>||:그래... 위험하니 더 서두르라 해.
+()<Speaker></Speaker>||:지휘관은 초조한 눈으로 카운트다운을 힐끗 바라봤다. 폭격이 시작되기까지 이제 얼마 안 남았다.
+AR18(2)<Speaker>AR18</Speaker><Position>0,120</Position>||:예.+다만 AR-15가 안전지대에 남아 RO635, SOP2와 합류한 후 엘모 호로 복귀하기를 요청하고 있습니다.
+AR18(2)<Speaker>지휘관</Speaker><Position>0,120</Position><同时置暗>||:......+RO한테서 연락은?
+AR18(2)<Speaker>AR18</Speaker><Position>0,120</Position>||:SCR이 그녀도 철수 지시를 받은 것은 확인했습니다.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 다시 전술 지도로 눈을 돌렸다. 이 지도에서 반짝이며 움직이는 반점들, 그리고 빛을 잃고 탑 안에 머물러 있는 반점들도 여럿이었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>485</BIN>:죽음의 바다의 끝자락.+AR-15가 고집을 부린 끝에 기어코 멈춰 서서 아베르누스 쪽을 바라봤다. Fe56과 서광은 이미 모두 철수했고, 남은 것은...
+()<Speaker></Speaker>||<SE1>AVG_Jet_Passby</SE1>:머리 위로 지나는 우렁찬 엔진음. "루슬란 2세"였다.
+AR15Mod(2)<Speaker>AR15</Speaker>||:안 돼...
+()<Speaker></Speaker>||:AR-15가 절망감에 중얼거려도 시간은 질퍽하게 굳는 느낌만 들 뿐, 천천히 계속 흘렀다.+이윽고 루슬란 2세는 파멸의 씨앗을 투하했고, 저곳에 영원히 우뚝 서 있을 것만 같았던 아베르누스에 떨어졌다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=5%%delay=0.1%%range=6</controll_shake><common_effect>%%code=AVG_hui%%</common_effect><BIN>645</BIN><黑屏2><SE1>Explode</SE1>:콰아아앙!!
+()<Speaker></Speaker>||:분화하는 화산처럼 피어난 파멸의 꽃은 아베르누스를 천천히 침몰시켰다.
+()<Speaker></Speaker>||:지옥의 종말 같은 광경을 향해, AR-15는 목청이 터져라 소리질렀다. 하지만 자신의 소리도, 대답도 들리지 않았다.
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><震屏3>:행여 그녀가 저 파멸의 무도회로 몸을 던지려 들진 않을까, UMP45는 급히 그녀를 붙잡아 바닥에 눌렀다.
+()<Speaker>UMP45</Speaker>||:......
+()<Speaker>AR15</Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=5</controll_shake>:<size=50>SOP2!! RO!!</size>
+()<Speaker>HK416</Speaker>||:진정하라고 좀!
+()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1>:파멸은 계속해서 이어졌다. 불길은 화산재처럼 높이 피어올라, 아베르누스의 몸뚱이를 모조리 집어삼켰다.+저 마지막 희망까지 불타 버리는 광경이, AR-15의 눈에 그대로 비쳤다.
+()<Speaker>？？？</Speaker>||:<size=25>...15――!</size>
+()<Speaker>AR15</Speaker>||:RO?! SOP2!!
+()||<BGM>BGM_Empty</BGM><黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>646</BIN>:그런데 불길에 무너지는 아베르누스를 배경으로, 두 익숙한 얼굴이 AR-15의 시야에 나타났다.
+()<Speaker>RO635</Speaker>||:하하... 안 늦었지?
+()<Speaker>AR15</Speaker>||:RO! SOP2!
+()||<黑屏1>:
+()<Speaker>RO635</Speaker>||<黑屏2><BIN>647</BIN>:SOP2는 자동 휴면 모드야, 소체가 꼴이 말이 아니어서...+그래도 마인드맵은 문제 없어.
+()<Speaker>AR15</Speaker>||:응...
+()<Speaker>RO635</Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_23S_ED</BGM><SE1>Stop_AVG_loop</SE1><SE1>AVG_Creep</SE1>:AR-15와 함께, RO635는 SOP2를 엘모 호로 복귀하는 지프차에 태웠다.+뒤로 활활 타오르는 아베르누스의 잔해를 바라보는 그녀는 한참 동안 입을 열지 못했다.
+()<Speaker>AR15</Speaker>||:......+안젤리아는 갔어.
+()<Speaker>RO635</Speaker>||:응... 결국... 구하지 못했어.
+()<Speaker>AR15</Speaker>||:그래도 최선은 다했잖아.
+()<Speaker>RO635</Speaker>||:......
+()<Speaker>UMP45</Speaker>||:가자, 돌아가야지.
+()||<黑屏1><SE1>AVG_engine_speedup</SE1>:
+()<Speaker></Speaker>||<黑屏2><SE1>AVG_engine_speedup</SE1><BIN>9</BIN>:지프차가 "죽음의 바다"로부터 멀어지기 시작해, 타오르는 아베르누스의 모습은 백미러에서 점점 작아졌다.+구사일생한 일행은 따뜻한 지프차 안에 서로 몸을 기댄 채, 눈치를 보며 입을 다물었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:RO635는 계속, 끝까지 백미러를 응시했다. 그리고 아베르누스가 완전히 보이지 않게 된 순간, 마침내 눈물이 메마른 뺨을 타고 흘러내렸다.
+()||<黑屏1>:【만성쇼크 END】
+()||<名单2>2023Spring_Credit</名单2>:
+()||<黑屏1>:【만성쇼크 END】

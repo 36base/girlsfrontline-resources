@@ -1,88 +1,88 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>129</BIN>:......
-NPC-Nele(1)<Speaker>넬레</Speaker>||:그 "움루스"란 사람... 이게 그 사람의 현재 주소예요.+이것도 수확 맞죠? 제가 도울 수 있는 건 이게 한계예요.
-NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>이거면 충분히 쓸 만한 정보입니다.</color>+<color=#00CCFF>위험하지 않은 선에서 좀 더 지켜봐 주세요. 다른 단서가 나올 수도 있으니.</color>
-NPC-Nele(1)<Speaker>넬레</Speaker>||:...네, 알았어요.
-()<Speaker></Speaker>||<BGM>BGM_Truth</BGM>:넬레는 통화를 끊고 책장으로 향하더니, 논문집 한 권을 홱 끄집어냈다.+저작자는 물론, "세기의 ELID 전문 의학자" 그레이였다.
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:넬——
-NPC-Nele(3)<Speaker>넬레</Speaker>||:대체! 왜! 연구 방향성이! 그렇게 갑자기! 바뀐 거냐고!!
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:논문집을 펼치더니, 한 장 한 장 잡아 뜯기 시작했다.
-NPC-Nele(3)<Speaker>넬레</Speaker>||:선생님은!! 그런 사람!! 아니야!!
-NPC-Nele(3)<Speaker>넬레</Speaker>||:후우... 후우... 선생님이 하신 말씀 다 기억해.+"의학자가 되기 전에 사람이 되어라"!! "빈부 차가 있을지언정, 생명의 가치에 차이는 없다"!!
-NPC-Nele(3)<Speaker>넬레</Speaker>||:그런데!! 어떻게 이런 실험을 할 수 있어?! 우리가 샘플 채취나 답사차 지방의 사람 사는 옐로우존을 몇 번이나 가서 봤는데!!+그게 다 고통받는 사람들을 구하기 위한 선행인 줄 알았는데!!
-NPC-Nele(3)<Speaker>넬레</Speaker>||<震屏3>:<size=55>이 사람 대체 누구야!? 정말 내가 아는 그레이 선생님 맞아?!</size>
-APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:좀 진정해 넬레!!+너 지금 엄청 위험해 보여. 나 정말 걱정돼... 네가 감정에 휩쓸려서 건들면 안 될 물건을 건들까봐 겁나.
-APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:...넬레. 이런 말 해서 미안하지만, 넌 그냥 평범한 인간이야.+너라는 범주 안에서만 사람을 도울 수 있어. 한 사람이 모든 문제를 해결할 수는 없잖아, 응?
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:그러니까 진정하고, 오늘은 이만 푹 쉬자. 너 지금 피곤하고 스트레스 쌓여서 그래.+기왕 직장 그만둔 김에, 고향에 돌아가서 기분 전환하는 게 어떻겠어?
-NPC-Nele(3)<Speaker>넬레</Speaker>||:날 어린애 취급하지 마!
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레, 내가 봐도 넌 지금 머릿속이 복잡해. 그리고 그 요원이 네게 부탁한 일도 너무 위험――
-NPC-Nele(3)<Speaker>넬레</Speaker>||:미아, 난 지금 그 어느 때보다 정신이 멀쩡해.
-NPC-Nele(3)<Speaker>넬레</Speaker>||:나 말리지 마.+그레이 선생님도, 이둔도, 그 요원도, 아무것도 그만두지 않을 거고, 아무것도 깜빡하지 않을 거야.+그게 내 인생 철칙이야.
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:...알았어.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>417</BIN><BGM>BGM_Empty</BGM>:……
-()<Speaker></Speaker>||<BGM>GF_21summer_avg_SecretAgent</BGM>:한편, J는 흥분을 감추지 못하고 휴대폰을 꽉 쥐었다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리고 의자에서 벌떡 일어나, 탁상 위의 권총을 집어 들고 밖으로 뛰쳐나가려 했다.
-NPC-Jason(2)<Speaker>K</Speaker>||:케빈, 기다려.
-NPC-Keven(0)<Speaker>J</Speaker>||:아 뭔데. 나 지금 바쁘니까 무슨 일 있음 나 갔다와서 말해.
-NPC-Jason(2)<Speaker>K</Speaker>||:지금 말해야 하는 거니까 이리 오기나 해.
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>97</BIN><SE1>ClothingUp</SE1>:K는 J를 붙잡아 사무실 밖의 한적한 복도의 구석으로 끌고 갔다.
-NPC-Jason(2)<Speaker>K</Speaker>||:어디에 뭘 하러 가는 거지? 지금 너는 어디 가서 슈타지라 할 수 없는 처지라는 걸 잊지 마라.+국장도 우릴 예의주시하는 중이라, 사소한 움직임도 의심받는다고. 충동적으로라도 허튼 짓 하지 마.
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(2)||:화물 트럭 실종 사건의 단서가 들어왔어.
-NPC-Keven(0);NPC-Jason(2)<Speaker>K</Speaker>||:뭐?
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(2)||:그리폰의 지휘관이, 그 화물의 수령자 이름을 알아냈다고. "움루스"랜다.+그리고 갈라테아 쪽의 정보통한테 데이터베이스를 조사시켰더니, 주소까지 알아냈댄다!+놈만 잡으면 그 화물이 뭐고, 지금 어디의 누구 손에 있는지 다 밝혀낼 수 있어.
-NPC-Keven(0);NPC-Jason(2)<Speaker>K</Speaker>||:확신하나? 만약 그게 함정이라면?+안 돼, 리스크가 너무 커.
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:케인 야 인마, 내 말 똑똑히 들어.+충동이 아니야. 우리가 드디어 이 사건의 진상에 근접했다고.+여태까지 우리가 알아낸 게 뭔데? 그 낙하산은 아무것도 안 알려 주잖아. 이대로 가다간 그놈도 놓치고 말 거야.
-NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:......
-NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:무기 밀수라고! 그것도 잔뜩!+그게 어디로 보내질진 몰라도, 절대 평화롭게 끝나지 않으리란 건 너도 알 거 아니야.+그거 저 밖에 돌아다니도록 냅둔다고 생각하면, 난 잠이 안 온다. 넌 그러고도 잠이 오냐?
-NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:하지만――
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(2)||:그리고... 라이트 그 똘똘했던 녀석이 아무 영문도 없이 양옥에서 개죽음당했을 거 같아? 왜 "국장님"이 이 일을 덮어버렸을까? 매뉴얼대로 하느라 이런 거 생각해보긴 했냐 너?
-NPC-Keven(0);NPC-Jason(2)<Speaker>K</Speaker>||:......
-NPC-Keven(0)<Speaker>J</Speaker>||:단서들이 죄다 갈라테아를 가리키고 있어! 라이트도 분명 그걸 알아낸 거야!+난 이번 일도 연관이 있다고 확신해. 기회는 지금 단 한 번뿐이고. 그런데, 그 여자가 하지 말란다고 진짜 손 놓고 잠자코 있을 거야?
-()<Speaker></Speaker>||:K는 나지막이 한숨을 내쉬었다. 뭐라 떠들든, J를 막을 수 없음이 명백했다.
-NPC-Jason(2)<Speaker>K</Speaker>||:좋아, 대신 조건이 있다.
-NPC-Keven(0)<Speaker>J</Speaker>||:무슨 조건?
-NPC-Jason(2)<Speaker>K</Speaker>||:모나와 함께 간다.
-NPC-Keven(0)<Speaker>J</Speaker>||:...OK.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>166</BIN>:베를린의 고급 주택 단지.
-SP9(0)<Speaker>모나</Speaker>||<SE1>ClothingUp</SE1>:목표 건물, 관측했습니다.
-()<Speaker></Speaker>||:경계가 삼엄한 건물을 정찰하며, 슈타지 3인방은 맞은편 건물의 옥상에 임시 작전지휘부를 세웠다.
-NPC-Jason(0)<Speaker>K</Speaker>||:저긴 고급 사설 빌라다.+영장도 없이 들어갔다가 발각되면 소란만으로는 안 끝나.
-NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(0)||:당연히 위험천만하겠지. 하지만 이대로 놓치면 다시는 못 찾아낼지도 모른다고.
-NPC-Keven(0);NPC-Jason(0)<Speaker>K</Speaker>||:목표 인물이 안에 있는 건 확실해?
-SP9(0)<Speaker>모나</Speaker>;NPC-Jason(0)||:가능성이 매우 높습니다.+사전 조사 결과 저 빌라의 입주민으로 "움루스"란 이름이 등록되어 있고, 그 사람은 오늘 외출한 기록이 없습니다.
-SP9(0);NPC-Jason(0)<Speaker>K</Speaker>||:시도는 해볼 만하다, 이건가.
-SP9(0)<Speaker>모나</Speaker>||:그렇습니다.+만약 밀수품이 정말 무기라면, J 요원이 저렇게 성급하게 나오는 것도 이해가 됩니다.+현재 가능한 수단을 총동원해 그자를 잡아야 합니다.
-NPC-Keven(0)<Speaker>J</Speaker>||:...너도 의외로 융통성이란 게 있었구나?
-NPC-Keven(0);SP9(0)<Speaker>모나</Speaker>||:이 일에 절 빠뜨리지 않아 감사합니다, J 요원.
-NPC-Keven(0)<Speaker>J</Speaker>;SP9(0)||:......K가 시킨 거야.
-SP9(0)<Speaker>모나</Speaker>||:......+K 요원, 그래도 역시 돌입 전 로미 국장님께 보고하는 것이 옳다고 봅니다.
-NPC-Keven(5)<Speaker>J</Speaker>;SP9(0)||:절대 안 돼!!+그 여자가 여태까지 우리한테 일 시키면서 뭐 해 주기나 했어? 딱 봐도 엿먹이는 거라고, 절대 보고하지 마!
-NPC-Keven(5);SP9(0)<Speaker>모나</Speaker>||:하지만... 로미 국장이 책임자시잖습니까.+지금 우리는 무단 행동 중입니다...
-NPC-Keven(4)<Speaker>J</Speaker>||:행여라도 쓸데없는 짓 마라, 알았어!?
-NPC-Jason(0)<Speaker>K</Speaker>||:그만! J, 너 말조심해라.+모나 말이 맞다, 아무리 싫어도 로미 국장은 현재 우리의 책임자다, 무슨 일이든 먼저 그녀의 입장을 고려하도록 해.
-NPC-Keven(5)<Speaker>J</Speaker>||:칫...
-NPC-Jason(0)<Speaker>K</Speaker>||:하지만... 모나, J의 의견도 마냥 틀리지만은 않아. 로미 국장은 현장을 보지 않았으니 현재 상황을 모르겠지.+지금 보고했다간, 우리에게 움직이지 말라 명령만 할 거다. J의 말대로 지금 여기서 움루스를 놓쳤다간 언제 다시 기회가 생길지 알 수 없어.
-SP9(0)<Speaker>모나</Speaker>||:......+그럼, 당장 움직일 건가요?
-SP9(0);NPC-Jason(0)<Speaker>K</Speaker>||:놈이 저기 있단 걸 안 이상, 미룰 수 없다.
-SP9(0)<Speaker>모나</Speaker>||:하지만 국장님께 알리지 않는다면 지원을 부를 수도 없습니다.
-NPC-Keven(5)<Speaker>J</Speaker>;SP9(0)||:...지원이 꼭 필요한 건 아니지.
-NPC-Keven(5);SP9(0)<Speaker>모나</Speaker>||:다른 방법 있습니까?
-NPC-Keven(0)<Speaker>J</Speaker>;SP9(0)||<BGM>BGM_Empty</BGM>:내가 플라스틱 폭약을 좀 가져왔걸랑.
-SP9(0)<Speaker>모나</Speaker>||:......네?
-NPC-Keven(0)<Speaker>J</Speaker>;SP9(0)||<BGM>GF_21summer_avg_SecretAgent</BGM>:그런 표정 짓지 마, 명색이 슈타지인데 이상한 짓 할 거 같아?
-SP9(0)<Speaker>모나</Speaker>||:주택가에서 폭탄을 들고 할 말은 아닌데요.
-NPC-Jason(0)<Speaker>K</Speaker>||:아... 그럴 작정이었냐.
-NPC-Keven(0)<Speaker>J</Speaker>||:이런 동네의 경비원은 하나같이 신경질적이라, 대충 적당한 데다 폭탄을 터뜨리면 바로 난리가 나거든.+그 틈을 타서 숨어들어가는 거야 식은 죽 먹기지. 사람 많으면 오히려 못 쓴다 이런 거?
-SP9(0)<Speaker>모나</Speaker>||:그, 그래도 너무 위험합니다!
-NPC-Keven(0)<Speaker>J</Speaker>||:아 글쎄 걱정 말래도? 한적한 데다 터뜨려서 주의를 끄는 게 다야, 아무도 안 다쳐.+정 그렇게 불안하면 넌 여기서 망이나 보던가.
-SP9(0)<Speaker>모나</Speaker>||:...K 요원은 어떻게 생각합니까?
-NPC-Jason(0)<Speaker>K</Speaker>||:효과는 확실하지.
-SP9(0)<Speaker>모나</Speaker>||:하지만 무슨 일이라도 생겼다간...
-NPC-Jason(0)<Speaker>K</Speaker>||:그럼 즉시 국장에게 보고해라.+효과가 확실한 만큼, 꽤 무모한 짓이니까 말이다.+비상시엔 비상 수단을 써야지.
-SP9(0)<Speaker>모나</Speaker>||:......
-()<Speaker></Speaker>||:손발이 척척 맞는 두 사람을 보며, 모나도 숨을 크게 들이마셨다.
-()<Speaker></Speaker>||:......
-()||<黑点1><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>129</BIN>:......
+NPC-Nele(1)<Speaker>넬레</Speaker>||:그 "움루스"란 사람... 이게 그 사람의 현재 주소예요.+이것도 수확 맞죠? 제가 도울 수 있는 건 이게 한계예요.
+NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>이거면 충분히 쓸 만한 정보입니다.</color>+<color=#00CCFF>위험하지 않은 선에서 좀 더 지켜봐 주세요. 다른 단서가 나올 수도 있으니.</color>
+NPC-Nele(1)<Speaker>넬레</Speaker>||:...네, 알았어요.
+()<Speaker></Speaker>||<BGM>BGM_Truth</BGM>:넬레는 통화를 끊고 책장으로 향하더니, 논문집 한 권을 홱 끄집어냈다.+저작자는 물론, "세기의 ELID 전문 의학자" 그레이였다.
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:넬——
+NPC-Nele(3)<Speaker>넬레</Speaker>||:대체! 왜! 연구 방향성이! 그렇게 갑자기! 바뀐 거냐고!!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:논문집을 펼치더니, 한 장 한 장 잡아 뜯기 시작했다.
+NPC-Nele(3)<Speaker>넬레</Speaker>||:선생님은!! 그런 사람!! 아니야!!
+NPC-Nele(3)<Speaker>넬레</Speaker>||:후우... 후우... 선생님이 하신 말씀 다 기억해.+"의학자가 되기 전에 사람이 되어라"!! "빈부 차가 있을지언정, 생명의 가치에 차이는 없다"!!
+NPC-Nele(3)<Speaker>넬레</Speaker>||:그런데!! 어떻게 이런 실험을 할 수 있어?! 우리가 샘플 채취나 답사차 지방의 사람 사는 옐로우존을 몇 번이나 가서 봤는데!!+그게 다 고통받는 사람들을 구하기 위한 선행인 줄 알았는데!!
+NPC-Nele(3)<Speaker>넬레</Speaker>||<震屏3>:<size=55>이 사람 대체 누구야!? 정말 내가 아는 그레이 선생님 맞아?!</size>
+APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:좀 진정해 넬레!!+너 지금 엄청 위험해 보여. 나 정말 걱정돼... 네가 감정에 휩쓸려서 건들면 안 될 물건을 건들까봐 겁나.
+APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:...넬레. 이런 말 해서 미안하지만, 넌 그냥 평범한 인간이야.+너라는 범주 안에서만 사람을 도울 수 있어. 한 사람이 모든 문제를 해결할 수는 없잖아, 응?
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:그러니까 진정하고, 오늘은 이만 푹 쉬자. 너 지금 피곤하고 스트레스 쌓여서 그래.+기왕 직장 그만둔 김에, 고향에 돌아가서 기분 전환하는 게 어떻겠어?
+NPC-Nele(3)<Speaker>넬레</Speaker>||:날 어린애 취급하지 마!
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레, 내가 봐도 넌 지금 머릿속이 복잡해. 그리고 그 요원이 네게 부탁한 일도 너무 위험――
+NPC-Nele(3)<Speaker>넬레</Speaker>||:미아, 난 지금 그 어느 때보다 정신이 멀쩡해.
+NPC-Nele(3)<Speaker>넬레</Speaker>||:나 말리지 마.+그레이 선생님도, 이둔도, 그 요원도, 아무것도 그만두지 않을 거고, 아무것도 깜빡하지 않을 거야.+그게 내 인생 철칙이야.
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:...알았어.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>417</BIN><BGM>BGM_Empty</BGM>:……
+()<Speaker></Speaker>||<BGM>GF_21summer_avg_SecretAgent</BGM>:한편, J는 흥분을 감추지 못하고 휴대폰을 꽉 쥐었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리고 의자에서 벌떡 일어나, 탁상 위의 권총을 집어 들고 밖으로 뛰쳐나가려 했다.
+NPC-Jason(2)<Speaker>K</Speaker>||:케빈, 기다려.
+NPC-Keven(0)<Speaker>J</Speaker>||:아 뭔데. 나 지금 바쁘니까 무슨 일 있음 나 갔다와서 말해.
+NPC-Jason(2)<Speaker>K</Speaker>||:지금 말해야 하는 거니까 이리 오기나 해.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>97</BIN><SE1>ClothingUp</SE1>:K는 J를 붙잡아 사무실 밖의 한적한 복도의 구석으로 끌고 갔다.
+NPC-Jason(2)<Speaker>K</Speaker>||:어디에 뭘 하러 가는 거지? 지금 너는 어디 가서 슈타지라 할 수 없는 처지라는 걸 잊지 마라.+국장도 우릴 예의주시하는 중이라, 사소한 움직임도 의심받는다고. 충동적으로라도 허튼 짓 하지 마.
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(2)||:화물 트럭 실종 사건의 단서가 들어왔어.
+NPC-Keven(0);NPC-Jason(2)<Speaker>K</Speaker>||:뭐?
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(2)||:그리폰의 지휘관이, 그 화물의 수령자 이름을 알아냈다고. "움루스"랜다.+그리고 갈라테아 쪽의 정보통한테 데이터베이스를 조사시켰더니, 주소까지 알아냈댄다!+놈만 잡으면 그 화물이 뭐고, 지금 어디의 누구 손에 있는지 다 밝혀낼 수 있어.
+NPC-Keven(0);NPC-Jason(2)<Speaker>K</Speaker>||:확신하나? 만약 그게 함정이라면?+안 돼, 리스크가 너무 커.
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:케인 야 인마, 내 말 똑똑히 들어.+충동이 아니야. 우리가 드디어 이 사건의 진상에 근접했다고.+여태까지 우리가 알아낸 게 뭔데? 그 낙하산은 아무것도 안 알려 주잖아. 이대로 가다간 그놈도 놓치고 말 거야.
+NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:......
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-Jason(2)||:무기 밀수라고! 그것도 잔뜩!+그게 어디로 보내질진 몰라도, 절대 평화롭게 끝나지 않으리란 건 너도 알 거 아니야.+그거 저 밖에 돌아다니도록 냅둔다고 생각하면, 난 잠이 안 온다. 넌 그러고도 잠이 오냐?
+NPC-Keven(5);NPC-Jason(2)<Speaker>K</Speaker>||:하지만――
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(2)||:그리고... 라이트 그 똘똘했던 녀석이 아무 영문도 없이 양옥에서 개죽음당했을 거 같아? 왜 "국장님"이 이 일을 덮어버렸을까? 매뉴얼대로 하느라 이런 거 생각해보긴 했냐 너?
+NPC-Keven(0);NPC-Jason(2)<Speaker>K</Speaker>||:......
+NPC-Keven(0)<Speaker>J</Speaker>||:단서들이 죄다 갈라테아를 가리키고 있어! 라이트도 분명 그걸 알아낸 거야!+난 이번 일도 연관이 있다고 확신해. 기회는 지금 단 한 번뿐이고. 그런데, 그 여자가 하지 말란다고 진짜 손 놓고 잠자코 있을 거야?
+()<Speaker></Speaker>||:K는 나지막이 한숨을 내쉬었다. 뭐라 떠들든, J를 막을 수 없음이 명백했다.
+NPC-Jason(2)<Speaker>K</Speaker>||:좋아, 대신 조건이 있다.
+NPC-Keven(0)<Speaker>J</Speaker>||:무슨 조건?
+NPC-Jason(2)<Speaker>K</Speaker>||:모나와 함께 간다.
+NPC-Keven(0)<Speaker>J</Speaker>||:...OK.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>166</BIN>:베를린의 고급 주택 단지.
+SP9(0)<Speaker>모나</Speaker>||<SE1>ClothingUp</SE1>:목표 건물, 관측했습니다.
+()<Speaker></Speaker>||:경계가 삼엄한 건물을 정찰하며, 슈타지 3인방은 맞은편 건물의 옥상에 임시 작전지휘부를 세웠다.
+NPC-Jason(0)<Speaker>K</Speaker>||:저긴 고급 사설 빌라다.+영장도 없이 들어갔다가 발각되면 소란만으로는 안 끝나.
+NPC-Keven(0)<Speaker>J</Speaker>;NPC-Jason(0)||:당연히 위험천만하겠지. 하지만 이대로 놓치면 다시는 못 찾아낼지도 모른다고.
+NPC-Keven(0);NPC-Jason(0)<Speaker>K</Speaker>||:목표 인물이 안에 있는 건 확실해?
+SP9(0)<Speaker>모나</Speaker>;NPC-Jason(0)||:가능성이 매우 높습니다.+사전 조사 결과 저 빌라의 입주민으로 "움루스"란 이름이 등록되어 있고, 그 사람은 오늘 외출한 기록이 없습니다.
+SP9(0);NPC-Jason(0)<Speaker>K</Speaker>||:시도는 해볼 만하다, 이건가.
+SP9(0)<Speaker>모나</Speaker>||:그렇습니다.+만약 밀수품이 정말 무기라면, J 요원이 저렇게 성급하게 나오는 것도 이해가 됩니다.+현재 가능한 수단을 총동원해 그자를 잡아야 합니다.
+NPC-Keven(0)<Speaker>J</Speaker>||:...너도 의외로 융통성이란 게 있었구나?
+NPC-Keven(0);SP9(0)<Speaker>모나</Speaker>||:이 일에 절 빠뜨리지 않아 감사합니다, J 요원.
+NPC-Keven(0)<Speaker>J</Speaker>;SP9(0)||:......K가 시킨 거야.
+SP9(0)<Speaker>모나</Speaker>||:......+K 요원, 그래도 역시 돌입 전 로미 국장님께 보고하는 것이 옳다고 봅니다.
+NPC-Keven(5)<Speaker>J</Speaker>;SP9(0)||:절대 안 돼!!+그 여자가 여태까지 우리한테 일 시키면서 뭐 해 주기나 했어? 딱 봐도 엿먹이는 거라고, 절대 보고하지 마!
+NPC-Keven(5);SP9(0)<Speaker>모나</Speaker>||:하지만... 로미 국장이 책임자시잖습니까.+지금 우리는 무단 행동 중입니다...
+NPC-Keven(4)<Speaker>J</Speaker>||:행여라도 쓸데없는 짓 마라, 알았어!?
+NPC-Jason(0)<Speaker>K</Speaker>||:그만! J, 너 말조심해라.+모나 말이 맞다, 아무리 싫어도 로미 국장은 현재 우리의 책임자다, 무슨 일이든 먼저 그녀의 입장을 고려하도록 해.
+NPC-Keven(5)<Speaker>J</Speaker>||:칫...
+NPC-Jason(0)<Speaker>K</Speaker>||:하지만... 모나, J의 의견도 마냥 틀리지만은 않아. 로미 국장은 현장을 보지 않았으니 현재 상황을 모르겠지.+지금 보고했다간, 우리에게 움직이지 말라 명령만 할 거다. J의 말대로 지금 여기서 움루스를 놓쳤다간 언제 다시 기회가 생길지 알 수 없어.
+SP9(0)<Speaker>모나</Speaker>||:......+그럼, 당장 움직일 건가요?
+SP9(0);NPC-Jason(0)<Speaker>K</Speaker>||:놈이 저기 있단 걸 안 이상, 미룰 수 없다.
+SP9(0)<Speaker>모나</Speaker>||:하지만 국장님께 알리지 않는다면 지원을 부를 수도 없습니다.
+NPC-Keven(5)<Speaker>J</Speaker>;SP9(0)||:...지원이 꼭 필요한 건 아니지.
+NPC-Keven(5);SP9(0)<Speaker>모나</Speaker>||:다른 방법 있습니까?
+NPC-Keven(0)<Speaker>J</Speaker>;SP9(0)||<BGM>BGM_Empty</BGM>:내가 플라스틱 폭약을 좀 가져왔걸랑.
+SP9(0)<Speaker>모나</Speaker>||:......네?
+NPC-Keven(0)<Speaker>J</Speaker>;SP9(0)||<BGM>GF_21summer_avg_SecretAgent</BGM>:그런 표정 짓지 마, 명색이 슈타지인데 이상한 짓 할 거 같아?
+SP9(0)<Speaker>모나</Speaker>||:주택가에서 폭탄을 들고 할 말은 아닌데요.
+NPC-Jason(0)<Speaker>K</Speaker>||:아... 그럴 작정이었냐.
+NPC-Keven(0)<Speaker>J</Speaker>||:이런 동네의 경비원은 하나같이 신경질적이라, 대충 적당한 데다 폭탄을 터뜨리면 바로 난리가 나거든.+그 틈을 타서 숨어들어가는 거야 식은 죽 먹기지. 사람 많으면 오히려 못 쓴다 이런 거?
+SP9(0)<Speaker>모나</Speaker>||:그, 그래도 너무 위험합니다!
+NPC-Keven(0)<Speaker>J</Speaker>||:아 글쎄 걱정 말래도? 한적한 데다 터뜨려서 주의를 끄는 게 다야, 아무도 안 다쳐.+정 그렇게 불안하면 넌 여기서 망이나 보던가.
+SP9(0)<Speaker>모나</Speaker>||:...K 요원은 어떻게 생각합니까?
+NPC-Jason(0)<Speaker>K</Speaker>||:효과는 확실하지.
+SP9(0)<Speaker>모나</Speaker>||:하지만 무슨 일이라도 생겼다간...
+NPC-Jason(0)<Speaker>K</Speaker>||:그럼 즉시 국장에게 보고해라.+효과가 확실한 만큼, 꽤 무모한 짓이니까 말이다.+비상시엔 비상 수단을 써야지.
+SP9(0)<Speaker>모나</Speaker>||:......
+()<Speaker></Speaker>||:손발이 척척 맞는 두 사람을 보며, 모나도 숨을 크게 들이마셨다.
+()<Speaker></Speaker>||:......
+()||<黑点1><BIN>10</BIN>:

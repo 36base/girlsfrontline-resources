@@ -1,0 +1,127 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position><同时置暗>||<BIN>9</BIN><黑屏2><BGM>GF_2022_Summer_AVG_3</BGM>:<color=#66CDAA>지금 무슨 짓을 하는 건지 알고는 있나 류드밀라!</color>+<color=#66CDAA>임무와 무관계한 행동은 하지 마라!</color>+<color=#66CDAA>적의 이목이 네게 집중된다!</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:지금 무슨 짓을 하려는지 잘 알고 있다.+그리고 적의 이목을 끄는 것도 의도하는 바야. 애초에 이러는 것도 네 계획 아닌가?
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position><同时置暗>||:<color=#66CDAA>......</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:아무것도 말해 주지 않았지만 진짜 임무의 내용은 대강 추측할 수 있었다.+"콜트 익스프레스"에 탔을 때부터 나는 먼저 내보여야 하는 패였어.+내 역할은 "엄호자"야, 맞지?
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position><同时置暗>||:<color=#66CDAA>...서로가 "엄호자"다.</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:이미 "새벽별"이 떨어졌다고.
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position><同时置暗>||:<color=#66CDAA>그건 네가 상관할 일이 아니다.</color>+<color=#66CDAA>네 엄호 대상은 아직 발각되지 않았어.</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:하지만 난 이미 적의 주의를 끌었지.
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position><同时置暗>||:<color=#66CDAA>아직은 때가 아니야.</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:지금이야말로 최적의 시기라 생각하는데?+지금은 내가 전선에 있는 몸이야.
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position><同时置暗>||:<color=#66CDAA>......</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:열차를 습격한 보르 브 자코녜에 대한 반격 작전 개시를 요구한다, "Я" 교관.+그리고 이 작전의 전술지휘를 네가 맡을 것을 명령한다.+작전 수행 인원, 류드밀라 파블리첸코.
+AR18(6)<Speaker>"Я" 교관</Speaker><Position>0,70</Position><同时置暗>||:<color=#66CDAA>너...</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_Door_Hit</SE1>:그때, 잇따른 묵직한 충격음이 들려왔다.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>529</BIN><黑屏2><BGM>GF_2022_Summer_Battle_2</BGM><narrator>:대륙간 열차 "미래호", F02호 객차.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1>:객차의 문이 굉음에 요동치니, 도적단이 밖에서 문을 부수려는 것이 분명했다.+이에 닥터 루고사는 미간을 잔뜩 찡그렸다.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:교관, 저 문은 오래 버티지 못하오.+빨리 결정해야 하오.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:예.+매기, 네가 나설 차례다.
+()<Speaker></Speaker>||:지명받자 움찔한 매기는 얼굴의 웃음기가 살짝 가셨다.
+ColtWalker(1)<Speaker>매기</Speaker>||:어... 너에 비하면 난 오히려 도움이 필요한 약골인데.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:네가 싸울 필요는 없어.+아까처럼 콜트 익스프레스를 다시 가동해라.+그리고 열차 안의 모든 인형들에게 연결해. 지금은 그들의 힘이 필요하다. 전술인형이 아니더라도.
+()<Speaker></Speaker>||:매기는 혀를 살짝 찼다가, 류드밀라의 뜻을 이해했다.
+ColtWalker(2)<Speaker>매기</Speaker>||:아하... 그거야 어렵지 않지.
+ColtWalker(3)<Speaker>매기</Speaker>||:다만 지금은 안 될 거 같아, 저놈들이 강도질 시작할 때 통신 네트워크부터 차단했거든.+지금은 아무하고도 연락이 안 돼.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......+그렇다면 작전 방안을 수정해야겠군. 생각할 시간이 더 필요해...
+()<Speaker>？？？</Speaker>||:그럼 내가 해볼게.
+()<Speaker></Speaker>||:그때, 두 사람의 것이 아닌 목소리가 대화에 끼어들었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:류드밀라와 매기가 목소리를 듣고 바로 고개를 위로 드니, 환풍구로 고개를 빼꼼 내민 엘마가 보였다.
+Erma(9)<Speaker>엘마</Speaker>||:말했지? 우리 이야기 안 끝났다고.
+()<Speaker></Speaker>||:엘마는 눈빛으로 류드밀라에게 좀 도와달라 했다.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......
+()<Speaker></Speaker>||:류드밀라가 꿈쩍도 안 하자, 매기가 대신 손을 내밀어 주었다.
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:환풍구 밖으로 기어 나온 엘마는 매기의 손을 잡고 바닥으로 내려와, 몸에 잔뜩 묻은 먼지를 툭툭 털었다.
+ColtWalker(2)<Speaker>매기</Speaker>||:이 귀염둥이는 어디서 온 걸까나~?
+Erma(9)<Speaker>엘마</Speaker>||:한동안 저 위에서 숨어있었어요, 둘의 대화는 다 들었고요.+다른 인형들에게 통신 연결하는 일이라면 내가 해볼 수 있어요.+대신, 이에 대한 보수로... 음흠...?
+()<Speaker></Speaker>||:엘마가 눈을 가늘게 뜨고 류드밀라를 바라봤다.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......성공한 다음에 얘기하지.
+Erma(9)<Speaker>엘마</Speaker>||:좋아.
+()<Speaker></Speaker>||:이를 본 매기가 자기도 모르게 큰 소리로 "풉!"하고 웃자, 류드밀라와 엘마가 동시에 그녀를 돌아봤다.
+ColtWalker(2)<Speaker>매기</Speaker>||:아아 미안 미안, 불가항력이었어.+<color=#A9A9A9>정말 속이기 쉬운 인형이네, 캐서린이 이번에 사람 잘 골랐어♪</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><BIN>249</BIN><SE1>AVG_whitenoise</SE1>:...지직.
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:엘마를 중심으로, 열차를 뒤덮었던 차단망 사이로 독특한 신호의 흐름이 그물처럼 빠르게, 막힘 없이 열차의 반대편 끝까지 뻗어나갔다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>530</BIN><黑屏2><narrator><BGM>10230</BGM>:대륙간 열차 "미래호", F02-F03 연결구.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1>:쿵! 쿵! 쿵!+아무리 두들겨도 이미 만신창이인 이 문짝은 겉이 더욱 흉측한 몰골이 되어 갈 뿐, 부서질 기미조차 보이지 않았다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>:쿠웅!+다시 한번 소방용 도끼로 내려찍어도 소용이 없자, 도적단원은 도끼를 내려놓고 다른 동료들을 뒤돌아봤다.+그의 눈빛에 뒤에 뭉쳐 있던 도적들도 말없이 고개를 돌리곤 모세의 기적처럼 길을 비켰다.
+NPC-TD_Porter(0)<Speaker>수잔나</Speaker><Shake>0.1</Shake>||:——크윽!
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=5</controll_shake><SE1>AVG_XXS_kick</SE1>:그 길 사이로 다니엘이 수잔나를 끌고 와, 문 앞에 내동댕이쳤다.
+()<Speaker></Speaker>||<SE1>AVG_Wheelchair</SE1>:니콜라스는 고개를 푹 숙인 채 류바 할멈의 휠체어를 밀며 다가왔다.
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:...문 열어.
+NPC-TD_Porter(0)<Speaker>수잔나</Speaker>||<SE1>ClothingUp</SE1>:으...
+()<Speaker></Speaker>||:수잔나는 고개를 들어 찌그러질 대로 찌그러진 도어락을 보곤 잠깐 인상을 찌푸렸다가, 바로 품에서 전자키를 꺼냈다.
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:지금 그녀는 한순간도 망설일 틈이 없었다. 도적이란 부류는 그녀 같은 인형에게 자비를 베풀 이유가 하나도 없으니까.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Error</SE1>:삐이익.+하지만 이 꼴로도 멀쩡하게 작동하는 도어락이 매정하게 경고음을 냈고, 그 순간 수잔나는 마인드맵이 얼어붙은 듯했다.
+NPC-TD_Porter(0)<Speaker>수잔나</Speaker>||<SE1>ClothingUp</SE1>:<size=50>잠깐만요! 전 아무 수작도 안 부렸어요!</size>
+()<Speaker></Speaker>||:도적들이 뭐라 하기도 전에 수잔나가 먼저 해명했다.
+NPC-TD_Porter(0)<Speaker>수잔나</Speaker>||:키에는 문제가 없어요... 아, 알았다!+누가 식별 코드를 바꾼 거예요――
+()<Speaker></Speaker>||:수잔나는 아주 찰나의 시간 동안 고민한 끝에, 식별코드를 수정했을 그 사람을 팔아먹기로 했다.
+NPC-TD_Porter(0)<Speaker>수잔나</Speaker>||:――매기 이 빌어먹을 년...+그년밖에 할 수 있는 사람이 없어요!
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>528</BIN><BIN>528</BIN><narrator><BGM>BGM_Empty</BGM>:대륙간 열차 "미래호", F09 식당차.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||<BGM>GF_2022_Summer_Battle_1</BGM>:하아아...
+()<Speaker></Speaker>||<SE1>Rope</SE1>:의자에 몸이 꽁꽁 묶인 캐서린은 다리에 난 구멍을 보며 땅이 꺼져라 푹 한숨을 쉬었다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:다리는 망가졌지... 통신은 먹통이지...+지금 난 아마 알람 시계보다 잘난 점이 없을 거야...
+NPC-TD_Worker(0)<Speaker>폴</Speaker>||:캐서린 양... "콜트 익스프레스"에서의 제 거래는 아직도 유효합니까?
+()<Speaker></Speaker>||:캐서린이 중얼대자, 옆에 같이 묶인 폴은 참지 못하고 그녀에게 물었다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:.......+당연히 유효하지, 근데 거래를 한 인형들이 죽으면 뭔 소용이야?
+NPC-TD_Worker(0)<Speaker>폴</Speaker>||:...그럼 우리 모두 죽는 겁니까?
+()<Speaker></Speaker>||:캐서린은 폴을 홱 째려봤다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:공구리질 당해서 발트해에 던져질 수도 있다고!+이럴 땐 진짜 이런 말밖에 못 해. 백업이 있어 천만다행이라고.
+()<Speaker>？？？</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>캐서린 씨...</color>
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:질문 있음 그냥 말을 해 말을, 일일이 이름 부르지 말고.
+NPC-TD_Worker(0)<Speaker>폴</Speaker>||:지금은 안 불렀습니다만.
+()<Speaker>？？？</Speaker>||:<color=#00CCFF>캐서린 씨?</color>
+NPC-Scalper(3)<Speaker>캐서린</Speaker><Shake>0.1</Shake>||:<size=50>지금 또 불렀잖아!</size>
+()<Speaker></Speaker>||:꽁꽁 묶여 꼼짝달싹도 못 하는 상태만 아니었다면, 캐서린은 당장 자리를 박차고 일어나 폴의 머리를 후려치고 싶은 심정이었다.+하지만 폴의 "눈"은 억울해하며 깜빡였다.
+NPC-TD_Worker(2)<Speaker>폴</Speaker>||:아니오, 지금은 정말 아무 말도 안 했습니다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:......!
+()<Speaker></Speaker>||:통신 채널에서 나는 소리였다.
+()<Speaker>？？？</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>캐서린 씨, 들리면 말해요.</color>
+NPC-Scalper(1)<Speaker>캐서린</Speaker>||:<color=#A9A9A9>신호가... 돌아왔어?</color>
+NPC-Scalper(1)<Speaker>캐서린</Speaker>||:<color=#00CCFF>어 나야 나!</color>+<color=#00CCFF>정말 신호 돌아왔네!</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:캐서린은 행여 입으로 소리를 낼까 이를 악물고 주위를 두리번댔다.
+()<Speaker>엘마</Speaker>||:<color=#00CCFF>엘마예요.</color>+<color=#00CCFF>지금 식당차 상황 어때요?</color>
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:<color=#00CCFF>고철덩이랑 같이 묶여서 아주 죽을 맛이야...</color>
+NPC-TD_Worker(0)<Speaker>폴</Speaker>||:<color=#00CCFF>지금 식당차엔 강도가 열몇 명 있어.</color>
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:<color=#00CCFF>엥, 이거 1 대 1 통신 아니었어?</color>+<color=#00CCFF>왜 미리 말 안 해!?</color>
+NPC-Scalper(3)<Speaker>엘마</Speaker><同时置暗>||:<color=#00CCFF>안 물어봤잖아요.</color>
+()<Speaker>엘마</Speaker>||:<color=#00CCFF>아무튼 지금부터의 계획을――</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><narrator><BIN>529</BIN>:대륙간 열차 "미래호", F02호 객차.
+()<Speaker></Speaker>||:엘마는 통신이 연결된 인형들에게 류드밀라의 계획을 한 마디씩 전달했다.
+()<Speaker></Speaker>||<SE1>AVG_va_addingredient</SE1>:이를 구경하던 매기는 심심했는지 옆에 앉아 커피를 따르며 감상을 말했다.
+ColtWalker(1)<Speaker>매기</Speaker>||:캐서린만 통신이 닿으면 된다 했더니, 열차 안의 모든 인형들에게 다 연결했네...+너희 진짜 원래부터 한패 아니라고?
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......
+()<Speaker></Speaker>||:류드밀라는 열심히 일하는 엘마를 보며, 눈썹을 씰룩였다.+그녀의 모습이 몇 가지 불쾌한 기억을 떠올리게 만들었기 때문이었다.+역시나였다.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:<color=#A9A9A9>역시 흄 박사와 관계가 있어...</color>
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||<SE1>ClothingUp</SE1>:그럼 우리도 지금부터 자리에 위치하겠소.
+()<Speaker>남성 승객</Speaker>||:숨는 거에 찬성은 하는데요...+제 아내가 천식이라 환풍구 안은 좀 어렵겠습니다, 화장실 같은 데에 숨는 건 안 되나요?
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:그렇다면...
+()<Speaker></Speaker>||:닥터 루고사가 몸을 돌려 객차 맞은편을 가리켰다.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:내 기억이 맞다면, F01호 객차는 특등석이오. 지금 우리가 있는 이 차보다 훨씬 안전하겠지.
+()<Speaker></Speaker>||:류드밀라는 고개를 끄덕였다.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:네, 신분이 특수한 이들을 위한 특등석입니다.+더욱 튼튼하게 설계됐으니 이 객차의 환풍구보다 훨씬 안전할 겁니다.
+NPC-TD_Boy(0)<Speaker>루카스</Speaker>||:하지만 일반적으론 저기로 못 들어가잖아요.
+()<Speaker></Speaker>||:루카스는 탱자탱자 커피를 마시는 매기를 바라봤다.
+ColtWalker(2)<Speaker>매기</Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:...알았어 알았어.+다 류드밀라 앞으로 달아놓을 거야. 나중에 잘 부탁해~
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......
+()<Speaker></Speaker>||<SE1>Rope</SE1>:다른 이들이 이동에 방해되는 물건들을 정리하는 사이, 루카스가 닥터 루고사의 짐을 깔끔하게 정리를 마치고 그의 옷자락을 살짝 당겼다.
+NPC-TD_Boy(0)<Speaker>루카스</Speaker>||:선생님... 예전에 있었던 일, 기억하세요?
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>;NPC-TD_Boy(0)||:...기억하고말고.
+NPC-Doctor(0);NPC-TD_Boy(0)<Speaker>루카스</Speaker>||:그럼 왜 또 나서셨어요?+아무도 선생님께 받은 은혜를 기억하지 않을 거예요, 저들은 선생님께 불행만 가져다줄 거라고요.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>;NPC-TD_Boy(0)||:그렇겠지.
+NPC-Doctor(0);NPC-TD_Boy(0)<Speaker>루카스</Speaker>||:그걸 아시면서도...?
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>;NPC-TD_Boy(0)||:내가 선택한 길이란다, 루카스.
+NPC-Doctor(0);NPC-TD_Boy(0)<Speaker>루카스</Speaker>||:전... 이해할 수 없어요. 그렇게 해서 좋은 점이 하나도 없잖아요.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:루고사는 뒤로 돌아, 루카스의 머리를 부드럽게 토닥였다.+그리곤 루카스의 얼굴을 마주보며, 자상하게 미소지었다.
+NPC-Doctor(0)<Speaker>닥터 루고사</Speaker>||:너도 언젠가는 알게 될 거란다.
+()||<黑点1>:

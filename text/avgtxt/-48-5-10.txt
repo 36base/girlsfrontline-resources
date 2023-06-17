@@ -1,35 +1,35 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>434</BIN><黑屏1><BGM>10258</BGM>:헬리안과 페르시카와 합류한 크루거는 인형 소대를 지휘해 마인드맵 서버의 운반을 개시했다.+본디 공방의 엘레베이터로 적을 우회하는 계획이었으나, 계속되는 폭발로 엘레베이터로 향하는 길이 막혔다.+어디서 적이 매복하고 있을지 모르고 아군의 피해가 심각한 상황에서, 총지휘자인 크루거의 결단 하나하나가 중요했다.+때문에 크루거가 다음 수를 어떻게 둘지 생각하는 동안 인형소대는 공방에 멈춰 잠시 휴식을 취했다.
-()||<黑屏2><BIN>415</BIN>:페르시카가 조치한 덕분에 마인드맵 서버의 무게를 대폭 줄일 수 있었지만, 여전히 지금 같은 상황에선 무지막지한 부담이었다.+헬리안은 초조하게 태블릿에 표시되는 각 인형들의 상태를 하나씩 넘기면서, 바닥에 앉아 커피를 마시는 페르시카에게 다가갔다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:페르시카 씨, 마인드맵 서버의 무게를 더 줄일 방법은 없습니까?
-()||:페르시카는 기가 막혀 마시던 커피를 뿜었다.
-NPC-Persica(1)<Speaker>페르시카</Speaker>||:콜록콜록... 또 무슨 배부른 소리야? 이렇게 짧은 시간 안에 서버의 하드웨어랑 소프트웨어 진단하고, 데이터를 압축해서 설비를 온전하게 들어내는 데만――
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:푸념 말고 결론만 말하세요.
-NPC-Persica(0)<Speaker>페르시카</Speaker>||:없어! 정 그러고 싶으면 저 서버 제자리에 돌려놓고 개선하게 보름 정도 주던가!+아 참, 나한테 커피 타 줄 사람도 붙여서――
-()||:헬리안은 한숨을 푹 쉬면서 크루거 곁으로 돌아갔다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:크루거 님, 현재 상황에서 서버를 안전하게 옮기기란 불가능하다 봅니다.+역시... 페르시카 씨의 의견대로 서버를――
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:헬리안. 자네가 입사하고 나서 처음 맡았던 임무, 기억하나?
-NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Kyruger(0)||:...기억합니다.
-NPC-Helian(0);NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그땐 그리폰도 설립된 지 겨우 1년 남짓이어서, 인형을 용병으로 쓰는 게 세간엔 아직 희한한 일이었지.+사회 전체가 눈을 부릅 뜨고, 우리가 망신당하는 꼴을 기대했어.
-NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Kyruger(0)||:네, 그때만 해도 인간 대신 인형을 용병으로 활용하는 것을 납득하지 못했죠.
-NPC-Helian(0);NPC-Kyruger(0)<Speaker>크루거</Speaker>||:자네의 첫 임무도 그랬어. 전술인형 1개 소대를 지휘해, 오염지대의 물자를 회수하는 일이었잖나.+오염지대에 들어가는 것만도 위험하기 짝이없는데, 1세대 전술인형들은 작전 능력이 지금에 비하면 한참 떨어졌지.
-NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Kyruger(0)||:하지만 저는 그리폰을 망신시키지 않았습니다. 비웃던 자들에게 크게 한 방 먹였지 않습니까.
-NPC-Helian(0);NPC-Kyruger(0)<Speaker>크루거</Speaker>||:하하하... 그래, 위험과 부담감에 눈물 콧물 질질 짜면서도 자넨 이를 악물고 임무를 완수했어.
-NPC-Helian(2)<Speaker>헬리안</Speaker>;NPC-Kyruger(0)||:윽... 가, 갑자기 어째서 몇 년이나 된 일을...
-NPC-Helian(2);NPC-Kyruger(0)<Speaker>크루거</Speaker>||:내겐 어제처럼 생생해.
-NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Kyruger(0)||:......
-NPC-Helian(0);NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그리고, 우리는 또 이렇게 전환점을 맞이했군.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그리폰의 미래가, 또다시 우리 손에 달리게 됐네.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:...네.
-()||:헬리안이 분주하게 움직이는 인형들을 보았다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||<黑屏1>:이번에도... 저희는 이겨낼 겁니다.
-()||<BIN>85</BIN><黑屏2><BGM>BGM_Empty</BGM>:카터가 손가락으로 탁상을 리듬감 있게 두드렸다.
-NPC-Carter(1)<Speaker>카터</Speaker>||<BGM>BGM_NightOPS</BGM>:아직도 목표를 못 찾았나?
-NPC-Carter(1);NPC-Soldier(0)<Speaker>특전사 지휘부장</Speaker>||:현재 지하 1층까지 장악에 성공했습니다만, 목표는 발견되지 않았습니다.
-NPC-Carter(1)<Speaker>카터</Speaker>;NPC-Soldier(0)||:놈들 전력의 절반 이상을 섬멸한 것은 좋은 시작이야.+긴장을 늦추지 말고, 공격을 더 서두르게.
-NPC-Carter(1);NPC-Soldier(0)<Speaker>특전사 지휘부장</Speaker>||:알겠습니다.
-NPC-Carter(1)<Speaker>카터</Speaker>;NPC-Soldier(0)||:명심하도록, 크루거는 작은 틈이라도 보이면 바로 판을 뒤엎는 괴물이다.
-NPC-Carter(1)<Speaker>카터</Speaker>||:그것이 그의 장점이지만... 잘만 이용한다면 치명적인 약점이 되기도 하지.
-NPC-Soldier(0)<Speaker>특전사 지휘부장</Speaker>||:예! 바로 지시를 내리겠습니다.
-()||:지휘부장은 제자리로 돌아가, 그리폰 기지의 전투 상황을 동기화했다.+카터의 시선은 기지의 구조도와, 확인된 전술인형의 수 통계표를 향했다.
-NPC-Carter(1)<Speaker>카터</Speaker>||<黑屏1>:크루거... 이번엔 어떻게 상황을 타개할 텐가?
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>434</BIN><黑屏1><BGM>10258</BGM>:헬리안과 페르시카와 합류한 크루거는 인형 소대를 지휘해 마인드맵 서버의 운반을 개시했다.+본디 공방의 엘레베이터로 적을 우회하는 계획이었으나, 계속되는 폭발로 엘레베이터로 향하는 길이 막혔다.+어디서 적이 매복하고 있을지 모르고 아군의 피해가 심각한 상황에서, 총지휘자인 크루거의 결단 하나하나가 중요했다.+때문에 크루거가 다음 수를 어떻게 둘지 생각하는 동안 인형소대는 공방에 멈춰 잠시 휴식을 취했다.
+()||<黑屏2><BIN>415</BIN>:페르시카가 조치한 덕분에 마인드맵 서버의 무게를 대폭 줄일 수 있었지만, 여전히 지금 같은 상황에선 무지막지한 부담이었다.+헬리안은 초조하게 태블릿에 표시되는 각 인형들의 상태를 하나씩 넘기면서, 바닥에 앉아 커피를 마시는 페르시카에게 다가갔다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:페르시카 씨, 마인드맵 서버의 무게를 더 줄일 방법은 없습니까?
+()||:페르시카는 기가 막혀 마시던 커피를 뿜었다.
+NPC-Persica(1)<Speaker>페르시카</Speaker>||:콜록콜록... 또 무슨 배부른 소리야? 이렇게 짧은 시간 안에 서버의 하드웨어랑 소프트웨어 진단하고, 데이터를 압축해서 설비를 온전하게 들어내는 데만――
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:푸념 말고 결론만 말하세요.
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:없어! 정 그러고 싶으면 저 서버 제자리에 돌려놓고 개선하게 보름 정도 주던가!+아 참, 나한테 커피 타 줄 사람도 붙여서――
+()||:헬리안은 한숨을 푹 쉬면서 크루거 곁으로 돌아갔다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:크루거 님, 현재 상황에서 서버를 안전하게 옮기기란 불가능하다 봅니다.+역시... 페르시카 씨의 의견대로 서버를――
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:헬리안. 자네가 입사하고 나서 처음 맡았던 임무, 기억하나?
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Kyruger(0)||:...기억합니다.
+NPC-Helian(0);NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그땐 그리폰도 설립된 지 겨우 1년 남짓이어서, 인형을 용병으로 쓰는 게 세간엔 아직 희한한 일이었지.+사회 전체가 눈을 부릅 뜨고, 우리가 망신당하는 꼴을 기대했어.
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Kyruger(0)||:네, 그때만 해도 인간 대신 인형을 용병으로 활용하는 것을 납득하지 못했죠.
+NPC-Helian(0);NPC-Kyruger(0)<Speaker>크루거</Speaker>||:자네의 첫 임무도 그랬어. 전술인형 1개 소대를 지휘해, 오염지대의 물자를 회수하는 일이었잖나.+오염지대에 들어가는 것만도 위험하기 짝이없는데, 1세대 전술인형들은 작전 능력이 지금에 비하면 한참 떨어졌지.
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Kyruger(0)||:하지만 저는 그리폰을 망신시키지 않았습니다. 비웃던 자들에게 크게 한 방 먹였지 않습니까.
+NPC-Helian(0);NPC-Kyruger(0)<Speaker>크루거</Speaker>||:하하하... 그래, 위험과 부담감에 눈물 콧물 질질 짜면서도 자넨 이를 악물고 임무를 완수했어.
+NPC-Helian(2)<Speaker>헬리안</Speaker>;NPC-Kyruger(0)||:윽... 가, 갑자기 어째서 몇 년이나 된 일을...
+NPC-Helian(2);NPC-Kyruger(0)<Speaker>크루거</Speaker>||:내겐 어제처럼 생생해.
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Kyruger(0)||:......
+NPC-Helian(0);NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그리고, 우리는 또 이렇게 전환점을 맞이했군.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그리폰의 미래가, 또다시 우리 손에 달리게 됐네.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:...네.
+()||:헬리안이 분주하게 움직이는 인형들을 보았다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||<黑屏1>:이번에도... 저희는 이겨낼 겁니다.
+()||<BIN>85</BIN><黑屏2><BGM>BGM_Empty</BGM>:카터가 손가락으로 탁상을 리듬감 있게 두드렸다.
+NPC-Carter(1)<Speaker>카터</Speaker>||<BGM>BGM_NightOPS</BGM>:아직도 목표를 못 찾았나?
+NPC-Carter(1);NPC-Soldier(0)<Speaker>특전사 지휘부장</Speaker>||:현재 지하 1층까지 장악에 성공했습니다만, 목표는 발견되지 않았습니다.
+NPC-Carter(1)<Speaker>카터</Speaker>;NPC-Soldier(0)||:놈들 전력의 절반 이상을 섬멸한 것은 좋은 시작이야.+긴장을 늦추지 말고, 공격을 더 서두르게.
+NPC-Carter(1);NPC-Soldier(0)<Speaker>특전사 지휘부장</Speaker>||:알겠습니다.
+NPC-Carter(1)<Speaker>카터</Speaker>;NPC-Soldier(0)||:명심하도록, 크루거는 작은 틈이라도 보이면 바로 판을 뒤엎는 괴물이다.
+NPC-Carter(1)<Speaker>카터</Speaker>||:그것이 그의 장점이지만... 잘만 이용한다면 치명적인 약점이 되기도 하지.
+NPC-Soldier(0)<Speaker>특전사 지휘부장</Speaker>||:예! 바로 지시를 내리겠습니다.
+()||:지휘부장은 제자리로 돌아가, 그리폰 기지의 전투 상황을 동기화했다.+카터의 시선은 기지의 구조도와, 확인된 전술인형의 수 통계표를 향했다.
+NPC-Carter(1)<Speaker>카터</Speaker>||<黑屏1>:크루거... 이번엔 어떻게 상황을 타개할 텐가?

@@ -1,80 +1,80 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>395</BIN><BGM>10256</BGM>:패러데우스 공장의 생산 라인.
-()<Speaker></Speaker>||<震屏3><SE1>AVG_lifttable</SE1>:쿵...+거대한 하얀 기갑이 마침내 쓰러졌고, M16A1과 UMP45이 쓰러진 기갑의 양쪽에서 나타나 서로를 마주봤다.
-AR15Mod(5)<Speaker>AR15</Speaker>||:이거, 확실히 패러데우스의 작전 유닛이야. 우리가 제대로 짚었어.
-RO635Mod(0)<Speaker>RO635</Speaker>||:하지만 이놈들밖에 없다니 오히려 더 수상한데...
-()<Speaker>지휘관</Speaker>||:아무래도 J가 와서 뭔가를 찾아내길 기대할――
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:철컥.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:——!
-()<Speaker></Speaker>||<SE1>Select</SE1><BGM>BGM_Empty</BGM>:가장 먼저 반응한 M16이 총을 들었다.
-NPC-Romy(12)<Speaker>？？？</Speaker>||:꼼짝 마.
-()<Speaker></Speaker>||:그늘 속에서 총구가 뻗어 나왔다.+전술인형 여러 명 앞에서 권총 한 자루만이라 초라해보였지만, 지휘관은 그 그림자에서 박력과 중압감이 느껴졌다.
-()<Speaker>지휘관</Speaker>||:누구냐?
-NPC-Romy(12)<Speaker>？？？</Speaker>||:내가 할 말이다, 거수자.
-()<Speaker></Speaker>||:여성의 차가운 목소리가 지휘관의 말을 무시했다. 혼자서 절대적으로 불리한 상황임에도, 그 목소리에선 두려움이 전혀 느껴지지 않았다.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:허튼 짓 마라, 인간.+네가 방아쇠를 당기기도 전에 그 신경 반사를 끊어버릴 방법은 이쪽에 차고 넘쳐.
-NPC-Romy(12)<Speaker>？？？</Speaker>||:그야 그렇겠지.+하지만 100% 그렇게 할 수 있다 장담하나? 네가 막지 못할 가능성은 0이라고?+내 총알이 너희의 지휘관을 향할지 않을지, 내기할까?
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:......
-NPC-Romy(12)<Speaker>？？？</Speaker>||:그러니까, 내 질문에 대답해라. 여기에 뭘 하러 왔지?
-()<Speaker>지휘관</Speaker>||:......
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>315</BIN><黑点2><BGM>BGM_Truth</BGM>:베를린의 시가지.
-()<Speaker></Speaker>||<SE1>AVG_Car_Skid</SE1>:초조한 마음을 품고, 미아는 차를 몰아 그레이 연구 센터 앞에 도착했다.
-APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:뭐야... 무슨 일이야?
-()<Speaker></Speaker>||:건물 입구에 사람들이 빽빽하게 모여 있었다.+무슨 일이라도 있는 걸까?
-APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:죄, 죄송해요! 지나가겠습니다!
-()<Speaker>기자</Speaker>||:아 밀지 좀 마요! 줄 서는 법 몰라요?!+...인형? 너 어디 신문사야!?
-APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:아, 아뇨, 전 여기 직원 가족인데요...+대체 무슨 일인가요?
-()<Speaker>기자</Speaker>||:취재하러 온 거 아니면 좀 빠져 있으세요! 미스 그레이의 신문이라고요!+미스 그레이가 카메라 앞에 얼마동안이나 안 나타났는지 알아요!?+게다가 내부사정을 폭로하겠다는 사람도 있다고요! 특종 뺏기면 안 되니까 저리 비켜요!
-()<Speaker></Speaker>||:전혀 말이 통하지 않는 상대들인 데다, 쉬이 헤집고 들어갈 수도 없는 상황이었기에 미아는 물러나야만 했다.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:뚜....
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:뚜우....
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:뚜우우......
-APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:받아라... 빨리 받아...+제발 받아... 넬레!
-()<Speaker></Speaker>||:고개를 들어 건물을 올려다본 미아는 단번에 넬레가 일하던 그 사무층을 찾아냈다.+그레이 생물과학 연구 센터는... 불이 켜져있었다.
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+"통화 대상이 응답하지 않아, 음성 사서함으로――"
-APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레...
-()<Speaker></Speaker>||:목이 빠져라 올려다보는 미아는 분명 없을 터인 심장이 터질 것만 같았다.
-APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:제발... 절대 바보 같은 짓하면 안 돼, 넬레...
-()<Speaker></Speaker>||:어떻게든 저 인파를 뚫고 안으로 들어가야 한다.+만약 늦었더라도, 반드시 넬레 곁으로 가야 한다.+무슨 일이 있어도.
-()<Speaker></Speaker>||:......+......
-()||<黑屏1>:
-()<Speaker></Speaker>||<BGM>BGM_Sneak</BGM><黑屏2><SE1>AVG_Water_Drip</SE1><BIN>395</BIN>:조용한 공장 내부.+이따금씩 떨어지는 물방울 소리를 제외하면, 아무 기척도 없었다.+부하들을 이끌고 온 J는 RPK-16의 안내를 따라, 천천히 공장 더 깊숙이로 전진했다.+모두가 극도로 긴장해, 숨소리도 최대한 억눌렀다.
-NPC-Keven(5)<Speaker>J</Speaker>||:......
-()<Speaker></Speaker>||:전진은 매우 느렸지만, 단순히 신중에 신중을 기해서가 아니었다.+결국 J가 수신호로 모두 멈춰 세웠다.
-RPK16(0)<Speaker>RPK16</Speaker>||:...왜 그러세요, J 씨?
-NPC-Keven(5)<Speaker>J</Speaker>||:돌입한 지 벌써 5분이나 지났는데, 진짜 말 그대로 아무것도 없다뇨... 이상하지 않습니까?
-NPC-Keven(5)<Speaker>J</Speaker>||:그리고 말입니다, 의문점이 하나 더 생겼습니다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:J가 침을 꿀꺽 삼키며, 공장 내의 물건을 운반하는 크레인의 조작 장치 위를 스윽 훑었다.+거기엔 먼지가 아주 두껍게 쌓여있었다.
-NPC-Keven(5)<Speaker>J</Speaker>||:아가씨를 의심하는 건 아닙니다만, 이 공장... 어째 많이 익숙한 인장이 보입니다?
-RPK16(0)<Speaker>RPK16</Speaker>||:저 독일 국방부의 인장이요?
-NPC-Keven(0)<Speaker>J</Speaker>||:...네.
-()<Speaker></Speaker>||:J는 상대가 그 이유를 추측하길 기다렸다.
-NPC-Keven(0)<Speaker>J</Speaker>||:여기, 정말 패러데우스의 소굴 맞습니까?
-RPK16(5)<Speaker>RPK16</Speaker>||:......
-()<Speaker></Speaker>||:RPK-16이 싱긋 미소지으며 J에게 얼굴을 가까이했다.
-RPK16(4)<Speaker>RPK16</Speaker>||:왜 그렇게 생각하세요, J 씨?+저는 여기가 그들의 영역이라고 확신해요.+안젤리아를 사로잡은 니토가, 바로 이 공장으로 들어가는 모습을 제 눈으로 똑똑히 봤거든요.
-RPK16(0)<Speaker>RPK16</Speaker>||:그런데 이렇게 들어와서 보니 당신네 정부의 흔적투성이군요... 어째서일까요?+저도 무척 궁금하네요.
-NPC-Keven(0)<Speaker>J</Speaker>||:......
-()<Speaker></Speaker>||:J도 머리를 굴려봤고, 해답은 금방 나왔다.
-NPC-Keven(5)<Speaker>J</Speaker>||:높으신 양반들이 진작부터 놈들과 내통했다...
-RPK16(0)<Speaker>RPK16</Speaker>||:여태껏 안젤리아가 괜한 걱정으로 당신들을 경계한 거라고 생각했는데, 결국 그녀가 옳았네요. 근거 없는 의심이 아니었어요.
-NPC-Keven(5)<Speaker>J</Speaker>||:갈라테아와 결탁한 정부 인사가 있다고는 예상했지만, 설마 이 정도일 줄이야...+국방부까지 관계됐다니...
-SP9(0)<Speaker>모나</Speaker>||:J 요원, 역시 그건 지나치게 넘겨짚는 판단이 아닐지...
-NPC-Keven(5)<Speaker>J</Speaker>||:아니, 그렇다면 아귀가 맞아.+은여우 아가씨도 얼마 전에 우리가 압수한 무기들의 진실을 알아챘겠군요.+그건 역시, 우리나라의 군수공장에서 만들어 낼 만한 물건이 아니에요. 패러데우스의 기술이 들어갔죠.
-RPK16(0)<Speaker>RPK16</Speaker>||:역시나...
-()<Speaker></Speaker>||:RPK-16는 무언가 곰곰이 생각하는 듯한 눈치로 주변을 둘러봤다.
-RPK16(0)<Speaker>RPK16</Speaker>||:패러데우스가 독일 국방부에 기술력을 제공하고, 국방부는 정부에게 출자받아 무기를 대량생산했다...+여기는 그 생산 라인, 내지는 중간 가공소였을 가능성이 높겠네요.
-NPC-Keven(5)<Speaker>J</Speaker>||:패러데우스는 기술을, 국방부는 장소를... 여기가 놈들 소굴이 아닐 수가 없겠네 이거...
-RPK16(0)<Speaker>RPK16</Speaker>||:하지만 여긴 아무것도 없으니, 더 안쪽... 아니, 더 아래쪽이려나요?
-()<Speaker></Speaker>||:J는 RPK-16의 의도를 파악하곤 고개를 끄덕였다.
-NPC-Keven(0)<Speaker>J</Speaker>||:비밀 기지라면... 역시 지하에 숨겨진 게 클리셰죠.
-RPK16(0)<Speaker>RPK16</Speaker>||:그럼, 서둘러서 놈들을 기습할까요?+저쪽이 우리를 먼저 발견하면, 지휘관님이 제때 도착하더라도 불리한 공성전을 벌이게 될 거예요.
-()<Speaker></Speaker>||:제안하는 RPK-16의 목소리는 매혹적이었다.
-NPC-Keven(5)<Speaker>J</Speaker>||:......
-RPK16(4)<Speaker>RPK16</Speaker>||:더 안으로 들어가는 길도 파악해 뒀답니다.
-()<Speaker></Speaker>||:J는 숨을 크게 들이마시고, 고개를 끄덕이며 다시 수신호를 보냈다.+대열은 다시 그의 지시대로 산개해, 각자 담당한 방향을 경계했다.+RPK-16도 J를 보며 흡족하게 고개를 끄덕이고, 다시 인솔자로서의 위치에 섰다.
-SP9(0)<Speaker>모나</Speaker>||:......
-()<Speaker></Speaker>||:하지만, 정말 그게 쉬운 일일까? 모나의 마음속 불안은 커져만 갔다.+그녀가 RPK-16을 의심할 자격은 없었지만... 어째선지, 앞장선 저 인형에게서 풍기는 이질적인 오라가, 그녀를 매우 불안하게 했다.
-()||<黑点1><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>395</BIN><BGM>10256</BGM>:패러데우스 공장의 생산 라인.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_lifttable</SE1>:쿵...+거대한 하얀 기갑이 마침내 쓰러졌고, M16A1과 UMP45이 쓰러진 기갑의 양쪽에서 나타나 서로를 마주봤다.
+AR15Mod(5)<Speaker>AR15</Speaker>||:이거, 확실히 패러데우스의 작전 유닛이야. 우리가 제대로 짚었어.
+RO635Mod(0)<Speaker>RO635</Speaker>||:하지만 이놈들밖에 없다니 오히려 더 수상한데...
+()<Speaker>지휘관</Speaker>||:아무래도 J가 와서 뭔가를 찾아내길 기대할――
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:철컥.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:——!
+()<Speaker></Speaker>||<SE1>Select</SE1><BGM>BGM_Empty</BGM>:가장 먼저 반응한 M16이 총을 들었다.
+NPC-Romy(12)<Speaker>？？？</Speaker>||:꼼짝 마.
+()<Speaker></Speaker>||:그늘 속에서 총구가 뻗어 나왔다.+전술인형 여러 명 앞에서 권총 한 자루만이라 초라해보였지만, 지휘관은 그 그림자에서 박력과 중압감이 느껴졌다.
+()<Speaker>지휘관</Speaker>||:누구냐?
+NPC-Romy(12)<Speaker>？？？</Speaker>||:내가 할 말이다, 거수자.
+()<Speaker></Speaker>||:여성의 차가운 목소리가 지휘관의 말을 무시했다. 혼자서 절대적으로 불리한 상황임에도, 그 목소리에선 두려움이 전혀 느껴지지 않았다.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:허튼 짓 마라, 인간.+네가 방아쇠를 당기기도 전에 그 신경 반사를 끊어버릴 방법은 이쪽에 차고 넘쳐.
+NPC-Romy(12)<Speaker>？？？</Speaker>||:그야 그렇겠지.+하지만 100% 그렇게 할 수 있다 장담하나? 네가 막지 못할 가능성은 0이라고?+내 총알이 너희의 지휘관을 향할지 않을지, 내기할까?
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:......
+NPC-Romy(12)<Speaker>？？？</Speaker>||:그러니까, 내 질문에 대답해라. 여기에 뭘 하러 왔지?
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>315</BIN><黑点2><BGM>BGM_Truth</BGM>:베를린의 시가지.
+()<Speaker></Speaker>||<SE1>AVG_Car_Skid</SE1>:초조한 마음을 품고, 미아는 차를 몰아 그레이 연구 센터 앞에 도착했다.
+APC556(2)<Speaker>미아</Speaker><Position>0,120</Position>||:뭐야... 무슨 일이야?
+()<Speaker></Speaker>||:건물 입구에 사람들이 빽빽하게 모여 있었다.+무슨 일이라도 있는 걸까?
+APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:죄, 죄송해요! 지나가겠습니다!
+()<Speaker>기자</Speaker>||:아 밀지 좀 마요! 줄 서는 법 몰라요?!+...인형? 너 어디 신문사야!?
+APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:아, 아뇨, 전 여기 직원 가족인데요...+대체 무슨 일인가요?
+()<Speaker>기자</Speaker>||:취재하러 온 거 아니면 좀 빠져 있으세요! 미스 그레이의 신문이라고요!+미스 그레이가 카메라 앞에 얼마동안이나 안 나타났는지 알아요!?+게다가 내부사정을 폭로하겠다는 사람도 있다고요! 특종 뺏기면 안 되니까 저리 비켜요!
+()<Speaker></Speaker>||:전혀 말이 통하지 않는 상대들인 데다, 쉬이 헤집고 들어갈 수도 없는 상황이었기에 미아는 물러나야만 했다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:뚜....
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:뚜우....
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:뚜우우......
+APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:받아라... 빨리 받아...+제발 받아... 넬레!
+()<Speaker></Speaker>||:고개를 들어 건물을 올려다본 미아는 단번에 넬레가 일하던 그 사무층을 찾아냈다.+그레이 생물과학 연구 센터는... 불이 켜져있었다.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+"통화 대상이 응답하지 않아, 음성 사서함으로――"
+APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:넬레...
+()<Speaker></Speaker>||:목이 빠져라 올려다보는 미아는 분명 없을 터인 심장이 터질 것만 같았다.
+APC556(5)<Speaker>미아</Speaker><Position>0,120</Position>||:제발... 절대 바보 같은 짓하면 안 돼, 넬레...
+()<Speaker></Speaker>||:어떻게든 저 인파를 뚫고 안으로 들어가야 한다.+만약 늦었더라도, 반드시 넬레 곁으로 가야 한다.+무슨 일이 있어도.
+()<Speaker></Speaker>||:......+......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Sneak</BGM><黑屏2><SE1>AVG_Water_Drip</SE1><BIN>395</BIN>:조용한 공장 내부.+이따금씩 떨어지는 물방울 소리를 제외하면, 아무 기척도 없었다.+부하들을 이끌고 온 J는 RPK-16의 안내를 따라, 천천히 공장 더 깊숙이로 전진했다.+모두가 극도로 긴장해, 숨소리도 최대한 억눌렀다.
+NPC-Keven(5)<Speaker>J</Speaker>||:......
+()<Speaker></Speaker>||:전진은 매우 느렸지만, 단순히 신중에 신중을 기해서가 아니었다.+결국 J가 수신호로 모두 멈춰 세웠다.
+RPK16(0)<Speaker>RPK16</Speaker>||:...왜 그러세요, J 씨?
+NPC-Keven(5)<Speaker>J</Speaker>||:돌입한 지 벌써 5분이나 지났는데, 진짜 말 그대로 아무것도 없다뇨... 이상하지 않습니까?
+NPC-Keven(5)<Speaker>J</Speaker>||:그리고 말입니다, 의문점이 하나 더 생겼습니다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:J가 침을 꿀꺽 삼키며, 공장 내의 물건을 운반하는 크레인의 조작 장치 위를 스윽 훑었다.+거기엔 먼지가 아주 두껍게 쌓여있었다.
+NPC-Keven(5)<Speaker>J</Speaker>||:아가씨를 의심하는 건 아닙니다만, 이 공장... 어째 많이 익숙한 인장이 보입니다?
+RPK16(0)<Speaker>RPK16</Speaker>||:저 독일 국방부의 인장이요?
+NPC-Keven(0)<Speaker>J</Speaker>||:...네.
+()<Speaker></Speaker>||:J는 상대가 그 이유를 추측하길 기다렸다.
+NPC-Keven(0)<Speaker>J</Speaker>||:여기, 정말 패러데우스의 소굴 맞습니까?
+RPK16(5)<Speaker>RPK16</Speaker>||:......
+()<Speaker></Speaker>||:RPK-16이 싱긋 미소지으며 J에게 얼굴을 가까이했다.
+RPK16(4)<Speaker>RPK16</Speaker>||:왜 그렇게 생각하세요, J 씨?+저는 여기가 그들의 영역이라고 확신해요.+안젤리아를 사로잡은 니토가, 바로 이 공장으로 들어가는 모습을 제 눈으로 똑똑히 봤거든요.
+RPK16(0)<Speaker>RPK16</Speaker>||:그런데 이렇게 들어와서 보니 당신네 정부의 흔적투성이군요... 어째서일까요?+저도 무척 궁금하네요.
+NPC-Keven(0)<Speaker>J</Speaker>||:......
+()<Speaker></Speaker>||:J도 머리를 굴려봤고, 해답은 금방 나왔다.
+NPC-Keven(5)<Speaker>J</Speaker>||:높으신 양반들이 진작부터 놈들과 내통했다...
+RPK16(0)<Speaker>RPK16</Speaker>||:여태껏 안젤리아가 괜한 걱정으로 당신들을 경계한 거라고 생각했는데, 결국 그녀가 옳았네요. 근거 없는 의심이 아니었어요.
+NPC-Keven(5)<Speaker>J</Speaker>||:갈라테아와 결탁한 정부 인사가 있다고는 예상했지만, 설마 이 정도일 줄이야...+국방부까지 관계됐다니...
+SP9(0)<Speaker>모나</Speaker>||:J 요원, 역시 그건 지나치게 넘겨짚는 판단이 아닐지...
+NPC-Keven(5)<Speaker>J</Speaker>||:아니, 그렇다면 아귀가 맞아.+은여우 아가씨도 얼마 전에 우리가 압수한 무기들의 진실을 알아챘겠군요.+그건 역시, 우리나라의 군수공장에서 만들어 낼 만한 물건이 아니에요. 패러데우스의 기술이 들어갔죠.
+RPK16(0)<Speaker>RPK16</Speaker>||:역시나...
+()<Speaker></Speaker>||:RPK-16는 무언가 곰곰이 생각하는 듯한 눈치로 주변을 둘러봤다.
+RPK16(0)<Speaker>RPK16</Speaker>||:패러데우스가 독일 국방부에 기술력을 제공하고, 국방부는 정부에게 출자받아 무기를 대량생산했다...+여기는 그 생산 라인, 내지는 중간 가공소였을 가능성이 높겠네요.
+NPC-Keven(5)<Speaker>J</Speaker>||:패러데우스는 기술을, 국방부는 장소를... 여기가 놈들 소굴이 아닐 수가 없겠네 이거...
+RPK16(0)<Speaker>RPK16</Speaker>||:하지만 여긴 아무것도 없으니, 더 안쪽... 아니, 더 아래쪽이려나요?
+()<Speaker></Speaker>||:J는 RPK-16의 의도를 파악하곤 고개를 끄덕였다.
+NPC-Keven(0)<Speaker>J</Speaker>||:비밀 기지라면... 역시 지하에 숨겨진 게 클리셰죠.
+RPK16(0)<Speaker>RPK16</Speaker>||:그럼, 서둘러서 놈들을 기습할까요?+저쪽이 우리를 먼저 발견하면, 지휘관님이 제때 도착하더라도 불리한 공성전을 벌이게 될 거예요.
+()<Speaker></Speaker>||:제안하는 RPK-16의 목소리는 매혹적이었다.
+NPC-Keven(5)<Speaker>J</Speaker>||:......
+RPK16(4)<Speaker>RPK16</Speaker>||:더 안으로 들어가는 길도 파악해 뒀답니다.
+()<Speaker></Speaker>||:J는 숨을 크게 들이마시고, 고개를 끄덕이며 다시 수신호를 보냈다.+대열은 다시 그의 지시대로 산개해, 각자 담당한 방향을 경계했다.+RPK-16도 J를 보며 흡족하게 고개를 끄덕이고, 다시 인솔자로서의 위치에 섰다.
+SP9(0)<Speaker>모나</Speaker>||:......
+()<Speaker></Speaker>||:하지만, 정말 그게 쉬운 일일까? 모나의 마음속 불안은 커져만 갔다.+그녀가 RPK-16을 의심할 자격은 없었지만... 어째선지, 앞장선 저 인형에게서 풍기는 이질적인 오라가, 그녀를 매우 불안하게 했다.
+()||<黑点1><BIN>10</BIN>:

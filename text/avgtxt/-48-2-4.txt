@@ -1,140 +1,140 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:......
-()<Speaker></Speaker>||<SE1>AVG_Water_Drip</SE1><BGM>BGM_Truth</BGM>:뚝... 뚝...+칠흙 같은 어둠 속에서, 몰리도는 눈을 천천히 떴다.
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:...쯧.
-()<Speaker></Speaker>||:역겨운 악취가 코를 찌르자, 반사적으로 인상을 찌푸렸다.
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||<common_effect>%%code=CJX_avg_hb%%</common_effect>:여긴 또 어디지? 그 잡것들이랑 놀아 주고 있었는데...
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>229</BIN><睁眼>:희미하게 들려오는 물방울 소리에 맞춰, 몰리도의 주위가 차차 선명해졌다.
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:공장...?
-()<Speaker></Speaker>||:패러데우스의 공장... 아니, 그저 수많은 공장 중 하나가 아니었다.+그녀에게 있어서도, 아주 익숙한 바로 그곳이었다.
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......
-()<Speaker></Speaker>||:일정한 속도로 돌아가는 컨베이어 벨트는 썩어 들어가는 시체들이 줄줄이 운반했다.+이곳은 실험체를 선별하는 하급 공장. 니토가 될지도 모르는 "원료"를 생산하는 곳이었다.+한층 더 심해진 악취에 몰리도는 반사적으로 한 걸음 물러섰고, 그녀의 발소리를 들었는지 오수에 반쯤 잠긴 시체들이 갑자기 꿈틀대며 일어나기 시작했다.
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:징그러워...
-()<Speaker></Speaker>||:역시 그녀도 이와 같은 상황이 놓이니 소름이 절로 돋았다.+물론, 결코 두려워서가 아니었다.
-()<Speaker>시체</Speaker>||:......
-NPC-Morridow(10)<Speaker>몰리도</Speaker><Position>0,90</Position>||<SE1>AVG_Punch_Hit</SE1><震屏3>:하등한 쓰레기가... 저리 꺼져.
-()<Speaker></Speaker>||:수많은 시체들 중, 흙탕물에 처박혀 있던 가장 지저분하고 흉측한 시체는 "얼굴"이라 할 만한 것도 남지 않았다.
-()<Speaker></Speaker>||<SE1>AVG_Slime_Movement</SE1>:그럼에도, 그 시체는 그들 중 가장 의지가 강한 듯했다.+그 시체는 기어왔다.+유일한 한 줄기 빛을 향해.
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:오지 말라고.
-()<Speaker></Speaker>||:아무 소리도 들리지 않는 것일까, 그 썩어 문드러져 가는 시체는 기어코 몰리도에게 기어와, 그녀의 다리를 꽉 부둥켜 안았다.+분노, 두려움, 초조함... 그 얼굴의 윤곽조차 알아볼 수 없는 시체를, 몰리도는 하이힐로 마구 짓밟으며 필사적으로 떼어내려 했다.
-NPC-Morridow(10)<Speaker>몰리도</Speaker><Position>0,90</Position>||<SE1>AVG_Punch_Hit</SE1><震屏3>:저리 꺼져! 꺼지라니까!?
-()<Speaker></Speaker>||:하지만 아무리 발악해도, 뿌리칠 수가 없었다.
-()<Speaker>？？？</Speaker>||:이리 온.
-()<Speaker></Speaker>||:그때, 몰리도의 뒤에서 상냥한 목소리가 들려왔다.+몰리도의 고함과 폭력에도 아랑곳않던 시체는 그 부름에 바로 감화된 듯했다.
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:...마흐리안?
-()<Speaker></Speaker>||:무의식적으로 그 이름을 부르며, 몰리도는 놀란 얼굴로 뒤를 돌아보았다.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:......
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......너였어? 왜 네가 여기 있어?
-()<Speaker></Speaker>||:M4A1은 그 썩어 문드러진 몸뚱이를 다정하게 품에 안고 다독였다.+그리고, 아직도 충격에서 벗어나지 못한 몰리도를 가여워하는 눈으로 바라봤다.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:이게 당신이 말하는 완벽한 피조물인가요?
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:...당연히 아니지. 이것들은 피조물이라 불릴 자격도 없어. 아무짝에도 쓸모없는 실패작일 뿐이야.+나는... 나를 이것들과 같은 취급하지 마.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:......
-()<Speaker></Speaker>||:그 칠흙 같은 어둠이 M4A1을 서서히 집어삼켰다. 하지만 완전히 사라지기 직전까지도, 그녀는 연민 어린 눈을 몰리도에게서 돌리지 않았다.
-NPC-Morridow(10)<Speaker>몰리도</Speaker><Position>0,90</Position>||:보지 마...+날 그런 눈으로 보지 마!
-()<Speaker>마흐리안</Speaker>||:몰리도.
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:?!!
-()<Speaker></Speaker>||:총성에 놀란 새처럼, 몰리도가 홱 돌아보았다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>323</BIN>:어느샌가 나타난 밝은 빛을 받으며, 그녀가 몰리도를 부르고 있었다.
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:너... 네가 왜...
-NPC-Machlian(1)<Speaker>마흐리안</Speaker>||:서두르지 않아도 돼, 몰리도.+천천히, 차근차근.
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:할 수 있긴 뭘――헉!
-()<Speaker></Speaker>||:또 어느샌가 나타난 거울이, 몰리도의 얼굴을 비췄다.+하지만 거울이 비추는 몰리도의 얼굴은 지금이 아니었다. 가장 처음의, 그녀의 본연의 얼굴이었다.
-NPC-Machlian(1)<Speaker>마흐리안</Speaker>||:변용술은 어렵지 않아, 너도 노력하면 할 수 있어.
-()<Speaker></Speaker>||:기억났다.+이 저열한 실패작은, 본디 그녀보다 우수했다.+자신은 어떡해도 제대로 할 수 없었던 변용술을, 이 여자는 숨 쉬듯 완벽하게 해냈다.
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:어째서...
-NPC-Machlian(1)<Speaker>마흐리안</Speaker>||:응?
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:어째서 아버님께 거역하는 거야? 뭐든지 할 수 있으면서...
-NPC-Machlian(4)<Speaker>마흐리안</Speaker>||:......
-()<Speaker></Speaker>||:그 말을 들은 마흐리안은 슬픈 기색을 감추지 않았다.
-NPC-Machlian(4)<Speaker>마흐리안</Speaker>||:난... 그 사람이 시키는 일을 할 수 없어.+난 못 해. 이해할 수 없어. 왜 우리가 다른 사람들을 해쳐서까지 목적을 이뤄야 해?+우리는 세상을 더 좋은 곳으로 만들기 위해 존재한댔잖아...
-NPC-Morridow(10)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아버님의 말씀은 절대적이야! 넌 그냥 내숭 떠는 거야!
-NPC-Machlian(1)<Speaker>마흐리안</Speaker>||:몰리도...
-()<Speaker></Speaker>||:마흐리안이 천천히 다가오자, 몰리도는 당황하며 뒷걸음질쳤다.
-NPC-Machlian(1)<Speaker>마흐리안</Speaker>||:같이 도망치자.
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:뭐?
-()<Speaker></Speaker>||:몰리도가 머뭇거리는 사이, 마흐리안은 그녀의 코앞까지 다가왔다.
-NPC-Machlian(1)<Speaker>마흐리안</Speaker>||:같이 여기서 나가자. 여기서 계속 있다간 우리 모두 우리가 아니게 되어버릴 거야.
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......
-()<Speaker></Speaker>||:그때도, 마흐리안은 몰리도에게 이렇게 권유했다.+재능이 가장 뛰어났음에도, 계속해서 아버님을 거역해 벌이나 받던 얼간이.+그럼에도, 절망에 빠진 자신에게 손을 내밀었다.
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......마흐리안.
-()<Speaker></Speaker>||:내민 손에 대한 몰리도의 대답은――
-NPC-Machlian(3)<Speaker>마흐리안</Speaker><Shake>0.1</Shake>||<SE1>AVG_Punch_Hit</SE1>:아아악!!!
-NPC-Morridow(10)<Speaker>몰리도</Speaker><Position>0,90</Position>||:넌 그 얼굴을 가질 자격 없어.
-()<Speaker></Speaker>||:마흐리안이 피가 철철 흐르는 얼굴을 손으로 감싸며 주저앉았다.+얼굴 가죽을 빼앗은 몰리도는, 고통과 슬픔에 애처롭게 우는 마흐리안을 내려다봤다.+그래, 맞아. 이러면 돼.+내가 완벽한 얼굴을 만들어내지 못한다면, 그냥 남의 것을 쓰면 되는 일이잖아?
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:당신의 언니를, 당신의 유일한 동료를 그렇게 대했나요?
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:니토는 세상을 바꾸기 위해 창조됐어.+이년은 미천한 복제품 주제에 신분을 망각하고 자기를 오리지널이라 착각했지.+스스로의 의지로 아버님께 거역했다 생각하겠지만, 실제론 아버님을 위해 봉사할 자격도 없는 폐기물이었지.+오직 완벽한 자만이 아버님을 만족시킬 수 있어.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:그럼, 당신이 바로 그 "완벽한 자"라 생각하나요?
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:그야 물론――
-()<Speaker>？？？</Speaker>||:제기랄!!!
-()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:쿵! 쿵! 쿵!
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:...아버님?
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>249</BIN>:몰리도의 얼굴에 화색이 돌았다. 밝은 실험실에서, 그 익숙한 뒷모습이 신경질적으로 탁상을 두들기고 있었다.+그런 그의 앞에는, 셀 수도 없이 많은 이성질체들이 폐기장에 내던져지고 있었다.
-()<Speaker>？？？</Speaker>||:왜... 대체 왜! 이렇게나 많이 만들었다고! 그런데 왜 안 돼!+완전면역체... 정말 존재할 수 없는 건가...?
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아버님... 아버님!+제가, 제가 아버님을 위해 봉사하겠어요! 제가 아버님의 소망을 이루어드릴게요! 아버님!
-()<Speaker>？？？</Speaker>||:......
-()<Speaker></Speaker>||:그 남자가 뒤로 돌아, 어린아이처럼 소리지르는 몰리도를 물끄러미 바라봤다.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아버님... 제가, 제가 아버님이 바라시던 완벽한 자예요.+저를 보세요. 어떤 일이든, 제가 아버님을 위해 완수할게요!
-()<Speaker>？？？</Speaker>||:......네가?
-()<Speaker></Speaker>||:몰리도를 바라보는 그의 눈빛은, "경멸"이었다.
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:네... 제가요.+그레이도, 나르시스도, 그래도 부족하시다면 브라메드까지도! 제가 그들 모두를 뛰어넘겠어요!
-()<Speaker></Speaker>||:몰리도가 격앙하며 남자의 손을 붙잡으려 했지만, 그는 매정하게 뿌리쳤다.
-()<Speaker>？？？</Speaker>||<SE1>ClothingUp</SE1>:쓰레기야... 아무리 나아봤자 쓰레기는 쓰레기일 뿐이야...
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아버님...
-()<Speaker></Speaker>||:몰리도는 그럼에도 더욱 애절한 눈빛으로 그에게 매달렸다.+그때였다. 그의 경멸어린 공허한 눈빛이, 돌연 반짝였다.
-()<Speaker>？？？</Speaker>||:너...?
-NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:네! 저 여깄어요, 여기에 있어요 아버님!
-()<Speaker></Speaker>||:몰리도는 감격하며 양팔을 벌렸다.+하지만 그 남자는 그녀를 그대로 통과해 지나쳤다.+몰리도는 휘둥그레진 눈으로, 믿을 수 없다는 표정으로 천천히 고개를 돌렸다.
-NPC-lnxy(0)<Speaker></Speaker>||:......
-()<Speaker>？？？</Speaker>||:누나...!
-()<Speaker></Speaker>||:그 남자는, 어둠 속에 홀로 서 있는 M4A1에게 다가갔다.
-()<Speaker>？？？</Speaker>||:드디어... 드디어 만났어, 누나...!+그래... 너로구나...! 그토록 찾아헤맸던 완벽한 개체가, 바로 너였구나!!!
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아니야...
-()<Speaker></Speaker>||:몰리도의 다리가 저절로 달음박질쳤다.+필사적으로 그 남자의 뒤를 붙잡으려 했지만, 아무리 달려도 그에게 조금도 가까워질 수 없었다.
-NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아니야!! 아니야!! 그년일 리가 없어!! 왜 그년인데!!!+아버님!! 저를 보세요!! 저는 여기 있어요!! 저예요, 저야말로 가장 완벽한 자예요!!!+저예요!!! 저란 말에요!!!
-()<Speaker></Speaker>||<SE1>Explode</SE1><BGM>BGM_Empty</BGM>:와르르――+오물로 진창이 된 공장이 무너졌다.+변용을 연습하던 방도 산산조각 났다.+면역체를 솎아내던 실험실도, 어둠에 삼켜졌다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:그녀의 컨셔스 파노라마가, 마침내 무너졌다.
-()<Speaker></Speaker>||<关闭蒙版>:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>414</BIN><BGM>BGM_Room</BGM>:......
-NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:우웁... 케헥! 콜록콜록...
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:......
-()<Speaker>지휘관</Speaker>||:이게 무슨... M4?
-()<Speaker></Speaker>||:M4A1이 그저 몰리도의 머리에 손을 얹기만 한 지 몇 초. 그 몇 초 전까지만 해도 독기어린 눈빛으로 조롱하던 몰리도가, 갑자기 격하게 기침하며 허약해졌다.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:별것 아닙니다. 그녀의 대외 통신 능력을 제거하면서 간단한 조치도 더했어요. 목숨에 지장은 없으니 안심하세요.
-()<Speaker>지휘관</Speaker>||:별거 아닌 게 아닌 것 같은데...
-()<Speaker></Speaker>||:발작하듯 기침하던 몰리도가 서서히 진정했지만, 누가 보면 M4A1이 그녀의 정신을 완전히 재기가 불가능할 정도로 망가뜨렸다 생각해도 이상하지 않을 만큼 완전히 넋이 나간 모습이었다.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:나머지는 맡길게요, 지휘관님.+저는... 조금 쉬겠습니다.
-()<Speaker>지휘관</Speaker>||:그러렴. 그런데 M4, 너――
-NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:하핫... 아하하하하하하하하하하!!!
-()<Speaker></Speaker>||:몰리도가 느닷없이 실성한 것처럼 폭소를 터뜨려, 지휘관은 화들짝 놀랐다.
-()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:마찬가지로 깜짝 놀란 AR-15가 반사적으로 개머리판으로 그녀의 머리를 후려쳤다.
-()<Speaker></Speaker>||:고개가 젖혀져 이마의 새로운 상처에서 피를 흘리면서도, 그녀는 소리만 잦아들었을 뿐 여전히 헤벌쭉한 입으로 기괴하게 웃어댔다.
-NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:흐흣... 너 뭐야... 대체 누구야 너...
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:.....
-NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:뭐냐고... 너 뭐야...+대체 뭐하는 년이야 너... 대답할 수 있어? 대답할 용기는 있어...?
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:M4A1은 들은 척도 않고 그대로 방 밖으로 사라졌다.+그녀의 뒷모습을 뚫어져라 노려보던 몰리도의 광소도, 점차 사그라졌다.
-()<Speaker>지휘관</Speaker>||:...난데없이 무슨 짓이지?
-()<Speaker></Speaker>||:몰리도는 그저 넋을 놓고 M4A1이 나간 방향을 응시했다.
-NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......있잖아요, 로빈. 제 비밀이 궁금해요? 그렇게 알고 싶어요? 네? 로빈?
-()<Speaker></Speaker>||:그리고 한참이 지난 뒤, 몰리도가 마침내 입을 열었다.
-AR15Mod(5)<Speaker>AR15</Speaker>||:넌 지휘관을 그렇게 부를 자격 없어!
-()<Speaker></Speaker>||:지휘관은 미간이 좁혀졌지만, 별말 없이 몰리도를 계속 바라봤다. 그녀와 M4A1의 찰나의 대치 사이에 무슨 일이 벌어졌는지 알 도리는 없었지만, 몰리도가 처음으로 그나마 협조적인 태도를 보였기 때문이었다.
-NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:제가 아는 거... 다 알려드릴게요. 대신 조건이 있어요.
-AR15Mod(5)<Speaker>AR15</Speaker>||:지금 네가 조건을 제시할 처지라 생각해?
-NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:조건은 말이죠... 오직 당신에게만 말하겠다는 거예요.+저는 이제 당신밖에 못 믿어요... 로빈.
-()<Speaker></Speaker>||:몰리도는 초점이 풀린 듯하면서도 능청스러운 눈빛으로 RO635와 AR-15를 흘겨봤고, 두 인형은 당연히 어이없어했다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:지휘관, 이년을 믿으면 안 돼요.
-()<Speaker>지휘관</Speaker>||:......
-AR15Mod(5)<Speaker>AR15</Speaker>||:...지휘관?
-AR15Mod(5)<Speaker>지휘관</Speaker>||:미안해, 잠시 밖에서 기다려 주겠니?
-AR15Mod(5)<Speaker>AR15</Speaker>||:하지만——
-AR15Mod(5)<Speaker>지휘관</Speaker>||:그녀가 처음으로 직접 입을 열었어. 진실이든 거짓이든... 들어서 손해는 아닐 거야.
-AR15Mod(4)<Speaker>AR15</Speaker>||:......
-()<Speaker></Speaker>||:AR-15가 항변하려 했지만, 지휘관의 진중한 눈빛에 못 이겨 툴툴대며 방을 나섰다.
-AR15Mod(5)<Speaker>AR15</Speaker>||:...조금이라도 이상한 소리 들리면 바로 들어올 거예요.
-()<Speaker>지휘관</Speaker>||:응, 그땐 부탁할게.
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:......
+()<Speaker></Speaker>||<SE1>AVG_Water_Drip</SE1><BGM>BGM_Truth</BGM>:뚝... 뚝...+칠흙 같은 어둠 속에서, 몰리도는 눈을 천천히 떴다.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:...쯧.
+()<Speaker></Speaker>||:역겨운 악취가 코를 찌르자, 반사적으로 인상을 찌푸렸다.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||<common_effect>%%code=CJX_avg_hb%%</common_effect>:여긴 또 어디지? 그 잡것들이랑 놀아 주고 있었는데...
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>229</BIN><睁眼>:희미하게 들려오는 물방울 소리에 맞춰, 몰리도의 주위가 차차 선명해졌다.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:공장...?
+()<Speaker></Speaker>||:패러데우스의 공장... 아니, 그저 수많은 공장 중 하나가 아니었다.+그녀에게 있어서도, 아주 익숙한 바로 그곳이었다.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......
+()<Speaker></Speaker>||:일정한 속도로 돌아가는 컨베이어 벨트는 썩어 들어가는 시체들이 줄줄이 운반했다.+이곳은 실험체를 선별하는 하급 공장. 니토가 될지도 모르는 "원료"를 생산하는 곳이었다.+한층 더 심해진 악취에 몰리도는 반사적으로 한 걸음 물러섰고, 그녀의 발소리를 들었는지 오수에 반쯤 잠긴 시체들이 갑자기 꿈틀대며 일어나기 시작했다.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:징그러워...
+()<Speaker></Speaker>||:역시 그녀도 이와 같은 상황이 놓이니 소름이 절로 돋았다.+물론, 결코 두려워서가 아니었다.
+()<Speaker>시체</Speaker>||:......
+NPC-Morridow(10)<Speaker>몰리도</Speaker><Position>0,90</Position>||<SE1>AVG_Punch_Hit</SE1><震屏3>:하등한 쓰레기가... 저리 꺼져.
+()<Speaker></Speaker>||:수많은 시체들 중, 흙탕물에 처박혀 있던 가장 지저분하고 흉측한 시체는 "얼굴"이라 할 만한 것도 남지 않았다.
+()<Speaker></Speaker>||<SE1>AVG_Slime_Movement</SE1>:그럼에도, 그 시체는 그들 중 가장 의지가 강한 듯했다.+그 시체는 기어왔다.+유일한 한 줄기 빛을 향해.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:오지 말라고.
+()<Speaker></Speaker>||:아무 소리도 들리지 않는 것일까, 그 썩어 문드러져 가는 시체는 기어코 몰리도에게 기어와, 그녀의 다리를 꽉 부둥켜 안았다.+분노, 두려움, 초조함... 그 얼굴의 윤곽조차 알아볼 수 없는 시체를, 몰리도는 하이힐로 마구 짓밟으며 필사적으로 떼어내려 했다.
+NPC-Morridow(10)<Speaker>몰리도</Speaker><Position>0,90</Position>||<SE1>AVG_Punch_Hit</SE1><震屏3>:저리 꺼져! 꺼지라니까!?
+()<Speaker></Speaker>||:하지만 아무리 발악해도, 뿌리칠 수가 없었다.
+()<Speaker>？？？</Speaker>||:이리 온.
+()<Speaker></Speaker>||:그때, 몰리도의 뒤에서 상냥한 목소리가 들려왔다.+몰리도의 고함과 폭력에도 아랑곳않던 시체는 그 부름에 바로 감화된 듯했다.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:...마흐리안?
+()<Speaker></Speaker>||:무의식적으로 그 이름을 부르며, 몰리도는 놀란 얼굴로 뒤를 돌아보았다.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:......
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......너였어? 왜 네가 여기 있어?
+()<Speaker></Speaker>||:M4A1은 그 썩어 문드러진 몸뚱이를 다정하게 품에 안고 다독였다.+그리고, 아직도 충격에서 벗어나지 못한 몰리도를 가여워하는 눈으로 바라봤다.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:이게 당신이 말하는 완벽한 피조물인가요?
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:...당연히 아니지. 이것들은 피조물이라 불릴 자격도 없어. 아무짝에도 쓸모없는 실패작일 뿐이야.+나는... 나를 이것들과 같은 취급하지 마.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:......
+()<Speaker></Speaker>||:그 칠흙 같은 어둠이 M4A1을 서서히 집어삼켰다. 하지만 완전히 사라지기 직전까지도, 그녀는 연민 어린 눈을 몰리도에게서 돌리지 않았다.
+NPC-Morridow(10)<Speaker>몰리도</Speaker><Position>0,90</Position>||:보지 마...+날 그런 눈으로 보지 마!
+()<Speaker>마흐리안</Speaker>||:몰리도.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:?!!
+()<Speaker></Speaker>||:총성에 놀란 새처럼, 몰리도가 홱 돌아보았다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>323</BIN>:어느샌가 나타난 밝은 빛을 받으며, 그녀가 몰리도를 부르고 있었다.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:너... 네가 왜...
+NPC-Machlian(1)<Speaker>마흐리안</Speaker>||:서두르지 않아도 돼, 몰리도.+천천히, 차근차근.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:할 수 있긴 뭘――헉!
+()<Speaker></Speaker>||:또 어느샌가 나타난 거울이, 몰리도의 얼굴을 비췄다.+하지만 거울이 비추는 몰리도의 얼굴은 지금이 아니었다. 가장 처음의, 그녀의 본연의 얼굴이었다.
+NPC-Machlian(1)<Speaker>마흐리안</Speaker>||:변용술은 어렵지 않아, 너도 노력하면 할 수 있어.
+()<Speaker></Speaker>||:기억났다.+이 저열한 실패작은, 본디 그녀보다 우수했다.+자신은 어떡해도 제대로 할 수 없었던 변용술을, 이 여자는 숨 쉬듯 완벽하게 해냈다.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:어째서...
+NPC-Machlian(1)<Speaker>마흐리안</Speaker>||:응?
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:어째서 아버님께 거역하는 거야? 뭐든지 할 수 있으면서...
+NPC-Machlian(4)<Speaker>마흐리안</Speaker>||:......
+()<Speaker></Speaker>||:그 말을 들은 마흐리안은 슬픈 기색을 감추지 않았다.
+NPC-Machlian(4)<Speaker>마흐리안</Speaker>||:난... 그 사람이 시키는 일을 할 수 없어.+난 못 해. 이해할 수 없어. 왜 우리가 다른 사람들을 해쳐서까지 목적을 이뤄야 해?+우리는 세상을 더 좋은 곳으로 만들기 위해 존재한댔잖아...
+NPC-Morridow(10)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아버님의 말씀은 절대적이야! 넌 그냥 내숭 떠는 거야!
+NPC-Machlian(1)<Speaker>마흐리안</Speaker>||:몰리도...
+()<Speaker></Speaker>||:마흐리안이 천천히 다가오자, 몰리도는 당황하며 뒷걸음질쳤다.
+NPC-Machlian(1)<Speaker>마흐리안</Speaker>||:같이 도망치자.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:뭐?
+()<Speaker></Speaker>||:몰리도가 머뭇거리는 사이, 마흐리안은 그녀의 코앞까지 다가왔다.
+NPC-Machlian(1)<Speaker>마흐리안</Speaker>||:같이 여기서 나가자. 여기서 계속 있다간 우리 모두 우리가 아니게 되어버릴 거야.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......
+()<Speaker></Speaker>||:그때도, 마흐리안은 몰리도에게 이렇게 권유했다.+재능이 가장 뛰어났음에도, 계속해서 아버님을 거역해 벌이나 받던 얼간이.+그럼에도, 절망에 빠진 자신에게 손을 내밀었다.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......마흐리안.
+()<Speaker></Speaker>||:내민 손에 대한 몰리도의 대답은――
+NPC-Machlian(3)<Speaker>마흐리안</Speaker><Shake>0.1</Shake>||<SE1>AVG_Punch_Hit</SE1>:아아악!!!
+NPC-Morridow(10)<Speaker>몰리도</Speaker><Position>0,90</Position>||:넌 그 얼굴을 가질 자격 없어.
+()<Speaker></Speaker>||:마흐리안이 피가 철철 흐르는 얼굴을 손으로 감싸며 주저앉았다.+얼굴 가죽을 빼앗은 몰리도는, 고통과 슬픔에 애처롭게 우는 마흐리안을 내려다봤다.+그래, 맞아. 이러면 돼.+내가 완벽한 얼굴을 만들어내지 못한다면, 그냥 남의 것을 쓰면 되는 일이잖아?
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:당신의 언니를, 당신의 유일한 동료를 그렇게 대했나요?
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:니토는 세상을 바꾸기 위해 창조됐어.+이년은 미천한 복제품 주제에 신분을 망각하고 자기를 오리지널이라 착각했지.+스스로의 의지로 아버님께 거역했다 생각하겠지만, 실제론 아버님을 위해 봉사할 자격도 없는 폐기물이었지.+오직 완벽한 자만이 아버님을 만족시킬 수 있어.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:그럼, 당신이 바로 그 "완벽한 자"라 생각하나요?
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:그야 물론――
+()<Speaker>？？？</Speaker>||:제기랄!!!
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:쿵! 쿵! 쿵!
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:...아버님?
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>249</BIN>:몰리도의 얼굴에 화색이 돌았다. 밝은 실험실에서, 그 익숙한 뒷모습이 신경질적으로 탁상을 두들기고 있었다.+그런 그의 앞에는, 셀 수도 없이 많은 이성질체들이 폐기장에 내던져지고 있었다.
+()<Speaker>？？？</Speaker>||:왜... 대체 왜! 이렇게나 많이 만들었다고! 그런데 왜 안 돼!+완전면역체... 정말 존재할 수 없는 건가...?
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아버님... 아버님!+제가, 제가 아버님을 위해 봉사하겠어요! 제가 아버님의 소망을 이루어드릴게요! 아버님!
+()<Speaker>？？？</Speaker>||:......
+()<Speaker></Speaker>||:그 남자가 뒤로 돌아, 어린아이처럼 소리지르는 몰리도를 물끄러미 바라봤다.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아버님... 제가, 제가 아버님이 바라시던 완벽한 자예요.+저를 보세요. 어떤 일이든, 제가 아버님을 위해 완수할게요!
+()<Speaker>？？？</Speaker>||:......네가?
+()<Speaker></Speaker>||:몰리도를 바라보는 그의 눈빛은, "경멸"이었다.
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:네... 제가요.+그레이도, 나르시스도, 그래도 부족하시다면 브라메드까지도! 제가 그들 모두를 뛰어넘겠어요!
+()<Speaker></Speaker>||:몰리도가 격앙하며 남자의 손을 붙잡으려 했지만, 그는 매정하게 뿌리쳤다.
+()<Speaker>？？？</Speaker>||<SE1>ClothingUp</SE1>:쓰레기야... 아무리 나아봤자 쓰레기는 쓰레기일 뿐이야...
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아버님...
+()<Speaker></Speaker>||:몰리도는 그럼에도 더욱 애절한 눈빛으로 그에게 매달렸다.+그때였다. 그의 경멸어린 공허한 눈빛이, 돌연 반짝였다.
+()<Speaker>？？？</Speaker>||:너...?
+NPC-Morridow(8)<Speaker>몰리도</Speaker><Position>0,90</Position>||:네! 저 여깄어요, 여기에 있어요 아버님!
+()<Speaker></Speaker>||:몰리도는 감격하며 양팔을 벌렸다.+하지만 그 남자는 그녀를 그대로 통과해 지나쳤다.+몰리도는 휘둥그레진 눈으로, 믿을 수 없다는 표정으로 천천히 고개를 돌렸다.
+NPC-lnxy(0)<Speaker></Speaker>||:......
+()<Speaker>？？？</Speaker>||:누나...!
+()<Speaker></Speaker>||:그 남자는, 어둠 속에 홀로 서 있는 M4A1에게 다가갔다.
+()<Speaker>？？？</Speaker>||:드디어... 드디어 만났어, 누나...!+그래... 너로구나...! 그토록 찾아헤맸던 완벽한 개체가, 바로 너였구나!!!
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아니야...
+()<Speaker></Speaker>||:몰리도의 다리가 저절로 달음박질쳤다.+필사적으로 그 남자의 뒤를 붙잡으려 했지만, 아무리 달려도 그에게 조금도 가까워질 수 없었다.
+NPC-Morridow(9)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아니야!! 아니야!! 그년일 리가 없어!! 왜 그년인데!!!+아버님!! 저를 보세요!! 저는 여기 있어요!! 저예요, 저야말로 가장 완벽한 자예요!!!+저예요!!! 저란 말에요!!!
+()<Speaker></Speaker>||<SE1>Explode</SE1><BGM>BGM_Empty</BGM>:와르르――+오물로 진창이 된 공장이 무너졌다.+변용을 연습하던 방도 산산조각 났다.+면역체를 솎아내던 실험실도, 어둠에 삼켜졌다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:그녀의 컨셔스 파노라마가, 마침내 무너졌다.
+()<Speaker></Speaker>||<关闭蒙版>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>414</BIN><BGM>BGM_Room</BGM>:......
+NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:우웁... 케헥! 콜록콜록...
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:......
+()<Speaker>지휘관</Speaker>||:이게 무슨... M4?
+()<Speaker></Speaker>||:M4A1이 그저 몰리도의 머리에 손을 얹기만 한 지 몇 초. 그 몇 초 전까지만 해도 독기어린 눈빛으로 조롱하던 몰리도가, 갑자기 격하게 기침하며 허약해졌다.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:별것 아닙니다. 그녀의 대외 통신 능력을 제거하면서 간단한 조치도 더했어요. 목숨에 지장은 없으니 안심하세요.
+()<Speaker>지휘관</Speaker>||:별거 아닌 게 아닌 것 같은데...
+()<Speaker></Speaker>||:발작하듯 기침하던 몰리도가 서서히 진정했지만, 누가 보면 M4A1이 그녀의 정신을 완전히 재기가 불가능할 정도로 망가뜨렸다 생각해도 이상하지 않을 만큼 완전히 넋이 나간 모습이었다.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:나머지는 맡길게요, 지휘관님.+저는... 조금 쉬겠습니다.
+()<Speaker>지휘관</Speaker>||:그러렴. 그런데 M4, 너――
+NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:하핫... 아하하하하하하하하하하!!!
+()<Speaker></Speaker>||:몰리도가 느닷없이 실성한 것처럼 폭소를 터뜨려, 지휘관은 화들짝 놀랐다.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:마찬가지로 깜짝 놀란 AR-15가 반사적으로 개머리판으로 그녀의 머리를 후려쳤다.
+()<Speaker></Speaker>||:고개가 젖혀져 이마의 새로운 상처에서 피를 흘리면서도, 그녀는 소리만 잦아들었을 뿐 여전히 헤벌쭉한 입으로 기괴하게 웃어댔다.
+NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:흐흣... 너 뭐야... 대체 누구야 너...
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:.....
+NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:뭐냐고... 너 뭐야...+대체 뭐하는 년이야 너... 대답할 수 있어? 대답할 용기는 있어...?
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:M4A1은 들은 척도 않고 그대로 방 밖으로 사라졌다.+그녀의 뒷모습을 뚫어져라 노려보던 몰리도의 광소도, 점차 사그라졌다.
+()<Speaker>지휘관</Speaker>||:...난데없이 무슨 짓이지?
+()<Speaker></Speaker>||:몰리도는 그저 넋을 놓고 M4A1이 나간 방향을 응시했다.
+NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......있잖아요, 로빈. 제 비밀이 궁금해요? 그렇게 알고 싶어요? 네? 로빈?
+()<Speaker></Speaker>||:그리고 한참이 지난 뒤, 몰리도가 마침내 입을 열었다.
+AR15Mod(5)<Speaker>AR15</Speaker>||:넌 지휘관을 그렇게 부를 자격 없어!
+()<Speaker></Speaker>||:지휘관은 미간이 좁혀졌지만, 별말 없이 몰리도를 계속 바라봤다. 그녀와 M4A1의 찰나의 대치 사이에 무슨 일이 벌어졌는지 알 도리는 없었지만, 몰리도가 처음으로 그나마 협조적인 태도를 보였기 때문이었다.
+NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:제가 아는 거... 다 알려드릴게요. 대신 조건이 있어요.
+AR15Mod(5)<Speaker>AR15</Speaker>||:지금 네가 조건을 제시할 처지라 생각해?
+NPC-Morridow(12)<Speaker>몰리도</Speaker><Position>0,90</Position>||:조건은 말이죠... 오직 당신에게만 말하겠다는 거예요.+저는 이제 당신밖에 못 믿어요... 로빈.
+()<Speaker></Speaker>||:몰리도는 초점이 풀린 듯하면서도 능청스러운 눈빛으로 RO635와 AR-15를 흘겨봤고, 두 인형은 당연히 어이없어했다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:지휘관, 이년을 믿으면 안 돼요.
+()<Speaker>지휘관</Speaker>||:......
+AR15Mod(5)<Speaker>AR15</Speaker>||:...지휘관?
+AR15Mod(5)<Speaker>지휘관</Speaker>||:미안해, 잠시 밖에서 기다려 주겠니?
+AR15Mod(5)<Speaker>AR15</Speaker>||:하지만——
+AR15Mod(5)<Speaker>지휘관</Speaker>||:그녀가 처음으로 직접 입을 열었어. 진실이든 거짓이든... 들어서 손해는 아닐 거야.
+AR15Mod(4)<Speaker>AR15</Speaker>||:......
+()<Speaker></Speaker>||:AR-15가 항변하려 했지만, 지휘관의 진중한 눈빛에 못 이겨 툴툴대며 방을 나섰다.
+AR15Mod(5)<Speaker>AR15</Speaker>||:...조금이라도 이상한 소리 들리면 바로 들어올 거예요.
+()<Speaker>지휘관</Speaker>||:응, 그땐 부탁할게.
+()||<黑屏1>:

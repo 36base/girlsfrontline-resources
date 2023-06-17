@@ -1,0 +1,163 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<睁眼><BIN>325</BIN><BGM>GF_EV9_Story</BGM>:......
+()||<narrator>:베를린, 그레이 생명과학 연구소.
+()||:매기는 눈을 뜨고 수술대 위에서 일어났다. 넓은 방 안에 그녀 한 명뿐이었다.
+ColtWalker(3)<Speaker>매기</Speaker>||:......+개조... 다 끝났나?
+()||:쥐죽은 듯한 적막에 아무렇게나 중얼거린 목소리조차 메아리쳐 돌아왔다.
+()||<SE1>ClothingUp</SE1>:매기는 마인드맵이 있는 위치를 더듬어 보았다.
+ColtWalker(3)<Speaker>매기</Speaker>||:과연 저명한 "의사"네.+아무런 느낌도 없는 게 느낌이 아주 좋아.
+ColtWalker(4)<Speaker>매기</Speaker>||:잠깐만, 그러고 보니 의뢰 내용은?
+ColtWalker(3)<Speaker>매기</Speaker>||:......+저기요? 누구 없어요?
+()||:여전히 대답은 없었다. 매기는 방 안을 계속 두리번거리다 탁상의 컴퓨터에 시선을 고정했다.+모니터는 대기 모드였다. 매기는 아무도 없는 것을 확인한 다음, 컴퓨터 앞으로 걸어가 터치스크린을 가볍게 만졌다.
+()||<SE1>AVG_Card_Reader</SE1>:팟. 모니터가 바로 밝아졌다.+하얀 소녀 한 명이 모니터 안에 나타났다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker><通讯框>||:<color=#00CCFF>의뢰 내용은 파일 형식으로 "벌침" 시스템을 통해 전달했다.</color>+<color=#00CCFF>파일 번호는 AS54876323025412.</color>
+ColtWalker(3)<Speaker>매기</Speaker>||:그레이 씨는?
+NytoWhite(0)<Speaker>하얀 니토</Speaker><通讯框>||:<color=#00CCFF>그레이 언니께선 따로 할 일이 있으시다.</color>
+()||<SE1>AVG_keyboardtype_sci</SE1>:매기는 마인드맵 공간에서 그 파일을 열어보려 했다.+■기록■ AS54876323025412 디코딩...
+ColtWalker(3)<Speaker>매기</Speaker>||:...접선책은 이 타레우스란 사람?
+()||:매기가 다시 고개를 들었을 때, 하얀 소녀의 모습은 이미 사라지고 없었다.
+()||<黑屏1>:
+()||<黑屏2><SE1>AVG_va_addingredient</SE1>:매기가 떠난 뒤, 그레이는 커피를 한 잔 새로 탔다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>그 인형의 마인드맵 데이터, 우리가 스캔할 수 있는 부분이 90%도 안 되더구나.</color>
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:큰 흐름만 망치지 않는다면 그 정도쯤 넘어가 주시지요.+바꿔 말하면, 언니의 시스템을 피할 수 있다는 점이야말로 그녀가 이 일을 충분히 맡을 수 있다는 증거 아니겠습니까.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>마음대로 하려무나.</color>+<color=#00CCFF>하지만 난 불안 요소의 존재가 영 꺼림칙하구나.</color>
+()||<SE1>AVG_Camera_Focus</SE1>:그레이는 턴테이블 옆으로 걸어가, 돌아가는 레코드판 위에 바늘을 가볍게 놓았다.
+()||:잔잔하고 우아한 음악이 흘러나왔다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:안심하십시오, 네메아란 언니.+언니의 "벌침"이 그 생명선을 점거하리라고 장담합니다.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>467</BIN><narrator>:콜트 익스프레스, 제일 끝 객차.
+()||<BGM>BGM_Sneak</BGM>:트럼프 카드 두 장이 조용히 놓여 있었다——+각각 하트Q와 하트K.+그리고 각 카드 앞에 매기와 캐서린이 앉아있었다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:이제야 끝났네.
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:아니, 이제야 시작이야.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(3)||:너한테 무슨 짓을 했어?
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:엄청난 성능 업그레이드.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(3)||:그럼 앞으로 소체가 연산을 못 견디고 뻗을 걱정 안 해도 돼?
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:그건 완전히 해결 안 됐어, 그냥 용량을 좀 늘린 것뿐이야.+하아, 아주 사람을 쥐어짜내더라, 한 푼 투자하면 두 푼으로 받아가려고 해.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:한 수 보여줘봐.
+()||<SE1>ClothingUp</SE1>:매기는 손짓으로 파란색 인터페이스를 캐서린 눈 앞에 띄웠다.+매우 간결한 인터페이스에는 이름을 입력하는 검색 창 하나만 있었다.
+()||<SE1>AVG_21Winter_Click_Keyboard</SE1>:매기가 자신의 이름을 입력했다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:...이게 바로 21세기의 첨단 기술...
+ColtWalker(3)<Speaker>매기</Speaker>||:...돈만 충분하면 우리도 최첨단 파츠든 뭐든 달 수 있다고.
+()||<SE1>AVG_Card_Reader</SE1>:곧 튀어나온 페이지엔 매기에 관한 정보가 낱낱이 나열되어 있었다.+큰 사건부터 사소한 일상까지, 방금 캐서린이 탕비실에서 매기의 뒷담화를 몇 마디나 했는지까지도.
+ColtWalker(3)<Speaker>매기</Speaker>||:빈틈없이 파고드는 "벌침"...
+()||:매기는 그 말의 뜻을 완전히 깨달았다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:이거 너무 무섭다...+나 지금 무수한 눈깔들이 날 지켜보고 있는 것 같아...
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:적어도 지금은 우리의 적이 아니니까.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(3)||:아까 여기 앉아 있을 때 바깥에서 엄청 무서운 소리가 났었어.+근데 네가 나타나니까 그 소리들도 멈춘 것 같더라?
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:어, 녀석들한테 안 들키려고 살짝 수를 썼지.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(3)||:나는 또...
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:내가 거래를 위해서 이것들까지 포기할 것 같냐?
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(3)||:어으...
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:포기 안 해.+이것들까지 포기하면 난 더 이상 내가 아니니까.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(3)||:이거 느낌이... 악덕 채권자를 피하려고 고리대금을 끌어다 쓴 느낌이야...
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:주인 없는 인형이 다 그렇지 뭐, 돌다리도 다 두드려 보고 건너야 해,+한 끗 실수로 곧장 나락까지 떨어질 수도 있어.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(3)||:...이번엔 제대로 된 사람 편에 붙었길 바라야지.
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:사람? 난 그녀에게서 아무것도 느낄 수가 없었어.+대충 판단하기론 일단 인간은 아니야. 하지만 그런 인형도 난 본 적이 없어.+뭔가 엄청난 일이 일어날 것 같아, 이 세상의 구조가 바뀔 정도의.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(3)||:또 홍수로 세상이 잠긴다거나?
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:이 세상과 천재지변에 비하면 우리는 더없이 보잘것없는 존재지.+하지만 잊지 말라고, 개미처럼 보잘것없는 존재만이 틈새를 파고들어서 방주에 몰래 탈 수 있다고.
+NPC-Scalper(0)<Speaker>캐서린</Speaker>;ColtWalker(3)||:그래! 원시시대부터 지금까지 쭉 살아남은 생물은 생쥐와 바퀴벌레뿐이라고!
+ColtWalker(3)<Speaker>매기</Speaker>||:...다음엔 그 비유 쓰지 마.+바퀴벌레는 질색이니까.
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>528</BIN><narrator>:2년 후, 대륙간 열차 "미래호", 준비실.
+()||<BGM>GF_2022_Summer_AVG_4</BGM><SE1>ClothingUp</SE1>:매기는 기척을 내지 않고 수잔나에게 카드를 한 장 건넸다.
+ColtWalker(1)<Speaker>매기</Speaker>||:이번 보수야, 수잔나 양.
+NPC-TD_Porter(0)<Speaker>수잔나</Speaker>||:흥, 포즈난에 도착하면 바로 내리라고, 누구한테 들키지 말고.
+NPC-Scalper(0)<Speaker>캐서린</Speaker>||:알았다니까.
+()||:수잔나는 아무 일도 없었다는 듯 카드를 넘겨받았다.+매기도 자연스러운 동작으로 수잔나의 마인드맵 데이터를 스캔했다.
+()||<SE1>AVG_footsteps_cave</SE1>:모든 승객의 정보를 복사하고, 매기는 식당차 안의 카운터에 앉아 술잔을 들었다.
+ColtWalker(1)<Speaker>매기</Speaker>||<SE1>Stop_AVG_loop</SE1>:오늘 밤 데킬라는 내가 쏘지.
+()||:콜트 익스프레스의 거래가 시작됐다.
+()||<黑屏1>:
+()||<黑屏2><BIN>527</BIN><narrator><SE1>Stop_AVG_loop</SE1>:대륙간 열차 "미래호", 콜트 익스프레스 안.
+()||:매기는 각 객차를 오고가며 거래를 하면서 미래호 안의 감시 카메라를 살펴봤다.+식당차...+특등실...+일반석...+화장실...
+()||<BGM>BGM_Empty</BGM><震屏3>:그러던 중 콜트 익스프레스가 격렬하게 요동쳤다.
+ColtWalker(4)<Speaker>매기</Speaker>||:제기랄, 그 할망구가! 진짜 딱 10분밖에 안 주네!+빌어먹을, 긴급 탈출!
+()||<SE1>AVG_Power_Down</SE1>:콜트 익스프레스에서 거래하던 인형들은 모두 강제로 쫓겨났다.
+()||<黑点1>:
+()||<黑点2><BIN>528</BIN><SE1>AVG_21Winter_Terrorist_Attack</SE1><BGM>10082</BGM>:매기가 테이블에서 고개를 들자, 캐서린이 겁에 질린 얼굴로 객차 밖에서 쳐들어온 류바 할멈을 바라보고 있었다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||<BGM>10227</BGM><SE1>Stop_AVG_loop</SE1>:류바 할멈이 일 시작했어!
+ColtWalker(3)<Speaker>매기</Speaker>||:나도 알아, 계속 내 소체나 지키고 있어!+...금방 목표를 찾을 수 있어...+여기서 그만두면 다음에 또 단서를 찾기가 하늘의 별 따기라고!
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:......+그래 알았어! 어떻게든 시간을 끌어볼게...
+()||<黑点1>:
+()||<黑点2><BIN>538</BIN><SE1>AVG_Supershorty</SE1>:퍼엉!!
+()||<SE1>AVG_bigglassbreak</SE1>:묵직한 총성과 함께, 바 카운터에 줄지어 늘어선 크리스탈 잔들이 와장창 깨져 나갔다.
+()<Speaker>수잔나</Speaker>||:꺄아아악!!
+()||:산전수전 다 겪어본 수잔나도 비명을 지를 수밖에 없었다.
+()||<SE1>AVG_20Winter_People_Panic</SE1>:그리고 공포에 벌벌 떨던 승객들도 참지 못하고 덩달아 날카로운 비명을 질렀다.+이렇게 저항은 꿈도 못 꿀 상황 속에서, 다니엘이란 이름의 거한은 총구를 들이대며 윽박질렀다.+자신에게 총구가 겨눠질 때마다, 승객들은 눈물도 비명도 뚝 그쳤다.
+()<Speaker>다니엘</Speaker>||:시끄러워! 인형은 10호차로, 인간은 8호차로! 움직여!+몸에 지닌 건 전부 테이블에 올려놓고, 짐가방도 다 열어놔라! 빨랑빨랑 움직여!
+()||<SE1>ClothingUp</SE1>:잠시 패닉에 빠졌던 수잔나는 문득 뇌리를 스친 것에 간신히 정신을 차리고, 고개를 들어 "류바 할멈"을 다시 보았다. 그리고 경악했다.
+()<Speaker>수잔나</Speaker>||:류... 류... 류바 할멈...?!+신소련의 마지막 보르——
+()<Speaker>류바 할멈</Speaker>||:네가 추천해 준 노블 와인 참 맛있더구나.+눈치도 빠른 아이니, 지금부터 어떡해야 할진 잘~ 알겠지?
+()||:수잔나는 중얼거리던 말을 마른침과 함께 꿀꺽 삼켰다.+그리고, 한참을 망설이다 다시 입을 열었다.
+()<Speaker>수잔나</Speaker>||:......+승객 리스트는 준비실에 있어요.
+()<Speaker>류바 할멈</Speaker>||:그래그래 고맙구나, 착하기도 해라.
+()||<SE1>AVG_Wheelchair</SE1>:지금 휠체어에 "올라탄" 사람은 더는 허약한 노부인이 아니었다. 양손에 하나씩 산탄총을 쥔, 무법자들의 수장이었다. 우아한 음악과는 전혀 안 어울리는 소름 끼치는 그녀의 웃음소리는 마치 죽음을 독촉하는 음표 같기까지 했다.
+()||<SE1>AVG_footsteps_woodfloor</SE1>:그리고 그녀의 뒤로, 무장한 강도들이 질서정연하게 차례차례 걸어 나왔다.
+()||<黑点1><SE1>Stop_AVG_loop</SE1>:
+()||<黑点2><BIN>528</BIN>:한편, 캐서린은 강도들이 들이닥쳤을 때부터 패닉에 빠져 바 카운터 앞에 웅크려 앉아 부들부들 떨며 손가락 하나 까닥 못하는 상태였다.
+NPC-Scalper(2)<Speaker>캐서린</Speaker>||:매기... 우리 이제 어떡해...
+()<Speaker>매기</Speaker>||:......
+()||:바 테이블 위에 엎어져 있는 매기는, 여전히 미동도 않았다.+......
+()||<BGM>BGM_Empty</BGM><SE1>Rope</SE1>:도적들은 차분하게 인질을 결박하고 물건을 뒤졌다.
+()||<SE1>AVG_Creep</SE1>:캐서린은 매기의 소체를 끌고서 카운터 뒤에 숨다가, 살아날 구멍을 하나 생각해내고는 쾌재를 불렀다.
+()||<BGM>GF_2022_Summer_AVG_3</BGM>:다름 아닌 니콜라스였다.
+()||<SE1>AVG_tele_connect</SE1>:삐삐삐삐... 통신기가 울렸다.
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:......
+()||:받지 않아도 누군지 알았다.+캐서린이 그를 쳐다볼 때 그도 캐서린을 봤다.+그리고 매기가 분명 가까이 있으리라는 것도 알고 있었다.
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:<color=#A9A9A9>이 머저리 같은 년! 내가 15분이나 벌어줬잖아!</color>
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:뭐 문제 있냐?
+()||:니콜라스 옆에 있는 다니엘은 니콜라스의 부자연스러움을 눈치챘다.
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:...여긴 거의 다 일반 인형밖에 없는데 문제는 무슨 문제?+괜히 트집 잡아서 공 좀 가로채 보려고 그러냐?
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:...아직 남은 객차가 잔뜩이야, 서둘러 재머를 달아야 돼.
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:너 혼자 바쁜 줄 아냐? 넌 화장실 저쪽을 맡아, 난 카운터 이쪽을 맡을 테니까.
+()||<SE1>AVG_tele_connect</SE1>:삐삐삐삐... 통신기가 끈질기게 울렸다.+니콜라스는 조용히 통신을 끊어버렸다.
+()||<SE1>Rope</SE1>:그러고 구석에 고분고분하게 웅크려 있는 인형들을 천천히 결박했다.
+()||<黑点1>:
+()||<黑点2>:3분 후.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:...이쪽은 다 끝났어.
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:......
+()||:그는 이제야 네다섯 명을 결박한 참이었다.
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:...다니엘, 네가 좀 도와줘라.
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:...저...
+()||<SE1>AVG_footsteps_woodfloor</SE1>:다니엘은 니콜라스를 무시하고 카운터에 걸어왔다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||<SE1>Stop_AVG_loop</SE1>:......
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:......
+()||:카운터 밑엔 덜덜 떨고 있는 캐서린과 바닥에 누워있는 매기가 있었다.+다니엘은 의미심장한 얼굴로 류바 할멈에게 보고했다.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:...할멈, 매기 폰지도 여기에 있습니다.
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:......
+()||:할멈은 니콜라스를 흘깃 보았다.
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:10분은 진작에 지났지?
+NPC-OldLady(1);NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:......
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>;NPC-NervousMan(0)||:타레우스 체면은 이미 많이 봐줬다.
+NPC-OldLady(1);NPC-NervousMan(0)<Speaker>니콜라스</Speaker>||:...그렇죠.
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:평소대로 처리해.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:네!
+()||<SE1>Select</SE1>:철컥. 캐서린은 머리 위에서 울린 경쾌한 소리를 들었다.+총의 안전장치를 푸는 소리였다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:......
+()||<SE1>ClothingUp</SE1>:그녀는 천천히 고개를 들었다.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:...다신 보지 말자고.+너희 둘이 나타나기만 하면 잘되는 일이 없어.
+NPC-Scalper(2)<Speaker>캐서린</Speaker>||:류바 할멈...
+()||:류바 할멈은 캐서린의 말을 들은 척도 하지 않았다.+다니엘은 거리낌없이 총구를 캐서린의 가슴팍에 대고 마인드맵 코어를 겨눴다.
+NPC-Scalper(2)<Speaker>캐서린</Speaker>||:기다려 봐요!! 우린 지금 임무 수행 중이에요...+그러니까... 따지자면 우린 같은 편이라고요...
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>;NPC-Scalper(2)||:......
+NPC-Scalper(2)<Speaker>캐서린</Speaker>||:니콜라스 씨, 아니 니콜라스 선생님! 우리 좀 살려줘요!
+()||:니콜라스는 그녀를 흘깃 봤다가 고개를 홱 돌렸다.
+NPC-Scalper(2)<Speaker>캐서린</Speaker>||:......
+()||:그녀는 또다시 절망을 느꼈다.
+()||<SE1>AVG_pistol_finalshot_n</SE1>:타앙! 다니엘이 총성으로 대답했다.
+()||<SE1>AVG_Bullet_Hit_Body</SE1>:총알이 몸에 박히려는 순간, 캐서린은 한쪽으로 세게 떠밀렸다.
+NPC-Scalper(2)<Speaker>캐서린</Speaker>||:!! 매기!
+()||:아슬아슬한 순간에 매기가 깨어났고, 캐서린에게 쏜 총알은 방금 매기가 밀어낸 탓에 가슴이 아닌 캐서린의 다리에 맞았다.+매기가 고개를 들었다.
+ColtWalker(3)<Speaker>매기</Speaker>||:...류바 할멈.+화장실 안에 전술인형이 숨어있어요.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:!+모두 주의해!
+()||<SE1>AVG_Scene_Transfer</SE1>:도적들 모두 재빨리 무기를 들어 화장실을 가리켰다.+전술인형과 일반 인형의 격차는 그야말로 하늘과 땅이었다.
+NPC-OldLady(1)<Speaker>류바 할멈</Speaker>||:...침착해.+화력은 충분하니까.
+NPC-Bodyguard1(0)<Speaker>다니엘</Speaker>||:...네.
+()||:모든 도적이 천천히 화장실에 다가갈 때.+바 카운터 밑에선——
+ColtWalker(3)<Speaker>매기</Speaker>||:움직일 수 있겠어?
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(3)||:안 될 것 같아.+일단 너 자신하고 네 임무를 챙겨.
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:...그래.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>;ColtWalker(3)||:그 전술인형 강해?
+NPC-Scalper(3);ColtWalker(3)<Speaker>매기</Speaker>||:...네가 좋아하는 게임으로 비유하자면.+네 전투력을 5라고 치자, 그럼 그 녀석은 53만이야.
+NPC-Scalper(3)<Speaker>캐서린</Speaker>||:...난리 난 사이에 네가 빠져나가기엔 충분하겠네.
+()||<黑点1>:

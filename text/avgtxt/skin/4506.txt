@@ -1,125 +1,125 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
-()<Speaker></Speaker>||<黑屏2><BIN>98</BIN><BGM>BGM_Battle</BGM><SE1>AVG_rifle_finalshot_n</SE1>:황야에 마지막 총성이 울려퍼진 뒤, 전장은 다시 적막해졌다.+M16A1은 총을 거두고 OTs-14에게 고개를 돌렸다.+OTs-14는 상황 종료를 알리는 수신호를 보냈고, M16A1은 고개를 끄덕여 답했다.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||<SE1>AVG_amb_wilderness</SE1>:끄응... 시간이 예상보다 훨씬 오래 걸렸는걸.
-M16A1BOSS(0);OTs14(0)<Speaker>그로자</Speaker>||:나도 설마 며칠씩이나, 이렇게 잔뜩 돌아다닐 줄은 몰랐어.
-M16A1BOSS(0)<Speaker></Speaker>;OTs14(0)||:M16A1은 OTs-14의 시선을 따라, 기지가 있는 방향을 응시했다.
-M16A1BOSS(0);OTs14(0)<Speaker>그로자</Speaker>||:미리 지휘관에게 말해 둬서 다행이지만, 이 정도 시간이라면... 파티는 진작에 시작됐으려나.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:많이 기대했나 봐?
-M16A1BOSS(0);OTs14(0)<Speaker>그로자</Speaker>||:당연하지. 모두 함께 떠들고, 맛있는 걸 먹으면서, 평온을 즐기는 일...+총 들고 싸우는 것보다 훨씬 좋잖아?
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||<SE1>AVG_tele_connect</SE1>:훗, 하긴. 얼른 돌아가자, 잘하면 파티장 정리가 끝나기 전엔 도착할 수 있을지도 몰라. 좋은 술도 있다면 좋겠는데...+본부, 여기는 M16A1. "청소" 끝인데, 현재 위치가 도보로는 기지로 복귀하기 멀으니 헬리콥터를 9번 전투 지역의 3번 헬리포트로 보내 줘.
-M16A1BOSS(0);NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||:<color=#00CCFF>수고했어! 바로 보낼 테니까 좀만 기다려~</color>
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;NPC-Kalin(0)||:땡큐.
-M16A1BOSS(0)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:카리나의 가벼운 목소리에, M16A1의 신경도 조금 풀어졌다.+지금 이 전장에는 둘을 제외하면 움직이는 물체는 아무것도 없었다.+M16A1은 조용히 눈을 감고, 천천히 컨디션을 조절하면서 전투로 인한 긴장감을 풀었다.
-OTs14(0)<Speaker>그로자</Speaker>||:...헬기 왔다. 어서 타자.
-()<Speaker></Speaker>||:프로펠러의 소음을 들으며, 둘은 복귀길에 올랐다.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||<黑屏1>:<color=#A9A9A9>지금쯤이면 파티도 시작됐겠지. 막 뛰어다니는 SOP2를 RO가 붙잡으러 뒤쫓고 있을 테고... AR-15는 혼자 술 마시고 있으려나.</color>+<color=#A9A9A9>M4는... 뭘 하고 있을까?</color>+<color=#A9A9A9>다른 애들처럼 파티를 즐기는 중일까? 아니면...</color>
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||<BIN>83</BIN><黑屏2><BGM>BGM_Empty</BGM>:...큰일났다.
-M16A1BOSS(0);OTs14(0)<Speaker>그로자</Speaker>||<SE1>AVG_footsteps_cave</SE1>:응? 무슨 일인데?
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:그게... M4랑 파티에 같이 가자고 약속했거든. 무슨 서프라이즈를 준비한 모양이던데.
-M16A1BOSS(0);OTs14(0)<Speaker></Speaker>||:그 말을 듣고 현재 시각을 본 OTs-14의 표정이 어두워졌다.
-M16A1BOSS(0);OTs14(0)<Speaker>그로자</Speaker>||:미안해.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:직장 동료인데 뭘, 미안해할 것 없어.
-M16A1BOSS(0);OTs14(0)<Speaker>그로자</Speaker>||:하지만 "소중한 가족"과의 약속이잖아? 자의든 타의든 그걸 어기는 건 천벌받을 일이야.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:그럼――
-M16A1BOSS(0);OTs14(0)<Speaker>그로자</Speaker>||<BGM>m_avg_casual</BGM>:내일 네 무덤에 조화 들고 갈게.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:아니 그럼 전우로서 어드바이스라도 좀 달라고.+외골격 입은 채로 파티 갈 수도 없는 노릇이잖아... 그렇다고 벗으면 M4의 공격을 못 버티겠지만.
-M16A1BOSS(0);OTs14(0)<Speaker>그로자</Speaker>||:그럼 역시 내일 조화로 뭘 준비해야 할지나 생각해 둬야겠네.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:그럼 네 발목 붙잡고 같이 지옥 가야지 뭐.
-M16A1BOSS(0);OTs14(0)<Speaker>그로자</Speaker>||:농담은 이쯤하고.+이미 지각한 건 어쩔 수 없으니, 사과의 선물이라도 준비하는 게 어떨까?
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:그게 좋겠네... 고민 좀 해봐야겠다.
-M16A1BOSS(0)<Speaker></Speaker>;OTs14(0)||:M16A1은 땅이 꺼져라 푹 한숨을 쉬었다.+그걸 본 OTs-14는 피식 웃으며 그녀의 어깨를 토닥였다.
-M16A1BOSS(0);OTs14(0)<Speaker>그로자</Speaker>||:도착했어.
-M16A1BOSS(0);NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>그로자, M16! 어서 돌아와~!</color>+<color=#00CCFF>연회 거의 끝날 참이니까 얼른 지휘관님이 준비해 두신 드레스 입고 오도록 해!</color>
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;NPC-Kalin(0)||<SE1>AVG_tele_disconnect</SE1>:드레스?+...검정색이네. 흰색 머리랑은 안 어울리지 않나?
-M16A1BOSS(0);OTs14(0)<Speaker>그로자</Speaker>||:아무래도 만든 사람이 네 예전 증명사진을 보고 만든 모양이야. 확실히 어색하겠는걸.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:끄응, 그렇다고 안 입을 수도 없는데... 지금 가서 이걸 하얀색으로 바꾸기엔...
-M16A1BOSS(0);OTs14(0)<Speaker>그로자</Speaker>||:많이 늦었지.+...아. 지금 드레스를 하얗게 바꾸긴 무리지만, M4A1에게 줄 서프라이즈를 준비할 순 있겠다.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:뭐?
-M16A1BOSS(0);OTs14(0)<Speaker>그로자</Speaker>||:인형의 머리색을 바꾸는 건 인간보다 훨씬 쉽잖아.
-M16A1BOSS(0);OTs14(0)<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:OTs-14가 눈을 깜빡이며 힌트를 주었다.+그 의도를 읽은 M16A1은, 드레스를 들고 곧장 탈의실로 향했다.
-()<Speaker></Speaker>||<BIN>139</BIN><黑屏2><BGM>BGM_Hello</BGM>:약 30분 후, 막바지에 접어든 연회장.+M16A1은 OTs-14를 뒤따라 옆문으로 조용히 안으로 들어와, 소중한 "그 사람"을 찾아 두리번거렸다.
-M4 SOPMOD II(1)<Speaker>SOP2</Speaker>||:M16!
-M4 SOPMOD II(1);M16A1(1)<Speaker>M16A1</Speaker>||:엥, SOP2? 넌 또 어디서 튀어나왔어?
-M4 SOPMOD II(1)<Speaker>SOP2</Speaker>;M16A1(1)||:지금 어디 가?
-M4 SOPMOD II(1);M16A1(1)<Speaker>M16A1</Speaker>||:아... M4 대신 가져올 게 있어서.
-M4 SOPMOD II(1);M16A1(1)<Speaker></Speaker>||:SOP2는 M16A1이 지각한 것을 아직 모르는 눈치였다.+내심 다행이다 생각하며, M16A1이 발길을 옮기려던 그때였다.
-M4 SOPMOD II(3)<Speaker>SOP2</Speaker>;M16A1(1)||:...가지 마.
-M4 SOPMOD II(3);M16A1(1)<Speaker>M16A1</Speaker>||:어?
-M4 SOPMOD II(3)<Speaker></Speaker>;M16A1(1)||<SE1>Rope</SE1>:갑자기 M16A1의 허리가 세게 조여졌다. SOP2가 양팔로 M16A1의 허리를 감싼 것이었다.+그리곤, 무작정 그녀를 번쩍 들어올렸다.
-M4 SOPMOD II(3);M16A1(1)<Speaker>M16A1</Speaker>||:뭐, 뭐야!?
-M4 SOPMOD II(3);M16A1(1)<Speaker></Speaker>||:동생의 돌발행각에 깜짝 놀란 M16A1은 웃어야 하나 말아야 하나 복잡한 심경이었다.+바로 SOP2에게서 나는 진한 술냄새 때문이었다. 지금 SOP2는 진탕 취한 상태였다.+더군다나, 그 은은한 체리향 덕에 SOP2가 무슨 술을 마셨는지도 단박에 알아챘다.
-M4 SOPMOD II(3);M16A1(1)<Speaker>M16A1</Speaker>||:어... 야 SOP2, 이게 무슨 짓이야?
-M4 SOPMOD II(3);M4A1(7)<Speaker>M4A1</Speaker>||:SOP?! 뭐하는 거예요!?
-M4 SOPMOD II(1)<Speaker>SOP2</Speaker>||:아무데도오오... 어라? 또 돌아왔다...?
-()<Speaker></Speaker>||<SE1>RunStep</SE1>:M16A1이 어리둥절해하는 와중, SOP2는 입에 초록색 쿠키를 물곤 홱 뒤돌아 도망쳤다.
-M4A1(7)<Speaker>M4A1</Speaker>||:SOP2――!!+으으, 너무 빨라...
-M16A1(1)<Speaker>M16A1</Speaker>;M4A1(7)||:하하... 걱정 마 M4, 쟤 잡을 사람은 따로 있어.
-M16A1(1);M4A1(7)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:M16A1은 어물쩡 넘어가려고 M4A1의 어깨를 다독였지만, 그 시도는 보기좋게 실패했다.+바로 고개를 들어 단단히 삐진 표정으로 약속을 어기고 지각한 언니를 매섭게 쏘아보니, 당장에라도 따질 셈인 듯했다.
-M16A1(1)<Speaker>M16A1</Speaker>;M4A1(7)||:나, 나 왔어 M4~ 드레스 정말 예쁘네~?
-M16A1(1);M4A1(6)<Speaker>M4A1</Speaker>||:...고마워요.
-M16A1(1)<Speaker>M16A1</Speaker>;M4A1(6)||:<color=#A9A9A9>윽... 역시 화났구만...</color>+그게, 사정이 있었거든. 우선 내 말부터 들어 줄래?
-M16A1(1);M4A1(7)<Speaker>M4A1</Speaker>||:......
-M16A1(1);M4A1(7)<Speaker></Speaker>||<BGM>GF_Memorial</BGM>:뜻밖에도, M4A1은 뭐라 더 말하지 않았다.+그 이유는 대충 짐작이 갔다. M4A1의 눈동자에 비친 M16A1은, 과거의 그 모습이었으니까.+모든 것이 예전으로 돌아간 것만 같았지만... 모두가 너무나도 잘 알다시피, 지금 그들은 돌아갈 수 없을 정도로 멀리 왔다. 물론, 그럴 필요는 전혀 없었다.
-M16A1(1)<Speaker>M16A1</Speaker>;M4A1(7)||:어... M4?
-M16A1(1);M4A1(7)<Speaker>M4A1</Speaker>||:저, 지금 언니를 엄청 오랜만에 보는 기분이에요.+마지막으로 본게 고작 며칠 전인데도요.
-M16A1(1)<Speaker>M16A1</Speaker>;M4A1(7)||:아... 하하하.+역시 이 모습이 더 익숙하지?
-M16A1(1);M4A1(8)<Speaker>M4A1</Speaker>||:엄청 그리운 느낌이에요, 마치 엣날로 돌아간 것만 같아요.
-M16A1(1)<Speaker>M16A1</Speaker>;M4A1(8)||:화 안 났어?
-M16A1(1);M4A1(6)<Speaker>M4A1</Speaker>||:한 마디만 더 해봐요, 진짜 화낼 거예요.
-M16A1(1)<Speaker></Speaker>;M4A1(6)||:때마침 잔잔한 왈츠가 흘렀다.+절호의 기회를 놓칠세라, M16A1은 M4A1에게 손을 내밀며 눈을 찡긋했다.
-M16A1(1)<Speaker>M16A1</Speaker>;M4A1(6)||:그래, 너무 늦진 않았나 보네.+So... shall we dance?
-M4A1(7)<Speaker>M4A1</Speaker>||:Sure.
-()<Speaker></Speaker>||:M4A1는 소중한 맏언니가 내민 손을 잡고 댄스 플로어에 발을 디뎠다.+그리고 한 곡이 끝나자 M4A1은 자리를 AR-15에게 내어 줬고, M16A1도 다시 손을 내밀었다.
-AR15(3)<Speaker>AR15</Speaker>||:뭐야, 꼬시는 거야?
-M16A1(1)<Speaker>M16A1</Speaker>||:오랜만이잖아.
-()<Speaker></Speaker>||:빙글빙글 돌며, 치맛자락이 부드럽게 펄럭였다.+AR팀의 맏언니는 그렇게 동생들 모두와 한 곡씩 추었고, 마지막으로 지휘관에게 손을 내밀었다.
-M16A1(1)<Speaker>M16A1</Speaker>||:자아, 지휘관.+이번엔 우리의 재회를 축하하자고. 그리고 이따 같이 한잔, 어때?
-M16A1(1)<Speaker>지휘관</Speaker>||:......
-M16A1(1)<Speaker>M16A1</Speaker>||:나 참, 뭘 망설이고 그래? 눈치 볼 필요 없잖아.
-M16A1(1)<Speaker></Speaker>||:대답을 기다리지 않고, M16A1은 지휘관의 손을 잡고서 다음 곡의 시작에 맞춰 함께 플로어로 다시 들어갔다.
-M16A1(1)<Speaker>M16A1</Speaker>||:그래도 역시... 이렇게 지휘관이랑 다시 만나 춤까지 추는 날이 올 줄은 정말 상상도 못했어.+내 춤 솜씨, 괜찮은 편이지?+지휘관이 인형이랑 춤출 때 어느 쪽인진 모르겠지만, 난 리드할 줄밖에 모르니까 지휘관이 팔로우해 줘.
-M16A1(1)<Speaker></Speaker>||:잠시후, M16A1과 지휘관은 플로어의 정중앙에 다다랐다.+스포트라이트를 받으며, 그녀는 지휘관에게 부드럽게 미소 지었다.
-M16A1(1)<Speaker>M16A1</Speaker>||:함께 전장을 헤쳐 나가고, 평화로울 때 함께 춤출 수 있어서 기뻐. 진심으로.
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:음악이 끝나자, M16A1은 이번엔 지휘관의 손을 놓고 유유히 플로어의 가장자리로 걸어갔다.
-M16A1(1)<Speaker>M16A1</Speaker>||<BGM>BGM_Moon</BGM>:그래서, 넌 왜 춤 안 춰?
-M16A1(1);OTs14(6)<Speaker>그로자</Speaker>||:이렇게 구경하는 것도 나쁘지 않거든.
-M16A1(1)<Speaker>M16A1</Speaker>;OTs14(6)||:흐음. 그럼 한 곡 추시렵니까, 아가씨?
-M16A1(1);OTs14(6)<Speaker>그로자</Speaker>||:미안하지만 거절할게, 그냥 여기서 구경할래.
-M16A1(1)<Speaker></Speaker>;OTs14(6)||:M16A1도 더는 억지 부리지 않고, OTs-14와 함께 플로어 한쪽에서 모두가 춤추는 광경을 지켜봤다.
-M16A1(1)<Speaker>M16A1</Speaker>;OTs14(6)||:뭐 봐?
-M16A1(1);OTs14(6)<Speaker>그로자</Speaker>||:넌 뭐가 보이는데?
-M16A1(1)<Speaker>M16A1</Speaker>;OTs14(6)||:사람들, 미소... 평화. 넌?
-M16A1(1);OTs14(6)<Speaker>그로자</Speaker>||:너랑 비슷한 거.
-M16A1(1)<Speaker>M16A1</Speaker>;OTs14(6)||:나하곤 보이는 게 좀 다를걸?+분석 모듈이나 성격 설정, 경험이 다르니.
-M16A1(1);OTs14(6)<Speaker>그로자</Speaker>||:그래도 비슷한 점은 있지.+좋아하는 사람, 가족, 친구들과 함께 근심 걱정 없이 춤추고, 맛있는 디저트를 먹고, 끝내주는 술을 즐기고.+보기만 해도, 우리가 여태까지 싸워 온 게 헛되지 않았단 느낌이 들지?
-M16A1(1)<Speaker>M16A1</Speaker>;OTs14(6)||:이해심이 좋구나.
-M16A1(1);OTs14(6)<Speaker>그로자</Speaker>||:대장으로서의 소양이지.
-M16A1(1)<Speaker>M16A1</Speaker>;OTs14(6)||:뭐 어쨌든... 평화와 소중한 사람의 미소보다 중요한 게 어딨겠어.+그걸 지키기 위해서라면, 이 한몸 으스러지는 것쯤 가벼운 대가지.
-M16A1(1);OTs14(6)<Speaker>그로자</Speaker>||:그래도 자신을 더 아끼도록 해.+그나저나, 드물게 네가 이런 감성적인 대화를 하네. 평소엔 전술 얘기밖에 안 하지 않았어?
-M16A1(1)<Speaker>M16A1</Speaker>;OTs14(6)||:나랑 AR-15를 헷갈린 건 아니고?
-M16A1(1)<Speaker></Speaker>;OTs14(6)||:둘은 동시에 웃음을 터뜨렸다.
-M16A1(1)<Speaker>M16A1</Speaker>;OTs14(6)||:하핫, 평화를 위하여.
-OTs14(6)<Speaker>그로자</Speaker>||:후훗, 건배.
-()<Speaker></Speaker>||:짠. 술잔을 부딪히고, 두 인형은 잔을 단숨에 비웠다.
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:주모~옥!+다들 재밌게 놀았나요~?
-NPC-Kalin(1)<Speaker>인형들</Speaker>||:네――!!
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:그럼 오늘의 마지막 코너! 금일 한정 특별 갤러리 쇼가 있겠습니다~!+우리의 촬영사 KSVK와 M200이 연회의 준비 단계서부터 지금까지의 많은 순간들을 사진으로 남겼습니다! 그 사진들 중 어쩌면 당신의 모습이 담겼을지도?+찬찬히 감상하고, 가장 마음에 드는 사진에 투표해 주세요~!
-OTs14(6)<Speaker>그로자</Speaker>||:그런 이벤트도 준비했어? 재밌네.
-M16A1(1)<Speaker>M16A1</Speaker>;OTs14(6)||:......
-M16A1(1);OTs14(6)<Speaker>그로자</Speaker>||:M16?
-M16A1(1)<Speaker>M16A1</Speaker>||:맘에 드는 사진을 찾았다, 당장 현상하러 가야겠어!
-()<Speaker></Speaker>||:OTs-14가 뭐라 덧붙이기도 전에, M16A1은 그 사진 아래에 표기된 촬영사, KSVK를 찾아갔다.+그리고 방금 막 밖에서 돌아온 참인 KSVK에게 성큼성큼 다가가 앞을 가로막았다.
-KSVK(9)<Speaker>KSVK</Speaker>||:음? M16...?
-M16A1(1)<Speaker>M16A1</Speaker>;KSVK(9)||:여어 KSVK, 미안하지만 AR팀이 찍힌 사진 복사해 주겠어?
-M16A1(1);KSVK(9)<Speaker>KSVK</Speaker>||:아하, 얼마든지. 기념할 만한 추억은 모두와 공유해야지.+안 그런가, 숙녀분들?
-M16A1(1)<Speaker>M16A1</Speaker>;KSVK(9)||<BGM>BGM_Empty</BGM>:엥?
-M16A1(1)<Speaker></Speaker>;KSVK(9)||<BGM>BGM_Sunshine</BGM>:M16A1이 뒤를 돌아보니, AR팀의 나머지 네 명이 있었다.+그렇게 다섯이서 어색하게 시선만 주고받다, AR-15가 먼저 시선을 돌리니 그 자리의 모두가 웃음을 터뜨렸다.
-M16A1(1);KSVK(9)<Speaker>KSVK</Speaker>||:하하하... 그럼, 이왕 이렇게 한자리에 모였으니 한 장 더 찍는 건 어떠한가?
-AR15(3)<Speaker>AR15</Speaker>||:난 아무래도――
-M4 SOPMOD II(1)<Speaker>SOP2</Speaker>||:찬성!
-()<Speaker></Speaker>||:AR팀은 잠시 우왕좌왕한 끝에 포즈를 취했다.+중앙으로 떠밀려 M4A1과 어깨동무를 하게 된 M16A1은, 잠깐 생각에 잠겼다.
-M16A1(1)<Speaker>M16A1</Speaker>||:<color=#00CCFF>M4의 말대로야. 이렇게 모여있는 게, 마치 꿈만 같아...</color>+<color=#00CCFF>그래... 더 많이 이렇게 있을 수 있다면, 난 그 어떤 대가라도 치를 수 있어.</color>
-KSVK(9)<Speaker>KSVK</Speaker>||:좋아. 그럼 하나, 둘――
-()<Speaker></Speaker>||:KSVK의 신호에 AR팀의 맏언니는 다시 정신을 차리고, 카메라 렌즈를 향해 자연스럽게 미소를 지었다.
-M16A1(1)<Speaker>M16A1</Speaker>||:셋!
-()<Speaker></Speaker>||<黑屏1><SE1>AVG_The_Division_Camera</SE1>:찰칵!
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:……
+()<Speaker></Speaker>||<黑屏2><BIN>98</BIN><BGM>BGM_Battle</BGM><SE1>AVG_rifle_finalshot_n</SE1>:响彻旷野的枪声落下，余音散去后，战场又恢复了死寂。+M16A1收起枪，看向闪电的方向。+闪电向她做了个完成的动作，M16点了点头。
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||<SE1>AVG_amb_wilderness</SE1>:好像拖得有点太久了。
+M16A1BOSS(0);OTs14(0)<Speaker>OTs14</Speaker>||:谁都没想到这个工作居然能拖几天，也没想到居然能跑这么远。
+M16A1BOSS(0)<Speaker></Speaker>;OTs14(0)||:M16A1跟着她的目光转头，看向基地的方向。
+M16A1BOSS(0);OTs14(0)<Speaker>OTs14</Speaker>||:还好和指挥官报备过了，但是这时候……这个时间，她们应该已经开始聚会了吧。
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:你很期待这场聚会？
+M16A1BOSS(0);OTs14(0)<Speaker>OTs14</Speaker>||:算是吧。大家一起热热闹闹地吃东西，聊天，享受平静……+这不是比拿枪更让人向往吗？
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||<SE1>AVG_tele_connect</SE1>:也是。聚会上要是有酒就好了……走，我们快点回去，说不定能赶上尾巴。+M16A1呼叫总部。任务已完成，我们距离基地过远，申请直升机到达9号战区3机场。
+M16A1BOSS(0);NPC-Kalin(0)<Speaker>格琳娜</Speaker><通讯框>||:<color=#00CCFF>收到，请稍等~</color>
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;NPC-Kalin(0)||:谢啦。
+M16A1BOSS(0)<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:格琳娜轻快的语调让M16A1的神经放松了一些。+战场此刻除了她们已经没有会动的物体，她闭上眼睛，慢慢地调节自己的状态，让自己从战斗的紧绷中一点点解放。
+OTs14(0)<Speaker>OTs14</Speaker>||:飞机到了，走吧。
+()<Speaker></Speaker>||:在直升机的鸣响声中，她们踏上返程。
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||<黑屏1>:<color=#A9A9A9>这个时间聚会大概已经开始了。SOP2也许正被RO拉着防止乱跑，AR15也许正在享受聚会。</color>+<color=#A9A9A9>M4呢，M4会在做什么？</color>+<color=#A9A9A9>她会享受聚会吗？还是……</color>
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||<BIN>83</BIN><黑屏2><BGM>BGM_Empty</BGM>:……糟了。
+M16A1BOSS(0);OTs14(0)<Speaker>OTs14</Speaker>||<SE1>AVG_footsteps_cave</SE1>:嗯？怎么了？
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:我……和M4约好了要一起去聚会，她还说给我准备了惊喜。
+M16A1BOSS(0);OTs14(0)<Speaker></Speaker>||:闪电看了看时间，气氛一时间沉默。
+M16A1BOSS(0);OTs14(0)<Speaker>OTs14</Speaker>||:啊，抱歉。
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:都是同袍，这方面就不用客气了。
+M16A1BOSS(0);OTs14(0)<Speaker>OTs14</Speaker>||:违背与重要的家人的约定是很严重的事啊。
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:所以……
+M16A1BOSS(0);OTs14(0)<Speaker>OTs14</Speaker>||<BGM>m_avg_casual</BGM>:明天我会带着鲜花去看望你的墓碑。
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:看在战友的面子上，认真一点给我建议好吗？+我不想穿着护甲去聚会，但除了那东西也没有能挡住现在M4攻击的了。
+M16A1BOSS(0);OTs14(0)<Speaker>OTs14</Speaker>||:那么明天我还是带着鲜花去悼念你吧。
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:那我就要从地狱里爬出来抓你的脚踝了。
+M16A1BOSS(0);OTs14(0)<Speaker>OTs14</Speaker>||:好了，不开玩笑了。+既然迟到已经不可避免，不如准备一些道歉礼物吧？
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:也许吧……我努力一下。
+M16A1BOSS(0)<Speaker></Speaker>;OTs14(0)||:M16A1长长地叹了口气。+闪电忍俊不禁，拍了拍她肩头。
+M16A1BOSS(0);OTs14(0)<Speaker>OTs14</Speaker>||:我们到家了。
+M16A1BOSS(0);NPC-Kalin(0)<Speaker>格琳娜</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>欢迎回来，闪电，M16！</color>+<color=#00CCFF>宴会已经快结束了，请穿上指挥官为你们准备的礼服再入场哦~</color>
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;NPC-Kalin(0)||<SE1>AVG_tele_disconnect</SE1>:礼服？+……黑色的礼服，白发穿看起来会很奇怪吧。
+M16A1BOSS(0);OTs14(0)<Speaker>OTs14</Speaker>||:看起来好像是根据你在格里芬的证件照来做的，的确不太合适。
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:但是不去也不好，现在去把它改成白色的话……
+M16A1BOSS(0);OTs14(0)<Speaker>OTs14</Speaker>||:来不及了吧。+等等，M16……虽然我们不能把它改成白色，但是能给M4A1的惊喜不就在你面前吗？
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;OTs14(0)||:你是说……
+M16A1BOSS(0);OTs14(0)<Speaker>OTs14</Speaker>||:人形换发型发色可比人类容易多了。
+M16A1BOSS(0);OTs14(0)<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:闪电向她眨了眨眼。+M16A1瞬间领会了她的意思，若有所思地拿着礼服进了换衣间。
+()<Speaker></Speaker>||<BIN>139</BIN><黑屏2><BGM>BGM_Hello</BGM>:半小时后，会场。+宴会已经步入尾声，M16A1跟在闪电身后从侧门溜进来，目光在会场里巡回寻找她心心念念的身影。
+M4 SOPMOD II(1)<Speaker>SOP2</Speaker>||:M16！
+M4 SOPMOD II(1);M16A1(1)<Speaker>M16A1</Speaker>||:SOP2，你怎么从这里钻出来？
+M4 SOPMOD II(1)<Speaker>SOP2</Speaker>;M16A1(1)||:M16，你这是去哪啊？
+M4 SOPMOD II(1);M16A1(1)<Speaker>M16A1</Speaker>||:啊……我去帮M4拿些东西来。
+M4 SOPMOD II(1);M16A1(1)<Speaker></Speaker>||:看起来SOP2没有发现自己迟到的事。+M16A1暗自庆幸着，转身就要走。
+M4 SOPMOD II(3)<Speaker>SOP2</Speaker>;M16A1(1)||:……不要走。
+M4 SOPMOD II(3);M16A1(1)<Speaker>M16A1</Speaker>||:什么？
+M4 SOPMOD II(3)<Speaker></Speaker>;M16A1(1)||<SE1>Rope</SE1>:M16A1的腰间忽然传来一股大力。+SOP2用手臂钳住了M16A1的腰，不由分说地将她举了起来。
+M4 SOPMOD II(3);M16A1(1)<Speaker>M16A1</Speaker>||:什么？！
+M4 SOPMOD II(3);M16A1(1)<Speaker></Speaker>||:面对忽然异常的同伴，M16A1在短暂的惊讶后，只产生了哭笑不得的情绪。+SOP2身上传来的浓烈酒气已经告诉了她事情的真相——SOP2喝醉了。+M16A1甚至能从那股若隐若现的樱桃酒香里判断出SOP2喝掉的酒的类型。
+M4 SOPMOD II(3);M16A1(1)<Speaker>M16A1</Speaker>||:SOP2，你在干什么？
+M4 SOPMOD II(3);M4A1(5)<Speaker>M4A1</Speaker>||:SOP2，你在干什么！
+M4 SOPMOD II(1)<Speaker>SOP2</Speaker>||:不准——诶？又回来了……
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:正在M16感到莫名其妙时，SOP2往嘴里塞了一块绿色的饼干，扭头跑开了。
+M4A1(5)<Speaker>M4A1</Speaker>||:SOP2——+啊，追不上了。
+M16A1(1)<Speaker>M16A1</Speaker>;M4A1(5)||:放心吧，M4，有人会去追她的。
+M16A1(1);M4A1(5)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:M16A1拍了拍M4A1的肩膀宽慰，而M4立刻抬眼盯住了她。+纤细的眉头皱紧，柔和的眼神也变得凌厉——M16A1立刻意识到，自己的妹妹要开始算账了。
+M16A1(1)<Speaker>M16A1</Speaker>;M4A1(5)||:晚上好，你今天这身看起来很漂亮。
+M16A1(1);M4A1(6)<Speaker>M4A1</Speaker>||:谢谢。
+M16A1(1)<Speaker>M16A1</Speaker>;M4A1(6)||:……<color=#A9A9A9>好冷淡，在生气吧。</color>+这件事事出有因，你愿意听我解释吗？
+M16A1(1);M4A1(5)<Speaker>M4A1</Speaker>||:……
+M16A1(1);M4A1(5)<Speaker></Speaker>||<BGM>GF_Memorial</BGM>:出乎M16A1的预料，M4并没有立刻开始抓着她的错处数落。+M16A1看着她，从她的眼睛里看见了过去的自己。+一切像是回到了最初，但两个人都很清楚，现在的两人走出了太远，不会回去，也不必回去。
+M16A1(1)<Speaker>M16A1</Speaker>;M4A1(5)||:……M4？
+M16A1(1);M4A1(5)<Speaker>M4A1</Speaker>||:我……好像很久没有见到你了。+明明前几天才见过，对吧？
+M16A1(1)<Speaker>M16A1</Speaker>;M4A1(5)||:啊……哈哈。+这个样子更熟悉吧？
+M16A1(1);M4A1(8)<Speaker>M4A1</Speaker>||:很怀念，像是回到了当初。
+M16A1(1)<Speaker>M16A1</Speaker>;M4A1(8)||:不生气了？
+M16A1(1);M4A1(6)<Speaker>M4A1</Speaker>||:你再提醒我的话，我就算你迟到了。
+M16A1(1)<Speaker></Speaker>;M4A1(6)||:舞曲轻柔地奏响了。+M16A1向M4伸出手，迎着她的目光眨眨眼睛。
+M16A1(1)<Speaker>M16A1</Speaker>;M4A1(6)||:好吧，看来我来得不算太晚。+Shall we dance?
+M4A1(7)<Speaker>M4A1</Speaker>||:当然。
+()<Speaker></Speaker>||:M4握住她的手，两人滑入舞池。+一舞结束，M4转开，M16A1向AR15伸出了手。
+AR15(3)<Speaker>AR15</Speaker>||:邀请？
+M16A1(1)<Speaker>M16A1</Speaker>||:久别重逢。
+()<Speaker></Speaker>||:旋转，旋转，裙摆扬起又落下。+M16A1和每一位AR小队的成员都跳完一支舞，最后，她将手伸向指挥官。
+M16A1(1)<Speaker>M16A1</Speaker>||:来吧，指挥官。+为我们的重逢庆祝一下，待会儿再陪我喝一杯？
+M16A1(1)<Speaker>指挥官</Speaker>||:……
+M16A1(1)<Speaker>M16A1</Speaker>||:犹豫什么？我们也不需要再客气了吧。
+M16A1(1)<Speaker></Speaker>||:虽然这么问着，她已经握住了指挥官的手，在新的曲子奏响时一起滑入舞池。
+M16A1(1)<Speaker>M16A1</Speaker>||:虽然这么说，我也没想到会有这么一天，能再和你这样见面，甚至是跳舞。+我的舞技还不错吧？+不清楚指挥官你和人形跳舞一般在哪边，不过我只会跳男步，就配合一下我吧。
+M16A1(1)<Speaker></Speaker>||:她牵着指挥官的手滑向舞池中央。+聚光灯下，M16A1对指挥官露出了柔和的微笑。
+M16A1(1)<Speaker>M16A1</Speaker>||:在战争中共度难关，也在和平时共舞，我很高兴。
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:舞曲停止，M16A1松开了指挥官的手，悠然走向舞池边缘。
+M16A1(1)<Speaker>M16A1</Speaker>||<BGM>BGM_Moon</BGM>:你怎么不去跳舞？
+M16A1(1);OTs14(6)<Speaker>OTs14</Speaker>||:在这里待着也不错。
+M16A1(1)<Speaker>M16A1</Speaker>;OTs14(6)||:一起跳一曲吗？
+M16A1(1);OTs14(6)<Speaker>OTs14</Speaker>||:不了，我想就在这里看着。
+M16A1(1)<Speaker></Speaker>;OTs14(6)||:M16A1也不勉强，和她一起靠在舞池边上看着大家跳舞。
+M16A1(1)<Speaker>M16A1</Speaker>;OTs14(6)||:你在看什么？
+M16A1(1);OTs14(6)<Speaker>OTs14</Speaker>||:你看到了什么？
+M16A1(1)<Speaker>M16A1</Speaker>;OTs14(6)||:我看到了和平还有笑容。你呢？
+M16A1(1);OTs14(6)<Speaker>OTs14</Speaker>||:我看到了和你类似的事物。
+M16A1(1)<Speaker>M16A1</Speaker>;OTs14(6)||:我们看到的东西应该不会一样吧。+分析模块，性格设定，还有个人的经验……
+M16A1(1);OTs14(6)<Speaker>OTs14</Speaker>||:是啊，但总有些东西是类似的。+能和喜欢的朋友、家人以及其他人在舞池里无忧无虑地跳舞，吃美味的点心，喝最好的酒。+只是看着就觉得之前的战斗都不是白费，是不是？
+M16A1(1)<Speaker>M16A1</Speaker>;OTs14(6)||:你很擅长理解别人吧？
+M16A1(1);OTs14(6)<Speaker>OTs14</Speaker>||:作为队长的素质而已。
+M16A1(1)<Speaker>M16A1</Speaker>;OTs14(6)||:是啊……还有什么能比和平和重要之人的笑容更珍贵呢？+若是为了守护这些，即使要我粉身碎骨，也只是轻松的代价罢了。
+M16A1(1);OTs14(6)<Speaker>OTs14</Speaker>||:还是重视自己一点比较好。+但是，难得听你讲起煽情的话，平时不都是在说战术吗？
+M16A1(1)<Speaker>M16A1</Speaker>;OTs14(6)||:你是不是把我和AR15记错了？
+M16A1(1)<Speaker></Speaker>;OTs14(6)||:两人一起笑起来。
+M16A1(1)<Speaker>M16A1</Speaker>;OTs14(6)||:为和平干杯。
+OTs14(6)<Speaker>OTs14</Speaker>||:干杯。
+()<Speaker></Speaker>||:叮。酒杯相碰一瞬，两人各自一饮而尽。
+NPC-Kalin(1)<Speaker>格琳娜</Speaker>||:那么，请各位看过来~+宴会玩得开心吗？
+NPC-Kalin(1)<Speaker>众人形</Speaker>||:开心——
+NPC-Kalin(1)<Speaker>格琳娜</Speaker>||:那么，我们就进入最后的环节——今夜限定摄影展！+我们的摄影师KSVK和M200用她们的镜头记录了这场宴会从开始筹备到现在的许多个瞬间，各位是否能在镜头里发现自己的身影呢？+在欣赏之余，也请别忘了给自己心仪的照片投上一票~
+OTs14(6)<Speaker>OTs14</Speaker>||:哦？还有这种活动啊。
+M16A1(1)<Speaker>M16A1</Speaker>;OTs14(6)||:……
+M16A1(1);OTs14(6)<Speaker>OTs14</Speaker>||:M16？
+M16A1(1)<Speaker>M16A1</Speaker>||:我看到了我需要的照片，我先去要底片了！
+()<Speaker></Speaker>||:不等闪电反应，M16便走向了照片下标注的摄影师——KSVK。+她似乎刚从外面回来，M16大步过去，挡在她面前。
+KSVK(9)<Speaker>KSVK</Speaker>||:M16……？
+M16A1(1)<Speaker>M16A1</Speaker>;KSVK(9)||:和AR小队相关的照片，给我一份数据可以吗？
+M16A1(1);KSVK(9)<Speaker>KSVK</Speaker>||:当然，值得纪念的回忆应该分享。+后面那几位也是这样想的吧？
+M16A1(1)<Speaker>M16A1</Speaker>;KSVK(9)||<BGM>BGM_Empty</BGM>:……
+M16A1(1)<Speaker></Speaker>;KSVK(9)||<BGM>BGM_Sunshine</BGM>:M16回过头，AR小队的其余四人都站在她身后。+五个人面面相觑半晌，AR15别开头，其他四人和KSVK都笑了起来。
+M16A1(1);KSVK(9)<Speaker>KSVK</Speaker>||:好了，既然大家都在，不如来合照吧？
+AR15(3)<Speaker>AR15</Speaker>||:我……
+M4 SOPMOD II(1)<Speaker>SOP2</Speaker>||:好耶！
+()<Speaker></Speaker>||:AR小队的五个人闹了一阵，总算摆好了姿势。+M16A1搂着M4的肩膀，被AR小队挤在中间，有片刻的愣神。
+M16A1(1)<Speaker>M16A1</Speaker>||:<color=#00CCFF>就像M4说的，这样聚在一起就像梦一样……</color>+<color=#00CCFF>是啊。为了让这样的时光多一点，即使再要我付出什么……</color>
+KSVK(9)<Speaker>KSVK</Speaker>||:好的，那么，三，二——
+()<Speaker></Speaker>||:KSVK的声音唤回了M16A1的思绪。她望向镜头，露出一个自然的笑容。
+M16A1(1)<Speaker>M16A1</Speaker>||:一。
+()<Speaker></Speaker>||<黑屏1><SE1>AVG_The_Division_Camera</SE1>:咔嚓。

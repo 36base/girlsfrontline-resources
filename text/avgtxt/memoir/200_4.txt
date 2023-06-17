@@ -1,80 +1,80 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>9</BIN>:......
-()||:죽음이 끝은 아니다. 의지의 소멸이야말로 진정한 끝이다.+인간이 죽음을 두려워하는 이유는 목숨이 단 한 번뿐이기 때문이다. 하지만 인형은 아니다.+이는 인형의 가장 큰 장점이자, 단점이기도 하다.
-()<Speaker>XM3</Speaker>||:죽음을 경외하는 자, 어떠한 수단을 써서라도 죽음을 피하려는 자만이...+역경 속에서 끊임없이 성장해 나갈 수 있어.
-()||:만약 인생이 언제든지 저장하고 불러올 수 있는 게임이라면, 목숨은 한낱 저렴한 것이 되어버린다.+그런 "저렴한" 목숨에, 지킬 가치란 것이 있을까?
-()||:여태까지, XM3는 줄곧 그런 고민을 품었다.
-xm3(0)<Speaker>XM3</Speaker>||<黑屏1>:인형의 목숨은 인간의 것과 근본부터가 다르다. 그렇다면, 난 그저 인간을 따라하는 소꿉놀이를 하고 있었던 걸까?
-()||<黑屏2><BIN>187</BIN><SE1>Explode</SE1>:콰앙!
-m500Mod(2)<Speaker>M500</Speaker>||<BGM>BGM_Room</BGM>:XM3! 멍때리지 마!
-m500Mod(3)<Speaker>목심이</Speaker>||:멍!
-xm3(0)<Speaker>XM3</Speaker>||:아... 아, 미안.
-IDWMod(0)<Speaker>IDW</Speaker>||:냐하하!!+XM3가 우리랑 작전 뛰는 게 오랜만인 건 알지만!+그렇다고 너무 흥분해선 안 된다냥!
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:XM3, 괜찮아?+왠지 정신이 딴 데 팔린 거 같은데.
-xm3(0)<Speaker>XM3</Speaker>||:별거 아니야, 잠시 딴 생각 좀 했어.+그나저나, 방금 그 폭발음은 뭐야?+노상강도야?
-m500Mod(2)<Speaker>M500</Speaker>||:에이 설마, 지금 우린 일반 식량을 호송 중이라구.+별로 돈도 안 되는 걸 뺏으려고 누가 폭발물까지 쓰겠어?+그래도 경계는 하자, 폭발이 꽤 가까웠어.
-IDWMod(0)<Speaker>IDW</Speaker>||:그래도 이 식량의 목적지는 난민 구호 센터다냥!+이거 못 갖다주면 많은 사람들이 굶어죽을 거다냥!
-xm3(0)<Speaker>XM3</Speaker>||:......
-()||:XM3이 천막을 젖혀, 차로의 양측을 경계했다.+현재 위치는 매우 험준한 지형이었다. 그녀가 강도라면, 분명 이곳에서 기습할 것이다.
-m500Mod(2)<Speaker>M500</Speaker>||:그나저나 XM3, 왜 갑자기 이런 쉬운 임무를 맡았어?+여태까지 활약 엄청 했잖아!
-xm3(0)<Speaker>XM3</Speaker>||:약간의 문제가 생겨서 말이지, 위험성 높은 임무에는 당분간――위험해!!
-()||<BGM>BGM_Empty</BGM><SE1>Explode</SE1><震屏3>:콰앙!!
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||<BGM>BGM_Danger</BGM>:적습이다!
-m500Mod(2)<Speaker>M500</Speaker>||:목심아!
-m500Mod(3)<Speaker>목심이</Speaker>||:크르릉!
-IDWMod(0)<Speaker>IDW</Speaker>||:냐냥?!+저, 정말로 강도가 나타났다냥!
-xm3(0)<Speaker>XM3</Speaker>||:어서 피해! 박격포다!
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:위험해!
-m500Mod(2)<Speaker>M500</Speaker>||<SE1>AVG_brake</SE1>:으아아 브레이크――!!
-()||<SE1>Explode</SE1>:쾅!
-()||<SE1>Explode</SE1>:콰앙!!
-()||<SE1>Explode</SE1><白屏1>:콰아앙!!!
-()||<白屏2><SE1>AVG_whitenoise</SE1>:......
-()<Speaker>LWMMG</Speaker>||:X...
-xm3(0)<Speaker>XM3</Speaker>||:으으...
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:XM3! 정신차려! XM3!
-xm3(0)<Speaker>XM3</Speaker>||:쿨럭... 콜록콜록... 어, 어떻게 된 거야...?
-m500Mod(2)<Speaker>M500</Speaker>||:보다시피, 습격이야. 아무래도 강도는 아닌 것 같아.+식량이고 뭐고 죄다 날려버리려 하고 있어.
-IDWMod(0)<Speaker>IDW</Speaker>||:대체 뭐가 목적이길래 저런다냥!?
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:어쩌면... 저 난민 구역을 개발하려고 교섭하던 사업가일 수도 있어.+지휘관도 전에 그 사람의 배경이 좀 수상하다 했는데...+난민들을 쫓아내려고 이런 수단까지 동원하는 건가?
-m500Mod(2)<Speaker>M500</Speaker>||<SE1>AVG_weapon_reload</SE1>:헤헷, 그럼 사람 아주 잘못 건드렸네!
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:침착해, M500.+박격포까지 끌고 온 놈들이야, 우리만으로 상대하긴 힘들어.+우선 후퇴하자.
-m500Mod(2)<Speaker>M500</Speaker>||:그럼 저 식량 전부 버려야 하잖아!+놈들 의도대로라고!
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:이대로 여기서 버텨도 승산은 없어!
-xm3(0)<Speaker>XM3</Speaker>||:...잠깐.
-()||:XM3가 힘겹게 몸을 일으켰다.
-xm3(0)<Speaker>XM3</Speaker>||:이렇게 막무가내로 나온 걸 보면 놈들도 초조한 게 분명해.+여기서 신원이 발각된다면, 놈들의 계획도 다 허사가 되어 버리겠지.+공권력이 개입하면 놈들에게 좋을 거 하나 없을 테니까.
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:XM3?
-xm3(0)<Speaker>XM3</Speaker>||:시간은 우리 편이야.+우리가 충분히 오래 버티기만 하면 저쪽이 먼저 알아서 내뺄 거야.
-m500Mod(2)<Speaker>M500</Speaker>||:대신 몰골이 말이 아니겠지만, 아하핫!+뭐 어때, 크게 다쳐도 소체 교체하면 될 일인데!
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:하지만...
-()||:LWMMG가 걱정스런 눈빛으로 XM3를 보았다.+그 눈빛의 의미를, XM3는 단박에 이해했다.
-xm3(0)<Speaker>XM3</Speaker>||:카리나가 말해 줬어?
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:미안... 카리나한테 널 부탁받았어.
-xm3(0)<Speaker>XM3</Speaker>||:......
-()||:사정을 모르는 다른 두 동료의 주의가 딴 데 향한 것을 확인하고, LWMMG는 XM3에게 다가가 목소리를 낮췄다.
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:있잖아, 우린 네가 개조를 받길 바라.+하지만 우선 네가 살아서 돌아가야만 해.+넌 지금 마인드맵 백업도 없잖아, 그 소체의 의식이 유일해.+만약 네가 여기서 전사했는데, 우리가 네 코어를 회수하지 못한다면...+...무슨 뜻인지, 알지?
-()||<SE1>Heartbeat</SE1>:그녀가 정말로 "죽는다"는 의미였다.+심장이 없음에도, XM3는 가슴이 두근거렸다.
-xm3(0)<Speaker>XM3</Speaker>||:나더러... 혼자 철수하라고?
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:지금의 넌 우리와 같지 않잖아.+우린 여기서 죽더라도 그대로 끝이 아니야.+하지만 넌... 네가 여기서 죽으면... 정말 끝이나 다름없어.
-xm3(0)<Speaker>XM3</Speaker>||:......
-()||:그렇구나.+내가 잘못한 거였어.
-xm3(0)<Speaker>XM3</Speaker>||:럼...
-()||:XM3는 고개를 저으면서 LWMMG의 어깨를 붙잡았다.
-xm3(0)<Speaker>XM3</Speaker>||:아니, 그럴 순 없어.+누구의 목숨도 특별하지 않아. 너도 나도, 같은 인형이야.+내가 여기서 도망친다면, 너희만으로는 더더욱 이 식량 트럭을 지킬 수 없어.+무엇보다, 난 절대 내 동료를 버리고 도망치지 않아.
-()||:이 세상엔... 목숨보다 중요한 것이 있다.
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:그래도...!
-xm3(0)<Speaker>XM3</Speaker>||:내가 정말 오늘 여기서 죽더라도...
-()||:XM3는 숨을 깊이 들이마시고 말을 이었다.
-xm3(0)<Speaker>XM3</Speaker>||:내가 날 이 꼴로 만든 건, 위험할 때 도망칠 핑계로 삼기 위해서가 아니야.+내 목숨을 더 조심해서, 더 신중하게 다뤄서 다시는 무의미하게 죽지 않도록 하기 위해서였어.+하지만... 이제 깨달았어.+인형은 목숨을 이런 식으로 속박할 필요가 없단 걸. 오히려 인형으로서의 내 능력을 제한시킬 뿐이란 걸.
-()||:이 세상엔 목숨보다 중요한 것이 있다.+언제부터인가 그걸 헷갈린 것이다.+살기 위해서 목숨을 아낀 것이 아니라, 무의미하기 죽지 않기 위해서 그랬던 것이다.
-xm3(0)<Speaker>XM3</Speaker>||:죽음은 그냥 죽음이야.+그건 누구한테다 다 똑같아.+중요한 건, 내 죽음이 누구에게 무엇을 가져다주느냐지.
-()||:인형이기에 "되살아날" 기회가 주어진다.+그렇기에 그 기회를 더욱 소중히, 더욱 감사해야 한다.+"무한한" 목숨을, 남이 거저 준 것으로 여겨선 안 된다.
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:......알았어.
-()||:XM3는 묵묵히 고개를 끄덕이곤 무기를 들었다.
-xm3(0)<Speaker>XM3</Speaker>||<SE1>AVG_weapon_reload</SE1>:모두, 식량 트럭을 사수한다! 그리고 반드시 살아남는다!+이 싸움이 끝나면 돌아가서 마인드맵 업그레이드를 받겠어!
-m500Mod(2)<Speaker>M500</Speaker>||:엑?! 야, 이럴 때 그런 위험한 플래그 세우지 마!
-IDWMod(0)<Speaker>IDW</Speaker>||<黑屏1>:냐하하하핫!! 보디가드는 나한테 맡기라냥!!
-()||<黑屏2><BIN>9</BIN><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:콰앙!
-xm3(3)<Speaker>XM3</Speaker>||:......
-xm3(2)<Speaker>XM3</Speaker>||<黑屏1>:<color=#A9A9A9>이게 정답이겠지...? AR15.</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>9</BIN>:......
+()||:죽음이 끝은 아니다. 의지의 소멸이야말로 진정한 끝이다.+인간이 죽음을 두려워하는 이유는 목숨이 단 한 번뿐이기 때문이다. 하지만 인형은 아니다.+이는 인형의 가장 큰 장점이자, 단점이기도 하다.
+()<Speaker>XM3</Speaker>||:죽음을 경외하는 자, 어떠한 수단을 써서라도 죽음을 피하려는 자만이...+역경 속에서 끊임없이 성장해 나갈 수 있어.
+()||:만약 인생이 언제든지 저장하고 불러올 수 있는 게임이라면, 목숨은 한낱 저렴한 것이 되어버린다.+그런 "저렴한" 목숨에, 지킬 가치란 것이 있을까?
+()||:여태까지, XM3는 줄곧 그런 고민을 품었다.
+xm3(0)<Speaker>XM3</Speaker>||<黑屏1>:인형의 목숨은 인간의 것과 근본부터가 다르다. 그렇다면, 난 그저 인간을 따라하는 소꿉놀이를 하고 있었던 걸까?
+()||<黑屏2><BIN>187</BIN><SE1>Explode</SE1>:콰앙!
+m500Mod(2)<Speaker>M500</Speaker>||<BGM>BGM_Room</BGM>:XM3! 멍때리지 마!
+m500Mod(3)<Speaker>목심이</Speaker>||:멍!
+xm3(0)<Speaker>XM3</Speaker>||:아... 아, 미안.
+IDWMod(0)<Speaker>IDW</Speaker>||:냐하하!!+XM3가 우리랑 작전 뛰는 게 오랜만인 건 알지만!+그렇다고 너무 흥분해선 안 된다냥!
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:XM3, 괜찮아?+왠지 정신이 딴 데 팔린 거 같은데.
+xm3(0)<Speaker>XM3</Speaker>||:별거 아니야, 잠시 딴 생각 좀 했어.+그나저나, 방금 그 폭발음은 뭐야?+노상강도야?
+m500Mod(2)<Speaker>M500</Speaker>||:에이 설마, 지금 우린 일반 식량을 호송 중이라구.+별로 돈도 안 되는 걸 뺏으려고 누가 폭발물까지 쓰겠어?+그래도 경계는 하자, 폭발이 꽤 가까웠어.
+IDWMod(0)<Speaker>IDW</Speaker>||:그래도 이 식량의 목적지는 난민 구호 센터다냥!+이거 못 갖다주면 많은 사람들이 굶어죽을 거다냥!
+xm3(0)<Speaker>XM3</Speaker>||:......
+()||:XM3이 천막을 젖혀, 차로의 양측을 경계했다.+현재 위치는 매우 험준한 지형이었다. 그녀가 강도라면, 분명 이곳에서 기습할 것이다.
+m500Mod(2)<Speaker>M500</Speaker>||:그나저나 XM3, 왜 갑자기 이런 쉬운 임무를 맡았어?+여태까지 활약 엄청 했잖아!
+xm3(0)<Speaker>XM3</Speaker>||:약간의 문제가 생겨서 말이지, 위험성 높은 임무에는 당분간――위험해!!
+()||<BGM>BGM_Empty</BGM><SE1>Explode</SE1><震屏3>:콰앙!!
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||<BGM>BGM_Danger</BGM>:적습이다!
+m500Mod(2)<Speaker>M500</Speaker>||:목심아!
+m500Mod(3)<Speaker>목심이</Speaker>||:크르릉!
+IDWMod(0)<Speaker>IDW</Speaker>||:냐냥?!+저, 정말로 강도가 나타났다냥!
+xm3(0)<Speaker>XM3</Speaker>||:어서 피해! 박격포다!
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:위험해!
+m500Mod(2)<Speaker>M500</Speaker>||<SE1>AVG_brake</SE1>:으아아 브레이크――!!
+()||<SE1>Explode</SE1>:쾅!
+()||<SE1>Explode</SE1>:콰앙!!
+()||<SE1>Explode</SE1><白屏1>:콰아앙!!!
+()||<白屏2><SE1>AVG_whitenoise</SE1>:......
+()<Speaker>LWMMG</Speaker>||:X...
+xm3(0)<Speaker>XM3</Speaker>||:으으...
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:XM3! 정신차려! XM3!
+xm3(0)<Speaker>XM3</Speaker>||:쿨럭... 콜록콜록... 어, 어떻게 된 거야...?
+m500Mod(2)<Speaker>M500</Speaker>||:보다시피, 습격이야. 아무래도 강도는 아닌 것 같아.+식량이고 뭐고 죄다 날려버리려 하고 있어.
+IDWMod(0)<Speaker>IDW</Speaker>||:대체 뭐가 목적이길래 저런다냥!?
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:어쩌면... 저 난민 구역을 개발하려고 교섭하던 사업가일 수도 있어.+지휘관도 전에 그 사람의 배경이 좀 수상하다 했는데...+난민들을 쫓아내려고 이런 수단까지 동원하는 건가?
+m500Mod(2)<Speaker>M500</Speaker>||<SE1>AVG_weapon_reload</SE1>:헤헷, 그럼 사람 아주 잘못 건드렸네!
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:침착해, M500.+박격포까지 끌고 온 놈들이야, 우리만으로 상대하긴 힘들어.+우선 후퇴하자.
+m500Mod(2)<Speaker>M500</Speaker>||:그럼 저 식량 전부 버려야 하잖아!+놈들 의도대로라고!
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:이대로 여기서 버텨도 승산은 없어!
+xm3(0)<Speaker>XM3</Speaker>||:...잠깐.
+()||:XM3가 힘겹게 몸을 일으켰다.
+xm3(0)<Speaker>XM3</Speaker>||:이렇게 막무가내로 나온 걸 보면 놈들도 초조한 게 분명해.+여기서 신원이 발각된다면, 놈들의 계획도 다 허사가 되어 버리겠지.+공권력이 개입하면 놈들에게 좋을 거 하나 없을 테니까.
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:XM3?
+xm3(0)<Speaker>XM3</Speaker>||:시간은 우리 편이야.+우리가 충분히 오래 버티기만 하면 저쪽이 먼저 알아서 내뺄 거야.
+m500Mod(2)<Speaker>M500</Speaker>||:대신 몰골이 말이 아니겠지만, 아하핫!+뭐 어때, 크게 다쳐도 소체 교체하면 될 일인데!
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:하지만...
+()||:LWMMG가 걱정스런 눈빛으로 XM3를 보았다.+그 눈빛의 의미를, XM3는 단박에 이해했다.
+xm3(0)<Speaker>XM3</Speaker>||:카리나가 말해 줬어?
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:미안... 카리나한테 널 부탁받았어.
+xm3(0)<Speaker>XM3</Speaker>||:......
+()||:사정을 모르는 다른 두 동료의 주의가 딴 데 향한 것을 확인하고, LWMMG는 XM3에게 다가가 목소리를 낮췄다.
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:있잖아, 우린 네가 개조를 받길 바라.+하지만 우선 네가 살아서 돌아가야만 해.+넌 지금 마인드맵 백업도 없잖아, 그 소체의 의식이 유일해.+만약 네가 여기서 전사했는데, 우리가 네 코어를 회수하지 못한다면...+...무슨 뜻인지, 알지?
+()||<SE1>Heartbeat</SE1>:그녀가 정말로 "죽는다"는 의미였다.+심장이 없음에도, XM3는 가슴이 두근거렸다.
+xm3(0)<Speaker>XM3</Speaker>||:나더러... 혼자 철수하라고?
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:지금의 넌 우리와 같지 않잖아.+우린 여기서 죽더라도 그대로 끝이 아니야.+하지만 넌... 네가 여기서 죽으면... 정말 끝이나 다름없어.
+xm3(0)<Speaker>XM3</Speaker>||:......
+()||:그렇구나.+내가 잘못한 거였어.
+xm3(0)<Speaker>XM3</Speaker>||:럼...
+()||:XM3는 고개를 저으면서 LWMMG의 어깨를 붙잡았다.
+xm3(0)<Speaker>XM3</Speaker>||:아니, 그럴 순 없어.+누구의 목숨도 특별하지 않아. 너도 나도, 같은 인형이야.+내가 여기서 도망친다면, 너희만으로는 더더욱 이 식량 트럭을 지킬 수 없어.+무엇보다, 난 절대 내 동료를 버리고 도망치지 않아.
+()||:이 세상엔... 목숨보다 중요한 것이 있다.
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:그래도...!
+xm3(0)<Speaker>XM3</Speaker>||:내가 정말 오늘 여기서 죽더라도...
+()||:XM3는 숨을 깊이 들이마시고 말을 이었다.
+xm3(0)<Speaker>XM3</Speaker>||:내가 날 이 꼴로 만든 건, 위험할 때 도망칠 핑계로 삼기 위해서가 아니야.+내 목숨을 더 조심해서, 더 신중하게 다뤄서 다시는 무의미하게 죽지 않도록 하기 위해서였어.+하지만... 이제 깨달았어.+인형은 목숨을 이런 식으로 속박할 필요가 없단 걸. 오히려 인형으로서의 내 능력을 제한시킬 뿐이란 걸.
+()||:이 세상엔 목숨보다 중요한 것이 있다.+언제부터인가 그걸 헷갈린 것이다.+살기 위해서 목숨을 아낀 것이 아니라, 무의미하기 죽지 않기 위해서 그랬던 것이다.
+xm3(0)<Speaker>XM3</Speaker>||:죽음은 그냥 죽음이야.+그건 누구한테다 다 똑같아.+중요한 건, 내 죽음이 누구에게 무엇을 가져다주느냐지.
+()||:인형이기에 "되살아날" 기회가 주어진다.+그렇기에 그 기회를 더욱 소중히, 더욱 감사해야 한다.+"무한한" 목숨을, 남이 거저 준 것으로 여겨선 안 된다.
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:......알았어.
+()||:XM3는 묵묵히 고개를 끄덕이곤 무기를 들었다.
+xm3(0)<Speaker>XM3</Speaker>||<SE1>AVG_weapon_reload</SE1>:모두, 식량 트럭을 사수한다! 그리고 반드시 살아남는다!+이 싸움이 끝나면 돌아가서 마인드맵 업그레이드를 받겠어!
+m500Mod(2)<Speaker>M500</Speaker>||:엑?! 야, 이럴 때 그런 위험한 플래그 세우지 마!
+IDWMod(0)<Speaker>IDW</Speaker>||<黑屏1>:냐하하하핫!! 보디가드는 나한테 맡기라냥!!
+()||<黑屏2><BIN>9</BIN><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:콰앙!
+xm3(3)<Speaker>XM3</Speaker>||:......
+xm3(2)<Speaker>XM3</Speaker>||<黑屏1>:<color=#A9A9A9>이게 정답이겠지...? AR15.</color>

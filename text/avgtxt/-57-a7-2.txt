@@ -1,0 +1,48 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>587</BIN><BGM>BGM_Saga_AVG_Dusk</BGM>:드리우는 황혼에 방 안은 황금빛에 감싸여, 조용하고 따뜻했다.+다만 마음이 편안한 이유는 어쩌면 함께 있는 사람 때문일지도 몰랐다.
+NPC-MizunoAi(0)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||:어서 와, 지휘관.
+NPC-MizunoAi(0)<Position>60,-250</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||:응, 다른 애들은?
+NPC-MizunoAi(0)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||:다들 각자 일로 바빠, 자유 시간이니까.
+NPC-MizunoAi(0)<Position>60,-250</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||:너도 이 시간엔 보통 조깅하러 가지 않아?
+NPC-MizunoAi(2)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||:그렇지, 근데 지휘관이 금방 올 것 같아서.+기다리던 중이었어.
+()<Speaker>지휘관</Speaker>||:날 기다렸다니, 무슨 일 있어?
+()<Speaker>미즈노 아이</Speaker>||:응, 지휘관한테 좀 하고 싶은 이야기가 있어서.
+()||<SE1>ClothingUp</SE1>:아이가 일어나자, 얼굴이 더욱 가까워졌다.
+NPC-MizunoAi(2)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||:내가 막 프랑슈슈가 되었을 땐... 엄청 무서웠어. 죽을 때의 끔찍했던 순간이 자꾸 떠오르기도 했고, 왜 되살아났는지, 어떻게 살아가야 할지 의문이었어.
+NPC-MizunoAi(0)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||:하지만 연습을 거듭하면서 깨달았어.+내가 어떤 존재가 됐든, 난 여전히 이 무대를 사랑한다는 사실을.
+NPC-MizunoAi(2)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||:예전엔 살아있는 한 마지막의 마지막까지 버텨야 한다고만 생각했어.+가장 빛나는 무대를 모두에게 선사하는 게 내가 계속 버틸 수 있는 동력이었지.
+NPC-MizunoAi(0)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||:하지만 이젠 그렇게 생각하지 않아. 좀 웃기긴 해도, 죽고 나서도 끝이 아니게 됐으니까.+어쩌면... 내 눈이 깜빡이는 한, 손과 발이 움직이는 한, 계속 버틸 거라 생각해.
+NPC-MizunoAi(0)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||:혹은, 어쩌면...+노래든 춤이든, 가르치든 배우든, 이기든 지든, 전부 내겐 고된 일이 아닐지도 몰라.+마음 고생을 하면서까지 견뎌야 하는 일이 아니라...+그냥, 전부 내가 즐기고 사랑하기 때문일지도 모르겠어.
+()<Speaker>지휘관</Speaker>||:음... 정말 좋은 얘기긴 한데, 왜 그걸 나에게...?
+()||:아이가 소리를 낮췄지만 더욱 결의에 찬 목소리로 물었다.
+NPC-MizunoAi(2)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||:지휘관은 매니저란 신분에 나만큼 열정이 있어?
+NPC-MizunoAi(2)<Position>60,-250</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||:나는...
+NPC-MizunoAi(0)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||:이렇게 묻는 건 좀 애매하려나? 그럼 질문을 바꿀게.+만약 프랑슈슈의 매니저로 남는 것과 그 그리폰이란 데로 돌아가 원래 일을 계속하는 것 중 하나만 선택하라면, 어떡할래?
+NPC-MizunoAi(0)<Position>60,-250</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||:그, 그건...
+NPC-MizunoAi(0)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||:대답, 할 수 있겠어?+딱 하나만 고를 수 있다면... 지휘관이야, 매니저야?
+()||<BGM>BGM_Empty</BGM>:......<c>A. 지휘관<c>B. 매니저
+()||<分支>1</分支>:꽤 한참을 고민한 끝에, 당신은 솔직하게 대답했다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支><BGM>2022_white_valentine_BGM2</BGM>:비록 거기가 평화롭고 따뜻한 세상은 아니지만...+만약 다시 선택하라 해도, 난 역시 내 동료들을, 내 "지휘관"이란 신분을 버릴 수 없어.
+NPC-MizunoAi(0)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||<分支>1</分支>:...스스로 무얼 바라는지 잘 알고 있구나.+그럼 됐어.
+()||<分支>2</分支>:꽤 한참을 고민하던 중, 당신은 당신이 떠나면 프랑슈슈가 어떻게 될까란 걱정이 들었다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支><BGM>2022_white_valentine_BGM2</BGM>:아마... 매니저로 남겠지.
+NPC-MizunoAi(1)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||<分支>2</分支>:거짓말 마!
+NPC-MizunoAi(1)<Position>60,-250</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||<分支>2</分支>:...!
+NPC-MizunoAi(1)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||<分支>2</分支>:스스로의 의지보다 우리가 더 도움이 필요해 보인다 생각하는 거야? 왜, 우리가 좀비라서?
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:난——
+NPC-MizunoAi(1)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||<分支>2</分支>:정말 그런 생각이라면... 난, 당신을 경멸할 거야. 당신의 이상도.
+NPC-MizunoAi(3)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||<分支>2</分支>:난 가끔씩 내게 있어 진정한 죽음이란 무엇인지 생각하곤 했어.+그리고 엄청 오래 고민한 끝에 겨우 답을 찾았지.+어느 날 계속 아이돌로서 살아갈 수 없게 됐을 때, 그때 나는 정말 죽는 거라고 결론을 내렸어.
+NPC-MizunoAi(1)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||<分支>2</分支>:그러니까 지휘관, 가야 할 곳으로 돌아가.
+()||:당신은 무심코 한숨을 쉬었다.
+()<Speaker>지휘관</Speaker>||:왜, 왠지 날 쫓아내려는 것 같다?
+NPC-MizunoAi(0)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||:응.+쫓아내려는 거야.
+NPC-MizunoAi(0)<Position>60,-250</Position><Scale>1.27</Scale><同时置暗><Speaker>지휘관</Speaker>||:어, 어째서?!+그동안 함께 많은 일을 겪었지만 네가 날 싫어한단 느낌은 안 받았는데!?
+NPC-MizunoAi(0)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||:당연히 당신이 싫거나 하진 않아.+싫기보단, 아마...+아무튼 그래서, 헤어지기 전에 선물이나 하나 주려고.
+()||<common_effect>%%code=Saga_Ai_item%%</common_effect>:아이가 불쑥 손수건에 싸인 네모난 물건을 건넸다.+풀어보니, 완전 새것인 반합이었다.
+()<Speaker>지휘관</Speaker>||<关闭蒙版>:응? 반합?+어, 이거 네가 평소에 쓰는 거랑 같은 거네?
+NPC-MizunoAi(2)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||:명품도 아니고 한정판도 아니고 특별한 것도 아니어서 미안하지만...+내게 있어 아이돌 활동이 숨쉬고 밥먹고 잠자는 것처럼 지극히 자연스러우면서도 절대 빠져서는 안 되는 거랑 똑같아.
+NPC-MizunoAi(0)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||:내가 알바할 때 갖고 다니는 거라, 항상 다른 애들이 꾹꾹 눌러 담아 준 응원과 열량으로 가득해.+대단한 보물 같은 것도 아니야. 하지만 조금씩 조금씩, 시간이 지나면서 떼려야 뗄 수 없게 된, 내 일부지.+당신에게 있어서도 지휘관 일은 마찬가지라 생각해. 그런 의지를 가지고 여기까지 온 거지?
+()<Speaker>지휘관</Speaker>||:응... 내 삶의 일부지.
+NPC-MizunoAi(0)<Position>60,-250</Position><Scale>1.27</Scale><Speaker>미즈노 아이</Speaker>||:그럼 잘 받아 줘.+내가 지휘관의 일을 도울 순 없겠지만... 사흘은커녕 일주일을 줘도 무리겠지만...+그래도, 이 마음으로 응원할게, 지휘관! 프랑슈슈의 매니저!
+()||:당신과 아이는 마주보며 활짝 웃었다.+환상의 팀워크에, 말은 불필요한 법이니까.
+()||<黑点1>:

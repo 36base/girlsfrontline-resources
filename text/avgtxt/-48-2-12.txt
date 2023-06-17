@@ -1,66 +1,66 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><BGM>BGM_Room</BGM><Night>:베란다 창문 밖의 야경은 무척 밝고, 담뱃불은 마치 반딧불이처럼 반짝였다.
-NPC-Bramedb(2)<Speaker>？？？</Speaker>||:후우~
-()<Speaker></Speaker>||:시선이 닿는 곳마다 갈라테아의 광고 포스터가 보였다.+잠시 야경을 감상하던 여인은, 다시 통화기를 들었다.
-NPC-Bramedb(2)<Speaker>？？？</Speaker>||<SE1>AVG_tele_connect</SE1>:여보세요~ 갈라테아의 자존심, 고귀하신 "미스 그레이"~? 요즘 잘 지내시나요~?
-NPC-MrsGray(4)<Speaker>그레이</Speaker><通讯框>;NPC-Bramedb(2)||:<color=#00CCFF>네가 먼저 연락하다니...</color>+<color=#00CCFF>별일이구나, 브라메드</color>
-NPC-MrsGray(4);NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:그쪽 길을 들켰어.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>;NPC-Bramedb(2)||:<color=#00CCFF>...알았다.</color>+<color=#00CCFF>그런데, 너도 시간을 너무 허비하는 것 아니냐?</color>
-NPC-MrsGray(0);NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:후우~ 그런가?+하지만 어떡해, 이쪽은 쉬지도 못하고 24시간 내내 일하는걸. 사무실에서 시원한 바람이나 쐬는 누구와는 다르게 말이야.
-NPC-MrsGray(4)<Speaker>그레이</Speaker>;NPC-Bramedb(2)||:<color=#00CCFF>너야말로 도움이 필요한 상황일 텐데.</color>
-NPC-MrsGray(4);NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:흥, 보스랑 연락이 끊기지만 않았어도 너한테 연락할 일 없었거든?+아무튼, 그럼 네 제단 만들어서 식전식후 계시를 바라는 기도를 올리면 될까?
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:<color=#00CCFF>헌데 이상하구나, 그 "길"은 분명 우리 둘만 알고 있을 텐데, 대체 어디서 정보가——</color>
-()<Speaker></Speaker>||:뒤에서 발소리가 들리기가 무섭게, "브라메드"란 이름의 여인은 트레이드 마크인 미소를 지으며 발소리의 주인공을 맞이했다.
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:물론, 통신기는 곧장 끄고 뒤로 숨기면서.
-NPC-Hopps(0)<Speaker>？？？</Speaker>||:요구한 염소 치즈다.
-NPC-Bramedb(0)<Speaker>브라메드</Speaker>||:후우~ 고마워 자기~
-()<Speaker></Speaker>||:......
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>229</BIN><SE1>AVG_tele_disconnect</SE1>:뚜뚜뚜...+통신이 끊어졌다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:......
-NPC-grig(0)<Speaker>？？？</Speaker>||:브라메드는 여전하군.
-()<Speaker></Speaker>||:이것 말고도 골칫거리가 산더미이건만, 성질을 긁는 상대의 태도에 그레이의 인상이 더욱 일그러졌다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:...그래도, 녀석이 건방진 것도 지금뿐이야.+그 "길"은 네가 수고해 주렴.
-NPC-grig(0)<Speaker>？？？</Speaker>||:알았다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>1</BIN><Night><BGM>BGM_Empty</BGM><SE1>AVG_keyboardtype_sci</SE1>:바닥을 킁킁대며 나타난 로봇 개가, 허름한 오두막 앞에 털썩 앉았다.
-KH2002(0)<Speaker>카이바르</Speaker>||:오, 여긴가? 꽤 신중하네~
-KH2002(0)<Speaker>카이바르</Speaker>||:...어, 뭐야? 아무도 없잖아?+어휴... 펠레, 너 계속해야겠다.
-()<Speaker>펠레</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:멍!
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>2</BIN><Night><BGM>BGM_Sneak</BGM>:독일 베를린의 어느 고속 도로변.
-()<Speaker></Speaker>||:꾸불꾸불한 고속 도로는 마치 똬리 튼 뱀처럼 산을 감고 있어, 도로변인데도 이따금씩 차량이 지나갈 때의 바람 소리도 들려왔다.+때문에 그때마다 소음에 묻히지 않도록, 다들 목청을 높여야 했다.
-()<Speaker>지휘관</Speaker>||:수색 개시. 사소한 것도 놓치지 말고 보고하도록.
-()<Speaker></Speaker>||:명령을 받은 AR팀은 산개해 주위를 이 잡듯 수색했다.
-UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>이 근방의 감시 카메라 전부 확인해봤는데... 다 망가졌어. 방식이 아주 프로야.</color>
-UMP45Mod(0)<Speaker>지휘관</Speaker>||:차량이 영문도 없이 사라질 순 없어.+그리고 고속 도로에 수작을 부렸다면, 분명 그 흔적이 있을 거야.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>흐음... 일단 교통부의 사건사고 기록에도 딱히 눈에 띄는 게 없는걸? 도로면에 급정거 흔적도 없고.</color>+<color=#00CCFF>이 구간의 도로를 통째로 정밀 스캔도 해봤지만 조립이나 분리 흔적도 없으니까, 대형 장치 같은 건 없을 거야.</color>
-UMP45Mod(0)<Speaker>지휘관</Speaker>||:지하라면?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>마찬가지야, 근방에 공사한 흔적도 없어.</color>
-UMP45Mod(0)<Speaker>지휘관</Speaker>||:...그렇다면, 도로 자체에는 문제가 없단 뜻이려나.+잘했어, 404는 계속해서 몰리도를 감시하면서 사주경계를 늦추지 마.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>네에~</color>
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>2</BIN><Night>:......+30분 후, AR팀의 모두가 지휘관 곁으로 복귀했다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:주변의 수색을 완료했습니다. 중소형 차량을 배제한 타이어 마찰 흔적과 미세 파편을 대조한 결과, 의심스러운 구간을 발견했습니다.+전방 0.5km의 순환 도로 후반 구간에서, 미세 파편의 복사 반응이 현저하게 감소했습니다.
-RO635Mod(0)<Speaker>지휘관</Speaker>||:무언가가 그곳을 통과하다 사라졌다... 그 화물 트럭일 가능성이 크군.
-RO635Mod(0)<Speaker>RO635</Speaker>||:네. 그리고 그 화물 트럭이 운송한 물건은 오염된 것일 가능성도 높습니다. 적어도, 화물칸의 차폐만으론 붕괴 입자의 누출을 막을 수 없을 정도로요.
-AR15Mod(0)<Speaker>AR15</Speaker>||:그리고, 이 테이프 조각은 그 구간에서 발견한 고농도 붕괴복사가 검출된 물건이에요.
-()<Speaker></Speaker>||:AR-15가 재질을 알아보기 힘든 검은 테이프 조각을 꺼내 보였다. 그런데, 그걸 본 SOP2가 화들짝 놀랐다.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:오오? 그거 나 본 적 있어!
-AR15Mod(0)<Speaker>AR15</Speaker>||:뭐어? 이걸 네가 어디서 봤다고 그래? 재질만 봐도 평범한 테이프가 아니야, 금속에 견줄 정도로 튼튼해.+이런 게 시중에 유통되진 않을 테니, 군용품일 가능성이 높아요.
-()<Speaker>지휘관</Speaker>||:그 차량에서 떨어진 거겠군. 슈타지가 상급 요원 두 명을 동원해서까지 찾으려 한 차량에 실렸던 물건이니, 결코 평범한 화물이 아닐 거야.+군수물자라면 아귀가 딱 맞아떨어져.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:아 진짜로 봤다니까!! 저번에 거기... 몰리도랑 같이 들어갔던 거기! 거기서 이런 테이프가 잔뜩 감긴 거 봤어!+그렇게 희한한 거였으면 창고에서 봤을 때 좀 가져올걸 그랬다!
-AR15Mod(0)<Speaker>AR15</Speaker>||:뭐...? 이아손의 상자를 회수했던 곳에서 이걸 봤다고?
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:응!
-()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_20Winter_Knife_Whoosh</SE1><common_effect>%%code=CJ_zidan%%</common_effect>:퍼즐 조각들이 서로 맞춰졌다.
-()<Speaker></Speaker>||<narrator>:화물 트럭, 갈라테아, 패러데우스, 군대...
-()||<黑屏1>:
-()<Speaker>지휘관</Speaker>||<黑点2><BIN>2</BIN><Night>:그 트럭이 운반하던 게 이아손의 상자다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:네!? 그럼 실종된 화물 트럭도 패러데우스와 관련됐단 말이세요?!
-()<Speaker></Speaker>||:그때, 아직 수색 중이던 M4A1에게서 통신이 들어왔다.
-NytoIsomer(11)<Speaker>M4A1</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>지휘관님.</color>+<color=#00CCFF>고속 도로에서 나가는 길을 찾아냈습니다.</color>
-NytoIsomer(11)<Speaker>지휘관</Speaker>||:뭐? 여긴 고속도로 외엔 다른 길이 없지 않아?
-NytoIsomer(11)<Speaker>M4A1</Speaker>||:<color=#00CCFF>겉보기엔 그렇죠, 직진 도로 둘에 순환 도로 하나. 하지만 그게 전부가 아니었어요.</color>+<color=#00CCFF>순환 도로 아래로 이어지는 도로 옆에, 오래된 폐광이 있습니다. 아주 은밀하게 숨겨져 있어요.</color>+<color=#00CCFF>운전 실력만 있다면 바로 차를 몰고 들어갈 수 있을 거에요.</color>+<color=#00CCFF>진입하는 길목도 잡초와 자갈로 자연스럽게 위장되어 있고요.</color>
-NytoIsomer(11)<Speaker>지휘관</Speaker>||:알았다, 당장 그쪽으로 갈게.
-NytoIsomer(11)<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>...조심하세요, 지휘관님.</color>+<color=#00CCFF>접근 중인 적대 신호가 포착됐습니다.</color>
-()||<黑点1><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>82</BIN><BGM>BGM_Room</BGM><Night>:베란다 창문 밖의 야경은 무척 밝고, 담뱃불은 마치 반딧불이처럼 반짝였다.
+NPC-Bramedb(2)<Speaker>？？？</Speaker>||:후우~
+()<Speaker></Speaker>||:시선이 닿는 곳마다 갈라테아의 광고 포스터가 보였다.+잠시 야경을 감상하던 여인은, 다시 통화기를 들었다.
+NPC-Bramedb(2)<Speaker>？？？</Speaker>||<SE1>AVG_tele_connect</SE1>:여보세요~ 갈라테아의 자존심, 고귀하신 "미스 그레이"~? 요즘 잘 지내시나요~?
+NPC-MrsGray(4)<Speaker>그레이</Speaker><通讯框>;NPC-Bramedb(2)||:<color=#00CCFF>네가 먼저 연락하다니...</color>+<color=#00CCFF>별일이구나, 브라메드</color>
+NPC-MrsGray(4);NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:그쪽 길을 들켰어.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>;NPC-Bramedb(2)||:<color=#00CCFF>...알았다.</color>+<color=#00CCFF>그런데, 너도 시간을 너무 허비하는 것 아니냐?</color>
+NPC-MrsGray(0);NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:후우~ 그런가?+하지만 어떡해, 이쪽은 쉬지도 못하고 24시간 내내 일하는걸. 사무실에서 시원한 바람이나 쐬는 누구와는 다르게 말이야.
+NPC-MrsGray(4)<Speaker>그레이</Speaker>;NPC-Bramedb(2)||:<color=#00CCFF>너야말로 도움이 필요한 상황일 텐데.</color>
+NPC-MrsGray(4);NPC-Bramedb(2)<Speaker>브라메드</Speaker>||:흥, 보스랑 연락이 끊기지만 않았어도 너한테 연락할 일 없었거든?+아무튼, 그럼 네 제단 만들어서 식전식후 계시를 바라는 기도를 올리면 될까?
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:<color=#00CCFF>헌데 이상하구나, 그 "길"은 분명 우리 둘만 알고 있을 텐데, 대체 어디서 정보가——</color>
+()<Speaker></Speaker>||:뒤에서 발소리가 들리기가 무섭게, "브라메드"란 이름의 여인은 트레이드 마크인 미소를 지으며 발소리의 주인공을 맞이했다.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:물론, 통신기는 곧장 끄고 뒤로 숨기면서.
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:요구한 염소 치즈다.
+NPC-Bramedb(0)<Speaker>브라메드</Speaker>||:후우~ 고마워 자기~
+()<Speaker></Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>229</BIN><SE1>AVG_tele_disconnect</SE1>:뚜뚜뚜...+통신이 끊어졌다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:......
+NPC-grig(0)<Speaker>？？？</Speaker>||:브라메드는 여전하군.
+()<Speaker></Speaker>||:이것 말고도 골칫거리가 산더미이건만, 성질을 긁는 상대의 태도에 그레이의 인상이 더욱 일그러졌다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:...그래도, 녀석이 건방진 것도 지금뿐이야.+그 "길"은 네가 수고해 주렴.
+NPC-grig(0)<Speaker>？？？</Speaker>||:알았다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>1</BIN><Night><BGM>BGM_Empty</BGM><SE1>AVG_keyboardtype_sci</SE1>:바닥을 킁킁대며 나타난 로봇 개가, 허름한 오두막 앞에 털썩 앉았다.
+KH2002(0)<Speaker>카이바르</Speaker>||:오, 여긴가? 꽤 신중하네~
+KH2002(0)<Speaker>카이바르</Speaker>||:...어, 뭐야? 아무도 없잖아?+어휴... 펠레, 너 계속해야겠다.
+()<Speaker>펠레</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:멍!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>2</BIN><Night><BGM>BGM_Sneak</BGM>:독일 베를린의 어느 고속 도로변.
+()<Speaker></Speaker>||:꾸불꾸불한 고속 도로는 마치 똬리 튼 뱀처럼 산을 감고 있어, 도로변인데도 이따금씩 차량이 지나갈 때의 바람 소리도 들려왔다.+때문에 그때마다 소음에 묻히지 않도록, 다들 목청을 높여야 했다.
+()<Speaker>지휘관</Speaker>||:수색 개시. 사소한 것도 놓치지 말고 보고하도록.
+()<Speaker></Speaker>||:명령을 받은 AR팀은 산개해 주위를 이 잡듯 수색했다.
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>이 근방의 감시 카메라 전부 확인해봤는데... 다 망가졌어. 방식이 아주 프로야.</color>
+UMP45Mod(0)<Speaker>지휘관</Speaker>||:차량이 영문도 없이 사라질 순 없어.+그리고 고속 도로에 수작을 부렸다면, 분명 그 흔적이 있을 거야.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>흐음... 일단 교통부의 사건사고 기록에도 딱히 눈에 띄는 게 없는걸? 도로면에 급정거 흔적도 없고.</color>+<color=#00CCFF>이 구간의 도로를 통째로 정밀 스캔도 해봤지만 조립이나 분리 흔적도 없으니까, 대형 장치 같은 건 없을 거야.</color>
+UMP45Mod(0)<Speaker>지휘관</Speaker>||:지하라면?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>마찬가지야, 근방에 공사한 흔적도 없어.</color>
+UMP45Mod(0)<Speaker>지휘관</Speaker>||:...그렇다면, 도로 자체에는 문제가 없단 뜻이려나.+잘했어, 404는 계속해서 몰리도를 감시하면서 사주경계를 늦추지 마.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:<color=#00CCFF>네에~</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>2</BIN><Night>:......+30분 후, AR팀의 모두가 지휘관 곁으로 복귀했다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:주변의 수색을 완료했습니다. 중소형 차량을 배제한 타이어 마찰 흔적과 미세 파편을 대조한 결과, 의심스러운 구간을 발견했습니다.+전방 0.5km의 순환 도로 후반 구간에서, 미세 파편의 복사 반응이 현저하게 감소했습니다.
+RO635Mod(0)<Speaker>지휘관</Speaker>||:무언가가 그곳을 통과하다 사라졌다... 그 화물 트럭일 가능성이 크군.
+RO635Mod(0)<Speaker>RO635</Speaker>||:네. 그리고 그 화물 트럭이 운송한 물건은 오염된 것일 가능성도 높습니다. 적어도, 화물칸의 차폐만으론 붕괴 입자의 누출을 막을 수 없을 정도로요.
+AR15Mod(0)<Speaker>AR15</Speaker>||:그리고, 이 테이프 조각은 그 구간에서 발견한 고농도 붕괴복사가 검출된 물건이에요.
+()<Speaker></Speaker>||:AR-15가 재질을 알아보기 힘든 검은 테이프 조각을 꺼내 보였다. 그런데, 그걸 본 SOP2가 화들짝 놀랐다.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:오오? 그거 나 본 적 있어!
+AR15Mod(0)<Speaker>AR15</Speaker>||:뭐어? 이걸 네가 어디서 봤다고 그래? 재질만 봐도 평범한 테이프가 아니야, 금속에 견줄 정도로 튼튼해.+이런 게 시중에 유통되진 않을 테니, 군용품일 가능성이 높아요.
+()<Speaker>지휘관</Speaker>||:그 차량에서 떨어진 거겠군. 슈타지가 상급 요원 두 명을 동원해서까지 찾으려 한 차량에 실렸던 물건이니, 결코 평범한 화물이 아닐 거야.+군수물자라면 아귀가 딱 맞아떨어져.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:아 진짜로 봤다니까!! 저번에 거기... 몰리도랑 같이 들어갔던 거기! 거기서 이런 테이프가 잔뜩 감긴 거 봤어!+그렇게 희한한 거였으면 창고에서 봤을 때 좀 가져올걸 그랬다!
+AR15Mod(0)<Speaker>AR15</Speaker>||:뭐...? 이아손의 상자를 회수했던 곳에서 이걸 봤다고?
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:응!
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_20Winter_Knife_Whoosh</SE1><common_effect>%%code=CJ_zidan%%</common_effect>:퍼즐 조각들이 서로 맞춰졌다.
+()<Speaker></Speaker>||<narrator>:화물 트럭, 갈라테아, 패러데우스, 군대...
+()||<黑屏1>:
+()<Speaker>지휘관</Speaker>||<黑点2><BIN>2</BIN><Night>:그 트럭이 운반하던 게 이아손의 상자다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:네!? 그럼 실종된 화물 트럭도 패러데우스와 관련됐단 말이세요?!
+()<Speaker></Speaker>||:그때, 아직 수색 중이던 M4A1에게서 통신이 들어왔다.
+NytoIsomer(11)<Speaker>M4A1</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>지휘관님.</color>+<color=#00CCFF>고속 도로에서 나가는 길을 찾아냈습니다.</color>
+NytoIsomer(11)<Speaker>지휘관</Speaker>||:뭐? 여긴 고속도로 외엔 다른 길이 없지 않아?
+NytoIsomer(11)<Speaker>M4A1</Speaker>||:<color=#00CCFF>겉보기엔 그렇죠, 직진 도로 둘에 순환 도로 하나. 하지만 그게 전부가 아니었어요.</color>+<color=#00CCFF>순환 도로 아래로 이어지는 도로 옆에, 오래된 폐광이 있습니다. 아주 은밀하게 숨겨져 있어요.</color>+<color=#00CCFF>운전 실력만 있다면 바로 차를 몰고 들어갈 수 있을 거에요.</color>+<color=#00CCFF>진입하는 길목도 잡초와 자갈로 자연스럽게 위장되어 있고요.</color>
+NytoIsomer(11)<Speaker>지휘관</Speaker>||:알았다, 당장 그쪽으로 갈게.
+NytoIsomer(11)<Speaker>M4A1</Speaker>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>...조심하세요, 지휘관님.</color>+<color=#00CCFF>접근 중인 적대 신호가 포착됐습니다.</color>
+()||<黑点1><BIN>10</BIN>:

@@ -1,0 +1,221 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Room</BGM>:......
+NPC-Ange(30)<Speaker>안나</Speaker>||:잠입 루트 참 기가 막히게도 골랐네...
+NPC-Ange(30)<Speaker>안나</Speaker><Shake>0.1</Shake>||<SE1>ClothingUp</SE1>:——<size=50>우웁!</size>
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||:천천히, 냄새는 금방 익숙해져.
+()<Speaker></Speaker>||<SE1>AVG_Slime_Movement</SE1>:안나와 람잔은 어두운 하수도를 포복 전진했다.+들리는 소리라곤 람잔의 의수가 파이프를 두드리는 경미한 소음뿐이었다.+하지만 이곳은 피비린내와 썩은내가 진동했고, 심지어는 뭔가 물컹물컹한 덩어리가 팔뚝에 닿기까지 했다.+그날, 베슬란 중학교의 체육관처럼.
+()||<黑屏1>:
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||<边框>2</边框><回忆><黑屏2><BIN>652</BIN>:작전 초기에, 너희는 반드시 적이 눈치채지 못한 상황에서 잠입을 시도해야 한다. 거동을 노출하는 그 어떤 행위든 후속 작전의 실패를 초래할 수 있지.
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||<边框>2</边框>:적이 너의 의도를 파악하기 전에 선제공격하면 더 큰 효과를 거둘 수 있지만, 놈들은 가만히 기다려 줄 바보가 아니다.+1초라도 더 늦게 발각당하고, 1초라도 상대의 반응을 지연시켜야만 한다.
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||<边框>2</边框>:이를 위해, 어떨 땐 끝까지 침묵해야 할 수도 있고, 또 어떨 땐 적절한 소동을 일으켜 적의 주의를 돌려야 할 수도 있다. 즉, 상황에 맞춰 임기응변하라는 소리다.
+()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_Creep</SE1>:훈련장에서 모래먼지를 자욱하게 일으키며, 학도들은 날카로운 철망 아래를 포복 전진으로 기어갔다.+젖 먹던 힘까지 다해 기어가다 숨을 헐떡이며 먼지를 한껏 들이켜 연거푸 기침을 하는 사람은 안나만이 아니었다.
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||<边框>2</边框>:적이 숨 돌릴 시간을 줄 것 같나! 호흡 조절하고! 계속 전진!
+NPC-Ange(24)<Speaker>안나</Speaker>||<边框>2</边框>:......
+()||<黑屏1><边框>2</边框>:
+()<Speaker></Speaker>||<BIN>9</BIN><关闭蒙版><黑屏2><SE1>AVG_Slime_Movement</SE1>:기억 속의 철망은 어두운 파이프로 변했고, 안나는 계속 나아갔다.+들어왔던 입구는 더는 보이지 않았고, 앞으로 얼마나 더 앞으로 가야 하는지도 알 수 없었다.+그렇게 얼마나 기어갔을까, 앞서가던 람잔이 갑자기 멈춰, 안나는 그의 군화 깔창에 얼굴을 들이받을 뻔했다.+몇 초가 넘게 람잔이 꼼짝도 않자, 안나는 최대한 음량을 낮춰 모기 같은 목소리로 물었다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:<size=25>뭐야?</size>
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||:<size=25>공장 안에 뭔가 있어.</size>
+NPC-Ange(29)<Speaker>안나</Speaker>||:<size=25>"사형수"의 본거지니까 뭐든지 있겠지.</size>
+NPC-Pamzan(5)<Speaker>람잔</Speaker>||:<size=25>그게 아니라, 뭔가 이끌림 같은 느낌이 나.</size>
+NPC-Ange(28)<Speaker>안나</Speaker>||:<size=25>하아? 저 안에 뭐 네 운명의 여인이라도 있단 거야 뭐야?</size>
+NPC-Ange(30)<Speaker>안나</Speaker><SE1>ClothingUp</SE1><Shake>0.1</Shake>||:<size=25>됐고, 나 토할 것 같으니까 빨리.</size>
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||:<size=25>도로 삼켜.</size>
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>327</BIN><黑屏2><SE1>AVG_Water_Drip</SE1>:똑... 똑...
+()<Speaker></Speaker>||<SE1>AVG_Wheelchair</SE1>:어디선가 떨어지는 물방울 소리 외엔 조용하던 창고에, 손수레 소리가 점점 가까워졌다.
+()<Speaker>병사?</Speaker>||:이따 교수 나가면 우리도 서둘러서 철수해야 해. 저 괴물들, 교수가 만든 진정제 없으면 발광하면서 눈에 보이는 걸 죄다 입에 쑤셔넣으려 들어.
+()<Speaker>병사의 동료?</Speaker>||:저것들... 복사감염증 걸린 거 맞지? 근데 어째 생긴 게 좀 다르다...?+교수가 연구한다는 게 대체 뭐길래?
+()<Speaker>병사?</Speaker>||:묻지 말고 그냥 시키는 대로만 해.+응? 잠깐. 킁킁... 이게 무슨 냄새지?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:하수도 안의 안나와 람잔은 벽에 바짝 붙어, 총을 쥐고 숨을 죽였다.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:가까워진 발소리는 거의 머리 바로 위에서 났다.
+()<Speaker>병사의 동료?</Speaker>||<SE1>Stop_AVG_loop</SE1>:무슨 냄새긴, 방독면도 저 썩은내는 못 막아.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Chains_Break</SE1>:그리고 경첩이 뻑뻑한 철문이 열리는 소리가 났다.
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:퉁... 퉁... 무언가가 잇따라 방 안으로 던져져 묵직한 소리를 냈다.
+()<Speaker>병사?</Speaker>||:오늘 재료는 불합격이 많네, 우웩... 빨리 가자.
+()<Speaker></Speaker>||<SE1>AVG_Wheelchair</SE1><SE1>AVG_door_elecport</SE1>:병사들은 손을 털고 나갔다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2>:......+잠시 후.
+()<Speaker></Speaker>||<SE1>AVG_Spanner</SE1><Shake>0.1</Shake>:끼익 소리와 함께 배수구의 덮개가 들어올려졌고, 의수 손바닥으로 바닥을 짚으며 람잔이 먼저 나왔다.
+()<Speaker></Speaker>||:방금 전의 소리를 따라, 안나는 그 철문을 찾았다. 그리고 문짝 위에 손바닥 만한 구멍이 있어, 안을 슬쩍 확인했더니...
+NPC-Ange(30)<Speaker>안나</Speaker>||:윅토르!?
+()<Speaker></Speaker>||:총상은 벌써 부자연스러운 피딱지로 막혔고, 핏자국 아래로는 규소화된 피부가 보이고, 회색빛 결정이 쭈그러든 뺨의 절반을 뒤덮은 몸뚱이.+눈도 감지 못하고 죽었던 윅토르는 여전히 두 눈을 부릅뜬 채 가장 위에 누워 있었다.+그리고 그 밑으로는 층층이 쌓인 인체들이 보였다. 각국의 제식 군복뿐만 아니라, 평범한 일상복까지 있었다.
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||:왜 하수도에 경비가 없나 했다...+만약 저... 괴물들이 돌아다니면, 누가 잡입하든 바로 토막날 거야.
+NPC-Ange(29)<Speaker>안나</Speaker>||<SE1>Rope</SE1>:괴물... 대체 누가 괴물일까.
+()<Speaker></Speaker>||:안나는 이를 갈았다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:...8분 남았어.
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||:"적절히 소동을 일으켜 적의 주의를 분산시킨다." 수수하지만 언제나 잘 먹히는 방법이지. 아직 기억해?
+NPC-Ange(29)<Speaker>안나</Speaker>||:몰라.+됐으니까 여기서 갈라지자고. 대충 어디 안전해 보이는 데로 가서 정보나 수집해.+난 내가 할 일 하러 갈게.
+()<Speaker>병사?</Speaker>||<SE1>AVG_Wheelchair</SE1>:아오 이 머저리야 아직 잔뜩 남았는데 수레를 두고 오면 어떡――하냐...?
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:투덜대며 들어온 병사가, 복도 끝에 서 있는 둘을 보곤 말을 멈췄다.
+()<Speaker>병사?</Speaker>||<BGM>10299</BGM><震屏3><SE1>RunStep</SE1>:<size=50>XX 격리 실패! 빨리 문 닫아!</size>
+NPC-Ange(29)<Speaker>안나</Speaker>||:...일부러야?
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||:아이고 들켰네, 가자고.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:문이 닫히기 1초 전, 안나는 몸을 던져 틈새로 빠져나와, 버튼을 마구 연타하는 병사의 발을 걸어 넘어뜨리고, 개폐 레버를 다시 올렸다.
+()<Speaker></Speaker>||<SE1>AVG_BaseDoor_Open</SE1>:그러자 차단문이 천천히 다시 입을 벌렸다.
+()<Speaker>병사</Speaker>||<SE1>ClothingUp</SE1>:격리 실패가 아니잖아! <size=50>습격이다!</size>
+()<Speaker></Speaker>||<SE1>Rope</SE1>:병사가 무전기의 송신 버튼을 누르기 직전에, 안나가 달라붙어 정확히 손목을 붙잡아 비틀었다.
+()<Speaker></Speaker>||<SE1>AVG_Stiff</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=3</controll_shake>:소름끼치는 소리와 함께 병사의 손목 관절이 힘없이 으스러졌고, 무전기는 바닥에 떨어졌다. 상황이 좋지 않자 그의 동료로 보이는 병사는 냉큼 뒤돌아 도망치려 했다.
+NPC-Pamzan(6)<Speaker>람잔</Speaker>||<SE1>Select</SE1>:비켜!
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1><SE1>AVG_Bullte_Ricochet</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:안나가 고개를 옆으로 치우자, 한 발의 총알이 차단문을 스치고 날아가 도망가던 병사의 허벅지에 명중했다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:"교과서 같은 잠입"?
+()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1><震屏3>:람잔은 그대로 달려가, 상대가 방아쇠에 손가락을 걸기도 전에 총구를 옆으로 차고 몸을 던졌다.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><SE1>Rope</SE1>:그렇게 뒤엉킨 두 사람은 바닥을 몇 바퀴 굴렀고...
+()<Speaker></Speaker>||<SE1>AVG_Combat_Hits</SE1><震屏3>:마침내 람잔이 팔다리로 관절기를 걸고, 의수로 작은 돌풍을 일으키며 병사의 머리를 내리쳤다.
+()<Speaker></Speaker>||:힘없이 축 늘어진 병사를 옆으로 던지며 일어난 람잔은 뺨에 피가 튄 얼굴로 씨익 웃었다.
+NPC-Pamzan(7)<Speaker>람잔</Speaker>||:"교과서 같은 격투기"는 덤이지.
+()<Speaker></Speaker>||<SE1>AVG_Punch</SE1><震屏3>:안나는 눈알을 굴리고, 자신이 제압한 병사의 머리에 주먹을 한 대 더 박곤 영어로 심문했다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:말해, 진정제 투여는 어떻게 멈추지?
+()<Speaker>병사</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:병사는 입을 꾹 다물고 찍 소리도 않았지만, 시선만큼은 무의식적으로 안나의 뒤로 향했다.
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:안나가 고개를 돌리자 병사는 틈을 놓치지 않고 박치기를 날려 안나를 밀어내고, 제압에서 풀려나자마자 무전기로 몸을 던졌다.
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:타앙!
+()<Speaker></Speaker>||<SE1>AVG_Bullet_Hit_Body</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=4</controll_shake>:피가 터지고, 병사가 축 늘어지는 것 본 뒤에야 람잔은 총구를 거뒀다.
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||:방아쇠를 당길 땐 주저하지 말 것.
+NPC-Ange(29)<Speaker>안나</Speaker>||:사람도 아닌 짐승한텐 주저 안 해.
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:안나는 바로 쓰러진 병사를 버리고 조작 패널을 만졌다. 방금 그 병사의 신분 인증이 아직 유효했다.
+()<Speaker></Speaker>||<SE1>AVG_Card_Reader</SE1><SE1>AVG_BaseDoor_Close</SE1>:삐익.+<color=#FFFF00>【진정제 밸브 잠금】</color>
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_SCARH3</SE1>:그 사이, 람잔은 쓰러진 적병들의 몸을 뒤져 총과 탄창을 챙기고 안나에게도 한 자루 건넸다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_Card_Reader</SE1>:<color=#FFFF00>【각성제 밸브 열림】</color>
+()<Speaker></Speaker>||<SE1>AVG_Card_Reader</SE1><SE1>AVG_BaseDoor_Open</SE1>:<color=#FFFF00>【1호 재료실 개방】</color>
+()<Speaker></Speaker>||<SE1>AVG_Card_Reader</SE1><SE1>AVG_BaseDoor_Open</SE1>:<color=#FFFF00>【2호 재료실 개방】</color>
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1><SE1>AVG_Dismember</SE1>:잠시 후, "재료"들이 서서히 깨어났다. 생전 마지막 표정으로 굳은 몸을 비틀면서, 그들은 바닥을 기고 두 발로 걸으며 복도로 몰려나오기 시작했다.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:그때, 바닥의 무전기에서 소리가 났다.
+()<Speaker>무전기에서 나는 소리</Speaker>||:<color=#00CCFF>얌마! 누가 지금 재료실 문 열으래!?</color>+<color=#00CCFF>이봐? 여보세요! 또 어따 토――</color>
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Phone_Crash</SE1><震屏3>:람잔이 발을 들어 무전기를 짓밟아 부쉈다.+복도 끝에서부터 서로를 밀치며 다가오는 산 송장들을 바라보니, 윅토르와 세 운전병들도 끼어 있었다.+다만 그들은 모두 짐승의 본능대로 서성이며, 그저 소리가 나는 방향으로 다가가려 할 뿐이었다.
+NPC-Pamzan(7)<Speaker>람잔</Speaker>||<SE1>AVG_weapon_reload</SE1>:총알 한 발은 아껴 둬라... 우리가 실패하거나, 아니면...
+NPC-Ange(28)<Speaker>안나</Speaker>||:피차양반이지.
+()<Speaker></Speaker>||:안나는 아직도 생생한 과거의 전우들을 봤다.
+NPC-Ange(28)<Speaker>안나</Speaker>||:이것도 어떻게 보면 함께 싸우는 것일까?
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:그때, 위층에서 고함과 발소리가 들려왔다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:...일부는 내려오는 중이고, 일부는 더 위로 올라갔네. 2층... 아니, 3층?
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||:이런 상황에서 놈들은 분명 그 "교수"란 작자부터 최우선으로 지키려 하겠지. 그러니... "사형수"는 저 위 어딘가에 있다.+기회는 단 한 번뿐이야.
+()<Speaker></Speaker>||<SE1>Select</SE1><BGM>BGM_Empty</BGM>:철컥.
+NPC-Ange(29)<Speaker>안나</Speaker>||:그럼... 참수 작전, 개시.
+()<Speaker></Speaker>||<BGM>10301</BGM><SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=8</controll_shake>:안나와 람잔은 계단으로 돌입, 구불구불한 통로를 빠르게 타고 위로 올랐다.
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1><震屏3>:그런 와중에도 람잔은 몸을 기울여 저 위의 적 병사를 쐈고,
+()<Speaker></Speaker>||:그 병사는 그대로 고꾸라져 안나의 눈앞에 철퍽 떨어졌다.
+NPC-Pamzan(6)<Speaker>람잔</Speaker>||:3층으로!
+()<Speaker>병사</Speaker>||<SE1>AVG_Team_Running</SE1>:<size=50>습격이다! 교수를 보호해라!</size>
+()<Speaker></Speaker>||:무수한 발소리가 아랫층에서 들려왔다.
+()<Speaker>밑에서 나는 소리</Speaker>||:비상!! 괴물들이 빠져나왔다!!
+()<Speaker>밑에서 나는 소리</Speaker>||<SE2>Gunfight</SE2>:<size=50>으아아아아악!!</size>
+NPC-Pamzan(6)<Speaker>람잔</Speaker>||:올라가!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>395</BIN><SE1>RunStep</SE1>:두 사람은 몇 초만에 통로에서 3층 복도로 나왔다.+밑에서부터 들려오는 고함과 비명은 점점 커져 갔고, 괴물들의 울부짖음도 어림잡아 2층에서 나는 듯했다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:복도에 엄폐물은 없어, 강행돌파해야 해.
+()<Speaker></Speaker>||:안나는 람잔과 눈빛을 교환하고 고개를 끄덕였다.
+NPC-Pamzan(5)<Speaker>람잔</Speaker><Shake>0.1</Shake>||<SE1>ClothingUp</SE1>:윽! 어... 자, 잠깐만!
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>:쾅!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=8</controll_shake>:문이 활짝 열리더니, 총알이 빗발쳤다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:안나는 재빨리 다시 문 뒤로 숨어야만 했다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:<size=50>여기서 뭔데!?</size>
+NPC-Pamzan(5)<Speaker>람잔</Speaker>||:......
+()<Speaker></Speaker>||:람잔은 어딘가 피로한 기색이면서 이상하게 더 입을 열질 않았다.
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1><SE2>Gunfight</SE2>:칵칵칵 이빨을 부딪히는 소리는 이제 계단을 타고 올라오기 시작했다.
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:그리고 복도 반대편에서도 황급히 달려오는 소리가 났고, 이윽고 모습을 드러낸 적 병사 4명이 곧장 이쪽으로 총을 들고 방아쇠를 당기며 다가왔다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:젠장 시간 없는데...!+엄호!
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=5</controll_shake><SE1>AVG_rifle_finalshot_3h</SE1>:안나는 다시 몸을 굴려 바닥에 엎드리고 복도를 향해 방아쇠를 마구 당겼다.
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_Gunpast</SE1>:총알 한 발이 안나의 정수리 바로 위를 슉 스친 대신, 복도 반대편의 병사 둘은 뒤의 벽에 피로 그림을 그렸다.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:람잔과 나머지 병사 두 명은 동시에 방아쇠를 당겼고, 총알은 교차했다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:람잔!
+()<Speaker></Speaker>||<震屏3><SE1>AVG_XXS_kick</SE1>:두 놈은 똑같이 쓰러졌다.
+()<Speaker></Speaker>||<SE1>AVG_Bullet_Hit_Body</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:그리고 한 발, 딱 한 발이 람잔의 가슴에 명중해, 그는 몇 걸음 물러나다 그대로 바닥에 쓰러졌다.
+NPC-Ange(30)<Speaker>안나</Speaker>||:람잔!!!
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:비명에 가까운 고함을 지르며, 안나는 황급히 그를 끌어당겼다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:하늘도 무심한 걸까, 그와 동시에 복도 끝의 문이 다시 활짝 열리면서 안에서 또 4명의 적 병사가 나와 문앞에 포진했다.
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:그들이 쏴 갈기는 총알 세례는 그물을 이루어, 고작 몇 m 거리임에도 난공불락의 관문이 되어버렸다.
+()<Speaker>병사?</Speaker>||<SE1>AVG_tele_connect</SE1>:수송기 언제 도착해?! 적이 코앞이라고!
+()<Speaker></Speaker>||:놈들 중 하나의 무전기에서 성질이 단단히 난 고함 소리가 났다.
+()<Speaker>무전기에서 나는 소리</Speaker>||:<color=#00CCFF>ETA 120초!</color>+<color=#00CCFF>XX 괴물이 너무 많아서 올라갈 수가 없어!</color>
+()<Speaker>병사?</Speaker>||:수류탄이든 무반동포든 있는대로 쏴! 기어서라도 올라와! 교수한테 무슨 일이라도 생기면 죽는 걸로 안 끝나!
+()<Speaker></Speaker>||<SE1>Rope</SE1>:벽 뒤에서, 안나는 절박한 심정으로 람잔의 총상을 꾹 눌렀다.
+NPC-Ange(30)<Speaker>안나</Speaker>||:이 한심한 자식아, 몇 발짝만 더 가면 되는데...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:보랏빛 눈동자가 흐려졌다 맑아지기를 반복하며, 람잔의 동공은 점점 풀려 갔다.
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:신기할 정도로 다양한 군복들을 입고, 사지가 뒤틀린 괴물들은 이제 복도를 따라 다가오고 있었다.+안나에게 그들 얼굴의 주름과 손톱 사이에 낀 피가 선명하게 보일 정도로 가까이.
+()<Speaker></Speaker>||<SE1>AVG_Gatling_gun</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:계단 아래서 이번엔 굉음이 들렸다. 아무래도 놈들의 무전대로 중화기까지 동원하는 모양이었다.
+NPC-Ange(31)<Speaker>안나</Speaker>||:..."적의 수비가 가장 취약한 지점을 돌파해, 최단 시간 내에 목표에게 접근해 신속히 전투를 끝낸다."
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:안나는 람잔에게서 손을 떼고, 마지막 남은 탄창을 교체했다.
+NPC-Ange(29)<Speaker>안나</Speaker>||:이대로 뛰어드는 게 미친 짓인 건 알아... 하지만 이제 다른 수가 없어.+...곧 다시 보자고 짜식들아.
+()<Speaker></Speaker>||:비리고 썩은내가 코끝에 닿았다, 괴물들은 안나의 2m 앞까지 다가왔다. 살아있는 사람의 기운이 그들을 흥분시켰다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:안나는 그들을 무시하며 몸을 굽히고, 마지막 질주를 할 준비를 마쳤다.
+()<Speaker></Speaker>||<SE1>Rope</SE1><BGM>BGM_Empty</BGM>:하지만 그 순간, 무언가가 안나의 발목을 덥석 붙잡았다.
+NPC-Ange(30)<Speaker>안나</Speaker>||:――?!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:쓰러졌을 터였던, 벌겋게 충혈된 눈을 다시 뜬 람잔이었다.
+NPC-Ange(30)<Speaker>안나</Speaker>||:람잔!?
+()<Speaker></Speaker>||<SE1>AVG_Stiff</SE1>:안나의 발목을 붙잡은 채로, 람잔은 굳어 가는 몸을 천천히 일으켰다. 가슴팍에 박혔던 총알은 이미 규소화된 근육에 밀려 저절로 뽑혀 나오는 게 보이기까지 했다.
+NPC-Ange(30)<Speaker>안나</Speaker>||:복사감염증...!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:폭격으로 손상된 방호복, 공장 밖에서의 느닷없는 재회, 그답지 않게 피하지 못한 팔꿈치, 하수도에서 느꼈다던 이상한 "이끌림"...+안나는 방아쇠에 손가락을 걸은 채 손을 덜덜 떨었다.
+()||<黑屏1>:
+NPC-Pamzan(7)<Speaker>람잔</Speaker>||<BIN>327</BIN><黑屏2><回忆><边框>2</边框>:총알 한 발은 아껴 둬라... 우리가 실패하거나, 아니면...
+()||<黑屏1><边框>2</边框>:
+NPC-Ange(31)<Speaker>안나</Speaker>||<BIN>395</BIN><关闭蒙版><黑屏2>:그게... 그런 의미였어...?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:안나는 힘없이 총구를 떨궜다. 괴물들이 바닥과 벽을 할퀴며, 이빨을 딱딱거리며 몰려오는 광경을, 가만히 지켜만 보았다.
+()<Speaker></Speaker>||:람잔도 손을 천천히 들어올렸다.
+NPC-Pamzan(8)<Speaker>람잔</Speaker>||<BGM>BGM_23S_Expedition_Story</BGM><controll_shake>%%type_id=2%%duration=5%%delay=0.1%%range=8</controll_shake><SE1>AVG_Stiff</SE1>:<size=50>크오오오오!!!</size>
+()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1><震屏3>:그런데 방향이 달랐다. 갑자기 처절하게 울부짖더니, 람잔은 그대로 뒤로 돌아 몰려온 괴물들을 쳐냈다.
+()<Speaker></Speaker>||<SE1>AVG_Dismember</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=8</controll_shake>:야수처럼 물어뜯고 포효하며, 그는 사방으로 반쯤 규소화된 살점과 옷조각을 흩뿌렸다.
+NPC-Ange(30)<Speaker>안나</Speaker>||:람잔?
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:람잔이 다시 한번 포효하자, 이번엔 괴물들이 지시를 받은 군인마냥 일제히 복도 반대편으로 돌진했다.+아래턱은 피범벅에 눈에는 초점이 사라진 람잔은, 안나의 부름에도 전혀 반응하지 않았다.
+NPC-Ange(30)<Speaker>안나</Speaker>||:람잔...
+()<Speaker>병사?</Speaker>||<SE1>Select</SE1>:괴물들이 온다! 빨리 쏴!
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:다시 총탄이 빗발쳤지만, 규소화가 진행된 몸뚱이를 상대로 그들의 소규경 탄환은 영 효력을 발휘하지 못했다.
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:안나는 람잔을 뒤따랐고, 우르르 몰려가는 괴물들이 시야를 가려 오직 적 병사들의 비명만 들렸다.
+()<Speaker>병사?</Speaker>||<SE2>Gunfight</SE2><SE1>AVG_Dismember</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=8</controll_shake>:<size=50>으아아아아악!!!</size>
+()<Speaker></Speaker>||:비명, 총성, 울음소리, 죽어가는 신음소리...
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:안나는 람잔의 옆에 서서 한 걸음씩, 복도 끝의 문까지 나아갔다.
+()<Speaker></Speaker>||<SE1>AVG_Robots_Floor</SE1><震屏3>:이제 문 앞에는 안나 외에 살아있는 "사람"은 없었고, 괴물들은 안나를 무시하고 굳게 닫힌 문을 마구 할퀴고 들이받았지만 소용이 없었다.
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:그런데 문득, 계단 쪽에서 괴물의 것이 아닌 발소리가 났다.
+()<Speaker></Speaker>||<SE1>AVG_Explosion</SE1>:이를 깨달은 안나가 고개를 돌렸을 땐 너무 늦어, 이미 로켓포가 날아든 뒤였다.
+()<Speaker></Speaker>||<BIN>183</BIN><BGM>BGM_Empty</BGM>:콰아앙!!
+()||<白屏1>:
+()<Speaker></Speaker>||<白屏2><BIN>395</BIN><SE1>AVG_Cloak_Whoosh</SE1>:열폭풍에 휩쓸리기 직전, 안나는 무언가가 자신의 등을 감싼 느낌이 들었다. 그날, 그때의 안전 케이스처럼 자신을 완전히 가려 주는 느낌이 들었다.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Door_Hit</SE1>:막대한 충격파가 복도를 휩쓸었고, 그 때문에 닫힌 문도 박살나다시피 하며 열렸다.
+NPC-Pamzan(9)<Speaker>람잔</Speaker><Shake>0.1</Shake>||<SE1>AVG_Stiff</SE1>:......
+NPC-Ange(29)<Speaker>안나</Speaker>||:<size=50>람자안!!!</size>
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:고스란히 받아내어 등가죽이 거의 다 벗겨진 채로, 람잔은 찢어진 걸레처럼 바닥에 고꾸라졌다.
+()<Speaker>람잔</Speaker>||:............헷.
+()<Speaker></Speaker>||:웃음인지 바람인지 모를 목소리를 끝으로, 작은오빠는 움직이지 않았다.
+()<Speaker>？？</Speaker>||<SE1>AVG_tele_connect</SE1>:난 아직 괜찮아. 비행기는 아직 안 왔지만... 음?
+()<Speaker></Speaker>||:문이 열리며 드러난 발코니의 창가에서 말을 하던 여자는 목소리가 무덤덤하고, 차갑고, 말꼬리에서 약간 쉰소리가 났다.
+()<Speaker></Speaker>||<SE1>Select</SE1><SE1>ClothingUp</SE1>:람잔에게 한소리 할 새도 없이, 안나는 냉큼 뒤돌아 목소리의 주인에게 총구를 겨눴다.+하지만 바로 방아쇠를 당기지 못했고, 충격으로 동공이 수축했다.
+NPC-Ange(30)<Speaker>안나</Speaker>||:마사... 선생님!?
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>643</BIN><黑点2><BGM>BGM_23S_War_Sacrifice</BGM>:창가에 쏟아지는 태양빛을 받으며 서 있는 저 자의 두 눈은 차가웠다.+태양빛이 그녀의 뺨 반쪽을 비추는데도, 전혀 따스하지 않았다.
+()<Speaker>마사</Speaker>||:설마, 이런 식으로 재회하게 될 줄이야...+...안나.
+()<Speaker>안나</Speaker>||:"사형수"가... 당신이었어?
+()<Speaker>마사</Speaker>||:...응.
+()<Speaker>안나</Speaker>||:당신이 이런 정신 나간 연구를 하고 있었어?
+()<Speaker>마사</Speaker>||:...응.
+()<Speaker>안나</Speaker>||:......왜?
+()<Speaker>마사</Speaker>||:아무리 설명한들 우리의 입장은 바뀌지 않아. 아니, 어쩌면 처음부터 정해져 있었을지도.+그래, 이 인간들의 세상에서, 우린 항상 정반대편에 서 있었어.
+()<Speaker>안나</Speaker>||:악마한테 영혼이라도 팔았어...?
+()<Speaker>마사</Speaker>||:그럴 리가. 난 내 영혼을 누구에게도 판 적 없어.
+()<Speaker>안나</Speaker>||:그럼 뭔데... 대체 뭐가 당신을 그렇게 바꿨어?!
+()<Speaker>마사</Speaker>||:내가 변한 걸까? 그냥 네가 내 참모습을 짐작 못했을 뿐일 수도 있지.
+()<Speaker>안나</Speaker>||:......못 믿어.+그 테러 때문이지?
+()<Speaker>안나</Speaker>||:그때 네가 사나를 잃었단 거 알아...+하지만, 나도 그때 똑같이 내 가족을 잃었어...
+()<Speaker>안나</Speaker>||:...우린 똑같다고 생각했는데.+그런데... 아니었구나.
+()<Speaker>마사</Speaker>||:내가 너희를 원망하는 것처럼 보여?+아니야, 안나... 나는 아무도 원망하지 않아.
+()<Speaker>마사</Speaker>||:베슬란 경비단이 해산되지 않았으면, 아마 그 테러도 일어나지 않았을지도...+그런데 다 따지고 보면, 애초에 내가 거기에 가질 말았어야 했지.
+()<Speaker>안나</Speaker>||:......
+()<Speaker>마사</Speaker>||:...방금 말했지? 넌 애초부터 날 제대로 알지도 못했어.+나는 딱히 어떤 일을 겪어서 변한 게 아니야.
+()<Speaker>안나</Speaker>||:이름 날리던 유적 기술 연구자인 당신이 베슬란 중학교의 교사로 왔던 건...+이런... 비윤리적인 실험을 해서였어?
+()<Speaker>마사</Speaker>||:......+<color=#99FF99>【나는 동물이다. 그건 너도 잘 알겠지.</color>+<color=#99FF99>허울 좋은 소리는 할 줄 몰라, 누구도 나한테 그런 말을 가르친 적 없으니까.</color>+<color=#99FF99>생각하는 법도 나는 잘 몰라, 그 망할 놈들이 내가 생각하는 법을 배우게 두지 않았으니까.</color>+<color=#99FF99>만약 내가 정말로... 전지전능한 라플라스의 악마라면, 너는 자연스레 알게 되겠지!】</color>
+()<Speaker>안나</Speaker>||:웃기지도 않네... 그게 당신이 《노변의 피크닉》에서 배운 거야?
+()<Speaker>마사</Speaker>||:더 할 말은 없어.
+()<Speaker>안나</Speaker>||:.....+삶이 결국 덧없을 운명이라면, 몸부림에 무슨 의미가 있을까?
+()<Speaker>마사</Speaker>||:인류의 첫 전쟁부터 우리의 마지막 가슴 아픈 노력에 이르기까지, 할 수 있는 일이라곤 오직 자살뿐이니.
+()<Speaker>안나</Speaker>||<SE1>AVG_weapon_reload</SE1>:......
+()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM><SE1>AVG_rifle_finalshot_h</SE1>:타앙!!!
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||:세상 모든 사람들이 행복하고, 즐겁고, 자유롭기를.+모두가 자신의 소원을 이루기를!+이게 결말일까?+그래, 이게 결말이야.
+()<Speaker></Speaker>||<SE1>AVG_Rain_Heavy</SE1><common_effect>%%code=NoiseVideo%%wait=1%%</common_effect>:
+()<Speaker>？？？？</Speaker>||<BIN>641</BIN><白屏2><SE1>Stop_AVG_loop</SE1>:기억을 몇 번이고 잃어도, 곁의 인물이 어떻게 바뀌어도, 너는 언제나 네 결정을 결코 바꾸는 법이 없구나.+과연 내 제자야.
+()<Speaker>？？？</Speaker>||:당신은 그녀에 대해 좀 모르는 것 같네요.
+()<Speaker>？？？？</Speaker>||:어쩌면 그럴지도. 하지만 소위 가르침이란, 그 짧은 시간에 묶인 것이 아니야. 한두 마디뿐이더라도, 서로의 인생에 확실한 흔적을 퍼뜨리거든.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>655</BIN><narrator><黑屏2>:친애하는 마이트너에게.+제가 기존의 "성배" 위에 새로운 걸 추가했습니다. 이제 작동하는 건 확실해요.+하지만 에너지 소모율이 막대해요, 이건 일개 실험실이 감당 가능한 수준이 아니에요.+그리고, 비록 사나의 데이터를 이식하는 건 성공했지만... 수술 자체는 이상적이지 않아요.+저는 도저히, "그것"을... 사나로 보질 못하겠어요.+최선을 다했지만, 결국 실패했어요. 애초에, 이건 윤리에 어긋나는 수술이었다고요...+그러니 마사 선배, 이만 포기하세요. 인간의 능력에는 결국 한계가 있는 법이고, 사나는 이미 세상을 떠났어요.+산 자의 목숨을 죽은 자에게 붙일 수는 없어요. 이건 우리의 협력 원칙에도 위배돼요.+2051년 베를린에서, 블랙웰이.
+()||<黑点1>:

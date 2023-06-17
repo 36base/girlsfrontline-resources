@@ -1,0 +1,184 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>515</BIN><黑屏2><BGM>GF_EV9_Story</BGM>:활기차고 시끌벅적한 저녁.+지휘관은 등불로 눈부신 축제 장터를 따라 걷는 중이었다.
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:길가에 시선을 스칠 때, 뭔가 수상한 그림자가 AA-12의 점포에 숨어들었다.
+()<Speaker>지휘관</Speaker>||:...많이 익숙한 뒷모습인데.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:혹시 모르니 주변을 먼저 살핀 다음, 지휘관은 슬그머니 그 점포의 반대편으로 가 천막을 살며시 들었다.
+G28(4)<Speaker>？？？</Speaker><Position>0,130</Position>||:G36 언니——!
+()<Speaker></Speaker>||:그러자 거리의 등불에 그림자의 얼굴이 드러났다. G36을 부르며 허겁지겁 달려온 G28이었다.+그런데 어찌 된 영문인지, G36은 퀭한 눈으로 통나무처럼 굳어버린 AA-12를 부축하고 있었다.
+G36(8)<Speaker>G36</Speaker>||:G28...? 왜 벌써 왔죠?+어쨌든 마침 잘 왔어요, AA-12 씨가 소체 고장을 일으킨 것 같으니 저 좀 도와――
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>;G36(8)||:아아 그거라면 걱정 마 언니야, 나 때문에 시스템이 잠시 다운됐을 뿐이니까.
+G28(4)<Position>0,130</Position>;G36(8)<Speaker>G36</Speaker>||:...당신 짓이었어요?
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>;G36(8)||:응! ...아.+언니야 그렇게 무섭게 노려보지 마! 이것도 다 그럴 만한 이유가...!
+G28(4)<Position>0,130</Position>;G36(8)<Speaker>G36</Speaker>||:그게 뭔데요?
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>;G36(8)||:어... 아아니 지금은 그걸 따질 때가 아니지!+언니야, 그 일의 진상을 알고 싶은 거 아니었어? 빨리 AA-12의 마인드맵에 연결해!
+G36(8)<Speaker>G36</Speaker>||:윽... 하지만 정말 그리 해도 될지...
+()<Speaker></Speaker>||:"마인드맵에 연결한다"는 소리를 들은 지휘관은 바로 눈살을 찌푸리며 둘 앞에 모습을 드러냈다.
+()<Speaker>지휘관</Speaker>||:지금 뭐하는 거야?
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position><Shake>0.1</Shake>||:으엑 지지지지휘관?!
+()<Speaker></Speaker>||:G28은 화들짝 놀라 눈을 마구 굴리며 G36과 다운된 AA-12를 곁눈질했다.
+()<Speaker>지휘관</Speaker>||:당사자나 상급자의 허가 없이 마인드맵에 접속하는 건 규정 위반이야.
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||:미, 미안해 지휘관! 그치만 나쁜 의도가 아니라...!
+G36(17)<Speaker>G36</Speaker>||:주인님, 이건 전적으로 제 책임입니다. G28은 관계 없습니다.
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||:으엑, G36 언니...?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:G36이 한 걸음 나서 공손히 허리를 숙이곤, 손을 뻗어 G28을 곁으로 끌어당겼다.
+()<Speaker>지휘관</Speaker>||:전적으로 네 책임이다...?
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||:<size=50>아니야!</size>
+()<Speaker></Speaker>||:G28이 참지 못하고 격앙된 목소리로 지휘관 앞에 달려들었다.
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||:아니야 지휘관, 이 일은 G36 언니랑은 아무 관계 없어! 다... 다 내가 꾸민 일이야!+하, 하지만 이유가 있어! 제발 나를 믿어 줘...
+()<Speaker></Speaker>||:G28은 눈물을 글썽이며 눈빛으로 지휘관에게 호소했다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:............
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><回忆><边框>2</边框><BIN>163</BIN><BGM>GF_Cafe</BGM>:약 20분 전.+해변에 설치된 간이 주방.
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||<边框>2</边框><Shake>0.1</Shake>:<size=50>언니언니언니 생크림 너무 많이 짰어!!</size>
+G36(8)<Speaker>G36</Speaker>||<边框>2</边框>:앗... 죄송합니다.
+()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_tableware</SE1>:실수했음을 깨달은 G36이 인상을 팍 쓰고선 엉망이 된 생크림 데코레이션을 침착하게 주걱으로 긁어냈다.
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||<边框>2</边框>:언니... 무슨 고민이라도 있어?
+G28(4)<Position>0,130</Position>;G36(8)<Speaker>G36</Speaker>||<边框>2</边框>:...개인적인 사소한 일입니다.+일하는 중에 딴 생각이나 하다니, 정말 죄송합니다.
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||<边框>2</边框>:에이 내가 왜 언니한테 한소리하려 하겠어!+그러니까 내 말은... 기분 별로거나 그러면 잠시 쉬거나 나한테 고민 털어놔 보는 건 어때?+어쩌면 내가 도와줄 수도 있잖아?
+()<Speaker></Speaker>||<边框>2</边框><SE1>ClothingUp</SE1>:필요없는 마지막 크림 덩어리를 그릇으로 옮기고 주걱을 내려놓는 G36은 조금 우울한 기색이었다.
+G36(8)<Speaker>G36</Speaker>||<边框>2</边框>:...확실히, 좀처럼 풀리지 않는 의문이 있습니다.
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||<边框>2</边框>:응 응! 내가 들어 줄게!
+()<Speaker></Speaker>||<边框>2</边框>:G36은 가볍게 한숨을 쉬고 양손으로 테이블을 짚었다.
+G36(8)<Speaker>G36</Speaker>||<边框>2</边框>:오늘 오후에 있었던 "라이칸의 성역" 게임, 기억하죠?
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>;G36(8)||<边框>2</边框>:응 응 응! 언니가 [큐피드]였지?
+G28(4)<Position>0,130</Position>;G36(8)<Speaker>G36</Speaker>||<边框>2</边框>:네... 그런데 첫날 밤, 바로 늑대인간 팀에게 당했죠.+바로 그것이 조금 신경쓰입니다.
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>;G36(8)||<边框>2</边框>:엑, 그런 일로...?+아하하, 너무 신경쓰지 마 언니야! 그런 팀전에서 상대 죽이는 건 웬만해선 대충 고르는 거니까 딱히 의미랄 것도 없어.
+G28(4)<Position>0,130</Position>;G36(8)<Speaker>G36</Speaker>||<边框>2</边框>:저도 처음엔 그리 생각했어요.+그런데 아까, 95식 씨가 제가 죽은 건 우연이 아니었다더군요.+늑대인간 팀 중에서 저를 반드시 제일 먼저 죽이라 했던 사람이 있었다고...+"라이칸의 성역"은 룰이 여러모로 복잡하지만, 플레이어의 사심이 섞이기 쉬워요.+그래서... 혹시, 평소에 누군가에게 실례를 저질러 원망을 산 것이 아닐까 해서...
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>;G36(8)||<边框>2</边框>:뭐어? G36 언니가 얼마나 좋은 사람인데! 언니를 미워할 사람이 어딨어!
+G28(4)<Position>0,130</Position>;G36(8)<Speaker>G36</Speaker>||<边框>2</边框>:...모를 일이죠.+하지만 그게 누구든, 어떤 이유였든, 꼭 알고 싶습니다. 저에겐 정말 중요한 일이에요.+95식 씨가 궁금하면 AA-12 양에게 물어보라, 그녀에게 제가 원하는 답이 있다 귀뜸해 주었지만...+지금 이렇게 간식 주문이 잔뜩 쌓인 상태론...
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>;G36(8)||<边框>2</边框>:아하~ 그렇구나.+그런 거라면 내가 다 처리할 테니까 걱정 말고 다녀와!
+G28(4)<Position>0,130</Position>;G36(8)<Speaker>G36</Speaker>||<边框>2</边框>:메이드로서 어떻게 일을 내팽개치고 그런...
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||<边框>2</边框>:그치만 언니야 고민 해결 못하면 일이 손에 안 잡힐 거 아니야.+그럼 언니가 만든 간식도 평소보다 못하게 될 거라구.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><边框>2</边框>:G36은 잠시 고민하다가 앞치마를 벗었다.
+G36(8)<Speaker>G36</Speaker>||<边框>2</边框>:그럼 부탁할게요 G28, 금방 다녀오겠습니다!
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||<边框>2</边框>:걱정 말래두~ 힘내 언니야!
+()||<黑点1><边框>2</边框>:
+()<Speaker></Speaker>||<边框>2</边框><BIN>9</BIN><黑点2><BGM>BGM_Empty</BGM>:......
+()||<黑点1><边框>2</边框>:
+()<Speaker></Speaker>||<边框>2</边框><黑点2><BIN>515</BIN><BGM>event_summer_Title</BGM>:10분 후, AA-12의 점포.
+G36(8)<Speaker>G36</Speaker>||<边框>2</边框>:............
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||<边框>2</边框>:뭘 자꾸 그렇게 쳐다봐? 100번 물어봐도 소용없다고.+안 알려 줘.
+G36(8)<Speaker>G36</Speaker>||<边框>2</边框>:그 게임에서 누가 저를 죽이라 했는지 묻는 것뿐이잖습니까.+그 정도쯤은 말해 줘도 괜찮지 않나요?
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||<边框>2</边框>:시끄러, 음악 듣는 데 방해돼.
+()<Speaker></Speaker>||<边框>2</边框><SE1>Rope</SE1>:심드렁한 AA-12의 태도에 G36은 자신도 모르게 주먹을 움켜쥐었다.
+G36(18)<Speaker>G36</Speaker>||<边框>2</边框>:<size=25>...예비책을 쓸 수밖에 없나.</size>+좋습니다 AA-12 씨, 그럼 거래는 어떠신가요?
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||<边框>2</边框>:나 뭐 필요한 거 없는데.
+G36(18)<Speaker>G36</Speaker>||<边框>2</边框>:이―― 스페셜 캔디 아이스크림과, 늑대인간 팀의 정보를 교환하려는데도요?
+()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_magic_circle_start</SE1>:G36이 요술 부리듯 등 뒤에서 각양각색의 캔디가 장식된 아이스크림을 꺼냈다.
+G36(18)<Speaker>G36</Speaker>||<边框>2</边框>:부연 설명을 드리자면, 여기 오기 직전에 "특별히" 만든 것입니다. 갓 만들어 정말 시원하고 달콤하답니다.
+()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_Button_Click</SE1>:콰득.+AA-12가 자신도 모르게 입에 물고 있던 사탕을 깨물어 부쉈다.+G36의 "뇌물"에 제대로 넘어간 것이 분명했다.
+G36(18)<Speaker>G36</Speaker>||<边框>2</边框>:어떻습니까, 알려 주실 마음이 드시는지?
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||<边框>2</边框>:......부족해.
+G36(8)<Speaker>G36</Speaker>||<边框>2</边框>:네?
+()<Speaker></Speaker>||<边框>2</边框>:AA-12가 송곳니를 드러내며 심술궂은 미소를 지었다.
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||<边框>2</边框>:이거 다섯 그릇 더 주면 생각해볼게.
+G36(17)<Speaker>G36</Speaker>||<边框>2</边框>:...한 말은 지키시길 바라죠.
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||<边框>2</边框>:흥, 물론이지.
+()||<黑点1><边框>2</边框>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑点2><边框>2</边框>:......+10분 후.
+()||<黑点1><边框>2</边框>:
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||<边框>2</边框><SE1>RunStep</SE1><黑点2><BIN>515</BIN>:헥... 헥... 언니야, 긴급 주문한 캔디 아이스크림 5인분 가져왔어!
+()<Speaker></Speaker>||<边框>2</边框>:미안해하는 미소로 G28에게서 쟁반을 건네받은 G36은 매너 있게 AA-12 앞에 아이스크림 그릇들을 내려놓았다.
+G36(8)<Speaker>G36</Speaker>||<边框>2</边框>:이것으로 "성의"는 충분히 보여드렸습니다. 이제 당신 차례예요, AA-12 씨.
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||<边框>2</边框>:어 그래, 생각해볼게. 웅냠냠...
+()<Speaker></Speaker>||<边框>2</边框>:AA-12는 짐짓 진지하게 생각하는 척하더니...
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||<边框>2</边框>:...역시 모자라. 열 그릇 추가.
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||<边框>2</边框>:<size=50>뭐어?! 야, 얼굴에 철판 까는 것도 정도가 있지!</size>
+G36(17)<Speaker>G36</Speaker>||<边框>2</边框>:제가 부탁하는 입장이긴 하지만 그런 요구는 너무한 것 아닙니까?
+()<Speaker></Speaker>||<边框>2</边框>:AA-12는 듣는 둥 마는 둥 아이스크림 또 한 숟갈을 입으로 가져갔다.
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||<边框>2</边框>:이봐 이봐, 그게 남한테 부탁하는 태도야?+맘대로 해, 급한 건 내가 아닌걸. 둘이 알아서들 생각하셔.
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||<边框>2</边框>:언니야...
+()<Speaker></Speaker>||<边框>2</边框>:G36은 한숨을 푹 쉬고 G28에게 고개를 떨궜다.
+G36(17)<Speaker>G36</Speaker>||<边框>2</边框>:미안해요 G28... 또 수고해 줘야겠어요.
+()<Speaker></Speaker>||<边框>2</边框>:G28은 도끼눈으로 AA-12를 노려보다 고개를 저으며 점포를 나섰다.
+()<Speaker></Speaker>||<边框>2</边框>:............
+()||<黑屏1><边框>2</边框>:
+()<Speaker>지휘관</Speaker>||<BIN>515</BIN><黑屏2><关闭蒙版>:하지만 G28은 주방으로 돌아가지 않고 이 점포 근처에 숨었단 말이지?
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||:응! 이 녀석, G36 언니한테 바른대로 말해 줄 생각조차 없어 보였다고! 아이스크림 100그릇 가져와도 마찬가지였을걸?+그래서 몰래 숨어서 마인드맵 백도어 권한을 좀 건드려 봤더니 한 방에 성공했지 뭐야!+걱정 마, 아주 살짝 건드리기만 한 거니까 마인드맵에 손상 같은 거 없어. 그냥 의식을 잃었을 뿐이야.
+()<Speaker>지휘관</Speaker>||:그렇담 다행이다만...
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||:그러니까 우리 말리지 말아 줘, 응?+누가 G36 언니를 죽이라 시켰는지 알아내는 건 당사자에게도 무지무지 중요한 일이라고!
+()<Speaker></Speaker>||:G28이 손을 꽉 쥐고 뜨겁고 간절한 눈빛을 보내는 통에, 지휘관은 살갗으로 미세한 전류가 찌릿찌릿 느껴지는 듯했다.
+()<Speaker>지휘관</Speaker>||:으음... 못 본 척해 줄 순 있지만, 딱 5분만이다?
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||:와아! 고마워 지휘관!
+G36(17)<Speaker>G36</Speaker>||:저희의 당돌한 행위를 눈감아 주신다니, 주인님의 넓은 아량에 감사드립――
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||:아이참 언니야 또 말 길어지네!+빨리 태블릿 줘 봐, AA-12의 마인드맵에서 그때의 진실을 밝혀내야지!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:G28은 이때다 싶어 냉큼 케이블을 꺼내 G36의 태블릿을 AA-12의 소체에 연결했다. 그리고...
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:<color=#FFFF00>마인드맵 기록 확인 중...</color>+<color=#FFFF00>99%...</color>+<color=#FFFF00>100%.</color>+<color=#FFFF00>암호화 데이터 해석 완료.</color>
+()<Speaker></Speaker>||<SE1>AVG_NightVision_Start</SE1>:태블릿의 화면 해상도가 점점 높아졌다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><黑屏2>:[기록 4952584954] 을(를) 읽어들이는 중...
+()||<黑屏1>:
+()<Speaker></Speaker>||<回忆><BIN>9</BIN><边框>2</边框><黑屏2>:바닷가, 14시 16분.
+()<Speaker>카리나의 목소리</Speaker>||:자아, 늑대인간은 눈을 뜨고 서로를 확인하세요.
+()<Speaker>AA-12</Speaker>||<BGM>BGM_22Swim_langrensha</BGM><睁眼><边框>2</边框><BIN>162</BIN>:......
+KAC(4)<Speaker>KAC-PDW</Speaker><Position>0,135</Position>||<边框>2</边框>:오우...
+FN57(6)<Speaker>Five-seveN</Speaker>||<边框>2</边框>:<color=#00CCFF>다 모였지?</color>
+95type(2)<Speaker>95식</Speaker>||<边框>2</边框>:<color=#00CCFF>하나, 둘, 셋, 넷...</color>+<color=#00CCFF>어머나, DP-12 씨와 Five-seveN 양도 있다니 굉장한 우연이네요.</color>
+NPC-KalinSwim(0)<Speaker>카리나</Speaker>||<边框>2</边框>:늑대인간 팀, 오늘 밤에 살해할 사람을 정하세요.
+KAC(3)<Speaker>KAC-PDW</Speaker><Position>0,135</Position>||<边框>2</边框>:<size=25>근데 왜 다들 통신으로 얘기해? 입술이 꿈쩍도 안 하니까 괜시리 무섭잖아!</size>
+DP12(4)<Speaker>DP-12</Speaker>||<边框>2</边框>:<color=#00CCFF>쉬잇. 여기 있는 분들 모두 귀가 얼마나 밝은데요. 조심해서 나쁠 것 없답니다.</color>
+95type(2)<Speaker>95식</Speaker>||<边框>2</边框>:<color=#00CCFF>시간이 많지 않으니 어서 본론으로 들어가죠. 누굴 죽일 건가요?</color>
+FN57(6)<Speaker>Five-seveN</Speaker>||<边框>2</边框>:<color=#00CCFF>난 FAL에 한 표. 아까 말하는 투로 봐선 걔가 [예언자]인 거 같아.</color>
+DP12(4)<Speaker>DP-12</Speaker>||<边框>2</边框>:<color=#00CCFF>미안하지만 우리 중 한 명을 죽이는 것도 좋겠죠, 주민들의 추리를 방해할 수 있을 테니까요.</color>
+95type(2)<Speaker>95식</Speaker>||<边框>2</边框>:<color=#00CCFF>AA-12 양, 당신 생각은 어떠세요?</color>
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||<边框>2</边框>:흐음... 어어, 나 사탕 다 떨어졌네?+디저트 만들 줄 아는 녀석 탈락시켜서 만들어 달라 하자.
+()<Speaker>일동</Speaker>||<边框>2</边框>:<color=#00CCFF><size=50>???</size></color>
+KAC(4)<Speaker>KAC-PDW</Speaker><Position>0,135</Position>||<边框>2</边框>:푸하핫! 그거 괜찮겠네! 어디 보자... 95식 너 디저트 꽤 잘 만들지 않았어?
+95type(6)<Speaker>95식</Speaker>||<边框>2</边框>:<color=#00CCFF>어머어머, 저는 여러분의 소중한 동료인데 그러시면 안 되죠~</color>
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||<边框>2</边框>:그러엄... G36으로.
+FN57(8)<Speaker>Five-seveN</Speaker>||<边框>2</边框>:<color=#00CCFF>안 돼 안 돼! 첫날 밤엔 가장 위험한 녀석을 처리해야지!</color>+<color=#00CCFF>FAL 말곤 없어, 딴 데 던지지 마!</color>
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||<边框>2</边框>:응, 그럼 나 자폭할래.
+FN57(8)<Speaker>Five-seveN</Speaker>||<边框>2</边框>:<color=#00CCFF>하...?</color>+<color=#00CCFF>AA-12, 너 지금 나 협박하는 거야?</color>
+NPC-KalinSwim(0)<Speaker>카리나</Speaker>||<边框>2</边框>:늑대인간 팀, 아직 안 정했나요?
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||<边框>2</边框>:달달한 거 만들어 달라 시키게 G36 죽여, 안 그럼 나 자폭할 거야. 이상.
+KAC(4)<Speaker>KAC-PDW</Speaker><Position>0,135</Position>||<边框>2</边框>:뭐 어때, 뜬금없는 선택도 나름 재밌는데.+자꾸 그러니까 나도 포도 아이스크림 먹고 싶어졌다. 나도 G36!
+FN57(8)<Speaker>Five-seveN</Speaker>||<边框>2</边框>:......
+DP12(4)<Speaker>DP-12</Speaker>||<边框>2</边框>:<color=#00CCFF>솔직히, G36 씨를 죽이는 것도 괜찮을 것 같아요. 인간관계가 워낙 좋은 분이니 먼저 처리해도 감정적으로 우리가 의심받을 일이 줄어들겠죠.</color>+<color=#00CCFF>그리고 Five-seveN 대장과 FAL 씨의 관계는 다소... "복잡"하단 걸 모두가 아니까, 바로 죽인다면 오히려 더 의심받지 않을까요?</color>
+95type(2)<Speaker>95식</Speaker>||<边框>2</边框>:<color=#00CCFF>일리 있네요... Five-seveN 대장?</color>
+FN57(8)<Speaker>Five-seveN</Speaker>||<边框>2</边框>:<color=#00CCFF>끄응... 좋아, 그럼 G36을 죽이자.</color>+<color=#00CCFF>대신 보안관 선거 단계에서 잘하라고.</color>
+95type(2)<Speaker>95식</Speaker>||<边框>2</边框>:<color=#00CCFF>우후훗... 걱정 마세요, 모두를 잘 속여넘겨 보일 테니.</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_tele_disconnect</SE1><BIN>9</BIN><边框>2</边框>:<color=#FFFF00>삑.</color>+<color=#FFFF00>재생 종료.</color>
+()||<黑屏1><边框>2</边框>:
+()<Speaker></Speaker>||<关闭蒙版><黑屏2><BIN>515</BIN><BGM>m_wv_title</BGM>:AA-12의 점포는 벌써 녹기 시작한 캔디 아이스크림의 달콤한 향이 만연했다.
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||:이... 이렇게 된 일이었다고...?+뭐예요, 이 사람들 너무한 거 아니에요!? 어떻게 고작 디저트 먹고 싶다는 이유로 G36 언니를 먼저 죽여요?!
+()<Speaker>지휘관</Speaker>||:뭐어... 좀 그렇긴 하지만 모두가 G36의 솜씨를 인정한다는 반증 아니겠어?
+()<Speaker></Speaker>||:한편, 묵묵히 케이블을 뽑고 아직 꼼짝도 안 하는 AA-12를 바라보는 G36은...+얼굴에 홀가분한 미소가 피어올랐다.
+G36(8)<Speaker>G36</Speaker>||:후우... 이것으로 후련해졌네요.+하지만, AA-12 씨가 주도해서 저를 게임에서 탈락시켰으면서, 이렇게 조금도 미안한 기색 없이 저한테 아이스크림을 요구한 것에 대해서는...+좀 불쾌하군요.
+()<Speaker>지휘관</Speaker>||:하지만 이렇게 기절시키고 기억까지 훔쳐봤잖니. 벌받은 셈 쳐도 되지 않을까?
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||:안 돼! 비겁한 늑대인간이니까 대가를 치러야지!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그 말에 G36이 싱긋 웃더니, 항상 휴대하는 파우치에서 새빨간 가루가 든 통을 꺼내 살랑살랑 흔들었다.
+G36(18)<Speaker>G36</Speaker>||:마침 아까 무심코 챙긴 고춧가루가 있군요...+주인님, 지금부터 저희가 저지를 사소한 장난도 눈감아 주실 수 있겠습니까?
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||:오오! 그거 좋겠다!
+G28(4)<Speaker>지휘관</Speaker><Position>0,130</Position><同时置暗>||:잠깐잠깐, 역시 그건 좀 너무하지 않아!?
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||:어휴 참, 지휘관은 너무 물러! AA-12처럼 욕심 많고 못되고 비겁한 늑대인간을 어떻게 안 혼낼 수가 있어?
+()<Speaker>지휘관</Speaker>||:......+그냥 이렇게 하자, 내가 너희에게 몇 표 더 줄 테니 그 고춧가루 이리 내.
+()<Speaker></Speaker>||:G36과 G28은 솔깃한 제안에 잠시 눈빛을 교환했다.
+G36(8)<Speaker>G36</Speaker>||:주인님의 뜻이 그러하시다면야.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:G36은 짐짓 아쉬운 투로 그 작은 고춧가루 병을 살며시 지휘관의 손에 올려놓았다.
+()<Speaker>지휘관</Speaker>||:그리고 AA-12도――
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||:헤헤, 진작에 풀었지롱!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:G28이 말하자마자 AA-12의 손가락이 까딱였다.+천천히 고개를 든 그녀의 다크서클 진한 두 눈에도 빛이 돌아와 있었다.
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||:우으응... 무슨 일이야, 장사 끝났어?
+()<Speaker>지휘관</Speaker>||:어... AA-12?+어디 불편하거나 이상한 느낌 안 드니?
+()<Speaker></Speaker>||:AA-12는 고개를 갸우뚱하고 머리를 긁적이며 주위를 두리번거렸다.
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||:그게 무슨 소리... 뭐야, 나 잠들었어?
+()<Speaker></Speaker>||:G36과 G28은 바로 지휘관에게 눈치를 주었다.
+()<Speaker>지휘관</Speaker>||:아, 어, 맞아!+G36이랑 G28이 날 급히 찾아와서는 뭐냐... 네가 갑자기 다운됐다고 하더라고!+응, 네가 다운돼서 무슨 일인지 보러 왔지.
+()<Speaker></Speaker>||:지휘관은 누구라도 알아챌 어색한 거짓말로 둘러댔지만...+AA-12는 다시 고개를 갸우뚱거리기만 했다.
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||:그래...? 걱정하게 만들었네, 미안.+역시 이런 자연은 나랑 안 맞는다니까... 햇빛이 쨍쨍해서 벌써 며칠째 잠도 제대로 못 잤어.+...응? 여기 왜 이렇게 아이스크림이 잔뜩이야? 어... 그러고 보니 무슨 일이 있었던 거 같기도 하고...
+()<Speaker>지휘관</Speaker>||:아, 그건...!
+()<Speaker></Speaker>||:지휘관이 애써 웃자, G36이 황급히 G28에게 눈치를 주었다.
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||:아 참 깜빡했다! 주방 애들이 뭐하냐고 난리야 언니야, 빨리 돌아가자!+AA-12, 이 아이스크림들 전부 너한테 공짜로 주는 거니까 실컷 먹어!
+G36(18)<Speaker>G36</Speaker>||:이만 실례하겠습니다, 주인님.+즐거운 밤 되시길. 그리고...+약속 잊지 말아 주세요.
+G28(4)<Speaker>G28</Speaker><Position>0,130</Position>||:에헤헤~ 이따 봐 지휘관! 약속 꼭 지켜야 해!
+()<Speaker></Speaker>||:G36과 G28은 의미심장하게 웃으면 쏜살처럼 점포를 빠져나갔다.
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||:...무슨 약속? 나랑 관계 있어?
+()<Speaker>지휘관</Speaker>||:아아아니 그냥 그런 게 있어! 개인적인 일이니까, 아하하...
+()<Speaker></Speaker>||:홀로 남겨진 지휘관은 난감해하며 주위를 두리번대다, 그제서야 테이블 위의 미니게임 설비가 눈에 들어왔다.
+()<Speaker>지휘관</Speaker>||:아! 네 미니게임 정말 재밌어 보이는데! 어디 한번 해볼까!
+()<Speaker></Speaker>||:AA-12는 미묘하게 눈살을 찌푸렸다.
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||:마음대로... 놀고 싶다면야 어울려 줄게.+잠깐만, 규칙이 뭐였나 좀 다시 보고.
+AA12(2)<Speaker>지휘관</Speaker><Position>0,100</Position><同时置暗>||:...진짜 대충대충이구나?
+AA12(2)<Speaker>AA-12</Speaker><Position>0,100</Position>||:무슨 소리야, 이게 내 최선이라고.+아 맞다, 꼭 나한테 투표해 줘야 해, 알았지? ...우읍.+이런 말 직접 하니까 소름돋아... 어휴, Five-seveN은 뭘 이런 걸 나한태 시킨대. 지휘관 맘대로 해.+암튼 규칙도 다시 봤겠다, 내 "노을 미궁" 게임을 시작해 볼까?
+()||<黑点1>:

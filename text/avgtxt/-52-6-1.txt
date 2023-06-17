@@ -1,0 +1,134 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>163</BIN><黑屏2><BGM>BGM_Hello</BGM>:등불이 교차하는 밤의 바닷가.+지휘관은 딱히 하는 일 없이 인파를 따라 길을 걷고 있었다.
+()<Speaker>？？？</Speaker>||:히이잉...+후에엥...
+()<Speaker>？？？</Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>:<size=50>이게 다 너 때문이야! 네 운이 꽝이라서 게임에서 져 버렸다고!</size>
+()<Speaker></Speaker>||:그때, 지나치려던 바로 옆의 점포에서 도저히 지나칠 수 없는 소리가 들려왔다.+인정사정 없는 호통과 흔들리는 탁상이 지휘관의 마음을 두들기니...+지휘관은 바로 멍하던 정신을 똑바로 차리고 그곳으로 돌진했다.
+()||<黑点1>:
+FN49(4)<Speaker>FN-49</Speaker><Position>0,120</Position>||<黑点2><BIN>515</BIN>:우에엥... 죄송해요오...
+CBJMS(4)<Speaker>C-MS</Speaker>||:죄송하면 다야!? 처음부터 네가――오!+마침 잘 왔어 부하 1호! 네가 한번 판단해 봐!
+()<Speaker></Speaker>||:이곳은 C-MS의 점포.+점포 안은 긴 테이블로 양단되어 있었다.+그리고 FN-49는 밖에서 전전긍긍 고개를 숙인 채로 눈물만 뚝뚝 흘리는 중이었다.
+()<Speaker>지휘관</Speaker>||:무슨 일인진 들어봐야 알겠지만 그렇게 화를 내면 어떡하니, C-MS.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 손수건을 꺼내 엉엉 우는 FN-49에게 건네주었다.
+CBJMS(4)<Speaker>C-MS</Speaker>||:흥! 화 안 나게 생겼어? 우리 주민 팀이 처참하게 진 게 다 FN-49의 "기사 징크스" 때문인데!
+()<Speaker>지휘관</Speaker>||:"기사 징크스"...?
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:C-MS가 태블릿을 켜더니 지휘관의 눈앞에 들이댔다.
+CBJMS(4)<Speaker>C-MS</Speaker>||:이것 봐, "라이칸의 성역" 플레이 기록이야.+여기 이 줄 잘 보라고, 이게 여태까지의 FN-49의 전적! [기사] 총 9판, 승률 0!
+CBJMS(4)<Speaker>지휘관</Speaker><同时置暗>||:......그래서?
+CBJMS(4)<Speaker>C-MS</Speaker>||:아 이해력이 딸리네 진짜! 대체 누가 [기사]로 9번이나 질 수가 있어!?+이건 이미 누구나가 아는 징크스야! FN-49가 [기사]가 되면 주민은 반드시 져!
+CBJMS(4)<Speaker>지휘관</Speaker><同时置暗>||:그냥 우연 아니야?
+CBJMS(4)<Speaker>C-MS</Speaker>||:우연 아니거든? 오늘 낮에도 FN-49가 뽑은 게 [기사] 카드였는데 이래도 우연이야?+덕분에 주민 팀이 시작하자마자 박살났어! [예언자] 죽었지, [기사]도 당연히 죽었지, 심지어는 [큐피드]까지 죽었다고...+이게 징크스 아님 뭔데! 다 FN-49 너 때문이야!
+()<Speaker>？？？</Speaker>||:누명을 씌워서 책임을 전가하다니... 너무한걸?
+()<Speaker></Speaker>||:목소리의 주인공은 팔짱을 끼고 문 앞에 나타난 FAL이었다.+특유의 도도함과 약간의 경멸 어린 미소를 띄운 FAL은 C-MS에게서 눈을 떼지 않고 있었다.
+FAL(4)<Speaker>FAL</Speaker>||:그렇게 소위 운명이나 사주팔자 같은 걸 신봉한다면 전술인형 관두고 가서 점쟁이 일이나 알아보도록 해.+그리고, 난 징크스 따위 안 믿어.+49가 [기사]를 맡았을 때의 승률이 0인 건 팀원이 하수였거나, 단순히 운이 나빠서였을지 어떻게 알아?+같은 팀이었으면서 스스로 반성하고 실력을 갈고닦을 생각은 안 하고 문제를 전부 49한테 떠넘기고 징크스라 매도하다니... 꼴불견이네.
+()<Speaker></Speaker>||:한 소대의 고고한 대장으로서의 포스를 뿜으며 다가온 FAL은 FN-49를 자신의 뒤로 숨겨 주었다.
+FN49(4)<Speaker>FN-49</Speaker><Position>0,120</Position>||:대장니임...
+CBJMS(4)<Speaker>C-MS</Speaker>||:헹, 자기 부하라고 감싸기는.
+FAL(7)<Speaker>FAL</Speaker>||:그리고 감히 내 동의도 없이 49한테 따져?+FN 소대는 내 거야, 전부 내 관할이라고.+외부인은 괜한 힘 낭비 말고 딴 데 가서 자신의 허접한 플레이나 반성하셔.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:그 말이 C-MS의 자존심을 건드렸다.
+CBJMS(4)<Speaker>C-MS</Speaker>||:<size=50>누구더러 허접이라는 거야 이 허접아!</size>+지휘관! FAL 애 [예언자]]였는데, 첫날 밤에 [늑대왕]은커녕 늑대인간 찾지도 못했으면서 신분을 밝혔어!+그리고 FN-49 너는 대체 뭔 생각으로 [큐피드]한테 너랑 FAL을 이어 달라 하냐!?+무슨 원 플러스 원 행사야?! 그렇게 게임 빨리 끝내고 싶었냐!
+()<Speaker>지휘관</Speaker>||:잠깐만, "[큐피드]가 이어줬다"는 건 무슨 뜻이야? 아직도 규칙을 잘 몰라서.
+CBJMS(4)<Speaker>C-MS</Speaker>||:아오 여기 바보가 또 있었네!+짧게 설명해 주자면, [큐피드]의 능력은 게임 시작 시 두 플레이어를 선택해 "파트너"로 지정하는 거야.+둘 중 한 명이 죽는다면 다른 한 명도 덩달아 죽게 된다고.
+FN49(4)<Speaker>FN-49</Speaker><Position>0,120</Position>||:하... 하지만 "파트너"인 두 사람이 서로 다른 팀이라면...+그 둘과 [큐피드]가 한 팀이 돼서 늑대인간도 주민도 아닌 3번째 팀이 돼요...
+FAL(7)<Speaker>FAL</Speaker>||:하지만 [큐피드]는 아무런 사전 정보 없이 무작위로 선정하잖아.+잘도 그걸 49가 시킨 거라 하네? 어이가 없어서 정말...
+CBJMS(4)<Speaker>C-MS</Speaker>||:흥! 증거 있거든?+G36이 나한테 말해 줬거든!?
+CBJMS(4)<Speaker>C-MS</Speaker>||<SE1>AVG_Scene_Transfer</SE1><BGM>BGM_Empty</BGM>:FN-49가 시켜서 한 일이라고!
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Truth</BGM>:정말이야?
+()<Speaker></Speaker>||:눈물로 반짝이던 FN-49의 얼굴이 창백해졌다.+입술까지 깨물기 시작한 그녀는 엄청난 심적 고민에 빠진 듯했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:결국, FN-49는 FAL의 뒤에서 나와 푹 허리를 숙였다.
+FN49(4)<Speaker>FN-49</Speaker><Position>0,120</Position>||:죄송해요 대장님!+제, 제가 [큐피드]인 G36 씨한테 저랑 대장님을 지정해 달라 했어요...+그래서 대장님이 탈락하셨을 때 저까지...!+<size=50>정말 죄송해요!</size>
+()<Speaker></Speaker>||:FN-49는 차마 고개를 들어 FAL과 지휘관의 얼굴을 보지 못하고 부들부들 떨었다.
+FAL(7)<Speaker>FAL</Speaker>||:......+왜 그랬어?
+FN49(4)<Speaker>FN-49</Speaker><Position>0,120</Position>||:왜냐면... 왜냐면요오...
+()<Speaker></Speaker>||:FN-49의 목소리는 더욱 기어들어갔고, 창백한 얼굴도 점점 긴 머릿결에 파묻혔다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<边框>2</边框><黑屏2><回忆><BIN>162</BIN><BGM>BGM_Empty</BGM>:오후의 바닷가.+"라이칸의 성역" 게임 도중.
+FN49(3)<Speaker>FN-49</Speaker><Position>0,120</Position>||<边框>2</边框><BGM>BGM_22Swim_langrensha</BGM>:<color=#A9A9A9>라이칸의 신이시여! 제발!</color>+<color=#A9A9A9>제발 [기사] 카드만은 아니기를... 제발 그것만은 아니기를...!</color>
+()<Speaker></Speaker>||<SE1>DealCards</SE1><边框>2</边框>:잔뜩 긴장한 FN-49가 심호흡을 하고 자신의 신분 카드를 슬쩍 열어보자...+방패와 검이 교차한 멋들어진 그림이 그녀의 눈에 들어왔다.
+()<Speaker></Speaker>||<边框>2</边框>:[기사] 카드였다.
+FN49(4)<Speaker>FN-49</Speaker><Position>0,120</Position>||<边框>2</边框><SE1>AVG_Thunder_Dry</SE1>:<color=#A9A9A9><size=50>히이잉 망했어요...!!</size></color>
+()<Speaker></Speaker>||<边框>2</边框>:............
+()||<黑屏1>:
+()<Speaker></Speaker>||<边框>2</边框><BIN>9</BIN><黑屏2>:그리폰의 "라이칸의 성역" 전용 채팅 룸.
+FN49(4)<Speaker>FN-49</Speaker><Position>0,120</Position>||<边框>2</边框><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>저기요!!!</color>+<color=#00CCFF>누구 없어요?!!</color>
+()<Speaker></Speaker>||<边框>2</边框>:유저명 "FN-49"가 애처롭게 메시지를 띄웠지만...+아무도 대답하지 않았다.
+FN49(4)<Speaker>FN-49</Speaker><Position>0,120</Position>||<边框>2</边框>:<color=#00CCFF>......</color>+<color=#00CCFF>정말 아무도 없나요...?</color>+<color=#00CCFF>제발요, 저 지금 도움이 필요해요! 엄청 급해요!</color>
+()<Speaker></Speaker>||<边框>2</边框>:............+이번에도 아무도 대답하지 않았다.
+FN49(4)<Speaker>FN-49</Speaker><Position>0,120</Position>||<边框>2</边框>:<color=#00CCFF>저... 정말로...</color>
+()<Speaker>？？？</Speaker>||<SE1>AVG_tele_connect</SE1><边框>2</边框>:<color=#00CCFF>FN-49 씨, 게임이 시작된 후엔 이 공개 채팅 룸을 사용하면 안 됩니다.</color>+<color=#00CCFF>규칙 위반이에요.</color>
+()<Speaker></Speaker>||<边框>2</边框>:채팅 룸에 흐르던 정적이 깨졌다.
+FN49(2)<Speaker>FN-49</Speaker><Position>0,120</Position><Shake>0.1</Shake>||<边框>2</边框>:<color=#00CCFF><size=50>아아아살았다아아!!!!!!!!</size></color>
+()<Speaker></Speaker>||<边框>2</边框>:FN-49가 흥분을 감추지 못하고 느낌표를 마구 찍었다.
+()<Speaker>？？？</Speaker>||<边框>2</边框>:<color=#00CCFF>???</color>
+FN49(2)<Speaker>FN-49</Speaker><Position>0,120</Position>||<边框>2</边框>:<color=#00CCFF>죄송해요 너무 흥분해서 그만!</color>+<color=#00CCFF>그런데 혹시 주민 팀이신가요?! 저 좀 도와주실래요?!</color>+<color=#00CCFF>제 목숨이 걸린 일이에요!</color>+<color=#00CCFF>제발요! 부탁드려요!</color>
+()<Speaker>？？？</Speaker>||<边框>2</边框>:<color=#00CCFF>......</color>
+()<Speaker></Speaker>||<边框>2</边框>:그 익명의 유저는 한참을 망설이다 결국 유저명을 변경하고 메시지를 띄웠다.
+G36(8)<Speaker>G36</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>G36입니다, [큐피드]예요.</color>+<color=#00CCFF>FN-49 씨, 제가 어떻게 도와드리면 되겠습니까?</color>
+FN49(2)<Speaker>FN-49</Speaker><Position>0,120</Position>;G36(8)||<边框>2</边框>:<color=#00CCFF>G36 씨였구나!!!!!!!!</color>+<color=#00CCFF>저 [기사]인데, 징크스가 있어서 어떡해야 할지 모르겠어요!</color>
+FN49(2)<Position>0,120</Position>;G36(8)<Speaker>G36</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>징크스요?</color>
+FN49(3)<Speaker>FN-49</Speaker><Position>0,120</Position>;G36(8)||<边框>2</边框>:<color=#00CCFF>제가 [기사]가 되면 반드시 지는 징크스예요!</color>+<color=#00CCFF>저 혼자라면 괜찮겠지만, Five-seveN 씨랑 FAL 대장님까지 주민이라면...!</color>+<color=#00CCFF>모두 저 때문에 지고 말아요오...</color>+<color=#00CCFF>히잉...</color>
+FN49(3)<Position>0,120</Position>;G36(8)<Speaker>G36</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>그럼 제가 어떻게 도와드리면 될까요?</color>
+FN49(3)<Speaker>FN-49</Speaker><Position>0,120</Position>;G36(8)||<边框>2</边框>:<color=#00CCFF>FN 소대의 전멸만은 막아야 해요...</color>+<color=#00CCFF>G36 씨가 FAL 대장님과 Five-seveN 씨의 신분을 훔쳐보고...</color>+<color=#00CCFF>저한테...</color>
+FN49(3)<Position>0,120</Position>;G36(8)<Speaker>G36</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>안 된다는 거 아시죠?</color>
+FN49(4)<Speaker>FN-49</Speaker><Position>0,120</Position>;G36(8)||<边框>2</边框>:<color=#00CCFF>그쵸...</color>+<color=#00CCFF>그럼 어떡하죠!???</color>
+G36(8)<Speaker>G36</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>......</color>
+()<Speaker>시스템 알림</Speaker>||<边框>2</边框><SE1>AVG_tele_connect</SE1>:<color=#FFFF00>익명4952 님이 입장했습니다.</color>
+FN49(4)<Speaker>FN-49</Speaker><Position>0,120</Position>||<边框>2</边框>:<color=#00CCFF>앗, 또 누가 들어왔어요!</color>+<color=#00CCFF>저기...</color>
+()<Speaker>？？？</Speaker>||<边框>2</边框>:<color=#00CCFF>49.</color>
+FN49(4)<Speaker>FN-49</Speaker><Position>0,120</Position>||<边框>2</边框>:<color=#00CCFF>네!!!!! 그런데 당신은...?</color>
+FN49(4)<Position>0,120</Position>;FAL(8)<Speaker>？？？</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>하늘 같은 네 대장 FAL도 몰라보면 어떡하니?</color>+<color=#00CCFF>아무튼, [늑대인간]이 걸려서 이거 고민인걸...</color>
+FN49(2)<Speaker>FN-49</Speaker><Position>0,120</Position>;FAL(8)||<边框>2</边框>:<color=#00CCFF>우와! 천만다행이에요 대장님!</color>+<color=#00CCFF>대장님이 늑대인간이면 제 징크스에 휘말릴 걱정은 없네요!</color>+<color=#00CCFF>그런데...</color>+<color=#00CCFF>대장님은 늑대인간 된 거 처음이시죠?</color>+<color=#00CCFF>늑대인간은 말을 어떻게 해야 할지부터 엄청 어려운데!</color>
+FAL(8)<Speaker>FAL？</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>응, 그렇지.</color>+<color=#00CCFF>확실히 나도 좋은 수가 안 떠올라.</color>+<color=#00CCFF>너 뭐 좋은 생각 없어?</color>
+()<Speaker></Speaker>||<边框>2</边框>:FN-49는 잠시 고민하나 싶더니 또 느낌표를 잔뜩 띄웠다.
+FN49(3)<Speaker>FN-49</Speaker><Position>0,120</Position>||<边框>2</边框>:<color=#00CCFF><size=50>대장님!!!!!!!!</size></color>+<color=#00CCFF><size=50>G36 씨한테 우릴 파트너로 지정해 달라 해요!!!!!</size></color>
+FN49(3)<Position>0,120</Position>;FAL(8)<Speaker>FAL？</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>응? 왜?</color>
+FN49(3)<Speaker>FN-49</Speaker><Position>0,120</Position>;FAL(8)||<边框>2</边框>:<color=#00CCFF>대장님이 늑대인간 팀이고 제가 주민 팀이니까 우리가 파트너가 되면 제3의 팀이 돼요!</color>+<color=#00CCFF>그럼 대장님은 늑대인간 신분으로 고민할 필요 없고</color>+<color=#00CCFF>잘하면 제 징크스도...</color>+<color=#00CCFF>아무튼 우리 함께 힘을 합쳐서 FN 소대의 승리를 쟁취하자고요!</color>
+FAL(8)<Speaker>FAL？</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>그거 좋네.</color>+<color=#00CCFF>그럼 이쁜이 G36, 부탁할게.</color>
+()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_tele_disconnect</SE1>:삑.+유저명 "FAL"은 그렇게 휙 채팅 룸에서 나갔다.
+G36(17)<Speaker>G36</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>......</color>+<color=#00CCFF>바로 나갔군요.</color>+<color=#00CCFF>그런데 이 사람... 정말 FAL 씨 맞나요?</color>
+FN49(2)<Speaker>FN-49</Speaker><Position>0,120</Position>;G36(17)||<边框>2</边框>:<color=#00CCFF>엑, 왜 그렇게 생각하세요?</color>
+FN49(2)<Position>0,120</Position>;G36(17)<Speaker>G36</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>늑대인간이 이런 공개 채팅 룸에다 대놓고 정체를 밝히는 게 수상쩍어서 말이죠.</color>+<color=#00CCFF>최대한 정체를 숨기는 것이 늑대인간 플레이어의 정석 아닌가요?</color>+<color=#00CCFF>그리고... 그녀의 말투도 조금 이상했습니다.</color>
+FN49(2)<Speaker>FN-49</Speaker><Position>0,120</Position>;G36(17)||<边框>2</边框>:<color=#00CCFF>걱정 마세요! FAL 대장님은 저를 보고 오신 거예요! 저를 그만큼 신뢰하신단 거예요!</color>+<color=#00CCFF>그럼 부탁드릴게요 G36 씨!</color>+<color=#00CCFF><size=50>정말 감사합니다!!!</size></color>
+G36(17)<Speaker>G36</Speaker><通讯框>||<边框>2</边框>:<color=#00CCFF>......</color>+<color=#00CCFF>천만에요.</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><边框>2</边框><BGM>BGM_Empty</BGM>:............
+()||<黑屏1><边框>2</边框>:
+FAL(7)<Speaker>FAL</Speaker>||<关闭蒙版><黑屏2><BGM>BGM_Room</BGM><BIN>515</BIN>:무슨 소리야, 난 게임 시작한 뒤에 채팅 룸 들어간 적도 없고 늑대인간도 아니었어!+대체 누가 내 행세를 한 거야?!
+FN49(4)<Speaker>FN-49</Speaker><Position>0,120</Position>||:모모모모몰라요오...+G36 씨가 약속대로 우릴 파트너로 지정해 주셔서 신분을 확인한 뒤에야...+제가 속았단 걸 깨달았어요오... 우에엥...
+()<Speaker></Speaker>||:FAL은 무거운 한숨을 내뱉었다.
+()<Speaker>지휘관</Speaker>||:게임 시작 후 외부에서 대화하는 건 반칙이야.+그리고 49가 방심한 탓도 있네.
+CBJMS(6)<Speaker>C-MS</Speaker>||:근데 너 말이야, FAL이랑 파트너 되려 할 때 징크스는 생각 안 했어?+제3의 팀이라도 여전히 [기사]잖아. 똑같이 질 거 아니야.
+FN49(4)<Speaker>FN-49</Speaker><Position>0,120</Position>;CBJMS(6)||:대, 대장님이 늑대인간 잘 못하신다길래 깊게 생각하질 않았어요...+그, 그리고, 이 징크스는 주민 팀일 때만이었으니까... 3번째 팀이 되면 다를 거 같아서...+그, 그런 생각에...+그런데 결국엔...
+FN49(4)<Position>0,120</Position>;CBJMS(6)<Speaker>C-MS</Speaker>||:반칙한 업보를 치렀구만.
+FN49(4)<Speaker>FN-49</Speaker><Position>0,120</Position>||:죄송해요오...+제가 주민 팀을, FAL 대장님을, FN 소대를 실망시켰어요...+후에엥...
+FAL(4)<Speaker>FAL</Speaker>||:......
+()<Speaker></Speaker>||:FN-49는 고개를 떨구고 FAL의 꾸중을 들을 각오를 했다.+그녀가 작전에서 실수할 때마다 그러했던 것처럼.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>ClothingUp</SE1>:하지만 부드러운 두 손이 FN-49의 어깨를 살며시 받쳐 주었다.+마음이 편안해지는 따뜻함이, FAL의 손바닥에서 FN-49의 어깨를 통해 전해졌다.+이에 천천히 고개를 든 FN-49는 생각지도 못한 FAL의 상냥한 눈동자에 두려움과 떨림을 잊어버렸다.
+FN49(4)<Speaker>FN-49</Speaker><Position>0,120</Position>||:대... 대장님?
+FAL(8)<Speaker>FAL</Speaker>||<BGM>GF_Memorial</BGM>:그건 네 잘못이 아니야.+징크스도, G36이 우리를 파트너로 지정하게 한 것도 네 잘못이 아니야.+날 위해 그랬다니 정말 고마워, 49.+날 생각해 주고, FN 소대를 생각해 줘서 고마워.
+FN49(4)<Speaker>FN-49</Speaker><Position>0,120</Position>||:대장니임...
+()<Speaker></Speaker>||:FAL는 가볍게 숨을 뱉고 FN-49의 손을 쥐고서 지휘관에게 다가왔다.
+FAL(4)<Speaker>FAL</Speaker>||:지휘관, 49의 반칙은 벌받아도 싸지만... 다 얘가 징크스가 너무 겁내는 한편 FN 소대를 생각한 탓이야.+얘가 그 채팅 룸에서 내 행세를 한 가짜에게 속은 것도 날 위해 노력하다 그렇게 된 거고.+다 리더로서의 본분을 다하지 못한 내 잘못이지, 49의 잘못은 아니야.+49는 충직하게 자신의 소임을 다했어. FN 소대의 일원으로서도, 주민 팀의 [기사]로서도.+이런 애가 내 소대원이라니, 나도 참 복이 많다니까.
+FN49(4)<Speaker>FN-49</Speaker><Position>0,120</Position>||:훌쩍...+고마워요 대장님... 정말 죄송해요...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:FN-49가 또다시 훌쩍이자, FAL은 드물게 다정한 표정으로 그녀의 어깨를 토닥였다.
+CBJMS(4)<Speaker>C-MS</Speaker>||:아 알았으니까 그만 좀 울어! 아직 안 졌는데 죄송하긴 뭐가 죄송해!
+FAL(4)<Speaker>FAL</Speaker>||:말 좀 곱게 하지?
+CBJMS(6)<Speaker>C-MS</Speaker>||:흥!
+FAL(4)<Speaker>FAL</Speaker>||:지휘관, 부탁 하나 해도 될까?+우리에게 승리를 가져다줬으면 해. 그걸 49에게 선물하고 싶어.
+()<Speaker>지휘관</Speaker>||:선물?
+FAL(4)<Speaker>FAL</Speaker>||:징크스 말이야.+49, 이번에 우리가 이기면 네 [기사] 승률 0은 깨지는 거야.
+FN49(2)<Speaker>FN-49</Speaker><Position>0,120</Position>||:아, 그렇네요!
+FAL(4)<Speaker>FAL</Speaker>||:하지만 명심하도록 해.+네가 이번에 잘못을 저지른 이유는 징크스를 너무 두려워해서 자신감을 잃었기 때문이야.+세상에 징크스 따위 없어. 실패를 두려워하지 마.+네가 무서워해야 할 건 그딴 미신이 아니라, 자기자신마저 믿지 못하고 편법에 기대다 올바른 길에서 벗어나는 거야.+다신 그러면 안 돼, 알았어?
+FN49(3)<Speaker>FN-49</Speaker><Position>0,120</Position>||:네... 넵! 알겠습니다 대장님!
+CBJMS(6)<Speaker>C-MS</Speaker>||:되게 감동적이긴 한데, 지휘관이 싫다면 어쩌려고 그래?
+()<Speaker></Speaker>||:그 말에 일동의 시선이 동시에 지휘관에게 꽂혔다.
+()<Speaker>지휘관</Speaker>||:어... 못 도와줄 거 없지.
+FN49(2)<Speaker>FN-49</Speaker><Position>0,120</Position>||:고마워요 지휘관니임...!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:FN-49이 감격에 겨워 지휘관의 손을 꼭 붙잡고 또다시 닭똥 같은 눈물을 뚝뚝 흘렸다.
+FAL(8)<Speaker>FAL</Speaker>||:고마워 지휘관. 이제 주민 팀의 승패는 지휘관의 손에 달렸어.+지휘관의 옳은 판단을 믿을게.
+CBJMS(4)<Speaker>C-MS</Speaker>||:네에네에 그쯤 하셔들.+빨리 이리 와 지휘관, 게임을 해야 투표할 카드를 주던 말던 할 거 아니야.
+FAL(4)<Speaker>FAL</Speaker>||:드디어 목표가 일치하게 됐네?
+CBJMS(6)<Speaker>C-MS</Speaker>||:흥이다! 같은 편이라서 다행인 줄 알아, 너네 같은 트롤들 다 갖다 버려도 시원찮다구.+지휘관, 주민 팀이 이기게 할 거면 그냥 나한테 투표해.+쟤네 생쇼하는 거 보니까 속이 다 뒤집히겠어.
+FAL(6)<Speaker>FAL</Speaker>||:이걸 진짜 한 대 쥐어박을 수도 없고...
+()<Speaker>지휘관</Speaker>||:자 자 같은 팀이니까 괜한 일로 싸우면 안 되지.+어서 게임이나 하자. C-MS?
+CBJMS(7)<Speaker>C-MS</Speaker>||:그래그래, 내가 부하 1호 얼굴을 봐서라도 넓은 아량으로 넘어가 줘야지. 자아, 내 "봉화연대" 게임을 시작하자!
+()||<黑点1>:

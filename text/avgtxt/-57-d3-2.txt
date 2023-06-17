@@ -1,0 +1,97 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>587</BIN><SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:한가한 밤 중, 당신은 창가의 벤치에 기대고 심야의 찬바람을 얼굴로 만끽했다.+나른하게 뻣뻣 굳은 몸을 펴니 졸음도 살금살금 올라왔다.
+()<Speaker>지휘관</Speaker>||:오늘은 좀 일찍 쉬자.
+()||<SE1>AVG_Bite</SE1>:삐그덕 삐그덕...+날카로운 소음이 느긋한 휴식 시간을 끊었다. 소리는 문밖에서 들린 듯했다.
+()<Speaker>지휘관</Speaker>||:누구야?
+()||:......+대답이 없다, 잘못 들은 것일까?+당신은 문 앞에 서서 한동안 귀기울여 들었다.
+()<Speaker>지휘관</Speaker>||<SE1>Stop_AVG_loop</SE1>:잘못 들은 것 같네...
+()||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><黑屏2>0,5</黑屏2><SE1>AVG_Door_Hit</SE1>:쿠웅!+방금까지 조용하던 문짝이 덜컥 열려 당신의 코와 이마를 강타했다.
+()<Speaker>지휘관</Speaker>||:뜨악!
+NPC-Tae(0)<Speaker>야마다 타에</Speaker><GradientShow>2</GradientShow><Position>0,-290</Position><Scale>1.3</Scale>||<BGM>m_wv_title</BGM>:그어... 아아... (안부를 묻는 것 같다)
+()||:당신은 고통에 바닥에 웅크려 한 손으론 이마를, 한 손으론 코를 감싸쥐었다.
+()||<SE1>Rope</SE1><黑点1>:반면 장본인인 녀석은 미안한 걸 아는지 모르는지, 그저 당신 등의 옷을 잡아들고선, 당신을 현관으로 끌고 갔다.
+()<Speaker>지휘관</Speaker>||<黑点2><BIN>578</BIN>:타에 너... 지금 어디로 데려가는 거야?
+NPC-Tae(0)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:으어... 어아... (뭐라뭐라 웅얼거렸다.)
+NPC-Tae(0)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:뭐라는 거야?
+()||:사가에 온 지 며칠 되었지만, 여전히 야마다 타에하곤 정상적인 소통이 불가능하고 오로지 감에 의존해야 했다.+깜깜한 복도와 활짝 열린 현관 밖의 온갖 위험이 도사리는 야경을 보면서 불안감이 솟아났다.
+()<Speaker>지휘관</Speaker>||:<color=#A9A9A9>(이 어두운 한밤중에...)</color>+<color=#A9A9A9>(이 녀석 설마 나를...)</color>
+NPC-Tae(0)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:으에... 어에어...(뭘 조심하라는 것 같다.)
+NPC-Tae(0)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:뭐?
+()||<黑点1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=13</controll_shake>:묻기도 전에 이미 뭔지 깨달았다.+쿵쾅쿵쾅쿵쾅... 계단 위를 그대로 끌려내려가 눈앞이 어질어질해져, 걸레짝처럼 타에에게 알 수 없는 곳으로 끌려갔다.
+()||<黑点2><BIN>605</BIN>:밤의 길거리는 조용하고 오직 가로등만이 어둑한 눈을 뜨고 지나가는 행인을 망연히 지켜볼 뿐이었다.+타에한테 얼마나 끌려갔는진 몰라도, 바지가 완전히 닳아버리기 전에 일어나기로 했다.
+()<Speaker>지휘관</Speaker>||:내가 알아서 걸을게...
+NPC-Tae(0)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:어...
+()||:그제서야 타에가 손을 놓았고, 당신은 엉망인 꼴로 바닥에서 일어나 온몸에 묻은 흙먼지를 털어냈다.
+()<Speaker>지휘관</Speaker>||:타에, 이 한밤중에 대체 어디로 데려가려는 거야?
+NPC-Tae(3)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:어어... 으어어 에에 어어..(바쁘게 뭐라 잔뜩 말한다.)
+NPC-Tae(3)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:......
+()||:역시 한 마디도 알아들을 수 없었다.+그래도 이 시간에 억지로 끌고 나온 건 분명 중요한 일이 있어서라고 생각했다.+그 이유를 알아내기로 했다.
+()<Speaker>지휘관</Speaker>||:음... 대충 알겠다. 그럼 안내해줘.
+NPC-Tae(4)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||<黑点1>:아... 어엉! (기뻐하며 몇 걸음 달렸다.)
+()<Speaker>지휘관</Speaker>||<黑点2><BIN>597</BIN><Night>:......
+NPC-Tae(3)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:어아... 어우어... (흥분해 하며 뭐라 잔뜩 말한다.)
+NPC-Tae(3)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:그렇구나...
+()||:당신은 영문을 모르면서도 쫑알쫑알 떠드는 타에의 뒤를 따르며, 상대가 난감해하지 않도록 대충 맞장구를 쳐줬다.+뭐라는진 전혀 알 수 없지만.+끌려나오기 전에 다른 멤버한테 도와달라고 할걸, 당신은 후회막급이었다.
+NPC-Tae(4)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:우오오! 어아아! (길을 가리키는 것 같다.)
+()||:타에가 걸음을 멈추고 길가의 오솔길을 가리키며 소리 질러댔다.+가로등이 없는 오솔길로, 길 양옆은 잡초와 관목이 무성하게 자라서 어디로 통하는 길인지 알 수가 없었다.+정말 가야 하나 망설이고 있을 때 타에는 이미 길을 따라 모습이 사라졌다.
+()<Speaker>지휘관</Speaker>||:야, 타에! 기다려!
+()||<SE1>AVG_wind_grass</SE1><黑点1><BGM>BGM_Empty</BGM>:할 수 없이 당신도 허둥지둥 따라가야 했다.
+()||<黑点2><BIN>1</BIN><Night><BGM>BGM_Saga_AVG_Dusk</BGM>:구불구불한 오솔길을 걷는 중 바닥에 튀어나온 나무뿌리에 몇 번을 넘어지고, 길을 안 비켜주는 나뭇잎에 따귀를 몇 대 맞고서야 넓은 곳으로 나오게 됐다.+표지판 하나 없는 공터에서 타에는 익숙하게 걸었고, 당신은 그 뒤를 쫓았다.
+()<Speaker>지휘관</Speaker>||:여기는 어디야?
+()||:질문을 한 순간, 질문의 무의미함을 떠올렸다. 어차피 대답을 못 알아들을 텐데.
+NPC-Tae(0)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:그어... 어아아... (아마 진지하게 대답하는 걸지도.)
+NPC-Tae(0)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:......
+()||:당신은 한숨만 푹 쉬고 계속 타에를 따라갔다.+평온한 휴식을 방해받고 한밤중에 억지로 어딘지 모를 산 위로 끌려와, 이미 인내심이 얼마 남지 않았다.
+()<Speaker>지휘관</Speaker>||:타에, 슬슬 돌아가야 할 텐데.
+NPC-Tae(6)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:으에에... (싫댄다.)
+()||:당신은 쓴웃음을 지었다, 오늘 밤 유일하게 알아들은 게 거절이라니.
+NPC-Tae(6)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:앗... 아... 어아! (바쁘게 앞을 가리킨다.)
+NPC-Tae(6)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:왜 그래?
+()||:그녀가 가리킨 쪽을 바라보니, 회색 돌덩이들이 밤하늘 아래에 돋보였다.+아주 반듯한 모양의 돌덩이들이 가지런하게 줄 세워져 있었다.+바로 그게 무엇인지 당신은 알아차렸다.
+()<Speaker>지휘관</Speaker>||:타에... 왜 나를 여기에 데려온 거야?
+NPC-Tae(0)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:어, 어아! (못 알아듣겠다.)
+()||:타에는 그중 한 비석 앞에 서서 비석을 손가락으로 마구 찔렀다.
+()<Speaker>지휘관</Speaker>||:타에, 그러지 마, 죽은 자에게 실례——
+()||:타에를 말리려고 다가서자 비석에 새겨진 글씨가 보였다.+"야마다 일가의 묘".
+()<Speaker>지휘관</Speaker>||:이건...
+NPC-Tae(0)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:아아... 어아...+어아어아... 으어어... (잔뜩 말했지만 뭐라는지 전혀 알 수 없다.)
+NPC-Tae(0)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:뭘 말해주고 싶은 건데?
+()||:이건 타에의 가족의 묘비다.+덩그러니 놓인 돌덩이에 새겨진 몇 글자만으로 몇 세대 사람들의 삶이 함축되었다.+묘비 앞은 텅 비어 있어, 주변에 비하면 약간 참담할 정도로 허전했다.+타에도 조용해져 그 공허한 눈빛으로 묘비를 바라보며 무슨 생각을 하는지 알 수가 없었다.
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Empty</BGM>:타에...
+()||<SE1>ClothingUp</SE1>:씁쓸한 기분이 들어, 당신은 주머니에 든 음식을 전부 꺼내 비석 앞에 뒀다.+그리고 경건히 합장하여 타에를 위해 묵념했다.+묵념을 하고 나니, 타에는 옆에 없었다.
+()<Speaker>지휘관</Speaker>||:타에? 어디 갔니?
+()||<SE1>AVG_Bite</SE1>:우걱우걱...+익숙한 음식을 씹는 소리.+타에가 다른 사람의 묘비 앞에 쪼그려 앉아 공물을 먹고 있었다.
+()<Speaker>지휘관</Speaker>||<BGM>GF_20HW_Battle1_BPM102_Loop</BGM>:타에! 그건 먹으면 안 돼!
+NPC-Tae(6)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale><Shake>||:으엥! (안 뺏기려고 화를 낸다.)
+()||:당신이 공물을 뺏으려 하자 타에는 그대로 꿀꺽 삼켜버렸다.
+()<Speaker>지휘관</Speaker>||:......
+NPC-Tae(1)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:우걱우걱...(아주 맛나게 먹고 있다.)
+()||:당신은 타에가 다른 집의 공물을 전부 싹쓸이하고, 마지막에 자기 집 묘비에 돌아와 당신이 방금 놓은 음식을 먹는 걸 지켜볼 수밖에 없었다.+문뜩 궁금해졌다. 일반적인 사람에게 이곳은 죽은 자의 넋을 기리는 슬픔의 장소지만, 타에에겐 여긴 어떤 곳일까?+대형 무료 뷔페? 아니면 때때로 음식이 스폰되는 파밍 장소?
+NPC-Tae(1)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:푸하... 꺼억... (만족해하며 당신을 바라본다.)
+NPC-Tae(1)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:......+배불렀어? 그럼 돌아가자.
+NPC-Tae(4)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||<黑点1>:아아... 엉... (그러잰다.)
+()||<黑点2><BIN>597</BIN><Night>:올 때와 똑같이 타에가 능숙하게 저택으로 돌아가는 길을 안내했다.+당신은 타에의 홀쭉한 뒷모습을 바라보며 계속 방금 든 의문을 곱씹었다.+그럼, 그녀가 자신의 뷔페 혹은 파밍 장소에 당신을 이 시간에 데려온 이유는 무엇일까?+자신의 이야기를 들려주기 위해서일까, 아니면 당신이 먹을 걸 꺼내도록 유도한 것일까?
+NPC-Tae(3)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:우응... 울룰루... (신나게 흥얼거린다.)
+NPC-Tae(3)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:......
+()||:당장 그녀를 아는 정도로는 답을 알아낼 수가 없었다.+하지만 언젠간 그녀를 완전히 이해할 수 있을지도 모른다.
+()||<SE1>AVG_20Winter_Book</SE1>:당신은 항상 휴대하는 공책을 꺼내, 오늘 관찰한 타에의 제스처와 언어를 기록했다.
+()<Speaker>지휘관</Speaker>||:아니면... 기록하는 것 말고도 직접 의사 표현을 가르칠 수 있지 않을까?
+NPC-Tae(6)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:엉? 으어? (멀뚱멀뚱 바라본다.)
+NPC-Tae(6)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:타에, 앞으로 나한테 긍정을 표현하고 싶을 땐 이렇게 엄지를 위로 척 세워줘.+반대로 부정할 때는 엄지를 아래로 향하고.
+()||:당신은 타에에게 간단한 제스처 두 개를 시범해 보였고, 타에는 갸우뚱하며 당신의 손을 멍하니 바라봤다.
+()<Speaker>지휘관</Speaker>||:알아들었어?
+NPC-Tae(7)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:......
+NPC-Tae(7)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:그럼 한 번 해보자.+내가 제법 괜찮은 프로듀서라고 생각하니?
+NPC-Tae(3)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:어... 으에어... (뭐라뭐라 중얼거린다.)
+NPC-Tae(3)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:아니 아니, 엄지로 표현해 달라고.
+()||:당신은 다시 타에에게 엄지를 세워 보였고, 타에는 당신의 손을 바라보며 뭔가 고민하는 듯했다.
+()<Speaker>지휘관</Speaker>||:이젠 알아들었겠지, 다시 해보자.
+NPC-Tae(5)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||<SE1>AVG_Bite</SE1>:아울.
+()||:타에가 당신의 손을 덥석 물었다.
+()<Speaker>지휘관</Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=17</controll_shake>:아아아아악!!
+NPC-Tae(3)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:어아아아앙... (당신이 비명 지르는 모습을 따라하는 것 같다.)
+NPC-Tae(3)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||<黑点1>:쓰으읍......+됐다, 갈 길은 머니 천천히 하자고.
+()||<黑点2><BIN>593</BIN><Night>:얼얼한 손을 움켜쥐고서 타에를 따라 저택을 향해 걸었다.+밤하늘은 점점 노을로 물들어 동쪽 하늘은 이미 하얗게 밝았다.
+()<Speaker>지휘관</Speaker>||:정말 피곤한 밤이었네.
+NPC-Tae(4)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:어... 어엉...(공감이라는 것 같다.)
+()||<黑屏1>:타에와의 기묘한 모험은 그렇게 첫 막을 내렸다. 과연 다음이 있을지는 모르겠지만.+그래도, 만약에 다음이 있다면, 그땐 타에가 전하고 싶은 말을 조금이라도 알아들을 수 있길 기원했다.

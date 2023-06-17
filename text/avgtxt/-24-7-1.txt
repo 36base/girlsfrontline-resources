@@ -1,14 +1,14 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
-()||<BIN>47</BIN><BGM>BGM_Empty</BGM><黑屏2>:SOP2는 먼저 철혈의 비축 거점에 잠입해 예비 전원을 훔치기로 하였다.
-SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:찾았다! 이것으로 RO를...
-()||<闪屏><duration>5</duration></闪屏>:
-()<Speaker></Speaker>||<SE1>Explode</SE1><震屏>:콰앙!!
-SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_stage10</BGM>:...! 저 소리는!
-SOPIIDamage(2)<Speaker>？？？</Speaker>||:<color=#00CCFF>좋다, 이것으로 그리폰의 쓰레기를 모두 정리했다.</color>+<color=#00CCFF>다만... 부스러기가 좀 남아있군.</color>
-SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:... 스케어크로우!
-SOPIIDamage(3);BOSS-1(0)<Speaker>스케어크로우</Speaker><通讯框>||:<color=#00CCFF>왜 우리 창고에 숨어든 것이지?</color>+<color=#00CCFF>가장 위험한 곳이 가장 안전하다고 생각한 건가?</color>+<color=#00CCFF>확실히, 그 덕분에 네 수명이 좀 늘어났지, 저 동료들을 희생해서 말이야.</color>
-SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:닥쳐! 이 망할 놈!+널 해치울 거야, 너는 연산해내지도 못할 방식으로!
-SOPIIDamage(3);BOSS-1(0)<Speaker>스케어크로우</Speaker>||:<color=#00CCFF>마음대로 해라, 어차피 우린 모두... 할 일을 할 뿐이니.</color>+<color=#00CCFF>아까 그 쓰레기를 처리하든, 너를 처리하든 차이가 없다.</color>
-SOPIIDamage(3)<Speaker></Speaker>||:...
-SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:조금 전의 전투로 녀석의 부하도 많지 않아...+아직 승산은 있어...+모두의 원수를 갚기 위해서, 여기서 살아남기 위해서...+반드시 녀석을 쓰러뜨려야 해!
-()||<黑点2><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1>:
+()||<BIN>47</BIN><BGM>BGM_Empty</BGM><黑屏2>:SOP2는 먼저 철혈의 비축 거점에 잠입해 예비 전원을 훔치기로 하였다.
+SOPIIDamage(0)<Speaker>M4 SOPMOD II</Speaker>||:찾았다! 이것으로 RO를...
+()||<闪屏><duration>5</duration></闪屏>:
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏>:콰앙!!
+SOPIIDamage(2)<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_stage10</BGM>:...! 저 소리는!
+SOPIIDamage(2)<Speaker>？？？</Speaker>||:<color=#00CCFF>좋다, 이것으로 그리폰의 쓰레기를 모두 정리했다.</color>+<color=#00CCFF>다만... 부스러기가 좀 남아있군.</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||:... 스케어크로우!
+SOPIIDamage(3);BOSS-1(0)<Speaker>스케어크로우</Speaker><通讯框>||:<color=#00CCFF>왜 우리 창고에 숨어든 것이지?</color>+<color=#00CCFF>가장 위험한 곳이 가장 안전하다고 생각한 건가?</color>+<color=#00CCFF>확실히, 그 덕분에 네 수명이 좀 늘어났지, 저 동료들을 희생해서 말이야.</color>
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>;BOSS-1(0)||:닥쳐! 이 망할 놈!+널 해치울 거야, 너는 연산해내지도 못할 방식으로!
+SOPIIDamage(3);BOSS-1(0)<Speaker>스케어크로우</Speaker>||:<color=#00CCFF>마음대로 해라, 어차피 우린 모두... 할 일을 할 뿐이니.</color>+<color=#00CCFF>아까 그 쓰레기를 처리하든, 너를 처리하든 차이가 없다.</color>
+SOPIIDamage(3)<Speaker></Speaker>||:...
+SOPIIDamage(3)<Speaker>M4 SOPMOD II</Speaker>||<黑屏1>:조금 전의 전투로 녀석의 부하도 많지 않아...+아직 승산은 있어...+모두의 원수를 갚기 위해서, 여기서 살아남기 위해서...+반드시 녀석을 쓰러뜨려야 해!
+()||<黑点2><BIN>10</BIN>:

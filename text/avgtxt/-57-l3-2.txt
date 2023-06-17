@@ -1,0 +1,69 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>592</BIN><BGM>BGM_Saga_AVG_Day</BGM><SE1>AVG_AMB_Street</SE1>:수목원 중앙의 공터에, 갈색 차양 지붕이 옹기종기 모여있어, 마치 커피 원두처럼 햇살에 익어가며 연기를 피웠다.+릴리가 끌고 온 게 아니었으면 여기에 정기적인 장터가 열린다는 사실을 알지 못했을 것이다.
+()<Speaker>지휘관</Speaker>||:시끌벅적하네...
+NPC-Lily(0)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<SE1>Stop_AVG_loop</SE1>:응! 몇 년이나 지났는데도 여전히 제자리에 있는 가게도 몇 집 있더라.
+NPC-Lily(9)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:저집 오징어가 엄청 맛있는데, 타에랑 로메로한테 좀 사다줄까?
+NPC-Lily(2)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:우와, 이 집 수제 인형 엄청 귀엽다!
+()||<SE1>ClothingUp</SE1>:사람들 사이에서 릴리의 작은 머리가 서에서 불쑥, 동에서 불쑥 튀어나왔다..
+()<Speaker>지휘관</Speaker>||:릴리, 좀 같이 가자...
+NPC-Lily(9)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:응? 저기에 쓰여있는 거... 프랑슈슈인가?
+()||:릴리가 가리킨 방향을 바라보니, 타코야키를 파는 집이었고, 위에 흰 바탕의 현수막이 걸려있었다.
+()<Speaker>지휘관</Speaker>||:<color=#A9A9A9>(Fran... 아, 뒤에 잘 안 보이네...)</color>
+()||<SE1>ClothingUp</SE1>:까치발을 들고서야 글씨가 전부 보였고, 확실히 프랑슈슈의 응원 현수막이 맞았다. 프랑슈슈도 제법 팬이 있나 보다.
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Empty</BGM>:릴리, 프랑슈슈 맞——
+()||<震屏3>:주변엔 오직 낯선 얼굴들만 남아 숨이 턱 막혔다.
+()<Speaker>지휘관</Speaker>||<BGM>10394</BGM>:릴리? 어디 갔니?! 들리니? 대답해!
+()||:당신의 부름에 대답은 없고, 희한해하는 눈치만 지나갔다.
+()<Speaker>지휘관</Speaker>||:릴리는 영리한 아이니까, 혼자 멀리 가진 않았을 거야...
+()||<SE1>ClothingUp</SE1>:당신은 주변 가게에 릴리를 봤는지를 물어봤다.
+NPC-Ninja(6)<Speaker>꽃가게 주인</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:아, 봤어요...+덩치가 엄청 큰 아저씨를 따라가더라고요, 왼쪽 눈에 흉터가 있는 아저씨예요. 좀 무서워서 기억이 확실해요.
+NPC-Ninja(6)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:예!? ...둘이 사이가 어때 보였습니까?
+NPC-Ninja(6)<Speaker>꽃가게 주인</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:그건 잘 모르겠어요. 아무튼 먹을 걸 사고 저쪽으로 갔어요.
+NPC-Ninja(6)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:예, 정말 감사합니다!+<color=#A9A9A9>(제발 무슨 일 있지 말아줘, 릴리...)</color>
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()||<黑点2><BIN>593</BIN><SE1>RunStep</SE1>:......
+()||<BGM>BGM_Saga_AVG_Dusk</BGM>:...나무 그늘 밑에 익숙한 형체를 다시 봤을 때 겨우 안도의 한숨을 쉬었다.
+()<Speaker>지휘관</Speaker>||:릴리! 휴우... 깜짝 놀랐잖아.
+()<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:......
+()||:릴리는 대답이 없었다.
+()<Speaker>지휘관</Speaker>||:혹시 삐졌어? 미안해, 너도 날 찾았나 보구나...
+()||:당신은 살짝 무릎을 굽혀 릴리와 눈높이를 맞추고 까꿍하려고 했다가, 릴리의 눈에 눈물이 글썽글썽한 것을 봤다.
+()<Speaker>지휘관</Speaker>||:릴리, 왜 울어? 누가 괴롭혔어?
+NPC-Lily(4)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:......
+()||<SE1>AVG_21Winter_Ink_Drop</SE1>:눈물이 당신의 손등에 떨어지자 당신은 바로 당황했다.
+()<Speaker>지휘관</Speaker>||<SE1>Stop_AVG_loop</SE1>:그 왼눈에 흉터 있는 자식이 괴롭혔어? 내가 가서 혼내줄게!
+NPC-Lily(4)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:쉿, 조용히 해...
+()||:릴리의 긴장한 표정에 당신은 그 남자에 바로 근처에 있을 수 있다고 생각했다.<c>소리 질러 부른다.<c>조용히 찾는다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:야, 눈에 흉터 있는 놈——!
+()||<SE1>ClothingUp</SE1><分支>1</分支>:당신은 크게 소리를 질러 행인들의 시선을 모았고, 릴리는 황급히 당신의 옷자락을 붙잡았다.
+NPC-Lily(4)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<分支>1</分支>:지휘관, 쉬잇...!
+NPC-Lily(4)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||<分支>1</分支>:걱정 마, 여기에 사람이 이렇게 많으니까 그 자식이 우릴 건드리진 못해.+놈이 덤빈다 해도 너한텐 털끝 하나 못 건드리게 할게.
+()||<分支>2</分支>:당신은 주변을 둘러보다 산채만 한 모습을 포착했다.+애써 찾을 필요 없이, 그 덩치가 사람 사이에 우뚝 솟아나 있으니 안 본 척 지나치기도 힘들었다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:릴리, 안전한 곳에서 기다리고 있어.
+()||<分支>2</分支><SE1>AVG_footsteps_cave</SE1>:당신이 막 두 걸음 걷자마자, 릴리가 당신의 의도를 읽고서 옷자락을 붙잡았다.
+NPC-Lily(4)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<SE1>Stop_AVG_loop</SE1>:오해야...+그 사람은 그냥 제사를 지내러 온 거야.
+()||:릴리가 옆으로 비켜서 등 뒤 풀 사이에 숨어있는 어린애 모양의 석상을 보여줬다.+석상 앞엔 마요네즈와 케첩을 듬뿍 바른 빵이 공양되어 있었다.+방금 그 남자가 둔 물건 같았다.
+()<Speaker>지휘관</Speaker>||:릴리가 아는 사람이야?
+NPC-Lily(1)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:응, 예전에도 같이 장터를 구경하면서 귀여운 인형을 사고, 같이 빵을 나눠 먹었어...
+NPC-Lily(1)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||:어?!
+NPC-Lily(1)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:저 사람은... 릴리의 아빠야.
+NPC-Lily(1)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||:<color=#A9A9A9>(전혀 안 닮았는데...!?)</color>
+NPC-Lily(1)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:릴리는 엄마를 닮았어, 하지만 아빠가 릴리를 혼자 키워줬어...+좀 험상궂어 보여도, 사실은 엄청 다정한 사람이야.
+()||<SE1>ClothingUp</SE1>:무안해진 당신은 조용히 고개를 끄덕였다.
+()<Speaker>지휘관</Speaker>||:미안, 네가 울고 있길래 진정하질 못했어...+릴리가 왜 슬퍼하는지 먼저 물어볼 걸 그랬다.
+NPC-Lily(9)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:슬퍼해? 릴리 안 슬퍼했어...
+NPC-Lily(2)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:아빠를 만나서 같이 장터 구경해서 엄청 만족하는데 슬플 리가 없잖아.
+()||:릴리는 웃으면서도 시선을 슬쩍 돌렸다.
+()<Speaker>지휘관</Speaker>||:그럼... 저 사람 릴리를 알아봤니?
+NPC-Lily(1)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:그게, 아빠는 계속 앞만 보고 있었고, 릴리는 몰래 뒤를 따라다닌 거야...+이걸로 괜찮아, 릴리랑 아빠가 단둘이 있다간 분명 들킬 수 있으니까. 그럼 큰일이잖아.
+NPC-Lily(1)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||:......+그럼 아버지랑 아무 말도 안 한 거야?
+NPC-Lily(0)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:응, 괜찮아. 릴리가 아빠한테 하고 싶은 말은 이미 무대에서 다 전했으니까.
+NPC-Lily(2)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:이상하더라, 분명 무대 위에서 멀리 떨어져 있었는데 예전보다 아빠랑 더 가까이 있는 기분이었어.
+NPC-Lily(0)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:그러니까, 아빠하곤 계속 프랑슈슈 6호로서 지내면 돼.
+()||<SE1>ClothingUp</SE1>:릴리는 눈망울에 남은 눈물을 마저 훔쳤다.
+NPC-Lily(1)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:비록 더이상 아빠의 손을 잡고 이것저것 함께할 수 없지만...
+NPC-Lily(1)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||:릴리...
+()||:당신은 목소리가 최대한 떨리지 않도록 했다.
+()<Speaker>지휘관</Speaker>||:같이 계속 장터 구경할까? 뭐 릴리가 먹고 싶은 거나 놀고 싶은 거 있는 가게에 다 가보자!
+()||<SE1>ClothingUp</SE1>:작은 손으로 당신의 소매를 가볍게 쥐고서, 릴리는 웃음꽃을 활짝 피웠다.
+NPC-Lily(2)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<黑点1>:좋아...!

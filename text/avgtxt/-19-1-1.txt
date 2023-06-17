@@ -1,134 +1,134 @@
-()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2>:나이를 먹을수록, 눈앞의 세상은 점점 커지기 마련이다. +이러한 변화를 느끼지 못하는 삶은 삶이라 할 수 없다. +어떤 이들은 한 걸음씩 나아가, 마침내 광활한 무대 위에서 자신의 운명을 찾아내지만+어떤 이들은 정해진 규칙에만 따르며, 앞서간 이들이 이뤄놓은 것에만 의지하며 살아간다. +감자칩의 포장을 뜯을 때조차 언제나 ‘뜯는 곳’ 표시를 따라야만 하는 등+M950A는 바로 이런 사람이다. 
-()||<黑屏1>:...쾅쾅쾅!
-M950A()<Speaker>M950A</Speaker>||<BIN>82</BIN><黑屏2><黑屏1>:문 열어!+야, 빨리 문 열어!
-()||<BIN>9</BIN><黑屏1>:나는 이런 사람이 싫다...
-M950A()<Speaker>M950A</Speaker>||<BIN>82</BIN><黑屏2>:문 열라고! 숙소 점검이야, 빨리!
-()||:...철컥.
-Thunder50(0)<Speaker>썬더</Speaker>||<BGM>BGM_Hello</BGM>:좋은 아침이야, M950A.
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:왜 이렇게 늦는 거야, 너 자고 있었지!
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:머리 말리느라, 못 들었어.
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:참나... 그런 건 일찍 일찍 좀 하라고. +AEK999는 어디 갔어? 곧 있으면 훈련이 시작되는데. 
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:......
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:빨리 말해, 썬더. AEK 그 녀석 또 어디로 사라진 거야?
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:............
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:그런 표정 짓는다고 그냥 넘어가 주지 않을 거야. +뭐라고 해도 내가 여기 부소대장이니까 나를 좀 존중해달라고—— +...잠깐, 뭐야!
-M950A(0);Thunder50(0)<Speaker></Speaker>||<SE1>Select</SE1><黑屏1>3</黑屏1>:...썬더는 갑자기 자신의 무기를 꺼내들었다.
-M950A()<Speaker>M950A</Speaker>||<BGM>BGM_Pause</BGM><黑屏2>3</黑屏2><BIN>9</BIN>:자 잠깐만... 너, 너 무슨 생——
-()||<SE1>Explode</SE1><黑屏1>3</黑屏1>:...뻥!! +...썬더가 M950A를 향해 발사한 총알은 목표의 머리카락 끝을 스쳐 지나갔고, 숙소 밖 복도에 거대한 총성이 울려 퍼졌다. 
-M950A(0)<Speaker>M950A</Speaker>||<黑屏2>3</黑屏2><BIN>82</BIN>:......
-M950A(0)<Speaker>M950A</Speaker>||<BGM>BGM_UnPause</BGM><震屏>:너, 너, 너너! 갑자기 뭐 하는 거야! 
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:감정표현.
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:무슨 감정을 총으로 표현해! 게다가 네 총소리는 엄청 큰 거 몰라?!
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:무서웠어. +네가 너무 몰아붙여서 무서웠어.... 이제 좀 괜찮네.
-M950A(0);Thunder50(0)<Speaker></Speaker>||:...썬더가 숨을 깊이 들이마셨다.
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:AEK는 아침 일찍 나가버려서 나도 어딨는지 몰라.
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:그럼 그렇게 말하면 되지, 무섭긴 뭐가 무섭다고! +그리고 걔를 잘 감시해야 한다니까? 그래서 너희 둘을 같은 숙소에 배정한 건데...
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:“하늘 같으신 선배님들이 막 입사한 그리폰 신인에게 하사하는 충고” 제 999조, 아무도 AEK999를 찾을 수 없다, 그녀가 원할 때는 예외.
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:그런 충고 시리즈 들어본 적도 없어...+잠깐... 잠깐 AEK가 어디 있는지 알 거 같아... +그 녀석 분명히 또 ‘그 곳’에 갔을 거야! 좋아, 현행범으로 체포해주지!
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:......
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:뭘 멍 때리고 있어, 너도 같이 가야지! 
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:나도 가야 돼? 
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:너는 내 파트너잖아, 당연히 같이 가야지!
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:언제부터?
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:처음부터! 우리 같이 여기 물러터진 분위기를 바로잡기로 약속했잖아! 
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:그건 네가 일방적으로 요구한 거고.
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:그럼 계속 도와주고 있던 건?
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:너밖에 날 상대해주는 사람이 없는 걸, 이유는 모르겠지만.
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:너만큼은 나처럼 규칙을 준수하는 사람이라고 믿었으니까! +대장이 착해빠져서 아무 말도 안 하니까 팀에 AEK 같은 문제아가 생기는 거라고. +게다가 TMP는 머릿속이 온통 무슨 꿍꿍이인지 알 수 없는 침묵변태고... +너라도 내 말을 들어주니까 다행이지, 너 아니었으면 아마 난 팀에서 왕따가 됐을 거야.
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:알고 있었네.
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:아까 내가 무섭다면서 그런 말은 왜 주저없이 말하는 건데!?
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:모두들 네가 지휘관 앞에서는 내숭 떨면서 +우릴 괴롭힐 땐 신나 보인다고 하는걸.
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:위계질서는 명확해야 하고 각자의 역할을 다하는 건 당연한 거야. +어째서 아무도 이해해주지 않는 건데, 진짜...+<size=30>그리고... 내가 언제 내숭을 떨었다는 거야...</size>
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:그래서, 뭘 도와주면 되는데?
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||<黑点1>:내가 항상 하는 일.
-()||<BIN>97</BIN><黑点2>:...M950A와 썬더가 복도를 걷고 있다.
-M950A(0)<Speaker>M950A</Speaker>||:썬더, 난 네가 나를 도와서 함께 노력해줬으면 해. 왜냐하면...
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:나한테 돈 줄 거야?
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:그게 아니라! +내 말은 너도 지휘관님한테 칭찬을 받고 싶을 거 아냐?
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:별로... 그냥 네가 시키는 대로 할게.
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:안돼! 난 네 마인드맵으로부터 우러나오는 변화를 원해! 넌 분명 나를 이해할 수 있을 거야! +그리폰의 일원으로서 이렇게 게으름을 피우면 안 되는 거잖아, 그치?!
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:하지만 여긴 철혈도 오기 싫어하는 곳인데...
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:그래, 맞아, 이 도시는 이미 완전히 폐허가 돼버려서, 사람의 발길이 끊긴지 몇 년이나 됐지. +하지만 채굴팀의 작업이 끝날 때까지 이 구역을 지키는게 우리의 임무야!
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:그래도 채굴이 다 끝나면, 모두 흩어져서 제 갈 길을 가겠지.
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:그날이 언제 찾아오든, 그전까지 우리는 모두 한 가족이라고, 무조건 잘 해내야해!
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:아무도 관심 없을걸, 애초에 지휘관도 우리한테 편하게 있으라고 했고. 
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:지휘관님이 우릴 항상 케어할 수 없으니까, 더욱더 스스로 잘 하려고 노력해야지.+이대로 가다가 만약 철혈이 기습 해온다면, 그때는 이미 모든 게 늦어버린 뒤야! +마지막 순간까지 풀어져서는 안돼, 너도 여기서 아쉬움을 남기고 싶진 않잖아, 썬더?
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:M950A, 넌 그동안 나한테 잘 대해주고, 내게 말도 걸어줬어. +그러니까 도와줄게, 아쉬움 같은 건 없지만.
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:오케이, 하지만 무슨 일이든 열심히 하는 건 언제나 옳은 일이야. +그럼 우린 이제 정식으로 파트너가 된 거야!
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:파트너?
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||<黑点1>:그래, 같이 그리폰의 기강을 바로잡을 파트너 말이야! +좋아, 도착했다.
-()||<BIN>46</BIN><BGM>BGM_Empty</BGM><黑点2>:...둘은 음산한 기운이 맴도는 밀실에 도착했다.
-Thunder50(0)<Speaker>썬더</Speaker>||:여기는 어디야? 아주 깊이 숨겨져있네.
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||<BGM>BGM_Room</BGM>:쉿... 조용히 해, 함부로 움직였다 들키면 안 돼.+기억하지? 여긴 예전에 오락실이었던 곳인데, 우리가 주둔하면서 TMP네가 고쳤어. +버려진지 오래돼서 보통은 아무도 오지 않는 곳이지만.
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:PC방?
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:비슷한 거야, 다만 헬멧을 쓰는 식으로... 전자전과 비슷하다고 할 수 있지. +내가 보기엔 AEK 그 녀석... 분명히 여기 있어.
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:안에서 뭘 하는데?
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:오락실이었다니까... +게임 아니면 웹서핑이나 채팅 같은 걸 하고 있지 않을까?
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:웹서핑이라니... +언제적 인형이야, M950.
-M950A(0)<Speaker>M950A</Speaker>||:무슨 상관이야! 이제 안 쓰면 되지! +아무튼 그런 거에 중독되면 안 된다고! 반드시 들어가서 AEK를 끄집어 내야 해——
-？？()<Speaker>？？</Speaker>||:날 끄집어내서 뭐 하려고.
-M950A(0)<Speaker>M950A</Speaker>||<震屏>:으악...!
-M950A(0);AEK999(0)<Speaker>AEK999</Speaker>||:미안, 놀랐어? +근데 우리 부대장님께서 무슨 일로 찾아온 거야? 썬더까지 데리고.
-M950A(0)<Speaker>M950A</Speaker>;AEK999(0)||:무슨 일이긴, 당연히 널 찾으러 왔지!+너야말로 여기에 뭐 하러 왔는데!
-M950A(0);AEK999(0)<Speaker>AEK999</Speaker>||:자료 찾으러 왔어. +조금 이따 훈련이 있잖아? +보다시피, 전술인형이 전쟁 다큐멘터리를 보며 인류의 경험을 습득하는 건데. 지극히 당연한 일 아닌가?
-M950A(0)<Speaker>M950A</Speaker>;AEK999(0)||:<b>정.말.이.야?</b>+훈련할 때 가장 대충대충 하는 게 네 녀석이잖아, 항상 게으름만 피우고!
-M950A(0);AEK999(0)<Speaker>AEK999</Speaker>||:그렇다고 해서 평소에도 노력하지 않는다고 단정 지으면 안 되지. +부대장, 설마 내가 채팅이나 게임 하러 온 거라 생각한 건 아니겠지?+부대 기강을 바로잡는 건 좋지만, 그전에 부대원을 잘 알아야 하지. 내가 그렇게 할 일 없는 인형으로 보여?
-M950A(0)<Speaker>M950A</Speaker>||:흥, 알 필요 없어.+AEK, 네가 공부를 하러 왔는지 웹서핑을 하러 왔는지는...+오락실 사용 기록을 조사해보면 다 나올 거야.
-AEK999(0)<Speaker>AEK999</Speaker>||<BGM>BGM_Empty</BGM>:......
-()||:...M950A가 AEK999를 쏘아봐도, AEK999는 여전히 태연한 모습이다. +...몇 초 뒤.
-Thunder50(0)<Speaker>썬더</Speaker>||:...웹서핑.
-M950A(0)<Speaker>M950A</Speaker>||:시끄러워, 썬더!+따라 들어와, 당장 진실을 파헤쳐줄 테니까!
-()||<SE1>Alarm</SE1>:그때 갑자기 경보가 울렸다.
-AEK999(0)<Speaker>AEK999</Speaker>||:무, 무슨 일이지!
-M950A(0)<Speaker>M950A</Speaker>||<BGM>BGM_Battle</BGM>:경계경보야! 적이 나타났나 봐!
-()||<SE1>RunStep</SE1>:...복도에서 발소리가 들려온다. 
-？？()<Speaker>？？</Speaker>||:허억, 허억...
-M950A(0)<Speaker>M950A</Speaker>||:쏘지마, 썬더! 아군이야!
-M950A(0)<Speaker>M950A</Speaker>||:TMP? TMP 맞지! 무슨 일이야, 빨리 보고해!
-TMP(0)<Speaker>TMP</Speaker>||:철, 철혈이에요! 정찰부대가 먼 곳에 있는 철혈을 발견했대요!  +대장이 모두 집합하라고 했어요, 대장은 지금 지휘관님께 연락해 지원을 요청하고 있어요!
-M950A(0)<Speaker>M950A</Speaker>||<黑点1>:그럼 가자, 모두 따라와!
-M950A()<Speaker>M950A</Speaker>||<黑点2><BIN>9</BIN><黑点1>:드디어 왔구나... 훈련이 아닌 진짜 실전! +지휘관님과 모두에게 멋진 모습을 보여주겠어!
-K2(0)<Speaker>K2</Speaker>||<BIN>85</BIN><黑点2>:앗, 모두 모인 거야? 정말 빠르네...
-M950A(0)<Speaker>M950A</Speaker>;K2(0)||:어떤 상황이야, 대장? +철혈은 어디까지 왔어? 언제 반격에 나설 거야?!
-M950A(0);K2(0)<Speaker>K2</Speaker>||:진정해 진정해, 사실 출격할 필요는 없어. 지금 철혈은... 한참 멀리 떨어져 있으니까.
-M950A(0)<Speaker>M950A</Speaker>;K2(0)||:엥?
-M950A(0);K2(0)<Speaker>K2</Speaker>||:심지어 우리 기지의 감시 범위 밖이야. 그냥 모처럼 정찰 부대가 발견했으니까 모두를 소집해서 경각심을 일깨우려고 한 거였어.
-M950A(0)<Speaker>M950A</Speaker>;K2(0)||:기껏 지휘관님까지 호출했으면서 안 싸우는 거야?
-K2(0)<Speaker>K2</Speaker>||:어... 그게... +지휘관님께선 적들은 우리 쪽으로 오는 게 아닌 거 같다고 했어. 물론 강해보이지는 않으니까 출격해도 별로 상관없지만...
-TMP(0)<Speaker>TMP</Speaker>||:최근 본부에 일이 많아서... 아, 아마... 저희까지 신경 쓰실 여유가 없으실 거예요...
-AEK999(0)<Speaker>AEK999</Speaker>||:놈들도 그냥 지나가는 길이겠지, 굳이 우리가 멀리까지 찾아갈 필요 없잖아.+그냥 내버려두자, 모두들 따로 할 일이 있을 거 아냐.
-M950A(0)<Speaker>M950A</Speaker>;AEK999(0)||:응? 항상 천상천하 유아독존이시던 AEK님께서 왜 갑자기 겁을 먹으셨을까? 
-M950A(0);AEK999(0)<Speaker>AEK999</Speaker>||:쓸데없는 일을 만들고 싶지 않을 뿐이야.
-M950A(0)<Speaker>M950A</Speaker>||:...썬더는 어떻게 생각해?
-M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:선제공격하는 게 좋을 것 같아.
-M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:맞아, 철혈은 우리의 적이니까 당연히 해치워야지. 적이 쳐들어와야 나서면 주도권을 잃고 말아.
-M950A(0);TMP(0)<Speaker>TMP</Speaker>||:하, 하지만 저희는 싸워본 지 너무 오래 됐는 걸요...
-M950A(0)<Speaker>M950A</Speaker>||:그러니까 이번이 바로 실전을 경험할 기회인 거야, 주도권을 뺏기면 안 돼.
-K2(0)<Speaker>K2</Speaker>||:그래서 모두의 의견은... 싸울 거야 말 거야?
-TMP(0)<Speaker>TMP</Speaker>||:(절래절래)
-AEK999(0)<Speaker>AEK999</Speaker>||:정찰 부대 보고 좀 더 지켜보라고 하는 게 좋겠어. 
-Thunder50(0)<Speaker>썬더</Speaker>||:선제공격.
-M950A(0)<Speaker>M950A</Speaker>||:싸우자! 단숨에 해치우자!
-K2(0)<Speaker>K2</Speaker>||:나도 공격에 한 표, 우리를 노리는 게 아니어도 다른 곳에서 문제를 일으킬 수 있으니까.+게다가... 모처럼 임시 지휘권한을 얻어 놓고 여태껏 한 번도 못 써봤는데, 이제 한 달 뒤면 반납해야 한다고. 이번 기회에 한 번 정도 대장이 된 기분을 느껴봐야 되지 않겠어?
-M950A(0)<Speaker>M950A</Speaker>||:흐흥, 그래야 우리의 대장답지——어때, AEK?
-AEK999(0)<Speaker>AEK999</Speaker>||:쳇... 알았어, 나도 싸움을 꺼리진 않으니까.
-K2(0)<Speaker>K2</Speaker>||<黑屏1>0.5</黑屏1>:좋아, 그럼 득표수 3대2로 출격하는 걸로 결정.+오랜만에 몸을 푸는 거니까 다들 준비 단단히 해.
-()||<BIN>10</BIN><BGM>BGM_Empty</BGM><黑点2><SE1>Select</SE1>:...소대 정비중.
-M950A(0)<Speaker>M950A</Speaker>||:AEK, 지금 싸우러 가는 마당에 그 해드폰 계속 쓰고 갈 거야?
-M950A(0);AEK999(0)<Speaker>AEK999</Speaker>||:넌 음악 싫어해? 
-M950A(0)<Speaker>M950A</Speaker>;AEK999(0)||:전투 중에 음악을 들으면 집중력이 흐트러지잖아.
-M950A(0);AEK999(0)<Speaker>AEK999</Speaker>||:난 정반대야. 걱정 마, 네 발목 안 잡을 테니까.
-M950A(0)<Speaker>M950A</Speaker>;AEK999(0)||:그럼 다행이고.
-AEK999(0)<Speaker></Speaker>||:...M950A가 떠나고, TMP가 다가왔다.
-TMP(0)<Speaker>TMP</Speaker>;AEK999(0)||:AEK? 전투... 문제 없겠죠?
-TMP(0);AEK999(0)<Speaker>AEK999</Speaker>||:지금 컨디션 최고야. +방금 새로운 노래를 하나 찾았거든, 들어볼래?
-TMP(0)<Speaker>TMP</Speaker>;AEK999(0)||:아... 네...
-()||:...TMP가 헤드폰을 AEK의 공유 채널에 접속하자, AEK가 재생 버튼을 눌렀다.
-()||<BGM>DJMAX_PlasticMethod</BGM>:...음악 재생.
-TMP(0)<Speaker>TMP</Speaker>;AEK999(0)||:이 노래... 역시 그 “도시”에서 받은 건가요?
-TMP(0);AEK999(0)<Speaker>AEK999</Speaker>||:맞아, 나한테 어울리지? 오늘 난 날아다닐 거라고. 
-TMP(0)<Speaker>TMP</Speaker>;AEK999(0)||:하지만... 앞으로도 계속 갈 건가요? 약속했잖아요, 다시는—— 
-TMP(0);AEK999(0)<Speaker>AEK999</Speaker>||:안 갈게... +이제 안 갈 테니까 걱정하지 마.
-()||:...TMP가 고개를 끄덕였다.
-M950A()<Speaker>M950A</Speaker>||:너희 둘! 빨리 따라와! 출발한다! 
-AEK999(0)<Speaker>AEK999</Speaker>||<黑点1>:알았어! +가자, TMP. +한바탕 날뛰고 오자고!
+()||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2>:나이를 먹을수록, 눈앞의 세상은 점점 커지기 마련이다. +이러한 변화를 느끼지 못하는 삶은 삶이라 할 수 없다. +어떤 이들은 한 걸음씩 나아가, 마침내 광활한 무대 위에서 자신의 운명을 찾아내지만+어떤 이들은 정해진 규칙에만 따르며, 앞서간 이들이 이뤄놓은 것에만 의지하며 살아간다. +감자칩의 포장을 뜯을 때조차 언제나 ‘뜯는 곳’ 표시를 따라야만 하는 등+M950A는 바로 이런 사람이다. 
+()||<黑屏1>:...쾅쾅쾅!
+M950A()<Speaker>M950A</Speaker>||<BIN>82</BIN><黑屏2><黑屏1>:문 열어!+야, 빨리 문 열어!
+()||<BIN>9</BIN><黑屏1>:나는 이런 사람이 싫다...
+M950A()<Speaker>M950A</Speaker>||<BIN>82</BIN><黑屏2>:문 열라고! 숙소 점검이야, 빨리!
+()||:...철컥.
+Thunder50(0)<Speaker>썬더</Speaker>||<BGM>BGM_Hello</BGM>:좋은 아침이야, M950A.
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:왜 이렇게 늦는 거야, 너 자고 있었지!
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:머리 말리느라, 못 들었어.
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:참나... 그런 건 일찍 일찍 좀 하라고. +AEK999는 어디 갔어? 곧 있으면 훈련이 시작되는데. 
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:......
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:빨리 말해, 썬더. AEK 그 녀석 또 어디로 사라진 거야?
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:............
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:그런 표정 짓는다고 그냥 넘어가 주지 않을 거야. +뭐라고 해도 내가 여기 부소대장이니까 나를 좀 존중해달라고—— +...잠깐, 뭐야!
+M950A(0);Thunder50(0)<Speaker></Speaker>||<SE1>Select</SE1><黑屏1>3</黑屏1>:...썬더는 갑자기 자신의 무기를 꺼내들었다.
+M950A()<Speaker>M950A</Speaker>||<BGM>BGM_Pause</BGM><黑屏2>3</黑屏2><BIN>9</BIN>:자 잠깐만... 너, 너 무슨 생——
+()||<SE1>Explode</SE1><黑屏1>3</黑屏1>:...뻥!! +...썬더가 M950A를 향해 발사한 총알은 목표의 머리카락 끝을 스쳐 지나갔고, 숙소 밖 복도에 거대한 총성이 울려 퍼졌다. 
+M950A(0)<Speaker>M950A</Speaker>||<黑屏2>3</黑屏2><BIN>82</BIN>:......
+M950A(0)<Speaker>M950A</Speaker>||<BGM>BGM_UnPause</BGM><震屏>:너, 너, 너너! 갑자기 뭐 하는 거야! 
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:감정표현.
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:무슨 감정을 총으로 표현해! 게다가 네 총소리는 엄청 큰 거 몰라?!
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:무서웠어. +네가 너무 몰아붙여서 무서웠어.... 이제 좀 괜찮네.
+M950A(0);Thunder50(0)<Speaker></Speaker>||:...썬더가 숨을 깊이 들이마셨다.
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:AEK는 아침 일찍 나가버려서 나도 어딨는지 몰라.
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:그럼 그렇게 말하면 되지, 무섭긴 뭐가 무섭다고! +그리고 걔를 잘 감시해야 한다니까? 그래서 너희 둘을 같은 숙소에 배정한 건데...
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:“하늘 같으신 선배님들이 막 입사한 그리폰 신인에게 하사하는 충고” 제 999조, 아무도 AEK999를 찾을 수 없다, 그녀가 원할 때는 예외.
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:그런 충고 시리즈 들어본 적도 없어...+잠깐... 잠깐 AEK가 어디 있는지 알 거 같아... +그 녀석 분명히 또 ‘그 곳’에 갔을 거야! 좋아, 현행범으로 체포해주지!
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:......
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:뭘 멍 때리고 있어, 너도 같이 가야지! 
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:나도 가야 돼? 
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:너는 내 파트너잖아, 당연히 같이 가야지!
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:언제부터?
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:처음부터! 우리 같이 여기 물러터진 분위기를 바로잡기로 약속했잖아! 
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:그건 네가 일방적으로 요구한 거고.
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:그럼 계속 도와주고 있던 건?
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:너밖에 날 상대해주는 사람이 없는 걸, 이유는 모르겠지만.
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:너만큼은 나처럼 규칙을 준수하는 사람이라고 믿었으니까! +대장이 착해빠져서 아무 말도 안 하니까 팀에 AEK 같은 문제아가 생기는 거라고. +게다가 TMP는 머릿속이 온통 무슨 꿍꿍이인지 알 수 없는 침묵변태고... +너라도 내 말을 들어주니까 다행이지, 너 아니었으면 아마 난 팀에서 왕따가 됐을 거야.
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:알고 있었네.
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:아까 내가 무섭다면서 그런 말은 왜 주저없이 말하는 건데!?
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:모두들 네가 지휘관 앞에서는 내숭 떨면서 +우릴 괴롭힐 땐 신나 보인다고 하는걸.
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:위계질서는 명확해야 하고 각자의 역할을 다하는 건 당연한 거야. +어째서 아무도 이해해주지 않는 건데, 진짜...+<size=30>그리고... 내가 언제 내숭을 떨었다는 거야...</size>
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:그래서, 뭘 도와주면 되는데?
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||<黑点1>:내가 항상 하는 일.
+()||<BIN>97</BIN><黑点2>:...M950A와 썬더가 복도를 걷고 있다.
+M950A(0)<Speaker>M950A</Speaker>||:썬더, 난 네가 나를 도와서 함께 노력해줬으면 해. 왜냐하면...
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:나한테 돈 줄 거야?
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:그게 아니라! +내 말은 너도 지휘관님한테 칭찬을 받고 싶을 거 아냐?
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:별로... 그냥 네가 시키는 대로 할게.
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:안돼! 난 네 마인드맵으로부터 우러나오는 변화를 원해! 넌 분명 나를 이해할 수 있을 거야! +그리폰의 일원으로서 이렇게 게으름을 피우면 안 되는 거잖아, 그치?!
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:하지만 여긴 철혈도 오기 싫어하는 곳인데...
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:그래, 맞아, 이 도시는 이미 완전히 폐허가 돼버려서, 사람의 발길이 끊긴지 몇 년이나 됐지. +하지만 채굴팀의 작업이 끝날 때까지 이 구역을 지키는게 우리의 임무야!
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:그래도 채굴이 다 끝나면, 모두 흩어져서 제 갈 길을 가겠지.
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:그날이 언제 찾아오든, 그전까지 우리는 모두 한 가족이라고, 무조건 잘 해내야해!
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:아무도 관심 없을걸, 애초에 지휘관도 우리한테 편하게 있으라고 했고. 
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:지휘관님이 우릴 항상 케어할 수 없으니까, 더욱더 스스로 잘 하려고 노력해야지.+이대로 가다가 만약 철혈이 기습 해온다면, 그때는 이미 모든 게 늦어버린 뒤야! +마지막 순간까지 풀어져서는 안돼, 너도 여기서 아쉬움을 남기고 싶진 않잖아, 썬더?
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:M950A, 넌 그동안 나한테 잘 대해주고, 내게 말도 걸어줬어. +그러니까 도와줄게, 아쉬움 같은 건 없지만.
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:오케이, 하지만 무슨 일이든 열심히 하는 건 언제나 옳은 일이야. +그럼 우린 이제 정식으로 파트너가 된 거야!
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:파트너?
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||<黑点1>:그래, 같이 그리폰의 기강을 바로잡을 파트너 말이야! +좋아, 도착했다.
+()||<BIN>46</BIN><BGM>BGM_Empty</BGM><黑点2>:...둘은 음산한 기운이 맴도는 밀실에 도착했다.
+Thunder50(0)<Speaker>썬더</Speaker>||:여기는 어디야? 아주 깊이 숨겨져있네.
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||<BGM>BGM_Room</BGM>:쉿... 조용히 해, 함부로 움직였다 들키면 안 돼.+기억하지? 여긴 예전에 오락실이었던 곳인데, 우리가 주둔하면서 TMP네가 고쳤어. +버려진지 오래돼서 보통은 아무도 오지 않는 곳이지만.
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:PC방?
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:비슷한 거야, 다만 헬멧을 쓰는 식으로... 전자전과 비슷하다고 할 수 있지. +내가 보기엔 AEK 그 녀석... 분명히 여기 있어.
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:안에서 뭘 하는데?
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:오락실이었다니까... +게임 아니면 웹서핑이나 채팅 같은 걸 하고 있지 않을까?
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:웹서핑이라니... +언제적 인형이야, M950.
+M950A(0)<Speaker>M950A</Speaker>||:무슨 상관이야! 이제 안 쓰면 되지! +아무튼 그런 거에 중독되면 안 된다고! 반드시 들어가서 AEK를 끄집어 내야 해——
+？？()<Speaker>？？</Speaker>||:날 끄집어내서 뭐 하려고.
+M950A(0)<Speaker>M950A</Speaker>||<震屏>:으악...!
+M950A(0);AEK999(0)<Speaker>AEK999</Speaker>||:미안, 놀랐어? +근데 우리 부대장님께서 무슨 일로 찾아온 거야? 썬더까지 데리고.
+M950A(0)<Speaker>M950A</Speaker>;AEK999(0)||:무슨 일이긴, 당연히 널 찾으러 왔지!+너야말로 여기에 뭐 하러 왔는데!
+M950A(0);AEK999(0)<Speaker>AEK999</Speaker>||:자료 찾으러 왔어. +조금 이따 훈련이 있잖아? +보다시피, 전술인형이 전쟁 다큐멘터리를 보며 인류의 경험을 습득하는 건데. 지극히 당연한 일 아닌가?
+M950A(0)<Speaker>M950A</Speaker>;AEK999(0)||:<b>정.말.이.야?</b>+훈련할 때 가장 대충대충 하는 게 네 녀석이잖아, 항상 게으름만 피우고!
+M950A(0);AEK999(0)<Speaker>AEK999</Speaker>||:그렇다고 해서 평소에도 노력하지 않는다고 단정 지으면 안 되지. +부대장, 설마 내가 채팅이나 게임 하러 온 거라 생각한 건 아니겠지?+부대 기강을 바로잡는 건 좋지만, 그전에 부대원을 잘 알아야 하지. 내가 그렇게 할 일 없는 인형으로 보여?
+M950A(0)<Speaker>M950A</Speaker>||:흥, 알 필요 없어.+AEK, 네가 공부를 하러 왔는지 웹서핑을 하러 왔는지는...+오락실 사용 기록을 조사해보면 다 나올 거야.
+AEK999(0)<Speaker>AEK999</Speaker>||<BGM>BGM_Empty</BGM>:......
+()||:...M950A가 AEK999를 쏘아봐도, AEK999는 여전히 태연한 모습이다. +...몇 초 뒤.
+Thunder50(0)<Speaker>썬더</Speaker>||:...웹서핑.
+M950A(0)<Speaker>M950A</Speaker>||:시끄러워, 썬더!+따라 들어와, 당장 진실을 파헤쳐줄 테니까!
+()||<SE1>Alarm</SE1>:그때 갑자기 경보가 울렸다.
+AEK999(0)<Speaker>AEK999</Speaker>||:무, 무슨 일이지!
+M950A(0)<Speaker>M950A</Speaker>||<BGM>BGM_Battle</BGM>:경계경보야! 적이 나타났나 봐!
+()||<SE1>RunStep</SE1>:...복도에서 발소리가 들려온다. 
+？？()<Speaker>？？</Speaker>||:허억, 허억...
+M950A(0)<Speaker>M950A</Speaker>||:쏘지마, 썬더! 아군이야!
+M950A(0)<Speaker>M950A</Speaker>||:TMP? TMP 맞지! 무슨 일이야, 빨리 보고해!
+TMP(0)<Speaker>TMP</Speaker>||:철, 철혈이에요! 정찰부대가 먼 곳에 있는 철혈을 발견했대요!  +대장이 모두 집합하라고 했어요, 대장은 지금 지휘관님께 연락해 지원을 요청하고 있어요!
+M950A(0)<Speaker>M950A</Speaker>||<黑点1>:그럼 가자, 모두 따라와!
+M950A()<Speaker>M950A</Speaker>||<黑点2><BIN>9</BIN><黑点1>:드디어 왔구나... 훈련이 아닌 진짜 실전! +지휘관님과 모두에게 멋진 모습을 보여주겠어!
+K2(0)<Speaker>K2</Speaker>||<BIN>85</BIN><黑点2>:앗, 모두 모인 거야? 정말 빠르네...
+M950A(0)<Speaker>M950A</Speaker>;K2(0)||:어떤 상황이야, 대장? +철혈은 어디까지 왔어? 언제 반격에 나설 거야?!
+M950A(0);K2(0)<Speaker>K2</Speaker>||:진정해 진정해, 사실 출격할 필요는 없어. 지금 철혈은... 한참 멀리 떨어져 있으니까.
+M950A(0)<Speaker>M950A</Speaker>;K2(0)||:엥?
+M950A(0);K2(0)<Speaker>K2</Speaker>||:심지어 우리 기지의 감시 범위 밖이야. 그냥 모처럼 정찰 부대가 발견했으니까 모두를 소집해서 경각심을 일깨우려고 한 거였어.
+M950A(0)<Speaker>M950A</Speaker>;K2(0)||:기껏 지휘관님까지 호출했으면서 안 싸우는 거야?
+K2(0)<Speaker>K2</Speaker>||:어... 그게... +지휘관님께선 적들은 우리 쪽으로 오는 게 아닌 거 같다고 했어. 물론 강해보이지는 않으니까 출격해도 별로 상관없지만...
+TMP(0)<Speaker>TMP</Speaker>||:최근 본부에 일이 많아서... 아, 아마... 저희까지 신경 쓰실 여유가 없으실 거예요...
+AEK999(0)<Speaker>AEK999</Speaker>||:놈들도 그냥 지나가는 길이겠지, 굳이 우리가 멀리까지 찾아갈 필요 없잖아.+그냥 내버려두자, 모두들 따로 할 일이 있을 거 아냐.
+M950A(0)<Speaker>M950A</Speaker>;AEK999(0)||:응? 항상 천상천하 유아독존이시던 AEK님께서 왜 갑자기 겁을 먹으셨을까? 
+M950A(0);AEK999(0)<Speaker>AEK999</Speaker>||:쓸데없는 일을 만들고 싶지 않을 뿐이야.
+M950A(0)<Speaker>M950A</Speaker>||:...썬더는 어떻게 생각해?
+M950A(0);Thunder50(0)<Speaker>썬더</Speaker>||:선제공격하는 게 좋을 것 같아.
+M950A(0)<Speaker>M950A</Speaker>;Thunder50(0)||:맞아, 철혈은 우리의 적이니까 당연히 해치워야지. 적이 쳐들어와야 나서면 주도권을 잃고 말아.
+M950A(0);TMP(0)<Speaker>TMP</Speaker>||:하, 하지만 저희는 싸워본 지 너무 오래 됐는 걸요...
+M950A(0)<Speaker>M950A</Speaker>||:그러니까 이번이 바로 실전을 경험할 기회인 거야, 주도권을 뺏기면 안 돼.
+K2(0)<Speaker>K2</Speaker>||:그래서 모두의 의견은... 싸울 거야 말 거야?
+TMP(0)<Speaker>TMP</Speaker>||:(절래절래)
+AEK999(0)<Speaker>AEK999</Speaker>||:정찰 부대 보고 좀 더 지켜보라고 하는 게 좋겠어. 
+Thunder50(0)<Speaker>썬더</Speaker>||:선제공격.
+M950A(0)<Speaker>M950A</Speaker>||:싸우자! 단숨에 해치우자!
+K2(0)<Speaker>K2</Speaker>||:나도 공격에 한 표, 우리를 노리는 게 아니어도 다른 곳에서 문제를 일으킬 수 있으니까.+게다가... 모처럼 임시 지휘권한을 얻어 놓고 여태껏 한 번도 못 써봤는데, 이제 한 달 뒤면 반납해야 한다고. 이번 기회에 한 번 정도 대장이 된 기분을 느껴봐야 되지 않겠어?
+M950A(0)<Speaker>M950A</Speaker>||:흐흥, 그래야 우리의 대장답지——어때, AEK?
+AEK999(0)<Speaker>AEK999</Speaker>||:쳇... 알았어, 나도 싸움을 꺼리진 않으니까.
+K2(0)<Speaker>K2</Speaker>||<黑屏1>0.5</黑屏1>:좋아, 그럼 득표수 3대2로 출격하는 걸로 결정.+오랜만에 몸을 푸는 거니까 다들 준비 단단히 해.
+()||<BIN>10</BIN><BGM>BGM_Empty</BGM><黑点2><SE1>Select</SE1>:...소대 정비중.
+M950A(0)<Speaker>M950A</Speaker>||:AEK, 지금 싸우러 가는 마당에 그 해드폰 계속 쓰고 갈 거야?
+M950A(0);AEK999(0)<Speaker>AEK999</Speaker>||:넌 음악 싫어해? 
+M950A(0)<Speaker>M950A</Speaker>;AEK999(0)||:전투 중에 음악을 들으면 집중력이 흐트러지잖아.
+M950A(0);AEK999(0)<Speaker>AEK999</Speaker>||:난 정반대야. 걱정 마, 네 발목 안 잡을 테니까.
+M950A(0)<Speaker>M950A</Speaker>;AEK999(0)||:그럼 다행이고.
+AEK999(0)<Speaker></Speaker>||:...M950A가 떠나고, TMP가 다가왔다.
+TMP(0)<Speaker>TMP</Speaker>;AEK999(0)||:AEK? 전투... 문제 없겠죠?
+TMP(0);AEK999(0)<Speaker>AEK999</Speaker>||:지금 컨디션 최고야. +방금 새로운 노래를 하나 찾았거든, 들어볼래?
+TMP(0)<Speaker>TMP</Speaker>;AEK999(0)||:아... 네...
+()||:...TMP가 헤드폰을 AEK의 공유 채널에 접속하자, AEK가 재생 버튼을 눌렀다.
+()||<BGM>DJMAX_PlasticMethod</BGM>:...음악 재생.
+TMP(0)<Speaker>TMP</Speaker>;AEK999(0)||:이 노래... 역시 그 “도시”에서 받은 건가요?
+TMP(0);AEK999(0)<Speaker>AEK999</Speaker>||:맞아, 나한테 어울리지? 오늘 난 날아다닐 거라고. 
+TMP(0)<Speaker>TMP</Speaker>;AEK999(0)||:하지만... 앞으로도 계속 갈 건가요? 약속했잖아요, 다시는—— 
+TMP(0);AEK999(0)<Speaker>AEK999</Speaker>||:안 갈게... +이제 안 갈 테니까 걱정하지 마.
+()||:...TMP가 고개를 끄덕였다.
+M950A()<Speaker>M950A</Speaker>||:너희 둘! 빨리 따라와! 출발한다! 
+AEK999(0)<Speaker>AEK999</Speaker>||<黑点1>:알았어! +가자, TMP. +한바탕 날뛰고 오자고!

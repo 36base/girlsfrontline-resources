@@ -1,0 +1,38 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>84</BIN><黑屏2><BGM>GF_21winter_avg_nightbar</BGM>:오전의 빡빡한 스케줄을 소화한 당신은 진작부터 녹초였지만, 쉬지 않고 오늘 밤 공연이 있을 라이브 하우스에 왔다.+프랑슈슈에게는 그저 "사전 정찰"이라 둘러댔지만, 당신의 진의가 무엇인지는 스스로가 가장 잘 알았다.
+()||<黑点1>:
+()<Speaker>지휘관</Speaker>||<黑点2><BIN>586</BIN><SE1>AVG_20Winter_Door_Open</SE1>:......
+()<Speaker></Speaker>||:현장은 이미 팬들의 화환과 브로마이드로 발 디딜 틈이 없어, 나이트 카페의 인기를 실감할 수 있었다.+그리고, 때마침 면식 있는 사람도 보였다.
+()<Speaker>지휘관</Speaker>||:안녕, 또 만났네.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:오, 역시 왔구나. 나이트 카페의 콘서트를 보러 왔어?
+()<Speaker>지휘관</Speaker>||:......<c>A 나이트 카페를 보러 왔다.<c>B 프랑슈슈를 위해서 왔다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:사실 내가 팬인 그룹도 오늘 밤 여기서 공연해.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<分支>2</分支>:엉? 설마 그 듣보... 아니, 프랑 뭔가 하는 거기?
+NPC-Fans(0)<Speaker>지휘관</Speaker><Position>0,-250</Position><Scale>1.7</Scale><同时置暗>||<分支>2</分支>:그래, 맞아.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<分支>2</分支>:거 참 고생이겠네.+나이트 카페랑 너무 비교당하지 않길 바랄게. 뭐, 어쩔 수 없는 노릇이겠지만!
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:그건 아직 모르는 일이지.
+()<Speaker></Speaker>||<分支>2</分支>:그러면서도 눈길은 콘서트 포스터로 향했다. 오로지 나이트 카페의 모습이 포스터를 가득 채웠고, 프랑슈슈는 이름조차 적혀 있지 않았다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:그래, 엄청 기대돼.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<分支>1</分支>:잘됐네! 절대 실망할 일 없을 거라구!
+NPC-Fans(0)<Speaker>지휘관</Speaker><Position>0,-250</Position><Scale>1.7</Scale><同时置暗>||<分支>1</分支>:응!
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<分支>1</分支>:아 근데 그러고 보니까, 오늘 오프닝 무대는 어디의 듣보잡이 한다고 하던데...+이름이 뭐였더라...
+NPC-Fans(0)<Speaker>지휘관</Speaker><Position>0,-250</Position><Scale>1.7</Scale><同时置暗>||<分支>1</分支>:프랑슈슈?
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<分支>1</分支>:아, 그거 맞을 거야. 불쌍하네~ 나이트 카페 전에 공연이라니 철저하게 비교당할 텐데.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:......
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:그럼 먼저 갈게, 나이트 카페가 벌써 사가에 와서 구경 중이란 정보가 입수됐거든.+"어쩌다" 마주치려면 서둘러야지!
+NPC-Fans(0)<Speaker>지휘관</Speaker><Position>0,-250</Position><Scale>1.7</Scale><同时置暗>||:그래... 뭣, 뭐라고?!+어, 어디 가면 볼 수 있는데!?
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:오우, 말은 그래도 벌써 팬클럽 들어와도 되겠는걸? 내가 들은 바로는 나이트 카페는 어딜 가면 그 동네서 유명한 치킨집이나 노래 연습장을 들른다고 해.
+NPC-Fans(0)<Speaker>지휘관</Speaker><Position>0,-250</Position><Scale>1.7</Scale><同时置暗>||:치킨집이나 노래 연습장이라... 알았어, 고마워.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:천만에, 팬들끼린 서로 돕고 살아야지. 그럼 밤에 또 보자.
+()<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1>:잠깐만, 한 가지만 더.
+()<Speaker></Speaker>||:자리를 떠나려는 소녀를 붙잡아 세웠다. 사실, 처음 만났을 때부터 매우 익숙한 기분이어서 확인해보고 싶은 것이 있었다.
+()<Speaker>지휘관</Speaker>||:너... 잠깐 가면 좀 벗어 볼래?
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale><Shake>0.1</Shake>||:<size=50>엑, 뭐야, 뭐하려고?!</size>+이거 놔! 내 가면은 내 최애만 손댈 수 있다고!
+()<Speaker>지휘관</Speaker>||:아니 닳는 것도 아니고 잠깐 네 얼굴 좀 보자니까? 내가 아는 누구랑 엄청 닮은――
+()<Speaker></Speaker>||<SE1>Rope</SE1>:질색하며 팔을 휘두르는 소녀와 투닥대던 당신의 손이 간신히 가면에 닿은 그 순간...
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1><白屏2>:얼굴에 정통으로 박치기를 맞고 말았다.
+()<Speaker>지휘관</Speaker>||:꾸흐악!!
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:헉... 헉... <size=50>진짜 실망이야!</size>+<size=50>너 같은 변태가 같은 나이트 카페 팬이라니!</size>
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:가면을 쓴 소녀는 뒤도 안 돌아보고 뛰쳐나갔고, 남겨진 당신은 박치기에 당한 코를 부여잡고 한참을 뒹굴었다.
+()<Speaker>지휘관</Speaker>||:끄으... 최소한 수확은 있었다...+오후엔 노래 연습장이랑 치킨집을 둘러봐야겠어.
+()||<黑点1>:

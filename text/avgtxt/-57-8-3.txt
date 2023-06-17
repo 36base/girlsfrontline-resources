@@ -1,0 +1,98 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>595</BIN><回忆><边框>2</边框><BGM>BGM_Saga_AVG_Day</BGM>:콘서트 시작까지 앞으로 15분.+당신은 당신에게 마련된 특별석에 앉았다. 공연장에서 전경이 가장 좋은 이 자리는 프랑슈슈의 공연을 감상하기 안성맞춤이었다.+좌우로 앉은 익숙한 얼굴들이 없었으면 더할 나위 없었을 테지만.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<边框>2</边框>:오늘 콘서트, 자신 있나?
+NPC-Ninja(5)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||<边框>2</边框>:음... 그럭저럭?
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<边框>2</边框>:제발, 난 엄청 기대하고 있다고...
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<边框>2</边框>:아무리 완벽하게 준비한 콘서트라도 안티가 끼어들면 말짱 도루묵이 되기 마련이야.+하물며 나이트 카페와 그레이 트리를 서포트로 불렀는데, 두 팬덤이 도장깨기 하고 싶어서 안달 났음 어떡할래?
+()<Speaker>지휘관</Speaker>||<边框>2</边框>:에이 설마 그 정도까지는...
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<边框>2</边框>:내기할까?
+NPC-Fans(0)<Speaker>지휘관</Speaker><Position>0,-250</Position><Scale>1.7</Scale><同时置暗>||<边框>2</边框>:무슨 내기?
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<边框>2</边框>:이따 공연 시작되고 관객석서 야유 한 번 터질 때마다 네가 10엔.+끝까지 한 번도 안 나오면 내가 10만 엔.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<边框>2</边框>:그거 구미가 당기는걸... 나도 하겠어.
+()<Speaker>지휘관</Speaker>||<边框>2</边框>:좋아, 미리 입금할 준비나 하라고!
+()||<黑屏1><边框>2</边框><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<关闭蒙版><黑屏2><BIN>9</BIN><SE1>AVG_20Winter_Bar_Cheering_V2</SE1><BGM>BGM_Saga_AVG_Live_Bad</BGM>:공연장의 조명이 점점 어두워져, 곧 무대가 시작될 것을 알렸다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:당신은 자신만만하게 응원 패널을 치켜들었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>583</BIN>:공연이 시작되고, 약 2시간 후.+당신은 어림잡아 6,770만 엔을 떼였다.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker>스크립터</Speaker>||:......
+()<Speaker></Speaker>||:저 무대 위 프랑슈슈의 괴로운 표정을 바라보는 당신은 그들보다 더하면 더했지 덜하진 않았다.+당신은 언제나 쉽사리 포기하지 않는 사람이었다.+하지만 지금 이 순간만큼은 차라리 인간을 그만두고 모래 알갱이가 되어 땅속으로 사라지고 싶은 심정이었다.
+()<Speaker>관중</Speaker>||<SE1>AVG_Crowd</SE1><震屏3>:<size=50>내려와라 그냥! 뭐하는 거야, 음정 맞는 게 하나도 없잖아!</size>
+()<Speaker>미나모토 사쿠라</Speaker>||:히익... 죄송합니다, 정말 죄송합니다!
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:당신을 그저 입을 뻐끔거릴 뿐이었다.+이렇게 실수 잔뜩에 엉망진창인 무대이니, 반박조차 할 수가 없었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:턱이 빠진 듯 멍하니 바라보던 은발의 소녀가 천천히 고개를 돌렸다.
+()<Speaker>열성팬</Speaker>||:쟤네... 혹시 외계인한테 바꿔치기당했거나 그런 거야...?
+()<Speaker>지휘관</Speaker>||:어쩌면...
+()<Speaker>스크립터</Speaker>||<震屏3>:너... <size=50>대체 프로듀서 짓을 어떻게 한 거야?!</size>
+()<Speaker>지휘관</Speaker>||:난...
+()<Speaker>관중</Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><SE1>AVG_Crowd</SE1>:<size=50>그냥 때려쳐라 때려쳐!</size>
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:실망감에 격분한 관객들이 차마 입에 담지 못할 비난을 퍼부어댔고, 눈물을 뚝뚝 흘리는 사쿠라와 릴리를 유우기리가 꾹 참으며 다독였다.
+()<Speaker></Speaker>||:간신히 침착함을 유지하는 아이와 준코도, 무너지기 직전인 표정으로 노발대발하는 사키를 붙잡아 말리는 중이었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM><SE1>AVG_BaseDoor_Close</SE1>:결국 혼란을 진정시키기 위해 급히 무대의 막이 내려졌다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<BGM>BGM_Truth</BGM>:......이걸로 끝?
+()<Speaker>지휘관</Speaker>||:......
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale><Shake>0.1</Shake>||<SE1>AVG_Punch_Hit</SE1><SE1>ClothingUp</SE1>:이건 프랑슈슈에게 더없이 중요한 콘서트였어!+<size=50>이렇게 망쳐버려서는 재기불능이라고!</size>
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_File_Put</SE1><SE1>AVG_Punch_Hit</SE1>:그때, 어디선가 프랑슈슈의 응원 패널이 당신을 향해 날아왔다.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:바닥에 패대기쳐진 패널은 조각나 버렸고, 거기에 그려진 프랑슈슈의 환한 미소도 조각나 버렸다.
+NPC-Ninja(5)<Speaker>스크립터</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:......+난 먼저 간다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:스크립터는 더는 당신에게 눈길도 주지 않고 관객들 사이로 모습을 감췄다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:저 사람 엄청 속상해 보이는데...
+NPC-Fans(0)<Speaker>지휘관</Speaker><Position>0,-250</Position><Scale>1.7</Scale><同时置暗>||:...엄청 실망했곘지.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:아니 솔직히 나도 영문을 모르겠어.+저번에 그레이 트리랑 맞붙었을 땐 엄청 잘했잖아, 대체 어디서 문제가 생긴 거야?
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:그 말에 당신은 이 며칠간을 돌이켜보았다.+당신은 처음부터 프랑슈슈의 트레이닝을 극복해야 할 난제로 보지 않았다.+그저 가끔씩 보컬과 안무 연습을 도왔을 뿐, 그들이 그레이 트리를 꺾은 것을 보곤 자만에 빠져 트레이닝을 소홀히한 것이었다.
+()<Speaker>지휘관</Speaker>||:그게... 이렇게...
+()<Speaker></Speaker>||:프랑슈슈의 트레이닝을, 지휘실의 탁상에 놓인 서류 더미처럼, 그냥 내버려둬도 다른 누군가가 해결해 줄 것으로 착각했다.+하지만 여기는 그리폰이 아님을, 부지런히 대신 업무를 분담해 주는 부관도 없음을 망각하고 말았다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:빨리 백스테이지 가서 애들 위로해 줘, 내가 봐도 안쓰럽다.
+()<Speaker>지휘관</Speaker>||:응...
+()<Speaker>관중</Speaker>||<SE1>AVG_Crowd</SE1>:<size=50>환불해! 환불해! 환불해!</size>
+()<Speaker></Speaker>||:당신은 넋두리가 나간 채 분노하는 관객들 사이를 스쳐 지나갔다. 그들이 뱉는 말에 차마 귀를 기울이지도, 얼굴을 바라보지도 못했다.
+()||<黑屏1><SE1>AVG_20Winter_Door_Open</SE1>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Empty</BGM><SE1>AVG_20Winter_Door_Close</SE1><BIN>470</BIN>:잠시 후, VVVIP 대기실.+무거운 발걸음으로 방에 들어서자마자, 침울한 기운이 당신을 덮쳤다.+프랑슈슈는 이미 화장도 지우고 소파에 모여 흐느끼고 있었다.
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<BGM>BGM_Wake</BGM>:지휘관... 어뜩해요...+공연... 공연 망쳐서...
+NPC-MizunoAi(8)<Speaker>미즈노 아이</Speaker><Position>60,-190</Position><Scale>1.27</Scale>||:......
+()<Speaker>지휘관</Speaker>||:울지 마... 너흰 아직 앞날이 창창하잖니, 기회는 앞으로도 많을 거야...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:무의미하고 뻔한 말로 애써 위로하며, 당신은 소파 옆에 주저앉았다.
+NPC-Junko(7)<Speaker>콘노 준코</Speaker><Position>60,-90</Position><Scale>1.27</Scale>||:다들 우리를 보러 와 줬는데, 엄청 실망했겠죠...
+NPC-Saki(11)<Speaker>니카이도 사키</Speaker><Position>0,-150</Position><Scale>1.34</Scale>||:아 한심한 소리 그만들 혀! 그래, 이번엔 못했지! 고럼 다음에 모두가 우릴 다시보게 만들 만큼 잘하면 될 거 아니여!
+NPC-Tae(8)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||<SE1>AVG_Bite</SE1>:질겅질겅... (기운 없이 오징어채만 씹는 중.)
+NPC-Lily(10)<Speaker>호시카와 릴리</Speaker><Position>70,-160</Position><Scale>1.24</Scale>||:다음 공연... 보러 와 줄 사람 있을까...
+NPC-Yugiri(7)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.9</Scale>||:우리가 포기하지 않는 한, 분명 누군가는 걸음을 멈추고 우리의 반짝임을 볼 거예요.
+()<Speaker></Speaker>||:다만 모두가 입을 다물었고, 잠시 울먹이고 훌쩍이는 소리만 방 안에 메아리쳤다.+뭐라도 말해 주고 싶었지만, 무슨 소용이랴. 이미 끝난 결말은 바꾸지 못한다.+할 수 있는 것은 오직 후회뿐. 훈련을 소홀히 여긴 과거의 자신을 원망할 뿐이었다.
+()<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1>:미안해...
+()<Speaker></Speaker>||:이것이 두 번째 사과였다.+하지만 결의에 찼던 처음과는 달리, 이번 것은 완전히 실의에 빠진 것이었다.
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:아뇨, 지휘관 잘못이 아니에요...
+NPC-Junko(7)<Speaker>콘노 준코</Speaker><Position>60,-90</Position><Scale>1.27</Scale>||:자책 마세요, 지휘관님...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:당신의 손에 따듯한 손이 얹혔다, 지금 이 상황에서조차 그들은 당신을 믿고 있었다.
+NPC-Yugiri(8)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.9</Scale>||:그래요, 울지 마시와요.
+NPC-Lily(12)<Speaker>호시카와 릴리</Speaker><Position>70,-160</Position><Scale>1.24</Scale><Shake>0.1</Shake>||:지휘관이 그러면 릴리도... 릴리도...!
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:프랑슈슈가 당신에게 모여 묵묵히, 하지만 단단히 포옹했다.+뜨거운 눈물과 슬픈 숨결이 옷을 적시는 것이 느껴졌다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>9</BIN>:이 절망적이고 괴로운 현실로부터 벗어나고 싶은 마음에, 당신은 눈을 질끈 감았다.
+()<Speaker></Speaker>||:어둠엔 눈물도, 울먹임도 없었다.+아니, 아무것도 없었다.+어둠 속에서 한참을 가만히 서 있던 당신은 그제서야 이상함을 눈치챘다.
+()<Speaker></Speaker>||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:파도가 배의 밑바닥에 부서지는 소리.+그리고 바닷가 특유의 짭조름한 공기에 섞인, 어렴풋한 꽃향기.
+()<Speaker>지휘관</Speaker>||:여긴... 어디지?
+()<Speaker></Speaker>||:등뒤에서 왠지 익숙한 목소리가 들렸다.
+()<Speaker>？？？</Speaker>||:그 아이들의 공연을 망쳤구나.
+()<Speaker>지휘관</Speaker>||:나는...
+()<Speaker>？？？</Speaker>||:만약 처음부터 다시 시작할 수 있다면, 어떡할 거지?
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker>？？？</Speaker>||:가라, 운명의 바퀴는 다시 돌기 시작했다.
+()<Speaker>지휘관</Speaker>||:아직... 기회가 있어? 정말 처음부터 다시 시작할 수 있다고?
+()<Speaker>？？？</Speaker>||:이미 시작된 모든 것은 지금도 멈추지 않는다.
+()<Speaker></Speaker>||:파도가 부서지고, 수면을 가르는 소리. 이 배는 지금 바다 위를 빠르게 달리고 있었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<睁眼><BIN>82</BIN><Night><SE1>Stop_AVG_loop</SE1>:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:눈을 떠 보니, 당신은 차가운 바닥에 드러누워 있었다.
+()<Speaker>지휘관</Speaker>||:......?
+()<Speaker></Speaker>||:머릿속이 새하얬다. 엄청 긴 꿈을 꾼 것 같은데, 내용은 전혀 기억나지 않았다.+화면은 여전히 그 선택지 앞에 머물러 있었다.+<color=#FFFF00>[다음 중 당신이 좋아하는 아이돌은 무엇입니까?]</color>
+()<Speaker>지휘관</Speaker>||:이건... 대체 뭐지...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:갑자기 두통이 엄습해 주의를 흩트렸고, 두통약을 찾느라 당신은 보지 못했다.+화면 속 커서가 멋대로 결정을 내리는 것을.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_Card_Reader</SE1>:딸깍.+운명의 바퀴가 다시 움직이기 시작했다.
+()||<黑点1>:

@@ -1,0 +1,140 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>569</BIN>:아베르누스, 의식의 호수.
+()<Speaker></Speaker>||<BGM>BGM_23S_War_Sacrifice</BGM><SE1>AVG_magic_circle_start</SE1><白屏2>:쩌억...+화려한 무지개 천장이 서서히 갈라졌다.
+()||<白屏1>:
+()||<白屏2><BIN>462</BIN>:현란하던 일곱 빛깔은 점점 하나로 뭉쳐졌다.+찬란한 금빛.+희망의 금빛.
+NPC-MrsGray(1)<Speaker>그레이</Speaker><GradientShow>1.5</GradientShow>||:마침내...+햇빛을 다시 보는군요...
+NPC-Ange(0)<Speaker>안젤리아</Speaker><GradientShow>1.5</GradientShow>||:빠져나온 거야?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그레이는 대답 대신 웬 서류 봉투를 안젤리아에게 건넸다.+안에는 레코드판 한 장이 들어있었다.
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:가져가세요.+태양을 향해 나아가서, 호수의 수면에 있을 그 문에 도착했을 때...+이게 문을 열 "열쇠"가 될 거예요.
+()<Speaker></Speaker>||:종이 봉투엔 붉은 유성펜으로 <b>"9367"</b>라 적혀 있었다.
+()<Speaker></Speaker>||<SE1>AVG_2023Slow_Fall_into_water_v2</SE1>:안젤리아가 봉투를 집자, 그레이는 손을 놓았다. 그리고 물에 빠진 사람처럼 서서히 가라앉기 시작했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:안젤리아는 반사적으로 손을 뻗었다.
+NPC-Ange(0)<Shake>0.1</Shake><Speaker>안젤리아</Speaker>||:뭐하는 거야?!
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:"저"는 테스트를 하고 남은 잉여 데이터예요.+발견되면 수정되고 삭제되겠죠. 그리고 이 통로를 사용했으니 제 존재를 들켰을 거예요.
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:당신의 대답을 들어서 정말로 기뻐요.+고마워요, 안젤리아.+당신에겐 돌아갈 이유가 있다고 했죠?+그럼 어서 가서, 당신이 하고자 하는 일을 하세요.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:......
+()<Speaker>그레이</Speaker>||:저는 비록 그레이 블랙웰의 한 순간에 지나지 않지만...+저도, 그녀처럼...+한 사람의 인간으로서, 존엄 있게 끝을 맞이하고 싶어요.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:......
+()||<controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=5</controll_shake><SE1>AVG_2023Slow_Came_to_surface</SE1><白屏1>:안젤리아는 서서히 수면을 향해 떠올랐다.
+()||<白屏2>:그 편지들은, 마치 호수에 이는 물거품처럼...+한 방울 한 방울, 안젤리아의 의식 속에서 떠올랐다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<回忆><边框>2</边框><黑屏2><BIN>655</BIN>:2047년, 마이트너가 9일 밤 베슬란에서.
+()<Speaker></Speaker>||<边框>2</边框>:2051년, 블랙웰이 9일 새벽 베를린에서.
+()<Speaker></Speaker>||<边框>2</边框>:2051년, 마이트너가 3일 점심 모스크바에서.
+()<Speaker></Speaker>||<边框>2</边框>:2051년, 블랙웰이 3일 밤 베를린에서.
+()<Speaker></Speaker>||<边框>2</边框>:2050년, 마이트너가 6일 심야 베슬란에서.
+()<Speaker></Speaker>||<边框>2</边框>:2058년, 블랙웰이 6일 새벽 베를린에서.
+()<Speaker></Speaker>||<边框>2</边框>:2058년, 마이트너가 7일 오전 베를린에서.
+()<Speaker></Speaker>||<边框>2</边框>:2051년, 블랙웰이 7일 오후 베를린에서.
+()||<黑屏1><边框>2</边框>:
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||<黑屏2><BIN>569</BIN><边框>2</边框>:만약 과거의 선배를 만나봤다면, 당신도 선배가 얼마나 눈부신 사람인지 바로 알았을 거예요.
+()||<黑屏1><边框>2</边框>:
+NPC-Ange(3)<Speaker>안젤리아</Speaker>||<关闭蒙版><黑屏2><BIN>9</BIN><hide_dialogue><InputBox>%%code=UGUIPrefabs/AVG/InputBox%%password=9367%%errormsg=1'패스워드 오류;2'패스워드 오류;3'패스워드 오류%%</InputBox>:...그래, 만나봤지.+나도 알아, 그레이.+그래서 나는 그녀를 죽여야만 해.+그녀를 죽여야만 한다고...+자신의 손으로 스스로를 죽인 그녀를 죽여야만 해.+그녀는 아주 오래 전부터, 마사 마이트너가 아니게 되었어.+지금의 그녀는 "라플라스"야...
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Baggage_bomb_Activation</SE1>:삐이——
+()<Speaker></Speaker>||:......
+()||<白屏1>:
+()||<白屏2><BIN>183</BIN>:......
+()||<白屏1>:
+()||<白屏2><BIN>510</BIN><SE1>ClothingUp</SE1>:아베르누스 동탑, 상태관측실의 하얀 방.
+()||:안젤리아가 깨어났다.
+()||<SE1>AVG_BaseDoor_Open</SE1>:하얀 방은 문이 열렸다.
+()||<SE1>RunStep</SE1>:RO635는 곧장 안으로 달려 들어갔고, 콜레다도 일어나려는 그녀를 부축해 침대에 앉혔다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:상처투성이인 안젤리아는 창백한 얼굴로, 다급하게 달려온 RO를 보고 가까스로 미소를 짜냈다.
+()<Speaker>안젤리아</Speaker>||:지휘관한테... 할 말이 있어...
+RO635Mod(3)<Speaker>RO635</Speaker>||:네, 하지만 지금은 외부에 연락이...
+RO635Mod(3)<Speaker>RO635</Speaker>||:아, 우선 이것부터 쓰세요.+페르시카 씨가 안젤리아 씨에게 전해 달라 하신 "철완"이에요, 아직 미완성이지만요.
+()||<SE1>ClothingUp</SE1>:RO635가 "철완"을 꺼내, 조심조심 안젤리아의 오른손목에 채웠다.
+()||<BGM>BGM_Empty</BGM><SE1>AVG_The_Division_Baggage_bomb_Activation</SE1>:삐——+<color=#00CCFF>철완, 매칭 성공.</color>+<color=#00CCFF>호흡 빈도 - 8회/분</color>+<color=#00CCFF>체온 - 38.4℃</color>+<color=#00CCFF>혈압 - 70/45mmHg</color>+<color=#00CCFF>혈중 산소 - 85%</color>+<color=#00CCFF>심박수 - 200</color>+<color=#00CCFF>CVP - 2mmHg</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||<BGM>GF_2022_Summer_Main_1</BGM><SE1>AVG_tele_connect</SE1>:45 씨, 들려요!?+안젤리아 씨가 정신을 차렸어요, 당장 아이네이아스 회의실 링크를 열어 주세요!
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>안젤리아?! 알았어, 잠깐만!</color>
+()<Speaker></Speaker>||:안젤리아의 목소리는 허약했지만, 여느 때보다 결의를 다진 듯 굳셌다.
+()<Speaker>안젤리아</Speaker>||<SE1>AVG_tele_connect</SE1>:...오랜만이야, 지휘관.
+()<Speaker>안젤리아</Speaker>||:시간 없으니까 결론부터 말할게.+정말 미안하지만, 난 아직 여길 떠날 수 없어.
+()||<黑点1>:
+()<Speaker>안젤리아</Speaker>||<黑点2>:잘 들어 지휘관. 내 계획은——+"무로메츠" 작전이야.
+()<Speaker></Speaker>||<narrator>:“Как пряму ехати+живу не бывати+нет пути ни прохожему, ни проезжему, ни пролетному”
+()<Speaker>안젤리아</Speaker>||:할 말은... 이걸로 끝.
+RO635Mod(5)<Speaker>RO635</Speaker>||:당장 밖으로 호송해드릴게요.
+RO635Mod(5)<Speaker>안젤리아</Speaker><同时置暗>||:아니, 지금부터 너희에게 맡길 임무가 있어.
+RO635Mod(3)<Speaker>RO635</Speaker>||:하지만 이 층은 지금 오염 지수가 상승하고 있어요.
+RO635Mod(3)<Speaker>안젤리아</Speaker><同时置暗>||:그딴 것보다 훨씬 중요한 임무야.+지휘관의 작전에 시간을 벌어 줘야 해.
+RO635Mod(2)<Speaker>RO635</Speaker>||:...알겠습니다.
+()<Speaker></Speaker>||<SE1>AVG_BaseDoor_Close</SE1>:......
+()||<黑屏1>:
+()||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:......
+()<Speaker>？？？</Speaker>||:정말 놀라워요, 안젤리아. 여태까지 버티다니.
+()<Speaker>안젤리아</Speaker>||<BGM>Campaion-58-2</BGM>:너도 참 놀랍다, RPK.
+()<Speaker>안젤리아</Speaker>||:......
+RPK16_Nyto(0)<Speaker>RPK16</Speaker><GradientShow>1.5</GradientShow>||:"테세우스의 역설", 들어보셨나요?
+RPK16_Nyto(0)<Speaker>안젤리아</Speaker><同时置暗>||:......지금 넌 누구야?
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||:아주 오래 전, 어느 인간이 이런 질문을 했어요.+테세우스의 배를 구성하는 나무를 하나씩 교체하다, 끝내 모든 나무가 원래의 것이 아니게 되었을 때, 그 배는 여전히 원래의 배라 할 수 있는가.+인형에 대입하자면, 소체의 부품을 교체하거나, 아예 새로운 소체로 갈아타더라도 여전히 원래의 인형일까요?
+RPK16_Nyto(0)<Speaker>안젤리아</Speaker><同时置暗>||:RPK-16...
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||:인간에게 대입한다면...+제가 당신의 얼굴을 하고, 당신의 몸을 하고, 당신의 방식대로 생각한다면, 누가 저를 당신이 아니라 할 수 있을까요?
+()<Speaker>안젤리아</Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><边框>2</边框><BIN>654</BIN><SE1>AVG_21Winter_Fire_Alarm</SE1>:다시, 가장 처음의 장소로 끌려왔다.+하지만 이번엔 교실에 그녀만 있는 것이 아니었다.
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||<边框>2</边框>:오랜만이에요, 안젤리아.
+()<Speaker>안젤리아</Speaker>||<边框>2</边框>:......
+()<Speaker></Speaker>||<边框>2</边框>:한 대 쥐어박고 싶은 익숙한 미소.
+()<Speaker>안젤리아</Speaker>||<边框>2</边框>:오랜만? 처음부터 있었으면서.
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||<边框>2</边框>:아아, 당신의 기억 말이라면 그렇죠. 전 어디에나 있었어요.
+RPK16_Nyto(0)<Speaker>안젤리아</Speaker><同时置暗>||<边框>2</边框>:내 기억에... 원래는 일어난 적 없는 일들이 잔뜩 섞였어.
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||<边框>2</边框>:어머나, 그걸 눈치채셨어요? 이 버전을 더 좋아하실 줄 알았는데.
+()||<边框>2</边框><黑屏1>:
+NPC-Sinia(0)<Speaker>RPK-16</Speaker>||<黑屏2><边框>2</边框>:......
+NPC-Sinia(0)<Speaker>안젤리아</Speaker><同时置暗>||<边框>2</边框>:베슬란 제1중학교에서, 너는 시니아였지.
+NPC-Sinia(0)<Speaker>RPK16</Speaker>||<边框>2</边框>:안나는 스트루가츠키 형제의 작품을 좋아해?
+()||<边框>2</边框>:RPK-16은 턱을 치켜올리며 순진무구하게 웃었다.
+()||<边框>2</边框><黑屏1>:
+()<Speaker>안젤리아</Speaker>||<边框>2</边框><黑屏2><BIN>480</BIN>:전장에서, 너는 알렉산더였고.
+NPC-Alexander(0)<Speaker>RPK16</Speaker>||<边框>2</边框>:...다 듣고 계셨습니까?
+()||<边框>2</边框><黑屏1>:
+()<Speaker>안젤리아</Speaker>||<边框>2</边框><黑屏2><BIN>8</BIN>:그리폰 기지에서는 LAMG.
+LAMG(0)<Speaker>RPK16</Speaker>||<边框>2</边框>:안젤리아 지휘관님, 오늘은 임무 안 나가나요?
+()||<边框>2</边框><黑屏1>:
+()<Speaker>안젤리아</Speaker>||<边框>2</边框><黑屏2><BIN>168</BIN>:그리고 브레멘에선... 그냥 너였고.
+RPK16(0)<Speaker>RPK16</Speaker>||<边框>2</边框>:다 들켜버렸네요.
+()||<边框>2</边框><黑屏1>:
+()<Speaker>안젤리아</Speaker>||<BIN>9</BIN><黑屏2>:왜 그랬냐?
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||:그냥... 더 가까이 있고 싶어서요. 당신에게, 좀 더 가까이.+당신을 좀 더 자세히 보고 싶어서.
+RPK16_Nyto(0)<Speaker>안젤리아</Speaker><同时置暗>||:......
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||:그리고, 궁금했어요. 만약 처음부터 다시 시작한다면, 다른 선택을 하지는 않을까 궁금했어요.
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||:삶이 결국 덧없을 운명이라면, 몸부림에 무슨 의미가 있을까.
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||:그런데 정말 아쉽게도, 안젤리아, 당신은 진짜 옹고집이네요.
+()<Speaker>안젤리아</Speaker>||:......
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||:수백, 수천 번을 처음부터 다시 하더라도, 당신은 똑같은 선택을 하겠죠.
+RPK16_Nyto(0)<Speaker>안젤리아</Speaker><同时置暗>||:네가 처음부터 있었다면, 지금 내 기억은 진짜냐 가짜냐?
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||:어떻게 생각하세요? 당신이 진짜 믿는다면 진짜인 거예요.
+RPK16_Nyto(0)<Speaker>안젤리아</Speaker><同时置暗>||:내 기억이 다른 걸로 덮어씌워지더라도 내 선택, 내가 할 일은 결코 변하지 않아.
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||:알아요, 알고말고요.+당신이 겪은 모든 것을 지켜봤는걸요. 진실인 것도, 거짓인 것도.
+()<Speaker>안젤리아</Speaker>||:......
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||:하지만 안젤리아, 인정하세요. 당신은 지쳤잖아요. 그 몸과 정신으로는 당신이 바라는 종착지에 도달할 수 없어요.
+RPK16_Nyto(0)<Speaker>안젤리아</Speaker><同时置暗>||:아니야... 할 수 있어.
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||:눈으로 덮인 황야를 너무 오래, 너무나도 오랫동안 걸었어요.+진작에 탈진해 쓰러진 것조차 잊어버릴 정도로, 오래.
+RPK16_Nyto(0)<Speaker>안젤리아</Speaker><同时置暗>||:......
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||:그런 당신에게 저는 와서, 당신의 피와 살을 삼키고, 당신의 살갗을 뚫고 나와... 당신이 되겠어요.
+RPK16_Nyto(0)<Speaker>안젤리아</Speaker><同时置暗>||:......
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||:당신의 기억, 당신의 생각, 당신의 모든 걸 잇겠어요.
+RPK16_Nyto(0)<Speaker>안젤리아</Speaker><同时置暗>||:......+종착지까지 갈 수는 있고?
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||:어쩌면 처음엔 인간의 몸이 낯설고, 고통과 죽음의 공포에 적응 못할 수도 있겠죠.+하지만 당신의 의지를 기억하면서, 이 무거운 몸뚱이를 끌고 계속 나아갈 거예요.+당신이 도달하려 했던 곳으로, 멈추지 않고.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:RPK-16의 손이 안젤리아의 얼굴을 어루만졌다.
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||:제가 대신 종착지에 도달할게요. 당신의 모습, 당신의 목소리, 당신의 신분으로...+흐음, 차라리 이렇게 말할까요? 제가 안젤리아를 종착지까지 데려다드릴게요.
+()<Speaker>안젤리아</Speaker>||:......
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||:너무나도 지쳤잖아요, 안젤리아. 이제 그만 쉬세요. 그만 쉬고, 남은 여정은 저한테 맡기세요.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:안젤리아의 눈꺼풀이 천천히 감겼다. 하지만 마지막 힘을 쥐어짜내, RPK-16의 손을 붙잡았다.
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||:알아요, 안젤리아. 그만 쉬세요. 아무 말도 하지 않아도 돼요.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:붙잡았던 손은, RPK-16의 손등을 타고 미끄러졌다.
+RPK16_Nyto(0)<Speaker>RPK16</Speaker>||<BGM>BGM_Empty</BGM>:당신의 몸뚱이로부터 저는 다시 태어나, 당신이 되어 당신의 뜻을 잇고, 당신이 짊어졌던 모든 것을 짊어질게요...
+()||<黑屏1>:
+()<Speaker></Speaker>||<睁眼><BIN>633</BIN><SE1>Heartbeat</SE1>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>GF_22W_SFX_chant</BGM><黑屏2><BIN>634</BIN>:그녀가 눈을 떴다. 거울 앞에 선 그녀를 가리던 커튼은, 어느샌가 걷혀 있었다.+그녀는 거울 속 자신을 바라봤다.
+()||<黑屏1>:
+()<Speaker>안젤리아</Speaker>||<黑屏2><BIN>635</BIN>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>636</BIN><SE1>ClothingUp</SE1>:그녀는 얼굴의 근육을 움직여, 입을 살짝 벌리고, 미소를 지었다.
+()<Speaker>안젤리아</Speaker>||:반가워요, 안젤리아.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><narrator>:이 순간, 저는 당신, 당신은 저예요.+우리는 이제 함께예요.
+()||<黑点1>:

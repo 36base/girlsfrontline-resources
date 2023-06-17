@@ -1,249 +1,249 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>207</BIN><黑屏2><BGM>10230</BGM>:......+패러데우스 공장 밖.
-()<Speaker></Speaker>||:달빛 아래서 춤추던 아름다운 여인이, 피로 축축해진 흙을 밟으며 유유히 다음 무대로 향했다.+입은 옷이 관목에 스치며 바스락 소리를 냈지만, 풍기는 것은 풀과 흙의 내음이 아닌 진한 피비린내였다.+그녀가 가장 좋아하는 시간이었다.
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:어째서... 어찌하여.+어찌하여 인류는 같은 실수를 반복할까...
-()<Speaker>슈타지 요원</Speaker>||:......
-()<Speaker></Speaker>||:예비조로 공장 밖에서 대기 중이던 요원들은, 충혈된 눈을 감지도 못하고 사방에 널브러졌다.
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:그레이가 의외로 쓸 만한 애완동물을 얻었나 보네에...
-()<Speaker></Speaker>||:손가락에 묻은 피를 핥으며, 가늘게 뜬 눈으로 공장을 보는 브라메드는 몸이 근질근질했다.+먹잇감을 발견한 수풀 속의 검은 그림자처럼, 피냄새를 맡은 야수처럼, 당장 저 공장을 덮치고 싶었다.
-NPC-Bramedb(5)<Speaker>브라메드</Speaker>||:후우... 벌써 저녁 식사 시간이구나.
-()<Speaker></Speaker>||:그녀가, 요염하고도 예리한 발걸음을 옮겼다.
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1><黑屏2><BIN>395</BIN>:탕!
-()<Speaker></Speaker>||:맞닥뜨린 마지막 하얀 병사를 쓰러뜨린 뒤, 모나는 목이 부러진 적의 시체를 밟고서 넋이 나간 채로 구경만 하던 요원들에게 고개를 돌렸다.
-SP9(0)<Speaker>모나</Speaker>||<SE1>Select</SE1>:적들의 침묵을 확인, 청소 완료. 전원, 현장 확인 부탁합니다.
-()<Speaker>슈타지 요원</Speaker>||:어...... 형님? 새삼스럽지만 말입니다...+모나, 우리보다 훨씬 잘 싸우는데요?
-NPC-Keven(0)<Speaker>J</Speaker>||:뭔 당연한 소릴 하고 있냐 넌? 인형하고 힘겨루기 하고 싶은 사람이 어딨어?
-NPC-Keven(0)<Speaker>J</Speaker>||:없어진 사람 없지? 부상자는?
-()<Speaker>슈타지 요원</Speaker>||:다 있고, 부상자도 없습니다.+솔직히, 놈들의 저항이 시시하리 만치 저항이 약해서 오히려 좀 이상한데요?
-NPC-Keven(0)<Speaker>J</Speaker>||:오는 길은 무슨 최종 던전 같더니만, 보스룸이 이 모양이라...+확실히 좀 허전하긴 하네.
-SP9(0)<Speaker>모나</Speaker>||:저도 지나치게 손쉬웠단 감이 없지 않습니다.
-()<Speaker></Speaker>||:그들이 공장 내부로 돌입해 여기까지 오는 데 30분 정도가 소요됐지만, 이 전투는 고작 5분밖에 걸리지 않았다.+누가 봐도 전략적 요충지를 지키는 병력 같지도 않았다. 이 정도면 그리폰의 지휘관까지 부를 필요도 없는 수준이었다.+이 일이, 이토록 간단할 리가 없을 터였다.
-NPC-Keven(0)<Speaker>J</Speaker>||<SE1>AVG_tele_connect</SE1>:은여우 아가씨, 뭔가 좀 이상한——
-NPC-Keven(0)<Speaker>J</Speaker>||<BGM>BGM_Empty</BGM>:......어디 갔지?
-()<Speaker>슈타지 요원</Speaker>||:네?
-NPC-Keven(5)<Speaker>J</Speaker>||:RPK-16, 우릴 여기까지 안내한 그 하얀 인형 아가씨. 누구 봤어?
-()<Speaker></Speaker>||:요원들 모두가 당황했다. J마저도, 시꺼먼 전술복만 있는 대열에서 유일하게 하얀 그녀가 어느 사이에 사라졌는지 알아채지 못했다.
-SP9(0)<Speaker>모나</Speaker>||:저도 눈치채지 못했습니다... 대체 언제 사라진 거죠?
-()<Speaker></Speaker>||<BGM>BGM_Truth</BGM>:모나는 눈살을 찌푸리며 발치의 시체를 툭 치우고 창문에 다가갔다. 이 방의 창문 너머는 넓고 텅 빈 작업장의 생산 라인이었다.+깜깜하기만 작업장의 커다란 기계들도, 빛 하나 없이 잠들어 있었다.
-SP9(0)<Speaker>모나</Speaker>||:...저쪽에도 없습니다.
-()<Speaker></Speaker>||:불안감이 의구심으로 바뀌자, J는 설비 하나를 한쪽 발로 밟고서 초조한 마음으로 통신기를 들었다.
-NPC-Keven(0)<Speaker>J</Speaker>||<SE1>AVG_tele_connect</SE1>:은여우 아가씨? RPK-16 씨, 들리면 응답하세요.+지금 어디 있습니까? 응답 바랍니다.
-()<Speaker></Speaker>||:......+응답은 없었다.
-NPC-Keven(0)<Speaker>J</Speaker>||<SE1>AVG_tele_connect</SE1>:잭, 폴. ......? 통신팀, 내 말 안 들려? 응답해.+공장 밖 상황 보고해. 그리폰의 지휘관 왔어? 여보세요?+잭? 폴!
-()<Speaker></Speaker>||:......+통신팀도, 응답이 없었다.
-NPC-Keven(5)<Speaker>J</Speaker>||:......
-()<Speaker>슈타지 요원</Speaker>||:지하라서 신호 감도가 나쁜 건 아닐까요?
-SP9(0)<Speaker>모나</Speaker>||:우리의 설비가 겨우 이 정도 장애물로 통신 장애가 일어나진 않습니다. ...신호가 교란되고 있는 게 아닌 이상은요.+하지만 낌새도 느껴지지 않습니다.
-NPC-Keven(5)<Speaker>J</Speaker>||:이야기는 나중에. 전원, 당장 철수한다.+일이 심상찮――
-SP9(0)<Speaker>모나</Speaker>||<震屏3><BGM>BGM_Empty</BGM>:<size=55>엎드려요!!!</size>
-()<Speaker></Speaker>||:모나가 갑자기 버럭 소리질렀고, 저 멀리 작업장의 어둠 속에서 번쩍인 불꽃이 모두의 시선을 끌었다.
-()<Speaker>슈타지 요원</Speaker>||:미사일이다!!
-()<Speaker></Speaker>||:모나가 펄쩍 뛰어, J를 감싼 그 순간...+"독침"처럼 날아든 미사일의 불길이, 방을 집어삼켰다.
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰아아앙!!!
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<BGM>10227</BGM><SE1>AVG_tinnitus_0</SE1><BIN>9</BIN><黑屏2>:삐이이――+차원이 다른 이명이, J의 뇌를 쑤셨다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<睁眼><BIN>395</BIN>:흐릿했던 시야는 서서히 회복됐지만, 한쪽이 검붉은 장막에 뒤덮였다.
-SP9(1)<Speaker>모나</Speaker>||:헉... 헉...
-NPC-Keven(3)<Speaker>J</Speaker>||:...모나?
-SP9(1)<Speaker>모나</Speaker>||:J 요원... 괜찮으세요?
-NPC-Keven(3)<Speaker>J</Speaker>||:대체... 무슨 상황...
-SP9(1)<Speaker>모나</Speaker>||:조용히...
-NPC-Keven(3)<Speaker>J</Speaker>||:뭔――
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타타탕——
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰앙!!!
-()<Speaker></Speaker>||:고막을 때리는 또다른 폭발이 J의 의식을 강제로 현실로 끌고 돌아왔다.+지금 그의 시선은 낮은 곳에 있고 자신의 두 다리만 보였다.+누군가가 자신의 어깨 밑으로 손을 넣고 들어, 천천히, 필사적으로 끌고 가는 중이었다.
-()<Speaker>슈타지 요원</Speaker>||:전방 수류탄!!
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Grenade_Explosion</SE1>:머리 위쪽에서 부하 한 명의 고함과 수류탄의 안전핀이 뽑히는 소리가 들렸고, 잠시 후 조금 멀리서 폭발이 일어났다.
-()<Speaker></Speaker>||:그리고 드디어 J의 눈에도 지금이 어떤 상황인지 보였다. 통로 저 멀리서, 무기를 든 그 하얀 병사들의 물결이 그들을 쫓아오고 있었다.
-NPC-Keven(3)<Speaker>J</Speaker>||:...젠장.
-()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:J는 서서히 힘이 돌아온 오른손으로 허리춤에서 권총을 뽑아, 다가오는 하얀 병사 하나를 사살했다.
-()<Speaker></Speaker>||:엄폐물 뒤에 숨고 나서야 J의 등이 바닥에 닿았고, 그제서야 그는 자신을 끌고 온 사람이 모나였음을 깨달았다.
-SP9(1)<Speaker>모나</Speaker>||:설 수 있겠습니까?
-NPC-Keven(3)<Speaker>J</Speaker>||:어... 생각보다 다친 곳이 별로 없――?!
-()<Speaker></Speaker>||:벽을 짚으며 일어선 J의 눈에 모나의 얼굴이 들어왔다.+절반이 인간의 외견을 상실해, 드러난 내부 금속 프레임이 터지는 불꽃에 반짝였다.+나머지 절반은, 아직도 타들어 가는 불씨가 남은 인공 피부를 잠식해 가고 있었다.
-SP9(1)<Speaker>모나</Speaker>||:아... 죄송합니다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:모나는 고개를 홱 돌려 얼굴을 가렸다.
-SP9(1)<Speaker>모나</Speaker>||:불쾌했다면 사과드립니다.+하지만 지금 최우선 사항은 J 요원을 공장 밖으로 탈출시키는 것입니다.
-NPC-Keven(3)<Speaker>J</Speaker>||:아니... 대체 어떻게 된 거야? 그러니까... 윽...
-()<Speaker></Speaker>||:깨질 것만 같은 머리를 두드리고, 내저으며, 뇌수를 흔들었다.+아직도 상황이 파악되질 않았다. 자신들이 공장의 상황실에서 맞닥뜨린 적들을 제압하고, 잔해와 방을 확인하다, 미사일이 날아들어 모나가 자신을 향해 몸을 던진 것까지만 기억났다.
-NPC-Keven(3)<Speaker>J</Speaker>||:......?+나머지 인원은? 왜 너희밖에 없어?
-()<Speaker>슈타지 요원</Speaker>||:......
-()<Speaker></Speaker>||:앞을 지키던 두 요원은 대답하지 않았고, 시꺼멓게 그슬린 손가락으로 전술 조끼에서 힘겹게 새 탄창을 꺼냈다.
-()<Speaker>슈타지 요원</Speaker>||:형님... 먼저 가십쇼.
-NPC-Keven(3)<Speaker>J</Speaker>||:......
-()<Speaker></Speaker>||:J는 두 사람을 바라봤다. 언제 방탄모가 벗겨진 것인지 모를 그들은, 피투성이인 얼굴로 간신히 미소를 짜냈다.
-NPC-Keven(3)<Speaker>J</Speaker>||:안도라... 너...!
-()<Speaker></Speaker>||:"안도라"는 옆구리의 살점이 떨어져 나갔는지 움푹 파여있었다.+응급처치는 한 모양이었지만, 안색은 창백했고 옆구리도 피가 멈추질 않았다.
-()<Speaker>슈타지 요원</Speaker>||:저도... 이놈이랑 좀 더 시간 벌다 가겠습니다...
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:다른 한 명은 총을 지팡이 삼아 버티면서, 얼굴을 닦았다.
-()<Speaker>슈타지 요원</Speaker>||:적의 수가 상정한 것보다 훨씬 많아요. 포위당했습니다. 속았어요.+작전은 실패지만... 그래도, 형님이 무사히 빠져나가기만 하면 완패는 아니죠?
-NPC-Keven(3)<Speaker>J</Speaker>||:헛소리 집어치워!
-()<Speaker></Speaker>||:J가 울분에 북받쳐 소리질렀지만...+부하들이 더 큰 고함으로 기를 눌러버렸다.
-()<Speaker>슈타지 요원</Speaker>||:형님!!!+...빨랑 가시라고요.
-NPC-Keven(3)<Speaker>J</Speaker>||:너...
-()<Speaker>슈타지 요원</Speaker>||:모나 씨, 선배를 부탁합니다.
-SP9(1)<Speaker>모나</Speaker>||:...네.
-NPC-Keven(3)<Speaker>J</Speaker>||:부탁은 개뿔이, 난 가겠다고 안 했――
-()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타탕——!!+그들이 말씨름하던 사이에 총탄이 다시 날아들기 시작했다.+쫓아온 적들이 통로 반대편에서 나타나, 그들이 몸을 숨긴 엄페물에 제압 사격을 가하는 것이었다.
-()<Speaker>슈타지 요원</Speaker>||:제기랄...
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Grenade</SE1>:얼굴이 창백한 요원이 이로 수류탄의 안전핀을 뽑고 힘껏 던졌다.+퍼엉!!
-()<Speaker>슈타지 요원</Speaker>||:아 빨랑 좀 튀라고요 이 망할 선배님아! 잘못되면 죽어서도 가만 안 둘 겁니다!?
-()<Speaker>슈타지 요원</Speaker>||:형님!!
-()<Speaker></Speaker>||<SE1>AVG_The_Division_Machine_Gun_Tower_Shooting</SE1>:타타탕!!+다른 요원도, 총을 거치해 사격했다.
-SP9(1)<Speaker>모나</Speaker>||:...가요.
-NPC-Keven(3)<Speaker>J</Speaker>||:......
-SP9(1)<Speaker>모나</Speaker>||:어서요!
-NPC-Keven(3)<Speaker>J</Speaker>||:씨X... 씨■■■■■――
-NPC-Keven(3)<Speaker>J</Speaker>||:■■아아아아아알!!!
-()<Speaker></Speaker>||:......
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>395</BIN><震屏3><SE1>AVG_Punch_Hit</SE1>:콰앙!+길모퉁이서 튀어나와 가로막는 스트렐치를, 모나가 어깨로 들이받아 벽에 처박았다.
-()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:타앙!+살짝 거리를 벌리면서, J가 정확한 타이밍에 총을 들어 자세를 바로잡으려는 그 병사를 사살했다.
-SP9(1)<Speaker>모나</Speaker>||:후우... 후...
-()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:진작에 탄약이 바닥났던 모나는 그 하얀 병사의 무기를 들어, 익숙치 않은 노리쇠를 당겼다.+그녀의 뒤에서 권총을 쥐고 가쁜 숨을 몰아쉬던 J의 눈에, 그제서야 상처투성이인 모나의 뒷모습이 들어왔다.
-()<Speaker></Speaker>||:인간이었다면 즉사해도 이상하지 않은 커다란 상처에서, 소규모 합선으로 인한 불똥이 튀고 있었다.+미사일이 날아들 때, J를 감싸고 폭발의 위력을 고스란히 등으로 받아낸 것이었다.
-NPC-Keven(3)<Speaker>J</Speaker>||:...야, 나 그만두련다.
-SP9(1)<Speaker>모나</Speaker>||:뭐라고요?
-()<Speaker></Speaker>||:모나가 흠칫하며 어이 없어하는 표정으로 고개를 홱 돌렸다.
-NPC-Keven(3)<Speaker>J</Speaker>||:놈들한테 포위당했잖아. 공장 밖으로 나가 봤자야.+주위는 온통 평지라 숨을 곳도 없고, 멀리 도망치지도 못해.+놈들도 머저리가 아닌 이상 밖에도 병력을 배치했을 테고.
-()<Speaker></Speaker>||:J가 총을 쥔 자신의 손으로 고개를 떨궜다.+손에는 검붉은 피가 잔뜩 묻었다.+자신의 것이 아닌, 동료의 피였다.
-SP9(1)<Speaker>모나</Speaker>||:......
-()<Speaker></Speaker>||:모나는 조용히 허리춤에서 통신기를 뽑아 J에게 건넸다.
-SP9(1)<Speaker>모나</Speaker>||:뒤는 저한테 맡기고, J 요원은 여기서 탈출해 국장님이든 K 요원이든, 누구든 좋으니 어떻게든 연락하세요.+그들에게 반드시 이곳의 상황을 전달하세요. 그리고 RPK-16이 배신했다는 사실도요. 이걸 전하지 못하면 더 많은 사람들이 그녀에게 속을 거예요.
-NPC-Keven(3)<Speaker>J</Speaker>||:...할말은 그게 다냐?
-SP9(1)<Speaker>모나</Speaker>||:J 요원...?
-NPC-Keven(3)<Speaker>J</Speaker>||:"그러게 제가 뭐랬어요 이 바보 멍청아!"+――라고 화내 봐!!+"다 너 때문에 죽었어!"+화 좀 내보라고!
-SP9(1)<Speaker>모나</Speaker>||:......
-()<Speaker></Speaker>||:피 범벅이던 J의 얼굴은 이제 눈물 범벅에 흙먼지까지 묻은 꼴불견의 극치였다.
-NPC-Keven(3)<Speaker>J</Speaker>||:빨리 욕하라니까!!
-SP9(1)<Speaker>모나</Speaker>||:...소리지를 기운 있으면 얼른 도망치기나 하세요.
-NPC-Keven(3)<Speaker>J</Speaker>||:......+그렇게 꼭 한 명이라도 빠져나가야 한다면, 네가 가라.
-NPC-Keven(3)<Speaker>J</Speaker>||:내가 모두를 끌어들여서 죽게 만들었어. 나 혼자 어떻게 살아?
-SP9(1)<Speaker>모나</Speaker>||:......
-()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:결국 폭발한 모나가 J에게 주먹을 날렸다.
-NPC-Keven(3)<Speaker>J</Speaker><Shake>0.1</Shake>||:커헉!?
-()<Speaker></Speaker>||:갑작스런 일격에 J는 미처 반응하지 못했고, 배를 부여잡고 무릎꿇은 채 놀란 얼굴로 모나를 마주봤다.
-SP9(1)<Speaker>모나</Speaker>||:J 요원, 지금 저한테 땡깡 부리는 겁니까?
-()<Speaker></Speaker>||:모나가 허리를 숙여 노려보니, 인공 피부가 벗겨진 그녀의 얼굴이 더욱 위협적이 되었다.
-SP9(1)<Speaker>모나</Speaker>||:여기서 당신이 죽는다면 정말 이 모든 일이 허사가 되어 사라져요.+당신은 그들이 무서운 게 아니라, 동료들을 죽게 만든 자기 자신을 마주보기가 무서운 거예요.
-NPC-Keven(3)<Speaker>J</Speaker>||:......
-()<Speaker></Speaker>||<SE1>Select</SE1>:입을 닫은 J를 보며, 모나는 총을 고쳐 쥐었다.
-SP9(1)<Speaker>모나</Speaker>||:살아남으세요, J 요원. 먼저 간 그분들의 복수를 할 때까지.
-NPC-Keven(3)<Speaker>J</Speaker>||:...너는 어쩌고?
-SP9(1)<Speaker>모나</Speaker>||:당신을 엄호하겠습니다.
-()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM><SE1>Explode</SE1>:모나의 단호한 말이 끝나기가 무섭게, 바닥을 통해 진동이 느껴졌다.+그들 눈앞에서 무너지는 벽이 자욱한 먼지를 토해냈고, 그 속에서 날씬한 그림자가 우아한 걸음걸이로 나타났다.
-()||<黑屏1>:
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||<黑屏2><BIN>395</BIN>:정말 감동적이야, 나 눈물 나려 해.
-SP9(1)<Speaker>모나</Speaker>||<BGM>10130</BGM>:——!!
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:또 만났구나, 이쁜이.
-()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:모나는 재빨리 J 앞에 나서, 총구를 브라메드에게 향했다.
-SP9(1)<Speaker>모나</Speaker>||:J 요원!! 빨리 가세요!!
-NPC-Keven(3)<Speaker>J</Speaker>||:——!!
-()<Speaker></Speaker>||:J는 고민할 겨를도 없이 뒤돌아 내달렸다.+퍼억!!+몇 m 채 가지도 않았건만, 뒤에서 모나가 벽에 처박히는 묵직한 파열음이 들렸다.
-NPC-Keven(3)<Speaker>J</Speaker>||:젠장...+젠자아아아앙!!!
-()<Speaker></Speaker>||:자신이 이런 처지에 내몰릴 줄은, 꿈에도 몰랐것만.
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰앙!!
-NPC-Keven(0)<Speaker>J</Speaker>||:으윽!?
-()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1>:눈앞의 벽이 무지막지한 충격에 무너지면서, 거대한 하얀 기갑 유닛이 성큼성큼 걸어 나왔다. 그리고 그 기계의 차가운 눈이, 보잘것없는 인간을 차갑게 노려봤다.
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:멋쟁이 오빠, 어디 가?
-()<Speaker></Speaker>||:그 여인도, 진작에 쫓아온 뒤였다.
-NPC-Keven(3)<Speaker>J</Speaker>||:이 괴물 자——
-()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:총을 들기도 전에, J의 몸뚱이가 나뭇가지처럼 날아갔다.
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:어머... 자세히 보니까 더 잘생긴 얼굴이네?+박제하면 장식품으로 딱이겠어.
-()<Speaker></Speaker>||:브라메드는 이죽대며 J를 흥미롭게 관찰했다.
-NPC-Keven(3)<Speaker>J</Speaker>||:...미인이 먼저 작업이라 고마운데, 난 시체는 사절이라서.
-()<Speaker></Speaker>||:이런 궁지에 몰려도, J는 말싸움에서 질 생각이 없었다.+브라메드에겐 그저 사냥감의 마지막 발버둥에 지나지 않았지만.
-NPC-Keven(3)<Speaker>J</Speaker>||:......
-()<Speaker></Speaker>||:권총은 총열이 구부러졌고, 수중에 수류탄도 없었다.+마지막으로 존엄성을 지키고 희생할 자격마저 빼앗겨버린 것 같았다.
-NPC-Keven(3)<Speaker>J</Speaker>||:하핫... 결국 난 어릿광대였단 거냐...
-()<Speaker></Speaker>||:어깨에서 힘이 빠진 J는 허탈하게 쓴웃음을 지었다. 그런데 그때, 통로 저편에서 뭔가가 발돋움하며 펄쩍 뛰어올랐다.
-NPC-Bramedb(4)<Speaker>브라메드</Speaker>||:――!
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:모나였다. 공중에서 몸을 회전시켜, 그 원심력으로 손에 쥔 철근에 힘을 실어 브라메드를 찌르려 했다.
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:어머나.
-()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1><震屏3>:브라메드는 피하지도, 막지도, 반격하지도 않았다. 대신 하얀 병사 하나를 조종해, 그 일격을 대신 받아내게 했다.+제자리서 꿈쩍도 하지 않은 그녀는, 그 광경을 구경하며 그저 웃었다.
-SP9(1)<Speaker>모나</Speaker>||:...도망...쳐요...
-()<Speaker></Speaker>||:최후의 일격마저 실패해 관성으로 바닥에 떨어져 나뒹군 모나는, J에게 목소리를 쥐어 짜냈다.
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:목소리는 투박한 기계음으로 변질됐고, 소체는 곳곳에서 불길한 소리를 냈다.+그리고 그런 꼴이 된 모나를 본 브라메드가, 눈을 반짝였다.
-SP9(1)<Speaker>모나</Speaker><Shake>0.1</Shake>||<SE1>AVG_whitenoise</SE1>:――큭!? 으악!!
-NPC-Keven(3)<Speaker>J</Speaker>||:뭐, 뭐야... 뭐하는 거야?! 야이 미친년아, 지금 모나한테 무슨 짓이야!!
-()<Speaker></Speaker>||:새파래진 J가 지켜보는 앞에서, 모나의 몸이 격하게 경련을 일으켰다.+그리고 망가질대로 망가진 몸의 어디서 힘이 생겼는지, 꼭두각시 인형의 실이 당겨지듯 제자리에서 벌떡 일어났다.
-NPC-Bramedb(5)<Speaker>브라메드</Speaker>||:뭐하긴, 너희를 좀 도와주려고 그러지~
-()<Speaker></Speaker>||:브라메드는 장난감이 마음에 들었는지 사악하게 웃었다.
-SP9(1)<Speaker>모나</Speaker>||:......
-()<Speaker></Speaker>||:모나가 휘청대면서 몸을 J에게 돌렸다.
-NPC-Keven(3)<Speaker>J</Speaker>||:모나...?
-SP9(1)<Speaker>모나</Speaker>||:J... 요원...
-()<Speaker></Speaker>||:그녀의 목소리는 고문받는 것처럼 떨렸다.
-NPC-Keven(3)<Speaker>J</Speaker>||:...모나를 놔 줘! 뭘 할 셈이야!? 나한테 뭘 바라는데!!
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:착각하지 말아 줘, 잘생긴 오빠.+너한텐 관심 없거든.
-()<Speaker></Speaker>||:브라메드의 손에서 투명한 실이 뻗어 나와 모나를 휘감은 것만 같은 광경이었다.+말 그대로, 인형과 인형사였다.
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:그냐앙... 이런 걸 보면 네가 어떤 표정을 지을지 궁금해져서.
-SP9(1)<Speaker>모나</Speaker>||:끄윽... 도... 도망쳐요...!!
-()<Speaker></Speaker>||:모나의 몸이 또 심하게 움찔거렸다.
-NPC-Keven(3)<Speaker>J</Speaker>||:모나!!
-SP9(1)<Speaker>모나</Speaker>||:......
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:모나의 머리에 내부 프레임이 드러난 부분에서 시꺼먼 연기가 뿜어져 나오더니, 그대로 그녀가 고꾸라졌다. J는 황급히 몸을 던져 아슬아슬하게 그녀를 품에 받아냈다.
-NPC-Keven(3)<Speaker>J</Speaker>||:주... 죽인 거야? 이... 이 XX년이 모나를 죽였어!?
-()<Speaker></Speaker>||:인형의 진정한 목숨은 코어에 담겨져 있다는 걸 잘 알면서도, J는 욕하며 원망과 분노로 가득찬 눈으로 브라메드를 노려봤다.
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:글쎄?
-()<Speaker></Speaker>||:브라메드는 J와 모나를 지켜보며 입술을 핥았다.
-SP9(1)<Speaker>모나</Speaker>||:...J...
-NPC-Keven(3)<Speaker>J</Speaker>||:모나?!
-()<Speaker></Speaker>||:모나가 갑자기 고개를 들었다.
-SP9(1)<Speaker>모나</Speaker>||:아... 아, 어, 으윽...
-()<Speaker></Speaker>||:그녀의 입에서 이상한 소리가 났다.
-SP9(1)<Speaker>모나</Speaker>||:J... 요원...
-NPC-Keven(3)<Speaker>J</Speaker>||:나 여깄어... 왜, 왜 그래?
-()<Speaker></Speaker>||:순식간에 멀쩡해지기라도 한 마냥 모나가 J의 손을 붙잡았다.+넋이 나간 J는 그녀를 보면서 대체 이 짧은 시간 사이에 무슨 일이 벌어진 건지 파악하려 애썼다.
-SP9(1)<Speaker>모나</Speaker>||:저... 말하지 않았...는데...+사, 사실 저... 당신, 을, 처음 본 순간부터...
-NPC-Keven(3)<Speaker>J</Speaker>||:가... 갑자기 뭔 소리야...?
-()<Speaker></Speaker>||:모나가 대뜸 쑥스러워하는 투로 말했다.+하지만 J의 입장에선 그저 소름끼칠 뿐이었다.
-SP9(1)<Speaker>모나</Speaker>||:그러, 니까, 처음부터――아아악!!
-()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1>:모나가 말하다 말고 비명을 지르더니, 재빨리 뒤로 물러나 벽에 몸을 들이받았다.
-()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>:그리고 벽에다 연신 박치기를 했고, 사방으로 돌 부스러기가 튀었다.
-SP9(1)<Speaker>모나</Speaker>||:저... 저 여자가! 저를 조종해요...!
-NPC-Keven(3)<Speaker>J</Speaker>||:모나... 모나! 그만 둬!
-SP9(1)<Speaker>모나</Speaker>||:J 요원... 저를... 두고 가진 않을 거죠?+제발... 제발 두고 가지 말아요...
-NPC-Keven(3)<Speaker>J</Speaker>||:알았어... 꼭 함께――
-()<Speaker></Speaker>||<SE1>Rope</SE1>:모나가 돌연 J의 멱살을 잡았다.
-SP9(1)<Speaker>모나</Speaker>||:무슨... 헛소립니까!!+도망치라 했잖... 빨리 가란 말예...!!
-NPC-Keven(3)<Speaker>J</Speaker>||:......!!
-()<Speaker></Speaker>||:J가 눈을 번뜩 떴지만, 뭐라 대답하기도 전에 이번엔 모나가 울음을 터뜨렸다.
-SP9(1)<Speaker>모나</Speaker>||:J 요원... 무서워요... 앞이 갑자기 안 보여요...+깜깜해요... 무서워요...
-NPC-Keven(3)<Speaker>J</Speaker>||:그마안... 그만해, 그만하라고!!!
-()<Speaker></Speaker>||:J가 절망에 차 울부짖으면서, 잔뜩 충혈된 눈으로 모나가 아닌 브라메드를 노려봤다.+모나는 저런 말을 할 리가 없었다.
-NPC-Keven(3)<Speaker>J</Speaker>||:그래, 원하는 게 이거냐!? 내가 무너지는 꼴을 보고 싶어?!+고작 그걸로 나를... 모나를 욕보이는 거냐...?
-SP9(1)<Speaker>모나</Speaker>||:으으... 윽... 아윽!
-NPC-Keven(3)<Speaker>J</Speaker>||:모나...
-SP9(1)<Speaker>모나</Speaker>||:...크윽... 악, 아아악!!
-()<Speaker></Speaker>||:브라메드가 아주 조금 놀란 표정으로 모나를 흘겨봤다.
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:흐음? 날 상대로 이렇게까지 반항하다니, 이쁜이가 보기보다 만만찮네에...
-NPC-Keven(3)<Speaker>J</Speaker>||:그만해... 모나를 그만 괴롭혀... 내가 이렇게 빌게...+대체 원하는 게 뭐야? 어? 내가 뭘 어쨌으면 좋겠어!?
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:음... 잠깐 생각해볼게.
-()<Speaker></Speaker>||:브라메드는 일부러 말을 늘이며, 모나가 괴로워하는 모습을 J에게 감상시켰다.
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:아아 그래, 그게 좋겠다.+난 내 손을 더럽히는 게 정말 싫거드은...+그러니까, 네가 알아서 죽어 줄래? 그럼 쟤를 놓아줄게.
-NPC-Keven(3)<Speaker>J</Speaker>||:뭣...
-SP9(1)<Speaker>모나</Speaker>||:부탁이에요, J 요원... 저 너무 괴로워요...+빨리... 죽어 주세――
-()<Speaker></Speaker>||:J는 몸부림치는 모나를 멍하니 바라봤다.
-SP9(1)<Speaker>모나</Speaker>||:――아안 돼! 빠, 빨리 도망가요! 가라고요! ...저세상에... 으윽, 아니야!!!
-()<Speaker></Speaker>||:머리를 부여잡던 모나가, 갑자기 눈을 매섭게 번뜩이더니...
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:자신의 목에 손가락을 찔러넣어 구멍을 뜯었다...
-SP9(1)<Speaker>모나</Speaker>||:포기하지 말――
-()<Speaker></Speaker>||:발성 모듈을 물리적으로 파괴해, 더는 아무 말도 하지 못하게 되었다.+그런 모나를 보던 J는 실성한 듯 점점 소리 높여 웃었다.
-()<Speaker></Speaker>||:바보처럼 웃으며, 나이프를 뽑았다.+그 광경에 모나는 절망했다.+그 광경에 브라메드는 더 즐겁게 미소지었다.
-NPC-Bramedb(5)<Speaker>브라메드</Speaker>||:그래 그래, 바로 그거야. 빨리 보여 줘.+네가 가장 아름답게 빛나는 순간을――
-()<Speaker></Speaker>||:J는 이제 칼끝을 자신의 목젖에 겨눴다. 자신은 이런 최후를 맞아도 싸다고 되뇌이면서.
-NPC-Keven(3)<Speaker>J</Speaker>||:......
-()<Speaker></Speaker>||:이대로 다 깔끔하게 끝난다면――
-()<Speaker></Speaker>||<BIN>9</BIN><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:——콰앙!!!
-NPC-Bramedb(4)<Speaker>브라메드</Speaker>||:뭐지?!
-NPC-Keven(3)<Speaker>J</Speaker>||:......!?
-()<Speaker></Speaker>||:브라메드 뒤의 벽이 갑작스러운 폭발로 무너지는 충격에, J는 하마터면 자의가 아닌 타의로 목이 찔릴 뻔했다.+그리고 그에게 정신 차리라는 듯, 멀리서 날아든 유탄이 브라메드의 발밑에 떨어져 폭발했다.
-SP9(1)<Speaker>모나</Speaker>||:......!
-()<Speaker></Speaker>||:모나는 힘없이 털썩 주저앉았고, J는 재빨리 나이프를 내던지고 달려가 그녀를 들어 안았다.+무너진 벽 너머로는 눈부신 빛이 먼지 사이로 새어들었고, 익숙한 목소리도 들렸다.
-()<Speaker>지휘관</Speaker>||<SE1>Select</SE1>:...너무 늦진 않았군.
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>207</BIN><黑屏2><BGM>10230</BGM>:......+패러데우스 공장 밖.
+()<Speaker></Speaker>||:달빛 아래서 춤추던 아름다운 여인이, 피로 축축해진 흙을 밟으며 유유히 다음 무대로 향했다.+입은 옷이 관목에 스치며 바스락 소리를 냈지만, 풍기는 것은 풀과 흙의 내음이 아닌 진한 피비린내였다.+그녀가 가장 좋아하는 시간이었다.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:어째서... 어찌하여.+어찌하여 인류는 같은 실수를 반복할까...
+()<Speaker>슈타지 요원</Speaker>||:......
+()<Speaker></Speaker>||:예비조로 공장 밖에서 대기 중이던 요원들은, 충혈된 눈을 감지도 못하고 사방에 널브러졌다.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:그레이가 의외로 쓸 만한 애완동물을 얻었나 보네에...
+()<Speaker></Speaker>||:손가락에 묻은 피를 핥으며, 가늘게 뜬 눈으로 공장을 보는 브라메드는 몸이 근질근질했다.+먹잇감을 발견한 수풀 속의 검은 그림자처럼, 피냄새를 맡은 야수처럼, 당장 저 공장을 덮치고 싶었다.
+NPC-Bramedb(5)<Speaker>브라메드</Speaker>||:후우... 벌써 저녁 식사 시간이구나.
+()<Speaker></Speaker>||:그녀가, 요염하고도 예리한 발걸음을 옮겼다.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_h</SE1><黑屏2><BIN>395</BIN>:탕!
+()<Speaker></Speaker>||:맞닥뜨린 마지막 하얀 병사를 쓰러뜨린 뒤, 모나는 목이 부러진 적의 시체를 밟고서 넋이 나간 채로 구경만 하던 요원들에게 고개를 돌렸다.
+SP9(0)<Speaker>모나</Speaker>||<SE1>Select</SE1>:적들의 침묵을 확인, 청소 완료. 전원, 현장 확인 부탁합니다.
+()<Speaker>슈타지 요원</Speaker>||:어...... 형님? 새삼스럽지만 말입니다...+모나, 우리보다 훨씬 잘 싸우는데요?
+NPC-Keven(0)<Speaker>J</Speaker>||:뭔 당연한 소릴 하고 있냐 넌? 인형하고 힘겨루기 하고 싶은 사람이 어딨어?
+NPC-Keven(0)<Speaker>J</Speaker>||:없어진 사람 없지? 부상자는?
+()<Speaker>슈타지 요원</Speaker>||:다 있고, 부상자도 없습니다.+솔직히, 놈들의 저항이 시시하리 만치 저항이 약해서 오히려 좀 이상한데요?
+NPC-Keven(0)<Speaker>J</Speaker>||:오는 길은 무슨 최종 던전 같더니만, 보스룸이 이 모양이라...+확실히 좀 허전하긴 하네.
+SP9(0)<Speaker>모나</Speaker>||:저도 지나치게 손쉬웠단 감이 없지 않습니다.
+()<Speaker></Speaker>||:그들이 공장 내부로 돌입해 여기까지 오는 데 30분 정도가 소요됐지만, 이 전투는 고작 5분밖에 걸리지 않았다.+누가 봐도 전략적 요충지를 지키는 병력 같지도 않았다. 이 정도면 그리폰의 지휘관까지 부를 필요도 없는 수준이었다.+이 일이, 이토록 간단할 리가 없을 터였다.
+NPC-Keven(0)<Speaker>J</Speaker>||<SE1>AVG_tele_connect</SE1>:은여우 아가씨, 뭔가 좀 이상한——
+NPC-Keven(0)<Speaker>J</Speaker>||<BGM>BGM_Empty</BGM>:......어디 갔지?
+()<Speaker>슈타지 요원</Speaker>||:네?
+NPC-Keven(5)<Speaker>J</Speaker>||:RPK-16, 우릴 여기까지 안내한 그 하얀 인형 아가씨. 누구 봤어?
+()<Speaker></Speaker>||:요원들 모두가 당황했다. J마저도, 시꺼먼 전술복만 있는 대열에서 유일하게 하얀 그녀가 어느 사이에 사라졌는지 알아채지 못했다.
+SP9(0)<Speaker>모나</Speaker>||:저도 눈치채지 못했습니다... 대체 언제 사라진 거죠?
+()<Speaker></Speaker>||<BGM>BGM_Truth</BGM>:모나는 눈살을 찌푸리며 발치의 시체를 툭 치우고 창문에 다가갔다. 이 방의 창문 너머는 넓고 텅 빈 작업장의 생산 라인이었다.+깜깜하기만 작업장의 커다란 기계들도, 빛 하나 없이 잠들어 있었다.
+SP9(0)<Speaker>모나</Speaker>||:...저쪽에도 없습니다.
+()<Speaker></Speaker>||:불안감이 의구심으로 바뀌자, J는 설비 하나를 한쪽 발로 밟고서 초조한 마음으로 통신기를 들었다.
+NPC-Keven(0)<Speaker>J</Speaker>||<SE1>AVG_tele_connect</SE1>:은여우 아가씨? RPK-16 씨, 들리면 응답하세요.+지금 어디 있습니까? 응답 바랍니다.
+()<Speaker></Speaker>||:......+응답은 없었다.
+NPC-Keven(0)<Speaker>J</Speaker>||<SE1>AVG_tele_connect</SE1>:잭, 폴. ......? 통신팀, 내 말 안 들려? 응답해.+공장 밖 상황 보고해. 그리폰의 지휘관 왔어? 여보세요?+잭? 폴!
+()<Speaker></Speaker>||:......+통신팀도, 응답이 없었다.
+NPC-Keven(5)<Speaker>J</Speaker>||:......
+()<Speaker>슈타지 요원</Speaker>||:지하라서 신호 감도가 나쁜 건 아닐까요?
+SP9(0)<Speaker>모나</Speaker>||:우리의 설비가 겨우 이 정도 장애물로 통신 장애가 일어나진 않습니다. ...신호가 교란되고 있는 게 아닌 이상은요.+하지만 낌새도 느껴지지 않습니다.
+NPC-Keven(5)<Speaker>J</Speaker>||:이야기는 나중에. 전원, 당장 철수한다.+일이 심상찮――
+SP9(0)<Speaker>모나</Speaker>||<震屏3><BGM>BGM_Empty</BGM>:<size=55>엎드려요!!!</size>
+()<Speaker></Speaker>||:모나가 갑자기 버럭 소리질렀고, 저 멀리 작업장의 어둠 속에서 번쩍인 불꽃이 모두의 시선을 끌었다.
+()<Speaker>슈타지 요원</Speaker>||:미사일이다!!
+()<Speaker></Speaker>||:모나가 펄쩍 뛰어, J를 감싼 그 순간...+"독침"처럼 날아든 미사일의 불길이, 방을 집어삼켰다.
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰아아앙!!!
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>10227</BGM><SE1>AVG_tinnitus_0</SE1><BIN>9</BIN><黑屏2>:삐이이――+차원이 다른 이명이, J의 뇌를 쑤셨다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<睁眼><BIN>395</BIN>:흐릿했던 시야는 서서히 회복됐지만, 한쪽이 검붉은 장막에 뒤덮였다.
+SP9(1)<Speaker>모나</Speaker>||:헉... 헉...
+NPC-Keven(3)<Speaker>J</Speaker>||:...모나?
+SP9(1)<Speaker>모나</Speaker>||:J 요원... 괜찮으세요?
+NPC-Keven(3)<Speaker>J</Speaker>||:대체... 무슨 상황...
+SP9(1)<Speaker>모나</Speaker>||:조용히...
+NPC-Keven(3)<Speaker>J</Speaker>||:뭔――
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타타탕——
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰앙!!!
+()<Speaker></Speaker>||:고막을 때리는 또다른 폭발이 J의 의식을 강제로 현실로 끌고 돌아왔다.+지금 그의 시선은 낮은 곳에 있고 자신의 두 다리만 보였다.+누군가가 자신의 어깨 밑으로 손을 넣고 들어, 천천히, 필사적으로 끌고 가는 중이었다.
+()<Speaker>슈타지 요원</Speaker>||:전방 수류탄!!
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Grenade_Explosion</SE1>:머리 위쪽에서 부하 한 명의 고함과 수류탄의 안전핀이 뽑히는 소리가 들렸고, 잠시 후 조금 멀리서 폭발이 일어났다.
+()<Speaker></Speaker>||:그리고 드디어 J의 눈에도 지금이 어떤 상황인지 보였다. 통로 저 멀리서, 무기를 든 그 하얀 병사들의 물결이 그들을 쫓아오고 있었다.
+NPC-Keven(3)<Speaker>J</Speaker>||:...젠장.
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:J는 서서히 힘이 돌아온 오른손으로 허리춤에서 권총을 뽑아, 다가오는 하얀 병사 하나를 사살했다.
+()<Speaker></Speaker>||:엄폐물 뒤에 숨고 나서야 J의 등이 바닥에 닿았고, 그제서야 그는 자신을 끌고 온 사람이 모나였음을 깨달았다.
+SP9(1)<Speaker>모나</Speaker>||:설 수 있겠습니까?
+NPC-Keven(3)<Speaker>J</Speaker>||:어... 생각보다 다친 곳이 별로 없――?!
+()<Speaker></Speaker>||:벽을 짚으며 일어선 J의 눈에 모나의 얼굴이 들어왔다.+절반이 인간의 외견을 상실해, 드러난 내부 금속 프레임이 터지는 불꽃에 반짝였다.+나머지 절반은, 아직도 타들어 가는 불씨가 남은 인공 피부를 잠식해 가고 있었다.
+SP9(1)<Speaker>모나</Speaker>||:아... 죄송합니다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:모나는 고개를 홱 돌려 얼굴을 가렸다.
+SP9(1)<Speaker>모나</Speaker>||:불쾌했다면 사과드립니다.+하지만 지금 최우선 사항은 J 요원을 공장 밖으로 탈출시키는 것입니다.
+NPC-Keven(3)<Speaker>J</Speaker>||:아니... 대체 어떻게 된 거야? 그러니까... 윽...
+()<Speaker></Speaker>||:깨질 것만 같은 머리를 두드리고, 내저으며, 뇌수를 흔들었다.+아직도 상황이 파악되질 않았다. 자신들이 공장의 상황실에서 맞닥뜨린 적들을 제압하고, 잔해와 방을 확인하다, 미사일이 날아들어 모나가 자신을 향해 몸을 던진 것까지만 기억났다.
+NPC-Keven(3)<Speaker>J</Speaker>||:......?+나머지 인원은? 왜 너희밖에 없어?
+()<Speaker>슈타지 요원</Speaker>||:......
+()<Speaker></Speaker>||:앞을 지키던 두 요원은 대답하지 않았고, 시꺼멓게 그슬린 손가락으로 전술 조끼에서 힘겹게 새 탄창을 꺼냈다.
+()<Speaker>슈타지 요원</Speaker>||:형님... 먼저 가십쇼.
+NPC-Keven(3)<Speaker>J</Speaker>||:......
+()<Speaker></Speaker>||:J는 두 사람을 바라봤다. 언제 방탄모가 벗겨진 것인지 모를 그들은, 피투성이인 얼굴로 간신히 미소를 짜냈다.
+NPC-Keven(3)<Speaker>J</Speaker>||:안도라... 너...!
+()<Speaker></Speaker>||:"안도라"는 옆구리의 살점이 떨어져 나갔는지 움푹 파여있었다.+응급처치는 한 모양이었지만, 안색은 창백했고 옆구리도 피가 멈추질 않았다.
+()<Speaker>슈타지 요원</Speaker>||:저도... 이놈이랑 좀 더 시간 벌다 가겠습니다...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:다른 한 명은 총을 지팡이 삼아 버티면서, 얼굴을 닦았다.
+()<Speaker>슈타지 요원</Speaker>||:적의 수가 상정한 것보다 훨씬 많아요. 포위당했습니다. 속았어요.+작전은 실패지만... 그래도, 형님이 무사히 빠져나가기만 하면 완패는 아니죠?
+NPC-Keven(3)<Speaker>J</Speaker>||:헛소리 집어치워!
+()<Speaker></Speaker>||:J가 울분에 북받쳐 소리질렀지만...+부하들이 더 큰 고함으로 기를 눌러버렸다.
+()<Speaker>슈타지 요원</Speaker>||:형님!!!+...빨랑 가시라고요.
+NPC-Keven(3)<Speaker>J</Speaker>||:너...
+()<Speaker>슈타지 요원</Speaker>||:모나 씨, 선배를 부탁합니다.
+SP9(1)<Speaker>모나</Speaker>||:...네.
+NPC-Keven(3)<Speaker>J</Speaker>||:부탁은 개뿔이, 난 가겠다고 안 했――
+()<Speaker></Speaker>||<SE2>Gunfight</SE2>:타타탕——!!+그들이 말씨름하던 사이에 총탄이 다시 날아들기 시작했다.+쫓아온 적들이 통로 반대편에서 나타나, 그들이 몸을 숨긴 엄페물에 제압 사격을 가하는 것이었다.
+()<Speaker>슈타지 요원</Speaker>||:제기랄...
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Grenade</SE1>:얼굴이 창백한 요원이 이로 수류탄의 안전핀을 뽑고 힘껏 던졌다.+퍼엉!!
+()<Speaker>슈타지 요원</Speaker>||:아 빨랑 좀 튀라고요 이 망할 선배님아! 잘못되면 죽어서도 가만 안 둘 겁니다!?
+()<Speaker>슈타지 요원</Speaker>||:형님!!
+()<Speaker></Speaker>||<SE1>AVG_The_Division_Machine_Gun_Tower_Shooting</SE1>:타타탕!!+다른 요원도, 총을 거치해 사격했다.
+SP9(1)<Speaker>모나</Speaker>||:...가요.
+NPC-Keven(3)<Speaker>J</Speaker>||:......
+SP9(1)<Speaker>모나</Speaker>||:어서요!
+NPC-Keven(3)<Speaker>J</Speaker>||:씨X... 씨■■■■■――
+NPC-Keven(3)<Speaker>J</Speaker>||:■■아아아아아알!!!
+()<Speaker></Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>395</BIN><震屏3><SE1>AVG_Punch_Hit</SE1>:콰앙!+길모퉁이서 튀어나와 가로막는 스트렐치를, 모나가 어깨로 들이받아 벽에 처박았다.
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:타앙!+살짝 거리를 벌리면서, J가 정확한 타이밍에 총을 들어 자세를 바로잡으려는 그 병사를 사살했다.
+SP9(1)<Speaker>모나</Speaker>||:후우... 후...
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:진작에 탄약이 바닥났던 모나는 그 하얀 병사의 무기를 들어, 익숙치 않은 노리쇠를 당겼다.+그녀의 뒤에서 권총을 쥐고 가쁜 숨을 몰아쉬던 J의 눈에, 그제서야 상처투성이인 모나의 뒷모습이 들어왔다.
+()<Speaker></Speaker>||:인간이었다면 즉사해도 이상하지 않은 커다란 상처에서, 소규모 합선으로 인한 불똥이 튀고 있었다.+미사일이 날아들 때, J를 감싸고 폭발의 위력을 고스란히 등으로 받아낸 것이었다.
+NPC-Keven(3)<Speaker>J</Speaker>||:...야, 나 그만두련다.
+SP9(1)<Speaker>모나</Speaker>||:뭐라고요?
+()<Speaker></Speaker>||:모나가 흠칫하며 어이 없어하는 표정으로 고개를 홱 돌렸다.
+NPC-Keven(3)<Speaker>J</Speaker>||:놈들한테 포위당했잖아. 공장 밖으로 나가 봤자야.+주위는 온통 평지라 숨을 곳도 없고, 멀리 도망치지도 못해.+놈들도 머저리가 아닌 이상 밖에도 병력을 배치했을 테고.
+()<Speaker></Speaker>||:J가 총을 쥔 자신의 손으로 고개를 떨궜다.+손에는 검붉은 피가 잔뜩 묻었다.+자신의 것이 아닌, 동료의 피였다.
+SP9(1)<Speaker>모나</Speaker>||:......
+()<Speaker></Speaker>||:모나는 조용히 허리춤에서 통신기를 뽑아 J에게 건넸다.
+SP9(1)<Speaker>모나</Speaker>||:뒤는 저한테 맡기고, J 요원은 여기서 탈출해 국장님이든 K 요원이든, 누구든 좋으니 어떻게든 연락하세요.+그들에게 반드시 이곳의 상황을 전달하세요. 그리고 RPK-16이 배신했다는 사실도요. 이걸 전하지 못하면 더 많은 사람들이 그녀에게 속을 거예요.
+NPC-Keven(3)<Speaker>J</Speaker>||:...할말은 그게 다냐?
+SP9(1)<Speaker>모나</Speaker>||:J 요원...?
+NPC-Keven(3)<Speaker>J</Speaker>||:"그러게 제가 뭐랬어요 이 바보 멍청아!"+――라고 화내 봐!!+"다 너 때문에 죽었어!"+화 좀 내보라고!
+SP9(1)<Speaker>모나</Speaker>||:......
+()<Speaker></Speaker>||:피 범벅이던 J의 얼굴은 이제 눈물 범벅에 흙먼지까지 묻은 꼴불견의 극치였다.
+NPC-Keven(3)<Speaker>J</Speaker>||:빨리 욕하라니까!!
+SP9(1)<Speaker>모나</Speaker>||:...소리지를 기운 있으면 얼른 도망치기나 하세요.
+NPC-Keven(3)<Speaker>J</Speaker>||:......+그렇게 꼭 한 명이라도 빠져나가야 한다면, 네가 가라.
+NPC-Keven(3)<Speaker>J</Speaker>||:내가 모두를 끌어들여서 죽게 만들었어. 나 혼자 어떻게 살아?
+SP9(1)<Speaker>모나</Speaker>||:......
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:결국 폭발한 모나가 J에게 주먹을 날렸다.
+NPC-Keven(3)<Speaker>J</Speaker><Shake>0.1</Shake>||:커헉!?
+()<Speaker></Speaker>||:갑작스런 일격에 J는 미처 반응하지 못했고, 배를 부여잡고 무릎꿇은 채 놀란 얼굴로 모나를 마주봤다.
+SP9(1)<Speaker>모나</Speaker>||:J 요원, 지금 저한테 땡깡 부리는 겁니까?
+()<Speaker></Speaker>||:모나가 허리를 숙여 노려보니, 인공 피부가 벗겨진 그녀의 얼굴이 더욱 위협적이 되었다.
+SP9(1)<Speaker>모나</Speaker>||:여기서 당신이 죽는다면 정말 이 모든 일이 허사가 되어 사라져요.+당신은 그들이 무서운 게 아니라, 동료들을 죽게 만든 자기 자신을 마주보기가 무서운 거예요.
+NPC-Keven(3)<Speaker>J</Speaker>||:......
+()<Speaker></Speaker>||<SE1>Select</SE1>:입을 닫은 J를 보며, 모나는 총을 고쳐 쥐었다.
+SP9(1)<Speaker>모나</Speaker>||:살아남으세요, J 요원. 먼저 간 그분들의 복수를 할 때까지.
+NPC-Keven(3)<Speaker>J</Speaker>||:...너는 어쩌고?
+SP9(1)<Speaker>모나</Speaker>||:당신을 엄호하겠습니다.
+()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM><SE1>Explode</SE1>:모나의 단호한 말이 끝나기가 무섭게, 바닥을 통해 진동이 느껴졌다.+그들 눈앞에서 무너지는 벽이 자욱한 먼지를 토해냈고, 그 속에서 날씬한 그림자가 우아한 걸음걸이로 나타났다.
+()||<黑屏1>:
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||<黑屏2><BIN>395</BIN>:정말 감동적이야, 나 눈물 나려 해.
+SP9(1)<Speaker>모나</Speaker>||<BGM>10130</BGM>:——!!
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:또 만났구나, 이쁜이.
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:모나는 재빨리 J 앞에 나서, 총구를 브라메드에게 향했다.
+SP9(1)<Speaker>모나</Speaker>||:J 요원!! 빨리 가세요!!
+NPC-Keven(3)<Speaker>J</Speaker>||:——!!
+()<Speaker></Speaker>||:J는 고민할 겨를도 없이 뒤돌아 내달렸다.+퍼억!!+몇 m 채 가지도 않았건만, 뒤에서 모나가 벽에 처박히는 묵직한 파열음이 들렸다.
+NPC-Keven(3)<Speaker>J</Speaker>||:젠장...+젠자아아아앙!!!
+()<Speaker></Speaker>||:자신이 이런 처지에 내몰릴 줄은, 꿈에도 몰랐것만.
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰앙!!
+NPC-Keven(0)<Speaker>J</Speaker>||:으윽!?
+()<Speaker></Speaker>||<SE1>AVG_lifttable</SE1>:눈앞의 벽이 무지막지한 충격에 무너지면서, 거대한 하얀 기갑 유닛이 성큼성큼 걸어 나왔다. 그리고 그 기계의 차가운 눈이, 보잘것없는 인간을 차갑게 노려봤다.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:멋쟁이 오빠, 어디 가?
+()<Speaker></Speaker>||:그 여인도, 진작에 쫓아온 뒤였다.
+NPC-Keven(3)<Speaker>J</Speaker>||:이 괴물 자——
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:총을 들기도 전에, J의 몸뚱이가 나뭇가지처럼 날아갔다.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:어머... 자세히 보니까 더 잘생긴 얼굴이네?+박제하면 장식품으로 딱이겠어.
+()<Speaker></Speaker>||:브라메드는 이죽대며 J를 흥미롭게 관찰했다.
+NPC-Keven(3)<Speaker>J</Speaker>||:...미인이 먼저 작업이라 고마운데, 난 시체는 사절이라서.
+()<Speaker></Speaker>||:이런 궁지에 몰려도, J는 말싸움에서 질 생각이 없었다.+브라메드에겐 그저 사냥감의 마지막 발버둥에 지나지 않았지만.
+NPC-Keven(3)<Speaker>J</Speaker>||:......
+()<Speaker></Speaker>||:권총은 총열이 구부러졌고, 수중에 수류탄도 없었다.+마지막으로 존엄성을 지키고 희생할 자격마저 빼앗겨버린 것 같았다.
+NPC-Keven(3)<Speaker>J</Speaker>||:하핫... 결국 난 어릿광대였단 거냐...
+()<Speaker></Speaker>||:어깨에서 힘이 빠진 J는 허탈하게 쓴웃음을 지었다. 그런데 그때, 통로 저편에서 뭔가가 발돋움하며 펄쩍 뛰어올랐다.
+NPC-Bramedb(4)<Speaker>브라메드</Speaker>||:――!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:모나였다. 공중에서 몸을 회전시켜, 그 원심력으로 손에 쥔 철근에 힘을 실어 브라메드를 찌르려 했다.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:어머나.
+()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1><震屏3>:브라메드는 피하지도, 막지도, 반격하지도 않았다. 대신 하얀 병사 하나를 조종해, 그 일격을 대신 받아내게 했다.+제자리서 꿈쩍도 하지 않은 그녀는, 그 광경을 구경하며 그저 웃었다.
+SP9(1)<Speaker>모나</Speaker>||:...도망...쳐요...
+()<Speaker></Speaker>||:최후의 일격마저 실패해 관성으로 바닥에 떨어져 나뒹군 모나는, J에게 목소리를 쥐어 짜냈다.
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:목소리는 투박한 기계음으로 변질됐고, 소체는 곳곳에서 불길한 소리를 냈다.+그리고 그런 꼴이 된 모나를 본 브라메드가, 눈을 반짝였다.
+SP9(1)<Speaker>모나</Speaker><Shake>0.1</Shake>||<SE1>AVG_whitenoise</SE1>:――큭!? 으악!!
+NPC-Keven(3)<Speaker>J</Speaker>||:뭐, 뭐야... 뭐하는 거야?! 야이 미친년아, 지금 모나한테 무슨 짓이야!!
+()<Speaker></Speaker>||:새파래진 J가 지켜보는 앞에서, 모나의 몸이 격하게 경련을 일으켰다.+그리고 망가질대로 망가진 몸의 어디서 힘이 생겼는지, 꼭두각시 인형의 실이 당겨지듯 제자리에서 벌떡 일어났다.
+NPC-Bramedb(5)<Speaker>브라메드</Speaker>||:뭐하긴, 너희를 좀 도와주려고 그러지~
+()<Speaker></Speaker>||:브라메드는 장난감이 마음에 들었는지 사악하게 웃었다.
+SP9(1)<Speaker>모나</Speaker>||:......
+()<Speaker></Speaker>||:모나가 휘청대면서 몸을 J에게 돌렸다.
+NPC-Keven(3)<Speaker>J</Speaker>||:모나...?
+SP9(1)<Speaker>모나</Speaker>||:J... 요원...
+()<Speaker></Speaker>||:그녀의 목소리는 고문받는 것처럼 떨렸다.
+NPC-Keven(3)<Speaker>J</Speaker>||:...모나를 놔 줘! 뭘 할 셈이야!? 나한테 뭘 바라는데!!
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:착각하지 말아 줘, 잘생긴 오빠.+너한텐 관심 없거든.
+()<Speaker></Speaker>||:브라메드의 손에서 투명한 실이 뻗어 나와 모나를 휘감은 것만 같은 광경이었다.+말 그대로, 인형과 인형사였다.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:그냐앙... 이런 걸 보면 네가 어떤 표정을 지을지 궁금해져서.
+SP9(1)<Speaker>모나</Speaker>||:끄윽... 도... 도망쳐요...!!
+()<Speaker></Speaker>||:모나의 몸이 또 심하게 움찔거렸다.
+NPC-Keven(3)<Speaker>J</Speaker>||:모나!!
+SP9(1)<Speaker>모나</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:모나의 머리에 내부 프레임이 드러난 부분에서 시꺼먼 연기가 뿜어져 나오더니, 그대로 그녀가 고꾸라졌다. J는 황급히 몸을 던져 아슬아슬하게 그녀를 품에 받아냈다.
+NPC-Keven(3)<Speaker>J</Speaker>||:주... 죽인 거야? 이... 이 XX년이 모나를 죽였어!?
+()<Speaker></Speaker>||:인형의 진정한 목숨은 코어에 담겨져 있다는 걸 잘 알면서도, J는 욕하며 원망과 분노로 가득찬 눈으로 브라메드를 노려봤다.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:글쎄?
+()<Speaker></Speaker>||:브라메드는 J와 모나를 지켜보며 입술을 핥았다.
+SP9(1)<Speaker>모나</Speaker>||:...J...
+NPC-Keven(3)<Speaker>J</Speaker>||:모나?!
+()<Speaker></Speaker>||:모나가 갑자기 고개를 들었다.
+SP9(1)<Speaker>모나</Speaker>||:아... 아, 어, 으윽...
+()<Speaker></Speaker>||:그녀의 입에서 이상한 소리가 났다.
+SP9(1)<Speaker>모나</Speaker>||:J... 요원...
+NPC-Keven(3)<Speaker>J</Speaker>||:나 여깄어... 왜, 왜 그래?
+()<Speaker></Speaker>||:순식간에 멀쩡해지기라도 한 마냥 모나가 J의 손을 붙잡았다.+넋이 나간 J는 그녀를 보면서 대체 이 짧은 시간 사이에 무슨 일이 벌어진 건지 파악하려 애썼다.
+SP9(1)<Speaker>모나</Speaker>||:저... 말하지 않았...는데...+사, 사실 저... 당신, 을, 처음 본 순간부터...
+NPC-Keven(3)<Speaker>J</Speaker>||:가... 갑자기 뭔 소리야...?
+()<Speaker></Speaker>||:모나가 대뜸 쑥스러워하는 투로 말했다.+하지만 J의 입장에선 그저 소름끼칠 뿐이었다.
+SP9(1)<Speaker>모나</Speaker>||:그러, 니까, 처음부터――아아악!!
+()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1>:모나가 말하다 말고 비명을 지르더니, 재빨리 뒤로 물러나 벽에 몸을 들이받았다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>:그리고 벽에다 연신 박치기를 했고, 사방으로 돌 부스러기가 튀었다.
+SP9(1)<Speaker>모나</Speaker>||:저... 저 여자가! 저를 조종해요...!
+NPC-Keven(3)<Speaker>J</Speaker>||:모나... 모나! 그만 둬!
+SP9(1)<Speaker>모나</Speaker>||:J 요원... 저를... 두고 가진 않을 거죠?+제발... 제발 두고 가지 말아요...
+NPC-Keven(3)<Speaker>J</Speaker>||:알았어... 꼭 함께――
+()<Speaker></Speaker>||<SE1>Rope</SE1>:모나가 돌연 J의 멱살을 잡았다.
+SP9(1)<Speaker>모나</Speaker>||:무슨... 헛소립니까!!+도망치라 했잖... 빨리 가란 말예...!!
+NPC-Keven(3)<Speaker>J</Speaker>||:......!!
+()<Speaker></Speaker>||:J가 눈을 번뜩 떴지만, 뭐라 대답하기도 전에 이번엔 모나가 울음을 터뜨렸다.
+SP9(1)<Speaker>모나</Speaker>||:J 요원... 무서워요... 앞이 갑자기 안 보여요...+깜깜해요... 무서워요...
+NPC-Keven(3)<Speaker>J</Speaker>||:그마안... 그만해, 그만하라고!!!
+()<Speaker></Speaker>||:J가 절망에 차 울부짖으면서, 잔뜩 충혈된 눈으로 모나가 아닌 브라메드를 노려봤다.+모나는 저런 말을 할 리가 없었다.
+NPC-Keven(3)<Speaker>J</Speaker>||:그래, 원하는 게 이거냐!? 내가 무너지는 꼴을 보고 싶어?!+고작 그걸로 나를... 모나를 욕보이는 거냐...?
+SP9(1)<Speaker>모나</Speaker>||:으으... 윽... 아윽!
+NPC-Keven(3)<Speaker>J</Speaker>||:모나...
+SP9(1)<Speaker>모나</Speaker>||:...크윽... 악, 아아악!!
+()<Speaker></Speaker>||:브라메드가 아주 조금 놀란 표정으로 모나를 흘겨봤다.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:흐음? 날 상대로 이렇게까지 반항하다니, 이쁜이가 보기보다 만만찮네에...
+NPC-Keven(3)<Speaker>J</Speaker>||:그만해... 모나를 그만 괴롭혀... 내가 이렇게 빌게...+대체 원하는 게 뭐야? 어? 내가 뭘 어쨌으면 좋겠어!?
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:음... 잠깐 생각해볼게.
+()<Speaker></Speaker>||:브라메드는 일부러 말을 늘이며, 모나가 괴로워하는 모습을 J에게 감상시켰다.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:아아 그래, 그게 좋겠다.+난 내 손을 더럽히는 게 정말 싫거드은...+그러니까, 네가 알아서 죽어 줄래? 그럼 쟤를 놓아줄게.
+NPC-Keven(3)<Speaker>J</Speaker>||:뭣...
+SP9(1)<Speaker>모나</Speaker>||:부탁이에요, J 요원... 저 너무 괴로워요...+빨리... 죽어 주세――
+()<Speaker></Speaker>||:J는 몸부림치는 모나를 멍하니 바라봤다.
+SP9(1)<Speaker>모나</Speaker>||:――아안 돼! 빠, 빨리 도망가요! 가라고요! ...저세상에... 으윽, 아니야!!!
+()<Speaker></Speaker>||:머리를 부여잡던 모나가, 갑자기 눈을 매섭게 번뜩이더니...
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:자신의 목에 손가락을 찔러넣어 구멍을 뜯었다...
+SP9(1)<Speaker>모나</Speaker>||:포기하지 말――
+()<Speaker></Speaker>||:발성 모듈을 물리적으로 파괴해, 더는 아무 말도 하지 못하게 되었다.+그런 모나를 보던 J는 실성한 듯 점점 소리 높여 웃었다.
+()<Speaker></Speaker>||:바보처럼 웃으며, 나이프를 뽑았다.+그 광경에 모나는 절망했다.+그 광경에 브라메드는 더 즐겁게 미소지었다.
+NPC-Bramedb(5)<Speaker>브라메드</Speaker>||:그래 그래, 바로 그거야. 빨리 보여 줘.+네가 가장 아름답게 빛나는 순간을――
+()<Speaker></Speaker>||:J는 이제 칼끝을 자신의 목젖에 겨눴다. 자신은 이런 최후를 맞아도 싸다고 되뇌이면서.
+NPC-Keven(3)<Speaker>J</Speaker>||:......
+()<Speaker></Speaker>||:이대로 다 깔끔하게 끝난다면――
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>Explode</SE1><BGM>BGM_Empty</BGM>:——콰앙!!!
+NPC-Bramedb(4)<Speaker>브라메드</Speaker>||:뭐지?!
+NPC-Keven(3)<Speaker>J</Speaker>||:......!?
+()<Speaker></Speaker>||:브라메드 뒤의 벽이 갑작스러운 폭발로 무너지는 충격에, J는 하마터면 자의가 아닌 타의로 목이 찔릴 뻔했다.+그리고 그에게 정신 차리라는 듯, 멀리서 날아든 유탄이 브라메드의 발밑에 떨어져 폭발했다.
+SP9(1)<Speaker>모나</Speaker>||:......!
+()<Speaker></Speaker>||:모나는 힘없이 털썩 주저앉았고, J는 재빨리 나이프를 내던지고 달려가 그녀를 들어 안았다.+무너진 벽 너머로는 눈부신 빛이 먼지 사이로 새어들었고, 익숙한 목소리도 들렸다.
+()<Speaker>지휘관</Speaker>||<SE1>Select</SE1>:...너무 늦진 않았군.
+()||<黑屏1>:

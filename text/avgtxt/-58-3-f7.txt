@@ -1,0 +1,83 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+NytoWhite(0)<Speaker>애슐리</Speaker><Position>0,50</Position>||<白屏1>:"지옥의 문지기", 가동합니다.
+()<Speaker></Speaker>||<白屏2><BIN>460</BIN><common_effect>%%code=CJ_WC_piaofu%%</common_effect>:아베르누스 동탑, 로비.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open</SE1>:동탑의 정문을 열고 들어온 틸이 천천히 여신상에 다가갔다.
+NPC-MorridowNew(2)<Speaker>몰리도</Speaker>||:...나르시스랑 네메아란 빼면 다 모였네.+시작하자.
+()<Speaker></Speaker>||<BGM>GF_22W_SFX_chant</BGM>:곧이어 의식이 시작되었고, 잔잔한 기도 소리가 은은히 메아리쳤다.
+NPC-MorridowNew(2)<Speaker>몰리도</Speaker>||:나를 거쳐 번뇌의 성으로,+나를 거쳐 극락의 탑으로,+나를 거쳐 버림받은 자들 사이로 갈지어니.
+NPC-grig(4)<Speaker>틸</Speaker>||:정의로 창조주는 움직이시어,+전능하신 힘과 지고하신 지혜,+원초의 사랑으로 우리를 만드셨도다.
+NPC-MorridowNew(2)<Speaker>몰리도</Speaker>||:나 이전에 태어난 것 없었으며,+나 영원히 존재하리.
+Nyto(2)<Speaker>검은 니토</Speaker><Position>0,50</Position>||:여기에 들어서는 자, 모든 희망을 버려라,
+NytoWhite(1)<Speaker>하얀 니토</Speaker><Position>0,50</Position>||:여기에 들어서는 자, 모든 의구심을 버려라,
+NytoWhite(1)<Speaker>흑/백 니토</Speaker><Position>0,50</Position>;Nyto(2)<Position>0,50</Position><同时点亮>||:여기에 들어서는 자, 모든 두려움을——
+NytoWhite(1)<Speaker></Speaker><Position>0,50</Position>||<BGM>BGM_Empty</BGM><SE1>Explode</SE1>:쿠웅——!
+()<Speaker></Speaker>||<SE1>Explode</SE1>:쿠웅——!
+()<Speaker></Speaker>||<SE1>Explode</SE1><震屏3>:쿠웅——!
+()<Speaker></Speaker>||:머리 위에서 굉음이 들렸다.+마치, 거대한 무언가가 깨어나는 듯한 소리.+니토들은 무심코 입을 다물었다.
+NPC-MorridowNew(2)<Speaker>몰리도</Speaker>||:왜 멈춰?+계속해.
+Nyto(2)<Speaker>검은 니토</Speaker><Position>0,50</Position>||:아... 네...
+Nyto(2)<Speaker>검은 니토</Speaker><Position>0,50</Position><Shake>0.1</Shake>||<BGM>GF_22W_SFX_chant</BGM>:여기에 들어서는 자, 모든 희망을 버려라,
+NytoWhite(1)<Speaker>하얀 니토</Speaker><Position>0,50</Position><Shake>0.1</Shake>||:여기에 들어서는 자, 모든 의구심을 버려라,
+()<Speaker></Speaker>||<关闭蒙版><黑屏1>:......
+()<Speaker></Speaker>||<黑屏2><Night><BIN>229</BIN>:서탑 19층의 생산 라인.+에너지 공급이 끊어지자, 아직 샘플 상자 안에 누워 개조받기를 기다리던 소녀들이 불안함에 하나둘씩 몸을 일으켰다.
+()<Speaker>우는 목소리</Speaker>||:뭐지...? 어두워졌어...
+()<Speaker>떨리는 목소리</Speaker>||:추워... 온몸이 아파...
+()<Speaker>기쁜 목소리</Speaker>||:아, 이 파이프 아직 따뜻해... 저리 가, 이건 내 거야!
+()<Speaker></Speaker>||<SE1>RunStep</SE1><BGM>BGM_Empty</BGM>:함께 만들어져 똑같은 얼굴인 소녀들이 아직 온기가 남은 에너지 공급선에 달려들어, 식어 가는 온기를 게걸스럽게 탐했다.
+()<Speaker>분노한 목소리</Speaker>||<SE1>AVG_Combat_Hits</SE1>:내 거라고! 나 혼자 쓰기에도 부족해! 너흰 그냥 죽어!
+()<Speaker></Speaker>||<SE1>AVG_Cut_Watermelon</SE1>:다른 이들보다 건강해 보이는 검은 옷의 소녀가 달려들어, 손으로 "동지"의 심장을 꿰뚫었다.
+()<Speaker>슬픈 목소리</Speaker>||:싫어... 누가 나 좀 구해――
+()<Speaker></Speaker>||<黑屏1><SE1>AVG_20Winter_Knife_Whoosh</SE1>:다른 이들보다 조금 더 날렵한 소녀가 달려들어, 손톱으로 두려움에 떠는 소녀의 목을 베었다.+식어 가는 에너지 연결구 앞에 검은 옷의 소녀들의 시체가 겹겹이 쌓이고, 바닥이 피로 흥건해졌다.+그러는 와중에도, 돌려진 더 많은 에너지가 35층으로 흘렀다.
+()<Speaker></Speaker>||<黑屏2><BIN>460</BIN><common_effect>%%code=CJ_WC_piaofu%%</common_effect><BGM>GF_22W_SFX_chant</BGM>:동탑 로비.+하늘에서 내리는 빛이 여신상을 거룩하게 비췄다.
+NPC-MorridowNew(2)<Speaker>몰리도</Speaker>||:신전은 마굴로 변하고, 천칭은 죄악으로 물들어 피를 채우는 제단이 되었도다.
+NPC-Bramedb(6)<Speaker>브라메드</Speaker>||:복수의 여신은 보검으로 자신의 가슴을 갈라, 자신의 심장을 두드리며 날카롭게 외치노라.
+()<Speaker></Speaker>||<关闭蒙版><黑屏1>:......
+()<Speaker></Speaker>||<黑屏2><Night><BIN>229</BIN>:서탑, 31층 생산 라인.+빛은 희미해졌다.
+()<Speaker>멍한 여자아이</Speaker>||<SE1>AVG_Water_Drip</SE1>:언니... 제가 선택받았나요...?
+Nyto(1)<Speaker>검은 니토</Speaker>||:...눈 뜨지 마.
+()<Speaker>멍한 여자아이</Speaker>||:이게 아버님의 뜻이라면――
+Nyto(1)<Speaker>검은 니토</Speaker>||:질문하지 마.
+()<Speaker>멍한 여자아이</Speaker>||<BGM>BGM_Empty</BGM>:어... 발에 뭔가 채였어요... 부드러운 게...
+Nyto(1)<Speaker>검은 니토</Speaker>||:...봉제인형이야.+말하지 마.
+()<Speaker></Speaker>||<黑屏1>:샘플 분해 캡슐 안에는 10개는 족히 넘는 "봉제인형"들이 구석에 널브러져 있었다.+다시 빛이 드리울 리 없는 어둠을 뒤로하고, 분해 캡슐의 에너지 파이프는 변경된 루트를 따라 초록색 빛을 한 점씩 35층으로 보냈다.
+()<Speaker></Speaker>||<黑屏2><BIN>460</BIN><common_effect>%%code=CJ_WC_piaofu%%</common_effect><BGM>GF_22W_SFX_chant</BGM>:동탑 로비.
+()<Speaker></Speaker>||:기도 소리가 점차 웅장해져 가는 만큼,+천장 너머에서 들려오는 굉음도 갈수록 소름끼쳐 갔다.
+()<Speaker></Speaker>||<SE1>Explode</SE1>:콰앙!
+()<Speaker></Speaker>||:굉음이 멈추지 않는 가운데 기도 소리도 계속되니, 마치 무간지옥 속에서 천사들이 예배를 올리는 듯한 기괴한 광경이었다.
+NPC-grig(4)<Speaker>틸</Speaker>||:우리 인생길의 한중간에서 나 올바른 길을 잃으니,+천국에서 지옥으로 이끌려 내려간다.+그대 태어났을 때 나는 아직 세상을 떠나지 않았으나,+그대 받은 고통 나의 기억에서 지워졌나니.
+()<Speaker></Speaker>||<关闭蒙版><黑屏1>:......
+()<Speaker></Speaker>||<黑屏2><BIN>320</BIN>:서탑 2층, 재료 선별 센터.
+()<Speaker></Speaker>||:40명이 넘는 소녀들이 눈을 감은 채 무엇인지도 모를 액체가 담긴 수조 안에 몸을 담그고 있었다.+입수구로부터는 미량의 붕괴 입자가 섞여 나와 수조 안에 퍼져, 소녀들의 체내로 스며들었다.+이따금씩 괴로워하는 신음을 냈지만, 소녀들은 참았다. 선별을 통과하지 못하면 기다리는 것은 플랫폼 아래서 입을 벌린 바닥을 알 수 없는 심연행이니까.
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Open_Light</SE1><BIN>321</BIN>:그런데, 갑자기 에너지 공급이 끊겼다.
+()<Speaker></Speaker>||:소녀들은 놀라 고개를 들어 두리번거렸다.
+()<Speaker>소녀</Speaker>||:무슨 일이지?
+()<Speaker></Speaker>||<SE1>AVG_fall_into_water</SE1><BGM>BGM_Empty</BGM>:이에 대답하듯 입수구에서 눈에 보일 정도의 붕괴 입자가 쏟아졌고, 수조는 순식간에 끓어올랐다.
+()<Speaker>푸른 눈의 소녀</Speaker>||:이, 이쪽으로! 내 손을 잡아!
+()<Speaker>소녀</Speaker>||:꺄아아아아악!!!
+()<Speaker></Speaker>||<SE1>AVG_fall_into_water</SE1>:소녀들은 아비규환에 빠져 수조 끝으로 몰려들었다.+몸싸움에서 밀려나 깊숙이 빠져버린 이들은 금세 축 늘어져 수면 위로 떠올랐다.+고농도의 붕괴 입자가 소녀들의 피부를 빠르게 규소화시켰고, 점점 더 많은 소녀들이 생기를 잃고 펄펄 끓는 수면에 둥둥 떠올랐다.+가까스로 빠져나와 목숨을 부지한 소녀들은 "동지"들을 신경쓸 겨를도 없이 마구 문을 두들기며 애원했다.
+()<Speaker>푸른 눈의 소녀</Speaker>||<SE1>AVG_Door_Hit</SE1>:살려 주세요! 문을 열어 주세요! 제발, 제발 살려 주세요!
+()<Speaker></Speaker>||<SE1>AVG_fall_into_water</SE1>:붕괴 입자를 가득 머금은 수증기가 선별실을 가득 채우는 것은 오래 걸리지 않았다.+푸른 눈동자의 소녀는 자신의 코와 입을 움켜쥔 채, 몸에 힘이 빠지는 마지막 그 순간까지 문을 붙잡고 늘어지다 서서히 미끄러졌다.+잠시 후 수조가 뒤집혀, 끓는 물과 실내의 모두를 배수구로 뱉어냈다.+그리고 배수구가 철컥 열려, 그들을 더 아래층의 제련 센터로 떨어뜨렸다.+제련 센터의 기계들은 "재료"를 자동 선별 및 제련해 추출한 에너지를 파이프를 통해 35층으로 보냈다.
+()<Speaker></Speaker>||<黑屏1>:......
+()<Speaker></Speaker>||<BGM>Campaion-58-2</BGM><黑屏2><BIN>566</BIN>:35층, 기밀 시험실.
+()<Speaker></Speaker>||<SE1>AVG_bigglassbreak</SE1>:탑 전체에서 막대한 에너지가 주입돼, 이곳의 모든 기구가 파열했다.+유리 수조는 이미 산산조각나 바닥에 흩어졌고, 온몸이 흠뻑 젖은 하얀 머리의 소녀만이 홀로 눈을 감은 채 어둠 속에 서 있었다.
+NPC-Sana(7)<Speaker>？？</Speaker><Position>0,-40</Position><GradientShow>3</GradientShow>||:............
+()<Speaker></Speaker>||<黑屏1>:소녀는 잠시 멍하니 있다가, 축축한 유리조각을 즈려밟으며 어둠 속으로 더 깊숙이 걸어 들어갔다.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1><黑屏2><BIN>657</BIN><黑屏1>:소녀가 36층을 지날 때, 모든 실험 샘플들은 쪼그라든 채였다.
+()<Speaker></Speaker>||<黑屏2><BIN>229</BIN><黑屏1>:소녀가 37층을 지날 때, 하얀 니토들이 하나둘씩 쓰러졌다.
+()<Speaker></Speaker>||<黑屏2><BIN>221</BIN><黑屏1>:소녀가 38층을 지날 때, 고밀도의 에너지를 저장하는 희소 재료들이 전부 바닥을 드러낸 채였다.
+()<Speaker></Speaker>||<黑屏2><BIN>563</BIN>:......
+()<Speaker></Speaker>||:그리고 마침내, 그녀가 네메아란의 앞에 도달했다.
+NPC-Sana(7)<Speaker>？？</Speaker><Position>0,-40</Position>||:네메아란, 왜 나를 벌써 깨웠어?+나는 아직 완성되지 않았을 텐데...+엄마가 나를 불렀어?
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||<BGM>BGM_Empty</BGM>:...아베르누스가 널 필요로 해서란다.+어서 돌아오려무나, 사나.
+NPC-Sana(7)<Speaker>사나</Speaker><Position>0,-40</Position>||<黑屏1>:......
+()<Speaker></Speaker>||<黑屏2><BIN>460</BIN><common_effect>%%code=CJ_WC_piaofu%%</common_effect><BGM>GF_22W_SFX_chant</BGM>:동탑 로비.
+NPC-MorridowNew(2)<Speaker>몰리도</Speaker>||:우리는 함께하리라. 천국도 지옥도 아닌 곳에서, 저주도 축복도 받지 아니하매. 나는 죽지도 아니하고, 살아있지도 아니하다.
+()<Speaker></Speaker>||:거룩한 햇빛 아래의 여신상에게 니토들은 모두 경건히 머리를 조아렸다.+형용키 어려운 위압감이 모든 니토들의 컨셔스 파노라마에서 솟아올랐다.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:그리고 어디선가 들려오는 발소리가, 이 자리의 모두의 귀를 매 걸음마다 밟는 듯했다.
+NPC-MorridowNew(2)<Speaker>몰리도</Speaker>||:사랑이 우리를 함께 살게 하시어,+사랑이 우리를 함께 죽게 하리라.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:발소리가 멈췄다.+니토들은 두려움에 몸을 떨면서도 "이끌리는" 느낌에 천천히 고개를 들었다.+네메아란과, 난생 처음 보는 자매.+이 무시무시한 위압감의 근원은 바로 저 낯선 소녀였다.
+NPC-MorridowNew(2)<Speaker>몰리도</Speaker>||:오늘 기도에 늦었군요.+네메아란.
+()<Speaker></Speaker>||:네메아란은 주위를 한 바퀴 훑어보곤 천천히 입을 열었다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><Position>0,100</Position>||<BGM>BGM_Empty</BGM>:이 자매가 바로 "지옥의 문지기"다.+모두, 존중하는 마음을 담아 "사나 아가씨"라 부르거라.
+()<Speaker></Speaker>||:그 자리의 니토들은 모두 의아해 했다.+여태까지 본 적 없었던 모습, 여태까지 들어본 적 없는 이름이었으니까.
+()||<黑屏1>:

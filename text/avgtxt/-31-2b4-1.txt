@@ -1,41 +1,41 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<火花><黑屏2><SE1>Gunkill</SE1><SE2>Gunfight</SE2>:격렬한 교전으로 엉망이 되어 버린 극장.
-AR15Mod(5)<Speaker>AR15</Speaker>||<BGM>BGM_Battle</BGM>:말도 안 돼...+철혈 인형들이 전보다 훨씬 강해졌잖아!+신기종인가?!
-AN94(5)<Speaker>AN94</Speaker>;AR15Mod(5)||:최소한, 본 적 없는 저 철혈 인형은 그렇다.+내가 가진 자료에 저 인형의 정보는 없다. 신형 모델이다.+이렇게나 많은 철혈이 도시로 진입하다니... 하얀 세력으로 인한 혼란을 이용한 것 같다.
-AN94(5);AR15Mod(5)<Speaker>AR15</Speaker>||<黑屏1>:아무리 그래도 그렇지, 이렇게나 많이?+방금 안젤리아가 그쪽도 바쁘다고 했어. 분명 M4에게도 무슨 일이 생긴 거야.+아무튼... 결착이 난 것 같네. 우리도 준비하자.
-NPC-Mercurows(0)<Speaker></Speaker>||<黑屏2><BIN>96</BIN>:패러데우스 부대는 갑작스런 습격으로 진형이 와해되었고, 머큐로스 주위의 유닛들도 차례차례 쓰러졌다.
-NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:...너희 따위 인형들이 이 정도까지 해낼 줄이야.+그래 좋아, 저 질긴 육식동물이 갖고 싶다면, 양보할게.
-NPC-Mercurows(0);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:지금 여기서 도망칠 수 있다고 생각하지 마라.
-NPC-Mercurows(0)<Speaker>머큐로스</Speaker>;M16A1BOSS(0)||:그럼 리벨리온과 철혈 친구들, 다음에 또 보자!
-M16A1BOSS(0)<Speaker>M16A1</Speaker>||<SE1>Gunkill</SE1>:거기 서!
-M16A1BOSS(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:머큐로스는 눈 깜짝할 새에 비밀 통로로 도망쳤다. M16의 탄환은 굳게 닫힌 철문을 뒤늦게 두들길 뿐이었다.
-M16A1BOSS(0);Beak_M16(0)<Speaker>낯선 철혈인형</Speaker>||<关闭火花><SE1>Select</SE1>:이런이런, 한발 늦었네~+M16은 적의 철문을 뚫지 못했습니다! 아까워라―― 어이쿠!
-Beak_M16(0)<Speaker>낯선 철혈인형</Speaker>||<SE2>MachineGunBurst</SE2><SE1>Gunfight</SE1><BGM>BGM_Brain</BGM>:야 야, 그리폰 인형은 원래 이렇게 매너가 없어?
-Beak_M16(0)<Speaker></Speaker>||:AR15가 M16A1을 향해 쏜 탄환은, 그녀 옆에 있던 철혈 인형이 너무나도 손쉽게 막아냈다. 그러곤 마치 자랑이라도 하듯, 손을 흔들어 보였다.
-AR15Mod(4)<Speaker>AR15</Speaker>;Beak_M16(0)||:(팔만으로 총알을 막아냈어...?!)
-AR15Mod(4);AN94(2)<Speaker>AN94</Speaker>||:무슨 짓이지, AR15?+저자는 너희 AR팀의 동료 아닌가...?
-AR15Mod(4)<Speaker>AR15</Speaker>;AN94(2)||:이젠 아니야.+철혈과 손잡았을 때부터, 저 녀석은 우릴 저버린 배신자야...+이제와서 AR팀은... 그저 허울 좋은 껍데기일 뿐이야.
-AR15Mod(4);Beak_M16(0)<Speaker>낯선 철혈인형</Speaker>||:흥, 시시한 녀석들이네. 얼른 해치우자.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:비크, 네게 이번 작전 권한을 맡긴 적은 없어.
-M16A1BOSS(0);Beak_M16(0)<Speaker>비크</Speaker>||:어휴, 정말 손이 많이 가는 녀석이라니까.+방금 나 아니었으면 너 총에 맞았다고. 그것도 네 옛 동료가 쏜 총에 말이야.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:막아달라 부탁한 적 없어.
-M16A1BOSS(0);Beak_M16(0)<Speaker>비크</Speaker>||:그래그래, 너 마음대로 하세요. 두고 봐, 언젠가는 결국 나한테 감사할 날이 올 테니까.
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:그럴 일 없으니 걱정 마.+그리폰의 AR15, 그리고 리벨리온의 AN94.
-M16A1BOSS(0);AN94(0)<Speaker>AN94</Speaker>||<BGM>BGM_Empty</BGM>:......
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;AN94(0)||<BGM>BGM_Sneak</BGM>:무기를 버려라. 산산조각 나기 전에.
-M16A1BOSS(0);AR15Mod(0)<Speaker>AR15</Speaker>||:...우리가 왜?
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;AR15Mod(0)||:이건 명령이다. 절대적인 힘으로 내리는 명령.+고철덩이가 되기 싫다면, 명령에 복종해라.
-M16A1BOSS(0);AR15Mod(0)<Speaker>AR15</Speaker>||:......
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;AR15Mod(0)||:망설이지 말고, 반항할 생각도 하지 마.+지금 너희에게 그럴 자격은 없어.
-AN94(4)<Speaker>AN94</Speaker>;AR15Mod(0)||:<color=#00CCFF>AR15, 탄약도 이제 거의 다 떨어졌다. 지금은 정면으로 싸워봤자 승산이 없어...</color>+<color=#00CCFF>이미 좌표를 보냈으니, 안젤리아가 올 때까지 시간을 끌면 된다.</color>
-AN94(4);AR15Mod(3)<Speaker>AR15</Speaker>||<黑屏1>:<color=#00CCFF>알았어.</color>+그래, 항복할게.
-()<Speaker></Speaker>||<BIN>172</BIN><黑屏2>:철혈 인형들의 무수한 레이저사이트를 받으며, AR15와 AN94는 무기를 버리고 두 손을 들었다.
-M16A1()<Speaker>M16A1</Speaker>||:현명한 판단이야.+이제, "스피라에나 노드"가 있는 곳으로 안내해.
-AR15()<Speaker>AR15</Speaker>||:무슨 말인지 모르겠는데.
-M16A1()<Speaker>M16A1</Speaker>||:그 "패러데우스"의 세례자, "머큐로스"라고 자칭하는 복제품의 신호가 방금 전 이 극장 바로 아래에 있었다.+그리고 너희의 식별 신호는 녀석에게 쫓기며 이 극장으로 왔지.+너희의 목적은 알고 있어. 노드의 위치를 발견하고 머큐로스에게 쫓긴 것 말고, 너희가 무슨 바람이 들어서 여기까지 왔겠어?
-AR15()<Speaker>AR15</Speaker>||:칫...
-비크()||:과연, 적이 된 동료가 제일 무서운 법이라니까. 예전 동료에 대해서 아주 빠삭하네.
-AR15()<Speaker>AR15</Speaker>||:흥, 그럼 따라와. 내가 왔던 길을 제대로 기억할 수 있을지나 모르겠지만.
-M16A1()||:기억해내야 할 거야.
-()||<SE1>Select</SE1>:M16이 총을 AN94에게 겨눴다.
-M16A1()||<黑屏1>:네 새 친구를 위해서, 그리고 옛 친구를 위해서라도 서둘러야 할 거야... OGAS가 악화되기 전에.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<火花><黑屏2><SE1>Gunkill</SE1><SE2>Gunfight</SE2>:격렬한 교전으로 엉망이 되어 버린 극장.
+AR15Mod(5)<Speaker>AR15</Speaker>||<BGM>BGM_Battle</BGM>:말도 안 돼...+철혈 인형들이 전보다 훨씬 강해졌잖아!+신기종인가?!
+AN94(5)<Speaker>AN94</Speaker>;AR15Mod(5)||:최소한, 본 적 없는 저 철혈 인형은 그렇다.+내가 가진 자료에 저 인형의 정보는 없다. 신형 모델이다.+이렇게나 많은 철혈이 도시로 진입하다니... 하얀 세력으로 인한 혼란을 이용한 것 같다.
+AN94(5);AR15Mod(5)<Speaker>AR15</Speaker>||<黑屏1>:아무리 그래도 그렇지, 이렇게나 많이?+방금 안젤리아가 그쪽도 바쁘다고 했어. 분명 M4에게도 무슨 일이 생긴 거야.+아무튼... 결착이 난 것 같네. 우리도 준비하자.
+NPC-Mercurows(0)<Speaker></Speaker>||<黑屏2><BIN>96</BIN>:패러데우스 부대는 갑작스런 습격으로 진형이 와해되었고, 머큐로스 주위의 유닛들도 차례차례 쓰러졌다.
+NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:...너희 따위 인형들이 이 정도까지 해낼 줄이야.+그래 좋아, 저 질긴 육식동물이 갖고 싶다면, 양보할게.
+NPC-Mercurows(0);M16A1BOSS(0)<Speaker>M16A1</Speaker>||:지금 여기서 도망칠 수 있다고 생각하지 마라.
+NPC-Mercurows(0)<Speaker>머큐로스</Speaker>;M16A1BOSS(0)||:그럼 리벨리온과 철혈 친구들, 다음에 또 보자!
+M16A1BOSS(0)<Speaker>M16A1</Speaker>||<SE1>Gunkill</SE1>:거기 서!
+M16A1BOSS(0)<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:머큐로스는 눈 깜짝할 새에 비밀 통로로 도망쳤다. M16의 탄환은 굳게 닫힌 철문을 뒤늦게 두들길 뿐이었다.
+M16A1BOSS(0);Beak_M16(0)<Speaker>낯선 철혈인형</Speaker>||<关闭火花><SE1>Select</SE1>:이런이런, 한발 늦었네~+M16은 적의 철문을 뚫지 못했습니다! 아까워라―― 어이쿠!
+Beak_M16(0)<Speaker>낯선 철혈인형</Speaker>||<SE2>MachineGunBurst</SE2><SE1>Gunfight</SE1><BGM>BGM_Brain</BGM>:야 야, 그리폰 인형은 원래 이렇게 매너가 없어?
+Beak_M16(0)<Speaker></Speaker>||:AR15가 M16A1을 향해 쏜 탄환은, 그녀 옆에 있던 철혈 인형이 너무나도 손쉽게 막아냈다. 그러곤 마치 자랑이라도 하듯, 손을 흔들어 보였다.
+AR15Mod(4)<Speaker>AR15</Speaker>;Beak_M16(0)||:(팔만으로 총알을 막아냈어...?!)
+AR15Mod(4);AN94(2)<Speaker>AN94</Speaker>||:무슨 짓이지, AR15?+저자는 너희 AR팀의 동료 아닌가...?
+AR15Mod(4)<Speaker>AR15</Speaker>;AN94(2)||:이젠 아니야.+철혈과 손잡았을 때부터, 저 녀석은 우릴 저버린 배신자야...+이제와서 AR팀은... 그저 허울 좋은 껍데기일 뿐이야.
+AR15Mod(4);Beak_M16(0)<Speaker>낯선 철혈인형</Speaker>||:흥, 시시한 녀석들이네. 얼른 해치우자.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:비크, 네게 이번 작전 권한을 맡긴 적은 없어.
+M16A1BOSS(0);Beak_M16(0)<Speaker>비크</Speaker>||:어휴, 정말 손이 많이 가는 녀석이라니까.+방금 나 아니었으면 너 총에 맞았다고. 그것도 네 옛 동료가 쏜 총에 말이야.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:막아달라 부탁한 적 없어.
+M16A1BOSS(0);Beak_M16(0)<Speaker>비크</Speaker>||:그래그래, 너 마음대로 하세요. 두고 봐, 언젠가는 결국 나한테 감사할 날이 올 테니까.
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;Beak_M16(0)||:그럴 일 없으니 걱정 마.+그리폰의 AR15, 그리고 리벨리온의 AN94.
+M16A1BOSS(0);AN94(0)<Speaker>AN94</Speaker>||<BGM>BGM_Empty</BGM>:......
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;AN94(0)||<BGM>BGM_Sneak</BGM>:무기를 버려라. 산산조각 나기 전에.
+M16A1BOSS(0);AR15Mod(0)<Speaker>AR15</Speaker>||:...우리가 왜?
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;AR15Mod(0)||:이건 명령이다. 절대적인 힘으로 내리는 명령.+고철덩이가 되기 싫다면, 명령에 복종해라.
+M16A1BOSS(0);AR15Mod(0)<Speaker>AR15</Speaker>||:......
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;AR15Mod(0)||:망설이지 말고, 반항할 생각도 하지 마.+지금 너희에게 그럴 자격은 없어.
+AN94(4)<Speaker>AN94</Speaker>;AR15Mod(0)||:<color=#00CCFF>AR15, 탄약도 이제 거의 다 떨어졌다. 지금은 정면으로 싸워봤자 승산이 없어...</color>+<color=#00CCFF>이미 좌표를 보냈으니, 안젤리아가 올 때까지 시간을 끌면 된다.</color>
+AN94(4);AR15Mod(3)<Speaker>AR15</Speaker>||<黑屏1>:<color=#00CCFF>알았어.</color>+그래, 항복할게.
+()<Speaker></Speaker>||<BIN>172</BIN><黑屏2>:철혈 인형들의 무수한 레이저사이트를 받으며, AR15와 AN94는 무기를 버리고 두 손을 들었다.
+M16A1()<Speaker>M16A1</Speaker>||:현명한 판단이야.+이제, "스피라에나 노드"가 있는 곳으로 안내해.
+AR15()<Speaker>AR15</Speaker>||:무슨 말인지 모르겠는데.
+M16A1()<Speaker>M16A1</Speaker>||:그 "패러데우스"의 세례자, "머큐로스"라고 자칭하는 복제품의 신호가 방금 전 이 극장 바로 아래에 있었다.+그리고 너희의 식별 신호는 녀석에게 쫓기며 이 극장으로 왔지.+너희의 목적은 알고 있어. 노드의 위치를 발견하고 머큐로스에게 쫓긴 것 말고, 너희가 무슨 바람이 들어서 여기까지 왔겠어?
+AR15()<Speaker>AR15</Speaker>||:칫...
+비크()||:과연, 적이 된 동료가 제일 무서운 법이라니까. 예전 동료에 대해서 아주 빠삭하네.
+AR15()<Speaker>AR15</Speaker>||:흥, 그럼 따라와. 내가 왔던 길을 제대로 기억할 수 있을지나 모르겠지만.
+M16A1()||:기억해내야 할 거야.
+()||<SE1>Select</SE1>:M16이 총을 AN94에게 겨눴다.
+M16A1()||<黑屏1>:네 새 친구를 위해서, 그리고 옛 친구를 위해서라도 서둘러야 할 거야... OGAS가 악화되기 전에.

@@ -1,231 +1,231 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>1</BIN><BGM>m_avg_casual</BGM>:독일 베를린 교외.
-()<Speaker></Speaker>||:무성한 가로수길 옆으로, 세월이 느껴지는 오두막이 있었다.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:켈록켈록켈록... 으에에, 무슨 집이 이래! 그 J란 사람이 말한 곳이 정말 여기인 거 맞아?
-RO635Mod(0)<Speaker>RO635</Speaker>||:맞으니까 그만 투덜대, SOP2. 어서 정리나 하자.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:알았어...+근데, 여기 진짜 너덜너덜한데 정말 쓸 수 있는 거 맞아?
-RO635Mod(0)<Speaker>RO635</Speaker>||:확실히 많이 낡긴 했지만, 필요한 시설은 다 있어. 차까지 한 대 있더라.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:오우! ...아니 잠깐, 근데 왜 우리 둘이서만 청소해?
-RO635Mod(0)<Speaker>RO635</Speaker>||:어휴 진짜, 그렇게 투덜댈 시간이면 벌써 청소 다 했겠다!
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:RO635는 SOP2를 밀면서 청소 도구를 들고 오두막 안으로 들어갔다.+한편, 오두막 밖에선 피곤함에 찌든 지휘관 일행이 심각한 분위기 속에서 남은 탄약과 총기를 정리하는 중이었다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:표정만 봐도 알겠다. 몰리도의 멱을 어떻게 딸지 벌써 수천 가지는 염두에 뒀지?
-AR15Mod(4)<Speaker>AR15</Speaker>||:......
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:정 답답하면 나한테 몇 개만 들려줘 봐, G11이 맨날 보는 호러 영화보다 끔찍할 거 같은데.
-()<Speaker>지휘관</Speaker>||:AR-15, 네 심정은 이해하지만 아직은 몰리도를 살려 둬야 해.
-AR15Mod(4)<Speaker>AR15</Speaker>||:...알아요.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:하지만 저년한테서 정보 캐내기가 여간 어려운 게 아니라서 말이지.
-AR15Mod(0)<Speaker>AR15</Speaker>||:어려울 게 뭐 있어? 머리 멀쩡하고 입 달렸으니까, 불게 만들 방법이야 얼마든지 있어.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:그런 기술이야 나도 빠삭하거든? 지금 우리의 문제는 아주 잠깐 안전해졌을 뿐이란 거야.+임시 은신처를 얻었다지만, 몰리도 저년의 능력상 신호 차단망을 뚫고 구조 신호를 보내는 건 시간문제지.+이걸 해결 못하면 우린 계속 자리를 옮겨 다녀야 해.
-()<Speaker>지휘관</Speaker>||:만약 패러데우스에게 빼앗겼다간, 모든 일이 허사가 되어 버릴 테고...
-AR15Mod(0)<Speaker>AR15</Speaker>||:통신 모듈을 파괴할 순 없어?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:아니, 전자 봉쇄 말곤 답이 없어.+문제는, 그걸 확실하게 할 수 있는 사람이... 아직도 자고 있다는 거지.
-AR15Mod(0)<Speaker>AR15</Speaker>||:그럼... 대충이라도 시간이 얼마나 더 있는데?+그러니까, 그년이 이곳의 신호 차단망을 뚫는 데 걸리는 시간.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:그걸 내가 어떻게 알아? 니토의 마인드맵은... 아, 컨셔스 파노라마랬지?+우리 같은 인형의 마인드맵 공간이랑 똑같아 보이기만 하지, 실제론 완전히 다른 시스템인걸.+해킹이야 시도해볼 수는 있지만, 좀 억지로 강행돌파하는 거나 마찬가지야.
-()<Speaker>지휘관</Speaker>||:그럼――
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1><BGM>BGM_Empty</BGM>:부웅——!
-()<Speaker></Speaker>||<BGM>BGM_Truth</BGM>:그때, 기괴한 노이즈가 지휘관의 통신기를 긁었다.+날카로운 소음이 지휘관의 고막을 찌르는 것과 동시에, 두 인형들이 머리를 부여잡고 고통스러워했다.
-AR15Mod(5)<Speaker>AR15</Speaker><Shake>0.1</Shake>||:으윽...!?
-UMP45Mod(0)<Speaker>UMP45</Speaker><Shake>0.1</Shake>||:마... 마인드맵 해킹...?!
-()<Speaker></Speaker>||:AR-15는 버티지 못하고 바닥에 쓰러져 경련을 일으켰다.+UMP45는 그보단 나은 상태였지만, 꼼짝달싹할 수 없는 건 마찬가지였다.
-()<Speaker>지휘관</Speaker>||:AR-15!!
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신기를 부숴버릴 기세로 끈 지휘관은 쓰러진 AR-15를 보며 어쩔 줄 몰라했다.
-()<Speaker>지휘관</Speaker>||:젠장! 벌써 당한 건가?!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:빠... 빨리 도망쳐 지휘관...!
-()<Speaker></Speaker>||:인간이어서 영향이 전혀 없는 지휘관은, 어떡하면 좋을지 도저히 방법이 떠오르지 않았다.+그저, 이대로 두고 갈 수는 없다는 생각뿐이었다.
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1><BGM>BGM_Empty</BGM>:부웅——!!
-UMP45Mod(0)<Speaker>UMP45</Speaker><Shake>0.1</Shake>||:허억...!
-()<Speaker></Speaker>||:또다시 울려 퍼진 노이즈가 마치 정지 신호였다는 것처럼, 꼼짝 못하던 UMP45가 속박에서 풀려났다.
-AR15Mod(5)<Speaker>AR15</Speaker>||:으윽...!!
-()<Speaker></Speaker>||:경련하던 AR-15도 제정신을 차렸지만, 힘이 빠진 탓에 몸을 가누기도 힘들어했다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:이렇게 강력한 전자파 간섭... 들어본 적 없어...
-()<Speaker></Speaker>||:신경이 곤두선 UMP45가 총을 꽉 쥐었다.
-AR15Mod(5)<Speaker>AR15</Speaker>||<SE1>Select</SE1>:준비... 반격 준비해야... 콜록... 적 어딨어...?
-()<Speaker></Speaker>||:벽을 짚으면서 힘겹게 일어난 AR-15도 함께 경계 태세를 취했다.
-()<Speaker>지휘관</Speaker>||:......
-()<Speaker></Speaker>||:하지만, 아무리 기다려도 적이 들이닥치니기는커녕 은신처 주위는 쥐죽은듯 조용했다.+적의 습격에 대비하던 지휘관과 두 인형 모두 어리둥절해했다.+대체 무슨 일이었던 걸까?
-()<Speaker>지휘관</Speaker>||:...둘 다 괜찮니?
-AR15Mod(5)<Speaker>AR15</Speaker>||:전... 괜찮아요.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:쇼크를 좀 받긴 했지만 나도 괜찮아.
-()<Speaker></Speaker>||:하지만 머릿속의 경계 경보가 해제되지 않은 UMP45는 곧바로 UMP9에게 연결했다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:9, 응답해.
-UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>응? 왜 그래 언니?</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:방금 무슨 일이었어?
-UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>무슨 일이냐니, 뭐가?</color>
-()<Speaker></Speaker>||:말 그대로 아무 일 없다는 듯, UMP9은 태평한 목소리였다.
-AR15Mod(5)<Speaker>AR15</Speaker>||:무슨 기척 같은 것도 못 느꼈대?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_tele_disconnect</SE1>:그런 모양이야. 우리한테만 일어난 거 같은데?
-AR15Mod(2)<Speaker>AR15</Speaker>||:우리한테만...?
-()<Speaker></Speaker>||:무언가 번뜩 떠오른 AR-15가 고개를 홱 돌렸다.
-AR15Mod(5)<Speaker>AR15</Speaker>||:큰일이야, RO랑 SOP2도!
-()<Speaker>M4 SOPMOD II</Speaker>||<震屏3>:으아아아――!!
-()<Speaker></Speaker>||:AR-15의 예상은 맞아떨어졌고, 은신처 안에서 SOP2의 비명이 들려왔다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>1</BIN><BGM>BGM_Brain</BGM>:아무것도 모르는 나방이, 우거진 숲길에 선 그레이의 어깨에 내려앉았다.+그녀는 우아하게 나방의 날개를 낚아채더니, 다른 손으로 덮어, 서서히 조이다... 양손을 펼쳤다.+손 안의 나방은 더는 움직이지 않았다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:......
-Nyto(1)<Speaker>검은 니토</Speaker>||:그, 그들의 위치 추적에... 실패했습니다...+출동한 정찰 부대가 몰리도 님의 신호를 미약하게나마 포착했지만...+며... 몇분 전 그들마저도 신호가 끊겨, 추적이 불가능해졌습니다...
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:설명은 됐어.+너는?
-()<Speaker></Speaker>||:지명된 니토가 크게 움찔하더니 조심조심 입을 열었다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:...지난번 전달받은 정보 코드의 해독 결과, 지점으로 확인되었습니다.
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:알았다, 그 위치에 존재하는 공장 전부에 보내.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:...전달했습니다.+하지만, 이 위치의 공장들은 전부 폐기된 상태입니다... 어떡하면 됩니까?
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:창고에서 적당한 것들로 골라 채워 넣어, 완성도 50% 미만인 걸로.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:...네.
-NPC-MrsGray(1)<Speaker>그레이</Speaker>||:너는――
-()<Speaker></Speaker>||:그레이가 턱을 살짝 들었다.
-Nyto(1)<Speaker>검은 니토</Speaker>||:며, 명령을!
-NPC-MrsGray(1)<Speaker>그레이</Speaker>||:...가서 감시망 설치해. 안팎으로 사각지대 없도록 빈틈없이.
-Nyto(1)<Speaker>검은 니토</Speaker>||:네!+하, 하지만...
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:말해.
-Nyto(1)<Speaker>검은 니토</Speaker>||:폐, 폐기된 지 너무 오래되어, 감시 설비 운용에 필요한 전력이 부족할 수도 있습니다...
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:상관없어, 시간은 아직 있으니까.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:저... 경비 병력을 배치합니까?
-NPC-MrsGray(0)<Speaker>그레이</Speaker>||:아니, 내가 직접 가겠다.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:네.
-()<Speaker></Speaker>||:말을 마친 그레이가 잠깐 멈칫하더니, 손의 나방 시체를 휙 던져버렸다.+그 모습에 니토들은 어떡해야 할지 몰라 서로의 눈치만 보았고, 결국 보다못한 그레이가 눈총을 주었다.
-NPC-MrsGray(3)<Speaker>그레이</Speaker>||:일하러 가.
-NytoWhite(0)<Speaker>하얀 니토</Speaker>||:...네!
-()<Speaker></Speaker>||:니토들이 물러난 뒤, 그레이는 땅이 꺼져라 한숨을 푹 쉬었다.+그리곤 어디론가 연락했다.
-NPC-grig(1)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...피곤해 보이는군.</color>
-NPC-MrsGray(3)<Speaker>그레이</Speaker>;NPC-grig(1)||:이번에는 일이 잘 풀리길 빌어야지.+골칫거리가 끊이질 않으니 원... 갈라테아의 녀석들이 좀 정신을 똑바로 차렸으면 좋겠는데 말이야.
-NPC-MrsGray(3);NPC-grig(2)<Speaker>？？？</Speaker>||:<color=#00CCFF>다행히 우리에겐 네가 있다.</color>
-NPC-MrsGray(4)<Speaker>그레이</Speaker>;NPC-grig(2)||:...어디의 누구도 그렇게 생각하면 좋겠구나.
-NPC-MrsGray(4);NPC-grig(1)<Speaker>？？？</Speaker>||:<color=#00CCFF>그녀라면 추측해낼 게 많을 테지.</color>
-NPC-MrsGray(0)<Speaker>그레이</Speaker>;NPC-grig(1)||:상관없어, 어차피 걔가 먼저 머리를 숙이고 도움을 청하게 될 테니.+아직 "화물"은 여기 있으니까.
-NPC-MrsGray(0);NPC-grig(2)<Speaker>？？？</Speaker>||:<color=#00CCFF>응.</color>+<color=#00CCFF>이쪽의 일은 거의 다 끝나 간다.</color>
-NPC-MrsGray(1)<Speaker>그레이</Speaker>||:알았어, 그럼 이따 보자.
-()||<黑屏1><SE1>AVG_tele_disconnect</SE1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:베를린 교외의 임시 은신처.
-AR15Mod(0)<Speaker>AR15</Speaker>||<BIN>356</BIN><震屏3><SE1>AVG_Door_Hit</SE1>:RO!! SOP2!!
-()<Speaker></Speaker>||<BGM>BGM_Room</BGM>:문을 박차고 들어온 AR-15가 다급하게 동료들을 찾았다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:...진짜 큰일났네.
-()<Speaker></Speaker>||:세 사람이 오두막에 들어오자마자 보인 것은, 바닥에 쓰러진 RO635와 SOP2였다. AR-15와 UMP45와 달리, 그녀들은 아예 소체의 기능이 정지되어버린 상태였다.+UMP45가 재빨리 다가가 둘의 상태를 확인했고, AR-15는 소파 위에 눕혀진 댄들라이에게 달려갔다.+이 소란을 아는지 모르는지, 댄들라이는 여전히 편안히 자는 듯한 얼굴이었다.+AR-15는 조십스럽게 댄들라이를 살펴봤다. 만약 정말 적의 기습이라면, 최우선으로 지켜야 하는 대상은...
-()<Speaker>지휘관</Speaker>||:AR-15! 기다려!
-AR15Mod(5)<Speaker>AR15</Speaker>||:네?
-()<Speaker></Speaker>||:그때, 아주 잠깐 한눈판 AR-15의 손을 누가 덥석 붙잡았다.+AR-15는 깜짝 놀라 고개를 돌렸고, 그 익숙한 두 눈과 시선이 마주쳤다. 댄들라이가 깨어난 것이다.
-NytoIsomer(10)<Speaker>？？？</Speaker>||:......
-AR15Mod(8)<Speaker>AR15</Speaker>||:......!?+너...
-NytoIsomer(10)<Speaker>？？？</Speaker>||:저... 괜찮으세요, AR-15?+혹시 언어 모듈에 문제가 생기진 않았나요?
-()<Speaker></Speaker>||:지휘관과 UMP45도 이 갑작스런 광경에 어안이 벙벙했다.
-AR15Mod(8)<Speaker>AR15</Speaker>||:댄들... 아니, 넌 대체...
-NytoIsomer(13)<Speaker>"댄들라이"</Speaker>||:긴장할 것 없어요, AR-15.
-()<Speaker></Speaker>||:AR-15는 댄들라이가 또 자신을 놀리는 게 아닐까 싶었다.+하지만 그녀의 마음은 그 가능성을 부정했다.
-AR15Mod(8)<Speaker>AR15</Speaker>||:......M4?
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AR-15의 머리를 부드럽게 쓰다듬으며, M4A1은 지휘관에게 고개를 돌렸다.
-NytoIsomer(13)<Speaker>M4A1</Speaker>||:역시 인사부터 하는 게 좋을까요, 지휘관님?
-NytoIsomer(13)<Speaker>지휘관</Speaker>||:어... 어, 그, 그게 그러니까...+음...
-()<Speaker></Speaker>||:갑자기 불린 지휘관도 말을 더듬었다.+M4A1은 재촉하지 않고, 그저 평온한 얼굴로 다시 만난 지휘관을 바라봤다.+그녀의 눈동자를 보니, 당황했던 지휘관도 점차 진정했다.
-()<Speaker>지휘관</Speaker>||:...어서 돌아오렴, M4.
-()<Speaker></Speaker>||:지금 그녀가 누구인지 의심하는 사람은 아무도 없었다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:그래서, 방금 그 마인드맵에 다이렉트로 꽂힌 공격은 네 짓이었어?
-()<Speaker></Speaker>||:모두가 재회의 감동에 젖었지만, UMP45는 홀로 짜증 가득한 얼굴이었다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:패러데우스한테 벌써 기습당한 건가 했다고.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:미안해요, 다시 일어날 뿐인데 그런 부작용이 생길 줄은 몰랐어요.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:됐어, 사과하란 말은 아니었으니까.+아무튼 감동적인 재회를 계속하기 전에 여기 바닥 청소 중인 둘부터 깨워 줄래?
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:아, 네. 지금 깨우겠습니다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:M4A1이 소파에서 일어나 바닥에 발을 디뎠다. 댄들라이의 몸을 빌린 그녀는 낯선 소체에 신기해하는 듯했다.+그녀의 움직임 하나하나에 마음 졸이는 눈치의 지휘관과 AR-15에, M4A1은 결국 참지 못하고 웃었다.
-NytoIsomer(13)<Speaker>M4A1</Speaker>||:푸후훗... 그렇게 걱정 안 해도 돼요, AR-15, 지휘관님.+누가 보면 제가 재활 운동하는 환자인 줄 알겠어요.
-AR15Mod(5)<Speaker>AR15</Speaker>||:하지만...
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:너보다 멀쩡해 보이는데 뭘.+이 상황에서 내가 외부자긴 하지만, 둘 다 그래서는 우리 공주님만 부담스러울걸?
-NytoIsomer(13)<Speaker>M4A1</Speaker>||:45 씨, 당신은 외부자가 아니에요.+여기 있는 모두, 외부자가 아니에요. 당신도 우리의 소중한 동료인걸요.
-()<Speaker>지휘관</Speaker>||:그래 45, 그렇게 섭섭한 말 하지 마.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:...흥.
-()<Speaker></Speaker>||:UMP45는 대꾸하지 않고 그저 어깨를 으쓱했지만, 표정은 조금 누그러졌다.
-()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:M4A1이 바닥에 쓰러진 RO635와 SOP2에게 천천히 다가갔다.
-RO635Mod(3)<Speaker>RO635</Speaker>||<SE1>ClothingUp</SE1>:...헉!?
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker><Shake>0.1</Shake>||:흐앗!?
-()<Speaker></Speaker>||:기능이 정지됐던 두 인형이, 동시에 바닥에서 벌떡 일어났다.
-RO635Mod(3)<Speaker>RO635</Speaker>||:무, 무슨 일이었던 거지?!
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:으으... 어? 어어?! M4!! 깨어났구나 M4!!
-RO635Mod(3)<Speaker>RO635</Speaker>||:댄들라이!?
-NytoIsomer(13)<Speaker>M4A1</Speaker>||:AR-15?
-()<Speaker></Speaker>||:M4A1이 미안해하는 미소를 지었다.
-NytoIsomer(13)<Speaker>M4A1</Speaker>||:미안하지만, 잠깐 모두를 데리고 나가 주겠어요?+잠시 지휘관님과 할 말이 있어요.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:엥? 왜애애!? 나도, 나도 M4랑 얘기할래!!
-RO635Mod(3)<Speaker>RO635</Speaker>||:잠깐, 잠깐만요... 뭐에요? 지금 무슨 상황이에요?!
-()<Speaker></Speaker>||:RO635가 당혹스럽게 쳐다봤지만, AR-15는 그저 고개를 저을 뿐이었다.+M4A1는 달라붙은 SOP2의 얼굴을 어루만지고, 머리를 쓰다듬어 주었다.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:착하죠, SOP2? 중요한 얘기라서요.+SOP2와는 이따가 실컷 얘기할게요. 괜찮죠?
-M4 SOPMOD IIMod(2)<Speaker>M4 SOPMOD II</Speaker>||:우엥...
-()<Speaker></Speaker>||:입을 삐죽 내민 SOP2는 그 말에 불만이 많았지만, 그래도 M4A1을 다시 보게 되어 기쁜 것만은 확실했다.
-AR15Mod(0)<Speaker>AR15</Speaker>||:...일단 나가자, 내가 설명할게.
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:눈앞의 그녀가 정말 괜찮은지 다시 한번 확인하고, AR-15는 모두를 데리고 자리를 비켜 주었다.+그리고 방에는 지휘관과 M4A1만 남게 되었다.
-()<Speaker>지휘관</Speaker>||:......+모두와 함께여도 괜찮은데.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:저도 그러고 싶지만, 지휘관님은 물어보고 싶으신 게 많죠?
-NytoIsomer(10)<Speaker>지휘관</Speaker>||:...그래.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:말씀드리지 않아도 아시겠지만, 저는 지금 아주 특수한 상태입니다.+몇 가지는 그들이 알면 걱정만 늘 테니, 가능하면 숨기고 싶어요.
-NytoIsomer(10)<Speaker>지휘관</Speaker>||:음... 확실히 지금 네 상태가 무척 신경쓰이네.+하지만 그것보다, 그동안 대체 어디 있었니?
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:......
-()<Speaker></Speaker>||:그 질문을 들은 M4A1은 눈살을 살짝 찌푸리며 머뭇거리다, 이내 고개를 저었다.
-NytoIsomer(11)<Speaker>M4A1</Speaker>||:...죄송해요, 그건 말씀드릴 수 없어요.
-NytoIsomer(11)<Speaker>지휘관</Speaker>||:말할 수 없다고?
-NytoIsomer(11)<Speaker>M4A1</Speaker>||:네.
-NytoIsomer(11)<Speaker>지휘관</Speaker>||:어째서?
-NytoIsomer(11)<Speaker>M4A1</Speaker>||:저도 숨기고 싶지는 않아요... 하지만 지휘관님을 위해서, 그리고 저를 위해서도 아직은 말씀드릴 수 없어요.+아직 모든 걸 알려드릴순 없지만, 그래도 이것만은 믿어 주세요. 저는 절대 지휘관님과 모두를 위험에 빠뜨릴 짓은 하지 않겠습니다.
-NytoIsomer(11)<Speaker>지휘관</Speaker>||:...그래, 널 믿어.+나머지도 때가 되면 말해 주렴.+참, 그때 고맙다고 하지도 못했구나. 네가 아니었으면 우리 모두 거기서 죽었을 거야.
-NytoIsomer(13)<Speaker>M4A1</Speaker>||:마땅히 할 일이었는걸요. 무엇보다, 그걸 위해 제가 돌아온 거예요.+그러니 지휘관님과 동료들을 구하는 당연한 일로 감사하지 않으셔도 돼요.
-NytoIsomer(13)<Speaker>지휘관</Speaker>||:그래도 고마워.+그런데, 대체 어떻게 돌아온 거니? 댄들라이는 어떻게 됐고?
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:제 본체는 여기에 없습니다. 지금의 저는 마인드맵 속 한 줄의 데이터에 지나지 않고, 잠시 댄들라이의 소체를 잠시 빌렸을 뿐이에요. 댄들라이도 이 안에서 휴면 중이니 걱정 마세요.+다만, 지금 두 개의 마인드맵이 존재하는 상태라 지금 이 소체는 상당한 부하를 받고 있어요. 버티지 못하는 때가 오면, 저는 떠나야 해요.
-NytoIsomer(10)<Speaker>지휘관</Speaker>||:그렇... 뭐? 또 떠난다고?
-NytoIsomer(13)<Speaker>M4A1</Speaker>||:네, 그래서 그 전에 제 임무를 완수하려 해요.+...안심하세요. 우리가 다시 진정으로 재회하는 그날까지, 그리 오래 걸리지 않을 거예요.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:M4A1은 싱긋 웃으며 지휘관에게 다가와, 손을 내밀어 얼굴을 어루만졌다.
-NytoIsomer(13)<Speaker>M4A1</Speaker>||:여태까지... 정말 수고 많으셨어요, 지휘관님.
-NytoIsomer(13)<Speaker>지휘관</Speaker>||:...너도 수고가 많구나.+우리가 그 지하 기지에서 고위 니토를 포로로 붙잡았어.+그런데 그 녀석의 전자전 능력이 너무 강해서, 우리로선 손쓸 방도가 없어. 부탁해도 될까?
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:물론이죠. 제게 맡겨 주세요.
-NytoIsomer(10)<Speaker>지휘관</Speaker>||:그 소체의 상태로 괜찮겠니?
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:네, 전 괜찮아요.
-NytoIsomer(10)<Speaker>지휘관</Speaker>||:...알았다, 그럼 부탁할게.+대신... 절대 무리하면 안 된다.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:걱정 마세요, 저는 이제 예전의 제가 아니에요.+그리고... 그녀를 구원하기 위해서도 돌아온 것이니까요.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>414</BIN><Night><BGM>BGM_Empty</BGM>:좁고, 어둡고, 고요한 방. 들리는 것이라곤 자신의 호흡뿐.+돌연 어둠을 꿰뚫는 빛 한 줄기에 눈이 부셨고, 강철처럼 차가운 목소리가 귓가를 때렸다.
-AR15Mod(0)<Speaker>AR15</Speaker>||<BGM>BGM_Brain</BGM>:일어나.
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:정확히 120분마다... 정말 철저하게 시간 엄수하는구나.
-AR15Mod(4)<Speaker>AR15</Speaker>||:......
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:이번에도 똑같은 걸 쓰려고...? 전기, 물, 수면 방해... 뭐 좀 색다른 거 없어...?
-()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:퍼억!+AR-15가 몰리도의 관자놀이에 주먹을 날렸다.+새로이 찢어진 상처에서 흘러내리는 새빨간 피가 관자놀이에서 이마로, 이마에서 콧등을 따라 흘렀다.
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:킥킥킥... 겨우 이 정도야...? 부족한데...
-()<Speaker></Speaker>||:그 클레임을, AR-15는 흔쾌히 받아들였다. 그녀의 합금 나이프가 어둠 속에서 은은히 빛나며, 어딘가의 살갗을 파고들었다.+몰리도가 인간의 육체를 가져 완벽한 위장 능력을 얻었다면, 지금은 그 부작용을 느끼고 있을 것이다.+인간의 육체가 고통을 느끼지 못할 리 없었다.
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position><Shake>0.1</Shake>||:으으윽... 아파~ 너무 아파~ 차라리 날 죽여 줘어... 너무 아파...+흑흑흑... 눈물이 날 정도로 너무 아파아... 그만해, 이제 더는 싫어~
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:――이러면 좀 재밌어?
-()<Speaker></Speaker>||:우는 시늉을 하던 몰리도가 표정을 싹 바꿨다.
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:이럼 만족해? 기분 좋아? 하아... 난 진짜 질색인데.+난 통각을 차단할 수 있어. 무슨 의미가 있다고 이러는지 몰라 정말.+하아암... 지겨워서 하품이 다 나온다 얘.
-RO635Mod(0)<Speaker>RO635</Speaker>||:일부러 도발하는 거야.
-AR15Mod(4)<Speaker>AR15</Speaker>||:나도 알아.
-()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:AR-15는 주저 없이 또 주먹을 날렸다.
-AR15Mod(4)<Speaker>AR15</Speaker>||:놀고 싶다니까 놀아 주는 거라고.
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:킥킥킥... 내 머릿속을 들쑤시고도 원하는 건 못 찾았나 봐?
-AR15Mod(0)<Speaker>AR15</Speaker>||:괜찮아, 시간은 넘치도록 있으니까.
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:그러시겠지... 참나, 니모겐이 아니었다면 지금 고문당하는 건 누구였을까?+너...는 아니겠네. 흥, 그럴 가치도 없지. 코어 뽑는데 들일 힘도 아까워.+역시... 너네가 존경하는 "그 사람"이려나? 킥킥킥...
-()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>:그 말에 AR-15는 걸상을 발로 차 몰리도를 넘어뜨리고 그녀의 얼굴을 걷어찼다.
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:크히힉...
-RO635Mod(0)<Speaker>RO635</Speaker>||:AR-15! 지금 이년한테 낭비할 시간 없어!
-AR15Mod(0)<Speaker>AR15</Speaker>||<SE1>Rope</SE1>:그 "고치 계획"이 뭔지나 상세하게 불어. 그리고 너네가 "아버님"이라 부르는 사람은 누구지?
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:어떤 대답을 듣고 싶어...?+어디 보자... 으음... 그래, 고치 계획은 말이지... 베를린을 날려버리는 계획이지 뭐... 아버님이 누구냐고? 이름은 크루거... 아, 이건 너네 사장님 이름――
-()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:이번엔 몰리도의 정수리를 AR-15의 개머리판이 강타했고, 또 새로운 피가 뺨을 타고 흘러내렸다.
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:후우... 이제야 좀 심문받는 기분이네.+그래도 아직 너무 상냥해.
-RO635Mod(4)<Speaker>RO635</Speaker>||:상황 파악 좀 하지? 넌 이제 패러데우스로 돌아가지도 못해.
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:하하하... 잘못 알아도 아주 단단히 잘못 아는구나...+하긴, 인형 주제에 뭘 알겠어...
-()<Speaker></Speaker>||<BIN>414</BIN><SE1>AVG_21Winter_Open_Light</SE1>:낡은 전구가 특유의 소리를 내며 방을 환히 밝혔다.+어둠에 숨어 말이 없던 사람은, 그때까지 단 한 번도 몰리도에게서 눈을 돌리지 않고 있었다.
-()<Speaker>지휘관</Speaker>||:몸풀기는 여기까지.+저항은 무의미하다는 걸, 모르진 않겠지?
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:의미야 있답니다, 정하는 건 제가 아니지만요.+다 당신이 마음먹기 나름이에요.
-NPC-Morridow(13)<Speaker>지휘관</Speaker>||:듣고 있다.
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:굳이 말하자면, 우린 애초부터 적대하는 사이가 아니예요.+게다가, 저는 당신을 아주 높이 산답니다...+..."로빈".
-AR15Mod(5)<Speaker>AR15</Speaker>||:닥쳐!!+지휘관! 이년은 마흐리안의――
-()<Speaker>지휘관</Speaker>||:알아.
-()<Speaker></Speaker>||:몰리도는 꼴이 아주 엉망이었지만, 얼굴만은 아주 여유만만한 미소를 짓고 있었다.+그녀는 아주 느릿느릿 바닥에서 일어나, 잠깐 옷을 정리하고, 다시 걸상에 앉았다.
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아니요, 당신은 아직 모르는 게 많아요.+마흐리안은 제 언니 같은 게 아니랍니다. 제가 바로 그녀고, 그녀가 바로 저죠.
-NPC-Morridow(13)<Speaker>지휘관</Speaker>||:그래서?
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:우리가 어떤 관계인지 그녀한테서 못 들었나 봐요?+우리는 둘이서 하나예요. 영혼을 공유하고, 기억을 공유하죠. 그래요... 감정까지도.
-NPC-Morridow(13)<Speaker>지휘관</Speaker>||:그렇다면 지금 패러데우스가 무슨 꿍꿍이인지 말해 주겠어?+"불꽃놀이"는 뭐고, 언제 하려는 거지? 통일절인가?
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:언젠가는 가르쳐드릴게요. 지금은 말고, 나중에.
-NPC-Morridow(13)<Speaker>지휘관</Speaker>||:......
-()<Speaker></Speaker>||:지휘관은 말을 잇지 않았다.+그 모습에 분노로 눈썹이 들썩이던 AR-15는 다시 총을 들었다.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:기다려요, AR-15.
-()<Speaker></Speaker>||:하지만 M4A1이 그녀를 제지했다.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:소용없어요. 그녀는 육체적 고통에 대한 내성이 강해요.
-AR15Mod(4)<Speaker>AR15</Speaker>||:...치잇.
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:바보가 아닌 애가 있긴 했구나? 안녕, 니모겐.
-NytoIsomer(10)<Speaker>M4A1</Speaker>||:......
-()<Speaker></Speaker>||:M4A1이 걸어 나와, 지휘관과 AR-15의 곁을 지나 몰리도의 앞에 섰다.
-NytoIsomer(11)<Speaker>M4A1</Speaker>||:우리가 당신을 어쩌지 못한다고 생각하나요? 틀렸어요.+당신이 패러데우스에 바치는 충성도, 아무 의미 없어요.
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:그게 무슨 말――
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:M4A1이 몰리도의 머리에 손을 얹었다.+그러자――
-()||<黑点1><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>1</BIN><BGM>m_avg_casual</BGM>:독일 베를린 교외.
+()<Speaker></Speaker>||:무성한 가로수길 옆으로, 세월이 느껴지는 오두막이 있었다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:켈록켈록켈록... 으에에, 무슨 집이 이래! 그 J란 사람이 말한 곳이 정말 여기인 거 맞아?
+RO635Mod(0)<Speaker>RO635</Speaker>||:맞으니까 그만 투덜대, SOP2. 어서 정리나 하자.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:알았어...+근데, 여기 진짜 너덜너덜한데 정말 쓸 수 있는 거 맞아?
+RO635Mod(0)<Speaker>RO635</Speaker>||:확실히 많이 낡긴 했지만, 필요한 시설은 다 있어. 차까지 한 대 있더라.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:오우! ...아니 잠깐, 근데 왜 우리 둘이서만 청소해?
+RO635Mod(0)<Speaker>RO635</Speaker>||:어휴 진짜, 그렇게 투덜댈 시간이면 벌써 청소 다 했겠다!
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:RO635는 SOP2를 밀면서 청소 도구를 들고 오두막 안으로 들어갔다.+한편, 오두막 밖에선 피곤함에 찌든 지휘관 일행이 심각한 분위기 속에서 남은 탄약과 총기를 정리하는 중이었다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:표정만 봐도 알겠다. 몰리도의 멱을 어떻게 딸지 벌써 수천 가지는 염두에 뒀지?
+AR15Mod(4)<Speaker>AR15</Speaker>||:......
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:정 답답하면 나한테 몇 개만 들려줘 봐, G11이 맨날 보는 호러 영화보다 끔찍할 거 같은데.
+()<Speaker>지휘관</Speaker>||:AR-15, 네 심정은 이해하지만 아직은 몰리도를 살려 둬야 해.
+AR15Mod(4)<Speaker>AR15</Speaker>||:...알아요.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:하지만 저년한테서 정보 캐내기가 여간 어려운 게 아니라서 말이지.
+AR15Mod(0)<Speaker>AR15</Speaker>||:어려울 게 뭐 있어? 머리 멀쩡하고 입 달렸으니까, 불게 만들 방법이야 얼마든지 있어.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그런 기술이야 나도 빠삭하거든? 지금 우리의 문제는 아주 잠깐 안전해졌을 뿐이란 거야.+임시 은신처를 얻었다지만, 몰리도 저년의 능력상 신호 차단망을 뚫고 구조 신호를 보내는 건 시간문제지.+이걸 해결 못하면 우린 계속 자리를 옮겨 다녀야 해.
+()<Speaker>지휘관</Speaker>||:만약 패러데우스에게 빼앗겼다간, 모든 일이 허사가 되어 버릴 테고...
+AR15Mod(0)<Speaker>AR15</Speaker>||:통신 모듈을 파괴할 순 없어?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:아니, 전자 봉쇄 말곤 답이 없어.+문제는, 그걸 확실하게 할 수 있는 사람이... 아직도 자고 있다는 거지.
+AR15Mod(0)<Speaker>AR15</Speaker>||:그럼... 대충이라도 시간이 얼마나 더 있는데?+그러니까, 그년이 이곳의 신호 차단망을 뚫는 데 걸리는 시간.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그걸 내가 어떻게 알아? 니토의 마인드맵은... 아, 컨셔스 파노라마랬지?+우리 같은 인형의 마인드맵 공간이랑 똑같아 보이기만 하지, 실제론 완전히 다른 시스템인걸.+해킹이야 시도해볼 수는 있지만, 좀 억지로 강행돌파하는 거나 마찬가지야.
+()<Speaker>지휘관</Speaker>||:그럼――
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1><BGM>BGM_Empty</BGM>:부웅——!
+()<Speaker></Speaker>||<BGM>BGM_Truth</BGM>:그때, 기괴한 노이즈가 지휘관의 통신기를 긁었다.+날카로운 소음이 지휘관의 고막을 찌르는 것과 동시에, 두 인형들이 머리를 부여잡고 고통스러워했다.
+AR15Mod(5)<Speaker>AR15</Speaker><Shake>0.1</Shake>||:으윽...!?
+UMP45Mod(0)<Speaker>UMP45</Speaker><Shake>0.1</Shake>||:마... 마인드맵 해킹...?!
+()<Speaker></Speaker>||:AR-15는 버티지 못하고 바닥에 쓰러져 경련을 일으켰다.+UMP45는 그보단 나은 상태였지만, 꼼짝달싹할 수 없는 건 마찬가지였다.
+()<Speaker>지휘관</Speaker>||:AR-15!!
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신기를 부숴버릴 기세로 끈 지휘관은 쓰러진 AR-15를 보며 어쩔 줄 몰라했다.
+()<Speaker>지휘관</Speaker>||:젠장! 벌써 당한 건가?!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:빠... 빨리 도망쳐 지휘관...!
+()<Speaker></Speaker>||:인간이어서 영향이 전혀 없는 지휘관은, 어떡하면 좋을지 도저히 방법이 떠오르지 않았다.+그저, 이대로 두고 갈 수는 없다는 생각뿐이었다.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1><BGM>BGM_Empty</BGM>:부웅——!!
+UMP45Mod(0)<Speaker>UMP45</Speaker><Shake>0.1</Shake>||:허억...!
+()<Speaker></Speaker>||:또다시 울려 퍼진 노이즈가 마치 정지 신호였다는 것처럼, 꼼짝 못하던 UMP45가 속박에서 풀려났다.
+AR15Mod(5)<Speaker>AR15</Speaker>||:으윽...!!
+()<Speaker></Speaker>||:경련하던 AR-15도 제정신을 차렸지만, 힘이 빠진 탓에 몸을 가누기도 힘들어했다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:이렇게 강력한 전자파 간섭... 들어본 적 없어...
+()<Speaker></Speaker>||:신경이 곤두선 UMP45가 총을 꽉 쥐었다.
+AR15Mod(5)<Speaker>AR15</Speaker>||<SE1>Select</SE1>:준비... 반격 준비해야... 콜록... 적 어딨어...?
+()<Speaker></Speaker>||:벽을 짚으면서 힘겹게 일어난 AR-15도 함께 경계 태세를 취했다.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:하지만, 아무리 기다려도 적이 들이닥치니기는커녕 은신처 주위는 쥐죽은듯 조용했다.+적의 습격에 대비하던 지휘관과 두 인형 모두 어리둥절해했다.+대체 무슨 일이었던 걸까?
+()<Speaker>지휘관</Speaker>||:...둘 다 괜찮니?
+AR15Mod(5)<Speaker>AR15</Speaker>||:전... 괜찮아요.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:쇼크를 좀 받긴 했지만 나도 괜찮아.
+()<Speaker></Speaker>||:하지만 머릿속의 경계 경보가 해제되지 않은 UMP45는 곧바로 UMP9에게 연결했다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:9, 응답해.
+UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>응? 왜 그래 언니?</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:방금 무슨 일이었어?
+UMP9Mod(4)<Speaker>UMP9</Speaker><通讯框>||:<color=#00CCFF>무슨 일이냐니, 뭐가?</color>
+()<Speaker></Speaker>||:말 그대로 아무 일 없다는 듯, UMP9은 태평한 목소리였다.
+AR15Mod(5)<Speaker>AR15</Speaker>||:무슨 기척 같은 것도 못 느꼈대?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>AVG_tele_disconnect</SE1>:그런 모양이야. 우리한테만 일어난 거 같은데?
+AR15Mod(2)<Speaker>AR15</Speaker>||:우리한테만...?
+()<Speaker></Speaker>||:무언가 번뜩 떠오른 AR-15가 고개를 홱 돌렸다.
+AR15Mod(5)<Speaker>AR15</Speaker>||:큰일이야, RO랑 SOP2도!
+()<Speaker>M4 SOPMOD II</Speaker>||<震屏3>:으아아아――!!
+()<Speaker></Speaker>||:AR-15의 예상은 맞아떨어졌고, 은신처 안에서 SOP2의 비명이 들려왔다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>1</BIN><BGM>BGM_Brain</BGM>:아무것도 모르는 나방이, 우거진 숲길에 선 그레이의 어깨에 내려앉았다.+그녀는 우아하게 나방의 날개를 낚아채더니, 다른 손으로 덮어, 서서히 조이다... 양손을 펼쳤다.+손 안의 나방은 더는 움직이지 않았다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:......
+Nyto(1)<Speaker>검은 니토</Speaker>||:그, 그들의 위치 추적에... 실패했습니다...+출동한 정찰 부대가 몰리도 님의 신호를 미약하게나마 포착했지만...+며... 몇분 전 그들마저도 신호가 끊겨, 추적이 불가능해졌습니다...
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:설명은 됐어.+너는?
+()<Speaker></Speaker>||:지명된 니토가 크게 움찔하더니 조심조심 입을 열었다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:...지난번 전달받은 정보 코드의 해독 결과, 지점으로 확인되었습니다.
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:알았다, 그 위치에 존재하는 공장 전부에 보내.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:...전달했습니다.+하지만, 이 위치의 공장들은 전부 폐기된 상태입니다... 어떡하면 됩니까?
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:창고에서 적당한 것들로 골라 채워 넣어, 완성도 50% 미만인 걸로.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:...네.
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:너는――
+()<Speaker></Speaker>||:그레이가 턱을 살짝 들었다.
+Nyto(1)<Speaker>검은 니토</Speaker>||:며, 명령을!
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:...가서 감시망 설치해. 안팎으로 사각지대 없도록 빈틈없이.
+Nyto(1)<Speaker>검은 니토</Speaker>||:네!+하, 하지만...
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:말해.
+Nyto(1)<Speaker>검은 니토</Speaker>||:폐, 폐기된 지 너무 오래되어, 감시 설비 운용에 필요한 전력이 부족할 수도 있습니다...
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:상관없어, 시간은 아직 있으니까.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:저... 경비 병력을 배치합니까?
+NPC-MrsGray(0)<Speaker>그레이</Speaker>||:아니, 내가 직접 가겠다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:네.
+()<Speaker></Speaker>||:말을 마친 그레이가 잠깐 멈칫하더니, 손의 나방 시체를 휙 던져버렸다.+그 모습에 니토들은 어떡해야 할지 몰라 서로의 눈치만 보았고, 결국 보다못한 그레이가 눈총을 주었다.
+NPC-MrsGray(3)<Speaker>그레이</Speaker>||:일하러 가.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:...네!
+()<Speaker></Speaker>||:니토들이 물러난 뒤, 그레이는 땅이 꺼져라 한숨을 푹 쉬었다.+그리곤 어디론가 연락했다.
+NPC-grig(1)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...피곤해 보이는군.</color>
+NPC-MrsGray(3)<Speaker>그레이</Speaker>;NPC-grig(1)||:이번에는 일이 잘 풀리길 빌어야지.+골칫거리가 끊이질 않으니 원... 갈라테아의 녀석들이 좀 정신을 똑바로 차렸으면 좋겠는데 말이야.
+NPC-MrsGray(3);NPC-grig(2)<Speaker>？？？</Speaker>||:<color=#00CCFF>다행히 우리에겐 네가 있다.</color>
+NPC-MrsGray(4)<Speaker>그레이</Speaker>;NPC-grig(2)||:...어디의 누구도 그렇게 생각하면 좋겠구나.
+NPC-MrsGray(4);NPC-grig(1)<Speaker>？？？</Speaker>||:<color=#00CCFF>그녀라면 추측해낼 게 많을 테지.</color>
+NPC-MrsGray(0)<Speaker>그레이</Speaker>;NPC-grig(1)||:상관없어, 어차피 걔가 먼저 머리를 숙이고 도움을 청하게 될 테니.+아직 "화물"은 여기 있으니까.
+NPC-MrsGray(0);NPC-grig(2)<Speaker>？？？</Speaker>||:<color=#00CCFF>응.</color>+<color=#00CCFF>이쪽의 일은 거의 다 끝나 간다.</color>
+NPC-MrsGray(1)<Speaker>그레이</Speaker>||:알았어, 그럼 이따 보자.
+()||<黑屏1><SE1>AVG_tele_disconnect</SE1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:베를린 교외의 임시 은신처.
+AR15Mod(0)<Speaker>AR15</Speaker>||<BIN>356</BIN><震屏3><SE1>AVG_Door_Hit</SE1>:RO!! SOP2!!
+()<Speaker></Speaker>||<BGM>BGM_Room</BGM>:문을 박차고 들어온 AR-15가 다급하게 동료들을 찾았다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...진짜 큰일났네.
+()<Speaker></Speaker>||:세 사람이 오두막에 들어오자마자 보인 것은, 바닥에 쓰러진 RO635와 SOP2였다. AR-15와 UMP45와 달리, 그녀들은 아예 소체의 기능이 정지되어버린 상태였다.+UMP45가 재빨리 다가가 둘의 상태를 확인했고, AR-15는 소파 위에 눕혀진 댄들라이에게 달려갔다.+이 소란을 아는지 모르는지, 댄들라이는 여전히 편안히 자는 듯한 얼굴이었다.+AR-15는 조십스럽게 댄들라이를 살펴봤다. 만약 정말 적의 기습이라면, 최우선으로 지켜야 하는 대상은...
+()<Speaker>지휘관</Speaker>||:AR-15! 기다려!
+AR15Mod(5)<Speaker>AR15</Speaker>||:네?
+()<Speaker></Speaker>||:그때, 아주 잠깐 한눈판 AR-15의 손을 누가 덥석 붙잡았다.+AR-15는 깜짝 놀라 고개를 돌렸고, 그 익숙한 두 눈과 시선이 마주쳤다. 댄들라이가 깨어난 것이다.
+NytoIsomer(10)<Speaker>？？？</Speaker>||:......
+AR15Mod(8)<Speaker>AR15</Speaker>||:......!?+너...
+NytoIsomer(10)<Speaker>？？？</Speaker>||:저... 괜찮으세요, AR-15?+혹시 언어 모듈에 문제가 생기진 않았나요?
+()<Speaker></Speaker>||:지휘관과 UMP45도 이 갑작스런 광경에 어안이 벙벙했다.
+AR15Mod(8)<Speaker>AR15</Speaker>||:댄들... 아니, 넌 대체...
+NytoIsomer(13)<Speaker>"댄들라이"</Speaker>||:긴장할 것 없어요, AR-15.
+()<Speaker></Speaker>||:AR-15는 댄들라이가 또 자신을 놀리는 게 아닐까 싶었다.+하지만 그녀의 마음은 그 가능성을 부정했다.
+AR15Mod(8)<Speaker>AR15</Speaker>||:......M4?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AR-15의 머리를 부드럽게 쓰다듬으며, M4A1은 지휘관에게 고개를 돌렸다.
+NytoIsomer(13)<Speaker>M4A1</Speaker>||:역시 인사부터 하는 게 좋을까요, 지휘관님?
+NytoIsomer(13)<Speaker>지휘관</Speaker>||:어... 어, 그, 그게 그러니까...+음...
+()<Speaker></Speaker>||:갑자기 불린 지휘관도 말을 더듬었다.+M4A1은 재촉하지 않고, 그저 평온한 얼굴로 다시 만난 지휘관을 바라봤다.+그녀의 눈동자를 보니, 당황했던 지휘관도 점차 진정했다.
+()<Speaker>지휘관</Speaker>||:...어서 돌아오렴, M4.
+()<Speaker></Speaker>||:지금 그녀가 누구인지 의심하는 사람은 아무도 없었다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그래서, 방금 그 마인드맵에 다이렉트로 꽂힌 공격은 네 짓이었어?
+()<Speaker></Speaker>||:모두가 재회의 감동에 젖었지만, UMP45는 홀로 짜증 가득한 얼굴이었다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:패러데우스한테 벌써 기습당한 건가 했다고.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:미안해요, 다시 일어날 뿐인데 그런 부작용이 생길 줄은 몰랐어요.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:됐어, 사과하란 말은 아니었으니까.+아무튼 감동적인 재회를 계속하기 전에 여기 바닥 청소 중인 둘부터 깨워 줄래?
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:아, 네. 지금 깨우겠습니다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:M4A1이 소파에서 일어나 바닥에 발을 디뎠다. 댄들라이의 몸을 빌린 그녀는 낯선 소체에 신기해하는 듯했다.+그녀의 움직임 하나하나에 마음 졸이는 눈치의 지휘관과 AR-15에, M4A1은 결국 참지 못하고 웃었다.
+NytoIsomer(13)<Speaker>M4A1</Speaker>||:푸후훗... 그렇게 걱정 안 해도 돼요, AR-15, 지휘관님.+누가 보면 제가 재활 운동하는 환자인 줄 알겠어요.
+AR15Mod(5)<Speaker>AR15</Speaker>||:하지만...
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:너보다 멀쩡해 보이는데 뭘.+이 상황에서 내가 외부자긴 하지만, 둘 다 그래서는 우리 공주님만 부담스러울걸?
+NytoIsomer(13)<Speaker>M4A1</Speaker>||:45 씨, 당신은 외부자가 아니에요.+여기 있는 모두, 외부자가 아니에요. 당신도 우리의 소중한 동료인걸요.
+()<Speaker>지휘관</Speaker>||:그래 45, 그렇게 섭섭한 말 하지 마.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:...흥.
+()<Speaker></Speaker>||:UMP45는 대꾸하지 않고 그저 어깨를 으쓱했지만, 표정은 조금 누그러졌다.
+()<Speaker></Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:M4A1이 바닥에 쓰러진 RO635와 SOP2에게 천천히 다가갔다.
+RO635Mod(3)<Speaker>RO635</Speaker>||<SE1>ClothingUp</SE1>:...헉!?
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker><Shake>0.1</Shake>||:흐앗!?
+()<Speaker></Speaker>||:기능이 정지됐던 두 인형이, 동시에 바닥에서 벌떡 일어났다.
+RO635Mod(3)<Speaker>RO635</Speaker>||:무, 무슨 일이었던 거지?!
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:으으... 어? 어어?! M4!! 깨어났구나 M4!!
+RO635Mod(3)<Speaker>RO635</Speaker>||:댄들라이!?
+NytoIsomer(13)<Speaker>M4A1</Speaker>||:AR-15?
+()<Speaker></Speaker>||:M4A1이 미안해하는 미소를 지었다.
+NytoIsomer(13)<Speaker>M4A1</Speaker>||:미안하지만, 잠깐 모두를 데리고 나가 주겠어요?+잠시 지휘관님과 할 말이 있어요.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:엥? 왜애애!? 나도, 나도 M4랑 얘기할래!!
+RO635Mod(3)<Speaker>RO635</Speaker>||:잠깐, 잠깐만요... 뭐에요? 지금 무슨 상황이에요?!
+()<Speaker></Speaker>||:RO635가 당혹스럽게 쳐다봤지만, AR-15는 그저 고개를 저을 뿐이었다.+M4A1는 달라붙은 SOP2의 얼굴을 어루만지고, 머리를 쓰다듬어 주었다.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:착하죠, SOP2? 중요한 얘기라서요.+SOP2와는 이따가 실컷 얘기할게요. 괜찮죠?
+M4 SOPMOD IIMod(2)<Speaker>M4 SOPMOD II</Speaker>||:우엥...
+()<Speaker></Speaker>||:입을 삐죽 내민 SOP2는 그 말에 불만이 많았지만, 그래도 M4A1을 다시 보게 되어 기쁜 것만은 확실했다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:...일단 나가자, 내가 설명할게.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:눈앞의 그녀가 정말 괜찮은지 다시 한번 확인하고, AR-15는 모두를 데리고 자리를 비켜 주었다.+그리고 방에는 지휘관과 M4A1만 남게 되었다.
+()<Speaker>지휘관</Speaker>||:......+모두와 함께여도 괜찮은데.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:저도 그러고 싶지만, 지휘관님은 물어보고 싶으신 게 많죠?
+NytoIsomer(10)<Speaker>지휘관</Speaker>||:...그래.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:말씀드리지 않아도 아시겠지만, 저는 지금 아주 특수한 상태입니다.+몇 가지는 그들이 알면 걱정만 늘 테니, 가능하면 숨기고 싶어요.
+NytoIsomer(10)<Speaker>지휘관</Speaker>||:음... 확실히 지금 네 상태가 무척 신경쓰이네.+하지만 그것보다, 그동안 대체 어디 있었니?
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:......
+()<Speaker></Speaker>||:그 질문을 들은 M4A1은 눈살을 살짝 찌푸리며 머뭇거리다, 이내 고개를 저었다.
+NytoIsomer(11)<Speaker>M4A1</Speaker>||:...죄송해요, 그건 말씀드릴 수 없어요.
+NytoIsomer(11)<Speaker>지휘관</Speaker>||:말할 수 없다고?
+NytoIsomer(11)<Speaker>M4A1</Speaker>||:네.
+NytoIsomer(11)<Speaker>지휘관</Speaker>||:어째서?
+NytoIsomer(11)<Speaker>M4A1</Speaker>||:저도 숨기고 싶지는 않아요... 하지만 지휘관님을 위해서, 그리고 저를 위해서도 아직은 말씀드릴 수 없어요.+아직 모든 걸 알려드릴순 없지만, 그래도 이것만은 믿어 주세요. 저는 절대 지휘관님과 모두를 위험에 빠뜨릴 짓은 하지 않겠습니다.
+NytoIsomer(11)<Speaker>지휘관</Speaker>||:...그래, 널 믿어.+나머지도 때가 되면 말해 주렴.+참, 그때 고맙다고 하지도 못했구나. 네가 아니었으면 우리 모두 거기서 죽었을 거야.
+NytoIsomer(13)<Speaker>M4A1</Speaker>||:마땅히 할 일이었는걸요. 무엇보다, 그걸 위해 제가 돌아온 거예요.+그러니 지휘관님과 동료들을 구하는 당연한 일로 감사하지 않으셔도 돼요.
+NytoIsomer(13)<Speaker>지휘관</Speaker>||:그래도 고마워.+그런데, 대체 어떻게 돌아온 거니? 댄들라이는 어떻게 됐고?
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:제 본체는 여기에 없습니다. 지금의 저는 마인드맵 속 한 줄의 데이터에 지나지 않고, 잠시 댄들라이의 소체를 잠시 빌렸을 뿐이에요. 댄들라이도 이 안에서 휴면 중이니 걱정 마세요.+다만, 지금 두 개의 마인드맵이 존재하는 상태라 지금 이 소체는 상당한 부하를 받고 있어요. 버티지 못하는 때가 오면, 저는 떠나야 해요.
+NytoIsomer(10)<Speaker>지휘관</Speaker>||:그렇... 뭐? 또 떠난다고?
+NytoIsomer(13)<Speaker>M4A1</Speaker>||:네, 그래서 그 전에 제 임무를 완수하려 해요.+...안심하세요. 우리가 다시 진정으로 재회하는 그날까지, 그리 오래 걸리지 않을 거예요.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:M4A1은 싱긋 웃으며 지휘관에게 다가와, 손을 내밀어 얼굴을 어루만졌다.
+NytoIsomer(13)<Speaker>M4A1</Speaker>||:여태까지... 정말 수고 많으셨어요, 지휘관님.
+NytoIsomer(13)<Speaker>지휘관</Speaker>||:...너도 수고가 많구나.+우리가 그 지하 기지에서 고위 니토를 포로로 붙잡았어.+그런데 그 녀석의 전자전 능력이 너무 강해서, 우리로선 손쓸 방도가 없어. 부탁해도 될까?
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:물론이죠. 제게 맡겨 주세요.
+NytoIsomer(10)<Speaker>지휘관</Speaker>||:그 소체의 상태로 괜찮겠니?
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:네, 전 괜찮아요.
+NytoIsomer(10)<Speaker>지휘관</Speaker>||:...알았다, 그럼 부탁할게.+대신... 절대 무리하면 안 된다.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:걱정 마세요, 저는 이제 예전의 제가 아니에요.+그리고... 그녀를 구원하기 위해서도 돌아온 것이니까요.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>414</BIN><Night><BGM>BGM_Empty</BGM>:좁고, 어둡고, 고요한 방. 들리는 것이라곤 자신의 호흡뿐.+돌연 어둠을 꿰뚫는 빛 한 줄기에 눈이 부셨고, 강철처럼 차가운 목소리가 귓가를 때렸다.
+AR15Mod(0)<Speaker>AR15</Speaker>||<BGM>BGM_Brain</BGM>:일어나.
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:정확히 120분마다... 정말 철저하게 시간 엄수하는구나.
+AR15Mod(4)<Speaker>AR15</Speaker>||:......
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:이번에도 똑같은 걸 쓰려고...? 전기, 물, 수면 방해... 뭐 좀 색다른 거 없어...?
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:퍼억!+AR-15가 몰리도의 관자놀이에 주먹을 날렸다.+새로이 찢어진 상처에서 흘러내리는 새빨간 피가 관자놀이에서 이마로, 이마에서 콧등을 따라 흘렀다.
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:킥킥킥... 겨우 이 정도야...? 부족한데...
+()<Speaker></Speaker>||:그 클레임을, AR-15는 흔쾌히 받아들였다. 그녀의 합금 나이프가 어둠 속에서 은은히 빛나며, 어딘가의 살갗을 파고들었다.+몰리도가 인간의 육체를 가져 완벽한 위장 능력을 얻었다면, 지금은 그 부작용을 느끼고 있을 것이다.+인간의 육체가 고통을 느끼지 못할 리 없었다.
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position><Shake>0.1</Shake>||:으으윽... 아파~ 너무 아파~ 차라리 날 죽여 줘어... 너무 아파...+흑흑흑... 눈물이 날 정도로 너무 아파아... 그만해, 이제 더는 싫어~
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:――이러면 좀 재밌어?
+()<Speaker></Speaker>||:우는 시늉을 하던 몰리도가 표정을 싹 바꿨다.
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:이럼 만족해? 기분 좋아? 하아... 난 진짜 질색인데.+난 통각을 차단할 수 있어. 무슨 의미가 있다고 이러는지 몰라 정말.+하아암... 지겨워서 하품이 다 나온다 얘.
+RO635Mod(0)<Speaker>RO635</Speaker>||:일부러 도발하는 거야.
+AR15Mod(4)<Speaker>AR15</Speaker>||:나도 알아.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:AR-15는 주저 없이 또 주먹을 날렸다.
+AR15Mod(4)<Speaker>AR15</Speaker>||:놀고 싶다니까 놀아 주는 거라고.
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:킥킥킥... 내 머릿속을 들쑤시고도 원하는 건 못 찾았나 봐?
+AR15Mod(0)<Speaker>AR15</Speaker>||:괜찮아, 시간은 넘치도록 있으니까.
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:그러시겠지... 참나, 니모겐이 아니었다면 지금 고문당하는 건 누구였을까?+너...는 아니겠네. 흥, 그럴 가치도 없지. 코어 뽑는데 들일 힘도 아까워.+역시... 너네가 존경하는 "그 사람"이려나? 킥킥킥...
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>:그 말에 AR-15는 걸상을 발로 차 몰리도를 넘어뜨리고 그녀의 얼굴을 걷어찼다.
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:크히힉...
+RO635Mod(0)<Speaker>RO635</Speaker>||:AR-15! 지금 이년한테 낭비할 시간 없어!
+AR15Mod(0)<Speaker>AR15</Speaker>||<SE1>Rope</SE1>:그 "고치 계획"이 뭔지나 상세하게 불어. 그리고 너네가 "아버님"이라 부르는 사람은 누구지?
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:어떤 대답을 듣고 싶어...?+어디 보자... 으음... 그래, 고치 계획은 말이지... 베를린을 날려버리는 계획이지 뭐... 아버님이 누구냐고? 이름은 크루거... 아, 이건 너네 사장님 이름――
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:이번엔 몰리도의 정수리를 AR-15의 개머리판이 강타했고, 또 새로운 피가 뺨을 타고 흘러내렸다.
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:후우... 이제야 좀 심문받는 기분이네.+그래도 아직 너무 상냥해.
+RO635Mod(4)<Speaker>RO635</Speaker>||:상황 파악 좀 하지? 넌 이제 패러데우스로 돌아가지도 못해.
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:하하하... 잘못 알아도 아주 단단히 잘못 아는구나...+하긴, 인형 주제에 뭘 알겠어...
+()<Speaker></Speaker>||<BIN>414</BIN><SE1>AVG_21Winter_Open_Light</SE1>:낡은 전구가 특유의 소리를 내며 방을 환히 밝혔다.+어둠에 숨어 말이 없던 사람은, 그때까지 단 한 번도 몰리도에게서 눈을 돌리지 않고 있었다.
+()<Speaker>지휘관</Speaker>||:몸풀기는 여기까지.+저항은 무의미하다는 걸, 모르진 않겠지?
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:의미야 있답니다, 정하는 건 제가 아니지만요.+다 당신이 마음먹기 나름이에요.
+NPC-Morridow(13)<Speaker>지휘관</Speaker>||:듣고 있다.
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:굳이 말하자면, 우린 애초부터 적대하는 사이가 아니예요.+게다가, 저는 당신을 아주 높이 산답니다...+..."로빈".
+AR15Mod(5)<Speaker>AR15</Speaker>||:닥쳐!!+지휘관! 이년은 마흐리안의――
+()<Speaker>지휘관</Speaker>||:알아.
+()<Speaker></Speaker>||:몰리도는 꼴이 아주 엉망이었지만, 얼굴만은 아주 여유만만한 미소를 짓고 있었다.+그녀는 아주 느릿느릿 바닥에서 일어나, 잠깐 옷을 정리하고, 다시 걸상에 앉았다.
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아니요, 당신은 아직 모르는 게 많아요.+마흐리안은 제 언니 같은 게 아니랍니다. 제가 바로 그녀고, 그녀가 바로 저죠.
+NPC-Morridow(13)<Speaker>지휘관</Speaker>||:그래서?
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:우리가 어떤 관계인지 그녀한테서 못 들었나 봐요?+우리는 둘이서 하나예요. 영혼을 공유하고, 기억을 공유하죠. 그래요... 감정까지도.
+NPC-Morridow(13)<Speaker>지휘관</Speaker>||:그렇다면 지금 패러데우스가 무슨 꿍꿍이인지 말해 주겠어?+"불꽃놀이"는 뭐고, 언제 하려는 거지? 통일절인가?
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:언젠가는 가르쳐드릴게요. 지금은 말고, 나중에.
+NPC-Morridow(13)<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:지휘관은 말을 잇지 않았다.+그 모습에 분노로 눈썹이 들썩이던 AR-15는 다시 총을 들었다.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:기다려요, AR-15.
+()<Speaker></Speaker>||:하지만 M4A1이 그녀를 제지했다.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:소용없어요. 그녀는 육체적 고통에 대한 내성이 강해요.
+AR15Mod(4)<Speaker>AR15</Speaker>||:...치잇.
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:바보가 아닌 애가 있긴 했구나? 안녕, 니모겐.
+NytoIsomer(10)<Speaker>M4A1</Speaker>||:......
+()<Speaker></Speaker>||:M4A1이 걸어 나와, 지휘관과 AR-15의 곁을 지나 몰리도의 앞에 섰다.
+NytoIsomer(11)<Speaker>M4A1</Speaker>||:우리가 당신을 어쩌지 못한다고 생각하나요? 틀렸어요.+당신이 패러데우스에 바치는 충성도, 아무 의미 없어요.
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:그게 무슨 말――
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:M4A1이 몰리도의 머리에 손을 얹었다.+그러자――
+()||<黑点1><BIN>10</BIN>:

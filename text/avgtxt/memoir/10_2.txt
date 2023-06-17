@@ -1,2 +1,117 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||:<color=#FFFF00>마인드맵 기록 분석 중...</color>+<color=#FFFF00>분석 완료 예상 시각... 5월 20일 16시 00분</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>22</BIN>:공방의 마인드맵 업그레이드실.+카리나는 모니터 화면에서 눈을 떼며, 다소 속상한 투로 한숨을 내쉬었다.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||<SE1>AVG_21Winter_Click_Keyboard</SE1>:아직도 안 돼요, 지휘관님...
+NPC-Kalin(4)<Speaker>지휘관</Speaker><同时置暗>||:나도 보고 있어.
+NPC-Kalin(7)<Speaker>카리나</Speaker>||:어떡하죠? 유사 사례에 쓰인 방법 전부 다 해봤는데...+효과가 조금이라도 있는 게 하나도 없다니...
+NPC-Kalin(7)<Speaker>지휘관</Speaker><同时置暗>||:......
+()||:지휘관이 미간을 좁힌 채 침묵하니, 환기구의 틈새를 드나드는 공기마저 정체된 듯했다.
+()<Speaker>지휘관</Speaker>||<黑屏1>:역시... 이럴 땐 그분께 도움을 청해야겠지.
+()||<黑屏2><BIN>476</BIN><BGM>GF_EV9_Story</BGM>:PPK는 무너진 잔해의 차가운 벽에 나른하게 기대어 남은 탄창을 확인하는 중이었다.+방금 전의 전투로 난 소음에 주변의 감염자 무리가 또 몰려왔었다.+상정하지 않았던 전투에 억지로 임해야 했기에, PPK에겐 이제 총탄이 얼마 남지 않았다.
+()<Speaker>사나야</Speaker>||:<color=#F08080>정말 끝내주는 싸움이었어! 오늘도 사나야의 활약이 세상을 더 깨끗하게 만들었다!</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:......+너 몇 살이니? 어린이가 이상한 거 보면 못써요~?
+()||:PPK가 비아냥댔지만 사나야는 대답하지 않았다.+아무래도 "활약"할 기회가 있을 때만 나타나는 모양이었다.
+()||<SE1>AVG_tele_connect</SE1>:때마침 통신 요청이 들어왔다.
+Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>PPK, 나다. 지휘관이 아직 네 문제를 해결할 방법을 못 찾았다는군.</color>
+PPKMod(0)<Speaker>PPK</Speaker>;Python(0)<通讯框>||:어휴... 이거, 꽤나 흔치 않은 말썽인가 봐?
+PPKMod(0);Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>그라치가 수색 임무를 마쳐서 지금 네 위치로 이동 중이다.</color>
+PPKMod(0)<Speaker>PPK</Speaker>;Python(0)<通讯框>||:아하, 그라치만...
+PPKMod(0)<Speaker>PPK</Speaker>||:...날 이대로 묻어버릴 셈이구나?
+MP443_MOD(0)<Speaker>MP443</Speaker><通讯框>||:<color=#00CCFF>다 들리거든요~?</color>+<color=#00CCFF>기다리고 있어, 대충 15분 뒤면 도착해.</color>
+Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>그런고로, 먼저 그라치와 합류해라. 그리고 얼른 임무 완수하고 돌아가서 정비를 받던가 해.</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:네에 네에.
+()||<SE1>AVG_tele_disconnect</SE1>:통신 종료.+PPK는 다시 무장을 점검한 뒤, MP443이 합류하러 오기를 기다렸다.
+()||<SE1>AVG_21Winter_Click_Keyboard</SE1>:그리고 기다리는 동안, 지금까지의 임무 진도를 보고서에 기록했다.+임무 유형, 수행 위치, 소요 시간...
+()||<BGM>BGM_Empty</BGM>:물 흐르듯 보고서를 작성해 내려가던 PPK는 상세 상황 입력란에 도달했을 때, 불현듯 깨달았다.
+PPKMod(0)<Speaker>PPK</Speaker>||:......어? 임무 목표인 보모 인형의 모델명과 이름이 뭐였더라?+구조해야 하는 애의 이름도... 뭐였지?
+()||<SE1>AVG_21Winter_Error</SE1>:당혹감을 억누르며 파이슨이 보냈던 임무 브리핑 파일을 확인했지만, 새하얀 배경의 새까만 글씨가 보임에도 어째선지 그 내용을 전혀 인식할 수가 없었다.
+PPKMod(0)<Speaker>PPK</Speaker>||<SE1>AVG_21Winter_Error</SE1>:대체... 뭐냐고...
+()||<SE1>AVG_whitenoise</SE1>:칙——치직——+시끄러운 소음이 그녀의 머릿속을 어지럽혔다. 아까 전까지만 해도 또렷하게 보였던 정보에, 시꺼먼 모자이크가 씌워져 그녀의 마인드맵 안을 맴돌았다.
+PPKMod(0)<Speaker>PPK</Speaker>||:또 뭐야...
+()<Speaker>에리카</Speaker>||<SE1>Stop_AVG_loop</SE1>:<color=#00CCFF>누구 없나요... 빨리... 빨리 구해 주세요...</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:...에리카니? 빨리 좌표 보내, 어서.
+()<Speaker>에리카</Speaker>||:<color=#00CCFF>아이가... 아이가 더는 못 버텨요...</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:여자 아이 말이야? 걔——
+()<Speaker>에리카</Speaker>||:<color=#00CCFF>제발 구해 주세요...</color>
+()||:돌연 밀려온 뜨겁고 끈적한 열기가 그녀의 살갗에 들러붙어, 목이 마르고 속이 타들어 가는 것만――
+()||<SE1>AVG_Explo_Distance</SE1><BIN>9</BIN><黑屏1>:무거운 어둠에 머리를 짓눌리며, PPK의 의식은 또다시 추락했다.+영문도 모른 채 그저 아래로, 아래로 끝없이 떨어졌다.
+()||<黑屏2><BIN>9</BIN>:이윽고, PPK는 그 정체불명의 공간에 돌아온 자신을 발견했다.
+PPKMod(0)<Speaker>PPK</Speaker>||:아아 차암, 또야?
+()||:문득 생각나 흠칫하며 고개를 돌렸지만, 그 음영이 드리운 소녀는 보이지 않았다.+다만 그 넓고 컴컴한 공간의 바닥에, 깨진 기억 파편의 조각들이 서글픈 빛을 발하고 있을 뿐이었다.
+PPKMod(0)<Speaker>PPK</Speaker>||:에리카?
+()<Speaker>？？？</Speaker>||<SE1>AVG_Piano_Ambience</SE1>:<color=#F08080>히히!</color>
+()||<BGM>2022_white_valentine_BGM2</BGM>:잔잔한 호수에 던져진 돌멩이가 물결을 일으키듯, 돌연 장난스러운 웃음소리가 들렸다.+PPK도 주위를 둘러봤지만, 목소리의 주인은 보이지 않았다.
+PPKMod(0)<Speaker>PPK</Speaker>||:이 목소리... 그래, 내 마인드맵 안에서 말하던 그 목소리야.+사나야지? 당장 나와!
+()||<SE1>ClothingUp</SE1>:PPK는 반사적으로 총을 뽑으려 손을 뻗었지만, 어찌된 영문인지 권총은 온데간데 없었다.
+()<Speaker>에리카</Speaker>||:<color=#7B68EE>떼쓰면 안 돼요 아가씨, 이제 쿨쿨 잘 시간이에요.</color>
+()||:그 말과 함께 흐릿한 반투명 유리 같은 벽이 홀연히 나타났고, 그 유리벽 너머로는 한 소녀의 그림자가 비쳤다.
+()||<SE1>AVG_Punch</SE1>:PPK는 성큼성큼 다가가 있는 힘껏 유리벽에 몸을 부딪쳤지만 끄떡하지도 않았고, 어째선지 막혀 있지 않은 벽 뒤로 가 보니 그곳엔 아무것도 없었다.
+PPKMod(0)<Speaker>PPK</Speaker>||:이건 대체... 또 에리카의 기억인가?
+()<Speaker>사나야</Speaker>||:<color=#F08080>안 졸린걸! 안 잘 거야!</color>+<color=#F08080>정 날 재우고 싶다면 저번의 이야기를 마저 들려 주거라~!</color>
+()||:웃음소리의 주인도 유리벽 너머의 그림자로 나타났다. PPK는 두 그림자를 뚫어져라 바라보면서, 상대의 윤곽을 조금이라도 머릿속에 그려보려 했다.
+()<Speaker>에리카</Speaker>||:<color=#7B68EE>하지만 제가 아무리 이야기 들려드려도 성에 안 차시잖아요.</color>
+()<Speaker>사나야</Speaker>||:<color=#F08080>그럼 처음부터! 처음부터 다시 들려줘!</color>
+()<Speaker>에리카</Speaker>||:<color=#7B68EE>어휴, 그러죠 뭐.</color>
+()||:소녀의 그림자는 겸손하게 허리를 숙이곤 왼편으로 자리를 옮겼고, 꼬마의 그림자는 오른편에 반듯하게 앉았다.
+()<Speaker>에리카</Speaker>||:<color=#7B68EE>옛날 옛날 한 옛날에, 아리따운 미녀인 킬러가 살았답니다. 그녀의 이름은——</color>
+()<Speaker>사나야</Speaker>||:<color=#F08080>사나야! 킬러의 이름은 사나야야!</color>
+()<Speaker>에리카</Speaker>||:<color=#7B68EE>네에 네에.</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:맙소사... 그 미녀 킬러 이야기, 애 달래려고 지어낸 이야기였어?+그런 시시한 걸로 날 곤란하게 만들어!?
+()||<SE1>AVG_Punch</SE1>:PPK가 홧김에 유리벽을 내리쳤지만, 벽 너머의 그림자들에겐 당연히 그 충격이 닿지 않았다.
+PPKMod(0)<Speaker>PPK</Speaker>||:야! 거기 너! 이야기 지어내는 솜씨가 엉망이어도 너무 엉망이잖아!
+()||:에리카로 보이는 그림자는 잠깐 뜸을 들였다가 천천히 다시 이야기를 시작했다.
+()<Speaker>에리카</Speaker>||:<color=#7B68EE>아리따운 킬러 사나야의 과거를 아는 사람은 아무도 없었습니다.</color>+<color=#7B68EE>하지만 매끄럽게 찰랑이는 장발과 별하늘처럼 반짝이는 그윽한 눈동자 때문에, 어딜 가든 사람들의 눈길을 끌었답니다.</color>+<color=#7B68EE>게다가, 킬러면서 부귀영화에는 전혀 관심이 없고, 오로지 스릴 넘치는 모험을 추구하는 터프걸이었어요.</color>
+()<Speaker>사나야</Speaker>||:<color=#F08080>응 응! 난 그런 시원시원한 이야기가 좋아!</color>
+()||<SE1>Rope</SE1>:벌써 질리도록 들은 이야기에, PPK는 짜증내며 눈을 질끈 감았다.
+()<Speaker>사나야</Speaker>||:<color=#F08080>그리고 사나야는 인기 만점이야! 누구라도 한눈에 반해 버려!</color>+<color=#F08080>악덕 재벌이지만 멋쟁이인 쿨가이도 반하고, 나쁜 범죄자도 사나야한테 엄청 매력을 느낄 정도로!</color>
+()<Speaker>에리카</Speaker>||:<color=#7B68EE>네에 네에.</color>+<color=#7B68EE>악덕 재벌이 무릎 꿇고 청혼해도 차갑게 비웃으며 거들떠보지 않았다고 하면 되죠?</color>
+()<Speaker>사나야</Speaker>||:<color=#F08080>맞아 맞아!!</color>
+()<Speaker>에리카</Speaker>||:<color=#7B68EE>극악무도한 범죄자가 눈앞에서 칼을 휘둘러도... 어...</color>+<color=#7B68EE>도망치는 뒷모습마저 카리스마 넘친다?</color>
+()<Speaker>사나야</Speaker>||:<color=#F08080>아니야!</color>+<color=#F08080>사나야는 절대 싸움에서 도망치지 않는다구!</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:......
+()<Speaker>에리카</Speaker>||:<color=#7B68EE>어어... 그럼, 콧방귀를 뀌는 그 사이에 상대의 목을 베어버린다던가?</color>
+()<Speaker>사나야</Speaker>||:<color=#F08080>그거야 그거! 사나야는 용감무쌍하고, 자기 앞길을 가로막는 건 누구든지 쓱싹하고 해치워!</color>
+()<Speaker>에리카</Speaker>||:<color=#7B68EE>설령 붙잡혀서 가혹한 고문을 받더라도, 사나야는 그저 웃으면서——</color>
+()<Speaker>사나야</Speaker>||:<color=#F08080>더 해 봐! 좀 더 아프게 해 보라니까!</color>
+()||:두 그림자가 웃으면서 "킬러 사나야"의 이야기를 짓는 동안, PPK는 안간힘을 쓰며 유리벽을 깨부수려 했다.
+()||<SE1>AVG_Punch</SE1>:끈질긴 맹공 끝에, 유리벽에 드디어 아주 작은 금이 갔다. PPK가 이를 놓치지 않고 혼신의 일격을 가하자――
+()||<SE1>AVG_Broken_Glass</SE1><BGM>BGM_Empty</BGM><白屏1>:그 순간, 만화경처럼 온갖 알록달록한 화면들이 그녀에게 쏟아졌다.
+()||<白屏2><BIN>249</BIN><SE1>AVG_whitenoise</SE1>:어지러움이 가신 뒤, PPK는 마침내 유리벽 너머의 세계로 발을 디뎠다.+유리벽 너머의 두 그림자가 드디어 눈앞에 나타났지만, 그들의 외모는 어째선지 흐릿하게 먹칠이 되어 있어 정확히 누군지도, 어떻게 생겼는지도 파악할 수가 없었다.
+()<Speaker>에리카</Speaker>||:<color=#7B68EE>아무것도 두렵지 않은 용감한 사나야는, 아무리 험난한 길이어도 결코 물러서는 법이 없었습니다.</color>+<color=#7B68EE>설령...</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:저기...
+()<Speaker>사나야</Speaker>||:<color=#F08080>앗, 손님이다!</color>
+()<Speaker>에리카</Speaker>||:<color=#7B68EE>어머나, 어서 오세요 손님. 에리카가 모시겠습니다.</color>+<color=#7B68EE>필요하신 것이 있으신가요?</color>
+()<Speaker>사나야</Speaker>||:<color=#F08080>에리카! 내 간식 꺼내 와! 오늘은 그러니까——</color>
+()||<SE1>AVG_Piano_Ambience</SE1>:순간 모든 움직임이 멎더니, 넓은 공간 전체가 풍화되듯 서서히 갈라지기 시작했다.+PPK는 떨리는 마음으로 깨어져 가는 바닥 위를 건너며, 흩어지는 형상에게 손을 뻗었다.+그러자 돌연 밀려온 뜨겁고 끈적한 열기가 그녀의 살갗에 들러붙어, 목이 마르고 속이 타들어 가는 것만――
+()||<SE1>AVG_Explo_Distance</SE1><BIN>9</BIN><黑屏1>:콰앙! 굉음과 함께 PPK는 또다시 어둠 속에 빠져, 돌풍에 날아가듯 꺼지는 땅속으로 추락했다.
+()<Speaker>？？？</Speaker>||<BIN>9</BIN><SE1>Stop_AVG_loop</SE1>:에리카...
+()||<SE1>GF_Halloween_Wind_loop</SE1>:완전히 어둠이 빠지기 직전, PPK의 귓가에 누군가 부르는 소리가 들렸다.
+()<Speaker>？？？</Speaker>||:에리카! 일어나!
+PPKMod(0)<Speaker>PPK</Speaker>||:에리카...
+()<Speaker>？？？</Speaker>||<黑屏1><SE1>Stop_AVG_loop</SE1>:에리카!!!
+()||<睁眼><BIN>480</BIN><边框>2</边框><BGM>m_avg_labyrinth</BGM>:PPK가 눈을 번쩍 떠 보니, 옆에는 조금 전만 해도 없었던 것이 늘어나 있었다.
+NPC-Sanaya(0)<Speaker>？？？</Speaker>||<边框>2</边框>:이제야 일어났구나!
+()||<边框>2</边框>:인간 여자아이가 곁에서 그 조그마한 손으로 PPK를 붙잡아 흔들고 있었다.+비록 지금 머릿속이 실뭉치처럼 엉망임에도, PPK는 이런 위험한 곳에 보통의 인간 어린이가 있을 리 없단 것쯤은 바로 판단할 수 있었다. 이 아이가 임무 목표임이 확실했다.
+()<Speaker>PPK</Speaker>||<边框>2</边框>:이 목소리... 사나야? 네가――
+NPC-Sanaya(1)<Speaker>사나야</Speaker>||<边框>2</边框>:에리카, 잠 덜 깼어?
+NPC-Sanaya(1)<Speaker>PPK</Speaker><同时置暗>||<边框>2</边框>:...왜 날 에리카라 부르니? 설마, 이거 아직도 에리카의 기억 속인가?
+NPC-Sanaya(1)<Speaker>사나야</Speaker>||<边框>2</边框>:난 멀쩡해! 아픈 곳 전혀 없어!
+NPC-Sanaya(1)<Speaker>PPK</Speaker><同时置暗>||<边框>2</边框>:쯧... 대화가 안 이어지는 걸 보니 기억 속 맞구나.+그런데, 여기는... 역시 내가 찾아낸 그곳과 가까워 보이네.
+NPC-Sanaya(0)<Speaker>사나야</Speaker>||<边框>2</边框>:히히, 잠 다 깼으면 같이 놀자!
+NPC-Sanaya(0)<Speaker>사나야</Speaker>||<边框>2</边框>:누가 먼저 저어~기 바위까지 가나 시합이야!
+()||<边框>2</边框><SE1>RunStep</SE1>:여자아이는 발랄하게 웃으며 멀리 있는 바위를 가리키더니, 말도 다 안 끝내고 냅다 달려갔다.
+()<Speaker>PPK</Speaker>||<边框>2</边框>:기다려!
+()||<边框>2</边框>:PPK는 곧장 그 아이를 따라나섰지만, 몸에 힘도 들어가질 않는 데다 익숙하디 익숙할 자신의 권총마저 무겁게만 느껴졌다.
+NPC-Sanaya(0)<Speaker>사나야</Speaker>||<边框>2</边框>:에리카 느려! 빨리 오라구!
+NPC-Sanaya(0)<Speaker>PPK</Speaker><同时置暗>||<边框>2</边框>:지금의 나는 에리카의 시점인가 보네... 아무리 보모 인형이라지만, 이 소체 성능 너무 약하게 설정된 거 아니야?
+NPC-Sanaya(0)<Speaker>사나야</Speaker>||<边框>2</边框>:나 거의 다 왔~다아~!
+NPC-Sanaya(0)<Speaker>PPK</Speaker><同时置暗>||<边框>2</边框>:......
+()||<边框>2</边框>:바람만 살짝 불어도 넘어질 것만 같은 연약한 몸을 이끌며, PPK는 주변에 ELID의 기척은 없나 경계하며 필사적으로 여자아이를 따라잡으려 했다.
+()<Speaker>PPK</Speaker>||<边框>2</边框>:좀 뛰지 말고 얌전히 기다려!
+NPC-Sanaya(0)<Speaker>사나야</Speaker>||<边框>2</边框>:꺄하하핫! 도~착!!
+()||<边框>2</边框><SE1>ClothingUp</SE1>:PPK는 숨을 헐떡이며 간신히 여자아이 앞까지 도달해, 자기도 모르게 그녀를 와락 껴안았다.
+NPC-Sanaya(1)<Speaker>사나야</Speaker>||<边框>2</边框>:그 나쁜 놈들... 아직도 쫓아와?
+NPC-Sanaya(1)<Speaker>PPK</Speaker><同时置暗>||<边框>2</边框>:...걱정 마, 내가 널 데리고 여기서 벗어날 테니까.
+NPC-Sanaya(0)<Speaker>사나야</Speaker>||<边框>2</边框>:응!
+()||<边框>2</边框>:여자아이는 고개를 들어, 순진하고 해맑은 미소를――
+()||<SE1>AVG_Explo_Close</SE1><BIN>9</BIN><黑屏1><BGM>BGM_Empty</BGM><火花>:콰아앙!!+굉음이 먼저였을까, 열풍이 먼저였을까. 여자아이를 꼬옥 껴안은 PPK의 뒤에서 갑작스레 폭발이 일어나, 그 충격파로 그녀는 다시 어둠 속으로 떠밀려졌다.
+()<Speaker>사나야</Speaker>||<黑屏2><BIN>9</BIN><黑屏1>:에리카...

@@ -1,0 +1,13 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>599</BIN><narrator><BGM>BGM_Saga_AVG_Dusk</BGM>:연습 중, 당신은 뭔가 불길한 예감이 들었다.
+NPC-Sakura(1)<Speaker></Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<白屏1><白屏2>:갑자기, 사쿠라 머리 위의 등불이 깜빡였고, 그녀는 어리둥절해하며 고개를 들었다.
+()||<Night><SE1>AVG_lifttable</SE1><震屏3>:당신은 바로 위험을 눈치채고 사쿠라를 감싸서 떨어진 스포트라이트를 피했다.
+NPC-Junko(6)<Speaker></Speaker><Position>60,-230</Position><Scale>1.27</Scale>||:준코가 소스라치며 어디 다치지 않았는지 물었다.
+NPC-Sakura(3)<Speaker></Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:그런데 사쿠라는 이게 다 자신이 불행한 탓이라며 자책했고, 오늘 밤 공연까지 영향을 줄 거라 걱정했다.
+()||<SE1>RunStep</SE1><黑点1><narrator>:당신이 그 말을 제대로 이해하기도 전에, 사쿠라는 입술을 깨물고 연습실을 뛰쳐나갔다.
+()||<narrator><BIN>577</BIN><黑点2><SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:당신은 바로 뒤쫓았고, 바닷가까지 가서야 겨우 따라잡았다.
+()||<SE1>AVG_File_Put</SE1><narrator>:사쿠라가 모래밭 위에 무릎을 껴안고 앉아 있었고, 당신도 그녀 옆에 앉아 찬찬히 그녀의 사연을 들었다.
+NPC-Sakura(7)<Speaker></Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<SE1>Stop_AVG_loop</SE1>:그녀가 어릴 적부터 겪은 온갖 불행한 일들, 아무리 노력해도 결국엔 불행으로 헛수고가 되는 기억에 사쿠라는 자포자기에 빠졌다.
+NPC-Sakura(7)<Speaker></Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:당신은 고개를 젓고 사쿠라의 노력은 모두 결실이 있다고 말했다.+수많은 좌절을 겪어 봤기에, 다른 멤버가 실의에 빠졌을 때 그녀가 가장 먼저 나서서 기운을 북돋아 줄 수 있는 거고, 또 다른 불행이 닥쳐도 당신이 방금처럼 그녀를 지켜줄 것이라고 말했다.
+NPC-Junko(1)<Speaker></Speaker><Position>60,-230</Position><Scale>1.27</Scale>||:좀 지나서 뒤쫓아온 준코도 사쿠라에게 기운을 내라고 다독였다.
+NPC-Sakura(1)<Speaker></Speaker><Position>0,-270</Position><Scale>1.27</Scale>;NPC-Junko(1)<Position>60,-230</Position><Scale>1.27</Scale>||<黑点1>:둘의 격려를 받고 마침내 사쿠라가 정신을 다잡았고, 남은 시간 동안 서둘러 연습하기로 했다.

@@ -1,133 +1,133 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>262</BIN><SE2>Gunfight</SE2><BGM>BGM_Room</BGM>:독일 베를린의 교외.
-()<Speaker>지휘관</Speaker>||:후우...
-()<Speaker></Speaker>||:인형들은 전복된 차량에 의탁해, 습격해 온 패러데우스의 부대를 힘겹게나마 섬멸했다.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:소규모 습격이어서 망정이지... 다음에도 이렇게 운이 좋으리란 보장은 없어.+일단 이 차, 아직 굴러갈 수는 있어?
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker><Shake>0.1</Shake>||:으랏차차차――
-()<Speaker></Speaker>||:SOP2가 차량을 다시 뒤집어 세우려고 애를 썼다.
-()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:퍽!
-AR15Mod(5)<Speaker>AR15</Speaker>||:또 이딴 수작 부리기만 해 봐, 가만 안 둬!+우리가 정말 널 못 죽일 거 같아!?
-()<Speaker></Speaker>||:열받은 AR-15가 다짜고짜 몰리도에게 주먹부터 날렸다.
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......
-()<Speaker></Speaker>||:그럼에도 몰리도는 그저 콧방귀만 뀔 뿐이었다.
-()<Speaker>지휘관</Speaker>||:AR-15, 그만. 화풀이해 봤자야.+가서 다른 애들을 도와주렴.
-AR15Mod(4)<Speaker>AR15</Speaker>||:후우... 죄송합니다.
-()<Speaker></Speaker>||:AR-15는 몰리도를 다시 매섭게 쏘아보곤, 당장에라도 쏴 죽이고 싶은 충동을 억누르면서 반대편의 여전히 혼수 상태인 댄들라이를 확인하러 갔다.
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아직 판단력이 흐려지지 않았네요, 그리폰의 지휘관~?
-NPC-Morridow(13)<Speaker>지휘관</Speaker>||:그 입 다물어.
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:어머~ 입을 다물라뇨, 입을 열게 하려고 저를 사로잡은 거 아니었나요?+입 다물고 있으면 오히려 기분 나쁠 텐데~
-NPC-Morridow(13)<Speaker>지휘관</Speaker>||:쓸데없는 말 말라고 했다.
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:정말 너무하네요. 언니한텐 엄청 상냥했잖아요. 저한텐 왜 매정하세요?
-NPC-Morridow(13)<Speaker>지휘관</Speaker>||:너는 그녀가 아니야... 그녀는 힘이 있어도 사리사욕으로 타인의 목숨을 빼앗는 사람이 아니었어.
-NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:헤~? 피로 손을 씻는 당신이 그런 걸 신경쓰다니, 놀랍네요.+아~ 알았다, 빛을 바라는 진흙 속 싹 같은 취향이셨군요. 알겠어요.+다음번엔 꼭 만족시켜 드릴게요.
-()<Speaker>지휘관</Speaker>||:......
-RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님!
-()<Speaker></Speaker>||:RO635가 황급히 달려와, 지휘관과 몰리도의 "대화"를 끊었다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:...기지로부터 통신입니다.
-()<Speaker>지휘관</Speaker>||:......
-()<Speaker></Speaker>||:지휘관은 몰리도를 흘겨보곤 RO635를 따라갔다.
-()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_connect</SE1>:접니다.
-NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:<color=#00CCFF>아직 몸 성해 보여서 기쁘군요, 지휘관.</color>
-NPC-Helian(0)<Speaker>지휘관</Speaker>||:헬리안 씨! 카리나는 어떻습니까? 병세는 호전됐나요?
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:<color=#00CCFF>걱정 마십시오, 카리나라면 아주 양호합니다.</color>+<color=#00CCFF>치료가 용이한 전문 병원으로 이송되었으니, 곧 좋은 소식을 들을 수 있을 겁니다.</color>+<color=#00CCFF>더불어 안나를 비롯한 어린 니토들도, 지휘관이 부재 중이기에 당분간 하벨 씨가 맡기로 했습니다.</color>
-NPC-Helian(0)<Speaker>지휘관</Speaker>||:그렇군요... 앗, 다짜고짜 저부터 질문해서 죄송합니다.+이렇게 연락하시다니, 무슨 상황이라도 발생했습니까?
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:<color=#00CCFF>이쪽은 아니지만, 상황이 발생하긴 했습니다.</color>
-NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>만나서 반갑습니다, 지휘관.</color>
-NPC-Keven(0)<Speaker>지휘관</Speaker>||:......?!+다, 당신은?
-NPC-Keven(0)<Speaker>J</Speaker>||:<color=#00CCFF>슈타지의 요원, J라고 합니다. K 녀석의 동료죠.</color>
-()||<黑点1>:
-()<Speaker>지휘관</Speaker>||<黑点2><BIN>262</BIN>:아하... 역시 슈타지가 계속 안젤리아에게 도움을...
-()<Speaker></Speaker>||:지휘관이 무의식적으로 중얼거린 말에, 어색한 침묵이 이어졌다.+설마 그게 안젤리아와의 마지막 통신이 될 줄이야.+해야만 하는 일이 더 늘어났다.
-()<Speaker>지휘관</Speaker>||:우리에게 계속 도움을 준 것에, 진심으로 감사하는 바입니다.+당신과 K에게 진 빚은 절대 잊지 않겠습니다.
-NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>거 참, 안젤리아 씨랑은 진짜 딴판이군요? 시간 없으니까 겉치레는 됐습니다.</color>
-NPC-Keven(0)<Speaker>지휘관</Speaker>||:......
-NPC-Keven(0)<Speaker>J</Speaker>||:<color=#00CCFF>...K가 댁의 연락처를 내게 줬다는 건, 녀석이 댁을 상당히 신뢰하고 있단 뜻이죠.</color>+<color=#00CCFF>전 말입니다, K도 믿고 안젤리아 씨도 믿습니다. 그러니 댁에게도 한번 걸어보기로 했어요. 그쪽도 찬 밥 더운 밥 가릴 때 아니죠?</color>+<color=#00CCFF>참, 낯간지러우니까 말 놔도 됩니다. 안젤리아 씨랑 늑대 아가씨들한테 하도 들들 볶여서 이젠 그게 더 편하네요.</color>
-NPC-Keven(0)<Speaker>지휘관</Speaker>||:어... 그렇다면야.+아무튼, 상황이 상황일 텐데 연락해 줘서 고맙다.
-NPC-Keven(5)<Speaker>J</Speaker>||:<color=#00CCFF>댁도 알다시피, 패러데우스의 침투력은 우리의 상상을 초월했습니다.</color>+<color=#00CCFF>믿을 만한 사람이 얼마나 있는지조차 의심스러워진 상황이니, 우리가 협력해야만 일을 만회할 수 있어요.</color>
-NPC-Keven(5)<Speaker>지휘관</Speaker>||:......
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관을 얼굴을 문질러 차분함을 회복했다.
-()<Speaker>지휘관</Speaker>||:내가 뭘 하면 되지?
-NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>댁네 숙녀분들께 먼저 말했지만, 지금 전 감시가 붙어서 움직이가 어려운 상태입니다. 뭘 할 수가 없어요.</color>+<color=#00CCFF>하지만 댁은 아니죠.</color>+<color=#00CCFF>그러니, 제가 최대한 정보를 제공하겠습니다. 댁은 조사한 결과를 공유해 주기만 하면 돼요.</color>
-NPC-Keven(0)<Speaker>지휘관</Speaker>||:......
-NPC-Keven(5)<Speaker>J</Speaker>||:<color=#00CCFF>...제 동지들이 말입니다, 그 저택에서 일곱 명이나 목숨을 잃었습니다.</color>+<color=#00CCFF>하지만 안젤리아 씨는 아직 살아있을지도 몰라요. 그럼 분명 구해낼 기회가 있을 겁니다.</color>
-NPC-Keven(5)<Speaker>지휘관</Speaker>||:아무렴, 안젤리아 씨인데.+그리 쉽게 죽을 사람이 아니야.
-NPC-Keven(0)<Speaker>J</Speaker>||:<color=#00CCFF>이야하, 이제야 좀 죽이 맞는 사람을 만났네요! 같이 잘 해봅시다.</color>
-NPC-Keven(0)<Speaker>지휘관</Speaker>||:알았다. 그럼 계속해서 연락 주길 바란다.
-NPC-Keven(0)<Speaker>J</Speaker>||:<color=#00CCFF>뭣 좀 찾아내면 바로 알려 주십쇼, 저도 그럴 테니.</color>
-NPC-Keven(0)<Speaker>지휘관</Speaker>||:그러지.
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+통신 종료.
-RO635Mod(0)<Speaker>RO635</Speaker>||:이렇게 갑자기 튀어나온 사람을 믿어도 될까요?
-RO635Mod(0)<Speaker>지휘관</Speaker>||:그는 K의 암호 채널로 연락했어.+지금 같은 상황에서 길을 하나 더 뚫어도 나쁠 것 없지 않을까?
-RO635Mod(0)<Speaker>RO635</Speaker>||:그렇군요, 알겠습니다. 그럼 이제...
-RO635Mod(0)<Speaker>지휘관</Speaker>||:...우리 포로한테 확실하게 물어볼 것이 아주 많아졌지.
-RO635Mod(0)<Speaker>RO635</Speaker>||:네.
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:......+............
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>96</BIN>:베를린 국립 오페라 극장.
-()<Speaker></Speaker>||<BGM>GF_21summer_avg_Demon</BGM>:우레와 같은 박수를 받으며, 여성악가가 홀 중앙 무대에 올라 공연을 시작했다.
-NPC-Bramedb(0)<Speaker>？？？</Speaker>||:Kein Traum ist dieses Glück!
-NPC-Bramedb(0)<Speaker>？？？</Speaker>||:Ich halte dich umfangen♪
-()<Speaker></Speaker>||:그녀의 감미로운 목소리는, 어떤 마력이라도 깃든 것처럼 청중들을 사로잡았다.
-()||<黑点1>:
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||<黑点2><BIN>96</BIN>:정말 매력적인 가창력이야...
-NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:그대 취향은 여전하군.
-()<Speaker></Speaker>||:루돌프 폰 오버슈타인 장관은 2층 좌측의 특별석에 앉아 있었다.+물론, 오늘 이곳에 온 거물급 인사는 그만이 아니었다. 민주독일의 실권자들 대다수가 이 오페라 극장에 모였다.
-()<Speaker></Speaker>||:전반부의 막이 내린 후, 중간 휴식 시간.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:루돌프, 그 친구가 소련에서 가져온 선물이오.
-NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:호오... 스톨리치나야라. 나보고 자제하고 당부하는 뜻인가?+으음... 이젠 이게 어떤 맛이었는지도 가물가물하군.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:자네의 취향을 아주 훤히 꿰고 있는 모양이구려.
-()<Speaker></Speaker>||:술잔을 든 오버슈타인의 눈이 살짝 가늘어졌다.
-NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:딴소린 그만하지. 그가 우리의 초대에 응했나?
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:그렇소. 처음부터 자네가 보내는 초대란 것도 알더군.
-NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:그야 그렇겠지, 평범한 인물이 아니니까.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:자네가 그와 접촉하기로 한 이유를 이제야 좀 알겠소. 하지만, 이래서는 리스크가 너무 크지 않소?+이사회의 일원의 심기를 건드려서 좋을 게 어딨소? 안 그래도 지금 스위스가 루련에게 꼼짝 못하고 있는데, 그들 귀에 들어갔다간...
-NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:하인리히, 그대는 훈작사와 친구가 되고 싶을 뿐이 아니라 스위스와도 관계가 두터운가 보군?+하지만 조심하게, 돈으로 사귄 것은 친구가 아니라 짐승일지도 모르는 법일세.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:......
-NPC-Rudolf(2)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:하하하...+너무 걱정 말게나 장군, 51년 때와 같은 대규모 군비 감축은 없다고 내 약속하지. 다만...
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:문제는 그게 아니오, 루돌프. 더 큰 문제가――
-NPC-Rudolf(2)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:나머진 나중에 하지, 그 친구가 왔네.
-()<Speaker></Speaker>||:오버슈타인의 말이 끝나기가 무섭게 특별석의 문 밖에서 비서의 목소리가 들려왔다.
-()<Speaker>비서</Speaker>||:장관님, 그리폰 훈작사께서 오셨습니다.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:들여보내게.
-()<Speaker>비서</Speaker>||:네.
-()<Speaker></Speaker>||:잠시 후 특별석이 문이 열렸고, 두 사람은 자리에서 일어서 지각한 손님을 환영했다.
-NPC-Rudolf(2)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:어서오게 훈작사, 참 늦게도 왔군. 전반부의 훌륭한 소프라노 공연을 통째로 놓쳐서 정말 유감일세.
-NPC-Griffin(0)<Speaker>그리폰</Speaker>||:두 분께 정말 송구합니다, 설마 비 내리는 베를린의 도로가 여전히 런던에 필적하는 난장판일 줄은 생각지도 못했습니다.+정말 오랜만입니다, 오버슈타인 장관. 마지막으로 뵈었던 게 62년이었는데, 풍채가 여전하시군요.
-NPC-Griffin(0);NPC-Rudolf(2)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:허허, 그런가? 전에 봤던 게 런던의 유럽 정보화 기술 세미나에서였지? 그때 자네는 아직... "내각 사무실의 비서"였던 걸로 기억하는데.
-NPC-Griffin(0)<Speaker>그리폰</Speaker>;NPC-Rudolf(2)||:기억해 주시다니 황송할 따름입니다.
-NPC-Griffin(0);NPC-Rudolf(2)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:선물도 고맙게 받겠네. 간만에 이걸 보니 재건 시대의 추억이 새록새록 떠오르는군그래.
-NPC-Griffin(0)<Speaker>그리폰</Speaker>;NPC-Rudolf(2)||:마음에 드신다니 다행입니다만, 솔직히 장관께선 보드카를 싫어하실 줄 알았습니다.
-NPC-Griffin(0);NPC-Rudolf(2)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:자네도 베를린에서 이렇게 오래 머무르고 있지 않은가? 나도 영국인은 평생 섬 밖으로 나오길 싫어하는 줄 알았어.
-NPC-Griffin(0)<Speaker>그리폰</Speaker>||:......
-()<Speaker></Speaker>||:눈빛을 주고받던 그리폰과 오버슈타인은 동시에 너털웃음을 터뜨렸고, 지켜보던 슈바인슈타이거는 소리 죽여 안도의 한숨을 내쉬었다.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:멀뚱멀뚱 서서 뭐하는 거요? 자, 앉아서 계속합시다.
-NPC-Rudolf(2)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:앉으시게.
-NPC-Griffin(0)<Speaker>그리폰</Speaker>||:먼저 앉으십시오.
-()<Speaker></Speaker>||:세 사람은 천천히 자리에 앉았고, 오버슈타인부터 입을 열었다.
-NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:훈작사, 자네가 베를린에 온 지도 한참이 됐는데 여태까지 마주보고 대화할 기회가 없었네. 그러니, 오늘 이렇게 만난 참에 내 다 얘기하지.+대체 이사회는 무엇을 보고 이토록 베를린에 흥미를 갖는 겐가?
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:본 것이 아니라 맡은 것입니다, 장관.+폭풍 전야의 그 피비린내 섞인 냄새를 말이죠.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:폭풍이 다가오고 있단 말이오?
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:저는 이 자리가 우리가 그걸 어떻게 막을지를 논하기 위해 마련된 것이라 생각했습니다만.
-NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:그래? 그럼 그 피비린내가 온 나라에 배이지 않도록 하려면 내가 무얼 하면 되겠나?
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:염려 마십시오, 장관께서 원하신다면 이 정도의 피비린내는 가볍게 씻어내기만 해도 지워질 겁니다.+하지만, 씻어낼 피가 묻는 것 자체를 미연에 방지하는 것이 상책이겠죠.
-NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:......+훈작사, 현재 베를린의 추태를 양해해 주길 바라네. 독일에게 있어 지금은 아주 중요한 시기야.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:존경하는 오버슈타인 장관, 저는 궁금합니다. 독일은 이러한 혼란에 어떻게 종지부를 찍으려 할지. 나라의 미래가 어디에 있는지. 그리고 더 중요한 건, 장관께선 어떤 미래를 바라십니까?
-NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:이렇게 헌 집에 사는 우리에게 미래가 있다고 보나?
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:그렇다면, 미래를 위해 이 헌 집을 허무시겠단 말씀입니까? 그럼 누가, 어떻게 허물 것인지요? 장관께서 발로 차셔서?
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:훈작사, 말을 좀...
-NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:괜찮네, 하인리히.+먼 길을 온 이국의 손님이 우리나라에 이토록 관심을 가져 주는데, 고마워해야지.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:이해에 감사드립니다, 하지만 부디 믿어 주시길. 저는 유럽에 밝은 미래가 찾아오기를 진심으로 희망하는 바입니다.
-NPC-Rudolf(0)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:훈작사, 자넨 내가 언제 이 보드카를 처음 마셔봤는지 아나? 벌써 10년도 넘었네.+어느 방공호에서, 내 중위가 긴장이나 누그러뜨리자고 한 잔 따라 줬네. 지금도 그의 미소가 생생하게 기억나.+그러니 자네가 네게 이 혼란에 어떻게 종지부를 찍을지 물을 것 없네. 이런 일은 우리의 신소련 친구들이 더 잘 거 아닌가.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:다만 그들은 지금은 그쪽의 골칫거리를 처리하는 중이라, 이런 귀중한 경험을 나눌 시간이 없을 겁니다.
-NPC-Rudolf(0)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:그것 참 아쉽구먼. 그럼 대신 꼭 안부라도 전해 주게나, 몸조심하라고. 시베리아의 겨울은 아주 추우니까 말일세.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:알겠습니다. 그럼, 그들이 항상 건강하기를 기원합시다.
-NPC-Rudolf(0)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:그래, 그들이 항상 건강하기를.
-()<Speaker></Speaker>||:오버슈타인은 술잔을 들어, 보드카를 단숨에 삼켰다.
-NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:훈작사, 오늘 이렇게 와 주어서 정말 고맙네. 독일은 분쟁과 혼란을 겪으면서 너무나도 많은 시간을 잃었어. 이번에야말로, 반드시 올바른 선택을 해야 해.+물론, 나도 "미래의 독일"에서 자네와 다시 보고 싶네.
-()<Speaker></Speaker>||:그리고 오버슈타인은 자리에서 일어나, 특별석의 장막을 젖혔다.
-NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:슈바인슈타이거 장군, 초대해 주어 정말 고맙네.+하지만 미안하네, 내일도 국가에 헌신하려면 오늘은 일찍 돌아가야겠어. 그럼, 이만 실례하지.
-()<Speaker></Speaker>||:그렇게 오버슈타인 장관은 특별석을 떠났다.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:...아직도 헤어나오지 못하신 모양이군요.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:누군들 안 그렇겠소.
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>262</BIN><SE2>Gunfight</SE2><BGM>BGM_Room</BGM>:독일 베를린의 교외.
+()<Speaker>지휘관</Speaker>||:후우...
+()<Speaker></Speaker>||:인형들은 전복된 차량에 의탁해, 습격해 온 패러데우스의 부대를 힘겹게나마 섬멸했다.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:소규모 습격이어서 망정이지... 다음에도 이렇게 운이 좋으리란 보장은 없어.+일단 이 차, 아직 굴러갈 수는 있어?
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker><Shake>0.1</Shake>||:으랏차차차――
+()<Speaker></Speaker>||:SOP2가 차량을 다시 뒤집어 세우려고 애를 썼다.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:퍽!
+AR15Mod(5)<Speaker>AR15</Speaker>||:또 이딴 수작 부리기만 해 봐, 가만 안 둬!+우리가 정말 널 못 죽일 거 같아!?
+()<Speaker></Speaker>||:열받은 AR-15가 다짜고짜 몰리도에게 주먹부터 날렸다.
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:......
+()<Speaker></Speaker>||:그럼에도 몰리도는 그저 콧방귀만 뀔 뿐이었다.
+()<Speaker>지휘관</Speaker>||:AR-15, 그만. 화풀이해 봤자야.+가서 다른 애들을 도와주렴.
+AR15Mod(4)<Speaker>AR15</Speaker>||:후우... 죄송합니다.
+()<Speaker></Speaker>||:AR-15는 몰리도를 다시 매섭게 쏘아보곤, 당장에라도 쏴 죽이고 싶은 충동을 억누르면서 반대편의 여전히 혼수 상태인 댄들라이를 확인하러 갔다.
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:아직 판단력이 흐려지지 않았네요, 그리폰의 지휘관~?
+NPC-Morridow(13)<Speaker>지휘관</Speaker>||:그 입 다물어.
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:어머~ 입을 다물라뇨, 입을 열게 하려고 저를 사로잡은 거 아니었나요?+입 다물고 있으면 오히려 기분 나쁠 텐데~
+NPC-Morridow(13)<Speaker>지휘관</Speaker>||:쓸데없는 말 말라고 했다.
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:정말 너무하네요. 언니한텐 엄청 상냥했잖아요. 저한텐 왜 매정하세요?
+NPC-Morridow(13)<Speaker>지휘관</Speaker>||:너는 그녀가 아니야... 그녀는 힘이 있어도 사리사욕으로 타인의 목숨을 빼앗는 사람이 아니었어.
+NPC-Morridow(13)<Speaker>몰리도</Speaker><Position>0,90</Position>||:헤~? 피로 손을 씻는 당신이 그런 걸 신경쓰다니, 놀랍네요.+아~ 알았다, 빛을 바라는 진흙 속 싹 같은 취향이셨군요. 알겠어요.+다음번엔 꼭 만족시켜 드릴게요.
+()<Speaker>지휘관</Speaker>||:......
+RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님!
+()<Speaker></Speaker>||:RO635가 황급히 달려와, 지휘관과 몰리도의 "대화"를 끊었다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:...기지로부터 통신입니다.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:지휘관은 몰리도를 흘겨보곤 RO635를 따라갔다.
+()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_connect</SE1>:접니다.
+NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:<color=#00CCFF>아직 몸 성해 보여서 기쁘군요, 지휘관.</color>
+NPC-Helian(0)<Speaker>지휘관</Speaker>||:헬리안 씨! 카리나는 어떻습니까? 병세는 호전됐나요?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:<color=#00CCFF>걱정 마십시오, 카리나라면 아주 양호합니다.</color>+<color=#00CCFF>치료가 용이한 전문 병원으로 이송되었으니, 곧 좋은 소식을 들을 수 있을 겁니다.</color>+<color=#00CCFF>더불어 안나를 비롯한 어린 니토들도, 지휘관이 부재 중이기에 당분간 하벨 씨가 맡기로 했습니다.</color>
+NPC-Helian(0)<Speaker>지휘관</Speaker>||:그렇군요... 앗, 다짜고짜 저부터 질문해서 죄송합니다.+이렇게 연락하시다니, 무슨 상황이라도 발생했습니까?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:<color=#00CCFF>이쪽은 아니지만, 상황이 발생하긴 했습니다.</color>
+NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>만나서 반갑습니다, 지휘관.</color>
+NPC-Keven(0)<Speaker>지휘관</Speaker>||:......?!+다, 당신은?
+NPC-Keven(0)<Speaker>J</Speaker>||:<color=#00CCFF>슈타지의 요원, J라고 합니다. K 녀석의 동료죠.</color>
+()||<黑点1>:
+()<Speaker>지휘관</Speaker>||<黑点2><BIN>262</BIN>:아하... 역시 슈타지가 계속 안젤리아에게 도움을...
+()<Speaker></Speaker>||:지휘관이 무의식적으로 중얼거린 말에, 어색한 침묵이 이어졌다.+설마 그게 안젤리아와의 마지막 통신이 될 줄이야.+해야만 하는 일이 더 늘어났다.
+()<Speaker>지휘관</Speaker>||:우리에게 계속 도움을 준 것에, 진심으로 감사하는 바입니다.+당신과 K에게 진 빚은 절대 잊지 않겠습니다.
+NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>거 참, 안젤리아 씨랑은 진짜 딴판이군요? 시간 없으니까 겉치레는 됐습니다.</color>
+NPC-Keven(0)<Speaker>지휘관</Speaker>||:......
+NPC-Keven(0)<Speaker>J</Speaker>||:<color=#00CCFF>...K가 댁의 연락처를 내게 줬다는 건, 녀석이 댁을 상당히 신뢰하고 있단 뜻이죠.</color>+<color=#00CCFF>전 말입니다, K도 믿고 안젤리아 씨도 믿습니다. 그러니 댁에게도 한번 걸어보기로 했어요. 그쪽도 찬 밥 더운 밥 가릴 때 아니죠?</color>+<color=#00CCFF>참, 낯간지러우니까 말 놔도 됩니다. 안젤리아 씨랑 늑대 아가씨들한테 하도 들들 볶여서 이젠 그게 더 편하네요.</color>
+NPC-Keven(0)<Speaker>지휘관</Speaker>||:어... 그렇다면야.+아무튼, 상황이 상황일 텐데 연락해 줘서 고맙다.
+NPC-Keven(5)<Speaker>J</Speaker>||:<color=#00CCFF>댁도 알다시피, 패러데우스의 침투력은 우리의 상상을 초월했습니다.</color>+<color=#00CCFF>믿을 만한 사람이 얼마나 있는지조차 의심스러워진 상황이니, 우리가 협력해야만 일을 만회할 수 있어요.</color>
+NPC-Keven(5)<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관을 얼굴을 문질러 차분함을 회복했다.
+()<Speaker>지휘관</Speaker>||:내가 뭘 하면 되지?
+NPC-Keven(0)<Speaker>J</Speaker><通讯框>||:<color=#00CCFF>댁네 숙녀분들께 먼저 말했지만, 지금 전 감시가 붙어서 움직이가 어려운 상태입니다. 뭘 할 수가 없어요.</color>+<color=#00CCFF>하지만 댁은 아니죠.</color>+<color=#00CCFF>그러니, 제가 최대한 정보를 제공하겠습니다. 댁은 조사한 결과를 공유해 주기만 하면 돼요.</color>
+NPC-Keven(0)<Speaker>지휘관</Speaker>||:......
+NPC-Keven(5)<Speaker>J</Speaker>||:<color=#00CCFF>...제 동지들이 말입니다, 그 저택에서 일곱 명이나 목숨을 잃었습니다.</color>+<color=#00CCFF>하지만 안젤리아 씨는 아직 살아있을지도 몰라요. 그럼 분명 구해낼 기회가 있을 겁니다.</color>
+NPC-Keven(5)<Speaker>지휘관</Speaker>||:아무렴, 안젤리아 씨인데.+그리 쉽게 죽을 사람이 아니야.
+NPC-Keven(0)<Speaker>J</Speaker>||:<color=#00CCFF>이야하, 이제야 좀 죽이 맞는 사람을 만났네요! 같이 잘 해봅시다.</color>
+NPC-Keven(0)<Speaker>지휘관</Speaker>||:알았다. 그럼 계속해서 연락 주길 바란다.
+NPC-Keven(0)<Speaker>J</Speaker>||:<color=#00CCFF>뭣 좀 찾아내면 바로 알려 주십쇼, 저도 그럴 테니.</color>
+NPC-Keven(0)<Speaker>지휘관</Speaker>||:그러지.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삑.+통신 종료.
+RO635Mod(0)<Speaker>RO635</Speaker>||:이렇게 갑자기 튀어나온 사람을 믿어도 될까요?
+RO635Mod(0)<Speaker>지휘관</Speaker>||:그는 K의 암호 채널로 연락했어.+지금 같은 상황에서 길을 하나 더 뚫어도 나쁠 것 없지 않을까?
+RO635Mod(0)<Speaker>RO635</Speaker>||:그렇군요, 알겠습니다. 그럼 이제...
+RO635Mod(0)<Speaker>지휘관</Speaker>||:...우리 포로한테 확실하게 물어볼 것이 아주 많아졌지.
+RO635Mod(0)<Speaker>RO635</Speaker>||:네.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:......+............
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>96</BIN>:베를린 국립 오페라 극장.
+()<Speaker></Speaker>||<BGM>GF_21summer_avg_Demon</BGM>:우레와 같은 박수를 받으며, 여성악가가 홀 중앙 무대에 올라 공연을 시작했다.
+NPC-Bramedb(0)<Speaker>？？？</Speaker>||:Kein Traum ist dieses Glück!
+NPC-Bramedb(0)<Speaker>？？？</Speaker>||:Ich halte dich umfangen♪
+()<Speaker></Speaker>||:그녀의 감미로운 목소리는, 어떤 마력이라도 깃든 것처럼 청중들을 사로잡았다.
+()||<黑点1>:
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||<黑点2><BIN>96</BIN>:정말 매력적인 가창력이야...
+NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:그대 취향은 여전하군.
+()<Speaker></Speaker>||:루돌프 폰 오버슈타인 장관은 2층 좌측의 특별석에 앉아 있었다.+물론, 오늘 이곳에 온 거물급 인사는 그만이 아니었다. 민주독일의 실권자들 대다수가 이 오페라 극장에 모였다.
+()<Speaker></Speaker>||:전반부의 막이 내린 후, 중간 휴식 시간.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:루돌프, 그 친구가 소련에서 가져온 선물이오.
+NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:호오... 스톨리치나야라. 나보고 자제하고 당부하는 뜻인가?+으음... 이젠 이게 어떤 맛이었는지도 가물가물하군.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:자네의 취향을 아주 훤히 꿰고 있는 모양이구려.
+()<Speaker></Speaker>||:술잔을 든 오버슈타인의 눈이 살짝 가늘어졌다.
+NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:딴소린 그만하지. 그가 우리의 초대에 응했나?
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:그렇소. 처음부터 자네가 보내는 초대란 것도 알더군.
+NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:그야 그렇겠지, 평범한 인물이 아니니까.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:자네가 그와 접촉하기로 한 이유를 이제야 좀 알겠소. 하지만, 이래서는 리스크가 너무 크지 않소?+이사회의 일원의 심기를 건드려서 좋을 게 어딨소? 안 그래도 지금 스위스가 루련에게 꼼짝 못하고 있는데, 그들 귀에 들어갔다간...
+NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:하인리히, 그대는 훈작사와 친구가 되고 싶을 뿐이 아니라 스위스와도 관계가 두터운가 보군?+하지만 조심하게, 돈으로 사귄 것은 친구가 아니라 짐승일지도 모르는 법일세.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:......
+NPC-Rudolf(2)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:하하하...+너무 걱정 말게나 장군, 51년 때와 같은 대규모 군비 감축은 없다고 내 약속하지. 다만...
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:문제는 그게 아니오, 루돌프. 더 큰 문제가――
+NPC-Rudolf(2)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:나머진 나중에 하지, 그 친구가 왔네.
+()<Speaker></Speaker>||:오버슈타인의 말이 끝나기가 무섭게 특별석의 문 밖에서 비서의 목소리가 들려왔다.
+()<Speaker>비서</Speaker>||:장관님, 그리폰 훈작사께서 오셨습니다.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:들여보내게.
+()<Speaker>비서</Speaker>||:네.
+()<Speaker></Speaker>||:잠시 후 특별석이 문이 열렸고, 두 사람은 자리에서 일어서 지각한 손님을 환영했다.
+NPC-Rudolf(2)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:어서오게 훈작사, 참 늦게도 왔군. 전반부의 훌륭한 소프라노 공연을 통째로 놓쳐서 정말 유감일세.
+NPC-Griffin(0)<Speaker>그리폰</Speaker>||:두 분께 정말 송구합니다, 설마 비 내리는 베를린의 도로가 여전히 런던에 필적하는 난장판일 줄은 생각지도 못했습니다.+정말 오랜만입니다, 오버슈타인 장관. 마지막으로 뵈었던 게 62년이었는데, 풍채가 여전하시군요.
+NPC-Griffin(0);NPC-Rudolf(2)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:허허, 그런가? 전에 봤던 게 런던의 유럽 정보화 기술 세미나에서였지? 그때 자네는 아직... "내각 사무실의 비서"였던 걸로 기억하는데.
+NPC-Griffin(0)<Speaker>그리폰</Speaker>;NPC-Rudolf(2)||:기억해 주시다니 황송할 따름입니다.
+NPC-Griffin(0);NPC-Rudolf(2)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:선물도 고맙게 받겠네. 간만에 이걸 보니 재건 시대의 추억이 새록새록 떠오르는군그래.
+NPC-Griffin(0)<Speaker>그리폰</Speaker>;NPC-Rudolf(2)||:마음에 드신다니 다행입니다만, 솔직히 장관께선 보드카를 싫어하실 줄 알았습니다.
+NPC-Griffin(0);NPC-Rudolf(2)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:자네도 베를린에서 이렇게 오래 머무르고 있지 않은가? 나도 영국인은 평생 섬 밖으로 나오길 싫어하는 줄 알았어.
+NPC-Griffin(0)<Speaker>그리폰</Speaker>||:......
+()<Speaker></Speaker>||:눈빛을 주고받던 그리폰과 오버슈타인은 동시에 너털웃음을 터뜨렸고, 지켜보던 슈바인슈타이거는 소리 죽여 안도의 한숨을 내쉬었다.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:멀뚱멀뚱 서서 뭐하는 거요? 자, 앉아서 계속합시다.
+NPC-Rudolf(2)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:앉으시게.
+NPC-Griffin(0)<Speaker>그리폰</Speaker>||:먼저 앉으십시오.
+()<Speaker></Speaker>||:세 사람은 천천히 자리에 앉았고, 오버슈타인부터 입을 열었다.
+NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:훈작사, 자네가 베를린에 온 지도 한참이 됐는데 여태까지 마주보고 대화할 기회가 없었네. 그러니, 오늘 이렇게 만난 참에 내 다 얘기하지.+대체 이사회는 무엇을 보고 이토록 베를린에 흥미를 갖는 겐가?
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:본 것이 아니라 맡은 것입니다, 장관.+폭풍 전야의 그 피비린내 섞인 냄새를 말이죠.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:폭풍이 다가오고 있단 말이오?
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:저는 이 자리가 우리가 그걸 어떻게 막을지를 논하기 위해 마련된 것이라 생각했습니다만.
+NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:그래? 그럼 그 피비린내가 온 나라에 배이지 않도록 하려면 내가 무얼 하면 되겠나?
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:염려 마십시오, 장관께서 원하신다면 이 정도의 피비린내는 가볍게 씻어내기만 해도 지워질 겁니다.+하지만, 씻어낼 피가 묻는 것 자체를 미연에 방지하는 것이 상책이겠죠.
+NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:......+훈작사, 현재 베를린의 추태를 양해해 주길 바라네. 독일에게 있어 지금은 아주 중요한 시기야.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:존경하는 오버슈타인 장관, 저는 궁금합니다. 독일은 이러한 혼란에 어떻게 종지부를 찍으려 할지. 나라의 미래가 어디에 있는지. 그리고 더 중요한 건, 장관께선 어떤 미래를 바라십니까?
+NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:이렇게 헌 집에 사는 우리에게 미래가 있다고 보나?
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:그렇다면, 미래를 위해 이 헌 집을 허무시겠단 말씀입니까? 그럼 누가, 어떻게 허물 것인지요? 장관께서 발로 차셔서?
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:훈작사, 말을 좀...
+NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:괜찮네, 하인리히.+먼 길을 온 이국의 손님이 우리나라에 이토록 관심을 가져 주는데, 고마워해야지.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:이해에 감사드립니다, 하지만 부디 믿어 주시길. 저는 유럽에 밝은 미래가 찾아오기를 진심으로 희망하는 바입니다.
+NPC-Rudolf(0)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:훈작사, 자넨 내가 언제 이 보드카를 처음 마셔봤는지 아나? 벌써 10년도 넘었네.+어느 방공호에서, 내 중위가 긴장이나 누그러뜨리자고 한 잔 따라 줬네. 지금도 그의 미소가 생생하게 기억나.+그러니 자네가 네게 이 혼란에 어떻게 종지부를 찍을지 물을 것 없네. 이런 일은 우리의 신소련 친구들이 더 잘 거 아닌가.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:다만 그들은 지금은 그쪽의 골칫거리를 처리하는 중이라, 이런 귀중한 경험을 나눌 시간이 없을 겁니다.
+NPC-Rudolf(0)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:그것 참 아쉽구먼. 그럼 대신 꼭 안부라도 전해 주게나, 몸조심하라고. 시베리아의 겨울은 아주 추우니까 말일세.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:알겠습니다. 그럼, 그들이 항상 건강하기를 기원합시다.
+NPC-Rudolf(0)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:그래, 그들이 항상 건강하기를.
+()<Speaker></Speaker>||:오버슈타인은 술잔을 들어, 보드카를 단숨에 삼켰다.
+NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:훈작사, 오늘 이렇게 와 주어서 정말 고맙네. 독일은 분쟁과 혼란을 겪으면서 너무나도 많은 시간을 잃었어. 이번에야말로, 반드시 올바른 선택을 해야 해.+물론, 나도 "미래의 독일"에서 자네와 다시 보고 싶네.
+()<Speaker></Speaker>||:그리고 오버슈타인은 자리에서 일어나, 특별석의 장막을 젖혔다.
+NPC-Rudolf(1)<Speaker>오버슈타인</Speaker><Position>0,-100</Position>||:슈바인슈타이거 장군, 초대해 주어 정말 고맙네.+하지만 미안하네, 내일도 국가에 헌신하려면 오늘은 일찍 돌아가야겠어. 그럼, 이만 실례하지.
+()<Speaker></Speaker>||:그렇게 오버슈타인 장관은 특별석을 떠났다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:...아직도 헤어나오지 못하신 모양이군요.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:누군들 안 그렇겠소.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:

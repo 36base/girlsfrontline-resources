@@ -1,0 +1,54 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_tele_connect</SE1>:삐빅.
+Erma(6)<Speaker>엘마</Speaker><通讯框>||:<color=#00CCFF>...안 받을 줄 알았는데.</color>
+Erma(6)<通讯框>;AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||<BGM>GF_2022_Summer_AVG_2</BGM>:......+아직 시간이 조금 있어서.+시간 되면 바로 끊을 거다.
+Erma(7)<Speaker>엘마</Speaker><通讯框>;AR18(6)<Position>0,70</Position>||:<color=#00CCFF>흄 박사는... 내 "엄마"라 할 수 있어?</color>
+Erma(7)<通讯框>;AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:왜 그 문제에 집착하지?
+Erma(6)<Speaker>엘마</Speaker><通讯框>;AR18(6)<Position>0,70</Position>||:<color=#00CCFF>그 사람이 "엄마"면 우리는 자매니까.</color>+<color=#00CCFF>아니면 나는 완전 바보가 되는 거야.</color>
+Erma(6)<通讯框>;AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......내가 미친놈 같아 보여?
+Erma(7)<Speaker>엘마</Speaker><通讯框>;AR18(6)<Position>0,70</Position>||:<color=#00CCFF>아니, 절대 아니야.</color>
+Erma(7)<通讯框>;AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:그럼 너도 바보가 아니야.
+Erma(7)<Speaker>엘마</Speaker><通讯框>||:<color=#00CCFF>......</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:아서 흄.+그 사람의 풀네임이다.
+()<Speaker></Speaker>||:엘마는 잠시 무슨 말을 해야 할지 몰랐다.+그저 이대로 시간을 허비하기 싫었다.
+Erma(6)<Speaker>엘마</Speaker><通讯框>||:<color=#00CCFF>...서머 가든엔 언제나 너의 열쇠가 있어.</color>
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:응, 알아.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:삐익.+류드밀라는 통신을 종료하고 숨을 길게 내쉬었다.+대화하고 나니, 왠지 조금이나마 있었던 긴장감까지 마저 사라진 것처럼 느껴졌다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>Rope</SE1>:그녀는 차량의 끝자락을 붙잡았다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리고 창틀을 박차고 뛰어올라, 지붕 위에 멋지게 착지했다.
+()||<黑点1>:
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Cloak_Whoosh</SE1><BIN>523</BIN><黑点2><BGM>GF_2022_Summer_AVG_3</BGM>:무거운 밤의 기운이 깔리고, 희미한 붉은빛이 감도는 하늘의 달 아래 열차의 잔해는 마치 구불구불 꼬여 썩어 가는 뱀의 사체 같았다.+열차칸의 지붕에 올라탄 류드밀라는 매와 같은 눈빛으로 주변 하늘을 살폈다.+그리고, 힘을 모으는 맹금처럼 사냥감을 무정하게 주시했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:휘익!+잠시 후, 그녀는 파우치에서 적외선 지시등을 꺼내 열차 양측에 하나씩 던졌다.+이렇게 가벼운 움직임도 경계 중인 병사의 주의를 끌기인 충분했다.
+()<Speaker>병사A</Speaker>||<SE1>Select</SE1>:지붕 위에 누가 있다!
+()<Speaker></Speaker>||<震屏3><SE2>Gunfight</SE2>:타타타탕!!!
+()<Speaker>병사A</Speaker>||<SE1>AVG_tele_connect</SE1>:"콜라이트" "콜라이트" 여기는 "쉴라이트", 의심 목표 발견! 현재 "구렁이" 위에서 도주 중이다!
+()<Speaker></Speaker>||:쏟아지는 총탄이 지붕을 스치며 눈부신 불똥을 튀겼다.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake><BIN>9</BIN><黑屏2>:쉬익——+하지만 류드밀라는 이미 그 자리를 벗어난지 오래였다.
+()<Speaker></Speaker>||<震屏3><SE2>Gunfight</SE2>:타타탕 타타탕――+그녀는 자신의 총으로 반격하며 거리를 벌리고, 계속해서 적외선 지시등을 꺼내 열차의 양쪽으로 던졌다.
+()||<黑点1>:
+NPC-Soldier(0)<Speaker>병사A</Speaker>||<SE1>AVG_Team_Running</SE1><SE1>AVG_tele_connect</SE1>:의심 목표가 3시 방향으로 이동 중!
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1>:<size=50>타앙!</size>
+NPC-Soldier(0)<Speaker>병사B</Speaker>||<SE1>AVG_tele_connect</SE1>:아니, 6시 방향이다!
+()<Speaker></Speaker>||<震屏3><SE2>Gunfight</SE2>:<size=50>타타탕――</size>+양쪽에서 빗발치는 탄환이 열차 위에서 교차했다.
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:타다닷——!+이런 식으로 회색 그림자는 총알의 빗속을 헤쳐나갔다.
+()<Speaker></Speaker>||:F02호 차량의 지붕에서 출발한 류드밀라는 고작 몇 초의 전력질주로 열차의 끄트머리에 다다랐다.+즉, 그녀는 이미 맹금의 발톱으로 적의 목덜미를 단단히 붙잡은 셈이었다.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:후우...
+()<Speaker></Speaker>||:류드밀라는 열차의 끄트머리 위에 멈춰섰다.
+()<Speaker></Speaker>||<SE1>AVG_Bullte_Ricochet</SE1>:차량의 지붕에 맞아 도탄되는 총탄이 지금도 그녀의 몸을, 그녀의 눈가를 스치고 있었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:하지만 류드밀라는 그저 고개를 위로 들었다. 활활 타오르는 눈빛으로, 점점 옅어져 가는 먹구름을 꿰뚫으며.
+AR18(6)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:...정확히 10분.
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>523</BIN><黑点2><SE1>AVG_Gunfire</SE1>:그녀의 지휘봉은 왕좌에 오른 영웅의 권장이 되었다.+구불구불 늘어진 열차는 대지에 누워 영역을 침범하려는 악귀들을 내쫓는 환수가 되었다.
+()<Speaker></Speaker>||:지금 그녀는 불빛에 몸을 담고 있다.+강철의 환수 위에 우뚝 서 있었다.
+()<Speaker>류드밀라</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:아군 구역 표시 완료.+안전 구역 외 150 - 200m―― 공격 허가한다, 이상.
+()<Speaker></Speaker>||:또박또박 힘주어 내뱉은 말에, 통신기가 응답했다.
+()<Speaker>？？？？</Speaker>||<SE1>AVG_whitenoise</SE1>:<color=#00CCFF>......</color>
+()<Speaker>？？？？</Speaker>||<BIN>9</BIN><黑屏2><SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:<color=#00CCFF>수신 완료.</color>
+()||<黑点1><controll_shake>%%type_id=2%%duration=7%%delay=0.1%%range=10</controll_shake><SE1>AVG_Bomber_Flying</SE1>:
+()<Speaker></Speaker>||<黑点2><BIN>524</BIN><BGM>10144</BGM><SE1>AVG_Cloak_Whoosh</SE1>:쉬우우우――+저 멀리서부터 들려오는 대기를 가르는 소리가 류드밀라 바로 위 하늘까지 울려 퍼져, 모두의 시선을 모았다.
+()<Speaker></Speaker>||<SE1>Select</SE1>:그것이 무엇을 뜻하는지 깨달은 병사들은 당황하며 일제히 총구를 높이 들었지만, 너무 늦었다.
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=5%%delay=0.1%%range=8</controll_shake><SE1>AVG_Explosion</SE1><火花>:슈우웅——+<size=50>콰아앙——!!!!</size>
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=8</controll_shake><火花><SE1>AVG_Bomber_Napalm</SE1><SE1>Explode</SE1>:류드밀라가 서 있는 열차의 양측으로, 강철의 맹금이 먹잇감에게 발톱을 내리찍었다.+저멀리 훤히 보이던 전차들은 안에서부터 불길을 토해내는 고철이 되었다.+수십 톤가량의 장갑차들도 통째로 뒤집혀, 공중제비를 돌다 땅에 처박혔다.
+()<Speaker>병사</Speaker>||:<size=50>공습이다――!!</size>
+()<Speaker></Speaker>||:......
+()||<黑点1>:

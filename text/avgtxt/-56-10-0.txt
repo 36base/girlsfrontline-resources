@@ -1,0 +1,147 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>547</BIN><回忆><BGM>GF_21summer_battle_4</BGM><narrator>:2051년 케찰코아틀 작전 당시, "죽음의 바다".
+()||:뭍에 좌초돼 아가미가 말라붙은 물고기의 뻐끔거림처럼, 땅으로 추락해 죽어가는 새의 울음처럼, 죽기 직전의 마지막 숨결은 소리 없는 비명이었다.
+()<Speaker>유라</Speaker>||:엘리아나... 어째서...+이해가 안 돼... 싫어... 엘리아나...!
+NPC-SCAR-L(3)<Speaker>엘리아나</Speaker>||:......
+()||<SE1>AVG_2022Saros_SCARL1</SE1>:엘리아나는 표정 변화 없이 총구를 들었다.
+()||<SE1>AVG_2022Saros_SCARL2</SE1>:탕!
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker>||:...작별이다, 유라.+먼저 가 있어.
+()<Speaker>유라</Speaker>||<黑屏1>:......
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker>||<黑屏2>:네 차례야, 올리비아.
+()<Speaker>올리비아</Speaker>||:이것이 명령이라면...
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker>||:아니, 숙명이야. 서광 팀으로서, 우리의 숙명.
+NPC-SCAR-L(1)<Speaker>올리비아</Speaker><同时置暗>||:......언젠가 후회할 거야, 엘리아나.
+()||<SE1>AVG_21Winter_Ink_Drop_Single</SE1>:눈물 한 방울이 시야를 가렸다.
+()||<SE1>AVG_2022Saros_SCARL2</SE1><黑屏1>:타앙!
+()||<黑屏2><关闭蒙版><BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏1>:............
+()||<黑屏2><BIN>548</BIN><Night>:사모는 소파에 누운 채, 탄피 2개를 만지작거렸다.+셰릴은 그 옆에서 잡동사니를 정리하면서, 뭐라도 쓸 만한 게 있나 찾는 중이었다.
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||<BGM>BGM_Wake</BGM>:...셰릴.+너, 뒤통수 다친 적 있지 않아? 이쪽에 말이야.
+NPC-Cheryl(2)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:뭐어?
+()||:셰릴은 살짝 성질을 내며 고개를 돌렸다.
+NPC-Cheryl(2)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:언니라지만 진짜 매너가 없네, 나 머리에 문제 있냐고 돌려 까는 거지? 지금 내가 얼마나 열심히 언니가 살아남을 방법을 대신 찾아 주고 있는데!
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:아니, 그런 뜻이 아니야.
+NPC-SCAR-H(1);NPC-Cheryl(2)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:그럼 뭔데!
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:다친 적 있나 없나부터 대답해.
+()||:세릴이 입을 삐죽 내밀고 뒤통수를 더듬다, 문득 깨달은 듯 소리를 냈다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:앗, 생각났다. 나 그때 뭔가에 이쪽을 맞아서 충격으로 눈이 안 보이는 거였댔어.
+NPC-SCAR-H(1)<Speaker>사모</Speaker>;NPC-Cheryl(0)<Position>0,-100</Position>||:응, 널 봤을 때 후두부랑 목덜미가 완전 피투성이였거든.
+NPC-SCAR-H(1);NPC-Cheryl(3)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:그, 그럼 또 기억났구나!
+NPC-SCAR-H(1)<Speaker>사모</Speaker>;NPC-Cheryl(3)<Position>0,-100</Position>||:...그런 셈이지.
+NPC-Cheryl(3)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:더 있어? 다른 건?
+()||:탄피 하나가 사모의 손에서 배로 떨어졌다. 아직 손 위의 탄피는 14년에 가까운 세월에도 여전히 은은한 광택을 뽐냈다.
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:...그날, 그 학교에서 널 봤을 때.+하늘에선 싸락눈이 내리고, 바닥도 미끄러워서 학교 복도에 미끄럼 방지 매트가 잔뜩 깔려 있었어.
+NPC-SCAR-H(1);NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:응! 애들이 자꾸 미끄러져서 다치니까 깔았어!
+NPC-SCAR-H(1)<Speaker>사모</Speaker>;NPC-Cheryl(0)<Position>0,-100</Position>||:마침 네 복숭아색 치마가 그 매트랑 비슷한 색이었지. 널 발견했을 때, 넌 매트 끄트머리에 엎어져 바닥을 더듬고 있었어.
+NPC-SCAR-H(1);NPC-Cheryl(3)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:언니이...
+NPC-SCAR-H(1)<Speaker>사모</Speaker>;NPC-Cheryl(3)<Position>0,-100</Position>||:나중엔 "내" 품에 안겨서 손끝으로 총을 만져보면서 쏘는 법도 가르쳐 달라 졸랐고.
+NPC-SCAR-H(1);NPC-Cheryl(3)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:응 응! 한참을 졸라서 겨우 언니가 권총 만져보게 해 줬어!
+NPC-SCAR-H(1)<Speaker>사모</Speaker>;NPC-Cheryl(3)<Position>0,-100</Position>||:......
+NPC-Cheryl(3)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:훌쩍... 역시 언니 맞구나...
+()||:사모가 몸을 살짝 틀었고, 배 위의 탄피는 바닥으로 굴러떨어졌다.
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||<BGM>BGM_Empty</BGM>:셰릴, 내가 누군지 지금 생각났어.
+NPC-Cheryl(3)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:유라 언니!
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:미안해, 난 유라가 아니야.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<BGM>BGM_Scar_Shenzhizi</BGM>:......엑...?
+()||<震屏>:그 부정에 셰릴의 동공이 심하게 흔들렸고, 믿을 수 없다는 듯 뒷걸음질쳤다.
+()<Speaker>셰릴</Speaker>||:아니야... 그럴 리가... 농담이지...?
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:...미안해.
+NPC-SCAR-H(1)<Speaker>셰릴</Speaker><同时置暗>||:잠깐... 혼자 있게 해 줘.
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||<黑点1>:......
+()||<黑点2>:잠시 후, 조금은 진정이 됐는지 셰릴이 다시 방 밖으로 나왔다.+그리고 바닥에 떨어진 탄피를 줍고는 슬픈 눈으로 그걸 살폈다.
+NPC-Cheryl(4)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:유라 언니가 준 거랑... 똑같은데...
+NPC-SCAR-H(1)<Speaker>사모</Speaker>;NPC-Cheryl(4)<Position>0,-100</Position>||:같은 팀이었으니까. 무장은 달라도 같은 규격의 탄약으로 통일해서 썼어.+아무튼... 정말 미안해.
+NPC-SCAR-H(1);NPC-Cheryl(4)<Speaker>셰릴</Speaker>||:네가... 네가 유라 언니가 아니라면...+그럼, 유라 언니는... 그럼...
+NPC-SCAR-H(1)<Speaker>사모</Speaker>;NPC-Cheryl(4)||:...죽었어.
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:각자의 마지막 순간이 담긴 기억도 정리했어. "유라"의 기억은 엘리아나의 총성으로 끝난 것도 확인했고.
+()||:셰릴 눈동자 속의 빛은 풍전등화처럼 흔들렸다.
+NPC-Cheryl(5)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:...있잖아, 너까지 포함해서 8명이 네 마인드맵 코어 안에 있댔지?+그, 그럼 유라 언니한테 잠깐 나와서 나랑 얘기해 달라고 하면 안 될까?
+NPC-Cheryl(5)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:다 나은 눈으로... 유라 언니 얼굴을 직접 보고 싶었는데...
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:...정말 미안해.+이 안의 "그들"은 전부... 파편화된 기억의 집합에 불과해.+인간이 말하는 강령술이나 빙의 같은 게 아니야.+비디오 테이프, 동영상 파일처럼... 다른 사람의 이야기, 다른 사람의 삶이야.+내가 유라의 기억을 끄집어내더라도, 나는 유라가 되지 않아.+그러니 유라의 이야기를 이어나가 줄 수도, 유라처럼 말해 줄 수도 없어.+무슨 말인지... 이해했어?
+NPC-Cheryl(5)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:......
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:유라는 다신 돌아오지 않아. 그만 잊도록 해.
+()||:뻐끔거리는 셰릴의 입에선 아무 소리도 나지 않았다.+사모는 충전량을 힐끔 확인하곤 그대로 소파에서 일어났다.
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:충전 다 됐다. 그만 갈게.+짧은 시간이지만, 정말 신세 많이 졌어.
+()||:충전 케이블을 감고, 모자를 푹 눌러 쓴 사모는 현관문 밖으로 걸어나갔다.+그 광경을, 셰릴은 그저 멍하니 바라봤다.
+NPC-Cheryl(5)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:사모...
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:몸조심해, 셰릴.
+()||:현관문은 천천히 닫혀, 사모의 모습을――
+()||<SE1>AVG_Door_Hit</SE1>:가리기 전에 셰릴이 문을 쾅 박차고 달려나와, 사모의 등을 와락 껴안았다.
+NPC-Cheryl(5)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:아 몰라! 네 이름이 뭐든 상관없어! 너는 내가 내 돈 주고 산 고물 인형이야!
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:......
+()||:셰릴이 사모의 옷자락을 붙잡았다.
+NPC-Cheryl(5)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:그러니까...! 네가 유라 언니가 아니더라도 널 지키고 싶어.+언니가 내게 용기를 줬던 것처럼, 나도 용기가 필요한 사람에게 전해 주고 싶어!+알았어!? 네가 유라 언니가 아니라도 상관없다고!
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:......
+()||:사모는 등이 셰릴의 눈물로 흠뻑 젖은 것이 느껴졌다.
+NPC-Cheryl(5)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:그리고... 널 내 신작의 주인공으로 정했단 말이야... 주인공은 지면 안 되잖아, 내가 도와줄 테니까...
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:고맙지만 소용 없대도.
+()<Speaker>셰릴</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:쿨쩍... 아니, 있어. 지금 절묘한 계획이 번뜩였거든.
+()||<黑屏2><BIN>18</BIN><BGM>GF_EV9_Story</BGM><Night>:인력 부족에 허덕이는 현재의 그리폰 기지도 조금은 조용해지는 시기가 있으니...+바로 지금처럼 밤이 깊을 무렵이다.+시계가 12시 정각을 가리키자, 일부 인형들은 훈련을 마치고 숙소로 복귀했다.+물론 다른 몇몇은 이런 시간임에도 외출할 준비를 했다.+엘리아나도 그중 한 명이었다.+그런데, 웬 불청객이 그녀의 숙소 문 앞을 가로막았다.
+NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position><GradientShow>2</GradientShow>||:안녕, SCAR-L. 아니, 엘리아나 중사님이라 부를까?+이런 시간에 일하러 가려고? 과연 전설의 인형이네.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>;NytoIsomer(3)<Position>0,-80</Position>||:......
+NPC-SCAR-L(0);NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position>||:그런데 유감이야, 요즘 인형들은 전설도 못 알아봐서. 네 부대원들이 방금 지휘관에게 몰려가서 널 고발하더라고.+어찌나 눈물 펑펑 쏟으면서 징징대던지, 옆에서 보던 나까지 다 마음이 아파지더라니까.
+NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position>||:설마 13년의 세월을 넘어 현대에 깨어난 전설의 인형이 독불장군이라니.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:그 이야기라면 이미 알고 있다.
+()||:엘리아나는 아무런 감정도 내비치지 않고, 그저 고개만 살짝 끄덕이곤 떠나려 했다. 하지만 겨우 이 정도로 포기할 댄들라이가 아니었다.
+NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position>||:하지만 난 마인드맵 연산 속도가 128kb/s인 인형들과는 달리, 너에게 아주 흥미가 있어.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>;NytoIsomer(3)<Position>0,-80</Position>||:...전혀 다른 시스템이라서?
+NPC-SCAR-L(0);NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position>||:그렇긴 하지만 그뿐만은 아니야.+지휘관을 인질로 잡는 모습부터 지금까지, 네 일거수일투족을 전부 지켜봤어.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>;NytoIsomer(3)<Position>0,-80</Position>||:그렇게 하루 종일 날 관찰한 결론은?
+NPC-SCAR-L(0);NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position>||:네 "속"을 전혀 알 수가 없어, 엘리아나 중사님.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>;NytoIsomer(3)<Position>0,-80</Position>||:멋대로 들여다보는 걸 누가 좋아하겠어.
+NPC-SCAR-L(0);NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position>||:쌀쌀맞기는. 그럼 나랑 거래할래?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>;NytoIsomer(3)<Position>0,-80</Position>||:난 군인이지 상인이 아니다.
+NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position>||:내가 얼마나 값을 후하게 쳐주는데. 못 믿겠음 AR-15에게 물어봐.
+()||:엘리아나의 얼굴은 여전히 아무 감정도 읽을 수 없었다.
+NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position>||:그냥, 네 기반 설정을 열어서 보고 싶을 뿐이야. 내게 아주 잠시 권한을――
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>;NytoIsomer(3)<Position>0,-80</Position>||:지휘관이 보냈어? 날 떠보려고?
+NPC-SCAR-L(0);NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position>||:그렇다면 이렇게 부탁도 안 했지.+그리고, 상급자 몰래 나쁜 짓해보고 싶지 않아? 재밌어.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>;NytoIsomer(3)<Position>0,-80</Position>||:레인저의 충성심을 시험하지 마라.
+NPC-SCAR-L(0);NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position>||:그렇게 딱딱하게 굴지 말고. 대신 다른 인형의 기반 설정 보여 줄게. 관심 있는 애 있어?
+NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position>||:네 부대원들은 어때? 걔네가 널 어찌 평가하는지 궁금하지 않아? 덤으로 우리 AR-15 것도 보여 줄 수 있는데.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......
+()||:엘리아나는 고민도 않고 화상 통신용 태블릿을 꺼내, 지휘관의 연락처를 띄우곤 손가락을 호출 버튼 위로 올렸다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:그럼 내친김에 지휘관도 같이 보도록 부르는 건 어떨까?
+NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position>||:어휴, 낡은 것들은 어찌 다들 이리 꽉 막혔는지... 알았어, 그만하면 되잖아.
+()||:댄들라이는 결국 질렸다는 듯 고개를 저으며 뒤돌아 사라졌다.+그녀가 완전히 사라지는 것을 끝까지 지켜본 후, 엘리아나는 나지막이 한숨을 내쉬곤 숙소의 문을 잠그고 발을 옮겼다.
+()||<SE1>ClothingUp</SE1>:하지만 이번에도 두 걸음도 채 가지 못했다. 또 누군가가 불쑥 튀어나와 그녀 앞을 가로막은 것이었다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......
+()||<SE1>AVG_tele_connect</SE1>:다만 이 상대는 바로 입을 열지 않고, 조심스레 암호화 통신 채널로 엘리아나를 초대했다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:<color=#00CCFF>잠깐 얘기 좀 할까?</color>
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>;AR15Mod(0)||:<color=#00CCFF>무슨 볼일이지?</color>
+NPC-SCAR-L(0);AR15Mod(0)<Speaker>AR15</Speaker>||:<color=#00CCFF>"죽음의 바다"에 대해서 네가 아는대로 더 자세하게 말해 줘.</color>
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>;AR15Mod(0)||:<color=#00CCFF>...왜 지휘관과 함께였을 때 묻지 않고?</color>
+NPC-SCAR-L(0);AR15Mod(4)<Speaker>AR15</Speaker>||:<color=#00CCFF>너도 봤잖아, 지휘관은 지금 너무 바빠. 그리고 내 동료들이, 아직 거기 있어. 그러니 꼭 알아야겠어.</color>
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>;AR15Mod(4)||:<color=#00CCFF>레인저의 충성심을 시험하지 마라.</color>
+NPC-SCAR-L(0);AR15Mod(0)<Speaker>AR15</Speaker>||:<color=#00CCFF>......</color>
+AR15Mod(0)<Speaker>AR15</Speaker>||:<color=#00CCFF>내 가족들의 목숨이 걸렸어. 이 일은 나도 알 권리가 있다고.</color>
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:<color=#00CCFF>그렇더라도 네가 지휘관보다 먼저, 더 많이 알 권리는 없다.</color>
+()||<SE1>AVG_tele_disconnect</SE1>:암호화 통신 채널이 종료됐다.
+AR15Mod(4)<Speaker>AR15</Speaker>||:칫...
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:이제 가도 되겠지?
+AR15Mod(3)<Speaker>AR15</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:...마음대로.
+()||<黑屏2><BIN>83</BIN><Night><BGM>BGM_NightOPS</BGM>:잠시 후, 마침내 기지의 입구에 다다른 엘리아나가 숨을 깊게 들이쉬었다.+이번엔 5명이었다.+SCR, 컨텐더, M26 MASS, M60과 M249 SAW가 그녀를 기다리고 있었다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:...그리폰의 인형들은 다 한밤중에 불쑥 얼굴을 들이미는 게 관습이야?
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:네가 또 가출하려 한다고 댄들라이가 알려 줬거든. 3차 대전 참전용사님이 현대 교통법 잘 모를 수도 있으니 잘 좀 지켜봐 달라더라.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:더는 나를 대장으로 보지 않는다고 들었는데.
+M249SAW(0)<Speaker>M249SAW</Speaker>||:확실히 헬리안 씨한테 건의를 올리긴 했지... 하지만 그건 내일 지휘관이 결정할 일인걸. 아직은 너 우리 대장 맞아.
+Contender(0)<Speaker>컨텐더</Speaker>||:내일 지휘관께서 팀을 해산하겠다 하시기만 해봐, 그땐 너 같은 거 신경도 안 써.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:...이건 내 개인적인 일이다.
+NPC-SCR(0)<Speaker>SCR</Speaker>||:완전무장하고 한밤중에 몰래 나가는 게 어떻게 개인적인 일이야?
+M60(0)<Speaker>M60</Speaker><Position>0,-50</Position>||:그래서 갈 거야 말 거야? 갈 거면 빨랑빨랑 움직여, 또 누가 와서 캐물으면 설명하기 귀찮아진다고.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<黑屏1>:......
+()||<黑屏2><BIN>418</BIN><Night>:잠시 후, 심야의 베를린 주택지.+번호판 없는 수송 차량이 천천히 길가에 멈췄다.
+Contender(0)<Speaker>컨텐더</Speaker>||:...그래서, 작전 계획은?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:없어. 바로 돌입한다.
+NPC-SCR(5)<Speaker>SCR</Speaker>||:엑, 뭐? 무장하고 민가로 돌입한다고?!+이렇게 당당하게?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:불만 있음 무턱대고 따라오질 말았어야지.
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:그럼 지금이라도 뭘 하러 왔는지 말해 줄래?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:...몇 년 넘게 생사불명이었던 동생과 대화를 나누러.
+M60(0)<Speaker>M60</Speaker><Position>0,-50</Position>||<震屏>:우와, 너 동생 있었어?+...여기에? 왜?+아니 그보다, 대화라면 그냥 통신으로 해도 되잖어어어?!
+()||<SE1>RunStep</SE1>:엘리아나는 더 이상의 대꾸도 거부하고 수송 차량에서 뛰어내려 곧장 아파트로 향했다.
+Contender(0)<Speaker>컨텐더</Speaker>||:이래서 따라오지 말자는 거였는데...+저 녀석은 진짜...!
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:일단은 비공식인 셈 치고 침투 작전대로 해야 하지 않을까?+그냥 정문으로 들어가는 건 좀... 얼레, 엘리아나는?
+M249SAW(0)<Speaker>M249SAW</Speaker>||:이미 저쪽에서 수도관 타고 등반 중이야.
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:벌써...?
+M249SAW(0)<Speaker>M249SAW</Speaker>||:특전사잖아, 우리랑은 보이는 길도 다른 거지.
+NPC-SCR(2)<Speaker>SCR</Speaker>||<黑点1>:...쫓아가자.

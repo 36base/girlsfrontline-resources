@@ -1,0 +1,89 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<睁眼><BIN>588</BIN><SE1>AVG_wind_grass</SE1>:조용한 아침. 오직 창밖의 새가 지저귀는 소리와, 커튼 자락이 바람에 흔들리는 소리만 들렸다.
+()||<BGM>BGM_Saga_AVG_Dusk</BGM>:당신은 따뜻한 이불을 덮은 채로 기지개를 켰다. 오늘 오전은 급하게 처리할 일도 없으니, 실컷 뒹굴다 언제든지 일어나도 됐다.
+()<Speaker>지휘관</Speaker>||:......
+()||:아니, 사실 한 가지 중요한 일이 있었다.+잘 알고 있음에도 무의식적으로 자꾸 미루는 것.+당신은 이불 속 따뜻한 어둠에 대고 가볍게 한숨을 푹 쉬고서, 침대 밖으로 나와 옷을 개어 둔 탁자 옆으로 갔다.
+()<Speaker>지휘관</Speaker>||:...응?
+()||<common_effect>%%code=Saga_Tae_item%%</common_effect>:반듯하게 개어 둔 옷 옆에 오징어채 한 접시가 놓여 있었다.+그건 분명 타에가 준 목재로 만든 접시였다. 위에 새긴 꽃무늬가 준코에게 도움받아 당신이 직접 그린 것이어서 못 알아볼 수가 없었다.
+()<Speaker>지휘관</Speaker>||<关闭蒙版>:이상한데...
+()||:당신은 접시에 듬뿍 쌓인 오징어를 한 줌 집어 조심스레 냄새를 맡아봤다.
+()<Speaker>지휘관</Speaker>||:냄새가 이상하지도 않고, 싱싱해... 타에가 바로 꿀꺽할 물건인데...+...왜 이게 여기 있지?
+()||:타에는 후각도 아주 예리하고, 당신의 방쯤이야 손쉽게 들어올 수 있다.+그래서 이 오징어채 한 접시가 왜 여기 이렇게 멀쩡하게 놓인 이유를 알 수 없었다.
+()<Speaker>지휘관</Speaker>||:타에? 혹시 있어?
+()||<黑点1>:혹시나 싶어 불러봤지만 역시 대답은 없었다.+당신은 서둘러 옷을 갈아입고 방을 나와 타에를 찾았다.
+()||<黑点2><闪屏><duration>10</duration><rate>20</rate><delay>30</delay><CG>574,604,588</CG></闪屏>:그런데 저택의 구석구석을 찾아봐도 타에가 보이지 않았다. 산책이라도 나간 것일까?+침실로 돌아온 당신은 다시 탁자 옆으로 가, 그 수상한 오징어 한 접시를 다시 살펴봤다.
+()<Speaker>지휘관</Speaker>||:어라... 조금 줄어든 거 같다?
+()||:당연히 오징어채가 대답해 줄 리 만무했다.+결국 당신은 고개를 젓고선 짐 정리를 하기로 했다.+이것이 당신에게 지금 가장 중요한 일이었다.+그리폰으로 돌아가야 하니까.
+()<Speaker>지휘관</Speaker>||:......
+()||:처음부터 이 여정의 종착역은 매우 뚜렷했으니, 이제 정할 것은 "어떻게"만 남았다.+당신은 반듯하게 갠 옷들과 중요한 물품들을 한자리에 놓고, 침대 밑에서 프랑슈슈가 당신을 위해 준비해 준 짐가방을 꺼냈다.+다 넣으면 돌아갈 채비는 끝난다.
+()<Speaker>지휘관</Speaker>||:끄응... 근데 가방이 뭐 이리 무거워?+......+...설마.
+()||<BGM>BGM_Empty</BGM>:당신은 뇌리를 번쩍 스치는 추측을 붙잡았다.
+()||<SE1>AVG_Zipper</SE1>:짐가방을 바닥에 살살 내려놓고, 지퍼를 천천히 열고, 그리고..
+()||<SE1>ClothingUp</SE1>:활짝!
+NPC-Tae(0)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale><GradientShow>2</GradientShow>||<BGM>10381</BGM>:어아... 으응... (인사하는 것 같다.)
+NPC-Tae(0)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:역시 너였냐!+이번엔 내 짐 어디다 숨겼어! 말해!
+NPC-Tae(0)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:으에... 어응... (억울하다는 얼굴이다.)
+NPC-Tae(0)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:어휴...
+()||:당신은 못 이기겠다는 듯 짐가방 옆에 앉아, 타에가 짐가방에 가지고 들어간 오징어채를 입에 쓸어담는 것을 지켜봤다.
+()<Speaker>지휘관</Speaker>||<黑屏1>:저번에도 그러고 말이야...
+()||<黑屏2><BIN>593</BIN><回忆>:그때, 당신은 배낭을 메고 유우기리가 소개한 사람을 만나러 가는 중이었다.
+NPC-Tae(6)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:어어... 으에...? (당신이 왜 여기에 있는지 묻는 것 같다.)
+NPC-Tae(6)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:어라, 타에구나?
+()||:당시 그녀는 비닐 봉지를 들고 있었는데, 그날의 저녁 식사 재료 심부름을 나온 모양이었다.
+()<Speaker>지휘관</Speaker>||:심부름이야? 수고 많네, 어서 돌아가렴. 유우기리가 기다리고 있을 거야.
+NPC-Tae(6)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:......
+()||:하지만 타에가 당신의 배낭을 물끄러미 바라보길래, 먹을 게 있다 생각하는 것 같아 당신이 직접 열어 안을 보여 주었다.
+()<Speaker>지휘관</Speaker>||:자, 보이지? 안에 먹을 거 없어, 다 짐이야.
+NPC-Tae(6)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:어으... 으어어? (이상해한다.)
+NPC-Tae(6)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:응? 웬 가방이냐고?+집으로 돌아가는 길을 찾는 중이야. 언젠간 내가 왔던 곳으로 돌아가야지.
+NPC-Tae(6)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:......
+()||:타에가 당신을 멍하니 바라봤다. 방금 한 말이 그녀로선 이해하기 좀 어려웠을까?
+()<Speaker>지휘관</Speaker>||:못 알아듣겠어도 괜찮아, 저녁에 돌아와서 천천히 설명해 줄게.
+()||:당신은 다시 배낭을 메고 유우기리가 적어 준 주소를 찾으러 움직였...는데 배낭이 어째 확 무거워졌다.
+()<Speaker>지휘관</Speaker>||:......+타에에에... 이거 놔!
+NPC-Tae(6)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>Rope</SE1>:으그그그그긁! (배낭을 문 채로 고개를 세차게 젓는 중.)
+NPC-Tae(6)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:나 돌아가는 방법 수소문해야 한다고! 넌 얼른 저택에 돌아가!
+NPC-Tae(6)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:으을윽...! (고집부리는 중.)
+NPC-Tae(6)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:오오냐 오늘에야말로 누가 이기나 한번 해보자!
+()||<黑屏1>:당신은 배낭을 물고 안 놓는 타에를 그대로 질질 끌면서, 지나가는 행인들의 의아해하는 시선을 한몸에 받는 것도 아랑곳 않으면서 발걸음을 옮겼다.+하지만 그만큼 체력이 금방 바닥나서, 결국 싱글벙글한 타에에게 저택으로 끌려갔다.
+()||<黑屏2><BIN>588</BIN><关闭蒙版><BGM>BGM_Empty</BGM>:그날 이후로 타에는 유난히 당신의 행동을 지켜보는 것 같았다.
+()||<BGM>2022_white_valentine_BGM1</BGM>:"같았다"라 한 이유는 심증만 있어서였다. 그저 타에와 마주치는 빈도가 조금 늘고, 그녀가 당신의 말에 더 자주 반응할 뿐이었으니까.
+NPC-Tae(0)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:에에에어웨. (당당하게 뭔가 따지는 듯하다.)
+NPC-Tae(0)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:응?
+()||:타에가 대뜸 손가락으로 당신을 가리키고, 탁상 위에 오징어채가 한가득인 접시를 가리켰다가, 짐가방을 퉁퉁 쳐댔다.
+()<Speaker>지휘관</Speaker>||:얘가 또 뭔 말을...
+()||<黑点1>:당신은 타에의 몸동작과 그 의미를 기록한 노트를 꺼내 대조해봤다.
+()||<黑点2>:약 10분 후, 대충 파악해냈다.
+()<Speaker>지휘관</Speaker>||:어... 설마 그러니까, 네가 나한테 오징어 줬으니까 이 짐가방에 들어갈 권리가 있단 뜻이야?
+NPC-Tae(3)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:응응응으응! (세차게 고개를 끄덕인다.)
+NPC-Tae(3)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:......<c>좋다.<c>안 된다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:으이구, 내가 졌다 졌어.
+()||<分支>1</分支>:당신은 너털웃음 섞인 한숨을 쉬면서 탁자의 오징어채를 가져왔다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:옜다, 다 먹어.
+NPC-Tae(1)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||<分支>1</分支><SE1>AVG_Bite</SE1>:꿀꺽. (당신 손 위의 오징어채만 한입에 삼켰다.)
+NPC-Tae(1)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||<分支>1</分支>:뭐야, 네가 들고 먹어야지. 내가 먹여 줘야겠니?
+NPC-Tae(1)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||<分支>1</分支>:흠흠흠. (기대하는 눈빛이다.)
+()||<分支>1</分支>:그러더니 웬걸, 타에가 오징어채 한 가닥을 집어 당신의 입가로 불쑥 들이댔다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:어... 나한테 먹여 주는 거야?
+NPC-Tae(1)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||<分支>1</分支>:............ (눈을 반짝이며 지그시 바라보는 중.)
+NPC-Tae(1)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||<分支>1</分支>:그럼 사양 않고 잘 먹을게.
+()||<分支>1</分支>:당신은 그 오징어채 한 가닥을 꼭꼭 씹어 먹었다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:안 돼, 타에. 나 이거 한 가닥도 안 건드렸어.
+NPC-Tae(3)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||<分支>2</分支><SE1>RunStep</SE1>:어어... 아아아아! (황급히 오징어채에 달려들었다.)
+NPC-Tae(3)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||<分支>2</分支>:그래그래, 너 다 먹어. 나는――컥?!
+()||<分支>2</分支><SE1>ClothingUp</SE1>:타에는 탁상의 오징어채 한 접시를 들기만 하고, 당신에게 돌아오더니 대뜸 당신의 목을 움켜잡았다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支><震屏>:크헉!?
+NPC-Tae(5)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||<分支>2</分支>:으어어어! (오징어채 한 접시를 번쩍 들었다.)
+NPC-Tae(5)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||<分支>2</分支>:크헉켁켁?! (통째로 내 입에 쑤셔넣을 셈이야?! 안 돼, 멈춰!)
+()||<分支>2</分支>:의외로 바로 알아들었는지 타에가 멈췄다. 당신도 한시름 놓으려던 찰나...+그녀가 살며시 접시를 내려놓고는 손가락으로 오징어채 한 가닥을 집어, 당신의 입에 천천히 넣었다.
+NPC-Tae(4)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||<分支>2</分支>:어아으으응! (어째 우쭐한 표정.)
+NPC-Tae(4)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||<分支>2</分支>:.....
+()||<分支>2</分支>:당신은 하는 수 없이 복잡한 심정으로 그 오징어채를 꼭꼭 씹어 먹었다.
+()<Speaker>지휘관</Speaker>||:나머진 너 다 먹어도 돼.
+NPC-Tae(1)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:......!+오아어!
+NPC-Tae(1)<Speaker>지휘관</Speaker><Position>0,-290</Position><Scale>1.3</Scale><同时置暗>||:"고마워"...? 맞나...
+NPC-Tae(1)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:우걱우걱우걱... (씹고 뜯고 맛을 즐기는 중.)
+()||:게걸스럽게 오징어채를 먹는 타에를 보고 있으니, 당신도 마음이 풀어져 버렸다.+꽉꽉 눌러 담았던 행낭 같던 마음은 지금 텅텅 빈 짐가방처럼 가벼워졌다.+결국 이곳을 떠나게 된다는 것은 변함없다. 하지만 오늘은 아니다. 어쩌면 내일도 아닐 수 있다.+그러니, 지금 곁의 즐거움을 만끽하지 않을 이유가 어디 있을까?
+()<Speaker>지휘관</Speaker>||:타에, 우리 맛있는 거 사 먹으러 마트 가자.
+NPC-Tae(3)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:꼬끼오—— 꼬꼬——!
+()||<黑屏1>:그 말을 들은 타에가 깨끗이 핥은 접시를 내려놓고 포효했다.+평범하고도 약간 소란스러운 오후는 그렇게 시작됐다.

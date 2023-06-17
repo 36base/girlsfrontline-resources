@@ -1,76 +1,76 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>187</BIN><黑屏2><BGM>m_va_digital_drive</BGM>:맹렬한 추격전이 계속되는 와중, 다나와 아키텍트의 차량은 엄청난 속도로 나란히 달렸지만 화이트 나이트는 저 멀리 뒤쳐졌다.
-SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>다나! 저 앞을 봐! 절벽이야!</color>
-BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||:<color=#00CCFF>헤헤, 날 곱게 놔줄 생각이 없구나?</color>
-Dana(0)<Speaker>다나</Speaker><通讯框>||:<color=#00CCFF>넌 내 마지막 사냥감인데 놔줄쏘냐. 꼬맹이, 아직 더 버틸 수 있지?</color>
-Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||<震屏>:<color=#00CCFF>뭐, 뭐뭐뭐, 뭘 하려고?!</color>
-Dana(0)<Speaker>다나</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>지금 네가 생각하는 대로! 그래, 바로 그거야!</color>
-Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>절벽이라니까! 정말 미쳤어!?</color>
-Dana(0)<Speaker>다나</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>넌 인형인데 팔다리 좀 부러져도 괜찮잖아?</color>
-Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>그럼 너는 어쩌고! 네가 죽으면 누가 날 데려가 줄 건데?!</color>
-Dana(0)<Speaker>다나</Speaker><通讯框>||:<color=#00CCFF>걱정 마, 내가 알아서 할 테니까! 꽉 잡아라!</color>
-BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||:<color=#00CCFF>브레이크 안 밟을 거야, 인간? 내가 너보다 더 빨리 반응한다에 내 예비 소체 3개 걸게. 그리고 그 3개를 진짜로 너에게 줄 만큼 목숨이 있다고!</color>
-Dana(0)<Speaker>다나</Speaker><通讯框>||:<color=#00CCFF>네 말이 맞아. 치킨 게임이라면 내게 승산은 전혀 없지...</color>+<color=#00CCFF>하지만, 난 밟을 생각 없어.</color>
-BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||<黑屏1><震屏>:<color=#00CCFF>뭐어어어?!</color>
-()<Speaker>다나</Speaker>||<BIN>9</BIN><黑屏2>:그럼 베이비——+나와 함께 발할라로 가자고!
-()<Speaker>Super-Shorty</Speaker>||:꺄아아아아악!!
-()<Speaker></Speaker>||:콰앙!+다나는 차를 몰아 아키텍트를 들이받았고, 함께 절벽 밑으로 추락했다.
-()<Speaker></Speaker>||:......+............
-()<Speaker>Super-Shorty</Speaker>||:콜록콜록... 퉤퉤...+젠장... 다나! 다나 너 어디 있어!
-()<Speaker>？？</Speaker>||:<color=#00CCFF>뚜—— 뚜——</color>+<color=#00CCFF>통화 상대가 전화를 받을 수 없어 연결할 수 없습니다.</color>
-()<Speaker>Super-Shorty</Speaker>||<黑屏1>:...!+아키텍트! 콜록...
-()<Speaker></Speaker>||<BIN>187</BIN><黑屏2>:아키텍트는 몸에 묻은 먼지를 털어내고 머리를 정리했다.
-BOSS-9(0)<Speaker>아키텍트</Speaker>||:푸하~ 이번엔 꽤 재밌었어! 하지만 날 잡으려면 원주민 한 명이랑 너 같은 꼬마로는 부족하단다.+길을 비켜, 지금 임무 중이거든.
-()<Speaker></Speaker>||:Super-Shorty는 힘겹게 몸을 일으켜 세운 후, 무기를 겨눴다.
-SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:첫 번째. 키 작다고 하지 마.+두 번째. 그대로 가게는 못 둬.
-SuperShorty(0);BOSS-9(0)<Speaker>아키텍트</Speaker>||:응? 내가 너한테 시비 건 적 있었나?
-SuperShorty(0)<Speaker>Super-Shorty</Speaker>;BOSS-9(0)||:기억 안 나. 하지만 네가 엄청 싫다는 것만은 알겠어...
-SuperShorty(0);BOSS-9(0)<Speaker>아키텍트</Speaker>||:뭐어? 정말 어이가 없네, 엑스큐셔너를 싫어한다 하면 이해 못할 것도 없는데. 그 녀석은 맨날 돈 빌리고 안 갚거든.+하지만 난 얌전하고 순수한 여자아이인걸? 아무도 해친 적 없어!+자, 빨리 비켜. 안 그럼 정말 화낼 거야.
-SuperShorty(0)<Speaker>Super-Shorty</Speaker>;BOSS-9(0)||<SE1>Select</SE1>:...안 돼.
-BOSS-9(0)<Speaker>아키텍트</Speaker>||:......+어휴... 이렇게 가까이서는 별로 쏘고 싶지 않은데. 하는 수 없지.+네가 안 비킨 거다, 꼬므엌!?
-()<Speaker></Speaker>||<震屏>:빵!+털썩.+아키텍트는 괴상한 비명과 함께 그대로 고꾸라졌다.
-Dana(0)<Speaker>다나</Speaker>||:휴우... 괜찮아, 꼬맹이?+역시 빵을 챙기고 다니면 도움이 될 때가 있다니까.
-Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:지금 빵으로... 인형을 쓰러뜨린 거야?
-Dana(0)<Speaker>다나</Speaker>;SuperShorty(0)||:그냥 빵이 아니야. 참깨 바게트지.+방금 그건 잘했어, 꼬맹아. 하지만 또 그렇게 무모한 짓은 삼가는 게 좋아.
-Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:내가 왜 이렇게 철혈을 싫어하는지 모르겠어...
-Dana(0)<Speaker>다나</Speaker>||:하하, 너 정말 화이트 나이트였던 거 아니야?
-()<Speaker>？？</Speaker>||<BGM>BGM_Empty</BGM>:화이트 나이트에 그런 짜리몽땅은 없어.
-Dana(0)<Speaker>다나</Speaker>||<BGM>m_va_troubling_news</BGM>:또 늦었네, 제리코. 차가 모래에 빠지기라라도 했어?
-Dana(0);Jericho(0)<Speaker>제리코</Speaker>||:아니. 우린 너처럼 정신없이 달리진 않아.+정말이지... 어딜 가든 널 만나게 되니까 점점 익숙해져 간다, 다나.
-Dana(0)<Speaker>다나</Speaker>;Jericho(0)||:그래? 난 아직도 화이트 나이트가 껄끄러운데. 특히 같은 사냥감을 쫓을 때엔 더욱.
-Dana(0);Jericho(0)<Speaker>제리코</Speaker>||:그런 행위를 보고 보통은 "공무집행방해"라 부르지.
-Dana(0)<Speaker>다나</Speaker>;Jericho(0)||:어감이 너무 험악하지 않아? 난 "우정"이라 부르는데.
-Jericho(0)<Speaker>제리코</Speaker>||:그딴 건 인간이나 믿지. 난 더 물질적인 것이 필요해.
-()<Speaker></Speaker>||:제리코는 기절한 아키텍트를 발로 툭툭 건드렸다.
-Jericho(0)<Speaker>제리코</Speaker>||:목표의 머리는 무사하군. 차에 실어서 메모리 모듈 스캔해.+드디어 마지막 철혈을 붙잡았군.
-Dana(0)<Speaker>다나</Speaker>;Jericho(0)||:내 덕에 붙잡은 건데, 고맙다고 말 한마디 건네는 건 어때? 그리고 차 좀 고치게 수리요정 몇 기 빌려줘.
-Jericho(0)<Speaker>제리코</Speaker>||:애초에 그건 네 차량이 아니잖아. 그리고 너 때문에 계획이 꼬였다고. 만약 이 녀석의 머리를 망가뜨렸다면 넌 오히려 구속감이었다.+그리고, 계엄령에 "적을 만난다면 위해를 가하지 말고 피할 것"이라는 문구를 보기는 했어?
-SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Jericho(0)||:그 아키텍트가 무슨 짓을 했는데?
-SuperShorty(0);Jericho(0)<Speaker>제리코</Speaker>||:녀석이 철혈인 것만으로도 충분하지. 그런데 이 짜리몽땅은 누구야?
-SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Jericho(0)||<震屏>:키 작다고 하지 마!
-Jericho(0)<Speaker>제리코</Speaker>||:다나, 원주민이 함부로 인형을 고용하는 것은 100년 전부터 금지됐다. 관련 수속은 했나?
-Dana(0)<Speaker>다나</Speaker>;Jericho(0)||:1시간 전에 주운 녀석이야. 자신이 누군지 기억이 안 난다는데, 그냥 그 자리에 내버려둘 순 없잖아.
-Jericho(0)<Speaker>제리코</Speaker>||:그렇군. 그럼 잠시 헤어져도 불만은 없겠지?
-SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:뭐야?
-Dana(0)<Speaker>다나</Speaker>||:제리코, 잠깐만. 얘 햇빛을 그렇게 많이 쬐진 않았어.
-Jericho(0)<Speaker>제리코</Speaker>||:다나, 우린 화이트 나이트의 최정예 765 블리츠크리그 군단이다. 얘가 햇빛을 얼마나 쬤는지는 관심 없어.+내가 걱정하는 건, 철혈과 접촉한 인형은 모두 [우산] 바이러스에 감염됐을 가능성이 있다는 거야.+특히나 이런 신원불명인 녀석은 말할 필요도 없지. 반드시 그리폰 기지로 데려가서 검사해야 해.
-SuperShorty(0)<Speaker>Super-Shorty</Speaker>||<黑屏1>:[우산] 바이러스?
-()<Speaker>다나</Speaker>||<BIN>35</BIN><黑屏2>:철혈의 컴퓨터 바이러스야. 그리폰의 인형에 침투하면 철혈의 두목인 엘더 브레인 [엘리사]가 그 인형을 철혈 인형처럼 부릴 수 있게 돼.
-()<Speaker>제리코</Speaker>||<黑屏1>:우리 765의 최종 목적은 엘리사를 붙잡아, 철혈이 그리폰 시티에 가져온 악몽에 종지부를 찍는 거지.+지금까지 체포한 철혈은 하나같이 엘리사에 대한 정보가 없었어. 이제 마지막 철혈 보스를 잡았으니, 틀림없이 이 녀석은 뭔가 알고 있을 거다.+운이 좋다면, 오늘 바로 엘리사를 붙잡아 철혈의 소란을 끝내버릴 수도 있겠지. 하지만 만일을 위해서 넌 검사를 받아야 한다.
-Dana(0)<Speaker>다나</Speaker>||<BIN>187</BIN><黑屏2>:그럼 미리 건투를 빌게, 제리코. 근데, 나도 얘랑 같이 기지에 가도 돼?
-Dana(0);Jericho(0)<Speaker>제리코</Speaker>||:정말 알게 된지 1시간밖에 안 된 사이 맞아? 마치 이 녀석의 친언니인 것처럼 행동하는군.
-Dana(0)<Speaker>다나</Speaker>;Jericho(0)||:이게 바로 원주민 스타일이라는 거야. 호감도 찍을 필요 없이 마음대로 하는 거지. 그리고 이 녀석, 내 여동생만큼이나 귀여운걸!
-Dana(0);Jericho(0)<Speaker>제리코</Speaker>||:그렇군. 내가 너와 면식을 익힌지도 오래 됐지만, 호감이 전혀 생기지 않는 것처럼 말이지?
-Dana(0)<Speaker>다나</Speaker>;Jericho(0)||:제리코 넌 진짜 융통성이라는 게 없구나.+그래도 난 네가 마음에 든다니까. 특히 날 위해 보수를 청구해줄 때 말이야.
-Jericho(0)<Speaker>제리코</Speaker>||:그러니까 네가 하는 짓은 공무집행방해라니까...+...어차피 최종 결정은 총리의 몫이지만. 한번 연락해보지.
-SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:......
-SuperShorty(0);Dana(0)<Speaker>다나</Speaker>||:걱정 마, 꼬맹이. 별거 아닌 일이니까.+기껏해야 외투나 벗는 정도일 거야. 치마까지 벗을 일은 거의 없어.
-SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Dana(0)||:겁먹은 거 아니거든!?+그저... 갑자기 너무 많은 일이 일어나서 정리가 잘 안 돼...
-Dana(0)<Speaker>다나</Speaker>||:걱정 말래도. 그리폰 시티가 엉망이긴 해도, 모래처럼 널 잡아먹지는 않아.
-Jericho(0)<Speaker>제리코</Speaker>;Dana(0)||:좋아. 축하한다, 다나.
-Jericho(0);Dana(0)<Speaker>다나</Speaker>||:억 소리 나는 보수 맞지?
-Jericho(0)<Speaker>제리코</Speaker>;Dana(0)||:우리 차량을 타고 함께 기지로 이동하고, 검사가 끝나면 이 짜리몽땅을 데리고 가도 돼. 이게 내가 널 위해 받아낸 보수다.
-Jericho(0);Dana(0)<Speaker>다나</Speaker>||:억... 하긴, 릴림 총리의 통큰 보상이 이 정도긴 하지.
-Jericho(0)<Speaker>제리코</Speaker>||:그 정도로 만족하도록. 총리께선 요즘 매우 바쁘시다고. 그리고 세계 최고의 특수 부대의 차로 모셔다주는 거니까 영광인 줄 알아. 전원, 현장 정리하고 귀환한다.
-SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:이제 그리폰 시티에 가는 거야?
-Dana(0)<Speaker>다나</Speaker>||<黑屏1>:그래. 넌 여전히 아무 기억도 안 나겠지만...+그리폰 시티에서는 분명 오히려 그런 게 더 나을 거야.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>187</BIN><黑屏2><BGM>m_va_digital_drive</BGM>:맹렬한 추격전이 계속되는 와중, 다나와 아키텍트의 차량은 엄청난 속도로 나란히 달렸지만 화이트 나이트는 저 멀리 뒤쳐졌다.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>다나! 저 앞을 봐! 절벽이야!</color>
+BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||:<color=#00CCFF>헤헤, 날 곱게 놔줄 생각이 없구나?</color>
+Dana(0)<Speaker>다나</Speaker><通讯框>||:<color=#00CCFF>넌 내 마지막 사냥감인데 놔줄쏘냐. 꼬맹이, 아직 더 버틸 수 있지?</color>
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||<震屏>:<color=#00CCFF>뭐, 뭐뭐뭐, 뭘 하려고?!</color>
+Dana(0)<Speaker>다나</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>지금 네가 생각하는 대로! 그래, 바로 그거야!</color>
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>절벽이라니까! 정말 미쳤어!?</color>
+Dana(0)<Speaker>다나</Speaker><通讯框>;SuperShorty(0)||:<color=#00CCFF>넌 인형인데 팔다리 좀 부러져도 괜찮잖아?</color>
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker><通讯框>||:<color=#00CCFF>그럼 너는 어쩌고! 네가 죽으면 누가 날 데려가 줄 건데?!</color>
+Dana(0)<Speaker>다나</Speaker><通讯框>||:<color=#00CCFF>걱정 마, 내가 알아서 할 테니까! 꽉 잡아라!</color>
+BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||:<color=#00CCFF>브레이크 안 밟을 거야, 인간? 내가 너보다 더 빨리 반응한다에 내 예비 소체 3개 걸게. 그리고 그 3개를 진짜로 너에게 줄 만큼 목숨이 있다고!</color>
+Dana(0)<Speaker>다나</Speaker><通讯框>||:<color=#00CCFF>네 말이 맞아. 치킨 게임이라면 내게 승산은 전혀 없지...</color>+<color=#00CCFF>하지만, 난 밟을 생각 없어.</color>
+BOSS-9(0)<Speaker>아키텍트</Speaker><通讯框>||<黑屏1><震屏>:<color=#00CCFF>뭐어어어?!</color>
+()<Speaker>다나</Speaker>||<BIN>9</BIN><黑屏2>:그럼 베이비——+나와 함께 발할라로 가자고!
+()<Speaker>Super-Shorty</Speaker>||:꺄아아아아악!!
+()<Speaker></Speaker>||:콰앙!+다나는 차를 몰아 아키텍트를 들이받았고, 함께 절벽 밑으로 추락했다.
+()<Speaker></Speaker>||:......+............
+()<Speaker>Super-Shorty</Speaker>||:콜록콜록... 퉤퉤...+젠장... 다나! 다나 너 어디 있어!
+()<Speaker>？？</Speaker>||:<color=#00CCFF>뚜—— 뚜——</color>+<color=#00CCFF>통화 상대가 전화를 받을 수 없어 연결할 수 없습니다.</color>
+()<Speaker>Super-Shorty</Speaker>||<黑屏1>:...!+아키텍트! 콜록...
+()<Speaker></Speaker>||<BIN>187</BIN><黑屏2>:아키텍트는 몸에 묻은 먼지를 털어내고 머리를 정리했다.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:푸하~ 이번엔 꽤 재밌었어! 하지만 날 잡으려면 원주민 한 명이랑 너 같은 꼬마로는 부족하단다.+길을 비켜, 지금 임무 중이거든.
+()<Speaker></Speaker>||:Super-Shorty는 힘겹게 몸을 일으켜 세운 후, 무기를 겨눴다.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:첫 번째. 키 작다고 하지 마.+두 번째. 그대로 가게는 못 둬.
+SuperShorty(0);BOSS-9(0)<Speaker>아키텍트</Speaker>||:응? 내가 너한테 시비 건 적 있었나?
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;BOSS-9(0)||:기억 안 나. 하지만 네가 엄청 싫다는 것만은 알겠어...
+SuperShorty(0);BOSS-9(0)<Speaker>아키텍트</Speaker>||:뭐어? 정말 어이가 없네, 엑스큐셔너를 싫어한다 하면 이해 못할 것도 없는데. 그 녀석은 맨날 돈 빌리고 안 갚거든.+하지만 난 얌전하고 순수한 여자아이인걸? 아무도 해친 적 없어!+자, 빨리 비켜. 안 그럼 정말 화낼 거야.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;BOSS-9(0)||<SE1>Select</SE1>:...안 돼.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:......+어휴... 이렇게 가까이서는 별로 쏘고 싶지 않은데. 하는 수 없지.+네가 안 비킨 거다, 꼬므엌!?
+()<Speaker></Speaker>||<震屏>:빵!+털썩.+아키텍트는 괴상한 비명과 함께 그대로 고꾸라졌다.
+Dana(0)<Speaker>다나</Speaker>||:휴우... 괜찮아, 꼬맹이?+역시 빵을 챙기고 다니면 도움이 될 때가 있다니까.
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:지금 빵으로... 인형을 쓰러뜨린 거야?
+Dana(0)<Speaker>다나</Speaker>;SuperShorty(0)||:그냥 빵이 아니야. 참깨 바게트지.+방금 그건 잘했어, 꼬맹아. 하지만 또 그렇게 무모한 짓은 삼가는 게 좋아.
+Dana(0);SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:내가 왜 이렇게 철혈을 싫어하는지 모르겠어...
+Dana(0)<Speaker>다나</Speaker>||:하하, 너 정말 화이트 나이트였던 거 아니야?
+()<Speaker>？？</Speaker>||<BGM>BGM_Empty</BGM>:화이트 나이트에 그런 짜리몽땅은 없어.
+Dana(0)<Speaker>다나</Speaker>||<BGM>m_va_troubling_news</BGM>:또 늦었네, 제리코. 차가 모래에 빠지기라라도 했어?
+Dana(0);Jericho(0)<Speaker>제리코</Speaker>||:아니. 우린 너처럼 정신없이 달리진 않아.+정말이지... 어딜 가든 널 만나게 되니까 점점 익숙해져 간다, 다나.
+Dana(0)<Speaker>다나</Speaker>;Jericho(0)||:그래? 난 아직도 화이트 나이트가 껄끄러운데. 특히 같은 사냥감을 쫓을 때엔 더욱.
+Dana(0);Jericho(0)<Speaker>제리코</Speaker>||:그런 행위를 보고 보통은 "공무집행방해"라 부르지.
+Dana(0)<Speaker>다나</Speaker>;Jericho(0)||:어감이 너무 험악하지 않아? 난 "우정"이라 부르는데.
+Jericho(0)<Speaker>제리코</Speaker>||:그딴 건 인간이나 믿지. 난 더 물질적인 것이 필요해.
+()<Speaker></Speaker>||:제리코는 기절한 아키텍트를 발로 툭툭 건드렸다.
+Jericho(0)<Speaker>제리코</Speaker>||:목표의 머리는 무사하군. 차에 실어서 메모리 모듈 스캔해.+드디어 마지막 철혈을 붙잡았군.
+Dana(0)<Speaker>다나</Speaker>;Jericho(0)||:내 덕에 붙잡은 건데, 고맙다고 말 한마디 건네는 건 어때? 그리고 차 좀 고치게 수리요정 몇 기 빌려줘.
+Jericho(0)<Speaker>제리코</Speaker>||:애초에 그건 네 차량이 아니잖아. 그리고 너 때문에 계획이 꼬였다고. 만약 이 녀석의 머리를 망가뜨렸다면 넌 오히려 구속감이었다.+그리고, 계엄령에 "적을 만난다면 위해를 가하지 말고 피할 것"이라는 문구를 보기는 했어?
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Jericho(0)||:그 아키텍트가 무슨 짓을 했는데?
+SuperShorty(0);Jericho(0)<Speaker>제리코</Speaker>||:녀석이 철혈인 것만으로도 충분하지. 그런데 이 짜리몽땅은 누구야?
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Jericho(0)||<震屏>:키 작다고 하지 마!
+Jericho(0)<Speaker>제리코</Speaker>||:다나, 원주민이 함부로 인형을 고용하는 것은 100년 전부터 금지됐다. 관련 수속은 했나?
+Dana(0)<Speaker>다나</Speaker>;Jericho(0)||:1시간 전에 주운 녀석이야. 자신이 누군지 기억이 안 난다는데, 그냥 그 자리에 내버려둘 순 없잖아.
+Jericho(0)<Speaker>제리코</Speaker>||:그렇군. 그럼 잠시 헤어져도 불만은 없겠지?
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:뭐야?
+Dana(0)<Speaker>다나</Speaker>||:제리코, 잠깐만. 얘 햇빛을 그렇게 많이 쬐진 않았어.
+Jericho(0)<Speaker>제리코</Speaker>||:다나, 우린 화이트 나이트의 최정예 765 블리츠크리그 군단이다. 얘가 햇빛을 얼마나 쬤는지는 관심 없어.+내가 걱정하는 건, 철혈과 접촉한 인형은 모두 [우산] 바이러스에 감염됐을 가능성이 있다는 거야.+특히나 이런 신원불명인 녀석은 말할 필요도 없지. 반드시 그리폰 기지로 데려가서 검사해야 해.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||<黑屏1>:[우산] 바이러스?
+()<Speaker>다나</Speaker>||<BIN>35</BIN><黑屏2>:철혈의 컴퓨터 바이러스야. 그리폰의 인형에 침투하면 철혈의 두목인 엘더 브레인 [엘리사]가 그 인형을 철혈 인형처럼 부릴 수 있게 돼.
+()<Speaker>제리코</Speaker>||<黑屏1>:우리 765의 최종 목적은 엘리사를 붙잡아, 철혈이 그리폰 시티에 가져온 악몽에 종지부를 찍는 거지.+지금까지 체포한 철혈은 하나같이 엘리사에 대한 정보가 없었어. 이제 마지막 철혈 보스를 잡았으니, 틀림없이 이 녀석은 뭔가 알고 있을 거다.+운이 좋다면, 오늘 바로 엘리사를 붙잡아 철혈의 소란을 끝내버릴 수도 있겠지. 하지만 만일을 위해서 넌 검사를 받아야 한다.
+Dana(0)<Speaker>다나</Speaker>||<BIN>187</BIN><黑屏2>:그럼 미리 건투를 빌게, 제리코. 근데, 나도 얘랑 같이 기지에 가도 돼?
+Dana(0);Jericho(0)<Speaker>제리코</Speaker>||:정말 알게 된지 1시간밖에 안 된 사이 맞아? 마치 이 녀석의 친언니인 것처럼 행동하는군.
+Dana(0)<Speaker>다나</Speaker>;Jericho(0)||:이게 바로 원주민 스타일이라는 거야. 호감도 찍을 필요 없이 마음대로 하는 거지. 그리고 이 녀석, 내 여동생만큼이나 귀여운걸!
+Dana(0);Jericho(0)<Speaker>제리코</Speaker>||:그렇군. 내가 너와 면식을 익힌지도 오래 됐지만, 호감이 전혀 생기지 않는 것처럼 말이지?
+Dana(0)<Speaker>다나</Speaker>;Jericho(0)||:제리코 넌 진짜 융통성이라는 게 없구나.+그래도 난 네가 마음에 든다니까. 특히 날 위해 보수를 청구해줄 때 말이야.
+Jericho(0)<Speaker>제리코</Speaker>||:그러니까 네가 하는 짓은 공무집행방해라니까...+...어차피 최종 결정은 총리의 몫이지만. 한번 연락해보지.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:......
+SuperShorty(0);Dana(0)<Speaker>다나</Speaker>||:걱정 마, 꼬맹이. 별거 아닌 일이니까.+기껏해야 외투나 벗는 정도일 거야. 치마까지 벗을 일은 거의 없어.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>;Dana(0)||:겁먹은 거 아니거든!?+그저... 갑자기 너무 많은 일이 일어나서 정리가 잘 안 돼...
+Dana(0)<Speaker>다나</Speaker>||:걱정 말래도. 그리폰 시티가 엉망이긴 해도, 모래처럼 널 잡아먹지는 않아.
+Jericho(0)<Speaker>제리코</Speaker>;Dana(0)||:좋아. 축하한다, 다나.
+Jericho(0);Dana(0)<Speaker>다나</Speaker>||:억 소리 나는 보수 맞지?
+Jericho(0)<Speaker>제리코</Speaker>;Dana(0)||:우리 차량을 타고 함께 기지로 이동하고, 검사가 끝나면 이 짜리몽땅을 데리고 가도 돼. 이게 내가 널 위해 받아낸 보수다.
+Jericho(0);Dana(0)<Speaker>다나</Speaker>||:억... 하긴, 릴림 총리의 통큰 보상이 이 정도긴 하지.
+Jericho(0)<Speaker>제리코</Speaker>||:그 정도로 만족하도록. 총리께선 요즘 매우 바쁘시다고. 그리고 세계 최고의 특수 부대의 차로 모셔다주는 거니까 영광인 줄 알아. 전원, 현장 정리하고 귀환한다.
+SuperShorty(0)<Speaker>Super-Shorty</Speaker>||:이제 그리폰 시티에 가는 거야?
+Dana(0)<Speaker>다나</Speaker>||<黑屏1>:그래. 넌 여전히 아무 기억도 안 나겠지만...+그리폰 시티에서는 분명 오히려 그런 게 더 나을 거야.

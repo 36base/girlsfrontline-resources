@@ -1,0 +1,116 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>313</BIN><narrator>:심야, 모스크바, 술집 "진".
+()||<SE1>AVG_20Winter_Bar_Cheering</SE1>:시끄러운 언더그라운드 랩으로 가득 찬 홀에서, 바텐더는 꾸준히 술잔을 닦으며 이따금씩 손님들의 잡담에 끼어들고는 했다.
+()<Speaker>바텐더</Speaker>||:...음?
+()||<SE1>Stop_AVG_loop</SE1><SE2>AVG_whitenoise</SE2>:치직... 벽걸이 스크린 속, 댄스걸이 화끈한 춤을 추는 영상이 갑자기 흐려지고 구겨졌다.+그러더니 끝내 영상은 아예 꺼져버리고 노이즈만 남았다.
+()||:손님들은 바로 원성을 터뜨렸지만, 바텐더는 고개를 숙이고 키득거렸다.
+()<Speaker>바텐더</Speaker>||<BGM>GF_21winter_avg_nightbar</BGM>:오랜만입니다, 매기 씨.
+ColtWalker(1)<Speaker>매기</Speaker>||:우훗.
+()||:한 여인이 어느새 홀연히 나타나, 주위는 아랑곳 않고 카운터 앞에 앉았다.
+()<Speaker>바텐더</Speaker>||:계속 그렇게 우리집 스크린을 갖고 놀다간 완전히 망가지겠습니다.
+ColtWalker(1)<Speaker>매기</Speaker>||:하하, 걱정 마.+돈 물어줘야 하는 일은 안 하니까.
+()||<SE1>AVG_Button_Click</SE1>:매기가 손가락으로 허리춤의 재머를 툭툭 두드리자, 늘씬한 몸매의 댄스걸이 춤추는 영상이 돌아왔다.
+ColtWalker(1)<Speaker>매기</Speaker>||:항상 앉던 자리, 항상 시키던 걸로.
+ColtWalker(1)<Speaker>바텐더</Speaker><同时置暗>||:예.
+()||<SE1>AVG_footsteps_cave</SE1>:매기는 눈에 띄지 않는 구석에 들어가 주문한 술을 기다렸다.
+()||<SE1>Stop_AVG_loop</SE1>:바텐더는 눈치 좋게 데킬라를 담은 술잔, 소금과 레몬 슬라이스를 담은 접시를 내놓았다.
+ColtWalker(1)<Speaker>매기</Speaker>||:고마워.
+()||<SE1>ClothingUp</SE1>:매기는 왼손으로 소금을 한 줌 집고, 오른손의 검지와 엄지로 가느다란 술잔을 잡는 동시에 중지와 약지로 레몬 슬라이스를 집었다.
+()||<SE1>AVG_20Winter_Drink_Tea</SE1>:그리고는 왼손의 소금을 핥은 다음 단숨에 술을 들이켰다.
+ColtWalker(1)<Speaker>매기</Speaker>||:캬아~ 시원하다!
+()||<SE1>AVG_20Winter_Door_Car_Close</SE1>:매기는 길게 숨을 내쉬고선, 카운터에 털썩하고 엎어졌다.
+()||<SE1>AVG_20Winter_Bar_Cheering_V2</SE1>:바텐더는 계속해서 잔을 닦고, 주변 손님들도 영양가 없는 이야기를 왁자지껄 떠들었다. 인형 하나가 술에 곯아떨어진 건 아무도 신경쓰지 않았다.+심야의 술집이라면 술에 떡이 된 녀석은 언제나 있기 마련이니까.
+()||<黑屏1><BGM>BGM_Empty</BGM><SE1>Stop_AVG_loop</SE1>:
+()||<黑屏2><BIN>527</BIN><narrator>:매기의 마인드맵 공간 "콜트 익스프레스"
+()||<BGM>GF_2022_Summer_AVG_1</BGM>:오일 램프, 유채화, 목제 테이블... 지난 세기의 서부 열차를 거의 완벽하게 복사한 공간에다가, 창밖으로 지나가는 풍경도 끝이 안 보이는 초원의 야경이었다.+만약 아직도 진짜 카우보이가 있다면 분명 이 "콜트 익스프레스"에서 고향에 온 기분이 들 것이다.+그렇다, 이름마저 카우보이들이 가장 애용하는 리볼버 권총에서 딴 것이다.
+ColtWalker(1)<Speaker>매기</Speaker>||:뭔가 좀 부족한데.
+()||<SE1>AVG_20Winter_Whistle</SE1>:매기가 손가락을 튕기자, 얼음을 띄운 위스키가 에피타이저처럼 테이블 위에 나타났다.
+ColtWalker(1)<Speaker>매기</Speaker>||:...으흥, 이래야 좀 일하는 느낌이 나지.+자, 어서 일하자, 캐서린, 큄비.
+NPC-Scalper(3)<Speaker>캐서린</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>잠깐, 매기, 너 소체는 어디다가 뒀어? 또 그 술집에?</color>
+NPC-Scalper(3)<通讯框>;ColtWalker(1)<Speaker>매기</Speaker>||:어, 처리할 일이 많아서 너 올 때까지 못 기다리겠더라고.
+NPC-Scalper(3)<Speaker>캐서린</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>네가 거기 단골이긴 해도... 누가 소체를 옆에서 봐주지 않으면 불안하다니까...</color>
+NPC-Scalper(3)<通讯框>;ColtWalker(1)<Speaker>매기</Speaker>||:괜한 걱정이야, 누가 날 함부로 못 건드리게 바텐더가 잘 지킬 테니까.
+NPC-Scalper(3)<Speaker>캐서린</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>믿을만한 사람인 건 알지만 그래도...</color>
+NPC-Scalper(3)<通讯框>;ColtWalker(1)<Speaker>매기</Speaker>||:그래도 뭐? 네가 보안 가지고 이래라저래라 할 자격이 있냐? 너한테 맡겼다가 끌려간 게 최소 세 번이다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>야 임마, 옛날 일은 꺼내지 말라니까!</color>
+NPC-Scalper(3)<通讯框>;ColtWalker(1)<Speaker>매기</Speaker>||:큄비는?
+NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>준비됐어요, 마스터!</color>+<color=#00CCFF>거래 데이터 업데이트 마쳤습니다.</color>
+NPC-Quimby(0)<通讯框>;ColtWalker(1)<Speaker>매기</Speaker>||:크레딧 전부 사르디스 골드로 환금하려면 얼마나 걸려?
+NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>금괴 거래가 요즘 엄청 핫해요. 다들 거래할 때마다 크레딧 시스템에 기록이 남는 것에 진절머리 났나 봐요.</color>+<color=#00CCFF>계산해 보니까 전부 환금하려면 15영업일은 걸려요. 특히 주식하고 부동산 쪽이 오래 걸려서요.</color>
+NPC-Quimby(0)<通讯框>;ColtWalker(1)<Speaker>매기</Speaker>||:좋아, 오늘부터 데킬라 제조회사 주식을 사는 모든 자금은 현금 거래만 받는다.
+NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>네, 그리고 이게 최신 명세서예요.</color>
+NPC-Quimby(0)<通讯框>;ColtWalker(1)<Speaker>매기</Speaker>||:어디 보자.
+NPC-Scalper(1)<Speaker>캐서린</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>일단 몇 자리수인지 세볼게...</color>+<color=#00CCFF>매기!!! 우리 대박났다!!!</color>
+NPC-Scalper(1)<通讯框>;ColtWalker(1)<Speaker>매기</Speaker>||:...아직 호들갑 떨지 마, 자금을 개인 계좌에 옮겨야 우리 것이 되는 거야.
+NPC-Scalper(0)<Speaker>캐서린</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>쳇, 보너스도 가불 안 해주면서, 기쁨도 가불받으면 안 돼?</color>
+NPC-Scalper(0)<通讯框>;ColtWalker(1)<Speaker>매기</Speaker>||:그럼 좋은 소식 하나 더 알려줄게, 지금도 계속 큰 돈을 보내주는 사람이 있어.+지금 우리가 수다 떠는 동안에도 공작급 가정의 개인 변호사가 연락해왔어.
+NPC-Scalper(0)<Speaker>캐서린</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>꺄하하하, 이런 아이디어를 생각해내다니, 넌 정말 천재야!</color>
+ColtWalker(1)<Speaker>매기</Speaker>||:...내가 처음 생각해낸 것도 아니야, 난 그냥 역사를 공부하기 좋아하는 거지.+반면 인간들은 교훈을 배우는 게 엄청 서툴거든.
+()||<SE1>AVG_tele_connect</SE1>:딸랑딸랑——+매기의 개인 통신이 울렸다.
+ColtWalker(1)<Speaker>매기</Speaker>||:뭔 일이야, 니콜라스?
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker><通讯框>||:<color=#00CCFF>매기, 이번 달 치 내 배당금 이틀 미리 보내줘, 나 독일에 갔다와야 해.</color>
+NPC-Scalper(3)<Speaker>캐서린</Speaker><通讯框>||:<color=#00CCFF>......</color>
+NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>||:<color=#00CCFF>......</color>
+ColtWalker(1)<Speaker>매기</Speaker>||:걱정 마, 차단 켰으니까. 너희는 쟤가 보여도, 쟨 너희가 안 보여.
+NPC-Scalper(3)<Speaker>캐서린</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>그래서 저 머저리가 또 뭐 하려는 건데?</color>
+NPC-Scalper(3)<通讯框>;ColtWalker(1)<Speaker>매기</Speaker>||:태도 주의해, 캐서린. 돈 주는 사람은 모두 갑이야.+네가 나 대신 통화하면서 대충 상대해줘. 아무 얘기나 하면서 화제 돌리면 돼.+아 맞다, 뭐 파티에 초대한다는 말엔 함부로 대답하지 마, 지금 우리는 일분일초가 다 돈이야.
+NPC-Scalper(3)<Speaker>캐서린</Speaker><通讯框>;ColtWalker(1)||:<color=#00CCFF>알았어, 해볼게.</color>
+ColtWalker(1)<Speaker>매기</Speaker>||:큄비, 계속 일 처리해.
+NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>||:<color=#00CCFF>네.</color>
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker><通讯框>||:<color=#00CCFF>매기, 왜 대답 안 해?</color>
+NPC-Scalper(0)<Speaker>매기</Speaker><通讯框>||:<color=#00CCFF>방금 뭐 좀 확인하느라.</color>+<color=#00CCFF>그런 건 미리 말해야지, 방금 막 이번 달 장부 결산 끝냈는데, 또 고치면 처음부터 계산해야 되잖아.</color>
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker><通讯框>||:<color=#00CCFF>그럼 다른 사람 지분에서 임시로 떼서 주든가.</color>
+NPC-Scalper(3)<Speaker>매기</Speaker><通讯框>||:<color=#00CCFF>이미 다 투자에 질러버렸는데...</color>
+()||:니콜라스의 안색이 눈에 띄게 불쾌해졌다.
+ColtWalker(3)<Speaker>매기</Speaker>||:...아니 됐다, 캐서린. 너는 내가 전에 말한 계좌 문제나 보고 있어.+저번에 네가 저 녀석하고 말다툼 나서 관계 복구하는데 겁나 오래 걸렸다고.
+NPC-Scalper(3)<Speaker>캐서린</Speaker><通讯框>||:<color=#00CCFF>하아, 머저리는 상대하기 힘들다니까.</color>+<color=#00CCFF>네가 말한 그 계좌 몇 번지에 있더라? 주소 보내줘. 아니 이 시대에 무슨 거래하는데 여전히 오프라인 인증을 해야 되는 건데.</color>
+NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>||:<color=#00CCFF>주소 보냈어요!</color>
+()||<SE1>ClothingUp</SE1>:캐서린은 어깨를 으쓱하고, 등을 돌려 큄비와 계좌 문제를 처리했다.+매기가 다시 니콜라스의 통신을 받았다.
+ColtWalker(2)<Speaker>매기</Speaker>||:에이, 내가 항상 널 가장 먼저 생각하는 거 알잖아.+근데 장부 정리 겨우 끝났는데 그걸 또 건드리면 성가시다고.+아님 이렇게 하자, 저번에 네가 눈독들인 벤처기업의 주식 200주를 네 명의로 돌리는 건 어때? 네가 추가로 산 거라 치고.
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker><通讯框>;ColtWalker(2)||:<color=#00CCFF>제안은 고맙지만, 지금 급하게 현금이 필요해.</color>
+NPC-NervousMan(0)<通讯框>;ColtWalker(3)<Speaker>매기</Speaker>||:......+무슨 일인지 살짝 말해줄 수 있을까? 다른 방법이 없나 찾아보게.
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>독일에 가서 새 지부를 세워야 돼.</color>
+NPC-NervousMan(0)<通讯框>;ColtWalker(2)<Speaker>매기</Speaker>||:축하한다 야! 그나저나 독일이라...+좋은 생각이 났다, 독일 쪽 회사 황금주를 좀 줄게, 그럼 가서 환율 걱정할 필요도 없잖아.
+NPC-NervousMan(0)<Speaker>니콜라스</Speaker><通讯框>;ColtWalker(2)||:<color=#00CCFF>...좋아. 그럼 기다릴게, 지금 내가 쓰는 계정 보낼 테니까.</color>+<color=#00CCFF>보냈으니까 확인해 줘.</color>
+ColtWalker(3)<Speaker>매기</Speaker>||:캐서린, 네가 처리해줘.
+NPC-Scalper(3)<Speaker>캐서린</Speaker><通讯框>||:<color=#00CCFF>알았어.</color>
+()||<BGM>BGM_Empty</BGM><SE1>AVG_21Winter_Click_Keyboard</SE1>:캐서린은 거침없이 단말기를 조작하던 중 문득 고개를 들었다. 손의 움직임도 멈춰 있었다.
+NPC-Scalper(3)<Speaker>캐서린</Speaker><通讯框>||:<color=#00CCFF>잠깐——</color>+<color=#00CCFF>매기, 좀 이상해...</color>
+()||<BGM>GF_21winter_avg_betray</BGM><SE1>AVG_tele_disconnect</SE1>:지지직——+캐서린의 화면이 툭 끊어졌다.
+ColtWalker(4)<Speaker>매기</Speaker>||:...큄비, 즉시 자료 파기 실시해.
+NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>||:<color=#00CCFF>네!</color>
+()||<SE1>AVG_whitenoise</SE1>:큄비는 파기 명령을 긴급 실행했다. 원래대로라면 물 흐르듯 이어져야 할 시스템 알림음이 매기 귀에는 지리멸렬하게 끊어져 들렸다.
+NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>||:<color=#00CCFF>...명령...실행 중...</color>
+NPC-Quimby(0)<通讯框>;ColtWalker(3)<Speaker>매기</Speaker>||:오늘 시스템에 어디 고장이 났나...
+NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>;ColtWalker(3)||:<color=#00CCFF>마, 마스터... 마스터가... 사라지고 있어요...</color>
+NPC-Quimby(0)<通讯框>;ColtWalker(3)<Speaker>매기</Speaker>||:내가?+......+...내 프로세스가... 종료됐어...
+NPC-Quimby(0)<Speaker>큄비</Speaker><通讯框>||:<color=#00CCFF>매...기...!</color>
+()||:찻간 안의 단단한 나무바닥이 솜뭉치처럼 물렁하게 찌그러졌다. 주변의 모든 것이 뒤틀리게 보이고, 매기의 의식이 점점 멀어져갔다...
+()||<黑屏1>:
+()||<睁眼><BIN>313</BIN>:매기는 눈을 뜨고, 술집 구석 테이블 위에 엎드려 있는 자신을 발견했다.
+()||<SE1>Select</SE1>:그리고 뒤통수를 차가운 쇠붙이가 누르고 있는 감촉이 뚜렷하게 느껴졌다.
+ColtWalker(3)<Speaker>매기</Speaker>||:......
+ColtWalker(3)<Speaker>바텐더</Speaker><同时置暗>||:매기 씨...
+()||:매기가 살짝 시선을 들어보니, 바텐더가 두 손을 번쩍 들고 총을 든 거한 몇 명에게 붙잡혀 있는 것이 보였다.
+ColtWalker(1)<Speaker>매기</Speaker>||:이게 무슨 상황이야?
+ColtWalker(1)<Speaker>바텐더</Speaker><同时置暗>||:......
+()||<SE1>AVG_footsteps_cave</SE1>:두목처럼 보이는 남성이 느긋하게 카운터에 들어가, 투명한 술잔을 하나 꺼내 스스로 보드카를 한 잔 따랐다.
+()<Speaker>험상궂은 남성</Speaker>||<SE1>Stop_AVG_loop</SE1>:내가 직접 설명하지.+매기 아가씨, 류바 할멈이 안부 좀 전해주란다.
+()||:매기는 살짝 고개를 기울여 그 사람의 팔뚝에 있는 문신을 봤다.+정확히는 팔뚝뿐만 아니라, 겉에 드러난 살갗 거의 전부가 문신으로 뒤덮여 있었다.+각종 모양의 해골바가지, 무릎 위엔 별 모양, 담배피는 흉터난 남자 얼굴...
+ColtWalker(3)<Speaker>매기</Speaker>||:...보르 브 자코녜.
+()||<SE1>AVG_va_addingredient</SE1>:차가운 독한 술이 머리 위에 부어져 매기의 얼굴을 타고 흘렀다.+옆에 선 도적이 흥미진진하게 손에 든 보드카가 흘러내리는 모습을 지켜봤다.
+()||<SE1>AVG_File_Put</SE1>:곧 병이 텅 비고, 그는 빈 병을 아무렇게나 바텐더에게 던졌다.
+ColtWalker(1)<Speaker>매기</Speaker>||:......+우리 아는 사이였나? 난 기억에 없는데.
+ColtWalker(1)<Speaker>도적단 남자</Speaker><同时置暗>||:니콜라스 바실리예비치, 모르는 이름은 아니겠지?
+ColtWalker(1)<Speaker>매기</Speaker>||:내 고객이야, 그것 말곤 아무 관계 없어.
+ColtWalker(1)<Speaker>도적단 남자</Speaker><同时置暗>||:그럼 함부로 고객의 재산을 이리저리 옮기는 게 네 경영법이냐?
+()||:도적은 선한 미소를 유지하면서 몸을 숙이더니...
+()||<SE1>AVG_Broken_Glass</SE1>:쾅——! 술병을 냅다 들어 매기의 머리를 내리쳤다.+붉은 와인에 매기의 피가 섞인 채 얼굴을 타고 흘렀다, 그럼에도 그녀는 여전히 매혹적인 미소를 지었다.
+ColtWalker(1)<Speaker>매기</Speaker>||:댁은 이번에 날 처음 찾아와서 잘 모르는 게 몇 가지 있나 본데...
+()||:매기가 손가락으로 동전 하나를 튕겨 올렸다.
+ColtWalker(1)<Speaker>매기</Speaker>||:우리 가게에 룰은 단 하나——+외상 사절이야.
+()||<黑屏1>:
+()||<黑屏2><BIN>9</BIN>:
+()||<SE1>AVG_21Winter_Open_Light</SE1>:퉁, 안 그래도 음침한 술집이 칠흑에 잠겼다.
+()<Speaker>도적단 남자</Speaker>||:저년 잡아! 놓치지 마!
+()||<黑屏1>:

@@ -1,49 +1,49 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>1</BIN>:......
-()<Speaker></Speaker>||:어두운 밤을 틈타, 수상한 트럭 한 대가 교외의 숲을 지나 진흙투성이인 비포장 도로를 달렸다.
-NPC-handyman(0)<Speaker>브로커</Speaker>||:어우 진짜...
-()<Speaker></Speaker>||:무거운 트럭이 도로 위의 불룩 튀어나온 곳에 덜컹 흔들리자, 운전하는 남자의 입에서 절로 욕이 나왔다.+그래도 이 지긋지긋한 일도 오늘로 끝이니 그에겐 다행이었다.+트럭은 한참을 달려, 어느 3층 높이의 하얀 건물 앞에 멈춰 섰다.+위에 고압 전류가 흐르는 철망이 쳐진 높은 장벽으로 둘러싸인 이 창고는, 감시 카메라도 사각지대가 없도록 곳곳에 배치되어 있었다.+인적이 거의 없는 곳임에도, 여길 도둑질하려 할 사람은 필시 죽고 싶어 환장한 사람밖에 없을 터였다.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Horn_Car</SE1>:이런 생각이 머릿속에 스친 브로커는 피식했지만, 아직 일하는 중이었기에 빵빵 경적을 울렸다.
-NPC-handyman(0)<Speaker>브로커</Speaker>||:배달 왔습니다!
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Gate_Close</SE1>:드르르륵...+정문이 서서히 열렸다.
-Nyto(0)<Speaker>？？</Speaker>||<BGM>BGM_Brain</BGM>:......
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Car_Open</SE1>:그리고 그 안에서, 이미 몇 번이고 본 검은 옷차림의 여성이 걸어 나왔다.+문이 열리는 걸 본 브로커도 차에서 내려 목관절을 꺾었다.+벌써 몇 번이나 봤지만, 몸의 절반 이상이 기계로 대체된 저 여자는 볼 때마다 기괴해서 소름이 끼쳤다. 하지만 괜한 호기심은 고양이를 죽인다는 걸 브로커는 잘 알았다.
-NPC-handyman(0)<Speaker>브로커</Speaker>||:이번엔 화물이 너무 많았어요. 다음엔 미리 좀 알려 주십쇼, 네?
-Nyto(0)<Speaker>？？</Speaker>||:빠짐없이 가져왔습니까?
-NPC-handyman(0)<Speaker>브로커</Speaker>||:그야 물론입죠.
-Nyto(0)<Speaker>？？</Speaker>||:당분간 의뢰할 일은 없습니다.+다음에 필요할 때 다시 연락하겠습니다.+이만 돌아가도 좋습니다.
-NPC-handyman(0)<Speaker>브로커</Speaker>||:......쯧.
-()<Speaker></Speaker>||:이렇게 함께 일하게 된 지도 꽤 됐지만, 이 검은 옷의 소녀가 브로커를 대하는 태도는 전혀 변하지 않았다.+대기업에서 일하는 녀석 눈에 자신 같은 사람은 길가의 돌멩이처럼 보이나 하고, 브로커는 투덜댔다.
-NPC-handyman(0)<Speaker>브로커</Speaker>||:다음엔 더 받을 겁니다!+이렇게 위험한 물건을 감옥으로 보내다 걸려서 죽고 싶진 않다고요!
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Car_Close</SE1>:한시라도 빨리 이 빌어먹을 곳을 떠나고 싶은 마음에, 브로커는 서둘러 트럭에 다시 올랐다.+부르릉...+엔진에 시동이 걸리고, 트럭은 왔던 길을 따라 사라졌다.
-Nyto(0)<Speaker>？？</Speaker>||:......
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Gate_Close</SE1>:검은 옷의 소녀... "니토"라 불리는 존재는, 트럭이 멀리 떠나는 것을 지켜보고 주위를 살펴본 다음에야 천천히 건물 안으로 돌아갔다.
-()<Speaker></Speaker>||:그리고 문은 다시 굳게 닫혔다.
-()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:파직.
-()<Speaker></Speaker>||:니토가 건물 안으로 들어가고 잠시 후, 장벽 한구석의 고압 전류 철망이 잠깐 반짝이더니 전원이 꺼졌다.+――――+그와 동시에, 재빠른 그림자가 발자국을 남기면서 벽을 뛰어넘었다.+몸을 굴려 반대편에 착지한 그림자는 4개. 모두 군더더기 없는 움직임이었다.
-()<Speaker>？？？</Speaker>||:감시 카메라 차단 완료.
-()<Speaker>？？？</Speaker>||:이동하는 물체, 없음.
-()<Speaker>？？</Speaker>||:좋아, 전진.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:몸을 숨기고 은밀하게 속삭이는 소리가, 그들의 기척과 함께 그늘 속으로 사라졌다.
-()<Speaker></Speaker>||:......
-AK12(0)<Speaker>AK12</Speaker><Position>0,90</Position>||:좌측 이상 무.
-AK15(0)<Speaker>AK15</Speaker>||:우측 이상 무.
-RPK16(0)<Speaker>RPK16</Speaker>||<SE1>AVG_tele_connect</SE1>:보안 시스템에 접속 중.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:방금 밖으로 나온 놈 봤지?
-NPC-Ange(0);AK15(0)<Speaker>AK15</Speaker>||:니토였습니다.
-NPC-Ange(0);AK12(0)<Speaker>AK12</Speaker><Position>0,60</Position>||:당당해도 너무 당당해서 어이가 없네 정말.+설마 아무도 못 알아볼 줄 알고 저러나?
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;AK12(0)||:베를린 교도소의 밀수 루트를 아는 브로커도 몇 안 되는데, 그중에 환각제를 옮길 수 있는 능력자라면 손에 꼽을 정도잖아.+그런데 딱히 신중하게 다루지도 않는구만.
-NPC-Ange(0);RPK16(0)<Speaker>RPK16</Speaker>||:아마 한두 번 일을 시키면 바로 입막음하고 다른 사람으로 바꿔서일 거예요.+하지만 암시장이란 건 다 네트워크가 있어서, 누가 갑자기 사라지면 다 알려질 텐데 말이죠.+악평밖에 안 생길 텐데도 그런다면... 근방의 지하조직이 머저리던가, 이 일의 배후가 바로 암시장 네트워크의 관리자던가겠네요.
-NPC-Ange(0);AK15(0)<Speaker>AK15</Speaker>||:이 건물은 갈라테아 그룹 소유입니다.+등록된 담당 법인은... 그레이.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:정말 모든 단서가 그 여자로 이어지는군. 그물을 끌어올릴 때가 금방 오겠어.+안으로 진입 가능하겠어?
-RPK16(0)<Speaker>RPK16</Speaker>||<SE1>AVG_21Winter_Error</SE1>:보안 시스템이 엄청 복잡해서, 카메라 화면 위조하고 경보 시스템 꺼버리는 게 다예요. 나머지는 모두의 솜씨에 달렸죠.
-AK15(0)<Speaker>AK15</Speaker>||:안젤리아가 동행할 필요는 없었습니다. AN-94와 함께 아파트에 남는 편이 나았다고 봅니다만.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그 꼬맹이는 AN-94 혼자서로 충분해.+거기에 나만 있으면 너희가 어디 갔는지 녀석이 물어볼 거 아니야.+그리고... 이런 건 직접 확인해야 성에 찬다고.
-NPC-Ange(0);AK12(0)<Speaker>AK12</Speaker><Position>0,60</Position>||:미리 말해 두는데, 지금 우리가 하는 짓이 법적으로 완전 아웃인 건 알지?+상황에 따라선 네 입장만 더 나빠질 수가 있어.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>;AK12(0)||:그딴 건 훈작사보고 골머리 썩이라 해.+나한테 증거를 찾아 달라 했으니, 본인도 그만한 각오는 했겠지.+증거만 찾아낸다면 여길 봉쇄하는 건 일도 아니야.
-AK12(4)<Speaker>AK12</Speaker><Position>0,60</Position>||:젤린스키가 잘도 여태까지 널 봐줬다니까!
-RPK16(0)<Speaker>RPK16</Speaker>||<SE1>AVG_tele_connect</SE1>:비상 안전문 열었어요.
-AK12(4)<Speaker>AK12</Speaker><Position>0,60</Position>||:좋았어. 전원, 무기 안전장치 해제.+그리고 특히 안젤리아, 함부로 움직이지 말고 내 뒤에 꼭 붙어서 따라와.
-NPC-Ange(0)<Speaker>안젤리아</Speaker>||:...가자.
-()<Speaker></Speaker>||:......
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>1</BIN>:......
+()<Speaker></Speaker>||:어두운 밤을 틈타, 수상한 트럭 한 대가 교외의 숲을 지나 진흙투성이인 비포장 도로를 달렸다.
+NPC-handyman(0)<Speaker>브로커</Speaker>||:어우 진짜...
+()<Speaker></Speaker>||:무거운 트럭이 도로 위의 불룩 튀어나온 곳에 덜컹 흔들리자, 운전하는 남자의 입에서 절로 욕이 나왔다.+그래도 이 지긋지긋한 일도 오늘로 끝이니 그에겐 다행이었다.+트럭은 한참을 달려, 어느 3층 높이의 하얀 건물 앞에 멈춰 섰다.+위에 고압 전류가 흐르는 철망이 쳐진 높은 장벽으로 둘러싸인 이 창고는, 감시 카메라도 사각지대가 없도록 곳곳에 배치되어 있었다.+인적이 거의 없는 곳임에도, 여길 도둑질하려 할 사람은 필시 죽고 싶어 환장한 사람밖에 없을 터였다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Horn_Car</SE1>:이런 생각이 머릿속에 스친 브로커는 피식했지만, 아직 일하는 중이었기에 빵빵 경적을 울렸다.
+NPC-handyman(0)<Speaker>브로커</Speaker>||:배달 왔습니다!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Gate_Close</SE1>:드르르륵...+정문이 서서히 열렸다.
+Nyto(0)<Speaker>？？</Speaker>||<BGM>BGM_Brain</BGM>:......
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Car_Open</SE1>:그리고 그 안에서, 이미 몇 번이고 본 검은 옷차림의 여성이 걸어 나왔다.+문이 열리는 걸 본 브로커도 차에서 내려 목관절을 꺾었다.+벌써 몇 번이나 봤지만, 몸의 절반 이상이 기계로 대체된 저 여자는 볼 때마다 기괴해서 소름이 끼쳤다. 하지만 괜한 호기심은 고양이를 죽인다는 걸 브로커는 잘 알았다.
+NPC-handyman(0)<Speaker>브로커</Speaker>||:이번엔 화물이 너무 많았어요. 다음엔 미리 좀 알려 주십쇼, 네?
+Nyto(0)<Speaker>？？</Speaker>||:빠짐없이 가져왔습니까?
+NPC-handyman(0)<Speaker>브로커</Speaker>||:그야 물론입죠.
+Nyto(0)<Speaker>？？</Speaker>||:당분간 의뢰할 일은 없습니다.+다음에 필요할 때 다시 연락하겠습니다.+이만 돌아가도 좋습니다.
+NPC-handyman(0)<Speaker>브로커</Speaker>||:......쯧.
+()<Speaker></Speaker>||:이렇게 함께 일하게 된 지도 꽤 됐지만, 이 검은 옷의 소녀가 브로커를 대하는 태도는 전혀 변하지 않았다.+대기업에서 일하는 녀석 눈에 자신 같은 사람은 길가의 돌멩이처럼 보이나 하고, 브로커는 투덜댔다.
+NPC-handyman(0)<Speaker>브로커</Speaker>||:다음엔 더 받을 겁니다!+이렇게 위험한 물건을 감옥으로 보내다 걸려서 죽고 싶진 않다고요!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Car_Close</SE1>:한시라도 빨리 이 빌어먹을 곳을 떠나고 싶은 마음에, 브로커는 서둘러 트럭에 다시 올랐다.+부르릉...+엔진에 시동이 걸리고, 트럭은 왔던 길을 따라 사라졌다.
+Nyto(0)<Speaker>？？</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Gate_Close</SE1>:검은 옷의 소녀... "니토"라 불리는 존재는, 트럭이 멀리 떠나는 것을 지켜보고 주위를 살펴본 다음에야 천천히 건물 안으로 돌아갔다.
+()<Speaker></Speaker>||:그리고 문은 다시 굳게 닫혔다.
+()<Speaker></Speaker>||<SE1>AVG_whitenoise</SE1>:파직.
+()<Speaker></Speaker>||:니토가 건물 안으로 들어가고 잠시 후, 장벽 한구석의 고압 전류 철망이 잠깐 반짝이더니 전원이 꺼졌다.+――――+그와 동시에, 재빠른 그림자가 발자국을 남기면서 벽을 뛰어넘었다.+몸을 굴려 반대편에 착지한 그림자는 4개. 모두 군더더기 없는 움직임이었다.
+()<Speaker>？？？</Speaker>||:감시 카메라 차단 완료.
+()<Speaker>？？？</Speaker>||:이동하는 물체, 없음.
+()<Speaker>？？</Speaker>||:좋아, 전진.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:몸을 숨기고 은밀하게 속삭이는 소리가, 그들의 기척과 함께 그늘 속으로 사라졌다.
+()<Speaker></Speaker>||:......
+AK12(0)<Speaker>AK12</Speaker><Position>0,90</Position>||:좌측 이상 무.
+AK15(0)<Speaker>AK15</Speaker>||:우측 이상 무.
+RPK16(0)<Speaker>RPK16</Speaker>||<SE1>AVG_tele_connect</SE1>:보안 시스템에 접속 중.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:방금 밖으로 나온 놈 봤지?
+NPC-Ange(0);AK15(0)<Speaker>AK15</Speaker>||:니토였습니다.
+NPC-Ange(0);AK12(0)<Speaker>AK12</Speaker><Position>0,60</Position>||:당당해도 너무 당당해서 어이가 없네 정말.+설마 아무도 못 알아볼 줄 알고 저러나?
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;AK12(0)||:베를린 교도소의 밀수 루트를 아는 브로커도 몇 안 되는데, 그중에 환각제를 옮길 수 있는 능력자라면 손에 꼽을 정도잖아.+그런데 딱히 신중하게 다루지도 않는구만.
+NPC-Ange(0);RPK16(0)<Speaker>RPK16</Speaker>||:아마 한두 번 일을 시키면 바로 입막음하고 다른 사람으로 바꿔서일 거예요.+하지만 암시장이란 건 다 네트워크가 있어서, 누가 갑자기 사라지면 다 알려질 텐데 말이죠.+악평밖에 안 생길 텐데도 그런다면... 근방의 지하조직이 머저리던가, 이 일의 배후가 바로 암시장 네트워크의 관리자던가겠네요.
+NPC-Ange(0);AK15(0)<Speaker>AK15</Speaker>||:이 건물은 갈라테아 그룹 소유입니다.+등록된 담당 법인은... 그레이.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:정말 모든 단서가 그 여자로 이어지는군. 그물을 끌어올릴 때가 금방 오겠어.+안으로 진입 가능하겠어?
+RPK16(0)<Speaker>RPK16</Speaker>||<SE1>AVG_21Winter_Error</SE1>:보안 시스템이 엄청 복잡해서, 카메라 화면 위조하고 경보 시스템 꺼버리는 게 다예요. 나머지는 모두의 솜씨에 달렸죠.
+AK15(0)<Speaker>AK15</Speaker>||:안젤리아가 동행할 필요는 없었습니다. AN-94와 함께 아파트에 남는 편이 나았다고 봅니다만.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:그 꼬맹이는 AN-94 혼자서로 충분해.+거기에 나만 있으면 너희가 어디 갔는지 녀석이 물어볼 거 아니야.+그리고... 이런 건 직접 확인해야 성에 찬다고.
+NPC-Ange(0);AK12(0)<Speaker>AK12</Speaker><Position>0,60</Position>||:미리 말해 두는데, 지금 우리가 하는 짓이 법적으로 완전 아웃인 건 알지?+상황에 따라선 네 입장만 더 나빠질 수가 있어.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>;AK12(0)||:그딴 건 훈작사보고 골머리 썩이라 해.+나한테 증거를 찾아 달라 했으니, 본인도 그만한 각오는 했겠지.+증거만 찾아낸다면 여길 봉쇄하는 건 일도 아니야.
+AK12(4)<Speaker>AK12</Speaker><Position>0,60</Position>||:젤린스키가 잘도 여태까지 널 봐줬다니까!
+RPK16(0)<Speaker>RPK16</Speaker>||<SE1>AVG_tele_connect</SE1>:비상 안전문 열었어요.
+AK12(4)<Speaker>AK12</Speaker><Position>0,60</Position>||:좋았어. 전원, 무기 안전장치 해제.+그리고 특히 안젤리아, 함부로 움직이지 말고 내 뒤에 꼭 붙어서 따라와.
+NPC-Ange(0)<Speaker>안젤리아</Speaker>||:...가자.
+()<Speaker></Speaker>||:......
 ()||<黑屏1>:

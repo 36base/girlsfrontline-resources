@@ -1,0 +1,46 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>380</BIN><黑点2><BGM>BGM_Hello</BGM>:보람찬 오전은 눈 깜짝할 사이에 지나갔고, 아침 식사를 거른 당신은 점심 시간이 되자마자 곧장 편의점으로 향했다.+아직 이곳 사가에서의 생활을 완전히 납득한 것은 아니지만, 벌써 어느 정도 적응은 되었다.+그리고 한 가지, 매우 불만인 점이라면...
+()<Speaker>지휘관</Speaker>||:스프링필드의 커피 한 잔이 그립구나아...
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:나지막이 한탄하며, 당신은 방금 편의점에서 산 믹스 커피를 휘휘 저었다.+허나 향도, 맛도, 카페인도 거의 없는 이걸 "커피"라 불러야 하는 걸까?+하지만 지금 당신은 그런 걸 따질 처지가 아니었다.
+()<Speaker>지휘관</Speaker>||:...대체 언제까지 이러고 살아야 하지?
+()<Speaker></Speaker>||:또 한 번의 한숨과 함께, "검은 액체" 마지막 한 모금을 목구멍으로 흘려 넣으려던... 그때였다.
+NPC-Fans(0)<Speaker>？？？</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:그딴 구정물 왜 먹음?
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:처음 보는 소녀가 당신의 손에서 컵을 가로채고는 대신 캔커피를 쥐여 주었다.
+NPC-Fans(0)<Speaker>？？？</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:내 최애가 광고 찍은 커피! 먹어 봐, 공짜로 주는 거니까.
+()<Speaker>지휘관</Speaker>||:아... 고마워.+주는 김에 네 최애란 사람이 누군지도 알려 줄래?
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_Cheerful</SE1><SE1>Rope</SE1>:가면을 쓴 이상한 소녀는 그 말에 허리를 쭉 펴더니 손으로 하트 모양을 만들었다.
+NPC-Fans(0)<Speaker>？？？</Speaker><Position>0,-250</Position><Scale>1.7</Scale><Shake>0.1</Shake>||<BGM>BGM_21Christmas_DeathMetal</BGM><震屏3><SE1>AVG_Cloak_Whoosh</SE1>:<size=50>언니야!</size>
+NPC-Fans(0)<Speaker>지휘관</Speaker><Position>0,-250</Position><Scale>1.7</Scale><同时置暗>||:응?
+NPC-Fans(0)<Speaker>？？？</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<SE1>AVG_Rromantic</SE1><震屏3>:<size=50>야옹이, 청소기, 회색 염색약!</size>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:당신이 미처 반응하기도 전에, 소녀는 손 모양을 역삼각형으로 바꾸며 "대사"를 이었다.
+NPC-Fans(0)<Speaker>？？？</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<震屏3><SE1>Rope</SE1>:<size=50>앞머리 앵글!</size>
+NPC-Fans(0)<Speaker>지휘관</Speaker><Position>0,-250</Position><Scale>1.7</Scale><同时置暗>||:......
+NPC-Fans(0)<Speaker>？？？</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<SE1>Rope</SE1><震屏3>:<size=50>새싹, 가십, 헤어핀!</size>
+()<Speaker></Speaker>||:이 소녀는 틀림없는 열성 아이돌 팬이었다. 게다가 점점 더 시끄러워지기까지 했지만, 공짜 커피를 받은 신세니 당신은 조금 참기로 했다.
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:소녀의 손은 이번엔 별 모양이 되었다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale><Shake>0.1</Shake>||<controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake><SE1>AVG_Rromantic</SE1>:<size=50>새빨갛게!</size>+<size=50>와인, 빨간불, 적색 경보!</size>
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:퍼포먼스를 한 차례 마치고 소녀는 전단지를 한 장 꺼내 당신에게 건넸다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:<size=50>그래, 우리가 바로 불조심! 취급 주의 커피 용액! 나이트 카페!</size>+우리 아이돌이 내일 여기서 콘서트가 있으니까 시간 있으면 꼭 보러 와줘~!~
+()<Speaker>지휘관</Speaker>||:그, 그래, 시간 있으면.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_Door_Open_Close</SE1><SE1>AVG_20Winter_Doorbell</SE1>:소녀는 꾸벅 인사하더니 전단지와 커피캔으로 한가득인 가방을 고쳐 매고 편의점 밖으로 사라졌다.+그 깜찍한 뒷모습에 당신은 피식 웃으며 손에 들린 커피캔을 살펴봤다. 확실히, 캔 표면에 인쇄된 것은 노래를 부르는 소녀의 모습이었다.
+()<Speaker></Speaker>||<SE1>AVG_Into_stone</SE1>:그리고, 그 사진 속 소녀의 얼굴이 당신을 경악시켰다.
+NPC-Ninja(4)<Speaker>편의점 점원</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<SE1>ClothingUp</SE1>:손님, 도시락 다 데워졌습니다.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||<BGM>BGM_Saga_AVG_Dusk</BGM><SE1>AVG_20Winter_Book</SE1>:점원의 말은 들리지 않았다. 곧장 커피캔과 함께 받은 전단지를 펼쳐 보자, 눈부신 미소를 뽐내는 3명의 소녀들이 당신을 향해 손을 뻗었다.+눈시울이 뜨거워졌다.
+NPC-Ninja(4)<Speaker>편의점 점원</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:저어, 손님? 도시락 다 데워졌습니다만...
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=4</controll_shake><SE1>ClothingUp</SE1>:입이 떡 벌어지긴커녕 열리지조차 않았고, 움켜쥔 손이 덜덜 떨려 흘러넘친 커피가 심정을 대변했다.
+NPC-Ninja(4)<Speaker>편의점 점원</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:앗, 걸레 가져올 테니 잠시만요.
+()<Speaker></Speaker>||:다만, 이 떨림은 손끝의 모세혈관 한 가닥 한 가닥까지 채운 환희 때문이었다.
+()<Speaker>지휘관</Speaker>||:다행이다... 다행이야...
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>597</BIN><黑点2><SE1>AVG_Door_Open_Close</SE1><SE1>AVG_20Winter_Doorbell</SE1>:계속 중얼대며 그대로 편의점 밖으로 나온 당신은 웃음을 참지 못했다.+전단지의 내용이 뇌리에 단단히 박혔고, 이 아이돌 그룹의 멤버들 얼굴이 머릿속에서 떠나질 않았다.
+()||<黑点1>:
+HK21(4)<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:HK21...
+JS-127(4)<Speaker></Speaker>||:JS05...
+PM06(2)<Speaker></Speaker>||:PM06...
+()||<黑屏1>:
+()<Speaker>지휘관</Speaker>||<BIN>597</BIN><黑点2>:날 구하러 왔구나...+이거야 원, 아이돌 그룹으로 위장까지 하다니. 기특한 녀석들...+현지 상황을 파악하고 질서에 영향이 가지 않도록 작전을 수립하다니, 내가 평소에 잘 가르친 덕을 보는구나!
+()<Speaker></Speaker>||<SE1>RunStep</SE1><SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:따스한 오후 햇살을 받으며, 당신은 가벼운 발걸음으로 폴짝대며 너털웃음을 터뜨렸다.+그들의 콘서트는 바로 내일. 무슨 일이 있어도 만나러 가야만 한다. 그래야만 함께 그리폰으로 귀환해 원래의 일상으로 돌아갈 수 있다.+너무나도 기쁜 나머지 아침 겸 점심이었던 도시락과 프랑슈슈에게 주려고 산 말린 오징어까지 편의점에 깜빡했지만...
+()<Speaker></Speaker>||:지금 당신에겐 전혀 신경쓰이지 않았다.
+()||<黑点1>:

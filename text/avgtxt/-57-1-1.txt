@@ -1,0 +1,118 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>597</BIN><BGM>Campaion-34</BGM>:오전 내내 뛰어다닌 탓에 녹초가 된 당신은 길가를 터벅터벅 걷고 있었다.
+()<Speaker>지휘관</Speaker>||<SE1>Rope</SE1>:배가... 고파졌다...+우리 부관님이 챙겨 주던 따뜻한 식사가 그립구나아...
+()<Speaker></Speaker>||:도저히 걸을 기운도 나지 않아 벽에 몸을 기댔다. 이 "사가"라는 곳은 그리폰 기지에 비해 기술력은 물론 편의성도 형편없었다.+요즘 세상에 공용 킥보드는커녕 내비게이션도 없는 곳이 있다니. 이 오전만 해도, 이 코딱지만한 동네서 당신은 몇 번이고 길을 잃었다.
+()<Speaker>지휘관</Speaker>||:...뭐라도 좀 먹고 할까.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2>:때마침 저쪽에 간결한 간판의 편의점이 눈에 띄었다.+힘을 내어 편의점 문 앞까지 도착해 들어가려던 그때, 안에서 익숙한 모습들이 힐끗 보였다.
+()<Speaker></Speaker>||:어쨌든 한동안 같이 지낼 사이니 가서 인사라도 할까 생각하던 찰나, 그들의 대화가 들려왔다.
+()<Speaker>미나모토 사쿠라</Speaker>||:혹시 아침에 지휘관님 봤으야?+......+음... 그렇구나, 알겄어...
+()<Speaker></Speaker>||:아무래도 당신에 관해 이야기를 하는 것 같지만, 거리가 조금 있는 탓에 어렴풋이 몇 마디만 알아들을 수 있었다.
+()<Speaker>콘노 준코</Speaker>||:여러분은 그 "지휘관"이... 우리의 콘서트를 성공시켜 줄 거라 보세요?
+()<Speaker>미즈노 아이</Speaker>||:우린 괜찮을 거야. 지휘관이 진심으로 우릴 도와주든, 다른 꿍꿍이가 있든...
+()<Speaker>니카이도 사키</Speaker>||:하, 코타로가 전문가랍시고 부른 녀슥이 그 꼬라진데 얼마나 대단할지 차암 기대된다!
+()<Speaker></Speaker>||:역시 그들은 당신의 능력을 아직 100% 신용하지는 않는 모양이었다.+당연하다면 당연했다. 당신이 그리폰에 막 입사했을 당시만 해도, 실제로 해야 할 일이 "가끔씩 침입해 오는 철혈 찌끄러기나 잡는 것"임이 아님을 깨닫고 납득하는 데 한참이 걸렸으니까.+수백명이나 되는 인형들을 알아가는 데는 더 긴 시간이 걸렸고.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BGM>BGM_Empty</BGM>:추억이 떠오른 당신은 쓴웃음을 지으며 어제 처음 만난 일곱 명의 소녀들을 바라봤다...
+()||<黑点1>:
+NPC-Sakura(0)<Speaker></Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<BGM>BGM_Saga_AVG_Day</BGM><黑点2><BIN>380</BIN>:1호, 미나모토 사쿠라.+다정하고 붙임성이 좋으면서, 예민하고 세심한 면도 있다.
+NPC-Saki(0)<Speaker></Speaker><Position>0,-190</Position><Scale>1.4</Scale>||:2호, 니카이도 사키.+눈매가 사나운 불량 소녀 같지만, 꽤나 호쾌하고 감성적인 아이다.
+NPC-MizunoAi(0)<Speaker></Speaker><Position>60,-250</Position><Scale>1.27</Scale>||:3호, 미즈노 아이.+침착하고 자제력이 강해, 돌발 상황에서도 이성적인 판단을 바로 할 수 있다.
+NPC-Junko(0)<Speaker></Speaker><Position>60,-230</Position><Scale>1.27</Scale>||:4호, 콘노 준코.+얌전하고 내성적인 아이, 꽤나 소심해서 마음을 읽으려면 주의 깊게 관찰해야 한다.
+NPC-Yugiri(4)<Speaker></Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:5호, 유우기리.+그룹에서 가장 성숙한 멤버로, 풍채가 아리따우며, 눈치가 대단히 빠르다.
+NPC-Lily(0)<Speaker></Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:6호, 호시카와 릴리.+외모 그대로 순진난만하고 귀여운 어린아이 같지만, 의외로 어른스럽게 똑 부러진 면이 있다.
+NPC-Tae(0)<Speaker></Speaker><Position>0,-340</Position><Scale>1.4</Scale>||:0호, 야마다 타에.+아무래도 언어 표현 능력이 전혀 없어 보이고, 행동도 전혀 예측할 수가 없다. 주의 깊게 관찰해야 한다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>597</BIN>:이상 각자 개성이 넘치는 소녀 일곱 명으로 구성된 그룹이 바로 "프랑슈슈", 현재 당신이 아는 정보는 이게 전부다.+당신이 고민하던 중 유리벽 너머의 대화가 들려왔다.
+()||<黑屏1>:
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<黑点2><BIN>380</BIN>:여러분, 일단 식사하면서 얘기하는 게 어떨까요?
+NPC-Lily(0)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||:도시락 우리 거랑 지휘관 것까지 다 골랐어!
+NPC-Ninja(4)<Speaker>편의점 점원</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<SE1>AVG_Card_Reader</SE1>:네, 도시락 8개 합해서 4,000엔입니다. 데워 드릴까요?
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_Wonder</SE1>:싱글벙글 웃던 릴리의 얼굴이 가격을 듣자마자 어두워졌다.
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:왜 그래, 릴리?
+NPC-Yugiri(2)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||:혹시 돈이 부족한 건가요?
+NPC-Lily(8)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<SE1>AVG_Awkward</SE1>:응... 조금 부족해...
+()<Speaker></Speaker>||:그 한 마디에 분위기가 순식간에 난처해졌고, 소녀들의 얼굴에도 속상함이 드러났다.+문 밖에서 상황을 살피던 당신마저도 차마 보기 어려워 시선을 돌려야만 했다.
+NPC-Ninja(4)<Speaker>편의점 점원</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:손님, 도시락 사실 건가요?
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:이런 상황에서, 당신은 어떡할 것인가?<c>A 난입해서 멋지게 대신 금액을 지불한다.<c>B 적당히 놀려먹고 빠져나간다.<c>C 도시락을 훔치고 함께 도망친다.
+()||<黑屏1><分支>3</分支>:
+()<Speaker></Speaker>||<分支>3</分支><BGM>BGM_Empty</BGM><黑屏2><BIN>597</BIN>:당신은 미간을 좁혀 초점을 카운터 뒤의 영업용 미소 만연한 점원에게 맞췄다.+일반 성인 남성으로서도 약간 마른 체격인 것이, 수년간의 전투에서 경험을 쌓은 당신이라면 손쉽게 제압할 수 있을 듯 보였다.+게다가 이곳은 현실과는 다른 이세계. 어쩌면 좀 "특별"한 행위를 하면 꿈에서 깨어나 현실로 돌아갈 수 있을지도 몰랐다.
+()<Speaker></Speaker>||<分支>3</分支><BGM>m_wv_title</BGM>:생각이 거기까지 미치자, 당신은 사악한 미소를 지으며 편의점의 문을 활짝 열었다.
+()||<黑点1></SE1><分支>3</分支>:
+NPC-Ninja(4)<Speaker>편의점 점원</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<黑点2><SE1>AVG_Door_Open_Close</SE1><SE1>AVG_20Winter_Doorbell</SE1><分支>3</分支><BIN>380</BIN>:어서 오세요~
+()<Speaker>지휘관</Speaker>||<分支>3</分支>:지금 뭐라 했지?
+()<Speaker></Speaker>||<分支>3</分支>:당신은 성큼성큼 카운터 앞으로 걸어와, 점원 앞에 우뚝 서서 그의 이마를 날카롭게 노려봤다.+상대에게 위압감을 줄 거란 생각이 들었기에 한 행동이었다.
+NPC-Ninja(4)<Speaker>편의점 점원</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>3</分支>:어... 지금 한 말이요? 그러니까, 도시락 사실 건가요?
+NPC-Ninja(4)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||<分支>3</分支>:다 가져가겠다.
+NPC-Ninja(4)<Speaker>편의점 점원</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>3</分支><SE1>AVG_Card_Reader</SE1>:네, 총합 4,000엔입니――
+()<Speaker></Speaker>||<分支>3</分支><SE1>ClothingUp</SE1>:당신은 씨익 웃으면서 재빨리 8인분의 도시락을 한아름에 안아 드는 동시에 뒤에 있던 프랑슈슈에게 손짓했다.
+()<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1><SE1>Rope</SE1><分支>3</分支><震屏3>:<size=50>돈 낸다곤 안 했지롱!</size>+<size=50>따라와라 애들아!</size>
+()<Speaker></Speaker>||<分支>3</分支><SE1>RunStep</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=8</controll_shake>:당신은 ELID의 포위망도 돌파할 속도로 편의점의 문을 향해 전력 질주했다.
+()<Speaker></Speaker>||<SE1>Rope</SE1><分支>3</分支><SE1>AVG_Cloak_Whoosh</SE1><震屏3>:그런데, 무언가가 슉 날아들더니 당신의 손발을 칭칭 묶곤 그대로 홱 잡아당겼다.
+()<Speaker></Speaker>||<SE1>AVG_Punch_Hit</SE1><BGM>BGM_Empty</BGM><BIN>9</BIN><分支>3</分支>:그게 무엇인지 미처 파악하기도 전에, 당신은 공중에서 화려하게 몇 바퀴 회전하면서 편의점 점원의 품에 안착했다.
+()||<黑屏1><分支>3</分支>:
+()<Speaker>지휘관</Speaker>||<分支>3</分支><BIN>380</BIN><黑点2><SE1>AVG_Awkward</SE1>:............아?
+NPC-Ninja(4)<Speaker>편의점 점원</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<BGM>Campaion-34</BGM><分支>3</分支>:네에 손님, 총합 4,000엔입니다.
+()<Speaker></Speaker>||<分支>3</分支><SE1>ClothingUp</SE1><SE1>AVG_Zipper</SE1>:점원의 목소리에 마력이 담긴 듯, 당신은 얌전히 전당포에서 가진 물건을 팔아 얻은 돈을 꺼냈다.
+NPC-Ninja(4)<Speaker>편의점 점원</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>3</分支><SE1>AVG_Cash_register</SE1>:네, 4,000엔 받았습니다.+도시락은 데워 드릴까요?
+NPC-Ninja(4)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||<分支>3</分支>:<size=25>......네.</size>
+()<Speaker></Speaker>||<分支>3</分支>:점원은 아무렇지도 않게 당신을 카운터 앞에 내려놓곤 도시락들을 전자레인지에 돌렸다.
+NPC-Sakura(2)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<分支>3</分支><SE1>RunStep</SE1>:지휘관, 방금 뭐가 어떻게 된 일이래요...?
+NPC-Saki(3)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<分支>3</分支>:야 방금 거 어떻게 했냐!? 무술 영화처럼 막 공중에 붕 떴는디?!
+()<Speaker>지휘관</Speaker>||<分支>3</分支>:어... 나도 몰라...
+NPC-Ninja(4)<Speaker>편의점 점원</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>3</分支><SE1>ClothingUp</SE1>:도시락 다 데워졌습니다, 뜨거우니 조심하세요.
+()<Speaker></Speaker>||<分支>3</分支>:여전히 얼떨떨한 마음으로 도시락을 건네받고, 당신은 프랑슈슈와 함께 간단한 점식 식사를 했다.+대체 뭐가 뭐였는진 몰라도, 최소한 점식 시간은 즐겁고 평범하게 가질 수 있었다.
+()<Speaker></Speaker>||<分支>1</分支><BGM>BGM_Empty</BGM>:찰나지만 엄청난 고심 끝에, 당신은 이를 악물고 일부러 문을 활짝 열며 편의점 안으로 돌입했다.
+()||<黑点1><分支>1</分支>:
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<BIN>380</BIN><SE1>AVG_Door_Open_Close</SE1><SE1>AVG_20Winter_Doorbell</SE1><黑点2><分支>1</分支>:지휘관...!
+()<Speaker></Speaker>||<分支>1</分支><BGM>m_wv_title</BGM><SE1>ClothingUp</SE1>:당신은 당당하게 카운터까지 걸어가, 얼이 빠진 릴리를 다정하게 비켜세우곤 점원 앞에 섰다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支><SE1>AVG_Zipper</SE1><SE1>ClothingUp</SE1>:일행입니다, 제가 내죠. 4,000엔 맞습니까?
+NPC-Ninja(4)<Speaker>편의점 점원</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>1</分支>:네.
+()<Speaker></Speaker>||<分支>1</分支><SE1>AVG_TurnOverCard</SE1>:그리고 마치 푼돈이라는 듯, 전당포에서 돈이 될 만한 것과 전부 바꿨던 돈을 내밀었다.+속으론 피눈물을 흘렸지만, 그래도 이 순간 당신은 자신의 카리스마가 약 200은 상승한 기분이 들었다.+물론 이 세상에 그런 스탯이 존재한다면 말이지만.
+()<Speaker></Speaker>||<SE1>Rope</SE1><分支>1</分支>:그런데 그때, 누군가 당신의 옷자락을 잡아당겼다.
+NPC-Tae(1)<Speaker>야마다 타에</Speaker><Position>0,-340</Position><Scale>1.4</Scale><Shake>0.1</Shake>||<分支>1</分支>:으어... 아... (의미불명)
+NPC-Tae(1)<Speaker>지휘관</Speaker><Position>0,-340</Position><Scale>1.4</Scale><同时置暗>||<分支>1</分支>:타에...? 왜 그러니?
+()<Speaker></Speaker>||<分支>1</分支><SE1>ClothingUp</SE1>:바로 도시락 위에 오징어채 두 봉지를 얹은 야마다 타에였다.
+NPC-Sakura(2)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<分支>1</分支>:아, 타에 그러면 안 돼!
+NPC-Tae(1)<Speaker>야마다 타에</Speaker><Position>0,-340</Position><Scale>1.4</Scale><Shake>0.1</Shake>||<分支>1</分支>:<size=50>어아아으아아! (사 달라 떼를 쓰는 게 분명하다.)</size>
+NPC-Tae(1)<Speaker>지휘관</Speaker><Position>0,-340</Position><Scale>1.4</Scale><同时置暗>||<分支>1</分支><SE1>AVG_TurnOverCard</SE1>:...괜찮아, 같이 사지 뭐. 이것도 계산해 주세요.
+()<Speaker></Speaker>||<分支>1</分支><SE1>AVG_Bite</SE1>:타에는 좋아하며 울부짖었고, 오징어 두 봉지는 바로 그녀의 입 속으로 사라졌다.
+NPC-Ninja(4)<Speaker>편의점 점원</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>1</分支><SE1>AVG_Cash_register</SE1>:예, 총합 4,200엔입니다. 감사합니다.+도시락은 데워 드릴까요?
+NPC-Ninja(4)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||<分支>1</分支>:네.
+NPC-Lily(2)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<分支>1</分支>:고마워, 지휘관!
+NPC-Yugiri(3)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>1</分支>:배려란 참 가슴 따뜻해지는 것이로군요. 감사해요.
+NPC-Yugiri(3)<Speaker>지휘관</Speaker><Position>120,-150</Position><Scale>1.85</Scale><同时置暗>||<分支>1</分支>:천만에, 우린 한 팀이잖아.+동고동락, 힘든 일도 기쁜 일도 함께 나눠야지.
+()<Speaker></Speaker>||<分支>1</分支>:멋진 말까지 곁들이니 프랑슈슈 모두가 감격에 눈을 반짝였고, 당신도 그들과 좀 더 가까워져 마음이 뿌듯했다.+어찌 보면 별거 아닌 일이지만, 앞으로에 큰 도움이 될지도 모른다.+모두 함께 화목하게 트레이닝을 하고, 라이브 공연을 성공시키고, 모두가 웃으면서 그리폰으로 돌아가는 당신을 배웅해 줄지도 모른다.+그리 생각하니, 무심코 행복한 미소가 지어졌다.
+NPC-MizunoAi(0)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||<分支>1</分支>:고마워 지휘관, 미안하지만 먼저 가볼게.
+NPC-Junko(0)<Speaker>콘노 준코</Speaker><Position>60,-230</Position><Scale>1.27</Scale>||<分支>1</分支>:저도 일이 있어서요. 여러분은 천천히 식사하세요.
+NPC-Saki(5)<Speaker>니카이도 사키</Speaker><Position>0,-190</Position><Scale>1.4</Scale>||<分支>1</分支>:점심 한턱 내서 고맙지만, 겨우 이걸로 내가 넘어갈 끼라 생각 말어!
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:어, 같이 먹는 거 아니었어? 뭐어... 그렇다면야.
+()<Speaker></Speaker>||<分支>1</分支><SE1>AVG_Door_Open_Close</SE1><SE1>AVG_20Winter_Doorbell</SE1>:환상의 거품이 조금 깨져버렸지만, 그래도 나머지 프랑슈슈 멤버들은 당신과 함께 점심을 즐겼다.
+()<Speaker></Speaker>||<分支>1</分支><SE1>AVG_tableware</SE1>:일상적인 주제의 수다를 떠는 간단한 점심 식사.+자꾸 오징어채를 더 사 달라는 게 분명한 타에의 난동을 말리는 것만 빼면, 아주 즐거운 시간이었다.
+()<Speaker></Speaker>||<分支>2</分支><BGM>GF_20HW_Battle1_BPM102_Loop</BGM>:큭큭 웃음이 나왔다. 따지고 보면 인과응보 아닌가? 욕설까진 아니어도 뒷담화를 해서 듣는 장본인 기분을 상하게 한 저들 잘못이니까.+그래서 유리창 너머로 소리내진 않고 혀를 내밀어 마구 조롱한 다음, 당신은 다른 가게로 가려고 몸을 돌린... 그 순간.
+()<Speaker></Speaker>||<分支>2</分支>:그 순간, 때마침 고개를 창밖으로 돌린 야마다 타에와 눈이 마주쳤다.
+NPC-Tae(1)<Speaker></Speaker><Position>0,-340</Position><Scale>1.4</Scale>||<分支>2</分支><SE1>AVG_Cheerful</SE1>:그리고 당신에겐 그녀의 멍하던 얼굴이 환희로 일그러지는 것이 프레임 단위로 선명하게 보였다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:<color=#A9A9A9>(젠장, 내가 있다고 알릴 셈이다!)</color>+<color=#A9A9A9>(당장 여기서 빠져나가야 해!)</color>
+()<Speaker></Speaker>||<分支>2</分支><SE1>ClothingUp</SE1>:이럴 때야말로 수년간의 전투에서 쌓은 경험을 발휘할 때였다. 당신은 재빨리 왼발과 왼손...이 아니라 왼손과――
+()<Speaker></Speaker>||<分支>2</分支><SE1>ClothingUp</SE1>:전 동작을 취소할 새도 없이, 당신의 몸은 머리보다 빨리 움직여 왼발과 오른발을 거의 동시에 들었다.
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake><分支>2</分支><SE1>AVG_Cloak_Whoosh</SE1>:그 결과, 당신은 왼발로 오른발을 밟은 괴상한 포즈로 편의점 안으로 다이빙해 버리고 말았다.
+()<Speaker></Speaker>||<分支>2</分支><BGM>BGM_Empty</BGM><SE1>AVG_lifttable</SE1><BIN>9</BIN>:장렬한 "철푸덕!" 소리와 함께.
+()||<黑屏1><分支>2</分支>:
+()<Speaker>지휘관</Speaker>||<SE1>AVG_Awkward</SE1><黑屏2><BIN>380</BIN><分支>2</分支>:............
+()<Speaker>프랑슈슈</Speaker>||<分支>2</分支>:............
+NPC-Tae(1)<Speaker>야마다 타에</Speaker><Position>0,-340</Position><Scale>1.4</Scale>||<BGM>Campaion-34</BGM><分支>2</分支>:어으어어... (말린 오징어에 시선 고정 중)
+NPC-Ninja(4)<Speaker>편의점 점원</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<分支>2</分支>:어... 화려한 액션이시네요. 괜찮으신가요 손님?
+NPC-Ninja(4)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||<分支>2</分支>:......예... 괜찮습니다...
+()<Speaker></Speaker>||<分支>2</分支><SE1>AVG_Creep</SE1>:당신은 문을 짚으며 엉거주춤 일어나, 놀란 눈으로 바라보는 프랑슈슈와 마주했다.+이 어색한 분위기를 타파하려면, 역시...
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:...같이 점심 먹을까?
+NPC-MizunoAi(0)<Speaker>미즈노 아이</Speaker><Position>60,-250</Position><Scale>1.27</Scale>||<分支>2</分支>:아... 네.
+NPC-Lily(8)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<分支>2</分支>:그치만 우리 돈이...
+NPC-Lily(8)<Speaker>지휘관</Speaker><Position>70,-170</Position><Scale>1.21</Scale><同时置暗>||<分支>2</分支>:걱정 마, 내가 낼게.
+()<Speaker></Speaker>||<分支>2</分支><SE1>AVG_Cash_register</SE1><SE1>ClothingUp</SE1>:당신은 이를 악물고 지갑을 꺼내 대신 계산해 주었다.
+()<Speaker></Speaker>||<分支>2</分支>:전당포에 수중의 돈이 될 만한 걸 전부 팔아 얻은 소중한 돈은 그렇게 줄어들었다.
+NPC-Lily(2)<Speaker>호시카와 릴리</Speaker><Position>70,-170</Position><Scale>1.21</Scale>||<分支>2</分支>:우와, 고마워 지휘관!
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.85</Scale>||<分支>2</分支>:지휘관님, 미리 자리를 잡아 두었으니 여기 앉으시와요.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:응, 지금 갈게.
+()<Speaker></Speaker>||<分支>2</分支>:그래도 돈을 "조금" 잃은 대신 즐거운 점심 시간을 얻었다.+간단한 점심 식사와 일상적인 주제로 수다를 즐기며, 이 점심 시간을 느긋하게 보낼 수 있었다.
+()<Speaker></Speaker>||:......
+()||<黑点1>:

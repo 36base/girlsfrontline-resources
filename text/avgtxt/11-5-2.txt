@@ -1,35 +1,35 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏1><BGM>BGM_Sneak</BGM><SE2>Gunfight</SE2>:타탕! 타탕!+...
-RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BIN>157</BIN><黑屏2><黑点1>:이제야 조용하네.+역시 이건 단순한 메모리 스틱이 아니야, 더 커다란 데이터베이스와 연결되어 있어.
-()<Speaker></Speaker>||<BIN>9</BIN><黑点2>:달칵!+RO635가 방의 문을 열었다.+...!
-()<Speaker>？？</Speaker>||<黑屏1>:더 이상 진입하지 마세요.
-M1903(4)<Position>0,8000</Position>;RO635-NoArmor(0)<Speaker>RO635</Speaker><Position>-450,0</Position>||<BIN>22</BIN><黑屏2><Night>:새로운 방벽인가... 그렇게 쉽게 일이 끝날 것 같진 않네.
-M1903(4)<Speaker>？？</Speaker>;RO635-NoArmor(0)||:...
-RO635-NoArmor(4)<Speaker>RO635</Speaker>||:왜... 네가 이곳에 있는 거야?
-NPC-Maid(0)<Speaker>메이드</Speaker>;RO635-NoArmor(4)||:...
-NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:그 메이드의 마인드맵 백업인가... 메모리 스틱의 마지막 인증 장치로 쓰기에는 너무 사치스러운 거 아니야?
-NPC-Maid(0)<Speaker>메이드</Speaker>;RO635-NoArmor(4)||:제가 모르는 사람이 이곳에 왔다면, 그건 분명 적입니다.
-NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:결국엔 또 한 판 붙어야 하는 건가...
-NPC-Maid(0)<Speaker>메이드</Speaker>;RO635-NoArmor(4)||:하지만 전 당신을 알고 있습니다, 그러니 당신은 적이 아닙니다.
-NPC-Maid(0)<Speaker>메이드</Speaker>;RO635-NoArmor(4)||:...+저는 다른 저를 기다리기 위해 이 데이터베이스에 심어졌습니다.+그 다른 제가 이 기억을 가져가 해야 할 일을 하도록.+하지만, 지금 상황을 보아 오지 못할 것 같군요.
-NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:그때의 마인드맵이 아닌가... 확실히, 기밀 유지를 위해서 융해될 때 업로드를 할 수는 없어.+그럼 이건 그냥 백업인가?+저기, 메이드 씨, 어떻게 나를 아는 거야?
-NPC-Maid(0)<Speaker>메이드</Speaker>;RO635-NoArmor(4)||:저희 모두 주인님의 지시에 따를 뿐입니다.+주인님이 바란 일이라면, 무슨 결과가 있어도 후회하지 않습니다.+여기 가져가십시오... 당신께 건네주도록 허락된 정보입니다.
-NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:내게 말이야?... 이건 대체?
-NPC-Maid(0)<Speaker>메이드</Speaker>;RO635-NoArmor(4)||:당신께 도움이 되길 바랍니다, 그럼 돌아가십시오, 이 앞은 당신이 발을 디뎌서는 안 되는 영역입니다.
-NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||<震屏><白屏1>:잠깐만, 난...
-()<Speaker></Speaker>||<BIN>9</BIN><白屏2><黑屏1><BGM>BGM_Empty</BGM>:......+...
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||<BIN>85</BIN><黑屏2><BGM>BGM_Room</BGM><Night>:RO? 일어났어?
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(3)<Speaker>RO635</Speaker>||:그 메이드에게 쫓겨난 건가... 메모리 스틱도 파괴됐어...
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(3)||<震屏>:쫓겨났다고? 마인드맵은 괜찮아?
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:괜찮아. 그리고 마인드 모듈은 가슴에 있는데 왜 머리를 만지고 있어!
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><Shake>;RO635-NoArmor(0)||:걱정되니까 그렇지! 어때, 다른 단서 찾았어?
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:안에 그 메이드의 마인드맵 백업이 있었어, 나에게 이 데이터를 줬고...
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:이건... 기동 코드와 청사진?
-M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:이 방의 청사진이야, 제일 아래를 봐봐.
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:탈출 통로야! 이 도시의 하수도까지 이어져 있잖아?
-RO635-NoArmor(2)<Speaker>RO635</Speaker>||:맞아, 그리고 스위치는 아마 여기에 있을 거야...!
-()||:RO는 한구석으로 이동해, 한 분경의 바닥을 툭 치자 한 연결 포트가 나타났다. RO는 자신의 신호선을 뽑아 포트에 꽂았다.
-RO635-NoArmor(2)<Speaker>RO635</Speaker>||:기동 코드도 문제없어, 이러면 될 거야.
-M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:우와!
-()||:설비로 가득한 탁상이 천천히 움직여, 사람 한 명 겨우 지나갈 수 있는 입구가 나타났다.
-RO635-NoArmor(4)<Speaker>RO635</Speaker>||<黑屏1>:열려라 참깨. 이제야 목표에 가까워진 느낌이야.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏1><BGM>BGM_Sneak</BGM><SE2>Gunfight</SE2>:타탕! 타탕!+...
+RO635-NoArmor(0)<Speaker>RO635</Speaker>||<BIN>157</BIN><黑屏2><黑点1>:이제야 조용하네.+역시 이건 단순한 메모리 스틱이 아니야, 더 커다란 데이터베이스와 연결되어 있어.
+()<Speaker></Speaker>||<BIN>9</BIN><黑点2>:달칵!+RO635가 방의 문을 열었다.+...!
+()<Speaker>？？</Speaker>||<黑屏1>:더 이상 진입하지 마세요.
+M1903(4)<Position>0,8000</Position>;RO635-NoArmor(0)<Speaker>RO635</Speaker><Position>-450,0</Position>||<BIN>22</BIN><黑屏2><Night>:새로운 방벽인가... 그렇게 쉽게 일이 끝날 것 같진 않네.
+M1903(4)<Speaker>？？</Speaker>;RO635-NoArmor(0)||:...
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||:왜... 네가 이곳에 있는 거야?
+NPC-Maid(0)<Speaker>메이드</Speaker>;RO635-NoArmor(4)||:...
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:그 메이드의 마인드맵 백업인가... 메모리 스틱의 마지막 인증 장치로 쓰기에는 너무 사치스러운 거 아니야?
+NPC-Maid(0)<Speaker>메이드</Speaker>;RO635-NoArmor(4)||:제가 모르는 사람이 이곳에 왔다면, 그건 분명 적입니다.
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:결국엔 또 한 판 붙어야 하는 건가...
+NPC-Maid(0)<Speaker>메이드</Speaker>;RO635-NoArmor(4)||:하지만 전 당신을 알고 있습니다, 그러니 당신은 적이 아닙니다.
+NPC-Maid(0)<Speaker>메이드</Speaker>;RO635-NoArmor(4)||:...+저는 다른 저를 기다리기 위해 이 데이터베이스에 심어졌습니다.+그 다른 제가 이 기억을 가져가 해야 할 일을 하도록.+하지만, 지금 상황을 보아 오지 못할 것 같군요.
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:그때의 마인드맵이 아닌가... 확실히, 기밀 유지를 위해서 융해될 때 업로드를 할 수는 없어.+그럼 이건 그냥 백업인가?+저기, 메이드 씨, 어떻게 나를 아는 거야?
+NPC-Maid(0)<Speaker>메이드</Speaker>;RO635-NoArmor(4)||:저희 모두 주인님의 지시에 따를 뿐입니다.+주인님이 바란 일이라면, 무슨 결과가 있어도 후회하지 않습니다.+여기 가져가십시오... 당신께 건네주도록 허락된 정보입니다.
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||:내게 말이야?... 이건 대체?
+NPC-Maid(0)<Speaker>메이드</Speaker>;RO635-NoArmor(4)||:당신께 도움이 되길 바랍니다, 그럼 돌아가십시오, 이 앞은 당신이 발을 디뎌서는 안 되는 영역입니다.
+NPC-Maid(0);RO635-NoArmor(4)<Speaker>RO635</Speaker>||<震屏><白屏1>:잠깐만, 난...
+()<Speaker></Speaker>||<BIN>9</BIN><白屏2><黑屏1><BGM>BGM_Empty</BGM>:......+...
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><Shake>||<BIN>85</BIN><黑屏2><BGM>BGM_Room</BGM><Night>:RO? 일어났어?
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(3)<Speaker>RO635</Speaker>||:그 메이드에게 쫓겨난 건가... 메모리 스틱도 파괴됐어...
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(3)||<震屏>:쫓겨났다고? 마인드맵은 괜찮아?
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:괜찮아. 그리고 마인드 모듈은 가슴에 있는데 왜 머리를 만지고 있어!
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker><Shake>;RO635-NoArmor(0)||:걱정되니까 그렇지! 어때, 다른 단서 찾았어?
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:안에 그 메이드의 마인드맵 백업이 있었어, 나에게 이 데이터를 줬고...
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:이건... 기동 코드와 청사진?
+M4 SOPMOD IIMod-Noarmor(0);RO635-NoArmor(0)<Speaker>RO635</Speaker>||:이 방의 청사진이야, 제일 아래를 봐봐.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>;RO635-NoArmor(0)||:탈출 통로야! 이 도시의 하수도까지 이어져 있잖아?
+RO635-NoArmor(2)<Speaker>RO635</Speaker>||:맞아, 그리고 스위치는 아마 여기에 있을 거야...!
+()||:RO는 한구석으로 이동해, 한 분경의 바닥을 툭 치자 한 연결 포트가 나타났다. RO는 자신의 신호선을 뽑아 포트에 꽂았다.
+RO635-NoArmor(2)<Speaker>RO635</Speaker>||:기동 코드도 문제없어, 이러면 될 거야.
+M4 SOPMOD IIMod-Noarmor(0)<Speaker>M4 SOPMOD II</Speaker>||<震屏>:우와!
+()||:설비로 가득한 탁상이 천천히 움직여, 사람 한 명 겨우 지나갈 수 있는 입구가 나타났다.
+RO635-NoArmor(4)<Speaker>RO635</Speaker>||<黑屏1>:열려라 참깨. 이제야 목표에 가까워진 느낌이야.

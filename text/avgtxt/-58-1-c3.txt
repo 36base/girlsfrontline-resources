@@ -1,0 +1,174 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>417</BIN><回忆><BGM>GF_22W_BGM_3</BGM>:......
+()<Speaker>실험체</Speaker>||:<color=#00CCFF>강글라티 대위, 그에게서 바이탈 사인이 사라졌습니다...</color>
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:결국 아무 말도 안 했어?
+NPC-Pamzan(10)<Speaker>실험체</Speaker><Position>0,-70</Position><同时置暗>||:<color=#00CCFF>대위가 요구하신 대로 심문했습니다만, 그가 토해낸 정보는 전부 우리가 이미 파악한 것들뿐입니다.</color>
+()||:모니터로 실시간 중계되는 화면에, 실험체 하나가 노비코프 지휘관의 시신 위에서 일어서는 것이 보였다.+얼굴에 잔뜩 피멍이 든 채 창고 바닥에 쓰러진 그는, 경동맥에 비수가 박혀 피를 뿜어냈다.
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:......
+()<Speaker>실험체</Speaker>||:<color=#00CCFF>단순히 위협만 할 셈이었는데, 놈이 놀라 발버둥치는 바람에...</color>
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:...됐다. 이미 죽은 거, 마지막 가치라도 활용하자고.
+NPC-Pamzan(10)<Speaker>실험체</Speaker><Position>0,-70</Position><同时置暗>||:<color=#00CCFF>그 말씀은?</color>
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:네 흔적은 깔끔하게 지우고, 누군가가 그와 치열하게 싸우다 살해한 현장으로 만들어.
+NPC-Pamzan(10)<Speaker>실험체</Speaker><Position>0,-70</Position><同时置暗>||<黑点1>:<color=#00CCFF>아하... 안젤리아 지휘관이 살해한 것으로 현장을 꾸미란 말씀이군요. 알겠습니다.</color>
+()||<黑点2><关闭蒙版>:간만에 미소를 지은 그는 스크린 앞에 서서, 그리폰 기지의 취조실 감시 카메라 화면을 지켜봤다.+비정규적인 수단으로 해킹한 것이라 화질이 많이 떨어졌지만, 그래도 안젤리아의 얼굴이 분노로 일그러진 것은 확실히 알아볼 수 있었다.
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:그래, 거기서 얌전히 그러고 있어. 금방 찾으러 갈 테니까...+안젤리아...
+()||:그의 손가락이 화면 속 흐릿한 얼굴을 어루만졌다.
+()||<SE1>AVG_whitenoise</SE1>:그런데 그때, 갑작스런 격통이 그의 오른쪽 관자놀이에서 뇌를 가로질렀다.
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position><Shake>||:쯧...
+()||<黑屏1>:찌잉 울리는 머리를 움켜쥐니, 머리카락 아래 가려진 오른쪽 관자놀이의 신경 안정기가 느슨해진 것을 알았다.
+NPC-Ange(38)<Speaker>？</Speaker>||<BIN>7</BIN><黑屏2><回忆><黑屏1>:......
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||<黑屏2><关闭蒙版><BIN>417</BIN>:또냐...+선생님... 치료가 필요합니다...
+()||:호흡 곤란까지 일으키는 그는 어딘가로 통신을 걸었다.
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:선생님...!
+NPC-Pamzan(10)<Position>0,-70</Position>;NytoWhite(0)<Speaker>하얀 니토</Speaker><通讯框>||:<color=#00CCFF>죄송합니다, 사나 언니는 지금 업데이트 중입니다. 급한 용무가 있으시다면 업데이트 후 전해드리겠습니다.</color>
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>;NytoWhite(0)<通讯框>||:사나...+내 신경 안정기에 문제가 생겼다, 선생님을 불러 줘...
+NPC-Pamzan(10)<Position>0,-70</Position>;NytoWhite(0)<Speaker>하얀 니토</Speaker><通讯框>||:<color=#00CCFF>알겠습니다, 실험이 끝나는 대로 전달해드리겠습니다.</color>
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>;NytoWhite(0)<通讯框>||:응...
+NPC-Pamzan(10)<Position>0,-70</Position>;NytoWhite(0)<Speaker>하얀 니토</Speaker><通讯框>||:<color=#00CCFF>또 무슨 일 있습니까?</color>
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>;NytoWhite(0)<通讯框>||:내 동생... 사나는 어때?
+NPC-Pamzan(10)<Position>0,-70</Position>;NytoWhite(0)<Speaker>하얀 니토</Speaker><通讯框>||:<color=#00CCFF>선생님께서, 당신이 묻는다면 현재 안정된 상태이니 걱정 말라 전하라 하셨습니다.</color>
+NytoWhite(0)<Speaker>하얀 니토</Speaker><通讯框>||:<color=#00CCFF>과거를 잊지 말고, 임무를 잘 완수하라고도 전하라 하셨습니다.</color>
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:그래... 알았다.
+()||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_tele_disconnect</SE1>:통신을 종료하고, 그는 천천히, 쓰러지듯 철제 의자에 앉았다.+지금 그의 눈앞에 보이는 것은 그리폰의 취조실도, 그가 있던 심각하게 오염된 폐기 구역이 아니었다.
+()||<黑屏2><边框>2</边框><BIN>7</BIN><SE1>GF_Halloween_Wind_loop</SE1>:그는 지금 고향의 자작나무 숲속에 있었고, 사나가 한 나무 아래서 그를 기다리고 있었다.+오늘은 숲속에서 새를 찾아보기로 약속한 날이었다.
+()<Speaker>？？？</Speaker>||<边框>2</边框>:그럼 갈까, 사나?
+NPC-Sana(0)<Speaker>사나</Speaker><Position>0,210</Position>||<边框>2</边框>:응!
+()||<黑屏1><边框>2</边框>:그는 추위에 볼이 빨갛게 상기된 사나의 작은 머리를 토닥여 주고, 두꺼운 장갑을 낀 손을 잡은 채 무릎까지 쌓인 눈발을 함께 한 걸음씩 걸어갔다.
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||<黑屏2><BIN>417</BIN><SE1>Stop_AVG_loop</SE1>:사나... 반드시 너와 형의 원수를 갚아 줄게...+베슬란에서 너희를 쏴 죽였던 살인자를... 내가 갈기갈기 찢어 죽여 줄게...+...듣고 있냐, 안젤리아?
+()||<黑屏1>:두뇌 속을 헤집는 전류 같은 고통을 참으며, 그는 화면 속에서 영문을 모르겠다는 안젤리아를 뚫어져라 주시했다.
+()||<黑屏2><BIN>158</BIN><BGM>10295</BGM>:깊은 밤, 그리폰 기지의 취조실.+탁자 맞은편의 취조관에게 눈을 부라리면서, 안젤리아는 눈치도 안 보고 하품을 했다.
+()<Speaker>취조관</Speaker>||:안젤리아 지휘관, 조사에 진지하게 협력해 주길 바란다.
+NPC-Ange(13)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:다 말했잖아, 난 어제 기지에 없었다고.
+NPC-Ange(13)<Speaker>취조관</Speaker><Position>0,25</Position><同时置暗>||:알리바이도 증거가 있어야 성립한다.+어제의 네 행적을 처음부터 다시 진술하도록.
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:......쓰읍.+어젠 아침 7시 정각에 외출해서 IOP로 갔고, 그쪽이랑 합의한 대로 거기 실험실의 인형 테스트를 거들었다고.+자세한 내용은 비밀 유지 계약이 있어서 말 못하지만.
+NPC-Ange(14)<Speaker>취조관</Speaker><Position>0,25</Position><同时置暗>||:그건 우리도 확인했다. 그리폰 기지와 IOP 사 건물의 감시 카메라 영상과 일치해.
+NPC-Ange(13)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:거기 일 끝나고 대충 밤 10시쯤에 그리폰 기지로 돌아왔어.
+NPC-Ange(13)<Speaker>취조관</Speaker><Position>0,25</Position><同时置暗>||:그러니까, 안젤리아 지휘관은 어제 오전 7시 그리폰 기지를 떠나, IOP 사의 실험 업무에 참여했다.+그리고 그 일이 끝나고 밤 10경에 기지로 복귀했다. 맞나?
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:어.
+NPC-Ange(14)<Speaker>취조관</Speaker><Position>0,25</Position><同时置暗>||:사건 발생 추정 시각도 전해 들었나?
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:오후 4시쯤에 발견했다며.
+NPC-Ange(12)<Speaker>취조관</Speaker><Position>0,25</Position><同时置暗>||:어제 오후 4시경, 그리폰 소속 전술인형이 물자 창고에서 사망한 노비코프 지휘관의 시신을 발견했다.
+NPC-Ange(13)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:범행 시각 근처에 난 가까이 있지도 않았잖아.
+NPC-Ange(13)<Speaker>취조관</Speaker><Position>0,25</Position><同时置暗>||:다만 지휘관의 알리바이에 약간의 의문점이 있다.
+()||:취조관이 태블릿으로 어느 감시 카메라 영상을 보여 줬다.
+()<Speaker>취조관</Speaker>||:안젤리아 지휘관, 당신은 어제 오전 7시부터 밤 10까지 그리폰 기지를 나와 IOP 사에 있었다고 진술했다.+그럼 이, 어제 오후 2시경에 촬영된 영상은 어떻게 설명할 거지?
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:......
+()||:취조관이 재생 버튼을 누르자, 안젤리아가 홀로 IOP 건물의 뒷문으로 나와 번호판이 없는 오토바이를 타고 사라지는 영상이 재생됐다.
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:이건... 내 개인적인 일이야.
+NPC-Ange(14)<Speaker>취조관</Speaker><Position>0,25</Position><同时置暗>||:이후 당신이 이동한 구역은 감시 면적이 적어 정지 화상만 얻을 수 있었다.+하지만 한 가지 확실한 것은――
+()||:취조관이 다음 영상을 재생하며 말을 이었다.
+()<Speaker>취조관</Speaker>||:당신은 오후 4시 30분경이 되어서야 IOP 사에 돌아와 밤 9시경 떠났다는 것이다.+즉, 오후 2시부터 4시 30분 사이에 당신은 IOP에서 업무 중이 아니었다는 뜻이다.
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:그러니까 내 개인적인 용무라고. 내 사생활에 관해선 묵비권을 행사할 권리가 있어.
+NPC-Ange(14)<Speaker>취조관</Speaker><Position>0,25</Position><同时置暗>||:다른 지휘관의 진술에 따르면, 당신은 노비코프 지휘관과 여러 차례 다툰 적이 있다지?+당신이 그를 죽여버리겠다고 폭언을 했다는 증언도 있다.
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:아 그 자식이 자꾸 내 주변에다 도청기 설치해서 엿듣고 들키니까 오리발 내미니까 그렇지!+벌써 5개도 넘게 찾아냈다고!
+NPC-Ange(12)<Speaker>취조관</Speaker><Position>0,25</Position><同时置暗>||:하지만 확증이 없어서 그리폰은 그를 징계하지 않았지.
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:그래 XX, 수단이 참 전문적이고 깔끔하더라.
+NPC-Ange(12)<Speaker>취조관</Speaker><Position>0,25</Position><同时置暗>||:아무래도 노비코프 지휘관은 목숨까지 노려질 물건을 안 모양인데, 당신의 개인적인 일과 관계가 있나?
+NPC-Ange(13)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:......+벌써 날 범인으로 단정하고 유도심문이야?
+NPC-Ange(13)<Speaker>취조관</Speaker><Position>0,25</Position><同时置暗>||:민감하게 생각하지 마라, 안젤리아 지휘관. 이건 그저 합리적인 가설과 적법한 취조 절차에 불과하다.
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:그 자식이 내 성질 건드린 건 맞는데, 죽은 건 나랑은 전혀 관련 없는 일이야. 그딴 놈은 귀찮은 파리나 마찬가지라고.+난 더 중요한 일이 있어서 파리 목숨에 신경 쓸 시간 없어.
+NPC-Ange(14)<Speaker>취조관</Speaker><Position>0,25</Position><同时置暗>||:그 "개인적인 일"의 우선도가 대단히 높은 것으로 들리는군.
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:마지막으로 말하는데...
+()||:마침내 인내심이 한계에 달한 듯했다.
+NPC-Ange(13)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:내 일이랑 이 사건은 전혀 관계 없어. 그리고 알리바이도 있잖아.
+NPC-Ange(13)<Speaker>취조관</Speaker><Position>0,25</Position><同时置暗>||:당신이 허점을 보충해 주지 않는 이상 그 알리바이가 완전히 증명되지 않는다는 것이 문제다.
+()||<SE1>Rope</SE1>:안젤리아는 주먹을 꽉 움켜쥐어, 저 면상을 묵사발로 만들어 버리고 싶은 충동을 필사적으로 참았다.
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:.....
+NPC-Ange(14)<Speaker>취조관</Speaker><Position>0,25</Position><同时置暗>||:......
+()||:안젤리아가 침묵하자, 취조관은 탁상의 전등을 안젤리아에게 향했다.+불쾌하게 눈부신 빛에 눈이 찡그려졌다.
+()<Speaker>취조관</Speaker>||:협조할 의사가 없는 것 같군.
+NPC-Ange(13)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:......
+NPC-Ange(13)<Speaker>취조관</Speaker><Position>0,25</Position><同时置暗>||:정말 말 못할 고충인지, 마지막 발악인지는 몰라도...+어느 쪽이든, 유감스럽지만 당신은 결백이 입증되기 전까지는 모든 직무를 정지하고 그리폰 기지에서 대기해야 한다.+그동안 기지에서 이탈할 경우 혐의를 인정하고 도주한 것으로 간주하겠다.
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:......
+NPC-Ange(14)<Speaker>취조관</Speaker><Position>0,25</Position><同时置暗>||<黑屏1>:다른 질문이 없다면, 오늘 취조는 여기까지.
+()||<黑屏2><BIN>18</BIN><Night><BGM>BGM_Empty</BGM>:복도 끝자락의 취조실 창문에서 창백한 빛이 새어나오길 벌써 8시간째.+LAMG는 여태 초조해 하며 복도를 어슬렁거렸지만, 안젤리아는 여전히 밖으로 나올 기색이 보이질 안았다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:다른 지휘관들은 모두 대충 형식적으로만 하고 나왔는데...+왜 안젤리아 지휘관님만 이렇게 못 잡아먹어서 안달인 마냥...
+()||<SE1>AVG_Door_Open_Close</SE1>:그때, 취조실의 문이 덜컥 열렸다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||<BGM>10258</BGM>:지휘관님!
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:LAMG...?+내가 숙소에서 대기하라 했잖아.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:그치만, 지휘관님... 걱정돼서...
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:......
+NPC-Ange(11)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:난 괜찮아 임마.
+()||:안젤리아는 여유롭게 씨익 웃었지만, LAMG는 이미 눈치챘다. 그녀가 엄청난 분노를 억누르려는 듯 주먹을 불끈 쥔 것을.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:제가... 지휘관님을 난처하게 했나요?
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>;LAMG(0)<Position>0,100</Position>||:아니.+괜한 생각하지 말고, 가자고.
+NPC-Ange(10)<Position>0,25</Position>;LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:조금 전, 헬리안 씨가 왔다 가시면서 전해 달라 하셨어요. 이번 살인 사건은 위에서 예의주시하고 있다고요.+수도에서 특별히 전문 수사팀까지 불러서, 혐의가 있는 지휘관을 모두 직무 정지시키고 조사받게 하고 있어요.+아마... 1년 전의 그리폰 직원을 겨냥했던 연쇄 살인 사건과의 관련성을 우려하는 거겠죠.
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>;LAMG(0)<Position>0,100</Position>||:그래서, 나더러 좀 참고 있으래?
+NPC-Ange(10)<Position>0,25</Position>;LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:...아마도요.
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>;LAMG(0)<Position>0,100</Position>||:하... 그럼 뭣 좀 부탁해도 될까?
+NPC-Ange(10)<Position>0,25</Position>;LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:제가 할 수 있는 일이라면 뭐든지!
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>;LAMG(0)<Position>0,100</Position>||:이걸 16LAB의 페르시카 박사한테 갖다줘.
+NPC-Ange(10)<Position>0,25</Position>;LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:아...
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:지, 지휘관님, 그게...
+()||:LAMG의 기운이 순식간에 바닥 밑으로 떨어졌다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:지휘관님이 취조실에 들어가신 지 얼마 안 지나서, 저도 외출을 금지당했어요...+통신 권한도 그리폰 내부만으로 제한돼서...
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:너까지? 쓰읍...
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:......
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:알았다, 일단 돌아가서 쉬도록 해.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:지휘관님...
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:왜.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:만약에... 가만히 기지에서 적당히 시간을 때우면 전부 조용히 지나가게 된다면...+그러실 건가요?
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:......+글쎄다.
+()||<黑点1>:안젤리아는 언제나처럼 LAMG에게 손을 흔들며 떠났다.+남겨진 LAMG는 문 앞을 한참 동안이나 지키며 주변에 위험 요소가 없는 것을 몇 차례나 확인한 뒤 아직 여전히 잔뜩인 미련을 갖고 발걸음을 옮겼다.+안젤리아가 그토록 씁쓸한 표정을 짓는 걸 본 것은 이번이 처음이었다.
+()||<黑点2><Night><BIN>82</BIN>:그리고, 문 바로 뒤.
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:......
+()||:안젤리아는 문에 기댄 채 조용한 창밖의 야경을 바라봤다. 찌르르 우는 벌레 소리는 마치 밤의 숨소리 같았다.+혹시나 싶은 마음에 전술 태블릿과 통신기를 켜봤지만 역시나, 모든 권한이 동결된 상태였다.+지금 그녀가 할 수 있는 일이라곤 커피나 배달시키는 것뿐이었다.
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:제기랄, 이제 한 걸음만 남았는데...
+()||:안젤리아는 바닥에 털썩 주저앉으며 허탈해 했다.+썰렁한 방은 매미의 울음소리가 더 우렁차게 들렸다.+아예 바닥에 드러누워버린 안젤리아는 이를 멍하니 듣다, 이것이 매미가 아니라 무언가의 진동음임을 깨달았다.
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>||<BGM>BGM_Empty</BGM>:뭐지...?
+()||:귀찮아 하면서도 바닥에서 일어난 안젤리아는 식은땀이 남긴 자국을 밟고 지나, 진동음의 근원을 찾으려 했다.+그리고 얼마 안 가, 문 옆의 늑대 무리 조각상이 그녀의 눈길을 끌었다.+그것은 이전에 쇼가 준 선물이었다.+조각상의 우두머리 늑대의 눈이 조금 이상한 것을 포착한 안젤리아는 천천히 손을 내밀었고...
+NPC-Ange(13)<Speaker>안젤리아</Speaker><Position>0,25</Position>||<SE1>AVG_PPT_Switch</SE1>:......
+NPC-shaw(5)<Speaker>쇼</Speaker><通讯框>||<BGM>10051</BGM>:<color=#00CCFF>안녕.</color>
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>;NPC-shaw(5)<通讯框>||:이딴 건 또 언제...
+NPC-Ange(12)<Position>0,25</Position>;NPC-shaw(3)<Speaker>쇼</Speaker><通讯框>||:<color=#00CCFF>착각 마, AK-12의 아이디어니까.</color>
+NPC-Ange(12)<Position>0,25</Position>;AK12(4)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>하이 안젤리아~ 오랜만이야, 놀랐어?</color>
+NPC-Ange(13)<Speaker>안젤리아</Speaker><Position>0,25</Position>;AK12(4)<通讯框>||:......
+NPC-Ange(13)<Position>0,25</Position>;AK12(4)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>당신이 그랬잖아, 절친한 친구라도 꼭 한쪽 눈으로 감시하라고.</color>
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:아니 그게 이러란... 에휴 됐다, 덕분에 외부 연락망은 생겼네.
+NPC-Ange(14)<Position>0,25</Position>;NPC-shaw(0)<Speaker>쇼</Speaker><通讯框>||:<color=#00CCFF>너 지금 큰일 났다며.</color>
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>;NPC-shaw(0)<通讯框>||:그리 큰일은 아니지만, 하필이면 이런 중요한 타이밍이라서 말이지...
+NPC-Ange(12)<Position>0,25</Position>;NPC-shaw(0)<Speaker>쇼</Speaker><通讯框>||:<color=#00CCFF>덧붙이자면, 내 거래 조건은 아직 유효해.</color>
+NPC-Ange(13)<Speaker>안젤리아</Speaker><Position>0,25</Position>;NPC-shaw(0)<通讯框>||:......
+NPC-shaw(5)<Speaker>쇼</Speaker><通讯框>||:<color=#00CCFF>네 일을 계속하려면 빨리 그 곤경에서 벗어나야겠지?</color>
+()||:약점을 찔리자, 안젤리아는 인상이 조금 구겨졌다.
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:......+생각해보고.
+NPC-Ange(14)<Position>0,25</Position>;NPC-shaw(0)<Speaker>쇼</Speaker><通讯框>||:<color=#00CCFF>유감이네, 그럼 협상 결렬인 걸로.</color>
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>;NPC-shaw(0)<通讯框>||:꼭 내가 기분 최악일 때 귀찮게 굴어야겠냐?
+NPC-Ange(12)<Position>0,25</Position>;NPC-shaw(0)<Speaker>쇼</Speaker><通讯框>||:<color=#00CCFF>그럼 어디 평소처럼 막 욕해 보시던가.</color>
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>;NPC-shaw(0)<通讯框>||:......
+NPC-Ange(14)<Position>0,25</Position>;NPC-shaw(5)<Speaker>쇼</Speaker><通讯框>||:<color=#00CCFF>헹, 못하지? 내 도움이 절실할――</color>
+NPC-Ange(13)<Speaker>안젤리아</Speaker><Position>0,25</Position>;NPC-shaw(5)<通讯框>||:에라이 XX 이 X같은 XX아.
+NPC-Ange(13)<Position>0,25</Position>;NPC-shaw(1)<Speaker>쇼</Speaker><通讯框>||:<color=#00CCFF>과연 안젤리아야, 부탁하는 법도 남다르다니까.</color>
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:......
+()||:통신기 속 가증스런 얼굴에, 안젤리아는 자꾸 펄떡이는 관자놀이를 문지르며 세상을 멸망시키고픈 충동을 참았다.
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||<黑屏1>:...좋아, 거래하자고.
+()||<黑屏2><关闭蒙版>:다음날 이른 아침.
+()||<SE1>AVG_Door_Hit</SE1>:쿵쿵쿵!+거친 노크 소리가 방금 막 잠들었던 안젤리아를 깨웠다.
+()<Speaker>경비원</Speaker>||:실례한다 안젤리아 지휘관, 취조 시간이니 따라와 주기 바란다.
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:...알았어, 금방 가.
+()||:안젤리아는 성질을 참으며 바로 세수를 했다.
+AK12(0)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>총 수면 시간 3시간 12분, 깊은 수면 시간은 15분. 우리 안젤리아 지휘관님은 심각한 수면 부족이시네~</color>
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:말 안 해도 알아.
+AN94(0)<Speaker>AN94</Speaker><通讯框>||:<color=#00CCFF>안젤리아, 목표 지점에 도착했다. 다음 지시 바란다.</color>
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:거긴 이 기지의 보안 취약점이야. 사건 발생 며칠 전 거기의 감시 카메라가 한 번 망가졌었는데, 아마 범인은 거길 통해 기지로 숨어들었을 거야.
+AK12(0)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>지도상으로도 노비코프 지휘관의 사망 지점이랑 꽤 가까운걸?</color>
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:거기에 범인이 남긴 흔적이 없는지 찾아봐.
+AN94(0)<Speaker>AN94</Speaker><通讯框>||:<color=#00CCFF>알았다.</color>
+AK12(0)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>안젤리아, 왜 이걸 수사팀에겐 안 말해? 이거면 혐의를 금방 벗을 수 있을 텐데.</color>
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:놈들을 신용할 수가 없어.+그리고, 노비코프가 죽은 꼴도 좀――
+()||<SE1>AVG_Door_Hit</SE1>:쾅쾅쾅!+노크 소리가 한층 더 사나워졌다.
+()<Speaker>경비원</Speaker>||:안젤리아 지휘관, 당신은 현재 직무 정지 상태다. 하던 일을 멈추고 조사에 협조해라.
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:아 알았다니까!
+()||:문 밖에서의 고함이 고막을 두들겨, 안젤리아가 초소형 통신기를 숨기려던 그때였다. AN-94가 다소 긴장한 목소리로 안젤리아를 불렀다.
+AN94(0)<Speaker>AN94</Speaker><通讯框>||:<color=#00CCFF>안젤리아, 신선한 침투 흔적을 발견했다.</color>+<color=#00CCFF>더 이전 것과 대조해 보건대, 동일범으로 추정된다.</color>
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:좋아, 계속 추적해.
+AK12(3)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>94, 엄호해 줘. 놈들이 바로——</color>
+()||<SE1>AVG_Explo_Close</SE1>:콰아앙!!
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:?!
+()||:갑작스런 굉음에 안젤리아도 화들짝 놀랐다.
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:AK-12? AN-94?
+()||<SE1>AVG_whitenoise</SE1>:지지직...+통신기에선 노이즈만 새어나오고, 올프팩의 응답은 없었다.+이와 동시에――
+()<Speaker>경비원</Speaker>||<SE1>AVG_Door_Hit</SE1>:인마 사람이 말하면 들어!+너는 지금 유력한 용의자다! 허튼 수작 부리지 말고 얌전히 절차에 따라!
+NPC-Ange(13)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:......
+()||:손 안의 초소형 통신기를 뚫어져라 바라보는 안젤리아에게, 저 당장 문을 부술 기세인 소리는 몇 년 전 그 여름을 방불케 했다.
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||<黑屏1>:에이 씨, 언젠가는 이렇게 될 줄 알았어.

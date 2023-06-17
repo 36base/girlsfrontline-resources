@@ -1,0 +1,88 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑点2><BIN>447</BIN><BGM>m_avg_labyrinth</BGM>:아베르누스, 서탑.
+()||<SE1>AVG_Wheelchair</SE1><SE1>AVG_Team_Running</SE1>:복도는 수레바퀴 소리, 발소리, 그리고 온갖 "재료"가 부딪히는 소리로 가득했다.+니토들이 조를 이뤄 번갈아가며 창고를 비우는 것이었다.
+()||:이를 감독하던 애슐리가 엘레베이터 안에 들어갔고, 문이 닫히자 그녀 주위의 세상은 다시 고요해졌다.
+Nyto(1)<Speaker>검은 니토</Speaker>||:애슐리 언니, 이렇게 많은 재료를 정말 전부 버립니까?
+NytoWhite(0)<Speaker>애슐리</Speaker>||:일반 소모재일 뿐이니 아까워할 것 없어.
+()||<SE1>AVG_BaseDoor_Open</SE1>:엘레베이터의 문이 다시 열려, 애슐리는 마지막 창고칸 안으로 들어섰다.
+()||<黑点1>:
+()||<黑点2><BIN>229</BIN><SE1>AVG_BaseDoor_Open</SE1>:음압 창고의 문이 열려 안으로 들어온 애슐리는 선반에 쌓인 고가의 물자들을 확인하며 통신을 보냈다.
+NytoWhite(0)<Speaker>애슐리</Speaker>||:네메아란 언니, 서탑 1층~18층 창고의 파기를 마쳤습니다.+현재 19층 창고이며, 물자 리스트를 전송했습니다. 지시를.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>네 앞의 네 번째 선반, 1층의 금고를 열으렴.</color>
+()||<SE1>AVG_tele_connect</SE1>:금고를 여는 패스워드도 바로 전송됐다.+애슐리는 바로 목표인 금고를 찾아 조심스레 열어 보았다.+금고 안에 든 것은 정교하게 만들어진 또 다른 암호 상자였고, 애슐리가 들어보니 보기보다 무척 가벼웠다.
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>그 상자를 가져오거라, 조심해서.</color>
+NytoWhite(0)<Speaker>애슐리</Speaker>||:다른 것들은――
+NPC-Nemhran(0)<Speaker>네메아란</Speaker><通讯框>||:<color=#00CCFF>전부 발전소 8호 소각로에 버리렴.</color>
+NytoWhite(0)<Speaker>애슐리</Speaker>||:네.
+()||:애슐리가 손짓하자, 뒤에서 대기하던 니토들이 바로 창고를 나섰다.
+()||<黑点1>:
+()||<黑点2><BIN>417</BIN>:동탑, 벌침 제어 센터.
+()||:DR 잉여 데이터 파기 중...+MAP 임시 지도 데이터 파기 중...+TS 기밀 파일 파기 중...
+()||:무수한 진행 게이지가 나타나 차오르고 사라지기를 반복하는 대형 스크린.+그 가장 밑의 35.3%까지 차오른 붉은 진행 게이지는 속도가 매우 느렸다.
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:......
+()||:네메아란은 창가에 서서, 단면 창문을 통해 아베르누스 전체를 내려다봤다.+이 층은 고도 수백 m이기에 저 아래의 모든 것이 작아 보였다.+니토들은 개미처럼 분주히 움직였고, 완두콩만한 수송차량들은 바닥의 플랫폼을 끊임없이 왕복했다.
+()<Speaker>시스템</Speaker>||<SE1>AVG_21Winter_Error</SE1>:<color=#FFFF00>ERROR - P237 초소 응답 없음. 데이터 삭제 실패.</color>
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:E3, P237 초소로 가 조작 콘솔과 저장 장치를 발전소 7번 소각로에 버리거라.
+()<Speaker>부드러운 목소리</Speaker>||:<color=#00CCFF>예, 네메아란 언니.</color>
+()<Speaker>시스템</Speaker>||<SE1>AVG_21Winter_Error</SE1>:<color=#FFFF00>ERROR - 동탑 W22 에너지 공급선에 이상 발생.</color>
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:E5, 동탑에 무슨 일이지?
+()<Speaker>맑은 목소리</Speaker>||:<color=#00CCFF>바로 확인하겠습니다!</color>
+()||:잠시 후.
+()<Speaker>맑은 목소리</Speaker>||:<color=#00CCFF>몰리도 언니가 실험실의 샘플을 파기하던 도중 샘플 하나가 캡슐에서 튀어나와 잠시 소란이 있었다고 합니다...</color>
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:...바로 수리하거라, 동탑은 에너지 공급에 지장이 있어선 안 돼.
+()<Speaker>맑은 목소리</Speaker>||:<color=#00CCFF>예, 네메아란 언니.</color>
+()||:네메아란은 침착하게, 무슨 상황이 발생해도 바로 적절한 해결법을 하달했다.+평소와 다를 바 없는 아베르누스의 하루. 오늘은 그저 유난히 바쁜 것에 지나지 않았다.+시간은 어김없이 1초씩, 1분씩 흘렀다.+붉은 진행 게이지도 천천히 차올랐다.
+()||<黑点1>:
+()||<黑点2>:벌침 제어 센터.
+()||<SE1>AVG_File_Put</SE1>:애슐리가 가져온 상자를 공손히 테이블에 내려놓고, 천천히 180도 돌려 네메아란에게 내밀었다.
+NytoWhite(0)<Speaker>애슐리</Speaker>||:네메아란 언니.
+()||:가느다란 손가락으로 상자를 어루만지는 네메아란의 얼굴에 보기 드문 "자애로움"이 비쳤다.
+NytoWhite(0)<Speaker>애슐리</Speaker>||:서탑 1층~20층 창고의 청소를 끝마쳤습니다. 모든 소모재를 파기했고, 661대의 데이터 저장 콘솔을 전부 소각로에 버렸습니다.
+()||:네메아란은 보고가 대수롭지 않다는 듯 시큰둥한 표정으로 상자를 등 뒤로 옮겨 뒀다.
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:설비 이전 진행 상황은?
+NPC-Nemhran(0)<Position>0,30</Position>;NytoWhite(0)<Speaker>애슐리</Speaker>||:...두 번째 설비 그룹이 분해를 마쳐 현재 적재 중입니다. 세 번째 그룹은 곧 핵심 부품의 분해를 시작합니다.
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>;NytoWhite(0)||:너무 느려.
+NPC-Nemhran(0)<Position>0,30</Position>;NytoWhite(0)<Speaker>애슐리</Speaker>||:대부분의 인력이 동탑에 투입되어――
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>;NytoWhite(0)||:변명하지 말고 결과를 내렴.
+NytoWhite(0)<Speaker>애슐리</Speaker>||:...속히 처리하겠습니다.
+()||:애슐리가 속으로 시간을 세며 떠나려고 할 때, 네메아란의 목소리가 다시 살며시 들렸다.
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:아 참, 잊을 뻔했구나.+생산 라인의 "미완성품"도 전부 버리렴.
+()||:애슐리는 공손히 머리를 숙여 마음 속 두려움을 숨겼다.
+NytoWhite(0)<Speaker>애슐리</Speaker>||:예, 네메아란 언니.
+()||:애슐리는 머리를 숙인 채로 조용히 물러났다.
+()||:그녀가 사라진 뒤, 네메아란은 관자놀이를 살짝 문지르며 표정을 조금 풀었다.
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:사나.
+NPC-Nemhran(0)<Position>0,30</Position>;NPC-Sana(7)<通讯框><Speaker>사나</Speaker>||:<color=#00CCFF>...무슨 일 있어?</color>
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>;NPC-Sana(7)||:네게 주려고 모스카바에서 가져온 선물이 있단다.+평소에 두던 곳에 둘게.
+NPC-Nemhran(0)<Position>0,30</Position>;NPC-Sana(7)<通讯框><Speaker>사나</Speaker>||:<color=#00CCFF>또 고생한 거야?</color>
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>;NPC-Sana(7)||:아니, 그냥 죽은 식물의 표본일 뿐이야.
+NPC-Nemhran(0)<Position>0,30</Position>;NPC-Sana(7)<通讯框><Speaker>사나</Speaker>||:<color=#00CCFF>다행이다.</color>+<color=#00CCFF>그런데... 나, 이번에도 나중에 다시 잠들어야 해?</color>
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:...걱정 마렴, 내가 함께 있어 줄 테니.
+()||<黑点1>:
+()||<黑点2><BIN>467</BIN><SE1>AVG_BaseDoor_Open</SE1>:플랫폼 바닥의 파이프 출구가 소음을 냈다.
+()||<SE1>AVG_2023Slow_Came_to_surface</SE1>:무수한 인간 형태의 피조물들이 초록색 폐수에 뒤섞여 지저의 틈새로 떨어지는 소리였다.
+()||<SE1>AVG_AMB_Wind</SE1><黑点1>:울부짖는 바람 사이로 끝없이 떨어져...
+()||<黑点2><BIN>463</BIN><SE1>ClothingUp</SE1>:철퍽.+온몸이 흠뻑 젖은 소녀들은 마침내 바닥에 닿아, 공허한 눈으로 하늘을 보았다.+그들 밑은 그 끝을 알 수 없는 시꺼먼 심연. 수를 헤아릴 수 없을 만큼 쌓인 이성질체와 니토들의 몸뚱이는 아래로 갈수록 심하게 부패하고, 가장 밑바닥은 백골뿐이었다.
+()||:......
+()||<黑点1><SE1>Stop_AVG_loop</SE1><BGM>BGM_Empty</BGM>:
+()||<黑点2><BIN>247</BIN><BGM>GF_22W_BGM_3</BGM>:......
+NPC-MorridowNew(0)<通讯框><Speaker>몰리도</Speaker>||:<color=#00CCFF>재료실의 모든 위험 샘플을 처리했어요.</color>
+NPC-grig(0)<通讯框><Speaker>틸</Speaker>||:<color=#00CCFF>동탑 각층, 수비 병력 배치 완료. 대기 중.</color>
+NPC-Bramedb(3)<通讯框><Speaker>브라메드</Speaker>||:<color=#00CCFF>훈련실의 모든 소모재, 청소 끝났습니다~</color>
+NytoWhite(0)<通讯框><Speaker>애슐리</Speaker>||:<color=#00CCFF>동서탑 핵심 설비 부품 분해 완료. 언니가 당부하신 것을 제외한 전부 이전을 마쳤습니다.</color>
+NytoWhite(0)<通讯框><Speaker>하얀 니토</Speaker>||:<color=#00CCFF>동탑 에너지 공급선, 정비 완료. 예비 선로 2개를 가동하였습니다.</color>
+Nyto(1)<通讯框><Speaker>검은 니토</Speaker>||:<color=#00CCFF>동탑 포스실드, 정비 완료. 언제든지 가동할 수 있습니다.</color>
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:준비되는 대로 포스실드를 전개해라.
+Nyto(1)<通讯框><Speaker>검은 니토</Speaker>||:<color=#00CCFF>예.</color>
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||<SE1>AVG_whitenoise</SE1>:그리고 모든 니토들의 컨셔스 파노라마를 연결해라.+다음 지시를 내리겠다.
+NytoWhite(0)<通讯框><Speaker>애슐리</Speaker>||:<color=#00CCFF>네, 바로 연결 구축하겠습니다.</color>。
+NPC-Bramedb(3)<通讯框><Speaker>브라메드</Speaker>||:<color=#00CCFF>난 안 돼, 내 방식 알잖아.</color>
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:너와 몰리도, 틸은 각자의 위치와 시간만 지키면 된다.
+NPC-Bramedb(3)<通讯框><Speaker>브라메드</Speaker>||:<color=#00CCFF>알았어.</color>
+()||<黑点1>:
+()||<黑点2><BIN>417</BIN>:
+()||:벌침 제어 센터의 스크린에 데이터스트림이 폭포처럼 쏟아졌다.
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:너희의 마지막 가치를 발하려무나, 불량품들아.
+()||<黑屏1>:
+()||<黑屏2><BIN>487</BIN><SE1>AVG_Tinnitus</SE1>:발전소가 출력을 높여, 파이프의 진동이 탑 밑바닥부터 위로 빠르게 퍼져,+구름까지 치솟은 동탑이 번쩍 빛을 발했다.+탑 각 부위에서 떠오른 실체 없는 방패들이 펼쳐지고 이어져, 마치 바나나 껍질처럼 빈틈없이 속살을 감쌌다.+동탑을 수비하는 포스실드가 전개되었다.
+()||<黑点1>:

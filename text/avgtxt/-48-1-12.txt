@@ -1,114 +1,114 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>8</BIN><BGM>BGM_Room</BGM>:신소련 S09 특구, 그리폰 기지.
-NPC-Persica(0)<Speaker>페르시카</Speaker>||:카리나는 전문 병원에 도착했대?
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:그렇습니다.
-()<Speaker></Speaker>||:지휘실에서 따끈따끈한 커피를 마시던 페르시카가 대뜸 헬리안에게 물었다.
-NPC-Persica(3)<Speaker>페르시카</Speaker>||:그애가 정리한 자료, 내가 여태까지 본 것들 중에서 가장 상세하던데...+증세가 악화되지 않으면 좋겠다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(3)||:그건 걱정할 필요 없습니다.+약품이 부족하다는 소식이 있긴 하지만...+본격적으로 치료를 받기만 하면 상태가 호전될 겁니다.
-NPC-Helian(0);NPC-Persica(3)<Speaker>페르시카</Speaker>||:그랬으면 좋겠네.+...그 어린 니토들은?
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:지휘관이 부재 중이니, 당분간은 하벨 씨가 맡기로 했습니다.
-NPC-Persica(3)<Speaker>페르시카</Speaker>||:그 영감탱이... 아쉽게 됐네.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:카리나가 병가 중이니, 그동안 필요한 것이 있다면 저를 부르시면 됩니다.
-()<Speaker></Speaker>||:안 그래도 피곤한 페르시카의 얼굴이 더욱 우거지상이 되었다.
-NPC-Persica(0)<Speaker>페르시카</Speaker>||:IOP에서보다는야 훨씬 낫지만...+설마 여기 와서까지 야근하게 될 줄은...
-NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(0)||:덕분에 전술인형들의 수복 작업이 순조롭게 진행되고 있죠.
-NPC-Helian(0);NPC-Persica(2)<Speaker>페르시카</Speaker>||:그야 당연하지...+나도 밥이나 축내려고 여기 온 게 아니라고...
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:지휘관도 복귀하면 분명 기뻐할――
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:삑.+그때, 통신기가 갑자기 울렸다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:......+발신자 표시 제한?
-NPC-Persica(0)<Speaker>페르시카</Speaker>||:뭐야?
-()<Speaker></Speaker>||:헬리안은 잠깐 고민하다 통신을 받았다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:여기는 그리폰&크루거 안전계약사, S09 기지다.+귀측의 신분과 용건을 밝혀라.
-()<Speaker></Speaker>||:......+............
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>139</BIN>:독일 베를린의 시가지.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Cheers</SE1><BGM>BGM_Room</BGM>:짠.+웨이터에게서 술잔을 받아, 나란히 놓인 고급진 소파에 앉은 두 남자가 가볍게 건배했다.
-NPC-Arla(0)<Speaker>？？？</Speaker>||:요즘 들어 베를린이 소란스러운데, 갑자기 초대해서 실례가 되지 않았으면 하오, 훈작사.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:국가인민군이 지키고 있는데, 그런 소란쯤 흐르는 강물의 작은 일렁임에 불과하다 믿어 의심치 않습니다, 슈바인슈타이거 장군.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:그 "작은 일렁임"으로부터 시작된 파도에 무너진 정권이 얼마나 많소이까? 국방부 장관인 나도 귀공만큼은 자신이 없소.
-()<Speaker></Speaker>||:민주독일 국방부 장관이자 국방위원회 부주석, 하인리히 슈바인슈타이거 장군.+그 자리에 오르기까지의 이력과 경험 모두 비범한 인물이었다.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:다 장군께서 직책에 사명감을 느끼신단 뜻 아니겠습니까. 하지만, 이 독일산 브랜디 한 잔이나 대접하려고 저를 부르시진 않으셨겠죠?
-NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:귀공은 여전하구려. 이번에는 한 10년만에 다시 보는 건가?
-NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:정확히 14년만입니다.
-NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:맙소사, 벌써 그렇게 지났다니. 그땐 우리도 팔팔했을 때인데. 귀공은 당시에 무슨 일을 했었지? 기자였던가?
-NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:그냥 작은 신문사의 편집장 노릇이나 하고 있었습니다. 왜 그러십니까, 설마 전쟁 때가 그립기라도 하신 겁니까?
-NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:하, 전쟁이 그리운 사람이 어딨다고.+훈작사, 젊은이들을 참호에 밀어넣던 나날이 내가 왜 그립겠소? 허나 같은 일이 다신 반복되지 않도록, 우리는 그때를 절대 잊지 말아야 하지. 안 그런가, "기자 양반"?
-NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:......
-NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:단도직입적으로 물어 미리 사과하는 바이오만, 귀공은 베를린에서 대체 무얼 하고 있는 거요?
-NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:그저 모처럼만의 휴가를 만끽하고 있을 뿐입니다.
-NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:허허, 휴가라. 귀공에겐 휴가일지 몰라도, 지금 귀공 때문에 머리가 아픈 사람이 잔뜩이라오.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:그야 그렇겠지요, 미래를 좌우할 회의가 코앞으로 다가오지 않았습니까. 필요한 준비 작업이라 생각해 주십시오.
-NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:훈작사, 귀공이 누구를 대표하여 어떤 일을 하는지는 나도 잘 아오.+이사회의 입장과, 당 내부의 태도도 아주 잘 알지.+내 미리 귀띔해 주자면, 국가인민군에게도 입장과 처지라는 것이 있고, 독일의 국민도 누가 적이고 누가 아군인지 다 알고있소.+그러니, 우리의 결정을 존중해 주길 바라오.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:정말 그리 된다면 대단히 유감스럽겠군요.
-NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:유감스럽지 않도록, 귀공도 자제를 해 주었으면 하는 바요.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:"그분"의 경고로 받아들여도 되겠습니까?
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리폰이 다시 술잔을 들었다.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:하하하하, 아니, 경고는 아니오.+그저, 선의의 충고로서 우리 모두 난처한 입장이 되지 말자는 뜻이지.+아무렴, 곧 루크사트의 이름 아래 국경을 넘어선 공동체가 탄생할 때가 머지않았는데. 우리 모두 "연맹"의 이익을 보호할 의무가 있지 않소?
-NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:그야 물론이죠. 단지 유럽의 미래는 독일의 판단에 달렸고, 독일의 미래는 당신들의 판단에 달렸지만 말입니다.+그렇다면, 그 말씀은 이사회를 향한 독일의 답이라고 봐도 되겠습니까?
-NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:하여간 귀공은 넘겨짚는 덴 선수란 말이야. 그냥 이 노인네가 귀공과의 취중담에 뱉은 옛날 이야기일 뿐이외다.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:알겠습니다. 그럼 오늘밤의 "파우스트", 기대하겠습니다.
-NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:아 참, 그러고 보니 최근에 또 긴장 상태인 모양이던데... 특히, 회의가 결정된 이후로 더욱 말이오.+루돌프도 런던에서 돌아온 이후로 계속 근심 가득한 모습이고...+그러니 솔직하게 말해 주길 바라오, 훈작사. 대체 런던에서 무슨 일이 있었소?
-NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:미래.
-NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:미래?
-NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:네, 장군. 이사회는 오직 미래를 바라봅니다.
-NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:미래란 너무 두루뭉술한 단어요, 훈작사. 독일은 당장 현재에 집중하느라 다른 것을 볼 여력이 없소.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:그렇기에 미래가 보이지 않는 것이라 생각해보시진 않으셨습니까? 그렇기에 우리가 살아가는 매일이 이토록 힘겨운 것이라 생각해보시진 않으셨습니까?+안목이 짧은 자들은 어디에나 존재하는 법이죠. 하지만 시간은 우리의 편입니다.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:그렇지, 시간은 우리 편이지. 이 낡은 집을 허물어 버리기 전까진.
-()<Speaker></Speaker>||:슈바인슈타이거 장군이 세련된 장식의 초대장을 꺼내 탁상에 올려 그리폰에게 내밀었다.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:우리 모두 운명의 교차로에 섰소. 그릇된 선택을 하면, 그대로 역사의 죄인으로 남겠지.+우리는 조국을 책임지는 몸이오, 훈작사. 귀공이 말하는 미래에, 유럽의 안녕은 포함되어 있는 것이오?
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:물론입니다.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:그렇다면 내 친구와도 이야기를 해야겠구려. 어쩌면 우리 함께 이 힘든 시기에 새로운 국면을 열 수 있을지도 모르니.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:......
-()<Speaker></Speaker>||:그리폰이 고개를 숙여 초대장에 적힌 주소를 읽었다. 그곳에서 누가 기다리고 있을지는 명백했다.+이것이 바로 파우스트의 계약이리라.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:오버슈타인 씨께, 오늘밤의 초대에 반드시 참석하겠다 전해 주십시오.
-()<Speaker></Speaker>||:그리폰은 자리에서 일어나, 초대장을 집어 외투의 안주머니에 넣으려 했다.+하지만 슈바인슈타이거의 손이 여전히 초대장을 꾹 눌러, 놓아주질 않았다.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:무슨 의미입니까?
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:사적으로 하고 싶은 이야기가 하나 더 있어서 말이오.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:...말씀하십시오.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:루돌프는... 두 가지 일로 아직도 과거에 사로잡혀 있소.+여기까지 왔으니, 내게도 알 권리가 있다고 보오.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:하지만 그분에 대해선 저보다 장군께서 더 잘 아실 텐데요.
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:루니샤.
-NPC-Griffin(1)<Speaker>그리폰</Speaker>||:......
-NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:루돌프의 딸.+그때, 대체 무슨 일이 있었던 거요?
-()<Speaker></Speaker>||:그제서야 그리폰은 깨달았다.+슈바인슈타이거 장군은 술을 한 모금도 입에 대지 않았다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>262</BIN><BGM>GF_21winter_avg_mahaline</BGM>:독일 베를린의 교외.
-()<Speaker>지휘관</Speaker>||:......
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 손가락 사이로 흘러내리는 축축한 흙 너머로, 눈앞의 고르게 다져진 땅을 멍하니 바라봤다.
-RO635Mod(2)<Speaker>RO635</Speaker>||:죄송합니다 지휘관님...+이런 금속판밖에 찾지 못했어요...
-()<Speaker>지휘관</Speaker>||:괜찮아, 그거면 충분해.
-()<Speaker></Speaker>||:RO635에게서 길쭉한 금속판을 받아든 지휘관은 그 고르게 다져진 땅 앞에 깊숙이 박았다.
-()<Speaker></Speaker>||:"고결한 두 영혼이 여기 잠들다."+"이들의 희생이, 어두운 세상에서 사람들을 이끌 등불을 밝히리."
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:이름은 안 적는 게 좋겠어.
-()<Speaker>지휘관</Speaker>||:그래도 누군가는 기억해 주겠지... 적어도, 우리는.
-()<Speaker></Speaker>||:지휘관은 합장하고 눈을 감아 기도했다.+그리고 한참 뒤, 자리에서 일어나 무릎에 묻은 흙을 털어냈다.
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:정말 데리고 돌아가면 안 돼?
-AR15Mod(0)<Speaker>AR15</Speaker>||:아직도 그 소리냐... 우린 지금 우리 목숨 부지하는 것만으로 벅차다니까.+게다가 만약에 무슨 일이 생겨서 시신이 훼손되기라도 하면... 더 후회하게 될 거야.+여기면 돼... 인적도 드물고, 경치도 좋잖아.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:너한테도 보는 눈이 있긴 했구나.+언젠가 나도 땅에 묻히게 되면 너한테 장의사 일 맡겨도 될까?
-AR15Mod(4)<Speaker>AR15</Speaker>||:.....
-()<Speaker></Speaker>||:놀리는 UMP45를 무시하면서, AR-15는 조용히 지휘관의 시선을 따라 초라한 묘비를 바라봤다.
-()<Speaker>지휘관</Speaker>||:......가자.
-AR15Mod(0)<Speaker>AR15</Speaker>||:네.
-()<Speaker></Speaker>||:UMP45는 그저 어깨를 으쓱하기만 하고, 그들과 함께 차로 돌아갔다.
-UMP9Mod(4)<Speaker>UMP9</Speaker>||<BGM>BGM_Empty</BGM><SE1>RunStep</SE1>:언니――!! 큰일났어――!!
-()<Speaker>지휘관</Speaker>||:무슨 일이지?
-()<Speaker></Speaker>||:모두가 슬픔에 젖은 그때, 차 안에서 UMP9이 우렁차게 고함을 질렀다.
-HK416Mod(0)<Speaker>HK416</Speaker>||:지휘관! 빨리 타세요!
-()<Speaker>지휘관</Speaker>||:무슨 일이야?
-()<Speaker></Speaker>||:HK416는 고개를 돌려 감금된 몰리도를 노려보며 대답했다.
-HK416Mod(0)<Speaker>HK416</Speaker>||:우려하던 일이 결국 터졌어요.+저년이 저희가 심문할 때 열었던 틈으로, 아주 잠깐이었지만 봉쇄를 뚫었어요.+다행히 제때 빠져나와서 다시 데이터스트림을 막았지만...+메시지 전송을 막는 덴 실패했어요.
-RO635Mod(3)<Speaker>RO635</Speaker>||:뭐?! 무슨 메시지를 보냈는데!?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:그야 우리로선 알 턱이 없겠지만, 지금 같은 상황에서 보낼 메시지라면...
-()<Speaker>지휘관</Speaker>||<BGM>10230</BGM>:...위치겠지.+SOP2! AR-15!+즉시――
-()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰아아앙!!!
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:우와악!?
-HK416Mod(0)<Speaker>HK416</Speaker>||:지휘관!!
-()<Speaker></Speaker>||<SE1>AVG_tinnitus_0</SE1>:갑작스런 폭음에 뒤이어 격렬한 충격파가 지휘관 일행을 덮쳤다.+그 순간, 지휘관은 물리적으로 천지가 뒤집히는 감각을 새삼스레 다시 느꼈다.+차량이 폭발에 전복된 것이었다.
-()<Speaker>지휘관</Speaker>||:크윽...!
-UMP9Mod(4)<Speaker>UMP9</Speaker>||<SE2>Gunfight</SE2>:으아아 언니 진짜 큰일났어!!+패러데우스의 병력이 이쪽으로 접근 중!
-AR15Mod(8)<Speaker>AR15</Speaker>||:지휘관! 다친 덴 없어요!?
-()<Speaker></Speaker>||<SE1>Rope</SE1>:AR-15가 황급히 전복된 차 안에서 지휘관을 끌어냈다.+여전히 혼란스러웠지만, 지휘관의 눈에도 저 멀리서 몰려오는 하얀 군단의 모습이 어렴풋이 보였다.
-()<Speaker>지휘관</Speaker>||:치잇... RO, 45, 포위 돌파 준비해!
-RO635Mod(4)<Speaker>RO635</Speaker>||:네!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>Select</SE1>:다른 선택지가 있는 것처럼 말하기는... 움직여!
-()||<黑点1><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>8</BIN><BGM>BGM_Room</BGM>:신소련 S09 특구, 그리폰 기지.
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:카리나는 전문 병원에 도착했대?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:그렇습니다.
+()<Speaker></Speaker>||:지휘실에서 따끈따끈한 커피를 마시던 페르시카가 대뜸 헬리안에게 물었다.
+NPC-Persica(3)<Speaker>페르시카</Speaker>||:그애가 정리한 자료, 내가 여태까지 본 것들 중에서 가장 상세하던데...+증세가 악화되지 않으면 좋겠다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(3)||:그건 걱정할 필요 없습니다.+약품이 부족하다는 소식이 있긴 하지만...+본격적으로 치료를 받기만 하면 상태가 호전될 겁니다.
+NPC-Helian(0);NPC-Persica(3)<Speaker>페르시카</Speaker>||:그랬으면 좋겠네.+...그 어린 니토들은?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:지휘관이 부재 중이니, 당분간은 하벨 씨가 맡기로 했습니다.
+NPC-Persica(3)<Speaker>페르시카</Speaker>||:그 영감탱이... 아쉽게 됐네.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:카리나가 병가 중이니, 그동안 필요한 것이 있다면 저를 부르시면 됩니다.
+()<Speaker></Speaker>||:안 그래도 피곤한 페르시카의 얼굴이 더욱 우거지상이 되었다.
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:IOP에서보다는야 훨씬 낫지만...+설마 여기 와서까지 야근하게 될 줄은...
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Persica(0)||:덕분에 전술인형들의 수복 작업이 순조롭게 진행되고 있죠.
+NPC-Helian(0);NPC-Persica(2)<Speaker>페르시카</Speaker>||:그야 당연하지...+나도 밥이나 축내려고 여기 온 게 아니라고...
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:지휘관도 복귀하면 분명 기뻐할――
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:삑.+그때, 통신기가 갑자기 울렸다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:......+발신자 표시 제한?
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:뭐야?
+()<Speaker></Speaker>||:헬리안은 잠깐 고민하다 통신을 받았다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:여기는 그리폰&크루거 안전계약사, S09 기지다.+귀측의 신분과 용건을 밝혀라.
+()<Speaker></Speaker>||:......+............
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>139</BIN>:독일 베를린의 시가지.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Cheers</SE1><BGM>BGM_Room</BGM>:짠.+웨이터에게서 술잔을 받아, 나란히 놓인 고급진 소파에 앉은 두 남자가 가볍게 건배했다.
+NPC-Arla(0)<Speaker>？？？</Speaker>||:요즘 들어 베를린이 소란스러운데, 갑자기 초대해서 실례가 되지 않았으면 하오, 훈작사.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:국가인민군이 지키고 있는데, 그런 소란쯤 흐르는 강물의 작은 일렁임에 불과하다 믿어 의심치 않습니다, 슈바인슈타이거 장군.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:그 "작은 일렁임"으로부터 시작된 파도에 무너진 정권이 얼마나 많소이까? 국방부 장관인 나도 귀공만큼은 자신이 없소.
+()<Speaker></Speaker>||:민주독일 국방부 장관이자 국방위원회 부주석, 하인리히 슈바인슈타이거 장군.+그 자리에 오르기까지의 이력과 경험 모두 비범한 인물이었다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:다 장군께서 직책에 사명감을 느끼신단 뜻 아니겠습니까. 하지만, 이 독일산 브랜디 한 잔이나 대접하려고 저를 부르시진 않으셨겠죠?
+NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:귀공은 여전하구려. 이번에는 한 10년만에 다시 보는 건가?
+NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:정확히 14년만입니다.
+NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:맙소사, 벌써 그렇게 지났다니. 그땐 우리도 팔팔했을 때인데. 귀공은 당시에 무슨 일을 했었지? 기자였던가?
+NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:그냥 작은 신문사의 편집장 노릇이나 하고 있었습니다. 왜 그러십니까, 설마 전쟁 때가 그립기라도 하신 겁니까?
+NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:하, 전쟁이 그리운 사람이 어딨다고.+훈작사, 젊은이들을 참호에 밀어넣던 나날이 내가 왜 그립겠소? 허나 같은 일이 다신 반복되지 않도록, 우리는 그때를 절대 잊지 말아야 하지. 안 그런가, "기자 양반"?
+NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:......
+NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:단도직입적으로 물어 미리 사과하는 바이오만, 귀공은 베를린에서 대체 무얼 하고 있는 거요?
+NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:그저 모처럼만의 휴가를 만끽하고 있을 뿐입니다.
+NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:허허, 휴가라. 귀공에겐 휴가일지 몰라도, 지금 귀공 때문에 머리가 아픈 사람이 잔뜩이라오.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:그야 그렇겠지요, 미래를 좌우할 회의가 코앞으로 다가오지 않았습니까. 필요한 준비 작업이라 생각해 주십시오.
+NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:훈작사, 귀공이 누구를 대표하여 어떤 일을 하는지는 나도 잘 아오.+이사회의 입장과, 당 내부의 태도도 아주 잘 알지.+내 미리 귀띔해 주자면, 국가인민군에게도 입장과 처지라는 것이 있고, 독일의 국민도 누가 적이고 누가 아군인지 다 알고있소.+그러니, 우리의 결정을 존중해 주길 바라오.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:정말 그리 된다면 대단히 유감스럽겠군요.
+NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:유감스럽지 않도록, 귀공도 자제를 해 주었으면 하는 바요.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:"그분"의 경고로 받아들여도 되겠습니까?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리폰이 다시 술잔을 들었다.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:하하하하, 아니, 경고는 아니오.+그저, 선의의 충고로서 우리 모두 난처한 입장이 되지 말자는 뜻이지.+아무렴, 곧 루크사트의 이름 아래 국경을 넘어선 공동체가 탄생할 때가 머지않았는데. 우리 모두 "연맹"의 이익을 보호할 의무가 있지 않소?
+NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:그야 물론이죠. 단지 유럽의 미래는 독일의 판단에 달렸고, 독일의 미래는 당신들의 판단에 달렸지만 말입니다.+그렇다면, 그 말씀은 이사회를 향한 독일의 답이라고 봐도 되겠습니까?
+NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:하여간 귀공은 넘겨짚는 덴 선수란 말이야. 그냥 이 노인네가 귀공과의 취중담에 뱉은 옛날 이야기일 뿐이외다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:알겠습니다. 그럼 오늘밤의 "파우스트", 기대하겠습니다.
+NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:아 참, 그러고 보니 최근에 또 긴장 상태인 모양이던데... 특히, 회의가 결정된 이후로 더욱 말이오.+루돌프도 런던에서 돌아온 이후로 계속 근심 가득한 모습이고...+그러니 솔직하게 말해 주길 바라오, 훈작사. 대체 런던에서 무슨 일이 있었소?
+NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:미래.
+NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:미래?
+NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:네, 장군. 이사회는 오직 미래를 바라봅니다.
+NPC-Griffin(1);NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:미래란 너무 두루뭉술한 단어요, 훈작사. 독일은 당장 현재에 집중하느라 다른 것을 볼 여력이 없소.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>;NPC-Arla(0)||:그렇기에 미래가 보이지 않는 것이라 생각해보시진 않으셨습니까? 그렇기에 우리가 살아가는 매일이 이토록 힘겨운 것이라 생각해보시진 않으셨습니까?+안목이 짧은 자들은 어디에나 존재하는 법이죠. 하지만 시간은 우리의 편입니다.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:그렇지, 시간은 우리 편이지. 이 낡은 집을 허물어 버리기 전까진.
+()<Speaker></Speaker>||:슈바인슈타이거 장군이 세련된 장식의 초대장을 꺼내 탁상에 올려 그리폰에게 내밀었다.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:우리 모두 운명의 교차로에 섰소. 그릇된 선택을 하면, 그대로 역사의 죄인으로 남겠지.+우리는 조국을 책임지는 몸이오, 훈작사. 귀공이 말하는 미래에, 유럽의 안녕은 포함되어 있는 것이오?
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:물론입니다.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:그렇다면 내 친구와도 이야기를 해야겠구려. 어쩌면 우리 함께 이 힘든 시기에 새로운 국면을 열 수 있을지도 모르니.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:......
+()<Speaker></Speaker>||:그리폰이 고개를 숙여 초대장에 적힌 주소를 읽었다. 그곳에서 누가 기다리고 있을지는 명백했다.+이것이 바로 파우스트의 계약이리라.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:오버슈타인 씨께, 오늘밤의 초대에 반드시 참석하겠다 전해 주십시오.
+()<Speaker></Speaker>||:그리폰은 자리에서 일어나, 초대장을 집어 외투의 안주머니에 넣으려 했다.+하지만 슈바인슈타이거의 손이 여전히 초대장을 꾹 눌러, 놓아주질 않았다.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:무슨 의미입니까?
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:사적으로 하고 싶은 이야기가 하나 더 있어서 말이오.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:...말씀하십시오.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:루돌프는... 두 가지 일로 아직도 과거에 사로잡혀 있소.+여기까지 왔으니, 내게도 알 권리가 있다고 보오.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:하지만 그분에 대해선 저보다 장군께서 더 잘 아실 텐데요.
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:루니샤.
+NPC-Griffin(1)<Speaker>그리폰</Speaker>||:......
+NPC-Arla(0)<Speaker>슈바인슈타이거</Speaker>||:루돌프의 딸.+그때, 대체 무슨 일이 있었던 거요?
+()<Speaker></Speaker>||:그제서야 그리폰은 깨달았다.+슈바인슈타이거 장군은 술을 한 모금도 입에 대지 않았다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>262</BIN><BGM>GF_21winter_avg_mahaline</BGM>:독일 베를린의 교외.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 손가락 사이로 흘러내리는 축축한 흙 너머로, 눈앞의 고르게 다져진 땅을 멍하니 바라봤다.
+RO635Mod(2)<Speaker>RO635</Speaker>||:죄송합니다 지휘관님...+이런 금속판밖에 찾지 못했어요...
+()<Speaker>지휘관</Speaker>||:괜찮아, 그거면 충분해.
+()<Speaker></Speaker>||:RO635에게서 길쭉한 금속판을 받아든 지휘관은 그 고르게 다져진 땅 앞에 깊숙이 박았다.
+()<Speaker></Speaker>||:"고결한 두 영혼이 여기 잠들다."+"이들의 희생이, 어두운 세상에서 사람들을 이끌 등불을 밝히리."
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:이름은 안 적는 게 좋겠어.
+()<Speaker>지휘관</Speaker>||:그래도 누군가는 기억해 주겠지... 적어도, 우리는.
+()<Speaker></Speaker>||:지휘관은 합장하고 눈을 감아 기도했다.+그리고 한참 뒤, 자리에서 일어나 무릎에 묻은 흙을 털어냈다.
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:정말 데리고 돌아가면 안 돼?
+AR15Mod(0)<Speaker>AR15</Speaker>||:아직도 그 소리냐... 우린 지금 우리 목숨 부지하는 것만으로 벅차다니까.+게다가 만약에 무슨 일이 생겨서 시신이 훼손되기라도 하면... 더 후회하게 될 거야.+여기면 돼... 인적도 드물고, 경치도 좋잖아.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:너한테도 보는 눈이 있긴 했구나.+언젠가 나도 땅에 묻히게 되면 너한테 장의사 일 맡겨도 될까?
+AR15Mod(4)<Speaker>AR15</Speaker>||:.....
+()<Speaker></Speaker>||:놀리는 UMP45를 무시하면서, AR-15는 조용히 지휘관의 시선을 따라 초라한 묘비를 바라봤다.
+()<Speaker>지휘관</Speaker>||:......가자.
+AR15Mod(0)<Speaker>AR15</Speaker>||:네.
+()<Speaker></Speaker>||:UMP45는 그저 어깨를 으쓱하기만 하고, 그들과 함께 차로 돌아갔다.
+UMP9Mod(4)<Speaker>UMP9</Speaker>||<BGM>BGM_Empty</BGM><SE1>RunStep</SE1>:언니――!! 큰일났어――!!
+()<Speaker>지휘관</Speaker>||:무슨 일이지?
+()<Speaker></Speaker>||:모두가 슬픔에 젖은 그때, 차 안에서 UMP9이 우렁차게 고함을 질렀다.
+HK416Mod(0)<Speaker>HK416</Speaker>||:지휘관! 빨리 타세요!
+()<Speaker>지휘관</Speaker>||:무슨 일이야?
+()<Speaker></Speaker>||:HK416는 고개를 돌려 감금된 몰리도를 노려보며 대답했다.
+HK416Mod(0)<Speaker>HK416</Speaker>||:우려하던 일이 결국 터졌어요.+저년이 저희가 심문할 때 열었던 틈으로, 아주 잠깐이었지만 봉쇄를 뚫었어요.+다행히 제때 빠져나와서 다시 데이터스트림을 막았지만...+메시지 전송을 막는 덴 실패했어요.
+RO635Mod(3)<Speaker>RO635</Speaker>||:뭐?! 무슨 메시지를 보냈는데!?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:그야 우리로선 알 턱이 없겠지만, 지금 같은 상황에서 보낼 메시지라면...
+()<Speaker>지휘관</Speaker>||<BGM>10230</BGM>:...위치겠지.+SOP2! AR-15!+즉시――
+()<Speaker></Speaker>||<震屏3><SE1>Explode</SE1>:콰아아앙!!!
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:우와악!?
+HK416Mod(0)<Speaker>HK416</Speaker>||:지휘관!!
+()<Speaker></Speaker>||<SE1>AVG_tinnitus_0</SE1>:갑작스런 폭음에 뒤이어 격렬한 충격파가 지휘관 일행을 덮쳤다.+그 순간, 지휘관은 물리적으로 천지가 뒤집히는 감각을 새삼스레 다시 느꼈다.+차량이 폭발에 전복된 것이었다.
+()<Speaker>지휘관</Speaker>||:크윽...!
+UMP9Mod(4)<Speaker>UMP9</Speaker>||<SE2>Gunfight</SE2>:으아아 언니 진짜 큰일났어!!+패러데우스의 병력이 이쪽으로 접근 중!
+AR15Mod(8)<Speaker>AR15</Speaker>||:지휘관! 다친 덴 없어요!?
+()<Speaker></Speaker>||<SE1>Rope</SE1>:AR-15가 황급히 전복된 차 안에서 지휘관을 끌어냈다.+여전히 혼란스러웠지만, 지휘관의 눈에도 저 멀리서 몰려오는 하얀 군단의 모습이 어렴풋이 보였다.
+()<Speaker>지휘관</Speaker>||:치잇... RO, 45, 포위 돌파 준비해!
+RO635Mod(4)<Speaker>RO635</Speaker>||:네!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||<SE1>Select</SE1>:다른 선택지가 있는 것처럼 말하기는... 움직여!
+()||<黑点1><BIN>10</BIN>:

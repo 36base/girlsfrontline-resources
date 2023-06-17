@@ -1,0 +1,121 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>586</BIN>:공연 시작 5분 전, 프랑슈슈는 오프닝 준비를 위해 무대 백스테이지로 이동했다.
+()||<SE1>RunStep</SE1>:당신은 그들을 배웅한 뒤, 바로 나이트 카페의 VVIP 대기실로 직행했다.
+()||<白屏1><SE1>AVG_20Winter_Door_Open</SE1>:
+()<Speaker></Speaker>||<白屏2><BIN>470</BIN><SE1>AVG_20Winter_Door_Close</SE1><BGM>BGM_Saga_AVG_Dusk</BGM>:대기실에 나이트 카페는 없었지만, 대신 눈살을 찌푸리고 업무를 보는 중인 사람이 있었다.+그 모습을 본 당신은 한참을 준비했던 말이 목에 걸려 나오질 않았다. 저 더없이 익숙한 얼굴을 이렇게 다시 보니 문자 그대로 목이 메였다.+평소대로 지휘실의 문을 열고 매일 보는 그녀를 부를 때처럼 이름을 불렀을 때, 한순간 이미 그리폰 기지로 돌아온 듯한 기분까지 들었다.
+()<Speaker>지휘관</Speaker>||:카리나...
+NPC-Kalin(2)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:예에 무슨 일이신... 음?
+()<Speaker></Speaker>||:키보드를 두들기던 손을 멈추고 고개를 돌린 "카리나"는 당신을 보곤 어리둥절한 눈빛으로 미간을 좁혔다.
+()<Speaker>지휘관</Speaker>||:드디어 다시 보네...+정말 미안해, 지난 며칠 내내 날 찾느라 고생 많았지...?
+NPC-Kalin(4)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:......?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:떨리는 다리로 카리나에게 다가간 당신은 그녀의 두 손을 붙잡았다.
+()<Speaker>지휘관</Speaker>||:너, 너희는 대체 어떻게 여기로 왔어? 아니, 그게 중요한 게 아니지...+얼른 기지로 돌아가자! 약속할게, 다신 꾀병 부려서 일 안 떠맡길 테니까!
+NPC-Kalin(3)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:............
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:카리나는 의미심장하게 당신을 빤히 바라보다, 눈이 확 가늘어지는 동시에 붙잡힌 손을 홱 뺐다.
+NPC-Kalin(3)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:누구시죠?
+NPC-Kalin(3)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||:뭐? 무, 무슨 소리야, 며칠 못 봤다고 내 얼굴 벌써 까먹었어? 네 지휘관이잖아.
+NPC-Kalin(2)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:지휘관... 지휘관님...?
+()<Speaker>지휘관</Speaker>||:생각났어?
+()<Speaker></Speaker>||:카리나의 눈이 익숙한 금빛으로 번쩍였다.
+NPC-Kalin(1)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<SE1>AVG_Cheerful</SE1>:혹시 군에서 나오셨나요!?
+NPC-Kalin(1)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||:......엉?
+NPC-Kalin(1)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:위문 공연이나 해외 순방 공연 섭외 건으로 오셨나요? 정말 끝내주는 타이밍에 오셨네요! +사가에서의 스케줄 이후 몇 개월 정도는 나이트 카페도 그레이 트리도 아직 예정이 확정된 게 없거든요~ 이참에――
+NPC-Kalin(1)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||:그리폰&크루거 안전계약사! 군대와는 관계 없어!+넌 내 부관이잖아, 왜 아무것도 모른다는 듯이 말해?
+NPC-Kalin(3)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:그리폰? 왠지 빈곤한 이미지가 연상되는 이름인걸요...
+()<Speaker>지휘관</Speaker>||:......+<color=#A9A9A9>(분하지만 반박할 수가 없다...)</color>
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:어쨌든, 예산 규모가 1천만 엔 미만이라면 제 시간 빼앗지 말아 주세요. 이래 봬도 바쁘답니다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_21Winter_Click_Keyboard</SE1>:그 말을 끝으로 카리나는 무심하게 다시 키보드에 손을 올렸고, 당신은 다른 누구도 아닌 그녀의 이런 태도를 믿을 수 없어 주의를 다시 돌리고자 되는대로 말했다.
+()<Speaker>지휘관</Speaker>||:......<c>A 작은 목표부터 시작하자.<c>B 수입 더 좋은 직장을 소개해 줄게!<c>C 우리가 함께했던 나날들을 잊은 거야!?
+()<Speaker>지휘관</Speaker>||<分支>2</分支><BGM>BGM_23SF_Battle_2</BGM>:내가 알기론 보통 아이돌의 수입은 아이돌 본인과 소속사가 받고, 매니저는 얼마 못 받을 테지?
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>2</分支>:뭐어, 현재 아이돌 업계는 보통 그런 식이죠.
+NPC-Kalin(0)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||<分支>2</分支>:그런 너에게 내가 일자리 하나 소개시켜 줄게! 쉽고 편하면서 봉급은 어마어마하고, 유급 휴가도 매년 엄청 나와!
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>2</分支>:흐음... 자세한 업무 내용은요?
+NPC-Kalin(0)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||<分支>2</分支>:가끔씩 흘러들어오는 철혈 찌끄레기 정도나 쫓아내는 걸 도와주면 돼.+수입에 대해선, 기지의 재정 관리 권한을 네게 전권 위임하고!
+NPC-Kalin(1)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>2</分支>:하하하, 그것 참 재미있는 얘기네요.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:그치? ...잠깐, 뉘앙스가 다른데.
+()<Speaker></Speaker>||<分支>2</分支><SE1>ClothingUp</SE1>:카리나는 자신의 노트북 화면을 당신에게 돌렸다.
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>2</分支>:잘 모르시나 본데, 전 여타 아이돌 그룹의 매니저하곤 차원이 다르답니다. 그냥 나이트 카페와 그레이 트리의 매니저가 아니에요.+주식회사 "카리나 엔터테인먼트"의 CEO예요.
+NPC-Kalin(0)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||<分支>2</分支><震屏3>:엑... 네, 네가 사장이라고?!
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>2</分支>:얘네가 벌어들이는 수입 한 푼 한 푼이 전부 제 돈이에요.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:그게 어떻게 전부 네 돈이야?! 완전 악덕 사장이네, 노동법 무시하냐!?
+()<Speaker></Speaker>||<分支>2</分支><SE1>AVG_Button_Click</SE1><SE1>AVG_ElecSpace</SE1><BGM>BGM_Empty</BGM>:카리나는 오만방자하게 코웃음치며 테이블 옆의 경보기를 눌렀다.
+()<Speaker>지휘관</Speaker>||<分支>1</分支><BGM>BGM_23SF_Battle_2</BGM>:콜라보레이션을 제안한다! 단계적 목표도 구상해놨어!
+NPC-Kalin(3)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>1</分支>:단계적 목표요?
+NPC-Kalin(3)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||<分支>1</分支>:그래! 뭐든 작은 것부터 시작하라잖아? 그래서 작은 규모의 목표부터 정하자고.
+NPC-Kalin(2)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>1</分支>:어떤 시장 말이신가요? 일본 시장 점령이라면 이미 달성했는데요.
+NPC-Kalin(2)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||<分支>1</分支><SE1>AVG_Cash_register</SE1>:일단 매출 1억부터 찍는다!
+NPC-Kalin(3)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>1</分支>:......
+()<Speaker></Speaker>||<分支>1</分支>:카리나의 눈동자에서 익숙한 금빛이 아주 잠깐 반짝였다 바로 사라졌다.
+NPC-Kalin(3)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>1</分支>:사기 같네요.
+NPC-Kalin(3)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||<分支>1</分支>:이 목표를 어떻게 달성할지에 대해서 궁금하지도 않아?
+NPC-Kalin(3)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>1</分支>:뭐어... 어디 한번 들어나 보죠.
+NPC-Kalin(3)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||<分支>1</分支>:먼저 날 그리폰으로 돌려보내 주면 찬찬히 설명해 줄게.
+NPC-Kalin(1)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>1</分支>:아아, 예에...
+()<Speaker></Speaker>||<分支>1</分支><BGM>BGM_Empty</BGM><SE1>AVG_Button_Click</SE1><SE1>AVG_ElecSpace</SE1>:카리나는 체념한 듯한 미소를 짓더니, 재빠른 속도로 테이블 옆의 경보 버튼을 눌렀다.
+()<Speaker>지휘관</Speaker>||<分支>3</分支><BGM>BGM_Empty</BGM>:정말 날 잊어버린 거니, 카리나...?
+()<Speaker>지휘관</Speaker>||<分支>3</分支><BGM>GF_Memorial</BGM>:내가 그리폰에 막 입사했을 땐 너도 막 부관이 된 참이어서, 함께 기지에서 업무를 차근차근 배워 나갔잖아... 날이 갈수록 어려워져서 우리 모두 고생이 이만저만이 아니었지...
+NPC-Kalin(3)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>3</分支>:......
+NPC-Kalin(3)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||<分支>3</分支>:함께 인형들 걱정도 하면서 얼마나 많은 밤을 같이 지세웠는지...+내 의지가 흔들리고 무너질 것 같을 땐 항상 네가 곁에서 응원해 줘서 이겨낼 수 있었는데...!
+NPC-Kalin(3)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>3</分支>:......
+NPC-Kalin(3)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||<分支>3</分支>:팔디스키에서 간신히 살아남았던 일은 기억해?+그렇게나 절망적인 상황에서도 너는――
+NPC-Kalin(1)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>3</分支><BGM>BGM_Empty</BGM><SE1>AVG_Spanner</SE1>:잠깐 스톱이요.
+NPC-Kalin(1)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||<分支>3</分支>:기, 기억났니?!
+NPC-Kalin(1)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>3</分支>:지금 하는 얘기에서, 제가 추가 수당은 받았나요?
+NPC-Kalin(1)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||<分支>3</分支>:응? 어어... 사칙에 추가 수당 관련 조항은 없던 걸로 기억하는데...
+NPC-Kalin(1)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>3</分支>:그럼 제가 당신의 부관으로 일하면서 승진이나 연봉 인상은 받은 적 있나요?
+NPC-Kalin(1)<Speaker>지휘관</Speaker><Position>0,-180</Position><Scale>1.3</Scale><同时置暗>||<分支>3</分支>:......아니.
+()<Speaker></Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<分支>3</分支><SE1>AVG_ElecSpace</SE1><SE1>AVG_Button_Click</SE1><BGM>BGM_Empty</BGM>:카리나는 숨을 천천히, 깊게 들이쉬더니, 눈으로 쫓기 힘든 속도로 테이블 옆의 경보기를 연타했다.
+NPC-Kalin(8)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:경비원, 이 사람 내보내 주세요!
+()<Speaker>지휘관</Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:<size=50>자, 잠깐만!!</size>
+()<Speaker></Speaker>||<SE1>Rope</SE1>:정장을 입은 거한 2명이 눈 깜짝할 사이에 나타나 당신을 번쩍 들어올렸다.
+NPC-Kalin(1)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||<BGM>BGM_stage12</BGM>:지금 막 알아봤는데요...+당신, 오늘 오프닝 공연을 맡은 프랑슈슈의 임시 매니저시네요?
+()<Speaker>지휘관</Speaker>||:어... 그게 그러니까...
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:먼저 당신의 그룹부터 신경쓰시는 게 어때요? 지금 무대 상황 안 좋아 보이는데.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>9</BIN><SE1>AVG_tele_connect</SE1><SE1>AVG_Howling</SE1>:카리나가 무대 확인용 CCTV 화면을 틀었고, 거기에 비친 프랑슈슈는 오프닝 무대 공연을 하는 중이었는데... 뭔가 잘못됐다.
+()<Speaker></Speaker>||<SE1>AVG_Crowd</SE1>:뻣뻣하고 어색한 안무, 초조함과 절망감이 선명한 얼굴들, 그리고 노래까지 완전히 묻어버리는 무대 아래 관객들의 야유까지...
+()||<黑屏1>:
+()<Speaker>지휘관</Speaker>||<黑点2><BIN>470</BIN>:어... 어떻게 이럴 수가...
+NPC-Kalin(0)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:제 나이트 카페를 염탐하러 왔든 콜라보레이션 기회를 찾으러 왔든...+먼저 당신의 프랑슈슈부터 우리와 같은 무대에 오를 실력을 쌓은 다음에나 얘기하도록 해요.
+()<Speaker>지휘관</Speaker>||<震屏3>:<size=50>카리나!</size>
+NPC-Kalin(1)<Speaker>카리나?</Speaker><Position>0,-180</Position><Scale>1.3</Scale>||:안녕히 가세요, 지휘관 씨. 당신은 지금 돈 버는 데 방해만 돼요.
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:카리나가 울부짖는 당신을 무시하고 손짓하자, 경비원들은 그대로 당신을 밖으로 끌고 나갔다.
+()<Speaker></Speaker>||:당신은 그저, 돈 세는 일에 푹 빠진 그녀의 얼굴이 점점 멀어져만 가는 것을 눈 뜨고 지켜볼 수밖에 없었다.
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_20Winter_Door_Close</SE1>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>587</BIN><BGM>BGM_Empty</BGM>:밤이 깊은 오래된 저택.+돌아온 프랑슈슈는 그대로 로비에 주저앉아버렸다. 화장을 지운 그들의 얼굴에는 좀비임에도 피곤함이 역력했다.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1><BGM>BGM_Saga_AVG_Dusk</BGM>:당신은 거의 30분가량 로비를 서성이며 성질을 부려, 소파에 화풀이로 내지른 주먹 자국이 골고루 찍혔을 지경이었다.
+()<Speaker>지휘관</Speaker>||<震屏3><SE1>AVG_Punch</SE1>:<size=50>뭐냐고! 같은 아이돌 그룹인데 왜 이렇게 대우차가 심한 거야!!?</size>
+()<Speaker>지휘관</Speaker>||<震屏3><SE1>AVG_Punch</SE1>:<size=50>그리고 그 카리나도! 어떻게 나한테 그럴 수 있어!</size>
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:지휘관... 속 풀어요...
+()<Speaker>지휘관</Speaker>||<SE1>Stop_AVG_loop</SE1>:......
+()<Speaker></Speaker>||:사쿠라의 말에 그제서야 당신은 정신을 차렸다. 지금 위로가 필요한 사람은 자신이 아니라 무대에서 굴욕을 겪은 프랑슈슈였으니까.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:당신은 계속 서성이던 발을 우뚝 멈춰, 계속 당신 뒤를 따라다니며 다독이던 사쿠라를 돌아보았다.
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:우리... 다 망쳐부렀다야...
+NPC-Sakura(10)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:사쿠라...
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:에헤헤... 코타로 씨, 지금 여기 있었으믄 "바~보 바~보 바아아보 좀비~!"라고 놀려댔을 틴디...
+()<Speaker></Speaker>||:사쿠라가 애써 미소를 지으려 했지만, 쓰디 쓴 마음이 입꼬리를 짓눌렀다.
+()<Speaker>지휘관</Speaker>||:무리하지 마렴, 울고 싶으면 울면 돼.
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:지휘관... 지휘관이 나보다 더 울상이면서...
+()<Speaker></Speaker>||<震屏3><SE1>AVG_File_Put</SE1>:타에가 이미 축축해진 티슈를 당신의 얼굴에 불쑥 들이밀었다. 한숨을 푹 쉬며 그걸 받은 당신은 또 그제서야 모두가 당신 주위로 모인 것을 알아챘다.
+NPC-Tae(8)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:으어어... (울지 말라는 것 같다.)
+NPC-MizunoAi(7)<Speaker>미즈노 아이</Speaker><Position>60,-190</Position><Scale>1.27</Scale>||:울 게 뭐 있어, 우리 실력이 나이트 카페보다 한참 모자란 게 사실인데.+잔혹한 현실이지만... 마주하고 더 열심히 노력하면 되지.
+NPC-Junko(10)<Speaker>콘노 준코</Speaker><Position>60,-90</Position><Scale>1.27</Scale>||:모두 함께 힘내요, 아직 완전히 지진 않았아요.+바로 나흘 뒤에 또 기회가 있잖아요?
+NPC-Sakura(9)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:응! 우리라면 분명 해낼 수 있어!+여태까지의 시련도 다 극복해냈잖아!
+()<Speaker></Speaker>||:사쿠라 곁에 온 아이와 준코는 표정은 어두워도 그 눈빛만큼은 굳은 결의와 용기로 빛났다.
+()<Speaker>지휘관</Speaker>||:그래... 지금까지의 훈련 스케줄이 너무 보수적인 탓이야.+앞으로 나흘 뒤에 있을 라이브 콘서트에 대비하려면 스케줄을 대폭 수정할 필요가 있겠어...
+NPC-MizunoAi(6)<Speaker>미즈노 아이</Speaker><Position>60,-190</Position><Scale>1.27</Scale>||:나랑 같은 생각이네? 스스로 깨우치다니 이제 프로듀서 다 됐는걸.
+()<Speaker>지휘관</Speaker>||:어... 그런가?
+()<Speaker></Speaker>||:오늘의 경험을 떠올리자 절로 쓴웃음이 나왔다.+"일상"으로 돌아갈 열쇠를 찾았다 생각해 모든 걸 내던지고 문턱까지 왔건만, 그제서야 다 절박함에서 비롯된 허상임을 깨달았다.+그 문 너머에 있던 것은 당신을 전혀 모르는 인형들과 카리나였다.+지금 당신에게 있는 것은 프랑슈슈와의 유대뿐이다.
+NPC-Saki(11)<Speaker>니카이도 사키</Speaker><Position>0,-150</Position><Scale>1.34</Scale>||:그러니까 인상 펴라 임마!+우리야 한숨 푹푹 쉴 수 있어도 네가 그럼 안 대제! 우릴 이끌고 전진해야 될 거 아니야!
+NPC-Saki(11)<Speaker>니카이도 사키</Speaker><Position>0,-150</Position><Scale>1.34</Scale>||<震屏3><SE1>AVG_Punch</SE1>:여기서 무너지지 말라고!
+()<Speaker></Speaker>||:사키도 털털하게 등을 퉁퉁 치며 격려해 주었다. 그런데 괜한 착각일까, 왠지 평소보다 힘이 덜 들어간 것 같았다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리고, 다른 부드럽고 상냥한 한 쌍의 손이 다른 어깨 위에 올려졌다.
+NPC-Yugiri(6)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.9</Scale>||:걱정 마시와요, 이런 상황이 처음도 아닌걸요.+프랑슈슈가 활동을 막 시작했을 무렵에는 조롱과 비난도 많이 받았사와요. 덕분에 어찌 대처해야 하는지 익숙해졌답니다.+게다가, 이번엔 지휘관님이 함께 방도를 강구해 주시니 우리가 해내리라 믿어 의심치 않사와요.
+NPC-Lily(11)<Speaker>호시카와 릴리</Speaker><Position>70,-160</Position><Scale>1.24</Scale>||:기운 내! 기운 없으면 노래 못 불러!
+()<Speaker></Speaker>||:당신에게 모인 손길들에, 다시 한 번 쓴웃음이 지어졌다.+위로와 격려가 필요한 건 프랑슈슈이건만, 오히려 당신에게 이들에게 격려를 받았다니.+하지만 확실히, 그런 말을 들으니 지치고 좌절했던 심장이 다시 뛰기 시작했다.
+()<Speaker>지휘관</Speaker>||:좋았어... 그럼 모두 함께 힘내볼까!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:마음을 다잡은 당신은 손을 내밀어, 프랑슈슈의 손을 하나로 모았다.+이는 당신의 장엄한 맹세, 프랑슈슈를 떠받쳐 구름 너머로 높이 띄워 줄 약속이었다.
+()<Speaker>지휘관</Speaker>||:오늘의 굴욕은 반드시 갚는다!
+()<Speaker>지휘관</Speaker>||<震屏3>:<size=50>카리나 녀석 코를 납작하게 만들어 주겠어!</size>
+()||<黑点1>:

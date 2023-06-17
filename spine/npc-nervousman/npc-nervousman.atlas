@@ -1,0 +1,153 @@
+
+npc-nervousman.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Larm1
+  rotate: false
+  xy: 202, 64
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+Larm2
+  rotate: false
+  xy: 407, 102
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+Lhand
+  rotate: false
+  xy: 142, 37
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+Lleg1
+  rotate: true
+  xy: 57, 16
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Lleg2
+  rotate: true
+  xy: 163, 60
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+Rarm1
+  rotate: false
+  xy: 224, 79
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+Rarm2
+  rotate: false
+  xy: 435, 102
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+Rhand
+  rotate: false
+  xy: 460, 103
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Rleg1
+  rotate: true
+  xy: 371, 99
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+Rleg2
+  rotate: true
+  xy: 332, 97
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 93, 2
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 163, 92
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 2, 14
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 93, 59
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 2, 45
+  size: 89, 81
+  orig: 89, 81
+  offset: 0, 0
+  index: -1
+lex1
+  rotate: false
+  xy: 288, 101
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 2, 2
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+mouth2
+  rotate: false
+  xy: 24, 2
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+mouth3
+  rotate: false
+  xy: 163, 53
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 246, 99
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 224, 106
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1

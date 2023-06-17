@@ -1,2 +1,144 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||:<color=#FFFF00>마인드맵 기록 분석 중...</color>+<color=#FFFF00>분석 완료 예상 시각... 5월 20일 16시 00분</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker>MP443</Speaker>||<黑屏2><BIN>9</BIN>:PPK! 얼른 일어나!
+()<Speaker>PPK</Speaker>||:......
+()<Speaker>MP443</Speaker>||:어떡하지 파이슨? 얘 또 다운됐나 봐!+싸대기라도 마구 때려서 깨워 볼... 아니 그건 보복이 무서우니까――
+()<Speaker>PPK</Speaker>||:으윽...
+()<Speaker>MP443</Speaker>||<黑屏1>:오오 깼다 깼어!+<size=50>PPK!!!</size>
+()||<睁眼><BIN>476</BIN><BGM>GF_EV9_Story</BGM>:PPK가 어둠 속에서 깨어나자마자 눈에 들어온 광경은, 손바닥을 번쩍 들어 따귀를 날리기 직전인 MP443의 모습이었다.
+MP443_MOD(0)<Speaker>MP443</Speaker>||<震屏>:드디어 일어났구나! 어떡하면 좋을지 진짜 몰랐다고!
+PPKMod(0)<Speaker>PPK</Speaker>||:여긴...+아... 잠깐, 그 여자애. 사나야는?
+MP443_MOD(0)<Speaker>MP443</Speaker>||:엥... 무슨 여자애? 사나야는 그 아리따운 킬러인가 뭐시긴가 아니었어?
+()||:PPK는 자리를 박차고 일어나며 권총을 가볍게 들었다. 소체의 힘과 날렵함이 돌아왔다.
+PPKMod(0)<Speaker>PPK</Speaker>||:우리의 임무 목표. 방금 걔가 스스로 내 앞에 나타나서는, 나랑 달리기 시합을 하자면서... 저기......?
+()||:그 바위를 가리키려던 PPK의 손은 방향을 잃었다. 시야 범위 내에 있어야 할 그 특징적인 바위는 어디에도 보이지 않았다.
+MP443_MOD(0)<Speaker>MP443</Speaker>||:대체 무슨 뚱딴지같은 소리야? 여기 오염도 어느 정돈지 알기나 해?+인간 꼬마가 여기서 꺅꺅대며 달리기 시합이라도 했다간 결승점이 아니라 저승길로 골인이야.
+MP443_MOD(0)<Speaker>MP443</Speaker>||<SE1>AVG_21Winter_Error</SE1>:그리고, 우리 임무 목표의 이름은 □□□잖아.
+MP443_MOD(0)<Speaker>MP443</Speaker>||<SE1>AVG_21Winter_Error</SE1>:혹시 모르니까 다시 확인해 주는데, 보모 인형은 모델이 □□□□고 이름은 □□□이야.
+PPKMod(0)<Speaker>PPK</Speaker>||:......뭐? 지금 뭐라 했어...?
+()||:MP443이 허리에 손을 얹고 힘차게 설명했지만, 어찌 된 영문인지 가장 핵심적인 정보만 기괴한 잡음으로 들렸다.
+MP443_MOD(0)<Speaker>MP443</Speaker>||:엑, 너 진짜 괜찮아? 혹시 그 사나야 때문에 마인드맵이 망가진 거 아니야?
+PPKMod(0)<Speaker>PPK</Speaker>||:......+그럼 폭발은? 방금 폭발음 못 들었어?+나랑 임무 목표가 기습적으로 폭발에 맞았는데...
+MP443_MOD(0)<Speaker>MP443</Speaker>||:폭발...? 아니, 주변에 폭발 흔적조차 없는걸.+그리고... 너 몸도 멀쩡하잖아.
+PPKMod(0)<Speaker>PPK</Speaker>||:.........
+()||:소체 검사 결과도 마찬가지였다. 어떤 손상도 없었다.+어디까지가 현실이고 어디까지가 환각인지 구분도 불가능해지다니, 마인드맵이 착란까지 일으키기 시작한 것 같았다.
+MP443_MOD(0)<Speaker>MP443</Speaker>||:PPK, 이거 진짜 안 괜찮다 수준을 넘어선 거 같아. 완전 제정신이 아니라고.+역시 임무를 중단하고 조치를 취하는 게 좋겠어.
+PPKMod(0)<Speaker>PPK</Speaker>||:......+먼저 지휘관에게 다시 연락을―― 어?
+()||<SE1>AVG_tele_connect</SE1>:PPK가 통신 요청을 보내기도 전에 먼저 통신음이 울렸다.
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>PPK? 이쪽에서 여러 번 검사했지만 우산을 비롯한 바이러스 감염 가능성을 배제하고도 여전히 네 문제의 원인을 알아내지 못했어.</color>+<color=#00CCFF>그래서 페르시카 박사님께 도움을——</color>
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>내가 설명하지!</color>
+()||:우렁찬 목소리와 함께, 페르시카가 화상 통신 화면에서 지휘관을 밀치고 초롱초롱한 눈빛인 얼굴을 들이밀었다.
+PPKMod(0)<Speaker>PPK</Speaker>||:네에, 반가워요 박사님.
+PPKMod(0);NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>인사나 다독이는 말은 할 줄 모르니까 바로 본론으로 들어가겠어.</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(0)<通讯框>||:저야 좋죠.
+PPKMod(0);NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>너, 예전에 암시장에서 불법 기억 편집 시술을 받은 적 있지?</color>
+PPKMod(0);NPC-Kalin(7)<Speaker>카리나</Speaker><通讯框>||:<color=#00CCFF>아이 참 돌직구 던지지 말라고 했잖아요!</color>
+PPKMod(0)<Speaker>PPK</Speaker>||:......
+()||:PPK는 옆에서 통신에 끼어들고 싶어 안달이 난 MP443을 째려보았고, 그 살의 가득한 시선에 MP443은 바로 멀찍이 떨어졌다.
+PPKMod(0)<Speaker>PPK</Speaker>||:...네에, 받았어요. 그게 제 의지였는지는 알 길이 없지만요.
+()||:페르시카의 눈동자에서 뿜어져 나오는 위험한 광채는 통신 화면 너머로도 느껴질 정도였다.
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>후후후... 넌 운이 좋았구나. 기억을 편집해 주겠다 속이고 권한을 받자마자 마인드맵을 초기화시켜 버린 다음 그냥 팔아치워 버리는 사례가 얼마나 많은데.</color>+<color=#00CCFF>어떤 기억을 수정했는지는 알아?</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(2)<通讯框>||:아뇨, 그 불법 업소를 나설 때부터의 기억밖에 없어요.
+PPKMod(0);NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그렇담 역시, 업소에 들어가기 전까지의 기억은 몽땅 지웠단 거네.</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(0)<通讯框>||:...그게 제 문제와 무슨 상관인가요?
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>쯧 쯧 쯧, 순진하기는.</color>
+()||<SE1>AVG_21Winter_Click_Keyboard</SE1>:페르시카가 더욱 재미있다는 듯 씨익 웃으면서 PPK의 데이터 인터페이스를 열었다.
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>재밌는 말이 인형들 사이에서 돌더라?</color>+<color=#00CCFF>"떠올리기 싫은 기억이 생기면 인간은 고통에 시달릴 수밖에 없지만, 인형은 그냥 그 기억을 삭제하면 된다"는 말이.</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(2)<通讯框>||:맞는 말 아닌가요?
+PPKMod(0);NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>하하하하하...</color>+<color=#00CCFF>세상이 참 부조리투성이긴 하지만, 고통만큼은 평등하게 아무도 안 놓아준다고...</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(2)<通讯框>||:......
+PPKMod(0);NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>...말이 좀 샜네. 아무튼 요점은, 기억을 그냥 지워버리는 건 꽤 난폭한 짓이란 거야.</color>+<color=#00CCFF>어느 어플리케이션이라도 억지로 삭제하면 그 프로그램의 잔여 데이터가 남기 마련이고, 종종 다른 어플리케이션이 실수로 그 잔여 데이터를 읽어들여서 오류가 나곤 해.</color>+<color=#00CCFF>바로 지금의 너처럼.</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(0)<通讯框>||:그러니까, 지웠던 기억이 여전히 남아서 제게 영향을 주고 있다?
+PPKMod(0);NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>응. 그리고 네가 불법 시술을 받은 시기는 아주 오래 전이겠지? 그럼 당시의 기억 변조 기술은 아주 조잡했을 거야.</color>+<color=#00CCFF>네가 이번에 개조받으면서 교체한 새 소체가 그런 변조된 데이터와의 호환성으로 문제를 일으켜서, 네가 지웠던 기억의 "잔향"이 다시 수면 위로 떠올라 지금의 기억 파편들과 격하게 충돌하고 있단 말씀.</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(2)<通讯框>||:.....
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그러니까——</color>
+()||<SE1>AVG_Piano_Ambience</SE1>:페르시카가 프로그램 파일을 하나 전송하면서 말을 이었다.
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>이 패치를 설치해. 이걸로 지웠던 기억의 잔여 데이터를 정상적으로 불러오면 바로 문제 해결이야.</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(2)<通讯框>||:알았어요.
+PPKMod(0);NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그 대가로 지웠던 그 기억을 다시 상기하게 되겠지만.</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(0)<通讯框>||:왜요, 위험한가요?
+PPKMod(0);NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>위험하진 않겠지만, 지금의 너는 왜 그 기억을 지웠는지 모르잖아? 과거의 네가 엄청난 리스크를 지면서까지 지우고자 한 기억인데.</color>+<color=#00CCFF>그걸 다시 마주할 각오는 됐어?</color>
+PPKMod(0)<Speaker>PPK</Speaker>;NPC-Persica(2)<通讯框>||:......
+NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>물론, 선택은 네 몫이야. 어떤 결과일지 기대하고 있을게.</color>
+()||<SE1>AVG_tele_disconnect</SE1>:음흉한 미소를 마지막으로, 페르시카는 통신을 종료했다.+PPK는 전송받은 패치 프로그램을 바라보며, 잠시 생각에 잠겼다.
+MP443_MOD(0)<Speaker>MP443</Speaker>||:PPK~? 이제 가까이 가도 돼――?
+PPKMod(0)<Speaker>PPK</Speaker>;MP443_MOD(0)||:응~
+PPKMod(0);MP443_MOD(0)<Speaker>MP443</Speaker>||:파이슨이랑 같이 대부분의 구역을 배제해서, 임무 목표의 위치를 대강 특정했어.
+PPKMod(0)<Speaker>PPK</Speaker>;MP443_MOD(0)||:정말?
+PPKMod(0);MP443_MOD(0)<Speaker>MP443</Speaker>||:응, 바로 저 앞의 작은 건물들이 밀집된 일대야.+저기 저 집은 원래 진료소였다니까, 안에 산소 발생 설비도 있을 거야. 다만 그 여자애가 아직 살아있을진 확실치 않아.
+PPKMod(0)<Speaker>PPK</Speaker>;MP443_MOD(0)||:역시 내 추측대로였어.
+PPKMod(0);MP443_MOD(0)<Speaker>MP443</Speaker>||:그래서, 지휘관이 네 문제 해결할 방법은 찾았대?
+PPKMod(0)<Speaker>PPK</Speaker>;MP443_MOD(0)||:응. 페르시카 박사가 패치 프로그램을 하나 보내서, 지금 설치하고 있어.
+PPKMod(0);MP443_MOD(0)<Speaker>MP443</Speaker>||:호오...
+PPKMod(0)<Speaker>PPK</Speaker>;MP443_MOD(0)||:뭔가 할 말이 있는 눈치네?
+PPKMod(0);MP443_MOD(0)<Speaker>MP443</Speaker>||:있잖아...
+MP443_MOD(0)<Speaker>MP443</Speaker>||:여기 주변이 좀... 이상하단 느낌 안 들어?
+PPKMod(0)<Speaker>PPK</Speaker>||:뭐가?
+()||:PPK는 주위를 스윽 둘러봤다. 흐릿한 하늘 아래 생기 없이 난폭하게 찢겨진 대지와, 여기저기서 얼키설키 뒤엉킨 철근과 시멘트 덩어리들.+오염지대의 어디를 가든 흔히 볼 수 있는 풍경이었다.
+PPKMod(0)<Speaker>PPK</Speaker>||:그냥 오염지대잖아. 어딜 가나 흔한 오염지대.
+MP443_MOD(0)<Speaker>MP443</Speaker>||:그, 그치? 아하하, 그냥 물어봤어. 얼른 가보자!
+()||<黑屏1>:MP443은 추궁하려는 PPK의 눈길을 피하면서 서둘러 앞장섰다.
+()||<黑屏2><BIN>480</BIN><BGM>BGM_Empty</BGM>:잠시 후, PPK와 MP443은 목표인 진료소에서 한 블록 떨어진 위치까지 도달했다.
+MP443_MOD(0)<Speaker>MP443</Speaker>||<BGM>BGM_Sneak</BGM>:파이슨, 지금 PPK랑 그 건물 근처까지 왔어. 그런데...
+MP443_MOD(0);Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>여기서도 보여. 하필이면 이어지는 골목길에 ELID 무리가 있군.</color>
+PPKMod(0)<Speaker>PPK</Speaker>;Python(0)<通讯框>||:더 성가신 건, 저 무리에 우두머리 개체까지 있네.
+PPKMod(0);Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>......</color>
+PPKMod(0)<Speaker>PPK</Speaker>;Python(0)<通讯框>||:건물에 접근하면 분명 놈들이 눈치챌 거야. 우두머리는 못 속여.
+MP443_MOD(0)<Speaker>MP443</Speaker>;Python(0)<通讯框>||:그럼 어떡하지?
+MP443_MOD(0);Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>일단 위치에서 대기해라, 나도 합류하겠어.</color>
+Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>미리 내 계획을 말하자면, 둘이 ELID 무리의 주의를 끄는 사이에 나머지 한 명이 목표의 구조를 맡는 거다.</color>
+()||:MP443과 PPK는 서로 마주보았다.
+MP443_MOD(0)<Speaker>MP443</Speaker>||:알았어, 그럼 내가 먼저 유인 시작할 테니까 빨리 와.
+Python(0)<Speaker>파이슨</Speaker><通讯框>||:<color=#00CCFF>OK.</color>
+()||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
+PPKMod(0)<Speaker>PPK</Speaker>||:내일은 해가 서쪽에서 뜨겠네?
+MP443_MOD(0)<Speaker>MP443</Speaker>||:언제 또 다운될지 모르는 녀석이 미끼 역할을 맡으면 그냥 죽을 거 아니야.
+PPKMod(0)<Speaker>PPK</Speaker>||:흥.
+MP443_MOD(0)<Speaker>MP443</Speaker>||:그리고... 왠지 모르겠지만, 너한테 빚을 진 거 같은 느낌이라서...
+()||:MP443은 ELID의 수를 세면서 가볍게 한숨을 뱉었다.
+MP443_MOD(0)<Speaker>MP443</Speaker>||:윽... 역시 많네. 파이슨이랑 둘만으론 상대하기 힘들겠어.
+PPKMod(0)<Speaker>PPK</Speaker>||:마음 바꾸려면 아직 안 늦었어~
+MP443_MOD(0)<Speaker>MP443</Speaker>||:시꺼! 내가 셋 둘 하나 하면 넌 이 산소 호흡기 들고 저 골목길을 가로지르는 거야, 알았어?+이러면 억지로 싸워야 하는 말썽은 안 일어나겠지?
+PPKMod(0)<Speaker>PPK</Speaker>||:알았어.
+MP443_MOD(0)<Speaker>MP443</Speaker>||:패치는 설치 끝났어?
+PPKMod(0)<Speaker>PPK</Speaker>||:거의. 20% 정도 남았어.
+MP443_MOD(0)<Speaker>MP443</Speaker>||:다시 전부 기억할 때가 됐구나.
+PPKMod(0)<Speaker>PPK</Speaker>||:뭐?
+MP443_MOD(0)<Speaker>MP443</Speaker>||<SE1>Select</SE1>:간다, 세엣――
+()||:MP443의 말에 어리둥절해하면서도, PPK는 추궁을 나중으로 미루고 목표 건물의 좌표를 설정하고 내달릴 준비를 했다.
+MP443_MOD(0)<Speaker>MP443</Speaker>||:두울―― 하나아――
+()||<SE1>AVG_pistol_finalshot_n</SE1>:타타탕!
+MP443_MOD(0)<Speaker>MP443</Speaker>||:뛰어!!
+()||<SE1>AVG_pistol_finalshot_n</SE1><黑点1>:MP443의 총성을 신호탄 삼아, PPK는 언덕 위의 그 건물로 전력 질주했다.+골목길에 즐비한 ELID들은 예상대로 총성에 이끌려 곧장 MP443에게 몰려갔다.
+()||<黑点2><BIN>469</BIN><BGM>BGM_Empty</BGM>:약 10초 후, PPK는 건물 앞에 도착했다.+진입하기에 앞서 귀를 기울여 봤지만, 건물 내부는 쥐 죽은 듯 조용했다.
+()||<SE1>Heartbeat</SE1>:잔뜩 녹슨 문짝을 본 PPK는 불현듯 불길한 기분이 엄습해, 떨리는 손으로 문고리를 잡았다.+그러자 또다시 끈적한 열기가 그녀의 살갗에 들러붙어, 영문 모를 갈증과 애통함이 닥쳤다.
+PPKMod(0)<Speaker>PPK</Speaker>||:제기랄, 제발 이럴 때엔 좀――
+()||<BIN>9</BIN><黑屏1><SE1>AVG_Explo_Distance</SE1>:PPK의 의식은 다시 지금의 시간선에서 멀어졌다.
+()||<黑屏2>:...그리고, 다시 지금이 아닌 "언제, 어딘가".
+()<Speaker>사나야</Speaker>||<BGM>GF_21winter_avg_mahaline</BGM>:<color=#F08080>에리카... 에리카아...</color>
+()||:어린 아이가 울먹이는 소리가, PPK를 깨웠다.
+()<Speaker>PPK</Speaker>||:뭣... 또야...?
+()||:한층 더 무거워진 몸을 어떻게든 일으키려 하자 손에서 뭔가 묵직한 물건이 만져졌지만, 시야가 너무 어두워 그게 무엇인지 잘 보이지 않았다.
+()<Speaker>사나야</Speaker>||:<color=#F08080>아빠가... 아빠가 이거 너한테 주고 빨리 뒷문으로 나가래...</color>
+()||<SE1>AVG_Explo_Close</SE1>:멀지 않은 곳에서 포성이 잇따랐고, 열풍과 충격파에 창문이 쉬지 않고 덜컹거렸다.
+()<Speaker>사나야</Speaker>||:<color=#F08080>에리카... 엄마 아빠가 정말 나중에 날 찾으러 올 수 있을까...?</color>
+()<Speaker>PPK</Speaker>||:......
+()||<SE1>AVG_Explo_Close</SE1>:포성은 점점 더 가까워졌고, 탐욕과 증오에 눈이 먼 폭도들의 고함소리도 점점 더 또렷해졌다.
+()<Speaker>PPK</Speaker>||:응, 물론이지.
+()||:상황이 전혀 파악되지 않음에도, PPK는 반사적으로 사나야를 위로했다.
+()<Speaker>사나야</Speaker>||:<color=#F08080>훌쩍... 나...</color>
+()<Speaker>PPK</Speaker>||:쉬잇. 이제 갈 시간이에요.
+()||:조그마한 사나야의 손을 꼭 쥐고서, PPK는 본능적으로 포성과 고함이 들려오는 방향의 반대로 향했다.
+()||<SE1>AVG_20Winter_Door_Close</SE1><黑屏1><BGM>BGM_Empty</BGM>:그리고 뒷문이 살며시 철컥하며 닫히는 소리와 함께, 포화에 휩싸인 세상으로부터 격리되었다.
+()||<黑屏2><BIN>480</BIN><边框>2</边框><火花><BGM>GF_EV9_Story</BGM>:의식이 혼돈 속을 몇 번이고 구른 뒤에야, PPK는 다시 눈을 떴다.+이번엔 본래의 형태를 알아볼 수 없는 길가에 누워 있었고, 옆의 여자아이는 힘든 기색이 역력하면서도 PPK의 곁에서 떨어지지 않고 있었다.
+NPC-Sanaya(3)<Speaker>사나야</Speaker>||<边框>2</边框>:에리카아...
+NPC-Sanaya(3)<Speaker>PPK</Speaker><同时置暗>||<边框>2</边框>:......
+()||<边框>2</边框>:이번에도 PPK는 힘겹게 몸을 일으켰고, 이번에는 잘 보이지 않았던 손의 묵직하고 차가운 물건이 보였다.+PPK 권총 한 자루였다.
+()<Speaker>PPK</Speaker>||<边框>2</边框>:이젠 뭐가 뭔지 모르겠네...
+NPC-Sanaya(2)<Speaker>사나야</Speaker>||<边框>2</边框>:에리카...
+NPC-Sanaya(2)<Speaker>PPK</Speaker><同时置暗>||<边框>2</边框>:넌 괜찮아?
+()||<边框>2</边框>:바닥에 주저앉은 사나야를 일으켜 세워 주려다 손바닥이 닿은 그녀의 뺨은 불덩이처럼 뜨거웠다.
+()<Speaker>PPK</Speaker>||<边框>2</边框>:어? 열이 심하잖아...!
+NPC-Sanaya(2)<Speaker>사나야</Speaker>||<边框>2</边框>:괜찮아... 나 괜찮아...
+()||<边框>2</边框>:PPK는 황급히 일어나 사나야를 들어 안으려 했지만, 일어서는 것만으로도 힘에 부쳤다.+그제서야 소체가 폭발에 휘말려 손상이 극심한 것을 깨달았다.
+NPC-Sanaya(2)<Speaker>사나야</Speaker>||<边框>2</边框>:나... 걸을 수 있어...
+()||<边框>2</边框><黑屏1>:당혹스러워하는 PPK의 마음을 눈치챈 듯, 사나야는 안색이 안 좋음에도 PPK에게 기대어 자리에서 일어났다.+그렇게 둘은 휘청이면서도 서로를 의지하며, 함께 골목길 안으로 들어갔다.+얼마나 지났을까, PPK가 힘겹게 고개를 들어 앞을 보니...+저 멀리, 골목길 밖의 저 너머에 버려진 작은 건물이 보였다.

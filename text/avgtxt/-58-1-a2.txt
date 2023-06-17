@@ -1,0 +1,221 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>650</BIN><common_effect>%%code=AVG_xiaxue%%</common_effect>:......+베슬란 제1중학교.
+()<Speaker></Speaker>||<BGM>BGM_23S_Winter_Night</BGM>:또 눈이 내린다.+뱉는 입김이 하얗게 얼어붙을 만큼 추운 날.
+()||<黑点1><关闭蒙版>:
+()<Speaker></Speaker>||<SE1>RunStep</SE1><黑点2><BIN>654</BIN><SE1>AVG_20Winter_Door_Open</SE1>:시니아는 종종걸음으로 교실에 와 문을 열었다.+매일 등교 시간보다 10분 일찍 오는 것은 자신이 반장임을 자각하기 위함.+하지만 오늘은 그뿐만이 아니었다. 교실이 텅 비어 자신의 숨소리만 들리는데도 시니아는 놀라지 않았다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:......+모두, 마음을 정했구나.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:나지막이 읊조리며 그녀는 휴대폰을 꺼냈다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:<color=#00CCFF>위치에 도착. 목표는 아직 나타나지 않음.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐익.
+()<Speaker>영원의 불 작전 멤버</Speaker>||:<color=#00CCFF>알았다. 계획대로 움직인다.</color>+<color=#00CCFF>오늘, 우리는 그 죄인들을 철저히 심판한다.</color>
+()<Speaker></Speaker>||<SE1>Heartbeat</SE1>:두근... 두근... 두근...+가슴이 고동쳤다. 그녀가 이런 일에 참여하는 것은 난생 처음이었고, 자기 자리에 앉자마자 앞으로 벌어질 일들의 시뮬레이션이 머릿속에서 떠나질 않았다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:......+마사가 들어오면, 내가 대들어서 그걸 핑계로 교실 밖으로 뛰쳐나간다...+나오자마자 바로 앞문을 잠그고...+그녀가 반응하기 전에 뒷문도 잠그고...+그런 다음 메시지를 발송한다...+그걸로... 끝...
+NPC-Sinia(0)<Speaker>영원의 불 작전 멤버</Speaker><Position>0,-58</Position><同时置暗>||:<color=#00CCFF>그래, 나머지는 우리에게 맡겨라.</color>
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:그런데... 어떻게 하려고?
+()<Speaker>영원의 불 작전 멤버</Speaker>||:<color=#00CCFF>...피에는 피로.</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_20Winter_Door_Open</SE1>:마침내 드르륵 문이 열리는 소리가 났다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:시니아는 반사적으로 폰을 책상 서랍 안으로 던져 넣으며 고개를 들었다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:마사 선생님 안녕하――
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position><GradientShow>1</GradientShow>||:응?
+()<Speaker></Speaker>||:들어온 사람은 마사 마이트너가 아니었다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:<size=50>안나?!</size>
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:......?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:시니아는 깜짝 놀라 자리에서 벌떡 일어났다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:너 왜 왔어!?
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:...수업.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:아... 하... 하지만...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:안나는 시니아를 지나쳐 곧장 자신의 자리로 가서 앉고는 책가방을 책상 서랍 안으로 밀어넣었다.+그리고 바로 책상 위로 엎어졌다.+시니아가 그녀에게 황급히 다가갔다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:빨리 교실 밖으로 나가.
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:...? 오늘 쉬는 날이었나?
+()<Speaker></Speaker>||:명백히 모르는 눈치이자, 시니아는 목소리를 낮췄다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:<size=25>너 영원의 불 작전 통지 못 받았어?</size>
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:영... 뭐? 무슨 소리야?
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:......!+너, 가족 중에 경비단원 있다며. 그 사람에게 물어보던가...+아, 아무튼, 오늘은 어서 돌아가!
+()<Speaker></Speaker>||:"경비단"이란 말에 안나는 미간을 찡그렸다.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:그딴 사람 몰라.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><SE1>AVG_Zipper</SE1>:석연찮은 반응에 시니아는 순간 뭐라 더 둘러대야 할지 몰라 말문이 막혀, 허둥지둥 안나의 책가방에 손을 뻗었다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:아무튼... 아무튼 여기 있으면 안 돼!+빨리 돌아――?!
+()<Speaker></Speaker>||<震屏3><SE1>AVG_XXS_kick</SE1>:시니아가 자신의 가방을 붙잡자, 안나의 표정이 돌변하더니 그녀를 확 밀쳤다.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:<size=50>가방 만지지 마!</size>
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:너무 늦었다.+교실 문이 다시 열렸다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||<BGM>GF_EV9_Story</BGM>:...허.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:......!
+()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:마사가 책 몇 권을 옆구리에 끼고, 손에는 김이 모락모락 나는 머그컵을 들고서 어슬렁어슬렁 교실로 들어온 것이었다.+아주 잠시 두 학생들과 시선을 교환한 그녀는 썰렁한 교실을 스윽 훑어봤다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||<SE1>Stop_AVG_loop</SE1>:나머진 다 결석이냐?+아 뭐 맘대로 하라지, 내 시급 깎이는 것도 아닌데.+너희야말로 헐값에 개인 교습받는 셈이니까 운 좋은 줄 알아라.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:......
+NPC-Ange(33)<Speaker>안나</Speaker><Position>0,-50</Position>||:......
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Fire_Alarm</SE1>:수업 시작을 알리는 종소리.+상황이 이렇게 되자, 시니아는 어쩔 수 없이 입을 다물고 자리로 돌아갈 수밖에 없었다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:어디 보자, 오늘은 결정 구조에서부터 시작할까...
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐빅.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:<color=#00CCFF>목표 출현. 하지만 안나가... 우리 학우도 교실에 있어.</color>
+NPC-Sinia(0)<Speaker>영원의 불 작전 멤버</Speaker><Position>0,-58</Position><同时置暗>||:<color=#00CCFF>데리고 같이 나가.</color>
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:<color=#00CCFF>얘는 아무것도 몰라, 수업도 시작해서 어려워.</color>
+NPC-Sinia(0)<Speaker>영원의 불 작전 멤버</Speaker><Position>0,-58</Position><同时置暗>||:<color=#00CCFF>칫... 그럼 이따 어디에라도 숨어.</color>+<color=#00CCFF>몸 숨길 만한 게 있는 구석으로.</color>
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:<color=#00CCFF>무슨 뜻이야...?</color>
+NPC-Sinia(0)<Speaker>영원의 불 작전 멤버</Speaker><Position>0,-58</Position><同时置暗>||:<color=#00CCFF>양키랑 최대한 멀리 떨어지라고.</color>
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:<color=#00CCFF>...알았어.</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:시니아는 책상 밑으로 조심조심 버튼을 눌러 메시지를 보내면서, 혹시나 마사의 눈길이 자신을 향하진 않는지 눈치를 봤다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2>:단상 위에선 마사가 수업을 시작했다.+그리고 단상 아래선 안나가 책상에 엎어져 자고 있었다.+교탁을 경계선으로, 교실은 마치 분단된 두 세계처럼 한 공간에 있으면서도 서로를 못 보는 것 같았다.+그리고 시니아는 평생 이토록 식은땀을 흘린 적이 없었다.+1분이 1시간처럼 느껴지고, 긴장감에 심장이 터질 것만 같았다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||<SE1>AVG_20Winter_Book</SE1>:물질과 성질의 관계는 물리 화학, 소재과학 및 분자생물학 등 다양한 분야에서 아주 중요한 위치에 있지.+그리고 결정질과 비결정질 사이에 "준결정질"이란 물질이 있듯, 항상 규칙에서 벗어난 예외가 존재하기 마련이다.+문제는 그런 걸 발견하고 특성을 탐구할 수는 있지만, 그반대로는 불가능――
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><SE1>ClothingUp</SE1>:시니아는 시계를 슬쩍 확인하고 창밖을 바라봤다.+멀리 보이는 운동장엔 신나게 달리는 여자아이 한 명 외엔 아무도 없었다.
+()<Speaker></Speaker>||<SE1>AVG_Bell_CountDown</SE1>:째깍.+째깍.+디지털 시계인데도 시니아의 머릿속엔 초침이 돌아가는 소리가 울리는 듯했다.+슬쩍 고개를 들어 창밖을 보니, 그 여자아이마저도 사라지고 없었다.+얼어붙는 겨울바람이 조용해진 교내에 살벌한 기운을 몰고 왔다.
+()<Speaker></Speaker>||:......
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:대체 언제...
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>Explode</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=10</controll_shake>:콰앙!!!+복도 쪽에서 굉음이 터졌다.
+()<Speaker></Speaker>||<BGM>Campaion-58-3</BGM><震屏3><SE1>AVG_Door_Hit</SE1>:쿵!+누가 교실 정문을 박차고 들어왔다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_Rifle</SE1><震屏3>:타앙!
+()<Speaker></Speaker>||<SE1>AVG_Bullte_Ricochet</SE1>:총알 한 발이 강단에 날아와 박혀, 서랍에 손을 넣으려던 마사를 멈췄다.+교실로 들이닥친 사람은 완전무장했음에도 고작 열 서너 살 남짓인 티가 확연한 소년이었다.
+()<Speaker></Speaker>||<SE1>Select</SE1>:그 소년은 총을 들고 당당하게 강단 위로 올라, 총구를 마사의 정수리에 댔다.
+()<Speaker>열서너 살쯤인 소년</Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=6</controll_shake>:<size=50>지옥에나 떨어져라, 양키년!</size>
+()<Speaker></Speaker>||:머리에 총이 겨눠진 상황인데도, 마사는 피식 웃기만 했다.
+NPC-Laplace(1)<Speaker>마사</Speaker>||:풋, 쏘게? 저기 쟤네 둘은 어쩌려고?
+NPC-Laplace(1)<Speaker>열서너 살쯤인 소년</Speaker><同时置暗>||:...같은 편은 쏘지 않아.
+NPC-Laplace(1)<Speaker>마사</Speaker>||:아아~ 같은 펴~언~?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:마사는 교실의 두 학생들을 보며 경멸 어린 미소를 지었다.+눈앞의 이 완전무장한 소년이 어떤 녀석인지 감을 잡은 것이었다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:베슬란 경비단이냐?
+()<Speaker></Speaker>||:소년은 살짝 기겁했다.
+()<Speaker>열서너 살쯤인 소년</Speaker>||:그, 그걸 어떻게 알아!
+()<Speaker></Speaker>||<SE1>Rope</SE1>:소년의 총을 쥔 손가락이 발작적으로 떨렸고, 마사의 머리를 누르는 총구에 힘이 더해졌다.+방아쇠에 검지를 걸고 이마에서 식은땀을 뻘뻘 흘리는, 아마 자기 나이의 반절도 안 될 이 소년을 똑똑히 응시하며, 마사는 어깨를 으쓱했다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:아무리 민병대라지만, 수준이 고작 이 따위였다니... 상상도 못했네.
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1>:퍽!
+()<Speaker>열서너 살쯤인 소년</Speaker>||:꼼짝 말라고!
+()<Speaker></Speaker>||:"목표"가 딱 봐도 얌전히 굴질 않자, 소년은 눈을 질끈 감고 방아쇠를 당겼다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><震屏3><SE1>AVG_Rifle</SE1>:타앙!
+()<Speaker></Speaker>||<SE1>AVG_Bullte_Ricochet</SE1>:총알은 천장에 맞았다.
+()<Speaker></Speaker>||<BGM>GF_21summer_battle_3</BGM><SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:단 1초만에 마사와 소년의 입장이 역전됐다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:소년은 바닥에 내팽개쳐져 짓눌렸고, 그가 쥐고 있던 총은 마사의 손에 들어갔다.
+NPC-Laplace(1)<Speaker>마사</Speaker>||:파지법도 제대로 안 익히고 총 들고 다니냐?+너 같은 건 전장에 나가 봤자 노획할 거 없나 뒤져볼 시체 하나 더밖에 안 돼.
+()<Speaker></Speaker>||:소년은 눈을 부릅뜨고 마구 몸부림쳤지만, 그뿐이었다.+움직여지는 것이라곤 목뿐이었다.
+()<Speaker></Speaker>||:다급해진 소년은 강단 아래 교실의 소녀들에게 고개를 돌렸다.
+()<Speaker>열서너 살쯤인 소년</Speaker>||:시니아... <size=50>시니아! 왜 보기만 해!</size>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:갑작스레 이름을 불린 시니아는 화들짝 놀랐다.+그녀의 눈빛은 두려움과 당혹감, 긴장감으로 혼란스러웠다.
+()<Speaker>열서너 살쯤인 소년</Speaker>||:<size=50>빨리 도와줘! 빨리! 다른 사람이 올 때까지 시간을 벌어야...!</size>
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:......
+NPC-Laplace(1)<Speaker>마사</Speaker>||:풋... 한심하긴.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:마사는 총으로 소년의 머리를 툭툭 쳤다.
+NPC-Laplace(1)<Speaker>마사</Speaker>||:뭐냐, 그렇게 폼 잡고 싶었냐? 자기가 죽을 수도 있단 생각은 안 했어?+그렇게 전장 나가서 총알받이 하고 싶어?+그럼 어디 지금 바로 소원 이뤄 주랴?
+()<Speaker></Speaker>||<SE1>Select</SE1>:철컥.+총을 장전하는 소리.+시니아, 마사, 그리고 제압당한 소년도 모두 소리가 난 방향으로 시선을 향했다.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:...그거 놔.
+()<Speaker></Speaker>||:안나의 손에 MP443 한 자루가 쥐여있었다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:안나...? 너, 너 그 총 어디서 났어?!+설마... 그래서 누가 네 가방 만지지 못하게 한 거였어...?
+NPC-Laplace(4)<Speaker>마사</Speaker>||:아이고야...+베슬란이 이렇게 흉흉한 데였나?+그냥 중학교 물리 선생도 아주 특전사는 돼야 하나 원...+이건 좀 열받는데.
+()<Speaker></Speaker>||<SE1>AVG_Rifle</SE1><震屏3>:탕!
+()<Speaker></Speaker>||:안나의 위협에도 아랑곳않고, 마사는 그대로 바닥의 소년을 향해 방아쇠를 당겼다.+소년은 무슨 일이 벌어졌는지 인지 못한 듯 눈을 부릅떴다.+그리고 0.5초 후, 검붉은 피가 바지에 꽃처럼 번짐과 동시에 격통이 뇌를 찌르자, 그제서야 소년은 본능적으로 비명을 질렀다.
+()<Speaker>열서너 살쯤인 소년</Speaker>||<controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=10</controll_shake>:<size=60>끄아아아아아악!!!</size>
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:쯧, 소리는 우렁차네.
+NPC-Laplace(4)<Speaker>마사</Speaker>||:스친 거 가지고 엄살은.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:마사는 일어나 소년이 다리를 부여잡고 뒹굴도록 놔두고, 손목을 풀며 시니아와 안나에게 다가왔다.+그녀가 쥔 권총에서 피어오르는 초연의 냄새는 시니아의 코를 선명하게 자극했다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:아... 아, 안나! 빨리 쏴!
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:......
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:<size=50>안나!</size>
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:...닥쳐.+나한테 명령하지 마!
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:――!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:두려움 때문이었을까, 안절부절못하던 시니아는 안나에게 달려들어 그녀의 손을 덥석 붙잡곤 방아쇠를 당겼다.
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_button</SE1>:――틱.+그런데, 분명 공이가 경쾌한 금속음을 냈는데도 총은 격발되지 않았다.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position><Shake>0.1</Shake>||<SE1>ClothingUp</SE1>:이, 내 총에 손대지 마!
+()<Speaker></Speaker>||:이 광경에 마사는 권총을 빙글빙글 돌리면서 시니아와 안나의 촌극을 구경했다.
+NPC-Laplace(1)<Speaker>마사</Speaker>||:너희 그냥 눈치 챙기는 게 어때? 대충 밧줄 같은 거 찾아다 서로 묶어서 말이야.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:......
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:.....
+NPC-Laplace(0)<Speaker>마사</Speaker>||:아님 꼭 누가 도와줘야――
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:우당탕!+그때, 복도에서 급한 발소리가 들려왔다.
+()<Speaker></Speaker>||<SE1>AVG_Rifle</SE1><震屏3>:타앙!+마사는 일말의 주저 없이 총구를 돌려 문을 향해 한 발을 쐈다.
+()<Speaker>비명 지르는 소년</Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake><SE1>AVG_XXS_kick</SE1>:<size=50>으아악!!</size>
+()<Speaker></Speaker>||:마침 문 앞에 나타나 교실 안으로 발을 디디려던 소년은 비명을 지르며 넘어졌다.+다만 혼자는 아니었어서, 뒤따라온 동료가 냅다 총을 들어 마구잡이로 갈겼지만 교실 안으로 무작정 들어오려 하진 않았다.
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_3h</SE1><震屏3>:탕! 탕! 탕!
+()<Speaker>소년의 동료</Speaker>||:<size=50>**년이!! 빌어먹을!!</size>
+()<Speaker></Speaker>||<SE1>AVG_Rifle</SE1><震屏3>:물론 마사는 저 욕설에 총성으로 대답했다.
+NPC-Laplace(4)<Speaker>마사</Speaker>||:쯧...+내가 러시아어 좀만 더 잘했어도 맛깔나게 욕해 줬을 텐데 말이지.
+()<Speaker></Speaker>||:그리고 잔탄수를 가늠하던 마사의 눈이 안나와 그녀 손에 들린 MP443에 꽂혔다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:...그런 거 보고 뭐라더라.+돼지 목에 진주 목걸이?
+()<Speaker></Speaker>||<震屏3><SE1>AVG_Punch_Hit</SE1>:마사가 안나의 발을 툭 걸어 넘어뜨리는 것은 순식간이었다.+동시에 손날로 안나의 손목을 치는 것도 순식간이었다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:툭.+MP443이 마사의 손에 떨어졌다.
+NPC-Laplace(1)<Speaker>마사</Speaker>||<SE1>AVG_weapon_reload</SE1>:얼씨구, 총알은 빵빵하게도 넣어 뒀네.
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=5</controll_shake>:안나는 균형을 잃고 바닥에 쿵 쓰러졌다.+하지만 곧장 고개를 들어 소리쳤다.
+NPC-Ange(36)<Speaker>안나</Speaker><Position>0,-50</Position><Shake>0.1</Shake>||:<size=50>내 총이야!</size>
+NPC-Laplace(1)<Speaker>마사</Speaker>||:그래?
+()<Speaker></Speaker>||:마사는 피식 비웃으며 답했다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:수업도 제대로 안 듣지, 총도 제대로 쓸 줄도 모르지...
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:너어...!
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_SCARH3</SE1>:마사는 손 안의 MP443을 빠르고 능숙하게 분해했다 재결합한 뒤,+그대로 총을 주머니에 꽂아 넣었다.
+NPC-Laplace(1)<Speaker>마사</Speaker>||:벌점 대신이다.+그리고, 누가 선생님을 총으로 위협하냐? 정신 차려.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position><Shake>0.1</Shake>||<震屏3>:<size=50>돌려줘!</size>
+()<Speaker></Speaker>||:항의했지만, 무시당했다.
+()<Speaker></Speaker>||<SE1>Select</SE1>:매처럼 날카로운 눈빛으로, 마사는 교실 안을 빠르게 훑었다.
+()<Speaker></Speaker>||<SE1>AVG_Rifle</SE1><震屏3>:타앙!+그러다 휙 뒤돌아, 교실 문을 향해 한 발 더 쏘았다.
+()<Speaker>문 밖의 무장청년</Speaker>||<SE1>AVG_2022Saros_Gunpast</SE1>:<size=50>윽!</size>
+()<Speaker></Speaker>||:고개를 힐끔 내밀어 상황을 살피려던 청년은 하마터면 얼굴에 총을 맞을 뻔해, 거북이처럼 냉큼 목을 집어넣곤 얌전히 지원을 불렀다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:이를 본 마사는 강단의 서랍에서 오래된 신문지로 포장된 무언가를 꺼내, 문 밖으로 힘껏 던졌다.
+NPC-Laplace(0)<Speaker>마사</Speaker>||:쯧... 각도가 살짝 안 좋네.
+()<Speaker></Speaker>||<SE1>Select</SE1>:그녀는 중얼거리며 총도 들었다.
+()<Speaker></Speaker>||<SE1>AVG_Rifle</SE1><震屏3>:이윽고 총알이 또 한 발 총구를 떠나, 문 밖으로 날아간 목표에 명중했다.+그러자 그 작은 물건이 사방으로 연기를 뿜어내더니――
+()<Speaker>안나</Speaker>||<BIN>183</BIN><BGM>BGM_Empty</BGM><SE1>AVG_The_Division_Flash_Bomb_Explosion</SE1>:앗?!
+()<Speaker>시니아</Speaker>||:꺄아악!
+()<Speaker></Speaker>||<SE1>AVG_Tinnitus</SE1>:대비도 없이 눈부신 섬광과 폭음에 당한 안나와 시니아는 눈이 타들어가는 듯한 고통에 얼굴을 부여잡고 비명을 질렀다.
+()||<白屏1>:
+()<Speaker></Speaker>||<白屏2><BIN>654</BIN><SE1>RunStep</SE1><SE1>AVG_rifle_finalshot_3h</SE1>:눈도 안 보이고 귀도 먹먹해졌지만, 시니아는 마사가 교실 밖으로 뛰쳐나가는 소음, 총성, 문 앞에서 진을 치고 있던 경비단원들의 비명을 어렴풋이 들을 수 있었다.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position><Shake>0.1</Shake>||:거... 거기 서...! 내 총 돌려줘...!
+()<Speaker></Speaker>||:안나는 눈물이 뚝뚝 흐르는 두 눈을 억지로 뜨고서, 겨우 조금 회복된 시각으로 비틀거리면서도 마사의 뒤를 쫓으려 했다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:시니아가 덥석 안나의 소매를 붙잡았다.
+NPC-Sinia(0)<Speaker>시니아</Speaker><Position>0,-58</Position>||:안 돼 안나! 오늘 경비단이 학교에서 "영원의 불" 작전을 실행해!+다들 총도 가지고 있어, 함부로 뛰어다니다간 총 맞을 거야!
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:저 자식이 내 총을 가져갔다고!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:안나는 시니아의 손을 거칠게 뿌리쳤다.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:그들이 마지막으로 남긴 건데... 그걸...!+뺏어가게 둘 거 같아!?
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=4</controll_shake><SE1>RunStep</SE1>:충혈된 눈의 멈추지 않는 눈물을 훔치고, 안나는 마사를 쫓아 달려나갔다.
+()<Speaker></Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<BGM>11335</BGM><黑点2><BIN>650</BIN><common_effect>%%code=AVG_xiaxue%%</common_effect>:학교 건물 앞, 완전무장한 경비단 멤버들이 문앞을 지키며, 모기 한 마리 지나가게 두지 않을 기세를 뿜었다.
+()<Speaker></Speaker>||<SE1>AVG_Broken_Glass</SE1>:쨍그랑!
+()<Speaker></Speaker>||<SE1>AVG_Team_Running</SE1>:갑자기 머리 위쪽에서 유리가 깨지자, 그들은 신경을 곤두세우고 경계 태세로 빠르게 진형을 펼쳤다.
+()<Speaker></Speaker>||<SE1>AVG_Pause</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:쿠웅!+그들의 우려와는 달리, 그저 한 중년 남성의 시체가 땅바닥으로 추락했다.+고통으로 일그러진 얼굴 그대로인 그 시체는 학교의 연구원, 미국 출신 메이트슨 바이런 교수였다.+그의 시체에 성한 구석이 없는 것으로 보아, 죽을 때까지 얼마나 잔인하게 고문받았는지 어렵지 않게 짐작할 수 있었다.+적습이 아닌 것을 확인한 단원들은 총을 내리며 위층에다 욕을 퍼부었다.
+()<Speaker>경비단원</Speaker>||:<size=50>야 이 XXXX야 학교 부수지 말라고!</size>
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:그때, 건물 안쪽에서 다른 발소리가 들렸다.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:......
+()<Speaker></Speaker>||<SE1>Select</SE1>:안나가 터벅터벅 밖으로 나오는 것을 발견한 단원들은 총을 다시 들어 안나의 머리를 겨눴다.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:이봐, MP443 든 여자 봤어?
+NPC-Ange(37)<Speaker>경비단원</Speaker><Position>0,-50</Position><同时置暗>||:......?+너 몇 학년이야?
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:칫... 이쪽으로 안 왔나.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:안나는 바로 몸을 돌렸다.
+()<Speaker></Speaker>||<SE1>AVG_Rifle</SE1><震屏3><SE1>AVG_Bullet_Hit_Wall</SE1>:타앙!+총알이 안나의 발치에 떨어졌다.
+()<Speaker>경비단원</Speaker>||:얌마! 내가 묻잖아!
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:......
+()<Speaker></Speaker>||:안나는 고개를 돌리지도 않고 무시했다.+자기 목숨보다 그 권총을 되찾는 것이 더 중요한 것처럼.
+()<Speaker></Speaker>||<SE1>Select</SE1>:경비단원은 욕설을 뱉으며 다시 방아쇠를 당기려 했다.
+NPC-Pamzan(0)<Speaker>？？？</Speaker>||:놔둬, 쟤 외국인 아니야.
+()<Speaker>경비단원</Speaker>||:응?+아, 람잔. 아는 녀석이야?
+NPC-Pamzan(0)<Speaker>람잔</Speaker>||:전에 말했지, 우리 아버지가 어디서 주워온 꼬맹이.+걔가 쟤야. 어찌나 고집불통인지.
+()<Speaker>경비단원</Speaker>||:에휴... 알았다.+대신 네가 가서 쟤 좀 끌고 오던지 해, 지금 학교 안을 돌아다녔다간 총 맞기 십상이라고.
+NPC-Pamzan(0)<Speaker>람잔</Speaker>||:냅둬, 내 알 바 아니야.
+()<Speaker></Speaker>||<SE1>AVG_2023Slow_WN_Whistle</SE1>:"람잔"은 아무것도 아닌마냥 휘파람을 불다, 이내 인상을 팍 쓰며 고개를 돌렸다.
+NPC-Pamzan(0)<Speaker>람잔</Speaker>||:....에라이, 아버지랑 형 얼굴을 봐서라도 해야지 뭐.
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:가볍게 푸념하며, 람잔은 안나를 뒤쫓아갔다.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:......
+()||<黑点1><关闭蒙版>:
+()<Speaker></Speaker>||<黑点2><BIN>161</BIN><common_effect>%%code=AVG_xiaxue%%</common_effect>:운동장 근처.+안나가 지칠 줄 모르고 달리는 그 뒤를 람잔은 질색이란 얼굴로 쫓는 중이었다.
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||<SE1>Stop_AVG_loop</SE1>:그 여자 어떻게 발이 그렇게 빠른 거야...
+NPC-Pamzan(0)<Speaker>람잔</Speaker>||:야 꼬맹이!
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:......!
+NPC-Pamzan(0)<Speaker>람잔</Speaker>||:니 싸돌아다니다 어디서 픽 죽어도 상관없긴 한데!+오늘은 안 되니까 잔말 말고 따라와! 정문까지 데려다 줄 테니까 집으로 가!
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:......
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:안나는 눈을 가늘게 뜨고 못 들은 척하며, 계속 운동장으로 달렸다.
+NPC-Pamzan(2)<Speaker>람잔</Speaker>||:<size=50>아 X 너 거기 서라고!</size>
+NPC-Ange(37)<Speaker>안나</Speaker><Position>0,-50</Position>||:......
+()<Speaker></Speaker>||:그녀는 멈추지 않았다.
+NPC-Pamzan(2)<Speaker>람잔</Speaker>||:아오 진짜 이게 꼭 맞아야 말을 듣――
+()<Speaker></Speaker>||<SE1>AVG_rifle_finalshot_n</SE1><震屏3>:타앙——+어디선가 들려온 총성에, 람잔은 흠칫하며 허리춤의 총을 살폈다.
+NPC-Pamzan(1)<Speaker>람잔</Speaker>||<SE1>ClothingUp</SE1>:...내 거 아니네. 누가 쏜――
+NPC-Pamzan(2)<Speaker>람잔</Speaker>||:아 얌마 너 또 어디 가!
+()<Speaker></Speaker>||:안나는 총성이 들려온 방향으로 달음박질쳤다.+방금 그건 MP443의 총성이었다.+다른 게 아닌, 자신의 MP443.
+()||<黑点1><关闭蒙版>:
+()<Speaker></Speaker>||<common_effect>%%code=AVG_xiaxue%%</common_effect><黑点2>:전력질주하는 안나는 길모퉁이에 다다랐다.+여기만 돌면 탁 트인 운동장이었다.+그런데, 눈에 들어온 광경에 안나는 동공이 수축했다.+마사는 거기 있었다. 지금 그녀는 왼팔로 예닐곱 살 정도인 여자애를 단단히 감싸고, 오른손에는 안나의 MP443으로 경비단원들을 겨누고 있었다.+하지만 안나가 경악한 이유는 그 때문이 아니었다.
+NPC-Ange(36)<Speaker>안나</Speaker><Position>0,-50</Position>||:오빠!!
+NPC-Ahmin(0)<Speaker>아흐민</Speaker>||:......
+()<Speaker></Speaker>||:마사의 앞을 아흐민이 가로막아, 경비단원들에게 반쯤 포위된 상태로 대치 중이었다. 그가 맨몸으로 시꺼먼 총구들 앞을 가로막고 있었다.
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:안나는 더더욱 고민할 새도 없이 곧장 달려갔다.
+()||<黑点1>:

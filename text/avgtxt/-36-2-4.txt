@@ -1,36 +1,36 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>99</BIN><黑屏2><BGM>10051</BGM>:군 주둔지.
-NPC-Soldier(0)<Speaker>기동부대장</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>랜드, 여기는 쿼츠. 격리벽 돌파에 성공. 임무를 속행하겠다.</color>
-NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Soldier(0)<通讯框>||:랜드 수신. 절대 방심하지 마라, 이상.
-NPC-Soldier(0)<Speaker>기동부대장</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>쿼츠, 수신 완료.</color>
-()||:예고르가 무전을 종료했다.
-NPC-Yegor(4)<Speaker>예고르</Speaker>||:그리폰 섬멸 진행 상황은?
-NPC-Yegor(4);NPC-Soldier(0)<Speaker>장교</Speaker>||:보고, 그리폰은 여전히 저항 중입니다.+각 부대는 현재 철로를 훼손하지 않도록 주의하면서 작전을 수행 중입니다.
-NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Soldier(0)||:무의미한 저항이건만, 악착같이도 버티는군. 놈들에게 숨 돌릴 틈을 주지 말고 몰아붙여라.+놈들도 얼마 못 버틸 거다.
-NPC-Yegor(4);NPC-Soldier(0)<Speaker>장교</Speaker>||<黑点1>:예.
-()<Speaker></Speaker>||<BIN>202</BIN><黑点2><BGM>BGM_Empty</BGM>:그리폰의 열차 지휘실.
-()<Speaker>지휘관</Speaker>||:카리나, 열차포의 포탄은 이제 얼마 남았지?
-NPC-Kalin(8)<Speaker>카리나</Speaker>||:1회 효력사 기준치의 절반도 안 남았습니다!
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||:모든 인형이 탑승을 완료했습니다. 바로 출발 가능합니다.
-()<Speaker>지휘관</Speaker>||<黑点1><BGM>m_avg_tension</BGM>:지금이다!+군부대를 향해... 전탄 발사!
-NPC-Yegor(4)<Speaker>예고르</Speaker>||<SE1>Battlefield</SE1><黑点2><BIN>99</BIN>:쯧... 허튼 수작만 부리는군.+주력 부대는 측면으로 우회하라. 저 열차는 보급도 없으니 곧 포탄이 바닥날 것이다.+우리의 목적을 잊지 마라... 진정으로 중요한 건 바로 저 기지다.
-NPC-Yegor(4);NPC-Soldier(0)<Speaker>장교</Speaker>||<黑点1>:알겠습니다.
-()<Speaker>지휘관</Speaker>||<BIN>202</BIN><黑点2>:되는대로 차탄 장전해!
-NPC-Kalin(7)<Speaker>카리나</Speaker>||:지휘관님, 그걸로 포탄이 소진됐어요...
-()<Speaker>지휘관</Speaker>||:그래... 그럼 슬슬 이 열차와도 작별해야겠군.
-NPC-Kalin(2)<Speaker>카리나</Speaker>||:지휘관님...?
-()<Speaker>지휘관</Speaker>||:댄들라이, 모든 인형들에게 탄약을 최대한으로 휴대하고, 가져갈 수 없는 건 전부 열차 밖으로 버리도록 해. 그리고 충격에 대비시켜.
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||:지휘관님... 그리하면 다신 돌아갈 수 없게 될지도 모릅니다.
-()<Speaker>지휘관</Speaker>||:이렇게라도 하지 않으면 영영 못 돌아가. 어서 명령을 전달해.
-NPC-Kalin(7)<Speaker>카리나</Speaker>||:지휘관님... 설마...?
-()<Speaker>지휘관</Speaker>||:그래, 그 설마야... 미안해 카리나, 내 억지에 조금만 더 어울려 주렴.
-()||:카리나는 잠깐 지휘관을 바라보더니, 한숨을 내쉬곤 안전벨트를 단단히 매고서 힘차게 고개를 끄덕였다.
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||:모든 인형도 충격 대비가 끝났습니다.
-()<Speaker>지휘관</Speaker>||:댄들라이, 내가 뭘 하려는지 알겠지?
-NytoIsomer(4)<Speaker>댄들라이</Speaker>||:왜 그토록 많은 이들이 당신을 신뢰하는지... 이제 좀 알 것 같습니다.
-()<Speaker>지휘관</Speaker>||<黑屏1>:칭찬 고맙구나.
-()||<BIN>9</BIN><黑屏2>:제동 장치의 한계 속도에 다다른 열차는 배기구에서 맹렬하게 증기를 내뿜으며 진동했고, 엔진은 댄들라이의 조종으로 과부화되기 시작했다.
-()||<黑点1><SE1>AVG_engine_speedup</SE1>:이윽고 제동 장치가 부러지는 소리와 함께, 열차는 바퀴에서 사방으로 불꽃을 튀기며, 마치 성난 황소처럼 그대로 기지를 향해 돌진했다.+원래대로라면 감속해야 하는 구간이지만, 열차는 가속을 계속했다.
-()||<黑点2><BIN>224</BIN>:격렬한 흔들림 속에서, 지휘관은 손잡이를 꽉 붙잡은 채 중얼거렸다.
-()<Speaker>지휘관</Speaker>||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_brake</SE1>:자아... 어디 와 보시라고. 벌레 하나 밟아 죽이기가 얼마나 힘든지 보여 주겠어.+이게 바로 필사즉생이란 거다...!
-()||<黑屏2><BIN>225</BIN><黑屏1><BGM>BGM_stage7</BGM><SE1>Explode</SE1>:한계 속도를 넘은 열차는 탈선하여, 얼어붙은 대지 위에서 머리를 비틀며 관문 안으로 미끄러져 들어갔다.+그리고 벽과 충돌해, 결국 기지 내부로 향하는 통로에 단단히 끼어 버렸다.+지휘관의 의지와 결심을 몸소 나타내려는 듯이, 적의 앞길을 가로막은 것이다.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>99</BIN><黑屏2><BGM>10051</BGM>:군 주둔지.
+NPC-Soldier(0)<Speaker>기동부대장</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>랜드, 여기는 쿼츠. 격리벽 돌파에 성공. 임무를 속행하겠다.</color>
+NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Soldier(0)<通讯框>||:랜드 수신. 절대 방심하지 마라, 이상.
+NPC-Soldier(0)<Speaker>기동부대장</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>쿼츠, 수신 완료.</color>
+()||:예고르가 무전을 종료했다.
+NPC-Yegor(4)<Speaker>예고르</Speaker>||:그리폰 섬멸 진행 상황은?
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>장교</Speaker>||:보고, 그리폰은 여전히 저항 중입니다.+각 부대는 현재 철로를 훼손하지 않도록 주의하면서 작전을 수행 중입니다.
+NPC-Yegor(4)<Speaker>예고르</Speaker>;NPC-Soldier(0)||:무의미한 저항이건만, 악착같이도 버티는군. 놈들에게 숨 돌릴 틈을 주지 말고 몰아붙여라.+놈들도 얼마 못 버틸 거다.
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>장교</Speaker>||<黑点1>:예.
+()<Speaker></Speaker>||<BIN>202</BIN><黑点2><BGM>BGM_Empty</BGM>:그리폰의 열차 지휘실.
+()<Speaker>지휘관</Speaker>||:카리나, 열차포의 포탄은 이제 얼마 남았지?
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:1회 효력사 기준치의 절반도 안 남았습니다!
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:모든 인형이 탑승을 완료했습니다. 바로 출발 가능합니다.
+()<Speaker>지휘관</Speaker>||<黑点1><BGM>m_avg_tension</BGM>:지금이다!+군부대를 향해... 전탄 발사!
+NPC-Yegor(4)<Speaker>예고르</Speaker>||<SE1>Battlefield</SE1><黑点2><BIN>99</BIN>:쯧... 허튼 수작만 부리는군.+주력 부대는 측면으로 우회하라. 저 열차는 보급도 없으니 곧 포탄이 바닥날 것이다.+우리의 목적을 잊지 마라... 진정으로 중요한 건 바로 저 기지다.
+NPC-Yegor(4);NPC-Soldier(0)<Speaker>장교</Speaker>||<黑点1>:알겠습니다.
+()<Speaker>지휘관</Speaker>||<BIN>202</BIN><黑点2>:되는대로 차탄 장전해!
+NPC-Kalin(7)<Speaker>카리나</Speaker>||:지휘관님, 그걸로 포탄이 소진됐어요...
+()<Speaker>지휘관</Speaker>||:그래... 그럼 슬슬 이 열차와도 작별해야겠군.
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:지휘관님...?
+()<Speaker>지휘관</Speaker>||:댄들라이, 모든 인형들에게 탄약을 최대한으로 휴대하고, 가져갈 수 없는 건 전부 열차 밖으로 버리도록 해. 그리고 충격에 대비시켜.
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:지휘관님... 그리하면 다신 돌아갈 수 없게 될지도 모릅니다.
+()<Speaker>지휘관</Speaker>||:이렇게라도 하지 않으면 영영 못 돌아가. 어서 명령을 전달해.
+NPC-Kalin(7)<Speaker>카리나</Speaker>||:지휘관님... 설마...?
+()<Speaker>지휘관</Speaker>||:그래, 그 설마야... 미안해 카리나, 내 억지에 조금만 더 어울려 주렴.
+()||:카리나는 잠깐 지휘관을 바라보더니, 한숨을 내쉬곤 안전벨트를 단단히 매고서 힘차게 고개를 끄덕였다.
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:모든 인형도 충격 대비가 끝났습니다.
+()<Speaker>지휘관</Speaker>||:댄들라이, 내가 뭘 하려는지 알겠지?
+NytoIsomer(4)<Speaker>댄들라이</Speaker>||:왜 그토록 많은 이들이 당신을 신뢰하는지... 이제 좀 알 것 같습니다.
+()<Speaker>지휘관</Speaker>||<黑屏1>:칭찬 고맙구나.
+()||<BIN>9</BIN><黑屏2>:제동 장치의 한계 속도에 다다른 열차는 배기구에서 맹렬하게 증기를 내뿜으며 진동했고, 엔진은 댄들라이의 조종으로 과부화되기 시작했다.
+()||<黑点1><SE1>AVG_engine_speedup</SE1>:이윽고 제동 장치가 부러지는 소리와 함께, 열차는 바퀴에서 사방으로 불꽃을 튀기며, 마치 성난 황소처럼 그대로 기지를 향해 돌진했다.+원래대로라면 감속해야 하는 구간이지만, 열차는 가속을 계속했다.
+()||<黑点2><BIN>224</BIN>:격렬한 흔들림 속에서, 지휘관은 손잡이를 꽉 붙잡은 채 중얼거렸다.
+()<Speaker>지휘관</Speaker>||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_brake</SE1>:자아... 어디 와 보시라고. 벌레 하나 밟아 죽이기가 얼마나 힘든지 보여 주겠어.+이게 바로 필사즉생이란 거다...!
+()||<黑屏2><BIN>225</BIN><黑屏1><BGM>BGM_stage7</BGM><SE1>Explode</SE1>:한계 속도를 넘은 열차는 탈선하여, 얼어붙은 대지 위에서 머리를 비틀며 관문 안으로 미끄러져 들어갔다.+그리고 벽과 충돌해, 결국 기지 내부로 향하는 통로에 단단히 끼어 버렸다.+지휘관의 의지와 결심을 몸소 나타내려는 듯이, 적의 앞길을 가로막은 것이다.

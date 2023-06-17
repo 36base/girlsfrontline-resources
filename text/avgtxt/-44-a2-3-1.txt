@@ -1,171 +1,171 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>269</BIN><BGM>BGM_Room</BGM>:......
-()<Speaker></Speaker>||:요양원의 정원. 공기 중엔 신선한 흙의 향이 풍겼고, 화사한 햇살이 풀밭을 어루만졌다.
-()<Speaker>간호사</Speaker>||:저기 좀 보세요, 리오니 씨.+수레국화가 피었네요.
-NPC-Leone(0)<Speaker>리오니</Speaker>||:......+...다른 데로 가면 안 될까요?+지금은 꽃을 보기 싫어요.
-()<Speaker>간호사</Speaker>||:아... 죄송해요.
-NPC-Leone(0)<Speaker>리오니</Speaker>||:괜찮아요.+그리고 좀 서늘한데, 담요라도 가져다 주시겠어요?
-()<Speaker>간호사</Speaker>||:서늘하다고요? 알겠습니다, 체력단련실에 담요가 있으니 가져올게요. 여기서 잠시만 있어 주세요.
-NPC-Leone(0)<Speaker>리오니</Speaker>||:하하...
-()<Speaker></Speaker>||:리오니는 시선을 붕대로 칭칭 감긴 손과 깁스를 찬 팔로 떨궜다.+지금 그녀에겐 휠체어에서 일어날 기운조차 없었다.
-()<Speaker></Speaker>||:이 요양원의 정원은 어느 유명한 가든 디자이너가 직접 손본 곳으로, 꽃은 물론 잔디까지도 까다롭게 선별되어 심어지고 가꿔졌다.+시야에 들어오는 모든 것이, 심신을 편안하게 하도록 설계된 것이다.+하지만 리오니는 그 풍경을 보고도 깊은 한숨을 쉴 뿐이었다.+지금 그녀만큼 꽃향기에도 민감하게 반응할 환자도 드물 테니 말이다.
-()<Speaker></Speaker>||:과연 꽃가루 알러지가 있는 환자를, 여기선 어떻게 간호할까?
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:덥석.+그때, 뒤에서 간호사가 방금 놓았던 휠체어의 핸들을 누가 다시 붙잡았다.
-NPC-Leone(0)<Speaker>리오니</Speaker>||:빨리 돌아왔네요, 간호사 씨.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:담요는 깜빡했는데, 괜찮지?
-NPC-Leone(0)<Speaker>리오니</Speaker>||:......히익!?
-()<Speaker></Speaker>||:리오니는 반사적으로 일어나 도망치려 했지만, 안젤리아의 의수가 어깨를 눌렀다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:쉬잇... 그냥 얘기나 하러 왔으니까 까칠하게 굴지 마.
-()<Speaker></Speaker>||:리오니는 두려움에 몸을 덜덜 떨며 아랫입술을 꽉 깨물었다. 뭐라 대꾸할 용기도 나지 않았다.+목덜미를 붙잡혔을 뿐더러, 안젤리아를 본 순간 그날의 창백한 악몽이 머릿속에 다시 떠올랐기 때문이었다.
-NPC-Leone(0)<Speaker>리오니</Speaker>||:너... 널 돌려보내라고 했는데...
-NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Leone(0)||:그럼 내가 오냐하고 갈 줄 알았어?
-NPC-Ange(7);NPC-Leone(0)<Speaker>리오니</Speaker>||:......
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:만나자고 할 땐 언제고, 왜 갑자기 생각이 바뀌셨대?
-()<Speaker></Speaker>||:안젤리아가 스윽 훑어본 리오니는 좀 이상했다. 최고급 요양원에서 푹 쉬던 환자가 아니라, 오히려 고문에서 막 풀려난 죄수 같은 분위기였다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:아하... 그레이가 왔다 갔구나.
-NPC-Leone(0)<Speaker>리오니</Speaker>||:......!
-()<Speaker></Speaker>||:확연히 드러날 정도로 동요하는 리오니의 모습에, 안젤리아도 자신의 추측을 더욱 확신하게 되었다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:네가 우리랑 만난다고 듣고, 경고하러 왔지?+너보고 입단속하라 했어? 그년이 찔릴 만한 일을 알고 있는 거지?
-NPC-Leone(0)<Speaker>리오니</Speaker>||:묻지 마... 저, 절대 말 안 해...
-()<Speaker></Speaker>||:리오니는 휠체어의 팔걸이를 움켜쥐었다.+가녀린 몸은 바들바들 떨렸지만, 그럼에도 무척 단호해 보였다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:내가 그리 쉽게 포기하지 않는다는 거 알잖아.
-NPC-Leone(0)<Speaker>리오니</Speaker>||:너... 넌 아무것도 몰라.+그년은 너 같은 요원 나부랭이가 쥐고 흔들 수 있는 사람이 아니라고.+너도 쓴맛 보기 싫으면... 그만 포기해. 나 좀 조용히 내버려 둬...!
-()<Speaker></Speaker>||:리오니는 점점 감정이 격앙되어, 부러진 손까지 아주 약간이나마 움직인 것 같았다.
-NPC-Leone(0)<Speaker>리오니</Speaker>||:......난 그냥 살고 싶어.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Leone(0)||:권총으로 자살하려 했던 사람이 할 말은 아닌 거 같은데.
-NPC-Leone(0)<Speaker>리오니</Speaker>||:풉... 네 부하 덕분이지.+삶을 바라보는 시선이... 많이 달라졌거든.+...아, 어쩐지.
-()<Speaker></Speaker>||:갑자기 뭔가 떠올랐는지, 리오니가 고개를 들었다.
-NPC-Leone(0)<Speaker>리오니</Speaker>||:둘 다 같은 인상이었어.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Leone(0)||:누구랑 누가?
-NPC-Ange(7);NPC-Leone(0)<Speaker>리오니</Speaker>||:그레이랑 네 부하.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Leone(0)||:RPK-16 말이야?
-NPC-Ange(7);NPC-Leone(0)<Speaker>리오니</Speaker>||:걔 이름을 내가 어떻게 알아, 아무튼 내 손 부러뜨린 그 인형.+괜한 참견이지만, 너도 그 녀석은 조심하는 게 좋을 거야.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:네 말대로 괜한 참견이니까 신경 꺼.
-()<Speaker></Speaker>||:안젤리아가 시계를 확인했다. 슬슬 간호사가 돌아올 시간이었다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:다음에 또 오지.
-NPC-Leone(0)<Speaker>리오니</Speaker>||:다신 오지 마.+와봤자 바뀌는 거 하나도 없으니까.
-()<Speaker></Speaker>||:하지만 리오니가 대꾸했을 땐 이미 등뒤의 기척은 바람처럼 사라진 뒤였다.
-()<Speaker>간호사</Speaker>||:리오니 씨, 기다리시게 해서 죄송해요.+무릎에 덮으면 훨씬 따뜻할 거예... 어? 왜 이렇게 땀이...?+리오니 씨, 괜찮으세요?
-()<Speaker></Speaker>||:......
-()||<黑点1>:
-AK12(12)<Speaker>AK12</Speaker>||<BIN>276</BIN><黑点2>:잘 안 풀렸나 봐?
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:한발 늦었어.+그레이 그년이 입단속을 아주 단단히도 시켜놨더만.
-RPK16(7)<Speaker>RPK16</Speaker>||:우와, 안젤리아가 이렇게 쉽게 포기하는 거 처음 봐요.+그럼 제가 할까요? 리오니 씨도 분명 저와의 재회를 엄청 기뻐할 텐데요...
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:됐어, 지금은 녀석의 반항심이 가장 강할 때야. 더 괴롭혀봤자 소용없어.+일단 내버려두자, 아직 다른 수가 있으니까.
-()<Speaker></Speaker>||:안젤리아가 고개를 돌려 본 라이트는 왠지 기운이 없는 표정이었다. 하지만 안젤리아의 시선을 느끼자마자, 정신을 차리고 고개를 들었다.
-NPC-Light(0)<Speaker>라이트</Speaker>||:리오니는 중요 참고인이니, 혹시 모를 신변의 위협에 대비해 요양원에 보안인원을 배치하겠습니다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Light(0)||:그래, 그런 점도 확실히 주의해야지. 지금 안전하다 해서 언제까지고 그러리란 보장도 없고.+아무튼 여긴 더 있어봤자 시간 낭비니, 다른 쪽을 찔러보러 가자.
-NPC-Ange(7);NPC-Light(0)<Speaker>라이트</Speaker>||:닥터 그레이의 자료를 정리해 드릴까요?
-NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Light(0)||:좋은 아이디어지만 그다지 쓸모는 없을 거다. 세간의 주목을 한몸에 받으면서 사는 사람한테 무슨 트집거리가 있다면, 진작에 이슈가 됐을걸.
-NPC-Ange(7);NPC-Light(0)<Speaker>라이트</Speaker>||:그럼...?
-NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Light(0)||:파월을 보고 싶은데, 시간 잡을 수 있어?
-NPC-Ange(7);NPC-Light(2)<Speaker>라이트</Speaker>||:파월이요...? 현재 베를린 교도소에서 복역 중입니다만, 면회가 가능할지... 우선 요청은 해보겠습니다.+그런데 왜 파월이죠?
-NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Light(2)||:알 거 없어, 나도 다 생각이 있다고만 알아둬.
-NPC-Light(0)<Speaker>라이트</Speaker>||:...알겠습니다.+바로 진행하죠.
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:안젤리아의 다소 매정한 말에 라이트도 뭔가 할 말이 있어 보였지만, 결국 고개를 끄덕이기만 했다.
-RPK16(8)<Speaker>RPK16</Speaker>||:......
-()<Speaker></Speaker>||:RPK-16은 희한한 눈빛으로 안젤리아를 보면서, 라이트가 떠난 뒤에야 천천히 입을 열었다.
-RPK16(7)<Speaker>RPK16</Speaker>||:저 애를 의심하시나 보네요, 안젤리아.
-NPC-Ange(6)<Speaker>안젤리아</Speaker>;RPK16(7)||:불만 있어?
-NPC-Ange(6);RPK16(7)<Speaker>RPK16</Speaker>||:그럴 리가요. 그냥 충고드리고 싶어서요.+너무 그렇게 신경질적이면 판단력에 지장이 생긴답니다. 여긴 브레멘이 아니잖아요.
-NPC-Ange(6);AK12(12)<Speaker>AK12</Speaker>||:하지만 그레이가 너무 일찍 찾아왔어, 그것도 아주 절묘한 타이밍에... 브레멘에서랑 완전히 똑같은 상황이야.+라이트가 아니더라도 녀석 휘하의 누군가가 누설했을 수도 있어.+잊지 마, 그레이의 수완으로 리오니를 법정에서 빼돌릴 수 있다면...+슈타지에 스파이 하나 심어 놓는 것도 쉬운 일이야.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:나도 생각이 있다니까.+라이트가 소식을 가져오기까진 시간이 좀 있으니 우린 먼저 돌아가자.
-AN94(11)<Speaker>AN94</Speaker>||:......!
-()<Speaker></Speaker>||:AN-94가 무언가를 눈치채곤 안젤리아 곁으로 다가갔다.
-AN94(11)<Speaker>AN94</Speaker>||:계단 조심해라.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:......고마워.
-()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:안젤리아는 AN-94의 손을 잡고서, 천천히 계단을 내려갔다.
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>46</BIN><BGM>BGM_Empty</BGM>:다음날.+기운을 회복한 안젤리아는 엄격한 검문을 거친 뒤, 라이트가 어렵사리 마련한 심문실에 도착했다.+문앞의 라이트는 안젤리아가 다소 걱정되는 모양이었다.
-NPC-Light(3)<Speaker>라이트</Speaker>||:저도 동행할까요?
-NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Light(3)||:아니, 넌 리벨리온이랑 같이 여기서 기다려.+...그리고, 잘했다. 일처리 빠르네.
-NPC-Light(0)<Speaker>라이트</Speaker>||:신청이 빨리 통과됐습니다. ...의심스러올 정도로요.+보고를 올리면 보통 확인에만 며칠이 소요되는데...
-()<Speaker></Speaker>||:라이트는 무언가를 에둘러 말하려는 듯했지만, 안젤리아는 전혀 신경쓰지 않았다.
-AK12(12)<Speaker>AK12</Speaker>||:뭐든지 너무 깊게 파고들지 않는 게 좋아.+좋을 거 하나도 없어요, 도련님~
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:......
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Prison_Door</SE1><BIN>158</BIN><BGM>BGM_Brain</BGM>:문을 열고 홀로 심문실 안으로 들어간 안젤리아의 눈에, 파월의 그 역겨운 얼굴이 들어왔다.+빠르게 컨디션을 조절하면서, 안젤리아는 파월보다 먼저 입을 열었다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:교도소 침대는 어때? 잘 못 자나 봐?
-NPC-Powell(0)<Speaker>파월</Speaker>||:......본론이나 말하시지.
-()<Speaker></Speaker>||:파월은 그 퉁퉁한 입술을 깨물며 허세를 부렸다.+하지만 그의 이마에는 이미 식은땀이 송골송골 맺혀 있었다.
-()<Speaker></Speaker>||:안젤리아는 의자를 당겨 파월의 맞은편에 앉았다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:양복은 압수 안 당했네? 브레멘의 대부가 베를린에서도 대접받을 줄은 몰랐는걸.
-NPC-Powell(0)<Speaker>파월</Speaker>||:흥... 내가 친구 사귀는 법을 몰랐으면 이렇게 살아있지도 못했어.
-()<Speaker></Speaker>||:파월은 눈을 굴리며 방의 다른 구석을 계속해서 곁눈질했고, 수갑 찬 손에 쥔 손수건으로 몇 번이나 이마를 훔쳤다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:하지만 그 "친구들"은 널 여기다 버렸지.+듣자하니, 리오니는 VIP 룸에서 푹신한 침대서 잔다던데. 못 들었어?
-NPC-Ange(7);NPC-Powell(0)<Speaker>파월</Speaker>||:나한테서 뭐라도 캐내려는 모양인데 헛수고야, 내가 아는 건 슈타지한테 말한 게 전부라고.+날 심문해봤자 시간 낭비밖에 안 돼.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Powell(0)||:그렇게 말할 줄 알았어. 하지만 이걸 어쩌나, 난 안 믿는데.+너처럼 간사한 여우놈은 반드시 비장의 수를 마지막까지 꿍쳐 두는 법이거든. 지금도 뭐든지 다 네 손바닥 안이라 생각하겠지.+하지만 실상은 어떻지? 넌 지금 모가지나 안 달아나면 다행인 상황이야.
-NPC-Powell(0)<Speaker>파월</Speaker>||:우, 웃기고 있네!
-()<Speaker></Speaker>||:정곡을 찔렸는지, 파월이 대뜸 흥분하며 손바닥으로 탁상을 탕탕 쳤다.
-NPC-Powell(0)<Speaker>파월</Speaker>||:네깟 계집애가 뭘 안다고!+두고 봐! 나도 금방 나가서, 날 건드린 녀석한테 대가를 톡톡히 치르게 해 줄 테니까!
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:......
-()<Speaker></Speaker>||:안젤리아는 콧등을 쓱쓱 문지르더니, 절레절레 고개를 저으며 일어났다.
-NPC-Powell(0)<Speaker>파월</Speaker>||:뭐... 뭐야?+그냥 가려고? 말한 것도 없는데?
-()<Speaker></Speaker>||:안젤리아가 일어나자, 파월은 그녀가 나가려는 줄 알고 역으로 당황했다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:역시 자기 입장을 잘 알고 있네...+나한테 협조 안 하면... 어떻게 되는지 알지? 그치?+일어난 것 가지고 잔뜩 쫄기나 하고 말이야.
-NPC-Powell(0)<Speaker>파월</Speaker>||:뭣... 쫄기는 누가 쫄았다고!+오히려 네가 나한테 절하고 부탁해야 하는 입장 아니야?! 엉!?
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:하아아...+라이트, 녹화 꺼 봐.
-NPC-Powell(0)<Speaker>파월</Speaker>||:무, 무슨 속셈이야?
-()<Speaker></Speaker>||:불길한 기운을 감지한 파월이 떨리는 목소리로 물었다.+하지만 안젤리아는 그저 빙 돌아서, 파월의 뒤에 섰다.
-NPC-Powell(0)<Speaker>파월</Speaker>||:경고하는데, 나한테——
-()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:쾅!+파월의 머리가 금속제 탁상 위에 처박혔다.
-NPC-Powell(0)<Speaker>파월</Speaker>||:으억!!
-()<Speaker></Speaker>||<SE1>Rope</SE1>:안젤리아는 그의 머리끄덩이를 놓지 않고 다시 잡아당겼고, 파월은 돼지 멱 따는 소리로 울부짖었다.
-NPC-Powell(0)<Speaker>파월</Speaker>||:끄아아악! 이거 놓으, 아니, 제발 놔 줘! 제발!
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:너 같은 쓰레기는 내가 질리도록 상대해봤어.+얼마나, 비굴한, 족속인지도, 아주 잘 알아.
-()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:쿵!
-()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:쿠웅!!
-()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:쿠우웅!!!
-()<Speaker></Speaker>||:안젤리아는 파월의 머리를 몇 번이고 탁상에 처박았다.+눈 깜짝할 새에, 파월은 찢어진 이마에서 흐르는 피로 얼굴이 피투성이가 되었다.
-NPC-Powell(0)<Speaker>파월</Speaker>||:어억... 아아악!!
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:난 지금 너 같은 태우지도 못하는 쓰레기한테 낭비할 시간 없단 말이야.
-()<Speaker></Speaker>||:안젤리아가 살짝 쉰 목소리를 냈지만, 파월의 귀에는 악마의 속삭임이나 다름없었다.
-NPC-Ange(4)<Speaker>안젤리아</Speaker>||:말해. 누가 리오니를 보석했지? 왜 꺼내 줬어? 리오니한테 대체 뭐가 있는데!
-NPC-Powell(0)<Speaker>파월</Speaker>||:마, 말할게... 말하면 되잖아 이 XXX아!+그러니까 이거, 이거 놔!
-()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:철푸덕!
-()<Speaker></Speaker>||:안젤리아는 파월의 머리를 탁상에 그대로 내팽개치고 자리로 돌아가 앉았다.+파월은 신음소리를 내며 천천히 고개를 들었다. 손의 손수건은 진작에 멀리 날아가, 피범벅인 얼굴을 닦을 수도 없었다.
-NPC-Powell(0)<Speaker>파월</Speaker>||:누가 리오니를 꺼냈는지는 나도 몰라... 하, 하지만 왜 꺼냈는지는 알지.
-NPC-Ange(6)<Speaker>안젤리아</Speaker>;NPC-Powell(0)||:왜 꺼내 줬는데.
-NPC-Ange(6);NPC-Powell(0)<Speaker>파월</Speaker>||:그년의 연구 때문에.+네가 플로라를 박살내기 직전, 리오니의 연구가 마침 아주 중요한 시기였어.+그 사람은 리오니의 핵심 기술을 원했지만, 리오니는 그때 환각제의 조합법만 제공한 상태였으니까...
-NPC-Ange(6)<Speaker>안젤리아</Speaker>;NPC-Powell(0)||:하, 내가 남 좋은 일만 해 버린 꼴이네.+리오니의 지금 처지론 다른 선택지가 없겠지.+젠장, 이것도 녀석의 속셈이었던 건가.+그래서, 그 연구가 대체 뭔데?
-NPC-Ange(6);NPC-Powell(0)<Speaker>파월</Speaker>||:자세힌 몰라도 일종의 대량 살상 병기인 것만은 확실해.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Powell(0)||:대량 살상 병기? 세상에 그런 건 셀 수도 없이 많은데 왜 하필 리오니의 연구에 눈독을 들인 거지?+뭐 특별한 점이라도 있어?
-NPC-Ange(7);NPC-Powell(0)<Speaker>파월</Speaker>||:나도 직접 써볼 기회가 있었어서 어느 정도 알게 됐어... 그래도 조금뿐이지만.+내가 아는 건, 그 물건은 은폐성이 굉장해서 일반적인 장비로는 절대 발각될 일 없다는 거야.+그걸 써먹기 딱 좋은 장소가...
-NPC-Ange(6)<Speaker>안젤리아</Speaker>;NPC-Powell(0)||:기습 테러겠군.
-NPC-Powell(0)<Speaker>파월</Speaker>||:그래, 그거야. 어디에든 아주 손쉽게 들여보낼 수 있어.+생각해 봐, 만약 내가 더티밤 하나를 수상의 관저에 보낸다면...?+내가 얻지 못할 게 뭐가 있겠어? 나라가 나를 두려워할 텐데!
-()<Speaker></Speaker>||:아픔이 좀 가셨는지, 파월이 다시 건방진 태도를 되찾았다.+입 안까지 온통 시뻘겋게 물들었으면서, 자신의 상상에 껄껄 웃어댔다.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:드륵!+안젤리아가 벌떡 일어났다.
-NPC-Powell(0)<Speaker>파월</Speaker>||:!
-()<Speaker></Speaker>||:안젤리아의 움직임에 파월은 다시 식겁했다.
-NPC-Powell(0)<Speaker>파월</Speaker>||:더, 더는 진짜 몰라! 진짜로!
-NPC-Ange(4)<Speaker>안젤리아</Speaker>||:그놈이 꾸미고 있다는 게, 설마... 젠장...
-()<Speaker></Speaker>||:안젤리아는 파월에게 아무 짓도 하지 않았다.+대신 테이블 위에 양팔로 몸을 받친 채, 눈살을 찌푸리고 중얼거렸다.
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:아니야... 아직 부족해... 이것만으론 부족해, 증거가 모자라...
-()<Speaker></Speaker>||:안젤리아가 자신을 건드리려는 게 아닌 것 같자, 다시 잔뜩 긴장했던 파월은 움츠렸던 몸을 다시 풀었다.+그리고 망설이다, 코를 쓰윽 닦으며 짐짓 진중한 투로 말했다.
-NPC-Powell(0)<Speaker>파월</Speaker>||:아무래도, 자네 수중의 패가 부족한 모양이구만.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:뭐, 그래서 가르침이라도 주게?
-NPC-Powell(0)<Speaker>파월</Speaker>||:가르침이랄 것도 아니지만... 아니, 근데 내가 왜 너 같은 미친...<Size=30>년을 가르쳐...</Size>
-()<Speaker></Speaker>||:무심코 한 말실수에 아차 싶었는지, 파월은 목소리가 기어들어갔다.+그런데도 말은 끝까지 다 했고, 시뻘겋게 부은 얼굴만으론 겁을 먹었는지 억지를 부리는 건지 구분이 가질 않았다.+안젤리아는 잠자코 그를 지켜보기만 했다. 파월에게 더 이상 폭력을 휘두를 생각은 없었다. 이미 효과는 충분했으니까.
-NPC-Powell(0)<Speaker>파월</Speaker>||:......거래 하나 하지.
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:거래?
-NPC-Powell(0)<Speaker>파월</Speaker>||:내가 단서가 될 만한 걸 아는데... 쓸모 있다고 내 장담하지.+그러니 내 안전을 보장해 줘.
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:얼른 말하기나 해.+내 마음 바뀌기 전에.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그 말에 파월은 입을 뻐끔거리며 망설였다. 하지만 자신에게 달리 선택지가 없음을 이해하고서, 어금니를 깨물곤 주머니에서 담뱃갑을 꺼내 내밀었다.
-NPC-Ange(6)<Speaker>안젤리아</Speaker>||:뭐야 이건?
-()<Speaker></Speaker>||:안젤리아가 담뱃갑을 받아 열어보니, 안에는 작은 튜브 같은 것이 하나 들어 있었다.
-NPC-Powell(0)<Speaker>파월</Speaker>||:감옥마다 전문적으로 물건을 들이는 브로커가 있다는 걸 모르진 않겠지? 여기도 마찬가지야.+담배, 위스키, 그라비아 잡지... 수요가 있으면 공급이 있는 법이지.
-NPC-Ange(6)<Speaker>안젤리아</Speaker>;NPC-Powell(0)||:더러는 자기도 이득을 보거나, 의외로 교도소 내에서의 질서 유지에 도움되는 구석도 있어서 큰 말썽만 아니면 교도관들도 넘어가는 편이지...+하지만 마약은 선을 한참 넘는데?
-NPC-Ange(6);NPC-Powell(0)<Speaker>파월</Speaker>||:아니 아니, 이건 마약이 아니야. 절대 아니지.+마약이면 내가 이걸 왜 가져와?
-NPC-Ange(6)<Speaker>안젤리아</Speaker>;NPC-Powell(0)||:그럼 뭔데?
-NPC-Ange(6);NPC-Powell(0)<Speaker>파월</Speaker>||:내가 브레멘에서 썼던 물건 기억해?+리오니가 나한테 제공한 거.
-NPC-Ange(6)<Speaker>안젤리아</Speaker>;NPC-Powell(0)||:......환각제?
-NPC-Ange(6);NPC-Powell(0)<Speaker>파월</Speaker>||:이 베를린 교도소에도 내 친구가 있어서 다 알아봤어.+최근 들어 갑자기 유행하는 물건이래.
-NPC-Ange(6)<Speaker>안젤리아</Speaker>;NPC-Powell(0)||:환각제가? 감옥에서? 어째서?
-NPC-Ange(6);NPC-Powell(0)<Speaker>파월</Speaker>||:내가 어떻게 알아? 알고 싶지도 않구만.+아무튼, 내가 도와준 거 맞지? 약속 꼭 지켜라!
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:......
-()<Speaker></Speaker>||:안젤리아는 담뱃갑을 살짝 흔들어보고, 품속에 넣었다.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:......+이거, 나 말고 알려 준 사람 있어?
-NPC-Powell(0)<Speaker>파월</Speaker>||:너 말곤 없어.+나도 슈타지한테 심문당할 땐 모르는 일이었다고.+그러니, 나 말곤 이걸 아는 사람은 이제 너뿐이야.+물론, 이걸 쓰는 놈들한테서 소문이 새어 나갈 수도 있겠는데... 그건 나도 어쩌지 못해.
-NPC-Ange(7)<Speaker>안젤리아</Speaker>||:적어도 넌 절대 아무한테도 말하지 마.+네가 협력했단 건... 내 장부에 잘 적어 두도록 하지.
-()<Speaker></Speaker>||:......
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>269</BIN><BGM>BGM_Room</BGM>:......
+()<Speaker></Speaker>||:요양원의 정원. 공기 중엔 신선한 흙의 향이 풍겼고, 화사한 햇살이 풀밭을 어루만졌다.
+()<Speaker>간호사</Speaker>||:저기 좀 보세요, 리오니 씨.+수레국화가 피었네요.
+NPC-Leone(0)<Speaker>리오니</Speaker>||:......+...다른 데로 가면 안 될까요?+지금은 꽃을 보기 싫어요.
+()<Speaker>간호사</Speaker>||:아... 죄송해요.
+NPC-Leone(0)<Speaker>리오니</Speaker>||:괜찮아요.+그리고 좀 서늘한데, 담요라도 가져다 주시겠어요?
+()<Speaker>간호사</Speaker>||:서늘하다고요? 알겠습니다, 체력단련실에 담요가 있으니 가져올게요. 여기서 잠시만 있어 주세요.
+NPC-Leone(0)<Speaker>리오니</Speaker>||:하하...
+()<Speaker></Speaker>||:리오니는 시선을 붕대로 칭칭 감긴 손과 깁스를 찬 팔로 떨궜다.+지금 그녀에겐 휠체어에서 일어날 기운조차 없었다.
+()<Speaker></Speaker>||:이 요양원의 정원은 어느 유명한 가든 디자이너가 직접 손본 곳으로, 꽃은 물론 잔디까지도 까다롭게 선별되어 심어지고 가꿔졌다.+시야에 들어오는 모든 것이, 심신을 편안하게 하도록 설계된 것이다.+하지만 리오니는 그 풍경을 보고도 깊은 한숨을 쉴 뿐이었다.+지금 그녀만큼 꽃향기에도 민감하게 반응할 환자도 드물 테니 말이다.
+()<Speaker></Speaker>||:과연 꽃가루 알러지가 있는 환자를, 여기선 어떻게 간호할까?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:덥석.+그때, 뒤에서 간호사가 방금 놓았던 휠체어의 핸들을 누가 다시 붙잡았다.
+NPC-Leone(0)<Speaker>리오니</Speaker>||:빨리 돌아왔네요, 간호사 씨.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:담요는 깜빡했는데, 괜찮지?
+NPC-Leone(0)<Speaker>리오니</Speaker>||:......히익!?
+()<Speaker></Speaker>||:리오니는 반사적으로 일어나 도망치려 했지만, 안젤리아의 의수가 어깨를 눌렀다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:쉬잇... 그냥 얘기나 하러 왔으니까 까칠하게 굴지 마.
+()<Speaker></Speaker>||:리오니는 두려움에 몸을 덜덜 떨며 아랫입술을 꽉 깨물었다. 뭐라 대꾸할 용기도 나지 않았다.+목덜미를 붙잡혔을 뿐더러, 안젤리아를 본 순간 그날의 창백한 악몽이 머릿속에 다시 떠올랐기 때문이었다.
+NPC-Leone(0)<Speaker>리오니</Speaker>||:너... 널 돌려보내라고 했는데...
+NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Leone(0)||:그럼 내가 오냐하고 갈 줄 알았어?
+NPC-Ange(7);NPC-Leone(0)<Speaker>리오니</Speaker>||:......
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:만나자고 할 땐 언제고, 왜 갑자기 생각이 바뀌셨대?
+()<Speaker></Speaker>||:안젤리아가 스윽 훑어본 리오니는 좀 이상했다. 최고급 요양원에서 푹 쉬던 환자가 아니라, 오히려 고문에서 막 풀려난 죄수 같은 분위기였다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:아하... 그레이가 왔다 갔구나.
+NPC-Leone(0)<Speaker>리오니</Speaker>||:......!
+()<Speaker></Speaker>||:확연히 드러날 정도로 동요하는 리오니의 모습에, 안젤리아도 자신의 추측을 더욱 확신하게 되었다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:네가 우리랑 만난다고 듣고, 경고하러 왔지?+너보고 입단속하라 했어? 그년이 찔릴 만한 일을 알고 있는 거지?
+NPC-Leone(0)<Speaker>리오니</Speaker>||:묻지 마... 저, 절대 말 안 해...
+()<Speaker></Speaker>||:리오니는 휠체어의 팔걸이를 움켜쥐었다.+가녀린 몸은 바들바들 떨렸지만, 그럼에도 무척 단호해 보였다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:내가 그리 쉽게 포기하지 않는다는 거 알잖아.
+NPC-Leone(0)<Speaker>리오니</Speaker>||:너... 넌 아무것도 몰라.+그년은 너 같은 요원 나부랭이가 쥐고 흔들 수 있는 사람이 아니라고.+너도 쓴맛 보기 싫으면... 그만 포기해. 나 좀 조용히 내버려 둬...!
+()<Speaker></Speaker>||:리오니는 점점 감정이 격앙되어, 부러진 손까지 아주 약간이나마 움직인 것 같았다.
+NPC-Leone(0)<Speaker>리오니</Speaker>||:......난 그냥 살고 싶어.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Leone(0)||:권총으로 자살하려 했던 사람이 할 말은 아닌 거 같은데.
+NPC-Leone(0)<Speaker>리오니</Speaker>||:풉... 네 부하 덕분이지.+삶을 바라보는 시선이... 많이 달라졌거든.+...아, 어쩐지.
+()<Speaker></Speaker>||:갑자기 뭔가 떠올랐는지, 리오니가 고개를 들었다.
+NPC-Leone(0)<Speaker>리오니</Speaker>||:둘 다 같은 인상이었어.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Leone(0)||:누구랑 누가?
+NPC-Ange(7);NPC-Leone(0)<Speaker>리오니</Speaker>||:그레이랑 네 부하.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Leone(0)||:RPK-16 말이야?
+NPC-Ange(7);NPC-Leone(0)<Speaker>리오니</Speaker>||:걔 이름을 내가 어떻게 알아, 아무튼 내 손 부러뜨린 그 인형.+괜한 참견이지만, 너도 그 녀석은 조심하는 게 좋을 거야.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:네 말대로 괜한 참견이니까 신경 꺼.
+()<Speaker></Speaker>||:안젤리아가 시계를 확인했다. 슬슬 간호사가 돌아올 시간이었다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:다음에 또 오지.
+NPC-Leone(0)<Speaker>리오니</Speaker>||:다신 오지 마.+와봤자 바뀌는 거 하나도 없으니까.
+()<Speaker></Speaker>||:하지만 리오니가 대꾸했을 땐 이미 등뒤의 기척은 바람처럼 사라진 뒤였다.
+()<Speaker>간호사</Speaker>||:리오니 씨, 기다리시게 해서 죄송해요.+무릎에 덮으면 훨씬 따뜻할 거예... 어? 왜 이렇게 땀이...?+리오니 씨, 괜찮으세요?
+()<Speaker></Speaker>||:......
+()||<黑点1>:
+AK12(12)<Speaker>AK12</Speaker>||<BIN>276</BIN><黑点2>:잘 안 풀렸나 봐?
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:한발 늦었어.+그레이 그년이 입단속을 아주 단단히도 시켜놨더만.
+RPK16(7)<Speaker>RPK16</Speaker>||:우와, 안젤리아가 이렇게 쉽게 포기하는 거 처음 봐요.+그럼 제가 할까요? 리오니 씨도 분명 저와의 재회를 엄청 기뻐할 텐데요...
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:됐어, 지금은 녀석의 반항심이 가장 강할 때야. 더 괴롭혀봤자 소용없어.+일단 내버려두자, 아직 다른 수가 있으니까.
+()<Speaker></Speaker>||:안젤리아가 고개를 돌려 본 라이트는 왠지 기운이 없는 표정이었다. 하지만 안젤리아의 시선을 느끼자마자, 정신을 차리고 고개를 들었다.
+NPC-Light(0)<Speaker>라이트</Speaker>||:리오니는 중요 참고인이니, 혹시 모를 신변의 위협에 대비해 요양원에 보안인원을 배치하겠습니다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Light(0)||:그래, 그런 점도 확실히 주의해야지. 지금 안전하다 해서 언제까지고 그러리란 보장도 없고.+아무튼 여긴 더 있어봤자 시간 낭비니, 다른 쪽을 찔러보러 가자.
+NPC-Ange(7);NPC-Light(0)<Speaker>라이트</Speaker>||:닥터 그레이의 자료를 정리해 드릴까요?
+NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Light(0)||:좋은 아이디어지만 그다지 쓸모는 없을 거다. 세간의 주목을 한몸에 받으면서 사는 사람한테 무슨 트집거리가 있다면, 진작에 이슈가 됐을걸.
+NPC-Ange(7);NPC-Light(0)<Speaker>라이트</Speaker>||:그럼...?
+NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Light(0)||:파월을 보고 싶은데, 시간 잡을 수 있어?
+NPC-Ange(7);NPC-Light(2)<Speaker>라이트</Speaker>||:파월이요...? 현재 베를린 교도소에서 복역 중입니다만, 면회가 가능할지... 우선 요청은 해보겠습니다.+그런데 왜 파월이죠?
+NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Light(2)||:알 거 없어, 나도 다 생각이 있다고만 알아둬.
+NPC-Light(0)<Speaker>라이트</Speaker>||:...알겠습니다.+바로 진행하죠.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:안젤리아의 다소 매정한 말에 라이트도 뭔가 할 말이 있어 보였지만, 결국 고개를 끄덕이기만 했다.
+RPK16(8)<Speaker>RPK16</Speaker>||:......
+()<Speaker></Speaker>||:RPK-16은 희한한 눈빛으로 안젤리아를 보면서, 라이트가 떠난 뒤에야 천천히 입을 열었다.
+RPK16(7)<Speaker>RPK16</Speaker>||:저 애를 의심하시나 보네요, 안젤리아.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;RPK16(7)||:불만 있어?
+NPC-Ange(6);RPK16(7)<Speaker>RPK16</Speaker>||:그럴 리가요. 그냥 충고드리고 싶어서요.+너무 그렇게 신경질적이면 판단력에 지장이 생긴답니다. 여긴 브레멘이 아니잖아요.
+NPC-Ange(6);AK12(12)<Speaker>AK12</Speaker>||:하지만 그레이가 너무 일찍 찾아왔어, 그것도 아주 절묘한 타이밍에... 브레멘에서랑 완전히 똑같은 상황이야.+라이트가 아니더라도 녀석 휘하의 누군가가 누설했을 수도 있어.+잊지 마, 그레이의 수완으로 리오니를 법정에서 빼돌릴 수 있다면...+슈타지에 스파이 하나 심어 놓는 것도 쉬운 일이야.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:나도 생각이 있다니까.+라이트가 소식을 가져오기까진 시간이 좀 있으니 우린 먼저 돌아가자.
+AN94(11)<Speaker>AN94</Speaker>||:......!
+()<Speaker></Speaker>||:AN-94가 무언가를 눈치채곤 안젤리아 곁으로 다가갔다.
+AN94(11)<Speaker>AN94</Speaker>||:계단 조심해라.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:......고마워.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:안젤리아는 AN-94의 손을 잡고서, 천천히 계단을 내려갔다.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>46</BIN><BGM>BGM_Empty</BGM>:다음날.+기운을 회복한 안젤리아는 엄격한 검문을 거친 뒤, 라이트가 어렵사리 마련한 심문실에 도착했다.+문앞의 라이트는 안젤리아가 다소 걱정되는 모양이었다.
+NPC-Light(3)<Speaker>라이트</Speaker>||:저도 동행할까요?
+NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Light(3)||:아니, 넌 리벨리온이랑 같이 여기서 기다려.+...그리고, 잘했다. 일처리 빠르네.
+NPC-Light(0)<Speaker>라이트</Speaker>||:신청이 빨리 통과됐습니다. ...의심스러올 정도로요.+보고를 올리면 보통 확인에만 며칠이 소요되는데...
+()<Speaker></Speaker>||:라이트는 무언가를 에둘러 말하려는 듯했지만, 안젤리아는 전혀 신경쓰지 않았다.
+AK12(12)<Speaker>AK12</Speaker>||:뭐든지 너무 깊게 파고들지 않는 게 좋아.+좋을 거 하나도 없어요, 도련님~
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Prison_Door</SE1><BIN>158</BIN><BGM>BGM_Brain</BGM>:문을 열고 홀로 심문실 안으로 들어간 안젤리아의 눈에, 파월의 그 역겨운 얼굴이 들어왔다.+빠르게 컨디션을 조절하면서, 안젤리아는 파월보다 먼저 입을 열었다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:교도소 침대는 어때? 잘 못 자나 봐?
+NPC-Powell(0)<Speaker>파월</Speaker>||:......본론이나 말하시지.
+()<Speaker></Speaker>||:파월은 그 퉁퉁한 입술을 깨물며 허세를 부렸다.+하지만 그의 이마에는 이미 식은땀이 송골송골 맺혀 있었다.
+()<Speaker></Speaker>||:안젤리아는 의자를 당겨 파월의 맞은편에 앉았다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:양복은 압수 안 당했네? 브레멘의 대부가 베를린에서도 대접받을 줄은 몰랐는걸.
+NPC-Powell(0)<Speaker>파월</Speaker>||:흥... 내가 친구 사귀는 법을 몰랐으면 이렇게 살아있지도 못했어.
+()<Speaker></Speaker>||:파월은 눈을 굴리며 방의 다른 구석을 계속해서 곁눈질했고, 수갑 찬 손에 쥔 손수건으로 몇 번이나 이마를 훔쳤다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:하지만 그 "친구들"은 널 여기다 버렸지.+듣자하니, 리오니는 VIP 룸에서 푹신한 침대서 잔다던데. 못 들었어?
+NPC-Ange(7);NPC-Powell(0)<Speaker>파월</Speaker>||:나한테서 뭐라도 캐내려는 모양인데 헛수고야, 내가 아는 건 슈타지한테 말한 게 전부라고.+날 심문해봤자 시간 낭비밖에 안 돼.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Powell(0)||:그렇게 말할 줄 알았어. 하지만 이걸 어쩌나, 난 안 믿는데.+너처럼 간사한 여우놈은 반드시 비장의 수를 마지막까지 꿍쳐 두는 법이거든. 지금도 뭐든지 다 네 손바닥 안이라 생각하겠지.+하지만 실상은 어떻지? 넌 지금 모가지나 안 달아나면 다행인 상황이야.
+NPC-Powell(0)<Speaker>파월</Speaker>||:우, 웃기고 있네!
+()<Speaker></Speaker>||:정곡을 찔렸는지, 파월이 대뜸 흥분하며 손바닥으로 탁상을 탕탕 쳤다.
+NPC-Powell(0)<Speaker>파월</Speaker>||:네깟 계집애가 뭘 안다고!+두고 봐! 나도 금방 나가서, 날 건드린 녀석한테 대가를 톡톡히 치르게 해 줄 테니까!
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||:안젤리아는 콧등을 쓱쓱 문지르더니, 절레절레 고개를 저으며 일어났다.
+NPC-Powell(0)<Speaker>파월</Speaker>||:뭐... 뭐야?+그냥 가려고? 말한 것도 없는데?
+()<Speaker></Speaker>||:안젤리아가 일어나자, 파월은 그녀가 나가려는 줄 알고 역으로 당황했다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:역시 자기 입장을 잘 일고 있네...+나한테 협조 안 하면... 어떻게 되는지 알지? 그치?+일어난 것 가지고 잔뜩 쫄기나 하고 말이야.
+NPC-Powell(0)<Speaker>파월</Speaker>||:뭣... 쫄기는 누가 쫄았다고!+오히려 네가 나한테 절하고 부탁해야 하는 입장 아니야?! 엉!?
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:하아아...+라이트, 녹화 꺼 봐.
+NPC-Powell(0)<Speaker>파월</Speaker>||:무, 무슨 속셈이야?
+()<Speaker></Speaker>||:불길한 기운을 감지한 파월이 떨리는 목소리로 물었다.+하지만 안젤리아는 그저 빙 돌아서, 파월의 뒤에 섰다.
+NPC-Powell(0)<Speaker>파월</Speaker>||:경고하는데, 나한테——
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:쾅!+파월의 머리가 금속제 탁상 위에 처박혔다.
+NPC-Powell(0)<Speaker>파월</Speaker>||:으억!!
+()<Speaker></Speaker>||<SE1>Rope</SE1>:안젤리아는 그의 머리끄덩이를 놓지 않고 다시 잡아당겼고, 파월은 돼지 멱 따는 소리로 울부짖었다.
+NPC-Powell(0)<Speaker>파월</Speaker>||:끄아아악! 이거 놓으, 아니, 제발 놔 줘! 제발!
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:너 같은 쓰레기는 내가 질리도록 상대해봤어.+얼마나, 비굴한, 족속인지도, 아주 잘 알아.
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:쿵!
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:쿠웅!!
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:쿠우웅!!!
+()<Speaker></Speaker>||:안젤리아는 파월의 머리를 몇 번이고 탁상에 처박았다.+눈 깜짝할 새에, 파월은 찢어진 이마에서 흐르는 피로 얼굴이 피투성이가 되었다.
+NPC-Powell(0)<Speaker>파월</Speaker>||:어억... 아아악!!
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:난 지금 너 같은 태우지도 못하는 쓰레기한테 낭비할 시간 없단 말이야.
+()<Speaker></Speaker>||:안젤리아가 살짝 쉰 목소리를 냈지만, 파월의 귀에는 악마의 속삭임이나 다름없었다.
+NPC-Ange(4)<Speaker>안젤리아</Speaker>||:말해. 누가 리오니를 보석했지? 왜 꺼내 줬어? 리오니한테 대체 뭐가 있는데!
+NPC-Powell(0)<Speaker>파월</Speaker>||:마, 말할게... 말하면 되잖아 이 XXX아!+그러니까 이거, 이거 놔!
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1>:철푸덕!
+()<Speaker></Speaker>||:안젤리아는 파월의 머리를 탁상에 그대로 내팽개치고 자리로 돌아가 앉았다.+파월은 신음소리를 내며 천천히 고개를 들었다. 손의 손수건은 진작에 멀리 날아가, 피범벅인 얼굴을 닦을 수도 없었다.
+NPC-Powell(0)<Speaker>파월</Speaker>||:누가 리오니를 꺼냈는지는 나도 몰라... 하, 하지만 왜 꺼냈는지는 알지.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;NPC-Powell(0)||:왜 꺼내 줬는데.
+NPC-Ange(6);NPC-Powell(0)<Speaker>파월</Speaker>||:그년의 연구 때문에.+네가 플로라를 박살내기 직전, 리오니의 연구가 마침 아주 중요한 시기였어.+그 사람은 리오니의 핵심 기술을 원했지만, 리오니는 그때 환각제의 조합법만 제공한 상태였으니까...
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;NPC-Powell(0)||:하, 내가 남 좋은 일만 해 버린 꼴이네.+리오니의 지금 처지론 다른 선택지가 없겠지.+젠장, 이것도 녀석의 속셈이었던 건가.+그래서, 그 연구가 대체 뭔데?
+NPC-Ange(6);NPC-Powell(0)<Speaker>파월</Speaker>||:자세힌 몰라도 일종의 대량 살상 병기인 것만은 확실해.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>;NPC-Powell(0)||:대량 살상 병기? 세상에 그런 건 셀 수도 없이 많은데 왜 하필 리오니의 연구에 눈독을 들인 거지?+뭐 특별한 점이라도 있어?
+NPC-Ange(7);NPC-Powell(0)<Speaker>파월</Speaker>||:나도 직접 써볼 기회가 있었어서 어느 정도 알게 됐어... 그래도 조금뿐이지만.+내가 아는 건, 그 물건은 은폐성이 굉장해서 일반적인 장비로는 절대 발각될 일 없다는 거야.+그걸 써먹기 딱 좋은 장소가...
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;NPC-Powell(0)||:기습 테러겠군.
+NPC-Powell(0)<Speaker>파월</Speaker>||:그래, 그거야. 어디에든 아주 손쉽게 들여보낼 수 있어.+생각해 봐, 만약 내가 더티밤 하나를 수상의 관저에 보낸다면...?+내가 얻지 못할 게 뭐가 있겠어? 나라가 나를 두려워할 텐데!
+()<Speaker></Speaker>||:아픔이 좀 가셨는지, 파월이 다시 건방진 태도를 되찾았다.+입 안까지 온통 시뻘겋게 물들었으면서, 자신의 상상에 껄껄 웃어댔다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:드륵!+안젤리아가 벌떡 일어났다.
+NPC-Powell(0)<Speaker>파월</Speaker>||:!
+()<Speaker></Speaker>||:안젤리아의 움직임에 파월은 다시 식겁했다.
+NPC-Powell(0)<Speaker>파월</Speaker>||:더, 더는 진짜 몰라! 진짜로!
+NPC-Ange(4)<Speaker>안젤리아</Speaker>||:그놈이 꾸미고 있다는 게, 설마... 젠장...
+()<Speaker></Speaker>||:안젤리아는 파월에게 아무 짓도 하지 않았다.+대신 테이블 위에 양팔로 몸을 받친 채, 눈살을 찌푸리고 중얼거렸다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:아니야... 아직 부족해... 이것만으론 부족해, 증거가 모자라...
+()<Speaker></Speaker>||:안젤리아가 자신을 건드리려는 게 아닌 것 같자, 다시 잔뜩 긴장했던 파월은 움츠렸던 몸을 다시 풀었다.+그리고 망설이다, 코를 쓰윽 닦으며 짐짓 진중한 투로 말했다.
+NPC-Powell(0)<Speaker>파월</Speaker>||:아무래도, 자네 수중의 패가 부족한 모양이구만.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:뭐, 그래서 가르침이라도 주게?
+NPC-Powell(0)<Speaker>파월</Speaker>||:가르침이랄 것도 아니지만... 아니, 근데 내가 왜 너 같은 미친...<Size=30>년을 가르쳐...</Size>
+()<Speaker></Speaker>||:무심코 한 말실수에 아차 싶었는지, 파월은 목소리가 기어들어갔다.+그런데도 말은 끝까지 다 했고, 시뻘겋게 부은 얼굴만으론 겁을 먹었는지 억지를 부리는 건지 구분이 가질 않았다.+안젤리아는 잠자코 그를 지켜보기만 했다. 파월에게 더 이상 폭력을 휘두를 생각은 없었다. 이미 효과는 충분했으니까.
+NPC-Powell(0)<Speaker>파월</Speaker>||:......거래 하나 하지.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:거래?
+NPC-Powell(0)<Speaker>파월</Speaker>||:내가 단서가 될 만한 걸 아는데... 쓸모 있다고 내 장담하지.+그러니 내 안전을 보장해 줘.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:얼른 말하기나 해.+내 마음 바뀌기 전에.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그 말에 파월은 입을 뻐끔거리며 망설였다. 하지만 자신에게 달리 선택지가 없음을 이해하고서, 어금니를 깨물곤 주머니에서 담뱃갑을 꺼내 내밀었다.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>||:뭐야 이건?
+()<Speaker></Speaker>||:안젤리아가 담뱃갑을 받아 열어보니, 안에는 작은 튜브 같은 것이 하나 들어 있었다.
+NPC-Powell(0)<Speaker>파월</Speaker>||:감옥마다 전문적으로 물건을 들이는 브로커가 있다는 걸 모르진 않겠지? 여기도 마찬가지야.+담배, 위스키, 그라비아 잡지... 수요가 있으면 공급이 있는 법이지.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;NPC-Powell(0)||:더러는 자기도 이득을 보거나, 의외로 교도소 내에서의 질서 유지에 도움되는 구석도 있어서 큰 말썽만 아니면 교도관들도 넘어가는 편이지...+하지만 마약은 선을 한참 넘는데?
+NPC-Ange(6);NPC-Powell(0)<Speaker>파월</Speaker>||:아니 아니, 이건 마약이 아니야. 절대 아니지.+마약이면 내가 이걸 왜 가져와?
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;NPC-Powell(0)||:그럼 뭔데?
+NPC-Ange(6);NPC-Powell(0)<Speaker>파월</Speaker>||:내가 브레멘에서 썼던 물건 기억해?+리오니가 나한테 제공한 거.
+NPC-Ange(6)<Speaker>안젤리아</Speaker>;NPC-Powell(0)||:......환각제?
+NPC-Ange(6);NPC-Powell(0)<Speaker>파월</Speaker>||:이 베를린 교도소에도 내 친구가 있어서 다 알아봤어.+최근 들어 갑자기 유행하는 물건이래.
+NPC-Ange(6);NPC-Powell(0)<Speaker>파월</Speaker>||:환각제가? 감옥에서? 어째서?
+NPC-Ange(6);NPC-Powell(0)<Speaker>파월</Speaker>||:내가 어떻게 알아? 알고 싶지도 않구만.+아무튼, 내가 도와준 거 맞지? 약속 꼭 지켜라!
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||:안젤리아는 담뱃갑을 살짝 흔들어보고, 품속에 넣었다.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:......+이거, 나 말고 알려 준 사람 있어?
+NPC-Powell(0)<Speaker>파월</Speaker>||:너 말곤 없어.+나도 슈타지한테 심문당할 땐 모르는 일이었다고.+그러니, 나 말곤 이걸 아는 사람은 이제 너뿐이야.+물론, 이걸 쓰는 놈들한테서 소문이 새어 나갈 수도 있겠는데... 그건 나도 어쩌지 못해.
+NPC-Ange(7)<Speaker>안젤리아</Speaker>||:적어도 넌 절대 아무한테도 말하지 마.+네가 협력했단 건... 내 장부에 잘 적어 두도록 하지.
+()<Speaker></Speaker>||:......
 ()||<黑屏1>:

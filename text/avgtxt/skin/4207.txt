@@ -1,96 +1,96 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<BIN>89</BIN><黑屏2><BGM>BGM_Hello</BGM>:......+가구 포장 센터.
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:일찍 왔군.
-SPP1(4)<Speaker>SPP1</Speaker>||:아, PKP 씨. 어... 왜 그러세요? 무슨 일 있어요?
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:아무 일도 없다.
-SPP1(4)<Speaker>SPP1</Speaker>||:그럼 왜 그렇게 거리를 둬요...?+저랑 가까이 있기 싫으세요?
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:아니, 그저 혼자 있는 편이 익숙해서니 신경 쓸 것 없다.
-SPP1(4)<Speaker>SPP1</Speaker>||:그렇군요.... 아무튼, 우리 함께 잘해 봐요!
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||<黑屏1>:그래.
-()||<BIN>89</BIN><黑屏2>:......
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:35번 고객, 화물 수령하십시오.+요청하신 간결한 포장입니다. 이쪽의 카트를 이용해 바깥의 택배 서비스 센터로 가져가십시오.
-()<Speaker>35번 손님</Speaker>||:오오, 딱 원하던 대로네요! 감사합니다!
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:40번 고객, 화물 수령하십시오.
-()<Speaker>40번 손님</Speaker>||:고마워요. 이렇게 포장했으니 아무리 봐도 이게 꽃병인지 모르겠지? 후후후.
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:65번 고객...
-SPP1(4)<Speaker>SPP1</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:우웅......+기세 좋게 잘해보자고 했는데...+일을 하나도 못하고 있잖아!
-()||<回忆><黑点2><BGM>m_avg_casual</BGM>:포장 센터에 3번째 손님이 찾아왔다.
-SPP1(4)<Speaker>SPP1</Speaker>||:손님이 점점 더 많아지는데, PKP 씨는 괜찮으세요?+포장도 엄청 힘든 일 같은데.
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:문제없다.
-SPP1(4)<Speaker>SPP1</Speaker>||:저도 도울까요? 포장지 찾는 일이라던가...
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:네 현재 복장으로는 협소한 공간에서의 이동에 지장이 생긴다. 됐어.
-SPP1(4)<Speaker>SPP1</Speaker>||:조심하면 되잖아요! 그리고 애초에 우리 둘한테 맡겨진 일이니까 협력해야죠!
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:...그렇다면야.
-SPP1(4)<Speaker>SPP1</Speaker>||:방금 그 손님이 더 경사스러운 스타일로 부탁했죠? 중국풍이니까 빨간색 포장지가 좋겠네요.+어... 그런데 빨간색이 잔뜩이네...
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:R2로 부탁한다.
-SPP1(4)<Speaker>SPP1</Speaker>||:R...2요?
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:포장재마다 번호를 붙여놨다.
-SPP1(4)<Speaker>SPP1</Speaker>||:앗, 꺼낼 때 번호표를 못 봤는데...
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:금색 테두리가 있는 것.
-SPP1(4)<Speaker>SPP1</Speaker>||:이, 이건가요?
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:내가 하지.
-SPP1(4)<Speaker>SPP1</Speaker>||:으으...
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:제자리에 돌려놓을 때 무늬와 번호를 잘 기억해라. 내가 말하는 번호를 가져와 줘.
-SPP1(4)<Speaker>SPP1</Speaker>||:네, 그러면――
-()||:SPP-1이 포장재를 제자리에 두고 몸을 돌리자, 치맛자락이 옆의 장식재 선반에 걸렸다.
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:조심해!
-SPP1(4)<Speaker>SPP1</Speaker>||<SE1>AVG_lifttable</SE1>:꺄악!
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:......
-SPP1(4)<Speaker>SPP1</Speaker>||:아아... 물건이 전부 쏟아졌잖아...+저, 이건 제가――
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:됐어. 가만히 있어라.+여긴 2명이 움직이기엔 너무 좁아.
-SPP1(4)<Speaker>SPP1</Speaker>||<黑点1>:하지만...+......네.
-SPP1(4)<Speaker>SPP1</Speaker>||<关闭蒙版><黑点2><BGM>BGM_Empty</BGM>:결국 아무런 도움도 못 되고 PKP 씨한테 폐만 끼쳤어...+손님도 점점 많아져 가는데...
-()||<BGM>BGM_Moon</BGM>:침울해진 SPP-1은 방치된 수족관 안에 쪼그려 앉았다.
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:132번 고객, 화물 수령하십시오.
-()<Speaker>132번 손님</Speaker>||:오! 잘 포장했네요.
-()<Speaker>150번 손님</Speaker>||:<size=25>뭐야, 이제 겨우 133번이라고? 대체 얼마나 더 기다려야 되는 거야?</size>+<size=25>보자, 내가 150번이니까... 스무 명이나 남았잖아!</size>
-()<Speaker>201번 손님</Speaker>||<黑屏1>:다리 아파... 그냥 사지 말까...
-SPP1(4)<Speaker>SPP1</Speaker>||<BIN>9</BIN><黑屏2>:......!+그래! 포장을 못한다면, 내가 잘하는 일을 하면 되는 거야!+내가 대신 손님의 시선을 끌자!
-SPP1(4)<Speaker>SPP1</Speaker>||:이 정도로 큰 수족관이라면 공연하기에도 충분해!+내 수중 능력을 뽐낼 기회가 왔어!
-SPP1(4)<Speaker>SPP1</Speaker>||<黑屏1>:어디 보자... 전선이랑 플라스틱 껍데기도 있네? 좋았어!+이걸로 모터를 만들어서, 빛나는 부분은 전구로...+여기다 남는 천을 감싸면... 됐다!
-()<Speaker>행인1</Speaker>||<BIN>89</BIN><黑屏2><BGM>BGM_Empty</BGM>:응? 저 수족관에 물을 채우네?
-()<Speaker>행인2</Speaker>||<BGM>m_avg_casual</BGM>:저거 저번 아쿠아리움 행사 때 쓴 거 아니야? 이건 가구 전시회인데, 어디다 쓸 셈이지?
-()<Speaker>행인3</Speaker>||:벌써 다음 전시회 준비라도 하나... 앗, 저기 위에 누가 있어!
-SPP1(4)<Speaker>SPP1</Speaker>||:여러분, 안녕하세요!+기다리느라 피곤하실 여러분을 위해 특별 공연을 준비했습니다!+수중 무용, "푸른 연꽃"을 감상해 주세요!
-()||:우아한 음악과 함께, SPP-1이 물속으로 뛰어들었다.+그리고 어두운 물속에서, 빛나는 해파리가 작은 소녀의 모습을 비췄다.
-SPP1(4)<Speaker>SPP1</Speaker>||:<color=#A9A9A9>으으... 물이 생각보다 훨씬 차가워...!</color>+<color=#A9A9A9>하지만 전술인형인 나에게 이 정도 온도는 아무것도 아니야!</color>
-()||:SPP-1은 해파리를 발목의 고리에 연결하고 함께 우아하게 헤엄쳤다. 치맛자락과 해파리가 그리는 아름다운 곡선에, 관객들에게서 잇따라 탄성이 터져 나왔다.
-()<Speaker>행인1</Speaker>||:멋지다...
-()<Speaker>행인2</Speaker>||:어디서 프로라도 섭외해 왔나?
-()<Speaker>행인1</Speaker>||:아닐걸? 저 애, 아까 포장하는 데서 봤어. 스태프겠지.
-()<Speaker>행인2</Speaker>||:프로든 아니든 상관없으니까 그냥 조용히 보자. 근데 제목이 뭐랬더라? 바다의 정령?
-()<Speaker>행인1</Speaker>||:푸른 연꽃! 전혀 다르잖아.
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:150번 고객, 화물 수령하십시오.
-()<Speaker>150번 손님</Speaker>||:우와... 어? 벌써 내 차례야?+와, 깔끔하네! 고마워요!
-SPP1(4)<Speaker>SPP1</Speaker>||<黑屏1>:<color=#A9A9A9>모두의 관심이 이쪽으로 모였어! 작전 대성공!</color>+<color=#A9A9A9>이게 바로 내가 잘하는 일이라고요! 어때요, PKP 씨! 도움이 됐죠?</color>
-()||<黑屏2>:......+지휘관이 PKP와 이야기를 나누고 대기열 쪽으로 왔을 때까지도, SPP-1은 수족관에서 공연을 계속했다.+물속에서 재주를 넘는 그녀와, 그녀를 비추는 빛나는 해파리의 모습은 속세를 초월한 아름다움을 자아내는 듯했다.+그러던 와중, 지휘관과 SPP-1의 눈이 마주쳤다.
-()<Speaker>지휘관</Speaker>||:......
-SPP1(4)<Speaker>SPP1</Speaker>||:......헤헤.
-()||:SPP-1은 기지개를 켜며 미소를 지어 보였다.
-SPP1(4)<Speaker>SPP1</Speaker>||:<color=#00CCFF>어서 오세요, 지휘관님.</color>
-()||:인어? 세이렌? 물의 정령? 지휘관은 그녀의 모습을 무어라 비유해야 할지 망설여졌다.
-()<Speaker>지휘관</Speaker>||:수고했어, SPP-1. 이제 대기열도 많이 줄었으니 그만 나와서 쉬렴.
-()||<BGM>BGM_Empty</BGM>:SPP-1이 고개를 끄덕이고 수면을 향해 헤엄쳤다.+하지만 아무리 발길질을 해도 몸이 나아가질 않았다.
-SPP1(4)<Speaker>SPP1</Speaker>||<BGM>BGM_Danger</BGM>:<color=#A9A9A9>뭐지!? 뭔가가 날 붙잡고 있어!</color>+<color=#A9A9A9>아, 발찌가...! 즉석에서 만든 거라 벌써 고장났나? 빨리 전원을 꺼야 해...!</color>
-()<Speaker>지휘관</Speaker>||:SPP-1, 왜 그래? 무슨 일이야!
-SPP1(4)<Speaker>SPP1</Speaker>||:<color=#00CCFF>으으, 발찌가 안 꺼져요...</color>
-()<Speaker>지휘관</Speaker>||:벗을 순 없어?
-SPP1(4)<Speaker>SPP1</Speaker>||:<color=#00CCFF>해볼게요...!</color>
-()||:SPP-1은 몸을 웅크려, 자신을 잡아당기는 고리를 억지로라도 벗으려 했다.+하지만 플라스틱 껍데기로 급조한 그것은 인형의 악력을 견디지 못하고 깨져 버렸고, 급기야는 스파크까지 튀기 시작했다.
-SPP1(4)<Speaker>SPP1</Speaker>||<震屏>:아앗! 케흑, 우으읍...!
-()||<SE2>Gunfight</SE2>:당장 물을 빼는 수밖에 없다고 지휘관이 생각한 순간, 붉은 구명 튜브가 수족관 안으로 날아듦과 동시에 총성이 터졌다.+총알이 수족관의 측면을 깼고, 물은 폭포수처럼 쏟아져 나왔다.+지휘관은 정면에 서 있었기에 물을 뒤집어쓰지 않았고, 물도 순식간에 다 빠졌다.
-()<Speaker>지휘관</Speaker>||:어... PKP?
-PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:SPP-1의 상태부터 확인해라. 바닥의 물은 내가 어떻게든 처리하지.
-()||:PKP는 말을 툭 던지고 어디론가 사라졌다.+SPP-1은 붉은 구명 튜브를 껴안은 채로 수족관 밖으로 나와, 그대로 바닥에 주저앉았다.
-()<Speaker>지휘관</Speaker>||:괜찮니? 기능에 문제는 없고?
-SPP1(5)<Speaker>SPP1</Speaker>||:괘... 괜찮아요...+SPP-1은 세게 발차기를 해, 망가진 발찌를 털어냈다.
-SPP1(5)<Speaker>SPP1</Speaker>||<BGM>BGM_Empty</BGM>:또 PKP에게 폐를 끼쳤어요...
-()<Speaker>지휘관</Speaker>||<BGM>GF_Memorial</BGM>:괜찮다니 다행이다. 그리고 PKP가 워낙에 완벽주의자라서 그래, 너까지 걔의 기준에 맞추려 할 필요는 없어.
-SPP1(5)<Speaker>SPP1</Speaker>||:그래도... 겨우 도움이 됐다고 생각했는데 결국 또 망쳐 버렸는걸요...+게다가 신세까지 져서...
-()<Speaker>지휘관</Speaker>||:걔 성격에 그런 걸 신경 쓰진 않을걸?
-SPP1(5)<Speaker>SPP1</Speaker>||:하지만 저는 신경 쓰여요! 우으... 아, 그거다!
-()<Speaker>지휘관</Speaker>||:그거라니?
-SPP1(5)<Speaker>SPP1</Speaker>||:지휘관님! 저 돈 좀 빌려주세요!
-()<Speaker>지휘관</Speaker>||:응?!
-SPP1(5)<Speaker>SPP1</Speaker>||:일단 빌려주세요! 월급 받으면 바로 갚을게요!
-()||<黑屏1>:SPP-1의 생떼를 못 이긴 지휘관은 결국 가진 현금을 전부 빌려주었다.+SPP-1의 월급의 절반은 되는 액수였는데... 대체 어디다 쓰려는 것일까?+그 궁금증은, 그날 밤 지휘관이 PKP와 다시 만났을 때 풀리게 된다.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>89</BIN><黑屏2><BGM>BGM_Hello</BGM>:......+가구 포장 센터.
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:일찍 왔군.
+SPP1(4)<Speaker>SPP1</Speaker>||:아, PKP 씨. 어... 왜 그러세요? 무슨 일 있어요?
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:아무 일도 없다.
+SPP1(4)<Speaker>SPP1</Speaker>||:그럼 왜 그렇게 거리를 둬요...?+저랑 가까이 있기 싫으세요?
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:아니, 그저 혼자 있는 편이 익숙해서니 신경 쓸 것 없다.
+SPP1(4)<Speaker>SPP1</Speaker>||:그렇군요.... 아무튼, 우리 함께 잘해 봐요!
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||<黑屏1>:그래.
+()||<BIN>89</BIN><黑屏2>:......
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:35번 고객, 화물 수령하십시오.+요청하신 간결한 포장입니다. 이쪽의 카트를 이용해 바깥의 택배 서비스 센터로 가져가십시오.
+()<Speaker>35번 손님</Speaker>||:오오, 딱 원하던 대로네요! 감사합니다!
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:40번 고객, 화물 수령하십시오.
+()<Speaker>40번 손님</Speaker>||:고마워요. 이렇게 포장했으니 아무리 봐도 이게 꽃병인지 모르겠지? 후후후.
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:65번 고객...
+SPP1(4)<Speaker>SPP1</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:우웅......+기세 좋게 잘해보자고 했는데...+일을 하나도 못하고 있잖아!
+()||<回忆><黑点2><BGM>m_avg_casual</BGM>:포장 센터에 3번째 손님이 찾아왔다.
+SPP1(4)<Speaker>SPP1</Speaker>||:손님이 점점 더 많아지는데, PKP 씨는 괜찮으세요?+포장도 엄청 힘든 일 같은데.
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:문제없다.
+SPP1(4)<Speaker>SPP1</Speaker>||:저도 도울까요? 포장지 찾는 일이라던가...
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:네 현재 복장으로는 협소한 공간에서의 이동에 지장이 생긴다. 됐어.
+SPP1(4)<Speaker>SPP1</Speaker>||:조심하면 되잖아요! 그리고 애초에 우리 둘한테 맡겨진 일이니까 협력해야죠!
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:...그렇다면야.
+SPP1(4)<Speaker>SPP1</Speaker>||:방금 그 손님이 더 경사스러운 스타일로 부탁했죠? 중국풍이니까 빨간색 포장지가 좋겠네요.+어... 그런데 빨간색이 잔뜩이네...
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:R2로 부탁한다.
+SPP1(4)<Speaker>SPP1</Speaker>||:R...2요?
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:포장재마다 번호를 붙여놨다.
+SPP1(4)<Speaker>SPP1</Speaker>||:앗, 꺼낼 때 번호표를 못 봤는데...
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:금색 테두리가 있는 것.
+SPP1(4)<Speaker>SPP1</Speaker>||:이, 이건가요?
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:내가 하지.
+SPP1(4)<Speaker>SPP1</Speaker>||:으으...
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:제자리에 돌려놓을 때 무늬와 번호를 잘 기억해라. 내가 말하는 번호를 가져와 줘.
+SPP1(4)<Speaker>SPP1</Speaker>||:네, 그러면――
+()||:SPP-1이 포장재를 제자리에 두고 몸을 돌리자, 치맛자락이 옆의 장식재 선반에 걸렸다.
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:조심해!
+SPP1(4)<Speaker>SPP1</Speaker>||<SE1>AVG_lifttable</SE1>:꺄악!
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:......
+SPP1(4)<Speaker>SPP1</Speaker>||:아아... 물건이 전부 쏟아졌잖아...+저, 이건 제가――
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:됐어. 가만히 있어라.+여긴 2명이 움직이기엔 너무 좁아.
+SPP1(4)<Speaker>SPP1</Speaker>||<黑点1>:하지만...+......네.
+SPP1(4)<Speaker>SPP1</Speaker>||<关闭蒙版><黑点2><BGM>BGM_Empty</BGM>:결국 아무런 도움도 못 되고 PKP 씨한테 폐만 끼쳤어...+손님도 점점 많아져 가는데...
+()||<BGM>BGM_Moon</BGM>:침울해진 SPP-1은 방치된 수족관 안에 쪼그려 앉았다.
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:132번 고객, 화물 수령하십시오.
+()<Speaker>132번 손님</Speaker>||:오! 잘 포장했네요.
+()<Speaker>150번 손님</Speaker>||:<size=25>뭐야, 이제 겨우 133번이라고? 대체 얼마나 더 기다려야 되는 거야?</size>+<size=25>보자, 내가 150번이니까... 스무 명이나 남았잖아!</size>
+()<Speaker>201번 손님</Speaker>||<黑屏1>:다리 아파... 그냥 사지 말까...
+SPP1(4)<Speaker>SPP1</Speaker>||<BIN>9</BIN><黑屏2>:......!+그래! 포장을 못한다면, 내가 잘하는 일을 하면 되는 거야!+내가 대신 손님의 시선을 끌자!
+SPP1(4)<Speaker>SPP1</Speaker>||:이 정도로 큰 수족관이라면 공연하기에도 충분해!+내 수중 능력을 뽐낼 기회가 왔어!
+SPP1(4)<Speaker>SPP1</Speaker>||<黑屏1>:어디 보자... 전선이랑 플라스틱 껍데기도 있네? 좋았어!+이걸로 모터를 만들어서, 빛나는 부분은 전구로...+여기다 남는 천을 감싸면... 됐다!
+()<Speaker>행인1</Speaker>||<BIN>89</BIN><黑屏2><BGM>BGM_Empty</BGM>:응? 저 수족관에 물을 채우네?
+()<Speaker>행인2</Speaker>||<BGM>m_avg_casual</BGM>:저거 저번 아쿠아리움 행사 때 쓴 거 아니야? 이건 가구 전시회인데, 어디다 쓸 셈이지?
+()<Speaker>행인3</Speaker>||:벌써 다음 전시회 준비라도 하나... 앗, 저기 위에 누가 있어!
+SPP1(4)<Speaker>SPP1</Speaker>||:여러분, 안녕하세요!+기다리느라 피곤하실 여러분을 위해 특별 공연을 준비했습니다!+수중 무용, "푸른 연꽃"을 감상해 주세요!
+()||:우아한 음악과 함께, SPP-1이 물속으로 뛰어들었다.+그리고 어두운 물속에서, 빛나는 해파리가 작은 소녀의 모습을 비췄다.
+SPP1(4)<Speaker>SPP1</Speaker>||:<color=#A9A9A9>으으... 물이 생각보다 훨씬 차가워...!</color>+<color=#A9A9A9>하지만 전술인형인 나에게 이 정도 온도는 아무것도 아니야!</color>
+()||:SPP-1은 해파리를 발목의 고리에 연결하고 함께 우아하게 헤엄쳤다. 치맛자락과 해파리가 그리는 아름다운 곡선에, 관객들에게서 잇따라 탄성이 터져 나왔다.
+()<Speaker>행인1</Speaker>||:멋지다...
+()<Speaker>행인2</Speaker>||:어디서 프로라도 섭외해 왔나?
+()<Speaker>행인1</Speaker>||:아닐걸? 저 애, 아까 포장하는 데서 봤어. 스태프겠지.
+()<Speaker>행인2</Speaker>||:프로든 아니든 상관없으니까 그냥 조용히 보자. 근데 제목이 뭐랬더라? 바다의 정령?
+()<Speaker>행인1</Speaker>||:푸른 연꽃! 전혀 다르잖아.
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:150번 고객, 화물 수령하십시오.
+()<Speaker>150번 손님</Speaker>||:우와... 어? 벌써 내 차례야?+와, 깔끔하네! 고마워요!
+SPP1(4)<Speaker>SPP1</Speaker>||<黑屏1>:<color=#A9A9A9>모두의 관심이 이쪽으로 모였어! 작전 대성공!</color>+<color=#A9A9A9>이게 바로 내가 잘하는 일이라고요! 어때요, PKP 씨! 도움이 됐죠?</color>
+()||<黑屏2>:......+지휘관이 PKP와 이야기를 나누고 대기열 쪽으로 왔을 때까지도, SPP-1은 수족관에서 공연을 계속했다.+물속에서 재주를 넘는 그녀와, 그녀를 비추는 빛나는 해파리의 모습은 속세를 초월한 아름다움을 자아내는 듯했다.+그러던 와중, 지휘관과 SPP-1의 눈이 마주쳤다.
+()<Speaker>지휘관</Speaker>||:......
+SPP1(4)<Speaker>SPP1</Speaker>||:......헤헤.
+()||:SPP-1은 기지개를 켜며 미소를 지어 보였다.
+SPP1(4)<Speaker>SPP1</Speaker>||:<color=#00CCFF>어서 오세요, 지휘관님.</color>
+()||:인어? 세이렌? 물의 정령? 지휘관은 그녀의 모습을 무어라 비유해야 할지 망설여졌다.
+()<Speaker>지휘관</Speaker>||:수고했어, SPP-1. 이제 대기열도 많이 줄었으니 그만 나와서 쉬렴.
+()||<BGM>BGM_Empty</BGM>:SPP-1이 고개를 끄덕이고 수면을 향해 헤엄쳤다.+하지만 아무리 발길질을 해도 몸이 나아가질 않았다.
+SPP1(4)<Speaker>SPP1</Speaker>||<BGM>BGM_Danger</BGM>:<color=#A9A9A9>뭐지!? 뭔가가 날 붙잡고 있어!</color>+<color=#A9A9A9>아, 발찌가...! 즉석에서 만든 거라 벌써 고장났나? 빨리 전원을 꺼야 해...!</color>
+()<Speaker>지휘관</Speaker>||:SPP-1, 왜 그래? 무슨 일이야!
+SPP1(4)<Speaker>SPP1</Speaker>||:<color=#00CCFF>으으, 발찌가 안 꺼져요...</color>
+()<Speaker>지휘관</Speaker>||:벗을 순 없어?
+SPP1(4)<Speaker>SPP1</Speaker>||:<color=#00CCFF>해볼게요...!</color>
+()||:SPP-1은 몸을 웅크려, 자신을 잡아당기는 고리를 억지로라도 벗으려 했다.+하지만 플라스틱 껍데기로 급조한 그것은 인형의 악력을 견디지 못하고 깨져 버렸고, 급기야는 스파크까지 튀기 시작했다.
+SPP1(4)<Speaker>SPP1</Speaker>||<震屏>:아앗! 케흑, 우으읍...!
+()||<SE2>Gunfight</SE2>:당장 물을 빼는 수밖에 없다고 지휘관이 생각한 순간, 붉은 구명 튜브가 수족관 안으로 날아듦과 동시에 총성이 터졌다.+총알이 수족관의 측면을 깼고, 물은 폭포수처럼 쏟아져 나왔다.+지휘관은 정면에 서 있었기에 물을 뒤집어쓰지 않았고, 물도 순식간에 다 빠졌다.
+()<Speaker>지휘관</Speaker>||:어... PKP?
+PKP(0)<Speaker>PKP</Speaker><Position>0,100</Position>||:SPP-1의 상태부터 확인해라. 바닥의 물은 내가 어떻게든 처리하지.
+()||:PKP는 말을 툭 던지고 어디론가 사라졌다.+SPP-1은 붉은 구명 튜브를 껴안은 채로 수족관 밖으로 나와, 그대로 바닥에 주저앉았다.
+()<Speaker>지휘관</Speaker>||:괜찮니? 기능에 문제는 없고?
+SPP1(5)<Speaker>SPP1</Speaker>||:괘... 괜찮아요...+SPP-1은 세게 발차기를 해, 망가진 발찌를 털어냈다.
+SPP1(5)<Speaker>SPP1</Speaker>||<BGM>BGM_Empty</BGM>:또 PKP에게 폐를 끼쳤어요...
+()<Speaker>지휘관</Speaker>||<BGM>GF_Memorial</BGM>:괜찮다니 다행이다. 그리고 PKP가 워낙에 완벽주의자라서 그래, 너까지 걔의 기준에 맞추려 할 필요는 없어.
+SPP1(5)<Speaker>SPP1</Speaker>||:그래도... 겨우 도움이 됐다고 생각했는데 결국 또 망쳐 버렸는걸요...+게다가 신세까지 져서...
+()<Speaker>지휘관</Speaker>||:걔 성격에 그런 걸 신경 쓰진 않을걸?
+SPP1(5)<Speaker>SPP1</Speaker>||:하지만 저는 신경 쓰여요! 우으... 아, 그거다!
+()<Speaker>지휘관</Speaker>||:그거라니?
+SPP1(5)<Speaker>SPP1</Speaker>||:지휘관님! 저 돈 좀 빌려주세요!
+()<Speaker>지휘관</Speaker>||:응?!
+SPP1(5)<Speaker>SPP1</Speaker>||:일단 빌려주세요! 월급 받으면 바로 갚을게요!
+()||<黑屏1>:SPP-1의 생떼를 못 이긴 지휘관은 결국 가진 현금을 전부 빌려주었다.+SPP-1의 월급의 절반은 되는 액수였는데... 대체 어디다 쓰려는 것일까?+그 궁금증은, 그날 밤 지휘관이 PKP와 다시 만났을 때 풀리게 된다.

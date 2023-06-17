@@ -1,0 +1,179 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>417</BIN><BGM>BGM_Sneak</BGM>:......
+()<Speaker>실험체</Speaker>||:강글라티 대위, 목표가 예정 좌표에 나타나지 않았습니다. 아군 보병이 다음 계획을 묻습니다.
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:그년은 어디 갔지?
+NPC-Pamzan(10)<Speaker>실험체</Speaker><Position>0,-70</Position><同时置暗>||:모르겠습니다... 예정대로라면 지금 취조실로 돌아왔어야 하는데, 현재 취조실의 카메라에 잡히지 않습니다. 취조관도 보이지 않습니다.
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:......
+NPC-Pamzan(10)<Speaker>실험체</Speaker><Position>0,-70</Position><同时置暗>||:오늘 취조 시간이 연기된 걸까요? 아직 숙소에서 대기 중이거나?
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:절대 호락호락 당할 년이 아니지...+지금처럼 소극적이어야 하는 처지를 그년은 제일 싫어해. 분명 주도권을 되찾으러 할 거야.
+NPC-Pamzan(10)<Speaker>실험체</Speaker><Position>0,-70</Position><同时置暗>||:그럼, 어떻게?
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:아마, 취조실로 압송하러 간 경비원에게 저항하고 기지를 탈출하려 하겠지.+매복 중인 소대를 이동해 안젤리아 지휘관의 숙소 밖에서 흔적을 찾아라.
+NPC-Pamzan(10)<Speaker>실험체</Speaker><Position>0,-70</Position><同时置暗>||:예.+강글라티 대위가 목표를 잘 파악하고 있어 다행입니다.
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:......
+()||:잠시 후 방을 나온 실험체는 홀로 생각에 잠겼다.
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||<黑屏1>:그러게... 왜 내가 이렇게 잘 아는 거지...?
+()||<黑屏2><BIN>18</BIN>:그리폰 기지 어딘가의 조용한 복도.+LAMG는 커피 한 잔을 들고 안젤리아의 숙소로 발걸음을 재촉했다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:외출 금지가 이렇게 귀찮을 줄이야, 보드카도 잠깐 나가서 사오면 되는데...+카페에 남은 게 있어서 다행이야.
+()||:LAMG의 손에 들린 커피는 모락모락 나는 김에 은은한 보드카의 향이 섞여 있었다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:지휘관님이 기운내셨으면 좋겠다.
+()||:눈앞에 지금 안젤리아의 모습이 아른거리는 것 같자, LAMG는 괜한 조바심에 걸음을 서둘렀다.+위풍당당하던 그리폰의 에이스 지휘관이, 영문 모를 누명에 권한도 전부 뺏기고 좁은 방에 갇힌 모습.+짖궃은 운명의 장난에 자기 신세를 한탄할 뿐인 그녀가 걱정됐다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:......
+()||:이제 모퉁이만 돌면 안젤리아의 숙소. LAMG는 속력을 높여 뜀걸음으로 그 익숙한 방으로 향했다.+하지만 LAMG의 눈에 들어온 것은 안의 불이 꺼진 채로 살짝 열린 안젤리아의 방 문이었다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||<BGM>BGM_Empty</BGM>:지휘관님?
+()||<SE1>Select</SE1>:반사적으로 한손으로 장전 손잡이를 당겼지만, 지금 자신은 탄약도 압수당한 상태임이 떠올랐다.
+()||<黑屏1><SE1>AVG_Door_Open</SE1>:할 수 없이 한 손에는 커피잔, 다른 손에는 비수를 들고, 조심스레 문을 열어 방 안으로 진입했다.
+()||<黑屏2><BIN>82</BIN><BGM>10230</BGM>:방에는 어제 보았던 경비원들이 현관에 기절한 채로 쓰러져 있었다.+어리둥절해 하며 LAMG가 방을 둘러보자, 마침 경비원 한 명을 밟고 몸을 뒤지는 안젤리아가 보였다.
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:응? LAMG?
+NPC-Ange(10)<Position>0,25</Position>;LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:......지휘관님?+이게 무슨 상황이에요?!
+NPC-Ange(11)<Speaker>안젤리아</Speaker><Position>0,25</Position>;LAMG(0)<Position>0,100</Position>||:보면 알잖아.+녀석들 때려눕히고 쓸만한 거 모아다 여길 탈출하려고.
+NPC-Ange(11)<Position>0,25</Position>;LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:......
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:아무튼 마침 잘 왔어, 이제 네 차례야.
+()||:경비원들에게서 강탈한 권총과 전기충격봉을 챙긴 안젤리아는 문 앞에서 얼이 빠진 LAMG에게 몸을 돌렸다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:네? 제, 제 차례라뇨?!
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:형식적 절차니까 걱정 마, 안 그럼 날 그냥 보내줬다고 놈들이 널 괴롭힐 거야.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position><Shake>||:잠깐만요!
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>;LAMG(0)<Position>0,100</Position>||:뭔데?
+NPC-Ange(12)<Position>0,25</Position>;LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:당신이 가버리면 전 어떡하고요?!
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>;LAMG(0)<Position>0,100</Position>||:다른 지휘관이 오겠지.
+NPC-Ange(10)<Position>0,25</Position>;LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:...싫어요, 당신과 함께 갈래요.
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:......
+()||:안젤리아가 코앞까지 다가와 사납게 노려봤지만, LAMG는 한 발짝도 물러서지 않았다.
+NPC-Ange(13)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:이대로 그리폰에서 이탈하면 어찌 되는진 알아?
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:보나마나 불법 인형이 돼서 수배도 당하겠죠. 상관없어요.
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:......
+()||:LAMG는 온 정신을 집중해, 안젤리아의 거동을 경계하며 언제라도 날아올 기습에 대비했다.+그녀는 이미 마음을 굳혔다. 억지를 부려서라도 안젤리아를 따라가기로.
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:......
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:......
+NPC-Ange(13)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:그래, 알았어. 따라오고 싶음 따라와.+하지만 그 전에 먼저 그리폰의 식별 신호부터 꺼. 안 그럼 계속 추적당할 거다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:감사합니다! 그건 어떡하면 되나요?
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:레벨 2 플랫폼으로 들어가. 서둘러.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||<黑屏1>:네.
+()||<黑屏2><BIN>72</BIN><BGM>BGM_Empty</BGM>:LAMG은 바로 의식을 레벨 2 플랫폼으로 가라앉혔다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:그리고요?
+LAMG(0)<Speaker>안젤리아</Speaker><Position>0,100</Position><同时置暗>||<BGM>GF_21summer_avg_Demon</BGM>:<color=#00CCFF>네 마인드맵의 모든 권한을 내게 개방해.</color>
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:했어요! 그런데 식별 신호 관련으론 안 보이는데요?
+()||:삐이——
+()||<BIN>332</BIN><黑屏2><SE1>Heartbeat</SE1><SE1>AVG_21Winter_Error</SE1>:대답을 듣기도 전에, LAMG의 마인드맵 공간이 시뻘건 경고색으로 물들었다.
+()<Speaker>안젤리아</Speaker>||:<color=#00CCFF>고급 검색 엔진 가동. "안젤리아 지휘관"에 관련된 모든 데이터 선출.</color>
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:잠깐만요! 신호를 끄는 게 아니었어요?! 왜――
+()||:당황하며 조작을 중단시키려 했지만, 모든 권한이 안젤리아에게 개방된 탓에 그녀가 모든 관련 기억파편을 꺼내는 것을 눈뜨고 지켜볼 수밖에 없었다.
+()<Speaker>안젤리아</Speaker>||:<color=#00CCFF>전부 선택하고 완전 삭제.</color>
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:안 돼!
+()||:그녀와의 추억이 담긴 기억들이 빠르게 사라지는 것을 보며, LAMG는 처절하게 비명을 질렀다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:왜 이러는 거예요! 안젤리아!!
+LAMG(0)<Speaker>안젤리아</Speaker><Position>0,100</Position><同时置暗>||:<color=#00CCFF>넌 우수하고 정의심도 강한 녀석이야. 너는 빛의 길을 걸어야지, 나를 따라 어둠에 빠져선 안 돼.</color>
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:안 돼요, 제발! 삭제를 멈춰요! 제발...
+LAMG(0)<Speaker>안젤리아</Speaker><Position>0,100</Position><同时置暗>||:<color=#00CCFF>미안해.</color>
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:그냥... 기지에서 얌전히 있으면 다 조용히 지나갈 텐데...+왜 이러는 거예요...
+LAMG(0)<Speaker>안젤리아</Speaker><Position>0,100</Position><同时置暗>||:<color=#00CCFF>......</color>+<color=#00CCFF>삶이 결국 덧없을 운명이라면, 몸부림엔 무슨 의미가 있을까?</color>
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:네...?
+LAMG(0)<Speaker>안젤리아</Speaker><Position>0,100</Position><同时置暗>||<黑屏1>:<color=#00CCFF>술은 다음 생에 사 줄게.</color>
+()||<黑屏2><BIN>9</BIN><SE1>AVG_bigglassbreak</SE1><黑屏1><BGM>BGM_Empty</BGM>:마지막 기억파편까지 가루가 되어 사라지고, LAMG의 마인드맵은 자동 리부트에 들어갔다.+LAMG의 의식도 어둠 속으로 추락했다.
+()||<黑屏2><BIN>1</BIN>:잠시후, 그리폰 기지 인근의 야외 훈련장.
+()||<SE1>ClothingUp</SE1>:지휘관 제복을 벗어던진 안젤리아는 숙소 계단에서 뛰어내려, 기억을 더듬어 감시 카메라를 피하고 울창한 숲속으로 들어갔다.+이제부터 나무가 우거진 야외 훈련장을 통과해 탈출할 계획이었다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<BGM>10254</BGM>:......+AK-12, 교전에서 이탈했어?
+NPC-Ange(19);AK12(4)<Speaker>AK12</Speaker><通讯框>||:<color=#00CCFF>저쪽이 전혀 싸울 마음이 없더라구.</color>
+NPC-Ange(19);AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker><通讯框>||:<color=#00CCFF>다만 놈들이 무언가를 버리고 떠났다.</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:합류할 좌표를 불러.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker><通讯框>||:<color=#00CCFF>알았다.</color>
+()||:펄펄 끓는 듯한 피가 혈관을 난폭하게 질주했다.+안젤리아는 심호흡을 몇 번 하고서야 호흡을 가다듬을 수 있었다.+이 순간을 얼마나 기다려 왔던가. 몇 년이나 쫓았던 유령선의 궤적이 드디어 눈앞에 나타났으니, 마침내 녹슨 노를 저을 때가 왔을... 터였다.
+M4A1(0)<Speaker>M4A1</Speaker>||:지휘관님?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:우와, 진짜 지휘관이네?+한참은 지나야 다시 볼 수 있을 줄 알았는데!
+()||:예상밖의 암초가 나타났다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:너네 여기서 뭐하냐?
+NPC-Ange(19);M4A1(0)<Speaker>M4A1</Speaker>||:저어... 그날의 임무를 복기 중이었어요.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+M16(5)<Speaker>M16A1</Speaker>||:임무 실패해서 M4가 얼마나 침울해 했는지 알아? 그래서 그날 상황을 재현해서 다른 좋은 수가 없었을까 복습하는 중이었어.
+M4A1(0)<Speaker>M4A1</Speaker>||:네... 그리폰의 동료들을 희생시키지 않으면서 임무를 완수하는 방법이요.
+AR15(0)<Speaker>AR15</Speaker>||:덤으로 말하자면 벌써 5번째입니다.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:그리폰 인형들의 역할을 맡은 더미는 내가 다 산산조각냈지롱!
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:그러냐, 알았으니까 모의훈련 그만하고 기지로 돌아가.
+NPC-Ange(19);M4A1(0)<Speaker>M4A1</Speaker>||:네. 그런데... 지휘관님, 지금 어디 가세요?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;M4A1(0)||:너흰 알 거 없어.
+NPC-Ange(19);M16(5)<Speaker>M16A1</Speaker>||:얼레, 제복도 안 입었네?+그리고 그 부관 녀석은 왜 안 보여? 안 그래도 걔네 소대의 작전 기록 빌리고 싶었는데.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:가서 직접 달라 해.
+()||<黑屏1><BGM>BGM_Empty</BGM>:안젤리아는 툭 쏘아붙이고 자리를 떠났고, M16A1는 눈살을 찌푸리며 LAMG에게 메시지를 보냈다.
+()||<睁眼><BIN>18</BIN><BGM>GF_22W_BGM_1</BGM>:――띠링.+새로운 메시지 수신 알림음.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:......
+()||:LAMG는 멍한 눈빛으로 차가운 대리석 바닥에 앉았다.+전원이 꺼졌었나? 충전을 깜빡했나?+그렇지, 방금 메시지가 온 것 같았다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:익명의 메시지...+"안젤리아 지휘관이 어디 가는 건지 알아?"+......+안젤리아 지휘관... 그게 누구지?
+()||:LAMG는 어리둥절해 하며 답장을 보내다 무심코 손 옆에 놓인 커피잔을 엎질렀다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:아차!
+()||:식은지 오래인 커피는 씁쓸한 커피향과 코를 찌르는 알코올향으로 LAMG의 옷을 적셨다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:어...? 왜 커피에서 술 냄새가...
+()||:LAMG는 당혹스러워하면서도 호기심에 한 방울 찍어 맛을 봤다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||<黑屏1>:으에, 맛 이상해... 그런데... 왠지 그리운 느낌...
+()||<黑屏2><BIN>1</BIN>:M16는 통신기를 집어넣고, M4에게 소리 낮춰 말했다.
+M16(7)<Speaker>M16A1</Speaker>||:M4, 지휘관이 좀 이상해. 아무래도 억지로 기지 밖으로 나간 것 같아.
+M4A1(0)<Speaker>M4A1</Speaker>||:네...? 그럼 어떡하죠?
+M16(7)<Speaker>M16A1</Speaker>||:어떡하긴, 붙잡아야지. 이대로 가버리게 놔두면 돌이킬 수 없는 일로 번질 거야.
+M4A1(0)<Speaker>M4A1</Speaker>||:...네.+SOP2, 먼저 가서 지휘관님을 멈춰 세워 주세요. AR-15와 저도 뒤따라 갈게요. 퇴로 차단은 M16 언니에게 맡길게요.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:응!
+AR15(0)<Speaker>AR15</Speaker>||<黑点1>:......
+()||<SE1>RunStep</SE1><黑点2>:울창한 나무 사이로 날렵하게 질주한 SOP2는 금방 안젤리아를 따라잡아 뒤에서 와락 껴안았다.
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:지휘관 잡았~다! 어디 가? 나도 같이 갈래!
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:아오 깜짝이야... 너랑은 상관 없는 개인적인 일이니까 빨랑 기지로 돌아가 이 멍멍아.
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:우왕 지휘관 화났당~ 어떡하지 M4?
+M4A1(0)<Speaker>M4A1</Speaker>||:지휘관님, 현재 저희 모두 행동이 제한된 상태잖아요.
+()||:M4가 걱정 가득한 얼굴로 안젤리아의 앞을 가로막았다.
+M4A1(0)<Speaker>M4A1</Speaker>||:지금 기지를 무단 이탈하시면 문책으로 끝나지 않을 거예요.
+NPC-Ange(21)<Speaker>안젤리아</Speaker>||<BGM>BGM_Empty</BGM>:......
+()||:안젤리아는 길을 가로막은 M4A1과 AR-15를 뚫어져라 쳐다봤다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<BGM>GF_21summer_intro_DemonVariation</BGM>:...그럼, 선택해.
+NPC-Ange(19);M4A1(0)<Speaker>M4A1</Speaker>||:네...? 선택이라뇨?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;M4A1(0)||:네트워크 켜셔 지금 뭐가 보이나 말해.
+NPC-Ange(19);M4A1(0)<Speaker>M4A1</Speaker>||:어... 기지 쪽에 아군 신호가 엄청 활발해요, 몇 개 소대가 출동해서... 각 방향으로 향하고 있어요.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;M4A1(0)||:여기서 제일 가까운 건 몇명이지?
+NPC-Ange(19);M4A1(0)<Speaker>M4A1</Speaker>||:5인 소대 1개가 접근 중이네요... 약 5분 뒤에 도착할 거예요.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;M4A1(0)||:좋아, 그럼 그 녀석들을 목표로 지정해서 오기 전에 섬멸해.
+NPC-Ange(19);M4A1(0)<Speaker>M4A1</Speaker>||:네?! 하지만 그들은...!
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;M4A1(0)||:당장 선택해라, M4.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:날 따르거나, 거역하거나.
+M4A1(0)<Speaker>M4A1</Speaker>||:어, 어째서죠? 이해할 수 없어요...
+NPC-Ange(21)<Speaker>안젤리아</Speaker>||:빨리 선택이나 해.
+M4A1(0)<Speaker>M4A1</Speaker>||:......
+SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:오, 거의 다 왔다!
+()||<SE1>AVG_wind_grass</SE1>:산비탈길 아래의 숲에서 잎사귀가 격하게 바스락대는 소리가 들려왔다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:M4?
+M4A1(0)<Speaker>M4A1</Speaker>||:...죄송해요, 지휘관님. 그럴 순 없어요.
+()||:M4A1이 확실하게 거부 의사를 밝히자, 안젤리아는 오히려 홀가분한 듯이 웃었다.
+NPC-Ange(20)<Speaker>안젤리아</Speaker>||:좋아, 너는 네 선택을 관철했구나.
+M4A1(0)<Speaker>M4A1</Speaker>||:지휘관님...?
+NPC-Ange(20)<Speaker>안젤리아</Speaker>||:이젠 그렇게 부르지 마, 더는 너희 AR팀의 지휘관이 아니니까.+언젠가 너희한테 더 어울리는 녀석이 나타나서 너희를 밝은 미래로 이끌어 줄 거다. 난 내 길을 갈 거야.
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:무슨 소리야! 가지 말라니까!
+AR15(2)<Speaker>AR15</Speaker>||:지휘관...
+M16(7)<Speaker>M16A1</Speaker>||:......
+M4A1(3)<Speaker>M4A1</Speaker>||:역시 이해 못하겠어요... 대체 왜...
+()||<SE2>Gunfight</SE2>:타타탕!+깔끔하고 냉정한 총성이 끼어들었다.
+M4A1(0)<Speaker>M4A1</Speaker>||:어...? 그리폰 소대의 신호가 사라졌어요!
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:시간 됐네, 강제 명령 가동.
+M4A1(0)<Speaker>M4A1</Speaker>||:엣――
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<黑屏1>:전원 휴면 모드로 전환.
+()||<黑屏2><BIN>417</BIN>:......
+()<Speaker>실험체</Speaker>||:강글라티 대위, 안젤리아의 흔적을 따라 추적 중입니다.
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:인형은 몇 명이나 데리고 있지?
+NPC-Pamzan(10)<Speaker>실험체</Speaker><Position>0,-70</Position><同时置暗>||:아직 확인되지 않지만, 방금 그리폰 전술인형 1개 소대가 기습받아 몇 초만에 반격도 못하고 전멸했습니다.
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:......+실력 있는 것들을 데리고 있군.
+NPC-Pamzan(10)<Speaker>실험체</Speaker><Position>0,-70</Position><同时置暗>||:이제 어떻게 합니까?
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:내가 명령하기 전까진 거리를 유지하면서 계속 추적해라.
+NPC-Pamzan(10)<Speaker>실험체</Speaker><Position>0,-70</Position><同时置暗>||<黑屏1>:예.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<黑屏2><BIN>1</BIN>:......
+()||:안젤리아의 강제 명령에 AR팀은 그 자리에서 휴면 모드에 빠졌다.+하지만 M16A1은 멀쩡하게 서서, 투지로 눈을 불태우며 안젤리아를 마주봤다.
+NPC-Ange(21)<Speaker>안젤리아</Speaker>||:그들이 꽂아 둔 비장의 수가 바로 너였구나.
+M16(5)<Speaker>M16A1</Speaker>||:지휘관, 미안하지만 함께 돌아가 줘야겠어.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+()||<SE1>Select</SE1>:마음을 굳힌 M16A1은 조정간을 돌리고 안젤리아를 겨눴다.
+()||<SE2>Gunfight</SE2>:하지만 곧바로 어디선가 일점사가 날아와, 나무 뒤로 몸을 굴려 피해야만 했다.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:전장의 상황은 참 변화무쌍하다니까, 이젠 그리폰 애들을 박살내고 지휘관을 구해야 한다니.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:넌 여전히 쓸데없이 말이 많고 말이다.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:안젤리아, 이쪽으로 철수하자. 내가 엄호하겠다.
+()||<SE2>Gunfight</SE2>:대치하는 틈을 타, 안젤리아는 울프팩과 합류해 숲의 가장자리까지 물러났다.
+M16(5)<Speaker>M16A1</Speaker>||:지휘관을 잡아! 최대한 다치게 하지 말고!
+M16(5)<Speaker>그리폰 인형</Speaker><同时置暗>||:네!
+()||<SE2>Gunfight</SE2>:뒤쫓아온 그리폰 인형들이 가세한 탓에 날아드는 총탄이 더욱 매서워졌다.+그리고 M16A1의 지휘로 울프팩의 화망을 뚫고 안젤리아에게 접근하는 인형도 점점 늘어났다.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:그리폰 부대와 거리를 벌릴 수가 없다. 지름길로 따돌릴까, 아니면...?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:...흩어져. 내가 미끼가 될 테니 각개 격파해.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:알았다.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:그래도 네 부하였는데 매정해라~
+()||<黑屏1><SE1>AVG_Team_Running</SE1>:AK-12의 느긋한 농담이 멀어지고 금방, 쉬지 않고 내달리는 안젤리아의 귀에 그리폰 인형들의 비명이 수시로 들려왔다.+하지만 그녀는 고개를 돌리지 않고 계속 달렸다. 이 끝이 보이지 않는 좁다란 길을 따라, 그저 미친 듯이 달렸다.

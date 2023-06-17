@@ -1,0 +1,24 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+M4A1(3)<Speaker>M4A1</Speaker>||<黑屏2><BIN>73</BIN><SE1>AVG_tele_connect</SE1><BGM>m_avg_casual</BGM>:페르시카 씨, 지시에 따라 임무를 완수했습니다.+다음 지시를 내려 주세요.
+NPC-Persica(11)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>아까부터 너희들끼리 수군대던데, 무슨 얘기했어?</color>
+NPC-Persica(9);M4A1(2)<Speaker>M4A1</Speaker>||:네? 그, 그건...
+NPC-Persica(9);SOPII(0)<Speaker>M4 SOPMOD II</Speaker>||:저녁 뭐 먹을까 회의했어!
+NPC-Persica(9);AR15(0)<Speaker>AR15</Speaker>||:...작전 방안에 약간 의견이 갈렸습니다. 하지만 이미 논의로 해결했습니다.
+NPC-Persica(9)<Speaker>페르시카</Speaker>||:<color=#00CCFF>그렇구나.</color>+<color=#00CCFF>이미 눈치챈 줄 알았더니...</color>
+AR15(0)<Speaker>AR15</Speaker>||:......
+M4A1(3)<Speaker>M4A1</Speaker>||:저어, 페르시카 씨? 외람되오나 질문이――
+NPC-Persica(9)<Speaker>페르시카</Speaker><通讯框>;M4A1(3)||:<color=#00CCFF>왜 이 실험이 살무사 작전을 기반으로 하냐고?</color>
+NPC-Persica(9);M4A1(3)<Speaker>M4A1</Speaker>||:...네, 설명을 부탁드립니다.
+NPC-Persica(13)<Speaker>페르시카</Speaker>;M4A1(3)||:<color=#00CCFF>좋은 질문이군. 그건 말이지...</color>
+NPC-Persica(13);AR15(0)<Speaker>AR15</Speaker>||:어째서죠?
+NPC-Persica(13)<Speaker>페르시카</Speaker>||:<color=#00CCFF>...비밀.</color>
+SOPII(3)<Speaker>M4 SOPMOD II</Speaker>||:아잇 감질나게 뭐야 그게!
+NPC-Persica(10)<Speaker>페르시카</Speaker><通讯框>;SOPII(3)||:<color=#00CCFF>후후후, 알고 싶다면 실험을 마치고 실험실에서 직접 물어보려무나.</color>
+NPC-Persica(10);M4A1(3)<Speaker>M4A1</Speaker>||:하지만...
+NPC-Persica(10)<Speaker>페르시카</Speaker><通讯框>;M4A1(3)||:<color=#00CCFF>그래도 살무사 작전 데이터를 쓴다고 게으르게 저번 작전 패턴 그대로 갖다 쓰지 마.</color>+<color=#00CCFF>이 실험은 너희의 진짜 진짜 실력 데이터가 필요하니까, 작전 당시처럼 전력을 다하도록 해. 알겠나!</color>
+NPC-Persica(10);M4A1(3)<Speaker>M4A1</Speaker>||:아, 네! 전력으로 임하겠습니다!
+NPC-Persica(10)<Speaker>페르시카</Speaker>||:<color=#00CCFF>응, 그래야지. 그럼 좀 쉬고 있어, 15분 뒤에 다음 실험 시작할 테니까.</color>
+AR15(0)<Speaker>AR15</Speaker>||<SE1>AVG_tele_disconnect</SE1>:......+결국엔 아무것도 안 말했네.
+M4A1(2)<Speaker>M4A1</Speaker>||:페르시카 씨니까요...+지시에 따라 임무를 완수하는 것 말곤 달리 방도가 없어요. 그러니까――
+SOPII(2)<Speaker>M4 SOPMOD II</Speaker>||:그래서 우리 저녁 뭐 먹을 거야?
+()||<黑点1>:

@@ -1,240 +1,240 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>393</BIN><BGM>GF_21summer_battle_4</BGM>:그리폰 기지, 지하 2층의 복도.+반란군 특전사 부대는 쓰러진 인형들의 잔해를 확인하며 지휘부장에게 상황을 보고했다.
-NPC-Soldier(0)<Speaker>특전사 대장</Speaker>||:지휘부장, 당측이 지하 2층에서 적 병력의 퇴각을 확인했다. 바닥에서 인간의 혈흔도 발견했지만, 최우선 목표는 아직 육안으로 식별되지 않았다.+현재 1개 인형 소대가 지하 3층으로 통하는 통로에서 게릴라전을 펼치고 있어, 돌파 방법을 강구 중이다.
-NPC-Soldier(0)<Speaker>특전사 지휘부장</Speaker><同时置暗>||:<color=#00CCFF>탄약 소모를 신경쓰지 말고 신속히 돌파하라. 반드시 크루거를 찾아내야 한다.</color>
-NPC-Soldier(0)<Speaker>특전사 대장</Speaker>||:알았다. 그리고 방금 D7 구역에서 인형 1기가 단독으로 움직이고 있다는 보고를 받았다.
-NPC-Soldier(0)<Speaker>특전사 지휘부장</Speaker><同时置暗>||:<color=#00CCFF>맛이 간 인형이 아무렇게나 돌아다니는 것이겠지.</color>+<color=#00CCFF>그래도 혹시 모르니 몇 명을 보내 확인하도록.</color>
-NPC-Soldier(0)<Speaker>특전사 대장</Speaker>||:알았다, 이상.
-()||<SE1>AVG_tele_disconnect</SE1><黑屏1>:통신을 종료한 뒤, 특전사 대장은 수신호로 부대를 전진시켰다.
-()||<黑屏2><BIN>419</BIN>:전력 차단 지점까지, 앞으로 570m.+전진, 전진... 토카레프는 홀로 어둠을 헤치며, 헬리안에게 전달받은 위치로 달려갔다.
-TT33(0)<Speaker>토카레프</Speaker>||:PPK, 응답 바람!
-TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>여기는 PPK, 수신 감도 양호~</color>
-TT33(0)<Speaker>토카레프</Speaker>;PPK(0)<通讯框>||:방금 폭발음이 들렸는데, 괜찮아요?
-TT33(0);mp443(0)<Speaker>MP443</Speaker><通讯框>||:<color=#00CCFF>그냥 적이 또 마구잡이로 폭격한 거야. 여긴 저 정도 가지곤 안 무너져.</color>
-TT33(0)<Speaker>토카레프</Speaker>;mp443(0)<通讯框>||:아직 무사하다니 다행이네요...
-TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>다만, 우리 방어선의 위치가 발각됐어.</color>
-PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>예상보다 좀 빠르게 말이야.</color>
-TT33(0)<Speaker>토카레프</Speaker>||:......
-Ribeyrolles(0)<Speaker>리베롤</Speaker><通讯框>||:<color=#00CCFF>발소리가... 가까워요...</color>
-PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>이따 다시 연락해, 이제 움직여야 하니까.</color>
-()||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
-TT33(0)<Speaker>토카레프</Speaker>||<黑点1>:제발... 모두 무사해야 돼요...!
-()||<黑点2><BIN>393</BIN>:방어선을 구축한 지 7분 16초...
-mp443(0)<Speaker>MP443</Speaker>||:잘하는 짓이다 PPK, 우리 상황을 그렇게 간단히도 말하고 말이야.
-PPK(0)<Speaker>PPK</Speaker>||:그럼 뭐라고 해? 당장에라도 펑펑 울 거 같은 토카레프한테, 우린 지금 탄약도 바닥났고 엄폐물도 거의 다 박살나서 우리 떨거지 셋이 육탄전 벌이기 직전이라고 이실직고할까?
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:......+제가 엄호할게요...
-mp443(0)<Speaker>MP443</Speaker>||:나도 근접전이야 해봤지, 그런데 대뜸 총 버리고 삽으로 싸우라니까 심리적으로 좀――
-()||:적 한 명이 폭발로 인한 먼지 구름을 뚫고 인형들의 방어선에 발을 내디뎠다.
-()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:촤악!!+장작을 패는 것처럼, MP443이 삽으로 상대의 목덜미를 내리쳤다.
-mp443(0)<Speaker>MP443</Speaker>||:――거부감이 들어서.
-PPK(0)<Speaker>PPK</Speaker>||:아직도 농담할 여유가 있다니, 너 보기보다 정신력이 강하구나.
-mp443(0)<Speaker>MP443</Speaker>||:......
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:적이 또 와요...
-mp443(0)<Speaker>MP443</Speaker>||:오라고 해, 다 썰어버리겠어.
-()||:PPK 일행은 다시 엄폐물 뒤에 조용히 숨어, 적들의 발걸음 소리에 귀를 기울였다.+MP443이 눈치를 보내자, 이를 읽은 리베롤은 천천히, 제일 앞의 엄폐물로 이동해 일차적으로 적의 머릿수를 줄이려 했다.
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:목표 파악 중...+조준... 사격 준비...
-()||<SE1>AVG_rifle_finalshot_h</SE1>:티잉!+총탄이 두꺼운 장갑에 튕겨 나갔다.
-mp443(0)<Speaker>MP443</Speaker>||:망할, 덩치가 왔네.
-PPK(0)<Speaker>PPK</Speaker>||:나한테 쓰려고 남겨 둔 수류탄인데... 그냥 써야겠네.
-()||:인형들은 하는 수 없이 최후의 수단으로 남겨 뒀던 무기를 꺼내 대응할 준비를 했다.
-()||<BGM>BGM_Empty</BGM>:그런데, 저 너머에서 들려오던 발소리가 멈췄다.
-mp443(0)<Speaker>MP443</Speaker>||:리베롤, 적은?
-Ribeyrolles(0)<Speaker>리베롤</Speaker>||:안 보여요...
-PPK(0)<Speaker>PPK</Speaker>||:......
-()||<BGM>10106</BGM>:세 인형이, 조심조심 엄폐물 밖으로 고개를 내밀어 보았다.
-()||<SE1>RunStep</SE1>:쿵...+쿵쿵쿵쿵——+그와 동시에, 발소리가 빨라졌다. 중장갑 군용 인형 하나가, 집속 수류탄을 한 아름 끌어안고 돌진해 오는 것이었다.
-PPK(0)<Speaker>PPK</Speaker>||:후퇴!! 빨리 뒤로——
-()||<SE1>AVG_Explo_Close</SE1><黑点1>:콰아앙——!!
-()||<BIN>15</BIN><黑点2>:전력 차단 지점까지, 앞으로 173m.
-()||<SE2>Gunfight</SE2>:타타탕!!+토카레프가 문기둥 뒤에 웅크려 적의 소사를 피했다.
-TT33(0)<Speaker>토카레프</Speaker>||:PPK, 저 발각됐어요. 헬리안 씨와도 연락이 닿질 않아요.
-TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>통신은 이쪽도 먹통이야. 너 아직 달릴 순 있지?</color>+<color=#00CCFF>괜한 생각 마, 그냥 신호 불량일 테니까.</color>
-TT33(0)<Speaker>토카레프</Speaker>;PPK(0)<通讯框>||:네, 전 괜찮아요. 잠시 발이 묶였을 뿐이에요.
-TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>놈들부터 따돌리도록 해. 안 그럼 네가 전원을 복구해도 놈들이 또 끊어버릴 거야.</color>
-TT33(0)<Speaker>토카레프</Speaker>;PPK(0)<通讯框>||:방법을 찾아볼게요...
-TT33(0)<Speaker>토카레프</Speaker>||:...그쪽은 괜찮아요?
-PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>우후훗, 그야 물론이지. 녀석들을 아주 가지고 놀고 있다고.</color>
-TT33(0)<Speaker>토카레프</Speaker>||:그렇다니 다행이네요...
-PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>다음 정기 연락 때 보자.</color>
-()||<SE1>AVG_tele_disconnect</SE1>:PPK가 통신을 종료했다.+그녀의 말에 기운을 얻은 듯, 토카레프는 용기를 내어 문기둥을 넘어 창문을 뚫고 도망쳤다.
-()||<SE2>Gunfight</SE2><黑点1>:타타타탕——+매섭게 날아드는 총탄들이, 그녀를 스쳤다.
-()||<黑点2><BIN>393</BIN><BGM>BGM_Empty</BGM>:방어선을 구축한 지 9분 23초...
-mp443(0)<Speaker>MP443</Speaker>||<BGM>GF_21summer_intro_DemonVariation</BGM>:......
-PPK(0)<Speaker>PPK</Speaker>||:딴지 안 걸어?
-mp443(0)<Speaker>MP443</Speaker>||:내가 지금 딴지 걸 기운이 있어 보여...?
-()||:PPK는 다리 한 짝만 남은 MP443을 질질 끌면서 2차 방어선으로 이동했다.+톰슨이 그들을 위해 남겨 뒀던 인형들은 이미 폭격에 당했고, PPK는 희생된 인형들의 잔해에서 얼마 남지 않은 탄약을 회수했다.
-PPK(0)<Speaker>PPK</Speaker>||:결국 의지할 건 자신뿐이라니까.
-PPK(0);mp443(0)<Speaker>MP443</Speaker>||:리베롤의 유품은... 뭐 건졌어...?
-PPK(0)<Speaker>PPK</Speaker>;mp443(0)||:......+아니. 폭발이 너무 가까워서 아무것도 안 남았어.
-PPK(0);mp443(0)<Speaker>MP443</Speaker>||:휴대품 정리하라 할 때 그냥 돌멩이 하나만 남겨 둘걸...+그럼 너한테 내 유품 대신 줄 수 있었을 거 아니야.
-PPK(0)<Speaker>PPK</Speaker>;mp443(0)||:됐거든? 어차피 우리 모두 못 돌아가.+게다가, 다음에 우리가 눈 뜨면 이 기억이 있겠어?
-PPK(0);mp443(0)<Speaker>MP443</Speaker>||:그럼... 우릴 기억해 줄 사람은 아무도 없어...?
-PPK(0)<Speaker>PPK</Speaker>;mp443(0)||:없어, 그라치. 지금 여기의 우리가 사라지면, 여기서 무슨 일이 있었는지 아무도 모르게 돼.
-PPK(0);mp443(0)<Speaker>MP443</Speaker>||:우와아, 끔찍해... 이보다 더 끔찍해질 수 있을까...
-PPK(0)<Speaker>PPK</Speaker>;mp443(0)||:......+그야 물론 더 끔찍해질 수 있지. 네가 먼저 가버리면 나 혼자 버텨야 한다는 걸 잊지 마.
-PPK(0);mp443(0)<Speaker>MP443</Speaker>||:PPK... 너 의외로 사람 다독일 줄 아는 애였구나.
-mp443(0)<Speaker>MP443</Speaker>||:나 가기 전에 "카추샤" 한 곡 불러 줄래?
-PPK(0)<Speaker>PPK</Speaker>||:미안하지만 난 "에리카"밖에 몰라서.
-mp443(0)<Speaker>MP443</Speaker>||:그것도 상관없어, 죽기 직전인데 가릴 게 뭐 있다고.
-()||<SE1>AVG_Explo_Distance</SE1>:콰앙——!!+적의 폭격이 더욱 가까워졌고, 1차 방어선은 이미 초토화된 상태였다.
-PPK(0)<Speaker>PPK</Speaker>||:황야에 작은 꽃 한 송이가 피어있는데♪+그 꽃은 에리카라 하네♪
-()||:포성 속에서 부르는 PPK의 노래는 어렴풋이 들렸고, 왠지 진지함이 부족하게 들렸다.
-PPK(0)<Speaker>PPK</Speaker>||:10만 마리의 자그마한 꿀벌들로부터♪+열렬하게 모여드는 것은 에리카라네♪
-()||<黑点1>:포성과 발소리는 이제 들리지 않았고, PPK의 떨리는 노랫소리만 남았다. MP443은 삽을 꾹 쥐고, 얼굴에 미소를 띄었다.
-()||<黑点2><BIN>15</BIN>:전력 차단 지점.+ 토카레프는 떨리는 손으로 끊어진 전력 공급선을 수리했다.+저 뒤에선 적의 발소리가 점점 더 가까워졌고, 당장에라도 저 모퉁이를 돌아 놈들이 튀어나올 것만 같았다.
-TT33(0)<Speaker>토카레프</Speaker>||:PPK, 저 거의 다 됐어요!
-TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>얼마나 더 걸려?</color>
-TT33(0)<Speaker>토카레프</Speaker>;PPK(0)<通讯框>||:37초요!
-TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>더 서둘러.</color>
-TT33(0)<Speaker>토카레프</Speaker>;PPK(0)<通讯框>||:지금 이게 최대한 빨리하는 거예요!+...PPK? 목소리가 좀 이상하게 들리는데요?
-TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>허스키하게 들려, 아님 섹시하게 들려?</color>
-TT33(0)<Speaker>토카레프</Speaker>;PPK(0)<通讯框>||:......+농담하지 말고, 정말 괜찮은 거 맞아요? 왠지 리베롤과 그라치의 목소리도 못 들은 지 꽤 된 거 같은데...
-TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>토카레프는 나랑 얘기하기 싫어?</color>
-TT33(0)<Speaker>토카레프</Speaker>PPK(0)<通讯框>||:아니, 그런 게 아니라요! PPK랑 계속 얘기할 수 있어서, 얼마나 다행인데요...
-TT33(0)<Speaker>토카레프</Speaker>||:아니었으면, 저... 진작에 무너졌을 거예요...
-PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>미안해.</color>
-TT33(0)<Speaker>토카레프</Speaker>||:네?
-()<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>어울려 주는 건 여기까지.</color>
-TT33(0)<Speaker>토카레프</Speaker>||:PPK? 왜 그래요?
-()||:전원 공급선의 수리가 끝나, 전력이 복구됐다.
-()<Speaker>PPK</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>토카레프, 뛰어. 뒤돌아보지 말고 뛰어.</color>
-TT33(0)<Speaker>토카레프</Speaker>||:PPK?!
-()||<SE1>AVG_Explo_Distance</SE1>:콰앙――!!! 거대한 폭음이 토카레프의 귀를 때렸다.
-TT33(0)<Speaker>토카레프</Speaker>||<震屏>:...PPK!!!
-NPC-Soldier(0)<Speaker>특전사 대원1</Speaker>||<BGM>10082</BGM>:이쪽이다!
-()||<SE2>Gunfight</SE2>:타타타탕——!+토카레프가 길모퉁이 뒤로 몸을 굴리기가 무섭게, 적의 총탄이 그녀의 귓가를 스쳤다.
-NPC-Soldier(0)<Speaker>특전사 대원2</Speaker>||:수류탄 던져! 엄폐에서 끌어내서 쏴라!
-TT33(0)<Speaker>토카레프</Speaker>||:<color=#A9A9A9>큰일이야, 이쪽으로 수류탄을 던지면 전원이 다시 끊기는 것만으로 끝나지 않을 거야...</color>+<color=#A9A9A9>헬리안 씨와 호위 팀은 그렇게 무거운 서버를 끌고 계단을 탈 수도 없을 테고...</color>+<color=#A9A9A9>어떻게든 놈들을 딴 방향으로 유인해야 해!</color>
-()||<SE1>AVG_pistol_finalshot_n</SE1><SE1>RunStep</SE1>:타타탕!!+결심한 토카레프가 반격하며 엄폐물 밖으로 뛰어나와, 전원 공급선과 반대 방향으로 내달렸다.
-NPC-Soldier(0)<Speaker>특전사 대원1</Speaker>||:놓치지 마라!
-NPC-Soldier(0)<Speaker>특전사 대원2</Speaker>||:쏴라!
-TT33(0)<Speaker>토카레프</Speaker>||:......
-()||<SE1>AVG_Gunfire</SE1>:탄창의 마지막 탄환으로 적을 주춤하게 만들면서, 토카레프는 문 뒤로 몸을 던졌다.+하지만 수류탄 하나가, 그녀를 앞질렀다.
-()||<SE1>AVG_Explo_Close</SE1>:퍼엉——!
-TT33(0)<Speaker>토카레프</Speaker>||:큭...!
-()||:충격에 시야가 흐려졌지만, 소체의 상태를 점검할 겨를이 없었다. 전원 공급선으로부터 멀어져야 했다.
-TT33(0)<Speaker>토카레프</Speaker>||:<color=#A9A9A9>헬리안 씨에게 최대한 시간을 벌어 줘야 해...</color>+<color=#A9A9A9>모두의 희생을 절대 헛되이 할 수 없어...!</color>
-NPC-Soldier(0)<Speaker>특전사 대원1</Speaker>||:목표가 계속 이동한다!
-NPC-Soldier(0)<Speaker>특전사 대원2</Speaker>||:비켜, 하나 더 던진다!
-()||<SE1>AVG_Explo_Close</SE1>:콰앙!!+이번엔 폭발이 바로 뒤에서 터져, 중심을 잃은 토카레프는 한참을 바닥에 나뒹굴었다.+적들은 피 냄새를 맡은 늑대처럼 쫓아오고 있었다.
-NPC-Soldier(0)<Speaker>특전사 대원1</Speaker>||:저놈...
-NPC-Soldier(0)<Speaker>특전사 대원2</Speaker>||:피해! 아직도 총을 가졌다!
-()||<SE2>Gunfight</SE2>:타탕——!+흐릿한 시야 속에서, 토카레프는 뭔가가 떨어져 나가는 것이 보이는 듯했다.+간신히 눈의 초점을 조절해 보니, 그건 총을 쥐고 있던 자신의 팔이었다.
-()||<黑屏1>:영원한 어둠이 찾아와, 토카레프의 눈꺼풀을 짓눌렀다.
-()<Speaker>토카레프</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:저도... 지금 갈게요...
-()||<SE1>AVG_Punch_Hit</SE1><黑屏1>:그때, 그 어둠을 뚫고 차가운 손 하나가 그녀의 뺨을 어루만졌다.
-()||<睁眼><BIN>15</BIN>:무거운 눈꺼풀을 간신히 들어올린 토카레프의 눈에, 웃음기 가득한 PPK의 얼굴이 보였다.
-TT33(0)<Speaker>토카레프</Speaker>||:PPK...
-PPK(0)<Speaker>PPK</Speaker>||<BGM>GF_21summer_avg_Demon</BGM>:일어나, 이 바보야. 우리 모두 널 지켜보고 있어.
-TT33(0)<Speaker>토카레프</Speaker>||:모두들...
-()||:PPK의 얼굴이 허공에 흩어졌다.+그리고 토카레프는 마치 저 빛을 따라잡으려는 듯, 귀신에 홀린 듯 다시 일어나 절뚝거리며 앞으로 나아갔다.
-NPC-Soldier(0)<Speaker>특전사 대원1</Speaker>||:뭐 저딴 괴물이 다 있어!?
-()||<SE2>Gunfight</SE2>:타타탕!!+그 소리에 다리의 반응을 잃었다. 토카레프의 몸뚱이는 철렁하는 감각과 함께 다시 단단한 바닥으로 고꾸라졌다.+눈앞의 어둠이 소용돌이쳤고, 토카레프의 마인드맵도 거기에 빨려드는 듯했다.
-NPC-Soldier(0)<Speaker>특전사 대원2</Speaker>||:접근하지 마라, 이 인형들 근접전에 도가 텄어. 수류탄 하나 더 던져서 처리해.
-()||<黑屏1>:차가운 바닥에 닿은 귀를 통해, 적들이 다가오는 소리가 토카레프의 마음을 두들겼다.+오류일까 장난일까, 이 순간 토카레프의 마인드맵은 지금과 아무 상관 없는 일을 떠올렸다.+끝이 다가온 그녀의 눈을 가려 주는 것처럼.
-()||<黑屏2><回忆><BIN>9</BIN>:같은 날의 조금 이른 저녁 시간, 창고에서 필요한 물건을 찾던 도중.
-mp443(0)<Speaker>MP443</Speaker>||:어라? 내가 이거 여기다 뒀었구나~
-TT33(0)<Speaker>토카레프</Speaker>||:그게 뭐예요?
-mp443(0)<Speaker>MP443</Speaker>||:로봇견의 잔해야.
-PPK(0)<Speaker>PPK</Speaker>||:엑... 그런 건 왜 갖고 있어요?
-mp443(0)<Speaker>MP443</Speaker>||:그냥 로봇견이 아니야, 뉴스에 나온 로봇견이지!+자기 주인을 구하려고, 한 치의 망설임 없이 몸을 던져 폭탄을 막았대.
-TT33(0)<Speaker>토카레프</Speaker>||:아하... 충성심의 상징이군요.
-mp443(0)<Speaker>MP443</Speaker>||:에이, 그렇게 시시한 이유로 수집한 게 아니지~+인형인 우리는 그 존재 자체가 무기란 걸, 나 스스로에게 일깨우기 위해서야.+어느날 어딘가에서 싸우던 우리가 무기와 탄약을 몽땅 잃더라도, 아직 내겐 이 몸뚱이가 있다! 하면서 마지막 순간까지 싸울 용기를 잃지 말자는 뜻이지.
-WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||<黑屏1>:말 잘했다, 그라치!
-()||<黑屏2><BIN>15</BIN><关闭蒙版>:박수 소리가 토카레프의 정신을 다시 현실로 끌어냈다.+옆으로 고개를 돌린 토카레프의 눈에, 만신창이인 웰로드가 적들 사이로 걸어가, 수류탄을 꺼내는 병사 옆에 섰다.+흔들리는 그녀의 시선에, 적의 모습은 점점 웰로드와 겹쳐 보였다.
-TT33(0)<Speaker>토카레프</Speaker>||:웰로드...
-()||:눈물에 앞이 흐려졌다.
-WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||:..."순순히 저 어두운 밤을 받아들이지 말라."
-TT33(0)<Speaker>토카레프</Speaker>||:...스러져 가는 이여, 저무는 날에 맞서 소리치고 격노하라.
-()||:이제 토카레프의 눈엔 웰로드의 모습만이 남았다.+적이 있다는 것도 잊고, 계속해서 들려오는 포성도 잊고, 자신마저 잊었다.
-WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||:"격노하라."
-()||:그녀의 마인드맵엔 단 한 줄의 명령어만 남았다.+달려라.+<size=40>달려라!</size>+<size=50>앞으로 달려!!</size>
-()<Speaker>MP443</Speaker>||:인형인 우리는 그 존재 자체가 무기야.
-()<Speaker>PPK</Speaker>||:어울려 주는 건 여기까지.
-()<Speaker>리베롤</Speaker>||:맡겨 주세요...
-TT33(0)<Speaker>토카레프</Speaker>||<震屏>:<size=50>으아아아아아아!!!</size>
-()||<SE1>RunStep</SE1>:야수와 같은 포효에 특전사들이 흠칫했고, 토카레프는 괴물 같은 자세로 내달렸다.+웰로드와의 거리가 좁혀지고, 끝내 토카레프는 웰로드를 껴안았다.+토카레프에게, 하늘 끝까지 울려 퍼지는 웰로드의 목소리가 들렸다.
-()<Speaker>웰로드MkⅡ</Speaker>||:<size=50>"꺼져 가는 빛에 격노하라!!!"</size>
-()<Speaker>토카레프</Speaker>||:<size=50>이야아아아아아압!!!</size>
-()||<黑屏1>:토카레프는 그대로, 수류탄의 안전 손잡이를 놓은 적을 덮쳤다.
-()||<黑屏2><SE1>AVG_Explo_Close</SE1><BIN>9</BIN><黑屏1><BGM>BGM_Empty</BGM>:콰앙——
-()||<黑屏2><BIN>412</BIN><SE1>AVG_20Winter_Open_Light</SE1>:사무실로 돌아온 비서가 전등의 스위치를 켰다.
-()<Speaker>비서</Speaker>||<BGM>BGM_Sneak</BGM>:국장님? 왜 불을 끄고 계십니까?
-NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:지도를 보고 있었다.
-()||:눈앞의 홀로그램 지도를 응시하던 젤린스키는 홀로그램을 끄며 비서에게 고개를 돌렸다.
-NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:새로운 소식인가?
-NPC-Zielinski(0)<Speaker>비서</Speaker><同时置暗>||:네. 일부 군사기지의 반역 혐의가 해제되었습니다. 그들도 이제 언제든지 동원 가능합니다.
-NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:소란도 해결됐고?
-NPC-Zielinski(0)<Speaker>비서</Speaker><同时置暗>||:네, 원인이 밝혀졌습니다.+누군가 국방부의 중추 시스템을 교란해, 내부에서 허위 지시를 퍼뜨렸습니다.+대다수의 부대가 이 허위 지시를 받고 움직인 것이었습니다.+현재 일부 기지가 시스템의 통제권을 되찾아, 오프라인으로 복구 작업을 진행 중입니다.
-NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:웃음거리가 될 일이군... 군의 시스템을 공원처럼 들락날락하다니.+어쨌든 이것으로 우리 군에게 많은 문제가 존재한다는 것이 증명됐어.+다행히 주도권도 우리 손 안에 있고.
-()||:젤린스키는 고개를 저으며 의자에서 일어났다.
-NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:현재 상황을 상층부에게 보고해라.
-NPC-Zielinski(0)<Speaker>비서</Speaker><同时置暗>||:네.
-()||:그리고 젤린스키는 다시 자리에 앉아, 홀로그램 지도를 다시 켜 심각한 표정으로 주시했다.
-NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||<黑屏1>:폭풍이 다가오는구나...
-()||<黑屏2><BIN>47</BIN><SE1>AVG_Gunfire</SE1><BGM>BGM_Empty</BGM>:타타타탕——!!+콰앙!!+콰앙——!!+끝도 없이 쏟아지는 적의 화력이 헬리안 일행을 궁지로 몰았다. 지금 그들은 엘리베이터 앞을 지키며 전원이 복구되기만을 기다리는 중이었다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:토카레프!
-NPC-Persica(3)<Speaker>페르시카</Speaker>||:통신이 끊어져서 연락이 안 돼...
-()||<SE1>AVG_Explo_Close</SE1><火花><BGM>GF_21summer_avg_Demon</BGM>:콰아앙!!+적은 무작정 돌입하지 않고, 포격으로 상대를 끌어낼 심산이었다.+포화 세례에 인형들 주위의 불길은 점점 더 거세졌고, 사방이 연기로 가득찼다.
-NPC-Persica(3)<Speaker>페르시카</Speaker>||:어떻게든 좀 해 봐, 이러다 내 실험 기구들까지 다 작살나겠어!
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:톰슨... 방어선을 구축해라. 놈들의 접근을 막아...
-M1928A1(0)<Speaker>톰슨</Speaker>||:라저!
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:크루거 님...
-()||:헬리안은 중상을 입은 크루거를 부축했다.
-NPC-Helian(1)<Speaker>헬리안</Speaker>||:크루거 님, 조금만 더 버티십시오!
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:울지 말게, 헬리안... 오늘은 본디 기쁜 날 아니었나...
-NPC-Helian(1)<Speaker>헬리안</Speaker>||:기쁘긴 뭐가 기쁩니까! 최악도 이런 최악이 없습니다!
-()||:크루거가 부들거리는 손을 들더니, 코트의 안주머니를 뒤졌다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:뭘 찾으십니까? 대신 꺼내드리겠습니다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:아니... 이것만큼은 내가 직접 주고 싶어...
-()||<SE1>AVG_20Winter_Book</SE1>:잠시 후, 크루거의 손이 피로 얼룩진 편지 봉투를 헬리안에게 건넸다.+소박하고 간결한 통지서였다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:"친애하는 헬리안 귀하."+"그리폰&크루거 안전계약사는 귀하에게 종신 계약을 제안하는 바, 이를 진심으로 기쁜 마음으로 통지해드립니다."+"종신 계약 시작일은, 이 통지서를 받는 오늘부터 평생토록입니다."+이건... 
-NPC-Helian(0);NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그리폰이 존재하는 한... 자네는 우리가 지켜 주겠네.+자네에게 평생 기댈 수 있는 곳이 되어서 말이야...+그럼... 억지로라도 소개팅 나갈 필요도 없겠지? 하하하...
-NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Kyruger(0)||:......
-NPC-Helian(1)<Speaker>헬리안</Speaker>||:크루거 님은 "평생"이라 단어를 싫어하시는 줄 알았습니다. 입사 당시 그것 때문에 한소리 듣기까지 했어요.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||<黑屏1>:하하... 그랬나...?
-()<Speaker>헬리안</Speaker>||<黑屏2><回忆><BIN>9</BIN>:헬리안투스, 신고합니다. 금일부로 크루거 님의 대리인직을 맡게 되었습니다.
-()<Speaker>크루거</Speaker>||:그래, 내 신뢰가 틀리지 않았길 바라지.
-()<Speaker>헬리안</Speaker>||:평생토록 그 신뢰에 부응하겠습니다.
-()<Speaker>크루거</Speaker>||<黑屏1>:어허, 신참. "평생"이란 함부로 써도 되는 말이 아니야.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||<黑屏2><关闭蒙版><BIN>47</BIN>:자네는... 행동으로 자신의 가치를 증명해 보였어...+덕분에, 나도 평생이란 시간을 뜻하는 게 아니란 걸 깨달았네... 평생이란...
-()||:크루거는 묵묵히 자신의 심장을 가리켰다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:......
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:정말 최악의 타이밍일지도 모르겠네만... 오늘 아님 언제 말해 주겠나.+입사 10주년 축하하네, 헬리안.+깜짝 파티도 준비했는데... 아쉽게도 다 망쳐버렸군.
-NPC-Helian(1)<Speaker>헬리안</Speaker>||:크루거님... 너희들도...?
-()||:그 말에, 헬리안은 놀란 얼굴로 인형들을 돌아봤다.
-NTW20Mod(0)<Speaker>NTW20</Speaker>||:미안하다, 헬리안. 케이크도 다 박살이 났다...
-M1928A1(0)<Speaker>톰슨</Speaker>||:마담 몰래 파티장 꾸미느라 우리가 얼마나 고생했는 줄 알아? 그런데 그 XX들이 싹 다 날려버렸으니 원...
-NPC-Helian(1)<Speaker>헬리안</Speaker>||:...고마워.+너희와 함께할 수 있는 것만으로, 난 충분해...
-()||:적이 불타는 잔해로 파묻힌 통로를 파헤치는 소리가 들리자, 헬리안은 그들이 여기까지 들이닥치는 것도 시간문제임을 깨달았다.+눈물이, 매연에 검게 그을린 얼굴을 타고 떨어졌다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:......+만약 오늘이 마지막 날이더라도...
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:...우린 끝까지 싸워야 해.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:크루거 님...
-()||:크루거가 몸을 일으키려 했지만, 부상이 심해 힘을 줄 때마다 등의 상처가 흉측하게 벌어졌다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:우린... 아직 지지 않았어.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:......
-NPC-Persica(1)<Speaker>페르시카</Speaker>||:크루거 씨, 제발 가만 있어요!
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:안 돼... 이대로 포기해서는 안 된다...
-()||:헬리안도 크루거를 말리며 상처가 더 벌어지지 않도록 그를 눕히려 했지만, 그는 안간힘을 쓰며 몸을 일으켜 세우려 했다.+벌어진 상처에서 흐르는 피가, 헬리안의 팔을 타고 떨어졌다.
-NPC-Helian(1)<Speaker>헬리안</Speaker>||:크루거 님... 위험합니다, 제발...
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:비켜!
-()||<BGM>BGM_Empty</BGM><SE1>AVG_Water_Drip</SE1>:그의 고함에 고개를 떨군 헬리안의 눈물도 바닥에 떨어졌다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||<SE1>AVG_Fighter_Passby</SE1>:......
-()||:크루거는 다시 바닥에 앉아, 길게 한숨을 내쉬었다.+인형들도 모여들었지만, 입을 열진 않았다.
-()||:쿠구궁...+계속되는 폭발에, 바닥이 요람처럼 흔들렸다.
-M1928A1(0)<Speaker>톰슨</Speaker>||:...폭격기?
-()||<BIN>46</BIN>:그때, 전력망이 복구되어 엘레베이터에 다시 불이 들어왔다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||<BGM>GF_21summer_battle_4</BGM>:그 애들... 성공했구나!+토카레프? MP443! PPK! 리베...
-()||:황급히 지휘 태블릿을 확인했지만, 그녀들의 위치를 표시하던 반점은 더는 반짝이지 않았다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그녀들의 희생도 헛되이 해선 안 되네... 전진해야 해...
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:먼저 지하 3층으로 돌아가죠. 크루거 님의 치료가 급선무입니다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:아니... 더 위로 올라간다.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:예?!
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:저건 폭격기 소리다.+우리의 지상 건물은 진작에 전부 파괴됐어... 그런데 폭격기가 날아와 폭격했다는 건, 우릴 노린 게 아니란 뜻이다. 우리의 지원군이야.
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:하, 하지만 그게 아니라면 우린 끝장입니다! 다시 퇴각할 수도 없을 겁니다!
-NPC-Persica(0)<Speaker>페르시카</Speaker>||:토론은 둘이서 실컷 하세요, 난 내내 뛰어다녀서 이제 진짜 못 움직이겠어...+가봐서 지원군 맞으면 데리러 와 줘요.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그래서, 어떡하겠나?
-NPC-Helian(0)<Speaker>헬리안</Speaker>||:......+크루거 님의 판단을 믿습니다.
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||:페르시카, 더미 AR팀을 가동하게. 다만 자네가 따라오지 않으면 이 더미들이 멀쩡하게 살아남을진 장담 못해.
-NPC-Persica(1)<Speaker>페르시카</Speaker>||:엑!? 아, 안 돼요! 얘네 컨트롤만큼은 절대 양보 못해!
-NPC-Kyruger(0)<Speaker>크루거</Speaker>||<黑点1>:전원, 돌파 준비! 우리의 지원군이 왔다!
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>393</BIN><BGM>GF_21summer_battle_4</BGM>:그리폰 기지, 지하 2층의 복도.+반란군 특전사 부대는 쓰러진 인형들의 잔해를 확인하며 지휘부장에게 상황을 보고했다.
+NPC-Soldier(0)<Speaker>특전사 대장</Speaker>||:지휘부장, 당측이 지하 2층에서 적 병력의 퇴각을 확인했다. 바닥에서 인간의 혈흔도 발견했지만, 최우선 목표는 아직 육안으로 식별되지 않았다.+현재 1개 인형 소대가 지하 3층으로 통하는 통로에서 게릴라전을 펼치고 있어, 돌파 방법을 강구 중이다.
+NPC-Soldier(0)<Speaker>특전사 지휘부장</Speaker><同时置暗>||:<color=#00CCFF>탄약 소모를 신경쓰지 말고 신속히 돌파하라. 반드시 크루거를 찾아내야 한다.</color>
+NPC-Soldier(0)<Speaker>특전사 대장</Speaker>||:알았다. 그리고 방금 D7 구역에서 인형 1기가 단독으로 움직이고 있다는 보고를 받았다.
+NPC-Soldier(0)<Speaker>특전사 지휘부장</Speaker><同时置暗>||:<color=#00CCFF>맛이 간 인형이 아무렇게나 돌아다니는 것이겠지.</color>+<color=#00CCFF>그래도 혹시 모르니 몇 명을 보내 확인하도록.</color>
+NPC-Soldier(0)<Speaker>특전사 대장</Speaker>||:알았다, 이상.
+()||<SE1>AVG_tele_disconnect</SE1><黑屏1>:통신을 종료한 뒤, 특전사 대장은 수신호로 부대를 전진시켰다.
+()||<黑屏2><BIN>419</BIN>:전력 차단 지점까지, 앞으로 570m.+전진, 전진... 토카레프는 홀로 어둠을 헤치며, 헬리안에게 전달받은 위치로 달려갔다.
+TT33(0)<Speaker>토카레프</Speaker>||:PPK, 응답 바람!
+TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>여기는 PPK, 수신 감도 양호~</color>
+TT33(0)<Speaker>토카레프</Speaker>;PPK(0)<通讯框>||:방금 폭발음이 들렸는데, 괜찮아요?
+TT33(0);mp443(0)<Speaker>MP443</Speaker><通讯框>||:<color=#00CCFF>그냥 적이 또 마구잡이로 폭격한 거야. 여긴 저 정도 가지곤 안 무너져.</color>
+TT33(0)<Speaker>토카레프</Speaker>;mp443(0)<通讯框>||:아직 무사하다니 다행이네요...
+TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>다만, 우리 방어선의 위치가 발각됐어.</color>
+PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>예상보다 좀 빠르게 말이야.</color>
+TT33(0)<Speaker>토카레프</Speaker>||:......
+Ribeyrolles(0)<Speaker>리베롤</Speaker><通讯框>||:<color=#00CCFF>발소리가... 가까워요...</color>
+PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>이따 다시 연락해, 이제 움직여야 하니까.</color>
+()||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
+TT33(0)<Speaker>토카레프</Speaker>||<黑点1>:제발... 모두 무사해야 돼요...!
+()||<黑点2><BIN>393</BIN>:방어선을 구축한 지 7분 16초...
+mp443(0)<Speaker>MP443</Speaker>||:잘하는 짓이다 PPK, 우리 상황을 그렇게 간단히도 말하고 말이야.
+PPK(0)<Speaker>PPK</Speaker>||:그럼 뭐라고 해? 당장에라도 펑펑 울 거 같은 토카레프한테, 우린 지금 탄약도 바닥났고 엄폐물도 거의 다 박살나서 우리 떨거지 셋이 육탄전 벌이기 직전이라고 이실직고할까?
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:......+제가 엄호할게요...
+mp443(0)<Speaker>MP443</Speaker>||:나도 근접전이야 해봤지, 그런데 대뜸 총 버리고 삽으로 싸우라니까 심리적으로 좀――
+()||:적 한 명이 폭발로 인한 먼지 구름을 뚫고 인형들의 방어선에 발을 내디뎠다.
+()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:촤악!!+장작을 패는 것처럼, MP443이 삽으로 상대의 목덜미를 내리쳤다.
+mp443(0)<Speaker>MP443</Speaker>||:――거부감이 들어서.
+PPK(0)<Speaker>PPK</Speaker>||:아직도 농담할 여유가 있다니, 너 보기보다 정신력이 강하구나.
+mp443(0)<Speaker>MP443</Speaker>||:......
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:적이 또 와요...
+mp443(0)<Speaker>MP443</Speaker>||:오라고 해, 다 썰어버리겠어.
+()||:PPK 일행은 다시 엄폐물 뒤에 조용히 숨어, 적들의 발걸음 소리에 귀를 기울였다.+MP443이 눈치를 보내자, 이를 읽은 리베롤은 천천히, 제일 앞의 엄폐물로 이동해 일차적으로 적의 머릿수를 줄이려 했다.
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:목표 파악 중...+조준... 사격 준비...
+()||<SE1>AVG_rifle_finalshot_h</SE1>:티잉!+총탄이 두꺼운 장갑에 튕겨 나갔다.
+mp443(0)<Speaker>MP443</Speaker>||:망할, 덩치가 왔네.
+PPK(0)<Speaker>PPK</Speaker>||:나한테 쓰려고 남겨 둔 수류탄인데... 그냥 써야겠네.
+()||:인형들은 하는 수 없이 최후의 수단으로 남겨 뒀던 무기를 꺼내 대응할 준비를 했다.
+()||<BGM>BGM_Empty</BGM>:그런데, 저 너머에서 들려오던 발소리가 멈췄다.
+mp443(0)<Speaker>MP443</Speaker>||:리베롤, 적은?
+Ribeyrolles(0)<Speaker>리베롤</Speaker>||:안 보여요...
+PPK(0)<Speaker>PPK</Speaker>||:......
+()||<BGM>10106</BGM>:세 인형이, 조심조심 엄폐물 밖으로 고개를 내밀어 보았다.
+()||<SE1>RunStep</SE1>:쿵...+쿵쿵쿵쿵——+그와 동시에, 발소리가 빨라졌다. 중장갑 군용 인형 하나가, 집속 수류탄을 한 아름 끌어안고 돌진해 오는 것이었다.
+PPK(0)<Speaker>PPK</Speaker>||:후퇴!! 빨리 뒤로——
+()||<SE1>AVG_Explo_Close</SE1><黑点1>:콰아앙——!!
+()||<BIN>15</BIN><黑点2>:전력 차단 지점까지, 앞으로 173m.
+()||<SE2>Gunfight</SE2>:타타탕!!+토카레프가 문기둥 뒤에 웅크려 적의 소사를 피했다.
+TT33(0)<Speaker>토카레프</Speaker>||:PPK, 저 발각됐어요. 헬리안 씨와도 연락이 닿질 않아요.
+TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>통신은 이쪽도 먹통이야. 너 아직 달릴 순 있지?</color>+<color=#00CCFF>괜한 생각 마, 그냥 신호 불량일 테니까.</color>
+TT33(0)<Speaker>토카레프</Speaker>;PPK(0)<通讯框>||:네, 전 괜찮아요. 잠시 발이 묶였을 뿐이에요.
+TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>놈들부터 따돌리도록 해. 안 그럼 네가 전원을 복구해도 놈들이 또 끊어버릴 거야.</color>
+TT33(0)<Speaker>토카레프</Speaker>;PPK(0)<通讯框>||:방법을 찾아볼게요...
+TT33(0)<Speaker>토카레프</Speaker>||:...그쪽은 괜찮아요?
+PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>우후훗, 그야 물론이지. 녀석들을 아주 가지고 놀고 있다고.</color>
+TT33(0)<Speaker>토카레프</Speaker>||:그렇다니 다행이네요...
+PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>다음 정기 연락 때 보자.</color>
+()||<SE1>AVG_tele_disconnect</SE1>:PPK가 통신을 종료했다.+그녀의 말에 기운을 얻은 듯, 토카레프는 용기를 내어 문기둥을 넘어 창문을 뚫고 도망쳤다.
+()||<SE2>Gunfight</SE2><黑点1>:타타타탕——+매섭게 날아드는 총탄들이, 그녀를 스쳤다.
+()||<黑点2><BIN>393</BIN><BGM>BGM_Empty</BGM>:방어선을 구축한 지 9분 23초...
+mp443(0)<Speaker>MP443</Speaker>||<BGM>GF_21summer_intro_DemonVariation</BGM>:......
+PPK(0)<Speaker>PPK</Speaker>||:딴지 안 걸어?
+mp443(0)<Speaker>MP443</Speaker>||:내가 지금 딴지 걸 기운이 있어 보여...?
+()||:PPK는 다리 한 짝만 남은 MP443을 질질 끌면서 2차 방어선으로 이동했다.+톰슨이 그들을 위해 남겨 뒀던 인형들은 이미 폭격에 당했고, PPK는 희생된 인형들의 잔해에서 얼마 남지 않은 탄약을 회수했다.
+PPK(0)<Speaker>PPK</Speaker>||:결국 의지할 건 자신뿐이라니까.
+PPK(0);mp443(0)<Speaker>MP443</Speaker>||:리베롤의 유품은... 뭐 건졌어...?
+PPK(0)<Speaker>PPK</Speaker>;mp443(0)||:......+아니. 폭발이 너무 가까워서 아무것도 안 남았어.
+PPK(0);mp443(0)<Speaker>MP443</Speaker>||:휴대품 정리하라 할 때 그냥 돌멩이 하나만 남겨 둘걸...+그럼 너한테 내 유품 대신 줄 수 있었을 거 아니야.
+PPK(0)<Speaker>PPK</Speaker>;mp443(0)||:됐거든? 어차피 우리 모두 못 돌아가.+게다가, 다음에 우리가 눈 뜨면 이 기억이 있겠어?
+PPK(0);mp443(0)<Speaker>MP443</Speaker>||:그럼... 우릴 기억해 줄 사람은 아무도 없어...?
+PPK(0)<Speaker>PPK</Speaker>;mp443(0)||:없어, 그라치. 지금 여기의 우리가 사라지면, 여기서 무슨 일이 있었는지 아무도 모르게 돼.
+PPK(0);mp443(0)<Speaker>MP443</Speaker>||:우와아, 끔찍해... 이보다 더 끔찍해질 수 있을까...
+PPK(0)<Speaker>PPK</Speaker>;mp443(0)||:......+그야 물론 더 끔찍해질 수 있지. 네가 먼저 가버리면 나 혼자 버텨야 한다는 걸 잊지 마.
+PPK(0);mp443(0)<Speaker>MP443</Speaker>||:PPK... 너 의외로 사람 다독일 줄 아는 애였구나.
+mp443(0)<Speaker>MP443</Speaker>||:나 가기 전에 "카추샤" 한 곡 불러 줄래?
+PPK(0)<Speaker>PPK</Speaker>||:미안하지만 난 "에리카"밖에 몰라서.
+mp443(0)<Speaker>MP443</Speaker>||:그것도 상관없어, 죽기 직전인데 가릴 게 뭐 있다고.
+()||<SE1>AVG_Explo_Distance</SE1>:콰앙——!!+적의 폭격이 더욱 가까워졌고, 1차 방어선은 이미 초토화된 상태였다.
+PPK(0)<Speaker>PPK</Speaker>||:황야에 작은 꽃 한 송이가 피어있는데♪+그 꽃은 에리카라 하네♪
+()||:포성 속에서 부르는 PPK의 노래는 어렴풋이 들렸고, 왠지 진지함이 부족하게 들렸다.
+PPK(0)<Speaker>PPK</Speaker>||:10만 마리의 자그마한 꿀벌들로부터♪+열렬하게 모여드는 것은 에리카라네♪
+()||<黑点1>:포성과 발소리는 이제 들리지 않았고, PPK의 떨리는 노랫소리만 남았다. MP443은 삽을 꾹 쥐고, 얼굴에 미소를 띄었다.
+()||<黑点2><BIN>15</BIN>:전력 차단 지점.+ 토카레프는 떨리는 손으로 끊어진 전력 공급선을 수리했다.+저 뒤에선 적의 발소리가 점점 더 가까워졌고, 당장에라도 저 모퉁이를 돌아 놈들이 튀어나올 것만 같았다.
+TT33(0)<Speaker>토카레프</Speaker>||:PPK, 저 거의 다 됐어요!
+TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>얼마나 더 걸려?</color>
+TT33(0)<Speaker>토카레프</Speaker>;PPK(0)<通讯框>||:37초요!
+TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>더 서둘러.</color>
+TT33(0)<Speaker>토카레프</Speaker>;PPK(0)<通讯框>||:지금 이게 최대한 빨리하는 거예요!+...PPK? 목소리가 좀 이상하게 들리는데요?
+TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>허스키하게 들려, 아님 섹시하게 들려?</color>
+TT33(0)<Speaker>토카레프</Speaker>;PPK(0)<通讯框>||:......+농담하지 말고, 정말 괜찮은 거 맞아요? 왠지 리베롤과 그라치의 목소리도 못 들은 지 꽤 된 거 같은데...
+TT33(0);PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>토카레프는 나랑 얘기하기 싫어?</color>
+TT33(0)<Speaker>토카레프</Speaker>PPK(0)<通讯框>||:아니, 그런 게 아니라요! PPK랑 계속 얘기할 수 있어서, 얼마나 다행인데요...
+TT33(0)<Speaker>토카레프</Speaker>||:아니었으면, 저... 진작에 무너졌을 거예요...
+PPK(0)<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>미안해.</color>
+TT33(0)<Speaker>토카레프</Speaker>||:네?
+()<Speaker>PPK</Speaker><通讯框>||:<color=#00CCFF>어울려 주는 건 여기까지.</color>
+TT33(0)<Speaker>토카레프</Speaker>||:PPK? 왜 그래요?
+()||:전원 공급선의 수리가 끝나, 전력이 복구됐다.
+()<Speaker>PPK</Speaker><通讯框>||<BGM>BGM_Empty</BGM>:<color=#00CCFF>토카레프, 뛰어. 뒤돌아보지 말고 뛰어.</color>
+TT33(0)<Speaker>토카레프</Speaker>||:PPK?!
+()||<SE1>AVG_Explo_Distance</SE1>:콰앙――!!! 거대한 폭음이 토카레프의 귀를 때렸다.
+TT33(0)<Speaker>토카레프</Speaker>||<震屏>:...PPK!!!
+NPC-Soldier(0)<Speaker>특전사 대원1</Speaker>||<BGM>10082</BGM>:이쪽이다!
+()||<SE2>Gunfight</SE2>:타타타탕——!+토카레프가 길모퉁이 뒤로 몸을 굴리기가 무섭게, 적의 총탄이 그녀의 귓가를 스쳤다.
+NPC-Soldier(0)<Speaker>특전사 대원2</Speaker>||:수류탄 던져! 엄폐에서 끌어내서 쏴라!
+TT33(0)<Speaker>토카레프</Speaker>||:<color=#A9A9A9>큰일이야, 이쪽으로 수류탄을 던지면 전원이 다시 끊기는 것만으로 끝나지 않을 거야...</color>+<color=#A9A9A9>헬리안 씨와 호위 팀은 그렇게 무거운 서버를 끌고 계단을 탈 수도 없을 테고...</color>+<color=#A9A9A9>어떻게든 놈들을 딴 방향으로 유인해야 해!</color>
+()||<SE1>AVG_pistol_finalshot_n</SE1><SE1>RunStep</SE1>:타타탕!!+결심한 토카레프가 반격하며 엄폐물 밖으로 뛰어나와, 전원 공급선과 반대 방향으로 내달렸다.
+NPC-Soldier(0)<Speaker>특전사 대원1</Speaker>||:놓치지 마라!
+NPC-Soldier(0)<Speaker>특전사 대원2</Speaker>||:쏴라!
+TT33(0)<Speaker>토카레프</Speaker>||:......
+()||<SE1>AVG_Gunfire</SE1>:탄창의 마지막 탄환으로 적을 주춤하게 만들면서, 토카레프는 문 뒤로 몸을 던졌다.+하지만 수류탄 하나가, 그녀를 앞질렀다.
+()||<SE1>AVG_Explo_Close</SE1>:퍼엉——!
+TT33(0)<Speaker>토카레프</Speaker>||:큭...!
+()||:충격에 시야가 흐려졌지만, 소체의 상태를 점검할 겨를이 없었다. 전원 공급선으로부터 멀어져야 했다.
+TT33(0)<Speaker>토카레프</Speaker>||:<color=#A9A9A9>헬리안 씨에게 최대한 시간을 벌어 줘야 해...</color>+<color=#A9A9A9>모두의 희생을 절대 헛되이 할 수 없어...!</color>
+NPC-Soldier(0)<Speaker>특전사 대원1</Speaker>||:목표가 계속 이동한다!
+NPC-Soldier(0)<Speaker>특전사 대원2</Speaker>||:비켜, 하나 더 던진다!
+()||<SE1>AVG_Explo_Close</SE1>:콰앙!!+이번엔 폭발이 바로 뒤에서 터져, 중심을 잃은 토카레프는 한참을 바닥에 나뒹굴었다.+적들은 피 냄새를 맡은 늑대처럼 쫓아오고 있었다.
+NPC-Soldier(0)<Speaker>특전사 대원1</Speaker>||:저놈...
+NPC-Soldier(0)<Speaker>특전사 대원2</Speaker>||:피해! 아직도 총을 가졌다!
+()||<SE2>Gunfight</SE2>:타탕——!+흐릿한 시야 속에서, 토카레프는 뭔가가 떨어져 나가는 것이 보이는 듯했다.+간신히 눈의 초점을 조절해 보니, 그건 총을 쥐고 있던 자신의 팔이었다.
+()||<黑屏1>:영원한 어둠이 찾아와, 토카레프의 눈꺼풀을 짓눌렀다.
+()<Speaker>토카레프</Speaker>||<黑屏2><BIN>9</BIN><BGM>BGM_Empty</BGM>:저도... 지금 갈게요...
+()||<SE1>AVG_Punch_Hit</SE1><黑屏1>:그때, 그 어둠을 뚫고 차가운 손 하나가 그녀의 뺨을 어루만졌다.
+()||<睁眼><BIN>15</BIN>:무거운 눈꺼풀을 간신히 들어올린 토카레프의 눈에, 웃음기 가득한 PPK의 얼굴이 보였다.
+TT33(0)<Speaker>토카레프</Speaker>||:PPK...
+PPK(0)<Speaker>PPK</Speaker>||<BGM>GF_21summer_avg_Demon</BGM>:일어나, 이 바보야. 우리 모두 널 지켜보고 있어.
+TT33(0)<Speaker>토카레프</Speaker>||:모두들...
+()||:PPK의 얼굴이 허공에 흩어졌다.+그리고 토카레프는 마치 저 빛을 따라잡으려는 듯, 귀신에 홀린 듯 다시 일어나 절뚝거리며 앞으로 나아갔다.
+NPC-Soldier(0)<Speaker>특전사 대원1</Speaker>||:뭐 저딴 괴물이 다 있어!?
+()||<SE2>Gunfight</SE2>:타타탕!!+그 소리에 다리의 반응을 잃었다. 토카레프의 몸뚱이는 철렁하는 감각과 함께 다시 단단한 바닥으로 고꾸라졌다.+눈앞의 어둠이 소용돌이쳤고, 토카레프의 마인드맵도 거기에 빨려드는 듯했다.
+NPC-Soldier(0)<Speaker>특전사 대원2</Speaker>||:접근하지 마라, 이 인형들 근접전에 도가 텄어. 수류탄 하나 더 던져서 처리해.
+()||<黑屏1>:차가운 바닥에 닿은 귀를 통해, 적들이 다가오는 소리가 토카레프의 마음을 두들겼다.+오류일까 장난일까, 이 순간 토카레프의 마인드맵은 지금과 아무 상관 없는 일을 떠올렸다.+끝이 다가온 그녀의 눈을 가려 주는 것처럼.
+()||<黑屏2><回忆><BIN>9</BIN>:같은 날의 조금 이른 저녁 시간, 창고에서 필요한 물건을 찾던 도중.
+mp443(0)<Speaker>MP443</Speaker>||:어라? 내가 이거 여기다 뒀었구나~
+TT33(0)<Speaker>토카레프</Speaker>||:그게 뭐예요?
+mp443(0)<Speaker>MP443</Speaker>||:로봇견의 잔해야.
+PPK(0)<Speaker>PPK</Speaker>||:엑... 그런 건 왜 갖고 있어요?
+mp443(0)<Speaker>MP443</Speaker>||:그냥 로봇견이 아니야, 뉴스에 나온 로봇견이지!+자기 주인을 구하려고, 한 치의 망설임 없이 몸을 던져 폭탄을 막았대.
+TT33(0)<Speaker>토카레프</Speaker>||:아하... 충성심의 상징이군요.
+mp443(0)<Speaker>MP443</Speaker>||:에이, 그렇게 시시한 이유로 수집한 게 아니지~+인형인 우리는 그 존재 자체가 무기란 걸, 나 스스로에게 일깨우기 위해서야.+어느날 어딘가에서 싸우던 우리가 무기와 탄약을 몽땅 잃더라도, 아직 내겐 이 몸뚱이가 있다! 하면서 마지막 순간까지 싸울 용기를 잃지 말자는 뜻이지.
+WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||<黑屏1>:말 잘했다, 그라치!
+()||<黑屏2><BIN>15</BIN><关闭蒙版>:박수 소리가 토카레프의 정신을 다시 현실로 끌어냈다.+옆으로 고개를 돌린 토카레프의 눈에, 만신창이인 웰로드가 적들 사이로 걸어가, 수류탄을 꺼내는 병사 옆에 섰다.+흔들리는 그녀의 시선에, 적의 모습은 점점 웰로드와 겹쳐 보였다.
+TT33(0)<Speaker>토카레프</Speaker>||:웰로드...
+()||:눈물에 앞이 흐려졌다.
+WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||:..."순순히 저 어두운 밤을 받아들이지 말라."
+TT33(0)<Speaker>토카레프</Speaker>||:...스러져 가는 이여, 저무는 날에 맞서 소리치고 격노하라.
+()||:이제 토카레프의 눈엔 웰로드의 모습만이 남았다.+적이 있다는 것도 잊고, 계속해서 들려오는 포성도 잊고, 자신마저 잊었다.
+WelrodMod(0)<Speaker>웰로드MkⅡ</Speaker>||:"격노하라."
+()||:그녀의 마인드맵엔 단 한 줄의 명령어만 남았다.+달려라.+<size=40>달려라!</size>+<size=50>앞으로 달려!!</size>
+()<Speaker>MP443</Speaker>||:인형인 우리는 그 존재 자체가 무기야.
+()<Speaker>PPK</Speaker>||:어울려 주는 건 여기까지.
+()<Speaker>리베롤</Speaker>||:맡겨 주세요...
+TT33(0)<Speaker>토카레프</Speaker>||<震屏>:<size=50>으아아아아아아!!!</size>
+()||<SE1>RunStep</SE1>:야수와 같은 포효에 특전사들이 흠칫했고, 토카레프는 괴물 같은 자세로 내달렸다.+웰로드와의 거리가 좁혀지고, 끝내 토카레프는 웰로드를 껴안았다.+토카레프에게, 하늘 끝까지 울려 퍼지는 웰로드의 목소리가 들렸다.
+()<Speaker>웰로드MkⅡ</Speaker>||:<size=50>"꺼져 가는 빛에 격노하라!!!"</size>
+()<Speaker>토카레프</Speaker>||:<size=50>이야아아아아아압!!!</size>
+()||<黑屏1>:토카레프는 그대로, 수류탄의 안전 손잡이를 놓은 적을 덮쳤다.
+()||<黑屏2><SE1>AVG_Explo_Close</SE1><BIN>9</BIN><黑屏1><BGM>BGM_Empty</BGM>:콰앙——
+()||<黑屏2><BIN>412</BIN><SE1>AVG_20Winter_Open_Light</SE1>:사무실로 돌아온 비서가 전등의 스위치를 켰다.
+()<Speaker>비서</Speaker>||<BGM>BGM_Sneak</BGM>:국장님? 왜 불을 끄고 계십니까?
+NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:지도를 보고 있었다.
+()||:눈앞의 홀로그램 지도를 응시하던 젤린스키는 홀로그램을 끄며 비서에게 고개를 돌렸다.
+NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:새로운 소식인가?
+NPC-Zielinski(0)<Speaker>비서</Speaker><同时置暗>||:네. 일부 군사기지의 반역 혐의가 해제되었습니다. 그들도 이제 언제든지 동원 가능합니다.
+NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:소란도 해결됐고?
+NPC-Zielinski(0)<Speaker>비서</Speaker><同时置暗>||:네, 원인이 밝혀졌습니다.+누군가 국방부의 중추 시스템을 교란해, 내부에서 허위 지시를 퍼뜨렸습니다.+대다수의 부대가 이 허위 지시를 받고 움직인 것이었습니다.+현재 일부 기지가 시스템의 통제권을 되찾아, 오프라인으로 복구 작업을 진행 중입니다.
+NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:웃음거리가 될 일이군... 군의 시스템을 공원처럼 들락날락하다니.+어쨌든 이것으로 우리 군에게 많은 문제가 존재한다는 것이 증명됐어.+다행히 주도권도 우리 손 안에 있고.
+()||:젤린스키는 고개를 저으며 의자에서 일어났다.
+NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||:현재 상황을 상층부에게 보고해라.
+NPC-Zielinski(0)<Speaker>비서</Speaker><同时置暗>||:네.
+()||:그리고 젤린스키는 다시 자리에 앉아, 홀로그램 지도를 다시 켜 심각한 표정으로 주시했다.
+NPC-Zielinski(0)<Speaker>젤린스키</Speaker>||<黑屏1>:폭풍이 다가오는구나...
+()||<黑屏2><BIN>47</BIN><SE1>AVG_Gunfire</SE1><BGM>BGM_Empty</BGM>:타타타탕——!!+콰앙!!+콰앙——!!+끝도 없이 쏟아지는 적의 화력이 헬리안 일행을 궁지로 몰았다. 지금 그들은 엘리베이터 앞을 지키며 전원이 복구되기만을 기다리는 중이었다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:토카레프!
+NPC-Persica(3)<Speaker>페르시카</Speaker>||:통신이 끊어져서 연락이 안 돼...
+()||<SE1>AVG_Explo_Close</SE1><火花><BGM>GF_21summer_avg_Demon</BGM>:콰아앙!!+적은 무작정 돌입하지 않고, 포격으로 상대를 끌어낼 심산이었다.+포화 세례에 인형들 주위의 불길은 점점 더 거세졌고, 사방이 연기로 가득찼다.
+NPC-Persica(3)<Speaker>페르시카</Speaker>||:어떻게든 좀 해 봐, 이러다 내 실험 기구들까지 다 작살나겠어!
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:톰슨... 방어선을 구축해라. 놈들의 접근을 막아...
+M1928A1(0)<Speaker>톰슨</Speaker>||:라저!
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:크루거 님...
+()||:헬리안은 중상을 입은 크루거를 부축했다.
+NPC-Helian(1)<Speaker>헬리안</Speaker>||:크루거 님, 조금만 더 버티십시오!
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:울지 말게, 헬리안... 오늘은 본디 기쁜 날 아니었나...
+NPC-Helian(1)<Speaker>헬리안</Speaker>||:기쁘긴 뭐가 기쁩니까! 최악도 이런 최악이 없습니다!
+()||:크루거가 부들거리는 손을 들더니, 코트의 안주머니를 뒤졌다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:뭘 찾으십니까? 대신 꺼내드리겠습니다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:아니... 이것만큼은 내가 직접 주고 싶어...
+()||<SE1>AVG_20Winter_Book</SE1>:잠시 후, 크루거의 손이 피로 얼룩진 편지 봉투를 헬리안에게 건넸다.+소박하고 간결한 통지서였다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:"친애하는 헬리안 귀하."+"그리폰&크루거 안전계약사는 귀하에게 종신 계약을 제안하는 바, 이를 진심으로 기쁜 마음으로 통지해드립니다."+"종신 계약 시작일은, 이 통지서를 받는 오늘부터 평생토록입니다."+이건... 
+NPC-Helian(0);NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그리폰이 존재하는 한... 자네는 우리가 지켜 주겠네.+자네에게 평생 기댈 수 있는 곳이 되어서 말이야...+그럼... 억지로라도 소개팅 나갈 필요도 없겠지? 하하하...
+NPC-Helian(0)<Speaker>헬리안</Speaker>;NPC-Kyruger(0)||:......
+NPC-Helian(1)<Speaker>헬리안</Speaker>||:크루거 님은 "평생"이라 단어를 싫어하시는 줄 알았습니다. 입사 당시 그것 때문에 한소리 듣기까지 했어요.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||<黑屏1>:하하... 그랬나...?
+()<Speaker>헬리안</Speaker>||<黑屏2><回忆><BIN>9</BIN>:헬리안투스, 신고합니다. 금일부로 크루거 님의 대리인직을 맡게 되었습니다.
+()<Speaker>크루거</Speaker>||:그래, 내 신뢰가 틀리지 않았길 바라지.
+()<Speaker>헬리안</Speaker>||:평생토록 그 신뢰에 부응하겠습니다.
+()<Speaker>크루거</Speaker>||<黑屏1>:어허, 신참. "평생"이란 함부로 써도 되는 말이 아니야.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||<黑屏2><关闭蒙版><BIN>47</BIN>:자네는... 행동으로 자신의 가치를 증명해 보였어...+덕분에, 나도 평생이란 시간을 뜻하는 게 아니란 걸 깨달았네... 평생이란...
+()||:크루거는 묵묵히 자신의 심장을 가리켰다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:......
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:정말 최악의 타이밍일지도 모르겠네만... 오늘 아님 언제 말해 주겠나.+입사 10주년 축하하네, 헬리안.+깜짝 파티도 준비했는데... 아쉽게도 다 망쳐버렸군.
+NPC-Helian(1)<Speaker>헬리안</Speaker>||:크루거님... 너희들도...?
+()||:그 말에, 헬리안은 놀란 얼굴로 인형들을 돌아봤다.
+NTW20Mod(0)<Speaker>NTW20</Speaker>||:미안하다, 헬리안. 케이크도 다 박살이 났다...
+M1928A1(0)<Speaker>톰슨</Speaker>||:마담 몰래 파티장 꾸미느라 우리가 얼마나 고생했는 줄 알아? 그런데 그 XX들이 싹 다 날려버렸으니 원...
+NPC-Helian(1)<Speaker>헬리안</Speaker>||:...고마워.+너희와 함께할 수 있는 것만으로, 난 충분해...
+()||:적이 불타는 잔해로 파묻힌 통로를 파헤치는 소리가 들리자, 헬리안은 그들이 여기까지 들이닥치는 것도 시간문제임을 깨달았다.+눈물이, 매연에 검게 그을린 얼굴을 타고 떨어졌다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:......+만약 오늘이 마지막 날이더라도...
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:...우린 끝까지 싸워야 해.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:크루거 님...
+()||:크루거가 몸을 일으키려 했지만, 부상이 심해 힘을 줄 때마다 등의 상처가 흉측하게 벌어졌다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:우린... 아직 지지 않았어.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:......
+NPC-Persica(1)<Speaker>페르시카</Speaker>||:크루거 씨, 제발 가만 있어요!
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:안 돼... 이대로 포기해서는 안 된다...
+()||:헬리안도 크루거를 말리며 상처가 더 벌어지지 않도록 그를 눕히려 했지만, 그는 안간힘을 쓰며 몸을 일으켜 세우려 했다.+벌어진 상처에서 흐르는 피가, 헬리안의 팔을 타고 떨어졌다.
+NPC-Helian(1)<Speaker>헬리안</Speaker>||:크루거 님... 위험합니다, 제발...
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:비켜!
+()||<BGM>BGM_Empty</BGM><SE1>AVG_Water_Drip</SE1>:그의 고함에 고개를 떨군 헬리안의 눈물도 바닥에 떨어졌다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||<SE1>AVG_Fighter_Passby</SE1>:......
+()||:크루거는 다시 바닥에 앉아, 길게 한숨을 내쉬었다.+인형들도 모여들었지만, 입을 열진 않았다.
+()||:쿠구궁...+계속되는 폭발에, 바닥이 요람처럼 흔들렸다.
+M1928A1(0)<Speaker>톰슨</Speaker>||:...폭격기?
+()||<BIN>46</BIN>:그때, 전력망이 복구되어 엘레베이터에 다시 불이 들어왔다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||<BGM>GF_21summer_battle_4</BGM>:그 애들... 성공했구나!+토카레프? MP443! PPK! 리베...
+()||:황급히 지휘 태블릿을 확인했지만, 그녀들의 위치를 표시하던 반점은 더는 반짝이지 않았다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그녀들의 희생도 헛되이 해선 안 되네... 전진해야 해...
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:먼저 지하 3층으로 돌아가죠. 크루거 님의 치료가 급선무입니다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:아니... 더 위로 올라간다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:예?!
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:저건 폭격기 소리다.+우리의 지상 건물은 진작에 전부 파괴됐어... 그런데 폭격기가 날아와 폭격했다는 건, 우릴 노린 게 아니란 뜻이다. 우리의 지원군이야.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:하, 하지만 그게 아니라면 우린 끝장입니다! 다시 퇴각할 수도 없을 겁니다!
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:토론은 둘이서 실컷 하세요, 난 내내 뛰어다녀서 이제 진짜 못 움직이겠어...+가봐서 지원군 맞으면 데리러 와 줘요.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그래서, 어떡하겠나?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:......+크루거 님의 판단을 믿습니다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:페르시카, 더미 AR팀을 가동하게. 다만 자네가 따라오지 않으면 이 더미들이 멀쩡하게 살아남을진 장담 못해.
+NPC-Persica(1)<Speaker>페르시카</Speaker>||:엑!? 아, 안 돼요! 얘네 컨트롤만큼은 절대 양보 못해!
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||<黑点1>:전원, 돌파 준비! 우리의 지원군이 왔다!

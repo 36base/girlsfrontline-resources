@@ -1,0 +1,59 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>578</BIN>:하루의 수고를 마치고 당신은 저택에 돌아왔다.+이제 고작 며칠 묵은 곳이지만, 이 낯선 세상에서 당신에게 가장 집에 가까운 곳이었다.
+()||<SE1>AVG_footsteps_woodfloor</SE1>:당신은 몸의 짐덩이들을 풀어헤치고 따뜻한 물에 몸을 푹 담그고 피로를 풀려고 했다.
+()||<SE1>Stop_AVG_loop</SE1><SE2>AVG_20Winter_Door_Open</SE2>:욕실 앞까지 와서 문을 열려는 순간 문이 저절로 열렸다.
+NPC-Sakura(8)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale><GradientShow>1</GradientShow>||<BGM>m_wv_title</BGM>:우와와와왓 지지지휘과아안!!?
+NPC-Sakura(8)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale><GradientHide>1</GradientHide>||:아아아아아무것도 아니에요!!!
+()<Speaker>지휘관</Speaker>||:？
+()||<SE1>AVG_20Winter_Door_Close</SE1>:쿵 소리와 함께 문이 다시 닫히고, 그림자가 눈깜짝할 사이에 눈앞을 스쳐지나갔다.+잠깐, 방금 그거 사쿠라 맞지?+왜 나를 보고 그런 반응을 보일까? 혹시 프랑슈슈한테 무슨 일이 생긴 것일까? 아니면 내가 모르는 다른 사정이...+안 되겠다, 꼭 가서 확인해야겠어!
+()||<黑屏1>:
+()<Speaker>지휘관</Speaker>||<黑屏2><BIN>9</BIN>:저기... 사쿠라!+사쿠라! 미나모토 사쿠라!!
+()||:고래고래 외쳐봐도 아무 소용이 없었다.
+()||<SE1>AVG_footsteps_woodfloor</SE1>:지나간 길은 온통 깜깜하고, 주변은 매우 조용해 자신의 숨소리와 발소리만 들렸다.
+()<Speaker>지휘관</Speaker>||<SE1>Stop_AVG_loop</SE1>:전기를 왜 이렇게 다 끄고 다니지? 카리나도 이 정도로 아끼진 않는데...+응?
+()||:발목에 뭔가 걸렸다, 뭔가 단단한 물건을 찬 것 같았다.+한 번 더 차볼까?
+()<Speaker>？？</Speaker>||<SE1>AVG_XXS_kick</SE1>:으극...
+()<Speaker>지휘관</Speaker>||:......
+()||<SE1>ClothingUp</SE1>:당신은 벽을 짚으며 쪼그려 앉아서, 바닥을 더듬어 굴러다니는 그 복슬복슬하면서도 딱딱한 구형 물체에 손이 닿았다.+대충 무엇인지 짐작한 당신은 천천히 입을 열었다.
+()<Speaker>지휘관</Speaker>||:사쿠라야... 너희가 좀비인 건 이미 알고 있지만, 나는 아직 그냥 인간이란 말이지...+그러니까 허구한 날 머리를 바닥에 굴리고 다니지 말아주겠니? 불을 키든 안 키든 무섭단 말이야...
+()<Speaker>미나모토 사쿠라</Speaker>||:지는 사꾸라 아닙네다...
+()<Speaker>지휘관</Speaker>||:...그럼 누군지 보게 불 켠다?
+()<Speaker>미나모토 사쿠라</Speaker>||:그만 그만 그만! 제, 제 몸이 온 다음에요!+아무, 아무튼! 전 신경쓰지 마세요!
+()<Speaker>지휘관</Speaker>||:아니, 오늘 이야기를 확실히 하지 않으면, 이대로 네 머리를 들고 갈 거야.
+()<Speaker>미나모토 사쿠라</Speaker>||:그, 그럼... 좀 거리를 두고 얘기해요!
+()<Speaker>지휘관</Speaker>||:왜?
+()<Speaker>미나모토 사쿠라</Speaker>||:......+다 지휘관을 위해서예요!
+()<Speaker>지휘관</Speaker>||:응?
+()||<SE1>AVG_Creep</SE1>:사쿠라의 몸이 바닥을 더듬으며 기어와서 당신의 품에서 자기 머리를 받아갔다.
+()||<SE1>Stop_AVG_loop</SE1><SE2>AVG_20Winter_Open_Light</SE2><黑屏1>:그리고 불을 켰다.
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<BGM>BGM_Empty</BGM><黑屏2><BIN>578</BIN>:큼큼... 지휘관, 이 며칠간 자꾸 재수 없는 일이 생기지 않았어요?
+NPC-Sakura(10)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:...굳이 말한다면, 너희를 만난 그날부터 재수가 없었지.
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:......
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<BGM>BGM_Saga_AVG_Dusk</BGM>:그, 그럼! 더 이상 재수 없어지면 안 되겠죠?
+()||:사쿠라가 쓴웃음을 지었다.
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:지휘관은... 원래 세계로 꼭 돌아가고 싶죠?
+NPC-Sakura(10)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:당연하지.
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:그러니, 이번 콘서트는 절대 실패해선 안 돼요.
+NPC-Sakura(10)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:응, 알고 있어. 그래서 노력할 거야.
+NPC-Sakura(11)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:아뇨! 지휘관은 몰라요!+만약, 만약 계속 저랑 같이 있으면 더 안 좋은 일이 생길 수 있다고요.
+NPC-Sakura(11)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:왜 그렇게 말하는데?
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:전... 전 항상 운이 없어요.+노력하면 할수록 결과는 오히려 처참했어요.+저의 이런 체질이 지휘관한테까지 영향을 줄지도 몰라요.+저... 저 때문에 지휘관이 원래 세계로 못 돌아가거나 해선 안 되잖아요.+그러니까, 저한테서 좀 떨어지세요.
+NPC-Sakura(10)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:...그럼 너랑 다른 멤버는?
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:...다른 애들은 제 불행 체질에 이미 익숙해졌어요.+그리고 다른 애들도 다... 죽은 몸이잖아요. 아마 신경 안 쓰는 걸 거예요.+하지만 지휘관은 아니잖아요, 저한테 불행이 옮으면 안 돼요.
+NPC-Sakura(10)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:...하지만 난 행운에 기대는 사람이 아닌걸.
+NPC-Sakura(8)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:네?
+NPC-Sakura(8)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:나도 사쿠라처럼 재수에 옴이 붙은 사람이거든.+혹은 이렇게 말할 수 있지, 그 전란의 시대에 태어난 사람은 모두가 불행해.
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:......
+NPC-Sakura(10)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:그래서 난 운 같은 걸 안 믿어.+내가 정말 운이 좋다면 이런 인생을 살지도 않았을 테니까.
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:지휘관... 그래도 전...
+NPC-Sakura(10)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:하지만 난 쉽게 포기하지 않아.+운이 꽝이라면 오직 100%의 노력으로 해결할 수밖에 없으니까.+사쿠라처럼, 남이 나한테 무슨 태도를 보이든, 남이 공연을 어떻게 보든 신경 안 써.+너는 언제나 연습하고 있잖아... 언제나 누구보다 노력하고 있잖아.
+NPC-Sakura(8)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:아... 봤어요?
+NPC-Sakura(8)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:응, 처음부터 널 지켜봤으니까.
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:저... 저도 지휘관을 계속 지켜봤어요. 부디 무사히 원래 세계로 돌아갈 수 있길 바라면서.
+NPC-Sakura(10)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:나도 프랑슈슈가 공연을 성공적으로 해내길 바라고 있어.+그렇다고 나한테 멀리 떨어지라는 말은 더이상 하지 마. 따지고 보면 우리 둘 다 불운 체질인 거야, 오히려 내 불행이 너한테 옮을지도 모른다?
+()||:푸흡. 사쿠라가 웃음 소리를 냈다.
+NPC-Sakura(9)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:그럼, 둘이서 같이 불행에 시달리자고요.
+NPC-Sakura(9)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:그래.
+NPC-Sakura(9)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:그리고 함께 노력해요!
+NPC-Sakura(9)<Speaker>지휘관</Speaker><Position>0,-270</Position><Scale>1.27</Scale><同时置暗>||:물론이지!
+()||<黑点1>:사쿠라의 미소가 당신에게 옮은 것인지, 당신의 입꼬리마저 저절로 올라갔다.

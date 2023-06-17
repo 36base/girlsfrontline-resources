@@ -1,0 +1,50 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BGM>GF_EV9_Story</BGM><BIN>446</BIN>:...아베르누스, 동탑. 나선 계단.
+AN94MOD(0)<Speaker>AN94</Speaker>||:정말... 그리 할 건가?
+AN94MOD(0);NPC-Koleda(0)<Speaker>콜레다</Speaker><通讯框>||:<color=#00CCFF>이미 그러기로 결정했어.</color>+<color=#00CCFF>아직 해야 할 일이 잔뜩이야, 너희도 꾸물거릴 시간 없어.</color>
+AN94MOD(0)<Speaker>AN94</Speaker>;NPC-Koleda(0)<通讯框>||:......
+AN94MOD(0);NPC-Koleda(0)<Speaker>콜레다</Speaker><通讯框>||:<color=#00CCFF>이 건물을 내부에서부터 최대한 파괴해야 해. 그래야만 무로메츠 작전으로 패러데우스를 박멸할 길이 열려.</color>+<color=#00CCFF>잊지 마. 안젤리아든 지휘관이든, 목적은 만악의 근원을 붙잡는 거니까..</color>
+AN94MOD(0)<Speaker>AN94</Speaker>;NPC-Koleda(0)<通讯框>||:...알았다.
+NPC-Koleda(0)<Speaker>콜레다</Speaker><通讯框>||:<color=#00CCFF>은엄폐 주의하고, 연락 유지해.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신 종료.
+AN94MOD(0)<Speaker>AN94</Speaker>||:가자, AK-15.
+AK15MOD(0)<Speaker>AK15</Speaker>||:......
+()<Speaker></Speaker>||:AK-15가 대답 대신 전방 복도의 모퉁이를 주시하며 천천히 총구를 들었다.+AN-94도 묻지 않고 함께 그 방향을 경계했다.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:불규칙한 발소리가 점점 가까워졌고, 울프팩은 언제든지 방아쇠를 당길 준비를 했다.
+M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||:RO... 어딨어...
+AK15MOD(0)<Speaker>AK15</Speaker>||:......!
+AN94MOD(0)<Speaker>AN94</Speaker>||:SOP2?!
+()<Speaker></Speaker>||:소체가 말 그대로 걸레짝인 SOP2는 눈을 뜨고도 AN-94와 AK-15가 전혀 보이지 않는 듯했다.
+AK15MOD(0)<Speaker>AK15</Speaker>||:왜 우리를 무시하지? 그녀의 행동 패턴에 맞지 않는다.
+AN94MOD(0)<Speaker>AN94</Speaker>||:SOP2? 응답해라.
+M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||:금방... 갈게에...
+()<Speaker></Speaker>||:SOP2는 초점 없는 눈으로 절뚝이며 그냥 계속 움직였고, 기둥 같은 AK-15에게 툭 부딪히고도 그저 옆으로 비키기만 했다.
+AN94MOD(0)<Speaker>AN94</Speaker>||:상태가 이상해...
+AK15MOD(0)<Speaker>AK15</Speaker>;AN94MOD(0)||:소체의 모든 감각이 차단된 모양이군.
+AK15MOD(0);AN94MOD(0)<Speaker>AN94</Speaker>||:아예 우리의 존재 자체마저 인지 못하는 건가?
+AK15MOD(0)<Speaker>AK15</Speaker>||:어떻게 정신을 차리게 할 방법 없을까?
+()<Speaker></Speaker>||:AN-94는 얼어붙은 듯한 SOP2의 얼굴을 가만히 바라봤다.
+M4 SOPMOD IIMod(1)<Speaker>M4 SOPMOD II</Speaker>||:......
+AN94MOD(0)<Speaker>AN94</Speaker>||:3분만 기다려 줘.
+AK15MOD(0)<Speaker>AK15</Speaker>||:알았다, 경계를 맡지.
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:AN-94는 조심스레 SOP2의 마인드맵에 접속했다.
+()<Speaker></Speaker>||<BGM>BGM_Wake</BGM><黑屏2><BIN>9</BIN>:......+끝없는 어둠.+그 어딘가의 구석에, SOP2는 웅크린 채 꼼짝도 않고 있었다.
+AN94MOD(0)<Speaker>AN94</Speaker>||:......
+()<Speaker>M4 SOPMOD II</Speaker>||:......
+AN94MOD(0)<Speaker>AN94</Speaker>||:...SOP2?
+()<Speaker></Speaker>||:SOP2는 눈을 질끈 감고 손바닥으로 귀를 꽉 틀어막았다.
+AN94MOD(0)<Speaker>AN94</Speaker>||:SOP2, 나다. AN-94다.
+()<Speaker>M4 SOPMOD II</Speaker>||:가짜야... 다 가짜야...!+안 속아! 팔다리 다 잘려서 죽는 거 보여도 이젠 안 속아!
+AN94MOD(0)<Speaker>AN94</Speaker>||:마인드맵에 공격을 받은 건가...+SOP2, 이제 괜찮다. 다 끝났어.
+()<Speaker>M4 SOPMOD II</Speaker>||:안 보여! 안 들린다고! 더는 날 어떻게 못할걸!?
+AN94MOD(0)<Speaker>AN94</Speaker>||:심각한 공황 상태야... 강제 개입할 수밖에.+잠시 실례한다.
+()<Speaker></Speaker>||:하는 수 없이, AN-94는 SOP2의 머리의 안테나에 손을 뻗었다.
+()<Speaker>M4 SOPMOD II</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:......
+AK15MOD(0)<Speaker>AK15</Speaker>||<黑屏2><BIN>446</BIN><BGM>GF_EV9_Story</BGM>:됐나?
+AK15MOD(0);AN94MOD(0)<Speaker>AN94</Speaker>||:응, 마인드맵을 진정시켰다.
+AK15MOD(0)<Speaker>AK15</Speaker>;AN94MOD(0)||:RO635를 찾는 중인 건가?
+AK15MOD(0);AN94MOD(0)<Speaker>AN94</Speaker>||:그런 것 같다. 계획대로라면 그녀는 안젤리아를 구출하러 갔을 터다.
+AK15MOD(0)<Speaker>AK15</Speaker>;AN94MOD(0)||:......
+AN94MOD(0)<Speaker>AN94</Speaker>||:AK-15... 이 애를 RO635에게 돌려보내 주고 임무를 속행해도 될까?
+()<Speaker></Speaker>||:AK-15는 말없이 기절한 SOP2를 둘러업었고, 두 하얀 그림자는 그대로 한밤중의 유령처럼 나선형의 공간에서 모습을 감췄다.
+()||<黑屏1>:

@@ -1,0 +1,133 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<睁眼><BIN>417</BIN><BGM>GF_22W_BGM_1</BGM>:깨어나고 얼마나 지났을까? 스스로도 잘 모르겠다.+허나 그다지 중요한 문제는 아닐 것이다.+지금 그에겐 살아갈 이유가 있다.+모든 것은...
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:실험체 전원, 지시대로 출발했습니다.
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position><GradientShow>2</GradientShow>||:......
+()||:눈앞의 모니터들은 보디캠처럼 잠입 임무를 수행 중인 실험체들의 시야를 중계했다.+나뭇가지가 밟혀 우드득 부러지는 소리까지, 아주 선명하게 방으로 전해졌다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:그럼, 전 물러가겠습니다.
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:......
+()||:하얀 소녀는 이곳에서 최신형이지만, 감히 그와 눈을 마주치지 못했다.+왜일까? 그가 무서운 사람이라서?+그는 거울을 보고 싶었지만, 생각해 보니 이미 빛을 반사하는 물건은 전부 때려 부순 일이 떠올랐다.+하는 수 없이, 그는 차가운 손가락으로 얼굴의 흉터를 매만지고, 목에서 쇄골 위까지 이어지는 협곡 같은 접합선을 따라 내리훑으며 자신의 모습을 가늠했다.
+()<Speaker>실험체</Speaker>||:<color=#00CCFF>강글라티 대위, 지정 좌표에 도착했습니다.</color>
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:...잠입 개시, 목표의 정보를 수집하라.
+()<Speaker>실험체</Speaker>||:<color=#00CCFF>예.</color>
+()||:그는 느긋하게 의자를 오른쪽으로 돌렸고, 거기엔 봉제 인형을 품은 누더기 꼴의 주검이 의자 등받이에 기댄 채 축 늘어져 있었다.
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:형... 잘 보고 있어.+이제부터 재밌는 쇼가 시작될 거야.
+()||<SE1>AVG_whitenoise</SE1>:지직...
+()||<SE1>Stop_AVG_loop</SE1>:실험체는 시설 안에 도청기를 설치했다.
+()<Speaker>여성의 목소리</Speaker>||:<color=#00CCFF>노비코프 지휘관님, 요구하신 보급 물자 전부 창고 선반 B17-19에 뒀습니다, 확인 바랍니다.</color>
+()<Speaker> 남성의 목소리</Speaker>||:<color=#00CCFF>응, 확인했다.</color>+<color=#00CCFF>아 참, 안젤리아 지휘관은 이번 달 보급 받으러 왔어?</color>
+()||:누더기 주검의 옷깃을 정리해 주던 그가 고개를 홱 돌려, 소름끼치는 눈빛을 화면에 고정했다.
+()<Speaker>여성의 목소리</Speaker>||:<color=#00CCFF>죄송합니다만 그건 지휘관님의 프라이버시라서요.</color>
+()<Speaker> 남성의 목소리</Speaker>||:<color=#00CCFF>으이구, 답답하긴.</color>+<color=#00CCFF>됐다, 본인한테 직접 물어보지 뭐.</color>
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:안젤리아... 하하하하!
+()||:그가 활짝 웃어, 썰렁하던 방에 거친 웃음소리가 가득 울려 퍼졌다.
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||<黑屏1><BGM>BGM_Empty</BGM>:찾았다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||<黑屏2><BIN>1</BIN>:......+하아...
+()||<SE1>AVG_Explo_Distance</SE1>:2061년, 여름. 한여름의 밀림은 온갖 동물들의 울음소리가 아니라, 맹렬한 총성과 포성이 무성한 잎사귀 사이로 메아리쳤다.+수풀 아래 엎드린 LAMG는 초조한 눈빛으로 자신의 뒤에 있는 지휘관을 힐끔거렸다.+그녀는 지금 팔자 좋게 해먹 위에 드러누워 졸고 있었다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||<BGM>BGM_stage12</BGM>:<color=#A9A9A9>우린 언제 진격하지...</color>+<color=#A9A9A9>계속 이렇게 꾸물거리다간 뒷정리나 하게 될 텐데...!</color>
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:뭘 꿍시렁대냐?
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:아, 아무것도요!
+()||:안젤리아 지휘관을 따른 지 벌써 몇 년째건만, LAMG는 여전히 그녀의 생각을 도통 읽을 수가 없었다.+바로 지금처럼, LAMG는 초조해서 발을 동동 구르고 싶은데 안젤리아는 또 몸을 뒤집어 팔자 좋게 잠이나 자려 하고 있으니까.+고구마가 목구멍에 걸린 듯한 답답한 느낌을 참은 끝에 결국 LAMG가 입을 열었다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:...지휘관님?
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:엉?
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:저희도 슬슬 움직여야 하지 않을까요? 다른 소대는 이미 목표와 교전 중인데...
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:기다려.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:......네.
+()||:LAMG는 불만을 뱃속으로 꾹꾹 눌러 담고, 다른 대원들에게 명령 대기 지시를 전달했다.
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:그건 그렇고, 너 기억은 다 정리했어?
+NPC-Ange(10)<Position>0,25</Position>;LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:네? 아, 동종 모델의 마인드맵 데이터 정리 말씀이시군요.+모든 마인드맵 데이터 통합을 마쳤습니다, 일부 중복 및 잉여 데이터는 삭제했고요.
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>;LAMG(0)<Position>0,100</Position>||:그럼 이제 우리가 처음 만났던 때도 기억하겠네.
+NPC-Ange(10)<Position>0,25</Position>;LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:그러니까, 제가 창문 밖으로 뛰어내려서 당신을 기절시킨 일이요?
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>;LAMG(0)<Position>0,100</Position>||:말은 똑바로 해라~+네가 나한테 완전히 제압당해서 한 궁여지책이라고.
+NPC-Ange(14)<Position>0,25</Position>;LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:그 정도 높이에서 추락은 인형에게 아무렇지도 않아요, 오히려 그때 당신이 기절만 하고 멀쩡했던 게 신기한 일이에요.
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>;LAMG(0)<Position>0,100</Position>||:어쭈, 자랑하는 듯이 말한다?
+NPC-Ange(12)<Position>0,25</Position>;LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:그야 지휘관님은 우리 기지에서 전설이신걸요, 평소엔 꺼드럭거리고 하는 일을 전부 운에 맡기는 것처럼 보이지만요.+지금 그리폰에서 제일 뛰어난 전술지휘관이 당신이란 사실은 아무도 부정 못해요.
+NPC-Ange(13)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:그딴 소문 퍼뜨린 게 너였구나.
+()||:안젤리아가 한쪽 팔에 얼굴을 괴고 졸린 눈을 떴다.+그녀가 드디어 잠에서 깨어날 것 같자, LAMG는 곧장 "추격"에 들어갔다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:그래서요 지휘관님, 왜 아직도 출격하지 않는 건가요?+제겐 비록 고성능의 지휘 모듈이 없지만, 지휘관님이 가르쳐 주신 대로라면...+15분 전에 우리 소대가 목표의 우측을 기습했다면... 이미 임무 완료였을지도 모르는데요.
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:야, 인형이란 뭘 하기 위해 존재한다 생각하냐?
+()||:안젤리아가 대뜸 주제를 돌리면서 다시 눈꺼풀을 감았다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:네? 어... 맡은 임무를 완수하기 위해서요?
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:그치.+하지만 임무는 영원히 끝나지 않아.
+()||:마침내 안젤리아는 해먹에서 몸을 일으키고 나른하게 기지개를 켰다.
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:네가 맨날 하는 훈련이랑은 다르다고. 어려운 훈련을 통과할수록 너는 계속 실력이 늘어나지.+하지만 임무는 말이지, 어려운 걸 많이 해낼수록 더 어려운 걸 더 많이 떠안게 될 뿐이야.
+NPC-Ange(10)<Position>0,25</Position>;LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:말이 이상한데요... 어려운 임무를 많이 완수할수록 포상도 더 많이 받을 수 있잖아요.
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>;LAMG(0)<Position>0,100</Position>||:승진이랑 급료 인상? 그딴 거 관심 없어.
+NPC-Ange(10)<Position>0,25</Position>;LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:그럼 원하시는 게 뭔데요?
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>;LAMG(0)<Position>0,100</Position>||:진실.
+NPC-Ange(10)<Position>0,25</Position>;LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:진실이요?
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:무엇에 관한——
+()||:예리하게도, LAMG는 이것이 안젤리아가 한 번도 스스로 꺼낸 적 없는 말임을 깨달았다. 어쩌면 이게 안젤리아의 사고방식 이해에 도움이 될 중요한 기회일지도 몰랐다.+그래서 또 "추격"하려 했지만, 이번엔 안젤리아가 손을 들어 말을 끊었다.+멀리서 피어오르는 연기를 보고, 안젤리아가 마침내 지시를 내리려는 것이었다.
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:전원 출격이다, 좌우측의 전투 소대와 협공해서 목표의 후방을 기습한다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:네!
+()||:마침내 출격 명령이 떨어지자 LAMG가 흥분해서 폴짝 뛰었다가 순간 멈칫했다.
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:왜 또.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:...돌아와서 방금 하던 얘기 계속해도 되나요?
+NPC-Ange(13)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:하하, 꺼져.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:네~!
+()||<SE1>AVG_Team_Running</SE1><BGM>BGM_Empty</BGM>:LAMG는 다른 소대원들을 이끌고 밀림 속으로 돌입해, 멀리의 총격전에 합류하러 이동했다.+안젤리아는 해먹에서 내려와, 낙엽이 잔뜩 쌓인 흙바닥에 맨발을 디뎠다.+그리고 한 번 더 개운하게 기지개를 켜고, 한참 전부터 울리던 통신을 받았다.
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:상황 보고.
+NPC-Ange(10)<Position>0,25</Position>;M4A1(0)<Speaker>M4A1</Speaker><通讯框>||<BGM>10301</BGM>:<color=#00CCFF>지휘관님, 요구하신 대로 그리폰 소대보다 먼저 임무 목표인 기밀 자료를 확보했습니다.</color>
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>;M4A1(0)<通讯框>||:들키진 않았지?
+NPC-Ange(10)<Position>0,25</Position>;M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>네, 아직까지는...</color>
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>;M4A1(0)<通讯框>||:뭐가 고민인데?
+NPC-Ange(12)<Position>0,25</Position>;M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>철수 경로를 그리폰 소대 하나가 점거 중입니다.</color>+<color=#00CCFF>인형 5명, 대장은 LAMG예요.</color>
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>;M4A1(0)<通讯框>||:상대의 머릿수랑 디테일까지 알면서 뭘 걱정해?+발각되기 전에 해치워 버려.
+NPC-Ange(10)<Position>0,25</Position>;M4A1(3)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>하지만...</color>
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>;M4A1(3)<通讯框>||:응?
+NPC-Ange(12)<Position>0,25</Position>;M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>저들은 아군이에요. 아군과 싸울 수는...</color>
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>;M4A1(0)<通讯框>||:어휴, 서로 만나본 적도 없으면서. 걔네는 너희 AR팀의 존재마저 모른다고.
+NPC-Ange(10)<Position>0,25</Position>;M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>그래도 이건 아니라고 생각해요, 동료는 소중히 해야...</color>
+NPC-Ange(13)<Speaker>안젤리아</Speaker><Position>0,25</Position>;M4A1(0)<通讯框>||:임무를 실패하게 되더라도?
+M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>그, 그건...</color>
+()||:벌써 M4A1 쪽에서 총성과 발소리가 가까워지는 게 들리자, 안젤리아는 한숨을 쉬었다.
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:어휴... 알았다, 제자리서 대기해.
+M4A1(0)<Speaker>M4A1</Speaker><通讯框>||:<color=#00CCFF>네...</color>
+()||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:통신을 종료한 안젤리아는 바로 새 지시를 LAMG에게 전송했다.+"진격 중지. 즉시 후퇴하라."+그 다음, 안젤리아는 AR팀을 위해 작성된 훈련 계획을 확인했다. 훈련 성적은 확실히 눈부신 반면, 실전 성과는 처참한 수준이었다.
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||<BGM>10213</BGM>:......+실전 기록 다 받았어?
+NPC-Ange(10)<Position>0,25</Position>;NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>응, 봤어. 근데 궁금한 게 있는데...</color>+<color=#00CCFF>너, AR팀을 지휘하는 법 잘 모르는 거 아니야?</color>
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>;NPC-Persica(0)<通讯框>||:지금 내 지휘 능력을 의심하는 거야?
+NPC-Ange(12)<Position>0,25</Position>;NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그럴 리가. 이건 다른 얘기야.</color>+<color=#00CCFF>내 AR팀은 엄청 특별해. 다른 인형들에겐 먹히는 지휘 방식이 이 애들에겐 안 맞을 수도 있어.</color>
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>;NPC-Persica(3)<通讯框>||:내 지휘 방식은 하나뿐이야. 까라면 까라.
+NPC-Ange(14)<Position>0,25</Position>;NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>나도 아는데, 내 AR팀 중에서도 M4는 더 특별해. 엄청 인간에 가까운 아이야.</color>+<color=#00CCFF>그러니까, 인간 같은 문제가 있다는 거지. 감정에 휩쓸린다거나 그런.</color>
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>;NPC-Persica(2)<通讯框>||:내가 인형 기술은 잘 모르는데, 내가 보는 건 임무를 완수할 수 있냐 없냐야.+그리고 지금 이 데이터로 봐서는 걔네는 전장에서 구르는 것보단 네 실험실 안에 있는 게 신상에 좋을 거 같다.
+NPC-Ange(14)<Position>0,25</Position>;NPC-Persica(2)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>벌써 결론지으려 하지 말라고, 안젤리아 지휘관. 이제 겨우 걸음마 단계인 애들인걸.</color>
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>;NPC-Persica(2)<通讯框>||:맘대로 하셔, 거래한 대로만 해 준다면 아무래도 좋아.
+NPC-Ange(12)<Position>0,25</Position>;NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>물론이지, 처음에 약속한 대로.</color>+<color=#00CCFF>네가 AR팀의 지휘를 맡아 주면, 나는 네게 달마다 자유 외출 기회를 따 주기.</color>
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>;NPC-Persica(0)<通讯框>||:바로 그거야. 이번 달 외출일 거의 다 됐는데, 수속은 밟았어?
+NPC-Ange(10)<Position>0,25</Position>;NPC-Persica(1)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>알았어 알았어, 일단 끊을게.</color>
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:응.
+()||<SE1>AVG_tele_disconnect</SE1>:페르시카가 통신을 종료했지만, 안젤리아는 바로 끊지 않고 턱을 괸 채 통신기를 툭툭 두드렸다.
+()<Speaker>？？？</Speaker>||:<color=#00CCFF>...쯧.</color>
+NPC-Ange(11)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:라이벌의 비밀 통신을 도청하니 기분 째지시나?
+NPC-Ange(11)<Position>0,25</Position>;NPC-shaw(0)<Speaker>쇼</Speaker><通讯框>||:<color=#00CCFF>녀석이 건 조건이 그거였냐...</color>+<color=#00CCFF>왜 네가 대뜸 울프팩을 버리고 AR팀을 맡나 했다.</color>
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>;NPC-shaw(0)<通讯框>||:내 말 들었잖아. 사람 같은 놈들이든 늑대 같은 놈들이든 임무를 잘 완수할 수 있으면 장땡이라고.
+NPC-Ange(10)<Position>0,25</Position>;NPC-shaw(5)<Speaker>쇼</Speaker><通讯框>||:<color=#00CCFF>하지만 듣자하니 그 녀석들은 네 입맛에 안 맞는 것 같은데?</color>
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>;NPC-shaw(5)<通讯框>||:......+인형도 성장 과정이 필요한 거야.
+NPC-Ange(14)<Position>0,25</Position>;NPC-shaw(2)<Speaker>쇼</Speaker><通讯框>||:<color=#00CCFF>나 참, 페르시카가 얼마나 널 구워삶았길래 그런대.</color>
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>;NPC-shaw(2)<通讯框>||:......
+NPC-Ange(14)<Position>0,25</Position>;NPC-shaw(2)<Speaker>쇼</Speaker><通讯框>||:<color=#00CCFF>그렇게 그리폰 밖으로 빠져나와서 뭘 하는데?</color>
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>;NPC-shaw(2)<通讯框>||:그건 우리의 거래랑 상관없는 일이지.
+NPC-Ange(12)<Position>0,25</Position>;NPC-shaw(0)<Speaker>쇼</Speaker><通讯框>||:<color=#00CCFF>......</color>+<color=#00CCFF>그래, 지장만 없으면 아무래도 좋다 치자고.</color>+<color=#00CCFF>아무튼 새 의뢰는 이미 전달해 뒀다, 평소대로.</color>
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||<黑屏1>:OK.
+()||<黑屏2><BIN>83</BIN><BGM>BGM_Empty</BGM>:그리폰 기지, 주차장.
+()||<SE1>AVG_brake</SE1>:지프차 한 대가 먼지구름을 일으키며 질주해 와, 매섭게 드리프트를 꺾으며 주차칸에 정확히 급정거했다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:...그러니까요 지휘관님, 다음에는 좀 더 도전성 있는 임무로 해 주시면 안 될까요?+이번에 저희 소대는 처음부터 끝까지 구경만 한 셈이에요... 이래서 어떻게 다른 애들한테 자랑해요!
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:......
+()||<SE1>AVG_20Winter_Door_Car_Open</SE1>:안젤리아는 무표정으로 차 문을 열고 신선한 공기를 들이마셨다.
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:좋아, 그럼 네게 아주 도전성 넘치는 임무를 주마.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:말씀하세요! 반드시 완수하겠습니다!
+NPC-Ange(14)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:운전 면허 다시 따고 와.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||<震屏>:예?!
+()||<BGM>BGM_stage10</BGM><SE1>Rope</SE1>:안젤리아가 차에서 내려 몸을 반듯하게 세우기도 전에, 웬 커다란 손이 그녀의 어깨를 잡았다.
+()<Speaker>？？？</Speaker>||:안젤리아 지휘관.
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:응?
+NPC-Ange(12)<Speaker>？？？</Speaker><Position>0,25</Position><同时置暗>||:함께 가 주십시오. 당신은 노비코프 지휘관 살해 혐의를 받고 있습니다.
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:뭣... 노비코프가 죽었다고...?!
+NPC-Ange(12)<Speaker>？？？</Speaker><Position>0,25</Position><同时置暗>||:예. 자세한 사항은 취조 중 설명해드릴 테니, 따라와 주시기 바랍니다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:그게 무슨 소리예요! 지휘관님을 놓으세요!
+()||:LAMG가 화들짝 놀라 차에서 뛰어내려, 안젤리아의 앞을 막아섰다.
+NPC-Ange(12)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:LAMG, 숙소 가서 대기해.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:하지만——
+NPC-Ange(10)<Speaker>안젤리아</Speaker><Position>0,25</Position>||:오늘 술 약속은 다음으로 미뤄야겠다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:...네.
+()||<黑屏1>:LAMG는 길을 비켜, 안젤리아가 떠나는 걸 지켜봐야만 했다.+그녀가 점점 멀어져, 식별 불가능한 1픽셀까지 작아지다 사라질 때까지 지켜봤다.+그리고 완전히 사라졌을 때도 눈을 떼지 않았다. 불가능한 기적이라도 일어나길 바라는 것처럼.

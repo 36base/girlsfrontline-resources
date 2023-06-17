@@ -1,0 +1,69 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>86</BIN><Night>:베를린 주택지의 어느 뒷골목.
+()||<BGM>BGM_Room</BGM><SE1>AVG_Team_Running</SE1>:셰릴의 아파트에서 멀리 떨어지고 인기척도 없는 좁다란 골목길에 들어서서야, 엘리아나는 질주를 멈추고 평범하게 걷는 속도로 돌아왔다.+그 뒤를 정신없이 쫓아온 SCR도 이를 보고서야 간신히 벽을 짚고 헥헥댔다.
+NPC-SCR(2)<Speaker>SCR</Speaker>||<SE1>Stop_AVG_loop</SE1>:헉... 헉... 자, 잠깐만...
+NPC-SCR(2);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:왜 아직도 따라오는 거야?
+NPC-SCR(2)<Speaker>SCR</Speaker>;NPC-SCAR-L(0)||:설명... 설명을 해 줘...
+NPC-SCR(2);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:그리폰의 인형들은 다 너처럼 끈질기게 달라붙고 그래?
+NPC-SCR(2)<Speaker>SCR</Speaker>;NPC-SCAR-L(0)||:후우우... 그 집에 네가 찾는 사람 없는 거, 진작에 알고 있었지? 그냥 모두를 따돌리려는 페이크였지?
+NPC-SCR(2);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:그것까지 알면서 뭘 더 설명해 달란 건데?
+NPC-SCR(2)<Speaker>SCR</Speaker>||:이게 뭔지 대답해.
+()||<黑屏1>:
+()<Speaker>엘리아나</Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>544</BIN>:...그걸 어디서 봤어?
+()<Speaker>SCR</Speaker>||:그 여자애의 침실에서. 사람을 찾는다더니, 침실은 거들떠도 안 보고 거실이 난장판인 틈을 타서 빠져나왔잖아.
+()<Speaker>엘리아나</Speaker>||:그래서.
+()<Speaker>SCR</Speaker>||<BGM>BGM_Scar_Shenzhizi</BGM>:그러니까, 설명해 줘. 왜 이 사진 속의 인형이 나랑 똑같이 생긴 거야?
+()<Speaker>엘리아나</Speaker>||:...네가 대중적으로 잘 먹히는 외모인가 보지.
+()<Speaker>SCR</Speaker>||:둘러대지 마.+이게 날 네 부대원으로 고른 이유야?
+()<Speaker>엘리아나</Speaker>||:...아니.
+()<Speaker>SCR</Speaker>||:옛 동료가 그리워서야?
+()<Speaker>엘리아나</Speaker>||:아니야!
+()<Speaker>SCR</Speaker>||:오, 정곡이네.
+()<Speaker>엘리아나</Speaker>||:......
+()<Speaker>SCR</Speaker>||:네가 찾는다는 동생, 이 사진 속의 나랑 똑같이 생긴 인형이야?
+()<Speaker>엘리아나</Speaker>||:아니... 그 앤 이제 없어.
+()<Speaker>SCR</Speaker>||:없다니 무슨 뜻이야? 얜 어디 갔――
+()<Speaker>엘리아나</Speaker>||:내 손으로 죽였어.
+()<Speaker>SCR</Speaker>||:......
+()<Speaker>엘리아나</Speaker>||:그래서 그 사진의 다른 녀석에게 원수 취급 받고 있지.
+()<Speaker>SCR</Speaker>||:......
+()||<黑屏1>:
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<黑屏2><BIN>86</BIN><Night>:이제 됐어?+이제 그만 가도 되겠지?
+NPC-SCR(2)<Speaker>SCR</Speaker>||:지휘관은 이 일 알아?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:네가 가서 보고해도 돼.
+NPC-SCR(2)<Speaker>SCR</Speaker>||:...아무튼 오늘 밤 하려는 짓을 방해하지 말란 거구나.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......
+()||:SCR은 삐졌다는 듯 툭 내뱉고 엘리아나에게 등을 돌렸지만...
+()||<SE1>AVG_footsteps_cave</SE1>:이번에도 참지 못하고 몇 걸음만에 돌아왔다.
+NPC-SCR(4)<Speaker>SCR</Speaker>||<SE1>Stop_AVG_loop</SE1>:저기 엘리아나, 넌 무엇이 동료라고 생각해? 얼른 대답해.
+NPC-SCR(4);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:부대원들?
+NPC-SCR(4)<Speaker>SCR</Speaker>;NPC-SCAR-L(0)||:......
+NPC-SCR(4);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:다른 건 몰라.+너희가 내가 이끈 두 번째 팀이었어.
+NPC-SCR(4)<Speaker>SCR</Speaker>||:난 말이야, 그냥 평범한 민간 자율인형이었어.+그리폰에 오기 전엔 무슨 팀에 있던 것도 아니었고, 그리폰에 와서도 별로 쓸데없는 임무만 맡았었어.+너무 도움이 안 돼서, 이렇게 특히나 사람이 부족한 때는 모두에게 엄청 미안했어.+그래서 네가 날 네 팀원으로 골라 줬을 때, 난 엄청 기뻤어. 이유가 무엇이었든 간에 엄청.+드디어 나도 너와 함께, 모두와 함께 싸울 수 있겠구나 싶었어.+그런데 넌 그렇게 생각 안 했나 봐.
+NPC-SCR(4);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:내 동료가 되어봤자... 끝이 좋지 않을 테니까.
+NPC-SCR(4)<Speaker>SCR</Speaker>;NPC-SCAR-L(0)||:......+정말... 네가 죽였어?
+NPC-SCR(4);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......
+NPC-SCR(4)<Speaker>SCR</Speaker>;NPC-SCAR-L(0)||:그 애의 이름이 뭐였어?
+NPC-SCR(4);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:...유라. 누구에게나 친절한 애였지.
+NPC-SCR(4)<Speaker>SCR</Speaker>;NPC-SCAR-L(0)||:...안 믿어.+네 말 안 믿어. 그렇게 기억까지 하면서, 그럴 이유가 없잖아.
+NPC-SCR(4);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:강해지기 위해서였다고 생각해.
+NPC-SCR(4)<Speaker>SCR</Speaker>;NPC-SCAR-L(0)||:......
+NPC-SCR(4);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:결과적으론 그랬으니까.
+NPC-SCR(4)<Speaker>SCR</Speaker>;NPC-SCAR-L(0)||:아니야...+설령... 설령 정말 그저 강해지기 위해서 죽였다면, 넌... 넌 날 무서워하거나 싫어했어야 해. 절대 날 팀원으로 고르지 않았을 거야.
+NPC-SCR(4);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:무의미하니까. 이유는 이젠 아무래도 상관없어.
+NPC-SCR(4)<Speaker>SCR</Speaker>;NPC-SCAR-L(0)||:그렇다면... 한번, 시도해 보진 않을래?
+NPC-SCR(4);NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:무엇을?
+NPC-SCR(4)<Speaker>SCR</Speaker>;NPC-SCAR-L(0)||:새로운 "동료"를 사귀고, 그때와는 다른 방식으로 사람들과 어울려 보라고.+너희가 어떻게 지냈는지는 몰라도, 넌 이제 그리폰에 있잖아. 그리폰의 분위기에 어울려 보지 않을래?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:난... 그런 귀찮은 관계를 맺고 싶지 않아.
+NPC-SCR(4)<Speaker>SCR</Speaker>||:하지만 방금 동료란 부대원이란 거 말곤 모른댔잖아. 해보지 않으면 넌 언제까지나 과거에 머무를 수밖에 없어.+그럼 넌 앞으로도 평생 혼자야.+솔직히 그렇잖아, 부하 없는 대장이 무슨 대장이야?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......좋아, 해볼게.+내가 살아 돌아간다면 말이지만.
+NPC-SCR(4)<Speaker>SCR</Speaker>||:응...!
+()||<BGM>BGM_Empty</BGM><SE1>AVG_footsteps_cave</SE1>:엘리아나는 천천히 발을 옮겼다.
+()||<SE1>Stop_AVG_loop</SE1><SE2>AVG_tele_connect</SE2>:그리고 두 걸음 떼기가 무섭게, 간만에 익숙한 그 통신음이 들렸다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<BGM>BGM_Scar_Battle</BGM>:......
+()<Speaker>？？？？</Speaker>||:<color=#99CC33>이건 너와 우리 사이의 일이야.</color>+<color=#99CC33>다른 사람을 끌어들이지 마.</color>
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:다행이네, 같은 생각이라서.+그대로 도망친 줄 알았더니...+아마리스.
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker><通讯框>||:<color=#99CC33>잘난 척하지 마...</color>+<color=#99CC33>종지부를 찍을 장소를 선택해.</color>+<color=#99CC33>서맨사, 모리아, 올리비아, 유라, 니콜, 크리스탈, 로우렐, 그리고 나, 아마리스를 대표해서, 내가 너에게 복수하겠어.</color>
+NPC-SCAR-H(0)<通讯框>;NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:좋지... 위치 보냈다, 이곳에서 보자.+내일, 이 시간에.
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker><通讯框>||:<color=#99CC33>그래. 이 장소에서, 내일 이 시간에 보자.</color>
+()||<黑点1><BGM>BGM_Empty</BGM>:

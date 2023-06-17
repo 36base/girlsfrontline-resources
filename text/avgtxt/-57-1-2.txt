@@ -1,0 +1,85 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>592</BIN><Night><BGM>BGM_Moon</BGM>:하루 종일 고생한 끝에, 당신은 드디어 여태까지 가보지 않았던 수목원에 산책을 나왔다.+당신의 "현실"에서는 붕괴 복사에 ELID 때문에 이곳처럼 높다랗고 살아있는 나무는 좀처럼 보기 힘든 것이 되었다.+하지만 이곳에는 이 수목원만 해도 100년 넘게 묵은 나무가 몇 그루나 있다고 한다.
+()<Speaker>지휘관</Speaker>||:이 세계의 사람들은... 이런 나무를 보면서 무슨 생각을 할까...
+()<Speaker></Speaker>||:당신은 허리를 쭉 펴, 뒷짐을 지고서 무성한 나뭇가지를 드리우며 하늘 높이 뻗은 나무의 꼭대기를 올려다보았다.
+()<Speaker></Speaker>||<SE1>AVG_wind_grass</SE1>:시원한 밤바람이 나뭇잎을 가볍게 흔들었다. 이 고요함을 만끽하며 살며시 눈을 감자, 바스락 소리와 함께 은은한 풀의 향기가 당신의 코끝을 간질였다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_Creep</SE1>:그때, 풀숲에서 뭔가 불쑥 튀어나오는 소리가 들렸다+설마 다람쥐일까? "현실"에선 진짜 나무보다 더더욱 보기 힘들어진 숲의 정령을 오늘 실물로 보는 것일까?+사가의 수목원에는 사람들이 야생 다람쥐를 위해 지어 준 집도 있다 했으니, 당신은 내심 기대감이 부풀었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:이윽고 "다람쥐"가 가까이 다가오는 소리가 들리더니, 당신의 얼굴을 툭툭 치는 것이 느껴졌다. 이것이 자연과 교감하는 재미일까? 무심코 입꼬리가 올라갔다.
+()<Speaker>？？？</Speaker>||:어이, 뭘 바보같이 웃는 거냐.
+()<Speaker></Speaker>||:다람쥐가 툭 쏘아붙였다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:...다람쥐가 말을 했다?
+()||<黑屏1>:
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<睁眼><BIN>592</BIN><Night><BGM>GF_20HW_Scene_BPM82_loop</BGM><SE1>Rope</SE1>:안녕하신가.
+()<Speaker></Speaker>||:말을 건 것은 다름아닌 나무에 거꾸로 매달린 채로 얼굴을 들이민, 웬 검은 닌자복을 입은 사람이었다.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:당신은 코에서 겨우 10cm 앞까지 난데없이 들이닥친 괴한에 놀라 비명을 지르려 했지만, 닌자는 날렵하게 당신의 입을 틀어막곤 나무에서 내려왔다.
+()<Speaker>지휘관</Speaker>||:다, 당신 누구야?!
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<SE1>AVG_Ninja</SE1>:이름 따위 없다.+“valar morghulis”+“valar dohaeris”
+()<Speaker>지휘관</Speaker>||:......+당신 작품 잘못 찾아온 거 아니야...? 잠깐, 가만 보니 낮에 그 편의점에서 봤던...!
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:잘못 봤겠지. 우린 지금 처음 만났다.
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:그래...? 그럼 여긴 어쩐 일이지?
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:너를 보러 왔다, 지휘관.
+()<Speaker>지휘관</Speaker>||<SE1>ClothingUp</SE1>:나를...? 설마, <size=50>카리나가 날 구하러 보낸 사람이야!?</size>
+()<Speaker></Speaker>||:그리폰으로 금방 돌아갈 수 있을지도 모른다는 생각에 당신은 흥분을 감추지 못했다.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:쉿.
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:읍?
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:여긴 안전하지 않다.
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:여기에 뭐가 위험한데?+패러데우스는커녕 ELID도 없는 세계인데.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:그래, 세계. 이 시대가 너를 노리고 있다.
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:그게 무슨...?
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:비록 잠시뿐이나, 네가 이 시대에서 가장 강력한 힘을 가졌기 때문이지.
+()<Speaker>지휘관</Speaker>||:나한테 그런 게 있다고?!
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:그렇다, 그건 바로...
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:바로...?
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<BGM>BGM_Empty</BGM><SE1>AVG_Thunder_Dry</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=9</controll_shake>:<size=60>프랑슈슈다아!!!</size>
+()<Speaker></Speaker>||:닌자는 한쪽 무릎을 꿇고서 양손을 번쩍 들어 찬양했다.+그 오버액션에 당신은 할 말을 잃고 맥이 빠져, 그대로 무시하고 가려 했다.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<SE1>Rope</SE1>:내 말을 못 믿겠지, 이해한다.
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:그럼 우선 내 다리부터 놔 줄래?
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:나는 너를 오랫동안 관찰해 왔다.+네가 다른 세계로부터 도래한 것도 알고 있지. 그리... 그리뭐시기란 곳.
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:그걸 어떻게 알고 있지?
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:어젯밤 잠꼬대하는 걸 들었다.
+()<Speaker>지휘관</Speaker>||:<size=50>뭣...?!</size>
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:그제서야 당신은 어떻게든 나아가던 발걸음을 멈췄고, 그제서야 닌자도 당신의 다리를 놓고 일어났다.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:하지만 그건 중요치 않다. 중요한 것은, 나는 네가 원래 세계로 돌아갈 방법을 알고 있다는 것이지.
+()<Speaker>지휘관</Speaker>||:정말이야!? 어떻게? 어떡하면 되는데? 아니 그 전에, 내가 왜 네 말을 믿어야 하지?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:닌자는 대뜸 허리 숙여 경의를 표하면서 대답했다.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<BGM>m_avg_hope</BGM>:모든 것은 프랑슈슈로부터 시작됐으니, 그 끝도 프랑슈슈이리라.
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:무슨 뜻이야?
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:이 시대의 가장 강력한 힘을 신중히 연마시키고 수호해라!
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:어... 그러니까, 프랑슈슈를 잘 훈련시키라고?
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:프랑슈슈의 빛이 이 시대의 구석구석까지 비춰져야만 비로소 네 역할을 완수할 수 있을지어다!
+()<Speaker>지휘관</Speaker>||:...뭐라고?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그 질문에 닌자는 대답하지 않았다. 대신 오버액션을 취하며 건틀릿에서 갈고리 밧줄을 저멀리로 발사했다.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:그리고, 말 그대로 닌자처럼 사라졌다.
+()<Speaker>지휘관</Speaker>||:아니 그건 또 대체 무슨 뚱딴지같은 소린데!?
+()<Speaker>지휘관</Speaker>||<controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=8</controll_shake>:<size=50>좀 이해하기 쉽게 설명해 주면 어디가 덧나――?!</size>
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Knife_Whoosh</SE1><SE1>AVG_Wonder</SE1>:불만을 토해내기가 무섭게 무언가가 꽂힌 쿠나이가 섬광처럼 날아와, 당신 바로 옆의 나무 기둥에 꽂혔다. 식겁하며 고개를 돌려 확인하니, 다름아닌 명함이었다.
+()<Speaker></Speaker>||<SE1>AVG_TurnOverCard</SE1>:...달랑 전화번호 한 줄만 적힌 명함.+당신은 망연하게 그 명함을 주머니에 쑤셔넣곤 터벅터벅 수목원에서 나와 저택으로 돌아갔다.
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑点2><BIN>9</BIN><关闭蒙版>:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>587</BIN><Night><SE1>AVG_20Winter_Door_Open</SE1>:저택으로 돌아왔을 땐 막 자정을 넘긴 시각이었기에, 당신은 프랑슈슈가 깨지 않도록 문을 살며시 열어 불도 켜지 않고 어두컴컴한 로비에 발을 디뎠다.
+()<Speaker></Speaker>||<关闭蒙版><SE1>AVG_2022Saros_button</SE1>:그러자 전등이 팟 켜졌다.+프랑슈슈가 자지 않고 로비에서 당신을 기다리고 있었던 것이다.
+()<Speaker>지휘관</Speaker>||:너희들... 아직 안 자고 있었어?
+NPC-Sakura(10)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:어디 갔다 이제 오세요? 밤 늦게까지 안 돌아오시길래 모두 걱정했어요...
+NPC-Yugiri(6)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.9</Scale>||:아무리 평화로운 시대라도 경계심을 늦추시면 안 되죠, 지휘관님.
+()<Speaker>지휘관</Speaker>||:미안, 수목원에 산책하러 갔다 오느라 좀 늦었어.
+()<Speaker></Speaker>||:이렇게 프랑슈슈 멤버들의 걱정하는 푸르스름한 얼굴을 보니 조금 미안한 마음이 들었다.
+NPC-Lily(10)<Speaker>호시카와 릴리</Speaker><Position>70,-160</Position><Scale>1.24</Scale>||:아, 릴리 그거 알아! 숲속에 들어갔다 운명의 상대랑 만나는 이야기지?
+()<Speaker>지휘관</Speaker>||:어... 운명은 아니고 이상한 사람을 보긴 했는데, 신경 안 써도 돼.
+NPC-Saki(9)<Speaker>니카이도 사키</Speaker><Position>0,-150</Position><Scale>1.34</Scale>||<SE1>AVG_Punch_Hit</SE1><震屏3>:걸리적거리는 놈 있음 나 불러! 쳐죽여버려 주께!
+()<Speaker></Speaker>||:니카이도 사키가 털털하게 당신의 어깨를 턱 쳐서 하마터면 다리가 풀려 무릎을 꿇을 뻔했다.
+NPC-MizunoAi(8)<Speaker>미즈노 아이</Speaker><Position>60,-190</Position><Scale>1.27</Scale>||:수목원이라면 큰길을 따라 바로 도착하니 별일 없겠지만.
+NPC-Junko(8)<Speaker>콘노 준코</Speaker><Position>60,-90</Position><Scale>1.27</Scale>||:저희도 가끔씩 거기서 산책해요. 확실히 기분 풀기 좋은 곳이에요.
+NPC-Tae(8)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale>||:으어어... 어어어... (본인도 그렇다는 것 같다.)
+()<Speaker></Speaker>||<BGM>BGM_Saga_AVG_Dusk</BGM>:모두의 얼굴에서 걱정이 사라지고 분위기도 다시 화기애애해지자, 그들과 오늘 함께 겪었던 일들이 떠올라 왠지 모르게 포근한 기분도 들었다.
+()<Speaker>지휘관</Speaker>||:오늘은 트레이닝에 알바에 다들 고생 많았어, 이제 그만 자자.
+()<Speaker></Speaker>||:당신이 재촉하니, 프랑슈슈도 얌전히 방으로 돌아갔다.
+()<Speaker>프랑슈슈</Speaker>||:잘 자, 지휘관.
+()<Speaker>지휘관</Speaker>||:잘 자, 내일 보자.
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_button</SE1><Night>:전등 스위치를 내리자, 고요한 밤의 기운이 다시 낡은 저택으로 돌아왔다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>578</BIN><SE1>AVG_footsteps_woodfloor</SE1>:당신도 방으로 돌아왔지만, 머릿속엔 여전히 그 이상한 닌자가 남겼던 말이 맴돌았다.+"이 시대의 가장 강력한 힘!"+"신중히 연마시키고 수호해라!"+"프랑슈슈의 빛이 이 시대의 구석구석까지 닿도록!"
+()<Speaker>지휘관</Speaker>||<SE1>Stop_AVG_loop</SE1>:...여기나 거기나, 소녀들이 세상을 바꿀 운명을 짊어지고 있단 건가.
+()<Speaker></Speaker>||:창밖으로 점점 더 어두워져 가는 밤의 풍경을 바라보며, 당신은 나지막이 탄식했다.
+()||<黑点1>:

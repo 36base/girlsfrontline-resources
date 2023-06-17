@@ -1,55 +1,55 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>7</BIN><黑屏2><Night>:그리폰 기지 인근, 디스트로이어가 잠복 중인 위치.
-BOSS-6(0)<Speaker>디스트로이어</Speaker>||:흐흐흐, 겨우 그 정도로 날 이길 순 없지.+역시 그리폰 놈들은 순진해, 예상한 그대로 디너게이트한테 도주 경로를 알아서 열어 준다니까.
-BOSS-7(0)<Speaker>게이저</Speaker><通讯框>||:<color=#00CCFF>꽤 순조로운가 보지?</color>
-BOSS-6(0)<Speaker>디스트로이어</Speaker>||<黑点1>:그야 당연하지, 누구 계획인데!+이제 녀석을 선물 더미 속으로 뛰어들게만 하면, 멍청한 그리폰 녀석들은 손쓸 도리가 없을걸?+히히히, 크리스마스 선물아 기다려라~
-()<Speaker></Speaker>||<BIN>81</BIN><黑点2><BGM>BGM_Sneak</BGM>:아수라장이 계속되고 있는 그리폰 기지.+인형들의 포위망을 간신히 뚫고 나온 디너게이트는, 지칠 대로 지친 몸을 이끌고 받은 지시대로 선물 더미 쪽으로 내달렸다.
-M1903(2)<Speaker>스프링필드</Speaker>||:저 방향... 선물 더미 속으로 숨어서 빠져나갈 셈인가 봐요!
-WA2000(2)<Speaker>WA2000</Speaker>||:CZ75! 네 쪽으로 간다!
-CZ75(2)<Speaker>CZ75</Speaker>||:나한테 맡겨! 두 동강을 내 주겠――아.
-()<Speaker></Speaker>||:CZ75가 디너게이트의 움직임을 예측해 있는 힘껏 도끼를 던졌지만, 빗나갔다.+그리고 성질을 내며 추격하려던 CZ75을, OTs-44가 그녀의 옷자락을 살짝 당기며 멈춰 세웠다.
-OC44(2)<Speaker>OTs-44</Speaker><Position>0,-150</Position>||:잠시만요. 저 디너게이트, 갑자기 멈췄어요...
-()<Speaker></Speaker>||<黑点1>:전속력으로 내달리던 디너게이트는 선물 더미 속으로 뛰어들려는 준비 자세를 취한 그대로 얼어붙었다.
-()<Speaker></Speaker>||<BIN>9</BIN><黑点2>:상황을 지켜보던 디스트로이어도 어리둥절했다.
-BOSS-6(0)<Speaker>디스트로이어</Speaker>||<黑点1>:뭐지...? 왜 갑자기 말을 안 들어?+엑, 내부 온도가 급상승...?+뭐야, 자폭 모드 같은 건 설정 안 했는데?
-()<Speaker></Speaker>||<BIN>81</BIN><黑点2>:그리폰 인형들도 마찬가지로 어리둥절해하며 디너게이트에게 다가갔다.
-KP31(2)<Speaker>수오미</Speaker>||:에너지를 너무 격하게 소모한 탓에 과열로 기능이 정지한 걸까요?
-MG5(2)<Speaker>MG5</Speaker>||:겨우 그 정도 움직였다고 과열될 것 같진 않은데.
-()<Speaker></Speaker>||:꼼짝도 안 하는 디너게이트에게, 수오미와 MG5가 손을 뻗는 그 순간...
-WA2000(2)<Speaker>WA2000</Speaker>||:앗! 빨리 떨어――
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:WA2000의 외침에 모두가 반응하기도 전에, 디너게이트가 폭발했다.
-()<Speaker></Speaker>||<SE1>Explode</SE1>:퍼어어엉!
-KP31(3)<Speaker>수오미</Speaker><Shake>||<火花>:꺄아아!!!
-MG5(3)<Speaker>MG5</Speaker>||:크윽!?
-()<Speaker></Speaker>||<BGM>BGM_Wake</BGM>:디너게이트가 폭발하면서 일어난 불길이 선물 더미를 집어삼켰고...+인형들은 하늘이라도 무너진 듯이 비명을 질렀다.
-RFB(2)<Speaker>RFB</Speaker>||:안 돼애애애!!! 내가 어떻게 준비한 선물인데에에!!!
-M1873(2)<Speaker>콜트 리볼버</Speaker>||:내 콜라가아아아아!!!
-SVD(2)<Speaker>SVD</Speaker>||:지금 콜라가 중요하냐! 당장 소화기 가져와!
-M1903(2)<Speaker>스프링필드</Speaker>||:소화 장치를 가동할게요! 여러분은 저쪽의 급수실에서 물을 받아와 불을 꺼주세요!
-()<Speaker></Speaker>||:시커멓게 타들어 가는 기지의 벽처럼, 머리를 쥐어뜯는 카리나의 마음속도 타들어 갔다.
-NPC-Kalin(7)<Speaker>카리나</Speaker>||<黑点1>:왜 일이 이렇게...+기지가... 수리비가...! 제발 저한테 청구하지 말아 주세요오오오!!!
-()<Speaker></Speaker>||<BIN>7</BIN><黑点2><Night><关闭火花>:같은 시각, 그리폰 기지의 인근의 구석.+그 소란을 목격한 디스트로이어도 참지 못하고 수풀 밖으로 펄쩍 튀어나오며 소리쳤다.
-BOSS-6(0)<Speaker>디스트로이어</Speaker><Shake>||<黑点1>:이, 이러면 안 되는데!+아니야, 침투시킨 디너게이트는 아직 몇 마리 더 있어...!+아직 기회가 있다고...
-()<Speaker></Speaker>||<BIN>81</BIN><黑点2>:치솟는 불길을 끄려 노력하면서, 그리폰 인형들은 새까맣게 타들어 가는 선물을 하나라도 더 구하려고 애썼다.
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:그리고 불을 진압하고 자욱했던 연기도 흩어지자, 공중에서 밧줄에 뒤엉킨 채로 숯검댕이가 된 인형이 그녀들의 눈에 들어왔다.
-WA2000(2)<Speaker>WA2000</Speaker>||<BGM>m_avg_casual</BGM>:...너 거기서 뭐해?
-ART556(5)<Speaker>ART556</Speaker><Position>0,200</Position>||:어... 그게... 콜록, 설명하자면 말이지...
-()<Speaker></Speaker>||:ART556은 이리저리 눈을 굴렸다.
-ART556(5)<Speaker>ART556</Speaker><Position>0,200</Position>||:그, 그러니까! 지붕에서 경치 구경 겸 순찰을 돌고 있었는데, 갑자기 굴뚝에서 연기가 치솟지 뭐야! 그래서 상황을 보려고 왔지!+어휴, 디너게이트가 왜 갑자기 폭발했나 모르겠네! 나도 소화 작업에 동참하려고 밧줄을 타고 내려오다가 이렇게...
-FAL(2)<Speaker>FAL</Speaker>||:그 연기가 치솟는 기다란 굴뚝을 일부러 타고 내려왔으면서, 잘도 상황을 파악했구나?
-MG5(2)<Speaker>MG5</Speaker>||:불이 난 걸 알았으면서, 왜 불에 잘 타는 보따리를 들고 있지?
-M21(2)<Speaker>M21</Speaker>||:ART556이 쏙 들어갈 정도로 커다란 보따리네...
-ART556(5)<Speaker>ART556</Speaker><Position>0,200</Position>||:어... 그게 그러니까...
-OC44(2)<Speaker>OTs-44</Speaker><Position>0,-150</Position>||:어라? ART556이 가지고 있는 거, 우리 디너게이트용 외장 아니에요?
-ART556(5)<Speaker>ART556</Speaker><Position>0,200</Position>||:......?+으엑?!+<color=#A9A9A9>아뿔싸, 버리는 걸 깜빡했다!</color>
-()<Speaker></Speaker>||:SVD는 술병을 쥐고, 소름 돋는 미소를 지으면서 ART556에게 얼굴을 들이밀었다.
-SVD(2)<Speaker>SVD</Speaker>||:코로 보드카 마시기 싫으면 이실직고하시지.
-()<Speaker></Speaker>||:그 협박에 ART556은 겁에 질려 딸꾹질까지 했다.+결국, ART556은 모두의 심문에 이기지 못하고 사실대로 털어놓았다.
-WA2000(2)<Speaker>WA2000</Speaker>||:......
-M1873(2)<Speaker>콜트 리볼버</Speaker>||:......
-RFB(2)<Speaker>RFB</Speaker>||:......
-ART556(5)<Speaker>ART556</Speaker><Position>0,200</Position>||:......+어... 왜 아무도 말을 안 해...?+일단 나 좀 내려 줄래...?
-SVD(2)<Speaker>SVD</Speaker>||:......더 묶어.
-ART556(5)<Speaker>ART556</Speaker><Position>0,200</Position><震屏>||:싫어어어!!! 미안해, 정말 미안하다니까!!!
-()<Speaker></Speaker>||<SE1>Rope</SE1><黑点1>:모두가 SVD에게 동의하며 밧줄을 더 가져와, ART556을 포박한 뒤 다시 타 버린 선물 더미를 정리하기 시작했다. ART556은 그 가운데서 공중에 꽁꽁 묶인 채로 엉엉 울었다.
-()||<黑点2><BIN>10</BIN>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>7</BIN><黑屏2><Night>:그리폰 기지 인근, 디스트로이어가 잠복 중인 위치.
+BOSS-6(0)<Speaker>디스트로이어</Speaker>||:흐흐흐, 겨우 그 정도로 날 이길 순 없지.+역시 그리폰 놈들은 순진해, 예상한 그대로 디너게이트한테 도주 경로를 알아서 열어 준다니까.
+BOSS-7(0)<Speaker>게이저</Speaker><通讯框>||:<color=#00CCFF>꽤 순조로운가 보지?</color>
+BOSS-6(0)<Speaker>디스트로이어</Speaker>||<黑点1>:그야 당연하지, 누구 계획인데!+이제 녀석을 선물 더미 속으로 뛰어들게만 하면, 멍청한 그리폰 녀석들은 손쓸 도리가 없을걸?+히히히, 크리스마스 선물아 기다려라~
+()<Speaker></Speaker>||<BIN>81</BIN><黑点2><BGM>BGM_Sneak</BGM>:아수라장이 계속되고 있는 그리폰 기지.+인형들의 포위망을 간신히 뚫고 나온 디너게이트는, 지칠 대로 지친 몸을 이끌고 받은 지시대로 선물 더미 쪽으로 내달렸다.
+M1903(2)<Speaker>스프링필드</Speaker>||:저 방향... 선물 더미 속으로 숨어서 빠져나갈 셈인가 봐요!
+WA2000(2)<Speaker>WA2000</Speaker>||:CZ75! 네 쪽으로 간다!
+CZ75(2)<Speaker>CZ75</Speaker>||:나한테 맡겨! 두 동강을 내 주겠――아.
+()<Speaker></Speaker>||:CZ75가 디너게이트의 움직임을 예측해 있는 힘껏 도끼를 던졌지만, 빗나갔다.+그리고 성질을 내며 추격하려던 CZ75을, OTs-44가 그녀의 옷자락을 살짝 당기며 멈춰 세웠다.
+OC44(2)<Speaker>OTs-44</Speaker><Position>0,-150</Position>||:잠시만요. 저 디너게이트, 갑자기 멈췄어요...
+()<Speaker></Speaker>||<黑点1>:전속력으로 내달리던 디너게이트는 선물 더미 속으로 뛰어들려는 준비 자세를 취한 그대로 얼어붙었다.
+()<Speaker></Speaker>||<BIN>9</BIN><黑点2>:상황을 지켜보던 디스트로이어도 어리둥절했다.
+BOSS-6(0)<Speaker>디스트로이어</Speaker>||<黑点1>:뭐지...? 왜 갑자기 말을 안 들어?+엑, 내부 온도가 급상승...?+뭐야, 자폭 모드 같은 건 설정 안 했는데?
+()<Speaker></Speaker>||<BIN>81</BIN><黑点2>:그리폰 인형들도 마찬가지로 어리둥절해하며 디너게이트에게 다가갔다.
+KP31(2)<Speaker>수오미</Speaker>||:에너지를 너무 격하게 소모한 탓에 과열로 기능이 정지한 걸까요?
+MG5(2)<Speaker>MG5</Speaker>||:겨우 그 정도 움직였다고 과열될 것 같진 않은데.
+()<Speaker></Speaker>||:꼼짝도 안 하는 디너게이트에게, 수오미와 MG5가 손을 뻗는 그 순간...
+WA2000(2)<Speaker>WA2000</Speaker>||:앗! 빨리 떨어――
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:WA2000의 외침에 모두가 반응하기도 전에, 디너게이트가 폭발했다.
+()<Speaker></Speaker>||<SE1>Explode</SE1>:퍼어어엉!
+KP31(3)<Speaker>수오미</Speaker><Shake>||<火花>:꺄아아!!!
+MG5(3)<Speaker>MG5</Speaker>||:크윽!?
+()<Speaker></Speaker>||<BGM>BGM_Wake</BGM>:디너게이트가 폭발하면서 일어난 불길이 선물 더미를 집어삼켰고...+인형들은 하늘이라도 무너진 듯이 비명을 질렀다.
+RFB(2)<Speaker>RFB</Speaker>||:안 돼애애애!!! 내가 어떻게 준비한 선물인데에에!!!
+M1873(2)<Speaker>콜트 리볼버</Speaker>||:내 콜라가아아아아!!!
+SVD(2)<Speaker>SVD</Speaker>||:지금 콜라가 중요하냐! 당장 소화기 가져와!
+M1903(2)<Speaker>스프링필드</Speaker>||:소화 장치를 가동할게요! 여러분은 저쪽의 급수실에서 물을 받아와 불을 꺼주세요!
+()<Speaker></Speaker>||:시커멓게 타들어 가는 기지의 벽처럼, 머리를 쥐어뜯는 카리나의 마음속도 타들어 갔다.
+NPC-Kalin(7)<Speaker>카리나</Speaker>||<黑点1>:왜 일이 이렇게...+기지가... 수리비가...! 제발 저한테 청구하지 말아 주세요오오오!!!
+()<Speaker></Speaker>||<BIN>7</BIN><黑点2><Night><关闭火花>:같은 시각, 그리폰 기지의 인근의 구석.+그 소란을 목격한 디스트로이어도 참지 못하고 수풀 밖으로 펄쩍 튀어나오며 소리쳤다.
+BOSS-6(0)<Speaker>디스트로이어</Speaker><Shake>||<黑点1>:이, 이러면 안 되는데!+아니야, 침투시킨 디너게이트는 아직 몇 마리 더 있어...!+아직 기회가 있다고...
+()<Speaker></Speaker>||<BIN>81</BIN><黑点2>:치솟는 불길을 끄려 노력하면서, 그리폰 인형들은 새까맣게 타들어 가는 선물을 하나라도 더 구하려고 애썼다.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:그리고 불을 진압하고 자욱했던 연기도 흩어지자, 공중에서 밧줄에 뒤엉킨 채로 숯검댕이가 된 인형이 그녀들의 눈에 들어왔다.
+WA2000(2)<Speaker>WA2000</Speaker>||<BGM>m_avg_casual</BGM>:...너 거기서 뭐해?
+ART556(5)<Speaker>ART556</Speaker><Position>0,200</Position>||:어... 그게... 콜록, 설명하자면 말이지...
+()<Speaker></Speaker>||:ART556은 이리저리 눈을 굴렸다.
+ART556(5)<Speaker>ART556</Speaker><Position>0,200</Position>||:그, 그러니까! 지붕에서 경치 구경 겸 순찰을 돌고 있었는데, 갑자기 굴뚝에서 연기가 치솟지 뭐야! 그래서 상황을 보려고 왔지!+어휴, 디너게이트가 왜 갑자기 폭발했나 모르겠네! 나도 소화 작업에 동참하려고 밧줄을 타고 내려오다가 이렇게...
+FAL(2)<Speaker>FAL</Speaker>||:그 연기가 치솟는 기다란 굴뚝을 일부러 타고 내려왔으면서, 잘도 상황을 파악했구나?
+MG5(2)<Speaker>MG5</Speaker>||:불이 난 걸 알았으면서, 왜 불에 잘 타는 보따리를 들고 있지?
+M21(2)<Speaker>M21</Speaker>||:ART556이 쏙 들어갈 정도로 커다란 보따리네...
+ART556(5)<Speaker>ART556</Speaker><Position>0,200</Position>||:어... 그게 그러니까...
+OC44(2)<Speaker>OTs-44</Speaker><Position>0,-150</Position>||:어라? ART556이 가지고 있는 거, 우리 디너게이트용 외장 아니에요?
+ART556(5)<Speaker>ART556</Speaker><Position>0,200</Position>||:......?+으엑?!+<color=#A9A9A9>아뿔싸, 버리는 걸 깜빡했다!</color>
+()<Speaker></Speaker>||:SVD는 술병을 쥐고, 소름 돋는 미소를 지으면서 ART556에게 얼굴을 들이밀었다.
+SVD(2)<Speaker>SVD</Speaker>||:코로 보드카 마시기 싫으면 이실직고하시지.
+()<Speaker></Speaker>||:그 협박에 ART556은 겁에 질려 딸꾹질까지 했다.+결국, ART556은 모두의 심문에 이기지 못하고 사실대로 털어놓았다.
+WA2000(2)<Speaker>WA2000</Speaker>||:......
+M1873(2)<Speaker>콜트 리볼버</Speaker>||:......
+RFB(2)<Speaker>RFB</Speaker>||:......
+ART556(5)<Speaker>ART556</Speaker><Position>0,200</Position>||:......+어... 왜 아무도 말을 안 해...?+일단 나 좀 내려 줄래...?
+SVD(2)<Speaker>SVD</Speaker>||:......더 묶어.
+ART556(5)<Speaker>ART556</Speaker><Position>0,200</Position><震屏>||:싫어어어!!! 미안해, 정말 미안하다니까!!!
+()<Speaker></Speaker>||<SE1>Rope</SE1><黑点1>:모두가 SVD에게 동의하며 밧줄을 더 가져와, ART556을 포박한 뒤 다시 타 버린 선물 더미를 정리하기 시작했다. ART556은 그 가운데서 공중에 꽁꽁 묶인 채로 엉엉 울었다.
+()||<黑点2><BIN>10</BIN>:

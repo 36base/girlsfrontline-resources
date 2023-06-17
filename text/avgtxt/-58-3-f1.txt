@@ -1,0 +1,110 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>202</BIN><BGM>BGM_Room</BGM><SE1>AVG_engine_speedup</SE1>:오염 물질로 가득한 레드존.+그 위를 질주하는 "엘모 호"는 죽음의 바다에 가까워질수록 창밖의 하늘이 점점 어두워지고 무거워졌다.
+AR18(5)<Speaker>AR18</Speaker><Position>0,120</Position>||:......+비가 오겠군.
+()<Speaker></Speaker>||:AR-18이 말하기가 무섭게 빗방울이 창문을 두들겼다.
+()<Speaker></Speaker>||<SE1>AVG_Amb_Rain_0</SE1>:빠르게 질주하는 엘모 호에 들러붙는 빗줄기는 옆으로 길게 늘어지면서 시야에서 사라졌다.+무거워져 가는 하늘처럼, 빗줄기도 점점 더 많은 선을 그리며 창문에 촘촘한 그물을 그리기 시작했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:AR-18은 고개를 돌려 손 안의 전술 태블릿을 내려다봤다.
+AR18(2)<Speaker>AR18</Speaker><Position>0,120</Position>||:예비 소체 및 더미 재고, 준비 완료.+수송 차량 준비 완료. 야시장비, 탄약, 긴급 소체 수복재... 전부 준비 완료.+이제 남은 것은...
+()<Speaker></Speaker>||:체크 리스트의 항목을 훑어 내려가던 그녀의 눈이 멈춘 마지막 항목.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:이것의 확인을 위해, AR-18은 마지막 준비 작업을 맡은 항공관제 지휘소에 연락했다.
+QBU-191(0)<Speaker>QBU-191</Speaker><通讯框>||:<color=#00CCFF>좋은 밤입니다, AR-18 씨. QBU-191이 지휘관에게 항공관제 및 공중 지원 제대 준비 완료임 알립니다.</color>
+AR18(3)<Speaker>AR18</Speaker><Position>0,120</Position>||:좋아. 엘모 호, 준비 완료. 현재 목표 지점으로 이동 중이다.
+QBU-191(0)<Speaker>QBU-191</Speaker><通讯框>||:<color=#00CCFF>알겠습니다, 활성화 프로세스로 진입.</color>+<color=#00CCFF>당측 배치 완료 후 지정 장소에서 대기 중입니다. 수색 작전 성공 신호 확인 시 즉시 움직이겠습니다.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:모든 체크 리스트의 확인이 끝났다. 만반의 준비가 되었다.
+()<Speaker></Speaker>||<SE1>AVG_Knock</SE1>:그리고 AR-18은 휴게실의 문을 노크했다.
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:그러자 안에서 뒤척이는 소리가 나더니, 잠시 후 아직 졸음이 가시지 않은 몽롱한 눈의 지휘관이 지휘실로 나왔다.
+AR18(3)<Speaker>AR18</Speaker><Position>0,120</Position>||:몸 상태는 나아지셨습니까?
+AR18(3)<Speaker>지휘관</Speaker><Position>0,120</Position><同时置暗>||:응, 괜찮아... 준비 작업은 다 마쳤어?
+AR18(3)<Speaker>AR18</Speaker><Position>0,120</Position>||:전부 확인 완료했습니다.
+()<Speaker>지휘관</Speaker>||:좋았어, 그럼 엘마에게 바로 시작하라 해 줘.
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>72</BIN><黑点2><BGM>BGM_Empty</BGM>:무로메츠 회의실.
+AR18(3)<Speaker>AR18</Speaker><Position>0,120</Position><通讯框>||<BGM>GF_EV9_Story</BGM><SE1>AVG_tele_connect</SE1>:<color=#00CCFF>...작전 개시.</color>
+Erma(14)<Speaker>엘마</Speaker>||:오! 머큐리 수신~!
+()<Speaker></Speaker>||:아직 정식 개방되지 않은 넓은 전자 공간에 아직 신호 지원 담당 인형 몇 명만 분주하던 와중, 명령이 내려지자 엘마가 그들을 불러모았다.
+Erma(14)<Speaker>엘마</Speaker>||:얘들아 명령이야! 작전 정식 개시래!+TPS, 현재 데이터 전송 속도랑 안정도 확인!
+TPS(0)<Speaker>FN TPS</Speaker><Position>0,50</Position>||<SE1>ClothingUp</SE1>:속도 최대치, 핑이랑 패킷 손실률 다 0이야~
+Erma(14)<Speaker>엘마</Speaker>||:야티! 시스템 내 각 그룹간 통신 테스트 다 됐어?
+Jatimatic(0)<Speaker>Jatimatic</Speaker>||:진작에 다 했어.
+Erma(14)<Speaker>엘마</Speaker>||:오케이! 매기, 무로메츠 회의실 가동하고 모든 멤버 연결!
+ColtWalker(1)<Speaker>매기</Speaker>||:여신님의 분부대로♪
+()<Speaker></Speaker>||<SE1>AVG_Shield_Startup</SE1>:<color=#FFFF00>［무로메츠 회의실 ONLINE］</color>+<color=#FFFF00>돌격팀 - 서광A팀, 서광B팀 로그인.</color>+<color=#FFFF00>특공팀 - Fe56C팀, Fe56D팀 로그인.</color>+<color=#FFFF00>신속 반응팀 - 민들레팀 로그인.</color>+<color=#FFFF00>진지 지원팀 - 팔레트 소대, 퍼즐 소대 로그인.</color>
+ColtWalker(1)<Speaker>매기</Speaker>||:멤버 입력 완료. 지금 바로 시작할까?
+Erma(13)<Speaker>엘마</Speaker>||:음! 아이네이아스 쪽부터 연결해!
+ColtWalker(1)<Speaker>매기</Speaker>||<SE1>AVG_keyboardtype_sci</SE1>:아이네이아스 회의실, 접속 중...
+()<Speaker></Speaker>||:<color=#FFFF00>특별 행동 멤버 - 우산 로그인.</color>+<color=#FFFF00>유니콘 로그인.</color>
+ColtWalker(2)<Speaker>매기</Speaker>||:이걸로 다 모였어.
+Erma(14)<Speaker>엘마</Speaker>||:민들레, 음성 및 화상 신호 안정적이야?
+AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>여기는 민들레, 통신 퀄리티 안정적.</color>
+Erma(18)<Speaker>엘마</Speaker>||:좋아, 지휘관, 이제 지휘관이 말할 차례야!
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:한참 지켜보던 지휘관이 통신을 켰다.
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>현재 상황 보고.</color>
+AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>적 부대 소탕을 마치고 "유니콘"을 회수했습니다. 현재 아베르누스 북쪽의 임시 신호소에서 대기 중입니다.</color>
+AR15Mod(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:<color=#00CCFF>유니콘의 상태는?</color>
+AR15Mod(0)<Speaker>AR15</Speaker><通讯框>||:<color=#00CCFF>UMP9의 코어를 회수했지만 만약을 고려해 댄들라이에게도 백업시켰습니다.</color>+<color=#00CCFF>UMP45는... 아직 움직일 수 있지만 저희와 합류해 임무 속행을 원한다고 합니다.</color>
+AR15Mod(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:<color=#00CCFF>45?</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>겨우 이틀이지만 정말 오랜만이야, 지휘관.</color>
+UMP45Mod(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:<color=#00CCFF>......</color>+<color=#00CCFF>후속 임무, 정말 계속 참여할 수 있겠어?</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>그러엄, 얼마 다치지도 않았는걸. 방금 416랑 G11한테 조치도 받았고.</color>+<color=#00CCFF>그리고, 아이네이아스랑 연결이 원활하려면 내가 있어야지?</color>
+HK416Mod(0)<Speaker>HK416</Speaker><通讯框>||:<color=#00CCFF>얼마 안 다치기는 무슨, 식별 신호도 안 났으면 저기 굴러다니던 고철 폐품인 줄 알았다고!</color>
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>......</color>
+()<Speaker></Speaker>||:온몸에 상처가 눈에 띄는 UMP45의 상태에 지휘관은 잠시 망설였지만, 그녀의 단호한 눈빛은 생각을 바꿀 셈이 없음을 분명하게 전달했다.
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>합류 요청, 허가할게. 대신 절대 무리하지 마.</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker><通讯框>||:<color=#00CCFF>응.</color>
+()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>엘마, 모든 멤버간 통신 연결 안정성 다시 한 번 확인해 줘.</color>
+Erma(14)<Speaker>엘마</Speaker>||:알았어.
+()||<黑点1>:
+AR18(3)<Speaker>AR18</Speaker><Position>0,120</Position>||<BGM>BGM_Empty</BGM><BIN>202</BIN><黑点2>:지휘관, 페르시카 씨의 통신 요청입니다.
+()<Speaker>지휘관</Speaker>||:연결해.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Truth</BGM>:<color=#00CCFF>지휘관, 17.34초 전에 "철완"의 신호를 받았어.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:안젤리아 씨는 어떻습니까?
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>수신한 데이터를 지금 해석 중이니까 몇 초만 더 기다려 봐.</color>+<color=#00CCFF>......</color>
+NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>쯧...</color>
+NPC-Persica(3)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:어떻습니까...?
+NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>...살아는 있네.</color>
+NPC-Persica(3)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:최악은 아니군요...
+NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>그래도 거의 산송장이야.</color>+<color=#00CCFF>심박수, 호흡 빈도, 체온... 다 엉망이야.</color>
+NPC-Persica(3)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:얼마나 버틸 수 있겠습니까?
+NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>일반적으론 길어봤자 2시간.</color>
+NPC-Persica(3)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:그 전에 구출해야겠군요.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>...지휘관, 쓸데없는 소리 좀 하자.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:하십시오.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>안젤리아는 말이야, 한 번 마음먹은 걸로 고집 부리면 아무도 못 꺾어.</color>+<color=#00CCFF>나도 걔가 가끔 무슨 생각하는지 모를 때가 있지만, 걔는 그런 사람이야. 그러니 걔를 구원하겠단 마음은 품지 않는 게 좋아.</color>
+NPC-Persica(0)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:......+임무가 실패할 수도 있단 말씀을 완곡하게 해 주시는군요.
+NPC-Persica(3)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>너도 한 옹고집 하니까 말이지, 이렇게 꼭 잔소리를 해야 알아먹더라.</color>
+NPC-Persica(3)<Speaker>지휘관</Speaker><通讯框><同时置暗>||:그녀가 어떤 상황이든 반드시 구해낼 겁니다.
+NPC-Persica(2)<Speaker>페르시카</Speaker>||:<color=#00CCFF>그래 그래, 소식 기다리고 있을게 옹고집 씨.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:페르시카와 통신을 끝내고, 지휘관은 의자 등받이에 기대어 길게 한숨을 내쉬었다.
+AR18(3)<Speaker>AR18</Speaker><Position>0,120</Position>||:지휘관, 다음 지시를.
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Empty</BGM>:곧 작전을 개시한다, 무로메츠 회의실에 연결해 줘.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>72</BIN><BGM>GF_22W_BGM_3</BGM>:무로메츠 회의실.
+Erma(14)<Speaker>엘마</Speaker>||:지휘관, 전부 연결 확인했어! 현재 매우 안정적!
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>그럼 작전 브리핑을 시작하겠다.</color>+<color=#00CCFF>이번 작전의 목표는 "크림힐트 작전" 시작 전 목표인 안젤리아를 구출하고... "윌리엄"을 체포하는 것이다.</color>
+()<Speaker></Speaker>||:회의실의 공중에 두 목표 인물의 프로필이 떴다.
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>지금 너희가 있는 공간이 "무로메츠 회의실"이다. 우리는 이 시스템을 통해 아베르누스의 전파 교란에 대항할 거다.</color>+<color=#00CCFF>모든 작전 및 상황 보고는 이곳에서 진행하도록.</color>
+Erma(18)<Speaker>엘마</Speaker>||:모두 반가워~ 머큐리, 그게 바로 나야!+여기의 안전과 쾌적함과 원활함을 맡았지!+그리고 페르시카 씨가 쬐~끔 거들어 준 걸로, 어... 그러니까, 패러데우스의 교란 차단기도 만들었으니까 아무 문제 없어!
+AR15Mod(0)<Speaker>AR15</Speaker>||:민들레팀은 아베르누스 내부 진입 후의 신호 안정화 및 전달을 맡는다.
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>작전 구역에 진입하게 되면 나는 원격으로 상황을 모니터링하고, 현장 지휘는 엘리아나가 맡는다.</color>
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:예.+퍼즐, 팔레트 소대는 지면에 화력 유도를 담당한다.+Fe56은 C, D 두 팀으로 나뉘어 작전 개시와 동시에 공수 투하, C팀은 플랫폼에 착지해 적 화력을 유인, D팀은 서탑 꼭대기에 착지해 아래의 적 화력 포인트를 제거한다.+서광팀은 우천후와 서탑으로 가려지는 사각지대를 통해 동탑으로 은밀 침투, 임무 목표를 수색한다.+민들레팀은 서광팀의 신호를 받을 때까지 제자리에서 대기.+목표를 찾아내면 신속히 회수 후 철수하여, 크림힐트 작전 속행으로 연결한다.
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>여기까지 질문 있는 사람?</color>
+()<Speaker></Speaker>||:무로메츠 회의실이 잠시 조용해졌다.
+AR18(2)<Speaker>AR18</Speaker><Position>0,120</Position><通讯框>||:<color=#00CCFF>지휘관, 엘모 호가 블랙존에 진입하였습니다. 목표인 아베르누스까지 남은 거리 27km.</color>
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>알았다.</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 무로메츠 회의실에 모인 이들을 한 바퀴 스윽 훑어보고, 나지막이 선언했다.
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>일리아 무로메츠 작전, 개시.</color>
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_button</SE1>:그리고, 회의실의 실행 버튼을 눌렀다.
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_Thunder_Dry</SE1><BGM>BGM_Empty</BGM>:엘모 호 바깥의 하늘에서 첫번째 천둥 소리가 울려 퍼졌다.
+()<Speaker></Speaker>||:폭풍우가 곧 닥쳐온다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>485</BIN><common_effect>%%code=CJ_rain%%</common_effect><SE1>AVG_Rain_Heavy</SE1>:쏴아아——+강풍과 폭우가 다른 모든 소리를 집어삼켰다.
+()<Speaker></Speaker>||<SE1>AVG_engine_speedup</SE1>:그 사이에 질주하는 지프차는 마치 심해로 잠수하는 범고래처럼 조용하고 빠르게 달렸다.+다만 요란한 바깥과는 달리 차 안은 무서울 정도로 조용한 분위기였다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:그 가운데, SCR은 총을 단단히 끌어안은 채 몸의 떨림을 억누르지 못하고 있었다.
+NPC-SCR(0)<Speaker>SCR</Speaker>||:대장, 나 긴장돼...
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:엘리아나는 주먹쥔 오른손으로 SCR의 어깨를 가볍게 툭툭 두드렸다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:그건 긴장이 아니라 흥분이야.+무리도 아니지, 지금 우린 위대하고 영광스런 임무를 수행하러 가니까.+비가 그치면... 우리는 이곳을 비추는 서광이 될 거야.
+()||<黑点1>:

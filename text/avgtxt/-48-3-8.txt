@@ -1,100 +1,100 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Room</BGM><SE1>Explode</SE1><震屏3><BIN>166</BIN>:퍼엉!!
-NPC-Bodyguard1(0)<Speaker>경호원</Speaker>||<SE1>AVG_alarm</SE1>:?!!+기, 긴급상황! 긴급 상황 발생!+B 구역에서 폭발이 일어났다! 지원 바람!
-NPC-Bodyguard1(0)<Speaker>경호원</Speaker>||:아니 이런 데에 무슨... 각 인원, 경계 경보! 예비 전원 올리고 입주자 진정시켜!+폭발물 처리반도 부르고!
-()<Speaker></Speaker>||:......
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>82</BIN>:남자는 베란다 창문 앞에 서서, 갑작스런 소란에 동분서주하는 사람들을 내려다봤다.+과민 반응일 수도 있지만, 일이 끝나기 전까진 사소한 일에도 신경을 곤두세울 수밖에 없었다.+그는 이미 한 번 실패를 겪은 몸이니까.
-()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:똑똑똑!
-NPC-Hopps(0)<Speaker>？？？</Speaker>||:누구냐?
-()<Speaker>문 밖의 목소리</Speaker>||:늦은 밤에 실례합니다, 아파트 관리팀입니다.+아파트에서 가까운 곳에 폭발이 발생해 현재 모든 입주자들의 안전을 확인 중입니다.+문 좀 열어 주시겠습니까?
-NPC-Hopps(0)<Speaker>？？？</Speaker>||:여기는 문제 없다.
-()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:남자는 티 테이블에 뒀던 권총을 집었다.
-()<Speaker>문 밖의 목소리</Speaker>||:그래도 잠깐 확인하게 문을 열어 주십시오.
-()<Speaker></Speaker>||:권총을 등뒤에 숨기고, 남자는 천천히 현관문을 열었다.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:확실히, 아파트에서 일하는 건장한 체격의 경비원이었다. 하지만 이 정도 거리라면 수상한 움직임을 보이는 순간 사살할 수 있었다.
-NPC-Bodyguard2(0)<Speaker>경호원</Speaker>||:......
-NPC-Hopps(0)<Speaker>？？？</Speaker>||:...됐나?
-NPC-Bodyguard2(0)<Speaker>경호원</Speaker>||:어디 보자... 네, 문제 없군요.+죄송합니다, 위에서 방마다 확인하라는 지시였어서 말이죠.
-NPC-Hopps(0)<Speaker>？？？</Speaker>||:문제 없으면 이만 닫겠다.
-NPC-Bodyguard2(0)<Speaker>경호원</Speaker>||:실례했습니다, 좋은 밤 되십시오.
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_20Winter_Door_Close</SE1>:쿵. 문이 닫히니, 방은 다시 고요해졌다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>82</BIN>:남자는 천천히 접객실로 가, 다시 베란다 창문 앞에 섰다. 아래로 보이는 소란은 여전했고, 저 멀리서 소방차가 달려오는 것도 보였다.
-()<Speaker>？？？</Speaker>||<SE1>Select</SE1>:꼼짝 마.
-NPC-Hopps(0)<Speaker>？？？</Speaker>||:......!
-()<Speaker>？？？</Speaker>||:움루스, 너를 국가 안보 위협 혐의로 체포한다. 무기를 버리고 투항해라.
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>403</BIN><BGM>GF_21summer_avg_SecretAgent</BGM>:두 슈타지 요원이 소리 없이 뒤에서 나타났다. 남자가 황급히 뒤를 돌아보자, 모두가 아연실색했다.
-()<Speaker>J</Speaker>||:너였냐...?!
-()<Speaker>K</Speaker>||:농담 한번 고약하군.
-()<Speaker>J</Speaker>||:이 무슨 운명의 장난이래...+안 그러냐? 움루스... 아니, 홉스였지?
-()<Speaker></Speaker>||:J는 중얼거리며 눈앞의 거구의 남자를 매섭게 노려봤다.
-()<Speaker>홉스</Speaker>||:...슈타지.
-()<Speaker></Speaker>||:홉스의 안색이 순식간에 어두워졌다.
-()<Speaker>홉스</Speaker>||:국가 안보 위협이라고? 누명을 씌우는 데 이젠 증거조차 필요가 없어진 거냐?
-()<Speaker>J</Speaker>||:증거가 있는지 없는진 네가 잘 알 텐데?
-()<Speaker>홉스</Speaker>||:저 폭발도 네놈들 짓이겠지?+이런 방법으로 경비원의 주의를 돌리다니, 함부로 움직일 수 없는 상황인가 보군.+그렇다면, 체포 영장도 없으면서 사유지를 무단 침입했다 이건가?+여기가 100년 전의 독일인 줄 아나?
-()<Speaker>K</Speaker>||:화물을 어디로 보냈지?
-()<Speaker>홉스</Speaker>||:그것 때문에 온 거였나.+슈타지가 끼어들 것 없는 일이다.
-()<Speaker>K</Speaker>||:미안하지만 그 물건이 테러에 사용된 이상 개입할 수밖에 없다.
-()<Speaker>홉스</Speaker>||:그딴 헛소리에 내가 동요할 것 같으냐?
-()<Speaker>K</Speaker>||:뭐, 네가 모를 거라곤 예상했지.+이 일의 복잡함은 네가 이해할 수 있는 범주를 넘어섰으니.
-()<Speaker>홉스</Speaker>||:...무슨 근거로 하는 말이지?
-()<Speaker>K</Speaker>||:설마 여기서 볼 줄은 우리도 몰랐지만, 네 행적은 전에 확인했다. 넌 자독당을 위해 일하지 갈라테아와는 전혀 관계가 없었어.+그들이 왜 널 감옥에서 꺼내서 또 이런 일을 시키는지는 우리도 궁금하지만, 지금까지의 네 이력을 봐서는 네가 알고 있는 정보는 매우 제한적일 테지?
-()<Speaker>J</Speaker>||:요약하면, 넌 또 이용당했다는 거다 이 멍청아.
-()<Speaker>홉스</Speaker>||:다 안다는 듯이 떠들지 마라, 슈타지.+내가 누구 밑에서 무슨 일을 하든 네놈들과는 관계도 없고 알려 줄 이유도 없다.
-()<Speaker>J</Speaker>||:말할 생각 없으면 당장 여기서 죽여버릴 수도 있다고?+베를린은 지금 이 순간에도 사건사고가 끊이질 않는데, 내가 악당놈들의 공범 한 명 죽였다고 신경쓸 사람은 없겠지.
-()<Speaker>홉스</Speaker>||:날 위협하다니 웃음밖에――
-()<Speaker>K</Speaker>||:"이아손의 상자".
-()<Speaker>홉스</Speaker>||:뭐?
-()<Speaker>K</Speaker>||:네가 밀수한 건 "이아손의 상자"라는 생화학 무기다.+몇 개월 전부터 베를린의 안팎으로 터졌던 수 차례의 소규모 테러 공격에, 놈들이 쓴 것이 바로 그거지.
-()<Speaker>홉스</Speaker>||:웃기지 마라, 내가 운반한 무기는 테러를 위한 것이 아니다.
-()<Speaker>J</Speaker>||:무기라 인정한 건 둘째 치고, 뭔 헛소리야 또? 네 윗대가리들이 그걸로 화학 비료라도 만든다대?+정신 똑바려 차려! 그게 만들어진 목적은 단 하나야, 사람 죽이는 거! 넌 생화학 무기를 빼돌려서 독일 국민들 죽이려는 걸 도와준 꼴이라고!+전에는 조국을 위해서라고 잘도 떠벌이더니, 이것도 나라 지키는 일이냐!? 앙?!
-()<Speaker>홉스</Speaker>||:......
-()<Speaker></Speaker>||:J가 그렇게까지 나오니, 홉스도 처음으로 침묵했다.
-()<Speaker>홉스</Speaker>||:...증거는?
-()<Speaker>K</Speaker>||:우릴 믿지 않아도 상관없다.+하지만 협조를 거부한다면, 수백만 베를린 시민이 희생되겠지.
-()<Speaker>홉스</Speaker>||:......
-()<Speaker></Speaker>||:홉스가 두 요원들에게 등을 돌리더니, 발 아래 베를린의 야경을 보며 다시 침묵했다.
-()<Speaker>홉스</Speaker>||:...나도, 그 물건의 종착지가 어딘지 모른다.
-()<Speaker>J</Speaker>||:뭐?
-()<Speaker>K</Speaker>||:협조하겠단 뜻인가?
-()<Speaker>홉스</Speaker>||:테러는 정치가 아니다. 의도부터가 다르지.+난 조국을 위해 헌신하기로 맹세한 몸이다. 조국과 국민에게 해가 되는 일은 내 명예를 걸고 한 적 없고, 하지도 않을 거다.
-()<Speaker>홉스</Speaker>||:...그리고 무엇보다, 매국노라면 그 뼈를 씹어먹어도 속이 시원치 않아.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐빅.+그때, 홉스의 휴대폰이 수신음을 냈다.
-()<Speaker>홉스</Speaker>||:나다.+...그래, 잘했다.+거기서 계속 놈들의 거동을 지켜보도록.
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:아주 간단한 대화 후 통화가 끝났다.
-()<Speaker>홉스</Speaker>||:화물은 지금 막 베를린 공항에 도착했다. 놈들이 내게 맡긴 일은 여기까지다.+다만 내 부하들을 잠복시켜 무기가 어디로 가는지 지켜보게 했으니, 조금만 더 기다리면 놈들이 뭘 할 셈인지 알 수 있겠지.
-()<Speaker>J</Speaker>||:진작에 손을 써놨다는 거야?
-()<Speaker>홉스</Speaker>||:아무런 이유도 없이 놈들이 날 골랐을 리 없을 테니까.
-()<Speaker>K</Speaker>||:베를린 공항... 혹시 모르니 당장 이 소식을――
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><震屏3><SE1>AVG_Sniper_Glass_Break</SE1><BIN>404</BIN>:탕!!+총성과 유리창이 깨지는 소리가 거의 동시에 방 안에 울려 퍼졌다.+충격받은 표정의 홉스도, 그대로 고꾸라졌다.
-()<Speaker>K</Speaker>||<BGM>GF_21summer_avg_Crisis</BGM>:저격수다! 엄폐해!
-()<Speaker>J</Speaker>||:제기랄!
-()<Speaker></Speaker>||:K는 재빨리 소파 뒤로 숨었고, J는 부릅 뜬 눈으로 그대로 홉스에게 몸을 던져 엎드렸다.
-()||<黑点1>:
-NPC-Keven(4)<Speaker>J</Speaker>||<黑点2><BIN>82</BIN>:누구야!?+누가 너한테 운반책 일을 맡겼어!+이름!! 이름을 말해!!
-()<Speaker>홉스</Speaker>||:메...브윽...
-NPC-Keven(4)<Speaker>J</Speaker>||:메브? 여왕 메브?+코드명이야? 여자야? 여자냐고! 이봐!!
-()<Speaker></Speaker>||:홉스의 동공이 급격히 수축했다 끊어진 고무줄처럼 풀렸고, 가슴에서 솟아나는 피가 바닥에 피웅덩이를 드리웠다.+홉스의 숨이 그자리에서 멎었다.
-NPC-Jason(0)<Speaker>K</Speaker>||:J! 철수한다! 경비원이 들이닥칠 거다!
-NPC-Jason(0)<Speaker>K</Speaker>||<SE1>AVG_tele_connect</SE1>:모나!
-()||<黑点1>:
-SP9(0)<Speaker>모나</Speaker>||<黑点2><BIN>166</BIN>:저격수를 포착해 추적 중입니다!
-()||<黑点1>:
-()<Speaker></Speaker>||<黑点2><BIN>315</BIN><SE1>RunStep</SE1>:......
-()<Speaker></Speaker>||<震屏3><BIN>315</BIN><SE1>AVG_pistol_finalshot_n</SE1>:탕!
-SP9(0)<Speaker>모나</Speaker>||:서라!
-()<Speaker></Speaker>||:건물 옥상을 넘나드는 검은 그림자를, 모나가 힘겹게 뒤쫓았다.+믿기지 않았다. 일단은 엘리트 전술인형이라 자부하는 자신이, 저 저격수와의 거리를 좁히는 데 이렇게 오래 걸리다니.+상대는 인간이 아님이 확실했다.
-SP9(0)<Speaker>모나</Speaker>||:......!
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:정말 끈질기구나. 분수도 모르고 집착하는 여자는 인기 없어요~
-()<Speaker></Speaker>||:날씬한 여인이 갑자기 멈춰 서, 모나도 제자리에 멈췄다. 그렇게 둘은 서로 한 건물의 옥상 맞은편에 서서, 밤의 찬바람을 맞으며 대치했다.
-SP9(0)<Speaker>모나</Speaker>||<SE1>Select</SE1>:살인죄로 체포한다! 무기를 버리고 투항하라!
-()<Speaker></Speaker>||:모나는 곧장 총구를 그 요염한 여인에게 겨눴다.
-SP9(0)<Speaker>모나</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_whitenoise</SE1>:너는――?!
-()<Speaker></Speaker>||:갑자기 모나의 손에 힘이 들어가질 않아, 그대로 총이 바닥에 떨어졌다. 어찌 된 영문인지 시야마저 점점 어두워져, 그 여인이 다가오는 모습을 눈뜨고 보면서도 꼼짝도 할 수가 없었다.+다 한순간에 일어난 일이었다.
-NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:아까워라...+인형만 아니었어도, 너랑 데이트를 생각해봤을 텐데.
-()<Speaker></Speaker>||:털썩.+모나는 실이 끊어진 꼭두각시처럼 쓰러졌다.
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Room</BGM><SE1>Explode</SE1><震屏3><BIN>166</BIN>:퍼엉!!
+NPC-Bodyguard1(0)<Speaker>경호원</Speaker>||<SE1>AVG_alarm</SE1>:?!!+기, 긴급상황! 긴급 상황 발생!+B 구역에서 폭발이 일어났다! 지원 바람!
+NPC-Bodyguard1(0)<Speaker>경호원</Speaker>||:아니 이런 데에 무슨... 각 인원, 경계 경보! 예비 전원 올리고 입주자 진정시켜!+폭발물 처리반도 부르고!
+()<Speaker></Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>82</BIN>:남자는 베란다 창문 앞에 서서, 갑작스런 소란에 동분서주하는 사람들을 내려다봤다.+과민 반응일 수도 있지만, 일이 끝나기 전까진 사소한 일에도 신경을 곤두세울 수밖에 없었다.+그는 이미 한 번 실패를 겪은 몸이니까.
+()<Speaker></Speaker>||<SE1>AVG_doorknock_wood</SE1>:똑똑똑!
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:누구냐?
+()<Speaker>문 밖의 목소리</Speaker>||:늦은 밤에 실례합니다, 아파트 관리팀입니다.+아파트에서 가까운 곳에 폭발이 발생해 현재 모든 입주자들의 안전을 확인 중입니다.+문 좀 열어 주시겠습니까?
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:여기는 문제 없다.
+()<Speaker></Speaker>||<SE1>AVG_weapon_reload</SE1>:남자는 티 테이블에 뒀던 권총을 집었다.
+()<Speaker>문 밖의 목소리</Speaker>||:그래도 잠깐 확인하게 문을 열어 주십시오.
+()<Speaker></Speaker>||:권총을 등뒤에 숨기고, 남자는 천천히 현관문을 열었다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1>:확실히, 아파트에서 일하는 건장한 체격의 경비원이었다. 하지만 이 정도 거리라면 수상한 움직임을 보이는 순간 사살할 수 있었다.
+NPC-Bodyguard2(0)<Speaker>경호원</Speaker>||:......
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:...됐나?
+NPC-Bodyguard2(0)<Speaker>경호원</Speaker>||:어디 보자... 네, 문제 없군요.+죄송합니다, 위에서 방마다 확인하라는 지시였어서 말이죠.
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:문제 없으면 이만 닫겠다.
+NPC-Bodyguard2(0)<Speaker>경호원</Speaker>||:실례했습니다, 좋은 밤 되십시오.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_20Winter_Door_Close</SE1>:쿵. 문이 닫히니, 방은 다시 고요해졌다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>82</BIN>:남자는 천천히 접객실로 가, 다시 베란다 창문 앞에 섰다. 아래로 보이는 소란은 여전했고, 저 멀리서 소방차가 달려오는 것도 보였다.
+()<Speaker>？？？</Speaker>||<SE1>Select</SE1>:꼼짝 마.
+NPC-Hopps(0)<Speaker>？？？</Speaker>||:......!
+()<Speaker>？？？</Speaker>||:움루스, 너를 국가 안보 위협 혐의로 체포한다. 무기를 버리고 투항해라.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>403</BIN><BGM>GF_21summer_avg_SecretAgent</BGM>:두 슈타지 요원이 소리 없이 뒤에서 나타났다. 남자가 황급히 뒤를 돌아보자, 모두가 아연실색했다.
+()<Speaker>J</Speaker>||:너였냐...?!
+()<Speaker>K</Speaker>||:농담 한번 고약하군.
+()<Speaker>J</Speaker>||:이 무슨 운명의 장난이래...+안 그러냐? 움루스... 아니, 홉스였지?
+()<Speaker></Speaker>||:J는 중얼거리며 눈앞의 거구의 남자를 매섭게 노려봤다.
+()<Speaker>홉스</Speaker>||:...슈타지.
+()<Speaker></Speaker>||:홉스의 안색이 순식간에 어두워졌다.
+()<Speaker>홉스</Speaker>||:국가 안보 위협이라고? 누명을 씌우는 데 이젠 증거조차 필요가 없어진 거냐?
+()<Speaker>J</Speaker>||:증거가 있는지 없는진 네가 잘 알 텐데?
+()<Speaker>홉스</Speaker>||:저 폭발도 네놈들 짓이겠지?+이런 방법으로 경비원의 주의를 돌리다니, 함부로 움직일 수 없는 상황인가 보군.+그렇다면, 체포 영장도 없으면서 사유지를 무단 침입했다 이건가?+여기가 100년 전의 독일인 줄 아나?
+()<Speaker>K</Speaker>||:화물을 어디로 보냈지?
+()<Speaker>홉스</Speaker>||:그것 때문에 온 거였나.+슈타지가 끼어들 것 없는 일이다.
+()<Speaker>K</Speaker>||:미안하지만 그 물건이 테러에 사용된 이상 개입할 수밖에 없다.
+()<Speaker>홉스</Speaker>||:그딴 헛소리에 내가 동요할 것 같으냐?
+()<Speaker>K</Speaker>||:뭐, 네가 모를 거라곤 예상했지.+이 일의 복잡함은 네가 이해할 수 있는 범주를 넘어섰으니.
+()<Speaker>홉스</Speaker>||:...무슨 근거로 하는 말이지?
+()<Speaker>K</Speaker>||:설마 여기서 볼 줄은 우리도 몰랐지만, 네 행적은 전에 확인했다. 넌 자독당을 위해 일하지 갈라테아와는 전혀 관계가 없었어.+그들이 왜 널 감옥에서 꺼내서 또 이런 일을 시키는지는 우리도 궁금하지만, 지금까지의 네 이력을 봐서는 네가 알고 있는 정보는 매우 제한적일 테지?
+()<Speaker>J</Speaker>||:요약하면, 넌 또 이용당했다는 거다 이 멍청아.
+()<Speaker>홉스</Speaker>||:다 안다는 듯이 떠들지 마라, 슈타지.+내가 누구 밑에서 무슨 일을 하든 네놈들과는 관계도 없고 알려 줄 이유도 없다.
+()<Speaker>J</Speaker>||:말할 생각 없으면 당장 여기서 죽여버릴 수도 있다고?+베를린은 지금 이 순간에도 사건사고가 끊이질 않는데, 내가 악당놈들의 공범 한 명 죽였다고 신경쓸 사람은 없겠지.
+()<Speaker>홉스</Speaker>||:날 위협하다니 웃음밖에――
+()<Speaker>K</Speaker>||:"이아손의 상자".
+()<Speaker>홉스</Speaker>||:뭐?
+()<Speaker>K</Speaker>||:네가 밀수한 건 "이아손의 상자"라는 생화학 무기다.+몇 개월 전부터 베를린의 안팎으로 터졌던 수 차례의 소규모 테러 공격에, 놈들이 쓴 것이 바로 그거지.
+()<Speaker>홉스</Speaker>||:웃기지 마라, 내가 운반한 무기는 테러를 위한 것이 아니다.
+()<Speaker>J</Speaker>||:무기라 인정한 건 둘째 치고, 뭔 헛소리야 또? 네 윗대가리들이 그걸로 화학 비료라도 만든다대?+정신 똑바려 차려! 그게 만들어진 목적은 단 하나야, 사람 죽이는 거! 넌 생화학 무기를 빼돌려서 독일 국민들 죽이려는 걸 도와준 꼴이라고!+전에는 조국을 위해서라고 잘도 떠벌이더니, 이것도 나라 지키는 일이냐!? 앙?!
+()<Speaker>홉스</Speaker>||:......
+()<Speaker></Speaker>||:J가 그렇게까지 나오니, 홉스도 처음으로 침묵했다.
+()<Speaker>홉스</Speaker>||:...증거는?
+()<Speaker>K</Speaker>||:우릴 믿지 않아도 상관없다.+하지만 협조를 거부한다면, 수백만 베를린 시민이 희생되겠지.
+()<Speaker>홉스</Speaker>||:......
+()<Speaker></Speaker>||:홉스가 두 요원들에게 등을 돌리더니, 발 아래 베를린의 야경을 보며 다시 침묵했다.
+()<Speaker>홉스</Speaker>||:...나도, 그 물건의 종착지가 어딘지 모른다.
+()<Speaker>J</Speaker>||:뭐?
+()<Speaker>K</Speaker>||:협조하겠단 뜻인가?
+()<Speaker>홉스</Speaker>||:테러는 정치가 아니다. 의도부터가 다르지.+난 조국을 위해 헌신하기로 맹세한 몸이다. 조국과 국민에게 해가 되는 일은 내 명예를 걸고 한 적 없고, 하지도 않을 거다.
+()<Speaker>홉스</Speaker>||:...그리고 무엇보다, 매국노라면 그 뼈를 씹어먹어도 속이 시원치 않아.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐빅.+그때, 홉스의 휴대폰이 수신음을 냈다.
+()<Speaker>홉스</Speaker>||:나다.+...그래, 잘했다.+거기서 계속 놈들의 거동을 지켜보도록.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:아주 간단한 대화 후 통화가 끝났다.
+()<Speaker>홉스</Speaker>||:화물은 지금 막 베를린 공항에 도착했다. 놈들이 내게 맡긴 일은 여기까지다.+다만 내 부하들을 잠복시켜 무기가 어디로 가는지 지켜보게 했으니, 조금만 더 기다리면 놈들이 뭘 할 셈인지 알 수 있겠지.
+()<Speaker>J</Speaker>||:진작에 손을 써놨다는 거야?
+()<Speaker>홉스</Speaker>||:아무런 이유도 없이 놈들이 날 골랐을 리 없을 테니까.
+()<Speaker>K</Speaker>||:베를린 공항... 혹시 모르니 당장 이 소식을――
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><震屏3><SE1>AVG_Sniper_Glass_Break</SE1><BIN>404</BIN>:탕!!+총성과 유리창이 깨지는 소리가 거의 동시에 방 안에 울려 퍼졌다.+충격받은 표정의 홉스도, 그대로 고꾸라졌다.
+()<Speaker>K</Speaker>||<BGM>GF_21summer_avg_Crisis</BGM>:저격수다! 엄폐해!
+()<Speaker>J</Speaker>||:제기랄!
+()<Speaker></Speaker>||:K는 재빨리 소파 뒤로 숨었고, J는 부릅 뜬 눈으로 그대로 홉스에게 몸을 던져 엎드렸다.
+()||<黑点1>:
+NPC-Keven(4)<Speaker>J</Speaker>||<黑点2><BIN>82</BIN>:누구야!?+누가 너한테 운반책 일을 맡겼어!+이름!! 이름을 말해!!
+()<Speaker>홉스</Speaker>||:메...브윽...
+NPC-Keven(4)<Speaker>J</Speaker>||:메브? 여왕 메브?+코드명이야? 여자야? 여자냐고! 이봐!!
+()<Speaker></Speaker>||:홉스의 동공이 급격히 수축했다 끊어진 고무줄처럼 풀렸고, 가슴에서 솟아나는 피가 바닥에 피웅덩이를 드리웠다.+홉스의 숨이 그자리에서 멎었다.
+NPC-Jason(0)<Speaker>K</Speaker>||:J! 철수한다! 경비원이 들이닥칠 거다!
+NPC-Jason(0)<Speaker>K</Speaker>||<SE1>AVG_tele_connect</SE1>:모나!
+()||<黑点1>:
+SP9(0)<Speaker>모나</Speaker>||<黑点2><BIN>166</BIN>:저격수를 포착해 추적 중입니다!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>315</BIN><SE1>RunStep</SE1>:......
+()<Speaker></Speaker>||<震屏3><BIN>315</BIN><SE1>AVG_pistol_finalshot_n</SE1>:탕!
+SP9(0)<Speaker>모나</Speaker>||:서라!
+()<Speaker></Speaker>||:건물 옥상을 넘나드는 검은 그림자를, 모나가 힘겹게 뒤쫓았다.+믿기지 않았다. 일단은 엘리트 전술인형이라 자부하는 자신이, 저 저격수와의 거리를 좁히는 데 이렇게 오래 걸리다니.+상대는 인간이 아님이 확실했다.
+SP9(0)<Speaker>모나</Speaker>||:......!
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:정말 끈질기구나. 분수도 모르고 집착하는 여자는 인기 없어요~
+()<Speaker></Speaker>||:날씬한 여인이 갑자기 멈춰 서, 모나도 제자리에 멈췄다. 그렇게 둘은 서로 한 건물의 옥상 맞은편에 서서, 밤의 찬바람을 맞으며 대치했다.
+SP9(0)<Speaker>모나</Speaker>||<SE1>Select</SE1>:살인죄로 체포한다! 무기를 버리고 투항하라!
+()<Speaker></Speaker>||:모나는 곧장 총구를 그 요염한 여인에게 겨눴다.
+SP9(0)<Speaker>모나</Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_whitenoise</SE1>:너는――?!
+()<Speaker></Speaker>||:갑자기 모나의 손에 힘이 들어가질 않아, 그대로 총이 바닥에 떨어졌다. 어찌 된 영문인지 시야마저 점점 어두워져, 그 여인이 다가오는 모습을 눈뜨고 보면서도 꼼짝도 할 수가 없었다.+다 한순간에 일어난 일이었다.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:아까워라...+인형만 아니었어도, 너랑 데이트를 생각해봤을 텐데.
+()<Speaker></Speaker>||:털썩.+모나는 실이 끊어진 꼭두각시처럼 쓰러졌다.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:

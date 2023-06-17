@@ -1,0 +1,27 @@
+
+tyre_enemy.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+main
+  rotate: false
+  xy: 2, 24
+  size: 149, 154
+  orig: 149, 154
+  offset: 0, 0
+  index: -1
+mainL
+  rotate: true
+  xy: 153, 99
+  size: 79, 101
+  orig: 79, 101
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 2
+  size: 62, 20
+  orig: 62, 20
+  offset: 0, 0
+  index: -1

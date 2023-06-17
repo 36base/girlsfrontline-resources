@@ -1,0 +1,45 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BGM>GF_EV9_Story</BGM><SE1>AVG_Steam_Train</SE1><黑屏2><BIN>532</BIN><narrator>:신소련, 모스크바 벨로루스키 역.
+NPC-TD_Porter(1)<Speaker>수잔나</Speaker>||<SE1>AVG_20Winter_Book</SE1>:정상 발권되었습니다, 류드밀라 교관님. 좌석표를 분실하지 마시기 바랍니다.+즐거운 여행 되십시오.
+AR18(2)<Speaker>"Я"교관</Speaker><Position>0,70</Position>||:...음.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:"Я" 교관은 가볍게 고개를 끄덕이며 승무원에게서 표를 받아, 손에 든 서류 봉투에 넣었다.+그리고 자신이 탈 객차의 방향을 확인한 뒤, 약속한 것처럼 손목시계를 두드렸다.
+()<Speaker></Speaker>||<SE1>AVG_Mechanical</SE1>:찰칵.+바늘이 움직이자, "류드밀라"가 천천히 눈을 떴다. 그녀의 시선은 여전히 시계에 꽂혀 있었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:곧장 팔을 살짝 털어 손목시계를 소매 안으로 감춘 그녀는 손에 서류 봉투가 들려있음을 확인했다.
+()<Speaker></Speaker>||:그리고 주위를 스윽 둘러본 다음, 류드밀라는 외투의 옷깃을 펴곤 조용히 사람들 사이로 모습을 숨겼다.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||<黑屏2><BIN>420</BIN><SE1>AVG_door_elecport</SE1>:그럼 내게 무슨 일을 시키려는지 어디 한번 볼까, "Я" 교관.
+()<Speaker></Speaker>||:역의 화장실에 숨은 류드밀라는 서류 봉투를 열어, 그녀가 확인해야 하는 물건을 꺼냈다.
+()<Speaker></Speaker>||:자신이 연기할 신분의 정보가 담긴 서류와 이를 "증명"할 위조 신분 서류, 그리고 서류들과는 다른 크기의 쪽지였다.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:이런 시대에 종이로 정보 전달이라니.+뭐어 그래, 보안을 철저히 하려면 고전적인 수단이 효과적일 때도 있는 법이지.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:류드밀라는 대놓고 비아냥대며 쪽지를 펼쳐 내용을 확인하자마자 갈기갈기 찢었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:치익...
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Wash_Hands</SE1>:화르륵!+갈기갈기 찢은 종이를 옆의 재떨이에 남은 불씨로 태워버리고, 재는 하수구로 흘려보냈다.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리고 손에 묻은 그을음도 세면대에서 깨끗이 씻어냈다.+손에 물기 한 방울 없도록 닦은 뒤 장갑을 다시 끼고서, 류드밀라는 화장실을 나섰다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BGM>BGM_Empty</BGM><BIN>529</BIN><SE1>AVG_door_elecport</SE1><narrator>:대륙간 열차 "미래호", F02호 객차.
+()<Speaker></Speaker>||<SE1>Rope</SE1><BGM>BGM_Room</BGM>:열차에 올라탄 류드밀라는 좌석표에 적힌 자리에 반듯하게 앉았다.
+()<Speaker></Speaker>||:그리고, 서류 봉투에서 "초청장"을 꺼내서 품에 넣었다.+그때, 승무원이 기다렸다는 듯 친절한 미소와 함께 다가왔다.
+NPC-TD_Porter(0)<Speaker>수잔나</Speaker>||:안녕하세요 류드밀라 교관님, 음료수 주문하시겠습니까?
+AR18(3)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:...홍차.
+()<Speaker></Speaker>||:류드밀라는 승무원을 곁눈질로만 보며 고개를 살짝 끄덕였다.+이에 대답을 받은 승무원도 더 이상 말을 걸지 않고 자리를 떠났다.
+AR18(3)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:잠시 뜸을 들인 후, 류드밀라는 손을 뻗어 옆에 위치한 좌석 주머니에서 신문지를 집었다.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:<color=#A9A9A9>일곱... 여덟...</color>
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:신문지를 펼쳐 헤드라인을 읽는 척하면서, 수를 세는 것이었다.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:<color=#A9A9A9>이 객차의 좌석은 총 50개. 현재 승객 28명.</color>+<color=#A9A9A9>남성 18명, 여성 7명, 아동 3명. 이중 인형은 6명.</color>
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:<color=#A9A9A9>벨로루스키 역에서 탑승한 승객은 12명.</color>
+()<Speaker></Speaker>||:류드밀라는 소리없이 이 객차의 모든 승객들의 외모를 파악하고 기억했다.
+NPC-TD_Porter(1)<Speaker>수잔나</Speaker>||<SE1>AVG_20Winter_Drink_Tea</SE1>:주문하신 홍차 나왔습니다.+달리 더 필요한 것 있으실까요?
+AR18(3)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:아니, 당분간은 필요 없어. 고맙다.
+NPC-TD_Porter(1)<Speaker>수잔나</Speaker>||:알겠습니다. 도움이 필요하실 경우 좌석 팔걸이의 호출 버튼을 눌러 주십시오.+호출을 받는 즉시 저, 혹은 다른 승무원이 올 겁니다.
+()<Speaker></Speaker>||<SE1>AVG_File_Put</SE1>:류드밀라는 신문지를 내려놓고 천천히 차를 한 모금 마셨다.+그러면서도, 그녀의 시선은 군더더기 없는 걸음걸이로 이동하는 승무원을 쫓았다.
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:<color=#A9A9A9>차량 내 승무원은 총 4명, 전원 인형.</color>
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=8</controll_shake><SE1>AVG_Eurocity</SE1>:쿠르릉...+정보를 정리하는 사이, 미래호가 거대한 짐승처럼 으르렁 소리를 내었다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Doorbell</SE1>:띵――동――
+()<Speaker></Speaker>||:<color=#00CCFF>손님 여러분 안녕하십니까, 대륙간 열차 EN440-13M 미래호에 탑승하신 것을 환영합니다. 우리 열차는 곧 출발하겠습니다.</color>+<color=#00CCFF>손님 여러분의 안전을 위하여, 열차 운행 중 자리에 앉아 계실 때는 안전벨트를 반드시 착용하시기 바랍니다.</color>+<color=#00CCFF>여러분의 협조에 감사드립니다.</color>
+AR18(2)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:<color=#A9A9A9>퇴역 교관 "류드밀라 파블리첸코", 임무는 인형 암시장 "콜트 익스프레스"에 잠입하여 배후의 호스트 및 예속 세력 조사.</color>
+AR18(3)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:과연 "Я" 교관이군, 제1단계 임무부터 아주 꼼꼼하게 계획했어.
+()<Speaker></Speaker>||:......
+()||<黑点1>:

@@ -1,0 +1,184 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><narrator><BGM>BGM_Truth</BGM>:아직 포기해서는 안 된다, 서광은 이미 도래했다.+아니, 틀렸어... 저 앞엔 아무것도 없어...+있어! 기다려, 태양은 곧 떠오른다!+하지만 그때까지 버틸 수나 있을지... 아니, 더는 버티지 못해...
+()<Speaker></Speaker>||<narrator><SE1>AVG_Bell</SE1>:낡은 세상은 끝에 달했다.+그렇다면 새로운 세상은? 새 세상은...+2051년, 새로운 시대가 열렸다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>97</BIN><BGM>BGM_Empty</BGM>:베를린, 그리폰 임시 기지.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1><BGM>GF_EV9_Story</BGM>:뚜벅 뚜벅 뚜벅...+텅 빈 복도에는 지휘관의 바쁜 발소리가 울려 퍼지고 있었다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐삐삑!+헬리안의 통신이었다.
+()<Speaker></Speaker>||:지휘관은 걸음을 늦추지 않으면서 그 통신을 받았다.
+NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:<color=#00CCFF>지휘관, 국경 통행증과 발포 허가 전부 발급됐습니다.</color>+<color=#00CCFF>당신의 보증서와 서명이 필요합니다.</color>
+NPC-Helian(0)<Speaker>지휘관</Speaker><同时置暗>||:알겠습니다, 30분만 기다려 주십시오.
+NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:<color=#00CCFF>30분 후엔 밖의 물자 운송 처리를 해야 합니다만.</color>
+NPC-Helian(0)<Speaker>지휘관</Speaker><同时置暗>||:...그럼 15분. 15분 뒤에 페르시카 씨의 실험실 앞에서 뵙죠, 그리고 같이 갑시다.
+NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:<color=#00CCFF>안전국에서 보낸 그 "선물" 말이군요? 알겠습니다. 그런데...</color>
+()<Speaker></Speaker>||:헬리안이 그녀답지 않게 뜸을 들였다.
+()<Speaker></Speaker>||<SE1>AVG_Button_Click</SE1><SE1>AVG_door_elecport</SE1>:엘레베이터에 다다른 지휘관은 버튼을 누르며 물었다.
+()||<黑点1>:
+()<Speaker>지휘관</Speaker>||<SE1>Stop_AVG_loop</SE1><黑点2><BIN>46</BIN>:...또 무슨 일 있으십니까?
+NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:<color=#00CCFF>너무 무리 말라 당부하고 싶지만, 당장 지금은 매우 급박한 상황이라 우리에겐 당신이 꼭 필요합니다.</color>+<color=#00CCFF>수고 많아요, 부디 건강에 주의하십시오.</color>
+NPC-Helian(0)<Speaker>지휘관</Speaker><同时置暗>||:...헬리안 씨도 건강 주의하십시오.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Doorbell</SE1>:지휘관이 통신을 종료하자, 하강하던 엘레베이터도 타이밍 좋게 지하층에 도착했다.
+()||<黑点1><SE1>AVG_BaseDoor_Open</SE1>:
+()<Speaker></Speaker>||<黑点2><BIN>89</BIN><BGM>BGM_Empty</BGM>:엘레베이터 문이 열린 밖은, 썰렁했다.
+()<Speaker></Speaker>||:......이상했다.
+()<Speaker>지휘관</Speaker>||:<color=#A9A9A9>당직 인형이 자리에 없다...?</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 잠깐 머뭇거리다, 바로 허리춤의 권총을 빼 들었다.
+()<Speaker>지휘관</Speaker>||:............
+()<Speaker></Speaker>||:지나치게 조용했다. 페르시카가 일할 때 들리는, 최대 출력으로 돌아가는 기계의 소음마저 들리지 않았다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:지휘관은 경계하며 긴급 호출을 불렀다.
+NytoIsomer(4)<Speaker>댄들라이</Speaker><Position>0,-80</Position><通讯框>||:<color=#00CCFF>——상황실입니다.</color>
+NytoIsomer(4)<Speaker>지휘관</Speaker><Position>0,-80</Position><同时置暗>||:B3층 상황 확인해.
+NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position><通讯框>||<SE1>AVG_keyboardtype_sci</SE1>:<color=#00CCFF>네, 잠시 기다려 주십시오.</color>+<color=#00CCFF>이상 없습니다. 현재 당직은 SCR과 M249, 방금 컨텐더와 M60에게 인수인계하러 실험실로 갔습니다.</color>
+()<Speaker></Speaker>||<Night><BIN>89</BIN><SE1>AVG_Power_Down</SE1><震屏3>:투웅.+그때, 복도의 전등이 전부 꺼졌다.
+()<Speaker>지휘관</Speaker>||:...누가 전원까지 내렸는데.
+NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position><通讯框>||:<color=#00CCFF>이상하군요, 여긴 아직 아무런――</color>
+NytoIsomer(5)<Speaker>댄들라이</Speaker><Position>0,-80</Position><通讯框>||:<color=#00CCFF>아니, 감시 화상의 시간이 조작됐습니다.</color>
+()<Speaker>지휘관</Speaker>||:!!!+<color=#A9A9A9>패러데우스? 반란군? 아니면——</color>
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_SCARL2</SE1><震屏3><BGM>10254</BGM>:타앙!
+()<Speaker></Speaker>||:한 발의 탄환이 지휘관의 발치에 떨어졌다.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:지휘관은 즉각 몸을 굴려 바닥에 밀착해, 권총을 단단히 쥐고 신경을 곤두세웠다.+사방은 어둡고 쥐 죽은 듯 고요했다.+들리는 것은 최대한 소리를 죽인 자신의 숨소리뿐이었다.
+NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position><通讯框>||<SE1>AVG_keyboardtype_sci</SE1>:<color=#00CCFF>엘레베이터 전원 복구했습니다.</color>+<color=#00CCFF>지휘관님, 현재 AR-15가 대응 부대를 이끌고 통로를 봉쇄 중입니다.</color>+<color=#00CCFF>그들이 도착할 때까지 조심하십시오.</color>
+NytoIsomer(3)<Speaker>지휘관</Speaker><Position>0,-80</Position><同时置暗>||:페르시카 씨는? 무사해?
+NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position><通讯框>||:<color=#00CCFF>............</color>
+NytoIsomer(3)<Speaker>지휘관</Speaker><Position>0,-80</Position><同时置暗>||:<size=50>지금 어떠냐고!</size>
+NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position><通讯框>||:<color=#00CCFF>...죄송합니다, 카메라에 잡히지 않습니다.</color>
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_Gunpast</SE1><震屏3>:타앙!+또 한 발이 지휘관의 발치에 튀었다.+빗나갔나?+...아니다, 저건 정확하게 노린 것이다.
+()<Speaker></Speaker>||<SE1>RunStep</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=5</controll_shake>:지휘관은 기억하는 방향을 따라 총을 들고 실험실로 달음박질했다.
+()||<黑点1><SE1>AVG_BaseDoor_Open</SE1>:
+()<Speaker></Speaker>||<黑点2><Night><BIN>564</BIN>:임시 기지 B3층의 실험실.+자동문의 터치 패널만이 어둠 속에서 빛을 발하고 있었다.+다만 그 희미한 불빛으로도 잔뜩 금이 간 유리 문, 찌그러진 금속 탱크, 온갖 것으로 난장판인 바닥이 똑똑히 보였다.+그리고 찌그러진 탱크 너머, 목덜미에 구부러진 철사가 꽂힌 채 바닥에 쓰러진 컨텐더도.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 침착하게 터치 패널에 손을 댔다.
+()<Speaker>시스템</Speaker>||<SE1>AVG_Card_Reader</SE1>:<color=#FFFF00>신분 확인 중...</color>+<color=#FFFF00>확인 완료.</color>
+()<Speaker></Speaker>||<SE1>AVG_BaseDoor_Open</SE1>:자동문은 아무렇지도 않게 열렸다.+이에 지휘관은 더더욱 숨을 죽였다.
+()<Speaker></Speaker>||<SE1>AVG_ElecSpace</SE1>:삐이이――!!
+()<Speaker></Speaker>||:그리고 지휘관의 예상에 응답하듯, 고막을 찢을 듯한 경보음과 붉은색으로 번쩍이는 경고등이 실험실 안을 가득 채웠다.
+()<Speaker></Speaker>||:눈앞의 수복 캡슐은 덮개가 활짝 열려 있어, 내부가 훤히 드러난 상태였다.+텅 비었다. "그것"이 사라졌다.+지휘관의 표정이 어두워졌다.+외부로부터의 침투인가? 페르시카는 어디 있지? 대체 누가, 어떻게 아무런 기척도 없이 숨어들었지? 아니, "그것"이 안전국에서 여기로 보내진 것을 알아냈지?+...아니었다. 조금 전 두 발의 탄환. 그것은 지휘관을 실험실 안으로 유인하기 위한 것이었다.
+()<Speaker>지휘관</Speaker>||:――!!
+()<Speaker></Speaker>||<SE1>AVG_XXS_kick</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=6</controll_shake>:퍼억!+돌풍이 닥쳐오는 것을 느낀 순간, 지휘관은 낼 수 있는 전력으로 그에 반응했다.+하지만 그럼에도 여전히 늦었다.
+()<Speaker>지휘관</Speaker>||<震屏3><SE1>AVG_Punch</SE1>:크윽...!
+()<Speaker></Speaker>||<SE1>AVG_21Winter_Phone_Crash</SE1>:총을 쥔 손은 강타당해 권총이 그대로 튕겨나갔다.
+()<Speaker></Speaker>||()||<bg_move>%%pivot_x=0.5%%pivot_y=0.5%%scale=1.2%%duration=10%%</bg_move><SE1>AVG_Punch_Hit</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=10</controll_shake>:그리고 거의 동시에, 엄청난 충격으로 몸이 바닥으로 내팽개쳐졌다.
+()<Speaker>？？？？</Speaker>||<SE1>AVG_2022Saros_SCARL1</SE1><BGM>BGM_Empty</BGM>:꼼짝 마.
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_Punch_Hit</SE1><SE1>ClothingUp</SE1>:등이 짓눌린 느낌과 뒤통수의 차가운 금속의 감촉. 바닥에 제압된 지휘관은 얌전히 손을 들었다.+"누구지?"+그 의문에 대한 답은 지휘관의 머릿속에 서서히 떠올랐다.
+()<Speaker>지휘관</Speaker>||:...SCAR-L?
+()<Speaker>？？？？</Speaker>||<BGM>GF_22W_BGM_2</BGM>:............
+()<Speaker></Speaker>||:대답은 없었다.+다만 대답을 거부하는 것도 하나의 대답이었다.
+()<Speaker>지휘관</Speaker>||:벌써 깨어났구나.+안전국의 선물은 정말로 깜짝 상자였네.
+()<Speaker>？？？？</Speaker>||:당신이 이곳의 지휘관이군.
+()<Speaker></Speaker>||:한기가 느껴지는 목소리가 단호하게 말했다.
+()<Speaker>지휘관</Speaker>||:외부 침입 흔적도 전혀 없고... 전부 네가 한 짓이야?
+()<Speaker>？？？？</Speaker>||:............
+()<Speaker></Speaker>||<睁眼><SE1>AVG_21Winter_Open_Light</SE1><BIN>564</BIN><关闭蒙版>:파앗.+그때, 실험실의 조명이 돌아왔다.
+AR15Mod(0)<Speaker>AR15</Speaker>||<SE1>Select</SE1><SE1>AVG_tele_connect</SE1>:시야 회복, 목표 포착.+댄들라이, 목표는 인형 한 명.
+AR15Mod(0);NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position><通讯框>||:<color=#00CCFF>...이상하네? 시스템이 전혀 달라, 내가 처리할 수 없어.</color>
+AR15Mod(5)<Speaker>AR15</Speaker>||:10년도 넘은 구식 모델답네. 거기 너! 당장 무장 해제해!
+()<Speaker>？？？？</Speaker>||:...너희, 함부로 움직이지 마라.
+()<Speaker></Speaker>||:지휘관에겐 등에 올라탄 인형의 표정이 보이진 않았지만, 뒤통수에 가해지는 압력이 더 강해진 것은 확실히 느껴졌다.
+()<Speaker>지휘관</Speaker>||:진정해, 우린 적이 아니야.+3차 세계 대전은 이미――
+()<Speaker>？？？？</Speaker>||:끝났죠.
+()<Speaker>지휘관</Speaker>||:......!
+()<Speaker></Speaker>||:이는 지휘관에게도 확실히 뜻밖이었다. 그걸 알면서도 왜 그녀는 자신에게 총구를 향하는 것인지 의문스러웠다.
+()<Speaker>？？？？</Speaker>||:레인저를 생포할 생각을 해선 안 됐습니다.
+()<Speaker>지휘관</Speaker>||:네가 충성하던 대상은 이제 없어. 3차 세계 대전으로 모든 정부가 재구성됐어.
+()<Speaker>？？？？</Speaker>||:그래서요?+그러니 당신에게 충성하란 말입니까?
+AR15Mod(5)<Speaker>AR15</Speaker>||:죽기 싫음 당장 무기 버리라고!
+()<Speaker>지휘관</Speaker>||:...OPS는 실패했다. 임무 코드 CA0311을 해제한다.
+()<Speaker></Speaker>||:공기가 잠시 얼어붙어, 째깍이는 시계 소리마저 늘어지는 것 같았다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:상대가 미동도 않자, AR-15는 살짝 총구를 들었다.
+()<Speaker>？？？？</Speaker>||:............
+()<Speaker>지휘관</Speaker>||:AR-15, 총구 내려.+그리고 SCAR-L, 우리 대화로 해결할까?
+()<Speaker>？？？？</Speaker>||:............
+()<Speaker>지휘관</Speaker>||:날 화나게 해서, 너를 파괴 또는 해체하거나 안전국으로 되돌려 보내도록 만드는 게 목적이라면...+미안하지만 그럴 일은 없어.
+()<Speaker>지휘관</Speaker>||:십 년 넘게 봉인되어 있었음에도 넌 여전히 냉철한 판단력과 사고로 신속정확하게 행동했지.+너는 내게 3차 대전에서 활약한 엘리트 전술인형으로서의 능력을 증명해 보였다.+나는 네게 내가 신뢰하고 충성할 수 있는 지휘관임을 증명해 보이겠어.
+()<Speaker>？？？？</Speaker>||:전 당신에게 충성할 수 없습니다.
+()<Speaker>지휘관</Speaker>||:왜지?
+()<Speaker>？？？？</Speaker>||:저의 기반 설정 때문입니다. "군번줄"은 오직 하나입니다.
+()<Speaker>지휘관</Speaker>||:네가 원치 않는다면 어떠한 개조도 억지로 시키지 않아.
+()<Speaker>？？？？</Speaker>||:...지휘관이란 직책의 원칙에 어긋납니다만.
+()<Speaker>지휘관</Speaker>||:하지만 이게 나의 원칙이야.+누구에게나, 인형을 포함한 누구나, 다 자신만의 "자유"를 추구할 자격과 권리가 있어.
+()<Speaker>？？？？</Speaker>||:......"자유"... 말입니까?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:등이 가벼워진 지휘관은 몸을 일으켜 세울 수 있었다.+그리고 그제서야 이 "전설의 인형"의 모습을 제대로 확인할 수 있었다.
+NPC-SCAR-L(0)<Speaker>？？？？</Speaker><GradientShow>2</GradientShow>||:서광 팀, "엘리아나"입니다.
+NPC-SCAR-L(0)<Speaker></Speaker><同时置暗>||<SE1>AVG_weapon_reload</SE1>:큰 키의 늘씬한 이 인형은 총을 거두는 동작도 깔끔했다.
+NPC-SCAR-L(3)<Speaker></Speaker><同时置暗>||<SE1>ClothingUp</SE1>:온몸으로 늠름한 위압감을 뿜어내면서도, 얼굴에는 온화한 미소를 띄운 그녀는 지휘관에게 손을 내밀었다.
+NPC-SCAR-L(3)<Speaker>엘리아나</Speaker>||:지휘관, 시계 교정 바랍니다.
+NPC-SCAR-L(3)<Speaker>지휘관</Speaker><同时置暗>||<SE1>AVG_Camera_Focus</SE1>:독일 베를린, 현재 시각 오후 4시 56분.
+NPC-SCAR-L(3)<Speaker>지휘관</Speaker><同时置暗>||:그런데, 혹시 깨어났을 때 페르시카 씨 못 봤니?
+NPC-SCAR-L(3)<Speaker>엘리아나</Speaker>||:그 여성 연구원 말씀이시라면 아래층 창고의 B6 구역에 있습니다.
+()||<BGM>BGM_Empty</BGM><黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:............
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>357</BIN>:임시 기지의 지휘실.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:지휘실로 돌아온 지휘관은 탁상에 산처럼 쌓인 서류의 처리 업무에 착수했다.
+NytoIsomer(3)<Speaker>댄들라이</Speaker><Position>0,-80</Position>||:그녀는 평범한 전술인형이 아닙니다. 꽤 많은 비밀도 숨기고 있고요.
+()<Speaker>지휘관</Speaker>||:지금은 찬밥 더운밥 가릴 때가 아니야.+다가올 싸움에 이기기 위해서라면, 전력을 강화할 수 있는 기회는 전부 붙잡아야 해.+그녀가 무엇을 숨기고 있든, 내게 무엇을 밝히든, 실력을 온전히 발휘해 주기만 하면 돼.+천재는 다 고집이 있는 법이야, 댄들라이.
+NytoIsomer(4)<Speaker>댄들라이</Speaker><Position>0,-80</Position>||:과연... 그런데 그 말씀, 저를 칭찬하는 것으로 받아들여도 될까요?
+()<Speaker>지휘관</Speaker>||:으휴...
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>85</BIN><BGM>BGM_Room</BGM>:임시 회의실.
+()<Speaker></Speaker>||:썰렁한 회의실 안, 인형들은 저마다 각기 다른 표정으로 적당히 거리를 두고 테이블에 모여 앉아 있었다.
+Contender(0)<Speaker>컨텐더</Speaker>||<SE1>ClothingUp</SE1>:......칫!
+()<Speaker></Speaker>||:그중 더 참지 못하고 가장 먼저 소리를 낸 것은 가운데에 앉은 컨텐더였다.
+Contender(0)<Speaker>컨텐더</Speaker>||:그래서 지휘관님이 무슨 일로 우릴 부르셨는지 아무도 몰라?
+M60(0)<Speaker>M60</Speaker><Position>0,-50</Position>||:처벌 때문 아닐까...?+페르시카 씨 경호를 똑바로 못 했으니...
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:이미 벌어진 일이니 교훈으로 삼아라~ 같은 말이라도 하려는 게 아닐까?
+Contender(0)<Speaker>컨텐더</Speaker>||:............
+()<Speaker></Speaker>||<SE1>Rope</SE1>:컨텐더는 그 1초도 채 걸리지 않은 "조우전"을 다시 떠올리곤 주먹을 꽉 움켜쥐었다.
+Contender(0)<Speaker>컨텐더</Speaker>||:그 녀석의 기습을 허용한 건 내가 경계에 소홀했던 탓이 맞아...+<size=50>SCR!</size>
+NPC-SCR(5)<Speaker>SCR</Speaker><Shake>0.1</Shake>||<SE1>ClothingUp</SE1>:어, 응!?
+()<Speaker></Speaker>||:갑작스런 호명에, 구석에 앉은 SCR은 화들짝 놀랐다.
+Contender(0)<Speaker>컨텐더</Speaker>||:그때 실험실 안에서 페르시카 씨를 돕던 건 너였잖아!+넌 침입자의 모습을 보지 못했어?
+NPC-SCR(4)<Speaker>SCR</Speaker>||:............
+()<Speaker></Speaker>||:SCR은 마른 침을 꿀꺽 삼키며 입을 벌려 무언가 말하려는 듯했지만, 그 말은 목에 걸려 나오지 않았다.
+M60(0)<Speaker>M60</Speaker><Position>0,-50</Position>||:진정해, 컨텐더.+SCR은 작전 경험이 거의 빵이라 지금 우리 일손 부족한 거 아니었음 경호 임무를 받지도 못했을 거야.+그러니까 너무 나무라지 마.
+()<Speaker></Speaker>||:즉, "기대하지 말라."+SCR은 말없이 고개를 떨궜다. 저 말에 반박할 수 없다는 것이 지금 가장 억울한 일이었다.
+M249SAW(0)<Speaker>M249</Speaker>||:다 알지도 못하면서 떠들지 말지?
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><震屏3>:쿵!+컨텐더가 분에 겨워 주먹으로 테이블을 내리쳤다.
+Contender(0)<Speaker>컨텐더</Speaker>||:<size=50>지금 그리폰은 모두가 곧 다가올 전쟁을 준비하고 있어!</size>+<size=50>그런데 우린 여기서 잠자코 있어야 한다니, 너흰 초조하지도 않아!?</size>
+M249SAW(0)<Speaker>M249</Speaker>||:심정은 이해하는데, 그렇다고 성질내서 무슨 소용이야.
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:아무튼 안심해, 무슨 처벌 같은 건 절대 아닐 테니까.+생각해 봐, 정말 처벌이라면 왜 나까지 불렀겠어?+난 실험실 보초 임무 맡지도 않았는데.
+M249SAW(0)<Speaker>M249</Speaker>||:그렇다면... 혹시 부대 편성이려나?
+Contender(0)<Speaker>컨텐더</Speaker>||:......!+리엔필드의 팀에 자리가 생긴 건가?
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:엥, 너 며칠 전엔 카라비너의 팀에 들어가고 싶다며?
+Contender(0)<Speaker>컨텐더</Speaker>||:난 엘리트 중의 엘리트와 함께하고 싶어. 그 점에서, 카라비너도 리엔필드도 모두 손색이 없지.
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:철컥.
+M60(0)<Speaker>M60</Speaker><Position>0,-50</Position>||:아, 헬리안 씨!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><SE1>AVG_Walk</SE1>:인형들이 일제히 자리에서 일어났다.+방으로 들어온 헬리안은 짧게 손뼉을 치며 모두의 주의를 모았다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||<SE1>Stop_AVG_loop</SE1>:자아, 정숙.+지휘관이 우리의 현 전력 복구율을 검토한 결과, 더 많은 임무를 수행 가능하다 판단했다.
+NPC-SCR(4)<Speaker>SCR</Speaker>||:저어, 헬리안 씨... 페르시카 씨는 괜찮은 건가요?+정말 죄송해요, 다 저의 능력 부족 탓이에요.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:걱정 마렴.+지휘관은 그 일로 누구도 처벌할 생각이 없으니.
+Contender(0)<Speaker>컨텐더</Speaker>||:그럼...?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:현시간부로 신규 작전팀을 편성한다.+너희가 그 팀의 멤버야.
+NPC-SCR(5)<Speaker>SCR</Speaker>||:네!?
+()<Speaker></Speaker>||:그 말에 놀란 SCR이 무의식적으로 소리를 냈다.+"작전팀이라니, 내가?"
+Contender(0)<Speaker>컨텐더</Speaker>||:...대장은 누굽니까?
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:혹시 전가요?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:그건 아니지만, 너희를 높이 평가하고 기대한다는군. 들어오렴.
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:철컥.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<BGM>BGM_Scar_Main</BGM>:......
+()<Speaker></Speaker>||:뒤이어 들어온 "대장"을 본 순간, 컨텐더와 SCR의 눈이 동시에 휘둥그레졌다.
+NPC-SCR(5)<Speaker>SCR</Speaker>||:넌――
+Contender(0)<Speaker>컨텐더</Speaker>||:<size=50>습격자!!</size>
+M60(0)<Speaker>M60</Speaker><Position>0,-50</Position>||:으엑? 네가 우리 대장이라고?
+M26MASS(0)<Speaker>M26MASS</Speaker><Position>-200,80</Position>||:세상에, 진짜?
+Contender(0)<Speaker>컨텐더</Speaker>||:...날 모욕할 심산인가?
+()<Speaker></Speaker>||:엘리아나는 그저 그들을 한 차례 죽 훑어보았다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:임무 하달됐다, 정보와 시간 확인하는대로 출발 준비해.
+NPC-SCAR-L(0);Contender(0)<Speaker>컨텐더</Speaker>||:뭣... 잠깐! 우리에게 해명이나 자기소개할 생각도 없어?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>;Contender(0)||:...난 너희 팀의 대장이다. 이해 안 되는 점이 있나?
+NPC-SCAR-L(0);Contender(0)<Speaker>컨텐더</Speaker>||:......
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:소체 점검 및 탄약 준비 시간 10분 주겠다. 10분 후 기지 입구에 집합하도록.
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>4</BIN><黑点2>:잠시 후, 기지의 입구.+엘리아나는 공터에 서서 쏟아지는 햇살을 온몸으로 받았다.+혼자서 조용히, 그 따스한 온기를 온몸으로 느꼈다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......13년.
+()<Speaker></Speaker>||:옛 "서광 팀" 통신 채널의 리스트를 열었다. 7명의 이름 옆에는 "말소"라 표시되어 있었다.+그 표시가 없는 단 하나의 이름은 아이콘이 회색이었다.
+()<Speaker></Speaker>||:<color=#FFFF00>오프라인 - 위치 불명.</color>
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_Gunfire</SE1>:총성, 포성, 폭음, 속삭임, 전화벨 소리...+전부 13년이란 세월 너머임에도 여전히 귓가에 들리는 듯했다.
+()<Speaker>？？</Speaker>||<回忆>:엘리아나, 너희는 새로운 세상을 밝힐 "서광"이 될 거다.
+()<Speaker>？？</Speaker>||:<size=50>언니!!!</size>
+()<Speaker>？？</Speaker>||<SE1>AVG_whitenoise</SE1>:치직——아마리스... 치직——파괴...
+()<Speaker></Speaker>||<关闭蒙版><SE1>Stop_AVG_loop</SE1>:리스트를 닫고, 엘리아나는 총몸을 쓰다듬었다. 여태껏 느껴본 적 없었던, 무기와 하나로 이어진 감각. "각인"은 13년의 긴 잠이 착각이 아님을 상기시켜 주었다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:마지막 "군번줄"... 반드시 회수하겠어.
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_2022Saros_SCARL4</SE1>:철컥.+그녀는 나지막이 읊조리며 탄창을 결합했다.
+()||<黑点1>:

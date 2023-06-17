@@ -1,60 +1,60 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>1</BIN><BGM>BGM_Hello</BGM>:한편, R93과 P38은 여전히 숲속에서 보물을 찾고 있었다.
-R93(2)<Speaker>R93</Speaker>||:보물을 찾으러 왔는데, 왜 사라진 동료부터 찾아야 하는 거람...+길은 또 왜 이렇게 울퉁불퉁한데... P38은 어떻게 그렇게 빨리 달려갔지?
-()<Speaker></Speaker>||:물론, 숲속에 혼자인 R93의 말에 대답하는 사람은 없었다. 바람과 새들의 소리가 대신 들려올 뿐이었다.
-R93(2)<Speaker>R93</Speaker>||:시간도 벌써 이렇게... 지금쯤이면 지휘관님도 우리가 말도 없이 사라진 걸 알아챘을지도 몰라.+하아... 이럴 줄 알았으면 P38 놀리지 말걸. 괜히 시간만 낭비하고...+...어?
-()<Speaker></Speaker>||:R93이 투덜거리던 와중, 멀리서 익숙한 비명이 다시 들려왔다. 아까보다 더 창백해진 얼굴로 비명을 지르며 뛰어오는 P38이었다.
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position><Shake>0.1</Shake>||:<Size=60>R, R93――!!!</Size>
-R93(2)<Speaker>R93</Speaker><Shake>0.1</Shake>;P38(2)<Position>0,100</Position>||:<Size=60>시끄러워!</Size>+살짝 장난친 거 가지고 뭘 그렇게 놀라?!
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:아니, 그게 아니라! 저저저저기에!
-()<Speaker></Speaker>||:P38을 곧장 R93의 뒤로 숨어, 방금 달려온 방향을 가리켰다.
-R93(2)<Speaker>R93</Speaker>||:저기에 뭐? 설마, 보물을 찾은 거야?
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:아니 아니, 그거 말고!
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:그게 아니면 뭔데?+설마... 정말 유령이라도 본 거야?
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:괴물! 저기에 바다 괴물이 있어!
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:바다 괴물..? 에이, 유령 이야기에 비하면야 별거 아니네.
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:괴담 같은 게 아니야!+진짜 괴물이라고! 정말이야! 방금 밟았는데 흐물흐물해서 엄청 징그러워!
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:바다 괴물이라니, 그럴 리가...+...잠깐, 정말 바다 괴물이 나타난 거라면, 오히려 좋은 징조잖아?+당장 가보자!
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:돌아가는 게 아니라?!
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:뭐라도 발견할 수 있을지 모르잖아.+그 왜 있잖아, 전설에 자주 나오는 "보물을 지키는 괴물".
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:싸우려고?! 그냥 돌아가자!
-R93(2)<Speaker>R93</Speaker>||:보기만 할 거야.+하지만 이번엔 정말 행운이 찾아온 것 같은 느낌이야!
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>162</BIN><SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:
-()<Speaker></Speaker>||:바들바들 떨며 울상인 P38의 손을 잡아끌며, R93은 숲의 끝자락에 다다랐다.+숲 너머는 바위로 가득한 바닷가였다. 빨간 게가 R93의 발치를 지나, 왠지 부자연스러운 해초 더미 속으로 들어갔다.+그리고, 그 해초 더미가 움찔했다.
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:저거! 저거 저거 저거!
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:저 해초 더미가?
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:그냥 해초가 아니야! 괴물이라고!+선수필승이라는데, 해치울까?
-R93(2)<Speaker>R93</Speaker>||:적어도 뭔지는 확인해보자.
-()<Speaker></Speaker>||:R93은 그 "바다 괴물"에게 조심스레 다가가 관찰했다. 생각보다 커다랗고, 해초로 덮이지 않은 부분도 보였다.+전체적인 외형으로 봐선... 괴물이라기보단, 오히려 인간에 가까웠다.
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:호, 혹시 ELID 아니야?
-()<Speaker></Speaker>||:시선을 교환한 R93과 P38은 괴물에게 자갈을 툭 던져 보았지만, 이번엔 아무런 반응이 없었다.+다시 가까이 접근해보려던 찰나, 괴물이 갑자기 꿈틀거리더니, 양손을 뻗어 R93과 P38의 발목을 붙잡았다.
-()<Speaker>바다괴물?</Speaker>||:으어어어어억!
-P38(2)<Speaker>P38</Speaker><Shake>0.1</Shake><Position>0,100</Position>||:<Size=60>와아아아아악!!!</Size>
-R93(2)<Speaker>R93</Speaker><Shake>0.1</Shake>||:<Size=60>꺄아아아아악!!!</Size>
-()<Speaker></Speaker>||:기습에 놀란 두 인형은 무기를 뽑아 들 겨를이 없어, 비상 수단을 취할 수밖에 없었다.
-()<Speaker></Speaker>||<SE1>AVG_Combat_Hits</SE1>:바로 그리폰류 CQC였다.
-()<Speaker></Speaker>||:전술인형에겐 무기마저 잃은 절박한 상황에서나 동원할 법한 격투술이지만, 이럴 때 아니면 언제 써보겠는가.+그리고 이 바다 괴물은 보기보다 꽤 약한 모양인지, R93과 P38의 반격에 너무나도 손쉽게 쓰러졌다.
-R93(2)<Speaker>R93</Speaker>||:헉... 헉...
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:해... 해치웠나?
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:일단 급소는 때리지 않았어...
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:그런데... 뭔가 좀 이상해.
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:뭐가?
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:목소리... 왠지 엄청 익숙한 목소리지 않았어?
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:P38의 말에 R93은 흠칫했다. 방금 들은 목소리를 마인드맵 기록에서 일치하는 음성을 검색한 R93은, 동공이 흔들리면서 입꼬리가 부자연스럽게 올라갔다.+추측을 확인하려는 듯이, P38도 나뭇가지를 주워 괴물을 덮고 있는 해초를 슬쩍 들어 보았다. 아니나 다를까, 그들이 아주 잘 아는 사람이었다.
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||<BGM>BGM_Wake</BGM>:지, 지휘관님!?
-()<Speaker></Speaker>||:P38은 나뭇가지를 홱 내던지고 지휘관을 부둥켜안았다.
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:어째서... 어째서...+어째서 이런 일이...?
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:P38...
-P38(2)<Speaker>P38</Speaker><Shake>0.1</Shake><Position>0,100</Position>||:<Size=60>대체 누가 지휘관님께 이런 짓을!</Size>
-R93(2)<Speaker>R93</Speaker><Shake>0.1</Shake>||<BGM>BGM_Empty</BGM>:<Size=80>너잖아!!!</Size>
-()<Speaker></Speaker>||:즉시 긴급 조치를 취해 지휘관의 안색이 다소 나아진 뒤에야, R93과 P38은 안도의 한숨을 쉴 수 있었다.
-R93(2)<Speaker>R93</Speaker>||<BGM>BGM_Hello</BGM>:천만다행으로 우리 모두 당황해서 전력으로 때리진 않았고, 해초가 쿠션 역할도 해 줘서 심각한 부상은 없어.
-R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:그런데, 왜 지휘관님이 이런 곳에 쓰러져 계신 거지?+서, 설마 저쪽에 무슨 큰일이라도 났나?
-R93(2)<Speaker>R93</Speaker>||:그건 지휘관님이 정신을 차리시면 여쭤보자... 응?
-()<Speaker></Speaker>||:방금 지휘관에게서 뜯어낸 해초 더미 속에, 뭔가 이상한 게 감겨 있었다.+해초와 따개비가 잔뜩 들러붙은 투명 서류 봉투였다. 오랜 세월로 인해 물이 좀 새어 들어가긴 했지만, 방수 처리 덕분에 내용물은 아직 멀쩡했다.+그건, 한 장의 지도였다.
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:이, 이건?!
-R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:......+진짜야, 정말 있나 봐... 행운을 부르는 보물이, 정말로 있나 봐!+행운의 여신이 우리에게 윙크하고 있어!
-P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:R93, 눈에서 광선 나오겠다...
-()<Speaker></Speaker>||:P38도 R93이 펼친 지도를 보았다. 바닷물에 불어 글자는 완전히 지워졌지만, 섬의 윤곽과 중앙의 유일하게 선명한 붉은 별표는 알아볼 수 있었다.
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>1</BIN><BGM>BGM_Hello</BGM>:한편, R93과 P38은 여전히 숲속에서 보물을 찾고 있었다.
+R93(2)<Speaker>R93</Speaker>||:보물을 찾으러 왔는데, 왜 사라진 동료부터 찾아야 하는 거람...+길은 또 왜 이렇게 울퉁불퉁한데... P38은 어떻게 그렇게 빨리 달려갔지?
+()<Speaker></Speaker>||:물론, 숲속에 혼자인 R93의 말에 대답하는 사람은 없었다. 바람과 새들의 소리가 대신 들려올 뿐이었다.
+R93(2)<Speaker>R93</Speaker>||:시간도 벌써 이렇게... 지금쯤이면 지휘관님도 우리가 말도 없이 사라진 걸 알아챘을지도 몰라.+하아... 이럴 줄 알았으면 P38 놀리지 말걸. 괜히 시간만 낭비하고...+...어?
+()<Speaker></Speaker>||:R93이 투덜거리던 와중, 멀리서 익숙한 비명이 다시 들려왔다. 아까보다 더 창백해진 얼굴로 비명을 지르며 뛰어오는 P38이었다.
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position><Shake>0.1</Shake>||:<Size=60>R, R93――!!!</Size>
+R93(2)<Speaker>R93</Speaker><Shake>0.1</Shake>;P38(2)<Position>0,100</Position>||:<Size=60>시끄러워!</Size>+살짝 장난친 거 가지고 뭘 그렇게 놀라?!
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:아니, 그게 아니라! 저저저저기에!
+()<Speaker></Speaker>||:P38을 곧장 R93의 뒤로 숨어, 방금 달려온 방향을 가리켰다.
+R93(2)<Speaker>R93</Speaker>||:저기에 뭐? 설마, 보물을 찾은 거야?
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:아니 아니, 그거 말고!
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:그게 아니면 뭔데?+설마... 정말 유령이라도 본 거야?
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:괴물! 저기에 바다 괴물이 있어!
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:바다 괴물..? 에이, 유령 이야기에 비하면야 별거 아니네.
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:괴담 같은 게 아니야!+진짜 괴물이라고! 정말이야! 방금 밟았는데 흐물흐물해서 엄청 징그러워!
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:바다 괴물이라니, 그럴 리가...+...잠깐, 정말 바다 괴물이 나타난 거라면, 오히려 좋은 징조잖아?+당장 가보자!
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:돌아가는 게 아니라?!
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:뭐라도 발견할 수 있을지 모르잖아.+그 왜 있잖아, 전설에 자주 나오는 "보물을 지키는 괴물".
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:싸우려고?! 그냥 돌아가자!
+R93(2)<Speaker>R93</Speaker>||:보기만 할 거야.+하지만 이번엔 정말 행운이 찾아온 것 같은 느낌이야!
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>162</BIN><SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:
+()<Speaker></Speaker>||:바들바들 떨며 울상인 P38의 손을 잡아끌며, R93은 숲의 끝자락에 다다랐다.+숲 너머는 바위로 가득한 바닷가였다. 빨간 게가 R93의 발치를 지나, 왠지 부자연스러운 해초 더미 속으로 들어갔다.+그리고, 그 해초 더미가 움찔했다.
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:저거! 저거 저거 저거!
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:저 해초 더미가?
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:그냥 해초가 아니야! 괴물이라고!+선수필승이라는데, 해치울까?
+R93(2)<Speaker>R93</Speaker>||:적어도 뭔지는 확인해보자.
+()<Speaker></Speaker>||:R93은 그 "바다 괴물"에게 조심스레 다가가 관찰했다. 생각보다 커다랗고, 해초로 덮이지 않은 부분도 보였다.+전체적인 외형으로 봐선... 괴물이라기보단, 오히려 인간에 가까웠다.
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:호, 혹시 ELID 아니야?
+()<Speaker></Speaker>||:시선을 교환한 R93과 P38은 괴물에게 자갈을 툭 던져 보았지만, 이번엔 아무런 반응이 없었다.+다시 가까이 접근해보려던 찰나, 괴물이 갑자기 꿈틀거리더니, 양손을 뻗어 R93과 P38의 발목을 붙잡았다.
+()<Speaker>바다괴물?</Speaker>||:으어어어어억!
+P38(2)<Speaker>P38</Speaker><Shake>0.1</Shake><Position>0,100</Position>||:<Size=60>와아아아아악!!!</Size>
+R93(2)<Speaker>R93</Speaker><Shake>0.1</Shake>||:<Size=60>꺄아아아아악!!!</Size>
+()<Speaker></Speaker>||:기습에 놀란 두 인형은 무기를 뽑아 들 겨를이 없어, 비상 수단을 취할 수밖에 없었다.
+()<Speaker></Speaker>||<SE1>AVG_Combat_Hits</SE1>:바로 그리폰류 CQC였다.
+()<Speaker></Speaker>||:전술인형에겐 무기마저 잃은 절박한 상황에서나 동원할 법한 격투술이지만, 이럴 때 아니면 언제 써보겠는가.+그리고 이 바다 괴물은 보기보다 꽤 약한 모양인지, R93과 P38의 반격에 너무나도 손쉽게 쓰러졌다.
+R93(2)<Speaker>R93</Speaker>||:헉... 헉...
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:해... 해치웠나?
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:일단 급소는 때리지 않았어...
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:그런데... 뭔가 좀 이상해.
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:뭐가?
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:목소리... 왠지 엄청 익숙한 목소리지 않았어?
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:P38의 말에 R93은 흠칫했다. 방금 들은 목소리를 마인드맵 기록에서 일치하는 음성을 검색한 R93은, 동공이 흔들리면서 입꼬리가 부자연스럽게 올라갔다.+추측을 확인하려는 듯이, P38도 나뭇가지를 주워 괴물을 덮고 있는 해초를 슬쩍 들어 보았다. 아니나 다를까, 그들이 아주 잘 아는 사람이었다.
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||<BGM>BGM_Wake</BGM>:지, 지휘관님!?
+()<Speaker></Speaker>||:P38은 나뭇가지를 홱 내던지고 지휘관을 부둥켜안았다.
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:어째서... 어째서...+어째서 이런 일이...?
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:P38...
+P38(2)<Speaker>P38</Speaker><Shake>0.1</Shake><Position>0,100</Position>||:<Size=60>대체 누가 지휘관님께 이런 짓을!</Size>
+R93(2)<Speaker>R93</Speaker><Shake>0.1</Shake>||<BGM>BGM_Empty</BGM>:<Size=80>너잖아!!!</Size>
+()<Speaker></Speaker>||:즉시 긴급 조치를 취해 지휘관의 안색이 다소 나아진 뒤에야, R93과 P38은 안도의 한숨을 쉴 수 있었다.
+R93(2)<Speaker>R93</Speaker>||<BGM>BGM_Hello</BGM>:천만다행으로 우리 모두 당황해서 전력으로 때리진 않았고, 해초가 쿠션 역할도 해 줘서 심각한 부상은 없어.
+R93(2);P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:그런데, 왜 지휘관님이 이런 곳에 쓰러져 계신 거지?+서, 설마 저쪽에 무슨 큰일이라도 났나?
+R93(2)<Speaker>R93</Speaker>||:그건 지휘관님이 정신을 차리시면 여쭤보자... 응?
+()<Speaker></Speaker>||:방금 지휘관에게서 뜯어낸 해초 더미 속에, 뭔가 이상한 게 감겨 있었다.+해초와 따개비가 잔뜩 들러붙은 투명 서류 봉투였다. 오랜 세월로 인해 물이 좀 새어 들어가긴 했지만, 방수 처리 덕분에 내용물은 아직 멀쩡했다.+그건, 한 장의 지도였다.
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:이, 이건?!
+R93(2)<Speaker>R93</Speaker>;P38(2)<Position>0,100</Position>||:......+진짜야, 정말 있나 봐... 행운을 부르는 보물이, 정말로 있나 봐!+행운의 여신이 우리에게 윙크하고 있어!
+P38(2)<Speaker>P38</Speaker><Position>0,100</Position>||:R93, 눈에서 광선 나오겠다...
+()<Speaker></Speaker>||:P38도 R93이 펼친 지도를 보았다. 바닷물에 불어 글자는 완전히 지워졌지만, 섬의 윤곽과 중앙의 유일하게 선명한 붉은 별표는 알아볼 수 있었다.
+()||<黑屏1>:

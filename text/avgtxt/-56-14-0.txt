@@ -1,0 +1,146 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>413</BIN><BGM>BGM_Scar_Main</BGM>:갈라테아 그룹의 소유였던 빌딩.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_cave</SE1>:뚜벅.+싸늘한 밤과 어우러지는 주위의 고요함이 가벼운 발소리를 더욱 두드러지게 했다.+모두가 잠들어 네온사인의 야경도 모호하게 삼켜지고 흐릿해진 세상을, 길게 늘어지는 그림자가 홀로 가로질렀다.
+()<Speaker>아마리스</Speaker>||:......
+()<Speaker></Speaker>||:그녀는 썰렁한 길거리를 망설임 없이 나아갔다. 그녀의 발밑에는 양쪽의 가로등이 드리우는 기다란 그림자만이 밟혔다.+기온차로 인한 옅은 안개는 그녀의 시야를 몽롱하게 가렸다.+13년 전 그날과 판박이로 불쾌한 축축함이었다.
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker><GradientShow>2</GradientShow>||<SE1>Stop_AVG_loop</SE1>:시간 참 끝내주게 골랐네...
+()<Speaker></Speaker>||:드디어 아마리스의 발걸음이 멈추었다.+저곳, 버려진 빌딩이 그들의 약속 장소였다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그녀가 고개를 들어, 저 텅 빈 건물을 훑었다. 한때 꺼지지 않는 불과 으리으리한 자태를 뽐냈을 터인 이 건물은, 지금은 버려진 폐허에 불과했다.+높이 걸렸던 간판도 모서리 한 쪽으로 위태롭게 대롱대롱 매달려 있을 정도로.+여기가 바로 아마리스와 엘리아나가 약속한 운명의 종착지, 갈라테아 그룹 제3지부였다.
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker>||:...장소도 썩 괜찮고.
+()<Speaker></Speaker>||:한껏 내리깔은 목소리는 혼잣말 같았다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>566</BIN><SE1>AVG_Water_Drip</SE1><SE1>AVG_BaseDoor_Open</SE1>:전기가 끊어진 지 한참 된 건물은 온통 깜깜했고, 입구의 유리문도 완전히 박살나 계단 위로 날카로운 유리 조각들을 흩뿌린 상태였다.
+()<Speaker></Speaker>||:찢어진 엘레베이터의 문 사이로는 그 통로가 훤히 보였고, 저 높은 천장에서 규칙적으로 떨어지는 빗물이 시계 대신 시간의 흐름을 알려 주었다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Prison_Door</SE1>:아마리스는 어렵잖게 안으로 진입할 입구를 찾을 수 있었다. 이미 찌그러진 문은 그녀가 살짝 힘을 주었는데도 싱겁게 열렸다.
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>9</BIN><SE1>AVG_footsteps_cave</SE1><SE1>AVG_Water_Drip</SE1>:벽을 감싸고 꼭대기까지 이어진 계단은 올려다보자니 마치 끝이 보이지 않는 만화경 같았다.+가까스로 새어드는 달을 제외한다면, 주위는 온통 어두컴컴했다.+그래서일까. 아마리스의 발걸음은 빗방울이 떨어지는 소리와 겹쳐, 한 걸음씩 심연으로부터 올라오는 그녀의 모습을 과시했다.
+()<Speaker></Speaker>||:척.+봉쇄된 정문을 돌아, 그녀가 중앙 홀에 들어섰다.
+()||<黑点1>:
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker><GradientShow>2</GradientShow>||<SE1>Stop_AVG_loop</SE1><BIN>565</BIN><黑点2>:왔구나.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:익숙한 목소리. 아마리스가 천천히 고개를 들어, 저 더없이 익숙하고 가증스러운 얼굴을 응시했다.+엘리아나는 지금 3층 정도 위, 중앙 홀 끄트머리에서 아마리스를 내려다보고 있었다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:익숙하지?+이 물리적인 거리감. 너와 나의 실력차를 나타낸다고 볼 수도 있겠지.
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker>||:13년이나 지났는데도 넌 여전히 자신만만하구나... 아, 너한텐 그냥 어제 일인가?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:따지고 보면 그렇지. 그리고, 내가 자신만만하지 않을 이유가 있나?
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker>||:...이 건물, 케찰코아틀 작전 때의 건물이랑 많이 닮았어.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:확인하고 보니 비슷하더군, 하지만 구조상 그럴 뿐이야.+특별한 공기 여과 장치라든가, 시끄러운 함정이나 적도 없어.+여기엔 오직 너와 나뿐이야.
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker>||:아니, 다 합해서 아홉이야. 모두 여기 있어.+올리비아, 크리스탈, 로우렐, 그리고 유라까지.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:...그렇지. 그들의 능력 대부분을 내가 갖고 있지.+7명, 그들 모두의 "군번줄"을.
+()<Speaker></Speaker>||:군번줄. 사망한 특전사의 묘비.+그 의미를 엘리아나는 잘 알았고, 아마리스는 더더욱 뼈저리게 깨달았다.
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker>||:...오늘 밤, 너한테 마지막 선물을 줄게.
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker>||:그리고 너의 "군번줄"을 받아가겠어.
+()<Speaker></Speaker>||:그러자 엘리아나가 웃었다. 달빛을 등졌는데도, 아마리스에겐 그 웃음이 또렷하게 보였다.+그녀가 기억하는 엘리아나는 웃음 자체를 보인 적이 없다시피 했다. 다만 그 손에 꼽을 미소는 볼 때마다 항상 밤을 찢어발기는 햇살처럼 눈부셨다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:엘리아나가 갑자기 뭔가를 집어 들더니, 아마리스의 발치로 휙 던졌다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:인사치레는 여기까지.+역시 전사로서의 감각도 잃어버렸구나 아마리스, 방탄복도 안 입고 오다니. "서광"의 작전 장비 규정에 어긋나.
+()<Speaker></Speaker>||:아마리스는 눈 앞에 떨어진 방탄복을 보고서 코웃음을 쳤다.
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker>||:십몇 년 전이든 어제 같든 넌 잘난 척이구나.+뭐, 이번에도 똑같은 루트로 침투하라고? 이번엔 네가 "사형수" 역할이야?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:아니... 그건 불공평하지.
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker>||:공평? 네가 그들을 기습했을 땐 공평했고!?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:그들은 모두 정정당당히 맞섰다.+지금 내가 널 마주하는 것처럼.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:똑같은 지형, 똑같은 탄약 보급 포인트.+그날마저 잊어버리진 않았겠지?
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker>||:네가 잊더라도 난 절대 못 잊어.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:다행이네. 10분 주겠어.+오늘 여기서, 내가 너에게, 왜 내가 "서광"에 걸맞는 자인지 똑똑히 보여 주겠어.
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2>:......
+()||<黑屏1>:
+()<Speaker>？？？</Speaker>||<BIN>568</BIN><回忆><黑屏2>:깨어났다... 해냈어!
+NPC-SCAR-L(5)<Speaker>？</Speaker>||:......
+NPC-SCAR-L(5)<Speaker>？？？</Speaker><同时置暗>||:측정 수치가 하나같이 예상 초과야, 이거라면 우리가 그들에게 부여한 의미에 걸맞는...!
+NPC-SCAR-L(5)<Speaker>？？</Speaker><同时置暗>||:밤을 비추는 서광... 팀의 첫 번째 아이니까...+이 애에게 태양을 맡기자.
+NPC-SCAR-L(5)<Speaker>？？？</Speaker><同时置暗>||:부디 얘가 우리를 도와, 전부 끝내 줄 수 있기를...
+NPC-SCAR-L(5)<Speaker>？？</Speaker><同时置暗>||:그럼 이름을 "엘리아나"로 하자. 태양의 아이, 하늘이 내린 선물.
+NPC-SCAR-L(5)<Speaker>？엘리아나</Speaker>||:......
+NPC-SCAR-L(5)<Speaker>？？？</Speaker><同时置暗>||:그래... 그게 좋겠다.+오늘부터 네 이름은 엘리아나야.
+()||<黑点1>:
+()<Speaker>？？？</Speaker>||<黑点2>:엘리아나, 넌 이 팀의 최중요 인물이다.+그러니 네가 "군번줄"을 계승한다.
+NPC-SCAR-L(4)<Speaker>엘리아나</Speaker>||:...그럼 그들은요?
+NPC-SCAR-L(4)<Speaker>？？</Speaker><同时置暗>||:네가 살아있는 한, 그들도 다른 방식으로 살아가는 거다.
+NPC-SCAR-L(4)<Speaker>엘리아나</Speaker>||:...이는 필수적인 기밀 유지 수단이자, 군인으로서 명예로운 전술입니까?
+NPC-SCAR-L(4)<Speaker>？？？</Speaker><同时置暗>||:그래.
+()||<黑点1>:
+()<Speaker>？？</Speaker>||<BIN>567</BIN><黑点2><火花><SE1>AVG_tele_connect</SE1><SE1>AVG_2022Saros_Gunfight</SE1>:<color=#00CCFF>엘리아나 중사, 미안하다.</color>+<color=#00CCFF>전투기는 방향을 돌려야 한다.</color>
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker>||:뭣?! 안 돼, "사형수"가 최우선 목표다!
+NPC-SCAR-L(1)<Speaker>？？</Speaker><同时置暗>||:<color=#00CCFF>불가피하다, 사령부를 방어하란 명령이 하달됐다.</color>
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker>||:큭...!
+NPC-SCAR-L(1)<Speaker>？？？</Speaker><同时置暗>||:<color=#00CCFF>엘리아나, "군번줄"을 실행하라.</color>
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker>||:뭐라고요?+아니오... 안 됩니다, 아직 그 만한 상황이 아닙니다!
+NPC-SCAR-L(1)<Speaker>？？？</Speaker><同时置暗>||:<color=#00CCFF>케찰코아틀 작전의 총지휘관으로서 명령한다, 즉시 "군번줄"을 실행하라.</color>
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker>||:그 프로그램을 지금 사용할 필요는 없다고 저는 판단합니다!
+()<Speaker>？？？</Speaker>||:<color=#00CCFF>...프로그램 강제 기동. 명령을 실행하라.</color>
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker>||:......
+()||<黑屏1><SE1>Stop_AVG_loop</SE1>:
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><BIN>560</BIN><黑屏2><SE1>AVG_whitenoise</SE1><黑屏1>:<color=#FF0000>치직——아마리스... 치직——파괴하라...</color>
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><关闭火花><黑屏1>:......
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<睁眼><关闭蒙版><BIN>565</BIN>:......아마리스.+너와 나, 우리의 일을... 오늘 밤 끝내자.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:...3, 2, 1.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<SE1>AVG_2022Saros_SCARL1</SE1>:10분. 간다.
+()<Speaker></Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:0.1초의 오차도 없이, 엘리아나는 정확히 10분 후 총을 쥐고 몸을 돌려 계단을 타고 올랐다.+이 길과 루트. 마인드맵에 새겨진 것처럼 무척이나 익숙했다.+그 "죽음의 바다" 위를 부유하던 건물에서도 이렇게 달렸었다.+하지만 그 당시엔 주위가 온통 전장의 굉음만 들렸었다.+반면, 지금은 조용했다. 너무나도 조용해서 엘리아나의 정신이 붕 뜨기라도 할 것만 같았다.+하지만 지금은 한눈팔 때가 아니었다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<SE1>Stop_AVG_loop</SE1>:너는 항상 고지대에, 항상 남들 배후에 숨길 좋아했지.
+()<Speaker></Speaker>||:그늘 속에 숨은 동생에게 속삭이듯 나지막이 중얼거렸다.+그리고 누구의 시선도 닿지 않는 곳에서 씨익 자신감에 가득찬 미소를 지었다.
+()<Speaker></Speaker>||<SE1>RunStep</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:쉬익!+엘리아나는 일말의 주저 없이 곧장 사무실로 돌격했다.+그러자 바로 반응이 왔다.
+()<Speaker></Speaker>||<震屏3><SE1>AVG_rifle_finalshot_h</SE1><BGM>BGM_Scar_Battle</BGM>:탕!
+()<Speaker></Speaker>||:일부러 엘리아나의 추측에 맞장구를 쳐 주듯, 공허한 격발음과 총성이 빌딩 안에서 메아리쳤다.
+()<Speaker></Speaker>||<SE1>AVG_Bullte_Ricochet</SE1>:날아든 총탄은 엘리아나가 딛고 있던 바닥을 스쳐 불똥을 튀겼다.
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_SCARH2</SE1><震屏3>:탕!
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_SCARH2</SE1><震屏3>:탕!
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_SCARH2</SE1><震屏3>:탕!
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:엘리아나를 뒤쫓는 총탄들은 발자국처럼 뒤를 바짝 따랐고, 그녀가 날렵하게 한 방으로 숨고서야 추격을 멈췄다.
+()<Speaker></Speaker>||<BIN>9</BIN><SE1>AVG_Door_Hit</SE1>:쿠웅!+엘리아나가 문을 세게 닫는 소리를 끝으로 다시 정적이 흘렀다.+총성은 애초부터 헛것이었다는 것처럼 달빛에 숨었다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><震屏3><Night><BIN>395</BIN><SE1>AVG_Cloak_Whoosh</SE1>:그때, 날렵한 그림자가 창문과 창문 사이를 넘나들었다.+이 콘크리트 정글에서, 그녀야말로 최상위 포식자라 자부할 수 있었다.+그리고 저격수에겐 두꺼운 장애물이 무엇보다 위협적인 적.+적당히 유인만 한다면, 사냥감이라도 사냥꾼이 어디 있는지 추측하는 건 쉬운 일이었다.+엘리아나는 아마리스가 어디에 자리를 잡을지 잘 알았다.+그녀는 언제나 가장 좋은 자리를 찾아냈으니, 이번에도 그러할 것이었다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:너는 과연 어디에 숨을까...+평소처럼, 그 위치에 있을까?+우리의 셀 수도 없이 많은 훈련처럼, 만사 태평하게 내 뒤에 숨어서...
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><SE1>AVG_Bullet_Drop</SE1>:땅그랑!+탄피가 발치에 떨어졌다.+마찬가지로 한 치의 망설임 없이, 아마리스는 방아쇠를 당기자마자 바로 다음 위치로 이동했다.+더 빨리, 더욱 더 빨리 움직여야만 한다. 엘리아나보다 더 빨리 움직여야만 했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><SE1>RunStep</SE1>:총을 쥐고 달리는 아마리스의 머릿속엔 이미 이 건물 전체의 구조가 그려졌다.+반드시 엘리아나와 충분히 거리를 벌린 상태를 유지하면서, 그녀의 회피 경로를 예측하고, 최적의 저격 포인트를 찾아야만 했다.+언제나 엘리아나의 뒤를 따라다니기만 했지만, 이번에는 그녀와 마주하고, 쏘아 맞혀야만 했다.
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker>||:네 행동 패턴... 다 외우고 있다고...+예전엔 네가 앞에서 모두를 엄호했지...+나는 너 대신 위협을 제거했고...+하지만 이번엔 아니야... 이번엔 네 어깨 너머가 아니라, 바로 너야...!
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>565</BIN><关闭蒙版><震屏3><SE1>AVG_2022Saros_SCARH2</SE1>:타앙——!+우레처럼 울리는 쪽은 밤하늘을 가르는 저격. 소총은 불꽃으로 포효하며 중앙 홀을 가로지르며 사선상의 모든 장애물을 꿰뚫었다.
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_SCARL3</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=5</controll_shake>:타타탕!!+비처럼 쏟아지는 쪽은 어둠을 밝히는 총구의 화염. 돌격소총은 불꽃으로 울부짖으며 광풍과 폭우처럼 사선상의 모든 것을 휩쓸었다.
+()<Speaker></Speaker>||:두 인형이 퍼붓는 총탄은 교차하며 복도, 난간, 벽을 가리지 않고 꿰뚫고 박살냈다. 하지만 바닥에 깔린 유리 조각들에 무한히 반사되어 비치는 그들의 얼굴은 믿을 수 없도록 차가웠다.
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_SCARL4</SE1><SE1>AVG_2022Saros_SCARH3</SE1>:동시에 탄창을 교체하는 소리, 동시에 전력 질주하는 발소리, 교차하는 탄환과 총성. 13년의 세월에 축적된 감정, 그동안 쌓여 온 울화가 맞부딪혀 폭발했다.+넓고 휑한 빌딩도 이를 다 품기엔 비좁았다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<BGM>BGM_Empty</BGM>:재장전도 느려!+고작 이 정도도 못 버티는 거냐!?
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker>||:아 그러셔!
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_SCARH2</SE1><震屏3><BGM>GF_2022_Summer_Battle_3</BGM>:타앙——!
+()<Speaker></Speaker>||<SE1>RunStep</SE1><SE1>AVG_2022Saros_SCARH3</SE1>:탄창을 교체하는 소리, 멈추지 않고 달리는 소리, 그 와중에 물러서지 않고 응수하는 욕설...+온갖 소음이 뒤섞인 채 건물 안에서 진동해, 양측 다 서로의 위치를 특정하기가 쉽지 않았다.+하지만 그럼에도 탄환은 발사될 때마다 놓쳐선 안 될 기회를 하나도 빠짐없이 포착했다.
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_SCARH4</SE1><震屏3>:타앙——!+한 발이 엘리아나의 어깨 깊숙이 박혔다.+하지만 아마리스는 그 정도론 아직 한참 모자라단 것을 알았다.+상대의 소체는 예전과 차원이 다르니, 그만큼 쓰러뜨리기 어려워진 것은 불 보듯 뻔했다.
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker>||:......
+()<Speaker></Speaker>||:방아쇠를 당길 때마다 예상한 바였다.
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=4</controll_shake><SE1>RunStep</SE1><SE1>AVG_2022Saros_SCARH2</SE1>:하지만 상관없었다. 달리고, 다음 한 발. 다시 달리고 또 다음 한 발... 어떻게든 한 발이라도 더 맞혀야 했다.
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker>||:항상 날 아주 아니꼽게 봤지?+전부터 날 쏘고 싶었을지도 모르겠네, 저격을 내 뒤에서 하기 시작했을 때부터 말이야!
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker>||:하, 자의식 과잉이네! 아니꼽게 본 적 없거든!
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_SCARL3</SE1><controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=8</controll_shake>:타타탕!
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_SCARL4</SE1>:철컥!+엄폐물 뒤로 몸을 굴리는 0.5초 동안, 엘리아나가 빈 탄창을 버리고 새것으로 교체했다.+무슨 일이 있어도 제압 사격을 멈춰선 안 되었다. 노련한 저격수를 상대하려면, 지속적인 화력을 퍼부어 접근하는 동안 안전을 확보해야만 했다.
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker>||:다른 애들만큼 널 존경하거나 우러러보진 않았지만... 그래도...+아니꼽게 보진 않았다고.
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker>||:...그래?+우리 아홉 명 중 너는 가장 존재감이 옅은 녀석이었어.+서맨사와 함께일 때조차도 넌 항상 그늘에 숨었지.
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker>||:그런 너인데, "달"보단 그림자란 별명이 더 어울리는 거 아니야?
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker>||:틀린 말은 아니네, 서광 팀은 언제나 너 하나만을 비췄으니까.+우리 모두가 그림자였어!
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker>||:그래서...! 더욱 이해가 안 가, 도저히 용서가 안 돼! 왜 모두를 배신한 거야!!+모두 너를 사랑했다고! 왜 네 손으로 모두를 죽인 거야!!
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker>||:그건 자비를 구걸하는 말이냐?+이유란 약자들의 변명이다!+나는 해명 따위 필요 없어!
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker>||:모두 너를 믿었는데...+니콜은 작전에선 항상 너부터 엄호했고, 로우렐은 네가 유탄에 맞아 팔이 망가졌을 때 묻지도 않고 자기 걸로――
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker>||<BIN>9</BIN><SE1>RunStep</SE1><SE1>AVG_Pause</SE1>:...잡았다.
+NPC-SCAR-H(0)<Speaker>아마리스</Speaker><Shake>0.1</Shake>||<SE1>ClothingUp</SE1>:——!
+()||<黑点1>:
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake><BIN>565</BIN><黑点2>:아마리스의 다음 저격 포인트에 선객이 기다리고 있었다.+그 익숙한 얼굴.+버려진 빌딩의 최상층은 탁 트인 시야에 엄폐하기도 수월해 저격수에겐 최고의 선택지였다.+엘리아나는 항상 잘 알았다. 아마리스는 언제나 가장 좋은 위치를 찾아낸다는 것을.
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker>||<SE1>AVG_2022Saros_SCARL1</SE1>:강해졌구나...+――하지만 한참 부족해!
+()<Speaker></Speaker>||:SCAR-L의 총구를 마주친 아마리스는 단 0.5초만에 경악에서 벗어났다.+냉철한 판단이었다. 이 거리에서 저 돌격소총을 자기 수족처럼 부리는 그녀를 상대로는 승산이 없었다.
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_SCARL2</SE1><震屏3>:타앙——!
+()<Speaker></Speaker>||<SE1>AVG_2022Saros_Gunpast</SE1>:초연을 머금은 불꽃이 뿜어졌고, 총구를 떠난 탄환은 바람을 가르며 아마리스를 향해 날아들었다.
+()<Speaker></Speaker>||<SE1>AVG_Broken_Glass</SE1><震屏3>:쨍그랑!
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:마인드맵이 사고를 하기 전에 몸이 먼저 반응했다.
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake><BIN>9</BIN>:아마리스는 곧장 몸을 뒤로 날려, 창문을 깨부쉈다.
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker><Shake>0.1</Shake>||:——!
+()<Speaker></Speaker>||:틀림없는, 지옥으로 통하는 지름길이었다.
+()<Speaker></Speaker>||:뒤로 몸을 던지는 아마리스보다도 더 빠르게, 엘리아나가 용수철처럼 튀어올랐다. 탄환이 문짝을 꿰뚫는 소리와 거의 동시에, 그녀도 깨져 흐트러지는 유리창에 도달했다.+창문 너머는 바닥 없는 심연이었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:휘우웅——
+()<Speaker></Speaker>||<震屏3><SE1>AVG_XXS_kick</SE1>:——덥석!
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker>||:............
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑点2><BIN>413</BIN><BGM>BGM_Empty</BGM><SE1>AVG_AMB_Wind</SE1>:아마리스의 몸뚱이는 빌딩의 외벽에 대롱대롱 매달려, 휘몰아치는 바람에 따라 흔들렸다.+빛은 없기에 누가 고개를 들어 이쪽을 바라보더라도, 위태롭게 매달린 인형을 알아볼 순 없을 것이었다.
+()<Speaker></Speaker>||<SE1>Rope</SE1>:상반신을 창문 바깥으로 뻗은 엘리아나는 다리를 방 안에 단단히 걸쳤다.+그 두 다리의 힘이 지금 두 인형의 유일한 생명선이었다.
+NPC-SCAR-H(4)<Speaker>아마리스</Speaker>||:알아, 네가 그들한테서 뭘 좀 가져간 거.+이제 그만 돌려줘야지.
+NPC-SCAR-L(1)<Speaker>엘리아나</Speaker>||:...네 얼굴을 이렇게 가까이서 보는 건 처음이네.
+NPC-SCAR-H(4)<Speaker>아마리스</Speaker>||:그럼 잘 봐둬, 네가 죽기 전에 보는 마지막 얼굴이니까.
+()<Speaker></Speaker>||:불어온 칼바람이 아마리스의 머리에 붙었다.
+()<Speaker></Speaker>||<common_effect>%%code=CJ_zidan%%</common_effect><SE1>AVG_keyboardtype_sci</SE1><SE1>AVG_NightVision_Start</SE1>:그리고, 엘리아나는 아마리스의 마인드맵 공간으로 끌려 들어갔다.
+()||<黑点1>:

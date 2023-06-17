@@ -1,0 +1,188 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><narrator><黑屏1>:친애하는 블랙웰에게.+히포크라테스 선서를 빌어 부디 나를 도와주길 바라.+지금 내 심정을 정확히 설명하진 못하겠지만, 내가 무엇을 하려는지는 확실하게 알고 있어.+사나에 대한 미안함일 수도 있고, 유적기구 놈들에 대한 복수심일 수도 있고, 아니면... 정말 궁지에 몰려서일 수도 있지.+선악을 포함한 세상의 모든 인간성이 전부 닳아 사라질 때, 사람들은 무슨 인류의 가치를 내세우려 할까.+동족상잔은 인류의 전통. 이것이야말로 우리의 유전자에 새겨진 원죄야.+지금 이 세상에 날 도와줄 사람은 너밖에 없어.+2050년 베슬란에서, 마이트너가.
+()||<黑屏2><回忆><BIN>8</BIN><narrator><BGM>BGM_stage3</BGM>:전쟁은 겉보기엔 끝났으나 사람들의 삶은 별로 나아지지 않았다.+희망은 마치 빛을 바라는 개미처럼, 흑야 속에서 묵묵히 기다린 끝에... 여명이 도래하기도 전에 죽어버린 것 같았다.+모두가 평온함을 추구했다. 혼돈이 끝나고 도래한 것이 결코 평온한 시대가 아니었기에.
+()||:그리폰 기지, 지휘실.
+()||<SE1>AVG_door_elecport</SE1>:자동문이 열리면서 진지한 얼굴의 인형이 안으로 들어왔다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:헬리안 님, LAMG 도착했습니다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:어서 오렴, 너의 최근자 훈련 보고서를 방금 받았어.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:네, 지적하실 점이 있나요?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:아니, 네 성적은 아주 훌륭해. 지금 기지에서 가장 뛰어난 인형이라 해도 손색이 없어.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:고평가 감사합니다, 계속 정진하겠습니다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:그래서, 네게 어려운 임무를 하나 맡기려고 해.
+()||:헬리안은 모노클을 벗고 콧등을 주물렀다.+이는 고민이 있다는 표현이라고, LAMG는 속으로 판단했다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:어느 인물의 프로필과 현재 위치의 주소를 줄 테니, 이 사람을 사지 멀쩡하게 우리 기지로 데려올 것.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:맡겨 주십시오, 전력을 다해 완수하겠습니다.
+()||<黑屏1><BGM>BGM_Empty</BGM>:헬리안의 고민을 대신 해결한다는 기대감을 품고, LAMG는 정중하게 임무를 받았다.
+()||<关闭蒙版><黑屏2><BIN>395</BIN><BGM>BGM_Sneak</BGM>:그리고 약 45분 후, 목표가 있는 방 앞 복도의 모퉁이에서 LAMG는 몸을 숙인 채 정황을 살폈다.+창문은 커튼으로 가려져서 내부 상황을 확인할 수가 없었다.+주변 주민들에게 수소문해봐도, 방의 번호를 듣자마자 기겁하며 손사래를 치고 도망가기 일쑤였다.+직접 문 바로 앞까지 가 봐도, 목표는커녕 방 내부의 상태를 추측조차 할 수 없었다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:헬리안 님, 지정 위치에 도착했습니다.+현재 목표의 방 앞에서 대기 중, 내부 상황은 파악 불가능합니다. 지시 바랍니다.
+LAMG(0)<Position>0,100</Position>;NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:<color=#00CCFF>돌입해.</color>
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>NPC-Helian(0)<通讯框>||:예. 그런데, 온건한 방식을 취할지, 아니면...
+LAMG(0)<Position>0,100</Position>;NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:<color=#00CCFF>......</color>
+NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:<color=#00CCFF>일단 온건하게 시도해 봐.</color>
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:네!
+()||<黑点1>:LAMG는 공손히 통신을 종료한 후 지금부터 어떡할지 계획을 구상했다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||<黑点2><边框>2</边框><SE1>AVG_doorknock_wood</SE1>:실례합니다, 안나 빅토로브나 최 씨 계시나요?+그리폰&크루거 안전계약사에서 나온 LAMG라고 합니다. 귀하를 저희 그리폰 사의 지휘관으로 모시고자 찾아뵈었습니다.
+NPC-Ange(24)<Speaker>안나</Speaker>||<边框>2</边框>:...싫은데.
+()||<边框>2</边框>:냉혹한 얼굴의 이 여성은 사람을 멀리하는 타입 같았다.+대대적인 군비 축소로 인해 명예 전역 "당한" 군인임을 감안하면, 이런 반응은 이해할 수 있는 범주였다.+"당황 말자, LAMG. 카리나 씨가 전수해 준 멘트로 대응하면 돼."
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||<边框>2</边框>:매정하게 그러지 마시고 내용을 자세히 보고 고려해 주시면 안 될까요? 저희 그리폰은 비록 신생 기업이지만 매력적인 임금 급여 체계와 복지 제도도 이미 마련되어 있답니다.+저희 그리폰의 전술지휘관분들은 탄력근무제에 매달 요구량 이상의 의뢰를 달성하기만 하시면 돼요.+여기, 저희 기지의 내부 사진도 있으니 한번 봐 보세요.
+NPC-Ange(23)<Speaker>안나</Speaker>||<边框>2</边框>:......
+()||<边框>2</边框>:미동도 않는 듯했지만, LAMG는 이 여성의 동공이 미세하게 확장되는 것을 포착했다. 나름 흥미를 보인다는 뜻이었다.
+NPC-Ange(23)<Speaker>안나</Speaker>||<边框>2</边框>:...생각은 해 보지.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||<边框>2</边框>:말 나온 김에 직접 기지를 둘러보지 않으시겠어요? 교통은 저희가 전용 셔틀을 제공하는데...
+()||<边框>2</边框>:물살을 탔으니, 당장 노를 저어 이 사람을 기지행 차량에 태우기만 하면 된다.
+NPC-Ange(23)<Speaker>안나</Speaker>||<边框>2</边框>:...오늘은 됐고, 나중에.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||<边框>2</边框>:에이 사양 마시고요~
+()||<边框>2</边框><黑点1>:끝까지 거절 내지는 저항한다면, 마지막 수단으로 그냥 들어 업어서 차로 직행한다.+그리고 안에 던져 넣고 문을 잠그면 상대도 도망칠 길이 없고, 그대로 기지로 돌아가면 임무 완료.
+()||<黑点2><SE1>AVG_doorknock_wood</SE1><BGM>BGM_Empty</BGM>:여기까지가 LAMG의 "완벽한" 시뮬레이션이었다.+문 앞에 선 LAMG는 옷깃과 머리를 정리한 다음, 절도 있고 예절 바른 리듬으로 문을 노크했다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:실례합니다, 안나 빅토로브나 최 씨 계시나요?+그리폰 안전계약사――
+()||<SE1>AVG_Door_Hit</SE1><震屏><BGM>10394</BGM>:콰아앙!!+시뮬레이션한 첫 대사를 다 읊기도 전에 문짝이 안면을 들이받으려 해, LAMG는 가까스로 몸을 뒤로 굴리며 피했다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:헉... 헉... 저기, 안나 씨? 혹시 무슨 오해라도――
+NPC-Ange(24)<Speaker>안나</Speaker>||:아앙...?
+()||:모습을 드러낸 임무 목표는 조롱하듯 씨익 미소지으며, 지금 막 운명을 달리한 문짝을 밟았다.+아주 진한 알코올 냄새. 보드카가 유력했다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:위해를 가하려는 것이 아닙니다, 저희 그리폰&크루거 안전계약사는 귀하를――커흑!?
+()||<SE1>AVG_Combat_Hits</SE1>:퍼버벅!+번개 같은 속도로, 안나가 냅다 LAMG에게 달려들어 그녀의 복부에 연속 보디 블로우를 꽂아 넣었다.+LAMG는 순간적으로 눈앞이 깜깜해지고 양발이 지면에 닿는 감각이 사라졌다.
+NPC-Ange(24)<Speaker>안나</Speaker>||:안전계약사는 얼어뒤질 안전! 툭하면 문 두들기고 짜증나게 앵앵대기나 하고 말이야!
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position><Shake>||:저는... 으악?!
+()||<SE1>AVG_Punch</SE1>:쿠웅!+이번엔 바닥에 메치기였다.+다만 이번에는 낙법으로 굴러, 안나와 조금 거리를 벌렸다.
+NPC-Ange(23)<Speaker>안나</Speaker>||:흐응, 제법인데? 나한테 콤보로 쳐 맞고도 일어서다니.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:안나 씨, 적대 행위를 멈춰 주십시오. 정말 불순한 의도로 찾아온 것이 아닙니다!
+NPC-Ange(23)<Speaker>안나</Speaker>||:흡흡허!
+()||<SE1>AVG_Combat_Hits</SE1>:주먹이 바람을 가르고 귓등을 스치는 생생한 소리.+안나는 LAMG의 말을 깡그리 무시하고 점점 펀치의 속도를 올렸다.+상황이 이러니, LAMG는 하는 수 없이 비좁은 복도에서 저 주먹의 비를 피하는 동시에 어떻게든 시뮬레이션한 대로 설득을 시도했다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:잠시만 들...! 저희! 그리폰&크루거 안전계약...사는! 비록 신생 기업이지만, 윽... 매력적인, 임금, 급여 체계와, 복지 제도도...!
+NPC-Ange(24)<Speaker>안나</Speaker>||:......
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:저희이 전술지휘관분들은...! 탄력근무제에, 매달 요구량 이상의, 의뢰를! 달성하기만 하시면――
+()||:안나가 갑자기 공격을 멈췄다.
+NPC-Ange(23)<Speaker>안나</Speaker>||:――너 왜 반격 안 하냐?
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:헉... 헉... 저는 그리폰&크루거 안전계약사 소속의 전술인형, LAMG입니다. 권한을 받지 않는 이상 인간에 대한 적대 행위는 허용되지 않습니다.
+NPC-Ange(23)<Speaker>안나</Speaker>||:......허어.+인형이라.
+()||:복도에 드리운 은은한 빛줄기처럼, 안나는 눈을 가늘게 뜨고 상대를 가늠했다.
+NPC-Ange(23)<Speaker>안나</Speaker>||:네 지휘관은?
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:잠시만요... 헬리안 님? 안나 씨께서 대화를 요청하십니다.
+()||:LAMG가 홀로그램 통신을 켰다.
+NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:<color=#00CCFF>반갑습니다, 안나 씨.</color>
+NPC-Helian(0)<通讯框>;NPC-Ange(23)<Speaker>안나</Speaker>||:댁이 이 인형 지휘관이야?+얘한테 명령해, 나랑 싸우라고.
+NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>;NPC-Ange(23)||:<color=#00CCFF>......</color>+<color=#00CCFF>그러길 원하신다면야, 알겠습니다.</color>
+NPC-Helian(0)<Speaker>헬리안</Speaker><通讯框>||:<color=#00CCFF>LAMG, 권한 부여했다.</color>
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:...권한 확인. 무력 행위 제한을 해제합니다.
+()||<SE1>Select</SE1>:LAMG는 습관적으로 총을 집었다가, 잠깐 멈칫하고 대신 비수를 뽑았다.+다시 고개를 들었을 땐 저 "임무 목표"가 희열에 찬 안광을 번뜩이고 있었다.
+()<Speaker>안나</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:오랜만이네... 진지하게 한판 붙어보는 게 얼마 만인지 기억이 가물가물한걸...
+()||<黑屏2><BIN>8</BIN><SE1>AVG_door_elecport</SE1>:그리폰 기지, 지휘실.+자동문이 열리는 소리에 헬리안이 고개를 돌렸다.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||<BGM>m_wv_scenario</BGM>:헬리안 님, 보고드립니다. 안나 씨를 모셔왔습니다.
+LAMG(0)<Position>0,100</Position>;NPC-Helian(0)<Speaker>헬리안</Speaker>||:잘했다.+몇 번 VIP룸에 있지?
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>;NPC-Helian(0)||:......+의무실에 있습니다.
+LAMG(0)<Position>0,100</Position>;NPC-Helian(2)<Speaker>헬리안</Speaker><Shake>||:뭣?! 내가 사지 멀쩡하게 데려오라 했잖니!
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>;NPC-Helian(2)||:죄송합니다... 하지만... 저도 일부러 그런 게 아니라...+그분이 뒤에서 다짜고짜 관절기를 거는 바람에 함께 건물 밖으로 추락했습니다...
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:정신을 차리고 보니 안나 씨가 제 밑에 깔리셔서...
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:......
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:제가 간단히 검사한 결과 골절이나 내부 장기 손상은 없었어요. 지금 의무실에서 전문 치료를 받는 중입니다.
+()||:말은 덤덤했지만, 헬리안의 눈에 비치는 LAMG도 만신창이에 한쪽 팔은 아예 움직이질 못하는 꼴이었다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:...그래, 수고했어. 가서 수복받으렴.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||<黑屏1>:네.
+()||<睁眼><BIN>160</BIN><BGM>BGM_Empty</BGM>:의무실.+낯선 방의 공기는 따뜻했지만, 소독약의 냄새가 진동했다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:깨셨습니까? 어디 불편한 곳은 있으신지요?
+NPC-Helian(0)<Speaker>안나</Speaker><同时置暗>||:............
+()||<BGM>GF_EV9_Story</BGM>:안나는 눈앞에 나타난 깐깐한 인상인 여자의 얼굴에 주의를 집중하려 했지만, 아직도 의식이 좀 몽롱하고 몸도 영 찝찝해서 잘 되질 않았다.+몸의 감촉도 조금 달라 고개를 살짝 내리니, 술냄새에 찌든 옷이 아니라 깨끗한 제복이 입혀져 있었다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:반갑네, 안나 양. 내가 이 안전계약사의 책임자 크루거네.+자네와는 한 번 만난 적 있다만, 아마 기억도 안 날 테지?
+NPC-Ange(12)<Speaker>안나</Speaker><Position>0,25</Position>||:......
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:우리 그리폰에 뛰어난 전술지휘관이 부족하던 차에, 내 어느 친구가 자네를 추천했네.
+NPC-Ange(13)<Speaker>안나</Speaker><Position>0,25</Position>||:그래서 억지로 납치해 오셨다?
+()||:안나가 차가운 수갑을 짤랑였다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:신변이 염려되어 기지로 모셔온 겁니다. 당신이 폭력을 행사해 제 부하 인형이 기절시킨 것, 기억하시겠죠?
+NPC-Ange(14)<Speaker>안나</Speaker><Position>0,25</Position>||:꼼수에 실수로 넘어갔을 뿐이야, 훈수 필요 없어.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:안나 양에게 식사 좀 가져와 주게.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:예.
+()||<SE1>AVG_20Winter_Door_Open</SE1>:헬리안은 고개를 끄덕이고 방을 떠났다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:전술인형... 아직 그들에겐 전사로서 모자란 점이 많네만, 자네의 지휘와 앞으로 발전할 기술력이 더해진다면...+언젠가 이들이 세상을 바꿀 수도 있을걸세.
+NPC-Ange(12)<Speaker>안나</Speaker><Position>0,25</Position>||:일하겠다고 안 했는데.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:지금 이건 회사일 이야기가 아니야. 안나, 자네는 인형을 어떻게 보는가?
+()||:크루거가 들고 있던 전술 태블릿을 안나 앞에 내려놓았고, 화면에는 그녀와 격투전을 치렀던 그 인형의 프로필이 보였다.
+NPC-Ange(10)<Speaker>안나</Speaker><Position>0,25</Position>||:미련한 쇳덩어리.+훈련받은 티는 나지만 머리는 유연하지 않고, 전술 운용법도 형편없어.
+NPC-Ange(10)<Position>0,25</Position>;NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그래. 이 인형은 매일 꾸준히 훈련을 하고 있지만 효과가 예상보다 미미하네.
+NPC-Ange(10)<Speaker>안나</Speaker><Position>0,25</Position>;NPC-Kyruger(0)||:그런 녀석들한테 필요한 건 훈련이 아니라 실전 경험과 전술적 사고야.
+NPC-Ange(10)<Position>0,25</Position>;NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그럼 자네라면 그들을 어떻게 훈련할 건가?
+NPC-Ange(12)<Speaker>안나</Speaker><Position>0,25</Position>;NPC-Kyruger(0)||:하하...+유도심문도 좀 숨기면서 하시지?
+NPC-Ange(12)<Position>0,25</Position>;NPC-Kyruger(0)<Speaker>크루거</Speaker>||:그냥 수다나 좀 떨자는 거니 긴장 말게나.
+NPC-Ange(10)<Speaker>안나</Speaker><Position>0,25</Position>;NPC-Kyruger(0)||:오히려 당신의 생각부터 좀 듣고 싶네, 크루거 씨.+PMC라면 숱하게 봤어. 그런데 인형을 주력으로 운용하는 덴 이 회사가 처음이야.+저 쇳덩어리들의 어디가 그리 마음에 들었길래 이렇게 많은 투자를 한 거지?
+NPC-Ange(10)<Position>0,25</Position>;NPC-Kyruger(0)<Speaker>크루거</Speaker>||:...재미있는 질문이군.+안나, 자네의 경험으로 미루어 볼 때, 갓 군사 훈련을 받는 인간 병사가 적을 사살할 수 있을 수준으로 AK-12 사용에 숙달되는 데 얼마나 걸리겠나?
+NPC-Ange(10)<Speaker>안나</Speaker><Position>0,25</Position>;NPC-Kyruger(0)||:병사의 재능에 따라 다르겠지, 일반적으론 3개월에서 6개월 정도 걸리지만.
+NPC-Ange(10)<Position>0,25</Position>;NPC-Kyruger(0)<Speaker>크루거</Speaker>||:인형은 얼마나 걸리는지 아나?
+NPC-Ange(10)<Speaker>안나</Speaker><Position>0,25</Position>;NPC-Kyruger(0)||:그런 기술 쪽은 잘 몰라서.
+NPC-Ange(10)<Position>0,25</Position>;NPC-Kyruger(0)<Speaker>크루거</Speaker>||:날 때부터.
+NPC-Ange(12)<Speaker>안나</Speaker><Position>0,25</Position>;NPC-Kyruger(0)||:......
+NPC-Ange(12)<Position>0,25</Position>;NPC-Kyruger(0)<Speaker>크루거</Speaker>||:이것이 그들의 존재의의일세. 죽이기 위해 태어나지만, 그들이 할 수 있는 일은 결코 싸움이 전부가 아니야.
+NPC-Ange(13)<Speaker>안나</Speaker><Position>0,25</Position>;NPC-Kyruger(0)||:그 쇳덩어리가?
+NPC-Ange(13)<Position>0,25</Position>;NPC-Kyruger(0)<Speaker>크루거</Speaker>||:이제 겨우 시작 단계지. 저들은 1세대야. 머지않아 발전된 2세대가 탄생할 테고, 그 다음은 3세대겠지.+인형의 진화의 끝은 아직 지평선 너머 저 멀리 있다네.
+NPC-Ange(10)<Speaker>안나</Speaker><Position>0,25</Position>;NPC-Kyruger(0)||:미래가 아주 창창하단 거에 올인하셨다 이거군.
+NPC-Ange(10)<Speaker>안나</Speaker><Position>0,25</Position>||:도중에 어떤 이유에서든 발전이 막히면 어떡하려고?
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:일단은 이론상 인형의 수명은 무한하다네. 발전에 제동이 걸린다 해도, 그들은 나를, 우리를 결코 실망시키지 않으리라 믿어 의심치 않네.
+NPC-Ange(12)<Speaker>안나</Speaker><Position>0,25</Position>||:무한한 수명...?
+()||<SE1>AVG_doorknock_wood</SE1>:똑똑.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:들어오게.
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||<SE1>AVG_Door_Open_Close</SE1>:안녕하십니까, 크루거 님. 안녕하세요, 안나 씨. 점심 식사 차려드리러 왔습니다.
+NPC-Ange(12)<Speaker>안나</Speaker><Position>0,25</Position>||:너는...
+LAMG(0)<Speaker>LAMG</Speaker><Position>0,100</Position>||:절 부르셨습니까, 안나 씨?
+NPC-Ange(10)<Speaker>안나</Speaker><Position>0,25</Position>||:...아니, 아무것도 아니야.
+()||:부드럽게 미소짓는 인형은 점심 식사와 수저를 준비해 주고 방을 떠났고, 뒤이어 헬리안이 돌아왔다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:방금 그 애는 당신과 함께 건물 밖으로 떨어졌던 아이가 아닙니다. 그저 동형 모델일 뿐이죠.+참고로 그 아이는 현재 수복 캡슐에서 수복 중에, 금방 다시 멀쩡하게 움직일 수 있으니 걱정 마세요.
+NPC-Ange(12)<Speaker>안나</Speaker><Position>0,25</Position>||:......
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:현재 인형에겐 아직 기억을 계승하는 기능이 없어, 임무 도중 파괴되기라도 한다면 역시 곤란합니다.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:물론 인형의 기억에 관한 기술도 금방 혁신이 이뤄질 걸세.
+()||:안나는 대답하지 않고 멍하니 인형이 떠난 방향을 보며 생각에 잠겼다.
+NPC-Ange(10)<Speaker>안나</Speaker><Position>0,25</Position>||:그 녀석... 나한테 앙심은 안 품어?
+NPC-Ange(10)<Position>0,25</Position>;NPC-Helian(0)<Speaker>헬리안</Speaker>||:아니오.
+NPC-Ange(12)<Speaker>안나</Speaker><Position>0,25</Position>;NPC-Helian(0)||:왜?
+NPC-Ange(12)<Position>0,25</Position>;NPC-Helian(0)<Speaker>헬리안</Speaker>||:그렇게 설정됐으니까죠.
+NPC-Ange(12)<Speaker>안나</Speaker><Position>0,25</Position>;NPC-Helian(0)||:하아...
+NPC-Ange(12)<Speaker>안나</Speaker><Position>0,25</Position>||:설마 인형은 선량하고 포용력 넘쳐서 세상 모든 악의를 용서한다는 무슨 그런 건 아니지?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:그리 설정된다면 그럴 수 있습니다. 인간과 달리 인형은 수정 불가능한 "기반 설정"이란 것이 있어, 이에 따라 자신의 지휘관에게 복종해야만 합니다.
+NPC-Ange(12)<Speaker>안나</Speaker><Position>0,25</Position>||:......
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:전장에서 인형에게 배신당할 걱정은 전혀 필요치 않습니다, 안나 씨.
+NPC-Ange(14)<Speaker>안나</Speaker>||:...내 뒷조사도 아주 철저히 했구만.
+()||<SE1>AVG_20Winter_Book</SE1>:헬리안은 비아냥에 입사 계약서를 탁상에 내미는 것으로 대답했다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:그리 보람 있고 즐거운 일이 아닐 수도 있습니다. 하지만 급료도 많고, 근무 시간도 자유롭죠.
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:자네에게 개인적인 사정이 많다는 것은 이미 알고 있네. 그리고 거기에 간섭할 셈도 없어.+그리폰은 꽉 막힌 데가 아닐세. 그저, 맡는 일을 깔끔하게 완수할 수 있는지만 보지.+근무 시간 외에 무엇을 하든 나는 신경쓰지 않네.
+()||:그리고 헬리안이 입사 계약서를 조금 더 가까이 밀며 덧붙였다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:저희가 보일 수 있는 성의는 다 보여드렸습니다.
+NPC-Ange(14)<Speaker>안나</Speaker><Position>0,25</Position>||:......
+()||:안나는 인형이 떠난 방향에서 시선을 떼고, 계약서를 뚫어져라 바라봤다.+그리고 가볍게 웃으며, 고개를 끄덕였다.
+NPC-Ange(10)<Speaker>안나</Speaker>||:좋아.
+()||:팔의 부상 때문에, 안나는 조금 꼴사납지만 입으로 사인펜 뚜껑을 물어 뽑아 서명칸에 이름을 적어넣으려 했다.
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:잠시만요.
+NPC-Ange(13)<Speaker>안나</Speaker>||:뭐야, 사인하겠다니까 이상한 조건 붙이려는 거야?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:아니오 그런 게 아니라, 보안을 고려해 본명이 아닌 가명을 사용할 것을 권장합니다.+뭐... 일종의 사내 코드네임이라 생각하세요.
+NPC-Ange(12)<Speaker>안나</Speaker>||:하아...
+()||:안나는 고개를 돌려, 창문에 비치는 자신의 얼굴을 보았다.+창백하고, 초췌하고, 뺨은 조금 움푹 들어갔고, 그런데도 두 눈은 사납게 번쩍이는 얼굴...+흡사 전설 속의——
+NPC-Ange(10)<Speaker>안나</Speaker>||:"아바돈". 아바돈 지휘관, 어때?
+NPC-Helian(0)<Speaker>헬리안</Speaker>||:......
+NPC-Kyruger(0)<Speaker>크루거</Speaker>||:...영 안 어울리는군.
+NPC-Ange(12)<Speaker>안나</Speaker>||:사생활에 간섭 안 한다면서 바로 퇴짜부터 놓네...
+()||<BGM>BGM_Empty</BGM>:유리창에 비치는 자신이 악마 같은 얼굴인 것이 아이러니하다는 듯, 안나는 피식 웃었다.
+NPC-Ange(11)<Speaker>안나</Speaker>||<黑屏1>:그럼 "안젤리아"로 하지 뭐!
+()||<黑屏2><BIN>657</BIN><BGM>GF_22W_BGM_1</BGM>:삐... 삐... 삐...+시설은 조용하게 가동 중이었다.+아직 깨어나지 않은 실험체 옆에 선 한 여자는, 짙은 색의 로브로 이 고요한 환경에 완전히 녹아든 것처럼 보였다.
+()||<SE1>AVG_20Winter_Book</SE1>:그녀의 마른 손가락은 실험체의 프로필을 한 장 한 장 세심하게 읽어 내려가며 넘겼고, 그러던 도중 하얀 옷의 소녀가 종종걸음으로 그녀에게 다가왔다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:실험체의 신체 측정 데이터, 정리 완료되었습니다. 확인해 주십시오.
+NPC-Laplace(15)<Speaker>？？？？</Speaker>||:그래.
+()||<SE1>AVG_20Winter_Book</SE1>:대충 몇 쪽을 넘겨보고서, 서류를 하얀 소녀에게 넘겼다.
+NPC-Laplace(15)<Speaker>？？？？</Speaker>||:알았다, 계속해서 실험체의 수치 변화를 관찰하도록.+그리고 모두에게 통보해라, 실험체를 깨울 준비를 한다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:예.
+()||:하얀 소녀는 고개를 숙이고 몇 걸음 물러나다, 문턱에 닿았을 즈음 그대로 멈췄다.
+NPC-Laplace(15)<Speaker>？？？？</Speaker>||:궁금한 게 있는 것 같구나.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:......죄송합니다.
+NPC-Laplace(15)<Speaker>？？？？</Speaker>||:예전에 내가 교사 노릇을 할 적에 호기심이 많은 학생이 있었지. 틈만 나면 나에게 이것저것 물어보는...+그런데 이렇게 옆이 조용하니 되려 어색하구나. 궁금한 게 있다면 말하거라.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:......
+()||:하얀 소녀는 실험체에게 시선을 향했다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:알고 싶습니다.+인간에게 있어, 한 사람의 신분을 결정하는 것은 무엇입니까?+생물학적 유전자, 혹은 외형입니까? 아니면 좀 더 내적인 이력이나 사상입니까?
+NPC-Laplace(15)<Speaker>？？？？</Speaker>||:그러니까, 이 실험체가 여전히 이전의 그 인간인가 아닌가가 궁금하다?
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:예... 조금, 궁금합니다...
+NPC-Laplace(15)<Speaker>？？？？</Speaker>||:나는 철학에 관해서는 잘 몰라. 허나 생물학적 관점에서 본다면, 여기 누워 있는 자는 그 인간이 맞단다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:...알겠습니다.
+()||:하얀 소녀는 다시 고개를 숙이고, 이만 방에서 물러나려 했다.
+NPC-Laplace(15)<Speaker>？？？？</Speaker>||:허나 인간의 신분을 구성하는 요소는 그리 간단히 요약할 수 없는 것.
+()||:그녀는 실험체의 기계팔을 들어올려 보고, 턱을 만져봤다.
+NPC-Laplace(15)<Speaker>？？？？</Speaker>||:육체? 사고? 기억?+내 눈엔 어느 것도 중요치 않아.+인간의 존재란 객관적이면서도 주관적이란다.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:어떤... 의미십니까?
+NPC-Laplace(15)<Speaker>？？？？</Speaker>||:인간은 무리를 지어 사회생활을 하는 동물이야.+한 번 존재하면 반드시 누군가의 마음에 감정을 불러일으킬 흔적을 남긴단다.+그렇기에 돌아온 망자는 남은 부분이 겨우 얼굴뿐이더라도, 생자에게 감동과 눈물의 포옹을 받을 수 있지.
+NytoWhite(0)<Speaker>하얀 니토</Speaker>||:......
+NPC-Laplace(15)<Speaker>？？？？</Speaker>||:완전히 똑같을 필요는 없어. 지금 이 실험체 정도면 더할 나위 없이 충분해.+하지만... 아직은 때가 아니야.+아직, 때가 아니야...
+()||:그녀는 의자 하나를 끌어와 실험체 옆에 앉아, 호흡에 따라 경미하게 떨리는 실험체의 속눈썹을 주시했다.
+NPC-Laplace(15)<Speaker>？？？？</Speaker>||<黑屏1>:그러니, 이제 일어나렴. 아바돈에서 현세로 돌아오거라.

@@ -1,28 +1,28 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BGM>BGM_Sunshine</BGM><黑屏2><SE1>Gunfight</SE1><SE2>MachineGunBurst</SE2>:쉴새없이 울려퍼지는 총성을 아랑곳 않고, 머큐로스는 무대의 중앙에서 노래를 불렀다.
-NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||<SE1>Explode</SE1>:"산과 계곡을 넘어, 동굴과 우물을 뚫고, 이슬과 구름, 폭풍과 어둠 속으로 숨어들어라!"+"하늘로 날아솟아, 땅으로 파고들어, 늪지대를 건너——"
-AR15Mod(0)<Speaker>AR15</Speaker>;NPC-Mercurows(0)||<SE1>Gunkill</SE1>:탄약이 부족해, AN94!
-AR15Mod(0);AN94(2)<Speaker>AN94</Speaker>||:내게 아직 여분이 있다! 이쪽으로 와라!
-AR15Mod(5)<Speaker>AR15</Speaker>;AN94(2)||:잠깐, 너 지금 어디 있어?!+망할... 연산력이 부족해...+머큐로스가 계속 방해하고 있잖아...!+지금 날 가지고 노는 거야 뭐야...!?+대체 어디 있지... 시각 모듈만으론 안 보여...
-AR15Mod(5);AN94(2)<Speaker>AN94</Speaker>||:측면이다, 조심해!
-AR15Mod(1)<Speaker>AR15</Speaker>;AN94(2)||<SE1>Explode</SE1><SE2>Alarm</SE2>:크윽!
-AR15Mod(1);NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:"천당의 문을 열어라! 영원히 변치 않을 천국의 문을——"
-AR15Mod(1)<Speaker>AR15</Speaker>;NPC-Mercurows(0)||:안 돼! 피할 수가 없어!
-()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM>:팟.+갑자기 극장이 캄캄해졌다.
-？？？()<Speaker>？？？</Speaker>||<SE1>Heartbeat</SE1>:복제품 주제에 말이 너무 많군.
-AR15Mod(1)<Speaker>AR15</Speaker>||<黑屏1>:......!+이 목소리는...
-()<Speaker></Speaker>||<BIN>96</BIN><黑屏2><火花>:다시 불빛이 들어왔다. 스포트라이트가 아닌, 극장 가장자리의 전등들이 모두 켜져 극장을 가득 채웠다.+AR15는 목소리가 들려오는 방향을 따라, 2층의 관객석 쪽으로 고개를 돌렸다.
-()<Speaker>AR15</Speaker>||<SE1>Heartbeat</SE1>:역시...!
-철혈인형()<Speaker>철혈인형</Speaker>||<BIN>171</BIN><闪屏><duration>5</duration></闪屏>:어머나 이것 좀 봐, 귀여운 그리폰 쓰레기잖아?+M16, 저 분홍머리는 네 동료 맞지?+새 친구를 사귀었나 봐. 참 잘 지내고 있네~
-M16()<Speaker>M16A1</Speaker>||<BGM>bossbattle_loop</BGM>:공격해.
-철혈인형()<Speaker>철혈인형</Speaker>||<黑点1>:여전히 가차없다니까... 그래도 그런 성격이 마음에 들어!+여기 있는 하얀 녀석들을 모조리 부숴 버리자!
-NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||<BIN>96</BIN><黑点2>:"파멸이 나를 붙잡았는가? 나는 생각지도 않던 재난의 손 안으로 멸망하는가?"+"그러나 불길한 힘이 나를 사로잡는다!"+전원 수비 대형! 그리고... 흥을 깨 버린 저놈들을 해치워!
-AN94(0)<Speaker>AN94</Speaker>;NPC-Mercurows(0)||:M16A1이다.+철혈도 하얀 세력을 적대하는군. 좋은 기회다.+AR15, 지금 네 옆에 도착했다.+통신이 돌아온 건 아마 철혈이 재밍 장치를 파괴해서일 거다.+데이터 블랙 에리어를 생성했다. 응급처치를 할 테니, 안젤리아에게 연락해라.
-AN94(0);AR15Mod(3)<Speaker>AR15</Speaker>||:고마워... 지금 연결됐어.+<color=#00CCFF>안젤리아! 여기는 AR15!</color>
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>;AR15Mod(3)||:<color=#00CCFF>임무는 성공했어?</color>
-NPC-AngeStreet(0);AR15Mod(0)<Speaker>AR15</Speaker>||:<color=#00CCFF>미안하지만, 아니. 위치는 찾았지만, 지금 상황이 안 좋아!</color>+<color=#00CCFF>긴급 상황이야. 우리의 현재 좌표를 보냈어. 지금 M16이 철혈을 이끌고 나타나서 하얀 세력과 교전 중인데, 우린 아마 승리한 쪽하고 또 싸우게 되겠지...</color>
-NPC-AngeStreet(0);AR15Mod(0)<Speaker>머큐로스</Speaker>||:"추락 속에서 잡아줄 이 없으니, 그대는 심연에서 구원받을 수 없노라."+너희도 어둠속을 서성이는 유령에 불과해... 아무도 날 막을 수 없어!+난 반드시 성공할 거야... 성공해서 칭찬받을 거야!
-NPC-AngeStreet(0);AR15Mod(0)<Speaker>낯선 철혈인형</Speaker>||:하하하! 저 인간 녀석은 대체 뭐라는 거야? 얘들아, 힘 좀 내 봐! 빨리 저 녀석을 찢어 버리라구!
-NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AR15Mod(0)||:<color=#00CCFF>M16과 철혈...?</color>+<color=#00CCFF>그것 참 혼란스런 상황이군. 알았어, 지금 이쪽도 바쁘지만 되도록 빨리 증원을 보낼게.</color>+<color=#00CCFF>그때까지 어떻게든 버티고 있어.</color>
-NPC-AngeStreet(0);AR15Mod(0)<Speaker>AR15</Speaker>||:<color=#00CCFF>우리 시체를 회수하러 오는 게 아니길 바랄게... 서둘러줘!</color>
-M16A1BOSS(0)<Speaker>M16A1</Speaker>;AR15Mod(0)||<黑屏1><关闭火花>:AR15... AN94... 머큐로스. M4는 여기 없는 건가.+서둘러야 해...+<color=#A9A9A9>"그것"보다 먼저!</color>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BGM>BGM_Sunshine</BGM><黑屏2><SE1>Gunfight</SE1><SE2>MachineGunBurst</SE2>:쉴새없이 울려퍼지는 총성을 아랑곳 않고, 머큐로스는 무대의 중앙에서 노래를 불렀다.
+NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||<SE1>Explode</SE1>:"산과 계곡을 넘어, 동굴과 우물을 뚫고, 이슬과 구름, 폭풍과 어둠 속으로 숨어들어라!"+"하늘로 날아솟아, 땅으로 파고들어, 늪지대를 건너——"
+AR15Mod(0)<Speaker>AR15</Speaker>;NPC-Mercurows(0)||<SE1>Gunkill</SE1>:탄약이 부족해, AN94!
+AR15Mod(0);AN94(2)<Speaker>AN94</Speaker>||:내게 아직 여분이 있다! 이쪽으로 와라!
+AR15Mod(5)<Speaker>AR15</Speaker>;AN94(2)||:잠깐, 너 지금 어디 있어?!+망할... 연산력이 부족해...+머큐로스가 계속 방해하고 있잖아...!+지금 날 가지고 노는 거야 뭐야...!?+대체 어디 있지... 시각 모듈만으론 안 보여...
+AR15Mod(5);AN94(2)<Speaker>AN94</Speaker>||:측면이다, 조심해!
+AR15Mod(1)<Speaker>AR15</Speaker>;AN94(2)||<SE1>Explode</SE1><SE2>Alarm</SE2>:크윽!
+AR15Mod(1);NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:"천당의 문을 열어라! 영원히 변치 않을 천국의 문을——"
+AR15Mod(1)<Speaker>AR15</Speaker>;NPC-Mercurows(0)||:안 돼! 피할 수가 없어!
+()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM>:팟.+갑자기 극장이 캄캄해졌다.
+？？？()<Speaker>？？？</Speaker>||<SE1>Heartbeat</SE1>:복제품 주제에 말이 너무 많군.
+AR15Mod(1)<Speaker>AR15</Speaker>||<黑屏1>:......!+이 목소리는...
+()<Speaker></Speaker>||<BIN>96</BIN><黑屏2><火花>:다시 불빛이 들어왔다. 스포트라이트가 아닌, 극장 가장자리의 전등들이 모두 켜져 극장을 가득 채웠다.+AR15는 목소리가 들려오는 방향을 따라, 2층의 관객석 쪽으로 고개를 돌렸다.
+()<Speaker>AR15</Speaker>||<SE1>Heartbeat</SE1>:역시...!
+철혈인형()<Speaker>철혈인형</Speaker>||<BIN>171</BIN><闪屏><duration>5</duration></闪屏>:어머나 이것 좀 봐, 귀여운 그리폰 쓰레기잖아?+M16, 저 분홍머리는 네 동료 맞지?+새 친구를 사귀었나 봐. 참 잘 지내고 있네~
+M16()<Speaker>M16A1</Speaker>||<BGM>bossbattle_loop</BGM>:공격해.
+철혈인형()<Speaker>철혈인형</Speaker>||<黑点1>:여전히 가차없다니까... 그래도 그런 성격이 마음에 들어!+여기 있는 하얀 녀석들을 모조리 부숴 버리자!
+NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||<BIN>96</BIN><黑点2>:"파멸이 나를 붙잡았는가? 나는 생각지도 않던 재난의 손 안으로 멸망하는가?"+"그러나 불길한 힘이 나를 사로잡는다!"+전원 수비 대형! 그리고... 흥을 깨 버린 저놈들을 해치워!
+AN94(0)<Speaker>AN94</Speaker>;NPC-Mercurows(0)||:M16A1이다.+철혈도 하얀 세력을 적대하는군. 좋은 기회다.+AR15, 지금 네 옆에 도착했다.+통신이 돌아온 건 아마 철혈이 재밍 장치를 파괴해서일 거다.+데이터 블랙 에리어를 생성했다. 응급처치를 할 테니, 안젤리아에게 연락해라.
+AN94(0);AR15Mod(3)<Speaker>AR15</Speaker>||:고마워... 지금 연결됐어.+<color=#00CCFF>안젤리아! 여기는 AR15!</color>
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker><通讯框>;AR15Mod(3)||:<color=#00CCFF>임무는 성공했어?</color>
+NPC-AngeStreet(0);AR15Mod(0)<Speaker>AR15</Speaker>||:<color=#00CCFF>미안하지만, 아니. 위치는 찾았지만, 지금 상황이 안 좋아!</color>+<color=#00CCFF>긴급 상황이야. 우리의 현재 좌표를 보냈어. 지금 M16이 철혈을 이끌고 나타나서 하얀 세력과 교전 중인데, 우린 아마 승리한 쪽하고 또 싸우게 되겠지...</color>
+NPC-AngeStreet(0);AR15Mod(0)<Speaker>머큐로스</Speaker>||:"추락 속에서 잡아줄 이 없으니, 그대는 심연에서 구원받을 수 없노라."+너희도 어둠속을 서성이는 유령에 불과해... 아무도 날 막을 수 없어!+난 반드시 성공할 거야... 성공해서 칭찬받을 거야!
+NPC-AngeStreet(0);AR15Mod(0)<Speaker>낯선 철혈인형</Speaker>||:하하하! 저 인간 녀석은 대체 뭐라는 거야? 얘들아, 힘 좀 내 봐! 빨리 저 녀석을 찢어 버리라구!
+NPC-AngeStreet(0)<Speaker>안젤리아</Speaker>;AR15Mod(0)||:<color=#00CCFF>M16과 철혈...?</color>+<color=#00CCFF>그것 참 혼란스런 상황이군. 알았어, 지금 이쪽도 바쁘지만 되도록 빨리 증원을 보낼게.</color>+<color=#00CCFF>그때까지 어떻게든 버티고 있어.</color>
+NPC-AngeStreet(0);AR15Mod(0)<Speaker>AR15</Speaker>||:<color=#00CCFF>우리 시체를 회수하러 오는 게 아니길 바랄게... 서둘러줘!</color>
+M16A1BOSS(0)<Speaker>M16A1</Speaker>;AR15Mod(0)||<黑屏1><关闭火花>:AR15... AN94... 머큐로스. M4는 여기 없는 건가.+서둘러야 해...+<color=#A9A9A9>"그것"보다 먼저!</color>

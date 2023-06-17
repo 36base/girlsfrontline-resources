@@ -1,117 +1,117 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>276</BIN><回忆><SE1>AVG_tele_connect</SE1>:......
-NPC-PasserbyM(0)<Speaker>분투협회 구성원</Speaker>||:알렉셰이 형님.
-NPC-PasserbyM(0)<Speaker>이반</Speaker>||:벌써 시간이 이렇게 됐나.+내일 장사 얘기는 아침에 마저 하지. 그만 돌아가.
-NPC-PasserbyM(0)<Speaker>분투협회 구성원</Speaker>||:예!
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:......
-()<Speaker>이반</Speaker>||:...후우.+여기는 이반, 무슨――
-NPC-PasserbyF(0)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>우리 자기~ 생일 축하해!</color>
-NPC-PasserbyF(0)<Speaker>이반</Speaker><通讯框>||<BGM>BGM_Moon</BGM>:......+고마워 여보, 미안하지만 지금 정말 바빠서...
-NPC-PasserbyF(0)<Speaker>이반의 아내</Speaker><通讯框>||:<color=#00CCFF>그래, 바쁘겠지. 한가했으면 지금 집에서 애들이랑 같이 생일 케이크 먹었을 텐데.</color>
-NPC-PasserbyF(0)<Speaker>이반</Speaker><通讯框>||:...미안해.
-NPC-PasserbyF(0)<Speaker>이반의 아내</Speaker><通讯框>||:<color=#00CCFF>자기 하는 일이 그렇잖아, 괜찮아.</color>
-NPC-PasserbyF(0)<Speaker>이반</Speaker><通讯框>||:오늘 열심히 일해야 내일이 더 나아질 수 있어.
-NPC-PasserbyF(0)<Speaker>이반의 아내</Speaker><通讯框>||:<color=#00CCFF>그래도 집안일엔 좀 더 신경써 줘, 나 혼자선 너무 힘들어.</color>
-NPC-PasserbyF(0)<Speaker>이반</Speaker><通讯框>||:정말 미안해...
-NPC-PasserbyF(0)<Speaker>이반의 아내</Speaker><通讯框>||:<color=#00CCFF>어휴, 맨날 미안하다고만 하고...</color>+<color=#00CCFF>아 맞다, 레상에 아주머니가 그러던데, 그린존의 가정 서비스 센터는 직원이 다 인형이라 비용이 엄청 싸대.</color>+<color=#00CCFF>한달에 한 번 부르는 정도면 우리 수입으로도 괜찮을 거 같은데, 어때?</color>
-NPC-PasserbyF(0)<Speaker>이반</Speaker><通讯框>||:인형을 부른다고?
-NPC-PasserbyF(0)<Speaker>이반의 아내</Speaker><通讯框>||:<color=#00CCFF>나 혼자서 집안일 몽땅 하는 것보단 나을 거 아니야. 이따 연락처 보낼 테니까 꼭 예약해 줘.</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:[통화 종료]
-()<Speaker>단말기</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>문자를 받았습니다.</color>+<color=#00CCFF>[자기, 가정 서비스 센터 연락처야]</color>+<color=#00CCFF>[꼭 예약해 줘!]</color>
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><关闭蒙版><BGM>BGM_Empty</BGM>:......+분명 일에 차질이 없었을 터다.+그 문자만 잘못 보내지 않았다면.
-()<Speaker></Speaker>||<SE1>AVG_splash_water</SE1>:......+얼굴에 끼얹어진 찬물에 의식이 돌아왔다.
-()<Speaker>구성원의 목소리</Speaker>||:보스, 깨어났습니다.+처음부터 변변찮은 놈 아닌가 했는데 역시나였네요, 너무 늦지 않아서 망정이지...
-()<Speaker>총수의 목소리</Speaker>||:<color=#00CCFF>꺼져 봐.</color>
-()<Speaker>구성원의 목소리</Speaker>||:아, 예...
-()||<黑屏1>:
-()<Speaker>이반</Speaker>||<BIN>167</BIN><黑屏2><睁眼><BGM>BGM_Room</BGM>:크윽...!
-()<Speaker></Speaker>||<SE1>Rope</SE1>:정신이 돌아오고 가장 먼저 느껴진 감각은, 양손이 포박된 느낌이었다.+한편 내 옆에 똑같이 묶인 가정부 인형은, 어째선지 별로 겁먹지 않은 표정이었다.
-()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>감쪽같이 속았군... "이반". N65 구역 소속 경찰이라니 정말 놀랐어.</color>
-()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>위장 신분으로 우리 조직에 잠입해 한탕 할 셈이었나? 뭐, 이번 경매를 노렸으니 물어볼 필요도 없겠군. 그간의 노력이 허사가 되어 참 유감이야.</color>
-()<Speaker>이반</Speaker>||:......
-M1897(0)<Speaker>M1897</Speaker>||:<size=35>알렉... 이반 씨 경찰이었어요?</size>
-M1897(0)<Speaker>이반</Speaker>||:<size=35>너 정말 지원 온 전술인형 아니야?</size>
-M1897(0)<Speaker>M1897</Speaker>||:<size=35>저, 전 청소 의뢰 받고 왔는데요...</size>
-M1897(0)<Speaker>이반</Speaker>||:<size=35>그렇군... 그래, 다 내 실수지. 너까지 말려들게 해서 미안하다.</size>
-M1897(0)<Speaker>M1897</Speaker>||:<size=35>그럼 이 사람들은...?</size>
-M1897(0)<Speaker>이반</Speaker>||:<size=35>여러 구역의 지하조직들이야.</size>
-M1897(0)<Speaker>M1897</Speaker><Shake>0.1</Shake>||:<size=60>조, 조직!</size>
-M1897(0)<Speaker>이반</Speaker>||:<size=35>목소리 낮춰 이 녀석아...</size>
-NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:경찰... 경찰이라니!+내가 얼마나 널 믿었는데!
-NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:그리고 이 망할 인형, 잘도 입을 놀렸겠다! 이게! 이게!
-()<Speaker></Speaker>||<SE1>AVG_Combat_Hits</SE1>:딱! 딱! 딱!
-NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:훅... 훅... 에고고...
-()<Speaker></Speaker>||:브라운 부인이 지팡이로 M1897을 마구 때렸다.+하지만 인형인 탓인지 전혀 반응을 보이지 않았고, 오히려 저 "거동이 불편한 할머니"만 제풀에 진이 빠졌다.
-M1897(0)<Speaker>M1897</Speaker>||:어... 괜찮으세요?
-()<Speaker></Speaker>||:아니 지금 저쪽을 걱정할 때냐?!
-NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:...이익!+이 빌어먹을 인형! 퉷!
-M1897(0)<Speaker>M1897</Speaker><Shake>0.1</Shake>||:아앗! 아무데나 침 뱉으면 안 돼요!+이거 풀어 주세요, 빨리 얼룩지기 전에 깨끗이 닦아야 해요!
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:이 M1897는 정말 가정부 인형인 모양이다. 위생에 이렇게까지 호들갑을 떨다니.+하지만 나처럼 양손이 꽁꽁 묶인데다 조직원에게 바닥에 눌린 채니, 평범한 민수용 인형이라면 달리 방도가 없다.
-NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:이보세요, 스파이가 있었다는 건 진작부터 노려지고 있었단 뜻 아니에요?+분투협회의 총수로서 책임지세요!
-NPC-Oldartist(0)<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>걱정할 것 없습니다, 우리에겐 비장의 무기가 있으니.</color>
-NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:비장의 무기~?+이 군용 인형 말이에요?+저 인형 계집 말대로면 이거 완전 고물이잖아요!
-()<Speaker>입찰자들</Speaker>||<SE1>AVG_Crowd</SE1>:그래, 어물쩡 넘어가려 하면 안 되지!+어떻게 설명할 거요!?
-()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>후우... 그럼 시간도 없고 하니 거래를 빨리 끝내야겠군요.</color>+<color=#00CCFF>정 그렇다면, 성능 테스트를 앞당기도록 하죠.</color>
-NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:그 뜻은...?
-()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>이 인형 덕분에 간첩을 발견한 건 엄연한 사실이죠.</color>+<color=#00CCFF>허나 달리 쓸모가 있지도 않으니, 과녁으로 쓰겠습니다.</color>
-M1897(0)<Speaker>M1897</Speaker>||:네에에엣!?
-()<Speaker>이반</Speaker>||:잠깐! 이 녀석은 관계 없잖아!
-()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>허, 지금 인형을 걱정하는 거냐?</color>+<color=#00CCFF>안심해라, 다음은 너니까.</color>
-()<Speaker>이반</Speaker>||:<size=35>제기랄...</size>
-()<Speaker></Speaker>||<SE1>AVG_door_storehouse</SE1>:입찰자들의 주목을 받으며, 시동이 걸린 그 군용 인형이 엔진 소리를 내었다.
-()<Speaker>TS-5000</Speaker>||:——
-()<Speaker>이반</Speaker>||:젠장, 일났네...
-NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:흐음...? 확실히 움직이긴 하는데, 어째 소리가 영 아닌데요?
-NPC-Oldartist(0)<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>낡은 모델이니 이해해 주십시오, 하지만 조금만 손을 보면 어중이떠중이 쯤은 충분히 제압하고도 남습니다.</color>
-NPC-PasserbyM(0)<Speaker>분투협회 구성원</Speaker>||:수리는 제게 맡겨 주십쇼!
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:분투협회는 이런 상황도 이미 예상했기에, 미리 대기시켜 둔 부하가 바로 온갖 연장을 가지고 군용 인형을 손보기 시작했다.+하지만 확실히 제법이라 쳐 줄 만한 것이, 부품을 분해하고 재조립하는 솜씨가 좀 거칠긴 해도 어디서 배운 듯했다.+다만, 옆의 M1897이 저 놈이 수리하는 꼴을 보곤 비명을 질러댔다.
-M1897(0)<Speaker>M1897</Speaker><Shake>0.1</Shake>||:냉각액! 냉각액통 그냥 열면 안 돼요! 밑에 받칠―― 으아아 바닥에 잔뜩 쏟아졌잖아요!!+꺄아아아 쏟아진 거 밟고 다니지 마세요!! 발자국! 발자국이이이!! 빨리 멈춰요!!
-NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:아 저 되게 시끄럽네!+그렇게 깨끗한 게 좋아? 옜다!
-()<Speaker></Speaker>||<SE1>Rope</SE1>:얼굴이 울그락불그락하던 브라운 부인이 결국 참지 못하고, 바닥의 기름때와 냉각액 범벅인 걸레를 M1897의 입에 쑤셔넣었다.
-()<Speaker>M1897</Speaker>||:우으읍——!!!+꼴까닥...
-()<Speaker></Speaker>||:......?!+기절했어!?
-NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:흥, 이제야 좀 얌전해졌네!
-()<Speaker></Speaker>||:인형의 결벽증이 이 정도로 심할 수가 있는 건가?+하지만 이 인형은 깨어있든 아니든 내게 전혀 도움이 되지 않는다.+어떻게든 기회를 봐서――
-()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>도망치려고?</color>
-()<Speaker>이반</Speaker>||:!!!
-()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>그럴 일 없으니 포기해라.</color>+<color=#00CCFF>테스트를 인형만으로 하긴 부족하니, 마지막으로 "알렉셰이"로서 조직에 끝까지 공헌하라고.</color>
-()<Speaker>이반</Speaker>||:개 풀 뜯어먹는 소리하네!
-()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>할 수 있을 때 마음껏 지껄이라고.</color>+<color=#00CCFF>준비는 언제 끝나지?</color>
-NPC-PasserbyM(0)<Speaker>분투협회 구성원</Speaker>||:다 됐습니다! 언제든지 가능합니다!
-()<Speaker></Speaker>||<SE1>Rope</SE1>:이젠 발목까지 묶인 나와 M1897은 벽으로 내팽개쳐졌고, 다른 사람들은 모두 곧 벌어질 불꽃놀이를 구경하려고 저만치 떨어졌다.
-()<Speaker></Speaker>||<SE1>Heartbeat</SE1>:난 여기까지인가?
-()<Speaker></Speaker>||:...하지만 내 물음에 대답해 줄 사람은 없다. 그저 군용 인형의 시커먼 총구를 보면서, 곧 다가올 폭발과 충격에 몸서리칠 뿐이었다.+오히려, 옆에서 기절한 이 인형이 부러울 지경이었다. 적어도 눈 뜨고 최후를 맞이하진 않으니...
-()<Speaker>TS-5000</Speaker>||<SE1>AVG_door_elecport</SE1>:——
-()<Speaker>이반</Speaker>||:......
-()<Speaker>TS-5000</Speaker>||<Shake>0.1</Shake><SE1>AVG_whitenoise</SE1>:——%￥#@%￥#
-()<Speaker>이반</Speaker>||:응...?
-()<Speaker></Speaker>||:내가 과도하게 긴장하여 헛것을 보는 게 아니라면, 저 군용 인형의 움직임은 전혀 정상적이지 않았다.+공장 안 모두의 눈이 휘둥그레진 가운데, 군용 인형은 시꺼먼 기름을 사방으로 찍찍 뿜었다.
-()<Speaker>이반</Speaker>||<震屏3>:우왁!?+푸엑, 켁켁!+으윽, 퉷 퉷!
-()<Speaker></Speaker>||:저들보다 훨씬 가까운 난 온몸에 기름을 뒤집어썼고, 콧구멍 안까지 기름범벅이 되어, 그 끈적함과 냄새가 도저히 말로 표현 못할 정도로 역겨웠다.+그래도 저 엉망인 상태를 보니, M1897이 말한 것이 사실인 모양이다.
-NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:허... 허허! 역시 고물이었구만?
-NPC-PasserbyM(0)<Speaker>분투협회 구성원</Speaker>||:어어, 이럴 리가 없는데?!
-()<Speaker>M1897</Speaker>||:읍...
-()<Speaker></Speaker>||:지독한 기름 냄새 때문인지, M1897이 깨어났다.
-()<Speaker>이반</Speaker>||:이봐, 너 괜찮아?
-()<Speaker>M1897</Speaker>||:으읍...?+읍읍!? 읍읍읍읍??!!!
-()<Speaker></Speaker>||:정신을 차린 M1897이 자신이 더러운 기름 범벅이 됐음을 서서히 깨달았고, 회까닥 뒤집어진 눈은 흡사 정신붕괴 직전의 인간 같았다.
-M1897(0)<Speaker>M1897</Speaker>||:우읍읍——!!+우엑...... 더...
-()<Speaker></Speaker>||:걸레를 겨우 입에서 뱉어낸 그녀가 무어라 말했다.
-()<Speaker>이반</Speaker>||:......?
-()<Speaker></Speaker>||:그리고 그 중얼거림이 점점 커지더니...
-M1897(0)<Speaker>M1897</Speaker>||<BGM>BGM_Empty</BGM>:더...러워... 더러워더러워더러워――+<size=60>더럽게 이게 무슨 짓이야아아아!!!</size>
-()<Speaker></Speaker>||<SE1>Explode</SE1><BIN>9</BIN>:......
-()<Speaker></Speaker>||:인형은 시간이 흘러 인간 사회의 일부가 되었지만, 솔직히 말하자면, 나도 인형에게 편견이 있는 수많은 사람들 중 하나다.+하지만 바로 이 순간, 나는 인형도 스트레스를 이기지 못하고 무너지거나... 폭발할 수 있음을 알게 되었다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<BGM>BGM_Sunshine</BGM><黑屏2><BIN>167</BIN><SE1>AVG_rifle_finalshot_3h</SE1>:내 눈앞에서, 그 가정부 인형이 폭주했다.+밧줄과 수갑은 아무 소용 없었고, 저 군용 인형은 그녀의 "장난감"에 박살나 버렸다.
-()<Speaker></Speaker>||:물론 그걸로 끝이 아니었다.+기고만장하던 각 조직의 우두머리와 수행원들, 정예 경호원들 모두, 폭주한 가정부 인형에게 깔끔하게 청소됐다.
-()<Speaker></Speaker>||:문자 그대로 "청소됐다"고밖에, 눈앞의 광경을 달리 형용할 단어가 떠오르지 않았다. M1897이 청소도구로 놈들을 향긋한 비누거품에 담가버렸으니까.+아무튼 놈들은 저항할 능력을 상실했으니, 내 입장으로선 일발역전이라 할 수 있을 것이다.
-M1897(0)<Speaker>M1897</Speaker>||:......+지저분한 거... 더 있었네?
-()<Speaker>이반</Speaker>||<BGM>BGM_Empty</BGM>:......어?
-()<Speaker></Speaker>||:이런 제기랄, 나도 기름을 뒤집어썼단 걸 깜빡했――
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_Combat_Hits</SE1>:......
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>276</BIN><回忆><SE1>AVG_tele_connect</SE1>:......
+NPC-PasserbyM(0)<Speaker>분투협회 구성원</Speaker>||:알렉셰이 형님.
+NPC-PasserbyM(0)<Speaker>이반</Speaker>||:벌써 시간이 이렇게 됐나.+내일 장사 얘기는 아침에 마저 하지. 그만 돌아가.
+NPC-PasserbyM(0)<Speaker>분투협회 구성원</Speaker>||:예!
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:......
+()<Speaker>이반</Speaker>||:...후우.+여기는 이반, 무슨――
+NPC-PasserbyF(0)<Speaker>？？？</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>우리 자기~ 생일 축하해!</color>
+NPC-PasserbyF(0)<Speaker>이반</Speaker><通讯框>||<BGM>BGM_Moon</BGM>:......+고마워 여보, 미안하지만 지금 정말 바빠서...
+NPC-PasserbyF(0)<Speaker>이반의 아내</Speaker><通讯框>||:<color=#00CCFF>그래, 바쁘겠지. 한가했으면 지금 집에서 애들이랑 같이 생일 케이크 먹었을 텐데.</color>
+NPC-PasserbyF(0)<Speaker>이반</Speaker><通讯框>||:...미안해.
+NPC-PasserbyF(0)<Speaker>이반의 아내</Speaker><通讯框>||:<color=#00CCFF>자기 하는 일이 그렇잖아, 괜찮아.</color>
+NPC-PasserbyF(0)<Speaker>이반</Speaker><通讯框>||:오늘 열심히 일해야 내일이 더 나아질 수 있어.
+NPC-PasserbyF(0)<Speaker>이반의 아내</Speaker><通讯框>||:<color=#00CCFF>그래도 집안일엔 좀 더 신경써 줘, 나 혼자선 너무 힘들어.</color>
+NPC-PasserbyF(0)<Speaker>이반</Speaker><通讯框>||:정말 미안해...
+NPC-PasserbyF(0)<Speaker>이반의 아내</Speaker><通讯框>||:<color=#00CCFF>어휴, 맨날 미안하다고만 하고...</color>+<color=#00CCFF>아 맞다, 레상에 아주머니가 그러던데, 그린존의 가정 서비스 센터는 직원이 다 인형이라 비용이 엄청 싸대.</color>+<color=#00CCFF>한달에 한 번 부르는 정도면 우리 수입으로도 괜찮을 거 같은데, 어때?</color>
+NPC-PasserbyF(0)<Speaker>이반</Speaker><通讯框>||:인형을 부른다고?
+NPC-PasserbyF(0)<Speaker>이반의 아내</Speaker><通讯框>||:<color=#00CCFF>나 혼자서 집안일 몽땅 하는 것보단 나을 거 아니야. 이따 연락처 보낼 테니까 꼭 예약해 줘.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:[통화 종료]
+()<Speaker>단말기</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>문자를 받았습니다.</color>+<color=#00CCFF>[자기, 가정 서비스 센터 연락처야]</color>+<color=#00CCFF>[꼭 예약해 줘!]</color>
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><关闭蒙版><BGM>BGM_Empty</BGM>:......+분명 일에 차질이 없었을 터다.+그 문자만 잘못 보내지 않았다면.
+()<Speaker></Speaker>||<SE1>AVG_splash_water</SE1>:......+얼굴에 끼얹어진 찬물에 의식이 돌아왔다.
+()<Speaker>구성원의 목소리</Speaker>||:보스, 깨어났습니다.+처음부터 변변찮은 놈 아닌가 했는데 역시나였네요, 너무 늦지 않아서 망정이지...
+()<Speaker>총수의 목소리</Speaker>||:<color=#00CCFF>꺼져 봐.</color>
+()<Speaker>구성원의 목소리</Speaker>||:아, 예...
+()||<黑屏1>:
+()<Speaker>이반</Speaker>||<BIN>167</BIN><黑屏2><睁眼><BGM>BGM_Room</BGM>:크윽...!
+()<Speaker></Speaker>||<SE1>Rope</SE1>:정신이 돌아오고 가장 먼저 느껴진 감각은, 양손이 포박된 느낌이었다.+한편 내 옆에 똑같이 묶인 가정부 인형은, 어째선지 별로 겁먹지 않은 표정이었다.
+()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>감쪽같이 속았군... "이반". N65 구역 소속 경찰이라니 정말 놀랐어.</color>
+()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>위장 신분으로 우리 조직에 잠입해 한탕 할 셈이었나? 뭐, 이번 경매를 노렸으니 물어볼 필요도 없겠군. 그간의 노력이 허사가 되어 참 유감이야.</color>
+()<Speaker>이반</Speaker>||:......
+M1897(0)<Speaker>M1897</Speaker>||:<size=35>알렉... 이반 씨 경찰이었어요?</size>
+M1897(0)<Speaker>이반</Speaker>||:<size=35>너 정말 지원 온 전술인형 아니야?</size>
+M1897(0)<Speaker>M1897</Speaker>||:<size=35>저, 전 청소 의뢰 받고 왔는데요...</size>
+M1897(0)<Speaker>이반</Speaker>||:<size=35>그렇군... 그래, 다 내 실수지. 너까지 말려들게 해서 미안하다.</size>
+M1897(0)<Speaker>M1897</Speaker>||:<size=35>그럼 이 사람들은...?</size>
+M1897(0)<Speaker>이반</Speaker>||:<size=35>여러 구역의 지하조직들이야.</size>
+M1897(0)<Speaker>M1897</Speaker><Shake>0.1</Shake>||:<size=60>조, 조직!</size>
+M1897(0)<Speaker>이반</Speaker>||:<size=35>목소리 낮춰 이 녀석아...</size>
+NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:경찰... 경찰이라니!+내가 얼마나 널 믿었는데!
+NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:그리고 이 망할 인형, 잘도 입을 놀렸겠다! 이게! 이게!
+()<Speaker></Speaker>||<SE1>AVG_Combat_Hits</SE1>:딱! 딱! 딱!
+NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:훅... 훅... 에고고...
+()<Speaker></Speaker>||:브라운 부인이 지팡이로 M1897을 마구 때렸다.+하지만 인형인 탓인지 전혀 반응을 보이지 않았고, 오히려 저 "거동이 불편한 할머니"만 제풀에 진이 빠졌다.
+M1897(0)<Speaker>M1897</Speaker>||:어... 괜찮으세요?
+()<Speaker></Speaker>||:아니 지금 저쪽을 걱정할 때냐?!
+NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:...이익!+이 빌어먹을 인형! 퉷!
+M1897(0)<Speaker>M1897</Speaker><Shake>0.1</Shake>||:아앗! 아무데나 침 뱉으면 안 돼요!+이거 풀어 주세요, 빨리 얼룩지기 전에 깨끗이 닦아야 해요!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:이 M1897는 정말 가정부 인형인 모양이다. 위생에 이렇게까지 호들갑을 떨다니.+하지만 나처럼 양손이 꽁꽁 묶인데다 조직원에게 바닥에 눌린 채니, 평범한 민수용 인형이라면 달리 방도가 없다.
+NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:이보세요, 스파이가 있었다는 건 진작부터 노려지고 있었단 뜻 아니에요?+분투협회의 총수로서 책임지세요!
+NPC-Oldartist(0)<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>걱정할 것 없습니다, 우리에겐 비장의 무기가 있으니.</color>
+NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:비장의 무기~?+이 군용 인형 말이에요?+저 인형 계집 말대로면 이거 완전 고물이잖아요!
+()<Speaker>입찰자들</Speaker>||<SE1>AVG_Crowd</SE1>:그래, 어물쩡 넘어가려 하면 안 되지!+어떻게 설명할 거요!?
+()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>후우... 그럼 시간도 없고 하니 거래를 빨리 끝내야겠군요.</color>+<color=#00CCFF>정 그렇다면, 성능 테스트를 앞당기도록 하죠.</color>
+NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:그 뜻은...?
+()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>이 인형 덕분에 간첩을 발견한 건 엄연한 사실이죠.</color>+<color=#00CCFF>허나 달리 쓸모가 있지도 않으니, 과녁으로 쓰겠습니다.</color>
+M1897(0)<Speaker>M1897</Speaker>||:네에에엣!?
+()<Speaker>이반</Speaker>||:잠깐! 이 녀석은 관계 없잖아!
+()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>허, 지금 인형을 걱정하는 거냐?</color>+<color=#00CCFF>안심해라, 다음은 너니까.</color>
+()<Speaker>이반</Speaker>||:<size=35>제기랄...</size>
+()<Speaker></Speaker>||<SE1>AVG_door_storehouse</SE1>:입찰자들의 주목을 받으며, 시동이 걸린 그 군용 인형이 엔진 소리를 내었다.
+()<Speaker>TS-5000</Speaker>||:——
+()<Speaker>이반</Speaker>||:젠장, 일났네...
+NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:흐음...? 확실히 움직이긴 하는데, 어째 소리가 영 아닌데요?
+NPC-Oldartist(0)<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>낡은 모델이니 이해해 주십시오, 하지만 조금만 손을 보면 어중이떠중이 쯤은 충분히 제압하고도 남습니다.</color>
+NPC-PasserbyM(0)<Speaker>분투협회 구성원</Speaker>||:수리는 제게 맡겨 주십쇼!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:분투협회는 이런 상황도 이미 예상했기에, 미리 대기시켜 둔 부하가 바로 온갖 연장을 가지고 군용 인형을 손보기 시작했다.+하지만 확실히 제법이라 쳐 줄 만한 것이, 부품을 분해하고 재조립하는 솜씨가 좀 거칠긴 해도 어디서 배운 듯했다.+다만, 옆의 M1897이 저 놈이 수리하는 꼴을 보곤 비명을 질러댔다.
+M1897(0)<Speaker>M1897</Speaker><Shake>0.1</Shake>||:냉각액! 냉각액통 그냥 열면 안 돼요! 밑에 받칠―― 으아아 바닥에 잔뜩 쏟아졌잖아요!!+꺄아아아 쏟아진 거 밟고 다니지 마세요!! 발자국! 발자국이이이!! 빨리 멈춰요!!
+NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:아 저 되게 시끄럽네!+그렇게 깨끗한 게 좋아? 옜다!
+()<Speaker></Speaker>||<SE1>Rope</SE1>:얼굴이 울그락불그락하던 브라운 부인이 결국 참지 못하고, 바닥의 기름때와 냉각액 범벅인 걸레를 M1897의 입에 쑤셔넣었다.
+()<Speaker>M1897</Speaker>||:우으읍——!!!+꼴까닥...
+()<Speaker></Speaker>||:......?!+기절했어!?
+NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:흥, 이제야 좀 얌전해졌네!
+()<Speaker></Speaker>||:인형의 결벽증이 이 정도로 심할 수가 있는 건가?+하지만 이 인형은 깨어있든 아니든 내게 전혀 도움이 되지 않는다.+어떻게든 기회를 봐서――
+()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>도망치려고?</color>
+()<Speaker>이반</Speaker>||:!!!
+()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>그럴 일 없으니 포기해라.</color>+<color=#00CCFF>테스트를 인형만으로 하긴 부족하니, 마지막으로 "알렉셰이"로서 조직에 끝까지 공헌하라고.</color>
+()<Speaker>이반</Speaker>||:개 풀 뜯어먹는 소리하네!
+()<Speaker>분투협회 총수</Speaker>||:<color=#00CCFF>할 수 있을 때 마음껏 지껄이라고.</color>+<color=#00CCFF>준비는 언제 끝나지?</color>
+NPC-PasserbyM(0)<Speaker>분투협회 구성원</Speaker>||:다 됐습니다! 언제든지 가능합니다!
+()<Speaker></Speaker>||<SE1>Rope</SE1>:이젠 발목까지 묶인 나와 M1897은 벽으로 내팽개쳐졌고, 다른 사람들은 모두 곧 벌어질 불꽃놀이를 구경하려고 저만치 떨어졌다.
+()<Speaker></Speaker>||<SE1>Heartbeat</SE1>:난 여기까지인가?
+()<Speaker></Speaker>||:...하지만 내 물음에 대답해 줄 사람은 없다. 그저 군용 인형의 시커먼 총구를 보면서, 곧 다가올 폭발과 충격에 몸서리칠 뿐이었다.+오히려, 옆에서 기절한 이 인형이 부러울 지경이었다. 적어도 눈 뜨고 최후를 맞이하진 않으니...
+()<Speaker>TS-5000</Speaker>||<SE1>AVG_door_elecport</SE1>:——
+()<Speaker>이반</Speaker>||:......
+()<Speaker>TS-5000</Speaker>||<Shake>0.1</Shake><SE1>AVG_whitenoise</SE1>:——%￥#@%￥#
+()<Speaker>이반</Speaker>||:응...?
+()<Speaker></Speaker>||:내가 과도하게 긴장하여 헛것을 보는 게 아니라면, 저 군용 인형의 움직임은 전혀 정상적이지 않았다.+공장 안 모두의 눈이 휘둥그레진 가운데, 군용 인형은 시꺼먼 기름을 사방으로 찍찍 뿜었다.
+()<Speaker>이반</Speaker>||<震屏3>:우왁!?+푸엑, 켁켁!+으윽, 퉷 퉷!
+()<Speaker></Speaker>||:저들보다 훨씬 가까운 난 온몸에 기름을 뒤집어썼고, 콧구멍 안까지 기름범벅이 되어, 그 끈적함과 냄새가 도저히 말로 표현 못할 정도로 역겨웠다.+그래도 저 엉망인 상태를 보니, M1897이 말한 것이 사실인 모양이다.
+NPC-Oldartist(0)<Speaker>브라운 부인</Speaker>||:허... 허허! 역시 고물이었구만?
+NPC-PasserbyM(0)<Speaker>분투협회 구성원</Speaker>||:어어, 이럴 리가 없는데?!
+()<Speaker>M1897</Speaker>||:읍...
+()<Speaker></Speaker>||:지독한 기름 냄새 때문인지, M1897이 깨어났다.
+()<Speaker>이반</Speaker>||:이봐, 너 괜찮아?
+()<Speaker>M1897</Speaker>||:으읍...?+읍읍!? 읍읍읍읍??!!!
+()<Speaker></Speaker>||:정신을 차린 M1897이 자신이 더러운 기름 범벅이 됐음을 서서히 깨달았고, 회까닥 뒤집어진 눈은 흡사 정신붕괴 직전의 인간 같았다.
+M1897(0)<Speaker>M1897</Speaker>||:우읍읍——!!+우엑...... 더...
+()<Speaker></Speaker>||:걸레를 겨우 입에서 뱉어낸 그녀가 무어라 말했다.
+()<Speaker>이반</Speaker>||:......?
+()<Speaker></Speaker>||:그리고 그 중얼거림이 점점 커지더니...
+M1897(0)<Speaker>M1897</Speaker>||<BGM>BGM_Empty</BGM>:더...러워... 더러워더러워더러워――+<size=60>더럽게 이게 무슨 짓이야아아아!!!</size>
+()<Speaker></Speaker>||<SE1>Explode</SE1><BIN>9</BIN>:......
+()<Speaker></Speaker>||:인형은 시간이 흘러 인간 사회의 일부가 되었지만, 솔직히 말하자면, 나도 인형에게 편견이 있는 수많은 사람들 중 하나다.+하지만 바로 이 순간, 나는 인형도 스트레스를 이기지 못하고 무너지거나... 폭발할 수 있음을 알게 되었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BGM>BGM_Sunshine</BGM><黑屏2><BIN>167</BIN><SE1>AVG_rifle_finalshot_3h</SE1>:내 눈앞에서, 그 가정부 인형이 폭주했다.+밧줄과 수갑은 아무 소용 없었고, 저 군용 인형은 그녀의 "장난감"에 박살나 버렸다.
+()<Speaker></Speaker>||:물론 그걸로 끝이 아니었다.+기고만장하던 각 조직의 우두머리와 수행원들, 정예 경호원들 모두, 폭주한 가정부 인형에게 깔끔하게 청소됐다.
+()<Speaker></Speaker>||:문자 그대로 "청소됐다"고밖에, 눈앞의 광경을 달리 형용할 단어가 떠오르지 않았다. M1897이 청소도구로 놈들을 향긋한 비누거품에 담가버렸으니까.+아무튼 놈들은 저항할 능력을 상실했으니, 내 입장으로선 일발역전이라 할 수 있을 것이다.
+M1897(0)<Speaker>M1897</Speaker>||:......+지저분한 거... 더 있었네?
+()<Speaker>이반</Speaker>||<BGM>BGM_Empty</BGM>:......어?
+()<Speaker></Speaker>||:이런 제기랄, 나도 기름을 뒤집어썼단 걸 깜빡했――
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN><SE1>AVG_Combat_Hits</SE1>:......
+()<Speaker></Speaker>||:......
+()||<黑屏1>:

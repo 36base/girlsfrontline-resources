@@ -1,87 +1,87 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>2022_white_valentine_BGM1</BGM>:............+3월 13일, 오후 6시.
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:그리폰의 모두~ 오늘도 수고 많았어!+오늘 업무는 이제 끝! 이후 일정 없는 사람은 숙소로 돌아가도 돼!
-NPC-Kalin(3)<Speaker>카리나</Speaker>||:다들 화이트데이 선물 어~엄청 기대하고 있는 거 알지만, 그렇다고 잠도 안 자면 큰일난다?
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:화이트데이 초콜릿 선물은 내일 아침 10시부터, 지휘관님의 사무실에서 받아가도록 해~
-()<Speaker></Speaker>||:......
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>8</BIN><黑屏2>:3월 13일, 오후 10시.+그리폰 기지의 지휘부, 지휘관의 사무실.
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:네, 이걸로 오늘 업무 끝이에요.
-NPC-Kalin(1)<Speaker>지휘관</Speaker><同时置暗>||:수고했다, 너도 돌아가서 쉬렴.
-NPC-Kalin(3)<Speaker>카리나</Speaker>||:네에~ 지휘관님, 발렌타인 보답 선물 절대 잊지 마세요.+내일은 화이트데이라고요!
-NPC-Kalin(3)<Speaker>지휘관</Speaker><同时置暗>||:걱정 마, 벌써 다 준비해 뒀어.
-()<Speaker></Speaker>||:지휘관은 자신 있게 씨익 웃었다.
-NPC-Kalin(2)<Speaker>카리나</Speaker>||:정말로요~? 또 작년처럼 막바지에 가까스로 기억해서 허둥대셔도 안 도와드릴 거예요?
-NPC-Kalin(2)<Speaker>지휘관</Speaker><同时置暗>||:얘가 또 날 뭘로 보고... 이미 모두분의 초콜릿을 준비했다고.+못 믿겠음 보여 줄까? 지금 창고에 있어.
-()||<黑点1>:
-()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1><黑点2><BIN>9</BIN>:지휘관은 의기양양하게 카리나를 데리고 사무실을 나섰다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑点2><BIN>89</BIN><SE1>AVG_BaseDoor_Open</SE1><BGM>BGM_Empty</BGM>:숙소로 돌아가는 길에, 지휘관은 카리나에게 창고를 보여 주었다.
-NPC-Kalin(0)<Speaker>카리나</Speaker>||<BGM>m_wv_title</BGM>:와아, 제법이신데요? 차곡차곡 잘 정리하고 이름표까지 붙이시다니.+...제 건 어디 있어요?
-NPC-Kalin(0)<Speaker>지휘관</Speaker><同时置暗>||:새치기 말고 내일 받으러 와.
-NPC-Kalin(3)<Speaker>카리나</Speaker>||:쪼잔해――
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:헤헤, 그럼 기대하고 있을게요. 안녕히 주무세요!
-()<Speaker></Speaker>||:카리나도 장난스럽게 씨익 웃곤, 지휘관에게 손을 흔들며 숙소로 돌아갔다.+지휘관은 카리나를 눈으로 배웅한 뒤, 다시 고개를 창고에 잔뜩 쌓인 화이트데이 선물을 보았다.
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삑.+그때, 통신이 들어왔다.
-()<Speaker>지휘관</Speaker>||:여보세요?
-Lewis(0)<Speaker>루이스</Speaker><通讯框>||:<color=#00CCFF>지휘관! 늦은 시간에 미안해!</color>
-Lewis(0)<Speaker>지휘관</Speaker><同时置暗>||:아, 루이스구나. 무슨 일이야?
-Lewis(0)<Speaker>루이스</Speaker>||:<color=#00CCFF>나랑 팔콘 지금 막 임무 마치고 돌아왔어!</color>+<color=#00CCFF>그래서... 그게, 초콜릿은 내일 몇 시에 받으러 가면 돼?</color>
-Lewis(0)<Speaker>지휘관</Speaker><同时置暗>||:아침 10시부터야.
-Lewis(0)<Speaker>루이스</Speaker>||:<color=#00CCFF>아침 10시... 그렇구나! 알았어!</color>
-Lewis(0)<Speaker>97식의 목소리</Speaker><同时置暗>||:<color=#00CCFF>10시~? 아직도 한참 남았잖아——</color>
-()<Speaker></Speaker>||:통신 너머로 97식의 목소리가 들리자, 지휘관은 무심코 피식 웃었다.
-Lewis(0)<Speaker>지휘관</Speaker><同时置暗><通讯框>||:하하, 그러니까 얼른 푹 자야지. 휴면하면 시간 금방 갈 거야.
-Lewis(0)<Speaker>루이스</Speaker>||:<color=#00CCFF>응, 알았어! 그럼 지휘관도 잘 자!</color>
-()<Speaker>지휘관</Speaker>||:그래, 고생 많았다.
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신 종료.+지휘관은 제자리서 통신기를 계속 바라보았다.+그러면서 난감한 미소를 지었다.+새삼스럽지만, 모두의 기대감이 무겁게 느껴져서였다.
-()<Speaker>지휘관</Speaker>||:후우... 나도 그만 가서 쉴까.
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_BaseDoor_Close</SE1><Night>:지휘관은 창고의 문을 닫고 기지개를 켰다. 억누르던 하루의 피로가 풀려나니, 졸음이 물밀듯이 쏟아졌다.
-()<Speaker>？？？</Speaker>||:......+갔지?
-()<Speaker></Speaker>||:그리고, 구석에서 그걸 전부 지켜보는 초롱초롱한 눈동자가 있었다.+마침내 지휘관도 사라지자, 반짝이는 그 노란 눈동자는 그늘에서 살금살금 걸어 나와, 행동을 개시했다.
-()<Speaker></Speaker>||:............
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:3월 14일, 00시.
-()<Speaker>？？？</Speaker>||:지휘관!
-()<Speaker>지휘관</Speaker>||:......으응...?
-()<Speaker>？？？</Speaker>||:빨리 일어나세요 지휘관!+긴급 상황입니다!
-()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>82</BIN><睁眼><Night>:익숙한 목소리의 다급한 부름에, 지휘관은 잠에서 겨우 깨어나 무거운 눈꺼풀을 간신히 들어올렸다.
-()<Speaker>지휘관</Speaker>||:럼...?+무슨 일이야...?
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:침대에서 몸을 일으킨 지휘관의 눈에 들어온 것은, 이번 주의 부관을 맡은 LWMMG의 다급한 얼굴이었다.
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:복잡한 상황이니 직접 가서 확인해 주세요.
-LWMMGMod(0)<Speaker>지휘관</Speaker><同时置暗>||:뭐야, 또 MDR이랑 RFB가 게임하다 차단기 내려갔어?+아니면 또 우리 애들이랑 철혈 애들이랑 시비 붙은 거야?+...설마, 파파샤가 또 케이블 끊어먹은 건 아니지?
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:......훨씬 심각한 일이에요.
-LWMMGMod(0)<Speaker>지휘관</Speaker><同时置暗>||<SE1>Heartbeat</SE1>:......!
-()<Speaker></Speaker>||:지휘관의 얼굴이 창백해졌다.
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:네... 화이트데이 초콜릿이에요.
-()<Speaker>지휘관</Speaker>||<SE1>AVG_Thunder_Dry</SE1>:......
-()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><BGM>BGM_stage3</BGM>:졸린 눈이 부릅 떠졌다. 일말의 여유도 없이 지휘관은 침대를 박차고 나와 외투만 걸치고 창고로 황급히 달려갔다.
-()||<黑点1>:
-()<Speaker>지휘관</Speaker>||<震屏3><黑点2><BIN>89</BIN><Night><SE1>AVG_BaseDoor_Open</SE1>:<size=50>대체 무슨 일이야?!</size>
-BOSS-3(0)<Speaker>헌터</Speaker>||:쉬잇, 조용히.+더 많은 사람이 이 일을 알면 안 되겠지?
-()<Speaker></Speaker>||:지휘관은 LWMMG도 따라잡기 힘든 속도로 쏜살같이 창고로 달려왔다.+그리고 그 문앞에 도착하자 지휘관을 반긴 것은, 어두운 표정의 헌터와, 창고 안에서부터 뿜어져 나오는 진한 초콜릿의 향기였다.
-()<Speaker>지휘관</Speaker>||:......!!
-BOSS-3(0)<Speaker>헌터</Speaker>||:정말 미안하다 지휘관, 인원 관리를 소홀히 한 우리 잘못이야.
-BOSS-3(0)<Speaker>지휘관</Speaker><同时置暗>||:대, 이게... 대체 어떻게 된...?
-()<Speaker></Speaker>||:엉망진창이 된 창고에서 눈을 떼지 못하면서, 지휘관은 떨리는 목소리로 물었다.
-BOSS-3(0)<Speaker>헌터</Speaker>||:지휘관이 내일 아침 나눠줄 초콜릿을, 디스트로이어가...+....먹어버렸다. 모조리.
-BOSS-3(0)<Speaker>지휘관</Speaker><同时置暗>||<震屏3>:<size=50>저어언</size>부으읍?!
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:지휘관, 쉬잇!!
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:절규하려는 지휘관의 입을 LWMMG가 황급히 틀어막았다.
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:누가 들으면 어떡해요!+화이트데이 초콜릿이 없어졌다고 알려지면 분명 폭동이 일어날 거예요!
-LWMMGMod(0)<Speaker>지휘관</Speaker><同时置暗>||:......
-()<Speaker></Speaker>||:인형들, 그중에서도 특히 몇몇이 화이트데이 초콜릿을 받지 못했을 때를 상상하니, 지휘관은 등골이 오싹해져 마른침을 꿀꺽 삼켰다.
-BOSS-3(0)<Speaker>헌터</Speaker>||:디스트로이어는 현행범으로 체포했고, 징계를 위해 에이전트가 연행했다.+철혈을 대표해 이번 사태 내가 대신 책임을 지겠어.
-BOSS-3(0)<Speaker>지휘관</Speaker><同时置暗>||:그래... 이미 벌어진 일이니, 어떻게든 수습할 방법을 찾아야지...
-()||<黑点1>:
-()<Speaker></Speaker>||<BIN>97</BIN><Night><SE1>AVG_BaseDoor_Close</SE1><黑点2>:지휘관은 깊게 두 번 심호흡하고, LWMMG에게 진정됐다 손짓하며 창고의 문을 닫았다.
-()<Speaker>지휘관</Speaker>||:당장 대체품 마련이 시급하니...+럼, 헌터, 시장에 가자.+재료를 사 와야겠어.
-BOSS-3(0)<Speaker>헌터</Speaker>||:지금부터 다시 만든다고?+아직 안 늦었다 생각해?
-BOSS-3(0)<Speaker>지휘관</Speaker><同时置暗>||:달리 뾰족한 수가 없잖아. 이렇게 된 이상 우리 모두 한배에 탄 거야.+일단 코코아 파우더를 비롯한 재료를 있는대로 구해야 해. 시간 없으니 반드시 아침 전에 해치운다, 알겠나?
-LWMMGMod(0)<Speaker>LWMMG</Speaker>||:알겠습니다.
-BOSS-3(0)<Speaker>헌터</Speaker>||:...알았다.
-()<Speaker>지휘관</Speaker>||:그럼 가자.
-()<Speaker>헌터 & LWMMG</Speaker>||:예!
-()<Speaker></Speaker>||:……
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>2022_white_valentine_BGM1</BGM>:............+3월 13일, 오후 6시.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:그리폰의 모두~ 오늘도 수고 많았어!+오늘 업무는 이제 끝! 이후 일정 없는 사람은 숙소로 돌아가도 돼!
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:다들 화이트데이 선물 어~엄청 기대하고 있는 거 알지만, 그렇다고 잠도 안 자면 큰일난다?
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:화이트데이 초콜릿 선물은 내일 아침 10시부터, 지휘관님의 사무실에서 받아가도록 해~
+()<Speaker></Speaker>||:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>8</BIN><黑屏2>:3월 13일, 오후 10시.+그리폰 기지의 지휘부, 지휘관의 사무실.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:네, 이걸로 오늘 업무 끝이에요.
+NPC-Kalin(1)<Speaker>지휘관</Speaker><同时置暗>||:수고했다, 너도 돌아가서 쉬렴.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:네에~ 지휘관님, 발렌타인 보답 선물 절대 잊지 마세요.+내일은 화이트데이라고요!
+NPC-Kalin(3)<Speaker>지휘관</Speaker><同时置暗>||:걱정 마, 벌써 다 준비해 뒀어.
+()<Speaker></Speaker>||:지휘관은 자신 있게 씨익 웃었다.
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:정말로요~? 또 작년처럼 막바지에 가까스로 기억해서 허둥대셔도 안 도와드릴 거예요?
+NPC-Kalin(2)<Speaker>지휘관</Speaker><同时置暗>||:얘가 또 날 뭘로 보고... 이미 모두분의 초콜릿을 준비했다고.+못 믿겠음 보여 줄까? 지금 창고에 있어.
+()||<黑点1>:
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1><黑点2><BIN>9</BIN>:지휘관은 의기양양하게 카리나를 데리고 사무실을 나섰다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑点2><BIN>89</BIN><SE1>AVG_BaseDoor_Open</SE1><BGM>BGM_Empty</BGM>:숙소로 돌아가는 길에, 지휘관은 카리나에게 창고를 보여 주었다.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||<BGM>m_wv_title</BGM>:와아, 제법이신데요? 차곡차곡 잘 정리하고 이름표까지 붙이시다니.+...제 건 어디 있어요?
+NPC-Kalin(0)<Speaker>지휘관</Speaker><同时置暗>||:새치기 말고 내일 받으러 와.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:쪼잔해――
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:헤헤, 그럼 기대하고 있을게요. 안녕히 주무세요!
+()<Speaker></Speaker>||:카리나도 장난스럽게 씨익 웃곤, 지휘관에게 손을 흔들며 숙소로 돌아갔다.+지휘관은 카리나를 눈으로 배웅한 뒤, 다시 고개를 창고에 잔뜩 쌓인 화이트데이 선물을 보았다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삑.+그때, 통신이 들어왔다.
+()<Speaker>지휘관</Speaker>||:여보세요?
+Lewis(0)<Speaker>루이스</Speaker><通讯框>||:<color=#00CCFF>지휘관! 늦은 시간에 미안해!</color>
+Lewis(0)<Speaker>지휘관</Speaker><同时置暗>||:아, 루이스구나. 무슨 일이야?
+Lewis(0)<Speaker>루이스</Speaker>||:<color=#00CCFF>나랑 팔콘 지금 막 임무 마치고 돌아왔어!</color>+<color=#00CCFF>그래서... 그게, 초콜릿은 내일 몇 시에 받으러 가면 돼?</color>
+Lewis(0)<Speaker>지휘관</Speaker><同时置暗>||:아침 10시부터야.
+Lewis(0)<Speaker>루이스</Speaker>||:<color=#00CCFF>아침 10시... 그렇구나! 알았어!</color>
+Lewis(0)<Speaker>97식의 목소리</Speaker><同时置暗>||:<color=#00CCFF>10시~? 아직도 한참 남았잖아——</color>
+()<Speaker></Speaker>||:통신 너머로 97식의 목소리가 들리자, 지휘관은 무심코 피식 웃었다.
+Lewis(0)<Speaker>지휘관</Speaker><同时置暗><通讯框>||:하하, 그러니까 얼른 푹 자야지. 휴면하면 시간 금방 갈 거야.
+Lewis(0)<Speaker>루이스</Speaker>||:<color=#00CCFF>응, 알았어! 그럼 지휘관도 잘 자!</color>
+()<Speaker>지휘관</Speaker>||:그래, 고생 많았다.
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신 종료.+지휘관은 제자리서 통신기를 계속 바라보았다.+그러면서 난감한 미소를 지었다.+새삼스럽지만, 모두의 기대감이 무겁게 느껴져서였다.
+()<Speaker>지휘관</Speaker>||:후우... 나도 그만 가서 쉴까.
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM><SE1>AVG_BaseDoor_Close</SE1><Night>:지휘관은 창고의 문을 닫고 기지개를 켰다. 억누르던 하루의 피로가 풀려나니, 졸음이 물밀듯이 쏟아졌다.
+()<Speaker>？？？</Speaker>||:......+갔지?
+()<Speaker></Speaker>||:그리고, 구석에서 그걸 전부 지켜보는 초롱초롱한 눈동자가 있었다.+마침내 지휘관도 사라지자, 반짝이는 그 노란 눈동자는 그늘에서 살금살금 걸어 나와, 행동을 개시했다.
+()<Speaker></Speaker>||:............
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:3월 14일, 00시.
+()<Speaker>？？？</Speaker>||:지휘관!
+()<Speaker>지휘관</Speaker>||:......으응...?
+()<Speaker>？？？</Speaker>||:빨리 일어나세요 지휘관!+긴급 상황입니다!
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>82</BIN><睁眼><Night>:익숙한 목소리의 다급한 부름에, 지휘관은 잠에서 겨우 깨어나 무거운 눈꺼풀을 간신히 들어올렸다.
+()<Speaker>지휘관</Speaker>||:럼...?+무슨 일이야...?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:침대에서 몸을 일으킨 지휘관의 눈에 들어온 것은, 이번 주의 부관을 맡은 LWMMG의 다급한 얼굴이었다.
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:복잡한 상황이니 직접 가서 확인해 주세요.
+LWMMGMod(0)<Speaker>지휘관</Speaker><同时置暗>||:뭐야, 또 MDR이랑 RFB가 게임하다 차단기 내려갔어?+아니면 또 우리 애들이랑 철혈 애들이랑 시비 붙은 거야?+...설마, 파파샤가 또 케이블 끊어먹은 건 아니지?
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:......훨씬 심각한 일이에요.
+LWMMGMod(0)<Speaker>지휘관</Speaker><同时置暗>||<SE1>Heartbeat</SE1>:......!
+()<Speaker></Speaker>||:지휘관의 얼굴이 창백해졌다.
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:네... 화이트데이 초콜릿이에요.
+()<Speaker>지휘관</Speaker>||<SE1>AVG_Thunder_Dry</SE1>:......
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><BGM>BGM_stage3</BGM>:졸린 눈이 부릅 떠졌다. 일말의 여유도 없이 지휘관은 침대를 박차고 나와 외투만 걸치고 창고로 황급히 달려갔다.
+()||<黑点1>:
+()<Speaker>지휘관</Speaker>||<震屏3><黑点2><BIN>89</BIN><Night><SE1>AVG_BaseDoor_Open</SE1>:<size=50>대체 무슨 일이야?!</size>
+BOSS-3(0)<Speaker>헌터</Speaker>||:쉬잇, 조용히.+더 많은 사람이 이 일을 알면 안 되겠지?
+()<Speaker></Speaker>||:지휘관은 LWMMG도 따라잡기 힘든 속도로 쏜살같이 창고로 달려왔다.+그리고 그 문앞에 도착하자 지휘관을 반긴 것은, 어두운 표정의 헌터와, 창고 안에서부터 뿜어져 나오는 진한 초콜릿의 향기였다.
+()<Speaker>지휘관</Speaker>||:......!!
+BOSS-3(0)<Speaker>헌터</Speaker>||:정말 미안하다 지휘관, 인원 관리를 소홀히 한 우리 잘못이야.
+BOSS-3(0)<Speaker>지휘관</Speaker><同时置暗>||:대, 이게... 대체 어떻게 된...?
+()<Speaker></Speaker>||:엉망진창이 된 창고에서 눈을 떼지 못하면서, 지휘관은 떨리는 목소리로 물었다.
+BOSS-3(0)<Speaker>헌터</Speaker>||:지휘관이 내일 아침 나눠줄 초콜릿을, 디스트로이어가...+....먹어버렸다. 모조리.
+BOSS-3(0)<Speaker>지휘관</Speaker><同时置暗>||<震屏3>:<size=50>저어언</size>부으읍?!
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:지휘관, 쉬잇!!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:절규하려는 지휘관의 입을 LWMMG가 황급히 틀어막았다.
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:누가 들으면 어떡해요!+화이트데이 초콜릿이 없어졌다고 알려지면 분명 폭동이 일어날 거예요!
+LWMMGMod(0)<Speaker>지휘관</Speaker><同时置暗>||:......
+()<Speaker></Speaker>||:인형들, 그중에서도 특히 몇몇이 화이트데이 초콜릿을 받지 못했을 때를 상상하니, 지휘관은 등골이 오싹해져 마른침을 꿀꺽 삼켰다.
+BOSS-3(0)<Speaker>헌터</Speaker>||:디스트로이어는 현행범으로 체포했고, 징계를 위해 에이전트가 연행했다.+철혈을 대표해 이번 사태 내가 대신 책임을 지겠어.
+BOSS-3(0)<Speaker>지휘관</Speaker><同时置暗>||:그래... 이미 벌어진 일이니, 어떻게든 수습할 방법을 찾아야지...
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>97</BIN><Night><SE1>AVG_BaseDoor_Close</SE1><黑点2>:지휘관은 깊게 두 번 심호흡하고, LWMMG에게 진정됐다 손짓하며 창고의 문을 닫았다.
+()<Speaker>지휘관</Speaker>||:당장 대체품 마련이 시급하니...+럼, 헌터, 시장에 가자.+재료를 사 와야겠어.
+BOSS-3(0)<Speaker>헌터</Speaker>||:지금부터 다시 만든다고?+아직 안 늦었다 생각해?
+BOSS-3(0)<Speaker>지휘관</Speaker><同时置暗>||:달리 뾰족한 수가 없잖아. 이렇게 된 이상 우리 모두 한배에 탄 거야.+일단 코코아 파우더를 비롯한 재료를 있는대로 구해야 해. 시간 없으니 반드시 아침 전에 해치운다, 알겠나?
+LWMMGMod(0)<Speaker>LWMMG</Speaker>||:알겠습니다.
+BOSS-3(0)<Speaker>헌터</Speaker>||:...알았다.
+()<Speaker>지휘관</Speaker>||:그럼 가자.
+()<Speaker>헌터 & LWMMG</Speaker>||:예!
+()<Speaker></Speaker>||:……
+()||<黑点1>:

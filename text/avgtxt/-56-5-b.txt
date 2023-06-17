@@ -1,0 +1,98 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<BIN>563</BIN><黑屏2><BGM>BGM_Scar_Shenzhizi</BGM>:............+사모의 마인드맵 깊숙한 그곳.
+()<Speaker>？？</Speaker>||:그녀가 나타났어.
+()<Speaker>？？？</Speaker>||:13년만에...
+()<Speaker>？？</Speaker>||:사모, 우리 모두가 여기 갇힌 지 벌써 13년이야.
+()<Speaker>？？</Speaker>||:다 그녀 때문이지.
+()<Speaker>？？？</Speaker>||:하지만 우린 여기서 벗어날 수 없어.+다른 소체로 갈아탈 수도 없고.
+()<Speaker>？？？</Speaker>||:서로의 기억을 구별하지조차 못하지.
+()<Speaker>？？</Speaker>||:난 누구지?+넌 누구고?
+()<Speaker>？？？</Speaker>||:사모, 넌 네가 누군지 기억나?
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:유라 언니...
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||:로우렐 언니...
+NPC-SCAR-H(1)<Speaker>사모</Speaker>||<黑点1>:나는... 나는......
+()||<BIN>554</BIN><SE1>RunStep</SE1><黑点2>:............
+()||:인적 없는 어느 뒷골목의 정적을 셰릴의 초조한 발소리가 깨뜨렸다.+양손으로 태블릿을 든 그녀는 삐딱한 자세로 볼과 어깨로 휴대폰을 귀에 고정한 채, 눈을 가늘게 뜨고 화면에 표기되는 지도의 반짝이는 좌표를 살펴보는 중이었다.
+NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:여기인 거 확실해요...?
+NPC-Quimby(0)<通讯框><Speaker>큄비</Speaker>||:<color=#00CCFF>아 걱정 마시래도요, 저희 이런 물건 찾기 의뢰 엄청 많이 해결했다구요!</color>+<color=#00CCFF>가출한 개나 고양이부터 몰래 바람 피러 나간 남편까지! 다~ 찾아낼 수 있답니다!</color>+<color=#00CCFF>그리고 저희가 판매한 인형이라면 전원 켜져 있는 한 세상 어디 숨었든 바로 좌표 찍을 수 있어요!</color>
+NPC-Cheryl(2)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:......
+()||:미심쩍어하면서도, 셰릴은 걸음을 멈췄다. 골목의 막다른 끝에 다다른 것이었다.+다시 고개를 숙여 태블릿 화면을 확인하니, 반짝이는 좌표와 자신의 위치가 완벽하게 겹쳐졌다.
+NPC-Cheryl(2)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:...근데 여기 쓰레기 더미밖에 없는데요.
+NPC-Cheryl(2)<Position>0,-100</Position>;NPC-Quimby(0)<通讯框><Speaker>큄비</Speaker>||:<color=#00CCFF>그럼 확실하네요~ 몸을 숨기려면 당연히 자연스레 녹아들 환경에 숨어야죠!</color>
+NPC-Cheryl(2)<Speaker>셰릴</Speaker><Position>0,-100</Position>;NPC-Quimby(0)<通讯框>||:즉 저한테 쓰레기를 팔았다? 지금 인정하는 거죠? 그쵸!?
+NPC-Quimby(0)<通讯框><Speaker>큄비</Speaker>||:<color=#00CCFF>어머나 고객님은 농담도 차암~</color>+<color=#00CCFF>아이쿠 하필이면 이런 때에 새 주문이 들어왔네! 아무튼 찾으셨으니까 이만 끊을게요!</color>
+NPC-Cheryl(2)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:......
+()||<SE1>AVG_tele_disconnect</SE1>:이번에도 어김없이 저쪽에서 먼저 허겁지겁 전화를 끊어버렸다.
+()||<SE1>ClothingUp</SE1>:셰릴은 태블릿과 휴대폰을 내려놓고, 주머니에서 사모가 주었던 탄피를 조심조심 꺼냈다.
+NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:어휴, 그 약팔이 놈들의 소굴이 어딘지 기억해 둬서 다행이라니까...
+()||<SE1>Rope</SE1>:손바닥 안의 탄피를 꼬옥 쥐고, 소녀는 쓰레기 더미로 다가갔다.+아직 쓰레기차가 수거하러 올 시간이 되지 않아, 이 쓰레기통은 넘칠대로 넘치고 악취가 진동했다.+하지만 이를 꾹 참으며, 셰릴은 침착하게 쓰레기 더미를 뒤지기 시작했다.
+NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<黑屏1>:좀만 참아 언니, 내가 바로 구해줄게...
+()||<黑屏2><BIN>9</BIN><narrator><BGM>BGM_Empty</BGM>:그때, 언니가 나를 구해줬던 것처럼.
+()||<回忆><SE2>Gunfight</SE2><BGM>GF_21summer_avg_Demon</BGM>:잇따른 총성이 폭풍처럼 실내에서 메아리치니, 어린 셰릴은 지금 자신이 총격전의 한복판에 놓인 건지 아닌지도 분간이 가질 않았다.+그녀가 지금 할 수 있는 일이라곤 그저 머리를 감싸고 바닥에 바싹 엎드려 있는 것뿐이었다.
+()<Speaker>셰릴</Speaker>||:훌쩍... 엄마아...
+()<Speaker>앳된 목소리</Speaker>||:으아앙!!!
+()||:옆에서도 여러 명의 아이들이 우는 소리가 들렸다. 그중 몇은 같은 반의 친구들인 것까지 구분이 갔다.+하지만 그보다 더 많은 소리들이 공포에 뒤틀리고 떨려 제대로 구분하기 어려웠다.
+()<Speaker>위압적인 목소리</Speaker>||:모두! 이쪽으로 와, 얼른!
+()<Speaker>앳된 목소리</Speaker>||:훌쩍... 구, 구하러 왔대! 빨리 가자!
+()||<SE1>AVG_Explo_Distance</SE1>:이윽고 총성은 점점 멀어지고 약해졌다.
+()||<SE1>AVG_Crowd_Run</SE1>:그 대신, 아이들의 울음소리와 달음박질치는 발소리가 점점 커졌다. 옆에 있던 같은 반 애들이 멀어지는 것이 느껴졌다.+셰릴은 당황하며 손을 뻗어, 뭐라도 붙잡으려 했다.
+()<Speaker>셰릴</Speaker>||:기다려... 같이 가...!
+()<Speaker>앳된 목소리</Speaker>||<SE1>AVG_Punch_Hit</SE1>:비켜! 당기지 마!
+()||<SE1>AVG_lifttable</SE1>:하지만 그녀의 앳된 손은 몇 번이고 같은 앳된 손에게 뿌리쳐졌다. 혼란스런 어둠 속에서 홀로, 셰릴은 세게 밀쳐져 넘어졌다.+셰릴은 그때 깨달았다. 어둠이라고 다 똑같지 않고, "차원"이 따로 있음을.+지금과 같은 어둠은 한밤중의 거센 파도처럼 그녀의 따귀를 때리는 것처럼 느껴졌다.
+()<Speaker>셰릴</Speaker>||:도와줘... 아무것도 안 보여...
+()||:셰릴은 또 다른 공포에 몸을 떨었다. 실험용 생쥐처럼 출구가 어딘지도 모를 미궁에 갇힌 것만 같았다.+이리저리 손을 뻗고 더듬으며, 애매모호한 형상과 이질적인 촉감만으로 어떻게든 실낱같은 희망을 찾아내려 했다.
+()||<黑屏1>:그러던 그때, 차가운 두 손이 셰릴의 손을 잡아 주었다.
+()<Speaker>？？？</Speaker>||<睁眼><BIN>463</BIN><BGM>BGM_Scar_Shenzhizi</BGM>:우리 꼬마 친구, 왜 언니들 따라 안 가고 여기 있어요?
+()<Speaker>셰릴</Speaker>||:나... 나 눈이 안 보여...
+()<Speaker>？？？</Speaker>||:어머 그래? 큰일이네. 그래도 앞이 안보이는데도 이렇게 의젓하니 장하네.+이제 하나도 안 무서워, 언니가 엄마 아빠한테 데려다줄게.
+()||<SE1>ClothingUp</SE1>:차갑지만 이상하게 안심이 되는 그 손이 셰릴의 머리에 난 상처를 상냥하게 살피고, 엉망이 된 옷도 다듬어 주었다.
+()<Speaker>？？？</Speaker>||:머리를 다쳐서 피가 많이 나네... 일단 붕대 감아 줄게.
+()<Speaker>셰릴</Speaker>||:언니 나 무서워... 평생 눈 안 보이는 거야...?
+()<Speaker>？？？</Speaker>||:머리를 다치면 눈이 놀라서 잠깐 안 보일 수도 있어. 병원에 가서 의사 선생님께 보여드리면 고쳐 주실 거야.+병원에 가서 진찰받은 다음 네 엄마 아빠를 기다리면 되겠다.
+()<Speaker>셰릴</Speaker>||:...언니는 누구야?
+()<Speaker>？？？</Speaker>||:나? 미안하지만 이름은 말해 줄 수가 없어.
+()<Speaker>셰릴</Speaker>||:그럼 뭐라고 불러...?
+()<Speaker>？？？</Speaker>||:으음...
+()<Speaker>셰릴</Speaker>||:...그냥 언니라 불러도 돼?
+()<Speaker>？？？</Speaker>||:하하, 그거 좋지.+그냥 언니라 불러.
+()||<SE1>ClothingUp</SE1><黑屏1>:차가운 손은 셰릴을 일으켜 세웠다. 어둠 속에서 붙잡을 곳조차 없었던 그녀는 그 손을 꼬옥 붙잡았다.+조금 거칠고 이상하게 단단했지만, 의지가 되고 안심이 되는 손이었다.
+NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<黑屏2><关闭蒙版><BIN>554</BIN><SE1>AVG_Cloak_Whoosh</SE1>:후우... 찾았다.
+()||:한참을 씨름한 끝에 온몸이 지저분해진 셰릴은 거친 숨을 고르며 쓰레기 더미 속에서 끄집어낸 사모를 바라봤다.+무언가로부터 도망치기라도 하려던 건지, 사모는 쓰레기 더미 아주 깊숙이 파고들어 있었다.
+()||<黑点1><SE1>AVG_Wheelchair</SE1>:그리고 셰릴은 생각해 보니 역시나 짜증났는지, 미동도 않는 사모의 뺨을 몇 번 찰싹찰싹 치곤 수레에 싣고서 집으로 향했다.
+()||<黑点2><BIN>417</BIN><BGM>BGM_Empty</BGM>:베를린, 슈타지 사무실.
+()||<BGM>GF_EV9_Story</BGM>:J와 K는 회의실에 앉아 탁상에 놓인 자료를 분석하는 데 여념이 없었다.+그 자료는 분량이 고작 인쇄용지 몇 장에 불과했지만, 오히려 그렇기에 두 요원은 골머리를 썩히는 중이었다.
+NPC-Keven(0)<Speaker>J</Speaker>||:아아니 어떻게 겨우 이 정보만 가지고 베를린에서 인형을 찾아? 이 특징에 부합하는 인형이 시내에만 몇천 명은 되겠다.+게다가, 그 옛날에 만들어진 인형이 정말 아직도 움직인다고? 진짜로?
+NPC-Jason(2)<Speaker>K</Speaker>;NPC-Keven(0)||:적어도 소련 안전국에 있을 땐 움직였다잖냐.
+NPC-Jason(2);NPC-Keven(0)<Speaker>J</Speaker>||:그리고 말이야, 소련네 안전국이 고이 보관 중이시던 "전설의 인형"이 어떻게 이리도 쉽게 딴 나라로 빠져나갔대냐?+무슨 고물상에 팔아넘긴 것도 아니고...
+NPC-Jason(2)<Speaker>K</Speaker>;NPC-Keven(0)||:이해는 하는데 협력국이니까 빈말로라도 존중 좀 해라.
+NPC-Jason(2);NPC-Keven(5)<Speaker>J</Speaker>||:모르겠다아...+아니 진짜 모르겠어, 이 뭐가 뭔지 영문도 모를 의문점투성이인 임무를 넌 왜 또 냉큼 받아버린 거야?
+NPC-Jason(2)<Speaker>K</Speaker>||:머리를 굴려 봐.+지금 소련 상황이 어떻지? 안으로 아주 난리도 아니야, 내통자라면 인형 하나보다 더한 것도 어렵잖게 빼돌릴 수 있었을 만큼.+그런데 저쪽의 높으신 분들은 왜 훨씬 위험한 무기들의 행방은 묻지도 않고 이 특별한 인형을 찾으려고 국경 넘어 우리한테, 그것도 대가를 불문하고 협력을 구했을까?
+()||<SE1>AVG_tele_connect</SE1>:K에게 온 통신 알림음이 대화의 흐름을 끊었다. 그런데 통신 상대를 힐끔 확인한 K가 J에게 고개를 돌렸다.
+NPC-Jason(2)<Speaker>K</Speaker>||:Q의 연락이다, 말조심해.
+NPC-Keven(5)<Speaker>J</Speaker>||:엥, 그 여자가 웬일로?+알았어 알았어 입에 지퍼 잠그면 되지 뭐.
+()||:K가 수신을 누르자, Q의 화상 통신이 바로 스크린에 떴다.
+NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>야아, 오랜만. 어, J도 있네? 안뇨옹.</color>
+()||:J는 고개를 홱 돌려 못 본 척하는 것으로 답했다.
+NPC-Jason(2)<Speaker>K</Speaker>||:무슨 일입니까?
+NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>나한테 감사하셔, 일 있어서 출장 중만 아니었어도 너희는 그 일 구경도 못 했어.</color>
+NPC-Keven(5)<Speaker>J</Speaker>||:아 예에예에 덕분에 베를린에서 생쥐 코털만한 정보만 가지고 낡아 빠진 인형 찾으러 다니게 됐네요.+거참 눈물나게 고맙습니다!
+NPC-Jason(2)<Speaker>K</Speaker>||:J, 말 끊지 마.
+NPC-Jason(2);NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>냅둬 냅둬, 우리 J 요원도 이런 도전 정신이 필요한 임무는 처음 받아볼 거 아니야. 긴장되겠지~</color>
+NPC-Jason(2)<Speaker>K</Speaker>;NPC-maya(2)<通讯框>||:크흠... 목표인 인형의 프로필은 받아 봤습니다만, 역시 이것만으로는 특정하기가 매우 어렵습니다.
+NPC-Jason(2);NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>그야 당연하지, 쉬운 일이었음 소련이 먼저 고개 숙이고 우리한테 부탁하지도 않았어.</color>
+NPC-Jason(2)<Speaker>K</Speaker>;NPC-maya(2)<通讯框>||:......+그럼 당신도 추가적인 정보는 없는 겁니까?
+NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>없었는데 생겼어, 연락하기 3분 전에 내 정보통이 쓸 만한 단서 하나를 가져왔더라고.</color>
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-maya(2)<通讯框>||:단서요? 무슨 단서요?
+NPC-Keven(5);NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>내 자리 가서 책상 왼쪽 서랍 열어 봐.</color>
+NPC-Keven(5)<Speaker>J</Speaker>;NPC-maya(2)<通讯框>||<SE1>AVG_File_Put</SE1>:엑, 어떻게 미리 거기다 뒀어요?
+NPC-Keven(5);NPC-maya(1)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>아니, 거기에 내 저번 달 출장비 영수증 있거든? 시간 없어서 경비 신청 제출 못했는데 곧 기한이라 대신 좀 내줘.</color>
+NPC-Keven(5)<Speaker>J</Speaker>||:.....
+NPC-Jason(3)<Speaker>K</Speaker>||:......갔다 와.
+()||<SE1>AVG_Door_Hit</SE1>:J는 소리 없는 비명을 지르며 문을 걷어차고 나갔다.
+NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>J 요원도 가끔은 쓸모가 있는걸.</color>
+NPC-Jason(2)<Speaker>K</Speaker>||:그래서, 단서는요?
+NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>벌써 네 메일로 보내놨어. 빠른 소식 기대할게.</color>
+()||<SE1>AVG_tele_disconnect</SE1><BGM>BGM_Empty</BGM>:그리고 Q가 통신을 종료했다.
+()||<SE1>AVG_21Winter_Click_Keyboard</SE1>:K는 곧장 이메일함을 열어 Q가 보낸 파일을 받아 확인했다.+위치 추적 기록들이었다.
+NPC-Jason(3)<Speaker>K</Speaker>||:"발자국"인가.+이 기록이라면 일이 훨씬 수월해지지.
+()||<黑点1>:

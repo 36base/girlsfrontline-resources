@@ -1,0 +1,82 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>99</BIN><BGM>BGM_Truth</BGM><边框>2</边框>:태양은 수평선 너머로 가라앉으며 하늘을 점점 붉게 물들여 가고 있었다.+그리고 서쪽 하늘에서 보름달이 그 모습을 드러냈다.+잠재의식 속 잔혹함과 욕망을 비추는 토템이.
+FN57(0)<Speaker>Five-seveN</Speaker>||<边框>2</边框>:여기서는 그 누구도 운명에서 벗어날 수 없어. 신분을 정하는 이 카드를 집는 순간, 모든 행동이 실에 꿰인 꼭두각시처럼 그 피에 새겨질 거야.+어느 거 고를래?
+FN49Mod(0)<Speaker>FN-49</Speaker>||<边框>2</边框>:어...... 외, 왼쪽 카드요.
+FN57(0)<Speaker>Five-seveN</Speaker>||<边框>2</边框>:심사숙고했어? 한 번 정하면 바꿀 수 없어, 달이 피로 완전히 붉게 물들기 전까진.
+FN49Mod(0)<Speaker>FN-49</Speaker>||<边框>2</边框>:......그, 그럼 오른쪽 걸로...
+FN57(0)<Speaker>Five-seveN</Speaker>||<边框>2</边框>:정말로? 넌 피에 흐르는 광기에 취해 위장한 채로 친구들은 물론 스스로까지 속여야 하게 될 거야.
+FN49Mod(0)<Speaker>FN-49</Speaker>||<边框>2</边框>:에엑?! 우으... 대장님 저 좀 도와주세요오...
+FAL(0)<Speaker>FAL</Speaker>||<边框>2</边框>:미안하지만 이건 남이 정해 줄 수 없어.+스스로 선택한 운명을 짊어지고, 자신의 선택을 감당해야 하는걸.+그리고 무력감과 광란의 충돌 속에서 살아남기 위해 몸부림쳐야만 하지.
+FN57(0)<Speaker>Five-seveN</Speaker>||<边框>2</边框>:차가운 달빛이 골수까지 스며들어 피를 끓어오르게 하고, 배신의 불꽃을 지핀다...+아무튼 빨리 결정해, 운명을 너무 오래 기다리게 하면 악운밖에 안 남아.
+FN57(0)<Speaker>Five-seveN</Speaker>||<边框>2</边框>:――그치, 지휘관?
+()<Speaker></Speaker>||<边框>2</边框><SE1>AVG_whitenoise</SE1>:여러 쌍의 눈동자가, 시꺼먼 어둠과 왠지 모를 몽롱함을 뚫고 일제히 나를 향했다.+광기로 가득 차 번뜩이는 피처럼 붉은 눈동자들이, 나를 노려봤다.
+FAL(0)<Speaker>FAL</Speaker>||<边框>2</边框>:<size=55><color=#FF4500>그치, 지휘관?</color></size>
+FN49Mod(0)<Speaker>FN-49</Speaker>||<边框>2</边框>:<size=65><color=#FF0000>그쵸, 지휘관님?</color></size>
+MG4(2)<Speaker>MG4</Speaker>||<边框>2</边框><BGM>BGM_Empty</BGM><SE1>AVG_Scene_Transfer</SE1>:<size=75><color=#990000>그렇죠, 지휘관님?</color></size>
+()<Speaker></Speaker>||<震屏3><BIN>82</BIN><SE1>AVG_Cloak_Whoosh</SE1>:으아아아악!!
+()<Speaker>지휘관</Speaker>||:헉... 헉...+아니 무슨 꿈자리가 이리 사나워...?+어휴, 이게 다 카리나가 애들 데리고 "라이칸의 성역" 게임하러 가서야...+...지금쯤이면 다들 신나게 놀고 있으려나? 카리나한테 연락해 볼까.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐삐——
+NPC-Kalin(0)<Speaker>카리나</Speaker><通讯框>||:<color=#00CCFF>부관 카리나는 현재 밤을 새며 작전보고서를 작성 중입니다. 급한 용무가 있다면 지휘관님께 연락해 주세요.</color>
+()<Speaker>지휘관</Speaker>||<SE1>AVG_tele_disconnect</SE1>:자동 답변? 나한테 연락하라니, 이 녀석 대체 뭘 하고 있길래...+직접 가 봐야겠다. 아무래도 예감이 안 좋아...
+()<Speaker></Speaker>||:......
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>162</BIN><黑点2><BGM>10056</BGM><SE2>Gunfight</SE2><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:타타탕——!
+()<Speaker>지휘관</Speaker>||:?!!
+95type(6)<Speaker>95식</Speaker>||<SE1>RunStep</SE1>:피해요!
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1>:다급한 외침에 지휘관이 옆으로 피하기가 무섭게, 총탄 몇 발이 지휘관의 발이 있었던 자리에 작은 구덩이를 파냈다.
+95type(6)<Speaker>95식</Speaker>||:괜찮으세요 지휘관님?! 안 다치셨어요!?
+95type(6)<Speaker>지휘관</Speaker><同时置暗>||:대, 대체 뭐가 어떻게 된 일이야!? 너희 게임하는 거 아니었어? 왜 총탄이 날아다니는데!?
+95type(6)<Speaker>95식</Speaker>||:그게... 그건 카리나 씨한테 물어보시는 편이...
+()<Speaker></Speaker>||<SE1>AVG_wind_grass</SE1>:우선 놀란 가슴부터 쓸어내린 지휘관은 주위의 안전을 확인한 뒤 높다란 나무의 그늘 아래에서 나와 눈부신 햇빛을 받으며 현장으로 다가갔다.
+()<Speaker></Speaker>||:한 걸음 내딛을수록, 뿌옇던 것들이 점점 또렷하게, 확실하게 보였다. 바로...
+()<Speaker></Speaker>||<SE1>AVG_Combat_Hits</SE1><震屏3>:한데 뒤엉켜 싸우는 인형들이었다.+서서든 바닥에 엎어져서든, 인형들은 편을 갈라 서로 소리지르며 쥐어뜯고 치고받으며 싸워대고 있었다.
+()<Speaker></Speaker>||:물론 그 "덩어리"만이 아니었다. 한쪽엔 조용히 대치 중이기만 한 두 인형도 있었으니, 바로 FAL과 Five-seveN이었다.+하지만 저 난리법석인 "덩어리"보다, 이 조용히 대치하는 둘의 분위기가 훨씬 더 살벌했다.+한 치의 방심 없이, 둘은 거칠게 숨을 내쉬면서 상대를 노려보며 찰나의 빈틈을 놓치지 않으려고 온 신경이 곤두서 있었다.
+()<Speaker>인형들</Speaker>||:...지휘관? / 허니다! / 주인님...!
+()<Speaker></Speaker>||:그때, 멀리 숨어서 사태를 관망하던 인형들이 지휘관을 발견하곤 구세주라도 본 듯 마구 손을 흔들었다.
+PPD40(4)<Speaker>PPD-40</Speaker><Shake>0.1</Shake>||:지휘관! 잘 왔어, 이 정신나간 것들한테 비키라고 해! 빨리 FAL을 도와야――
+CBJMS(4)<Speaker>C-MS</Speaker><Shake>0.1</Shake>||<SE1>AVG_Combat_Hits</SE1>:뭠마!!
+NTW20(6)<Speaker>NTW-20</Speaker><Shake>0.1</Shake>||<SE1>Rope</SE1>:적당히 하라고! 지휘관! 이 녀석들 좀 치워 줘!
+()<Speaker></Speaker>||:고함인지 비명인지 분간하기도 어려운 외침이 사방에서 동시에 터져 나왔고...
+()<Speaker></Speaker>||<SE1>RunStep</SE1>:상황을 대충 파악한 지휘관은 깊게 심호흡을 한 번 한 뒤, 곧장 뒤로 돌아 내달렸다.
+95type(6)<Speaker>95식</Speaker>||:어, 지휘관님? 그쪽은 돌아가는 길이에요!
+()<Speaker>지휘관</Speaker>||:어 잘 있어 나는 못 본 걸로――
+()<Speaker></Speaker>||<震屏3><SE1>AVG_XXS_kick</SE1><BGM>BGM_Empty</BGM>:시도는 좋았지만, 곧바로 앞을 가로막은 누군가에게 붙잡혔다.
+NPC-KalinSwim(0)<Speaker>카리나</Speaker>||:<size=50>어서 오세요 지휘관님!</size>+왜 이제야 오셨어요, 얼마나 기다리고 있었는데요!+<size=50>역시 지휘관님은 세상에서 제에에에일 믿음직한 분이시라니까요!</size>
+()<Speaker></Speaker>||:결국 지휘관은 도망칠 생각을 하는 것을 포기했다.
+()<Speaker>지휘관</Speaker>||:...좋아, 이게 대체 무슨 일인지부터 설명해 줄래?
+NPC-KalinSwim(1)<Speaker>카리나</Speaker>||<BGM>m_wv_title</BGM>:아하하... 원래는 그냥 단순한 "라이칸의 성역" 게임이었는데요...+중간에 약간의 해프닝이 생겨서... 에헤헤...
+DP12(4)<Speaker>DP-12</Speaker>||:처음엔 모두 얌전하고 협조적이었는데...+첫날 보안관 선거 단계에서 [늑대왕]인 Five-seveN이 자폭해서 [예언자] FAL과 동귀어진하는 바람에 [기사]인 FN-49까지 탈락해버렸거든요.
+G28(4)<Speaker>G28</Speaker>||:그전부터 엉망이었어! 늑대인간 팀이 첫날 밤에 [큐피드] G36을 죽이고 [마녀] 스프링필드가 [주민]인 WA2000을 독살했다고!
+NPC-KalinSwim(1)<Speaker>카리나</Speaker>||:설명 듣다 지휘관님 머리 터지시겠다... 아무튼, 요약하자면 게임 시작하자마자 주민 팀이 처참한 피해를 입었어요.+물론 역전할 찬스도 있긴 했지만, 그... 거기서 사소한 사고가 일어났지 뭐예요.+덮어 뒀던 신분 카드 하나가 바람에 뒤집히는 바람에...
+FAL(7)<Speaker>FAL</Speaker>||:FN 소대는 전멸하고 마을주민 팀이 패배했지.+이게 다 Five-seveN 때문이야!
+FN57(6)<Speaker>Five-seveN</Speaker>||:이보세요 패션 테러리스트 씨, 우리 다른 팀이었거든?+[늑대왕]인 내가 짜증나고 거만한 [예언자]를 데리고 자폭하는 게 늑대인간 팀에게 최선의 전술이었는데 뭐 어쩌라고!
+FAL(7)<Speaker>FAL</Speaker>||:뭐 내가 좀 고고하긴 해도 비겁한 수작이나 쓰는 소인배보단 백배천배 낫거든?
+FN57(8)<Speaker>Five-seveN</Speaker><Shake>0.1</Shake>||<SE1>Rope</SE1>:<size=50>이게 말 다했어!?</size>
+()<Speaker></Speaker>||:둘이 또 달라붙기 직전있었다...
+()<Speaker>지휘관</Speaker>||:<size=50>둘 다 그만!</size>+스프링필드, KAC! 쟤네 또 달라붙지 못하게 붙잡아!
+FN57(8)<Speaker>Five-seveN</Speaker>||<SE1>ClothingUp</SE1>:말리지 마 지휘관!+내가 몇 년이나 참아 왔지만 오늘은 진짜 못 참아! 아무도 날 막을 수 없어!
+FN57(8)<Speaker>Five-seveN</Speaker>||<controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:<size=55>오늘 결판을 낼 거라고!</size>
+FAL(6)<Speaker>FAL</Speaker>||:누가 할 소리! 언제 한번 제대로 혼 좀 내야겠다 생각하던 참이었는데 잘됐네!
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:FAL과 Five-seveN이 다시 서로 잡아먹을 기세로 기싸움을 하자, 지휘관은 머리가 지끈거리기 시작했다.
+NPC-KalinSwim(0)<Speaker>카리나</Speaker>||:부하들의 갈등을 중재하는 것도 지휘관님의 본분이죠, 그쵸?
+NPC-KalinSwim(0)<Speaker>지휘관</Speaker><同时置暗>||:<color=#A9A9A9>이런 건 끼어들지 않는 게 현명하다만...</color>
+NPC-KalinSwim(0)<Speaker>카리나</Speaker>||:그리고 저는 지휘관님의 부관이니까, 어드바이스를 드리는 게 제 본분이죠?
+NPC-KalinSwim(0)<Speaker>지휘관</Speaker><同时置暗>||:<color=#A9A9A9>...수상한데.</color>
+NPC-KalinSwim(0)<Speaker>카리나</Speaker>||:그래서 말인데요, 게임 때문에 시작된 다툼이니 게임으로 끝내는 게 어떻겠어요?
+NPC-KalinSwim(0)<Speaker>지휘관</Speaker><同时置暗>||:그래, 어디 들어나 보자.
+NPC-KalinSwim(0)<Speaker>카리나</Speaker>||:마침 FAL과 Five-seveN은 각각 주민 팀과 늑대인간 팀의 리더니까, 두 팀으로 나눠서 모두가 즐길 수 있는 여름 대항전 축제를 여는 거예요!
+KAC(4)<Speaker>KAC-PDW</Speaker><Position>0,135</Position>||:오오! 그래서?
+NPC-KalinSwim(0)<Speaker>카리나</Speaker>||<SE1>ShuffleCards</SE1>:우선! 내가 지인짜 급하게 준비한 이 [선량함의 증표]와 [늑대들의 명패] 카드를 모두에게 나눠 줄게. 이걸 어떤 식으로든 지휘관님께 드리고 어필하도록 해.+그럼 지휘관님이 내게 오셔서, 받은 카드들로 오늘 여기 모인 17명에게 투표를 하실 거야!+최종적으로 최다 득표인 인형이 이번 "라이칸의 성역" 이벤트의 MVP가 되고, 그 인형이 소속된 팀도 자동으로 승리하게 된다~ 이 말씀!
+NPC-KalinSwim(0)<Speaker>카리나</Speaker>||:FN 소대의 두 사람, 어떻게 생각해?
+FAL(4)<Speaker>FAL</Speaker>||:지휘관이 판단한다면야, 난 이견 없어.
+FN57(8)<Speaker>Five-seveN</Speaker>||:지휘관의 표를 얻는 거라면 확실하겠네!
+()<Speaker>지휘관</Speaker>||:......응? 내 의견은 안 물어보니?!
+NPC-KalinSwim(0)<Speaker>카리나</Speaker>||:OK~! 그럼 그렇게 하기로 결정!
+()<Speaker>지휘관</Speaker>||:......
+NPC-KalinSwim(0)<Speaker>카리나</Speaker>||:그럼 각자가 쓸 점포 자리는 내가 준비할게. 아 참, 형평성을 위해서 점포 주인도 내가 고를 거야!+다시 말하지만, 어필 수단은 뭐든 상관없어~
+KAC(4)<Speaker>KAC-PDW</Speaker><Position>0,135</Position>||:와우! 그럼 허니를 내 곁에 묶어둘 수도 있겠네!+Five-seveN 대장! 나도 참가할래!
+PPD40(2)<Speaker>PPD-40</Speaker>||:FAL! 널 전력으로 응원하겠어! 나도 힘을 보탤 수 있게 해 줘!
+NPC-KalinSwim(0)<Speaker>카리나</Speaker>||:으히힛... 지휘관님, 오늘 밤은 정말 떠들썩한 밤이 되겠는걸요~?+지휘관님이 누구한테 투표하실지 기대되네요!
+()<Speaker></Speaker>||:생존이냐, 파멸이냐. 치열한 경쟁의 막이 올랐다.
+()||<黑点1>:

@@ -1,138 +1,138 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>9</BIN><SE1>Explode</SE1><黑屏1>:...+살을 에는 겨울바람도 격추된 헬리콥터의 불길을 끄진 못했지만, 싸움이 일단락된 UN 플라자의 열기는 사그라들었다.
-HK416(7)<Speaker>터스크</Speaker>||<黑屏2><BIN>288</BIN>:크윽...+이렇게 될 리가... 없는데...!
-Vector(7)<Speaker>Vector</Speaker>||:이것이 나의... 구원인가...
-HK416Mod(0)<Speaker>HK416</Speaker>||:휴우... 드디어 끝났네. 진짜 끈질긴 녀석들이야.
-Vector(0)<Speaker>Vector</Speaker>||:R93, K5, PP-90... 다 끝났어...
-()||<BGM>m_avg_casual</BGM>:"HK416"과 "Vector"가 쓰러지면서, 두 원본 인형도 드디어 마음을 놓을 수 있게 되었다.+일반적으론 여기서 불빛을 배경으로 서로의 실력을 인정하는 눈빛을 교환하겠지만, 여태까지 숨어 있던 "데레"의 촐싹대는 목소리가 좋은 분위기를 다 망쳐버렸다.
-NPC-Dima(0)<Speaker>데레？</Speaker>||:이얏호오오오! 이겼다 이겼다! 드디어 이겼다아아아!!
-HK416Mod(0)<Speaker>HK416</Speaker>||:......+저 봐라 저...
-Vector(0)<Speaker>Vector</Speaker>||:...덕분에 일이 아직 다 끝나지 않았단 걸 알았어.
-NPC-Dima(0)<Speaker>데레？</Speaker>||:헉! 아, 크흠 크흠!+미, 미안해... 그러니까, 내가 너무 흥분해서―― 우왁, 왜 나한테 총을 겨눠?!
-NPC-Dima(0);HK416Mod(0)<Speaker>HK416</Speaker>||:우리 사이에 아직 청산할 게 남았단 걸 잊진 않았겠지?
-NPC-Dima(2)<Speaker>데레？</Speaker>;HK416Mod(0)||:어... 그랬나...?
-NPC-Dima(2);HK416Mod(0)<Speaker>HK416</Speaker>||:또 시치미 떼시겠다?
-NPC-Dima(2);Vector(0)<Speaker>Vector</Speaker>||:아하, 소위 "아픈 꼴을 당해야 말을 듣는 타입"이란 거구나.
-Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_weapon_reload</SE1>:그렇다면...
-NPC-Dima(3)<Speaker>데레？</Speaker>||:말할게! 다 말할게!
-HK416Mod(0)<Speaker>HK416</Speaker>||:진작에 그럴 것이지.
-NPC-Dima(2)<Speaker>데레？</Speaker>||:사실... 나도 일이 이렇게 될 줄은 진짜 몰랐어.+그건 어느 겨울날의 오후, 평소처럼 평온한 날이었지...
-HK416Mod(0)<Speaker>HK416</Speaker>||:죽기 싫으면 본론만 말해.
-NPC-Dima(0)<Speaker>데레？</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:넵!
-()||<黑屏2><回忆><BIN>302</BIN><BGM>BGM_Battle</BGM>:며칠 전, 게임 속.
-HK416Agent(0)<Speaker>요원 416</Speaker>||<SE2>Gunfight</SE2>:적의 전멸을 확인.
-NPC-Dima(0)<Speaker>데레</Speaker>;HK416Agent(0)||:우와, 굉장하다!+이 게임 솔로 플레이는 무지 어려운데 이러니까 완전 치트잖아?+과연 인형이랄까... 예전에 몰래 해둔 마인드맵 백업을 이렇게 쓸 수 있다니 역시 나도 놀랐네.+게임의 데이터를 살짝 건드린 것만으로 이렇게 아군 캐릭터로 만들 수 있다니, 역시 난 대단해!
-NPC-Dima(0);HK416Agent(0)<Speaker>요원 416</Speaker>||:혼자 뭘 낄낄대? 빨리 헬기나 불러.
-NPC-Dima(0)<Speaker>데레</Speaker>;HK416Agent(0)||:...근데 성격까지 똑같네. 어휴, 416 녀석 마음씨가 더 착했으면 얼마나 좋아?+G11의 복사 캐릭터는 오자마자 얼어 죽어버리고... 으음, 그건 역시 그냥 사고였겠지?
-NPC-Dima(0)<Speaker>데레</Speaker>||<SE1>AVG_Division_Flare_Gun</SE1>:다음 판에 걔 스탯을 좀 조절해서 더 강하게 만들어 주면 되려나?
-()<Speaker>헬기 파일럿</Speaker>||:회수 지점에 접근 중. 도착까지...
-()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:경고. 높은 위험도의 적을 탐지.
-NPC-Dima(0)<Speaker>데레</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:왔다 왔어! 이번엔 인형까지 데려왔으니까 하나도 안 무섭다고! 으하하하――
-()||<SE2>Gunfight</SE2>:
-()<Speaker>시스템</Speaker>||:X 디마이(가) NPC의 손에 사망했습니다. X+모든 플레이어가 사망했습니다. 30초 후 새로운 게임을 시작합니다...
-NPC-Dima(3)<Speaker>데레</Speaker>||:으에에엑?!
-NPC-Dima(3);HK416Agent(0)<Speaker>요원 416</Speaker>||:데레, 뭘 멍때리고 있던 거야?!
-NPC-Dima(2)<Speaker>데레</Speaker>;HK416Agent(0)||:아니, 난 그냥...!
-NPC-Dima(2);HK416Agent(0)<Speaker>요원 416</Speaker>||:그냥 뭐? 그 허접한 실력에 변명거리를 대려는 거면 차라리 말하지 마.
-NPC-Dima(2)<Speaker>데레</Speaker>);HK416Agent(0)||:아니 그게 아니라, 저 변절 요원이 뒤에서 기습하니까...!
-NPC-Dima(2);HK416Agent(0)<Speaker>요원 416</Speaker>||:또 나왔네, 데레의 필살 책임전가 어택.
-NPC-Dima(3)<Speaker>데레</Speaker>);HK416Agent(0)||:으윽...!
-NPC-Dima(3);HK416Agent(0)<Speaker>요원 416</Speaker>||:자꾸 그렇게 변명이나 해댈 생각이면 그냥 그만하고 가서 소꿉놀이 같은 게임이나 하지?
-NPC-Dima(2)<Speaker>데레</Speaker>);HK416Agent(0)||:이, 이게 카피 AI 주제에 뭔 입이 그렇게 험해?
-NPC-Dima(2);HK416Agent(0)<Speaker>요원 416</Speaker>||:네가 허접인 걸 어쩌라고, 꼬우면 접던가.
-NPC-Dima(2)<Speaker>데레</Speaker>);HK416Agent(0)||:으윽...
-NPC-Dima(2);HK416Agent(0)<Speaker>요원 416</Speaker>||:왜 그래?
-HK416Agent(0)<Speaker>요원 416</Speaker>||:억울해서 울려고?
-NPC-Dima(3)<Speaker>데레</Speaker>||<黑点1>:울긴 누가 울어!
-()<Speaker>시스템</Speaker>||<黑点2><BIN>70</BIN>:로그아웃했습니다.
-NPC-Deele(0)<Speaker>데레</Speaker>||:젠장, 게임에서까지 416한테 독설을 들어야 하냐고!+설마, 내가 이렇게 백업을 남길 걸 예상하고 성격 데이터까지 남긴 건가?
-NPC-Deele(0)<Speaker>데레</Speaker>||:으음... 일단 416의 성격 쪽을 살짝 수정해서, 조금은 부드럽게 만들어 볼까...
-NPC-Deele(0)<Speaker>데레</Speaker>||:이건 이렇게, 그리고 이건 이렇게... 응, 된 것 같다!+헤헤헤, 아무리 주둥이를 놀려봤자, 수치를 조정하면 꼼짝도 못하지!+이 천재 인형 정비사님의 기술력을 얕보지 말라고, 416!+게임 실행!
-()<Speaker>시스템</Speaker>||:경고. 데이터 호환성 문제 발생.
-NPC-Deele(0)<Speaker>데레</Speaker>||:뭐? 어떻게 된 거야?+게임 실행!
-()<Speaker>시스템</Speaker>||:경고. 데이터 호환성 문제 발생.
-NPC-Deele(0)<Speaker>데레</Speaker>||:아니 왜 호환이 안 되는데! 게임마저 상냥한 416의 존재를 인정 못하겠단 거야?!+빨리 켜져!
-()<Speaker>시스템</Speaker>||:경고...
-NPC-Deele(0)<Speaker>데레</Speaker>||:시끄러워! 에잇!
-()||:자화자찬하던 것도 잠시, 데레는 렌치를 휘둘러 마인드맵 조정 콘솔을 마구 두들겼다.
-()<Speaker>시스템</Speaker>||:경고. 하드웨어에 심각한 오류가 발생했습니다. 긴급 안전 모드를 실행합니다.
-NPC-Deele(0)<Speaker>데레</Speaker>||<SE1>AVG_whitenoise</SE1>:억, 큰일났... 우와악!?
-()||<SE1>Stop_AVG_loop</SE1>:상황이 잘못됐음을 깨달은 데레가 설비의 전원선을 뽑으려 했지만, 계속 머리에 쓰고 있던 VR 헬멧에서 HK416의 목소리가 들렸다.
-()<Speaker>요원 416</Speaker>||:이건... 데이터 스트림에 혼란이? 바이러스 공격인가?!+아니야... 이 느낌...
-NPC-Deele(0)<Speaker>데레</Speaker>||:뭐야, 왜 그래 416?
-()<Speaker>요원 416</Speaker>||<SE1>AVG_whitenoise</SE1>:추운 겨울... 버려진 도시와 무장 부대...+누구지... 난 누구지...?+난... LMB...?
-NPC-Deele(0)<Speaker>데레</Speaker>||<SE1>Stop_AVG_loop</SE1>:LMB? 설마, 416의 데이터가 게임 데이터에 섞여버렸나?!+큰일이다, 빨리――으아악!!
-()||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_whitenoise</SE1>:끔찍한 예감이 데레의 뇌리를 스쳤지만, 데레는 아무 조치도 취할 수 없었다.+갑작스런 전류가 그의 의식을 뽑아냈고, 현실은 침묵에 빠졌다.
-NPC-Dima(0)<Speaker>데레</Speaker>||<SE1>Stop_AVG_loop</SE1><BGM>m_avg_tension</BGM><关闭蒙版><黑屏2><BIN>288</BIN>:그렇게 해서, 내가 이 게임 속에 갇혀버린 거야. 콘솔이 안전모드로 전환된 탓에 정상적인 방법으론 로그아웃할 수 없게 됐어.+그리고 과거의 사례를 참고해 보면, 강제로 접속을 끊었다간 내가 몇 년을 고생한 세이브 데이터가 그대로 날아가고 말 거야!+그리고 내가 넣었던 마인드맵 데이터도 어째선지 수정당했고!+방금 봤던 것처럼, 416은 LMB의 "터스크"가 되어버렸어.+녀석의 존재가 안전모드를 지속시키는 주 원인이어서, 해제하려면 게임을 클리어해 녀석을 끌어내서 처치해야 했어. 그런데... 혼자서는 도저히 못하겠더라!+그래서 대충 이틀 전에 외부에 메시지를 발송해 인형 두 명을 꼬셔서 NPC인 척하면서 길을 안내해 줬는데, 416의 데이터를 계승한 터스크가 너무 강해서 그 둘만으론 역부족이더라고...
-HK416Mod(0)<Speaker>HK416</Speaker>||:......
-NPC-Dima(2)<Speaker>데레</Speaker>||:왜... 왜 그런 눈으로 보는 거야?
-HK416Mod(0)<Speaker>HK416</Speaker>||:누가...! 함부로 내 백업 데이터 가지고 놀래...!?
-NPC-Dima(3)<Speaker>데레</Speaker>||:아아악! 폭력 반대, 폭력 반대!
-Vector(0)<Speaker>Vector</Speaker>||:사정은 대충 알겠어. 그런데 왜 내 복사본도 게임에 나타난 거야?+설마, 우리의 서버를 해킹했어?
-NPC-Dima(2)<Speaker>데레</Speaker>||:아니, 그건 아니야!+그게... 나중에 인형들이 더 들어와서 보니, 그중에서 네 활약상이 제일 뛰어나길래, 몰래 데이터를 복사해서 "요원 Vector"를 만들었거든...+그런데 터스크 녀석이 트로이 목마 바이러스처럼 걔까지 감염시켜서, 클리너의 "헬파이어"로 만들어버렸어.+결국, 내가 게임에서 나가려면 둘 다 해치워야 하게 된 거지...
-Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_weapon_reload</SE1>:...용서 못해.
-NPC-Dima(0)<Speaker>데레</Speaker>||:자자자잠깐! 난 지금 이 게임의 관리자 신분이라고! 내가 죽으면 게임을 처음부터 다시 시작해야 해!
-HK416Mod(0)<Speaker>HK416</Speaker>||:머리가 지끈지끈해... 그냥 처음부터 설명했으면 이딴 난리도 없었을 거 아니야!
-NPC-Dima(3)<Speaker>데레</Speaker>||:그럼 내가 여캐로 플레이한 거 들통나잖아!
-HK416Mod(0)<Speaker>HK416</Speaker>||:그게 그렇게 숨길 일이야?!
-NPC-Dima(0)<Speaker>데레</Speaker>||:그걸 말이라고 해!? 지금 이렇게 털어놓는 것도 너희 둘뿐이니까지! 제발 부탁이야, 다른 사람들한텐 절대 말하지 말아 줘!
-HK416Mod(0)<Speaker>HK416</Speaker>||:이놈을 어떡한다...?
-Vector(0)<Speaker>Vector</Speaker>||:난 상관없어, 어차피 누군지도 모르는데.
-NPC-Dima(0)<Speaker>데레</Speaker>||:제발 비밀로 해 줘, 제발! 다음에 최신 부품이 들어오면 너한테 20... 아니, 반값으로 교환해 줄게!
-HK416Mod(0)<Speaker>HK416</Speaker>||:진작 그렇게 나왔어야지.+좋아, 어차피 나도 여장이 어쩌고 하는 말은 입밖으로 내기도 싫어.
-NPC-Dima(0)<Speaker>데레</Speaker>||<黑屏1>:저, 정말 고마워!
-()||<黑屏2><BIN>8</BIN>:......+그리폰 지휘실.
-NPC-Kalin(2)<Speaker>카리나</Speaker>||:......
-()<Speaker>지휘관</Speaker>||:......
-()<Speaker>인형들</Speaker>||:......
-()||:현장은 쥐 죽은 듯 조용했다.+"......푸흡!"+누가 먼저 소리를 냈는지는 몰라도, 그 비웃음은 수면 위에 떨어진 물방울처럼 빠르게 주위로 확산됐다.
-()<Speaker>언니 바라기 인형</Speaker>||:푸하하하하하! G36 언니, 저 애 완전 변태예요!
-()<Speaker>주방 추방 인형</Speaker>||:우웩, 징그러!+누가 저런 여장 취미 있는 오타쿠한테 정비를 받아?!
-()<Speaker>맥주병 상어 인형</Speaker>||:하하하하하하!! 아이고 배야!+야 VHS, 너도 봤어? 봤지?
-()<Speaker>표정 언짢은 인형</Speaker>||:...흥.
-()<Speaker>지휘관</Speaker>||<黑屏1>:<color=#A9A9A9>당신이 어디 사는 누군진 알 길이 없지만... 더는 비밀이 아니게 됐습니다, 데레 씨...</color>
-()||<黑屏2><BIN>70</BIN>:......+404 소대의 아지트.
-UMP9Mod(4)<Speaker>UMP9</Speaker>||:으에엑?! 진짜!? 그게 데레였어?!
-G11(0)<Speaker>G11</Speaker>||:우엑... 솔직히, 좀 역겨워.
-()||<SE1>AVG_Door_Hit</SE1>:쾅!
-UMP9Mod(4)<Speaker>UMP9</Speaker>||<黑屏1>:어, 언니? 어딜 급하게 가?+엥? 저기 언니, 접이 의자만 들고 어디 가! 총, 총 두고 갔어!
-()||<黑屏2><BIN>288</BIN>:......+게임 속, 다크존.
-HK416Mod(0)<Speaker>HK416</Speaker>||:일 다 해결된 것처럼 말하지 마! 아직 안 끝났어!+고생만 잔뜩하고 네 뒷수습까지 해 줬는데, 상금 받아도 그냥 넘어가진 않을 거야.
-NPC-Dima(3)<Speaker>데레</Speaker>||:으아악! ...응? 상금? 무슨 상금?
-Vector(0)<Speaker>Vector</Speaker>||:무슨 상금이냐니... 공식 개최된 서바이벌 매치 말이야. 너도 그것 때문에 게임하는 거 아니었어?
-NPC-Dima(0)<Speaker>데레</Speaker>||:서바이벌 매치라니... 난 그냥 재밌어서 논 건데? 상금 걸린 이벤트는 들어보지도 못했는데?
-HK416Mod(0)<Speaker>HK416</Speaker>||:......
-()||:HK416은 자신처럼 입이 떡 벌어진 Vector를 보곤, 숨을 깊게 들이마셨다.+그리고 다시 총을 들어, 총구로 데레의 이마를 찌르면서 그를 철조망까지 밀어붙였다.
-NPC-Dima(0)<Speaker>데레</Speaker>||:자자자잠깐잠깐잠깐! 해명할 기회를 줘!
-HK416Mod(0)<Speaker>HK416</Speaker>||:더는 못 참아아아!!
-NPC-Dima(2)<Speaker>데레</Speaker>||:그그그그래, 다음 수복할 일 있으면 내가 왕창 깎아 줄게! 그 어떤 고객한테도 준 적 없는 초특가 서비스야!
-HK416Mod(0)<Speaker>HK416</Speaker>||:......
-NPC-Dima(3)<Speaker>데레</Speaker>||:5... 아니 20%? 아니아니, 50%! 알았어알았어 70%! 70% 할인해 줄게――!!
-()||<SE1>AVG_rifle_finalshot_n</SE1><黑屏1>:
-()||<黑屏2><BIN>8</BIN><BGM>BGM_Empty</BGM>:새로운 아침을 맞이한 그리폰 지휘실.
-NPC-Kalin(8)<Speaker>카리나</Speaker>||<BGM>BGM_Hello</BGM><SE1>AVG_door_elecport</SE1>:지휘관님, 굿 모닝~!
-()<Speaker>지휘관</Speaker>||:좋은 아침.+오늘은 기분이 엄청 좋아 보이네?
-NPC-Kalin(8)<Speaker>카리나</Speaker>||:어제 이벤트가 대성공이었으니까요!
-()<Speaker>지휘관</Speaker>||:하하하... 확실히 여러모로 굉장했지...+존재하지도 않는 이벤트를 빌어 다른 이벤트를 열어 대성공이라니.
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:에헤헤... 참, 방금 숙소를 지날 때 보니까 모두 Vector를 걱정하더라고요. 어제 일 때문에 충격을 많이 받았나 봐요.
-()<Speaker>지휘관</Speaker>||:아무리 Vector라도 충격을 받을 만한 일이었지... 이따가 내가 잘 달래볼게.
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:그래도 저는 이번에 잔뜩 벌었답니다!+지휘관님, 나중에 또 이런 이벤트 열어도 돼요?
-()<Speaker>지휘관</Speaker>||:글쎄다... 헬리안 씨가 허가해 주실지는 차치하고서라도, 애들한테 이런 일에 펑펑 쓸 돈은 없잖니.
-NPC-Kalin(3)<Speaker>카리나</Speaker>||:그건 아쉽네요.
-()<Speaker>지휘관</Speaker>||:그 얘기만 하려고 온 거야?
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:아 맞다 맞다.+조금 전에 익명의 메일을 받았어요. 사과문이던데요?
-()<Speaker>지휘관</Speaker>||:사과문을 익명으로?+모니터에 띄워 줘.
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:네!
-()||:......+전자우편 동기화. 읽어들이는 중...+......
-NPC-Seele(1)<Speaker></Speaker>||:[사과문]+그리폰 여러분, 안녕하십니까.+저의 관리 소홀로 인해, 저희 측에서 귀사에게 본의 아닌 폐를 끼치게 되었습니다. 사건의 주범인 그 멍청이를 대신해 진심으로 사과드리는 바입니다.+여러분께서 넓은 아량으로 그 바보 녀석을 용서해 주신다면 감사하겠습니다.+더불어, 사과의 뜻으로 소정의 선물을 첨부하였으니, 부디 받아 주셨으면 합니다.+감사합니다.
-()||:......
-()<Speaker>지휘관</Speaker>||:누가 보낸 건지 전혀 파악이 안 돼?
-NPC-Kalin(4)<Speaker>카리나</Speaker>||:네, 역추적이고 뭐고 안 돼요.+하지만 이 우편, 왠지 404가 생각나는데... 제 착각일까요?
-()<Speaker>지휘관</Speaker>||:그런데, 사과라곤 하지만... 어제 우리한테 피해가 있었나?
-NPC-Kalin(8)<Speaker>카리나</Speaker>||:아뇨, 오히려 모두가 신나게 즐겼죠!+더더욱 중요한 건, 자아아안뜩 벌어들인 덕분에 고민하던 재정 적자가 완전히 메꿔졌어요!
-()<Speaker>지휘관</Speaker>||:아니 이 녀석들 얼마나 꼬라박았길래...
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:그야 모두 전력 승부였으니까요~ 좋은 게 좋은 거 아니겠어요?+해피 엔딩~ 해피 엔딩!
-()<Speaker>지휘관</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:그래... 해피 엔딩이라 치자.
-()||<黑屏2><BIN>9</BIN><BGM>GF_The_Division_Ola_Strandh_Prologue</BGM>:......+......
-()<Speaker>서버</Speaker>||:서버와 연결 중...+15%+46%+99%+——접속 성공.
-()||<黑屏1>:[현상금 축제] END.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>9</BIN><SE1>Explode</SE1><黑屏1>:...+살을 에는 겨울바람도 격추된 헬리콥터의 불길을 끄진 못했지만, 싸움이 일단락된 UN 플라자의 열기는 사그라들었다.
+HK416(7)<Speaker>터스크</Speaker>||<黑屏2><BIN>288</BIN>:크윽...+이렇게 될 리가... 없는데...!
+Vector(7)<Speaker>Vector</Speaker>||:이것이 나의... 구원인가...
+HK416Mod(0)<Speaker>HK416</Speaker>||:휴우... 드디어 끝났네. 진짜 끈질긴 녀석들이야.
+Vector(0)<Speaker>Vector</Speaker>||:R93, K5, PP-90... 다 끝났어...
+()||<BGM>m_avg_casual</BGM>:"HK416"과 "Vector"가 쓰러지면서, 두 원본 인형도 드디어 마음을 놓을 수 있게 되었다.+일반적으론 여기서 불빛을 배경으로 서로의 실력을 인정하는 눈빛을 교환하겠지만, 여태까지 숨어 있던 "데레"의 촐싹대는 목소리가 좋은 분위기를 다 망쳐버렸다.
+NPC-Dima(0)<Speaker>데레？</Speaker>||:이얏호오오오! 이겼다 이겼다! 드디어 이겼다아아아!!
+HK416Mod(0)<Speaker>HK416</Speaker>||:......+저 봐라 저...
+Vector(0)<Speaker>Vector</Speaker>||:...덕분에 일이 아직 다 끝나지 않았단 걸 알았어.
+NPC-Dima(0)<Speaker>데레？</Speaker>||:헉! 아, 크흠 크흠!+미, 미안해... 그러니까, 내가 너무 흥분해서―― 우왁, 왜 나한테 총을 겨눠?!
+NPC-Dima(0);HK416Mod(0)<Speaker>HK416</Speaker>||:우리 사이에 아직 청산할 게 남았단 걸 잊진 않았겠지?
+NPC-Dima(2)<Speaker>데레？</Speaker>;HK416Mod(0)||:어... 그랬나...?
+NPC-Dima(2);HK416Mod(0)<Speaker>HK416</Speaker>||:또 시치미 떼시겠다?
+NPC-Dima(2);Vector(0)<Speaker>Vector</Speaker>||:아하, 소위 "아픈 꼴을 당해야 말을 듣는 타입"이란 거구나.
+Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_weapon_reload</SE1>:그렇다면...
+NPC-Dima(3)<Speaker>데레？</Speaker>||:말할게! 다 말할게!
+HK416Mod(0)<Speaker>HK416</Speaker>||:진작에 그럴 것이지.
+NPC-Dima(2)<Speaker>데레？</Speaker>||:사실... 나도 일이 이렇게 될 줄은 진짜 몰랐어.+그건 어느 겨울날의 오후, 평소처럼 평온한 날이었지...
+HK416Mod(0)<Speaker>HK416</Speaker>||:죽기 싫으면 본론만 말해.
+NPC-Dima(0)<Speaker>데레？</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:넵!
+()||<黑屏2><回忆><BIN>302</BIN><BGM>BGM_Battle</BGM>:며칠 전, 게임 속.
+HK416Agent(0)<Speaker>요원 416</Speaker>||<SE2>Gunfight</SE2>:적의 전멸을 확인.
+NPC-Dima(0)<Speaker>데레</Speaker>;HK416Agent(0)||:우와, 굉장하다!+이 게임 솔로 플레이는 무지 어려운데 이러니까 완전 치트잖아?+과연 인형이랄까... 예전에 몰래 해둔 마인드맵 백업을 이렇게 쓸 수 있다니 역시 나도 놀랐네.+게임의 데이터를 살짝 건드린 것만으로 이렇게 아군 캐릭터로 만들 수 있다니, 역시 난 대단해!
+NPC-Dima(0);HK416Agent(0)<Speaker>요원 416</Speaker>||:혼자 뭘 낄낄대? 빨리 헬기나 불러.
+NPC-Dima(0)<Speaker>데레</Speaker>;HK416Agent(0)||:...근데 성격까지 똑같네. 어휴, 416 녀석 마음씨가 더 착했으면 얼마나 좋아?+G11의 복사 캐릭터는 오자마자 얼어 죽어버리고... 으음, 그건 역시 그냥 사고였겠지?
+NPC-Dima(0)<Speaker>데레</Speaker>||<SE1>AVG_Division_Flare_Gun</SE1>:다음 판에 걔 스탯을 좀 조절해서 더 강하게 만들어 주면 되려나?
+()<Speaker>헬기 파일럿</Speaker>||:회수 지점에 접근 중. 도착까지...
+()<Speaker>ISAC</Speaker>||<SE1>AVG_The_Division_ISAC_On</SE1>:경고. 높은 위험도의 적을 탐지.
+NPC-Dima(0)<Speaker>데레</Speaker>||<SE1>AVG_The_Division_ISAC_Off</SE1>:왔다 왔어! 이번엔 인형까지 데려왔으니까 하나도 안 무섭다고! 으하하하――
+()||<SE2>Gunfight</SE2>:
+()<Speaker>시스템</Speaker>||:X 디마이(가) NPC의 손에 사망했습니다. X+모든 플레이어가 사망했습니다. 30초 후 새로운 게임을 시작합니다...
+NPC-Dima(3)<Speaker>데레</Speaker>||:으에에엑?!
+NPC-Dima(3);HK416Agent(0)<Speaker>요원 416</Speaker>||:데레, 뭘 멍때리고 있던 거야?!
+NPC-Dima(2)<Speaker>데레</Speaker>;HK416Agent(0)||:아니, 난 그냥...!
+NPC-Dima(2);HK416Agent(0)<Speaker>요원 416</Speaker>||:그냥 뭐? 그 허접한 실력에 변명거리를 대려는 거면 차라리 말하지 마.
+NPC-Dima(2)<Speaker>데레</Speaker>);HK416Agent(0)||:아니 그게 아니라, 저 변절 요원이 뒤에서 기습하니까...!
+NPC-Dima(2);HK416Agent(0)<Speaker>요원 416</Speaker>||:또 나왔네, 데레의 필살 책임전가 어택.
+NPC-Dima(3)<Speaker>데레</Speaker>);HK416Agent(0)||:으윽...!
+NPC-Dima(3);HK416Agent(0)<Speaker>요원 416</Speaker>||:자꾸 그렇게 변명이나 해댈 생각이면 그냥 그만하고 가서 소꿉놀이 같은 게임이나 하지?
+NPC-Dima(2)<Speaker>데레</Speaker>);HK416Agent(0)||:이, 이게 카피 AI 주제에 뭔 입이 그렇게 험해?
+NPC-Dima(2);HK416Agent(0)<Speaker>요원 416</Speaker>||:네가 허접인 걸 어쩌라고, 꼬우면 접던가.
+NPC-Dima(2)<Speaker>데레</Speaker>);HK416Agent(0)||:으윽...
+NPC-Dima(2);HK416Agent(0)<Speaker>요원 416</Speaker>||:왜 그래?
+HK416Agent(0)<Speaker>요원 416</Speaker>||:억울해서 울려고?
+NPC-Dima(3)<Speaker>데레</Speaker>||<黑点1>:울긴 누가 울어!
+()<Speaker>시스템</Speaker>||<黑点2><BIN>70</BIN>:로그아웃했습니다.
+NPC-Deele(0)<Speaker>데레</Speaker>||:젠장, 게임에서까지 416한테 독설을 들어야 하냐고!+설마, 내가 이렇게 백업을 남길 걸 예상하고 성격 데이터까지 남긴 건가?
+NPC-Deele(0)<Speaker>데레</Speaker>||:으음... 일단 416의 성격 쪽을 살짝 수정해서, 조금은 부드럽게 만들어 볼까...
+NPC-Deele(0)<Speaker>데레</Speaker>||:이건 이렇게, 그리고 이건 이렇게... 응, 된 것 같다!+헤헤헤, 아무리 주둥이를 놀려봤자, 수치를 조정하면 꼼짝도 못하지!+이 천재 인형 정비사님의 기술력을 얕보지 말라고, 416!+게임 실행!
+()<Speaker>시스템</Speaker>||:경고. 데이터 호환성 문제 발생.
+NPC-Deele(0)<Speaker>데레</Speaker>||:뭐? 어떻게 된 거야?+게임 실행!
+()<Speaker>시스템</Speaker>||:경고. 데이터 호환성 문제 발생.
+NPC-Deele(0)<Speaker>데레</Speaker>||:아니 왜 호환이 안 되는데! 게임마저 상냥한 416의 존재를 인정 못하겠단 거야?!+빨리 켜져!
+()<Speaker>시스템</Speaker>||:경고...
+NPC-Deele(0)<Speaker>데레</Speaker>||:시끄러워! 에잇!
+()||:자화자찬하던 것도 잠시, 데레는 렌치를 휘둘러 마인드맵 조정 콘솔을 마구 두들겼다.
+()<Speaker>시스템</Speaker>||:경고. 하드웨어에 심각한 오류가 발생했습니다. 긴급 안전 모드를 실행합니다.
+NPC-Deele(0)<Speaker>데레</Speaker>||<SE1>AVG_whitenoise</SE1>:억, 큰일났... 우와악!?
+()||<SE1>Stop_AVG_loop</SE1>:상황이 잘못됐음을 깨달은 데레가 설비의 전원선을 뽑으려 했지만, 계속 머리에 쓰고 있던 VR 헬멧에서 HK416의 목소리가 들렸다.
+()<Speaker>요원 416</Speaker>||:이건... 데이터 스트림에 혼란이? 바이러스 공격인가?!+아니야... 이 느낌...
+NPC-Deele(0)<Speaker>데레</Speaker>||:뭐야, 왜 그래 416?
+()<Speaker>요원 416</Speaker>||<SE1>AVG_whitenoise</SE1>:추운 겨울... 버려진 도시와 무장 부대...+누구지... 난 누구지...?+난... LMB...?
+NPC-Deele(0)<Speaker>데레</Speaker>||<SE1>Stop_AVG_loop</SE1>:LMB? 설마, 416의 데이터가 게임 데이터에 섞여버렸나?!+큰일이다, 빨리――으아악!!
+()||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_whitenoise</SE1>:끔찍한 예감이 데레의 뇌리를 스쳤지만, 데레는 아무 조치도 취할 수 없었다.+갑작스런 전류가 그의 의식을 뽑아냈고, 현실은 침묵에 빠졌다.
+NPC-Dima(0)<Speaker>데레</Speaker>||<SE1>Stop_AVG_loop</SE1><BGM>m_avg_tension</BGM><关闭蒙版><黑屏2><BIN>288</BIN>:그렇게 해서, 내가 이 게임 속에 갇혀버린 거야. 콘솔이 안전모드로 전환된 탓에 정상적인 방법으론 로그아웃할 수 없게 됐어.+그리고 과거의 사례를 참고해 보면, 강제로 접속을 끊었다간 내가 몇 년을 고생한 세이브 데이터가 그대로 날아가고 말 거야!+그리고 내가 넣었던 마인드맵 데이터도 어째선지 수정당했고!+방금 봤던 것처럼, 416은 LMB의 "터스크"가 되어버렸어.+녀석의 존재가 안전모드를 지속시키는 주 원인이어서, 해제하려면 게임을 클리어해 녀석을 끌어내서 처치해야 했어. 그런데... 혼자서는 도저히 못하겠더라!+그래서 대충 이틀 전에 외부에 메시지를 발송해 인형 두 명을 꼬셔서 NPC인 척하면서 길을 안내해 줬는데, 416의 데이터를 계승한 터스크가 너무 강해서 그 둘만으론 역부족이더라고...
+HK416Mod(0)<Speaker>HK416</Speaker>||:......
+NPC-Dima(2)<Speaker>데레</Speaker>||:왜... 왜 그런 눈으로 보는 거야?
+HK416Mod(0)<Speaker>HK416</Speaker>||:누가...! 함부로 내 백업 데이터 가지고 놀래...!?
+NPC-Dima(3)<Speaker>데레</Speaker>||:아아악! 폭력 반대, 폭력 반대!
+Vector(0)<Speaker>Vector</Speaker>||:사정은 대충 알겠어. 그런데 왜 내 복사본도 게임에 나타난 거야?+설마, 우리의 서버를 해킹했어?
+NPC-Dima(2)<Speaker>데레</Speaker>||:아니, 그건 아니야!+그게... 나중에 인형들이 더 들어와서 보니, 그중에서 네 활약상이 제일 뛰어나길래, 몰래 데이터를 복사해서 "요원 Vector"를 만들었거든...+그런데 터스크 녀석이 트로이 목마 바이러스처럼 걔까지 감염시켜서, 클리너의 "헬파이어"로 만들어버렸어.+결국, 내가 게임에서 나가려면 둘 다 해치워야 하게 된 거지...
+Vector(0)<Speaker>Vector</Speaker>||<SE1>AVG_weapon_reload</SE1>:...용서 못해.
+NPC-Dima(0)<Speaker>데레</Speaker>||:자자자잠깐! 난 지금 이 게임의 관리자 신분이라고! 내가 죽으면 게임을 처음부터 다시 시작해야 해!
+HK416Mod(0)<Speaker>HK416</Speaker>||:머리가 지끈지끈해... 그냥 처음부터 설명했으면 이딴 난리도 없었을 거 아니야!
+NPC-Dima(3)<Speaker>데레</Speaker>||:그럼 내가 여캐로 플레이한 거 들통나잖아!
+HK416Mod(0)<Speaker>HK416</Speaker>||:그게 그렇게 숨길 일이야?!
+NPC-Dima(0)<Speaker>데레</Speaker>||:그걸 말이라고 해!? 지금 이렇게 털어놓는 것도 너희 둘뿐이니까지! 제발 부탁이야, 다른 사람들한텐 절대 말하지 말아 줘!
+HK416Mod(0)<Speaker>HK416</Speaker>||:이놈을 어떡한다...?
+Vector(0)<Speaker>Vector</Speaker>||:난 상관없어, 어차피 누군지도 모르는데.
+NPC-Dima(0)<Speaker>데레</Speaker>||:제발 비밀로 해 줘, 제발! 다음에 최신 부품이 들어오면 너한테 20... 아니, 반값으로 교환해 줄게!
+HK416Mod(0)<Speaker>HK416</Speaker>||:진작 그렇게 나왔어야지.+좋아, 어차피 나도 여장이 어쩌고 하는 말은 입밖으로 내기도 싫어.
+NPC-Dima(0)<Speaker>데레</Speaker>||<黑屏1>:저, 정말 고마워!
+()||<黑屏2><BIN>8</BIN>:......+그리폰 지휘실.
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:......
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker>인형들</Speaker>||:......
+()||:현장은 쥐 죽은 듯 조용했다.+"......푸흡!"+누가 먼저 소리를 냈는지는 몰라도, 그 비웃음은 수면 위에 떨어진 물방울처럼 빠르게 주위로 확산됐다.
+()<Speaker>언니 바라기 인형</Speaker>||:푸하하하하하! G36 언니, 저 애 완전 변태예요!
+()<Speaker>주방 추방 인형</Speaker>||:우웩, 징그러!+누가 저런 여장 취미 있는 오타쿠한테 정비를 받아?!
+()<Speaker>맥주병 상어 인형</Speaker>||:하하하하하하!! 아이고 배야!+야 VHS, 너도 봤어? 봤지?
+()<Speaker>표정 언짢은 인형</Speaker>||:...흥.
+()<Speaker>지휘관</Speaker>||<黑屏1>:<color=#A9A9A9>당신이 어디 사는 누군진 알 길이 없지만... 더는 비밀이 아니게 됐습니다, 데레 씨...</color>
+()||<黑屏2><BIN>70</BIN>:......+404 소대의 아지트.
+UMP9Mod(4)<Speaker>UMP9</Speaker>||:으에엑?! 진짜!? 그게 데레였어?!
+G11(0)<Speaker>G11</Speaker>||:우엑... 솔직히, 좀 역겨워.
+()||<SE1>AVG_Door_Hit</SE1>:쾅!
+UMP9Mod(4)<Speaker>UMP9</Speaker>||<黑屏1>:어, 언니? 어딜 급하게 가?+엥? 저기 언니, 접이 의자만 들고 어디 가! 총, 총 두고 갔어!
+()||<黑屏2><BIN>288</BIN>:......+게임 속, 다크존.
+HK416Mod(0)<Speaker>HK416</Speaker>||:일 다 해결된 것처럼 말하지 마! 아직 안 끝났어!+고생만 잔뜩하고 네 뒷수습까지 해 줬는데, 상금 받아도 그냥 넘어가진 않을 거야.
+NPC-Dima(3)<Speaker>데레</Speaker>||:으아악! ...응? 상금? 무슨 상금?
+Vector(0)<Speaker>Vector</Speaker>||:무슨 상금이냐니... 공식 개최된 서바이벌 매치 말이야. 너도 그것 때문에 게임하는 거 아니었어?
+NPC-Dima(0)<Speaker>데레</Speaker>||:서바이벌 매치라니... 난 그냥 재밌어서 논 건데? 상금 걸린 이벤트는 들어보지도 못했는데?
+HK416Mod(0)<Speaker>HK416</Speaker>||:......
+()||:HK416은 자신처럼 입이 떡 벌어진 Vector를 보곤, 숨을 깊게 들이마셨다.+그리고 다시 총을 들어, 총구로 데레의 이마를 찌르면서 그를 철조망까지 밀어붙였다.
+NPC-Dima(0)<Speaker>데레</Speaker>||:자자자잠깐잠깐잠깐! 해명할 기회를 줘!
+HK416Mod(0)<Speaker>HK416</Speaker>||:더는 못 참아아아!!
+NPC-Dima(2)<Speaker>데레</Speaker>||:그그그그래, 다음 수복할 일 있으면 내가 왕창 깎아 줄게! 그 어떤 고객한테도 준 적 없는 초특가 서비스야!
+HK416Mod(0)<Speaker>HK416</Speaker>||:......
+NPC-Dima(3)<Speaker>데레</Speaker>||:5... 아니 20%? 아니아니, 50%! 알았어알았어 70%! 70% 할인해 줄게――!!
+()||<SE1>AVG_rifle_finalshot_n</SE1><黑屏1>:
+()||<黑屏2><BIN>8</BIN><BGM>BGM_Empty</BGM>:새로운 아침을 맞이한 그리폰 지휘실.
+NPC-Kalin(8)<Speaker>카리나</Speaker>||<BGM>BGM_Hello</BGM><SE1>AVG_door_elecport</SE1>:지휘관님, 굿 모닝~!
+()<Speaker>지휘관</Speaker>||:좋은 아침.+오늘은 기분이 엄청 좋아 보이네?
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:어제 이벤트가 대성공이었으니까요!
+()<Speaker>지휘관</Speaker>||:하하하... 확실히 여러모로 굉장했지...+존재하지도 않는 이벤트를 빌어 다른 이벤트를 열어 대성공이라니.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:에헤헤... 참, 방금 숙소를 지날 때 보니까 모두 Vector를 걱정하더라고요. 어제 일 때문에 충격을 많이 받았나 봐요.
+()<Speaker>지휘관</Speaker>||:아무리 Vector라도 충격을 받을 만한 일이었지... 이따가 내가 잘 달래볼게.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:그래도 저는 이번에 잔뜩 벌었답니다!+지휘관님, 나중에 또 이런 이벤트 열어도 돼요?
+()<Speaker>지휘관</Speaker>||:글쎄다... 헬리안 씨가 허가해 주실지는 차치하고서라도, 애들한테 이런 일에 펑펑 쓸 돈은 없잖니.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:그건 아쉽네요.
+()<Speaker>지휘관</Speaker>||:그 얘기만 하려고 온 거야?
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:아 맞다 맞다.+조금 전에 익명의 메일을 받았어요. 사과문이던데요?
+()<Speaker>지휘관</Speaker>||:사과문을 익명으로?+모니터에 띄워 줘.
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:네!
+()||:......+전자우편 동기화. 읽어들이는 중...+......
+NPC-Seele(1)<Speaker></Speaker>||:[사과문]+그리폰 여러분, 안녕하십니까.+저의 관리 소홀로 인해, 저희 측에서 귀사에게 본의 아닌 폐를 끼치게 되었습니다. 사건의 주범인 그 멍청이를 대신해 진심으로 사과드리는 바입니다.+여러분께서 넓은 아량으로 그 바보 녀석을 용서해 주신다면 감사하겠습니다.+더불어, 사과의 뜻으로 소정의 선물을 첨부하였으니, 부디 받아 주셨으면 합니다.+감사합니다.
+()||:......
+()<Speaker>지휘관</Speaker>||:누가 보낸 건지 전혀 파악이 안 돼?
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:네, 역추적이고 뭐고 안 돼요.+하지만 이 우편, 왠지 404가 생각나는데... 제 착각일까요?
+()<Speaker>지휘관</Speaker>||:그런데, 사과라곤 하지만... 어제 우리한테 피해가 있었나?
+NPC-Kalin(8)<Speaker>카리나</Speaker>||:아뇨, 오히려 모두가 신나게 즐겼죠!+더더욱 중요한 건, 자아아안뜩 벌어들인 덕분에 고민하던 재정 적자가 완전히 메꿔졌어요!
+()<Speaker>지휘관</Speaker>||:아니 이 녀석들 얼마나 꼬라박았길래...
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:그야 모두 전력 승부였으니까요~ 좋은 게 좋은 거 아니겠어요?+해피 엔딩~ 해피 엔딩!
+()<Speaker>지휘관</Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:그래... 해피 엔딩이라 치자.
+()||<黑屏2><BIN>9</BIN><BGM>GF_The_Division_Ola_Strandh_Prologue</BGM>:......+......
+()<Speaker>서버</Speaker>||:서버와 연결 중...+15%+46%+99%+——접속 성공.
+()||<黑屏1>:[현상금 축제] END.

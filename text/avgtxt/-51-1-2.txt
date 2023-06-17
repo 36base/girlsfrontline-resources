@@ -1,154 +1,154 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<SE1>AVG_Jet_Passby</SE1><BIN>187</BIN><黑屏2><narrator>:독일 통일절 당일, 소련-독일 국경.
-()<Speaker>서부 통합 관제탑</Speaker>||<SE1>AVG_ElecSpace</SE1><BGM>10065</BGM>:경보! 경보! 경보!
-()||<黑屏1>:
-()<Speaker>서부 통합 관제탑</Speaker>||<黑屏2><SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>여기는 서부 통합 관제탑이다. 귀측은 현재 군사 비행 금지 구역으로 진입하려 한다. 즉시 비행 경로를 변경하거나 신분을 밝혀라. 불응 시 소련 공군이 귀측을 격추할 것이다.</color>
-M16A1BOSS(2)<Speaker>M16A1</Speaker>||:...비크.
-Beak(0)<Speaker>비크</Speaker>||:......+서부 통합 관제탑, 13번 암호화 통신 채널을 열어라.
-()<Speaker>서부 통합 관제탑</Speaker>||:<color=#00CCFF>알았다, 무전 통신원에게 암호화 통신 연결을 전달했다.</color>
-()<Speaker>무전 통신원</Speaker>||<SE1>AVG_21Winter_Click_Keyboard</SE1>:<color=#00CCFF>보안 정보 파일 수신... 인증 통과, 코드네임 "블랙박스".</color>+<color=#00CCFF>블랙박스, 현재 비행기 수십 대가 항로 배정을 기다리는 중이다.</color>+<color=#00CCFF>당분간 착륙을 허가할 수 없으니, 고도를 높여라.</color>
-Beak(0)<Speaker>비크</Speaker>||:하여간 진짜 귀에 거슬리는 코드네임이라니까...
-M16A1BOSS(2)<Speaker>M16A1</Speaker>||:미안하지만 즉시 착륙해야 한다.+지금 당장.
-M16A1BOSS(2)<Speaker>무전 통신원</Speaker><同时置暗>||:<color=#00CCFF>하지만――</color>
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:국가안전국의 A급 권한 명령이다.+즉시 착륙해야 한다.
-M16A1BOSS(4)<Speaker>무전 통신원</Speaker><同时置暗>||:<color=#00CCFF>뭣...</color>+<color=#00CCFF>...알겠다, 즉시 착륙장을 배정하겠다.</color>
-M16A1BOSS(2)<Speaker>M16A1</Speaker>||:아니, 그럴 필요 없다.+착륙 허가만 있으면 돼.
-()<Speaker>무전 통신원</Speaker>||:<color=#00CCFF>그게 무슨...?</color>
-Beak(0)<Speaker>비크</Speaker>||:하하하! 고도 적당히 낮추고 바로 뛰어내릴 거야!
-()<Speaker>서부 통합 관제탑</Speaker>||<SE1>AVG_Jet_Passby</SE1>:뭣...?! 잠깐, 귀측의 현재 위치는 지휘부의 상공이다!
-Beak(0)<Speaker>비크</Speaker>||:그러니까 내리는——
-()<Speaker></Speaker>||:비크의 목소리는 엄청난 바람소리에 묻혀버렸다.
-()||<黑点1>:
-()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:한편, 아직 이를 모르는 지휘부에선 치열한 논쟁이 벌어지고 있었다.
-()<Speaker></Speaker>||<BGM>10247</BGM>:어찌나 열띤지, 회의실의 두꺼운 문 너머로도 그 시끄러운 소리가 희미하게 새어나올 정도였다.
-()||<黑屏1>:
-()<Speaker>장교A</Speaker>||<BIN>506</BIN><黑点2>:<size=50>즉시 모스크바로 이륙해야 합니다!</size> +이것은 상급의 명령입니다! 아무런 증거도 없이 명령을 위반하면 군사 법정에 회부됩니다!
-()<Speaker>장교B</Speaker>||:이륙 요청이 동시에 수십 개나 들어왔고 임무 목표도 불확실하잖은가! 이건 중앙의 일관된 명령에도 어긋납니다, 모스크바에 질의 보고를 올릴 것을 제안합니다!
-()<Speaker>장교A</Speaker>||:지금 월권 행위를 저지르겠단 거냐?+잘 들어, 그건 국가에 대한 반역 행위다!+군인이라면 군의 규정을 따라야 해! 상급자의 명령은 절대 복종이란 말이다!
-()<Speaker>장교B</Speaker>||:여기가 그냥 국경인가?! 저 유럽에 맞닿은 최전방이야!+파면될지언정 모스크바에 보고해야 한다!+이미 미그기 두 대가 하늘에 떴다고! 서둘러야 해!
-()<Speaker>장교A</Speaker>||:그럼 국경은? 국경 수비대의 지원 요청은 무시할 셈이냐!?+중령님, 우린 이 명령을 이행해야 합니다!
-()<Speaker>장교B</Speaker>||:잘못된 명령을 이행하면 항공대 하나 잃는 것으로 끝나지 않아!+이렇게 말싸움할 시간에 빨리 보고를 올려야 한다고!
-()<Speaker>장교A</Speaker>||:우리는 정규군이다! 국가 아래 편성된 분대야!+의문스럽다고 상급의 명령을 의심하면, 무슨 일이든 다 모스크바에 질의할 셈인가?+월권 보고도 중앙에게 엄청난 손실을 초래한다는 걸 모르나!
-()<Speaker>서부 통합군 중령</Speaker>||:...그만!
-()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:<size=50>쿠웅——!!</size>
-()<Speaker></Speaker>||<SE1>Select</SE1>:묵직한 굉음이 지휘부의 천장을 뒤흔들며 무언가가 충돌했음을 알렸다. 회의실에 있던 모든 군 장교들은 바로 호신용 무기를 꺼내 들었다.
-()||<黑点1>:
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1><黑点2>:이윽고, 지휘부의 문이 경비원의 손으로 열렸다.+일반적인 절차에 위배되는 상황. 갑작스런 방문자에게 매우 높은 권한이 있다는 뜻이었다.
-Beak(0)<Speaker>비크</Speaker>||<BGM>BGM_Empty</BGM>:아주 싸움판 났구만.
-()<Speaker></Speaker>||<BGM>GF_EV9_Intermission</BGM>:열린 회의실의 문으로 들어온 것은 두 소녀 인형이었다.+참으로 전례 없는 깜짝 방문객이었다.
-M16A1BOSS(2)<Speaker>M16A1</Speaker>||:......+국가안전국의 명령으로 온 "블랙박스"다, 여기 책임자는 누구지?
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:회의 중이던 장교들 중 한 명이 벌떡 일어섰다.
-()<Speaker>서부 통합군 중령</Speaker>||:안전국이라고...? 젤린스키 국장님의 부하란 말인가?
-M16A1BOSS(3)<Speaker>M16A1</Speaker>||:비크.
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:비크는 눈을 굴리면서 맞은편의 장교에게 신분증명서를 들이밀었다.
-()<Speaker>서부 통합군 중령</Speaker>||:...무례에 사과드립니다, 방문 목적을 밝혀 주십시오.
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:회의실의 나머지 장교들은 어리둥절해하며 눈빛을 교환했고, 일부는 반사적으로 꺼냈던 무기를 도로 집어넣으며 자리에 앉았다.
-M16A1BOSS(2)<Speaker>M16A1</Speaker>||:인사가 좀 많이 거칠긴 했지만, 덕분에 다들 진정됐지?
-M16A1BOSS(2)<Speaker>서부 통합군 중령</Speaker><同时置暗>||:국장님께선 이유 없는 짓은 하지 않으신다 믿습니다.
-M16A1BOSS(2)<Speaker>M16A1</Speaker>||:그래서 우리가 온 거지.+인형은 상급자의 명령을 토씨 하나 안 틀리고 전달하니까 말이야.
-M16A1BOSS(2)<Speaker>서부 통합군 중령</Speaker><同时置暗>||:...중앙이 우리의 충성심을 의심한단 말입니까?
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:중앙이 우리를 보낸 이유는 너희의 충성심을 검증, 내지는 치하하기 위해서다.
-M16A1BOSS(4)<Speaker>서부 통합군 중령</Speaker><同时置暗>||:중앙 직속인 안전국이 귀하를 보냈으니 그렇겠지요. 허나 조국에 대한 우리의 충성심은 의심의 여지가 없습니다.
-M16A1BOSS(2)<Speaker>M16A1</Speaker>||:하지만 이 기지의 충성심은 의심할 여지가 좀 있어서.
-M16A1BOSS(2)<Speaker>서부 통합군 중령</Speaker><同时置暗>||:...우리는 조국에게 헌신하고 충성합니다.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:군대의 정의를 다시 일깨워 줘야 하나?+너희는 오직 중앙에 충성을 바쳐야 해.
-()<Speaker>서부 통합군 중령</Speaker>||:......
-()<Speaker>장교A</Speaker>||:중령님! 우리의 충성심을 인형 따위에게 의심받을 이유는 없습니다!
-()<Speaker>장교B</Speaker>||:말 조심해! 이 인형은 안전국의 서류를 가지고 왔다!+중령님! 그녀가 안전국의 의사를 대표하는 것입니다!
-()<Speaker>서부 통합군 중령</Speaker>||:...어떻게 우리의 충성심을 치하한다는 겁니까?
-()<Speaker></Speaker>||:M16의 입꼬리가 슬쩍 올라갔다.
-M16A1BOSS(5)<Speaker>M16A1</Speaker>||:전용 채널을 제공하지.
-M16A1BOSS(5)<Speaker>서부 통합군 중령</Speaker><同时置暗>||:무슨... 그런 행위는 군의 관할을 우회하는 것이잖습니까.+비록 국가안전국이 중앙 직속 부서라곤 하나, 우리의 상급은 아닙니다.
-M16A1BOSS(3)<Speaker>M16A1</Speaker>||:어떻게 치하할 거냐 물어봤으니까 그 방법을 말해 준 거야.+충성심을 증명하는 건 결국 너희 몫이란 뜻이지.
-M16A1BOSS(4)<Speaker>M16A1</Speaker>||:그리고, 인형은 인간처럼 이렇게 까다로운 검증 절차를 밟을 필요가 없어서 편하단 말이야?+그래서 안전국이 우릴 여기로 파견한 거다.
-()<Speaker>장교A</Speaker>||:...현재 우리는 스무 건이 넘는 작전 명령을 동시에 하달받았다. 현재 상황으로선 이것들의 진위를 구별할 방도가 없어.
-()<Speaker>장교B</Speaker>||:그럼 저 인형이 가져온 전용 채널이 유일한 해답 아니겠나?
-()<Speaker></Speaker>||:M16A1은 입을 열지 않는 중령을 바라봤다.
-M16A1BOSS(2)<Speaker>M16A1</Speaker>||:참고로, 지금 이곳처럼 혼란에 빠진 기지는 잔뜩 있다.+그런데 안전국은 우릴 여기로만 보냈어.
-M16A1BOSS(2)<Speaker>서부 통합군 중령</Speaker><同时置暗>||:...알겠습니다, 전용 채널로 연락하겠습니다.+중앙의 지시에 따르겠습니다.
-M16A1BOSS(3)<Speaker>M16A1</Speaker>||:좋아, 내 첫 번째 임무는 이걸로 끝.
-()<Speaker>서부 통합군 중령</Speaker>||:.....
-M16A1BOSS(2)<Speaker>M16A1</Speaker>||:지금부터 하려는 두 번째 임무가 진짜 시작인데...+안전국의 기밀 임무를 수행해야 하니, 지원 제공해.
-()<Speaker>서부 통합군 중령</Speaker>||:......알겠습니다.+바로 배정하겠습니다.
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:M16A1과 마주보던 중령은 고개를 끄덕이고, 지휘실 밖으로 나섰다.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑点2><BIN>85</BIN><BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:"아이네이아스" 작전 회의실.
-()<Speaker></Speaker>||<BGM>BGM_stage11</BGM>:...신분 인증 통과. 암호를 입력하십시오.+...암호 확인. 접속합니다.+아이네이아스 작전 회의실에 접속하셨습니다.
-UMP9Mod(4)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:우와아~ 언니, 이 회의실 엄청 고급이다!
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:지휘관이 특별히 우릴 위해 만들어 준 건데 당연하지!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:비용의 절반은 내가 지불했거든?+이 서버 얕보지 마, 보안성과 안정성은 두말하면 잔소리 수준으로 강력하니까.+신호가 완전 차폐되는 곳에 들어가더라도 이 회의실에는 아무 문제 없이 연결할 수 있지.+그리고 무엇보다 중요한 건, 회의실에 접속하는 인형들 간의 원활한 통신을 보장한다는 거야.+뭐어 단점은 내 메모리 잡아먹는 거라서 내가 꼴까닥하면 바로 무용지물이 된다는 점이지만. 아아~ 이렇게 고생하는 나한테 특별 수고비 안 주나~?
-RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님이 나중에 다 결산해 주실 테니 걱정 마.+아무튼 접속했으면 여기에 출석 체크해 줘, 성능 테스트하게.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:응!
-()<Speaker></Speaker>||<SE1>AVG_Card_Reader</SE1>:아이네이아스 작전팀 출석 완료 - "우산", "유니콘".+현재 접속 인원수 - 4/12.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:너희는 코드네임이 유니콘이구나?
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:전설 속 환상의 동물이라... 나쁘진 않네.
-UMP9Mod(3)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:자리가 12개? 이번 작전은 참가자가 많은가 봐?
-RO635Mod(0)<Speaker>RO635</Speaker>||:응, 난이도가 여간 높은 게 아니니까.+그래서 지휘관님이 급히 이 회의실을 만들고 최대한 성능 테스트를 하라 하신 거야.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:통신 끊긴 다음 무슨 일들이 벌어졌는지를 생각하면... 참 뼈아픈 교훈이라니까.
-UMP9Mod(0)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:넘어질 수록 철든다는 거지?
-NytoIsomer(4)<Speaker>댄들라이</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>반갑다, 아이네이아스 작전팀의 모두들. 난 너희를 담당할 지휘관이다.</color>+<color=#00CCFF>먼저, 너희의 마인드맵 데이터를 이 링크로 업로드해 백업하도록.</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:...지휘관님 성대모사를 해봤자 얼굴 다 보이거든?
-NytoIsomer(3)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>아하, 그건 몰랐네.</color>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:아 왜 또 너야! AR-15는? AR-15 어딨어!
-AR15Mod(8)<Speaker>AR-15</Speaker><通讯框>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=6</controll_shake><SE1>AVG_whitenoise</SE1><SE1>Rope</SE1>:<color=#00CCFF><size=50>댄들라이――!! 지휘 태블릿 당장 내놔!!</size></color>
-AR15Mod(5)<Speaker>AR-15</Speaker><通讯框>||:<color=#00CCFF>하여튼 한눈팔면 꼭 딴짓한다니까! 지휘관은 일이 있어서 잠깐 자리를 비웠어, 우리가 대신 통신 상태를 점검해 달래.</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:알았어.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:AR-15~! 야호~!
-AR15Mod(5)<Speaker>AR-15</Speaker><通讯框>||:<color=#00CCFF>어휴... 아직도 납득이 안 돼. 왜 내가 이번 작전에서 빠져야 해?</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님과 댄들라이를 옆에서 지킬 사람이 있어야 하잖아. 우리 셋 중 한 명은 남아야지.
-AR15Mod(5)<Speaker>AR-15</Speaker><通讯框>||:<color=#00CCFF>이번 작전도 머릿수 엄청 부족하면서 무슨! 패러데우스놈들은 인형 몇 명이서 상대할 수 있는 전력이 아니라고!</color>+<color=#00CCFF>지휘관 호위라면 HK416이랑 G11도 있는데...</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:G11은 저번 작전으로 마인드맵에 받은 부하가 좀 많이 커서 지금 데레가 원격 정비 중이야.+416이 남는 이유도 데레를 도와 우리 G11의 마인드맵을 안정시켜야 하니까고.+지금 걔네 상태로는 전념으로 지휘관 경호원 노릇 못 맡으니까 넓은 아량으로 이해해.
-AR15Mod(4)<Speaker>AR-15</Speaker><通讯框>||:<color=#00CCFF>그래도, 그... 걱정되는걸...</color>
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:풉... 지휘관이나 잘 챙겨 주셔, 우리 쪽 말고 딴 일로도 바쁠 테니까.
-AR15Mod(5)<Speaker>AR-15</Speaker><通讯框>||:<color=#00CCFF>...말 안 해도 알아.</color>
-RO635Mod(0)<Speaker>RO635</Speaker>||:너무 걱정 마, 이번 임무는 섬멸이 아니라 잠입인걸.+최대한 전투를 피하고 임무 목표에 집중할 거야.
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:많으면 오히려 잡입하기 어려워지는 만큼, 투입 인원은 적당히 적은 게 낫지.+각 조도 작전 능력과 임무 적합도를 고려해서 편성했으니까.
-AR15Mod(2)<Speaker>AR-15</Speaker><通讯框>||:<color=#00CCFF>알아, 뭐라 떠들어도 상황 안 바뀌는 거 안다고...</color>
-AR15Mod(4)<Speaker>AR-15</Speaker><通讯框>||:<color=#00CCFF>......</color>
-AR15Mod(5)<Speaker>AR-15</Speaker><通讯框>||:<color=#00CCFF>...꼭 무사히 돌아와야 해.</color>
-()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:약간의 빈정거림과 진지한 당부를 툭 내뱉곤, AR-15는 통신을 종료했다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:......
-M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:약속해!
-UMP45Mod(0)<Speaker>UMP45</Speaker>||:저 AR-15가 약한 소리라니, 참 보기 드문 걸 봤네...
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:그때, 회의실에 새로운 모습이 나타났다.
-BOSS-9(1)<Speaker>???</Speaker>||<BGM>m_avg_tension</BGM>:오오~ 여긴 어떻게 된 곳이래~?
-BOSS-7(1)<Speaker>???</Speaker><Position>0,120</Position>||:작전팀 "철분", 신고한다.
-RO635Mod(0)<Speaker>RO635</Speaker>||:어서 와, 저쪽에서 출석 체크랑 코드네임 확인하고 통신 연결 테스트해 줘.
-()<Speaker></Speaker>||<SE1>AVG_Card_Reader</SE1>:게이저, 아키텍트.+아이아네스 작전팀 출석 확인 - 철분.+접속 인원수 - 6/12.
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:뭐야, 철혈은 왜 엉뚱한 녀석을 보냈어?+에이전트는? 알케미스트는?
-BOSS-9(0)<Speaker>아키텍트</Speaker>||:헐... 이봐 기사님, 쟤가 대놓고 널 디스하는데?
-BOSS-9(0);BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:넌 입 좀 다물어.+지휘관의 인선에 대해서는 내가 설명하지.
-BOSS-9(0)<Speaker>아키텍트</Speaker>;BOSS-7(0)<Position>0,120</Position>||:OK~ 얌마! 잘 들어!
-BOSS-9(0);BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:...이번 임무는 잠입 작전이 주되지만, 만일을 위해 기동력 있는 중화기 전문가도 투입하기로 결정했다.+만에 하나 패러데우스와 정면으로 충돌하게 되어도 충분한 화력 투사가 가능해지지.
-BOSS-9(0)<Speaker>아키텍트</Speaker>;BOSS-7(0)<Position>0,120</Position>||:그래서 내가 왔단 말씀!
-BOSS-9(0);BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:...다만 이 녀석과 함께하고 싶어하는 자가 아무도 없어서, 화력 투사 지휘를 내가 맡게 되었다.+물론 나도 어느 정도는 고화력 지원이 가능하다.
-BOSS-9(0)<Speaker>아키텍트</Speaker>||:<size=50>아 그건 왜 말해!</size>
-M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:푸하핫! 결국 아키텍트는 바보란 소리네!+RO, 역시 그냥 얘를 AR-15랑 바꾸는 게 낫지 않을까?
-RO635Mod(2)<Speaker>RO635</Speaker>||:......
-BOSS-9(0)<Speaker>아키텍트</Speaker><Shake>0.1</Shake>||:<size=50>어쭈, 해보자 이거지? 좋아 덤벼! 그때의 설욕을――</size>
-()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:가상 회의실은 순식간에 난장판이 되었다.
-()||<黑点1>:
-()<Speaker></Speaker>||<黑屏2><BIN>356</BIN><BGM>BGM_Empty</BGM>:베를린의 어느 세이프하우스.
-()<Speaker></Speaker>||<BGM>GF_21winter_avg_pathfinder</BGM><SE1>AVG_Grey_Hand_Mech</SE1>:눈에 띄지 않는 오두막 안에서, 비크는 새로 장만한 바이크를 정비하고 있었다.+한편, 방 안의 다른 인물은 암호화 통신으로 누군가와 연락 중이었다.
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>정말 잘해 주었네.</color>
-M16A1BOSS(2)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:그 비행기들은 저지했어?
-M16A1BOSS(2);NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>옛직장 걱정은 안 하나? 지휘관과는 벌써 연락한 모양이던데.</color>+<color=#00CCFF>안심하게나, 그리폰은 기지는 박살났지만 크루거를 비롯한 모두가 살아남았으니.</color>+<color=#00CCFF>일이 잘 풀리면 금방 베를린에서 보게 될걸세.</color>
-M16A1BOSS(4)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:그딴 자질구레한 얘기는 됐으니까 요점이나 말해.
-M16A1BOSS(4);NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>아닌 척하기는, 쯧쯧쯧... 현재 상황은 최악보다는 나은 쪽으로 흘러가고 있다네. 자네 덕이 커.</color>+<color=#00CCFF>진짜 임무는 지금부터이네만, 자네처럼 우수한 인형은 내가 굳이 당부하지 않아도 되겠지?</color>
-M16A1BOSS(4)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:단순한 심부름이었으면 애당초 날 여기로 보내지도 않았을 거잖아.+그 소체에 깃들었던 건 역시 M4가 아니었어. 하지만 댁은 진작에 예상했지?
-M16A1BOSS(4);NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>그 점에 대해서는 묵비권을 행사하겠네.</color>
-M16A1BOSS(4)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:망할 늙다리 여우 같으니...
-M16A1BOSS(4);NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>하하핫, 본론으로 돌아갈까?</color>+<color=#00CCFF>국내의 상황은 무사히 통제권을 되찾았다네.</color>+<color=#00CCFF>이제, 모든 이들이 앞으로의 일에 입장을 밝혀야만 하지.</color>
-M16A1BOSS(5)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:흥... 참 미묘하다니까, 그 "입장"이란 거.
-M16A1BOSS(5);NPC-Havel(1)<Speaker>하벨</Speaker>||:<color=#00CCFF>자네 생각보다 훨씬 복잡하게 꼬인 일일세, 우리의 상대는 독일의 늙다리 여우뿐만이 아니야.</color>+<color=#00CCFF>패러데우스에 관해서는 자네도 다 알고 있겠지?</color>
-M16A1BOSS(2)<Speaker>M16A1</Speaker>;NPC-Havel(1)||:그 정도 규모의 조직을 완전히 숨기기란 불가능해.+분명 은연중에 공식 허가를 받은 것이 틀림없어.
-M16A1BOSS(2);NPC-Havel(1)<Speaker>하벨</Speaker>||:<color=#00CCFF>최근 들어 빈번했던 국지적 소동이든 "불꽃놀이" 사건이든, 다 전초전에 불과하네.</color>+<color=#00CCFF>가을이 오기 전 떨어지는 첫 낙엽이랄까?</color>+<color=#00CCFF>자네의 진짜 임무는, 바로 이 "가을"이 언제 오는지를 조사하는 것일세.</color>
-M16A1BOSS(4)<Speaker>M16A1</Speaker>;NPC-Havel(1)||:가을이 막는다고 막아지나?
-M16A1BOSS(4);NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>물론 아니지. 허나 정확한 일기예보가 있다면 제때 두꺼운 옷을 마련할 수 있지 않겠나?</color>
-M16A1BOSS(4);NPC-Havel(1)<Speaker>하벨</Speaker>||:<color=#00CCFF>문제는 모스크바에서 발생했지만, 그 해답은 분명 베를린에 있을걸세.</color>+<color=#00CCFF>그 "시기"가 언제인지를, 반드시 찾아내게.</color>
-M16A1BOSS(2)<Speaker>M16A1</Speaker>;NPC-Havel(1)||:...알았어.
-NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>이쪽의 정보는 전부 자네와 동기화시키겠네.</color>+<color=#00CCFF>...어이쿠, 깜빡할 뻔했구먼. 작은 단서를 찾았다네, 우리의 첩자가 드디어 꼬리를 드러냈어. 어쩌면 도움이 될지도 모르겠군.</color>
-NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>"네메아란"이란 여자일세.</color>+<color=#00CCFF>지금 모스크바를 떠나 베를린으로 향하는 중이야.</color>
-()||<黑屏1>:
-NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||<BIN>9</BIN><黑屏2>:<color=#00CCFF>그 여자의 뒤를 한번 밟아 보게나. 뜻밖에 뭔가 알게 될지도 모르니.</color>
-()||<黑点1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<SE1>AVG_Jet_Passby</SE1><BIN>187</BIN><黑屏2><narrator>:독일 통일절 당일, 소련-독일 국경.
+()<Speaker>서부 통합 관제탑</Speaker>||<SE1>AVG_ElecSpace</SE1><BGM>10065</BGM>:경보! 경보! 경보!
+()||<黑屏1>:
+()<Speaker>서부 통합 관제탑</Speaker>||<黑屏2><SE1>AVG_tele_disconnect</SE1>:<color=#00CCFF>여기는 서부 통합 관제탑이다. 귀측은 현재 군사 비행 금지 구역으로 진입하려 한다. 즉시 비행 경로를 변경하거나 신분을 밝혀라. 불응 시 소련 공군이 귀측을 격추할 것이다.</color>
+M16A1BOSS(2)<Speaker>M16A1</Speaker>||:...비크.
+Beak(0)<Speaker>비크</Speaker>||:......+서부 통합 관제탑, 13번 암호화 통신 채널을 열어라.
+()<Speaker>서부 통합 관제탑</Speaker>||:<color=#00CCFF>알았다, 무전 통신원에게 암호화 통신 연결을 전달했다.</color>
+()<Speaker>무전 통신원</Speaker>||<SE1>AVG_21Winter_Click_Keyboard</SE1>:<color=#00CCFF>보안 정보 파일 수신... 인증 통과, 코드네임 "블랙박스".</color>+<color=#00CCFF>블랙박스, 현재 비행기 수십 대가 항로 배정을 기다리는 중이다.</color>+<color=#00CCFF>당분간 착륙을 허가할 수 없으니, 고도를 높여라.</color>
+Beak(0)<Speaker>비크</Speaker>||:하여간 진짜 귀에 거슬리는 코드네임이라니까...
+M16A1BOSS(2)<Speaker>M16A1</Speaker>||:미안하지만 즉시 착륙해야 한다.+지금 당장.
+M16A1BOSS(2)<Speaker>무전 통신원</Speaker><同时置暗>||:<color=#00CCFF>하지만――</color>
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:국가안전국의 A급 권한 명령이다.+즉시 착륙해야 한다.
+M16A1BOSS(4)<Speaker>무전 통신원</Speaker><同时置暗>||:<color=#00CCFF>뭣...</color>+<color=#00CCFF>...알겠다, 즉시 착륙장을 배정하겠다.</color>
+M16A1BOSS(2)<Speaker>M16A1</Speaker>||:아니, 그럴 필요 없다.+착륙 허가만 있으면 돼.
+()<Speaker>무전 통신원</Speaker>||:<color=#00CCFF>그게 무슨...?</color>
+Beak(0)<Speaker>비크</Speaker>||:하하하! 고도 적당히 낮추고 바로 뛰어내릴 거야!
+()<Speaker>서부 통합 관제탑</Speaker>||<SE1>AVG_Jet_Passby</SE1>:뭣...?! 잠깐, 귀측의 현재 위치는 지휘부의 상공이다!
+Beak(0)<Speaker>비크</Speaker>||:그러니까 내리는——
+()<Speaker></Speaker>||:비크의 목소리는 엄청난 바람소리에 묻혀버렸다.
+()||<黑点1>:
+()<Speaker></Speaker>||<BIN>9</BIN><黑屏2><BGM>BGM_Empty</BGM>:한편, 아직 이를 모르는 지휘부에선 치열한 논쟁이 벌어지고 있었다.
+()<Speaker></Speaker>||<BGM>10247</BGM>:어찌나 열띤지, 회의실의 두꺼운 문 너머로도 그 시끄러운 소리가 희미하게 새어나올 정도였다.
+()||<黑屏1>:
+()<Speaker>장교A</Speaker>||<BIN>506</BIN><黑点2>:<size=50>즉시 모스크바로 이륙해야 합니다!</size> +이것은 상급의 명령입니다! 아무런 증거도 없이 명령을 위반하면 군사 법정에 회부됩니다!
+()<Speaker>장교B</Speaker>||:이륙 요청이 동시에 수십 개나 들어왔고 임무 목표도 불확실하잖은가! 이건 중앙의 일관된 명령에도 어긋납니다, 모스크바에 질의 보고를 올릴 것을 제안합니다!
+()<Speaker>장교A</Speaker>||:지금 월권 행위를 저지르겠단 거냐?+잘 들어, 그건 국가에 대한 반역 행위다!+군인이라면 군의 규정을 따라야 해! 상급자의 명령은 절대 복종이란 말이다!
+()<Speaker>장교B</Speaker>||:여기가 그냥 국경인가?! 저 유럽에 맞닿은 최전방이야!+파면될지언정 모스크바에 보고해야 한다!+이미 미그기 두 대가 하늘에 떴다고! 서둘러야 해!
+()<Speaker>장교A</Speaker>||:그럼 국경은? 국경 수비대의 지원 요청은 무시할 셈이냐!?+중령님, 우린 이 명령을 이행해야 합니다!
+()<Speaker>장교B</Speaker>||:잘못된 명령을 이행하면 항공대 하나 잃는 것으로 끝나지 않아!+이렇게 말싸움할 시간에 빨리 보고를 올려야 한다고!
+()<Speaker>장교A</Speaker>||:우리는 정규군이다! 국가 아래 편성된 분대야!+의문스럽다고 상급의 명령을 의심하면, 무슨 일이든 다 모스크바에 질의할 셈인가?+월권 보고도 중앙에게 엄청난 손실을 초래한다는 걸 모르나!
+()<Speaker>서부 통합군 중령</Speaker>||:...그만!
+()<Speaker></Speaker>||<SE1>AVG_Door_Hit</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:<size=50>쿠웅——!!</size>
+()<Speaker></Speaker>||<SE1>Select</SE1>:묵직한 굉음이 지휘부의 천장을 뒤흔들며 무언가가 충돌했음을 알렸다. 회의실에 있던 모든 군 장교들은 바로 호신용 무기를 꺼내 들었다.
+()||<黑点1>:
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Door_Open</SE1><黑点2>:이윽고, 지휘부의 문이 경비원의 손으로 열렸다.+일반적인 절차에 위배되는 상황. 갑작스런 방문자에게 매우 높은 권한이 있다는 뜻이었다.
+Beak(0)<Speaker>비크</Speaker>||<BGM>BGM_Empty</BGM>:아주 싸움판 났구만.
+()<Speaker></Speaker>||<BGM>GF_EV9_Intermission</BGM>:열린 회의실의 문으로 들어온 것은 두 소녀 인형이었다.+참으로 전례 없는 깜짝 방문객이었다.
+M16A1BOSS(2)<Speaker>M16A1</Speaker>||:......+국가안전국의 명령으로 온 "블랙박스"다, 여기 책임자는 누구지?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:회의 중이던 장교들 중 한 명이 벌떡 일어섰다.
+()<Speaker>서부 통합군 중령</Speaker>||:안전국이라고...? 젤린스키 국장님의 부하란 말인가?
+M16A1BOSS(3)<Speaker>M16A1</Speaker>||:비크.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:비크는 눈을 굴리면서 맞은편의 장교에게 신분증명서를 들이밀었다.
+()<Speaker>서부 통합군 중령</Speaker>||:...무례에 사과드립니다, 방문 목적을 밝혀 주십시오.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:회의실의 나머지 장교들은 어리둥절해하며 눈빛을 교환했고, 일부는 반사적으로 꺼냈던 무기를 도로 집어넣으며 자리에 앉았다.
+M16A1BOSS(2)<Speaker>M16A1</Speaker>||:인사가 좀 많이 거칠긴 했지만, 덕분에 다들 진정됐지?
+M16A1BOSS(2)<Speaker>서부 통합군 중령</Speaker><同时置暗>||:국장님께선 이유 없는 짓은 하지 않으신다 믿습니다.
+M16A1BOSS(2)<Speaker>M16A1</Speaker>||:그래서 우리가 온 거지.+인형은 상급자의 명령을 토씨 하나 안 틀리고 전달하니까 말이야.
+M16A1BOSS(2)<Speaker>서부 통합군 중령</Speaker><同时置暗>||:...중앙이 우리의 충성심을 의심한단 말입니까?
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:중앙이 우리를 보낸 이유는 너희의 충성심을 검증, 내지는 치하하기 위해서다.
+M16A1BOSS(4)<Speaker>서부 통합군 중령</Speaker><同时置暗>||:중앙 직속인 안전국이 귀하를 보냈으니 그렇겠지요. 허나 조국에 대한 우리의 충성심은 의심의 여지가 없습니다.
+M16A1BOSS(2)<Speaker>M16A1</Speaker>||:하지만 이 기지의 충성심은 의심할 여지가 좀 있어서.
+M16A1BOSS(2)<Speaker>서부 통합군 중령</Speaker><同时置暗>||:...우리는 조국에게 헌신하고 충성합니다.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:군대의 정의를 다시 일깨워 줘야 하나?+너희는 오직 중앙에 충성을 바쳐야 해.
+()<Speaker>서부 통합군 중령</Speaker>||:......
+()<Speaker>장교A</Speaker>||:중령님! 우리의 충성심을 인형 따위에게 의심받을 이유는 없습니다!
+()<Speaker>장교B</Speaker>||:말 조심해! 이 인형은 안전국의 서류를 가지고 왔다!+중령님! 그녀가 안전국의 의사를 대표하는 것입니다!
+()<Speaker>서부 통합군 중령</Speaker>||:...어떻게 우리의 충성심을 치하한다는 겁니까?
+()<Speaker></Speaker>||:M16의 입꼬리가 슬쩍 올라갔다.
+M16A1BOSS(5)<Speaker>M16A1</Speaker>||:전용 채널을 제공하지.
+M16A1BOSS(5)<Speaker>서부 통합군 중령</Speaker><同时置暗>||:무슨... 그런 행위는 군의 관할을 우회하는 것이잖습니까.+비록 국가안전국이 중앙 직속 부서라곤 하나, 우리의 상급은 아닙니다.
+M16A1BOSS(3)<Speaker>M16A1</Speaker>||:어떻게 치하할 거냐 물어봤으니까 그 방법을 말해 준 거야.+충성심을 증명하는 건 결국 너희 몫이란 뜻이지.
+M16A1BOSS(4)<Speaker>M16A1</Speaker>||:그리고, 인형은 인간처럼 이렇게 까다로운 검증 절차를 밟을 필요가 없어서 편하단 말이야?+그래서 안전국이 우릴 여기로 파견한 거다.
+()<Speaker>장교A</Speaker>||:...현재 우리는 스무 건이 넘는 작전 명령을 동시에 하달받았다. 현재 상황으로선 이것들의 진위를 구별할 방도가 없어.
+()<Speaker>장교B</Speaker>||:그럼 저 인형이 가져온 전용 채널이 유일한 해답 아니겠나?
+()<Speaker></Speaker>||:M16A1은 입을 열지 않는 중령을 바라봤다.
+M16A1BOSS(2)<Speaker>M16A1</Speaker>||:참고로, 지금 이곳처럼 혼란에 빠진 기지는 잔뜩 있다.+그런데 안전국은 우릴 여기로만 보냈어.
+M16A1BOSS(2)<Speaker>서부 통합군 중령</Speaker><同时置暗>||:...알겠습니다, 전용 채널로 연락하겠습니다.+중앙의 지시에 따르겠습니다.
+M16A1BOSS(3)<Speaker>M16A1</Speaker>||:좋아, 내 첫 번째 임무는 이걸로 끝.
+()<Speaker>서부 통합군 중령</Speaker>||:.....
+M16A1BOSS(2)<Speaker>M16A1</Speaker>||:지금부터 하려는 두 번째 임무가 진짜 시작인데...+안전국의 기밀 임무를 수행해야 하니, 지원 제공해.
+()<Speaker>서부 통합군 중령</Speaker>||:......알겠습니다.+바로 배정하겠습니다.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:M16A1과 마주보던 중령은 고개를 끄덕이고, 지휘실 밖으로 나섰다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑点2><BIN>85</BIN><BGM>BGM_Empty</BGM><SE1>AVG_tele_connect</SE1>:"아이네이아스" 작전 회의실.
+()<Speaker></Speaker>||<BGM>BGM_stage11</BGM>:...신분 인증 통과. 암호를 입력하십시오.+...암호 확인. 접속합니다.+아이네이아스 작전 회의실에 접속하셨습니다.
+UMP9Mod(4)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:우와아~ 언니, 이 회의실 엄청 고급이다!
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:지휘관이 특별히 우릴 위해 만들어 준 건데 당연하지!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:비용의 절반은 내가 지불했거든?+이 서버 얕보지 마, 보안성과 안정성은 두말하면 잔소리 수준으로 강력하니까.+신호가 완전 차폐되는 곳에 들어가더라도 이 회의실에는 아무 문제 없이 연결할 수 있지.+그리고 무엇보다 중요한 건, 회의실에 접속하는 인형들 간의 원활한 통신을 보장한다는 거야.+뭐어 단점은 내 메모리 잡아먹는 거라서 내가 꼴까닥하면 바로 무용지물이 된다는 점이지만. 아아~ 이렇게 고생하는 나한테 특별 수고비 안 주나~?
+RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님이 나중에 다 결산해 주실 테니 걱정 마.+아무튼 접속했으면 여기에 출석 체크해 줘, 성능 테스트하게.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:응!
+()<Speaker></Speaker>||<SE1>AVG_Card_Reader</SE1>:아이네이아스 작전팀 출석 완료 - "우산", "유니콘".+현재 접속 인원수 - 4/12.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:너희는 코드네임이 유니콘이구나?
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:전설 속 환상의 동물이라... 나쁘진 않네.
+UMP9Mod(3)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:자리가 12개? 이번 작전은 참가자가 많은가 봐?
+RO635Mod(0)<Speaker>RO635</Speaker>||:응, 난이도가 여간 높은 게 아니니까.+그래서 지휘관님이 급히 이 회의실을 만들고 최대한 성능 테스트를 하라 하신 거야.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:통신 끊긴 다음 무슨 일들이 벌어졌는지를 생각하면... 참 뼈아픈 교훈이라니까.
+UMP9Mod(0)<Speaker>UMP9</Speaker><Position>0,-50</Position>||:넘어질 수록 철든다는 거지?
+NytoIsomer(4)<Speaker>댄들라이</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>반갑다, 아이네이아스 작전팀의 모두들. 난 너희를 담당할 지휘관이다.</color>+<color=#00CCFF>먼저, 너희의 마인드맵 데이터를 이 링크로 업로드해 백업하도록.</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:...지휘관님 성대모사를 해봤자 얼굴 다 보이거든?
+NytoIsomer(3)<Speaker>댄들라이</Speaker><通讯框>||:<color=#00CCFF>아하, 그건 몰랐네.</color>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:아 왜 또 너야! AR-15는? AR-15 어딨어!
+AR15Mod(8)<Speaker>AR-15</Speaker><通讯框>||<controll_shake>%%type_id=2%%duration=3%%delay=0.1%%range=6</controll_shake><SE1>AVG_whitenoise</SE1><SE1>Rope</SE1>:<color=#00CCFF><size=50>댄들라이――!! 지휘 태블릿 당장 내놔!!</size></color>
+AR15Mod(5)<Speaker>AR-15</Speaker><通讯框>||:<color=#00CCFF>하여튼 한눈팔면 꼭 딴짓한다니까! 지휘관은 일이 있어서 잠깐 자리를 비웠어, 우리가 대신 통신 상태를 점검해 달래.</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:알았어.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:AR-15~! 야호~!
+AR15Mod(5)<Speaker>AR-15</Speaker><通讯框>||:<color=#00CCFF>어휴... 아직도 납득이 안 돼. 왜 내가 이번 작전에서 빠져야 해?</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:지휘관님과 댄들라이를 옆에서 지킬 사람이 있어야 하잖아. 우리 셋 중 한 명은 남아야지.
+AR15Mod(5)<Speaker>AR-15</Speaker><通讯框>||:<color=#00CCFF>이번 작전도 머릿수 엄청 부족하면서 무슨! 패러데우스놈들은 인형 몇 명이서 상대할 수 있는 전력이 아니라고!</color>+<color=#00CCFF>지휘관 호위라면 HK416이랑 G11도 있는데...</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:G11은 저번 작전으로 마인드맵에 받은 부하가 좀 많이 커서 지금 데레가 원격 정비 중이야.+416이 남는 이유도 데레를 도와 우리 G11의 마인드맵을 안정시켜야 하니까고.+지금 걔네 상태로는 전념으로 지휘관 경호원 노릇 못 맡으니까 넓은 아량으로 이해해.
+AR15Mod(4)<Speaker>AR-15</Speaker><通讯框>||:<color=#00CCFF>그래도, 그... 걱정되는걸...</color>
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:풉... 지휘관이나 잘 챙겨 주셔, 우리 쪽 말고 딴 일로도 바쁠 테니까.
+AR15Mod(5)<Speaker>AR-15</Speaker><通讯框>||:<color=#00CCFF>...말 안 해도 알아.</color>
+RO635Mod(0)<Speaker>RO635</Speaker>||:너무 걱정 마, 이번 임무는 섬멸이 아니라 잠입인걸.+최대한 전투를 피하고 임무 목표에 집중할 거야.
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:많으면 오히려 잡입하기 어려워지는 만큼, 투입 인원은 적당히 적은 게 낫지.+각 조도 작전 능력과 임무 적합도를 고려해서 편성했으니까.
+AR15Mod(2)<Speaker>AR-15</Speaker><通讯框>||:<color=#00CCFF>알아, 뭐라 떠들어도 상황 안 바뀌는 거 안다고...</color>
+AR15Mod(4)<Speaker>AR-15</Speaker><通讯框>||:<color=#00CCFF>......</color>
+AR15Mod(5)<Speaker>AR-15</Speaker><通讯框>||:<color=#00CCFF>...꼭 무사히 돌아와야 해.</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:약간의 빈정거림과 진지한 당부를 툭 내뱉곤, AR-15는 통신을 종료했다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:......
+M4 SOPMOD IIMod(3)<Speaker>M4 SOPMOD II</Speaker>||:약속해!
+UMP45Mod(0)<Speaker>UMP45</Speaker>||:저 AR-15가 약한 소리라니, 참 보기 드문 걸 봤네...
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>BGM_Empty</BGM>:그때, 회의실에 새로운 모습이 나타났다.
+BOSS-9(1)<Speaker>???</Speaker>||<BGM>m_avg_tension</BGM>:오오~ 여긴 어떻게 된 곳이래~?
+BOSS-7(1)<Speaker>???</Speaker><Position>0,120</Position>||:작전팀 "철분", 신고한다.
+RO635Mod(0)<Speaker>RO635</Speaker>||:어서 와, 저쪽에서 출석 체크랑 코드네임 확인하고 통신 연결 테스트해 줘.
+()<Speaker></Speaker>||<SE1>AVG_Card_Reader</SE1>:게이저, 아키텍트.+아이아네스 작전팀 출석 확인 - 철분.+접속 인원수 - 6/12.
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:뭐야, 철혈은 왜 엉뚱한 녀석을 보냈어?+에이전트는? 알케미스트는?
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:헐... 이봐 기사님, 쟤가 대놓고 널 디스하는데?
+BOSS-9(0);BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:넌 입 좀 다물어.+지휘관의 인선에 대해서는 내가 설명하지.
+BOSS-9(0)<Speaker>아키텍트</Speaker>;BOSS-7(0)<Position>0,120</Position>||:OK~ 얌마! 잘 들어!
+BOSS-9(0);BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:...이번 임무는 잠입 작전이 주되지만, 만일을 위해 기동력 있는 중화기 전문가도 투입하기로 결정했다.+만에 하나 패러데우스와 정면으로 충돌하게 되어도 충분한 화력 투사가 가능해지지.
+BOSS-9(0)<Speaker>아키텍트</Speaker>;BOSS-7(0)<Position>0,120</Position>||:그래서 내가 왔단 말씀!
+BOSS-9(0);BOSS-7(0)<Speaker>게이저</Speaker><Position>0,120</Position>||:...다만 이 녀석과 함께하고 싶어하는 자가 아무도 없어서, 화력 투사 지휘를 내가 맡게 되었다.+물론 나도 어느 정도는 고화력 지원이 가능하다.
+BOSS-9(0)<Speaker>아키텍트</Speaker>||:<size=50>아 그건 왜 말해!</size>
+M4 SOPMOD IIMod(0)<Speaker>M4 SOPMOD II</Speaker>||:푸하핫! 결국 아키텍트는 바보란 소리네!+RO, 역시 그냥 얘를 AR-15랑 바꾸는 게 낫지 않을까?
+RO635Mod(2)<Speaker>RO635</Speaker>||:......
+BOSS-9(0)<Speaker>아키텍트</Speaker><Shake>0.1</Shake>||:<size=50>어쭈, 해보자 이거지? 좋아 덤벼! 그때의 설욕을――</size>
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:가상 회의실은 순식간에 난장판이 되었다.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑屏2><BIN>356</BIN><BGM>BGM_Empty</BGM>:베를린의 어느 세이프하우스.
+()<Speaker></Speaker>||<BGM>GF_21winter_avg_pathfinder</BGM><SE1>AVG_Grey_Hand_Mech</SE1>:눈에 띄지 않는 오두막 안에서, 비크는 새로 장만한 바이크를 정비하고 있었다.+한편, 방 안의 다른 인물은 암호화 통신으로 누군가와 연락 중이었다.
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>정말 잘해 주었네.</color>
+M16A1BOSS(2)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:그 비행기들은 저지했어?
+M16A1BOSS(2);NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>옛직장 걱정은 안 하나? 지휘관과는 벌써 연락한 모양이던데.</color>+<color=#00CCFF>안심하게나, 그리폰은 기지는 박살났지만 크루거를 비롯한 모두가 살아남았으니.</color>+<color=#00CCFF>일이 잘 풀리면 금방 베를린에서 보게 될걸세.</color>
+M16A1BOSS(4)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:그딴 자질구레한 얘기는 됐으니까 요점이나 말해.
+M16A1BOSS(4);NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>아닌 척하기는, 쯧쯧쯧... 현재 상황은 최악보다는 나은 쪽으로 흘러가고 있다네. 자네 덕이 커.</color>+<color=#00CCFF>진짜 임무는 지금부터이네만, 자네처럼 우수한 인형은 내가 굳이 당부하지 않아도 되겠지?</color>
+M16A1BOSS(4)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:단순한 심부름이었으면 애당초 날 여기로 보내지도 않았을 거잖아.+그 소체에 깃들었던 건 역시 M4가 아니었어. 하지만 댁은 진작에 예상했지?
+M16A1BOSS(4);NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>그 점에 대해서는 묵비권을 행사하겠네.</color>
+M16A1BOSS(4)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:망할 늙다리 여우 같으니...
+M16A1BOSS(4);NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>하하핫, 본론으로 돌아갈까?</color>+<color=#00CCFF>국내의 상황은 무사히 통제권을 되찾았다네.</color>+<color=#00CCFF>이제, 모든 이들이 앞으로의 일에 입장을 밝혀야만 하지.</color>
+M16A1BOSS(5)<Speaker>M16A1</Speaker>;NPC-Havel(0)||:흥... 참 미묘하다니까, 그 "입장"이란 거.
+M16A1BOSS(5);NPC-Havel(1)<Speaker>하벨</Speaker>||:<color=#00CCFF>자네 생각보다 훨씬 복잡하게 꼬인 일일세, 우리의 상대는 독일의 늙다리 여우뿐만이 아니야.</color>+<color=#00CCFF>패러데우스에 관해서는 자네도 다 알고 있겠지?</color>
+M16A1BOSS(2)<Speaker>M16A1</Speaker>;NPC-Havel(1)||:그 정도 규모의 조직을 완전히 숨기기란 불가능해.+분명 은연중에 공식 허가를 받은 것이 틀림없어.
+M16A1BOSS(2);NPC-Havel(1)<Speaker>하벨</Speaker>||:<color=#00CCFF>최근 들어 빈번했던 국지적 소동이든 "불꽃놀이" 사건이든, 다 전초전에 불과하네.</color>+<color=#00CCFF>가을이 오기 전 떨어지는 첫 낙엽이랄까?</color>+<color=#00CCFF>자네의 진짜 임무는, 바로 이 "가을"이 언제 오는지를 조사하는 것일세.</color>
+M16A1BOSS(4)<Speaker>M16A1</Speaker>;NPC-Havel(1)||:가을이 막는다고 막아지나?
+M16A1BOSS(4);NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>물론 아니지. 허나 정확한 일기예보가 있다면 제때 두꺼운 옷을 마련할 수 있지 않겠나?</color>
+M16A1BOSS(4);NPC-Havel(1)<Speaker>하벨</Speaker>||:<color=#00CCFF>문제는 모스크바에서 발생했지만, 그 해답은 분명 베를린에 있을걸세.</color>+<color=#00CCFF>그 "시기"가 언제인지를, 반드시 찾아내게.</color>
+M16A1BOSS(2)<Speaker>M16A1</Speaker>;NPC-Havel(1)||:...알았어.
+NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>이쪽의 정보는 전부 자네와 동기화시키겠네.</color>+<color=#00CCFF>...어이쿠, 깜빡할 뻔했구먼. 작은 단서를 찾았다네, 우리의 첩자가 드디어 꼬리를 드러냈어. 어쩌면 도움이 될지도 모르겠군.</color>
+NPC-Havel(0)<Speaker>하벨</Speaker>||:<color=#00CCFF>"네메아란"이란 여자일세.</color>+<color=#00CCFF>지금 모스크바를 떠나 베를린으로 향하는 중이야.</color>
+()||<黑屏1>:
+NPC-Havel(0)<Speaker>하벨</Speaker><通讯框>||<BIN>9</BIN><黑屏2>:<color=#00CCFF>그 여자의 뒤를 한번 밟아 보게나. 뜻밖에 뭔가 알게 될지도 모르니.</color>
+()||<黑点1>:

@@ -1,49 +1,49 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BGM>BGM_Room</BGM>:갈림길을 얼마나 지났을까, 두 인형은 마침내 어두운 통로 끝에서 반짝이는 밝은 불빛을 발견했다.
-AN94(0)<Speaker>AN94</Speaker>||:감청 장치에 반응이 잡혔다... 그 두 사람이다.+AR15, 따라잡았다!
-AN94(0);AR15Mod(0)<Speaker>AR15</Speaker>||<黑屏1>:알았어. 조심해서 접근하자. 이쪽을 비추는 불빛이 있어.
-()||<黑点2><BIN>167</BIN>:좁은 석문을 지나자, 넓은 공간이 나왔다. 두 인형은 재빨리 그늘 속으로 숨어, 신중하게 주위를 살폈다.+오래된 통로와는 달리, 현대식 군용 개조를 거친 장소였다.
-AR15Mod(5)<Speaker>AR15</Speaker>||:보급 창고인가...? 역사 유적 밑에 기지를 세우다니, 잘도 이런 발상을 떠올렸네.
-AN94(3)<Speaker>AN94</Speaker>;AR15Mod(5)||:고대 유적은 종종 전쟁을 피하기도 한다. 이 기지는 반드시 숨겨야 하는 물건을 두기에 더할 나위 없다.
-AN94(3);AR15Mod(5)<Speaker>AR15</Speaker>||:영구 핵 벙커... 그 "노드"도 참 좋은 대접을 받는군.
-AN94(0)<Speaker>AN94</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:쉬잇... 또 대화가 시작됐다.
-NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||<BIN>34</BIN><黑点2><BGM>BGM_Brain</BGM>:드디어 도착한 거야? 한참을 걸었네.+근데 말이야, 우리 계속 같은 길만 돌았지?+일부러 이쪽으로 직통하는 길은 피해서 왔잖아.
-NPC-Mercurows(0)<Speaker>장교</Speaker>||:비밀 유지를 위해, 난수 경로를 선택했습니다.+매우 오래된 길이기에, 흔적이 남지 않죠.
-NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:그렇구나. 정말 꼼꼼한 장교 아저씨네.+수고했어!
-NPC-Mercurows(0)<Speaker>장교</Speaker>||:과찬이십니다. 바로 저곳이 스피라에나 노드의 보관소입니다.+예정에 따라, 10분 후에는 떠나야 합니다. 다음 교대 인원에게 저희가 온 것을 들켜선 안 됩니다.
-NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:좋——아!+그럼, 지금 바로 문을 열까?+이 문 바로 뒤에 스피라에나가 있는 거라면, 빨리 보고 싶거든.
-NPC-Mercurows(0)<Speaker>장교</Speaker>||:말씀하신대로, 이 문 뒤에 스피라에나 노드가 있습니다만...+제겐 패스워드가 없습니다. 고위급의 협의로 보관된 곳인 데다, 원래는 전 소련 육군의 기지였습니다. 아마 베오그라드 당국도 이 문을 열 권한은 없을 겁니다.
-NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:엥? 뭐야, 여기까지 데려와놓고, 못 보여준단 거야?
-NPC-Mercurows(0)<Speaker>장교</Speaker>||<BGM>BGM_Empty</BGM>:죄송합니다.+당신을 이곳까지 안내한 건, 저희의 성의를 보여드리기 위해서였습니다. 당신들처럼 말입니다.
-NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||<黑屏1><BGM>BGM_Boss</BGM>:그랬구나. 괜찮아, 나도 그쪽의 방식을 이해해.+"난 네게 너에 대한 설명, 너에 대한 이론, 너에 대한 진실되고 놀라운 소식들을 바친다..+성의는 이것으로 충분해!
-()<Speaker>장교</Speaker>||<黑屏2><BIN>9</BIN>:무슨 말씀이신지 잘... 모르겠지만, 이해해주신다니 다행입니다.+그럼, 저희에게 약속하신 물건을 주시겠습니까?
-()<Speaker>머큐로스</Speaker>||:물론이지. 우리가 약속한 물건 전부, 전~부 네게 줄게.+넌 맡은 바를 다했어. 보답으로, "난 네게 나의 외로움, 나의 어둠, 내 심장의 굶주림을 바친다."+이제 이곳에 남아 있어 줄래?
-()<Speaker>장교</Speaker>||:...무슨 뜻입니까?
-()<Speaker>머큐로스</Speaker>||:"불확실함, 위험함, 패배의 뇌물을 건넨다." 너의 약한 면을, 죽음을 내게 보여줘.+보여주는 쪽도 보는 쪽도, 이 행위에서 쾌감을 느낄 거야.
-()<Speaker>장교</Speaker>;NPC-Mercurows(0)||:무슨...!
-NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:수고했어. 이제, 네 표정을 보여줘.
-NPC-Mercurows(0)<Speaker></Speaker>||:말이 끝나기가 무섭게, 머큐로스의 소매에서 칠흑 같은 촉수가 뻗어 나와, 장교를 움켜줘고 머리 위로 들어 올렸다.
-NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:뭐야, 벌써 조용해졌네?+그래, 이제 아프지 않지?+영원히, 여기에 남도록 해. 네 임무는 여기서 끝이야.
-NPC-Mercurows(0)<Speaker></Speaker>||:머큐로스는 한 걸음 물러서서, 치마를 살짝 들며 숨이 끊어진 장교에게 인사했다.
-NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:고마워, 네가 안내해준 덕분에 찾는 수고를 덜었어.+여기서 이정표가 되렴. 영원히, 이 마지막 여행을 기념하면서.
-AR15Mod(5)<Speaker>AR15</Speaker>||<BIN>167</BIN><睁眼>:......+장교의 생명 반응이 사라졌어...!
-AN94(4)<Speaker>AN94</Speaker>;AR15Mod(5)||<SE1>Heartbeat</SE1>:......
-AN94(4)<Speaker></Speaker>;AR15Mod(5)||<SE1>Select</SE1>:AN94는 말없이 총을 움켜쥐었다.
-AN94(4)<Speaker>머큐로스</Speaker>;AR15Mod(5)||<SE1>Heartbeat</SE1>:하하하! 아하하하!+이번 연극도 완벽했네!+나만의 이름을 얻고서, 처음으로 완벽하게 결말을 지은 이 연극에 9점을 매기겠어!+거기 숨어있는 인형들은 어떻게 생각해?+자, 어서 나와서 나와 함께 춤추자!
-AR15Mod(4)<Speaker>AR15</Speaker>||:......
-NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||<SE1>Heartbeat</SE1>:그만 숨고 나오라니까? 리벨리온의 AR15과 AN94!+너희가 내 뒤를 밟는 건 진작에 눈치채고 있었어!+마치 잠자리채를 쥐고 달을 쫓는 어린애처럼, 그저 빛 속을 휘저으며 헛수고할 뿐이야!
-AN94(4)<Speaker>AN94</Speaker>||:대체 무슨 소리를 하는 거지...
-NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:대지는 요새야. 비밀을 숨겨주고, 모든 것을 묻어주지.+가치 없는 것들은, 그대로 땅속에서 썩을 뿐이지만.+마치, 왕자님의 입맞춤을 기다리는 공주님처럼 말이야!+내가 그 왕자님이 아니라면, 혹시 너일까?
-AR15Mod(4)<Speaker>AR15</Speaker>||:섣불리 움직이지 마, 허세 부리고 있는――
-AR15Mod(4)<Speaker></Speaker>||<震屏><BGM>BGM_Danger</BGM>:머큐로스의 촉수가 엄청난 속도로 AR15의 위치로 날아들었다. AR15는 황급히 피했지만, 얼굴에 촉수가 스쳐 상처가 났다.
-AN94(2)<Speaker>AN94</Speaker>||:AR15!
-AN94(2);AR15Mod(5)<Speaker>AR15</Speaker>||:난 괜찮아!+대체 뭐지...? 얼굴에 닿는 순간, 마치 마인드맵을 핥고 지나가는 느낌이었어...
-AN94(2)<Speaker>AN94</Speaker>;AR15Mod(5)||:이 느낌... 전에 느꼈던 것과 같아... 강제 침입인가!?
-AN94(2);NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:아... 그렇구나.+너도 왕자님이 아니었구나.+마인드맵의 연결을 꽁꽁 막고 있어서, 무슨 중요한 거라도 숨기고 있나 했는데.+정말로 아무것도 모르는 거였구나.+아무것도 모르면서, 시시한 임무를 수행하고 있었던 거네.+가엽기도 하지. 너도, 저 고양이를 좋아하는 인형도.
-AN94(2)<Speaker>AN94</Speaker>;NPC-Mercurows(0)||:AR15! 하얀 세력의 신호가 대량으로 접근 중이다!
-AN94(2);NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:시시해... 너무 시시해...+니모겐 언니, 이제 참을 필요가 없어졌어. 무도회를 시작하자!+아빠가 말한 대로, 지저분한 먼지는 빛나는 별들의 아름다움을 영원히 따라잡을 수 없어!
-AN94(2);NPC-Mercurows(0)<Speaker></Speaker>||:머큐로스가 오른손을 들어, 리벨리온의 두 인형을 가리켰다.
-AN94(2);NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:"이 피할 수 없는 철과 흙의 현실 때문에, 모든 잠든 이들과 죽은 자들의 무관심을 넘어야만 한다.――그들이 설령 망가지고 타락한 세기에 숨어 있다 하여도."
-AR15Mod(4)<Speaker>AR15</Speaker>;NPC-Mercurows(0)||:AN94, 후퇴하자...
-AR15Mod(4);NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:내게 감사하며 죽으렴. "내 굳게 닫은 눈자락에 새벽을 가져다 주어라!"
-AR15Mod(5)<Speaker>AR15</Speaker>;NPC-Mercurows(0)||<震屏><黑屏1>:<Size=55>뛰어!!</Size>
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BGM>BGM_Room</BGM>:갈림길을 얼마나 지났을까, 두 인형은 마침내 어두운 통로 끝에서 반짝이는 밝은 불빛을 발견했다.
+AN94(0)<Speaker>AN94</Speaker>||:감청 장치에 반응이 잡혔다... 그 두 사람이다.+AR15, 따라잡았다!
+AN94(0);AR15Mod(0)<Speaker>AR15</Speaker>||<黑屏1>:알았어. 조심해서 접근하자. 이쪽을 비추는 불빛이 있어.
+()||<黑点2><BIN>167</BIN>:좁은 석문을 지나자, 넓은 공간이 나왔다. 두 인형은 재빨리 그늘 속으로 숨어, 신중하게 주위를 살폈다.+오래된 통로와는 달리, 현대식 군용 개조를 거친 장소였다.
+AR15Mod(5)<Speaker>AR15</Speaker>||:보급 창고인가...? 역사 유적 밑에 기지를 세우다니, 잘도 이런 발상을 떠올렸네.
+AN94(3)<Speaker>AN94</Speaker>;AR15Mod(5)||:고대 유적은 종종 전쟁을 피하기도 한다. 이 기지는 반드시 숨겨야 하는 물건을 두기에 더할 나위 없다.
+AN94(3);AR15Mod(5)<Speaker>AR15</Speaker>||:영구 핵 벙커... 그 "노드"도 참 좋은 대접을 받는군.
+AN94(0)<Speaker>AN94</Speaker>||<黑点1><BGM>BGM_Empty</BGM>:쉬잇... 또 대화가 시작됐다.
+NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||<BIN>34</BIN><黑点2><BGM>BGM_Brain</BGM>:드디어 도착한 거야? 한참을 걸었네.+근데 말이야, 우리 계속 같은 길만 돌았지?+일부러 이쪽으로 직통하는 길은 피해서 왔잖아.
+NPC-Mercurows(0)<Speaker>장교</Speaker>||:비밀 유지를 위해, 난수 경로를 선택했습니다.+매우 오래된 길이기에, 흔적이 남지 않죠.
+NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:그렇구나. 정말 꼼꼼한 장교 아저씨네.+수고했어!
+NPC-Mercurows(0)<Speaker>장교</Speaker>||:과찬이십니다. 바로 저곳이 스피라에나 노드의 보관소입니다.+예정에 따라, 10분 후에는 떠나야 합니다. 다음 교대 인원에게 저희가 온 것을 들켜선 안 됩니다.
+NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:좋——아!+그럼, 지금 바로 문을 열까?+이 문 바로 뒤에 스피라에나가 있는 거라면, 빨리 보고 싶거든.
+NPC-Mercurows(0)<Speaker>장교</Speaker>||:말씀하신대로, 이 문 뒤에 스피라에나 노드가 있습니다만...+제겐 패스워드가 없습니다. 고위급의 협의로 보관된 곳인 데다, 원래는 전 소련 육군의 기지였습니다. 아마 베오그라드 당국도 이 문을 열 권한은 없을 겁니다.
+NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:엥? 뭐야, 여기까지 데려와놓고, 못 보여준단 거야?
+NPC-Mercurows(0)<Speaker>장교</Speaker>||<BGM>BGM_Empty</BGM>:죄송합니다.+당신을 이곳까지 안내한 건, 저희의 성의를 보여드리기 위해서였습니다. 당신들처럼 말입니다.
+NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||<黑屏1><BGM>BGM_Boss</BGM>:그랬구나. 괜찮아, 나도 그쪽의 방식을 이해해.+"난 네게 너에 대한 설명, 너에 대한 이론, 너에 대한 진실되고 놀라운 소식들을 바친다..+성의는 이것으로 충분해!
+()<Speaker>장교</Speaker>||<黑屏2><BIN>9</BIN>:무슨 말씀이신지 잘... 모르겠지만, 이해해주신다니 다행입니다.+그럼, 저희에게 약속하신 물건을 주시겠습니까?
+()<Speaker>머큐로스</Speaker>||:물론이지. 우리가 약속한 물건 전부, 전~부 네게 줄게.+넌 맡은 바를 다했어. 보답으로, "난 네게 나의 외로움, 나의 어둠, 내 심장의 굶주림을 바친다."+이제 이곳에 남아 있어 줄래?
+()<Speaker>장교</Speaker>||:...무슨 뜻입니까?
+()<Speaker>머큐로스</Speaker>||:"불확실함, 위험함, 패배의 뇌물을 건넨다." 너의 약한 면을, 죽음을 내게 보여줘.+보여주는 쪽도 보는 쪽도, 이 행위에서 쾌감을 느낄 거야.
+()<Speaker>장교</Speaker>;NPC-Mercurows(0)||:무슨...!
+NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:수고했어. 이제, 네 표정을 보여줘.
+NPC-Mercurows(0)<Speaker></Speaker>||:말이 끝나기가 무섭게, 머큐로스의 소매에서 칠흑 같은 촉수가 뻗어 나와, 장교를 움켜줘고 머리 위로 들어 올렸다.
+NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:뭐야, 벌써 조용해졌네?+그래, 이제 아프지 않지?+영원히, 여기에 남도록 해. 네 임무는 여기서 끝이야.
+NPC-Mercurows(0)<Speaker></Speaker>||:머큐로스는 한 걸음 물러서서, 치마를 살짝 들며 숨이 끊어진 장교에게 인사했다.
+NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||<BGM>BGM_Empty</BGM><黑屏1>:고마워, 네가 안내해준 덕분에 찾는 수고를 덜었어.+여기서 이정표가 되렴. 영원히, 이 마지막 여행을 기념하면서.
+AR15Mod(5)<Speaker>AR15</Speaker>||<BIN>167</BIN><睁眼>:......+장교의 생명 반응이 사라졌어...!
+AN94(4)<Speaker>AN94</Speaker>;AR15Mod(5)||<SE1>Heartbeat</SE1>:......
+AN94(4)<Speaker></Speaker>;AR15Mod(5)||<SE1>Select</SE1>:AN94는 말없이 총을 움켜쥐었다.
+AN94(4)<Speaker>머큐로스</Speaker>;AR15Mod(5)||<SE1>Heartbeat</SE1>:하하하! 아하하하!+이번 연극도 완벽했네!+나만의 이름을 얻고서, 처음으로 완벽하게 결말을 지은 이 연극에 9점을 매기겠어!+거기 숨어있는 인형들은 어떻게 생각해?+자, 어서 나와서 나와 함께 춤추자!
+AR15Mod(4)<Speaker>AR15</Speaker>||:......
+NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||<SE1>Heartbeat</SE1>:그만 숨고 나오라니까? 리벨리온의 AR15과 AN94!+너희가 내 뒤를 밟는 건 진작에 눈치채고 있었어!+마치 잠자리채를 쥐고 달을 쫓는 어린애처럼, 그저 빛 속을 휘저으며 헛수고할 뿐이야!
+AN94(4)<Speaker>AN94</Speaker>||:대체 무슨 소리를 하는 거지...
+NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:대지는 요새야. 비밀을 숨겨주고, 모든 것을 묻어주지.+가치 없는 것들은, 그대로 땅속에서 썩을 뿐이지만.+마치, 왕자님의 입맞춤을 기다리는 공주님처럼 말이야!+내가 그 왕자님이 아니라면, 혹시 너일까?
+AR15Mod(4)<Speaker>AR15</Speaker>||:섣불리 움직이지 마, 허세 부리고 있는――
+AR15Mod(4)<Speaker></Speaker>||<震屏><BGM>BGM_Danger</BGM>:머큐로스의 촉수가 엄청난 속도로 AR15의 위치로 날아들었다. AR15는 황급히 피했지만, 얼굴에 촉수가 스쳐 상처가 났다.
+AN94(2)<Speaker>AN94</Speaker>||:AR15!
+AN94(2);AR15Mod(5)<Speaker>AR15</Speaker>||:난 괜찮아!+대체 뭐지...? 얼굴에 닿는 순간, 마치 마인드맵을 핥고 지나가는 느낌이었어...
+AN94(2)<Speaker>AN94</Speaker>;AR15Mod(5)||:이 느낌... 전에 느꼈던 것과 같아... 강제 침입인가!?
+AN94(2);NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:아... 그렇구나.+너도 왕자님이 아니었구나.+마인드맵의 연결을 꽁꽁 막고 있어서, 무슨 중요한 거라도 숨기고 있나 했는데.+정말로 아무것도 모르는 거였구나.+아무것도 모르면서, 시시한 임무를 수행하고 있었던 거네.+가엽기도 하지. 너도, 저 고양이를 좋아하는 인형도.
+AN94(2)<Speaker>AN94</Speaker>;NPC-Mercurows(0)||:AR15! 하얀 세력의 신호가 대량으로 접근 중이다!
+AN94(2);NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:시시해... 너무 시시해...+니모겐 언니, 이제 참을 필요가 없어졌어. 무도회를 시작하자!+아빠가 말한 대로, 지저분한 먼지는 빛나는 별들의 아름다움을 영원히 따라잡을 수 없어!
+AN94(2);NPC-Mercurows(0)<Speaker></Speaker>||:머큐로스가 오른손을 들어, 리벨리온의 두 인형을 가리켰다.
+AN94(2);NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:"이 피할 수 없는 철과 흙의 현실 때문에, 모든 잠든 이들과 죽은 자들의 무관심을 넘어야만 한다.――그들이 설령 망가지고 타락한 세기에 숨어 있다 하여도."
+AR15Mod(4)<Speaker>AR15</Speaker>;NPC-Mercurows(0)||:AN94, 후퇴하자...
+AR15Mod(4);NPC-Mercurows(0)<Speaker>머큐로스</Speaker>||:내게 감사하며 죽으렴. "내 굳게 닫은 눈자락에 새벽을 가져다 주어라!"
+AR15Mod(5)<Speaker>AR15</Speaker>;NPC-Mercurows(0)||<震屏><黑屏1>:<Size=55>뛰어!!</Size>

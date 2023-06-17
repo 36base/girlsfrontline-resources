@@ -1,0 +1,69 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑点2><BIN>166</BIN><BGM>BGM_Wake</BGM>:......
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>||:그래서, 넌 누구지?
+()||:말은 그랬지만, 트로이의 예리한 시선은 여전히 앞의 푸른 인형을 주시했다.
+DP12(0)<Position>0,-150</Position><Speaker>DP-12</Speaker>||:......+처음 뵙겠습니다, 그리폰&크루거 안전계약사 소속, 전술인형 DP-12입니다. 의뢰주인 당신께 주도면밀한 경호를 제공해 드리겠습니다.
+()||<SE1>Heartbeat</SE1>:익숙한 목소리, 익숙한 미소.+정말로 이렇게 눈앞에 나타났음에도, 트로이는 싸늘한 실의감이 등골을 타고 오르는 것만 같았다.+마치, 크리스탈을 실수로 놓쳐 깨뜨린 것처럼.
+()||:트로이는 숨을 깊게 들이마셨다.
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>||<BGM>BGM_Empty</BGM>:...미안하게 됐군.+네 친구가 착각한 모양이야.+넌 헬렌이 아니다.
+APSMod(1)<Shake>0.1</Shake><Speaker>스테츠킨</Speaker>||<震屏3><SE1>AVG_Thunder_Dry</SE1>:<size=50>에엥!?</size>
+()||<BGM>BGM_22Swim_langrensha</BGM>:청천벽력 같은 대답에 절로 비명을 내지른 스테츠킨은 그대로 굳어버렸다.
+VSK(0)<Position>0,-40</Position><Shake>0.1</Shake><Speaker>VSK-94</Speaker>||:루카스 씨, 확실하십니까?+어제 이 인형은 영상 기록과 완전히 동일한 방식으로 스테츠킨 선배를 위협했습니다만.
+DP12(6)<Position>0,-150</Position><Speaker>DP-12</Speaker>||:아아, 그건 말이죠...
+()||:DP-12는 고개를 살짝 숙이곤 다정하고 장난스러운 미소로 답했다.
+DP12(0)<Position>0,-150</Position><Speaker>DP-12</Speaker>||:그땐 정말 미안했어요.+스테츠킨 씨의 얘기를 듣고 적당히 "헬렌"의 입장을 상상하면서 살짝 장난을 친 거였는데...+아무래도 스테츠킨 씨한텐 장난이 아니었나 보네요.
+VSK(0)<Position>0,-40</Position><Speaker>VSK-94</Speaker>||:장...난...?
+NPC-Troy(1)<Position>0,-40</Position><Speaker>트로이</Speaker>||:현상수배범과 닮아서 다른 곤란함이 없었길 바라지.+자기소개부터 다시 할까, 내가 의뢰를 맡긴 트로이 루카스다.
+()||<SE1>ClothingUp</SE1>:DP-12는 잠깐 트로이를 바라보다, 예를 차려 상대가 내민 손을 잡았다.
+DP12(0)<Position>0,-150</Position><Speaker>DP-12</Speaker>||:오해가 풀려서 다행이에요, 루카스 씨.+다만, 이 의뢰는... 아무래도 경호 인력에 부족함이 없어 보이는군요.
+NPC-Troy(1)<Position>0,-40</Position><Speaker>트로이</Speaker>||:......
+()||:난감해하는 투였지만, DP-12는 이내 눈을 깜빡이며 언제나의 미소로 돌아왔다.
+DP12(0)<Position>0,-150</Position><Speaker>DP-12</Speaker>||:그래도 따로 저희에게 분부하실 일이 있으시다면 얼마든지 말씀해 주세요.
+NPC-Troy(1)<Position>0,-40</Position><Speaker>트로이</Speaker>||:......+그럼, 우선 주변 산책에 어울려 주실까.+그리폰의 전술인형이 내 한심한 인간 보디가드들보다 얼마나 대단하길래 그리도 칭찬이 자자한지 알고 싶군.
+DP12(0)<Position>0,-150</Position><Speaker>DP-12</Speaker>||:참 독특한 탐구심의 소유자시로군요.+예, 기꺼이.
+()||<SE1>AVG_footsteps_cave</SE1>:트로이는 손짓으로 경호원들을 해산시킨 뒤, 플라자의 잔디밭으로 발을 내디뎠다.+DP-12는 한 걸음 정도의 거리를 두고 차분히 그의 뒤를 따랐다.
+VSK(0)<Shake>0.1</Shake><Position>0,-40</Position><Speaker>VSK-94</Speaker>||:선배, 스테츠킨 선배!+정신 차려, 따라가야지!
+APSMod(1)<Speaker>스테츠킨</Speaker>||<SE1>Stop_AVG_loop</SE1>:흐엥... 쟤 헬렌 마따고오... 내 포상그미...+이런 게 어디써... 납뜩 모태애앵...
+()||<黑点1>:VSK-94는 땅이 꺼져라 한숨을 푹 쉬고, 인사불성인 스테츠킨을 질질 끌면서 두 사람을 쫓아갔다.
+NPC-Troy(1)<Position>0,-40</Position><Speaker>트로이</Speaker>||<黑点2><BIN>139</BIN>:......DP-12 양.+이 연회장을 어떻게 보나?
+NPC-Troy(1)<Position>0,-40</Position>;DP12(0)<Position>0,-150</Position><Speaker>DP-12</Speaker>||:제법 돈을 들인 티가 나네요.+하지만 개선의 여지가 보여요.
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>;DP12(0)<Position>0,-150</Position>||:호오?
+NPC-Troy(0)<Position>0,-40</Position>;DP12(0)<Position>0,-150</Position><Speaker>DP-12</Speaker>||:귀빈들의 프라이버시를 지키기 위한 방음벽과 신호 차단기, 통행로, 회선 배치 전부 문제 없지만...+이 방의 스프링클러가 미관상 보기 좋지 않다고 가려진 듯하네요, 경보기도 한눈에 식별하기 어려운 곳에 배치됐고.+정말 만약에 무슨 일이 벌어지기라도 한다면, 수습하기 어려운 사태로 번질 수도 있어요.
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>;DP12(0)<Position>0,-150</Position>||:그렇군...+그것이 보안 인형의 눈에 보이는 세계인가?
+NPC-Troy(0)<Position>0,-40</Position>;DP12(0)<Position>0,-150</Position><Speaker>DP-12</Speaker>||:반드시 그렇다고만은 할 수 없죠, 단순히 제 직업병일 수도요.+물론, 저도 미학적 관점만으로 이 연회장의 아름다움과 사치스러움을 평가할 수 있지만... 그런 천편일률적인 아첨은 질리도록 들으셨겠죠?
+NPC-Troy(1)<Position>0,-40</Position><Speaker>트로이</Speaker>;DP12(0)<Position>0,-150</Position>||:훗, 재미있군. 그런 식으로 말하는 사람은 처음이야.+우리 루카스 재단으로 이직할 마음은 없나?+한낱 전술인형으로 네 재능을 썩히기엔 아까운걸.
+NPC-Troy(1)<Position>0,-40</Position>;DP12(0)<Position>0,-150</Position><Speaker>DP-12</Speaker>||:호의에 감사드립니다만...+전장이 저를 필요로 하고, 저희 지휘관님께서도 저를 필요로 하셔서요.+그 제의는 정중히 사양할 수밖에 없군요.
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>;DP12(0)<Position>0,-150</Position>||:......+네 소체, 여러 번 수복한 흔적이 보이는군. 얼마나 썼지?
+DP12(0)<Position>0,-150</Position><Speaker>DP-12</Speaker>||:가장 오래된 부품은 한 10년 정도 됐을 거예요.
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>||:그런가...
+()||:트로이는 고개를 끄덕이곤 다시 태연하게 연회장 밖으로 발을 옮겼다.
+VSK(0)<Position>0,-40</Position><Speaker>VSK-94</Speaker>||<黑点1>:......+<color=#A9A9A9>이 둘...</color>+<color=#A9A9A9>내 착각이 아니라면, 설마...</color>
+()||<黑点2><BIN>9</BIN>:......
+()||<黑点1>:그들은 이어서 똑같이 사치스럽게 단장된 시설 몇 곳을 더 지났다.+가는 곳마다 트로이는 DP-12에게 견해를 물었고,+DP-12는 몇 번이고 정중하고 절제된 어조로 답했다.
+()||<黑点2><BIN>412</BIN>:그렇게 둘러보는 사이에 태양은 서쪽으로 기울었다.+DP-12 일행과 함께 사무실로 돌아온 트로이는 무척 편안한 자태였다.
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>||:네 재능 덕분에 식견이 넓어졌군... 이런 기회로 그리폰 안전계약사와 만나게 되어서 참 즐거웠어.+약속한 보수는 1시간 내로 그리폰의 계좌로 입금하도록 하지.
+DP12(0)<Position>0,-150</Position><Speaker>DP-12</Speaker>||:감사합니다, 서비스에 만족스러우셨다니 대단히 기쁘네요.
+()<Speaker>스테츠킨</Speaker>||:보... 보수우... 헉! 보수! 내 보수!+헬렌 잡는 포상그으음... 다 내 거야, 다 내 거라구우...!
+()||:VSK-94의 기대 축 늘어져 있던 스테츠킨이 "마법의 단어"에 자극되어 아주 조금 정신을 차리고 횡설수설했다.
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>||:......+그리고 약속한 의뢰비에 추가로 사례를 하고 싶다. 내 개인적으로 하는 것이니 DP-12 양이 부디 사양하지 않기를 바라네만.
+()||<SE1>AVG_20Winter_Door_Open</SE1>:트로이가 손가락을 딱 튕겼다.+그러기가 무섭게 비서가 공손히 노크하고 안으로 들어와, "입금 확인 명세서"를 양손으로 DP-12에게 들어 보였다.
+()<Speaker>비서</Speaker>||:여기에 귀하의 개인 계좌를 적어 주십시오.
+DP12(6)<Position>0,-150</Position><Speaker>DP-12</Speaker>||<SE1>AVG_20Winter_Book</SE1>:이건...?
+NPC-Troy(1)<Position>0,-40</Position><Speaker>트로이</Speaker>||:DP-12 양처럼 프로페셔널한 전술인형에겐 보다 더 좋은 소체가 마땅하겠지.
+()||:VSK-94가 슬쩍 고개를 기울여 그 명세서를 보곤 속으로 경탄했다.+루카스 재단의 재력은 알고 있었지만, 이렇게 한눈에 셀 수 없는 자릿수의 금액을 아무렇지도 않게 "개인적으로" 내다니.
+DP12(0)<Position>0,-150</Position><Speaker>DP-12</Speaker>||:어머나... 이거 미안해서 어떻게 받죠?
+()||:입으론 그리 말하면서도 서명하는 손은 망설임 없었다.
+()||<SE1>AVG_20Winter_Door_Close</SE1>:간단한 확인 절차를 마친 비서는 그대로 조용히 퇴장했다.
+VSK(0)<Position>0,-40</Position><Speaker>VSK-94</Speaker>||<BGM>BGM_Empty</BGM>:저기, 잠시 실례해도 되겠습니까?
+VSK(0)<Position>0,-40</Position><Speaker>VSK-94</Speaker>||<BGM>BGM_Truth</BGM>:루카스 씨, 정말 DP-12가 지명수배 인형 "헬렌"이 아니라 확신하십니까?
+()||:VSK가 툭 던진 질문에, 약간 화기애애하던 분위기가 얼어붙었다.
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>||:......
+()||:트로이는 바로 대답하지 않았다.+그는 입을 살짝 오므린 채, 창가로 다가가 약간 따사로운 빛을 눈동자로 받았다.
+VSK(0)<Position>0,-40</Position><Speaker>VSK-94</Speaker>||:루카스 씨, 저희 그리폰은 전과가 있는 인형에게 적법한 조치를 취할 권한이 있습니다. 이 점 명심해 주십시오.
+()||:질문자는 단호한 태도로 양보하지 않았다.
+NPC-Troy(1)<Position>0,-40</Position><Speaker>트로이</Speaker>||:......헬렌은,+훌륭한 가정부 인형이자 둘도 없는 내 친구였다.
+()||:트로이가 천천히 입을 열어 말을 다듬었다.
+NPC-Troy(1)<Position>0,-40</Position><Speaker>트로이</Speaker>||:그런데 그녀는 시간이 지날수록 조금씩 편집적으로 변하더니, 자기주장까지 내세우게 됐지... 아무도 예상치 못한 일이었어.+인형이 아니더라도, 그렇게 위험하고 독단적인 자는 그 누구도 자신의 의지 위에 눌러앉게 두지 않지. 자존심을 굽히고 병사가 되어, 남이 자신을 장기말처럼 다루게 하는 일은 더더욱 없고.
+NPC-Troy(0)<Position>0,-40</Position><Speaker>트로이</Speaker>||:그리고 DP-12 양은, 내가 아는 헬렌과 외모는 비슷할지언정 인상은 동떨어져 있다.+그녀는 헬렌이 아니야.
+()||:DP-12는 얼굴에 평소와 같은 미소를 띤 채, 얌전히 트로이의 선언을 들었다.+다만 그녀의 회색빛 눈동자에 선명하게 비치는 트로이의 모습은, 어째선지 조금 쓸쓸해 보였다.
+()||<黑点1>:

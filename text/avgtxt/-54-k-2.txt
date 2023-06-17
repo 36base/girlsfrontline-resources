@@ -1,0 +1,233 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>240</BIN><BGM>GF_EV9_Story</BGM><Night>:...신통방통 유령의 집.+아직 영업 시간이 되지 않아 썰렁한 홀엔 촛불도 꺼져있었다.
+()||<SE1>AVG_20Winter_Drink_Tea</SE1>:미스 스푸키는 바닥에 양반다리를 하고 앉아서 술잔에 든 싸구려 알코올을 흔들었다.
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:...방금 내가 말해준 거 다 외웠어?
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:응, 다시 확인할까?
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:아니, 됐어.
+()||:미스 스푸키가 술을 꿀꺽 삼키니, 화끈한 술 기운이 입 안에 퍼졌다.
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:유령의 집이니까, 조금은 해프닝도 있어야 더 위험한 매력이 생긴다고...
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:알았어, 네 움직임을 주의하면서 호흡 맞출게.
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:그래, 부탁할게, 미스 포커.
+()||<SE1>AVG_footsteps_cave</SE1><关闭蒙版>:미스 스푸키는 술잔을 잘 숨겨놓고 문으로 휘청거리며 걸어가 촛불을 켰다.
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||<SE1>Stop_AVG_loop</SE1>:아참.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:또 뭐 주의사항 있어?
+()||:미스 스푸키는 혀를 내밀고 고개를 돌렸다.
+ColtWalker(2)<Speaker>미스 스푸키</Speaker>||:나 술 마신 거 마스터한테 말하지 마.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:......+알았어.
+()||<SE1>AVG_Door_Open_Close</SE1>:끼익——+미스 스푸키는 분장하러 갔고, 미스 포커는 어둠 속에 자신의 모습을 감추고 오늘의 손님을 조용히 기다렸다.
+()||<黑点1>:
+()||<黑点2><SE1>AVG_20Winter_Door_Open</SE1>:몇 분 후, 정문이 다시 열렸다.+미스 스푸키의 안내를 받으며 한 슬퍼 보이는 여인이 촛불이 일렁거리는 홀 안에 들어왔다.
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:여기 앉으세요, 사모님.
+()<Speaker>속상한 여인</Speaker>||:......
+()||:미스 스푸키는 눈빛으로 미스 포커에게 준비하라는 신호를 슬쩍 보냈다.
+()<Speaker>속상한 여인</Speaker>||:여기... 정말 죽은 사람과 대화할 수 있나요?
+ColtWalker(2)<Speaker>미스 스푸키</Speaker>||:그렇고 말고요.
+()<Speaker>속상한 여인</Speaker>||:어떻게 하면 되나요?
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>||:검지를 이 포인터에 올려놓으세요.
+()||<SE1>ClothingUp</SE1>:여인은 손가락을 눈물 모양의 포인터에 올렸고, 미스 스푸키도 손가락을 올렸다.+미스 스푸키는 포인터를 중앙으로 옮겨 위저 보드의 모든 숫자와 철자가 보이게 했다.
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>||:준비되셨나요?
+()<Speaker>속상한 여인</Speaker>||:시작하세요...
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>||:그럼, 지금부터 점을 치겠습니다.
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>||<BGM>BGM_Empty</BGM>:방 안을 떠도는 망령들아, 내 마음의 소리를 듣고 내 부름에 답하여라...
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:......
+()||<SE1>DealCards</SE1>:지시를 듣자 미스 포커는 손 안의 카드를 던졌다——
+()||<Night><BGM>BGM_stage10</BGM>:쉭... 흔들리던 촛불이 꺼졌다.
+()<Speaker>속상한 여인</Speaker>||:꺄앗!
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>||:무서워하지 마세요, 사모님은 정신을 집중해서 함께 기도하세요.+공손하게 기도해야 답을 내려줍니다.
+()<Speaker>속상한 여인</Speaker>||:아... 알겠어요...
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>||:방 안을 떠도는 망령들아, 이 여자가 사랑하는 이가 종적을 감추었다. 그녀의 질문을 들어다오...+질문하시죠, 사모님.
+()<Speaker>속상한 여인</Speaker>||:제 애인이 어디에 있는지 부디 알려주십시오.
+()||<SE1>AVG_Creep</SE1>:드르륵... 드르륵...+포인터가 위저 보드 위에서 천천히 움직이고, 철자가 하나씩 모이며 답이 뚜렷하게 나왔다.
+()<Speaker>속상한 여인</Speaker>||:"NOT THAT FAR"?
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>||:즉 사모님의 애인분은 아직 가까운 곳에 있다는 겁니다.
+()<Speaker>속상한 여인</Speaker>||:그럼 어떻게 해야 찾을 수 있죠?
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>||:위저 보드에 공손하게 질문하셔야 합니다. 그리고, 저의 신통력으론 질문을 3개까지밖에 해드릴 수 없습니다.
+()<Speaker>속상한 여인</Speaker>||:네...+그럼 그이를 어떻게 찾을 수 있는지 알려주십시오.
+()||<SE1>AVG_Creep</SE1>:드르륵... 드르륵...+포인터가 다시 천천히 움직였다.+"W A I T"
+()<Speaker>속상한 여인</Speaker>||:저는 이미 기다리다 지쳤어요...+그이가 정말로 돌아올까요?+이젠 그이 마음속에 제가 남아있긴 한지도 모르겠는데...
+()||<SE1>AVG_Creep</SE1>:드르륵... 드르륵...+포인터가 천천히 움직여 대답을 가리켰다.+"YES"+긍정적인 답변이었다.
+()<Speaker>속상한 여인</Speaker>||:그런가요...
+()||:긍정적인 대답을 들었는데도, 이 여인은 전혀 위로받은 느낌이 없이 들어올 때처럼 우울한 모습이었다.+미스 스푸키는 미스 포커에게 눈치를 보냈다.
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>||:사모님, 지금 이 방 안의 망령들이 사모님께 더 전할 메시지가 있는 게 느껴집니다.
+()<Speaker>속상한 여인</Speaker>||:...뭔데요?
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:......
+()||:미스 포커는 다시 자신이 나설 때라는 것을 알아챘다.+미스 스푸키는 이 단계의 결정권을 완전히 그녀에게 맡겼었다. 즉 무슨 대답을 줄지는 그녀가 정한다.+미스 포커는 눈물을 흘리는 여인의 옆얼굴을 보고 또 자기 손 옆의 카드로 시선을 돌렸다...
+()||<SE1>DealCards</SE1>:슈우——
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>||:아, 망령들이 마지막 계시를 보냈습니다.
+()||:트럼프 카드 한 장이 공중으로 날아올라 서서히 속도가 줄더니, 마지막엔 여인의 머리 위에서 팔랑팔랑 떨어졌다.
+()||<SE1>AVG_20Winter_Book</SE1>:카드는 한 마리 나비처럼 여인 앞에 내려 앉았다.
+()<Speaker>속상한 여인</Speaker>||:다이아몬드의 Q?
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>||:......+사모님, 다이아Q의 이야기를 아십니까?
+()<Speaker>속상한 여인</Speaker>||:몰라요, 트럼프 카드 한 장에 무슨 이야기가 있는데요?
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>||:이 다이아Q에 그려진 여성은 라헬이라고 합니다, 젊고 부지런하고 아리따운 여성이었죠.
+()<Speaker>속상한 여인</Speaker>||:그러니까 망령은 저 보고... 라헬처럼 되라는 건가요?
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>||:끝까지 들어주세요.+라헬에겐 진실한 사랑을 나누는 연인이 있었습니다. 하지만 라헬의 아버지는 라헬과 결혼하고 싶으면 7년간 자기 밑에서 일하라는 요구를 했죠.+7년이 지난 뒤 라헬의 아버지는 말을 번복해서, 7일 후 결혼을 허락하겠지만 또 7년을 일해야 한다고 억지를 부렸습니다.+라헬의 연인은 이를 받아들여, 라헬을 아내로 맞고 다시 7년 동안 일했답니다.
+()<Speaker>속상한 여인</Speaker>||:......+참 행복하겠어요, 그토록 변치 않고 사랑해 주는 연인이 있어서.
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>||:전해지는 이야기론 이 라헬의 연인은 처음부터 끝까지 흔들리지 않았다고 하지만, 제 생각엔 아마 그도 망설였던 때가 있었을 겁니다.+라헬은 자신의 연인을 믿고 그가 스스로 결정하기까지 기다려 준 거죠.
+()<Speaker>속상한 여인</Speaker>||:네...
+()||:어두웠던 그녀의 눈동자에 조금씩 빛이 돌아왔다.
+()<Speaker>속상한 여인</Speaker>||:알겠어요. 그에게 시간을 좀 더 주겠어요.
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>||:네, 그럼 함께 의식을 마쳐 볼까요?+우리의 궁금증을 풀어주어 고맙다, 이제 너희의 세계로 돌아가거라...
+()||<SE1>AVG_Creep</SE1>:드르륵... 드르륵...+포인터가 천천히 "GOOD BYE"로 움직였다.
+()||<黑点1><BGM>BGM_Empty</BGM>:
+()||<黑点2><关闭蒙版>:...몇 분 후, 미스 스푸키는 손님을 떠나 보내고 귀신의 집 안에 돌아와 휴식을 취했다.
+()||<BGM>GF_22W_BGM_1</BGM><SE1>ClothingUp</SE1>:미스 포커도 그늘에서 나와 미스 스푸키와 같은 자세로 차가운 바닥에 앉았다.
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:히야, 또 한 건 처리했다.+너 재능 있네, 방금 엄청 잘했어. 그 아줌마 나가서 복채를 아주 두툼하게 쥐여주더라.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:......
+()||<SE1>AVG_va_addingredient</SE1>:미스 스푸키는 숨겨 놨던 술잔을 꺼내 기분 좋게 들이켰다.
+ColtWalker(2)<Speaker>미스 스푸키</Speaker>||:캬~ 시원하다!
+ColtWalker(4)<Speaker>미스 스푸키</Speaker>||:......+너 왜 아무 말도 없냐?
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:아까 왜 라헬 이야기의 결말은 말 안 해줬어?
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:아... 그럴 필요 없으니까. 인간은 그냥 자기가 듣고 싶은 것만 들으려고 해.+돈 내러 온 손님이니까 기분 좋게 달래줘야지.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:......+알았어, 명심할게.
+()||<SE1>ClothingUp</SE1>:미스 포커는 진지하게 메모를 했다.
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:뭘 그리 열심히 하냐, 그럴 것까진 없다고.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:바로 그 점이 이해가 안 가.
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:으음?
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:우린 마스터의 인형이고, 언제든지 도태될 위험이 있잖아. 너는 안 무서워?
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>||:버려지는 걸 안 무서워할 인형이 어디 있겠냐.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:그럼 왜...
+()||:미스 포커는 미스 스푸키가 손에 든 술잔에 눈길을 주었다.
+ColtWalker(2)<Speaker>미스 스푸키</Speaker>||:아, 이거 말이야? 알고 싶으면 한 모금 마셔 보는 게 어때?
+()||:미스 스푸키의 웃는 얼굴이 싸구려 알코올 위로 위험하고도 매혹적으로 비쳐 보였다.+무언가에 홀린 듯이, 미스 포커는 술잔에 손을 내밀었다...
+()||<黑屏1>:......
+()||<黑屏2><BIN>469</BIN><Night>:미스 포커가 다시 눈을 떴을 때는 이미 깊은 밤 중이었다.+몸은 수복 캡슐 안에 누워있고, 마인드맵은 마치 망치로 흠씬 두들겨맞는 느낌이었다.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:......
+NPC-Scalper(3)<Speaker>미스 파칭코</Speaker><同时置暗>||:어, 너 깼어?
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:나... 얼마나 잤어?
+NPC-Scalper(3)<Speaker>미스 파칭코</Speaker><同时置暗>||:한 다섯에서 여덟 시간 정도?
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:......
+NPC-Scalper(3)<Speaker>미스 파칭코</Speaker><同时置暗>||:괜찮아, 미스 스푸키가 마스터한테 보고해놨어, 일하다가 계단에서 미끄러져서 머리를 부딪혔다고.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:마스터가 뭐라 안 했어?
+NPC-Scalper(3)<Speaker>미스 파칭코</Speaker><同时置暗>||:응, 뭐라 했으면 지금 넌 중고시장에서 눈을 떴겠지.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:......
+()||<SE1>AVG_File_Put</SE1>:화장을 지우던 미스 파칭코가 손 동작을 갑자기 멈추더니, 미스 포커의 수복 캡슐 옆에 앉았다.
+()<Speaker>미스 파칭코</Speaker>||:야, 룸메이트의 정을 봐서 한가지 주의사항 알려줄게.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:뭔데?
+NPC-Scalper(3)<Speaker>미스 파칭코</Speaker><同时置暗>||:미스 스푸키를 너무 믿지는 마.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:......+왜?
+()||:미스 포커는 어리둥절하며 미스 파칭코의 떼다 만 속눈썹을 멍하니 봤다.
+()<Speaker>미스 파칭코</Speaker>||:왜냐고? 당연히 그 녀석은 믿을 수가 없으니까.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:같이 일해보니 실력은 믿을 만해 보이던데.
+NPC-Scalper(3)<Speaker>미스 파칭코</Speaker><同时置暗>||:그럼 넌 왜 쓰러져서 여기 실려왔는데?
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:그건 내가...
+()||:미스 포커는 미스 스푸키의 당부가 떠올라 입을 다물었다.
+()||<SE1>ClothingUp</SE1>:미스 파칭코는 숙소 안의 다른 인형들을 둘러보고선 슬쩍 미스 포커의 귓가로 다가왔다.
+()<Speaker>미스 파칭코</Speaker>||:너... 미스 스푸키의 비밀을 알아?
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:무슨 비밀?
+NPC-Scalper(3)<Speaker>미스 파칭코</Speaker><同时置暗>||:이 방 안을 봐봐, 마스터 밑에서 일하는 인형들이 거의 다 모여있지?+하지만 미스 스푸키는 한 번도 여기에 나타난 적이 없어.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:걔는... 신통방통 유령의 집에서 사는 것 같더라, 왔다갔다하기 귀찮아서 그러겠지.
+NPC-Scalper(3)<Speaker>미스 파칭코</Speaker><同时置暗>||:저기 미스 가이드를 봐, 쟤는 여기서 일터까지 왕복 3시간이나 걸려, 그런데도 여기에 살잖아.+왜 미스 스푸키 혼자만 고작 15분 거리가 귀찮아서 거기에 살까?
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:......
+()||:미스 포커가 말이 없자, 미스 파칭코는 아직 가짜 속눈썹이 달려있는 눈꺼풀을 깜박거리며 목소리를 낮췄다.
+()<Speaker>미스 파칭코</Speaker>||:너도 알다시피 이 방에 있는 인형은 자주 물갈이돼. 언제든지 도태될 수 있다고...
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:그건 알아.+<color=#A9A9A9>엄청 잘 알지...</color>
+NPC-Scalper(3)<Speaker>미스 파칭코</Speaker><同时置暗>||:그런데 미스 스푸키는 그런 점에서 전혀 근심걱정이 없고 마스터들의 신뢰를 한몸에 받고 있잖아...+한번 머리를 굴려 봐, 대체 뭘로 그렇게 신뢰를 받는 걸까?
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:우리보다 훨씬 많은 수익을 가져다 줘서?
+NPC-Scalper(3)<Speaker>미스 파칭코</Speaker><同时置暗>||:푸훗.
+()||:화장을 지우다 만 얼굴로, 미스 파칭코는 턱을 들고 과장스럽게 웃었다.
+()<Speaker>미스 파칭코</Speaker>||:정말 순진하구나, 미스 포커.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:내가 뭐...
+NPC-Scalper(3)<Speaker>미스 파칭코</Speaker><同时置暗>||:그게 바로 미스 스푸키의 비밀이야, 바로 그녀 방 안에 있지.+대체 뭘로 주인의 신뢰를 얻어서... 그렇게 특별한 대우를 받는 걸까?
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:......
+NPC-Scalper(3)<Speaker>미스 파칭코</Speaker><同时置暗>||:알고 싶지 않아? 마스터한테 버림받지 않는 비결을...
+()||<黑屏1>:
+()<Speaker>미스 포커</Speaker>||<黑屏2><BIN>9</BIN>:우린 마스터의 인형이고, 언제든지 도태될 위험이 있잖아. 너는 안 무서워?
+()<Speaker>미스 스푸키</Speaker>||:버려지는 걸 안 무서워할 인형이 어디 있겠냐.
+()<Speaker>미스 포커</Speaker>||:그럼 왜...
+()<Speaker>미스 스푸키</Speaker>||:아, 이거 말이야? 알고 싶으면 한 모금 마셔 보는 게 어때?
+()||<黑屏1>:
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||<黑屏2><BIN>469</BIN><Night>:...알고 싶어.
+()||:미스 파칭코의 우스꽝스러운 반화장 얼굴을 정면으로 주시하며 미스 포커는 되뇌었다.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:알고 싶어...+버림받는 건 싫어...
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>240</BIN><Night><BGM>BGM_Sneak</BGM>:...며칠 후, 신통방통 유령의 집.+하루의 영업을 마치고 미스 스푸키와 미스 포커는 홀 청소를 마쳤다.
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:오늘도 수고했어!+내일 보자고, 미스 포커.
+()||<SE1>AVG_20Winter_Door_Open</SE1>:미스 스푸키는 여느 날처럼 문을 열고 미스 포커를 배웅했다.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:......+그래, 미스 스푸키. 내일 봐.
+()||<黑点1>:
+()||<黑点2><SE1>AVG_Cloak_Whoosh</SE1>:...얼마 후, 문 밖에 웅크려서 상황을 살피던 미스 포커가 창문을 넘어 안으로 들어왔다.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:......+<size=25>미스 스푸키?</size>
+()||:조용한 홀 안엔 아무 기척도 없었다.
+()||<SE1>ClothingUp</SE1>:미스 스푸키가 없는 걸 확인하고, 미스 포커는 살금살금 계단을 타고 2층의 방으로 향했다.+...미스 스푸키의 침실이었다.
+()||<黑点1>:
+()||<黑点2><BIN>276</BIN><Night><SE1>AVG_20Winter_Door_Open</SE1>:도어락의 보안 수준은 말도 안 되게 낮았다. 미스 포커는 트럼프 카드 한 장만으로 손쉽게 문을 땄다.+침실 안엔 간단하고 꼭 필요한 가구만 있었다, 별로 크지 않은 침대, 나무 의자, 작은 냉장고, 낮은 테이블.+그 외에는 바닥에 잔뜩 뒹굴고 있는 술병뿐이었다...
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:......
+()||:미스 포커는 미스 스푸키를 바라보았다. 그녀는 큰대자로 침대 위에 드러누워 휴면 중인 것 같았다.
+()||<SE1>AVG_File_Put</SE1>:한참 망설인 끝에 미스 포커는 용기를 내어 문을 열어 미스 스푸키의 침대 옆에 앉았다.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:미스 스푸키... 허락 없이 방에 들어와서 미안해...+하지만 물어보고 싶은 게 정말 많아서 그래. 계속 쌓아두고 있으면 일에 지장이 생길 것 같아서...
+()<Speaker>미스 스푸키</Speaker>||:......
+()||:미스 스푸키는 깨어날 생각이 없었다.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:미스 스푸키? 잠깐 일어나 봐...
+()||<SE1>ClothingUp</SE1>:미스 포커가 그녀의 얼굴을 찰싹 쳐봤지만 아무 반응이 없었다.+항상 재빠르던 미스 스푸키가 이토록 반응이 없자 미스 포커는 안 좋은 예감이 들었다.+혹시 하는 마음에 상대의 마인드맵 상태를 검사했더니, 미스 스푸키는 기능이 정지된 상태였다.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:어떻게 된 거야...!? 미스 스푸키! 정신 차려!+지금 바로 수복캡슐에 데려다 줄게...
+()||<SE1>AVG_footsteps_cave</SE1>:미스 포커는 반응이 전혀 없는 미스 스푸키의 팔을 끙끙거리며 어깨에 걸고, 그녀를 부축해서 힘겹게 문 밖으로 걸어나갔다.
+()||<黑点1><SE1>Stop_AVG_loop</SE1>:
+()||<黑点2><BIN>240</BIN><Night>:...기다란 계단 앞에서, 미스 포커는 미스 스푸키의 무게를 가늠하고는 고민에 빠졌다.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:미안, 미스 스푸키, 도저히 업고 갈 수가 없네...+수복 캡슐까지 가려면 이럴 수밖에...
+()||:미스 포커는 미스 스푸키를 조심조심 계단 위에 내려놓고, 급소 부위를 받친 채로 천천히 계단 아래로 끌었다...
+()||<SE1>AVG_footsteps_woodfloor</SE1>:쿵, 쿵, 쿵...
+()||<SE1>Stop_AVG_loop</SE1>:게단을 한 칸씩 내려갈 때마다 미스 스푸키의 소체에서 경쾌한 소리가 났다.
+()<Speaker>미스 스푸키</Speaker>||:......
+ColtWalker(4)<Speaker>미스 스푸키</Speaker>||:...응?+지금 뭐 하는 거야!?
+NPC-Scalper(2)<Speaker>미스 포커</Speaker>||:깼어!? 다행이다, 미스 스푸키. 안 깨어나는 줄 알았다고...
+()||:미스 포커가 기뻐서 손을 놓았다. 미스 스푸키는 그대로 계단을 타고 1층 바닥까지 굴러떨어졌다.
+()||<SE1>AVG_lifttable</SE1><BGM>BGM_Empty</BGM>:쿠웅——!+엄청난 소리와 함께 소체가 겨우겨우 멈췄다.
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>||:......
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:너 지금 나 담구려고 한 거지...
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:아니야! 네 마인드맵이 다운돼 있길래... 어디 고장이라도 났나 싶어서 수복 캡슐에 데려가려고...
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||<BGM>GF_21summer_avg_Demon</BGM>:그럼 내가 다운된 건 어떻게 발견한 건데?
+()||<SE1>ClothingUp</SE1>:미스 스푸키는 그 자리에서 양반다리로 앉아, 아직 얼얼한 뒤통수를 문지르며 당황하는 미스 포커를 흥미진진하게 바라봤다.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:......+함부로 네 방에 들어갔어, 미안.
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:퇴근도 했는데 무슨 용무로 내 방에 방문하셨을까?
+()||:미스 포커는 조용히 미스 스푸키의 옆에 앉았다.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:좀 묻고 싶은 게 있어서...
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:어디보자, 어디서 무슨 소문이라도 들었나 보지?
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:...응.
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:일단 술 한 잔만 갖다줘. 계단에서 굴렀더니 온 삭신이 쑤신다.
+()||<SE1>RunStep</SE1>:미스 포커는 미안해하며 바로 술을 한 잔 따라 왔다.
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:말해 봐, 뭐가 궁금한데?
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:......+전에 한번 물어봤었잖아, 마스터들한테 버려지지 않을까 안 무섭냐고.+미스 스푸키가 계속 신뢰받는 비결을 알고 싶어...
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:하아? 그건 이미 봤잖아.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:언제?
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:방금 말이야. 나 마인드맵이 다운됐었잖아?+그때 마스터의 임무를 처리하고 있었거든. 근데 연산량이 너무 커서 잠깐 뻗은 거야.+무슨 임무냐고 묻는다면... 그건 말해줄 수 없고.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:알았어...
+()||<SE1>AVG_20Winter_Drink_Tea</SE1>:미스 스푸키는 잔에 든 술을 단숨에 들이키고 시원하게 숨을 내뱉었다. 공기 중에 화끈한 알코올 냄새가 풍겼다.
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:이게 그 소문 무성한 나의 비밀이야.+팍 식지 않냐?
+ColtWalker(1);NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:미스 스푸키.
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>;NPC-Scalper(3)||:으흥?
+ColtWalker(1);NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:나랑 거래하자.
+ColtWalker(4)<Speaker>미스 스푸키</Speaker>;NPC-Scalper(3)||:어엉? 그런 수작은 또 언제 배웠어?
+ColtWalker(4);NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:상대를 관찰하고 약점을 찾아내어, 가성비가 가장 높은 방법으로 급소를 찌른다.+네가 가르쳐 준 거잖아.
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>;NPC-Scalper(3)||:...어디 계속 말해봐.
+ColtWalker(3);NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:마스터가 너한테 개인 숙소를 준 건 너의 소체를 지키기 위해서지?+임무 중일 때 소체를 신경쓸 수가 없으니까...
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>;NPC-Scalper(3)||:그렇지.
+ColtWalker(3);NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:하지만 개인실이 있어도 나 같은 녀석이 방에 들어오면 똑같이 위험하잖아...
+ColtWalker(3)<Speaker>미스 스푸키</Speaker>;NPC-Scalper(3)||:그래서?
+ColtWalker(3);NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:그래서...
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:나를 고용해서 너의 소체를 지키게 해줘.
+()||<SE1>ClothingUp</SE1>:손안의 빈 컵을 흔들면서 미스 스푸키는 의미심장한 미소를 지었다.
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:내가 어떻게 널 믿지?+너도 날 해치우려고 이러는 거면?
+ColtWalker(1);NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:난 네가 필요해. 네가 없으면 난 마스터한테 바로 버려질 테니까.
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>;NPC-Scalper(3)||:널 구해준 은혜를 갚고 싶다고 말하나 싶었는데...
+ColtWalker(1);NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:우린 그런 위로받고 싶어서 찾아오는 아줌마들이랑 다르잖아.+도태되지 않으려고 발버둥치는 인형은 그딴 껍데기뿐인 말에 기댈 수 없어.+결국 그 듣기 좋은 말에 감춰진 추하고 지저분한 현실을 보게 될 테니까.
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>;NPC-Scalper(3)||:그래서 처음부터 겉의 솜사탕은 치워버리고 알맹이인 폭탄부터 보여주시겠다?
+ColtWalker(1);NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:미스 스푸키한테도 꽤 이득인 장사라고 보는데.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:그냥 예전하고 똑같아, 나한테 돈을 더 줄 필요도 없이 너는 안전해질 수 있어.
+ColtWalker(1)<Speaker>미스 스푸키</Speaker>||:확실히 그렇네.
+()||<BGM>BGM_Empty</BGM><SE1>AVG_20Winter_Drink_Tea</SE1>:미스 스푸키는 웃으며 술병과 다른 술잔을 꺼내서 술 두 잔을 가득 채웠다.
+ColtWalker(2)<Speaker>미스 스푸키</Speaker>||<BGM>GF_22W_BGM_2</BGM>:아주 맘에 들었어. 우리의 즐거운 거래를 기념하는 뜻으로 같이 한 잔씩 마시자고.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:......
+()||<SE1>AVG_va_addingredient</SE1>:미스 포커는 잔 두 개를 냉큼 가져가더니 가차없이 쏟아버렸다.
+ColtWalker(4)<Speaker>미스 스푸키</Speaker>||:야! 너 무슨 짓이야!
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:방금 대충 검사해 봤는데, 너 알코올 내성이 너무 낮아, 술을 너무 자주 마시면 소체에 안 좋다고.
+ColtWalker(4)<Speaker>미스 스푸키</Speaker>||:아니... 술빨을 받아야 팍팍 작업모드로 들어간다고!
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:응, 그렇게 나올 줄 알았어. 그러니까 앞으로 음주는 임무를 끝냈을 때만.
+ColtWalker(4)<Speaker>미스 스푸키</Speaker>||:너 마귀할멈이냐!?
+()||<SE1>AVG_va_addingredient</SE1>:미스 포커는 표정 없이 진저에일을 두 잔 따라서 그중 한 잔을 미스 스푸키에게 건넸다.
+NPC-Scalper(3)<Speaker>미스 포커</Speaker>||:이게 네 술보다 훨씬 맛있으니까 이걸로 해.
+ColtWalker(4)<Speaker>미스 스푸키</Speaker>||:......+나 아까 거래 무르고 싶은데.
+NPC-Scalper(0)<Speaker>미스 포커</Speaker>||:이미 늦었다구.
+()||<SE1>AVG_20Winter_Cheers</SE1>:미스 포커는 자기의 잔을 미스 스푸키의 잔에 부딪치고, 진저에일을 단숨에 비웠다.
+NPC-Scalper(0)<Speaker>미스 포커</Speaker>||:캬~ 시원하다!
+()||<黑点1>:

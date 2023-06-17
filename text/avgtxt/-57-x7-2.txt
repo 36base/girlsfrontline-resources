@@ -1,0 +1,64 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>588</BIN><BGM>BGM_Saga_AVG_Dusk</BGM>:일이 전부 끝난 뒤 방으로 돌아온 당신은 천천히 짐을 정리했다.+달랑 몸뚱이만 여기에 떨어졌건만, 고작 일주일만에 챙길 물건이 짐가방 하나를 가득 채우고도 남았다.+그제서야 문득 어떻게 돌아갈지, 이 물건들은 과연 필요하긴 할지 의문이 들었다.
+()<Speaker>지휘관</Speaker>||:...이렇게 미련이 잔뜩 남을 줄은, 처음 왔을 땐 꿈에도 몰랐겠지.
+()||:일주일만에 손바닥 뒤집은 듯한 심경 변화가 우스꽝스러워 쓴웃음을 짓던 그때, 테이블에 처음 보는 쪽지를 발견했다.
+()<Speaker>지휘관</Speaker>||:이건...?
+()<Speaker>쪽지</Speaker>||:"수목원으로 와라."+"지각하면 쳐죽인다."
+()<Speaker>지휘관</Speaker>||<黑点1>:몇 시에 오라 쓰지도 않고 뭘 늦으면 쳐죽인다야!+게다가 누군지 이름도 안 썼네! 누군지 알겠지만!
+()||<黑点2><BIN>593</BIN>:......
+()||:쪽지의 요구대로 수목원에 왔지만 사키의 모습은 보이지 않았다.
+()<Speaker>지휘관</Speaker>||:기다리다 지쳐서 돌아간 건지, 아예 오지도 않은 건지 모르겠네...
+()||:어떡하면 좋을지 모르겠어서 반사적으로 머리를 긁적였다.+그리고 그렇게 망설이다가...
+()<Speaker>니카이도 사키</Speaker>||:<size=50>차려어엇!!</size>
+()<Speaker>지휘관</Speaker>||<震屏3><SE1>AVG_Cloak_Whoosh</SE1>:흐억!?
+()||:특공복을 입은 사키가 난데없이 등 뒤에서 나타나 우렁찬 기합을 질러, 당신은 반사적으로 허리춤에 손을 뻗어 권총을 찾을 뻔했다.
+NPC-Saki(16)<Position>-300,-260</Position><Scale>1.93</Scale><Speaker>니카이도 사키</Speaker>||:빈틈투성이담마! 그래가꼬 돌아가서 어떻게 프랑슈슈의 깃발을 짊어지려 그러냐!
+()<Speaker>지휘관</Speaker>||:어... 미안?
+()||:무슨 상황인진 몰라도 일단 사과하고 봤다.
+()||<SE1>AVG_footsteps_cave</SE1>:험악한 얼굴의 사키는 당신을 한참 째려보다, 팔짱을 풀고 천천히 걸어왔다.
+()<Speaker>지휘관</Speaker>||<SE1>Stop_AVG_loop</SE1>:사키, 무슨 일이길래 여기로 부른――
+NPC-Saki(16)<Position>-300,-260</Position><Scale>1.93</Scale><Speaker>니카이도 사키</Speaker>||:차렷 중 말하지 않는다!!
+()<Speaker>지휘관</Speaker>||:흡.
+()||:사키의 태도는 처음 만났을 때를 떠올리게 했다. ...아니, 그때보다 사나워 보였다.+하지만 그녀의 태도에서 다른 무언가가 느껴져, 당신은 잠시 얌전히 말을 따르기로 했다.
+NPC-Saki(16)<Position>-300,-260</Position><Scale>1.93</Scale><Speaker>니카이도 사키</Speaker>||:네가 우리 프랑슈슈에 들어온지, 일주일밖에 안 된다.+암만 잘 쳐도 네가 막내란 사실은 변하지 않어.
+NPC-Saki(16)<Position>-300,-260</Position><Scale>1.93</Scale><同时置暗><Speaker>지휘관</Speaker>||:......
+()||:......?+지금 이 상황, 사키의 어조, 그리고 이 구도...+...설마?
+NPC-Saki(16)<Position>-300,-260</Position><Scale>1.93</Scale><Speaker>니카이도 사키</Speaker>||:폭주족이었음 너 같은 건 바이크는 고사하고 끽해봤자 빵셔틀이었어야!+하지만... 크흠.
+()||:사키가 가볍게 기침하고 말을 이었다.
+NPC-Saki(15)<Position>-300,-260</Position><Scale>1.93</Scale><Speaker>니카이도 사키</Speaker>||:지휘관!
+NPC-Saki(15)<Position>-300,-260</Position><Scale>1.93</Scale><同时置暗><Speaker>지휘관</Speaker>||:넵.
+NPC-Saki(15)<Position>-300,-260</Position><Scale>1.93</Scale><Speaker>니카이도 사키</Speaker>||:나, 니카이도 사키는! 프랑슈슈의 리더이자 2호의 이름으로! 이 자리서 너한테 선고한다!+나는! 너를 프랑슈슈의 영원한 프로듀서로 인정하고! 네가 언제 어디서던! 프랑슈슈의 이름을 대는 걸 허락한다!
+()||<SE1>ClothingUp</SE1>:사키가 사뭇 진지한 얼굴로 특공복의 주머니에서 당신도 자주 보았던 물건을 꺼냈다.
+()<Speaker>지휘관</Speaker>||:잠깐, 사키? 그건...
+NPC-Saki(16)<Position>-300,-260</Position><Scale>1.93</Scale><Speaker>니카이도 사키</Speaker>||:다물라고!
+()<Speaker></Speaker>||<common_effect>%%code=Saga_Saki_item%%</common_effect>:그것은 금방 세탁한 것이 분명한, 약간 색이 바랬지만 깨끗한 "프랑슈슈"의 완장이었다. 사키는 이걸 직접 당신의 팔에 씌워 주었다.
+NPC-Saki(16)<Position>-300,-260</Position><Scale>1.93</Scale><Speaker>니카이도 사키</Speaker>||<关闭蒙版>:원랜 부를 생각 없었어. 주저리주저리 떠드는 건 내 스타일 아니니까.+근데, 고민 좀 해보니까, 그게... 역시 이걸 너한테 맡겨야겠더라고.
+()||:완장을 씌워 주고, 사키는 다시 팔짱을 끼고 흡족스럽게 씨익 웃으며 고개를 끄덕였다.
+NPC-Saki(13)<Position>-300,-260</Position><Scale>1.93</Scale><Speaker>니카이도 사키</Speaker>||:음! 잘 어울리는구마!
+NPC-Saki(13)<Position>-300,-260</Position><Scale>1.93</Scale><同时置暗><Speaker>지휘관</Speaker>||:..고마워, 사키.
+NPC-Saki(14)<Position>-300,-260</Position><Scale>1.93</Scale><Speaker>니카이도 사키</Speaker>||:아~앙? 니 룰 알어 몰러?+여기선 "고맙다"가 아니지! 자, 다시!
+NPC-Saki(14)<Position>-300,-260</Position><Scale>1.93</Scale><同时置暗><Speaker>지휘관</Speaker>||:......음!
+()||:당신은 가슴을 활짝 펴고 외쳤다.
+()<Speaker>지휘관</Speaker>||:프랑슈슈의 깃발, 받아간다!
+NPC-Saki(15)<Position>-300,-260</Position><Scale>1.93</Scale><Speaker>니카이도 사키</Speaker>||:좋――아!! 네가 으데로 돌아가던! 누구를 상대하던!+이 완장은! 네가! 프랑슈슈의 프로듀서이자! 나! 니카이도 사키가! 뒤를 봐주는 자란 증명이다!+잊으믄 쳐죽여 뿐다, 알긋나!!
+NPC-Saki(15)<Position>-300,-260</Position><Scale>1.93</Scale><同时置暗><Speaker>지휘관</Speaker>||:...절대 안 잊을게.
+NPC-Saki(16)<Position>-300,-260</Position><Scale>1.93</Scale><Speaker>니카이도 사키</Speaker>||:......
+()||:계속 고래고래 목청을 높여서 힘이 풀렸는지, 사키의 근엄하던 분위기도 사라졌다.
+NPC-Saki(13)<Position>-300,-260</Position><Scale>1.93</Scale><Speaker>니카이도 사키</Speaker>||:우리의 기치를, 더 먼 곳까지 날려보내 달라고... 친구.
+()||:사키는 그녀만의 최고의 방식으로 당신에게 작별을 고했다.
+()<Speaker>지휘관</Speaker>||:사키 너도.+프랑슈슈를 지금보다 더 위대하게 만들라고!+너희의 노래가 저쪽에서도 내 귀에 들리도록!
+NPC-Saki(15)<Position>-300,-260</Position><Scale>1.93</Scale><Speaker>니카이도 사키</Speaker>||:먼 당연한 소릴 하고 자빠졌어 이 멍충아!+큐슈 제패에서 전국 제패, 천하 제패까지!
+NPC-Saki(13)<Position>-300,-260</Position><Scale>1.93</Scale><Speaker>니카이도 사키</Speaker>||:...언젠가는 반드시, 프랑슈슈의 이름이 세계 구석구석까지 닿도록 만들고 말겠어.
+NPC-Saki(15)<Position>-300,-260</Position><Scale>1.93</Scale><Speaker>니카이도 사키</Speaker>||:그리고 닌 우리 선봉장이니까, 거서 축하 파티나 미리 준비하고 있으라고! 엄청 큰 걸로!
+()<Speaker>지휘관</Speaker>||:물론이지, 대장.+맡겨만 줘.
+()||<SE1>Rope</SE1>:당신은 완장을 찬 쪽의 주먹을 내밀었고, 사키도 뜻을 받아 주먹을 맞댔다.
+NPC-Saki(15)<Position>-300,-260</Position><Scale>1.93</Scale><Speaker>니카이도 사키</Speaker>||:쪼까 짧다면 짧은 시간이었지만, 널 알게 돼서 무진장 즐거웠다.+돌아가서도 누구한테 무시당하고 살지 말어라, 알았냐?
+NPC-Saki(15)<Position>-300,-260</Position><Scale>1.93</Scale><同时置暗><Speaker>지휘관</Speaker>||:아아, 그럴게.+날 무시하는 놈들한텐 내 나름대로 방법이 있지.
+NPC-Saki(13)<Position>-300,-260</Position><Scale>1.93</Scale><Speaker>니카이도 사키</Speaker>||:히힛, 역시 근성 있구마!
+()||:사키가 당신의 어깨를 탁 치곤 뒤돌아 숲으로 걸어갔다.
+()||<SE1>AVG_Moto_Start</SE1>:부르릉!+오토바이의 묵직한 엔진음이 울리자, 사키는 당신에게 손을 흔들었다.
+NPC-Saki(12)<Position>-300,-260</Position><Scale>1.93</Scale><Speaker>니카이도 사키</Speaker>||:뭘 멍하니 있어? 얼렁 타.
+()<Speaker>지휘관</Speaker>||:...응.
+()||<SE1>AVG_Moto_Run</SE1>:당신이 바이크에 오르자마자 사키가 핸들을 당겼고, 시원한 바람이 당신의 뺨을 스쳤다.+프랑슈슈의 완장은 당신의 팔에서 강렬하게 펄럭였다.
+()||:잊지 않을 것이다.+아무리 세월이 흐르더라도.+당신은 그동안 겪은 일을 절대 잊지 않을 것이다.+그리고, 자신이 영원한 프랑슈슈의 일원임도.
+()||<黑点1>:

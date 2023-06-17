@@ -1,0 +1,83 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>593</BIN><BGM>Campaion-34</BGM>:오전의 주체할 수 없던 흥분은 어디로 갔는지, 지금 당신의 머릿속은 완전히 엉망진창이었다.+점심 때 전단지로 본, 아이돌 그룹 "나이트 카페"로 위장까지 하고 당신을 구하러 온 부하 인형들이 눈에서 아른거리는 것이었다.+그 초조함은 오후에 프랑슈슈와 함께일 때까지 이어졌고, 어쩌면 눈썰미가 좋은 몇 명은 눈치챘을 수도 있지만, 아무도 당신을 나무라지 않았다.+서로 약속했음에도 불구하고.
+()<Speaker>지휘관</Speaker>||:하아... 이러지도 저러지도 못하는 상황이라니...
+()<Speaker></Speaker>||<SE1>AVG_Button_Click</SE1>:결국 당신은 가까운 공중전화 부스로 가, 어젯밤 수상한 닌자가 당신에게 남긴 명함의 전화번호를 눌렀다.
+()<Speaker>지휘관</Speaker>||:어... 여보세요? 닌자 맞지?
+()<Speaker>닌자</Speaker>||:<color=#00CCFF>부름에 응한다. 무슨 일이지?</color>
+()<Speaker>지휘관</Speaker>||:아이돌 그룹 "나이트 카페"에 대해 조사해 줬으면 해서.
+()<Speaker>닌자</Speaker>||:<color=#00CCFF>어떤 목적으로?</color>
+()<Speaker>지휘관</Speaker>||:난 그 애들의 지휘관이야. 걔네가 아이돌로 위장까지 하고 사가로 온 건 날 찾기 위해서가 분명해.
+()<Speaker>닌자</Speaker>||:<color=#00CCFF>...그러니까, 네가 말하는 나이트 카페는 그룹 데뷔 3개월만에 도래미 어워드, 글러브 뮤직 어워드, 아이돌 아카데미상을 석권한 그 나이트 카페 말인가?</color>
+()<Speaker>지휘관</Speaker>||:어... 맞을걸.
+()<Speaker>닌자</Speaker>||:<color=#00CCFF>데뷔 앨범 "나도 그리폰에서 레벨 업"으로 힐보드 차트 연속 24주 1위로 군림한 그 나이트 카페 말인가?</color>
+()<Speaker>지휘관</Speaker>||:아 글쎄 맞다니까? 얼른 걔들과 만나야 해.
+()<Speaker>닌자</Speaker>||:<color=#00CCFF>......흠.</color>
+()<Speaker></Speaker>||<SE1>AVG_Button_Click</SE1>:뚜우... 뚜우... 뚜우...+닌자가 대뜸 전화를 끊어버렸다.+그리고 당신이 어리둥절해하는 그 잠깐 사이에 전화부스 앞에 홀연히 나타났다.
+()<Speaker>지휘관</Speaker>||:아잇 깜짝이야, 언제 왔어?
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:......
+()<Speaker></Speaker>||:닌자는 수상하게 조용했다.+물론, 당신은 그저 갑자기 많은 정보를 주입당해 당혹스러워하는 것이라 어림짐작했다.
+()<Speaker>지휘관</Speaker>||:날 오랫동안 관찰했다며. 알잖아, 난 여기가 아닌 다른 세계에서 왔고, 나이트 카페는 내가 그쪽에서――
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:설명은 필요 없다, 다 이해하니.
+()<Speaker>지휘관</Speaker>||:정말로?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:닌자는 매우 다정하게 당신의 어깨에 손을 얹었다.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:너는 이세계에서 도래했고, 전 세계를 뜨겁게 달군 아이돌 그룹 "나이트 카페"의 지휘관이었단 말이지?
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:뭐야, 정말로 제대로 알고 있네?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:당신은 기뻐하며 닌자와 하이파이브를 하려고 했지만 닌자는 그저 차갑게 고개를 끄덕였다.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<BGM>BGM_Empty</BGM>:그런 꿈은 나도 꿔봤다.
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||<震屏3>:<size=50>맙소사, 꿈이 아니야!</size>
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<BGM>m_wv_title</BGM>:총알과 포탄이 빗발치는 혼란하기 짝이 없는 세상에서 꿈으로 가득 찬 소녀들을 이끌고 싸우면서, 돈과 권력이 아닌 평온한 삶을 바랐다?
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:그래, 그렇다니까!
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:헌데 어느 날 눈을 떠 보니 평화로운 사가에 와 있는 자신을 발견했고, 여차저차해서 지금은 꿈으로 가득한 천재 소녀들을 이끌고 춤과 노래로 세계 정복에 나서게 되었다...
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:어... 뭔가 좀 이상하긴 한데 대충 그런 상황이지.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:그래, 그런 꿈은 누구나 꿔 봄 직하지.+하지만 꿈은 어디까지나 꿈! 잠에서 깼으면 뼈저린 현실을 받아들여라!
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:아니 진짜 잠꼬대 같은 게 아니라 난――
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:쉬잇.
+NPC-Ninja(0)<Speaker></Speaker><Position>0,-420</Position><Scale>1.6</Scale>||<SE1>ClothingUp</SE1>:닌자는 무슨 주문 비스무리한 걸 중얼거렸다.
+NPC-Ninja(0)<Speaker></Speaker><Position>0,-420</Position><Scale>1.6</Scale><Shake>0.1</Shake>||<震屏3><SE1>AVG_Slap</SE1>:그리고 파우치에서 웬 가루 한 줌을 꺼내 당신의 이마에 철썩 묻혔다.
+()<Speaker>지휘관</Speaker>||:<size=50>우왁, 뭐, 뭐야 이건 또?!</size>
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:정신을 차리게 하는 가루다. 돌아가서 한숨 푹 자고 나면 더는 꿈에서 본 광경으로 혼란스럽지 않을 거다.
+NPC-Ninja(0)<Speaker>지휘관</Speaker><Position>0,-420</Position><Scale>1.6</Scale><同时置暗>||:꿈이 아니라 진짜라고!
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:이해한다, 너만 그런 것이 아니니. 나도 여러 번 처리해봤고 말이지.
+()<Speaker>지휘관</Speaker>||:……
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:그럼 용건이 끝났으니, 다음에 보자!
+()<Speaker></Speaker>||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=2%%delay=0.1%%range=8</controll_shake>:닌자는 날렵하게 나무 위로 올라 나뭇잎 사이로 사라졌다.
+NPC-Ninja(0)<Speaker>닌자</Speaker><Position>0,-420</Position><Scale>1.6</Scale>||:아아 그렇지, 오늘 밤 아주 좋은 소식이 있을 거다.
+()<Speaker>지휘관</Speaker>||:...무슨 소식?
+()<Speaker></Speaker>||:당연히 대답은 없었다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<BIN>9</BIN><BGM>BGM_Empty</BGM><黑屏2>:......
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>587</BIN><SE1>AVG_20Winter_Door_Open</SE1>:잠시 후, 당신은 얼이 쏙 빠진 얼굴로 저택에 돌아왔다. 그런데 무슨 일인지, 사쿠라가 문 앞에서 발을 동동 구르며 당신을 기다리고 있었다.
+NPC-Sakura(2)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||<SE1>RunStep</SE1>:지휘과――안!
+()<Speaker>지휘관</Speaker>||:엥... 무슨 일이야?
+()<Speaker></Speaker>||<SE1>Rope</SE1>:피로감에 그대로 소파에 몸을 파묻자마자 다가온 아이와 준코를 비롯한 모두가 어째선지 꽤나 긴장한 기색이 역력했다.
+NPC-MizunoAi(0)<Speaker>미즈노 아이</Speaker><Position>60,-190</Position><Scale>1.27</Scale>||:지휘관이 없을 때 엄청 중요한 전화를 받았어.
+NPC-MizunoAi(0)<Speaker>지휘관</Speaker><Position>60,-190</Position><Scale>1.27</Scale><同时置暗>||:중요하다니... 전기세 독촉 전화야? 아님 누가 소음 공해로 신고했대?
+NPC-Junko(0)<Speaker>콘노 준코</Speaker><Position>60,-230</Position><Scale>1.27</Scale>||:둘 다 아니에요, 지휘관! 공연 섭외를 받았어요!
+NPC-Lily(1)<Speaker>호시카와 릴리</Speaker><Position>70,-160</Position><Scale>1.24</Scale>||<BGM>BGM_Saga_AVG_Day</BGM>:라이브 공연이래! 오랜만에 받는 공연 섭외야!
+NPC-Tae(4)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale><Shake>0.1</Shake>||:으에헤헤헤... (매우 기쁜 기색이다.)
+()<Speaker>지휘관</Speaker>||:고, 공연 섭외!? 우리한테?!
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:반응을 예상했는지, 유우기리가 초청장을 건넸다.
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.9</Scale>||:주최 측에게서 정식 초청장까지 받았답니다.
+()<Speaker>지휘관</Speaker>||:이건...!
+()<Speaker></Speaker>||:초청장에는 눈에 익은 소녀 3명의 사진도 인쇄되어 있었다.
+NPC-Saki(0)<Speaker>니카이도 사키</Speaker><Position>0,-150</Position><Scale>1.34</Scale>||:<size=50>것도 오프닝 무대를 맡기겠댄다!</size>
+NPC-Saki(5)<Speaker>니카이도 사키</Speaker><Position>0,-150</Position><Scale>1.34</Scale><Shake>0.1</Shake>||:<size=50>그 나이트 카페랑 같은 무대라고! 생각만 혀도 가슴 떨린다야!</size>
+NPC-Sakura(1)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:정말 기쁘긴 하지만... 과연 우리가 분위기를 잘 띄울 수 있을지...
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:프랑슈슈가 의논하는 소리는 전혀 귀에 들어오지 않았다. 지금 당신의 눈엔 오직 이 익숙한 세 명의 얼굴만이 보였다.+HK21, JS05, PM06...
+()<Speaker>지휘관</Speaker>||:드디어, 올 것이 왔군...
+()<Speaker></Speaker>||<SE1>Rope</SE1>:당신은 흥분감에 두 주먹을 불끈 쥐었다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1><BGM>BGM_Empty</BGM>:한 쌍의 부드러운 손이 당신의 주먹을 감쌌고, 그리고 또 한 쌍, 또 한 쌍...
+()<Speaker></Speaker>||<SE1>AVG_Creep</SE1>:어느샌가 당신 주위로 모인 프랑슈슈가 다 함께 당신과 손을 한데 모았고, 그들의 눈부신 얼굴 때문에 당신은 잠깐 넋을 잃기까지 했다.
+NPC-Saki(4)<Speaker>니카이도 사키</Speaker><Position>0,-150</Position><Scale>1.34</Scale>||<BGM>10394</BGM><震屏3>:<size=50>콧대 높은 녀슥들한테 제대로 한 방 먹여 주자고!</size>
+NPC-MizunoAi(5)<Speaker>미즈노 아이</Speaker><Position>60,-190</Position><Scale>1.27</Scale>||:우린 할 수 있어! 이런 때를 위해 노력해 왔잖아!
+NPC-Junko(1)<Speaker>콘노 준코</Speaker><Position>60,-230</Position><Scale>1.27</Scale>||:응!
+NPC-Sakura(0)<Speaker>미나모토 사쿠라</Speaker><Position>0,-270</Position><Scale>1.27</Scale>||:아, 아무 일도 없기를...!
+NPC-Yugiri(4)<Speaker>유우기리</Speaker><Position>120,-150</Position><Scale>1.9</Scale>||:지휘관님, 당신도 저희를 믿으시죠?
+()<Speaker>지휘관</Speaker>||:...그, 그래! 이번 공연은 반드시 성공시킨다!
+NPC-Lily(2)<Speaker>호시카와 릴리</Speaker><Position>70,-160</Position><Scale>1.24</Scale>||<SE1>ClothingUp</SE1>:대박 라이브를 위해! 예에~이!!
+NPC-Tae(4)<Speaker>야마다 타에</Speaker><Position>0,-290</Position><Scale>1.3</Scale><Shake>0.1</Shake>||:우오오오어아! (흥분해서 난동 부리는 중.)
+()<Speaker>지휘관</Speaker>||<震屏3>:<size=50>프라~앙, 슈슈!!</size>
+()<Speaker></Speaker>||:당신은 분위기에 맞춰주며 힘차게 함께 구호를 외쳤다.+환희와 긴장감이 뒤섞인 낡은 저택의 로비 한가운데서, 당신은 공연 포스터의 얼굴을 다시 힐끗 보았다.+그리고 눈을 돌려 다시 프랑슈슈의 흥분과 희망 가득한 얼굴들을 보니, 샘솟는 것은 미안함이었다.
+()||<黑点1>:

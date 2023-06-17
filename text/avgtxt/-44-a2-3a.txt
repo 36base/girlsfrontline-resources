@@ -1,42 +1,42 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
-()<Speaker>섀도리스</Speaker>||<BGM>BGM_Wake</BGM><common_effect>%%code=NPC_TV_15%%</common_effect><BIN>348</BIN>:강경 시위에도 불구하고, 정부의 소극적인 대응에 국민들의 불만이 갈수록 드세어지고 있습니다.
-()<Speaker>섀도리스</Speaker>||<黑屏1>:오늘 있었던 노이해밀 구역에서의 시위 도중 발생한 폭력 사태로, 경찰 2명이――
-NPC-Light(0)<Speaker>라이트</Speaker>||<BIN>82</BIN><关闭蒙版>%%</关闭蒙版><黑屏2>:......
-NPC-Light(0)<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:문이 열렸다.
-NPC-Light(0)<Speaker>라이트</Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:저녁은 냉장고 안에 뒀어.
-NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:응.+뭐 봐?
-NPC-Light(0);NPC-Shadowless(8)<Speaker></Speaker>||:섀도리스는 핸드백을 소파 위에 아무렇게나 던지고, 아주 익숙하게 냉장고의 차가운 맥주를 꺼냈다.
-NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Shadowless(8)||:뉴스.
-NPC-Light(0)<Speaker></Speaker>;NPC-Shadowless(8)||:섀도리스가 맥주를 홀짝이는 소리가 가까워지더니, 라이트의 머리 위에 팔을 괴고는 고민 있는 듯한 얼굴로 텔레비전을 바라봤다.
-NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:나, 머리가 좀 삐죽삐죽한 거 같지 않아?
-NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Shadowless(8)||:술 끊었다며?
-NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:퇴근 후에 마시는 맥주는 무알콜이라구.
-NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Shadowless(8)||:...누난 몸매 관리하니 괜찮으려나.+그래도 안전에 좀 더 신경써 줘.+그저께도 시위하다 폭동 일어났을 때 현장에 있었지?
-NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:어머, 지금 누가 누구한테 설교래?
-NPC-Light(0);NPC-Shadowless(8)<Speaker></Speaker>||:섀도리스가 가소롭다는 듯 라이트의 머리를 쿡 찍었다.
-NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:기자가 이 정도 리스크도 감당 못하면 그냥 사무실에서 기삿거리나 받아쓰기 하면서 살아야지.+취재란 그런 거야, 그리고 정말 걱정되면 너나 지금 직장 나와서 내 일이나 도와!+자리 하나쯤 얼마든지 만들어 줄 수 있다니까?
-NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Shadowless(8)||:못 그러는 거 알잖아...+그 얘기도 이걸로 벌써 몇 번째지?
-NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:흥...
-NPC-Light(0)<Speaker></Speaker>;NPC-Shadowless(8)||:잠깐 눈을 돌린 사이에 섀도리스가 소파 앞으로 왔지만, 일부러 라이트에게서 떨어져 앉았다.
-NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:너, 오늘 낮에 갈라테아 요양원 왔었지?
-NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Shadowless(8)||:아니.
-NPC-Light(0)<Speaker></Speaker>;NPC-Shadowless(8)||:라이트는 반사적으로 대답했지만, 섀도리스는 확신했다.
-NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:날 속이려면 한참 멀었어.+경고하는데, 케빈한테 말해서 누구든 좋으니까 지금 일에서 빠지게 해 달라고 해.
-NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Shadowless(8)||:왜?
-NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:너무 위험해.
-NPC-Light(0);NPC-Shadowless(8)<Speaker></Speaker>||<黑屏1>:섀도리스가 맥주 캔을 테이블에 내려놨다.
-()<Speaker></Speaker>||<common_effect>%%code=NPC_TV_15%%</common_effect><BIN>348</BIN><黑屏2>:마침 뉴스도 폭동으로 아수라장이 된 거리를 조명했다.
-()<Speaker>섀도리스</Speaker>||:"이둔"은 아주 뜨거운 감자야. 정부와 기업 모두가 지켜보고 있어.+이제 겨우 19살인데, 이런 일에 휘말려 죽기엔 너무 이르단 생각 안 들어?
-()<Speaker></Speaker>||<SE1>Explode</SE1>:퍼엉!+텔레비전에서의 폭발음이 두 사람의 대화 사이에 타이밍 좋게 끼어들었다.
-()<Speaker>라이트</Speaker>||:누구 직업이 더 위험한지 정말 따져볼까?
-()<Speaker>섀도리스</Speaker>||:나 지금 농담 아니야.
-()<Speaker>라이트</Speaker>||<黑屏1>:나도 농담 아니야, 누나.
-NPC-Light(0)<Speaker></Speaker>||<BIN>82</BIN><关闭蒙版>%%</关闭蒙版><黑屏2><SE1>AVG_tele_disconnect</SE1>:라이트는 리모컨을 들어 텔레비전을 끄고 말을 이었다.
-NPC-Light(0)<Speaker>라이트</Speaker>||:공무원으로서 권고하는데, 누나도 너무 깊게 파고들지 마.+이건 매스컴이 파헤칠 일이 아니야. 적당한 선에서 멈추지 않았다간 크게 화를 입고 말 거야.
-NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:라이트!
-NPC-Light(0);NPC-Shadowless(10)<Speaker></Speaker>||:자리에서 일어나는 라이트를, 섀도리스가 심각한 표정으로 불러 세웠다.
-NPC-Light(0);NPC-Shadowless(10)<Speaker>섀도리스</Speaker>||:......엄마의 일을 이어받았다고 목숨까지 걸 필요는 없어.
-NPC-Light(0)<Speaker>라이트</Speaker>||:누나, 이건 내가 선택한 일이야. 이해해 줘.+도저히 못 그러겠다면...
-NPC-Light(0)<Speaker></Speaker>||:그는 잠시 침묵했다.
-NPC-Light(0)<Speaker>라이트</Speaker>||:...내가 엄청 섭섭할 거야.
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:......
+()<Speaker>섀도리스</Speaker>||<BGM>BGM_Wake</BGM><common_effect>%%code=NPC_TV_15%%</common_effect><BIN>348</BIN>:강경 시위에도 불구하고, 정부의 소극적인 대응에 국민들의 불만이 갈수록 드세어지고 있습니다.
+()<Speaker>섀도리스</Speaker>||<黑屏1>:오늘 있었던 노이해밀 구역에서의 시위 도중 발생한 폭력 사태로, 경찰 2명이――
+NPC-Light(0)<Speaker>라이트</Speaker>||<BIN>82</BIN><关闭蒙版>%%</关闭蒙版><黑屏2>:......
+NPC-Light(0)<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:문이 열렸다.
+NPC-Light(0)<Speaker>라이트</Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:저녁은 냉장고 안에 뒀어.
+NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:응.+뭐 봐?
+NPC-Light(0);NPC-Shadowless(8)<Speaker></Speaker>||:섀도리스는 핸드백을 소파 위에 아무렇게나 던지고, 아주 익숙하게 냉장고의 차가운 맥주를 꺼냈다.
+NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Shadowless(8)||:뉴스.
+NPC-Light(0)<Speaker></Speaker>;NPC-Shadowless(8)||:섀도리스가 맥주를 홀짝이는 소리가 가까워지더니, 라이트의 머리 위에 팔을 괴고는 고민 있는 듯한 얼굴로 텔레비전을 바라봤다.
+NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:나, 머리가 좀 삐죽삐죽한 거 같지 않아?
+NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Shadowless(8)||:술 끊었다며?
+NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:퇴근 후에 마시는 맥주는 무알콜이라구.
+NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Shadowless(8)||:...누난 몸매 관리하니 괜찮으려나.+그래도 안전에 좀 더 신경써 줘.+그저께도 시위하다 폭동 일어났을 때 현장에 있었지?
+NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:어머, 지금 누가 누구한테 설교래?
+NPC-Light(0);NPC-Shadowless(8)<Speaker></Speaker>||:섀도리스가 가소롭다는 듯 라이트의 머리를 쿡 찍었다.
+NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:기자가 이 정도 리스크도 감당 못하면 그냥 사무실에서 기삿거리나 받아쓰기 하면서 살아야지.+취재란 그런 거야, 그리고 정말 걱정되면 너나 지금 직장 나와서 내 일이나 도와!+자리 하나쯤 얼마든지 만들어 줄 수 있다니까?
+NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Shadowless(8)||:못 그러는 거 알잖아...+그 얘기도 이걸로 벌써 몇 번째지?
+NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:흥...
+NPC-Light(0)<Speaker></Speaker>;NPC-Shadowless(8)||:잠깐 눈을 돌린 사이에 섀도리스가 소파 앞으로 왔지만, 일부러 라이트에게서 떨어져 앉았다.
+NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:너, 오늘 낮에 갈라테아 요양원 왔었지?
+NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Shadowless(8)||:아니.
+NPC-Light(0)<Speaker></Speaker>;NPC-Shadowless(8)||:라이트는 반사적으로 대답했지만, 섀도리스는 확신했다.
+NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:날 속이려면 한참 멀었어.+경고하는데, 케빈한테 말해서 누구든 좋으니까 지금 일에서 빠지게 해 달라고 해.
+NPC-Light(0)<Speaker>라이트</Speaker>;NPC-Shadowless(8)||:왜?
+NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:너무 위험해.
+NPC-Light(0);NPC-Shadowless(8)<Speaker></Speaker>||<黑屏1>:섀도리스가 맥주 캔을 테이블에 내려놨다.
+()<Speaker></Speaker>||<common_effect>%%code=NPC_TV_15%%</common_effect><BIN>348</BIN><黑屏2>:마침 뉴스도 폭동으로 아수라장이 된 거리를 조명했다.
+()<Speaker>섀도리스</Speaker>||:"이둔"은 아주 뜨거운 감자야. 정부와 기업 모두가 지켜보고 있어.+이제 겨우 19살인데, 이런 일에 휘말려 죽기엔 너무 이르단 생각 안 들어?
+()<Speaker></Speaker>||<SE1>Explode</SE1>:퍼엉!+텔레비전에서의 폭발음이 두 사람의 대화 사이에 타이밍 좋게 끼어들었다.
+()<Speaker>라이트</Speaker>||:누구 직업이 더 위험한지 정말 따져볼까?
+()<Speaker>섀도리스</Speaker>||:나 지금 농담 아니야.
+()<Speaker>라이트</Speaker>||<黑屏1>:나도 농담 아니야, 누나.
+NPC-Light(0)<Speaker></Speaker>||<BIN>82</BIN><关闭蒙版>%%</关闭蒙版><黑屏2><SE1>AVG_tele_disconnect</SE1>:라이트는 리모컨을 들어 텔레비전을 끄고 말을 이었다.
+NPC-Light(0)<Speaker>라이트</Speaker>||:공무원으로서 권고하는데, 누나도 너무 깊게 파고들지 마.+이건 매스컴이 파헤칠 일이 아니야. 적당한 선에서 멈추지 않았다간 크게 화를 입고 말 거야.
+NPC-Light(0);NPC-Shadowless(8)<Speaker>섀도리스</Speaker>||:라이트!
+NPC-Light(0);NPC-Shadowless(10)<Speaker></Speaker>||:자리에서 일어나는 라이트를, 섀도리스가 심각한 표정으로 불러 세웠다.
+NPC-Light(0);NPC-Shadowless(10)<Speaker>섀도리스</Speaker>||:......엄마의 일을 이어받았다고 목숨까지 걸 필요는 없어.
+NPC-Light(0)<Speaker>라이트</Speaker>||:누나, 이건 내가 선택한 일이야. 이해해 줘.+도저히 못 그러겠다면...
+NPC-Light(0)<Speaker></Speaker>||:그는 잠시 침묵했다.
+NPC-Light(0)<Speaker>라이트</Speaker>||:...내가 엄청 섭섭할 거야.
 ()<Speaker></Speaker>||<黑屏1>:고개를 흔들고, 라이트는 자기 방으로 들어갔다.+차가운 캔맥주는 아직도 시원한 탄산 소리를 냈지만, 섀도리스는 더는 마시고 싶은 마음이 들지 않았다.

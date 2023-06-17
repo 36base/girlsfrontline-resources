@@ -1,0 +1,112 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>602</BIN><BGM>BGM_Saga_Song_2</BGM><SE1>Heartbeat</SE1>:짝, 짝, 짝!
+()<Speaker></Speaker>||:묵직한 마지막 리듬이 울렸다.+다만 그 소리가 당신의 심장 고동인지 무대 위 프랑슈슈의 스텝 소리였는진 더는 구분이 안 됐지만, 어쨌든 공연의 끝을 알리는 마지막 소리가 귓가에 울렸다.
+()<Speaker></Speaker>||:몸이 긴장에서 해방되자, 주위의 우레 같은 박수와 환호 소리가 파도처럼 당신을 띄워 올렸다.
+()<Speaker>관중</Speaker>||<白屏2><SE1>AVG_20Winter_Bar_Cheering_V2</SE1><controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=10</controll_shake>:<size=50>프랑슈슈――!!</size>+<size=50>앵콜! 앵콜!</size>
+()<Speaker>미나모토 사쿠라</Speaker>||:모두――! 고마워요――!
+()<Speaker>니카이도 사키</Speaker>||:<size=50>앞으로도 잘 부탁한다아아!!!</size>
+()<Speaker></Speaker>||:사쿠라와 사키의 목소리도 금방 박수와 환호에 묻혔지만, 상관없었다.+무대의 조명이 프랑슈슈를 비추니 그 실루엣을 따라 땀방울도 반짝였다.+공연은 끝났다. 도중 사소한 실수가 없지는 않았지만, 전체적으로 훌륭했다. 관객들의 반응이 바로 그 증거였다.+덕분에 당신도 부담감에서 해방되었다.
+()<Speaker>미즈노 아이</Speaker>||:모두, 고마워!!
+()<Speaker>지휘관</Speaker>||<controll_shake>%%type_id=2%%duration=4%%delay=0.1%%range=8</controll_shake><SE1>ClothingUp</SE1>:<size=50>프랑슈슈——!!</size>
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>9</BIN><SE1>AVG_BaseDoor_Close</SE1>:막이 내려올 때, 당신도 결국 참지 못하고 커튼 뒤로 사라지는 프랑슈슈를 향해 소리질렀다.+여태껏 꾹 참았던, 한 명의 관객으로서 응원과 기대가 압축된 외침이었다.+이젠 그들의 지휘관으로서 곁으로 돌아가 함께 축하해 줄 차례였다...만.
+()||<黑屏1>:
+()<Speaker>지휘관</Speaker>||<BGM>BGM_Empty</BGM><黑屏2><BIN>595</BIN>:길 좀 비켜 주세요! 지나갑니다!
+()<Speaker></Speaker>||:열기에 한껏 취한 관객들이 콘크리트 벽처럼 꿈쩍도 않았다.+하는 수 없이 샛길을 찾으러 돌아다녔지만, 도저히 빠져나갈 구멍이 보이지 않았다.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1>:그렇다고 이대로 있을 수도 없으니 머리를 굴리던 그때, 누군가 당신을 붙잡았다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<SE1>ClothingUp</SE1><BGM>BGM_Saga_AVG_Live_Good</BGM>:요, 또 만났네.
+()<Speaker>지휘관</Speaker>||:엥...?
+()<Speaker></Speaker>||:가면 쓴 은발 소녀가 또 홀연히 나타났다.
+()<Speaker>지휘관</Speaker>||:네가 왜 여기 있어?
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:프랑슈슈의 1등 팬더러 이런 중요한 공연을 놓치라고? 어림도 없지.
+()<Speaker>지휘관</Speaker>||:......+몇 곡 전엔 너 무대 위에 있었잖아.
+()<Speaker></Speaker>||:이번 콘서트의 하프 타임에, 나이트 카페와 그레이 트리가 우정 출연으로 무대를 가졌었다.+그리고 그때, 그레이 트레의 멤버 중에 당신이 이제껏 보지 못했던 키보더가 있었다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:무슨 소리야?
+NPC-Fans(0)<Speaker>지휘관</Speaker><Position>0,-250</Position><Scale>1.7</Scale><同时置暗>||:너 맞지? 그레이 트리의 베일에 싸인 미스테리 키보더.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:아니 무슨 소리냐고.+그레이 트리라면 내가 예전에 덕질하던 그룹이긴 하네.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:당신은 미심쩍은 눈빛으로 이 은발의 소녀를 위아래로 훑어보다 눈치챘으니, 가면을 썼지만 한 쌍의 교활한 눈빛이 눈구멍 너머로 느껴졌다.+사실 처음 만났을 때부터 이 수수께끼의 소녀는 궁금증을 불러일으켰고, 여러 번 만나면서 그 의문은 커져만 갔다.
+()<Speaker></Speaker>||:그래서 이 기회에 그 의문을 해결하기로 했다.<c>A. 상대의 정체를 캐묻는다.<c>B. 상대의 동기를 캐묻는다.
+()<Speaker>지휘관</Speaker>||<分支>2</分支>:계속 내 주변을 돌아다녔던데, 대체 뭐가 목적이야?
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<分支>2</分支>:아~아, 들켜버렸네.
+()<Speaker></Speaker>||<分支>2</分支>:소녀는 피식 웃으며 짐짓 유감스러운 척했다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<分支>2</分支>:실은, 계속 프랑슈슈의 정보를 수집했어.
+NPC-Fans(0)<Speaker>지휘관</Speaker><Position>0,-250</Position><Scale>1.7</Scale><同时置暗>||<分支>2</分支>:...엉?
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<分支>2</分支>:원래 프랑슈슈는 엄청 마이너니까 정보가 별로 돈이 되지 않았거든.+그런데 지금은 이렇게 크게 떴으니, 나도 한탕 벌 수 있지 않겠어...?
+NPC-Fans(0)<Speaker>지휘관</Speaker><Position>0,-250</Position><Scale>1.7</Scale><同时置暗>||<分支>2</分支>:뭣...
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<分支>2</分支>:아, 괜한 기대 마셔. 네 정보는 수요 없으니까.
+()<Speaker>지휘관</Speaker>||<分支>1</分支>:네가 그 가면을 안 벗으려는 건, "특별한" 인물이라서겠지?
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<分支>1</分支>:아~아, 들켜버렸네.
+()<Speaker></Speaker>||<分支>1</分支>:소녀는 피식 웃으며 짐짓 유감스러운 척했다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<分支>1</分支>:실은, 내가 여러 공연장에서 입장 금지를 먹은 몸이거든.
+NPC-Fans(0)<Speaker>지휘관</Speaker><Position>0,-250</Position><Scale>1.7</Scale><同时置暗>||<分支>1</分支>:엥... 왜?
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<分支>1</分支>:그야, 많은 팬클럽들이 날 "악질 사생팬"이라 신고해서지.
+NPC-Fans(0)<Speaker>지휘관</Speaker><Position>0,-250</Position><Scale>1.7</Scale><同时置暗>||<分支>1</分支>:뭣...
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||<分支>1</分支>:오해 마셔, 난 사생팬 따위가 아니야. 그냐앙, 아이돌의 휴지통과 일상 생활에 좀 많이 관심 있을 뿐이지.
+()<Speaker>지휘관</Speaker>||:너어...!
+()<Speaker></Speaker>||:당신은 이 소녀가 질문을 회피하고자 일부러 헛소리한 것임을 단박에 간파했다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:조금 성질이 나 삿대질을 하려던 찰나, 이 소녀에게 손가락을 덥석 잡혀 버렸다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:너 계속 여기저기 들쑤시던데, 백스테이지로 갈 길 찾는 거지?
+NPC-Fans(0)<Speaker>지휘관</Speaker><Position>0,-250</Position><Scale>1.7</Scale><同时置暗>||:...그건 또 어떻게 알았대.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:보면 알지롱. 그리고 여기서 빠져나갈 샛길도.
+()<Speaker>지휘관</Speaker>||:......
+()<Speaker></Speaker>||:성질을 내려던 말들이 목구멍에 걸렸다.
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:따라와, 안내해 줄게.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>553</BIN><Night><SE1>AVG_Team_Running</SE1>:반신반의 하며 이 은발의 소녀를 따랐더니 과연, 금세 백스테이지로 이어지는 복도로 나왔다.+목구멍서 참았던 말을 꺼낼까 망설이던 중, 소녀는 벌써 떠나려 했다.
+()<Speaker>지휘관</Speaker>||:얼굴 트긴 했는데, 인사 안 하고 가려고?
+NPC-Fans(0)<Speaker>열성팬</Speaker><Position>0,-250</Position><Scale>1.7</Scale>||:사양할게, 지금은 너희끼리의 시간이니까.
+()<Speaker>지휘관</Speaker>||:그러냐. 배려해 줘서 고맙다.
+()<Speaker>열성팬</Speaker>||:지휘관, 네가 돌아오길 기다리는 사람들이 있다는 걸 잊지 마.
+()<Speaker>지휘관</Speaker>||:――어?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:고개를 돌렸을 때 복도엔 당신뿐이었다.
+()||<黑屏1><BGM>BGM_Empty</BGM><SE1>AVG_20Winter_Door_Open</SE1>:
+()<Speaker></Speaker>||<黑点2><BIN>617</BIN><关闭蒙版><SE1>AVG_20Winter_Door_Close</SE1>:VVVIP 대기실의 문을 연 순간, 요란한 굉음이 폭풍처럼 몰아쳤다.
+()<Speaker>니카이도 사키</Speaker>||<BGM>BGM_Saga_AVG_Day</BGM><SE1>AVG_Cheerful</SE1>:<size=50>성공이다아아아!!!</size>
+()<Speaker>야마다 타에</Speaker>||<震屏3><SE1>AVG_Rromantic</SE1>:<size=50>으어우어우와아!!</size> (엄청 흥분한 것 같다.)
+()<Speaker></Speaker>||:그 열기에 한순간 복잡한 기분이 들었다.+오직 오늘만을 위해 엄청난 노력을 했건만, 정작 이 순간을 맞이하니 당신은 오히려 위축됐다.+마치, 자정이 되기 전 허겁지겁 무도회를 떠나려는 신데렐라처럼.
+()<Speaker>지휘관</Speaker>||<黑点1>:......
+NPC-Sakura(14)<Speaker>미나모토 사쿠라</Speaker><Position>0,-250</Position><Scale>1.69</Scale>||<黑点2><BIN>470</BIN>:왜 이제 와요 지휘관!
+NPC-MizunoAi(9)<Speaker>미즈노 아이</Speaker><Position>60,-180</Position><Scale>1.47</Scale>||:얘네들, 지휘관 안 온다고 천장을 뜯어버릴 기세였어.
+()<Speaker></Speaker>||:당신은 싱긋 웃으며 신나서 난리인 소녀들에게 다가갔다.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:그리고 다가온 당신에게, 유우기리가 음료수 한 병을 건넸다.
+NPC-Yugiri(11)<Speaker>유우기리</Speaker><Position>180,-290</Position><Scale>1.8</Scale>||:샴페인 대신 탄산수예요. 당연히 우리의 제일공신께서 축배를 터뜨리셔야겠죠?
+NPC-Junko(15)<Speaker>콘노 준코</Speaker><Position>60,-290</Position><Scale>1.55</Scale>||:네! 정말, 저희를 위해 수고 많으셨어요...
+()<Speaker>지휘관</Speaker>||:엑, 너희 갑자기 왜 이렇게 격식 차려?
+NPC-Lily(17)<Speaker>호시카와 릴리</Speaker><Position>-40,30</Position><Scale>1.35</Scale>||:지휘관! 릴리 목 말라! 얼른 따 줘!
+()<Speaker>지휘관</Speaker>||:아, 알았어, 병따개가 어디 있을 텐데...
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><SE1>AVG_Creep</SE1><BGM>BGM_Empty</BGM>:여전히 복잡한 마음으로 구석의 테이블 위를 뒤졌다.+분명 다 끝나고 결과도 손에 넣었는데, 뭐가 이리도 불안한 건지.+지금 이 세상에서 가장 안전한 요새 안이라, 바깥의 비바람이 아무리 거세도 물방울 하나 튀지 않을 텐데.+아니면――
+()<Speaker>지휘관</Speaker>||:이게... 뭐지?
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:잡동사니에서 이상한 선글라스를 발견한 당신은, 귀신에 홀린 듯 그것을 썼다.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:그리고 매우 짙은 그 선글라스를 쓴 순간, 세상이 빛을 잃었다.
+()<Speaker></Speaker>||<SE1>AVG_AMB_waves_and_seagulls_oneshot</SE1>:파도가 배의 밑바닥에 부서지는 소리.+그리고 바닷가 특유의 짭조름한 공기에 섞인, 어렴풋한 꽃향기.
+()<Speaker>지휘관</Speaker>||:......뭐야?+뭐가 어떻게 된 거야?!
+()<Speaker></Speaker>||<SE1>Rope</SE1>:바로 선글라스를 벗어 던지려 했지만, 얼굴을 더듬는 손가락엔 아무것도 닿지 않았다.
+()<Speaker>？？？</Speaker>||:운명의 바퀴는 다시 돈다.
+()<Speaker>지휘관</Speaker>||:뭐야, 너 누구야? 그게 무슨 소리야?
+()<Speaker>？？？</Speaker>||:삶이란 한 그루의 나무. 시간은 비처럼 나무 위로부터 흘러내려, 모든 나뭇가지를 적시지.+나뭇가지마다 어떤 열매가 맺힐지, 너도 알고 싶지 않나?
+()<Speaker>지휘관</Speaker>||:말을 좀 알아듣게 해!
+()<Speaker>？？？</Speaker>||:이미 시작된 모든 것은 지금도 멈추지 않는다.
+()<Speaker></Speaker>||:파도가 부서지고, 수면을 가르는 소리. 이 배는 지금 바다 위를 빠르게 달리고 있었다.
+()||<黑屏1><SE1>Stop_AVG_loop</SE1>:
+()<Speaker></Speaker>||<睁眼><BIN>82</BIN>:눈이 뜨였다.+지금 당신은 이불과 뒤엉킨 상태로 바닥에 드러누워 있었다.
+()<Speaker>지휘관</Speaker>||:뭐지...
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:머릿속이 새하얬다. 엄청 긴 꿈을 꾼 것 같은데, 내용이 전혀 기억나질 않았다.
+()<Speaker>지휘관</Speaker>||:나는...
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐비빅!+그때, 탁상의 통신기가 요란하게 수신음을 울렸다.
+NPC-Kalin(4)<Speaker>카리나</Speaker><通讯框>||<BGM>BGM_Hello</BGM><震屏3>:<color=#00CCFF><size=50>어휴 드디어 받으셨네! 괜찮으세요 지휘관님!?</size></color>
+NPC-Kalin(4)<Speaker>지휘관</Speaker><同时置暗>||:음... 늦잠 잔 모양이네... 그리고 엄청 긴 꿈을 꾼 것 같은데...
+NPC-Kalin(4)<Speaker>카리나</Speaker>||:<color=#00CCFF>휴우, 무사하시면 다행이고요... 그런데, 무슨 꿈이었는데요?</color>
+NPC-Kalin(5)<Speaker>카리나</Speaker>||:<color=#00CCFF>혹시 제가 어디 사장이라도 돼서 지휘관님 막 무시하고 그러는 꿈이었어요?</color>
+NPC-Kalin(5)<Speaker>지휘관</Speaker><同时置暗>||:...기억이 안 나.
+NPC-Kalin(3)<Speaker>카리나</Speaker>||:<color=#00CCFF>에~이 뭐예요 그게. 아무튼 그럼 더 푹 쉬고 계세요, 오늘 예정이던 회의 금요일로 연기했어요.</color>
+NPC-Kalin(3)<Speaker>지휘관</Speaker><同时置暗>||:고마워, 카리나.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:<color=#00CCFF>천만에요~</color>
+()<Speaker></Speaker>||<SE1>AVG_tele_disconnect</SE1>:통신을 종료한 당신은 멍하니 모니터를 바라봤다. 화면은 여전히 그 선택지 앞에 머물러 있었다.+유치하고 우스꽝스러운 선택지를 다시 보니 피식 웃음이 났다.
+()<Speaker></Speaker>||:<color=#FFFF00>[다음 중 당신이 좋아하는 아이돌은 무엇입니까?]</color><c>A 상냥하고 활기 넘치는 메이드 아이돌<c>B 심장까지 휘어잡는 도도한 인형 아이돌<c>C 노래도, 랩도, 농구도 잘하는 올라운더 좀비 아이돌
+()<Speaker></Speaker>||:당신은 그냥 아무 선택지나 고르고선 일어나 방 정리를 시작했다.+커서가 당신의 결정을 무시하고, 스스로 C로 향하는 것도 모른 채.
+()||<黑点1>:
+()<Speaker></Speaker>||<黑点2><BIN>9</BIN><SE1>AVG_Card_Reader</SE1>:딸깍.+운명의 바퀴가 다시 움직이기 시작했다.
+()||<黑点1>:

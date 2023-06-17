@@ -1,0 +1,188 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑点2><BIN>448</BIN><common_effect>%%code=CJ_rain%%</common_effect><SE1>AVG_Amb_Rain_0</SE1>:아베르누스 서탑, 외부 플랫폼 구역.
+()||<BGM>GF_21summer_avg_Demon</BGM><SE1>Stop_AVG_loop</SE1>:포성이 점차 뜸해지자, 만신창이인 전장과 곳곳에 널브러진 주검들이 들어났다.
+()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:나르시스는 두 다리가 절단된 와중에도 여전히 악을 쓰며 부유검을 휘두르려 했다.+하지만 그녀에게 남은 무기는 더는 없었다.
+Narciss(2)<Shake>0.1</Shake><Speaker>나르시스</Speaker>||:죽여버릴 거야...! 버러지들... 잡아서 다 죽여버릴 거야아아...!
+BOSS-11(0)<Speaker>드리머</Speaker>||:......
+()||<SE1>Rope</SE1>:드리머는 나르시스의 머리를 가차없이 짓밟으며 잔인하게 미소지었다.
+BOSS-11(0)<Speaker>드리머</Speaker>||:그래? 그런데 지금 버러지꼴인 건 누굴까?
+Narciss(2)<Speaker>나르시스</Speaker>||:으극...! 죽어! 죽일 거야!! 다 죽여버릴 거야아아!!
+BOSS-6(0)<Speaker>디스트로이어</Speaker>||:작작 짖어대, 귀가 다 아프다!
+Narciss(3)<Shake>0.1</Shake><Speaker>나르시스</Speaker>||:아악으극——
+()||<SE1>Rope</SE1>:드리머는 아주 즐기는 표정으로 천천히 발에 힘을 주어 나르시스의 얼굴을 바닥에 파묻었다.+두 다리를 잃고 이젠 시야까지 빼앗긴 나르시스는 두려움에 비명을 내질렀지만, 목구멍에 걸려 밖으로 나오질 않았다.
+BOSS-5(0)<Speaker>알케미스트</Speaker>||:그만 놀고 저승으로 보내버리는 게 어떨까 하는데.
+BOSS-11(0)<Speaker>드리머</Speaker>||:그래~ 아직 일이 안 끝났으니 하는 수 없지 뭐.+디스트로이어, 처리해.
+BOSS-6(0)<Speaker>디스트로이어</Speaker>||:어.
+()||:디스트로이어가 바들바들 떠는 나르시스를 겨눴다.
+Narciss(3)<Speaker>나르시스</Speaker>||:시... 싫어...
+()||:마지막 순간이지만, 나르시스의 머릿속에 주마등 따윈 없었다.+즐거운 추억도, 소중한 이의 위로도 없고, 오로지 적적한 어둠뿐이었다.+한심한 눈물이 바닥을 적셨다.
+()||<黑点1>:
+()||<黑点2><BIN>9</BIN>:
+()<Speaker>나르시스</Speaker>||:싫어... 죽기 싫어어...
+()<Speaker>드리머</Speaker>||:그 느낌, 저승 가서도 잘 기억하렴. 그게 바로 쓰레기로 죽는 느낌이란다.
+()<Speaker>나르시스</Speaker>||:아니야... 난 쓰레기가 아니야...! 난――
+()<Speaker>디스트로이어</Speaker>||:두 녀석들 몫이나 먹어.
+()||<SE1>Explode</SE1><BGM>BGM_Empty</BGM>:퍼엉!
+()||<黑点1>:
+()||<黑点2><BIN>448</BIN>:
+BOSS-5(0)<Speaker>알케미스트</Speaker>||<BGM>GF_22W_BGM_3</BGM>:저지, 아키텍트와 게이저를 회수했다.
+BossJustice(0)<Speaker>저지</Speaker>||:알았다, D팀도 집결했다.
+BOSS-4(0)<Speaker>인트루더</Speaker>||:서탑 내에 화력 포인트랄 만한 것이 얼마 남지 않았어서 수고를 덜었습니다.
+BOSS-2(0)<Speaker>엑스큐셔너</Speaker>||:시시하게 말이야!
+BossJustice(0)<Speaker>저지</Speaker>||:......+우리의 임무를 잊지 마라.
+()||<SE1>AVG_whitenoise</SE1>:저지가 무로메츠 공용 채널을 열었다.
+BossJustice(0)<Speaker>저지</Speaker>||:여기는 Fe56. D팀이 서탑의 대외 화력 포인트를 전부 철거했고, C팀은 지금부터 플랫폼 위의 잔당을 청소하겠다.+플랫폼 위 풍향은 남풍, 7시 방향에 붕괴 입자 농도가 가장 높다. 우천으로 은폐에 용이하므로 시뮬레이션 플랜 B에 따라 동탑으로 접근 가능하다.
+NPC-SCAR-L(0)<通讯框><Speaker>엘리아나</Speaker>||:<color=#00CCFF>서광, 수신. 움직인다.</color>
+()||<黑点1>:
+()||<黑点2><关闭蒙版><BIN>459</BIN>:아베르누스 동탑, 로비.
+()||<SE1>AVG_Gunfire</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:폭우가 여전히 쏟아지는 가운데, 빗소리와 포성이 뒤섞여 빠른 템포를 이루었다.
+()<Speaker>SCR</Speaker>||<SE1>Stop_AVG_loop</SE1>:B팀, 북문 폭파 성공.
+()<Speaker>엘리아나</Speaker>||:A팀 전진한다, B팀 엄호.
+()||<SE1>Explode</SE1>:퍼엉!+문이 거칠게 열렸다.
+()||<SE2>Gunfight</SE2>:타타타탕!+서광팀은 빠르게 돌입하며 화망을 펼쳤고,+미처 철수하지 못한 니토들은 지푸라기처럼 쓰러졌다.
+M26MASS(0)<Position>-200,80</Position><Speaker>M26-MASS</Speaker>||:좌측 클리어.
+Contender(0)<Speaker>컨텐더</Speaker>||:우측 클리어.
+M82A1(0)<Speaker>M82A1</Speaker>||:......
+()||:M82A1이 말없이 동쪽 계단의 모퉁이를 주시하더니――
+()||<SE1>AVG_rifle_finalshot_h</SE1>:타앙!+니토 하나가 힘없이 고꾸라졌다.
+M82A1(0)<Speaker>M82A1</Speaker>||:매복 없음.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:현위치서 경계.
+()||<SE1>AVG_Walk</SE1>:대원들에게 제자리서 대기 지시를 내리고, 엘리아나는 총을 들고 홀로 로비 깊숙이로 들어갔다.
+()||<SE1>Stop_AVG_loop</SE1>:적막해진 로비에는 검으로 하늘을 가리키며 운명에 저항하는 듯한 머리 없는 여신상만 보였다.
+Contender(0)<Speaker>컨텐더</Speaker>||:지도상 여기가 예배당인 것 같군.
+M26MASS(0)<Position>-200,80</Position><Speaker>M26-MASS</Speaker>||:대장, 계속 전진할까?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:기다려, B팀이 먼저 진입한다.
+NPC-SCR(0)<Speaker>SCR</Speaker>||:라저.
+()||:엘리아나가 수신호로 대원들을 불렀고, B팀은 지휘하는 SCR를 선두로 로비에 들어섰다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:클리어. B팀, 2층으로.+M82A1, 엄호.
+M82A1(0)<Speaker>M82A1</Speaker>||:예.
+()||<黑点1>:
+()||<黑点2><BIN>461</BIN>:
+()||:어두운 복도를 따라, B팀은 신속하면서도 조심스럽게 계단을 올랐다.+A팀과 M82A1은 그 뒤를 바짝 따랐다.+새로운 층에 도달하자, SCR은 상황 확인 지시를 내렸다.
+M60(0)<Position>0,-50</Position><Speaker>M60</Speaker>||:클리어!
+M249SAW(0)<Speaker>M249SAW</Speaker>||:클리어~
+NPC-SCR(0)<Speaker>SCR</Speaker>||:구역 안전 확인, 계속 전진.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:A팀, 따라간다.
+()||<SE1>AVG_20Winter_Knife_Whoosh</SE1><BGM>BGM_Empty</BGM>:그런데 어둠 속에서 바람 소리가 들리더니, 뒤이어 무언가 털썩 쓰러지는 소리가 났다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<BGM>GF_21summer_avg_SecretAgent</BGM>:......!
+()||:엘리아나는 즉각 지시를 내려 대형을 축소하고 주위를 경계했다.
+NPC-SCR(0)<Speaker>SCR</Speaker>||:...M60의 신호가 사라졌어.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:알아.
+()||:상대는 초고속에, 아마도 냉병기를 다루는 암살자.+ 고위 니토 "틸".+엘리아나는 속으로 판단하며 밀집 대형에서 홀로 나와 어둠에 발을 내디뎠다.
+()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:그러자 예상대로, 암살자가 다시 어둠 속에서 습격해 왔다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:M82A1.
+M82A1(0)<Speaker>M82A1</Speaker>||:Ready.
+()||<SE1>AVG_rifle_finalshot_h</SE1>:이미 준비되어 있던 저격탄이 곧장 날아갔고, 암살자는 탄환을 막기 위해 손목을 꺾어야만 했다.
+()||<SE1>AVG_2022Saros_SCARL3</SE1>:엘리아나도 바로 빈틈을 노려 암살자를 향해 사격을 가했다.
+NPC-grig(0)<Speaker>틸</Speaker>||:......
+()||:하얀 암살자는 다시 어둠 속으로 사라졌다.+하지만 엘리아나는 뒤쫓지 않고, 손을 들어 모두에게 제자리서 경계하도록 지시했다.
+()||<SE1>AVG_Sword_Scope</SE1>:쉬익!+아니나 다를까, 칼날이 다시 한 번 어둠을 가르며 뭉쳐 있는 서광팀에게 닥쳐왔다.+엘리아나의 지휘를 받으며, 서광팀은 이번엔 깔끔하게 산개하며 반격을 퍼부었다.
+()||<SE1>AVG_Bullte_Ricochet</SE1>:틸은 검을 휘두르며 총탄을 모조리 튕겨내며 다시 어둠 속으로 숨어들었다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:맞받아치기만 해선 불리해져. 반격한다.
+NPC-SCR(0)<Speaker>SCR</Speaker>||:응!
+M82A1(0)<Speaker>M82A1</Speaker>||:적이 하나가 아닙니다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......
+NPC-SCR(0)<Speaker>SCR</Speaker>||:대장, M249가 안 보여...
+Contender(0)<Speaker>컨텐더</Speaker>||:어느새?! 분명 방금까지...
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:침착해라.+위치 확인.
+M82A1(0)<Speaker>M82A1</Speaker>||:신호 오프라인입니다.
+NPC-SCR(0)<Speaker>SCR</Speaker>||:......
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:브라메드다.+전원, 3분마다 상황 확인하며 전진한다.
+()||:여전히 냉철한 엘리아나의 지시를 따라, 서광팀은 로비 더 깊숙이로 나아갔다.
+()||<黑点1>:
+()||<黑点2><BIN>9</BIN>:
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:어머나... 이번엔 상대가 만만찮네.+내 공격이 먹히질 않는다니.
+NPC-grig(0)<Speaker>틸</Speaker>||:......
+()||:틸은 조용히 몸에 묻은 피를 닦았다.
+NPC-grig(0)<Speaker>틸</Speaker>||:그럼 더 쓸모 있는 데로 가시지.
+NPC-Bramedb(4)<Speaker>브라메드</Speaker>||:성내지 말구우, 다른 수도 시도해 봐야지?
+NPC-grig(0)<Speaker>틸</Speaker>||:쉿, 온다.
+()||:틸의 뒷모습이 빠르게 어둠 속으로 사라졌고, 브라메드는 잠깐 멍하니 있다 나른한 표정으로 그 뒤를 따랐다.
+()||<黑点1>:
+()||<黑点2><BIN>461</BIN>:
+()||:아베르누스 동탑, 4층.
+NPC-SCR(0)<Speaker>SCR</Speaker>||:클리어!
+Contender(0)<Speaker>컨텐더</Speaker>||:클리어!
+M26MASS(0)<Position>-200,80</Position><Speaker>M26-MASS</Speaker>||:적 없음!
+()||:깔끔하게 배치를 마치고, 엘리아나는 M82A1의 엄호를 받으며 천천히 계단을 올랐다.+나선 계단을 오르는 발소리는 불길하게 물결쳤다.+하지만 위아래 두 층 전부 적의 낌새도 나지 않아, 엘리아나는 잠시 총구를 내렸다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:클리어.
+()<Speaker>？？？</Speaker>||<SE1>AVG_whitenoise</SE1><BGM>BGM_Empty</BGM>:......히힛.
+()||:그때, 기이한 비웃음에 엘리아나가 다시 경계 태세를 취했다.
+NPC-SCR(0)<Speaker>SCR</Speaker>||<BGM>m_avg_labyrinth</BGM>:대장? 왜 그래?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......
+()||:엘리아나는 침착하게 통신 대신 수신호로 대원들에게 경계 태세 지시를 내렸다.
+()<Speaker>？？？</Speaker>||:아아... 넌 저들과 다르구나.
+()||<黑点1>:
+()||<黑点2><BIN>9</BIN>:
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......
+()<Speaker>？？？</Speaker>||:숨기는 게 잔뜩이야... 어머, 그것도 다 슬픈 이야기뿐이네...
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......
+()<Speaker>？？？</Speaker>||:널 보니 시가 하나 생각나는걸...+"기원전의 우린 너무 어렸고,"+"기원후엔 너무 늙었네."
+()||:엘리아나가 고개를 홱 돌린 뒤에, 언제 나타났는지 모를 백발의 여인이 있었다.+브리핑에서 본 "브라메드"의 정보와 일치했다.
+()||<黑点1>:
+()||<黑点2><BIN>247</BIN>:
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:"아무도 보지 못했지,"+"참으로 아름다웠던 그 미소를."
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:브라메드... 언제 나를 레벨 2 플랫폼으로 끌고 온 거지?
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:눈치챘어?+하지만 그게 무슨 상관이야, 넌 이제부터 계속 여기 있을 텐데.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:그러는 너는?
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:그야 당연히 네 곁에 있어 줄게, 혼자 있으면 얼마나 외롭겠니?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:흠, 예상보다 해킹이 빠르군.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:어라, 전혀 안 당황하는 눈치다?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:10초.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:응?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:3——+2——+1——
+()||<BIN>9</BIN><SE1>AVG_2022Saros_SCARL3</SE1><BGM>GF_21summer_battle_3</BGM>:타타타탕!
+()||:브라메드가 몸을 숨긴 곳으로 맹렬한 총알 세례가 쏟아져, 그녀는 황급히 다른 엄폐물로 피했다.+동시에 엘리아나도 다시 눈을 뜨고 브라메드를 향해 제압 사격을 가했다.
+()||<黑屏1>:
+()||<睁眼><BIN>461</BIN>:
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:너어... 보기보다 훨씬 성가시구나?+살짝 더 흥미가 생겼어.+널 동요하게 만들면 얼마나 아름다운 그림이 그려질지 말이야.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:M26, 놈과 거리를 유지해.
+M26MASS(0)<Position>-200,80</Position><Speaker>M26-MASS</Speaker>||:알았어!
+()||<SE1>AVG_Cloak_Whoosh</SE1><controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:M26-MASS는 재빨리 난간을 넘어 아래층으로 내려갔다.
+()||<SE1>AVG_2022Saros_SCARL3</SE1>:윗층을 향한 제압 사격은 계속되었지만...
+()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:쉬익!+칼날이 다시 번쩍였고,+브라메드의 모습이 사라졌다.
+()||<黑点1>:
+()||<黑点2><BGM>BGM_Empty</BGM><BIN>9</BIN>:......
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||<BGM>GF_22W_BGM_1</BGM>:아이 참, 내가 실수하는 날도 다 있네...
+()||<SE1>AVG_Cloak_Whoosh</SE1>:틸은 부상을 입은 브라메드를 바닥에 내려놨다.
+NPC-grig(0)<Speaker>틸</Speaker>||:철수해라, 여긴 내게 맡기고.
+NPC-grig(0);NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:철수? 너 혼자서는 여길 못 지킬 텐데?
+NPC-grig(0)<Speaker>틸</Speaker>;NPC-Bramedb(3)||:우리는 시간을 끌으란 명령만 받았다. 그런 일쯤, 나 혼자서 할 수 있어.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:하하, 이리도 순진무구하다니... 그레이가 너를 참 곱게도 키웠구나.
+()||:틸의 안색이 폭풍우 직전의 하늘처럼 변했다.+하지만 브라메드는 이를 못본 척하며 계속 입을 놀렸다.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:그러고 보니, "그때"랑 지금 상황이 꽤 비슷하네에...
+NPC-grig(0)<Speaker>틸</Speaker>;NPC-Bramedb(3)||:.....+그레이는... 이런 적을 혼자서 둘이나 상대한 건가?
+NPC-grig(0);NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:맞아, 처음엔 제법 주고받고 하면서 선전했지.+그런데 부상 때문에 갈수록 움직임이 느려졌고...+놈들은 피냄새를 맡은 하이에나처럼――
+NPC-grig(0)<Speaker>틸</Speaker>;NPC-Bramedb(3)||:그만.
+NPC-grig(0);NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:아아 미안, 아직 슬픔에서 헤어나오지 못했단 걸 깜빡했네.
+NPC-grig(0)<Speaker>틸</Speaker>;NPC-Bramedb(3)||:......
+NPC-grig(0);NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:그래서 방금 뭐랬더라? 철수하자고?
+NPC-grig(0)<Speaker>틸</Speaker>||:이런 상황에서 시시하게 날 도발하려 하지 마라.+난 철수하겠다. 따라올지 말지 알아서 해라.
+()||:그 말대로, 틸은 검을 검집에 꽂고 떠나려 했다.+그런데 브라메드가 틸을 가로막더니, 그녀의 냉철한 얼굴을 응시하다 이를 악물며 한숨을 쉬었다.
+NPC-Bramedb(3)<Speaker>브라메드</Speaker>||:하아... 이렇게까지 하긴 싫었는데.
+()||<黑点1>:
+()||<黑点2><BIN>451</BIN><SE1>AVG_whitenoise</SE1>:......
+()<Speaker>브라메드</Speaker>||:보이니?
+()<Speaker>브라메드</Speaker>||:바로 그날, 바로 그때.+그렇게 높은 곳에서 떨어져서...
+()<Speaker>틸</Speaker>||:......
+()<Speaker>브라메드</Speaker>||:떨어질 때, 혼자여서 엄청 무서웠겠지?
+()<Speaker>틸</Speaker>||:......
+()<Speaker>브라메드</Speaker>||:분명 무서웠을 텐데, 계속 너를 위로했지... 여신상의 칼에 꽂힐 때까지...
+()<Speaker>틸</Speaker>||:......못했어... 구하지 못했어... 내가, 쓰레기라서... 따라잡지...
+()<Speaker>브라메드</Speaker>||:괜찮아, 복수하면 돼. 저기 봐, 지금 원수들이 바로 저기 있잖아...?
+()<Speaker>틸</Speaker>||:원수... 복수를... 죽여버리겠어...
+()<Speaker>브라메드</Speaker>||:그래, 죽여버려.+네 목숨을 걸고, 녀석들한테도 그레이가 겪었을 고통을 맛보여 주는 거야!
+()||:틸은 점점 다른 소리가 들리지 않았다. 물에 잠겨, 덩굴에 휘감겨 질식해 가듯이.
+()||<黑屏1>:
+()||<黑屏2><BIN>461</BIN><BGM>BGM_Empty</BGM>:
+M82A1(0)<Speaker>M82A1</Speaker>||:조용해졌습니다.
+NPC-SCR(0)<Speaker>SCR</Speaker>||:퇴각한 걸까?
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||<SE1>AVG_2022Saros_SCARL1</SE1>:경계 늦추지 말고 계속 전진한다.
+()||<SE1>AVG_Sword_Scope</SE1><BGM>GF_21summer_avg_Reunion</BGM>:돌연 번뜩인 칼날.+그 찰나의 섬광에 인형 몇 명이 놀라 뒷걸음질쳤다.
+NPC-grig(0)<Speaker>틸</Speaker>||:......
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:......
+()||<SE1>AVG_2022Saros_SCARL3</SE1>:여러 발의 총알이 틸의 잔상을 쫓았지만, 한 발도 맞추지 못했다.
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:...심상찮군.
+NPC-SCR(4)<Speaker>SCR</Speaker>||:아까보다 훨씬 빨라!
+NPC-SCAR-L(0)<Speaker>엘리아나</Speaker>||:임무 목표 조정, 고위 니토 "틸"을 섬멸한다.
+()||<黑点1>:

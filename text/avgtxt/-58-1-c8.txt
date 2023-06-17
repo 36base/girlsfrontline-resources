@@ -1,0 +1,232 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+NPC-Pamzan(12)<Speaker>강글라티</Speaker><Position>0,-70</Position>||<BIN>658</BIN><Night><黑屏2><BGM>10082</BGM>:크하하하핫...!
+()||:총은 이미 탄약이 바닥난 상태였지만, 그는 낮고도 거만하게 웃어젖혔다.+반면 안젤리아는 악으로 권총을 들었지만, 떨리는 손가락으로 방아쇠를 당기지 않았다.
+NPC-Pamzan(12)<Speaker>강글라티</Speaker><Position>0,-70</Position>||:왜 안 쏘지? 내가 잘못 센 게 아니라면 아직 한 발 남았을 텐데.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;NPC-Pamzan(12)<Position>0,-70</Position>||:......
+NPC-Ange(19);NPC-Pamzan(12)<Speaker>강글라티</Speaker><Position>0,-70</Position>||:혹시, 자신을 위해 남기려는 거냐?
+NPC-Ange(22)<Speaker>안젤리아</Speaker>;NPC-Pamzan(12)<Position>0,-70</Position>||:말해 줘, 대체 무슨 일이 있었던 거야?+네 몸에 대체 무슨 일이 있었던 거냐고!
+NPC-Ange(22);NPC-Pamzan(13)<Speaker>강글라티</Speaker><Position>0,-70</Position>||:너는 그런 질문 할 자격 없어!+모든 비극의 원흉이, 형과 사나를 죽인 네놈이...!
+NPC-Ange(22)<Speaker>안젤리아</Speaker>;NPC-Pamzan(13)<Position>0,-70</Position>||:그게 대체 무슨 소리야?!+베슬란의 일을 잊었어!?
+NPC-Pamzan(13)<Speaker>강글라티</Speaker><Position>0,-70</Position>||<黑屏1>:죽어서도 잊을 수 없지!+베슬란에서, 그들이... 모두 네 총에 맞고 죽었는데!
+NPC-Ahmin(0)<Speaker>아흐민</Speaker>||<黑屏2><BIN>654</BIN><边框>2</边框>:안젤리아... 어째서?
+NPC-Sana(3)<Speaker>사나</Speaker><Position>0,210</Position>||<边框>2</边框>:언니, 총 치워... 무서워...
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<边框>2</边框>:......
+()||<边框>2</边框>:아흐민과 사나가 애원해도, 안젤리아는 총을 놓지 않았다.
+()<Speaker>강글라티</Speaker>||<边框>2</边框>:뭐하는 거야 안젤리아! 당장 총 내려놔!
+NPC-Ange(20)<Speaker>안젤리아</Speaker>||<边框>2</边框>:......
+()||<SE1>RunStep</SE1><边框>2</边框>:뒤늦게 달려온 강글라티의 고함을 들은 안젤리아는 그저, 고개를 돌려 그를 보며 비웃었다.
+()||<BIN>9</BIN><SE1>AVG_rifle_finalshot_h</SE1>:타앙!
+()||<SE1>AVG_rifle_finalshot_3h</SE1><黑屏1>:탕탕탕!
+NPC-Pamzan(10)<Speaker>강글라티</Speaker><Position>0,-70</Position>||<黑屏2><BIN>658</BIN><Night>:죽여버리겠어! 지금 당장 죽여버리겠어!
+()||<SE1>RunStep</SE1>:분노가 치밀어 올라, 그는 텅 빈 총을 냅다 버리고 안젤리아에게 달려들었다.
+()||<SE1>ClothingUp</SE1>:안젤리아는 바로 다른 엄폐물 뒤로 몸을 던졌다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:그건 또 무슨 헛소리야! 내가 그들한테 총을 겨눌 리가 없는데...
+NPC-Pamzan(13)<Speaker>강글라티</Speaker><Position>0,-70</Position>||:<size=50>죽인다! 죽인다! 죽인다!</size>
+()||<SE1>RunStep</SE1><黑屏1>:분노로 피가 들끓어, 그는 손에 쥔 칼을 마구잡이로 휘둘렀다.
+NPC-Sana(1)<Speaker>사나</Speaker><Position>0,210</Position>||<黑屏2><BIN>129</BIN><边框>2</边框>:선생님 언제 와?
+NPC-Ahmin(1)<Speaker>아흐민</Speaker>||<边框>2</边框>:금방 오실 거야. 먼저 우유 식기 전에 마실까?
+NPC-Sana(3)<Speaker>사나</Speaker><Position>0,210</Position>||<边框>2</边框>:나 우유 싫어, 오빠가 대신 마셔 줘!
+()||<边框>2</边框>:따끈따끈한 우유컵이 그에게 내밀어졌다.
+()<Speaker>강글라티</Speaker>||<边框>2</边框>:그럼 안 되지 사나, 선생님이 오셨을 때 네가 우유 안 마신 걸 알면 안 놀러 데리고 가실 거야.
+NPC-Sana(4)<Speaker>사나</Speaker><Position>0,210</Position>||<边框>2</边框>:그건 싫은데... 흥, 오빠들 미워!
+()||<黑屏1><边框>2</边框>:두 오빠의 상냥한 눈빛을 받으며, 사나는 우유컵을 비웠다.
+NPC-Pamzan(13)<Speaker>강글라티</Speaker><Position>0,-70</Position>||<黑屏2><BIN>658</BIN><Night>:그 어린 애를... 총으로 쏴 죽여?+그렇게 순진하고 착했던 아이를...!+왜 네가 안 죽고 그 애가 죽어야 했지?! 왜!
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:강글라티...+네 이름이 강글라티라고? 아니야!+네 이름은 그게 아니야! 진짜 이름을 떠올려 봐!
+()||<SE1>AVG_Sword_Scope</SE1>:분노로 일그러진 얼굴로 포효하며, 그는 안젤리아가 숨은 엄폐물로 뛰어들었다.
+NPC-Pamzan(10)<Speaker>강글라티?</Speaker><Position>0,-70</Position>||:지금 당장―― 죽여 주마!!!
+()||<SE1>AVG_20Winter_Knife_Whoosh</SE1><黑屏1>:광소와 함께 그의 칼이 번쩍였다.
+()||<黑屏2><BIN>7</BIN><SE1>AVG_pistol_finalshot_sup</SE1><边框>2</边框>:타앙――!+작고 노란 새가 추락해, 어깨까지 쌓인 눈밭에 툭 떨어졌다.
+NPC-Sana(3)<Speaker>사나</Speaker><Position>0,210</Position>||<边框>2</边框>:앗... 내가... 내가 죽였어... 으으...
+NPC-Sana(3)<Speaker>강글라티</Speaker><Position>0,210</Position><同时置暗>||<边框>2</边框>:사나, 울지 마.
+NPC-Sana(3)<Speaker>사나</Speaker><Position>0,210</Position>||<边框>2</边框>:으에엥... 일부러 쏜 거 아닌데...+새 죽일 마음 없었는데...
+NPC-Sana(3)<Speaker>강글라티</Speaker><Position>0,210</Position><同时置暗>||<边框>2</边框>:나도 알아, 그냥 나랑 함께 총놀이가 하고 싶었을 뿐이잖아. 사나는 잘못한 거 없으니까 울음 뚝.
+NPC-Sana(3)<Speaker>사나</Speaker><Position>0,210</Position>||<边框>2</边框>:그치만 죽였는걸... 우에엥...
+NPC-Sana(3)<Speaker>강글라티</Speaker><Position>0,210</Position><同时置暗>||<边框>2</边框>:자아 착하지? 울지 말고, 가서 선생님께 말씀드리자. 분명 방법이 있을 거야.
+NPC-Sana(4)<Speaker>사나</Speaker><Position>0,210</Position>||<边框>2</边框>:저... 정말로...?
+NPC-Sana(4)<Speaker>강글라티</Speaker><Position>0,210</Position><同时置暗>||<边框>2</边框>:그럼. 나도 이렇게 구해주셨는데, 작은 새면 얼마든지 구해주시겠지.
+()||<黑屏1><边框>2</边框>:눈물 범벅인 사나의 얼굴을 닦아 주고, 강글라티는 함께 손을 잡고 눈밭 깊은 곳으로 걸어갔다.
+NPC-Pamzan(10)<Speaker>강글라티?</Speaker><Position>0,-70</Position>||<Night><黑屏2><BIN>658</BIN><BGM>BGM_Empty</BGM>:사나는... 실수로 새 한 마리를 죽이고도 엉엉 우는 아이였는데...
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+NPC-Pamzan(10)<Speaker>강글라티?</Speaker><Position>0,-70</Position>||:그런 사나를... 네가 어떻게!+내 하나뿐인 동생을, 나와 형이 함께 지켜주려 했던 여동생을...!
+()||<SE1>Rope</SE1>:그는 안젤리아의 목을 움켜잡고 들어올렸다.+질식당해 안색은 점점 창백해졌고, 오른다리의 무릎 아래가 사라져 피가 철철 흘렀다.
+NPC-Ange(21)<Speaker>안젤리아</Speaker>||<BGM>10244</BGM>:...나, 안 울었어.
+NPC-Ange(21);NPC-Pamzan(10)<Speaker>강글라티?</Speaker><Position>0,-70</Position>||:아앙?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;NPC-Pamzan(10)<Position>0,-70</Position>||:그 새를 죽였을 때, 난 안 울었다고...!
+NPC-Ange(19);NPC-Pamzan(10)<Speaker>강글라티?</Speaker><Position>0,-70</Position>||:무슨 헛소리야?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;NPC-Pamzan(10)<Position>0,-70</Position>||:네가...+네가 그 죽은 새를 집어서...+네가 일부러 쐈다고 나한테 거짓말했어...
+NPC-Ange(19);NPC-Pamzan(10)<Speaker>강글라티?</Speaker><Position>0,-70</Position>||:......?
+NPC-Ange(22)<Speaker>안젤리아</Speaker>;NPC-Pamzan(10)<Position>0,-70</Position>||:그 거짓말에... 난 네가 진짜 그렇게 못돼먹은 놈인 줄 알고...+널 두들겨 팼지...
+NPC-Pamzan(13)<Speaker>강글라티?</Speaker><Position>0,-70</Position>||:닥쳐! 무슨 헛소리냐고!
+()||<SE1>Rope</SE1>:안젤리아는 충혈된 눈으로, 필사적으로 목을 움켜쥔 손을 풀어 산소를 한 모금이라도 마시려 했지만, 혼란에 빠진 "강글라티"는 오히려 손을 더 세게 움켜쥐었다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:큭... 이거 놔... 람잔...!
+NPC-Pamzan(13)<Speaker>강글라티?</Speaker><Position>0,-70</Position>||:<size=50>닥쳐! 닥쳐!! 닥쳐!!!</size>
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:너는... 람잔이야!+강글라티가... 아니라고...
+NPC-Pamzan(13)<Speaker>강글라티?</Speaker><Position>0,-70</Position>||:내 이름은 강글라티다!!+그딴 이름으로 부르지――
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:람...자아안!!
+()||<SE1>Rope</SE1>:발버둥치며, 그녀가 방아쇠를 당겼다.
+()||<SE1>AVG_pistol_finalshot_n</SE1>:타앙!+삐뚤어진 각도로 발사된 총알은 그의 관자놀이를 스쳐, 느슨해진 지 한참된 그걸 떨어뜨렸다.
+NPC-Pamzan(11)<Speaker>강글라티?</Speaker><Position>0,-70</Position>||:――?!
+()||<SE1>AVG_20Winter_Chains_Break</SE1><黑屏1><BGM>BGM_Empty</BGM>:신경 안정기가 떨어진 순간,+노이즈가 해일처럼 밀려들었다.
+()||<黑屏2><回忆><BIN>7</BIN><SE1>AVG_pistol_finalshot_sup</SE1>:타앙――!+작고 노란 새가 추락해, 어깨까지 쌓인 눈밭에 툭 떨어졌다.
+NPC-Ange(33)<Speaker>안나</Speaker>||<BGM>BGM_23S_Winter_Night</BGM>:......
+NPC-Pamzan(1)<Speaker>람잔</Speaker>||:앗... 새가 떨어졌다.
+NPC-Ange(34)<Speaker>안나</Speaker>||:저거... 내 총알에 맞은 거 같아...
+NPC-Pamzan(1)<Speaker>람잔</Speaker>||:......
+()||:안나는 창백하게 질린 얼굴로 입술을 깨무는 것이, 죄악감과 싸우는 게 눈에 훤히 보였다.
+NPC-Pamzan(2)<Speaker>람잔</Speaker>||:......+뻥치시네!
+NPC-Ange(36)<Speaker>안나</Speaker>||:...뭐?
+NPC-Pamzan(0)<Speaker>람잔</Speaker>||:내가 맞춘 거거든? 네가 무슨 실력으로 저걸 맞추냐?
+NPC-Ange(37)<Speaker>안나</Speaker>||:......
+NPC-Pamzan(0)<Speaker>람잔</Speaker>||:내가 한참을 조준해서 겨우 맞힌 거거든?+내가 진심으로 너랑 총놀이 해 줄 줄 알았냐? 너 너무 허접해서 새나 쏘는 게 더 재밌다구!
+NPC-Ange(37)<Speaker>안나</Speaker>||:...진짜?
+()||:안나의 얼굴에서 자괴감이 경멸로 변했다.
+NPC-Pamzan(0)<Speaker>람잔</Speaker>||:그럼 진짜지! 어떠냐, 나 쩔지?
+()||<SE1>AVG_Punch_Hit</SE1><黑屏1>:그 건방 떠는 얼굴에 안나의 주먹이 꽂혔다.+어린 시절의 수많은 오후처럼 둘은 또 들러붙어 싸웠고, 또 장남이 와서 둘을 간신히 떼어내야 했다.
+NPC-Pamzan(10)<Speaker>람잔?</Speaker><Position>0,-70</Position>||<黑屏2><关闭蒙版><BIN>658</BIN>:――안나?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+()||:그가 망연하게 손을 놓았고, 안젤리아는 그대로 바닥에 쓰러졌다.
+NPC-Pamzan(10)<Speaker>람잔?</Speaker><Position>0,-70</Position><Shake>||:아니야... 거짓말!+믿지 않아, 믿지 못해!+안나가 아니야... 사나라고...
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:그때... 나가기 전에, 어떻게든 널 이기려고...+내가 몰래... 네 총에서 총알, 절반 정도 뺐어...
+NPC-Pamzan(10)<Speaker>람잔?</Speaker><Position>0,-70</Position>||:.....
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:그래서 그렇게 놀다 자작나무 숲까지 갔을 때... 넌 진작에 총알이 바닥났었지...
+NPC-Pamzan(10)<Speaker>람잔?</Speaker><Position>0,-70</Position>||:......
+NPC-Ange(20)<Speaker>안젤리아</Speaker>||:람잔... 너는 람잔이야...
+()||<SE1>AVG_Sword_Scope</SE1>:그는 신경질적으로 칼을 바닥에 내동댕이쳤다.
+NPC-Pamzan(11)<Speaker>람잔?</Speaker><Position>0,-70</Position>||:나는... 나는 람잔이 아니야...+나는 강글라티... 죽음의 올가미에서 풀려나 현세로 되돌아온 강글라티 대위라고!
+NPC-Pamzan(13)<Speaker>람잔?</Speaker><Position>0,-70</Position>||:선생님께서 내게 새 생명을 주셨어! 그분이 날 속였을 리 없어!
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<黑点1>:내가 네 동생이야... 람잔 대위...+우린... 함께 어깨를 맞대고 싸우고...+나는... 네가 죽는 모습을... 똑똑히 지켜봤어...
+NPC-Laplace(6)<Speaker>라플라스</Speaker>||<黑点2><回忆><BIN>547</BIN><黑点1>:......
+NPC-Pamzan(10)<Speaker>람잔?</Speaker><Position>0,-70</Position>||<黑点2><关闭蒙版><BIN>658</BIN>:<size=50>거짓말! 거짓말하지 마!</size>
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:너는 이미 죽은 몸이야...!+지금의 너는... 괴물이라고...
+()||<SE1>AVG_lifttable</SE1><BGM>BGM_Empty</BGM>:그가 안젤리아의 앞의 엄폐물을 뜯어 옥상 밖으로 내던졌다.+그의 발치에 쓰러진 안젤리아는 지금 간신히 숨만 붙은 상태였다.
+NPC-Pamzan(12)<Speaker>람잔?</Speaker><Position>0,-70</Position>||:괴물... 괴물...?
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:람잔...+난 용납 못해...+아니... 너도 스스로가 그런 꼴인 걸... 용납 못하잖아...+그딴 꼴로 살아있는 걸... 어떻게 용납할 수 있어...?
+NPC-Pamzan(10)<Speaker>람잔?</Speaker><Position>0,-70</Position>||:다 형 아흐민을 위해서!+사나를 위해서...?+사나? 아니... 안나?
+()||:안젤리아는 눈을 질끈 감아 눈물을 참았다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:......람잔 오빠.
+NPC-Pamzan(11)<Speaker>람잔?</Speaker><Position>0,-70</Position><Shake>||:...뭐어?
+()||<黑屏1><BGM>10258</BGM>:창백해진 안젤리아의 얼굴이, 기억 속 그 앳된 얼굴과 겹쳐 보였다.
+NPC-Ange(33)<Speaker>안나</Speaker>||<黑屏2><BIN>6</BIN><回忆><common_effect>%%code=AVG_xiaxue%%</common_effect>:......
+NPC-Pamzan(1)<Speaker>람잔</Speaker>||:......
+()||:오두막 앞 새하얀 눈밭 위에서, 두 사람은 멀뚱멀뚱 서로를 마주봤다.+람잔은 예고도 없이 나타난 이 소녀를 호기심 어린 눈빛으로 살폈다. 마르고 작은 몸집에, 추운데도 얇은 교복 한 벌만 입은 소녀.+눈빛은 죽은 듯 고요했고, 시선은 람잔을 향했지만 왠지 그를 지나 더 먼 곳을 바라보는 듯한 기분이 들었다.
+NPC-Pamzan(1)<Speaker>람잔</Speaker>||:너... 누구야?
+NPC-Ange(33)<Speaker>안나</Speaker>||:......
+()||:뒤에서 눈발을 헤치고 오는 소리가 들리니, 바로 외투를 들고 오는 형 아흐민이었다.+형은 그 소녀에게 달려가, 외투를 둘러 주었다.
+NPC-Ahmin(0)<Speaker>아흐민</Speaker>||:람잔, 멍때리고 뭐해? 들어가서 물 끓이고 먹을 것 좀 꺼내.
+NPC-Pamzan(1)<Speaker>람잔</Speaker>||:갑자기 왜?
+NPC-Ahmin(0)<Speaker>아흐민</Speaker>||:얘는 안나야, 오늘부터 우리 동생이지.
+NPC-Pamzan(3)<Speaker>람잔</Speaker>||:엥...?! 나 여동생 필요 없거든!?
+NPC-Ahmin(0)<Speaker>아흐민</Speaker>||<黑点1>:이런 때까지 투정 부려야겠어?+네가 좋든 싫든 안나는 이제 우리 동생이야, 우리가 잘 돌봐줘야 해. 알았어?
+()||<关闭蒙版><黑点2><BIN>129</BIN> :
+NPC-Ahmin(1)<Speaker>아흐민</Speaker>||<回忆>:안나, 우유 마시렴. 막 데운 거야.
+NPC-Ange(35)<Speaker>안나</Speaker>||:응, 고마워.
+NPC-Pamzan(2)<Speaker>람잔</Speaker>||:너 어디 가냐?
+NPC-Ange(33)<Speaker>안나</Speaker>||:......
+NPC-Pamzan(2)<Speaker>람잔</Speaker>||:또 마사 마이트너 보러 가지?
+NPC-Ange(33)<Speaker>안나</Speaker>||:너랑 무슨 상관인데.
+()||<SE1>AVG_bigglassbreak</SE1>:그 말에 람잔이 성질을 내며 안나 손의 우유컵을 쳐냈다.
+NPC-Ahmin(0)<Speaker>아흐민</Speaker>||:람잔?! 무슨 짓이야!
+NPC-Ange(33)<Speaker>안나</Speaker>||:......
+NPC-Pamzan(2)<Speaker>람잔</Speaker>||:그 망할 양키년 만나지 말라고 했잖아! 야!
+()||<黑点1><SE1>AVG_Door_Open_Close</SE1>:안나는 그를 무시하고, 가방을 들어 문을 박차고 나갔다.
+NPC-Ange(33)<Speaker>안나</Speaker>||<黑点2><BIN>654</BIN>:......
+NPC-Pamzan(3)<Speaker>람잔</Speaker>||:......
+()||:처음 만났던 날처럼, 두 사람은 멍하니 서로를 마주봤다.+아직도 청소되지 않은 교실은 사방이 만신창이에 바닥엔 말라붙은 혈흔으로 더러웠다.+두 사람의 시선은 그 말라붙은 피웅덩이에 단단히 고정됐다.
+NPC-Pamzan(3)<Speaker>람잔</Speaker>||:......+형은... 편하게 갔어.
+NPC-Ange(33)<Speaker>안나</Speaker>;NPC-Pamzan(3)||:......
+NPC-Ange(33);NPC-Pamzan(3)<Speaker>람잔</Speaker>||:보고 왔어. 머리에 총알 한 방으로 즉사, 고통을 느낄 새도 없이.
+NPC-Ange(33)<Speaker>안나</Speaker>;NPC-Pamzan(3)||:......
+NPC-Ange(33);NPC-Pamzan(3)<Speaker>람잔</Speaker>||:다른 사람들에 비하면 진짜 운 좋은 거야. 오늘 학교에서 몇 명이나 죽었는지 알아?+누구는 벌집이 됐고, 누구는 사람들한테 밟혀 죽었고, 누구는 숨만 겨우 붙은 채로 한참을 버티다...
+NPC-Ange(33)<Speaker>안나</Speaker>;NPC-Pamzan(3)||:......
+NPC-Ange(33);NPC-Pamzan(3)<Speaker>람잔</Speaker>||:그러니까... 형 정도면... 행운인......
+NPC-Ange(33)<Speaker>안나</Speaker>;NPC-Pamzan(3)||:......
+NPC-Ange(34)<Speaker>안나</Speaker>||:그럼 왜 울어?
+()||:람잔은 울먹이는 소리를 어떻게든 삼키려 했지만, 어떡해도 목이나 코로 새어나왔다.
+NPC-Ange(34)<Speaker>안나</Speaker>||:람잔...
+()||:안나는 조금 뻣뻣하게 다가갔다.
+()||<SE1>ClothingUp</SE1>:그리고 살며시 람잔을 끌어안고, 등을 토닥였다.
+NPC-Ange(34)<Speaker>안나</Speaker>||<黑点1>:큰오빠가 위로할 땐... 항상 이렇게 해 줬지...?
+()||<黑点2><BIN>652</BIN>:여러 명이 한자리에 똑같은 제복을 입고 서 있어도, 람잔은 한눈에 그녀를 알아봤다.
+NPC-Pamzan(4)<Speaker>람잔</Speaker>||:......?
+NPC-Ange(23)<Speaker>안나</Speaker>;NPC-Pamzan(4)||:...람잔?
+NPC-Ange(23);NPC-Pamzan(4)<Speaker>람잔</Speaker>||:너 왜 여기 있냐?
+NPC-Ange(23)<Speaker>안나</Speaker>;NPC-Pamzan(4)||:입대했으니까.
+NPC-Ange(23);NPC-Pamzan(6)<Speaker>람잔</Speaker>||:입대 하지 말라고 내가 말했잖아! 얌전히 집에 있으라고!
+NPC-Ange(24)<Speaker>안나</Speaker>;NPC-Pamzan(6)||:그래 그래 이것도 하지 말고 저것도 하지 말랬지.
+NPC-Ange(24);NPC-Pamzan(6)<Speaker>람잔</Speaker>||:대체 왜 내 말을 무시하냐고 너는! 집에서 편하게 살면 어디가 덧나냐!?
+NPC-Ange(24)<Speaker>안나</Speaker>;NPC-Pamzan(6)||:너한테 내 삶에 간섭할 권리 없어.
+NPC-Pamzan(6)<Speaker>람잔</Speaker>||:......
+()||:안나는 퉁명스럽게 경례하고 뒤돌아 떠났다.+멀어지는 그녀의 뒷모습을 보며, 람잔은 진한 생소함을 느꼈다.+온힘을 다해 지켜 주고팠던 여동생이, 자꾸만 발버둥치며 이젠 아예 둥지 밖으로 나가려 하니까.
+NPC-Pamzan(5)<Speaker>람잔</Speaker>||<黑屏1>:형... 형이라면... 이럴 때 어떻게 했을까...?
+()||<黑屏2><关闭蒙版><BIN>658</BIN><SE1>AVG_whitenoise</SE1><BGM>BGM_Empty</BGM>:오른쪽 관자놀이가 다시 지끈거려, 머릿속의 공중누각이 조금씩 무너지는 소리가 들리는 것만 같았다.
+NPC-Pamzan(10)<Speaker>람잔</Speaker><Position>0,-70</Position>||<BGM>BGM_23S_Winter_Night</BGM>:안나... 안나구나...
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+()||:람잔은 쓴웃음을 지으며 고개를 숙이고 피범벅인 자신의 두 손을 보았다.
+NPC-Pamzan(13)<Speaker>람잔</Speaker><Position>0,-70</Position>||:이제... 돌아갈 길은 없나...
+()||<SE2>Gunfight</SE2>:타타탕!+총알 몇 발이 그의 발치를 스쳐 안나에게서 물러나게 만들었다. "늑대들"이 드디어 뒤쫓아온 것이었다.
+NPC-Pamzan(10)<Speaker>람잔</Speaker><Position>0,-70</Position>||:......
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:안 돼... 기다려...!
+()||:안젤리아가 간신히 몸을 일으켰지만, 허약해진 그녀의 목소리는 울프팩에게 닿지 않았다.+그때, 람잔이 갑자기 웃음을 터뜨렸다. 쉬고 갈라지는 목소리로 웃으며, 그는 안젤리아에게서 더욱 멀어졌다.+그렇게 옥상의 가장자리로 뒷걸음질치며, 그는 그날 안나를 속였을 때처럼 짓궂게 웃어 보였다.
+NPC-Pamzan(12)<Speaker>람잔</Speaker><Position>0,-70</Position>||:흐흐흐... 아까 잘 못 들었으니까, 어디 오빠라고 다시 한번 불러 봐...
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:시끄러... 이 개새끼야...
+NPC-Pamzan(12)<Speaker>람잔</Speaker><Position>0,-70</Position>||:무서우면 눈 감던가.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:꺼져 진짜...
+()||:그는 뒷걸음질을 멈추지 않았다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:안 돼... 돌아와...!
+()||<SE1>Select</SE1>:그가 이미 탄약이 바닥난 총을 집어 안젤리아를 겨눴다.
+NPC-Pamzan(12)<Speaker>람잔</Speaker><Position>0,-70</Position>||<黑屏1>:여길 봐라, 안나!
+()||<BIN>7</BIN><回忆><黑屏2>:형이 외투를 가지러 간 사이, 람잔이 몰래 장난감 총을 꺼내 다시 안나에게 겨눴다.
+NPC-Pamzan(0)<Speaker>람잔</Speaker>||:여길 봐라, 안나!
+NPC-Ange(33)<Speaker>안나</Speaker>||:......
+()||:안나는 시큰둥한 표정으로 람잔에게 고개를 돌렸다.+그러자 람잔이 기다렸다는 듯 장난감 총의 방아쇠를 연달아 당겨, 플라스틱 총알이 안나의 발치에 떨어졌다.
+NPC-Pamzan(0)<Speaker>람잔</Speaker>||:...뭐야, 왜 도망 안 가냐? 시시하게.
+NPC-Ange(35)<Speaker>안나</Speaker>||:도망은 너나 치지.
+()||<黑屏1>:안나는 방금 돌멩이를 넣고 만든 눈뭉치를 주머니에서 꺼내, 정확하게 람잔의 손을 향해 던졌다.
+()<Speaker>람잔</Speaker>||<黑屏2><BIN>637</BIN><关闭蒙版>:그래... 내가 이번엔 오빠 노릇 제대로 해야지...
+()<Speaker>안젤리아</Speaker>||:......복수할게...+내가 꼭... 네 복수를 할게...
+()<Speaker>람잔</Speaker>||:흥, 하지 말래도 할 거면서.+됐다, 이 귀여운 구석 눈곱만큼도 없고 말도 안 들어 처먹는 동생아.
+()||:그는 여전히 웃으면서 안젤리아에게서 눈을 떼지 않았다.
+()<Speaker>안젤리아</Speaker>||:람잔...
+()||:기억이 떠올랐다.+그는 그날, 작전 도중 사망했다. 안나를 저승사자의 손아귀로부터 구하려고, 자신의 목숨을 바쳤다.+먼저 간 형이 함께 동생을 지켜주자 했으니까.
+()<Speaker>람잔</Speaker>||:......
+()||:기억이 떠올랐다.+안나는 죽어가는 그에게 엎어져 목놓아 울었고, 그녀의 뜨거운 눈물이 그의 얼굴에 떨어졌었다.+그 눈물의 온도도, 기억이 떠올랐다.
+()<Speaker>람잔</Speaker>||:내가 정말 아바돈에서 현세로 돌아온 줄 알았는데... 착각이었구나.
+()||:여전히 미소지으며, 람잔은 안젤리아를 향해 손을 내밀었다. 그날, 졸업식 파티 때처럼.
+()<Speaker>람잔</Speaker><Position>0,-70</Position>||:이만 간다.+세상 반대편에서 기다리고 있을게.
+()<Speaker>안젤리아</Speaker>||<黑屏1>:오래 기다리진... 않을 거야...
+()||<黑屏2><BIN>638</BIN><SE1>AVG_wind_grass</SE1>:바람이 불었다.+옥상 끝자락에 선 람잔은, 이 여명의 바람에 몸을 맡기고 무저갱을 향해 몸을 뒤로 기울였다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||<SE1>Stop_AVG_loop</SE1><BGM>BGM_Empty</BGM>:오빠...
+()||:안젤리아의 힘없는 부름을 마지막으로, 람잔은 사라졌다.+여명은 어둠을 가르고 하늘을 다시 빛으로 채웠다.+드리우는 새하얀 빛은 어둠을 내쫓고 그림자를 집어삼켰다.
+AN94(2)<Position>0,50</Position><Speaker>AN94</Speaker>||<震屏><BGM>GF_22W_BGM_2</BGM>:안젤리아! 출혈이 심각해...+당장 응급 처치를 해야...!
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+()||:심각한 부상에 당황한 AN-94가 안젤리아를 부축하고 압박 붕대로 상처를 지혈했다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:AK-12...
+AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:응.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:여기... 모조리 터뜨려 버려...
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:......
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:그거 좋지, 하지만 왜?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:지금부터, 이 세상엔 "람잔"도, "안나"도 없어.+"강글라티"와 "지휘관 안젤리아"도 존재한 적 없다.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:오우, 폭발로 복수를 마무리한다? 의외로 낭만적인 구석이 있었네.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<黑屏1>:......
+()||<黑屏2><BIN>55</BIN>:AN-94는 안젤리아를 등에 업고 위태로운 건물에서 신속히 벗어났다.+AK-12도 빠르게 폭탄 설치를 마치고 그 뒤를 따랐다.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:보자~ 안젤리아는 자폭 버튼을 직접 누르는 타입이지?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:어, 내놔.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:......
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:참, 아까 네가 말한 거 말고 다른 것도 여기다 묻는 건 어때?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:뭘?
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:"울프팩". 나 이 이름 너무 싫어.+들을 때마다 보기 싫은 얼굴이 자꾸만 떠오른단 말이야.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:그 얼굴이란 건 혹시...
+NPC-Ange(20)<Speaker>안젤리아</Speaker>||:그럼... "리벨리온"으로 하자.
+()||:안젤리아는 눈꺼풀을 닫고, AN-94의 어깨에 머리를 기댔다.
+NPC-Ange(21)<Speaker>안젤리아</Speaker>||:우리는 앞으로, 빛을 등지고 어둠의 길을 걷는다.+이 세상의 교리와 규칙에 반기를 들고, 우리의 뜻대로 움직인다.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:"반역"이라... 마음에 드네.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:이견 없다.
+()||<SE1>AVG_2022Saros_button</SE1>:안젤리아는 가볍게 미소짓고, 손 안의 스위치를 눌렀다.
+()||<黑屏2><BIN>9</BIN><SE1>AVG_Explo_Distance</SE1><黑屏1>:콰아앙!
+()||<narrator><黑屏2><白屏1>:......+내 선물이 마음에 들어?+그래, 아주 마음에 들어. 내 성질에 불이 붙을 만큼.+아바돈, 지옥에서 네가 오길 기다리마.+라플라스, 너는 내 손으로, 내 방식으로 끝내 주겠어.
+()||<BIN>183</BIN><SE1>AVG_Rain_Heavy</SE1><common_effect>%%code=NoiseVideo%%wait=1%%</common_effect>:
+()||<白屏2><BIN>641</BIN><SE1>Stop_AVG_loop</SE1>:
+()<Speaker>？？？？</Speaker>||:기억을 몇 번이고 잃어도, 곁의 인물이 어떻게 바뀌어도, 너는 언제나 네 결정을 결코 바꾸는 법이 없구나.+과연 내 제자야.
+()<Speaker>？？？</Speaker>||:당신은 그녀에 대해 좀 모르는 것 같네요.
+()<Speaker>？？？？</Speaker>||<黑屏1>:조금 아쉽지만, 원래 인간이란 다 그런 거야. 스스로는 잘 안다 생각해도, 실제로는 전혀 아닐 때가 많지. 그래도 다행히, 우리에겐 시간이 아주 많아.
+()||<黑屏2><BIN>9</BIN><narrator><黑屏1>:친애하는 마이트너에게.+이렇게 오랜만에 당신에게서 연락을 받을 줄은 몰랐네요.+참 기쁘면서도 속상한 일이에요, 우리의 우정에 이미 금이 가 버린 뒤니...+당신은 여전히 눈부시게 강인하고, 용기 있고, 고집 있죠. 여전히 뜨거운 피를 가지고 앞으로 나아가고 있죠.+하지만, 당신은 이미 잘못된 길을 들었어요.+더는 당신과는 같은 길을 걷지 않아요. 미안하지만, 이 계획에 참여하는 것은 거절하겠어요.+2058년 베를린에서, 블랙웰이.

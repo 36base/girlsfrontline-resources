@@ -1,0 +1,70 @@
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>534</BIN><narrator>:"서머 가든".
+()||<SE1>AVG_House</SE1>:사삭... 사삭...
+()||<BGM>GF_2022_Summer_AVG_2</BGM>:오후의 따뜻한 바람이 정원 안의 나무에 불어, 나뭇잎이 흔들리고 서로 스쳐 마음이 편해지는 소리가 났다.
+()||<SE1>AVG_footsteps_cave</SE1>:엘마는 바람과 함께, 기나긴 관목의 아치를 지났다.
+()||<SE1>Stop_AVG_loop</SE1>:아치 끝으로 하얀 대리석 조각상이 어렴풋이 보였다.+마치 여신의 모습 같은...
+()||<SE1>AVG_Spanner</SE1>:끼이익...+굳게 닫혔던 문은 더 이상 잠겨 있지 않았고, 가볍게 살짝 밀자 너무나도 쉽게 활짝 열렸다.
+()||<SE1>AVG_footsteps_cave</SE1>:엘마는 그 여신상에게 다가갔다.
+()||<SE1>Stop_AVG_loop</SE1>:그러자, 여신이 돌아보았다. 여신은 엘마에게 무척이나 익숙한 얼굴이였다.
+AR18(3)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......+엘마.
+AR18(3)<Position>0,70</Position>;Erma(2)<Speaker>엘마</Speaker>||:네가 왜 여기 있어?
+AR18(3)<Speaker>류드밀라</Speaker><Position>0,70</Position>;Erma(2)||:벌써 잊었어?+네가 나한테 열쇠를 줬잖아. "류드밀라"라 이름 지은 열쇠를.
+AR18(3)<Position>0,70</Position>;Erma(2)<Speaker>엘마</Speaker>||:백업 안 한다더니...
+AR18(3)<Speaker>류드밀라</Speaker><Position>0,70</Position>;Erma(2)||:...여기에 물건을 뒀어.
+AR18(3)<Position>0,70</Position>;Erma(1)<Speaker>엘마</Speaker>||:그럼 나중에 가지러 올 거야?
+AR18(3)<Speaker>류드밀라</Speaker><Position>0,70</Position>;Erma(1)||:...미안해.
+AR18(3)<Position>0,70</Position>;Erma(1)<Speaker>엘마</Speaker>||:그 말 듣기 싫어! 제일 싫어!+질리도록 들었단 말이야... 다 나한테 미안하대.+모두 자아를 가졌는데...+다 앞으로 나아가는데...+나만...+왜 나만...+왜 항상 나만 잊어버리는데!+왜 나만 항상 헤매고 다니는데!+나만 항상 바보처럼, 남의 꽁무니만 따라다니고...!
+AR18(3)<Position>0,70</Position>;Erma(3)<Speaker>엘마</Speaker>||:미워! 네가 미워!
+AR18(5)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:......
+()||<SE1>RunStep</SE1>:엘마는 관목 아치로 달렸다.
+()||<SE1>AVG_AMB_Wind</SE1>:휘이이――+서머 가든의 바람은 더는 상냥하게 뺨을 어루만지지 않았다.+점점 거세지고, 난폭해져...+휘몰아치는 돌풍이 되었다.
+AR18(5)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:엘마!
+()||:류드밀라는 엘마를 붙잡으려고 손을 뻗었다.+하지만...
+()||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_lifttable</SE1>:서머 가든이 점점 무너져 내렸다.+집은 폐허가 되었다.+그리고 그 폐허 속에서 석고상들이 솟아올랐다.
+ColtWalker(4)<Speaker>매기</Speaker>||:......+엘마, 위험해.
+()<Speaker>아서 흄</Speaker>||:......+엘마, 위험해.
+AR18(5)<Speaker>류드밀라</Speaker><Position>0,70</Position>||:――위험해!+엘마!
+Erma(3)<Speaker>엘마</Speaker>||:......
+()||<SE1>ClothingUp</SE1>:그녀는 손을 뻗었다.+햇빛이 자신의 새하얀 팔을 비추는 것을 보았다.+팔은, 점점 사라졌다.
+()||<SE1>AVG_Thunder_Dry</SE1>:멀리, 서머 가든의 끝에서, 폭풍 같은 파동이 조용한 정원을 갈아엎었다.+쿠르릉――+천둥소리와 함께, 풀밭도, 수풀도, 전부 망가져 갔다.
+Erma(3)<Speaker>엘마</Speaker>||:...그래, 나 화 풀렸어.+너희가 미운 게 아니야.+난... 그냥 나 자신이 미워.+이렇게 너희를 잊어버리는 내가 미워...
+()||<SE1>Explode</SE1>:콰앙!!
+()||<黑屏1>:
+()||<黑屏2><BIN>9</BIN><SE1>Stop_AVG_loop</SE1>:서머 가든의 문이 다시 닫혔다.+아무리 해가 뜨고 달이 져도.+아무리 계절이 바뀌어도.+아무리 세월이 흐르고 흘러, 세상이 멸망하더라도.+난 반드시 여기로 다시 돌아올 거야.+다시 너희를 기억해낼 거야.
+()||<BGM>BGM_Empty</BGM>:......
+()||<黑屏1>:
+()||<黑屏2><BIN>529</BIN><narrator>:대륙간 열차 "미래호", F02호 객차
+98KMod(0)<Speaker>Kar98K</Speaker>||<BGM>m_avg_hope</BGM>:...통신 확인.+여기는 "엘모 호" 선행 부대.+타입 불명의 니토 1체를 발견, 무력화 처리하였습니다.
+()<Speaker>지휘관</Speaker>||:<color=#00CCFF>독일 정부가 보낸 구조대도 곧 도착할 거다.</color>+<color=#00CCFF>민간인 생존자들의 수를 확인하고 인수인계 준비해.</color>+<color=#00CCFF>인수인계가 끝나면 복귀하도록.</color>
+98KMod(0)<Speaker>Kar98K</Speaker>||:네.
+()||<SE1>AVG_tele_disconnect</SE1>:삐빅.+Kar98K는 통신을 종료하고, 뒤에 있는 동료에게 고개를 돌렸다.
+98KMod(0)<Speaker>Kar98K</Speaker>||:리엔필드?
+()||<SE1>ClothingUp</SE1>:리엔필드는 무릎을 굽혀 작은 소녀와 눈높이를 맞췄다.
+MLEMK1Mod(0)<Speaker>리엔필드</Speaker><Position>0,70</Position>||:이름을 알 수 있겠습니까?
+Erma(0)<Speaker>엘마</Speaker>||:저는 엘마예요.+저를 그리폰에 데려가 주세요.
+()||:리엔필드와 Kar98K는 서로 마주보고 어리둥절했다.
+98KMod(0)<Speaker>Kar98K</Speaker>||:무슨 일이 있었나요?
+Erma(0)<Speaker>엘마</Speaker>||:...기억이 안 나요.+...응? 어라? 왜 내가 그런 말을...?
+MLEMK1Mod(0)<Speaker>리엔필드</Speaker><Position>0,70</Position>||:그럼 저희와 함께 그리폰에 돌아가겠습니까?
+Erma(0)<Speaker>엘마</Speaker>||:...네.
+()||<SE1>ClothingUp</SE1>:엘마는 손을 내밀어 리엔필드의 손을 잡았다.
+()||<SE1>AVG_footsteps_cave</SE1>:그리고 두 인형들을 따라 열차에서 내렸다.+숲을 불태우던 불길은 이미 꺼진지 오래였고, 지평선 너머로 동이 트며 나아갈 길을 밝혀 주었다.
+()||<SE1>Stop_AVG_loop</SE1>:그때 뭔가 떠오른 듯, 엘마는 고개를 숙이곤 중얼댔다.
+Erma(1)<Speaker>엘마</Speaker>||:뭔가 중요한 걸 잊어버린 것 같아...
+()||:......
+()||<黑屏1><BGM>BGM_Empty</BGM>:
+()||<黑屏2><BIN>85</BIN><narrator>:독일 베를린, 임시 지휘소.
+()||<BGM>BGM_Sneak</BGM><SE1>AVG_tele_disconnect</SE1>:삐빅.+지휘관은 통신과 모니터를 끄고 일어나 뒤로 돌았다.
+AR15Mod(0)<Speaker>AR15</Speaker>||:어떻게 됐어요...?
+()||:문앞에는 AR-15가 서 있었다. 그녀의 표정은 놀라울 정도로 침착했다.+그 잠수함 기지를 벗어나고, M4A1이 떠난 뒤로, AR-15가 이토록 침착한 것은 정말 오랜만이었다.
+()||<SE1>ClothingUp</SE1>:지휘관은 고개를 끄덕였다.
+()<Speaker>지휘관</Speaker>||:"대공"을 확인했어.+"이고르" 계획 최종 단계 돌입이야.
+AR15Mod(3)<Speaker>AR15</Speaker>||:드디어...
+()||:매우 침착하던 AR-15이 몸을 부르르 떨었다.+하지만 그것도 잠깐, 바로 긴 숨을 내쉬었다.
+AR15Mod(5)<Speaker>AR15</Speaker>||:...가서 준비하겠습니다.
+()||<SE1>AVG_20Winter_Door_Open</SE1>:그녀는 약 2초 정도 문과 씨름해 열고서 곧장 사라졌다.
+()<Speaker>지휘관</Speaker>||<SE1>AVG_footsteps_woodfloor</SE1>:......
+()||<SE1>Stop_AVG_loop</SE1><SE2>AVG_File_Put</SE2>:그런 AR-15를 말없이 지켜본 지휘관은 다시 의자에 앉았다.
+()||<SE1>ClothingUp</SE1>:그리고 검지와 엄지로 콧등을 문지르며 눈을 감았다.+'이제 끝이다, 패러데우스.'+'이제 지옥으로 떨어질 때다.'
+()||<黑点1>:

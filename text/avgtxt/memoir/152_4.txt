@@ -1,60 +1,60 @@
-()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......
-()<Speaker>？？？</Speaker>||:이제 괜찮아.+눈 뜰 수 있겠어?
-()<Speaker>이반</Speaker>||:......
-()<Speaker>이반</Speaker>||<BIN>167</BIN><睁眼>:나, 난 대체...
-M1887(0)<Speaker>？？？</Speaker>||:다친 데는 없는 거 같아서 다행이네.
-M1887(0)<Speaker>이반</Speaker>||:너는?
-M1887(0)<Speaker>M1887</Speaker>||:자기소개가 늦어서 미안, M1887이라고 해.+내가 오기로 했던 전술인형이야. 단지, 네 작전 신호를 좀처럼 받지 못했어.
-M1887(0)<Speaker>이반</Speaker>||:통신을 진짜 엉뚱한 데다 보냈구만...+참, 그 가정부 인형은?!
-M1887(0)<Speaker>M1887</Speaker>||:가정부? 아, M1897 말이구나.+그 애는 오늘 정말 가정부 일 때문에 나온 거라, 오해할 만했네.
-M1887(0)<Speaker>이반</Speaker>||:응?
-M1887(0)<Speaker>M1887</Speaker>||:오늘 운이 정말 좋았어, 이반 경관.+사실 걔도 나와 같은 그리폰의 전술인형이거든. 가정부 일은 취미지.+아무래도 오해가 있었나 본데, 결과적으론 소 뒷걸음치다 쥐 잡은 격이라 해야겠지.+현장의 조직 관계자들은 전부 그 애가 해치웠어. 덕분에 네가 위장 잠입해 모시던 보스도 붙잡았고. 아무튼 수고했어.
-M1887(0)<Speaker>이반</Speaker>||:......
-M1887(0)<Speaker>M1887</Speaker>||:못 믿겠단 표정이네?
-M1887(0)<Speaker>이반</Speaker>||:아니, 내 두 눈으로 똑똑히 봤으니...+그럼, 지금 어디 있지?
-M1887(0)<Speaker>M1887</Speaker>||:진정시키고 그리폰으로 돌려보냈어.
-M1887(0)<Speaker>이반</Speaker>||:......그렇군.+괜찮다면, 그 녀석한테 대신 고맙다 전해줄 수 있겠어?+일이 좀 꼬여버리긴 했지만, 내 목숨을 구해 준 건 사실이니.
-M1887(0)<Speaker>M1887</Speaker>||:그럴게.
-()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>8</BIN><BGM>BGM_Hello</BGM>:얼마 후, 그리폰 지휘실.
-()<Speaker>방송</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>[변방지대 조사에 새로운 진전이 있었다는 소식입니다. 탐험단의 대변인은 어제 기자회견에서...]</color>
-()<Speaker>지휘관</Speaker>||:흠.
-()<Speaker>방송</Speaker>||:<color=#00CCFF>[N64 구역의 새 주거지 개발 계획에 관하여, 구역 책임자는 착공식에서 다음과 같이 발표하였습니다.]</color>
-()<Speaker>지휘관</Speaker>||:흠흠...
-NPC-Kalin(1)<Speaker>카리나</Speaker>||<SE1>AVG_door_elecport</SE1>:지휘관님, 좋은 아침이에요!
-NPC-Kalin(1)<Speaker>지휘관</Speaker>||:안녕, 카리나. 킁킁... 오, 커피네?
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:히히, 제 기막힌 솜씨에 놀라지나 마시라구요.+지금 뉴스 보세요?
-NPC-Kalin(0)<Speaker>지휘관</Speaker>||:응, 당장 할 일도 딱히 없어서.
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:참, 저번의 M1897에 관해서 말인데요...
-NPC-Kalin(0)<Speaker>지휘관</Speaker>||:M1897? 걔가 왜?
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:그 애한테 좀 너무한 말 하셨단 생각 안 드세요?
-NPC-Kalin(0)<Speaker>지휘관</Speaker>||:그게 무슨... 아, 너무 청소에만 열중하지 말라고 했던 거?
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:네!
-NPC-Kalin(0)<Speaker>지휘관</Speaker>||:그건 격려하려고 한 말이었지, M1897은 작전 수행 능력이 좋지만 항상 자기 취미에만 빠져있잖아. 특히나 위생 쪽으로 호들갑이 심하고.
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:그건 그렇지만요...
-NPC-Kalin(0)<Speaker>지휘관</Speaker>||:마인드맵 업그레이드를 배정해 준 것도 그래서인데... 그러고 보니 슬슬 때가 됐네. M1897은?
-NPC-Kalin(0)<Speaker>카리나</Speaker>||:아직 못 봤어요, M1887한테 듣기론 엄청 큰 일을 해냈다던데요?
-NPC-Kalin(0)<Speaker>지휘관</Speaker>||:큰 일? 하루만에 처리한 청소 의뢰 건수 신기록이라도 세웠나...+으음... 오, 커피 맛 좋은데?
-()<Speaker>방송</Speaker>||:<color=#00CCFF>[다음 소식입니다.]</color>+<color=#00CCFF>[지하 범죄조직의 무기 밀매 현장을, 그리폰&크루거 안전계약사의 전술인형 M1897이 단독으로 급습, 전원 검거했다고 합니다.]</color>
-()<Speaker>지휘관</Speaker>||<震屏3><BGM>BGM_Pause</BGM><SE1>AVG_splash_water</SE1>:푸웃——!!
-NPC-Kalin(2)<Speaker>카리나</Speaker>||:와악! 괜찮으세요?!
-NPC-Kalin(2)<Speaker>지휘관</Speaker>||<BGM>BGM_UnPause</BGM>:콜록콜록... 괘, 괜찮아...
-NPC-Kalin(2)<Speaker>카리나</Speaker>||:괜찮으시다니 다행인데, 히잉 내 커피가아...
-()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:......
-M1897Mod(0)<Speaker>M1897</Speaker>||:지휘관님~ 아앗! 커피 쏟으시면 어떡해요!
-M1897Mod(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:어라? M1897, 너 언제 업그레이드받았어?
-M1897Mod(0)<Speaker>M1897</Speaker>||:이거요? 오늘 일어나 보니까 이렇게 되었더라고요. 아니, 그보다!+지휘관님! 커피는 얼룩지기 쉬운데 닦아내기도 힘들단 말이에요! 조심하세요!
-M1897Mod(0)<Speaker>지휘관</Speaker>||:아... 미안 미안.
-()<Speaker>방송</Speaker>||:<color=#00CCFF>——현장에 나온 XXX 기자입니다. 이번 검거 작전을 맡으신 N64 구역 경찰청의 경위님을 모셨습니다.</color>+<color=#00CCFF>먼저, 경위로 진급 축하드립니다. 이번 작전에 대해서 말씀해 주실 수 있을까요?</color>
-()<Speaker>방송</Speaker>||:<color=#00CCFF>감사합니다.</color>+<color=#00CCFF>이번 작전에 대해 말하려면, 그리폰&크루거 안전계약사의 공로를 빼놓을 수가 없겠죠.</color>+<color=#00CCFF>특히, 이번 작전에서 활약한 전술인형 M1897은 제게 인형이 우리 사회와 인류에게 얼마나 기여할 수 있는지에 대한 새로운 가능성을 보여 주었습니다.</color>+<color=#00CCFF>M1897 양의 공헌을 치하하는 의미에서, 저 개인적으로도 그리폰 사측 상층부에 포상 지급을 건의했습니다.</color>
-()<Speaker>지휘관</Speaker>||:......
-M1897Mod(0)<Speaker>M1897</Speaker>||<SE1>ClothingUp</SE1>:후아, 다 닦았다.+...어라? 지휘관님, 왜 그러세요? 더 청소할 데가 있나요?
-M1897Mod(0)<Speaker>지휘관</Speaker>||:아니, 아무것도 아니야.+청소 정말 잘했어.
-M1897Mod(0)<Speaker>M1897</Speaker>||:헤헤, 그야 당연하죠!
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:......
-M1897Mod(0)<Speaker>M1897</Speaker>||:앗, 언니다!+저번에 같이 사회공익활동 하러 가자고 했지... 빠지고 싶은데...+그래도 가봐야겠지...+지휘관님, 꼭 청결에 신경쓰셔야 해요! 언제든지 보러 올 거예요~!
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:M1897은 기지개를 켠 후, 청소 도구를 챙기고 지휘실을 나섰다.
-NPC-Kalin(1)<Speaker>카리나</Speaker>||:참 대단한 일을 했네요.+...본인은 전혀 모르는 모양이지만.
-NPC-Kalin(1)<Speaker>지휘관</Speaker>||:어찌 됐든 좋은 일이지.+저 애가 확실히 성장했으니까.
-()||<黑屏1>:
+()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
+()<Speaker></Speaker>||<黑屏2><BIN>9</BIN>:......
+()<Speaker>？？？</Speaker>||:이제 괜찮아.+눈 뜰 수 있겠어?
+()<Speaker>이반</Speaker>||:......
+()<Speaker>이반</Speaker>||<BIN>167</BIN><睁眼>:나, 난 대체...
+M1887(0)<Speaker>？？？</Speaker>||:다친 데는 없는 거 같아서 다행이네.
+M1887(0)<Speaker>이반</Speaker>||:너는?
+M1887(0)<Speaker>M1887</Speaker>||:자기소개가 늦어서 미안, M1887이라고 해.+내가 오기로 했던 전술인형이야. 단지, 네 작전 신호를 좀처럼 받지 못했어.
+M1887(0)<Speaker>이반</Speaker>||:통신을 진짜 엉뚱한 데다 보냈구만...+참, 그 가정부 인형은?!
+M1887(0)<Speaker>M1887</Speaker>||:가정부? 아, M1897 말이구나.+그 애는 오늘 정말 가정부 일 때문에 나온 거라, 오해할 만했네.
+M1887(0)<Speaker>이반</Speaker>||:응?
+M1887(0)<Speaker>M1887</Speaker>||:오늘 운이 정말 좋았어, 이반 경관.+사실 걔도 나와 같은 그리폰의 전술인형이거든. 가정부 일은 취미지.+아무래도 오해가 있었나 본데, 결과적으론 소 뒷걸음치다 쥐 잡은 격이라 해야겠지.+현장의 조직 관계자들은 전부 그 애가 해치웠어. 덕분에 네가 위장 잠입해 모시던 보스도 붙잡았고. 아무튼 수고했어.
+M1887(0)<Speaker>이반</Speaker>||:......
+M1887(0)<Speaker>M1887</Speaker>||:못 믿겠단 표정이네?
+M1887(0)<Speaker>이반</Speaker>||:아니, 내 두 눈으로 똑똑히 봤으니...+그럼, 지금 어디 있지?
+M1887(0)<Speaker>M1887</Speaker>||:진정시키고 그리폰으로 돌려보냈어.
+M1887(0)<Speaker>이반</Speaker>||:......그렇군.+괜찮다면, 그 녀석한테 대신 고맙다 전해줄 수 있겠어?+일이 좀 꼬여버리긴 했지만, 내 목숨을 구해 준 건 사실이니.
+M1887(0)<Speaker>M1887</Speaker>||:그럴게.
+()||<黑屏1>:
+()<Speaker></Speaker>||<黑屏2><BIN>8</BIN><BGM>BGM_Hello</BGM>:얼마 후, 그리폰 지휘실.
+()<Speaker>방송</Speaker>||<SE1>AVG_tele_connect</SE1>:<color=#00CCFF>[변방지대 조사에 새로운 진전이 있었다는 소식입니다. 탐험단의 대변인은 어제 기자회견에서...]</color>
+()<Speaker>지휘관</Speaker>||:흠.
+()<Speaker>방송</Speaker>||:<color=#00CCFF>[N64 구역의 새 주거지 개발 계획에 관하여, 구역 책임자는 착공식에서 다음과 같이 발표하였습니다.]</color>
+()<Speaker>지휘관</Speaker>||:흠흠...
+NPC-Kalin(1)<Speaker>카리나</Speaker>||<SE1>AVG_door_elecport</SE1>:지휘관님, 좋은 아침이에요!
+NPC-Kalin(1)<Speaker>지휘관</Speaker>||:안녕, 카리나. 킁킁... 오, 커피네?
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:히히, 제 기막힌 솜씨에 놀라지나 마시라구요.+지금 뉴스 보세요?
+NPC-Kalin(0)<Speaker>지휘관</Speaker>||:응, 당장 할 일도 딱히 없어서.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:참, 저번의 M1897에 관해서 말인데요...
+NPC-Kalin(0)<Speaker>지휘관</Speaker>||:M1897? 걔가 왜?
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:그 애한테 좀 너무한 말 하셨단 생각 안 드세요?
+NPC-Kalin(0)<Speaker>지휘관</Speaker>||:그게 무슨... 아, 너무 청소에만 열중하지 말라고 했던 거?
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:네!
+NPC-Kalin(0)<Speaker>지휘관</Speaker>||:그건 격려하려고 한 말이었지, M1897은 작전 수행 능력이 좋지만 항상 자기 취미에만 빠져있잖아. 특히나 위생 쪽으로 호들갑이 심하고.
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:그건 그렇지만요...
+NPC-Kalin(0)<Speaker>지휘관</Speaker>||:마인드맵 업그레이드를 배정해 준 것도 그래서인데... 그러고 보니 슬슬 때가 됐네. M1897은?
+NPC-Kalin(0)<Speaker>카리나</Speaker>||:아직 못 봤어요, M1887한테 듣기론 엄청 큰 일을 해냈다던데요?
+NPC-Kalin(0)<Speaker>지휘관</Speaker>||:큰 일? 하루만에 처리한 청소 의뢰 건수 신기록이라도 세웠나...+으음... 오, 커피 맛 좋은데?
+()<Speaker>방송</Speaker>||:<color=#00CCFF>[다음 소식입니다.]</color>+<color=#00CCFF>[지하 범죄조직의 무기 밀매 현장을, 그리폰&크루거 안전계약사의 전술인형 M1897이 단독으로 급습, 전원 검거했다고 합니다.]</color>
+()<Speaker>지휘관</Speaker>||<震屏3><BGM>BGM_Pause</BGM><SE1>AVG_splash_water</SE1>:푸웃——!!
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:와악! 괜찮으세요?!
+NPC-Kalin(2)<Speaker>지휘관</Speaker>||<BGM>BGM_UnPause</BGM>:콜록콜록... 괘, 괜찮아...
+NPC-Kalin(2)<Speaker>카리나</Speaker>||:괜찮으시다니 다행인데, 히잉 내 커피가아...
+()<Speaker></Speaker>||<SE1>AVG_door_elecport</SE1>:......
+M1897Mod(0)<Speaker>M1897</Speaker>||:지휘관님~ 아앗! 커피 쏟으시면 어떡해요!
+M1897Mod(0);NPC-Kalin(2)<Speaker>카리나</Speaker>||:어라? M1897, 너 언제 업그레이드받았어?
+M1897Mod(0)<Speaker>M1897</Speaker>||:이거요? 오늘 일어나 보니까 이렇게 되었더라고요. 아니, 그보다!+지휘관님! 커피는 얼룩지기 쉬운데 닦아내기도 힘들단 말이에요! 조심하세요!
+M1897Mod(0)<Speaker>지휘관</Speaker>||:아... 미안 미안.
+()<Speaker>방송</Speaker>||:<color=#00CCFF>——현장에 나온 XXX 기자입니다. 이번 검거 작전을 맡으신 N64 구역 경찰청의 경위님을 모셨습니다.</color>+<color=#00CCFF>먼저, 경위로 진급 축하드립니다. 이번 작전에 대해서 말씀해 주실 수 있을까요?</color>
+()<Speaker>방송</Speaker>||:<color=#00CCFF>감사합니다.</color>+<color=#00CCFF>이번 작전에 대해 말하려면, 그리폰&크루거 안전계약사의 공로를 빼놓을 수가 없겠죠.</color>+<color=#00CCFF>특히, 이번 작전에서 활약한 전술인형 M1897은 제게 인형이 우리 사회와 인류에게 얼마나 기여할 수 있는지에 대한 새로운 가능성을 보여 주었습니다.</color>+<color=#00CCFF>M1897 양의 공헌을 치하하는 의미에서, 저 개인적으로도 그리폰 사측 상층부에 포상 지급을 건의했습니다.</color>
+()<Speaker>지휘관</Speaker>||:......
+M1897Mod(0)<Speaker>M1897</Speaker>||<SE1>ClothingUp</SE1>:후아, 다 닦았다.+...어라? 지휘관님, 왜 그러세요? 더 청소할 데가 있나요?
+M1897Mod(0)<Speaker>지휘관</Speaker>||:아니, 아무것도 아니야.+청소 정말 잘했어.
+M1897Mod(0)<Speaker>M1897</Speaker>||:헤헤, 그야 당연하죠!
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:......
+M1897Mod(0)<Speaker>M1897</Speaker>||:앗, 언니다!+저번에 같이 사회공익활동 하러 가자고 했지... 빠지고 싶은데...+그래도 가봐야겠지...+지휘관님, 꼭 청결에 신경쓰셔야 해요! 언제든지 보러 올 거예요~!
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:M1897은 기지개를 켠 후, 청소 도구를 챙기고 지휘실을 나섰다.
+NPC-Kalin(1)<Speaker>카리나</Speaker>||:참 대단한 일을 했네요.+...본인은 전혀 모르는 모양이지만.
+NPC-Kalin(1)<Speaker>지휘관</Speaker>||:어찌 됐든 좋은 일이지.+저 애가 확실히 성장했으니까.
+()||<黑屏1>:
